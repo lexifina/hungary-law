@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-547-20-
 | 2023-07-26 | 2013-547-20-22.16 | 85/2014. (III. 18.) Korm. rendelet |
 | 2024-01-01 | 2013-547-20-22.17 | 203/2014. (VIII. 14.) Korm. rendelet |
 | 2024-08-01 | 2013-547-20-22.18 | 203/2014. (VIII. 14.) Korm. rendelet |
+| 2024-10-01 | 2013-547-20-22.19 | 85/2014. (III. 18.) Korm. rendelet |

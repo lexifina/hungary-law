@@ -1898,7 +1898,7 @@ d) a szállítói előleg maximális összege.
 
 187.1. A szállítói előlegre eső támogatás – 100%-os támogatási intenzitás alkalmazása esetén a szállítói előleg – folyósítása minden esetben a fővállalkozó részére történik.
 
-187.2. Az építési beruházások közbeszerzésének részletes szabályairól szóló 306/2011. (XII. 23.) Korm. rendelet [a továbbiakban: 306/2011. (XII. 23.) Korm. rendelet] 14. §-a szerinti, 2015. november 1-jét megelőzően megindított építési beruházás, illetve építési koncesszió tekintetében felmerülő, az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény (a továbbiakban: Étv.) 39/A. § (6) bekezdése szerinti, valamint a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) 135. § (3)–(4) bekezdése szerinti kifizetések esetében a szállítói előleg-elszámolást az alvállalkozóknak járó ellenszolgáltatással és a fővállalkozónak járó ellenszolgáltatással szemben arányosan kell elszámolni.
+187.2. Az építési beruházások közbeszerzésének részletes szabályairól szóló 306/2011. (XII. 23.) Korm. rendelet [a továbbiakban: 306/2011. (XII. 23.) Korm. rendelet] 14. §-a szerinti, 2015. november 1-jét megelőzően megindított építési beruházás, illetve építési koncesszió tekintetében felmerülő, a magyar építészetről szóló 2023. évi C. törvény (a továbbiakban: Méptv.) 188. § (5) és (6) bekezdése szerinti, valamint a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) 135. § (3)–(4) bekezdése szerinti kifizetések esetében a szállítói előleg-elszámolást az alvállalkozóknak járó ellenszolgáltatással és a fővállalkozónak járó ellenszolgáltatással szemben arányosan kell elszámolni.
 
 188.1. A szállítói előleggel való elszámolás rész-, illetve végszámlával történik.
 
@@ -2292,11 +2292,11 @@ b) az időszakos beszámoló időközi kifizetési igénylés nélkül kerül be
 
 222.2. A szállítói finanszírozású projektelemeket a támogatási szerződésben meg kell határozni. A szállítói finanszírozási mód keretében elszámolható költségek típusát és összegét a támogatási szerződés tartalmazza.
 
-106. Építési beruházás, illetve építési koncesszió vonatkozásában 2015. november 1-jét megelőzően megindított közbeszerzési eljárások, illetve azok alapján megkötött szerződésekre, valamint az Étv. hatálya alá tartozó építési beruházások esetén alkalmazandó különös finanszírozási szabályok szállítói finanszírozás esetén
+106. Építési beruházás, illetve építési koncesszió vonatkozásában 2015. november 1-jét megelőzően megindított közbeszerzési eljárások, illetve azok alapján megkötött szerződésekre, valamint a Méptv. hatálya alá tartozó építési beruházások esetén alkalmazandó különös finanszírozási szabályok szállítói finanszírozás esetén
 
-223.1. Építési beruházás, illetve építési koncesszió vonatkozásában 2015. november 1-jét megelőzően megindított közbeszerzési eljárások, illetve azok alapján megkötött szerződések esetén a 306/2011. (XII. 23.) Korm. rendelet 14. §-át, az Étv. hatálya alá tartozó építési beruházások esetén az Étv. 39/A. § (6) bekezdését megfelelően alkalmazni kell.
+223.1. Építési beruházás, illetve építési koncesszió vonatkozásában 2015. november 1-jét megelőzően megindított közbeszerzési eljárások, illetve azok alapján megkötött szerződések esetén a 306/2011. (XII. 23.) Korm. rendelet 14. §-át, a Méptv. hatálya alá tartozó építési beruházások esetén a Méptv. 188. § (5) és (6) bekezdését megfelelően alkalmazni kell.
 
-223.2. A 306/2011. (XII. 23.) Korm. rendelet 14. §-a, valamint az Étv. 39/A. § (6) bekezdése értelmében a fővállalkozó mindaddig nem jogosult saját teljesítésének ellenértékére, amíg a teljesítésben részt vevő alvállalkozókat, illetve a velük munkaviszonyban vagy egyéb foglalkoztatási jogviszonyban álló szakembereket (a továbbiakban: alvállalkozók) az ellenszolgáltatásból megillető rész tekintetében (a kedvezményezett vagy a KSZ általi utalást követően) ki nem egyenlítette.
+223.2. A 306/2011. (XII. 23.) Korm. rendelet 14. §-a, valamint a Méptv. 188. § (5) és (6) bekezdése értelmében a fővállalkozó mindaddig nem jogosult saját teljesítésének ellenértékére, amíg a teljesítésben részt vevő alvállalkozókat, illetve a velük munkaviszonyban vagy egyéb foglalkoztatási jogviszonyban álló szakembereket (a továbbiakban: alvállalkozók) az ellenszolgáltatásból megillető rész tekintetében (a kedvezményezett vagy a KSZ általi utalást követően) ki nem egyenlítette.
 
 223.3. A 223.1. pont szerinti kötelezettségből adódóan az érintett szállítói kifizetések közül először az alvállalkozókat és a fővállalkozóval munkaviszonyban vagy egyéb foglalkoztatási viszonyban álló szakembereket (a továbbiakban: szakemberek) megillető összeg, majd a fővállalkozót megillető összeg kerül kifizetésre.
 
@@ -2390,13 +2390,13 @@ teljesítése.
 
 230.4. A 223.1.-229.3. pont szerinti kifizetések esetében a fordított áfa-előleg igénylése számlához kötötten történik. Egy számla kiállítása esetén a számla teljes áfa-tartalmának támogatási intenzitással arányos része igényelhető fordított áfa-előlegként, két részletben történő számlázás esetén két részletben igényelhető a fordított áfa-előleg is.
 
-107. Építési beruházás, illetve építési koncesszió vonatkozásában 2015. november 1-jét megelőzően megindított közbeszerzési eljárások, illetve azok alapján megkötött szerződésekre, valamint az Étv. hatálya alá tartozó építési beruházások esetén alkalmazandó különös finanszírozási szabályok utófinanszírozás esetén
+107. Építési beruházás, illetve építési koncesszió vonatkozásában 2015. november 1-jét megelőzően megindított közbeszerzési eljárások, illetve azok alapján megkötött szerződésekre, valamint a Méptv. hatálya alá tartozó építési beruházások esetén alkalmazandó különös finanszírozási szabályok utófinanszírozás esetén
 
 231.1. Utófinanszírozás esetében az alvállalkozókat, a szakembereket és a fővállalkozót megillető összegről szóló számlákat együtt, egy elszámolás keretében lehet benyújtani a KSZ felé.
 
 231.2. A kifizetési kérelemben a kedvezményezettet nyilatkoztatni kell arról, hogy
 
-a) a 306/2011. (XII. 23.) Korm. rendelet 14. §-a vagy az Étv. 39/A. § (6) bekezdése szerinti kifizetés esetében meggyőződött arról, hogy az alvállalkozóknak járó ellenszolgáltatás kifizetésre vagy jogszerűen visszatartásra került, valamint
+a) a 306/2011. (XII. 23.) Korm. rendelet 14. §-a vagy a Méptv. 188. § (5) és (6) bekezdése szerinti kifizetés esetében meggyőződött arról, hogy az alvállalkozóknak járó ellenszolgáltatás kifizetésre vagy jogszerűen visszatartásra került, valamint
 
 b) az Art. 36/A. §-a szerinti szállítói köztartozás-ellenőrzési és esetleges visszatartási kötelezettség teljesítésre került.
 
@@ -2406,7 +2406,7 @@ b) az Art. 36/A. §-a szerinti szállítói köztartozás-ellenőrzési és eset
 
 232.2. Az alvállalkozó által vállalt jó teljesítési garancia egyik finanszírozási mód esetén sem érinti a támogatási szerződés alapján kifizethető támogatás összegét.
 
-232.3. Utófinanszírozás esetén a 231.1. és 231.2. pont, 2015. november 1-jét megelőzően megindított közbeszerzési eljárásoknál a 306/2011. (XII. 23.) Korm. rendelet 14. § (1) bekezdés h) pontja és az Étv. 39/A. § (6) bekezdése alapján, ha az alvállalkozó és a fővállalkozó által elismert összeg között eltérés van, a kedvezményezett őrzi az ellenszolgáltatás fennmaradó részét, amíg a fővállalkozó hitelt érdemlően tudja bizonyítani, hogy az alvállalkozó nem jogosult a ki nem fizetett összegre.
+232.3. Utófinanszírozás esetén a 231.1. és 231.2. pont, 2015. november 1-jét megelőzően megindított közbeszerzési eljárásoknál a 306/2011. (XII. 23.) Korm. rendelet 14. § (1) bekezdés h) pontja és a Méptv. 188. § (5) és (6) bekezdése alapján, ha az alvállalkozó és a fővállalkozó által elismert összeg között eltérés van, a kedvezményezett őrzi az ellenszolgáltatás fennmaradó részét, amíg a fővállalkozó hitelt érdemlően tudja bizonyítani, hogy az alvállalkozó nem jogosult a ki nem fizetett összegre.
 
 108/A. A 2015. november 1-jét követően megindított, építési beruházás és szolgáltatás megrendelés tárgyú közbeszerzési eljárások eredményeként megkötött szerződésekre alkalmazandó különös finanszírozási szabályok utó- és szállítói finanszírozás esetén
 
@@ -4948,7 +4948,5 @@ e) a rendkívüli OLAF-jelentés küldésére, ha ennek jogszabályi feltételei
 
 475.3. A szabálytalanságfelelős a szabálytalansági eljárás mellőzésével meghozott, szabálytalansági eljárási jegyzőkönyvben rögzített döntést annak kézhezvételét követő 3 napon belül rögzíti a monitoring és információs rendszerben.
 
-476.1. Az IH-nál észlelt, továbbá az IH-nak átadott szabálytalansági gyanúk vonatkozásában elrendelt szabálytalansági eljárást az IH-feladatokat ellátó szervezet szervezeti és működési szabályzatában vagy egyéb szabályzatában meghatározott szervezeti egysége folytatja le.
-
 [^6]: A 7. §-t a 477/2016. (XII. 27.) Korm. rendelet 73. § (1) bekezdése iktatta be.
-[^7]: Az 1. melléklet a 85/2014. (III. 18.) Korm. rendelet 1. §-ával megállapított, a 203/2014. (VIII. 14.) Korm. rendelet 13–15. §-a, a 272/2014. (XI. 5.) Korm. rendelet 208. §-a, a 69/2015. (III. 30.) Korm. rendelet 13. és 14. §-a, a 175/2015. (VII. 7.) Korm. rendelet 79. §-a, a 46/2015. (III. 12.) Korm. rendelet 4. §-a, a 323/2015. (X. 30.) Korm. rendelet 11. §-a, a 486/2015. (XII. 29.) Korm. rendelet 44. §-a, a 4/2016. (I. 20.) Korm. rendelet 7. és 8. §-a, a 477/2016. (XII. 27.) Korm. rendelet 73. § (2) bekezdése, a 393/2017. (XII. 13.) Korm. rendelet 56. §-a, a 106/2018. (VI. 15.) Korm. rendelet 9. §-a, a 360/2019. (XII. 30.) Korm. rendelet 129. §-a, a 658/2021. (XI. 30.) Korm. rendelet 1. és 2. §-a, a 238/2022. (VI. 30.) Korm. rendelet 139. § (2) és (3) bekezdése, a 339/2023. (VII. 25.) Korm. rendelet 1. § a)–d) pontja, a 640/2023. (XII. 28.) Korm. rendelet 4. §-a és 5. § (2) és (3) bekezdése, a 218/2024. (VII. 31.) Korm. rendelet 12. §-a és 13. § 1–257. pontja szerint módosított szöveg.
+[^7]: Az 1. melléklet a 85/2014. (III. 18.) Korm. rendelet 1. §-ával megállapított, a 203/2014. (VIII. 14.) Korm. rendelet 13–15. §-a, a 272/2014. (XI. 5.) Korm. rendelet 208. §-a, a 69/2015. (III. 30.) Korm. rendelet 13. és 14. §-a, a 175/2015. (VII. 7.) Korm. rendelet 79. §-a, a 46/2015. (III. 12.) Korm. rendelet 4. §-a, a 323/2015. (X. 30.) Korm. rendelet 11. §-a, a 486/2015. (XII. 29.) Korm. rendelet 44. §-a, a 4/2016. (I. 20.) Korm. rendelet 7. és 8. §-a, a 477/2016. (XII. 27.) Korm. rendelet 73. § (2) bekezdése, a 393/2017. (XII. 13.) Korm. rendelet 56. §-a, a 106/2018. (VI. 15.) Korm. rendelet 9. §-a, a 360/2019. (XII. 30.) Korm. rendelet 129. §-a, a 658/2021. (XI. 30.) Korm. rendelet 1. és 2. §-a, a 238/2022. (VI. 30.) Korm. rendelet 139. § (2) és (3) bekezdése, a 339/2023. (VII. 25.) Korm. rendelet 1. § a)–d) pontja, a 640/2023. (XII. 28.) Korm. rendelet 4. §-a és 5. § (2) és (3) bekezdése, a 218/2024. (VII. 31.) Korm. rendelet 12. §-a és 13. § 1–257. pontja, a 285/2024. (IX. 30.) Korm. rendelet 97. § a)–g) pontja szerint módosított szöveg.
