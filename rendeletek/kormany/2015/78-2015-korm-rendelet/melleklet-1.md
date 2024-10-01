@@ -4,4 +4,4 @@
 
 Környezetvédelmi és természetvédelmi szakkérdés vizsgálatával kapcsolatos egyéb eljárási költség, szakértői díj mértéke
 
-[^2]: Az 1. melléklet 379/2016. (XII. 2.) Korm. rendelet 296. § (2) bekezdésével megállapított, a 162/2017. (VI. 28.) Korm. rendelet 85. §-a, a 69/2018. (IV. 9.) Korm. rendelet 9. §-a, a 825/2021. (XII. 28.) Korm. rendelet 35. §-a, a 60/2023. (II. 28.) Korm. rendelet 32. §-a szerint módosított szöveg.
+[^2]: Az 1. melléklet a 379/2016. (XII. 2.) Korm. rendelet 296. § (2) bekezdésével megállapított, a 162/2017. (VI. 28.) Korm. rendelet 85. §-a, a 69/2018. (IV. 9.) Korm. rendelet 9. §-a, a 825/2021. (XII. 28.) Korm. rendelet 35. §-a, a 60/2023. (II. 28.) Korm. rendelet 32. §-a, a 285/2024. (IX. 30.) Korm. rendelet 106–107. §-a szerint módosított szöveg.

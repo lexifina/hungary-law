@@ -2,11 +2,11 @@
 
 | 1. | A környezetvédelmi vagy természetvédelmi szakkérdés vizsgálatát igénylő eljárás megnevezése | szakkérdés vizsgálatával kapcsolatos egyéb eljárási költség, szakértői díj (Ft) |
 
-| 2. | Építésügyi hatósági engedélyezési eljárás [az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet] |  |
+| 2. | Építésügyi hatósági engedélyezési eljárás [az építésügyi hatósági eljárásokról és ellenőrzésekről szóló kormányrendelet] |  |
 
-| 2.1. | Építési-, összevont-, fennmaradási-, bontási engedélyezési eljárás, összevont telepítési eljárás | 14 000 |
+| 2.1. | Építési-, fennmaradási-, bontási engedélyezési eljárás, összevont telepítési eljárás | 14 000 |
 
-| 2.2. | Használatbavételi engedélyezési eljárás | 8 500 |
+| 2.2. | Használatbavételi eljárás | 8 500 |
 
 | 3. | a földművelésügyi hatósági és igazgatási feladatokat ellátó szervek kijelöléséről szóló 383/2016. (XII. 2.) Korm. rendelet |  |
 
