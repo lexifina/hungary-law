@@ -6,7 +6,7 @@
 
 (4) A bírálóbizottságban tagként vagy szakértőként a tervpályázat tárgya szerint illetékes országos szakmai kamarák, egyéb szakmai szervezetek és felsőoktatási intézmények, továbbá az érintett központi államigazgatási szervek, valamint a tervezési feladatban érdekelt helyi önkormányzat által javasolt és erre felkért képviselők és szakértők, vagy olyan magánszemélyek vehetnek részt, akik a tervpályázat tárgyában magas szintű elméleti és gyakorlati ismeretekkel rendelkeznek.
 
-(5)[^4] A bírálóbizottságban a tervpályázat tárgya szerint illetékes országos szakmai kamara és a tervezési feladatban érdekelt helyi önkormányzat szakmai képviseletét minden esetben biztosítani kell. Védett műemléki érték – azaz műemléket, műemléki jelentőségű területet, műemléki környezetet és történeti tájat érintő ügyek – esetén az előzőekben megjelölt személyeken kívül biztosítani kell továbbá a kulturális örökség védelméért felelős miniszter által kijelölt, műemléki területen szakértői jogosultsággal rendelkező tag részvételét is.
+(5)[^4] A bírálóbizottságban a tervpályázat tárgya szerint illetékes országos szakmai kamara és a tervezési feladatban érdekelt helyi önkormányzat szakmai képviseletét minden esetben biztosítani kell. A nemzeti emlék körébe tartozó műemléket és műemléki sajátos helyszínt érintő ügyek esetén az előzőekben megjelölt személyeken kívül biztosítani kell továbbá a kulturális örökség védelméért felelős miniszter által kijelölt, műemlékvédelmi szakmérnöki végzettséggel rendelkező tag részvételét is.
 
 (6) A bírálóbizottságban, ha a tervpályázat becsült értéke az uniós értékhatárt eléri, jogi végzettséggel rendelkező jogi szakértő működik közre. A jogi szakértő feladata a tervpályázati eljárás során készült jegyzőkönyvek – a folyamatos jegyzőkönyv, valamint a 24. § (3) bekezdésében meghatározott bontási jegyzőkönyv – és egyéb iratok elkészítése. Ha a tervpályázat becsült értéke az uniós értékhatárt nem éri el, a jogi szakértő feladatát – beleértve a jegyzőkönyvek vezetését is – a bírálóbizottság valamelyik tagja vagy szakértője is elláthatja.
 
@@ -20,4 +20,4 @@
 
 (11) Akadályoztatás esetén a bírálóbizottság elnökét a társelnök, tagját a bírálati munka teljes ideje alatt – szükség esetén – a kiírásban megnevezett póttag helyettesíti. A bírálóbizottságba az elnök által behívott póttag a tagokkal azonos jogokkal és kötelezettséggel rendelkezik. A bírálóbizottság megjelölt tagjainak és póttagjainak személye az eljárásban nem cserélhető le.
 
-[^4]: A 14. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 305. § a) pontja, a 677/2020. (XII. 28.) Korm. rendelet 38. §-a szerint módosított szöveg.
+[^4]: A 14. § (5) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 110. §-ával megállapított szöveg.
