@@ -2,37 +2,39 @@
 
 ## A KIVITELEZÉSI DOKUMENTÁCIÓ
 
-22. §[^203] (1)[^204] Kivitelezési dokumentáció alapján végezhető
+22. §[^238] (1) Kivitelezési dokumentáció alapján végezhető
 
-a) az építésügyi hatósági engedélyhez kötött építési tevékenység,
+a) az építésügyi hatósági engedélyhez vagy az egyszerű bejelentéshez kötött építési tevékenység,
 
-b)[^205] az az építési tevékenység – ideértve az építési engedélyhez nem kötött építési tevékenységet –, amely esetében
+b) az építési engedélyhez vagy egyszerű bejelentéshez nem kötött építési tevékenység, amely
 
-ba) a tartószerkezet támaszköze 5,4 méter vagy azt meghaladja,
+ba) 5,4 méter vagy azt meghaladó támaszközű tartószerkezet,
 
-bb) az épület tartószerkezete vagy annak elemei monolit vasbetonból készülnek, kivéve az 5,4 méteres fal- vagy oszlopköznél kisebb előregyártott födémszerkezethez csatlakozó vasbeton koszorút,
+bb) monolit vasbeton tartószerkezet, kivéve az 5,4 méteres fal- vagy oszlopköznél kisebb előregyártott födémszerkezethez csatlakozó vasbeton koszorút,
 
-bc) az épület a rendezett terepszint felett legalább két építményszintet tartalmaz, valamint pinceszint esetén a pince padlóvonala a rendezett tereptől számítva legfeljebb 1,5 méter mélyen van és a felszíni teher legfeljebb 2,0 kN/m2,
+bc) 1,5 méternél hosszabban kinyúló konzol,
 
-bd) a tartószerkezet 1,5 méternél hosszabban kinyúló konzolt tartalmaz,
+bd) 3 méter vagy azt meghaladó magasságú, megtámasztatlan falszerkezet – azzal, hogy a koszorú nem számít megtámasztásnak – vagy pillér, vagy
 
-be) a falszerkezet vagy pillér megtámasztatlan magassága 3,0 méter vagy azt meghaladja úgy, hogy a koszorú nem számít megtámasztásnak,
+be) 1,5 métert meg nem haladó magasságú támfal
 
-bf) 1,5 méternél magasabb földmegtámasztó szerkezet készül és legfeljebb 2,0 kN/m2 felszíni teherrel kell számolni,
+építésére, a szerkezetének megerősítésére, részleges megbontására irányul,
 
-bg) a hasznos terhelések szempontjából a helyiségek használati osztálya nem „A”,
+c) azbeszttartalmú szerkezet átalakítására, felújítására, helyreállítására, korszerűsítésére, részleges vagy teljes eltávolítására irányuló építőipari kivitelezési tevékenység,
 
-bh) az építmény tűzvédelmi jellemzői változnak, valamint
+d) az építmény tűzvédelmi jellemzőinek változását és az építmény szigorúbb kockázati osztályba történő besorolását eredményező építőipari kivitelezési tevékenység,
 
-c) az építmény bontása, ha
+e) az építmény bontása, ha
 
-ca) az építmény terepszint feletti és belső térfogata meghaladja az 500 m3-t, valamint homlokzatmagassága az 5,0 métert, vagy
+ea) az építmény terepszint feletti és belső térfogata meghaladja az 500 m3-t, valamint homlokzatmagassága az 5,0 métert vagy
 
-cb)[^206] a terepszint alatti bontás mélysége meghaladja az 1,5 métert.
+eb) a terepszint alatti bontás mélysége meghaladja az 1,5 métert, valamint
 
-(1a)[^207] Az Étv. 33/A. §-a szerinti egyszerű bejelentéshez kötött építőipari kivitelezési tevékenység kivitelezési dokumentációja legalább a lakóépület építésének egyszerű bejelentéséről szóló kormányrendeletben meghatározott tartalmú egyszerű bejelentési dokumentáció.
+f) azon sajátos építményfajta szerinti építményhez kapcsolódó építőipari kivitelezés, amely esetében azt a szakági jogszabály előírja.
 
-(2)[^208] A kivitelezési dokumentáció az Étv. 31. § (2) bekezdésében, valamint a tervezési programban megadott alapvető követelmények és egyéb előírások – ellenőrizhető módon történő – kielégítését bizonyító, az építmény megvalósításához szükséges tervet, műszaki leírást, információt, teljesítménynyilatkozatot és utasítást tartalmazó egységes dokumentum, amely alapján a tervezett építmény célszerűen és gazdaságosan megvalósítható, továbbá amely egyértelműen meghatározza az építmény részévé váló összes anyag, szerkezet, termék, beépített berendezés
+(2) Az egyszerű bejelentéshez kötött építési tevékenység kivitelezési dokumentációja legalább a záradékolt építészeti-műszaki dokumentáció tartalmával megegyező tartalmú dokumentáció.
+
+(3) A kivitelezési dokumentáció a Méptv. 181. § (2) bekezdésében, valamint a tervezési programban megadott alapvető követelmények és egyéb előírások ellenőrizhető módon történő kielégítését bizonyító, az építmény megvalósításához szükséges tervet, műszaki leírást, információt, teljesítménynyilatkozatot és utasítást tartalmazó egységes dokumentum, amely alapján a tervezett építmény célszerűen és gazdaságosan megvalósítható, továbbá amely egyértelműen meghatározza az építmény részévé váló összes anyag, szerkezet, termék, építési termék, beépített berendezés
 
 a) megnevezését,
 
@@ -46,30 +48,22 @@ e) építésének és beépítésének technológiai feltételeit, valamint
 
 f) költségeinek meghatározásához szükséges adatokat.
 
-(3)[^209] A kivitelezési dokumentációnak minden esetben – az (1a) bekezdés szerinti kivitelezési tevékenység kivételével – része
+(4) A kivitelezési dokumentációnak minden esetben tartalmaznia kell az 1. melléklet szerinti munkarészeket.
 
-a) a kivitelező által készített a tervezett építmény építőipari kivitelezési feladatainak megszervezéséhez szükséges részletezettségű
+(5) A kivitelezési dokumentációnak a (4) bekezdésben meghatározottakon túl tartalmaznia kell
 
-aa) a tervezői koordinátor által ellenőrzött munkabiztonsági és egészségvédelmi terv,
+a) a nemzeti emléknek minősülő műemlék építmény esetén a jogszabályban vagy hatósági döntésben előírt meghatározott tartalmú dokumentációt,
 
-ab) az egyesített közmű (genplan) terv, az építmények és a közművek összefüggéseinek áttekintését szolgáló elrendezési és időbeli fázistervek,
+b) a 22. § (1) bekezdés c) pontja szerinti építési tevékenység esetén az azbeszttel kapcsolatos kockázatoknak kitett munkavállalók védelméről szóló 12/2006. (III. 23.) EüM rendelet 11. § (2) bekezdése szerinti munkatervet,
 
-b) a tervezési programban megnevezett üzemeléstechnológiai terv,
+c) ha az építőipari kivitelezési tevékenység során a légiközlekedésről szóló 1995. évi XCVII. törvény 37. § (1) bekezdésében meghatározott repülőtér vonatkozási pontjától számított
 
-c) az épületgépészeti kivitelezési dokumentáció,
+ca) 4 kilométeren belül 10 méternél magasabb vagy
 
-d) az épületvillamossági kivitelezési dokumentáció.
+cb) 4 kilométeren kívül, de 15 kilométeren belül 45 méternél magasabb
 
-(4)–(5)[^210]
+daru vagy a ca) és cb) alpontban foglaltakon kívüli esetben 60 méternél magasabb daru igénybevétele szükséges, a légiközlekedés biztonsága érdekében a daru akadályjelölésére vonatkozóan a nemzetközi polgári repülésről Chicagóban, az 1944. évi december hó 7. napján aláírt Egyezmény Függelékeinek kihirdetéséről szóló 2007. évi XLVI. törvény mellékleteként kihirdetett 14. Függelék 6. fejezete szerinti előírásokat.
 
-(6)[^211] A kivitelezési dokumentáció tartalma nem térhet el a végleges építésügyi hatósági engedélyben és a hozzá tartozó, jóváhagyott és engedélyezési záradékkal ellátott építészeti-műszaki dokumentációban foglaltaktól kivéve, ha maga az eltérés megfelel az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet 22. § (1) bekezdésében foglaltaknak. Ennek betartásáért a tervező felel.
+(6) A kivitelezési dokumentáció tartalma nem térhet el a végleges építésügyi hatósági engedélyhez tartozó záradékolt vagy az egyszerű bejelentés építészeti-műszaki dokumentációban foglaltaktól kivéve, ha maga az eltérés nem építési engedélyhez vagy egyszerű bejelentéshez kötött építési tevékenység.
 
-[^203]: A 22. § a 322/2012. (XI. 16.) Korm. rendelet 77. §-ával megállapított szöveg.
-[^204]: A 22. § (1) bekezdése a 156/2016. (VI. 13.) Korm. rendelet 9. § (7) bekezdésével megállapított szöveg.
-[^205]: A 22. § (1) bekezdés b) pontja a 482/2016. (XII. 28.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^206]: A 22. § (1) bekezdés c) pont cb) alpontja a 482/2016. (XII. 28.) Korm. rendelet 19. § j) pontja szerint módosított szöveg.
-[^207]: A 22. § (1a) bekezdését a 156/2016. (VI. 13.) Korm. rendelet 9. § (7) bekezdése iktatta be, szövege a 244/2019. (X. 22.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^208]: A 22. § (2) bekezdése a 482/2016. (XII. 28.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
-[^209]: A 22. § (3) bekezdése a 482/2016. (XII. 28.) Korm. rendelet 12. § (2) bekezdésével megállapított, nyitó szövegrésze a 244/2019. (X. 22.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
-[^210]: A 22. § (4)–(5) bekezdését a 482/2016. (XII. 28.) Korm. rendelet 20. § c) pontja hatályon kívül helyezte.
-[^211]: A 22. § (6) bekezdése a 62/2014. (III. 6.) Korm. rendelet 12. § 20. pontja, a 457/2017. (XII. 28.) Korm. rendelet 257. § c) pontja, a 700/2020. (XII. 29.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^238]: A 22. § a 286/2024. (IX. 30.) Korm. rendelet 33. §-ával megállapított szöveg.

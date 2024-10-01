@@ -1,18 +1,34 @@
-## A tulajdonos jókarbantartási kötelezettsége és a szervizkönyv[^308]
+## A tulajdonos jókarbantartási kötelezettsége és a szervizkönyv[^312]
 
-34. § (1) Az építmény szervizkönyve igazolja
+34. § (1)[^313] Az építmény szervizkönyve igazolja
 
 a) az építmény rendeltetésszerű és biztonságos használhatóságára,
 
 b) a (6) bekezdésben meghatározott követelmények teljesülése érdekében végzett építési-szerelési munkákra, és
 
-c) az építmény állapotára
+c)[^314] az építmény állapotára, felülvizsgálatára
 
-vonatkozó tényeket, megállapításokat és szakértői véleményeket.
+vonatkozó tényeket, megállapításokat, információkat, dokumentumokat és szakértői véleményeket.
 
-(2)[^309] Szervizkönyvet kell vezetni a tömegtartózkodásra szolgáló építményre, az örökségvédelmi bírságról szóló 191/2001. (X. 18.) Korm. rendelet szerinti I. kategóriába sorolt műemlék építményre, a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény hatálya alá tartozó építményre, valamint a honvédelmi és katonai célú építményre vonatkozóan. Egyéb esetben a szervizkönyv vezetéséről az építmény tulajdonosa dönt.
+(2)[^315] Szervizkönyvet kell vezetni
 
-(3)[^310] Az építmény tulajdonosa vagy az általa megbízott személy az építmény szervizkönyvét az építési napló lezárásának, illetve legkésőbb a használatbavételi engedély megszerzésének vagy a használatbavétel tudomásulvételének vagy az egyszerű bejelentéshez kötött építési tevékenység megvalósulását igazoló hatósági bizonyítvány kiállításának napján nyitja meg. Több tulajdonos esetén a szervizkönyv tartalmáért a tulajdonostársak egyetemlegesen felelnek.
+a) a közhasználatú építményre,
+
+b) a tömegtartózkodásra szolgáló építményre,
+
+c) a legalább hat lakást tartalmazó lakóépületre,
+
+d) a nemzeti emléknek minősülő, I. műemlékvédelmi bírságkategóriába tartozó műemlék építményre,
+
+e) a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló törvény hatálya alá tartozó építményre, valamint
+
+f) a honvédelmi és katonai célú, valamint a nemzetbiztonsági célú és rendeltetésű építményre
+
+vonatkozóan.
+
+(3)[^316] A (2) bekezdésben nem szabályozott esetben a szervizkönyv vezetéséről az építmény tulajdonosa dönt.
+
+(3a)[^317] Az építmény tulajdonosa vagy az általa megbízott személy az építmény szervizkönyvét az e-építési napló lezárása után, legkésőbb a használatbavételi engedély véglegessé válásának vagy a használatbavétel tudomásulvételének napján nyitja meg. Több tulajdonos esetén a szervizkönyv tartalmáért a tulajdonostársak egyetemlegesen felelnek.
 
 (4) A külön jogszabályban meghatározott esetekben elkészített energetikai tanúsítvány a szervizkönyv mellékletét képezi.
 
@@ -22,7 +38,7 @@ a) jó műszaki állapotához szükséges munkálatokat elvégeztetni, és
 
 b) rendeltetésszerű és biztonságos használhatóságát folyamatosan biztosítani.
 
-(5a)[^311] Az I. bírságkategóriába sorolt műemlék építmény esetén a műemlék tulajdonosa jókarbantartási kötelezettségének teljesítése az (5) bekezdésben meghatározottakon túlmenően a védettséget megalapozó műemléki érték sértetlen fennmaradásának és érvényesülésének biztosítására is kiterjed.
+(5a)[^318] A nemzeti emléknek minősülő műemlék tulajdonosának jókarbantartási kötelezettsége az (5) bekezdésben meghatározottakon túlmenően a védettséget megalapozó műemléki érték sértetlen fennmaradásának és érvényesülésének biztosítására is kiterjed.
 
 (6) Az (5) bekezdésben meghatározottak teljesítése érdekében az építmény tulajdonosa köteles az építmény állapotát szükség szerint – arra külön jogszabály szerint jogosultsággal rendelkező szakértővel – felülvizsgáltatni
 
@@ -36,22 +52,29 @@ d) a zaj és rezgés elleni védelem,
 
 e) az energiatakarékosság és hővédelem,
 
-f) az életvédelem és katasztrófavédelem
+f)[^319] az életvédelem és katasztrófavédelem, valamint
+
+g)[^320] az akadálymentes használat
 
 követelményeire vonatkozóan a külön jogszabályban foglaltak szerint.
 
-(6a)[^312] Az I. bírságkategóriába sorolt műemlék építmény esetén az (5) bekezdésben foglaltak teljesítése érdekében elvégzett, a (6) bekezdés szerinti felülvizsgálat kiterjed a műemléki érték védelme jogszabályban meghatározott követelményeinek történő megfelelésre is.
+(6a)[^321] A nemzeti emléknek minősülő műemlék építmény esetén az (5) bekezdésben foglaltak teljesítése érdekében elvégzett, a (6) bekezdés szerinti felülvizsgálat kiterjed a műemléki érték védelme jogszabályban meghatározott követelményeinek történő megfelelésre is.
 
-(7)[^313] A felülvizsgálatot a mechanikai ellenállás és stabilitás (állékonyság) követelményeire vonatkozóan a tömegtartózkodásra szolgáló építmény, a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény hatálya alá tartozó építmény, valamint a honvédelmi és katonai célú építmény esetében legalább 20 évenként el kell végezni. Egyéb építmények esetében a felülvizsgálatot az építmény állapotát figyelembe véve kell lefolytatni.
+(7)[^322] A kötelező szervizkönyv-vezetéssel érintett építmény felülvizsgálatát a mechanikai ellenállás, stabilitás, állékonyság követelményeire vonatkozóan legalább 20 évenként el kell végezni. Egyéb építmények esetében a felülvizsgálatot az építmény állapotát figyelembe véve kell elvégezni.
 
 (8) Az építmény felülvizsgálatát igazoló szakértői vélemények, javaslatok, megállapítások és az építmény fennállása alatt az építmény rendeltetésszerű és biztonságos használatát befolyásoló vagy a tartószerkezetét érintő építési-szerelési munkák elvégzésének igazolása, leírása a szervizkönyv részét képezik, ennek hiányában ezeket az ingatlan tulajdonosa köteles megőrizni.
 
-(9)[^314] A szervizkönyv az építmény tartozéka, tulajdonosváltáskor az új tulajdonos részére át kell adni.
+(9)[^323] A szervizkönyv az építmény tartozéka, tulajdonosváltáskor az új tulajdonos részére át kell adni.
 
-[^308]: A 34. §-t megelőző alcím a 322/2012. (XI. 16.) Korm. rendelet 85. §-ával megállapított szöveg.
-[^309]: A 34. § (2) bekezdése a 38/2015. (III. 11.) Korm. rendelet 13. § (1) bekezdésével megállapított, a 306/2016. (X. 13.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
-[^310]: A 34. § (3) bekezdése a 109/2013. (IV. 9.) Korm. rendelet 2. § (20) bekezdés 17. pont 17.2. alpontja, a 668/2020. (XII. 28.) Korm. rendelet 23. § (4) bekezdés f) pontja szerint módosított szöveg.
-[^311]: A 34. § (5a) bekezdését a 38/2015. (III. 11.) Korm. rendelet 13. § (2) bekezdése iktatta be.
-[^312]: A 34. § (6a) bekezdését a 38/2015. (III. 11.) Korm. rendelet 13. § (3) bekezdése iktatta be.
-[^313]: A 34. § (7) bekezdése a 109/2013. (IV. 9.) Korm. rendelet 2. § (20) bekezdés 17. pont 17.3. alpontja szerint módosított szöveg.
-[^314]: A 34. § (9) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 93. § r) pontja szerint módosított szöveg.
+[^312]: A 34. §-t megelőző alcím a 322/2012. (XI. 16.) Korm. rendelet 85. §-ával megállapított szöveg.
+[^313]: A 34. § (1) bekezdés záró szövegrésze a 286/2024. (IX. 30.) Korm. rendelet 46. § 86. pontja szerint módosított szöveg.
+[^314]: A 34. § (1) bekezdés c) pontja a 286/2024. (IX. 30.) Korm. rendelet 46. § 85. pontja szerint módosított szöveg.
+[^315]: A 34. § (2) bekezdése a 286/2024. (IX. 30.) Korm. rendelet 40. § (1) bekezdésével megállapított szöveg.
+[^316]: A 34. § (3) bekezdése a 286/2024. (IX. 30.) Korm. rendelet 40. § (1) bekezdésével megállapított szöveg.
+[^317]: A 34. § (3a) bekezdését a 286/2024. (IX. 30.) Korm. rendelet 40. § (1) bekezdése iktatta be.
+[^318]: A 34. § (5a) bekezdését a 38/2015. (III. 11.) Korm. rendelet 13. § (2) bekezdése iktatta be, szövege a 286/2024. (IX. 30.) Korm. rendelet 46. § 87. pontja szerint módosított szöveg.
+[^319]: A 34. § (6) bekezdés f) pontja a 286/2024. (IX. 30.) Korm. rendelet 46. § 88. pontja szerint módosított szöveg.
+[^320]: A 34. § (6) bekezdés g) pontját a 286/2024. (IX. 30.) Korm. rendelet 40. § (2) bekezdése iktatta be.
+[^321]: A 34. § (6a) bekezdését a 38/2015. (III. 11.) Korm. rendelet 13. § (3) bekezdése iktatta be, szövege a 286/2024. (IX. 30.) Korm. rendelet 46. § 89. pontja szerint módosított szöveg.
+[^322]: A 34. § (7) bekezdése a 286/2024. (IX. 30.) Korm. rendelet 40. § (3) bekezdésével megállapított szöveg.
+[^323]: A 34. § (9) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 93. § r) pontja szerint módosított szöveg.

@@ -2,7 +2,7 @@
 
 a) az országos gazdasági kamara
 
-aa) biztosítja az elektronikus úton benyújtott bejelentés és változás-bejelentés folyamatos fogadását,
+aa)[^345] biztosítja az elektronikus úton benyújtott bejelentés és változás-bejelentés folyamatos fogadását, naprakész feldolgozását és megjelenítését,
 
 ab) vezeti a nyilvántartásokat,
 
@@ -14,6 +14,7 @@ b) a területi gazdasági kamara
 
 ba) a bejelentés és változás-bejelentés megtételéhez internetes kapcsolati lehetőséget, szakmai és informatikai segítséget biztosít, személyes megkeresés esetén ideértve a bejelentés kitöltését, adattartalma hiánytalanságának ellenőrzését és továbbítását, valamint
 
-bb)[^326] önállóan, továbbá az építésfelügyeleti vagy építésügyi hatóság által bevontan helyszíni ellenőrzést végez.
+bb)[^346] önállóan, továbbá az építésügyi hatóság által bevontan helyszíni ellenőrzést végez.
 
-[^326]: A 39. § b) pont bb) alpontja a 322/2012. (XI. 16.) Korm. rendelet 92. § t) pontja szerint módosított szöveg.
+[^345]: A 39. § a) pont aa) alpontja a 286/2024. (IX. 30.) Korm. rendelet 46. § 98. pontja szerint módosított szöveg.
+[^346]: A 39. § b) pont bb) alpontja a 322/2012. (XI. 16.) Korm. rendelet 92. § t) pontja, a 286/2024. (IX. 30.) Korm. rendelet 47. § 27. pontja szerint módosított szöveg.

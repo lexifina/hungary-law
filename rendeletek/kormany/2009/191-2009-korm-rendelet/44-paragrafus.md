@@ -1,3 +1,3 @@
-## 43. §[^357] A 2015. március 1. napját követően megkezdett építési tevékenység I. bírságkategóriába sorolt műemlék építményre vonatkozó szervizkönyvét az építmény tulajdonosa, vagyonkezelője vagy az általa megbízott és a régészeti örökséggel és a műemléki értékkel kapcsolatos szakértői tevékenységről szóló kormányrendelet szerinti műemléki épületdiagnosztika szakterületen jogosultággal rendelkező személy az építési napló lezárásának, illetve legkésőbb a használatbavételi engedély megszerzésének vagy a használatbavétel tudomásulvételének a napján nyitja meg. A szervizkönyv tartalmáért a szervizkönyvet megnyitó felel.
+44. §[^377]
 
-[^357]: A 43. §-t a 38/2015. (III. 11.) Korm. rendelet 13. § (4) bekezdése iktatta be.
+[^377]: A 44. §-t a 156/2016. (VI. 13.) Korm. rendelet 10. §-a iktatta be, a 286/2024. (IX. 30.) Korm. rendelet 47. § 30. pontja hatályon kívül helyezte.

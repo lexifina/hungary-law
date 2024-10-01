@@ -1,41 +1,38 @@
 ## A tervező
 
-9. § (1)[^69] Az építtető, illetve erre irányuló megállapodás esetén a fővállalkozó kivitelező a jogosultsággal rendelkező tervezővel a kivitelezési dokumentáció elkészítésére írásbeli tervezési szerződést köt.
+9. § (1)[^82] Az építtető az építésügyi és az építésüggyel összefüggő szakmagyakorlási tevékenységekről szóló kormányrendelet szerinti jogosultsággal rendelkező tervezővel – az építésszervezési munkarész kivételével – kivitelezési dokumentáció elkészítésére írásbeli tervezési szerződést köt.
 
-(2)[^70] A tervezési szerződés tartalmazza
+(2)[^83] A tervezési szerződés kötelező tartalmi elemeit az építésügyi és az építésüggyel összefüggő szakmagyakorlási tevékenységekről szóló kormányrendelet tartalmazza.
 
-a) a vállalt tervezési tevékenység (szakági tervezési tevékenység) pontos megnevezését,
+(2a)[^84] A szerződő tervező köteles az építtetőt tájékoztatni a szakági tervezési feladatokról. Amennyiben szakági tervező bevonását a szerződő tervező javaslata ellenére az építtető nem veszi igénybe, úgy az ennek hiányából fakadó jogosulatlan vagy szakszerűtlen tevékenységért a szerződő tervezőt nem terheli felelősség.
 
-b) a kivitelezési dokumentációra vonatkozó követelmény (mennyiségi és minőségi mutatók) meghatározását, a kidolgozás részletezettségét, (részletrajzok, konszignációk, költségvetési kiírás szükséges körét),
+(3)[^85] A szerződő tervezőnek a közhasználatú építmény, építményrész esetén kötelező az építésügyi és az építésüggyel összefüggő szakmagyakorlási tevékenységekről szóló kormányrendelet szerinti, „rehabilitációs környezettervezés területén gyakorlott” címmel rendelkező szakmagyakorlót bevonnia a kivitelezési dokumentáció készítésénél.
 
-c) a készítendő kivitelezési dokumentáció példányszámát és annak elektronikus formában is történő átadási kötelezettségét,
+(4)[^86]
 
-d) a terv felülvizsgálatának, ellenőrzésének szabályait,
+(5)[^87]
 
-e) a szükségessé váló tervmódosítások szabályozását, valamint
+(6)[^88]
 
-f) tervezői művezetési feladatellátás részletes feltételeit, ha a tervező ilyen feladatot lát el.
+(7)[^89]
 
-(2a)[^71] A szerződő tervező köteles az építtetőt tájékoztatni a szakági tervezési feladatokról. Amennyiben szakági tervező bevonását a szerződő tervező javaslata ellenére az építtető nem veszi igénybe, úgy az ennek hiányából fakadó jogosulatlan vagy szakszerűtlen tevékenységért a szerződő tervezőt nem terheli felelősség.
+(8)[^90]
 
-(3)[^72] A (2) bekezdésben nem szabályozott kérdésekben a Ptk.-nak a vállalkozási és az Étv.-nek a tervezési szerződésre vonatkozó rendelkezései irányadóak.
+(9)[^91]
 
-(4)–(7)[^73]
+(10)[^92]
 
-(8)[^74] A kivitelezési dokumentációt a tervező, szerződésben meghatározottak szerint felhasználás céljából az (1) bekezdés szerinti szerződő fél birtokába adja.
+(11)[^93]
 
-(9)[^75] Aki tervezői és építési műszaki ellenőri jogosultsággal is rendelkezik, az e három feladatkört együtt – külön jogszabály szerint szabályozott – beruházási tanácsadó címen láthatja el.
-
-(10)[^76] A tervező a kivitelezési tervek készítése során a tervezési programban vagy az építési engedélyezési építészeti-műszaki dokumentációban meghatározott elvárt műszaki teljesítményeket – az építtető egyetértése mellett – legalább az elvárt teljesítményadatokkal rendelkező építési termékek kiválasztásával teljesíti.
-
-(11)[^77]
-
-[^69]: A 9. § (1) bekezdése a 182/2010. (V. 14.) Korm. rendelet 5. § (5) bekezdésével megállapított, a 109/2013. (IV. 9.) Korm. rendelet 2. § (20) bekezdés 5. pont 5.1. alpontja, a 266/2013. (VII. 11.) Korm. rendelet 55. § g) pont gd) alpontja szerint módosított szöveg.
-[^70]: A 9. § (2) bekezdése a 156/2016. (VI. 13.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^71]: A 9. § (2a) bekezdését a 156/2016. (VI. 13.) Korm. rendelet 9. § (3) bekezdése iktatta be.
-[^72]: A 9. § (3) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 92. § c) pont ca) alpontja szerint módosított szöveg.
-[^73]: A 9. § (4)–(7) bekezdését a 482/2016. (XII. 28.) Korm. rendelet 20. § b) pontja hatályon kívül helyezte.
-[^74]: A 9. § (8) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 65. §-ával megállapított, a 109/2013. (IV. 9.) Korm. rendelet 2. § (21) bekezdés b) pontja szerint módosított szöveg.
-[^75]: A 9. § (9) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 65. §-ával megállapított, a 109/2013. (IV. 9.) Korm. rendelet 2. § (20) bekezdés 5. pont 5.3. alpontja, a 266/2013. (VII. 11.) Korm. rendelet 51. § (3) bekezdése szerint módosított szöveg.
-[^76]: A 9. § (10) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 65. §-a iktatta be.
-[^77]: A 9. § (11) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 65. §-a iktatta be, hatályon kívül helyezte a 62/2014. (III. 6.) Korm. rendelet 13. § a) pontja.
+[^82]: A 9. § (1) bekezdése a 286/2024. (IX. 30.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^83]: A 9. § (2) bekezdése a 286/2024. (IX. 30.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^84]: A 9. § (2a) bekezdését a 156/2016. (VI. 13.) Korm. rendelet 9. § (3) bekezdése iktatta be.
+[^85]: A 9. § (3) bekezdése a 286/2024. (IX. 30.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
+[^86]: A 9. § (4) bekezdését a 482/2016. (XII. 28.) Korm. rendelet 20. § b) pontja hatályon kívül helyezte. [A 9. § (4) bekezdésében a 286/2024. (IX. 30.) Korm. rendelet 22. § (2) bekezdése által elrendelt módosítás, amely újraszabályozza e bekezdést, nem vezethető át.]
+[^87]: A 9. § (5) bekezdését a 482/2016. (XII. 28.) Korm. rendelet 20. § b) pontja hatályon kívül helyezte. [A 9. § (5) bekezdésében a 286/2024. (IX. 30.) Korm. rendelet 22. § (2) bekezdése által elrendelt módosítás, amely újraszabályozza e bekezdést, nem vezethető át.]
+[^88]: A 9. § (6) bekezdését a 482/2016. (XII. 28.) Korm. rendelet 20. § b) pontja hatályon kívül helyezte.
+[^89]: A 9. § (7) bekezdését a 482/2016. (XII. 28.) Korm. rendelet 20. § b) pontja hatályon kívül helyezte.
+[^90]: A 9. § (8) bekezdését a 286/2024. (IX. 30.) Korm. rendelet 47. § 8. pontja hatályon kívül helyezte.
+[^91]: A 9. § (9) bekezdését a 286/2024. (IX. 30.) Korm. rendelet 47. § 8. pontja hatályon kívül helyezte.
+[^92]: A 9. § (10) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 65. §-a iktatta be, a 286/2024. (IX. 30.) Korm. rendelet 47. § 8. pontja hatályon kívül helyezte.
+[^93]: A 9. § (11) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 65. §-a iktatta be, hatályon kívül helyezte a 62/2014. (III. 6.) Korm. rendelet 13. § a) pontja.
