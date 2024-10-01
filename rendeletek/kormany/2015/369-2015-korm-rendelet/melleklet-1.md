@@ -22,11 +22,11 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházással összefüg
 
 8. tűzvédelmi hatósági eljárások,
 
-9. katasztrófavédelmi hatósági eljárások,
+9.[^6] iparbiztonsági hatósági eljárások,
 
 10. útügyi hatósági eljárások,
 
-11.[^5] műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
+11.[^7] műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
 
 12. műszaki biztonsági engedélyezési eljárások,
 
@@ -46,4 +46,5 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházással összefüg
 
 20. az 1–19. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^5]: Az 1. melléklet 11. pontja a 380/2016. (XII. 2.) Korm. rendelet 105. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^6]: Az 1. melléklet 9. pontja a 257/2024. (VIII. 29.) Korm. rendelet 173. §-a szerint módosított szöveg.
+[^7]: Az 1. melléklet 11. pontja a 380/2016. (XII. 2.) Korm. rendelet 105. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.

@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-369-20-
 | 2020-03-01 | 2015-369-20-22.4 | 361/2019. (XII. 30.) Korm. rendelet |
 | 2022-12-23 | 2015-369-20-22.5 | 546/2022. (XII. 22.) Korm. rendelet |
 | 2023-01-01 | 2015-369-20-22.6 | 546/2022. (XII. 22.) Korm. rendelet |
+| 2024-10-01 | 2015-369-20-22.7 | 395/2025. (XII. 16.) Korm. rendelet |
