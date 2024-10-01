@@ -18,7 +18,7 @@ A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból 
 
 7. tűzvédelmi hatósági eljárások,
 
-8. katasztrófavédelmi eljárások,
+8.[^2] iparbiztonsági eljárások,
 
 9. a műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági eljárások,
 
@@ -55,3 +55,5 @@ A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból 
 25. azok az 1–24. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, amelyek a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
 26. az 1–25. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^2]: Az 1. melléklet 8. pontja a 257/2024. (VIII. 29.) Korm. rendelet 346. §-a szerint módosított szöveg.
