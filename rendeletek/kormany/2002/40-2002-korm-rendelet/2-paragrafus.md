@@ -1,4 +1,4 @@
-## 2. §[^3] E rendelet alkalmazásában
+## 2. §[^6] E rendelet alkalmazásában
 
 1. eljárás: az 1. § (1) és (2) bekezdésében meghatározott eljárások,
 
@@ -8,4 +8,4 @@
 
 4. honvédelmi és katonai célú ingatlant érintő telekalakítási eljárás: olyan telekalakítási engedélyezési eljárás, amelyben a telekcsoport újraosztása, a telekfelosztás, a telekegyesítés vagy a telek-határrendezés honvédelmi és katonai célú ingatlan telekhatárának megváltozásával jár.
 
-[^3]: A 2. § a 379/2016. (XII. 2.) Korm. rendelet 52. § (2) bekezdésével megállapított szöveg.
+[^6]: A 2. § a 379/2016. (XII. 2.) Korm. rendelet 52. § (2) bekezdésével megállapított szöveg.

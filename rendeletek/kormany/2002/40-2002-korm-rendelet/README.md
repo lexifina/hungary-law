@@ -30,3 +30,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-40-20-2
 | 2019-07-01 | 2002-40-20-22.32 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2019-12-25 | 2002-40-20-22.33 | 330/2019. (XII. 20.) Korm. rendelet |
 | 2024-06-01 | 2002-40-20-22.34 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2024-10-01 | 2002-40-20-22.35 | 237/2024. (VIII. 8.) Korm. rendelet |
