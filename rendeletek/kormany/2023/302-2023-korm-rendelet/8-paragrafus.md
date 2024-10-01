@@ -6,7 +6,7 @@ b) két gyermek esetén az 50 négyzetmétert,
 
 c) három vagy több gyermek esetén a 60 négyzetmétert.
 
-(2)[^17] Az egylakásos lakóépület hasznos alapterületének el kell érnie
+(2)[^24] Az egylakásos lakóépület hasznos alapterületének el kell érnie
 
 a) egy gyermek esetén a 70 négyzetmétert,
 
@@ -24,4 +24,4 @@ c) három vagy több gyermek esetén a 90 négyzetmétert.
 
 (7) A használt lakás vételára legfeljebb 20 százalékkal haladhatja meg a hitelintézet által megállapított forgalmi értéket.
 
-[^17]: A 8. § (2) bekezdés nyitó szövegrésze a 649/2023. (XII. 28.) Korm. rendelet 17. § c) pontja szerint módosított szöveg.
+[^24]: A 8. § (2) bekezdés nyitó szövegrésze a 649/2023. (XII. 28.) Korm. rendelet 17. § c) pontja szerint módosított szöveg.

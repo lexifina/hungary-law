@@ -1,6 +1,6 @@
 37. § (1) Házasság felbontása esetén, ha a volt házastársak közös lakásukat az állam javára bejegyzett elidegenítési és terhelési tilalom idején idegenítik el, úgy őket – a (3) bekezdésben foglalt kivétellel – az igénybe vett családi otthonteremtési kedvezmény visszafizetési kötelezettsége az elidegenítésből származó bevétel bírósági határozat szerinti vagy a közöttük létrejött házassági vagyonmegosztási szerződésben rögzített arányban terheli.
 
-(2)[^71] A volt házastársak a házasságfelbontás tényét kötelesek a házasságot felbontó bírósági határozat jogerőre emelkedését követő 30 napon belül a kormányhivatalnak bejelenteni.
+(2)[^93] A volt házastársak a házasságfelbontás tényét kötelesek a házasságot felbontó bírósági határozat jogerőre emelkedését követő 30 napon belül a kormányhivatalnak bejelenteni.
 
 (3) Házasság felbontása, érvénytelenítése esetén, ha
 
@@ -18,4 +18,4 @@ a tulajdoni hányadát elidegenítő felet az (1) bekezdés szerinti visszafizet
 
 (7) Ha az élettársak életközössége véget ér, a támogatás visszafizetésére az (1)–(6) bekezdésben foglaltakat megfelelően alkalmazni kell.
 
-[^71]: A 37. § (2) bekezdése a 649/2023. (XII. 28.) Korm. rendelet 16. § 39. pontja szerint módosított szöveg.
+[^93]: A 37. § (2) bekezdése a 649/2023. (XII. 28.) Korm. rendelet 16. § 39. pontja szerint módosított szöveg.

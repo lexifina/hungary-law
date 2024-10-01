@@ -54,7 +54,7 @@ b) aki az igénylő vér szerinti vagy örökbefogadott eltartott gyermeke, és 
 
 7. használt lakás: olyan lakóingatlan, amely nem minősül a 14. pont szerinti új lakásnak;
 
-8. hasznos alapterület: a lakáson belül közvetlenül megközelíthető, következő helyiségek – az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK) 1. melléklet 46. pontja szerint számított – hasznos alapterületének összege:
+8. [^8] hasznos alapterület: a lakáson belül közvetlenül megközelíthető, következő helyiségek – a magyar építészetről szóló 2023. évi C. törvény (a továbbiakban: Méptv.) 16. § 56. pontja szerint számított – hasznos alapterületének összege:
 
 a) előszoba, közlekedő,
 
@@ -88,7 +88,7 @@ b) a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi
 
 10. külterületi lakás: a település külterületén, az ingatlan-nyilvántartásban tanya vagy birtokközpont megnevezéssel nyilvántartott ingatlan, ha azon a 11. pontnak megfelelő lakóingatlan van;
 
-11. [^8] lakás: a lakhatás feltételeinek megfelelő, az ingatlan-nyilvántartásban lakóház vagy lakás fő rendeltetés szerinti jelleggel nyilvántartott ingatlan, valamint tanya, vagy birtokközpont jogi jelleggel nyilvántartott ingatlan lakáscélú épületei a hozzá tartozó földrészlettel, amely rendelkezik legalább:
+11. [^9] lakás: a lakhatás feltételeinek megfelelő, az ingatlan-nyilvántartásban lakóház vagy lakás fő rendeltetés szerinti jelleggel nyilvántartott ingatlan, valamint tanya, vagy birtokközpont jogi jelleggel nyilvántartott ingatlan lakáscélú épületei a hozzá tartozó földrészlettel, amely rendelkezik legalább:
 
 a) 12 négyzetmétert meghaladó alapterületű lakószobával és főzőhelyiséggel – ennek hiányában további, legalább 4 négyzetméter alapterületű, a főzést lehetővé tevő, önálló szellőzésű lakótérrel, térbővülettel –, továbbá fürdőhelyiséggel és WC-vel,
 
@@ -104,9 +104,9 @@ e) közműves ivóvíz-szolgáltatással, vagy ha a településen (településr�
 
 13. preferált kistelepülés: a 2. melléklet szerinti település;
 
-14. [^9] új lakás: a meglévő épület vagy épületrész átalakítása kivételével az alapozási munkáktól kezdődően – kivéve, ha a meglévő alap szakértői vélemény alapján felhasználható – újonnan épített egylakásos lakóépület, amelynek az elkészülte használatbavételi engedéllyel, a használatbavétel tudomásulvétele megtörténtének igazolásával vagy a felépítésének megtörténtét tanúsító hatósági bizonyítvánnyal igazolható, ideértve a tanyán vagy birtokközpontban található lakóépületet is.
+14. [^10] új lakás: a meglévő épület vagy épületrész átalakítása kivételével az alapozási munkáktól kezdődően – kivéve, ha a meglévő alap szakértői vélemény alapján felhasználható – újonnan épített egylakásos lakóépület, amelynek az elkészülte használatbavételi engedéllyel igazolható, ideértve a tanyán vagy birtokközpontban található lakóépületet is.
 
-(2) Az e rendeletben meg nem határozott fogalmakat a Polgári Törvénykönyvről szóló 2013. évi V. törvényben (a továbbiakban: Ptk.), a Hpt.-ben, az OTÉK-ban, valamint az épített környezet alakításáról és védelméről szóló 1997. évi LXXVII. törvényben meghatározottak szerint kell értelmezni.
+(2) [^11] Az e rendeletben meg nem határozott fogalmakat a Polgári Törvénykönyvről szóló 2013. évi V. törvényben (a továbbiakban: Ptk.), a Hpt.-ben, a Méptv.-ben, valamint a településrendezési és építési követelményekről szóló kormányrendeletben meghatározottak szerint kell értelmezni.
 
 (3) Ha az igénylő lakás korszerűsítésére családi otthonteremtési kedvezményt igényel, a lakásnak a kérelem benyújtása időpontjában az (1) bekezdés 11. pontja szerinti feltételek közül elegendő az (1) bekezdés 11. pont a) alpontja szerinti feltételnek – a fürdőhelyiség és a WC kivételével – megfelelnie.
 
@@ -114,8 +114,13 @@ e) közműves ivóvíz-szolgáltatással, vagy ha a településen (településr�
 
 (5) A (3) és (4) bekezdés rendelkezéseit a 6. § (2) bekezdése szerinti kérelem esetén is alkalmazni kell, azzal, hogy építési engedélyköteles vagy egyszerű bejelentéshez kötött építési tevékenység esetén az építési engedélyt vagy a 30. § (1) bekezdés 9. pontja szerinti dokumentumokat a korszerűsítési, illetve bővítési munkálatokhoz kapcsolódó első részfolyósítást megelőzően kell benyújtani.
 
+(6) [^12] E rendelet alkalmazásában használatbavételi engedély: a használatbavételi engedély, a használatbavétel tudomásulvételéről az építésügyi hatóság által kiállított dokumentum, vagy a felépítés megtörténtét tanúsító hatósági bizonyítvány.
+
 [^5]: Az 5. § (1) bekezdés 1. pont nyitó szövegrésze a 649/2023. (XII. 28.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
 [^6]: Az 5. § (1) bekezdés 4. pontja a 35/2024. (II. 29.) Korm. rendelet 344. §-a szerint módosított szöveg.
 [^7]: Az 5. § (1) bekezdés 5. pontja a 649/2023. (XII. 28.) Korm. rendelet 16. § 2. pontja szerint módosított szöveg.
-[^8]: Az 5. § (1) bekezdés 11. pont nyitó szövegrésze a 649/2023. (XII. 28.) Korm. rendelet 16. § 3. pontja szerint módosított szöveg.
-[^9]: Az 5. § (1) bekezdés 14. pontja a 649/2023. (XII. 28.) Korm. rendelet 16. § 4. pontja szerint módosított szöveg.
+[^8]: Az 5. § (1) bekezdés 8. pont nyitó szövegrésze a 285/2024. (IX. 30.) Korm. rendelet 195. § a) pontja szerint módosított szöveg.
+[^9]: Az 5. § (1) bekezdés 11. pont nyitó szövegrésze a 649/2023. (XII. 28.) Korm. rendelet 16. § 3. pontja szerint módosított szöveg.
+[^10]: Az 5. § (1) bekezdés 14. pontja a 649/2023. (XII. 28.) Korm. rendelet 16. § 4. pontja, a 285/2024. (IX. 30.) Korm. rendelet 196. § 1. pontja szerint módosított szöveg.
+[^11]: Az 5. § (2) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 195. § b) pontja szerint módosított szöveg.
+[^12]: Az 5. § (6) bekezdését a 285/2024. (IX. 30.) Korm. rendelet 193. §-a iktatta be.

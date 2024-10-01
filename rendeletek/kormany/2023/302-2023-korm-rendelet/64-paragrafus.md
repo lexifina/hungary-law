@@ -1,3 +1,3 @@
-64. §[^121]
+64. §[^149]
 
-[^121]: A 64. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^149]: A 64. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
