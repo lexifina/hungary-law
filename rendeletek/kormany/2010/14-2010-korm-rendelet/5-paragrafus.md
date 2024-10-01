@@ -1,4 +1,4 @@
-5. §[^3] (1) A szakértői tevékenység folytatására irányuló bejelentés során a szakértői tevékenységet folytatni szándékozó személy (a továbbiakban: bejelentő)
+5. §[^4] (1) A szakértői tevékenység folytatására irányuló bejelentés során a szakértői tevékenységet folytatni szándékozó személy (a továbbiakban: bejelentő)
 
 a) igazolja
 
@@ -18,4 +18,4 @@ e) részletesen bemutatja az eddigi szakmai tevékenységet, ideértve a szakmai
 
 aa) és ab) pontja szerinti oklevél, bizonyítvány, nem magyar felsőoktatási intézményben szerzett oklevél esetén a Magyarországon megszerezhető oklevéllel történő egyenértékűség elismerésről szóló határozat.
 
-[^3]: Az 5. § a 457/2017. (XII. 28.) Korm. rendelet 283. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^4]: Az 5. § a 457/2017. (XII. 28.) Korm. rendelet 283. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

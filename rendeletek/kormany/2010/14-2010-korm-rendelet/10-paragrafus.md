@@ -1,5 +1,5 @@
 10. § (1) Ez a rendelet a kihirdetését követő 15. napon lép hatályba.
 
-(2)–(5)[^9]
+(2)–(5)[^10]
 
-[^9]: A 10. § (2)–(5) bekezdését az (5) bekezdés hatályon kívül helyezte.
+[^10]: A 10. § (2)–(5) bekezdését az (5) bekezdés hatályon kívül helyezte.
