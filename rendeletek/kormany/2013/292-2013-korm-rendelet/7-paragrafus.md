@@ -12,9 +12,9 @@
 
 (7) A szolgáltatás időben történő teljesítésének biztosítása érdekében a szállítóeszköz készenlétben tartása rendelhető el. Ebben az esetben a szolgáltatás tényleges teljesítését külön döntésben kell elrendelni.
 
-(8)[^28] Ha a kötelezett a hulladékgazdálkodási közszolgáltatási résztevékenység ellátására a koncessziós társasággal szerződést köt, akkor a szolgáltatást elrendelő döntést a katasztrófavédelmi szerv visszavonja.
+(8)[^31] Ha a kötelezett a hulladékgazdálkodási közszolgáltatási résztevékenység ellátására a koncessziós társasággal szerződést köt, akkor a szolgáltatást elrendelő döntést a katasztrófavédelmi szerv visszavonja.
 
-(9)[^29] A katasztrófavédelmi szerv az (1)–(7) bekezdés szerint foganatosított intézkedéseiről haladéktalanul tájékoztatja a hulladékgazdálkodásért felelős minisztert.
+(9)[^32] A katasztrófavédelmi szerv az (1)–(7) bekezdés szerint foganatosított intézkedéseiről haladéktalanul tájékoztatja a hulladékgazdálkodásért felelős minisztert.
 
-[^28]: A 7. § (8) bekezdése a 675/2023. (XII. 29.) Korm. rendelet 6. § h) pontja szerint módosított szöveg.
-[^29]: A 7. § (9) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 746. §-a iktatta be, szövege a 132/2018. (VII. 23.) Korm. rendelet 8. §-a, a 107/2023. (III. 30.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^31]: A 7. § (8) bekezdése a 675/2023. (XII. 29.) Korm. rendelet 6. § h) pontja szerint módosított szöveg.
+[^32]: A 7. § (9) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 746. §-a iktatta be, szövege a 132/2018. (VII. 23.) Korm. rendelet 8. §-a, a 107/2023. (III. 30.) Korm. rendelet 3. §-a szerint módosított szöveg.

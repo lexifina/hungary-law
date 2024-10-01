@@ -2,7 +2,7 @@
 
 ## 4. A díjfizetés és az elszámolás
 
-12. §[^30] (1) A szükségellátás költségét a katasztrófavédelmi szerv állapítja meg.
+12. §[^33] (1) A szükségellátás költségét a katasztrófavédelmi szerv állapítja meg.
 
 (2) A szükségellátás költségeinek meghatározásánál érvényesíteni lehet:
 
@@ -12,4 +12,4 @@ b) a hulladék szállításának és kezelésének költségét,
 
 c) a hulladék gyűjtéséhez szükséges fogyóeszközök biztosításának, valamint a biztonságos munkavégzéséhez szükséges eszközök költségét.
 
-[^30]: A 12. § a 249/2018. (XII. 17.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^33]: A 12. § a 249/2018. (XII. 17.) Korm. rendelet 1. §-ával megállapított szöveg.

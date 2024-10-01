@@ -1,3 +1,3 @@
-14. §[^33]
+14. §[^36]
 
-[^33]: A 14. §-t a 675/2023. (XII. 29.) Korm. rendelet 7. § d) pontja hatályon kívül helyezte.
+[^36]: A 14. §-t a 675/2023. (XII. 29.) Korm. rendelet 7. § d) pontja hatályon kívül helyezte.

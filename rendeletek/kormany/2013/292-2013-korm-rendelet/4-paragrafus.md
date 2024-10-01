@@ -1,4 +1,4 @@
-4. § (1)[^24] Az ideiglenes ellátás ingatlanhasználó által fizetendő díjánál figyelembe kell venni a hulladékról szóló 2012. évi CLXXXV. törvény 91. §-ában a hulladékgazdálkodási közszolgáltatási díj mértékének 2013. július 1-je után történő meghatározására vonatkozó szabályokat.
+4. § (1)[^27] Az ideiglenes ellátás ingatlanhasználó által fizetendő díjánál figyelembe kell venni a hulladékról szóló 2012. évi CLXXXV. törvény 91. §-ában a hulladékgazdálkodási közszolgáltatási díj mértékének 2013. július 1-je után történő meghatározására vonatkozó szabályokat.
 
 (2) A kijelölést követően az ideiglenes ellátással érintett települési önkormányzat haladéktalanul megállapodik a kijelölt közérdekű szolgáltatóval az ideiglenes ellátással érintett földrajzi terület kiterjedéséről, az ellátás útvonaláról és időpontjáról.
 
@@ -6,4 +6,4 @@
 
 (4) A települési önkormányzat az ideiglenes ellátás megkezdéséről, annak időtartamáról és időpontjáról, az ideiglenes ellátás díjáról és megfizetésének módjáról a helyben szokásos módon, továbbá, ha azzal rendelkezik, a honlapján való közzététellel értesíti a lakosságot.
 
-[^24]: A 4. § (1) bekezdése a 330/2016. (XI. 4.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
+[^27]: A 4. § (1) bekezdése a 330/2016. (XI. 4.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
