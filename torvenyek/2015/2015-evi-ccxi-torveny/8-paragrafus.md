@@ -2,7 +2,7 @@
 
 8. § (1) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg
 
-a) a kéményseprő-ipari tevékenységet ellátó kéményseprő-ipari szervet, valamint a kéményseprő-ipari szakkérdésben eljáró első és másodfokú tűzvédelmi hatóságot;
+a) a kéményseprő-ipari tevékenységet ellátó kéményseprő-ipari szervet, valamint a kéményseprő-ipari szakkérdésben eljáró tűzvédelmi hatóságot;
 
 b) a kéményseprő-ipari szerv, a kéményseprő-ipari szolgáltató tevékenysége során észlelt, az élet és a vagyonbiztonság közvetlen veszélyeztetésének minősülő szabálytalanságok körét, az élet és a vagyonbiztonság közvetlen veszélyeztetése esetén az értesítendő hatóságok megjelölését, a kötelező értesítés eseteit, valamint a kötelező értesítés eljárási szabályait;
 

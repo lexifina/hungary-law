@@ -66,7 +66,7 @@ e) a zenés, táncos rendezvények működésének biztonságosabbá tételérő
 
 (7) Ha a szén-monoxid-érzékelő berendezés megfelelőségének a (6) bekezdés szerinti igazolása nem történik meg, erről a kéményseprő-ipari szerv, a kéményseprő-ipari szolgáltató értesíti az illetékes piacfelügyeleti hatóságot a szén-monoxid-érzékelő berendezés típusának, gyártójának, valamint a szén-monoxid-érzékelő berendezés forgalmazója adatainak megadásával.
 
-(8) A nyitott égésterű tüzelőberendezés üzemeltetése során keletkező szén-monoxid érzékelésére szolgáló berendezés műszaki előírásoknak való megfelelősége tekintetében a hivatásos katasztrófavédelmi szerv központi szerve piacfelügyeleti hatóságként jár el jogszabályban meghatározottak szerint.
+(8) A nyitott égésterű tüzelőberendezés üzemeltetése során keletkező szén-monoxid érzékelésére szolgáló berendezés műszaki előírásoknak való megfelelősége tekintetében a kormányrendeletben meghatározott szerv piacfelügyeleti hatóságként jár el jogszabályban meghatározottak szerint.
 
 (9) A szén-monoxid-érzékelő berendezések piacfelügyeleti eljárásai alapján a piacfelügyeleti hatóság nyilvántartja a szén-monoxid-érzékelő berendezés
 

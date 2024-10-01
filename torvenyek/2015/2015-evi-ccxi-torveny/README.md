@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-211-00-00
 | 2021-01-01 | 2020. évi CLXVIII. törvény | 2015-211-00-00.11 |
 | 2021-07-01 | 2021. évi L. törvény | 2015-211-00-00.12 |
 | 2023-01-01 | 2022. évi XXII. törvény | 2015-211-00-00.13 |
+| 2024-10-01 | 2024. évi XXIX. törvény | 2015-211-00-00.14 |
