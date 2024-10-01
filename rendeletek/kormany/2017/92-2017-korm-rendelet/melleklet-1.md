@@ -42,10 +42,12 @@ A zalaegerszegi járműipari tesztpálya projekt beruházással összefüggő, n
 
 20. erdészeti hatósági eljárások,
 
-21. veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások,
+21.[^5] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
 
 22. földvédelmi hatósági eljárások,
 
 23. azok az 1–22. pontban nem szereplő hatósági engedélyezési eljárások, amelyek Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
 24. az 1–23. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^5]: Az 1. melléklet 21. pontja a 257/2024. (VIII. 29.) Korm. rendelet 238. §-a szerint módosított szöveg.
