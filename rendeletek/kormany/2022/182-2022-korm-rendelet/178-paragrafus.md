@@ -1,6 +1,6 @@
-## 16.[^167] A közigazgatási és területfejlesztési miniszter feladat- és hatásköre
+## 16.[^168] A közigazgatási és területfejlesztési miniszter feladat- és hatásköre
 
-178. §[^168] A közigazgatási és területfejlesztési miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány
+178. §[^169] A közigazgatási és területfejlesztési miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány
 
 1. területfejlesztésért,
 
@@ -28,7 +28,13 @@
 
 13. az Európa Kulturális Fővárosa pályázati programmal kapcsolatos feladatok koordinálásáért
 
+14.[^170] a hivatásos katasztrófavédelmi szerv által lefolytatott eljárásokat kivéve a tűzvédelmi hatósági ügyekért,
+
+15.[^171] a hivatásos katasztrófavédelmi szerv által lefolytatott eljárásokat kivéve az iparbiztonsági hatósági ügyekért
+
 felelős tagja.
 
-[^167]: A 16. alcím címe az 599/2023. (XII. 22.) Korm. rendelet 41. § c) pontja szerint módosított szöveg.
-[^168]: A 178. § az 599/2023. (XII. 22.) Korm. rendelet 33. §-ával megállapított szöveg.
+[^168]: A 16. alcím címe az 599/2023. (XII. 22.) Korm. rendelet 41. § c) pontja szerint módosított szöveg.
+[^169]: A 178. § az 599/2023. (XII. 22.) Korm. rendelet 33. §-ával megállapított szöveg.
+[^170]: A 178. § 14. pontját a 257/2024. (VIII. 29.) Korm. rendelet 347. §-a iktatta be.
+[^171]: A 178. § 15. pontját a 257/2024. (VIII. 29.) Korm. rendelet 347. §-a iktatta be.

@@ -24,8 +24,8 @@
 
 11. vadgazdálkodásért,
 
-12.[^45]
+12.[^46]
 
 felelős tagja.
 
-[^45]: Az 54. § 12. pontját az 599/2023. (XII. 22.) Korm. rendelet 42. § h) pontja hatályon kívül helyezte.
+[^46]: Az 54. § 12. pontját az 599/2023. (XII. 22.) Korm. rendelet 42. § h) pontja hatályon kívül helyezte.

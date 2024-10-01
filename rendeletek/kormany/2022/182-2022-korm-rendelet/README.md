@@ -32,3 +32,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-182-20-
 | 2024-07-08 | 2022-182-20-22.26 | 176/2024. (VII. 7.) Korm. rendelet |
 | 2024-08-01 | 2022-182-20-22.24 | 172/2024. (VII. 2.) Korm. rendelet |
 | 2024-09-01 | 2022-182-20-22.25 | 172/2024. (VII. 2.) Korm. rendelet |
+| 2024-10-01 | 2022-182-20-22.27 | 257/2024. (VIII. 29.) Korm. rendelet |

@@ -1,4 +1,4 @@
-173. §[^162] A miniszter a vízügyi igazgatási szervek irányításáért való felelőssége keretében
+173. §[^163] A miniszter a vízügyi igazgatási szervek irányításáért való felelőssége keretében
 
 a) végzi az ár- és belvízvédekezés országos irányításával kapcsolatos feladatokat,
 
@@ -28,4 +28,4 @@ m) ellátja az országhatárokon átterjedő vízszennyezésekkel kapcsolatos fe
 
 n) gondoskodik a szomszédos országokkal létesített vízgazdálkodási egyezmények végrehajtásáról.
 
-[^162]: A 173. § a 172/2024. (VII. 2.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg.
+[^163]: A 173. § a 172/2024. (VII. 2.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg.

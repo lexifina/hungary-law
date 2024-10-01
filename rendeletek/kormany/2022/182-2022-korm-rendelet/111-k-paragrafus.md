@@ -1,4 +1,4 @@
-111/K. §[^119] (1) A miniszter a fogyasztóvédelemért való felelőssége keretében előkészíti a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmára, a fogyasztóvédelemre és a gazdasági reklámtevékenységre vonatkozó jogszabályokat.
+111/K. §[^120] (1) A miniszter a fogyasztóvédelemért való felelőssége keretében előkészíti a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmára, a fogyasztóvédelemre és a gazdasági reklámtevékenységre vonatkozó jogszabályokat.
 
 (2) A miniszter a fogyasztóvédelemért való felelőssége keretében
 
@@ -12,4 +12,4 @@ d) a Kormány feladatkörében érintett tagjának bevonásával intézkedéseke
 
 e) ellátja az intézményfejlesztési feladatokat az áruk és szolgáltatások biztonságossága és megfelelősége tekintetében.
 
-[^119]: A 111/K. §-t a 172/2024. (VII. 2.) Korm. rendelet 7. § (6) bekezdése iktatta be.
+[^120]: A 111/K. §-t a 172/2024. (VII. 2.) Korm. rendelet 7. § (6) bekezdése iktatta be.
