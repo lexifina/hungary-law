@@ -4,11 +4,11 @@
 
 | 2. | Szakhatósági állásfoglalás adása a vízügyi hatóság engedélyezési eljárásaiban. | 26 000 | E0100 |
 
-| 3. | Szakhatósági állásfoglalás adása a Nemzeti Média- és Hírközlési Hatóság, valamint a Honvédelmi Minisztérium hatósági eljárásában. | 23 000 | E0300 |
+| 3. | Szakhatósági állásfoglalás adása a Nemzeti Média- és Hírközlési Hatóság hatósági eljárásában.[^6] | 23 000 | E0300 |
 
 | 4. | Szakhatósági állásfoglalás adása az Országos Atomenergia Hivatal hatósági eljárásában. | 57 000 | E0400 |
 
-| 5. | Szakhatósági állásfoglalás adása a fővárosi és vármegyei kormányhivatalok engedélyezési eljárásaiban.[^6] | 23 000 | E0500 |
+| 5. | Szakhatósági állásfoglalás adása a fővárosi és vármegyei kormányhivatalok engedélyezési eljárásaiban.[^7] | 23 000 | E0500 |
 
 | 6. | Szakhatósági állásfoglalás adása az igazságügyi szakértői névjegyzékbe történő felvételre irányuló eljárásban. | 15 000 | E0600 |
 
@@ -24,13 +24,15 @@ A felügyeleti díj elszámolásához szükséges adatlap tartalma
 
 3. A tárgyév megjelölése
 
-4. Az engedélyes tevékenységek előző évi árbevételei [ezer forintban] tevékenységenként és összesítve
+4.[^8] Az engedélyes tevékenységek előző évi árbevételei [forintban] tevékenységenként és összesítve
 
-5.[^7] A tárgyévi felügyeleti díj mértéke [a 4. pont szerinti összesített érték × 0,4%, illetve az 5. § (1) bekezdés d) pontja szerinti engedélyes esetében 0,04%]
+5.[^9] A tárgyévi felügyeleti díj mértéke [forintban, a 4. pont szerinti összesített érték × 0,4%, illetve az 5. § (1) bekezdés d) pontja szerinti engedélyes esetében 0,04%]
 
 6. Az engedélyes neve, telefonszáma
 
 7. Cégszerű aláírás
 
-[^6]: 
-[^7]: A 3. melléklet 5. pontja a 25/2023. (XII. 22.) SZTFH rendelet 1. § b) pontja szerint módosított szöveg.
+[^6]: A 2. mellékletben foglalt táblázat A:3 mezője a 16/2024. (IX. 19.) SZTFH rendelet 19. §-a szerint módosított szöveg.
+[^7]: 
+[^8]: A 3. melléklet 4. pontja a 16/2024. (IX. 19.) SZTFH rendelet 18. § a) pontja szerint módosított szöveg.
+[^9]: A 3. melléklet 5. pontja a 25/2023. (XII. 22.) SZTFH rendelet 1. § b) pontja, a 16/2024. (IX. 19.) SZTFH rendelet 18. § b) pontja szerint módosított szöveg.
