@@ -8,14 +8,14 @@ b) ellenőrzi, hogy az ingatlan szerepel-e az ingatlan-nyilvántartásban.
 
 (3) Az egyetemes postai szolgáltató a megkeresésre adott válaszát és a visszaigazolást haladéktalanul, de legkésőbb egy munkanapon belül az erre a célra kialakított elektronikus alkalmazás útján küldi meg a címképző szerv részére.
 
-(4)[^22] A címképzésért felelős szerv az ingatlanügyi hatóság határozatában feltüntetett ingatlan-nyilvántartási azonosító kódot, a címkoordinátákat és a címhez kapcsolódó postai irányítószámot rögzíti a központi címregiszterben.
+(4)[^24] A címképzésért felelős szerv az ingatlanügyi hatóság határozatában feltüntetett ingatlan-nyilvántartási azonosító kódot, a címkoordinátákat és a címhez kapcsolódó postai irányítószámot rögzíti a központi címregiszterben.
 
-(4a)[^23] Amennyiben a (4) bekezdésben foglalt ingatlan-nyilvántartási adatok a cím bejegyzése időpontjában még nem állnak rendelkezésre, úgy a címképzésért felelős szerv a 2. § (1) bekezdés f) pontjában meghatározott esetben a címet ezen adatok nélkül veszi nyilvántartásba és annak kiegészítése érdekében haladéktalanul megkeresi a külön jogszabályban meghatározott hatáskörrel rendelkező szervet.
+(4a)[^25] Amennyiben a (4) bekezdésben foglalt ingatlan-nyilvántartási adatok a cím bejegyzése időpontjában még nem állnak rendelkezésre, úgy a címképzésért felelős szerv a 2. § (1) bekezdés f) pontjában meghatározott esetben a címet ezen adatok nélkül veszi nyilvántartásba és annak kiegészítése érdekében haladéktalanul megkeresi a külön jogszabályban meghatározott hatáskörrel rendelkező szervet.
 
 (5) A címképzésért felelős szerv a címkezeléssel érintett címeket a helyi önkormányzat honlapján közzéteszi, ennek hiányában vagy emellett hirdetőtábláján kifüggeszti vagy más, helyben szokásos módon közzéteszi, úgy, hogy az legalább a kifüggesztésétől vagy közzétételétől számított egy hónapig folyamatosan megtekinthető legyen.
 
-(6)[^24] A címképzésért felelős szerv a címkezeléssel érintett, az Nytv. 13/A. §-a szerinti költözéssel nem járó lakcímváltozást eredményező címek eseményazonosítóját haladéktalanul megküldi a cím szerint illetékes járási hivatalnak a jogszabályban meghatározott feladatai ellátása céljából.
+(6)[^26] A címképzésért felelős szerv a címkezeléssel érintett, az Nytv. 13/A. §-a szerinti költözéssel nem járó lakcímváltozást eredményező címek eseményazonosítóját haladéktalanul megküldi a cím szerint illetékes járási hivatalnak a jogszabályban meghatározott feladatai ellátása céljából.
 
-[^22]: A 8. § (4) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 136. §-a szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
-[^23]: A 8. § (4a) bekezdését a 404/2015. (XII. 1.) Korm. rendelet 5. §-a iktatta be.
-[^24]: A 8. § (6) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 284. § (2) bekezdése iktatta be.
+[^24]: A 8. § (4) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 136. §-a szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
+[^25]: A 8. § (4a) bekezdését a 404/2015. (XII. 1.) Korm. rendelet 5. §-a iktatta be.
+[^26]: A 8. § (6) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 284. § (2) bekezdése iktatta be.
