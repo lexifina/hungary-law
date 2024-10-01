@@ -52,10 +52,12 @@ A Beruházásokkal összefüggő, nemzetgazdasági szempontból kiemelt jelentő
 
 25. területrendezési hatósági eljárások,
 
-26. veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások,
+26.[^1] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
 
 27. légügyi engedélyezési eljárások,
 
 28. azok az 1–27. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, amelyek a Beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
 29. az 1–28. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^1]: Az 1. melléklet 26. pontja a 257/2024. (VIII. 29.) Korm. rendelet 358. §-a szerint módosított szöveg.
