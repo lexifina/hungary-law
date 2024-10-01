@@ -1,13 +1,21 @@
-3/B. §[^20] (1) A főépítészi vizsga alól mentesül az a személy, aki
+3/B. §[^19] (1) Az állami főépítészi vizsga, valamint az önkormányzati főépítészi vizsga (a továbbiakban együtt: főépítészi vizsga) alól mentesül
 
-a) építészeti állami díjat kapott, vagy
+a) az országos főépítész és a Balatoni főépítész, valamint aki korábban országos főépítészi vagy Balatoni főépítészi feladatot látott el,
 
-b) önkormányzati főépítészi szakmérnöki oklevéllel vagy olyan építésügyi szakmai tartalmú vizsgával rendelkezik, melynek követelményrendszere a főépítészi vizsga követelményrendszerével megegyezik.
+b) az építészeti állami díjat kapott személy vagy
 
-(2) Az (1) bekezdésben foglaltakon túl az önkormányzati főépítészi vizsga alól mentesül az a személy, aki a 3/C. § szerinti szakmai gyakorlati idővel rendelkezik, és ebből állami vagy önkormányzati főépítészként vagy főépítész mellett legalább öt év szakirányú szakmai gyakorlatot szerzett.
+c) az a személy, aki főépítészi szakmérnöki oklevéllel rendelkezik.
 
-(3) A főépítészi vizsga alól részben mentesül az a személy, aki olyan vizsgával rendelkezik, melynek követelményrendszere a főépítészi vizsga általános vagy különös részének követelményrendszerével megegyezik.
+(2) Az (1) bekezdésben foglaltakon túl az önkormányzati főépítészi vizsga alól mentesül az a személy, aki
 
-(4) A főépítészi vizsga alóli mentesülést alátámasztó igazolásokat legkésőbb a 4. § (2) bekezdésében meghatározott időn belül be kell nyújtani a foglalkoztató részére. A részleges mentesülést alátámasztó iratokat a főépítészi vizsgára való jelentkezéskor a jelentkező megküldi a Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaságnak (a továbbiakban: Lechner Tudásközpont).
+a) állami főépítészi vizsgával rendelkezik, vagy
 
-[^20]: A 3/B. §-t a 241/2021. (V. 12.) Korm. rendelet 4. §-a iktatta be.
+b) a szakmai gyakorlati időből kormánytisztviselőként vagy köztisztviselőként az országos, a Balatoni vagy az állami főépítész mellett legalább három év szakirányú szakmai gyakorlatot szerzett, azzal, hogy a szakmai gyakorlati időbe a tartós távollét és az egy hónapnál hosszabb fizetés nélküli szabadság időtartama nem számít bele.
+
+(3) A főépítészi vizsga alól részben mentesül az a személy, aki olyan vizsgával rendelkezik, melynek követelményrendszere a főépítészi vizsga 1. melléklet 1. pont 1.1. és 1.7. alpontja szerinti általános részének követelményrendszerével megegyezik. Az általános rész teljesítése alól mentesül különösen a közigazgatási szakvizsgával, az építésügyi vizsgával vagy jogi szakokleveles mérnök végzettséggel rendelkező személy.
+
+(4) A főépítészi vizsga alóli mentesülést alátámasztó igazolásokat legkésőbb a főépítészi foglalkoztatási jogviszony létesítésének kezdő napjáig be kell nyújtani a foglalkoztató részére. Az (1) és (2) bekezdés szerinti mentesülésről szóló igazolást önkormányzati főépítész esetén a kérelmező lakóhelye szerinti állami főépítész, állami főépítész esetén az országos főépítész állítja ki a kérelem beérkezésétől számított 15 napon belül, és azt a főépítészi vizsgabizonyítványokkal együtt kell nyilvántartani. A teljes mentességgel rendelkező személyt az igazolás kézhezvételétől főépítészi vizsgával rendelkezőnek kell tekinteni. A (3) bekezdés szerinti részleges mentesülést alátámasztó iratokat a főépítészi vizsgára való jelentkezéskor a jelentkező megküldi a Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaságnak.
+
+(5) Ha önkormányzati főépítészi vizsgával rendelkező személyt neveznek ki állami főépítésznek, az állami főépítészi vizsgát a kormánytisztviselői jogviszonya kezdetétől számított hat hónapon belül le kell tennie.
+
+[^19]: A 3/B. §-t a 241/2021. (V. 12.) Korm. rendelet 4. §-a iktatta be, szövege a 285/2024. (IX. 30.) Korm. rendelet 34. §-ával megállapított szöveg.

@@ -1,16 +1,22 @@
-## Foglalkoztatási feltételek és a főépítészi vizsga[^17]
+## Főépítészi foglalkoztatási feltételek és a főépítészi vizsga[^12]
 
-3. §[^18] (1) A (2) bekezdésben foglalt kivétellel önkormányzati főépítészi feladatkör ellátható köztisztviselőként, vagy – az összeférhetetlenségre, a minősített adatra és a felelősségre vonásra vonatkozó jogszabályi előírásokra való figyelemfelhívást is tartalmazó, a feladatkör ellátására vonatkozó írásban megkötött – megbízási szerződés alapján.
+3. §[^13] (1) Főépítészként az foglalkoztatható, aki
 
-(2) A fővárosi főépítészi feladatkör köztisztviselői, az állami főépítészi feladatkör kormánytisztviselői kinevezéssel látható el.
+a) büntetlen előéletű és cselekvőképes,
 
-(3) Főépítészként az foglalkoztatható, aki
+b) a 3/A. § (1) bekezdésében meghatározott szakirányú felsőfokú végzettséggel rendelkezik,
 
-a) a 3/A. § (1) bekezdésében meghatározott szakirányú felsőfokú végzettséggel rendelkezik,
+c) a 3/C. §-ban meghatározott szakmai gyakorlati idővel rendelkezik,
 
-b) a főépítészi vizsgát sikeresen teljesítette, kivéve az országos főépítészt, a 3/B. §-ban és a 4. § (2) bekezdésében meghatározott eseteket, és
+d) a főépítészi vizsgát sikeresen teljesítette, vagy a vizsga alól a 3/B. § szerint mentesült, továbbá
 
-c) a 3/C. §-ban meghatározott szakmai gyakorlati idővel rendelkezik, kivéve a 3/B. § (1) bekezdés a) pontjában és (2) bekezdésében meghatározott eseteket.
+e) állami főépítész és önkormányzati főépítész esetén a területi építész kamara által vezetett tagsági nyilvántartásban aktív tagként szerepel.
 
-[^17]: A „Foglalkoztatási feltételek és a főépítészi vizsga” alcím címe a 241/2021. (V. 12.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^18]: A 3. § a 241/2021. (V. 12.) Korm. rendelet 3. §-ával megállapított szöveg.
+(2) Főépítészi vizsgát csak az tehet, aki már rendelkezik a 3/A. § (1) bekezdése szerinti szakirányú felsőfokú végzettséggel.
+
+(3) Megbízási jogviszonyban főépítészként nyugdíjas is foglalkoztatható, ha teljesíti az (1) bekezdés szerinti követelményeket.
+
+(4) Az állami főépítész és az önkormányzati főépítész köteles a magyar építészetről szóló 2023. évi C. törvény (a továbbiakban: Méptv.) 53. § (4) bekezdése és 227. § (1) bekezdése figyelembevételével felvételét kérni a főépítészi nyilvántartásba.
+
+[^12]: A „Főépítészi foglalkoztatási feltételek és a főépítészi vizsga” alcím címe a 285/2024. (IX. 30.) Korm. rendelet 31. §-ával megállapított szöveg.
+[^13]: A 3. § a 285/2024. (IX. 30.) Korm. rendelet 32. §-ával megállapított szöveg.
