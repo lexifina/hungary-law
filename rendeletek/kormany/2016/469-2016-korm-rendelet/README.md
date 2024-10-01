@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-469-20-
 | 2022-01-01 | 2016-469-20-22.3 | 827/2021. (XII. 28.) Korm. rendelet |
 | 2022-07-01 | 2016-469-20-22.4 | 238/2022. (VI. 30.) Korm. rendelet |
 | 2023-12-28 | 2016-469-20-22.5 | 644/2023. (XII. 28.) Korm. rendelet |
+| 2024-10-01 | 2016-469-20-22.6 | 74/2025. (IV. 10.) Korm. rendelet |
