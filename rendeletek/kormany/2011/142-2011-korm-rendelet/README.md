@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-142-20-
 | 2018-01-01 | 2011-142-20-22.12 | 458/2017. (XII. 28.) Korm. rendelet |
 | 2020-03-01 | 2011-142-20-22.13 | 361/2019. (XII. 30.) Korm. rendelet |
 | 2023-01-01 | 2011-142-20-22.14 | 546/2022. (XII. 22.) Korm. rendelet |
+| 2024-10-01 | 2011-142-20-22.15 | 257/2024. (VIII. 29.) Korm. rendelet |
