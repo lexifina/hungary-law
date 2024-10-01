@@ -24,7 +24,7 @@
 
 11.[^11] eszközök: a számvitelről szóló törvényben és az államháztartás számviteléről szóló kormányrendeletben meghatározottak szerinti tárgyi eszközök, továbbá műszaki berendezések, gépek, járművek, eszköz tartozékok és alkatrészek, szerszámok, takarító- és tisztítószerek, felszerelések, informatikai-ügyviteli-hiradástechnikai eszközök, háztartási gépek, bútorok és egyéb berendezések,
 
-12.[^12] épület: az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény (a továbbiakban: Étv.) 2. § 10. pontjában meghatározottak szerinti fogalom,
+12.[^12] épület: a magyar építészetről szóló 2023. évi C. törvény (a továbbiakban: Méptv.) 16. § 42. pontjában meghatározottak szerinti fogalom,
 
 13. különösen súlyos természeti károk: a természeti és lakókörnyezetben különösen földrengés, árvíz, lakott területen belüli nagy kiterjedésű belvíz, tornádó, tűzvész, robbanás, pince- vagy partfalomlás, földcsuszamlás miatt bekövetkezett károk,
 
@@ -32,7 +32,7 @@
 
 15.[^14] katasztrófavédelmi szúnyoggyérítés: a Kormány által kihirdetett veszélyhelyzet időszakában ár- és belvíz által sújtott területet érintő védekezéshez kapcsolódó, a Nemzeti Népegészségügyi és Gyógyszerészeti Központ által jóváhagyott, légi úton, belterületen az adott költségvetési évben végzett szúnyoggyérítés.
 
-16.[^15] építmény: a helyi önkormányzat tulajdonában lévő, kötelező önkormányzati feladatok ellátását szolgáló vagy helyi önkormányzat által törvény alapján kötelezően működtetett út, híd, komp- és révátkelőhely, ár- és belvízvédelmi vízi létesítmény, közmű és annak műtárgyai, pince, amennyiben megfelel az Étv. 2. § 8. pontjában meghatározottaknak.
+16.[^15] építmény: a helyi önkormányzat tulajdonában lévő, kötelező önkormányzati feladatok ellátását szolgáló vagy helyi önkormányzat által törvény alapján kötelezően működtetett út, híd, komp- és révátkelőhely, ár- és belvízvédelmi vízi létesítmény, közmű és annak műtárgyai, pince, amennyiben megfelel a Méptv. 16. § 34. pontjában meghatározottaknak.
 
 [^6]: A 2. § 1. pontja a 92/2013. (III. 28.) Korm. rendelet 11. § 4. pontja szerint módosított szöveg.
 [^7]: A 2. § 3. pontja a 92/2013. (III. 28.) Korm. rendelet 11. § 4. pontja szerint módosított szöveg.
@@ -40,7 +40,7 @@
 [^9]: A 2. § 7. pontja a 129/2014. (IV. 10.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^10]: A 2. § 10. pontja a 92/2013. (III. 28.) Korm. rendelet 12. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^11]: A 2. § 11. pontját a 92/2013. (III. 28.) Korm. rendelet 12. § (1) bekezdés b) pontja hatályon kívül helyezte, újonnan a 129/2014. (IV. 10.) Korm. rendelet 2. § (3) bekezdése iktatta be.
-[^12]: A 2. § 12. pontját a 92/2013. (III. 28.) Korm. rendelet 12. § (1) bekezdés b) pontja hatályon kívül helyezte, újonnan a 383/2015. (XII. 8.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^12]: A 2. § 12. pontját a 92/2013. (III. 28.) Korm. rendelet 12. § (1) bekezdés b) pontja hatályon kívül helyezte, újonnan a 383/2015. (XII. 8.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 285/2024. (IX. 30.) Korm. rendelet 63. § a) pontja szerint módosított szöveg.
 [^13]: A 2. § 14. pontja a 174/2012. (VII. 26.) Korm. rendelet 82. §-a, a 92/2013. (III. 28.) Korm. rendelet 11. § 6. pontja, a 616/2022. (XII. 29.) Korm. rendelet 119. §-a szerint módosított szöveg.
 [^14]: A 2. § 15. pontját a 92/2013. (III. 28.) Korm. rendelet 2. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 168. § (2) bekezdés a) pontja, a 360/2019. (XII. 30.) Korm. rendelet 85. § (3) bekezdés a) pontja, a 334/2023. (VII. 20.) Korm. rendelet 24. § a) pontja szerint módosított szöveg.
-[^15]: A 2. § 16. pontját a 383/2015. (XII. 8.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^15]: A 2. § 16. pontját a 383/2015. (XII. 8.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 285/2024. (IX. 30.) Korm. rendelet 63. § b) pontja szerint módosított szöveg.
