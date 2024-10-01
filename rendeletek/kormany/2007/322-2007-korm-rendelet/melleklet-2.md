@@ -2,7 +2,7 @@
 
 |  | Közösségi irányelv vagy rendelet vonatkozó rendelkezései | Hatáskörrel rendelkező ellenőrző szervek |
 
-| JFGK 1. | A vizek mezőgazdasági eredetű nitrátszennyezésével szembeni védelméről szóló, 1991. december 12-i 91/676/EGK tanácsi irányelv 4. és 5. cikke | termőföldön: a növény- és talajvédelmi hatáskörében eljáró vármegyei kormányhivatal; állattartó telepen: elsőfokú vízvédelmi hatósági hatáskörében a fővárosi, vármegyei katasztrófavédelmi igazgatóság |
+| JFGK 1. | A vizek mezőgazdasági eredetű nitrátszennyezésével szembeni védelméről szóló, 1991. december 12-i 91/676/EGK tanácsi irányelv 4. és 5. cikke | termőföldön: a növény- és talajvédelmi hatáskörében eljáró vármegyei kormányhivatal; állattartó telepen: Magyar Államkincstár |
 
 | JFGK 2. | A vadon élő madarak védelméről szóló, 2009. november 30-i 2009/147/EK európai parlamenti és tanácsi irányelv 3. cikk (1) bekezdése, (2) bekezdés b) pontja, 4. cikk (1), (2) és (4) bekezdése | Magyar Államkincstár |
 
