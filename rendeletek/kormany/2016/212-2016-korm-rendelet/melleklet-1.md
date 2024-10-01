@@ -44,7 +44,7 @@ A Robert Bosch Korlátolt Felelősségű Társaság Budapest területén megval�
 
 20. erdővédelmi hatósági eljárások,
 
-21. veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások,
+21.[^11] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
 
 22. azok az 1–21. pontban nem szereplő hatósági engedélyezési eljárások, amelyek az 1. § (1) bekezdése szerinti beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
@@ -52,3 +52,4 @@ A Robert Bosch Korlátolt Felelősségű Társaság Budapest területén megval�
 
 [^9]: A 9. §-t a 291/2019. (XII. 5.) Korm. rendelet 2. §-a iktatta be.
 [^10]: A hatálybalépés időpontja 2019. december 6.
+[^11]: Az 1. melléklet 21. pontja a 257/2024. (VIII. 29.) Korm. rendelet 200. §-a szerint módosított szöveg.

@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-212-20-
 | 2018-07-28 | 2016-212-20-22.4 | 141/2018. (VII. 27.) Korm. rendelet |
 | 2019-12-06 | 2016-212-20-22.5 | 291/2019. (XII. 5.) Korm. rendelet |
 | 2022-12-23 | 2016-212-20-22.6 | 546/2022. (XII. 22.) Korm. rendelet |
+| 2024-10-01 | 2016-212-20-22.7 | 257/2024. (VIII. 29.) Korm. rendelet |
