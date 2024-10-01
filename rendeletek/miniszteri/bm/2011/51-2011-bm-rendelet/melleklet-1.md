@@ -4,4 +4,4 @@
 
 [^3]: A 6. §-t a 35/2016. (VIII. 30.) BM rendelet 1. §-a iktatta be.
 [^4]: A hatálybalépés időpontja 2016. október 14.
-[^5]: Az 1. melléklet a 35/2016. (VIII. 30.) BM rendelet 2. §-a szerint módosított szöveg.
+[^5]: Az 1. melléklet a 35/2016. (VIII. 30.) BM rendelet 2. §-a, a 39/2024. (VIII. 29.) BM rendelet 3. § b) pontja szerint módosított szöveg.
