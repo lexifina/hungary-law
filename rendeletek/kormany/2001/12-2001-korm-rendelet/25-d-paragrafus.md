@@ -1,6 +1,6 @@
-## 25/C. §[^288] A 2004. május 1-jén vagy azt követően kötött kölcsönszerződések esetén a 25. § (1) és (2) bekezdése szerinti állami megtérítési kötelezettség nem érvényesíthető.
+## 25/C. §[^289] A 2004. május 1-jén vagy azt követően kötött kölcsönszerződések esetén a 25. § (1) és (2) bekezdése szerinti állami megtérítési kötelezettség nem érvényesíthető.
 
-## [^289] VII/A. A KÖZVETLEN TÁMOGATÁSOK ÉS A KAMATTÁMOGATÁSOK KÖZPONTI KÖLTSÉGVETÉSSEL VALÓ ELSZÁMOLÁSÁNAK SZABÁLYAI
+## [^290] VII/A. A KÖZVETLEN TÁMOGATÁSOK ÉS A KAMATTÁMOGATÁSOK KÖZPONTI KÖLTSÉGVETÉSSEL VALÓ ELSZÁMOLÁSÁNAK SZABÁLYAI
 
 25/D. § (1) A közvetlen támogatásokat és a kamattámogatásokat az állam nevében a Kincstár nyújtja.
 
@@ -26,5 +26,5 @@
 
 (12) A hitelintézet a támogatásokat az eAdaton elérhető tájékoztató szerinti formában tartja nyilván.
 
-[^288]: A 25/C. §-t a 257/2011. (XII. 6.) Korm. rendelet 10. §-a iktatta be.
-[^289]: A VII/A. fejezetet (25/D–25/E. §) a 101/2019. (V. 2.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^289]: A 25/C. §-t a 257/2011. (XII. 6.) Korm. rendelet 10. §-a iktatta be.
+[^290]: A VII/A. fejezetet (25/D–25/E. §) a 101/2019. (V. 2.) Korm. rendelet 1. § (1) bekezdése iktatta be.

@@ -1,4 +1,4 @@
-## 45/A. §[^380] E rendeletnek a lakáscélú állami támogatásokról szóló 12/2001. (I. 31.) Korm. rendelet módosításáról szóló 74/2011. (V. 2.) Korm. rendelettel (a továbbiakban: Mód1.) módosított rendelkezéseit a Mód1. hatálybalépését[^381] követően közétett pályázati felhívásokra és azok alapján benyújtott pályázatokra, valamint a hitelintézethez benyújtott támogatási kérelmekre kell alkalmazni.
+## 45/A. §[^381] E rendeletnek a lakáscélú állami támogatásokról szóló 12/2001. (I. 31.) Korm. rendelet módosításáról szóló 74/2011. (V. 2.) Korm. rendelettel (a továbbiakban: Mód1.) módosított rendelkezéseit a Mód1. hatálybalépését[^382] követően közétett pályázati felhívásokra és azok alapján benyújtott pályázatokra, valamint a hitelintézethez benyújtott támogatási kérelmekre kell alkalmazni.
 
-[^380]: A 45/A. §-t a 74/2011. (V. 2.) Korm. rendelet 17. §-a iktatta be.
-[^381]: A hatálybalépés időpontja 2011. május 5.
+[^381]: A 45/A. §-t a 74/2011. (V. 2.) Korm. rendelet 17. §-a iktatta be.
+[^382]: A hatálybalépés időpontja 2011. május 5.

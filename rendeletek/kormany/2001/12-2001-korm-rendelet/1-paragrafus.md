@@ -56,9 +56,9 @@ d)[^13] a hontalan, ha a harmadik országbeli állampolgárok beutazására és 
 
 8.[^14] egyedülálló: az a személy, aki hajadon, nőtlen, özvegy, elvált és nincs élettársa.
 
-9.[^15] új lakás: az alapozási munkáktól kezdődően teljes egészében újonnan épített, illetőleg emeletráépítéssel, vagy tetőtér-beépítéssel nem családi- vagy ikerházon megvalósuló, a lakhatás feltételeinek a vonatkozó jogszabályi követelmények szerint megfelelő lakóegység, amely elkészültét követően használatbavételi engedély, fennmaradási engedély vagy hatósági bizonyítvánnyal igazolandó használatbavétel tudomásulvételi eljárásra köteles;
+9.[^15] új lakás: az alapozási munkáktól kezdődően teljes egészében újonnan épített, illetőleg emeletráépítéssel, vagy tetőtér-beépítéssel nem családi- vagy ikerházon megvalósuló, a lakhatás feltételeinek a vonatkozó jogszabályi követelmények szerint megfelelő lakóegység, amely elkészültét követően használatbavételi engedély vagy fennmaradási engedély köteles;
 
-10.[^16] értékesítés szempontjából új lakás: a 9. pontban meghatározottakon kívül, a 15. § (1) bekezdés szerinti, értékesítés céljára épített új lakás az is, amelyet a használatbavételi vagy a fennmaradási engedély kiadását vagy a használatbavétel tudomásulvételét követően legfeljebb három évig bérlakásként hasznosítanak és első ízben történő értékesítésére ezt követően kerül sor;
+10.[^16] értékesítés szempontjából új lakás: a 9. pontban meghatározottakon kívül, a 15. § (1) bekezdés szerinti, értékesítés céljára épített új lakás az is, amelyet a használatbavételi vagy a fennmaradási engedély kiadását követően legfeljebb három évig bérlakásként hasznosítanak és első ízben történő értékesítésére ezt követően kerül sor;
 
 11.[^17] használt lakás: ténylegesen használatba vett, a lakhatás feltételeinek a vonatkozó jogszabályi követelmények szerint megfelelő, újnak nem minősülő lakás.
 
@@ -72,15 +72,15 @@ d)[^13] a hontalan, ha a harmadik országbeli állampolgárok beutazására és 
 
 16.[^22] miniszter: a 28. §-ban, valamint a 32/C. §-ban foglalt előirányzatok esetében a nem az európai uniós fejlesztési források felhasználásához kapcsolódó fejlesztéspolitikáért felelős miniszter, egyéb esetben a lakáscélú állami támogatásokért felelős miniszter;
 
-17.[^23] lakás: az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet rendelkezéseinek megfelelő, az ingatlan-nyilvántartásban lakóház vagy lakás megnevezéssel nyilvántartott vagy – új lakás építése esetén – ilyenként feltüntetésre váró ingatlan a hozzá tartozó földrészlettel;
+17.[^23] lakás: a településrendezési és építési követelményekről szóló kormányrendelet rendelkezéseinek megfelelő, az ingatlan-nyilvántartásban lakóház vagy lakás megnevezéssel nyilvántartott vagy – új lakás építése esetén – ilyenként feltüntetésre váró ingatlan a hozzá tartozó földrészlettel;
 
 18.[^24] kormányhivatal: a lakáscélú állami támogatásokkal kapcsolatos feladatkörében eljárva a támogatott lakás fekvése szerint illetékes fővárosi és vármegyei kormányhivatal, Pest vármegye és a főváros területén fekvő támogatott lakás esetén Budapest Főváros Kormányhivatala;
 
-19.[^25] építési engedély: új lakás építése esetén az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény (a továbbiakban: Étv.) szerinti építési engedély vagy az építésügyi hatóság által kiállított dokumentum arról, hogy az egyszerű bejelentéshez kötött építési tevékenység bejelentése megtörtént, valamint építési engedélyköteles bővítés esetén az építési engedély;
+19.[^25] építési engedély: új lakás építése vagy bővítése esetén építési engedély vagy az építésügyi hatóság által kiállított dokumentum arról, hogy az egyszerű bejelentéshez kötött építési tevékenység bejelentése megtörtént vagy a 2024. szeptember 30. napját követően új lakóépületre tett egyszerű bejelentést az építésügyi hatóság tudomásul vette;;
 
-20.[^26] használatbavétel tudomásulvétele: a használatbavétel tudomásulvétele vagy a felépítés megtörténtének hatósági bizonyítvánnyal való tanúsítása.
+20.[^26] használatbavételi engedély: a használatbavételi engedélyről, a használatbavétel tudomásulvételéről az építésügyi hatóság által kiállított dokumentum vagy a felépítés megtörténtét tanúsító hatósági bizonyítvány.
 
-(5)[^27] Az e rendeletben meg nem határozott fogalmakra vonatkozóan a Polgári Törvénykönyvben (a továbbiakban: Ptk.), az Étv.-ben és az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendeletben meghatározottakat kell figyelembe venni.
+(5)[^27] Az e rendeletben meg nem határozott fogalmakra vonatkozóan a Polgári Törvénykönyvben (a továbbiakban: Ptk.), a magyar építészetről szóló törvényben és a településrendezési és építési követelményekről szóló kormányrendeletben meghatározottakat kell figyelembe venni.
 
 (6)[^28] Az 1. § (2) bekezdés a)–h) pontjai szerinti támogatások igénybevételének jogszerűségét a kormányhivatal ellenőrzi. Ez alól kivétel a 19. § szerinti állami adóhatósági ellenőrzés, amelyet az adózás rendjéről szóló törvény rendelkezései alapján az állami adóhatóság végez.
 
@@ -98,17 +98,17 @@ d)[^13] a hontalan, ha a harmadik országbeli állampolgárok beutazására és 
 [^12]: Az 1. § (4) bekezdés 7. pont c) alpontja a 35/2024. (II. 29.) Korm. rendelet 275. §-ával megállapított szöveg.
 [^13]: Az 1. § (4) bekezdés 7. pont d) alpontja a 35/2024. (II. 29.) Korm. rendelet 275. §-ával megállapított szöveg.
 [^14]: Az 1. § (4) bekezdésének 8. pontját a 251/2004. (VIII. 30.) Korm. rendelet 1. §-ának (2) bekezdése iktatta be, szövege a 391/2007. (XII. 23.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 32. § (4) bekezdése alapján a rendelkezést a 2008. február 1-jét követően benyújtott kérelmekre kell alkalmazni.
-[^15]: Az 1. § (4) bekezdésének 9. pontját a 3/2005. (I. 12.) Korm. rendelet – a Magyar Közlöny 2005. évi 27. számában megjelent helyesbítésnek megfelelő – 3. §-a iktatta be, szövege a 128/2013. (IV. 30.) Korm. rendelet 5. § 1. pontja szerint módosított szöveg.
-[^16]: Az 1. § (4) bekezdésének 10. pontját a 3/2005. (I. 12.) Korm. rendelet 3. §-a iktatta be, szövege a 128/2013. (IV. 30.) Korm. rendelet 5. § 2. pontja szerint módosított szöveg.
+[^15]: Az 1. § (4) bekezdés 9. pontját a 3/2005. (I. 12.) Korm. rendelet – a Magyar Közlöny 2005. évi 27. számában megjelent helyesbítésnek megfelelő – 3. §-a iktatta be, szövege a 128/2013. (IV. 30.) Korm. rendelet 5. § 1. pontja, a 285/2024. (IX. 30.) Korm. rendelet 8. § a) pontja és 9. § 1. pontja szerint módosított szöveg.
+[^16]: Az 1. § (4) bekezdésének 10. pontját a 3/2005. (I. 12.) Korm. rendelet 3. §-a iktatta be, szövege a 128/2013. (IV. 30.) Korm. rendelet 5. § 2. pontja, a 285/2024. (IX. 30.) Korm. rendelet 9. § 2. pontja szerint módosított szöveg.
 [^17]: Az 1. § (4) bekezdésének 11. pontját a 3/2005. (I. 12.) Korm. rendelet 3. §-a iktatta be, szövege a 391/2007. (XII. 23.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 32. § (4) bekezdése alapján a rendelkezést a 2008. február 1-jét követően benyújtott kérelmekre kell alkalmazni.
 [^18]: Az 1. § (4) bekezdésének 12. pontját a 155/2005. (VIII. 11.) Korm. rendelet 1. §-ának (1) bekezdése iktatta be, e módosító rendelet 5. §-ának (1) bekezdése alapján a rendelkezést a 2005. augusztus 16. napját követően benyújtott támogatási kérelmekre kell alkalmazni.
 [^19]: Az 1. § (4) bekezdés 13. pontját a 125/2009. (VI. 15.) Korm. rendelet 1. §-a iktatta be, szövege a 379/2012. (XII. 19.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^20]: Az 1. § (4) bekezdés 14. pontját a 74/2011. (V. 2.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 102/2011. (VI. 29.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
 [^21]: Az 1. § (4) bekezdés 15. pontját a 74/2011. (V. 2.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^22]: Az 1. § (4) bekezdés 16. pontját a 74/2011. (V. 2.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 257/2011. (XII. 6.) Korm. rendelet 1. § (2) bekezdésével megállapított, az 550/2013. (XII. 30.) Korm. rendelet 2. §-a, a 238/2022. (VI. 30.) Korm. rendelet 29. §-a szerint módosított szöveg.
-[^23]: Az 1. § (4) bekezdés 17. pontját a 331/2014. (XII. 18.) Korm. rendelet 1. §-a iktatta be.
+[^23]: Az 1. § (4) bekezdés 17. pontját a 331/2014. (XII. 18.) Korm. rendelet 1. §-a iktatta be, szövege a 285/2024. (IX. 30.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
 [^24]: Az 1. § (4) bekezdés 18. pontját a 70/2015. (III. 30.) Korm. rendelet 48. § (1) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 20. § (1) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 40. § a) és b) pontja, 41. §-a szerint módosított szöveg.
-[^25]: Az 1. § (4) bekezdés 19. pontját a 455/2015. (XII. 29.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^26]: Az 1. § (4) bekezdés 20. pontját a 455/2015. (XII. 29.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^27]: Az 1. § (5) bekezdését a 207/2001. (X. 30.) Korm. rendelet 1. §-a iktatta be, szövege az 537/2013. (XII. 30.) Korm. rendelet 17. § a) pontja, a 455/2015. (XII. 29.) Korm. rendelet 1. § (8) bekezdés a) pontja szerint módosított szöveg.
+[^25]: Az 1. § (4) bekezdés 19. pontját a 455/2015. (XII. 29.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 285/2024. (IX. 30.) Korm. rendelet 8. § c) pontja szerint módosított szöveg.
+[^26]: Az 1. § (4) bekezdés 20. pontját a 455/2015. (XII. 29.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 285/2024. (IX. 30.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^27]: Az 1. § (5) bekezdését a 207/2001. (X. 30.) Korm. rendelet 1. §-a iktatta be, szövege az 537/2013. (XII. 30.) Korm. rendelet 17. § a) pontja, a 285/2024. (IX. 30.) Korm. rendelet 8. § d) pontja szerint módosított szöveg.
 [^28]: Az 1. § (6) bekezdését a 155/2005. (VIII. 11.) Korm. rendelet 1. §-ának (2) bekezdése iktatta be, szövege a 391/2007. (XII. 23.) Korm. rendelet 1. § (3) bekezdésével megállapított, a 360/2019. (XII. 30.) Korm. rendelet 20. § (8) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
