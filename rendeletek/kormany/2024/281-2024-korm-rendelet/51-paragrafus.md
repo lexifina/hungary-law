@@ -1,0 +1,65 @@
+## XII. Fejezet
+
+## HATÓSÁGI BIZONYÍTVÁNY KIÁLLÍTÁSA
+
+51. § (1) Az építésügyi hatóság az ingatlan adataiban bekövetkezett változás ingatlan-nyilvántartásban történő átvezetéséhez
+
+a) építmény, építményrész bontása,
+
+b) az építési engedélyhez, egyszerű bejelentéshez vagy örökségvédelmi bejelentéshez nem kötött építmény, építményrész felépítésének, meglétének,
+
+c) a tízéves intézkedési határidőn belül jogszerűtlenül épített, a hatósági bizonyítvány iránti kérelem benyújtásakor hatályos jogszabály alapján építési engedélyhez, egyszerű bejelentéshez vagy örökségvédelmi bejelentéshez nem kötött építési tevékenységgel építhető építmény, építményrész meglétének vagy
+
+d) a jogszerűtlenül, de szakszerűen épített, a tízéves intézkedési határidőnél régebben befejezett vagy használatba vett építmény meglétének
+
+igazolása céljából kérelemre hatósági bizonyítványt állít ki.
+
+(2) A hatósági bizonyítvány iránti kérelem benyújtása előtt az ingatlanügyi hatóság által érvényes záradékkal ellátott, a változás ingatlan-nyilvántartási átvezetéséhez az ingatlan-nyilvántartási célú földmérési és térképészeti tevékenység részletes szabályairól szóló miniszteri rendeletben előírt változási vázrajzot – kivéve, ha az ingatlanon valamennyi épület elbontásra került – az OÉNY-be fel kell tölteni.
+
+(3) A hatósági bizonyítvány iránti kérelemhez – a kérelem tartalmától függően – mellékelni kell
+
+a) lakást tartalmazó épület elbontása esetén az 5. mellékletben meghatározott tartalmú adatlapot,
+
+b) a jogszerűtlenül, de szakszerűen épített, a tízéves intézkedési határidőnél régebben befejezett vagy használatba vett építményre vonatkozó kérelem esetén
+
+ba) építésügyi műszaki szakértő nyilatkozatát arról, hogy az építményt a vonatkozó szakmai, minőségi előírások megtartásával, szakszerűen építették meg, és az a rendeltetésszerű és biztonságos használatra alkalmas, valamint
+
+bb) az 1. melléklet 1. és 6. pontjában meghatározott tartalmú építészeti-műszaki dokumentációt.
+
+(4) Ha az építési tevékenységet a tízéves intézkedési határidőn belül végezték, vagy az építményt, építményrészt használatba vették, a hatósági bizonyítvány kiállítása iránti eljárás során az építésügyi hatóság az építési tevékenység jogszerűségét, valamint az építménynek, építményrésznek a területrendezési, településrendezési és építési követelményeknek, a helyi építési szabályzatnak való megfelelését vizsgálja. Ha az építési tevékenységet nem jogszerűen végezték, vagy az építmény, építményrész nem felel meg a területrendezési, településrendezési és építési követelményeknek vagy a helyi építési szabályzat előírásainak, az építésügyi hatóság a hatósági bizonyítvány kiadását megtagadja és a szabálytalan építési tevékenység végzése miatt megteszi az e rendeletben foglalt intézkedést.
+
+(5) Ha az építési tevékenységet a tízéves intézkedési határidőnél régebben végezték vagy az építményt, építményrészt használatba vették, a hatósági bizonyítvány kiállítása iránti eljárás során az építésügyi hatóság
+
+a) a helyi építési szabályzatban rögzített, helyi építési szabályzat vagy rendelkezésének hiányában az általános településrendezési és építési követelmények szerinti
+
+aa) megengedett legnagyobb beépítettségre,
+
+ab) az elhelyezhető épület, valamint az önálló rendeltetési egység számára és rendeltetésére,
+
+ac) az építési helyre és
+
+ad) az épület megengedett legnagyobb beépítési magasságára, valamint
+
+b) a településrendezési és építési követelmények közül a külső nyílászárók elhelyezésére és az állékonyságra
+
+vonatkozó előírásoknak való megfelelést vizsgálja.
+
+(6) Ha az (5) bekezdés szerinti vizsgálat során az építésügyi hatóság megállapítja, hogy az építmény nem felel meg az abban foglalt követelményeknek, az építésügyi hatóság a hatósági bizonyítvány kiadását megtagadja.
+
+(7) Az építésügyi hatóság a hatósági bizonyítvány kiállítása iránti eljárás során az építési tevékenység jogszerűségét az építési tevékenység végzésekor hatályos jogszabály alapján ítéli meg, kivéve azon építési tevékenységet, amely a kérelem benyújtásakor építési engedélyhez vagy egyszerű bejelentéshez nem kötött építési tevékenységnek minősül.
+
+(8) Az építésügyi hatóság az építmény, építményrész szakszerűségét a hatósági bizonyítvány iránti kérelem benyújtásakor hatályos jogszabályok alapján vizsgálja, kivéve, ha az építménynek, építményrésznek az építése idején hatályos jogszabályoknak való megfelelése igazolható.
+
+(9) A hatósági bizonyítvány az Ákr.-ben meghatározottakon túl tartalmazza
+
+a) az ÉTDR eljárás- és iratazonosítót,
+
+b) az érintett telek címét, helyrajzi számát,
+
+c) az építmény, építményrész meglétének vagy elbontásának tényét,
+
+d) az ingatlanügyi hatóság által záradékolt változási vázrajzon szereplő záradék iktatószámát, valamint
+
+e) az építmény rendeltetését és hasznos alapterületét önálló rendeltetési egységenként.
+
+(10) Az építésügyi hatóság a hatósági bizonyítványt megküldi a kérelmezőnek és az ingatlanügyi hatóságnak.

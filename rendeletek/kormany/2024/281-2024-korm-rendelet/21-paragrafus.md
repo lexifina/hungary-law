@@ -1,0 +1,1 @@
+21. § Az építési tevékenység az egyszerű bejelentés jogszerű hallgatással történő tudomásulvételének időpontjától számított négy éven belül kezdhető meg. Ha az építési tevékenységet négy éven belül – az elektronikus építési napló megnyitásával igazoltan – megkezdték, akkor az építési tevékenység a munkaterület első átadásának időpontjától számított hat évig folytatható.
