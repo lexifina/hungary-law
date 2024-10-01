@@ -1,6 +1,6 @@
 ## III. RÉSZ
 
-## A NYILVÁNOS KÖNYVTÁRI ELLÁTÁS
+## A KÖNYVKULTÚRA ÉS A NYILVÁNOS KÖNYVTÁRI ELLÁTÁS
 
 ## I. Fejezet
 

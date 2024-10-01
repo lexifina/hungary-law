@@ -1,0 +1,1 @@
+99/E. § Az oktatási, családügyi, kulturális tárgyú és kapcsolódó törvények módosításáról szóló 2024. évi XIII. törvény 9. §-ával megállapított VIII/A. Fejezetben foglalt rendelkezéseket a 2024. október 1-jét követően Magyarországon kiadott, vagy import esetén a 2024. október 1-jét követően Magyarországon forgalomba hozott könyvekre kell alkalmazni.

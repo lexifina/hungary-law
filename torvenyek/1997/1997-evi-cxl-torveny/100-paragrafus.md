@@ -46,7 +46,11 @@ u) a közgyűjtemények és a közművelődési intézmények névviselésének 
 
 v) a webtartalom begyűjtésének eljárási szabályait, a begyűjtés módját és rendszerességét, a begyűjtés szempontjainak meghatározását, a webarchiválás alól kivételt képező webtartalmak körét, a tartalomszolgáltatók kötelezettségeit, az archivált webtartalom használatának feltételeit és lehetőségeit.
 
-(2)
+(2) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza
+
+a) az árkötöttség alkalmazásán kívül eső kedvezményes időszakokra vonatkozó szabályokat, valamint
+
+b) a hűségprogramokra vonatkozó szabályokat.
 
 (3) Felhatalmazást kap a miniszter, hogy rendeletben szabályozza
 
