@@ -1,0 +1,1 @@
+9. § A miniszter közjogi szervezetszabályozó eszközben – az Eszjtv. hatálya alá tartozó foglalkoztatottakra vonatkozó feltételekre és mértékre tekintettel – az 5. § (1) bekezdése hatálya alá nem tartozó egészségügyi beosztású katona részére további illetményen kívüli juttatást állapíthat meg.
