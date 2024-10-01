@@ -1,0 +1,1 @@
+4. § Az önkormányzati tűzoltóság az elsődleges műveleti körzetén működő gazdálkodó szervekkel a létesítményi tűzoltósági feladatok átvállalására a hivatásos katasztrófavédelmi szerv területi szervének egyetértésével megállapodhat, ha a megállapodásban vállaltak nem veszélyeztetik az elsődleges műveleti körzet ellátásával kapcsolatos feladatok maradéktalan teljesítését.

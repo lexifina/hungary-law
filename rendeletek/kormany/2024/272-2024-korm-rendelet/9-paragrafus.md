@@ -1,0 +1,1 @@
+9. § Az önkormányzati tűzoltóságok parancsnokai és a tűzoltás vezetésére jogosult állománya évente legalább két alkalommal részt vesznek a hivatásos katasztrófavédelmi szerv területi szerve által szervezett továbbképzésen és szakmai tájékoztatón.
