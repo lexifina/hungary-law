@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-335-20-
 | 2022-07-01 | 2019-335-20-22.7 | 238/2022. (VI. 30.) Korm. rendelet |
 | 2023-01-01 | 2019-335-20-22.8 | 616/2022. (XII. 29.) Korm. rendelet |
 | 2023-08-01 | 2019-335-20-22.9 | 793/2021. (XII. 27.) Korm. rendelet |
+| 2024-10-01 | 2019-335-20-22.10 | 793/2021. (XII. 27.) Korm. rendelet |
