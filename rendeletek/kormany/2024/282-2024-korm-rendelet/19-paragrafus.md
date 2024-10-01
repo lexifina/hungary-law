@@ -1,0 +1,1 @@
+19. § Belterületi közhasználatú területen – a közúti forgalom számára igénybe vett terület (úttest) kivételével – a síkosság-mentesítésre olyan anyag használható, amely a közterületen vagy annak közvetlen környezetében lévő fás szárú növény egészségét nem veszélyezteti.
