@@ -1,1 +1,0 @@
-## 3. § E rendelet eltérő rendelkezése hiányában az elszámoláshoz szükséges számlát vagy egyszerűsített adattartalmú számlát (a továbbiakban együtt: számla) a honvédelmi szervezet nevére kell kiállíttatni.

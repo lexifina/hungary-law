@@ -1,5 +1,0 @@
-11. § (1)[^24] Közösségi közlekedési eszközzel végrehajtott szolgálati kiküldetés esetén az állomány tiszti állománycsoportba tartozó tagja, a tiszti állománycsoportba tartozó önkéntes tartalékos katona, továbbá a megbízott magasabb vezető, vezető honvédelmi alkalmazott részére az 1. § (1) bekezdés 7. pontja szerinti közlekedési eszköznél magasabb komfortfokozatú közlekedési eszköz – ideértve a pótjegy-, helyjegy-köteles közlekedési eszközt – igénybevételét kell engedélyezni. Az ezen kiküldöttekkel együtt szolgálati kiküldetést teljesítő személy részére a magasabb komfortfokozatú közlekedési eszköz igénybevétele szolgálati érdekből felmerült indokolt esetben engedélyezhető.
-
-(2) Ha a szolgálati, munkaköri feladat végrehajtása egyébként sérelmet szenvedne, a kiküldött az 5. § (3) bekezdés szerinti munkáltatói döntésben meghatározottól eltérő, költségesebb közlekedési eszközt is igénybe vehet, azonban az így felmerült többletköltség csak a munkáltatói döntés módosításával számolható el.
-
-[^24]: A 11. § (1) bekezdése a 20/2018. (XII. 28.) HM rendelet 95. § d) pontja, a 34/2022. (XII. 29.) HM rendelet 4. § 5. pontja szerint módosított szöveg.

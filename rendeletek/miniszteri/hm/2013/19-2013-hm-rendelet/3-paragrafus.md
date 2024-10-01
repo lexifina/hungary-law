@@ -1,1 +1,0 @@
-## 2. § A külföldi szolgálatot teljesítők egyes járandóságairól szóló miniszteri rendelet eltérő rendelkezése hiányában a külföldi szolgálatot teljesítők a VI. Fejezetben foglaltakon kívül az e rendelet szerinti juttatásokra nem jogosultak.
