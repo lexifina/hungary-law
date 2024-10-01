@@ -1,4 +1,4 @@
-## 4/A. [^30] Az Integrált Hatósági Rendszer alkalmazásának részletes szabályai
+## 4/A. [^32] Az Integrált Hatósági Rendszer alkalmazásának részletes szabályai
 
 5/A. § (1) Az IHR-t a biztonsági összekötő személy és az üzemeltető, valamint az üzemeltető képviselője (a továbbiakban együtt jelen alcím tekintetében: ügyfél) köteles igénybe venni.
 
@@ -16,4 +16,4 @@ b) a fizetési felületen teljesíti a létfontosságú rendszerek és létesít
 
 (6) Minősített adatot tartalmazó dokumentum továbbítása esetén az IHR-be az érintett dokumentum helyett egy jegyzőkönyv kerül feltöltésre, amely tartalmazza a dokumentum nevét, a kiadmányozás időpontját, a kiadmányozó nevét, a minősítő nevét és beosztását, a minősítési szintet és az érvényességi időt.
 
-[^30]: A 4/A. alcímet (5/A. §) a 375/221. (VI. 30.) Korm. rendelet 18. § (8) bekezdése iktatta be.
+[^32]: A 4/A. alcímet (5/A. §) a 375/221. (VI. 30.) Korm. rendelet 18. § (8) bekezdése iktatta be.

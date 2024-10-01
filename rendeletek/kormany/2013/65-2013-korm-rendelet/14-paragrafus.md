@@ -1,5 +1,5 @@
 ## 13. Átmeneti rendelkezések
 
-14. §[^84]
+14. §[^89]
 
-[^84]: A 14. §-t a 233/2013. (VI. 30.) Korm. rendelet 11. §-a hatályon kívül helyezte.
+[^89]: A 14. §-t a 233/2013. (VI. 30.) Korm. rendelet 11. §-a hatályon kívül helyezte.

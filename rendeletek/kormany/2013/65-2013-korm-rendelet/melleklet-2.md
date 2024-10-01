@@ -1,4 +1,4 @@
-2. melléklet a 65/2013. (III. 8.) Korm. rendelethez[^94]
+2. melléklet a 65/2013. (III. 8.) Korm. rendelethez[^99]
 
 AZ ÜZEMELTETŐI BIZTONSÁGI TERV FELÉPÍTÉSE
 
@@ -54,7 +54,7 @@ Tartalmi követelmények
 
 1.4.2. szervezet vezetése, vezető tisztségviselők, felelősségi köreik
 
-1.5.[^95] szervezet személyzete
+1.5.[^100] szervezet személyzete
 
 1.5.1. szervezet létszáma, dolgozók státusza szerinti bontásban
 
@@ -618,7 +618,7 @@ Tartalmi követelmények
 
 4.5.2. a veszélyeztető hatások szintje lehet: elhanyagolható, alacsony, közepes, magas, katasztrofális (1–5 skálán)
 
-4.5.3.[^96] a harmadik fél felől fennálló kitettség lehet: harmadik féltől igénybe vett, vagy üzemeltető által saját hatáskörben nyújtott vagy nem értelmezhető (1–2 skálán) – ahol a „2” érték súlyozottan veendő figyelembe
+4.5.3.[^101] a harmadik fél felől fennálló kitettség lehet: harmadik féltől igénybe vett, vagy üzemeltető által saját hatáskörben nyújtott vagy nem értelmezhető (1–2 skálán) – ahol a „2” érték súlyozottan veendő figyelembe
 
 4.6. Kockázatkezelés
 
@@ -670,7 +670,7 @@ Az üzemeltetői biztonsági tervet a „Tartalmi követelmények” részben fe
 
 A térképeket elektronikus adathordozón is be lehet nyújtani. A térképvázlat vagy helyszínrajz tartalmazza a kijelölt rendszerelem egészét és olyan felbontású és formátumú legyen, amely a megfelelő eligazodást biztosítja.
 
-7.[^97] Védelmi és biztonsági eseménnyel összefüggő adatok
+7.[^102] Védelmi és biztonsági eseménnyel összefüggő adatok
 
 7.1. a létfontosságú rendszerelem üzemfolytonos működését biztosító nélkülözhetetlen szolgáltatások megnevezése és az azokat nyújtó szolgáltatók felsorolása
 
@@ -680,10 +680,10 @@ A térképeket elektronikus adathordozón is be lehet nyújtani. A térképvázl
 
 7.4. a védelmi és biztonsági tevékenységek összehangolásáról szóló törvényben meghatározott termékkör szerinti termékek, szolgáltatások leírása, előállítási, gyártási kapacitás, valamint raktáron tartott készlet mennyiségi adatainak megadása
 
-7.5.[^98] a kritikus munkakörben foglalkoztatott személy családi és utóneve, születési családi és utóneve, születési helye és ideje, anyja születési családi és utóneve
+7.5.[^103] a kritikus munkakörben foglalkoztatott személy családi és utóneve, születési családi és utóneve, születési helye és ideje, anyja születési családi és utóneve
 
-[^94]: A 2. melléklet a 375/2020. (VII. 30.) Korm. rendelet 51. § b) pontjával megállapított szöveg.
-[^95]: A 2. melléklet 1.5. pontja a 408/2022. (X. 24.) Korm. rendelet 15. §-ával megállapított szöveg.
-[^96]: A 2. melléklet 4.5.3. pontja a 375/2021. (VI. 30.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
-[^97]: A 2. melléklet 7. pontját a 408/2022. (X. 24.) Korm. rendelet 15. §-a iktatta be.
-[^98]: A 2. melléklet 7. pont 7.5. pontját a 628/2022. (XII. 30.) Korm. rendelet 35. §-a iktatta be.
+[^99]: A 2. melléklet a 375/2020. (VII. 30.) Korm. rendelet 51. § b) pontjával megállapított szöveg.
+[^100]: A 2. melléklet 1.5. pontja a 408/2022. (X. 24.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^101]: A 2. melléklet 4.5.3. pontja a 375/2021. (VI. 30.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^102]: A 2. melléklet 7. pontját a 408/2022. (X. 24.) Korm. rendelet 15. §-a iktatta be.
+[^103]: A 2. melléklet 7. pont 7.5. pontját a 628/2022. (XII. 30.) Korm. rendelet 35. §-a iktatta be.
