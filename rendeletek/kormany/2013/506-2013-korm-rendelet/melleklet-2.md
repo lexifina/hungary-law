@@ -14,28 +14,31 @@
 
 | 7. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Hajdú-Bihar Vármegyei Kormányhivatal [^21] |
 
-| 8. | vízjogi hatósági eljárások | illetékes vármegyei katasztrófavédelmi igazgatóság[^22] |
+| 8. | vízjogi hatósági eljárások | illetékes, vízügyi és vízvédelmi hatáskörben eljáró vármegyei kormányhivatal[^22] |
 
 | 9. | hírközlési hatósági eljárások | Nemzeti Média- és Hírközlési Hatóság Hivatala |
 
 | 10. | földvédelmi, telekalakítási, földmérési, ingatlan- nyilvántartási hatósági eljárások | Hajdú-Bihar Vármegyei Kormányhivatal [^23] |
 
-| 11. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi engedélyezési eljárásai, tűzvédelmi hatósági engedélyezési eljárások, jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | illetékes katasztrófavédelmi igazgatóság |
+| 11. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi engedélyezési eljárásai, tűzvédelmi hatósági engedélyezési eljárások, jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | illetékes fővárosi és vármegyei kormányhivatal[^24] |
 
-| 12. | tűzvédelmi használati előírások és a tűzoltóságok beavatkozásával kapcsolatos követelmények alóli eltérési engedélyezési eljárások | illetékes katasztrófavédelmi igazgatóság |
+| 12. | tűzvédelmi használati előírások és a tűzoltóságok beavatkozásával kapcsolatos követelmények alóli eltérési engedélyezési eljárások | illetékes fővárosi és vármegyei kormányhivatal[^25] |
 
-| 13. | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 13.[^26] | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Budapest Főváros Kormányhivatala |
 
-| 14. | területrendezési eljárások | Hajdú-Bihar Vármegyei Kormányhivatal[^24] |
+| 14. | területrendezési eljárások | Hajdú-Bihar Vármegyei Kormányhivatal[^27] |
 
-2. melléklet az 506/2013. (XII. 29.) Korm. rendelethez[^25]
+2. melléklet az 506/2013. (XII. 29.) Korm. rendelethez[^28]
 
 [^17]: Az 1. mellékletben foglalt táblázat D:2 mezője az 546/2022. (XII. 22.) Korm. rendelet 45. § b) pontja szerint módosított szöveg.
 [^18]: Az 1. mellékletben foglalt táblázat D:3 mezője az 546/2022. (XII. 22.) Korm. rendelet 45. § b) pontja szerint módosított szöveg.
 [^19]: Az 1. mellékletben foglalt táblázat D:4 mezője az 546/2022. (XII. 22.) Korm. rendelet 45. § b) pontja szerint módosított szöveg.
 [^20]: Az 1. mellékletben foglalt táblázat D:6 mezője az 546/2022. (XII. 22.) Korm. rendelet 45. § b) pontja szerint módosított szöveg.
 [^21]: Az 1. mellékletben foglalt táblázat D:7 mezője az 546/2022. (XII. 22.) Korm. rendelet 45. § b) pontja szerint módosított szöveg.
-[^22]: Az 1. mellékletben foglalt táblázat D:8 mezője az 546/2022. (XII. 22.) Korm. rendelet 45. § c) pontja szerint módosított szöveg.
+[^22]: Az 1. mellékletben foglalt táblázat D:8 mezője az 546/2022. (XII. 22.) Korm. rendelet 45. § c) pontja, a 257/2024. (VIII. 29.) Korm. rendelet 106. § a) pontja szerint módosított szöveg.
 [^23]: Az 1. mellékletben foglalt táblázat D:10 mezője az 546/2022. (XII. 22.) Korm. rendelet 45. § b) pontja szerint módosított szöveg.
-[^24]: Az 1. mellékletben foglalt táblázat D:14 mezője az 546/2022. (XII. 22.) Korm. rendelet 45. § b) pontja szerint módosított szöveg.
-[^25]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 115. § d) pontja hatályon kívül helyezte.
+[^24]: Az 1. mellékletben foglalt táblázat D:11 mezője a 257/2024. (VIII. 29.) Korm. rendelet 106. § b) pontja szerint módosított szöveg.
+[^25]: Az 1. mellékletben foglalt táblázat D:12 mezője a 257/2024. (VIII. 29.) Korm. rendelet 106. § b) pontja szerint módosított szöveg.
+[^26]: Az 1. mellékletben foglalt táblázat 13. sora a 257/2024. (VIII. 29.) Korm. rendelet 107. §-ával megállapított szöveg.
+[^27]: Az 1. mellékletben foglalt táblázat D:14 mezője az 546/2022. (XII. 22.) Korm. rendelet 45. § b) pontja szerint módosított szöveg.
+[^28]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 115. § d) pontja hatályon kívül helyezte.
