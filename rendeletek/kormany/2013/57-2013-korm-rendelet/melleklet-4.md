@@ -42,6 +42,6 @@
 
 ## III. Keltezés, a bejelentő aláírása (bélyegzője), a kérelmező aláírása (bélyegzője)
 
-4. melléklet az 57/2013. (II. 27.) Korm. rendelethez[^24]
+4. melléklet az 57/2013. (II. 27.) Korm. rendelethez[^26]
 
-[^24]: A 4. mellékletet a 457/2017. (XII. 28.) Korm. rendelet 435. § j) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^26]: A 4. mellékletet a 457/2017. (XII. 28.) Korm. rendelet 435. § j) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
