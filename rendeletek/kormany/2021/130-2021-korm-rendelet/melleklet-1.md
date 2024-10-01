@@ -14,7 +14,7 @@ A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentős�
 
 6. közegészségügyi és járványügyi hatósági eljárások,
 
-7. veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások,
+7.[^7] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
 
 8. útügyi hatósági eljárások,
 
@@ -35,3 +35,4 @@ A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentős�
 16. erdészeti hatósági engedélyezési eljárások.
 
 [^6]: Az 1. melléklet a 196/2023. (V. 22.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^7]: Az 1. melléklet 7. pontja a 257/2024. (VIII. 29.) Korm. rendelet 333. §-a szerint módosított szöveg.
