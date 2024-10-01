@@ -12,4 +12,6 @@ e)
 
 f)
 
-g)
+g) 49. § (2) bekezdés k) pontjában a „24.” szövegrész helyébe a „2., valamint 23–25.” szöveg
+
+lép.
