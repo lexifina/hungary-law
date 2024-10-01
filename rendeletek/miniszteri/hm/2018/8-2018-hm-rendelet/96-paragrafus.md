@@ -1,3 +1,0 @@
-## XIV. Fejezet
-
-## ZÁRÓ RENDELKEZÉSEK
