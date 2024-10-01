@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-105-20-
 | 2020-03-01 | 2016-105-20-22.4 | 361/2019. (XII. 30.) Korm. rendelet |
 | 2021-07-16 | 2016-105-20-22.5 | 420/2021. (VII. 15.) Korm. rendelet |
 | 2022-12-23 | 2016-105-20-22.6 | 546/2022. (XII. 22.) Korm. rendelet |
+| 2024-10-01 | 2016-105-20-22.7 | 257/2024. (VIII. 29.) Korm. rendelet |

@@ -42,7 +42,7 @@ A Budapest XI. kerület Kopaszi-gát környezetében megvalósuló ingatlanfejle
 
 19. erdészeti hatósági eljárások,
 
-20. veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások,
+20.[^9] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
 
 21. azok az 1–20. pontban nem szereplő hatósági engedélyezési eljárások, amelyek a Beruházás megvalósításához, használatbavételéhez, üzembe helyezéséhez és üzemeltetésének beindításához szükségesek,
 
@@ -50,3 +50,4 @@ A Budapest XI. kerület Kopaszi-gát környezetében megvalósuló ingatlanfejle
 
 [^7]: A 8. §-t a 106/2019. (V. 8.) Korm. rendelet 2. §-a iktatta be.
 [^8]: A hatálybalépés időpontja 2019. május 9.
+[^9]: Az 1. melléklet 20. pontja a 257/2024. (VIII. 29.) Korm. rendelet 190. §-a szerint módosított szöveg.
