@@ -1,0 +1,3 @@
+33. § (1) Ha a 32. § (1) bekezdése szerinti belföldi vezénylés, belföldi kiküldetés, beiskolázás vagy kirendelés során az állomány tagja, a honvédelmi alkalmazott vagy a munkavállaló a szolgálatteljesítés vagy a munkavégzés helyére visszatérni azért nem tud, mert azt szolgálati vagy munkaköri feladata nem teszi lehetővé, honvédségi szálláshelyen történő elhelyezésre jogosult.
+
+(2) Ha a jogosult honvédségi szálláshely vagy férőhely hiányában honvédségi szálláshelyen nem helyezhető el, részére a döntésre jogosult elöljáró által előzetesen meghatározott keretösszegig a kereskedelmi szálláshely igénybevételének számlával igazolt költségeit a honvédelmi szervezet megtéríti.

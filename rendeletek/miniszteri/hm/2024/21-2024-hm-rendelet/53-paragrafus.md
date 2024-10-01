@@ -1,0 +1,1 @@
+53. § A honvéd tisztjelölt illetményen felüli egyéb juttatásaira nem alkalmazható a 21–23. §, a 29. §, a 30. §, a 38–40. §, a 41. § (1) bekezdés b) pontja, a 41. § (2) bekezdés b) pontja, a 43–47. §, a 48. § (1) bekezdése és az 51. §.
