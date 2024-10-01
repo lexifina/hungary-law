@@ -1,5 +1,0 @@
-21. § (1)[^24] A repülőtéri létesítményi tűzoltóság kivételével az alkalomszerűen igénybe vehető létesítményi tűzoltóságnak a riasztástól számított öt percen belül (a főfoglalkozású létesítményi tűzoltóságnak két percen belül) meg kell kezdenie a kivonulást, és állomáshelyéről – optimális esetben – a riasztástól számított tíz percen belül ki kell érkeznie a tűzeset, vagy a műszaki mentés helyszínére.
-
-(2) A tűzoltó parancsnoknak, vagy az általa megbízott, őt helyettesítő parancsnoki ügyeletesnek késedelem nélkül ki kell vonulni azon eseményekhez, melyekhez a hivatásos tűzoltóság egységei is vonulnak. Parancsnoki ügyeletes az lehet, aki tűzoltás vezetési jogosultsággal rendelkezik.
-
-[^24]: A 21. § (1) bekezdése a 628/2022. (XII. 30.) Korm. rendelet 23. § e) pontja szerint módosított szöveg.
