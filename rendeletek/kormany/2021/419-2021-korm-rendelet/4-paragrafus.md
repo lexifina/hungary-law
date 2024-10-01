@@ -18,8 +18,11 @@ c) törvény alapján több helyi (kerületi) építési szabályzatot készíth
 
 a) az e rendeletben foglalt követelmények alapján és
 
-b) a településtervezési szabályzatban foglalt műszaki elvárások és technikai szabályok figyelembevételével
+b)[^7] a településtervezési szabályzatban foglalt műszaki elvárások és technikai szabályok alkalmazásával
 
 készül.
 
-(5) A (4) bekezdés szerinti településtervezési szabályzatot a miniszter által vezetett minisztérium honlapján az alkalmazandóságának megkezdése előtt legalább 30 nappal közzé kell tenni.
+(5)[^8] A (4) bekezdés szerinti településtervezési szabályzatot a miniszter által vezetett minisztérium honlapján a kötelező alkalmazásának megkezdése előtt legalább 30 nappal közzé kell tenni.
+
+[^7]: A 4. § (4) bekezdés b) pontja a 285/2024. (IX. 30.) Korm. rendelet 187. § 4. pontja szerint módosított szöveg.
+[^8]: A 4. § (5) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 187. § 5. pontja szerint módosított szöveg.

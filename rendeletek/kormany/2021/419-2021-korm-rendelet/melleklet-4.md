@@ -2,76 +2,60 @@
 
 A HELYI ÉPÍTÉSI SZABÁLYZAT TARTALMI KÖVETELMÉNYEI
 
-1. A helyi építési szabályzat tartalmazza minden település esetében legalább
+1.[^218] A helyi építési szabályzat az utolsó helyi önkormányzati képviselők és polgármesterek általános választása szerinti év első napján legalább 5000 fő népességgel rendelkező települések, valamint a település népességszámától függetlenül a fővárosi kerületek, a járásszékhely városok, a budapesti agglomeráció és a Balaton kiemelt üdülőkörzet területén fekvő települések, valamint a világörökségi területen lévő települések esetében kötelezően tartalmazza legalább – az épített környezet alakítására vonatkozó általános – a település egészére, egyes településrészekre, egyes telekcsoportokra irányadó – előírások mellett
 
-a) az épített környezet alakítására vonatkozó általános előírásokat,
+a) az építési övezet, az övezet, valamint érintettség esetén a szabályozási vonal térképi megjelenítését,
 
-b) a telekalakítás előírásait a vonatkozó mellékletekkel összhangban,
+b) érintettség esetén a környezet- és természetvédelemmel, az építészeti örökséggel és a régészettel, valamint honvédelemmel kapcsolatos előírást, továbbá a veszélyeztetett területekre, a természeti csapások elleni védelemre, a katasztrófavédelemre, valamint a honvédelmi és katonai célú területekre vonatkozó védőterületet és védőtávolságot,
 
-c) az építési övezeti és az övezeti előírásokat
+c) az építési övezetre és az övezetre a beépítési módot, az építési helyet, a megengedett legnagyobb beépítettséget, a megengedett legnagyobb beépítési magasságot, a legkisebb zöldfelületi mértéket, a közműellátás és gépjármű-elhelyezés követelményeit, valamint az elhelyezhető és tiltott rendeltetéseket,
 
-ca) az építési hely,
+d) az építési telkek esetében az elő-, oldal- és hátsókertre, valamint a telekalakításra vonatkozó előírásokat,
 
-cb) a megengedett legnagyobb beépítettség,
+e) a közterület-alakításra és a települési zöldinfrastruktúra kialakítására és fenntartására vonatkozó előírásokat,
 
-cc) a megengedett legnagyobb beépítési magasság és
+f) településképi követelményeket az anyaghasználatra, színezésre, tömegformálásra, homlokzati kialakításra és zöldfelületre vonatkozóan, valamint a településkép-érvényesítési eszközöket,
 
-cd) a legkisebb zöldfelületi mérték
+g) a helyi emlékek egyedi és területi védelmére, védetté nyilvánítására és a védettség megszüntetésére vonatkozó követelményeket ha, nem készül külön helyi védelmi rendelet, és
 
-meghatározásához a melléklettel összhangban,
+h) a helyi kártalanítási és településrendezési kötelezési szabályokat.
 
-d) az elhelyezhető és tiltott rendeltetésekkel kapcsolatos előírásokat a melléklettel összhangban,
+2.[^219] A helyi építési szabályzat az 1. pont hatálya alá nem tartozó települések esetében kötelezően tartalmazza legalább
 
-e) a közműellátás mértékére és módjára vonatkozó előírásokat,
+a) az építési övezet, az övezet, valamint érintettség esetén a szabályozási vonal térképi megjelenítését,
 
-f) a járművek elhelyezésére vonatkozó előírásokat,
+b) érintettség esetén a környezet- és természetvédelemmel, az építészeti örökséggel és a régészettel, valamint honvédelemmel kapcsolatos előírást, továbbá a veszélyeztetett területekre, a természeti csapások elleni védelemre, a katasztrófavédelemre, valamint a honvédelmi és katonai célú területekre vonatkozó védőterületet és védőtávolságot,
 
-g) a veszélyeztetett területekre vonatkozó előírásokat,
+c) az építési övezetre és az övezetre a beépítési módot, az építési helyet, a megengedett legnagyobb beépítettséget, a megengedett legnagyobb beépítési magasságot, a legkisebb zöldfelületi mértékét,
 
-h) környezet- és tájvédelemmel kapcsolatos rendelkezéseket,
+d) érintettség esetén a településképi követelményeket az anyaghasználatra, színezésre, tömegformálásra, homlokzati kialakításra, zöldfelületekre vonatkozóan,
 
-i) érintettség esetén
+e) érintettség esetén a helyi emlékek egyedi és területi védelmére, védetté nyilvánítására és a védettség megszüntetésére vonatkozó követelményeket,
 
-ia) az országos és helyi építészeti örökségvédelemmel,
+f) az a)–e) pontban nem szereplő előírások tekintetében a településrendezési és építési előírások önkormányzatra irányadó elismerését.
 
-ib) a régészettel,
+3.[^220]
 
-ic) a természetvédelemmel,
-
-id) a települési vízgazdálkodással, csapadékvíz-gazdálkodással és
-
-ie) a honvédelemmel
-
-kapcsolatos rendelkezéseket.
-
-2. Az ötezer fős vagy annál népesebb települések – ideértve a fővárosi kerületeket is – esetében a helyi építési szabályzat tartalmazza, az ennél kisebb népességszámú települések esetében tartalmazhatja az 1. pontból foglaltak mellett
-
-a) az építési telkek beépítési módjára, valamint az elő-, oldal- és hátsókertre vonatkozó előírásokat,
-
-b) azon épületeket, melyek korábban megsemmisült vagy megrongálódott tetőidomai és egyéb jelentős épületelemei, épületdíszei az Étv. 60/J. §-a alapján helyreállíthatóak,
-
-c) a közterület-alakításra vonatkozó előírásokat,
-
-d) a helyi kártalanítási, telekalakítási és településrendezési kötelezési szabályokat, ha azok az Étv.-ben meghatározottaknál szigorúbbak,
-
-e) a zöldinfrastruktúra-hálózat kialakítására és fenntartására vonatkozó követelményeket és
-
-f) a katasztrófavédelmi osztályba sorolás alapján meghatározott, az elégséges védelmi szint követelményei szerinti veszélyeztető hatásokat és a hatásokkal szembeni használati korlátozásokat.
-
-3. A helyi építési szabályzat az 1. pontban foglaltak mellett az építési telkek beépítési módját is tartalmazza azon települések esetében, amelyek belterülete az országos jelentőségű védett természeti terület része.
-
-4. A helyi építési szabályzat melléklete minden esetben
+4.[^221] A helyi építési szabályzat melléklete minden esetben
 
 a) a szabályozási terv,
 
-b) az építési övezetek, övezetek telekalakítási és beépítési szabályainak paraméterei,
+b) az építési övezetek, övezetek beépítési szabályainak paraméterei,
 
-c) az egyes építési övezetekben, övezetekben elhelyezhető vagy tiltott rendeltetések és
+c) az új beépítésre szánt területek nyilvántartása,
 
 d) az egyes telkekhez, övezetekhez, illetve építési övezetekhez tartozó biológiai aktivitásérték fenntartására vonatkozó zöldfelületi követelmények.
 
-5. Az ötezer fős vagy annál népesebb települések esetében – ideértve a fővárosi kerületeket is – a helyi építési szabályzat melléklete tartalmazza, az ennél kisebb települések esetében tartalmazhatja a 4. pontban foglaltak mellett
+5.[^222] Az 1. pont szerinti települések helyi építési szabályzata mellékletként tartalmazza, a 2. pont szerinti települések helyi építési szabályzata mellékletként tartalmazhatja a 4. pontban foglaltak mellett
 
-a) az egyes sajátos jogintézmények területi hatályát és
+a) a telekalakítási szabályokat,
 
-b) az építési helyi rendjének biztosítását szolgáló egyéb rajzi és táblázatos mellékleteket.
+b) az egyes sajátos jogintézmények területi és időbeli hatályát és
+
+c) az építési helyi rendjének biztosítását szolgáló egyéb rajzi és táblázatos mellékleteket.
+
+[^218]: A 4. melléklet 1. pontja a 285/2024. (IX. 30.) Korm. rendelet 186. § (4) bekezdésével megállapított szöveg.
+[^219]: A 4. melléklet 2. pontja a 285/2024. (IX. 30.) Korm. rendelet 186. § (4) bekezdésével megállapított szöveg.
+[^220]: A 4. melléklet 3. pontját a 285/2024. (IX. 30.) Korm. rendelet 188. § 30. pontja hatályon kívül helyezte.
+[^221]: A 4. melléklet 4. pontja a 285/2024. (IX. 30.) Korm. rendelet 186. § (4) bekezdésével megállapított szöveg.
+[^222]: A 4. melléklet 5. pontja a 285/2024. (IX. 30.) Korm. rendelet 186. § (4) bekezdésével megállapított szöveg.

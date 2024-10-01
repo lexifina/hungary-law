@@ -6,7 +6,7 @@ a) a 11. melléklet szerinti érintett államigazgatási, önkormányzati és eg
 
 b) a lakossággal, érdekképviseleti, civil és gazdálkodó szervezetekkel, vallási közösségekkel (a továbbiakban együtt: partnerek).
 
-(2) Ha a településterv készítése vagy módosítása esetén környezeti értékelés készül, a tervet és a környezeti értékelést
+(2)[^118] Ha a településterv készítése vagy módosítása esetén környezeti értékelés készül, a tervet és az alátámasztó javaslat részét képező környezeti értékelést
 
 a) az E-TÉR felületen véleményeztetni kell az SKVr. 3. számú melléklete szerinti környezet védelméért felelős szervekkel is, és
 
@@ -16,6 +16,10 @@ b) az önkormányzat a) pont szerinti véleményeztetéssel egyidejűleg az SKVr
 
 (4) A fejlesztési terv és a rendezési terv készítése vagy módosítása egy egyeztetési eljárásban történik, kivéve, ha törvény alapján egy településen több rendezési terv is lehet. A fejlesztési tervről szóló döntés megelőzi a rendezési tervről szóló döntést.
 
-(5) A közös tervezésben készülő településterv, kézikönyv és településképi rendelet egyeztetését – összhangban a 6. § (3) bekezdésében foglaltakkal – minden érintett települési önkormányzat külön elvégzi.
+(5)[^119]
 
-(6) Kézikönyv és településképi rendelet egyidejű készítése vagy módosítása egy egyeztetési eljárásban történhet. A kézikönyvről szóló döntés megelőzi a településképi rendeletről szóló döntést.
+(6)[^120] Kézikönyv és településképi rendelet egyidejű módosítása egy egyeztetési eljárásban történhet. A kézikönyvről szóló döntés megelőzi a településképi rendeletről szóló döntést.
+
+[^118]: A 62. § (2) bekezdés nyitó szövegrésze a 285/2024. (IX. 30.) Korm. rendelet 187. § 41. pontja szerint módosított szöveg.
+[^119]: A 62. § (5) bekezdését a 285/2024. (IX. 30.) Korm. rendelet 188. § 17. pontja hatályon kívül helyezte.
+[^120]: A 62. § (6) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 188. § 18. pontja szerint módosított szöveg.

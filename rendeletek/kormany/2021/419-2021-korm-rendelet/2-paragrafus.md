@@ -24,13 +24,13 @@
 
 12. szabályozási elem: a helyi építési szabályzatban meghatározott vagy szabályozási terven feltüntetett rajzi elem, lehatárolás és adat, amelyhez jogszabály előírást rendel;
 
-13. szegregációs mutató: a legutolsó népszámlálási adatok alapján a Központi Statisztikai Hivatal által számított mutató, amely a szegregált vagy szegregációval veszélyeztetett területek lehatárolásának alapja;
+13.[^1] szegregációs mutató: a 14. mellékletben meghatározott módon, a 2022. évi népszámlálási adatok alapján a Központi Statisztikai Hivatal által számított mutató, amely a szegregált vagy szegregációval veszélyeztetett területek lehatárolásának alapja;
 
 14. szegregált vagy szegregációval veszélyeztetett terület: szegregációs mutatóval lehatárolt olyan egybefüggő terület, amelyen az alacsony társadalmi státuszú családok koncentráltan élnek együtt vagy a társadalmi státuszcsökkenés jelei tapasztalhatók, ezért a területen közösségi beavatkozás szükséges, és amely lehet önálló településrész, vagy egy vagy több településrész része is;
 
 15. szintterületi átlagérték: olyan, a főváros beépítésre szánt területén és beépítésre nem szánt különleges területén alkalmazandó érték, amely az általános használat szerinti területeken elhelyezhető szintterületnek és az általános használat szerinti területek területének hányadosa;
 
-16. szintterületi mutató: a telken elhelyezhető szintterületnek és a telek területének hányadosa;
+16.[^2]
 
 17. telepítési tanulmányterv: egy adott építési beruházással kapcsolatos önkormányzati döntést elősegítő dokumentáció, amely bemutatja a tervezett építési beruházást és annak az épített és természeti környezettel való viszonyát;
 
@@ -42,6 +42,14 @@
 
 21. településképi szempontból meghatározó terület: jellegzetes, értékes vagy hagyományt őrző építészeti arculatot, településkaraktert hordozó vagy meghatározó település, vagy egy település ilyen jellemzőkkel bíró, lehatárolható meglévő vagy tervezett településrésze;
 
-22. településszerkezeti egység: a környezet sajátosságai, adottságai, karaktere szempontjából egy egységként kezelendő gyűjtőút vagy magasabb rendű út, vasútvonal, vízfolyás, természeti elem által határolt összefüggő településrész;
+22.[^3] településszerkezeti egység: a környezet sajátosságai, adottságai, karaktere szempontjából egy egységként kezelendő kiszolgáló út, gyűjtőút vagy magasabb rendű út, vasútvonal, vízfolyás, természeti elem által határolt összefüggő településrész;
 
-23. településtervezési szabályzat: a fejlesztési terv és a rendezési terv, a településképi rendelet, valamint egyes településrendezési sajátos jogintézmények előkészítésének támogatása érdekében, azok összeállításának műszaki elvárásait és egyeztetésének technikai szabályait e rendelettel összhangban megállapító tervezési segédlet, amely a településfejlesztésért és településrendezésért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztérium honlapján kerül közzétételre.
+23.[^4] településtervezési szabályzat: a fejlesztési terv és a rendezési terv, a településképi rendelet, a településrendezési eszköz, valamint egyes településrendezési sajátos jogintézmények előkészítésének és módosításának támogatása érdekében, azok összeállításának műszaki elvárásait és egyeztetésének technikai szabályait e rendelettel összhangban megállapító tervezési segédlet, amely a településfejlesztésért és településrendezésért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztérium honlapján kerül közzétételre azzal, hogy a településterv készítése és azt követő módosításakor alkalmazása kötelező, a településrendezési eszköz módosításakor alkalmazása ajánlott, de nem kötelező;
+
+24.[^5] légi közlekedéssel érintett település: olyan település, amelynek közigazgatási területén a légiközlekedésről szóló 1995. évi XCVII. törvény 37. § (1) bekezdés a) pontjában, valamint a b) pont ba), bd) és be) alpontjában meghatározott repülőtér található, továbbá az olyan település, amelynek közigazgatási területe a légiközlekedésről szóló 1995. évi XCVII. törvény 37. § (1) bekezdés b) pont bb) és bc) alpontjában meghatározott repülőtér vonatkozási pontjától számított 17 kilométeres távolságon belül lévő területtel érintett.
+
+[^1]: A 2. § 13. pontja a 285/2024. (IX. 30.) Korm. rendelet 187. § 1. pontja szerint módosított szöveg.
+[^2]: A 2. § 16. pontját a 285/2024. (IX. 30.) Korm. rendelet 188. § 1. pontja hatályon kívül helyezte.
+[^3]: A 2. § 22. pontja a 285/2024. (IX. 30.) Korm. rendelet 187. § 2. pontja szerint módosított szöveg.
+[^4]: A 2. § 23. pontja a 285/2024. (IX. 30.) Korm. rendelet 146. § (1) bekezdésével megállapított szöveg.
+[^5]: A 2. § 24. pontját a 285/2024. (IX. 30.) Korm. rendelet 146. § (2) bekezdése iktatta be.

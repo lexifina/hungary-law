@@ -1,6 +1,6 @@
 ## 18. A településképi rendelet
 
-27. § (1) A településképi rendelet – a 30. §-ban meghatározott, a fővárosra vonatkozó kivételekkel – a település teljes közigazgatási területére készül.
+27. § (1)[^42] A helyi építési szabályzat településképi követelményeket és településkép-érvényesítési eszközöket tartalmazó része, valamint a településképi rendelet hatálya (e Fejezet alkalmazásában a továbbiakban együtt: településképi rendelet) – a 30. §-ban meghatározott, a fővárosra vonatkozó kivételekkel – a település teljes közigazgatási területére kiterjed.
 
 (2) A településképi rendelet állapítja meg
 
@@ -16,6 +16,9 @@ a) egyedi építészeti,
 
 b) területi építészeti és
 
-c) reklámokra, valamint a reklámhordozókra, cégérekre, cég- és üzletjelzésekre, továbbá az egyéb műszaki berendezésekre vonatkozó
+c)[^43] a cégérekre, cég- és üzletjelzésekre, a háztartási méretű kiserőművek, klímaberendezések, elektromos és egyéb gépészeti berendezések (a továbbiakban együtt: Berendezések) épületeken való elhelyezhetőségére vonatkozó
 
 követelmény.
+
+[^42]: A 27. § (1) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 156. § (1) bekezdésével megállapított szöveg.
+[^43]: A 27. § (3) bekezdés c) pontja a 285/2024. (IX. 30.) Korm. rendelet 156. § (2) bekezdésével megállapított szöveg.

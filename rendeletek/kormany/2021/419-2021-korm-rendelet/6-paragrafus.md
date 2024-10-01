@@ -6,4 +6,6 @@
 
 (2) A közös tervezésben készülő településterv, kézikönyv és településképi rendelet megalapozásának és alátámasztásának dokumentumai a közös tervezéssel érintett közigazgatási területek egészére készülnek.
 
-(3) Az elfogadásra előkészített településtervet, kézikönyvet és településképi rendeletet a települési önkormányzat a közigazgatási területe tekintetében önállóan egyezteti, és arról önállóan dönt.
+(3)[^9] A magyar építészetről szóló 2023. évi C. törvény (a továbbiakban: Méptv.) 78. § (4) bekezdése szerinti önkormányzati társulás esetén kizárólag azonos vármegyében fekvő településekre készülhet együttesen településterv.
+
+[^9]: A 6. § (3) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 147. §-ával megállapított szöveg.

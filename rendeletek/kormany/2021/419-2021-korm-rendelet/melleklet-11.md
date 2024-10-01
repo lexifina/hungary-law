@@ -14,9 +14,9 @@
 
 | 7. | Ortofotó | – | Lechner Tudásközpont |
 
-| 8. | Egyszerűsített felszínborítás (Mezőgazdasági Parcella Azonosító Rendszer) | Magyar Államkincstár[^60] | Lechner Tudásközpont |
+| 8. | Egyszerűsített felszínborítás (Mezőgazdasági Parcella Azonosító Rendszer) | Magyar Államkincstár[^226] | Lechner Tudásközpont |
 
-| 9. | Védett tájelem | Magyar Államkincstár[^61] | Lechner Tudásközpont |
+| 9. | Védett tájelem | Magyar Államkincstár[^227] | Lechner Tudásközpont |
 
 | 10. | Világörökségi helyszín | – | Lechner Tudásközpont |
 
@@ -94,6 +94,8 @@
 
 | 47. | Határozattal lehatárolt ex lege védett forrás természeti emlék | természetvédelemért felelős miniszter | Lechner Tudásközpont |
 
+| 47a.[^228] | Minősített nádas | területileg illetékes vármegyei kormányhivatal | Lechner Tudásközpont |
+
 | 48. | Országos Ökológiai Hálózat övezetei | természetvédelemért felelős miniszter | Lechner Tudásközpont |
 
 | 49. | Tájképvédelmi terület övezete | természetvédelemért felelős miniszter | Lechner Tudásközpont |
@@ -117,6 +119,10 @@
 | 58. | Állami tulajdonú felszíni víz parti sávja | Országos Vízügyi Főigazgatóság | Lechner Tudásközpont |
 
 | 59. | Állami tulajdonú árvízvédelmi védvonal (töltés, gát) | Országos Vízügyi Főigazgatóság | Lechner Tudásközpont |
+
+| 59a.[^229] | Állami tulajdonú árvízvédelmi védvonal (védősáv) | Országos Vízügyi Főigazgatóság | Lechner Tudásközpont |
+
+| 59b.[^230] | Állami tulajdonú árvízvédelmi védvonal menti szivárgási sáv | Országos Vízügyi Főigazgatóság | Lechner Tudásközpont |
 
 | 60. | Felszíni víz – vízfolyás | Országos Vízügyi Főigazgatóság | Lechner Tudásközpont |
 
@@ -152,7 +158,9 @@
 
 | 76. | Ivóvíz-kivételi helyek vízgyűjtője | Országos Vízügyi Főigazgatóság | Lechner Tudásközpont |
 
-| 77. | Polgári védelmi terület, veszélyességi övezet | Országos Katasztrófavédelmi Főigazgatóság | Lechner Tudásközpont |
+| 77.[^231] | Polgári védelmi terület | Országos Katasztrófavédelmi Főigazgatóság | Lechner Tudásközpont |
+
+| 77a.[^232] | Iparbiztonsági veszélyességi övezet | az iparbiztonsági hatáskörében eljáró fővárosi és vármegyei kormányhivatal | Lechner Tudásközpont |
 
 | 78. | Borszőlő termőhelyi kataszteri terület övezete (BKÜTrT.) | – | Lechner Tudásközpont |
 
@@ -162,15 +170,15 @@
 
 | 81. | Erdőtelepítésre javasolt terület övezete | – | Lechner Tudásközpont |
 
-| 82. | Erdőrészletek | erdőgazdálkodásért felelős miniszter[^62] | Lechner Tudásközpont |
+| 82. | Erdőrészletek | erdőgazdálkodásért felelős miniszter[^233] | Lechner Tudásközpont |
 
-| 83. | Erdőgazdálkodási célokat közvetlenül szolgáló földterületek | erdőgazdálkodásért felelős miniszter[^63] | Lechner Tudásközpont |
+| 83. | Erdőgazdálkodási célokat közvetlenül szolgáló földterületek | erdőgazdálkodásért felelős miniszter[^234] | Lechner Tudásközpont |
 
-| 84. | Szabad rendelkezésű erdők | erdőgazdálkodásért felelős miniszter[^64] | Lechner Tudásközpont |
+| 84. | Szabad rendelkezésű erdők | erdőgazdálkodásért felelős miniszter[^235] | Lechner Tudásközpont |
 
-| 85. | VINGIS termőhelyi kataszter | Magyar Államkincstár[^65] | Lechner Tudásközpont |
+| 85. | VINGIS termőhelyi kataszter | Magyar Államkincstár[^236] | Lechner Tudásközpont |
 
-| 86. | VINGIS szőlőültetvények | Magyar Államkincstár[^66] | Lechner Tudásközpont |
+| 86. | VINGIS szőlőültetvények | Magyar Államkincstár[^237] | Lechner Tudásközpont |
 
 | 87. | Ásványi nyersanyagvagyon övezete | Szabályozott Tevékenységek Felügyeleti Hatósága | Lechner Tudásközpont |
 
@@ -190,7 +198,7 @@
 
 | 95. | Vasút | közlekedésért felelős miniszter | Lechner Tudásközpont |
 
-| 96. | Repülőtér | közlekedésért felelős miniszter | Lechner Tudásközpont |
+| 96. | Repülőtér, valamint a repülőtér akadálykorlátozási felületének vizsgálata[^238] | repülőtér üzembentartója[^239] | Lechner Tudásközpont |
 
 | 97. | Országos közforgalmú, valamint vám- és határkikötő | közlekedésért felelős miniszter | Lechner Tudásközpont |
 
@@ -236,96 +244,37 @@
 
 | 118. | Kőolajszállító- és termékvezeték területigényes létesítményei és azok biztonsági övezete | MOL Magyar Olaj- és Gázipari Nyilvánosan Működő Részvénytársaság | Lechner Tudásközpont |
 
+| 118a.[^240] | Szénhidrogén-termelés mezőbeli vezetéke | MOL Magyar Olaj- és Gázipari Nyilvánosan Működő Részvénytársaság | Lechner Tudásközpont |
+
+| 118b.[^241] | Szénhidrogén-termelés mezőbeli vezetékének biztonsági övezete | MOL Magyar Olaj- és Gázipari Nyilvánosan Működő Részvénytársaság | Lechner Tudásközpont |
+
 | 119. | Területfejlesztési és területrendezési dokumentumok | – | érintett és közigazgatási határral szomszédos területi (vármegyei, fővárosi) önkormányzat |
 
 | 120. | Hatályos helyi építési szabályzat, kerületi építési szabályzat, fővárosi rendezési szabályzat, valamint a településfejlesztési döntések | – | közigazgatási határral szomszédos települési (fővárosban fővárosi és kerületi) önkormányzat |
 
-| 121. | Szegregációszűrés, településrész-kijelölés | – | Központi Statisztikai Hivatal |
+| 121. | A településrészek helyzetelemzéséhez szükséges adatok[^242] | – | Központi Statisztikai Hivatal |
+
+| 122.[^243] | A szegregált és szegregációval veszélyeztetett területek térképi ábrázolása, szöveges lehatárolása és azok helyzetelemzéséhez szükséges adatok | Központi Statisztikai Hivatal | Lechner Tudásközpont |
 
 11. melléklet a 419/2021. (VII. 15.) Korm. rendelethez
 
 A TELEPÜLÉSTERV, A TELEPÜLÉSI ARCULATI KÉZIKÖNYV ÉS A TELEPÜLÉSKÉPI RENDELET VONATKOZÁSÁBAN VÉLEMÉNYEZÉSRE JOGOSULT SZERVEK
 
-|  | A | B | C | D |
-
-| 1. | VÉLEMÉNYEZÉSRE JOGOSULT SZERVEK | EGYEZTETÉSI SZAKTERÜLET |
-
-| 2. |  | településterv | településképi arculati kézikönyv | településképi rendelet |
-
-| 3. | állami főépítész | településfejlesztés, területrendezés, településrendezés, településkép-védelem | – | területrendezés, településrendezés, településkép- védelem |
-
-| 4. | a Balaton vízparti területeit érintő településterv esetén a területrendezésért felelős miniszter | területrendezés | – | – |
-
-| 5. | környezetvédelmi és természetvédelmi hatáskörben vármegyei kormányhivatal[^67] | környezetvédelem, természet- és tájvédelem | – | – |
-
-| 5a.[^68] | területi hulladékgazdálkodási hatóság | hulladékgazdálkodás | – | – |
-
-| 6. | nemzeti park igazgatóság | természet- és tájvédelem | természet- és tájvédelem | természet- és tájvédelem |
-
-| 7. | területi vízvédelmi hatóság | vízvédelem | – | – |
-
-| 8. | területi vízügyi hatóság | vízgazdálkodás | – | – |
-
-| 9.[^69] |  |  |  |  |
-
-| 10. | területi vízügyi igazgatási szerv | a vizek védelmével, illetve kártételeinek elhárításával összefüggő alapvető szempontok teljesülése, a környezet- és természetvédelmi követelményekre figyelemmel | – | – |
-
-| 11. | fővárosi és vármegyei katasztrófavédelmi igazgatóság[^70] | polgári védelem, iparbiztonság | – | – |
-
-| 12. | népegészségügyi hatáskörében eljáró fővárosi és vármegyei kormányhivatal[^71] | közegészségügy | – | – |
-
-| 13. | Budapest Főváros Kormányhivatala | közlekedés: gyorsforgalmi utat, közúti határátkelőhelyet, szintbeli közúti-vasúti átjárót érintő településrendezési eszköz esetében | – | – |
-
-| 14. | közlekedésért felelős miniszter | közlekedés: vasúti pályahálózatot, víziutat érintő település esetében | – | – |
-
-| 15. | a) légiközlekedési hatóság b) katonai légügyi hatóság | közlekedés: légi közlekedéssel érintett település esetében: a) polgári célú légiközlekedés tekintetében b) állami célú légiközlekedés tekintetében | – | – |
-
-| 16. | közlekedési hatósági hatáskörében eljáró fővárosi és vármegyei kormányhivatal[^72] | közlekedés: a 12–14. pont kivételével minden közúti közlekedési ügyben | – | – |
-
-| 17. | örökségvédelmi hatáskörében eljáró fővárosi és vármegyei kormányhivatal[^73] | régészeti örökség és műemléki érték, világörökségi és világörökségi várományos terület védelme | a világörökségi, műemléki és régészeti érték védelme | a világörökségi, műemléki és régészeti érték védelme |
-
-| 18. | talajvédelmi hatáskörében eljáró fővárosi és vármegyei kormányhivatal[^74] | talajvédelem | – | – |
-
-| 19. | ingatlanügyi, földügyi igazgatási hatáskörében eljáró fővárosi és vármegyei kormányhivatal[^75] | földvédelem | – | – |
-
-| 20. | erdészeti hatáskörében eljáró vármegyei kormányhivatal[^76] | erdővédelem[^77] | – | – |
-
-| 21. | honvédelemért felelős miniszter | honvédelem | honvédelmi és katonai rendeltetésű terület érintettsége esetén honvédelem | honvédelmi és katonai rendeltetésű terület érintettsége esetén honvédelem |
-
-| 22. | fővárosi és vármegyei rendőr-főkapitányság[^78] | határrendészet | – | – |
-
-| 23. | a bányafelügyelet, ha a Szabályozott Tevékenységek Felügyeleti Hatósága a 61. § (2) bekezdése alapján a Lechner Tudásközpont felé adatot szolgáltatott[^79] | bányászat, geológia, morfológia, földtani veszélyforrások | – | – |
-
-| 24. | Nemzeti Média- és Hírközlési Hatóság Hivatala | hírközlés | hírközlés | hírközlés |
-
-| 25. | Országos Atomenergia Hivatal | nukleáris biztonság és balesetelhárítás az Országos Atomenergia Hivatal hivatalos honlapján közzétett települések elhelyezkedése szerinti területek esetében | – | – |
-
-| 26. | Budapest Főváros Kormányhivatala | természetes gyógytényezők, gyógyhelyek természeti adottságainak védelme | – | – |
-
-| 27. | Magyar Építész Kamara | – | településkép-védelem | – |
-
-| 28. | érintett és közigazgatási határral szomszédos területi (vármegyei, fővárosi) önkormányzat[^80] | területrendezés, településfejlesztés | – | – |
-
-| 29. | érintett kiemelt térségi fejlesztési tanács | a kiemelt térség fejlesztési koncepcióval való összhang megteremtése | – | – |
-
-[^60]: A 10. mellékletben foglalt táblázat B:8 mezője a 107/2024. (V. 9.) Korm. rendelet 40. § a) pontjával megállapított szöveg.
-[^61]: A 10. mellékletben foglalt táblázat B:9 mezője a 107/2024. (V. 9.) Korm. rendelet 40. § b) pontjával megállapított szöveg.
-[^62]: A 10. mellékletben foglalt táblázat B:82 mezője a 107/2024. (V. 9.) Korm. rendelet 40. § c) pontjával megállapított szöveg.
-[^63]: A 10. mellékletben foglalt táblázat B:83 mezője a 107/2024. (V. 9.) Korm. rendelet 40. § d) pontjával megállapított szöveg.
-[^64]: A 10. mellékletben foglalt táblázat B:84 mezője a 107/2024. (V. 9.) Korm. rendelet 40. § e) pontjával megállapított szöveg.
-[^65]: A 10. mellékletben foglalt táblázat B:85 mezője a 107/2024. (V. 9.) Korm. rendelet 40. § f) pontjával megállapított szöveg.
-[^66]: A 10. mellékletben foglalt táblázat B:86 mezője a 107/2024. (V. 9.) Korm. rendelet 40. § g) pontjával megállapított szöveg.
-[^67]: A 11. mellékletben foglalt táblázat A:5 mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
-[^68]: A 11. mellékletben foglalt táblázat 5a. sorát a 60/2023. (II. 28.) Korm. rendelet 47. §-a iktatta be.
-[^69]: A 11. mellékletben foglalt táblázat 9. sorát a 10/2023. (I. 19.) Korm. rendelet 11. § e) pontja hatályon kívül helyezte.
-[^70]: A 11. mellékletben foglalt táblázat A:11 mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
-[^71]: A 11. mellékletben foglalt táblázat A:12 mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
-[^72]: A 11. mellékletben foglalt táblázat A:16 mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
-[^73]: A 11. mellékletben foglalt táblázat A:17. mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
-[^74]: A 11. mellékletben foglalt táblázat A:18 mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
-[^75]: A 11. mellékletben foglalt táblázat A:19 mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
-[^76]: A 11. mellékletben foglalt táblázat A:20 mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a, a 107/2024. (V. 9.) Korm. rendelet 41. § a) pontja szerint módosított szöveg.
-[^77]: A 11. mellékletben foglalt táblázat B:20 mezője a 107/2024. (V. 9.) Korm. rendelet 41. § b) pontja szerint módosított szöveg.
-[^78]: A 11. mellékletben foglalt táblázat A:22 mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
-[^79]: A 11. mellékletben foglalt táblázat A:23 mezője a 141/2024. (VI. 28.) Korm. rendelet 23. §-ával megállapított szöveg.
-[^80]: A 11. mellékletben foglalt táblázat A:28 mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
+[^226]: A 10. mellékletben foglalt táblázat B:8 mezője a 107/2024. (V. 9.) Korm. rendelet 40. § a) pontjával megállapított szöveg.
+[^227]: A 10. mellékletben foglalt táblázat B:9 mezője a 107/2024. (V. 9.) Korm. rendelet 40. § b) pontjával megállapított szöveg.
+[^228]: A 10. mellékletben foglalt táblázat 47a. sorát a 285/2024. (IX. 30.) Korm. rendelet 186. § (6) bekezdése iktatta be.
+[^229]: A 10. mellékletben foglalt táblázat 59a. sorát a 285/2024. (IX. 30.) Korm. rendelet 186. § (6) bekezdése iktatta be.
+[^230]: A 10. mellékletben foglalt táblázat 59b. sorát a 285/2024. (IX. 30.) Korm. rendelet 186. § (6) bekezdése iktatta be.
+[^231]: A 10. mellékletben foglalt táblázat 77. sora a 257/2024. (VIII. 29.) Korm. rendelet 339. §-ával megállapított szöveg.
+[^232]: A 10. mellékletben foglalt táblázat 77a. sorát a 257/2024. (VIII. 29.) Korm. rendelet 339. §-a iktatta be.
+[^233]: A 10. mellékletben foglalt táblázat B:82 mezője a 107/2024. (V. 9.) Korm. rendelet 40. § c) pontjával megállapított szöveg.
+[^234]: A 10. mellékletben foglalt táblázat B:83 mezője a 107/2024. (V. 9.) Korm. rendelet 40. § d) pontjával megállapított szöveg.
+[^235]: A 10. mellékletben foglalt táblázat B:84 mezője a 107/2024. (V. 9.) Korm. rendelet 40. § e) pontjával megállapított szöveg.
+[^236]: A 10. mellékletben foglalt táblázat B:85 mezője a 107/2024. (V. 9.) Korm. rendelet 40. § f) pontjával megállapított szöveg.
+[^237]: A 10. mellékletben foglalt táblázat B:86 mezője a 107/2024. (V. 9.) Korm. rendelet 40. § g) pontjával megállapított szöveg.
+[^238]: A 10. mellékletben foglalt táblázat A:96 mezője a 285/2024. (IX. 30.) Korm. rendelet 187. § 65. pontjával megállapított szöveg.
+[^239]: A 10. mellékletben foglalt táblázat B:96 mezője a 285/2024. (IX. 30.) Korm. rendelet 187. § 66. pontjával megállapított szöveg.
+[^240]: A 10. mellékletben foglalt táblázat 118a. sorát a 285/2024. (IX. 30.) Korm. rendelet 186. § (6) bekezdése iktatta be.
+[^241]: A 10. mellékletben foglalt táblázat 118b. sorát a 285/2024. (IX. 30.) Korm. rendelet 186. § (6) bekezdése iktatta be.
+[^242]: A 10. mellékletben foglalt táblázat A:121 mezője a 285/2024. (IX. 30.) Korm. rendelet 187. § 67. pontjával megállapított szöveg.
+[^243]: A 10. mellékletben foglalt táblázat 122. sorát a 285/2024. (IX. 30.) Korm. rendelet 186. § (6) bekezdése iktatta be.

@@ -1,32 +1,16 @@
 ## 28. A településképi bejelentési eljárás
 
-46. § (1) Az önkormányzat településképi bejelentési eljárást folytat le
+46. § (1)[^75] Az önkormányzat településképi bejelentési eljárást köteles lefolytatni az építmények rendeltetésének megváltoztatása – így az önálló rendeltetési egység rendeltetésének módosítása vagy az építmény rendeltetési egységei számának megváltozása – esetén, az országos és a helyi építési követelmények érvényesítése érdekében. A Méptv. 33. alcíme szerinti egyes kereskedelmi építményekkel összefüggő rendeltetésváltozás esetén településképi bejelentési eljárás nem folytatható le.
 
-a) az építmények rendeltetésének megváltoztatása – így az önálló rendeltetési egység rendeltetésének módosítása vagy az építmény rendeltetési egységei számának megváltozása – esetén, az országos és a helyi építési követelmények és
+(2)[^76] Az önkormányzat településképi bejelentési eljárást folytathat le
 
-b) a reklámok és reklámhordozók elhelyezése tekintetében
+a) az építésügyi hatósági engedélyhez, egyszerű bejelentéshez, örökségvédelmi engedélyhez vagy örökségvédelmi bejelentéshez nem kötött építési tevékenységek, valamint zöldfelület elhelyezés, területhasználat megkezdését megelőzően, és
 
-ba) a reklám-elhelyezési kormányrendeletben szereplő általános elhelyezési és a településképi rendeletben szereplő különös településképi követelmények, vagy
+b) a cégérek, cég- és üzletjelzések, valamint Berendezések épületeken való elhelyezhetőségét megelőzően,
 
-bb) a különös településképi követelmények meghatározásának hiányában a reklám-elhelyezési kormányrendeletben szereplő általános elhelyezési követelmények
+ha a tevékenységek, épületeken való elhelyezések köre szerepel a 13. mellékletben, és e tevékenységek megkezdését, illetve az elhelyezést a települési önkormányzat rendeletében településképi bejelentési eljárás lefolytatásához kötötte.
 
-érvényesítése érdekében.
-
-(2) Ha az önkormányzat településképi rendeletében bejelentési eljárás lefolytatásához kötötte, településképi bejelentési eljárást folytat le
-
-a) az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló kormányrendeletben építési engedélyhez vagy
-
-b) az Étv. 33/A. §-a szerinti egyszerű bejelentéshez
-
-nem kötött építési tevékenységek tekintetében.
-
-(3) Az önkormányzat nem folytathat le településképi bejelentési eljárást
-
-a) a műemléket, műemléki környezetet vagy műemléki területet érintő, az örökségvédelmi hatósághoz történő bejelentéshez vagy örökségvédelmi engedélyhez kötött tevékenység és
-
-b) az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló kormányrendeletben építési engedélyhez és az Étv. 33/A. §-a szerinti egyszerű bejelentéshez nem kötött kutatási, vizsgálati, kiállítási célt szolgáló és lakó rendeltetést bemutató épület építése
-
-esetében.
+(3)[^77]
 
 (4) A bejelentési eljárás során
 
@@ -44,20 +28,24 @@ a) a bejelentő nevét,
 
 b) a bejelentő lakcímét, szervezet esetén székhelyét,
 
-c) a folytatni kívánt építési tevékenység, reklám, illetve reklámhordozó elhelyezése vagy rendeltetésváltoztatás megjelölését,
+c)[^78] a folytatni kívánt építési tevékenység, cégér, cég- és üzletjelzés, Berendezések elhelyezése vagy rendeltetésváltoztatás megjelölését,
 
-d) a tervezett építési tevékenység, reklám, reklámhordozó vagy rendeltetésváltoztatás helyét, a telek helyrajzi számát és
+d)[^79] a tervezett építési tevékenység, cégér, cég- és üzletjelzés, Berendezések vagy rendeltetésváltoztatás helyét, a telek helyrajzi számát és
 
-e) az építési tevékenység elvégzése, a rendeltetésváltozás megvalósítása vagy a reklámok, reklámhordozók elhelyezésének tervezett időtartamát.
+e)[^80] az építési tevékenység elvégzése, a rendeltetésváltozás megvalósítása vagy a cégér, cég- és üzletjelzés, Berendezések elhelyezésének tervezett időtartamát.
 
 (6) A bejelentéshez a településképi követelményeknek való megfelelést igazoló építészeti-műszaki, illetve egyéb tervet, továbbá rendeltetésváltozás esetén a rendezési terv rendeltetésekre vonatkozó követelményeinek való megfelelést igazoló dokumentációt kell mellékelni.
 
-(7) Az önkormányzat a bejelentés beérkezését követően – amennyiben a településképi rendelet azt kötelezővé teszi – haladéktalanul bekéri
-
-a) az önkormányzati főépítész szakmai álláspontját, vagy
-
-b) helyi tervtanács működtetése esetén annak szakmai álláspontját.
+(7)[^81] Az önkormányzat a bejelentés beérkezését követően haladéktalanul bekéri az önkormányzati főépítész szakmai álláspontját.
 
 (8) A településképi bejelentési eljárásban az általános közigazgatási rendtartásról szóló törvény szerinti jogszerű hallgatásnak van helye.
 
 (9) A bejelentési eljárásban az eljárás szünetelésének nincs helye.
+
+[^75]: A 46. § (1) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 165. § (1) bekezdésével megállapított szöveg.
+[^76]: A 46. § (2) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 165. § (1) bekezdésével megállapított szöveg.
+[^77]: A 46. § (3) bekezdését a 285/2024. (IX. 30.) Korm. rendelet 188. § 10. pontja hatályon kívül helyezte.
+[^78]: A 46. § (5) bekezdés c) pontja a 285/2024. (IX. 30.) Korm. rendelet 187. § 27. pontja szerint módosított szöveg.
+[^79]: A 46. § (5) bekezdés d) pontja a 285/2024. (IX. 30.) Korm. rendelet 187. § 28. pontja szerint módosított szöveg.
+[^80]: A 46. § (5) bekezdés e) pontja a 285/2024. (IX. 30.) Korm. rendelet 187. § 29. pontja szerint módosított szöveg.
+[^81]: A 46. § (7) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 165. § (2) bekezdésével megállapított szöveg.

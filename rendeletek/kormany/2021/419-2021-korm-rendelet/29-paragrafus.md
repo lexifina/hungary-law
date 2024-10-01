@@ -1,3 +1,3 @@
-29. §[^5]
+29. §[^45]
 
-[^5]: A 29. § a 797/2021. (XII. 27. ) Korm. rendelet 2. §-a alapján nem lép hatályba.
+[^45]: A 29. § a 797/2021. (XII. 27. ) Korm. rendelet 2. §-a alapján nem lép hatályba.

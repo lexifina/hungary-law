@@ -1,5 +1,5 @@
-## 33. A településrendezési kötelezés
+## 33.[^94]
 
-54. § (1) A helyi építési szabályzat az 5. melléklet IV. pontja szerinti követelmények érvényesítésére a települési önkormányzat polgármestere alkalmazhatja az Étv. 29. § (1) bekezdés c) pontja szerinti beültetési kötelezettség településrendezési kötelezést.
+54. §
 
-(2) Az (1) bekezdés szerint alkalmazott kötelezés közérdekű környezetalakítási célt szolgál.
+[^94]: A 33. alcímet (54. §-t) a 285/2024. (IX. 30.) Korm. rendelet 188. § 14. pontja hatályon kívül helyezte.
