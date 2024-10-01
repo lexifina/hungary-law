@@ -42,10 +42,12 @@ A Beruházások megvalósításával összefüggő nemzetgazdasági szempontból
 
 20. földvédelmi hatósági eljárások,
 
-21. veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások,
+21.[^34] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
 
 22. építményeken kívüli és belüli felvonó, mozgólépcső, emelők, gépi működtetési közlekedési berendezések engedélyezésére irányuló hatósági eljárások,
 
 23. azok az 1–22. pontban nem szereplő hatósági engedélyezési eljárások, amelyek a Beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
 24. az 1–23. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^34]: Az 1. melléklet 21. pontja a 257/2024. (VIII. 29.) Korm. rendelet 239. §-a szerint módosított szöveg.
