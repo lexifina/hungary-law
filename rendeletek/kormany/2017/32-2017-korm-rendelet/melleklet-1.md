@@ -42,9 +42,9 @@ A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentős�
 
 19. telekalakításra irányuló hatósági eljárások,
 
-20. veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások,
+20.[^6] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
 
-21. az óvóhely épülettel kapcsolatos munkálat elvégzéséhez, illetve az óvóhely rendeltetéstől eltérő hasznosításhoz szükséges katasztrófavédelmi engedélyezési eljárások,
+21.[^7] az óvóhely épülettel kapcsolatos munkálat elvégzéséhez, illetve az óvóhely rendeltetéstől eltérő hasznosításhoz szükséges engedélyezési eljárások,
 
 22. vasúti és szalagpálya hatósági engedélyezési eljárás,
 
@@ -53,3 +53,5 @@ A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentős�
 24. az 1–23. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
 [^5]: Az 1. melléklet 5. pontja az 546/2022. (XII. 22.) Korm. rendelet 153. § c) pontja szerint módosított szöveg.
+[^6]: Az 1. melléklet 20. pontja a 257/2024. (VIII. 29.) Korm. rendelet 229. § a) pontja szerint módosított szöveg.
+[^7]: Az 1. melléklet 21. pontja a 257/2024. (VIII. 29.) Korm. rendelet 229. § b) pontja szerint módosított szöveg.
