@@ -8,7 +8,7 @@ a) legfeljebb két alkalommal fekvő hengeres szimplafalú tartályok és álló
 
 b) legfeljebb három alkalommal fekvő hengeres dupla falú tartályok és állóhengeres kettős fenekű tartályok esetében egy évvel
 
-## meghosszabbítja.
+meghosszabbítja.
 
 (4)[^2] Álló hengeres tartály esetében a soron következő belső tisztítás, szerkezeti vizsgálat elvégzésének határideje a (3) bekezdésben foglaltak szerint az alábbi feltételek együttes teljesülése esetén hosszabbítható meg:
 

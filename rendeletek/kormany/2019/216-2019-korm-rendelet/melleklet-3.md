@@ -1,5 +1,3 @@
-## A tárolótartályok és berendezéseik gyártását, helyszíni technológiai szerelését, javítását, átalakítását, tisztítását, szivárgásvizsgálatát, időszakos ellenőrző vizsgálatát végző szervezetekre vonatkozó követelmények
-
 |  | A | B | C | D | E | F | G | H |
 
 | 1. | Tevékenységek és feltételeik | Gyártás | Helyszíni technológiai szerelés | Javítás | Átalakítás | Tisztítás | Szivárgás- vizsgálat | Időszakos vizsgálat |
@@ -74,7 +72,7 @@
 
 3. melléklet a 216/2019. (IX. 5.) Korm. rendelethez
 
-## A 20. §-ban meghatározott szervezetekre vonatkozó követelmények
+A 20. §-ban meghatározott szervezetekre vonatkozó követelmények
 
 I. Személyi követelmények:
 
