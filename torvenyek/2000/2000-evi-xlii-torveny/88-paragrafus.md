@@ -28,7 +28,7 @@ k) a hajókról származó szennyezés és az azzal összefüggő jogkövetkezm�
 
 l) az e törvény szerinti szakértői tevékenység folytatása részletes feltételeinek, a szakértői tevékenység bejelentése és a szakértők nyilvántartása személyes adatot nem tartalmazó adattartalmának, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályoknak, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeknek
 
-m) a hivatásos katasztrófavédelmi szerv eljárásai során a veszélyes áruk belvízi szállításának ellenőrzésére és a bírság kivetésére vonatkozó egységes eljárás szabályainak, továbbá az egyes szabálytalanságokért kiszabható bírságok összegének, valamint a bírságolással összefüggő hatósági feladatok általános szabályainak,
+m) a veszélyes áruk belvízi szállításának ellenőrzésére és a bírság kivetésére jogosult hatóság kijelölésének, a kijelölt hatóság által végzett ellenőrzés és a bírság kivetésére vonatkozó egységes eljárás szabályainak, továbbá az egyes szabálytalanságokért kiszabható bírságok összegének, valamint a bírságolással összefüggő hatósági feladatok általános szabályainak,
 
 n) a víziközlekedés tekintetében az európai és a nemzeti kritikus infrastruktúrák azonosítás kritériumrendszerének, kritikus infrastruktúrává történő kijelölésnek, érzékeny információ védelmének, kapcsolattartás és jelentéstételi kötelezettségek rendjének, valamint európai kritikus infrastruktúra kijelölése esetén annak védelmének, a kritikus infrastruktúrákra vonatkozó előírások ellenőrzési rendjének, az előírások megsértése esetén alkalmazható jogkövetkezmények részlet szabályainak,
 
@@ -45,6 +45,8 @@ s) a vizsgaközpont tevékenysége tekintetében a felügyeleti szervének, a fe
 t) a vizsgaközpont felügyeleti szerve által kiszabható bírság mértékének, megállapítása szempontrendszerének és a bírság megfizetése részletszabályainak
 
 u) a helyi személyszállítási közszolgáltatás körébe nem sorolható komp- és révközlekedést biztosító szolgáltatásoknak regionális vagy elővárosi személyszállítási közszolgáltatási feladatot ellátó szolgáltatássá történő minősítésének
+
+v) a veszélyes vagy szennyező áru belvízi szállításának hatósági ellenőrzését végző hatóság kijelölésének
 
 rendeletben történő megállapítására.
 
