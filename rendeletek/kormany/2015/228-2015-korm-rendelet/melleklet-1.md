@@ -20,11 +20,11 @@
 
 8. tűzvédelmi hatósági eljárások,
 
-9. katasztrófavédelmi hatósági eljárások,
+9.[^11] iparbiztonsági hatósági eljárások,
 
 10. útügyi hatósági eljárások,
 
-11.[^11] műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
+11.[^12] műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
 
 12. műszaki biztonsági engedélyezési eljárások,
 
@@ -49,4 +49,5 @@
 [^8]: A 6. §-t a 21/2016. (II. 15.) Korm. rendelet 3. §-a iktatta be.
 [^9]: A hatálybalépés napja 2016. február 16.
 [^10]: Az 1. melléklet a 21/2016. (II. 15.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^11]: Az 1. melléklet 11. pontja a 380/2016. (XII. 2.) Korm. rendelet 102. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^11]: Az 1. melléklet 9. pontja a 257/2024. (VIII. 29.) Korm. rendelet 161. §-a szerint módosított szöveg.
+[^12]: Az 1. melléklet 11. pontja a 380/2016. (XII. 2.) Korm. rendelet 102. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
