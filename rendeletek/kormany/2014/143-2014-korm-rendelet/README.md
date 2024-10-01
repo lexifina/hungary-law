@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-143-20-
 | 2020-07-31 | 2014-143-20-22.6 | 72/2015. (III. 30.) Korm. rendelet |
 | 2022-12-23 | 2014-143-20-22.7 | 72/2015. (III. 30.) Korm. rendelet |
 | 2023-01-01 | 2014-143-20-22.8 | 72/2015. (III. 30.) Korm. rendelet |
+| 2024-10-01 | 2014-143-20-22.9 | 271/2016. (IX. 1.) Korm. rendelet |
