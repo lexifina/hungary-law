@@ -24,45 +24,45 @@
 
 |  | zz | A tűzvédelmi hatóságok számozása |
 
-|  | 01 | Fővárosi Katasztrófavédelmi Igazgatóság |
+|  | 01 | Budapest Főváros Kormányhivatala |
 
-|  | 02 | Baranya Vármegyei Katasztrófavédelmi Igazgatóság |
+|  | 02 | Baranya Vármegyei Kormányhivatal |
 
-|  | 03 | Bács-Kiskun Vármegyei Katasztrófavédelmi Igazgatóság |
+|  | 03 | Bács-Kiskun Vármegyei Kormányhivatal |
 
-|  | 04 | Békés Vármegyei Katasztrófavédelmi Igazgatóság |
+|  | 04 | Békés Vármegyei Kormányhivatal |
 
-|  | 05 | Borsod-Abaúj-Zemplén Vármegyei Katasztrófavédelmi Igazgatóság |
+|  | 05 | Borsod-Abaúj-Zemplén Vármegyei Kormányhivatal |
 
-|  | 06 | Csongrád-Csanád Vármegyei Katasztrófavédelmi Igazgatóság |
+|  | 06 | Csongrád-Csanád Vármegyei Kormányhivatal |
 
-|  | 07 | Fejér Vármegyei Katasztrófavédelmi Igazgatóság |
+|  | 07 | Fejér Vármegyei Kormányhivatal |
 
-|  | 08 | Győr-Moson-Sopron Vármegyei Katasztrófavédelmi Igazgatóság |
+|  | 08 | Győr-Moson-Sopron Vármegyei Kormányhivatal |
 
-|  | 09 | Hajdú-Bihar Vármegyei Katasztrófavédelmi Igazgatóság |
+|  | 09 | Hajdú-Bihar Vármegyei Kormányhivatal |
 
-|  | 10 | Heves Vármegyei Katasztrófavédelmi Igazgatóság |
+|  | 10 | Heves Vármegyei Kormányhivatal |
 
-|  | 11 | Komárom-Esztergom Vármegyei Katasztrófavédelmi Igazgatóság |
+|  | 11 | Komárom-Esztergom Vármegyei Kormányhivatal |
 
-|  | 12 | Nógrád Vármegyei Katasztrófavédelmi Igazgatóság |
+|  | 12 | Nógrád Vármegyei Kormányhivatal |
 
-|  | 13 | Pest Vármegyei Katasztrófavédelmi Igazgatóság |
+|  | 13 | Pest Vármegyei Kormányhivatal |
 
-|  | 14 | Somogy Vármegyei Katasztrófavédelmi Igazgatóság |
+|  | 14 | Somogy Vármegyei Kormányhivatal |
 
-|  | 15 | Szabolcs-Szatmár-Bereg Vármegyei Katasztrófavédelmi Igazgatóság |
+|  | 15 | Szabolcs-Szatmár-Bereg Vármegyei Kormányhivatal |
 
-|  | 16 | Jász-Nagykun-Szolnok Vármegyei Katasztrófavédelmi Igazgatóság |
+|  | 16 | Jász-Nagykun-Szolnok Vármegyei Kormányhivatal |
 
-|  | 17 | Tolna Vármegyei Katasztrófavédelmi Igazgatóság |
+|  | 17 | Tolna Vármegyei Kormányhivatal |
 
-|  | 18 | Vas Vármegyei Katasztrófavédelmi Igazgatóság |
+|  | 18 | Vas Vármegyei Kormányhivatal |
 
-|  | 19 | Veszprém Vármegyei Katasztrófavédelmi Igazgatóság |
+|  | 19 | Veszprém Vármegyei Kormányhivatal |
 
-|  | 20 | Zala Vármegyei Katasztrófavédelmi Igazgatóság |
+|  | 20 | Zala Vármegyei Kormányhivatal |
 
 |  | 21 | BM Országos Katasztrófavédelmi Főigazgatóság |
 

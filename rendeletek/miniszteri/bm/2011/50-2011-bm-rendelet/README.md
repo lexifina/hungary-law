@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-50-20-0
 | 2020-11-05 | 2011-50-20-0A.9 | 24/2012. (V. 8.) BM rendelet |
 | 2022-12-10 | 2011-50-20-0A.10 | 24/2012. (V. 8.) BM rendelet |
 | 2023-01-01 | 2011-50-20-0A.11 | 24/2012. (V. 8.) BM rendelet |
+| 2024-10-01 | 2011-50-20-0A.12 | 24/2012. (V. 8.) BM rendelet |
