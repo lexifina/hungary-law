@@ -1,3 +1,3 @@
-53. §[^177]
+53. §[^178]
 
-[^177]: Az 52–56. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^178]: Az 52–56. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

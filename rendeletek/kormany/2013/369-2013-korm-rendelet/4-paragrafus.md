@@ -1,10 +1,10 @@
-4. § (1)[^13] Az e rendelet szerinti hatósági eljárásokban – a (4)–(6) bekezdésben meghatározott kivételekkel – az engedélyes címe szerint illetékes működést engedélyező szerv jár el.
+4. § (1)[^14] Az e rendelet szerinti hatósági eljárásokban – a (4)–(6) bekezdésben meghatározott kivételekkel – az engedélyes címe szerint illetékes működést engedélyező szerv jár el.
 
-(2)[^14]
+(2)[^15]
 
-(3)[^15]
+(3)[^16]
 
-(4)[^16] A fenntartó bármely engedélyesének címe szerint illetékes működést engedélyező szerv valamennyi engedélyes ügyében eljár
+(4)[^17] A fenntartó bármely engedélyesének címe szerint illetékes működést engedélyező szerv valamennyi engedélyes ügyében eljár
 
 a) fenntartóváltozás során abban az esetben, ha
 
@@ -16,25 +16,25 @@ ac) a fenntartó egyéni vállalkozó egyéni céget alapított, illetve átruh�
 
 b) a fenntartó vagy kapcsolattartója adataiban bekövetkező változás esetén.
 
-(5)[^17] A szolgáltató székhelye szerint illetékes működést engedélyező szerv, ha pedig a szolgáltató székhelyét szolgáltatás nyújtására nem használják, a szolgáltató bármely telephelye szerint illetékes működést engedélyező szerv a szolgáltató valamennyi telephelye ügyében eljár a szolgáltató nevének, adószámának vagy székhelyének módosítása során.
+(5)[^18] A szolgáltató székhelye szerint illetékes működést engedélyező szerv, ha pedig a szolgáltató székhelyét szolgáltatás nyújtására nem használják, a szolgáltató bármely telephelye szerint illetékes működést engedélyező szerv a szolgáltató valamennyi telephelye ügyében eljár a szolgáltató nevének, adószámának vagy székhelyének módosítása során.
 
-(5a)[^18] Ha a fenntartó az engedélyes címének módosítását kéri, az adatmódosítás iránti teljes kérelem ügyében a kérelemben foglalt új cím szerint illetékes
+(5a)[^19] Ha a fenntartó az engedélyes címének módosítását kéri, az adatmódosítás iránti teljes kérelem ügyében a kérelemben foglalt új cím szerint illetékes
 
-a)[^19] működést engedélyező szerv jár el,
+a)[^20] működést engedélyező szerv jár el,
 
-b)[^20] szakhatóság jár el a támogatott lakhatás és a fejlesztő foglalkoztatás kivételével.
+b)[^21] szakhatóság jár el a támogatott lakhatás és a fejlesztő foglalkoztatás kivételével.
 
-(6)[^21] A fenntartó bármely engedélyesének címe szerint illetékes működést engedélyező szerv kiadhat – a tanúsítvány kivételével – hatósági bizonyítványt az engedélyesnek a szolgáltatói nyilvántartásban szereplő adatairól.
+(6)[^22] A fenntartó bármely engedélyesének címe szerint illetékes működést engedélyező szerv kiadhat – a tanúsítvány kivételével – hatósági bizonyítványt az engedélyesnek a szolgáltatói nyilvántartásban szereplő adatairól.
 
-(7)[^22]
+(7)[^23]
 
-[^13]: A 4. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 248. § (3) bekezdésével megállapított, a 194/2024. (VII. 8.) Korm. rendelet 37. § c) pontja szerint módosított szöveg.
-[^14]: A 4. § (2) bekezdését a 194/2024. (VII. 8.) Korm. rendelet 38. § a) pontja hatályon kívül helyezte.
-[^15]: A 4. § (3) bekezdését a 194/2024. (VII. 8.) Korm. rendelet 38. § a) pontja hatályon kívül helyezte.
-[^16]: A 4. § (4) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 248. § (13) bekezdés c) pontja szerint módosított szöveg.
-[^17]: A 4. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 234. § (11) bekezdés e) pontja, a 379/2016. (XII. 2.) Korm. rendelet 248. § (13) bekezdés d) pontja szerint módosított szöveg.
-[^18]: A 4. § (5a) bekezdését a 419/2015. (XII. 23.) Korm. rendelet 26. §-a iktatta be.
-[^19]: A 4. § (5a) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 248. § (13) bekezdés e) pontja szerint módosított szöveg.
-[^20]: A 4. § (5) bekezdés b) pontja a 448/2016. (XII. 19.) Korm. rendelet 55. § (3) bekezdés b) pontja szerint módosított szöveg.
-[^21]: A 4. § (6) bekezdése a 70/2015. (III. 30.) Korm. rendelet 234. § (11) bekezdés c) pontja, a 379/2016. (XII. 2.) Korm. rendelet 248. § (13) bekezdés e) pontja szerint módosított szöveg.
-[^22]: A 4. § (7) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 458. § a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^14]: A 4. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 248. § (3) bekezdésével megállapított, a 194/2024. (VII. 8.) Korm. rendelet 37. § c) pontja szerint módosított szöveg.
+[^15]: A 4. § (2) bekezdését a 194/2024. (VII. 8.) Korm. rendelet 38. § a) pontja hatályon kívül helyezte.
+[^16]: A 4. § (3) bekezdését a 194/2024. (VII. 8.) Korm. rendelet 38. § a) pontja hatályon kívül helyezte.
+[^17]: A 4. § (4) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 248. § (13) bekezdés c) pontja szerint módosított szöveg.
+[^18]: A 4. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 234. § (11) bekezdés e) pontja, a 379/2016. (XII. 2.) Korm. rendelet 248. § (13) bekezdés d) pontja szerint módosított szöveg.
+[^19]: A 4. § (5a) bekezdését a 419/2015. (XII. 23.) Korm. rendelet 26. §-a iktatta be.
+[^20]: A 4. § (5a) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 248. § (13) bekezdés e) pontja szerint módosított szöveg.
+[^21]: A 4. § (5) bekezdés b) pontja a 448/2016. (XII. 19.) Korm. rendelet 55. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^22]: A 4. § (6) bekezdése a 70/2015. (III. 30.) Korm. rendelet 234. § (11) bekezdés c) pontja, a 379/2016. (XII. 2.) Korm. rendelet 248. § (13) bekezdés e) pontja szerint módosított szöveg.
+[^23]: A 4. § (7) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 458. § a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
