@@ -20,7 +20,7 @@
 
 | 10. | Ha az építmény szélső pontjainak vetületétől számított 50 méteren belül egyéb országos közút vagy helyi közút, a fővárosi önkormányzat vagy a fővárosi kerületi önkormányzatok tulajdonában levő közút található, és a kérelmező az útkezelői hozzájárulás megtagadását vagy a hozzájárulásban előírt feltételeket sérelmesnek tartja. | Annak elbírálása kérdésében, hogy a közút területének nem közlekedési célú igénybevétele a kérelemben foglaltak szerint vagy további feltételek mellett – a közúti forgalom biztonságára, a közút fejlesztési terveinek végrehajtására, a közútkezelő fenntartási, üzemeltetési feladatainak ellátására, a közút állagára gyakorolt hatása alapján – engedélyezhető-e. |
 
-| 11. |  |  |
+| 11. | Építési, használatbavételi és fennmaradási eljárás. | Az építménnyel, létesítménnyel összefüggő tűzvédelmi követelmények érvényre juttatása az építésügyi hatósági engedélyköteles éghető töltetű nyomástartó vagy töltő rendszerek, éghető folyadék- és olvadéktárolók, közforgalmú üzemanyagtöltő állomások műtárgyai az utak kivételével, közforgalmú autógáz-töltőállomások műtárgyai az utak kivételével, éghető gáz és olaj előállító és tároló energetikai építmény, az ipari és mezőgazdasági célú földgázfogyasztó hőfejlesztő-hőhasznosító létesítmény építése esetén. |
 
 | 12. | A bioetanol vagy a biogáz és komposztáló telep technológiáinak elhelyezését vagy védelmét közvetlenül szolgáló építménnyel kapcsolatos eljárás, a bontási engedélyezési eljárás kivételével. | A VM rendelet szerinti állat-egészségügyi előírásoknak való megfelelés. |
 
@@ -38,6 +38,6 @@ Az építésügyi hatósági eljárásban közreműködő közmű-, közút-, va
 
 3. A vasúti pályahálózat működtetői
 
-4.[^69] Kéményseprő-ipari szerv, kéményseprő-ipari szolgáltató, kéményseprő-ipari közszolgáltató
+4.[^73] Kéményseprő-ipari szerv, kéményseprő-ipari szolgáltató, kéményseprő-ipari közszolgáltató
 
-[^69]: A 4. melléklet 4. pontja a 99/2016. (V. 13.) Korm. rendelet 9. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 5. § (2) bekezdését.
+[^73]: A 4. melléklet 4. pontja a 99/2016. (V. 13.) Korm. rendelet 9. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 5. § (2) bekezdését.
