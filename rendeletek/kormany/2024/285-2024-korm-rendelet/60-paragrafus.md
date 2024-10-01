@@ -1,0 +1,3 @@
+## 18. A közlekedési területeken végzett szakértői tevékenység folytatásának részletes feltételeiről, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokról szóló 14/2010. (II. 5.) Korm. rendelet módosítása
+
+60. § A közlekedési területeken végzett szakértői tevékenység folytatásának részletes feltételeiről, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokról szóló 14/2010. (II. 5.) Korm. rendelet 2. §-ában a „tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról” szövegrész helyébe a „magyar építészetről” szöveg lép.

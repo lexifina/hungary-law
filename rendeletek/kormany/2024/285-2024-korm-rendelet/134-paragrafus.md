@@ -1,0 +1,3 @@
+## 55. A Magyar Labdarúgó Szövetség Budapesti Pályafejlesztési Programjának megvalósításával kapcsolatos egyes feladatok ellátásáról szóló 478/2017. (XII. 28.) Korm. rendelet módosítása
+
+134. § A Magyar Labdarúgó Szövetség Budapesti Pályafejlesztési Programjának megvalósításával kapcsolatos egyes feladatok ellátásáról szóló 478/2017. (XII. 28.) Korm. rendelet 1. § (2) bekezdésében az „az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 43. § (1) bekezdés c), d), f)–h), j)” szövegrész helyébe az „a magyar építészetről szóló 2023. évi C. törvény 66. § b)–d), g)–i)” szöveg lép.

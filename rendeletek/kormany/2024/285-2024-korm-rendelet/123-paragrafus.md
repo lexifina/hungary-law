@@ -1,0 +1,3 @@
+## 51. Az egyes központi hivatalok és költségvetési szervi formában működő minisztériumi háttérintézmények felülvizsgálatával összefüggő jogutódlásáról, valamint egyes közfeladatok átvételéről szóló 378/2016. (XII. 2.) Korm. rendelet módosítása
+
+123. § Az egyes központi hivatalok és költségvetési szervi formában működő minisztériumi háttérintézmények felülvizsgálatával összefüggő jogutódlásáról, valamint egyes közfeladatok átvételéről szóló 378/2016. (XII. 2.) Korm. rendelet 37/D. §-ában az „az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII.” szövegrész helyébe az „a magyar építészetről szóló” szöveg lép.

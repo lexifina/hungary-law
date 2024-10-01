@@ -1,0 +1,3 @@
+82. § A 313/2012. (XI. 8.) Korm. rendelet 7. §-a a következő (6) bekezdéssel egészül ki:
+
+„(6) Az ÉTDR-ben tárolt hatósági ügyiratból a fővárosi és vármegyei kormányhivatalok egységes iratkezelési szabályzatáról szóló miniszteri utasításban rögzített őrzési idő lejártát követően, a levéltárba adást megelőzően az építésügyi hatóság az építésügyi hatósági engedély és a hozzá tartozó építészeti-műszaki dokumentáció, az egyszerű bejelentés hiánytalan dokumentációjának, valamint a tudomásul vett egyszerű bejelentés építészeti-műszaki dokumentációjának az elektronikus másolatát az Üzemeltető közreműködésével átadja a Dokumentációs Központnak, amely gondoskodik azok megőrzéséről, kezeléséről és kutathatóvá tételéről.”

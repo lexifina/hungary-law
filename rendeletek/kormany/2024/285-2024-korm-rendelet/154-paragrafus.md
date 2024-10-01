@@ -1,0 +1,3 @@
+154. § A 419/2021. (VII. 15.) Korm. rendelet 16. §-a helyébe a következő rendelkezés lép:
+
+„16. § Új beépítésre szánt területen új lakóterület kijelölésére irányuló településterv készítése vagy módosítása során az új lakóterület kijelölésének szakmai megalapozottságát a tervező az alátámasztó javaslatban támasztja alá a 2. melléklet 1. és 2. pontja szerinti tartalommal, a szilárd burkolatú út, illetve a közműkapacitás – vagy a közműpótló műtárgyak – rendelkezésre állásának részletes bemutatásával, az óvodai, általános iskolai és egészségügyi alapellátás tekintetében külön, „a humán infrastruktúra ellátásának biztosítása” című fejezetben.”

@@ -1,0 +1,3 @@
+## 20. A vizek többletéből eredő kockázattal érintett területek meghatározásáról, a veszély- és kockázati térképek, valamint a kockázatkezelési tervek készítéséről, tartalmáról szóló 178/2010. (V. 13.) Korm. rendelet módosítása
+
+62. § A vizek többletéből eredő kockázattal érintett területek meghatározásáról, a veszély- és kockázati térképek, valamint a kockázatkezelési tervek készítéséről, tartalmáról szóló 178/2010. (V. 13.) Korm. rendelet 5. § (2) bekezdés b) pontjában az „az országos településrendezési és építési követelményekről” szövegrész helyébe az „a településrendezési és építési követelményekről” szöveg lép.

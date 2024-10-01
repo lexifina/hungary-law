@@ -1,0 +1,3 @@
+## 54. Az állami beruházások központi nyilvántartásáról és ellenőrzéséről, valamint az állami vagyonnal való gazdálkodásról szóló 254/2007. (X. 4.) Korm. rendelet módosításáról szóló 469/2016. (XII. 23.) Korm. rendelet módosítása
+
+133. § Hatályát veszti az állami beruházások központi nyilvántartásáról és ellenőrzéséről, valamint az állami vagyonnal való gazdálkodásról szóló 254/2007. (X. 4.) Korm. rendelet módosításáról szóló 469/2016. (XII. 23.) Korm. rendelet 2. § 3. pontjában a „ , valamint az építésügyi és az építésfelügyeleti hatóságok kijelöléséről és működési feltételeiről szóló 343/2006. (XII. 23.) Korm. rendelet 3/B. § (1a) bekezdésében” szövegrész.

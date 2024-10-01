@@ -1,0 +1,3 @@
+## 37. Az állami foglalkoztatási szerv, a munkavédelmi és munkaügyi hatóság kijelöléséről, valamint e szervek hatósági és más feladatainak ellátásáról szóló 320/2014. (XII. 13.) Korm. rendelet módosítása
+
+103. § Az állami foglalkoztatási szerv, a munkavédelmi és munkaügyi hatóság kijelöléséről, valamint e szervek hatósági és más feladatainak ellátásáról szóló 320/2014. (XII. 13.) Korm. rendelet 15. § (9) bekezdés a) pontjában az „az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény IV/B. Fejezetében” szövegrész helyébe az „a magyar építészetről szóló 2023. évi C. törvény 219–223. §-ában” szöveg lép.
