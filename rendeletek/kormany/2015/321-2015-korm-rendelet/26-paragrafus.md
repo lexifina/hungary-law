@@ -2,7 +2,7 @@
 
 26. § (1) A Kbt. 65. § (1) bekezdés c) pontjára vonatkozóan az ajánlatkérő előírhatja, hogy
 
-a)[^84] a gazdasági szereplő legyen bejegyezve a cégnyilvántartásba vagy az egyéni vállalkozók nyilvántartásába, vagy az építőipari kivitelezési tevékenységet végző gazdasági szereplő szerepeljen az épített környezet alakításáról és védelméről szóló törvény (a továbbiakban: Étv.) szerinti, építőipari kivitelezési tevékenységet végzők névjegyzékében, nem Magyarországon letelepedett gazdasági szereplő esetén legyen bejegyezve a 2014/24/EU európai parlamenti és tanácsi irányelv XI. melléklete szerinti hasonló nyilvántartásba, valamint teljesítse az említett mellékletben foglalt bármely egyéb követelményt, vagy
+a)[^84] a gazdasági szereplő legyen bejegyezve a cégnyilvántartásba vagy az egyéni vállalkozók nyilvántartásába, vagy az építőipari kivitelezési tevékenységet végző gazdasági szereplő szerepeljen a magyar építészetről szóló törvény szerinti, építőipari kivitelezési tevékenységet végzők névjegyzékében, nem Magyarországon letelepedett gazdasági szereplő esetén legyen bejegyezve a 2014/24/EU európai parlamenti és tanácsi irányelv XI. melléklete szerinti hasonló nyilvántartásba, valamint teljesítse az említett mellékletben foglalt bármely egyéb követelményt, vagy
 
 b) szolgáltatás megrendelésre irányuló közbeszerzési eljárás esetén rendelkezzen a szolgáltatás nyújtásához a letelepedése szerinti országban előírt engedéllyel, jogosítvánnyal vagy előírt szervezeti, kamarai tagsággal.
 
@@ -10,5 +10,5 @@ b) szolgáltatás megrendelésre irányuló közbeszerzési eljárás esetén re
 
 (3) Az (1) bekezdés b) pontja alapján előírt követelmény tekintetében az engedély vagy jogosítvány másolatát, illetve a szervezeti, kamarai tagságról szóló igazolást kell benyújtani.
 
-[^84]: A 26. § (1) bekezdés a) pontja a 115/2017. (V. 19.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^84]: A 26. § (1) bekezdés a) pontja a 115/2017. (V. 19.) Korm. rendelet 5. § (1) bekezdésével megállapított, a 285/2024. (IX. 30.) Korm. rendelet 111. §-a szerint módosított szöveg.
 [^85]: A 26. § (2) bekezdése a 115/2017. (V. 19.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
