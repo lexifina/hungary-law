@@ -20,7 +20,7 @@ jogosult a személyszállítási szolgáltatásban részt vevő utas (4) bekezd�
 
 a) a jogosult természetes személyazonosító adatai (családi és utónév, születési családi és utónév, születési hely és idő, anyja születési családi és utóneve), lakcíme, valamint személyazonosításra alkalmas hatósági igazolványának típusa és száma – ha 12. életévét betöltötte, akkor aláírása is –, vagy a jogosult részére elektronikusan kiállított, utazásra jogosító közlekedési kártya vagy közlekedési elektronikus azonosító esetén annak egyedi sorszáma és a jogosult arcképmása,
 
-b) az e törvényben meghatározottak szerinti, a közszolgáltatási utazási kedvezményekről szóló jogszabály alapján biztosított utazási kedvezmény esetén a kedvezmény jogcíme, a jogcímet megalapozó okmány azonosítója, típusa, érvényessége, kibocsátója, a jogosult adóazonosító jele és társadalombiztosítási azonosító jele,
+b) az e törvényben meghatározottak szerinti, a közszolgáltatási utazási kedvezményekről szóló jogszabály alapján biztosított utazási kedvezmény esetén a kedvezmény jogcíme, a jogcímet megalapozó okmány azonosítója, típusa, érvényessége, kibocsátója, a jogosult adóazonosító jele és társadalombiztosítási azonosító jele, továbbá a foglalkoztatásra irányuló jogviszony alapján igénybe vehető kedvezmények esetén a munkáltató azonosításhoz szükséges adatai,
 
 c) az utazási viszonylathoz kötött kedvezmény esetén az utazási viszonylat, meghatározott időponthoz vagy időszakhoz kötött érvényességű kedvezmény esetén az érvényesség időszaka vagy időpontja.
 
