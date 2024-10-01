@@ -2,7 +2,7 @@
 
 23. § (1) A valamely tagállamban jogszerűen letelepedett és ott szakmagyakorlási tevékenység végzésére jogosult szolgáltató (a továbbiakban: szolgáltató) Magyarország területén történő letelepedés nélkül, a Szolgtv. szerinti szabad szolgáltatásnyújtás keretében akkor folytathatja ugyanezt a szakmagyakorlási tevékenységet, ha az e rendeletben meghatározott szakmai feltételekkel rendelkezik.
 
-(2)[^6] A szolgáltató határon átnyúló szolgáltatás keretében történő szakmagyakorlási tevékenység folytatására irányuló szándékát köteles az adott szakmagyakorlási tevékenység tekintetében a Budapesti és Pest Vármegyei Mérnöki Kamarához bejelenteni. A bejelentést évente kell megtenni.
+(2)[^10] A szolgáltató határon átnyúló szolgáltatás keretében történő szakmagyakorlási tevékenység folytatására irányuló szándékát köteles az adott szakmagyakorlási tevékenység tekintetében a Budapesti és Pest Vármegyei Mérnöki Kamarához bejelenteni. A bejelentést évente kell megtenni.
 
 (3) A bejelentéshez magyar nyelvű fordításban mellékelni kell a szolgáltató
 
@@ -18,7 +18,7 @@ e) vonatkozásában igazolást arról, hogy a szakmagyakorlási tevékenység fo
 
 f) nyilatkozatát arról, hogy a nyilatkozat benyújtásakor átmenetileg sincsen eltiltva a szakmagyakorlási tevékenység gyakorlásától.
 
-(4)[^7] A Budapesti és Pest Vármegyei Mérnöki Kamara a szabad szolgáltatás jogával rendelkező szolgáltatókról elkülönített közhiteles nyilvántartást vezet. A Budapesti és Pest Vármegyei Mérnöki Kamara a névjegyzékből törli azt a személyt, aki a (2) bekezdés szerinti évenkénti nyilatkozattételi kötelezettségét nem teljesíti.
+(4)[^11] A Budapesti és Pest Vármegyei Mérnöki Kamara a szabad szolgáltatás jogával rendelkező szolgáltatókról elkülönített közhiteles nyilvántartást vezet. A Budapesti és Pest Vármegyei Mérnöki Kamara a névjegyzékből törli azt a személyt, aki a (2) bekezdés szerinti évenkénti nyilatkozattételi kötelezettségét nem teljesíti.
 
-[^6]: A 23. § (2) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 222. § a) pontja szerint módosított szöveg.
-[^7]: A 23. § (4) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 222. § b) pontja szerint módosított szöveg.
+[^10]: A 23. § (2) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 222. § a) pontja szerint módosított szöveg.
+[^11]: A 23. § (4) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 222. § b) pontja szerint módosított szöveg.

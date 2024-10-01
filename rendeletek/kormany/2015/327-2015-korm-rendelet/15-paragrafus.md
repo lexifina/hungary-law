@@ -22,10 +22,14 @@ c) a bejelentett tevékenység megjelölését, a szakmagyakorlási szakterület
 
 d) a bejelentés napját,
 
-e) a szakmagyakorlási tevékenységet bejelentő vállalkozásnak a tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló 1996. évi LVIII. törvény (a továbbiakban: Kamtv.) 43. § (3) bekezdésében meghatározott nyilvántartás szerinti nyilvántartási számát (a továbbiakban: vállalkozás nyilvántartási száma), valamint a (6) bekezdés szerinti névjegyzéki jelölését,
+e)[^4] a szakmagyakorlási tevékenységet bejelentő vállalkozásnak a magyar építészetről szóló 2023. évi C. törvény (a továbbiakban: Méptv.) 207. § (3) bekezdésében meghatározott nyilvántartás szerinti nyilvántartási számát (a továbbiakban: vállalkozás nyilvántartási száma), valamint a (6) bekezdés szerinti névjegyzéki jelölését,
 
 f) azt, hogy a szakmagyakorlási tevékenység végzésére a vállalkozás – a határon átnyúló szolgáltatásra vonatkozó bejelentés kivételével – határozatlan időre, vagy a bejelentésben meghatározott ideig jogosult.
 
-(6) A területi kamara a bejelentő vállalkozás számára a nyilvántartásba vétellel egyidejűleg névjegyzéki jelölést ad ki, amely tartalmazza a területi kamara kódját, a vállalkozásnak a Kamtv. 43. § (3) bekezdésében meghatározott nyilvántartás szerinti nyilvántartási számát, egyéni vállalkozó esetében a természetes személy minősítési számát, valamint a „C” betűjelet.
+(6)[^5] A területi kamara a bejelentő vállalkozás számára a nyilvántartásba vétellel egyidejűleg névjegyzéki jelölést ad ki, amely tartalmazza a területi kamara kódját, a vállalkozásnak a Méptv. 207. § (3) bekezdésében meghatározott nyilvántartás szerinti nyilvántartási számát, egyéni vállalkozó esetében a természetes személy minősítési számát, valamint a „C” betűjelet.
 
-(7) A vállalkozásra vonatkozó bejelentés alapján a területi kamara a Kamtv. 43. § (3) bekezdésében meghatározott adattartalmú névjegyzéket vezet.
+(7)[^6] A vállalkozásra vonatkozó bejelentés alapján a területi kamara a Méptv. 207. § (3) bekezdésében meghatározott adattartalmú névjegyzéket vezet.
+
+[^4]: A 15. § (5) bekezdés e) pontja a 285/2024. (IX. 30.) Korm. rendelet 113. § a) pontja szerint módosított szöveg.
+[^5]: A 15. § (6) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 113. § b) pontja szerint módosított szöveg.
+[^6]: A 15. § (7) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 113. § b) pontja szerint módosított szöveg.
