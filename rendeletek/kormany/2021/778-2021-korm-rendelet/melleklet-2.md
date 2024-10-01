@@ -230,7 +230,7 @@ A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentős�
 
 27. területrendezési hatósági eljárások,
 
-28. veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások,
+28.[^7] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
 
 29. azok az 1–28. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, amelyek a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
@@ -238,3 +238,4 @@ A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentős�
 
 [^5]: Az 1. mellékletben foglalt táblázat 54. sora a 163/2024. (VI. 28.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^6]: Az 1. mellékletben foglalt táblázat 82. sora a 163/2024. (VI. 28.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^7]: A 2. melléklet 28. pontja a 257/2024. (VIII. 29.) Korm. rendelet 344. §-a szerint módosított szöveg.
