@@ -754,7 +754,7 @@ g) a működési területével érintett nemzeti park igazgatóság.
 
 5.2.1.[^4] A kezelési tervben foglaltak végrehajtását támogató, a területen érintett országos szervek, vármegyei szervezetek és intézmények, illetve a helyi érdekeltek közötti kommunikáció, érdekegyeztetés és konszenzusteremtés lehetőségét az UNESCO Magyar Nemzeti Bizottságáról szóló 17/2012. (II. 16.) Korm. rendelet 11. § (1) bekezdés g) pontja szerinti szakbizottság biztosítja.
 
-5.2.2. A Pannonhalmi Bencés Főapátság műemléki környezetének bővítéséről szóló 3/1995. (IV. 13.) KTM–MKM együttes rendeletben meghatározott területen belül történő beavatkozások minőségi kontrollja érdekében világörökségi tervtanács működtetése szükséges a településrendezési és az építészeti-műszaki tervtanácsokról szóló 252/2006. (XII. 7.) Korm. rendelet 10. § (1) bekezdésével összhangban.
+5.2.2. A Pannonhalmi Bencés Főapátság műemléki környezetének bővítéséről szóló 3/1995. (IV. 13.) KTM–MKM együttes rendeletben meghatározott területen belül történő beavatkozások minőségi kontrollja érdekében világörökségi tervtanács működtetése szükséges a magyar építészetről szóló 2023. évi C. törvény 62. §-ával összhangban.
 
 5.2.3. A konfliktusok megelőzésének elsődleges feladata az ismeretterjesztés, a folyamatos kétirányú párbeszéd az ingatlantulajdonosok és a védettségért felelős hatóságok között.
 
@@ -826,7 +826,7 @@ c) a vízháztartással, szélsőséges terheléssel kapcsolatos változások k�
 
 7.5. A világörökségi gondnokságnak a világörökségi helyszín területére a haváriák kezelését szolgáló intézkedési tervet kell kidolgoznia.
 
-[^1]: A 2. melléklet a 360/2019. (XII. 30.) Korm. rendelet 192. §-a, a 420/2021. (VII. 15.) Korm. rendelet 94. §-a, a 616/2022. (XII. 29.) Korm. rendelet 283. § a) pontja szerint módosított szöveg
+[^1]: A 2. melléklet a 360/2019. (XII. 30.) Korm. rendelet 192. §-a, a 420/2021. (VII. 15.) Korm. rendelet 94. §-a, a 616/2022. (XII. 29.) Korm. rendelet 283. § a) pontja, a 284/2024. (IX. 30.) Korm. rendelet 4. §-a szerint módosított szöveg.
 [^2]: A 2. melléklet 4.1.4.3. pont c) alpontja a 616/2022. (XII. 29.) Korm. rendelet 283. § b) pontja szerint módosított szöveg.
 [^3]: A 2. melléklet 5.1.1. pont f) alpontja a 616/2022. (XII. 29.) Korm. rendelet 283. § b) pontja szerint módosított szöveg.
 [^4]: A 2. melléklet 5.2.1. pontja a 616/2022. (XII. 29.) Korm. rendelet 283. § b) pontja szerint módosított szöveg.
