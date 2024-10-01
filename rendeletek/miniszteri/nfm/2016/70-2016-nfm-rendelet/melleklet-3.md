@@ -2,4 +2,4 @@
 
 Egyetemes szolgáltatói árrés mértéke
 
-[^25]: A 3. melléklet a 19/2023. (IX. 29.) EM rendelet 6. § a) pontjával megállapított szöveg.
+[^25]: A 3. melléklet a 17/2024. (IX. 30.) EM rendelet 2. § (1) bekezdésével megállapított szöveg.
