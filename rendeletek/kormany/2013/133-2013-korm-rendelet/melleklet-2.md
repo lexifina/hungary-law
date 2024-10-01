@@ -8,7 +8,7 @@
 
 | 4. | természetvédelmi hatósági engedélyezési eljárás | Bács-Kiskun Vármegyei Kormányhivatal |
 
-| 5. | vízjogi engedélyezési eljárás | illetékes vármegyei katasztrófavédelmi igazgatóság |
+| 5. | vízjogi engedélyezési eljárás | illetékes, vízügyi és vízvédelmi hatáskörben eljáró vármegyei kormányhivatal |
 
 | 6. | útügyi hatósági engedélyezési eljárás | Bács-Kiskun Vármegyei Kormányhivatal |
 
@@ -26,13 +26,13 @@
 
 | 13. | bányahatósági engedélyezési eljárás | Jász-Nagykun-Szolnok Vármegyei Kormányhivatal |
 
-| 14. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi engedélyezési eljárások | illetékes katasztrófavédelmi igazgatóság |
+| 14. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi engedélyezési eljárások | illetékes fővárosi és vármegyei kormányhivatal |
 
-| 15. | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | illetékes katasztrófavédelmi igazgatóság |
+| 15. | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | illetékes fővárosi és vármegyei kormányhivatal |
 
-| 16. | tűzvédelmi használati előírások és a tűzoltóságok beavatkozásával kapcsolatos követelmények alóli eltérési engedélyezési eljárások | illetékes katasztrófavédelmi igazgatóság |
+| 16. | tűzvédelmi használati előírások és a tűzoltóságok beavatkozásával kapcsolatos követelmények alóli eltérési engedélyezési eljárások | illetékes fővárosi és vármegyei kormányhivatal |
 
-| 17. | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 17. | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Budapest Főváros Kormányhivatala |
 
 2. melléklet a 133/2013. (V. 9.) Korm. rendelethez[^13]
 
