@@ -762,7 +762,7 @@
 
 A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
-1.[^38] építésügyi és építésfelügyeleti hatósági eljárások,
+1.[^39] építésügyi és építésfelügyeleti hatósági eljárások,
 
 2. örökségvédelmi hatósági engedélyezési és tudomásulvételi eljárások,
 
@@ -810,10 +810,11 @@ A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból 
 
 24. földvédelmi hatósági eljárások,
 
-25. veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások,
+25.[^40] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
 
 26. azok az 1–25. pontban nem szereplő hatósági engedélyezési eljárások, amelyek a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
 27. az 1–26. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^38]: A 2. melléklet 1. pontja a 142/2018. (VII. 30.) Korm. rendelet 6. § (2) bekezdése szerint módosított szöveg.
+[^39]: A 2. melléklet 1. pontja a 142/2018. (VII. 30.) Korm. rendelet 6. § (2) bekezdése szerint módosított szöveg.
+[^40]: A 2. melléklet 25. pontja a 257/2024. (VIII. 29.) Korm. rendelet 283. §-a szerint módosított szöveg.

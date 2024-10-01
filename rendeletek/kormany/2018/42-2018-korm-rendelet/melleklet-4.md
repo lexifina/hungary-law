@@ -136,7 +136,7 @@
 
 | 38 | 651691.64 | 236032.54 | 38086/78 |
 
-4. melléklet a 42/2018. (III. 13.) Korm. rendelethez[^40]
+4. melléklet a 42/2018. (III. 13.) Korm. rendelethez[^42]
 
 Az építési tevékenység alatti ingyenes közterület-használatot érintő ingatlanok
 
@@ -264,4 +264,4 @@ Az építési tevékenység alatti ingyenes közterület-használatot érintő i
 
 | 62 | 209993 |
 
-[^40]: A 4. mellékletet a 729/2020. (XII. 31.) Korm. rendelet 4. §-a iktatta be, szövege az 554/2022. (XII. 22.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^42]: A 4. mellékletet a 729/2020. (XII. 31.) Korm. rendelet 4. §-a iktatta be, szövege az 554/2022. (XII. 22.) Korm. rendelet 3. §-a szerint módosított szöveg.
