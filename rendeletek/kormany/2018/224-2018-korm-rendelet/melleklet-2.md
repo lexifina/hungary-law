@@ -54,7 +54,7 @@ A Beruházások megvalósításával összefüggő, nemzetgazdasági szempontbó
 
 7. tűzvédelmi hatósági eljárások,
 
-8. veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi hatósági eljárások,
+8.[^9] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági hatósági eljárások,
 
 9. útügyi hatósági eljárások,
 
@@ -81,3 +81,5 @@ A Beruházások megvalósításával összefüggő, nemzetgazdasági szempontbó
 20. azok az 1–19. pontban nem szereplő hatósági engedélyezési eljárások, amelyek a Beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
 21. az 1–20. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^9]: A 2. melléklet 8. pontja a 257/2024. (VIII. 29.) Korm. rendelet 298. §-a szerint módosított szöveg.
