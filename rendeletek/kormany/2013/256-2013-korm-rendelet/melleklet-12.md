@@ -1,3 +1,3 @@
-12. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^143]
+12. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^144]
 
-[^143]: A 12. mellékletet a 399/2017. (XII. 14.) Korm. rendelet 2. § (2) bekezdése iktatta be, hatályon kívül helyezte a 70/2021. (II. 19.) Korm. rendelet 11. § (2) bekezdése.
+[^144]: A 12. mellékletet a 399/2017. (XII. 14.) Korm. rendelet 2. § (2) bekezdése iktatta be, hatályon kívül helyezte a 70/2021. (II. 19.) Korm. rendelet 11. § (2) bekezdése.

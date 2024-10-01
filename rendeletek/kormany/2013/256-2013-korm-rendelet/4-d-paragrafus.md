@@ -1,3 +1,3 @@
-4/D. §[^57]
+4/D. §[^58]
 
-[^57]: A 4/D. §-t a 139/2019. (VI. 14.) Korm. rendelet 5. §-a iktatta be, a 757/2021. (XII. 22.) Korm. rendelet 14. § a) pontja hatályon kívül helyezte.
+[^58]: A 4/D. §-t a 139/2019. (VI. 14.) Korm. rendelet 5. §-a iktatta be, a 757/2021. (XII. 22.) Korm. rendelet 14. § a) pontja hatályon kívül helyezte.

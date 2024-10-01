@@ -18,7 +18,7 @@ c) vérellátás.
 
 (3) Az egészségügyi ágazati előmeneteli szabályokat kell alkalmazni arra az egészségügyi szakképesítéssel rendelkező egészségügyi tevékenységet végző oktatóra, akit nem kizárólag oktatási, kutatási szakfeladaton, oktatási, kutatási tevékenység végzésére irányuló, a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény felsőoktatásban való végrehajtásáról és a felsőoktatási intézményekben történő foglalkoztatás egyes kérdéseiről szóló kormányrendelet hatálya alá tartozó munkakörben foglalkoztatnak.
 
-(4)[^7] Az 1. § (1) és (3) bekezdése alkalmazásában a Magyar Honvédség hivatásos és szerződéses állományába tartozók esetében a munkaköröket a honvédek jogállásáról szóló 2012. évi CCV. törvény (a továbbiakban: Hjt.) egyes rendelkezéseinek végrehajtásáról szóló miniszteri rendeletben foglaltak szerint, az egészségügyi fegyvernemi (szakági) azonosítóval kell meghatározni.
+(4)[^7] Az 1. § (1) és (3) bekezdése alkalmazásában a Magyar Honvédség hivatásos és szerződéses állományába tartozók esetében a munkaköröket a honvédek jogállásáról szóló jogszabályban foglaltak szerint, az egészségügyi fegyvernemi (szakági) azonosítóval kell meghatározni.
 
 (5) Az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó egészségügyi szolgáltatók jegyzékét a 2. melléklet tartalmazza.
 
@@ -30,6 +30,6 @@ c) vérellátás.
 [^4]: A 2. § (1b) bekezdését a 139/2019. (VI. 14.) Korm. rendelet 2. § (1) bekezdése iktatta be.
 [^5]: A 2. § (1c) bekezdését az 529/2020. (XI. 28.) Korm. rendelet 7. §-a iktatta be, szövege a 48/2021. (II. 5.) Korm. rendelet 1. §-ával megállapított, az 5. §-a szerint módosított szöveg.
 [^6]: A 2. § (2) bekezdése a 40/2014. (II. 24.) Korm. rendelet 17. § a) és b) pontja szerint módosított szöveg.
-[^7]: A 2. § (4) bekezdése a 238/2016. (VIII. 16.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^7]: A 2. § (4) bekezdése a 238/2016. (VIII. 16.) Korm. rendelet 6. § a) pontja, a 288/2024. (IX. 30.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^8]: A 2. § (5a) bekezdését a 139/2019. (VI. 14.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege az 529/2020. (XI. 28.) Korm. rendelet 11. §-a szerint módosított szöveg.
 [^9]: A 2. § (6) bekezdését a 162/2015. (VI. 30.) Korm. rendelet 49. § (2) bekezdése iktatta be, hatályon kívül helyezte az 529/2020. (XI. 28.) Korm. rendelet 17. § a) pontja.
