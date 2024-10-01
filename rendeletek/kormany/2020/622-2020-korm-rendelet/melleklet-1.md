@@ -1,8 +1,6 @@
-## 7. §[^1]
-
 1. melléklet a 622/2020. (XII. 21.) Korm. rendelethez
 
-## A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. építésügyi hatósági engedélyezési és bejelentési eljárások,
 
@@ -40,7 +38,7 @@
 
 18. erdészeti hatósági eljárások,
 
-19. veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások,
+19.[^2] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
 
 20. földvédelmi hatósági eljárások,
 
@@ -48,4 +46,4 @@
 
 22. az 1–21. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^1]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. melléklet 19. pontja a 257/2024. (VIII. 29.) Korm. rendelet 324. §-a szerint módosított szöveg.
