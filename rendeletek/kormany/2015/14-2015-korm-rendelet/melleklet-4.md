@@ -1,4 +1,4 @@
-4. melléklet a 14/2015. (II. 10.) Korm. rendelethez[^156]
+4. melléklet a 14/2015. (II. 10.) Korm. rendelethez[^157]
 
 1. HR és MR szektor klímagázt tartalmazó alkalmazást szerelő, karbantartó, szervizelő és szivárgásvizsgáló, valamint klímagázkezelést végző természetes személy képesítési igazolásainak jele, megnevezése és az 517/2014/EU európai parlamenti és tanácsi rendeletnek való megfelelése:
 
@@ -30,15 +30,15 @@
 
 | 11. | T-I. | „4” | 11.1. Tűzvédelmi készülékben és berendezésben: 11.1.1. szivárgás-ellenőrzés a 3 kg vagy annál nagyobb töltősúlyú fluortartalmú üvegházhatású gázt tartalmazó eszközökben, 11.1.2. visszanyerés, 11.1.3. üzembe helyezés, 11.1.4. karbantartás vagy javítás. 11.2. ORLA-t tartalmazó tűzvédelmi készülék és berendezések tekintetében: 11.2.1. szivárgásvizsgálat, 11.2.2. ártalmatlanítás, újrahasznosítás vagy regenerálás céljából történő visszanyerés, 11.2.3. karbantartás vagy javítás. 11.3. Klímagáz kezelése. | T. |
 
-„1” A Bizottság 2015/2067 végrehajtási rendelete szerinti tevékenységi kategóriák (I–IV.),
+## „1” A Bizottság 2015/2067 végrehajtási rendelete szerinti tevékenységi kategóriák (I–IV.),
 
-„2” a 307/2008/EK bizottsági rendeletnek való megfelelés,
+## „2” a 307/2008/EK bizottsági rendeletnek való megfelelés,
 
-„3” a Bizottság 2015/2066 végrehajtási rendeletnek való megfelelés,
+## „3” a Bizottság 2015/2066 végrehajtási rendeletnek való megfelelés,
 
-„4” a 304/2008/EK bizottsági rendeletnek való megfelelés,
+## „4” a 304/2008/EK bizottsági rendeletnek való megfelelés,
 
-„5” a 2017. január 1. előtt szerzett képesítések esetén a 27. § (8) bekezdés szerint.
+## „5” a 2017. január 1. előtt szerzett képesítések esetén a 27. § (8) bekezdés szerint.
 
 2. HR és MR szektor klímagázt tartalmazó alkalmazást szerelő, karbantartó, szervizelő és szivárgásvizsgáló, valamint hűtőközeget és előretöltött készüléket kezelő vállalkozás képesítési igazolásainak jele, megnevezése:
 
@@ -70,9 +70,9 @@
 
 | 11. | T. | 11.1. F-ÜHG vásárlása, értékesítése, regenerálásra, ártalmatlanításra átvétele és leadása. 11.2. Előtöltött készülék vásárlása és értékesítése. 11.3. ORLA ártalmatlanításra átvétele és leadása. 11.4. Klímagáz kezelése. 11.4.1. Visszanyert F-ÜHG vásárlása, értékesítése, szállítása, gyűjtése és kezelése. 11.5. Tűzvédelmi készülékben és berendezésben: 11.5.1. szivárgás-ellenőrzés a 3 kg vagy annál nagyobb töltősúlyú fluortartalmú üvegházhatású gázt tartalmazó eszközökben, 11.5.2. visszanyerés 11.5.3. üzembe helyezés, 11.5.4. karbantartás vagy javítás. 11.6. ORLA-t tartalmazó tűzvédelmi készülék és berendezés tekintetében: 11.6.1. szivárgásvizsgálat, 11.6.2. ártalmatlanítás, újrahasznosítás vagy regenerálás céljából történő visszanyerés, 11.6.3. karbantartás vagy javítás. | T-I. |
 
-„7” A 2002/96/EK Irányelv szerint működő ártalmatlanító szervezetekre vonatkozó követelményeinek való megfelelés,
+## „7” A 2002/96/EK Irányelv szerint működő ártalmatlanító szervezetekre vonatkozó követelményeinek való megfelelés,
 
-„6” a 27. § (8) bekezdés figyelembevételével.
+## „6” a 27. § (8) bekezdés figyelembevételével.
 
 3. Regisztrált vállalkozások tevékenységi kategóriája:
 
@@ -100,4 +100,4 @@
 
 | 11. | Gyűjtő | Visszanyert F-ÜHG átfejtése vagy lefejtése nélkül regenerálás vagy ártalmatlanítás céljából történő, kizárólag országon belüli kereskedelme, vásárlása, értékesítése, gyűjtése, szállítása. |
 
-[^156]: A 4. mellékletet a 20/2015. (II. 17.) Korm. rendelet 32. § b) pontja iktatta be, szövege a 285/2017. (IX. 22.) Korm. rendelet 16. § (3) bekezdésével megállapított, a 24/2019. (II. 27.) Korm. rendelet 23. § 21. pontja, a 266/2022. (VII. 27.) Korm. rendelet 2–3. §-a szerint módosított szöveg.
+[^157]: A 4. mellékletet a 20/2015. (II. 17.) Korm. rendelet 32. § b) pontja iktatta be, szövege a 285/2017. (IX. 22.) Korm. rendelet 16. § (3) bekezdésével megállapított, a 24/2019. (II. 27.) Korm. rendelet 23. § 21. pontja, a 266/2022. (VII. 27.) Korm. rendelet 2–3. §-a szerint módosított szöveg.

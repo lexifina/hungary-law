@@ -1,6 +1,6 @@
-## 7. [^69] F-ÜHG-t tartalmazó, valamint F-ÜHG-val működtetett alkalmazások címkézéséről, valamint magyarországi forgalomba hozataláról, forgalmazásáról
+## 7. [^68] F-ÜHG-t tartalmazó, valamint F-ÜHG-val működtetett alkalmazások címkézéséről, valamint magyarországi forgalomba hozataláról, forgalmazásáról
 
-7. §[^70] (1) A kötelezett
+7. §[^69] (1) A kötelezett
 
 a) a (2) bekezdés alapján az F-ÜHG-t tartalmazó, valamint azzal működtetett alkalmazásokat az 517/2014/EU európai parlamenti és tanácsi rendelet 12. cikke, valamint a 2015/2068/EU bizottsági végrehajtási rendelet szerinti forgalomba-hozatali címkével;
 
@@ -8,7 +8,7 @@ b) a (3) és (4) bekezdés alapján az 5. § (2a) bekezdése szerint regisztrác
 
 c) az (5) bekezdés alapján az F-ÜHG közeget tartalmazó tartályt a tartály tartalmának megjelölésére szolgáló címkével
 
-## látja el.
+látja el.
 
 (2) Az Európai Unió területén első alkalommal Magyarország területére importált vagy ott forgalomba hozott, az 517/2014/EU európai parlamenti és tanácsi rendelet 12. cikk (1) és (2) bekezdésében rögzített F-ÜHG-t tartalmazó, valamint ilyen gázokkal működő alkalmazásokat a gyártó vagy importőr a forgalomba helyezés előtt a 12. cikk (3) és (4) bekezdésében és a Bizottság (EU) 2015/2068 végrehajtási rendeletében meghatározott adattartalommal rendelkező forgalomba-hozatali címkével látja el.
 
@@ -38,5 +38,5 @@ f) azt, hogy a klímagázt tartalmazó alkalmazás hermetikusan zárt-e,
 
 g) elektromos kapcsolóberendezés esetén arra vonatkozó adatot, hogy az igazolt szivárgás mértéke a gyártó műszaki leírásában foglaltak szerint évente kevesebb-e, mint 0,1%, továbbá, hogy az elektromos kapcsolóberendezés a nyomást vagy sűrűséget ellenőrző eszközzel van-e felszerelve.
 
-[^69]: A 7. alcím címe a 112/2016. (V. 27.) Korm. rendelet 6. §-ával megállapított, a 24/2019. (II. 27.) Korm. rendelet 23. § 11. pontja szerint módosított szöveg.
-[^70]: A 7. § a 24/2019. (II. 27.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^68]: A 7. alcím címe a 112/2016. (V. 27.) Korm. rendelet 6. §-ával megállapított, a 24/2019. (II. 27.) Korm. rendelet 23. § 11. pontja szerint módosított szöveg.
+[^69]: A 7. § a 24/2019. (II. 27.) Korm. rendelet 11. §-ával megállapított szöveg.

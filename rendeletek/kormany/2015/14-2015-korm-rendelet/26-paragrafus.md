@@ -1,5 +1,3 @@
-## 25. §
-
 ## 19. F-ÜHG-val kapcsolatos tevékenységek
 
 26. §[^112] (1)[^113] Természetes személy az alábbi, F-ÜHG-t tartalmazó és azzal üzemelő alkalmazások esetében kizárólag az 517/2014/EU európai parlamenti és tanácsi rendelet 10. cikk (4) és (7) bekezdése szerinti, valamint a 4. melléklet szerinti képesítéssel, az adatbázisban való regisztrációt követően, a 4. melléklet szerinti képesítésének megfelelő kategóriájú képesített vállalkozás alkalmazottjaként végezheti az alábbi feladatokat:

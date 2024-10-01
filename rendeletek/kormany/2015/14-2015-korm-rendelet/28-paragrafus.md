@@ -1,6 +1,6 @@
 ## 21. ORLA-t tartalmazó alkalmazásokra vonatkozó egyéb rendelkezések
 
-28. §[^121] (1) Az ORLA-ra, ORLA-t tartalmazó vagy azzal működő alkalmazásokra, ezen alkalmazások üzemeltetőire, valamint az ORLA-val kapcsolatos tevékenységet végző képesített vállalkozásokra az 1005/2009/EK parlamenti és tanácsi rendeletben meghatározott rendelkezéseket az e rendeletben meghatározottakkal együtt kell alkalmazni azzal, hogy az ORLA-k esetében az Éghajlat-változási Kormányközi Testület által elfogadott, negyedik értékelő jelentésben szereplő globális felmelegedési potenciál értékeket kell figyelembe venni.
+28. §[^122] (1) Az ORLA-ra, ORLA-t tartalmazó vagy azzal működő alkalmazásokra, ezen alkalmazások üzemeltetőire, valamint az ORLA-val kapcsolatos tevékenységet végző képesített vállalkozásokra az 1005/2009/EK parlamenti és tanácsi rendeletben meghatározott rendelkezéseket az e rendeletben meghatározottakkal együtt kell alkalmazni azzal, hogy az ORLA-k esetében az Éghajlat-változási Kormányközi Testület által elfogadott, negyedik értékelő jelentésben szereplő globális felmelegedési potenciál értékeket kell figyelembe venni.
 
 (2) ORLA, ORLA-t tartalmazó, valamint ilyen gázokkal működtetett alkalmazások – az 1005/2009/EK parlamenti és tanácsi rendeletben meghatározott kivételekkel – nem hozhatók kereskedelmi forgalomba.
 
@@ -22,4 +22,4 @@
 
 (11) Az 1005/2009/EK parlamenti és tanácsi rendeletben meghatározott, az ORLA gyártói és importőrei számára az Európai Bizottság által kiadott engedélyt a gyártó és az importőr a szállítást megelőző nyolc napon belül az illetékes vámszervnek és a Hatóságnak megküldi, és tájékoztatja a szállítás időpontjáról.
 
-[^121]: A 28. § a 24/2019. (II. 27.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^122]: A 28. § a 24/2019. (II. 27.) Korm. rendelet 21. §-ával megállapított szöveg.

@@ -1,3 +1,3 @@
-## 9/A–9/B. §[^73]
+10. §[^74]
 
-[^73]: A 9/A–9/B. §-t a 389/2015. (XII. 8.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 285/2017. (IX. 22.) Korm. rendelet 18. § c) pontja.
+[^74]: A 10. §-t a 112/2016. (V. 27.) Korm. rendelet 30. § 5. pontja hatályon kívül helyezte.

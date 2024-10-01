@@ -62,6 +62,8 @@ a) az F-ÜHG esetében az 517/2014/EU európai parlamenti és tanácsi rendelet 
 
 b)[^21] az ORLA esetében az 1005/2009/EK parlamenti és tanácsi rendelet 3. cikkében
 
+meghatározottak az irányadóak.
+
 [^1]: A 2. § (1) bekezdés 1. pontja a 285/2017. (IX. 22.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
 [^2]: A 2. § (1) bekezdés 2. pontját a 112/2016. (V. 27.) Korm. rendelet 30. § 1. pontja hatályon kívül helyezte.
 [^3]: A 2. § (1) bekezdés 3. pontja a 285/2017. (IX. 22.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.

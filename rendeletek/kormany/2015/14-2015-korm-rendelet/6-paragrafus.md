@@ -10,9 +10,9 @@ c) az Országos Környezetvédelmi Információs Rendszer részére
 
 átadhatóak.
 
-(2)[^67]
+(2)[^66]
 
-(3)[^68] Az ügyfél vagy képviselője a rá vonatkozó nyilvántartásba betekinthet, az iratokról másolatot, valamint a nyilvántartott adatairól felvilágosítást kérhet.
+(3)[^67] Az ügyfél vagy képviselője a rá vonatkozó nyilvántartásba betekinthet, az iratokról másolatot, valamint a nyilvántartott adatairól felvilágosítást kérhet.
 
-[^67]: A 6. § (2) bekezdését az 55/2015. (III. 17.) Korm. rendelet 4. §-a hatályon kívül helyezte.
-[^68]: A 6. § (3) bekezdése a 112/2016. (V. 27.) Korm. rendelet 30. § 3. pontja szerint módosított szöveg.
+[^66]: A 6. § (2) bekezdését az 55/2015. (III. 17.) Korm. rendelet 4. §-a hatályon kívül helyezte.
+[^67]: A 6. § (3) bekezdése a 112/2016. (V. 27.) Korm. rendelet 30. § 3. pontja szerint módosított szöveg.
