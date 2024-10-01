@@ -25,3 +25,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-173-20-
 | 2020-02-15 | 2003-173-20-22.26 | 13/2020. (II. 7.) Korm. rendelet |
 | 2022-07-01 | 2003-173-20-22.27 | 12/2005. (I. 26.) Korm. rendelet |
 | 2024-02-17 | 2003-173-20-22.28 | 5/2024. (I. 18.) Korm. rendelet |
+| 2024-10-01 | 2003-173-20-22.29 | 285/2024. (IX. 30.) Korm. rendelet |

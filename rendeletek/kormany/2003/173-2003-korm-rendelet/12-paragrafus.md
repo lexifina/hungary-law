@@ -16,7 +16,7 @@ e) a biztonsági előírások betartására,
 
 f) a szálláshelyen és közvetlen környezetében tilalmazott tevékenységekre,
 
-g)[^36] a kártérítésre és sérelemdíjra, továbbá
+g)[^38] a kártérítésre és sérelemdíjra, továbbá
 
 h) a menekülésre,
 
@@ -28,4 +28,4 @@ j) a vendégekért felelős személy és a rendkívüli esemény elhárításár
 
 (3) A házirendet a szerződés mellékleteként vagy kifüggesztés útján kell a vendégek tudomására hozni.
 
-[^36]: A 12. § (2) bekezdés g) pontja a 69/2014. (III. 13.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^38]: A 12. § (2) bekezdés g) pontja a 69/2014. (III. 13.) Korm. rendelet 9. §-a szerint módosított szöveg.
