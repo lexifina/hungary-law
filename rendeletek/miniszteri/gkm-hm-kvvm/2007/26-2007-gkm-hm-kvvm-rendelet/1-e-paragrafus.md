@@ -1,0 +1,3 @@
+1/E. §[^13] Ha a korlátozott légtér kijelölésére irányuló javaslat indoka a katasztrófavédelemről szóló törvény szerinti veszélyes anyagokkal foglalkozó vagy veszélyes tevékenységet végző létesítmény vagy üzem iparbiztonsági szempontú védelme, az NLKM kikéri a közigazgatás-szervezésért felelős miniszter mint az iparbiztonsági hatóság irányítója véleményét a korlátozás szükségessége tekintetében. Az NLKM a döntési javaslat előkészítése során a közigazgatás-szervezésért felelős miniszter véleményét figyelembe veszi.
+
+[^13]: Az 1/E. §-t a 25/2017. (VI. 30.) NFM rendelet 3. §-a iktatta be, szövege a 34/2024. (IX. 19.) ÉKM rendelet 1. §-ával megállapított szöveg.
