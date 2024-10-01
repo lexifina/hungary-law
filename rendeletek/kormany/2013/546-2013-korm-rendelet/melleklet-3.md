@@ -8,7 +8,7 @@
 
 | 4. | útügyi hatósági eljárások | Budapest Főváros Kormányhivatala |
 
-| 5. | vízügyi és vízvédelmi hatósági eljárások | Fővárosi Katasztrófavédelmi Igazgatóság |
+| 5.[^45] | vízügyi és vízvédelmi hatósági eljárások | Pest Vármegyei Kormányhivatal |
 
 | 6. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala |
 
@@ -16,17 +16,17 @@
 
 | 8. | telekalakításra irányuló, földmérési, ingatlan-nyilvántartással összefüggő hatósági eljárások | Budapest Főváros Kormányhivatala |
 
-| 9. | talajvédelmi hatósági eljárások | Pest Vármegyei Kormányhivatal[^45] |
+| 9. | talajvédelmi hatósági eljárások | Pest Vármegyei Kormányhivatal[^46] |
 
-| 10. | tűzvédelmi hatósági eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 10.[^47] | tűzvédelmi hatósági eljárások | illetékes fővárosi és vármegyei kormányhivatal |
 
-| 11. | bányahatósági engedélyezési eljárások | Pest Vármegyei Kormányhivatal[^46] |
+| 11. | bányahatósági engedélyezési eljárások | Pest Vármegyei Kormányhivatal[^48] |
 
 | 12. | fás szárú növények kivágásához szükséges engedélyezési eljárások | Budapest Főváros Kormányhivatala |
 
 | 13. | üzletek, kávézók, éttermek és kereskedelmi egységek működési engedélyezésére irányuló eljárások | Budapest Főváros Kormányhivatala |
 
-3. melléklet az 546/2013. (XII. 30.) Korm. rendelethez[^47]
+3. melléklet az 546/2013. (XII. 30.) Korm. rendelethez[^49]
 
 |  | A | B | C | D |
 
@@ -177,6 +177,8 @@
 | 73. | I12-IH-4 | 652777.9 | 241239.9 |
 
 [^44]: A 2. mellékletben foglalt táblázat D:3 mezője az 546/2022. (XII. 22.) Korm. rendelet 47. § c) pontja szerint módosított szöveg.
-[^45]: A 2. mellékletben foglalt táblázat D:9 mezője az 546/2022. (XII. 22.) Korm. rendelet 47. § c) pontja szerint módosított szöveg.
-[^46]: A 2. mellékletben foglalt táblázat D:11 mezője az 546/2022. (XII. 22.) Korm. rendelet 47. § c) pontja szerint módosított szöveg.
-[^47]: A 3. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 121. § h) pontja hatályon kívül helyezte, újonnan a 442/2020. (IX. 29.) Korm. rendelet 5. §-a iktatta be.
+[^45]: A 2. mellékletben foglalt táblázat 5. sora a 257/2024. (VIII. 29.) Korm. rendelet 112. §-ával megállapított szöveg.
+[^46]: A 2. mellékletben foglalt táblázat D:9 mezője az 546/2022. (XII. 22.) Korm. rendelet 47. § c) pontja szerint módosított szöveg.
+[^47]: A 2. mellékletben foglalt táblázat 10. sora a 257/2024. (VIII. 29.) Korm. rendelet 112. §-ával megállapított szöveg.
+[^48]: A 2. mellékletben foglalt táblázat D:11 mezője az 546/2022. (XII. 22.) Korm. rendelet 47. § c) pontja szerint módosított szöveg.
+[^49]: A 3. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 121. § h) pontja hatályon kívül helyezte, újonnan a 442/2020. (IX. 29.) Korm. rendelet 5. §-a iktatta be.
