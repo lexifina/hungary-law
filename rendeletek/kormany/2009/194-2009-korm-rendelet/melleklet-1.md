@@ -1,6 +1,6 @@
-## 24. §[^32] E rendeletnek az építésüggyel összefüggő egyes kormányrendeletek módosításáról szóló 322/2012. (XI. 16.) Korm. rendelettel megállapított rendelkezéseit a 2013. január 1-jét követően indult eljárásokban kell alkalmazni.
+## 24. §[^33] E rendeletnek az építésüggyel összefüggő egyes kormányrendeletek módosításáról szóló 322/2012. (XI. 16.) Korm. rendelettel megállapított rendelkezéseit a 2013. január 1-jét követően indult eljárásokban kell alkalmazni.
 
-1. melléklet a 194/2009. (IX. 15.) Korm. rendelethez[^33]
+1. melléklet a 194/2009. (IX. 15.) Korm. rendelethez[^34]
 
-[^32]: A 24. §-t a 322/2012. (XI. 16.) Korm. rendelet 101. §-a iktatta be.
-[^33]: Az 1. melléklet a 322/2012. (XI. 16.) Korm. rendelet 103. § e)–f) pontja szerint módosított szöveg.
+[^33]: A 24. §-t a 322/2012. (XI. 16.) Korm. rendelet 101. §-a iktatta be.
+[^34]: Az 1. melléklet a 322/2012. (XI. 16.) Korm. rendelet 103. § e)–f) pontja szerint módosított szöveg.

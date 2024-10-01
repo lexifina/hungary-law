@@ -12,24 +12,24 @@
 
 a) sajátos építményfajtákra és általános építményekre vonatkozó építésügyi hatósági engedélyezési eljárásokat integráló,
 
-b)[^20]
+b)[^21]
 
-c)[^21]
+c)[^22]
 
 d) csak sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárásokat integráló,
 
-e)[^22]
+e)[^23]
 
 eljárás.
 
 (3) Egyazon építési beruházás megvalósításához több építményfajtára vonatkozó integrált építésügyi hatósági eljárásban csak azonos típusú engedélyezési eljárások integrálhatók.
 
-(4)[^23] Az integrált építésügyi hatósági eljárás esetén az 1. mellékletben kijelölt építésügyi hatóság látja el a közreműködő hatóság feladatait.
+(4)[^24] Az integrált építésügyi hatósági eljárás esetén az 1. mellékletben kijelölt építésügyi hatóság látja el a közreműködő hatóság feladatait.
 
-(5)[^24]
+(5)[^25]
 
-[^20]: A 19. § (2) bekezdés b) pontját a 134/2012. (VI. 28.) Korm. rendelet 24. § c) pont cb) alpontja hatályon kívül helyezte.
-[^21]: A 19. § (2) bekezdés c) pontját a 134/2012. (VI. 28.) Korm. rendelet 24. § c) pont cb) alpontja hatályon kívül helyezte.
-[^22]: A 19. § (2) bekezdés e) pontját a 134/2012. (VI. 28.) Korm. rendelet 24. § c) pont cb) alpontja hatályon kívül helyezte.
-[^23]: A 19. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 141. § (1) bekezdésével megállapított szöveg.
-[^24]: A 19. § (5) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 141. § (5) bekezdés b) pontja hatályon kívül helyezte.
+[^21]: A 19. § (2) bekezdés b) pontját a 134/2012. (VI. 28.) Korm. rendelet 24. § c) pont cb) alpontja hatályon kívül helyezte.
+[^22]: A 19. § (2) bekezdés c) pontját a 134/2012. (VI. 28.) Korm. rendelet 24. § c) pont cb) alpontja hatályon kívül helyezte.
+[^23]: A 19. § (2) bekezdés e) pontját a 134/2012. (VI. 28.) Korm. rendelet 24. § c) pont cb) alpontja hatályon kívül helyezte.
+[^24]: A 19. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 141. § (1) bekezdésével megállapított szöveg.
+[^25]: A 19. § (5) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 141. § (5) bekezdés b) pontja hatályon kívül helyezte.
