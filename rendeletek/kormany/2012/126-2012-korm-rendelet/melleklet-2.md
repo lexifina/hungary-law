@@ -6,7 +6,7 @@
 
 | 3. | környezetvédelmi hatósági engedélyezési eljárások | Pest Vármegyei Kormányhivatal[^19] |
 
-| 4. | vízjogi hatósági engedélyezési eljárások | illetékes vármegyei katasztrófavédelmi igazgatóság[^20] |
+| 4. | vízjogi hatósági engedélyezési eljárások | illetékes, vízügyi és vízvédelmi hatáskörben eljáró vármegyei kormányhivatal[^20] |
 
 | 5. | útügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala |
 
@@ -20,20 +20,23 @@
 
 | 10. | talajvédelmi hatósági eljárások | Pest Vármegyei Kormányhivatal[^21] |
 
-| 11. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 11.[^22] | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | illetékes fővárosi és vármegyei kormányhivatal |
 
-| 12. | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 12.[^23] | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Budapest Főváros Kormányhivatala |
 
-| 13. | a jogszabályokban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 13.[^24] | a jogszabályokban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | illetékes fővárosi és vármegyei kormányhivatal |
 
 | 14. |  |  | örökségvédelmi hatósági engedélyezési eljárások és régészeti feltárásokkal kapcsolatos eljárások | Budapest Főváros Kormányhivatala |
 
-| 15. | bányahatósági engedélyek | Pest Vármegyei Kormányhivatal[^22] |
+| 15. | bányahatósági engedélyek | Pest Vármegyei Kormányhivatal[^25] |
 
-2. melléklet a 126/2012. (VI. 26.) Korm. rendelethez[^23]
+2. melléklet a 126/2012. (VI. 26.) Korm. rendelethez[^26]
 
 [^19]: Az 1. mellékletben foglalt táblázat D:3 mezője az 546/2022. (XII. 22.) Korm. rendelet 22. § c) pontja szerint módosított szöveg.
-[^20]: Az 1. mellékletben foglalt táblázat D:4 mezője az 546/2022. (XII. 22.) Korm. rendelet 22. § b) pontja szerint módosított szöveg.
+[^20]: Az 1. mellékletben foglalt táblázat D:4 mezője a 257/2024. (VIII. 29.) Korm. rendelet 54. §-a szerint módosított szöveg.
 [^21]: Az 1. mellékletben foglalt táblázat D:10 mezője az 546/2022. (XII. 22.) Korm. rendelet 22. § c) pontja szerint módosított szöveg.
-[^22]: Az 1. mellékletben foglalt táblázat D:15 mezője az 546/2022. (XII. 22.) Korm. rendelet 22. § c) pontja szerint módosított szöveg.
-[^23]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 51. § c) pontja hatályon kívül helyezte.
+[^22]: Az 1. mellékletben foglalt táblázat 11. sora a 257/2024. (VIII. 29.) Korm. rendelet 55. §-ával megállapított szöveg.
+[^23]: Az 1. mellékletben foglalt táblázat 12. sora a 257/2024. (VIII. 29.) Korm. rendelet 55. §-ával megállapított szöveg.
+[^24]: Az 1. mellékletben foglalt táblázat 13. sora a 257/2024. (VIII. 29.) Korm. rendelet 55. §-ával megállapított szöveg.
+[^25]: Az 1. mellékletben foglalt táblázat D:15 mezője az 546/2022. (XII. 22.) Korm. rendelet 22. § c) pontja szerint módosított szöveg.
+[^26]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 51. § c) pontja hatályon kívül helyezte.
