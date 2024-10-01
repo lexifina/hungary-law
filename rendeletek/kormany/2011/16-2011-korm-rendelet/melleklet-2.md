@@ -12,52 +12,57 @@
 
 | 6. | útügyi hatósági engedélyek | Győr-Moson-Sopron Vármegyei Kormányhivatal [^20] |
 
-| 7. | vízügyi hatósági engedélyek | illetékes katasztrófavédelmi igazgatóság |
+| 7. | vízügyi hatósági engedélyek | illetékes, vízügyi és vízvédelmi hatáskörben eljáró vármegyei kormányhivatal[^21] |
 
-| 8. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Győr-Moson-Sopron Vármegyei Kormányhivatal [^21] |
+| 8. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Győr-Moson-Sopron Vármegyei Kormányhivatal [^22] |
 
-| 9. | földvédelmi hatósági eljárás | Győr-Moson-Sopron Vármegyei Kormányhivatal[^22] |
+| 9. | földvédelmi hatósági eljárás | Győr-Moson-Sopron Vármegyei Kormányhivatal[^23] |
 
-| 10. | ingatlan-nyilvántartási hatósági eljárások | Győr-Moson-Sopron Vármegyei Kormányhivatal[^23] |
+| 10. | ingatlan-nyilvántartási hatósági eljárások | Győr-Moson-Sopron Vármegyei Kormányhivatal[^24] |
 
-| 11. | telekalakítási hatósági eljárások | Győr-Moson-Sopron Vármegyei Kormányhivatal[^24] |
+| 11. | telekalakítási hatósági eljárások | Győr-Moson-Sopron Vármegyei Kormányhivatal[^25] |
 
-| 12. | földmérési hatósági eljárások | Győr-Moson-Sopron Vármegyei Kormányhivatal[^25] |
+| 12. | földmérési hatósági eljárások | Győr-Moson-Sopron Vármegyei Kormányhivatal[^26] |
 
-| 13. | erdészeti hatósági engedélyek | Vas Vármegyei Kormányhivatal[^26] |
+| 13. | erdészeti hatósági engedélyek | Vas Vármegyei Kormányhivatal[^27] |
 
 | 14. | hírközlési hatósági engedélyek | Nemzeti Média- és Hírközlési Hatóság Hivatala |
 
-| 15. | bányahatósági engedélyek | Veszprém Vármegyei Kormányhivatal[^27] |
+| 15. | bányahatósági engedélyek | Veszprém Vármegyei Kormányhivatal[^28] |
 
-| 16. | talajvédelmi hatósági engedélyek | Győr-Moson-Sopron Vármegyei Kormányhivatal [^28] |
+| 16. | talajvédelmi hatósági engedélyek | Győr-Moson-Sopron Vármegyei Kormányhivatal [^29] |
 
-| 17. | örökségvédelmi hatósági engedélyezési eljárások és régészeti feltárásokkal kapcsolatos eljárások | Győr-Moson-Sopron Vármegyei Kormányhivatal [^29] |
+| 17. | örökségvédelmi hatósági engedélyezési eljárások és régészeti feltárásokkal kapcsolatos eljárások | Győr-Moson-Sopron Vármegyei Kormányhivatal [^30] |
 
 | 18. | vasúti hatósági engedélyek | közlekedésért felelős miniszter |
 
-| 19. | tűzvédelmi használati előírások és a tűzoltóságok beavatkozásával kapcsolatos követelmények alóli eltérési engedélyezési eljárások | illetékes katasztrófavédelmi igazgatóság |
+| 19. | tűzvédelmi használati előírások és a tűzoltóságok beavatkozásával kapcsolatos követelmények alóli eltérési engedélyezési eljárások | illetékes fővárosi és vármegyei kormányhivatal[^31] |
 
-| 20. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárások | illetékes katasztrófavédelmi igazgatóság |
+| 20. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárások | illetékes fővárosi és vármegyei kormányhivatal[^32] |
 
-| 21. | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | illetékes katasztrófavédelmi igazgatóság |
+| 21. | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | illetékes fővárosi és vármegyei kormányhivatal[^33] |
 
-| 22. |  |  | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 22.[^34] | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Budapest Főváros Kormányhivatala |
 
-2. melléklet a 16/2011. (II. 24.) Korm. rendelethez[^30]
+2. melléklet a 16/2011. (II. 24.) Korm. rendelethez[^35]
 
 [^16]: Az 1. mellékletben foglalt táblázat D:2 mezője az 546/2022. (XII. 22.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
 [^17]: Az 1. mellékletben foglalt táblázat D:3 mezője az 546/2022. (XII. 22.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
 [^18]: Az 1. mellékletben foglalt táblázat D:4 mezője az 546/2022. (XII. 22.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
 [^19]: Az 1. mellékletben foglalt táblázat D:5 mezője az 546/2022. (XII. 22.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
 [^20]: Az 1. mellékletben foglalt táblázat D:6 mezője az 546/2022. (XII. 22.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
-[^21]: Az 1. mellékletben foglalt táblázat D:8 mezője az 546/2022. (XII. 22.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
-[^22]: Az 1. mellékletben foglalt táblázat D:9 mezője az 546/2022. (XII. 22.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
-[^23]: Az 1. mellékletben foglalt táblázat D:10 mezője az 546/2022. (XII. 22.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
-[^24]: Az 1. mellékletben foglalt táblázat D:11 mezője az 546/2022. (XII. 22.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
-[^25]: Az 1. mellékletben foglalt táblázat D:12 mezője az 546/2022. (XII. 22.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
-[^26]: Az 1. mellékletben foglalt táblázat D:13 mezője az 546/2022. (XII. 22.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
-[^27]: Az 1. mellékletben foglalt táblázat D:15 mezője az 546/2022. (XII. 22.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
-[^28]: Az 1. mellékletben foglalt táblázat D:16 mezője az 546/2022. (XII. 22.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
-[^29]: Az 1. mellékletben foglalt táblázat D:17 mezője az 546/2022. (XII. 22.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
-[^30]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 33. § c) pontja hatályon kívül helyezte.
+[^21]: Az 1. mellékletben foglalt táblázat D:7 mezője a 257/2024. (VIII. 29.) Korm. rendelet 22. § a) pontja szerint módosított szöveg.
+[^22]: Az 1. mellékletben foglalt táblázat D:8 mezője az 546/2022. (XII. 22.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
+[^23]: Az 1. mellékletben foglalt táblázat D:9 mezője az 546/2022. (XII. 22.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
+[^24]: Az 1. mellékletben foglalt táblázat D:10 mezője az 546/2022. (XII. 22.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
+[^25]: Az 1. mellékletben foglalt táblázat D:11 mezője az 546/2022. (XII. 22.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
+[^26]: Az 1. mellékletben foglalt táblázat D:12 mezője az 546/2022. (XII. 22.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
+[^27]: Az 1. mellékletben foglalt táblázat D:13 mezője az 546/2022. (XII. 22.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
+[^28]: Az 1. mellékletben foglalt táblázat D:15 mezője az 546/2022. (XII. 22.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
+[^29]: Az 1. mellékletben foglalt táblázat D:16 mezője az 546/2022. (XII. 22.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
+[^30]: Az 1. mellékletben foglalt táblázat D:17 mezője az 546/2022. (XII. 22.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
+[^31]: Az 1. mellékletben foglalt táblázat D:19 mezője a 257/2024. (VIII. 29.) Korm. rendelet 22. § b) pontja szerint módosított szöveg.
+[^32]: Az 1. mellékletben foglalt táblázat D:20 mezője a 257/2024. (VIII. 29.) Korm. rendelet 22. § b) pontja szerint módosított szöveg.
+[^33]: Az 1. mellékletben foglalt táblázat D:21 mezője a 257/2024. (VIII. 29.) Korm. rendelet 22. § b) pontja szerint módosított szöveg.
+[^34]: Az 1. mellékletben foglalt táblázat 22. sora a 257/2024. (VIII. 29.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^35]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 33. § c) pontja hatályon kívül helyezte.
