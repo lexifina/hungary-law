@@ -1,7 +1,0 @@
-5. § (1) A kézikönyv és a településképi rendelet az egy település által önállóan foglalkoztatott települési főépítész, több település által közösen foglalkoztatott térségi főépítész vagy a vármegyei főépítész (a továbbiakban együtt: önkormányzati főépítész) közreműködésével készül.
-
-(2) A kézikönyv egyeztetése során a Magyar Építész Kamara, a településképi rendelet egyeztetése során az állami főépítészi hatáskörében eljáró fővárosi és vármegyei kormányhivatal véleményét ki kell kérni. A kézikönyv és a településképi rendelet elkészítésére, egyeztetésére, elfogadására és módosítására vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg.
-
-(3) A kézikönyv és a településképi rendelet megalkotása során gondoskodni kell – kormányrendeletben meghatározott módon – a széleskörű társadalmi bevonásról és a nyilvánosság biztosításáról.
-
-(4) Az építési tevékenység során a településképi követelmények teljesítése az építtető, a tervező és a kivitelező egyetemleges felelőssége, tervező és kivitelező hiányában az építtető felelőssége. A tervező mentesül az egyetemleges felelősség alól, ha kétséget kizáróan bizonyítja, hogy a kivitelezési dokumentáció a településképi követelményeket figyelembe vette. A kivitelező mentesül az egyetemleges felelősség alól, ha kétséget kizáróan bizonyítja, hogy a részére átadott kivitelezési dokumentációban foglaltak szerint járt el. Az építtető mentesül az egyetemleges felelősség alól, ha kétséget kizáróan bizonyítja, hogy a felelősség a tervezőt vagy a kivitelezőt terheli.

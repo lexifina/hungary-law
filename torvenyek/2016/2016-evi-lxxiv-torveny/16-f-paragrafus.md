@@ -1,1 +1,0 @@
-16/F. § E törvénynek a jogi és gazdasági versenyképesség erősítése érdekében egyes törvények módosításáról szóló 2024. évi XV. törvénnyel módosított 11/F. § 1. és 4. pontját a hatálybalépésükkor folyamatban lévő ügyekben – ideértve a jogorvoslati és a megismételt eljárásokat is – alkalmazni kell.
