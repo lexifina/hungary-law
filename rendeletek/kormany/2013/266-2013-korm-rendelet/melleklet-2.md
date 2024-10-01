@@ -1,18 +1,14 @@
-## Energetikai tanúsítás
+## Éghajlatvédelmi tanúsítás
 
-## Névjegyzéki jelölés
+|  | A | B | C | D | E |
 
-## Energetikai tanúsítói jogosultság (betűjele: TÉ)
+| 1. | Szakterület megnevezése | Szakterület jelölése | Feladatok, amelyeket az adott szakterületi jogosultsággal lehet végezni | Képesítési minimumkövetelmény vagy az ezzel egyenértékű szakképzettség | Szakmai gyakorlati idő |
 
-|  | A | B | C | D |
+| 2. | Energetikai tanúsítói szakterület | TÉ | Energetikai tanúsítás | okleveles építészmérnök, okleveles településmérnök, okleveles építőmérnök, okleveles közlekedésmérnök, okleveles gépészmérnök, okleveles villamosmérnök, okleveles energetikai mérnök, okleveles mechatronikai mérnök, okleveles biztonságtechnikai mérnök, okleveles olaj- és gázmérnök, okleveles olajmérnök, építészmérnök, településmérnök, építőmérnök, közlekedés-építőmérnök, vízépítő mérnök, közlekedésmérnök, gépészmérnök, villamosmérnök, energetikai mérnök, mechatronikai mérnök, biztonságtechnikai mérnök | 1 év |
 
-| 1. | Tevékenység megnevezése | Jelölése | Képesítési minimumkövetelmény vagy az ezzel egyenértékű szakképzettség | Szakmai gyakorlati idő |
+| 3. | Zöldfelületi tanúsítói szakterület | TZ | Zöldfelületi tanúsítás | okleveles tájépítészmérnök, okleveles tájépítész-kertművész, okleveles kertészmérnök, okleveles természetvédelmi mérnök, okleveles településmérnök, ökologikus zöldfelület-fenntartó szakmérnök, tájrendező- és kertépítő mérnök | 2 év |
 
-| 2. | energetikai tanúsítói jogosultság | TÉ | okleveles építészmérnök, okleveles településmérnök, okleveles építőmérnök, okleveles közlekedésmérnök, okleveles gépészmérnök, okleveles villamosmérnök, okleveles energetikai mérnök, okleveles mechatronikai mérnök, okleveles biztonságtechnikai mérnök, okleveles olaj- és gázmérnök, okleveles olajmérnök, építészmérnök, településmérnök, építőmérnök, közlekedés-építőmérnök, vízépítő mérnök, közlekedésmérnök, gépészmérnök, villamosmérnök, energetikai mérnök, mechatronikai mérnök, biztonságtechnikai mérnök | 1 év |
-
-## ”
-
-2. melléklet a 266/2013. (VII. 11.) Korm. rendelethez[^158]
+2. melléklet a 266/2013. (VII. 11.) Korm. rendelethez[^233]
 
 I. Az építész kamarák által nyilvántartott, korábbi jogszabály alapján megállapított építészeti tervezési jogosultságok és a hozzájuk tartozó építészeti-műszaki tervezési tevékenységek
 
@@ -72,4 +68,4 @@ A sajátos építményfajták építési műszaki ellenőri szakterületei
 
 III. Az építész és a mérnöki kamarák által nyilvántartott, korábbi jogszabály alapján megállapított felelős műszaki vezetői jogosultságok és a hozzájuk tartozó tevékenység
 
-[^158]: A 2. melléklet a 38/2015. (III. 11.) Korm. rendelet 22. § (5) bekezdése, a 168/2015. (VI. 30.) Korm. rendelet 4. § (9) bekezdése, a 290/2019. (XII. 5.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
+[^233]: A 2. melléklet a 38/2015. (III. 11.) Korm. rendelet 22. § (5) bekezdése, a 168/2015. (VI. 30.) Korm. rendelet 4. § (9) bekezdése, a 290/2019. (XII. 5.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.

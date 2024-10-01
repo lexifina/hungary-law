@@ -2,7 +2,7 @@
 
 7. § (1) A szakmagyakorlási tevékenység engedélyezésének feltételei:
 
-a)[^20] képesítési követelmény az 1. mellékletben részletezett, a szakterületeknek és tevékenységnek megfelelő, kamarai szabályzat szerinti kredittartalmú
+a)[^27] képesítési követelmény az 1. mellékletben részletezett, a szakterületeknek és tevékenységnek megfelelő, kamarai szabályzat szerinti kredittartalmú
 
 aa) mesterfokozatú képzésben szerzett szakképzettség MSc, MA (tervezés, szakértés),
 
@@ -14,21 +14,13 @@ b) szakmai gyakorlat a 9. § szerint,
 
 c) a kérelmező személy nem áll foglalkozástól eltiltás hatálya alatt és büntetlen előéletű.
 
-d)[^21] eredményes 38. és 39. § szerinti jogosultsági vizsga.
+d)[^28] eredményes 38. és 39. § szerinti jogosultsági vizsga.
 
-(2) A Szolgtv.-ben meghatározottakon túlmenően az energetikai tanúsítói szakmagyakorlási tevékenység bejelentésének tartalmaznia kell:
+e)[^29] építészeti-műszaki tervezési tevékenység esetén a kötelező tervezői felelősségbiztosítás megléte.
 
-a)[^22] az 1. mellékletben meghatározott szakképzettséget igazoló oklevél hiteles másolatát, ha ez a területi kamarai nyilvántartásban nem áll rendelkezésre,
+(2)[^30] Az energetikai tanúsítói és a zöldfelületi tanúsítói szakmagyakorlási tevékenység bejelentéséhez – a Szolgtv.-ben meghatározottakon túlmenően – mellékelni kell az e rendelet által az engedélyezéshez megkövetelt, az energetikai tanúsítás és a zöldfelületi tanúsítás szempontjából releváns dokumentumokat.
 
-b)[^23] a szakirány elbírálásához a leckekönyv másolatát vagy az oklevélmelléklet másolatát, ha a kérelmező kreditrendszerben szerezte meg az oklevelét, vagy a területi kamara azt a szakirány megállapítása érdekében kéri,
-
-c)[^24] a szakmai gyakorlat igazolását a 12. §-ban foglaltak szerint,
-
-d)[^25] a 38–39. § szerinti jogosultsági vizsga eredményes letételének az igazolását,
-
-e)[^26] a bejelentésben közölteket igazoló iratok másolatát a hatósági erkölcsi bizonyítvány kivételével, a bejelentést tevő nyilatkozatát a bejelentés tartalmának hitelességéről, ezzel a jogszabályban előírt feltételek és az iratmásolatok hitelességét is igazolja.
-
-(3) A (2) bekezdés e) pontjában foglaltakon túlmenően további hitelesítés nem követelhető meg.
+(3)[^31]
 
 (4) A 3. § szerinti szakmagyakorlási tevékenységekhez kapcsolódóan az 1. melléklet tartalmazza
 
@@ -40,10 +32,8 @@ c) a minimális képesítési követelményt szakterületi bontásban,
 
 d) az előírt szakmai gyakorlati időt.
 
-[^20]: A 7. § (1) bekezdés a) pont nyitó szövegrésze a 618/2021. (XI. 8.) Korm. rendelet 16. § 3. pontja szerint módosított szöveg.
-[^21]: A 7. § (1) bekezdés d) pontját a 618/2021. (XI. 8.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^22]: A 7. § (2) bekezdés a) pontját újonnan a 618/2021. (XI. 8.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^23]: A 7. § (2) bekezdés b) pontját újonnan a 618/2021. (XI. 8.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^24]: A 7. § (2) bekezdés c) pontját újonnan a 618/2021. (XI. 8.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^25]: A 7. § (2) bekezdés d) pontja a 618/2021. (XI. 8.) Korm. rendelet 16. § 4. pontja szerint módosított szöveg.
-[^26]: A 7. § (2) bekezdés e) pontja a 62/2014. (III. 6.) Korm. rendelet 47. § 2. pontja, a 441/2015. (XII. 28.) Korm. rendelet 198. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^27]: A 7. § (1) bekezdés a) pont nyitó szövegrésze a 618/2021. (XI. 8.) Korm. rendelet 16. § 3. pontja szerint módosított szöveg.
+[^28]: A 7. § (1) bekezdés d) pontját a 618/2021. (XI. 8.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^29]: A 7. § (1) bekezdés e) pontját a 286/2024. (IX. 30.) Korm. rendelet 49. § (1) bekezdése iktatta be.
+[^30]: A 7. § (2) bekezdése a 286/2024. (IX. 30.) Korm. rendelet 49. § (2) bekezdésével megállapított szöveg.
+[^31]: A 7. § (3) bekezdését a 286/2024. (IX. 30.) Korm. rendelet 70. § 1. pontja hatályon kívül helyezte.

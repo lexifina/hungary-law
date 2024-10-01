@@ -8,29 +8,34 @@
 
 43. § (1) A területi kamara titkára a szakmagyakorlóval szemben hatósági eljárást folytat le, és jogkövetkezményt állapít meg
 
-a)[^119]
+a)[^165]
 
-b) a területi kamara etikai-fegyelmi bizottságának jogerős döntése alapján,
+b)[^166] az első fokú etikai-fegyelmi bizottság jogerős döntése alapján,
 
-c)[^120] az Épelj. 66. § (2) bekezdése és (3) bekezdés b) pontja szerinti megkeresésre,
+c)[^167] az Épelj. 66. § (2) bekezdése és (3) bekezdés b) pontja szerinti megkeresésre,
 
 d) a szakmagyakorlási tevékenység folytatásának feltételei hiánya esetén,
 
 e) az energetikai tanúsítványok tekintetében a független ellenőrzési rendszert működtető szerv kezdeményezésére.
 
-(2)[^121] A területi kamara titkára az (1) bekezdés c) pontja szerinti megkeresésre a 44. § szerinti jogkövetkezményt állapít meg.
+(2)[^168] A területi kamara titkára az (1) bekezdés c) pontja szerinti megkeresésre a 44. § szerinti jogkövetkezményt állapít meg.
 
-(3) A jogkövetkezményt megállapító területi kamara titkára a döntését az OÉNY e-szankció alkalmazásban rögzített jogkövetkezmények figyelembevételével hozza meg az e-rendszerben.
+(3)[^169] A Méptv. 212. § (1) bekezdése szerinti bírósági értesítések rögzítését az OÉNY üzemeltetője köteles a beérkezést követően haladéktalanul, de legkésőbb a beérkezést követő munkanapon elvégezni.
 
-(4) Az Étv. 58. § (11) bekezdése szerinti bírósági értesítéseknek az e-szankció elektronikus alkalmazásban történő rögzítését az OÉNY üzemeltetője köteles a beérkezést követően haladéktalanul, de legkésőbb a beérkezést követő munkanapon elvégezni.
+(4)[^170] Az e rendelet alapján megállapított bírság összege – egy éven belüli ismételt bírságolandó szabálytalanság esetén – az előzőleg megállapított bírság 150%-ánál kevesebb nem lehet.
 
-(5) A jogkövetkezményeket megállapító döntés meghozatala előtt a területi kamara titkára minden esetben köteles ellenőrizni, hogy e-szankció alkalmazással rögzített adatállományban, az adott szakmagyakorlóval szemben jogkövetkezmény állapítottak-e meg. Amennyiben a szabályozás a fokozatosság elve alapján súlyosabb szankciót is kilátásba helyez, a jogkövetkezmény megállapításakor az e-szankció adatállományban rögzített valamennyi jogkövetkezményt figyelembe kell venni, függetlenül attól, hogy a szankciót mely hatóság vagy szerv állapította meg.
+(5)[^171] Az építésügyi hatóság a szakmagyakorlási tevékenységre vonatkozó jogszabályok, szakmai szabályok megsértése miatt – hatáskör hiányában vagy kormányrendeletben előírt esetekben – köteles elektronikus úton megkeresni a névjegyzéket vezető területi kamarát. A területi kamara, az elektronikus megkeresés alapján, harminc napon belül köteles eljárást indítani a szakmagyakorlási tevékenységet folytató ellen, és az eljárást lezáró döntéséről a megkereső hatóságot elektronikus úton értesíteni.
 
-(6)[^122] Az e rendelet alapján megállapított bírság összege – egy éven belüli ismételt bírságolandó szabálytalanság esetén – az előzőleg megállapított bírság 150%-ánál kevesebb nem lehet.
+(6)[^172]
 
-(7) Az építésügyi és az építésfelügyeleti hatóság a szakmagyakorlási tevékenységre vonatkozó jogszabályok, szakmai szabályok megsértése miatt – hatáskör hiányában vagy kormányrendeletben előírt esetekben – az OÉNY e-szankció elektronikus alkalmazás használatával köteles elektronikus úton megkeresni a névjegyzéket vezető területi kamarát. A területi kamara, az elektronikus megkeresés alapján, harminc napon belül köteles eljárást indítani a szakmagyakorlási tevékenységet folytató ellen, és az eljárást lezáró döntéséről a megkereső hatóságot az OÉNY e-szankció elektronikus alkalmazás használatával elektronikus úton értesíteni.
+(7)[^173]
 
-[^119]: A 43. § (1) bekezdés a) pontját a 618/2021. (XI. 8.) Korm. rendelet 17. § 11. pontja hatályon kívül helyezte.
-[^120]: A 43. § (1) bekezdés c) pontja a 618/2021. (XI. 8.) Korm. rendelet 16. § 24. pontja szerint módosított szöveg.
-[^121]: A 43. § (2) bekezdése a 62/2014. (III. 6.) Korm. rendelet 47. § 20. pontja, a 618/2021. (XI. 8.) Korm. rendelet 17. § 12. pontja szerint módosított szöveg.
-[^122]: A 43. § (6) bekezdése a 62/2014. (III. 6.) Korm. rendelet 48. § c) pontja szerint módosított szöveg.
+[^165]: A 43. § (1) bekezdés a) pontját a 618/2021. (XI. 8.) Korm. rendelet 17. § 11. pontja hatályon kívül helyezte.
+[^166]: A 43. § (1) bekezdés b) pontja a 286/2024. (IX. 30.) Korm. rendelet 69. § 36. pontja szerint módosított szöveg.
+[^167]: A 43. § (1) bekezdés c) pontja a 618/2021. (XI. 8.) Korm. rendelet 16. § 24. pontja szerint módosított szöveg.
+[^168]: A 43. § (2) bekezdése a 62/2014. (III. 6.) Korm. rendelet 47. § 20. pontja, a 618/2021. (XI. 8.) Korm. rendelet 17. § 12. pontja szerint módosított szöveg.
+[^169]: A 43. § (3) bekezdése a 286/2024. (IX. 30.) Korm. rendelet 65. §-ával megállapított szöveg.
+[^170]: A 43. § (4) bekezdése a 286/2024. (IX. 30.) Korm. rendelet 65. §-ával megállapított szöveg.
+[^171]: A 43. § (5) bekezdése a 286/2024. (IX. 30.) Korm. rendelet 65. §-ával megállapított szöveg.
+[^172]: A 43. § (6) bekezdését a 286/2024. (IX. 30.) Korm. rendelet 70. § 7. pontja hatályon kívül helyezte.
+[^173]: A 43. § (7) bekezdését a 286/2024. (IX. 30.) Korm. rendelet 70. § 7. pontja hatályon kívül helyezte.

@@ -1,8 +1,8 @@
 ## 8. Építészeti-műszaki tervezés
 
-15. § (1)[^56] Az Étv. 32. § (1) bekezdése szerinti építészeti-műszaki tervezési tevékenységnek az építésügyi hatósági eljáráshoz és az építőipari kivitelezéshez szükséges építészeti-műszaki dokumentációk készítése építészeti-műszaki tervezési jogosultsághoz kötött. Tervezői művezetést az adott tervezési szakterületen jogosultsággal rendelkező építészeti-műszaki tervező végezhet.
+15. § (1)[^64] Az építészeti-műszaki tervezési tevékenységnek az építésügyi hatósági eljáráshoz és az építőipari kivitelezéshez szükséges építészeti-műszaki dokumentációk készítése építészeti-műszaki tervezési jogosultsághoz kötött. Tervezői művezetést az adott tervezési szakterületen jogosultsággal rendelkező építészeti-műszaki tervező végezhet.
 
-(2)[^57] Az építészeti-műszaki tervező feladata az Étv.-ben foglaltak, az építtető igényei, megbízása, a tervezési program és a jogszabályok, szabványok és szakmai szabályok figyelembevételével az építésügyi hatósági eljárásokhoz és az építőipari kivitelezéshez szükséges építészeti-műszaki dokumentáció elkészítése.
+(2)[^65] Az építészeti-műszaki tervező feladata a Méptv.-ben foglaltak, az építtető igényei, megbízása, a tervezési program és a jogszabályok, szabványok és szakmai szabályok figyelembevételével az építésügyi hatósági eljárásokhoz és az építőipari kivitelezéshez szükséges építészeti-műszaki dokumentáció elkészítése.
 
 (3) Az (1) bekezdésben foglaltakon túlmenően jogosultsággal végezhető
 
@@ -10,29 +10,35 @@ a) a tervtanácsi terv,
 
 b) a településképi véleményezéshez szükséges terv,
 
-c) a megvalósulási terv,
+c)[^66] a megvalósulási dokumentáció,
 
-d)[^58] az egyszerű bejelentéshez szükséges kivitelezési dokumentáció
+d)[^67]
 
 készítése.
 
-(4) Az építészeti-műszaki szakági tervező feladata az építmény tervezéséhez szükséges szakági terv elkészítése a jogszabályok, szabványok és szakmai szabályok alapján. Tevékenysége kiterjedhet az általános és a sajátos építmények tervezéséhez szükséges szakági tervi munkarészek teljes körű elkészítésére.
+(4)[^68] Az építészeti-műszaki szakági tervező feladata az építmény, az építményhez kapcsolódó tájépítészeti alkotás tervezéséhez szükséges szakági terv elkészítése a jogszabályok, szabványok és szakmai szabályok alapján. Tevékenysége kiterjedhet az általános és a sajátos építmények tervezéséhez szükséges szakági tervi munkarészek teljes körű elkészítésére.
 
 (5) Az építészeti-műszaki tervezési tevékenység a képesítéstől, a gyakorlati időtől és a szerzett jogtól függően – kamarai szabályzatban rögzítettek szerint – korlátozott vagy teljes körű tervezési jogosultsággal folytatható.
 
-(6) Az építészeti-műszaki tervezőnek az általa készített építészeti-műszaki terveket, iratokat és számításokat hitelesítenie kell az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet (a továbbiakban: Épelj.) előírásai szerint.
+(6)[^69] Az építészeti-műszaki tervezőnek az általa készített építészeti-műszaki dokumentációt, iratokat és számításokat hitelesítenie kell az építésügyi hatósági eljárásokról és ellenőrzésekről szóló 281/2024. (IX. 30.) Korm. rendelet (a továbbiakban: Épelj.) előírásai szerint.
 
-(7) Az építészeti-műszaki tervező felelős az Étv. 33. §-ában foglaltak betartásáért.
+(7)[^70] Az építészeti-műszaki tervező felelős a Méptv. 68. § (5) bekezdésében foglaltak betartásáért.
 
-(8) Az építészeti-műszaki tervezőnek az általa készített építészeti-műszaki tervet a megbízónak történő átadástól számított legalább 10 évig meg kell őriznie.
+(8)[^71] Az építészeti-műszaki tervezőnek az általa készített építészeti-műszaki dokumentációt a megbízónak történő átadástól számított legalább 10 évig meg kell őriznie.
 
 (9) Nem folytathat építészeti-műszaki tervezési tevékenységet
 
-a)[^59] az adott építészeti-műszaki dokumentáció engedélyezésében vagy az annak alapján megvalósítandó építmény kivitelezésének építésfelügyeletében feladatot ellátó hatóság kormánytisztviselője, valamint a tervdokumentáció véleményezési, jóváhagyási folyamatában harmadik félként érintett szervezet alkalmazottja vagy azzal egyéb jogviszonyban közreműködő személy,
+a)[^72] az adott építészeti-műszaki dokumentáció engedélyezésében vagy az annak alapján megvalósítandó építmény, tájépítészeti alkotás kivitelezésének hatósági ellenőrzésében feladatot ellátó hatóság kormánytisztviselője, valamint az építészeti-műszaki dokumentáció véleményezési, jóváhagyási folyamatában harmadik félként érintett szervezet alkalmazottja vagy azzal egyéb jogviszonyban közreműködő személy,
 
-b) az építészeti-műszaki dokumentáció településképi véleményezési eljárásába bevont önkormányzati főépítész.
+b)[^73] az építészeti-műszaki dokumentáció településképi véleményezési eljárásába bevont önkormányzati, állami főépítész.
 
-[^56]: A 15. § (1) bekezdése a 156/2016. (VI. 13.) Korm. rendelet 16. § c) pontja szerint módosított szöveg.
-[^57]: A 15. § (2) bekezdése a 156/2016. (VI. 13.) Korm. rendelet 16. § d) pontja, a 482/2016. (XII. 28.) Korm. rendelet 40. § a) pontja szerint módosított szöveg.
-[^58]: A 15. § (3) bekezdés d) pontját a 156/2016. (VI. 13.) Korm. rendelet 15. § (1) bekezdése iktatta be.
-[^59]: A 15. § (9) bekezdés a) pontja a 217/2016. (VII. 22.) Korm. rendelet 38. §-a, a 618/2021. (XI. 8.) Korm. rendelet 16. § 12. pontja szerint módosított szöveg.
+[^64]: A 15. § (1) bekezdése a 156/2016. (VI. 13.) Korm. rendelet 16. § c) pontja, a 286/2024. (IX. 30.) Korm. rendelet 70. § 2. pontja szerint módosított szöveg.
+[^65]: A 15. § (2) bekezdése a 286/2024. (IX. 30.) Korm. rendelet 69. § 13. pontja szerint módosított szöveg.
+[^66]: A 15. § (3) bekezdés c) pontja a 286/2024. (IX. 30.) Korm. rendelet 69. § 14. pontja szerint módosított szöveg.
+[^67]: A 15. § (3) bekezdés d) pontját a 156/2016. (VI. 13.) Korm. rendelet 15. § (1) bekezdése iktatta be, a 286/2024. (IX. 30.) Korm. rendelet 70. § 3. pontja hatályon kívül helyezte.
+[^68]: A 15. § (4) bekezdése a 286/2024. (IX. 30.) Korm. rendelet 69. § 15. pontja szerint módosított szöveg.
+[^69]: A 15. § (6) bekezdése a 286/2024. (IX. 30.) Korm. rendelet 53. §-ával megállapított szöveg.
+[^70]: A 15. § (7) bekezdése a 286/2024. (IX. 30.) Korm. rendelet 69. § 16. pontja szerint módosított szöveg.
+[^71]: A 15. § (8) bekezdése a 286/2024. (IX. 30.) Korm. rendelet 69. § 17. pontja szerint módosított szöveg.
+[^72]: A 15. § (9) bekezdés a) pontja a 217/2016. (VII. 22.) Korm. rendelet 38. §-a, a 618/2021. (XI. 8.) Korm. rendelet 16. § 12. pontja, a 286/2024. (IX. 30.) Korm. rendelet 69. § 18. pontja szerint módosított szöveg.
+[^73]: A 15. § (9) bekezdés b) pontja a 286/2024. (IX. 30.) Korm. rendelet 69. § 19. pontja szerint módosított szöveg.

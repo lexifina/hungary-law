@@ -1,22 +1,35 @@
 ## 10. Tervezési szerződés
 
-17. § (1) Az építészeti-műszaki tervezési tevékenység folytatásához szükséges tervezési szerződés a Ptk. és az Étv. előírásain túlmenően tartalmazza
+17. § (1)[^87] Az építészeti-műszaki tervezési tevékenység folytatásához szükséges tervezési szerződés a Ptk. és a Méptv. előírásain túlmenően tartalmazza
 
-a) a teljesítési határidőket, figyelemmel a szakaszos tervszolgáltatásra is,
+a) a vállalt tervezési tevékenység pontos megnevezését,
 
-b)[^65] a tervezési díj összege mellett az elszámolás és a teljesítésigazolás formáját, módját, a fizetés módját és határidejét,
+b) a kivitelezési dokumentációra vonatkozó követelmények (mennyiségi és minőségi mutatók) meghatározását, a kidolgozás részletezettségét (részletrajzok, konszignációk, költségvetési kiírás szükséges körét),
 
-c) az esetleges szakmai biztosíték kikötését,
+c) a készítendő kivitelezési dokumentáció példányszámát és annak elektronikus formában is történő átadási kötelezettségét,
 
-d)[^66] a tervező nyilatkozatát arra vonatkozóan, hogy a lakóépület építésének egyszerű bejelentéséről szóló kormányrendeletben meghatározott kötelező felelősségbiztosítással rendelkezik,
+d) a teljesítési határidőket, figyelemmel a szakaszos tervszolgáltatásra is,
 
-e)[^67] a tervezési szerződéssel érintett építészeti-műszaki dokumentációhoz fűződő szerzői vagyoni jogokkal kapcsolatos rendelkezést.
+e) a tervezési díj összege mellett az elszámolás és a teljesítésigazolás formáját, módját, a fizetés módját és határidejét,
 
-(2) Az építmények tervezésével és kivitelezésével kapcsolatos egyes viták rendezésében közreműködő szervezetről és egyes törvényeknek az építésügyi lánctartozások megakadályozásával, valamint a késedelmes fizetésekkel összefüggő módosításáról szóló törvényben meghatározott esetekben az építészeti-műszaki tervezési szerződéses felek a Teljesítésigazolási Szakértői Szervhez (a továbbiakban: TSZSZ) fordulhatnak.
+f) az esetleges szakmai biztosíték kikötését,
 
-(3)[^68] Az építőipari kivitelezési tevékenység végzéséhez szükséges kivitelezési dokumentáció készítésére irányuló tervezési szerződés tartalmi elemeinél az építőipari kivitelezési tevékenységről szóló 191/2009. (IX. 15.) Korm. rendelet (a továbbiakban: Épkiv.) 9. § (1)–(3) bekezdésében foglaltakat is figyelembe kell venni.
+g) a tervező nyilatkozatát arra vonatkozóan, hogy kötelező tervezői felelősségbiztosítással rendelkezik, a kötelező tervezői felelősségbiztosítás kötvényszámát, a biztosító nevét és a tervezési szerződés mellékleteként a fedezetet igazoló dokumentumot (biztosítási kötvény),
 
-[^65]: A 17. § (1) bekezdés b) pontja a 156/2016. (VI. 13.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.
-[^66]: A 17. § (1) bekezdés d) pontját a 353/2016. (XI. 18.) Korm. rendelet 4. § (1) bekezdése iktatta be.
-[^67]: A 17. § (1) bekezdés e) pontját a 280/2018. (XII. 21.) Korm. rendelet 8. §-a iktatta be.
-[^68]: A 17. § (3) bekezdése a 482/2016. (XII. 28.) Korm. rendelet 40. § b) pontja szerint módosított szöveg.
+h) a tervezési szerződéssel érintett építészeti-műszaki dokumentációhoz fűződő szerzői vagyoni jogokkal kapcsolatos rendelkezést,
+
+i) a terv felülvizsgálatának, ellenőrzésének szabályait,
+
+j) a szükségessé váló tervmódosítások szabályozását,
+
+k) a tervezői művezetési feladatellátás részletes feltételeit, ha a tervező ilyen feladatot lát el, valamint
+
+l) az e-építési napló vezetéséhez kötött építőipari kivitelezési tevékenység esetén a tervező és a tervezői művezető naplóügyfél-jelét.
+
+(2)[^88] Az építmények, tájépítészeti alkotások tervezésével és kivitelezésével kapcsolatos egyes viták rendezésében közreműködő szervezetről és egyes törvényeknek az építésügyi lánctartozások megakadályozásával, valamint a késedelmes fizetésekkel összefüggő módosításáról szóló törvényben meghatározott esetekben az építészeti-műszaki tervezési szerződéses felek a Teljesítésigazolási Szakértői Szervhez fordulhatnak.
+
+(3)[^89]
+
+[^87]: A 17. § (1) bekezdése a 286/2024. (IX. 30.) Korm. rendelet 57. §-ával megállapított szöveg.
+[^88]: A 17. § (2) bekezdése a 286/2024. (IX. 30.) Korm. rendelet 69. § 2. pontja és 70. § 4. pontja szerint módosított szöveg.
+[^89]: A 17. § (3) bekezdését a 286/2024. (IX. 30.) Korm. rendelet 70. § 5. pontja hatályon kívül helyezte.

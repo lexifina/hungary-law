@@ -30,4 +30,6 @@ kötött szerződés vagy más jogviszony alapján a szolgáltatónak a szolgál
 
 11. tagállami állampolgár: a külföldi bizonyítványok és oklevelek elismeréséről szóló törvényben tagállami állampolgárként és tagállam állampolgárával azonos megítélés alá eső személyként meghatározott személy;
 
-12. területi kamara: a tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló 1996. évi LVIII. törvényben (a továbbiakban: Kamtv.) meghatározott területi mérnöki vagy területi építész kamara.
+12.[^3] területi kamara: a magyar építészetről szóló 2023. évi C. törvényben (a továbbiakban: Méptv.) meghatározott területi mérnöki vagy területi építész kamara.
+
+[^3]: A 2. § 12. pontja a 286/2024. (IX. 30.) Korm. rendelet 69. § 3. pontja szerint módosított szöveg.
