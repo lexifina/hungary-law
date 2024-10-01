@@ -12,7 +12,7 @@
 
 | 6. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala |
 
-| 7. | vízjogi hatósági eljárások | illetékes vármegyei katasztrófavédelmi igazgatóság[^15] |
+| 7. | vízjogi hatósági eljárások | illetékes, vízügyi és vízvédelmi hatáskörben eljáró vármegyei kormányhivatal[^15] |
 
 | 8. | hírközlési hatósági eljárások | Nemzeti Média- és Hírközlési Hatóság |
 
@@ -20,24 +20,28 @@
 
 | 10. | talajvédelmi hatósági eljárások | Pest Vármegyei Kormányhivatal[^16] |
 
-| 11. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi engedélyezési eljárások | illetékes katasztrófavédelmi igazgatóság |
+| 11. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi engedélyezési eljárások | illetékes fővárosi és vármegyei kormányhivatal[^17] |
 
-| 12. | tűzvédelmi használati előírások és a tűzoltóságok beavatkozásával kapcsolatos követelmények alóli eltérési engedélyezési eljárások | illetékes katasztrófavédelmi igazgatóság |
+| 12. | tűzvédelmi használati előírások és a tűzoltóságok beavatkozásával kapcsolatos követelmények alóli eltérési engedélyezési eljárások | illetékes fővárosi és vármegyei kormányhivatal[^18] |
 
-| 13. | a jogszabályokban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | illetékes katasztrófavédelmi igazgatóság |
+| 13. | a jogszabályokban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | illetékes fővárosi és vármegyei kormányhivatal[^19] |
 
-| 14. | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 14.[^20] | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Budapest Főváros Kormányhivatala |
 
 | 15. | örökségvédelmi hatósági engedélyezési eljárások és régészeti feltárásokkal kapcsolatos eljárások | Budapest Főváros Kormányhivatala |
 
-| 16. | bányahatósági engedélyek | Pest Vármegyei Kormányhivatal[^17] |
+| 16. | bányahatósági engedélyek | Pest Vármegyei Kormányhivatal[^21] |
 
 | 17. | hajózási engedélyek, kikötő engedélyezése | Budapest Főváros Kormányhivatala |
 
-2. melléklet a 311/2011. (XII. 23.) Korm. rendelethez[^18]
+2. melléklet a 311/2011. (XII. 23.) Korm. rendelethez[^22]
 
 [^14]: Az 1. mellékletben foglalt táblázat D:3 mezője az 546/2022. (XII. 22.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
-[^15]: Az 1. mellékletben foglalt táblázat D:7 mezője az 546/2022. (XII. 22.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
+[^15]: Az 1. mellékletben foglalt táblázat D:7 mezője a 257/2024. (VIII. 29.) Korm. rendelet 49. § a) pontja szerint módosított szöveg.
 [^16]: Az 1. mellékletben foglalt táblázat D:10 mezője az 546/2022. (XII. 22.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
-[^17]: Az 1. mellékletben foglalt táblázat D:16 mezője az 546/2022. (XII. 22.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
-[^18]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 43. § d) pontja hatályon kívül helyezte.
+[^17]: Az 1. mellékletben foglalt táblázat D:11 mezője a 257/2024. (VIII. 29.) Korm. rendelet 49. § b) pontja szerint módosított szöveg.
+[^18]: Az 1. mellékletben foglalt táblázat D:12 mezője a 257/2024. (VIII. 29.) Korm. rendelet 49. § b) pontja szerint módosított szöveg.
+[^19]: Az 1. mellékletben foglalt táblázat D:13 mezője a 257/2024. (VIII. 29.) Korm. rendelet 49. § b) pontja szerint módosított szöveg.
+[^20]: Az 1. mellékletben foglalt táblázat 14. sora a 257/2024. (VIII. 29.) Korm. rendelet 50. §-ával megállapított szöveg.
+[^21]: Az 1. mellékletben foglalt táblázat D:16 mezője az 546/2022. (XII. 22.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^22]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 43. § d) pontja hatályon kívül helyezte.
