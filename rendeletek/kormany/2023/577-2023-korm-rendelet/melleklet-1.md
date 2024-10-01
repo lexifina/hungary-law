@@ -36,10 +36,12 @@ A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentős�
 
 17. területrendezési hatósági eljárások,
 
-18. veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások,
+18.[^2] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
 
 19. erdészeti hatósági eljárások,
 
 20. azok az 1–19. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, amelyek a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
 21. az 1–20. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^2]: Az 1. melléklet 18. pontja a 257/2024. (VIII. 29.) Korm. rendelet 361. §-a szerint módosított szöveg.
