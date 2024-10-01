@@ -14,12 +14,13 @@
 
 | 7. | Valamennyi, megvalósításhoz szükséges építmény | Természetvédelmi hatósági eljárások, engedélyek | Pest Vármegyei Kormányhivatal[^18] |
 
-| 8. | Valamennyi, megvalósításhoz szükséges építményhez kapcsolódó vízilétesítmény, illetve vízimunka | Vízjogi engedélyek | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 8.[^19] | Valamennyi, megvalósításhoz szükséges építményhez kapcsolódó vízilétesítmény, illetve vízimunka | Vízjogi engedélyek | Pest Vármegyei Kormányhivatal |
 
-2. számú melléklet a 75/2008. (IV. 3.) Korm. rendelethez[^19]
+2. számú melléklet a 75/2008. (IV. 3.) Korm. rendelethez[^20]
 
 [^15]: Az 1. számú mellékletben foglalt táblázat C:4 mezője az 546/2022. (XII. 22.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
 [^16]: Az 1. számú mellékletben foglalt táblázat C:5 mezője az 546/2022. (XII. 22.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
 [^17]: Az 1. számú mellékletben foglalt táblázat C:6 mezője a 119/2024. (VI. 10.) Korm. rendelet 4. § (2) bekezdése szerint módosított szöveg.
 [^18]: Az 1. számú mellékletben foglalt táblázat C:7 mezője az 546/2022. (XII. 22.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
-[^19]: A 2. számú mellékletet a 458/2017. (XII. 28.) Korm. rendelet 13. § f) pontja hatályon kívül helyezte.
+[^19]: Az 1. mellékletben foglalt táblázat 8. sora a 257/2024. (VIII. 29.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^20]: A 2. számú mellékletet a 458/2017. (XII. 28.) Korm. rendelet 13. § f) pontja hatályon kívül helyezte.

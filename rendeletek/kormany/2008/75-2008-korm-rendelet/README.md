@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-75-20-2
 | 2023-06-04 | 2008-75-20-22.15 | 217/2023. (VI. 1.) Korm. rendelet |
 | 2024-06-15 | 2008-75-20-22.16 | 119/2024. (VI. 10.) Korm. rendelet |
 | 2024-07-01 | 2008-75-20-22.17 | 119/2024. (VI. 10.) Korm. rendelet |
+| 2024-10-01 | 2008-75-20-22.18 | 257/2024. (VIII. 29.) Korm. rendelet |
