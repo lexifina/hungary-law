@@ -20,6 +20,8 @@ ab) fejlesztési engedély,
 
 ac) megszüntetési engedély;
 
-b) az 1. mellékletben felsorolt általános építményekre vonatkozóan az Étv. 34. §-a szerinti eljárásokban meghozott építésügyi hatósági döntések;
+b)[^2] az 1. mellékletben felsorolt általános építményekre vonatkozóan a Méptv. 162. §-a szerinti eljárásokban meghozott építésügyi hatósági döntések;
 
 c) a leszállóhelyre vonatkozó létesítési engedély.
+
+[^2]: A 2. § (2) bekezdés b) pontja a 285/2024. (IX. 30.) Korm. rendelet 200. § b) pontja szerint módosított szöveg.

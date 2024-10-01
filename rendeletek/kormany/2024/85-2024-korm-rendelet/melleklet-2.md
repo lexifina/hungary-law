@@ -260,7 +260,7 @@ d) rögzített, minden irányba világító, zöld színű fénnyel kell rendelk
 
 a) az éjszakai használatra szánt repülőtéren az akadályokat ki kell világítani, ha nem lehet rajtuk akadályfényt kihelyezni,
 
-b) az akadályt megvilágító reflektorokat úgy kell elhelyezni, hogy az a teljes akadályt megvilágítsa, és amennyire csak lehetséges, ne vakítsa el a légijármű pilótákat, és fényereje a legalább 10 cd/m2 fénysűrűséget biztosítsa,
+b) az akadályt megvilágító reflektorokat úgy kell elhelyezni, hogy az a teljes akadályt megvilágítsa, és amennyire csak lehetséges, ne vakítsa el a légijármű pilótákat, és fényereje a legalább 10 cd/m2fénysűrűséget biztosítsa,
 
 c) a megjelölendő vagy kivilágítandó tárgyakat alacsony, közepes vagy nagy intenzitású akadályfényekkel, vagy ezek kombinációjával kell jelezni,
 
