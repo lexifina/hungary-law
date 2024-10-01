@@ -1,4 +1,4 @@
-6. § (1)[^3] Az üzemelő atomerőmű létesítményei vonatkozásában a tűzvédelmi hatóság 5 éves ciklusidejű átfogó ellenőrzési ütemtervet (a továbbiakban: ütemterv) készít éves bontásban.
+6. § (1)[^4] Az üzemelő atomerőmű létesítményei vonatkozásában a tűzvédelmi hatóság 5 éves ciklusidejű átfogó ellenőrzési ütemtervet (a továbbiakban: ütemterv) készít éves bontásban.
 
 (2) Az ütemtervnek tartalmaznia kell
 
@@ -16,4 +16,4 @@ c) az ellenőrzési ciklusidőt.
 
 (6) A főjavítások időtartama alatt – reaktorblokkonként évente egy alkalommal – a tűzvédelmi hatóság célellenőrzés keretében vizsgálja a tűzvédelmi követelmények teljesülését.
 
-[^3]: A 6. § (1) bekezdése a 408/2022. (X. 24.) Korm. rendelet 29. § a) pontja szerint módosított szöveg.
+[^4]: A 6. § (1) bekezdése a 408/2022. (X. 24.) Korm. rendelet 29. § a) pontja szerint módosított szöveg.
