@@ -1,0 +1,1 @@
+10. § A szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok hatósági nyilvántartásáról és ellenőrzéséről szóló 369/2013. (X. 24.) Korm. rendelet a 6. melléklet szerinti 6. melléklettel egészül ki.
