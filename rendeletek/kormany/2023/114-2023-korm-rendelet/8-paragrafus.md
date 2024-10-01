@@ -1,1 +1,0 @@
-8. § E rendelet hatálybalépésének napján a felhasználó nyilatkozata alapján létrejött földgáz-kereskedelmi szerződés a távhőtermeléssel érintett felhasználási hely vonatkozásában az átmeneti gázévre megszűnik. A földgázkereskedő a szerződés megszűnésére tekintettel a felhasználóval szemben hátrányos jogkövetkezményt nem alkalmazhat.
