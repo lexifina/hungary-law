@@ -50,7 +50,7 @@ bb) a 20. életévét már betöltötte, de felsőoktatási intézmény nappali 
 
 bc) a 20. életévét már betöltötte, de megváltozott munkaképességű személy és ez az állapota legalább egy éve tart, vagy egy év alatt előreláthatóan nem szűnik meg;
 
-5.[^5] használt lakás: a használatbavételi engedéllyel vagy a használatbavétel tudomásulvételét igazoló hatósági bizonyítvánnyal rendelkező, ténylegesen használatba vett, újnak nem minősülő lakás;
+5.[^5] használt lakás: a használatbavételi engedéllyel rendelkező, ténylegesen használatba vett, újnak nem minősülő lakás;
 
 6.[^6]
 
@@ -64,7 +64,7 @@ bc) a 20. életévét már betöltötte, de megváltozott munkaképességű szem
 
 a) egy 12 négyzetmétert meghaladó alapterületű lakószobával,
 
-b) az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK) 8. § (2) bekezdése szerinti teljes vagy részleges közművesítettséggel,
+b)[^11] a településrendezési és építési követelményekről szóló kormányrendelet szerinti teljes vagy részleges közművesítettséggel,
 
 c) közüzemi vagy közcélú szolgáltatással igénybe vehető ivóvízellátással,
 
@@ -74,7 +74,7 @@ e) egyedi fűtési móddal
 
 rendelkezik;
 
-11.[^11] korszerűsítés: a lakás használatának javítása céljából
+11.[^12] korszerűsítés: a lakás használatának javítása céljából
 
 a) víz-, csatorna-, elektromos-, gázközmű bevezetése, vagy belső hálózatának kiépítése, fürdőszoba létesítése olyan lakásban, ahol még ilyen helyiség nincs,
 
@@ -88,7 +88,7 @@ e) a tető cseréje, felújítása, szigetelése,
 
 valamint az ezekhez közvetlenül kapcsolódó helyreállítási munka, a korszerűsítés közvetlen költségeinek 20 százalékáig;
 
-12.[^12]
+12.[^13]
 
 13. megváltozott munkaképességű személy: az a személy,
 
@@ -98,9 +98,9 @@ b) aki legalább 50 százalékos mértékű egészségkárosodást szenvedett, v
 
 c) akinek az egészségi állapota a rehabilitációs hatóság komplex minősítése alapján nem haladja meg az 50 százalékos mértéket;
 
-14.[^13] támogatott személy: aki
+14.[^14] támogatott személy: aki
 
-a)[^14] az e rendelet szerinti személyi és egyéb feltételeknek megfelel, és ezek alapján a hitelintézettel az otthonteremtési kamattámogatás nyújtására szerződést köt és
+a)[^15] az e rendelet szerinti személyi és egyéb feltételeknek megfelel, és ezek alapján a hitelintézettel az otthonteremtési kamattámogatás nyújtására szerződést köt és
 
 b) a támogatást igénylő házastársa vagy bejegyzett élettársa, kivéve ha a kérelem benyújtását megelőzően kötött vagyonjogi szerződés alapján a kamattámogatás igénybevételével érintett lakás a felek egyikének különvagyonába tartozik, és ezt a hitelintézet részére a vagyonjogi szerződés bemutatásával igazolják;
 
@@ -116,9 +116,9 @@ bb) amelyet másodízben értékesítenek természetes személy részére, felt�
 
 16. ügyleti kamat: a kamattámogatott kölcsön szerződésszerű törlesztése során a hitelező által érvényesített, a kölcsönösszeg éves százalékos mértékében meghatározott ellenszolgáltatás;
 
-17.[^15] bővítés: – a meglévő épület, épületrész vagy építmény átalakítása kivételével – az OTÉK fogalom-meghatározásának keretein belül – ideértve az építmény térfogatnövelésével nem járó tetőtér-beépítést is – a lakás hasznos alapterületének legalább egy lakószobával történő növelése érdekében végzett építési tevékenység;
+17.[^16] bővítés: – a meglévő épület, épületrész vagy építmény átalakítása kivételével – a magyar építészetről szóló 2023. évi C. törvény (a továbbiakban: Méptv.) fogalom-meghatározásának keretein belül – ideértve az építmény térfogatnövelésével nem járó tetőtér-beépítést is – a lakás hasznos alapterületének legalább egy lakószobával történő növelése érdekében végzett építési tevékenység;
 
-18.[^16] hasznos alapterület: az OTÉK fogalom-meghatározásának keretein belül a következő helyiségek alapterületének összege, amelyek a lakáson mint önálló rendeltetési egységen belül tálalhatók:
+18.[^17] hasznos alapterület: a Méptv. fogalom-meghatározásának keretein belül a következő helyiségek alapterületének összege, amelyek a lakáson mint önálló rendeltetési egységen belül tálalhatók:
 
 a) előszoba, közlekedő,
 
@@ -144,21 +144,21 @@ k) kazánhelyiség és
 
 l) egyéb fűthető helyiség, ide nem értve a gépjárműtárolót és a pinceszinti helyiséget;
 
-19.[^17] hitelígérvény: a kölcsönszerződés előre meghatározott jövőbeni időpontban vagy feltételek bekövetkezésekor történő megkötésére vonatkozó kötelezettségvállalás.
+19.[^18] hitelígérvény: a kölcsönszerződés előre meghatározott jövőbeni időpontban vagy feltételek bekövetkezésekor történő megkötésére vonatkozó kötelezettségvállalás.
 
-20.[^18] nem támogatott személy hiteladós: az otthonteremtési kamattámogatással érintett kölcsönszerződés olyan adóstársa, aki a támogatott személyek legalább egyikének a Polgári Törvénykönyv (a továbbiakban: Ptk.) szerinti közeli hozzátartozója és a 2. § (3) bekezdése szerinti feltételeket teljesíti;
+20.[^19] nem támogatott személy hiteladós: az otthonteremtési kamattámogatással érintett kölcsönszerződés olyan adóstársa, aki a támogatott személyek legalább egyikének a Polgári Törvénykönyv (a továbbiakban: Ptk.) szerinti közeli hozzátartozója és a 2. § (3) bekezdése szerinti feltételeket teljesíti;
 
-21.[^19] igénylő: olyan támogatott személy, aki otthonteremtési kamattámogatás igénybevétele iránt kérelmet nyújtott be a hitelintézethez, azonban az otthonteremtési kamattámogatással érintett kölcsönszerződésének megkötésére még nem került sor;
+21.[^20] igénylő: olyan támogatott személy, aki otthonteremtési kamattámogatás igénybevétele iránt kérelmet nyújtott be a hitelintézethez, azonban az otthonteremtési kamattámogatással érintett kölcsönszerződésének megkötésére még nem került sor;
 
-22.[^20] lakás: az OTÉK rendelkezéseinek megfelelő, az ingatlan-nyilvántartásban lakóház vagy lakás megnevezéssel nyilvántartott vagy – új lakás építése esetén – ilyenként feltüntetésre váró ingatlan a hozzá tartozó földrészlettel;
+22.[^21] lakás: a településrendezési és építési követelményekről szóló kormányrendelet rendelkezéseinek megfelelő, az ingatlan-nyilvántartásban lakóház vagy lakás megnevezéssel nyilvántartott vagy – új lakás építése esetén – ilyenként feltüntetésre váró ingatlan a hozzá tartozó földrészlettel;
 
-23.[^21] kormányhivatal: a lakáscélú állami támogatásokkal kapcsolatos feladatkörében eljáró, a támogatott lakás fekvése szerint illetékes vármegyei kormányhivatal, Pest vármegye és a főváros területén fekvő támogatott lakás esetén Budapest Főváros Kormányhivatala;
+23.[^22] kormányhivatal: a lakáscélú állami támogatásokkal kapcsolatos feladatkörében eljáró, a támogatott lakás fekvése szerint illetékes vármegyei kormányhivatal, Pest vármegye és a főváros területén fekvő támogatott lakás esetén Budapest Főváros Kormányhivatala;
 
-24.[^22] összkomfortos lakás: az a lakás, amely legalább
+24.[^23] összkomfortos lakás: az a lakás, amely legalább
 
 a) egy 12 négyzetmétert meghaladó alapterületű lakószobával,
 
-b) az OTÉK 8. § (2) bekezdése szerinti teljes közművesítettséggel,
+b)[^24] a településrendezési és építési követelményekről szóló kormányrendelet szerinti teljes közművesítettséggel,
 
 c) közüzemi vagy közcélú szolgáltatással igénybe vehető ivóvízellátással,
 
@@ -168,33 +168,35 @@ e) központi fűtési móddal
 
 rendelkezik;
 
-25.[^23] építési engedély: az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény (a továbbiakban: Étv.) szerinti építési engedély vagy a lakóépület építésének egyszerű bejelentéséről szóló 155/2016. (VI. 13.) Korm. rendelet [a továbbiakban: 155/2016. (VI. 13.) Korm. rendelet] 1. § (2) bekezdése szerinti visszaigazolás;
+25.[^25] építési engedély: a végleges építési engedély vagy a lakóépület építésének egyszerű bejelentéséről szóló 155/2016. (VI. 13.) Korm. rendelet [a továbbiakban: 155/2016. (VI. 13.) Korm. rendelet] 1. § (2) bekezdése szerinti visszaigazolás vagy a 2024. szeptember 30-át követően új lakóépületre tett egyszerű bejelentés tudomásulvételéről az építésügyi hatóság által kiállított dokumentum;
 
-26.[^24] használatbavétel tudomásulvétele: a használatbavétel tudomásulvétele vagy a felépítés megtörténtének hatósági bizonyítvánnyal való tanúsítása.
+26.[^26] használatbavételi engedély: a használatbavételi engedély, a használatbavétel tudomásulvételéről az építésügyi hatóság által kiállított dokumentum vagy a felépítés megtörténtét tanúsító hatósági bizonyítvány.
 
-(2)[^25] Az e rendeletben meg nem határozott fogalmakat a Ptk.-ban, az Étv.-ben, a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben és az országos településrendezési és az építési követelményekről szóló kormányrendeletben meghatározottak szerint kell értelmezni.
+(2)[^27] Az e rendeletben meg nem határozott fogalmakat a Ptk.-ban, a Méptv.-ben, a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben és a településrendezési és építési követelményekről szóló kormányrendeletben meghatározottak szerint kell értelmezni.
 
 [^2]: Az 1. § (1) bekezdés 2. pontját a 331/2014. (XII. 18.) Korm. rendelet 44. § a) pontja hatályon kívül helyezte.
 [^3]: Az 1. § (1) bekezdés 3. pontját a 331/2014. (XII. 18.) Korm. rendelet 44. § a) pontja hatályon kívül helyezte.
 [^4]: Az 1. § (1) bekezdés 4. pontja a 455/2015. (XII. 29.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
-[^5]: Az 1. § (1) bekezdés 5. pontja a 128/2013. (IV. 30.) Korm. rendelet 21. § a) pontja szerint módosított szöveg.
+[^5]: Az 1. § (1) bekezdés 5. pontja a 128/2013. (IV. 30.) Korm. rendelet 21. § a) pontja, a 285/2024. (IX. 30.) Korm. rendelet 69. § a) pontja szerint módosított szöveg.
 [^6]: Az 1. § (1) bekezdés 6. pontját a 331/2014. (XII. 18.) Korm. rendelet 44. § a) pontja hatályon kívül helyezte.
 [^7]: Az 1. § (1) bekezdés 7. pontja a 46/2015. (III. 12.) Korm. rendelet 8. § d) pontja szerint módosított szöveg.
 [^8]: Az 1. § (1) bekezdés 8. pontját a 331/2014. (XII. 18.) Korm. rendelet 44. § a) pontja hatályon kívül helyezte.
 [^9]: Az 1. § (1) bekezdés 9. pontját a 331/2014. (XII. 18.) Korm. rendelet 44. § a) pontja hatályon kívül helyezte.
 [^10]: Az 1. § (1) bekezdés 10. pontja a 455/2015. (XII. 29.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.
-[^11]: Az 1. § (1) bekezdés 11. pont nyitó szövegrésze az 537/2013. (XII. 30.) Korm. rendelet 74. § a) pontja szerint módosított szöveg.
-[^12]: Az 1. § (1) bekezdés 12. pontját a 331/2014. (XII. 18.) Korm. rendelet 44. § a) pontja hatályon kívül helyezte.
-[^13]: Az 1. § (1) bekezdés 14. pontja a 128/2013. (IV. 30.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^14]: Az 1. § (1) bekezdés 14. pont a) pontja az 537/2013. (XII. 30.) Korm. rendelet 74. § b) pontja szerint módosított szöveg.
-[^15]: Az 1. § (1) bekezdés 17. pontját a 379/2012. (XII. 19.) Korm. rendelet 32. §-a iktatta be, szövege a 128/2013. (IV. 30.) Korm. rendelet 21. § b) pontja szerint módosított szöveg.
-[^16]: Az 1. § (1) bekezdés 18. pontját a 379/2012. (XII. 19.) Korm. rendelet 32. §-a iktatta be, szövege a 455/2015. (XII. 29.) Korm. rendelet 19. § (3) bekezdésével megállapított szöveg.
-[^17]: Az 1. § (1) bekezdés 19. pontját a 379/2012. (XII. 19.) Korm. rendelet 32. §-a ikatta be.
-[^18]: Az 1. § (1) bekezdés 20. pontját az 537/2013. (XII. 30.) Korm. rendelet 68. §-a iktatta be.
-[^19]: Az 1. § (1) bekezdés 21. pontját az 537/2013. (XII. 30.) Korm. rendelet 68. §-a iktatta be.
-[^20]: Az 1. § (1) bekezdés 22. pontját a 331/2014. (XII. 18.) Korm. rendelet 34. §-a iktatta be.
-[^21]: Az 1. § (1) bekezdés 23. pontját a 70/2015. (III. 30.) Korm. rendelet 187. § (1) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 97. § (1) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 134. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 134. § b) pontja szerint módosított szöveg.
-[^22]: Az 1. § (1) bekezdés 24. pontját a 70/2015. (III. 30.) Korm. rendelet 187. § (1) bekezdése iktatta be, szövege a 455/2015. (XII. 29.) Korm. rendelet 19. § (4) bekezdésével megállapított szöveg.
-[^23]: Az 1. § (1) bekezdés 25. pontját a 455/2015. (XII. 29.) Korm. rendelet 19. § (5) bekezdése iktatta be, szövege a 482/2016. (XII. 28.) Korm. rendelet 22. §-ával megállapított szöveg.
-[^24]: Az 1. § (1) bekezdés 26. pontját a 455/2015. (XII. 29.) Korm. rendelet 19. § (5) bekezdése iktatta be.
-[^25]: Az 1. § (2) bekezdése az 537/2013. (XII. 30.) Korm. rendelet 74. § c) pontja, a 455/2015. (XII. 29.) Korm. rendelet 25. § b) pontja szerint módosított szöveg.
+[^11]: Az 1. § (1) bekezdés 10. pont b) alpontja a 285/2024. (IX. 30.) Korm. rendelet 68. § a) pontja szerint módosított szöveg.
+[^12]: Az 1. § (1) bekezdés 11. pont nyitó szövegrésze az 537/2013. (XII. 30.) Korm. rendelet 74. § a) pontja szerint módosított szöveg.
+[^13]: Az 1. § (1) bekezdés 12. pontját a 331/2014. (XII. 18.) Korm. rendelet 44. § a) pontja hatályon kívül helyezte.
+[^14]: Az 1. § (1) bekezdés 14. pontja a 128/2013. (IV. 30.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^15]: Az 1. § (1) bekezdés 14. pont a) pontja az 537/2013. (XII. 30.) Korm. rendelet 74. § b) pontja szerint módosított szöveg.
+[^16]: Az 1. § (1) bekezdés 17. pontját a 379/2012. (XII. 19.) Korm. rendelet 32. §-a iktatta be, szövege a 128/2013. (IV. 30.) Korm. rendelet 21. § b) pontja, a 285/2024. (IX. 30.) Korm. rendelet 68. § b) pontja szerint módosított szöveg.
+[^17]: Az 1. § (1) bekezdés 18. pontját a 379/2012. (XII. 19.) Korm. rendelet 32. §-a iktatta be, szövege a 455/2015. (XII. 29.) Korm. rendelet 19. § (3) bekezdésével megállapított, nyitó szövegrésze a 285/2024. (IX. 30.) Korm. rendelet 68. § c) pontja szerint módosított szöveg.
+[^18]: Az 1. § (1) bekezdés 19. pontját a 379/2012. (XII. 19.) Korm. rendelet 32. §-a ikatta be.
+[^19]: Az 1. § (1) bekezdés 20. pontját az 537/2013. (XII. 30.) Korm. rendelet 68. §-a iktatta be.
+[^20]: Az 1. § (1) bekezdés 21. pontját az 537/2013. (XII. 30.) Korm. rendelet 68. §-a iktatta be.
+[^21]: Az 1. § (1) bekezdés 22. pontját a 331/2014. (XII. 18.) Korm. rendelet 34. §-a iktatta be, szövege a 285/2024. (IX. 30.) Korm. rendelet 68. § d) pontja szerint módosított szöveg.
+[^22]: Az 1. § (1) bekezdés 23. pontját a 70/2015. (III. 30.) Korm. rendelet 187. § (1) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 97. § (1) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 134. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 134. § b) pontja szerint módosított szöveg.
+[^23]: Az 1. § (1) bekezdés 24. pontját a 70/2015. (III. 30.) Korm. rendelet 187. § (1) bekezdése iktatta be, szövege a 455/2015. (XII. 29.) Korm. rendelet 19. § (4) bekezdésével megállapított szöveg.
+[^24]: Az 1. § (1) bekezdés 24. pont b) alpontja a 285/2024. (IX. 30.) Korm. rendelet 68. § e) pontja szerint módosított szöveg.
+[^25]: Az 1. § (1) bekezdés 25. pontját a 455/2015. (XII. 29.) Korm. rendelet 19. § (5) bekezdése iktatta be, szövege a 285/2024. (IX. 30.) Korm. rendelet 66. §-ával megállapított szöveg.
+[^26]: Az 1. § (1) bekezdés 26. pontját a 455/2015. (XII. 29.) Korm. rendelet 19. § (5) bekezdése iktatta be, szövege a 285/2024. (IX. 30.) Korm. rendelet 66. §-ával megállapított szöveg.
+[^27]: Az 1. § (2) bekezdése az 537/2013. (XII. 30.) Korm. rendelet 74. § c) pontja, a 455/2015. (XII. 29.) Korm. rendelet 25. § b) pontja, a 285/2024. (IX. 30.) Korm. rendelet 68. § f) pontja szerint módosított szöveg.

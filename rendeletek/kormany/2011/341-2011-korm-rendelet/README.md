@@ -37,3 +37,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-341-20-
 | 2023-05-13 | 2011-341-20-22.29 | 169/2023. (V. 12.) Korm. rendelet |
 | 2023-07-01 | 2011-341-20-22.30 | 169/2023. (V. 12.) Korm. rendelet |
 | 2024-03-01 | 2011-341-20-22.31 | 35/2024. (II. 29.) Korm. rendelet |
+| 2024-10-01 | 2011-341-20-22.32 | 379/2012. (XII. 19.) Korm. rendelet |
