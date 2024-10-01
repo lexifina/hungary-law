@@ -44,8 +44,10 @@ A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból 
 
 21. fásszárú növények kivágásához szükséges engedélyezési eljárások,
 
-22. veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások,
+22.[^9] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
 
 23. azok az 1–22. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, melyek a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
 24. az 1–23. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^9]: Az 1. melléklet 22. pontja a 257/2024. (VIII. 29.) Korm. rendelet 336. §-a szerint módosított szöveg.
