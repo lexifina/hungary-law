@@ -1,6 +1,0 @@
-## 79. §[^218] Az állományilletékes parancsnok által kijelölt személy a katasztrófavédelemmel összefüggő feladatok végrehajtásában történő közreműködés alapján a honvéd altiszt-jelölt részére meghatározott feladatok végrehajtásáról részletes nyilvántartást vezet. A 9. melléklet IV. pontja szerinti katasztrófavédelmi pótlék a katasztrófavédelmi feladat lezárultát követően kerül elszámolásra. Az elszámolás során minden megkezdett naptári nap teljes napnak minősül.
-
-79/A. §[^219] A honvéd altiszt-jelölt a Hvt. 59. § (1) bekezdés i) pontja szerinti feladat végrehajtásáért pótlékra jogosult. A pótlék mértékére a 9. melléklet IV. pontját kell alkalmazni. A pótlék alapját képező tevékenység nyilvántartására, valamint a pótlék megállapítására a 79. §-ban foglaltakat kell alkalmazni azzal, hogy katasztrófavédelemmel összefüggő feladat alatt a Hvt. 59. § (1) bekezdés i) pontja szerinti feladatot kell érteni.
-
-[^218]: A 79. § az 1/2020. (I. 17.) HM rendelet 9. § g) pontja szerint módosított szöveg.
-[^219]: A 79/A. §-t a 9/2016. (VI. 29.) HM rendelet 17. §-a iktatta be, szövege a 16/2016. (VIII. 31.) HM rendelet 15. § b) pontja, az 1/2020. (I. 17.) HM rendelet 9. § h) pontja, a 23/2022. (XII. 28.) HM rendelet 1. § c) pontja szerint módosított szöveg.

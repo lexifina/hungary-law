@@ -1,1 +1,0 @@
-## 71. § Az egyszeri pénzjuttatás összegének kiszámításánál a hajózó- vagy ejtőernyős napló adatait kell alapul venni. A kifizetett egyszeri pénzjuttatás összegét, a kifizetés időpontját, valamint az elszámolt időszakot a hajózó- vagy ejtőernyős naplóba be kell jegyezni.
