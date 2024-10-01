@@ -1,3 +1,1 @@
-2. §[^2]
-
-[^2]: A 2. § a 4. § (2) bekezdése alapján 2024. október 1-jén lép hatályba.
+2. § A Rendelet 1. melléklete a 2. melléklet szerint módosul.
