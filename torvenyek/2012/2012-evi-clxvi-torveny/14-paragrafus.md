@@ -2,7 +2,7 @@
 
 14. § Felhatalmazást kap a Kormány, hogy rendeletben
 
-a) jelölje ki az ágazati kijelölő hatóságot, a javaslattevő hatóságot, a helyszíni ellenőrzést lefolytató szervet, a 8. § (2) bekezdése szerinti ellenőrzést koordináló szervet,
+a) jelölje ki az ágazati kijelölő hatóságot, a javaslattevő hatóságot, a helyszíni és a komplex ellenőrzést lefolytató szervet és a 8. § (1) és (2) bekezdése szerinti ellenőrzést koordináló szervet,
 
 b) állapítsa meg az azonosítási vizsgálat, a kijelölési eljárás és a hatósági ellenőrzés általános és az ágazatokra vonatkozó különös szabályait, állapítsa meg a kijelölés visszavonására vonatkozó eljárási szabályokat,
 

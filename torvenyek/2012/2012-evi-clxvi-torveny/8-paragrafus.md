@@ -1,4 +1,4 @@
-8. § (1) A hivatásos katasztrófavédelmi szerv központi szerve – a (2) bekezdésben meghatározott kivétellel – az ellenőrzést koordináló szerv. A hivatásos katasztrófavédelmi szerv központi szerve az európai létfontosságú rendszerelemet vagy a nemzeti létfontosságú rendszerelemet rendszeresen ellenőrzi.
+8. § (1) Az európai létfontosságú rendszerelem vagy a nemzeti létfontosságú rendszerelem jogszabályban és kijelölő döntésben meghatározott kötelezettségének teljesítését rendszeresen ellenőrizni kell. Az ellenőrzést a Kormány által kijelölt, ellenőrzést koordináló szerv hangolja össze.
 
 (2) A honvédelmi létfontosságú rendszerelemek és a hivatásos katasztrófavédelmi szerv létfontosságú rendszerelemei tekintetében az ellenőrzést koordináló szervet és a helyszíni ellenőrzést lefolytató szervet a Kormány rendeletben jelöli ki.
 
@@ -12,13 +12,13 @@
 
 (7) Az ágazati kijelölő hatóság és az ellenőrzést koordináló szerv az európai létfontosságú rendszerelemnél vagy nemzeti létfontosságú rendszerelemnél a komplex, valamint a helyszíni ellenőrzés keretében ellenőrizheti azt is, hogy a biztonsági összekötő büntetlen előéletű-e, amely érdekében adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag arra irányulhat, hogy a biztonsági összekötő büntetlen előéletű-e.
 
-(8) A helyszíni ellenőrzést lefolytató szerv és az (1) bekezdés szerinti esetben a hivatásos katasztrófavédelmi szerv központi szerve a (7) bekezdés alapján megismert személyes adatokat – ha a hatósági ellenőrzése során azt állapítja meg, hogy a biztonsági összekötő a büntetlen előélet követelményének nem felel meg – a 9. § szerinti eljárás lefolytatása céljából az ágazati kijelölő hatóságnak átadja.
+(8) A helyszíni ellenőrzést lefolytató szerv és az (1) bekezdés szerinti esetben a Kormány által kijelölt, ellenőrzést koordináló szerv a (7) bekezdés alapján megismert személyes adatokat – ha a hatósági ellenőrzése során azt állapítja meg, hogy a biztonsági összekötő a büntetlen előélet követelményének nem felel meg – a 9. § szerinti eljárás lefolytatása céljából az ágazati kijelölő hatóságnak átadja.
 
 (9) A (7) és a (8) bekezdés alapján megismert személyes adatokat
 
 a) a helyszíni ellenőrzést lefolytató szerv a helyszíni ellenőrzés, valamint az ágazati kijelölő hatóságnak történő adattovábbítás időtartamára,
 
-b) az (1) bekezdés szerinti esetben a hivatásos katasztrófavédelmi szerv központi szerve a hatósági ellenőrzés, valamint az ágazati kijelölő hatóságnak történő adattovábbítás időtartamára,
+b) a Kormány által kijelölt szerv a hatósági ellenőrzés, valamint az ágazati kijelölő hatóságnak történő adattovábbítás időtartamára,
 
 c) az ágazati kijelölő hatóság a 9. § szerinti eljárásban a hatósági ellenőrzés időtartamára, valamint a 9. § szerinti határozat véglegessé válásáig
 

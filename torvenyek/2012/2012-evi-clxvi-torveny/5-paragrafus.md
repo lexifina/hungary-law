@@ -40,7 +40,7 @@ d) az európai létfontosságú rendszerelem vagy a nemzeti létfontosságú ren
 
 e) rendkívüli esemény bekövetkezése esetén az eseménykezelésben és a helyreállításban részt vevő szervek tevékenységének támogatása céljából,
 
-f) a hivatásos katasztrófavédelmi szerv területi és helyi szervei részére hatósági, megelőzési, kapcsolattartási és tájékoztatási feladatai elvégzése, illetve rendkívüli esemény kezelése céljából,
+f) a Kormány rendeletében kijelölt szerv részére hatósági, megelőzési, kapcsolattartási és tájékoztatási feladatai elvégzése, illetve rendkívüli esemény kezelése céljából,
 
 g) az állami és önkormányzati szervek elektronikus információbiztonságáról szóló törvény (a továbbiakban: Ibtv.) 2. § (5) bekezdése és 14. § (1) bekezdése szerinti hatóság, az Európai Parlament és a Tanács 2016. július 6-i (EU) 2016/1148 irányelve alapján kormányrendeletben kijelölt egyedüli kapcsolattartó pont, valamint az Ibtv. 19. § (1) és (2) bekezdése szerinti eseménykezelő központ részére feladataik ellátása céljából,
 
@@ -53,6 +53,8 @@ j) az egységes digitális rádiótávközlő rendszer (a továbbiakban: EDR) ko
 k) nemzetbiztonsági, valamint terrorelhárítási érdekből, külön, a feladatellátásért felelős szerv által benyújtott, indokolt kérelem alapján.
 
 l) polgári védelmi kötelezettség megállapítása esetén a helyi önkormányzat polgármesterének a kritikus munkakörben foglalkoztatott személy státuszának igazolása céljából.
+
+m) a hivatásos katasztrófavédelmi szerv központi, területi és helyi szervei megelőzési, kapcsolattartási és tájékoztatási feladatai elvégzése, illetve rendkívüli esemény kezelése céljából,
 
 (5) Az európai létfontosságú rendszerelem vagy a nemzeti létfontosságú rendszerelem adatait a nyilvántartó hatóság, valamint a kijelölési eljárásban érintett valamennyi hatóság az ágazati kijelölő hatóság rendszerelem kijelölése visszavonásáról szóló határozatának véglegessé válása után 30 napon belül a nyilvántartásból törli és erről az üzemeltetőt írásban értesíti.
 
