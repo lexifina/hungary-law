@@ -26,7 +26,7 @@ c) erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület
 
 (6) A (4)–(5) bekezdés szerinti földcseréhez, valamint vagyonátruházáshoz az erdő védelmi rendeltetése szerint feladat- és hatáskörrel rendelkező miniszter egyetértése szükséges.
 
-(7) Az állam 100%-os tulajdonában álló, erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület művelés alól kivett területként nyilvántartott önálló ingatlanként akkor alakítható ki, ha a megosztás eredményeként létrejött ingatlan területe legalább 500 m2 és a megosztás megfelel az épített környezet alakításáról és védelméről szóló törvényben és annak végrehajtására kiadott rendeletben meghatározott előírásoknak. Az így létrejött ingatlant az Adattárból törölni kell.
+(7) Az állam 100%-os tulajdonában álló, erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület művelés alól kivett területként nyilvántartott önálló ingatlanként akkor alakítható ki, ha a megosztás eredményeként létrejött ingatlan területe legalább 500 m2 és a megosztás megfelel a magyar építészetről szóló törvényben és annak végrehajtására kiadott rendeletben meghatározott előírásoknak. Az így létrejött ingatlant az Adattárból törölni kell.
 
 (8) Az állami birtokszerkezet javításának elősegítése érdekében végrehajtott birtokösszevonási célú földcsere továbbá csere esetén a védelmi és közjóléti rendeltetésű erdők állami tulajdonba kerülését előnyben kell részesíteni.
 
