@@ -16,7 +16,7 @@ Az ellenőrzött bejelentés alkalmazásából kizárt ügyek
 
 6. Külföldiek ingatlanszerzésének engedélyezése
 
-7. Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 54. § (5g)–(5h) bekezdése szerinti, az ott meghatározott állami ünnep megtartásával összefüggő, a IV/A. Fejezete szerinti ügyek, a nemzetgazdasági szempontból kiemelt jelentőségűvé nyilvánított beruházásokkal összefüggő engedélyezési eljárások
+7.[^3] A magyar építészetről szóló 2023. évi C. törvény (a továbbiakban: Méptv.) 174. § (10)–(11) bekezdése szerinti, az ott meghatározott állami ünnep megtartásával összefüggő, a Méptv. 33. alcíme szerinti ügyek, a nemzetgazdasági szempontból kiemelt jelentőségűvé nyilvánított, valamint a Méptv. 193. §-a szerinti kiemelt beruházásokkal összefüggő engedélyezési eljárások
 
 8. Kisajátítási eljárások, kisajátítást megelőző előmunkálati engedélyezési eljárások, bányaszolgalmi ügyek, valamint útlejegyzésre és korlátozásra, kártalanításra irányuló ügyek
 
@@ -42,8 +42,9 @@ Az ellenőrzött bejelentés alkalmazásából kizárt ügyek
 
 19. Az atomenergiáról szóló 1996. évi CXVI. törvény szerinti hatósági eljárások
 
-20.[^3] Köznevelési nyilvántartásba vételi és engedélyezési eljárások
+20.[^4] Köznevelési nyilvántartásba vételi és engedélyezési eljárások
 
 [^1]: A 3. §-t a 259/2021. (V. 20.) Korm. rendelet 48. §-a iktatta be.
 [^2]: Az 1. melléklet az 561/2023. (XII. 14.) Korm. rendelet 49. §-ával megállapított szöveg.
-[^3]: Az 1. melléklet 20. pontja a 201/2024. (VII. 29.) Korm. rendelet 10. §-a szerint módosított szöveg.
+[^3]: Az 1. melléklet 7. pontja a 285/2024. (IX. 30.) Korm. rendelet 145. §-ával megállapított szöveg.
+[^4]: Az 1. melléklet 20. pontja a 201/2024. (VII. 29.) Korm. rendelet 10. §-a szerint módosított szöveg.
