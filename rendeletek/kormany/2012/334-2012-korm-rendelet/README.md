@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-334-20-
 | 2017-01-01 | 2012-334-20-22.4 | 72/2015. (III. 30.) Korm. rendelet |
 | 2018-01-01 | 2012-334-20-22.5 | 458/2017. (XII. 28.) Korm. rendelet |
 | 2022-12-23 | 2012-334-20-22.6 | 72/2015. (III. 30.) Korm. rendelet |
+| 2024-10-01 | 2012-334-20-22.7 | 271/2016. (IX. 1.) Korm. rendelet |
