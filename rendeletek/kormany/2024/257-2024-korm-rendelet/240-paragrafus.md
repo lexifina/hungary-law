@@ -1,0 +1,1 @@
+240. § Hatályát veszti az Egészséges Budapest Program megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 98/2017. (IV. 27.) Korm. rendelet 2. § (2) bekezdése.

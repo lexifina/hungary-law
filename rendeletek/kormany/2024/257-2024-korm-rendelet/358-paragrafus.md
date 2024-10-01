@@ -1,0 +1,3 @@
+## 265. A Magyarország földgázkitermelésének növelésére irányuló egyes beruházások megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé és a beruházások kiemelten közérdekű beruházássá nyilvánításáról szóló 102/2023. (III. 29.) Korm. rendelet módosítása
+
+358. § A Magyarország földgázkitermelésének növelésére irányuló egyes beruházások megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé és a beruházások kiemelten közérdekű beruházássá nyilvánításáról szóló 102/2023. (III. 29.) Korm. rendelet 1. melléklet 26. pontjában a „katasztrófavédelmi” szövegrész helyébe az „iparbiztonsági” szöveg lép.

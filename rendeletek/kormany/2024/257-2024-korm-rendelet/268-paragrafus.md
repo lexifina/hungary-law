@@ -1,0 +1,3 @@
+## 187. Kaposvár Megyei Jogú Város területén megvalósuló napelemes erőmű létrehozására irányuló beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 322/2017. (XI. 8.) Korm. rendelet módosítása
+
+268. § A Kaposvár Megyei Jogú Város területén megvalósuló napelemes erőmű létrehozására irányuló beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 322/2017. (XI. 8.) Korm. rendelet 1. melléklet 21. pontjában a „katasztrófavédelmi” szövegrész helyébe az „iparbiztonsági” szöveg lép.

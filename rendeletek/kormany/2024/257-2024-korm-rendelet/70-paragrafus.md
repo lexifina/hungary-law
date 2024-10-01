@@ -1,0 +1,3 @@
+## 39. A sík- és dombvidéki tározók létesítéséhez és rekonstrukciójához kapcsolódó beruházások megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 12/2013. (I. 22.) Korm. rendelet módosítása
+
+70. § A sík- és dombvidéki tározók létesítéséhez és rekonstrukciójához kapcsolódó beruházások megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 12/2013. (I. 22.) Korm. rendelet 2. mellékletében foglalt táblázat B:2 mezőjében a „vármegyei katasztrófavédelmi igazgatóság” szövegrész helyébe a „ , vízügyi és vízvédelmi hatáskörben eljáró vármegyei kormányhivatal” szöveg lép.

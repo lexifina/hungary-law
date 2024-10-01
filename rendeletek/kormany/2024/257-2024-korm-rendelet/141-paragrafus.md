@@ -1,0 +1,3 @@
+## 76. A Magyar Testgyakorlók Köre Budapest létesítményfejlesztési programja részét képező beruházások megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 269/2014. (XI. 4.) Korm. rendelet módosítása
+
+141. § A Magyar Testgyakorlók Köre Budapest létesítményfejlesztési programja részét képező beruházások megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 269/2014. (XI. 4.) Korm. rendelet 1. melléklete a 44. melléklet szerint módosul.

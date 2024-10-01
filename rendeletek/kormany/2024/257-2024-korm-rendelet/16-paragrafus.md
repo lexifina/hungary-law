@@ -1,0 +1,3 @@
+## 13. A „Ráckevei (Soroksári) – Duna-ág (RSD) vízgazdálkodásának, vízminőségének javítása” tárgyú projekt megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 78/2009. (IV. 8.) Korm. rendelet módosítása
+
+16. § A „Ráckevei (Soroksári) – Duna-ág (RSD) vízgazdálkodásának, vízminőségének javítása” tárgyú projekt megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 78/2009. (IV. 8.) Korm. rendelet 1. számú mellékletében foglalt táblázat D:3, D:5, D:8, D:10, D:13, D:15 mezőjében a „vármegyei katasztrófavédelmi igazgatóság” szövegrész helyébe a „ , vízügyi és vízvédelmi hatáskörben eljáró vármegyei kormányhivatal” szöveg lép.

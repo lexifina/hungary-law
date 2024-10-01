@@ -1,0 +1,3 @@
+## 186. A Budapest XIII. kerületében megvalósuló, az OTP Bankcsoport új irodaházának megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 318/2017. (XI. 7.) Korm. rendelet módosítása
+
+267. § A Budapest XIII. kerületében megvalósuló, az OTP Bankcsoport új irodaházának megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 318/2017. (XI. 7.) Korm. rendelet 1. melléklet 20. pontjában a „katasztrófavédelmi” szövegrész helyébe az „iparbiztonsági” szöveg lép.

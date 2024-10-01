@@ -1,0 +1,1 @@
+314. § Hatályát veszti a Citadella erőd és környezete megújításához és értékőrző fenntartásához szükséges beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint az eljáró hatóságok kijelöléséről szóló 339/2020. (VII. 10.) Korm. rendelet 1. § (2) bekezdés b) és c) pontja.

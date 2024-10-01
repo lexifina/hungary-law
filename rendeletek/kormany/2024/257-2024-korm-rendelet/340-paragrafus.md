@@ -1,0 +1,3 @@
+## 249. A magyar–román határszakaszon Elek–Ottlaka és Dombegyház–Kisvarjas között tervezett közúti határátkelőhelyek létrehozásával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 494/2021. (VIII. 16.) Korm. rendelet módosítása
+
+340. § A magyar–román határszakaszon Elek–Ottlaka és Dombegyház–Kisvarjas között tervezett közúti határátkelőhelyek létrehozásával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 494/2021. (VIII. 16.) Korm. rendelet 1. melléklet 19. pontjában a „katasztrófavédelmi” szövegrész helyébe az „iparbiztonsági” szöveg lép.

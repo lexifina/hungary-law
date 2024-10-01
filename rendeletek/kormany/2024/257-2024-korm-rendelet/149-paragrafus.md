@@ -1,0 +1,1 @@
+149. § Az Esterházy-kastélyegyüttes rekonstrukciójával összefüggő beruházásokkal kapcsolatos közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 394/2014. (XII. 31.) Korm. rendelet 1. melléklete a 48. melléklet szerint módosul.

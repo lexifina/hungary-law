@@ -1,0 +1,3 @@
+## 161. A Készenléti Rendőrség Nemzeti Nyomozó Iroda épületének kialakítására irányuló beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 109/2017. (IV. 28.) Korm. rendelet módosítása
+
+241. § A Készenléti Rendőrség Nemzeti Nyomozó Iroda épületének kialakítására irányuló beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 109/2017. (IV. 28.) Korm. rendelet 1. melléklet 7. pontjában a „katasztrófavédelmi” szövegrész helyébe az „iparbiztonsági” szöveg lép.

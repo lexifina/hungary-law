@@ -1,0 +1,3 @@
+38. § A veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésről szóló 219/2011. (X. 20.) Korm. rendelet 40. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) A súlyos káresemény elhárítási terv gyakorlatot háromévente legalább egy alkalommal az iparbiztonsági hatóság a hivatásos katasztrófavédelmi szerv területi szerve bevonásával, helyszíni szemlével ellenőrzi és értékeli. Ha a gyakorlatot nem megfeleltnek értékelik, az iparbiztonsági hatóság határidő megjelölésével a súlyos káresemény elhárítási terv gyakorlat ismételt végrehajtására kötelezi a küszöbérték alatti üzem üzemeltetőjét.”

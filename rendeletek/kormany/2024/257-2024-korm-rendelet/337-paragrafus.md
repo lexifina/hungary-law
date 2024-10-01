@@ -1,0 +1,1 @@
+337. § Hatályát veszti a Dél-budai Centrumkórház létesítésével összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé és a beruházás kiemelten közérdekűvé nyilvánításáról szóló 262/2021. (V. 20.) Korm. rendelet 2. § (2) bekezdése.

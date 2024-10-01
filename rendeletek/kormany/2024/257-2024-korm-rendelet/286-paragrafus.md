@@ -1,0 +1,3 @@
+## 203. A Magyar Tudományos Akadémia Kísérleti Orvostudományi Kutatóintézet kutatóházának beruházásával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 51/2018. (III. 19.) Korm. rendelet módosítása
+
+286. § A Magyar Tudományos Akadémia Kísérleti Orvostudományi Kutatóintézet kutatóházának beruházásával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 51/2018. (III. 19.) Korm. rendelet 1. melléklet 13. pontjában a „katasztrófavédelmi” szövegrész helyébe az „iparbiztonsági” szöveg lép.

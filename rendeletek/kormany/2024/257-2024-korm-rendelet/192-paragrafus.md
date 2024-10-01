@@ -1,0 +1,3 @@
+## 115. A Samsung SDI Magyarország Gyártó és Értékesítő Zártkörűen Működő Részvénytársaság Göd területén megvalósuló beruházásával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 114/2016. (VI. 1.) Korm. rendelet módosítása
+
+192. § A Samsung SDI Magyarország Gyártó és Értékesítő Zártkörűen Működő Részvénytársaság Göd területén megvalósuló beruházásával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 114/2016. (VI. 1.) Korm. rendelet 1. melléklet 21. pontjában a „katasztrófavédelmi” szövegrész helyébe az „iparbiztonsági” szöveg lép.

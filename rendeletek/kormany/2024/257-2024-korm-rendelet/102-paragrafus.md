@@ -1,0 +1,3 @@
+## 54. A szombathelyi sportcélú beruházások megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 462/2013. (XII. 4.) Korm. rendelet módosítása
+
+102. § A szombathelyi sportcélú beruházások megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 462/2013. (XII. 4.) Korm. rendelet 1. mellékletében foglalt táblázat D:7 mezőjében a „Katasztrófavédelmi Igazgatóság” szövegrész helyébe a „Kormányhivatal vízügyi és vízvédelmi hatáskörében eljárva” szöveg lép.

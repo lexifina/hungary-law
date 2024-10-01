@@ -1,0 +1,3 @@
+## 86. A Debrecenben megvalósuló ipari telephely kialakításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 75/2015. (III. 30.) Korm. rendelet módosítása
+
+158. § A Debrecenben megvalósuló ipari telephely kialakításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 75/2015. (III. 30.) Korm. rendelet 1. melléklet 23. pontjában a „katasztrófavédelmi” szövegrész helyébe az „iparbiztonsági” szöveg lép.

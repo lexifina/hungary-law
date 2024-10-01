@@ -1,0 +1,3 @@
+## 147. A Kecskemét területén autóipari alkatrészgyártó üzem megvalósítására irányuló beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 14/2017. (I. 24.) Korm. rendelet módosítása
+
+226. § A Kecskemét területén autóipari alkatrészgyártó üzem megvalósítására irányuló beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 14/2017. (I. 24.) Korm. rendelet 1. melléklet 21. pontjában a „katasztrófavédelmi” szövegrész helyébe az „iparbiztonsági” szöveg lép.

@@ -1,0 +1,3 @@
+## 70. A Budapest Fehér úti lőtér fejlesztésére és bővítésére irányuló beruházás megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 237/2014. (IX. 18.) Korm. rendelet módosítása
+
+130. § A Budapest Fehér úti lőtér fejlesztésére és bővítésére irányuló beruházás megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 237/2014. (IX. 18.) Korm. rendelet 1. mellékletében foglalt táblázat D:10 mezőjében a „katasztrófavédelmi igazgatóság” szövegrész helyébe a „fővárosi és vármegyei kormányhivatal” szöveg lép.

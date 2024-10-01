@@ -1,0 +1,3 @@
+## 117. A Magyarország Szerbiával határos határszakaszán kiépítésre került ideiglenes biztonsági határzár technikai megerősítését szolgáló infrastrukturális fejlesztések megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 147/2016. (VI. 13.) Korm. rendelet módosítása
+
+194. § A Magyarország Szerbiával határos határszakaszán kiépítésre került ideiglenes biztonsági határzár technikai megerősítését szolgáló infrastrukturális fejlesztések megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 147/2016. (VI. 13.) Korm. rendelet 1. melléklet 8. pontjában a „katasztrófavédelmi” szövegrész helyébe az „iparbiztonsági” szöveg lép.

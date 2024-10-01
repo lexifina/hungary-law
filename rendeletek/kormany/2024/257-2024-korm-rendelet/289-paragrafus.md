@@ -1,0 +1,3 @@
+## 206. A Debrecen megyei jogú város külterületén, az Észak-Nyugati Gazdasági Övezetben ipari telephely kialakításával és a területen megvalósuló munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 58/2018. (III. 26.) Korm. rendelet módosítása
+
+289. § A Debrecen megyei jogú város külterületén, az Észak-Nyugati Gazdasági Övezetben ipari telephely kialakításával és a területen megvalósuló munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 58/2018. (III. 26.) Korm. rendelet 2. melléklet 22. pontjában a „katasztrófavédelmi” szövegrész helyébe az „iparbiztonsági” szöveg lép.

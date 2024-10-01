@@ -1,0 +1,5 @@
+## 42. A létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012. évi CLXVI. törvény végrehajtásáról szóló 65/2013. (III. 8.) Korm. rendelet módosítása
+
+74. § A létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012. évi CLXVI. törvény végrehajtásáról szóló 65/2013. (III. 8.) Korm. rendelet 2. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) A hivatásos katasztrófavédelmi szerv központi szerve mint általános javaslattevő hatóság és a Kormány által rendeletben kijelölt ágazati javaslattevő hatóság (a továbbiakban együtt: javaslattevő hatóság) – kivéve a honvédelmi ágazaton belüli rendszerelem ágazati javaslattevő hatósága – részére a kijelölő hatóság köteles megküldeni véleményezés céljából az azonosítási jelentést. A javaslattevő hatóság az azonosítási jelentés beérkezésétől számított 30 napon belül megvizsgálja az azonosítási jelentést, és a kockázatelemzéssel kapcsolatos javaslatait megküldi a kijelölő hatóságnak.”

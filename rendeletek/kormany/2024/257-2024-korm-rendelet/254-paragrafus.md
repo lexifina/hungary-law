@@ -1,0 +1,3 @@
+## 174. A Szent Márton Terv keretében Szombathely megyei jogú városban megvalósuló beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 168/2017. (VI. 28.) Korm. rendelet módosítása
+
+254. § A Szent Márton Terv keretében Szombathely megyei jogú városban megvalósuló beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 168/2017. (VI. 28.) Korm. rendelet 1. melléklet 21. pontjában a „katasztrófavédelmi” szövegrész helyébe az „iparbiztonsági” szöveg lép.

@@ -1,0 +1,1 @@
+47. § A tűzvédelmi hatósági feladatokat ellátó szervezetekről, a tűzvédelmi bírságról és a tűzvédelemmel foglalkozók kötelező élet- és balesetbiztosításáról szóló 259/2011. (XII. 7.) Korm. rendelet 1. mellékletében foglalt táblázat A:39 mezőjében a „készítteti el” szövegrész helyébe a „készítteti el, vagy nem aktualizálja” szöveg lép.

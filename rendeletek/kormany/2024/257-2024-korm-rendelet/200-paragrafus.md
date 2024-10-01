@@ -1,0 +1,3 @@
+## 122. A Robert Bosch Korlátolt Felelősségű Társaság Budapest területén megvalósuló beruházásával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 212/2016. (VII. 21.) Korm. rendelet módosítása
+
+200. § A Robert Bosch Korlátolt Felelősségű Társaság Budapest területén megvalósuló beruházásával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 212/2016. (VII. 21.) Korm. rendelet 1. melléklet 21. pontjában a „katasztrófavédelmi” szövegrész helyébe az „iparbiztonsági” szöveg lép.

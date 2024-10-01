@@ -1,0 +1,3 @@
+## 82. A Gül Baba türbéje és környezete komplex rekonstrukciójához kapcsolódó beruházások megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 2/2015. (I. 22.) Korm. rendelet módosítása
+
+152. § A Gül Baba türbéje és környezete komplex rekonstrukciójához kapcsolódó beruházások megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 2/2015. (I. 22.) Korm. rendelet 1. melléklete az 50. melléklet szerint módosul.

@@ -1,0 +1,3 @@
+## 194. A Kiskörei Vízerőmű környezetének turisztikai és sportcélú fejlesztését szolgáló beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 438/2017. (XII. 22.) Korm. rendelet módosítása
+
+275. § A Kiskörei Vízerőmű környezetének turisztikai és sportcélú fejlesztését szolgáló beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 438/2017. (XII. 22.) Korm. rendelet 1. melléklet 20. pontjában a „katasztrófavédelmi” szövegrész helyébe az „iparbiztonsági” szöveg lép.

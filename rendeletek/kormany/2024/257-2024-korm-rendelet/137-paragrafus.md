@@ -1,0 +1,1 @@
+137. § Az Apollo Tyres Hungary Kft. Gyöngyöshalászon megvalósuló beruházásával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 259/2014. (X. 10.) Korm. rendelet 1. melléklete a 42. melléklet szerint módosul.

@@ -1,0 +1,3 @@
+## 191. A Budapest XIII. kerület, Váci út 160–168. szám alatti ingatlanon, a volt csavargyár és erőmű területén megvalósítandó barnamezős beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 364/2017. (XI. 30.) Korm. rendelet módosítása
+
+272. § A Budapest XIII. kerület, Váci út 160–168. szám alatti ingatlanon, a volt csavargyár és erőmű területén megvalósítandó barnamezős beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 364/2017. (XI. 30.) Korm. rendelet 1. melléklet 7. pontjában a „katasztrófavédelmi” szövegrész helyébe az „iparbiztonsági” szöveg lép.

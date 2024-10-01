@@ -1,0 +1,1 @@
+305. § Hatályát veszti a Magyar Testgyakorlók Köre Budapest létesítményfejlesztési programjának megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 150/2019. (VI. 25.) Korm. rendelet 2. § (2) bekezdése.

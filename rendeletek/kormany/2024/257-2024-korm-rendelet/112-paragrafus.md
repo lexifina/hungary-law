@@ -1,0 +1,3 @@
+## 59. A Liget Budapest projekt keretében megvalósuló egyes beruházásokkal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 546/2013. (XII. 30.) Korm. rendelet módosítása
+
+112. § A Liget Budapest projekt keretében megvalósuló egyes beruházásokkal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 546/2013. (XII. 30.) Korm. rendelet 2. melléklete a 33. melléklet szerint módosul.

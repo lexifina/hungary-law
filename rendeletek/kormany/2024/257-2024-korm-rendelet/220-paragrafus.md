@@ -1,0 +1,3 @@
+## 141. A Budapest IX. kerületében megvalósuló, Magyar Telekom Nyrt. székház megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és egyes eljáró hatóságok kijelöléséről szóló 470/2016. (XII. 23.) Korm. rendelet módosítása
+
+220. § A Budapest IX. kerületében megvalósuló, Magyar Telekom Nyrt. székház megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és egyes eljáró hatóságok kijelöléséről szóló 470/2016. (XII. 23.) Korm. rendelet 1. melléklet 20. pontjában a „katasztrófavédelmi” szövegrész helyébe az „iparbiztonsági” szöveg lép.

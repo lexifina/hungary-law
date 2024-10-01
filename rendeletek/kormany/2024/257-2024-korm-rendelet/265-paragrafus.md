@@ -1,0 +1,3 @@
+## 184. A Bükkszentkereszt és Répáshuta községek közötti villamosenergia-elosztó vezetékek földkábelre történő cseréjével összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 288/2017. (IX. 22.) Korm. rendelet módosítása
+
+265. § A Bükkszentkereszt és Répáshuta községek közötti villamosenergia-elosztó vezetékek földkábelre történő cseréjével összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 288/2017. (IX. 22.) Korm. rendelet 1. melléklet 21. pontjában a „katasztrófavédelmi” szövegrész helyébe az „iparbiztonsági” szöveg lép.

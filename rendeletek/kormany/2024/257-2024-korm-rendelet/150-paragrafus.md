@@ -1,0 +1,3 @@
+## 81. A Millenáris területén megvalósítandó egyes beruházásokkal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 395/2014. (XII. 31.) Korm. rendelet módosítása
+
+150. § A Millenáris területén megvalósítandó egyes beruházásokkal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 395/2014. (XII. 31.) Korm. rendelet 1. mellékletében foglalt táblázat D:12 mezőjében a „katasztrófavédelmi igazgatóság” szövegrész helyébe a „fővárosi és vármegyei kormányhivatal” szöveg lép.

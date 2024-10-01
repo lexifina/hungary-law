@@ -1,0 +1,3 @@
+## 145. A Budapest XVII. kerületi Rákosmenti multifunkcionális csarnok, valamint a csarnokhoz kapcsolódó szabadtéri sportlétesítmények megvalósítására irányuló beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 492/2016. (XII. 28.) Korm. rendelet módosítása
+
+224. § A Budapest XVII. kerületi Rákosmenti multifunkcionális csarnok, valamint a csarnokhoz kapcsolódó szabadtéri sportlétesítmények megvalósítására irányuló beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 492/2016. (XII. 28.) Korm. rendelet 1. melléklet 7. pontjában a „katasztrófavédelmi” szövegrész helyébe az „iparbiztonsági” szöveg lép.

@@ -1,0 +1,3 @@
+## 131. A Budapest X. kerületben megvalósuló ingatlanfejlesztéssel összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és egyes eljáró hatóságok kijelöléséről szóló 308/2016. (X. 13.) Korm. rendelet módosítása
+
+209. § A Budapest X. kerületben megvalósuló ingatlanfejlesztéssel összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és egyes eljáró hatóságok kijelöléséről szóló 308/2016. (X. 13.) Korm. rendelet 1. melléklet 21. pontjában a „katasztrófavédelmi” szövegrész helyébe az „iparbiztonsági” szöveg lép.

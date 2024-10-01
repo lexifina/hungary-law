@@ -1,0 +1,1 @@
+162. § Hatályát veszti a Magyar Állami Operaház és Erkel Színház műhelyháza és próbacentruma létrehozását célzó beruházással összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 228/2015. (VIII. 7.) Korm. rendelet 1/A. § (1) bekezdése.

@@ -1,0 +1,3 @@
+## 126. Új tűzoltólaktanyák létrehozását és fejlesztését célzó beruházások megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 260/2016. (VIII. 31.) Korm. rendelet módosítása
+
+204. § Az új tűzoltólaktanyák létrehozását és fejlesztését célzó beruházások megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 260/2016. (VIII. 31.) Korm. rendelet 2. melléklet 20. pontjában a „katasztrófavédelmi” szövegrész helyébe az „iparbiztonsági” szöveg lép.

@@ -1,0 +1,3 @@
+## 172. A Felhő utcai Református Központ létrehozásával kapcsolatos beruházás megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 166/2017. (VI. 28.) Korm. rendelet módosítása
+
+252. § A Felhő utcai Református Központ létrehozásával kapcsolatos beruházás megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 166/2017. (VI. 28.) Korm. rendelet 1. melléklet 7. pontjában a „katasztrófavédelmi” szövegrész helyébe az „iparbiztonsági” szöveg lép.

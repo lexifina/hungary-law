@@ -1,0 +1,1 @@
+264. § Hatályát veszti az egyes ivóvízminőség-javítási, szennyvíz-elvezetési és -tisztítási, valamint hulladékgazdálkodási beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 272/2017. (IX. 14.) Korm. rendelet 2. melléklet 25. pontja.

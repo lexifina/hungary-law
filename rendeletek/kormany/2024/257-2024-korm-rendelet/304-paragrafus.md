@@ -1,0 +1,3 @@
+## 220. A Magyar Testgyakorlók Köre Budapest létesítményfejlesztési programjának megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 150/2019. (VI. 25.) Korm. rendelet módosítása
+
+304. § A Magyar Testgyakorlók Köre Budapest létesítményfejlesztési programjának megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 150/2019. (VI. 25.) Korm. rendelet 1. melléklet 24. pontjában a „katasztrófavédelmi” szövegrész helyébe az „iparbiztonsági” szöveg lép.

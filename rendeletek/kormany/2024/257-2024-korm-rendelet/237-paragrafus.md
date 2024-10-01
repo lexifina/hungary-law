@@ -1,0 +1,3 @@
+## 158. A Kerekegyháza területén élelmiszeripari feldolgozóüzem megvalósítására irányuló beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 90/2017. (IV. 10.) Korm. rendelet módosítása
+
+237. § A Kerekegyháza területén élelmiszeripari feldolgozóüzem megvalósítására irányuló beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 90/2017. (IV. 10.) Korm. rendelet 1. melléklet 21. pontjában a „katasztrófavédelmi” szövegrész helyébe az „iparbiztonsági” szöveg lép.

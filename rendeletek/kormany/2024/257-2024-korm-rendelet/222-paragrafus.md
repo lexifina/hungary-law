@@ -1,0 +1,3 @@
+## 143. A siófoki Kiss Szilárd multifunkcionális kézilabda csarnok beruházás befejezésével összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 472/2016. (XII. 23.) Korm. rendelet módosítása
+
+222. § A siófoki Kiss Szilárd multifunkcionális kézilabda csarnok beruházás befejezésével összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 472/2016. (XII. 23.) Korm. rendelet 1. melléklet 7. pontjában a „katasztrófavédelmi” szövegrész helyébe az „iparbiztonsági” szöveg lép.

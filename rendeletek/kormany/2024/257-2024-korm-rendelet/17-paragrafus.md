@@ -1,0 +1,3 @@
+## 14. A „Tisza hullámtér projekt” megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 79/2009. (IV. 8.) Korm. rendelet módosítása
+
+17. § A „Tisza hullámtér projekt” megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 79/2009. (IV. 8.) Korm. rendelet 1. számú mellékletében foglalt táblázat D:4, D:7, D:9, D:11, D:14, D:17, D:20, D:22, D:24, D:26, D:28, D:30, D:33, D:35, D:37, D:39 mezőjében a „vármegyei katasztrófavédelmi igazgatóság” szövegrész helyébe a „ , vízügyi és vízvédelmi hatáskörben eljáró vármegyei kormányhivatal” szöveg lép.

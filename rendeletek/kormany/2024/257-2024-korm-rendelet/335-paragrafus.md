@@ -1,0 +1,1 @@
+335. § Hatályát veszti a Pázmány Péter Katolikus Egyetem oktatási célú ingatlanjainak bővítését és fejlesztését célzó beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé és a beruházás kiemelten közérdekű beruházássá nyilvánításáról szóló 195/2021. (IV. 26.) Korm. rendelet 2. § (3) bekezdése.

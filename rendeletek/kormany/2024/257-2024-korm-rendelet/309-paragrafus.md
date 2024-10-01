@@ -1,0 +1,3 @@
+## 224. A Magyar Műszaki és Közlekedési Múzeum új helyszínének megvalósítását célzó beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé és a beruházás kiemelten közérdekű beruházássá nyilvánításáról szóló 183/2020. (V. 6.) Korm. rendelet módosítása
+
+309. § A Magyar Műszaki és Közlekedési Múzeum új helyszínének megvalósítását célzó beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé és a beruházás kiemelten közérdekű beruházássá nyilvánításáról szóló 183/2020. (V. 6.) Korm. rendelet 1. melléklet 21. pontjában a „katasztrófavédelmi” szövegrész helyébe az „iparbiztonsági” szöveg lép.

@@ -1,0 +1,5 @@
+## 58. A létfontosságú vízgazdálkodási rendszerelemek és vízilétesítmények azonosításáról, kijelöléséről és védelméről szóló 541/2013. (XII. 30.) Korm. rendelet módosítása
+
+110. § A létfontosságú vízgazdálkodási rendszerelemek és vízilétesítmények azonosításáról, kijelöléséről és védelméről szóló 541/2013. (XII. 30.) Korm. rendelet 1. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A nemzeti létfontosságú rendszerelem és az európai létfontosságú rendszerelem kijelölése és a kijelölés visszavonása során a közcélú ivóvíz-szolgáltatást biztosító vízilétesítmény – ideértve a vonatkozó ivóvízcélú kitermelésre szánt felszíni és felszín alatti vizek minőségének ellenőrzését biztosító vízilétesítményt és a vonatkozó ivóvízbázis-védelmet biztosító vízilétesítményt –, valamint a szennyvízelvezetést és -tisztítást szolgáló vízilétesítmény és árvízvédelmi létesítmény tekintetében ágazati kijelölő hatóságként a hivatásos katasztrófavédelmi szervnek a létfontosságú rendszerek és létesítmények azonosításról, kijelöléséről és védelméről szóló 2012. évi CLXVI. törvényben meghatározott üzemeltető telephelye szerint illetékes területi szerve jár el.”

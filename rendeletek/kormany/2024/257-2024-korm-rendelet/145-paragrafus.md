@@ -1,0 +1,1 @@
+145. § A Nagykovácsi Kastélypark Komplexum fejlesztéséhez kapcsolódó beruházások megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 304/2014. (XII. 5.) Korm. rendelet 1. melléklete a 46. melléklet szerint módosul.

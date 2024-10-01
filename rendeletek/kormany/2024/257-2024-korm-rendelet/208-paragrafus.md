@@ -1,0 +1,3 @@
+## 130. A Mélykút területén víziszárnyas feldolgozó üzem és hűtőház megvalósítására irányuló beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 297/2016. (IX. 29.) Korm. rendelet módosítása
+
+208. § A Mélykút területén víziszárnyas feldolgozó üzem és hűtőház megvalósítására irányuló beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 297/2016. (IX. 29.) Korm. rendelet 1. melléklet 21. pontjában a „katasztrófavédelmi” szövegrész helyébe az „iparbiztonsági” szöveg lép.

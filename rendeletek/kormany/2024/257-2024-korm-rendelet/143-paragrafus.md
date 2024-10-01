@@ -1,0 +1,1 @@
+143. § A fertődi Porpáczy Aladár Középiskola elhelyezéséhez szükséges új iskola és tornaterem beruházási program megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 270/2014. (XI. 4.) Korm. rendelet 1. melléklete a 45. melléklet szerint módosul.

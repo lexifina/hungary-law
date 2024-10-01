@@ -1,0 +1,3 @@
+## 205. A Hernádnémeti nagyközség külterületén ipari terület kialakításával és a területen megvalósuló munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 57/2018. (III. 26.) Korm. rendelet módosítása
+
+288. § A Hernádnémeti nagyközség külterületén ipari terület kialakításával és a területen megvalósuló munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 57/2018. (III. 26.) Korm. rendelet 2. melléklet 22. pontjában a „katasztrófavédelmi” szövegrész helyébe az „iparbiztonsági” szöveg lép.
