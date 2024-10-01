@@ -2,11 +2,11 @@
 
 1. melléklet a 178/2010. (V. 13.) Korm. rendelethez
 
-## Kockázatkezelési tervek
+Kockázatkezelési tervek
 
 1. A kockázatkezelési terv alkotóelemei
 
-1.1.[^17] az előzetes kockázatbecslés következtetései a 3. § előírásainak megfelelően, a Duna vízgyűjtőkerület magyarországi részvízgyűjtőinek összefoglaló térképe formájában, feltüntetve a kockázatkezelési terv tervezési egységét képező, 3. § (4) bekezdés szerint meghatározott területeket;
+1.1.[^18] az előzetes kockázatbecslés következtetései a 3. § előírásainak megfelelően, a Duna vízgyűjtőkerület magyarországi részvízgyűjtőinek összefoglaló térképe formájában, feltüntetve a kockázatkezelési terv tervezési egységét képező, 3. § (4) bekezdés szerint meghatározott területeket;
 
 1.2. a 4–6. §-ok szerint elkészített veszély-és kockázati térkép, valamint a térképek alapján levonható következtetések;
 
@@ -34,4 +34,4 @@
 
 3.4. a kockázatkezelési terv korábbi változatának közzététele óta tett minden kiegészítő intézkedés leírása.
 
-[^17]: Az 1. melléklet 1.1. pontja a 113/2012. (VI. 5.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^18]: Az 1. melléklet 1.1. pontja a 113/2012. (VI. 5.) Korm. rendelet 9. §-ával megállapított szöveg.

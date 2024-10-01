@@ -1,4 +1,4 @@
-2. melléklet a 178/2010. (V. 13.) Korm. rendelethez[^18]
+2. melléklet a 178/2010. (V. 13.) Korm. rendelethez[^19]
 
 A Duna vízgyűjtőkerület határon átnyúló magyarországi részvízgyűjtői
 
@@ -24,4 +24,4 @@ A Duna vízgyűjtőkerület határon átnyúló magyarországi részvízgyűjtő
 
 * Dunaföldvár kizárólag mederbeli határ, mivel az alatta lévő Duna-szakasz a Dráva-torokig a jeges árvízvédekezés szempontjából közös érdekű Horvátországgal és Szerbiával.
 
-[^18]: A 2. melléklet a 113/2012. (VI. 5.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^19]: A 2. melléklet a 113/2012. (VI. 5.) Korm. rendelet 10. §-ával megállapított szöveg.

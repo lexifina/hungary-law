@@ -4,7 +4,7 @@
 
 a) a potenciálisan érintett lakosok száma;
 
-b) a potenciálisan érintett területen lévő infrastruktúra és a gazdasági tevékenységének típusa, az országos településrendezési és építési követelményekről szóló kormányrendelet szerinti terület felhasználási egysége;
+b)[^6] a potenciálisan érintett területen lévő infrastruktúra és a gazdasági tevékenységének típusa, a településrendezési és építési követelményekről szóló kormányrendelet szerinti terület felhasználási egysége;
 
 c) azon egységes környezethasználati engedélyköteles létesítmények, amelyek árvíz esetén környezetszennyezést okozhatnak,
 
@@ -13,3 +13,5 @@ d) az érintett, a vízgyűjtő-gazdálkodás egyes szabályairól szóló korm�
 e) az adott területen előforduló egyéb kockázatra vonatkozó információ
 
 figyelembevételével kell meghatározni.
+
+[^6]: Az 5. § (2) bekezdés b) pontja a 285/2024. (IX. 30.) Korm. rendelet 62. §-a szerint módosított szöveg.
