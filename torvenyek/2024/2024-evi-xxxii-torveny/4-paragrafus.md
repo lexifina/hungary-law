@@ -1,4 +1,4 @@
-4. § (1) A Kötv. figyelembevételével a miniszter évente felméri az 1. melléklet szerinti ingatlanok működtetésére, fenntartására, karbantartására, felújítására, fenntartható fejlesztésére, hasznosítására vonatkozó kötelezettségeket és azok elvárható teljesülését. Ennek céljából a szükséges mértékben az ingatlan vagyonkezelőjétől adatot és tájékoztatást kér.
+4. § (1) A Méptv. figyelembevételével a miniszter évente felméri az 1. melléklet szerinti ingatlanok működtetésére, fenntartására, karbantartására, felújítására, fenntartható fejlesztésére, hasznosítására vonatkozó kötelezettségeket és azok elvárható teljesülését. Ennek céljából a szükséges mértékben az ingatlan vagyonkezelőjétől adatot és tájékoztatást kér.
 
 (2) A miniszter az (1) bekezdés szerinti felmérés során hatvan napon belül megvizsgálja különösen
 
@@ -10,11 +10,11 @@ c) a vagyonkezelés során az Nvtv. III. Fejezete szerinti, nemzeti vagyonnal va
 
 d) az ingatlan állapotát, valamint
 
-e) a Kötv.-ben foglalt célok és kötelezettségek más állami vagyonkezelő bevonásával való hatékonyabb megvalósíthatóságának lehetőségét.
+e) a Méptv.-ben foglalt célok és kötelezettségek más állami vagyonkezelő bevonásával való hatékonyabb megvalósíthatóságának lehetőségét.
 
 (3) Ha a (2) bekezdésben foglalt szempontok figyelembevétele alapján megállapítható, hogy
 
-a) a vagyonkezelő az ingatlant nem a Kötv. szabályai szerint kezeli,
+a) a vagyonkezelő az ingatlant nem a Méptv. szabályai szerint kezeli,
 
 b) a vagyonkezelő az ingatlant nem az Nvtv. III. Fejezete szerinti, nemzeti vagyonnal való felelős gazdálkodás követelménye szerint kezeli,
 
@@ -24,7 +24,7 @@ d) a (2) bekezdés e) pont alkalmazása sem indokolt,
 
 akkor a miniszter a (4) és (5) bekezdésben meghatározottak szerint jár el.
 
-(4) Ha a vagyonkezelő az ingatlant nem elsődlegesen a kulturális örökség feltárása, tudományos feldolgozása, megóvása, védelme, vagy közkinccsé tétele céljából használja, hasznosítja, hanem abban elsődlegesen más feladatot lát el, akkor a miniszter – a használat, hasznosítás célját nem érintve – megfelelő határidő tűzésével felhívja a vagyonkezelőt a Kötv.-nek és az Nvtv. III. Fejezete szerinti, nemzeti vagyonnal való felelős gazdálkodás követelményének megfelelő körülmények helyreállítására.
+(4) Ha a vagyonkezelő az ingatlant nem elsődlegesen a kulturális örökség feltárása, tudományos feldolgozása, megóvása, védelme, vagy közkinccsé tétele céljából használja, hasznosítja, hanem abban elsődlegesen más feladatot lát el, akkor a miniszter – a használat, hasznosítás célját nem érintve – megfelelő határidő tűzésével felhívja a vagyonkezelőt a Méptv.-nek és az Nvtv. III. Fejezete szerinti, nemzeti vagyonnal való felelős gazdálkodás követelményének megfelelő körülmények helyreállítására.
 
 (5) A miniszter az ingatlan e törvény szerinti tulajdonba adására vonatkozóan az általa vezetett minisztérium honlapján felhívást tehet közzé, ha
 
@@ -34,7 +34,7 @@ b) a (4) bekezdés szerint kitűzött határidő eredménytelenül eltelt, vagy
 
 c) az ingatlan állami feladat ellátását nem szolgálja
 
-és az ingatlan funkciójára is figyelemmel az e törvény szerinti, magánjogi szereplő kivételes bevonásával a tulajdonba adás az állam Kötv.-ben megfogalmazott örökségvédelmi céljai elérését az 1. § (1) bekezdésében foglaltakra is figyelemmel megfelelőbben szolgálja, mint az ingatlan állami tulajdonban tartása.
+és az ingatlan funkciójára is figyelemmel az e törvény szerinti, magánjogi szereplő kivételes bevonásával a tulajdonba adás az állam Méptv.-ben megfogalmazott örökségvédelmi céljai elérését az 1. § (1) bekezdésében foglaltakra is figyelemmel megfelelőbben szolgálja, mint az ingatlan állami tulajdonban tartása.
 
 (6) A 3. § (1) bekezdése szerinti tulajdonba adásra irányuló kérelmet a felhívás közzétételét követő hatvan napon belül
 

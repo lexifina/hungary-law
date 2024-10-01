@@ -1,8 +1,8 @@
 6. § (1) A szerződésben a tulajdonszerző számára elő kell írni különösen azt, hogy
 
-a) az ingatlant a jó gazda gondosságával üzemelteti, a jogszabályok, különösen a Kötv. által meghatározottak szerint fenntartja, állagromlását a szükséges karbantartási munkálatok végzése útján megelőzi, a mindenkor szükségessé váló, műemlékvédelmi előírásoknak megfelelő, állagjavulást eredményező felújítási munkálatok elvégzéséről gondoskodik,
+a) az ingatlant a jó gazda gondosságával üzemelteti, a jogszabályok, különösen a Méptv. által meghatározottak szerint fenntartja, állagromlását a szükséges karbantartási munkálatok végzése útján megelőzi, a mindenkor szükségessé váló, műemlékvédelmi előírásoknak megfelelő, állagjavulást eredményező felújítási munkálatok elvégzéséről gondoskodik,
 
-b) az ingatlan homlokzatának megváltoztatásával járó, valamint az ingatlan alapozását vagy tartószerkezetét is érintő építési, bontási, restaurálási tevékenységet a Kötv. előírásaira figyelemmel és a miniszter előzetes, írásbeli engedélyével végezhet,
+b) az ingatlan homlokzatának megváltoztatásával járó, valamint az ingatlan alapozását vagy tartószerkezetét is érintő építési, bontási, restaurálási tevékenységet a Méptv. előírásaira figyelemmel és a miniszter előzetes, írásbeli engedélyével végezhet,
 
 c) az ingatlanban a tulajdonba adás napján működő közgyűjtemény látogathatóságát a Kultv. és végrehajtási rendeletei szerint továbbra is biztosítja,
 
