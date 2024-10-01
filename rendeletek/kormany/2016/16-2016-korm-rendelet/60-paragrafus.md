@@ -1,22 +1,22 @@
 60. § (1) Az ingatlan-nyilvántartási eljárásban a családi otthonteremtési kedvezmény visszafizetésének kötelezettsége esetén az 59. § (1) bekezdése szerinti elidegenítésről szóló szerződést csatolni kell.
 
-(2)[^250] Ha – a kisajátítás esete kivételével – a támogatott személy eladó a családi otthonteremtési kedvezménnyel felépített vagy megvásárolt új lakás elidegenítéséből származó – a (7) bekezdésben foglaltakkal csökkentett – bevételnek csak egy részét fordította az 59. § (2) bekezdés d) pontja szerinti újabb lakás megszerzésére, vagy az újabb lakás hasznos alapterülete nem haladja meg az elidegenített – a családi otthonteremtési kedvezménnyel felépített vagy megvásárolt – lakás hasznos alapterületét, úgy a családi otthonteremtési kedvezménynek az új lakás elidegenítéséből származó – a (7) bekezdés szerint csökkentett – bevétel és a vételár vagy bekerülési költség, illetve a hasznos alapterület különbözetével arányos részét kell visszafizetnie. A kormányhivatal a határozatával a visszafizetési kötelezettség alá nem eső családi otthonteremtési kedvezmény hányadára jutó jelzálogjogot, továbbá annak biztosítására az elidegenítési és terhelési tilalmat az újabb ingatlanra az állam javára bejegyezteti.
+(2)[^267] Ha – a kisajátítás esete kivételével – a támogatott személy eladó a családi otthonteremtési kedvezménnyel felépített vagy megvásárolt új lakás elidegenítéséből származó – a (7) bekezdésben foglaltakkal csökkentett – bevételnek csak egy részét fordította az 59. § (2) bekezdés d) pontja szerinti újabb lakás megszerzésére, vagy az újabb lakás hasznos alapterülete nem haladja meg az elidegenített – a családi otthonteremtési kedvezménnyel felépített vagy megvásárolt – lakás hasznos alapterületét, úgy a családi otthonteremtési kedvezménynek az új lakás elidegenítéséből származó – a (7) bekezdés szerint csökkentett – bevétel és a vételár vagy bekerülési költség, illetve a hasznos alapterület különbözetével arányos részét kell visszafizetnie. A kormányhivatal a határozatával a visszafizetési kötelezettség alá nem eső családi otthonteremtési kedvezmény hányadára jutó jelzálogjogot, továbbá annak biztosítására az elidegenítési és terhelési tilalmat az újabb ingatlanra az állam javára bejegyezteti.
 
-(3)[^251] A (2) bekezdés esetén a visszafizetési kötelezettség alá nem eső családi otthonteremtési kedvezmény összegének megfelelő jelzálogjog, valamint elidegenítési és terhelési tilalom újabb lakásra való átjegyzésének feltétele, hogy a támogatott személy a családi otthonteremtési kedvezmény összegének a – (7) bekezdés szerint csökkentett – eladási ár és a vételár vagy építési költség különbözetével arányos részét visszafizesse.
+(3)[^268] A (2) bekezdés esetén a visszafizetési kötelezettség alá nem eső családi otthonteremtési kedvezmény összegének megfelelő jelzálogjog, valamint elidegenítési és terhelési tilalom újabb lakásra való átjegyzésének feltétele, hogy a támogatott személy a családi otthonteremtési kedvezmény összegének a – (7) bekezdés szerint csökkentett – eladási ár és a vételár vagy építési költség különbözetével arányos részét visszafizesse.
 
-(4)[^252] A támogatott személy
+(4)[^269] A támogatott személy
 
 a) az új lakás elidegenítését az erre vonatkozó szerződés megkötésétől,
 
-b)[^253] a saját maga és a vele közös háztartásban élő és a felépített vagy megvásárolt új lakásba vele együtt beköltöző gyermekének életvitelszerű bentlakását is magában foglaló lakóhelyét vagy hontalan esetén szálláshelyét érintő változást a változás bekövetkezésének időpontjától, vagy
+b)[^270] a saját maga és a vele közös háztartásban élő és a felépített vagy megvásárolt új lakásba vele együtt beköltöző gyermekének életvitelszerű bentlakását is magában foglaló lakóhelyét vagy hontalan esetén szálláshelyét érintő változást a változás bekövetkezésének időpontjától, vagy
 
 c) a bontást, a lakáscéltól eltérő hasznosítást, az új lakás használatának az 50. § (1) bekezdés c) pontja szerinti átengedését annak megkezdésétől
 
 számított 30 napon belül köteles a kormányhivatalnak bejelenteni az ezekre vonatkozó iratok egyidejű csatolásával. Ha a szerződés létrejöttéhez harmadik személy beleegyezése szükséges, úgy a bejelentési határidő 45 nap. Ha a szerződés érvényességéhez hatósági jóváhagyás vagy hatósági nyilvántartásba történő bejegyzés szükséges, úgy a bejelentési határidő az ennek megtörténtét követő 30 nap.
 
-(5)[^254] A kormányhivatal – az 59. § (9) és (10) bekezdésében foglaltak kivételével – a (4) bekezdés szerinti bejelentést követően, ha a támogatott személy az 59. § (1) bekezdése szerinti felfüggesztést nem kérte, úgy határozatban kötelezi a támogatott személyt a családi otthonteremtési kedvezmény visszafizetésére.
+(5)[^271] A kormányhivatal – az 59. § (9) és (10) bekezdésében foglaltak kivételével – a (4) bekezdés szerinti bejelentést követően, ha a támogatott személy az 59. § (1) bekezdése szerinti felfüggesztést nem kérte, úgy határozatban kötelezi a támogatott személyt a családi otthonteremtési kedvezmény visszafizetésére.
 
-(6)[^255] Ha a támogatott személy a (4) bekezdésben foglalt bejelentési kötelezettségének késve, vagy nem tesz eleget, akkor a visszafizetési kötelezettség a bontás, a lakáscéltól eltérő hasznosítás megkezdésének, az életvitelszerű bentlakását is magában foglaló lakóhely vagy hontalan esetén szálláshely megváltoztatásának, a lakáshasználat átengedésének, illetve a lakás elidegenítésére vonatkozó szerződés megkötésének napjától számított, a Ptk. szerinti, de 5%-ot meg nem haladó mértékű késedelmi kamattal növelten terheli.
+(6)[^272] Ha a támogatott személy a (4) bekezdésben foglalt bejelentési kötelezettségének késve, vagy nem tesz eleget, akkor a visszafizetési kötelezettség a bontás, a lakáscéltól eltérő hasznosítás megkezdésének, az életvitelszerű bentlakását is magában foglaló lakóhely vagy hontalan esetén szálláshely megváltoztatásának, a lakáshasználat átengedésének, illetve a lakás elidegenítésére vonatkozó szerződés megkötésének napjától számított, a Ptk. szerinti, de 5%-ot meg nem haladó mértékű késedelmi kamattal növelten terheli.
 
 (7) A korábbi lakás elidegenítéséből származó bevétel csökkenthető
 
@@ -26,9 +26,9 @@ b) azzal az összeggel, melyet az adós az elidegenítésből származó bevéte
 
 de legfeljebb akkora összeggel, hogy az így csökkentett bevétel összege elérje az igénybe vett családi otthonteremtési kedvezmény összegének kétszeresét.
 
-[^250]: A 60. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 321. § (3) bekezdés 12. pontja, a 360/2019. (XII. 30.) Korm. rendelet 150. § (2) bekezdés e) pontja, a 169/2023. (V. 12.) Korm. rendelet 16. § 15. pontja, a 649/2023. (XII. 28.) Korm. rendelet 19. § (7) bekezdés l) pontja szerint módosított szöveg.
-[^251]: A 60. § (3) bekezdése a 649/2023. (XII. 28.) Korm. rendelet 19. § (7) bekezdés m) pontja szerint módosított szöveg.
-[^252]: A 60. § (4) bekezdés záró szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 321. § (3) bekezdés 14. pontja, a 360/2019. (XII. 30.) Korm. rendelet 150. § (2) bekezdés g) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
-[^253]: A 60. § (4) bekezdés b) pontja a 169/2023. (V. 12.) Korm. rendelet 16. § 10. pontja szerint módosított szöveg.
-[^254]: A 60. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 321. § (3) bekezdés 12. pontja, a 360/2019. (XII. 30.) Korm. rendelet 150. § (2) bekezdés e) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
-[^255]: A 60. § (6) bekezdése a 372/2022. (IX. 29.) Korm. rendelet 3. § b) pontja, a 169/2023. (V. 12.) Korm. rendelet 16. § 8. pontja szerint módosított szöveg.
+[^267]: A 60. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 321. § (3) bekezdés 12. pontja, a 360/2019. (XII. 30.) Korm. rendelet 150. § (2) bekezdés e) pontja, a 169/2023. (V. 12.) Korm. rendelet 16. § 15. pontja, a 649/2023. (XII. 28.) Korm. rendelet 19. § (7) bekezdés l) pontja szerint módosított szöveg.
+[^268]: A 60. § (3) bekezdése a 649/2023. (XII. 28.) Korm. rendelet 19. § (7) bekezdés m) pontja szerint módosított szöveg.
+[^269]: A 60. § (4) bekezdés záró szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 321. § (3) bekezdés 14. pontja, a 360/2019. (XII. 30.) Korm. rendelet 150. § (2) bekezdés g) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^270]: A 60. § (4) bekezdés b) pontja a 169/2023. (V. 12.) Korm. rendelet 16. § 10. pontja szerint módosított szöveg.
+[^271]: A 60. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 321. § (3) bekezdés 12. pontja, a 360/2019. (XII. 30.) Korm. rendelet 150. § (2) bekezdés e) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^272]: A 60. § (6) bekezdése a 372/2022. (IX. 29.) Korm. rendelet 3. § b) pontja, a 169/2023. (V. 12.) Korm. rendelet 16. § 8. pontja szerint módosított szöveg.

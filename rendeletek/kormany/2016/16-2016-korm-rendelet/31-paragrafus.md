@@ -1,58 +1,58 @@
-31. § (1)[^100] Három vagy több gyermek után családi otthonteremtési kedvezmény új lakás építéséhez vagy vásárlásához akkor igényelhető, ha az igénylő – házastársak, fiatal házaspár vagy élettársak esetén legalább az egyik fél – a családi otthonteremtési kedvezmény iránti kérelem benyújtásának időpontjában
+31. § (1)[^106] Három vagy több gyermek után családi otthonteremtési kedvezmény új lakás építéséhez vagy vásárlásához akkor igényelhető, ha az igénylő – házastársak, fiatal házaspár vagy élettársak esetén legalább az egyik fél – a családi otthonteremtési kedvezmény iránti kérelem benyújtásának időpontjában
 
-a)[^101] 30 napnál nem régebbi
+a)[^107] 30 napnál nem régebbi
 
 aa) okirattal igazolja, hogy – ide nem értve a közfoglalkoztatási jogviszonyt – a Tbj. 6. § (1) bekezdés a), b) vagy d)–i) pontja szerint biztosított, vagy a Tbj. 4. § 11. pontja szerinti kiegészítő tevékenységet folytató személynek minősül – a Tbj. 6. § (1) bekezdés c), j) pontja vagy (3) bekezdése szerinti jogviszony kivételével –, vagy
 
 ab) az illetékes külföldi hatóság vagy a nemzetközi szervezet által kiállított igazolással az 5. § a) pontja szerinti igénylőként igazolja, hogy a Magyarország területén végzett keresőtevékenysége alapján valamely más állam vagy nemzetközi szerződéssel létrehozott nemzetközi szervezet társadalombiztosítási rendszerének hatálya alá tartozik, valamint
 
-b)[^102] legalább 2 éve folyamatosan
+b)[^108] legalább 2 éve folyamatosan
 
-ba)[^103] a Tbj. 6. §-a alapján biztosított, és ezt 30 napnál nem régebbi okirattal igazolja,
+ba)[^109] a Tbj. 6. §-a alapján biztosított, és ezt 30 napnál nem régebbi okirattal igazolja,
 
-bb)[^104] a köznevelésről szóló törvény hatálya alá tartozó középfokú nevelési oktatási intézményben vagy a nemzeti felsőoktatásról szóló törvény hatálya alá tartozó felsőoktatási intézményben nappali rendszerű oktatás keretében tanulmányokat folytatott, és erről büntetőjogi felelősség vállalásával teljes bizonyító erejű magánokiratba foglaltan nyilatkozik, vagy az 5. § a) pontja szerinti igénylő igazolja, hogy külföldi felsőoktatási intézmény nappali tagozatán folytatott olyan tanulmányokat, melyek a külföldi állam joga szerint kiállított olyan oklevélhez vezetnek, amely a külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény rendelkezései szerint egyenértékűnek ismerhető el a külföldi bizonyítványok és oklevelek elismeréséért felelős hatóság állásfoglalása alapján,
+bb)[^110] a köznevelésről szóló törvény hatálya alá tartozó középfokú nevelési oktatási intézményben vagy a nemzeti felsőoktatásról szóló törvény hatálya alá tartozó felsőoktatási intézményben nappali rendszerű oktatás keretében tanulmányokat folytatott, és erről büntetőjogi felelősség vállalásával teljes bizonyító erejű magánokiratba foglaltan nyilatkozik, vagy az 5. § a) pontja szerinti igénylő igazolja, hogy külföldi felsőoktatási intézmény nappali tagozatán folytatott olyan tanulmányokat, melyek a külföldi állam joga szerint kiállított olyan oklevélhez vezetnek, amely a külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény rendelkezései szerint egyenértékűnek ismerhető el a külföldi bizonyítványok és oklevelek elismeréséért felelős hatóság állásfoglalása alapján,
 
-bc)[^105] az 5. § a) pontja szerinti igénylő kereső tevékenysége alapján valamely más állam vagy nemzetközi szerződéssel létrehozott nemzetközi szervezet társadalombiztosítási rendszerének hatálya alá tartozott, és ezt az illetékes külföldi hatóság vagy a nemzetközi szervezet által kiállított igazolással igazolja, vagy
+bc)[^111] az 5. § a) pontja szerinti igénylő kereső tevékenysége alapján valamely más állam vagy nemzetközi szerződéssel létrehozott nemzetközi szervezet társadalombiztosítási rendszerének hatálya alá tartozott, és ezt az illetékes külföldi hatóság vagy a nemzetközi szervezet által kiállított igazolással igazolja, vagy
 
-bd)[^106] a Tbj. 4. § 11. pontja szerinti kiegészítő tevékenységet folytató személynek minősül, és ezt 30 napnál nem régebbi okirattal igazolja.
+bd)[^112] a Tbj. 4. § 11. pontja szerinti kiegészítő tevékenységet folytató személynek minősül, és ezt 30 napnál nem régebbi okirattal igazolja.
 
-(1a)[^107] Az (1) bekezdés b) pont bb) alpontja szerinti nyilatkozat tartalmazza az igénylő személyes adatait, az oktatási intézmény azonosító adatait és a képzésre vonatkozó információkat, ideértve a tanulmányok megkezdésének és várható befejezésének időpontját is.
+(1a)[^113] Az (1) bekezdés b) pont bb) alpontja szerinti nyilatkozat tartalmazza az igénylő személyes adatait, az oktatási intézmény azonosító adatait és a képzésre vonatkozó információkat, ideértve a tanulmányok megkezdésének és várható befejezésének időpontját is.
 
-(2)[^108] Az (1) bekezdés b) pontja szerinti 2 éves időszak számítása során a családi otthonteremtési kedvezmény igénylését megelőző 180 napos időtartamnak
+(2)[^114] Az (1) bekezdés b) pontja szerinti 2 éves időszak számítása során a családi otthonteremtési kedvezmény igénylését megelőző 180 napos időtartamnak
 
-a)[^109] a Tbj. 6. § (1) bekezdés a), b) d)–i) pontja szerinti jogviszonyban töltött időnek kell minősülnie,
+a)[^115] a Tbj. 6. § (1) bekezdés a), b) d)–i) pontja szerinti jogviszonyban töltött időnek kell minősülnie,
 
-b)[^110] olyan időszaknak kell minősülnie, amely alatt az igénylő a Tbj. 4. § 11. pontja szerinti kiegészítő tevékenységet folytató személynek minősül, ide nem értve a Tbj. 6. § (1) bekezdés c), j) pontja vagy (3) bekezdése szerinti jogviszonyt, vagy,
+b)[^116] olyan időszaknak kell minősülnie, amely alatt az igénylő a Tbj. 4. § 11. pontja szerinti kiegészítő tevékenységet folytató személynek minősül, ide nem értve a Tbj. 6. § (1) bekezdés c), j) pontja vagy (3) bekezdése szerinti jogviszonyt, vagy,
 
-c)[^111] olyan időszaknak kell minősülnie, amely alatt az 5. § a) pontja szerinti igénylő Magyarország területén végzett keresőtevékenysége alapján valamely más állam vagy nemzetközi szerződéssel létrehozott nemzetközi szervezet társadalombiztosítási rendszerének hatálya alá tartozott, és ezt az illetékes külföldi hatóság vagy a nemzetközi szervezet által 30 napnál nem régebben kiállított igazolással igazolja,
+c)[^117] olyan időszaknak kell minősülnie, amely alatt az 5. § a) pontja szerinti igénylő Magyarország területén végzett keresőtevékenysége alapján valamely más állam vagy nemzetközi szerződéssel létrehozott nemzetközi szervezet társadalombiztosítási rendszerének hatálya alá tartozott, és ezt az illetékes külföldi hatóság vagy a nemzetközi szervezet által 30 napnál nem régebben kiállított igazolással igazolja,
 
 melybe a közfoglalkoztatási jogviszonyban töltött idő nem számít bele.
 
-(2a)[^112] Az (1) bekezdés szerinti 2 éves és a (2) bekezdés szerinti 180 napos jogosultsági időszak számítása során
+(2a)[^118] Az (1) bekezdés szerinti 2 éves és a (2) bekezdés szerinti 180 napos jogosultsági időszak számítása során
 
 a) a különböző, egymást követő jogosultsági időszakokat össze kell számítani,
 
 b) a jogosultsági időszakot folyamatosnak kell tekinteni, ha abban egybefüggően legfeljebb 30 nap megszakítás van, amelynek időtartama a teljesítendő jogosultsági időszakba nem számít bele.
 
-(2b)[^113] Az (1) bekezdés b) pont ba), bb) vagy bd) alpontja szerinti jogviszony szünetelése nem minősül a jogviszony megszakításának, de annak időtartama az (1) bekezdés b) pontja szerinti 2 éves, valamint a (2) bekezdés szerinti 180 napos időszakba nem számít be.
+(2b)[^119] Az (1) bekezdés b) pont ba), bb) vagy bd) alpontja szerinti jogviszony szünetelése nem minősül a jogviszony megszakításának, de annak időtartama az (1) bekezdés b) pontja szerinti 2 éves, valamint a (2) bekezdés szerinti 180 napos időszakba nem számít be.
 
-(3)[^114] Az (1) bekezdésben foglaltakat nem kell figyelembe venni, ha az igénylő a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatalának végleges határozata alapján gyermekek otthongondozási díjában vagy ápolási díjban részesül, vagy ha megváltozott munkaképességű személynek minősül.
+(3)[^120] Az (1) bekezdésben foglaltakat nem kell figyelembe venni, ha az igénylő a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatalának végleges határozata alapján gyermekek otthongondozási díjában vagy ápolási díjban részesül, vagy ha megváltozott munkaképességű személynek minősül.
 
-(4)[^115] Az (1) bekezdés a) pontjában, valamint a (2) bekezdésben foglaltakat nem kell alkalmazni, ha az 5. § a) pontja szerinti igénylő – házastársak, fiatal házaspár vagy élettársak esetén legalább az egyik fél – a kérelem benyújtásának időpontjában kereső tevékenysége alapján valamely másik állam vagy nemzetközi szerződéssel létrehozott nemzetközi szervezet társadalombiztosítási rendszerének hatálya alatt áll és ezt az illetékes külföldi hatóság vagy a nemzetközi szervezet által kiállított igazolással igazolja, valamint teljes bizonyító erejű magánokiratba foglaltan vállalja, hogy a támogatási szerződés megkötését követő 180 napon belül a Tbj. 6. §-a szerinti biztosítottá vagy a Tbj. 4. § 11. pontja szerinti kiegészítő tevékenységet folytató személlyé válik.
+(4)[^121] Az (1) bekezdés a) pontjában, valamint a (2) bekezdésben foglaltakat nem kell alkalmazni, ha az 5. § a) pontja szerinti igénylő – házastársak, fiatal házaspár vagy élettársak esetén legalább az egyik fél – a kérelem benyújtásának időpontjában kereső tevékenysége alapján valamely másik állam vagy nemzetközi szerződéssel létrehozott nemzetközi szervezet társadalombiztosítási rendszerének hatálya alatt áll és ezt az illetékes külföldi hatóság vagy a nemzetközi szervezet által kiállított igazolással igazolja, valamint teljes bizonyító erejű magánokiratba foglaltan vállalja, hogy a támogatási szerződés megkötését követő 180 napon belül a Tbj. 6. §-a szerinti biztosítottá vagy a Tbj. 4. § 11. pontja szerinti kiegészítő tevékenységet folytató személlyé válik.
 
-[^100]: A 31. § (1) bekezdése a 26/2018. (II. 28.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^101]: A 31. § (1) bekezdés a) pontja a 406/2023. (VIII. 30.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^102]: A 31. § (1) bekezdés b) pont nyitó szövegrésze a 686/2020. (XII. 29.) Korm. rendelet 18. § g) pontja, a 183/2021. (IV. 16.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
-[^103]: A 31. § (1) bekezdés b) pont ba) alpontja a 252/2020. (V. 29.) Korm. rendelet 2. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^104]: A 31. § (1) bekezdés b) pont bb) alpontja a 252/2020. (V. 29.) Korm. rendelet 2. § (1) bekezdés d) pontja, a 686/2020. (XII. 29.) Korm. rendelet 18. § h) pontja, az 530/2021. (IX. 14.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
-[^105]: A 31. § (1) bekezdés b) pont bc) alpontja a 46/2019. (III. 12.) Korm. rendelet 6. § a) pontja és 7. § a) pontja, a 252/2020. (V. 29.) Korm. rendelet 2. § (1) bekezdés c) pontja, a 686/2020. (XII. 29.) Korm. rendelet 18. § i) pontja szerint módosított szöveg.
-[^106]: A 31. § (1) bekezdés b) pont bd) alpontját a 686/2020. (XII. 29.) Korm. rendelet 12. § (2) bekezdése iktatta be.
-[^107]: A 31. § (1a) bekezdését a 26/2018. (II. 28.) Korm. rendelet 11. § (1) bekezdése iktatta be, szövege az 530/2021. (IX. 14.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
-[^108]: A 31. § (2) bekezdése a 686/2020. (XII. 29.) Korm. rendelet 12. § (3) bekezdésével megállapított szöveg.
-[^109]: A 31. § (2) bekezdés a) pontja a 406/2023. (VIII. 30.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
-[^110]: A 31. § (2) bekezdés b) pontja a 406/2023. (VIII. 30.) Korm. rendelet 17. § 8. pontja szerint módosított szöveg.
-[^111]: A 31. § (2) bekezdés c) pontját a 406/2023. (VIII. 30.) Korm. rendelet 10. § (2) bekezdése iktatta be.
-[^112]: A 31. § (2a) bekezdését a 183/2021. (IV. 16.) Korm. rendelet 4. §-a iktatta be, nyitó szövegrésze az 530/2021. (IX. 14.) Korm. rendelet 9. § d) pontja szerint módosított szöveg.
-[^113]: A 31. § (2b) bekezdését a 406/2023. (VIII. 30.) Korm. rendelet 10. § (3) bekezdése iktatta be.
-[^114]: A 31. § (3) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 568. § b) pontja, a 26/2018. (II. 28.) Korm. rendelet 22. § 9. pontja, a 46/2019. (III. 12.) Korm. rendelet 6. § b) pontja, a 616/2022. (XII. 29.) Korm. rendelet 230. § b) pontja, a 406/2023. (VIII. 30.) Korm. rendelet 17. § 7. pontja szerint módosított szöveg.
-[^115]: A 31. § (4) bekezdését a 26/2018. (II. 28.) Korm. rendelet 11. § (2) bekezdése iktatta be, szövege a 46/2019. (III. 12.) Korm. rendelet 7. § a) pontja, a 252/2020. (V. 29.) Korm. rendelet 2. § (1) bekezdés c) pontja és (2) bekezdés b) pontja, az 530/2021. (IX. 14.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
+[^106]: A 31. § (1) bekezdése a 26/2018. (II. 28.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^107]: A 31. § (1) bekezdés a) pontja a 406/2023. (VIII. 30.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^108]: A 31. § (1) bekezdés b) pont nyitó szövegrésze a 686/2020. (XII. 29.) Korm. rendelet 18. § g) pontja, a 183/2021. (IV. 16.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
+[^109]: A 31. § (1) bekezdés b) pont ba) alpontja a 252/2020. (V. 29.) Korm. rendelet 2. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^110]: A 31. § (1) bekezdés b) pont bb) alpontja a 252/2020. (V. 29.) Korm. rendelet 2. § (1) bekezdés d) pontja, a 686/2020. (XII. 29.) Korm. rendelet 18. § h) pontja, az 530/2021. (IX. 14.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
+[^111]: A 31. § (1) bekezdés b) pont bc) alpontja a 46/2019. (III. 12.) Korm. rendelet 6. § a) pontja és 7. § a) pontja, a 252/2020. (V. 29.) Korm. rendelet 2. § (1) bekezdés c) pontja, a 686/2020. (XII. 29.) Korm. rendelet 18. § i) pontja szerint módosított szöveg.
+[^112]: A 31. § (1) bekezdés b) pont bd) alpontját a 686/2020. (XII. 29.) Korm. rendelet 12. § (2) bekezdése iktatta be.
+[^113]: A 31. § (1a) bekezdését a 26/2018. (II. 28.) Korm. rendelet 11. § (1) bekezdése iktatta be, szövege az 530/2021. (IX. 14.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
+[^114]: A 31. § (2) bekezdése a 686/2020. (XII. 29.) Korm. rendelet 12. § (3) bekezdésével megállapított szöveg.
+[^115]: A 31. § (2) bekezdés a) pontja a 406/2023. (VIII. 30.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
+[^116]: A 31. § (2) bekezdés b) pontja a 406/2023. (VIII. 30.) Korm. rendelet 17. § 8. pontja szerint módosított szöveg.
+[^117]: A 31. § (2) bekezdés c) pontját a 406/2023. (VIII. 30.) Korm. rendelet 10. § (2) bekezdése iktatta be.
+[^118]: A 31. § (2a) bekezdését a 183/2021. (IV. 16.) Korm. rendelet 4. §-a iktatta be, nyitó szövegrésze az 530/2021. (IX. 14.) Korm. rendelet 9. § d) pontja szerint módosított szöveg.
+[^119]: A 31. § (2b) bekezdését a 406/2023. (VIII. 30.) Korm. rendelet 10. § (3) bekezdése iktatta be.
+[^120]: A 31. § (3) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 568. § b) pontja, a 26/2018. (II. 28.) Korm. rendelet 22. § 9. pontja, a 46/2019. (III. 12.) Korm. rendelet 6. § b) pontja, a 616/2022. (XII. 29.) Korm. rendelet 230. § b) pontja, a 406/2023. (VIII. 30.) Korm. rendelet 17. § 7. pontja szerint módosított szöveg.
+[^121]: A 31. § (4) bekezdését a 26/2018. (II. 28.) Korm. rendelet 11. § (2) bekezdése iktatta be, szövege a 46/2019. (III. 12.) Korm. rendelet 7. § a) pontja, a 252/2020. (V. 29.) Korm. rendelet 2. § (1) bekezdés c) pontja és (2) bekezdés b) pontja, az 530/2021. (IX. 14.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.

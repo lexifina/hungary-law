@@ -1,3 +1,6 @@
-45. § (1) Új lakás építése esetén a támogatott személy legkésőbb a családi otthonteremtési kedvezmény utolsó részfolyósításáig bemutatja a használatbavételi engedélyt, a használatbavétel tudomásulvételét igazoló hatósági bizonyítványt vagy az egyszerű bejelentéshez kötött épület felépítésének megtörténtéről szóló hatósági bizonyítványt.
+45. § (1)[^193] Új lakás építése esetén a támogatott személy legkésőbb a családi otthonteremtési kedvezmény utolsó részfolyósításáig bemutatja a használatbavételi engedélyt.
 
-(2) Ha a fiatal házaspár új lakás építéséhez a családok megelőlegezett otthonteremtési kedvezményét igényli, a használatbavételi engedélyt, a használatbavétel tudomásulvételét igazoló hatósági bizonyítványt vagy a bejelentéshez kötött épület felépítésének bejelentésekor kiállított bejelentéshez kötött épület felépítésének megtörténtéről szóló hatósági bizonyítványt a kiadását követő 30 napon belül, de legkésőbb a használatbavétel tudomásulvételét követő 45 napon belül köteles a hitelintézet részére bemutatni.
+(2)[^194] Ha a fiatal házaspár új lakás építéséhez a családok megelőlegezett otthonteremtési kedvezményét igényli, a használatbavételi engedélyt a kiadását követő 30 napon belül, de legkésőbb a használatbavétel tudomásulvételét követő 45 napon belül köteles a hitelintézet részére bemutatni.
+
+[^193]: A 45. § (1) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 116. § 12. pontja szerint módosított szöveg.
+[^194]: A 45. § (2) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 116. § 13. pontja szerint módosított szöveg.
