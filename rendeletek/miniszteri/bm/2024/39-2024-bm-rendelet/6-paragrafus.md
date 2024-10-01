@@ -1,0 +1,1 @@
+6. § Az egyes tűzmegelőzési hatósági, szakhatósági eljárásokért és szolgáltatásokért fizetendő igazgatási szolgáltatási díjról szóló 16/2012. (IV. 3.) BM rendelet 1. §-ában a „hivatásos katasztrófavédelmi szerv központi szervénél, valamint területi és helyi szerveinél” szövegrész helyébe a „Kormány által rendeletben kijelölt tűzvédelmi hatóságnál” szöveg lép.
