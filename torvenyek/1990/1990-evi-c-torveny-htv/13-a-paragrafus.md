@@ -1,8 +1,8 @@
 ## Műemléképület felújításához kapcsolódó adómentesség
 
-13/A. § (1) Ha a műemléki értékként külön jogszabályban védetté nyilvánított vagy önkormányzati rendelet alapján helyi egyedi védelem alatt álló épületet (a továbbiakban: műemléképületet) felújítják, akkor az épület, illetve az épületben lévő önálló adótárgy (lakás, nem lakás céljára szolgáló épületrész) a (2)–(7) bekezdésekben meghatározottak szerint a felújításra kiadott építési engedély vagy örökségvédelmi engedély jogerőre emelkedését, véglegessé válását követő három egymást követő adóévben mentes az adó alól.
+13/A. § (1) Ha önkormányzati rendelet alapján a helyi emléknek vagy nemzeti emléknek minősülő műemléki védelem alatt álló épületet felújítják, akkor az épület, illetve az épületben lévő önálló adótárgy (lakás, nem lakás céljára szolgáló épületrész) a (2)–(7) bekezdésben meghatározottak szerint a felújításra kiadott engedély véglegessé válását követő három egymást követő adóévben mentes az adó alól.
 
-(2) E § alkalmazásában felújítás alatt a műemléképület egészén, illetve homlokzatán és több főszerkezetén végzett olyan általános javítást kell érteni, amely teljesen visszaállítja az épület esztétikai állapotát, valamint legalább eredeti műszaki állapotát. Az adó alanya az (1) bekezdés szerinti mentességet az adóhatóságnál kérelmezheti.
+(2) E § alkalmazásában felújítás alatt az (1) bekezdésben meghatározott épület egészén, illetve homlokzatán és több főszerkezetén végzett olyan általános javítást kell érteni, amely teljesen visszaállítja az épület esztétikai állapotát, valamint legalább eredeti műszaki állapotát. Az adó alanya az (1) bekezdés szerinti mentességet az adóhatóságnál kérelmezheti.
 
 (3) Az adóhatóság az adómentességre jogosult kérelmét nyilvántartásba veszi és az adót évente megállapítja. A megállapított, de meg nem fizetett adót és az eredeti esedékességtől számított – 14/A. § (1) bekezdése szerinti – kamatot az adóhatóság az ingatlanra bejegyzett jelzáloggal biztosítja.
 

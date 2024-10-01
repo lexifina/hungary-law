@@ -12,7 +12,7 @@
 
 4. külterület: a település közigazgatási határának belterületén kívül eső földrészlete, ideértve a zártkertet is,
 
-5. épület: az épített környezet alakításáról és védelméről szóló törvény szerinti olyan építmény vagy annak azon része, amely a környező külső tértől szerkezeti elemekkel részben vagy egészben mesterségesen kialakított, elválasztott teret alkot és ezzel az állandó vagy időszakos tartózkodás, illetve használat feltételeit biztosítja, ideértve az olyan önálló létesítményt is, amely részben vagy teljes belmagasságával a környező csatlakozó terepszint alatt van;
+5. épület: a magyar építészetről szóló törvény szerinti olyan építmény vagy annak azon része, amely a környező külső tértől szerkezeti elemekkel részben vagy egészben mesterségesen kialakított, elválasztott teret alkot és ezzel az állandó vagy időszakos tartózkodás, illetve használat feltételeit biztosítja, ideértve az olyan önálló létesítményt is, amely részben vagy teljes belmagasságával a környező csatlakozó terepszint alatt van;
 
 6. épületrész: az épület önálló rendeltetésű, a szabadból vagy az épület közös közlekedőjéből nyíló önálló bejárattal ellátott helyisége vagy helyiség-csoportja, amely a 8., a 20., a 45. és 47. pontokban foglaltak szerint azzal felel meg lakásnak, üdülőnek, kereskedelmi egységnek, egyéb nem lakás céljára szolgáló épületnek, hogy az ingatlan-nyilvántartásban önálló ingatlanként nem szerepel;
 
@@ -166,7 +166,7 @@ g) a munka törvénykönyvéről szóló törvény szerinti munkaerő-kölcsönz
 
 42. saját vállalkozásban végzett beruházás: a számviteli törvény szerinti tárgyi eszköznek minősülő eszközök saját vállalkozásban végzett megvalósítása, létesítése, bővítése, rendeltetésének megváltoztatása, átalakítása, élettartamának növelése, eredeti állagának helyreállítását szolgáló felújítása – ide nem értve a tárgyi eszköz folyamatos, zavartalan, biztonságos üzemeltetését szolgáló javítási, karbantartási munkákat, továbbá az erdőnevelési, erdőfenntartási, erdőfelújítási munkákat – akkor is, ha az adóalany kizárólag a beruházás megvalósításához szükséges anyagot biztosítja,
 
-43. építési tilalom: az épített környezet alakításáról és védelméről szóló törvény alapján elrendelt változtatási, telekalakítási, illetőleg építési tilalom,
+43. építési tilalom: a magyar építészetről szóló törvény alapján elrendelt változtatási, telekalakítási, illetőleg építési tilalom,
 
 44. helyi és helyközi menetrendszerinti tömegközlekedés: a díjfizetés ellenében bárki által igénybe vehető menetrendszerinti személyszállító járatokkal lebonyolított közlekedés,.
 
