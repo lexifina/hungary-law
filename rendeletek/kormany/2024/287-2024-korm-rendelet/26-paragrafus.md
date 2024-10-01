@@ -1,0 +1,3 @@
+## 3. Az ingatlan-nyilvántartásról szóló 2021. évi C. törvény végrehajtásáról szóló 179/2023. (V. 15.) Korm. rendelet és az állam működésének további egyszerűsítésével összefüggő egyes kormányrendeletek módosításáról szóló 561/2023. (XII. 14.) Korm. rendelet módosításáról szóló 12/2024. (I. 30.) Korm. rendelet módosítása
+
+26. § Hatályát veszti az ingatlan-nyilvántartásról szóló 2021. évi C. törvény végrehajtásáról szóló 179/2023. (V. 15.) Korm. rendelet és az állam működésének további egyszerűsítésével összefüggő egyes kormányrendeletek módosításáról szóló 561/2023. (XII. 14.) Korm. rendelet módosításáról szóló 12/2024. (I. 30.) Korm. rendelet (a továbbiakban: R1.) 25. § (2) bekezdése.
