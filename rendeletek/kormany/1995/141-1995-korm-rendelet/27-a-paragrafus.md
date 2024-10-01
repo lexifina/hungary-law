@@ -30,7 +30,7 @@ c) addig a pontig terjed, amelyen túl nincsenek légiközlekedési akadályok, 
 
 11. törhető tereptárgy: olyan könnyű tárgy, amely nekiütközéskor letörik, elhajlik vagy kitér, és így a legkisebb veszélyt jelenti a légijármű számára.
 
-(2) Az e rendeletben meg nem határozott fogalmakat a repülőterekhez kapcsolódó követelményeknek és igazgatási eljárásoknak a 216/2008/EK európai parlamenti és tanácsi rendelet értelmében történő meghatározásáról szóló 139/2014/EU bizottsági rendeletben, valamint az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvényben meghatározottak szerint kell értelmezni.
+(2)[^83] Az e rendeletben meg nem határozott fogalmakat a repülőterekhez kapcsolódó követelményeknek és igazgatási eljárásoknak a 216/2008/EK európai parlamenti és tanácsi rendelet értelmében történő meghatározásáról szóló 139/2014/EU bizottsági rendeletben, valamint a magyar építészetről szóló törvényben meghatározottak szerint kell értelmezni.
 
 [^77]: A Vhr. 27/A. §-t és az azt megelőző alcímet a 167/2019. (VII. 9.) Korm. rendelet 4. §-a iktatta be.
 [^78]: A Vhr. 27/A. § (1) bekezdés 1. pontja a 176/2022. (IV. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
@@ -38,3 +38,4 @@ c) addig a pontig terjed, amelyen túl nincsenek légiközlekedési akadályok, 
 [^80]: A Vhr. 27/A. § (1) bekezdés 5. pontja a 176/2022. (IV. 29.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
 [^81]: A Vhr. 27/A. § (1) bekezdés 7. pontja a 609/2021. (XI. 5.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^82]: A Vhr. 27/A. § (1) bekezdés 9. pontja a 176/2022. (IV. 29.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^83]: A Vhr. 27/A. § (2) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 1. §-a szerint módosított szöveg.
