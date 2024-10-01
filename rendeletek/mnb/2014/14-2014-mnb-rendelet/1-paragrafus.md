@@ -10,5 +10,8 @@ c) a Magyar Export-Import Bank Zrt.-re és
 
 d)[^2] a KELER Zrt.-re.
 
+e)[^3] a 100 milliárd forintnál alacsonyabb mérlegfőösszeggel rendelkező hitelintézetre, hitelintézeti csoportra.
+
 [^1]: Az 1. § (1) bekezdése a 26/2015. (VII. 30.) MNB rendelet 1. §-ával megállapított szöveg.
 [^2]: Az 1. § (2) bekezdés d) pontja a 22/2018. (VI. 27.) MNB rendelet 1. §-ával megállapított szöveg.
+[^3]: Az 1. § (2) bekezdés e) pontját a 44/2024. (IX. 19.) MNB rendelet 4. §-a iktatta be.

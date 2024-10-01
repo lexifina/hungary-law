@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-14-20-2
 | 2018-07-01 | 2014-14-20-2C.5 | 22/2018. (VI. 27.) MNB rendelet |
 | 2020-03-24 | 2014-14-20-2C.6 | 5/2020. (III. 19.) MNB rendelet |
 | 2020-09-17 | 2014-14-20-2C.7 | 26/2015. (VII. 30.) MNB rendelet |
+| 2024-10-01 | 2014-14-20-2C.8 | 44/2024. (IX. 19.) MNB rendelet |

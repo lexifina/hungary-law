@@ -2,17 +2,17 @@
 
 1. államkötvény: a pénz- és hitelpiaci szervezetek által a jegybanki információs rendszerhez elsődlegesen a Magyar Nemzeti Bank felügyeleti feladatai ellátása érdekében teljesítendő adatszolgáltatási kötelezettségekről szóló MNB rendelet szerint meghatározott értékpapír;
 
-2.[^3] egyéb szektor: a jegybanki információs rendszerhez elsődlegesen a Magyar Nemzeti Bank alapvető feladatai ellátása érdekében teljesítendő adatszolgáltatási kötelezettségekről szóló MNB rendelet szerint meghatározott központi bank, központi kormányzat, helyi önkormányzatok, társadalombiztosítási alapok, valamint háztartásokat segítő nonprofit intézmények szektorába sorolt jogi személy, valamint jogi személyiséggel nem rendelkező szervezet, függetlenül attól, hogy rezidens vagy nem-rezidens;
+2.[^4] egyéb szektor: a jegybanki információs rendszerhez elsődlegesen a Magyar Nemzeti Bank alapvető feladatai ellátása érdekében teljesítendő adatszolgáltatási kötelezettségekről szóló MNB rendelet szerint meghatározott központi bank, központi kormányzat, helyi önkormányzatok, társadalombiztosítási alapok, valamint háztartásokat segítő nonprofit intézmények szektorába sorolt jogi személy, valamint jogi személyiséggel nem rendelkező szervezet, függetlenül attól, hogy rezidens vagy nem-rezidens;
 
 3. egyéb követelés: a befektetési szolgáltatási tevékenységből származó követelés és az egyéb aktív elszámolás;
 
 4. egyéb mérlegen kívüli kötelezettség: olyan, szerződés alapján fennálló mérlegen kívüli kötelezettség, illetve követelés, amely pénzeszköz vagy egyéb eszköz átadására, illetve átvételére vonatkozik, a mérleg fordulónapján már fennáll, de mérlegtételkénti szerepeltetése egy jövőbeni esemény bekövetkezésétől, vagy a szerződés teljesítésétől függ;
 
-5.[^4] hátralévő lejárat: hitel, betét vagy egyéb instrumentum esetén a devizafinanszírozás megfelelési mutató számításának időpontja és a szerződésben meghatározott eredeti lejárat között fennálló időtartam; forrás tételeknél azt kell feltételezni, hogy a forrást elhelyező a legkorábbi időpontban él a visszahívási opciójával;
+5.[^5] hátralévő lejárat: hitel, betét vagy egyéb instrumentum esetén a devizafinanszírozás megfelelési mutató számításának időpontja és a szerződésben meghatározott eredeti lejárat között fennálló időtartam; forrás tételeknél azt kell feltételezni, hogy a forrást elhelyező a legkorábbi időpontban él a visszahívási opciójával;
 
 6. hitelkeret: a pénz- és hitelpiaci szervezetek által a jegybanki információs rendszerhez elsődlegesen a Magyar Nemzeti Bank felügyeleti feladatai ellátása érdekében teljesítendő adatszolgáltatási kötelezettségekről szóló MNB rendelet szerint meghatározott fogalom;
 
-7.[^5]
+7.[^6]
 
 8. könyv szerinti bruttó érték: a pénz- és hitelpiaci szervezetek által a jegybanki információs rendszerhez elsődlegesen a Magyar Nemzeti Bank felügyeleti feladatai ellátása érdekében teljesítendő adatszolgáltatási kötelezettségekről szóló MNB rendelet szerint meghatározott fogalom;
 
@@ -40,16 +40,16 @@ b) a forrás oldalon ide tartozik a konkrét lejárathoz nem köthető saját t�
 
 18. pénzpiaci alap: a pénz- és hitelpiaci szervezetek által a jegybanki információs rendszerhez elsődlegesen a Magyar Nemzeti Bank felügyeleti feladatai ellátása érdekében teljesítendő adatszolgáltatási kötelezettségekről szóló MNB rendelet szerint meghatározott befektetési alap;
 
-19.[^6] pénzügyi vállalat: a jegybanki információs rendszerhez elsődlegesen a Magyar Nemzeti Bank alapvető feladatai ellátása érdekében teljesítendő adatszolgáltatási kötelezettségekről szóló MNB rendelet szerint meghatározott egyéb monetáris pénzügyi intézmények, egyéb pénzügyi közvetítők, pénzügyi kiegészítő tevékenységet végzők, valamint biztosítók és nyugdíjpénztárak szektorába sorolt természetes és jogi személy, valamint jogi személyiséggel nem rendelkező szervezet, függetlenül attól, hogy rezidens vagy nem-rezidens;
+19.[^7] pénzügyi vállalat: a jegybanki információs rendszerhez elsődlegesen a Magyar Nemzeti Bank alapvető feladatai ellátása érdekében teljesítendő adatszolgáltatási kötelezettségekről szóló MNB rendelet szerint meghatározott egyéb monetáris pénzügyi intézmények, egyéb pénzügyi közvetítők, pénzügyi kiegészítő tevékenységet végzők, valamint biztosítók és nyugdíjpénztárak szektorába sorolt természetes és jogi személy, valamint jogi személyiséggel nem rendelkező szervezet, függetlenül attól, hogy rezidens vagy nem-rezidens;
 
 20. rezidens: a jegybanki információs rendszerhez elsődlegesen a Magyar Nemzeti Bank alapvető feladatai ellátása érdekében teljesítendő adatszolgáltatási kötelezettségekről szóló MNB rendelet szerint meghatározott fogalom;
 
-21.[^7] stabil devizabetét: az a devizabetét, amely az 575/2013/EU európai parlamenti és tanácsi rendeletnek a hitelintézetekre vonatkozó likviditásfedezeti követelmények tekintetében történő kiegészítéséről szóló, 2014. október 10-i (EU) 2015/61 felhatalmazáson alapuló bizottsági rendelet 24. cikke szerinti jellemzőkkel bír;
+21.[^8] stabil devizabetét: az a devizabetét, amely az 575/2013/EU európai parlamenti és tanácsi rendeletnek a hitelintézetekre vonatkozó likviditásfedezeti követelmények tekintetében történő kiegészítéséről szóló, 2014. október 10-i (EU) 2015/61 felhatalmazáson alapuló bizottsági rendelet 24. cikke szerinti jellemzőkkel bír;
 
 22. változó devizás hitelkeret: olyan le nem hívott hitelkeret, amely esetében a hitelintézet saját döntése a folyósított hitel denominációjának megválasztása, ideértve a forintban vagy a devizában denominált ilyen tulajdonsággal rendelkező hitelkereteket is.
 
-[^3]: A 2. § 2. pontja a 22/2018. (VI. 27.) MNB rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^4]: A 2. § 5. pontja a 22/2018. (VI. 27.) MNB rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^5]: A 2. § 7. pontját a 22/2018. (VI. 27.) MNB rendelet 6. §-a hatályon kívül helyezte.
-[^6]: A 2. § 19. pontja a 22/2018. (VI. 27.) MNB rendelet 2. § (3) bekezdésével megállapított szöveg.
-[^7]: A 2. § 21. pontja a 22/2018. (VI. 27.) MNB rendelet 2. § (4) bekezdésével megállapított szöveg.
+[^4]: A 2. § 2. pontja a 22/2018. (VI. 27.) MNB rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^5]: A 2. § 5. pontja a 22/2018. (VI. 27.) MNB rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^6]: A 2. § 7. pontját a 22/2018. (VI. 27.) MNB rendelet 6. §-a hatályon kívül helyezte.
+[^7]: A 2. § 19. pontja a 22/2018. (VI. 27.) MNB rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^8]: A 2. § 21. pontja a 22/2018. (VI. 27.) MNB rendelet 2. § (4) bekezdésével megállapított szöveg.

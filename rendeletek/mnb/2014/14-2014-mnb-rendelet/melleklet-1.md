@@ -1,8 +1,8 @@
 ## 9. § E rendelet tervezetének a nemzeti hatóságoknak az Európai Központi Bankkal a jogszabálytervezetekről folytatott konzultációjáról szóló, 1998. június 29-i 98/415/EK tanácsi határozat 2. cikk (1) bekezdés hatodik francia bekezdése szerinti előzetes bejelentése megtörtént.
 
-1. melléklet a 14/2014. (V. 19.) MNB rendelethez[^14]
+1. melléklet a 14/2014. (V. 19.) MNB rendelethez[^18]
 
-## A devizafinanszírozás megfelelési mutató számításának módja
+A devizafinanszírozás megfelelési mutató számításának módja
 
 1. A devizafinanszírozás megfelelési mutató a devizaforrások, valamint a finanszírozott stabil devizaeszközök és mérlegen kívüli devizakötelezettségek nettó értékeinek a hányadosaként számítandó ki.
 
@@ -94,4 +94,4 @@
 
 | 17. | Változó devizás hitelkeret | 2,5% |
 
-[^14]: Az 1. melléklet a 26/2015. (VII. 30.) MNB rendelet 3. § (2) bekezdése, a 22/2018. (VI. 27.) MNB rendelet 3. §-a, az 5/2020. (III. 19.) MNB rendelet 1. § (2) bekezdése, a 30/2020. (IX. 16.) MNB rendelet 1. §-a és 5. §-a szerint módosított szöveg.
+[^18]: Az 1. melléklet a 26/2015. (VII. 30.) MNB rendelet 3. § (2) bekezdése, a 22/2018. (VI. 27.) MNB rendelet 3. §-a, az 5/2020. (III. 19.) MNB rendelet 1. § (2) bekezdése, a 30/2020. (IX. 16.) MNB rendelet 1. §-a és 5. §-a szerint módosított szöveg.
