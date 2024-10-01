@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-51-20-2
 | 2018-03-20 | 2018-51-20-22.1 | 51/2018. (III. 19.) Korm. rendelet |
 | 2019-09-01 | 2018-51-20-22.2 | 204/2019. (VIII. 23.) Korm. rendelet |
 | 2022-12-23 | 2018-51-20-22.3 | 546/2022. (XII. 22.) Korm. rendelet |
+| 2024-10-01 | 2018-51-20-22.4 | 257/2024. (VIII. 29.) Korm. rendelet |
