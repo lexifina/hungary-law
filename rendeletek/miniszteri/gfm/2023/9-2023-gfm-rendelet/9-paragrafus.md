@@ -1,4 +1,4 @@
-9. §[^10] (1) A Magyar Vállalkozói Nagydíj a gazdaság érdekében végzett kimagasló, példamutató tevékenység elismeréseként olyan gazdasági szakembernek adományozható, akinek a gazdasági és közéleti szerepvállalása, társadalmi felelősségvállalása, valamint vállalkozói és üzletemberi tevékenysége példaképül állítható a gazdaság többi szereplője számára.
+9. §[^13] (1) A Magyar Vállalkozói Nagydíj a gazdaság érdekében végzett kimagasló, példamutató tevékenység elismeréseként olyan gazdasági szakembernek adományozható, akinek a gazdasági és közéleti szerepvállalása, társadalmi felelősségvállalása, valamint vállalkozói és üzletemberi tevékenysége példaképül állítható a gazdaság többi szereplője számára.
 
 (2) Évente legfeljebb egy Magyar Vállalkozói Nagydíj adományozható belföldi székhelyű gazdálkodó szervezet tulajdonosa vagy a szervezettel munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló munkatárs részére.
 
@@ -6,4 +6,4 @@
 
 (4) A Magyar Vállalkozói Nagydíjjal oklevél jár, továbbá legfeljebb nettó 1 000 000 forint összegű pénzjutalom adható.
 
-[^10]: A 9. § a 30/2023. (XI. 29.) GFM rendelet 2. §-ával megállapított szöveg.
+[^13]: A 9. § a 30/2023. (XI. 29.) GFM rendelet 2. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-4. § (1)[^8] Miniszteri elismerő oklevélre és a 2. § (2) bekezdés a)–g) és i)–k) pontja szerinti díjra jelölt az adományozásról szóló kezdeményezés miniszteri döntésre való felterjesztését megelőzően tett, személyes adatai kezeléséhez hozzájáruló nyilatkozata hiányában miniszteri elismerő oklevélben és a 2. § (2) bekezdés a)–g) és i)–k) pontja szerinti díjban nem részesíthető.
+4. § (1)[^11] Miniszteri elismerő oklevélre és a 2. § (2) bekezdés a)–g) és i)–l) pontja szerinti díjra jelölt az adományozásról szóló kezdeményezés miniszteri döntésre való felterjesztését megelőzően tett, személyes adatai kezeléséhez hozzájáruló nyilatkozata hiányában miniszteri elismerő oklevélben és a 2. § (2) bekezdés a)–g) és i)–l) pontja szerinti díjban nem részesíthető.
 
 (2) Az (1) bekezdés szerinti nyilatkozat formanyomtatványát a 2. melléklet tartalmazza.
 
@@ -16,4 +16,4 @@ e) aki legkésőbb a díjra vagy a miniszteri elismerő oklevélre történő fe
 
 (4) Méltatlanná válik a miniszter által adományozott díjra az a személy, akit szándékos bűncselekmény miatt jogerősen szabadságvesztésre ítéltek, jogerős bírói ítélettel a közügyektől vagy – ha az elismerésben a foglalkozással összefüggő tevékenységére tekintettel részesült – a foglalkozásától eltiltottak. A méltatlanná vált személytől a miniszter – a méltatlanság okának fennállásáról történő tudomásszerzést követően haladéktalanul – a díjat visszavonja.
 
-[^8]: A 4. § (1) bekezdése a 24/2024. (VII. 18.) NGM rendelet 5. § b) pontja szerint módosított szöveg.
+[^11]: A 4. § (1) bekezdése a 37/2024. (IX. 30.) NGM rendelet 6. § a) pontja szerint módosított szöveg.

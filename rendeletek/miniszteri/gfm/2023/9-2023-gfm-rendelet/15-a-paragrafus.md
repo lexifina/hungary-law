@@ -1,4 +1,4 @@
-15/A. §[^12] (1) Kőrösi Csoma Sándor Nagydíj (a továbbiakban: Nagydíj) a turisztikai tevékenység irányításában, tervezésében, szervezésében, a nemzetközi turisztikai kapcsolatok, valamint a társadalmi felelősségvállalás terén végzett példamutató és kiemelkedő tevékenység elismeréseként adományozható.
+15/A. §[^15] (1) Kőrösi Csoma Sándor Nagydíj (a továbbiakban: Nagydíj) a turisztikai tevékenység irányításában, tervezésében, szervezésében, a nemzetközi turisztikai kapcsolatok, valamint a társadalmi felelősségvállalás terén végzett példamutató és kiemelkedő tevékenység elismeréseként adományozható.
 
 (2) Kőrösi Csoma Sándor Életműdíj (a továbbiakban: Életműdíj) a turisztikai tevékenység irányításában, tervezésében, szervezésében, a nemzetközi turisztikai kapcsolatok terén az életútját meghatározó ideig végzett kiemelkedő teljesítmény elismeréseként annak a személynek adományozható, aki az adományozás évében a 60. életévét már betöltötte, és legalább 20 éve szolgálja tevékenyen a turizmus ágazatot.
 
@@ -24,4 +24,4 @@ adományozható.
 
 (9) Kőrösi Csoma Sándor díj posztumusz is adományozható. Posztumusz elismerés esetében a 2. melléklet szerinti nyilatkozat megtételére és az adományozó okirat átvételére a díjazott özvegye vagy örököse jogosult.
 
-[^12]: A 15/A. §-t a 24/2024. (VII. 18.) NGM rendelet 3. §-a iktatta be.
+[^15]: A 15/A. §-t a 24/2024. (VII. 18.) NGM rendelet 3. §-a iktatta be.
