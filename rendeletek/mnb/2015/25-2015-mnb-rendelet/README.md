@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-25-20-2
 | 2020-03-24 | 2015-25-20-2C.2 | 5/2020. (III. 19.) MNB rendelet |
 | 2020-09-17 | 2015-25-20-2C.3 | 30/2020. (IX. 16.) MNB rendelet |
 | 2021-12-10 | 2015-25-20-2C.4 | 30/2020. (IX. 16.) MNB rendelet |
+| 2024-10-01 | 2015-25-20-2C.5 | 44/2024. (IX. 19.) MNB rendelet |

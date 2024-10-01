@@ -9,3 +9,7 @@ b) a Magyar Fejlesztési Bank Zrt.-re,
 c) a Magyar Export-Import Bank Zrt.-re és
 
 d) a Központi Elszámolóház és Értéktár (Budapest) Zrt.-re.
+
+e)[^1] a 100 milliárd forintnál alacsonyabb mérlegfőösszeggel rendelkező hitelintézetre, hitelintézeti csoportra.
+
+[^1]: Az 1. § (2) bekezdés e) pontját a 44/2024. (IX. 19.) MNB rendelet 3. §-a iktatta be.
