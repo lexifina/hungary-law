@@ -29,3 +29,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-145-20-
 | 2023-12-29 | 1999-145-20-22.31 | 659/2023. (XII. 28.) Korm. rendelet |
 | 2024-01-01 | 1999-145-20-22.29 | 377/2023. (VIII. 10.) Korm. rendelet |
 | 2024-07-01 | 1999-145-20-22.32 | 457/2017. (XII. 28.) Korm. rendelet |
+| 2024-10-01 | 1999-145-20-22.33 | 379/2013. (X. 25.) Korm. rendelet |

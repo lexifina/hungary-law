@@ -6,7 +6,7 @@
 
 (4) Oldalirányú üreggel ellátott egyes vagy kettős sírhelyet nem szabad létesíteni.
 
-(5)[^11] A sírbolt (kripta) koporsó elhelyezését biztosító, terepszint alatti és feletti, vagy kizárólag terepszint alatti vagy feletti építményből álló temetési hely. A sírbolt méretét a befogadott koporsók száma határozza meg. A sírbolt temetőn belüli elhelyezését a temető tulajdonosa (üzemeltetője) jelöli ki. Sírbolt az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló kormányrendeletben meghatározott esetekben az építésügyi hatóság engedélye nélkül építhető.
+(5)[^11] A sírbolt (kripta) koporsó elhelyezését biztosító, terepszint alatti és feletti, vagy kizárólag terepszint alatti vagy feletti építményből álló temetési hely. A sírbolt méretét a befogadott koporsók száma határozza meg. A sírbolt temetőn belüli elhelyezését a temető tulajdonosa (üzemeltetője) jelöli ki.
 
 (6) A sírboltok, a gyermek, a kettős és az urnasírhelyek részére az egységes gondozás céljából külön táblát vagy sorokat lehet kijelölni.
 
@@ -22,6 +22,6 @@ c) a rátemetés előtt az első betemetéskor elhelyezett koporsót a talajvíz
 
 [^9]: A 11. § (2) bekezdése a 7/2000. (I. 27.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^10]: A 11. § (3) bekezdése a 48/2007. (III. 20.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^11]: A 11. § (5) bekezdése a 379/2013. (X. 25.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^11]: A 11. § (5) bekezdése a 379/2013. (X. 25.) Korm. rendelet 3. §-ával megállapított, a 285/2024. (IX. 30.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
 [^12]: A 11. § (7) bekezdését a 48/2007. (III. 20.) Korm. rendelet 2. § (2) bekezdése iktatta be.
 [^13]: A 11. § (8) bekezdését a 48/2007. (III. 20.) Korm. rendelet 2. § (2) bekezdése iktatta be.
