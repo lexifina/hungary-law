@@ -1,6 +1,6 @@
 ## 26. Az élelmiszerlánc-felügyeleti hatósági eljárásokban vizsgálandó szakkérdések
 
-70. § (1)[^301] Ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges, a kizárólag állati eredetű melléktermékek égetését vagy együttégetését végző üzem működése engedélyezésére irányuló eljárásban szakkérdésként kell vizsgálni az állati melléktermék égetésére vonatkozó levegőtisztaság-védelmi, hulladékgazdálkodási előírásoknak és határértékeknek való megfelelést, valamint a levegővédelmi ellenőrzések gyakoriságára vonatkozó előírások teljesítését.
+70. § (1)[^302] Ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges, a kizárólag állati eredetű melléktermékek égetését vagy együttégetését végző üzem működése engedélyezésére irányuló eljárásban szakkérdésként kell vizsgálni az állati melléktermék égetésére vonatkozó levegőtisztaság-védelmi, hulladékgazdálkodási előírásoknak és határértékeknek való megfelelést, valamint a levegővédelmi ellenőrzések gyakoriságára vonatkozó előírások teljesítését.
 
 (2) A kísérleti vagy tudományos célú tevékenység, illetve fajtaszelekciós munka céljára a jogszabályban meghatározott, tilalmazott, Magyarországon nem honos károsítónak, illetve az egyéb, Magyarországon nem honos, életképes növényi károsító bármely fejlődési alakjának, tenyészetének Magyarországra való behozatala engedélyezésére irányuló eljárásban szakkérdésként kell vizsgálni, hogy a tevékenység a természet védelmére vonatkozó nemzeti és európai uniós jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e.
 
@@ -12,10 +12,10 @@ b) ha a tevékenység megkezdéséhez környezetvédelmi engedély és egységes
 
 c) barlang védőövezetén belül tervezett tevékenység esetén a barlang védelmére vonatkozó jogszabályi követelményeknek való megfelelést.
 
-(4)[^302] A kegyeleti állattemető működésének engedélyezésére irányuló eljárásban szakkérdésként kell vizsgálni az egészségkárosító kockázatok és esetleges hatások, az egészségvédelmi, a települési hulladékkal és nem közművel összegyűjtött háztartási szennyvízzel kapcsolatos közegészségügyi, járványügyi vonatkozású követelmények, a környezetvédelmi előírások, valamint a kémiai biztonságra vonatkozó jogszabályi előírások teljesítését.
+(4)[^303] A kegyeleti állattemető működésének engedélyezésére irányuló eljárásban szakkérdésként kell vizsgálni az egészségkárosító kockázatok és esetleges hatások, az egészségvédelmi, a települési hulladékkal és nem közművel összegyűjtött háztartási szennyvízzel kapcsolatos közegészségügyi, járványügyi vonatkozású követelmények, a környezetvédelmi előírások, valamint a kémiai biztonságra vonatkozó jogszabályi előírások teljesítését.
 
-(5)[^303] A kiskapacitású égetők működésének engedélyezésére irányuló eljárásban – ha kizárólag állati mellékterméket és azokból származó terméket kezelnek – a környezetvédelmi szakkérdéseket nem kell vizsgálni.
+(5)[^304] A kiskapacitású égetők működésének engedélyezésére irányuló eljárásban – ha kizárólag állati mellékterméket és azokból származó terméket kezelnek – a környezetvédelmi szakkérdéseket nem kell vizsgálni.
 
-[^301]: A 70. § (1) bekezdése a 20/2017. (II. 2.) Korm. rendelet 17. § (6) bekezdésével megállapított szöveg.
-[^302]: A 70. § (4) bekezdése a 20/2017. (II. 2.) Korm. rendelet 17. § (8) bekezdés f) pontja szerint módosított szöveg.
-[^303]: A 70. § (5) bekezdését a 20/2017. (II. 2.) Korm. rendelet 17. § (7) bekezdése iktatta be.
+[^302]: A 70. § (1) bekezdése a 20/2017. (II. 2.) Korm. rendelet 17. § (6) bekezdésével megállapított szöveg.
+[^303]: A 70. § (4) bekezdése a 20/2017. (II. 2.) Korm. rendelet 17. § (8) bekezdés f) pontja szerint módosított szöveg.
+[^304]: A 70. § (5) bekezdését a 20/2017. (II. 2.) Korm. rendelet 17. § (7) bekezdése iktatta be.
