@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-410-20-
 | 2021-07-13 | 2015-410-20-22.7 | 411/2021. (VII. 12.) Korm. rendelet |
 | 2021-07-16 | 2015-410-20-22.8 | 336/2016. (XI. 11.) Korm. rendelet |
 | 2022-12-23 | 2015-410-20-22.9 | 546/2022. (XII. 22.) Korm. rendelet |
+| 2024-10-01 | 2015-410-20-22.10 | 257/2024. (VIII. 29.) Korm. rendelet |
