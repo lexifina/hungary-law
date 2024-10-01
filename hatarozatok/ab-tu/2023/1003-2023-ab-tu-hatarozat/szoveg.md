@@ -6,15 +6,17 @@ Az Alkotmánybíróság teljes ülése az Alkotmánybíróságról szóló 2011.
 
 Az 1. öttagú tanács tagjai:
 
-Dr. Horváth Attila tanácsvezető alkotmánybíró,
+dr. Varga Réka tanácsvezető alkotmánybíró,
 
-Dr. Juhász Imre alkotmánybíró,
+dr. Horváth Attila alkotmánybíró,
 
-Dr. Juhász Miklós alkotmánybíró,
+dr. Juhász Imre alkotmánybíró,
 
-Dr. Szabó Marcel alkotmánybíró,
+dr. Juhász Miklós alkotmánybíró,
 
-Dr. Varga Réka alkotmánybíró.
+dr. Lomnici Zoltán alkotmánybíró,
+
+Előadó alkotmánybíróként dr. Lomnici Zoltán alkotmánybíró a 3. öttagú tanácsban jár el.
 
 A 2. öttagú tanács tagjai:
 
@@ -48,5 +50,5 @@ Dr. Szabó Marcel alkotmánybíró.
 
 Alkotmánybírósági ügyszám: XVIII/1886/2023.
 
-[^1]: A 2. pont az 1001/2024. (IV. 17.) AB Tü. határozat 1. pontja szerint módosított szöveg. Az 1001/2024. (IV. 17.) AB Tü. határozat 2. pontja alapján előadó alkotmánybíróként dr. Szabó Marcel alkotmánybíró a 3. öttagú tanácsban jár el.
+[^1]: A 2. pont az 1004/2024. (IX. 12.) AB Tü. határozat 2. pontja szerint módosított szöveg.
 [^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
