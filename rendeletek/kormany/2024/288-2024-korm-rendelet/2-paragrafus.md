@@ -1,0 +1,3 @@
+## 2. Az egyes egészségügyi dolgozók és egészségügyben dolgozók illetmény- vagy bérnövelésének, valamint az ahhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló 256/2013. (VII. 5.) Korm. rendelet módosítása
+
+2. § Az egyes egészségügyi dolgozók és egészségügyben dolgozók illetmény- vagy bérnövelésének, valamint az ahhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló 256/2013. (VII. 5.) Korm. rendelet 2. § (4) bekezdésében a „honvédek jogállásáról szóló 2012. évi CCV. törvény (a továbbiakban: Hjt.) egyes rendelkezéseinek végrehajtásáról szóló miniszteri rendeletben” szövegrész helyébe a „honvédek jogállásáról szóló jogszabályban” szöveg lép.
