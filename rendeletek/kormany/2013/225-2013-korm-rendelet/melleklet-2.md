@@ -14,7 +14,7 @@
 
 | 7. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Csongrád-Csanád Vármegyei Kormányhivatal |
 
-| 8. | vízjogi hatósági eljárások | illetékes vármegyei katasztrófavédelmi igazgatóság |
+| 8. | vízjogi hatósági eljárások | illetékes, vízügyi és vízvédelmi hatáskörben eljáró vármegyei kormányhivatal |
 
 | 9. | földvédelmi, földmérési, telekalakítási és ingatlan-nyilvántartási hatósági eljárások | Csongrád-Csanád Vármegyei Kormányhivatal |
 
@@ -28,11 +28,11 @@
 
 | 14. | talajvédelmi hatósági engedélyek | Csongrád-Csanád Vármegyei Kormányhivatal |
 
-| 15. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi engedélyezési eljárásai, tűzvédelmi hatósági engedélyezési eljárások, jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | illetékes katasztrófavédelmi igazgatóság |
+| 15. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi engedélyezési eljárásai, tűzvédelmi hatósági engedélyezési eljárások, jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | illetékes fővárosi és vármegyei kormányhivatal |
 
-| 16. | tűzvédelmi használati előírások és a tűzoltóságok beavatkozásával kapcsolatos követelmények alóli eltérési engedélyezési eljárások | illetékes katasztrófavédelmi igazgatóság |
+| 16. | tűzvédelmi használati előírások és a tűzoltóságok beavatkozásával kapcsolatos követelmények alóli eltérési engedélyezési eljárások | illetékes fővárosi és vármegyei kormányhivatal |
 
-| 17. | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 17. | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Budapest Főváros Kormányhivatala |
 
 2. melléklet a 225/2013. (VI. 24.) Korm. rendelethez[^16]
 
