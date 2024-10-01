@@ -46,7 +46,7 @@ A HELL cégcsoport Szikszó területén megvalósuló beruházásával összefü
 
 21. földvédelmi hatósági eljárások,
 
-22. veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások,
+22.[^6] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
 
 23. azok az 1–22. pontban nem szereplő hatósági engedélyezési eljárások, amelyek az 1. § (1) bekezdése szerinti beruházás megvalósításához és használatbavételéhez, üzembe helyezéséhez, üzemeltetéséhez, működtetéséhez szükségesek,
 
@@ -54,3 +54,4 @@ A HELL cégcsoport Szikszó területén megvalósuló beruházásával összefü
 
 [^4]: A 7. §-t a 113/2020. (IV. 14.) Korm. rendelet 2. §-a iktatta be.
 [^5]: A hatálybalépés időpontja 2020. április 15.
+[^6]: Az 1. melléklet 22. pontja a 257/2024. (VIII. 29.) Korm. rendelet 181. §-a szerint módosított szöveg.
