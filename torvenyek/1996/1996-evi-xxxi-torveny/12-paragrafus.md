@@ -28,4 +28,4 @@ d) az (1) bekezdés a) pontja szerinti tevékenység esetén a tűzoltó készü
 
 (4) A tűzvédelmi hatóság a hivatásos katasztrófavédelmi szerv központi szerve részére a hivatásos katasztrófavédelmi szerv, önkormányzati tűzoltóság, létesítményi tűzoltóság vagy tűzoltósági szolgáltatást nyújtó vállalkozás által készenlétben tartott tűzvédelmi technika felülvizsgálatával, javításával összefüggő tevékenységet folytatókról a (3) bekezdés szerint vezetett nyilvántartás adatait átadja.
 
-(5) A hivatásos katasztrófavédelmi szerv központi szerve a (4) bekezdés alapján átvett adatok alapján teljesíti a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény 30. § (2) bekezdése szerinti tűzvédelmi hatósági feladatok egységes ellátását.
+(5) A hivatásos katasztrófavédelmi szerv központi szerve a (4) bekezdés szerint átvett adatok alapján honlapján naprakész tájékoztatást ad a (4) bekezdésben meghatározott tevékenységet folytatókról.

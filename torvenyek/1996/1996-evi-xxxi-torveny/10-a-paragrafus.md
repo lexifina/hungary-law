@@ -28,6 +28,6 @@ d) gépjárművének rendszáma, ha az a káreseménnyel érintett.
 
 (4) A (2) bekezdésben meghatározott személyes adatokat és a bejelentést rögzítő hangfelvételeket a tűzoltóság, a közreműködő önkéntes tűzoltó egyesület 5 évig kezeli.
 
-(5) Az (1) és (2) bekezdés alapján nyilvántartott adat a hivatásos katasztrófavédelmi szerv részére hatósági eljárás céljából továbbítható.
+(5) Az (1) és (2) bekezdés szerint nyilvántartott adat a tűzvédelmi, iparbiztonsági hatósági hatáskörben eljáró szerv és a hivatásos katasztrófavédelmi szerv részére hatósági eljárás lefolytatása céljából továbbítható.
 
 (6) A hivatásos katasztrófavédelmi szerv az (1) bekezdés e) pontjában meghatározott adatokat személyazonosításra alkalmatlan módon statisztikai célból is kezelheti.

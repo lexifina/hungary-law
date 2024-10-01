@@ -2,7 +2,7 @@
 
 (2) Az (1) bekezdésben meghatározott tűzvédelmi dokumentációt csak az a természetes személy készítheti, aki tűzvédelmi szakértő, vagy tűzvédelmi tervezői jogosultsággal rendelkezik.
 
-(3) A tűzvédelmi tervezői jogosultság a tűzvédelmi tervezői névjegyzéket vezető szerv engedélyével gyakorolható. A tűzvédelmi tervezői tevékenység folytatása annak engedélyezhető, aki büntetlen előéletű, rendelkezik az e törvény felhatalmazása alapján a Kormány által kiadott rendeletben meghatározott szakmai képesítéssel, szakirányú végzettséggel és megfelel az abban meghatározott egyéb feltételeknek, és a tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló törvényben meghatározott területi mérnöki vagy építész kamarának a tagja. A tűzvédelmi tervezői névjegyzéket vezető szerv az engedély megadásával egyidejűleg névjegyzékbe veszi a jogosultságot szerzett természetes személyt.
+(3) A tűzvédelmi tervezői jogosultság a tűzvédelmi tervezői névjegyzéket vezető szerv engedélyével gyakorolható. A tűzvédelmi tervezői tevékenység folytatása annak engedélyezhető, aki büntetlen előéletű, rendelkezik az e törvény felhatalmazása alapján a Kormány által kiadott rendeletben meghatározott szakmai képesítéssel, szakirányú végzettséggel és megfelel az abban meghatározott egyéb feltételeknek, és a magyar építészetről szóló törvényben meghatározott területi mérnöki vagy építész kamarának a tagja. A tűzvédelmi tervezői névjegyzéket vezető szerv az engedély megadásával egyidejűleg névjegyzékbe veszi a jogosultságot szerzett természetes személyt.
 
 (4)
 
