@@ -1,3 +1,3 @@
-7. §[^60]
+7. §[^33]
 
-[^60]: A 7. §-t a 121/2019. (V. 27.) Korm. rendelet 9. § f) pontja hatályon kívül helyezte.
+[^33]: A 7. §-t a 121/2019. (V. 27.) Korm. rendelet 9. § f) pontja hatályon kívül helyezte.

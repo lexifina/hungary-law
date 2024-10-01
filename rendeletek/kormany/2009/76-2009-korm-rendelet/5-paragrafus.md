@@ -1,3 +1,3 @@
-5. §[^58] A térségi területfelhasználási engedély iránti kérelem egy példányát meg kell küldeni, valamint a kérelem tárgyában hozott határozatot közölni kell a Dokumentációs Központtal, továbbá a vármegyei katasztrófavédelmi igazgatósággal, a főváros területén a Fővárosi Katasztrófavédelmi Igazgatósággal.
+5. §[^30] A térségi területfelhasználási engedély iránti kérelmet meg kell küldeni, valamint a kérelem tárgyában hozott határozatot közölni kell a Balaton Kiemelt Üdülőkörzet területét érintő eljárás esetén a Balatoni főépítésszel és a Dokumentációs Központtal.
 
-[^58]: Az 5. § a 25/2014. (II. 7.) Korm. rendelet 4. §-ával megállapított, a 616/2022. (XII. 29.) Korm. rendelet 99. § a) pontja szerint módosított szöveg.
+[^30]: Az 5. § a 285/2024. (IX. 30.) Korm. rendelet 21. §-ával megállapított szöveg.
