@@ -1,4 +1,4 @@
-2. melléklet a 90/2018. (IV. 25.) Korm. rendelethez[^11]
+2. melléklet a 90/2018. (IV. 25.) Korm. rendelethez[^12]
 
 A Szeged, 25865/3 helyrajzi számú ingatlan területén biztosítandó véderdő, erdősített vagy fásított terület határpontjainak Egységes Országos Vetületi Rendszerben megadott koordinátái
 
@@ -44,4 +44,4 @@ A Szeged, 25865/3 helyrajzi számú ingatlan területén biztosítandó véderd�
 
 | 6426053 | 732178,67 | 101746,82 |
 
-[^11]: A 2. mellékletet az 505/2023. (XI. 16.) Korm. rendelet 5. §-a iktatta be.
+[^12]: A 2. mellékletet az 505/2023. (XI. 16.) Korm. rendelet 5. §-a iktatta be.
