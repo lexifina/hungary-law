@@ -1,145 +1,157 @@
-## Az önkormányzati tűzoltóságok által készenlétben tartott gépjárműfecskendőn minimálisan elhelyezendő anyagok, felszerelések és egyéni védőfelszerelések jegyzéke
+|  | A | B |
 
-| a) | Védőeszközök |  |
+| 1 | Megnevezés | Minimális mennyiség |
 
-|  | Egyéni védőeszközök |  |
+| 2 | Védőeszközök |  |
 
-|  | – légzőkészülék | legalább 4 db |
+| 3 | légzőkészülék | 4 db |
 
-|  | – tartalék palack | legalább 4 db |
+| 4 | tartalék légzőpalack | 4 db |
 
-|  | – légzőálarc | legalább 6 db |
+| 5 | légzőálarc | 6 db |
 
-|  | – tűzoltó védőkesztyű | legalább 6 pár |
+| 6 | elektromos szigetelő védőkesztyű (1000 V) | 1 pár |
 
-|  | – munkavédelmi védőkesztyű (műszaki mentéshez) | legalább 6 pár |
+| 7 | mászóöv tartozékokkal (kézi balta, tömlőtartó kötél) | 4 db |
 
-|  | – tűzoltó védőruha (kabát és nadrág) | legalább 6 db |
+| 8 | gumikesztyű (olaj- és saválló) | 2 pár |
 
-|  | – tűzoltó védősisak (arcvédővel) | legalább 6 db |
+| 9 | egyszer használatos egészségügyi (AIDS) kesztyű | 4 pár |
 
-|  | – tűzoltó védőcsizma | legalább 6 pár |
+| 10 | gumicsizma (olaj- és saválló) | 2 pár |
 
-|  | – mászóöv tartozékokkal (kézi balta, tömlőtartó kötél) | legalább 4 db |
+| 11 | mentőkötél (30 méteres) | 2 db |
 
-|  | – gumikesztyű (olaj- és saválló) | 2 pár |
+| 12 | mentőálarc vagy mentőkámzsa tömlővel | 1 db |
 
-|  | – gumicsizma (olajálló) | 2 pár |
+| 13 | zajvédő füldugó | 8 db |
 
-|  | – mentőkötél | 2 db |
+| 14 | porálarc | 4 db |
 
-|  | – mentőálarc+tömlő | 1 db |
+| 15 | Tűzoltó készülékek |  |
 
-| b) | Tűzoltó készülékek |  |
+| 16 | hordozható ABC porral oltó (minimum 34A 183B, C) | 1 db |
 
-|  | – hordozható ABC porral oltó (minimum 34A 189B, C) | 1 db |
+| 17 | hordozható ABC porral oltó (minimum 55A 233B, C) | 1 db |
 
-| – hordozható ABC porral oltó (minimum 55A 233 B, C) | 1 db |
+| 18 | hordozható habbal oltó (minimum 13A 144B) | 2 db |
 
-| – hordozható habbal oltó (minimum 13A 144B) | 2 db |
+| 19 | puttonyfecskendő vagy háti avaroltó készülék | 1 db |
 
-| – puttonyfecskendő | 1 db |
+| 20 | Szívóoldali felszerelések |  |
 
-| c) | Szívóoldali felszerelések |  |
+| 21 | szívótömlő „A” | 4 db |
 
-|  | – szívótömlő | 8 m |
+| 22 | lábszelepes szűrő „A” | 1 db |
 
-| – lábszelepes szűrőkosár A | 1 db |
+| 23 | szűrőkosár | 1 db |
 
-| – védőkosár (szűrőkosárhoz) | 1 db |
+| 24 | egyetemes kapocspárkulcs | 2 pár |
 
-| – egyetemes kapocspárkulcs | 2 db |
+| 25 | gyűjtő 2B-A | 1 db |
 
-| – gyűjtő 2B-A | 1 db |
+| 26 | állványcső 2B | 1 db |
 
-| – állványcső 2B | 1 db |
+| 27 | föld alatti tűzcsapkulcs (+ tűzcsapkulcs áttéti darab készlet) | 1 db |
 
-| – föld alatti tűzcsapkulcs (+„tüske” készlet) | 1 db |
+| 28 | pótállványcső | 1 db |
 
-| – föld feletti tűzcsapkulcs | 1 db |
+| 29 | föld feletti tűzcsapkulcs | 1 db |
 
-| – kút- és szelepkötél | 1-1 db |
+| 30 | szelepkötél | 1 db |
 
-| – sugárcsőkötél | 2 db |
+| 31 | kútkötél | 1 db |
 
-| – vízturbinás szivattyú vagy mélyszívó (vízeltávolításhoz) | 1 db |
+| 32 | Nyomóoldali felszerelések |  |
 
-| d) | Nyomóoldali felszerelések |  |
+| 33 | nyomótömlő B-20 | 10 db |
 
-|  | – nyomótömlő B-20-K | 10 db |
+| 34 | nyomótömlő C-20 | 6 db |
 
-| – nyomótömlő C-20-K | 6 db |
+| 35 | négyágú B-CBC osztó vagy ötágú BB-CBC osztó | 2 db |
 
-| – osztó B-CBC | 2 db |
+| 36 | kombinált sugárcső | 2 db |
 
-| – kombinált sugárcső | 2 db |
+| 37 | sugárcsőkötél | 2 db |
 
-| – egyetemes kapocspárkulcs | 2 db |
+| 38 | áttét kapocs méretpáronként | 1-1 db |
 
-| – áttét A-B; B-C | 1-1 db |
+| 39 | tömlőfoltbilincs B; C | 4-4 db |
 
-| – tömlőfoltbilincs B; C | 4-4 db |
+| 40 | tömítőgyűrű A; B; C | 4-4-4 db |
 
-| – tömítőgyűrű A; B; C | 4-4 db |
+| 41 | tömlőhíd | 2 db |
 
-| – tömlőhíd 2B-2C | 2 db |
+| 42 | Kézi szerszámok és szakfelszerelések |  |
 
-| e) | Kézi szerszámok és szakfelszerelések |  |
+| 43 | ásó vagy ásólapát | 2 db |
 
-|  | – ásólapát | 2 db |
+| 44 | lapát | 2 db |
 
-| – kapacs | 2 db |
+| 45 | szikracsapó | 1 db |
 
-| – vasvilla | 2 db |
+| 46 | kapacs | 2 db |
 
-| – biztonságiöv-vágó | 1 db |
+| 47 | vasvilla | 2 db |
 
-| – bontóbalta | 1 db |
+| 48 | kézi úttisztító kefe | 1 db |
 
-| – feszítővas | 1 db |
+| 49 | bontóbalta | 1 db |
 
-| – csapszegvágó | 1 db |
+| 50 | min. 800 mm hosszú feszítővas | 1 db |
 
-| – csáklya | 1 db |
+| 51 | min. 900 mm méretű csapszegvágó | 1 db |
 
-| – dugólétra 4 részes | 1 db |
+| 52 | min. 700 mm keretes kézi fafűrész | 1 db |
 
-| – 2 részes kihúzós létra | 1 db |
+| 53 | csáklya | 1 db |
 
-| f) | Műszaki mentés eszközei |  |
+| 54 | 4 részes dugólétra | 1 db |
 
-|  | – benzinmotoros láncfűrész | 1 készlet |
+| 55 | 2 részes kihúzós létra | 1 db |
 
-| – hidraulikus feszítő-vágó berendezés | 1 készlet |
+| 56 | biztonságiöv-vágó | 1 db |
 
-| – kárhelyszín megvilágító berendezés (min. 20 m kábellel) | 1 készlet |
+| 57 | ablaktörő kalapács | 1 db |
 
-| g) | Jelző- és világítóeszközök |  |
+| 58 | Műszaki mentés eszközei |  |
 
-|  | – terelőkúp | 4 db |
+| 59 | motoros láncfűrész (benzinüzemű vagy akkumulátoros) | 1 készlet |
 
-| – egyéb veszélyt jelző tábla | 1 db |
+| 60 | hidraulikus feszítő-vágó alapkészlet | 1 készlet |
 
-| – forgalomirányító lámpa (tárcsa) | 1 db |
+| 61 | kárhelyszín megvilágító berendezés (min. 20 m kábellel) | 1 készlet |
 
-| – keresőlámpa | 1 db |
+| 62 | Jelző- és világítóeszközök |  |
 
-| – kézilámpa | 4 db |
+| 63 | terelőkúp | 4 db |
 
-| h) | Híradóeszközök |  |
+| 64 | forgalomirányító lámpa (tárcsa) | 1 db |
 
-|  | – két kezelőhelyes mobil EDR készülék | 1 db |
+| 65 | keresőlámpa | 1 db |
 
-| – kézi EDR készülék | 2 db |
+| 66 | kézilámpa | 4 db |
 
-| i) | Egyéb |  |
+| 67 | Híradóeszközök |  |
 
-|  | – járműtartozékok a KRESZ-előírásoknak megfelelően |  |
+| 68 | két kezelőhelyes mobil EDR készülék | 1 db |
 
-| – kordonszalag terület lezáráshoz | 50 m |
+| 69 | kézi EDR készülék | 2 db |
 
-| – felitató anyag (homok, perlit stb.) | 20 liter |
+| 70 | Egyéb |  |
 
-| – csatornafedél kiemelő | 2 db |
+| 71 | kordonszalag | 50 méter |
+
+| 72 | felitató anyag (homok, perlit stb.) | 20 liter |
+
+| 73 | csatornafedél kiemelő | 2 db |
+
+| 74 | láthatósági mellény | 4 db |
+
+| 75 | tábori takaró | 1 db |
+
+| 76 | holttest takaró fekete fólia (2×3 m) | 2 db |
 
 2. melléklet a 48/2011. (XII. 15.) BM rendelethez
+
+Az egyenruházati termékek az önkormányzati tűzoltóságok (férfi/női) állománya részére

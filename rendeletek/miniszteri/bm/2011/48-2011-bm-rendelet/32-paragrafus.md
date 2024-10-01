@@ -1,1 +1,3 @@
-## 31. § E rendelet hatályba lépését megelőzően önkéntes tűzoltó tevékenységet végzők önkormányzati tűzoltó tevékenységet folytathatnak, azonban kötelesek a 27. § (1) bekezdésében meghatározott igazolást legkésőbb 2012. december 31. napjáig megszerezni.
+32. §[^21]
+
+[^21]: A 32. §-t a 47/2024. (IX. 30.) BM rendelet 8. § c) pontja hatályon kívül helyezte.

@@ -1,5 +1,5 @@
-## 32. § E rendeletben meghatározottaktól eltérő, jelenleg használatban lévő egyenruhák 2014. december 31-ig viselhetők.
+1. melléklet a 48/2011. (XII. 15.) BM rendelethez[^22]
 
-1. melléklet a 48/2011. (XII. 15.) BM rendelethez[^6]
+Az önkormányzati tűzoltóságok által készenlétben tartott gépjárműfecskendőn minimálisan elhelyezendő anyagok, felszerelések és egyéni védőfelszerelések jegyzéke
 
-[^6]: Az 1. melléklet a 82/2013. (XII. 23.) BM rendelet 14. §-a szerint módosított szöveg.
+[^22]: Az 1. melléklet a 47/2024. (IX. 30.) BM rendelet 6. §-ával megállapított szöveg.

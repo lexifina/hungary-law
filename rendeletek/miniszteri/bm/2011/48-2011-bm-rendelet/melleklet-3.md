@@ -1,5 +1,3 @@
-## Az egyenruházati termékek az önkormányzati tűzoltóságok (férfi/női) állománya részére
-
 | Sorszám | Termék megnevezés |
 
 | 1. | Társasági férfi tányérsapka, szerelve, szürke |
@@ -67,3 +65,7 @@
 | 32. | Gyakorló bakancs magasított szárú, fekete |
 
 3. melléklet a 48/2011. (XII. 15.) BM rendelethez
+
+Az önkormányzati tűzoltók tépőzáras rangfokozati, valamint rangfokozati vállap jelzései[^23]
+
+[^23]: E mellékletben szereplő rajzok tájékoztató jellegűek, nem méretarányosak.

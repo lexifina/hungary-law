@@ -1,5 +1,3 @@
-## 9. § Az önkormányzati tűzoltóság tűzoltóparancsnoka a szolgálatszervezés végrehajtása érdekében heti bontásban elkészíti a szolgálati időbeosztásokat, gondoskodik a szolgálati okmányok vezetéséről, valamint a szakmai felügyelet által meghatározott adatszolgáltatás teljesítéséről.
-
 ## 10. § Az önkormányzati tűzoltóságoknak a következő okmányokkal és nyilvántartásokkal kell rendelkezniük:
 
 a) szolgálati napló;
@@ -20,14 +18,9 @@ h) éves gyakorlatterv;
 
 i) éves továbbképzési terv;
 
-j) munkavédelmi iratok:
+j)[^9]
 
-ja) munkavédelmi őrnapló,
+k)[^10] menetlevél.
 
-jb) alkoholszondás ellenőrzési napló,
-
-jc) munkavédelmi oktatási napló;
-
-k)[^4] menetlevél.
-
-[^4]: A 10. § k) pontját a 82/2013. (XII. 23.) BM rendelet 13. §-a iktatta be.
+[^9]: A 10. § j) pontját a 47/2024. (IX. 30.) BM rendelet 8. § a) pontja hatályon kívül helyezte.
+[^10]: A 10. § k) pontját a 82/2013. (XII. 23.) BM rendelet 13. §-a iktatta be.

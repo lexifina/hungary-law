@@ -1,1 +1,3 @@
-## 30. § E rendelet hatályba lépését megelőzően önkéntes tűzoltó tevékenységet végzők önkormányzati tűzoltó tevékenységet folytathatnak, azonban kötelesek a 26. § szerinti képesítést legkésőbb 2014. január 1. napjáig megszerezni.
+31. §[^20]
+
+[^20]: A 31. §-t a 47/2024. (IX. 30.) BM rendelet 8. § c) pontja hatályon kívül helyezte.

@@ -1,7 +1,5 @@
-## 26. § Az önkormányzati tűzoltó tevékenység megkezdésének feltétele a miniszteri rendeletben meghatározott képesítés megléte.
+27. §[^17] (1) Önkormányzati tűzoltói feladat ellátására jelentkező személynek rendelkeznie kell egy hónapnál nem régebbi, az orvosi vizsgálat alapján tűzoltói szolgálatra alkalmasnak minősített igazolással.
 
-27. § (1) E rendelet hatálybalépését követően önkormányzati tűzoltói feladat ellátására jelentkező személynek rendelkeznie kell 1 hónapnál nem régebbi a foglalkozás-egészségügyi alapszolgáltatást nyújtó szolgálat által kiállított „alkalmas” minősítésű alkalmassági igazolással.
+(2) Az önkormányzati tűzoltó köteles időszakos orvosi vizsgálaton részt venni, és a tűzoltói szolgálatra alkalmasnak minősített igazolás másolatát az önkormányzati tűzoltóság parancsnokának átadni.
 
-(2) Az önkormányzati tűzoltó évente köteles a miniszteri rendeletben meghatározott alkalmassági vizsgálaton részt venni és az (1) bekezdésben meghatározott igazolást bemutatni.
-
-(3) A szolgálat az alapszolgáltatás keretében végzett, miniszteri rendeletben meghatározott alkalmassági vizsgálatoknál a 4. mellékletben foglalt szempontokat figyelembe véve jár el.
+[^17]: A 27. § a 47/2024. (IX. 30.) BM rendelet 4. §-ával megállapított szöveg.
