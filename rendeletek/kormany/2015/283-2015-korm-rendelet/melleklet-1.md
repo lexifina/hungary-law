@@ -44,7 +44,7 @@ Az OBO Bettermann Hungary Kft. és a Bettermann Ingatlankezelő Kft. Bugyi kült
 
 20. földvédelmi hatósági eljárások,
 
-21. veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások,
+21.[^6] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
 
 22. azok az 1–21. pontban nem szereplő hatósági engedélyezési eljárások, amelyek az 1. § (1) bekezdése szerinti beruházás megvalósításához és használatbavételéhez, üzembe helyezéséhez, üzemeltetéséhez, működtetéséhez szükségesek,
 
@@ -52,3 +52,4 @@ Az OBO Bettermann Hungary Kft. és a Bettermann Ingatlankezelő Kft. Bugyi kült
 
 [^4]: A 7. §-t a 134/2020. (IV. 17.) Korm. rendelet 2. §-a iktatta be.
 [^5]: A hatálybalépés időpontja 2020. április 18.
+[^6]: Az 1. melléklet 21. pontja a 257/2024. (VIII. 29.) Korm. rendelet 166. §-a szerint módosított szöveg.
