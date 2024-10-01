@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-399-20-
 | 2024-01-01 | 2023-399-20-22.3 | 679/2023. (XII. 29.) Korm. rendelet |
 | 2024-01-02 | 2023-399-20-22.4 | 2010. évi CXXX. törvény |
 | 2024-02-23 | 2023-399-20-22.5 | 28/2024. (II. 22.) Korm. rendelet |
+| 2024-10-01 | 2023-399-20-22.6 | 274/2024. (IX. 19.) Korm. rendelet |

@@ -16,7 +16,7 @@ miatt szükséges korlátozás esetén az együttműködő földgázrendszernek 
 
 (4) E rendelet alkalmazásában a saját jogon eljáró felhasználóra a földgázkereskedőre vonatkozó jogokat és kötelezettségeket kell alkalmazni.
 
-(5) E rendelet alkalmazásában nemzetgazdasági szempontból stratégiai jelentőségű felhasználói teljesítmény
+(5)[^1] E rendelet alkalmazásában nemzetgazdasági szempontból stratégiai jelentőségű felhasználói teljesítmény
 
 a) a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló törvény alapján kijelölt, és a nyilvántartó hatóság nyilvántartásában szereplő létfontosságú rendszerelemek működtetéséhez,
 
@@ -24,4 +24,6 @@ b) az élelmiszerjog általános elveiről és követelményeiről, az Európai 
 
 c) az ország gazdaságának működtetéséhez elengedhetetlenül fontos egyéb tevékenység végzéséhez
 
-szükséges, igazolt földgázteljesítmények.
+szükséges, igazolt földgázteljesítmények, ha e tevékenység nemzetgazdasági szempontból kiemelt jelentőségűnek minősíthető.
+
+[^1]: Az 1. § (5) bekezdés záró szövegrésze a 274/2024. (IX. 19.) Korm. rendelet 5. § 1. pontja szerint módosított szöveg.

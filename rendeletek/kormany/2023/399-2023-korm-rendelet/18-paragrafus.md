@@ -1,6 +1,6 @@
 ## 9. A biztonsági földgázkészlet igénybevételére vonatkozó szabályok
 
-18. §[^21] (1) A biztonsági földgázkészlet igénybevételére jogosult
+18. §[^38] (1) A biztonsági földgázkészlet igénybevételére jogosult
 
 a) a földgázkereskedő, ideértve a saját jogon eljáró felhasználót is,
 
@@ -18,4 +18,4 @@ d) amennyiben a b) és a c) pontok szerinti jogosult nem rendelkezik szállítá
 
 (4) Az Igénybevevő a biztonsági földgázkészletet tároló földalatti gáztároló kiadási pontjára való nominálásával és a földgáz átvételével a Szövetséggel kötött szerződésben foglaltakat magára nézve vállalja.
 
-[^21]: A 18. § a 679/2023. (XII. 29.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^38]: A 18. § a 679/2023. (XII. 29.) Korm. rendelet 3. §-ával megállapított szöveg.

@@ -26,4 +26,6 @@ l) a Magyar Szénhidrogén Készletező Szövetség (a továbbiakban: Szövetsé
 
 m) az országos bányakapitány vagy képviselője.
 
-(2) A Válsághelyzeti Bizottságot a miniszter vezeti. A Válsághelyzeti Bizottság működését, ügyrendjét maga határozza meg. A miniszter más érintett hatóság, szervezet vagy gazdálkodó szervezet képviselőjét is meghívhatja a Válsághelyzeti Bizottság ülésére.
+(2)[^3] A Válsághelyzeti Bizottságot a miniszter hívja össze és vezeti. A Válsághelyzeti Bizottság működését, ügyrendjét maga határozza meg. A miniszter más érintett hatóság, szervezet vagy gazdálkodó szervezet képviselőjét is meghívhatja a Válsághelyzeti Bizottság ülésére.
+
+[^3]: A 8. § (2) bekezdése a 274/2024. (IX. 19.) Korm. rendelet 5. § 3. pontja szerint módosított szöveg.
