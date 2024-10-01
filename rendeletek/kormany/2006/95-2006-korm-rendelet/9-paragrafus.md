@@ -1,5 +1,3 @@
-## 8. §[^17]
-
 ## A biztonsági dokumentáció, a hatósági összekötő[^18]
 
 9. §[^19] (1)[^20] A honvédségi üzemeltető az 5. § (6) bekezdésében meghatározott esetekben az üzemeltetési engedély megszerzéséhez a küszöbérték figyelembevételével azonosítja a veszélyes katonai objektumot, majd biztonsági dokumentációt készít és nyújt be a veszélyes katonai objektum felügyeleti hatósághoz.
@@ -26,7 +24,6 @@ f) a belső védelmi terv pontosításáról, felülvizsgálatáról és gyakoro
 
 g) részt vesz veszélyes katonai objektum felügyeleti hatósági ellenőrzéseken és a helyszíni szemléken.
 
-[^17]: A 8. §-t és az azt megelőző „Az építtető feladatai” alcímet a 110/2018. (VI. 25.) Korm. rendelet 20. § c)–d) pontja hatályon kívül helyezte.
 [^18]: A 9. §-t megelőző alcím a 110/2018. (VI. 25.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^19]: A 9. §-t megelőző „A HONVÉDSÉGI ÜZEMELTETŐ FELADATAI” alcímet a 110/2018. (VI. 25.) Korm. rendelet 20. § e) pontja hatályon kívül helyezte.
 [^20]: A 9. § (1) bekezdése a 110/2018. (VI. 25.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.

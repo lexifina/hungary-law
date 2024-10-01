@@ -1,5 +1,3 @@
-## 17. §[^47]
-
 ## Ellenőrzés
 
 18. § (1)[^48] A veszélyes katonai objektum felügyeleti hatóság a veszélyes anyagokkal kapcsolatos honvédségi üzemzavarok megelőzése, valamint a jogszabályokban, illetve hatósági határozatban foglalt kötelezettségek teljesülése érdekében évente hatósági ellenőrzést tart.
@@ -12,7 +10,6 @@
 
 (5)[^52] A veszélyes katonai objektum felügyeleti hatóság helyszíni vizsgálattal ellenőrzi a veszélyes katonai objektumban végrehajtott belső védelmi terv gyakorlatot, amelyet a gyakorlat befejeztével értékel. Ha a gyakorlat nem elfogadható, a veszélyes katonai objektum felügyeleti hatóság a belső védelmi terv gyakorlat ismételt végrehajtására kötelezheti a honvédségi üzemeltetőt.
 
-[^47]: A 17. §-t a 110/2018. (VI. 25.) Korm. rendelet 20. § g) pontja hatályon kívül helyezte.
 [^48]: A 18. § (1) bekezdése a 110/2018. (VI. 25.) Korm. rendelet 19. § 9. pontja szerint módosított szöveg.
 [^49]: A 18. § (2) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (75) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
 [^50]: A 18. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 463. §-a hatályon kívül helyezte, újonnan a 110/2018. (VI. 25.) Korm. rendelet 13. §-a iktatta be.

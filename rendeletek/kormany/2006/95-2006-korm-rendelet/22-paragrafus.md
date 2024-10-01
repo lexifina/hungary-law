@@ -1,6 +1,6 @@
 ## A jelentési, tájékoztatási rendszer
 
-22. §[^64] (1) A veszélyes katonai objektumban vagy a küszöbérték alatti nyilvántartott katonai objektumban bekövetkezett veszélyes anyagokkal kapcsolatos honvédségi üzemzavart a honvédségi üzemeltető köteles a veszélyes katonai objektum felügyeleti hatósághoz haladéktalanul bejelenteni.
+22. §[^65] (1) A veszélyes katonai objektumban vagy a küszöbérték alatti nyilvántartott katonai objektumban bekövetkezett veszélyes anyagokkal kapcsolatos honvédségi üzemzavart a honvédségi üzemeltető köteles a veszélyes katonai objektum felügyeleti hatósághoz haladéktalanul bejelenteni.
 
 (2) A bejelentést a 3. mellékletben meghatározott adattartalommal kell teljesíteni.
 
@@ -10,4 +10,4 @@
 
 (5) A veszélyes anyagokkal kapcsolatos honvédségi súlyos baleseteket a veszélyes katonai objektum felügyeleti hatóság is kivizsgálja, a vizsgálat eredményéről, a lezárást követően írásban tájékoztatja a honvédségi üzemeltetőt és az anyagnem-felelőst.
 
-[^64]: A 22. § a 110/2018. (VI. 25.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^65]: A 22. § a 110/2018. (VI. 25.) Korm. rendelet 16. §-ával megállapított szöveg.
