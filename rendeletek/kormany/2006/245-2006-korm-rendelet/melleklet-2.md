@@ -1,78 +1,70 @@
 |  | A | B | C | D |
 
-| 1. |  | A szabálytalan építmény (építési tevékenység) | A számított építményérték számításakor figyelembe veendő méret és/vagy mértékegysége | Egységár ezer forint / mértékegység |
+| 1. |  | Építmény | A számított építményérték számításakor figyelembe veendő méret és/vagy mértékegység | Egységár ezer forint/ mértékegység |
 
-| 2. | 1. | Lakó, üdülő, kulturális, nevelési, oktatási, hitéleti, egészségügyi, szociális, igazgatási rendeltetésre szolgáló épület, épületrész | nettó alapterület / m2 | 180 |
+| 2. | 1. | Lakó, üdülő, kulturális, nevelési, oktatási, hitéleti, egészségügyi, szociális, igazgatási rendeltetésre szolgáló épület, épületrész | nettó alapterület / m2 | 600 |
 
-| 3. | 2. | Kereskedelmi, szolgáltató, vendéglátó, közösségi szórakoztató, sport, szállás, iroda, ipari rendeltetésre szolgáló és egyéb közhasználatú épület, épületrész | nettó alapterület / m2 | 250 |
+| 3. | 2. | Kereskedelmi, szolgáltató, vendéglátó, közösségi szórakoztató, sport, szállás, iroda rendeltetésre szolgáló és egyéb közhasználatú épület, épületrész | nettó alapterület / m2 | 800 |
 
-| 4. | 3. | mezőgazdasági munkavégzésre, tárolásra, raktározásra szolgáló épület, épületrész | nettó alapterület / m2 | 130 |
+| 4. | 3. | Ipari rendeltetésre szolgáló épület, épületrész | nettó alapterület / m2 | 700 |
 
-| 5. | 4. | Terepszint alatti építmény, építményrész | nettó alapterület / m2 | 13 |
+| 5. | 4. | Gazdasági tevékenység céljára szolgáló, tárolási, raktározási, mezőgazdasági funkciójú épület, épületrész | nettó alapterület / m2 | 500 |
 
-| 6. | 5. | Egyéb – az 1–4. sorba nem sorolható – helyiséget tartalmazó építmény, építményrész | nettó alapterület / m2 | 130 |
+| 6. | 5. | Pince, mélygarázs, egyéb terepszint alatti építmény, építményrész | nettó alapterület / m2 | 400 |
 
-| 7. | 6. | Felületben mért építmények, építményrészek, tartószerkezeti elemek | a felület területe / m2 | 52 |
+| 7. | 6. | Egyéb – a 2–6. sorba nem sorolható – helyiséget tartalmazó építmény, építményrész | nettó alapterület / m2 | 400 |
 
-| 8. | 7. | Homlokzati felületképzés, színezés | a felület területe / m2 | 7 |
+| 8. | 7. | Állványjellegű és egyéb felületben mért építmények, építményrészek | a felület területe / m2 | 200 |
 
-| 9. | 8. | Hosszban mért építmények, építményrészek: |  |  |
+| 9. | 8. | Nyomvonal jellegű építmények | hossz / fm | 100 |
 
-| 10. | 8.1. | tartószerkezeti elemek, pillér, áthidaló, koszorú, zászlótartó oszlop | /fm | 120 |
+| 10. | 9. | Épített égéstermék elvezető, magasles | magasság / fm | 60 |
 
-| 11. | 8.2. | nyomvonal jellegű építmények | /fm | 20 |
+| 11. | 10. | Fürdőmedence | térfogat / m3 | 200 |
 
-| 12. | 8.3. | égéstermék elvezető, közmű-, híradástechnikai vezeték | /fm | 7 |
+| 12. | 11. | Kilátó | magasság / fm | 500 |
 
-| 13. | 9. | Nyílászáró | –/db | 26 |
+| 13. | 12. | Honvédelmi, katonai és nemzetbiztonsági építmények |  |  |
 
-| 14. | 10. | Egyéb – az 1–9. és a 12–13. sorba nem sorolt – építmények | –/db | 400 |
+| 14. | 12.1. | Új – a 12.3–12.10 sorba nem sorolható – építmény létesítése | / m2 | 170 |
 
-| 15. | 11. | Terepkialakítás | megmozgatott földmennyiség térfogata / m3 | 17 |
+| 15. | 12.2. | Meglévő – a 12.1. pont szerinti – építmény bővítése, átalakítása, felújítása, karbantartása, bontása | / m2 | 100 |
 
-| 16. | 12. | A honvédelmi, katonai és nemzetbiztonsági építmények esetén: |  |  |
+| 16. | 12.3. | Az építmények beépített berendezései (tűzjelző, őrzés-védelmi, üzemi technológiai) | – / db | 850 |
 
-| 17. | 12.1. | Az építmények beépített berendezései (tűzjelző, őrzés-védelmi, üzemi technológiai) | –/db | 650 |
+| 17. | 12.4. | Az építményekhez kapcsolódó nyomvonal jellegű építmények: |  |  |
 
-| 18. | 12.2. | Az építményekhez kapcsolódó nyomvonal jellegű építmények: |  |  |
+| 18. | 12.4.1. | út, repülőtéri felszállópálya és gurulóút, térburkolat | / m2 | 25 |
 
-| 19. | 12.2.1. | út, repülőtéri felszállópálya és gurulóút, térburkolat | /m2 | 20 |
+| 19. | 12.4.2. | vasúti építmények | / fm | 70 |
 
-| 20. | 12.2.2. | vasúti építmények | /fm | 52 |
+| 20. | 12.4.3. | közmű, híradástechnikai vezeték | / fm | 20 |
 
-| 21. | 12.2.3. | közmű, híradástechnikai vezeték | /fm | 13 |
+| 21. | 12.5. | A nyomvonal jellegű építmények részeként megvalósuló műtárgyak: |  |  |
 
-| 22. | 12.3. | A nyomvonal jellegű építmények részeként megvalósuló műtárgyak: |  |  |
+| 22. | 12.5.1. | hosszban mérhető műtárgy (áteresz, alagút) | / fm | 40 |
 
-| 23. | 12.3.1. | hosszban mérhető műtárgy (áteresz, alagút) | /fm | 33 |
+| 23. | 12.5.2. | egyedi műtárgy (homlok- és oldalrakodó, vasúti és közúti üzemanyag lefejtő) | – / db | 1700 |
 
-| 24. | 12.3.2. | egyedi műtárgy (homlok- és oldalrakodó, vasúti és közúti üzemanyag lefejtő) | –/db | 1300 |
+| 24. | 12.5.3. | híd | útpálya felülete / m2 | 350 |
 
-| 25. | 12.3.3. | híd | útpálya felület területe / m2 | 260 |
+| 25. | 12.5.4. | egyéb tartozékok | – / db | 20 |
 
-| 26. | 12.3.4. | egyéb tartozékok | –/db | 13 |
+| 26. | 12.6. | A katonai vízi-közlekedési építmények (stégek, kikötők) | – / db | 1700 |
 
-| 27. | 12.4. | A katonai vízi-közlekedési építmények (stégek, kikötők) | –/db | 1300 |
+| 27. | 12.7. | Üzemanyagtöltő állomás | – / db | 8500 |
 
-| 28. | 12.5. | Üzemanyagtöltő állomás | –/db | 6500 |
+| 28. | 12.8. | Telepített konténerek (híradástechnikai, üzemanyagtöltő, speciális katonai célú, szociális, gépészeti) | – / db | 1300 |
 
-| 29. | 12.6. | Telepített konténerek (híradástechnikai, üzemanyagtöltő, speciális katonai célú, szociális, gépészeti) | –/db | 975 |
+| 29. | 12.9. | Katonai lőtér (a lőtéri épületek nélkül) | / m2 | 10 |
 
-| 30. | 12.7. | Katonai lőtér (a lőtéri épületek nélkül) | /m2 | 7 |
+| 30. | 12.10. | Katonai kiképzés technikai eszközök: |  |  |
 
-| 31. | 12.8. | Katonai kiképzés technikai eszközök: |  |  |
+| 31. | 12.10.1. | gyakorló- és akadálypályák elemei | – / db | 600 |
 
-| 32. | 12.8.1. | gyakorló- és akadálypályák elemei | –/db | 455 |
+| 32. | 12.10.2. | trenazsőr, szimulátor | – / db | 1300 |
 
-| 33. | 12.8.2. | Trenazsőr, szimulátor | –/db | 975 |
-
-| 34. | 13. | Környezetvédelmi építmények |  |  |
-
-| 35. | 13.1. | szennyvíz egyedi szennyvíz-elhelyezési kislétesítmény, egyedi szennyvíztisztító kisberendezés, szennyvízkezelő, egyedi szennyvíz-elhelyezési kislétesítmény, egyedi szennyvíztisztító kisberendezés, egyedi zárt szennyvíztároló | /m3 | 26 |
-
-| 36. | 13.2. | hulladék, hulladéklerakó, szemétégető mű, hulladékégető mű (égetőmű), hulladék együttégető mű (együttégető mű) | /m2 | 130 |
-
-2. melléklet a 245/2006. (XII. 5.) Korm. rendelethez[^39]
+2. melléklet a 245/2006. (XII. 5.) Korm. rendelethez[^25]
 
 A bírság számításhoz alkalmazandó szorzószámok az épület (épületrész) készültségi állapotától függően
 
@@ -108,4 +100,4 @@ A bírság számításhoz alkalmazandó szorzószámok az épület (épületrés
 
 5. Meglévő tetőtér beépítése, valamint meglévő lapostetős építmény utólagos tetőtér beépítéssel történő bővítése esetén a kivitelezés megkezdésekor 0,5-ös, a burkolás megkezdésekor 1,0-es készültséggel kell számolni.
 
-[^39]: A 2. melléklet a 322/2012. (XI. 16.) Korm. rendelet 16. § b) pontjával megállapított szöveg.
+[^25]: A 2. melléklet a 322/2012. (XI. 16.) Korm. rendelet 16. § b) pontjával megállapított szöveg.

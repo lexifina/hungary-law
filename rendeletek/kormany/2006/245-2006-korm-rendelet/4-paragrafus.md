@@ -1,10 +1,8 @@
-## A bírság kiszabásának eljárási szabályai
+## A bírság kiszabásának és megfizetésének szabályai[^7]
 
-4. § (1) Az építésügyi hatóság a fennmaradási engedélyt megadó, illetőleg a lebontást tudomásul vevő határozatában állapítja meg a bírságot.
+4. §[^8] (1) Az építésügyi hatóság a jogszerűtlenül végzett építési tevékenység miatt kiszabott bírságot a fennmaradási engedélyt megadó vagy a lebontást tudomásul vevő határozatában állapítja meg.
 
-(2)[^18]
+(2) A jogosulatlanul vagy szakszerűtlenül folytatott tevékenységgel kapcsolatban az építésügyi hatóság a bírságot önálló határozatban állapítja meg.
 
-(3)[^19]
-
-[^18]: A 4. § (2) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 18. § b) pontja hatályon kívül helyezte.
-[^19]: A 4. § (3) bekezdését a 177/2010. (V. 13.) Korm. rendelet 6. § (2) bekezdése iktatta be, hatályon kívül helyezte a 322/2012. (XI. 16.) Korm. rendelet 18. § b) pontja.
+[^7]: Az „A bírság kiszabásának és megfizetésének szabályai” alcím címe a 286/2024. (IX. 30.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.
+[^8]: A 4. § a 286/2024. (IX. 30.) Korm. rendelet 5. §-ával megállapított szöveg.

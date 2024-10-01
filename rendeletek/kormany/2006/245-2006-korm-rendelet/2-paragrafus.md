@@ -1,7 +1,11 @@
-## 1. § E rendelet rendelkezéseit – a sajátos építményfajtákra vonatkozó külön szabályozás hiányában – az építményekkel kapcsolatos építésügyi bírság megállapítására és megfizetésére kell alkalmazni.
-
 ## Az építésügyi bírság kiszabásának esetei
 
-2. §[^1] Az építésügyi hatóság a jogszerűtlen építési tevékenység esetében építésügyi bírsággal (a továbbiakban: bírság) sújtja az építtetőt vagy az ingatlan tulajdonosát.
+2. §[^2] Az építésügyi hatóság építésügyi bírságot a következő esetekben szab ki:
 
-[^1]: A 2. § a 322/2012. (XI. 16.) Korm. rendelet 12. §-ával megállapított, a 788/2021. (XII. 27.) Korm. rendelet 6. § a) pontja, a 385/2023. (VIII. 14.) Korm. rendelet 11. §-a szerint módosított szöveg.
+a) jogszerűtlen építési tevékenység esetén a magyar építészetről szóló 2023. évi C. törvény (a továbbiakban: Méptv.) 177. § (1) és (4) bekezdése szerint,
+
+b) jogszerűtlen bontási tevékenység esetén a Méptv. 177. § (4) és (11) bekezdése szerint,
+
+c) jogosulatlan vagy szakszerűtlen tevékenység esetén a Méptv. 175. § (1) bekezdés c) pont cb) alpontja alapján.
+
+[^2]: A 2. § a 286/2024. (IX. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
