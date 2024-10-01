@@ -1,5 +1,5 @@
-## 1.[^1]
+## 1. Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet módosítása
 
-1. §
+1. § Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III.3.) Korm. rendelet [a továbbiakban: 43/1999. (III. 3.) Korm. rendelet] 7. § (2) bekezdés d) pontja helyébe a következő rendelkezés lép:
 
-[^1]: Az 1. alcím a 9. § (3) bekezdése alapján 2024. október 1-jén lép hatályba.
+(Folyamatos az ellátás, ha)
