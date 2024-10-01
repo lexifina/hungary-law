@@ -42,8 +42,10 @@ Az 1. § (1) bekezdése szerinti beruházásával összefüggő, nemzetgazdaság
 
 19. erdővédelmi hatósági eljárások,
 
-20. veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások,
+20.[^5] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
 
 21. azok az 1–20. pontban nem szereplő hatósági engedélyezési eljárások, amelyek az 1. § (1) bekezdése szerinti beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
 22. az 1–21. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^5]: Az 1. melléklet 20. pontja a 257/2024. (VIII. 29.) Korm. rendelet 221. §-a szerint módosított szöveg.
