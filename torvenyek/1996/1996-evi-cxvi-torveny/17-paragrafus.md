@@ -104,7 +104,7 @@ szükséges nukleáris biztonsági engedélyezés;
 
 (2a) A nukleáris létesítmény, valamint a radioaktívhulladék-tároló telephelyének vizsgálatához és értékeléséhez szükséges földtani kutatás célját szolgáló kutatólétesítményekkel kapcsolatos engedélyezési eljárásokra a bányászatról szóló törvényt és annak végrehajtására kiadott elnöki rendeletet kell alkalmazni.
 
-(2b) A nukleáris létesítménnyel és a radioaktívhulladék-tárolóval összefüggő építési engedélyezési eljárásokban építésügyi hatóságként az atomenergia-felügyeleti szerv jár el, eljárására az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény, valamint a végrehajtására kiadott jogszabály és önkormányzati rendelet rendelkezéseit az e törvényben, valamint a végrehajtására kiadott jogszabályban foglalt eltérésekkel kell alkalmazni.
+(2b) A nukleáris létesítménnyel és a radioaktívhulladék-tárolóval összefüggő építési engedélyezési eljárásokban építésügyi hatóságként az atomenergia-felügyeleti szerv jár el, eljárására a magyar építészetről szóló törvény, valamint a végrehajtására kiadott jogszabály és önkormányzati rendelet rendelkezéseit az e törvényben, valamint a végrehajtására kiadott jogszabályban foglalt eltérésekkel kell alkalmazni.
 
 (2c) A végleges üzemen kívül helyezési engedély véglegessé válása után a létesítmény üzemeltetésére vonatkozó kérelmet előterjeszteni nem lehet.
 
