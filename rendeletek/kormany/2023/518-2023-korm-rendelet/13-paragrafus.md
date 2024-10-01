@@ -6,11 +6,11 @@ a) a magyar állampolgár és az a személy, akit a magyar állampolgárságról
 
 b) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó személy, aki a szabad mozgás és a három hónapot meghaladó tartózkodás jogát Magyarország területén gyakorolja,
 
-c)[^2] a harmadik országbeli állampolgár, ha a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben foglaltak szerint huzamos tartózkodási jogosultsággal rendelkezik, illetve
+c)[^10] a harmadik országbeli állampolgár, ha a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben foglaltak szerint huzamos tartózkodási jogosultsággal rendelkezik, illetve
 
-d)[^3] a hontalan, ha a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben foglaltak alapján ilyen jogállásúnak ismerték el.
+d)[^11] a hontalan, ha a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben foglaltak alapján ilyen jogállásúnak ismerték el.
 
 (2) Nem magyar állampolgár részére a kölcsön a három hónapot meghaladó tartózkodási jogosultság fennállásának időtartama alatt nyújtható, ha Magyarország területén bejelentett lakóhellyel rendelkezik.
 
-[^2]: A 13. § (1) bekezdés c) pontja a 35/2024. (II. 29.) Korm. rendelet 345. §-ával megállapított szöveg.
-[^3]: A 13. § (1) bekezdés d) pontja a 35/2024. (II. 29.) Korm. rendelet 345. §-ával megállapított szöveg.
+[^10]: A 13. § (1) bekezdés c) pontja a 35/2024. (II. 29.) Korm. rendelet 345. §-ával megállapított szöveg.
+[^11]: A 13. § (1) bekezdés d) pontja a 35/2024. (II. 29.) Korm. rendelet 345. §-ával megállapított szöveg.

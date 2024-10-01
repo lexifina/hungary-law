@@ -6,11 +6,11 @@ b) bővített lakásra a munkálatok idejére és
 
 ba) a munkálatok befejezését, vagy
 
-bb) építésiengedély-köteles bővítés esetén a használatbavételi engedély kiadását vagy a használatbavétel tudomásulvételét, vagy
+bb)[^16] építési engedélyhez vagy egyszerű bejelentéshez kötött bővítés esetén a használatbavételi engedély kiadását vagy
 
-bc) egyszerű bejelentéshez kötött bővítése esetén a felépítés megtörténtét tanúsító hatósági bizonyítvány kiállítását,
+bc)[^17]
 
-c) épített lakásra az építkezés idejére és a használatbavételi engedély kiadását, a használatbavétel tudomásulvételét vagy az egyszerű bejelentéshez kötött épület felépítésének megtörténtét igazoló hatósági bizonyítvány kiállítását
+c)[^18] épített lakásra az építkezés idejére és a használatbavételi engedély kiadását
 
 követően a kölcsön futamidejének végéig terjedő időszakra az állam javára jelzálogjog, valamint annak biztosítására elidegenítési és terhelési tilalom kerül bejegyzésre – a kölcsönszerződés megkötése időpontjában fennálló kölcsönösszeg 20 százalékának erejéig – a kölcsön és a kamattámogatás jogszerűtlen igénybevételéből eredő követelések biztosítására. A jelzálogjog ranghelyét kizárólag a kölcsönnel érintett lakás vásárlása, építése vagy bővítése érdekében felvett lakáscélú hitelintézeti, illetve lakás-takarékpénztári kölcsönt, valamint az építkezés helyéül szolgáló építési telek megvásárlására felvett hitelintézeti, illetve lakás-takarékpénztári kölcsönt biztosító jelzálogjog, továbbá a kölcsönnel érintett lakás vásárlásához, építéséhez, bővítéséhez, valamint korszerűsítéséhez felvett vissza nem térítendő lakáscélú állami támogatást, lakáscélú hitelintézeti, illetve lakás-takarékpénztári kölcsönt biztosító jelzálogjog ranghelye előzheti meg.
 
@@ -31,3 +31,7 @@ c) a lakásra közérdekű használati jogot alapítanak.
 (6) A kölcsön hitelcéljaként szolgáló lakást – ha a kölcsön fedezete másik lakás, akkor a fedezeteként szolgáló lakást – a kölcsön összegének erejéig, az (1) bekezdés szerinti időtartamra, a kölcsönszerződés alapján a hitelintézet javára jelzálogjog, valamint annak biztosítására elidegenítési és terhelési tilalom terheli.
 
 (7) Az (1) bekezdés szerinti időszakban a lakásra a támogatott személyeknek lakásbiztosítással kell rendelkeznie. A lakásbiztosítás jellemzőit a kölcsönszerződés tartalmazza.
+
+[^16]: A 18. § (1) bekezdés b) pont bb) alpontja a 285/2024. (IX. 30.) Korm. rendelet 198. § e) pontja és 199. § 8. pontja szerint módosított szöveg.
+[^17]: A 18. § (1) bekezdés b) pont bc) alpontját a 285/2024. (IX. 30.) Korm. rendelet 199. § 9. pontja hatályon kívül helyezte.
+[^18]: A 18. § (1) bekezdés c) pontja a 285/2024. (IX. 30.) Korm. rendelet 199. § 10. pontja szerint módosított szöveg.

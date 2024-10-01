@@ -2,11 +2,11 @@
 
 a) lakás vásárlása esetén az adásvételi szerződés megkötését követő 180 napon belül,
 
-b) lakás építésiengedély-köteles bővítése esetén a használatbavételi engedély kiadását vagy a használatbavétel tudomásulvételét megelőzően,
+b)[^23] lakás építési engedélyhez vagy egyszerű bejelentéshez kötött bővítése esetén a használatbavételi engedély kiadását megelőzően,
 
-c) lakás egyszerű bejelentéshez kötött bővítése esetén a felépítés megtörténtét tanúsító hatósági bizonyítvány kiállítását megelőzően,
+c)[^24]
 
-d) lakás építése esetén a használatbavételi engedélyről szóló határozat vagy a használatbavétel tudomásulvételét igazoló hatósági dokumentum vagy az egyszerű bejelentéshez kötött lakóépület felépítésének megtörténtét igazoló hatósági bizonyítvány kiállítását, valamint a 6. § (7) bekezdése szerinti esetben az építési tevékenység befejezését megelőzően
+d)[^25] lakás építése esetén a használatbavételi engedély kiállítását, valamint a 6. § (7) bekezdése szerinti esetben az építési tevékenység befejezését megelőzően
 
 lehet kérni a hitelintézettől.
 
@@ -27,3 +27,7 @@ bírálja el.
 (6) A hitelintézet egyéb tájékoztatást vagy adatot nem tartalmazó külön dokumentumban, írásban tájékoztatja az igénylőket arról, hogy a kölcsön megállapításának – az e rendeletben, valamint az Fhtv. 14/A. § (3) bekezdés a) pontjában meghatározott feltételeken kívül – nem feltétele a hitelintézet által nyújtott egyéb szolgáltatás igénybevétele.
 
 (7) Ha a lakás vásárlását, építését vagy bővítését az igénylők kamattámogatással nem érintett kölcsön igénybevételével tudják megvalósítani, a kamattámogatott kölcsön abban az esetben igényelhető, ha a hitelintézet az igénylőket a kamattámogatással nem érintett kölcsön felvételéhez is hitelképesnek minősíti.
+
+[^23]: A 24. § (1) bekezdés b) pontja a 285/2024. (IX. 30.) Korm. rendelet 198. § h) pontja és 199. § 14. pontja szerint módosított szöveg.
+[^24]: A 24. § (1) bekezdés c) pontját a 285/2024. (IX. 30.) Korm. rendelet 199. § 15. pontja hatályon kívül helyezte.
+[^25]: A 24. § (1) bekezdés d) pontja a 285/2024. (IX. 30.) Korm. rendelet 198. § i) pontja szerint módosított szöveg.
