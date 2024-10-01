@@ -1374,7 +1374,7 @@ c) a helyi sajátosságokhoz adaptálódott urbánus kulturális sokszínűség 
 
 3. A kezelés stratégiái
 
-3.1. A világörökség és a történeti táj fókuszba állítása, a világörökségi területen meglévő és a tervezett intézményrendszer (a Tokaj Borvidék Fejlesztési Tanács, a világörökségi gondokság, a tájgondnokság, a térségi főépítész, települési főépítészek, tájegységi tervtanács) hálózatba szervezése, szervezeti-működési mechanizmusainak összehangolása és stabil működési feltételeinek biztosítása, Tokaj-hegyaljai Tudástár – a Tokaj-hegyaljai történelmi borvidék kultúrtáj világörökségi terület közös digitális térinformatikai rendszere – kidolgozása, felépítése és működési feltételeinek biztosítása.
+3.1. A világörökség és a történeti táj fókuszba állítása, a világörökségi területen meglévő és a tervezett intézményrendszer (a Tokaj Borvidék Fejlesztési Tanács, a világörökségi gondokság, a tájgondnokság, a térségi főépítész, települési főépítészek, területi tervtanács) hálózatba szervezése, szervezeti-működési mechanizmusainak összehangolása és stabil működési feltételeinek biztosítása, Tokaj-hegyaljai Tudástár – a Tokaj-hegyaljai történelmi borvidék kultúrtáj világörökségi terület közös digitális térinformatikai rendszere – kidolgozása, felépítése és működési feltételeinek biztosítása.
 
 3.2. A történeti táj kiemelkedő egyetemes értékének megőrzéséhez szükséges szabályozás, beleértve a fejlesztési és rendezési típusú tervezést, és a települési tervek felülvizsgálatát, új tervek készítését.
 
@@ -1498,7 +1498,7 @@ g) a kiemelt jelentőségű pincék, pincerendszerek bemutatásáról.
 
 4.1.4.2. Az értékgazdálkodási stratégia részeként:
 
-a) a világörökségi területen működő világörökségi tervtanács és területi monitoring bizottság felállítása a településrendezési és az építészeti-műszaki tervtanácsokról szóló 252/2006. (XII. 7.) Korm. rendelet 10. § (1) bekezdésével összhangban;
+a) a világörökségi területen működő világörökségi tervtanács és területi monitoring bizottság felállítása a magyar építészetről szóló 2023. évi C. törvény 62. § (2) bekezdésével összhangban;
 
 b) a világörökségi területen működő Műemlékőr szolgálat létrehozása;
 
@@ -1678,4 +1678,4 @@ d) az egyes bányatelkekre vonatkozó monitoring tervek véleményezésébe és 
 
 e) az egyeztetett tervek alapján készült éves összefoglaló monitoring jelentéseket és az azok alapján tervezett, szükséges hatáscsökkentő intézkedéseket, illetve azok eredményeit a véleményező, jóváhagyó szakhatóságoknak folyamatosan meg kell küldeni, az érdekelt felek részére pedig hozzáférhetővé kell tenni.
 
-[^4]: A 2. melléklet a 217/2018. (XI. 27.) Korm. rendelet 26. §-a, a 616/2022. (XII. 29.) Korm. rendelet 251. §-a szerint módosított szöveg.
+[^4]: A 2. melléklet a 217/2018. (XI. 27.) Korm. rendelet 26. §-a, a 616/2022. (XII. 29.) Korm. rendelet 251. §-a, a 284/2024. (IX. 30.) Korm. rendelet 3. §-a szerint módosított szöveg.
