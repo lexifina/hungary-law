@@ -12,24 +12,27 @@
 
 | 6. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala |
 
-| 7. | vízügyi és vízvédelmi hatósági engedélyezési eljárások | Fővárosi Katasztrófavédelmi Igazgatóság |
+| 7.[^15] | vízügyi és vízvédelmi hatósági engedélyezési eljárások | Pest Vármegyei Kormányhivatal |
 
 | 8. | hírközlési hatósági eljárások | Nemzeti Média- és Hírközlési Hatóság Hivatala |
 
-| 9. | földvédelmi, telekalakítási, földmérési, ingatlan- nyilvántartási hatósági eljárások | Pest Vármegyei Kormányhivatal[^15] |
+| 9. | földvédelmi, telekalakítási, földmérési, ingatlan- nyilvántartási hatósági eljárások | Pest Vármegyei Kormányhivatal[^16] |
 
-| 10. | talajvédelmi hatósági eljárások | Pest Vármegyei Kormányhivatal[^16] |
+| 10. | talajvédelmi hatósági eljárások | Pest Vármegyei Kormányhivatal[^17] |
 
-| 11. | tűzvédelmi használati előírások és a tűzoltóságok beavatkozásával kapcsolatos követelmények alóli eltérési engedélyezési eljárások; beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi engedélyezési eljárásai, a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | illetékes katasztrófavédelmi igazgatóság |
+| 11. | tűzvédelmi használati előírások és a tűzoltóságok beavatkozásával kapcsolatos követelmények alóli eltérési engedélyezési eljárások; beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi engedélyezési eljárásai, a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | illetékes fővárosi és vármegyei kormányhivatal[^18] |
 
-| 12. | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 12.[^19] | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Budapest Főváros Kormányhivatala |
 
-2. melléklet a 304/2014. (XII. 5.) Korm. rendelethez[^17]
+2. melléklet a 304/2014. (XII. 5.) Korm. rendelethez[^20]
 
 [^11]: Az 1. mellékletben foglalt táblázat D:2 mezője az 546/2022. (XII. 22.) Korm. rendelet 63. § b) pontja szerint módosított szöveg.
 [^12]: Az 1. mellékletben foglalt táblázat D:3 mezője az 546/2022. (XII. 22.) Korm. rendelet 63. § b) pontja szerint módosított szöveg.
 [^13]: Az 1. mellékletben foglalt táblázat D:4 mezője az 546/2022. (XII. 22.) Korm. rendelet 63. § b) pontja szerint módosított szöveg.
 [^14]: Az 1. mellékletben foglalt táblázat D:5 mezője az 546/2022. (XII. 22.) Korm. rendelet 63. § b) pontja szerint módosított szöveg.
-[^15]: Az 1. mellékletben foglalt táblázat D:9 mezője az 546/2022. (XII. 22.) Korm. rendelet 63. § b) pontja szerint módosított szöveg.
-[^16]: Az 1. mellékletben foglalt táblázat D:10 mezője az 546/2022. (XII. 22.) Korm. rendelet 63. § b) pontja szerint módosított szöveg.
-[^17]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 169. § e) pontja hatályon kívül helyezte.
+[^15]: Az 1. mellékletben foglalt táblázat 7. sora a 257/2024. (VIII. 29.) Korm. rendelet 145. §-ával megállapított szöveg.
+[^16]: Az 1. mellékletben foglalt táblázat D:9 mezője az 546/2022. (XII. 22.) Korm. rendelet 63. § b) pontja szerint módosított szöveg.
+[^17]: Az 1. mellékletben foglalt táblázat D:10 mezője az 546/2022. (XII. 22.) Korm. rendelet 63. § b) pontja szerint módosított szöveg.
+[^18]: Az 1. mellékletben foglalt táblázat D:11 mezője a 257/2024. (VIII. 29.) Korm. rendelet 144. §-a szerint módosított szöveg.
+[^19]: Az 1. mellékletben foglalt táblázat 12. sora a 257/2024. (VIII. 29.) Korm. rendelet 145. §-ával megállapított szöveg.
+[^20]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 169. § e) pontja hatályon kívül helyezte.
