@@ -6,9 +6,6 @@ b) az egyházi jogi személy és – a civil társaság kivételével – a civi
 
 (2) Az (1) bekezdés szerinti munkáltató a 2. melléklet szerinti Utazási utalványt minden év március 31. napjáig a jogosultak rendelkezésére bocsátja, ha a jogosult legalább a tárgyév március 31-ét megelőző 365 napon – bármely az (1) bekezdés szerinti munkáltatónál eltöltött – munkaviszonnyal rendelkezik. Az igényjogosultság alapjául szolgáló munkaviszony számításához a részidőket össze kell adni.
 
-(3)[^1]
+(3) A kedvezmény akkor vehető igénybe, ha az Utazási utalványt a közszolgáltatási szerződésben kijelölt közlekedési szolgáltatónál (a továbbiakban: kijelölt közlekedési szolgáltató) a jogosult regisztrálja, a rajta feltüntetett érvényességi idő kezdőnapjával. A regisztrációt követően az utazási kedvezmény csak elektronikus jegy formájában vehető igénybe.
 
-(4)[^2]
-
-[^1]: A 7. § (3) bekezdése a 11. § (2) bekezdés alapján 2024. október 1-jén lép hatályba.
-[^2]: A 7. § (4) bekezdése a 11. § (2) bekezdés alapján 2024. október 1-jén lép hatályba.
+(4) A kijelölt közlekedési szolgáltató a regisztráció során rögzíti a jogosult és az Utazási utalványt kibocsátó munkáltató adatait. A megadott adatok valódiságát a kijelölt közlekedési szolgáltató jogosult ellenőrizni. Jogosulatlan felhasználás esetén a kijelölt közlekedési szolgáltató a regisztrációt törli, melynek tényéről értesíti a regisztrációt kezdeményezőt, valamint a regisztrációval érintett munkáltatót.
