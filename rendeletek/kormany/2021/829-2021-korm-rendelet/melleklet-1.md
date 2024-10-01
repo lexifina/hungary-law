@@ -32,8 +32,8 @@ A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentős�
 
 | 14 | természetvédelmi és környezetvédelmi hatósági eljárások | Jász-Nagykun-Szolnok Vármegyei Kormányhivatal mint környezetvédelmi, természetvédelmi és hulladékgazdálkodási hatóság |
 
-| 15 | vízügyi és vízvédelmi hatósági engedélyezési eljárások | Jász-Nagykun-Szolnok Vármegyei Katasztrófavédelmi Igazgatóság mint vízügyi és vízvédelmi hatóság |
+| 15 | vízügyi és vízvédelmi hatósági engedélyezési eljárások | vízügyi és vízvédelmi hatáskörben eljáró Jász-Nagykun-Szolnok Vármegyei Kormányhivatal |
 
 | 16 | az 1–15. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások | az 1–15. pontban kijelölt hatóság |
 
-[^5]: Az 1. melléklet az 546/2022. (XII. 22.) Korm. rendelet 289. §-a szerint módosított szöveg.
+[^5]: Az 1. melléklet az 546/2022. (XII. 22.) Korm. rendelet 289. §-a, a 257/2024. (VIII. 29.) Korm. rendelet 345. §-a szerint módosított szöveg.
