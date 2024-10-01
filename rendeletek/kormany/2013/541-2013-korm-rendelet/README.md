@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-541-20-
 | 2020-07-31 | 2013-541-20-22.5 | 375/2020. (VII. 30.) Korm. rendelet |
 | 2021-07-01 | 2013-541-20-22.6 | 375/2021. (VI. 30.) Korm. rendelet |
 | 2023-07-01 | 2013-541-20-22.7 | 280/2023. (VI. 29.) Korm. rendelet |
+| 2024-10-01 | 2013-541-20-22.8 | 257/2024. (VIII. 29.) Korm. rendelet |

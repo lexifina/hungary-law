@@ -1,4 +1,4 @@
-2. § (1)[^1] Az ivóvíz-szolgáltatás területén nemzeti létfontosságú rendszerelemként kell azonosítani
+2. § (1)[^3] Az ivóvíz-szolgáltatás területén nemzeti létfontosságú rendszerelemként kell azonosítani
 
 a) a felszíni ivóvízbázisként üzemeltetett tározót 2,5 millió m3 összes tározótérfogat felett,
 
@@ -8,9 +8,9 @@ c) az ivóvíztároló medencét, ha térfogata meghaladja a 25 000 m3 értéket
 
 d) azt a közműves ivóvízellátást biztosító víziközmű-rendszert, amelynek a felhasználói egyenértéke a víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény (a továbbiakban: Vksztv.) szerinti működési engedélyben foglaltak szerint meghaladja a százezret,
 
-e)[^2] azt az üdítőital, ásványvíz gyártót, amely gazdasági célú vízhasználatot végez, és lekötött éves vízmennyisége bármely telephelyén meghaladja a 100 000 m3/év mennyiséget.
+e)[^4] azt az üdítőital, ásványvíz gyártót, amely gazdasági célú vízhasználatot végez, és lekötött éves vízmennyisége bármely telephelyén meghaladja a 100 000 m3/év mennyiséget.
 
-(2)[^3] A szennyvízelvezetés és -tisztítás területén nemzeti létfontosságú rendszerelemként kell azonosítani
+(2)[^5] A szennyvízelvezetés és -tisztítás területén nemzeti létfontosságú rendszerelemként kell azonosítani
 
 a) azt a szennyvíztisztító telepet, amelynek kapacitása meghaladja a 250 000 lakosegyenérték szennyezőanyag-terhelést, és működésképtelenné válása a felszíni víz jelentősen kedvezőtlen állapotát eredményezi,
 
@@ -30,11 +30,11 @@ ad) működésképtelensége a hazai vízrendszerek közötti vízátvezetés hi
 
 b) az elsőrendű árvízvédelmi vízilétesítményt, ha
 
-ba)[^4] legalább 2000 m3/sec éves középvízhozamú vagy államhatárt is alkotó folyók mentén olyan öblözetet véd, amelyben a kitört víz lokalizálására nincs lehetőség, és a védvonal nincs az előírt méretre kiépítve,
+ba)[^6] legalább 2000 m3/sec éves középvízhozamú vagy államhatárt is alkotó folyók mentén olyan öblözetet véd, amelyben a kitört víz lokalizálására nincs lehetőség, és a védvonal nincs az előírt méretre kiépítve,
 
 bb) annak hossza és a védett öblözet területének aránya kisebb mint 1:10 km/km2.
 
-[^1]: A 2. § (1) bekezdése a 375/2020. (VII. 30.) Korm. rendelet 61. §-ával megállapított szöveg.
-[^2]: A 2. § (1) bekezdés e) pontja a 375/2021. (VI. 30.) Korm. rendelet 21. § (1) bekezdésével megállapított szöveg.
-[^3]: A 2. § (2) bekezdése a 375/2020. (VII. 30.) Korm. rendelet 61. §-ával megállapított szöveg.
-[^4]: A 2. § (3) bekezdés b) pont ba) alpontja a 9. § (2) bekezdésével megállapított szöveg.
+[^3]: A 2. § (1) bekezdése a 375/2020. (VII. 30.) Korm. rendelet 61. §-ával megállapított szöveg.
+[^4]: A 2. § (1) bekezdés e) pontja a 375/2021. (VI. 30.) Korm. rendelet 21. § (1) bekezdésével megállapított szöveg.
+[^5]: A 2. § (2) bekezdése a 375/2020. (VII. 30.) Korm. rendelet 61. §-ával megállapított szöveg.
+[^6]: A 2. § (3) bekezdés b) pont ba) alpontja a 9. § (2) bekezdésével megállapított szöveg.
