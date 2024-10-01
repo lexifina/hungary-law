@@ -34,3 +34,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-385-20-
 | 2023-08-01 | 2016-385-20-22.26 | 514/2022. (XII. 13.) Korm. rendelet |
 | 2023-12-29 | 2016-385-20-22.28 | 659/2023. (XII. 28.) Korm. rendelet |
 | 2024-01-01 | 2016-385-20-22.27 | 360/2019. (XII. 30.) Korm. rendelet |
+| 2024-10-01 | 2016-385-20-22.29 | 507/2017. (XII. 29.) Korm. rendelet |
