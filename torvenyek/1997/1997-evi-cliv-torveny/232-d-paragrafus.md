@@ -40,7 +40,7 @@ j) elrendelhet törvény alapján meghozható járványügyi intézkedéseket,
 
 k) törvényben meghatározott egyéb rendelkezéseket hozhat.
 
-l) az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 2. § 13. pontja szerinti közterület használatára a közterülethez közvetlenül csatlakozó, a kereskedelemről szóló 2005. évi CLXIV. törvény 2. § 30. pontja szerinti tevékenységek folytatására alkalmas helyiség tekintetében közterület-használati hozzájárulás megfizetésével kapcsolatos rendelkezéseket állapíthat meg,
+l) a magyar építészetről szóló 2023. évi C. törvény 16. § 73. pontja szerinti közterület használatára a közterülethez közvetlenül csatlakozó, a kereskedelemről szóló 2005. évi CLXIV. törvény 2. § 30. pontja szerinti tevékenységek folytatására alkalmas helyiség tekintetében közterület-használati hozzájárulás megfizetésével kapcsolatos rendelkezéseket állapíthat meg,
 
 m) a 232/G. § szerinti, a távmunkavégzésre vonatkozó különös szabályok alkalmazását rendelheti el.
 
