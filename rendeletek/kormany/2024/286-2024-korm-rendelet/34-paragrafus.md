@@ -1,3 +1,3 @@
-34. § Az Épkiv. 24. § (1) bekezdése helyébe a következő rendelkezés lép:
+34. §[^34]
 
-„(1) A kivitelezési dokumentáció alapján végezhető építőipari kivitelezési tevékenység végzéséről e-építési naplót kell vezetni.”
+[^34]: A 34. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

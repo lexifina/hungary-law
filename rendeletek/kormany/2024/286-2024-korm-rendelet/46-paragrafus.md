@@ -1,202 +1,298 @@
 46. § Az Épkiv.
 
-1. 1. § (1) bekezdés b) pontjában az „ellenőr és az építtetői fedezetkezelő” szövegrész helyébe az „ellenőr, az építtetői fedezetkezelő, a beruházáslebonyolító, a tervellenőr, a költségszakértő, a biztonsági és egészségvédelmi koordinátor, valamint a „rehabilitációs környezettervezés területén gyakorlott” címmel rendelkező szakmagyakorló” szöveg,
+1.[^47]
 
-2. 1. § (1) bekezdés c) pontjában az „építési napló, az építési napló alvállalkozói nyilvántartása” szövegrész helyébe az „elektronikus építési napló (a továbbiakban: e-építési napló), az elektronikus fedezetkezelői nyilvántartás” szöveg,
+2.[^48]
 
-3. 1. § (2) bekezdésében az „előírásait – az antennák, antennatartó szerkezetek és csatlakozó műtárgyak kivételével – a sajátos építményfajtákra és a műemlékekre” szövegrész helyébe az „előírásait a sajátos építményfajtákra és a nemzeti emléknek minősülő műemlékekre” szöveg,
+3.[^49]
 
-4. 3. § (2) bekezdés a) és b) pontjában a „címét vagy székhelyét” szövegrész helyébe a „címét, székhelyét vagy telephelyét” szöveg,
+4.[^50]
 
-5. 3. § (2) bekezdés a) pontjában a „nevét vagy megnevezését, címét vagy székhelyét, elérhetőségét és elektronikus építési napló (a továbbiakban: e-építési napló) vezetés esetén az alkalmazás használatához szükséges naplóügyfél-jelét (a továbbiakban: NÜJ)” szövegrész helyébe a „nevét, címét, elérhetőségét és az e-építési napló használatához szükséges naplóügyfél-jelet” szöveg,
+5.[^51]
 
-6. 3. § (2) bekezdés b) pontjában a „nevét vagy megnevezését, címét vagy székhelyét” szövegrész helyébe a „nevét, címét, székhelyét vagy telephelyét” szöveg,
+6.[^52]
 
-7. 3. § (2) bekezdés g) pontjában a „szolgáltatására” szövegrész helyébe az „építtető általi szolgáltatására” szöveg,
+7.[^53]
 
-8. 3. § (2) bekezdés h) pontjában a „hulladékok” szövegrész helyébe az „építési-bontási hulladékok” szöveg,
+8.[^54]
 
-9. 3. § (2) bekezdés i) pontjában a „költségvetési kiírás” szövegrész helyébe a „tételes költségvetési kiírás” szöveg,
+9.[^55]
 
-10. 3. § (2) bekezdés l) pontjában az „érdekében” szövegrész helyébe az „érdekében, a magyar építészetről szóló 2023. évi C. törvény (a továbbiakban: Méptv.) 189. § (3) bekezdésében meghatározottakon túl,” szöveg,
+10.[^56]
 
-11. 3. § (2) bekezdés n) pontjában a „ha” szövegrész helyébe az „a fővállalkozó kivitelező az építőipari kivitelezési tevékenység ellenértékének terhére előleg nyújtására vonatkozó igényét és rendelkezéseit, valamint ha” szöveg,
+11.[^57]
 
-12. 3. § (2) bekezdés q) pont qb) alpontjában a „14 napon belül a kivitelezési” szövegrész helyébe a „tizennégy napon belül az építőipari kivitelezési” szöveg,
+12.[^58]
 
-13. 3. § (3) bekezdésében a „lakcím, illetve székhely” szövegrész helyébe a „lakcím, székhely vagy telephely” szöveg, valamint a „megkötésére, valamint” szövegrész helyébe a „megkötésére, a szolgáltatásra kötelezett alvállalkozó kivitelező által megadott kivitelezési szerződés szerződésszámát, valamint” szöveg,
+13.[^59]
 
-14. 3. § (10) bekezdésében az „a kulturális örökségvédelmi hatóság külön jogszabályban meghatározott intézkedése alapján feltételezhető, hogy kulturális örökségi értéknek minősül” szövegrész helyébe az „az örökségvédelmi hatóság jogszabályban meghatározott intézkedése alapján feltételezhető, hogy műemléki értéknek vagy régészeti emléknek minősül” szöveg,
+14.[^60]
 
-15. 4. §-ában az „a 17. § (2) bekezdésnek megfelelően építtetői fedezetkezelő közreműködésére kerül sor” szövegrész helyébe az „építtetői fedezetkezelő közreműködésére kerül sor, és az építési munkaterület átadása előtt a fedezetkezelői szerződés rendelkezésre áll” szöveg,
+15.[^61]
 
-16. 4. § a) pontjában az „e-építési napló vezetése estén a képviseletében eljáró személy NÜJ-ét,” szövegrész helyébe az „a képviseletében eljáró személy naplóügyfél-jelét,” szöveg,
+16.[^62]
 
-17. 6. §-ában a „valamint a külön jogszabály szerinti biztonsági” szövegrész helyébe az „a beruházáslebonyolító, a tervellenőr, a költségszakértő, valamint a biztonsági” szöveg,
+17.[^63]
 
-18. 7. § (2) bekezdésében az „az Étv. 43. § (1) és (2) bekezdésében” szövegrész helyébe az „a Méptv.-ben” szöveg,
+18.[^64]
 
-19. 7. § (2) bekezdés c) pontjában a „(2) bekezdésében” szövegrész helyébe a „(2)–(6) bekezdésében” szöveg,
+19.[^65]
 
-20. II. Fejezet A tervező alcímében az „A tervező” szövegrész helyébe az „A tervező és a tervellenőr” szöveg,
+20.[^66]
 
-21. 12. § (1) bekezdésében az „az Étv. 39/A. § (5) bekezdésében” szövegrész helyébe az „a Méptv. 188. § (4) bekezdésében” szöveg,
+21.[^67]
 
-22. 12. § (2a) bekezdésében az „építési” szövegrész helyébe az „építtető és az építési” szöveg,
+22.[^68]
 
-23. 12. § (3) bekezdésében a „kivitelezőnek” szövegrész helyébe a „vállalkozó kivitelezőnek” szöveg,
+23.[^69]
 
-24. 13. § (3) bekezdésében a „feladata:” szövegrész helyébe a „feladata a Méptv.-ben foglaltakon túlmenően:” szöveg,
+24.[^70]
 
-25. 13. § (3) bekezdés a) pontjában a „műemlékvédelmi” szövegrész helyébe az „örökségvédelmi” szöveg,
+25.[^71]
 
-26. 13. § (3) bekezdés d) pontjában, valamint 22/A. § (4) bekezdésében az „a kivitelezés” szövegrész helyébe az „az építőipari kivitelezési tevékenység” szöveg,
+26.[^72]
 
-27. 13. § (3) bekezdés h) pontjában a „tervektől” szövegrész helyébe a „dokumentációtól” szöveg,
+27.[^73]
 
-28. 13. § (3) bekezdés i) pontjában a „hulladék” szövegrész helyébe az „építési-bontási hulladék” szöveg,
+28.[^74]
 
-29. 13. § (3) bekezdés j) pontjában a „nyilatkozat” szövegrész helyébe a „szakmai nyilatkozat” szöveg,
+29.[^75]
 
-30. 13. § (3) bekezdés k) pontjában az „engedélyezési és tudomásulvételi eljárásban, az egyszerű bejelentéshez kötött építési tevékenység megvalósulását igazoló hatósági bizonyítvány kiállításának eljárásában” szövegrész helyébe az „eljárásban” szöveg,
+30.[^76]
 
-31. 13. § (3) bekezdés l) pont la) alpontjában a „kivitelezési munkák” szövegrész helyébe az „építőipari kivitelezési tevékenység” szöveg,
+31.[^77]
 
-32. 13. § (3) bekezdés n) pontjában az „értesítése” szövegrész helyébe az „értesítése az e-építési naplóban eseti bejegyzéssel” szöveg,
+32.[^78]
 
-33. 13. § (3) bekezdés o) pontjában az „az Étv. 41. §-a” szövegrész helyébe az „a Méptv. 184. § (1)–(3) bekezdése” szöveg,
+33.[^79]
 
-34. 13. § (5) bekezdésében, 17. § (8) bekezdés a) pont ab) alpontjában, b) pont bb) alpontjában, 19. § (5) és (6) bekezdésében, 21/A. § (1) bekezdés c) pontjában, valamint 21/A. § (2) bekezdésében a „kivitelezési” szövegrész helyébe az „építőipari kivitelezési” szöveg,
+34.[^80]
 
-35. 13. § (5) bekezdés b) pont bc) alpontjában az „engedélyezési és tudomásulvételi eljáráshoz, valamint az egyszerű bejelentéshez kötött építési tevékenység megvalósulását igazoló hatósági bizonyítvány kiállításának eljárásához” szövegrész helyébe az „eljáráshoz” szöveg,
+35.[^81]
 
-36. 16. § (1) bekezdés c) pontjában a „nemzetgazdasági szempontból kiemelt jelentőségű ügy tárgyát képezi” szövegrész helyébe a „kiemelt beruházás” szöveg,
+36.[^82]
 
-37. 16. § (1) bekezdés d) pontjában a „műemléki védelem alatt álló” szövegrész helyébe a „nemzeti emléknek minősülő műemlék” szöveg,
+37.[^83]
 
-38. 16. § (3) bekezdés a) pontjában az „az Étv. 43. § (1) bekezdés e)-h) pontjában” szövegrész helyébe az „a Méptv. 66. § (2) bekezdés d), g), h), i) és k) pontjában, valamint 70. § (5) bekezdésében” szöveg,
+38.[^84]
 
-39. 16. § (3) bekezdés b) pontjában a „jóváhagyott” szövegrész helyébe a „jóváhagyott vagy az egyszerű bejelentés” szöveg,
+39.[^85]
 
-40. 16. § (3) bekezdés d) pontjában az „építési napló(k)” szövegrész helyébe az „e-építési napló(k)” szöveg,
+40.[^86]
 
-41. 16. § (3) bekezdés e), k) pontjában és o) pont ob) alpontjában, valamint 33. § (4) bekezdésében az „építési naplóban” szövegrész helyébe az „e-építési naplóban” szöveg,
+41.[^87]
 
-42. 16. § (3) bekezdés g) pontjában az „építési naplóba” szövegrész helyébe az „e-építési naplóba” szöveg,
+42.[^88]
 
-43. 16. § (4) bekezdésében, „Az építési napló” alcím címében, valamint 24. § (2) bekezdésében az „építési napló” szövegrész helyébe az „e-építési napló” szöveg,
+43.[^89]
 
-44. 16. § (4) bekezdésében az „engedélyezési és tudomásulvételi eljárás, az egyszerű bejelentéshez kötött építési tevékenység megvalósulását igazoló hatósági bizonyítvány” szövegrész helyébe az „eljárás” szöveg,
+44.[^90]
 
-45. 16. § (6) bekezdés b) pontjában a „NÜJ-ét” szövegrész helyébe a „naplóügyfél-jelét” szöveg,
+45.[^91]
 
-46. 16. § (6) bekezdés c) pontjában az „adószámát” szövegrész helyébe az „adószámát, pénzforgalmi számlaszámát,” szöveg,
+46.[^92]
 
-47. 16. § (6) bekezdés d) pontjában a „helyét, a kivitelezés” szövegrész helyébe az „a helyét, az építőipari kivitelezési tevékenység” szöveg,
+47.[^93]
 
-48. 16. § (6) bekezdés e) pontjában a „feladatait” szövegrész helyébe a „feladatait, különösen az építési helyszínen az építőipari kivitelezési tevékenység ellenőrzésének gyakoriságát” szöveg,
+48.[^94]
 
-49. 17. § (2) bekezdésében a „közre” szövegrész helyébe a „közre az atomenergia alkalmazására szolgáló, a honvédelmi és katonai, valamint a nemzetbiztonsági célú építmények kivételével” szöveg,
+49.[^95]
 
-50. 17. § (8) bekezdés a) pont aa) alpontjában a „kivitelezésre” szövegrész helyébe a „kivitelezési tevékenységre” szöveg,
+50.[^96]
 
-51. 17/B. §-ában a „nyit.” szövegrész helyébe a „nyit. Egyéb forrás esetében a további fizetési számla vezetésére jogosult pénzforgalmi szolgáltatók az elkülönítésre fedezetkezelői fizetési és biztosítéki számlát nyitnak.” szöveg,
+51.[^97]
 
-52. 19. § (2) bekezdés b) pontjában, 19. § (3) bekezdésében, 20. § (4) bekezdés nyitó szövegrészében, 20. § (4) bekezdés b) pontjában, valamint 20/A. § (1) bekezdésében az „az alvállalkozói” szövegrész helyébe az „a fedezetkezelői” szöveg,
+52.[^98]
 
-53.[^4]
+53.[^99]
 
-54. 20. § (5) bekezdés a) pontjában, valamint 20. § (6) bekezdésében az „(1) bekezdése” szövegrész helyébe az „(1b) bekezdése” szöveg,
+54.[^100]
 
-55. 20/A. § (4) bekezdésében, valamint 36. § (2) bekezdésében az „építésfelügyeleti” szövegrész helyébe az „építésügyi” szöveg,
+55.[^101]
 
-56. 21. § (2) bekezdésében az „e-építési napló alvállalkozói nyilvántartás mellékletének figyelemmel kísérése és” szövegrész helyébe az „elektronikus fedezetkezelői nyilvántartásnak a” szöveg,
+56.[^102]
 
-57. 21. § (2) bekezdés b) pontjában az „e-építési napló mellékletét képező elektronikus alvállalkozói nyilvántartás használatához” szövegrész helyébe az „elektronikus fedezetkezelői nyilvántartás használatához, aki a megrendelő vállalkozótól kapott belépési kódja segítségével rögzíti a szerződésük adatait a fedezetkezelői nyilvántartásban” szöveg,
+57.[^103]
 
-58. 21. § (2) bekezdés e), f) és g) pontjában az „alvállalkozói” szövegrész helyébe a „fedezetkezelői” szöveg,
+58.[^104]
 
-59. 21/A. § (1) bekezdés b) pontjában az „a kivitelezési” szövegrész helyébe az „az építőipari kivitelezési” szöveg,
+59.[^105]
 
-60. 22/A. § (1) bekezdésében az „az Étv. 31. § (2) bekezdésében és 41. §-ában” szövegrész helyébe az „a Méptv. 181. § (2) bekezdésében és 184. §-ában” szöveg,
+60.[^106]
 
-61. 22/A. § (4) bekezdésében a „tervdokumentációban” szövegrészek helyébe a „kivitelezési dokumentációban” szöveg,
+61.[^107]
 
-62. V. Fejezet címében az „ÉPÍTÉSI NAPLÓ” szövegrész helyébe az „AZ E-ÉPÍTÉSI NAPLÓ” szöveg,
+62.[^108]
 
-63.[^5]
+63.[^109]
 
-64. 24. § (4a) bekezdésében az „építési naplót” szövegrészek helyébe az „e-építési naplót” szöveg,
+64.[^110]
 
-65. 24. § (4a) bekezdésében a „(8)–(10) bekezdésben” szövegrész helyébe a „(8)–(9) bekezdésében” szöveg,
+65.[^111]
 
-66. 24/B. § (1) bekezdésében az „általános építményfajták tekintetében az Országos Építésügyi Nyilvántartás (a továbbiakban: OÉNY) üzemeltetője, a Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság a Dokumentációs és Információs Központ Üzemeltetési és Adatkezelési Szabályzatában” szövegrész helyébe az „Országos Építésügyi Nyilvántartás (a továbbiakban: OÉNY) üzemeltetője, az Építésügyi Dokumentációs és Információs Központ Üzemetetési Szabályzatában” szöveg,
+66.[^112]
 
-67. 26. § (1) bekezdésében az „a 2. melléklet szerinti tartalommal és formában” szövegrész helyébe az „az e rendelet szerinti tartalommal” szöveg,
+67.[^113]
 
-68. 26. § (3) bekezdésében az „az elektronikus alvállalkozói nyilvántartásra” szövegrész helyébe az „a naplófára” szöveg,
+68.[^114]
 
-69. 26. § (5) bekezdésében az „építési naplójának” szövegrészek helyébe az „e-alnaplójának” szöveg,
+69.[^115]
 
-70. 31. § (3) bekezdésében az „Az építési műszaki ellenőr vagy a beruházási tanácsadó” szövegrész helyébe az „A beruházáslebonyolító vagy az építési műszaki ellenőr” szöveg,
+70.[^116]
 
-71. 31. § (5) bekezdés b) pontjában az „építtető” szövegrész helyébe az „építtető vagy a beruházáslebonyolító” szöveg,
+71.[^117]
 
-72. 32. § (3) bekezdésében a „beruházási tanácsadó” szövegrész helyébe a „beruházáslebonyolító” szöveg,
+72.[^118]
 
-73. 32. § (5) bekezdésében az „amelyek” szövegrész helyébe az „adatokat, információkat, amelyek” szöveg,
+73.[^119]
 
-74. 32. § (5) bekezdés e) pontjában az „az átadás-átvételi” szövegrész helyébe az „a műszaki átadás-átvételi” szöveg,
+74.[^120]
 
-75. 32. § (5) bekezdés i) pontjában a „hibák” szövegrész helyébe a „hibák, hiányok, hiányosságok” szöveg,
+75.[^121]
 
-76. 32. § (6) bekezdésében az „építtető” szövegrész helyébe az „építtető vagy az általa megbízott beruházáslebonyolító vagy építési műszaki ellenőr” szöveg,
+76.[^122]
 
-77. 32. § (8) bekezdésében az „építési műszaki ellenőr, beruházási tanácsadó” szövegrész helyébe a „beruházáslebonyolító vagy építési műszaki ellenőr” szöveg,
+77.[^123]
 
-78. 32. § (8) bekezdés b) pontjában a „meghatározásáról” szövegrész helyébe a „meghatározásáról, mennyiségéről és minőségéről” szöveg,
+78.[^124]
 
-79. „Építési munkaterület átadása, használatbavételi engedély vagy tudomásulvétel megkérése” alcím címében a „használatbavételi engedély vagy tudomásulvétel” szövegrész helyébe a „használatbavétel” szöveg,
+79.[^125]
 
-80. 33. § (1) bekezdés a) pontjában a „hulladék-nyilvántartó” szövegrész helyébe az „építési-bontási hulladék-nyilvántartó” szöveg,
+80.[^126]
 
-81. 33. § (1) bekezdés d) pontjában a „használatbavételi engedély vagy tudomásul vétel, vagy az egyszerű bejelentés alapján végzett építési tevékenység hatósági bizonyítványának, valamint az egyszerű bejelentéshez kötött építési tevékenységek esetén a hatósági bizonyítvány” szövegrész helyébe a „használatbavétel” szöveg,
+81.[^127]
 
-82. 33. § (3a) bekezdésében a „rögzítéssel” szövegrész helyébe a „rögzítéssel és eseti bejegyzéssel” szöveg,
+82.[^128]
 
-83. 33. § (6) bekezdésében az „a munkaterület” szövegrész helyébe az „az építési munkaterület” szöveg,
+83.[^129]
 
-84. 33. § (7) bekezdésében az „eljárást vagy szakértői szervezet” szövegrész helyébe az „eljárást, közvetítői eljárását, szakértői szervezet vagy a Teljesítésigazolási Szakértői Szerv” szöveg,
+84.[^130]
 
-85. 34. § (1) bekezdés c) pontjában az „állapotára” szövegrész helyébe az „állapotára, felülvizsgálatára” szöveg,
+85.[^131]
 
-86. 34. § (1) bekezdésében a „megállapításokat” szövegrész helyébe a „megállapításokat, információkat, dokumentumokat” szöveg,
+86.[^132]
 
-87. 34. § (5a) bekezdésében az „Az I. bírságkategóriába sorolt műemlék építmény esetén a műemlék tulajdonosa jókarbantartási kötelezettségének teljesítése” szövegrész helyébe az „A nemzeti emléknek minősülő műemlék tulajdonosának jókarbantartási kötelezettsége” szöveg,
+87.[^133]
 
-88. 34. § (6) bekezdés f) pontjában a „katasztrófavédelem” szövegrész helyébe a „katasztrófavédelem, valamint” szöveg,
+88.[^134]
 
-89. 34. § (6a) bekezdésében az „Az I. bírságkategóriába sorolt” szövegrész helyébe az „A nemzeti emléknek minősülő” szöveg,
+89.[^135]
 
-90. 35. § (1) bekezdésében az „az Étv. 39. § (3) bekezdése szerinti bejelentésnek – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény (a továbbiakban: Szolgtv.) 22. § (1) bekezdésében” szövegrész helyébe az „a Méptv. 69. § (1) bekezdése szerinti bejelentésnek – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény (a továbbiakban: Szolgtv.) 22. § (1)–(3) bekezdésében” szöveg,
+90.[^136]
 
-91. 35. § (1) bekezdés a) pont ae) alpontjában az „az Étv. 39/A. § (2) bekezdésére” szövegrész helyébe az „a Méptv. 70. § (3) bekezdésére” szöveg,
+91.[^137]
 
-92. 35. § (3) bekezdésében és 36. § (1) bekezdés b) pontjában az „az Étv. 39. § (4)” szövegrész helyébe az „a Méptv. 69. § (2)” szöveg,
+92.[^138]
 
-93. 35. § (4) bekezdésében az „A Magyar Kereskedelmi és Iparkamara (a továbbiakban: MKIK)” szövegrész helyébe az „Az MKIK” szöveg,
+93.[^139]
 
-94. 36. § (1) bekezdés a) pontjában az „az Étv. 39. § (3) bekezdésének” szövegrész helyébe az „a Méptv. 69. § (1) bekezdésének” szöveg,
+94.[^140]
 
-95. 36. § (1) bekezdés a) pont ad) alpontjában, valamint 37. § (1) bekezdés a) pont ab) alpontjában az „építésfelügyeleti” szövegrészek helyébe az „építésügyi” szöveg,
+95.[^141]
 
-96. 36. § (1) bekezdés c) pontjában az „és nyilatkozatokat” szövegrész helyébe a „nyilatkozatokat és a vállalkozó kivitelező felelősségbiztosítójának nevét és felelősségbiztosítása kötvényszámát” szöveg,
+96.[^142]
 
-97. 37. § (1) bekezdés a) pont ab) alpontjában az „építésfelügyeleti bírságról szóló 238/2005. (X. 25.) Korm. rendelet 1. mellékletében foglalt táblázat 13. pontjában meghatározott jogsértő” szövegrész helyébe az „Épbír. szerinti állékonyságot, életet vagy egészséget veszélyeztető állapot előidézésének jogsértő” szöveg,
+97.[^143]
 
-98. 39. § a) pont aa) alpontjában a „fogadását” szövegrész helyébe a „fogadását, naprakész feldolgozását és megjelenítését” szöveg
+98.[^144]
 
 lép.
 
-[^4]: A 46. § 53. pontja a 72. § (2) bekezdése alapján 2024. november 29-én lép hatályba.
-[^5]: A 46. § 63. pontja a 72. § (2) bekezdése alapján 2024. november 29-én lép hatályba.
+[^47]: A 46. § 1. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^48]: A 46. § 2. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^49]: A 46. § 3. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^50]: A 46. § 4. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^51]: A 46. § 5. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^52]: A 46. § 6. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^53]: A 46. § 7. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^54]: A 46. § 8. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^55]: A 46. § 9. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^56]: A 46. § 10. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^57]: A 46. § 11. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^58]: A 46. § 12. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^59]: A 46. § 13. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^60]: A 46. § 14. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^61]: A 46. § 15. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^62]: A 46. § 16. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^63]: A 46. § 17. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^64]: A 46. § 18. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^65]: A 46. § 19. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^66]: A 46. § 20. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^67]: A 46. § 21. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^68]: A 46. § 22. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^69]: A 46. § 23. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^70]: A 46. § 24. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^71]: A 46. § 25. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^72]: A 46. § 26. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^73]: A 46. § 27. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^74]: A 46. § 28. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^75]: A 46. § 29. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^76]: A 46. § 30. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^77]: A 46. § 31. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^78]: A 46. § 32. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^79]: A 46. § 33. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^80]: A 46. § 34. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^81]: A 46. § 35. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^82]: A 46. § 36. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^83]: A 46. § 37. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^84]: A 46. § 38. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^85]: A 46. § 39. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^86]: A 46. § 40. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^87]: A 46. § 41. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^88]: A 46. § 42. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^89]: A 46. § 43. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^90]: A 46. § 44. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^91]: A 46. § 45. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^92]: A 46. § 46. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^93]: A 46. § 47. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^94]: A 46. § 48. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^95]: A 46. § 49. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^96]: A 46. § 50. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^97]: A 46. § 51. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^98]: A 46. § 52. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^99]: A 46. § 53. pontja a 72. § (2) bekezdése alapján 2024. november 29-én lép hatályba.
+[^100]: A 46. § 54. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^101]: A 46. § 55. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^102]: A 46. § 56. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^103]: A 46. § 57. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^104]: A 46. § 58. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^105]: A 46. § 59. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^106]: A 46. § 60. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^107]: A 46. § 61. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^108]: A 46. § 62. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^109]: A 46. § 63. pontja a 72. § (2) bekezdése alapján 2024. november 29-én lép hatályba.
+[^110]: A 46. § 64. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^111]: A 46. § 65. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^112]: A 46. § 66. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^113]: A 46. § 67. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^114]: A 46. § 68. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^115]: A 46. § 69. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^116]: A 46. § 70. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^117]: A 46. § 71. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^118]: A 46. § 72. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^119]: A 46. § 73. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^120]: A 46. § 74. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^121]: A 46. § 75. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^122]: A 46. § 76. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^123]: A 46. § 77. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^124]: A 46. § 78. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^125]: A 46. § 79. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^126]: A 46. § 80. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^127]: A 46. § 81. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^128]: A 46. § 82. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^129]: A 46. § 83. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^130]: A 46. § 84. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^131]: A 46. § 85. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^132]: A 46. § 86. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^133]: A 46. § 87. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^134]: A 46. § 88. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^135]: A 46. § 89. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^136]: A 46. § 90. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^137]: A 46. § 91. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^138]: A 46. § 92. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^139]: A 46. § 93. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^140]: A 46. § 94. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^141]: A 46. § 95. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^142]: A 46. § 96. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^143]: A 46. § 97. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^144]: A 46. § 98. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

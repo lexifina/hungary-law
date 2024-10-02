@@ -1,7 +1,3 @@
-45. § Az Épkiv.
+45. §[^46]
 
-a) 1. melléklete helyébe a 4. melléklet,
-
-b) 5. melléklete helyébe az 5. melléklet
-
-lép.
+[^46]: A 45. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

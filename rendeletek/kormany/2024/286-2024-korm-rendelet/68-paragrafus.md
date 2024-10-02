@@ -1,1 +1,3 @@
-68. § A Szakgyr. 1 melléklete a 6. melléklet szerint módosul.
+68. §[^166]
+
+[^166]: A 68. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

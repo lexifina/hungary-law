@@ -1,3 +1,3 @@
-58. § A Szakgyr. 20. § (7) bekezdés b) pontja helyébe a következő rendelkezés lép:
+58. §[^156]
 
-(Nem folytathat építésügyi műszaki szakértői tevékenységet)
+[^156]: Az 58. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

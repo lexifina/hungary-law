@@ -1,3 +1,3 @@
-51. § A Szakgyr. 11. § (4) bekezdése helyébe a következő rendelkezés lép:
+51. §[^149]
 
-„(4) Az építési műszaki ellenőri szakterület tájépítészeti részszakterületén az előírt szakmai gyakorlati idő legalább felét az (1) bekezdés a)–d) pontja szerinti tartalmú magasépítési, mélyépítési, közlekedési, vízgazdálkodási építményekkel és tájépítészeti létesítményekkel összefüggő tájépítészeti tevékenységgel kell igazolni.”
+[^149]: Az 51. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,3 @@
-12. § Hatályát veszti az Épbír.
+12. §[^12]
 
-a) 6. § (1) bekezdésében az „és építésfelügyeleti” szövegrész,
-
-b) 6. § (4) bekezdése.
+[^12]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

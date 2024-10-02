@@ -1,3 +1,3 @@
-20. § Az Épkiv. 7. § (2) bekezdése a következő k)–s) ponttal egészül ki:
+20. §[^20]
 
-[Az építési beruházás előkészítése, lebonyolítása és szervezése során az Étv. 43. § (1) és (2) bekezdésében meghatározottakon túlmenően az építtető feladata:]
+[^20]: A 20. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

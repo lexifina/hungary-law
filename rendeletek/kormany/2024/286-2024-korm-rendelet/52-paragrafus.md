@@ -1,3 +1,3 @@
-52. § A Szakgyr. 13. §-a a következő (5) bekezdéssel egészül ki:
+52. §[^150]
 
-„(5) A „rehabilitációs környezettervezés területén gyakorlott” címet olyan, építészeti-műszaki dokumentáció készítésére e rendelet alapján jogosult szakmagyakorló kérheti, aki a jogszabályi és szakmai előírások széleskörű ismeretével megfelelő tudással rendelkezik ahhoz, hogy az építménynél az akadálymentesség és az egyenlő esélyű hozzáférés biztosítva legyen. Az (1) bekezdésben meghatározott szabályzat e szakmai címet szabályozó rendelkezéseit a Magyar Építész Kamara és a Magyar Mérnöki Kamara egyeztetett és összehangolt szabályzatban rögzíti.”
+[^150]: Az 52. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

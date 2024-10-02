@@ -1,3 +1,5 @@
 ## 4. Az építésfelügyeleti bírságról szóló 238/2005. (X. 25.) Korm. rendelet hatályon kívül helyezése
 
-71. § Hatályát veszti az építésfelügyeleti bírságról szóló 238/2005. (X. 25.) Korm. rendelet.
+71. §[^224]
+
+[^224]: A 71. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

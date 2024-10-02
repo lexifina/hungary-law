@@ -1,3 +1,3 @@
-28. § Az Épkiv. 16. § (3) bekezdése a következő r) ponttal egészül ki:
+28. §[^28]
 
-(Az építtető helyszíni képviselőjeként – ha a felek további feladatokról nem állapodtak meg – az építési műszaki ellenőr feladata:)
+[^28]: A 28. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

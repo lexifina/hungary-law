@@ -1,3 +1,3 @@
-6. § Az Épbír. 5. §-a a következő (4) bekezdéssel egészül ki:
+6. §[^6]
 
-„(4) A bírság összegét 10 000 forintra való kerekítéssel kell megállapítani.”
+[^6]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
