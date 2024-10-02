@@ -1,1 +1,3 @@
-15. § Hatályát veszti az egyes honvédelmi ösztöndíjakról szóló 16/2021. (VIII. 11.) HM rendelet.
+15. §[^1]
+
+[^1]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
