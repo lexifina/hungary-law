@@ -1,3 +1,3 @@
-174. § A 419/2021. (VII. 15.) Korm. rendelet 63. § (2) bekezdése helyébe a következő rendelkezés lép:
+174. §[^194]
 
-„(2) Az adott eljárási szakasz a (3) bekezdés szerinti terv és az 59. § (2) bekezdése szerinti döntés 62. § (3) bekezdés szerinti hiánytalan feltöltését követő napon kezdődik.”
+[^194]: A 174. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

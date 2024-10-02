@@ -1,1 +1,3 @@
-99. § Hatályát veszti a 31/2014. (II. 12.) Korm. rendelet 3/A. § (3) bekezdésében az „és építésfelügyeleti” szövegrész és a „ , valamint az építésügyi hatósági szolgáltatásról” szövegrész.
+99. §[^119]
+
+[^119]: A 99. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

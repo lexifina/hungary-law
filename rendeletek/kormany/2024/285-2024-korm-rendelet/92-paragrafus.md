@@ -1,5 +1,5 @@
-## 32.[^7]
+## 32.[^116]
 
 92. §
 
-[^7]: A 32. alcím a 202. § (2) bekezdése alapján 2025. január 31-én lép hatályba.
+[^116]: A 32. alcím a 202. § (2) bekezdése alapján 2025. január 31-én lép hatályba.

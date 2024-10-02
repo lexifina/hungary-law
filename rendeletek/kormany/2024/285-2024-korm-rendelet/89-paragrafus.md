@@ -1,5 +1,5 @@
 ## 31. Az építési termék építménybe történő betervezésének és beépítésének, ennek során a teljesítmény igazolásának részletes szabályairól szóló 275/2013. (VII. 16.) Korm. rendelet módosítása
 
-89. § Az építési termék építménybe történő betervezésének és beépítésének, ennek során a teljesítmény igazolásának részletes szabályairól szóló 275/2013. (VII. 16.) Korm. rendelet [a továbbiakban: 275/2013. (VII. 16.) Korm. rendelet] 2. § 16. pontja helyébe a következő rendelkezés lép:
+89. §[^113]
 
-(E rendelet alkalmazásában:)
+[^113]: A 89. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

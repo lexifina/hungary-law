@@ -1,140 +1,205 @@
 187. § A 419/2021. (VII. 15.) Korm. rendelet
 
-1. 2. § 13. pontjában az „a legutolsó” szövegrész helyébe az „a 14. mellékletben meghatározott módon, a 2022. évi” szöveg,
+1.[^207]
 
-2. 2. § 22. pontjában a „kezelendő gyűjtőút” szövegrész helyébe a „kezelendő kiszolgáló út, gyűjtőút” szöveg,
+2.[^208]
 
-3.[^9]
+3.[^209]
 
-4. 4. § (4) bekezdés b) pontjában a „figyelembevételével” szövegrész helyébe az „alkalmazásával” szöveg,
+4.[^210]
 
-5. 4. § (5) bekezdésében az „az alkalmazandóságának” szövegrész helyébe az „a kötelező alkalmazásának” szöveg,
+5.[^211]
 
-6. 7. § (4) bekezdésében a „2. pont 2.4. alpontja” szövegrész helyébe a „2. pontja” szöveg,
+6.[^212]
 
-7. 11. § (4) bekezdésében az „az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény (a továbbiakban: Étv.) 13. §” szövegrész helyébe az „a Méptv. 81. §” szöveg,
+7.[^213]
 
-8. 15. § (2) bekezdés b) pontjában az „az Étv. 13. § (2) bekezdés d) pontja” szövegrész helyébe az „a Méptv. 81. § (4) bekezdés b) pontja vagy 81. § (5) bekezdés b) pontja” szöveg, és a „védőterületet, védőtávolságot.” szövegrész helyébe a „védőterületet, végleges használatbavételi engedéllyel megállapított védőtávolságot vagy biztonsági övezetet.” szöveg,
+8.[^214]
 
-9. 17. § (1) bekezdés nyitó szövegrészében a „négyévente” szövegrész helyébe a „hétévente” szöveg,
+9.[^215]
 
-10. 18. § (1) bekezdés nyitó szövegrészében a „területet” szövegrész helyébe a „területnagyságot” szöveg és az „az Étv. 7. §” szövegrész helyébe az „ideértve azt az esetet is, ha az új beépítésre szánt részterületek nagysága összesen haladja meg az egy hektárt, a Méptv. 8. §” szöveg,
+10.[^216]
 
-11. 18. § (4) bekezdésében a „fővárosi kerület” szövegrész helyébe a „főváros” szöveg,
+11.[^217]
 
-12. 18. § (8) bekezdésében az „az OTÉK-ban” szövegrész helyébe az „a településrendezési és építési követelményekről szóló kormányrendeletben” szöveg,
+12.[^218]
 
-13. 18. § (10) bekezdésében a „legkisebb mérték” szövegrész helyébe az „érték legkisebb mértékének” szöveg,
+13.[^219]
 
-14. 19. § (2) bekezdésében az „Az építési” szövegrész helyébe az „Építési” szöveg,
+14.[^220]
 
-15. 24. § (2) bekezdésében az „az OTÉK” szövegrész helyébe az „a településrendezési és építési követelményekről szóló kormányrendelet” szöveg,
+15.[^221]
 
-16. 30. § (4) bekezdésében az „az Étv.” szövegrész helyébe az „a Méptv.” szöveg,
+16.[^222]
 
-17. 30. § (6) bekezdésében az „a fővárosi településképi rendeletben” szövegrész helyébe az „a főváros rendeletében” szöveg,
+17.[^223]
 
-18. 32. § (1) bekezdés a) pontjában az „örökségvédelmi” szövegrész helyébe az „örökségvédelmi vagy műemlékvédelmi” szöveg,
+18.[^224]
 
-19. 25. alcím címében az „előzetes véleményezési” szövegrész helyébe az „előzetes településképi véleményezési” szöveg,
+19.[^225]
 
-20. 40. § (1) bekezdésében az „az állami magasépítési beruházások megvalósításáról” szövegrész helyébe az „az állami építési beruházások rendjéről” szöveg,
+20.[^226]
 
-21. 40. § (5) bekezdésében az „a Lechner Tudásközpont által üzemeltetett Építésügyi hatósági engedélyezési eljárásokat Támogató elektronikus” szövegrész helyébe az „az Építésügyi és örökségvédelmi hatósági eljárások elektronikus lefolytatását Támogató” szöveg,
+21.[^227]
 
-22. 40. § (7a) bekezdésében a „központi építészeti-műszaki tervtanácsot” szövegrész helyébe az „Országos Építészeti Tervtanácsot” szöveg,
+22.[^228]
 
-23. 45. § (6) bekezdés a) pontjában a „– feltétel” szövegrész helyébe a „vagy tudomásulvételre – előírások” szöveg és a „feltétel nélkül” szövegrész helyébe az „előírás nélkül” szöveg,
+23.[^229]
 
-24. 45. § (6) bekezdés b) pont nyitó szövegrészében az „engedélyezésre nem” szövegrész helyébe az „engedélyezésre vagy tudomásulvételre nem” szöveg,
+24.[^230]
 
-25. 45. § (6) bekezdés b) pont bb) alpontjában a „követelmények alapján” szövegrész helyébe a „követelmények vagy a helyi építési szabályzat egyéb rendelkezései alapján” szöveg,
+25.[^231]
 
-26. 45. § (8) bekezdésében a „papír alapon” szövegrész helyébe az „az ÉTDR-en keresztül” szöveg,
+26.[^232]
 
-27. 46. § (5) bekezdés c) pontjában a „reklám, illetve reklámhordozó” szövegrész helyébe a „cégér, cég- és üzletjelzés, Berendezések” szöveg,
+27.[^233]
 
-28. 46. § (5) bekezdés d) pontjában a „reklám, reklámhordozó” szövegrész helyébe a „cégér, cég- és üzletjelzés, Berendezések” szöveg,
+28.[^234]
 
-29. 46. § (5) bekezdés e) pontjában a „reklámok, reklámhordozók” szövegrész helyébe a „cégér, cég- és üzletjelzés, Berendezések” szöveg,
+29.[^235]
 
-30. 47. § (1) bekezdés nyitó szövegrészében a „Tvtv.-ben” szövegrész helyébe a „Méptv.-ben” szöveg,
+30.[^236]
 
-31. 47. § (1) bekezdés a) pont nyitó szövegrészében a „reklám és reklámhordozó” szövegrész helyébe a „cégér, cég- és üzletjelzés, Berendezések” szöveg,
+31.[^237]
 
-32. 47. § (1) bekezdés a) pont ab) alpontjában a „reklám, reklámhordozó” szövegrész helyébe a „cégér, cég- és üzletjelzés, Berendezések” szöveg és a „településképbe, megfelel” szövegrész helyébe a „településképbe, valamint megfelel” szöveg,
+32.[^238]
 
-33. 47. § (1) bekezdés a) pont ac) alpontjában az „az OTÉK-ban és” szövegrész helyébe az „a településrendezési és építési követelményekről szóló kormányrendeletben és” szöveg,
+33.[^239]
 
-34. 47. § (1) bekezdés b) pont nyitó szövegrészében a „reklám és reklámhordozó” szövegrész helyébe a „cégér, cég- és üzletjelzés, Berendezések” szöveg,
+34.[^240]
 
-35. 47. § (1) bekezdés b) pont bb) alpontjában a „reklám, reklámhordozó” szövegrész helyébe a „cégér, cég- és üzletjelzés, Berendezések” szöveg és a „nem felel meg” szövegrész helyébe a „vagy nem felel meg” szöveg,
+35.[^241]
 
-36. 47. § (2) bekezdésében a „reklám és reklámhordozó” szövegrész helyébe a „cégér, cég- és üzletjelzés, Berendezések” szöveg,
+36.[^242]
 
-37. 50. §-ában a „Tvtv. 11. §-a” szövegrész helyébe a „Méptv. 100. §” szöveg,
+37.[^243]
 
-38. 57. § b) pontjában a „Fejlesztési Potenciál Térkép” szövegrész helyébe az „Ingatlanberuházás Helyszínkereső” szöveg,
+38.[^244]
 
-39. 60. § (4) bekezdésében az „az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési törvény)” szövegrész helyébe az „a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény” szöveg,
+39.[^245]
 
-40. 61. § (1) bekezdés nyitó szövegrészében az „az önkormányzat” szövegrész helyébe az „a” szöveg és a „ , településképi rendelet készítésére vagy módosítására vonatkozó szándékát –” szövegrész helyébe a „készítését vagy módosítását, településképi rendelet módosítását –” szöveg,
+40.[^246]
 
-41. 62. § (2) bekezdés nyitó szövegrészében az „a környezeti értékelést” szövegrész helyébe az „az alátámasztó javaslat részét képező környezeti értékelést” szöveg,
+41.[^247]
 
-42. 63. § (1) bekezdés a) pontjában a „68–70. §” szövegrész helyébe a „68–70/A. §” szöveg,
+42.[^248]
 
-43.[^10]
+43.[^249]
 
-44. 64. § (6) bekezdés b) pontjában a „vett” szövegrész helyébe a „vesz” szöveg,
+44.[^250]
 
-45. 65. § (1) bekezdésében az „egyeztetésért felelős önkormányzati kapcsolattartónak” szövegrész helyébe az „önkormányzati főépítésznek” szöveg,
+45.[^251]
 
-46. 65. § (3) bekezdésében a „kívül –” szövegrész helyébe a „kívül, a helyben szokásos módon –” szöveg,
+46.[^252]
 
-47. 65. § (5) bekezdés c) pontjában a „tölti fel.” szövegrész helyébe a „tölti fel a lakossági fórumot követő 5 napon belül.” szöveg,
+47.[^253]
 
-48. 66. § (3b) bekezdésében a „nappal az eljárás ügyintézési határideje folytatódik” szövegrész helyébe a „naptól kell számítani az eljárás ügyintézési határidejét” szöveg,
+48.[^254]
 
-49. 66. § (3c) bekezdésében a „nappal a (2) bekezdés a) és b) pontja szerinti ügyintézési határidő újrakezdődik” szövegrész helyébe a „naptól kell számítani a (2) bekezdés a) és b) pontja szerinti ügyintézési határidőt” szöveg,
+49.[^255]
 
-50. 66. § (4) bekezdés nyitó szövegrészében a „belül egyeztetést” szövegrész helyébe a „belül, fővárosi településterv készítése esetén 20 napon belül egyeztetést” szöveg és az „amelyről” szövegrész helyébe az „amelyről mind a partnerek, mind a véleményezésre jogosult szerv esetében jegyzőkönyvet kell készíteni.” szöveg,
+50.[^256]
 
-51. 66. § (5) bekezdésében a „10” szövegrész helyébe a „15” szöveg,
+51.[^257]
 
-52. 66. § (6) bekezdésében az „Az emlékeztető és a jegyzőkönyv” szövegrész helyébe az „A jegyzőkönyv” szöveg,
+52.[^258]
 
-53. 67. § (7) bekezdés a) pontjában a „(6) bekezdésben meghatározott feltöltést” szövegrész helyébe a „(2) bekezdés b) és c) pont, illetve a (6) bekezdés szerinti hiánypótlás feltöltését” szöveg,
+53.[^259]
 
-54. 67. § (7) bekezdés b) pontjában a „(6) bekezdésben meghatározott feltöltés” szövegrész helyébe a „(2) bekezdés b) és c) pont, illetve a (6) bekezdés szerinti hiánypótlás feltöltése” szöveg,
+54.[^260]
 
-55. 68. § (1) bekezdés a) pont aa) alpontjában az „az Étv. 6. § (2) bekezdése szerint” szövegrész helyébe az „a Méptv. 23. §-a szerinti beruházás,” szöveg és a „nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló törvény hatálya alá tartozó ügy tárgyát képező” szövegrész helyébe a „Méptv. 193. §-a szerinti” szöveg,
+55.[^261]
 
-56. 69. § (2) bekezdés c) pont nyitó szövegrészében a „11. mellékletben” szövegrész helyébe a „64. § (1) bekezdésében” szöveg,
+56.[^262]
 
-57. 70. § nyitó szövegrészében az „és a településképi rendelet készítése és” szövegrész helyébe a „készítése és módosítása, valamint a településképi rendelet” szöveg,
+57.[^263]
 
-58. 70/A. §-ában a „jogszabályi változás átvezetésére való tekintettel” szövegrész helyébe a „jogszabállyal való összhang megteremtése érdekében” szöveg és a „helyezése érdekében történik” szövegrész helyébe a „helyezésére vagy módosítására irányul” szöveg,
+58.[^264]
 
-59. 74. § (3) bekezdésében a „30” szövegrész helyébe a „45” szöveg,
+59.[^265]
 
-60. 2. melléklet 2.4. pont b) alpontjában a „javakra, a” szövegrész helyébe a „javakra, az épített környezetre, a” szöveg és a „tájra,” szövegrész helyébe a „tájra és a települési zöldinfrastruktúrára,” szöveg,
+60.[^266]
 
-61. 2. melléklet 2.4. pont c) alpontjában a „javakra, a” szövegrész helyébe a „javakra, az épített környezetre, a” szöveg és a „tájra,” szövegrész helyébe a „tájra és a települési zöldinfrastruktúrára,” szöveg,
+61.[^267]
 
-62. 3. melléklet 3. pontjában az „a települési vízgazdálkodás és csapadékvíz-gazdálkodás” szövegrész helyébe az „az erőforrásokkal való gazdálkodás, a humán, műszaki és zöldinfrastruktúra” szöveg, az „az ennek” szövegrész helyébe a „mindezek” szöveg és az „is.” szövegrész helyébe az „is. A cselekvési program tartalmazza az anti-szegregációs programot, ha a településen található szegregált vagy szegregációval veszélyeztetett terület.” szöveg,
+62.[^268]
 
-63. 3. melléklet 5. pontjában a „tervezett zöldinfrastruktúra-elemek” szövegrész helyébe a „tervezett műszaki és zöldinfrastruktúra-elemek” szöveg,
+63.[^269]
 
-64. 8. melléklet 6. pontjában a „reklámhordozókat” szövegrész helyébe a „reklámeszközöket” szöveg,
+64.[^270]
 
-65. 10. mellékletében foglalt táblázat A:96 mezőjében a „Repülőtér” szövegrész helyébe a „Repülőtér, valamint a repülőtér akadálykorlátozási felületének vizsgálata” szöveg,
+65.[^271]
 
-66. 10. mellékletben foglalt táblázat B:96 mezőjében a „közlekedésért felelős miniszter” szövegrész helyébe a „repülőtér üzembentartója” szöveg,
+66.[^272]
 
-67. 10. mellékletében foglalt táblázat A:121 mezőjében a „Szegregációszűrés, településrész-kijelölés” szövegrész helyébe az „A településrészek helyzetelemzéséhez szükséges adatok” szöveg
+67.[^273]
 
 lép.
 
-[^9]: A 187. § 3. pontja a 202. § (4) bekezdése alapján 2027. július 1-jén lép hatályba.
-[^10]: A 187. § 43. pontja a 202. § (4) bekezdése alapján 2027. július 1-jén lép hatályba.
+[^207]: A 187. § 1. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^208]: A 187. § 2. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^209]: A 187. § 3. pontja a 202. § (4) bekezdése alapján 2027. július 1-jén lép hatályba.
+[^210]: A 187. § 4. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^211]: A 187. § 5. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^212]: A 187. § 6. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^213]: A 187. § 7. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^214]: A 187. § 8. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^215]: A 187. § 9. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^216]: A 187. § 10. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^217]: A 187. § 11. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^218]: A 187. § 12. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^219]: A 187. § 13. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^220]: A 187. § 14. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^221]: A 187. § 15. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^222]: A 187. § 16. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^223]: A 187. § 17. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^224]: A 187. § 18. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^225]: A 187. § 19. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^226]: A 187. § 20. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^227]: A 187. § 21. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^228]: A 187. § 22. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^229]: A 187. § 23. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^230]: A 187. § 24. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^231]: A 187. § 25. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^232]: A 187. § 26. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^233]: A 187. § 27. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^234]: A 187. § 28. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^235]: A 187. § 29. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^236]: A 187. § 30. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^237]: A 187. § 31. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^238]: A 187. § 32. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^239]: A 187. § 33. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^240]: A 187. § 34. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^241]: A 187. § 35. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^242]: A 187. § 36. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^243]: A 187. § 37. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^244]: A 187. § 38. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^245]: A 187. § 39. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^246]: A 187. § 40. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^247]: A 187. § 41. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^248]: A 187. § 42. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^249]: A 187. § 43. pontja a 202. § (4) bekezdése alapján 2027. július 1-jén lép hatályba.
+[^250]: A 187. § 44. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^251]: A 187. § 45. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^252]: A 187. § 46. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^253]: A 187. § 47. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^254]: A 187. § 48. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^255]: A 187. § 49. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^256]: A 187. § 50. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^257]: A 187. § 51. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^258]: A 187. § 52. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^259]: A 187. § 53. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^260]: A 187. § 54. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^261]: A 187. § 55. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^262]: A 187. § 56. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^263]: A 187. § 57. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^264]: A 187. § 58. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^265]: A 187. § 59. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^266]: A 187. § 60. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^267]: A 187. § 61. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^268]: A 187. § 62. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^269]: A 187. § 63. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^270]: A 187. § 64. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^271]: A 187. § 65. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^272]: A 187. § 66. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^273]: A 187. § 67. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

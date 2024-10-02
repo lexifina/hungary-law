@@ -1,3 +1,5 @@
 ## 62. A világörökségi területté jelölés hazai eljárásrendjéről, a világörökségi kezelési tervek tartalmi követelményeiről és elkészítésük rendjéről, a gondnokságokról, valamint a világörökségi területen az államot megillető elővásárlási jogról szóló 335/2019. (XII. 23.) Korm. rendelet módosítása
 
-144. § A világörökségi területté jelölés hazai eljárásrendjéről, a világörökségi kezelési tervek tartalmi követelményeiről és elkészítésük rendjéről, a gondnokságokról, valamint a világörökségi területen az államot megillető elővásárlási jogról szóló 335/2019. (XII. 23.) Korm. rendelet 12/A. §-ában a „településkép védelméről szóló 2016. évi LXXIV. törvény 2/A. § (2) bekezdése” szövegrész helyébe a „magyar építészetről szóló 2023. évi C. törvény 95. § (1) bekezdés a) pontja és (2) bekezdése” szöveg lép.
+144. §[^164]
+
+[^164]: A 144. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

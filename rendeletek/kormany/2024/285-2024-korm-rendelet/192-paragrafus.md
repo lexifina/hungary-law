@@ -1,1 +1,3 @@
-192. § Hatályát veszti a 182/2022. (V. 24.) Korm. rendelet 98. § b) pontjában az „és építésfelügyeleti” szövegrész.
+192. §[^307]
+
+[^307]: A 192. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

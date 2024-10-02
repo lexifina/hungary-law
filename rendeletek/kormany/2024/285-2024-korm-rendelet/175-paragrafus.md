@@ -1,3 +1,3 @@
-175. § A 419/2021. (VII. 15.) Korm. rendelet 64. §-a a következő (6a) bekezdéssel egészül ki:
+175. §[^195]
 
-„(6a) Az egyeztető tárgyaláson a véleményezésre jogosult szerv és az önkormányzat akkor képviselteti magát, ha a megjelent, nyilatkozattételre jogosult képviselője az egyeztetésen felmerült új tények és szempontok alapján jogosult újraértékelni a korábban írásban megküldött véleményét, és az érintett szakkérdés, illetve a szükségessé vált tervmódosítás tekintetében nyilatkozatot tud tenni.”
+[^195]: A 175. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

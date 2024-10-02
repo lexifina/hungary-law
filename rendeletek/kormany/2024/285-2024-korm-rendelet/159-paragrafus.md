@@ -1,3 +1,3 @@
-159. § A 419/2021. (VII. 15.) Korm. rendelet 24. alcím címe helyébe a következő alcím cím lép:
+159. §[^179]
 
-„24. A cégérekre, cég- és üzletjelzésekre, valamint a Berendezések épületeken való elhelyezhetőségére vonatkozó településképi követelmény”
+[^179]: A 159. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

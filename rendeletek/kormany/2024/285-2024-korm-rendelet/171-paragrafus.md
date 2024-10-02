@@ -1,5 +1,3 @@
-## „d) OSZT és”
+171. §[^191]
 
-171. § A 419/2021. (VII. 15.) Korm. rendelet 35. alcíme a következő 57/A. §-sal egészül ki:
-
-„57/A. § Az OSZT a szegregációs mutató alapján meghatározott szegregátumok és szegregációval veszélyeztetett területek térképi és a 12. melléklet szerinti statisztikai adatait tartalmazó térinformatikai alkalmazás.”
+[^191]: A 171. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

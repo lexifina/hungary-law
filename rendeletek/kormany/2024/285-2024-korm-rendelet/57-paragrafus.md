@@ -1,1 +1,3 @@
-57. § Hatályát veszti a 195/2009. (IX. 15.) Korm. rendelet 15. § (2) bekezdés a) pontjában az „és az építésfelügyeleti” szövegrész.
+57. §[^57]
+
+[^57]: Az 57. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

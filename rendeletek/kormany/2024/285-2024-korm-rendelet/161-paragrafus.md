@@ -1,3 +1,3 @@
-161. § A 419/2021. (VII. 15.) Korm. rendelet 42. §-a helyébe a következő rendelkezés lép:
+161. §[^181]
 
-„42. § A 40. és 41. §-ban meghatározott rendelkezéseket a Beruházás Előkészítési Alapból előkészített beruházásokra vonatkozóan a Beruházási Előkészítési Alap felhasználásáról szóló kormányrendeletben foglalt eltérésekkel kell alkalmazni.”
+[^181]: A 161. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

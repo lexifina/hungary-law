@@ -1,3 +1,5 @@
 ## 58. A berettyóújfalui strand, uszoda és gyógyvizes fürdő fejlesztésének megvalósításával kapcsolatos egyes feladatok ellátásáról szóló 52/2018. (III. 19.) Korm. rendelet módosítása
 
-140. § A berettyóújfalui strand, uszoda és gyógyvizes fürdő fejlesztésének megvalósításával kapcsolatos egyes feladatok ellátásáról szóló 52/2018. (III. 19.) Korm. rendelet 1. § (2) bekezdésében az „az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 43. § (1) bekezdés c)–d), f)–h), j) és k)” szövegrész helyébe az „a magyar építészetről szóló 2023. évi C. törvény 66. § (2) bekezdés b)–d), g)–i) és k)” szöveg lép.
+140. §[^160]
+
+[^160]: A 140. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

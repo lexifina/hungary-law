@@ -1,25 +1,3 @@
-## „2. melléklet a 313/2012. (XI. 8.) Korm. rendelethez
+4. melléklet a 285/2024. (IX. 30.) Korm. rendelethez[^320]
 
-## A Dokumentációs Központ gyűjtőkörébe tartozó dokumentumok
-
-|  | A |
-
-| 1 | Dokumentum |
-
-| 2 | a 3. mellékletben foglalt dokumentumok |
-
-| 3 | a megszűnt állami tervező és kivitelező vállalatok felszámolása során már átadott tervállomány |
-
-| 4 | az építőipari kivitelezési tevékenységről szóló kormányrendelet előírása alapján az e-építési napló bevezetése előtt készült megvalósítási és kivitelezési dokumentációk |
-
-| 5 | az e-tanúsítás bevezetése előtt készült energetikai tanúsítvány |
-
-| 6 | a településrendezési és építészeti-műszaki tervtanácsokról szóló kormányrendelet alapján kiadott tervtanácsi vélemények, amelyek az ÉTDR bevezetése előtt keletkeztek |
-
-| 7 | az állami költségvetési források felhasználásával megvalósítani tervezett, az e-tervpálya bevezetése előtt készült építészeti tervpályázatok tervanyaga és dokumentációi |
-
-| 8 | a megsemmisült vagy megrongálódott tetőidomokkal és egyéb jelentős épületelemekkel, épületdíszekkel kapcsolatos dokumentumok |
-
-## ”
-
-4. melléklet a 285/2024. (IX. 30.) Korm. rendelethez
+[^320]: A 4. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

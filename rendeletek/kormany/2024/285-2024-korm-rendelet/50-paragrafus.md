@@ -1,1 +1,3 @@
-50. § A 190/2009. (IX. 15.) Korm. rendelet 1. melléklete a 2. melléklet szerint módosul.
+50. §[^50]
+
+[^50]: Az 50. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

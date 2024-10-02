@@ -1,5 +1,3 @@
-137. § Hatályát veszti az 531/2017. (XII. 29.) Korm. rendelet
+137. §[^157]
 
-a) 1. melléklet 10. pontjában foglalt táblázat 75., 103–110. és 183–194. sora,
-
-b) 2. mellékletében foglalt táblázat 4. sora.
+[^157]: A 137. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

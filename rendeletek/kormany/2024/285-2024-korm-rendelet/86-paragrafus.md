@@ -1,21 +1,29 @@
 86. § Hatályát veszti a 313/2012. (XI. 8.) Korm. rendelet
 
-a) 1. § (1a) és (1b) bekezdése,
+a)[^102]
 
-b) 3. § (6) bekezdése,
+b)[^103]
 
-c) 5. § (1) bekezdés e) pontja,
+c)[^104]
 
-d) 5. § (3) bekezdése,
+d)[^105]
 
-e) 5. § (4) bekezdésében az „archivált és a külön jogszabály szerinti újrahasznosítás céljából rendelkezésre bocsátható” szövegrész,
+e)[^106]
 
-f) 5. § (5)–(7) bekezdése,
+f)[^107]
 
-g) 9. §-a,
+g)[^108]
 
-h) 11. §-ában a „Területi, Építészeti és Informatikai” szövegrész,
+h)[^109]
 
-i)[^6]
+i)[^110]
 
-[^6]: A 86. § i) pontja a 202. § (3) bekezdése alapján 2025. július 1-jén lép hatályba.
+[^102]: A 86. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^103]: A 86. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^104]: A 86. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^105]: A 86. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^106]: A 86. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^107]: A 86. § f) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^108]: A 86. § g) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^109]: A 86. § h) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^110]: A 86. § i) pontja a 202. § (3) bekezdése alapján 2025. július 1-jén lép hatályba.

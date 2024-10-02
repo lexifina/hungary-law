@@ -1,3 +1,5 @@
 ## 40. A környezetvédelmi és természetvédelmi szakkérdés vizsgálatával kapcsolatos egyéb eljárási költségekről és szakértői díjakról szóló 78/2015. (III. 31.) Korm. rendelet módosítása
 
-106. § A környezetvédelmi és természetvédelmi szakkérdés vizsgálatával kapcsolatos egyéb eljárási költségekről és szakértői díjakról szóló 78/2015. (III. 31.) Korm. rendelet [a továbbiakban: 78/2015. (III. 31.) Korm. rendelet] 1. mellékletében foglalt táblázat A:2 mezőjében a „ , valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet” szövegrész helyébe a „szóló kormányrendelet” szöveg lép.
+106. §[^126]
+
+[^126]: A 106. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

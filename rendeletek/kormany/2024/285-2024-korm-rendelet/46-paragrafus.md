@@ -1,13 +1,3 @@
-46. § A 190/2009. (IX. 15.) Korm. rendelet a 11. §-t követően a következő alcímmel egészül ki:
+46. §[^46]
 
-„A főépítészi feladatellátás átadásának és átvételének szabályai
-
-11/A. § (1) A községi önkormányzattól a járásszékhely városhoz kerülő főépítészi feladatellátás esetén, a Méptv. 56. § (7) bekezdése és 228. § (1) bekezdése szerinti jelzéssel egyidejűleg a járásszékhely város jegyzője részére meg kell küldeni az átadás-átvételi jegyzőkönyv tervezetét, amelyhez mellékelni kell a hatályos településtervet, folyamatban lévő, valamint az 5 évre visszamenőleg lezárult településfejlesztési, településrendezési és településképi eljárások tervdokumentációját és az ilyen ügyben született önkormányzati döntések iratanyagát.
-
-(2) Az (1) bekezdés szerinti megküldést követően az átadó és az átvevő önkormányzat jegyzője – a járásszékhely város önkormányzati főépítészének részvételével – egyeztetést tart, amelynek keretében megvitatják az átvétellel kapcsolatos aktuális kérdéseket, áttekintik a folyamatban lévő ügyeket és aláírják az átadás-átvételi jegyzőkönyvet annak érdekében, hogy a Méptv. 56. § (7) bekezdése és 228. § (1) bekezdése szerinti határidőtől a járásszékhely város az önkormányzati főépítészi feladatokat el tudja látni. Az (1) bekezdés szerinti jegyzőkönyvet az egyeztetés előtt legalább 5 nappal meg kell küldeni az átvevőnek.
-
-(3) Ha a főépítészi feladatellátás a (2) bekezdés szerinti átvételét követően – az időközben bekövetkezett változásra tekintettel – a községi önkormányzat képviselő-testülete úgy dönt, hogy saját települési főépítészt alkalmaz vagy más térségi főépítészi társuláshoz csatlakozik, azt a járásszékhely város jegyzőjéhez címzett megkeresésben kezdeményezheti. A főépítészi feladatok visszavételére január 1-jei vagy július 1-jei kezdőnappal kerülhet sor, és a községi önkormányzatnak vállalnia kell, hogy legalább egy évig maga vagy társulásban más önkormányzattal közösen gondoskodnak az önkormányzati főépítészi feladatok ellátásáról.
-
-(4) A főépítészi feladatok visszavételére az (1) és (2) bekezdésben foglaltakat megfelelően alkalmazni kell azzal, hogy az átadás-átvételi jegyzőkönyv tervezetét a járásszékhely város jegyzője készíti elő és a feladatellátás kezdőnapjaként január 1-jét vagy július 1-jét lehet megjelölni.
-
-(5) A Méptv. 56. § (9) bekezdése szerinti állami támogatás igénylésére kizárólag a Méptv. 56. § (7) bekezdése alapján többletfeladatot ellátni köteles járásszékhely város önkormányzata, valamint az önkormányzati főépítészt és munkatársait önkormányzati társulás keretében foglalkoztató, társulási megállapodásban meghatározott település jogosult.”
+[^46]: A 46. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

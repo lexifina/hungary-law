@@ -1,7 +1,3 @@
-75. § Hatályát veszti a 289/2012. (X. 11.) Korm. rendelet
+75. §[^75]
 
-a) 6. § (2) bekezdés f) pontjában az „és építésfelügyeleti” szövegrész,
-
-b) 35. § nyitó szövegrészében az „– az építésfelügyeleti tevékenységről szóló kormányrendeletben foglaltakon túl –” szövegrész,
-
-c) 37/K. § (1) bekezdése.
+[^75]: A 75. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

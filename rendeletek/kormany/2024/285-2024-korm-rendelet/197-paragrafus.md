@@ -1,5 +1,5 @@
 ## 69. A családok otthonteremtését támogató kedvezményes CSOK Plusz hitelprogramról szóló 518/2023. (XI. 30.) Korm. rendelet módosítása
 
-197. § A családok otthonteremtését támogató kedvezményes CSOK Plusz hitelprogramról szóló 518/2023. (XI. 30.) Korm. rendelet [a továbbiakban: 518/2023. (XI. 30.) Korm. rendelet] 5. § (1) bekezdése a következő 6a. ponttal egészül ki:
+197. §[^312]
 
-(E rendelet alkalmazásában)
+[^312]: A 197. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

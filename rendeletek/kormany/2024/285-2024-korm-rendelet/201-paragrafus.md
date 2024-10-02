@@ -1,1 +1,3 @@
-201. § Hatályát veszti a 85/2024. (IV. 17.) Korm. rendelet 1. § (1) bekezdés b) pontjában az „és építésfelügyeleti” szövegrész.
+201. §[^316]
+
+[^316]: A 201. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

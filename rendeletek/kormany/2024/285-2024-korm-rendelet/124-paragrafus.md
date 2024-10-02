@@ -1,3 +1,5 @@
 ## 52. A földművelésügyi hatósági és igazgatási feladatokat ellátó szervek kijelöléséről szóló 383/2016. (XII. 2.) Korm. rendelet módosítása
 
-124. § A földművelésügyi hatósági és igazgatási feladatokat ellátó szervek kijelöléséről szóló 383/2016. (XII. 2.) Korm. rendelet 53. § (1) bekezdésében az „az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII.” szövegrész helyébe az „a magyar építészetről szóló” szöveg lép.
+124. §[^144]
+
+[^144]: A 124. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

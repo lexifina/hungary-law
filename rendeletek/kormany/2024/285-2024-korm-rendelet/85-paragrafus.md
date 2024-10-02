@@ -1,36 +1,50 @@
 85. § A 313/2012. (XI. 8.) Korm. rendelet
 
-1. 2. alcím címében az „a Nyilvántartás” szövegrész helyébe az „az OÉNY” szöveg,
+1.[^86]
 
-2. 3. § (3) bekezdés b) pontjában a „ , valamint a személyes és nem személyes adatok védelmének, kezelésének részletes technikai feltételeit” szövegrész helyébe a „részletes technikai feltételeit és a működésével kapcsolatos feladatok meghatározását” szöveg,
+2.[^87]
 
-3. 3. § (3) bekezdés e) pontjában az „a Nyilvántartás” szövegrész helyébe az „az OÉNY” szöveg,
+3.[^88]
 
-4. 3. alcím címében a „-rendezés” szövegrész helyébe a „településrendezés” szöveg,
+4.[^89]
 
-5. 5. § (1) bekezdés b) pont nyitó szövegrészében a „vezeti” szövegrész helyébe az „elektronikusan vezeti” szöveg,
+5.[^90]
 
-6. 5. § (4) bekezdésében az „az Üzemeltető bevonásával az 1. § (1) bekezdése” szövegrész helyébe az „a 2. és 3. melléklet” szöveg,
+6.[^91]
 
-7. 5. alcím címében az „A Nyilvántartás” szövegrész helyébe az „Az OÉNY” szöveg,
+7.[^92]
 
-8. 6. alcím címében az „A Nyilvántartás” szövegrész helyébe az „Az OÉNY” szöveg,
+8.[^93]
 
-9. 7. § (1) bekezdésében az „A Nyilvántartásban” szövegrész helyébe az „Az OÉNY-ben” szöveg,
+9.[^94]
 
-10. 7. § (3) bekezdésében az „A Nyilvántartás” szövegrész helyébe az „Az OÉNY” szöveg,
+10.[^95]
 
-11. 7. § (4) bekezdés nyitó szövegrészében az „A Nyilvántartásban” szövegrész helyébe az „Az OÉNY-ben” szöveg,
+11.[^96]
 
-12. 7. § (5) bekezdésében az „A Nyilvántartásban” szövegrész helyébe az „Az OÉNY-ben” szöveg, az „eljárás, alkalmazás lezárását követően a Dokumentációs Központ tárolja a 7/A. §-ban foglaltak figyelembevételével, amely” szövegrész helyébe az „Üzemeltető tárolja, és” szöveg, a „végrehatási” szövegrész helyébe a „végrehajtási” szöveg, az „irattári terv” szövegrész helyébe az „iratkezelési szabályok” szöveg, az „az Étv. 59. § (6)–(8) bekezdése” szövegrész helyébe az „a Méptv. 213. §-a” szöveg és az „az archiválásáról és megőrzéséről vagy a törléséről” szövegrész helyébe az „a dokumentumok megőrzéséről és archiválásáról” szöveg,
+12.[^97]
 
-13. 7/B. §-ában az „a Nyilvántartáson” szövegrész helyébe az „az OÉNY-en” szöveg,
+13.[^98]
 
-14. 10. §-ában a „4. § (1) bekezdés c) pontja, a 6. § (1) bekezdés e) pontja” szövegrész helyébe a „6. § (1) bekezdés c) pont ce) alpontja, a 3. mellékletben foglalt táblázat 7. és 13. sora” szöveg,
+14.[^99]
 
-15.[^4]
+15.[^100]
 
-16.[^5]
+16.[^101]
 
-[^4]: A 85. § 15. pontja a 202. § (3) bekezdése alapján 2025. július 1-jén lép hatályba.
-[^5]: A 85. § 16. pontja a 202. § (3) bekezdése alapján 2025. július 1-jén lép hatályba.
+[^86]: A 85. § 1. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^87]: A 85. § 2. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^88]: A 85. § 3. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^89]: A 85. § 4. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^90]: A 85. § 5. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^91]: A 85. § 6. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^92]: A 85. § 7. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^93]: A 85. § 8. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^94]: A 85. § 9. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^95]: A 85. § 10. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^96]: A 85. § 11. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^97]: A 85. § 12. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^98]: A 85. § 13. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^99]: A 85. § 14. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^100]: A 85. § 15. pontja a 202. § (3) bekezdése alapján 2025. július 1-jén lép hatályba.
+[^101]: A 85. § 16. pontja a 202. § (3) bekezdése alapján 2025. július 1-jén lép hatályba.

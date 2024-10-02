@@ -1,3 +1,3 @@
-31. § A 190/2009. (IX. 15.) Korm. rendelet „Foglalkoztatási feltételek és a főépítészi vizsga” alcím címe helyébe a következő alcím cím lép:
+31. §[^31]
 
-„Főépítészi foglalkoztatási feltételek és a főépítészi vizsga”
+[^31]: A 31. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

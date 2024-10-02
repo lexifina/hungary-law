@@ -1,1 +1,3 @@
-132. § Hatályát veszti a 384/2016. (XII. 2.) Korm. rendelet 23/I. § (3) bekezdése.
+132. §[^152]
+
+[^152]: A 132. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

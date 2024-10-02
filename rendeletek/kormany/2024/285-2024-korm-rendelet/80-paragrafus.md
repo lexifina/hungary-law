@@ -1,11 +1,3 @@
-80. § (1) A 313/2012. (XI. 8.) Korm. rendelet 5. § (1) bekezdés b) pont bc) alpontja helyébe a következő rendelkezés lép:
+80. §[^81]
 
-(A Dokumentációs Központ az Üzemeltető bevonásával
-
-vezeti a bauxitcementtel épült építmények központi nyilvántartását, mely tartalmazza:)
-
-„bc) a hatósági intézkedés időpontját, műszaki tartalmát,”
-
-(2) A 313/2012. (XI. 8.) Korm. rendelet 5. § (1) bekezdés d) pontja helyébe a következő rendelkezés lép:
-
-(A Dokumentációs Központ az Üzemeltető bevonásával)
+[^81]: A 80. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

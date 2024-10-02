@@ -1,1 +1,3 @@
-109. § Hatályát veszti a 87/2015. (IV. 9.) Korm. rendelet 3. melléklet 1. pont d) alpontjában az „(a továbbiakban: OTÉK)” szövegrész.
+109. §[^129]
+
+[^129]: A 109. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

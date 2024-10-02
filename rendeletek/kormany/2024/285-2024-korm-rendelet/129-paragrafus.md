@@ -1,3 +1,3 @@
-129. § A 384/2016. (XII. 2.) Korm. rendelet 23/G. §-a helyébe a következő rendelkezés lép:
+129. §[^149]
 
-„23/G. § Nyúlványos telek a településrendezési és építési követelményekről szóló kormányrendelet előírásai szerint alakítható ki.”
+[^149]: A 129. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,9 +1,5 @@
 ## 41. A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény egyes rendelkezéseinek végrehajtásáról szóló 87/2015. (IV. 9.) Korm. rendelet módosítása
 
-108. § A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény egyes rendelkezéseinek végrehajtásáról szóló 87/2015. (IV. 9.) Korm. rendelet [a továbbiakban: 87/2015. (IV. 9.) Korm. rendelet]
+108. §[^128]
 
-a) 3. melléklet 1. pont d) alpontjában az „az országos településrendezési és építési követelményekről” szövegrész helyébe az „a településrendezési és építési követelményekről” szöveg,
-
-b) 3. melléklet 1. pont e) alpontjában az „az OTÉK” szövegrészek helyébe az „a településrendezési és építési követelményekről szóló kormányrendelet” szöveg
-
-lép.
+[^128]: A 108. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

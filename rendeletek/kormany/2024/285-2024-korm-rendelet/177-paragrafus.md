@@ -1,7 +1,3 @@
-177. § (1) A 419/2021. (VII. 15.) Korm. rendelet 66. §-a a következő (7b) bekezdéssel egészül ki:
+177. §[^197]
 
-„(7b) A véleményezési szakasz lezárásáról a képviselő-testület, átruházott hatáskör esetén a döntésre jogosult dönt.”
-
-(2) A 419/2021. (VII. 15.) Korm. rendelet 66. § (8) bekezdése helyébe a következő rendelkezés lép:
-
-„(8) A vélemények kiértékeléséről szóló (7) bekezdés szerinti döntést és a vélemény, észrevétel el nem fogadása esetén a döntés indokolását az E-TÉR-be fel kell tölteni.”
+[^197]: A 177. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

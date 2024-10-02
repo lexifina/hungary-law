@@ -1,3 +1,3 @@
-42. § A 190/2009. (IX. 15.) Korm. rendelet „A fővárosi és vármegyei kormányhivatal állami főépítészi feladatai” alcím címe helyébe a következő alcím cím lép:
+42. §[^42]
 
-„Az állami főépítész feladatai”
+[^42]: A 42. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

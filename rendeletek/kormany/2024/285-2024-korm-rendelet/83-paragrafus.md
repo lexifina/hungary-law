@@ -1,3 +1,3 @@
-83. § A 313/2012. (XI. 8.) Korm. rendelet 7/A. §-a helyébe a következő rendelkezés lép:
+83. §[^84]
 
-„7/A. § Az OÉNY működését elősegítő elektronikus alkalmazások közül az adatkéréssel érintettek vonatkozásában a szolgáltatható adatok körét, valamint az adatszolgáltatásra és az adatkérésre jogosultakat a 4. melléklet határozza meg.”
+[^84]: A 83. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-71. § Hatályát veszti a 375/2011. (XII. 31.) Korm. rendelet 1. melléklet 2. Különös követelmények 1. pont a) alpont ae) pontjában az „az építésfelügyeleti ellenőrzésre vonatkozó általános szabályait;” szövegrész.
+71. §[^71]
+
+[^71]: A 71. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

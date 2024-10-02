@@ -1,5 +1,3 @@
-155. § A 419/2021. (VII. 15.) Korm. rendelet 19. §-a a következő (6) és (7) bekezdéssel egészül ki:
+155. §[^175]
 
-„(6) Ha a telepítési tanulmányterv a településrendezési szerződés megalapozásához készül, a telepítési tanulmányterv tartalmazhatja a Méptv. 92. § (4) bekezdés c) pontja szerinti átvállalás ismertetését is.
-
-(7) A telepítési tanulmányterv a településrendezési szerződés mellékletét képezi.”
+[^175]: A 155. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

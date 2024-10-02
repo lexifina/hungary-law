@@ -1,3 +1,5 @@
 ## 49. A Magyar Olimpiai Bizottság által kiemelt sportágak sportlétesítmény-fejlesztésének megvalósításával kapcsolatos egyes feladatok ellátásáról szóló 208/2016. (VII. 21.) Korm. rendelet módosítása
 
-121. § A Magyar Olimpiai Bizottság által kiemelt sportágak sportlétesítmény-fejlesztésének megvalósításával kapcsolatos egyes feladatok ellátásáról szóló 208/2016. (VII. 21.) Korm. rendelet 1. § (2) bekezdésében az „az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 43. § (1) bekezdés c) és d), f)–h), j)” szövegrész helyébe az „a magyar építészetről szóló 2023. évi C. törvény 66. § b)–d), g)–i)” szöveg lép.
+121. §[^141]
+
+[^141]: A 121. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

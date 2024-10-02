@@ -1,3 +1,5 @@
 ## 38. A központi címregiszterről és a címkezelésről szóló 345/2014. (XII. 23.) Korm. rendelet módosítása
 
-104. § A központi címregiszterről és a címkezelésről szóló 345/2014. (XII. 23.) Korm. rendelet 1. § 14. pontjában az „az épített környezet alakításáról és védelméről” szövegrész helyébe az „a magyar építészetről” szöveg lép.
+104. §[^124]
+
+[^124]: A 104. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
