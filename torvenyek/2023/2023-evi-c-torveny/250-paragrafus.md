@@ -1,3 +1,1 @@
-### 250. § [A tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló 1996. évi LVIII. törvény hatályon kívül helyezése]
-
-Hatályát veszti a tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló 1996. évi LVIII. törvény.
+### 250. §
