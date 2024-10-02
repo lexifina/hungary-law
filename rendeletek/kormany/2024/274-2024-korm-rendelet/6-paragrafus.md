@@ -1,7 +1,3 @@
-6. § Hatályát veszti az R.
+6. §[^7]
 
-a) 6. § (2) bekezdés b) pontjában a „kWh/óra és” szövegrész,
-
-b) 12. § (13) bekezdés b) pontjában a „(kWh/h) vagy” szövegrész,
-
-c) 21. §-a.
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
