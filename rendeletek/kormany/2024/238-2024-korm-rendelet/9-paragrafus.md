@@ -1,1 +1,3 @@
-9. § Hatályát veszti a 487/2013. (XII. 17.) Korm. rendelet.
+9. §[^1]
+
+[^1]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
