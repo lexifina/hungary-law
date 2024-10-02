@@ -1,1 +1,1 @@
-77. § Hatályát veszti a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012. évi CLXVI. törvény 9/C. §-ában a „valamennyi hatósági eljárásban, így különösen a kijelölési, kijelölés visszavonása iránti” szövegrész.
+### 77. §
