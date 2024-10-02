@@ -1,1 +1,3 @@
-29. § Hatályát veszti a honvédek illetményéről és illetményjellegű juttatásairól szóló 7/2015. (VI. 22.) HM rendelet.
+29. §[^3]
+
+[^3]: A 29. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
