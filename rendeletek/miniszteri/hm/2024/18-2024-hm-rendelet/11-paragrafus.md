@@ -1,1 +1,3 @@
-11. § Az önkéntes tartalékos jogállásról szóló 13/2024. (VII. 23.) HM rendelet 1. § (3) bekezdésében az „az egészségügyi beosztású katonákra vonatkozó sajátos szabályokról szóló miniszteri rendeletben” szövegrész helyébe az „az egészségügyi beosztású katonák szolgálati viszonyával kapcsolatos sajátos szabályokról szóló miniszteri rendeletben” szöveg lép.
+11. §[^1]
+
+[^1]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
