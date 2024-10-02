@@ -1,1 +1,3 @@
-10. § A 2. § 3. pontjában az „az épített környezet alakításáról és védelméről szóló” szövegrész helyébe az „a magyar építészetről szóló” szöveg lép.
+10. §[^2]
+
+[^2]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
