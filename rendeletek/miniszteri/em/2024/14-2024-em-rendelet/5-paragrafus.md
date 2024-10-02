@@ -1,13 +1,3 @@
-5. § Hatályát veszti a vízügyi és a vízvédelmi hatósági eljárások igazgatási szolgáltatási díjairól szóló 13/2015. (III. 31.) BM rendelet
+5. §[^6]
 
-a) 3. §-a,
-
-b) 4. § (2) bekezdése,
-
-c) 5. § (1) bekezdésében az „első fokon” szövegrész,
-
-d) 5. § (2) bekezdése,
-
-e) 5. § (4) bekezdésében az „ , illetve a jogorvoslati kérelem” szövegrész,
-
-f) 6. § (1) és (2) bekezdése.
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
