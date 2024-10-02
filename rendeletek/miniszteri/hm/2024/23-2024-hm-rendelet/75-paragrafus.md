@@ -1,3 +1,5 @@
 ## 46. Hatályon kívül helyező rendelkezések
 
-75. § Hatályát veszti a külföldi szolgálatot teljesítők egyes járandóságairól szóló 8/2018. (VI. 22.) HM rendelet.
+75. §[^3]
+
+[^3]: A 75. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
