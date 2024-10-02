@@ -1,3 +1,5 @@
 ## 4. Az ezeréves Pannonhalmi Bencés Főapátság és természeti környezete világörökségi helyszín világörökségi kezelési tervéről szóló 14/2018. (II. 12.) Korm. rendelet módosítása
 
-4. § Az ezeréves Pannonhalmi Bencés Főapátság és természeti környezete világörökségi helyszín világörökségi kezelési tervéről szóló 14/2018. (II. 12.) Korm. rendelet 2. melléklet 5. pont 5.2.2. alpontjában az „a településrendezési és az építészeti-műszaki tervtanácsokról szóló 252/2006. (XII. 7.) Korm. rendelet 10. § (1) bekezdésével” szövegrész helyébe az „a magyar építészetről szóló 2023. évi C. törvény 62. §-ával” szöveg lép.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
