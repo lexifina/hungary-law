@@ -1,3 +1,3 @@
-1. melléklet a 44/2024. (IX. 19.) MNB rendelethez[^2]
+1. melléklet a 44/2024. (IX. 19.) MNB rendelethez[^6]
 
-[^2]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

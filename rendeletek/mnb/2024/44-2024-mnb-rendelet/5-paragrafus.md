@@ -1,5 +1,3 @@
-## „e) a 100 milliárd forintnál alacsonyabb mérlegfőösszeggel rendelkező hitelintézetre, hitelintézeti csoportra.”
-
 ## 5. Záró rendelkezések
 
 5. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.

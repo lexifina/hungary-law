@@ -1,3 +1,5 @@
 ## 2. A pénzügyi vállalatoktól származó források hitelintézetek általi igénybevételének szabályozásáról szóló 10/2018. (III. 27.) MNB rendelet módosítása
 
-2. § A pénzügyi vállalatoktól származó források hitelintézetek általi igénybevételének szabályozásáról szóló 10/2018. (III. 27.) MNB rendelet 1. § (2) bekezdés e) pontjában a „30 milliárd” szövegrész helyébe a „100 milliárd” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
