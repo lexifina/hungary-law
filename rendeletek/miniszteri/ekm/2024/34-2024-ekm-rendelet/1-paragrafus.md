@@ -1,3 +1,3 @@
-1. § A magyar légtér légiközlekedés céljára történő kijelöléséről szóló 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelet 1/E. §-a helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„1/E. § Ha a korlátozott légtér kijelölésére irányuló javaslat indoka a katasztrófavédelemről szóló törvény szerinti veszélyes anyagokkal foglalkozó vagy veszélyes tevékenységet végző létesítmény vagy üzem iparbiztonsági szempontú védelme, az NLKM kikéri a közigazgatás-szervezésért felelős miniszter mint az iparbiztonsági hatóság irányítója véleményét a korlátozás szükségessége tekintetében. Az NLKM a döntési javaslat előkészítése során a közigazgatás-szervezésért felelős miniszter véleményét figyelembe veszi.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
