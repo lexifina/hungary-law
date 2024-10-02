@@ -1,5 +1,5 @@
 ## 19. A védelmi és biztonsági célú ellenőrzésekről szóló 403/2022. (X. 24.) Korm. rendelet módosítása
 
-22. §[^31]
+22. §[^23]
 
-[^31]: A 22. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 22. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
