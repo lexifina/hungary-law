@@ -1,1 +1,3 @@
-101. § A Nemzeti Stadionfejlesztési Program keretében megvalósítandó Diósgyőri Stadion rekonstrukció beruházás megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 461/2013. (XII. 4.) Korm. rendelet 1. melléklete a 28. melléklet szerint módosul.
+101. §[^102]
+
+[^102]: A 101. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

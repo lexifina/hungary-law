@@ -1,1 +1,3 @@
-61. § A BBCA Szolnok Biokémia Zrt. Szolnoki Ipari Parkban megvalósuló citromsavat előállító üzemének beruházásával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 302/2012. (X. 26.) Korm. rendelet 1. melléklete a 16. melléklet szerint módosul.
+61. §[^62]
+
+[^62]: A 61. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

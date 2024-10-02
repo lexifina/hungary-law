@@ -1,1 +1,3 @@
-57. § A debreceni Nagyerdei Labdarúgó Stadion rekonstrukciós programjához kapcsolódó beruházások megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes kormányrendeletek módosításáról szóló 166/2012. (VII. 19.) Korm. rendelet 1. melléklete a 14. melléklet szerint módosul.
+57. §[^58]
+
+[^58]: Az 57. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-105. § A székesfehérvári stadionrekonstrukciós program megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 472/2013. (XII. 11.) Korm. rendelet 1. melléklete a 30. melléklet szerint módosul.
+105. §[^106]
+
+[^106]: A 105. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

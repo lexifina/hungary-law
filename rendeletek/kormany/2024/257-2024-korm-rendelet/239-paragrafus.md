@@ -1,3 +1,5 @@
 ## 160. Az Egészséges Budapest Program megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 98/2017. (IV. 27.) Korm. rendelet módosítása
 
-239. § Az Egészséges Budapest Program megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 98/2017. (IV. 27.) Korm. rendelet 1. melléklet 21. pontjában a „katasztrófavédelmi” szövegrész helyébe az „iparbiztonsági” szöveg lép.
+239. §[^240]
+
+[^240]: A 239. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

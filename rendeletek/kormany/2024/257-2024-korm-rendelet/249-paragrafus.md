@@ -1,3 +1,5 @@
 ## 169. Az Iparművészeti Múzeum nagyrekonstrukciója és múzeumszakmai fejlesztése megvalósítását célzó beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 150/2017. (VI. 12.) Korm. rendelet módosítása
 
-249. § Az Iparművészeti Múzeum nagyrekonstrukciója és múzeumszakmai fejlesztése megvalósítását célzó beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 150/2017. (VI. 12.) Korm. rendelet 1. melléklet 13. pontjában a „katasztrófavédelmi” szövegrész helyébe az „iparbiztonsági” szöveg lép.
+249. §[^250]
+
+[^250]: A 249. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

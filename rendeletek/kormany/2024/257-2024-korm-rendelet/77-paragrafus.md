@@ -1,3 +1,3 @@
-77. § A létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012. évi CLXVI. törvény végrehajtásáról szóló 65/2013. (III. 8.) Korm. rendelet 12. § (1) bekezdése helyébe a következő rendelkezés lép:
+77. §[^78]
 
-„(1) Az Lrtv. szerinti – kivéve a honvédelmi ágazaton belüli rendszerelem üzemeltetőjét érintő – komplex gyakorlatot a 8. § (1) bekezdése szerinti éves ellenőrzési tervben kell szerepeltetni. A hivatásos katasztrófavédelmi szerv központi szerve által meghatározott, a komplex gyakorlattal érintett üzemeltetőket a hivatásos katasztrófavédelmi szerv központi szerve a tárgyév január 15-ig értesíti. A komplex gyakorlatot a hivatásos katasztrófavédelmi szerv központi vagy területi szerve irányítja. A komplex gyakorlatot a hivatásos katasztrófavédelmi szerv központi vagy területi szerve és az üzemeltető közösen tervezi meg.”
+[^78]: A 77. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

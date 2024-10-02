@@ -1,1 +1,3 @@
-326. § Hatályát veszti az Európa Kulturális Fővárosa 2023 cím viselésével összefüggésben, az Európa Kulturális Fővárosa 2023 programsorozat megrendezéséhez szükséges létesítményfejlesztésekkel összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint további sajátos szabályok megállapításáról szóló 654/2020. (XII. 23.) Korm. rendelet 3. § (1) bekezdése.
+326. §[^327]
+
+[^327]: A 326. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

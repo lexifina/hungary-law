@@ -1,3 +1,3 @@
-37. § A veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésről szóló 219/2011. (X. 20.) Korm. rendelet 32. § (1) bekezdése helyébe a következő rendelkezés lép:
+37. §[^38]
 
-„(1) Az iparbiztonsági hatóság a veszélyes anyagokkal foglalkozó üzemekről és a küszöbérték alatti üzemekről, valamint a 30. és 31. §-ban foglaltak szerint kapott információkról nyilvántartást vezet, amelyet a BM OKF részére havonta, tárgyhó 5. napjáig megküld. A BM OKF a nyilvántartásban szereplő adatokról – az Európai Bizottság vonatkozó előírásainak figyelembevételével – tájékoztatja az Európai Unió illetékes szervét.”
+[^38]: A 37. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

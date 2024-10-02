@@ -1,1 +1,3 @@
-279. § Hatályát veszti a tűzvédelmi hatósági eljárások általános és különös szabályairól szóló 489/2017. (XII. 29.) Korm. rendelet 1. §-ában az „első és másodfokú” szövegrész.
+279. §[^280]
+
+[^280]: A 279. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

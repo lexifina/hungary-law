@@ -1,1 +1,3 @@
-29. § A Szociális Családiház-építési Program keretében az Ócsa területén megvalósuló építési beruházással összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 156/2011. (VIII. 10.) Korm. rendelet 1. melléklete a 8. melléklet szerint módosul.
+29. §[^30]
+
+[^30]: A 29. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

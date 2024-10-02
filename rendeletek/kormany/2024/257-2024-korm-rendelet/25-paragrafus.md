@@ -1,1 +1,3 @@
-25. § Az ELI (Extreme Light Infrastructure) integrált európai kutatási nagyberendezés magyarországi megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 97/2011. (VI. 29.) Korm. rendelet 1. melléklete a 6. melléklet szerint módosul.
+25. §[^26]
+
+[^26]: A 25. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

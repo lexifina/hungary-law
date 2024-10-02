@@ -1,11 +1,3 @@
-## A gödöllői uszoda beruházási programmal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 59/2014. (III. 4.) Korm. rendelet 1. mellékletében foglalt táblázat 13. sora helyébe a következő sor lép:
+37. melléklet a 257/2024. (VIII. 29.) Korm. rendelethez[^400]
 
-|  | (A | B | C | D) |
-
-## „
-
-| 13. | Gödöllői uszoda beruházás | Gödöllő 5880 helyrajzi számú ingatlan | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Budapest Főváros Kormányhivatala |
-
-## ”
-
-37. melléklet a 257/2024. (VIII. 29.) Korm. rendelethez
+[^400]: A 37. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

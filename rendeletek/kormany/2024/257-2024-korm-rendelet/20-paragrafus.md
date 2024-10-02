@@ -1,1 +1,3 @@
-20. § Az EM-Bioetanol Kft. Bioetanol-Biogáz-Kiserőmű projekt Kaba város közigazgatási területén megvalósuló nagyberuházással összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 61/2010. (III. 18.) Korm. rendelet 1. melléklete a 4. melléklet szerint módosul.
+20. §[^21]
+
+[^21]: A 20. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

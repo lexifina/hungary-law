@@ -1,1 +1,3 @@
-140. § A Wuppermann Hungary Kft. Győr-Gönyűi Kikötőben megvalósuló beruházásával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 266/2014. (X. 21.) Korm. rendelet 1. melléklete a 43. melléklet szerint módosul.
+140. §[^141]
+
+[^141]: A 140. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

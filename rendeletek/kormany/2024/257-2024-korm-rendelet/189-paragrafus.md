@@ -1,3 +1,5 @@
 ## 112. Az Európa Center Miskolc Beruházó és Szolgáltató Kft. Szirmabesenyő külterületén és az Európa Center Miskolc Üzleti és Logisztikai Ipari Parkban megvalósuló beruházásával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 95/2016. (V. 2.) Korm. rendelet módosítása
 
-189. § Az Európa Center Miskolc Beruházó és Szolgáltató Kft. Szirmabesenyő külterületén és az Európa Center Miskolc Üzleti és Logisztikai Ipari Parkban megvalósuló beruházásával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 95/2016. (V. 2.) Korm. rendelet 1. melléklet 21. pontjában a „katasztrófavédelmi” szövegrész helyébe az „iparbiztonsági” szöveg lép.
+189. §[^190]
+
+[^190]: A 189. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

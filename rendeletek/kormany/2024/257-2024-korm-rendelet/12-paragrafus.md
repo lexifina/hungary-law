@@ -1,3 +1,5 @@
 ## 9. A „Pécs 2010 – Európa Kulturális Fővárosa” program fejlesztési kulcsprojektjeihez kapcsolódó beruházások megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 74/2008. (IV. 3.) Korm. rendelet módosítása
 
-12. § A „Pécs 2010 – Európa Kulturális Fővárosa” program fejlesztési kulcsprojektjeihez kapcsolódó beruházások megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 74/2008. (IV. 3.) Korm. rendelet 1. számú mellékletében foglalt táblázat D:25, D:45 és D:69 mezőjében a „katasztrófavédelmi igazgatóság” szövegrész helyébe a „ , vízügyi és vízvédelmi hatáskörben eljáró vármegyei kormányhivatal” szöveg lép.
+12. §[^13]
+
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-3. § A vízgazdálkodási hatósági jogkör gyakorlásáról szóló 72/1996. (V. 22.) Korm. rendelet 5/G. §-ában a „területi vízügyi hatóságként eljáró katasztrófavédelmi igazgatóság tűzvédelmi hatósági feladatkörében” szövegrész helyébe a „tűzvédelmi hatóság” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

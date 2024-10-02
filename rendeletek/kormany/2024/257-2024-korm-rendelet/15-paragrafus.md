@@ -1,3 +1,5 @@
 ## 12. A „Duna projekt” megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 77/2009. (IV. 8.) Korm. rendelet módosítása
 
-15. § A „Duna projekt” megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 77/2009. (IV. 8.) Korm. rendelet 1. számú mellékletében foglalt táblázat D:2, D:4, D:5, D:7, D:8, D:10, D:12, D:14, D:16, D:18–D:22, D:24–D:28, D:30, D:32, D:34–D:91, D:106–D:117 mezőjében a „katasztrófavédelmi igazgatóság” szövegrész helyébe a „ , vízügyi és vízvédelmi hatáskörben eljáró vármegyei kormányhivatal” szöveg lép.
+15. §[^16]
+
+[^16]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

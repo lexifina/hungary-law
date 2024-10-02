@@ -1,1 +1,3 @@
-27. § A Pesti Vigadó épületének rekonstrukciójával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 142/2011. (VII. 21.) Korm. rendelet 1. melléklete a 7. melléklet szerint módosul.
+27. §[^28]
+
+[^28]: A 27. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

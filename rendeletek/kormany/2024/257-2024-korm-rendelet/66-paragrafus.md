@@ -1,1 +1,3 @@
-66. § A Bridgestone Tatabánya Termelő Kft. Tatabányai Ipari Parkban megvalósuló új személygépkocsi gumiabroncs gyártó üzemének beruházásával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 446/2012. (XII. 29.) Korm. rendelet 1. melléklete a 17. melléklet szerint módosul.
+66. §[^67]
+
+[^67]: A 66. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

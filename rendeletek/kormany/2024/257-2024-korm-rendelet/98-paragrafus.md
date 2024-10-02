@@ -1,3 +1,5 @@
 ## 52. A Nemzeti Lovarda fejlesztésével kapcsolatos közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 460/2013. (XII. 4.) Korm. rendelet módosítása
 
-98. § A Nemzeti Lovarda fejlesztésével kapcsolatos közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 460/2013. (XII. 4.) Korm. rendelet 1. mellékletében foglalt táblázat D:9–D:11 mezőjében a „katasztrófavédelmi igazgatóság” szövegrész helyébe a „fővárosi és vármegyei kormányhivatal” szöveg lép.
+98. §[^99]
+
+[^99]: A 98. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

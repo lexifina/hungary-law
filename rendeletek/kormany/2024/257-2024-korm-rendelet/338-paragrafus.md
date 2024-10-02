@@ -1,3 +1,5 @@
 ## 247. A Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság Tolna Megyei Igazgatósága új paksi telephelyének kialakítását célzó beruházás előkészítésével és megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 339/2021. (VI. 11.) Korm. rendelet módosítása
 
-338. § A Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság Tolna Megyei Igazgatósága új paksi telephelyének kialakítását célzó beruházás előkészítésével és megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 339/2021. (VI. 11.) Korm. rendelet 1. melléklet 21. pontjában a „katasztrófavédelmi” szövegrész helyébe az „iparbiztonsági” szöveg lép.
+338. §[^339]
+
+[^339]: A 338. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

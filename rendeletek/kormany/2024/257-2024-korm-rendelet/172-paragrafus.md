@@ -1,1 +1,3 @@
-172. § Hatályát veszti a vízvédelmi igazgatási feladatokat ellátó szervek kijelöléséről, és egyes vízügyi tárgyú kormányrendeletek módosításáról szóló 366/2015. (XII. 2.) Korm. rendelet 5. alcíme.
+172. §[^173]
+
+[^173]: A 172. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

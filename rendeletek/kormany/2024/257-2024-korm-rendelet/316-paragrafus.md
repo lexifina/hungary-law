@@ -1,3 +1,5 @@
 ## 230. A József Attila Színház rekonstrukcióját célzó beruházás megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 360/2020. (VII. 23.) Korm. rendelet módosítása
 
-316. § A József Attila Színház rekonstrukcióját célzó beruházás megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 360/2020. (VII. 23.) Korm. rendelet 1. melléklet 21. pontjában a „katasztrófavédelmi” szövegrész helyébe az „iparbiztonsági” szöveg lép.
+316. §[^317]
+
+[^317]: A 316. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

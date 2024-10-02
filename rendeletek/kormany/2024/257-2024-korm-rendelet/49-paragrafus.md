@@ -1,9 +1,5 @@
 ## 27. A Várbazár, valamint a budavári királyi kertek rekonstrukciójához kapcsolódó beruházások megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 311/2011. (XII. 23.) Korm. rendelet módosítása
 
-49. § A Várbazár, valamint a budavári királyi kertek rekonstrukciójához kapcsolódó beruházások megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 311/2011. (XII. 23.) Korm. rendelet
+49. §[^50]
 
-a) 1. mellékletében foglalt táblázat D:7 mezőjében a „vármegyei katasztrófavédelmi igazgatóság” szövegrész helyébe a „ , vízügyi és vízvédelmi hatáskörben eljáró vármegyei kormányhivatal” szöveg,
-
-b) 1. mellékletében foglalt táblázat D:11–D:13 mezőjében a „katasztrófavédelmi igazgatóság” szövegrész helyébe a „fővárosi és vármegyei kormányhivatal” szöveg
-
-lép.
+[^50]: A 49. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

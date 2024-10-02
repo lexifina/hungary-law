@@ -1,3 +1,5 @@
 ## 252. A paksi Egészségügyi Központ kialakítását célzó beruházás előkészítésével és megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 726/2021. (XII. 20.) Korm. rendelet módosítása
 
-343. § A paksi Egészségügyi Központ kialakítását célzó beruházás előkészítésével és megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 726/2021. (XII. 20.) Korm. rendelet 1. melléklet 22. pontjában a „katasztrófavédelmi” szövegrész helyébe az „iparbiztonsági” szöveg lép.
+343. §[^344]
+
+[^344]: A 343. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-69. § A piacfelügyeleti tevékenység részletes szabályairól szóló 6/2013. (I. 18.) Korm. rendelet 10. § (1) bekezdés k) pontjában a „BM OKF-t” szövegrész helyébe a „tűzvédelmi hatósági hatáskörében eljáró fővárosi és vármegyei kormányhivatalt” szöveg lép.
+69. §[^70]
+
+[^70]: A 69. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

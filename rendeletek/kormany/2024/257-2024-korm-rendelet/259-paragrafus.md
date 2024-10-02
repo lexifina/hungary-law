@@ -1,3 +1,5 @@
 ## 179. A HUNGARORING Sport Zártkörűen Működő Részvénytársaság Stratégiai Fejlesztési Programjának keretében megvalósuló beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 255/2017. (IX. 5.) Korm. rendelet módosítása
 
-259. § A HUNGARORING Sport Zártkörűen Működő Részvénytársaság Stratégiai Fejlesztési Programjának keretében megvalósuló beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 255/2017. (IX. 5.) Korm. rendelet 1. melléklet 7. pontjában a „katasztrófavédelmi” szövegrész helyébe az „iparbiztonsági” szöveg lép.
+259. §[^260]
+
+[^260]: A 259. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-147. § A HCM 1890 Kft. Miskolcon megvalósuló beruházásával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 393/2014. (XII. 31.) Korm. rendelet 1. melléklete a 47. melléklet szerint módosul.
+147. §[^148]
+
+[^148]: A 147. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

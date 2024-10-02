@@ -1,1 +1,3 @@
-85. § A Szegedi Tudományos Park kialakításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről, valamint egyes kormányrendeletek módosításáról szóló 225/2013. (VI. 24.) Korm. rendelet 1. melléklete a 21. melléklet szerint módosul.
+85. §[^86]
+
+[^86]: A 85. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

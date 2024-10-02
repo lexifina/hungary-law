@@ -1,3 +1,5 @@
 ## 2. A felszín alatti vizek védelméről szóló 219/2004. (VII. 21.) Korm. rendelet módosítása
 
-4. § A felszín alatti vizek védelméről szóló 219/2004. (VII. 21.) Korm. rendelet 39. § (5) bekezdésében az „az országos vízügyi hatóság” szövegrész helyébe az „a területi vízvédelmi hatóság” szöveg lép.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

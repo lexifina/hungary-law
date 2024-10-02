@@ -1,3 +1,5 @@
 ## 59. A Liget Budapest projekt keretében megvalósuló egyes beruházásokkal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 546/2013. (XII. 30.) Korm. rendelet módosítása
 
-112. § A Liget Budapest projekt keretében megvalósuló egyes beruházásokkal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 546/2013. (XII. 30.) Korm. rendelet 2. melléklete a 33. melléklet szerint módosul.
+112. §[^113]
+
+[^113]: A 112. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

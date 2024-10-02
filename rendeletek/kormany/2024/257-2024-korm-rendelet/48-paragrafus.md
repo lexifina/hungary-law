@@ -1,5 +1,3 @@
-48. § Hatályát veszti a tűzvédelmi hatósági feladatokat ellátó szervezetekről, a tűzvédelmi bírságról és a tűzvédelemmel foglalkozók kötelező élet- és balesetbiztosításáról szóló 259/2011. (XII. 7.) Korm. rendelet
+48. §[^49]
 
-a) 8. §-a,
-
-b) 9. § (3) bekezdése.
+[^49]: A 48. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

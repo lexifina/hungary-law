@@ -1,3 +1,5 @@
 ## 227. Egyes víziközmű-beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 323/2020. (VII. 1.) Korm. rendelet módosítása
 
-312. § Az egyes víziközmű-beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 323/2020. (VII. 1.) Korm. rendelet 1. melléklet 22. pontjában a „katasztrófavédelmi” szövegrész helyébe az „iparbiztonsági” szöveg lép.
+312. §[^313]
+
+[^313]: A 312. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

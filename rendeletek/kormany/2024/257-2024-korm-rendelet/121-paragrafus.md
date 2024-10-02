@@ -1,1 +1,3 @@
-121. § Hatályát veszti a Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósítandó tanuszoda, tornaterem, tanterem beruházásokkal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 141/2014. (IV. 30.) Korm. rendelet 1. § (5) bekezdése.
+121. §[^122]
+
+[^122]: A 121. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,7 +1,3 @@
-## „
+34. melléklet a 257/2024. (VIII. 29.) Korm. rendelethez[^397]
 
-| 10. | Liget Budapest projekt beruházásai | Budapest XIV. kerület 29732/1 helyrajzi számú ingatlan | tűzvédelmi hatósági eljárások | illetékes fővárosi és vármegyei kormányhivatal |
-
-## ”
-
-34. melléklet a 257/2024. (VIII. 29.) Korm. rendelethez
+[^397]: A 34. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

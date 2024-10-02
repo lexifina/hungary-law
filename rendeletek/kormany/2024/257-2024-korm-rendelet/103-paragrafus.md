@@ -1,1 +1,3 @@
-103. § A szombathelyi sportcélú beruházások megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 462/2013. (XII. 4.) Korm. rendelet 1. melléklete a 29. melléklet szerint módosul.
+103. §[^104]
+
+[^104]: A 103. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

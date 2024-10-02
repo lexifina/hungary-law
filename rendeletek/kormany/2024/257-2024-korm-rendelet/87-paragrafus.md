@@ -1,1 +1,3 @@
-87. § A Hyginett Magyar–Amerikai Higiéniai Cikkeket Gyártó Kft. Csömörön épülő gyártóüzemének megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 282/2013. (VII. 24.) Korm. rendelet 1. melléklete a 22. melléklet szerint módosul.
+87. §[^88]
+
+[^88]: A 87. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

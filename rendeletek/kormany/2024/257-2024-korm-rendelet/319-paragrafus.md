@@ -1,3 +1,5 @@
 ## 233. A Konstantinápolyi Egyetemes Patriarchátus Magyarországi Ortodox Exarchátus Dialógus Központ, Lelkiségi, Kulturális és Tudományos Akadémiája épületének felújításával, átalakításával és újjáépítésével összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé és a beruházás kiemelten közérdekűvé nyilvánításáról szóló 462/2020. (X. 21.) Korm. rendelet módosítása
 
-319. § Hatályát veszti a Konstantinápolyi Egyetemes Patriarchátus Magyarországi Ortodox Exarchátus Dialógus Központ, Lelkiségi, Kulturális és Tudományos Akadémiája épületének felújításával, átalakításával és újjáépítésével összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé és a beruházás kiemelten közérdekűvé nyilvánításáról szóló 462/2020. (X. 21.) Korm. rendelet 2. § (2) bekezdése.
+319. §[^320]
+
+[^320]: A 319. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

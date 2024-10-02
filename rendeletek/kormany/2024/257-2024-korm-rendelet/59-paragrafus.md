@@ -1,1 +1,3 @@
-59. § A Korányi Projekthez kapcsolódó beruházások megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 267/2012. (IX. 20.) Korm. rendelet 1. melléklete a 15. melléklet szerint módosul.
+59. §[^60]
+
+[^60]: Az 59. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
