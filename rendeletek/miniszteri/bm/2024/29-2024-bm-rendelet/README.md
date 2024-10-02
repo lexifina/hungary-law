@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-29-20-0
 | 2024-08-01 | 2024-29-20-0A.1 | 29/2024. (VII. 12.) BM rendelet |
 | 2024-08-02 | 2024-29-20-0A.2 | 2010. évi CXXX. törvény |
 | 2024-10-01 | 2024-29-20-0A.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2024-10-02 | 2024-29-20-0A.4 | 2010. évi CXXX. törvény |
