@@ -1,5 +1,5 @@
 ## 16. A környezetvédelmi hatósági és igazgatási feladatokat ellátó szervek kijelöléséről szóló 624/2022. (XII. 30.) Korm. rendelet módosítása
 
-30. § A környezetvédelmi hatósági és igazgatási feladatokat ellátó szervek kijelöléséről szóló 624/2022. (XII. 30.) Korm. rendelet 5. alcíme a következő 12/A. §-sal egészül ki:
+30. §[^31]
 
-„12/A. § A környezetvédelmi hatóság az engedélyezési eljárásában – az adott eljárásra vonatkozó különös szabályokban meghatározott szempontok mellett – a 8. mellékletben foglalt táblázat szerinti feltételek esetén vizsgálja a táblázatban meghatározott szakkérdést.”
+[^31]: A 30. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

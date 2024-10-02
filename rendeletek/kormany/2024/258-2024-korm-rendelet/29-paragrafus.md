@@ -1,1 +1,3 @@
-29. § A hulladékgazdálkodási hatóság kijelöléséről szóló 124/2021. (III. 12.) Korm. rendelet a 16. melléklet szerinti 3. melléklettel egészül ki.
+29. §[^30]
+
+[^30]: A 29. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

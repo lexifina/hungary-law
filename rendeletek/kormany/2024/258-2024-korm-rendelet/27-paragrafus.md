@@ -1,3 +1,5 @@
 ## 14. A veszélyes folyadékok vagy olvadékok tárolótartályainak, tároló-létesítményeinek műszaki-biztonsági hatósági felügyeletéről szóló 216/2019. (IX. 5.) Korm. rendelet módosítása
 
-27. § A veszélyes folyadékok vagy olvadékok tárolótartályainak, tároló-létesítményeinek műszaki-biztonsági hatósági felügyeletéről szóló 216/2019. (IX. 5.) Korm. rendelet 1. melléklete a 15. melléklet szerint módosul.
+27. §[^28]
+
+[^28]: A 27. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
