@@ -1,1 +1,3 @@
-1. § Hatályát veszti a távhőtermelők veszélyhelyzeti átmeneti földgázellátásának biztosításáról szóló 114/2023. (IV. 5.) Korm. rendelet.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
