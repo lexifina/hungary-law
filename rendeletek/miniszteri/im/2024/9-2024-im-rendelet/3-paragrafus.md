@@ -4,9 +4,8 @@
 
 (2)[^4]
 
-(3) Az eCvhr. 5. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) A szerződésminta nyomtatványban szabadszöveges részként kell biztosítani, hogy az okiratszerkesztő jogi képviselő a vonatkozó jogszabályi feltételeknek megfelelő formai és tartalmi elemekkel eleget tudjon tenni az ellenjegyzési, közokirati formai, záradékolási és egyéb okiratszerkesztési kötelezettségének, ideértve az egységes szerkezetű létesítő okiraton feltüntetendő igazolást is.”
+(3)[^5]
 
 [^3]: A 3. § (1) bekezdése az 5. § (3) bekezdése alapján 2025. március 1-jén lép hatályba.
 [^4]: A 3. § (2) bekezdése az 5. § (3) bekezdése alapján 2025. március 1-jén lép hatályba.
+[^5]: A 3. § (3) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

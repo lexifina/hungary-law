@@ -1,3 +1,3 @@
-8. melléklet a 9/2024. (VI. 28.) IM rendelethez[^11]
+8. melléklet a 9/2024. (VI. 28.) IM rendelethez[^12]
 
-[^11]: A 8. melléklet a ... alapján 2025. március 1-jén lép hatályba.
+[^12]: A 8. melléklet a ... alapján 2025. március 1-jén lép hatályba.
