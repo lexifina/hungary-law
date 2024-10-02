@@ -1,3 +1,3 @@
 ## 5. Az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény módosítása
 
-17. §
+### 17. §
