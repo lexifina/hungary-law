@@ -1,5 +1,3 @@
-27. § Nem lép hatályba az R1.
+27. §[^27]
 
-a) 1–20. §-a,
-
-b) 22. és 23. §-a.
+[^27]: A 27. § a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.

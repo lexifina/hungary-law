@@ -1,1 +1,3 @@
-25. § Nem lép hatályba az állam működésének további egyszerűsítésével összefüggő egyes kormányrendeletek módosításáról szóló 561/2023. (XII. 14.) Korm. rendelet 53. §-a.
+25. §[^25]
+
+[^25]: A 25. § a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.

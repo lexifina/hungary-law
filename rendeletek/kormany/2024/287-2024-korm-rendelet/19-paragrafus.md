@@ -1,3 +1,3 @@
-19. §[^18]
+19. §[^19]
 
-[^18]: A 19. § a 28. § (2) bekezdése alapján 2025. január 15-én lép hatályba.
+[^19]: A 19. § a 28. § (2) bekezdése alapján 2025. január 15-én lép hatályba.
