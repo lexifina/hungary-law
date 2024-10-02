@@ -1,1 +1,3 @@
-51. § Hatályát veszti a fás szárú növények védelméről szóló 346/2008. (XII. 30.) Korm. rendelet.
+51. §[^1]
+
+[^1]: Az 51. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
