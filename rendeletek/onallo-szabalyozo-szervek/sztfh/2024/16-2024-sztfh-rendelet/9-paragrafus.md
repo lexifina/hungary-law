@@ -1,3 +1,3 @@
-9. § Az R1. 18. §-a a következő (1a) bekezdéssel egészül ki:
+9. §[^9]
 
-„(1a) Az ügylet teljesítésének felfüggesztésével összefüggő feladatok koordinálása a megfelelési vezető feladata.”
+[^9]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-4. § Az R1. 8. §-a a következő (3) bekezdéssel egészül ki:
+4. §[^4]
 
-„(3) A belső ellenőrző és információs rendszer kialakítása során a szolgáltató kikéri a megfelelési vezető véleményét.”
+[^4]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-13. § Hatályát veszti az R1. 17. § (1) bekezdésében az „a vezető beosztású játéktechnikai alkalmazottainak” szövegrész.
+13. §[^13]
+
+[^13]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

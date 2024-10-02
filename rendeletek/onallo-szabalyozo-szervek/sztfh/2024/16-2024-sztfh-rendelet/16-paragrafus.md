@@ -1,1 +1,3 @@
-16. § Az R2. 2. § (1) bekezdés d) pontjában az „1. § (2) bekezdés” szövegrész helyébe az „1. § (1) bekezdés” szöveg lép.
+16. §[^16]
+
+[^16]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

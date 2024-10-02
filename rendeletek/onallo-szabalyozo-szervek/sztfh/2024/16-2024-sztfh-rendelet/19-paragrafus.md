@@ -1,1 +1,3 @@
-19. § Hatályát veszti az R3. 2. melléklet A:3 mezőjében a „ , valamint a Honvédelmi Minisztérium” szövegrész.
+19. §[^19]
+
+[^19]: A 19. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
