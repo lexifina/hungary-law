@@ -1,1 +1,3 @@
-7. § Hatályát veszti az egyes tűzmegelőzési hatósági, szakhatósági eljárásokért és szolgáltatásokért fizetendő igazgatási szolgáltatási díjról szóló 16/2012. (IV. 3.) BM rendelet 3. § (2) és (3) bekezdése.
+7. §[^8]
+
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

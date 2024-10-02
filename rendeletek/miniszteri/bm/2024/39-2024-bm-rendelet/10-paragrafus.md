@@ -1,1 +1,3 @@
-10. § Hatályát veszti a tűzvédelmi szabályzatról, a tűzvédelmi házirendről, valamint a tűzvédelmi oktatásról szóló 101/2023. (XII. 29.) BM rendelet 3. § (5) bekezdésében az „elsőfokú” szövegrész.
+10. §[^11]
+
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

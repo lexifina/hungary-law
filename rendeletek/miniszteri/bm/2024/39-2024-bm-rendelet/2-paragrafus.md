@@ -1,9 +1,5 @@
 ## 2. A bejelentésköteles tűzvédelmi szolgáltatási tevékenységek megkezdésének és folytatásának részletes szabályairól szóló 50/2011. (XII. 20.) BM rendelet módosítása
 
-2. § A bejelentésköteles tűzvédelmi szolgáltatási tevékenységek megkezdésének és folytatásának részletes szabályairól szóló 50/2011. (XII. 20.) BM rendelet
+2. §[^3]
 
-a) 1. mellékletében a „Fővárosi Katasztrófavédelmi Igazgatóság” szövegrész helyébe a „Budapest Főváros Kormányhivatala” szöveg,
-
-b) 1. mellékletében a „Vármegyei Katasztrófavédelmi Igazgatóság” szövegrészek helyébe a „Vármegyei Kormányhivatal” szöveg
-
-lép.
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
