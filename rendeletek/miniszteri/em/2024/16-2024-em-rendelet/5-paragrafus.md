@@ -1,5 +1,6 @@
-5. § (1) Az Árrendelet 5. § (3) bekezdésében a „két éven belül” szövegrész helyébe a „három éven belül” szöveg lép.
+5. § (1)[^5]
 
-(2)[^1]
+(2)[^6]
 
-[^1]: Az 5. § (2) bekezdése a 10. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+[^5]: Az 5. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: Az 5. § (2) bekezdése a 10. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
