@@ -30,7 +30,7 @@
 
 13. az e törvényben meghatározott területfejlesztési programok végrehajtási rendszerének kialakítását
 
-## rendeletben állapítsa meg.
+rendeletben állapítsa meg.
 
 (2) Felhatalmazást kap a helyi önkormányzat, hogy
 
@@ -38,7 +38,7 @@ a) a területfejlesztési és vidékfejlesztési koordináció részletes szabá
 
 b) a vármegyei területrendezési tervet
 
-## rendeletben állapítsa meg.
+rendeletben állapítsa meg.
 
 (3) Felhatalmazást kap a területfejlesztésért felelős miniszter, hogy a területfejlesztési tervezési tevékenység szabályait rendeletben megállapítsa.
 
