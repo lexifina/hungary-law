@@ -1,3 +1,3 @@
-16/A. §[^57]
+16/A. §[^59]
 
-[^57]: A 16/A. §-t a 15/2014. (IV. 3.) NFM rendelet 9. §-a iktatta be, hatályon kívül helyezte az 55/2017. (XII. 27.) NFM rendelet 33. § b) pontja.
+[^59]: A 16/A. §-t a 15/2014. (IV. 3.) NFM rendelet 9. §-a iktatta be, hatályon kívül helyezte az 55/2017. (XII. 27.) NFM rendelet 33. § b) pontja.

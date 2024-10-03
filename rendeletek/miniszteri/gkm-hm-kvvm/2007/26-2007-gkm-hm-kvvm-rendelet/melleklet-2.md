@@ -44,7 +44,7 @@
 
 2. melléklet a 26/2007. (III. 1.) GKM–HM–KvVM
 
-együttes rendelethez[^122]
+együttes rendelethez[^127]
 
 ELLENŐRZÖTT, NEM ELLENŐRZÖTT ÉS IDŐSZAKOSAN KORLÁTOZOTT LÉGTEREK
 
@@ -744,143 +744,7 @@ II. ATS ÁTRUHÁZÁS
 
 2.2.2. A fentiekben meghatározott légtéren belül a kutató- és mentőtevékenység koordinálása és végzése az illetékes szlovák hatóságok feladata.
 
-3. Közös felhasználású légterek
-
-3.1. Előzetes koordinációs légterek
-
-## 2X05311N.docx
-
-|  | A | B | C | D |
-
-| 1. | Légtér azonosítója | Neve / oldalhatárai | Felső / alsó határa | Megjegyzés |
-
-| 2. | LHEPCA01 | LIMA WEST | FL245 (7450 m STD)/10000’ (3050 m STD) AMSL |  |
-
-|  | 465105N | 0162126E |
-
-|  | 463352N | 0180006E |
-
-|  | 460854N | 0180425E |
-
-|  | 460445N | 0172645E |
-
-|  | 462256N | 0170114E |
-
-|  | 462930N | 0163702E |
-
-|  | 464101N | 0162522E |
-
-|  | 465105N | 0162126E |
-
-| 3. | LHEPCA02 | LIMA SOUTH | FL 245 (7450 m STD)/10000’ (3050 m STD) AMSL |  |
-
-|  | 470342N | 0192349E |
-
-|  | 470241N | 0200428E |
-
-|  | 465559N | 0200729E |
-
-|  | 464943N | 0203740E |
-
-|  | 463203N | 0202335E |
-
-|  | 463728N | 0194717E |
-
-|  | 470342N | 0192349E |
-
-| 4. | LHEPCA03 | LIMA SOUTH-EAST | FL 245 (7450 m STD)/10000’ (3050 m STD) AMSL |  |
-
-|  | 464943N | 0203740E |
-
-|  | 463943N | 0211234E |
-
-|  | 462319N | 0210540E |
-
-|  | 462140N | 0205519E |
-
-|  | 462648N | 0195641E |
-
-|  | 463728N | 0194717E |
-
-|  | 463203N | 0202335E |
-
-|  | 464943N | 0203740E |
-
-| 5. | LHEPCA04 | LIMA EAST | FL 245 (7450 m STD)/10000’ (3050 m STD) AMSL |  |
-
-|  | 481115N | 0202525E |
-
-|  | 474559N | 0213339E |
-
-|  | 472201N | 0214313E |
-
-|  | 471210N | 0213301E |
-
-|  | 470506N | 0212808E |
-
-|  | 472943N | 0201605E |
-
-|  | 475800N | 0195615E |
-
-|  | 481115N | 0202525E |
-
-3.2. Csökkentett koordinációs légterek
-
-## 2X05311O.docx
-
-|  | A | B | C | D |
-
-| 1. | LHERCA01 | UNIFORM SOUTH-WEST | UNL / FL 245 (7450 m STD) |  |
-
-| 463352N | 0180006E |
-
-| 462829N | 0184129E |
-
-| 460259N | 0190529E |
-
-| 460259N | 0184005E |
-
-| 455737N | 0182351E |
-
-| 455529N | 0175254E |
-
-| 460445N | 0172645E |
-
-| 463352N | 0180006E |
-
-| 2. | LHERCA02 | UNIFORM WEST | UNL / FL 245 (7450 m STD) |
-
-| 464210N | 0164659E |
-
-| 463352N | 0180006E |
-
-| 460445N | 0172645E |
-
-| 463605N | 0164210E |
-
-| 464210N | 0164659E |
-
-| 3. | LHERCA03 | UNIFORM EAST | UNL / FL245 (7450 m STD) |
-
-| 475756N | 0210710E |
-
-| 471911N | 0214017E |
-
-| 471210N | 0213301E |
-
-| 465050N | 0211821E |
-
-| 471548N | 0203051E |
-
-| 472943N | 0201605E |
-
-| 474125N | 0200756E |
-
-| 475756N | 0210710E |
-
-3.3. További szabályok:
-
-A közös felhasználású légterek működésének idejét és rendjét Budapest ATS Központ és a légvédelmi irányító szolgálat biztosításáért felelős katonai szervezet vezetője együttműködési megállapodásban rögzíti.
+3.[^128]
 
 III. NEM ELLENŐRZÖTT LÉGTEREK
 
@@ -1748,4 +1612,5 @@ IV. IDŐSZAKOSAN KORLÁTOZOTT LÉGTEREK (TRA)
 
 1. Időszakosan korlátozott légterek
 
-[^122]: A 2. melléklet a 45/2017. (XII. 4.) NFM rendelet 2. §-ával megállapított, a 33/2018. (XII. 17.) ITM rendelet 3. §-a, a 34/2019. (IX. 13.) ITM rendelet 7. § j)–o) pontja, 8. § (2) bekezdése és 9. § b)–c) pontja, a 33/2020. (X. 5.) ITM rendelet 3. § c) pontja, 4. § (2) bekezdése, a 3/2021. (I. 20.) ITM rendelet 1. §-a, az 55/2021. (XI. 5.) ITM rendelet 4–5. §-a, a 7/2022. (VII. 27.) TIM rendelet 3. §-a, a 7/2023. (IV. 14.) ÉKM rendelet 2. §-a, a 30/2023. (XII. 29.) ÉKM rendelet 1. § (1) bekezdése, a 21/2024. (VII. 31.) ÉKM rendelet 3. §-a szerint módosított szöveg. A Magyar Közlöny 201. számában megjelent helyesbítésnek megfelelő szöveg.
+[^127]: A 2. melléklet a 45/2017. (XII. 4.) NFM rendelet 2. §-ával megállapított, a 33/2018. (XII. 17.) ITM rendelet 3. §-a, a 34/2019. (IX. 13.) ITM rendelet 7. § j)–o) pontja, 8. § (2) bekezdése és 9. § b)–c) pontja, a 33/2020. (X. 5.) ITM rendelet 3. § c) pontja, 4. § (2) bekezdése, a 3/2021. (I. 20.) ITM rendelet 1. §-a, az 55/2021. (XI. 5.) ITM rendelet 4–5. §-a, a 7/2022. (VII. 27.) TIM rendelet 3. §-a, a 7/2023. (IV. 14.) ÉKM rendelet 2. §-a, a 30/2023. (XII. 29.) ÉKM rendelet 1. § (1) bekezdése, a 21/2024. (VII. 31.) ÉKM rendelet 2. § f) pontja és 3. §-a szerint módosított szöveg. A Magyar Közlöny 201. számában megjelent helyesbítésnek megfelelő szöveg.
+[^128]: A 2. melléklet II. ATS ÁTRUHÁZÁS rész 3. Közös felhasználású légterek pontját a 21/2024. (VII. 31.) ÉKM rendelet 2. § f) pontja hatályon kívül helyezte.

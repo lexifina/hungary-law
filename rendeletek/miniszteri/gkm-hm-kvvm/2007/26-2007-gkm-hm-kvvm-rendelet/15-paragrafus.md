@@ -1,6 +1,6 @@
-## Az ATZ kijelölése és igénylése[^53]
+## Az ATZ kijelölése és igénylése[^55]
 
-15. §[^54] (1) Az ATZ kijelölése iránti kérelmet a repülőtér üzemben tartója nyújthat be.
+15. §[^56] (1) Az ATZ kijelölése iránti kérelmet a repülőtér üzemben tartója nyújthat be.
 
 (2) Az ATZ
 
@@ -40,5 +40,5 @@ i) másik ATZ-vel.
 
 (9) Amennyiben az ATZ igénybevételét az elfogadott befejezési időpont előtt befejezik, erről a Budapest ATS Központot azonnal tájékoztatni kell, amely haladéktalanul gondoskodik a légtér deaktiválásáról.
 
-[^53]: A 15. §-t megelőző „Az eseti légtér igénylése” alcím címet az 55/2021. (XI. 5.) ITM rendelet 8. § b) pontja hatályon kívül helyezte, „Az ATZ kijelölése és igénylése” alcím címet a 16/2024. (VII. 2.) ÉKM rendelet 9. §-a iktatta be.
-[^54]: A 15. §-t az 55/2017. (XII. 27.) NFM rendelet 33. § b) pontja hatályon kívül helyezte, újonnan a 16/2024. (VII. 2.) ÉKM rendelet 9. §-a iktatta be.
+[^55]: A 15. §-t megelőző „Az eseti légtér igénylése” alcím címet az 55/2021. (XI. 5.) ITM rendelet 8. § b) pontja hatályon kívül helyezte, „Az ATZ kijelölése és igénylése” alcím címet a 16/2024. (VII. 2.) ÉKM rendelet 9. §-a iktatta be.
+[^56]: A 15. §-t az 55/2017. (XII. 27.) NFM rendelet 33. § b) pontja hatályon kívül helyezte, újonnan a 16/2024. (VII. 2.) ÉKM rendelet 9. §-a iktatta be.

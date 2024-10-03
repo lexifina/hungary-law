@@ -1,3 +1,3 @@
-6. §[^28]
+6. §[^30]
 
-[^28]: A 6. §-t a 33/2018. (XII. 17.) ITM rendelet 5. §-a hatályon kívül helyezte.
+[^30]: A 6. §-t a 33/2018. (XII. 17.) ITM rendelet 5. §-a hatályon kívül helyezte.
