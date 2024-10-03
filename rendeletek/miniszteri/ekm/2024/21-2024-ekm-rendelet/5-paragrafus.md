@@ -1,3 +1,3 @@
-5. §[^5]
+5. §[^4]
 
-[^5]: Az 5. § a 17. § (3) bekezdése alapján 2024. december 15-én lép hatályba.
+[^4]: Az 5. § a 17. § (3) bekezdése alapján 2024. december 15-én lép hatályba.

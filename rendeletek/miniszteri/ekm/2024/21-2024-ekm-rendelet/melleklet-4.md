@@ -1,3 +1,3 @@
-4. melléklet a 21/2024. (VII. 31.) ÉKM rendelethez[^20]
+4. melléklet a 21/2024. (VII. 31.) ÉKM rendelethez[^19]
 
-[^20]: A 4. melléklet a 17. § (3) bekezdése alapján 2024. december 15-én lép hatályba.
+[^19]: A 4. melléklet a 17. § (3) bekezdése alapján 2024. december 15-én lép hatályba.
