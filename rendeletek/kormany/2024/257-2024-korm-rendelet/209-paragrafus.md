@@ -1,5 +1,0 @@
-## 131. A Budapest X. kerületben megvalósuló ingatlanfejlesztéssel összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és egyes eljáró hatóságok kijelöléséről szóló 308/2016. (X. 13.) Korm. rendelet módosítása
-
-209. §[^210]
-
-[^210]: A 209. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

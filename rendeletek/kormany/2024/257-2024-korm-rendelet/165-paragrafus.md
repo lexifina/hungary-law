@@ -1,5 +1,0 @@
-## 92. Az új budapesti konferencia-központ megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 267/2015. (IX. 14.) Korm. rendelet módosítása
-
-165. §[^166]
-
-[^166]: A 165. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
