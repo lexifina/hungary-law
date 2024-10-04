@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-3-20-3H
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2017-03-15 | 2017-3-20-3H.1 | 3/2017. (III. 7.) NMHH rendelet |
+| 2024-10-04 | 2017-3-20-3H.2 | 9/2024. (X. 3.) NMHH rendelet |
