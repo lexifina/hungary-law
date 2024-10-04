@@ -4,6 +4,6 @@ a) az áldozat és a vele közös háztartásban élők létfenntartása, megél
 
 b) a visszatérítendő összeg nagyságát,
 
-c)[^8]
+c)[^9]
 
-[^8]: A 10. § c) pontját a 613/2020. (XII. 18.) Korm. rendelet 1. §-a hatályon kívül helyezte.
+[^9]: A 10. § c) pontját a 613/2020. (XII. 18.) Korm. rendelet 1. §-a hatályon kívül helyezte.
