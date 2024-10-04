@@ -1,6 +1,6 @@
 1. melléklet a 210/2005. (X. 5.) Korm. rendelethez[^13]
 
-## Az igazságügyi szakértői névjegyzékbe való felvétel, szakterület kiterjesztés iránti kérelem tartalma és mellékletei
+Az igazságügyi szakértői névjegyzékbe való felvétel, szakterület kiterjesztés iránti kérelem tartalma és mellékletei
 
 1. A szakértői névjegyzékbe való felvétel, illetve a szakterület kiterjesztése iránti kérelemnek természetes személy esetén tartalmaznia kell:
 
@@ -56,7 +56,7 @@
 
 2.2.1.[^22] a nyelvismeretet igazoló dokumentum másolatát
 
-2.2.2.[^23] nyilatkozatát arról, hogy az elektronikus kapcsolattartást vállalja, ez esetben az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti hivatalos elérhetőségét.
+2.2.2.[^23] nyilatkozatát arról, hogy az elektronikus kapcsolattartást vállalja, ez esetben a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti hivatalos elérhetőségét.
 
 3.[^24] A szakmai gyakorlati idő igazolása a szakmai gyakorlati időt szakértőjelöltként megszerző kérelmező esetében különösen:
 
@@ -128,7 +128,7 @@ d)[^28] a 3.4. pont szerinti kérelmező esetén az igazságügyi szakértői in
 
 6.4. a gazdasági társaság képviseletére jogosult cégszerű aláírását.
 
-6.5.[^33] az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti hivatalos elérhetőséget.
+6.5.[^33] a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti hivatalos elérhetőséget.
 
 7. A gazdasági társaság kérelméhez
 
@@ -150,7 +150,7 @@ d)[^28] a 3.4. pont szerinti kérelmező esetén az igazságügyi szakértői in
 [^20]: Az 1. melléklet 2. pont 2.1.6. alpontját a 457/2017. (XII. 28.) Korm. rendelet 151. §-a hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^21]: Az 1. melléklet 2. pont 2.1. alpont 2.1.8. pontja a 764/2021. (XII. 23.) Korm. rendelet 15. §-ával megállapított szöveg.
 [^22]: Az 1. melléklet 2. pont 2.2. alpont 2.2.1. pontját a 457/2017. (XII. 28.) Korm. rendelet 151. §-a hatályon kívül helyezte, újonnan a 764/2021. (XII. 23.) Korm. rendelet 15. §-a iktatta be.
-[^23]: Az 1. melléklet 2. pont 2.2. alpont 2.2.2. pontja a 764/2021. (XII. 23.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^23]: Az 1. melléklet 2. pont 2.2. alpont 2.2.2. pontja a 764/2021. (XII. 23.) Korm. rendelet 15. §-ával megállapított , a 276/2024. (IX. 26.) Korm. rendelet 3. §-a szerint módosított szöveg.
 [^24]: Az 1. melléklet 3. pontja a 457/2017. (XII. 28.) Korm. rendelet 149. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^25]: Az 1. melléklet 3. pont 3.1. alpontja a 73/2019. (IV. 5.) Korm. rendelet 4. § d) pontja, a 671/2020. (XII. 28.) Korm. rendelet 9. §-a szerint módosított szöveg.
 [^26]: Az 1. melléklet 3. pont 3.4. alpontja a 764/2021. (XII. 23.) Korm. rendelet 15. §-ával megállapított szöveg.
@@ -160,5 +160,5 @@ d)[^28] a 3.4. pont szerinti kérelmező esetén az igazságügyi szakértői in
 [^30]: Az 1. melléklet 5. pont 5.1. alpont 5.1.2. alpontja a 73/2019. (IV. 5.) Korm. rendelet 4. § e) pontja szerint módosított szöveg.
 [^31]: Az 1. melléklet 6. pont 6.1. alpont 6.1.8. pontját a 764/2021. (XII. 23.) Korm. rendelet 15. §-a iktatta be.
 [^32]: Az 1. melléklet 6. pont 6.1. alpont 6.1.9. pontját a 764/2021. (XII. 23.) Korm. rendelet 15. §-a iktatta be.
-[^33]: Az 1. melléklet 6. pont 6.5. alpontját a 764/2021. (XII. 23.) Korm. rendelet 15. §-a iktatta be.
+[^33]: Az 1. melléklet 6. pont 6.5. alpontját a 764/2021. (XII. 23.) Korm. rendelet 15. §-a iktatta be, szövege a 276/2024. (IX. 26.) Korm. rendelet 3. §-a szerint módosított szöveg.
 [^34]: Az 1. melléklet 7. pont 7.2. alpontját a 764/2021. (XII. 23.) Korm. rendelet 15. §-a hatályon kívül helyezte.
