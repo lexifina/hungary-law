@@ -40,6 +40,9 @@ Az atomenergia alkalmazása körében személyek foglalkoztatásához szüksége
 
 2.2. dátum;
 
-2.3. foglalkoztatni kívánt személy sajátkezű aláírását,
+2.3.[^6]
 
-2.4. kérelmet benyújtó szervezet cégszerű aláírása.
+2.4.[^7]
+
+[^6]: Az 1. melléklet 2. pont 2.3. alpontját a 43/2024. (IX. 19.) BM rendelet 2. §-a hatályon kívül helyezte.
+[^7]: Az 1. melléklet 2. pont 2.4. alpontját a 43/2024. (IX. 19.) BM rendelet 2. §-a hatályon kívül helyezte.

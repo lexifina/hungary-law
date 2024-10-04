@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-47-20-0
 | 2012-10-13 | 2012-47-20-0A.2 | 2010: CXXX. törvény |
 | 2018-01-01 | 2012-47-20-0A.3 | 44/2017. (XII. 29.) BM rendelet |
 | 2023-01-01 | 2012-47-20-0A.4 | 45/2022. (XII. 20.) BM rendelet |
+| 2024-10-04 | 2012-47-20-0A.5 | 43/2024. (IX. 19.) BM rendelet |
