@@ -30,4 +30,6 @@
 
 ## 14. hátoldalon tudnivalók, hivatalos bejegyzések.
 
-9. melléklet a 9/2024. (II. 29.) BM rendelethez
+9. melléklet a 9/2024. (II. 29.) BM rendelethez[^3]
+
+[^3]: A 9. melléklet a 43/2024. (IX. 19.) BM rendelet 4. § a) pontjával megállapított szöveg.
