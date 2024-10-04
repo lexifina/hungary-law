@@ -1,8 +1,8 @@
 4. § (1) A KEHTA-hoz való kapcsolódást a Hatóság az Adatkapun keresztül biztosítja a szolgáltató számára annak Ügyfélkapu regisztrációval rendelkező, kijelölt KEHTA kapcsolattartói útján.
 
-(2) A Hatóság az Ügyfélkapu biztonságos tárhely szolgáltatásán keresztül, elektronikus úton értesíti a szolgáltató KEHTA kapcsolattartóit a büntető ügyben eljáró bíróság, illetve a külön törvényben meghatározott hatóság hozzáférés megakadályozásáról szóló határozatáról.
+(2)[^1] A Hatóság a hivatalos elérhetőségükön, elektronikus úton értesíti a szolgáltató KEHTA kapcsolattartóit a büntető ügyben eljáró bíróság, illetve a külön törvényben meghatározott hatóság hozzáférés megakadályozásáról szóló határozatáról.
 
-(3)[^1] Az értesítés körében a Hatóság az Ügyfélkapu szolgáltatásainak felhasználásával, elektronikusan küldi meg a hozzáférés megakadályozásáról, illetve annak megszüntetéséről szóló bírósági határozatot és a bíróság, illetve a külön törvényben meghatározott hatóság határozatának végrehajtásához szükséges adatokat a szolgáltató KEHTA kapcsolattartói részére.
+(3)[^2] Az értesítés körében a Hatóság az Ügyfélkapu szolgáltatásainak felhasználásával, elektronikusan küldi meg a hozzáférés megakadályozásáról, illetve annak megszüntetéséről szóló bírósági határozatot és a bíróság, illetve a külön törvényben meghatározott hatóság határozatának végrehajtásához szükséges adatokat a szolgáltató KEHTA kapcsolattartói részére.
 
 (4) A szolgáltató KEHTA kapcsolattartói számára az Ügyfélkapu külön elektronikus levelet küld, ha a Hatóság a szolgáltató részére a (3) bekezdés szerinti adatokat küldött.
 
@@ -22,4 +22,7 @@ c) változatlansága igazolható (adatintegritás),
 
 d) a jogosulatlan hozzáférés ellen védett (adat bizalmassága)
 
-[^1]: A 4. § (3) bekezdése 13/2017. (XII. 29.) NMHH rendelet 11. §-a szerint módosított szöveg.
+legyen.
+
+[^1]: A 4. § (2) bekezdése a 9/2024. (X. 3.) NMHH rendelet 9. §-a szerint módosított szöveg.
+[^2]: A 4. § (3) bekezdése 13/2017. (XII. 29.) NMHH rendelet 11. §-a szerint módosított szöveg.

@@ -10,8 +10,8 @@ ba) keresőszolgáltatás és gyorsítótárolás szolgáltatást nyújtó, vagy
 
 bb) a Magyarországon elektronikus hírközlési szolgáltatásként internet-hozzáférést (egyszerű adatátvitelt és hozzáférést) biztosító szolgáltatást nyújtó
 
-## természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet közvetítő szolgáltatókra (a továbbiakban: szolgáltató)
+természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet közvetítő szolgáltatókra (a továbbiakban: szolgáltató)
 
-## terjed ki.
+terjed ki.
 
 (2) A központi elektronikus hozzáférhetetlenné tételi határozatok adatbázisa (a továbbiakban: KEHTA) a Hatóság által üzemeltetett nem hatósági nyilvántartás.
