@@ -1,3 +1,3 @@
-11. melléklet a 184/2017. (VII. 5.) Korm. rendelethez[^30]
+11. melléklet a 184/2017. (VII. 5.) Korm. rendelethez[^35]
 
-[^30]: A 11. mellékletet az 572/2020. (XII. 9.) Korm. rendelet 108. §-a hatályon kívül helyezte.
+[^35]: A 11. mellékletet az 572/2020. (XII. 9.) Korm. rendelet 108. §-a hatályon kívül helyezte.

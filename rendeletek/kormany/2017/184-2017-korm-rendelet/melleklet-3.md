@@ -1,12 +1,12 @@
 3. melléklet a 184/2017. (VII. 5.) Korm. rendelethez
 
-## A magzati halálozással összefüggő adatfelvételi lapok adattartalma
+A magzati halálozással összefüggő adatfelvételi lapok adattartalma
 
 1. Az egészségügyi intézmény adatai
 
 2. A várandós nő
 
-2.1.[^21] neve, születési neve
+2.1.[^24] neve, születési neve
 
 2.2. születésének helye, időpontja
 
@@ -44,4 +44,4 @@
 
 5. A várandós nő ápolására vonatkozó adatok
 
-[^21]: A 3. melléklet 2.1. pontja a 273/2019. (XI. 20.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^24]: A 3. melléklet 2.1. pontja a 273/2019. (XI. 20.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.

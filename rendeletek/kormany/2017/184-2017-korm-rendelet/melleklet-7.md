@@ -1,8 +1,8 @@
 7. melléklet a 184/2017. (VII. 5.) Korm. rendelethez
 
-## A bejegyzett élettársi kapcsolat megszűnése lap adattartalma a kötelék felbontása kérdésében jogerőre emelkedett ítéletről
+A bejegyzett élettársi kapcsolat megszűnése lap adattartalma a kötelék felbontása kérdésében jogerőre emelkedett ítéletről
 
-1.[^26] Anyakönyvi azonosító, az eseményazonosító
+1.[^29] Anyakönyvi azonosító, az eseményazonosító
 
 2. A bejegyzés helye, időpontja
 
@@ -14,7 +14,7 @@
 
 6. A bejegyzett élettársak adatai
 
-6.1.[^27] születési családi és utóneve
+6.1.[^30] születési családi és utóneve
 
 6.2. neme
 
@@ -48,5 +48,5 @@
 
 13. A perben vagyonjogi igényt érvényesítettek-e
 
-[^26]: A 7. melléklet 1. pontja a 273/2019. (XI. 20.) Korm. rendelet 2. § (7) bekezdése szerint módosított szöveg.
-[^27]: A 7. melléklet 6.1. pontja a 273/2019. (XI. 20.) Korm. rendelet 2. § (7) bekezdésével megállapított szöveg.
+[^29]: A 7. melléklet 1. pontja a 273/2019. (XI. 20.) Korm. rendelet 2. § (7) bekezdése szerint módosított szöveg.
+[^30]: A 7. melléklet 6.1. pontja a 273/2019. (XI. 20.) Korm. rendelet 2. § (7) bekezdésével megállapított szöveg.

@@ -1,8 +1,8 @@
 4. melléklet a 184/2017. (VII. 5.) Korm. rendelethez
 
-## A házassági lap adattartalma
+A házassági lap adattartalma
 
-1.[^22] Anyakönyvi azonosító, az eseményazonosító
+1.[^25] Anyakönyvi azonosító, az eseményazonosító
 
 2. A házasságkötés helye, időpontja
 
@@ -32,4 +32,4 @@
 
 3.12. foglalkozása, munkaköre, foglalkozási viszonya
 
-[^22]: A 4. melléklet 1. pontja a 273/2019. (XI. 20.) Korm. rendelet 2. § (4) bekezdése szerint módosított szöveg.
+[^25]: A 4. melléklet 1. pontja a 273/2019. (XI. 20.) Korm. rendelet 2. § (4) bekezdése szerint módosított szöveg.
