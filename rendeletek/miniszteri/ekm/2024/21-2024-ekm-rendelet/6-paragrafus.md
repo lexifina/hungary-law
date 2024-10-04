@@ -1,3 +1,3 @@
-6. §[^5]
+6. §[^6]
 
-[^5]: A 6. § a 17. § (3) bekezdése alapján 2024. december 15-én lép hatályba.
+[^6]: A 6. § a 17. § (3) bekezdése alapján 2024. december 15-én lép hatályba.
