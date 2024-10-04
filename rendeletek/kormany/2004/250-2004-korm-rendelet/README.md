@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-250-20-
 | 2022-07-01 | 2004-250-20-22.19 | 764/2021. (XII. 23.) Korm. rendelet |
 | 2023-01-01 | 2004-250-20-22.20 | 616/2022. (XII. 29.) Korm. rendelet |
 | 2024-03-01 | 2004-250-20-22.21 | 115/2007. (V. 24.) Korm. rendelet |
+| 2024-10-04 | 2004-250-20-22.22 | 477/2016. (XII. 27.) Korm. rendelet |

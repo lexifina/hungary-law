@@ -1,3 +1,6 @@
 ## 48. §[^87] A végrehajtó a felszámolói értesítés kézbesítése iránti kérelem teljesítését – a 6. § (4) bekezdés b)–g) pontjában és a 46/B. § (4) bekezdésében foglaltakon túl – abban az esetben tagadhatja meg, ha a kérelemből megállapítható, hogy a felszámolási eljárás a végrehajtói kézbesítés részletes eljárási szabályairól szóló 250/2004. (VIII. 27.) Korm. rendelet módosításáról szóló 238/2009. (X. 20.) Korm. rendelet hatálybalépését megelőzően indult.
 
+49. §[^88]
+
 [^87]: A 48. §-t a 221/2014. (IX. 4.) Korm. rendelet 281. §-a iktatta be.
+[^88]: A 49. §-t a 477/2016. (XII. 27.) Korm. rendelet 31. § (5) bekezdése iktatta be, a 276/2024. (IX. 26.) Korm. rendelet 2. §-a hatályon kívül helyezte.
