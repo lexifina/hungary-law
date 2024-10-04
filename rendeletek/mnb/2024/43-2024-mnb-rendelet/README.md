@@ -1,0 +1,9 @@
+# 43/2024. (IX. 19.) MNB rendelet
+
+a forint- és az eurobankjegyek utánzatáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-43-20-2C
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2024-10-04 | 2024-43-20-2C.1 | 43/2024. (IX. 19.) MNB rendelet |
