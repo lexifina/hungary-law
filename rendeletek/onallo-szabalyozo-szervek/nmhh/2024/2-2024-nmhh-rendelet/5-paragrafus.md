@@ -10,6 +10,6 @@ c) a tulajdonos a reklámeszköz egyedi azonosító elhelyezését elmulasztja, 
 
 d) a jogi személy tulajdonos jogutód nélkül megszűnt, vagy
 
-e)[^1]
+e)[^2]
 
-[^1]: Az 5. § (2) bekezdés e) pontja a 8. § (3) bekezdés alapján 2025. január 1-jén lép hatályba.
+[^2]: Az 5. § (2) bekezdés e) pontja a 8. § (3) bekezdés alapján 2025. január 1-jén lép hatályba.

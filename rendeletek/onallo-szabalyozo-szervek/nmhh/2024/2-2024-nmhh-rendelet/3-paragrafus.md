@@ -26,10 +26,12 @@ a) nyilatkozatot a reklámeszköz magán- vagy közterületen történő elhelye
 
 b) 1 db közeli és 1 db távoli látószögből a reklámeszközről elkészített, annak egyértelmű beazonosítására alkalmas, a Hatóság honlapján közzétett méret és minőségi paraméter szerinti digitális fényképet.
 
-(3) Az országos reklámkataszter – a településkép védelméről szóló 2016. évi LXXIV. törvény 11/A. § (6) bekezdésében meghatározott adatok mellett – az (1) bekezdés b) pont be) és bf) alpontja szerinti adatokat, a (2) bekezdés a) pontja szerinti nyilatkozatokat és a (2) bekezdés b) pontja szerinti fényképeket tartalmazza.
+(3)[^1] Az országos reklámkataszter – a magyar építészetről szóló 2023. évi C. törvény 104. § (9) bekezdésében meghatározott adatok mellett – az (1) bekezdés b) pont be) és bf) alpontja szerinti adatokat, a (2) bekezdés a) pontja szerinti nyilatkozatokat és a (2) bekezdés b) pontja szerinti fényképeket tartalmazza.
 
 (4) A Hivatal a reklámeszközt a reklámeszköztípusok Hivatal által kialakított és közzétett osztályozása szerint jegyzi be a nyilvántartásba.
 
 (5) A Hivatal a nyilvántartásba vett reklámeszközt egyedi azonosítóval (a továbbiakban: reklámeszköz egyedi azonosító) látja el.
 
 (6) A reklámeszköz egyedi azonosítót a nyilvántartásba vételtől számított kilencven napon belül – időtálló és az időjárási körülményektől függetlenül egyszerűen leolvasható módon, az eszközhöz igazodó méretben és formában – kell elhelyezni a reklámeszközön.
+
+[^1]: A 3. § (3) bekezdése a 9/2024. (X. 3.) NMHH rendelet 11. §-a szerint módosított szöveg.
