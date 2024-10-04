@@ -1,4 +1,4 @@
-## 15. §[^55] Fontos és indokolt nemzetbiztonsági, védelmi, kormányzati, közbiztonsági, közigazgatási érdekből a Hivatal – egyeztetést követően – módosíthatja a rádióengedélyben szereplő feltételeket vagy azokat – az engedélyes előzetes értesítésével – ideiglenesen időben, területileg, vagy paramétereiben korlátozza.
+## 15. §[^56] Fontos és indokolt nemzetbiztonsági, védelmi, kormányzati, közbiztonsági, közigazgatási érdekből a Hivatal – egyeztetést követően – módosíthatja a rádióengedélyben szereplő feltételeket vagy azokat – az engedélyes előzetes értesítésével – ideiglenesen időben, területileg, vagy paramétereiben korlátozza.
 
 16. § (1) Az engedélyes a rádióengedély előírásainak betartását az üzemeltető vagy a kezelő által biztosítja.
 
@@ -36,7 +36,7 @@ a) a helyszíni ellenőrzés alkalmával a (2) bekezdés szerinti okmányok vala
 
 b) a rádióengedélyben meghatározott előírások és feltételek teljesülését tervszerűen – eltérés feltételezése esetén soron kívül – ellenőrzi, vagy az ellenőrzés lefolytatása iránt intézkedik, és az ellenőrzésről készült jegyzőkönyvet az ellenőrzés tárgyát képező következő ellenőrzés jegyzőkönyvének elkészültéig megőrzi.
 
-(4)[^56] Az (1)–(3) bekezdésben foglaltakat nem kell alkalmazni az egyszerűsített rádióengedély alapján üzemben tartott rádiórendszerekre.
+(4)[^57] Az (1)–(3) bekezdésben foglaltakat nem kell alkalmazni az egyszerűsített rádióengedély alapján üzemben tartott rádiórendszerekre.
 
-[^55]: A 15. § az 1/2015. (III. 17.) NMHH rendelet 18. § (2) bekezdés e) pontja szerint módosított szöveg.
-[^56]: A 16. § (4) bekezdését a 8/2017. (VII. 28.) NMHH rendelet 7. §-a iktatta be.
+[^56]: A 15. § az 1/2015. (III. 17.) NMHH rendelet 18. § (2) bekezdés e) pontja szerint módosított szöveg.
+[^57]: A 16. § (4) bekezdését a 8/2017. (VII. 28.) NMHH rendelet 7. §-a iktatta be.

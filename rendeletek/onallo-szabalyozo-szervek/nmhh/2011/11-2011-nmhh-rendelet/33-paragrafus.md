@@ -1,6 +1,6 @@
-## 32. §[^89] A Hivatal – a felhasználó kérelmére – a távlati tervezéshez adatot szolgáltat.
+## 32. §[^91] A Hivatal – a felhasználó kérelmére – a távlati tervezéshez adatot szolgáltat.
 
-33. § (1)[^90] A Hivatal – a felhasználó kérelmére – tervezési célra, a frekvenciahasználat előkészítéséhez megadja a rádiórendszer tervezéséhez szükséges adatokat, és meghatározza
+33. § (1)[^92] A Hivatal – a felhasználó kérelmére – tervezési célra, a frekvenciahasználat előkészítéséhez megadja a rádiórendszer tervezéséhez szükséges adatokat, és meghatározza
 
 a) a tervezéshez kijelölhető frekvenciasávot, sávrészt vagy frekvenciát, csatornát,
 
@@ -16,8 +16,8 @@ f) a szolgáltatott adatok érvényességének határidejét,
 
 g) egyéb adat, nyilatkozat és okirat eredeti vagy másolatban történő benyújtásának igényét.
 
-(2)[^91] A közbeszerzési eljárás megindításának érdekében kért tervezési adatszolgáltatás keretében a Hivatal csak az (1) bekezdés a)–b) és f) pontjában leírtakat határozza meg.
+(2)[^93] A közbeszerzési eljárás megindításának érdekében kért tervezési adatszolgáltatás keretében a Hivatal csak az (1) bekezdés a)–b) és f) pontjában leírtakat határozza meg.
 
-[^89]: A 32. § az 1/2015. (III. 17.) NMHH rendelet 18. § (5) bekezdés g) pontja szerint módosított szöveg.
-[^90]: A 33. § (1) bekezdés nyitó szövegrésze az 1/2015. (III. 17.) NMHH rendelet 18. § (5) bekezdés g) pontja szerint módosított szöveg.
-[^91]: A 33. § (2) bekezdése az 1/2015. (III. 17.) NMHH rendelet 18. § (5) bekezdés g) pontja szerint módosított szöveg.
+[^91]: A 32. § az 1/2015. (III. 17.) NMHH rendelet 18. § (5) bekezdés g) pontja szerint módosított szöveg.
+[^92]: A 33. § (1) bekezdés nyitó szövegrésze az 1/2015. (III. 17.) NMHH rendelet 18. § (5) bekezdés g) pontja szerint módosított szöveg.
+[^93]: A 33. § (2) bekezdése az 1/2015. (III. 17.) NMHH rendelet 18. § (5) bekezdés g) pontja szerint módosított szöveg.

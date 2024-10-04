@@ -1,4 +1,4 @@
-5. § (1)[^30] A 4. §-ban foglaltak kivételével a rádióberendezés, rádiórendszer telepítéséhez frekvenciakijelölés szükséges. A frekvenciakijelölési eljárást a Hivatal kérelemre folytatja le. Az eljárást megelőzően a Hivatal – a felhasználó kérelmére – a 33. § (1) bekezdése szerinti tervezési adatszolgáltatást nyújt.
+5. § (1)[^31] A 4. §-ban foglaltak kivételével a rádióberendezés, rádiórendszer telepítéséhez frekvenciakijelölés szükséges. A frekvenciakijelölési eljárást a Hivatal kérelemre folytatja le. Az eljárást megelőzően a Hivatal – a felhasználó kérelmére – a 33. § (1) bekezdése szerinti tervezési adatszolgáltatást nyújt.
 
 (2) A kérelem tartalmazza:
 
@@ -22,7 +22,7 @@ ed) igényelt frekvencia,
 
 ee) a rádióállomás telepítési, sugárzási jellemzői, mozgó vagy hordozható állomás esetén az üzemben tartás körzete is,
 
-ef)[^31] beilleszkedésvizsgálat, illetve zavartatásanalízis eredménye és értékei,
+ef)[^32] beilleszkedésvizsgálat, illetve zavartatásanalízis eredménye és értékei,
 
 eg) nemzetközi és hazai koordinációk lefolytatásához szükséges adatok,
 
@@ -42,13 +42,13 @@ en) a közegészségügyi jogszabályokba foglalt követelmények betartására 
 
 f) amennyiben nem készül műszaki terv, a frekvenciasáv, a csatorna- vagy a frekvenciahasználat egyéb jellemzőinek kiválasztását indokoló, valamennyi tényt és körülményt;
 
-g)[^32] a rádióberendezés megfelelőségét igazoló okirat másolatát.
+g)[^33] a rádióberendezés megfelelőségét igazoló okirat másolatát.
 
-(3)[^33] A Hivatal a felhasználót – kérelemre – felhasználói gazdálkodásra feljogosítja, ha az alkalmazás körülményei ezt lehetővé teszik.
+(3)[^34] A Hivatal a felhasználót – kérelemre – felhasználói gazdálkodásra feljogosítja, ha az alkalmazás körülményei ezt lehetővé teszik.
 
 (4) A műszaki tervbe foglalt adatokat a kérelemben nem kell külön szerepeltetni.
 
-[^30]: Az 5. § (1) bekezdése az 1/2015. (III. 17.) NMHH rendelet 18. § (2) bekezdés d) pontja szerint módosított szöveg.
-[^31]: Az 5. § (2) bekezdés e) pont ef) alpontja a 7/2017. (VII. 28.) NMHH rendelet 8. § (3) bekezdésével megállapított szöveg.
-[^32]: Az 5. § (2) bekezdés g) pontját a 7/2017. (VII. 28.) NMHH rendelet 8. § (4) bekezdése iktatta be.
-[^33]: Az 5. § (3) bekezdése az 1/2015. (III. 17.) NMHH rendelet 18. § (2) bekezdés e) pontja szerint módosított szöveg.
+[^31]: Az 5. § (1) bekezdése az 1/2015. (III. 17.) NMHH rendelet 18. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^32]: Az 5. § (2) bekezdés e) pont ef) alpontja a 7/2017. (VII. 28.) NMHH rendelet 8. § (3) bekezdésével megállapított szöveg.
+[^33]: Az 5. § (2) bekezdés g) pontját a 7/2017. (VII. 28.) NMHH rendelet 8. § (4) bekezdése iktatta be.
+[^34]: Az 5. § (3) bekezdése az 1/2015. (III. 17.) NMHH rendelet 18. § (2) bekezdés e) pontja szerint módosított szöveg.

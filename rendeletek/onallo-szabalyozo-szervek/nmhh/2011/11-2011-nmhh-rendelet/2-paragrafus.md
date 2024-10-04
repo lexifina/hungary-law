@@ -2,37 +2,37 @@
 
 2. § (1) E rendelet alkalmazásában:
 
-1.[^5] egyszerűsített rádióengedély: a nemzeti frekvenciafelosztásról, valamint a frekvenciasávok felhasználási szabályairól szóló NMHH rendeletben meghatározott frekvenciák használati jogának – kizárólag elektronikus úton tett bejelentés alapján történő, egyedi engedélynek minősülő – hatósági nyilvántartásba vétele;
+1.[^6] egyszerűsített rádióengedély: a nemzeti frekvenciafelosztásról, valamint a frekvenciasávok felhasználási szabályairól szóló NMHH rendeletben meghatározott frekvenciák használati jogának – kizárólag elektronikus úton tett bejelentés alapján történő, egyedi engedélynek minősülő – hatósági nyilvántartásba vétele;
 
-2.[^6] EMC vizsgálat: az egyes rádiószolgálatok és rádióberendezéseik, valamint rádiórendszerek és más elektronikus hírközlő hálózatok elektromágneses összeférhetőségének, egymásra gyakorolt hatásának vizsgálata a kölcsönös zavarmentes működés feltételeinek megállapítása céljából;
+2.[^7] EMC vizsgálat: az egyes rádiószolgálatok és rádióberendezéseik, valamint rádiórendszerek és más elektronikus hírközlő hálózatok elektromágneses összeférhetőségének, egymásra gyakorolt hatásának vizsgálata a kölcsönös zavarmentes működés feltételeinek megállapítása céljából;
 
-2a.[^7] felhasználói igazolás: a vállalkozó részére kiállított okirat, amelyben a felhasználó igazolja, hogy az adott rádióberendezés, rádiórendszer fejlesztését, gyártását, egyedileg történő előállítását szervezete részére indokoltnak tartja. Az igazolás kiadásával a felhasználónak nem keletkezik a beszerzésre kötelezettsége;
+2a.[^8] felhasználói igazolás: a vállalkozó részére kiállított okirat, amelyben a felhasználó igazolja, hogy az adott rádióberendezés, rádiórendszer fejlesztését, gyártását, egyedileg történő előállítását szervezete részére indokoltnak tartja. Az igazolás kiadásával a felhasználónak nem keletkezik a beszerzésre kötelezettsége;
 
-3.[^8] felhasználót azonosító adat: a felhasználó megnevezése, székhelye, levelezési címe, képviselőjének neve, telefonszáma, elektronikus levelezési címe;
+3.[^9] felhasználót azonosító adat: a felhasználó megnevezése, székhelye, levelezési címe, képviselőjének neve, telefonszáma, elektronikus levelezési címe;
 
-4.[^9]
+4.[^10]
 
 5. keret-rádióengedély: olyan rádióengedély, amely lehetővé teszi a rádiórendszerek üzemben tartását azoknál a rádiószolgálati alkalmazásoknál, amelyeknél a felhasználás frekvenciajegyzék szerinti, vagy a frekvenciakijelölés felhasználói gazdálkodásra jogosít;
 
 6. különleges eseti frekvenciajegyzék: rádiórendszerek által kizárólag a rendkívüli állapot, a szükségállapot, a megelőző védelmi helyzet vagy váratlan támadás esetén alkalmazható és erre a célra kijelölt frekvenciákat tartalmazó jegyzék;
 
-6a.[^10] légiközlekedés: a légiközlekedésről szóló törvény által meghatározott fogalom;
+6a.[^11] légiközlekedés: a légiközlekedésről szóló törvény által meghatározott fogalom;
 
-6b.[^11] légiközlekedési célú fedélzeti rádióberendezés: légijárművön való alkalmazásra gyártott, a légiforgalom és a légi rádiónavigáció, valamint a vészjelzés, kutatás és mentés céljára felosztott frekvenciát használó rádióberendezés;
+6b.[^12] légiközlekedési célú fedélzeti rádióberendezés: légijárművön való alkalmazásra gyártott, a légiforgalom és a légi rádiónavigáció, valamint a vészjelzés, kutatás és mentés céljára felosztott frekvenciát használó rádióberendezés;
 
-7.[^12] NATO eljárás: a NATO illetékes szerve által elfogadott, a szövetséges és a békepartnerségi országok érvényes frekvencia igénylési és biztosítási rendszere;
+7.[^13] NATO eljárás: a NATO illetékes szerve által elfogadott, a szövetséges és a békepartnerségi országok érvényes frekvencia igénylési és biztosítási rendszere;
 
 8. rádiómérés: mindazon mérések összessége, melyeket az ellenőrzés, a zavarelhárítás, a rádiófelderítés, a rádiómegfigyelés és egyéb mérőszolgálati tevékenységek ellátása érdekében hajtanak végre;
 
-9.[^13]
+9.[^14]
 
 10. üzemeltetés: rádiórendszer, rádióberendezés rendeltetés szerinti működtetése;
 
 11. üzemeltető: rádiórendszer, rádióberendezés, nagyfrekvenciás villamos berendezés, nagyfrekvenciás jelet vagy mellékhatást keltő berendezés, valamint egyéb villamos vagy elektronikus berendezések és a hozzájuk kapcsolódó elektronikus eszközök feletti rendelkezési jogot és a rádiófrekvencia használati jogát gyakorló, azok üzemeltetését, üzemben tartását végző természetes vagy jogi személy, vagy jogi személyiséggel nem rendelkező egyéb szervezet;
 
-11a.[^14] víziközlekedés: a víziközlekedésről szóló törvény által meghatározott fogalom;
+11a.[^15] víziközlekedés: a víziközlekedésről szóló törvény által meghatározott fogalom;
 
-11b.[^15] víziközlekedési célú fedélzeti rádióberendezés: úszólétesítményen való alkalmazásra gyártott a víziközlekedés forgalma és a rádiónavigáció, valamint a vészjelzés, kutatás és mentés céljára felosztott frekvenciát használó rádióberendezés;
+11b.[^16] víziközlekedési célú fedélzeti rádióberendezés: úszólétesítményen való alkalmazásra gyártott a víziközlekedés forgalma és a rádiónavigáció, valamint a vészjelzés, kutatás és mentés céljára felosztott frekvenciát használó rádióberendezés;
 
 12. zavar: adás, sugárzás vagy indukció, illetve ezek valamely kombinációja következtében fellépő nem kívánt elektromágneses energiának valamely rádiórendszerben a vételre gyakorolt káros hatása, amely az átvitel, illetve a vétel minőségének olyan romlásában, az információ olyan torzulásában vagy veszteségében jelentkezik, ami elkerülhető lett volna ezen nem kívánt energia megjelenése nélkül;
 
@@ -42,17 +42,17 @@
 
 15. zavarvizsgálat: a zavarelhárítás érdekében végzett rádiómérések, vizsgálatok, adatgyűjtések és elemzések összessége.
 
-(2)[^16] Az e rendeletben alkalmazott egyéb frekvenciagazdálkodási fogalmakra az elektronikus hírközlésről szóló 2003. évi C. törvény (a továbbiakban: Eht.) és a nemzeti frekvenciafelosztásról, valamint a frekvenciasávok felhasználási szabályairól szóló NMHH rendelet (a továbbiakban: NFFF) fogalom-meghatározásai az irányadók.
+(2)[^17] Az e rendeletben alkalmazott egyéb frekvenciagazdálkodási fogalmakra az elektronikus hírközlésről szóló 2003. évi C. törvény (a továbbiakban: Eht.) és a nemzeti frekvenciafelosztásról, valamint a frekvenciasávok felhasználási szabályairól szóló NMHH rendelet (a továbbiakban: NFFF) fogalom-meghatározásai az irányadók.
 
-[^5]: A 2. § (1) bekezdése a 8/2017. (VII. 28.) NMHH rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^6]: A 2. § (1) bekezdés 2. pontját a 2/2016. (II. 26.) NMHH rendelet 19. § a) pontja hatályon kívül helyezte, újonnan a 8/2017. (VII. 28.) NMHH rendelet 3. § (1) bekezdése iktatta be.
-[^7]: A 2. § (1) bekezdés 2a. pontját a 10/2013. (IX. 19.) NMHH rendelet 4. § (2) bekezdése iktatta be.
-[^8]: A 2. § (1) bekezdés 3. pontját a 2/2016. (II. 26.) NMHH rendelet 19. § a) pontja hatályon kívül helyezte, újonnan a 8/2017. (VII. 28.) NMHH rendelet 3. § (2) bekezdése iktatta be.
-[^9]: A 2. § (1) bekezdés 4. pontját a 2/2016. (II. 26.) NMHH rendelet 19. § a) pontja hatályon kívül helyezte.
-[^10]: A 2. § (1) bekezdés 6a. pontját az 1/2015. (III. 17.) NMHH rendelet 7. §-a iktatta be. E módosító rendelet 34. § (2) bekezdése alapján a 2015. március 18-át követően indult ügyekben és a megismételt eljárásokban kell alkalmazni.
-[^11]: A 2. § (1) bekezdés 6b. pontját az 1/2015. (III. 17.) NMHH rendelet 7. §-a iktatta be, szövege a 7/2017. (VII. 28.) NMHH rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^12]: A 2. § (1) bekezdés 7. pontja az 1/2013. (I. 7.) NMHH rendelet 11. § (5) bekezdésével megállapított szöveg.
-[^13]: A 2. § (1) bekezdés 9. pontját a 2/2016. (II. 26.) NMHH rendelet 19. § a) pontja hatályon kívül helyezte.
-[^14]: A 2. § (1) bekezdés 11a. pontját az 1/2015. (III. 17.) NMHH rendelet 7. §-a iktatta be. E módosító rendelet 34. § (2) bekezdése alapján a 2015. március 18-át követően indult ügyekben és a megismételt eljárásokban kell alkalmazni.
-[^15]: A 2. § (1) bekezdés 11b. pontját az 1/2015. (III. 17.) NMHH rendelet 7. §-a iktatta be, szövege a 7/2017. (VII. 28.) NMHH rendelet 8. § (2) bekezdésével megállapított szöveg.
-[^16]: A 2. § (2) bekezdése az 1/2013. (I. 7.) NMHH rendelet 11. § (6) bekezdésével megállapított, a 2/2016. (II. 26.) NMHH rendelet 18. § a) pontja szerint módosított szöveg.
+[^6]: A 2. § (1) bekezdése a 8/2017. (VII. 28.) NMHH rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^7]: A 2. § (1) bekezdés 2. pontját a 2/2016. (II. 26.) NMHH rendelet 19. § a) pontja hatályon kívül helyezte, újonnan a 8/2017. (VII. 28.) NMHH rendelet 3. § (1) bekezdése iktatta be.
+[^8]: A 2. § (1) bekezdés 2a. pontját a 10/2013. (IX. 19.) NMHH rendelet 4. § (2) bekezdése iktatta be.
+[^9]: A 2. § (1) bekezdés 3. pontját a 2/2016. (II. 26.) NMHH rendelet 19. § a) pontja hatályon kívül helyezte, újonnan a 8/2017. (VII. 28.) NMHH rendelet 3. § (2) bekezdése iktatta be.
+[^10]: A 2. § (1) bekezdés 4. pontját a 2/2016. (II. 26.) NMHH rendelet 19. § a) pontja hatályon kívül helyezte.
+[^11]: A 2. § (1) bekezdés 6a. pontját az 1/2015. (III. 17.) NMHH rendelet 7. §-a iktatta be. E módosító rendelet 34. § (2) bekezdése alapján a 2015. március 18-át követően indult ügyekben és a megismételt eljárásokban kell alkalmazni.
+[^12]: A 2. § (1) bekezdés 6b. pontját az 1/2015. (III. 17.) NMHH rendelet 7. §-a iktatta be, szövege a 7/2017. (VII. 28.) NMHH rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^13]: A 2. § (1) bekezdés 7. pontja az 1/2013. (I. 7.) NMHH rendelet 11. § (5) bekezdésével megállapított szöveg.
+[^14]: A 2. § (1) bekezdés 9. pontját a 2/2016. (II. 26.) NMHH rendelet 19. § a) pontja hatályon kívül helyezte.
+[^15]: A 2. § (1) bekezdés 11a. pontját az 1/2015. (III. 17.) NMHH rendelet 7. §-a iktatta be. E módosító rendelet 34. § (2) bekezdése alapján a 2015. március 18-át követően indult ügyekben és a megismételt eljárásokban kell alkalmazni.
+[^16]: A 2. § (1) bekezdés 11b. pontját az 1/2015. (III. 17.) NMHH rendelet 7. §-a iktatta be, szövege a 7/2017. (VII. 28.) NMHH rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^17]: A 2. § (2) bekezdése az 1/2013. (I. 7.) NMHH rendelet 11. § (6) bekezdésével megállapított, a 2/2016. (II. 26.) NMHH rendelet 18. § a) pontja szerint módosított szöveg.

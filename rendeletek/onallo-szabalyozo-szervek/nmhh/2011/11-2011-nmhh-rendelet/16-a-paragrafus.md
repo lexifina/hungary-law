@@ -1,8 +1,8 @@
-## 5/A. [^57] Egyszerűsített rádióengedély
+## 5/A. [^58] Egyszerűsített rádióengedély
 
 16/A. § (1) Az NFFF szerint egyszerűsített rádióengedélyezési eljárás alá tartozó frekvencia használatára vonatkozó igényt a felhasználónak nyilvántartásba vétel céljából be kell jelentenie a Hivatalnak.
 
-(2) A felhasználó bejelentését az NMHH internetes honlapján elérhető elektronikus űrlapon – az ügyfélkapun történt azonosítást követően – nyújthatja be.
+(2)[^59] A felhasználó bejelentését az NMHH internetes honlapján elérhető elektronikus űrlapon – elektronikus azonosítást követően – nyújthatja be.
 
 (3) A bejelentés tartalmazza
 
@@ -18,4 +18,5 @@ amelyek a (2) bekezdés szerinti űrlapon nyújtandók be.
 
 (5) A Hivatal a 34. § (3) bekezdése szerint nyilvántartásba vett adatokról, valamint az egyszerűsített rádióengedély érvényességi idejéről elektronikus úton visszaigazolást küld a felhasználónak.
 
-[^57]: Az 5/A. alcímet (16/A. §) a 8/2017. (VII. 28.) NMHH rendelet 8. §-a iktatta be.
+[^58]: Az 5/A. alcímet (16/A. §) a 8/2017. (VII. 28.) NMHH rendelet 8. §-a iktatta be.
+[^59]: A 16/A. § (2) bekezdése a 9/2024. (X. 3.) NMHH rendelet 5. §-a szerint módosított szöveg.
