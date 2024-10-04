@@ -46,4 +46,6 @@ g) a kérelem benyújtását megelőzően a jogellenes tartalom észlelése, azo
 
 h) annak alátámasztását, hogy a jogellenes tartalom észlelése, azonosítása és a bejelentés benyújtása során milyen feltétel és eljárás biztosítja a kellő gondossággal történő pontos és tárgyilagos tevékenységet; és
 
-i) annak igazolását, hogy a működés átláthatósága és a jelzés – ha a kérelmező ennek lehetőségét biztosítja – a) pont ac) alpontja szerinti vizsgálata érdekében a 4. § (5) bekezdése szerinti feltételeknek megfelelő honlapot tart fenn.
+i)[^1] annak igazolását, hogy a működés átláthatósága és a jelzés – ha a kérelmező ennek lehetőségét biztosítja – a) pont ac) alpontja szerinti vizsgálata érdekében a 4. § (6) bekezdése szerinti feltételeknek megfelelő honlapot tart fenn.
+
+[^1]: A 3. § (5) bekezdés i) pontja a 9/2024. (X. 3.) NMHH rendelet 12. §-a szerint módosított szöveg.
