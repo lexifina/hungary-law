@@ -1,0 +1,38 @@
+# A Magyar Nemzeti Bank elnökének 46/2024. (X. 4.) MNB rendelete
+
+Magyar Közlöny 2024. évi 101. szám, 2024. október 4. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/34sIDjrMVBoc9wGCZkoJ66f9101a62636/dokumentumok/e83d959bca1dee9dd90edd5007143b5cb5fd5c35/letoltes)
+
+---
+
+A Magyar Nemzeti Bank elnökének 46/2024. (X. 4.) MNB rendelete
+Batthyány Lajos vértanúságának 175. évfordulója alkalmából 200 forintos címletű érme kibocsátásáról
+A Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 171. § (1) bekezdés d) pontjában kapott felhatalmazás alapján,
+a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 4. § (2) bekezdésében meghatározott feladatkörömben eljárva
+a következőket rendelem el:
+1. § (1) A Magyar Nemzeti Bank Batthyány Lajos vértanúságának 175. évfordulója alkalmából 200 forintos címletű érmét
+bocsát ki.
+(2) A kibocsátás időpontja: 2024. október 6.
+2. § (1) Az érme külső része (körgyűrű) réz (75%), nikkel (4%) és cink (21%) ötvözetéből, az érme belső része (mag) réz (75%)
+és nikkel (25%) ötvözetéből készült. Az érme külső átmérője 28,3 mm, a külső és belső rész találkozásánál az átmérő
+17,9 mm. Az érme peremvastagsága 2 mm, súlya 9 gramm, széle szaggatottan recézett.
+(2) Az érme előlapján – a külső rész szélén található gyöngysorszegélyt lent megszakítva – Batthyány Lajos Barabás
+Miklós olajfestménye alapján készült mellképének ábrázolása látható. A gyöngysorszegélyen belül, bal oldalon, lent,
+vízszintesen a„2024” verési évszám, fölötte, köriratban a„BATTHYÁNY”, jobb oldalon, köriratban a„MAGYARORSZÁG”
+felirat olvasható, a feliratokat fent, két vízszintes sorban Batthyány Lajos kivégzésének időpontját jelölő
+„† 1849. OKTÓBER 6.”felirat választja el egymástól. Az érme előlapjának képét az 1. melléklet tartalmazza.
+(3) Az érme hátlapjának belső részén a – kissé egymásra csúsztatott számjegyekből álló – „200” értékjelzés,
+az értékjelzés alatt a „FORINT” felirat olvasható. Az érme hátlapjának külső részén található gyöngysorszegélyt
+megszakítva, fent és lent 7-7 vonalból álló, függőleges irányú csíkozás látható és tapintható, amely részben a belső
+részben is folytatódik. A gyöngysorszegélyen belül, lent, jobb oldalon a„BP.”verdejel olvasható. Az érme hátlapjának
+képét a 2. melléklet tartalmazza.
+3. §
+Az érméből 1 000 000 darab készíthető.
+4. §
+Ez a rendelet 2024. október 6-án lép hatályba.
+ Dr. Matolcsy György s. k.,
+ a Magyar Nemzeti Bank elnöke
+
+1. melléklet a 46/2024. (X. 4.) MNB rendelethez
+Az érme előlapjának képe:
+2. melléklet a 46/2024. (X. 4.) MNB rendelethez
+Az érme hátlapjának képe:
