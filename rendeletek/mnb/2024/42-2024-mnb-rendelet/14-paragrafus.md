@@ -1,0 +1,1 @@
+14. § E rendelet 12. §-a az euroérmék közös oldalának formatervezési mintájára vonatkozó szerzői jogi védelemről szóló, 2011. február 10-i 2011/C 41/03 bizottsági közleménynek (HL C 41., 2011.2.10., 4–6. o.) való megfelelést szolgálja.
