@@ -1,32 +1,30 @@
 | A | B | C | D | E |
 
-| Sor- szám | A szolgáltató megnevezése | Telephelye | Védelmi feladatok ellátására kijelölt | Az ágazat ügyeleti rendszerébe bevont |
+| Sorszám | A szolgáltató megnevezése | Székhely | Védelmi feladatok ellátására kijelölt | Az ágazat ügyeleti rendszerébe bevont |
 
-| 1. | Antenna Hungária Magyar Műsorszóró és Rádióhírközlési Zrt. | 1119 Budapest, Petzvál József u. 31–33. | X | X |
+| 1. | Magyar Telekom Nyrt. | 1097 Budapest, Könyves Kálmán krt. 36. | X | X |
 
-| 2. | INVITEL Távközlési Zrt. | 1134 Budapest, Váci u. 37. | X | X |
+| 2. | MVM NET Zrt. | 1138 Budapest, Tomori utca 32. | X | X |
 
-| 3. | Magyar Telekom Távközlési Nyrt. | 1097 Budapest, Könyves Kálmán krt. 36. | X | X |
+| 3. | Yettel Magyarország Zrt. | 2045 Törökbálint, Pannon út 1. | X | X |
 
-| 4. | MVM Energetika Zrt. | 1031 Budapest, Szentendrei út 207–209. | X |  |
+| 4. | Pro-M Zrt. | 1107 Budapest, Száva u. 3–5. | X | X |
 
-| 5. | MVM NET Távközlési Szolgáltató Zrt. | 1119 Budapest, Petzvál József utca 31–33. | X | X |
+| 5. | TM Support Kft. | 1224 Budapest, Dózsa György út 77. | X |  |
 
-| 6. | Yettel Magyarország Zrt. | 2045 Törökbálint, Pannon út 1. | X | X |
+| 6. | Vodafone Magyarország Zrt. | 1112 Budapest, Boldizsár utca 2. | X | X |
 
-| 7. | Pro-M Professzionális Mobilrádió Zrt. | 1107 Budapest, Száva u. 3–5. | X | X |
+| 7. | Digi Távközlési és Szolgáltató Kft. | 1013 Budapest, Krisztina körút 39. | X | X |
 
-| 8. | TM Support Telekommunikációs Gyártó és Szolgáltató Kft. | 1224 Budapest, Dózsa György út 77. | X |  |
+| 8. | NISZ Zrt. | 1149 Budapest, Róna utca 52–80. | X | X |
 
-| 9. | Vodafone Magyarország Távközlési Zrt. | 1096 Budapest, Lechner Ödön fasor 6. | X | X |
+| 9. | Invitech ICT Services Kft. | 1013 Budapest, Krisztina körút 39. | X | X |
 
-| 10. | Digi Távközlési és Szolgáltató Kft. | 1134 Budapest, Váci út 35. | X | X |
+| 10. | D-Infrastruktúra Távközlési Kft. | 1013 Budapest, Krisztina körút 39. | X | X |
 
-| 11. | Nemzeti Infokommunikációs Szolgáltató Zrt. | 1081 Budapest, Csokonai u. 3. | X | X |
+| 11. | AH Média Kereskedelmi Zrt. | 1013 Budapest, Krisztina körút 39. | X | X |
 
-| 12. | eVision Kft. | 3078 Bátonyterenye, 2467/5. hrsz. | X |  |
-
-| 13. | Invitech ICT Services Kft. | 2040 Budaörs, Edison u. 4. | X | X |
+| 12. | AH Infrastruktúra Zrt. | 1013 Budapest, Krisztina körút 39. | X | X |
 
 2. melléklet a 3/2013. (I. 11.) NMHH rendelethez[^8]
 
@@ -38,7 +36,7 @@
 
 | neve | székhelye |
 
-| 1. | Duna Médiaszolgáltató Nonprofit Zrt. | 1038 | Budapest | Bojtár u. 41–47. | M1, M2, M4 SPORT, M5, Duna, Duna World/M4 SPORT+, Kossuth Rádió, Petőfi Rádió, Bartók Rádió, Dankó Rádió |
+| 1. | Duna Médiaszolgáltató Nonprofit Zrt. | 1038 | Budapest | Bojtár u. 41–47. | M1, M2, M4 SPORT, M5, Duna, Duna World / M4 SPORT+, Kossuth Rádió, Petőfi Rádió, Bartók Rádió, Dankó Rádió, Nemzeti Sportrádió[^9] |
 
 2. A riasztási és tájékoztatási feladat ellátásában részt vevő nem közszolgálati médiaszolgáltatók (beleértve az általuk ellátott hálózati adókat is)
 
@@ -76,7 +74,7 @@
 
 | 14. | Turul Média Kft. | 2800 | Tatabánya | Stúdium tér 1. | Forrás Rádió |
 
-| 15. | Gong Rádió Kft. | 6000 | Kecskemét | Petőfi Sándor u. 1/B | Gong FM és Gong Rádió |
+| 15.[^10] |  |  |  |  |  |
 
 | 16. | PluszRádió Nonprofit Kft. | 1027 | Budapest | Bem József u. 6. fszt. | Győr Plusz Rádió |
 
@@ -126,14 +124,19 @@
 
 | 39. | Fehérvár Médiacentrum Kft. | 8000 | Székesfehérvár | Szent Vendel u. 17/A | Vörösmarty Rádió |
 
-3. A riasztási és tájékoztatási feladat ellátásában részt vevő elektronikus hírközlési szolgáltató
+3.[^11] A riasztási és tájékoztatási feladat ellátásában részt vevő elektronikus hírközlési szolgáltató
 
 | A | B | C |
 
-| Sor- szám | Elektronikus hírközlési szolgáltató | Platform |
+| Sorszám | Elektronikus hírközlési szolgáltató | Platform |
 
 | neve | székhelye |
 
-| 1. | Antenna Hungária Magyar Műsorszóró és Rádióhírközlési Zrt. | 1119 | Budapest | Petzvál József u. 31–33. | DVB-T, DVB-T2, URH, KH |
+| 1. | AH Média Kereskedelmi Zrt. | 1013 | Budapest | Krisztina körút 39. | DVB-T, DVB-T2, URH, KH |
+
+| 2. | AH Infrastruktúra Zrt. | 1013 | Budapest | Krisztina körút 39. | DVB-T, DVB-T2, URH, KH |
 
 [^8]: A 2. melléklet a 9/2021. (XII. 8.) NMHH rendelet 2. § b) pontjával megállapított szöveg.
+[^9]: A 2. melléklet 1. pontjában foglalt táblázat C:1 mezője a 9/2024. (X. 3.) NMHH rendelet 7. §-a szerint módosított szöveg.
+[^10]: A 2. melléklet 2. pontjában foglalt táblázat 15. sorát a 9/2024. (X. 3.) NMHH rendelet 8. §-a hatályon kívül helyezte.
+[^11]: A 2. melléklet 3. pontja a 9/2024. (X. 3.) NMHH rendelet 6. § (2) bekezdésével megállapított szöveg.

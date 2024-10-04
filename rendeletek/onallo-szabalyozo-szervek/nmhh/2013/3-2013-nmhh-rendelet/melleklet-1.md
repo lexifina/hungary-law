@@ -5,4 +5,4 @@
 A honvédelmi és katasztrófavédelmi feladatok ellátásában, valamint a védelmi felkészülési feladatok előkészítésében és végrehajtásában való részvételre kijelölt (a továbbiakban együtt: védelmi feladatok ellátására kijelölt), továbbá az informatikai és hírközlési ágazat (a továbbiakban: ágazat) ügyeleti rendszerébe bevont szervezetek jegyzéke
 
 [^6]: Az 5. §-t a 9/2021. (XII. 8.) NMHH rendelet 1. §-a iktatta be.
-[^7]: Az 1. melléklet a 9/2021. (XII. 8.) NMHH rendelet 2. § a) pontjával megállapított, a 2/2022. (IV. 19.) NMHH rendelet 1. §-a, a 8/2022. (X. 24.) NMHH rendelet 1. §-a szerint módosított szöveg.
+[^7]: Az 1. melléklet a 9/2024. (X. 3.) NMHH rendelet 6. § (1) bekezdésével megállapított szöveg.
