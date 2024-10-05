@@ -1,5 +1,3 @@
-6. § Hatályát veszti a hivatalos statisztikáról szóló 2016. évi CLV. törvény végrehajtásáról szóló 184/2017. (VII. 5.) Korm. rendelet
+6. §[^6]
 
-a) 21. § (9) bekezdése, valamint
-
-b) 9. és 10. melléklete.
+[^6]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
