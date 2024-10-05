@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-26-20-2
 | 2018-04-01 | 2014-26-20-2Y.11 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2018-04-02 | 2014-26-20-2Y.12 | 2010: CXXX. törvény |
 | 2024-01-01 | 2014-26-20-2Y.13 | 51/2023. (XII. 29.) EM rendelet |
+| 2024-10-05 | 2014-26-20-2Y.14 | 51/2023. (XII. 29.) EM rendelet |

@@ -1,3 +1,3 @@
-19. §[^12]
+19. §[^14]
 
-[^12]: A 19. §-t az 51/2023. (XII. 29.) EM rendelet 1. § b) pontja hatályon kívül helyezte.
+[^14]: A 19. §-t az 51/2023. (XII. 29.) EM rendelet 1. § b) pontja hatályon kívül helyezte.
