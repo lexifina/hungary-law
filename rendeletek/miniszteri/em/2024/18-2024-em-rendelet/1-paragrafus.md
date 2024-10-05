@@ -1,0 +1,7 @@
+## 1. A levegőterheltségi szint határértékeiről és a helyhez kötött légszennyező pontforrások kibocsátási határértékeiről szóló 4/2011. (I. 14.) VM rendelet módosítása
+
+1. § A levegőterheltségi szint határértékeiről és a helyhez kötött légszennyező pontforrások kibocsátási határértékeiről szóló 4/2011. (I. 14.) VM rendelet 9. §-a helyébe a következő rendelkezés lép:
+
+„9. § (1) E rendeletnek a levegőterheltségi szint határértékeiről és a helyhez kötött légszennyező pontforrások kibocsátási határértékeiről szóló 4/2011. (I. 14.) VM rendelet, valamint az egyes tevékenységek illékony szerves vegyület kibocsátásának korlátozásáról szóló 26/2014. (III. 25.) VM rendelet módosításáról szóló 18/2024. (X. 4.) EM rendelettel (a továbbiakban: Módr.) módosított 6. mellékletét a Módr. hatálybalépése előtt indult engedélyezési eljárások esetében, továbbá azon létesítmények esetében, amelyek a Módr. hatálybalépésekor környezetvédelmi engedéllyel rendelkeznek, de nem rendelkeznek használatbavételi engedéllyel, 2027. január 1. napjától kell alkalmazni.
+
+(2) A rendelet hatálya alá tartozó, a Módr. hatálybalépésekor végleges környezetvédelmi engedéllyel és használatbavételi engedéllyel is rendelkező létesítmények esetében a Módr. által módosított határértékeket 2028. január 1. napjától kell alkalmazni. Ezen létesítmények üzemeltetői 2027. december 31-ig gondoskodnak a vonatkozó környezetvédelmi engedélyek módosításáról.”
