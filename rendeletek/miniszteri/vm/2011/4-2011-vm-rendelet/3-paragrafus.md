@@ -9,3 +9,5 @@ b) II.: fokozottan veszélyes,
 c) III.: veszélyes,
 
 d) IV.: mérsékelten veszélyes
+
+veszélyességi fokozatba kell sorolni.

@@ -1,6 +1,6 @@
-3. melléklet a 4/2011. (I. 14.) VM rendelethez[^16]
+3. melléklet a 4/2011. (I. 14.) VM rendelethez[^20]
 
-## Tájékoztatási és riasztási küszöbértékek
+Tájékoztatási és riasztási küszöbértékek
 
 1. A tájékoztatási és riasztási küszöbértékek az 1.1. alpontban foglaltak kivételével 293 K hőmérsékletű és 101,3 kPa nyomású levegőre vonatkoznak.
 
@@ -62,4 +62,4 @@ megadásával.
 
 3.4. Tájékoztatás a szennyezettség, illetve az expozíció csökkentése érdekében teendő megelőző beavatkozásról a szennyezettség lehetséges okainak bemutatásával és a kibocsátások csökkentésére vonatkozó ajánlásokkal.
 
-[^16]: A 3. melléklet a 84/2016. (XII. 16.) FM rendelet 1. § b) pontja szerint módosított szöveg.
+[^20]: A 3. melléklet a 84/2016. (XII. 16.) FM rendelet 1. § b) pontja szerint módosított szöveg.

@@ -1,5 +1,3 @@
-## veszélyességi fokozatba kell sorolni.
-
 ## 4. A levegőterheltségi szint határértékei
 
 4. § (1) Az 1. mellékletben szereplő légszennyező anyagokra – a (3) bekezdésben foglaltak kivételével – a levegőterheltségi szint 1. mellékletben meghatározott egészségügyi határértékeit kell alkalmazni. Az 1. melléklet 1.1.3.1. pontjában felsorolt, kiemelt jelentőségű légszennyező anyagokat és az 1. melléklet 1.1.4.1. pontjában felsorolt arzént, 3,4-benz(a)pirént, kadmiumot és nikkelt – a levegőterheltségi szint és a helyhez kötött légszennyező források kibocsátásának vizsgálatával, ellenőrzésével, értékelésével kapcsolatos szabályokról szóló jogszabály meghatározott módon – rendszeresen ellenőrizni és értékelni kell.

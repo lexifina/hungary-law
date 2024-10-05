@@ -1,4 +1,4 @@
-2. melléklet a 4/2011. (I. 14.) VM rendelethez[^15]
+2. melléklet a 4/2011. (I. 14.) VM rendelethez[^19]
 
 1. Egyes légszennyező anyagok tervezési irányértékei
 
@@ -416,4 +416,4 @@
 
 | 26. | Nem élelmiszeripari zsírfeldolgozás | 1,5 |
 
-[^15]: A 2. melléklet a 71/2012. (VII. 16.) VM rendelet 4. §-a, a 63/2019. (XII. 19.) AM rendelet 3. §-a szerint módosított, a 41/2021. (X. 29.) AM rendelet 2. § a) pontja szerint módosított szöveg.
+[^19]: A 2. melléklet a 71/2012. (VII. 16.) VM rendelet 4. §-a, a 63/2019. (XII. 19.) AM rendelet 3. §-a szerint módosított, a 41/2021. (X. 29.) AM rendelet 2. § a) pontja szerint módosított szöveg.

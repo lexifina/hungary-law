@@ -1,6 +1,6 @@
-5. melléklet a 4/2011. (I. 14.) VM rendelethez[^17]
+5. melléklet a 4/2011. (I. 14.) VM rendelethez[^21]
 
-## A zónák típusai
+A zónák típusai
 
 1. A csoport: agglomeráció: az Lvr. szerint.
 
@@ -20,4 +20,4 @@
 
 9. Az alsó és felső vizsgálati küszöbérték meghatározása a levegőterheltségi szint és a helyhez kötött légszennyező források kibocsátásának vizsgálatával, ellenőrzésével, értékelésével kapcsolatos szabályokról szóló jogszabály szerint történik.
 
-[^17]: Az 5. melléklet a 71/2012. (VII. 16.) VM rendelet 5. §-a szerint módosított szöveg.
+[^21]: Az 5. melléklet a 71/2012. (VII. 16.) VM rendelet 5. §-a szerint módosított szöveg.

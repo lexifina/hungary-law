@@ -1,6 +1,6 @@
 4. melléklet a 4/2011. (I. 14.) VM rendelethez
 
-## Az ökológiai rendszerek védelmében meghatározott kritikus levegőterheltségi szintek
+Az ökológiai rendszerek védelmében meghatározott kritikus levegőterheltségi szintek
 
 1. A levegő térfogatot 293 K hőmérsékletre és 101,3 kPa nyomásra át kell számítani.
 
@@ -52,4 +52,4 @@
 
 | 1 | Jellemző érték | Célérték | Hosszú távú célkitűzés |
 
-| 2 | AOT40, a májustól júliusig terjedő időszak 1 órás értékeiből számolva | A vegetáció védelmére, 2010. évre 18 000 µg/m3 x óra 5 éves átlagban Amennyiben az öt évre vonatkozó átlagot nem lehet meghatározni teljes és egymást követő éves adatok alapján, akkor a célértékek betartásának ellenőrzéséhez megkövetelt minimális éves adat: három évre vonatkozó éves adat. | A vegetáció védelmére, 2020. évre 6000 µg/m3 x óra |
+| 2 | AOT40, a májustól júliusig terjedő időszak 1 órás értékeiből számolva | A vegetáció védelmére, 2010. évre 18 000 µg/m3x óra 5 éves átlagban Amennyiben az öt évre vonatkozó átlagot nem lehet meghatározni teljes és egymást követő éves adatok alapján, akkor a célértékek betartásának ellenőrzéséhez megkövetelt minimális éves adat: három évre vonatkozó éves adat. | A vegetáció védelmére, 2020. évre 6000 µg/m3x óra |

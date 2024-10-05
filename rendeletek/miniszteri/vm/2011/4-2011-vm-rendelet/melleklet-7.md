@@ -1,5 +1,3 @@
-## Általános technológiai kibocsátási határértékek
-
 ## 1. A kibocsátási határérték tüzelési és termikus (a levegőből tényleges oxigén-elvonás történik) technológiáknál – ha jogszabály vagy hatósági határozat másként nem rendelkezik – a száraz véggáz 5 tf%-os O2 tartalmára, 273 K hőmérsékletre és 101,3 kPa nyomásra vonatkozik. A technológiai kibocsátási határérték légszennyező pontforrásonként értelmezendő.
 
 ## 2. Tömegárammal szabályozott technológiai kibocsátási határértékek esetében, ha a légszennyező anyag kibocsátása a tömegáram alsó határa (küszöbértéke) alá esik, a kibocsátási határérték a tömegáram alsó határához hozzárendelt, mg/m3-ben megadott légszennyező anyag koncentráció, amelyet a küszöbérték alatt nem kell alkalmazni. Tömegáram küszöbérték alatti kibocsátással működő technológiák esetén levegőtisztaság-védelmi alapbejelentést (LAL) minden esetben tenni kell és az üzemeltetőnek a levegő védelméről szóló kormányrendelet szerinti éves levegőtisztaság-védelmi jelentés (LM) borítólapján évente nyilatkoznia kell, hogy a tevékenység a megelőző évben tömegáram küszöbérték alatti kibocsátással működött. Azokról a tömegáram küszöbérték alatti kibocsátással működő technológiákról, amelyeknél az engedélyezésnél figyelembe vett kibocsátási koncentráció meghaladja az e jogszabályban a tömegáram küszöb feletti tevékenységekre vonatkozó kibocsátási határértéket a levegő védelméről szóló kormányrendelet szerinti teljes adattartalmú éves levegőtisztaság-védelmi jelentést (LM) kell benyújtani. Amennyiben a légszennyező anyag kibocsátása eléri vagy meghaladja a küszöbértéket, a légszennyezés éves mértékét (éves levegőtisztaság-védelmi jelentést) is be kell jelenteni. Ha jogszabály másként nem rendelkezik, a légszennyezőanyag koncentrációra meghatározott kibocsátási határértékek 273 K hőmérsékletű és 101,3 kPa nyomású száraz véggázra vonatkoznak.
@@ -20,11 +18,15 @@
 
 | 6 | B osztály |  |  |
 
-| 7 | por alakú szervetlen anyagok Co [7440-48-4] és vegyületei, Co-ként V [7440-62-2] és vegyületei, V-ként Se [7782-49-2] és vegyületei, Se-ként Te [13494-80-9] és vegyületei, Te-ként összesen | 0,005 vagy ennél nagyobb | 1,0 |
+| 7 | por alakú szervetlen anyagok V [7440-62-2] és vegyületei, V-ként Se [7782-49-2] és vegyületei, Se-ként Te [13494-80-9] és vegyületei, Te-ként összesen | 0,005 vagy ennél nagyobb | 1 |
+
+| 7a | por alakú szervetlen anyagok közül a Co [7440-48-4] és vegyületei, Co-ként Ni [7440-02-0] és vegyületei, Ni-ként összesen | 0,0025 vagy ennél nagyobb | 0,5 |
 
 | 8 | C osztály |  |  |
 
-| 9 | por alakú szervetlen anyagok Cu [7440-50-8] és vegyületei, Cu-ként Mn [7439-96-5] és vegyületei, Mn-ként Pb [7439-92-1] és vegyületei, Pb-ként Pd [7440-05-3] és vegyületei, Pd-ként Pt [7440-06-4] és vegyületei, Pt-ként Rh [7440-16-6] és vegyületei, Rh-ként Sb [7440-36-0] és vegyületei, Sb-ként Sn [7440-31-5] és vegyületei, Sn-ként Zn [7440-66-6] és vegyületei, Zn-ként Cianidok, könnyen oldódóak, (pl. NaCN: [143-33-9]), CN-ként Fluoridok, könnyen oldódóak, (pl. NaF: [7681-49-4]), F-ként [7782-41-4] Na [7440-23-5] és vegyületei, Na-ként megadva, összesen | 0,025 vagy ennél nagyobb | 5,0 |
+| 9 | por alakú szervetlen anyagok Cu [7440-50-8] és vegyületei Cu-ként, Pb [7439-92-1] és vegyületei Pb-ként, Pd [7440-05-3] és vegyületei Pd-ként, Pt [7440-06-4] és vegyületei Pt-ként, Rh [7440-16-6] és vegyületei Rh-ként, Sb [7440-36-0] és vegyületei Sb-ként, Sn [7440-31-5] és vegyületei Sn-ként, Zn [7440-66-6] és vegyületei Zn-ként, Cianidok, könnyen oldódóak, (pl. NaCN: [143-33-9]) CN-ként Fluoridok, könnyen oldódóak (pl. NaF: [7681-49-4]), F-ként [7782-41-4], Na [7440-23-5] és vegyületei, Na-ként megadva összesen | 0,025 vagy ennél nagyobb | 5,0 |
+
+| 9a | por alakú szervetlen anyagok Mn [7439-96-5] és vegyületei Mn-ként | 0,005 vagy ennél nagyobb | 1,0 |
 
 ## 2.1.2. Azt a por alakú szervetlen anyagot, amely az A-C osztályban nincs felsorolva, szilárd anyagnak (O osztály) kell tekinteni.
 
@@ -112,7 +114,7 @@
 
 | 13. | sec.-Amil-acetát [626-38-0] | C7H14O2 | C |
 
-| 14. | 2-Amino-2-metilpropanol [124-68-5] | (CH3) 2 (NH2)CH2OH | C |
+| 14. | 2-Amino-2-metilpropanol [124-68-5] | (CH3)2 (NH2)CH2OH | C |
 
 | 15. | Anilin [62-53-3] | C6H7N | B |
 
@@ -148,7 +150,7 @@
 
 | 31. | Butil-hidroxi-acetát (butil-glikolát) [7397-62-8] | C6H12O3 | C |
 
-| 32. | Butil-klorid (1-klór-bután) [109-69-3] | CH3(CH2) 3C1 | C |
+| 32. | Butil-klorid (1-klór-bután) [109-69-3] | CH3(CH2)3C1 | C |
 
 | 33. | 2-Butoxi-etanol [111-76-2] | C6H14O2 | C |
 
@@ -284,7 +286,7 @@
 
 | 99. | Etil-metil-keton | lásd: 2-butanon |  |
 
-| 100. | tetra-Etil-ortoszilikát [78-10-4] | (C2H5O) 4Si | C |
+| 100. | tetra-Etil-ortoszilikát [78-10-4] | (C2H5O)4Si | C |
 
 | 101. | Etoxi-propil-acetát [54839-24-6] (propilén-glikol-1-etiléter-acetát) | C7H14O3 | C |
 
@@ -294,9 +296,9 @@
 
 | 104. | Fenol-benzotriazol [25973-55-1] | C22H29N3O | B |
 
-| 105. | Formaldehid [50-00-0] | CH2O | A |
+| 105.[^23] |  |  |  |
 
-| 106. | Ftálsav-anhidrid [85-44-9] | C6H4 (CO) 2O | C |
+| 106. | Ftálsav-anhidrid [85-44-9] | C6H4 (CO)2O | C |
 
 | 107. | 2-Furaldehid [98-01-1] | C5H4O2 | B |
 
@@ -318,13 +320,13 @@
 
 | 116. | Izobutil-alkohol [78-83-1] | C4H10O | C |
 
-| 117. | Izobutil-bromid [78-77-3] | (CH3) 2CHCH2Br | A |
+| 117. | Izobutil-bromid [78-77-3] | (CH3)2CHCH2Br | A |
 
 | 118. | Izobutil-metil-keton | lásd: 4-metil-2-pentanon |  |
 
 | 119. | Izopropenil-benzol [98-83-9] | C9H10 | B |
 
-| 120. | Izopropil-alkohol (izo-propanil) [67-63-0] | (CH3) 2CHOH | C |
+| 120. | Izopropil-alkohol (izo-propanil) [67-63-0] | (CH3)2CHOH | C |
 
 | 121. | Izopropil-benzol [98-82-8] | C9H12 | C |
 
@@ -334,7 +336,7 @@
 
 | 124. | Kálcium-cián-amid [156-62-7] | CaCN2 | C |
 
-| 125. | Kaprolaktám [105-60-2] | HN(CH2) 5CO | C |
+| 125. | Kaprolaktám [105-60-2] | HN(CH2)5CO | C |
 
 | 126. | Kerozin C10-C14 [8008-20-6] |  | C |
 
@@ -426,7 +428,7 @@
 
 | 170. | Metil-proxitol (l-metoxi-2 propanol, propilén-glikol-momometil-éter) [107-98-2] | C4H10O2 | C |
 
-| 171. | N-metil-2-pirrolidon [872-50-4] | C5H9NO | C |
+| 171.[^24] |  |  |  |
 
 | 172. | Metil-tercier-butil-éter [1634-04-4] | C5H12O | C |
 
@@ -544,39 +546,129 @@
 
 | 229. | Xilolok [1330-20-7] | C8H10 | C |
 
-## 2.5.1 Egyes rákkeltő légszennyező anyagok
+## 2.5. Rákkeltő, mutagén és reprodukciót károsító anyagok kibocsátásának korlátozása
+
+## 2.5.1. Az anyagok e rendelet tekintetében akkor minősülnek rákkeltőnek, mutagénnek vagy reprodukciót károsítónak, ha az anyagok és keverékek osztályozásáról, címkézéséről és csomagolásáról, a 67/548/EGK és az 1999/45/EK irányelv módosításáról és hatályon kívül helyezéséről, valamint az 1907/2006/EK rendelet módosításáról szóló, 2008. december 16-i 1272/2008/EK európai parlamenti és tanácsi rendelet szerinti H340, H341, H350, H350i, H351, H360D, H360F figyelmeztető mondattal rendelkeznek.
+
+## 2.5.2. A rákkeltő, mutagén és reprodukciót károsító anyagokra az ebben a pontban megadott határértékek vonatkoznak.
+
+## 2.5.3. Figyelmeztető mondatok és azok jelentése:
+
+## 2.5.3.1. H340 = Genetikai károsodást okozhat.
+
+## 2.5.3.2. H341 = Feltételezhetően genetikai károsodást okozhat.
+
+## 2.5.3.3. H350 = Rákot okozhat.
+
+## 2.5.3.4. H350i = Belélegzéssel rákot okozhat.
+
+## 2.5.3.5. H351 = Feltehetően rákot okoz.
+
+## 2.5.3.6. H360D = Károsíthatja a születendő gyermeket.
+
+## 2.5.3.7. H360F = Károsíthatja a termékenységet.
+
+## 2.5.4. Egyes rákkeltő légszennyező anyagok
 
 |  | A | B | C |
 
 | 1 | Légszennyező anyag [CAS szám] | Légszennyező anyag tömegárama [kg/h] | Kibocsátási határérték (légszennyező anyag koncentráció) [mg/m3] |
 
-| 2 | A osztály |  |  |
+| 2 | A osztály | 0,00015 vagy ennél nagyobb | 0,05 |
 
-| 3 | 3,4-Benz(a)pirén [50-32-8] Berillium [7440-41-7] és vegyületei Be-ként, belélegezhető formában Kadmium[7440-43-9] és vegyületei Cd-ként, belélegezhető formában, összesen | 0,0005 vagy ennél nagyobb | 0,1 |
+| 3 | Arzén [7440-38-2] és vegyületei As-ként belélegezhető formában |
 
-| 4 | B osztály |  |  |
+| 4 | 3,4-Benz(a)pirén [50-32-8] |
 
-| 5 | Arzén [7440-38-2] és vegyületei As-ként, belélegezhető formában Króm [7440-47-3] vegyületek Cr-ként, belélegezhető formában Ni [7440-02-0] vegyületei Ni-ként, belélegezhető formában, összesen | 0,005 vagy ennél nagyobb | 1 |
+| 5 | Berillium [7440-41-7] és vegyületei Be-ként belélegezhető formában |
 
-| 6 | C osztály |  |  |
+| 6 | Kadmium [7440-43-9] és vegyületei Cd-ként belélegezhető formában |
 
-| 7 | Benzol [71-43-2] 1,3-Butadién [106-99-0] Triklór-etilén [79-01-6] Vinil-klorid [75-01-4], összesen | 0,01 vagy ennél nagyobb | 5 |
+| 7 | Króm(VI)-vegyületek, a bárium-kromát és az ólom-kromát kivételével, Cr-ben kifejezve |
 
-## 2.5.2. A saját osztályra vonatkozó határértéket önmagában is meg kell tartani. Több, különböző osztályba tartozó anyag együttes, egy időben történő kibocsátása esetén a kibocsátási határérték:
+| 8 | Furán [110-00-9] |
 
-## 2.5.2.1. A és B osztály összesen: 1 mg/m3
+| 9 | Hidrazin [302-01-2] hidrazinhidrát és hidrazinsók |
 
-## 2.5.2.2. A és C vagy B és C vagy A és B és C osztály összesen: 5 mg/m3
+| 10 | Triklór-toluol [98-07-7] |
 
-|  | A | B | C |
+| 11 | Kobalt [7440-48-4] és vízoldható vegyületei, Co-ként |
 
-| 1 | Légszennyező anyag [CAS szám] | Légszennyező anyag tömegárama [kg/h] | Kibocsátási határérték (légszennyező anyag koncentráció) [rost/m3] |
+| 12 | összesen |
 
-| 2 | A osztály |  |  |
+| 13 | B osztály | 0,0015 vagy ennél nagyobb | 0,5 |
 
-| 3 | Azbeszt | 0,0005 vagy ennél nagyobb | 1000 |
+| 14 | Nikkel [7440-02-0] és vegyületei, kivéve a fém nikkelt, a nikkel-ötvözeteket, a nikkel karbonátot, a nikkel-hidroxidot és nikkel-tetrakarbonilt, Ni-ként |
 
-7. melléklet a 4/2011. (I. 14.) VM rendelethez[^19]
+| 15 | Akrilamid [79-06-1] |
+
+| 16 | Akrilnitril [107-13-1] |
+
+| 17 | Benzil-klorid [100-44-7] |
+
+| 18 | 2,4-bután-szulton[1120-71-4] |
+
+| 19 | 4,4-diamino-difenil-metán [101-77-9] |
+
+| 20 | Dimetil-szulfát [77-78-1] |
+
+| 21 | 2,4-dinitro-toluol [121-14-2] |
+
+| 22 | Etilén-oxid [75-21-8] |
+
+| 23 | Fenilhidrazin [100-63-0] |
+
+| 24 | o-toluidin [95-53-4] |
+
+| 25 | 2,4-toluol-diamin [95-80-7] |
+
+| 26 | 4-vinil-1,2-ciklohexén-diepoxid [106-87-6] |
+
+| 27 | Benzol [71–43–2] |
+
+| 28 | összesen |
+
+| 29 | C osztály | 0,0025 vagy ennél nagyobb | 1 |
+
+| 30 | 1,3-Butadién [106-99-0] |
+
+| 31 | Triklór-etilén [79-01-6] |
+
+| 32 | Vinil-klorid [75-01-4] |
+
+| 33 | Brom-etán [74-96-4] |
+
+| 34 | 1,2-diklór-etán [107-06-2] |
+
+| 35 | Epiklórhidrin [106-89-8] |
+
+| 36 | Izobutil-nitrit [542-56-3] |
+
+| 37 | 1,2-propilén-oxid (1,2-epoxipropán) [75-56-9] |
+
+| 38 | Sztirol-oxid [20780-54-5] |
+
+| 39 | összesen |
+
+## 2.5.4.1. A saját osztályra vonatkozó határértéket önmagában is meg kell tartani. Több, különböző osztályba tartozó anyag együttes, egy időben történő kibocsátása esetén a kibocsátási határérték:
+
+## 2.5.4.2. A és B osztály összesen: 0,5 mg/m3.
+
+## 2.5.4.3. A és C vagy B és C vagy A és B és C osztály összesen: 1 mg/m3.
+
+## 2.5.4.4. A név szerint fel nem sorolt rákkeltő anyagokat azon osztályokba kell sorolni, amelyekhez hatásszintjüket tekintve a legközelebb vannak.
+
+## 2.5.4.5. Formaldehid
+
+## 2.5.4.5.1. A kibocsátott gáz formaldehid maximum kibocsátása a 0,0125 kg/h tömegáramot vagy az 5 mg/m3 értéket nem lépheti túl.
+
+## 2.5.4.5.2. Ha a kibocsátási érték arányos erőfeszítéssel nem teljesíthető, a kibocsátást egyedi esetekben korlátozni kell, figyelembe véve az egyes tevékenységek illékony szerves vegyület kibocsátásának korlátozásáról szóló 26/2014. (III. 25.) VM rendelet [a továbbiakban: 26/2014. (III. 25.) VM rendelet] 3. §-ában meghatározott kibocsátásminimalizálási követelményt.
+
+## 2.5.5. Mutagén anyagok: ha a mutagén anyagokra nem vonatkoznak egyúttal a rákkeltő tulajdonságok is, a mutagén anyagok véggáz tömegáramának összege eléri vagy meghaladja a 0,15 g/h-t, a véggáz mutagén anyagainak kibocsátási határértéke 0,05 mg/m3. Ha ezek a kibocsátási értékek arányos erőfeszítéssel nem teljesíthetők, a kibocsátást a 26/2014. (III. 25.) VM rendelet 3. §-ában meghatározott kibocsátásminimalizálási követelménynek megfelelően korlátozni kell.
+
+## 2.5.6. Reprodukciót károsító anyagok: ha a reprodukciót károsító anyagokra nem vonatkoznak a rákkeltő vagy mutagén tulajdonságok, a reprodukciót károsító anyagok véggáz tömegáramának összege eléri vagy meghaladja a 2,5 g/h-t, a véggáz reprodukciót károsító anyagainak kibocsátási határértéke 1 mg/m3. Ha ezek a kibocsátási értékek arányos erőfeszítéssel nem teljesíthetők, a kibocsátást a 26/2014. (III. 25.) VM rendelet 3. §-ában meghatározott kibocsátásminimalizálási követelménynek megfelelően korlátozni kell.
+
+7. melléklet a 4/2011. (I. 14.) VM rendelethez[^25]
 
 Eljárásspecifikus technológiai kibocsátási határértékek és egyéb előírások
 
@@ -1310,4 +1402,6 @@ Szilárd anyag (festék és lakk részecskék) kibocsátási határértéke: 3 m
 
 2.56.
 
-[^19]: A 7. melléklet a 71/2012. (VII. 16.) VM rendelet 7. §-a, a 33/2015. (VI. 25.) FM rendelet 5. §-a, a 12/2016. (II. 29.) FM rendelet 5–6. §-a, az 53/2017. (X. 18.) FM rendelet 14. § (2) bekezdése, a 41/2021. (X. 29.) AM rendelet 2. § b) pontja szerint módosított szöveg.
+[^23]: A 6. melléklet 2.4. pontjában foglalt táblázat 105. sorát a 18/2024. (X. 4.) EM rendelet 3. § a) pontja hatályon kívül helyezte.
+[^24]: A 6. melléklet 2.4. pontjában foglalt táblázat 171. sorát a 18/2024. (X. 4.) EM rendelet 3. § b) pontja hatályon kívül helyezte.
+[^25]: A 7. melléklet a 71/2012. (VII. 16.) VM rendelet 7. §-a, a 33/2015. (VI. 25.) FM rendelet 5. §-a, a 12/2016. (II. 29.) FM rendelet 5–6. §-a, az 53/2017. (X. 18.) FM rendelet 14. § (2) bekezdése, a 41/2021. (X. 29.) AM rendelet 2. § b) pontja szerint módosított szöveg.

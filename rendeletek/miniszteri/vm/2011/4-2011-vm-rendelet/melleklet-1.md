@@ -1,8 +1,6 @@
-## 11–12. §[^13]
+1. melléklet a 4/2011. (I. 14.) VM rendelethez[^18]
 
-1. melléklet a 4/2011. (I. 14.) VM rendelethez[^14]
-
-## A levegőterheltségi szint egészségügyi határértékei, célértékei, hosszú távú célkitűzései
+A levegőterheltségi szint egészségügyi határértékei, célértékei, hosszú távú célkitűzései
 
 1. A légszennyezettség egészségügyi határértékei, célértékei, hosszú távú célkitűzései és a PM2,5-re vonatkozó specifikus kötelezettségek
 
@@ -10,7 +8,7 @@
 
 1.1.1. A határértékek, célértékek, hosszú távú célkitűzések az 1.1.1.1. alpontban foglaltak kivételével 293 K hőmérsékletű és 101,3 kPa nyomású levegőre vonatkoznak.
 
-1.1.1.1. A szálló por (PM10 és PM2,5) és a szálló porban lévő szennyezőanyagok határértékei, célértékei a mérés időpontja szerinti környezeti feltételekre vonatkoznak.
+1.1.1.1. A szálló por (PM10és PM2,5) és a szálló porban lévő szennyezőanyagok határértékei, célértékei a mérés időpontja szerinti környezeti feltételekre vonatkoznak.
 
 1.1.2. CAS szám: Chemical Abstracts Service azonosító száma
 
@@ -38,11 +36,11 @@
 
 |  | 10. | Benzol [71-43-2] (Rákkeltő légszennyező anyag) |  |  | 10 öt év után felülvizsgálatra kerül |  | 5 (Meghatározására alkalmazott mérési program: folyamatos mérés vagy legalább heti egy-egy, véletlenszerűen kiválasztott 24 órás mérés, egyenletesen elosztva az év során; vagy az év során egyenletesen elosztott, legalább nyolc héten keresztül végzett 24 órás, illetőleg 168 órás mérés.) | 100%2 | I. |
 
-1 A határértéknek való megfelelés szempontjából a tűréshatárt 2005. január 1-jéig lehet alkalmazni.
+## 1 A határértéknek való megfelelés szempontjából a tűréshatárt 2005. január 1-jéig lehet alkalmazni.
 
-2 A határértéknek való megfelelés szempontjából a tűréshatárt 2010. január 1-jéig lehet alkalmazni.
+## 2 A határértéknek való megfelelés szempontjából a tűréshatárt 2010. január 1-jéig lehet alkalmazni.
 
-3 A határértéknek való megfelelés szempontjából a tűréshatárt 2010. január 1-jéig lehet alkalmazni a több évtizedes ipari tevékenység során szennyeződött helyszíneken lévő jellegzetes ipari források közvetlen környezetében (1000 méternél nem messzebb).
+## 3 A határértéknek való megfelelés szempontjából a tűréshatárt 2010. január 1-jéig lehet alkalmazni a több évtizedes ipari tevékenység során szennyeződött helyszíneken lévő jellegzetes ipari források közvetlen környezetében (1000 méternél nem messzebb).
 
 1.1.3.2. Ózon [CAS szám 10028-15-6]
 
@@ -50,7 +48,7 @@
 
 | 1 | Határérték | célérték | hosszú távú célkitűzés | Veszélyességi fokozat |
 
-| µg/m3 Napi 8 órás mozgó átlagkoncentrációk maximuma A maximum értéket az órás átlagok alapján képzett 8 órás mozgó átlagértékekből kell kiválasztani. Az ily módon számított 8 órás átlagokat arra a napra kell vonatkoztatni, amelyen a 8 órás időtartam végződik, tehát bármelyik nap első vizsgálati periódusa a megelőző nap 17 órától az adott nap 01 óráig tart. Bármelyik nap utolsó vizsgálati periódusa az adott napon 16 órától 24 óráig tart. |  |
+| µg/m3Napi 8 órás mozgó átlagkoncentrációk maximuma A maximum értéket az órás átlagok alapján képzett 8 órás mozgó átlagértékekből kell kiválasztani. Az ily módon számított 8 órás átlagokat arra a napra kell vonatkoztatni, amelyen a 8 órás időtartam végződik, tehát bármelyik nap első vizsgálati periódusa a megelőző nap 17 órától az adott nap 01 óráig tart. Bármelyik nap utolsó vizsgálati periódusa az adott napon 16 órától 24 óráig tart. |  |
 
 | 120 melyet 2009. december 31-ig egy naptári évben, hároméves vizsgálati időszak átlagában 80 napnál többször nem szabad túllépni. | 120 melyet 2010. évtől, mint első évtől kezdve hároméves vizsgálati időszak átlagában egy naptári évben 25 napnál többször nem szabad túllépni. Amennyiben a három évre vonatkozó átlagot nem lehet meghatározni teljes és egymást követő éves adatok alapján, akkor a célértékek betartásának ellenőrzéséhez megkövetelt minimális éves adat: egy évre vonatkozó éves adat. | 120 amely egy naptári év alatt mért napi 8 órás mozgó átlagkoncentráció maximuma. A hosszú távú célkitűzés elérésére vonatkozó időpont nincs meghatározva. | I. |
 
@@ -62,13 +60,13 @@
 
 | 2 | 24 órás | éves |
 
-| 3 | Arzén [7440-38-2] és vegyületei As-ként, belélegezhető formában (A koncentrációt a PM10 frakcióban lévő teljes mennyiség éves átlagában kell meghatározni, és a célértéket 2012. december 31-ig kell elérni.) |  | 0,01 | 0,006 | I. |
+| 3 | Arzén [7440-38-2] és vegyületei As-ként, belélegezhető formában (A koncentrációt a PM10frakcióban lévő teljes mennyiség éves átlagában kell meghatározni, és a célértéket 2012. december 31-ig kell elérni.) |  | 0,01 | 0,006 | I. |
 
-| 4 | Kadmium [7440-43-9] és vegyületei Cd-ként, belélegezhető formában (A koncentrációt a PM10 frakcióban lévő teljes mennyiség éves átlagában kell meghatározni, és a célértéket 2012. december 31-ig kell elérni.) |  | 0,005 | 0,005 | I. |
+| 4 | Kadmium [7440-43-9] és vegyületei Cd-ként, belélegezhető formában (A koncentrációt a PM10frakcióban lévő teljes mennyiség éves átlagában kell meghatározni, és a célértéket 2012. december 31-ig kell elérni.) |  | 0,005 | 0,005 | I. |
 
-| 5 | Nikkel [7440-02-0] és vegyületei Ni-ként, belélegezhető formában (A koncentrációt a PM10 frakcióban lévő teljes mennyiség éves átlagában kell meghatározni, és a célértéket 2012. december 31-ig kell elérni.) |  | 0,025 | 0,02 | I. |
+| 5 | Nikkel [7440-02-0] és vegyületei Ni-ként, belélegezhető formában (A koncentrációt a PM10frakcióban lévő teljes mennyiség éves átlagában kell meghatározni, és a célértéket 2012. december 31-ig kell elérni.) |  | 0,025 | 0,02 | I. |
 
-| 6 | 3,4-Benz(a)pirén [50-32-8] (A koncentrációt a PM10 frakcióban lévő teljes mennyiség éves átlagában kell meghatározni, és a célértéket 2012. december 31-ig kell elérni.) | 0,001 | 0,0012 | 0,001 | I. |
+| 6 | 3,4-Benz(a)pirén [50-32-8] (A koncentrációt a PM10frakcióban lévő teljes mennyiség éves átlagában kell meghatározni, és a célértéket 2012. december 31-ig kell elérni.) | 0,001 | 0,0012 | 0,001 | I. |
 
 | 7 | Króm [7440-47-3] és vegyületei Cr-ként, belélegezhető formában |  | 0,05 (Meghatározására alkalmazott mérési program: legalább heti egy-egy, véletlenszerűen kiválasztott 24 órás mérés, egyenletesen elosztva az év során; vagy az év során egyenletesen elosztott, legalább nyolc héten keresztül végzett 24 órás mérés.) |  | I. |
 
@@ -76,7 +74,7 @@
 
 | 9 | 1,3-Butadién [106-99-0] |  | 2,25 (Meghatározására alkalmazott mérési program: legalább heti egy-egy, véletlenszerűen kiválasztott 24 órás mérés, egyenletesen elosztva az év során; vagy az év során egyenletesen elosztott, legalább nyolc héten keresztül végzett 24 órás mérés.) |  | I. |
 
-| 10 | Dioxinok és furánok (2,3,7,8-TCDD: tetraklór- dibenzo-dioxin toxikus egyenértékben kifejezve) |  | 1 x 10-6 [pg/mg3] (Meghatározására alkalmazott mérési program: legalább heti egy-egy, véletlenszerűen kiválasztott 24 órás mérés, egyenletesen elosztva az év során; vagy az év során egyenletesen elosztott, legalább nyolc héten keresztül végzett 24 órás mérés.) |  | I. |
+| 10 | Dioxinok és furánok (2,3,7,8-TCDD: tetraklór- dibenzo-dioxin toxikus egyenértékben kifejezve) |  | 1 x 10-6[pg/mg3] (Meghatározására alkalmazott mérési program: legalább heti egy-egy, véletlenszerűen kiválasztott 24 órás mérés, egyenletesen elosztva az év során; vagy az év során egyenletesen elosztott, legalább nyolc héten keresztül végzett 24 órás mérés.) |  | I. |
 
 | 11 | Tetraklór-etilén (perklór-etilén) [127-18-4] | 250 | 60 (Meghatározására alkalmazott mérési program: legalább heti egy-egy, véletlenszerűen kiválasztott 24 órás mérés, egyenletesen elosztva az év során; vagy az év során egyenletesen elosztott, legalább nyolc héten keresztül végzett 24 órás mérés.) |  | I. |
 
@@ -99,6 +97,8 @@ Az azbeszt kifejezés alatt a következő szálas szilikátokat kell érteni: kr
 1.2. A PM2,5-re vonatkozó specifikus kötelezettségek
 
 1.2.1. Nemzeti expozíciócsökkentési cél
+
+## 6K82592M_4
 
 |  | A | B |
 
@@ -148,5 +148,4 @@ Az azbeszt kifejezés alatt a következő szálas szilikátokat kell érteni: kr
 
 | 5 | Naptári év | 20 µg/m3 |  | 2020. január 1. |
 
-[^13]: A 9. alcímet és a 11–12. §-t a 12. § hatályon kívül helyezte.
-[^14]: Az 1. melléklet a 71/2012. (VII. 16.) VM rendelet 3. §-a, a 84/2016. (XII. 16.) FM rendelet 1. § a) pontja szerint módosított szöveg.
+[^18]: Az 1. melléklet a 71/2012. (VII. 16.) VM rendelet 3. §-a, a 84/2016. (XII. 16.) FM rendelet 1. § a) pontja szerint módosított szöveg.

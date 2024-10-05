@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-4-20-2Y
 | 2017-12-19 | 2011-4-20-2Y.8 | 71/2012. (VII. 16.) VM rendelet |
 | 2020-01-01 | 2011-4-20-2Y.9 | 63/2019. (XII. 19.) AM rendelet |
 | 2021-11-06 | 2011-4-20-2Y.10 | 71/2012. (VII. 16.) VM rendelet |
+| 2024-10-05 | 2011-4-20-2Y.11 | 18/2024. (X. 4.) EM rendelet |
