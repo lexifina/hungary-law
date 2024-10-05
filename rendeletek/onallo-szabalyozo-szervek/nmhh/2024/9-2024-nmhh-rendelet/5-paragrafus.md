@@ -1,3 +1,5 @@
 ## 2. A nem polgári célú frekvenciagazdálkodás egyes hatósági eljárásairól szóló 11/2011. (XII. 16.) NMHH rendelet módosítása
 
-5. § A nem polgári célú frekvenciagazdálkodás egyes hatósági eljárásairól szóló 11/2011. (XII. 16.) NMHH rendelet 16/A. § (2) bekezdésében az „az ügyfélkapun történt” szövegrész helyébe az „elektronikus” szöveg lép.
+5. §[^5]
+
+[^5]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

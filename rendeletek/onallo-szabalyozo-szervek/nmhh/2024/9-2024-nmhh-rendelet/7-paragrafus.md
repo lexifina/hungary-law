@@ -1,1 +1,3 @@
-7. § Az R2. 2. melléklet 1. pontjában foglalt táblázat C:1 mezőjében az „M1, M2, M4 SPORT, M5, Duna, Duna World / M4 SPORT+, Kossuth Rádió, Petőfi Rádió, Bartók Rádió, Dankó Rádió” szövegrész helyébe az „M1, M2, M4 SPORT, M5, Duna, Duna World / M4 SPORT+, Kossuth Rádió, Petőfi Rádió, Bartók Rádió, Dankó Rádió, Nemzeti Sportrádió” szöveg lép.
+7. §[^7]
+
+[^7]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
