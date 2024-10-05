@@ -1,13 +1,3 @@
-## „9. melléklet a 9/2024. (II. 29.) BM rendelethez
+2. melléklet a 43/2024. (IX. 19.) BM rendelethez[^7]
 
-## 4X06584.pdf
-
-## ”
-
-2. melléklet a 43/2024. (IX. 19.) BM rendelethez
-
-„24. melléklet a 9/2024. (II. 29.) BM rendelethez
-
-4X06627.pdf
-
-”
+[^7]: A 2. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
