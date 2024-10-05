@@ -1,1 +1,3 @@
-12. § Hatályát veszti a forint- és az eurobankjegyek utánzatáról szóló 2/2010. (I. 28.) MNB rendelet.
+12. §[^1]
+
+[^1]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
