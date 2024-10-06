@@ -1,1 +1,3 @@
-2. § A levegőterheltségi szint határértékeiről és a helyhez kötött légszennyező pontforrások kibocsátási határértékeiről szóló 4/2011. (I. 14.) VM rendelet 6. melléklete az 1. melléklet szerint módosul.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

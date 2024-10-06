@@ -1,5 +1,3 @@
-3. § Hatályát veszti a levegőterheltségi szint határértékeiről és a helyhez kötött légszennyező pontforrások kibocsátási határértékeiről szóló 4/2011. (I. 14.) VM rendelet 6. melléklet 2.4. pontjában foglalt táblázat
+3. §[^4]
 
-a) 105. sora,
-
-b) 171. sora.
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

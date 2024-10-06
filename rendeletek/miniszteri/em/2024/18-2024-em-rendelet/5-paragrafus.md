@@ -1,1 +1,3 @@
-5. § Az egyes tevékenységek illékony szerves vegyület kibocsátásának korlátozásáról szóló 26/2014. (III. 25.) VM rendelet 4. melléklete helyébe a 2. melléklet lép.
+5. §[^6]
+
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
