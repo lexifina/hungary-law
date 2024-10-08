@@ -6,11 +6,12 @@ a)[^1] bontott elektronikus hírközlő hálózat, elektronikus hírközlési é
 
 b) egységes hírközlési objektummodell: az elektronikus hírközlési építmények elhelyezéséről és az elektronikus hírközlési építményekkel kapcsolatos hatósági eljárásokról szóló NMHH rendelet szerinti hírközlés hálózati adatmodell;
 
-c) földrajzi terület: település, településrész, fővárosban kerület, járás, megye;
+c)[^2] földrajzi terület: település, településrész, fővárosban kerület, járás, vármegye;
 
-d)[^2] meglévő elektronikus hírközlő hálózat, elektronikus hírközlési építmény és kapcsolódó eszköz: 2022. szeptember 1. napját megelőzően megépített és jogszerűen üzembe helyezett, valamint a tíz évnél régebben befejezett vagy használatba vett elektronikus hírközlő hálózat, elektronikus hírközlési építmény és kapcsolódó eszköz.
+d)[^3] meglévő elektronikus hírközlő hálózat, elektronikus hírközlési építmény és kapcsolódó eszköz: 2022. szeptember 1. napját megelőzően megépített és jogszerűen üzembe helyezett, valamint a tíz évnél régebben befejezett vagy használatba vett elektronikus hírközlő hálózat, elektronikus hírközlési építmény és kapcsolódó eszköz.
 
 (2) Az e rendeletben alkalmazott fogalmakat az elektronikus hírközlésről szóló 2003. évi C. törvény (a továbbiakban: Eht.), valamint az elektronikus hírközlési építmények elhelyezéséről és az elektronikus hírközlési építményekkel kapcsolatos hatósági eljárásokról szóló NMHH rendelet szerint kell értelmezni.
 
 [^1]: A 2. § (1) bekezdés a) pontja a 6/2021. (VII. 8.) NMHH rendelet 8. § 1. pontja szerint módosított szöveg.
-[^2]: A 2. § (1) bekezdés d) pontja a 6/2021. (VII. 8.) NMHH rendelet 8. § 1. pontja szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdés c) pontja a 10/2024. (X. 3.) NMHH rendelet 3. § 1. pontja szerint módosított szöveg.
+[^3]: A 2. § (1) bekezdés d) pontja a 6/2021. (VII. 8.) NMHH rendelet 8. § 1. pontja szerint módosított szöveg.
