@@ -1,0 +1,1 @@
+A Kormány a 2035. december 31-ig tartó programozási időszakra vonatkozó ágazati beruházási tervek és az állami építési beruházási keretprogram elkészítése érdekében – az állami építési beruházások rendjéről szóló 2023. évi LXIX. törvény 27. § (2) bekezdése alapján – egyetért az 1. mellékletben szereplő szakpolitikai-ágazati beruházási koncepciókkal.
