@@ -1,0 +1,1658 @@
+# A Kormány 1308/2024. (X. 9.) Korm. határozata
+
+Magyar Közlöny 2024. évi 102. szám, 2024. október 9. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/9Dg2TkFpV7oTAHLz9kyz66fb1357dd0d9/dokumentumok/05f0b4409c3a272d392428a977480a28eba4e69d/letoltes)
+
+---
+
+A Kormány 1308/2024. (X. 9.) Korm. határozata
+az állami építési beruházások 2035. december 31. napjáig szóló szakpolitikai-ágazati beruházási
+koncepcióinak elfogadásáról
+A Kormány a 2035. december 31-ig tartó programozási időszakra vonatkozó ágazati beruházási tervek és az állami
+építési beruházási keretprogram elkészítése érdekében – az állami építési beruházások rendjéről szóló 2023. évi
+LXIX. törvény 27. § (2) bekezdése alapján – egyetért az 1. mellékletben szereplő szakpolitikai-ágazati beruházási
+koncepciókkal.
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet az 1308/2024. (X. 9.) Korm. határozathoz
+I. AGRÁRIUM
+Az agrárágazat célja, hogy megújítsa Magyarország vidéki területeinek gazdaságát és minél magasabb fokú
+fejlődési pályára állítsa azt, kihasználva a modern technológiák adta lehetőségeket. A vidéki térségekben élő
+honfitársaink számára vonzó életkörülményeket és munkalehetőséget kívánunk biztosítani, miközben az európai és
+a magyar élelmiszerellátás biztonságát megteremtő mezőgazdasági termelést, a minőségi élelmiszerek előállítását
+jövedelmező és társadalmilag elismert tevékenységgé szeretnénk visszaállítani. Ezzel egyidőben hazánk környezeti
+állapotát, természeti erőforrásainak megújulását is előmozdítjuk, így a magyar Közös Agrárpolitikai Stratégiai Terv
+érdemben hozzájárul az Európai Zöld Megállapodás mezőgazdaságot érintő célkitűzéseinek megvalósításához.
+A vidéki Magyarország számára a mezőgazdaság, az erdőgazdaság, az élelmiszer-feldolgozás és a kapcsolódó
+gazdasági ágazatok gazdaságilag és környezetileg fenntartható fejlődése olyan lehetőséget jelent, amelynek
+révén saját erőforrásaira építve képes értéket teremteni és megélhetést biztosítani. A magyar vidéki térségek
+jelentős része komparatív előnyökkel, felhalmozott tudással rendelkezik a mezőgazdasághoz kapcsoló gazdasági
+tevékenységek tekintetében.
+Miközben a lakosság és számos ágazat közvetlenül támaszkodik a természeti erőforrásokra, valamint a biológiai
+sokféleség és a természeti rendszerek, ökoszisztémák által nyújtott szolgáltatásokra, a természet állapotának
+mutatói kedvezőtlen folyamatokat jeleznek, melyek kihívást jelentenek az elsősorban állami gondviselés alá
+helyezett természeti környezetünknek.
+Az agrárágazat állami építési beruházási szempontjai nem összevethetőek a kizárólag épített környezetbe
+tervező ágazatok kihívásaival. Nem elég a beruházások építésjogi, gazdasági és társadalmi szempontjait vizsgálni,
+az agrárstratégia vetülete e tekintetben azért eltérő, mert a gazdasági alapokon túl, egyszerre kell gondoskodni
+az élelmiszerbiztonságról, a génmegőrzésről és fajtafenntartásról, a felhalmozott tudás és értékek megőrzéséről
+és átmentéséről, a jövő generációjának képzéséről, az állami vagyon védelméről és a vidék megtartó erejének
+fejlesztéséről úgy, hogy mindeközben élettereket őrizzen meg és teremtsen újra élő környezetünk számára.
+Agrárszakképzés és mezőgazdasági múzeumok
+Az Agrárminisztérium, mint az agrárszakképzés ágazati felelőse, és mint a legnagyobb középfokú agrárszakképzési
+intézményfenntartó, olyan XXI. századi modern agrárszakképzés megteremtését tűzte ki célul, mely vonzó tanulási
+környezetben lehetőséget teremt a következő generációk számára a korszerű ismeretek elsajátítására és olyan
+végzettséget ad, amely piacképes tudást biztosít. Mindennek elengedhetetlen feltétele a megfelelő intézményi
+környezet, a modern, korszerű infrastruktúra. Célunk, hogy az agrárszakképzési centrumok intézményei a következő
+tíz évben – a területi sajátosságok figyelembevételével – mind infrastrukturálisan, mind szakmailag megújuljanak.
+A komplex intézményfejlesztési tervbe beletartoznak az oktatási intézmények, a tangazdaságok és a kollégiumok
+épületeinek felújítása mellett új tornatermek és tanműhelyek építése, valamint a képzésekhez használatos
+eszközállomány teljes körű megújítása.
+
+A mezőgazdasági műemléki és tradicionális tárgyi eszközállomány megőrzése és utókornak való továbbörökítése,
+bemutatása az agrárstratégia alapvető érdeke. Ennek keretében a méltó és értékmegőrző elhelyezés biztosítása
+elengedhetetlen, melyhez a múzeumok, kiállítóterek és tárolókapacitások felújítása és azok bővítése szükségszerű.
+Cél a Mezőgazdasági Múzeumnak helyet adó Vajdahunyadvár és a múzeum telephelyeinek történeti
+épületrekonstrukciója, a további állagromlás megakadályozása, a balesetveszélyes állapot megszüntetése. Ennek
+eredménye a műtárgyállomány méltó és modern környezetben történő megőrzése és bemutatása. Közvetlen
+hatása a turisztikai desztináció növelése, több látogató bevonzása, ezzel a bevételek növekedése.
+Erdő-, vad- és halgazdálkodás
+Az állami erdővagyonnal való gazdálkodás elsődleges célja a magyar erdőállomány megőrzése, védelme
+és gyarapítása úgy, hogy az erdők közjóléti célokat is kielégítve biztosítsák az ökoturisztikai szolgáltatások
+megjelenését, a környezet- és természetvédelmi szempontokat egyidejűleg figyelembe vevő szakszerű és
+eredményes erdőgazdálkodás folytatása mellett. Szakmai cél a tartamos erdőállomány-gazdálkodás megvalósítása,
+a természetközeli gazdálkodási módok használata, a klímaváltozás hatásainak ellensúlyozása, tompítása,
+a biomassza alapú térségi szintű megújuló energiahasznosítás fejlesztése, a lakossági tűzifa ellátás biztosítása,
+valamint az ökoturisztikai létesítmény-hálózat fejlesztése.
+A korszerű, ökológiai szemléletű erdő- és természetkezelés elsődleges feltétele az erdőterület megfelelő feltárása.
+A komplex megközelítéssel tervezett, stabil szállítópályák az erdei infrastruktúra elsődleges elemei. Megfelelő
+hálózatuk a forgalom csatornázása, ezáltal az erdőtalaj és a természeti értékek kímélete, valamint a vízgazdálkodási
+viszonyok javítása szempontjából is kiemelt jelentőségű. Az erdei infrastruktúra részeként számos, az élőhely
+javításával összefüggő beruházás is célként meghatározható. Az időjárási szélsőségekkel összefüggő hatások
+csökkentése érdekében mikro vizes élőhelyek, vízvisszatartó létesítmények létesítése az ökoszisztémára kedvező
+hatású, az erdőállományok stabilitását eredményezné.
+Az építés eszközeivel is növelni kell az erdőgazdaságok versenyképességét annak érdekében, hogy a jövőben
+megfelelő kereseti lehetőségeket kínáljanak.
+Az állami erdészeti társaságok a vidék meghatározó foglalkoztatói is, ezért az építési beruházásokkal a vidék
+megtartó erejének egyik letéteményesei lehetnek a jövőben. Fontos ezért az erdészeti feladatokat ellátó személyi
+állomány munkakörnyezetének megfelelő feltételeit biztosítani, az épületek fenntartási költségeit csökkenteni,
+azok megújuló energiaforrásból történő mind nagyobb részben ellátni. Elengedhetetlen az erdészeti társaságok
+termelő üzemeinek, épületeinek folyamatos fejlesztése, a munkavállalói létszám megtartása érdekében a lakhatási
+lehetőségek elősegítése.
+Egyre több ember keresi fel rekreációs céllal az erdőterületeket. Az állami erdők által biztosított „nyitott erdő”
+szerepére és az ezzel együtt járó ökoturisztikai építési beruházásokra mind inkább nagyobb hangsúlyt kell fektetni.
+A társadalom elvárásai az ökoturisztikai szolgáltatások minősége és színvonala iránt folyamatosan emelkednek,
+ezeknek a növekvő igényeknek kell folyamatosan fejlődve megfelelni, vagy ezeket az igényeket megelőzve
+új látogatókat az erdőbe vonzani.
+A horgászturizmus fejlesztése, a növekvő igénybevétel kielégítése kizárólag célirányos kapacitásfejlesztéssel
+(horgászhelyek, csónakkikötők, szálláshely stb.), a meglévő szolgáltatási helyek és infrastruktúra korszerűsítésével
+lehetséges, melyhez az állami beavatkozás, kontroll elengedhetetlen.
+A hosszú távú fenntarthatóság és a fejlesztésből származó értékesítési, marketing potenciál maximalizálása
+érdekében olyan kiemelt és standard horgászturisztikai szolgáltatási pontokat kell létrehozni, fejleszteni, melyek
+elhelyezkedésük, ökológiai és turisztikai értékük alapján alkalmasak a fenti célok elérésére. Külön feladat az országos
+szolgáltató központ, a decentrumok és a balatoni mikrohálózat, a nemzetközi versenypálya-rendszer fejlesztése,
+korszerűsítése is. Ezek a szolgáltatási pontok a későbbiekben mintaként szolgálnak a stratégia egyéb önálló
+elemeiből szintetizálható, de alacsonyabb szolgáltatási szintet képviselő attrakciók fejlesztéséhez.
+A Balatoni Halgazdálkodási Nonprofit Zártkörűen Működő Részvénytársaság tervezett építési beruházásai szorosan
+kapcsolódnak a Nemzeti Halgazdálkodási Stratégia 2030 célkitűzéseihez, így különösen a horgászathoz kapcsolódó
+attrakciók fejlesztéséhez, a vízparti és vízi infrastruktúra fejlesztéséhez, a horgászturisztikai szolgáltatások komplex
+fejlesztéséhez, az információ, marketing, promóció, kommunikáció fejlesztéséhez, valamint a koordináció és
+menedzsment fejlesztéséhez. A stratégia átfogó célja, hogy Magyarország horgászturisztikai szolgáltatásai
+
+megfelelő mennyiségben és minőségben, a szolgáltatásvásárlói igények szerint kialakított, hálózatos szemléletű
+lokalizációban állnak mindenki rendelkezésére, így fenntartható módon működhetnek 2030 után is. A fejlesztések
+várható pozitív és mérhető nemzetgazdasági hatásai közt szerepel a GDP és a foglalkoztatottság növelése,
+egészségnyereség realizálása.
+Élelmiszerlánc-biztonság
+A szakpolitikai célok megvalósításához az infrastrukturális működési jellemzők átalakítása vált szükségessé, mely
+az alábbi 3 fő területen érvényesítendő:
+A decentralizált berendezkedés helyett az irodai és adminisztratív funkciók egyetlen, központosított helyszínre
+történő koncentrálása.
+Az állategészségügyi diagnosztikai, valamint az élelmiszerlánc-biztonsági laboratóriumi hálózat területén
+központosított laboratóriumi környezet megvalósítása. A laboratóriumi hálózatok működésére fordítható forrás
+hatékonyabban használható fel abban az esetben, ha a ráfordítás műszakilag korszerű, központi laboratóriumi
+létesítmények működésére biztosított. A koncentrált műszerpark a megújítása okán kapacitásában hatékonyabban
+tervezhető és üzemeltethető. A centralizált szakterületi laboratóriumi feladatellátás eredményeképpen
+az élelmiszerlánc-biztonsági, valamint az állategészségügyi területen végzett munka egységes és magas színvonala
+tovább erősíti e terület pozitív társadalmi és lakossági megítélését. A centralizált országos szintű működés
+kiküszöböli továbbá a jelenlegi működésben potenciálisan tapasztalható területi különbségeket.
+A Kiváló Minőségű Élelmiszer védjegyrendszer feladatainak végrehajtásához Minősítő Központot kell létrehozni,
+amely egyúttal képes támogatni a hazai termelők és gyártók, kiváló minőségű termékeinek versenyképes
+minőségfejlesztését is. A hazai élelmiszer-előállítás előnyhöz juttatásával csökkenthető az ökológiai lábnyom és
+biztosítható a megfelelő mennyiségű és biztonságú élelmiszer a magyar családoknak.
+Ménesgazdaságok
+Elsődleges szakmai cél a ménesgazdaságok számára a gondozott őshonos és egyéb lófajták fenntartása,
+genetikai megőrzése, fejlesztése, melyhez elengedhetetlen a tárgyi környezet fenntartása. További cél azonban
+az alapfeladatokhoz kapcsolódó sport és idegenforgalmi turizmus bővítését célzó beruházások, a nemzeti kulturális
+örökség részét képező műemléki épületegyüttesek eredeti funkcióban történő megőrzése és a dolgozói személyi
+állomány munkakörülményeinek javítása. A ménesgazdaságok szakmai feladatain túl alapfeladatként tekintenek
+a rábízott ingatlan együttesek fenntartására, legyen az a modern kor sportcélú építészete, vagy a 19. század
+műemléki remeke. Célunk és feladatunk a jövőre nézve az ingatlanok műemléki megjelenésének megőrzése mellett
+a mai kornak megfelelő energiahatékony működtetést és komfortot biztosítani úgy, hogy a teljes ingatlanállomány
+funkciójában hasznosításra kerüljön.
+Nemzeti Földalap
+Szakpolitikai cél, hogy a Nemzeti Földalapba tartozó területek művelhetőek, biztonságosak legyenek, valamint
+használható és hasznosítható állapotba kerüljenek, ezáltal a hasznosítási bevételeket is növelni lehessen. A Nemzeti
+Földalapból finanszírozott építési beruházások az Agrárminisztérium alaptevékenységeként – a tulajdonosi
+joggyakorlása alá tartozó – állami tulajdon állagmegóvását, használhatóságának biztosítását és értékmegőrzését
+szolgálják. Stratégiai feladat, hogy az állam tulajdonában lévő ingatlanok, e körben a termőföldek, zártkertek, utak,
+árkok és csatornák használhatósága eredeti rendeltetésüknek megfelelően fennmaradjon, ezáltal az állami vagyon
+tekintetében legalább értékmegőrzés, de mindinkább értéknövekedés valósuljon meg. Az előírt kötelezettség
+indokolttá teszi a földrészletekkel összefüggő állagmegóvással és gazdálkodással kapcsolatos feladatok ellátását,
+melyekhez elengedhetetlen a költségvetési forrás biztosítása.
+Öntözésfejlesztés
+Az öntözéses gazdálkodás kiterjesztésével mérsékelhetők az aszályos, illetve a vízhiányos időszakok negatív
+hatásai, így fokozható a mezőgazdasági termelés és a hazai élelmiszer-ellátás biztonsága, továbbá kiszámíthatóbbá
+válik a mezőgazdasági termelők megélhetése, amely fokozhatja a vidék népesség megtartó képességét is.
+A termésbiztonság megőrzése és növelése érdekében az öntözhető területek bővítése elengedhetetlenül
+
+szükséges, mely állami építési beavatkozás nélkül nem tud megvalósulni. Az öntözéses gazdálkodás alapvető
+feltétele a fő- és mellékművi rendszerek kialakítása, az öntözővíz felhasználási pontokhoz, épített rendszerek útján
+történő eljuttatása.
+Természetvédelem és génmegőrzés
+A természetvédelem területén egyrészt gondoskodni kell a leromlott állapotú területek helyreállításáról és fenntartó
+kezeléséről, másrészt az állampolgárok mozgósításával javítani szükséges a természet és a társadalom közötti
+összhangot. A természetvédelmi ágazat beruházásai ezen célkitűzések teljesítéséhez szükséges infrastrukturális
+feltételek megteremtésére és fejlesztésére irányulnak, az állami tulajdonú és természetvédelmi vagyonkezelésű
+területeket és infrastruktúra-elemeket célozva.
+A génmegőrzés területén cél a hazai mezőgazdaság növényi és állati genetikai erőforrásainak hosszú távú,
+biztonságos megőrzése, melyhez elengedhetetlen a génmegőrzési infrastruktúra fejlesztése. Ennek egy része
+az elmúlt években megtörtént a génmegőrzési stratégia végrehajtásának köszönhetően, ugyanakkor számos
+fejlesztésre van még szükség. A Kormány által elfogadott, a Biológiai sokféleség megőrzésének 2030-ig szóló
+nemzeti stratégiájának kiemelt célkitűzései közé tartozik szintén mind a növényi, mind az állati genetikai erőforrások
+megőrzése, valamint a fejlesztésekhez szükséges pénzügyi források folyamatos biztosítása.
+A növényi génmegőrzés területén fentiek alapján kiemelt cél a megfelelő infrastruktúra biztosítása a növekvő,
+felszaporítandó minták megfelelő tárolására, valamint biztonsági okokból azok duplikátumainak megőrzésére egy,
+a génbanktól földrajzilag elkülönülő helyszínen.
+II. RENDÉSZET
+Rendőrség
+A 2035-ig tartó időszakban társadalmilag kiemelt fontosságú marad a közbiztonság további növelése,
+a bűncselekmények számának visszaszorítása. Biztosítani kell az állampolgárok számára a „látható” rendőrséget,
+emellett a fokozott migráció miatt tovább kell erősíteni a határőrizeti feladatokat, és a migráció visszaszorítását.
+A Rendőrség állami feladatainak ellátásához szükségszerű a feladatrendszerhez igazodó, speciális funkciókkal
+rendelkező elhelyezés biztosítása, a meglévő leromlott, funkcionálisan elavult épületek felújítása, korszerűsítése,
+új ingatlan-beruházásokkal történő mielőbbi kiváltása, az összetett rendőrségi munkát segítő módszerek,
+eszközök fejlődésével összhangban álló épületek, kiszolgáló helyiségek biztosítása, az állomány megfelelő
+munkakörülményeinek kialakítása. Mindezek mellett kiemelten kell kezelni az állampolgárok gyors és hatékony
+ügyintézéséhez szükséges infrastrukturális fejlesztéseket is.
+A rendőrségi munkát segítő informatikai és egyéb technikai eszközök fejlődése megköveteli az azok
+felhasználásához szükséges elhelyezési feltételek módosítását is. A tervezett fejlesztésekkel a szakmai munka
+hatékonyabban ellátható, az egyes cselekményekre történő reagálási idő csökkenthető, és az eljárások gyorsabban
+kivitelezhetőek.
+A Rendőrségnek a 2035-ig tartó időszakban a következő célokat kell elérnie:
+– A bűncselekmények visszaszorítása, a felderítés hatékonyságának növelése, a közbiztonság javítása.
+– Az állampolgárok bizalmának erősítése, biztonságérzetének növelése.
+– Az épületekben is tükröződő, egységes megjelenés biztosítása Magyarország településein.
+– A Rendőrség üzemeltetésében található épület állomány új céloknak, innovációs fejlesztéseket kiszolgáló
+új épületekkel, funkcionális helyiségekkel történő bővítése, és a meglévő épületek gazdaságosan
+működtethető feltételeinek biztosítása.
+– A meglévő közúti határátkelőhelyek felújítása mellett egyes határátkelők fejlesztése, bővítése, átépítése
+a közúti teherforgalom és személyforgalom átléptetésének gyorsítása érdekében.
+– Országos légimentő bázisok kiépítése.
+
+Büntetés-végrehajtás
+Cél, hogy a büntetés-végrehajtási intézetek műszaki állapota a fejlesztések sikeres befejezését követően országos
+szinten közelítsen egymáshoz.
+A büntetés-végrehajtási intézetek beruházásai a fogvatartás jogszabályi követelményeit kell, hogy kielégítsék,
+és a reintegrálódást elősegítő szakmai képzéseket, munkafeltételeket kell, hogy biztosítsák a foglalkoztatható
+elítéltek számára. Mindezek mellett a fogvatartottak egészségi állapotának megőrzésére is törekedni kell
+a megfelelő sportolási lehetőségek biztosításával a bezártságból adódó mozgásszegény életmód ellensúlyozása és
+az egészségmegőrzés érdekében. A beruházások, fejlesztések meg kell, hogy feleljenek a szigorú biztonságtechnikai
+előírásoknak, amelyet a technikai innováció vívmányainak teljes körű felhasználásával kell megvalósítani.
+A beruházási stratégia megvalósítása során kiemelt az intézetek olyan releváns mutatókkal történő mérése, melyek
+az elvégzett felújítások és korszerűsítések hatékonyságát és eredményességét elemzik és értékelik.
+A megvalósítandó beruházások az ágazat szakmai fejlesztésére, környezetvédelmi, és közegészségügyi előírások
+betartására, működési költségek csökkentésére, állagmegóvásra és infrastrukturális fejlesztésre irányuló műszaki
+javaslatokat tartalmaznak. Ezen beruházások és felújítások azok, amelyek biztosítják a büntetés-végrehajtási
+szervezet hatékony, biztonságos és szakszerű feladatellátását.
+A megszüntetésre kerülő – elhelyezkedésüknek köszönhetően – többségükben magas forgalmi értéket képviselő
+helyi büntetés-végrehajtási intézetek értékesítéséből befolyó összegek felhasználásával kevesebb, de nagyobb
+férőhellyel rendelkező korszerű intézményi beruházások tervezettek, amelyek előnye, hogy a fogvatartási költségek
+is jelentősen csökkenthetők.
+Katasztrófavédelem
+A katasztrófavédelem jövőbeni beruházásainak célja, hogy a szervezeti egységek az alapfeladatuk ellátásának,
+a kor színvonalának megfelelő, korszerű, energiatakarékos ingatlanokban lássák el a szolgálati feladataikat.
+Az épületállomány megújítását a fenntartható, energia- és költséghatékony üzemeltetést lehetővé
+tevő felújításokra, az energiafelhasználás csökkentésére, és az intelligens rendszerek alkalmazására kell
+alapozni. A katasztrófavédelem működési hatékonyságának fejlesztése hozzájárul a Magyarország nemzeti
+katasztrófakockázat-értékeléséről szóló jelentésben (2020) foglalt katasztrófakockázatok bekövetkezési
+valószínűségének csökkentéséhez, vagy hatásának mérsékléséhez.
+A stratégiai célkitűzésekkel elérhető, hogy a katasztrófavédelem állománya, eszközei az alapfeladat ellátást teljes
+mértékben biztosító, és ahhoz funkcionálisan igazodó ingatlanállományban kerüljenek elhelyezésre, ezáltal magas
+színvonalú katasztrófavédelmi ellátást tudjanak nyújtani.
+Emellett esztétikus, településképbe illeszkedő, de saját arculatot sugalló megjelenésű, egészséges
+munkakörnyezetet biztosító, a tartós és hosszú élettartamú, gazdaságos működtetési költségű épületekkel
+lehet gazdagítani az állami vagyont, növelve a katasztrófavédelem presztízsét. Ez hozzájárul a feladatellátás
+hatékonyságához és színvonalához.
+Idegenrendészet
+Az Országos Idegenrendészeti Főigazgatóság beruházásainak a saját állomány feladatellátásához kapcsolódó
+korszerűsítéseken, energiahatékony üzemeltetésén túlmenően meg kell felelniük az ügyintézés gyors, korszerű,
+hatékony kiszolgálását biztosító épületek felújításának, fenntartásának is.
+Cél a meglévő épületállomány energetikai célú építési jellegű felújítása, annak vizsgálata mellett, hogy
+a megújuló energia műszaki módszerei és lehetőségei a meglévő épületeken, épületekben alkalmazhatóak-e.
+Ez az elv az épületállományra egységesen vonatkozik, alkalmazása egységes és nem tesz különbséget az egyes
+épületállományok funkcionális feladatai között, ezzel megfelelve a kihívások azon követelményének, hogy
+az energia felhasználás csökkentése, szerkezetének átalakítása mind gazdasági, mind környezetvédelmi társadalmi
+követelmény.
+
+Az Országos Idegenrendészeti Főigazgatóság működési helyszínei alapvetően vagyonkezelt ingatlanok,
+de ingyenesen használt rendőrségi, valamint bérelt ingatlanok is biztosítják a korszerű és hatékony munkavégzést.
+Általánosan kimondható törekvés, hogy a felsorolt, valamennyi ingatlantípusban történjenek előremutató lépések
+a korszerű energetikai megoldások alkalmazására, az ügyfélfogadás körülményeinek jelentős mértékű javítása
+mellett.
+III. EGÉSZSÉGÜGY
+Országos Kórházi Főigazgatóság (kórházak)
+A jelenlegi infrastruktúra és felépítmények fenntartásának magas költsége, a struktúra széttagoltsága miatt
+az ellátási szintek optimalizálása, a lakosságközeli, definitív alapellátás és járóbeteg-szakellátás megerősítése
+szükséges.
+Az egészségügyi ágazat beruházásainak vezérlő motorja és a prioritások meghatározásának elsődleges célja,
+hogy a lakosság az egészségügyi problémával a lehető legkorszerűbb, legbiztonságosabb, legkomfortosabb
+környezetben vegye igénybe a közfinanszírozott szolgáltatást. A lakóhely közelében kell biztosítani az alapellátást,
+a járóbeteg szakellátást és diagnosztikát, a krónikus beteggondozást és fekvőbeteg ellátást. A komoly eszköz és
+humánerőforrás igényű ellátások koncentrálása szükséges.
+A beruházások mozgató ereje és priorizálása szempontjából kiemelten fontos a betegellátás biztonságának
+fokozása, a kórházi fertőzések megelőzése, ennek keretében Sterilizáló Központok létrehozása, műtőkorszerűsítések,
+a széttagoltan működő műtők egy helyre költöztetésével a hatékony munkaszervezés megvalósítsa, ezáltal a műtéti
+szám növelése.
+Cél az egészségügyi területek országosan összehangolt és központilag felügyelt rendszerének kialakítása, ami
+kiterjed a közfinanszírozott megelőző és gyógyító ellátás minden területére (közfinanszírozott megelőző ellátás;
+alapellátás; járóbeteg-szakellátás; fekvőbeteg-szakellátás; állami, magán, egyházi, vagy éppen alapítványi
+működtetésű). Emellett indokolt a vármegyei/centrumkórházi szintű (területi) centralizáció, ennek keretében
+az ellátórendszeren belüli párhuzamosságok csökkennek, profiltisztított ellátóhelyek jönnek létre a fenntarthatóság
+és a költséghatékonyság javítása, valamint a széttagoltság csökkentése érdekében.
+Az egészségügyi ellátások minőségének folyamatos fejlesztése a lakossági szükségletekhez alkalmazkodva
+a betegek ellátásához, egészségügyi szolgáltatásokhoz való hozzáférésének javítása; a várakozási idő csökkentése
+mind a járóbeteg szakellátás, a diagnosztikai vizsgálatok és a műtéti beavatkozások esetében; az egyenlő
+hozzáférés biztosítása a betegség ellátása szempontjából azon a helyen, ahol a személyi és tárgyi feltételek stabilan
+rendelkezésre állnak.
+Új építések esetében megvizsgálandó, hogy a meglevő intézményi infrastruktúra hogyan optimalizálható, illetve
+lehetséges-e ennek keretében a régi elavult épületek elhagyása, ellátások összevonása, párhuzamosságok
+megszüntetése.
+A teljes körű műszaki felújítás során a betegellátás különleges igényei mellett ki kell elégíteni az orvostechnológia
+sokrétű elvárásait, az épületeknek helyt kell állnia műszaki, felületfertőtlenítés szempontjainak és az esztétikai,
+komfort szempontoknak is.
+A diagnosztikai központok országos fejlesztése tervezett, melynek eredményeképpen jelentősen javul az ellátáshoz
+való hozzáférés.
+Az energiahatékony és így egyben költséghatékony épületüzemeltetés kiemelt szempont.
+Országos Mentőszolgálat
+Az Országos Mentőszolgálat széleskörű feladatellátására tekintettel minden mentőállomást az elmaradt felújítások
+megvalósításával a kor követelményeinek megfelelő színvonalúvá kell átalakítani. Az elkövetkező évekre
+vonatkozóan alapvető célkitűzés, hogy a mentőállomások megfelelően biztosítani tudják a feladatellátás műszaki és
+szociális feltételeit, továbbá a gazdaságos üzemeltetést, így fontos cél a megújuló energiaforrások felhasználásának
+kialakítása.
+
+Országos Vérellátó Szolgálat
+Az ellátásbiztonság fontos eleme a gyógyításhoz szükséges vér, vérkészítmény megfelelő mennyiségének
+folyamatos biztosítása és a transzplantáció biztonságának garantálása, különösen pandémia idején. Ehhez
+elengedhetetlen a hatékonyságot javító infrastrukturális és eszközfejlesztésen túl a véradás új alapokra helyezése,
+a véradók számának csökkenését lassító megoldások alkalmazása.
+Kiemelt cél az Országos Vérellátó Szolgálat, mint egészségügyi szolgáltató szervezet egységes, márkaként,
+védjegyként történő megjelenése a köztudatban. A vérellátás biztonságának javítása érdekében centralizált termelő
+központ létrehozása.
+Nemzeti Népegészségügyi és Gyógyszerészeti Központ
+A népegészségügyi terület feladatai végrehajtása megfelelő feltételeinek biztosítása érdekében el kell végezni
+az azbeszt-mentesítéseket, ólom vízvezetékek cseréjét, fűtéskorszerűsítéseket, elektromos hálózat cseréjét,
+informatikai rendszer cseréjét, világító testek cseréjét, hogy a hatósági és tudományos munka a mai igényeknek
+megfelelő technológiával, és színvonalon történjen.
+Új – a laboratóriumokat, orvosi rendelőket, és ezeket kiszolgáló funkciókat is magába foglaló korszerű – laborépület
+és hozzá kapcsolódó állatház megvalósítása tervezett, amely elengedhetetlen feltétele a Nemzeti Népegészségügyi
+és Gyógyszerészeti Központ megfelelő működésének.
+IV. KÖZNEVELÉS
+Az iskolaépítés, -felújítás, a meglévő infrastruktúra állagmegóvása jövőorientált feladat. A cél olyan infrastruktúra
+létrehozása, amely alkalmas a helyben óvodába, iskolába járó gyermekek és diákok befogadására, illeszkedik
+az adott intézményi kultúrához, az adott intézmény pedagógiai programjához, továbbá szolgálja a településen élő
+emberek szellemi és testi fejlődését, illeszkedik a település képébe, az ott dolgozók és tanulók jogos igényeihez,
+a szülők elvárásaihoz, és megfeleljen a hagyományos magyar építészet követelményeinek is.
+Cél, hogy valamennyi köznevelési intézmény az ott végzett feladat ellátására alkalmas, műszaki szempontból
+kifogástalan, energiafelhasználás szempontjából pedig takarékos legyen, szolgálja a fenntartható fejlődés alapelveit.
+Az épületek az oktatási, nevelési funkción túlmenően biztosítják az egészséges életmódra nevelés feltételeit is
+oly módon, hogy a kiépített sportkomplexumokat szabadidős tevékenységre a helyi lakosok is igénybe tudják
+venni. Ezzel biztosítható, a társadalmi elvárásoknak való megfelelőség, azaz a település lélekszámához igazodó
+megfelelő, helyi, oktatási, kulturális és sportlétesítmények igénybevétele, a helyi közösségek összetartásának,
+összetartozásának erősítése, a családok életminőségének javítása. A nevelési-oktatási intézményeknek
+gondoskodniuk kell a nevelés, oktatás szakmai elvárásoknak megfelelő biztonságos feltételeinek megteremtéséről,
+az épületek balesetmentes, egészségre nem veszélyes használati lehetőségének biztosításáról.
+A köznevelési stratégia kiemelt feladatként jelölte meg a korszerű köznevelési intézményrendszer és infrastruktúra
+létrehozását.
+Az intézményrendszer- és az infrastruktúra-fejlesztéshez kapcsolódó legfontosabb fejlesztési irányok:
+– új intézmények építése vagy meglévők bővítése a növekvő népességű területeken;
+– a meglévő köznevelési infrastruktúra állagmegóvása;
+– széttagolt, kis létszámú, nehezen fenntartható infrastruktúrájú intézmények áttekintése;
+– a mindennapos testnevelés megvalósításához és a magas szintű egészség-neveléshez szükséges
+infrastruktúra-fejlesztés (tornaterem, tornaszoba, tanuszodák) megvalósítása;
+– óvodák, iskolák energiahatékonyságának fejlesztése;
+– a gyermekek étkezési környezetének, körülményeinek javítása.
+
+V. VÍZÜGY
+A vízügyi szakterület feladata a hidrometeorológiai és vízjárási viszonyok függvényében az állami tulajdonú vizek
+és vízilétesítmények működtetése, fenntartása. Feladat a vízvisszatartás és vízszétosztás a vizeink jobb hasznosítása,
+a gazdaság-támogató vízgazdálkodás, a kockázatmegelőző vízkárelhárítás, a vizek állapotának fokozatos javítása,
+a minőségi víziközmű-szolgáltatás és minőségi csapadékvíz-gazdálkodás érdekében.
+Az ágazat számára keretet ad az Európai Parlament és az Európai Tanács alábbi két irányelve, amely az országok
+számára egységesen és kötelező jelleggel szabályoz.
+A Víz Keretirányelv szerint a víz örökség, amit szükséges óvni, és a vízkészletekkel való gazdálkodásnak biztosítani
+kell azok hosszútávú megőrzését. Előírásai jogi keretet adnak az Európai Unió tagállamainak a felszíni és felszín
+alatti vizek védelméhez. Cél, hogy a patakok, tavak és felszín alatti vizek mennyiségi, minőségi értelemben
+ún. „jó állapotot” érjenek el. Végrehajtásként Magyarország Vízgyűjtő-gazdálkodási Tervet (VGT) készített, melyet
+6 évente felülvizsgál, jelenleg a második felülvizsgálat, a VGT3 van érvényben.
+Az Árvízi Irányelv előírja, hogy a tagállamoknak előzetes kockázatbecslést, árvízi veszély- és kockázati térképeket,
+továbbá az árvízkockázat kezelésére, csökkentésére hozandó intézkedéseket kell kidolgoznia. Ennek értelmében
+a Kormány elfogadta Magyarország Árvízi Országos Kockázatkezelési Tervét, amely kockázati alapokra helyezi
+az árvízvédelmi fejlesztések helyszínének kiválasztását, mértékének szükségességét és a védelmi eszközrendszer
+használatát.
+A klímaváltozás és annak hatásaira reagálva, az uniós törekvések és a két irányelv elvárásai, tapasztalatai mentén
+Magyarország célja az ország vízgazdálkodási stratégiájának megújítása lett. A Kormány 2017-ben elfogadta
+Magyarország Nemzeti Vízstratégiáját, a Kvassay Jenő Tervet, amely a magyar vízgazdálkodás 2030-ig terjedő
+keretstratégiája és intézkedési terve.
+A fenti irányelvek és a Nemzeti Vízstratégia érvényesítése érdekében a vízügy szakpolitikai célkitűzése, hogy
+a víz hasznosan és hatékonyan szolgálja a nemzet fenntartható fejlődését, azaz elégséges, biztonságos, tiszta
+és jó állapotú víz álljon rendelkezésre a jelen vízhasználatok és a jövő generáció, valamint a természeti értékek
+számára, miközben a vízhasználatok és a vizek kártételei elleni intézkedések harmóniában vannak a természeti
+adottságokkal.
+A vízügyi ágazat kiemelt feladatai:
+– átfogó vízgazdálkodási rendszer kialakítása;
+– vízvisszatartás a vizeink jobb hasznosítása érdekében;
+– kockázat megelőző ár- és belvízvédelem;
+– a vizek állapotának fokozatos javítása, a jó állapot/potenciál eléréséig;
+– aszálykezelés;
+– öntözés;
+– infrastrukturális fejlesztések.
+VI. VÍZIKÖZMŰ
+A Kormány továbbra is kiemelt feladatként kezeli a víziközmű-ágazat fejlesztését, ennek érdekében a szakpolitikai
+célok az alábbiak szerint összegezhetőek.
+A korábbi évek uniós és hazai finanszírozású fejlesztési programok az uniós irányelveknek történő megfelelést
+támogatták, azonban emellett a meglévő hálózati elemek rekonstrukciójára kevesebb erőforrás jutott, ezáltal
+a hálózat állapotából kifolyólag emelkedik a meghibásodások száma és a hálózati vízveszteség mértéke.
+A víziközmű hálózatok rekonstrukciójának megvalósítása elengedhetetlen a hatékony üzemeltetés és a vízkincs
+védelme érdekében, mely hozzájárul a vízveszteségek csökkentéséhez és egyúttal a villamosenergia-fogyasztás
+csökkentéséhez, a szennyvízhálózatokon az idegenvíz és a hozzáfolyások csökkentéséhez.
+A gördülő fejlesztési tervezés során a víziközművek fejlesztésében, üzemeltetésében érintettek áttekintik
+a rájuk bízott víziközmű-vagyont és hosszú távon gondolkodnak a meglévő víziközmű-rendszerek szükséges
+felújításairól, továbbá a területfejlesztés, a környezet- és természetvédelem, az ipari és mezőgazdasági fejlesztések
+
+figyelembevételével adják meg a szükséges beruházási igényeket. A minőségi víziközmű szolgáltatás hosszú távú
+fenntartásához szükséges a víziközmű-szolgáltatók és az ellátásért felelősök által elkészített, a Magyar Energetikai és
+Közmű-szabályozási Hivatal által jóváhagyott gördülő fejlesztési tervekben foglaltak megvalósítása.
+Elérendő cél a víziközművek hatékonyságának növelése, a fenntartható vízgazdálkodás előmozdítása, a víziközmű-
+rendszerek műszaki állapotát és hidraulikai viszonyokat javító, a vízellátás biztonságát növelő, a vízveszteséget
+csökkentő és a fenntartható üzemeltetéshez hozzájáruló fejlesztések támogatása. Ezen a területen szükséges
+a meglévő rendszerek komplex fejlesztése, hatékonyságnövelése, optimalizálása, automatizálása, folyamatirányítása.
+A víziközmű ágazat kiemelt feladatai közé tartozik az uniós irányelvekben foglalt követelmények maradéktalan
+teljesítése, melyekhez az alábbiak megvalósítása szükséges:
+– Az Ivóvíz Irányelvnek jelenleg nem megfelelő vízellátással érintett település vagy településrészek megfelelő
+ivóvízzel történő ellátásának elősegítése. Továbbá az Ivóvíz Irányelvben foglalt előírások teljesítéséhez
+a víziközmű-szolgáltatókhoz kapcsolódó (például laboratóriumi infrastruktúra fejlesztés, informatikai
+fejlesztés, üzemeltetési monitorig változás és új paraméterek miatt) beruházások megvalósítása.
+– A Szennyvíz Irányelvben foglalt feladatok és előírások maradéktalan teljesítése. A derogációval érintett
+új fejlesztési igények megvalósítása. A Szennyvíz Irányelv folyamatban lévő módosításából adódó feladatok
+ellátása.
+A környezetvédelmi, vízbázisvédelmi és közegészségügyi szempontok, valamint a lakossági igények megkívánják
+a 2000 fő alatti települések szennyvíz kérdéskörének megoldását, a keletkező szennyvíz ártalommentes
+elhelyezésének biztosítását korszerű technológiákkal.
+VII. GONDOSKODÁSPOLITIKA
+A gondoskodáspolitika feladatkörébe tartozóan a stratégiai irányokat a Tartós ápolásra-gondozásra vonatkozó
+stratégia 2030., valamint a fogyatékossággal élő személyek számára ápolást-gondozást nyújtó szociális intézményi
+férőhelyek kiváltásáról szóló 2019–2036. évekre vonatkozó hosszú távú koncepció jelöli ki.
+Szociális intézményrendszer
+Férőhely kiváltás – Támogatott lakhatás
+Cél a Kormány fogyatékossággal élő személyek számára ápolást-gondozást nyújtó szociális intézményi férőhelyek
+kiváltásáról szóló 2019–2036. évekre vonatkozó hosszú távú koncepciójának végrehajtása, valamint, hogy a főváros
+területén élő fogyatékos személyek és pszichiátriai betegek részére a fővárosban kerüljön biztosításra támogatott
+lakhatási férőhely.
+Bentlakásos idősotthoni férőhelyek létrehozása
+Az ellátórendszernek is alkalmazkodnia szükséges az öregedő társadalomhoz, ennek következtében 2040-ig
+a rendelkezésre álló idős bentlakásos férőhelyszámot is ezzel az aránnyal szükséges növelni.
+Szakápolási központok kialakítása
+Az egészségügyi ágazattól a szociális ágazatba átvett ingatlanokban biztosítani szükséges a szociális intézmény
+kialakítására vonatkozó jogszabályi előírásoknak megfelelő feltételeket, melyek átalakítást, felújítást követően
+valósulhatnak meg.
+Speciális szükségletű személyek ellátása
+Speciális férőhelyek kialakítása, akár zöldmezős beruházás keretében, az Igazságügyi Megfigyelő és Elmegyógyító
+Intézetben kezelt, kényszergyógykezelést nem igénylő, nem közvetlen veszélyeztető magatartású pszichiátriai
+beteg személyek részére, valamint a súlyos autizmus spektrum zavar diagnózisával rendelkező igénylők megfelelő
+ellátása érdekében.
+
+Megváltozott munkaképességű személyek foglalkoztatása
+A három állami tulajdonú társaság 8000 főt meghaladó mértékben biztosít munkát a megváltozott
+munkaképességű emberek számára. A társaságok országos szinten jelen vannak több, mint 150 telephelyen. Több
+telephely esetén energetikai korszerűsítés indokolt egyrészt az épületek állapota okán, másrészt mivel a cégek
+nyereségorientált környezetben végeznek non-profit tevékenységet, így kiemelt jelentőséggel bír a nagylétszámú
+ingatlanállomány fenntartási, üzemeltetési költségeinek racionalizálása.
+Gyermekvédelmi intézményrendszer
+A gyermekotthoni rendszer, a gyermekvédelmi központok telephelyeinek korszerűsítése, a korszerű gyermekotthoni
+struktúra érdekében megjelenő átszervezések, kiváltások mellett, szükséges az új kihívásoknak megfelelni képes
+gyermekvédelmi szolgáltatási központok kialakítása regionálisan, melyek megfelelő feltételeket teremtenek
+az állami ellátórendszer garanciális feladatellátásának biztosítására.
+Cél
+– a speciális szükségletű gyermekeket ellátó férőhelyek növelése;
+– a különleges szükségletű gyermekeket ellátó férőhelyek növelése;
+– az átlagos szükségletű és utógondozói férőhely létrehozása;
+– a befogadó otthon létrehozása;
+– a befogadó otthoni férőhelyek számának bővítése;
+– a régiós szinten kialakított 11 szolgáltatási központ belső iskolával és szolgáltatással.
+A gyerekvédelemben elhelyezettek számára létrehozandó központi, minőségi képzőhely
+A gyermekvédelmi gondoskodásban élő gyermekek állami szolgálatra felkészítő oktatásban való részvételének
+elősegítése céljából, országos ellátási területtel központi középfokú oktatási intézmény és kollégium kialakítása.
+Javítóintézeti ellátás és központi speciális gyermekotthonok
+Az állami fenntartásban maradó javító intézeti és speciális gyermekotthoni ingatlanállomány fejlesztése
+szükséges a jelenlegi intézményrendszer struktúrájának, kapacitásainak középtávú felülvizsgálatával, átszervezési
+lehetőségeinek vizsgálatával.
+Társadalmi felzárkózás
+Biztos Kezdet Gyerekházak és Tanodák infrastrukturális fejlesztése, felújítása és kialakítása
+A 2022. december 22-én elfogadott Emberi Erőforrás Fejlesztési Operatív Program Plusz 3. (EFOP plusz) prioritási
+tengelye tartalmazza a társadalmi felzárkózási fejlesztéseket, amelyek a hazai költségvetésből finanszírozott,
+már működő Biztos Kezdet Gyerekházak és Tanodák infrastrukturális helyzetének javításán és támogatásán túl
+új szolgáltatások infrastrukturális fejlesztésére is irányul.
+Hátrányos helyzetű, elsősorban általános iskolai tanulók kollégiumi ellátását biztosító intézmények infrastrukturális
+fejlesztése és felújítása
+Az EFOP plusz társadalmi felzárkózási fejlesztéseket tartalmazó prioritási tengelyén szereplő fejlesztések között
+szerepel egy a már működő, jellemzően általános iskolás, hátrányos helyzetű tanulókat fogadó kollégiumok
+infrastrukturális javítását is támogató fejlesztés.
+Az EFOP Plusz keretén belül az „Együtt. Értük. Értünk. Járások a gyermekek esélyeiért program” keretében
+a fejlesztendő járások család- és gyermekjóléti központjai közül azok számára, akik újként csatlakoznak
+a programhoz, lehetőséget biztosítanak infrastrukturális fejlesztésre.
+Fentieken túl a Lakiteleki Auti Alapítvány a 2017 óta – kormányzati pilot program keretében – általa működtetett
+Autista tanoda fejlesztését kívánja megvalósítani Lakitelken.
+
+Szegregált élethelyzetek felszámolása komplex telepprogramokkal
+A megvalósítandó projekt célcsoportja a telepeken, telepszerű lakókörnyezetben, szegregátumokban élő,
+halmozottan hátrányos helyzetű, alacsony, illetve elavult iskolai végzettséggel rendelkező, jellemzően szociális és
+anyagi gondokkal küzdő, roma és nem roma egyének és családok.
+VIII. HULLADÉKGAZDÁLKODÁS
+A hulladéklerakásra vonatkozó uniós célérték figyelembe vétele mellett, a jelenlegi települési hulladéklerakók
+szabad kapacitására tekintettel – a hasznosításra nem kerülő hulladékok jogszabályi előírásoknak megfelelő
+ártalmatlanításához szükséges kezelőlétesítmények biztosítása érdekében – hulladékgazdálkodási régiónként
+legalább egy regionális hulladéklerakó folyamatos üzemeltetése szükséges. Ezen célkitűzés biztosítása érdekében
+az esetlegesen betelő kapacitások mellett hulladékgazdálkodási régiónként 1 db hulladéklerakó bővítése
+– új kazetta kiépítése – a logisztikai költségek optimalizálása mellett indokolttá válhat annak érdekében, hogy
+a koncessziós rendszerben keletkező, tovább nem hasznosítható hulladékok kezelése továbbra is biztosított legyen.
+A cél döntően önkormányzati, önkormányzati társulási vagy állami tulajdonú, jelenleg is üzemelő B3 alkategóriájú
+települési hulladéklerakók kapacitásának bővítése azokban a régiókban, ahol 2035 előtt várhatóan betelnek
+a szabad kapacitások.
+További fontos szempont, hogy csak abban az esetben, és abban a régióban történjen fejlesztés, ahol valóban nem
+áll majd rendelkezésre további szabad kapacitás.
+Korábban számos lerakó került bezárásra, illetve rekultiválásra részben hazai, részben pedig európai uniós
+forrásból. Ennek eredményeként közel 900 lerakó végleges lezárása történt meg, azonban még mindig több
+száz lerakó szakszerű rekultivációja jelent feladatot. A felhagyott, illetve bezárt települési hulladéklerakók
+rekultivációjának szükségességét indokolja, hogy ezek jellemzően megfelelő műszaki védelemmel nem rendelkező
+hulladékgazdálkodási létesítmények.
+Elérendő cél a még nem rekultivált, bezárt települési hulladéklerakók számának csökkentése. Kiemelt figyelmet kell
+fordítani a környezeti elemek veszélyeztetettsége szempontjából leginkább kockázatot jelentő, ezért rövidtávú,
+illetve azonnali beavatkozást – adott esetben kármentesítést – igénylő hulladéklerakók rekultivációjára vonatkozó
+beavatkozások támogatására.
+IX. ENERGIAHATÉKONYSÁG
+Az energiahatékonyság kapcsán kiemelendő, hogy
+– a magyar gazdaság versenyképességének fontos tényezője;
+– a közintézmények felújítása Magyarország 74% (Nemzeti Energia- és Klímaterv adat, nukleáris fűtőelem
+import arányával számolva) körüli primer energia import kitettségét csökkenteni képes intézkedés;
+– jelentős és folyamatosan jelentkező megrendelést képes nyújtani a hazai építőiparnak;
+– a közintézmények 2023-ban közel 405 milliárd forint összegű rezsiszámlájának csökkentésével a költségvetés
+kiadási oldalát csökkenteni képes eszköz;
+– az energiatermelő (erőmű fejlesztések) és a szállító kapacitási igényt (hálózatfejlesztés) is képes mérsékelni
+(a tervezésben az energiahatékonyság az első elv alkalmazásával).
+A közintézményi épületállomány energetikai korszerűsítésének támogatási céljai közül a fosszilis
+tüzelőberendezések támogatása 2025. január 1-jétől nem lehetséges (2024-ben még hozható támogatói döntés
+és az megvalósítható). A tagállami megtakarítási célhoz új szakpolitikák esetén már 2024. január 1-től nem lehet
+bejelenteni ezeket a megtakarításokat.
+Az energiahatékonysági szakpolitikák elvei
+Az energiaszektor kereslet-kínálat dinamikája következtében a magas energiaárak időről-időre vissza fognak térni.
+Az energiahatékonyság folyamatos fejlesztésével mérsékelhetők a magas energiaár időszakok gazdasági sokkjai.
+A folyamatos alkalmazkodás itt egyben a versenyképesség megőrzésének része.
+
+Energiaszuverenitásunk növelése érdekében a fejlesztések során törekedni kell az egyedi fűtéssel ellátott
+intézmények lehetőség szerinti megújuló hőenergia hasznosításának előnyben részesítésére, részarányának
+növelésére a megújuló energia-mixben, a gázfűtés helyett megújuló alapú technológiájú fűtési és használati
+melegvíz rendszerek telepítésére. A hazai szabályozásnak támogatnia kell a (költség)hatékony fűtési rendszerek
+kialakítását.
+Az „első az energiahatékonyság elvet” figyelembe kell venni az energetikai fejlesztések és energiarendszerhez
+kapcsolódó tervezésen túl valamennyi ágazatban és valamennyi szinten, ideértve a pénzügyi ágazatot is.
+A szakpolitikai, tervezési és beruházási döntéseknél az energiahatékonysági megoldásokat elsődleges opcióként
+kell tekinteni a kínálati oldalra és az egyéb szakpolitikai területekre vonatkozó új szabályok kialakításakor.
+Magyarország 2020. január 16-án jelentette meg Nemzeti Energia- és Klímatervét. A Klímaterv hivatkozik
+a szakpolitikák és intézkedések tekintetében az energiahatékonyság elvére.
+A közintézmények felújítási kötelezettségéről mind az energiahatékonysági irányelv, mind az épületenergetikai
+irányelv 2023-ban felülvizsgált változata rendelkezik.
+Az állami beruházások megvalósítása során kiemelt cél az energetikai korszerűsítések elvégzése annak érdekében,
+hogy a létesítmények gazdaságosan üzemeltethetőek, hosszú távon fenntarthatóak legyenek.
+X. KÖZLEKEDÉS
+Fő irány a kiszámítható, biztonságos és hatékony közlekedési lehetőségek biztosítása, javítása.
+Célok:
+– A vidék élhetőségének javítása (vidék megtartó erő növelése).
+a) Vidéki területek elérésének javítása
+b) Járásszékhelyek elérésének javítása
+– Gazdasági központok kiszolgálása, elérésének javítása.
+– Kárpát-medencei városok elérhetőségének javítása.
+– Teherszállítás növekvő volumenének vasútra, vízi útra terelése (legalább a volumennövekedés nagyobb
+részében).
+– Nemzetközi kapcsolatok (infrastruktúra) biztosítása, fejlesztése.
+– Logisztikai lehetőségek fejlesztése.
+Az állam a helyközi közlekedés keretében biztosítja a személyek egyéni és közösségi közlekedését,
+valamint az áruforgalmat. A közlekedési szakterület egyes alágazatainak feladatrendszere jelentősen eltérő.
+A különbözőségekből adódóan az egyes területek beruházásokhoz kapcsolódó társadalmi, gazdasági kihívásai,
+szakpolitikai céljai, indikátorai is eltérőek.
+A közlekedési közszolgáltatás (helyközi tömegközlekedés) feladata az egyéni közlekedéssel tudatosan,
+vagy szociális helyzet miatt (az anyagi helyzet mellett beleértve a kiskorúakat, a betegeket, az időseket) nem élő
+állampolgárok, valamint a nagyvárosok elővárosi területein élő tanulók, dolgozók számára a közösségi közlekedés
+elérhetőségének a biztosítása, mert számukra az egyéni közlekedés elérhetetlen, vagy az egyéni közlekedés
+kapacitáshiánya miatt nem alkalmazható. A helyi közösségi közlekedés feladata a településeken belüli mobilitás
+biztosítása, a városokon belüli forgalomcsillapítás elősegítése, szervezési és tarifális szempontból is integráltan
+kapcsolódva a helyközi közszolgáltatáshoz.
+A vasúti közlekedés a személyszállításban a közlekedési közszolgáltatás alapja, a távolsági és az elővárosi
+forgalom lebonyolításának fő eszköze, mely hatékonyan és környezetbarát módon képes nagy tömeg közlekedési
+igényének kielégítésére. Teherszállítás területén a jelenlegi 10%-os részarányának növelésében, egyrészt
+a túlterhelt útszakaszok tehermentesítésének, másrészt a logisztikai lehetőségek kiaknázásának a lehetősége rejlik.
+A megbízható, átjárható vasúti infrastruktúra a katonai mobilitás biztosításának alapvető eszköze.
+
+A közúti közlekedés egyrészt az egyéni közlekedés (személygépjármű), másrészt a vasúthálózatot kiegészítő
+buszközlekedés biztosításának eszköze. A teherszállítás területén (részesedése 85%) az alapvető, nélkülözhetetlen
+ellátó terület, volumenét nem veszélyezteti a vasúti és egyéb szállítási módok növelése (növekedése), mert
+legfeljebb a várható növekedés egy részét tudják más ágak átvenni. A terület – a fejlesztéseit 3 részterületre
+bontva – biztosítja az ágazattól elvárt szolgáltatást.
+Fejlesztések:
+– 2×2 sávos gerinchálózat (autópályák, autóutak, 2×2 sávos főutak).
+– 2×1 sávos fejlesztések (elkerülők, új összekötő utak, csomópont fejlesztések).
+– Meglévő úthálózat műszaki állapotának fenntartása, felújítása (mivel az ágazat az útvagyon után nem „kap”
+amortizációt), ezért az útállapot fenntartása fejlesztésnek minősül, ami viszont elkerülhetetlen, mert
+az útállapot beavatkozás nélkül az évek során jelentősen romlik, mely pont a vidéki lakosság elérhetőségére,
+jogának gyakorlására van negatív hatással.
+– A kerékpáros közlekedés fejlesztése és a meglévő infrastruktúra magas szintű fenntartása és üzemeltetése
+annak érdekében, hogy minél többek számára legyen alternatíva a mindennapi közlekedésben.
+A légiközlekedés és a hozzá kapcsolódó infrastruktúra elemek fejlesztése útján növelhető egy adott térség
+tőkevonzó képessége és gazdasági teljesítőképessége. Ebben a tekintetben a légiközlekedési infrastruktúra
+kulcsfontosságú elemei a repülőterek, amelyek fejlesztésére az elmúlt időszakban – néhány kivételtől eltekintve
+(Győr-Pér, Debrecen) – nem került sor. A 2035. december 31-ig tartó programozási időszakra vonatkozó koncepció
+olyan racionális és hatékony repülőtér fejlesztési irányokat tartalmaz, amely összhangban van a Kormány
+gazdaságfejlesztési stratégiájával.
+Gazdaságfejlesztési kapcsolódási lehetőség a légiipar fejlesztése, kihasználva a repülőterek, és az ipari központok
+adottságait, jelentős fejlesztési potenciált jelentenek, új területet nyitva a gazdaság, a magas hozzáadott értékű
+termelés számára.
+A víziközlekedés magyarországi fejlesztését szolgáló beavatkozások – a vízgazdálkodást szem előtt tartva – adnak
+lehetőséget a vízi úton történő szállítási potenciál, így a versenyképesség, a regionális ipari és mezőgazdasági
+termékek (termények) piacra jutási lehetőségeinek fokozására, továbbá a vízi turizmus, idegenforgalmi és belföldi
+vízi személyszállítás szerepének növelésére, valamint egyes területeken az elővárosi hajóforgalom kialakítására.
+Teherszállításban elsősorban a Duna (mint nemzetközi víziút) a folyamhasználat ingyenessége mellett a kikötői
+infrastruktúra által nyújtott szolgáltatásokon keresztül nyújt bizonyos áruféleségek számára logisztikai fejlesztési
+lehetőséget és gazdaságfejlesztési, bevételi lehetőséget.
+Magyarország gazdasági kapcsolatait a közlekedésen, áruszállításon keresztül tudja fejleszteni, ezért
+elengedhetetlen a nemzetközi konnektivitás erősítése, a logisztikai terület fejlesztése.
+A katonai mobilitás biztosítása Magyarország védelmi képességének és a NATO szövetséges, vállalt feladatok
+teljesítésének egyik alapfeltétele. A közlekedési infrastruktúra egyértelmű lehetőséget kínál a védelmi igények
+közötti szinergiák kihasználására és növelésére. Az Európai Unió Tanácsa 2018-ban megvizsgálta és jóváhagyta
+a közlekedési infrastruktúrával kapcsolatos katonai követelményeket. A katonai mobilitás biztosítása érdekében
+a Bizottság (EU) 2021/1328 Végrehajtási Rendelete tartalmazza az alkalmazandó követelményeket. Az infrastruktúra
+fejlesztések során a kettőscélú hasznosítás érdekében a Végrehajtási rendeletben leírtakat figyelembe kell venni.
+A védelmi tervek és a Honvédelmi és Haderőfejlesztési Program támogatása érdekében az igényeknek és
+a követelményeknek megfelelő vasúti vontató és vontatott gördülőállomány beszerzése szükséges. A beszerzett
+vasúti gördülőállomány rendelkezésre állását biztosítani kell.
+A szakpolitikai célokat és feladatokat megvalósító építési beruházások általános ismertetése
+Vasúti közlekedés
+Az ágazati koncepció kötöttpályás fejlesztésekre vonatkozó állami beruházásainak katalógusát a MÁV Magyar
+Államvasutak Zártkörűen Működő Részvénytársaság pályafenntartási szakterülete által kidolgozott Infrastruktúra
+Versenyképesség Javító program részletezi.
+
+Az Infrastruktúra Versenyképesség Javító program alapja a vasútvonalak egyszerűsített korszerűsítése.
+A program előnyei a következőkben foglalhatók össze:
+– a beavatkozásokhoz nem szükséges hatósági engedély, a szükséges műszaki tervek a vállalatcsoporton belül
+elkészíthetők,
+– a beavatkozás előkészítésének időszükséglete töredéke az európai uniós forrásból megvalósuló
+beruházásoknak,
+– meghatározóan a 100/120 km/h engedélyezett sebességű vonalakon lehet menetidő javulást elérni,
+– a tervezett beavatkozások ugyan nem teljeskörűek, de 10-15 évre megoldást biztosítanak, forrásigényük
+alacsonyabb, mint az európai uniós forrásból megvalósuló fejlesztéseké,
+– a kivitelezés jelentős részére a MÁV FKG Felépítménykarbantartó és Gépjavító Korlátolt Felelősségű Társaság
+alkalmas (új eszközpark beszerzése megtörtént), a szükséges alvállalkozók a magyar piacon rendelkezésre
+állnak,
+– a felújított szakaszok fenntartási költségei közép- és hosszútávon kiszámíthatóvá és jól tervezhetővé válnak,
+– az ún. hiba- és zavarérzékenység csökken, a vasúti pályahálózat egyenszilárdsága, ezáltal
+a menetrendi pontosság stabilitása növekszik.
+Közösségi közlekedés
+Gördülőállomány
+A beruházási koncepcióban ismertetett gördülőállomány-fejlesztési beruházások összességében az alábbi
+járműállomány beszerzését célozzák:
+– 15 db nagysebességű EuroCity szerelvény,
+– 29 db belföldi InterCity motorvonat,
+– 51 db InterCity ingaszerelvény,
+– 10 db magas minőségű éjszakai szerelvény,
+– 95 db regionális villamos motorvonat,
+– 68 db felsővezeték nélküli motorvonat,
+– 15 db felsővezeték nélküli mozdony,
+– 100 db nehézpőre,
+– 115 db villamosmozdony.
+Közösségi közlekedés (az utas felhasználói élményét javító beruházások vonatkozásában):
+– tarifareform 2024. március 1-jétől,
+– alkalmazásfejlesztés és integráció,
+– az utaskomfortot növelő – légkondicionált, internetkapcsolatot adó, USB-töltési lehetősséggel és fedélzeti
+utastájékoztatással felszerelt – járművek beszerzése.
+Közúti közlekedés
+Közúti fejlesztések
+A gyorsforgalmi, valamint 2×2 sávos közúti gerinchálózat fejlesztése
+A gyorsforgalmi, valamint 2×2 sávos közúti gerinchálózat fejlesztése érdekében az alábbi beruházási csomagok
+megvalósítása lenne indokolt a korábban megjelölt beruházási kategóriák szerint:
+a) Kárpát-medencei városok összekötését elősegítő fejlesztések
+A gyorsforgalmi, valamint 2×2 sávos közúti gerinchálózati fejlesztések kapcsán 16 beruházás keretében
+(amelyből 4 db koncessziós megvalósítású), közel 610 km gyorsforgalmi és 2×2 sávos főúti fejlesztés
+valósulna meg (ebből új nyomvonalú fejlesztés közel 360 km), melyek közül az állami megvalósítású elemek
+bekerülési költsége mintegy bruttó 2.900 milliárd forint.
+
+b) Országhatáron belüli, nyugat-keleti irányú hálózatfejlesztést elősegítő beruházások
+A gyorsforgalmi, valamint 2×2 sávos közúti gerinchálózati fejlesztések kapcsán 12 beruházás keretében
+(amelyből 3 db koncessziós megvalósítású), közel 850 km gyorsforgalmi és 2×2 sávos főúti fejlesztés
+valósulna meg (ebből új nyomvonalú fejlesztés mintegy 540 km), melyek közül az állami megvalósítású
+elemek bekerülési költsége mintegy bruttó 3.800 milliárd forint.
+c) Nagyvárosok Magyarországa érdekében tervezett fejlesztések
+A gyorsforgalmi, valamint 2×2 sávos közúti gerinchálózati fejlesztések keretében, a kapcsolódó 25 beruházás
+(amelyből 4 db koncessziós megvalósítású), közel 280 km gyorsforgalmi és 2×2 sávos főúti fejlesztést
+tartalmaz (ebből új nyomvonalú fejlesztés mintegy 100 km), melyek közül az állami megvalósítású elemek
+bekerülési költsége mintegy bruttó 2.300 milliárd forint.
+A főúti, valamint részben mellékúti gerinchálózat fejlesztése
+A főúti, valamint részben mellékúti közúti gerinchálózat fejlesztése érdekében az alábbi beruházási csomagok
+megvalósítása lenne indokolt a korábban megjelölt beruházási kategóriák szerint:
+a) Kárpát-medencei városok összekötését elősegítő fejlesztések
+A kapcsolódó fő- és részben mellékúti fejlesztések keretében – a határ menti térségek gazdasági és
+társadalmi kohéziójának erősítése érdekében – mintegy 160 km útfejlesztés történne nagyságrendileg bruttó
+550 milliárd forint értékben.
+b) A gyorsforgalmi, valamint 2×2 sávos főúti hálózat 30 percen belüli elérésének biztosítása érdekében
+szükséges főútfejlesztések
+A fejlesztési cél érdekében 2035-ig a főút és mellékút hálózat bővítését, szolgáltatási szintjének fejlesztését
+célzó beruházások révén közel 1.750 km hosszúságban kerülne fejlesztésre, bővítésre a főúti és mellékúti
+úthálózat (benne 30 db csomóponti, 14 db hídépítési, továbbá 39 db elkerülő úti és 8 db mérnökségi telep
+fejlesztéssel) nagyságrendileg bruttó 5.700 milliárd forint értékben.
+c) Az ipari és technológiai központok közúti elérhetőségének javítását célzó fejlesztések
+A fejlesztési cél érdekében 2035-ig tervezetten megvalósítandó főúti beruházások keretében
+nagyságrendileg 140 km úthálózati elem fejlesztésére kerülne sor, mintegy bruttó 440 milliárd forint
+értékben.
+Közúti felújítások
+A főutak esetén a nagy forgalmi terhelés miatt az állapotromlás gyorsabb, mint a mellékutakon, így a szükséges
+karbantartási tevékenység mellett általában 20 éves élettartam érhető el. A 7.018 km hosszú hálózaton a 20 éves
+felújítási ciklusidőt alapul véve évente átlagosan a hálózat 5%-án, 350 km hosszon szükséges a felújítás.
+A főutak felzárkóztatásához 3.726 km hosszú hálózati szakaszt szükséges felújítani a 10 év alatt, ami átlagosan
+375 km/év beavatkozási mennyiséget jelent a felújítási ciklusidő szerinti 350 km/év és 3.500 km hossz helyett.
+A mellékutak esetén jellemzően kisebb a forgalmi terhelés, ezért megfelelő fenntartási tevékenység mellett
+hozzávetőleg 30 évig is használható állapotban tartható a burkolat, azaz a 23.116 km hosszú hálózaton a 30 éves
+felújítási ciklusidőt figyelembe véve, a mellékutakon évente a hálózat 3,3%-án, 770 km hosszon szükséges a felújítás.
+A mellékutak felzárkóztatásához 11.193 km hosszon szükséges a felújítás a 10 év alatt, ami átlagosan 1.120 km/év
+beavatkozási mennyiséget jelent a felújítási ciklusidő szerinti 770 km/év és 7.700 km hossz helyett.
+Önkormányzati utak
+Javasolt az önkormányzati kezelésű helyi közutak fejlesztésének támogatása központi költségvetési forrásból.
+A beruházások támogatása pályázatos formában javasolt, konzorciumi vagy önkormányzati lebonyolításban.
+A helyi önkormányzatok a fentiekben felsorolt jellegű beruházások támogatására pályázhatnának a későbbiekben
+meghatározandó keretösszeg erejéig. A pályázatokat ebben a tárgykörben a közigazgatási és területfejlesztési
+miniszter – mint a Kormány helyi önkormányzatokért felelős tagja – írja ki és kezeli.
+
+Kerékpáros közlekedés
+Mindannyian arra vágyunk, hogy csendesebb, zöldebb, tisztább, egyszóval élhetőbb környezet vegyen minket körül.
+Azt szeretnénk, ha ilyen helyen élnénk, dolgoznánk, és pihenni is ilyen körülmények között tudnánk. Szeretnénk
+egészségesek lenni és hosszú éveket egészségben eltölteni.
+Az, hogy milyen mobilitási lehetőségeink vannak és ezek közül mit választunk, a fentiek mindegyikére nagy hatással
+van. Az aktív mobilitás, vagyis a gyaloglás és a kerékpározás nem csodaszer, de a megfelelő körülmények megléte
+esetén valós és reális alternatívát jelenthetnek a mindennapi közlekedésben.
+A kerékpár városi környezetben 5–7 km távolságon belül versenyképes a közösségi közlekedéssel és az autózással
+szemben, továbbá
+– kis helyigényű ezért sűrűn beépített városi területeken előnyös mind közlekedési, mind parkolási
+szempontból,
+– rugalmas, legyen szó háztól házig való közlekedésről, vagy akár a közösségi közlekedéssel való
+kombinációról,
+– kibocsátásmentes, ezért nem növeli a légszennyezettséget, így fenntartható és hozzájárul a tisztább
+környezethez,
+– csendes, ezért csökkenti a zajszennyezést,
+– egészséges, mert fizikai aktivitás, ezért hozzájárul ahhoz, hogy tovább és egészségesebben éljünk,
+kevesebbet legyünk betegek,
+– olcsó, ezért sokkal többek számára elérhető.
+Fontos, hogy minél többek számára tegyük lehetővé, hogy olyan települési környezetben éljünk, ahol
+a kerékpározás és a gyaloglás része lehet a mindennapi közlekedésnek, hiszen ez hosszútávon mindenkinek előnyös.
+Magyarországon jelenleg mintegy 4000 km az épített kerékpárforgalmi hálózat hossza. Ide tartoznak
+a kerékpárutak, a gyalog- és kerékpárutak, valamint a kerékpársávok, ugyanakkor további mintegy 5100 km
+kerékpározásra ajánlott út (erdészeti- és mezőgazdasági utak, árvízvédelmi töltések, kisforgalmi közutak) tartozik
+a kijelölt hálózatba.
+2010 óta több, mint 2000 km-rel bővült az épített hálózat és 2000 km kijelölés is történt, ami annak köszönhető,
+hogy az uniós források mellett 2017 és 2021 között éves szinten 10 milliárd forint hazai forrás is rendelkezésre állt
+a hálózat fejlesztésére.
+A szakpolitikai-ágazati beruházási koncepció célja, hogy a Nemzeti Kerékpáros Stratégia 2030 program
+megvalósításával a vidéki Magyarországon a kerékpározás magas aránya megőrizhető, a városokban pedig
+növelhető legyen, továbbá 2030-ra Magyarország legyen az egyik vezető kerékpáros desztináció Közép-Kelet-
+Európában. Ezen célok elérése érdekében további 1500 km újonnan épített kerékpárforgalmi létesítmény építésére
+(ebből mintegy 1200 km útvonalnak az engedélye rendelkezésre áll), valamint 4500 km kerékpáros útvonal
+kijelölésére van szükség.
+Fontos a meglévő infrastruktúra állagának javítása, mely évi 150 km kerékpárút felújításával érhető el.
+Légiközlekedés
+A fejlesztések stratégiai átgondolását az alábbi tényezők indokolják:
+– Az ágazatnak a nemzetgazdaság teljesítőképességében és teljesítményében megjelenő meghatározó
+szerepe.
+– A légiközlekedés és a légiipar húzóágazati jellege a kutatás, fejlesztés és innováció tekintetében.
+– A regionális együttműködések (beleértve a határon túli magyarsággal, Kárpát-medencei városokkal való
+szorosabb együttműködés képességet) erősítik az ágazat versenyképességét.
+– Az állam jelentős szereppel rendelkezik a szektorban.
+– Az államnak vannak – nemzetközi szabályozással előírt – kötelezettségei a szektorban.
+– A vidéki városok megközelíthetőségének javítása erősíti a helyi gazdasági fejlődést, tőkevonzó képességet.
+A regionális repülőterek szerepe megkérdőjelezhetetlen az egyes régiók összekapcsolásában, a népesség
+mobilitásának növelésében. Fejlesztésük kimagaslóan segítheti egy adott térség lakosságmegtartó erejét,
+életminőségét, versenyképességét.
+
+Magyarországon – a földrajzi adottságok és geopolitikai helyzet okán – szükséges olyan repülőtér-fejlesztési irány
+meghatározása, amely racionálisan és hatékonyan szolgálja a gazdasági és társadalmi fejlődést, és egyben erősíti
+a versenyképességet.
+Az infrastrukturális fejlesztéseken átesett repülőterek hatékony kihasználtsága nem képzelhető el a léginavigációs
+szolgáltató és a szabályalkotó-felügyeleti tevékenységek egyidejű, párhuzamos fejlesztése nélkül, ezért ezeken
+a területeken is elengedhetetlenek a beruházások.
+A repülőterek fejlesztés során a prioritásokat a turisztikai, nemzetgazdasági és honvédelmi koncepciókban
+megfogalmazott célok alapján kell meghatározni.
+Víziközlekedés
+A víziközlekedés és a kapcsolódó háttértevékenységek – mint a hajóépítés és a hajójavítás – szerepe
+a rendszerváltást követően jelentősen visszaesett. A tervgazdasági időszakban állami tulajdonban működő hajózási
+vállalat elnyújtott és nehézkes privatizációjának, az infrastruktúra, a szakember- és az eszközállomány nem tervszerű
+fragmentálódásának következménye ez a jelentős visszaesés.
+Az Európai Bizottság által kiadott Fehér Könyvben foglaltak szerint a hajózásban meg kell jelentetni a környezetet
+kevésbé terhelő alternatív üzemanyagokat, nem csak a tengeri, hanem a folyami hajózásban is. Ide tartozik
+a multimodális logisztikai láncok teljesítményének optimalizálása, beleértve a természetüknél fogva erőforrás-
+hatékonyabb közlekedési módok fokozott használatát is.
+A hazai kereskedelmi hajózás a közúti és a vasúti szállítás mögött az áruszállítási teljesítmény vonatkozásában
+a harmadik (3–7%). A hazánkon keresztülhaladó Duna–Rajna folyosó a Transzeurópai Közlekedési Hálózat (TEN-T)
+egyik kulcsfontosságú eleme. A Duna–Rajna folyosó összeköti az Északi tengeri kikötőktől a Fekete-tengeri kikötőig
+Európa jelentős ipari-gazdasági területeit. Ugyanakkor e stratégiai adottság ellenére megállapítható, hogy a magyar
+állami tulajdonban lévő – több mint 100 éves – MAHART – PassNave Személyhajózási Korlátolt Felelősségű Társaság
+(a továbbiakban: MAHART) jelenleg nem rendelkezik jelentős hatással a hajózásra. A privatizáció során a hajózás
+műszaki, és gazdasági területén elveszítette szerepét, szakember gárdája kiöregedett és szétszéledt. Megújítani
+reputációját és lobbi erejét hosszú és költséges folyamat, de stratégiai célként mindenképpen figyelembe vehető.
+Hazai személyhajózásunk az a szektor, amely viszonylag jelentős veszteség nélkül élte át a rendszerváltást. Annak
+ellenére, hogy a MAHART Személyhajózási Igazgatósága megszűnt, a tevékenysége és hajóállománya megmaradt
+a MAHART-ban és a Balatoni Hajózási Zártkörűen működő Részvénytársaságban (a továbbiakban: BAHART).
+A hajózási engedélyesek nyereséges vállalkozások, noha a fejlődésük igen hektikus.
+A kedvtelési célú hajózás tekintetében további fejlesztések megvalósítása szükséges, figyelemmel a kishajók és
+csónakok használóinak népes táborára.
+A hajók építését és működését kiszolgáló létesítmények sajnos a rendszerváltást követően szinte teljesen eltűntek.
+Egyedül a BAHART hajójavítója képes ellátni a balatoni hajók műszaki támogatását. Az infrastruktúra felújítása
+mellett kihívás a hajóépítéshez szükséges szakemberek utánpótlásának megoldatlansága. A hajóépítés és javítás
+az esetek túlnyomó többségében így külföldön folyik.
+Aktív Magyarország
+Magyarországon jelenleg 18 vasútüzem keretében üzemelnek keskeny nyomközű kisvasutak. E keskeny nyomközű
+vasutak jórészt korábbi ipari, bányászati, erdészeti tevékenységek reliktumai, amelyek mára (két kivétellel) teljes
+mértékben a turizmus szolgálatában állnak.
+A keskeny nyomközű kisvasutakon az üzemeltetők 2023-ban összesen 1,285 millió utast regisztráltak. Az utasszám
+a COVID okozta visszaesést követően enyhén növekvő tendenciát mutat és várhatóan a jövőben is tovább fog
+növekedni, amennyiben sikerül a kisvasutak vonzerejét az infrastruktúra és szolgáltatások fejlesztésével fenntartani.
+
+Az ágazat legfontosabb kihívásai:
+– szakemberhiány,
+– erős szezonalitás,
+– szabályozási környezet miatt költséges az üzemeltetés és fejlesztés,
+– elavult pálya és gördülő állomány.
+A beruházások ütemezése, sorrendisége:
+– pálya felújítás (ágyazat, talpfák, sín, vízelvezetés, kitérők),
+– új járművek beszerzése,
+– meglévő járművek korszerűsítése,
+– kiszolgáló infrastruktúra fejlesztése (megállók, állomás épületek, kocsiszín, fűtőház),
+– attrakció fejlesztés a kisvasutak környezetében.
+Magyarország Kormánya 2017–2022. között mintegy 15 milliárd forint összegű forrást biztosított a hazai
+keskenynyomtávú vasutak fejlesztésére, infrastruktúrájuk és járműállományuk felújítására.
+A fejlesztési programnak részese majdnem minden hazai keskenynyomtávú vasútüzem. Annak érdekében, hogy
+a kisvasutak a jövőben is az aktív turizmus részei lehessenek, további mintegy 55 km pálya felújítása szükséges.
+XI. ÖRÖKSÉGVÉDELEM
+Az Alaptörvény P) cikke szerint a kulturális értékek a nemzet közös örökségét képezik. A műemlékeknek, mint
+a kulturális örökség épített elemeinek védelme, ápolása, megóvása jogszabályi kötelezettség. E kötelezettség
+teljesítése mind gazdasági, mind kulturális műszaki és tudományos szempontból jelentős kihívást jelent, hiszen
+múltunk, ember alkotta értékeinek megőrzését a létrejöttük idején fennálló viszonyokhoz képest olykor nagyon
+megváltozott feltételrendszerben kell biztosítani.
+A második világháborút követő társadalmi, gazdasági változások műemlékeink fenntartásának és használatának
+kereteit alapjaiban változtatták meg. A jogszabályi kötelezettségek ellenére, műemlékállományunk jelentős
+része pusztul, állagromlásuk folyamatos. Az elmúlt hét évtizedben nem sikerült átfogó és hatékony választ adni
+a megőrzésük kapcsán felmerülő kérdésekre. Számos sikeres egyedi projekt valósult meg, de átfogó, országos
+műemlék fejlesztési stratégia nem készült.
+A NÖF Nemzeti Örökségvédelmi Fejlesztési Nonprofit Korlátolt Felelősségű Társaság és az Eszterháza Kulturális,
+Kutató- és Fesztiválközpont Közhasznú Nonprofit Korlátolt Felelősségű Társaság kezelésében lévő, illetve
+hosszútávon maradó 25 kastély beruházásai érintik a műemlékvédelmi szakpolitikai-ágazati koncepciót. Az egyes
+helyszínekre külön egyeztetett műemlék-fejlesztési tervek készülnek.
+A műemlékek fenntartását segítő pénzügyi támogató-ösztönző rendszer életbe lépése után a támogatásban
+részesülő projektek ütemezése, felmerülése a támogatási rendszer működésének függvényében történik majd
+(például kastélyok, várak, történeti kertek, népi épületek).
+Nemzeti Örökség Intézete
+Kormányzati szándék a Fiumei Úti Sírkert nemzeti emlékezet-központtá válása, egységes nemzeti sírkert és nemzeti
+emlékhely jellege megteremtésének szándékával egyetemben.
+Az Intézetben 2017 óta folyamatosan emelkedik a látogatók száma, és a világjárvány idején tapasztalt visszaesést
+követően 2023-ban rekordszámú érdeklődőt regisztráltak, tekintettel arra, hogy 577 sétán összesen 17 345 fő vett
+részt. A javasolt beruházások megvalósulása esetén a következő 10 év vonatkozásában legalább 25%-os növekedést
+prognosztizál az Intézet.
+Az Intézet alapítása óta eltelt időszakban elvégzett rekonstrukciók nem oldották meg hosszú távra a problémákat,
+csupán tüneti kezelést jelentettek. A műemléki védelem alatt álló Fiumei Úti Temető fenntartásához és
+üzemeltetéséhez elengedhetetlenül szükséges az infrastruktúrák fejlesztése, és ezzel összefüggő állagmegóvás
+tekintetében elhagyhatatlan munkák kivitelezése.
+
+A Steindl Imre Program Nonprofit Zártkörűen Működő Részvénytársaság által készített beruházási terv keretében
+megvalósítani tervezett beruházások:
+– idegenforgalmi és kulturális központ kialakítása,
+– oktatási és emlékezetpedagógiai központ létrehozása,
+– polarizált látogatói terek létrehozása,
+– a Sírkert közlekedési kapcsolatainak fejlesztése, korszerű, fenntartható háttér infrastruktúra kialakítása,
+– a Sírkert területén elhasználódott ivóvíz vezeték hálózat cseréje.
+– a Sírkert úthálózatának felújítása.
+Várkapitányság Integrált Területfejlesztési Központ Nonprofit Zártkörűen Működő Részvénytársaság
+A visegrádi középkori erődrendszer (vízibástya, kapu és várfalak, alsóvár, Salamon-torony, fellegvár és a csatlakozó
+várfalak) nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősülő, műemléki védelem
+alatt álló építmények és építmény-együttesek, ezáltal védelmük, bemutatásuk és fejlesztésük az állam feladata.
+A vár történelmi emlékhely is, valamint világörökségi várományos helyszín része. A királyi palota az Európai
+Kulturális Örökség címet viseli, a várost övező erdőség pedig az egyik legszebb hazai nemzeti park része.
+A Visegrád Reneszánsza (korábbi nevén „Visegrád 700”) Fejlesztési Program megvalósításával elsődleges cél
+a visegrádi fellegvár, a királyi palota, az alsóvár és Salamon-torony, valamint a völgyzárófal és a kapcsolódó
+műemléki épületek rekonstrukciója és a műemlékegyüttes hosszú távú turisztikai fejlesztése, valamint a Visegrádi
+Együttműködés szimbolikus, rendezvény funkciókat is ellátó központjának kialakítása.
+Visegrád középkori emlékei kivétel nélkül romos állapotban maradtak fenn. A romműemlékek fenntartása rom
+formában megoldhatatlan, legfeljebb pusztulásuk üteme lassítható. A projekt célja ezért a romok lefedése, és újra
+épületté alakítása. A műemlékek megőrzésének a fizikai megőrzés mellett ugyanolyan fontos eszköze a társadalmi
+szemlélet formálása is, muzeológiai és kulturális tartalmakkal.
+A program stratégiai céljai közt szerepel
+– Visegrád kiemelkedő turisztikai desztinációvá való fejlesztése,
+– Visegrád megközelítési lehetőségeinek fejlesztése, az utazási időtartam csökkentése a minőség javításával
+együtt,
+– magas minőségű turisztikai, kulturális és sport szolgáltatások biztosításával a látogatók számának és
+különösen az általuk ott eltöltött idő növelése,
+– az élmény központú programok szerepének növelése, az ehhez szükséges infrastruktúra létrehozása,
+– a turisztikai attrakciók összekötése, látogató menedzsment fejlesztése,
+– minden cél- és korcsoport elvárásainak kielégítése, család- és gyerekbarát programok kínálata,
+a mozgáskárosultak és fogyatékkal élők igényeinek kiszolgálása,
+– a fejlesztések által közvetlenül és közvetve megvalósuló munkahelyteremtés, valamint e nagy jelentőségű
+műemlékek további pusztulásának megakadályozása.
+A Visegrád Reneszánsza Fejlesztési Program jelen szakaszában elsődleges feladat a műemlékegyüttes előkészítő
+kutatása, az érintett műemlékek jogszabályban előírt megelőző régészeti feltárása és műemléki-művészettörténeti
+dokumentációjának összeállítása.
+Középtávú cél – az épület- és kőfaragvány felmérések alapján – a helyreállítandó középkori épületek meglévő
+digitális elméleti rekonstrukcióinak pontosítása és a belső terekre, építészeti részletformákra is kiterjedő
+kiegészítése. Ezt követheti a műemlékegyüttesre vonatkozó generáltervezési feladatok elvégzése.
+A kivitelezési szakasz 2027. évtől elsőként a Salamon-torony és a királyi palota nyugati szárnyának kivitelezését,
+valamint az északi szárny nyugati részét foglalja magában. A királyi palota és a hozzá kapcsolódó egykori ferences
+kolostor rekonstrukcióját követően a helyreállított épületekben egy rendezvény- és kiállítási központ, valamint
+a Visegrád történelmi múltját bemutató múzeum kerül elhelyezésre.
+A program második eleme a fellegvár részleges rekonstrukciója. A helyreállítás célja elsősorban a vár idegenforgalmi
+jelentőségének növelése: a kivételes panorámát nyújtó vár történelmi jelentőségét bemutató kiállítások
+elhelyezésével, valamint az 1335-ös visegrádi királytalálkozónak helyet adó lovagterem bemutatásával.
+
+A harmadik elem az alsóvár és Salamon-torony rekonstrukciója és benne a torony történetét bemutató kiállítás,
+valamint rendezvénytér létrehozása.
+Az alsóvárat a fellegvárral összekötő völgyzárófal konzerválása, és legalább részleges, két őrtornyának teljes
+rekonstrukciója tenné teljessé a visegrádi várrendszer összképének helyreállítását.
+XII. SPORT
+A sport ágazatban rövid-, közép- és hosszútávon a fennálló, létrehozott létesítmények karbantartása, állag
+megőrzése, felújítása és energetikai szempontú fejlesztése, valamint új létesítmények megvalósítása prioritásként
+jelenik meg. A szakpolitikai, kormányzati és társadalmi célkitűzések közötti összhang megteremtésével olyan
+létesítmények létrehozása továbbra is a cél, amelyek hosszú távon képesek kiszolgálni az adott sportágat, földrajzi
+(legyen az települési, regionális vagy országos szintű) vagy társadalmi egységet és a lehető legnagyobb mértékben
+képesek ellátni a sporthoz fűződő társadalmi feladatokat.
+A sport ágazat fejlesztési tervei az alábbiak.
+Nagy nemzetközi sportesemények megrendezésére alkalmas sportlétesítmény-fejlesztések
+Ezen fejlesztések egyértelmű célkitűzése, hogy olyan létesítmények felújítása, építése valósuljon meg, amely
+kiemelt jelentőségű sportesemények megrendezését teszik lehetővé. A sportesemények megrendezése mellett,
+ezen létesítmények esetében fontos, hogy azok – figyelembe véve az adott sportághoz kapcsolódó létesítmény-
+specifikumokat –alkalmasak legyenek több sportág és esetlegesen más (pl. kulturális) események kiszolgálására.
+Ezen létesítmények megépítésével lehetőség nyílik arra, hogy Magyarország minél több sportágban tudjon világ,
+illetve Európa-bajnokságokat rendezni.
+Olimpiai központok és országos sportági szakszövetségek fejlesztései
+A sportágazati célok között kiemelt helyen szerepelnek azok a létesítmény-fejlesztési elképzelések, amelyek
+valamely sportszakmai célt hivatottak kiszolgálni, ezek közül továbbra is prioritást élveznek az olimpiai
+sportágakhoz kapcsolódó infrastruktúra fejlesztések, valamint azon népszerű sportágakhoz kapcsolódó fejlesztések,
+amelyek a társadalom legszélesebb rétegeit mozgatják meg. Az olimpiai központok fejlesztése az elmúlt években is
+zajlott, azonban vannak olyan létesítmények, melyek felújítása, korszerűsítése elmaradt.
+Kiemelt sportszervezetek és sportakadémiai fejlesztések
+A fővárosi és kiemelt sportszervezetek a sportakadémiák mellett az utánpótlásnevelés legmagasabb szintjét
+képviselik, emellett a sportszervezetek a felnőtt versenysportban is kiemelkedő szereplők, ezen szervezetek
+adják legnagyobb számban a válogatott és olimpikon sportolókat országunknak. A sportszervezetek kiterjedt,
+jelentős számú sportágat érintő szakmai munkájának megfelelően a használt létesítmények száma és mérete is
+kiemelkedő, ezért azok folyamatos felújítása és a portfólió új épületekkel történő bővítése indokolt.
+Az utánpótlásnevelés legmagasabb, állam által elismert szintjén, az akadémiáknál a szakmai szint fenntartása
+és emelése érdekében fejlesztési elképzelések fogalmazódtak meg. Az akadémiai képzés magas színvonalának
+megfelelően a létesítményeknek mindenre kiterjedően szükséges szolgáltatást nyújtaniuk, mely érdekében
+a beruházások mértéke és elvárt minősége is a legfelsőbb szintű. A fejlesztések új létesítmények megvalósítását és
+már használatban lévő épületek felújítását egyaránt célozzák.
+Önkormányzati, vidéki és egyéb fejlesztések
+A Kormány elkötelezett amellett, hogy megfelelő infrastrukturális hátteret biztosítson a köznevelési intézmények
+részére, ehhez országszerte, központi költségvetési forrásból iskolákat, tantermeket, tornatermeket létesítsen,
+valamint a mindennapos testnevelés oktatás keretében a gyermekek úszásoktatásához, járásonként, tanuszoda-
+hozzáférést tegyen lehetővé a Nemzeti Köznevelési Infrastruktúra Fejlesztési Program (a továbbiakban: Program)
+keretében. A Program részeként elindított tanuszoda-tornaterem fejlesztésekkel a Kormány egyik alapvető
+célkitűzése az volt, hogy a mindennapos testnevelés oktatásában a gyermekek úszásoktatásához – a „minden
+
+gyermek tanuljon meg úszni” kormányzati szándék biztosítása érdekében – járásonként tanuszoda hozzáférést
+biztosítson. Ennek végrehajtása érdekében született döntés a Magyar Úszó Szövetség által kidolgozott Úszó
+Nemzet Program (a továbbiakban: ÚNP) elindításáról. Az ÚNP célja, hogy minden gyermek tanuljon meg
+vízbiztosan úszni az általános iskola 3. osztályáig nemtől, kortól, identitástól, szociális, fizikai és mentális helyzettől
+függetlenül. A Program tornaterem alprogramja legfőbb célkitűzése pedig, hogy a megfelelő méretű és (vagy)
+állapotú tornateremmel, tornaszobával nem rendelkező köznevezési intézményeknek is rendelkezésére álljon
+a mindennapos testneveléshez szükséges infrastruktúra.
+A fejlesztési elképzelések megvalósítása a vidékről történő elvándorlást, a főváros központúságot is hivatott
+részben, a sport eszközeivel orvosolni. A vidéki, leginkább kis és közepes méretű települések létesítmény-elérése
+és színvonala jelentős mértékben elmarad leginkább a budapesti, de a nagyobb városok sportlétesítményeitől is,
+melynek következtében több százezer állampolgár számára egyáltalán nem, vagy csak jelentős idő, pénz- és energia
+befektetéssel valósítható meg sporttevékenység. A fejlesztési elképzelések széles spektrumúak, a helyi igények
+mentén kerültek megalkotásra az önkormányzatok, helyi sportszervezetek által.
+Az infrastruktúra-felújítások kapcsán prioritás az üzemeltetési költségek csökkentése, így közvetett vagy közvetlen
+módon az államháztartás terhének mérséklése a rezsiköltségek finanszírozása vonatkozásában, ennek megfelelően
+egyértelmű elvárás az ilyen jellegű fejlesztéseknél az energiafelhasználás visszaszorítása, lehetőleg középtávú
+megtérülése a fejlesztési forrásnak. A fejlesztéseket az energiatudatosság jegyében kell megvalósítani, cél
+a megújuló energia minél nagyobb arányban történő hasznosítása.
+Az új beruházások kapcsán az energetikai szempontok mellett kiemelendő a létesítmény társadalomra
+gyakorolt hatása, az adott létesítmény tervezett kihasználtsága, az igénybe vevők súlyozása (gyermek,
+felnőtt, élsportoló, lakosság). Erre vonatkozóan a sport szakterület elvárásként fogalmazza meg a sportcélú
+beruházás kedvezményezettje (függetlenül attól, hogy építtető vagy kizárólag valamilyen jogcímen
+használó) részére a növekvő számú sportolói létszámot és sportszervezetek, sportszövetségek esetében
+az eredmény-centrikusságot is.
+A nagy nemzetközi sportesemények megrendezésére is alkalmas létesítmények felújítása és építése révén
+Magyarország nemzetközi megítélésének javítása mellett az érintett sportágak fejlődése, valamint a turizmus
+eseményhez köthető közvetlen és közvetett fejlesztése, a Magyarországon töltött vendégnapok számának
+emelése a cél.
+Az olimpiai központok fejlesztése révén a magyar sportszövetségek és magyar sportolók nagyobb mértékű belföldi
+felkészítése valósulhat meg, mely az adott sportágra fordított költségek csökkentését célozza a szakmai színvonal
+fenntartása mellett. Az olimpiai központok folyamatos állagmegóvása, felújítása és fejlesztése elengedhetetlen
+annak érdekében, hogy Magyarország továbbra is kiemelkedő sikereket érjen el az olimpiai játékokon.
+Az országos sportági szakszövetségi fejlesztések által az adott sportágat művelők számának emelkedése mellett
+a sportág országos szintű ismertségének javítása várható, valamint elvárás a nemzetközi szintű trendek követése,
+a folyamatos megújulás a fejlesztések megvalósítása révén.
+A sportakadémiai és kiemelt sportszervezeti fejlesztések egyértelmű elvárása a versenysport eredményeinek
+mind utánpótlás, mind felnőtt szinten történő javítása, valamint a gyermekek és szülők számára olyan életút,
+karrierút felmutatása, mely a gyermekek és szülők sport iránti érdeklődését fokozza. Az akadémiai nevelésben
+részesülő sportolók számának növekedése nagyban hozzájárul Magyarország nemzetközi versenyeken való sikeres
+szerepléséhez. A kiemelt sportszervezetekben sportoló gyerekek és felnőttek számának emelkedése szintén kiemelt
+jelentőségű, ezen szervezetek sportolói megkérdőjelezhetetlen sikereket értek már el versenyeken.
+Az önkormányzati és vidéki fejlesztések megvalósítása által kitűzött cél a sport helyben elérhetőségének biztosítása,
+ezáltal a helyben maradás erősítése, valamint a rekreációs és versenycélból sportolók számának növelése, az élsport
+számára a bázis növelése és az állampolgárok általános egészségügyi állapotának javítása. Ezek a fejlesztések,
+például egy multifunkcionális sportcsarnok megépítése, a sporton kívül ellátnak kulturális, közoktatási feladatokat
+is, ezáltal a kihasználtságuk növekszik, a társadalom széles rétege igénybe tudja venni a sportlétesítmények
+nyújtotta szolgáltatásokat.
+
+A Nemzeti Sportügynökség Nonprofit Zártkörűen Működő Részvénytársaság által fenntartott sportingatlanok
+– amelyek száma folyamatosan bővül a folyamatban lévő beruházások befejezésével – fejlesztése révén
+a sporttevékenység széles társadalmi rétegek általi elérése, valamint az állami szakpolitikai célok teljesítése várható.
+Ezen létesítmények felújítása, modernizálása szintén elengedhetetlen, legyen szó tanuszodáról vagy olimpiai
+központról.
+HUNGARORING
+A Hungaroring Stratégiai Fejlesztési Program megvalósításának alapvető célja, hogy a Formula 1 Magyar Nagydíj
+rendezési jogát 2032-ig biztosító nemzetközi versenypromóciós szerződésben vállalt állami kötelezettségvállalásnak
+megfelelően a Hungaroring Versenypálya (a továbbiakban: Versenypálya) fejlesztése a 2026. évi futam idejére
+megvalósuljon.
+A HUNGARORING Sport Zártkörűen Működő Részvénytársaság (a továbbiakban: HUNGARORING Sport Zrt.)
+Stratégiai Fejlesztési Program 2. ütemében megvalósuló beruházásokról szóló kormánydöntés, valamint az abban
+foglaltak megvalósításának forrását biztosító, a Miniszterelnökség és a HUNGARORING Sport Zrt. között létrejött
+támogatási szerződések alapján a Stratégiai Fejlesztési Program 2. ütemébe tartozó beruházások előkészítője és
+megvalósítója a HUNGARORING Sport Zrt.
+A Stratégiai Fejlesztési Program 3. ütemének célja a környező települések fejlesztésével összhangban a Versenypálya
+körül az egyszerűbb, gyorsabb és minőségi közlekedés, parkolás, egyéb kapcsolódó szolgáltatások feltételeinek
+megteremtése.
+A Versenypálya a hazai és nemzetközi autó-motor sportok emblematikus helyszíne. Fontos az ország ismertségének
+növelésében betöltött szerepe. A Formula 1 futamokat világszerte körülbelül 1,1 milliárd szurkoló nézi évente végig
+a képernyők előtt. A Formula 1 Magyar Nagydíj nézettség tekintetében rendszeresen 100 milliós nézőszám felett
+teljesít, 2023-ban a versenyhétvége nagyságrendileg 300 millió nézőt vonzott.
+A Versenypálya környékére vonatkozó későbbi fejlesztések megvalósítását szolgáló ingatlanszerzési igények
+felmérését alátámasztó diszpozíciós terv elkészült, az érintett témák:
+– a Versenypálya megközelíthetőségének, külső körbejárhatóságának fejlesztése, minőségi parkoltatási
+területek létrehozása,
+– a környezettudatos közösségi közlekedés megteremtése,
+– a Formula 1 Magyar Nagydíj látogatóinak megfelelő színvonalon történő kiszolgálása érdekében a telekhatár
+körüli szolgáltatások,
+– a gyalogos és kerékpáros kapcsolatok fejlesztése, valamint a környéken élők és turisták érdeklődésére számot
+tartható attrakciók,
+– kereskedelmi és egyéb szolgáltatási zónák létrehozásának lehetőségeinek fejlesztése.
+A diszpozíciós terv első ütemben a következő továbbtervezési feladatokat határozza meg:
+– parkoló-hálózat kialakítása, parkolók és a parkolókhoz vezető szervízutak kialakítása,
+– a Versenypálya körbejárhatóságát biztosító úthálózat kialakítása,
+– a Versenypálya közvetlen működéshez tartozó útépítési beavatkozások körében a meglévő csomópontok
+fejlesztésének tervezése,
+– a Versenypálya hosszútávú üzemeléshez tartozó útépítési beavatkozások körében, a csomóponti fejlesztések
+tervezése.
+A fejlesztendő külső területek meghatározása során figyelemmel kell lenni a Széchenyi István Egyetemért
+Alapítvány, a Széchenyi István Egyetem és a HUNGARORING Sport Zrt. 2023. évben kötött stratégiai
+megállapodására, amelyet az oktatás-fejlesztés és a tudományos közösségépítés támogatása céljából az oktatás
+területén az oktatás hatékonysága és a rendelkezésre álló infrastruktúra jobb kihasználása és utóbbi fejlesztése
+érdekében, valamint az autó- és motorsportokkal kapcsolatos innováció, kutatás-fejlesztés előmozdítása és ehhez
+kapcsolódóan a Motorsport Innovation and Development Science Park (a továbbiakban: MINDS Park) megvalósítása
+érdekében kötöttek.
+A 2024. és 2025. évre vonatkozó rövid távú cél a Versenypálya gazdasági működését, hasznosítását elősegítő
+további beruházások és ingatlanok körének felmérése, meglévő diszpozíciós terv továbbtervezése. Kormánydöntés
+függvényében az engedélyes-kiviteli tervek elkészíttetése, ingatlanszerzések.
+
+A 2026–2030. közötti időszakra vonatkozó középtávú cél kormánydöntés függvényében a Versenypálya körüli
+parkoló-hálózat kialakítása, a parkolókhoz vezető szervízutak kialakítása. A Versenypálya körbejárhatóságát biztosító
+úthálózat kialakítása, csomópontok fejlesztése.
+A 2031–2035. közötti időszakra vonatkozó hosszú távú cél kormánydöntés függvényében a Versenypálya körüli
+csomópontok fejlesztése, környezettudatos közösségi közlekedés megteremtése, gyalogos és kerékpáros
+kapcsolatok fejlesztése, valamint a környéken élők és turisták érdeklődésére számot tartható attrakciók,
+kereskedelmi és egyéb szolgáltatási zónák létrehozása.
+XIII. TERÜLETFEJLESZTÉS
+Magyarország Kormánya hazánkat a legélhetőbb országok sorába kívánja emelni. Az élhetőség egyik
+peremfeltételét az élhető térségek jelentik. A területpolitika legnagyobb kihívását ma a területi különbségek és
+a vidékről való elvándorlás mérséklése jelenti.
+Az urbanizáció ugyan megállíthatatlan, de volumene és hatásai megfelelő ösztönzőkkel és intézkedésekkel
+tompíthatók. Ha ugyanis az urbanizáció – amely napjainkban egyre inkább nem a nagyvárosokba, hanem
+az agglomerációjukba költözést jelenti – a jelenlegi ütemben folytatódik, úgy a vidék elnéptelenedik,
+a várostérségek pedig túlzsúfolttá válnak. Ebből adódóan egyik sem lesz élhető. Ezért a vidéki térségek
+népességmegtartó képességének megerősítése mellett a várostérségek élhetővé tétele jelenti a fő feladatot.
+A fenti kihívásokra területpolitikai és területi tervekbe ágyazott ágazati válaszokat is kell adni. A területpolitikai
+célzás tekintetében nem elég a közigazgatási területegységekre szabott programokat alkotni, hanem
+azt kell vizsgálni, hogy a lakosság hogyan használja a teret (merre jár dolgozni, hol vesz igénybe
+szolgáltatásokat stb.). Ez vezet el a térhasználat alapú tervezéshez, amelyet az új területfejlesztési törvény
+megalapozott az „együttkezelendő térségek” fogalmával, legyen szó várostérségről, turisztikai régióról, határ menti
+térségekről, vagy épp egy erős városmag nélküli belső perifériáról. A térhasználat alapú tervezés három vezérelve:
+1. Közigazgatási határoktól elszakadó területi tervezés (funkcionális térségek, mint: várostérség, kiemelt
+turisztikai térség, erős városmag nélküli vidékies térség, ezen belül: határ menti térségek vagy belső
+perifériák).
+2. Kis- és középvárosok központi funkcióinak megerősítése (várostérségekben alközponti funkciók, vidéki
+térségekben gravitációs pontok).
+3. Határon túli magyarlakta területek bekapcsolása.
+Hasonlóképpen, ágazati oldalról is három pillér azonosítható a térségek felemeléséhez:
+– munkahelyteremtés/beruházás-ösztönzés/gazdaságfejlesztés,
+– (köz)szolgáltatások területileg kiegyenlített biztosítása (Nemzeti Területi Minimum),
+– mindezek megfelelő elérhetősége a lakóhelyről (közlekedés és digitalizáció).
+A területpolitika fő célja a területi fejlettségbeli különbségek csökkentése és a fejletlenebb térségek
+népességmegtartó képességének megerősítése (az agglomerálódó várostérségek élhetővé tétele és a fejlettebb
+régiók versenyképességének megőrzése mellett).
+Tekintettel arra, hogy a területfejlesztés nem ágazatokhoz, hanem térségekhez kötött fejlesztésekkel foglalkozik,
+hagyományos módon nem határolható el, hogy a területfejlesztés milyen beruházásfajtákkal foglalkozik.
+A területfejlesztési programok a gazdasági infrastruktúra fejlesztésétől az elérhetőséget szolgáló beavatkozásokon
+át a közszolgáltatások javításáig rendkívül széles kört ölelnek föl, így a területfejlesztési szakterület által gondozott
+programok beruházásai körében egyaránt felmerülhet magasépítés, közlekedési és közmű-infrastruktúra,
+zöldterületi vagy akár digitális fejlesztések, de szolgáltatásfejlesztés is.
+
+XIV. KÖZIGAZGATÁS
+Területi közigazgatás
+A XXI. századi közigazgatás magas szintű ellátásához a területi közigazgatás szintjén olyan ingatlanállomány
+rendelkezésre állása és folyamatos működtetése szükséges, mely eleget tesz a mai kor kihívásainak: egyaránt
+megvalósítja az üzembiztos munkafeltételeket, biztosítja a kiemelt számú ügyfélforgalom szakszerű ellátását,
+a költséghatékonyságot valamint a fenntarthatóságot függetlenül attól, hogy az ország mely területéről van szó.
+Tekintettel az Európai Unió által megfogalmazott „Fit for 55” célkitűzéseire, a kormányhivatalok olyan koncepció
+megvalósítását helyezik előtérbe, mely az ingatlanok hosszú távú, alacsony energiaigényű, szükség esetén
+az energiamixben fellelhető források közül akár módosítható energiaellátású épületek használatát valósítják meg.
+Ennek megfelelően kiemelt cél a költségesen üzemeltethető energiafelhasználási rendszer kiváltása a hatékony és
+fenntartható elemek kiépítésével, a napelemes rendszer telepítésével – mellyel az épületek káros anyag kibocsátása
+valamint a fosszilis energia felhasználása csökken – pedig elérhetővé válik az energiafüggőség mérséklése is.
+A koncepció kialakítása során kiemelt jelentőséget kapott a magas szintű ügyfél-, és munkakörnyezet kialakítása,
+továbbá az ingatlan racionalizáció megvalósítása annak érdekében, hogy az ügyfelek ügyeiket kényelmesen,
+egy helyszínen intézhessék. A beruházások végrehajtásával hatékonyan mérhető energia-megtakarítások
+érhetőek el, továbbá a fejlesztések eredményeképpen növekedhet az ügyfél-elégedettség. A munkakörülmények
+modernizálása, az épített környezet megújulása elősegíti a szakképzett munkaerő-megtartási stratégiát is, mely
+biztosítja a hatékony, gyors és szakszerű feladatellátást a kormányhivatalokban.
+Egyes beruházások nem csak energetikai, hanem városképi és településképi célokat is szolgálnak, továbbá
+biztosítják az akadálymentességi előírásokat is.
+A kormányhivatalok elkötelezettek aziránt, hogy valamennyi helyszínen – járási székhelyen – megfelelő
+körülmények között működjenek a helyi,- és társadalompolitikai szempontokból kiemelkedő jelentőséggel
+bíró kormányablakok. Ennek megfelelően az elkövetkezendő években folyamatos igényként jelentkezik
+a kormányablakok fejlesztése, arculati előírásoknak megfelelő felújítása, új kormányablakok kialakítása annak
+érdekében, hogy méltó találkozási pontok lehessenek az állam és az ügyfelek között.
+A tervezett beruházások az állami tulajdonban álló épületek állagmegóvását, értékének megőrzését, gyarapítását
+is szolgálják, valamint egyes esetekben a szélsőséges időjárás okozta károk elhárítása érdekében végzett
+munkálatokhoz kapcsolódó feladatok elvégzését és balesetveszélyes állapotok megszüntetését is.
+A 2035. december 31. napjáig megvalósítani tervezett kormányhivatali beruházások alapvetően az alábbiak szerint
+csoportosíthatóak:
+– energetikai korszerűsítést célzó beruházások (71%),
+– komplex beruházások (28,2%),
+– karbantartás, vagyon és állagmegóvás érdekében elvégzett beruházások (0,8%).
+A fejlesztési igények (beruházásfajták) javarészt a kormányhivatali ingatlanállomány korszerűsítésére,
+az ingatlanállomány megfelelő állapotának fenntartására irányulnak és nem kapcsolódnak közvetlenül társadalmi-
+gazdasági kihívásokhoz. Ezen beruházások megvalósulásával általánosságban biztosítható a területi közigazgatás
+fejlesztése, mely hozzájárul a közigazgatás versenyképességének, az állampolgárok közigazgatási szolgáltatásokhoz
+való hozzáférésének növeléséhez azáltal, hogy az ügyféligényeket hatékony, XXI. századi, korszerű keretek között
+szolgálhatják ki a kormányhivatalok, továbbá elősegítik a gazdaságos működést, üzemeltetést is.
+Az épületek energetikai korszerűsítésének megvalósítása biztosíthatja a hatékony energiafelhasználást és
+a megújuló energiaforrás-felhasználását ezzel is csökkentve az energiafüggőséget és elősegítve a klímavédelemre
+irányuló célok megvalósítását. Az épületek fejlesztésével, az épített környezet megújulásával a kormányhivatali
+dolgozók munkakörülményeinek javítása is elősegíthető, hiszen a megfelelő, a kor követelményeinek eleget tevő,
+korszerű épületek elősegítik a minőségi, hatékonyabb munkavégzést és a munkaerő megtartási stratégiát.
+
+Központi cél és kiemelt figyelmet kap a közszolgáltatások folyamatos fejlesztése mellett az egyre magasabb
+színvonalú szolgáltatások nyújtása, a„szolgáltató állam” megvalósítása az ügyfelek számára. A megfelelő környezet,
+a minőségi ügyintézés, a kormányablakok telepítése a helyi,- és társadalompolitikai szempontokból jelentőséggel
+bíró településeken elősegíti az állampolgárok közigazgatási szolgáltatásokhoz való hozzáférését, javítva
+az ügyfélkiszolgálás minőségét és az ügyfél elégedettség javítását.
+Az ingatlan-racionalizáció megvalósításával egyrészt a jelenleg széttagolt ingatlanokban elhelyezett szervezeti
+egységek egy épületben történő elhelyezése, a korszerűtlen vagy bérelt ingatlanok kiváltása valósulhatna meg,
+ezzel elérve a közigazgatás infrastruktúrájának konszolidálását a költségek csökkentése érdekében.
+Az állagmegóvást érintő beruházások megvalósításának célja a balesetveszélyes állapotok kialakulása, megelőzése.
+Az élet- és vagyonvédelem növelése érdekében vagyonvédelmi és hibaelhárítási feladatok elvégzése is szükséges.
+Funkcionális feladatellátást biztosító beruházások megvalósításával az iratok megfelelő körülmények közötti és
+meghatározott ideig történő tárolása hosszabb távon biztosítható.
+Nemzeti Adó- és Vámhivatal, valamint Magyar Államkincstár
+Mindkét szerv tekintetében az építési beruházási tevékenység céljai az alábbiak:
+Állagmegóvás
+A NAV és a MÁK használatában lévő épületek jelenleg elavultak, az ingatlanállomány állagmegóvásra és felújításra
+szorul. Az állagmegóvást érintő beruházások megvalósításának célja a balesetveszélyes állapotok kialakulásának
+megelőzése, az érintett épületek fellazult homlokzatának városképbe illeszkedő felújítása, az elöregedett és
+az időjárás viszontagságainak folyamatosan kitett nyílászárók, a tető és bádogszerkezet javítása. Az épületek
+egy része műemléki védettség alatt áll, így ezen épületek felújítása és megóvása közös, építészeti érték mellett
+történelmi és nemzeti érdek.
+Korszerű ügyfélszolgálatok létrehozása, munkakörnyezet kialakítása
+Mindkét szervezet esetében – az elektronikus ügyintézés egyre nagyobb térnyerése mellett – a személyes
+ügyintézési igény jelentős, ezért kiemelt cél a szolgáltató és támogató működés megerősítése. Országos szinten
+jelentős ügyfélszolgálati tevékenységet folytatnak, ezáltal az ügyfélszolgálati terek, illetve az azokat befogadó
+ingatlanok megfelelő színvonalú állapotához fokozott állami, illetve állampolgári érdek fűződik. Az ügyfélterek
+fejlesztése során biztosítani kell az akadálymentesítést, valamint a jogi személyek és egyéb szervezetek
+vonatkozásában az egyszerre megjelenő több képviselővel történő ügyintézés lehetőségét is.
+Mindkét intézmény nagylétszámú munkaerő állománnyal rendelkezik, akik részére korszerű, a XXI. század
+elvárásainak megfelelő munkakörülményeket szükséges biztosítani.
+A beruházások, a fejlesztések eredményeképpen növekedhet az ügyfél-elégedettség, valamint
+a munkakörülmények modernizálása, javítása hozzájárul a szakképzett munkaerő megtartásához, s ezáltal
+a szakszerű feladatellátás biztosításához is.
+Ingatlan-racionalizáció
+Az ingatlan-racionalizáció megvalósításával a jelenleg széttagolt ingatlanokban elhelyezett szervezeti
+egységek egy épületben történő elhelyezésére, a korszerűtlen vagy bérelt ingatlanok kiváltására kerülhet sor,
+költségmegtakarítást eredményezve.
+Vagyonvédelem, hibaelhárítás
+A vagyonvédelmi, hibaelhárítási feladatok körében az épületek tűzvédelmét biztosító tűzjelző rendszer központi
+egységének kialakítására, a funkciók bővítésére, a működésének javítására, cseréjére, valamint a villamos biztonsági,
+érintés- és villámvédelem szabványossági felülvizsgálatokra kerül sor az élet- és vagyonvédelem növelése
+érdekében.
+
+XV. HELYI ÖNKORMÁNYZATOK
+A helyi önkormányzatok a helyi közügyek intézése és a helyi közhatalom gyakorlása érdekében működnek, melynek
+megfelelően valamennyi ágazat esetén kiemelt szerepet kell biztosítani a helyi önkormányzatokat közvetlenül
+érintő beruházási igényeknek.
+Az önkormányzatok működését biztosító ingatlanok állagmegóvása és modernizálása stratégiai fontosságú, mivel
+az önkormányzati épületek nem csupán a helyi közigazgatási folyamatok helyszínei, hanem közösségi terek is, ahol
+az állampolgárok és az önkormányzatok közötti interakciók zajlanak.
+A tervezett fejlesztések tekintetében figyelembe kell venni az eltérő méretű és lakosságszámú, és ennek
+megfelelően eltérő feladatokat ellátó helyi önkormányzatok differenciált igényeit, például az önálló polgármesteri
+hivatallal nem rendelkező települések, a közös hivatalok székhely települései és az önálló polgármesteri hivatalokkal
+rendelkező települések esetében.
+Célkitűzésünk, hogy 2035-ig az önkormányzatok működését biztosító épületek modern, korszerű létesítményekké
+váljanak, melyek megfelelnek a mai kor elvárásainak és technológiai lehetőségeinek.
+Fentieken túl kiemelt cél a helyi ügyek ellátásának modernizálása és hatékonyabbá tétele. Kiemelt jelentőségű,
+hogy az önkormányzati feladatok ellátása gördülékenyen és hatékonyan történjen, melynek egyik alapvető
+feltétele az ellátandó feladatokhoz kapcsolódó digitális infrastruktúra fejlesztése, mely hozzájárul a lakosság
+elégedettségének növekedéséhez.
+A célkitűzésünk egy olyan önkormányzati struktúra kialakítása, amely átlátható, rugalmas és a digitalizáció által
+támogatott, hogy mindenki számára könnyen elérhető és használható legyen. Ezáltal elősegíthető a közösségi
+részvétel és az állampolgárok aktív részvétele a helyi ügyekben, melynek révén erősíthetőek a demokratikus
+folyamatok, és növelhető a helyi közösség életminősége.
+Mivel a magyarországi települések jövedelemtermelő képessége jelentősen eltér egymástól, ezért a fenti célok
+megvalósítása az önkormányzatokkal együttműködve az állam feladata.
+XVI. FELSŐOKTATÁS, FELNŐTTKÉPZÉS, SZAKKÉPZÉS, INNOVÁCIÓ
+Eddigi eredményeink és jövőbeni céljaink a magyar gazdaság versenyképességét biztosító tudásszolgáltató
+alrendszerek összehangolt irányítására épülnek. A magyar gazdaság fenntartható fejlődését biztosító nemzeti
+tudásszolgáltató rendszerben a szakképzés, a felsőoktatás, a felnőttképzés és az innováció egymással szoros
+egységet alkotó, szinergikusan fejlesztendő és működtetendő alrendszereket alkotnak. A tudásalapú, versenyképes
+gazdaság működésének támogatását, folyamatos erősítését szolgáló, képzett, a társadalmi változásokhoz és
+a munkaerőpiac permanensen változó kihívásaihoz alkalmazkodni képes munkaerő biztosítása folyamatos
+beruházást és fejlesztést igényel infrastrukturális oldalról is.
+A Kormány a tudásalapú, versenyképes gazdaság működésének támogatását, folyamatos erősítését
+kiemelt feladatának tekinti, amely képzett, a társadalmi változásokhoz és a munkaerőpiac permanensen
+változó kihívásaihoz alkalmazkodni képes munkaerőt igényel. A Kormány azon céljának kulcsszereplői ezen
+tudásszolgáltató alrendszerek, mely szerint 85%-ra kívánja emelni a foglalkoztatottak arányát a társadalomban.
+Ezen célok eléréséhez azonban nélkülözhetetlen a megfelelő infrastruktúra, hiszen minőségi tudáshoz, minőségi
+tudásszolgáltatáshoz minőségi infrastruktúra is kell.
+Felsőoktatás, felnőttképzés
+A felsőoktatás a magyar nemzet versenyelőnyét, jövő-, és innováció képességét biztosítja; és a magyar gazdaságot
+és társadalmat erősítő szolgáltatás. A magyar siker kvantumtényezője, mert fontos, hogy a felsőoktatás legyen
+a magyar gazdaság és társadalom szereplőinek tudásbankja, legfőbb tanácsadója.
+Cél a teljesítményszemlélet további erősítése az egyetemeken, a magyar diplomások, és a magyar kutatók legyenek
+szinonimái a minőségnek és a kiválóságnak 2030-ra.
+
+Továbbá cél a nemzetköziesítés terén szintugrást elérni a felsőoktatásban, amellyel összhangban a magyar
+felsőoktatás nemzetközi hallgatóvonzó képességének növelését, kormányzati célokkal való összehangolását
+kívánjuk elérni, így különösen
+– tehetséges külföldi hallgatók magyar munkaerőpiacba integrálása, oktatási, kutatási kiválóság erősítése,
+– hazánkban megszerzett tudás küldő országban történő hasznosítása, magyar (kül)gazdasági, oktatási,
+kultúrdiplomáciai kapcsolatok erősítése,
+– diaszpóra visszavonzása, magyar identitás erősítése (frissen kivándoroltak visszacsábítása; a diaszpórában
+maradók magyar identitásának erősítése).
+Szakpolitikai cél, hogy 2030-ra
+– Magyarországon legyen egy olyan egyetem, amely a világ legjobb 100 egyeteme között van, és három olyan,
+ami Európa legjobb 100 egyeteme között lesz.
+– A V4 országok diplomásainak átlagát meghaladja a hazai diplomások aránya a 25–34 éves korosztályban.
+– A diplomások bérelőnye érje el a 100%-ot, 50%ponttal előzze meg a V4-ek átlagát.
+– A nemzetközi diákok száma érje el a 100 ezret.
+– A munkaképes korú felnőtt lakosság 70%-a vegyen részt olyan képzésben, amely közvetlenül kapcsolódik
+a magyar gazdasági szereplők igényeihez.
+– Képzésben résztvevő felnőtt korú lakosság 2/3-a végezzen olyan képzést, amely piaci szereplők által igényelt
+tudástartalomra, illetve kompetenciafejlesztésre irányul, és amelyhez mikrotanúsítványok kapcsolódnak.
+– Minden releváns képzés esetében legyen digitális tananyag és képzési forma a felnőttképzésben.
+– Minden munkavállalónak legyen egyéni tanulási számlája (képzési SZÉP kártyája), melyen tervezett módon
+zajlanak a felnőttek képzései.
+Ahhoz, hogy elérjük a 85%-os foglalkoztatást és egyben tudásalapú, versenyképes gazdasága legyen hazánknak
+elengedhetetlen, hogy nőjön a felsőfokú végzettséggel rendelkező fiatalok aránya (a 25–34 éves korosztályban).
+Ehhez azonban további infrastruktúrafejlesztés is időszerű, mivel minőségi oktatáshoz minőségi infrastruktúra
+szükséges. A fenti eredmények további fejlesztéséhez szükséges a felsőoktatási infrastruktúra továbbfejlesztése
+és modernizálása is, energiahatékonysági szempontok szerinti felújítása, új épületek bevonása a felsőoktatási
+közfeladat hatékonyabb ellátásához. Ahhoz tehát, hogy a fenti célokból eredmények váljanak a felsőoktatási
+infrastruktúra folyamatos fejlesztése szükséges, reagálva a társadalmi, gazdasági és tudományos változások
+generálta igényekre. Intézményenként, campusonként szükséges vizsgálni a fejlesztési szükségleteket és
+lehetőségeket, esetleges hiányosságokat, problémákat, tehát minden esetben az intézményi sajátosságok (képzési
+portfólió, fenntartott intézmények köre, egészségügyi ellátás) figyelembevételével kerülhet sor a feladatok
+megfogalmazására és végrehajtására a kívánt eredmény minél hatékonyabb elérése érdekében.
+Az egyetemi infrastruktúra fejlesztések emelik az oktatás színvonalát, vonzóbbá teszik az egyetemeket mind
+a magyar, mind a nemzetközi diákok számára, valamint a megfelelő számú kollégiumi férőhely biztosításával növelik
+a felsőoktatás hozzáférhetőségét.
+A Nemzeti Közszolgálati Egyetem (a továbbiakban: Egyetem) a magyar felsőoktatás szerves része.
+Az elmúlt évek válságai rámutattak, hogy a hon- és rendvédelem gyors reakcióra minden körülmények között
+alkalmas, hatékony, ütőképes megszervezése a nemzeti érdekek szempontjából létfontosságú tényező. Az Egyetem
+által folytatott építési beruházások azon infrastruktúra létrehozását célozzák, amelyek az ehhez szükséges
+szakemberállomány legmagasabb szintű képzését teszik lehetővé.
+Az Egyetem infrastrukturális fejlesztéseinek fókusza emellett az elkövetkező időszakban a Nemeskürty István
+Tanárképző Kar elhelyezésül szolgáló ingatlanállomány kialakítása lesz.
+Az Egyetem kiemelt feladatának tekinti a vagyonkezelésébe tartozó létesítmények állagmegóvását, az ingatlanok
+vagyonvédelmét, valamint, hogy beruházásai során energiahatékonyságot növelő infrastrukturális energetikai
+beruházások valósuljanak meg a környezettudatosság és fenntarthatóság jegyében.
+Az Egyetem további célja olyan sport lehetőségek biztosítása, amelyek támogatják az Egyetem polgárait
+az egészséges és sportos életmód kialakításában, valamint hozzájárulnak az Egyetem hírnevének sporton keresztül
+történő erősítéséhez.
+
+Az Egyetem beruházásai 3 fő tényező szerint kerültek csoportosításra, a hozzájuk társított időbeli ütemezés
+feltüntetésével:
+– állagmegóvás, felújítás, vagyonvédelem, az ingatlan kora és a használatból eredő amortizáció miatt
+(2024–2035),
+– egyetemi infrastruktúra-fejlesztés, a fenntarthatóság, az energiahatékony rendszerek kialakítása és
+a környezettudatosság jegyében (2024–2035),
+– vagyonvédelem, az Egyetem közigazgatási és hivatásrendi oktatási feladata miatt kiemelt nemzetbiztonsági
+objektumoknak megfelelő biztonsági szint kialakítása (2024–2029).
+Szakképzés
+Szakpolitikai cél, hogy a szakképzési struktúra a helyi gazdasági szereplőkkel együttműködésben kerüljön
+kialakításra, és így illeszkedjen a térség munkaerő-piaci elvárásaihoz.
+Az infrastruktúrafejlesztések kiemelt célja a szakképzés vonzerejének növelése, a munkaerőpiac által igényelt
+szakember létszám biztosításához szükséges tanulói beiskolázási létszámok elérése. A megfelelő létszámú (illetve
+összetételű és minőségű) szakember-kibocsátás hozzájárul a foglalkoztatás növeléséhez és a munkanélküliség
+csökkentéséhez.
+A szakképzési feladatellátás eredményességét és hatékonyságát segíti az oktatási terek alábbi alapelvek szerinti
+kialakítása:
+1. A tanulás és oktatás támogatása: kiemelt szempont, hogy a szakképző intézmények fejlesztései a képzéshez
+igazodó építészeti technikák alkalmazásával, a statikus-lineáris jellegű helyett a felmerülő igények
+alapján rugalmasan alakítható (flexibilis) térszervezéssel, nyitott tantermek (ablakos ajtók) kialakításával
+valósuljanak meg.
+2. A fizikai komfort optimalizálása: a komfortérzetet befolyásoló paraméterek (például levegő hőmérséklete,
+huzathatás, friss levegő mennyisége, a helyiség megvilágítása) optimalizálása.
+3. Működési költségek optimalizálása: hosszabb élettartamú és alacsonyabb fenntartási költségű, többfunkciós
+épületek tervezése és kialakítása, energetikai korszerűsítések elvégzése, megújuló energiaforrások
+használata, környezeti fenntarthatóság alapelveinek érvényesítése.
+További kiemelt cél – és a működési költségek optimalizálását segíti – a kihasználtsági mutatók javítása, nem csak
+a tanulólétszám tekintetében, hanem a felnőttek oktatásának és képzésének szervezését és a helyi közösség részére
+szolgáltatások biztosítását is figyelembe véve.
+Innováció
+Annak érdekében, hogy az innováció a tudásszolgáltató alrendszerek katalizátora legyen az alábbi szakpolitikai
+célokat tűztük ki:
+– Magyarország 2030-ra kerüljön Európa legjobb 10, 2040-re a világ legjobb 10 innovátor országa közé.
+– 2030-ra érjük el, hogy minden második magyar mikro-. kis- és középvállalkozás innováljon, és minden
+negyedik innovatív mikro-. kis- és középvállalkozás együttműködjön egyetemekkel, kutatóintézetekkel. Érjük
+el a szabadalmak számában a 3,5-et (1 milliárd EUR GDP-re vetítve).
+– 2030-ra 9000 főre emeljük az egymillió főre eső kutató-fejlesztők számát, növeljük a doktori képzés
+kibocsátását.
+– Nobel-díjas, illetve más kiemelkedő nemzetközi eredményességgel rendelkező kutatóinkat még szorosabban
+kössük a magyar egyetemekhez.
+– A Hungarian International Science Campus 2023-as megalapításával további kiváló kutatókat hívjunk
+Magyarországra (legalább 20 nemzetközi kutatócsoport).
+Az innovációhoz kötődő szakpolitikai intézmények, szervezetek, egyetemek és más közintézmények épületeinek
+rekonstrukciója a teljesítményt is figyelembe vevő többpillérű finanszírozást innovációs eredményekkel kiegészítve
+a szellemi tulajdon védelmi és hasznosítási szempontokra is fókuszálva még színvonalasabb eredmények érhetők el
+az innováció területén.
+
+Stratégiai cél, hogy a magyar tudomány, kutatási- és innovációs ökoszisztéma szereplői – különösen a felsőoktatási
+intézmények, a HUN-REN Magyar Kutatási Hálózat, a Bay Zoltán Kutatóintézet – részére olyan világszínvonalú
+kutatási és egyéb szempontú infrastrukturális adottságokat biztosítson a szakpolitika, amely hozzájárul a tehetséges
+fiatalok Magyarországon tartásához, valamint kiváló külföldi kutatók Magyarországra vonzásához.
+A Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal kiemelt támogatással ösztönzi a legdinamikusabb alkotási
+szakaszban lévő, kiváló, a nemzetközi tudományos világ élmezőnyébe tartozó kutatókat, akik szakterületük
+formálóiként, iskolateremtő vezető kutatóként ígéretes kutatási projektjeik megvalósításával hozzájárulnak ahhoz,
+hogy Magyarország a térség kutatás-fejlesztési és innovációs központjává fejlődjön. További cél a fókuszterületi
+innovációs projektek iparágaihoz kapcsolódó, az ezen a területeken a nemzetközi tudományos világ élmezőnyébe
+tartozó kutatók Magyarországra csábítása, melynek keretében minimum 3 éves időszak alatt valósulnak meg
+mérhetően világszínvonalú alkalmazott kutatások.
+XVII. KULTÚRA
+A kulturális ágazat eredményei és jövőbeni céljai a kultúra-szolgáltató intézmények összehangolt, programszerű és
+hálózatos megújítására, korszerűsítésére épülnek. A XXI. századi, versenyképes gazdaság működésének támogatása,
+elsősorban a foglalkoztatottak számának növelése a kultúra eszközrendszerével folyamatos beruházást és fejlesztést
+igényel infrastrukturális oldalról is.
+Alapvető kultúrpolitikai cél a kulturális, művészeti értékek létrehozása, közvetítése és megélésének lehetősége
+minden magyar ember számára, mely a nemzet megmaradásának alapja. Középpontban az aktív, cselekvő
+közösség és a közönség áll. Annak érdekében, hogy a kultúra a nemzetgazdaság katalizátora legyen, és betölthesse
+kiemelten fontos közösség- és társadalomszervező, értékteremtő, valamint gazdasági szerepét, összhangba kell
+hozni az egyes kulturális szakterületeket, a kultúrstratégiai intézményeket és az országos szakmai-módszertani
+háttérintézményeket, továbbá a területi ellátás színhelyeiként a vármegyei és járási központokat, illetve a helyi
+szintű kulturális, közösségi színtereket. A kulturális beruházások területi és szakterületi szinteken specifikusan kell,
+hogy megvalósuljanak.
+A kulturális ágazat kiemelt szakpolitikai célja a területi hátrányok leküzdése, ennek érdekében a kulturális
+szolgáltatásokhoz való hozzáférés erősítése (járási, területi kulturális feladatellátás a kultúrstratégiai intézmények
+bevonásával).
+A koncepció kiemelt elemeit a nemzeti szempontból kiemelkedő jelentőségű beruházások jelentik: nemzeti
+történelmünk, a nemzeti emlékezet szempontjából kiemelkedő jelentőségű, a helyi szinten túlmutató fejlesztési
+programok.
+Országos és vármegyei szinten célunk a kultúrstratégiai intézmények országos szerep- és hatáskörének
+megerősítése, kiemelten a múzeumi, könyvtári, előadó-művészeti és alkotóművészeti területen. Így a kulturális
+ágazat a kulturális szakpolitikai-ágazati beruházási koncepció keretében országos szinten több jelentős,
+a kultúrstratégiai intézmények hálózatos szerepét erősítő beruházást kíván megvalósítani. Nagy igény van továbbá
+a kulturális infrastruktúra műszaki állapotának javítására, állagvédelmére.
+A tervezett kulturális struktúraváltás kiemelten épít a kultúrstratégiai intézmények hálózatépítő szerepére. Ennek
+érdekében elsődlegességet élveznek ezen intézmények beruházási szükségletei, hogy kellően korszerű, modern
+és hatékony infrastruktúra álljon rendelkezésre, amely alkalmas szakmailag vagy szervezetileg a hálózatos
+működésben részt vevő intézmények ellátására is.
+Országos szinten fontos feladat az egyes országos kulturális intézmények fejlesztése, hogy megfelelő
+infrastrukturális háttér álljon rendelkezésre speciális szakmai feladataik ellátásához. Így fontos cél az országos
+múzeumok előkészített beruházásainak megvalósítása, a levéltári fejlesztési program megvalósítása és
+a színházfejlesztési program folytatása.
+Regionális szinten cél a közös gyűjteményi (raktározási) és módszertani központok létrehozása a közgyűjtemények
+részére, valamint közös raktárbázisok (regionális előadó-művészeti műhelyházak) létrehozása az előadó-művészeti
+szervezetek (mindenekelőtt színházak) részére.
+
+Vármegyei szinten fontos cél a kultúrstratégiai intézmények megyei központokban elhelyezkedő tagintézményeinek
+(például vármegyei levéltárak felújítása) és a feladatellátásban részt vevő hálózat tagjainak (például országos
+múzeumok tagintézményeinek felújítása, vármegyei múzeumok, könyvtárak, levéltárak) fejlesztése a magas
+minőségű kulturális tevékenységek, szolgáltatások érdekében.
+Települési szinten a kulturális esélyteremtés, a helyi értékek védelme és megismerhetővé tétele, a közösségek
+erősítése a cél: a helyi közösségek igényeit is figyelembe vevő, helyi szinten jelentős, a település számára értéket
+jelentő beruházások megvalósítása akár a helyi intézmények, akár nagyobb kulturális intézmények települési
+tagintézményei esetében (például integrált kulturális intézmények, művelődési házak, közösségi színterek).
+Kiemelt szakterületi cél továbbá a kulturális infrastruktúra állapotának általános javítása, állagvédelme,
+korszerűsítése, a feladatellátás körülményeinek javítása érdekében. Az elsősorban vidéken felmerülő, területileg
+elaprózódó beavatkozásokra programszerű megoldást érdemes nyújtani (például felújítási alap létrehozásával,
+azonnali állagvédelmet és sürgős beavatkozásokat támogató felhívás rendszeres meghirdetésével).
+A kulturális infrastruktúra fejlesztését átfogó célok megvalósítása is segíti, mint például a megújuló energiaforrások
+hasznosítása, valamint az energiahatékonysági fejlesztések megvalósítása szigeteléssel és nyílászárók cseréjével,
+továbbá az épülettechnika korszerűsítésével, amelyek felújítási programokat igényelnek.
+Kulturális ágazati beruházási célok:
+– Nemzeti szempontból kiemelt jelentőségű beruházások előkészítése és megvalósítása.
+– Kultúrstratégiai intézmények véglegessé vált engedéllyel és kiviteli tervvel rendelkező beruházásainak
+megvalósítása.
+– Véglegessé vált engedéllyel és kiviteli tervvel rendelkező kulturális beruházások megvalósítása.
+– Előkészítés alatt lévő kulturális beruházások megvalósítása.
+– Közgyűjteményi raktározási, módszertani és digitalizálási központok létrehozása.
+– Korszerű regionális raktárak létrehozása előadó-művészeti szervezetek (színházak) részére.
+Vidéki, kulturális infrastruktúra állagvédelme, műszaki megújítása, korszerűsítése, sürgető beavatkozások
+(programszerűen).
+XVIII. CSALÁDÜGY
+A családügyi szakterület egyik fő prioritása a családok támogatása a munka-magánélet közötti egyensúly
+kialakításában. A bölcsődei ellátásnak nagy szerepe van a női foglalkoztatási ráta növelésében, hiszen ahhoz, hogy
+a szülők összeegyeztethessék a szakmai és magánéletüket, döntő fontosságú, hogy minőségi kora gyermekkori
+szolgáltatások álljanak rendelkezésükre. A települések népességmegtartó erejét is növeli, ha megfelelően biztosított
+a kisgyermekek napközbeni ellátása.
+Az új bölcsődei ellátást biztosító férőhelyek létrehozásán túl szükséges a meglévő intézményi férőhelyek
+korszerűsítése, fejlesztése is, hogy a XXI. század elvárásainak megfelelő minőségi nevelés, gondozás valósulhasson
+meg. Az ágazati beruházások megvalósítása révén cél a kapacitásbővítés mellett a már meglévő intézmények
+épületeinek korszerűsítése.
+A bölcsőde épületének átláthatósága és a korszerű elvek mentén történő átgondoltsága mind építészeti, mind
+pedagógiai, mind pszichológiai szempontból fontos a gyermekek harmonikus személyiségfejlődése érdekében.
+Az infrastrukturális és (vagy) energetikai korszerűsítési beruházások támogatása a sok esetben már több évtizede
+bölcsődeként működő, leromlott állapotú (műszakilag, energetikailag korszerűtlen, célszerűtlen) épületek
+felújítását, állagmegóvását szolgálhatja.
+A forrásokból eszközbeszerzés is megvalósulhat a minőségi nevelést-gondozást támogató eszközpark bővítése
+érdekében.
+Szükséges a bölcsődei létesítmények felújítása és modernizálása annak érdekében, hogy biztosítsuk a gyermekek
+korszerű körülmények között történő elhelyezését és a fejlődésüket támogató környezetet. Az új bölcsődei ellátást
+biztosító férőhelyek lehetővé teszik a szülőknek, hogy munkába álljanak vagy visszatérjenek a munkaerőpiacra.
+
+XIX. KÜLKÉPVISELETI INGATLANGAZDÁLKODÁS
+Külföldi ingatlangazdálkodás
+A magyar külpolitikával szembeni hazai és külföldi elvárások minőségi fejlesztést követelnek meg a Külgazdasági
+és Külügyminisztériumtól. Javítani kell a magyar missziók fizikai biztonságát, a munkafeltételeket,
+az eszközellátottságát, a rendezvények színvonalát és a külképviseleti épületek reprezentativitását.
+A diplomácia arculat-építő jellege megköveteli, hogy a magyar missziók egy európai értékeket képviselő,
+demokratikus, gazdaságilag gyarapodó ország képét sugallják. A magyar külképviseleteket – lehetőség szerint –
+alkalmassá kell tenni a kulturális és az üzleti promóció ellátásához szükséges rendezvények lebonyolítására is,
+a biztonsági szempontok szigorú figyelembe vételével.
+A magyar külpolitika természetéből fakadóan a külképviseletek munkáját a nyitottságnak, a minél szélesebb
+körű politikai, gazdasági, kulturális és társadalmi kapcsolatok építésére irányuló szándéknak kell jellemeznie.
+E nyitottságnak a külföldön járó magyar állampolgárok, illetve a hozzánk utazni vágyó külföldiek felé is
+érvényesülnie kell, akik egyre gyakrabban veszik igénybe külképviseleteink szolgáltatásait.
+A magyar állami tulajdonú külképviseleti ingatlanok vásárlása, valamint a meglévő ingatlanokon nagykarbantartási-,
+felújítási-, kivitelezési munkálatainak elvégzése a külképviseleti rendszer racionalizálását, a magyar
+gazdaságdiplomáciai célok megvalósítását, valamint a hatékonyabb gyorsabb érdekvédelmi ügyintézés lehetővé
+tételét, valamint a gazdaságosabb működést célozza, így az egyszerre szolgálja a hatékonyabban működő és
+szolgáltató állam kormányzati koncepciójának megvalósítását.
+A 2035-ig tartó időszakban társadalmilag kiemelt fontosságú marad, hogy a külképviseleti hálózat továbbra is
+fizikailag biztonságos környezetben, a munkafeltételek és eszközellátottság fokozatos és folyamatos javítása mellett
+lehetővé tegye a hatékonyabb és gyorsabb érdekvédelmi ügyintézést, célozza a gazdaságosabb működést, szolgálja
+a magyar gazdaságdiplomáciai célok megvalósítását, minél inkább alkalmasak legyenek hivatali épületeinket és
+kulturális intézeteinket a kulturális és az üzleti promóció ellátásához szükséges rendezvények lebonyolítására.
+Az ingatlanállomány összetettségéből, földrajzi elhelyezkedéséből, a fogadóország sajátosságaiból, illetve az adott
+misszió jelentőségéből, feladatellátásából, szerepvállalásából fakadóan többféle műszaki beavatkozás képzelhető el
+a saját tulajdonú ingatlanok tekintetében:
+– veszélyes műszaki, biztonsági állapotok megszüntetése, azonnali hibaelhárítás, beavatkozás, a munkavállalók
+és az ügyfelek biztonságos munkakörülményeinek megvalósítása;
+– leromlott műszaki állapotban lévő, illetve korszerűtlen ingatlanok felújítása, állaguk megóvása;
+– átfogó fejlesztéssel, korszerűsítéssel, esetleg bővítéssel, átépítéssel megvalósítható beruházások (ehhez
+kapcsolódó cél a munkavállalók megtartása, illetve a külszolgálati munka vonzóbbá tétele);
+– új épületek építése, fokozott figyelemmel a hivatali funkció mellett a lakhatási funkció kialakítására is, amely
+a költségcsökkentés mellett a biztonságot is növeli.
+A bérleményi ingatlanok tekintetében az ingatlan műszaki állapotának fenntartása, a nagyobb beavatkozást jelentő
+felújítások a bérbeadó feladatát képezik; ez esetben állami oldalról nem merül fel beruházási igény.
+Szakpolitikai cél, hogy az ingatlanok a kormányzati külpolitikai és külgazdasági stratégiai célok megvalósítása során
+a külképviselet működését magas színvonalon és hatékonyan támogassák a megfelelő reprezentativitás biztosítása
+mellett. Mindezeken túlmenően az ingatlanok gazdaságos és hatékony működtetése, az adott ország természeti
+viszonyainak, időjárási körülményeinek kihasználásával történő beruházások megvalósítása is megjelenik a célok
+között. Ezért a beruházásokhoz szükséges források rendelkezésre állása elengedhetetlen.
+Szakpolitikai cél a szolgáltató közigazgatás során
+– a gyorsabb ügyintézés, várakozási idő csökkentése;
+– rendkívüli helyzetekben (pl. katasztrófahelyzet) a gyors reagálás és segítségnyújtás;
+– az elérhetőség, az ügyfelekhez való közelebbi jelenlét fokozása;
+– ügyfélbarát környezet kialakítása;
+– a hivatali ügyintézésben rövidebb várakozási időtartam elérése;
+– a magyar és uniós, valamint harmadik országbeli állampolgárok ügyeinek minél szélesebb körű intézése
+egy-egy állomáshelyen.
+
+A Külgazdasági és Külügyminisztérium alapvető célja és érdeke továbbá a munkaerő állományának megtartása,
+a külszolgálati munkára történő hajlandóság fokozása, a pálya vonzóbbá tétele, biztonságos és korszerű munka- és
+lakhatási feltételek biztosítása. Ehhez az ingatlanok helyzete, állapota nagymértékben hozzájárul.
+A diplomáciai és gazdasági célkitűzések megvalósítása érdekében a kapcsolatépítési jelleggel megrendezendő
+rendezvények megtartására alkalmas helyszín biztosítása, ehhez kapcsolódóan pozitív országkép kialakítása és
+a bizalom erősítése, növelése érdekében a fejlesztések megvalósítása alapvető fontosságú.
+A kulturális intézetek esetében cél a magyar kultúra, értékek, történelem, gasztronómia megismertetése,
+népszerűsítése, a rendezvények számának és a közönségszámnak a növelése.
+Belföldi ingatlangazdálkodás
+Elsősorban az energetikai jellemzők javulását kell elérni a beruházások megvalósítása során, másodsorban növelni
+kell a Külgazdasági és Külügyminisztérium vagyonkezelésében lévő ingatlanok energetikai kapacitását, végül
+javítani kell a technológiai infrastruktúrát a fejlesztések fenntarthatósága érdekében, egyúttal törekedni kell
+az ingatlanok állagának megóvására és optimális esetben annak javítására.
+Az infrastruktúra-felújítások, karbantartások kapcsán elsődleges, mérhető és objektív indikátor az üzemeltetési
+költségek csökkentése; közvetett vagy közvetlen módon a Külgazdasági és Külügyminisztérium vagyonkezelésébe
+tartozó ingatlanok kapcsán a rezsi költségek finanszírozása vonatkozásában az államháztartásra nehezedő pénzügyi
+terhek mérséklődése. Egyértelmű elvárás az ilyen jellegű fejlesztéseknél az ingatlanok energiafelhasználásának
+visszaszorítása, felhasznált energiaforrások diverzifikálása, kapcsolódó technológiai fejlesztések bevezetése,
+valamint a beruházások során felhasznált fejlesztési források lehetőség szerinti középtávú megtérülése.
+XX. NUKLEÁRIS ENERGIATERMELÉS (PAKS II. BERUHÁZÁS)
+Elsődleges feladat, hogy a lehető legrövidebb idő alatt megépítsünk egy biztonságosan üzemeltethető
+atomerőművet, mely a következő évtized elején meg is kezdheti a termelést.
+Fontos mérföldkő, hogy 2023 augusztusában a Paks II. beruházás első, előkészítési szakasza lezárult, így
+az a második, a valós fizikai építkezés szakaszába lépett.
+A Paks II. beruházással összefüggésben kiemelten fontos szakpolitikai célok az alábbiak:
+– a létesítéshez szükséges lakhatási- és infrastrukturális feltételek biztosítása a Paks II. beruházás mielőbbi
+megvalósítása érdekében;
+– a közvetetten kapcsolódó térségfejlesztési, önkormányzati fejlesztési igények hosszú távon, fenntartható
+módon történő megvalósításának elősegítése, annak érdekében, hogy a kivitelezés – mely során átmenetileg
+több mint tízezer fővel nő a lakosságszám – időszakában, valamint azt követően is biztosított legyen
+a lakosság közszolgáltatásokkal való ellátása;
+– a Paks II. beruházáshoz közvetetten kapcsolódó infrastruktúra-fejlesztések megvalósítása;
+– helyi kulturális és közösségi-szabadidős-rekreációs célú fejlesztések koordinálása a társadalmi elfogadottság
+növelése érdekében;
+– a fenti feladatokkal összefüggésben gyors, gazdaságos és hatékony építési beruházások megvalósítása.
+XXI. HUMANITÁRIUS SEGÍTSÉGNYÚJTÁS (HUNGARY HELPS PROGRAM), NEMZETKÖZI FEJLESZTÉS
+A magyar külpolitika elsődleges feladata a kedvező külső feltételek megteremtése Magyarország társadalmi
+és gazdasági fejlődéséhez. A kétoldalú kapcsolatok fejlesztéséhez, hazánk nemzetközi közösségben való
+szerepvállalásának növeléséhez, a nemzetközi közösség felé való elkötelezettség bizonyításának és szolidaritásának
+megjelenítéséhez elengedhetetlen szakpolitikai eszköz a humanitárius segítségnyújtás és a nemzetközi
+fejlesztéspolitika.
+
+A 2035-ig tartó időszakban társadalmilag és gazdaságilag is kiemelt fontosságú marad, hogy Magyarország
+teherbíró képességének figyelembe vételével hozzájáruljon a természeti és civilizációs katasztrófák okán szükséges
+helyreállítási munkálatokhoz, valamint nemzetközi fejlesztési programokon keresztül szorosabbra fűzze bilaterális
+kapcsolatait, egyben elősegítse a magyar tudástranszfer erősítését és magyar vállalatok külpiacra jutását.
+A humanitárius és fejlesztési programok meghatározásánál kiemelt prioritás, hogy a megvalósuló projektek
+alkalmasak legyenek a nehéz helyzetben lévő közösségek számára hatékony segítség nyújtására, amelyek sok
+esetben infrastrukturális beruházásokban öltenek testet.
+Magyarország a fejlett világ donorközösségének tagjaként a nemzetközi béke és biztonság, valamint
+a kiegyensúlyozott növekedés érdekében támogatást nyújt a fejlődő világgazdasági felzárkóztatásához, az alapvető
+emberi jogok tiszteletére épülő demokratikus berendezkedés megteremtéséhez és megszilárdításához, nem
+utolsósorban pedig a globális szegénység elleni küzdelemhez. A hazai nemzetközi fejlesztési együttműködés
+és humanitárius segítségnyújtás célja a harmadik országok instabillá válásának megelőzése, így a fentieken
+túl a nemzetközi stabilitást, békét, biztonságot, demokratikus berendezkedést erősítő intézményi és humán
+kapacitások fejlesztése, a társadalmi egyenlőtlenségek csökkentése, a túlnépesedés, a környezetszennyezés és
+a klímaváltozás negatív hatásaival szembeni ellenállóképesség erősítése, valamint a fenntartható fejlődési modellek
+meghonosítása.
+Az elmúlt években végbement világpolitikai változások globális környezeti, társadalmi, biztonsági és gazdasági
+hatásai ugyanakkor hazánkat is érdemben érintik. Ennek okán szükségessé vált, hogy Magyarország a korábbiaknál
+is hangsúlyosabban vegye ki részét a nemzetközi közösség kihívásainak leküzdésében, mindezt pedig úgy tegye,
+hogy az egyaránt szolgálja mind a partnerország szükségleteit, mind pedig a saját nemzeti érdekeit.
+A projektek hatékonysága és a szinergiák kihasználása szempontjából elengedhetetlen, hogy a bilaterális fejlesztési
+programok összhangban álljanak a kapcsolódó kormányzati célkitűzésekkel, így különösen az Afrika Stratégia és
+a Nemzeti Exportstratégia által kijelölt prioritásokkal, célrégiókkal és szektorokkal. A hatékonyság, eredményesség,
+valamint a magyar humanitárius és fejlesztéspolitikai tevékenység láthatóságának növelése érdekében szakpolitikai
+célkitűzés, hogy koncentráltabb területi és szektorális fókusz mentén kerüljenek meghatározásra és megvalósításra
+a projektek, programok. Magyarország az eddigieknél nagyobb hangsúlyt fektet az afrikai kontinens – így különösen
+a szubszaharai Afrika és az LDC országok – felzárkóztatására, valamint a Közel-Kelet szükségleteire. Fontos azonban,
+hogy míg Afrika felzárkóztatására nagyobb hangsúlyt helyezünk, az európai szomszédságpolitikához, illetve a Keleti
+Partnerséghez kapcsolódó prioritások továbbra is kiemelt jelentőséggel bírnak, összhangban Magyarország
+általános külpolitikai érdekeivel.
+A humanitárius segítségnyújtás és nemzetközi fejlesztési programok sajátossága, hogy azok felmerülése elsősorban
+természeti vagy civilizációs katasztrófákhoz, megváltozott geopolitikai viszonyokhoz igazodik. A sikeres és
+hatékony humanitárius és nemzetközi fejlesztéspolitika ismérve, hogy megfelelően rugalmasan, gyorsan és
+hatékonyan tud reagálni a felmerülő válsághelyzetekre és képes rövid időn belül mobilizálni rendelkezésre álló
+erőforrásait valamint újakat bevonni. A projektek meghatározása és jóváhagyása tekintetében elsőbbséget élveznek
+az azonnali, emberélet megmentéséhez kapcsolódó, humanitárius katasztrófát elhárító intézkedések, melyek között
+jelentős hányadot képviselnek az építési beruházási elemeket is tartalmazó projektek (menekülttábor építése,
+állagmegóvás, kritikus infrastruktúra helyreállítás). Tekintettel arra, hogy ezek a beruházások minden esetben
+katasztrófahelyzetekhez kapcsolódnak, egyáltalán nem tervezhetők.
+A beruházási elemet tartalmazó projektek második kategóriáját képezik azok, amelyek civilizációs válsághoz
+kapcsolódnak, mint például a háborúk, világjárványok. Ezen beruházások esetében a tervezhetőség szintén limitált,
+hiszen alapvetően a világpolitikai folyamatok, illetve külkapcsolataink aktuális dinamikája alakítja.
+Humanitárius segítségnyújtás, Hungary Helps Program
+Magyarország szolidaritását fejezi ki azon közösségek iránt, amelyek humanitárius válsággal vagy az emberi élet
+alapvető feltételeit fenyegető egyéb helyzetekkel néznek szembe, és az emberiesség jegyében elkötelezett a fenti
+közösségek megsegítésében. Magyarország a nemzetközi közösség tagjaként elkötelezett a globális kihívások
+kezelése, a béke és biztonság megteremtése és fenntartása, valamint a fenntartható gazdasági fejlődés biztosítása
+iránt. Magyarországnak a magyar emberek biztonságának védelmében hozzá kell járulnia továbbá az Európára
+nehezedő migrációs nyomás csökkentéséhez és megelőzéséhez.
+
+Szem előtt tartva a fenntartható fejlődés, a fejlesztési együttműködés és a béketeremtés, valamint a konfliktus-
+megelőzés, illetve a humanitárius segítségnyújtás közötti kapcsolatokat, Magyarország kiemelt prioritásként kezeli
+a fejlődő országokkal való együttműködést, valamint a veszélyeztetett közösségek közvetlen és helyben történő
+támogatását, amely hozzájárul a konfliktusok kiváltó okainak kezeléséhez, továbbá a jövőbeli válságokkal szembeni
+ellenálló-képességének növeléséhez és a stabilitás erősítéséhez, ezzel segítve a veszélyeztetett közösségek helyben
+maradását, illetve szülőföldükre való visszatérését.
+Tekintettel arra, hogy mind a szükséget szenvedő közösségek helyben tartása, mind a természeti vagy civilizációs
+katasztrófák utáni helyreállítás kiemelt célja az eleve hiányzó vagy elpusztult alapvető infrastruktúra megteremtése,
+helyreállítása, a humanitárius célú programok között is szükségszerűen szerepelnek építési beruházásokat
+tartalmazó elemek.
+A Hungary Helps Program célja az ország teherbíró képességének figyelembevételével Magyarország nemzetközi
+fejlesztési együttműködéseinek, nemzetközi humanitárius segítségnyújtási tevékenységének, valamint
+a veszélyeztetett közösségek stabilitását erősítő tevékenységének egységes keretbe foglalása és koordinált
+megvalósítása, törekedve a fenti tevékenységek egymást kiegészítő és erősítő végrehajtására.
+Nemzetközi fejlesztés
+A Kormány 2020 és 2025 közötti Nemzetközi Fejlesztési Együttműködési Stratégiája alapján Magyarország
+nemzetközi fejlesztéspolitikája a nemzetközi szolidaritásra és a kedvezményezettek igényei, szükségletei szerint
+a helyben történő hatékony segítségnyújtásra épít.
+A migrációs kihívások felerősödésével a nemzetközi fejlesztési együttműködés Magyarország egyik kiemelt
+külkapcsolati eszközévé vált, miután az érdemben és kiemelt módon járulhat hozzá a fenntartható fejlődéshez,
+valamint az elvándorlást kiváltó egyéb okok helyben történő kezeléséhez. A fejlesztéspolitika mindezen túl
+jelentősen kihat a donor ország gazdaságára, valamint hatékony eszközként szolgál az országok közötti gazdasági
+partnerségek kialakításában. Ennek okán – összhangban az ENSZ Agenda 2030-cal és az addisz-abebai cselekvési
+programmal – arra szükséges törekedni, hogy a jövőben olyan magyar fejlesztési programok megvalósítására
+kerüljön sor, amelyek nem csupán a fejlődő világ felzárkóztatását támogatják, hanem a magánszektor bevonása
+révén a külgazdasági érdekek érvényesítését, így a magyar szereplők külföldi piacokon történő térnyerését,
+mozgósítását is elősegítik.
+A stratégia alapján Magyarországnak olyan nemzetközi fejlesztéspolitikát kell követnie, amely a helyi szükségletekre
+és a magyar komparatív előnyökre alapozva járul hozzá a fejleszteni kívánt régiók gazdasági és társadalmi
+felemelkedéséhez, továbbá hatékonyabban juttatja érvényre a hazai gazdasági érdekeket is. Ebben a kontextusban
+kiemelt szerep jut az építési beruházásoknak, amelyek egyszerre szolgálják a helyi közösségek érdekeinek
+érvényesítését és képesek bemutatni a magyar szakértelmet és piaci szereplők lehetséges hozzáadott értékét
+a fejlesztési projektek tekintetében, segítve a későbbi piacra jutásukat.
+XXII. POLGÁRI NEMZETBIZTONSÁGI SZOLGÁLATOK
+A polgári nemzetbiztonsági ágazatba tartozó szervezetek az Információs Hivatal, az Alkotmányvédelmi
+Hivatal, a Nemzetbiztonsági Szakszolgálat és a Nemzeti Információs Központ (a továbbiakban együtt: polgári
+nemzetbiztonsági szolgálatok), amelyek a Kormány irányítása alatt álló, az ország egész területére kiterjedő
+illetékességgel rendelkező, önálló gazdálkodást folytató költségvetési szervek.
+Az új épületek, illetve építmények kivitelezése közvetett módon hozzájárul a tapasztalattal rendelkező humán
+hírszerző erő fenntartásához. A felújítások, korszerűsítések eredményeként megvalósul az épületek üzembiztos és
+energiahatékony működtetése, ezáltal megtakarítások elérése és a megfelelő munkavégzési feltételek biztosítása.
+Információs Hivatal
+Az Információs Hivatal feladatainak végrehajtása érdekében két új, többcélú irodaépület kivitelezése
+szükséges. Az épületek sajátos kialakítása, tervezett funkciói hozzájárulnak az Információs Hivatal feladatainak
+eredményes, gyors, és hatékony végrehajtásához. A megvalósítandó építési beruházás során kiemelt szerepet
+
+kap a környezetvédelmi követelmények érvényre juttatása, valamint felhasználói oldalon a karbonsemleges
+üzemeltetés elérése. Ennek keretében megújuló energiaforrások telepítésével és magas működési hatékonyságú
+épület-technikai berendezésekkel kell számolni, a fenti indokokon túl így biztosítva az állami vagyon hosszú távú
+gazdaságos alkalmazhatóságát és értékállóságát.
+Alkotmányvédelmi Hivatal
+Az építési beruházások megvalósulásával megtörténik az objektumoknak a minősített adat védelméről szóló
+2009. évi CLV. törvény előírásainak történő megfeleltetése, továbbá az építőmesteri, gépészeti és erősáramú
+felújításokon túlmenően az IT és biztonságtechnikai modernizáció. A korszerűtlen és gazdaságtalanul
+rekonstruálható épületek, építmények új épületekkel kerülnek kiváltásra. Az alternatív energiaforrások integrálása
+az objektumok energiafogyasztásának csökkenését, az energiahatékony működéssel gazdasági megtakarítás
+elérését eredményezi.
+Nemzetbiztonsági Szakszolgálat
+Az épületek ütemezett felújítása és rendszereinek, berendezéseinek tervszerű cseréje különösen fontos a szolgáltató
+tevékenységet folytató Nemzetbiztonsági Szakszolgálat esetében, ahol a titkos információgyűjtés technikai
+hátterének üzembiztos működtetéséhez alapfeltétel az épületek villamossági, biztonságtechnikai, épületgépészeti
+és épületfelügyeleti rendszereinek folyamatos fejlesztése, amortizációs cseréje. A rendvédelmi és nemzetbiztonsági
+tevékenység hatékony támogatásához elengedhetetlen az információgyűjtő rendszerek, információszerző
+módszerek folyamatos fejlesztése, amelynek azonban előfeltétele, hogy a Nemzetbiztonsági Szakszolgálat ezek
+működtetésére alkalmas, jó műszaki állapotú, és a szükséges infrastruktúrával rendelkező épületekben végezze
+tevékenységét. Az új épületek és építmények kialakítása, illetve a meglévők felújítása, korszerűsítése a műveleti
+technikai rendszerek és eszközök magas rendelkezésre állású működési feltételeit biztosítja.
+Nemzeti Információs Központ
+A Nemzeti Információs Központ jogszabályban meghatározott új feladatainak elvárt szakmai szinten történő
+végrehajtása megköveteli a humán és infrastrukturális erőforrások bővítését és a meglévő képességekkel együtt
+történő, integrált alkalmazását. A bővülő és az új tevékenységek egyrészt a humánerőforrás létszámának növelését
+igénylik, mely megnövekedett létszám munkafeltételeinek, elhelyezésének kialakítása szükséges. Másrészt az új
+tevékenységek elhelyezésének terület igénye is nagyobb, mint a korábbi tevékenységek esetén.
+A legmagasabb biztonsági követelmények mellett működő államigazgatási szervek vonatkozásában az önálló
+és minden tekintetben független, egy és oszthatatlan objektumban történő elhelyezés garantálja a biztonsági
+kritériumok maradéktalan teljesülését. A Nemzeti Információs Központ jelenleg több – nem saját kezelésében
+álló – objektumban látja el törvényben meghatározott feladatait, ami jelentős erőforrásokat köt le a nem optimális
+körülményekből adódó információ- és személybiztonsági kockázatok lehető legszélesebb körű elhárítása okán.
+A Nemzeti Információs Központ feladatellátásához szükséges elhelyezési célok megvalósítása érdekében
+egy központi épület létesítésére irányuló beruházás megvalósítása szükséges 2026 februárjáig.
+XXIII. IPAR
+Ipar 4.0 Technológiai Kompetencia Központ
+A projekt célja komplex ipari digitalizációs fejlesztési program részeként tanulógyár létrehozása és okos ipari
+beruházások megvalósítása, ezáltal a mikro-, kis- és középvállalkozások termelékenységének növelése a gyártás
+és a kapcsolódó ágazatok területén, új kulcstechnológiákon – különösen mesterséges intelligencián – alapuló
+megoldások alkalmazásával.
+Az okos ipari park különösen (de nem kizárólag) az alábbi elemekben valósulhat meg: ingatlanüzemeltetés,
+energiaellátás, közüzem, úthálózat és e-mobilitás, zöldterületek, telekommunikációs hálózat, őrzésvédelem,
+beléptetés; legkorszerűbb technológia szerinti, okos megoldásokon alapuló tervezése (BIM), fejlesztése és
+üzemeltetése.
+
+A végrehajtott fejlesztésekkel javul a végső kedvezményezetteknek nyújtott szolgáltatások minősége, csökken
+a fajlagos erőforrás-felhasználás, és javul a szolgáltatások tervezhetősége.
+Az okosi ipari és technológiai park(ok) emelt szintű, megosztott szolgáltatásokat nyújt(anak) az ott működő,
+valamint az adott ipari park vonzáskörzetében működő vállalkozásoknak különösen az alábbi területeken:
+hulladékkezelés és-gazdálkodás (beleértve folyamatok); raktározás és logisztika (beleértve folyamatok); bérelhető
+iroda és tárgyalóhelyiségek; irodai szolgáltatások, szálláshely szolgáltatások.
+Innovációs ökoszisztéma kiépítése a ZalaZONE bázisán
+Kormányzati törekvés, hogy a járművek validációs-tesztelési lehetőségeit biztosító fejlesztési, illetve a hazai
+szereplők és partnereik magas színvonalú kutatási projektjeit támogató infrastruktúrát hoz létre.
+A pálya és a köré épülő gazdasági-innovációs ökoszisztéma az építés megkezdésétől a jelenkori állapotáig
+kevesebb, mint 5 évet vett igénybe. A zalaegerszegi innovációs ökoszisztéma fejlesztése a tervezett célkitűzéseknek
+megfelelően és megfelelő ütemben halad. A jövőbeni fejlesztendő területek irányai:
+– új diszciplínaként megjelenik a jármű energetika, amely több területet foglal magában:
+a) részben a pálya alkalmassá tételét a járművek (akár ember, akár MI irányított) energetikai viszonyok
+vizsgálatára,
+b) valamint pilot projekteken keresztül energia ellátási és tárolási lehetőségek fejlesztésére,
+c) illetve egyes komponensek, jelen pillanatban az akkumulátor jóváhagyási feladatainak ellátására,
+– a pályát és a környezetét alkalmassá kell tenni a hálózatba kapcsolt rendszerek vizsgálatára és fejlesztésére,
+amely magában foglalja:
+a) repülő UAV-k teszt és oktatási környezetének a kialakítását,
+b) pálya alkalmassá tételét részben az infrastruktúrával történő, részben az eszközök egymás közötti
+kommunikációján alapuló, felhő alapú irányítási rendszereinek fejlesztésére.
+XXIV. ÁLLAMI VAGYON
+Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság
+Az állami feladatok ellátásához nem szükséges vagyonelemek kivezetése a legfőbb cél az ésszerű
+vagyongazdálkodás, költségtakarékos működés – őrzés-védelem, fenntartás, karbantartás, tárolás, gondnokolás
+költségeinek csökkentése – érdekében.
+A Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság (a továbbiakban: MNV Zrt.) portfóliójában
+közel 700 műemléki ingatlan, köztük kiemelt turisztikai attrakciók, kastélyok, várak, tájházak, illetőleg világörökségi
+helyszíneken elhelyezkedő középületek és lakóházak, állami szervezetek elhelyezését szolgáló ingatlanok találhatók,
+amelyek állagmegóvási feladataira, a nemzeti (állami) vagyon megőrzésére, a transzparens és felelős gazdálkodás
+követelményeinek megfelelő hasznosítására, költséghatékony üzemeltetés előmozdítására, energiahatékonyság
+növelésére az MNV Zrt. kiemelt figyelmet fordít. Stratégiai célú vagyonként ezen ingatlanok felújításával,
+rekonstrukciójával, állagmegóvási, állagvédelmi feladataival lehetőségeihez mérten minden évben tervez.
+Egyebekben a magyar állam tulajdonában és az MNV Zrt. közvetlen kezelésében álló ingatlanokkal – amelyekben
+állami szervezetek kerülnek elhelyezésre – összefüggésben kiemelt cél azok állagának megóvása, javítása,
+energiahatékonyságának növelése, racionalizálása is.
+Az MNV Zrt. vagyonkezelésében álló ingatlanokon, épületeken folyamatos feladat az állagmegóvást célzó
+karbantartási, javítási, felújítási munkák elvégzése, azonban a gondnokolt ingatlanok állománya és összetétele
+a vagyonkezelés státuszának változása nyomán állandó változást mutat. Határozott cél, hogy állami szervek
+elhelyezése elsősorban állami tulajdonú ingatlanokban valósuljon meg, ez az arányszám minél közelebb kerüljön
+a 100%-hoz.
+
+A Magyar Közlönyt az Igazságügyi Minisztérium szerkeszti.
+A szerkesztésért felelős: dr. Bíró Attila.
+A szerkesztőség címe: 1051 Budapest, Nádor utca 22.
+A Magyar Közlöny hiteles tartalma elektronikus dokumentumként a https://www.magyarkozlony.hu honlapon érhető el.
+Közbeszerzési és Ellátási Főigazgatóság
+A kormányzat központi logisztikai szerveként a Közbeszerzési és Ellátási Főigazgatóság (a továbbiakban: KEF)
+biztosítja a minisztériumok, valamint a Kormány irányítása vagy felügyelete alá tartozó, meghatározott más
+költségvetési és egyéb szervek, önként csatlakozó intézmények, valamint az Országos Kórházi Főigazgatóság
+fenntartásában lévő valamennyi kórház részére a működéshez szükséges munkakörnyezetet. Ennek keretében
+gondoskodik többek között az ellátott szervezetek elhelyezésére szolgáló, használatában lévő ingatlanok és
+az intézményi működéshez szükséges gépjárművek üzemeltetéséről.
+A KEF beruházási tevékenysége a kiszolgáló tevékenységéhez kapcsolódó elhelyezési igényre, tárolásra ad
+megoldást.
