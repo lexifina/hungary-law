@@ -35,21 +35,3 @@
 ## (fr) «Invitation à produire une créance. Délais à respecter»
 
 ## (it) «Invito alľinsinuazione di un cedito. Termine da osservare»
-
-## (lv) «Uzaicinājums iesniegt prasïjumu. Termini, kas jāievēro»
-
-## (It) «Kvietimas pateikti reikalavimą. Privalomieji terminai»
-
-## (hu) «Felhívás követelés bejelentésére. Betartandó határidők»
-
-## (mt) «Stedina għal preżentazzjoni ta’ talba. Limiti taż-żmien li għandhom jiġu osservati»
-
-## (nl) «Oproep tot indiening van schuldvorderingen. In acht te nemen termijnen»
-
-## (pl) «Wezwanie do zgłoszenia wierzytelności. Przestrzegać terminów»
-
-## (pt) «Aviso de reclamação de créditos. Prazos legais a observar»
-
-## (ro) «Invitaţie de a prezenta o creanţă; termene ce trebuie respectate»
-
-## (sk) «Výzva na prihlásenie pohľadávky. Je potrebné dodržať stanovené termíny»
