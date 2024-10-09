@@ -1,6 +1,6 @@
 1. A Kormány
 
-a) a termőföld védelméről szóló 2007. évi CXXIX. törvény 11. § (2) és (3) bekezdésében foglaltakra, valamint az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény végrehajtásáról szóló 109/1999. (XII. 29.) FVM rendelet 62/A. § a) pontjában foglaltakra figyelemmel – a beruházási célterületre történő művelési ág változás átvezetése céljából – beruházási célterületté nyilvánítja a Sátoraljaújhely város közigazgatási területén fekvő, az ingatlan-nyilvántartás szerint Sátoraljaújhely zártkert 10975/1, 10975/2, 10977, 10985/10, 10985/11, 10985/12, 10985/14, 10985/15, 10985/17, 10985/18, 10985/30, 10985/31, 10985/32 és 10986 helyrajzi számú ingatlanokat, valamint az ezen ingatlanokból a telekalakítási eljárásban hozott döntés véglegessé válását követően kialakított ingatlanokat;
+a)[^1] a termőföld védelméről szóló 2007. évi CXXIX. törvény 11. § (2) és (3) bekezdésében foglaltakra, valamint az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény végrehajtásáról szóló 109/1999. (XII. 29.) FVM rendelet 62/A. § a) pontjában foglaltakra figyelemmel – a beruházási célterületre történő művelési ág változás átvezetése céljából – beruházási célterületté nyilvánítja a Sátoraljaújhely város közigazgatási területén fekvő, az ingatlan-nyilvántartás szerint Sátoraljaújhely zártkert 10975/1, 10975/2, 10975/3, 10977, 10985/10, 10985/11, 10985/12, 10985/14, 10985/15, 10985/17, 10985/18, 10985/30, 10985/31, 10985/32 és 10986 helyrajzi számú ingatlanokat, valamint az ezen ingatlanokból a telekalakítási eljárásban hozott döntés véglegessé válását követően kialakított ingatlanokat;
 
 b) e kormányhatározatot részlegesen vagy teljesen visszavonja, ha
 
@@ -10,6 +10,7 @@ bb) a kormányhatározat alapján kiadott végleges más célú hasznosítás t�
 
 bc) az ingatlan művelési ága tekintetében a beruházás rendeltetésének megfelelő kivett megnevezés az ingatlan-nyilvántartásban átvezetésre került, de a megvalósítást követően fennmaradnak olyan ingatlanok, amelyekre a beruházáshoz mégsem volt szükség, és természetbeni állapotuk alapján termőföldnek minősülnek.
 
-2.[^1]
+2.[^2]
 
-[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont a) alpontja az 1307/2024. (X. 9.) Korm. határozat szerint módosított szöveg.
+[^2]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
