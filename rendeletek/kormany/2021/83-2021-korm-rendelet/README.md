@@ -70,3 +70,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-83-20-2
 | 2024-07-01 | 2021-83-20-22.62 | 161/2024. (VI. 28.) Korm. rendelet |
 | 2024-08-01 | 2021-83-20-22.63 | 228/2024. (VII. 31.) Korm. rendelet |
 | 2024-10-01 | 2021-83-20-22.64 | 257/2024. (VIII. 29.) Korm. rendelet |
+| 2024-10-10 | 2021-83-20-22.65 | 108/2024. (V. 9.) Korm. rendelet |
