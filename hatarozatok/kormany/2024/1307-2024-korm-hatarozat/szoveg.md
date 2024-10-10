@@ -1,1 +1,0 @@
-A Sátoraljaújhely város közigazgatási területén fekvő földrészletek beruházási célterületté nyilvánításáról szóló 1133/2024. (V. 9.) Korm. határozat 1. pont a) alpontjában a „10975/2” szövegrész helyébe a „10975/2, 10975/3” szöveg lép.
