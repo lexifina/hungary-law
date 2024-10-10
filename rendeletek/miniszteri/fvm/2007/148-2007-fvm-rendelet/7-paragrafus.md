@@ -18,7 +18,7 @@
 
 (2f)[^83] A 2024. évben rendelkezésre álló keret összege 11 900 millió forint, amelyből 2400 millió forintot a baromfi ágazatban, 8100 millió forintot az egyéb állattenyésztési ágazatban, 1400 millió forintot a vemhes üszők állat-egészségügyi szolgáltatására, gyógykezelésére és immunizálására kell felhasználni, azzal, hogy a C001 technikai kódú állat-egészségügyi szolgáltatások vonatkozásában legfeljebb 5500 millió forint fizethető ki. A C001 technikai kódú állat-egészségügyi szolgáltatásokra rendelkezésre álló támogatási keret kimerülése esetén a baromfi, az egyéb állattenyésztési ágazatra vagy a vemhes üszőkre megállapított szabad támogatási keret terhére támogatási összeg nem csoportosítható át. Ha a baromfi ágazatban vagy az egyéb állattenyésztési ágazatban megállapított támogatás mértéke meghaladja az adott ágazatra a 2024. évben rendelkezésre álló keretből felhasználható összeget, akkor a 2024. évben elvégzett szolgáltatásokra vonatkozóan benyújtott támogatási kérelmekben foglalt jogos igények az e bekezdésben meghatározott más ágazatokban felhasználható keretek terhére is teljesíthetőek.
 
-(2g)[^84] A (2f) bekezdésben foglaltakon túl a C002 technikai kódú állat-egészségügyi szolgáltatások vonatkozásában legfeljebb 600 millió forint használható fel.
+(2g)[^84] A (2f) bekezdésben foglaltakon túl a C002 technikai kódú állat-egészségügyi szolgáltatások vonatkozásában legfeljebb 535 millió forint használható fel.
 
 (2h)[^85] A (2f) és (2g) bekezdés szerinti keretösszegek terhére a 2024. évben elvégzett szolgáltatásokra benyújtott támogatási kérelmekben foglalt jogos igények teljesíthetőek.
 
@@ -33,5 +33,5 @@
 [^81]: A 7. § (2d) bekezdését a 159/2022. (XII. 27.) AM rendelet 5. §-a iktatta be.
 [^82]: A 7. § (2e) bekezdését a 159/2022. (XII. 27.) AM rendelet 5. §-a iktatta be.
 [^83]: A 7. § (2f) bekezdését a 11/2024. (III. 25.) AM rendelet 1. §-a iktatta be.
-[^84]: A 7. § (2g) bekezdését a 11/2024. (III. 25.) AM rendelet 1. §-a iktatta be.
+[^84]: A 7. § (2g) bekezdését a 11/2024. (III. 25.) AM rendelet 1. §-a iktatta be, szövege az 51/2024. (X. 9.) AM rendelet 9. §-a szerint módosított szöveg.
 [^85]: A 7. § (2h) bekezdését a 11/2024. (III. 25.) AM rendelet 1. §-a iktatta be.
