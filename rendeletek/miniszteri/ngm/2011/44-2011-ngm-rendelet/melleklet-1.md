@@ -1,4 +1,4 @@
-1. melléklet a 44/2011. (XII. 16.) NGM rendelethez[^3]
+1. melléklet a 44/2011. (XII. 16.) NGM rendelethez[^8]
 
 A rendelet 3. § (2) bekezdésében meghatározott munkadíj mértéket a következő FEOR számú munkakörök esetén kell alkalmazni:
 
@@ -20,4 +20,4 @@ A rendelet 3. § (2) bekezdésében meghatározott munkadíj mértéket a követ
 
 2232 Szülész(nő) (felsőfokú képzettséghez kapcsolódó)
 
-[^3]: Az 1. melléklet a 10/2019. (IX. 4.) PM rendelet 21. §-a szerint módosított szöveg.
+[^8]: Az 1. melléklet a 10/2019. (IX. 4.) PM rendelet 21. §-a szerint módosított szöveg.

@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-44-20-2
 | 2011-12-17 | 2011-44-20-2X.1 | 44/2011. (XII. 16.) NGM rendelet |
 | 2011-12-18 | 2011-44-20-2X.2 | 2010: CXXX. törvény |
 | 2019-09-12 | 2011-44-20-2X.3 | 10/2019. (IX. 4.) PM rendelet |
+| 2024-10-10 | 2011-44-20-2X.4 | 38/2024. (X. 9.) NGM rendelet |

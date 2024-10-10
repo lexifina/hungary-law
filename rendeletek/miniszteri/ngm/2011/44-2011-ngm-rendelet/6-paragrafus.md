@@ -1,1 +1,3 @@
-## 5. § E rendelet 1–4. §-a, valamint 8. §-a a harmadik országbeli állampolgárok magas képzettséget igénylő munkavállalás céljából való belépésének és tartózkodásának feltételeiről szóló 2009. május 25-i 2009/50/EK tanácsi irányelvnek való megfelelést szolgálja.
+6. §[^4]
+
+[^4]: A 6–8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
