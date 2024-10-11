@@ -1,3 +1,3 @@
-1. § Az állami hulladékgazdálkodási közfeladatot ellátó koncessziós társaság, a koncesszori alvállalkozók és az önkormányzatok indokolt költségeinek meghatározására és szabályozására, valamint az állami hulladékgazdálkodási közfeladat ellátásáért szedhető díjakkal kapcsolatos díjjavaslat elkészítésére vonatkozó alapelvekről és keretszabályokról szóló 16/2022. (XII. 21.) MEKH rendelet [a továbbiakban: 16/2022. (XII. 21.) MEKH rendelet] 13. § (3) bekezdés b) pontja helyébe a következő rendelkezés lép:
+1. §[^2]
 
-[A Hivatal az (1) bekezdés szerinti indokolt költség meghatározása érdekében végzett vizsgálat során különösen az alábbiakat veszi figyelembe:]
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
