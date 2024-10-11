@@ -1,8 +1,6 @@
-## 4. § Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
-
 1. melléklet a 129/2011. (XII. 21.) VM rendelethez
 
-## A Tétényi-fennsík természetvédelmi terület természetvédelmi kezelési terve
+A Tétényi-fennsík természetvédelmi terület természetvédelmi kezelési terve
 
 1. Természetvédelmi célkitűzések
 
@@ -22,7 +20,7 @@
 
 2.2. Az idegenhonos fa- és cserjefajok állományainak visszaszorítása.
 
-2.3. A terület határain és a nagyobb átvezető utak mentén fás növényzet kialakulásának elősegítése.
+2.3.[^3]
 
 2.4. A leromlott gyepekben a terület természetes növényzetére jellemző, ritkább fajok megtelepedésének elősegítése kaszálással, legeltetéssel.
 
@@ -42,7 +40,7 @@
 
 3.1.1. Élőhelyek kezelése, fenntartása
 
-a) A természetközeli gyep, cserjés területeken a meglévő és megjelenő invazív fásszárú növényfajok, különösen a bálványfa (Ailanthus altissima), a keskenylevelű ezüstfa (Eleagnus angustifolia), a fehér akác (Robinia pseudoacacia) egyedeit maghozó állapotuk előtt el kell távolítani mechanikai úton, vagy speciális, csepegésmentes növényvédőszer kijuttatással.
+a)[^4] A természetközeli gyep, cserjés területeken a meglévő és megjelenő invazív fásszárú növényfajok, különösen a bálványfa (Ailanthus altissima), a keskenylevelű ezüstfa (Elaeagnus angustifolia), a fehér akác (Robinia pseudoacacia) egyedeit maghozó állapotuk előtt el kell távolítani mechanikai úton, vagy speciális, csepegésmentes növényvédőszer kijuttatással.
 
 b) A cserjéseket a Duna-Ipoly Nemzeti Park Igazgatóság (a továbbiakban: igazgatóság) által meghatározott mértékben és területi kiterjedésben vissza kell alakítani gyeppé, a megmaradó területeken a természetes folyamatokon alapuló szukcesszió lehetőségét kell biztosítani.
 
@@ -74,30 +72,50 @@ b) A területre betelepített növénypopulációk állapotát folyamatosan figy
 
 c) A természetvédelmi kezelés hatékonyságának ellenőrzésére rendszeresen vizsgálni és dokumentálni kell a növényzet változását és egyes, az igazgatóság által meghatározott védett növény- és állatfajok, valamint az invazív növényfajok elterjedését, állományméretét.
 
-3.1.6. Terület- és földhasználat
+3.1.6.[^5] Terület- és földhasználat
 
-a) Gépjárművel közlekedni csak életveszély elhárítása, katonai, rendészeti tevékenység végzése, továbbá természetvédelmi kezelési célból lehetséges, ideértve a jogszerűen folytatott mezőgazdasági tevékenységhez szükséges közlekedést.
+a) Átmenő gépjárműforgalom céljára − a Törökbálint 0152/217 hrsz.-ú ingatlanon kiépített és használatra átadott közút kivételével − csak életveszély elhárítása és katonai, rendészeti tevékenység érdekében vehető igénybe a terület.
 
-b) A terület ipari és bányászati céllal nem hasznosítható.
+b) A területen − a Törökbálint 0152/217 hrsz.-ú ingatlan kivételével − gépjárműves célforgalom kizárólag az a) alpontban megnevezett tevékenységekre, továbbá természetvédelmi kezelésre és jogszerű mezőgazdasági tevékenységre irányulhat.
 
-c) A földutak szilárd burkolattal való borítása vagy szélesítése tilos.
+c) Közlekedési infrastruktúra – szilárd burkolattal ellátott közút − és annak működtetéséhez, fenntartásához szükséges létesítmények [beleértve az f) alpont szerinti létesítményeket is] kialakítására, üzemeltetésére, fenntartására kizárólag a Törökbálint 0152/217 hrsz.-ú ingatlanon kerülhet sor.
 
-d) A területen új építmény létesítése tilos.
+d) A területen kizárólag a c) alpont szerinti közút éjszakai megvilágítása érdekében, a természeti értékeket nem veszélyeztető módon létesíthető közvilágítás. A c) alpont szerinti közútnak a Törökbálint 6045 hrsz.-ú ingatlantól a Törökbálint 6062 hrsz.-ú ingatlanig terjedő, a Pistály elnevezésű, kertes mezőgazdasági övezetbe sorolt, lakásokat, lakó rendeltetésű épületeket is magában foglaló településrésszel határos szakaszán kívül kizárólag az útügyi és közlekedésbiztonsági szabályozásban kötelezően előírt feltételek minimális szintjének való megfelelés biztosítása érdekében létesíthető közvilágítás.
 
-e) A meglévő építmények felújítása csak a természeti és táji értékek veszélyeztetése, károsítása nélkül végezhető el.
+e) Közvilágítás létesítése, üzemeltetése, karbantartása során teljesen ernyőzött, lapos búrájú, a földfelszínnel párhuzamos síkban rögzített lámpatesteket kell alkalmazni. A fényforrások színhőmérséklete nem lehet nagyobb 2700 K-nél. A tervezés és telepítés során törekedni kell a minél kisebb fénypontmagasságra.
 
-f) Tápanyag- és talajerő utánpótlás csak a legelő állatok elhullajtott ürülékével történhet.
+f) A Törökbálint 0152/217 hrsz.-ú ingatlanon lévő kiépített közút fenntartójának fizikai akadály (növényzet, illetve műtárgyak) telepítésével kell megakadályoznia az útról déli irányba történő lehajtást. A fizikai akadály létesítésekor egy helyen biztosítani kell a déli irányban történő lehajtás − sorompóval zárható – lehetőségét az a) és b) alpont szerinti tevékenységekhez szükséges gépjárműhasználathoz.
 
-g) A fás szárú invazív fajok egyedeinek eltávolítása során csepegésmentes technológiával kijuttatott gyomirtó vegyszerek használata és a zárlati károsítók elleni, jogszabályban előírt védekezés kivételével a területen tilos növényvédőszer használata.
+g) A terület ipari és bányászati céllal nem hasznosítható.
 
-h) A területen technikai sporttevékenységet folytatni tilos.
+h) Az ingatlan-nyilvántartásban önálló földrészletként nyilvántartott földút, valamint nem jogszerű gépjárműhasználat következtében kialakult nyomvonal szilárd burkolattal való borítása vagy szélesítése – a c) alpont kivételével − tilos.
 
-3.1.7. Természetvédelmi infrastruktúra
+i) Új építmény létesítésére – a c) alpont kivételével – kizárólag az 1. pontban meghatározott természetvédelmi célkitűzések elérését szolgáló természetvédelmi kezelés elősegítése érdekében kerülhet sor.
 
-Az 1. pontban meghatározott természetvédelmi célkitűzések megvalósítását szolgáló természetvédelmi infrastruktúra fejlesztése során csak természetes anyagokat lehet felhasználni.
+j) Építménynek nem minősülő műtárgyak, létesítmények kialakítására, elhelyezésére kizárólag az 1. pontban meghatározott természetvédelmi célkitűzések elérését szolgáló természetvédelmi kezelés elősegítése érdekében kerülhet sor.
 
-3.2. Művelési ághoz vagy földhasználati módhoz köthető természetvédelmi kezelési módok, korlátozások és tilalmak
+k) A meglévő építmények felújítása csak a természeti és táji értékek veszélyeztetése, károsítása nélkül végezhető el.
 
-Gyep (rét, legelő) művelési ágú területek kezelése
+l) Tápanyag- és talajerő-utánpótlás csak a legelő állatok elhullajtott ürülékével történhet.
 
-A gyepterületeket legeltetni csak juhval, 0,3 állategység/hektár állatlétszámmal, szakaszosan, az igazgatósággal egyeztetett módon lehet. Amennyiben a legeltetés nem lehetséges, úgy a gyepterületeket évente – az igazgatósággal egyeztetett – változó helyen, a gyepterület 10%-ának kaszálatlanul hagyása mellett mozaikosan lehet kaszálni vadkiszorító technikával, vadriasztó lánc használatával. A kaszálás legkorábbi kezdő időpontja július 1. A lekaszált növényanyagot le kell hordani a területről a kaszálást követő egy hónapon belül. Szükség esetén – az igazgatósággal egyeztetve – tisztító kaszálást kell végezni.
+m) A fás szárú invazív fajok egyedeinek eltávolítása során csepegésmentes technológiával kijuttatott gyomirtó vegyszerek használata és a zárlati károsítók elleni, jogszabályban előírt védekezés kivételével a területen tilos növényvédőszer használata.
+
+n) A területen technikai sporttevékenységet folytatni tilos.
+
+3.1.7.[^6]
+
+3.2.[^7] Művelési ághoz vagy földhasználati módhoz köthető természetvédelmi kezelési módok, korlátozások és tilalmak
+
+3.2.1. Gyep (rét, legelő) művelési ágú területek kezelése
+
+a) A gyepterületek juhval, kecskével és szamárral legeltethetők. Kecskével, szamárral történő legeltetésre kizárólag juhval vegyes nyájban kerülhet sor. A legeltetést legfeljebb 0,3 állategység/ha létszámmal, szakaszosan, az igazgatósággal egyeztetett helyen és időben kell végezni.
+
+b) Amennyiben legeltetésre nincs mód, a gyepterületek az igazgatósággal évente egyeztetett helyen és mértékben kaszálhatók. Gépi kaszálás során vadkiszorító technikát, vadriasztó láncot kell alkalmazni. A kaszálás legkorábbi kezdő időpontja július 1. A lekaszált növényanyagot le kell hordani a területről a kaszálást követő egy hónapon belül. Szükség esetén − az igazgatósággal egyeztetve − tisztító kaszálást kell végezni.
+
+c) Amennyiben a legeltetés vagy kaszálás az a) és b) alpontban meghatározott általános előírások betartása mellett az igazgatóság által egyeztetett helyen, időben és mértékben történik, elegendő annak az igazgatóságnál és a természetvédelmi hatóságnál történő előzetes bejelentése.
+
+[^3]: Az 1. melléklet 2.3. pontját az 50/2024. (X. 3.) AM rendelet 10. § a) pontja hatályon kívül helyezte.
+[^4]: Az 1. melléklet 3.1.1. pont a) alpontja az 50/2024. (X. 3.) AM rendelet 9. §-a szerint módosított szöveg.
+[^5]: Az 1. melléklet 3.1.6. pontja az 50/2024. (X. 3.) AM rendelet 7. §-ával megállapított szöveg.
+[^6]: Az 1. melléklet 3.1.7. pontját az 50/2024. (X. 3.) AM rendelet 10. § b) pontja hatályon kívül helyezte.
+[^7]: Az 1. melléklet 3.2. pontja az 50/2024. (X. 3.) AM rendelet 7. §-ával megállapított szöveg.
