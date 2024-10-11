@@ -1,1 +1,3 @@
-9. § Az egyes állatbetegségek megelőzésével, illetve leküzdésével kapcsolatos támogatások igénylésének és kifizetésének rendjéről szóló 148/2007. (XII. 8.) FVM rendelet 7. § (2g) bekezdésében a „600 millió forint” szövegrész helyébe az „535 millió forint” szöveg lép.
+9. §[^1]
+
+[^1]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
