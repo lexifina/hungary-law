@@ -1,5 +1,3 @@
-13. § Hatályát veszti
+13. §[^1]
 
-a) a Hungary Helps Programról szóló 244/2017. (VIII. 28.) Korm. rendelet,
-
-b) a Hungary Helps Program megjelenésének egységes formai követelményeiről, arculati elemeiről, valamint a Hungary Helps védjegy használatáról szóló 3/2017. (XI. 10.) MK rendelet.
+[^1]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
