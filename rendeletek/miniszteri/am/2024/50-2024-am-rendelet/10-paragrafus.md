@@ -1,5 +1,3 @@
-10. § Hatályát veszti az R.
+10. §[^6]
 
-a) 1. melléklet 2.3. pontja,
-
-b) 1. melléklet 3.1.7. pontja.
+[^6]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
