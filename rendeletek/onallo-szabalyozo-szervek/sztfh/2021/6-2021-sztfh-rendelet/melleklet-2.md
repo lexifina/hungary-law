@@ -1,4 +1,4 @@
-## Országosan: 227
+## Országosan: 226
 
 ## I.
 
@@ -340,7 +340,7 @@
 
 ## Zalaegerszegi Törvényszék
 
-| Keszthelyi Járásbíróság | 2 |
+| Keszthelyi Járásbíróság | 1 |
 
 | Lenti Járásbíróság | 1 |
 
@@ -348,9 +348,9 @@
 
 | Zalaegerszegi Járásbíróság | 3 |
 
-| Összesen: | 9 |
+| Összesen: | 8 |
 
-2. melléklet a 6/2021. (X. 29.) SZTFH rendelethez[^42]
+2. melléklet a 6/2021. (X. 29.) SZTFH rendelethez[^43]
 
 A bírósági végrehajtói állásra pályázók értékelésének szempontjai és az értékelés során adható pontok
 
@@ -422,4 +422,4 @@ A bírósági végrehajtói állásra pályázók értékelésének szempontjai 
 
 | 3. | egyéb szakirányú tudományos eredmény, oktatás, vizsgáztatás | 5 |  |
 
-[^42]: A 2. melléklet az 1/2022. (I. 14.) SZTFH rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^43]: A 2. melléklet az 1/2022. (I. 14.) SZTFH rendelet 6. § (1) bekezdésével megállapított szöveg.
