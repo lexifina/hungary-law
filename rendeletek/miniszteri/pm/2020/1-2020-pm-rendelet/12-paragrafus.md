@@ -26,7 +26,7 @@ e) képviselője vagy
 
 f) jogszabály vagy szerződés alapján tagja, munkatársa
 
-## ellen a bíróság jogerős marasztaló ítéletet hozott.
+ellen a bíróság jogerős marasztaló ítéletet hozott.
 
 (5) Az elismerés adományozásáról, visszavonásáról szóló miniszteri közleményt a minisztérium honlapján közzé kell tenni. A közlemény tartalmazza az elismerésben részesített nevét, az elismerés megnevezését, az elismerés adományozásának időpontját, az elismerés visszavonása esetén annak tényét és időpontját.
 

@@ -4,4 +4,6 @@
 
 (3) A Lónyay Díj a minisztériumnál, a minisztérium jogelődjénél vagy a miniszter irányítása vagy felügyelete alá tartozó szervnél legalább öt év foglalkoztatási jogviszonyban töltött idő után adományozható.
 
-(4) A Lónyay Díjjal járó pénzjutalom összege bruttó 700 000 forint. Az érem ezüstből készül, átmérője 42,5 mm, vastagsága 3 mm. Előlapján Lónyay Menyhért mellképe, felette a „LÓNYAY DÍJ” felirat, alatta „KIEMELKEDŐ SZAKMAI TEVÉKENYSÉGÉRT” felirat helyezkedik el. Hátoldalán Magyarország címere, felette „PÉNZÜGYMINISZTÉRIUM” felirat, alatta „MINISZTERI ELISMERÉS” felirat található.
+(4)[^4] A Lónyay Díjjal járó pénzjutalom összege bruttó 1 000 000 forint. Az érem ezüstből készül, átmérője 42,5 mm, vastagsága 3 mm. Előlapján Lónyay Menyhért mellképe, felette a „LÓNYAY DÍJ” felirat, alatta „KIEMELKEDŐ SZAKMAI TEVÉKENYSÉGÉRT” felirat helyezkedik el. Hátoldalán Magyarország címere, felette „PÉNZÜGYMINISZTÉRIUM” felirat, alatta „MINISZTERI ELISMERÉS” felirat található.
+
+[^4]: A 3. § (4) bekezdése a 3/2024. (X. 14.) PM rendelet 4. § b) pontja szerint módosított szöveg.

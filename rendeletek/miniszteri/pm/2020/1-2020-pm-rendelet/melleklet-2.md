@@ -1,5 +1,3 @@
-## Javaslat
-
 ## (természetes személy esetén)
 
 ## a PÉNZÜGYMINISZTERNEK

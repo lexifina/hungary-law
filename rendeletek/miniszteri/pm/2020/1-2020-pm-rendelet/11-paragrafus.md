@@ -1,1 +1,0 @@
-## 10. § Az elismerést ugyanaz a személy vagy szervezet 5 éven belül csak egyszer kaphatja meg, öt éven belül újabb elismerés adományozására ugyanazon személy részére kivételes esetben, csak olyan teljesítmény alapján lehet javaslatot tenni, amelyet a javasolt személy vagy szervezet a korábban adományozott elismerést követően ért el.
