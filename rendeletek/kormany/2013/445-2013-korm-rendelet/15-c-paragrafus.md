@@ -1,4 +1,4 @@
-## 7.[^107] A kiemelt beruházást megvalósító harmadik országbeli állampolgárok foglalkoztatására vonatkozó különös szabályok
+## 7.[^112] A kiemelt beruházást megvalósító harmadik országbeli állampolgárok foglalkoztatására vonatkozó különös szabályok
 
 15/C. § (1) A kiemelt beruházás esetén a 15/A. § (1) bekezdése szerinti kérelmet a kiemelt fővállalkozó is benyújthatja.
 
@@ -18,4 +18,4 @@ a) a 15/B. § (2) bekezdése, a 15/B. § (5) bekezdés f) pontja és a 15/B. § 
 
 b) a 15/B. § (5) bekezdés e) pontja azzal az eltéréssel alkalmazandó, hogy a nyilvántartás a beruházás megvalósításában részt vevő kiemelt alvállalkozók megnevezését, cégjegyzékszámát tartalmazza.
 
-[^107]: A 7. alcímet (15/C. §-t) a 166/2024. (VI. 28.) Korm. rendelet 7. §-a iktatta be.
+[^112]: A 7. alcímet (15/C. §-t) a 166/2024. (VI. 28.) Korm. rendelet 7. §-a iktatta be.
