@@ -1,10 +1,10 @@
 ## 2. § Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-1. melléklet a 6/2021. (III. 3.) BM rendelethez[^2]
+1. melléklet a 6/2021. (III. 3.) BM rendelethez[^3]
 
 A XIV. Belügyminisztérium fejezet 2024. évi költségvetési kiadási központi kezelésű előirányzatainak feladatterve
 
-4X00578M.docx
+4X07303M.docx
 
 |  | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O |
 
@@ -26,11 +26,11 @@ A XIV. Belügyminisztérium fejezet 2024. évi költségvetési kiadási közpon
 
 | 6 | 343628 |  | Gyógyszertári tulajdoni hányad állami elővásárlása és értékesítése | A gyógyszertárak tulajdonosi szerkezete tekintetében új, a többségi gyógyszerészi tulajdon elősegítését támogató szabályozás szerint a gyógyszertári tulajdonhányad értékesítése esetén elővásárlási joga van a törvényben meghatározott gyógyszerészeknek és az államnak. Az előirányzat felhasználásának célja lehetővé tenni, hogy az állam indokolt esetben élni tudjon elővásárlási jogával, ha azt a rangsorban előtte álló gyógyszerészek nem tennék meg. | a) egyéni vállalkozó, b) egyéni cég, c) egyéni vállalkozónak nem minősülő természetes személy, d) gazdasági társaság | – | – | egyösszegű kifizetéssel részletekben történő kifizetéssel | – | – | egészségbiztosítási alap előirányzatainak kezelő szerve | – | – |
 
-| 7 |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 7 |  |  | A Belügyminisztérium tulajdonosi joggyakorlásával kapcsolatos bevételek és kiadások |  |  |  |  |  |  |  |  |  |  |
 
-| 8 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 8 |  |  |  | A Belügyminisztérium tulajdonosi joggyakorlásával kapcsolatos kiadások |  |  |  |  |  |  |  |  |  |  |
 
-| 9 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 9 | 400584 |  |  |  | A Belügyminisztérium tulajdonosi joggyakorlása alá tartozó társaságok forrásjuttatásai | A Belügyminisztérium tulajdonosi joggyakorlása alá tartozó gazdasági társaságok a) tőkeemelésének és pótbefizetésének, b) tulajdonosi támogatásának finanszírozása. | A Belügyminisztérium tulajdonosi joggyakorlása alá tartozó gazdasági társaságok | Az államháztartásról szóló 2011. évi CXCV. törvény szerinti, az állami vagyon felügyeletéért felelős miniszter jóváhagyása esetén, a támogatói okiratban vagy támogatási szerződésben foglaltaknak megfelelően. | Igen | A tulajdonosi joggyakorló határozatában foglaltak szerint, tőkeemelés vagy pótbefizetés jogcímén. Tulajdonosi támogatás esetében egy összegben vagy idő- vagy teljesítésarányos részletekben. | Pótbefizetés esetén szerződés szerint. Tulajdonosi támogatás esetében támogatási szerződés vagy támogatói okirat szerint. | Az Ávr. 84. § (2) bekezdése szerinti biztosíték köthető ki. | – | – | – |
 
 | 10 |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -40,4 +40,4 @@ A XIV. Belügyminisztérium fejezet 2024. évi költségvetési kiadási közpon
 
 | 13 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^2]: Az 1. melléklet az 51/2021. (XII. 23.) BM rendelet 1. §-a, az 52/2021. (XII. 27.) BM rendelet 4. § b) pontja, a 33/2022. (IX. 22.) BM rendelet 7. §-a, a 12/2023. (V. 19.) BM rendelet 12. §-a, a 39/2023. (IX. 14.) BM rendelet 11. § b) pontja és 12. §-a, a 8/2024. (II. 14.) BM rendelet 5. § b)–e) pontja, 6. §-a, 7. § a) és b) pontja szerint módosított szöveg.
+[^3]: Az 1. melléklet az 51/2021. (XII. 23.) BM rendelet 1. §-a, az 52/2021. (XII. 27.) BM rendelet 4. § b) pontja, a 33/2022. (IX. 22.) BM rendelet 7. §-a, a 12/2023. (V. 19.) BM rendelet 12. §-a, a 39/2023. (IX. 14.) BM rendelet 11. § b) pontja és 12. §-a, a 8/2024. (II. 14.) BM rendelet 5. § b)–e) pontja, 6. §-a, 7. § a) és b) pontja, az 51/2024. (X. 14.) BM rendelet 10. §-a szerint módosított szöveg.
