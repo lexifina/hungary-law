@@ -1,12 +1,12 @@
-10. §[^67] (1) Az állami foglalkoztatási szervként eljáró kormányhivatal
+10. §[^69] (1) Az állami foglalkoztatási szervként eljáró kormányhivatal
 
 a) szakmailag irányítja és ellenőrzi az állami foglalkoztatási szervként eljáró járási hivatal tevékenységét, ennek keretében közreműködik az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal ez irányú feladatait ellátó kormánytisztviselőinek szakmai képzésében, valamint szakmai ajánlások készítésével segíti az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal ez irányú hatósági és szolgáltató tevékenységét,
 
-b)[^68] ellátja a GFA pénzeszközeinek működtetésével kapcsolatos feladatokat, segíti a keret tervezését és a felhasználás ellenőrzését,
+b)[^70] ellátja a GFA pénzeszközeinek működtetésével kapcsolatos feladatokat, segíti a keret tervezését és a felhasználás ellenőrzését,
 
-c)[^69] dönt a GFA foglalkoztatási alaprészének és a közfoglalkoztatási támogatások előirányzat decentralizált kerete felhasználásáról,
+c)[^71] dönt a GFA foglalkoztatási alaprészének és a közfoglalkoztatási támogatások előirányzat decentralizált kerete felhasználásáról,
 
-d)[^70] ellátja a GFA foglalkoztatási alaprésze központi pénzügyi keretéből finanszírozott munkaerőpiaci programok, pályázatok, valamint a közfoglalkoztatási támogatások előirányzat központi keretéből finanszírozott támogatásokkal kapcsolatos feladatokat,
+d)[^72] ellátja a GFA foglalkoztatási alaprésze központi pénzügyi keretéből finanszírozott munkaerőpiaci programok, pályázatok, valamint a közfoglalkoztatási támogatások előirányzat központi keretéből finanszírozott támogatásokkal kapcsolatos feladatokat,
 
 e) működteti az álláskeresők ellátási rendszerét, az álláskeresők részére saját hatáskörben nyújtott támogatások rendszerét és gondoskodik az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal támogatási rendszere szakmai működtetéséről,
 
@@ -14,7 +14,7 @@ f) felelős a szakmai munkát támogató szoftverek működtetéséért és hasz
 
 g) ellátja az európai uniós források felhasználásával kapcsolatos szakmai és pénzügyi feladatokat,
 
-h)[^71] az előzetes csoportos munkavállalási jóváhagyás kiadására irányuló eljárás során vizsgálja a térség munkaerőpiaci helyzetét, az eljárás időpontjában rendelkezésre álló munkaerőt,
+h)[^73] az előzetes csoportos munkavállalási jóváhagyás kiadására irányuló eljárás során vizsgálja a térség munkaerőpiaci helyzetét, az eljárás időpontjában rendelkezésre álló munkaerőt,
 
 i) állami foglalkoztatási szervként ellátandó feladatai eredményességének elősegítése érdekében együttműködik a helyi önkormányzatokkal, valamint az országos és helyi nemzetiségi önkormányzatokkal, továbbá más hatóságokkal és egyéb szervezetekkel, ennek keretében szakmailag irányítja és koordinálja az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal – a szociális igazgatásról és szociális ellátásokról szóló törvényből adódó – feladatai végrehajtását,
 
@@ -22,15 +22,15 @@ j) ellátja az EURES-sel kapcsolatos szervezési, tanácsadási és koordináci�
 
 k) illetékességi területén ellátja a munkaerő-piaci ellenőrzéssel kapcsolatos feladatokat,
 
-l)[^72] részt vesz a munkaerőpiaci programban meghatározottak szerint a munkaerőpiaci program végrehajtásában, valamint a miniszter egyetértésével munkaerőpiaci programot hirdet meg,
+l)[^74] részt vesz a munkaerőpiaci programban meghatározottak szerint a munkaerőpiaci program végrehajtásában, valamint a miniszter egyetértésével munkaerőpiaci programot hirdet meg,
 
 m) a harmadik országbeli állampolgárok magyarországi foglalkoztatásának engedélyezésével összefüggésben befogadja a foglalkoztató által benyújtott munkaerőigényeket,
 
 n) nyilvántartja a csoportos létszámleépítésre vonatkozó bejelentéseket,
 
-o)[^73]
+o)[^75]
 
-p)[^74] az álláskeresési ellátások és a foglalkoztatást elősegítő támogatások tekintetében méltányossági jogkört gyakorol.
+p)[^76] az álláskeresési ellátások és a foglalkoztatást elősegítő támogatások tekintetében méltányossági jogkört gyakorol.
 
 (2) Az állami foglalkoztatási szerv hatáskörében eljáró fővárosi kormányhivatal nyilvántartja azon munkaadók csoportos létszámcsökkentésére vonatkozó bejelentéseit, amelyek csoportos létszámcsökkentésessel érintett székhelye vagy telephelye a főváros területén van.
 
@@ -38,9 +38,9 @@ p)[^74] az álláskeresési ellátások és a foglalkoztatást elősegítő tám
 
 a) szakmailag irányítja és szakmailag ellenőrzi az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal közfoglalkoztatással kapcsolatos tevékenységét, ennek keretében közreműködik az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal közfoglalkoztatással kapcsolatos feladatokat ellátó kormánytisztviselőinek szakmai képzésében, valamint szakmai ajánlások készítésével segíti az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal közfoglalkoztatással kapcsolatos hatósági és szolgáltató tevékenységet,
 
-b)[^75] ellátja a GFA közfoglalkoztatási előirányzat pénzeszközeinek működtetésével kapcsolatos feladatokat, segíti a keret tervezését és a felhasználás ellenőrzését,
+b)[^77] ellátja a GFA közfoglalkoztatási előirányzat pénzeszközeinek működtetésével kapcsolatos feladatokat, segíti a keret tervezését és a felhasználás ellenőrzését,
 
-c)[^76] dönt a GFA közfoglalkoztatási támogatások előirányzat decentralizált keretének felhasználásáról,
+c)[^78] dönt a GFA közfoglalkoztatási támogatások előirányzat decentralizált keretének felhasználásáról,
 
 d) ellátja a pénzeszközök visszakövetelésével kapcsolatos pénzügyi feladatokat,
 
@@ -66,7 +66,7 @@ jd) ellenőrzi a hatáskörébe tartozó közfoglalkoztatási támogatás nyújt
 
 je) az általa kötött hatósági szerződések tekintetében ellátja a pénzeszközök visszakövetelésével kapcsolatos hatósági feladatokat,
 
-jf)[^77]
+jf)[^79]
 
 k) ellátja a hatáskörébe tartozó közfoglalkoztatási támogatási eljárással kapcsolatos szakmai és pénzügyi feladatokat,
 
@@ -76,35 +76,35 @@ la) gondoskodik a rendszer szakmai működtetéséről, valamint koordinálja az
 
 lb) ellátja azokat a feladatokat, amelyeket nem az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal lát el.
 
-(4)[^78] Az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal át nem ruházható hatáskörben a jogszabályban meghatározott illetékességi területén hatósági jogkört gyakorol
+(4)[^80] Az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal át nem ruházható hatáskörben a jogszabályban meghatározott illetékességi területén hatósági jogkört gyakorol
 
 a) a munkaerő-piaci program kidolgozásának, megvalósításának megállapításával,
 
-b)[^79]
+b)[^81]
 
-c)[^80] a foglalkoztatást elősegítő szolgáltatásokról és támogatásokról, valamint a foglalkoztatás felügyeletéről szóló törvény felhatalmazása alapján kiadott kormányrendelet által hatáskörébe utalt foglalkoztatást elősegítő támogatás megállapításával,
+c)[^82] a foglalkoztatást elősegítő szolgáltatásokról és támogatásokról, valamint a foglalkoztatás felügyeletéről szóló törvény felhatalmazása alapján kiadott kormányrendelet által hatáskörébe utalt foglalkoztatást elősegítő támogatás megállapításával,
 
-d)[^81] a hatáskörébe tartozó ügyekben a pénzeszközök visszakövetelésével,
+d)[^83] a hatáskörébe tartozó ügyekben a pénzeszközök visszakövetelésével,
 
-e)[^82]
+e)[^84]
 
-f)[^83]
+f)[^85]
 
-g)[^84]
+g)[^86]
 
-h)[^85]
+h)[^87]
 
 i) az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal hatáskörébe utalt nyilvántartásba vétellel, valamint
 
-j)[^86] vállalkozóvá válást elősegítő támogatással
+j)[^88] vállalkozóvá válást elősegítő támogatással
 
 kapcsolatos ügyekben.
 
-(4a)[^87] Az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal át nem ruházható hatáskörben a jogszabályban meghatározott illetékességi területén hatósági jogkört gyakorol a közigazgatási bírsággal kapcsolatos ügyben, ha a közigazgatási bírságot megalapozó mulasztás olyan kötelezettséggel függ össze, amelyet külön jogszabály szerint részére kell teljesíteni, vagy olyan hatósági ügyet érint, amelynek elbírálása a hatáskörébe tartozik.
+(4a)[^89] Az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal át nem ruházható hatáskörben a jogszabályban meghatározott illetékességi területén hatósági jogkört gyakorol a közigazgatási bírsággal kapcsolatos ügyben, ha a közigazgatási bírságot megalapozó mulasztás olyan kötelezettséggel függ össze, amelyet külön jogszabály szerint részére kell teljesíteni, vagy olyan hatósági ügyet érint, amelynek elbírálása a hatáskörébe tartozik.
 
 (5) A Kormány a magán-munkaközvetítési tevékenység tekintetében a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szolgáltatás felügyeletét ellátó hatóságként az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatalt jelöli ki.
 
-(6)[^88] Az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal a foglalkoztatást elősegítő szolgáltatási feladatok ellátásának keretében
+(6)[^90] Az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal a foglalkoztatást elősegítő szolgáltatási feladatok ellátásának keretében
 
 a) gondoskodik a foglalkoztatást elősegítő szolgáltatási rendszer szakmai működtetéséről, valamint koordinálja az állami foglalkoztatási szerv hatáskörében eljáró járási hivatalok foglalkoztatást elősegítő szolgáltatási tevékenységét, foglalkoztatást elősegítő szolgáltatásokat szervez és működteti a szolgáltatások kiépített intézményrendszerét,
 
@@ -112,7 +112,7 @@ b) elkészíti az éves szolgáltatási tervet,
 
 c) ellátja azokat a foglalkoztatást elősegítő szolgáltatásokkal kapcsolatos feladatokat, amelyeket nem az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal lát el.
 
-(7)[^89] A harmadik országbeli állampolgárok magyarországi foglalkoztatásával összefüggő feladatai körében az állami foglalkoztatási szervként eljáró Budapest Főváros Kormányhivatala
+(7)[^91] A harmadik országbeli állampolgárok magyarországi foglalkoztatásával összefüggő feladatai körében az állami foglalkoztatási szervként eljáró Budapest Főváros Kormányhivatala
 
 a) a minősített kölcsönbeadó nyilvántartásba vételével, ellenőrzésével és nyilvántartásból törlésével,
 
@@ -120,36 +120,36 @@ b) a regisztrációs és foglalkoztatási díj fizetésére kötelezett kedvezm�
 
 összefüggő ügyekkel kapcsolatos feladatokat át nem ruházható hatáskörben, országos illetékességgel látja el.
 
-(8)[^90] Az állami foglalkoztatási szervként eljáró kormányhivatal a harmadik országbeli állampolgárok magyarországi foglalkoztatásával összefüggő feladatai körében hatósági jogkört gyakorol
+(8)[^92] Az állami foglalkoztatási szervként eljáró kormányhivatal a harmadik országbeli állampolgárok magyarországi foglalkoztatásával összefüggő feladatai körében hatósági jogkört gyakorol
 
 a) a nem összevont kérelmezési eljárás alapján kiadott tartózkodásra jogosító engedélyt kérelmező harmadik országbeli állampolgár magyarországi foglalkoztatásához szükséges munkavállalási engedély,
 
-b)[^91] az idegenrendészeti szerv által a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben meghatározott összevont kérelmezési eljárás alapján kiadott tartózkodási engedélyhez szükséges szakhatósági állásfoglalás
+b)[^93] az idegenrendészeti szerv által a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben meghatározott összevont kérelmezési eljárás alapján kiadott tartózkodási engedélyhez szükséges szakhatósági állásfoglalás
 
 kiadásával.
 
-[^67]: A 10. § a 70/2015. (III. 30.) Korm. rendelet 258. § (16) bekezdésével megállapított szöveg.
-[^68]: A 10. § (1) bekezdés b) pontja a 356/2021. (VI. 24.) Korm. rendelet 23. § c) pontja szerint módosított szöveg.
-[^69]: A 10. § (1) bekezdés c) pontja a 356/2021. (VI. 24.) Korm. rendelet 23. § c) pontja szerint módosított szöveg.
-[^70]: A 10. § (1) bekezdés d) pontja a 356/2021. (VI. 24.) Korm. rendelet 23. § c) pontja szerint módosított szöveg.
-[^71]: A 10. § (1) bekezdés h) pontját a 360/2019. (XII. 30.) Korm. rendelet 135. § (9) bekezdés b) pontja hatályon kívül helyezte, újonnan a 35/2024. (II. 29.) Korm. rendelet 314. § (1) bekezdése iktatta be.
-[^72]: A 10. § (1) bekezdés l) pontját a 379/2016. (XII. 2.) Korm. rendelet 283. § (11) bekezdés b) pontja hatályon kívül helyezte, újonnan a 101/2021. (II. 27.) Korm. rendelet 6. § (1) bekezdése iktatta be.
-[^73]: A 10. § (1) bekezdés o) pontját a 13/2020. (II. 7.) Korm. rendelet 97. §-a hatályon kívül helyezte.
-[^74]: A 10. § (1) bekezdés p) pontját a 360/2019. (XII. 30.) Korm. rendelet 135. § (4) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^75]: A 10. § (3) bekezdés b) pontja a 356/2021. (VI. 24.) Korm. rendelet 23. § c) pontja szerint módosított szöveg.
-[^76]: A 10. § (3) bekezdés c) pontja a 356/2021. (VI. 24.) Korm. rendelet 23. § c) pontja szerint módosított szöveg.
-[^77]: A 10. § (3) bekezdés j) pont jf) alpontját a 360/2019. (XII. 30.) Korm. rendelet 135. § (9) bekezdés c) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^78]: A 10. § (4) bekezdés nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 135. § (9) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^79]: A 10. § (4) bekezdés b) pontját a 101/2021. (II. 27.) Korm. rendelet 9. § b) pontja hatályon kívül helyezte.
-[^80]: A 10. § (4) bekezdés c) pontja a 101/2021. (II. 27.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^81]: A 10. § (4) bekezdés d) pontja a 101/2021. (II. 27.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^82]: A 10. § (4) bekezdés e) pontját a 101/2021. (II. 27.) Korm. rendelet 9. § b) pontja hatályon kívül helyezte.
-[^83]: A 10. § (4) bekezdés f) pontját a 360/2019. (XII. 30.) Korm. rendelet 135. § (9) bekezdés e) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^84]: A 10. § (4) bekezdés g) pontját a 227/2022. (VI. 28.) Korm. rendelet 6. § b) pontja hatályon kívül helyezte.
-[^85]: A 10. § (4) bekezdés h) pontját a 171/2017. (VI. 29.) Korm. rendelet 17. § (3) bekezdése hatályon kívül helyezte.
-[^86]: A 10. § (4) bekezdés j) pontja a 101/2021. (II. 27.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
-[^87]: A 10. § (4a) bekezdését a 171/2017. (VI. 29.) Korm. rendelet 17. § (1) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 135. § (9) bekezdés f) pontja, a 713/2020. (XII. 30.) Korm. rendelet 42. § a)–b) pontja szerint módosított szöveg.
-[^88]: A 10. § (6) bekezdése a 101/2021. (II. 27.) Korm. rendelet 6. § (4) bekezdésével megállapított szöveg.
-[^89]: A 10. § (7) bekezdését a 227/2022. (VI. 28.) Korm. rendelet 4. §-a iktatta be, szövege a 35/2024. (II. 29.) Korm. rendelet 314. § (2) bekezdésével megállapított szöveg.
-[^90]: A 10. § (8) bekezdését a 227/2022. (VI. 28.) Korm. rendelet 4. §-a iktatta be.
-[^91]: A 10. § (8) bekezdés b) pontja a 35/2024. (II. 29.) Korm. rendelet 315. §-a szerint módosított szöveg.
+[^69]: A 10. § a 70/2015. (III. 30.) Korm. rendelet 258. § (16) bekezdésével megállapított szöveg.
+[^70]: A 10. § (1) bekezdés b) pontja a 356/2021. (VI. 24.) Korm. rendelet 23. § c) pontja szerint módosított szöveg.
+[^71]: A 10. § (1) bekezdés c) pontja a 356/2021. (VI. 24.) Korm. rendelet 23. § c) pontja szerint módosított szöveg.
+[^72]: A 10. § (1) bekezdés d) pontja a 356/2021. (VI. 24.) Korm. rendelet 23. § c) pontja szerint módosított szöveg.
+[^73]: A 10. § (1) bekezdés h) pontját a 360/2019. (XII. 30.) Korm. rendelet 135. § (9) bekezdés b) pontja hatályon kívül helyezte, újonnan a 35/2024. (II. 29.) Korm. rendelet 314. § (1) bekezdése iktatta be.
+[^74]: A 10. § (1) bekezdés l) pontját a 379/2016. (XII. 2.) Korm. rendelet 283. § (11) bekezdés b) pontja hatályon kívül helyezte, újonnan a 101/2021. (II. 27.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^75]: A 10. § (1) bekezdés o) pontját a 13/2020. (II. 7.) Korm. rendelet 97. §-a hatályon kívül helyezte.
+[^76]: A 10. § (1) bekezdés p) pontját a 360/2019. (XII. 30.) Korm. rendelet 135. § (4) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^77]: A 10. § (3) bekezdés b) pontja a 356/2021. (VI. 24.) Korm. rendelet 23. § c) pontja szerint módosított szöveg.
+[^78]: A 10. § (3) bekezdés c) pontja a 356/2021. (VI. 24.) Korm. rendelet 23. § c) pontja szerint módosított szöveg.
+[^79]: A 10. § (3) bekezdés j) pont jf) alpontját a 360/2019. (XII. 30.) Korm. rendelet 135. § (9) bekezdés c) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^80]: A 10. § (4) bekezdés nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 135. § (9) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^81]: A 10. § (4) bekezdés b) pontját a 101/2021. (II. 27.) Korm. rendelet 9. § b) pontja hatályon kívül helyezte.
+[^82]: A 10. § (4) bekezdés c) pontja a 101/2021. (II. 27.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^83]: A 10. § (4) bekezdés d) pontja a 101/2021. (II. 27.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^84]: A 10. § (4) bekezdés e) pontját a 101/2021. (II. 27.) Korm. rendelet 9. § b) pontja hatályon kívül helyezte.
+[^85]: A 10. § (4) bekezdés f) pontját a 360/2019. (XII. 30.) Korm. rendelet 135. § (9) bekezdés e) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^86]: A 10. § (4) bekezdés g) pontját a 227/2022. (VI. 28.) Korm. rendelet 6. § b) pontja hatályon kívül helyezte.
+[^87]: A 10. § (4) bekezdés h) pontját a 171/2017. (VI. 29.) Korm. rendelet 17. § (3) bekezdése hatályon kívül helyezte.
+[^88]: A 10. § (4) bekezdés j) pontja a 101/2021. (II. 27.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^89]: A 10. § (4a) bekezdését a 171/2017. (VI. 29.) Korm. rendelet 17. § (1) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 135. § (9) bekezdés f) pontja, a 713/2020. (XII. 30.) Korm. rendelet 42. § a)–b) pontja szerint módosított szöveg.
+[^90]: A 10. § (6) bekezdése a 101/2021. (II. 27.) Korm. rendelet 6. § (4) bekezdésével megállapított szöveg.
+[^91]: A 10. § (7) bekezdését a 227/2022. (VI. 28.) Korm. rendelet 4. §-a iktatta be, szövege a 35/2024. (II. 29.) Korm. rendelet 314. § (2) bekezdésével megállapított szöveg.
+[^92]: A 10. § (8) bekezdését a 227/2022. (VI. 28.) Korm. rendelet 4. §-a iktatta be.
+[^93]: A 10. § (8) bekezdés b) pontja a 35/2024. (II. 29.) Korm. rendelet 315. §-a szerint módosított szöveg.

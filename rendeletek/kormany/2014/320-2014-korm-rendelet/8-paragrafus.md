@@ -64,11 +64,11 @@ rd) összegyűjti, tanulmányozza az egyes képzési programok főbb követelmé
 
 re) a felnőttképzésért felelős miniszterrel együttműködve koordinálja az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal és az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal közfoglalkoztatottak képzéséhez kapcsolódó, európai uniós támogatással megvalósuló tevékenységét,
 
-s) koordinálja a közfoglalkoztatáshoz kapcsolódóan az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal munkaerő-piaci szolgáltatásokkal kapcsolatos feladatait a miniszterrel együttműködve,
+s)[^61] tervezi, szervezi, koordinálja és nyomon követi a közfoglalkoztatáshoz kapcsolódóan az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal humánszolgáltatásokkal kapcsolatos feladatait a miniszterrel együttműködve,
 
 t) ellátja a jogszabályban meghatározott egyéb feladatokat.
 
-(2)[^61] A közfoglalkoztatásért felelős miniszter a Nemzeti Infokommunikációs Szolgáltató Zrt. (a továbbiakban: NISZ Zrt.) útján
+(2)[^62] A közfoglalkoztatásért felelős miniszter a Nemzeti Infokommunikációs Szolgáltató Zrt. (a továbbiakban: NISZ Zrt.) útján
 
 a) a 4. § (1) bekezdés g) pontjával összhangban a miniszterrel egyeztetve fejleszti a miniszter, az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal és az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal tevékenységét támogató programrendszereket, és kiadja a programkezeléssel kapcsolatos felhasználói segédanyagokat,
 
@@ -78,10 +78,12 @@ c) fejleszti és működteti az állami foglalkoztatási szerv hatáskörében e
 
 d) a c) pontban meghatározott informatikai rendszerekkel összefüggésben teljesíti a miniszter, valamint az adatok igénylésére jogosult más szervek megkereséseit.
 
-(3) A közfoglalkoztatásért felelős miniszter közreműködik az Európai Unió pénzügyi alapjaiból és más külföldi alapokból támogatott egyes közfoglalkoztatáshoz kapcsolódó képzési programok megvalósításának tervezésében és szervezésében.
+(3)[^63] A közfoglalkoztatásért felelős miniszter előkészíti, koordinálja, nyomon követi, valamint közreműködik az Európai Unió pénzügyi alapjaiból és más külföldi alapokból támogatott egyes közfoglalkoztatáshoz kapcsolódó képzési programok és humánszolgáltatások megvalósításának tervezésében és szervezésében.
 
 [^57]: A 8. § a 70/2015. (III. 30.) Korm. rendelet 258. § (13) bekezdésével megállapított szöveg.
 [^58]: A 8. § b) pontja a 356/2021. (VI. 24.) Korm. rendelet 23. § c) pontja szerint módosított szöveg.
 [^59]: A 8. § c) pontja a 356/2021. (VI. 24.) Korm. rendelet 23. § c) pontja szerint módosított szöveg.
 [^60]: A 8. § (1) bekezdés l) pont ld) alpontját a 360/2019. (XII. 30.) Korm. rendelet 135. § (9) bekezdés a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^61]: A 8. § (2) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 283. § (10) bekezdés f) pontja szerint módosított szöveg.
+[^61]: A 8. § (1) bekezdés s) pontja a 297/2024. (X. 14.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^62]: A 8. § (2) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 283. § (10) bekezdés f) pontja szerint módosított szöveg.
+[^63]: A 8. § (3) bekezdése a 297/2024. (X. 14.) Korm. rendelet 8. §-ával megállapított szöveg.
