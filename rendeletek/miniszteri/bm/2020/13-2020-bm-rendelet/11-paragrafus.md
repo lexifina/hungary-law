@@ -1,3 +1,3 @@
-11. §[^36] A 2,2 millió eurónak megfelelő forintösszeget meg nem haladó beruházási vagy működési támogatás esetén a támogatás összege a 9. § (2) és (3) bekezdésében, valamint a 10. § (2) és (3) bekezdésében meghatározott módszerek alkalmazásától eltérően is meghatározható, azzal, hogy a támogatási intenzitás nem haladhatja meg az elszámolható költségek 80%-át.
+11. §[^39] A 2,2 millió eurónak megfelelő forintösszeget meg nem haladó beruházási vagy működési támogatás esetén a támogatás összege a 9. § (2) és (3) bekezdésében, valamint a 10. § (2) és (3) bekezdésében meghatározott módszerek alkalmazásától eltérően is meghatározható, azzal, hogy a támogatási intenzitás nem haladhatja meg az elszámolható költségek 80%-át.
 
-[^36]: A 11. § a 39/2023. (IX. 14.) BM rendelet 4. §-ával megállapított szöveg.
+[^39]: A 11. § a 39/2023. (IX. 14.) BM rendelet 4. §-ával megállapított szöveg.
