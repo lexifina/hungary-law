@@ -1,0 +1,9 @@
+# 297/2024. (X. 14.) Korm. rendelet
+
+egyes foglalkoztatási tárgyú kormányrendeletek módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-297-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2024-10-15 | 2024-297-20-22.1 | 297/2024. (X. 14.) Korm. rendelet |
