@@ -72,7 +72,7 @@
 
 ## 9. felkéri az önálló szabályozó szervek vezetőit, hogy a szakterületüket érintően működjenek együtt a felelős szervekkel az 1–5. és a 8. pont szerinti feladatok végrehajtásában;
 
-## 10. visszavonja a gazdaság versenyképességének növelése érdekében végrehajtandó, a hazai szabályozott szakmák rendszerének felülvizsgálatáról és a szabályozott szakmák számának csökkentéséről szóló 1410/2019. (VII. 9.) Korm. határozatot.
+## 10.[^1]
 
 1. melléklet az 1309/2024. (X. 14.) Korm. határozathoz
 
@@ -93,3 +93,5 @@
 7. A változás hatálybalépésének időpontja
 
 8. A képesítés tekintetében a Bizottság szakértőjével való szakmai egyeztetésben illetékes személy neve, beosztása, telefonszáma és elektronikus elérhetősége
+
+[^1]: A 10. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
