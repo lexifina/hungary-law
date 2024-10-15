@@ -35,3 +35,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-118-20-
 | 2023-01-01 | 2001-118-20-22.31 | 351/2010. (XII. 30.) Korm. rendelet |
 | 2024-01-01 | 2001-118-20-22.32 | 335/2016. (XI. 11.) Korm. rendelet |
 | 2024-07-01 | 2001-118-20-22.33 | 104/2024. (V. 9.) Korm. rendelet |
+| 2024-10-15 | 2001-118-20-22.34 | 297/2024. (X. 14.) Korm. rendelet |
