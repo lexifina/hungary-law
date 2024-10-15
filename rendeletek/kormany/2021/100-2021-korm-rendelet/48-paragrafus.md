@@ -6,7 +6,7 @@ a) az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra, a
 
 b) az Európai Szociális Alapról és az 1081/2006/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1304/2013/EU európai parlamenti és tanácsi rendelet,
 
-c)[^74] az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2023. december 13-i 2023/2831/EU bizottsági rendelet,,
+c)[^110] az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2023. december 13-i 2023/2831/EU bizottsági rendelet,,
 
 d) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet,
 
@@ -16,4 +16,4 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (2) Ez a rendelet a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
-[^74]: A 48. § (1) bekezdés c) pontja a 687/2023. (XII. 29.) Korm. rendelet 28. § g) pontja szerint módosított szöveg.
+[^110]: A 48. § (1) bekezdés c) pontja a 687/2023. (XII. 29.) Korm. rendelet 28. § g) pontja szerint módosított szöveg. [A 48. § (1) bekezdés c) pontjában a 297/2024. (X. 14.) Korm. rendelet 24. § h) pontja által elrendelt módosítás, amely szerint az „a 2023/2831/EU” szövegrész helyébe az „az (EU) 2023/2831” szöveg lép, nem vezethető át.]

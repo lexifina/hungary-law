@@ -1,4 +1,4 @@
-1. melléklet a 100/2021. (II. 27.) Korm. rendelethez[^76]
+1. melléklet a 100/2021. (II. 27.) Korm. rendelethez[^112]
 
 A szolgáltatásnyújtás személyi feltételei
 
@@ -26,8 +26,4 @@ e) Pedagógusképzés
 
 f) Társadalomtudományi
 
-Szakirányú végzettség hiányában legalább három év szakmai területen végzett gyakorlati idő szükséges.
-
-Pszichológiai tanácsadás nyújtásának személyi feltétele: szakirányú végzettség.
-
-[^76]: Az 1. melléklet a 687/2023. (XII. 29.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^112]: Az 1. melléklet a 687/2023. (XII. 29.) Korm. rendelet 27. §-ával megállapított szöveg.

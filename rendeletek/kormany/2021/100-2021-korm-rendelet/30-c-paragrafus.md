@@ -1,4 +1,4 @@
-## 14/C.[^59] Képzési támogatás európai uniós pénzügyi szabályai
+## 14/C.[^81] Képzési támogatás európai uniós pénzügyi szabályai
 
 30/C. § (1) A képzési támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) a kötelező nemzeti képzési előírásoknak való megfeleléshez, valamint támogatott beruházás esetén a beruházás alapvető működtetéséhez szükséges képzéshez nem nyújtható.
 
@@ -18,4 +18,4 @@ a) megváltozott munkaképességű munkavállaló vagy hátrányos helyzetű mun
 
 b) középvállalkozásnak nyújtott támogatás esetén 10 százalékponttal, kisvállalkozásnak nyújtott támogatás esetén 20 százalékponttal.
 
-[^59]: A 14/C. alcímet (30/C. §-t) a 687/2023. (XII. 29.) Korm. rendelet 18. §-a iktatta be.
+[^81]: A 14/C. alcímet (30/C. §-t) a 687/2023. (XII. 29.) Korm. rendelet 18. §-a iktatta be.

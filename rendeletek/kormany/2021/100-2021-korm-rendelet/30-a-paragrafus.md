@@ -1,13 +1,14 @@
-## 14/A.[^57] Csekély összegű támogatás európai uniós pénzügyi szabályai
+## 14/A.[^77] Csekély összegű támogatás európai uniós pénzügyi szabályai
 
-30/A. § (1) Az egy és ugyanazon vállalkozásnak minősülő vállalkozások részére a 2023/2831/EU bizottsági rendelet hatálya alá tartozó, Magyarországon odaítélt csekély összegű támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) bruttó támogatástartalma nem haladhatja meg a 300 000 eurónak megfelelő forintösszeget, figyelembe véve a 2023/2831/EU bizottsági rendelet 3. cikk (8) és (9) bekezdését.
+30/A. §[^78] (1) A kedvezményezett és a vele egy és ugyanazon vállalkozásnak minősülő vállalkozások részére az (EU) 2023/2831 bizottsági rendelet hatálya alá tartozó, bármely három év során Magyarországon odaítélt csekély összegű támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) bruttó támogatástartalma nem haladhatja meg a 300 000 eurónak megfelelő forintösszeget, figyelembe véve az (EU) 2023/2831 bizottsági rendelet 3. cikk (8) és (9) bekezdését.
 
-(2) A támogatás odaítélése során bármely három évben nyújtott csekély összegű támogatások bruttó támogatástartalmának összegét kell figyelembe venni.
+(2) A kedvezményezettnek az (EU) 2023/2831 bizottsági rendelet 7. cikk (4) bekezdése figyelembevételével – az ott meghatározott feltételek teljesítésének megállapítására alkalmas módon – nyilatkoznia kell a részére a támogatás odaítélését megelőző három év (háromszor háromszázhatvanöt nap) során nyújtott csekély összegű támogatások támogatástartalmáról.
 
-(3) A 2023/2831/EU bizottsági rendelet 1. cikk (2) bekezdésében foglaltak kivételével nem lehet kedvezményezett az a vállalkozás, amely az igényelt támogatást a 2023/2831/EU bizottsági rendelet 1. cikk (1) bekezdésében meghatározott kivételek szerint használná fel.
+(3) A támogatást nyújtó a kedvezményezett részére az (EU) 2023/2831 bizottsági rendelet 7. cikk (4) bekezdésével összhangban igazolást állít ki a támogatás összegéről bruttó támogatási egyenértékben kifejezve és annak csekély összegű jellegéről, közvetlenül utalva az (EU) 2023/2831 bizottsági rendeletre.
 
-(4) A támogatás a csekély összegű közszolgáltatási támogatással az Európai Unió működéséről szóló szerződés 107. és 108. cikkének az általános gazdasági érdekű szolgáltatást nyújtó vállalkozások számára nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2023. december 13-i 2023/2832/EU bizottsági rendeletben meghatározott felső határig halmozható. A támogatás más csekély összegű támogatásokról szóló rendeleteknek megfelelően nyújtott csekély összegű támogatással az (1) bekezdésben meghatározott felső határig halmozható.
+(4) A támogatás – az (EU) 2023/2832 bizottsági rendelet alapján nyújtott támogatás kivételével – más csekély összegű támogatásokról szóló rendeletek alapján nyújtott csekély összegű támogatással az (1) bekezdésben meghatározott értékhatárig halmozható.
 
-(5) A támogatás nem halmozható azonos elszámolható költségekhez vagy azonos kockázatfinanszírozási célú intézkedéshez nyújtott állami támogatással, ha az így halmozott összeg meghaladná a csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitást vagy összeget.
+(5) A támogatás halmozható azonos elszámolható költségek vagy azonos kockázatfinanszírozási célú intézkedés vonatkozásában nyújtott állami támogatással, ha a halmozás következtében az odaítélt támogatások nem lépik túl a csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitást vagy összeget.
 
-[^57]: A 14/A. alcímet (30/A. §-t) a 687/2023. (XII. 29.) Korm. rendelet 18. §-a iktatta be.
+[^77]: A 14/A. alcímet (30/A. §-t) a 687/2023. (XII. 29.) Korm. rendelet 18. §-a iktatta be.
+[^78]: A 30/A. § a 297/2024. (X. 14.) Korm. rendelet 17. §-ával megállapított szöveg.
