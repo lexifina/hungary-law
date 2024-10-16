@@ -1,5 +1,3 @@
-21. § Az R3. 42. §-a a következő (3) és (4) bekezdéssel egészül ki:
+21. §[^21]
 
-„(3) Egyéni képzés esetén az (1) bekezdésben meghatározott támogatás nyújtható.
-
-(4) Az (1) bekezdés szerinti támogatásban részesülő álláskereső a képzést követő sikeres vizsga esetén a minimálbér havi összege 70%-ának megfelelő egyszeri juttatásban részesülhet.”
+[^21]: A 21. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

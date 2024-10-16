@@ -1,3 +1,3 @@
-12. § Az R3. 8/A. alcím címe helyébe a következő alcím cím lép:
+12. §[^12]
 
-„8/A. Könnyített közvetítési szolgáltatás”
+[^12]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

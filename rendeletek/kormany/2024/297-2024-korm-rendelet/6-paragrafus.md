@@ -1,3 +1,3 @@
-6. § Az R1. 20. § (5) bekezdése a következő h)–j) ponttal egészül ki:
+6. §[^6]
 
-[A (4) bekezdésben meghatározott egyéb foglalkoztatási szempont különösen:]
+[^6]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

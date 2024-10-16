@@ -1,1 +1,3 @@
-23. § Az R3. az 1. melléklet szerinti 2. melléklettel egészül ki.
+23. §[^23]
+
+[^23]: A 23. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

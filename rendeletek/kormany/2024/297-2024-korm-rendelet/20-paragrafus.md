@@ -1,3 +1,3 @@
-20. § Az R3. V. fejezet 20. alcím címe helyébe a következő alcím cím lép:
+20. §[^20]
 
-„20. Munkaerőpiaci alkalmazkodás és képzések támogatása”
+[^20]: A 20. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-10. § Az R3. 4. § (4) bekezdése helyébe a következő rendelkezés lép:
+10. §[^10]
 
-„(4) Az állami foglalkoztatási szerv a közfoglalkoztatásért felelős miniszter javaslatára, a miniszter egyetértésével európai uniós forrás terhére és más külföldi forrás terhére a közfoglalkoztatásban részt vevők részére humánszolgáltatásokat nyújthat.”
+[^10]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

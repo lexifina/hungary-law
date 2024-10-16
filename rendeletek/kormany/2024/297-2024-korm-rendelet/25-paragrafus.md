@@ -1,1 +1,3 @@
-25. § Hatályát veszti az R3. 47. § (4) és (5) bekezdése.
+25. §[^25]
+
+[^25]: A 25. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
