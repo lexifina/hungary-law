@@ -1,3 +1,3 @@
-3. § A 13/2020. (V. 5.) BM rendelet 4. §-a a következő (3a) bekezdéssel egészül ki:
+3. §[^4]
 
-„(3a) Ha a kedvezményezett a (3) bekezdés c)–f) pontjában kizárt ágazatok bármelyikében és ezektől eltérő egy vagy több ágazatban egyaránt végez tevékenységet, a 4. alcím szerinti támogatás akkor nyújtható a kedvezményezett részére ez utóbbi egyéb tevékenységhez, ha a kedvezményezett megfelelő eszközökkel – a tevékenységek szétválasztásával vagy számviteli elkülönítéssel – biztosítja, hogy a (3) bekezdés c)–f) pontjában meghatározott kizárt ágazatokban végzett tevékenységek ne részesüljenek a 4. alcím szerinti támogatásban.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
