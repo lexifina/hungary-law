@@ -1,3 +1,3 @@
-2. § A Rendelet 4. § (2) bekezdése helyébe a következő rendelkezés lép:
+2. §[^3]
 
-„(2) A Miniszteri Elismerő Oklevéllel pénzjutalom adható, amelynek összege bruttó 800 000 forint. Amennyiben a Miniszteri Elismerő Oklevél adományozására a miniszter irányítása vagy felügyelete alá tartozó szerv vagy a miniszter tulajdonosi joggyakorlása alá tartozó gazdasági társaság vezetője tett javaslatot, a pénzjutalmat annak a szervnek vagy gazdasági társaságnak kell biztosítania a költségvetéséből, amelynek vezetője az elismerést kezdeményezi. A minisztérium államtitkára, közigazgatási államtitkára, helyettes államtitkára által elismerésre javasolt jutalmazásának fedezetét a minisztérium a költségvetéséből biztosítja.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
