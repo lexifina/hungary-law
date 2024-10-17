@@ -1,0 +1,1 @@
+17. § A Hatóság a kérelmező szervezet tevékenységét a kérelemben megjelölt tevékenységet érintő alvállalkozói tevékenységgel egy eljárásban engedélyezi, ha a kérelmezett tevékenység folytatása alvállalkozók bevonásával valósul meg.

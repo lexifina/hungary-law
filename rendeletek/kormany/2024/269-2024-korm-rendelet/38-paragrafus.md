@@ -1,0 +1,5 @@
+38. § (1) Amennyiben a jelentős módosítás jóváhagyásához szükséges a Hatóság által kiadott Katonai Típusalkalmassági Bizonyítvány módosítása is, a Hatóság a módosítás jóváhagyásával egyidejűleg módosíthatja a kiadott Katonai Típusalkalmassági Bizonyítványt vagy Kiegészítő Katonai Típusalkalmassági Bizonyítványt állíthat ki az eredeti tervező szervezettől eltérő, de a Hatóság által jóváhagyott szervezet által a típustervben végrehajtott jelentős módosításról.
+
+(2) A módosított Katonai Típusalkalmassági Bizonyítvány vagy a Kiegészítő Katonai Típusalkalmassági Bizonyítvány egy-egy példányát a jelentős módosítás jóváhagyását kérelmező szervezet, valamint a Katonai Típusalkalmassági Bizonyítvány Birtokos Szervezet kapja, további egy példányát a Hatóság őrzi.
+
+(3) Amennyiben a Katonai Típusalkalmassági Bizonyítvány Birtokos Szervezet a légijármű vagy a légijármű komponens gyártója, a Hatóság a módosított Katonai Típusalkalmassági Bizonyítvány vagy a Kiegészítő Katonai Típusalkalmassági Bizonyítvány másolatát megküldi a fenntartó részére.

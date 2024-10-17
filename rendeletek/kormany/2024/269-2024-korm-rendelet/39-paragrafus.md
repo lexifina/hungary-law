@@ -1,0 +1,1 @@
+39. § A módosítás jóváhagyására irányuló eljárása során a Hatóság az illetékes légügyi hatóságok közötti elfogadásra tekintettel figyelembe veszi a más hatóság módosítás jóváhagyására irányuló döntését.

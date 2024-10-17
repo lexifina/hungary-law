@@ -1,0 +1,1 @@
+18. § Az illetékes légügyi hatóságok közötti elfogadásra irányuló eljárás eredményes végrehajtását követően az illetékes hatóság általi tanúsításról szóló dokumentumokat a Hatóság az elfogadásra irányuló megállapodásban rögzítettek alapján külön engedélyezési eljárás nélkül is elfogadhatja, és azt egyenértékűnek tekintheti az általa meghozott döntéssel.

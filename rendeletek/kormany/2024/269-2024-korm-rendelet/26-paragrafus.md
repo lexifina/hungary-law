@@ -1,0 +1,1 @@
+26. § Ha a légijármű nem rendelkezik más hatóság által kiadott típusalkalmassági bizonyítvánnyal, a 4. § szerinti kérelem benyújtásával egyidejűleg a gyártó vagy a fenntartó kezdeményezi a légijármű típusalkalmassági vizsgálatát.

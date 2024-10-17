@@ -1,0 +1,1 @@
+16. § Az engedélyes kérelmezheti a már meglévő működési engedélyében foglalt tevékenység kiterjesztését. A kiterjesztésre irányuló eljárást a Hatóság a működési engedély kiadására irányuló eljárás szabályai szerint folytatja le.
