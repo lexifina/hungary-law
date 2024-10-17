@@ -1,3 +1,0 @@
-## VI. Fejezet
-
-## A GYÁRTÁS, JAVÍTÁS ÉS A KARBANTARTÁS SZAKMAI FELTÉTELEI

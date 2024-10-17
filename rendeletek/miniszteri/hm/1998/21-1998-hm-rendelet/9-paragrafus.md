@@ -1,1 +1,0 @@
-## 8. § Ha a külföldről beszerzett légijármű nem rendelkezik a gyártó állam illetékes hatósága által kiadott típusalkalmassági, illetve légialkalmassági bizonyítvánnyal, a Hatóságtól kérni kell a légijármű típusalkalmasságának megállapítását.
