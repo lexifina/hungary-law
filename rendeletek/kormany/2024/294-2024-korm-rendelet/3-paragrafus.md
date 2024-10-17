@@ -1,0 +1,1 @@
+3. § A 2. § szerinti képzettségi követelményeknek és szakmai gyakorlatnak, tapasztalatnak történő megfelelést a kriptoeszköz-szolgáltató ellenőrzi a vele jogviszonyban álló személy vonatkozásában a kriptoeszközökre vonatkozó tanácsadási, illetve információnyújtási tevékenység végzését megelőzően, új jogviszony létesítése esetén pedig a jogviszony kezdetét megelőzően.

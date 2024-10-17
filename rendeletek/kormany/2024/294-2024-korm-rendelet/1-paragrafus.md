@@ -1,0 +1,1 @@
+1. § E rendelet hatálya kiterjed – a kriptoeszközök piacáról szóló 2024. évi VII. törvényben foglaltak alapján – a kriptoeszköz-szolgáltató nevében kriptoeszközökre vonatkozó tanácsadást, illetve információt nyújtó természetes személy e szolgáltatás nyújtásához szükséges ismereteinek és szakmai gyakorlatának, tapasztalatának értékelésére.

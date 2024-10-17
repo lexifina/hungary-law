@@ -1,0 +1,1 @@
+A Kormány a kriptoeszközök piacáról szóló 2024. évi VII. törvény 13. § (1) bekezdésében kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
