@@ -1,1 +1,3 @@
-67. § Hatályát veszti az állami légijárművek nyilvántartásáról, gyártásáról és javításáról, valamint a típus- és légialkalmasságáról szóló 21/1998. (XII. 21.) HM rendelet.
+67. §[^1]
+
+[^1]: A 67. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
