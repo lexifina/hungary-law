@@ -14,11 +14,11 @@ c) a hadiipari kutatás, fejlesztés, gyártás és kereskedelem tekintetében a
 
 d) a hadiipari kutatás, fejlesztés, gyártás és kereskedelem tekintetében a nemzeti kiberbiztonsági tanúsítási rendszerekre figyelemmel a tanúsítási rendszereket,
 
-e)
+e) a biztonsági események kezelésére, műszaki vizsgálatára és az állami és önkormányzati szervek elektronikus információbiztonságáról szóló törvény szerinti eseménykezelő központ részére történő bejelentésre vonatkozó részletes szabályokat,
 
-f)
+f) az SZTFH és az állami és önkormányzati szervek elektronikus információbiztonságáról szóló törvény szerinti hatóságok közötti együttműködés és adatszolgáltatás rendjére vonatkozó részletes szabályokat, valamint
 
-g)
+g) az SZTFH által az érintett szervezettel és az auditorral szemben kiszabható bírság mértékét, megállapításának szempontrendszerét, valamint a bírság megfizetése módjának részletes eljárási szabályait.
 
 (2) Felhatalmazást kap a Kormány, hogy rendeletben kijelölje a 4. § (1) bekezdés b) pontja szerinti tanúsító hatóságot.
 
@@ -32,17 +32,17 @@ c) a hadiipari kutatás, fejlesztés, gyártás és kereskedelem kivételével a
 
 d) a 20. § (5) bekezdése alapján kötelezően alkalmazandó nemzeti vagy európai kiberbiztonsági tanúsítási rendszer alapján tanúsított IKT-termékeket, IKT-szolgáltatásokat vagy IKT-folyamatokat, valamint az ezek alkalmazására kötelezett érintett szervezeteket,
 
-e)
+e) a kiberbiztonsági felügyelet és feladatellátás, továbbá a hatósági ellenőrzés lefolytatásának és az éves ellenőrzési terv elkészítésének részletes szabályait,
 
 f) az érintett szervezetek kiberbiztonsági felügyeleti hatósági nyilvántartásba vételének rendjét, valamint a nyilvántartás személyes adatnak nem minősülő adattartalmára vonatkozó részletes szabályokat,
 
-g)
+g) a biztonsági eseménykezelésben részt vevő közreműködő esetében a biztonsági események kezeléséhez szükséges feltételeket, valamint a biztonsági eseménykezelésben részt vevő közreműködő biztonsági események kezelésére vonatkozó szabályoknak és a biztonsági események kezeléséhez szükséges feltételeknek történő megfelelése tanúsítására vonatkozó részletes szabályokat,
 
 h) az auditorok nyilvántartásba vételi eljárásának rendjét, és az auditorral szemben támasztott követelményeket,
 
-i)
+i) a kiberbiztonsági audit lefolytatásának rendjét, valamint a kiberbiztonsági audit – általános forgalmi adó nélkül számított – legmagasabb díját, valamint
 
-j)
+j) a kiberbiztonsági felügyeleti díj mértékét, megfizetésének módját és időpontját.
 
 (4) Felhatalmazást kap a honvédelemért felelős miniszter, hogy rendeletben meghatározza
 
