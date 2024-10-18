@@ -2,7 +2,7 @@
 
 19. § (1) A Kormány
 
-a) az alapvető szolgáltatást nyújtó szolgáltatók, valamint a bejelentés-köteles szolgáltatást nyújtó szolgáltatók elektronikus információs rendszereit – a (2) bekezdés szerinti elektronikus információs rendszerek kivételével – érintő,
+a) a kiberbiztonsági tanúsításról és a kiberbiztonsági felügyeletről szóló törvény szerinti érintett szervezet elektronikus információs rendszerét érintő,
 
 b) az állami és önkormányzati elektronikus információs rendszerek működését biztosító infokommunikációs infrastruktúrát, illetve – a (2) bekezdés szerinti elektronikus információs rendszerek kivételével – a 2. §-ban meghatározott szervek nyílt elektronikus információs rendszereit érintő,
 
