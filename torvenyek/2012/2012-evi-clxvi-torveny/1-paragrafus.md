@@ -4,19 +4,11 @@
 
 a) ágazati kritérium: azok a szempontok, az azokhoz tartozó küszöbértékek, műszaki vagy funkcionális tulajdonságok, amelyek egy eszköz, létesítmény rendszerelemének megzavarása vagy megsemmisítése (a továbbiakban együtt: kiesés) által kiváltott hatásra vonatkoznak, és amelyek teljesülése esetén az eszköz, létesítmény, rendszer vagy azok része létfontosságú rendszerelemmé jelölhető ki azzal szoros összefüggésben, hogy mely ágazatba tartozik,
 
-b) alapvető szolgáltatás: a kritikus társadalmi vagy gazdasági tevékenységek fenntartásához szükséges, elektronikus információs rendszertől függő, az alapvető szolgáltatások jegyzékében feltüntetett szolgáltatás,
+b)
 
-c) alapvető szolgáltatások jegyzéke: az alapvető szolgáltatások listája, amely az érintett központi államigazgatási szervek bevonásával kerül összeállításra és kormányrendeletben meghatározásra,
+c)
 
-d) alapvető szolgáltatást nyújtó szereplő: az a szervezet vagy gazdasági szereplő, amely
-
-da) alapvető szolgáltatást nyújt,
-
-db) az általa nyújtott alapvető szolgáltatás elektronikus információs rendszerektől függ,
-
-dc) az általa nyújtott alapvető szolgáltatást érintő biztonsági esemény – kormányrendeletben meghatározott – jelentős zavart okozna szolgáltatás nyújtásában és
-
-dd) az erre irányuló eljárásban alapvető szolgáltatást nyújtó szereplőként került azonosításra,
+d)
 
 e) EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam,
 
