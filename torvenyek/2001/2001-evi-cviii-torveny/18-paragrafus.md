@@ -8,7 +8,7 @@ c) az Európai Parlament és a Tanács 2002/58/EK irányelve (2002. július 12.)
 
 d) az Európai Parlament és a Tanács 524/2013/EU rendelete (2013. május 21.) a fogyasztói jogviták online rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról, 14. cikk (1) és (2) bekezdése. [16/A. § (1) bekezdés];
 
-e) az Európai Parlament és a Tanács (EU) 2016/1148 irányelve (2016. július 6.) a hálózati és információs rendszerek biztonságának az egész Unióban egységesen magas szintjét biztosító intézkedésekről;
+e)
 
 f) az Európai Parlament és a Tanács (EU) 2018/1808 irányelve (2018. november 14.) a tagállamok audiovizuális médiaszolgáltatások nyújtására vonatkozó egyes törvényi, rendeleti vagy közigazgatási rendelkezéseinek összehangolásáról szóló 2010/13/EU irányelvnek (Audiovizuális médiaszolgáltatásokról szóló irányelv) a változó piaci körülményekre tekintettel való módosításáról [1. § (1a) és (1b) bekezdése, 2. § l) pont lf) alpontja, valamint o)–r), w)–y) pontja, 15/C–15/W. §]
 

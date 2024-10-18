@@ -6,4 +6,4 @@
 
 (3) A közvetítő szolgáltatónak a biztonsági események kezelésével és kivizsgálásával kapcsolatos feladatait a Kormány rendeletben határozza meg.
 
-(4) A 6/B. § (3) bekezdés szerinti hatóság kormányrendeletben meghatározott mértékű bírságot szabhat ki, ha a közvetítő szolgáltató nem teljesíti a (3) bekezdés szerinti feladatait.
+(4) A Kormány által rendeletben kijelölt hatóság kormányrendeletben meghatározott mértékű bírságot szabhat ki, ha a közvetítő szolgáltató nem teljesíti a (3) bekezdés szerinti feladatait.

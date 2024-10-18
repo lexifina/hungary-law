@@ -6,13 +6,7 @@
 
 2. Anyavállalat: olyan vállalat, amely egy vagy több leányvállalat felett kontrollt gyakorol;
 
-3. Bejelentés-köteles szolgáltatás: olyan információs társadalommal összefüggő szolgáltatás – ide nem értve az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény 2. § (2) bekezdésének a) és b) pontja hatálya alá tartozók által nyújtott szolgáltatásokat –, amely
-
-a) a fogyasztói jogviták alternatív rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról szóló, 2013. május 21-i 2013/11/EU európai parlamenti és tanácsi irányelv 4. cikke (1) bekezdésének a) és b) pontjában meghatározott fogyasztók, illetve kereskedők számára lehetővé teszi, hogy az online piactér weboldalán vagy valamely kereskedőnek az online piactér által nyújtott számítástechnikai szolgáltatásokat felhasználó weboldalán keresztül online adásvételi vagy szolgáltatási szerződéseket kössenek (online piactér),
-
-b) a 13. pont d) alpontja szerinti szolgáltatás,
-
-c) távoli hozzáférést tesz lehetővé a többek között hálózati funkciókat, adattárolást, alkalmazások, szolgáltatások futtatását biztosító számítástechnikai megoldásokhoz (felhőalapú számítástechnikai szolgáltatás);
+3.
 
 4. Elektronikus kereskedelmi szolgáltatás: olyan információs társadalommal összefüggő szolgáltatás, amelynek célja valamely birtokba vehető forgalomképes ingó dolog – ideértve a pénzt és az értékpapírt, valamint a dolog módjára hasznosítható természeti erőket –, szolgáltatás, ingatlan, vagyoni értékű jog (a továbbiakban együtt: áru) üzletszerű értékesítése, beszerzése, cseréje vagy más módon történő igénybevétele;
 

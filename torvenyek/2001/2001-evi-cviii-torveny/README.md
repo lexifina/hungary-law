@@ -29,3 +29,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-108-00-00
 | 2024-02-17 | 2023. évi CIV. törvény | 2001-108-00-00.35 |
 | 2024-06-19 | 2024. évi XXIX. törvény | 2001-108-00-00.36 |
 | 2024-07-01 | 2024. évi XXXI. törvény | 2001-108-00-00.37 |
+| 2024-10-18 | 2023. évi XXIII. törvény | 2001-108-00-00.34 |
