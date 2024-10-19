@@ -1,5 +1,3 @@
-1. § A kiberbiztonsági bírságok mértékéről, a bírság kiszabásának és befizetésének részletes eljárási szabályairól szóló 305/2023. (VII. 11.) Korm. rendelet (a továbbiakban: R.) 1. §-a helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„1. § (1) A kiberbiztonsági tanúsító hatóság feladatait a kiberbiztonsági tanúsításról és a kiberbiztonsági felügyeletről szóló 2023. évi XXIII. törvény (a továbbiakban: Kibertan.tv.) 4. § (1) bekezdés a) pontja alapján ellátó Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: Hatóság), valamint a hadiipari kutatással, fejlesztéssel, gyártással és kereskedelemmel összefüggő kiberbiztonsági tanúsító hatósági feladatok tekintetében a Kormány által a Kibertan.tv. 4. § (1) bekezdés b) pontja alapján kijelölt hatóság (a továbbiakban együtt: tanúsító hatóság) a Kibertan.tv. 15. § (2) bekezdése alapján az európai uniós jogi aktusok és a magyar jogszabályok megsértése (a továbbiakban: szabálytalanság) miatt az 1. mellékletben meghatározott mértékű bírságot szab ki.
-
-(2) A Kibertan.tv. 22. § (1) bekezdése alapján a Hatóság mint a kiberbiztonsági felügyeletet ellátó hatóság (a továbbiakban: felügyeleti hatóság), a Kibertan.tv. 24. § (2) bekezdése szerint a Kibertan.tv. 17. § (1) bekezdése szerinti érintett szervezettel szemben a 2. mellékletben meghatározott mértékű bírságot szab ki.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

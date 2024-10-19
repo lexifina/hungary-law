@@ -1,3 +1,3 @@
-2. § Az R. 2. § (3) bekezdése helyébe a következő rendelkezés lép:
+2. §[^3]
 
-„(3) A tanúsító hatóság a bírságot ugyanazon tényállás mellett a Kibertan.tv. 15. § (1) bekezdése alapján meghatározott határidő eredménytelen elteltét követően ismételten kiszabhatja.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

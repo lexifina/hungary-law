@@ -1,7 +1,3 @@
-5. § Az R.
+5. §[^6]
 
-a) 2. § (1) bekezdésében az „a tanúsító hatóság” szövegrészek helyébe az „a tanúsító hatóság vagy a felügyeleti hatóság” szöveg,
-
-b) 1. melléklet címében az „Az egyes szabálytalanságok miatt kiszabható” szövegrész helyébe az „A tanúsító hatóság által kiszabható” szöveg
-
-lép.
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
