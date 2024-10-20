@@ -118,7 +118,7 @@
 
 | 56. | Földtani szakértő nyilvántartásba vétele | 32 000 | A1440 |
 
-| 57. | Robbantómesteri, robbantásvezetői engedély kiadása |  | 21 000 | A1450 |
+| 57. | Robbantómesteri, robbantásvezetői engedély kiadása | az Általános Robbantási Biztonsági Szabályzatról szóló 27/2022. (I. 31.) SZTFH rendelet szerinti érvényességi körönként | 21 000 | A1450 |
 
 | 58. | Vezetékjog engedélyezésével kapcsolatos eljárások | Előmunkálati jog engedélyezése megkezdett km-enként | 21 000 | A1510 |
 
@@ -260,4 +260,4 @@
 
 4. Polgári robbantási, robbanóanyag-forgalmazási tevékenység engedélyezésének díjai, egyes robbanóanyagok és tárgyak, illetve egyes anyagok besorolásának jóváhagyása
 
-[^5]: Az 1. melléklet a 33/2022. (VII. 29.) SZTFH rendelet 4. §-a és 5. §-a, a 40/2022. (XII. 19.) SZTFH rendelet 22. §-a, 23. § a)–d) pontja és 24. § a) és b) pontja, a 17/2023. (VII. 31.) SZTFH rendelet 1. és 2. §-a, a 22/2023. (XI. 21.) SZTFH rendelet 1. §-a szerint módosított szöveg.
+[^5]: Az 1. melléklet a 33/2022. (VII. 29.) SZTFH rendelet 4. §-a és 5. §-a, a 40/2022. (XII. 19.) SZTFH rendelet 22. §-a, 23. § a)–d) pontja és 24. § a) és b) pontja, a 17/2023. (VII. 31.) SZTFH rendelet 1. és 2. §-a, a 22/2023. (XI. 21.) SZTFH rendelet 1. §-a, a 16/2024. (IX. 19.) SZTFH rendelet 17. § (1) bekezdése szerint szerint módosított szöveg.
