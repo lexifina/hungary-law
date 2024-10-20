@@ -1,194 +1,278 @@
-## 6. §[^8] E rendeletnek a Nemzeti Akkreditáló Hatóság eljárásaiért fizetendő igazgatási szolgáltatási díjakról szóló 45/2015. (XII. 30.) NGM rendelet módosításáról szóló 2/2017. (III. 22.) NGM rendelettel (a továbbiakban: Módrendelet) megállapított 1. § (5) bekezdését és 1. mellékletét a Módrendelet hatálybalépésekor[^9] folyamatban lévő eljárásokban is alkalmazni kell.
+## 6. §[^15] E rendeletnek a Nemzeti Akkreditáló Hatóság eljárásaiért fizetendő igazgatási szolgáltatási díjakról szóló 45/2015. (XII. 30.) NGM rendelet módosításáról szóló 2/2017. (III. 22.) NGM rendelettel (a továbbiakban: Módrendelet) megállapított 1. § (5) bekezdését és 1. mellékletét a Módrendelet hatálybalépésekor[^16] folyamatban lévő eljárásokban is alkalmazni kell.
 
-1. melléklet a 45/2015. (XII. 30.) NGM rendelethez[^10]
+1. melléklet a 45/2015. (XII. 30.) NGM rendelethez[^17]
 
-Akkreditálási eljárásért fizetendő igazgatási szolgáltatási díjak (Ft)
+Akkreditálási eljárásért fizetendő igazgatási szolgáltatási díjak
 
-1. Vizsgálólaboratóriumok:
+1. Vizsgálólaboratóriumok, orvosi vizsgálólaboratóriumok, mintavevő szervezetek:
 
-## 1X04494M_0
+|  | A | B |
 
-| Létszám (fő) |  |  |  |  |  |
+| 1. | Területek darabszáma | Díj (Ft) |
 
-| Terület | 1–2 | 3–5 | 6–10 | 11–15 | 16–20 |
+| 2. | 1–15 | 900 000 |
 
-| 1–15 | 350 000 | 490 000 | 660 000 | 710 000 | 770 000 |
+| 3. | 16–50 | 1 060 000 |
 
-| 16–50 | 390 000 | 630 000 | 720 000 | 790 000 | 850 000 |
+| 4. | 51–100 | 1 210 000 |
 
-| 51–100 |  | 700 000 | 780 000 | 850 000 | 940 000 |
+| 5. | 101–200 | 1 370 000 |
 
-| 101–200 |  | 770 000 | 850 000 | 930 000 | 1090 000 |
+| 6. | 201–350 | 1 690 000 |
 
-| 201–350 |  | 870 000 | 980 000 | 1070 000 | 1220 000 |
+| 7. | 351–600 | 2 000 000 |
 
-| 351–600 |  |  | 1 090 000 | 1 200 000 | 1 370 000 |
+| 8. | 601–1000 | 2 320 000 |
 
-| 601–1000 |  |  | 1 210 000 | 1 330 000 | 1 430 000 |
+| 9. | Minden további 500 területenként | +100 000 |
 
-| >1000 |  |  |  | 1 480 000 | 1 730 000 |
+1.1. A terület a vizsgálólaboratóriumban és a helyszínen végzett akkreditálandó vizsgálati eljárások száma, továbbá – amennyiben a vizsgálólaboratórium mintavételre is kéri akkreditálását – az akkreditálandó mintavételi eljárások együttes száma alapján határozandó meg. Vizsgált termékenként/anyagonként egy vizsgálati eljárásnak számít minden olyan vizsgált/mért jellemző meghatározása, amelynek mérését az akkreditálási kérelem felsorolja. Ha egy szabványos vagy egy egyedi módszerrel több jellemzőt mérnek, akkor az annyi vizsgálati eljárásnak számít, ahány jellemzőt a kérelem felsorol. Ha egy jellemző többféle módszerrel történő mérését tartalmazza a kérelem, akkor az annyi vizsgálati eljárásnak számít, ahányféle módszerről van szó.
 
-| Létszám (fő) |  |  |  |  |
+1.2. A terület mintavevő szervezetek esetén az akkreditálandó mintavételi eljárások száma alapján határozandó meg.
 
-| Terület | 21–30 | 31–60 | 61–100 | >100 |
+2. Kalibrálólaboratóriumok:
 
-| 1–15 |  |  |  |  |
+|  | A | B |
 
-| 16–50 | 910 000 | 1 000 000 |  |  |
+| 1. | Területek darabszáma | Díj (Ft) |
 
-| 51–100 | 1000 000 | 1 100 000 | 1 220 000 |  |
+| 2. | 1 | 900 000 |
 
-| 101–200 | 1 130 000 | 1 200 000 | 1 310 000 | 1 430 000 |
+| 3. | 2 | 1 060 000 |
 
-| 201–350 | 1 280 000 | 1 300 000 | 1 430 000 | 1 560 000 |
+| 4. | 3 | 1 060 000 |
 
-| 351–600 | 1 430 000 | 1 420 000 | 1 560 000 | 1 710 000 |
+| 5. | 4 | 1 210 000 |
 
-| 601–1000 | 1 560 000 | 1 560 000 | 1 740 000 | 1 910 000 |
+| 6. | 5 | 1 370 000 |
 
-| >1000 | 1 740 000 | 1 820 000 | 1 960 000 | 2 170 000 |
+| 7. | 6 | 1 530 000 |
 
-1.1. A szervezet létszáma az akkreditálandó tevékenységre és területen foglalkoztatott, munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személyek száma alapján határozandó meg.
+| 8. | 7 | 1 690 000 |
 
-1.2. A terület a vizsgálólaboratóriumban és a helyszínen végzett akkreditálandó vizsgálati eljárások számát, továbbá
+| 9. | 8 | 1 840 000 |
 
-– amennyiben a vizsgálólaboratórium mintavételre is kéri akkreditálását – az akkreditálandó mintavételi eljárások együttes száma alapján határozandó meg.
+| 10. | 9 | 2 000 000 |
 
-2. Mintavevő szervezetek:
+| 11. | 10 | 2 160 000 |
 
-| Létszám (fő) |  |  |  |  |  |
+| 12. | 11 | 2 320 000 |
 
-| Terület | 1–2 | 3–5 | 6–10 | 11–15 | >15 |
+| 13. | Minden további területenként | +100 000 |
 
-| 1–5 | 440 000 | 530 000 | 610 000 | 730 000 |  |
+2.1. A terület a kalibrálólaboratóriumban és a helyszínen akkreditálandó kalibrálási eljárások száma alapján határozandó meg.
 
-| 6–10 | 570 000 | 630 000 | 740 000 | 930 000 | 1 180 000 |
+2.2. A kalibrálási eljárások számának meghatározása
 
-| >10 |  | 710 000 | 880 000 | 1 140 000 | 1 330 000 |
+## Kalibrálólaboratóriumok esetén a 2.1. pontban hivatkozott kalibrálási eljárások száma a kalibrálási eljárások felépítése és tartalmára vonatkozó NAR-18 dokumentum figyelembevételével határozható meg. Ennek értelmében, amennyiben a kalibrálási eljárás (azonosítójától függetlenül)
 
-2.1. A szervezet létszáma az akkreditálandó tevékenységre és területen foglalkoztatott, munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személyek száma alapján határozandó meg.
+## – különböző mérési elv, mérési módszer vagy mérési modell szerinti kalibrálásokat tartalmaz, vagy
 
-2.2. A terület az akkreditálandó mintavételi eljárások száma alapján határozandó meg.
+## – laboratóriumi és helyszíni kalibrálásokat is tartalmaz,
 
-3. Kalibrálólaboratóriumok:
+## nem tekinthető egy kalibrálási eljárásnak.
 
-| Létszám (fő) |  |  |  |  |  |
+## (Megjegyzés: a mérési elv, a mérési módszer és a mérési modell fogalmait a Nemzetközi Metrológiai Értelmező Szótár határozza meg.)
 
-| Terület | 1–2 | 3–5 | 6–10 | 11–15 | >15 |
+3. Jártassági vizsgálatot szervező szervezetek:
 
-| 1–2 | 320 000 | 350 000 | 420 000 |  |  |
+|  | A | B |
 
-| 3–5 | 390 000 | 420 000 | 480 000 | 530 000 |  |
+| 1. | Területek darabszáma | Díj (Ft) |
 
-| 6–10 | 480 000 | 530 000 | 600 000 | 630 000 | 680 000 |
+| 2. | 1 | 900 000 |
 
-| 11–20 | 570 000 | 610 000 | 670 000 | 700 000 | 740 000 |
+| 3. | 2 | 1 060 000 |
 
-| 21–30 |  | 660 000 | 740 000 | 770 000 | 810 000 |
+| 4. | 3 | 1 060 000 |
 
-| >31 |  | 740 000 | 790 000 | 830 000 | 880 000 |
+| 5. | 4 | 1 210 000 |
 
-3.1. A szervezet létszáma az akkreditálandó tevékenységre és területen foglalkoztatott, munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személyek száma alapján határozandó meg.
+| 6. | 5 | 1 370 000 |
 
-3.2. A terület a kalibrálólaboratóriumban és a helyszínen végzett akkreditálandó kalibrálási eljárások száma alapján határozandó meg.
+| 7. | 6 | 1 530 000 |
 
-4. Jártassági vizsgálatot szervező szervezetek:
+| 8. | 7 | 1 690 000 |
 
-| Létszám (fő) |  |  |
+| 9. | 8 | 1 840 000 |
 
-| Terület | 2–5 | >5 |
+| 10. | 9 | 2 000 000 |
 
-| 1–5 | 440 000 | 530 000 |
+| 11. | 10 | 2 160 000 |
 
-| >5 | 570 000 | 660 000 |
+| 12. | 11 | 2 320 000 |
 
-4.1. A szervezet létszáma az akkreditálandó tevékenységre és területen foglalkoztatott, munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személyek száma alapján határozandó meg.
+| 13. | Minden további területenként | +100 000 |
 
-4.2. A terület a különböző területeken működtetett akkreditálandó programok száma alapján határozandó meg.
+3.1. A terület a különböző területeken működtetett akkreditálandó programok száma alapján határozandó meg.
 
-5. Terméktanúsító szervezetek:
+4. Terméktanúsító szervezetek:
 
-| Létszám (fő) |  |  |  |  |  |
+|  | A | B |
 
-| Terület | 3–5 | 6–10 | 11–15 | 16–20 | >20 |
+| 1. | Területek darabszáma | Díj (Ft) |
 
-| 1–10 | 530 000 | 700 000 | 770 000 | 850 000 |  |
+| 2. | 1–5 | 900 000 |
 
-| 11–20 | 600 000 | 770 000 | 950 000 | 920 000 | 1 010 000 |
+| 3. | 6–10 | 1 060 000 |
 
-| 21–50 | 670 000 | 840 000 | 1 025 000 | 1 130 000 | 1 090 000 |
+| 4. | 11–25 | 1 210 000 |
 
-| 51–100 | 750 000 | 1 050 000 | 1 100 000 | 1 220 000 | 1 180 000 |
+| 5. | 26–50 | 1 530 000 |
 
-| 101–200 | 830 000 | 1 150 000 | 1 200 000 | 1 310 000 | 1 280 000 |
+| 6. | minden további 50 területenként | +100 000 |
 
-| 201–350 | 960 000 | 1 250 000 | 1 300 000 | 1 400 000 | 1 380 000 |
+4.1. A terület az akkreditálás tárgyát képező tanúsítandó termékek vagy termékcsoportok számát jelenti, ahol egy termékcsoportba csak az azonos tanúsítási követelményeknek megfelelő termékek tartoznak.
 
-| 351–600 |  | 1 370 000 | 1 250 000 | 1 330 000 | 1 490 000 |
+5. Irányítási rendszereket tanúsító szervezetek:
 
-| >600 |  | 1 310 000 | 1 360 000 | 1 440 000 | 1 620 000 |
+5.1. Több területre alkalmazott irányítási rendszerek (minőségirányítási rendszer, környezetközpontú irányítási rendszer, munkahelyi egészségvédelem és biztonságirányítási rendszer, élelmiszer-biztonsági irányítási rendszerek, AQAP rendszer, orvostechnikai eszközöket gyártó szervezetek minőségirányítási rendszere, egyéb rendszerek) esetén:
 
-5.1. A szervezet létszáma az akkreditálandó tevékenységre és területen foglalkoztatott, munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személyek száma alapján határozandó meg.
+|  | A | B |
 
-5.2. A terület az akkreditálás tárgyát képező tanúsítandó termékek vagy termékcsoportok számát jelenti, ahol egy termékcsoportba csak az azonos tanúsítási követelményeknek megfelelő termékek tartoznak.
+| 1. | Területek darabszáma | Díj (Ft) |
 
-6. Irányítási rendszereket tanúsító szervezetek:
+| 2. | 1–5 | 900 000 |
 
-6.1. Több területre alkalmazott irányítási rendszerek (minőségirányítási rendszer, környezetközpontú irányítási rendszer, munkahelyi egészségvédelem és biztonságirányítási rendszer, élelmiszerbiztonsági irányítási rendszerek, AQAP rendszer, egyéb rendszerek) esetén:
+| 3. | 6–10 | 1 060 000 |
 
-| Létszám (fő) | 3–5 | 6–10 | 11–15 | 16–20 | >20 |
+| 4. | 11–20 | 1 370 000 |
 
-| Terület |
+| 5. | 21–30 | 1 690 000 |
 
-| 1–5 | 570 000 | 702 000 |  |  |  |
+| 6. | 31–39 | 2 000 000 |
 
-| 6–10 | 860 000 | 1 040 000 | 1 115 000 | 1 260 000 |  |
+5.1.1. Az orvostechnikai eszközöket gyártó szervezetek minőségirányítási rendszere a Nemzetközi Akkreditálási Fórum (IAF) által kiadott – a területeket meghatározó – dokumentum mellékletében felsorolt technikai területek számát jelenti.
 
-| 11–20 | 1 130 000 | 1 290 000 | 1 400 000 | 1 470 000 | 1 540 000 |
+5.1.2. A terület a Nemzetközi Akkreditálási Fórum által kiadott akkreditálási területek jegyzékére vonatkozó dokumentum mellékletében felsorolt IAF kódok számát jelenti. A területet élelmiszer-biztonsági irányítási rendszer esetén a vonatkozó szabványban felsorolt fő kategóriák számát jelenti, az energiairányítási rendszereknél a vonatkozó szabványban felsorolt gazdasági területek számát jelenti.
 
-| 21–39 |  | 1 450 000 | 1 550 000 | 1 620 000 | 1 710 000 |
+5.1.3. A terület más irányítási rendszer esetén (minőségirányítási rendszer, környezetközpontú irányítási rendszer, munkahelyi egészségvédelem és biztonságirányítási rendszer, energiairányítási rendszer, AQAP rendszer, egyéb rendszerek) a Nemzetközi Akkreditálási Fórum által kiadott akkreditálási területek mellékletében felsorolt 1– IAF kódok közül az akkreditálandó IAF kódok számát jelenti.
 
-6.1.1. A szervezet létszáma az akkreditálandó tevékenységre és területen foglalkoztatott, munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személyek száma alapján határozandó meg, beleértve a tanúsító szervezet auditorait is.
+5.2. Egy területre alkalmazott speciális irányítási rendszerek (információbiztonság-irányítási rendszerek, PEFC, AKIR, VIR, Magyar Egészségügyi Ellátási Standardok) esetén a díj egységesen 900 000 Ft.
 
-6.1.2. A terület a Nemzetközi Akkreditálási Fórum által kiadott akkreditálási területek jegyzékére vonatkozó dokumentum mellékletében felsorolt IAF kódok számát jelenti. A területet élelmiszerbiztonsági irányítási rendszer esetén a vonatkozó szabványban felsorolt fő kategóriák számát jelenti, az energiairányítási rendszereknél a vonatkozó szabványban felsorolt gazdasági területek számát jelenti.
+5.3. Irányítási rendszereket tanúsító szervezet kettő vagy több rendszerre történő, egyidejű akkreditálása esetében az akkreditálási díjhoz (a továbbiakban: alapdíj) hozzáadódik minden további irányításirendszer-tanúsítás akkreditálási díjának meghatározott százaléka, a következők szerint:
 
-6.1.3. A terület más irányítási rendszer esetén (minőségirányítási rendszer, környezetközpontú irányítási rendszer, munkahelyi egészségvédelem és biztonságirányítási rendszer, energiairányítási rendszer, AQAP rendszer, egyéb rendszerek) a Nemzetközi Akkreditálási Fórum által kiadott akkreditálási területek mellékletében felsorolt 1–39 IAF kódok közül az akkreditálandó IAF kódok számát jelenti.
+|  | A | B | C | D | E | F | G |
 
-6.2. Egy területre alkalmazott speciális irányítási rendszerek (információbiztonság-irányítási rendszerek, orvostechnikai eszközöket gyártó szervezetek minőségirányítási rendszere, Magyar Egészségügyi Ellátási Standardok) esetén:
+| 1. | Irányítási rendszerek tanúsításának száma | 1 | 2 | 3 | 4 | 5 | További irányítási rendszerek |
 
-| Létszám (fő) | 3–5 | 6–10 | 11–15 | 16–20 | >20 |
+| 2. |  | alapdíj | +50% | +40% | +30% | +20% | +10% |
 
-|  | 750 000 | 820 000 | 920 000 | 1 010 000 | 1 230 000 |
+## Az alapdíj meghatározásakor első területként minden esetben a MIR IAF kódok számát kell figyelembe venni. Ha a kérelem nem érint MIR területet, akkor az alapdíj a több IAF kódot tartalmazó irányítási rendszer figyelembevételével kerül megállapításra.
 
-6.2.1. A szervezet létszáma az akkreditálandó tevékenységre és területen foglalkoztatott, munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személyek száma alapján határozandó meg, beleértve a tanúsító szervezet auditorait is.
+6. Személytanúsító szervezetek:
 
-7. Személyzettanúsító szervezetek:
+|  | A | B |
 
-| Létszám (fő) |  |  |  |  |  |
+| 1. | Területek darabszáma | Díj (Ft) |
 
-| Terület | 3–5 | 6–10 | 11–15 | 16–20 | >20 |
+| 2. | 1–2 | 900 000 |
 
-| 1–2 | 520 000 | 570 000 | 610 000 | 650 000 | 700 000 |
+| 3. | 3–5 | 1 060 000 |
 
-| 3–5 | 780 000 | 820 000 | 860 000 | 920 000 | 980 000 |
+| 4. | 6–10 | 1 370 000 |
 
-| 6–10 |  | 960 000 | 1020 000 | 1 070 000 | 1 112 000 |
+| 5. | 11–15 | 1 690 000 |
 
-| 11–15 |  | 1 160 000 | 1 210 000 | 1 260 000 | 1 330 000 |
+| 6. | minden további 5 területenként | +100 000 |
 
-| >15 |  |  |  | 1 440 000 | 1 530 000 |
+6.1. A terület az akkreditálandó személytanúsítás alapja által lefedett tanúsítások részletezett területeit jelentik.
 
-7.1. A szervezet létszáma az akkreditálandó tevékenységre és területen foglalkoztatott, munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személyek száma alapján határozandó meg, beleértve a tanúsító szervezet auditorait, vizsgáztatóit is.
+7. Ellenőrző szervezetek:
 
-7.2. A terület az akkreditálandó személytanúsítási típusok számát jelenti.
+|  | A | B |
 
-7.3. Akkreditált vizsgaközpontok tekintetében
+| 1. | Területek darabszáma | Díj (Ft) |
+
+| 2. | 1–5 | 900 000 |
+
+| 3. | 6–10 | 1 060 000 |
+
+| 4. | 11–25 | 1 370 000 |
+
+| 5. | 26–50 | 1 690 000 |
+
+| 6. | minden további 5 területenként | +100 000 |
+
+7.1. A terület az akkreditálandó eljárásban ellenőrzött termék és ellenőrzési típusok összessége szerint történik.
+
+8. Referenciaanyag-gyártó szervezetek:
+
+|  | A | B |
+
+| 1. | Területek darabszáma | Díj (Ft) |
+
+| 2. | 1–5 | 900 000 |
+
+| 3. | 6–20 | 1 210 000 |
+
+| 4. | minden további 5 területenként | +100 000 |
+
+8.1. A táblázatban megadott akkreditálási díj kizárólag a referenciaanyag-gyártásra vonatkozik, a tanúsított érték meghatározásához szükséges laboratóriumi vizsgálatok akkreditálásának díját nem tartalmazza.
+
+8.2. A terület a gyártott referenciaanyagok közül az akkreditálandók száma alapján határozandó meg.
+
+9. A környezetvédelmi vezetési és hitelesítési rendszert (EMAS) hitelesítő szervezetek és természetes személyek:
+
+9.1. Akkreditálási eljárás szervezetek esetén:
+
+|  | A | B |
+
+| 1. | Területek darabszáma | Díj (Ft) |
+
+| 2. | 1–15 | 900 000 |
+
+| 3. | 16–30 | 1 210 000 |
+
+| 4. | 31–50 | 1 690 000 |
+
+| 5. | 51–99 | 2 000 000 |
+
+9.1.1. A terület a Gazdasági Tevékenységek Egységes Ágazati Osztályozási Rendszere (TEÁOR’08) nomenklatúra szerinti ágazati kódok számát jelenti.
+
+9.2. Akkreditálási eljárás természetes személyek esetén:
+
+|  | A | B |
+
+| 1. | Területek darabszáma | Díj (Ft) |
+
+| 2. | 1–50 | 900 000 |
+
+| 3. | 51–100 | 1 060 000 |
+
+9.2.1. A terület a Gazdasági Tevékenységek Egységes Ágazati Osztályozási Rendszere (TEÁOR’08) nomenklatúra szerinti ágazati kódok számát jelenti.
+
+9.3. Más EU-tagállamban akkreditált környezeti hitelesítő szervezet és természetes személy ellenőrzése Magyarországon végzett tevékenysége alatt: 500 000 Ft.
+
+10. Az üvegházhatású gázok kibocsátását hitelesítő szervezetek:
+
+|  | A | B |
+
+| 1. | Területek darabszáma | Díj (Ft) |
+
+| 2. | 1a vagy 1b | 900 000 |
+
+| 3. | minden további területenként | +250 000 |
+
+10.1. A terület a 2003/87/EK európai parlamenti és tanácsi irányelv értelmében az üvegházhatású gázok kibocsátására vonatkozó adatokat tartalmazó jelentések és a tonnakilométer-adatokat tartalmazó jelentések hitelesítéséről, valamint a hitelesítők akkreditációjáról szóló, 2012. június 21-i 2018/2067/EU bizottság végrehajtási rendelet I. mellékletében felsorolt tevékenységcsoportokat jelenti, a tevékenységi csoportokon belül találhatóak az egyes alkalmazási körök.
+
+11. Biobankok:
+
+|  | A | B |
+
+| 1. | Területek darabszáma | Díj (Ft) |
+
+| 2. | 1 | 900 000 |
+
+| 3. | minden további terület | +300 000 |
+
+11.1. A terület megegyezik a biobank tevékenysége során felhasznált biológiai anyag-típus számával.
+
+12. Vizsgaközpontok:
 
 |  | A | B | C | D | E | F | G | H |
 
-| 1. | Létszám (fő): | 1–5 | 6–10 | 11–15 | 16–20 | 21–50 | 51–100 | >100 |
-
-| Képzési terület (KEOR): |  |  |  |  |  |  |  |
+| 1. | Képzési terület (KEOR) darabszáma: | Díj 1–5 fő létszám esetén (Ft) | Díj 6–10 fő létszám esetén (Ft) | Díj 11–15 fő létszám esetén (Ft) | Díj 16–20 fő létszám esetén (Ft) | Díj 21–50 fő létszám esetén (Ft) | Díj 51–100 fő létszám esetén (Ft) | Díj >100 fő létszám esetén (Ft) |
 
 | 2. | 1–2 | 1 020 000 | 1 070 000 | 1 120 000 | 1 170 000 | 1 250 000 | 1 330 000 | 1 410 000 |
 
@@ -214,132 +298,10 @@ Akkreditálási eljárásért fizetendő igazgatási szolgáltatási díjak (Ft)
 
 | 13. | > 61 | 12 220 000 | 12 890 000 | 13 550 000 | 14 220 000 | 15 220 000 | 16 220 000 | 17 220 000 |
 
-7.3.1. A szervezet létszámát az akkreditálandó tevékenységre és a területen foglalkoztatott, munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személyek száma alapján kell meghatározni, ideértve a vizsgaközpont vezetőjét, a vizsgáztatókat, a vizsgafelügyelőket, a belső auditort és a minőségirányítási vezetőt.
+12.1. A szervezet létszámát az akkreditálandó tevékenységre és a területen foglalkoztatott, munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személyek száma alapján kell meghatározni, ideértve a vizsgaközpont vezetőjét, a vizsgáztatókat, a vizsgafelügyelőket, a belső auditort és a minőségirányítási vezetőt.
 
-7.3.2. A terület az akkreditálandó képzési területek számát jelenti.
+12.2. A terület az akkreditálandó képzési területek számát jelenti.
 
-8. Ellenőrző szervezetek:
-
-| Létszám (fő) |  |  |  |  |  |
-
-| Terület | 1–2 | 3–5 | 6–10 | 11–15 | 16–20 |
-
-| 1–2 | 440.000 | 470 000 | 510 000 | 570 000 | 650 000 |
-
-| 3–5 | 480 000 | 540 000 | 590 000 | 650 000 | 730 000 |
-
-| 6–15 | 530 000 | 610 000 | 660 000 | 730 000 | 810 000 |
-
-| 16–30 |  | 690 000 | 760 000 | 820 000 | 900 000 |
-
-| 31–50 |  |  | 860 000 | 930 000 | 1 000 000 |
-
-| >50 |  |  |  | 1 05 000 | 1140 000 |
-
-| Létszám (fő) |  |  |  |  |
-
-| Terület | 21–30 | 31–60 | 61–100 | >100 |
-
-| 1–2 |  |  |  |  |
-
-| 3–5 |  |  |  |  |
-
-| 6–15 | 900 000 | 990 000 | 1 070 000 | 1 160 000 |
-
-| 16–30 | 990 000 | 1 080 000 | 1 170 000 | 1 260 000 |
-
-| 31–50 | 1 080 000 | 1 180 000 | 1 270 000 | 1 350 000 |
-
-| >50 | 1 220 000 | 1 310 000 | 1 400 000 | 1 490 000 |
-
-8.1. A szervezet létszáma az akkreditálandó tevékenységre és területen foglalkoztatott, munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személyek száma alapján határozzák meg.
-
-8.2. A terület az akkreditálandó ellenőrzési eljárások száma alapján határozandó meg.
-
-9. Referenciaanyag-gyártó szervezetek:
-
-| Létszám (fő) |  |  |
-
-| Terület | 2–5 | >5 |
-
-| 1–5 | 331 000 | 375 000 |
-
-| 6–20 | 398 000 | 464 000 |
-
-| >20 | 530 000 | 618 000 |
-
-9.1. A táblázatban megadott akkreditálási díj kizárólag a referenciaanyag-gyártásra vonatkozik, a tanúsított érték meghatározásához szükséges laboratóriumi vizsgálatok akkreditálásának díját nem tartalmazza.
-
-9.2. A szervezet létszáma az akkreditálandó tevékenységre és területen foglalkoztatott, munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személyek száma alapján határozandó meg.
-
-9.3. A terület a gyártott referenciaanyagok közül az akkreditálandók száma alapján határozandó meg.
-
-10. A környezetvédelmi vezetési és hitelesítési rendszert (EMAS) hitelesítő szervezetek és természetes személyek:
-
-10.1. Akkreditálási eljárás
-
-| Létszám (fő) |  |  |  |  |  |
-
-| Terület | 2–5 | 6–10 | 11–15 | 16–20 | >20 |
-
-| 1–15 | 660 000 | 720 000 | 790 000 | 860 000 | 1 020 000 |
-
-| 16–30 | 750 000 | 810 000 | 880 000 | 960 000 | 1 050 000 |
-
-| 31–50 | 830 000 | 920 000 | 1 010 000 | 1 120 000 | 1 220 000 |
-
-| 51–100 | 1 010 000 | 1 120 000 | 1 190 000 | 1 270 000 | 1 360 000 |
-
-| 101–200 |  | 1 230 000 | 1 310 000 | 1 410 000 | 1 510 000 |
-
-| >200 |  |  | 1 450 000 | 1 540 000 | 1 670 000 |
-
-10.1.1. A szervezet létszáma az akkreditálandó tevékenységre és területen foglalkoztatott, munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személyek száma alapján határozandó meg, beleértve a szervezet auditorait is.
-
-10.1.2. A terület a KSH elnökének a gazdasági tevékenységek egységes ágazati osztályozási rendszeréről szóló 9002/2007. (SK 3.) KSH közleménye szerinti szakágazati besorolási kódok számát jelenti.
-
-| Terület | Természetes személy |
-
-| 1–15 | 350 000 |
-
-| 16–30 | 390 000 |
-
-| 31–50 | 440 000 |
-
-| 51–100 | 480 000 |
-
-10.1.3. A terület a KSH elnökének a gazdasági tevékenységek egységes ágazati osztályozási rendszeréről szóló 9002/2007. (SK 3.) KSH közleménye szerinti szakágazati besorolási kódok számát jelenti.
-
-10.2. Más EU tagállamban akkreditált környezeti hitelesítő szervezet és természetes személy ellenőrzése Magyarországon végzett tevékenysége alatt:
-
-| Terület | Hitelesítő szervezet | Természetes személy |
-
-| 1–5 | 130 000 | 70 000 |
-
-| >5 | 180 000 | 130 000 |
-
-10.2.1. A szervezet létszáma az akkreditálandó tevékenységre és területen foglalkoztatott, munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személyek száma alapján határozandó meg, beleértve a szervezet auditorait is.
-
-10.2.2. A terület a KSH elnökének a gazdasági tevékenységek egységes ágazati osztályozási rendszeréről szóló 9002/2007. (SK 3.) KSH közleménye szerinti szakágazati besorolási kódok számát jelenti.
-
-11. Az üvegházhatású gázok kibocsátását hitelesítő szervezetek:
-
-| Létszám (fő) | 2–3 | 4–5 | 6–7 | 8–9 | 10–11 | 12–13 | 14–15 | >15 |
-
-| Terület |  |  |  |  |  |  |  |  |
-
-| 1a, 1b, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 | 720 000 | 850 000 | 970 000 | 1 100 000 | 1 230 000 | 1 360 000 | 1 480 000 | 1 910 000 |
-
-| 12, 98, 99 | 850 000 | 1 020 000 | 1 190 000 | 1 360 000 | 1 520 000 | 1 690 000 | 1 020 000 | 2 290 000 |
-
-| 1a és 1b (amely a 600/2012/EU bizottsági rendelet értelmében magában foglalja az 1a tevékenység- csoportot is) együttesen | 1 150 000 | 1 360 000 | 1 560 000 | 1 760 000 | 1 970 000 | 2 170 000 | 2 370 000 | 3 050 000 |
-
-11.1. A szervezet létszáma az akkreditálandó tevékenységcsoportra foglalkoztatott, munkaviszonyban vagy foglalkoztatásra irányuló egyéb jogviszonyban álló Európai Unió emisszió-kereskedelmi rendszer (EU ETS) vezető hitelesítő szakértők, EU ETS hitelesítő szakértők, külső szakértők és független bírálók száma alapján határozandó meg. A szervezet létszámába be kell számítani a minőségirányítási vezetőt, a belső auditort és a vezetőségi átvizsgálást végző személyeket is.
-
-11.2. A terület a 2003/87/EK európai parlamenti és tanácsi irányelv értelmében az üvegházhatású gázok kibocsátására vonatkozó adatokat tartalmazó jelentések és a tonnakilométer-adatokat tartalmazó jelentések hitelesítéséről, valamint a hitelesítők akkreditációjáról szóló, 2012. június 21-i 600/2012/EU bizottsági rendelet I. mellékletében felsorolt tevékenységcsoportokat jelenti, a tevékenységi csoportokon belül találhatóak az egyes alkalmazási körök.
-
-11.3. A díjat minden egyes tevékenységcsoportra és alkalmazási körre külön-külön meg kell fizetni. Azon tevékenységcsoportok száma alapján, amely alá a kérelmezett akkreditációs alkalmazási körök tartoznak, 5-5% kedvezményre jogosult a hitelesítő szervezet. Ezek a százalékos kedvezmények összeadódnak, és az így kiszámolt %-os kedvezmény az egyes tevékenységcsoporton belüli első akkreditációs alkalmazási körök díjaiból kerül levonásra. Az egyes tevékenységi csoportokon belüli további akkreditációs alkalmazási körök díja az ugyanazon csoport első tevékenységi körére vonatkozóan a fenti számításnak megfelelően meghatározott díjtétel 50%-ában határozandó meg.
-
-[^8]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 2/2017. (III. 22.) NGM rendelet 2. §-a iktatta be.
-[^9]: A hatálybalépés időpontja 2017. április 22.
-[^10]: Az 1. melléklet a 2/2017. (III. 22.) NGM rendelet 3. §-a, a 24/2021. (VI. 7.) ITM rendelet 1. §-a szerint módosított szöveg.
+[^15]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 2/2017. (III. 22.) NGM rendelet 2. §-a iktatta be.
+[^16]: A hatálybalépés időpontja 2017. április 22.
+[^17]: Az 1. melléklet a 35/2024. (IX. 19.) NGM rendelet 2. §-ával megállapított szöveg.
