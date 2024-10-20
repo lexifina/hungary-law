@@ -1,5 +1,5 @@
 ## 4. A bányafelügyelet részére fizetendő igazgatási szolgáltatási díjakról és egyéb eljárási költségekről, valamint a felügyeleti díj fizetésének részletes szabályairól szóló 9/2022. (I. 28.) SZTFH rendelet módosítása
 
-17. §[^17]
+17. § (1) A bányafelügyelet részére fizetendő igazgatási szolgáltatási díjakról és egyéb eljárási költségekről, valamint a felügyeleti díj fizetésének részletes szabályairól szóló 9/2022. (I. 28.) SZTFH rendelet (a továbbiakban: R3.) 1. melléklete az 1. melléklet szerint módosul.
 
-[^17]: A 17. § a 20. § (2) bekezdése alapján 2024. október 20-án lép hatályba.
+(2) Az R3. 2. melléklete a 2. melléklet szerint módosul.
