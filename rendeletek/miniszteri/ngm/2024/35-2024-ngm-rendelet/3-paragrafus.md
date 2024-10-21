@@ -1,7 +1,3 @@
-3. § A 45/2015. (XII. 30.) NGM rendelet
+3. §[^4]
 
-a) 1. § (3) bekezdésében a „másfélszerese” szövegrész helyébe az „1,3-szerese” szöveg,
-
-b) 1. § (6) bekezdésében az „A felügyeleti vizsgálati eljárás” szövegrész helyébe a „Vizsgaközpont esetén a felügyeleti vizsgálati eljárás” szöveg
-
-lép.
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
