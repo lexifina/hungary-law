@@ -1,0 +1,1 @@
+Az Országgyűlés Csárdi Antal országgyűlési képviselő mentelmi jogát a legfőbb ügyész T.KvFE.8218/2024/1-I. számú indítványára a helyszín biztosításával kapcsolatos és más szabálysértés gyanúja miatt a Dunakeszi Rendőrkapitányság mint szabálysértési hatóság előtt 13812/9/2024. ált. és 13812/11/2024. ált. számon indított ügyekben felfüggeszti.
