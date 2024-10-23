@@ -1,3 +1,3 @@
-105. §[^95]
+105. §[^97]
 
-[^95]: A 105. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^97]: A 105. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
