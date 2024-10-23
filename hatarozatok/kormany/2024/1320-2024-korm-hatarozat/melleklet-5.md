@@ -24,16 +24,6 @@
 
 | 12. | KEHOP-6.4.1-22-2023-00010 | Gyálai Holt-Tisza vízgazdálkodási infrastruktúrájának komplex fejlesztése | Országos Vízügyi Főigazgatóság (konzorciumvezető), Alsó-Tisza-vidéki Vízügyi Igazgatóság | 2 528 387 500 | 0 | 0 | 0 | 109 630 027 | 2 528 387 500 | 0 | 109 630 027 | 2 638 017 527 | A projekt célja a vízelvezető rendszer elemeinek fejlesztésével és rekonstrukciójával, valamint új vízpótlás létesítésével a VKI előírásainak megfelelően a jó állapot, illetve a jó ökológiai állapot elérése, a biodiverzitás növelése, a degradált állapotok megszüntetése az elérendő célkitűzés. A vízrendszerek természetes folyásirányának visszaállítása, megfelelő minőségű és mennyiségű vízpótlás biztosítása szintén a vizek jó állapotának elérését szolgálja. A vízelvezető rendszer elemeinek fejlesztésével, rekonstrukciójával és a tározási feltételek javításával csökkenthető a belvízi kockázat, mely az ÁKK célkitűzése. |
 
-5. melléklet az 1320/2024. (X. 22.) Korm. határozathoz
+5. melléklet az 1320/2024. (X. 22.) Korm. határozathoz[^4]
 
-Az 1023/2022. (I. 27.) Korm. határozat 1. mellékletében foglalt táblázat 20. sora helyébe a következő rendelkezés lép:
-
-|  | [A | B | C | D | E | F | G | H | I | J |
-
-| 1. | Kapcsolódó kormányhatározat | 2021. évi költségvetési év (nettó forint) | 2022. évi költségvetési év (nettó forint) | 2023. évi költségvetési év (nettó forint) | 2024. évi költségvetési év (nettó forint) | 2025. évi költségvetési év (nettó forint) | 2026. évi költségvetési év (nettó forint) | 2027. évi költségvetési év (nettó forint) | 2028. évi költségvetési év (nettó forint) | Összesen (nettó forint)] |
-
-„
-
-| 20. | 1821/2020. (XI. 18.) Korm. határozat | 0 | 0 | 0 | 10 987 731 481 | 681 110 185 | 0 | 0 | 0 | 11 668 841 666 |
-
-”
+[^4]: Az 5. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
