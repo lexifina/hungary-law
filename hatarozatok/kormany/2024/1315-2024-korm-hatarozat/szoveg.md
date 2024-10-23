@@ -2,4 +2,6 @@ A Kormány a vidéki Magyarország megújítása, a vidék gazdasági és népes
 
 1. egyetért azzal, hogy az agrárminiszter a 2014–2020 programozási időszakra vonatkozó indikatív támogatási keretösszegekről, valamint a kötelezettségvállalási szükségletről szóló 1207/2021. (IV. 29.) Korm. határozat 2. mellékletében foglalt táblázat 24. sora szerint a Vidékfejlesztési Programra megállapított maximális kötelezettségvállalási szintet 2024. december 31. napjáig 300 milliárd forinttal túllépje;
 
-2. visszavonja a Vidékfejlesztési Program kötelezettségvállalási összegének emeléséről szóló 1568/2023. (XII. 14.) Korm. határozatot.
+2.[^1]
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
