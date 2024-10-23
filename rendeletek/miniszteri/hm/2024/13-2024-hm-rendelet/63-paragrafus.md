@@ -10,4 +10,6 @@
 
 (5) A 44–46. §-t a 2024. június 17. és e rendelet hatálybalépése között létesített önkéntes tartalékos szolgálati viszonyra is alkalmazni kell.
 
-(6) A 24–33. § alkalmazásában 2024. október 1-jéig az állományilletékes honvédelmi szervezet és a döntésre jogosult elöljáró feladatait a Honvédség katonai igazgatási és központi adatfeldolgozó szerve látja el.
+(6)[^14] A 24–33. § alkalmazásában 2024. november 1-jéig az állományilletékes honvédelmi szervezet és a döntésre jogosult elöljáró feladatait a Honvédség katonai igazgatási és központi adatfeldolgozó szerve látja el.
+
+[^14]: A 63. § (6) bekezdése a 24/2024. (X. 22.) HM rendelet 7. §-a szerint módosított szöveg.
