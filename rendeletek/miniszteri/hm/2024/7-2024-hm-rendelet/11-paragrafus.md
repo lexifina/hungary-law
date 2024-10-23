@@ -6,8 +6,11 @@ b) a személyi állomány tagja, ha szabadtéri munkahelyen vagy szolgálattelje
 
 (2) Az (1) bekezdés a) pontja esetén a személyi állomány tagja részére legalább +50 °C-ot elérő hőmérsékletű teaitalt kell biztosítani a szükséges mennyiségben. Ahol a teaital elkészítésének tárgyi, higiéniai és infrastrukturális feltételei adottak, ott a nyersanyag kiadása legfeljebb két napra előre is lehetséges. Ha az (1) bekezdés a) pontja szerinti körülmények közötti szolgálatteljesítés, munkavégzés eléri a 10 órát, a szolgálatteljesítés, munkavégzés tényleges időtartamára meghatározott védőitalnorma kétszeresen számítandó fel.
 
-(3) Az (1) bekezdés b) pontja esetén a személyi állomány tagja részére igény szerinti mennyiségben 14–16 °C hőmérsékletű vezetékes ivóvizet, ha ez nem megoldható, akkor részükre palackozott ásványvizet kell biztosítani a norma értékében. Ha az (1) bekezdés b) pontja szerinti körülmények közötti szolgálatteljesítés, munkavégzés eléri a 10 órát, a szolgálatteljesítés, munkavégzés tényleges időtartamára meghatározott védőitalnorma kétszeresen számítandó fel.
+(3)[^7] Az (1) bekezdés b) pontja esetén a személyi állomány tagja részére palackozott ásványvizet kell biztosítani a norma értékében. Ha az (1) bekezdés b) pontja szerinti körülmények közötti szolgálatteljesítés, munkavégzés eléri a 10 órát, a szolgálatteljesítés, munkavégzés tényleges időtartamára meghatározott védőitalnorma kétszeresen számítandó fel.
 
 (4) Az (1) bekezdés a) és b) pontja szerinti védőital-ellátást úgy kell megszervezni, hogy a védőital-kiszolgálás lehetősége a szolgálatteljesítés vagy a munkavégzés megkezdésétől folyamatosan biztosított legyen.
 
-(5) A zárt térben szolgálatot teljesítők vagy munkát végzők részére – norma felszámítása nélkül – vezetékes ivóvíz vételi lehetőséget kell biztosítani.
+(5)[^8]
+
+[^7]: A 11. § (3) bekezdése a 24/2024. (X. 22.) HM rendelet 6. § a) pontja szerint módosított szöveg.
+[^8]: A 11. § (5) bekezdését a 24/2024. (X. 22.) HM rendelet 6. § b) pontja hatályon kívül helyezte.

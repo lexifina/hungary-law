@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-7-20-15
 | --- | --- | --- |
 | 2024-07-01 | 2024-7-20-15.1 | 7/2024. (VI. 28.) HM rendelet |
 | 2024-07-02 | 2024-7-20-15.2 | 2010. évi CXXX. törvény |
+| 2024-10-23 | 2024-7-20-15.3 | 24/2024. (X. 22.) HM rendelet |

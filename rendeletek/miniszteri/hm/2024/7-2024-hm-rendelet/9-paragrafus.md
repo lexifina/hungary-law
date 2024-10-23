@@ -1,4 +1,4 @@
-9. § (1) A honvédségi szervezet által biztosított ebéd igénybevételére és térítési díjának megtérítésére (a továbbiakban: étkezéstérítésre) kötelezett a személyi állomány azon tagja, aki önálló élelmezési gazdálkodást folytató honvédségi szervezetnél a (2) bekezdés szerinti szolgálati beosztás, munkakört tölt be, kivéve, ha e rendelet alapján egyéb jogcímen térítésmentes természetbeni ellátásra jogosult.
+9. § (1)[^5] A honvédségi szervezet által biztosított ebéd igénybevételére és térítési díjának megtérítésére (a továbbiakban: étkezéstérítésre) kötelezett a személyi állomány azon tagja, aki önálló élelmezési gazdálkodást folytató honvédségi szervezetnél a (2) bekezdés szerinti szolgálati beosztást, munkakört tölt be, kivéve, ha e rendelet alapján egyéb jogcímen térítésmentes természetbeni ellátásra jogosult.
 
 (2) Az (1) bekezdés alapján étkezéstérítésre kötelezett
 
@@ -35,3 +35,5 @@ o) a konyhai-étkezdei anyag-előkészítő, kisegítő, segédmunkás beosztás
 (3) Az (1) bekezdés szerinti kötelezettség térítési díja az alapnorma szerinti ebéd térítési díjának 50%-a.
 
 (4) Ha a személyi állomány (1) és (2) bekezdés szerint étkezéstérítésre kötelezett tagja egészségi állapota alapján igazoltan speciális étkezést igényel, amelynek feltételei természetben nem biztosíthatók, a döntésre jogosult elöljáró mentesíti a honvédségi szervezet által biztosított élelmezési ellátás kötelező igénybevétele alól.
+
+[^5]: A 9. § (1) bekezdése a 24/2024. (X. 22.) HM rendelet 5. § b) pontja szerint módosított szöveg.

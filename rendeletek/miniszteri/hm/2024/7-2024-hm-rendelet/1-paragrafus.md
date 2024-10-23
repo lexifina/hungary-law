@@ -6,7 +6,7 @@
 
 3. főétkezés: szolgálatteljesítési időre vagy munkaidőre eső reggeli, ebéd vagy vacsora,
 
-4. önellátás: a személyi állomány tagja a 4. pont szerinti főétkezéseit önállóan – a szolgálatteljesítés vagy munkavégzés körülményeire tekintettel fizikai korlátozás nélkül – képes megvalósítani,
+4.[^1] kötelező benttartózkodás: az az eset, amikor az elrendelt feladat végrehajtására kijelölt személyi állomány 24 órát egybefüggően elérő vagy azt meghaladó időtartamban nem hagyhatja el a szolgálatteljesítési vagy munkavégzési helyét,
 
 5. reggeli: szolgálatteljesítési időre vagy munkaidőre eső főétkezés, ha a szolgálatteljesítési idő vagy munkaidő 06:00 óra előtt kezdődik, 08:00 óra előtt nem ér véget és időtartama meghaladja a 6 órát,
 
@@ -17,3 +17,5 @@
 8. utas: az a személy, aki a harcászati vagy szállító merev- és forgószárnyas légijárművek fedélzetén nem a légijármű szakszemélyzeteként tartózkodik,
 
 9. vacsora: szolgálatteljesítési időre vagy munkaidőre eső főétkezés, ha a szolgálatteljesítési idő vagy munkaidő nem fejeződik be 19:00 óra előtt és időtartama legalább 6 óra.
+
+[^1]: Az 1. § 4. pontja a 24/2024. (X. 22.) HM rendelet 1. §-ával megállapított szöveg.

@@ -1,35 +1,27 @@
-10. § (1) Az alapnorma után étkezésfeljavítási normát kell felszámítani
+10. §[^6] (1) Az alapnorma után étkezésfeljavítási normát kell felszámítani
 
-a) január 1-jén,
+a) március 15-én,
 
-b) március 15-én,
+b) május 1-jén,
 
-c) május 1-jén,
+c) május 21-én,
 
-d) május 21-én,
+d) augusztus 20-án,
 
-e) augusztus 20-án,
+e) október 23-án,
 
-f) október 23-án,
+f) december 24-én, 25-én, 26-án, 31-én,
 
-g) december 24-én, 25-én, 26-án, 31-én,
+g) nagypénteken és húsvéthétfőn,
 
-h) nagypénteken és húsvéthétfőn,
+h) pünkösdhétfőn,
 
-i) pünkösdhétfőn,
+i) a külföldön béketámogató tevékenységben vagy a Magyarországon kívül települő, szövetségesi területen vagy légtérben működtetett fegyveres készenléti szolgálat fenntartása érdekében elrendelt feladatban részt vevő honvédségi szervezet Nemzeti Nap ünnepsége alkalmával és
 
-j) csapatzászló- vagy zászlószalag adományozás, valamint csapatünnep, haderőnemi és fegyvernemi nap, a honvédelmi szervezet vezetőjének beosztás átadás-átvétele alkalmával, az ünnepség napján
+j) a 3. § (1) bekezdés 13. és 18. pontjában, valamint a 3. § (2) bekezdésében meghatározott esetekben.
 
-k) a honvédelmi szervezet és a miniszter fenntartói irányítása alá tartozó, honvédelmi szervezetnek nem minősülő, többcélú szakképző intézmény, valamint az alapító okiratban jogelődként meghatározott szervezet megalakulási napja és felszámolási ünnepsége alkalmával,
+(2) A 3. § (1) bekezdés 19. pontjában és a 7. §-ban meghatározott esetben a norma főétkezésenként számítható fel.
 
-l) a külföldön béketámogató tevékenységben vagy a Magyarországon kívül települő, szövetségesi területen vagy légtérben működtetett fegyveres készenléti szolgálat fenntartása érdekében elrendelt feladatban részt vevő honvédségi szervezet Nemzeti Nap ünnepsége alkalmával, és
+(3) Ha az (1) bekezdés a)–e) pontja szerinti alkalomból tartott ünnepséget a honvédelmi szervezet nem az (1) bekezdés a)–e) pontja szerinti napon rendezi meg, az étkezésfeljavítási normát az (1) bekezdés a)–e) pontja szerinti napra, valamint az ünnepség megtartásának napjára is fel kell számítani, és az ünnepi étkezést fel kell javítani.
 
-m) a 3. § (1) bekezdés 12. és 16. pontjában, valamint 3. § (2) bekezdésében meghatározott esetekben.
-
-(2) A 3. § (1) bekezdés 17. pontjában és a 7. §-ban meghatározott esetben a norma főétkezésenként számítható fel.
-
-(3) Ha az (1) bekezdés a)–k) pontja szerinti alkalmak közül kettő vagy több is ugyanarra a napra esik, az étkezésfeljavítási normát akkor is csak egyszeresen lehet felszámítani.
-
-(4) A normát az (1) bekezdés b)–f) pontja esetében az ünnepség megtartásának napjára is fel kell számítani, és annak terhére az ünnepi étkezést fel kell javítani.
-
-(5) Ha az (1) bekezdés j) pontjában meghatározott ünnep alkalmából az ünnepséget nem az adott napon rendezik, akkor a norma csak az ünnepség napján számítható fel.
+[^6]: A 10. § a 24/2024. (X. 22.) HM rendelet 4. §-ával megállapított szöveg.
