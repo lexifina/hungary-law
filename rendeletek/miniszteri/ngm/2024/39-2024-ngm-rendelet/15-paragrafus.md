@@ -1,1 +1,3 @@
-15. § Hatályát veszti az állami vagyonnal kapcsolatos bevételek és kiadások fejezet központi kezelésű előirányzatai felhasználásáról szóló 17/2023. (VIII. 18.) GFM rendelet.
+15. §[^2]
+
+[^2]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
