@@ -1,6 +1,6 @@
-## 5/C. §[^30] A lőtér veszélyességi területét lőtérszabályzatban kell meghatározni. A lőtér veszélyességi területét ismételten meg kell határozni, ha a lőtérszabályzat módosítására a lőtéren használt fegyverek jellegének, kaliberének, illetve tűzfegyver esetében kategóriájának megváltozása miatt kerül sor. A .22 Long rifle kalibernél nagyobb torkolati energiával bíró lőfegyverek használatára jogosító engedéllyel rendelkező lőtéren muzeális fegyveres lövészet a veszélyességi terület ismételt meghatározásának hiányában is folytatható. A lőtér veszélyességi területét minden esetben a kérelmező igazolja.
+## 5/C. §[^31] A lőtér veszélyességi területét lőtérszabályzatban kell meghatározni. A lőtér veszélyességi területét ismételten meg kell határozni, ha a lőtérszabályzat módosítására a lőtéren használt fegyverek jellegének, kaliberének, illetve tűzfegyver esetében kategóriájának megváltozása miatt kerül sor. A .22 Long rifle kalibernél nagyobb torkolati energiával bíró lőfegyverek használatára jogosító engedéllyel rendelkező lőtéren muzeális fegyveres lövészet a veszélyességi terület ismételt meghatározásának hiányában is folytatható. A lőtér veszélyességi területét minden esetben a kérelmező igazolja.
 
-## A hatóságnak történő bejelentés és a bejelentéssel kapcsolatos eljárás szabályai[^31]
+## A hatóságnak történő bejelentés és a bejelentéssel kapcsolatos eljárás szabályai[^32]
 
 5/D. § (1) Az Ftv. 4/F. §-a szerinti adatokat a „C” kategóriába tartozó tűzfegyvert tartó
 
@@ -14,5 +14,5 @@ számára kell bejelenteni, a tűzfegyver megszerzésétől számított nyolc na
 
 (3) A bejelentésről az (1) bekezdés szerinti hatóság igazolást állít ki.
 
-[^30]: Az 5/C. §-t a 457/2017. (XII. 28.) Korm. rendelet 139. § (4) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^31]: Az „A hatóságnak történő bejelentés és a bejelentéssel kapcsolatos eljárás szabályai” alcímet (5/D–5/E. §) a 326/2020. (VII. 1.) Korm. rendelet 3. §-a iktatta be.
+[^31]: Az 5/C. §-t a 457/2017. (XII. 28.) Korm. rendelet 139. § (4) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^32]: Az „A hatóságnak történő bejelentés és a bejelentéssel kapcsolatos eljárás szabályai” alcímet (5/D–5/E. §) a 326/2020. (VII. 1.) Korm. rendelet 3. §-a iktatta be.

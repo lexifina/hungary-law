@@ -12,7 +12,9 @@
 
 (4)[^10] A lőfegyver és a hozzá tartozó lőszer önvédelmi vagy személy- és vagyonvédelmi célra történő tartását, a tárolásukra szolgáló tárolóhely üzemeltetését, az önvédelmi vagy személy- és vagyonvédelmi célra tartott lőfegyver hatástalanítását, a lőfegyver kiállítását, valamint a hangtompító 35/B. § (1) bekezdése szerinti tartását a kérelmező lakóhelye, szervezet esetén a tevékenység helye szerint illetékes vármegyei (fővárosi) rendőr-főkapitányság engedélyezi.
 
-(5)[^11] Az európai lőfegyvertartási engedély kiadása és a lőfegyver, a lőfegyverdarab, a lőszer, a hangtompító nem kereskedelmi célú behozatala és kivitele a (2)–(4) bekezdésben meghatározott hatóság hatáskörébe tartozik.
+(4a)[^11] A kizárólag a lőfegyver önvédelmi célú tartására jogosító engedéllyel rendelkező kérelmező számára a házilagos lőszerszerelést és -újratöltést a kérelmező lakóhelye szerint illetékes vármegyei (fővárosi) rendőr-főkapitányság engedélyezi.
+
+(5)[^12] Az európai lőfegyvertartási engedély kiadása és a lőfegyver, a lőfegyverdarab, a lőszer, a hangtompító nem kereskedelmi célú behozatala és kivitele a (2)–(4) bekezdésben meghatározott hatóság hatáskörébe tartozik.
 
 [^4]: A 3. §-t a 334/2009. (XII. 29.) Korm. rendelet 5. § (3) bekezdés a) pontja hatályon kívül helyezte, újonnan a 457/2017. (XII. 28.) Korm. rendelet 139. § (1) bekezdése iktatta be. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^5]: A 4. § (1) bekezdése az 569/2022. (XII. 23.) Korm. rendelet 11. § (1) bekezdésével megállapított, a 486/2023. (X. 31.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
@@ -21,4 +23,5 @@
 [^8]: A 4. § (2a) bekezdését a 326/2020. (VII. 1.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^9]: A 4. § (3) bekezdése a 326/2020. (VII. 1.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 57. §-a szerint módosított szöveg.
 [^10]: A 4. § (4) bekezdése a 39/2012. (III. 12.) Korm. rendelet 2. § (4) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 57. §-a, a 486/2023. (X. 31.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
-[^11]: A 4. § (5) bekezdése az 569/2022. (XII. 23.) Korm. rendelet 11. § (2) bekezdésével megállapított, a 486/2023. (X. 31.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
+[^11]: A 4. § (4a) bekezdését a 295/2024. (X. 9.) Korm. rendelet 1. §-a iktatta be.
+[^12]: A 4. § (5) bekezdése az 569/2022. (XII. 23.) Korm. rendelet 11. § (2) bekezdésével megállapított, a 486/2023. (X. 31.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.

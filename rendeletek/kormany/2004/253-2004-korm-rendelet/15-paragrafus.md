@@ -1,4 +1,4 @@
-15. § (1)[^77] Fegyvergyártási tevékenység esetén a gyártó köteles negyedévenként az általa gyártott és raktározott fegyvert leltározni és erről jegyzőkönyvet felvenni. A lőfegyver gyártásakor a gyártó köteles az Ftv. 5. § (2) bekezdés b) pontjában meghatározott adatokat – a jogszabályban meghatározott módon – a lőfegyverek központi nyilvántartásába továbbítani.
+15. § (1)[^78] Fegyvergyártási tevékenység esetén a gyártó köteles negyedévenként az általa gyártott és raktározott fegyvert leltározni és erről jegyzőkönyvet felvenni. A lőfegyver gyártásakor a gyártó köteles az Ftv. 5. § (2) bekezdés b) pontjában meghatározott adatokat – a jogszabályban meghatározott módon – a lőfegyverek központi nyilvántartásába továbbítani.
 
 (2) Fegyver, lőszer (töltény) és lőszerelem forgalmazási tevékenység esetén
 
@@ -6,13 +6,13 @@ a) a forgalmazásra átvett lőfegyverről két példányban a 12. számú mell�
 
 b) a lőfegyver tartására engedéllyel rendelkező személytől, illetve a tartási engedéllyel rendelkező szervezet kereskedelmi meghatalmazottjától vehető át;
 
-c)[^78] az Ftv. 3. § (1) bekezdés c) pont ca) alpontjában meghatározott engedéllyel rendelkező személynek, illetve az ilyen engedéllyel rendelkező szervezet kereskedelmi meghatalmazottjának – az Európai Unió más tagállamában lakóhellyel rendelkező személy, illetve harmadik ország állampolgára esetén az illetékes külföldi hatóság által kiállított, a forgalmazott eszköz megszerzésére, illetve tartására jogosító engedély birtokában – adható át;
+c)[^79] az Ftv. 3. § (1) bekezdés c) pont ca) alpontjában meghatározott engedéllyel rendelkező személynek, illetve az ilyen engedéllyel rendelkező szervezet kereskedelmi meghatalmazottjának – az Európai Unió más tagállamában lakóhellyel rendelkező személy, illetve harmadik ország állampolgára esetén az illetékes külföldi hatóság által kiállított, a forgalmazott eszköz megszerzésére, illetve tartására jogosító engedély birtokában – adható át;
 
-d)[^79] a megszerzett lőfegyver adatait, valamint a megszerzés időpontját a 12. mellékletben meghatározott átvételi elismervénynek az üzlet bélyegzőlenyomatát is tartalmazó kitöltésével és az engedélyes részére történő átadásával kell igazolni;
+d)[^80] a megszerzett lőfegyver adatait, valamint a megszerzés időpontját a 12. mellékletben meghatározott átvételi elismervénynek az üzlet bélyegzőlenyomatát is tartalmazó kitöltésével és az engedélyes részére történő átadásával kell igazolni;
 
-e)[^80] lőszer csak a tartására jogosultnak adható át, a megszerzett, illetve a lőfegyvertartásra jogosító engedélybe bejegyzett lőfegyver kaliberjelének figyelembevételével;
+e)[^81] lőszer csak a tartására jogosultnak adható át, a megszerzett, illetve a lőfegyvertartásra jogosító engedélybe bejegyzett lőfegyver kaliberjelének figyelembevételével;
 
-f)[^81] muzeális fegyver működtetéséhez szükséges lőszerelem (fekete lőpor vagy a gyárilag a fekete lőpor kiváltására készült lőpor) csak
+f)[^82] muzeális fegyver működtetéséhez szükséges lőszerelem (fekete lőpor vagy a gyárilag a fekete lőpor kiváltására készült lőpor) csak
 
 fa) a sportlövészet folytatása céljából nyilvántartásba vett – a muzeális fegyver sportlövészeti célú használatára, illetve a lőszerelem tartására jogosult – sportegyesület kereskedelmi meghatalmazottja,
 
@@ -26,13 +26,13 @@ g) a lőfegyver, lőszer és lőszerelem tartásáról és forgalmazásáról, a
 
 h) a nyilvántartásokat naponta le kell zárni és azok adatait a raktárkészlettel naponta egyeztetni kell;
 
-i)[^82] a házilagos lőszerszereléshez és -újratöltéshez szükséges lőszerelem kizárólag az e tevékenység végzésére jogosító engedéllyel rendelkező természetes személy, valamint a lőszergyártási engedéllyel rendelkező részére értékesíthető;
+i)[^83] a házilagos lőszerszereléshez és -újratöltéshez szükséges lőszerelem kizárólag az e tevékenység végzésére jogosító engedéllyel rendelkező természetes személy, valamint a lőszergyártási engedéllyel rendelkező részére értékesíthető;
 
-j)[^83] lőpor, csappantyú csak eredeti és bontatlan gyári csomagolásban hozható forgalomba; lőpor 1 kg töltőtömeget meghaladó kiszerelésben természetes személy részére nem forgalmazható;
+j)[^84] lőpor, csappantyú csak eredeti és bontatlan gyári csomagolásban hozható forgalomba; lőpor 1 kg töltőtömeget meghaladó kiszerelésben természetes személy részére nem forgalmazható;
 
-k)[^84] az Ftv. 12. § (1) bekezdés d) pontjában előírt adattovábbítási kötelezettség kizárólag elektronikus úton teljesíthető.
+k)[^85] az Ftv. 12. § (1) bekezdés d) pontjában előírt adattovábbítási kötelezettség kizárólag elektronikus úton teljesíthető.
 
-(2a)[^85] Hangtompító kizárólag a 35/B. § (1) vagy (2) bekezdése szerinti engedéllyel rendelkező személy vagy szervezet részére értékesíthető.
+(2a)[^86] Hangtompító kizárólag a 35/B. § (1) vagy (2) bekezdése szerinti engedéllyel rendelkező személy vagy szervezet részére értékesíthető.
 
 (3) Fegyverjavítási tevékenység esetén
 
@@ -40,7 +40,7 @@ a) a javítási engedéllyel rendelkező a fegyverek és lőszerek vizsgálatár
 
 b) az alkatrésznek megvásárolt és a javításra átvett lőfegyverről a 12. számú mellékletben meghatározott átvételi elismervényt kell adni, két példányban, az átvételi elismervényen fel kell tüntetni a vásárlás vagy a javítás tényét;
 
-c)[^86] a javításra leadott lőfegyver és a fegyvertartási engedély adatait a 9. számú melléklet szerint – a javítási tevékenységet engedélyező hatóság által hitelesített – nyilvántartókönyvben kell vezetni;
+c)[^87] a javításra leadott lőfegyver és a fegyvertartási engedély adatait a 9. számú melléklet szerint – a javítási tevékenységet engedélyező hatóság által hitelesített – nyilvántartókönyvben kell vezetni;
 
 d) a c) pontban említett nyilvántartókönyv elkülönített részében nyilvántartást kell vezetni a megvásárolt lőfegyverekről, fődarabokról és azok hasznosításáról;
 
@@ -56,13 +56,13 @@ b) a lőfegyver (gáz- és riasztófegyver) javítása során a fokozott igényb
 
 c) a lőfegyver (gáz- és riasztófegyver) javítása során fődarabcsere történt.
 
-[^77]: A 15. § (1) bekezdése második mondatát a 39/2012. (III. 12.) Korm. rendelet 6. § (1) bekezdése iktatta be.
-[^78]: A 15. § (2) bekezdés c) pontja a 39/2012. (III. 12.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^79]: A 15. § (2) bekezdés d) pontja a 39/2012. (III. 12.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^80]: A 15. § (2) bekezdés e) pontja a 39/2012. (III. 12.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^81]: A 15. § (2) bekezdés f) pontja a 678/2021. (XII. 3.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^82]: A 15. § (2) bekezdés i) pontját a 39/2012. (III. 12.) Korm. rendelet 6. § (3) bekezdése iktatta be.
-[^83]: A 15. § (2) bekezdés j) pontját a 39/2012. (III. 12.) Korm. rendelet 6. § (3) bekezdése iktatta be.
-[^84]: A 15. § (2) bekezdés k) pontját a 326/2020. (VII. 1.) Korm. rendelet 6. §-a iktatta be.
-[^85]: A 15. § (2a) bekezdését a 486/2023. (X. 31.) Korm. rendelet 1. §-a iktatta be.
-[^86]: A 15. § (3) bekezdés c) pontja a 247/2009. (XI. 10.) Korm. rendelet 38. § (2) bekezdése szerint módosított szöveg.
+[^78]: A 15. § (1) bekezdése második mondatát a 39/2012. (III. 12.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^79]: A 15. § (2) bekezdés c) pontja a 39/2012. (III. 12.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^80]: A 15. § (2) bekezdés d) pontja a 39/2012. (III. 12.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^81]: A 15. § (2) bekezdés e) pontja a 39/2012. (III. 12.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^82]: A 15. § (2) bekezdés f) pontja a 678/2021. (XII. 3.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^83]: A 15. § (2) bekezdés i) pontját a 39/2012. (III. 12.) Korm. rendelet 6. § (3) bekezdése iktatta be.
+[^84]: A 15. § (2) bekezdés j) pontját a 39/2012. (III. 12.) Korm. rendelet 6. § (3) bekezdése iktatta be.
+[^85]: A 15. § (2) bekezdés k) pontját a 326/2020. (VII. 1.) Korm. rendelet 6. §-a iktatta be.
+[^86]: A 15. § (2a) bekezdését a 486/2023. (X. 31.) Korm. rendelet 1. §-a iktatta be.
+[^87]: A 15. § (3) bekezdés c) pontja a 247/2009. (XI. 10.) Korm. rendelet 38. § (2) bekezdése szerint módosított szöveg.
