@@ -1,5 +1,5 @@
 ## 1. Az élelmezési ellátásról szóló 7/2024. (VI. 28.) HM rendelet módosítása
 
-1. § Az élelmezési ellátásról szóló 7/2024. (VI. 28.) HM rendelet (a továbbiakban: R.) 1. § 4. pontja helyébe a következő rendelkezés lép:
+1. §[^2]
 
-(E rendelet alkalmazásában)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
