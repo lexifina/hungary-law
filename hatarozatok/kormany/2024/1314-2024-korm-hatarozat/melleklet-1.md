@@ -48,8 +48,10 @@
 
 ## 1.8. az Áht. 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva, a Nemzeti Koncessziós Iroda költségvetésének eredeti előirányzata terhére vállalható éven túli kötelezettségvállalás felső korlátját a 2025. évre 272 774 100 forintban állapítja meg.
 
-## 2. Hatályát veszti a Nemzeti Adó- és Vámhivatal Mesterséges Intelligencia Munkacsoportról szóló 1080/2022. (II. 23.) Korm. határozat.
+## 2.[^1]
 
 ## 3. Ez a határozat a közzétételét követő napon lép hatályba.
 
 1. melléklet az 1314/2024. (X. 22.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
