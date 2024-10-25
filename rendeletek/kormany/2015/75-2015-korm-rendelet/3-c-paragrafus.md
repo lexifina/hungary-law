@@ -1,9 +1,3 @@
-3/C. §[^14] (1) A beruházással érintett, a 2. melléklet 1. pontjában felsorolt, Debrecen megyei jogú város belterületén fekvő, ingatlan-nyilvántartás szerinti 4562/41 helyrajzi számú ingatlan esetében a beépítés szabályait a (2) bekezdés állapítja meg, azzal, hogy
+3/C. §[^24] Az országos és térségi jelentőségű 400 kV-os és 132 kV-os energiahálózati elemek esetében a térségi területfelhasználási engedéllyel rendelkező, továbbá a Vármegyei Területrendezési Tervben már rögzített energiahálózati elemek érintett települések helyi építési szabályzataival való összhangja módosítás hiányában is biztosított.
 
-a) az OTÉK előírásait a (2) bekezdésben foglalt eltérésekkel kell alkalmazni, és
-
-b) ha a hatályos településrendezési terv vagy az OTÉK a beépítés (2) bekezdésben meghatározott sajátos szabályaival ellentétes vagy azzal össze nem egyeztethető előírást tartalmaz, akkor a településrendezési tervet és az OTÉK-ot nem lehet alkalmazni.
-
-(2) A Debrecen megyei jogú város belterületén fekvő, az ingatlan-nyilvántartás szerinti 4562/41 helyrajzi számú ingatlanon kereskedelmi szálláshely (szálloda) rendeltetés meglévő épületben kialakítható.
-
-[^14]: A 3/C. §-t a 16/2024. (II. 8.) Korm. rendelet 2. §-a iktatta be.
+[^24]: A 3/C. §-t a 16/2024. (II. 8.) Korm. rendelet 2. §-a iktatta be, szövege a 305/2024. (X. 24.) Korm. rendelet 2. §-ával megállapított szöveg.
