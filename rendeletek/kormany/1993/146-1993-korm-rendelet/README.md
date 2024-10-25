@@ -59,3 +59,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1993-146-20-
 | 2024-01-01 | 1993-146-20-22.72 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2024-03-01 | 1993-146-20-22.73 | 35/2024. (II. 29.) Korm. rendelet |
 | 2024-07-08 | 1993-146-20-22.74 | 174/2024. (VII. 7.) Korm. rendelet |
+| 2024-10-25 | 1993-146-20-22.76 | 301/2024. (X. 22.) Korm. rendelet |
