@@ -1,0 +1,3 @@
+1. § A Debrecen megyei jogú város külterületén, az Észak-Nyugati Gazdasági Övezetben ipari telephely kialakításával és a területen megvalósuló munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 58/2018. (III. 26.) Korm. rendelet (a továbbiakban: R.) 1. §-a a következő (7) bekezdéssel egészül ki:
+
+„(7) Az (5) bekezdés szerint engedélyezett ütemre használatbavételre irányuló eljárást nem kell lefolytatni, annak elkészültét és megfelelőségét az építmény használatbavételére irányuló kérelem elbírálása során kell igazolni.”

@@ -1,0 +1,3 @@
+3. § Az R. a következő 13. §-sal egészül ki:
+
+„13. § E rendeletnek a Debrecen megyei jogú város külterületén, az Észak-Nyugati Gazdasági Övezetben ipari telephely kialakításával és a területen megvalósuló munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 58/2018. (III. 26.) Korm. rendelet módosításáról szóló 306/2024. (X. 24.) Korm. rendelettel (a továbbiakban: Módr8.) módosított 3/A. § (1) és (2) bekezdését, 1. melléklet I. pontját, valamint megállapított 1. § (7) bekezdését, 3/A. § (5) és (6) bekezdését, valamint 3. mellékletét a Módr8. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
