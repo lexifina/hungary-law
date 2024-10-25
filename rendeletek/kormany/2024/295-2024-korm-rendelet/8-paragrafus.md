@@ -1,1 +1,3 @@
-8. § Hatályát veszti a fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 42. § (2) bekezdés b) pontjában az „illetve 1000 darabot meghaladó számú lőszer,” szövegrész.
+8. §[^9]
+
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
