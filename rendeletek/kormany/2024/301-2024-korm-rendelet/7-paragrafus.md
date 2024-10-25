@@ -1,3 +1,1 @@
-7. §[^7]
-
-[^7]: A 7. § a 21. § (2) bekezdése alapján 2024. október 25-én lép hatályba.
+7. § Hatályát veszti az 560/2020. (XII. 7.) Korm. rendelet 2. § (1a) és (1b) bekezdése.

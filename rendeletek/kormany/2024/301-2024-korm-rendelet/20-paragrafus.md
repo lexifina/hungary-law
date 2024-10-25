@@ -1,3 +1,1 @@
-20. §[^20]
-
-[^20]: A 20. § a 21. § (2) bekezdése alapján 2024. október 25-én lép hatályba.
+20. § Hatályát veszti a 435/2021. (VII. 16.) Korm. rendelet 9. § (1) bekezdés a) pontjában az „és” szövegrész.
