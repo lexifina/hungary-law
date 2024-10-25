@@ -1,0 +1,5 @@
+8. § (1) A VKF a kötelező legkisebb munkabér és a garantált bérminimum összegét az Mt. 153. § (4) bekezdésében foglaltak alapján, az 5–7. §-ban foglaltak szerint, naptári évenként felülvizsgálja, azonban a VKF-ben tagként eljáró országos munkáltatói érdekképviseletek többségi egyetértő döntése, az országos munkavállalói tagszervezetek képviselőinek többségi egyetértő döntése, valamint a Kormány képviselőjének egyetértő döntése esetén a kötelező legkisebb munkabér és a garantált bérminimum összegének naptári éven belüli felülvizsgálatára is sor kerülhet.
+
+(2) Az (1) bekezdés szerinti naptári éven belüli felülvizsgálat esetén a miniszter biztosítja a konzultációhoz szükséges, rendelkezésre álló makrogazdasági adatokat.
+
+(3) Amennyiben az (1) bekezdés szerinti naptári éven belüli felülvizsgálat eredményeképpen a VKF a kötelező legkisebb munkabér és a garantált bérminimum összegének naptári éven belüli emeléséről dönt, a kötelező legkisebb munkabér és a garantált bérminimum emelt összegét és hatálybalépésének időpontját a Kormány a megállapodást követő 30 napon belül rendeletben állapítja meg.

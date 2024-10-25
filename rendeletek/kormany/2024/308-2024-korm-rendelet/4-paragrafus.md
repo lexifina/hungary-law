@@ -1,0 +1,1 @@
+4. § A VKF-ben a döntéshez, illetve megállapodás létrejöttéhez a munkáltatói és munkavállalói tagszervezetek képviselőinek oldalankénti többségi egyetértő döntése, valamint a Kormány képviselőjének egyetértő döntése szükséges.

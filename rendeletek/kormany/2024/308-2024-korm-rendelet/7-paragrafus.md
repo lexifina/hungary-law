@@ -1,0 +1,3 @@
+7. § (1) A tagok törekednek arra, hogy a következő évi kötelező legkisebb munkabérrel és garantált bérminimummal kapcsolatos konzultációt – a szükséges számú ülés megtartásával – minden év december 1. napjáig lezárják, azzal, hogy a 4. §-ban foglaltak szerint megállapodnak a következő évi kötelező legkisebb munkabér és garantált bérminimum összegéről.
+
+(2) Az (1) bekezdésben rögzített határidő túllépése esetén a konzultáció lezárására a 4. § szerinti döntés alapján, a következő évi kötelező legkisebb munkabér és garantált bérminimum összegéről szóló megállapodás létrejöttének időpontjában kerül sor.
