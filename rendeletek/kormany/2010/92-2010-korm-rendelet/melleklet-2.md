@@ -1,4 +1,4 @@
-2. melléklet a 92/2010. (III. 31.) Korm. rendelethez[^108]
+2. melléklet a 92/2010. (III. 31.) Korm. rendelethez[^132]
 
 Az NBF elnöke az egyszerűsített telephely biztonsági tanúsítvány kiadásához a Cég-adatlapot az alábbi adattartalommal rendszeresíti:
 
@@ -20,9 +20,9 @@ Az NBF elnöke az egyszerűsített telephely biztonsági tanúsítvány kiadás�
 
 1.8. az alapító tagok
 
-1.9.[^109] a gazdálkodó szervezet legalább öt százalékot meghaladó vagyoni hozzájárulással rendelkező tagjának, alapítójának, részvényesének természetes személyazonosító adatai, továbbá – a felsorolt személy külföldi állampolgársága esetén – állampolgársága, lakcíme
+1.9.[^133] a gazdálkodó szervezet legalább öt százalékot meghaladó vagyoni hozzájárulással rendelkező tagjának, alapítójának, részvényesének természetes személyazonosító adatai, továbbá – a felsorolt személy külföldi állampolgársága esetén – állampolgársága, lakcíme
 
-1.10.[^110] a gazdálkodó szervezet érdekeltsége más gazdálkodó szervezetben
+1.10.[^134] a gazdálkodó szervezet érdekeltsége más gazdálkodó szervezetben
 
 1.11. a legjellemzőbb TEÁOR kódjai és azok megnevezése
 
@@ -36,11 +36,11 @@ Az NBF elnöke az egyszerűsített telephely biztonsági tanúsítvány kiadás�
 
 1.16. a gazdálkodó szervezet vezető tisztségviselőinek külföldi személyekkel, szervezetekkel való kapcsolatai
 
-2.[^111] A GAZDÁLKODÓ SZERVEZET VEZETŐJE ÉS TESTÜLETEI
+2.[^135] A GAZDÁLKODÓ SZERVEZET VEZETŐJE ÉS TESTÜLETEI
 
 2.1. a gazdálkodó szervezet vezetőjének természetes személyazonosító adatai, továbbá – amennyiben a gazdálkodó szervezetet vezetője külföldi állampolgár – állampolgársága, lakcíme
 
-2.2. az ügyvezetést ellátó személyek természetes személyazonosító adatai, továbbá – az ügyvezetést ellátó külföldi állampolgár esetén – állampolgársága, lakcíme
+2.2.[^136] az ügyvezetést ellátó személyek, cégvezető természetes személyazonosító adatai, továbbá – az ügyvezetést ellátó külföldi állampolgár esetén – állampolgársága, lakcíme
 
 2.3. a felügyelőbizottság tagjainak megnevezése
 
@@ -60,7 +60,8 @@ a gazdálkodó szervezet minősített szerződésben történő részvétele
 
 5. NYILATKOZATOK
 
-[^108]: A 2. mellékletet a 224/2015. (VIII. 7.) Korm. rendelet 3. §-a iktatta be, szövege a 441/2016. (XII. 16.) Korm. rendelet 39. § (2) bekezdésével megállapított szöveg.
-[^109]: A 2. melléklet 1. pont 1.9. alpontja a 323/2018. (XII. 28.) Korm. rendelet 8. § f) pontja, a 375/2020. (VII. 30.) Korm. rendelet 30. § a) pontja szerint módosított szöveg.
-[^110]: A 2. melléklet 1. pont 1.10. alpontja a 375/2020. (VII. 30.) Korm. rendelet 30. § b) pontja szerint módosított szöveg.
-[^111]: A 2. melléklet 2. pontja a 375/2020. (VII. 30.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^132]: A 2. mellékletet a 224/2015. (VIII. 7.) Korm. rendelet 3. §-a iktatta be, szövege a 441/2016. (XII. 16.) Korm. rendelet 39. § (2) bekezdésével megállapított szöveg.
+[^133]: A 2. melléklet 1. pont 1.9. alpontja a 323/2018. (XII. 28.) Korm. rendelet 8. § f) pontja, a 375/2020. (VII. 30.) Korm. rendelet 30. § a) pontja szerint módosított szöveg.
+[^134]: A 2. melléklet 1. pont 1.10. alpontja a 375/2020. (VII. 30.) Korm. rendelet 30. § b) pontja szerint módosított szöveg.
+[^135]: A 2. melléklet 2. pontja a 375/2020. (VII. 30.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^136]: A 2. melléklet 2.2. pontja a 303/2024. (X. 24.) Korm. rendelet 17. § 21. pontja szerint módosított szöveg.

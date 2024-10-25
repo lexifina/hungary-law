@@ -1,3 +1,3 @@
-21. §[^100]
+21. §[^124]
 
-[^100]: A 21. §-t a 441/2016. (XII. 16.) Korm. rendelet 40. § (2) bekezdése hatályon kívül helyezte.
+[^124]: A 21. §-t a 441/2016. (XII. 16.) Korm. rendelet 40. § (2) bekezdése hatályon kívül helyezte.

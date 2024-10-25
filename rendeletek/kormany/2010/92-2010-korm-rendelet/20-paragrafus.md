@@ -1,3 +1,3 @@
-20. §[^99]
+20. §[^123]
 
-[^99]: A 20. § ugyanezen § (5) bekezdése alapján hatályát vesztette.
+[^123]: A 20. § ugyanezen § (5) bekezdése alapján hatályát vesztette.
