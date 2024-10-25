@@ -1,6 +1,6 @@
-## 22. §[^70] A nyilvántartás adataihoz – a Központi Statisztikai Hivatal a feladatai ellátása érdekében, statisztikai célra, valamint az állami adóhatóság feladatai ellátása érdekében – egyedi azonosításra alkalmas módon jogosult hozzáférni.
+## 22. §[^72] A nyilvántartás adataihoz – a Központi Statisztikai Hivatal a feladatai ellátása érdekében, statisztikai célra, valamint az állami adóhatóság feladatai ellátása érdekében – egyedi azonosításra alkalmas módon jogosult hozzáférni.
 
-22/A. §[^71] (1)[^72] A földmérési és térinformatikai államigazgatási szerv – egyedi megállapodás alapján – a földműves nyilvántartás adatbázisából adatfeldolgozási tevékenységet igénylő esetekben
+22/A. §[^73] (1)[^74] A földmérési és térinformatikai államigazgatási szerv – egyedi megállapodás alapján – a földműves nyilvántartás adatbázisából adatfeldolgozási tevékenységet igénylő esetekben
 
 a) országos statisztikai célú adatgyűjtéshez,
 
@@ -16,6 +16,6 @@ adatleválogatást és elektronikusan feldolgozható formában adattovábbítás
 
 (4) Az egyedi megállapodásnak tartalmaznia kell az adatfeldolgozási tevékenység meghatározását, az adatleválogatás adattartalmát, az átadásra kerülő adattartalom formátumát, valamint az adatszolgáltatás teljesítésének a határidejét és az ellenszolgáltatás mértékét, illetve az ingyenességét.
 
-[^70]: A 22. § a 457/2017. (XII. 28.) Korm. rendelet 487. § (14) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^71]: A 22/A. §-t a 373/2014. (XII. 31.) Korm. rendelet 54. § (6) bekezdése iktatta be.
-[^72]: A 22/A. § (1) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 266. § (2) bekezdése szerint módosított szöveg.
+[^72]: A 22. § a 457/2017. (XII. 28.) Korm. rendelet 487. § (14) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^73]: A 22/A. §-t a 373/2014. (XII. 31.) Korm. rendelet 54. § (6) bekezdése iktatta be.
+[^74]: A 22/A. § (1) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 266. § (2) bekezdése szerint módosított szöveg.

@@ -1,4 +1,4 @@
-6. §[^13] (1) A szervezet mezőgazdasági termelőszervezetként való nyilvántartásba vétele iránti kérelmében – a (3) és (4) bekezdésben foglaltak kivételével –
+6. §[^14] (1) A szervezet mezőgazdasági termelőszervezetként való nyilvántartásba vétele iránti kérelmében – a (3) és (4) bekezdésben foglaltak kivételével –
 
 a) igazolja, hogy a kérelem benyújtását megelőző öt évből legalább három évben értékesítésből nettó árbevétele származott, továbbá, hogy az éves értékesítése – az eladott mező- és erdőgazdasági áruk beszerzési értékével és a közvetített mező- és erdőgazdasági szolgáltatások értékével csökkentett – nettó árbevételének több mint a fele a mezőgazdasági tevékenysége folytatásából származott,
 
@@ -34,4 +34,4 @@ bb) a Ptk. 3:45. §-a szerinti szétválással létrejött jogi személy esetéb
 
 (6) Az (1) bekezdés c) és d) pontjában foglalt feltételek fennállását jogi személy vezető tisztségviselő esetében a nevében eljárásra kijelölt személy vonatkozásában kell igazolni.
 
-[^13]: A 6. § a 31/2024. (II. 22.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^14]: A 6. § a 31/2024. (II. 22.) Korm. rendelet 13. §-ával megállapított szöveg.

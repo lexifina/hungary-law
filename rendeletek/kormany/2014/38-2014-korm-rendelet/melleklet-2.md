@@ -16,7 +16,7 @@
 
 ## 4. Az ingatlan adatai (település, fekvés, helyrajzi szám), az ingatlanon fennálló jogosultság (tulajdonjog, haszonélvezeti jog, vagyonkezelői jog, használati jog) megjelölése.
 
-2. melléklet a 38/2014. (II. 24.) Korm. rendelethez[^76]
+2. melléklet a 38/2014. (II. 24.) Korm. rendelethez[^78]
 
 Mezőgazdasági termelőszervezetként / újonnan alapított mezőgazdasági termelőszervezetként való nyilvántartásba vétel iránti kérelem adattartalma
 
@@ -28,7 +28,7 @@ Mezőgazdasági termelőszervezetként / újonnan alapított mezőgazdasági ter
 
 1.3. cég esetében a cégjegyzékszáma,
 
-1.4. székhelye (telephelye),
+1.4.[^79] székhelye (telephelye, fióktelepe),
 
 1.5. újonnan alapított termelőszervezet esetén ennek ténye,
 
@@ -66,4 +66,5 @@ Mezőgazdasági termelőszervezetként / újonnan alapított mezőgazdasági ter
 
 7. Újonnan alapított mezőgazdasági termelőszervezet esetén mezőgazdasági üzemközpont hiányában nyilatkozat arról, hogy földhasználati jogosultság megszerzésétől számított 1 éven belül mezőgazdasági üzemközpontot létesít, és annak a 6. pont szerinti adatait bejelenti.
 
-[^76]: A 2. melléklet a 31/2024. (II. 22.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^78]: A 2. melléklet a 31/2024. (II. 22.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^79]: A 2. melléklet 1.4. pontja a 301/2024. (X. 22.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.

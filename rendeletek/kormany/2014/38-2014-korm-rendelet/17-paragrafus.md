@@ -2,7 +2,7 @@
 
 a) a Földforgalmi tv. szerint a földhasználati jogosultság megszerzése feltételeként vállalt, a Földforgalmi tv. 42. § (5) bekezdésében meghatározott, a mezőgazdasági üzemközpont létesítésére vonatkozó kötelezettségét az ott meghatározott időn belül teljesíti, és
 
-b)[^58] a mezőgazdasági üzemközpont adatait – a (2) és (3) bekezdésben meghatározott időponttól számított 15 napon belül – bejelenti a mezőgazdasági igazgatási szervhez.
+b)[^60] a mezőgazdasági üzemközpont adatait – a (2) és (3) bekezdésben meghatározott időponttól számított 15 napon belül – bejelenti a mezőgazdasági igazgatási szervhez.
 
 (2) Az (1) bekezdés b) pontjában foglalt 15 napos határidő számításának kezdő napja a mezőgazdasági üzemközpont
 
@@ -16,10 +16,10 @@ követő nap.
 
 (4) Az (1) bekezdés b) pontjában előírt bejelentés során a 8. §-ban foglaltakat kell alkalmazni.
 
-(5)[^59] Az (1) bekezdésben foglalt együttes feltételek fennállása esetén az adatlapon az újonnan alapított mezőgazdasági termelőszervezet státuszra való utalás törlését a mezőgazdasági üzemközpont adatainak bejegyzésével egyidejűleg kell a mezőgazdasági igazgatási szervnek elvégeznie.
+(5)[^61] Az (1) bekezdésben foglalt együttes feltételek fennállása esetén az adatlapon az újonnan alapított mezőgazdasági termelőszervezet státuszra való utalás törlését a mezőgazdasági üzemközpont adatainak bejegyzésével egyidejűleg kell a mezőgazdasági igazgatási szervnek elvégeznie.
 
-(6)[^60] Az (1) bekezdés b) pontjában foglalt határidő elmulasztása esetén a 12. § (6) bekezdésében foglaltakat kell alkalmazni.
+(6)[^62] Az (1) bekezdés b) pontjában foglalt határidő elmulasztása esetén a 12. § (6) bekezdésében foglaltakat kell alkalmazni.
 
-[^58]: A 17. § (1) bekezdés b) pontja a 360/2019. (XII. 30.) Korm. rendelet 131. § (1) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^59]: A 17. § (5) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 131. § (1) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^60]: A 17. § (6) bekezdése a 136/2016. (VI. 13.) Korm. rendelet 12. §-a szerint módosított szöveg.
+[^60]: A 17. § (1) bekezdés b) pontja a 360/2019. (XII. 30.) Korm. rendelet 131. § (1) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^61]: A 17. § (5) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 131. § (1) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^62]: A 17. § (6) bekezdése a 136/2016. (VI. 13.) Korm. rendelet 12. §-a szerint módosított szöveg.

@@ -26,7 +26,7 @@
 
 ## c) cég esetében a cégjegyzékszáma,
 
-## d) székhelye (telephelye).
+## d)[^83] székhelye (telephelye, fióktelepe).
 
 ## 2.3. A szervezet vezető tisztségviselőjének vagy cégvezetőjének
 
@@ -42,6 +42,7 @@
 
 ## 3. Adatváltozással érintett adat megjelölése és az adatváltozás megnevezése.
 
-6. számú melléklet a 38/2014. (II. 24.) Korm. rendelethez[^80]
+6. számú melléklet a 38/2014. (II. 24.) Korm. rendelethez[^84]
 
-[^80]: A 6. mellékletet a 341/2016. (XI. 17.) Korm. rendelet 21. § b) pontja iktatta be, a 457/2017. (XII. 28.) Korm. rendelet 490. § h) pontja hatályon kívül helyezte. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^83]: Az 5. melléklet 2.2. pont d) alpontja a 301/2024. (X. 22.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^84]: A 6. mellékletet a 341/2016. (XI. 17.) Korm. rendelet 21. § b) pontja iktatta be, a 457/2017. (XII. 28.) Korm. rendelet 490. § h) pontja hatályon kívül helyezte. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
