@@ -1,4 +1,4 @@
-34. §[^26] A borászati üzemengedélyes a borászati üzem
+34. §[^35] A borászati üzemengedélyes a borászati üzem
 
 a) engedélyezett tevékenységében vagy az üzemengedély iránti kérelemben megadott adataiban bekövetkezett változást,
 
@@ -14,4 +14,4 @@ cc) az ilyen berendezéssel folytatott tevékenység megszüntetését
 
 a tevékenységben, adatokban bekövetkező változás, a működés, tevékenység megszüntetése vagy az üzembe helyezés napját követő 7 napon belül bejelenti a NÉBIH és a gazdasági aktát vezető hegybíró részére.
 
-[^26]: A 34. § a 392/2023. (VIII. 14.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^35]: A 34. § a 392/2023. (VIII. 14.) Korm. rendelet 8. §-ával megállapított szöveg.

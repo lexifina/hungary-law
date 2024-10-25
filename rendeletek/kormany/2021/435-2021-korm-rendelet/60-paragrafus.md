@@ -10,7 +10,7 @@ a) az (EU) 2019/34 bizottsági végrehajtási rendelet I. melléklete szerinti e
 
 b) a Minisztérium honlapján közzétett minta szerint elkészített termékleírást;
 
-c)[^52] a Kincstár által készített térképet
+c)[^61] a Kincstár által készített térképet
 
 ca) a lehatárolt termőhelyről és
 
@@ -22,4 +22,4 @@ e) a kérelemről tartott hegyközségi szavazás vagy több érintett hegyközs
 
 f) a kérelemről a hegyközségi közgyűlésen kifejtett esetleges kisebbségi véleményt is tartalmazó közgyűlési jegyzőkönyvet vagy több érintett hegyközség esetén valamennyi hegyközség közgyűlési jegyzőkönyvét.
 
-[^52]: A 60. § c) pont nyitó szövegrésze a 107/2024. (V. 9.) Korm. rendelet 42. § f) pontja szerint módosított szöveg.
+[^61]: A 60. § c) pont nyitó szövegrésze a 107/2024. (V. 9.) Korm. rendelet 42. § f) pontja szerint módosított szöveg.

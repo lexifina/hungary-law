@@ -1,10 +1,10 @@
 ## 12. Az első származási bizonyítvány, a must származási bizonyítvány és a termelési jelentés
 
-37. §[^29] (1) A borászati üzemengedélyes a borászati üzem helye szerint illetékes hegybíró részére
+37. §[^38] (1) A borászati üzemengedélyes a borászati üzem helye szerint illetékes hegybíró részére
 
 a) a seprős újbor előállításának igazolására első származási bizonyítvány iránti kérelmet nyújt be legkésőbb az előállítás borpiaci évében január 10-ig, a tokaji borkülönlegességek és a november 30-át követően szüretelt szőlőből készült borászati termékek előállítása esetében február 20-ig,
 
-b)[^30] must származási bizonyítvány iránti kérelmet nyújt be
+b)[^39] must származási bizonyítvány iránti kérelmet nyújt be
 
 ba) a tokaji borkülönlegességek és a november 30-át követően szüretelt szőlőből készült borászati termékek kivételével az előállítás borpiaci évében január 5-ig seprős újbor készítéséhez fel nem használt, továbbá a kitárolásra vagy értékesítésre szánt szőlőmust, sűrített szőlőmust, finomított szőlőmustsűrítmény, részben erjedt szőlőmust és még erjedésben lévő újbor vonatkozásában az előállítás borpiaci évében január 10-ig,
 
@@ -22,10 +22,10 @@ b) érvényteleníti és bevonja, ha az első származási bizonyítvánnyal ös
 
 (4) Az (1) bekezdésben foglaltaktól eltérően az első származási bizonyítvány, valamint a must származási bizonyítvány kiállítása iránt a Btv. 9. § (4) bekezdése szerinti igazoláson alapuló kérelem legkésőbb az igazolás kiállítását követő 7. napig nyújtható be. Az ilyen módon benyújtott kérelem nem képezi a termelési jelentés részét.
 
-(5)[^31] A termelési jelentés elkészítése során nem kell figyelembe venni a borászati termék előállításához felhasznált, első származási bizonyítvánnyal rendelkező borászati terméktétel, valamint a további feldolgozással érintett borászati terméktételre készletigazolás céljából kiadott első származási bizonyítvánnyal rendelkező borászati terméktétel mennyiségét.
+(5)[^40] A termelési jelentés elkészítése során nem kell figyelembe venni a borászati termék előállításához felhasznált, első származási bizonyítvánnyal rendelkező borászati terméktétel, valamint a további feldolgozással érintett borászati terméktételre készletigazolás céljából kiadott első származási bizonyítvánnyal rendelkező borászati terméktétel mennyiségét.
 
 (6) A must, a sűrített szőlőmust és a finomított szőlőmustsűrítmény Magyarország területéről történő kivitele esetén az e § szerint kiadott must származási bizonyítvány a kivitelre szánt must termék tétel végső származási bizonyítványa.
 
-[^29]: A 37. § a 23/2022. (I. 27.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^30]: A 37. § (1) bekezdés b) pontja a 316/2022. (VIII. 16.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^31]: A 37. § (5) bekezdése a 316/2022. (VIII. 16.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.
+[^38]: A 37. § a 23/2022. (I. 27.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^39]: A 37. § (1) bekezdés b) pontja a 316/2022. (VIII. 16.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^40]: A 37. § (5) bekezdése a 316/2022. (VIII. 16.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.

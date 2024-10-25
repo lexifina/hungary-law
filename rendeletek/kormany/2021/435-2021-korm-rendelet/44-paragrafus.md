@@ -1,6 +1,6 @@
 44. § (1) A szakmai-jövedéki nyilvántartásba műveletenként kell bejegyezni
 
-a)[^34] legkésőbb a művelet elvégzésének napját követő első munkanapig
+a)[^43] legkésőbb a művelet elvégzésének napját követő első munkanapig
 
 aa) a szacharóz, a savtartalom növelésére használt termékek, valamint a savtompításra használt termékek ki- és betárolását,
 
@@ -36,7 +36,7 @@ eb) az (EU) 2018/273 felhatalmazáson alapuló bizottsági rendelet 9. cikk (1) 
 
 ec) a melléktermék keletkezését,
 
-ed)[^35] az (EU) 2018/273 felhatalmazáson alapuló bizottsági rendelet 29. cikk (3) bekezdése szerinti művelet elvégzését, a lepárlásra szánt szeszezett bor előállításán, valamint azon műveleten kívül, amelynek bejegyzésére e rendelet korábbi bejegyzést ír elő,
+ed)[^44] az (EU) 2018/273 felhatalmazáson alapuló bizottsági rendelet 29. cikk (3) bekezdése szerinti művelet elvégzését, a lepárlásra szánt szeszezett bor előállításán, valamint azon műveleten kívül, amelynek bejegyzésére e rendelet korábbi bejegyzést ír elő,
 
 ee) az adómentes bor fogyasztását,
 
@@ -52,11 +52,11 @@ f) legkésőbb július 31-ig a borpiaci év során a hivatalos zárkészletben b
 
 (4) Az általános bortermelői regisztert vagy kisüzemi bortermelői regisztert vezető borászati üzemengedélyes az (1) bekezdés e) pont eg) alponjától eltérően a borászati termék előállítása során keletkezett veszteséget a forgalomba hozatalkor összesítve is bejegyezheti a szakmai-jövedéki nyilvántartásba.
 
-(5)[^36] A szakmai-jövedéki nyilvántartásban – a borecet borból előállítása kivételével – nem kell rögzíteni a borecettel kapcsolatos műveleteket.
+(5)[^45] A szakmai-jövedéki nyilvántartásban – a borecet borból előállítása kivételével – nem kell rögzíteni a borecettel kapcsolatos műveleteket.
 
-(6)[^37] A borászati üzemengedélyben meghatározott adómentes fogyasztásra szánt borászati terméktétel mennyiségét a szakmai-jövedéki nyilvántartásba a borászati üzemengedély kiadásától számított 7 napon belül hektoliterben, két tizedesjegy pontossággal kell bejegyezni.
+(6)[^46] A borászati üzemengedélyben meghatározott adómentes fogyasztásra szánt borászati terméktétel mennyiségét a szakmai-jövedéki nyilvántartásba a borászati üzemengedély kiadásától számított 7 napon belül hektoliterben, két tizedesjegy pontossággal kell bejegyezni.
 
-[^34]: A 44. § (1) bekezdés a) pontja a 392/2023. (VIII. 14.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^35]: A 44. § (1) bekezdés e) pont ed) alpontja a 392/2023. (VIII. 14.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^36]: A 44. § (5) bekezdését a 392/2023. (VIII. 14.) Korm. rendelet 11. § (3) bekezdése iktatta be.
-[^37]: A 44. § (6) bekezdését a 392/2023. (VIII. 14.) Korm. rendelet 11. § (3) bekezdése iktatta be.
+[^43]: A 44. § (1) bekezdés a) pontja a 392/2023. (VIII. 14.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^44]: A 44. § (1) bekezdés e) pont ed) alpontja a 392/2023. (VIII. 14.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^45]: A 44. § (5) bekezdését a 392/2023. (VIII. 14.) Korm. rendelet 11. § (3) bekezdése iktatta be.
+[^46]: A 44. § (6) bekezdését a 392/2023. (VIII. 14.) Korm. rendelet 11. § (3) bekezdése iktatta be.

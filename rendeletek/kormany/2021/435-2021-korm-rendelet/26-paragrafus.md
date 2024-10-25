@@ -6,7 +6,7 @@
 
 a) a NÉBIH részére,
 
-b)[^12] a Kincstár részére, valamint
+b)[^21] a Kincstár részére, valamint
 
 c) a helyszíni szemlét elrendelő hegybíró részére, amennyiben a helyszíni szemlét nem ő folytatta le.
 
@@ -14,7 +14,7 @@ c) a helyszíni szemlét elrendelő hegybíró részére, amennyiben a helyszín
 
 (4) A hegybíró a kivágás tényének megállapítását követően vagy a NÉBIH kivágást megállapító jegyzőkönyve alapján az újratelepítési jogosultságot a gazdasági aktába bejegyzi.
 
-(5)[^13] A (4) bekezdéstől eltérően újratelepítési jogosultság a gazdasági aktába nem jegyezhető be, ha a hegybíró a (2) bekezdés szerinti helyszíni szemle során megállapítja, hogy a kivágással érintett ültetvény területe az (EU) 2018/273 felhatalmazáson alapuló bizottsági rendelet 2. cikk (1) bekezdés d) pontja szerinti művelés nélkül hagyott szőlőtermő terület.
+(5)[^22] A (4) bekezdéstől eltérően újratelepítési jogosultság a gazdasági aktába nem jegyezhető be, ha a hegybíró a (2) bekezdés szerinti helyszíni szemle során megállapítja, hogy a kivágással érintett ültetvény területe az (EU) 2018/273 felhatalmazáson alapuló bizottsági rendelet 2. cikk (1) bekezdés d) pontja szerinti művelés nélkül hagyott szőlőtermő terület.
 
-[^12]: A 26. § (2) bekezdés b) pontja a 107/2024. (V. 9.) Korm. rendelet 42. § e) pontja szerint módosított szöveg.
-[^13]: A 26. § (5) bekezdését a 392/2023. (VIII. 14.) Korm. rendelet 3. §-a iktatta be.
+[^21]: A 26. § (2) bekezdés b) pontja a 107/2024. (V. 9.) Korm. rendelet 42. § e) pontja szerint módosított szöveg.
+[^22]: A 26. § (5) bekezdését a 392/2023. (VIII. 14.) Korm. rendelet 3. §-a iktatta be.
