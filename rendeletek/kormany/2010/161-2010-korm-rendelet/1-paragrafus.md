@@ -42,7 +42,7 @@ h) a rejtjelző eszközök biztonságával összefüggő egyéb dokumentumok,
 
 10. rejtjelfelügyelő: a biztonsági vezető felügyelete mellett a rejtjeltevékenység alkalmazási területén a rejtjeltevékenység személyi, fizikai, adminisztratív, valamint a rejtjelbiztonsági követelményeinek érvényesüléséért felelős személy,
 
-11. rejtjel-hozzáférési engedély: az állami vagy közfeladat végrehajtása érdekében a rejtjeltevékenységgel összefüggő munkakörbe történő kinevezésre jogosult vezető által az előírt szintű nemzetbiztonsági ellenőrzés eredményeként kockázatmentességet igazoló biztonsági szakvélemény alapján adott írásbeli felhatalmazás, amely rögzíti, hogy az engedély birtokosa milyen rejtjelanyaghoz férhet hozzá,
+11.[^1] rejtjel-hozzáférési engedély: az állami vagy közfeladat végrehajtása érdekében a biztonsági vezető által az előírt szintű nemzetbiztonsági ellenőrzés eredményeként kockázatmentességet igazoló biztonsági szakvélemény alapján adott írásbeli felhatalmazás, amely rögzíti, hogy az engedély birtokosa milyen rejtjelanyaghoz férhet hozzá,
 
 12. rejtjelszabályzat: a minősített adatot kezelő szerv vezetője által kiadott belső rendelkezés, amely a rejtjeltevékenység általános szabályozására szolgál, valamint meghatározza a rejtjelanyag szállítására és tárolására vonatkozó követelményeket,
 
@@ -62,8 +62,12 @@ h) a rejtjelző eszközök biztonságával összefüggő egyéb dokumentumok,
 
 20. rendszeresítési engedély: az NBF által lefolytatott engedélyezési eljárást követően kiadott határozat, amely rögzíti a kérelemben azonosított típusú és verziójú rejtjelző eszköz rendeltetését és meghatározza az azon rejtjelezhető minősített adat legmagasabb minősítési szintjét,
 
-21.[^1] TEMPEST követelmények: a „Titkos!” és „Szigorúan titkos!” minősítési szintű nemzeti minősített adat, valamint a „Bizalmas!” vagy magasabb minősítési szintű külföldi minősített adat bizalmasságának védelme érdekében kialakított biztonsági intézkedések – amelyek kiterjednek az elektromos és adatkábelek vonalvezetésére, a rendszer környezetében alkalmazható berendezésekre, árnyékolástechnikai megoldásokra, valamint csökkentett kisugárzású eszközökre – együttese, amelyet a rendszer valamennyi eleme vezetett és elektromágneses kompromittáló kisugárzásának csökkentése érdekében alakítottak ki,
+21.[^2] TEMPEST követelmények: a „Titkos!” és „Szigorúan titkos!” minősítési szintű nemzeti minősített adat, valamint a „Bizalmas!” vagy magasabb minősítési szintű külföldi minősített adat bizalmasságának védelme érdekében kialakított biztonsági intézkedések – amelyek kiterjednek az elektromos és adatkábelek vonalvezetésére, a rendszer környezetében alkalmazható berendezésekre, árnyékolástechnikai megoldásokra, valamint csökkentett kisugárzású eszközökre – együttese, amelyet a rendszer valamennyi eleme vezetett és elektromágneses kompromittáló kisugárzásának csökkentése érdekében alakítottak ki,
 
 22. üzemeltetés-biztonsági szabályzat: a rendszer egy meghatározott üzemeltetési helyén a biztonsági követelmények teljesítése érdekében követendő feladatok, eljárások, valamint az üzemeltetéshez szükséges munkakörök teljes körű leírása.
 
-[^1]: Az 1. § 21. pontja a 318/2015. (X. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
+23.[^3] külföldi rejtjelző eszköz: a NATO, az EU vagy ezek valamely tagállama által engedélyezett rejtjelző eszköz.
+
+[^1]: Az 1. § 11. pontja a 303/2024. (X. 24.) Korm. rendelet 27. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § 21. pontja a 318/2015. (X. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: Az 1. § 23. pontját a 303/2024. (X. 24.) Korm. rendelet 19. §-a iktatta be.

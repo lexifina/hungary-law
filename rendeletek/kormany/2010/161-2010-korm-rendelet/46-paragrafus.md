@@ -10,11 +10,11 @@ c) a rejtjelző eszköz, a működtetéséhez szükséges tartozékok, rejtjelku
 
 d) a rejtjelző eszköz eszköz-specifikus biztonsági követelményeit.
 
-(3)[^27]
+(3)[^45]
 
 (4) Nemzeti minősített adat rejtjelzésére csak az NBF által kiadott rendszeresítési engedéllyel rendelkező rejtjelző eszköz alkalmazható.
 
-(5)[^28]
+(5)[^46]
 
-[^27]: A 46. § (3) bekezdését a 375/2020. (VII. 30.) Korm. rendelet 35. § d) pontja hatályon kívül helyezte.
-[^28]: A 46. § (5) bekezdését a 375/2020. (VII. 30.) Korm. rendelet 35. § d) pontja hatályon kívül helyezte.
+[^45]: A 46. § (3) bekezdését a 375/2020. (VII. 30.) Korm. rendelet 35. § d) pontja hatályon kívül helyezte.
+[^46]: A 46. § (5) bekezdését a 375/2020. (VII. 30.) Korm. rendelet 35. § d) pontja hatályon kívül helyezte.

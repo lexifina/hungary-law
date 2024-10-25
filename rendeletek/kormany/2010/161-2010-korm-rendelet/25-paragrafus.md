@@ -9,3 +9,7 @@
 (3) A minősített adat adathordozón akkor kezelhető, ha a tényleges használatba vétel előtt az adathordozó nyilvántartásba került. A minősített adatot elektronikus rendszeren kezelő szerv az adathordozón feltünteti az azon tárolható legmagasabb minősítési szintű adat minősítési szintjét, valamint a nyilvántartási számot. Amennyiben ez nem lehetséges, a minősített adatot elektronikus rendszeren kezelő szerv a fel nem tüntethető azonosítók dokumentálására külön kísérőlapot készít. Az ilyen módon jelölt adathordozót úgy kezeli és védi, mintha az ténylegesen az engedélyezett legmagasabb minősítésű adatot tartalmazná.
 
 (4) Az adathordozóra a feltüntetett minősítési szintnél magasabb minősítési szintű minősített adat nem kerülhet, kivéve, ha az adathordozón feltüntetett minősítési szintet a magasabb minősítési szintnek megfelelően módosítják.
+
+(5)[^19] A minősített adatot elektronikus rendszeren kezelő szerv a rendszerhez kapcsolódó – adathordozónak nem minősülő – elektronikus eszközön feltünteti a rendszer által kezelhető legmagasabb minősítési szintet.
+
+[^19]: A 25. § (5) bekezdését a 303/2024. (X. 24.) Korm. rendelet 20. §-a iktatta be.

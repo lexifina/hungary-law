@@ -6,8 +6,10 @@
 
 (3) Több felhasználóra azonos felhasználónév nem engedélyezhető.
 
-(4) Jelszóval történő azonosítás esetén a jelszóházirendet az NBF hagyja jóvá.
+(4)[^23] A jelszóval történő azonosítás esetén alkalmazandó jelszóházirend minimumkövetelményeit az NBF határozza meg.
 
 (5) A sikertelen és jogosulatlan rendszer-hozzáférési kísérleteket a minősített adatot elektronikus rendszeren kezelő szerv a jogosulatlan hozzáférési kísérletek és a felhasználói hibák elkülönítése érdekében naplózza és ellenőrzi.
 
 (6) A minősített adatot elektronikus rendszeren kezelő szerv a rendszeradminisztrátor jelszavait lepecsételt borítékban, a rendszerre vonatkozó rendszerengedély által meghatározott minősített adat legmagasabb minősítési szintjének megfelelő biztonsági körülmények között tárolja.
+
+[^23]: A 36. § (4) bekezdése a 303/2024. (X. 24.) Korm. rendelet 22. §-ával megállapított szöveg.

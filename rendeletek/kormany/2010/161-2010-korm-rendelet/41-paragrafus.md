@@ -8,6 +8,34 @@
 
 (3) A rejtjeltevékenységet folytató szerv rejtjeltevékenysége során csak olyan rejtjelző eszközt alkalmazhat, amelyre vonatkozóan az NBF rendszerengedélyt adott ki.
 
-(4) Nemzeti minősített adat rejtjelzésére csak olyan rejtjelző eszköz alkalmazható, amelynek fejlesztője, illetve gyártója rendelkezik a minősített adat kezeléséhez szükséges, jogszabályban meghatározott személyi és tárgyi feltételekkel, és amely szerv esetében az NBF a rejtjelző eszközre vonatkozóan – a létrehozására vonatkozó döntéstől a tervezést, a fejlesztést, a beszerzést, a telepítést, az üzemeltetést, a továbbfejlesztést és a módosítást is érintően, a rendszer egyes elemeinek vagy egészének a kivonásáig és megsemmisítéséig – megbízhatóan meggyőződött arról, hogy nem áll fenn a bizalmasság elve sérülésének veszélye.
+(4)[^28] Nemzeti minősített adat rejtjelzésére az NBF által rendszeresített
 
-(5) Nemzeti minősített adat rejtjelzésére külföldi eszköz csak akkor alkalmazható, amennyiben a (4) bekezdésben meghatározott rejtjelző eszköz nem áll rendelkezésre, vagy a katonai műszaki követelmények nem teszik lehetővé külön nemzeti és külföldi rejtjelző eszköz együttes alkalmazását katonai műveletekben.
+a) a 44/A. § szerinti nemzeti fejlesztésű rejtjelző eszköz alkalmazható, amelynek fejlesztője esetében az NBF a rejtjelző eszközre vonatkozóan – a létrehozására vonatkozó döntéstől a tervezést, a fejlesztést, a beszerzést, a telepítést, az üzemeltetést, a továbbfejlesztést és a módosítást is érintően, a rendszer egyes elemeinek vagy egészének a kivonásáig és megsemmisítéséig – megbízhatóan meggyőződött arról, hogy nem áll fenn a bizalmasság elve sérülésének veszélye, vagy
+
+b) külföldi rejtjelző eszköz alkalmazható.
+
+(5)[^29] Külföldi rejtjelző eszköz nemzeti minősített adat rejtjelzésére történő alkalmazása esetén
+
+a) a rejtjeltevékenységet folytató szerv beszerzi a rejtjelző eszközt és az ahhoz tartozó kulcsgyártó eszközt, és ellátja azok üzemeltetését,
+
+b) a rejtjelző eszközhöz tartozó rejtjelkulcsok váltása és kezelése a rejtjeltevékenységet folytató szerv feladata,
+
+c) az eszköz által igénybe vett kommunikációs csatornát
+
+ca) a rejtjeltevékenységet folytató szerv tulajdonában lévő hálózaton,
+
+cb) bérelt – a rejtjelzéssel érintett minősített adatot elektronikusan kezelő szerveken kívül más által nem használt – hálózaton,
+
+cc) kormányzati célú elkülönült hírközlő hálózaton
+
+kell biztosítani,
+
+d) a rejtjeltevékenységet folytató szerv a c) pont ca) és cb) alpontja szerinti hálózaton hálózati kommunikációt, forgalmat figyelő eszközt alkalmaz, és ellátja a hálózati kommunikációt, forgalmat figyelő eszköz működtetéséhez kapcsolódó feladatokat,
+
+e) a rejtjeltevékenységet folytató szerv ellátja a rejtjelző eszköz telepítésével, üzembe helyezésével kapcsolatos feladatokat.
+
+(6)[^30] Az (5) bekezdés a) pontjában meghatározott, a kulcsgyártó eszköz beszerzéséhez, üzemeltetéséhez kapcsolódó feladat alól kivételt képez, ha a rejtjelző eszközhöz tartozó kulcsgyártó eszköz más rejtjeltevékenységet folytató szervnél rendelkezésre áll és e szerv az üzemeltetéssel kapcsolatos feladatok ellátását vállalja.
+
+[^28]: A 41. § (4) bekezdése a 303/2024. (X. 24.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^29]: A 41. § (5) bekezdése a 303/2024. (X. 24.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^30]: A 41. § (6) bekezdését a 303/2024. (X. 24.) Korm. rendelet 23. § (2) bekezdése iktatta be.
