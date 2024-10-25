@@ -1,0 +1,4 @@
+13. §[^29] E rendeletnek a Debrecen megyei jogú város külterületén, az Észak-Nyugati Gazdasági Övezetben ipari telephely kialakításával és a területen megvalósuló munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 58/2018. (III. 26.) Korm. rendelet módosításáról szóló 306/2024. (X. 24.) Korm. rendelettel (a továbbiakban: Módr8.) módosított 3/A. § (1) és (2) bekezdését, 1. melléklet I. pontját, valamint megállapított 1. § (7) bekezdését, 3/A. § (5) és (6) bekezdését, valamint 3. mellékletét a Módr8. hatálybalépésekor[^30] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
+[^29]: A 13. §-t a 306/2024. (X. 24.) Korm. rendelet 3. §-a iktatta be.
+[^30]: A hatálybalépés időpontja 2024. október 25.

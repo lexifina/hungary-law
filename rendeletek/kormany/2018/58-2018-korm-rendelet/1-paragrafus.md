@@ -14,8 +14,11 @@ b) a Beruházások keretében vagy ahhoz kapcsolódóan útépítési, közműfe
 
 (6)[^5] Az (5) bekezdés szerinti tereprendezés és mélyalapozás építési engedélyezési dokumentációjának az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet 8. mellékletében foglaltakon túl tartalmaznia kell talajvédelmi tervet.
 
+(7)[^6] Az (5) bekezdés szerint engedélyezett ütemre használatbavételre irányuló eljárást nem kell lefolytatni, annak elkészültét és megfelelőségét az építmény használatbavételére irányuló kérelem elbírálása során kell igazolni.
+
 [^1]: Az 1. § (1) bekezdése a 225/2019. (IX. 25.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^2]: Az 1. § (3) bekezdését a 231/2018. (XII. 6.) Korm. rendelet 1. §-a iktatta be.
 [^3]: Az 1. § (4) bekezdését a 231/2018. (XII. 6.) Korm. rendelet 1. §-a iktatta be.
 [^4]: Az 1. § (5) bekezdését a 342/2023. (VII. 25.) Korm. rendelet 1. §-a iktatta be.
 [^5]: Az 1. § (6) bekezdését a 342/2023. (VII. 25.) Korm. rendelet 1. §-a iktatta be.
+[^6]: Az 1. § (7) bekezdését a 306/2024. (X. 24.) Korm. rendelet 1. §-a iktatta be.
