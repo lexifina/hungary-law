@@ -24,6 +24,6 @@ f) az elszámolható költségekre vonatkozó adatokat és
 
 g) a kérelem benyújtásának időpontját
 
-## tartalmazza.
+tartalmazza.
 
 (4) A támogatási kérelemhez csatolni kell az e rendeletben meghatározott nyilatkozatokat, dokumentumokat. A támogató a támogatási kérelem elbírálásához szükséges további információk, adatok, iratok benyújtását is előírhatja.

@@ -1,7 +1,5 @@
-## 10. Regionális beruházási támogatás
+## 10.[^35]
 
-## 14. § A regionális beruházási támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) igénybevételének feltétele, hogy a tervezett beruházás olyan induló beruházásnak minősüljön, amelyet
+14. §
 
-a) a 37/2011. (III. 22.) Korm. rendelet 25. § (1) bekezdés a)–c) pontja szerinti régióban kis- és középvállalkozás vagy
-
-b) a 37/2011. (III. 22.) Korm. rendelet 25. § (1) bekezdés d) pontja szerinti településen kis- és középvállalkozás
+[^35]: A 10. alcímet (14–17. §-t) a 304/2024. (X. 24.) Korm. rendelet 11. § d) pontja hatályon kívül helyezte.

@@ -1,18 +1,16 @@
-## 32/A. § E rendeletnek a Gazdaság-újraindítási Akcióterv keretében a kistelepülési üzletek támogatásáról szóló 62/2021. (II. 12.) Korm. rendelet módosításáról szóló 352/2021. (VI. 24.) Korm. rendelettel (a továbbiakban: Módr1.) megállapított 5. § (1) bekezdés d) és e) pontját, valamint 5. § (1a) bekezdését a Módr1. hatálybalépését[^25] megelőzően benyújtott, és még el nem bírált támogatási kérelmekre is alkalmazni kell.
+## 32/A. § E rendeletnek a Gazdaság-újraindítási Akcióterv keretében a kistelepülési üzletek támogatásáról szóló 62/2021. (II. 12.) Korm. rendelet módosításáról szóló 352/2021. (VI. 24.) Korm. rendelettel (a továbbiakban: Módr1.) megállapított 5. § (1) bekezdés d) és e) pontját, valamint 5. § (1a) bekezdését a Módr1. hatálybalépését[^52] megelőzően benyújtott, és még el nem bírált támogatási kérelmekre is alkalmazni kell.
 
 ## 21. Az Európai Unió jogának való megfelelés
 
-## 33. §[^26] Ez a rendelet
+33. §[^53] Ez a rendelet
 
-a) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet (HL L 352, 2013.12.24., 1. o.),
+a) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2023. december 13-i (EU) 2023/2831 bizottsági rendelet,
 
-b) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének az általános gazdasági érdekű szolgáltatást nyújtó vállalkozások számára nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2012. április 25-i 360/2012/EU bizottsági rendelet (HL L 114, 2012.4.26., 8. o.),
+b) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének az általános gazdasági érdekű szolgáltatást nyújtó vállalkozások számára nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2023. december 13-i (EU) 2023/2832 bizottsági rendelet, és
 
-c) a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-i 651/2014/EU bizottsági rendelet (HL L 187, 2014.6.26., 1. o.) I. és II. fejezete, valamint 13–14., 22., 32–33., 38. és 41. cikke és
-
-d) az állami támogatási intézkedésekre vonatkozó ideiglenes keret a gazdaságnak a jelenlegi COVID-19-járvánnyal összefüggésben való támogatása céljából című, 2020. március 19-i, 2020/C 91 I/01 számú európai bizottsági közlemény
+c) a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-i 651/2014/EU bizottsági rendelet I. és II. fejezete, valamint 32. és 33. cikke
 
 hatálya alá tartozó támogatást tartalmaz.
 
-[^25]: A hatálybalépés időpontja 2021. június 25.
-[^26]: A 33. § a 226/2021. (V. 4.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^52]: A hatálybalépés időpontja 2021. június 25.
+[^53]: A 33. § a 304/2024. (X. 24.) Korm. rendelet 9. §-ával megállapított szöveg.
