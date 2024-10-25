@@ -1,6 +1,6 @@
 ## 5. A pályázat elbírálása
 
-5. § (1)[^17] A miniszter a pályázatokra vonatkozó döntés előkészítése érdekében véleményező szervként szakértőkből álló Bíráló Bizottságot állít fel. A Bíráló Bizottság tagjait a miniszter kéri fel.
+5. § (1)[^22] A miniszter a pályázatokra vonatkozó döntés előkészítése érdekében véleményező szervként szakértőkből álló Bíráló Bizottságot állít fel. A Bíráló Bizottság tagjait a miniszter kéri fel.
 
 (2) A Bíráló Bizottság támogatási javaslatot tesz a miniszter részére.
 
@@ -8,7 +8,7 @@
 
 (4) A pályázatokat a benyújtási határidő utolsó napját követő 15 napon belül kell elbírálni.
 
-(5)[^18] A döntés időpontját, a nyertes pályázók névsorát, az elnyert támogatás összegét és jogcímének megnevezését a minisztérium a kormányzati portálon a döntést követő 15 napon belül közzéteszi és ezzel egyidejűleg értesítést küld a Kincstár részére az alábbi adattartalommal:
+(5)[^23] A döntés időpontját, a nyertes pályázók névsorát, az elnyert támogatás összegét és jogcímének megnevezését a minisztérium a kormányzati portálon a döntést követő 15 napon belül közzéteszi és ezzel egyidejűleg értesítést küld a Kincstár részére az alábbi adattartalommal:
 
 a) nyertes pályázó neve, születési neve,
 
@@ -16,12 +16,12 @@ b) nyertes pályázó lakóhelye vagy székhelye,
 
 c) nyertes pályázó adószáma, vagy adóazonosító jele,
 
-d)[^19] nyertes pályázó ügyfél-azonosítója,
+d)[^24] nyertes pályázó ügyfél-azonosítója,
 
 e) a támogatási cél megnevezése,
 
 f) a nyertes pályázó részére megítélt támogatás forintban és euróban meghatározott összege.
 
-[^17]: Az 5. § (1) bekezdése a 27/2015. (V. 27.) FM rendelet 4. §-ával megállapított szöveg.
-[^18]: A 5. § (5) bekezdés nyitó szövegrésze a 88/2016. (XII. 29.) FM rendelet 53. § b) pontja szerint módosított szöveg.
-[^19]: Az 5. § (5) bekezdés d) pontja a 36/2014. (IV. 4.) VM rendelet 75. § a) pontja szerint módosított szöveg.
+[^22]: Az 5. § (1) bekezdése a 27/2015. (V. 27.) FM rendelet 4. §-ával megállapított szöveg.
+[^23]: A 5. § (5) bekezdés nyitó szövegrésze a 88/2016. (XII. 29.) FM rendelet 53. § b) pontja szerint módosított szöveg.
+[^24]: Az 5. § (5) bekezdés d) pontja a 36/2014. (IV. 4.) VM rendelet 75. § a) pontja szerint módosított szöveg.
