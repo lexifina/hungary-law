@@ -1,4 +1,4 @@
-## II/B. Fejezet[^34]
+## II/B. Fejezet[^35]
 
 ## KÖZÖS HIVATALI SZERVEZET
 
@@ -26,4 +26,4 @@ d) a honvédek jogállásáról szóló kormányrendelet szerinti szolgálati jo
 
 (3) A közös titkos ügykezelő a feladatait egyidejűleg több, az (1) bekezdés a)–c) pontja szerinti minősített adatot kezelő szerv vonatkozásában is elláthatja.
 
-[^34]: A II/B. Fejezetet (4/B. §-t) a 340/2019. (XII. 23.) Korm. rendelet 1. §-a iktatta be, szövege (4/C. §) a 177/2024. (VII. 7.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^35]: A II/B. Fejezetet (4/B. §-t) a 340/2019. (XII. 23.) Korm. rendelet 1. §-a iktatta be, szövege (4/C. §) a 177/2024. (VII. 7.) Korm. rendelet 5. §-ával megállapított szöveg.

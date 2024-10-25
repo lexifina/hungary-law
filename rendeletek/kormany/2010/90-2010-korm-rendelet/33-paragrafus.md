@@ -2,7 +2,7 @@
 
 ## 24. Kulcsok és kódok
 
-33. §[^101] (1) Munkaidő után a biztonsági tárolók és a biztonsági terület használatban lévő kulcsait a legalább 2. kategóriájú reagáló erő személyesen őrzi vagy azok elektronikai tárgyvédelemmel felügyelt elektronikus kulcstárolóban kerülnek elhelyezésre.
+33. §[^104] (1) Munkaidő után a biztonsági tárolók és a biztonsági terület használatban lévő kulcsait a legalább 2. kategóriájú reagáló erő személyesen őrzi vagy azok elektronikai tárgyvédelemmel felügyelt elektronikus kulcstárolóban kerülnek elhelyezésre.
 
 (2) A biztonsági tárolók és a biztonsági terület tartalékkulcsait és számkombinációit, valamint a biztonsági vezetői kódot – lezárt és lepecsételt borítékban – a biztonsági vezető vagy az általa írásban kijelölt személy őrzi:
 
@@ -36,7 +36,7 @@ c) a kód felfedése (illetéktelen személy tudomására jutása) vagy annak ve
 
 (6) A számkombinációk és kódok megváltoztatásának ténye és időpontja a biztonsági vezető vagy az általa írásban kijelölt személy által kezelt nyilvántartásban kerül rögzítésre.
 
-(7)[^102] Őrzés céljából a biztonsági vezetőnek vagy az általa írásban kijelölt személynek a biztonsági terület tartalékkulcsainak, számkombinációinak és a biztonsági vezetői kódnak az átadása és visszavétele dokumentált módon történik.
+(7)[^105] Őrzés céljából a biztonsági vezetőnek vagy az általa írásban kijelölt személynek a biztonsági terület tartalékkulcsainak, számkombinációinak és a biztonsági vezetői kódnak az átadása és visszavétele dokumentált módon történik.
 
-[^101]: A 33. § a 243/2016. (VIII. 17.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^102]: A 33. § (7) bekezdése a 177/2024. (VII. 7.) Korm. rendelet 22. § h) pontja szerint módosított szöveg.
+[^104]: A 33. § a 243/2016. (VIII. 17.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^105]: A 33. § (7) bekezdése a 177/2024. (VII. 7.) Korm. rendelet 22. § h) pontja szerint módosított szöveg.

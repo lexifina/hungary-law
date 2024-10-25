@@ -2,7 +2,7 @@
 
 ## 31. A főnyilvántartó könyv és a minősített adat kezeléséhez szükséges iratkezelési segédletek
 
-42. § (1)[^128] A Nyilvántartó és a Kezelőpont által használt valamennyi iratkezelési segédlet nyilvántartását a papír alapú főnyilvántartó könyv vagy elektronikus iktatórendszer tartalmazza. A főnyilvántartó könyv egyes sorszámmal kezdődik és betelte után a következő főnyilvántartó könyv sorszám kihagyása nélkül folyamatos számképzéssel folytatódik.
+42. § (1)[^131] A Nyilvántartó és a Kezelőpont által használt valamennyi iratkezelési segédlet nyilvántartását a papír alapú főnyilvántartó könyv vagy elektronikus iktatórendszer tartalmazza. A főnyilvántartó könyv egyes sorszámmal kezdődik és betelte után a következő főnyilvántartó könyv sorszám kihagyása nélkül folyamatos számképzéssel folytatódik.
 
 (2) Ha a minősített adatot kezelő szerv egyszerre több Nyilvántartóval rendelkezik, a minősített adatot kezelő szerv vezetője által kijelölt Nyilvántartó vezeti a szerv főnyilvántartó könyvét.
 
@@ -28,12 +28,12 @@ a) az iktatókönyv,
 
 b) a belső átadókönyv vagy más belső átadóokmány,
 
-c)[^129] a futárjegyzék-nyilvántartás.
+c)[^132] a futárjegyzék-nyilvántartás.
 
 (5) Minősített adatok kezelése – nemzeti, valamint NATO, NYEU, EU forrásonként elkülönítve – külön iratkezelési segédletben történik. Az egy ügyben egyszerre kezelt nemzeti, valamint NATO, NYEU, EU vagy EU intézményei minősített adatai egy – a NATO, a NYEU, az EU vagy az EU intézményei minősített adatai tekintetében megnyitott – iratkezelési segédletben is kezelhetők.
 
-(6)[^130] A főnyilvántartó könyv és az iktatókönyv nem selejtezhető. A minősített adatot kezelő szerv a belső átadókönyvet vagy más belső átadóokmányt, a futárjegyzéket és a futárjegyzék-nyilvántartást 8 évig őrzi.
+(6)[^133] A főnyilvántartó könyv és az iktatókönyv nem selejtezhető. A minősített adatot kezelő szerv a belső átadókönyvet vagy más belső átadóokmányt, a futárjegyzéket és a futárjegyzék-nyilvántartást 8 évig őrzi.
 
-[^128]: A 42. § (1) bekezdése a 242/2021. (V. 12.) Korm. rendelet 13. § i) pontja szerint módosított szöveg.
-[^129]: A 42. § (4) bekezdés c) pontja a 243/2016. (VIII. 17.) Korm. rendelet 35. § (1) bekezdés f) pontja, a 177/2024. (VII. 7.) Korm. rendelet 22. § j) pontja szerint módosított szöveg.
-[^130]: A 42. § (6) bekezdése a 242/2021. (V. 12.) Korm. rendelet 7. §-ával megállapított, a 177/2024. (VII. 7.) Korm. rendelet 22. § k) pontja szerint módosított szöveg.
+[^131]: A 42. § (1) bekezdése a 242/2021. (V. 12.) Korm. rendelet 13. § i) pontja szerint módosított szöveg.
+[^132]: A 42. § (4) bekezdés c) pontja a 243/2016. (VIII. 17.) Korm. rendelet 35. § (1) bekezdés f) pontja, a 177/2024. (VII. 7.) Korm. rendelet 22. § j) pontja szerint módosított szöveg.
+[^133]: A 42. § (6) bekezdése a 242/2021. (V. 12.) Korm. rendelet 7. §-ával megállapított, a 177/2024. (VII. 7.) Korm. rendelet 22. § k) pontja szerint módosított szöveg.
