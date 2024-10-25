@@ -1,0 +1,1 @@
+2. § Az állam a központi költségvetés terhére visszavonhatatlanul készfizető kezesként felel az Eximbank által jegyzett vagy más jogcímen megszerzett, a kibocsátót terhelő, a Kormány határozatában megjelölt kötvényekből eredő fizetési kötelezettségek teljesítéséért is.
