@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-13-20-6
 | 2020-08-02 | 2001-13-20-66.13 | 66/2015. (X. 26.) FM rendelet |
 | 2022-08-01 | 2001-13-20-66.14 | 20/2022. (VII. 29.) AM rendelet |
 | 2023-01-01 | 2001-13-20-66.15 | 100/2012. (IX. 28.) VM rendelet |
+| 2024-10-25 | 2001-13-20-66.16 | 20/2022. (VII. 29.) AM rendelet |

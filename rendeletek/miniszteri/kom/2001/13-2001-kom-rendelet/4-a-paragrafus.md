@@ -56,7 +56,7 @@ c) a gyérítést olyan eszközzel és módszerrel végzik, amelyet jogszabály 
 
 d) a gyérítést az engedélyezett módszer végzésére megfelelő képesítéssel rendelkező személy végzi.
 
-(8b)[^22] A (8a) bekezdésben biztosított gyérítési lehetőség során elpusztított eurázsiai hód (Castor fiber) egyedi jelölésű származékának a gyérítés engedélyese és a gyérítést végző által történő személyes tartása, hasznosítása, bemutatása – a védett állatfajok védelmére, tartására, hasznosítására és bemutatására vonatkozó részletes szabályokról szóló kormányrendeletben meghatározott közérdek bizonyításának hiányában is – engedélyezhető, ha természetvédelmi érdeket nem sért. Nem engedélyezhető e származékok adásvétele, cseréje, eladásra történő felkínálása, országból történő kivitele.
+(8b)[^22] A (8a) bekezdésben biztosított gyérítési lehetőség során elpusztított eurázsiai hód (Castor fiber) származékának a gyérítés engedélyese és a gyérítést végző által történő személyes tartása, forgalomba hozatala és egyéb módon történő hasznosítása, valamint bemutatása a védett állatfajok védelmére, tartására, hasznosítására és bemutatására vonatkozó részletes szabályokról szóló 348/2006. (XII. 23.) Korm. rendelet 3. § (1) bekezdésében előírt természetvédelmi hatósági engedély nélkül végezhető. A származék forgalomba hozatala esetén az elejtett vadászható vadra vonatkozó rendelkezéseket kell alkalmazni, azzal, hogy az apróvad gyűjtőigazoláson fel kell tüntetni a természetvédelmi hatóság (8a) bekezdés szerinti engedélyének számát és a gyérítés engedélyesének nevét.
 
 (8c)[^23] A vízvisszatartásra alkalmas, mérhető vízszint különbséget okozó, a vízfolyás teljes keresztmetszetét átfogó, hód által épített struktúra (a továbbiakban: hódgát) elbontásához a természetvédelmi hatóság engedélye szükséges. Ha a hódgát elbontása nem közvetlen közegészségügyi vagy közbiztonsági okból történik, akkor az elbontás csak abban az esetben engedélyezhető, ha a hódgát által megváltoztatott élőhelyeken élő védett és fokozottan védett fajok védelmének szempontjai nem sérülnek. Az engedélyezés során mérlegelni kell a vízvisszatartásra alkalmas hódgát környező területek vízellátottságára gyakorolt hatásait, és a bontás vadon élő őshonos szervezetekre, valamint a víztestek morfológiai állapotára gyakorolt esetleges negatív hatásait.
 
@@ -83,7 +83,7 @@ d) a gyérítést az engedélyezett módszer végzésére megfelelő képesíté
 [^19]: A 4/A. § (6) bekezdése a 20/2022. (VII. 29.) AM rendelet 7. § c) és e) pontja szerint módosított szöveg.
 [^20]: A 4/A. § (7) bekezdése a 100/2012. (IX. 28.) VM rendelet 4. § (1) bekezdésével megállapított, a 62/2022. (XII. 27.) AM rendelet 1. § a) és b) pontja szerint módosított szöveg.
 [^21]: A 4/A. § (8a) bekezdését a 20/2022. (VII. 29.) AM rendelet 4. § (3) bekezdése iktatta be.
-[^22]: A 4/A. § (8b) bekezdését a 20/2022. (VII. 29.) AM rendelet 4. § (3) bekezdése iktatta be.
+[^22]: A 4/A. § (8b) bekezdését a 20/2022. (VII. 29.) AM rendelet 4. § (3) bekezdése iktatta be, szövege az 54/2024. (X. 24.) AM rendelet 1. §-ával megállapított szöveg.
 [^23]: A 4/A. § (8c) bekezdését a 20/2022. (VII. 29.) AM rendelet 4. § (3) bekezdése iktatta be.
 [^24]: A 4/A. § (9) bekezdése a 106/2011. (XI. 10.) VM rendelet 1. §-ával megállapított szöveg.
 [^25]: A 4/A. § (10) bekezdése a 100/2012. (IX. 28.) VM rendelet 4. § (2) bekezdésével megállapított szöveg.
