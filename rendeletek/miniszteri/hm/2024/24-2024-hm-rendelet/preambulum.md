@@ -1,5 +1,0 @@
-A honvédelmi alkalmazottak jogállásáról szóló 2018. évi CXIV. törvény 93. § 17. pontjában, a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 110. § (2) bekezdés 7. pontjában, a honvédelmi adatkezelésről szóló 2022. évi XXI. törvény 112. § b) pontjában, valamint a honvédek jogállásáról szóló 137/2024. (VI. 28.) Korm. rendelet 30. § (1) bekezdés b) pontjában kapott felhatalmazás alapján,
-
-a 2. alcím tekintetében a honvédek jogállásáról szóló 137/2024. (VI. 28.) Korm. rendelet 30. § (1) bekezdés b) pontjában kapott felhatalmazás alapján,
-
-a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 112. § 1. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
