@@ -1,5 +1,3 @@
-## „a) a biztonsági vezető az 1. melléklet szerinti Cég-adatlap vagy a 2. melléklet szerinti Cég-adatlap megküldésével adatszolgáltatást teljesít a változás beálltát követő 30 napon belül az NBF-nek, ha a Cég-adatlap tartalmában – így különösen ha a gazdálkodó szervezet ellen csőd-, felszámolási vagy végelszámolási eljárás indul, a Gazdasági Versenyhivatal végleges elmarasztaló határozatot hoz, vagy ha a gazdálkodó szervezet a Polgári Törvénykönyv szerint átalakul, egyesül vagy szétválik – vagy a 4. § (4) vagy (5) bekezdése alapján nemzetbiztonsági ellenőrzésre kötelezett személyek körében változás áll be,”
+16. §[^17]
 
-16. § A 92/2010. Korm. rendelet 12. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) „Bizalmas!” vagy annál magasabb minősítési szintű minősített szerződés végrehajtásába gazdálkodó szervezet fő- vagy alvállalkozóként történő bevonásáról a minősített adatot átadó szerv biztonsági vezetője az NBF-et minden esetben írásban tájékoztatja. A tájékoztatás tartalmazza a minősített szerződés azonosító adatait, tárgyát és minősítési szintjét.”
+[^17]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,9 +1,3 @@
-18. § Hatályát veszti a 92/2010. Korm. rendelet
+18. §[^19]
 
-a) 6/C. § (2) bekezdésében az „ , illetve szükség szerint a 4. § (4) bekezdésében” szövegrész,
-
-b) 6/D. §-a,
-
-c) 6/E. § (2) bekezdésében az „ , illetve szükség szerint a 4. § (4) bekezdésében” szövegrész,
-
-d) 8. § (1) bekezdés b) pontja.
+[^19]: A 18. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

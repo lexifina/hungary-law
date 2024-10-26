@@ -1,3 +1,3 @@
-21. § A 161/2010. Korm. rendelet 35. § (3) bekezdése helyébe a következő rendelkezés lép:
+21. §[^22]
 
-„(3) A rendszeradminisztrátor a hat hónapnál régebbi naplófájlokról biztonsági mentéseket készít. A naplófájlokról készült biztonsági mentéseket 8 évig kell megőrizni.”
+[^22]: A 21. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

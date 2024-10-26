@@ -1,3 +1,3 @@
-15. § A 92/2010. Korm. rendelet 7. § (3) bekezdés a) pontja helyébe a következő rendelkezés lép:
+15. §[^16]
 
-(A telephely biztonsági tanúsítvány kiadására irányuló eljárás vagy az egyszerűsített telephely biztonsági tanúsítvány kiadására irányuló eljárás során, valamint a telephely biztonsági tanúsítvány vagy az egyszerűsített telephely biztonsági tanúsítvány érvényessége alatt)
+[^16]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

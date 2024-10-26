@@ -1,7 +1,3 @@
-28. § Hatályát veszti a 161/2010. Korm. rendelet
+28. §[^29]
 
-a) 23. § (1) bekezdése,
-
-b) 43. § (2) bekezdésében a „vagy az NBF-et irányító miniszter által vezetett minisztérium honlapján közzétett űrlap” szövegrész,
-
-c) 43. § (3) bekezdése.
+[^29]: A 28. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
