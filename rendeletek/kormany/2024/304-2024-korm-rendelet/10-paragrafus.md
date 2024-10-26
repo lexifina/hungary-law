@@ -1,9 +1,3 @@
-10. § Az R.
+10. §[^11]
 
-a) 6. § b) pont bg) alpontjában a „venni,” szövegrész helyébe a „venni, és” szöveg,
-
-b) 15. alcím címében a „foglalkoztatásához nyújtható” szövegrész helyébe a „foglalkoztatásához bértámogatás formájában nyújtott” szöveg,
-
-c) 24. § (1) bekezdésében a „(2) és (3)” szövegrész helyébe a „(2)–(5)” szöveg
-
-lép.
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
