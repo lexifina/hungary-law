@@ -1,3 +1,3 @@
-2. § A 95/2012. (VIII. 30.) VM rendelet 2. § (1) bekezdés d) pontja helyébe a következő rendelkezés lép:
+2. §[^3]
 
-[Pályázat benyújtására az a nonprofit gazdasági társaság, civil szervezet és költségvetési szerv (a továbbiakban: pályázó) jogosult, amely:]
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
