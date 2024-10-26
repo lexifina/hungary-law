@@ -1,5 +1,5 @@
 ## 1. A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény végrehajtásáról szóló 146/1993. (X. 26.) Korm. rendelet módosítása
 
-1. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény végrehajtásáról szóló 146/1993. (X. 26.) Korm. rendelet [a továbbiakban: 146/1993. (X. 26.) Korm. rendelet] 22. § (5) bekezdése a következő j) és k) ponttal egészül ki:
+1. §[^2]
 
-(A nyilvántartás szerve)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

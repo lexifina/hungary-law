@@ -1,1 +1,3 @@
-7. § Hatályát veszti az 560/2020. (XII. 7.) Korm. rendelet 2. § (1a) és (1b) bekezdése.
+7. §[^8]
+
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
