@@ -1,0 +1,1 @@
+(Az egyrészről az Európai Unió és tagállamai, másrészről Grúzia közötti, a közös légtér létrehozásáról szóló megállapodással létrehozott vegyes bizottság 2/2021 határozata Magyarország vonatkozásában nemzetközi jogilag 2021. május 28-án hatályba lépett.)
