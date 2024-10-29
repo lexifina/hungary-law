@@ -1,3 +1,1 @@
-24. § A Szantv. 68/E. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Ez a § nem alkalmazandó a felszámolandó szervezetre, kivéve, ha a szanálási feladatkörében eljáró MNB a 67. § (3a) bekezdésével összhangban a felszámolandó szervezetre a 62. § (1) bekezdése szerinti minimumkövetelményt határoz meg. Ebben az esetben a szanálási feladatkörében eljáró MNB határozza meg az adatszolgáltatási és nyilvánosságra hozatali kötelezettségek tartalmát és gyakoriságát, amelyről tájékoztatja az érintett szervezetet. Az adatszolgáltatási és nyilvánosságra hozatali kötelezettségek nem haladhatják meg a 67. § (3a) bekezdése szerinti követelményeknek való megfelelés nyomon követéséhez szükséges mértéket.”
+### 24. §
