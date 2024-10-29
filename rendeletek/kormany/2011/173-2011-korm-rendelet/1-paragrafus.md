@@ -62,9 +62,9 @@
 
 21. pirotechnikai termék megsemmisítése: a pirotechnikai termék rendeltetésszerű felhasználásra véglegesen alkalmatlanná tétele oly módon, hogy az a művelet következtében környezetre veszélytelen állapotba kerül,
 
-22.[^15] pirotechnikai tevékenység: a lőfegyverekről és lőszerekről szóló 2004. évi XXIV. törvény (a továbbiakban: Ftv.) 18/A. § (1) bekezdésében ekként meghatározott fogalom,
+22.[^15] pirotechnikai tevékenység: a lőfegyverekről és lőszerekről szóló 2004. évi XXIV. törvény (a továbbiakban: Ftv.) 18/A. § (1) bekezdése szerinti tevékenységek e rendeletben meghatározott bármelyike, bármilyen együttese vagy összessége,
 
-22a.[^16] szaktudással rendelkező személy: a 4. és a T2. pirotechnikai osztályba sorolt termékek tekintetében a pirotechnikus szakképesítéssel vagy pirotechnikai terméküzemeltető szakképesítéssel rendelkező személy, a P2. pirotechnikai osztályba sorolt termékek tekintetében a gyártó által meghatározott szakképesítéssel rendelkező személy,
+22a.[^16] szaktudással rendelkező személy: a 4. és a T2. pirotechnikai osztályba sorolt termékek tekintetében az adott pirotechnikai tevékenységre nézve a jogszabályban előírt képesítéssel rendelkező személy, a P2. pirotechnikai osztályba sorolt termékek tekintetében a gyártó által meghatározott képesítéssel rendelkező személy,
 
 22b.[^17] szcenikai tevékenység: olyan tevékenység, amely során a szcenikus segít a szín- és látványtervet lefordítani szerkezeti megoldásokra, anyagokra, technikákra, összehangolja a műhelymunkát a színpadi próbafolyamattal, gondoskodik a kivitelezés biztonságáról, folyamatosságáról, a színpadi berendezések működéséről, a díszletek szállításáról, összeszereléséről,
 
@@ -92,6 +92,10 @@
 
 33.[^21] visszahívás: a piacfelügyeleti hatóság, a gyártó, az importőr vagy a forgalmazó olyan intézkedése, ami arra irányul, hogy a forgalomba hozott pirotechnikai terméket a végső felhasználótól visszavegye.
 
+34.[^22] felelős pirotechnikus: az engedélyezett pirotechnikai tevékenységért, illetve az abban részt vevő személyekért felelősséggel tartozó pirotechnikus,
+
+35.[^23] pirotechnikus: az adott pirotechnikai tevékenység végzésére jogosult, az annak feltételeként jogszabályban előírt képesítéssel rendelkező személy.
+
 [^1]: Az 1. § 4. pontja a 100/2015. (IV. 20.) Korm. rendelet 26. § (1) bekezdés 1. pontja szerint módosított szöveg.
 [^2]: Az 1. § 4a. pontját a 100/2015. (IV. 20.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^3]: Az 1. § 4b. pontját a 100/2015. (IV. 20.) Korm. rendelet 1. § (1) bekezdése iktatta be.
@@ -106,10 +110,12 @@
 [^12]: Az 1. § 17a. pontját a 100/2015. (IV. 20.) Korm. rendelet 1. § (6) bekezdése iktatta be.
 [^13]: Az 1. § 17b. pontját a 100/2015. (IV. 20.) Korm. rendelet 1. § (6) bekezdése iktatta be.
 [^14]: Az 1. § 18a. pontját a 288/2016. (IX. 22.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^15]: Az 1. § 22. pontja a 457/2017. (XII. 28.) Korm. rendelet 338. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^16]: Az 1. § 22a. pontját a 100/2015. (IV. 20.) Korm. rendelet 1. § (7) bekezdése iktatta be.
+[^15]: Az 1. § 22. pontja a 310/2024. (X. 28.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^16]: Az 1. § 22a. pontját a 100/2015. (IV. 20.) Korm. rendelet 1. § (7) bekezdése iktatta be, szövege a 310/2024. (X. 28.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^17]: Az 1. § 22b. pontját a 100/2015. (IV. 20.) Korm. rendelet 1. § (7) bekezdése iktatta be.
 [^18]: Az 1. § 29. pontja a 300/2014. (XII. 5.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
 [^19]: Az 1. § 29a. pontját a 100/2015. (IV. 20.) Korm. rendelet 1. § (8) bekezdése iktatta be.
 [^20]: Az 1. § 31. pontja a 288/2016. (IX. 22.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^21]: Az 1. § 33. pontját a 100/2015. (IV. 20.) Korm. rendelet 1. § (9) bekezdése iktatta be.
+[^22]: Az 1. § 34. pontját a 310/2024. (X. 28.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^23]: Az 1. § 35. pontját a 310/2024. (X. 28.) Korm. rendelet 1. § (2) bekezdése iktatta be.

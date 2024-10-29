@@ -1,18 +1,18 @@
 ## 20. A pirotechnikai termék megsemmisítésének engedélyezése
 
-88. § (1)[^85] A megsemmisítési tevékenységre irányuló engedély iránti kérelmet a 3. melléklet 2. pontjában meghatározott tartalommal kell benyújtani.
+88. § (1)[^90] A megsemmisítési tevékenységre irányuló engedély iránti kérelmet a 3. melléklet 2. pontjában meghatározott tartalommal kell benyújtani.
 
-(2)[^86] A kérelmezőnek igazolnia kell
+(2)[^91] A kérelmezőnek igazolnia kell
 
 a) a pirotechnikai tevékenységet érintő létesítmények alaprajzának, műszaki leírásának a meglétét és tűzvédelmi dokumentációjának elkészültét,
 
 b) a megsemmisítési tevékenységet szabályozó műveleti utasítás elkészültét,
 
-c) a pirotechnikusi bizonyítvány meglétét,
+c)[^92] a megsemmisítési tevékenységre nézve a jogszabályban előírt képesítés meglétét,
 
-d)[^87] a tűzvédelmi szakvizsga meglétét.
+d)[^93] a tűzvédelmi szakvizsga meglétét.
 
-(2a)[^88] Az (1) bekezdés szerinti kérelem elbírálása során az engedélyező hatóság beszerzi az építésügyi hatóság által a (2) bekezdés a) pontjában szereplő létesítmény tekintetében kiadott engedélyét és azt az eljárása során figyelembe veszi.
+(2a)[^94] Az (1) bekezdés szerinti kérelem elbírálása során az engedélyező hatóság beszerzi az építésügyi hatóság által a (2) bekezdés a) pontjában szereplő létesítmény tekintetében kiadott engedélyét és azt az eljárása során figyelembe veszi.
 
 (3) Nem kell külön engedély a pirotechnikai termék, vagy e termékből származó robbanóanyagnak vagy pirotechnikai elegynek minősülő anyag megsemmisítésére annak a vállalkozásnak, amely
 
@@ -34,7 +34,8 @@ c) a megsemmisítési tevékenység megszüntetése esetén a tevékenység megs
 
 (6) Pirotechnikai anyagok megsemmisítése robbantással vagy elégetéssel történhet.
 
-[^85]: A 88. § (1) bekezdése a 288/2016. (IX. 22.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
-[^86]: A 88. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 337. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^87]: [A 88. § (2) bekezdés d) pontjának a 457/2017. (XII. 28.) Korm. rendelet 338. § f) pontjával elrendelt módosítása, amely szerint a „jogerősen” szövegrész helyébe a „véglegesen” szöveg lép, nem vezethető át.]
-[^88]: A 88. § (2a) bekezdését a 288/2016. (IX. 22.) Korm. rendelet 4. §-a iktatta be.
+[^90]: A 88. § (1) bekezdése a 288/2016. (IX. 22.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^91]: A 88. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 337. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^92]: A 88. § (2) bekezdés c) pontja a 310/2024. (X. 28.) Korm. rendelet 3. § 4. pontja szerint módosított szöveg.
+[^93]: [A 88. § (2) bekezdés d) pontjának a 457/2017. (XII. 28.) Korm. rendelet 338. § f) pontjával elrendelt módosítása, amely szerint a „jogerősen” szövegrész helyébe a „véglegesen” szöveg lép, nem vezethető át.]
+[^94]: A 88. § (2a) bekezdését a 288/2016. (IX. 22.) Korm. rendelet 4. §-a iktatta be.

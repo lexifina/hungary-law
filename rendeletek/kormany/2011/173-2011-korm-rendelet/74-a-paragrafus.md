@@ -1,4 +1,4 @@
-74/A. §[^61] (1) Az importőr köteles forgalomba hozatal előtt meggyőződni arról, hogy a gyártó az e rendeletben meghatározott megfelelőségértékelési és a jelölési kötelezettségének eleget tett. Ha az importőr úgy ítéli meg, hogy a gyártó ezen kötelezettségének nem tett eleget, akkor a megfelelőség teljesítéséig a pirotechnikai terméket nem hozhatja forgalomba.
+74/A. §[^64] (1) Az importőr köteles forgalomba hozatal előtt meggyőződni arról, hogy a gyártó az e rendeletben meghatározott megfelelőségértékelési és a jelölési kötelezettségének eleget tett. Ha az importőr úgy ítéli meg, hogy a gyártó ezen kötelezettségének nem tett eleget, akkor a megfelelőség teljesítéséig a pirotechnikai terméket nem hozhatja forgalomba.
 
 (2) Ha az importőr úgy ítéli meg, hogy a pirotechnikai termék kockázatot jelent, akkor erről tájékoztatja a gyártót és a rendőrséget.
 
@@ -18,4 +18,4 @@ b) kivonja a pirotechnikai terméket a forgalomból, és ezzel egyidejűleg ért
 
 (8) Az importőr köteles a birtokában vagy rendelkezési érdekkörében lévő pirotechnikai terméket a változástól megóvni és biztosítani, hogy a tárolás és a szállítás ne veszélyeztesse az e rendelet szerinti alapvető biztonsági követelményeknek való megfelelést.
 
-[^61]: A 74/A. §-t a 100/2015. (IV. 20.) Korm. rendelet 12. §-a iktatta be.
+[^64]: A 74/A. §-t a 100/2015. (IV. 20.) Korm. rendelet 12. §-a iktatta be.

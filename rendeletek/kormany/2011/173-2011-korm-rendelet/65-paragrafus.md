@@ -2,6 +2,6 @@
 
 65. § (1) A gyártó a 64. § szerinti minőségbiztosítási rendszerrel biztosítja, és nyilatkozatával megerősíti, hogy az érintett pirotechnikai termék kielégíti az e rendelet által megállapított alapvető biztonsági követelményeket.
 
-(2)[^54] A gyártó vagy az importőr a pirotechnikai terméken elhelyezi a CE-jelölést, kiadja az EU-megfelelőségi nyilatkozatot, és a CE-jelölés mellé feltünteti a bejelentett szervezet azonosító jelét.
+(2)[^57] A gyártó vagy az importőr a pirotechnikai terméken elhelyezi a CE-jelölést, kiadja az EU-megfelelőségi nyilatkozatot, és a CE-jelölés mellé feltünteti a bejelentett szervezet azonosító jelét.
 
-[^54]: A 65. § (2) bekezdése a 100/2015. (IV. 20.) Korm. rendelet 26. § (1) bekezdés 16. pontja szerint módosított szöveg.
+[^57]: A 65. § (2) bekezdése a 100/2015. (IV. 20.) Korm. rendelet 26. § (1) bekezdés 16. pontja szerint módosított szöveg.

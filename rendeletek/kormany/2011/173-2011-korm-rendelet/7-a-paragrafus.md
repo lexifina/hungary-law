@@ -1,4 +1,4 @@
-7/A. §[^25] (1) Valamennyi pirotechnikai terméket a 7. § (2) bekezdés a) pontja szerinti nyilvántartási számmal kell ellátni, amely tartalmazza
+7/A. §[^28] (1) Valamennyi pirotechnikai terméket a 7. § (2) bekezdés a) pontja szerinti nyilvántartási számmal kell ellátni, amely tartalmazza
 
 a) a pirotechnikai termékek tekintetében a megfelelőségértékelő szervezetek tevékenységéről szóló törvény szerinti bejelentett szervezet (a továbbiakban: bejelentett szervezet) nyilvántartási számát,
 
@@ -26,4 +26,4 @@ e) az (1) bekezdés c) pontja szerinti feldolgozási számot
 
 foglalja magában.
 
-[^25]: A 7/A. §-t a 100/2015. (IV. 20.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^28]: A 7/A. §-t a 100/2015. (IV. 20.) Korm. rendelet 3. § (3) bekezdése iktatta be.

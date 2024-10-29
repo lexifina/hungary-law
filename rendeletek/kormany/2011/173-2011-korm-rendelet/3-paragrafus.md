@@ -6,7 +6,7 @@
 
 a) amely alacsony kockázattal jár, a T1. pirotechnikai osztályba,
 
-b) amelyet kizárólag pirotechnikus szakképesítéssel rendelkező személy (a továbbiakban: pirotechnikus) által használható és kezelhető, a T2. pirotechnikai osztályba
+b)[^24] amely kizárólag pirotechnikus által használható és kezelhető, a T2. pirotechnikai osztályba
 
 kell sorolni.
 
@@ -31,3 +31,5 @@ a) amely alacsony kockázattal jár, a P1. pirotechnikai osztályba,
 b) amely kizárólag a gyártó által meghatározott szakképesítéssel rendelkező személy által használható és kezelhető, a P2. pirotechnikai osztályba
 
 kell sorolni.
+
+[^24]: A 3. § (2) bekezdés b) pontja a 310/2024. (X. 28.) Korm. rendelet 2. §-ával megállapított szöveg.

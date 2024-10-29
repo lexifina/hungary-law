@@ -1,4 +1,4 @@
-1. melléklet a 173/2011. (VIII. 24.) Korm. rendelethez[^145]
+1. melléklet a 173/2011. (VIII. 24.) Korm. rendelethez[^153]
 
 1. A telepítési távolság meghatározása
 
@@ -220,4 +220,4 @@
 
 |  | 20 | 1 | a kifúvófal és kifúvó födém esetében. |
 
-[^145]: Az 1. melléklet a 300/2014. (XII. 5.) Korm. rendelet 9. §-a, a 100/2015. (IV. 20.) Korm. rendelet 26. § (1) bekezdés 18–22. pontja, a 6/2020. (I. 31.) Korm. rendelet 7. § d) pontja szerint módosított szöveg.
+[^153]: Az 1. melléklet a 300/2014. (XII. 5.) Korm. rendelet 9. §-a, a 100/2015. (IV. 20.) Korm. rendelet 26. § (1) bekezdés 18–22. pontja, a 6/2020. (I. 31.) Korm. rendelet 7. § d) pontja szerint módosított szöveg.

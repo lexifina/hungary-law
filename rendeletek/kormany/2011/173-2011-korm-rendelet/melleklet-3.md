@@ -1,4 +1,4 @@
-3. melléklet a 173/2011. (VIII. 24.) Korm. rendelethez[^146]
+3. melléklet a 173/2011. (VIII. 24.) Korm. rendelethez[^154]
 
 1. A pirotechnikai termék gyártásához szükséges engedélykérelem kötelező tartalmi elemei
 
@@ -38,9 +38,9 @@
 
 |  | e) | Állampolgárság |
 
-|  | f) | Pirotechnikusi bizonyítvány törzslap száma |
+|  | f)[^155] | Az előírt képesítést igazoló dokumentum száma |
 
-|  | g) | Pirotechnikai végzettség megnevezése |
+|  | g)[^156] | Pirotechnikusi képesítés megnevezése |
 
 |  | h) | Tűzvédelmi szakvizsga bizonyítvány száma |
 
@@ -90,9 +90,9 @@
 
 |  | e) | Állampolgárság |
 
-|  | f) | Pirotechnikusi bizonyítvány törzslap száma |
+|  | f)[^157] | Az előírt képesítést igazoló dokumentum száma |
 
-|  | g) | Pirotechnikai végzettség megnevezése |
+|  | g)[^158] | Pirotechnikusi képesítés megnevezése |
 
 |  | h) | Tűzvédelmi szakvizsga bizonyítvány száma |
 
@@ -142,9 +142,9 @@
 
 |  | e) | Állampolgárság |
 
-|  | f) | Pirotechnikusi bizonyítvány törzslap száma |
+|  | f)[^159] | Az előírt képesítést igazoló dokumentum száma |
 
-|  | g) | Pirotechnikai végzettség megnevezése |
+|  | g)[^160] | Pirotechnikusi képesítés megnevezése |
 
 |  | h) | Tűzvédelmi szakvizsga bizonyítvány száma |
 
@@ -198,9 +198,9 @@
 
 |  | e) | Állampolgárság |
 
-|  | f) | Pirotechnikusi bizonyítvány törzslap száma |
+|  | f)[^161] | Az előírt képesítést igazoló dokumentum száma |
 
-|  | g) | Pirotechnikai végzettség megnevezése |
+|  | g)[^162] | Pirotechnikusi képesítés megnevezése |
 
 |  | h) | Tűzvédelmi szakvizsga bizonyítvány száma |
 
@@ -254,9 +254,9 @@
 
 |  | e) | Állampolgárság |
 
-|  | f) | Pirotechnikusi bizonyítvány törzslap száma |
+|  | f)[^163] | Az előírt képesítést igazoló dokumentum száma |
 
-|  | g) | Pirotechnikai végzettség megnevezése |
+|  | g)[^164] | Pirotechnikusi képesítés megnevezése |
 
 |  | h) | Tűzvédelmi szakvizsga bizonyítvány száma |
 
@@ -314,9 +314,9 @@
 
 |  | e) | Állampolgárság |
 
-|  | f) | Pirotechnikusi bizonyítvány törzslap száma |
+|  | f)[^165] | Az előírt képesítést igazoló dokumentum száma |
 
-|  | g) | Pirotechnikai végzettség megnevezése |
+|  | g)[^166] | Pirotechnikusi képesítés megnevezése |
 
 |  | h) | Tűzvédelmi szakvizsga bizonyítvány száma |
 
@@ -380,9 +380,9 @@
 
 |  | e) | Állampolgárság |
 
-|  | f) | Pirotechnikusi bizonyítvány törzslap száma |
+|  | f)[^167] | Az előírt képesítést igazoló dokumentum száma |
 
-|  | g) | Pirotechnikai végzettség megnevezése |
+|  | g)[^168] | Pirotechnikusi képesítés megnevezése |
 
 |  | h) | Tűzvédelmi szakvizsga bizonyítvány száma |
 
@@ -432,9 +432,9 @@
 
 |  | e) |  | Állampolgárság |
 
-|  | f) |  | Pirotechnikusi bizonyítvány törzslap száma |
+|  | f)[^169] |  | Az előírt képesítést igazoló dokumentum száma |
 
-|  | g) |  | Pirotechnikai végzettség megnevezése |
+|  | g)[^170] |  | Pirotechnikusi képesítés megnevezése |
 
 |  | h) |  | Tűzvédelmi szakvizsga bizonyítvány száma |
 
@@ -522,9 +522,9 @@
 
 |  | e) | Állampolgárság |
 
-|  | f) | Pirotechnikusi bizonyítvány törzslap száma |
+|  | f)[^171] | Az előírt képesítést igazoló dokumentum száma |
 
-|  | g) | Pirotechnikai végzettség megnevezése |
+|  | g)[^172] | Pirotechnikusi képesítés megnevezése |
 
 |  | h) | Tűzvédelmi szakvizsga bizonyítvány száma |
 
@@ -546,4 +546,22 @@
 
 | 9. |  | A bejelentést tevő cégszerű aláírása |
 
-[^146]: A 3. melléklet a 288/2016. (IX. 22.) Korm. rendelet 16. § (1) bekezdése iktatta be.
+[^154]: A 3. melléklet a 288/2016. (IX. 22.) Korm. rendelet 16. § (1) bekezdése iktatta be.
+[^155]: A 3. melléklet 1. pontjában foglalt táblázat A:8 mező f) pontja a 310/2024. (X. 28.) Korm. rendelet 3. § 9. pontja szerint módosított szöveg.
+[^156]: A 3. melléklet 1. pontjában foglalt táblázat A:8 mező g) pontja a 310/2024. (X. 28.) Korm. rendelet 3. § 9. pontja szerint módosított szöveg.
+[^157]: A 3. melléklet 2. pontjában foglalt táblázat A:8 mező f) pontja a 310/2024. (X. 28.) Korm. rendelet 3. § 10. pontja szerint módosított szöveg.
+[^158]: A 3. melléklet 2. pontjában foglalt táblázat A:8 mező g) pontja a 310/2024. (X. 28.) Korm. rendelet 3. § 10. pontja szerint módosított szöveg.
+[^159]: A 3. melléklet 3. pontjában foglalt táblázat A:8 mező f) pontja a 310/2024. (X. 28.) Korm. rendelet 3. § 11. pontja szerint módosított szöveg.
+[^160]: A 3. melléklet 3. pontjában foglalt táblázat A:8 mező g) pontja a 310/2024. (X. 28.) Korm. rendelet 3. § 11. pontja szerint módosított szöveg.
+[^161]: A 3. melléklet 4. pontjában foglalt táblázat A:8 mező f) pontja a 310/2024. (X. 28.) Korm. rendelet 3. § 12. pontja szerint módosított szöveg.
+[^162]: A 3. melléklet 4. pontjában foglalt táblázat A:8 mező g) pontja a 310/2024. (X. 28.) Korm. rendelet 3. § 12. pontja szerint módosított szöveg.
+[^163]: A 3. melléklet 5. pontjában foglalt táblázat A:8 mező f) pontja a 310/2024. (X. 28.) Korm. rendelet 3. § 13. pontja szerint módosított szöveg.
+[^164]: A 3. melléklet 5. pontjában foglalt táblázat A:8 mező g) pontja a 310/2024. (X. 28.) Korm. rendelet 3. § 13. pontja szerint módosított szöveg.
+[^165]: A 3. melléklet 6. pontjában foglalt táblázat A:6 mező f) pontja a 310/2024. (X. 28.) Korm. rendelet 3. § 14. pontja szerint módosított szöveg.
+[^166]: A 3. melléklet 6. pontjában foglalt táblázat A:6 mező g) pontja a 310/2024. (X. 28.) Korm. rendelet 3. § 14. pontja szerint módosított szöveg.
+[^167]: A 3. melléklet 7. pontjában foglalt táblázat A:7 mező f) pontja a 310/2024. (X. 28.) Korm. rendelet 3. § 15. pontja szerint módosított szöveg.
+[^168]: A 3. melléklet 7. pontjában foglalt táblázat A:7 mező g) pontja a 310/2024. (X. 28.) Korm. rendelet 3. § 15. pontja szerint módosított szöveg.
+[^169]: A 3. melléklet 8. pontjában foglalt táblázat A:5 mező f) pontja a 310/2024. (X. 28.) Korm. rendelet 3. § 16. pontja szerint módosított szöveg.
+[^170]: A 3. melléklet 8. pontjában foglalt táblázat A:5 mező g) pontja a 310/2024. (X. 28.) Korm. rendelet 3. § 16. pontja szerint módosított szöveg.
+[^171]: A 3. melléklet 9. pontjában foglalt táblázat A:5 mező f) pontja a 310/2024. (X. 28.) Korm. rendelet 3. § 17. pontja szerint módosított szöveg.
+[^172]: A 3. melléklet 9. pontjában foglalt táblázat A:5 mező g) pontja a 310/2024. (X. 28.) Korm. rendelet 3. § 17. pontja szerint módosított szöveg.
