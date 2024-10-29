@@ -91,3 +91,5 @@
 (39) Az 56/B. § (3) bekezdése szerinti bírság megállapítása a 2023. január 1. és 2023. augusztus 31-e között rögzítendő támogatási döntések tekintetében nem alkalmazható, amennyiben a támogató vagy a támogató nevében eljáró szervezet a kapcsolódó adatátadásnak 2023. augusztus 31-éig eleget tett.
 
 (40) A Kormány a Magyarország 2025. évi központi költségvetéséről szóló törvényjavaslatot – a 22. § (2) bekezdésétől eltérően – 2024. november 15-éig nyújtja be az Országgyűlésnek.
+
+(41) E törvénynek a pénzügyi közvetítőrendszert érintő és egyéb törvények módosításáról szóló 2024. évi XXXIX. törvénnyel megállapított 48/B. § (1) bekezdés e) pontját a folyamatban lévő ügyekben is alkalmazni kell.
