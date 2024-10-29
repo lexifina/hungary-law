@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és az Osztrák Szövetségi Kormány között a magyar M80 gyorsforgalmi út és az osztrák S7 fürstenfeldi gyorsforgalmi út magyar–osztrák államhatárnál történő összekötéséről szóló megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
