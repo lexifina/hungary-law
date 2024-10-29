@@ -36,7 +36,7 @@ h) panasz, közérdekű bejelentés vagy visszaélés-bejelentés esetén a pana
 
 i) a szavatoló tőke és a tőkemegfelelés kiszámításának dokumentálását,
 
-j) a nagykockázat, belső hitel, kapcsolódó hitel, befektetési korlát és kockázati céltartalék képzés ellenőrzéséhez szükséges adatokat,
+j) a nagykockázat, kapcsolt személyekkel szembeni kockázatvállalás, kapcsolódó hitel, befektetési korlát és kockázati céltartalék képzés ellenőrzéséhez szükséges adatokat,
 
 k) a fióktelep formájában működő hitelintézet esetében az a)–j) ponton túl az eszközfenntartási mutató ellenőrzéséhez szükséges adatokat, valamint
 
