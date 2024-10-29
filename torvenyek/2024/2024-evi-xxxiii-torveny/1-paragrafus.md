@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Délkelet-ázsiai Nemzetek Szövetségének tagállamai, valamint az Európai Unió és tagállamai közötti átfogó légiközlekedési megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
