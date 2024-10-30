@@ -1,4 +1,4 @@
-3. melléklet a 8/2013. (I. 30.) EMMI rendelethez[^61]
+3. melléklet a 8/2013. (I. 30.) EMMI rendelethez[^69]
 
 A)
 
@@ -10,7 +10,7 @@ A KÖZISMERETI TANÁRSZAKOK KÉPZÉSI ÉS KIMENETI KÖVETELMÉNYEI
 
 – az 1. § c) pontja szerinti tanári mesterszakon – a gyógytestnevelő tanár szak kivételével – adott tanárszak szakterülete szerinti nem tanári mesterképzési szakkal párhuzamosan vagy a mesterfokozatot követően felvett tanári mesterszakon vagy
 
-– az 1. § b) pontja szerint osztott képzésben, tanári mesterszakon részidős képzésként megszervezett képzési formában
+– az 1. § b) pontja szerint osztott képzésben, tanári mesterszakon
 
 szerezhető.
 
@@ -5206,28 +5206,4 @@ a) tudása
 
 b) képességei
 
-– Képes alkalmazni a tudásellenőrzés, a képességmérés legkorszerűbb eredményeit, eszközeit.
-
-– Képes az értékelés különböző céljainak, szintjeinek megfelelő értékelési formák és módszerek meghatározására, alkalmazására, az értékelés dokumentálására, (pl. portfólió formájában).
-
-– Az értékelés során képes figyelembe venni a differenciálás, individualizálás szempontjait, és elősegíteni a tanulók részvételét saját fejlődésük értékelésében.
-
-– Képes céljainak megfelelően az értékelés eszközeinek megválasztására, a különböző (diagnosztikus és fejlesztő) értékelési eljárások alkalmazására; a tanulók számára biztosítja a visszacsatolás lehetőségeit.
-
-c) attitűdje
-
-– Reálisan ítéli meg a pedagógus szerepét az értékelés, a minősítés tekintetében, a fejlesztő értékelés folyamatában.
-
-– Figyelemmel kíséri a tanulók önértékelési képességeinek fejlődését.
-
-A kommunikáció, a szakmai együttműködés és a pályaidentitás területén
-
-a) tudása
-
-– Ismeri az osztálytermi kommunikáció sajátosságait.
-
-– Tájékozott a szülőkkel és a pedagógiai munkáját segítő különféle szakemberekkel, szakmai intézményekkel való együttműködés módjaival kapcsolatban.
-
-b) képességei
-
-[^61]: A 3. melléklet a 64/2021. (XII. 29.) ITM rendelet 7. § (3) bekezdésével megállapított, az 1/2022. (IX. 1.) KIM rendelet 8. § b) pontja, a 12/2022. (XII. 29.) KIM rendelet 6. § a) és b) pontja, a 3/2023. (VI. 28.) KIM rendelet 4. § (2) bekezdése és 6. § 3. pontja, az 5/2023. (VII. 27.) KIM rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^69]: A 3. melléklet a 64/2021. (XII. 29.) ITM rendelet 7. § (3) bekezdésével megállapított, az 1/2022. (IX. 1.) KIM rendelet 8. § b) pontja, a 12/2022. (XII. 29.) KIM rendelet 6. § a) és b) pontja, a 3/2023. (VI. 28.) KIM rendelet 4. § (2) bekezdése és 6. § 3. pontja, az 5/2023. (VII. 27.) KIM rendelet 4. § (2) bekezdése, a 37/2024. (X. 22.) KIM rendelet 5. § a) pontja szerint módosított szöveg.

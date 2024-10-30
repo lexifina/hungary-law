@@ -1,4 +1,4 @@
-1. melléklet a 8/2013. (I. 30.) EMMI rendelethez[^47]
+1. melléklet a 8/2013. (I. 30.) EMMI rendelethez[^53]
 
 A TANÁRKÉPZÉS ÁLTALÁNOS KÉPZÉSI ÉS KIMENETI KÖVETELMÉNYEI
 
@@ -38,7 +38,7 @@ A TANÁRKÉPZÉS ÁLTALÁNOS KÉPZÉSI ÉS KIMENETI KÖVETELMÉNYEI
 
 ## cd) A 4. melléklet szerinti szakmai és az 5. melléklet szerinti művészeti tanárképzésben a Korm. rendelet 3. § (1) bekezdés a) pontja szerinti szakterületi szakképzettségi elem kreditértéke egyszakos képzésben – a szabadon választható tantárgyakhoz rendelhető kreditek számával és a szakdolgozat elkészítésével – legfeljebb 210 kredit.
 
-## ce)[^48] a Korm. rendelet 5. § (1) bekezdés b) pontja alapján az 1/A. § (1) bekezdés b) pontjában foglaltak szerinti közismereti tanárszakon osztott képzésben tanári mesterszakon
+## ce)[^54] a Korm. rendelet 5. § (1) bekezdés b) pontja alapján az 1/A. § (1) bekezdés b) pontjában foglaltak szerinti közismereti tanárszakon osztott képzésben tanári mesterszakon
 
 ## cea) a tanárszak választásához megfelelő alapfokozat és szakképzettség birtokában a képzési idő 2 félév, az összegyűjtendő kreditek száma 60 kredit, amelyből a pedagógiai, pszichológiai elméleti és gyakorlati ismeretek kreditértéke 28 kredit, a szakmódszertani (diszciplináris, interdiszciplináris tantárgy-pedagógiai) ismeretek kreditértéke 10 kredit az összefüggő egyéni iskolai gyakorlathoz közvetlenül kapcsolódó feladatok 2 kreditjével, továbbá a képzéssel párhuzamosan folyó tanítási gyakorlat 2 kredit és a köznevelési intézményben megszervezett legalább hat hét időtartamú összefüggő, egyéni iskolai gyakorlat (a portfólió 2 kreditjével) 10 kredit; a felsőoktatási intézmény belső szabályzata alapján további 10 kredit a szakterületi ismeretek, illetve a szakmódszertani (diszciplináris, interdiszciplináris tantárgy-pedagógiai) ismeretek bővítésére fordítható,
 
@@ -64,11 +64,11 @@ A TANÁRKÉPZÉS ÁLTALÁNOS KÉPZÉSI ÉS KIMENETI KÖVETELMÉNYEI
 
 ## c ) az iskolai gyakorlatok a 4/A. § szerint a teljes tanárképzést átfogó , az 1–10. félévben végzett iskolai gyakorlat, amelynek kreditértéke 38 kredit. A gyakorlati rendszer részei:
 
-## ca)[^49] pályaismereti és pályaszocializációs gyakorlatok:
+## ca)[^55] pályaismereti és pályaszocializációs gyakorlatok:
 
-## félévente szervezett gyakorlat elsődlegesen az 1–3. félévben összesen 6 kredit értékben a képzéssel párhuzamosan folyó, különböző típusú partnerintézményekben, saját szakpárjaihoz is tartozó órákon, foglakozásokon, a tanári mesterségre felkészítő órákon és iskolai programokon végzett, az ajánlott tantervben meghatározottak szerinti társas gyakorlatok a pedagógiai és pszichológiai szakterületek oktatóinak vezetésével, kurzushoz kapcsolódva;
+## félévente szervezett gyakorlat elsődlegesen az 1–3. félévben, amelynek részeként legfeljebb egy gyakorlat legfeljebb a 7. félévig is elvégezhető, összesen 6 kredit értékben a képzéssel párhuzamosan folyó, különböző típusú partnerintézményekben, saját szakpárjaihoz is tartozó órákon, foglakozásokon, a tanári mesterségre felkészítő órákon és iskolai programokon végzett, az ajánlott tantervben meghatározottak szerinti társas gyakorlatok a pedagógiai és pszichológiai szakterületek oktatóinak vezetésével, kurzushoz kapcsolódva;
 
-## cb)[^50] tanítási gyakorlatok:
+## cb)[^56] tanítási gyakorlatok:
 
 ## a 3–9. félévben 12 kredit értékben félévente a képzéssel párhuzamosan, iskolában végzett tanítási gyakorlatok a szakmódszertani szakterületek támogatásával:
 
@@ -84,9 +84,9 @@ A TANÁRKÉPZÉS ÁLTALÁNOS KÉPZÉSI ÉS KIMENETI KÖVETELMÉNYEI
 
 ## a) Szakmai tanárszakon:
 
-## aa)[^51] 90 kredites képzésben a képzési idő – a gyógypedagógia-tanárszakot és a konduktortanár szakot kivéve – 3 félév, a szakterületi elem legalább 20 kredit, a tanári felkészítés legfeljebb 70 kredit, azzal, hogy a köznevelési vagy szakképző intézményben megszervezett összefüggő legalább hathetes gyakorlat kreditértéke (a portfólió kreditértékével) 10 kredit, a szakmódszertani (diszciplináris, interdiszciplináris tantárgy-pedagógiai) ismeretek kreditértéke legalább 12 kredit, a záróvizsga szakdolgozati elemeként a portfólió minimális kreditértéke 2 kredit;
+## aa)[^57] 90 kredites képzésben a képzési idő – a gyógypedagógia-tanárszakot és a konduktortanár szakot kivéve – 3 félév, a szakterületi elem legalább 20 kredit, a tanári felkészítés legfeljebb 70 kredit, azzal, hogy a köznevelési vagy szakképző intézményben megszervezett összefüggő legalább hathetes gyakorlat kreditértéke (a portfólió kreditértékével) 10 kredit, a szakmódszertani (diszciplináris, interdiszciplináris tantárgy-pedagógiai) ismeretek kreditértéke legalább 12 kredit, a záróvizsga szakdolgozati elemeként a portfólió minimális kreditértéke 2 kredit;
 
-## ab)[^52]
+## ab)[^58]
 
 ## ac) a gyógypedagógia-tanárszakon, a konduktortanár szakon a 90 kredites képzésben képzési idő 3 félév, a szakterületi elem 50 kredit, a tanári felkészítés 40 kredit azzal, hogy a köznevelési intézményben vagy szakképző intézményben megszervezett gyakorlat kreditértéke (a portfólió kreditértékével) 20 kredit, a szakmódszertani (diszciplináris, interdiszciplináris tantárgy-pedagógiai) ismeretek kreditértéke 12 kredit.
 
@@ -94,7 +94,7 @@ A TANÁRKÉPZÉS ÁLTALÁNOS KÉPZÉSI ÉS KIMENETI KÖVETELMÉNYEI
 
 ## 120 kredites képzésben a képzési idő 4 félév, a szakterületi elem 50 kredit, a tanári felkészítés 70 kredit azzal, hogy a köznevelési, szakképző intézményben vagy felnőttképzési tevékenységet folytató intézményben megszervezett gyakorlat kreditértéke (a portfólió kreditértékével) 20 kredit, a szakmódszertani (diszciplináris, interdiszciplináris tantárgy-pedagógiai) ismeretek kreditértéke 12 kredit.
 
-## 4.3.[^53] Az 1. § c) pontja szerinti nem tanári mesterképzési szakkal vagy osztatlan szakkal párhuzamosan és mesterfokozatot követő képzésben tanári mesterszakon
+## 4.3.[^59] Az 1. § c) pontja szerinti nem tanári mesterképzési szakkal vagy osztatlan szakkal párhuzamosan és mesterfokozatot követő képzésben tanári mesterszakon
 
 ## 4.3.1. a 4.3.2. alpont kivételével a képzési idő 2 félév, az összegyűjtendő kreditek száma 60 kredit; a pedagógiai, pszichológiai elméleti és gyakorlati ismeretek kreditértéke 28 kredit, a szakmódszertani (diszciplináris, interdiszciplináris tantárgy-pedagógiai) ismeretek kreditértéke 10 kredit az összefüggő egyéni iskolai gyakorlathoz közvetlenül kapcsolódó feladatok 2 kreditjével, továbbá a képzéssel párhuzamosan folyó tanítási gyakorlat 2 kredit, a köznevelési intézményben megszervezett legalább hat hét időtartamú összefüggő, egyéni iskolai gyakorlat (a portfólió 2 kreditjével) 10 kredit; a felsőoktatási intézmény belső szabályzata alapján további 10 kredit a szakterületi ismeretek, illetve a szakmódszertani (diszciplináris, interdiszciplináris tantárgy-pedagógiai) ismeretek bővítésére fordítható;
 
@@ -102,7 +102,7 @@ A TANÁRKÉPZÉS ÁLTALÁNOS KÉPZÉSI ÉS KIMENETI KÖVETELMÉNYEI
 
 ## 4.4. Újabb oklevelet adó tanárképzésben
 
-## 4.4.1.[^54] Az 1993. évi felsőoktatási törvény szerinti egyetemi szintű vagy főiskolai szintű, illetve a mesterfokozatú tanári, a főiskolai szintű vagy alapfokozatú gyógypedagógus vagy gyógypedagógia-tanár szakképzettséget vagy tanító vagy szakoktató szakképzettséget vagy az 1993. évi felsőoktatási törvény szerinti főiskolai szintű pedagógia szakos nevelő szakképzettséget vagy az 1993. évi felsőoktatási törvény szerinti egyetemi szintű vagy főiskolai szintű, illetve alapfokozatú vagy mesterfokozatú szociálpedagógus szakképzettséget követően újabb, tanári szakképzettség megszerzésére irányuló képzésben – a 4/B. §-ban foglaltakra is figyelemmel – a képzési idő 4 félév, az összegyűjtendő kreditek száma 120 kredit.
+## 4.4.1.[^60] Az 1993. évi felsőoktatási törvény szerinti egyetemi szintű vagy főiskolai szintű, illetve a mesterfokozatú tanári, a főiskolai szintű vagy alapfokozatú gyógypedagógus vagy gyógypedagógia-tanár szakképzettséget vagy tanító vagy szakoktató szakképzettséget vagy az 1993. évi felsőoktatási törvény szerinti főiskolai szintű pedagógia szakos nevelő szakképzettséget vagy az 1993. évi felsőoktatási törvény szerinti egyetemi szintű vagy főiskolai szintű, illetve alapfokozatú vagy mesterfokozatú szociálpedagógus szakképzettséget követően újabb, tanári szakképzettség megszerzésére irányuló képzésben – a 4/B. §-ban foglaltakra is figyelemmel – a képzési idő 4 félév, az összegyűjtendő kreditek száma 120 kredit.
 
 a) Tanárszakon a szakterületi ismeret – a 4/B. §-ban meghatározott, a kémiatanár, a biológiatanár, a fizikatanár a földrajztanár szakon folytatott tanulmányok kivételével – 100 kredit és a tanári felkészítés 20 kredit. A 4/B. § szerinti tanárszakon az újabb oklevelet adó képzésben a szakterületi ismeret 70 kredit. A tanári felkészítés részeként a szakmódszertani (diszciplináris, interdiszciplináris tantárgy-pedagógiai) ismeretek kreditértéke 8 kredit, a vezetőpedagógus (vezető tanár) irányításával végzett iskolai tanítási gyakorlat 2 kredit, szakdolgozatként a portfólió elkészítése legalább 2 kredit.
 
@@ -110,11 +110,11 @@ b) Tanító szakon szerzett oklevéllel tanárszakon a szakterületi elem 90 kre
 
 c) Szakoktató szakképzettség birtokában szakmai tanári szakképzettség megszerzésére irányuló mesterképzésben a szakmai tanárszakon a szakterületi elem 50 kredit, a tanári felkészítés 70 kredit, amelyből a szakmódszertani (diszciplináris, interdiszciplináris tantárgy-pedagógiai) ismeret 15 kredit, a vezetőpedagógus (vezető tanár) irányításával végzett iskolai tanítási gyakorlat 2 kredit, az összefüggő egyéni iskolai gyakorlat 20 kredit, a portfólió kreditértéke 2 kredit.
 
-[^47]: Az 1. melléklet a 64/2021. (XII. 29.) ITM rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^48]: Az 1. melléklet 4. pont 4.1. alpont c) pont ce) alpontja az 5/2023. (VII. 27.) KIM rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^49]: Az 1. melléklet 4. pont 4.1.2. alpont c) pont ca) alpontja az 5/2023. (VII. 27.) KIM rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^50]: Az 1. melléklet 4. pont 4.1.2. alpont c) pont cb) alpontja az 5/2023. (VII. 27.) KIM rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^51]: Az 1. melléklet 4. pont 4.2. alpont a) pont aa) alpontja az 5/2023. (VII. 27.) KIM rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^52]: Az 1. melléklet 4. pont 4.2. alpont a) pont ab) alpontját az 5/2023. (VII. 27.) KIM rendelet 6. §-a hatályon kívül helyezte.
-[^53]: Az 1. melléklet 4. pont 4.3. alpontja az 5/2023. (VII. 27.) KIM rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^54]: Az 1. melléklet 4.4. pont 4.4.1. alpontja a 3/2023. (VI. 28.) KIM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^53]: Az 1. melléklet a 64/2021. (XII. 29.) ITM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^54]: Az 1. melléklet 4. pont 4.1. alpont c) pont ce) alpontja az 5/2023. (VII. 27.) KIM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^55]: Az 1. melléklet 4. pont 4.1.2. alpont c) pont ca) alpontja az 5/2023. (VII. 27.) KIM rendelet 4. § (1) bekezdésével megállapított, a 37/2024. (X. 22.) KIM rendelet 4. § c) pontja szerint módosított szöveg.
+[^56]: Az 1. melléklet 4. pont 4.1.2. alpont c) pont cb) alpontja az 5/2023. (VII. 27.) KIM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^57]: Az 1. melléklet 4. pont 4.2. alpont a) pont aa) alpontja az 5/2023. (VII. 27.) KIM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^58]: Az 1. melléklet 4. pont 4.2. alpont a) pont ab) alpontját az 5/2023. (VII. 27.) KIM rendelet 6. §-a hatályon kívül helyezte.
+[^59]: Az 1. melléklet 4. pont 4.3. alpontja az 5/2023. (VII. 27.) KIM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^60]: Az 1. melléklet 4.4. pont 4.4.1. alpontja a 3/2023. (VI. 28.) KIM rendelet 4. § (1) bekezdésével megállapított szöveg.

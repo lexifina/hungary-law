@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-8-20-5H
 | 2023-07-06 | 2013-8-20-5H.11 | 3/2023. (VI. 28.) KIM rendelet |
 | 2023-08-04 | 2013-8-20-5H.12 | 5/2023. (VII. 27.) KIM rendelet |
 | 2023-09-01 | 2013-8-20-5H.13 | 5/2023. (VII. 27.) KIM rendelet |
+| 2024-10-30 | 2013-8-20-5H.14 | 37/2024. (X. 22.) KIM rendelet |
