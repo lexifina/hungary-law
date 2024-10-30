@@ -1,1 +1,3 @@
-4. § Hatályát veszti a polgári célú pirotechnikai tevékenységekről szóló 173/2011. (VIII. 24.) Korm. rendelet 4. melléklet 1.3. pontja.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
