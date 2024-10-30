@@ -1,4 +1,4 @@
-9. § (1)[^7] A legkésőbb a 2021/2022. tanév első félévében megkezdett, a 139/2015. (VI. 9.) Korm. rendelet szerinti alkotóművészet és muzikológia alapképzési szak zeneteoretikus szakirányon, valamint a zeneteoretikus mesterképzési szakon folytatott tanulmányok a 139/2015. (VI. 9.) Korm. rendelet, valamint a felsőoktatási szakképzések, az alap- és mesterképzések képzési és kimeneti követelményeiről, valamint a tanári felkészítés közös követelményeiről és az egyes tanárszakok képzési és kimeneti követelményeiről szóló 8/2013. (I. 30.) EMMI rendelet módosításáról szóló 18/2016. (VIII. 5.) EMMI rendelet szerinti követelmények alapján tovább folytathatók.
+9. § (1)[^8] A legkésőbb a 2021/2022. tanév első félévében megkezdett, a 139/2015. (VI. 9.) Korm. rendelet szerinti alkotóművészet és muzikológia alapképzési szak zeneteoretikus szakirányon, valamint a zeneteoretikus mesterképzési szakon folytatott tanulmányok a 139/2015. (VI. 9.) Korm. rendelet, valamint a felsőoktatási szakképzések, az alap- és mesterképzések képzési és kimeneti követelményeiről, valamint a tanári felkészítés közös követelményeiről és az egyes tanárszakok képzési és kimeneti követelményeiről szóló 8/2013. (I. 30.) EMMI rendelet módosításáról szóló 18/2016. (VIII. 5.) EMMI rendelet szerinti követelmények alapján tovább folytathatók.
 
 (2) Az (1) bekezdés szerinti alkotóművészet és muzikológia alapképzési szak zeneteoretikus szakirányon, valamint a zeneteoretikus mesterképzési szakon utolsó alkalommal a 2021/2022. tanév első félévében indítható képzés.
 
@@ -14,4 +14,4 @@
 
 (8) A 139/2015. (VI. 9.) Korm. rendelet 4. mellékletében 2021. augusztus 31-én szereplő európai finanszírozású közös képzéseket és azok képzési és kimeneti követelményeit az oktatási hivatal hivatalból nyilvántartásban veszi.
 
-[^7]: A 9. § (1) bekezdése a 26/2024. (VI. 11.) KIM rendelet 1. § a) pontja szerint módosított szöveg.
+[^8]: A 9. § (1) bekezdése a 26/2024. (VI. 11.) KIM rendelet 1. § a) pontja szerint módosított szöveg.
