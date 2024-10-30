@@ -1902,7 +1902,7 @@
 
 ## 10.1. a képzés célja olyan tanítók képzése, akik − a változó társadalmi szükségleteknek, az általános iskolai nevelés-oktatás céljainak megfelelően − képesek a tanulók személyiségének komplex fejlesztésére, a tanító teljes szerepkörének betöltésére; felkészültek az általános iskola első négy évfolyamán valamennyi műveltségi terület nevelési-oktatási feladatainak ellátására; felkészültek tanulmányok mesterképzésben történő folytatására,
 
-## 10.2. a képzési idő 4 félév, az összegyűjtendő kreditek száma 120:
+## 10.2.[^15] a tanulmányi idő 4 félév, az összegyűjtendő kreditek száma 120:
 
 ## – a szakképzettséghez vezető tudományágak, szakterületek, amelyekből a szak felépül: pedagógia, pszichológia, digitális kultúra 13–15 kredit;
 
@@ -2114,7 +2114,7 @@ b) fogyatékos emberek társadalmi integrációja:
 
 [inkluzív nevelés gyógypedagógiai aspektusai, módszerei, eljárásai, az együttnevelés filozófiai alapjai, az inkluzív didaktikai tervezés alapjai, pedagógiai projektalkotás, társadalomtudomány (magyar és európai szociális jog, fogyatékosság és marginalitás, szociális munka és fogyatékosságügy, iskolai és társadalmi integráció az EU-ban, szociálpolitika-történet, intézmények jellemzése és evaluációja, az inkluzív társadalom szociáletikája, a befogadás és kirekesztés története a gyógypedagógiában)].
 
-9.2.[^15]
+9.2.[^16]
 
 2. LOGOPÉDIA MESTERKÉPZÉSI SZAK
 
@@ -2344,7 +2344,7 @@ A szakképzettséghez vezető tudományágak, szakterületek, amelyekből a szak
 
 – logopédiai kompetenciakörhöz kapcsolódó művészetpedagógiai módszerek gyakorlati ismeretei 5–10 kredit.
 
-9.2. [^16]
+9.2. [^17]
 
 9.3. Szakmai gyakorlat követelményei
 
@@ -2362,5 +2362,6 @@ A szakmai gyakorlat a negyedik félévben összefüggő, 200 órás logopédiai 
 [^12]: Az 1. melléklet 6. cím 9.2. pontját a 3/2023. (VI. 28.) KIM rendelet 10. § 1. pont f) alpontja hatályon kívül helyezte.
 [^13]: Az 1. melléklet 6. cím 9.4. pontja a 3/2023. (VI. 28.) KIM rendelet 9. §-ával megállapított szöveg.
 [^14]: Az 1. melléklet 6. alcím 10. pontját az 5/2023. (VII. 27.) KIM rendelet 7. §-a iktatta be.
-[^15]: A 2. melléklet 1. cím 9.2. pontját a 3/2023. (VI. 28.) KIM rendelet 10. § 2. pont a) alpontja hatályon kívül helyezte.
-[^16]: A 2. melléklet 2. cím 9.2. pontját a 3/2023. (VI. 28.) KIM rendelet 10. § 2. pont b) alpontja hatályon kívül helyezte.
+[^15]: Az 1. melléklet 6. alcím 10. pont 10.2. alpontja a 37/2024. (X. 22.) KIM rendelet 6. §-a szerint módosított szöveg.
+[^16]: A 2. melléklet 1. cím 9.2. pontját a 3/2023. (VI. 28.) KIM rendelet 10. § 2. pont a) alpontja hatályon kívül helyezte.
+[^17]: A 2. melléklet 2. cím 9.2. pontját a 3/2023. (VI. 28.) KIM rendelet 10. § 2. pont b) alpontja hatályon kívül helyezte.
