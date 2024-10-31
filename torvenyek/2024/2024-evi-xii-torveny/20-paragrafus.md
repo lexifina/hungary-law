@@ -18,7 +18,7 @@ h)
 
 i)
 
-j)
+j) 29/C. § (5) bekezdésében a „ , valamint arról, ha a polgár a személyazonosító igazolványt 60 napon belül nem vette át,” szövegrész,
 
 k)
 
