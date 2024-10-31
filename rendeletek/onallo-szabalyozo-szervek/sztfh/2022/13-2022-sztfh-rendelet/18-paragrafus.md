@@ -11,3 +11,5 @@
 4. az ásványinyersanyag-kitermelő iparban keletkező hulladék kezeléséről szóló 2006/21/EK európai parlamenti és tanácsi irányelv 22. cikk (1) bekezdés f) pontjának végrehajtása céljából az inert hulladék fogalmának kiegészítéséről szóló, 2009. április 30-i 2009/359/EK bizottsági határozatnak,
 
 5. a hulladékoknak az ásványinyersanyag-kitermelő iparban keletkező hulladék kezeléséről szóló 2006/21/EK európai parlamenti és tanácsi irányelv alapján történő jellemzésével kapcsolatos technikai követelmények kidolgozásáról szóló, 2009. április 30-i 2009/360/EK bizottsági határozatnak
+
+a végrehajtásához szükséges rendelkezéseket állapít meg.
