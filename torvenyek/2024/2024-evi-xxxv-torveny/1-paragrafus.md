@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország és Kanada Ontario tartománya között a vezetői engedélyek kölcsönös elismeréséről és cseréjéről szóló együttműködési megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
