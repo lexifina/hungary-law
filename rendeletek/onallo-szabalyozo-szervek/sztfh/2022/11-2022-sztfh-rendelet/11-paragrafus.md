@@ -1,4 +1,4 @@
-## 6.[^15] Használatbavételi engedélyezési eljárás
+## 6.[^16] Használatbavételi engedélyezési eljárás
 
 11. § (1) Ha a nyomástartó berendezés valamely bányafelügyeleti engedélyköteles létesítmény része vagy tartozéka, a berendezés használatbavételi eljárása a létesítmény használatának engedélyezésével együtt, egy eljárás keretében is lefolytatható.
 
@@ -32,4 +32,4 @@ d) a próbaüzem tapasztalatairól szóló jelentést.
 
 (4) A használatbavételi engedély iránti kérelem benyújtásakor igazolni kell, hogy a nyomástartó berendezést (rendszert) a létesítési engedélyben foglaltaknak megfelelően kivitelezték, az a helyszíni szerelési állapotban az előírásoknak megfelel, és a tervezett célra alkalmas.
 
-[^15]: A 6. alcím (11-14. §) a 16/2023. (VII. 31.) SZTFH rendelet 4. §-ával megállapított szöveg.
+[^16]: A 6. alcím (11-14. §) a 16/2023. (VII. 31.) SZTFH rendelet 4. §-ával megállapított szöveg.

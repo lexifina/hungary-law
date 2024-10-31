@@ -1,6 +1,6 @@
 ## 7. Átalakítási engedélyezési eljárás, javítás bejelentése
 
-15. § (1)[^16]
+15. § (1)[^17]
 
 (2) Az átalakítási engedély iránti kérelemnek tartalmaznia kell
 
@@ -16,7 +16,7 @@ c) az átalakítás műszaki vezetőjének a nevét, címét és képesítését
 
 (5) Új veszélyességi kategóriába, illetve osztályba történő besorolásra javaslatot csak abban az esetben kell tenni, ha az átalakítást követően megváltozik a nyomástartó berendezés besorolása.
 
-(6)[^17]
+(6)[^18]
 
 (7) Az átalakítási engedély rendelkező részének – az általános közigazgatási rendtartásról szóló törvényben előírtakon túl – tartalmaznia kell
 
@@ -36,7 +36,7 @@ e) az átalakítási engedély hatályát.
 
 (8) Az átalakítási engedély a véglegessé válásától számított 1 évig hatályos. Az engedély hatálya egy alkalommal, egy évvel meghosszabbítható.
 
-(9)[^18] A nyomástartó berendezések javítására vonatkozó bejelentésnek tartalmaznia kell
+(9)[^19] A nyomástartó berendezések javítására vonatkozó bejelentésnek tartalmaznia kell
 
 a) a javítással érintett létesítmény helyét, rendeltetését,
 
@@ -46,6 +46,6 @@ c) a javítás műszaki vezetőjének a nevét, címét és képesítését és
 
 d) a javítási tevékenység rövid leírását.
 
-[^16]: A 15. § (1) bekezdését a 16/2023. (VII. 31.) SZTFH rendelet 8. § f) pontja hatályon kívül helyezte.
-[^17]: A 15. § (6) bekezdését a 16/2023. (VII. 31.) SZTFH rendelet 8. § f) pontja hatályon kívül helyezte.
-[^18]: A 15. § (9) bekezdés nyitó szövegrésze a 16/2023. (VII. 31.) SZTFH rendelet 8. § g) pontja szerint módosított szöveg.
+[^17]: A 15. § (1) bekezdését a 16/2023. (VII. 31.) SZTFH rendelet 8. § f) pontja hatályon kívül helyezte.
+[^18]: A 15. § (6) bekezdését a 16/2023. (VII. 31.) SZTFH rendelet 8. § f) pontja hatályon kívül helyezte.
+[^19]: A 15. § (9) bekezdés nyitó szövegrésze a 16/2023. (VII. 31.) SZTFH rendelet 8. § g) pontja szerint módosított szöveg.
