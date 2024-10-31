@@ -30,8 +30,8 @@ b) nyomás alatti 2 7/8” – 3 1/2” – 5” átmérőjű termelőcsövek é
 
 (4) A kitörésvédelmi technikai eszköznek alkalmasnak kell lennie a berendezés személyzete által nem kivitelezhető feladat elvégzésére.
 
-(5)[^36]
+(5)[^37]
 
 (6) A mentőcsapatnak alkalmasnak kell lennie a beavatkozás 24 órán belüli, szükséges eszközökkel és megfelelő személyzettel történő megkezdésére.
 
-[^36]: A 36. § (5) bekezdését a 18/2023. (VII. 31.) SZTFH rendelet 27. § 15. pontja hatályon kívül helyezte.
+[^37]: A 36. § (5) bekezdését a 18/2023. (VII. 31.) SZTFH rendelet 27. § 15. pontja hatályon kívül helyezte.

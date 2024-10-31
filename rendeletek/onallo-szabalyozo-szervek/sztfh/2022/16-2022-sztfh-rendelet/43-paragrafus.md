@@ -32,7 +32,7 @@ d) korrózióvédelmi ellenőrzés, valamint
 
 e) vízfeltöltéssel történő tömítettségi ellenőrzés.
 
-(5)[^40] Az elvégzendő vizsgálatok időpontjait, azok dokumentálásának módját a bányaüzemi felelős műszaki vezető határozza meg. A vizsgálatok alapján szükséges intézkedéseket a bányaüzemi felelős műszaki vezető hagyja jóvá.
+(5)[^41] Az elvégzendő vizsgálatok időpontjait, azok dokumentálásának módját a bányaüzemi felelős műszaki vezető határozza meg. A vizsgálatok alapján szükséges intézkedéseket a bányaüzemi felelős műszaki vezető hagyja jóvá.
 
 (6) Tartály kőolajjal és kondenzátummal legfeljebb a térfogatának 95%-áig tölthető fel.
 
@@ -50,4 +50,4 @@ c) több tartály esetén 75%.
 
 (10) A technológiai tartályt légzőszeleppel vagy légzőnyílással kell ellátni, amelynél a visszalobbanást meg kell akadályozni.
 
-[^40]: A 43. § (5) bekezdése a 18/2023. (VII. 31.) SZTFH rendelet 24. §-ával megállapított szöveg.
+[^41]: A 43. § (5) bekezdése a 18/2023. (VII. 31.) SZTFH rendelet 24. §-ával megállapított szöveg.

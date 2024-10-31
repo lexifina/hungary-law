@@ -6,7 +6,7 @@
 
 a) a kiszorított közeg fáklyára nem vihető,
 
-b)[^45] a feltöltést lehetőleg nappal kell végezni; a ködös, párás időben végzendő feltöltés feltételeit külön és esetenként a 49. § (5) bekezdése szerinti személy határozza meg,
+b)[^46] a feltöltést lehetőleg nappal kell végezni; a ködös, párás időben végzendő feltöltés feltételeit külön és esetenként a 49. § (5) bekezdése szerinti személy határozza meg,
 
 c) a nyomáspróba előkészítése és lefolytatása alatt a nyomáspróbának alávetett berendezés 50 m-es körzetében dohányozni és nyílt lángot használni tilos.
 
@@ -32,4 +32,4 @@ d) próbanyomás 160 bar-nál nagyobb túlnyomás esetén 0–50 bar túlnyomás
 
 (10) A tömörségi nyomáspróba akkor eredményes, ha annak során a hegesztési varratokon és az oldható kötéseken szivárgás nem észlelhető. Ha a nyomáspróba sikertelen, azt a hiba kijavítása után meg kell ismételni.
 
-[^45]: Az 54. § (3) bekezdés b) pontja a 18/2023. (VII. 31.) SZTFH rendelet 26. § l) pontja szerint módosított szöveg.
+[^46]: Az 54. § (3) bekezdés b) pontja a 18/2023. (VII. 31.) SZTFH rendelet 26. § l) pontja szerint módosított szöveg.

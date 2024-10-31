@@ -6,6 +6,6 @@
 
 (2) A kőolaj és földgáz gyűjtő, előkészítő létesítmény, a kőolaj és földgáz gyűjtőállomás, valamint az egyéb kőolaj- és földgázbányászati célú technológiai létesítmény biztonsági övezethatára legalább a létesítmény 2-es zóna besorolású robbanásveszélyes térségeinek a határa.
 
-(3)[^16] Mélyfúrási és kútmunkálati tevékenységnél a villamos veszélyességi övezet a függőleges kifolyótól, a gáztalanító elvezetésének végétől, a szeparátorok biztonsági szelepeitől, a zárt vízszintes kifolyó nyílásától és a termelvényes tartályoktól mért 8,25 m sugarú függőleges hengerfelület által a torony magasságáig határolt térség, valamint a szabad iszapfelületek 1,5 m-es körzete.
+(3)[^17] Mélyfúrási és kútmunkálati tevékenységnél a villamos veszélyességi övezet a függőleges kifolyótól, a gáztalanító elvezetésének végétől, a szeparátorok biztonsági szelepeitől, a zárt vízszintes kifolyó nyílásától és a termelvényes tartályoktól mért 8,25 m sugarú függőleges hengerfelület által a torony magasságáig határolt térség, valamint a szabad iszapfelületek 1,5 m-es körzete.
 
-[^16]: A 14. § (3) bekezdése a 18/2023. (VII. 31.) SZTFH rendelet 15. §-ával megállapított szöveg.
+[^17]: A 14. § (3) bekezdése a 18/2023. (VII. 31.) SZTFH rendelet 15. §-ával megállapított szöveg.

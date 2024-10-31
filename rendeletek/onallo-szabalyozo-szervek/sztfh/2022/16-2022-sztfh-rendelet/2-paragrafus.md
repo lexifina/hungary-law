@@ -52,7 +52,7 @@
 
 25. Nyomáspróba: folyadékkal vagy légnemű közeggel végzett vizsgálat, amely az üzemeltetés során nyomás alá kerülő technológiai berendezés megfelelőségének igazolására szolgál, és amelyet az üzemelés során várható legnagyobb nyomás figyelembevételével végeznek el a nyomáspróba-terv szerint,
 
-26. Próbatermeltetés: előzetes hatósági engedély alapján történő, a telep vagy a réteg fizikai és termelési paramétereinek meghatározására irányuló, korlátozott időtartamú termeltetés,
+26.[^7] Próbatermeltetés: a telep vagy a réteg fizikai és termelési paramétereinek meghatározására irányuló, korlátozott időtartamú termeltetés,
 
 27. Rendkívüli művelet: a kiviteli tervben nem tervezett, a kockázatelemzés alapján magas veszélyességi fokú, különleges művelet,
 
@@ -88,3 +88,4 @@
 [^4]: A 2. § 19. pontját a 18/2023. (VII. 31.) SZTFH rendelet 27. § 3. pontja hatályon kívül helyezte.
 [^5]: A 2. § 22. pontja a 18/2023. (VII. 31.) SZTFH rendelet 27. § 4. pontja szerint módosított szöveg.
 [^6]: A 2. § 24. pontja a 18/2023. (VII. 31.) SZTFH rendelet 26. § a) pontja szerint módosított szöveg.
+[^7]: A 2. § 26. pontja a 17/2024. (X. 28.) SZTFH rendelet 5. § a) pontja szerint módosított szöveg.

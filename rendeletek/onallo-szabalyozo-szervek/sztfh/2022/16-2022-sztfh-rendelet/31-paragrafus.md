@@ -6,7 +6,7 @@
 
 a) a kútmunkálat célját, leírását,
 
-b)[^26] a kút kútszerkezetre, réteghőmérsékletre, rétegnyomásra, várható legnagyobb kútfejnyomásra és előéletére vonatkozó adatait,
+b)[^27] a kút kútszerkezetre, réteghőmérsékletre, rétegnyomásra, várható legnagyobb kútfejnyomásra és előéletére vonatkozó adatait,
 
 c) a várható rétegtartalom megnevezését, mennyiségét és összetételét, különös tekintettel a CO2 és H2S tartalomra,
 
@@ -20,4 +20,4 @@ g) az alkalmazandó lyuk- és kútfejszerelvények, kitörésgátlók, biztonsá
 
 h) a végleges kútszerkezet leírását.
 
-[^26]: A 31. § (2) bekezdés b) pontja a 18/2023. (VII. 31.) SZTFH rendelet 19. §-ával megállapított szöveg.
+[^27]: A 31. § (2) bekezdés b) pontja a 18/2023. (VII. 31.) SZTFH rendelet 19. §-ával megállapított szöveg.
