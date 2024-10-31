@@ -1,0 +1,3 @@
+3. § (1) A kormányhivatal a törvényességi felügyeleti eljárás lefolytatásához szükséges iratok és adatok rendelkezésre bocsátását, valamint megküldését, az ehhez szükséges felvilágosítás adását kérheti a tanács elnökétől, továbbá ezen iratokba betekinthet. A tanács elnöke a felügyeleti eljáráshoz szükséges adatokat, információkat átadja a kormányhivatali igény dokumentált beérkezését követő 15 napon belül az igénynek megfelelő formában és tartalommal a kormányhivatal számára.
+
+(2) Amennyiben a tanács az irat- vagy adatszolgáltatási kérelemnek határidőben nem tesz eleget, abban az esetben a kormányhivatal az 5. § (1) bekezdés b) pontjában biztosított intézkedést alkalmazza.
