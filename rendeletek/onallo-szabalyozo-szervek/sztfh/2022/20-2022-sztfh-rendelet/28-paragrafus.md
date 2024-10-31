@@ -50,12 +50,12 @@ c) a nyertes pályázó a bányászati jog ellenértékét az (5) bekezdésben m
 
 (7) Ha a nyertes pályázó a bányászati jog ellenértékét az (5) bekezdésben meghatározott határidőn belül nem fizeti meg, vagy a bányászati jog megszerzésétől eláll, a bányászati jog megszerzésére érvényes pályázatot benyújtó pályázók közül a (4) bekezdés szerint felállított rangsor alapján következő pályázót kell nyertesnek nyilvánítani.
 
-(8)[^70] Eredménytelen pályázat esetében a pályázatot a bányafelügyelet az eredménytelenség megállapításától számított hat hónapon belül egy alkalommal ismételten meghirdeti.
+(8)[^72] Eredménytelen pályázat esetében a pályázatot a bányafelügyelet az eredménytelenség megállapításától számított hat hónapon belül egy alkalommal ismételten meghirdeti.
 
-(9)[^71] A bányafelügyelet a pályázat ismételt eredménytelensége esetén – a Bt. 26/A. § (5) bekezdés c) pontjában foglalt eset kivételével – kötelezi a bányászati jognak – a bányászati jog törlését megelőző – utolsó jogosítottját a tájrendezési kötelezettségek végrehajtására. A kötelezés tartalmazza azokat a feladatokat, amelyek elvégzése a bánya tekintetében biztonságos végállapotot eredményez. A bányafelügyelet a tájrendezés elvégzését követően törli a bányatelket a nyilvántartásából.
+(9)[^73] A bányafelügyelet a pályázat ismételt eredménytelensége esetén – a Bt. 26/A. § (5) bekezdés c) pontjában foglalt eset kivételével – kötelezi a bányászati jognak – a bányászati jog törlését megelőző – utolsó jogosítottját a tájrendezési kötelezettségek végrehajtására. A kötelezés tartalmazza azokat a feladatokat, amelyek elvégzése a bánya tekintetében biztonságos végállapotot eredményez. A bányafelügyelet a tájrendezés elvégzését követően törli a bányatelket a nyilvántartásából.
 
-(10)[^72] A bányafelügyelet a kötelezés eredménytelensége esetén intézkedik a fennmaradó kötelezettségeknek a Bt. 41. § (7) bekezdése szerinti biztosíték terhére történő teljesítéséről.
+(10)[^74] A bányafelügyelet a kötelezés eredménytelensége esetén intézkedik a fennmaradó kötelezettségeknek a Bt. 41. § (7) bekezdése szerinti biztosíték terhére történő teljesítéséről.
 
-[^70]: A 28. § (8) bekezdése a 40/2022. (XII. 19.) SZTFH rendelet 42. § h) pontja szerint módosított szöveg.
-[^71]: A 28. § (9) bekezdése a 4/2024. (V. 31.) SZTFH rendelet 7. §-ával megállapított szöveg.
-[^72]: A 28. § (10) bekezdése a 4/2024. (V. 31.) SZTFH rendelet 7. §-ával megállapított szöveg.
+[^72]: A 28. § (8) bekezdése a 40/2022. (XII. 19.) SZTFH rendelet 42. § h) pontja szerint módosított szöveg.
+[^73]: A 28. § (9) bekezdése a 4/2024. (V. 31.) SZTFH rendelet 7. §-ával megállapított szöveg.
+[^74]: A 28. § (10) bekezdése a 4/2024. (V. 31.) SZTFH rendelet 7. §-ával megállapított szöveg.

@@ -32,7 +32,7 @@ a) igazolja a fizetőképességét, valamint azt, hogy az átvevő – a kérele
 
 b) a kérelem benyújtását megelőző három évre vonatkozóan bemutatja a szakmai tevékenységét és kötelezettségei teljesítését.
 
-(4)[^6]
+(4)[^6] Ha a számviteli törvény szerinti beszámolókészítési kötelezettség teljesítését az átvevő nem igazolja, úgy a bányafelügyelet hivatalból ellenőrzi, hogy a kötelezettségnek a kérelmező eleget tett.
 
 (5)[^7]
 
@@ -55,7 +55,7 @@ e)[^9] ha szénhidrogének kutatására, kitermelésére vonatkozó bányászati
 (9) A bányászati jog az engedélyezett kutatási terület, a megállapított bányatelek vagy a kijelölt geotermikus védőidom egészére ruházható át.
 
 [^5]: A 3. § (1) bekezdése a 33/2022. (VII. 29.) SZTFH rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^6]: A 3. § (4) bekezdését a 33/2022. (VII. 29.) SZTFH rendelet 9. §-a hatályon kívül helyezte.
+[^6]: A 3. § (4) bekezdését a 33/2022. (VII. 29.) SZTFH rendelet 9. §-a hatályon kívül helyezte, újonnan a 17/2024. (X. 28.) SZTFH rendelet 6. § (1) bekezdése iktatta be.
 [^7]: A 3. § (5) bekezdését a 33/2022. (VII. 29.) SZTFH rendelet 9. §-a hatályon kívül helyezte.
 [^8]: A 3. § (6) bekezdés a) pontja a 33/2022. (VII. 29.) SZTFH rendelet 7. § (2) bekezdésével megállapított szöveg.
 [^9]: A 3. § (6) bekezdés e) pontja a 33/2022. (VII. 29.) SZTFH rendelet 8. § a) pontja szerint módosított szöveg.

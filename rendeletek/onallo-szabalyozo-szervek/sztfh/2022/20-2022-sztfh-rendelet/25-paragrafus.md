@@ -56,7 +56,7 @@ c) a bányászati tevékenységek következtében várható felszíni kőzetmozg
 
 d) a kijelölendő határ- és védőpillért, annak méretezését és az abban lekötött ásványvagyont,
 
-e)[^63]
+e)[^65]
 
 f) a földalatti gáztárolásra megállapítani kért bányatelek esetében a tárolás céljára szolgáló földtani szerkezetbe, természetes vagy mesterséges üregbe mélyített fúrások műszaki állapotát, felhasználásuk lehetőségét, a szükséges külszíni berendezéseket, azok műszaki jellemzőit és a gáztárolásnak a környezet veszélyeztetését, szennyezését, károsítását kizáró technológiáját.
 
@@ -66,7 +66,7 @@ a) az ásványi nyersanyag feltárására, kitermelésére kiválasztható bány
 
 b) a feltáráshoz, kitermeléshez várhatóan szükséges külszíni és felszín alatti létesítménycsoportok megnevezését és
 
-c)[^64] a kitermelési feltételek teljesíthetőségét.
+c)[^66] a kitermelési feltételek teljesíthetőségét.
 
 (5) Az (1) bekezdés h) pontja szerinti tájrendezési előtervet a környezetvédelmi engedélyre, a hatályos területrendezési, és szabályozási tervekre, továbbá az ingatlanok igénybevételi ütemtervére figyelemmel kell elkészíteni. A tájrendezési előterv tartalmazza a tervezett bányászati tevékenység során kialakuló terepviszonyok, valamint a megépítendő létesítmények szöveges leírását és térképét.
 
@@ -78,5 +78,5 @@ c)[^64] a kitermelési feltételek teljesíthetőségét.
 
 (9) Ha a kérelmező a kérelemhez a megállapításra kért bányatelekkel érintett ingatlanok ingatlan-nyilvántartás szerinti tulajdonosainak, vagyonkezelőinek, valamint használóinak név- és címjegyzékét nem csatolja, a bányafelügyelet az adatokat maga szerzi be.
 
-[^63]: A 25. § (3) bekezdés e) pontját a 21/2023. (XI. 9.) SZTFH rendelet 4. § a) pontja hatályon kívül helyezte.
-[^64]: A 25. § (4) bekezdés c) pontja a 21/2023. (XI. 9.) SZTFH rendelet 4. § b) pontja szerint módosított szöveg.
+[^65]: A 25. § (3) bekezdés e) pontját a 21/2023. (XI. 9.) SZTFH rendelet 4. § a) pontja hatályon kívül helyezte.
+[^66]: A 25. § (4) bekezdés c) pontja a 21/2023. (XI. 9.) SZTFH rendelet 4. § b) pontja szerint módosított szöveg.

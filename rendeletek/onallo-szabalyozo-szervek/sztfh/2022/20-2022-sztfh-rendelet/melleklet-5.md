@@ -1,3 +1,3 @@
-5. melléklet a 20/2022. (I. 31.) SZTFH rendelethez[^128]
+5. melléklet a 20/2022. (I. 31.) SZTFH rendelethez[^130]
 
-[^128]: Az 5. mellékletet a 2/2023. (I. 31.) SZTFH rendelet 4. § b) pontja hatályon kívül helyezte.
+[^130]: Az 5. mellékletet a 2/2023. (I. 31.) SZTFH rendelet 4. § b) pontja hatályon kívül helyezte.

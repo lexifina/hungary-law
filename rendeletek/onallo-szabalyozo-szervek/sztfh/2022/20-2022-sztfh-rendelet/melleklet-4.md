@@ -1,4 +1,4 @@
-4. melléklet a 20/2022. (I. 31.) SZTFH rendelethez[^127]
+4. melléklet a 20/2022. (I. 31.) SZTFH rendelethez[^129]
 
 Használaton kívüli állományban lévő kutak kritikusságának meghatározása és kockázatelemzés alapján történő besorolása
 
@@ -90,4 +90,4 @@ a) ha a kút típusa Tájrendezett vagy Műszakilag biztonságba helyezett, vagy
 
 b) 25 alatti összpontszám esetén.
 
-[^127]: A 4. melléklet a 4/2024. (V. 31.) SZTFH rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^129]: A 4. melléklet a 4/2024. (V. 31.) SZTFH rendelet 10. § (2) bekezdésével megállapított szöveg.

@@ -2,7 +2,7 @@
 
 (2) A keresztezett létesítmény keresztezéséhez és megközelítéséhez azok üzemeltetőinek egyetértése szükséges. Az üzemeltető az egyetértés megadását feltételekhez kötheti.
 
-(3)[^94] A keresztező, megközelítő építmény építtetőjének – át nem hárítható felelősséggel – gondoskodnia kell
+(3)[^96] A keresztező, megközelítő építmény építtetőjének – át nem hárítható felelősséggel – gondoskodnia kell
 
 a) a szükséges engedélyezési és kivitelezési, valamint üzemeltetési, technológiai tervek elkészítéséről és az üzemeltetővel történő egyeztetéséről,
 
@@ -18,7 +18,7 @@ c) a biztonsági övezet kialakítása érdekében szükséges költségek visel
 
 (7) Az építési tevékenység fővállalkozó kivitelezőjének – át nem hárítható felelősséggel – gondoskodnia kell
 
-a)[^95] a kivitelezési munka megkezdése előtt – az üzemeltető szakmai felügyelete mellett – a keresztezett létesítmény nyomvonala és a (6) bekezdés szerinti övezet kijelöléséről, továbbá a (6) bekezdés szerinti tilalmak betartásáról, továbbá az üzemeltető (3) bekezdés a) pontja szerinti egyeztetés során kiadott nyilatkozatának rendelkezésre állásáról,
+a)[^97] a kivitelezési munka megkezdése előtt – az üzemeltető szakmai felügyelete mellett – a keresztezett létesítmény nyomvonala és a (6) bekezdés szerinti övezet kijelöléséről, továbbá a (6) bekezdés szerinti tilalmak betartásáról, továbbá az üzemeltető (3) bekezdés a) pontja szerinti egyeztetés során kiadott nyilatkozatának rendelkezésre állásáról,
 
 b) a kijelölt övezetnek az építési tevékenység alatti fenntartásáról,
 
@@ -26,15 +26,15 @@ c) a keresztezett létesítmény feltárásáról, és
 
 d) a keresztezés takarása előtt az üzemeltető értesítéséről.
 
-(8)[^96] A (7) bekezdés a) pontja szerinti kijelölés helyességéért az üzemeltető a felelős. Az üzemeletető a kijelölés megtörténtét írásban rögzíti, a kijelöléssel érintett keresztezett létesítmény beazonosítására alkalmas módon. A kijelölés úgy is teljesíthető, hogy a fővállalkozó kivitelező a kijelölést az üzemeltetőtől megrendeli. A kijelölés szakmai felügyeletével kapcsolatos költségeket a kivitelező viseli.
+(8)[^98] A (7) bekezdés a) pontja szerinti kijelölés helyességéért az üzemeltető a felelős. Az üzemeletető a kijelölés megtörténtét írásban rögzíti, a kijelöléssel érintett keresztezett létesítmény beazonosítására alkalmas módon. A kijelölés úgy is teljesíthető, hogy a fővállalkozó kivitelező a kijelölést az üzemeltetőtől megrendeli. A kijelölés szakmai felügyeletével kapcsolatos költségeket a kivitelező viseli.
 
 (9) Az üzemeltető köteles bejelenteni a bányafelügyeletnek, ha az üzemeltetésében álló szállító- vagy elosztóvezetéket a 37. § (2) és (3) bekezdésében, illetve a (6) bekezdésben foglalt tilalmak megsértésével megrongálták.
 
-(10)[^97] Az üzemeltető a (9) bekezdés szerinti bejelentést a rongálásról történő tudomásszerzést követő három munkanapon belül teszi meg. A bejelentés tartalmazza
+(10)[^99] Az üzemeltető a (9) bekezdés szerinti bejelentést a rongálásról történő tudomásszerzést követő három munkanapon belül teszi meg. A bejelentés tartalmazza
 
-a)[^98] a rongálás helyszínét, a helyszínről készített, a rongálás körülményeit rögzítő fényképfelvételeket,
+a)[^100] a rongálás helyszínét, a helyszínről készített, a rongálás körülményeit rögzítő fényképfelvételeket,
 
-b)[^99] a rongálást elkövető azonosító adatait, a rongálást eredményező cselekmény leírását,
+b)[^101] a rongálást elkövető azonosító adatait, a rongálást eredményező cselekmény leírását,
 
 c) a kivitelező azonosító adatait, ha a rongálást a fővállalkozóval szerződéses viszonyban álló személy valósította meg,
 
@@ -56,9 +56,9 @@ a) robbanás- vagy tűzveszélyes, vagy
 
 b) az egészségre vagy a környezetre ártalmas.
 
-[^94]: A 38. § (3) bekezdés nyitó szövegrésze a 25/2023. (XII. 22.) SZTFH rendelet 10. § g) pontja szerint módosított szöveg.
-[^95]: A 38. § (7) bekezdés a) pontja a 40/2022. (XII. 19.) SZTFH rendelet 42. § m) pontja, a 25/2023. (XII. 22.) SZTFH rendelet 10. § h) pontja szerint módosított szöveg.
-[^96]: A 38. § (8) bekezdése a 40/2022. (XII. 19.) SZTFH rendelet 42. § n) pontja szerint módosított szöveg.
-[^97]: A 38. § (10) bekezdés nyitó szövegrésze a 40/2022. (XII. 19.) SZTFH rendelet 42. § o) pontja szerint módosított szöveg.
-[^98]: A 38. § (10) bekezdés a) pontja a 25/2023. (XII. 22.) SZTFH rendelet 10. § i) pontja szerint módosított szöveg.
-[^99]: A 38. § (10) bekezdés b) pontja a 25/2023. (XII. 22.) SZTFH rendelet 10. § j) pontja szerint módosított szöveg.
+[^96]: A 38. § (3) bekezdés nyitó szövegrésze a 25/2023. (XII. 22.) SZTFH rendelet 10. § g) pontja szerint módosított szöveg.
+[^97]: A 38. § (7) bekezdés a) pontja a 40/2022. (XII. 19.) SZTFH rendelet 42. § m) pontja, a 25/2023. (XII. 22.) SZTFH rendelet 10. § h) pontja szerint módosított szöveg.
+[^98]: A 38. § (8) bekezdése a 40/2022. (XII. 19.) SZTFH rendelet 42. § n) pontja szerint módosított szöveg.
+[^99]: A 38. § (10) bekezdés nyitó szövegrésze a 40/2022. (XII. 19.) SZTFH rendelet 42. § o) pontja szerint módosított szöveg.
+[^100]: A 38. § (10) bekezdés a) pontja a 25/2023. (XII. 22.) SZTFH rendelet 10. § i) pontja szerint módosított szöveg.
+[^101]: A 38. § (10) bekezdés b) pontja a 25/2023. (XII. 22.) SZTFH rendelet 10. § j) pontja szerint módosított szöveg.
