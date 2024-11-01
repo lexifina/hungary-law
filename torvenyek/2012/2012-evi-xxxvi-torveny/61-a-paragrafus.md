@@ -63,3 +63,5 @@ p) alapítvány létrehozásához a pártok működéséről és gazdálkodásá
 q) a Nemzeti Emlékezet Bizottsága elnökének és két tagjának megválasztásához a Nemzeti Emlékezet Bizottságáról szóló 2013. évi CCXLI. törvény 7. § (1) bekezdésében foglaltak szerint,
 
 r) a Nemzeti Emlékezet Bizottsága tagja megbízatása – a Nemzeti Emlékezet Bizottságáról szóló 2013. évi CCXLI. törvény 16. § (1) bekezdésének e)–g) pontja szerinti – megszűnésének megállapításához a Nemzeti Emlékezet Bizottságáról szóló 2013. évi CCXLI. törvény 16. § (4) bekezdésében foglaltak szerint.
+
+s) a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 6/A. § (1) bekezdése szerinti döntéshez.
