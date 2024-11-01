@@ -1,6 +1,6 @@
 31. § (1) A Bizottság a katonai szolgálatteljesítés tervezésének eredményéről határozatot hoz, amelyet a hadkötelesnek írásban is kézbesíteni kell.
 
-(2) Az elsőfokú Bizottság határozata ellen a Honvédség katonai igazgatási és központi adatfeldolgozó szervéhez benyújtott fellebbezésnek van helye, amelynek nincs halasztó hatálya. Fellebbezésnek csak a határozat katonai szolgálatra való alkalmasság megállapítására vonatkozó része ellen van helye.
+(2) Az elsőfokú Bizottság határozata ellen a katonai igazgatás területi szervének vezetőjéhez benyújtott fellebbezésnek van helye, amelynek nincs halasztó hatálya. Fellebbezésnek csak a határozat katonai szolgálatra való alkalmasság megállapítására vonatkozó része ellen van helye.
 
 (3) A fellebbezést a másodfokú Bizottság bírálja el.
 

@@ -1,8 +1,8 @@
 ## 24. Bevonulás a katonai szolgálatra
 
-39. § (1) A hadköteles a katonai szolgálat teljesítése céljából köteles a katonai igazgatás hadköteles lakóhelye szerint illetékes területi szerve által kiadott, vagy közölt elrendelő okmányban meghatározott időpontban és helyre – az elrendelő okmányban megjelölt okirataival – bevonulni.
+39. § (1) A hadköteles a katonai szolgálat teljesítése céljából köteles a katonai igazgatás hadköteles lakóhelye szerint illetékes területi szerve által kiadott behívóparancsban meghatározott időpontban és helyre – a behívóparancsban megjelölt okirataival – bevonulni.
 
-(2) A járóképes hadköteles az elrendelő okmányban foglaltaknak akkor is köteles eleget tenni, ha a katonai szolgálatra való bevonulását az időközben keletkezett múló fogyatékossága vagy megbetegedése nehezíti.
+(2) A járóképes hadköteles a behívóparancsban foglaltaknak akkor is köteles eleget tenni, ha a katonai szolgálatra való bevonulását az időközben keletkezett múló fogyatékossága vagy megbetegedése nehezíti.
 
 (3) A hadköteles – járóképtelensége esetén – az akadályoztatását köteles haladéktalanul írásban bejelenteni a katonai igazgatási szervnek.
 

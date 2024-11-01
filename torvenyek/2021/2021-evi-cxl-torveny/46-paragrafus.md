@@ -8,15 +8,15 @@
 
 a) a kötelezett a hadiállapot kihirdetését megelőzően elrendelt járulékos kötelezettségének nem tesz eleget,
 
-b) a címzett az elrendelő okmány átvételét, vagy az abban szereplő kötelezettség tudomásul vételét megtagadja,
+b) a címzett a behívóparancs, vagy az abban szereplő kötelezettség tudomásul vételét megtagadja,
 
-c) a hadkötelezett a katonai igazolványát vagy a hadköteles az elrendelő okmányát másra átruházza, más őrizetére bízza, biztosítékul adja vagy külföldre viszi, az arra jogosult személy felszólítására nem mutatja fel,
+c) a hadkötelezett a katonai igazolványát vagy a hadköteles a behívóparancsát másra átruházza, más őrizetére bízza, biztosítékul adja vagy külföldre viszi, az arra jogosult személy felszólítására nem mutatja fel,
 
 d) a honvédelemben közreműködő szerv vagy szervezet a 11. § (3) és (4) bekezdésében foglalt kötelezettségének nem tesz eleget,
 
 e) a honvédelmi létfontosságú és a honvédelmi célból kijelölt létfontosságú rendszerelem üzemeltetője a kijelölő hatóság által előírt intézkedéseket nem, vagy nem megfelelően hajtja végre.
 
-(2) A kormányhivatal a honvédelmi bírság kiszabásával kapcsolatos eljárást a honvédelmi adatkezelés szervének, a Honvédség katonai igazgatási és központi adatfeldolgozó szervének vagy a területi védelmi bizottság honvédelmi elnökhelyettesének a kezdeményezése alapján, a minősített adatok védelmére vonatkozó szabályok figyelembevételével folytatja le.
+(2) A kormányhivatal a honvédelmi bírság kiszabásával kapcsolatos eljárást a honvédelmi adatkezelés szervének, a központi katonai igazgatási szervnek vagy a területi védelmi bizottság honvédelmi elnökhelyettesének a kezdeményezése alapján, a minősített adatok védelmére vonatkozó szabályok figyelembevételével folytatja le.
 
 (3) A honvédelmi bírság kiszabásával kapcsolatos eljárás a (2) bekezdés alapján kezdeményezésre jogosult indítványára a kormányhivatalhoz történt megérkezésétől számított tizenöt napon belül, de legkésőbb a jogsértés bekövetkezését követő negyvenöt napon belül indítható meg.
 

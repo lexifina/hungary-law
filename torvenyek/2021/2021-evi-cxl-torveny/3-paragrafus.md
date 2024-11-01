@@ -12,13 +12,15 @@
 
 5. békefenntartás: a Honvédség nem alkalmazás körébe tartozó, a szemben álló felek hozzájárulásával történő tevékenysége, amelynek célja a felek megállapodása végrehajtásának elősegítése, valamint közreműködés a lakosság biztonságos életfeltételeinek helyreállításában,
 
+5a. csapatmozgás: a honvédségi szervezetnek vagy a Magyar Honvédség állományának az államhatár átlépésével járó olyan külföldi tevékenysége vagy tartózkodása, illetve külföldi fegyveres erőnek vagy állományának az államhatár átlépésével járó magyarországi tevékenysége, tartózkodása, mozgása vagy Magyarországon történő áthaladása, amely alaprendeltetésből fakadó feladatok gyakorlására vagy végrehajtására irányul, katonai szabályzatok előírásai alapján történik, és szervezett formában, katonai vezetés alatt valósul meg,
+
 6. fegyveres összeütközés időszaka: kihirdetett vagy kezdeményezett hadiállapot, valamint a váratlan támadás elhárításának időszaka,
 
 7. hadköteles: a magyarországi lakóhellyel rendelkező, nagykorú, magyar állampolgárságú férfi,
 
 8. hadkötelezett: a tényleges katonai szolgálatra hadiállapotban behívott hadköteles,
 
-9. határátlépéssel járó csapatmozgás: a honvédségi szervezetnek az államhatár átlépésével járó olyan külföldi tevékenysége vagy tartózkodása, külföldi fegyveres erő esetén az államhatár átlépésével járó magyarországi tevékenysége, tartózkodása vagy Magyarországon történő átutazása, amely a csapatmozgásban részt vevő katonai erő tevékenységének céljára, időtartamára, természetére vagy létszámára, eszközeire, felszerelésére, fegyverzetére tekintettel közjogi engedélyezést igényel,
+9.
 
 10. honvéd: rendfokozatára tekintet nélkül a Honvédség tényleges katonai szolgálatot teljesítő tagja,
 
@@ -43,6 +45,8 @@
 20. kiképzett hadköteles: a katonai szolgálati viszony megszűnését vagy megszüntetését követő 10. év december 31. napjáig az állományból kikerült, korábban katonai alapkiképzést vagy alapfelkészítést teljesített férfi,
 
 21. korlátozott elérésű terület: a honvédelmi szervezet működésére szolgáló olyan helyszín, amelyre a belépés meghatározott feltételek megléte esetén engedélyezhető,
+
+21a. közjogi engedélyezést igénylő csapatmozgás: olyan csapatmozgás, amely az abban részt vevő katonai erő vagy állomány tevékenységének céljára, időtartamára, jellegére, létszámára, eszközeire, felszerelésére vagy fegyverzetére tekintettel közjogi engedélyezést igényel,
 
 22. meghagyás: álláshelyhez, munkakörhöz (a továbbiakban együtt: munkakör) kapcsolódóan és névre szólóan végrehajtott eljárás, amely során a jogszabály vagy hatósági határozat alapján meghagyásba bevont szerv által kijelölt személyek a meghagyási névjegyzékbe kerülnek, és akiket ez alapján a katonai igazgatási szervek a munkakörüktől eltérő szolgálatteljesítési helyre nem hívhatnak be,
 

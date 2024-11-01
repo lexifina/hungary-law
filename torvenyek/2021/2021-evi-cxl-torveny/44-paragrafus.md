@@ -20,6 +20,8 @@ g) a szakirányú felsőfokú végzettséggel rendelkező, hivatását gyakorló
 
 h) aki a 65. életévét betöltötte.
 
+i) aki 18. életévét még nem töltötte be.
+
 (3) ) Az időleges honvédelmi munkakötelezettség nem terjed ki
 
 a) a Honvédség tényleges szolgálatot teljesítő tagjára, munkavállalójára, a honvédelmi alkalmazottra, a honvédelemért felelős miniszter által vezetett minisztériumban kormányzati szolgálati, politikai szolgálati, biztosi jogviszonyban vagy munkaviszonyban állóra,

@@ -1,0 +1,1 @@
+6/E. § A Kormány rendeletben állapítja meg a csapatmozgások engedélyezésére vonatkozó kormányzati feladatokat, a Kormány, valamint a honvédelemért felelős miniszter hatáskörébe tartozó csapatmozgások engedélyezésével kapcsolatos részletes eljárási szabályokat, valamint a közjogi engedélyt nem igénylő csapatmozgásokat.

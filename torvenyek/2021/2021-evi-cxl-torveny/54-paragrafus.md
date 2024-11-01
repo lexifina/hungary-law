@@ -1,1 +1,7 @@
-54. § A honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő, a nemzeti vagyonról szóló törvény szerint nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősülő ingatlanon vagy más állami vagyonnak minősülő ingatlanon Magyarországgal a szövetségesi kötelezettségének teljesítésével összefüggésben szövetséges fegyveres erő, nemzetközi szervezet vagy nemzetközi katonai parancsnokság javára szolgalom, vezetékjog, használati jog, valamint osztott tulajdon létesíthető.
+54. § A honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő, a nemzeti vagyonról szóló törvény szerint nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősülő ingatlanon
+
+a) Magyarországgal a szövetségesi kötelezettségének teljesítésével összefüggésben szövetséges fegyveres erő, nemzetközi szervezet vagy nemzetközi katonai parancsnokság, vagy
+
+b) honvédelmi érdekkel összefüggésben a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 2. melléklete szerinti, nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonban tartandó állami tulajdonban álló gazdasági társaság
+
+javára szolgalom, vezetékjog, használati jog, valamint osztott tulajdon létesíthető.

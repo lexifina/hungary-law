@@ -26,7 +26,7 @@
 
 12. a szövetségi és honi védelmi infrastruktúra működésének biztosítása, fejlesztése érdekében a honvédelmi és katonai célú építmények, ingatlanok működési és védőterületei kijelölésének eljárási szabályait és az eljáró hatóságot,
 
-13. a határátlépéssel járó csapatmozgások engedélyezésére vonatkozó kormányzati feladatokat, a Kormány hatáskörébe tartozó határátlépéssel járó csapatmozgások engedélyezésével kapcsolatos részletes eljárási szabályokat,
+13. a csapatmozgások engedélyezésére vonatkozó kormányzati feladatokat, a Kormány, valamint a honvédelemért felelős miniszter hatáskörébe tartozó csapatmozgások engedélyezésével kapcsolatos részletes eljárási szabályokat, valamint a közjogi engedélyt nem igénylő csapatmozgásokat,
 
 14.
 
@@ -44,7 +44,7 @@
 
 21.
 
-22. a katonai igazgatási szervek elnevezését és illetékességi területét,
+22. a katonai igazgatási szervek és a Honvédség központi nyilvántartó szerve elnevezését és illetékességi területét, valamint szakmai irányítási jogkörét,
 
 23. a behívási akadályokat,
 
@@ -100,7 +100,7 @@
 
 23. a hadkötelesek katonai szolgálatra behívásának, és a hadkötelezettek katonai szolgálatának, valamint leszerelésének rendjét,
 
-24. az elrendelő okmány kibocsájtásának feltételeit, tartalmi elemeit, valamint alkalmazási körét,
+24. a behívóparancs kibocsájtásának feltételeit, tartalmi elemeit, valamint alkalmazási körét,
 
 25. a fegyver nélküli katonai szolgálat teljesítésének engedélyezéséhez szükséges formanyomtatványokat, valamint
 

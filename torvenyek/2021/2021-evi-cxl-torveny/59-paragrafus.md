@@ -18,13 +18,15 @@ h) honvédelmi válsághelyzetben az államhatár ellenőrzésében való részv
 
 i) közreműködés a menedékjogról szóló törvény szerinti tömeges bevándorlás okozta válsághelyzet idején az államhatár őrzésében, az államhatár rendjét közvetlenül veszélyeztető konfliktushelyzet és a tömeges méretű migráció kezeléséhez szükséges intézkedések végrehajtásában, valamint az államhatár rendje ellen irányuló erőszakos cselekmények elhárításában,
 
-j) közreműködés – a hatályos nemzetközi normák betartásával – a magyar állampolgárok életét, testi épségét Magyarország területén kívül közvetlenül fenyegető háborús cselekmények, fegyveres konfliktusok esetén a bajba jutott magyar állampolgárok mentésében, hazatérésük biztosításában, a kimenekítés végrehajtásában,
+j) közreműködés – a hatályos nemzetközi normák betartásával – a magyar állampolgár vagy más személy életét, testi épségét Magyarország területén kívül fenyegető veszélyek, különösen háborús cselekmények, fegyveres konfliktusok, terrorcselekmények, természeti vagy ipari katasztrófák esetén a bajba jutott személy mentésében, hazatérése biztosításában, a kimenekítés végrehajtásában,
 
 k) közreműködés egyes szükségállapoti feladatokban,
 
 l) közreműködés a Vbö. szerinti védelmi és válságkezelési feladatokban, különösen a közrendet és a közbiztonságot jelentős mértékben veszélyeztető fenyegetések kezelése és az összehangolt védelmi tevékenység során,
 
 m) közreműködés a Kormány döntése alapján a veszélyhelyzettel, valamint az egészségügyről szóló törvény szerinti egészségügyi válsághelyzettel (a továbbiakban: egészségügyi válsághelyzet) kapcsolatos feladatokban.
+
+n) a 6/B. § (2) bekezdése szerinti feladat végrehajtása a hatályos nemzetközi normák betartásával,
 
 (2) A Honvédség a következő feladatokat fegyverhasználati jog nélkül látja el:
 

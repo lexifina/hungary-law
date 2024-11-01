@@ -1,23 +1,11 @@
 ## 38. A katonai igazgatási szervek feladatai
 
-67. § A Honvédség katonai igazgatási és központi adatfeldolgozó szerve ellátja a következő tevékenységekkel összefüggő katonai igazgatási feladatokat:
+67. § A központi katonai igazgatási szerv ellátja a következő tevékenységekkel összefüggő katonai igazgatási feladatokat:
 
-a) az önkéntes tartalékosok, a kiképzetlen és a kiképzett hadkötelesek nyilvántartásával, a hadkötelezettek katonai szolgálatával kapcsolatos feladatok tervezése, és végrehajtása, a nyilvántartás vezetése,
+a) az önkéntes tartalékosok, a kiképzetlen és a kiképzett hadkötelesek, a hadkötelezettek katonai szolgálatával kapcsolatos feladatok tervezése, a végrehajtás irányítása, felügyelete és ellenőrzése,
 
-b) a meghagyásba bevont szervezeteknek a meghagyás előkészítésével és végrehajtásával kapcsolatos tevékenységeinek koordinálása,
+b) Vbö. 5. § 18. pontja szerinti védelmi és biztonsági szervezetek és a honvédelemben közreműködő egyéb szervek részére szükséges gazdasági és anyagi szolgáltatási kötelezettségek teljesítésének tervezése, végrehajtásának irányítása, felügyelete és ellenőrzése,
 
-c) a honvédelmi szervezet, a rendvédelmi szervek, a nemzetbiztonsági szolgálatok, az Országgyűlési Őrség és a honvédelemben közreműködő egyéb szervek részére szükséges gazdasági és anyagi szolgáltatási kötelezettségek teljesítésének tervezése, végrehajtásának irányítása, felügyelete és ellenőrzése,
+c) az önkéntes tartalékos állomány behívásának előkészítésével és a behívás végrehajtásával kapcsolatos feladatok irányítása, felügyelete és ellenőrzése, az önkéntes tartalékosok munkáltatóival történő kapcsolattartás,
 
-d) az önkéntes tartalékos állomány behívásának előkészítéséhez és a behívás végrehajtásához szükséges nyilvántartás vezetése, az önkéntes tartalékosok munkáltatóival történő kapcsolattartás,
-
-e) az önkéntes tartalékos állomány behívása a honvédelemért felelős miniszter rendeletében meghatározott kivételekkel,
-
-f) a Honvédség központi hadköteles-nyilvántartásának vezetése,
-
-g) a Honvédség központi toborzó és érdekvédelmi nyilvántartásának vezetése,
-
-h) nyilvántartás vezetése a meghagyásba bevont szervekről és a meghagyásra kijelölt munkakörökről, valamint a meghagyásban részesült kiképzett és kiképzetlen hadkötelesekről,
-
-i) a veszteség-nyilvántartás vezetése és a nemzetközi egyezmények szerinti tájékoztatás végrehajtása,
-
-j) a törvényben meghatározottak szerint a honvédelmi azonosító okmányok kiadása, továbbá a katonák személyi igazoló jeggyel és az 1949. augusztus 12-én kötött Genfi Egyezmények hatálya alá tartozó személyazonossági igazolvánnyal történő ellátása.
+d) a hadkiegészítő és toborzó központok törvényben meghatározott toborzó és érdekvédelmi tevékenységének tervezése, végrehajtásának irányítása, felügyelete és ellenőrzése.

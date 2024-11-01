@@ -1,6 +1,6 @@
 28. § (1) A katonai szolgálatteljesítés tervezését első- és másodfokú Bizottság végzi.
 
-(2) Az elsőfokú Bizottság elnöke a Honvédség katonai igazgatási és központi adatfeldolgozó szervének vezetője által kijelölt katona, tagja
+(2) Az elsőfokú Bizottság elnöke a központi katonai igazgatási szerv vezetője által kijelölt katona, tagja
 
 a) a személyes megjelenés nélküli egészségi alkalmasság megállapítása esetén az alkalmasságot vizsgáló belgyógyász szakorvos, vagy
 
@@ -12,4 +12,4 @@ b) a hadköteles személyes megjelenéssel történő szolgálatteljesítés ter
 
 (5) A másodfokú Bizottság elnöke a Honvéd Vezérkar főnöke által kijelölt katona, tagja a Honvédség központi egészségügyi szervezetének alkalmasságot vizsgáló orvosa, pszichológusa és a hadkiegészítő központ alkalmasságot vizsgáló szakfőorvosa.
 
-(6) A másodfokú Bizottság munkájában a Honvédség katonai igazgatási és központi adatfeldolgozó szervének vezetője által kijelölt kisegítő személyek vesznek részt.
+(6) A másodfokú Bizottság munkájában a központi katonai igazgatási szerv vezetője által kijelölt kisegítő személyek vesznek részt.
