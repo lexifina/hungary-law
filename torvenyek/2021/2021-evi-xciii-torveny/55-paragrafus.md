@@ -8,7 +8,7 @@ a) a bizottság szakmai elnökhelyettese kivételével a bizottság illetékess�
 
 b) a fővárosi, vármegyei kormányhivatal képviselője,
 
-c) a katonai igazgatási szerv képviselője,
+c) a területi katonai igazgatási szervének képviselője,
 
 d) az árvízi védekezésért felelős szervezetnek a bizottság illetékességi területe szerinti vezetője,
 

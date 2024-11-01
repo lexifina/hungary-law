@@ -10,7 +10,7 @@ a) a vármegyei közgyűlés elnöke – a fővárosban a főpolgármester – v
 
 b) a megyei jogú város polgármestere vagy az általa helyettesítésre kijelölt személy,
 
-c) a katonai igazgatás területi szervének vezetője,
+c) a területi katonai igazgatási szervének vezetője,
 
 d) a bizottság szakmai elnökhelyettese kivételével a bizottság illetékességi területén működő, önálló hatáskörrel rendelkező rendvédelmi szerv illetékes vezetője,
 
