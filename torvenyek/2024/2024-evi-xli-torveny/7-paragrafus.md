@@ -1,0 +1,1 @@
+7. § A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 26. § (1) bekezdés c) pontjában az „a társadalombiztosítási támogatással nem rendelhető” szövegrész helyébe a „valamely indikációba már befogadott, ugyanakkor a kérelmezett indikációban társadalombiztosítási támogatással nem rendelhető” szöveg lép.
