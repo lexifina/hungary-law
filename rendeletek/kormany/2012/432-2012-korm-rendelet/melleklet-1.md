@@ -2,7 +2,7 @@
 
 1. melléklet a 432/2012. (XII. 29.) Korm. rendelethez
 
-## A sugár- és gyűrűirányú közutak
+A sugár- és gyűrűirányú közutak
 
 Az országos főhálózati elemek fővárosi szakaszai:
 

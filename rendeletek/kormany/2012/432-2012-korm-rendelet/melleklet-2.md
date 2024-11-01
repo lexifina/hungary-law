@@ -954,7 +954,7 @@ A kiemelt forgalmú vagy országos közúti közlekedésben fontos szerepet ját
 
 | 455 | Pöttyös utca | Üllői út – Dési Huber utca |
 
-| 456 | Ráday utca | Kálvin tér – Boráros tér |
+| 456 |  |  |
 
 | 457 | Rákóczi híd |  |
 
@@ -2646,4 +2646,4 @@ A kiemelt forgalmú vagy országos közúti közlekedésben fontos szerepet ját
 
 | 1273 | Zománc utca | Wekerle Sándor utca – Könyves utca |
 
-[^4]: A 2. melléklet a 104/2016. (V. 13.) Korm. rendelet 1. § (2) bekezdése, a 313/2022. (VIII. 11.) Korm. rendelet 1. és 2. §-a szerint módosított szöveg.
+[^4]: A 2. melléklet a 104/2016. (V. 13.) Korm. rendelet 1. § (2) bekezdése, a 313/2022. (VIII. 11.) Korm. rendelet 1. és 2. §-a, a 290/2024. (X. 3.) Korm. rendelet 1. §-a szerint módosított szöveg.
