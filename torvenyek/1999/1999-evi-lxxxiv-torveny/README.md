@@ -77,3 +77,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1999-84-00-00
 | 2024-05-18 | 2024. évi XII. törvény | 1999-84-00-00.95 |
 | 2024-07-01 | 2024. évi XXVI. törvény | 1999-84-00-00.96 |
 | 2024-09-01 | 2024. évi XII. törvény | 1999-84-00-00.97 |
+| 2024-11-01 | 2024. évi XLI. törvény | 1999-84-00-00.99 |

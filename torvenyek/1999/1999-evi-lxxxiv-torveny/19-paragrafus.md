@@ -6,7 +6,7 @@ b) a közúti közlekedési ügyekben, valamint a közúti közlekedési igazgat
 
 c) a rendőrség a közbiztonsági ellenőrzéshez és határrendészeti feladatai ellátásához szükséges adatokat;
 
-d) a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve a hadkötelesek nyilvántartásához a 8. § (1) bekezdés a) pont aa), ab), af) alpontjában, valamint a b) pont ba) és bc) alpontjában meghatározott adatokat és a járművezető egészségi és pályaalkalmassági adatait, valamint a Honvédség, a rendvédelmi szervek és a Nemzeti Adó- és Vámhivatal vámszerve vagy nyomozó hatósága részére biztosított technikai eszközökkel kapcsolatos szolgáltatás elrendelése céljából a 9. § (1)–(1b) bekezdésében, valamint a 9. § (2) bekezdés a) pontjában meghatározott adatokat;
+d) a Magyar Honvédség központi nyilvántartó szerve és a területi katonai igazgatási szervek a hadkötelesek nyilvántartásához a 8. § (1) bekezdés a) pont aa), ab), af) alpontjában, valamint a b) pont ba) és bc) alpontjában meghatározott adatokat és a járművezető egészségi és pályaalkalmassági adatait, valamint a Honvédség, a rendvédelmi szervek és a Nemzeti Adó- és Vámhivatal vámszerve vagy nyomozó hatósága részére biztosított technikai eszközökkel kapcsolatos szolgáltatás elrendelése céljából a 9. § (1)–(1b) bekezdésében, valamint a 9. § (2) bekezdés a) pontjában meghatározott adatokat;
 
 e) a települési önkormányzat jegyzője
 
