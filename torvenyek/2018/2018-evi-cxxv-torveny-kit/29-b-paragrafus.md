@@ -48,6 +48,10 @@ c) egyenesági rokona nagykorú testvérének természetes személyazonosító a
 
 d) testvére nagykorú egyenesági rokonának természetes személyazonosító adatait.
 
+e) saját háztartásában élő nagykorú személy természetes személyazonosító adatait,
+
+f) nagykorú unokatestvére és mostohatestvére természetes személyazonosító adatait.
+
 (3e) Az Igazgatóság tevékenységét, az ellenőrzések tervezését és végrehajtását az audithatóság rendszeraudit-jelentés keretében hitelesíti.
 
 (3f) Az Igazgatóság az Európai Unió pénzügyi érdekeinek védelme, valamint Magyarország kötelezettségvállalásának teljesítése érdekében – függetlenségének megtartására és a jogszabályokban meghatározott feladatai ellátásának sértetlenségére figyelemmel – további feladatokat lát el.

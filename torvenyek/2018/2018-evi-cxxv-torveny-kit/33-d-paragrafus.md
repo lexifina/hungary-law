@@ -6,13 +6,23 @@
 
 (3) A 33/B. § (1) bekezdése szerinti államtitkár
 
-a) az irányító hatósági és nemzeti hatósági feladatok vonatkozásában, továbbá a 33/C. § (6) bekezdés szerinti irányítási feladatok tekintetében nem utasítható,
+a) az irányító hatósági és nemzeti hatósági feladatok vonatkozásában, továbbá a 33/C. § (7) bekezdése szerinti irányítási feladatok tekintetében nem utasítható,
 
-b) e törvény eltérő rendelkezése hiányában nem gyakorolhat a Nemzeti Fejlesztési Központot irányító minisztert megillető hatáskört, nem helyettesítheti a Nemzeti Fejlesztési Központot irányító minisztert, a Nemzeti Fejlesztési Központot irányító miniszter által átruházott hatáskörben nem járhat el a miniszter nevében, a Nemzeti Fejlesztési Központot irányító miniszter hatáskörébe tartozó ügyekben kiadmányozási joggal nem ruházható fel, és nem gyakorolhat irányítási hatáskört a Nemzeti Fejlesztési Központon túl a Nemzeti Fejlesztési Központot irányító miniszter által vezetett minisztérium szervezeti egysége, foglalkoztatottja tekintetében.
+b) jogszabály eltérő rendelkezése hiányában, illetve a 33/B. § (2a) bekezdése kivételével
+
+ba) nem gyakorolhat az európai uniós források felhasználásáért felelős minisztert megillető hatáskört,
+
+bb) nem helyettesítheti a Nemzeti Fejlesztési Központot irányító minisztert,
+
+bc) az európai uniós források felhasználásáért felelős miniszter által átruházott hatáskörben nem járhat el a miniszter nevében,
+
+bd) az európai uniós források felhasználásáért felelős miniszter hatáskörébe tartozó ügyekben kiadmányozási joggal nem ruházható fel,
+
+c) nem gyakorolhat irányítási hatáskört a Nemzeti Fejlesztési Központon túl az európai uniós források felhasználásáért felelős miniszter által vezetett minisztérium szervezeti egysége, foglalkoztatottja tekintetében.
 
 (4) A 33/B. § (1) bekezdése szerinti államtitkár
 
-a) javaslatot tesz a Nemzeti Fejlesztési Központ szervezeti és működési szabályzatára és a Nemzeti Fejlesztési Központ feladatainak ellátásához szükséges egyéb szabályzatokra,
+a) javaslatot tesz a Nemzeti Fejlesztési Központ szervezeti és működési szabályzatára és a Nemzeti Fejlesztési Központ feladatainak ellátásához szükséges egyéb – a 33/C. § (5) bekezdése szerinti – szabályzatokra,
 
 b) a 81. § (2) és (3) bekezdésében foglaltak figyelembevételével gyakorolja a Nemzeti Fejlesztési Központnál foglalkoztatottak tekintetében a 81. § (1) bekezdése szerinti munkáltatói jogokat,
 
@@ -26,7 +36,7 @@ f) az irányadó jogi és a rendelkezésére álló költségvetési keretek kö
 
 g) képviseli a Nemzeti Fejlesztési Központot, és
 
-h) ellátja a jogszabályban ráruházott egyéb feladatokat.
+h) a Nemzeti Fejlesztési Központ tekintetében gyakorolja a jogszabályban a költségvetési szerv vezetőjének címzett hatásköröket.
 
 (5) Az (1) és (4) bekezdés szerinti feladatai ellátásában a 33/B. § (1) bekezdése szerinti államtitkárt a Nemzeti Fejlesztési Központ szervezeti és működési szabályzatában meghatározottak szerint a Nemzeti Fejlesztési Központ kijelölt helyettes államtitkára vagy a feladatkörében érintett főigazgató helyettesíti.
 

@@ -14,19 +14,9 @@ b) az (1) bekezdés szerinti feladatokkal és az a) pont szerinti kormánytisztv
 
 azzal, hogy a jogutódlásra – az (5)–(12) bekezdésben foglaltak figyelembevételével – a 90/A. §-t kell alkalmazni.
 
-(5) 2024. augusztus 31-ig a Nemzeti Fejlesztési Központ
+(5)
 
-a) kormánytisztviselői számára ki kell állítani az új beosztási okiratot,
-
-b) munkavállalói új munkaszerződését meg kell kötni.
-
-(6) A Nemzeti Fejlesztési Központnál foglalkoztatott
-
-a) kormánytisztviselő kormányzati szolgálati jogviszonyára a 2024. július 31. napján érvényes kinevezést,
-
-b) munkavállaló munkaviszonyára a 2024. július 31. napján érvényes munkaszerződést
-
-kell alkalmazni az (5) bekezdés szerinti új beosztási okirat, illetve munkaszerződés alkalmazásának kezdőnapjáig.
+(6)
 
 (7) Az érintett jogviszonyát a próbaidő, a végkielégítésre és a szolgálati elismerésre való jogosultság szempontjából folyamatosnak kell tekinteni.
 

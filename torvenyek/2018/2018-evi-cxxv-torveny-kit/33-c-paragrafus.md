@@ -10,6 +10,8 @@
 
 (5) A Nemzeti Fejlesztési Központ önálló szervezeti és működési szabályzat szerint működik, amelyet a 33/B. § (1) bekezdése szerinti államtitkár javaslatára az európai uniós források felhasználásáért felelős miniszter normatív utasításban ad ki. A Nemzeti Fejlesztési Központ feladatainak ellátásához és működéséhez szükséges – a jogalkotásról szóló 2010. évi CXXX. törvény 23. § (4) bekezdése szerinti normatív utasításban kiadandó – szabályzatokat a 33/B. § (1) bekezdése szerinti államtitkár javaslatára az európai uniós források felhasználásáért felelős miniszter adja ki.
 
+(5a) A Nemzeti Fejlesztési Központ feladatainak ellátásához és működéséhez szükséges – az (5) bekezdés hatálya alá nem tartozó – szabályzatokat a 33/B. § (1) bekezdése szerinti államtitkár adja ki. A Nemzeti Fejlesztési Központ közszolgálati szabályzata szempontjából a Nemzeti Fejlesztési Központ a 280. § (1) bekezdés 20. pont b) alpontja szerinti kormányzati igazgatási szervnek minősül, azzal, hogy a közszolgálati szabályzatot a 33/B. § (1) bekezdése szerinti államtitkár adja ki.
+
 (6) A Nemzeti Fejlesztési Központ a Harmadik Rész és a 279. § (4) bekezdése alkalmazásában önálló kormányzati igazgatási szervnek minősül.
 
 (7) A Nemzeti Fejlesztési Központ a Magyarország központi költségvetéséről szóló törvény Uniós fejlesztések fejezete tekintetében fejezetet irányító szervi jogállással bír. A Nemzeti Fejlesztési Központ költségvetése a Magyarország központi költségvetéséről szóló törvény Uniós fejlesztések fejezetén belül önálló címet képez.
@@ -18,4 +20,4 @@
 
 (9) A Nemzeti Fejlesztési Központ önálló gazdasági szervezettel rendelkezik.
 
-(10) A Nemzeti Fejlesztési Központ tekintetében a jogszabályban költségvetési szerv vezetőjének címzett hatásköröket a 33/B. § (1) bekezdése szerinti államtitkár gyakorolja.
+(10)

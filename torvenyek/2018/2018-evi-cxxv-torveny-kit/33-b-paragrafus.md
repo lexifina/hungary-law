@@ -18,4 +18,8 @@ d) a Kormány rendeletében meghatározott programok vonatkozásában az irány�
 
 e) a nemzetközi együttműködési programok végrehajtásával összefüggő, a Kormány rendeletében meghatározott feladatokat,
 
+f) a jogszabályban ráruházott egyéb feladatokat.
+
+(2a) A Nemzeti Fejlesztési Központ kormányrendeletben meghatározottak szerint elláthatja a közbeszerzésekért felelős miniszter közbeszerzésekért való felelősségi körébe tartozó, a Kormány rendeletében meghatározott feladatokat.
+
 (3) A Kormány rendeletében meghatározott programok tekintetében a (2) bekezdésben meghatározott feladatokat vagy azoknak a Kormány rendeletében meghatározott részét a (2) bekezdésben foglaltaktól eltérően a Kormány rendeletében kijelölt kormányzati igazgatási szerv látja el.
