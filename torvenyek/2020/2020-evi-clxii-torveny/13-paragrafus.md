@@ -1,4 +1,4 @@
-13. § (1) A statisztikai modulból a közszolgálati életpálya kidolgozásáért felelős miniszter – a Kormány rendeletében meghatározott módon és adatkörben – a jogszabályban meghatározott feladatainak ellátása érdekében statisztikai lekérdezéseket végezhet.
+13. § (1) A statisztikai modulból a miniszter – a Kormány rendeletében meghatározott módon és adatkörben – a jogszabályban meghatározott feladatainak ellátása érdekében statisztikai lekérdezéseket végezhet.
 
 (2) A statisztikai modulból az (1) bekezdésben foglaltakon túl közvetlenül statisztikai lekérdezéseket végezhet a Kormány rendeletében meghatározott rendben
 
@@ -12,7 +12,7 @@ d) a miniszterelnök kabinetfőnöke,
 
 e) felelősségi körében eljárva az ágazati miniszter,
 
-f) felelősségi körében eljárva a közszolgálati életpálya kidolgozásáért felelős miniszter által meghatározott személy,
+f) felelősségi körében eljárva a miniszter által meghatározott személy,
 
 g) a 2. § a) és b) pontja szerinti foglalkoztató szervezetek vonatkozásában a Kit. szerinti kormányzati személyügyi igazgatásra kijelölt szervnél működő helyettes államtitkár, valamint a Magyar Kormánytisztviselői Kar, továbbá a területi kormányzati igazgatási szerv vonatkozásában a közigazgatás-szervezésért felelős miniszter,
 
@@ -24,4 +24,4 @@ j) a 2. § e) pontja szerinti foglalkoztató szervezet vonatkozásában a Nemzet
 
 k) a 2. § f) pontja szerinti foglalkoztató szervezetek vonatkozásában az egészségügyért felelős miniszter, a középirányítói jogosultságokkal rendelkező szervezet, valamint az egészségügyi szolgáltató vezetője.
 
-(3) A statisztikai modulból statisztikai lekérdezéseket kérhet a közszolgálati életpálya kidolgozásáért felelős miniszter megkeresése útján a Kormány rendeletében meghatározott rendben, felelősségi körében eljárva a (2) bekezdésen kívüli szervezet is.
+(3) A statisztikai modulból statisztikai lekérdezéseket kérhet a miniszter megkeresése útján a Kormány rendeletében meghatározott rendben, felelősségi körében eljárva a (2) bekezdésen kívüli szervezet is.

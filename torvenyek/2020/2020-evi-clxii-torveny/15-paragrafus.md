@@ -2,7 +2,7 @@
 
 15. § Felhatalmazást kap a Kormány, hogy rendeletben meghatározza
 
-1. a KSZDR felépítését, működését, a jogosultságkezelés rendjét, valamint az adatfeldolgozói jogviszonyra vonatkozó szabályokat,
+1. a KSZDR felépítését, működését, 4. § (1b) bekezdése szerinti javaslattételi joggal érintett működtetési részfeladatokat és a javaslattételi jog gyakorlására vonatkozó eljárás rendjét, a jogosultságkezelésre, valamint az adatfeldolgozói jogviszonyra vonatkozó szabályokat,
 
 2. a KSZDR informatikai üzemeltetését végző szervezetet,
 
@@ -22,7 +22,7 @@
 
 10. a foglalkoztatott adatainak személyazonosításra alkalmatlan módon történő nyilvántartása rendjét a statisztikai modulban,
 
-11. a közszolgálati életpálya kidolgozásáért felelős miniszter jogszabályban meghatározott feladatainak ellátása érdekében történő statisztikai lekérdezések módját és adatköreit,
+11. a miniszter jogszabályban meghatározott feladatainak ellátása érdekében történő statisztikai lekérdezések módját és adatköreit,
 
 12. a közvetlen statisztikai lekérdezések rendjét, valamint a statisztikai adatszolgáltatásra irányuló megkeresésre jogosult szervezetek kijelölését és a megkeresésre történő adatszolgáltatás rendjét,
 
