@@ -1,1 +1,1 @@
-10/A. § A katonai igazgatás területi szerve a technikai eszközök igénybevételének tervezése, igénybevételi célú kijelölése céljából a 10. § (1) bekezdés a)–d) pontja szerinti adatokat igényelheti.
+10/A. § A Magyar Honvédség központi nyilvántartó szerve és a területi katonai igazgatási szervek a technikai eszközök igénybevételének tervezése, igénybevételi célú kijelölése céljából a 10. § (1) bekezdés a)–d) pontja szerinti adatokat igényelhetik.
