@@ -248,9 +248,9 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 78c.[^48] újrahasználatra való előkészítés: a 651/2014/EU bizottsági rendelet 2. cikk 127. pontja szerinti előkészítés,
 
-79. válságtámogatás: „Az állami támogatásokra vonatkozó, az Ukrajna elleni orosz agresszióval összefüggésben a gazdaság támogatását célzó ideiglenes válság- és átállási keret” című, 2023. március 17-i, 2023/C 101/03. számú európai bizottsági közlemény (a továbbiakban: válságközlemény) 2.1. alcíme szerinti támogatás.
+79.[^49]
 
-80.[^49] versenyeztetéses ajánlattételi eljárás: a 651/2014/EU bizottsági rendelet 2. cikk 38. pontja szerinti eljárás.
+80.[^50] versenyeztetéses ajánlattételi eljárás: a 651/2014/EU bizottsági rendelet 2. cikk 38. pontja szerinti eljárás.
 
 [^1]: A 2. § 4a. pontját a 9/2024. (V. 23.) EM rendelet 1. § (1) bekezdése iktatta be.
 [^2]: A 2. § 7a. pontját a 9/2024. (V. 23.) EM rendelet 1. § (2) bekezdése iktatta be.
@@ -300,4 +300,5 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 [^46]: A 2. § 78a. pontját a 9/2024. (V. 23.) EM rendelet 1. § (25) bekezdése iktatta be.
 [^47]: A 2. § 78b. pontját a 9/2024. (V. 23.) EM rendelet 1. § (25) bekezdése iktatta be.
 [^48]: A 2. § 78c. pontját a 9/2024. (V. 23.) EM rendelet 1. § (25) bekezdése iktatta be.
-[^49]: A 2. § 80. pontját a 9/2024. (V. 23.) EM rendelet 1. § (26) bekezdése iktatta be.
+[^49]: A 2. § 79. pontját a 19/2024. (X. 31.) EM rendelet 7. § a) pontja hatályon kívül helyezte.
+[^50]: A 2. § 80. pontját a 9/2024. (V. 23.) EM rendelet 1. § (26) bekezdése iktatta be.

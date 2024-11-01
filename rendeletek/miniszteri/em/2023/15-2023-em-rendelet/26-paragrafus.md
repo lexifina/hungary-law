@@ -1,4 +1,4 @@
-## 12.[^87] Épület-energiahatékonysági intézkedéshez nyújtott beruházási támogatás
+## 12.[^95] Épület-energiahatékonysági intézkedéshez nyújtott beruházási támogatás
 
 26. § (1) Az épület-energiahatékonysági intézkedéshez nyújtott beruházási támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) épületek energiahatékonyságát növelő beruházáshoz, felújításhoz nyújtható, ideértve az épületen belül található fűtő- vagy hűtőberendezések energiahatékonyságának javítását is.
 
@@ -42,4 +42,4 @@ c) új épületek esetén legalább 10%-os javulását eredményezi a közel nul
 
 (7) Az (5) bekezdés b) pontja alapján nyújtott támogatások összege nem haladhatja meg az Atr. 2. § 23. pontja szerinti támogatási program energiahatékonysági intézkedésekre vonatkozó költségvetésének 30%-át.
 
-[^87]: A 12. alcím (26–28. §) a 9/2024. (V. 23.) EM rendelet 5. §-ával megállapított szöveg.
+[^95]: A 12. alcím (26–28. §) a 9/2024. (V. 23.) EM rendelet 5. §-ával megállapított szöveg.

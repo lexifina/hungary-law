@@ -1,4 +1,4 @@
-## 28.[^123] Tiszta üzemű vagy kibocsátásmentes járművek beszerzésére és járművek utólagos átalakítására nyújtott beruházási támogatás
+## 28.[^125] Tiszta üzemű vagy kibocsátásmentes járművek beszerzésére és járművek utólagos átalakítására nyújtott beruházási támogatás
 
 60/E. § (1) A tiszta üzemű vagy kibocsátásmentes járművek beszerzéséhez, valamint járművek utólagos átalakításához beruházási támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás)
 
@@ -24,4 +24,4 @@ c) a jármű tiszta üzemű vagy kibocsátásmentes jármű minősítését lehe
 
 (5) A (2) bekezdés b) pontja szerinti esetben a lízing költségei nem foglalják magukba a jármű üzemeltetésével kapcsolatban felmerülő működési költségeket – ideértve az energiaköltségeket, a biztosítási költségeket és karbantartási költségeket –, függetlenül attól, hogy azok részét képezik-e a lízingszerződésnek.
 
-[^123]: A 28. alcímet (60/E–60/F. §-t) a 9/2024. (V. 23.) EM rendelet 14. §-a iktatta be.
+[^125]: A 28. alcímet (60/E–60/F. §-t) a 9/2024. (V. 23.) EM rendelet 14. §-a iktatta be.

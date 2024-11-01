@@ -4,7 +4,7 @@
 
 ## 3. Az európai uniós támogatásoknak való megfelelés
 
-4. §[^50] (1) Az EUMSz 107. cikk (1) bekezdése szerinti állami támogatások esetében az 1. mellékletben foglalt táblázat
+4. §[^51] (1) Az EUMSz 107. cikk (1) bekezdése szerinti állami támogatások esetében az 1. mellékletben foglalt táblázat
 
 1. 4., 6., 7., 8., 9., 11., 12., 13. és 14. sora alapján az (EU) 2023/2831 bizottsági rendelet szerinti csekély összegű támogatás;
 
@@ -22,9 +22,9 @@
 
 8. 4., 6., 7., 9. és 11. sora alapján a 651/2014/EU bizottsági rendelet 28. cikke szerinti kis- és középvállalkozásoknak nyújtott innovációs támogatás;
 
-9. 10. sora alapján a 651/2014/EU bizottsági rendelet 29. cikke szerinti eljárási és szervezési innováció támogatása;
+9.[^52] 11. sora alapján a 651/2014/EU bizottsági rendelet 29. cikke szerinti eljárási és szervezési innováció támogatása;
 
-10. 10. sora alapján a 651/2014/EU bizottsági rendelet 31. cikke szerinti képzési támogatás;
+10.[^53] 11. sora alapján a 651/2014/EU bizottsági rendelet 31. cikke szerinti képzési támogatás;
 
 11. 4., 7., 9. és 11. sora alapján a 651/2014/EU bizottsági rendelet 36. cikke szerinti dekarbonizációt is magában foglaló környezetvédelmi beruházási támogatás;
 
@@ -52,18 +52,24 @@
 
 23. 4. sora alapján az (EU) 2021/783 európai parlamenti és tanácsi rendelet 4. cikk 2. pontja szerinti Éghajlat-politika területhez (a továbbiakban: Éghajlat-politika terület) sorolt már uniós támogatást elnyert és végrehajtás alatt álló projektek vagy az Európai Unió Bizottságának döntése alapján nyertes pályázatok önrész összegéhez nyújtott támogatás;
 
-24. 4–14. sora alapján az SA.106542 (2023/N) számú, valamint az azt módosító európai bizottsági határozatokban foglaltakkal összhangban a válságközlemény 2.1. alcíme szerinti válságtámogatás
+24.[^54]
 
 nyújtható.
 
 (2) Az EUMSz 107. cikk (1) bekezdése szerinti állami támogatás a 2. mellékletben foglalt táblázat
 
-1. 18. sora alapján az (EU) 2023/2831 bizottsági rendelet szerinti csekély összegű támogatás;
+1.[^55] 19. sora alapján az (EU) 2023/2831 bizottsági rendelet szerinti csekély összegű támogatás;
 
-2. 12., 14., 16. és 20. sora alapján a 2012/21/EU bizottsági határozat szerinti közszolgáltatás ellentételezése formájában nyújtott állami támogatás;
+2.[^56] 13., 15., 17. és 21. sora alapján a 2012/21/EU bizottsági határozat szerinti közszolgáltatás ellentételezése formájában nyújtott állami támogatás;
 
-3. 5–18. sora alapján az SA.106542 (2023/N) számú, valamint az azt módosító európai bizottsági határozatokban foglaltakkal összhangban a válságközlemény 2.1. alcíme szerinti válságtámogatás
+3.[^57]
 
 nyújtható.
 
-[^50]: A 4. § a 9/2024. (V. 23.) EM rendelet 2. §-ával megállapított szöveg.
+[^51]: A 4. § a 9/2024. (V. 23.) EM rendelet 2. §-ával megállapított szöveg.
+[^52]: A 4. § (1) bekezdés 9. pontja a 19/2024. (X. 31.) EM rendelet 6. § a) pontja szerint módosított szöveg.
+[^53]: A 4. § (1) bekezdés 10. pontja a 19/2024. (X. 31.) EM rendelet 6. § a) pontja szerint módosított szöveg.
+[^54]: A 4. § (1) bekezdés 24. pontját a 19/2024. (X. 31.) EM rendelet 7. § b) pontja hatályon kívül helyezte.
+[^55]: A 4. § (2) bekezdés 1. pontja a 19/2024. (X. 31.) EM rendelet 6. § b) pontja szerint módosított szöveg.
+[^56]: A 4. § (2) bekezdés 2. pontja a 19/2024. (X. 31.) EM rendelet 6. § c) pontja szerint módosított szöveg.
+[^57]: A 4. § (2) bekezdés 3. pontját a 19/2024. (X. 31.) EM rendelet 7. § c) pontja hatályon kívül helyezte.

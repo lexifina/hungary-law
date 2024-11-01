@@ -1,4 +1,4 @@
-45. §[^102] Nem nyújtható támogatás
+45. §[^112] Nem nyújtható támogatás
 
 a) acélipari tevékenységhez,
 
@@ -12,4 +12,4 @@ e) energiatermelési, energiatárolási, energiaátviteli, energiaelosztási tev
 
 f) szélessávú ágazatban végzett tevékenységhez.
 
-[^102]: A 45. § a 9/2024. (V. 23.) EM rendelet 8. §-ával megállapított szöveg.
+[^112]: A 45. § a 9/2024. (V. 23.) EM rendelet 8. §-ával megállapított szöveg.

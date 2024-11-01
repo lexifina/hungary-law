@@ -1,4 +1,4 @@
-## 18.[^96] A sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatás
+## 18.[^104] A sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatás
 
 38. § (1) A sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás)
 
@@ -18,4 +18,4 @@ nyújtható.
 
 (6) Ha a támogatott sportlétesítményt hivatásos csapatok használják, az esetükben alkalmazott díjszámítási feltételeket nyilvánossá kell tenni.
 
-[^96]: A 18. alcím (38–40/A. §) a 9/2024. (V. 23.) EM rendelet 6. §-ával megállapított szöveg.
+[^104]: A 18. alcím (38–40/A. §) a 9/2024. (V. 23.) EM rendelet 6. §-ával megállapított szöveg.

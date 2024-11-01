@@ -1,4 +1,4 @@
-## 8.[^83] A kis- és középvállalkozásnak nyújtott innovációs támogatás
+## 8.[^91] A kis- és középvállalkozásnak nyújtott innovációs támogatás
 
 18. § (1) A kis- és középvállalkozásnak nyújtott innovációs támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) keretében elszámolható
 
@@ -12,4 +12,4 @@ c) az innovációs tanácsadás és az innovációs támogató szolgáltatás k�
 
 (3) Az (1) bekezdés c) pontja szerinti esetben a támogatási intenzitás az elszámolható költségek 100%-áig növelhető, ha az innovációs tanácsadáshoz és innovációs támogató szolgáltatáshoz nyújtott támogatás összege nem haladja meg három év alatt a kétszázhúszezer eurónak megfelelő forintösszeget.
 
-[^83]: A 8. alcím (18. §) a 9/2024. (V. 23.) EM rendelet 5. §-ával megállapított szöveg.
+[^91]: A 8. alcím (18. §) a 9/2024. (V. 23.) EM rendelet 5. §-ával megállapított szöveg.

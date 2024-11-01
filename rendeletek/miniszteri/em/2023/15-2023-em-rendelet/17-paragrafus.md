@@ -1,4 +1,4 @@
-## 7.[^82] A kutatási infrastruktúrához nyújtott beruházási támogatás
+## 7.[^90] A kutatási infrastruktúrához nyújtott beruházási támogatás
 
 17. § (1) A kutatási infrastruktúrához nyújtott beruházási támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) gazdasági tevékenység folytatására használt kutatási infrastruktúra építéséhez és korszerűsítéséhez nyújtható.
 
@@ -14,4 +14,4 @@
 
 (7) Ha a kutatási infrastruktúra gazdasági és nem gazdasági tevékenységre vonatkozóan egyaránt részesül közfinanszírozásban, az egyes tevékenységekhez kapcsolódó finanszírozást, költségeket és az azokból származó bevételeket külön kell elszámolni, következetesen alkalmazott és objektíven indokolható számviteli elvek alapján. Ebben az esetben a (3) bekezdés szerinti maximális támogatási intenzitás túllépésének elkerülése érdekében ellenőrzési és visszakövetelési mechanizmust kell alkalmazni arra az esetre vonatkozóan, ha a gazdasági tevékenység részaránya nagyobb, mint az a támogatás odaítélésekor megállapításra került.
 
-[^82]: A 7. alcím (17. §) a 9/2024. (V. 23.) EM rendelet 5. §-ával megállapított szöveg.
+[^90]: A 7. alcím (17. §) a 9/2024. (V. 23.) EM rendelet 5. §-ával megállapított szöveg.
