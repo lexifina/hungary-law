@@ -1,6 +1,6 @@
 ## 18. § A 2015. évi kárenyhítési év vonatkozásában a kárbejelentésekről e rendelet hatálybalépése előtt kiállított hatósági bizonyítványokat is figyelembe kell venni a kárenyhítő juttatás iránti kérelemben.
 
-18/A. §[^110] (1) Az Mkk. tv. 7. § (1) bekezdése szerinti mezőgazdasági kockázatkezelési pénzeszköz terhére a 2022. kárenyhítési év vonatkozásában a kárenyhítő juttatás újraszámítására jogosult az a mezőgazdasági termelő,
+18/A. §[^122] (1) Az Mkk. tv. 7. § (1) bekezdése szerinti mezőgazdasági kockázatkezelési pénzeszköz terhére a 2022. kárenyhítési év vonatkozásában a kárenyhítő juttatás újraszámítására jogosult az a mezőgazdasági termelő,
 
 a) akinek a megállapított biztosítói kártérítését a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény 21. § (1) bekezdés f) pontja szerinti szolgáltatáscsökkentés érintette, és a szolgáltatáscsökkentés tényét a biztosító az agrárkár-enyhítési szerv részére igazolja,
 
@@ -26,4 +26,4 @@ f) akinek vonatkozásában a szolgáltatáscsökkentést elrendelő biztosító 
 
 (7) A különbözet kifizetését az Mkk. tv. 15. § (4) bekezdés b) pontja szerinti áthúzódó kifizetésnek kell tekinteni.
 
-[^110]: A 18/A. §-t a 47/2024. (IX. 5.) AM rendelet 7. §-a iktatta be.
+[^122]: A 18/A. §-t a 47/2024. (IX. 5.) AM rendelet 7. §-a iktatta be.
