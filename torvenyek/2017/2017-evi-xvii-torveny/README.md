@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-17-00-00
 | --- | --- | --- |
 | 2017-03-21 | 2017. évi XVII. törvény | 2017-17-00-00.0 (közlönyállapot) |
 | 2017-03-21 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-17-00-00.1 |
+| 2024-11-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-17-00-00.2 |
