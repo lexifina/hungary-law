@@ -24,7 +24,9 @@
 
 (10) A 38. § (2) bekezdése és a 160. § 2024. október 18-án lép hatályba.
 
-(11) A 26. §, a 28. §, a 30–33. §, a 35. §, a 65. alcím és a 184. § a) pontja 2025. január 1-jén lép hatályba.
+(10a) A 26. § 2024. november 2-án lép hatályba.
+
+(11) A 28. §, a 30–33. §, a 35. §, a 65. alcím és a 184. § a) pontja 2025. január 1-jén lép hatályba.
 
 (12) A 141. §, a 142. §, a 144. §, a 146. §, a 157. §, a 165. §, a 183. § és a 184. § b) pontja 2025. január 15-én lép hatályba.
 
