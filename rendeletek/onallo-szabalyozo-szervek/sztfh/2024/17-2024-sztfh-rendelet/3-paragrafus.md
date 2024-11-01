@@ -1,1 +1,3 @@
-3. § Az R1. 1. melléklet 3. pont 3.1. alpontjában és 3. melléklet 2. pont 2.1. alpontjában a „250” szövegrészek helyébe az „500” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
