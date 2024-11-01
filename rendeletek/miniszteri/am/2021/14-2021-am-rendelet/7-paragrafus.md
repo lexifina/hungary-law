@@ -1,3 +1,3 @@
-7. §[^25]
+7. §[^26]
 
-[^25]: A 7. §-t a 2/2023. (I. 12.) AM rendelet 8. § 10. pontja hatályon kívül helyezte.
+[^26]: A 7. §-t a 2/2023. (I. 12.) AM rendelet 8. § 10. pontja hatályon kívül helyezte.

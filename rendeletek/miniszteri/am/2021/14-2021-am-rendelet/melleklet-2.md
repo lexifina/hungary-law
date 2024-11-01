@@ -1,4 +1,4 @@
-## 4X03479M.docx
+## 4X07613M.docx
 
 | XII. Agrárminisztérium 2024. évi költségvetési kiadási elõirányzatainak feladatterve |
 
@@ -36,7 +36,7 @@
 
 | 2. Az osztatlan földtulajdon kimérésének költségei 2.1. A földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minõsülõ ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezésérõl szóló 2020. évi LXXI. törvény, valamint a részarány földkiadás során keletkezett osztatlan közös tulajdon megszüntetésének részletes szabályairól szóló 374/2014. (XII. 31.) Korm. rendelet alapján a részarány földkiadási eljárás során keletkezett, az ingatlan-nyilvántartásba osztatlan közös tulajdonként bejegyzett tulajdoni hányadok önálló ingatlanná alakításával összefüggésben a fõvárosi és megyei kormányhivatalt a megosztási eljárással kapcsolatosan megilletõ költségtérítés finanszírozása. 2.2. A földmérési feladatok és jogi szolgáltatói feladatok ellenértékének finanszírozása. 2.3. A földeken fennálló osztatlan közös tulajdon megszüntetésével kapcsolatos szakmai, illetve kommunikációs feladatok költségének finanszírozása. 2.4. A megosztási eljárás földhivatali és földmérési feladatainak egyszerûsítéséhez szükséges szakmai jellegû kiadások finanszírozása. |
 
-| 3. |
+| 3. Az „E-ingatlan-nyilvántartás” (a továbbiakban: E-ING) rendszer bevezetésével, működtetésével kapcsolatos fejlesztések finanszírozása 3.1. A földügyi nyilvántartások adattartalmának az E-ING rendszerbe történő migrálásával, adattisztításával kapcsolatos feladatok finanszírozása. 3.2. A földügyi szakterülethez tartozó hatósági eljárások elektronikus folyamatai jogszabályi rendelkezéseknek való megfeleltetéséhez kapcsolódó fejlesztési feladatainak finanszírozása. |
 
 | 4/a. | 379795 |  |  | 2_Öntözés-igénybevétel fejlesztése | Forrás biztosítása az öntözési célú intézkedésekhez. | 1. a miniszter vagy a Kormány más tagjának irányítása vagy felügyelete alá tartozó költségvetési szerv 2. egyéni vállalkozó 3. gazdasági társaság 4. helyi önkormányzat 5. nonprofit szervezet 6. természetes személy | 1. egyedi döntés alapján vagy 2. pályázati eljárás keretében | indokolt esetben nyújtható | 1.egy összegben vagy 2. részletekben, időarányosan történő kifizetéssel | – | 1. A kedvezményezett valamennyi – jogszabály alapján beszedési megbízással megterhelhető – fizetési számlájára vonatkozó, a támogató javára szóló beszedési megbízás benyújtására vonatkozó felhatalmazó nyilatkozat, 2. zálogjog, 3. garancia, 4. kezesség vagy 5. óvadék. | – | igénybe vehető | – |
 
@@ -112,8 +112,8 @@
 
 | 14. | 258267 |  | 17_Nemzeti Vidékfejlesztési Terv | Az Európai Mezõgazdasági Orientációs és Garancia Alap Garancia Részlegébõl finanszírozott kísérõ intézkedésekbõl visszakövetelt támogatások nemzeti részének továbbítása a központi költségvetés felé. | – | – | – | egy összegben történõ kifizetéssel | – | – | – | – | igénybe vehetõ |
 
-2. melléklet a 14/2021. (III. 25.) AM rendelethez[^37]
+2. melléklet a 14/2021. (III. 25.) AM rendelethez[^41]
 
 A XII. Agrárminisztérium fejezet központi kezelésű előirányzataira vonatkozó rendelkezések
 
-[^37]: A 2. melléklet a 46/2021. (XII. 8.) AM rendelet 3. § (1) bekezdése, a 7/2022. (II. 17.) AM rendelet 4. § (2) bekezdése, 5. § d) és k)–n) pontja, a 2/2023. (I. 12.) AM rendelet 6. § (2) bekezdése, a 34/2024. (V. 30.) AM rendelet 7. § (2) bekezdése, 8. § c)–g) pontja és 9. § h)–j) pontja, a 35/2024. (VI. 10.) AM rendelet 12. §-a szerint módosított szöveg.
+[^41]: A 2. melléklet a 46/2021. (XII. 8.) AM rendelet 3. § (1) bekezdése, a 7/2022. (II. 17.) AM rendelet 4. § (2) bekezdése, 5. § d) és k)–n) pontja, a 2/2023. (I. 12.) AM rendelet 6. § (2) bekezdése, a 34/2024. (V. 30.) AM rendelet 7. § (2) bekezdése, 8. § c)–g) pontja és 9. § h)–j) pontja, a 35/2024. (VI. 10.) AM rendelet 12. §-a szerint módosított szöveg.
