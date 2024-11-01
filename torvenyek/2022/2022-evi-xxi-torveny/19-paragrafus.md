@@ -1,6 +1,6 @@
 ## 11. Automatikus adatszolgáltatás a hadkötelesek nyilvántartásához
 
-19. § A katonai szolgálat felső korhatárát a tárgyév december 31-ig el nem érő hadkötelesekről a Honvédség katonai igazgatási és központi adatfeldolgozó szerve részére adatot szolgáltat
+19. § A katonai szolgálat felső korhatárát a tárgyév december 31-ig el nem érő hadkötelesekről a Honvédség központi nyilvántartó szerve részére adatot szolgáltat
 
 a) a személyiadat- és lakcímnyilvántartást kezelő szerv a 7. mellékletben meghatározott adatokról a hadköteles nyilvántartásba vételhez és a nyilvántartott adatok pontosításához
 

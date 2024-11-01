@@ -1,6 +1,6 @@
 12. melléklet a 2022. évi XXI. törvényhez
 
-A honvédelem feladatainak végrehajtásához a gazdasági és anyagi szolgáltatások biztosítása érdekében a technikai eszközökről a Honvédség központi katonai igazgatási és adatfeldolgozó szerve és a katonai igazgatás területi szervei által kezelt adatok
+A honvédelem feladatainak végrehajtásához a gazdasági és anyagi szolgáltatások biztosítása érdekében a technikai eszközökről a Honvédség központi nyilvántartó szerve, a katonai igazgatás területi szervei, valamint a védelmi és biztonsági igazgatás területi és helyi szervei által kezelt adatok
 
 1. A tulajdonosra, birtokosra, rendelkezni jogosultra vonatkozóan:
 

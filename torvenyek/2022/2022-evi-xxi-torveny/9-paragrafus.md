@@ -16,4 +16,4 @@ d) a védelmi és biztonsági igazgatás központi szervének vezetője,
 
 e) a Honvéd Vezérkar főnöke (a továbbiakban: HVKF) és
 
-f) a Honvédség katonai igazgatási és központi adatfeldolgozó szerve.
+f) a Honvédség központi nyilvántartó szerve.

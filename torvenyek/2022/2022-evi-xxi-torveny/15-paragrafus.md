@@ -8,4 +8,6 @@
 
 (2) Az (1) bekezdés szerinti nyilvántartás a 6. melléklet 6. pont 6.1., 6.8–6.11. alpontja, 14. és 16. pontja vonatkozásában közhiteles nyilvántartásnak minősül.
 
-(3) Az állományba vétel végrehajtása céljából az (1) bekezdés szerinti nyilvántartás adatait a honvédségi szervezetek megismerik, részükre a Honvédség katonai igazgatási és központi adatfeldolgozó szervezete adatot továbbít.
+(3) Az állományba vétel végrehajtása céljából az (1) bekezdés szerinti nyilvántartás adatait a honvédségi szervezetek megismerik, részükre a Honvédség központi nyilvántartó szerve adatot továbbít.
+
+(4) A központi katonai igazgatási szerv az (1) bekezdés szerinti nyilvántartásban kezelt adatokat a Hvt. 67. § a) pontjában meghatározott feladatainak végrehajtása érdekében megismeri.

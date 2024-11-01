@@ -28,8 +28,8 @@ i) jogszabályban meghatározott vagy jogszabályban meghatározottak alapján m
 
 j) a NAV a 19. § c) pontja szerinti adatszolgáltatás esetében minden év január 31. napjáig, a hadkötelezettség fennállásának időszakában minden hónap 5. napjáig, a 19. § i) pontja szerinti adatszolgáltatás esetében havonta, a bevallásra előírt határidőt követő hónap 15. napjáig
 
-küldi meg a Honvédség katonai igazgatási és központi adatfeldolgozó szerve részére.
+küldi meg a Honvédség központi nyilvántartó szerve részére.
 
-(2) A 19. §-ban meghatározott adatszolgáltatók az adatszolgáltatásokat a hadkötelezettség elrendelését követő 5 napon belül megküldik a Honvédség katonai igazgatási és központi adatfeldolgozó szerve részére.
+(2) A 19. §-ban meghatározott adatszolgáltatók az adatszolgáltatásokat a hadiállapot kihirdetésének Kormány általi kezdeményezését követő 5 napon belül megküldik a Honvédség központi nyilvántartó szerve részére.
 
 (3) Az (1) bekezdés a), b) és d) pontjában meghatározott adatszolgáltatások az adattal rendelkező szerv hozzájárulásával, annak adatbázisában, az e törvényben meghatározott adatkörhöz történő közvetlen hozzáféréssel is biztosíthatóak.

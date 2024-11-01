@@ -30,4 +30,4 @@ c) a miniszter törvényességi felügyeleti jogkörében ellenőrzést végző 
 
 d) a honvédelmi szervezetek jogi képviseletét ellátó honvédelmi szervezet.
 
-(7) A Honvédség katonai igazgatási és központi adatfeldolgozó szerve érdekvédelmi feladatainak ellátása céljából adatot igényel a nyilvántartás adataiból.
+(7) A Honvédség központi nyilvántartó szerve és a katonai igazgatás területi szerve érdekvédelmi feladatainak ellátása céljából adatot igényel a nyilvántartás adataiból.

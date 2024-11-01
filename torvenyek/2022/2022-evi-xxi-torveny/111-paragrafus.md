@@ -10,7 +10,7 @@ a) jelölje ki a Honvédség központi irattározási feladatát ellátó honvé
 
 b) állapítsa meg a katonai szolgálattal összefüggő hatósági bizonyítvány kiadásának szabályait,
 
-c) jelölje ki a Honvédség katonai igazgatási és központi adatfeldolgozó szervét,
+c) jelölje ki a katonai igazgatás központi és területi szervét, valamint a Honvédség központi nyilvántartó szervét,
 
 d) állapítsa meg a 48. § (4) bekezdése szerinti feladatokra és azok ellátására vonatkozó szabályokat.
 

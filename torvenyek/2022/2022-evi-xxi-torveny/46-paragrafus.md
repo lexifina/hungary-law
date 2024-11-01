@@ -8,7 +8,7 @@ c) a nemzetbiztonsági szolgálatok részére, törvényben meghatározott felad
 
 d) a légi-, vasúti és víziközlekedési balesetek és egyéb közlekedési események szakmai vizsgálatát végző közlekedésbiztonsági szerv adatkérésének teljesítése,
 
-e) a Honvédség katonai igazgatási és központi adatfeldolgozó szerve részére, törvényben meghatározott feladata ellátása érdekében történő adatátadás,
+e) a Honvédség központi nyilvántartó szerve részére, törvényben meghatározott feladata ellátása érdekében történő adatátadás,
 
 f) a honvédelmi szervezetek jogi képviseletét ellátó szervezete részére, polgári peres ügyben történő adatátadás, valamint
 

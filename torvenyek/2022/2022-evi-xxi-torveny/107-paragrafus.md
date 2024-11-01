@@ -1,6 +1,6 @@
 ## 56. A Genfi Egyezménynek megfelelő személyazonossági igazolvány kiadásával kapcsolatos adatkezelés
 
-107. § (1) A Honvédség katonai igazgatási és központi adatfeldolgozó szerve a személyi állományba tartozók részére – a veszélyhelyzet kivételével – a különleges jogrend időszakában, valamint a Magyarország területén kívüli szolgálat teljesítése és nemzetközi szerződés alapján teljesített szolgálat teljesítése időszakában a sebesültek és betegek felkutatására, felszedésére és szállítására, vagy a betegség megelőzésére alkalmazott személyzet, az egészségügyi alakulatok által alkalmazott személyzet, továbbá a tábori lelkészek azonosítása és speciális státuszuk igazolása biztosítására szolgáló személyazonossági igazolvány kiadásával összefüggő feladatok ellátása céljából a 27. melléklet 1–8. és 10–14. pontja szerinti adatokat és az adatok hitelességét igazoló iratokat vagy másolataikat kezeli a személyazonossági igazolvány kiadásától a Honvédséggel fennálló jogviszony megszűnését vagy megszüntetését követő 5 évig, vagy a hiánypótlásra nyitva álló idő eredménytelen leteltéig.
+107. § (1) A Honvédség központi nyilvántartó szerve a személyi állományba tartozók részére – a veszélyhelyzet kivételével – a különleges jogrend időszakában, valamint a Magyarország területén kívüli szolgálat teljesítése és nemzetközi szerződés alapján teljesített szolgálat teljesítése időszakában a sebesültek és betegek felkutatására, felszedésére és szállítására, vagy a betegség megelőzésére alkalmazott személyzet, az egészségügyi alakulatok által alkalmazott személyzet, továbbá a tábori lelkészek azonosítása és speciális státuszuk igazolása biztosítására szolgáló személyazonossági igazolvány kiadásával összefüggő feladatok ellátása céljából a 27. melléklet 1–8. és 10–14. pontja szerinti adatokat és az adatok hitelességét igazoló iratokat vagy másolataikat kezeli a személyazonossági igazolvány kiadásától a Honvédséggel fennálló jogviszony megszűnését vagy megszüntetését követő 5 évig, vagy a hiánypótlásra nyitva álló idő eredménytelen leteltéig.
 
 (2) A személyazonossági igazolvány tartalmazza
 
@@ -26,10 +26,10 @@ i) az „egészségügyi személy” vagy „egyházi személy” feliratot.
 
 (4) Az (1) bekezdés szerinti nyilvántartás igazolvánnyal összefüggő, a honvédelmi szervezet által rögzített adatai tekintetében közhiteles nyilvántartásnak minősül.
 
-(5) A honvédelmi szervezet az igazolvány érintett részére történő igénylésekor a személyügyi nyilvántartásból továbbítja az érintett 27. melléklet 1–8. és 10. pontja szerinti adatait a Honvédség katonai igazgatási és központi adatfeldolgozó szerve részére az igazolvány kiadásával összefüggő feladatok ellátása céljából.
+(5) A honvédelmi szervezet az igazolvány érintett részére történő igénylésekor a személyügyi nyilvántartásból továbbítja az érintett 27. melléklet 1–8. és 10. pontja szerinti adatait a Honvédség központi nyilvántartó szerve részére az igazolvány kiadásával összefüggő feladatok ellátása céljából.
 
-(6) A Honvédség katonai igazgatási és központi adatfeldolgozó szerve az elkészült igazolványt megküldi a honvédelmi szervezet számára az érintett részére történő átadás és az ehhez kapcsolódó (7) bekezdés szerinti nyilvántartás vezetése céljából.
+(6) A Honvédség központi nyilvántartó szerve az elkészült igazolványt megküldi a honvédelmi szervezet számára az érintett részére történő átadás és az ehhez kapcsolódó (7) bekezdés szerinti nyilvántartás vezetése céljából.
 
 (7) A honvédelmi szervezet az (1) bekezdésben meghatározott időtartam alatt a részére megküldött személyazonossági igazolványról nyilvántartást vezet, amely az (1) bekezdés szerinti adatokat tartalmazza.
 
-(8) A honvédelmi szervezet az érvényességüket vesztett, bevont igazolványokat és a bevonás okára vonatkozó adatot továbbítja a Honvédség katonai igazgatási és központi adatfeldolgozó szerve részére az igazolvány megsemmisítése céljából.
+(8) A honvédelmi szervezet az érvényességüket vesztett, bevont igazolványokat és a bevonás okára vonatkozó adatot továbbítja a Honvédség központi nyilvántartó szerve részére az igazolvány megsemmisítése céljából.

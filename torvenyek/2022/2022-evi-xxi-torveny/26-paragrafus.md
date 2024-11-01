@@ -1,12 +1,12 @@
 ## 14. A meghagyással kapcsolatos nyilvántartások
 
-26. § (1) A behívás, illetve a meghagyásba helyezés tervezése és végrehajtása céljából a meghagyásba jogszabályban meghatározott és jogszabály alapján kijelölt szervekről és személyekről, jogszabály alapján meghagyásba vont szervekről és meghagyásra jogszabály alapján kijelölt munkakört betöltő hadköteles személyekről a Honvédség katonai igazgatási és központi adatfeldolgozó szerve a 9. melléklet szerinti adattartalommal nyilvántartást vezet.
+26. § (1) A behívás, illetve a meghagyásba helyezés tervezése és végrehajtása céljából a meghagyásba jogszabályban meghatározott és jogszabály alapján kijelölt szervekről és személyekről, jogszabály alapján meghagyásba vont szervekről és meghagyásra jogszabály alapján a katonai szolgálat felső korhatárát adott évben még el nem érő kijelölt munkakört betöltő hadköteles személyekről a Honvédség központi nyilvántartó szerve a 9. melléklet szerinti adattartalommal nyilvántartást vezet.
 
 (2) Az (1) bekezdés szerinti nyilvántartás adatait az adatkezelő a meghagyásba tartozás időtartama alatt kezeli.
 
 (3) Az (1) bekezdés szerinti nyilvántartás adatait, a behívás tervezésével és végrehajtásával kapcsolatos feladataik végrehajtása céljából, a feladatban érintett honvédségi szervezetek ismerik meg.
 
-(4) A jogszabályban és jogszabály alapján meghagyásba bevont szervezet a Honvédség katonai igazgatási és központi adatfeldolgozó szerve részére szolgáltatja a 9. mellékletben meghatározott adatokat
+(4) A jogszabályban és jogszabály alapján meghagyásba bevont személy, szervezet a Honvédség központi nyilvántartó szerve részére szolgáltatja a 9. mellékletben meghatározott adatokat
 
 a) békeidőszakban évente január 31-ig,
 

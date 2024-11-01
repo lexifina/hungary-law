@@ -2,7 +2,7 @@
 
 28. § (1) A veszteség-nyilvántartásban a (3) bekezdés szerinti személyeknek a 10. melléklet szerinti adatait kell kezelni.
 
-(2) A veszteség-nyilvántartás adatait a katonai szolgálat felső korhatáráig a Honvédség katonai igazgatási és központi adatfeldolgozó szerve, azt követően a hadtörténelmi levéltári feladatokat ellátó honvédelmi szervezet a rá vonatkozó törvényi rendelkezések szerint kezeli.
+(2) A veszteség-nyilvántartás adatait a katonai szolgálat felső korhatáráig a Honvédség központi nyilvántartó szerve, azt követően a hadtörténelmi levéltári feladatokat ellátó honvédelmi szervezet a rá vonatkozó törvényi rendelkezések szerint kezeli.
 
 (3) A veszteség-nyilvántartásban történő adatkezelés célja a Honvédség fegyveres konfliktusok következtében, illetve szolgálatteljesítéssel összefüggően
 
@@ -36,7 +36,7 @@ f) a nemzetközi segélyszervezetek háborús események, fegyveres konfliktusok
 
 részére.
 
-(6) A Honvédség katonai igazgatási és központi adatfeldolgozó szerve a (3) bekezdés szerinti személyek azonosítása céljából adatokat kérhet
+(6) A Honvédség központi nyilvántartó szerve a (3) bekezdés szerinti személyek azonosítása céljából adatokat kérhet
 
 a) a Magyar Vöröskereszttől,
 
@@ -52,4 +52,4 @@ f) külföldi államok által felállított nemzeti tájékoztató irodáktól, 
 
 g) nemzetközi szervezetektől.
 
-(7) A Honvédség központi személyügyi szerve a (3) bekezdésben szereplő személyekről, illetve ezen személyek adataiban bekövetkezett változásról haladéktalanul adatot szolgáltat a Honvédség katonai igazgatási és központi adatfeldolgozó szerve részére.
+(7) A Honvédség központi személyügyi szerve a (3) bekezdésben szereplő személyekről, illetve ezen személyek adataiban bekövetkezett változásról haladéktalanul adatot szolgáltat a Honvédség központi nyilvántartó szerve részére.

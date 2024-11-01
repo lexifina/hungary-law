@@ -1,6 +1,6 @@
 ## 51. A honvédségi szolgálati, kormánytisztviselői, közalkalmazotti és honvédelmi alkalmazotti igazolvány kiadásával kapcsolatos adatkezelés
 
-102. § (1) A Honvédség katonai igazgatási és központi adatfeldolgozó szerve
+102. § (1) A Honvédség központi nyilvántartó szerve
 
 a) a hivatásos, szerződéses, önkéntes tartalékos, honvéd tisztjelölti, honvéd altiszt-jelölti szolgálati viszony fennállásának igazolására szolgáló szolgálati igazolvány, valamint
 
@@ -28,12 +28,12 @@ h) a „Genfi egyezmények szerinti igazolvány” feliratot.
 
 (3) A (2) bekezdés a) és b) pontja szerinti adatokat, a (2) bekezdés c) pontja szerinti érvényességi időt, valamint a (2) bekezdés d), e) és h) pontja szerinti adatokat az igazolvány angol és magyar nyelven is tartalmazza.
 
-(4) A honvédelmi szervezet az igazolvány érintett részére történő igénylésekor a személyügyi nyilvántartásból továbbítja az érintett 27. melléklet 1–8. és 10. pontja szerinti adatait a Honvédség katonai igazgatási és központi adatfeldolgozó szerve részére az igazolvány kiadásával összefüggő feladatok ellátása céljából.
+(4) A honvédelmi szervezet az igazolvány érintett részére történő igénylésekor a személyügyi nyilvántartásból továbbítja az érintett 27. melléklet 1–8. és 10. pontja szerinti adatait a Honvédség központi nyilvántartó szerve részére az igazolvány kiadásával összefüggő feladatok ellátása céljából.
 
-(5) A Honvédség katonai igazgatási és központi adatfeldolgozó szerve az elkészült igazolványt megküldi a honvédelmi szervezet számára az érintett részére történő átadás és az ehhez kapcsolódó (6) bekezdés szerinti nyilvántartás vezetése céljából.
+(5) A Honvédség központi nyilvántartó szerve az elkészült igazolványt megküldi a honvédelmi szervezet számára az érintett részére történő átadás és az ehhez kapcsolódó (6) bekezdés szerinti nyilvántartás vezetése céljából.
 
 (6) A honvédelmi szervezet a saját állományába tartozók tekintetében a részére megküldött igazolványokról a jogviszony fennállása alatt nyilvántartást vezet, amely az (1) bekezdés szerinti adatokat tartalmazza.
 
-(7) A honvédelmi szervezet az érvényességüket vesztett, bevont igazolványokat és a bevonás okára vonatkozó adatot továbbítja a Honvédség katonai igazgatási és központi adatfeldolgozó szerve részére az igazolvány megsemmisítése céljából.
+(7) A honvédelmi szervezet az érvényességüket vesztett, bevont igazolványokat és a bevonás okára vonatkozó adatot továbbítja a Honvédség központi nyilvántartó szerve részére az igazolvány megsemmisítése céljából.
 
 (8) Az (1) bekezdés szerinti nyilvántartás igazolvánnyal összefüggő, a honvédelmi szervezet által rögzített adatai tekintetében közhiteles nyilvántartásnak minősül.

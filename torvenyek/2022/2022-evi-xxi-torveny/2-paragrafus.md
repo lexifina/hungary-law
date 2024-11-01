@@ -8,12 +8,14 @@
 
 a) a honvédelemben közreműködő szerv,
 
-b) a honvédelemi igazgatás területi és helyi szervei,
+b) a védelmi és biztonsági igazgatás területi és helyi szerve,
 
 c) a polgármester,
 
 d) a befogadó nemzeti támogatás központi koordináló szerve,
 
-e) a védelemgazdaság központi tervező szerve, valamint
+e) a védelemgazdaság központi tervező szerve,
 
-f) a Honvédség katonai igazgatási és központi adatfeldolgozó szerve.
+f) a Honvédség központi nyilvántartó szerve, valamint
+
+g) a katonai igazgatás területi szerve.

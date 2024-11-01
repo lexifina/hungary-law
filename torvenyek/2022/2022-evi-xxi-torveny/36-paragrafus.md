@@ -2,7 +2,7 @@
 
 36. § (1) A toborzó szakterület kezeli a hivatásos állományú katonának, a szerződéses állományú katonának, a honvéd tisztjelöltnek, a honvéd altiszt-jelöltnek, az önkéntes tartalékos katonának és a honvédelmi alkalmazottnak jelentkezők (a továbbiakban együtt: jelentkező) 13. melléklet szerinti adatait.
 
-(2) A toborzó szakterület által végzett adatkezelést a Honvédség katonai igazgatási és központi adatfeldolgozó szerve végzi.
+(2) A toborzó szakterület által végzett adatkezelést a Honvédség központi nyilvántartó szerve és a hadkiegészítő és toborzó központ végzi.
 
 (3) A toborzó szakterületen történő adatkezelés célja
 
@@ -29,6 +29,8 @@ b) a Honvédség központi személyügyi szerve,
 c) annak a honvédelmi szervezetnek a személyügyi szerve, amelynek állományába a jelentkező bekerülhet,
 
 d) az egészségi, pszichikai, fizikai alkalmasságot megállapító honvédelmi szervezet.
+
+(5a) A központi katonai igazgatási szerv a toborzó nyilvántartásban kezelt adatokat a Hvt. 67. § d) pontjában meghatározott feladatainak végrehajtása érdekében megismeri.
 
 (6) A toborzó szakterület által kezelt adatokat a (3) bekezdés szerinti adatkezelő a kiválasztás és a szolgálati, foglalkoztatási jogviszony létrehozása érdekében továbbítja a szolgálati viszony létrehozásáért felelős honvédelmi szervezet részére. A toborzó szakterület által kezelt adatokat, amennyiben az érintettel szolgálati, foglalkoztatási jogviszony jön létre, úgy a személyügyi nyilvántartás vezetésére jogosult honvédelmi szervezet kezeli tovább. Szolgálati, foglalkoztatási jogiszony létrejötte hiányában az adatokat haladéktalanul törölni kell, kivéve, ha a jelentkező kéri az adatainak további kezelését, annak érdekében, hogy a későbbi jogviszony létesítés lehetőségéről tájékoztatást kapjon.
 

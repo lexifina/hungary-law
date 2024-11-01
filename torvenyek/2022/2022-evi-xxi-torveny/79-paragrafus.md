@@ -1,6 +1,6 @@
 ## 37. Az érdekvédelmi nyilvántartás
 
-79. § (1) Az érdekvédelmi nyilvántartásban a Honvédség katonai igazgatási és központi adatfeldolgozó szerve kezeli a (3) bekezdés szerinti személyek 21. melléklet szerinti adatait.
+79. § (1) Az érdekvédelmi nyilvántartásban a Honvédség központi nyilvántartó szerve és a katonai igazgatás területi szerve kezeli a (3) bekezdés szerinti személyek 21. melléklet szerinti adatait.
 
 (2) Az érdekvédelmi nyilvántartásban kezelt adatokat az adatkezelő a társadalombiztosítási, a szociális és a kegyeleti ellátásra való jogosultság megszűnéséig kezeli.
 
@@ -29,6 +29,8 @@ c) az állomány érintett tagjait illetően a fegyelmi, rehabilitációs, valam
 d) a miniszter törvényességi felügyeleti jogkörében ellenőrzést végző honvédelmi szervezet,
 
 e) a központi pénzügyi szervezet.
+
+(5a) A központi katonai igazgatási szerv az érdekvédelmi nyilvántartásban kezelt adatokat a Hvt. 67. § d) pontjában meghatározott feladatainak végrehajtása érdekében megismeri.
 
 (6) A honvédelmi szervezetek jogi képviseletét ellátó szervezet részére, peres ügy esetén, az érdekvédelmi nyilvántartás adataiból az adatkezelő adatot továbbít.
 

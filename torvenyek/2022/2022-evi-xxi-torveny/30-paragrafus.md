@@ -1,6 +1,6 @@
 ## 18. Adatszolgáltatás a gazdasági és anyagi szolgáltatások nyilvántartásához
 
-30. § (1) A honvédelem feladatainak végrehajtása érdekében az igénybevétel tervezéséhez a Honvédség katonai igazgatási és központi adatfeldolgozó szervének megkeresése alapján a törvényben meghatározott adatkörben adatszolgáltatást teljesít a közúti közlekedési nyilvántartást kezelő szerv és a hajózási hatóság.
+30. § (1) A honvédelem feladatainak végrehajtása érdekében az igénybevétel tervezéséhez, valamint a nyilvántartott adatok pontosítása céljából a Honvédség központi nyilvántartó szervének megkeresése alapján a törvényben meghatározott adatkörben adatszolgáltatást teljesít a közúti közlekedési nyilvántartást kezelő szerv és a hajózási hatóság.
 
 (2) A hadkiegészítő és toborzó központ megkeresése alapján adatszolgáltatást teljesít a 11. és a 12. mellékletben meghatározott adatokról
 
