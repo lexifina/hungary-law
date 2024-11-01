@@ -1,0 +1,3 @@
+1. § A fejezeti kezelésű előirányzatok és központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 15/2023. (VII. 25.) EM rendelet (a továbbiakban: Rendelet) 5. §-a a következő (4) bekezdéssel egészül ki:
+
+„(4) Ha a kedvezményezett a (3) bekezdés c)–f) pontjában kizárt ágazatok bármelyikében és ezektől eltérő egy vagy több ágazatban egyaránt végez tevékenységet, a 19. alcím szerinti támogatás akkor nyújtható a kedvezményezett részére ez utóbbi egyéb tevékenységhez, ha a kedvezményezett megfelelő eszközökkel – a tevékenységek szétválasztásával vagy számviteli elkülönítéssel – biztosítja, hogy a (3) bekezdés c)–f) pontjában említett kizárt ágazatokban végzett tevékenységek ne részesüljenek a 19. alcím szerinti támogatásban.”
