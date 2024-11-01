@@ -1,7 +1,7 @@
-32/B. §[^386] (1) Azok a CT/MRI szolgáltatást nyújtó egészségügyi szolgáltatók, akik Budapest Főváros Önkormányzatával a budapesti lakosok CT/MRI diagnosztikai ellátására megállapodást kötöttek, a CT/MRI ellátásokat a 15. számú melléklet szerinti adatlapon „BP” térítési kategóriában jelentik a finanszírozó számára.
+32/B. §[^385] (1) Azok a CT/MRI szolgáltatást nyújtó egészségügyi szolgáltatók, akik Budapest Főváros Önkormányzatával a budapesti lakosok CT/MRI diagnosztikai ellátására megállapodást kötöttek, a CT/MRI ellátásokat a 15. számú melléklet szerinti adatlapon „BP” térítési kategóriában jelentik a finanszírozó számára.
 
 (2) Az (1) bekezdés szerinti és „BP” térítési kategóriában jelentett ellátások az E. Alap terhére nem finanszírozhatóak, a CT/MRI diagnosztikai ellátásokat a NEAK adatszolgáltatása alapján Budapest Főváros Önkormányzata finanszírozza.
 
 (3) A nem az (1) bekezdés szerinti megállapodás alapján végzett CT/MRI diagnosztikai ellátások jelentésére és finanszírozására az e rendeletben foglalt általános szabályokat kell alkalmazni.
 
-[^386]: A 32/B. §-t az 557/2020. (XII. 4.) Korm. rendelet 3. §-a iktatta be.
+[^385]: A 32/B. §-t az 557/2020. (XII. 4.) Korm. rendelet 3. §-a iktatta be.

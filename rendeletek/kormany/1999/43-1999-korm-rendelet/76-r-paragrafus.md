@@ -1,3 +1,3 @@
-## 76/Q. §[^601] A 2017. november 1-jén hatályos finanszírozási szerződéssel rendelkező betegszállító egészségügyi szolgáltatókat 2017 decemberében egyszeri kiegészítő díjazás illeti meg. A betegszállító egészségügyi szolgáltatók kiegészítő díjának megállapítására a 2016. december 1. és 2017. november 30. között részükre kifizetett finanszírozási összegek arányában kerül sor az érintett előirányzat tárgyhavi növekményének összegéből.
+## 76/Q. §[^600] A 2017. november 1-jén hatályos finanszírozási szerződéssel rendelkező betegszállító egészségügyi szolgáltatókat 2017 decemberében egyszeri kiegészítő díjazás illeti meg. A betegszállító egészségügyi szolgáltatók kiegészítő díjának megállapítására a 2016. december 1. és 2017. november 30. között részükre kifizetett finanszírozási összegek arányában kerül sor az érintett előirányzat tárgyhavi növekményének összegéből.
 
-[^601]: A 76/Q. §-t a 430/2017. (XII. 20.) Korm. rendelet 1. §-a iktatta be.
+[^600]: A 76/Q. §-t a 430/2017. (XII. 20.) Korm. rendelet 1. §-a iktatta be.
