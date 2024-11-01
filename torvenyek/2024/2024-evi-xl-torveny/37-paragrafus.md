@@ -11,15 +11,3 @@ d) 15. §-a és 17. § l) pontja az Alaptörvény T) cikk (1) bekezdése, XXXI. 
 e) 17. § a)–f) pontja az Alaptörvény XXXI. cikk (1)–(3) bekezdése alapján
 
 sarkalatosnak minősül.
-
-|
-
-Dr. Sulyok Tamás s. k.,
-
-köztársasági elnök
-
-|
-
-Dr. Latorcai János s. k.,
-
-az Országgyűlés alelnöke
