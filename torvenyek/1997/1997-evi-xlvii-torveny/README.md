@@ -54,3 +54,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-47-00-00
 | 2024-05-11 | 2024. évi XXV. törvény | 1997-47-00-00.71 |
 | 2024-05-17 | 2024. évi XIII. törvény | 1997-47-00-00.70 |
 | 2024-09-01 | 2024. évi XII. törvény | 1997-47-00-00.69 |
+| 2024-11-01 | 2024. évi XLI. törvény | 1997-47-00-00.73 |

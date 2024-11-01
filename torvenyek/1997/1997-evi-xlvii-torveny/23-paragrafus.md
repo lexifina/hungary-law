@@ -6,11 +6,11 @@ a) büntetőügyben a bíróság, az ügyészség, a nyomozó hatóság, az elő
 
 b) szabálysértési eljárás során az eljárást lefolytató szervek,
 
-c) potenciális hadköteles és hadköteles személy esetén a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala, a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve, valamint a katonai egészségügyi alkalmasságot megállapító bizottság,
+c) hadköteles személy esetén a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala, a Magyar Honvédség központi nyilvántartó szerve és a területi katonai igazgatási szervek, valamint a katonai egészségügyi alkalmasságot megállapító bizottság,
 
 d) a nemzetbiztonsági szolgálatok, a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvényben meghatározott feladatok ellátása érdekében, az abban kapott felhatalmazás körében,
 
-e) a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve, a kiképzett hadkötelesek békeidőszakban történő hadi beosztásra történő kiírása és a kiképzett hadkötelesek gyors és differenciált behívása érdekében, a honvédelemről szóló törvényben meghatározott körben,
+e) a Magyar Honvédség központi nyilvántartó szerve és a területi katonai igazgatási szervek, a kiképzett hadkötelesek békeidőszakban történő hadi beosztásra történő kiírása és a kiképzett hadkötelesek gyors és differenciált behívása érdekében, a honvédelemről szóló törvényben meghatározott körben,
 
 f) az egészségügyi dolgozóval szemben folyamatban lévő etikai eljárás során az eljárás lefolytatása hatáskörrel és illetékességgel rendelkező kamarai szerv,
 
