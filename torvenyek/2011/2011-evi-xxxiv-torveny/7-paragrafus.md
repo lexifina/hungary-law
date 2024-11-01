@@ -10,7 +10,7 @@ c) a Magyarország területén felállított, és Magyarország által nemzetkö
 
 d) a Magyarország területén felállított, és Magyarország által nemzetközi szervezetként el nem ismert egyes nemzetközi katonai parancsnokságok Magyarország területén lévő szervezetének teljes létszáma.
 
-(3) A Magyar Honvédség központi adatfeldolgozó szerve – erre vonatkozó írásbeli kérelmére – adatot szolgáltat
+(3) A Magyar Honvédség központi nyilvántartó szerve – erre vonatkozó írásbeli kérelmére – adatot szolgáltat
 
 a) a 4. § (3) bekezdés a), c), d), e) és f) pontjában és a 4. § (4) bekezdés a), c) és d) pontjában foglalt adatokról Magyarország honvédelmi és nemzetbiztonsági politikájára vonatkozó, az Országgyűlés hatáskörébe tartozó döntések előkészítése érdekében az Országgyűlés nemzetbiztonsági és honvédelmi ügyekkel foglalkozó bizottsága,
 
@@ -52,7 +52,7 @@ részére.
 
 (4) A (3) bekezdésben foglalt adatszolgáltatás további feltétele, hogy az adatszolgáltatást kérő szerv igazolja az általa kért adatok tekintetében az adatkezelés célját és adatkezelési jogosultságát.
 
-(5) A (3) bekezdés szerinti valamennyi adatszolgáltatásról – az e törvény hatálya alá tartozó nyilvántartásokból teljesített adattovábbítások jogszerűségének ellenőrzése, valamint az érintett tájékoztatása céljából – a Honvédség központi adatfeldolgozó szerve nyilvántartást vezet:
+(5) A (3) bekezdés szerinti valamennyi adatszolgáltatásról – az e törvény hatálya alá tartozó nyilvántartásokból teljesített adattovábbítások jogszerűségének ellenőrzése, valamint az érintett tájékoztatása céljából – a Honvédség központi nyilvántartó szerve nyilvántartást vezet:
 
 a) a szolgáltatott adatok körének,
 
@@ -64,7 +64,7 @@ d) az adatszolgáltatást végző azonosító adatainak feltüntetésével.
 
 (6) Az (5) bekezdésben foglalt adattovábbítási nyilvántartásból adatokat igényelhet:
 
-a) az adatkezelés jogszerűségének ellenőrzése céljából a Magyar Honvédség központi adatfeldolgozó szerve irányításáért felelős szerv,
+a) az adatkezelés jogszerűségének ellenőrzése céljából a Magyar Honvédség központi nyilvántartó szerve irányításáért felelős szerv,
 
 b) a törvényességi felügyelet gyakorlása során az adatkezelés jogszerűségének ellenőrzése céljából a legfőbb ügyész,
 

@@ -1,6 +1,6 @@
 ## 3. A külföldi fegyveres erő, a nemzetközi katonai parancsnokság és állományának nyilvántartása
 
-4. § (1) A Magyar Honvédség központi adatfeldolgozó szerve nyilvántartást vezet
+4. § (1) A Magyar Honvédség központi nyilvántartó szerve nyilvántartást vezet
 
 a) az Észak-atlanti Szerződés tagállamainak és a Békepartnerségben résztvevő államok fegyveres erői Magyarország területén tervezetten legalább három hónapig szolgálati céllal tartózkodó állományának tagjairól (a továbbiakban: NATO- és PfP-állomány),
 
@@ -104,7 +104,7 @@ ge) személyazonosító okmányának vagy útlevelének számát,
 
 gf) magyarországi lakóhellyel vagy tartózkodási hellyel nem rendelkező hozzátartozó esetén a hozzátartozó magyarországi tartózkodása kezdetének és tervezett befejezésének időpontját.
 
-(6) Ha a külföldi fegyveres erő Magyarország területén szolgálati céllal tervezetten három hónapnál rövidebb ideig tartózkodik, a Magyar Honvédség központi adatfeldolgozó szerve a külföldi fegyveres erő kérelmére nyilvántartást vezethet a külföldi fegyveres erő (3) bekezdésben foglalt adatairól, és azokról igazolást állíthat ki. Az igazolás kiállítására az 5. § (3) bekezdését megfelelően alkalmazni kell.
+(6) Ha a külföldi fegyveres erő Magyarország területén szolgálati céllal tervezetten három hónapnál rövidebb ideig tartózkodik, a Magyar Honvédség központi nyilvántartó szerve a külföldi fegyveres erő kérelmére nyilvántartást vezethet a külföldi fegyveres erő (3) bekezdésben foglalt adatairól, és azokról igazolást állíthat ki. Az igazolás kiállítására az 5. § (3) bekezdését megfelelően alkalmazni kell.
 
 (7) Az (1) bekezdésben meghatározott nyilvántartás vezetésének célja:
 
