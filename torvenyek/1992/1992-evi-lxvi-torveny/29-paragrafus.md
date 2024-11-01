@@ -98,7 +98,7 @@ e) a kiadásának okát.
 
 (12) A polgár a személyazonosságát a személyazonosító igazolványon túl az érvényes útlevéllel vagy kártyaformátumú vezetői engedéllyel igazolhatja. Személyazonosítás céljából – jogszabályban meghatározott kivételekkel – a polgár nem kötelezhető más okmány bemutatására.
 
-(12a) A hadköteles katona a személyazonosságát a katonai szolgálatteljesítési ideje alatt a Honvédség katonai igazgatási és központi adatfeldolgozó szerve által a hadköteles katonák részére kibocsátott katonai igazolvánnyal igazolja. Személyazonosítás céljából a hadköteles katona nem kötelezhető más okmány bemutatására.
+(12a) A hadköteles katona a személyazonosságát a katonai szolgálatteljesítési ideje alatt a Magyar Honvédség központi nyilvántartó szerve által a hadköteles katonák részére kibocsátott katonai igazolvánnyal igazolja. Személyazonosítás céljából a hadköteles katona nem kötelezhető más okmány bemutatására.
 
 (13) A cselekvőképtelen kiskorú polgár részére a személyazonosító igazolványt – a (13a) bekezdésben meghatározott kivétellel – a törvényes képviselő kérelmére kell kiadni. A korlátozottan cselekvőképes kiskorú és a cselekvőképességében részlegesen korlátozott nagykorú jogosultat a személyazonosító igazolvány kiadása ügyében megilleti az eljárási képesség.
 

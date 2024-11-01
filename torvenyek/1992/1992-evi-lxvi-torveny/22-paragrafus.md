@@ -2,7 +2,7 @@
 
 a) az ingatlan-nyilvántartás, a földhasználati nyilvántartás és a földvédelmi nyilvántartás szervei az ingatlan-nyilvántartás, a földhasználati nyilvántartás és a földvédelmi nyilvántartás vezetésével összefüggésben;
 
-b) a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve, a katonai igazgatás illetékes területi szervei és a Magyar Honvédség központi irattározásra kijelölt szerve a hadkötelesek nyilvántartásának vezetéséhez és a háborús veszteség nyilvántartással kapcsolatos kötelezettségek teljesítéséhez;
+b) a Magyar Honvédség központi nyilvántartó szerve, a területi katonai igazgatási szervek és a Magyar Honvédség központi irattározásra kijelölt szerve a hadkötelesek nyilvántartásának vezetéséhez és a háborús veszteség nyilvántartással kapcsolatos kötelezettségek teljesítéséhez;
 
 c) a rendészeti feladatokat ellátó igazgatási szervek a polgári kézi lőfegyverekkel, lőszerekkel, gáz- és riasztófegyverekkel, ipari célokat szolgáló robbantóanyagokkal, pirotechnikai tevékenységekkel, a kábítószerekkel és pszichotrop anyagokkal, személy- és vagyonvédelmi, valamint magánnyomozói tevékenységgel, továbbá a rendészeti feladatokat ellátó személyekkel kapcsolatos engedélyezési és nyilvántartási eljárásokhoz;
 
