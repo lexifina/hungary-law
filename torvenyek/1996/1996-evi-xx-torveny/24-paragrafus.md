@@ -22,7 +22,7 @@ j) a fogva tartó szervek egymás között, továbbá az egészségügyi ellát�
 
 k) a kincstár a 20. § (2) bekezdés g) pontjában, valamint a 21. § (7a) bekezdésben meghatározott feladatai teljesítéséhez;
 
-l) a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve, valamint a katonai igazgatás területi szervei a törvényben meghatározott hadkiegészítési és érdekvédelmi feladataik ellátásához;
+l) a Magyar Honvédség központi nyilvántartó szerve, valamint a területi katonai igazgatási szervek a törvényben meghatározott hadkiegészítési és érdekvédelmi feladataik ellátásához;
 
 m) a családtámogatások, a fogyatékossági támogatás és a bányászati keresetkiegészítés ügyében eljáró szerv, valamint a családtámogatási kifizetőhely a 23. § i) és n) pontjában meghatározott feladatainak teljesítéséhez;
 

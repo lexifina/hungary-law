@@ -76,7 +76,7 @@ p) a digitális állampolgárság nyilvántartást vezető szervnek a kezelt ada
 
 (2) A személyiadat- és lakcímnyilvántartás szerve – személyi azonosító alkalmazásával – rendszeres adatszolgáltatást teljesít:
 
-a) a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szervének a hadköteles korba lépő polgárok, a magyar állampolgárságot megszerző, magyarországi lakóhellyel rendelkező polgárok, valamint a külföldről hazatérő magyar állampolgárok első alkalommal történő nyilvántartásba vételéhez a polgár természetes személyazonosító adatairól, lakóhelyéről, tartózkodási helyéről, családi állapotáról, személyi azonosítójáról, valamint a hadköteles nyilvántartásban lévő polgár családi és utónevének, anyja nevének, születési helyének és időpontjának, személyi azonosítójának, családi állapotának, lakóhelyének, tartózkodási helyének változásáról, az érintett elhalálozásáról vagy külföldön történő letelepedésről;
+a) a Magyar Honvédség központi nyilvántartó szervének és a területi katonai igazgatási szerveknek a hadköteles korba lépő polgárok, a magyar állampolgárságot megszerző, magyarországi lakóhellyel rendelkező polgárok, valamint a külföldről hazatérő magyar állampolgárok első alkalommal történő nyilvántartásba vételéhez a polgár természetes személyazonosító adatairól, lakóhelyéről, tartózkodási helyéről, családi állapotáról, személyi azonosítójáról, valamint a hadköteles nyilvántartásban lévő polgár családi és utónevének, anyja nevének, születési helyének és időpontjának, személyi azonosítójának, családi állapotának, lakóhelyének, tartózkodási helyének változásáról, az érintett elhalálozásáról vagy külföldön történő letelepedésről;
 
 b) az idegenrendészeti hatóságnak a huzamos tartózkodási jogosultsággal rendelkező polgár, valamint a szabad mozgás és tartózkodás jogával rendelkező személy családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, lakóhelyének, tartózkodási helyének változásáról, az érintett elhalálozásáról, külföldön történő letelepedéséről, továbbá a huzamos tartózkodási jogosultsággal rendelkező polgár családi állapotának változásáról;
 
@@ -108,7 +108,7 @@ e) az (1) bekezdés j) pontja szerinti, az oktatási nyilvántartás működés�
 
 f) az (1) bekezdés l) pontja szerinti Központi Statisztikai Hivatal,
 
-g) a (2) bekezdés a) pontja szerinti Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve,
+g) a (2) bekezdés a) pontja szerinti Magyar Honvédség központi nyilvántartó szerve és a területi katonai igazgatási szervek,
 
 h) a (2) bekezdés d) pontja szerinti közúti közlekedési nyilvántartás járműnyilvántartását vezető szerv, valamint kizárólag az érintett elhalálozása, vagy a nyilvántartásból történő kikerülésének egyéb oka, és időpontja adatok vonatkozásában a közúti közlekedési nyilvántartásról szóló törvény szerinti engedély-nyilvántartást vezető szerv,
 
