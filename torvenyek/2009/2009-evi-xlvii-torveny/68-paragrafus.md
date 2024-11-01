@@ -116,15 +116,15 @@ a) a legfőbb ügyész, illetve az igazságügyért felelős miniszter a kegyelm
 
 b) az állampolgársági ügyekért felelős miniszter és az állampolgársági ügyekben eljáró szerv az állampolgársági eljárásban a honosítás és visszahonosítás törvényi feltételeinek vizsgálata során a bűntettesek nyilvántartásában és a büntetőeljárás hatálya alatt állók nyilvántartásában kezelt adatok.
 
-(5) A Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve a hadkötelezettség feltételei fennállásának megállapítása céljából a bűnügyi nyilvántartási rendszerből a következő adatokat jogosult átvenni:
+(5) A Magyar Honvédség központi nyilvántartó szerve és a területi katonai igazgatási szervek a hadkötelezettség feltételei fennállásának megállapítása céljából a bűnügyi nyilvántartási rendszerből a következő adatokat jogosultak átvenni:
 
-a) a 11. § (1) bekezdés c) pont ca) és cb) alpontjában e), f), h), i), j pontjában, a 11. § (2) bekezdés a) és e) pontjában meghatározott adatok,
+a) a 11. § (1) bekezdés c) pont ca) és cb) alpontjában e), f), h), i), j) pontjában, a 11. § (2) bekezdés a) és e) pontjában meghatározott adatok,
 
 b) a 16. § (2) bekezdés a) pontjában meghatározott adatok,
 
 c) a 23. § c), f), g) és h) pontjában meghatározott adatok.
 
-(5a) A Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve az (5) bekezdés alapján történő adatátvétel során megkapott adatokat a behívhatóságot befolyásoló katonai igazgatási döntés meghozataláig kezeli, ezt követően az adatok törlésre kerülnek.
+(5a) A Magyar Honvédség központi nyilvántartó szerve és a területi katonai igazgatási szervek az (5) bekezdés alapján történő adatátvétel során megkapott adatokat a behívhatóságot befolyásoló katonai igazgatási döntés meghozataláig kezelik, ezt követően az adatok törlésre kerülnek.
 
 (6) A menekültügyi hatóság a menekültkénti, menedékeskénti vagy befogadottkénti elismerés vagy az elismerés visszavonása feltételei fennállásának megállapítása, továbbá az ellátási és integrációs feladatai ellátása céljából közvetlen hozzáféréssel jogosult átvenni a következő adatokat:
 
