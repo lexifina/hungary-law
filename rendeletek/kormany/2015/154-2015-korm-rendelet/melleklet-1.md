@@ -58,25 +58,25 @@ IV. Hivatásos katasztrófavédelmi szerv
 
 | 2. | Büntetés-végrehajtás Országos Parancsnoksága | Budapesti Fegyház és Börtön | Állampusztai Országos Büntetés-végrehajtási Intézet | Büntetés-végrehajtás Gazdasági Ellátó Intézete | Bács-Kiskun Vármegyei Büntetés-végrehajtási Intézet |
 
-| 3. |  | Fővárosi Büntetés-végrehajtási Intézet | Balassagyarmati Fegyház és Börtön | Büntetés-végrehajtási Szervezet Oktatási, Továbbképzési és Rehabilitációs Központja | Baranya Vármegyei Büntetés-végrehajtási Intézet |
+| 3. |  | Csengeri Országos Büntetés-végrehajtási Intézet | Balassagyarmati Fegyház és Börtön | Büntetés-végrehajtási Szervezet Oktatási, Továbbképzési és Rehabilitációs Központja | Baranya Vármegyei Büntetés-végrehajtási Intézet |
 
-| 4. |  | Szegedi Fegyház és Börtön | Borsod-Abaúj-Zemplén Vármegyei Büntetés-végrehajtási Intézet | Központi Kivizsgáló és Módszertani Intézet | Békés Vármegyei Büntetés-végrehajtási Intézet |
+| 4. |  | Fővárosi Büntetés-végrehajtási Intézet | Borsod-Abaúj-Zemplén Vármegyei Büntetés-végrehajtási Intézet | Központi Kivizsgáló és Módszertani Intézet | Békés Vármegyei Büntetés-végrehajtási Intézet |
 
-| 5. |  | Szombathelyi Országos Büntetés-végrehajtási Intézet | Büntetés-végrehajtás Egészségügyi Központ |  | Győr-Moson-Sopron Vármegyei Büntetés-végrehajtási Intézet |
+| 5. |  | Szegedi Fegyház és Börtön | Büntetés-végrehajtás Egészségügyi Központ |  | Hajdú-Bihar Vármegyei Büntetés-végrehajtási Intézet |
 
-| 6. |  | Csengeri Országos Büntetés-végrehajtási Intézet | Igazságügyi Megfigyelő és Elmegyógyító Intézet |  | Hajdú-Bihar Vármegyei Büntetés-végrehajtási Intézet |
+| 6. |  | Szombathelyi Országos Büntetés-végrehajtási Intézet | Igazságügyi Megfigyelő és Elmegyógyító Intézet |  | Heves Vármegyei Büntetés-végrehajtási Intézet |
 
-| 7. |  |  | Kalocsai Fegyház és Börtön |  | Heves Vármegyei Büntetés-végrehajtási Intézet |
+| 7. |  |  | Kalocsai Fegyház és Börtön |  | Jász-Nagykun-Szolnok Vármegyei Büntetés-végrehajtási Intézet |
 
-| 8. |  |  | Kiskunhalasi Országos Büntetés-végrehajtási Intézet |  | Jász-Nagykun-Szolnok Vármegyei Büntetés-végrehajtási Intézet |
+| 8. |  |  | Kiskunhalasi Országos Büntetés-végrehajtási Intézet |  | Somogy Vármegyei Büntetés-végrehajtási Intézet |
 
-| 9. |  |  | Közép-dunántúli Országos Büntetés-végrehajtási Intézet |  | Somogy Vármegyei Büntetés-végrehajtási Intézet |
+| 9. |  |  | Közép-dunántúli Országos Büntetés-végrehajtási Intézet |  | Szabolcs-Szatmár-Bereg Vármegyei Büntetés-végrehajtási Intézet |
 
-| 10. |  |  | Márianosztrai Fegyház és Börtön |  | Szabolcs-Szatmár-Bereg Vármegyei Büntetés-végrehajtási Intézet |
+| 10. |  |  | Márianosztrai Fegyház és Börtön |  | Tolna Vármegyei Büntetés-végrehajtási Intézet |
 
-| 11. |  |  | Pálhalmai Országos Büntetés-végrehajtási Intézet |  | Tolna Vármegyei Büntetés-végrehajtási Intézet |
+| 11. |  |  | Pálhalmai Országos Büntetés-végrehajtási Intézet |  | Zala Vármegyei Büntetés-végrehajtási Intézet |
 
-| 12. |  |  | Sátoraljaújhelyi Fegyház és Börtön |  | Zala Vármegyei Büntetés-végrehajtási Intézet |
+| 12. |  |  | Sátoraljaújhelyi Fegyház és Börtön |  |  |
 
 | 13. |  |  | Sopronkőhidai Fegyház és Börtön |  |  |
 
@@ -132,4 +132,4 @@ X. Nemzeti Információs Központ
 
 XI. Idegenrendészeti szerv
 
-[^70]: Az 1. melléklet a 394/2015. (XII. 12.) Korm. rendelet 8. § (1) bekezdése, a 442/2015. (XII. 28.) Korm. rendelet 7. §-a, a 186/2016. (VII. 13.) Korm. rendelet 13. §-a, a 227/2016. (VII. 29.) Korm. rendelet 8. § a) pontja, a 350/2016. (XI. 18.) Korm. rendelet 20. § (3) bekezdés a) pontja, a 2/2019. (I. 22.) Korm. rendelet 2. §-a, a 126/2019. (V. 30.) Korm. rendelet 24. § (1) bekezdése, a 327/2020. (VII. 2.) Korm. rendelet 1. §-a, a 308/2020. (VI. 30.) Korm. rendelet 2. § a) pontja, a 239/2022. (VI. 30.) Korm. rendelet 26. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 212. § a)–b) pontja, a 628/2022. (XII. 30.) Korm. rendelet 39. § (1) bekezdése, a 116/2024. (V. 23.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^70]: Az 1. melléklet a 394/2015. (XII. 12.) Korm. rendelet 8. § (1) bekezdése, a 442/2015. (XII. 28.) Korm. rendelet 7. §-a, a 186/2016. (VII. 13.) Korm. rendelet 13. §-a, a 227/2016. (VII. 29.) Korm. rendelet 8. § a) pontja, a 350/2016. (XI. 18.) Korm. rendelet 20. § (3) bekezdés a) pontja, a 2/2019. (I. 22.) Korm. rendelet 2. §-a, a 126/2019. (V. 30.) Korm. rendelet 24. § (1) bekezdése, a 327/2020. (VII. 2.) Korm. rendelet 1. §-a, a 308/2020. (VI. 30.) Korm. rendelet 2. § a) pontja, a 239/2022. (VI. 30.) Korm. rendelet 26. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 212. § a)–b) pontja, a 628/2022. (XII. 30.) Korm. rendelet 39. § (1) bekezdése, a 116/2024. (V. 23.) Korm. rendelet 1. §-a, a 206/2024. (VII. 29.) Korm. rendelet 6. §-a szerint módosított szöveg.
