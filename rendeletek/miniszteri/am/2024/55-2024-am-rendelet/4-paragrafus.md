@@ -1,0 +1,1 @@
+4. § Az R. 2/A. § (1) bekezdésében, (2) bekezdés c) pontjában, 3. § (1) bekezdés b) pontjában, (2) bekezdés b) pontjában és (2a) bekezdésében az „1407/2013/EU” szövegrész helyébe az „(EU) 2023/2831” szöveg lép.
