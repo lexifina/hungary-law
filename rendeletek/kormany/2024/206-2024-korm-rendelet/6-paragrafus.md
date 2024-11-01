@@ -1,3 +1,1 @@
-6. §[^6]
-
-[^6]: A 6. § a 8. § (2) bekezdése alapján 2024. november 1-jén lép hatályba.
+6. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény végrehajtásáról szóló 154/2015. (VI. 19.) Korm. rendelet 1. melléklete az 1. melléklet szerint módosul.
