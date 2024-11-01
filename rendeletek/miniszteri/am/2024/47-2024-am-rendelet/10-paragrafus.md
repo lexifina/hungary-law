@@ -1,29 +1,26 @@
 10. § Hatályát veszti a 27/2014. (XI. 25.) FM rendelet
 
-a)[^32]
+a)[^20]
 
-b)[^33]
+b) 5. § (1a) bekezdés i) pontjában a „vagy” szövegrész,
 
-c)[^34]
+c) 5. § (3) bekezdés d) pontja,
 
-d)[^35]
+d) 5. § (10) bekezdésében az „és ilyen minőségében a növénytermesztési hatóság által nyilvántartásba vett” szövegrész,
 
-e)[^36]
+e)[^21]
 
-f)[^37]
+f)[^22]
 
-g)[^38]
+g)[^23]
 
-h)[^39]
+h)[^24]
 
-i)[^40]
+i)[^25]
 
-[^32]: A 10. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^33]: A 10. § b) pontja a 11. § (2) bekezdése alapján 2024. november 1-jén lép hatályba.
-[^34]: A 10. § c) pontja a 11. § (2) bekezdése alapján 2024. november 1-jén lép hatályba.
-[^35]: A 10. § d) pontja a 11. § (2) bekezdése alapján 2024. november 1-jén lép hatályba.
-[^36]: A 10. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^37]: A 10. § f) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^38]: A 10. § g) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^39]: A 10. § h) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^40]: A 10. § i) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 10. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 10. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 10. § f) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 10. § g) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 10. § h) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 10. § i) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

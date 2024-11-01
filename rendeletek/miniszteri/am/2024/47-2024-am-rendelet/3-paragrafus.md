@@ -1,3 +1,7 @@
-3. §[^3]
+## „a) az agrárkár-megállapító szerv minden esetben helyszíni ellenőrzést követően hozza meg a (6) bekezdés szerinti határozatot a jégesőkár vagy viharkár vonatkozásában tett kárbejelentésről,”
 
-[^3]: A 3. § a 11. § (2) bekezdése alapján 2024. november 1-jén lép hatályba.
+3. § A 27/2014. (XI. 25.) FM rendelet 6. § (10) és (11) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(10) A kárenyhítő juttatás tekintetében akkor kerül figyelembevételre a növénykultúra kárbejelentésben és egységes kérelemben történő szaporítóanyag célú megjelölése, ha az ügyfél a terület vonatkozásában a szaporítóanyag-előállítást a szántóföldi növényfajok vetőmagvainak előállításáról és forgalomba hozataláról szóló 48/2004. (IV. 21.) FVM rendelet [a továbbiakban: 48/2004. (IV. 21.) FVM rendelet], valamint a zöldség szaporítóanyagok előállításáról és forgalomba hozataláról szóló 50/2004. (IV. 22.) FVM rendelet [a továbbiakban: 50/2004. (IV. 22.) FVM rendelet] alapján végzi. A kárbejelentésben fel kell tüntetni a vetésbejelentés bizonylat sorszámát. A kárenyhítési eljárás szempontjából a hibridnapraforgó és a hibridkukorica szaporítóanyag-előállítás céljából termesztett növénykultúrának minősül.
+
+(11) A (10) bekezdéstől eltérően a 48/2004. (IV. 21.) FVM rendelet 1. számú melléklet D. részében, 3. számú melléklet D. részében és 4. számú melléklet D. részében foglalt, hivatalos szántóföldi ellenőrzésben részesíthető növényfajok esetében, ahol a vetőmag-előállító döntése alapján hivatalos szántóföldi ellenőrzésre nem került sor, valamint a 48/2004. (IV. 21.) FVM rendelet és az 50/2004. (IV. 22.) FVM rendelet hatálya alá nem tartozó fajok esetében, a mezőgazdasági termelő a szaporítóanyag-előállítást a szaporítóanyag-előállításra vonatkozó termeltetési szerződéssel igazolja.”

@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-47-20-7
 | --- | --- | --- |
 | 2024-09-06 | 2024-47-20-7R.1 | 47/2024. (IX. 5.) AM rendelet |
 | 2024-09-07 | 2024-47-20-7R.2 | 2010. évi CXXX. törvény |
+| 2024-11-01 | 2024-47-20-7R.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
