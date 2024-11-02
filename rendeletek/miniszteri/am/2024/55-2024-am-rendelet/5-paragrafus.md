@@ -1,1 +1,3 @@
-5. § Hatályát veszti az R. 10. § c) pontja.
+5. §[^6]
+
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

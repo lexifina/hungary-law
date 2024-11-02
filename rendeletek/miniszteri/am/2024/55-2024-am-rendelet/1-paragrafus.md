@@ -1,3 +1,3 @@
-1. § A fejezeti és központi kezelésű előirányzatok kezelésének és felhasználásának szabályairól szóló 14/2021. (III. 25.) AM rendelet (a továbbiakban: R.) a következő 9/C. §-sal egészül ki:
+1. §[^2]
 
-„9/C. § E rendeletnek a fejezeti és központi kezelésű előirányzatok kezelésének és felhasználásának szabályairól szóló 14/2021. (III. 25.) AM rendelet módosításáról szóló 55/2024. (X. 31.) AM rendelettel (a továbbiakban: Módr3.) megállapított 2/A. § (1) bekezdését, (2) bekezdés c) pontját, 3. § (1) bekezdés b) pontját, (2) bekezdés b) pontját, valamint (2a) bekezdését a Módr3. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

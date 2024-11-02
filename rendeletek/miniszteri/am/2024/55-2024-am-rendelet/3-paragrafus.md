@@ -1,5 +1,3 @@
-## „f) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2023. december 13-i (EU) 2023/2831 bizottsági rendelet”
+3. §[^4]
 
-## (hatálya alá tartozó támogatást tartalmaz.)
-
-3. § Az R. 1. melléklete az 1. melléklet szerint módosul.
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

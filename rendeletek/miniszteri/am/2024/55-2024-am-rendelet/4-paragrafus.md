@@ -1,1 +1,3 @@
-4. § Az R. 2/A. § (1) bekezdésében, (2) bekezdés c) pontjában, 3. § (1) bekezdés b) pontjában, (2) bekezdés b) pontjában és (2a) bekezdésében az „1407/2013/EU” szövegrész helyébe az „(EU) 2023/2831” szöveg lép.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
