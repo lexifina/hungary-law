@@ -1,19 +1,3 @@
-## „
+2. melléklet a 19/2024. (X. 31.) EM rendelethez[^10]
 
-| 12a. | 256501 |  | 37 Víz-, környezeti és természeti katasztrófa kárelhárítás |  |  | Az előirányzat felhasználható 1. A központi költségvetési szervek, a hivatásos katasztrófavédelmi szervek kirendelése alapján a hivatásos katasztrófavédelmi szervek megbízásából eljáró önkormányzati tűzoltóságok, valamint az önkéntes tűzoltó egyesületek és önkéntes mentőszervezetek, valamint a védelmi feladatokat ellátó vízitársulatok által víz-, környezeti és természeti katasztrófa kárelhárítás esetén végzett védekezési, továbbá a védekezési időszakon kívül bekövetkezett olyan természeti káreseményekre, amely a védbiztonságot közvetlenül veszélyeztető, azonnali beavatkozást igénylő helyreállítási feladatokkal összefüggő többletkiadásokra, a jégvédekezéssel összefüggő feladatokra, ideértve a vízügyi igazgatási szervek jégtörő hajóparkjának üzemeltetéséről szóló külön utasítás szerinti védekezési feladatokat, valamint a jégtörőflotta felújításának költségeire, külön kormánydöntés alapján preventív feladatok elvégzésére. 2. Az állam kártalanítási kötelezettsége költségeinek biztosítására. 3. Az 1. és 2. ponttal összefüggő, így különösen a személyi juttatásokkal, a munkaadókat terhelő járulékokkal, a dologi kiadásokkal, a veszélyhelyzet felszámolásához szükséges eszközök beszerzésével, valamint a károsodott és elhasznált védelmi eszközök visszapótlásával kapcsolatos egyéb felhalmozási kiadásokra, tevékenységekre. 4. A vízkárelhárítást ellátó állami vízügyi szerveknél és vízitársulatoknál történő közfoglalkoztatási programok sajáterő-költségeire. 5. Az aszály elleni kárelhárítási tevékenység ellátására. 6. Az inváziós fajok irtásával kapcsolatos feladatok ellátására. Az előirányzatból nyújtott támogatást az irányító vagy a középirányító szerv a védekezésben részt vevő irányított költségvetési szervek, továbbá a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság az önkormányzati tűzoltóságok, az önkéntes tűzoltó egyesületek és mentőszervezetek részére továbbadhatja. 7. Az előirányzat forrást biztosít továbbá a fejezeti kezelésű előirányzattal összefüggően felmerülő kincstári díjak és jutalékok fedezetére. | 1–6. központi költségvetési szervek, vízitársulatok, a hivatásos katasztrófavédelmi szervek megbízásából eljáró önkormányzati tűzoltóságok, önkéntes tűzoltó egyesületek és önkéntes mentőszervezetek 7. központi költségvetési szerv | 1–6. kérelem alapján 7. – | 1–6. előleg biztosítható 7. – | 1–6. egy összegben, részletekben, idő- vagy teljesítésarányos kifizetéssel 7. – | – | 1–6. beszedési megbízás, óvadék, garancia, kezesség, zálogjog, kötbér 7. – | – | – | – |
-
-## ”
-
-2. melléklet a 19/2024. (X. 31.) EM rendelethez
-
-A Rendelet 2. mellékletében foglalt táblázat a következő 10a. sorral egészül ki:
-
-|  | (A | B | C | D | E | F | G | H | I | J | K | L | M | N | O |
-
-| 1. | Áht. azonosító | Címnév | Alcímnév | Jogcímcsoportnév | Jogcímnév | Az előirányzat célja | Kifizetésben részesülők köre | Támogatás biztosításának módja | Támogatási előleg | Rendelkezésre bocsátás módja | Visszafizetés határideje | Biztosíték | Kezelő szerv kijelölése | Lebonyolító szerv | Európai uniós forrásból finanszírozott költségvetési támogatás közreműködő szervezete) |
-
-„
-
-| 10a. | 404484 |  |  |  | 4 Víziközmű fejlesztési feladatokhoz kapcsolódó kiadások | Az előirányzat a Nemzeti Vízművek Zrt. tulajdonosi joggyakorlásába tartozó víziközmű-vagyonon megvalósuló víziközmű- fejlesztési feladatok finanszírozását szolgálja a víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény (a továbbiakban: Vktsztv.) 5/H. § (4)–(4c) bekezdése alapján. | A Vksztv. szerinti ellátásért felelős víziközmű-társaságok | A támogatási szerződésben vagy támogatói okiratban foglaltak szerint | előleg biztosítható | egy összegben vagy részletekben, idő- vagy teljesítésarányos kifizetéssel. | a támogatási szerződés vagy támogatói okirat szerint | Ávr. 84. § (2) bekezdése szerinti lehetséges biztosítékok | Nemzeti Vízművek Zrt. | – | – |
-
-”
+[^10]: A 2. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
