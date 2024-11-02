@@ -2,6 +2,6 @@
 
 a)
 
-b) 71. § (4) bekezdésében a „hat” szövegrész helyébe a „kilenc” szöveg
+b)
 
 lép.

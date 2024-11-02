@@ -1,1 +1,1 @@
-16. § A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 68/A. § d) pontjában és 76/A. § (1) bekezdés d) pontjában a „Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve, valamint a katonai igazgatás területi szerve” szövegrész helyébe a „Magyar Honvédség központi nyilvántartó szerve, valamint a területi katonai igazgatási szervek” szöveg lép.
+### 16. §
