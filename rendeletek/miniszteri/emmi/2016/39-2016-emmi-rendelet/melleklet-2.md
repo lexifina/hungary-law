@@ -145,3 +145,7 @@ A törzsadat-nyilvántartásban közzéteendő törzsadatok és az EESZT útján
 13. társadalombiztosítási támogatással rendelhető gyógyászati segédeszközök nyilvántartása
 
 14. társadalombiztosítás által támogatott gyógyszerek teljes körének nyilvántartása
+
+15.[^31] egészségügyi szakmai irányelvben vagy az egészségügyért felelős miniszter közleményében meghatározott laboratóriumi diagnosztika körébe tartozó ellátások egységes egészségügyi nevezéktana
+
+[^31]: A 2. melléklet 15. pontját a 49/2024. (X. 3.) BM rendelet 2. §-a iktatta be.
