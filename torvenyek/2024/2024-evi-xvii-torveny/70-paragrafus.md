@@ -1,3 +1,1 @@
-70. § Az építmények tervezésével és kivitelezésével kapcsolatos egyes viták rendezésében közreműködő szervezetről, és egyes törvényeknek az építésügyi lánctartozások megakadályozásával, valamint a késedelmes fizetésekkel összefüggő módosításáról szóló 2013. évi XXXIV. törvény 8/D. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Ha a bíróság a kérelmező keresetét elutasítja, ítéletében rendelkezik a letétbe helyezett összegnek a kérelmező ellenfele részére történő visszaadásáról. A kérelmező pernyertessége esetén a bíróság a letétbe helyezett összeg kérelmező részére történő kiadásáról rendelkezik.”
+### 70. §
