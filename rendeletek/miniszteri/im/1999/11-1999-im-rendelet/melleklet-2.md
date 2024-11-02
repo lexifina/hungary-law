@@ -22,6 +22,6 @@
 
 ## P. H.
 
-2. számú melléklet a 11/1999. (X. 6.) IM rendelethez[^36]
+2. számú melléklet a 11/1999. (X. 6.) IM rendelethez[^41]
 
-[^36]: A 2. számú mellékletet a 20/2017. (XII. 21.) IM rendelet 6. § (10) bekezdés b) pontja hatályon kívül helyezte.
+[^41]: A 2. számú mellékletet a 20/2017. (XII. 21.) IM rendelet 6. § (10) bekezdés b) pontja hatályon kívül helyezte.
