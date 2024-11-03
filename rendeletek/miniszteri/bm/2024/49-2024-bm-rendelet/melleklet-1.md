@@ -1,5 +1,3 @@
-1. melléklet a 49/2024. (X. 3.) BM rendelethez
+1. melléklet a 49/2024. (X. 3.) BM rendelethez[^4]
 
-Az R. 2. melléklete a következő 15. ponttal egészül ki:
-
-„15. egészségügyi szakmai irányelvben vagy az egészségügyért felelős miniszter közleményében meghatározott laboratóriumi diagnosztika körébe tartozó ellátások egységes egészségügyi nevezéktana”
+[^4]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
