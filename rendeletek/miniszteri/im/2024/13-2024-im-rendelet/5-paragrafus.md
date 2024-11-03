@@ -1,3 +1,3 @@
-5. § A bírósági fogalmazók joggyakorlatáról és képzéséről szóló 11/1999. (X. 6.) IM rendelet a következő 14. §-sal egészül ki:
+5. §[^6]
 
-„14. § E rendeletnek a bírósági fogalmazók joggyakorlatáról és képzéséről szóló 11/1999. (X. 6.) IM rendelet módosításáról szóló 13/2024. (IX. 2.) IM rendelettel megállapított rendelkezései nem érintik a bírósági fogalmazók joggyakorlatáról és képzéséről szóló 11/1999. (X. 6.) IM rendelet módosításáról szóló 13/2024. (IX. 2.) IM rendelet hatálybalépésének napjáig hatályos rendelkezések alapján a bírósági fogalmazók joggyakorlatáról elkészített, már jóváhagyott beosztási terveket.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

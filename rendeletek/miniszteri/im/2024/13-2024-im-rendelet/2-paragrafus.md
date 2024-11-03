@@ -1,3 +1,3 @@
-2. § A bírósági fogalmazók joggyakorlatáról és képzéséről szóló 11/1999. (X. 6.) IM rendelet 1/C. § (1) bekezdése helyébe a következő rendelkezés lép:
+2. §[^3]
 
-„(1) A kinevező dönt a pályázat elbírálásáról. Ennek során a sikeres versenyvizsgát tett pályázót meghallgatja.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

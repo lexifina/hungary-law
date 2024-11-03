@@ -1,3 +1,3 @@
-4. § A bírósági fogalmazók joggyakorlatáról és képzéséről szóló 11/1999. (X. 6.) IM rendelet 8. § (3) bekezdése helyébe a következő rendelkezés lép:
+4. §[^5]
 
-„(3) A fogalmazó joggyakorlati idejét úgy kell beosztani, hogy polgári, gazdasági, büntető ügyszakban első és másodfokon, munkaügyi és lehetőség szerint közigazgatási ügyszakban elsőfokon, valamint a többi ügyszakban is megfelelő időt töltsön el, továbbá – a 4. §-nak megfelelően – a jogalkalmazás más területein is tapasztalatot szerezhessen. A fogalmazók joggyakorlati idejének beosztására vonatkozó részletes szabályokat az OBH elnöke határozza meg. A fogalmazónak évente legalább 50 érdemi határozattervezetet kell készítenie.”
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
