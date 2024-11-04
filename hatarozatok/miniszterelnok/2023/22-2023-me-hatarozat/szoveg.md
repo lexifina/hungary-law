@@ -1,10 +1,10 @@
 1. A 2021–2027 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 256/2021. (V. 18.) Korm. rendelet 34. §-a alapján
 
-a) Lóga Mátét, a Gazdaságfejlesztési Minisztérium államtitkárát a Gazdaságfejlesztési és Innovációs Operatív Program Plusz monitoring bizottsága,
+a)[^1]
 
 b) Nagy Bálintot, az Építési és Közlekedési Minisztérium államtitkárát az Integrált Közlekedésfejlesztési Operatív Program Plusz monitoring bizottsága,
 
-c)[^1]
+c)[^2]
 
 d) dr. Rétvári Bencét, a Belügyminisztérium államtitkárát az Emberi Erőforrás Fejlesztési Operatív Program Plusz monitoring bizottsága,
 
@@ -30,11 +30,13 @@ b) 2023. március 20-i hatállyal
 
 ba) Nagy Bálintot, az Építési és Közlekedési Minisztérium államtitkárát az Integrált Közlekedésfejlesztési Operatív Program monitoring bizottsága,
 
-bb) Lóga Mátét, a Gazdaságfejlesztési Minisztérium államtitkárát a Gazdaságfejlesztési és Innovációs Operatív Program monitoring bizottsága
+bb)[^3]
 
 elnökévé kinevezem.
 
-3.[^2]
+3.[^4]
 
-[^1]: Az 1. pont c) alpontját a 20/2024. (III. 21.) ME határozat 2. pontja visszavonta.
-[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont a) alpontját a 114/2024. (XI. 4.) ME határozat 3. pontja visszavonta.
+[^2]: Az 1. pont c) alpontját a 20/2024. (III. 21.) ME határozat 2. pontja visszavonta.
+[^3]: A 2. pont b) pont bb) alponját a 114/2024. (XI. 4.) ME határozat 3. pontja visszavonta.
+[^4]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
