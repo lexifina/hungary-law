@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-9-20-3H
 | 2024-10-04 | 2024-9-20-3H.1 | 9/2024. (X. 3.) NMHH rendelet |
 | 2024-10-05 | 2024-9-20-3H.2 | 2010. évi CXXX. törvény |
 | 2024-11-03 | 2024-9-20-3H.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2024-11-04 | 2024-9-20-3H.4 | 2010. évi CXXX. törvény |
