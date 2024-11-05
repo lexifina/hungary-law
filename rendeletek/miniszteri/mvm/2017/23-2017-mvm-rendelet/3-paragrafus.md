@@ -1,4 +1,4 @@
-3. § (1)[^5] A gyakorlati vizsgát 2 tagú, a szóbeli vizsgát 3 tagú közszolgálati tisztviselőkből vagy kormánytisztviselőből álló bizottság előtt kell teljesíteni. A gyakorlati és szóbeli vizsgabizottság legalább egyik tagjának általános anyakönyvi szakvizsgával is rendelkeznie kell.
+3. § (1)[^8] A gyakorlati vizsgát 2 tagú, a szóbeli vizsgát 3 tagú közszolgálati tisztviselőkből vagy kormánytisztviselőkből álló bizottság előtt kell teljesíteni. A gyakorlati és szóbeli vizsgabizottság legalább egyik tagjának általános anyakönyvi szakvizsgával is rendelkeznie kell.
 
 (2) A szervező a gyakorlati és szóbeli vizsgabizottság tagjairól tájékoztatja az anyakönyvi ügyekért felelős minisztert. A szóbeli vizsgabizottság elnökét az anyakönyvi ügyekért felelős miniszter jelöli ki.
 
@@ -34,11 +34,11 @@ e) összeállítja a vizsgabizottságot,
 
 f) a szóbeli vizsga eredményes letételéig őrzi az írásbeli vizsgadolgozatot, és biztosítja a jelölt részére az értékelést követő betekintést,
 
-g)[^6] gondoskodik a 4. mellékletben foglalt adattartalmú vizsgajegyzőkönyv vezetéséről, valamint a szakvizsga bizonyítványok kitöltéséről,
+g)[^9] gondoskodik a 4. mellékletben foglalt adattartalmú vizsgajegyzőkönyv vezetéséről, valamint a szakvizsga bizonyítványok kitöltéséről,
 
 h) értesíti az anyakönyvi szakvizsga nyilvántartót a sikeres szakvizsgát tett jelölt 3. mellékletben meghatározott adatairól, és megküldi elektronikus úton a szakvizsga bizonyítvány másolatát.
 
-(9a)[^7] A 2. § (2) bekezdés b) pontja szerinti szervező az általa kiállított szakvizsga bizonyítványok tekintetében gondoskodik azok érvényességének nyilvántartásáról.
+(9a)[^10] A 2. § (2) bekezdés b) pontja szerinti szervező az általa kiállított szakvizsga bizonyítványok tekintetében gondoskodik azok érvényességének nyilvántartásáról.
 
 (10) A vizsgajegyzőkönyv nem selejtezhető közokirat, megőrzéséről az iratkezelési szabályoknak megfelelően a szervező gondoskodik.
 
@@ -52,6 +52,6 @@ b) azt a számot, hogy az adott évben a jelölt hányadikként tett eredményes
 
 c) a bizonyítvány kiállításának évét.
 
-[^5]: A 3. § (1) bekezdése a 13/2022. (VIII. 31.) MvM rendelet 7. § d) pontja szerint módosított szöveg.
-[^6]: A 3. § (9) bekezdés g) pontja a 13/2022. (VIII. 31.) MvM rendelet 7. § e) pontja szerint módosított szöveg.
-[^7]: A 3. § (9a) bekezdését a 4/2023. (VIII. 7.) MvM rendelet 1. §-a iktatta be.
+[^8]: A 3. § (1) bekezdése a 13/2022. (VIII. 31.) MvM rendelet 7. § d) pontja, a 11/2024. (X. 31.) KTM rendelet 5. § c) pontja szerint módosított szöveg.
+[^9]: A 3. § (9) bekezdés g) pontja a 13/2022. (VIII. 31.) MvM rendelet 7. § e) pontja szerint módosított szöveg.
+[^10]: A 3. § (9a) bekezdését a 4/2023. (VIII. 7.) MvM rendelet 1. §-a iktatta be.

@@ -10,7 +10,7 @@
 
 ## d) anyakönyvi adatváltozások anyakönyvezésével,
 
-## e) anyakönyvi kivonat és hatósági bizonyítvány kiállításával,
+## e)[^24] anyakönyvi okirat kiállításával,
 
 ## f) okmány modulban végezhető egyéb műveletekkel,
 
@@ -108,9 +108,9 @@
 
 ## 43. Hazai anyakönyvezés (története, a kérelem átvétele, felterjesztése, csatolandó mellékletek, hatásköri szabályok)
 
-## 44. Névviselés, névváltoztatás (születési és házassági név, anyakönyvezhető utónevek, születési név megváltoztatása, eltérő névviselés, transzszexualizmus, a nem és az utónév megváltozása)
+## 44.[^25] Születési név (anyakönyvezhető utónevek, születési név megváltoztatása, utónév módosítása, családi név korrekciója, a nem és az utónév megváltozása, eltérő névviselés)
 
-## 45. Utónév-módosítás, házassági névviselési forma módosítása, házassági név megváltoztatása, családi név korrekciója
+## 45.[^26] Házassági név (házassági névviselési forma módosítása, házassági név megváltoztatása, eltérő névviselés)
 
 ## 46. Nemzetiségi névviselés
 
@@ -162,7 +162,7 @@
 
 ## 70. Az EAK rendszer működése (jellemzők, okirat-kiállítási funkciók, előállítható okiratok, megszemélyesítetlen anyakönyvi kivonat nyomtatvány igénylése, bevételezése, a nyomdai hibás vagy megrongálódott megszemélyesítetlen anyakönyvi kivonat nyomtatványok érvénytelenítése, levelező és fórum használata)
 
-6. melléklet a 23/2017. (VIII. 7.) MvM rendelethez[^23]
+6. melléklet a 23/2017. (VIII. 7.) MvM rendelethez[^27]
 
 Az anyakönyvi szakvizsga bizonyítvány adattartalma
 
@@ -184,4 +184,7 @@ Az anyakönyvi szakvizsga bizonyítvány adattartalma
 
 9. A vizsgabizottság elnökének és tagjainak aláírása.
 
-[^23]: A 6. melléklet a 13/2022. (VIII. 31.) MvM rendelet 6. § d) pontjával megállapított szöveg.
+[^24]: Az 5. melléklet A) pont e) alpontja a 11/2024. (X. 31.) KTM rendelet 4. § b) pontjával megállapított szöveg.
+[^25]: Az 5. melléklet B) pont 44. alpontja a 11/2024. (X. 31.) KTM rendelet 4. § b) pontjával megállapított szöveg.
+[^26]: Az 5. melléklet B) pont 45. alpontja a 11/2024. (X. 31.) KTM rendelet 4. § b) pontjával megállapított szöveg.
+[^27]: A 6. melléklet a 13/2022. (VIII. 31.) MvM rendelet 6. § d) pontjával megállapított szöveg.
