@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-294-20-
 | 2019-06-28 | 2011-294-20-22.3 | 265/2018. (XII. 20.) Korm. rendelet |
 | 2021-01-01 | 2011-294-20-22.4 | 665/2020. (XII. 28.) Korm. rendelet |
 | 2022-11-01 | 2011-294-20-22.5 | 409/2022. (X. 24.) Korm. rendelet |
+| 2024-11-05 | 2011-294-20-22.6 | 313/2024. (XI. 4.) Korm. rendelet |
