@@ -6,7 +6,7 @@ a) a 4. § (9) bekezdésében meghatározott feladataira tekintettel
 
 aa) az Európai Bizottsággal,
 
-ab) az Európai Felügyeleti Hatóságokkal, azaz az Európai Bankhatósággal, az Európai Biztosítás- és Foglalkoztatóinyugdíj-hatósággal, az Európai Értékpapír-piaci Hatósággal,
+ab) az Európai Felügyeleti Hatóságokkal, azaz az Európai Bankhatósággal, az Európai Biztosítás- és Foglalkoztatóinyugdíj-hatósággal, az Európai Értékpapír-piaci Hatósággal, valamint a Pénzmosás és Terrorizmusfinanszírozás Elleni Hatósággal,
 
 ac) az Európai Rendszerkockázati Testülettel,
 
