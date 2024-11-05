@@ -1,0 +1,3 @@
+11. § A Gasz.vhr. 16. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+„(7) Az (5) bekezdés szerinti határozatot a területi védelmi bizottság postai vagy elektronikus úton kézbesíti az igénybevevőnek, az ingatlan fekvése szerinti, szolgáltatás esetén a szolgáltatásra kötelezett székhelye, telephelye vagy fióktelepe szerint illetékes polgármesternek, az ingatlan, ingó dolog vagy a szolgáltatás tulajdonosának, birtokosának vagy az azzal rendelkezni jogosultnak, valamint a Hvt. 68. § d) pontja szerinti feladata ellátása érdekében az ingatlan fekvése szerinti, szolgáltatás esetén a szolgáltatásra kötelezett székhelye, telephelye vagy fióktelepe szerint illetékes hadkiegészítő és toborzó központnak.”
