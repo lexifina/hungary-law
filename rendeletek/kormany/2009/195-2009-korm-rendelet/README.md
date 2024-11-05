@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-195-20-
 | 2019-12-25 | 2009-195-20-22.8 | 330/2019. (XII. 20.) Korm. rendelet |
 | 2022-11-01 | 2009-195-20-22.9 | 409/2022. (X. 24.) Korm. rendelet |
 | 2024-10-01 | 2009-195-20-22.10 | 285/2024. (IX. 30.) Korm. rendelet |
+| 2024-11-05 | 2009-195-20-22.11 | 313/2024. (XI. 4.) Korm. rendelet |
