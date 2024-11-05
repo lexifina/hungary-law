@@ -1,7 +1,9 @@
 ## VI. Fejezet
 
-## A KATONAI IGAZGATÁSI SZERVEK MEGNEVEZÉSE ÉS ILLETÉKESSÉGE
+## A KATONAI IGAZGATÁSI SZERVEK ÉS A HONVÉDSÉG KÖZPONTI NYILVÁNTARTÓ SZERVE MEGNEVEZÉSE, ILLETÉKESSÉGE ÉS SZAKMAI IRÁNYÍTÁSI JOGKÖRE[^2]
 
-## 15. A Honvédség katonai igazgatási és központi adatfeldolgozó szerve
+## 15. A Honvédség központi nyilvántartó szerve
 
-17. § A Kormány a Honvédség katonai igazgatási és központi adatfeldolgozó szervének a Magyar Honvédség Katonai Igazgatási és Központi Nyilvántartó Parancsnokságot jelöli ki, amelynek illetékessége a Hvt. 67. §-ában meghatározott feladatai vonatkozásában az ország egész területére kiterjed.
+17. § A Kormány a Honvédség központi nyilvántartó szervének a Magyar Honvédség vitéz Szurmay Sándor Budapest Helyőrség Dandárt jelöli ki, amelynek illetékessége a Hvt. 69/A. §-ában meghatározott feladatai vonatkozásában az ország egész területére kiterjed.
+
+[^2]: A VI. Fejezet (17–19. §) a 313/2024. (XI. 4.) Korm. rendelet 17. §-ával megállapított szöveg.

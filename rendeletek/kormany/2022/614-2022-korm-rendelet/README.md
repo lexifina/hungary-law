@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-614-20-
 | 2023-01-02 | 2022-614-20-22.2 | 2010. évi CXXX. törvény |
 | 2024-03-22 | 2022-614-20-22.3 | 63/2024. (III. 21.) Korm. rendelet |
 | 2024-07-08 | 2022-614-20-22.4 | 176/2024. (VII. 7.) Korm. rendelet |
+| 2024-11-05 | 2022-614-20-22.5 | 313/2024. (XI. 4.) Korm. rendelet |
