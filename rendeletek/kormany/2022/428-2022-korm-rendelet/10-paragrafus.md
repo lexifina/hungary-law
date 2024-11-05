@@ -10,4 +10,6 @@
 
 2. igénybevevő: a Vbö. 49. § (1) bekezdésében meghatározott védelmi és biztonsági feladatellátásban részt vevő szerv és a honvédségi szervezet, amely részére gazdasági és anyagi szolgáltatási kötelezettség keretében honvédelmi célú igénybevételt rendelnek el,
 
-3. hadkiegészítő és toborzó központ: a gazdasági és anyagi szolgáltatási kötelezettség biztosítása érdekében, az ellenőrzés lebonyolításában, a kötelezettel történő kapcsolattartásban, a védelmi és biztonsági igazgatási szerv munkájának támogatása érdekében eljáró katonai igazgatás területileg illetékes szerve.
+3.[^4] hadkiegészítő és toborzó központ: a katonai igazgatás területileg illetékes szerve, amely a gazdasági és anyagi szolgáltatási kötelezettség biztosítása érdekében, az ellenőrzés lebonyolításában, a kötelezettel történő kapcsolattartásban jár el, ennek során együttműködik a védelmi és biztonsági igazgatási szervvel.
+
+[^4]: A 10. § 3. pontja a 313/2024. (XI. 4.) Korm. rendelet 7. §-ával megállapított szöveg.

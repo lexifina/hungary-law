@@ -10,6 +10,8 @@
 
 (6) Technikai eszköz kijelölése esetén a hadkiegészítő és toborzó központ a nyilvántartásából kiválasztja a kérelemnek megfelelő technikai eszközt és az igénybevételre történő kijelölésről, valamint szükség esetén a rendszeres adatszolgáltatásra való kötelezésről határozatban rendelkezik, amelyről 8 napon belül tájékoztatja az igénybevevőt.
 
-(7) Az (5) bekezdés szerinti határozatot a területi védelmi bizottság postai vagy elektronikus úton kézbesíti az igénybevevőnek, az ingatlan fekvése szerinti, szolgáltatás esetén a szolgáltatásra kötelezett székhelye, telephelye, fióktelepe szerint illetékes polgármesternek, az ingatlan, ingó dolog vagy a szolgáltatás tulajdonosának, birtokosának vagy az azzal rendelkezni jogosultnak, valamint a Hvt. 68. § d) pontja szerinti feladata ellátása érdekében az igénybevevő székhelye szerint illetékes hadkiegészítő és toborzó központnak.
+(7)[^15] Az (5) bekezdés szerinti határozatot a területi védelmi bizottság postai vagy elektronikus úton kézbesíti az igénybevevőnek, az ingatlan fekvése szerinti, szolgáltatás esetén a szolgáltatásra kötelezett székhelye, telephelye vagy fióktelepe szerint illetékes polgármesternek, az ingatlan, ingó dolog vagy a szolgáltatás tulajdonosának, birtokosának vagy az azzal rendelkezni jogosultnak, valamint a Hvt. 68. § d) pontja szerinti feladata ellátása érdekében az ingatlan fekvése szerinti, szolgáltatás esetén a szolgáltatásra kötelezett székhelye, telephelye vagy fióktelepe szerint illetékes hadkiegészítő és toborzó központnak.
 
 (8) A (6) bekezdés szerinti határozatot a hadkiegészítő és toborzó központ postai vagy elektronikus úton kézbesíti az igénybevevőnek, a technikai eszköz tulajdonosának, birtokosának vagy az azzal rendelkezni jogosultnak, a technikai eszköz helye szerint illetékes területi védelmi bizottság elnökének és a polgármesternek.
+
+[^15]: A 16. § (7) bekezdése a 313/2024. (XI. 4.) Korm. rendelet 11. §-ával megállapított szöveg.
