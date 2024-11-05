@@ -12,7 +12,7 @@ Riz Gábor (Fidesz)
 
 Tessely Zoltán (Fidesz)
 
-dr. Varga Judit (Fidesz)[^3]
+Hegedűs Barbara Szilvia (Fidesz)[^3]
 
 dr. Juhász Hajnalka (KDNP)
 
@@ -667,7 +667,7 @@ Varga Szimeon (nemzetiségi szószóló)[^82]
 7.[^83]
 
 [^2]: A 12/2024. (IV. 30.) OGY határozat 1. pontjával megállapított szöveg.
-[^3]: A 19/2023. (VII. 5.) OGY határozat 1. pontjával megállapított szöveg.
+[^3]: A 21/2024. (XI. 6.) OGY határozat 1. pontjával megállapított szöveg.
 [^4]: A 34/2022. (VII. 19.) OGY határozat 1. pontjával megállapított szöveg.
 [^5]: A 38/2022. (IX. 27.) OGY határozat 1. pontjával megállapított szöveg.
 [^6]: A 20/2023. (IX. 26.) OGY határozat 1. pontjával megállapított szöveg.
