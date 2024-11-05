@@ -39,3 +39,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1994-42-00-00
 | 2022-08-11 | 2022. évi XXIV. törvény | 1994-42-00-00.54 |
 | 2023-11-30 | 2023. évi LXXVI. törvény | 1994-42-00-00.55 |
 | 2024-01-01 | 2023. évi LXXXIX. törvény | 1994-42-00-00.56 |
+| 2024-11-05 | 2024. évi XXXIX. törvény | 1994-42-00-00.58 |
