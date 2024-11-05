@@ -34,7 +34,7 @@ tekintetében megtilthatja vagy korlátozhatja.
 
 (8) A honvéd, valamint a rendelkezésre állás időszakában az önkéntes tartalékos illetéktelen személynek és szervnek nem adhat tájékoztatást olyan tényről, amely tevékenysége során jutott tudomására, és kiszolgáltatása az állam, a honvédelmi szervezet, munkatársa vagy az állampolgár számára hátrányos vagy jogellenesen előnyös következményekkel járna. A honvéd szolgálati viszonya, illetve szolgálati beosztása ellátása során tudomására jutott információt a szolgálati viszonya megszűnését vagy megszüntetését követően sem használhatja fel üzleti célra, illetve oly módon, ami biztonsági érdeket sérthet, vagy a Honvédség társadalmi megítélését ronthatja.
 
-(9) A honvéd a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény (a továbbiakban: Hvt.) 59. § (1) bekezdés a)–c), f) és k) pontjában meghatározott feladatok végrehajtására kapott parancsot önfeláldozásig terjedő bátorsággal köteles végrehajtani. A Hvt. 59. § (1) bekezdés d), e), g)–j), és l) pontjában, valamint a Hvt. 59. § (2) bekezdés a) pontjában meghatározott feladatok végrehajtására kapott parancsot a honvéd akkor is köteles teljesíteni, ha az az életét vagy a testi épségét közvetlenül vagy súlyosan veszélyezteti.
+(9)[^1] A honvéd a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény (a továbbiakban: Hvt.) 59. § (1) bekezdés a)–c), f) és k) pontjában meghatározott feladatok végrehajtására kapott parancsot önfeláldozásig terjedő bátorsággal köteles végrehajtani. A Hvt. 59. § (1) bekezdés d), e), g)–j), l) és n) pontjában, valamint a Hvt. 59. § (2) bekezdés a) pontjában meghatározott feladatok végrehajtására kapott parancsot a honvéd akkor is köteles teljesíteni, ha az az életét vagy a testi épségét közvetlenül vagy súlyosan veszélyezteti.
 
 (10) A Hvt. 59. § (1) bekezdés a), d), g) és k) pontjában és a Hvt. 59. § (2) bekezdés a) pontjában meghatározott szolgálati feladatoknak, továbbá a honvédelem szempontjából létfontosságúnak kijelölt rendszerelemek, illetve a honvédelem szempontjából fokozott védelmet igénylő létesítmények őrzésének és védelmének a végrehajtása során a honvéd végszükségre nem hivatkozhat.
 
@@ -67,3 +67,5 @@ e) a Hvt. 3. § 1. pontja szerinti külföldön történő alkalmazás és
 f) a Hvt. 3. § 2. pontja szerinti külföldi állomásozás
 
 céljából történő külföldi szolgálatra vezénylésének időtartama alatt a tulajdonát képező, illetve a jogszerű használatában lévő személyi használati tárgyakat a döntésre jogosult elöljáró előzetes döntése, illetve a nemzetközi szervezet műveleti utasításában meghatározottak szerint tarthatja magánál.
+
+[^1]: Az 5. § (9) bekezdése a 313/2024. (XI. 4.) Korm. rendelet 19. §-ával megállapított szöveg.
