@@ -24,4 +24,6 @@
 
 11. szerződéses összeg: a lakáselőtakarékoskodó által vállalt összes betételhelyezés, a betétre jóváírt kamat, az állami támogatás, a támogatásra jóváírt kamat és a lakáselőtakarékoskodó, illetve kedvezményezett által igényelhető lakáskölcsön együttes összege.
 
+12. üdülő: a helyi adókról szóló 1990. évi C. törvény szerinti üdülő.
+
 (2) Az Európai Unió, illetőleg az Európai Unió tagállama kifejezésen az Európai Gazdasági Térséget, illetőleg az Európai Gazdasági Térség tagállamát kell érteni.
