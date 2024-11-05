@@ -1,6 +1,6 @@
-## AZ EURÓPAI UNIÓ MÁS TAGÁLLAMÁNAK JOGA ALAPJÁN MŰKÖDŐ RENDSZER MAGYARORSZÁGI SZÉKHELYŰ RÉSZTVEVŐJÉNEK ADATSZOLGÁLTATÁSI KÖTELEZETTSÉGE
+## Az Európai Unió más tagállama vagy harmadik ország joga alapján működő rendszer magyarországi székhelyű résztvevőjének adatszolgáltatási kötelezettsége
 
-12. § (1) Az Európai Unió más tagállamának joga alapján működő rendszer magyarországi székhelyű résztvevője az ezen rendszerhez való csatlakozás tényéről a csatlakozástól, illetve a rendszerből való kilépésről a kilépéstől számított 15 napon belül tájékoztatni köteles a kijelölő hatóságot.
+12. § (1) Az Európai Unió más tagállama vagy harmadik ország joga alapján működő rendszer magyarországi székhelyű résztvevője az ezen rendszerhez való csatlakozás tényéről a csatlakozástól, illetve a rendszerből való kilépésről a kilépéstől számított 15 napon belül tájékoztatni köteles az illetékes kijelölő hatóságot, valamint a Magyar Nemzeti Bankot.
 
 (2) Az (1) bekezdés szerinti csatlakozásról szóló tájékoztatáshoz mellékelni kell:
 

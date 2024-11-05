@@ -1,6 +1,6 @@
 ## A rendszer és a rendszerüzemeltető kijelölése és a kijelölt rendszerek, rendszerüzemeltetők nyilvántartása
 
-9. § (1) Az e törvény hatálya alá tartozó rendszert és rendszerüzemeltetőt a Magyar Nemzeti Bank (kijelölő hatóság) jelöli ki.
+9. § (1) Az 1. § (1) bekezdés a) pontja szerinti rendszert és rendszerüzemeltetőt a Magyar Nemzeti Bank (kijelölő hatóság) jelöli ki.
 
 (2) A kijelölt rendszert és rendszerüzemeltetőt a kijelölő hatóság nyilvántartásba veszi.
 
