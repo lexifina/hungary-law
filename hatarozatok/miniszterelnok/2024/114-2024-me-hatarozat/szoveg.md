@@ -10,4 +10,6 @@ a) Lóga Mátét, a Nemzetgazdasági Minisztérium államtitkárát a Gazdaságf
 
 b) Szabados Richárdot, a Nemzetgazdasági Minisztérium államtitkárát a Gazdaságfejlesztési és Innovációs Operatív Program Plusz monitoring bizottsága elnökévé – 2024. november 1-jei hatállyal – kinevezem.
 
-3. A monitoring bizottságok elnökeinek kinevezéséről és monitoring bizottságok elnökeinek felmentéséről szóló 22/2023. (III. 13.) ME határozat 1. pont a) alpontját és 2. pont b) alpont bb) pontját visszavonom.
+3.[^1]
+
+[^1]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
