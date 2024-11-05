@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2024-39-00-00
 | 2024-10-29 | 2024. évi XXXIX. törvény | 2024-39-00-00.0 (közlönyállapot) |
 | 2024-10-29 | Nemzeti Jogszabálytár (egységes szerkezet) | 2024-39-00-00.1 |
 | 2024-10-30 | 2010. évi CXXX. törvény | 2024-39-00-00.2 |
+| 2024-11-05 | Nemzeti Jogszabálytár (egységes szerkezet) | 2024-39-00-00.3 |
