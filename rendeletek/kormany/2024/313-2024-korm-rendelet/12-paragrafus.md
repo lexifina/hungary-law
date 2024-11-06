@@ -1,3 +1,3 @@
-12. § A Gasz.vhr. 22. § (1) bekezdése helyébe a következő rendelkezés lép:
+12. §[^13]
 
-„(1) Az igénybevevő az ingatlan, ingó dolog vagy szolgáltatás igénybevételének elrendelésére vonatkozó kérelmét a rendszeresített formanyomtatványon az ingatlan fekvése szerinti, szolgáltatás esetén a szolgáltatásra kötelezett székhelye, telephelye vagy fióktelepe szerint illetékes területi védelmi bizottság elnökéhez, technikai eszköz igénybevételének elrendelésére vonatkozó kérelmét a rendszeresített formanyomtatványon a székhelye, telephelye vagy fióktelepe szerint illetékes hadkiegészítő és toborzó központ vezetőjéhez postai vagy elektronikus úton történő megküldéssel vagy személyes kézbesítés útján nyújtja be.”
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

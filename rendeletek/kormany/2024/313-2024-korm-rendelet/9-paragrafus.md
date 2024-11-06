@@ -1,3 +1,3 @@
-9. § A Gasz.vhr. 13. § (2) bekezdése helyébe a következő rendelkezés lép:
+9. §[^10]
 
-„(2) A területi védelmi bizottság rendszeres adatszolgáltatásra kötelező határozata öt példányban készül, amelynek egy-egy példányát megküldi az igénybevevőnek, az ingatlan fekvése szerint, szolgáltatás esetén a szolgáltatásra kötelezett székhelye, telephelye vagy fióktelepe szerint illetékes polgármesternek, a szolgáltatásra kötelezettnek, valamint a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény (a továbbiakban: Hvt.) 68. § d) pontja szerinti feladata ellátása érdekében az ingatlan fekvése szerint, szolgáltatás esetén a szolgáltatásra kötelezett székhelye, telephelye vagy fióktelepe szerint illetékes hadkiegészítő és toborzó központnak.”
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

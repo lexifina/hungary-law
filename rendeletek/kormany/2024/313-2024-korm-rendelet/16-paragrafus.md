@@ -1,1 +1,3 @@
-16. § Hatályát veszti a Gasz.vhr. 12. § (3) bekezdése.
+16. §[^17]
+
+[^17]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
