@@ -1,5 +1,3 @@
-6. § Hatályát veszti a Rendelet
+6. §[^12]
 
-a) 2. § (1) bekezdés c) pontja,
-
-b) 4. alcíme.
+[^12]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

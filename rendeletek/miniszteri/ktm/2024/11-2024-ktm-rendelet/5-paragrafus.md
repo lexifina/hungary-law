@@ -1,19 +1,25 @@
 5. § A Rendelet
 
-a) 2. § (1) bekezdés b) pontjában a „szakvizsga I.” szövegrész helyébe a „szakvizsga” szöveg,
+a)[^5]
 
-b) 2. § (2) bekezdés b) pontjában a „b) és c) pontjában” szövegrész helyébe a „b) pontjában” szöveg,
+b)[^6]
 
-c) 3. § (1) bekezdésében a „kormánytisztviselőből” szövegrész helyébe a „kormánytisztviselőkből” szöveg,
+c)[^7]
 
-d)[^2]
+d)[^8]
 
-e) 2. melléklet 4. pont b) alpontjában a „szakvizsga I. és II.” szövegrész helyébe a „szakvizsga” szöveg,
+e)[^9]
 
-f) 7. melléklet B) pont 10. alpontjában a „klasszikus és az egyszerűsített” szövegrész helyébe a „hazai anyakönyvezés és a” szöveg,
+f)[^10]
 
-g) 7. melléklet B) pont 13. alpontjában a „bejegyezett” szövegrész helyébe a „bejegyzett” szöveg
+g)[^11]
 
 lép.
 
-[^2]: Az 5. § d) pontja a 7. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+[^5]: Az 5. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: Az 5. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: Az 5. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: Az 5. § d) pontja a 7. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+[^9]: Az 5. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: Az 5. § f) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: Az 5. § g) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
