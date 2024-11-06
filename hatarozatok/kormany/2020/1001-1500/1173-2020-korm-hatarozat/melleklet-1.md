@@ -90,7 +90,7 @@
 
 ## Határidő: azonnal
 
-## 1.10.[^12] egyetért a gödi ipari-innovációs fejlesztési területhez kapcsolódó – 2. melléklet szerinti – víziközmű-hálózatokhoz kapcsolódó infrastruktúra-fejlesztéssel összefüggő feladatok elvégzésével, valamint a megvalósításukhoz szükséges 32 251 248 371 forint biztosításával;
+## 1.10.[^12] egyetért a gödi ipari-innovációs fejlesztési területhez kapcsolódó – 2. melléklet szerinti – víziközmű-hálózatokhoz kapcsolódó infrastruktúra-fejlesztéssel összefüggő feladatok elvégzésével, valamint a megvalósításukhoz szükséges 34 457 520 892 forint biztosításával;
 
 ## 1.10a.[^13] felhívja a pénzügyminisztert, hogy az energiaügyi miniszter bevonásával az 1.10. alpontban foglalt fejlesztések komplex előkészítése, megvalósítása és az ezekkel összefüggő feladatok elvégzése érdekében gondoskodjon az 1.10. alpontban foglalt feladat ellátására szolgáló előirányzat javára
 
@@ -104,7 +104,7 @@
 
 ## e) a 2024. évben 4 097 518 606 forint,
 
-## f) a 2025. évben 958 874 347 forint
+## f)[^14] a 2025. évben 3 165 146 868 forint
 
 ## forrás biztosításáról;
 
@@ -112,11 +112,11 @@
 
 | Határidő: | az a)–c) pont tekintetében azonnal a d) és e) pont tekintetében a felmerülés ütemében az f) pont tekintetében a 2025. évi központi költségvetés tervezése során |
 
-## 1.11. [^14]
+## 1.11. [^15]
 
-## 1.11a. [^15]
+## 1.11a. [^16]
 
-## 1.12. [^16] egyetért azzal, hogy az 1.10. alpont szerinti feladat megvalósítása érdekében az innovációért és technológiáért felelős miniszter támogatási szerződést kössön a DMRV Duna Menti Regionális Vízmű Zártkörűen Működő Részvénytársasággal (a továbbiakban: DMRV Zrt.) és az NFP Nonprofit Kft.-vel mint Kedvezményezettekkel;
+## 1.12. [^17] egyetért azzal, hogy az 1.10. alpont szerinti feladat megvalósítása érdekében az innovációért és technológiáért felelős miniszter támogatási szerződést kössön a DMRV Duna Menti Regionális Vízmű Zártkörűen Működő Részvénytársasággal (a továbbiakban: DMRV Zrt.) és az NFP Nonprofit Kft.-vel mint Kedvezményezettekkel;
 
 ## Felelős: innovációért és technológiáért felelős miniszter
 
@@ -124,19 +124,19 @@
 
 ## Határidő: a forrás rendelkezésre állását követően azonnal
 
-## 1.13. [^17]
+## 1.13. [^18]
 
-## 1.14. [^18] felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság útján intézkedjen a víziközmű hálózatokhoz kapcsolódó infrastruktúra-fejlesztés keretében megvalósuló vagyonnövekmények állami tulajdonba kerülése és a DMRV Zrt. részére történő vagyonkezelésbe adása érdekében.
+## 1.14. [^19] felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság útján intézkedjen a víziközmű hálózatokhoz kapcsolódó infrastruktúra-fejlesztés keretében megvalósuló vagyonnövekmények állami tulajdonba kerülése és a DMRV Zrt. részére történő vagyonkezelésbe adása érdekében.
 
 ## Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 ## Határidő: a beruházás befejezését követően azonnal
 
-## 1.15. [^19] egyetért azzal, hogy az 1.10a. alpont e) pontjával összefüggésben további központi költségvetési többletforrás biztosítása nem szükséges.
+## 1.15. [^20] egyetért azzal, hogy az 1.10a. alpont e) pontjával összefüggésben további központi költségvetési többletforrás biztosítása nem szükséges.
 
-## 2.[^20]
+## 2.[^21]
 
-## 3.[^21]
+## 3.[^22]
 
 1. melléklet az 1173/2020. (IV. 22.) Korm. határozathoz
 
@@ -153,13 +153,14 @@ Közlekedési infrastruktúra-fejlesztéssel összefüggő feladatok
 [^9]: Az 1. pont 1.8. alpontja az 1633/2021. (IX. 14.) Korm. határozattal megállapított szöveg.
 [^10]: Az 1. pont 1.9. pontja az 1567/2022. (XI. 24.) Korm. határozat 4. pont d) pontja szerint módosított szöveg.
 [^11]: Az 1.9a. alpontot az 1567/2022. (XI. 24.) Korm. határozat 3. pontja iktatta be.
-[^12]: Az 1. pont 1.10. pontja az 1604/2023. (XII. 22.) Korm. határozat 1. pontjával megállapított szöveg.
+[^12]: Az 1. pont 1.10. pontja az 1604/2023. (XII. 22.) Korm. határozat 1. pontjával megállapított, az 1337/2024. (XI. 6.) Korm. határozat 3. pont a) alpontja szerint módosított szöveg.
 [^13]: Az 1. pont 1.10a. alpontját az 1080/2021. (II. 27.) Korm. határozat 5. pontja iktatta be, szövege az 1268/2024. (IX. 10.) Korm. határozat 1. pontjával megállapított szöveg.
-[^14]: Az 1. pont 1.11. alpontját az 1023/2022. (I. 27.) Korm. határozat 4. pont a) alpontja hatályon kívül helyezte.
-[^15]: Az 1. pont 1.11a. alpontját az 1080/2021. (II. 27.) Korm. határozat 7. pontja iktatta be, az 1023/2022. (I. 27.) Korm. határozat 4. pont a) alpontja hatályon kívül helyezte.
-[^16]: Az 1. pont 1.12. alpontja az 1821/2020. (XI. 18.) Korm. határozat 3. pontja szerint módosított szöveg.
-[^17]: Az 1. pont 1.13. alpontját az 1821/2020. (XI. 18.) Korm. határozat 4. pontja visszavonta.
-[^18]: Az 1. pont 1.14. alpontját az 1248/2020. (V. 20.) Korm. határozat 3. pontja iktatta be.
-[^19]: Az 1. pont 1.15. alpontját az 1291/2024. (IX. 19.) Korm. határozat 20. pontja iktatta be.
-[^20]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^21]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: Az 1. pont 1.10a. pont f) alpontja az 1337/2024. (XI. 6.) Korm. határozat 3. pont b) alpontja szerint módosított szöveg.
+[^15]: Az 1. pont 1.11. alpontját az 1023/2022. (I. 27.) Korm. határozat 4. pont a) alpontja hatályon kívül helyezte.
+[^16]: Az 1. pont 1.11a. alpontját az 1080/2021. (II. 27.) Korm. határozat 7. pontja iktatta be, az 1023/2022. (I. 27.) Korm. határozat 4. pont a) alpontja hatályon kívül helyezte.
+[^17]: Az 1. pont 1.12. alpontja az 1821/2020. (XI. 18.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^18]: Az 1. pont 1.13. alpontját az 1821/2020. (XI. 18.) Korm. határozat 4. pontja visszavonta.
+[^19]: Az 1. pont 1.14. alpontját az 1248/2020. (V. 20.) Korm. határozat 3. pontja iktatta be.
+[^20]: Az 1. pont 1.15. alpontját az 1291/2024. (IX. 19.) Korm. határozat 20. pontja iktatta be.
+[^21]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
