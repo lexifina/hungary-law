@@ -1,0 +1,9 @@
+|  | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P |
+
+| 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Megítélt OP támogatás (forint) | Hatályos forrásszerkezet | Változás (hatályoshoz viszonyítva) | Módosított forrásszerkezet | Projekt rövid bemutatása |
+
+| 2. | Az OP keretében finanszírozandó összeg (forint) | Az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés m) pontja alapján az OP hazai társfinanszírozáson felüli felhasználásával finanszírozandó összeg (forint) | Önerő | Módosítás előtti összköltség (forint) | Az OP keretében finanszírozandó összeg (forint) | Az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés m) pontja alapján az OP hazai társfinanszírozáson felüli felhasználásával finanszírozandó összeg (forint) | Önerő | Az OP keretében finanszírozandó összeg (forint) | Az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés m) pontja alapján az OP hazai társfinanszírozáson felüli felhasználásával finanszírozandó összeg (forint) | Önerő | Módosítást követő összköltség legfeljebb (forint) |
+
+| 3. | IKOP-2.1.0-15-2020-00055 | Vasúti infrastruktúra fejlesztési projektek előkészítése: Kőbánya felső–Rákos–Rákosliget rekonstrukciójának, kapacitásbővítésének, Rákos–Gyömrő szakaszon megállóhelyek, állomások létesítésének, felújításának, átépítésének; Budapest-Nyugati pu. vágányhálózat és bevezető szakaszok rekonstrukciójának előkészítése | ÉKM | 0 | 0 | 0 | 0 | 0 | 0 | +1 038 859 341 | 0 | 0 | 1 038 859 341 | 0 | 1 038 859 341 | Kőbánya felső – Rákosliget rekonstrukció és szűkkeresztmetszet-kiváltás, Kőbánya felső és Rákos állomás felújítása, Madárdomb és Strázsahegy megállóhelyek létesítése, Gyömrő állomás kapacitásbővítése, valamint Budapest-Nyugati pályaudvar vágányhálózata és bevezető szakaszainak rekonstrukciója projekt előkészítése. |
+
+2. melléklet az 1335/2024. (XI. 6.) Korm. határozathoz
