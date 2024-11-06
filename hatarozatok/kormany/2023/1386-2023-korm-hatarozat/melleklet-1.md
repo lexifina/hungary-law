@@ -28,7 +28,7 @@
 
 | Felelős: | Sándor-palota hivatalvezetője igazságügyi miniszter Miniszterelnökséget vezető miniszter honvédelmi miniszter belügyminiszter energiaügyi miniszter külgazdasági és külügyminiszter kultúráért és innovációért felelős miniszter gazdaságfejlesztési miniszter európai uniós ügyekért felelős miniszter a miniszterelnök általános helyettese |
 
-| Határidő: | 2024. június 30., a Bethlen Gábor Alap fejezet javára biztosított 3 206 875 845 forint tekintetében 2025. június 30. |
+| Határidő: | 2024. június 30., a Bethlen Gábor Alap fejezet javára biztosított 3 206 875 845 forint tekintetében és a Gazdaságfejlesztési Minisztérium fejezet javára biztosított 1 000 500 000 forint tekintetében 2025. június 30. |
 
 ## 4. az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 82 230 095 829 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet L. Rezsivédelmi Alap fejezet terhére, a 3. melléklet szerint;
 
@@ -70,4 +70,4 @@
 
 1. melléklet az 1386/2023. (VIII. 31.) Korm. határozathoz
 
-[^1]: A 3. pont az 1127/2024. (V. 7.) Korm. határozat 5. pontja szerint módosított szöveg.
+[^1]: A 3. pont az 1127/2024. (V. 7.) Korm. határozat 5. pontja, az 1334/2024. (XI. 6.) Korm. határozat 2. pontja szerint módosított szöveg.
