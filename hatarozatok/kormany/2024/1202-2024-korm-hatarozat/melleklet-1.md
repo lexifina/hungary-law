@@ -1,4 +1,4 @@
-## 1. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 28 810 086 009 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2024. évi központi költségvetéséről szóló 2023. évi LV. törvény (a továbbiakban: Kvtv.) 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 7. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, az 1. melléklet szerint;
+## 1.[^1] az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 28 810 086 009 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2024. évi központi költségvetéséről szóló 2023. évi LV. törvény (a továbbiakban: Kvtv.) 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 7. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, az 1. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -10,7 +10,7 @@
 
 | Felelős: | Miniszterelnökséget vezető miniszter a miniszterelnök általános helyettese honvédelmi miniszter belügyminiszter építési és közlekedési miniszter külgazdasági és külügyminiszter kultúráért és innovációért felelős miniszter Miniszterelnöki Kabinetirodát vezető miniszter |
 
-| Határidő: | 2025. május 31. |
+| Határidő: | 2025. május 31., a Belügyminisztérium fejezet javára biztosított 1 000 000 000 forint tekintetében 2026. január 31. |
 
 ## 2. az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 369 958 413 273 forint egyszeri átcsoportosítását rendeli el, a 2. melléklet szerint;
 
@@ -51,3 +51,5 @@
 ## 8. engedélyezi – a Kvtv. 27. § (1) bekezdése alapján – a XXIII. Nemzetgazdasági Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 7. Turisztikai fejlesztési feladatok alcím kiadási előirányzatának megnövelését 2 348 904 794 forinttal.
 
 1. melléklet az 1202/2024. (VII. 8.) Korm. határozathoz
+
+[^1]: Az 1. pont az 1334/2024. (XI. 6.) Korm. határozat 4. pontja szerint módosított szöveg.
