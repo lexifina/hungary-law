@@ -2,7 +2,7 @@ A Kormány
 
 1. egyetért azzal, hogy a Puskás Aréna (korábbi elnevezéssel: új Puskás Ferenc Stadion) részeként megvalósuló Puskás Kiállítási Központot (a továbbiakban: Központ) – ideértve az ahhoz szükséges kiállítástervezési, kiállítási eszközök beszerzésére irányuló, valamint belsőépítészeti és kiállításkivitelezési feladatok ellátását is – a Puskás Aréna épületének véglegessé vált építési engedélye és kivitelezési tervei alapján a Közép- és Kelet-európai Történelem és Társadalom Kutatásáért Közalapítvány (a továbbiakban: Közalapítvány) valósítsa meg;
 
-2. egyetért azzal, hogy a Központ 2020. május 31-ig kezdje meg működését;
+2.[^1]
 
 3. egyetért azzal, hogy az 1. pont szerinti feladatokat a kiemelt budapesti fejlesztésekért és nemzetközi sportpályázatokért felelős kormánybiztos (a továbbiakban: kormánybiztos) irányítsa;
 
@@ -31,3 +31,5 @@ a b) alpont tekintetében a 2020. évi központi költségvetés tervezése sor�
 Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: a forrás rendelkezésre állását követően azonnal
+
+[^1]: A 2. pontot az 1334/2024. (XI. 6.) Korm. határozat 1. pont e) alpontja visszavonta.
