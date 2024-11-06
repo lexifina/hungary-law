@@ -20,7 +20,7 @@
 
 | Határidő: | a 2025. évi központi költségvetés tervezése során |
 
-1. melléklet az 1156/2024. (VI. 10.) Korm. határozathoz
+1. melléklet az 1156/2024. (VI. 10.) Korm. határozathoz[^1]
 
 | Projekt/Feladat | Megvalósító | 2024. évi összeg (forintban) | 2025. évi összeg (forintban) |
 
@@ -28,7 +28,7 @@
 
 | elektromos járműipar számára szakképzett munkaerő fejlesztése | IKK Innovatív Képzéstámogató Központ Zrt. | 55 000 000 | 55 000 000 |
 
-| okos töltési lehetőségek fejlesztése | Energiaügyi Minisztérium | 26 000 000 | 26 000 000 |
+| okos töltési lehetőségek fejlesztése | Budapesti Műszaki és Gazdaságtudományi Egyetem (Zéró Karbon Központ) | 26 000 000 | 26 000 000 |
 
 | kooperatív intelligens közlekedési rendszerek (C-ITS) fejlesztése | Magyar Közút Nonprofit Zrt. | 31 000 000 | 31 000 000 |
 
@@ -37,3 +37,5 @@
 | dekarbonizációs stratégiák fejlesztése a haszongépjárművek ágazatában II. | HUMDA Magyar Mobilitás-fejlesztési Ügynökség Zrt. | 64 600 000 | 64 600 000 |
 
 | akkumulátor életciklus-kezelő és nyomon követési rendszer fejlesztése | Magyar Akkumulátor Szövetség | 174 900 000 | 174 900 000 |
+
+[^1]: Az 1. melléklet az 1334/2024. (XI. 6.) Korm. határozat 3. pontja szerint módosított szöveg.
