@@ -30,18 +30,6 @@ rendelkezésre állásáról.
 
 | Határidő: | a feltételes közbeszerzési eljárás lezárását követően |
 
-5. A Magyarországi Zsidó Hitközségek Szövetsége Szeretetkórház fejlesztéséről, valamint az ehhez szükséges források biztosításáról szóló 2119/2017. (XII. 28.) Korm. határozat a következő 5. és 6. ponttal egészül ki:
+5.[^2]
 
-(A Kormány)
-
-„5. felhívja a pénzügyminisztert, hogy – a belügyminiszter bevonásával – gondoskodjon az 1. pont a) alpontjában foglalt cél megvalósítása érdekében a 2024. évben 2 800 000 000 forint többletforrás biztosításáról a Magyarország 2024. évi központi költségvetéséről szóló 2023. évi LV. törvény 1. melléklet XIV. Belügyminisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 33. Egészségügyi ágazati előirányzatok alcím, 1. Egészségügyi ellátási és fejlesztési feladatok jogcímcsoport javára;
-
-| Felelős: | pénzügyminiszter belügyminiszter |
-
-| Határidő: | azonnal |
-
-6. felhívja a belügyminisztert, hogy az 5. pontban foglalt forrás terhére a Magyarországi Zsidó Hitközségek Szövetsége részére az 1. pont a) alpontjában meghatározott célokra nyújtson az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 101/A. §-a szerinti vissza nem térítendő támogatást, és gondoskodjon a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatási jogviszony létrehozásáról.
-
-| Felelős: | belügyminiszter |
-
-| Határidő: | az 5. pont szerinti forrás rendelkezésre állását követően azonnal |
+[^2]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
