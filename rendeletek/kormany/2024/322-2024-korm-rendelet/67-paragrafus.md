@@ -1,0 +1,1 @@
+67. § Az egységes kormányzati ügyiratkezelő rendszerből történő irattovábbítás során az elektronikus irat hiteles papíralapú irattá alakítása esetén a szolgáltató a NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság részére is biztosítja a másolatkészítés során a technikai ellenőrzés lehetőségét.

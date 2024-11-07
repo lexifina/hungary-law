@@ -1,0 +1,1 @@
+72. § Az e-Űrlap szolgáltatást a digitális szolgáltatást biztosító szervezet mind ügyindításkor, mind az ügyintézés további lépéseiben igénybe veheti. A szolgáltató – jogszabály eltérő rendelkezése hiányában – külön megállapodás alapján ezt a szolgáltatást a digitális szolgáltatást biztosító szervezet által alkalmazott szakrendszerhez illesztve is nyújthatja.

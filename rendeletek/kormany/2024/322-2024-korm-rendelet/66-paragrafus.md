@@ -1,0 +1,1 @@
+66. § A szolgáltató automatikus másolatkészítést a digitális állampolgárság egyes szabályairól szóló kormányrendelet szabályain túl akkor alkalmazhat, ha a zárt rendszer tekintetében az eredeti és a másolat összerendelését tekintve garantáltan hibamentes működését auditálás igazolja.

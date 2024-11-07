@@ -1,0 +1,1 @@
+87. § A hangképzés szolgáltatás keretében a kijelölt szolgáltató biztosítja a felhasználó által elektronikus formában megfogalmazott szöveg, valamint egyéb, gépi úton feldolgozható szöveg mesterséges intelligencia segítségével hangalapú beszéddé alakítását, az írott szöveg felolvasását lehetővé teszi.

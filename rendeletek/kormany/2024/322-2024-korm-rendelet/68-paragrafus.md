@@ -1,0 +1,3 @@
+68. § (1) A szolgáltató ÁSZF-ben vagy szolgáltatási szabályzatában köteles rögzíteni az elektronikus dokumentum átvételének, a másolatkészítésnek a rendjét, valamint a másolatkészítés teljesítésének feltételeit. A másolatkészítés vállalt határideje legfeljebb 1 munkanap lehet, és – ha az elektronikus irat hiteles papíralapú irattá alakítását megrendelő digitális szolgáltatást biztosító szervezet vagy felhasználó a papíralapú másolat postai küldeményként való feladását igényli – a szolgáltatónak a papíralapú másolatot az elkészítését követő munkanapon postára kell adnia.
+
+(2) A szolgáltató ÁSZF-ben, illetve a digitális szolgáltatást biztosító szervezettel kötött megállapodásában szabályozza a másolatkészítésre átvett elektronikus dokumentumokkal kapcsolatos teendőit.

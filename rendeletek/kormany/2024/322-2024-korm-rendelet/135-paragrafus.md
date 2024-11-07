@@ -1,0 +1,1 @@
+135. § Az azonos épületben található valamennyi lépcsőházat – amennyiben az épületben egynél több lépcsőház van – egy, a házszámtól és az épület jelétől szóközzel elválasztott, nem ékezetes egytagú nagybetűs azonosítóval kell ellátni A–Z-ig, ábécésorrendben, és ahhoz az „lph.” toldalékot kell kapcsolni.

@@ -1,0 +1,1 @@
+141. § A Felügyelet a bizalmi szolgáltatásnak is minősülő szolgáltatások nyilvántartásba vétele, felügyelete és ellenőrzése tekintetében együttműködik a Dáptv. 95. § (1) bekezdése szerinti bizalmi felügyelettel. A Felügyelet nem vizsgálja a szolgáltatásnak a bizalmi szolgáltatásokra vonatkozó jogszabályoknak való megfelelőségét.

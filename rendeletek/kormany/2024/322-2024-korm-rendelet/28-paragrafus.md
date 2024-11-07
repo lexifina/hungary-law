@@ -1,0 +1,1 @@
+28. § A digitális állampolgárság szolgáltató a keretalkalmazásra és a keretszolgáltatásokra vonatkozó ÁSZF módosításáról annak hatálybalépését legalább 10 munkanappal megelőzően a dap.gov.hu honlapon és a keretalkalmazáson keresztül vagy elektronikus levelezési címén tájékoztatja a felhasználót. Az ÁSZF módosításának elfogadása ráutaló magatartással történik.

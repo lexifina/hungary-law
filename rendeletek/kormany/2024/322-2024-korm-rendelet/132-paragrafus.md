@@ -1,0 +1,11 @@
+132. § (1) Ha a címképzés tárgyát képező ingatlan közterületről közvetlenül nem, csak másik telken keresztül közelíthető meg, a címkeletkeztetés szempontjából úgy kell tekinteni, mintha megközelíthető lenne közterületről is. Ebben az esetben az ingatlan címében közterületnévként annak a közterületnek a nevét kell feltüntetni, amelyhez az ingatlan megközelítését szolgáló telek csatlakozik. Ha a közterülettel való kapcsolatot több telek biztosítja, akkor az ingatlanhoz közelebb eső közterülethez megközelítést biztosító telek címében feltüntetett közterületnevet kell a címképzés során figyelembe venni.
+
+(2) Ha a címképzés tárgyát képező ingatlan csak magánútról közelíthető meg, annak elnevezésére vonatkozóan a helyi önkormányzati rendeletben foglalt szabályok az irányadók.
+
+(3) Az (1) bekezdésben foglaltak szerint megközelíthető, azonban elkülönülten, megjelenését tekintve szigetszerűen elhelyezkedő külterületi ingatlan – különösen tanya – esetén a címet elsősorban a tulajdonos által javasolt elnevezés szerint kell megállapítani.
+
+(4) Ha a (3) bekezdésben foglalt ingatlan elnevezésére a tulajdonos a címképzésért felelős szerv legalább kétszeri felhívására sem tesz javaslatot, vagy az általa tett javaslat az (5) bekezdésben foglaltaknak nem felel meg, akkor a címképzésért felelős szerv az önkormányzati képviselő-testület döntésének megfelelő elnevezést jegyzi be a központi címregiszterbe.
+
+(5) A tulajdonos elnevezésre irányuló javaslatát el kell fogadni, ha az elnevezés a tulajdonos vezetékneve szerepeltetésére irányul és a település közigazgatási területén nincsen másik külterületi ingatlan ugyanezzel a névvel. Minden más esetben a tulajdonos által javasolt elnevezés akkor fogadható el, ha az az adott ingatlan pontos beazonosítását lehetővé teszi és a javasolt elnevezés nem sérti a közízlést, nem kelt megbotránkozást, nem félrevezető és a magyar nyelv helyesírási szabályainak is megfelel.
+
+(6) Egy településhez tartozó közigazgatási területen belül nem lehet több külterületi ingatlant azonos névvel elnevezni. Ha a tulajdonos által javasolt elnevezés már egy másik ingatlan neve, a címképzésért felelős szerv megkülönböztetésre alkalmas jelölést javasol a tulajdonosnak.

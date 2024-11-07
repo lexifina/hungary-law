@@ -1,0 +1,3 @@
+131. § (1) Az üres telken létesített új épület, pince vagy önálló rendeltetési egység esetén a címképzésért felelős szerv az e rendeletben meghatározottaknak megfelelően képezi az adott ingatlanra vonatkozó, a 126. § (1) bekezdés a)–i) pontjában meghatározott címelemeket és rögzíti az épület elhelyezkedésének azonosítására szolgáló címkoordinátával együtt.
+
+(2) Ha olyan telken létesül új épület, pince vagy önálló rendeltetési egység, amelyen már korábban a címképzés hatálya alá tartozó épület, pince vagy önálló rendeltetési egység volt, vagy egy időben létesül több új épület, pince, önálló rendeltetési egység, akkor valamennyi meglévő és új épületnek, pincének vagy önálló rendeltetési egységnek címmel kell rendelkeznie, vagy címet kell neki képezni.
