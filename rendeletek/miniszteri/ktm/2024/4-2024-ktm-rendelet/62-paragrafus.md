@@ -1,3 +1,3 @@
-62. § (1) A mezőgazdasági termékek feldolgozásával vagy forgalmazásával foglalkozó vállalkozások számára a 61. § (1) bekezdése szerinti maximális támogatástartalommal nyújtható támogatás, ha a támogatás mértéke nem függ a mezőgazdasági termék elsődleges termelője részére történő teljes vagy részleges átadásától, és a támogatás mértékét nem az elsődleges termelőktől beszerzett vagy az érintett vállalkozások által forgalomba hozott termékek ára vagy mennyisége alapján határozzák meg.
+62. §[^15]
 
-(2) A mezőgazdasági termékek feldolgozásával vagy forgalmazásával foglalkozó vállalkozások számára nyújtott támogatás mértéke az (1) bekezdéstől eltérően meghatározható az elsődleges termelőktől beszerzett vagy az elsődleges termelők által forgalomba hozott termékek ára vagy mennyisége alapján, ha a kérdéses termékeket az elsődleges termelő nem élelmiszeripari célokra vagy egyáltalán nem hozta volna forgalomba.
+[^15]: A 62. §-t a 12/2024. (XI. 6.) KTM rendelet 11. § c) pontja hatályon kívül helyezte.

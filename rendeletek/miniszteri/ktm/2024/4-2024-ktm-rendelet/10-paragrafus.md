@@ -10,6 +10,8 @@
 
 (3) A támogatást nyújtó a kedvezményezett részére az (EU) 2023/2831 bizottsági rendelet 7. cikk (4) bekezdésével összhangban igazolást állít ki a támogatás összegéről bruttó támogatási egyenértékben kifejezve, és annak csekély összegű jellegéről, közvetlenül utalva az (EU) 2023/2831 bizottsági rendeletre.
 
-(4) A támogatás más csekély összegű támogatásokról szóló rendeleteknek megfelelően nyújtott csekély összegű támogatással a vonatkozó bizottsági rendeletekben foglalt felső támogatási határok közül a legmagasabb felső határig halmozható.
+(4)[^6] A támogatás – az (EU) 2023/2832 bizottsági rendelet alapján nyújtott támogatás kivételével – más csekély összegű támogatásról szóló rendelet alapján nyújtott csekély összegű támogatással az (1) bekezdésben meghatározott értékhatárig halmozható.
 
 (5) A támogatás halmozható azonos elszámolható költségek vagy azonos kockázatfinanszírozási célú intézkedés vonatkozásában nyújtott állami támogatással, ha a halmozás következtében az odaítélt támogatások nem lépik túl a csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitást vagy összeget.
+
+[^6]: A 10. § (4) bekezdése a 12/2024. (XI. 6.) KTM rendelet 4. §-ával megállapított szöveg.

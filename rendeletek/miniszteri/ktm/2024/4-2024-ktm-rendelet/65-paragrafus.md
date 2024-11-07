@@ -21,3 +21,8 @@ e) az Európai Unió működéséről szóló szerződés 106. cikke (2) bekezd�
 f) az „Az állami támogatásokra vonatkozó, az Ukrajna elleni orosz agresszióval összefüggésben a gazdaság támogatását célzó ideiglenes válság- és átállási keret” című, 2023. március 17-i, 2023/C 101/03. számú európai bizottsági közlemény 2.1. szakasza
 
 hatálya alá tartozó támogatást tartalmaz.
+
+(4)[^18] E rendeletnek a fejezeti kezelésű előirányzatok és a központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 4/2024. (IV. 11.) KTM rendelet módosításáról szóló 12/2024. (XI. 6.) KTM rendelettel (a továbbiakban: Módr1.) megállapított 6. §-át, az 1. mellékletében foglalt táblázat G:3, G:4 és G:8 mezőjét, valamint az 1. mellékletében foglalt táblázat 9a. sorát a Módr1. hatálybalépése[^19] napján folyamatban lévő ügyekben is alkalmazni kell.
+
+[^18]: A 65. § (4) bekezdését a 12/2024. (XI. 6.) KTM rendelet 8. §-a iktatta be.
+[^19]: A hatálybalépés időpontja 2024. november 7.
