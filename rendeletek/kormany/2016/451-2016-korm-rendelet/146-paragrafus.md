@@ -1,5 +1,0 @@
-## VI. Fejezet
-
-## AZ ELEKTRONIKUS ÜGYINTÉZÉST BIZTOSÍTÓ, VALAMINT EGYÉB SZERVEK INFORMATIKAI EGYÜTTMŰKÖDÉSÉVEL KAPCSOLATOS RENDELKEZÉSEK
-
-## 32. Együttműködésre kijelölt közfeladatot ellátó szervek

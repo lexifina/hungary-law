@@ -1,5 +1,0 @@
-106. § (1) A 104. § (1) bekezdése szerinti adatokat az EFER működtetője az EFER útján ellenőrzi. Ha az adatokban hibát, eltérést észlel – ideértve, ha az átutalandó főösszeg számszakilag nem egyezik meg a jogcímek szerinti részösszegek összegével –, akkor az adatokat a hiba, eltérés megjelölésével visszaküldi a csatlakozott szervezetnek. A hiba kijavítása, az eltérés megszüntetése után a csatlakozott szervezet a 104. § (1) bekezdése szerinti adatokat adja át az EFER részére.
-
-(2)[^148] A fizetési ígérvényben szereplő adatokat az EFER működtetője az EFER útján ellenőrzi. Ha az adatokban hibát, eltérést észlel – ideértve, ha az átutalandó főösszeg számszakilag nem egyezik meg a jogcímek szerinti részösszegek összegével –, akkor az adatokat a hiba, eltérés megjelölésével visszaküldi a fizetési megoldás szolgáltatónak. A hiba kijavítása, az eltérés megszüntetése után a fizetési megoldás szolgáltató a 105. § (1) bekezdése szerinti adatokat adja át az EFER részére.
-
-[^148]: A 106. § (2) bekezdése a 176/2019. (VII. 18.) Korm. rendelet 11. § (12) bekezdés f) pontja, a 6/2020. (I. 31.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.

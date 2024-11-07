@@ -1,1 +1,0 @@
-## 154/B. § A tárhelyszolgáltató a központi tárhely használatára kötelezettek és adatmegismerésre jogosultak számára az adatokhoz való hozzáférést az általa üzemeltetett jogosultági rendszeren keresztül biztosítja.
