@@ -106,4 +106,6 @@ bk) Temerini Ferenc, Soltvadkert Város polgármestere,
 
 bl) Dr. Vántsa Botond, Szigetszentmiklós Város Önkormányzatának képviselője.
 
-3. A Kormány visszavonja az Európai Unió Régiók Bizottsága Nemzeti Delegáció tagjainak és póttagjainak jelöléséről szóló 1791/2019. (XII. 23.) Korm. határozatot.
+3.[^1]
+
+[^1]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
