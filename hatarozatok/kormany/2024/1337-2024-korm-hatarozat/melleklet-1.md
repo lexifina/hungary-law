@@ -60,32 +60,17 @@
 
 | Határidő: | a k) alpont szerinti forrás rendelkezésre állását követően azonnal |
 
-## 2. A Térségi fejlesztési feladatokhoz szükséges kötelezettségvállalásokról szóló 1023/2022. (I. 27.) Korm. határozat [a továbbiakban: 1023/2022. (I. 27.) Korm. határozat] 1. melléklete a 2. melléklet szerint módosul.
+## 2.[^1]
 
-## 3. A Gazdaságvédelmi Akcióterv keretében a gödi ipari-innovációs fejlesztési terület infrastruktúra-fejlesztéseiről szóló 1173/2020. (IV. 22.) Korm. határozat
+## 3.[^2]
 
-## a) 1. pont 1.10. alpontjában a „32 251 248 371” szövegrész helyébe a „34 457 520 892” szöveg,
+## 4.[^3]
 
-## b) 1. pont 1.10a. alpont f) pontjában a „958 874 347” szövegrész helyébe a „3 165 146 868” szöveg
-
-## lép.
-
-## 4. Az iváncsai ipari-innovációs fejlesztési terület kialakításával összefüggő vízgazdálkodási és víziközmű infrastruktúra-fejlesztések megvalósításához szükséges intézkedésekről szóló 1384/2021. (VI. 15.) Korm. határozat
-
-## a) 3. pont a) alpontjában a „37 410 696 000” szövegrész helyébe a „39 568 478 456” szöveg,
-
-## b) 3. pont ad) alpontjában a „4 338 320 181” szövegrész helyébe a „6 496 102 637” szöveg
-
-## lép.
-
-## 5. A Tatabánya–Oroszlány–Tata és térsége víziközmű-hálózatának komplex előkészítése, fejlesztése, hatékonyságának növelése és rekonstrukciója megvalósításához szükséges intézkedésekről szóló 1558/2021. (VIII. 5.) Korm. határozat
-
-## a) 2. pontjában a „72 662 976 802” szövegrész helyébe a „75 351 684 163” szöveg,
-
-## b) 3. pont e) alpontjában a „2 503 301 080” szövegrész helyébe a „3 979 965 928” szöveg,
-
-## c) 4. pont b) alpontjában a „12 939 641 015” szövegrész helyébe a „14 151 683 528” szöveg
-
-## lép.
+## 5.[^4]
 
 1. melléklet az 1337/2024. (XI. 6.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

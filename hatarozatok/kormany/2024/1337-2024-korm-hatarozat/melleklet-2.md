@@ -40,30 +40,6 @@
 
 | 15. | Szentháromság téri beruházás (tervezés és kivitelezés) | 10 037 832 603 |
 
-2. melléklet az 1337/2024. (XI. 6.) Korm. határozathoz
+2. melléklet az 1337/2024. (XI. 6.) Korm. határozathoz[^5]
 
-1. Az 1023/2022. (I. 27.) Korm. határozat 1. mellékletében foglalt táblázat 2. sora helyébe a következő rendelkezés lép:
-
-|  | [A | B | C | D | E | F | G | H | I | J |
-
-| 1. | Kapcsolódó kormányhatározat | 2021. évi költségvetési év (nettó forint) | 2022. évi költségvetési év (nettó forint) | 2023. évi költségvetési év (nettó forint) | 2024. évi költségvetési év (nettó forint) | 2025. évi költségvetési év (nettó forint) | 2026. évi költségvetési év (nettó forint) | 2027. évi költségvetési év (nettó forint) | 2028. évi költségvetési év (nettó forint) | Összesen (nettó forint)] |
-
-## „
-
-| 2. | 1173/2020. (IV. 22.) Korm. határozat | 12 481 560 388 | 6 382 140 000 | 19 707 306 259 | 17 105 061 570 | 8 708 248 918 | 0 | 0 | 0 | 64 384 317 135 |
-
-## ”
-
-2. Az 1023/2022. (I. 27.) Korm. határozat 1. mellékletében foglalt táblázat 6. és 7. sora helyébe a következő rendelkezések lépnek:
-
-|  | [A | B | C | D | E | F | G | H | I | J |
-
-| 1. | Kapcsolódó kormányhatározat | 2021. évi költségvetési év (nettó forint) | 2022. évi költségvetési év (nettó forint) | 2023. évi költségvetési év (nettó forint) | 2024. évi költségvetési év (nettó forint) | 2025. évi költségvetési év (nettó forint) | 2026. évi költségvetési év (nettó forint) | 2027. évi költségvetési év (nettó forint) | 2028. évi költségvetési év (nettó forint) | Összesen (nettó forint)] |
-
-„
-
-| 6. | 1384/2021. (VI. 15.) Korm. határozat | 6 522 000 000 | 5 364 057 867 | 11 806 327 531 | 9 363 562 447 | 6 492 540 718 | 0 | 0 | 0 | 39 548 488 563 |
-
-| 7. | 1558/2021. (VIII. 5.) Korm. határozat | 15 317 666 511 | 2 733 954 575 | 15 266 798 471 | 15 769 107 796 | 18 120 776 990 | 5 400 000 000 | 2 700 000 000 | 0 | 75 308 304 343 |
-
-”
+[^5]: A 2. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
