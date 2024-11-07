@@ -18,8 +18,6 @@ c) felhívja a pénzügyminisztert, hogy a 2025. évtől beépülő jelleggel go
 
 | Határidő: | a 2025. évtől a központi költségvetés tervezése során |
 
-2. A Kormány visszavonja
+2.[^1]
 
-a) a nyílt szabványokra épülő, illetve nyílt forráskódú szoftverek közszférában történő elterjesztéséhez szükséges intézkedésekről szóló 1236/2016. (V. 13.) Korm. határozatot, valamint
-
-b) a nyílt forráskódú szoftverek közszférában történő elterjesztéséről, valamint a nyílt szabványokra épülő, illetve nyílt forráskódú szoftverek közszférában történő elterjesztéséhez szükséges intézkedésekről szóló 1236/2016. (V. 13.) Korm. határozat végrehajtásából adódó egyes feladatokról szóló 1604/2016. (XI. 8.) Korm. határozatot.
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
