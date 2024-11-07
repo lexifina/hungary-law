@@ -1,5 +1,3 @@
-## 6. § E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
-
 1. melléklet a 257/2020. (VI. 3.) Korm. rendelethez
 
 A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
