@@ -1,0 +1,3 @@
+11. § (1) Az e rendeletben szereplő elektronikus ügyintézési szolgáltatások nyújtásához szükséges informatikai infrastruktúra környezetet – a (2) bekezdésben meghatározott kivétellel – a NISZ Zrt. a Kormányzati Adatközpontban, a Kormányzati Adatközpont működéséről szóló 467/2017. (XII. 28.) Korm. rendeletben előírtak szerint működteti.
+
+(2) A 6. § 9. és 10. pontja vonatkozásában a Magyar Posta Zrt., valamint a 13. §-ban, a 8. § (1) bekezdés a) pontjában meghatározott szervezetek a rendelet szerinti kijelölésük alapján kötelezően ellátandó elektronikus ügyintézési szolgáltatásokat – a 8. § (1) bekezdés a) pontja esetében az érintett szervezetek útján – saját infrastruktúra környezetükben biztosítják.

@@ -1,0 +1,3 @@
+## 15. Az eDelivery hozzáférési pont és közvetítő platform szolgáltatója, a technikai támogatásért felelős egyedüli kapcsolattartó pont feladatait ellátó szerv
+
+23. § A digitális szolgáltatások, a digitális állampolgárság szolgáltatások és támogató szolgáltatások részletes műszaki követelményeiről szóló kormányrendelet szerinti hazai eDelivery hozzáférési pontot és hazai közvetítő platformot, az (EU) 2022/1463 bizottsági végrehajtási rendelet 21. cikke szerinti technikai támogatásért felelős egyedüli kapcsolattartó pontként a személyre szabott ügyintézési felület szolgáltatás tekintetében kijelölt szolgáltató biztosítja.
