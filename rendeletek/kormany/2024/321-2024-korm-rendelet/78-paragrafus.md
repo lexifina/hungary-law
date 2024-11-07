@@ -1,0 +1,3 @@
+78. § (1) Ha e rendelet hatálybalépésekor a felhasználó nem rendelkezett a Kormány által kötelezően biztosítandó azonosítási szolgáltatáshoz kapcsolódóan tárhellyel, a tárhelyhez kapcsolódó értesítésekhez címezhető elektronikus levelezési cím megegyezik a 4. § szerint megadott elektronikus levelezési címmel. Az e bekezdés szerinti elektronikus levelezési címet a felhasználó megváltoztathatja.
+
+(2) Amennyiben a felhasználó a Dáptv. 46. § (1) bekezdés a) és b) pontja alapján is jogosult a Dáptv. 46. § (5) bekezdése szerinti tárhely használatára, számára a tárhelyet a 9. § szerint kell biztosítani.

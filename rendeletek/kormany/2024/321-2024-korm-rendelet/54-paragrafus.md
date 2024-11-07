@@ -1,0 +1,1 @@
+54. § A digitális szolgáltatást biztosító szervezet – amennyiben automatikus döntéshozatallal érintett – a személyre szabott ügyintézési felületen, valamint a Dáptv. 20. § c) pontja szerinti elektronikus út biztosítása esetén alkalmazott ügyintézési felületen közzéteszi az automatikus döntéshozatali eljárás módszertanát és lényeges szabályait.

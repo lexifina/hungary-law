@@ -1,0 +1,1 @@
+A Kormány a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 113. § (1) bekezdés 1., 5–7., 10., 13., 14., 16., 19. és 24. pontjában, 113. § (2) bekezdés 2–4. és 8. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
