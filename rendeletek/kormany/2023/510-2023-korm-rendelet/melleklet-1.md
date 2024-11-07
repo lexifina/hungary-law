@@ -76,7 +76,7 @@ b) Új építésű fürdő esetén minden WC-csoporthoz zuhanyozócsoportot kell
 
 2.5. Az 1-es típusú közhasználatú fürdő és a 6 fő befogadóképességet meghaladó medencés jellegű fürdési célú létesítménnyel rendelkező 2/a típusú közhasználatú fürdő biztonsági előírásai:
 
-2.5.1. Nyitvatartási időben a fürdési célú létesítmény mellett legalább egy felügyelő személy 1-es és 2/a típusú közhasználatú fürdőben fokozott felügyelete, folyamatos jelenléte kötelező. A 2/a típusú közhasználatú fürdőben 12 főt meg nem haladó befogadóképességű fürdési célú létesítmény mellett a felügyelet általános felügyeletre csökkenthető. Egy személy több fürdési célú létesítményt is felügyelhet, amennyiben a létesítmények összes vízfelületének nagysága nem éri el az 1000 m2-t, továbbá a közöttük lévő távolság nem haladja meg a 10 métert, és egyidejűleg akadálytalanul beláthatók.
+2.5.1.[^2] Nyitvatartási időben a fürdési célú létesítmény mellett legalább egy felügyelő személy 1-es és 2/a típusú közhasználatú fürdőben fokozott felügyelete, folyamatos jelenléte kötelező. A 2/a típusú közhasználatú fürdőben − amennyiben az egyes fürdési célú létesítmények összesített megengedett egyidejű legnagyobb terhelhetősége nem haladja meg a 60 főt − a 20 főt meg nem haladó befogadóképességű fürdési célú létesítmény mellett a felügyelet általános felügyeletre csökkenthető. Egy személy több fürdési célú létesítményt is felügyelhet, amennyiben a létesítmények összes vízfelületének nagysága nem éri el az 1000 m2-t, továbbá a közöttük lévő távolság nem haladja meg a 10 métert, és egyidejűleg akadálytalanul beláthatók.
 
 2.5.2. Amennyiben a fürdési célú létesítmény vízfelülete meghaladja az 1000 m2-t, vagy a fürdési célú létesítmény vízfelülete kisebb, mint 1000 m2, de a felügyelő személyzet által nem átlátható, további felügyelő személyt, személyeket kell a fürdési célú létesítmény mellett alkalmazni.
 
@@ -123,3 +123,5 @@ h) AED (automata külső defibrillátor – 1 db, 1-1 felnőtt- és gyermek-elek
 2.6.1. Egyéb közhasználatú fürdő biztonsági előírásait az üzemeltetőnek a balesetveszély elkerülését figyelembe véve kell meghatároznia, és a közegészségügyi technológiai szabályzatban és a házirendben kell rögzítenie.
 
 2.6.2. Amennyiben fokozott sérülésveszély áll fenn, az illetékes egészségügyi államigazgatási szerv előírása szerinti elsősegélynyújtó hely és mentőláda biztosítása kötelező.
+
+[^2]: Az 1. melléklet 2. pont 2.5. alpont 2.5.1. pontja a 317/2024. (XI. 6.) Korm. rendelet 1. §-ával megállapított szöveg.
