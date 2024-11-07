@@ -40,4 +40,6 @@ g) a 2030. évre az Előirányzat felhasználási céljával azonos célú elői
 
 | Határidő: | első alkalommal 2024. december 31., azt követően évente december 31. |
 
-6. visszavonja a horgászati célú Nemzeti Halgazdálkodási és Horgászati Stratégiáról és az Országos Horgászati Hálózati Programról szóló 1526/2016. (IX. 29.) Korm. határozatot.
+6.[^1]
+
+[^1]: A 6. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
