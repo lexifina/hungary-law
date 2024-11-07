@@ -30,13 +30,15 @@
 
 | 12. | KEHOP Plusz-4.1.5 | Távhőszektor energetikai korszerűsítése (KA, szakaszolt) | 1,50 | kiemelt | 2024. II. negyedév[^16] |
 
-| 13.[^17] |  |  |  |  |  |
+| 13.[^17] | KEHOP Plusz-4.1.7 | Otthonfelújítási Program (Lakossági energiahatékonysági beruházások megvalósításához) (ERFA) | 66,82 | pénzügyi eszköz (kombinált) | 2024. IV. negyedév |
 
-| 14. | KEHOP Plusz-4.2.2 | Helyi hő- és hűtési igény kielégítése megújuló energiaforrásokkal (ERFA, szakaszolt) | 0,27 | sztenderd | 2024. II. negyedév[^18] |
+| 13a.[^18] | KEHOP Plusz-4.1.8 | Otthonfelújítási Program (Lakossági energiahatékonysági beruházások megvalósításához) (KA) | 6,19 | pénzügyi eszköz (kombinált) | 2024. IV. negyedév |
 
-| 15. | KEHOP Plusz-4.3.11 | Villamosenergiahálózat-fejlesztés | 169,97 | kiemelt | 2024. IV. negyedév[^19] |
+| 14. | KEHOP Plusz-4.2.2 | Helyi hő- és hűtési igény kielégítése megújuló energiaforrásokkal (ERFA, szakaszolt) | 0,27 | sztenderd | 2024. II. negyedév[^19] |
 
-2. melléklet az 1527/2023. (XII. 1.) Korm. határozathoz[^20]
+| 15. | KEHOP Plusz-4.3.11 | Villamosenergiahálózat-fejlesztés | 169,97 | kiemelt | 2024. IV. negyedév[^20] |
+
+2. melléklet az 1527/2023. (XII. 1.) Korm. határozathoz[^21]
 
 |  | A | B | C | D | E | F | G |
 
@@ -138,15 +140,15 @@
 
 | 48. | KEHOP Plusz-2.1.10 | Nyugat- és Dél-Dunántúli szennyvízelvezetési és -kezelési fejlesztés 8. (NYDDU 8) | Egyházashetye Község Önkormányzata, Boba Község Önkormányzata, Nemeskocs Község Önkormányzata, Káld Község Önkormányzata, Borgáta Község Önkormányzata, Köcsk Község Önkormányzata, Gellénháza Község Önkormányzata, Alsóújlak Község Önkormányzata és Vasvár Város Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet, valamint a 362/2022. (IX. 19.) Korm. rendelet szerint | 0,04 | 0,01 | 2024. II. negyedév | A beruházás keretében az érintett 2000 lakosegyenérték- terhelést meghaladó kibocsátású szennyvízelvezetési agglomeráció megfelelő szennyvízkezelésének feltételei teljesülnek, annak érdekében, hogy a szennyvízközművel való lefedettség megközelítse a közműves ivóvízzel ellátott fogyasztók csaknem 100%-át. A projekttel szembeni szakmai elvárás, hogy Magyarország megfeleljen az uniós jogi követelményeknek a kijelölt határidőig. |
 
-| 49.[^21] |  |  |  |  |  |  |  |
+| 49.[^22] |  |  |  |  |  |  |  |
 
-| 50.[^22] |  |  |  |  |  |  |  |
+| 50.[^23] |  |  |  |  |  |  |  |
 
 | 51. | KEHOP Plusz-2.1.10 | Budapest Főváros és Pilisborosjenő Község Önkormányzatai közös derogációs szennyvíz-elvezetési projektje | Budapest Főváros Önkormányzata, Pilisborosjenő Község Önkormányzata és Üröm Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet, valamint a 362/2022. (IX. 19.) Korm. rendelet szerint | 0,26 | 0,05 | 2024. II. negyedév | A beruházás keretében az érintett 2000 lakosegyenérték- terhelést meghaladó kibocsátású szennyvízelvezetési agglomeráció megfelelő szennyvízkezelésének feltételei teljesülnek annak érdekében, hogy a szennyvízközművel való lefedettség megközelítse a közműves ivóvízzel ellátott fogyasztók csaknem 100%-át. A projekttel szembeni szakmai elvárás, hogy Magyarország megfeleljen az uniós jogi követelményeknek a kijelölt határidőig. |
 
 | 52. | KEHOP Plusz-2.1.10 | Ceglédi szennyvíztisztító telep korszerűsítése, fejlesztése | Cegléd Város Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet, valamint a 362/2022. (IX. 19.) Korm. rendelet szerint | 0,56 | 0,07 | 2024. II. negyedév | A beruházás keretében az érintett 2000 lakosegyenérték- terhelést meghaladó kibocsátású szennyvízelvezetési agglomeráció megfelelő szennyvízkezelésének feltételei teljesülnek, annak érdekében, hogy a szennyvízközművel való lefedettség megközelítse a közműves ivóvízzel ellátott fogyasztók csaknem 100%-át. A projekttel szembeni szakmai elvárás, hogy Magyarország megfeleljen az uniós jogi követelményeknek a kijelölt határidőig. A beruházás keretében korszerűsítik és fejlesztik Cegléd város szennyvíztisztító telepét. |
 
-| 53.[^23] |  |  |  |  |  |  |  |
+| 53.[^24] |  |  |  |  |  |  |  |
 
 | 54. | KEHOP Plusz-2.1.10 | Göd-Nevelek szennyvízelvezetése | DMRV Duna Menti Regionális Vízmű Zártkörűen Működő Részvénytársaság a 339/2014. (XII. 19.) Korm. rendelet, valamint a 362/2022. (IX. 19.) Korm. rendelet szerint | 0,04 | 0,01 | 2024. II. negyedév | A beruházás keretében az érintett 2000 lakosegyenérték- terhelést meghaladó kibocsátású szennyvízelvezetési agglomeráció megfelelő szennyvízkezelésének feltételei teljesülnek, annak érdekében, hogy a szennyvízközművel való lefedettség megközelítse a közműves ivóvízzel ellátott fogyasztók csaknem 100%-át. A projekttel szembeni szakmai elvárás, hogy Magyarország megfeleljen az uniós jogi követelményeknek a kijelölt határidőig. A beruházás keretében kiépítik Göd város Nevelek településrészének szennyvízelvezető rendszerét. |
 
@@ -164,7 +166,7 @@
 
 | 61. | KEHOP Plusz-2.1.20 | Szegedi Fegyház és Börtön III. Objektum, Nagyfa ivóvízminőség-javító projektje | Szegedi Fegyház és Börtön a 339/2014. (XII. 19.) Korm. rendelet, valamint a 362/2022. (IX. 19.) Korm. rendelet szerint | 0,05 | 0,00 | 2024. I. negyedév | A beruházással szembeni szakmai elvárás, hogy az érintett területen elsősorban az öt, a vízminőséget kiemelten befolyásoló komponens (arzén, bór, fluor, nitrit, ammónium) vonatkozásában a szolgáltatott közműves ivóvíz minősége feleljen meg az (EU) 2020/2184 irányelvben, valamint az 5/2023. (I. 12.) Korm. rendeletben rögzített paramétereknek, határértékeknek. |
 
-| 62.[^24] |  |  |  |  |  |  |  |
+| 62.[^25] |  |  |  |  |  |  |  |
 
 | 63. | KEHOP Plusz-2.1.20 | Nagyszentjános település Ivóvízminőség-javító Programja | Nagyszentjános Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet, valamint a 362/2022. (IX. 19.) Korm. rendelet szerint | 1,25 | 0,19 | 2024. I. negyedév | A beruházással szembeni szakmai elvárás, hogy az érintett területen elsősorban az öt, a vízminőséget kiemelten befolyásoló komponens (arzén, bór, fluor, nitrit, ammónium) vonatkozásában a szolgáltatott közműves ivóvíz minősége feleljen meg az (EU) 2020/2184 irányelvben, valamint az 5/2023. (I. 12.) Korm. rendeletben rögzített paramétereknek, határértékeknek. |
 
@@ -194,21 +196,21 @@
 
 | 76. | KEHOP Plusz-2.1.20 | A Balaton és térsége ivóvízellátásának modernizációjához kapcsolódó előkészítés | Dunántúli Regionális Vízmű Zártkörűen Működő Részvénytársaság | 0,54 | 0,00 | 2024. I. negyedév | A projekt célja a Balaton és térsége ivóvízellátásához kapcsolódó modernizáció előkészítése. |
 
-| 77.[^25] |  |  |  |  |  |  |  |
+| 77.[^26] |  |  |  |  |  |  |  |
 
-| 78.[^26] |  |  |  |  |  |  |  |
+| 78.[^27] |  |  |  |  |  |  |  |
 
 | 79. | KEHOP Plusz-2.1.20 | Délkelet-Magyarországi ivóvízminőség-javító program 1. (DKMO 1) | NV Zrt. és Mindszent Város Önkormányzata, Felgyő Községi Önkormányzat, Tömörkény Községi Önkormányzat, Békésszentandrás Nagyközség Önkormányzata és Fábiánsebestyén Községi Önkormányzat a 339/2014. (XII. 19.) Korm. rendelet, valamint a 362/2022. (IX. 19.) Korm. rendelet szerint | 0,49 | 0,07 | 2024. II. negyedév | A beruházással szembeni szakmai elvárás, hogy az érintett területen elsősorban az öt, a vízminőséget kiemelten befolyásoló komponens (arzén, bór, fluor, nitrit, ammónium) vonatkozásában a szolgáltatott közműves ivóvíz minősége feleljen meg az (EU) 2020/2182 irányelvben, valamint az 5/2023. (I. 12.) Korm. rendeletben rögzített paramétereknek, határértékeknek. |
 
 | 80. | KEHOP Plusz-2.1.20 | Nyugat- és Dél-Dunántúli ivóvízminőség-javító program 1. (NYDDU 1.) | NV Zrt. és Szentlőrinc Város Önkormányzata, Szigetvár Város Önkormányzat, Dunántúli Regionális Vízmű Zártkörűen Működő Részvénytársaság, Törökkoppány Község Önkormányzata, Andocs Község Önkormányzata, Nágocs Község Önkormányzata, Lakócsa Község Önkormányzata, Szentborbás Község Önkormányzata, Potony Község Önkormányzata, Tótújfalu Község Önkormányzata, Csokonyavisonta Község Önkormányzata, Darány Község Önkormányzata, Istvándi Község Önkormányzata, Ádánd Község Önkormányzata, Taszár Községi Önkormányzat és Orci Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet, valamint a 362/2022. (IX. 19.) Korm. rendelet szerint | 0,19 | 0,04 | 2024. II. negyedév | A beruházással szembeni szakmai elvárás, hogy az érintett területen elsősorban az öt, a vízminőséget kiemelten befolyásoló komponens (arzén, bór, fluor, nitrit, ammónium) vonatkozásában a szolgáltatott közműves ivóvíz minősége feleljen meg az (EU) 2020/2182 irányelvben, valamint az 5/2023. (I. 12.) Korm. rendeletben rögzített paramétereknek, határértékeknek. |
 
-| 81.[^27] |  |  |  |  |  |  |  |
+| 81.[^28] |  |  |  |  |  |  |  |
 
-| 82.[^28] |  |  |  |  |  |  |  |
+| 82.[^29] |  |  |  |  |  |  |  |
 
-| 83.[^29] |  |  |  |  |  |  |  |
+| 83.[^30] |  |  |  |  |  |  |  |
 
-| 84.[^30] |  |  |  |  |  |  |  |
+| 84.[^31] |  |  |  |  |  |  |  |
 
 | 85. | KEHOP Plusz-2.1.30 | DMRV Zrt. kapacitásbővítő fejlesztések | Építési és Közlekedési Minisztérium és DMRV Duna Menti Regionális Vízmű Zártkörűen Működő Részvénytársaság konzorciuma | 10,10 | 0,00 | 2024. I. negyedév | A beruházással szembeni szakmai elvárás, hogy a projekt keretében vállalt regionális ivóvízhálózatok hidraulikai és vízminőségi szempontból kedvezőbb átalakítása, módosítása és/vagy vízbázis átalakítása, víztermelés hatékonyságának javítása maradéktalanul megvalósuljon, a beruházással elérni kívánt cél teljesülését a projekt fenntartási időszaka során megfelelő módon alátámasztva. |
 
@@ -437,18 +439,19 @@
 [^14]: Az 1. mellékletben foglalt táblázat C:10 mezője az 1180/2024. (VI. 20.) Korm. határozat 7. pont 7.5. alpontjával megállapított szöveg.
 [^15]: Az 1. mellékletben foglalt táblázat C:11 mezője az 1180/2024. (VI. 20.) Korm. határozat 7. pont 7.6. alpontjával megállapított szöveg.
 [^16]: Az 1. mellékletben foglalt táblázat E:12 mezője az 1180/2024. (VI. 20.) Korm. határozat 7. pont 7.11. alpontjával megállapított szöveg.
-[^17]: Az 1. mellékletben foglalt táblázat 13. sorát az 1180/2024. (VI. 20.) Korm. határozat 8. pontja hatályon kívül helyezte.
-[^18]: Az 1. mellékletben foglalt táblázat E:14 mezője az 1180/2024. (VI. 20.) Korm. határozat 7. pont 7.12. alpontjával megállapított szöveg.
-[^19]: Az 1. mellékletben foglalt táblázat E:15 mezője az 1180/2024. (VI. 20.) Korm. határozat 7. pont 7.13. alpontjával megállapított szöveg.
-[^20]: A 2. mellékletet az 1180/2024. (VI. 20.) Korm. határozat 5. pontja iktatta be.
+[^17]: Az 1. mellékletben foglalt táblázat 13. sorát az 1180/2024. (VI. 20.) Korm. határozat 8. pontja hatályon kívül helyezte, újonnan az 1336/2024. (XI. 6.) Korm. határozat 2. pontja iktatta be.
+[^18]: Az 1. mellékletben foglalt táblázat 13a. sorát az 1336/2024. (XI. 6.) Korm. határozat 2. pontja iktatta be.
+[^19]: Az 1. mellékletben foglalt táblázat E:14 mezője az 1180/2024. (VI. 20.) Korm. határozat 7. pont 7.12. alpontjával megállapított szöveg.
+[^20]: Az 1. mellékletben foglalt táblázat E:15 mezője az 1180/2024. (VI. 20.) Korm. határozat 7. pont 7.13. alpontjával megállapított szöveg.
+[^21]: A 2. mellékletet az 1180/2024. (VI. 20.) Korm. határozat 5. pontja iktatta be.
 [^*]: Az állami építési beruházások rendjéről szóló 2023. évi LXIX. törvény (a továbbiakban: Ábtv.) hatálya alá tartozó projektek esetében az Építési és Közlekedési Minisztérium a projektben konzorciumi partner lehet.
-[^21]: A 2. mellékletben foglalt táblázat 49. sorát az 1320/2024. (X. 22.) Korm. határozat 5. pontja hatályon kívül helyezte.
-[^22]: A 2. mellékletben foglalt táblázat 50. sorát az 1320/2024. (X. 22.) Korm. határozat 5. pontja hatályon kívül helyezte.
-[^23]: A 2. mellékletben foglalt táblázat 53. sorát az 1320/2024. (X. 22.) Korm. határozat 5. pontja hatályon kívül helyezte.
-[^24]: A 2. mellékletben foglalt táblázat 62. sorát az 1320/2024. (X. 22.) Korm. határozat 5. pontja hatályon kívül helyezte.
-[^25]: A 2. mellékletben foglalt táblázat 77. sorát az 1320/2024. (X. 22.) Korm. határozat 5. pontja hatályon kívül helyezte.
-[^26]: A 2. mellékletben foglalt táblázat 78. sorát az 1320/2024. (X. 22.) Korm. határozat 5. pontja hatályon kívül helyezte.
-[^27]: A 2. mellékletben foglalt táblázat 81. sorát az 1320/2024. (X. 22.) Korm. határozat 5. pontja hatályon kívül helyezte.
-[^28]: A 2. mellékletben foglalt táblázat 82. sorát az 1320/2024. (X. 22.) Korm. határozat 5. pontja hatályon kívül helyezte.
-[^29]: A 2. mellékletben foglalt táblázat 83. sorát az 1320/2024. (X. 22.) Korm. határozat 5. pontja hatályon kívül helyezte.
-[^30]: A 2. mellékletben foglalt táblázat 84. sorát az 1320/2024. (X. 22.) Korm. határozat 5. pontja hatályon kívül helyezte.
+[^22]: A 2. mellékletben foglalt táblázat 49. sorát az 1320/2024. (X. 22.) Korm. határozat 5. pontja hatályon kívül helyezte.
+[^23]: A 2. mellékletben foglalt táblázat 50. sorát az 1320/2024. (X. 22.) Korm. határozat 5. pontja hatályon kívül helyezte.
+[^24]: A 2. mellékletben foglalt táblázat 53. sorát az 1320/2024. (X. 22.) Korm. határozat 5. pontja hatályon kívül helyezte.
+[^25]: A 2. mellékletben foglalt táblázat 62. sorát az 1320/2024. (X. 22.) Korm. határozat 5. pontja hatályon kívül helyezte.
+[^26]: A 2. mellékletben foglalt táblázat 77. sorát az 1320/2024. (X. 22.) Korm. határozat 5. pontja hatályon kívül helyezte.
+[^27]: A 2. mellékletben foglalt táblázat 78. sorát az 1320/2024. (X. 22.) Korm. határozat 5. pontja hatályon kívül helyezte.
+[^28]: A 2. mellékletben foglalt táblázat 81. sorát az 1320/2024. (X. 22.) Korm. határozat 5. pontja hatályon kívül helyezte.
+[^29]: A 2. mellékletben foglalt táblázat 82. sorát az 1320/2024. (X. 22.) Korm. határozat 5. pontja hatályon kívül helyezte.
+[^30]: A 2. mellékletben foglalt táblázat 83. sorát az 1320/2024. (X. 22.) Korm. határozat 5. pontja hatályon kívül helyezte.
+[^31]: A 2. mellékletben foglalt táblázat 84. sorát az 1320/2024. (X. 22.) Korm. határozat 5. pontja hatályon kívül helyezte.
