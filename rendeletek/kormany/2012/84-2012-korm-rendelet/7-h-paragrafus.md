@@ -1,1 +1,0 @@
-7/H. § 2024. január 1. napjával a NISZ Zrt. tételes jegyzőkönyv felvétele mellett a 7/G. §-ban meghatározottak szerint átadásra kerülő Feladatok vonatkozásában az azokhoz kapcsolódó valamennyi iratot és adatot átadja, a feladatellátáshoz szükséges vagy azt előmozdító valamennyi adatbázishoz való hozzáférést biztosítja az IdomSoft Zrt. részére.
