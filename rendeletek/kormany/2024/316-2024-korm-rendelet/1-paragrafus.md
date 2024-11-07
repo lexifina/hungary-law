@@ -1,0 +1,1 @@
+1. § A Kormány az igazgatási szünetről szóló 2023. évi XXVI. törvény 1. § (1) bekezdése szerinti igazgatási szünetet rendel el, amely minden évben az év decemberének 26. napját követő első munkanaptól az azt követő naptári év első munkanapját megelőző nap végéig tart.

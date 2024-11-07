@@ -1,0 +1,1 @@
+A Kormány az igazgatási szünetről szóló 2023. évi XXVI. törvény 9. §-ában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
