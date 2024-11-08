@@ -1,7 +1,3 @@
-11. § Hatályát veszti az R.
+11. §[^12]
 
-a) 59. § (4) bekezdése,
-
-b) 61. § (2) és (3) bekezdése,
-
-c) 62. §-a.
+[^12]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-6. § Az R. 59. § (3) bekezdése helyébe a következő rendelkezés lép:
+6. §[^7]
 
-„(3) A támogatás kizárólag elsődleges mezőgazdasági termeléssel foglalkozó vállalkozások, illetve a halászati és akvakultúra-ágazatban tevékenykedő vállalkozások részére nyújtható.”
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
