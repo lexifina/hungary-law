@@ -1,4 +1,4 @@
-## A Tiszántúli Vadgazdálkodási Táj vadgazdálkodási tájegységeinek trófeabírálati irányelvei[^18]
+## A Tiszántúli Vadgazdálkodási Táj vadgazdálkodási tájegységeinek trófeabírálati irányelvei[^22]
 
 ## Az elejtés szakszerűtlenségének megállapítása során a hibapont megítélését a táblázatokban megadott trófeajellegek együttes értékelésével kell végezni. A hibapont-besoroláshoz valamennyi határértéknek együttesen kell teljesülnie.
 
@@ -132,9 +132,9 @@
 
 | 9. (10.) | 10,0 | 105 | 35 | szabályos; min. 3-as koronák; koronánként min. 3 db 20 cm-es ággal |
 
-## II. A dámbika szakszerűtlen elejtés határértékei
+## II.[^23] A dámbika szakszerűtlen elejtés határértékei
 
-| A dámbika szakszerűtlen elejtés határértékei a 103. számú Békési, a 105. számú Körös-berettyói, a 107. számú Hajdúsági Erdőspuszták, valamint a 110. számú Felső-tiszavidéki vadgazdálkodási tájegységben |
+| A dámbika szakszerűtlen elejtés határértékei a 102. számú Maros-csongrádi, a 103. számú Békési, a 105. számú Körös-berettyói, a 107. számú Hajdúsági Erdőspuszták, valamint a 110. számú Felső-tiszavidéki vadgazdálkodási tájegységben |
 
 | Hibapont | Felrakás (bika kora, év) | Szemág hossza legalább (cm) | Lapát | Tömeg legalább (kg) | Trófea jellege |
 
@@ -408,4 +408,5 @@ Túzokvédelem
 
 30. Túzoktelelőhelyeken tarvadvadászat a természetvédelmi kezelővel egyeztetett módon történhet. Az adott évi telelőhelyek pontosítását minden évben a tájegységi fővadász bevonásával egyeztetni kell a természetvédelmi kezelővel, melyet jegyzőkönyvben rögzítenek legkésőbb december 1-ig.
 
-[^18]: A 4. melléklet címe az 57/2023. (X. 16.) AM rendelet 37. § (2) bekezdésével megállapított szöveg.
+[^22]: A 4. melléklet címe az 57/2023. (X. 16.) AM rendelet 37. § (2) bekezdésével megállapított szöveg.
+[^23]: A 4. melléklet II. pontjában foglalt táblázat az 56/2024. (X. 31.) AM rendelet 19. § c) pontja szerint módosított szöveg.

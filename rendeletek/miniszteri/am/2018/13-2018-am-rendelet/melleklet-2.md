@@ -32,7 +32,7 @@ Az egyes vadfajok állományának leírása
 
 2.1. A 101. számú Tiszazugi vadgazdálkodási tájegység területén a dámszarvas a jelentett létszám és a teríték nagyság alapján is az alsó negyedbe tartozik a tájegységek rangsorában. A dámszarvasnak a vadgazdálkodási tájegység területén nincs jelentősége.
 
-2.2. A 102. számú Maros-csongrádi vadgazdálkodási tájegység területén a dámszarvas a jelentett létszám és a teríték nagyság alapján is az alsó negyedbe tartozik a tájegységek rangsorában. Az állomány minősége a kis egyedszámok miatt nem értékelhető. A dámszarvasnak a vadgazdálkodási tájegység területén nincs jelentősége.
+2.2.[^5] A 102. számú Maros-csongrádi vadgazdálkodási tájegység területén a dámszarvas a jelentett létszám és a teríték nagyság alapján is az alsó negyedbe tartozik a tájegységek rangsorában. Az állomány minősége a kis egyedszámok miatt nem értékelhető. A dámszarvasnak a vadgazdálkodási tájegység területén kis jelentősége van.
 
 2.3. A 103. számú Békési vadgazdálkodási tájegység területén a dámszarvas a jelentett létszám alapján és a teríték alapján is a felső negyedbe tartozik a tájegységek rangsorában. A trófeák tájegységi rangsorolása szerint az alsó félbe tartozik. A dámszarvas a vadgazdálkodási tájegység területén jelentős nagyvad. Jó minőségű állomány.
 
@@ -165,3 +165,5 @@ Az egyes vadfajok állományának leírása
 7.11. A 111. számú Tiszamenti vadgazdálkodási tájegységben a fácán közepes jelentőségű apróvadfaj. A jelentett állomány és a hasznosítás alapján is az átlag feletti negyedben helyezkedik el. Nem meghatározó jelentőségű faj.
 
 7.12. A 112. számú Sárrét-bihari vadgazdálkodási tájegységben a fácán közepes jelentőségű apróvadfaj. A jelentett állomány és a hasznosítás alapján is az átlag feletti negyedben helyezkedik el. Nem meghatározó jelentőségű faj.
+
+[^5]: A 2. melléklet 2. pont 2.2. alpontja az 56/2024. (X. 31.) AM rendelet 19. § a) pontja szerint módosított szöveg.
