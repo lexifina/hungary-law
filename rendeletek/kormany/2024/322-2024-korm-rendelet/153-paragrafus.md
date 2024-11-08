@@ -2,10 +2,6 @@
 
 ## HATÁLYON KÍVÜL HELYEZŐ RENDELKEZÉSEK
 
-153. § Hatályát veszti
+153. §[^6]
 
-1. a központi címregiszterről és a címkezelésről szóló 345/2014. (XII. 23.) Korm. rendelet,
-
-2. az elektronikus ügyintézési szolgáltatások nyújtására felhasználható elektronikus aláíráshoz és bélyegzőhöz kapcsolódó követelményekről szóló 137/2016. (VI. 13.) Korm. rendelet,
-
-3. az elektronikus ügyintézéssel összefüggő adatok biztonságát szolgáló Kormányzati Adattrezorról szóló 466/2017. (XII. 28.) Korm. rendelet.
+[^6]: A 153. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
