@@ -1,5 +1,5 @@
 ## 16. § Ez a rendelet a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 9. cikkének való megfelelést szolgálja.
 
-17. §[^7]
+17. §[^8]
 
-[^7]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

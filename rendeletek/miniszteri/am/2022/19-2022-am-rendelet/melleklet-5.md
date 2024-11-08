@@ -100,7 +100,7 @@
 
 ## „vadászlőfegyver megszerzésére és tartására nem jogosít”
 
-3.2.[^9] A bizonyítvány kiadását megalapozó körülmény feltüntetése:
+3.2.[^10] A bizonyítvány kiadását megalapozó körülmény feltüntetése:
 
 – Vadászvizsga Bizonyítvánnyal vagy Vadászvizsga elméleti vizsgarészének sikeres teljesítéséről szóló igazolással vagy érvényes vadászjeggyel rendelkező és vadászíjjal, ragadozó madárral vagy magyar agárral való vadászatra feljogosító kiegészítő vizsgát tett.
 
@@ -122,4 +122,4 @@
 
 3.4.3. a kiadmány hiteléül szolgáló bélyegző lenyomata.
 
-[^9]: Az 5. melléklet 3. pont 3.2. alpontja az 57/2023. (X. 16.) AM rendelet 45. § c) pontja szerint módosított szöveg.
+[^10]: Az 5. melléklet 3. pont 3.2. alpontja az 57/2023. (X. 16.) AM rendelet 45. § c) pontja szerint módosított szöveg.

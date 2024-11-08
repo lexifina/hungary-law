@@ -8,9 +8,10 @@
 
 a) a vadászvizsga elméleti és gyakorlati vizsgarészei egy napon kerülnek megszervezésre, akkor a 20 főt,
 
-b) a vadászvizsga elméleti és gyakorlati vizsgarészei különböző napon kerülnek megszervezésre, akkor az elméleti vizsgarészen a 20 főt, a gyakorlati vizsgarészen a 30 főt
+b)[^5] a vadászvizsga elméleti és gyakorlati vizsgarészei különböző napokon kerülnek megszervezésre, akkor a 30-30 főt
 
 nem haladhatja meg.
 
 [^3]: A 6. § (1) bekezdése az 57/2023. (X. 16.) AM rendelet 42. § (1) bekezdésével megállapított szöveg.
 [^4]: A 6. § (3) bekezdése az 57/2023. (X. 16.) AM rendelet 42. § (2) bekezdésével megállapított szöveg.
+[^5]: A 6. § (3) bekezdés b) pontja az 56/2024. (X. 31.) AM rendelet 21. §-ával megállapított szöveg.
