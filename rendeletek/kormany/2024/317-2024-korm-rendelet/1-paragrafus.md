@@ -1,1 +1,3 @@
-1. § A közhasználatú fürdők létesítéséről és üzemeltetéséről szóló 510/2023. (XI. 20.) Korm. rendelet (a továbbiakban: Korm. rendelet) 1. melléklete az 1. melléklet szerint módosul.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
