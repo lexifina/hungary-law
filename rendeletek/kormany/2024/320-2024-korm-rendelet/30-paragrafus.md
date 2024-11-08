@@ -1,1 +1,3 @@
-30. § Hatályát veszti az egyes, az elektronikus ügyintézéshez kapcsolódó szervezetek kijelöléséről szóló 84/2012. (IV. 21.) Korm. rendelet.
+30. §[^1]
+
+[^1]: A 30. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
