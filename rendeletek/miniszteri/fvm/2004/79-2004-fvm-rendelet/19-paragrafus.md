@@ -1,3 +1,3 @@
-19. §[^48] A vad szabad vadászterületre történő kijutását megakadályozó kerítést kizárólag a zárt területen belül található vadállomány felszámolását követően lehet elbontani.
+19. §[^52] A vad szabad vadászterületre történő kijutását megakadályozó kerítést kizárólag a zárt területen belül található vadállomány felszámolását követően lehet elbontani.
 
-[^48]: A Vhr. 19. §-a a 24/2017. (V. 17.) FM rendelet 1. §-ával megállapított szöveg.
+[^52]: A Vhr. 19. §-a a 24/2017. (V. 17.) FM rendelet 1. §-ával megállapított szöveg.

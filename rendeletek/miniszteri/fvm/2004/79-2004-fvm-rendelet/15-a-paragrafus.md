@@ -1,3 +1,5 @@
-15/A. §[^43]
+15/A. §[^46] (1) Ha a haszonbérleti szerződés időtartama alatt a haszonbérlő jogutód nélkül megszűnik, a jogutód nélkül megszűnt haszonbérlő által a vadászterületen létesített és alhaszonbérlet útján hasznosított vadaskert alhaszonbérlője köteles a Vtv. 17. § (7) bekezdésében meghatározott átmeneti időszakban gondoskodni a vadaskert fenntartásáról, valamint a vad és élőhelyének védelméről.
 
-[^43]: A Vhr. 15/A. §-át a 73/2016. (XI. 17.) FM rendelet 3. §-a iktatta be, hatályon kívül helyezte az 5/2019. (III. 14.) AM rendelet 4. § b) pontja.
+(2) Az e § szerinti rendelkezések az irányadóak abban az esetben is, ha a haszonbérleti szerződés időtartama alatt a szerződés a felek közös megegyezésével vagy a szerződés felmondásával szűnik meg.
+
+[^46]: A Vhr. 15/A. §-át újonnan az 56/2024. (X. 31.) AM rendelet 4. §-a iktatta be.

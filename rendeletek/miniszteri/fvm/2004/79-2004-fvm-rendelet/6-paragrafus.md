@@ -1,6 +1,6 @@
 ## (A Vtv. 12. §-ához)
 
-6. §[^24] (1) Az ajánlást áttekintő és részletes térképen is meg kell jeleníteni. A részletes térképen legalább 1:50000 méretarányban fel kell tüntetni és jelölni kell
+6. §[^25] (1) Az ajánlást áttekintő és részletes térképen is meg kell jeleníteni. A részletes térképen legalább 1:50000 méretarányban fel kell tüntetni és jelölni kell
 
 a) az ajánlással érintett vadászterületet és a szomszédos, egy éven belül lejáró üzemtervű vadászterületek határvonalának az ajánlással érintett vadászterülethez csatlakozó határvonalát és kódszámait, valamint
 
@@ -10,6 +10,7 @@ b) az ajánlás azon határvonalát, amely egyben a vadászati hatóság illeté
 
 (3) Az ajánlás térképi megjelenítése és határleírása közötti eltérés esetén a határleírás tekintendő irányadónak.
 
-(4) A Vtv. 11/A. § (4) bekezdése szerinti hirdetmény kifüggesztésének időtartamába a kifüggesztés, illetve a levétel napja nem számítható be.
+(4)[^26] A Vtv. 11/A. § (4) bekezdése szerinti hirdetmény közzétételének időtartamába a közzététel, illetve a honlapról történő levétel napja nem számítható be.
 
-[^24]: A Vhr. 6. §-a a 14/2016. (III. 2.) FM rendelet 4. §-ával megállapított szöveg.
+[^25]: A Vhr. 6. §-a a 14/2016. (III. 2.) FM rendelet 4. §-ával megállapított szöveg.
+[^26]: A Vhr. 6. § (4) bekezdése az 56/2024. (X. 31.) AM rendelet 17. § c) pontja szerint módosított szöveg.

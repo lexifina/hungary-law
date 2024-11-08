@@ -2,7 +2,7 @@
 
 2. §[^9] (1)[^10] A vadászterület határának megállapításával egyidejűleg a vadászati hatóság a tulajdonosi közösséget a hozzá tartozó vadászterület azonosító kódszámának megjelölésével nyilvántartásba veszi. A tulajdonosi közösség nyilvántartásba vételekor a vadászterület azonosító kódszáma a vadászterület sorszámát és a vadászterület fekvése szerinti vármegye kódját tartalmazza.
 
-(2)[^11] Megválasztását követően a tulajdonosi közösség képviselője az 1. számú mellékletben meghatározott adattartalmú és a Pest Vármegyei Kormányhivatal honlapján közzétett formanyomtatványon nyilvántartásba vétel iránti kérelmet nyújt be a vadászati hatósághoz. A vadászati hatóság a tulajdonosi közösség képviselőjét az 1. számú melléklet A. pontja szerinti adattartalommal nyilvántartásba veszi.
+(2)[^11] Megválasztását követően a tulajdonosi közösség képviselője az 1. számú mellékletben meghatározott adattartalmú nyilvántartásba vétel iránti kérelmet nyújt be a vadászati hatósághoz. A vadászati hatóság a tulajdonosi közösség képviselőjét az 1. számú melléklet 1. pontja szerinti adattartalommal nyilvántartásba veszi.
 
 (3)[^12] A kérelemhez mellékelni kell
 
@@ -18,7 +18,7 @@ a) a Vtv. 14. § (1) bekezdése szerinti hirdetmény
 
 aa) nem felelt meg a Vtv. 14. § (2) bekezdésében meghatározott követelményeknek,
 
-ab)[^13] közzététele, illetve kifüggesztése nem a Vtv. 14. § (1) és (2) bekezdésében előírtak szerint történt, vagy
+ab)[^13] közzététele nem a Vtv. 14. § (1) és (2) bekezdésében előírtak szerint történt, vagy
 
 ac) nem tartalmazta, hogy a tulajdonosi gyűlés összehívását a vadászterület összes tulajdonosának a tulajdoni hányada arányában számított legalább egyötöde kezdeményezte, vagy
 
@@ -30,6 +30,6 @@ b) a képviselő személyével szemben a Vtv. 12. § (5) vagy (7) bekezdésében
 
 [^9]: A Vhr. 2. §-a a 14/2016. (III. 2.) FM rendelet 1. §-ával megállapított szöveg.
 [^10]: A Vhr. 2. § (1) bekezdése az 57/2023. (X. 16.) AM rendelet 28. § 2. pontja szerint módosított szöveg.
-[^11]: A Vhr. 2. § (2) bekezdése a 89/2016. (XII. 29.) FM rendelet 8. § a) pontja, az 57/2023. (X. 16.) AM rendelet 28. § 3. pontja szerint módosított szöveg.
+[^11]: A Vhr. 2. § (2) bekezdése az 56/2024. (X. 31.) AM rendelet 17. § a) pontja és 18. § a) pontja szerint módosított szöveg.
 [^12]: A Vhr. 2. § (3) bekezdése az 57/2023. (X. 16.) AM rendelet 1. §-ával megállapított szöveg.
-[^13]: A Vhr. 2. § (4) bekezdés a) pont ab) alpontja az 57/2023. (X. 16.) AM rendelet 28. § 4. pontja szerint módosított szöveg.
+[^13]: A Vhr. 2. § (4) bekezdés a) pont ab) alpontja az 57/2023. (X. 16.) AM rendelet 28. § 4. pontja, az 56/2024. (X. 31.) AM rendelet 18. § b) pontja szerint módosított szöveg.

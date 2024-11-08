@@ -1,4 +1,4 @@
-2/A. §[^14] (1)[^15] A haszonbérleti szerződés megkötését követően a vadászatra jogosult az 1. számú mellékletben meghatározott adattartalommal, a Pest Vármegyei Kormányhivatal honlapján közzétett formanyomtatványon nyilvántartásba vétel iránti kérelmet nyújt be a vadászati hatósághoz. A vadászati hatóság a vadászatra jogosultat az 1. számú melléklet B. pontja szerinti adattartalommal nyilvántartásba veszi. A vadászati hatóság a nyilvántartásba vétellel egyidejűleg a vadászterület azonosító kódszámát kiegészíti a vadászterület fekvése szerinti vadgazdálkodási tájegység kódszámával.
+2/A. §[^14] (1)[^15] A haszonbérleti szerződés megkötését követően a vadászatra jogosult az 1. számú mellékletben meghatározott adattartalommal nyilvántartásba vétel iránti kérelmet nyújt be a vadászati hatósághoz. A vadászati hatóság a vadászatra jogosultat az 1. számú melléklet 2. pontja szerinti adattartalommal nyilvántartásba veszi. A vadászati hatóság a nyilvántartásba vétellel egyidejűleg a vadászterület azonosító kódszámát kiegészíti a vadászterület fekvése szerinti vadgazdálkodási tájegység kódszámával.
 
 (1a)[^16] A vadászati hatóság az (1) bekezdés szerinti nyilvántartásában szereplő adatokat és az abban bekövetkező változásokat minden évben legkésőbb március 31-ig megküldi a vadászkamara területileg illetékes szervezetének a vadászati engedélyek kiállítása érdekében.
 
@@ -14,7 +14,7 @@ a) a haszonbérleti szerződést olyan tulajdonosi gyűlésen hozott döntés al
 
 aa) nem felelt meg a Vtv. 14. § (2) bekezdésében meghatározott követelményeknek,
 
-ab)[^17] közzététele, illetve kifüggesztése nem a Vtv. 14. § (1) és (2) bekezdésében előírtak szerint történt, vagy
+ab)[^17] közzététele nem a Vtv. 14. § (1) és (2) bekezdésében előírtak szerint történt, vagy
 
 ac) nem tartalmazta, hogy a tulajdonosi gyűlés összehívását a vadászterület összes tulajdonosának a tulajdoni hányada arányában számított legalább egyötöde kezdeményezte, vagy
 
@@ -35,7 +35,7 @@ a vadászati hatóságnak írásban bejelenti.
 (7) Ha a magyar állam önálló vadászati joga vagyonkezelési szerződéssel kerül hasznosításra, akkor a vagyonkezelő nyilvántartásba vételére, illetve a nyilvántartásból való törlésére az (1)–(6) bekezdésben meghatározott rendelkezéseket kell megfelelően alkalmazni.
 
 [^14]: A Vhr. 2/A. §-át a 14/2016. (III. 2.) FM rendelet 1. §-a iktatta be.
-[^15]: A Vhr. 2/A. § (1) bekezdése a 73/2016. (XI. 17.) FM rendelet 1. §-ával megállapított, a 89/2016. (XII. 29.) FM rendelet 8. § b) pontja, az 57/2023. (X. 16.) AM rendelet 28. § 3. pontja szerint módosított szöveg.
+[^15]: A Vhr. 2/A. § (1) bekezdése a 73/2016. (XI. 17.) FM rendelet 1. §-ával megállapított, az 56/2024. (X. 31.) AM rendelet 17. § b) pontja és 18. § c) pontja szerint módosított szöveg.
 [^16]: A Vhr. 2/A. § (1a) bekezdését az 57/2023. (X. 16.) AM rendelet 2. §-a iktatta be.
-[^17]: A Vhr. 2/A. § (3) bekezdés a) pont ab) alpontja az 57/2023. (X. 16.) AM rendelet 28. § 4. pontja szerint módosított szöveg.
+[^17]: A Vhr. 2/A. § (3) bekezdés a) pont ab) alpontja az 57/2023. (X. 16.) AM rendelet 28. § 4. pontja, az 56/2024. (X. 31.) AM rendelet 18. § d) pontja szerint módosított szöveg.
 [^18]: A Vhr. 2/A. § (4) bekezdését az 5/2019. (III. 14.) AM rendelet 4. § a) pontja hatályon kívül helyezte.

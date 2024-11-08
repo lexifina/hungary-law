@@ -1,4 +1,4 @@
-49. § (1)[^129] A vadászjegyet
+49. § (1)[^137] A vadászjegyet
 
 a) sportvadász részére a vadászkamarának a kérelmező állandó lakóhelye szerint illetékes,
 
@@ -8,10 +8,10 @@ c) magyarországi állandó lakóhellyel nem rendelkező magyar állampolgár r�
 
 területi szervezete állítja ki és érvényesíti.
 
-(2)[^130] A vadászjegyet a vadászati évre kell kiállítani, illetve érvényesíteni.
+(2)[^138] A vadászjegyet a vadászati évre kell kiállítani, illetve érvényesíteni.
 
-(3)[^131] A vadászjegyet a vadászkamara illetékes területi szervezete a kérelmező számára a 14. számú melléklet I. pontjában meghatározott adattartalommal állítja ki.
+(3)[^139] A vadászjegyet a vadászkamara illetékes területi szervezete a kérelmező számára a 14. számú melléklet I. pontjában meghatározott adattartalommal állítja ki.
 
-[^129]: A Vhr. 49. § (1) bekezdése az 57/2023. (X. 16.) AM rendelet 12. §-ával megállapított szöveg.
-[^130]: A Vhr. 49. § (2) bekezdése a 24/2017. (V. 17.) FM rendelet 35. § (1) bekezdés 5. pontja szerint módosított szöveg.
-[^131]: A Vhr. 49. § (3) bekezdését az 50/2021. (XII. 29.) AM rendelet 2. § (2) bekezdése iktatta be.
+[^137]: A Vhr. 49. § (1) bekezdése az 57/2023. (X. 16.) AM rendelet 12. §-ával megállapított szöveg.
+[^138]: A Vhr. 49. § (2) bekezdése a 24/2017. (V. 17.) FM rendelet 35. § (1) bekezdés 5. pontja szerint módosított szöveg.
+[^139]: A Vhr. 49. § (3) bekezdését az 50/2021. (XII. 29.) AM rendelet 2. § (2) bekezdése iktatta be.

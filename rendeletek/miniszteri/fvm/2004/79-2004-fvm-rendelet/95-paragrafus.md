@@ -1,5 +1,5 @@
 ## (A Vtv. 95. §-ához)
 
-95. §[^264]
+95. §[^275]
 
-[^264]: A Vhr. 95. §-át a 7/2010. (II. 2.) FVM rendelet 47. § (2) bekezdés i) pontja hatályon kívül helyezte.
+[^275]: A Vhr. 95. §-át a 7/2010. (II. 2.) FVM rendelet 47. § (2) bekezdés i) pontja hatályon kívül helyezte.
