@@ -2,4 +2,6 @@
 
 ## HATÁLYON KÍVÜL HELYEZŐ RENDELKEZÉSEK
 
-80. § Hatályát veszti a 451/2016. (XII. 19.) Korm. rendelet.
+80. §[^2]
+
+[^2]: A 80. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
