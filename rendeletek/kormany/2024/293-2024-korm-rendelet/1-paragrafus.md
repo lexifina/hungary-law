@@ -1,5 +1,3 @@
-## 1.[^1]
+## 1. A keresőképtelenség és keresőképesség orvosi elbírálásáról és annak ellenőrzéséről szóló 102/1995. (VIII. 25.) Korm. rendelet módosítása
 
-1. §
-
-[^1]: Az 1. alcím a 6. § (2) bekezdése alapján 2024. november 9-én lép hatályba.
+1. § A keresőképtelenség és keresőképesség orvosi elbírálásáról és annak ellenőrzéséről szóló 102/1995. (VIII. 25.) Korm. rendelet 8. számú mellékletében foglalt táblázat „pecsét száma” megjelölésű sorában az „5” szövegrész helyébe a „6” szöveg lép.
