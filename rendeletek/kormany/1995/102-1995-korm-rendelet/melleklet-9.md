@@ -14,7 +14,7 @@
 
 | orvos neve | Kar | 30 | fejrekord, kötelező |
 
-| pecsét száma | Kar | 5 | fejrekord, kötelező |
+| pecsét száma | Kar | 6 | fejrekord, kötelező |
 
 | jelentés kiállítás dátuma | Kar | 8 | fejrekord, kötelező, évezreddel (pl. 20000101) |
 
