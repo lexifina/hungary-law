@@ -1,13 +1,18 @@
-16. § (1) A 79/2004. (V. 4.) FVM rendelet 1. számú melléklete az 1. melléklet szerint módosul.
+16. § (1)[^17]
 
-(2) A 79/2004. (V. 4.) FVM rendelet 3. számú melléklete a 2. melléklet szerint módosul.
+(2)[^18]
 
-(3) A 79/2004. (V. 4.) FVM rendelet 4. számú melléklete a 3. melléklet szerint módosul.
+(3)[^19]
 
-(4) A 79/2004. (V. 4.) FVM rendelet 6. számú melléklete helyébe a 4. melléklet lép.
+(4)[^20]
 
-(5)[^5]
+(5)[^21]
 
-(6) A 79/2004. (V. 4.) FVM rendelet 26. számú melléklete helyébe a 6. melléklet lép.
+(6)[^22]
 
-[^5]: A 16. § (5) bekezdése a 23. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+[^17]: A 16. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 16. § (2) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 16. § (3) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 16. § (4) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 16. § (5) bekezdése a 74/2024. (XII. 20.) AM rendelet 1. § b) pontja alapján nem lép hatályba.
+[^22]: A 16. § (6) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

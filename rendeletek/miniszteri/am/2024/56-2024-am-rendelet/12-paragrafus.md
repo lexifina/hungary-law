@@ -1,3 +1,3 @@
-12. §[^4]
+12. §[^13]
 
-[^4]: A 12. § a 23. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+[^13]: A 12. § a 74/2024. (XII. 20.) AM rendelet 1. § b) pontja alapján nem lép hatályba.

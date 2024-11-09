@@ -1,3 +1,3 @@
-9. § A 79/2004. (V. 4.) FVM rendelet 43. § (2) bekezdése helyébe a következő rendelkezés lép:
+9. §[^10]
 
-„(2) Az azonosító jel dátumjelzéssel és vonalkóddal ellátott. A vonalkód tartalmazza a vadászati évet és az azonosító jel számát.”
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

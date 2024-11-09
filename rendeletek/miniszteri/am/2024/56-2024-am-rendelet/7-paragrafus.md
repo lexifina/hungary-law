@@ -1,3 +1,3 @@
-7. § A 79/2004. (V. 4.) FVM rendelet 28. §-a a következő (2a) bekezdéssel egészül ki:
+7. §[^8]
 
-„(2a) A vadgazdálkodási üzemtervben nemkívánatos az a nagyvadfaj, amelynek az élőhelyet nem veszélyeztető legmagasabb szabadterületi létszáma a tájegységi vadgazdálkodási terv alapján nulla. Ha a tájegységben az élőhelyet nem veszélyeztető legmagasabb szabadterületi létszám adott vadfaj esetében nagyobb, mint nulla, akkor a nemkívánatos nagyvadfajt adott vadászterület vonatkozásában – a vadászterület élőhelyi adottságainak, valamint a területi vadgazdálkodási tanács javaslatának figyelembevételével – a vadászati hatóság hivatalból határozza meg.”
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

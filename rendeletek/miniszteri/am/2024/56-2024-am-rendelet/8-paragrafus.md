@@ -1,3 +1,3 @@
-8. §[^1]
+8. §[^9]
 
-[^1]: A 8. § a 23. § (3) bekezdése alapján 2025. március 1-jén lép hatályba.
+[^9]: A 8. § a 74/2024. (XII. 20.) AM rendelet 1. § a) pontja alapján nem lép hatályba.
