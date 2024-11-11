@@ -1,4 +1,4 @@
-3. melléklet a 20/2020. (XII. 18.) NMHH rendelethez[^23]
+3. melléklet a 20/2020. (XII. 18.) NMHH rendelethez[^28]
 
 1. Az engedélyezési tervdokumentáció tartalma a tervezés tárgyától függően
 
@@ -562,4 +562,4 @@ a) Az érintett ingatlan tulajdonosának hozzájáruló nyilatkozata (PDF/A)
 
 b) A légügyi szakhatóságok előzetes állásfoglalásai (PDF/A)
 
-[^23]: A 3. melléklet az 5/2021. (VI. 16.) NMHH rendelet 8. §-a szerint módosított szöveg.
+[^28]: A 3. melléklet az 5/2021. (VI. 16.) NMHH rendelet 8. §-a szerint módosított szöveg.
