@@ -1,0 +1,1 @@
+4. § Ez a rendelet az (EU) 2020/1070 végrehajtási rendeletnek a rendelet alkalmazására vonatkozó jelentéstétel észszerűsítése és az aktív antennarendszerek használatának lehetővé tétele érdekében történő módosításáról szóló, 2024. június 24-i (EU) 2024/2000 bizottsági végrehajtási rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
