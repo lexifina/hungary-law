@@ -1,0 +1,3 @@
+1. § A motorhajtóanyagok minőségi követelményeiről szóló 17/2017. (V. 26.) NFM rendelet 7. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+„(7) Az MSZKSZ, vagy ha közreműködőt vesz igénybe, a közreműködő szervezet évente a miniszter részére összesítést készít, amelyben részletezi az adott időszak mintavételekre vonatkozó információit, és közli a ténylegesen mért értékeket és azok statisztikai kiértékelését. Az MSZKSZ, vagy ha közreműködőt vesz igénybe, a közreműködő szervezet az éves összesítést magyar és angol nyelven is elkészíti, amelyet az érintett évet követő május 31-éig küldi meg a miniszter részére.”
