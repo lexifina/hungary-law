@@ -1,3 +1,3 @@
-1. § Az elektronikus hírközlési építmények elhelyezéséről és az elektronikus hírközlési építményekkel kapcsolatos hatósági eljárásokról szóló 20/2020. (XII. 18.) NMHH rendelet (a továbbiakban: R.) 18. § (2) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(2) Jogszabály eltérő rendelkezése hiányában építési vagy bontási engedély nélkül végezhető a kis területi lefedésű, vezeték nélküli hozzáférési pontok jellemzőinek az Európai Elektronikus Hírközlési Kódex létrehozásáról szóló, (EU) 2018/1972 európai parlamenti és tanácsi irányelv 57. cikkének (2) bekezdése szerinti meghatározásáról szóló, 2020. július 20-i (EU) 2020/1070 bizottsági végrehajtási rendelet és az azt módosító (EU) 2024/2000 bizottsági végrehajtási rendelet (a továbbiakban együtt: bizottsági végrehajtási rendelet) által meghatározott jellemzőkkel rendelkező kis területi lefedésű, vezeték nélküli hozzáférési pont kiépítése.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
