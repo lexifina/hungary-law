@@ -1,4 +1,4 @@
-4. melléklet az 53/2014. (XII. 13.) NFM rendelethez[^33]
+4. melléklet az 53/2014. (XII. 13.) NFM rendelethez[^35]
 
 Engedély az 1 tömegszázaléknál nagyobb kéntartalmú fűtőolaj beszerzésére és felhasználására
 
@@ -32,4 +32,4 @@ Kelt: ..........................................................................
 
 miniszter
 
-[^33]: A 4. mellékletet a 68/2016. (XII. 29.) NFM rendelet 7. §-a iktatta be.
+[^35]: A 4. mellékletet a 68/2016. (XII. 29.) NFM rendelet 7. §-a iktatta be.

@@ -1,4 +1,4 @@
-15. §[^18] (1) Az e rendelet hatálya alá tartozó termékek kéntartalmának megállapított alakulásáról szóló jelentést (a továbbiakban: jelentés) a miniszter számára a Szövetség készíti elő, és a tárgyévet követő év május 31-ig megküldi a miniszternek.
+15. §[^20] (1) Az e rendelet hatálya alá tartozó termékek kéntartalmának megállapított alakulásáról szóló jelentést (a továbbiakban: jelentés) a miniszter számára a Szövetség készíti elő, és a tárgyévet követő év május 31-ig megküldi a miniszternek.
 
 (2) A jelentés a tárgyév folyamán a mintavételező szervezet által a 12. és 13. §-nak megfelelően végzett mintavételezés és a 14. § szerinti elemzés eredményein alapszik. A jelentés elkészítéséhez a mintavételező szervezet az eredményeket a Szövetség rendelkezésére bocsátja.
 
@@ -38,4 +38,4 @@ c) az egyes hajók kapcsán a hajónapló és a tüzelőanyagok szállítójegye
 
 (5) A jelentést a tárgyévet követő június 30. napjáig a miniszter elektronikusan megküldi az Európai Bizottságnak.
 
-[^18]: A 15. § a 29/2023. (XII. 27.) EM rendelet 3. §-ával megállapított szöveg.
+[^20]: A 15. § a 29/2023. (XII. 27.) EM rendelet 3. §-ával megállapított szöveg.
