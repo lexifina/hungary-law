@@ -30,12 +30,12 @@ szerint végzi.
 
 (6) Ha a közreműködő szervezet a mintavételezés vagy a vizsgálat során jogsértést észlel, erről – a hatósági eljárás lefolytatásához szükséges adatok megküldésével – értesíti a fogyasztóvédelmi hatóságot, valamint az állami adó- és vámhatóságot.
 
-(7)[^11] Az MSZKSZ negyedévente, valamint évente a miniszter részére összesítést készít, amelyben részletezi az adott időszak mintavételekre vonatkozó információit, és közli a ténylegesen mért értékeket és azok statisztikai kiértékelését. Az MSZKSZ az éves összesítést magyar és angol nyelven is elkészíti. Az MSZKSZ a negyedéves összesítést az érintett negyedévet követő hónap utolsó napjáig, az éves összesítést az érintett évet követő május 31-éig küldi meg a miniszter részére.
+(7)[^11] Az MSZKSZ, vagy ha közreműködőt vesz igénybe, a közreműködő szervezet évente a miniszter részére összesítést készít, amelyben részletezi az adott időszak mintavételekre vonatkozó információit, és közli a ténylegesen mért értékeket és azok statisztikai kiértékelését. Az MSZKSZ, vagy ha közreműködőt vesz igénybe, a közreműködő szervezet az éves összesítést magyar és angol nyelven is elkészíti, amelyet az érintett évet követő május 31-éig küldi meg a miniszter részére.
 
 (8)[^12] A miniszter a jelentés előkészítésének állásáról bármikor felvilágosítást kérhet.
 
 [^8]: A 7. § (1) bekezdése a 7/2023. (V. 9.) EM rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^9]: A 7. § (2) bekezdését a 7/2023. (V. 9.) EM rendelet 7. § b) pontja hatályon kívül helyezte.
 [^10]: A 7. § (3) bekezdése a 7/2023. (V. 9.) EM rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^11]: A 7. § (7) bekezdését a 7/2023. (V. 9.) EM rendelet 3. §-a iktatta be, szövege a 37/2023. (XII. 29.) EM rendelet 1. §-a szerint módosított szöveg.
+[^11]: A 7. § (7) bekezdését a 7/2023. (V. 9.) EM rendelet 3. §-a iktatta be, szövege a 21/2024. (XI. 11.) EM rendelet 1. §-ával megállapított szöveg.
 [^12]: A 7. § (8) bekezdését a 7/2023. (V. 9.) EM rendelet 3. §-a iktatta be.
