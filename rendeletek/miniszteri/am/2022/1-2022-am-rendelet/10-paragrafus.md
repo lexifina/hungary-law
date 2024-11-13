@@ -27,3 +27,7 @@ h) a szakmai díjak felsorolása.
 a) a szaktanácsadói szerződések száma és
 
 b) a szervezetben közreműködő szaktanácsadó vagy szaktanácsadóinak neve és szaktanácsadói névjegyzékszáma.
+
+(5)[^6] Ha az Agrárkamara azt állapítja meg, hogy a szaktanácsadó a beszámoló benyújtását elmulasztotta, felszólítja a mulasztó szaktanácsadót arra, hogy a beszámoló benyújtását egy hónapon belül pótolja.
+
+[^6]: A 10. § (5) bekezdését az 52/2024. (X. 14.) AM rendelet 3. §-a iktatta be.
