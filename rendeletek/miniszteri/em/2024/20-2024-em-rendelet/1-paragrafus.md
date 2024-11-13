@@ -1,3 +1,3 @@
-1. § Az egyes folyékony tüzelő- és fűtőanyagok kéntartalmáról szóló 53/2014. (XII. 13.) NFM rendelet (a továbbiakban: Rendelet) 2. § 3. pontja helyébe a következő rendelkezés lép:
+1. §[^2]
 
-(E rendelet alkalmazásában:)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

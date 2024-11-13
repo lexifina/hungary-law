@@ -1,3 +1,3 @@
-## „3. fűtőolaj: kőolaj-eredetű folyékony fűtőanyag – kivéve a tengeri hajózásban használatos üzemanyagokat –, amelynek a 2658/87/EGK tanácsi rendelet 1. mellékletében meghatározott Kombinált Nomenklatúrával megegyező tartalmú vámtarifaszáma (a továbbiakban: vámtarifaszám) 2710 19 51–2710 19 67, 2710 20 32, 2710 20 38, vagy olyan kőolaj-eredetű folyékony fűtőanyag, amelynek az MSZ EN ISO 3405 szerinti – vagy azzal egyenértékű más megoldással történő – vizsgálata során kevesebb, mint 65% (V/V)-a desztillál át 250 °C hőmérsékleten,”
+2. §[^3]
 
-2. § A Rendelet 2. § 17. pontjában a „2710 20 17” szövegrész helyébe a „2710 20 16” szöveg lép.
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
