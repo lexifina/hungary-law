@@ -1,3 +1,3 @@
-6. melléklet az 53/2024. (XI. 11.) BM rendelethez[^25]
+6. melléklet az 53/2024. (XI. 11.) BM rendelethez[^26]
 
-[^25]: A 6. melléklet a 4. § (2) bekezdése alapján 2025. február 9-én lép hatályba.
+[^26]: A 6. melléklet a 4. § (2) bekezdése alapján 2025. február 9-én lép hatályba.

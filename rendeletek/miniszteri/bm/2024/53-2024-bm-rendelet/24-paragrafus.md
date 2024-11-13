@@ -1,1 +1,3 @@
-24. § Hatályát veszti az élelmiszerekben lévő transz-zsírsavak megengedhető legnagyobb mennyiségéről, a transz-zsírsav tartalmú élelmiszerek forgalmazásának feltételeiről és hatósági ellenőrzéséről, valamint a lakosság transz-zsírsav bevitelének nyomon követésére vonatkozó szabályokról szóló 71/2013. (XI. 20.) EMMI rendelet.
+24. §[^19]
+
+[^19]: A 24. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
