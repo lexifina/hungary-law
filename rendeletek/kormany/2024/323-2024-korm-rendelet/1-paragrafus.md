@@ -1,0 +1,5 @@
+1. § A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény, valamint a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 521/2022. (XII. 13.) Korm. rendelet (a továbbiakban: R.) a következő 2/A. §-sal egészül ki:
+
+„2/A. § (1) A vagyonfelügyelő és az ideiglenes vagyonfelügyelő kirendelése, valamint a Bérgarancia Alapból történő támogatás-lehívás veszélyhelyzeti szabályairól szóló 291/2024. (X. 3.) Korm. rendelet (a továbbiakban: 291/2024. Korm. rendelet) 2. §-a alapján kirendelt ideiglenes vagyonfelügyelő köteles bejelenteni a bíróságnak, ha az adós munkavállalói bértartozásának fedezethiányára tekintettel kezdeményezte a Bérgarancia Alap terhére annak kiegyenlítését.
+
+(2) Ha a 291/2024. Korm. rendelet 2. §-a alapján kirendelt ideiglenes vagyonfelügyelő megállapítja, hogy az adós az együttműködési kötelezettségét a 291/2024. Korm. rendelet 3. § (12) bekezdésében megjelölt módon súlyosan megszegte, azt haladéktalanul köteles bejelenteni a bíróságnak.”
