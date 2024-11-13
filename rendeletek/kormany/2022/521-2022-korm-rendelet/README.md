@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-521-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2022-12-14 | 2022-521-20-22.1 | 521/2022. (XII. 13.) Korm. rendelet |
+| 2024-11-13 | 2022-521-20-22.2 | 323/2024. (XI. 13.) Korm. rendelet |
