@@ -1,3 +1,3 @@
-6. § Az R. 7. §-a a következő (3a) bekezdéssel egészül ki:
+6. §[^7]
 
-„(3a) Ha a Módr. hatálybalépésekor olyan felszámolási eljárás van folyamatban, amelyben a 291/2024. Korm. rendelet 2. §-a szerinti ideiglenes vagyonfelügyelő már kirendelésre került, akkor e felszámolási eljárást a Fővárosi Törvényszékhez haladéktalanul át kell tenni.”
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

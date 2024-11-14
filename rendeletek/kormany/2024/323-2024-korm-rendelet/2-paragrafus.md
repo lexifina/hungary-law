@@ -1,3 +1,3 @@
-2. § Az R. 3. §-a helyébe a következő rendelkezés lép:
+2. §[^3]
 
-„3. § A Cstv. 6. § (1) bekezdésétől eltérően a Fővárosi Törvényszék kizárólagosan illetékes azokban a felszámolási eljárásokban, amelyeket a cégbíróság a 2. § szerint kezdeményezett, vagy amelyekben a 2/A. § (1) bekezdése, illetve (2) bekezdése szerinti bejelentéssel élt az ideiglenes vagyonfelügyelő.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

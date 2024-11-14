@@ -1,3 +1,3 @@
-5. § Az R. 7. §-a a következő (2a) bekezdéssel egészül ki:
+5. §[^6]
 
-„(2a) E rendeletnek a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény, valamint a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 521/2022. (XII. 13.) Korm. rendelet módosításáról szóló 323/2024. (XI. 13.)Korm. rendelettel (a továbbiakban: Módr.) megállapított rendelkezéseit azokban a folyamatban lévő felszámolási eljárásokban is alkalmazni kell, melyekben a Módr. hatálybalépésekor a 291/2024. Korm. rendelet 2. §-a szerinti ideiglenes vagyonfelügyelő már kirendelésre került.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
