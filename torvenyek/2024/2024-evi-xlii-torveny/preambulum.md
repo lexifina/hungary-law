@@ -1,0 +1,1 @@
+(Az Európai Unió és tagállamai, valamint a Moldovai Köztársaság közötti, a közös légtér létrehozásáról szóló megállapodással létrehozott vegyes bizottság 2/2021 határozata Magyarország vonatkozásában nemzetközi jogilag 2021. október 25-én hatályba lépett.)
