@@ -68,6 +68,8 @@
 
 26. felmondási jog: a szerződés felmondására irányuló jog, a kötelezettségek esedékességének előrehozására, lezárására, egymással szemben való elszámolására vagy nettósítására irányuló jog vagy az egyik szerződő fél fizetési kötelezettségét felfüggesztő, módosító vagy megszüntető bármely hasonló rendelkezés, illetve olyan rendelkezés, amely megakadályozza egy szerződés szerinti követelés esedékessé válását;
 
+26a. felszámolandó szervezet: EGT-államban letelepedett olyan jogi személy, amelynek tekintetében a csoportszintű szanálási terv vagy – csoporthoz nem tartozó szervezet esetében – a szanálási terv előírja, hogy a szervezetet rendes fizetésképtelenségi eljárás keretében kell felszámolni, vagy egy szanálás alá vonható csoporton belüli, de szanálás alá nem vonható szervezet, amely tekintetében a csoportszintű szanálási terv nem rendelkezik a leírási és átalakítási hatáskörök gyakorlásáról;
+
 27. felügyeleti hatóság: a Hpt.-ben ekként meghatározott fogalom;
 
 28. felügyeleti kollégium: a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvényben meghatározott testület;

@@ -8,6 +8,8 @@ b) a 2014/59/EU irányelvnek a fedezetlen, hitelviszonyt megtestesítő instrume
 
 c) a hitelintézetek és a befektetési vállalkozások veszteségviselő és feltőkésítési képessége tekintetében a 2014/59/EU irányelv, valamint a 98/26/EK irányelv módosításáról szóló, 2019. május 20-i (EU) 2019/879 európai parlamenti és tanácsi irányelvnek
 
+e) a 2014/59/EU irányelvnek és a 806/2014/EU rendeletnek a szavatolótőkére és a leírható, illetve átalakítható kötelezettségekre vonatkozó minimumkövetelmény egyes vonatkozásai tekintetében történő módosításáról szóló, 2024. április 11-i (EU) 2024/1174 európai parlamenti és tanácsi irányelvnek
+
 való megfelelést szolgálja.
 
 (2) Ez a törvény

@@ -61,3 +61,13 @@
 A szanálhatóság értékelése során a szanálási feladatkörében eljáró MNB által mérlegelendő szempontok
 
 ## A szanálási feladatkörében eljáró MNB-nek egy intézmény vagy csoport szanálhatóságának értékelésekor mérlegelnie kell azt, hogy
+
+1. az intézmény mennyire tudja hozzárendelni a fő üzletágakat és a kritikus funkciókat az egyes jogalanyokhoz;
+
+2. a jogi és a vállalati struktúrák mennyire vannak összehangolva a fő üzletágakkal és a kritikus funkciókkal;
+
+3. milyen mértékben léteznek olyan intézkedések, amelyek célja a fő üzletágak és a kritikus működési folyamatok támogatása és fenntartása érdekében az alapvető személyzetről, az infrastruktúráról, a finanszírozásról, a likviditásról és a tőkéről való gondoskodás;
+
+4. az intézmény által fenntartott szolgáltatási megállapodások mekkora hányada érvényesíthető teljes körűen az intézmény szanálása esetén;
+
+5. az intézmény irányítási struktúrája mennyire megfelelő az intézmény szolgáltatási szintre vonatkozó megállapodásainak kezeléséhez, továbbá mennyire biztosítja az e megállapodásokra vonatkozó belső politikáinak betartását;

@@ -22,4 +22,4 @@ c) a 68/A. §-ban vagy a 68/B. § szerinti, a 62. § (2) bekezdése szerinti kö
 
 (3a) Szanálási intézkedés alkalmazása esetén a (3) bekezdés szerinti nyilvánosságra hozatal a 68/A. §-ra, illetve 68/B. §-ra vonatkozó követelmények teljesítésére előírt határidőtől kezdődően alkalmazandó.
 
-(4) Ezt a §-t nem kell alkalmazni azokra a szervezetekre, amelyeknek a szanálási tervében kizárólag a rendes fizetésképtelenségi eljárás keretében történő felszámolás szerepel.
+(4) Ez a § nem alkalmazandó a felszámolandó szervezetre, kivéve, ha a szanálási feladatkörében eljáró MNB a 67. § (3a) bekezdésével összhangban a felszámolandó szervezetre a 62. § (1) bekezdése szerinti minimumkövetelményt határoz meg. Ebben az esetben a szanálási feladatkörében eljáró MNB határozza meg az adatszolgáltatási és nyilvánosságra hozatali kötelezettségek tartalmát és gyakoriságát, amelyről tájékoztatja az érintett szervezetet. Az adatszolgáltatási és nyilvánosságra hozatali kötelezettségek nem haladhatják meg a 67. § (3a) bekezdése szerinti követelményeknek való megfelelés nyomon követéséhez szükséges mértéket.

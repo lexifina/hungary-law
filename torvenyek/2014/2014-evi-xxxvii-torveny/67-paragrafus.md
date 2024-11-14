@@ -18,7 +18,21 @@ a) a szervezet várható veszteségeinek teljes mértékű viselése (veszteség
 
 b) a szanálás alá vonható szervezet és szanálás alá vonható szervezetnek nem minősülő – intézmény vagy az 1. § (1) bekezdés b) és c) pontja szerinti – leányvállalatai feltőkésítése olyan mértékben, amely lehetővé teszi az éven belüli megfelelést az engedélyezési és működési feltételeknek (feltőkésítés).
 
-(3) Ha a szervezet a szanálási tervben foglalt fizetésképtelenségi eljárás keretében kerül megszüntetésre, akkor a szanálási feladatkörében eljáró MNB vizsgálja többek között a pénzügyi stabilitásra gyakorolt hatás és a pénzügyi rendszerre való átterjedés szempontjából is a 62. § szerinti követelmény korlátozásának indokolhatóságát a (2) bekezdés a) pontja szerinti veszteségviselési képességben.
+(3) A szanálási feladatkörében eljáró MNB a felszámolandó szervezetekre nem határozhatja meg a 62. § (1) bekezdése szerinti minimumkövetelményt.
+
+(3a) A (3) bekezdéstől eltérően a szanálási feladatkörében eljáró MNB értékelheti, hogy indokolt-e egy felszámolandó szervezetre egyedi alapon meghatározni a 62. § (1) bekezdése szerinti minimumkövetelményt olyan összegben, amely meghaladja a (2) bekezdés a) pontjával összhangban a veszteségek viseléséhez szükséges összeget. A szanálási feladatkörében eljáró MNB az értékelésében figyelembe veszi különösen a pénzügyi stabilitásra, valamint a pénzügyi rendszerre való átterjedés kockázatára gyakorolt esetleges hatást, ideértve a betétbiztosítási rendszerek finanszírozási képességeinek szempontjait is. Amennyiben a szanálási feladatkörében eljáró MNB a 62. § (1) bekezdése szerinti minimumkövetelményt határoz meg, azt a felszámolandó szervezet a következők közül egy vagy több felhasználásával teljesíti:
+
+a) szavatoló tőke,
+
+b) az 575/2013/EU rendelet 72a. cikkében említett elismerhetőségi kritériumoknak megfelelő kötelezettségek, az 575/2013/EU rendelet 72b. cikk (2) bekezdésének b) és d) pontja kivételével,
+
+c) 66. § (6) bekezdése szerinti kötelezettségek.
+
+(3b) Az 575/2013/EU rendelet 77. cikk (2) bekezdése és 78a. cikke nem alkalmazandó arra a felszámolandó szervezetre, amelyre a szanálási feladatkörében eljáró MNB nem határozta meg a 62. § (1) bekezdés szerinti minimumkövetelményt.
+
+(3c) Az 575/2013/EU rendelet 72e. cikk (5) bekezdése alapján nem vonhatók le az olyan felszámolandó szervezetnek minősülő leányvállalat által kibocsátott szavatoló tőke instrumentumok és leírható, illetve átalakítható kötelezettség-instrumentumok állományai, amelyek tekintetében a szanálási feladatkörében eljáró MNB nem határozta meg a 62. § (1) bekezdése szerinti minimumkövetelményt.
+
+(3d) A (3c) bekezdéstől eltérően az olyan intézménynek vagy 1. § (1) bekezdés b) és c) pontja szerinti szervezetnek, amely nem szanálás alá vonható szervezet, de leányvállalata egy szanálás alá vonható szervezetnek vagy olyan harmadik országbeli szervezetnek, amely szanálás alá vonható szervezet lenne, ha EGT-államban telepedne le, le kell vonnia az ugyanazon szanálás alá vonható csoporthoz tartozó azon leányvállalatokban meglévő szavatoló tőke instrumentum állományait, amelyek olyan felszámolandó szervezetek, amelynél a szanálási feladatkörében eljáró MNB nem határozta meg a 62. § (1) bekezdése szerinti minimumkövetelményt, amennyiben ezen állományok aggregált összege eléri vagy meghaladja a 68/B. § (5) bekezdésében meghatározott elismerhetőségi kritériumoknak megfelelő szavatoló tőkéje és kötelezettségei teljes összegének 7%-át, minden év december 31-én az előző 12 hónap átlagaként számítva.
 
 (4) A szanálás alá vonható szervezet esetében a (2) bekezdés szerinti összeg:
 
