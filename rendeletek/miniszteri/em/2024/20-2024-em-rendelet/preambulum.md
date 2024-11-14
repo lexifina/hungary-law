@@ -1,1 +1,0 @@
-A kereskedelemről szóló 2005. évi CLXIV. törvény 12. § (3) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 160. § 2. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
