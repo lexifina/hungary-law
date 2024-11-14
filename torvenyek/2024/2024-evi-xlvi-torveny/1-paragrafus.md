@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország és az Osztrák Köztársaság között a határon átnyúló mentőszolgálati együttműködésről szóló keretmegállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
