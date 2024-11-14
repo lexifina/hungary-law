@@ -2,4 +2,4 @@ Az Alaptörvény 9. cikk (3) bekezdés k) pontja, valamint a bírák jogállás�
 
 KEH ügyszám: KEH/04678-4/2018.
 
-[^1]: Az 543/2021. (X. 19.) KE határozat alapján a köztársasági elnök dr. Lakatosné dr. Fitos Dóra bírói kinevezését a 2021. november 15. napjától 2024. november 14. napjáig terjedő időtartamra meghosszabbította.
+[^1]: A 296/2024. (XI. 14.) KE határozat alapján a köztársasági elnök dr. Lakatosné dr. Fitos Dóra bírói kinevezését a 2024. november 15. napjától 2027. november 14. napjáig terjedő időtartamra meghosszabbította.
