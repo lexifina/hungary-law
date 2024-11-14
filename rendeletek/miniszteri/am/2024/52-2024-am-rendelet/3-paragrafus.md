@@ -1,3 +1,3 @@
-3. § Az R. 10. §-a a következő (5) bekezdéssel egészül ki:
+3. §[^4]
 
-„(5) Ha az Agrárkamara azt állapítja meg, hogy a szaktanácsadó a beszámoló benyújtását elmulasztotta, felszólítja a mulasztó szaktanácsadót arra, hogy a beszámoló benyújtását egy hónapon belül pótolja.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
