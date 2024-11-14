@@ -1,15 +1,3 @@
 4. § (1) Az e törvény végrehajtásához szükséges intézkedésekről a közlekedésért felelős miniszter (a továbbiakban: miniszter) gondoskodik.
 
 (2) Az Európai Unió és tagállamai, valamint a Moldovai Köztársaság közötti, a közös légtér létrehozásáról szóló megállapodásnak a 2/2021 határozattal egységes szerkezetbe foglalt, hiteles magyar nyelvű szövegének közzétételéről a miniszter gondoskodik.
-
-|
-
-Dr. Sulyok Tamás s. k.,
-
-köztársasági elnök
-
-|
-
-Dr. Latorcai János s. k.,
-
-az Országgyűlés alelnöke
