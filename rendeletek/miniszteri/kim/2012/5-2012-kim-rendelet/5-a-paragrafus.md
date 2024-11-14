@@ -6,16 +6,11 @@
 
 (4) A támogatást nyújtó a kedvezményezett részére az (EU) 2023/2831 bizottsági rendelet 7. cikk (4) bekezdésével összhangban igazolást állít ki a támogatás összegéről bruttó támogatási egyenértékben kifejezve, és annak csekély összegű jellegéről, közvetlenül utalva az (EU) 2023/2831 bizottsági rendeletre.
 
-(5) A támogatás más csekély összegű támogatásokról szóló rendeleteknek megfelelően nyújtott csekély összegű támogatással a vonatkozó bizottsági rendeletekben foglalt felső támogatási határok közül a legmagasabb felső határig halmozható, amely bizottsági rendeletek a következők:
-
-a) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2023. december 13-i 2023/2831/EU bizottsági rendelet,
-
-b) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet, valamint
-
-c) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a halászati és akvakultúra-ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2014. június 27-i 717/2014/EU bizottsági rendelet.
+(5)[^60] A támogatás – az (EU) 2023/2832 bizottsági rendelet alapján nyújtott támogatás kivételével – más csekély összegű támogatásokról szóló rendeletek alapján nyújtott csekély összegű támogatással az (1) bekezdésben meghatározott értékhatárig halmozható.
 
 (6) A támogatás halmozható azonos elszámolható költségek vagy azonos kockázatfinanszírozási célú intézkedés vonatkozásában nyújtott állami támogatással, ha a halmozás következtében az odaítélt támogatások nem lépik túl a csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitást vagy összeget.
 
 (7) A támogatás nem nyújtható az (EU) 2023/2831 bizottsági rendelet 1. cikk (1) bekezdésében meghatározott tevékenységet folytató vállalkozások számára és célokra, figyelemmel az (EU) 2023/2831 bizottsági rendelet 1. cikk (2) bekezdésében foglaltakra is.
 
 [^59]: Az 5/A. §-t a 6/2024. (V. 7.) MVM rendelet 3. §-a iktatta be.
+[^60]: Az 5/A. § (5) bekezdése a 10/2024. (XI. 11.) MvM rendelet 1. §-ával megállapított szöveg.

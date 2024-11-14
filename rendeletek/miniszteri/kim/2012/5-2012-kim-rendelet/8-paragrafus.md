@@ -4,7 +4,7 @@
 
 a) az adott költségvetési évben a helyszínen ellenőrzött szervezetek száma ne haladja meg az összes kedvezményezett öt százalékát;
 
-b)[^75]
+b)[^76]
 
 ba) tízmillió forint összeg feletti támogatást igénybe vevő, továbbá
 
@@ -20,4 +20,4 @@ b) az elszámolás az azokat megalapozó nyilatkozatokkal és bizonylatokkal ös
 
 c) a támogatás kerete terhére beszerzett eszközök rendelkezésre állnak, és felhasználásuk, használatuk a pályázati kiírásnak megfelelően történik.
 
-[^75]: A 8. § (2) bekezdés b) pontját az 5/2023. (VIII. 30.) MVM rendelet 10. § c) pontja hatályon kívül helyezte.
+[^76]: A 8. § (2) bekezdés b) pontját az 5/2023. (VIII. 30.) MVM rendelet 10. § c) pontja hatályon kívül helyezte.

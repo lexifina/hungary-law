@@ -1,20 +1,20 @@
-## 12/B. [^102] Az egyszerűsített támogatásokra vonatkozó különös szabályok
+## 12/B. [^103] Az egyszerűsített támogatásokra vonatkozó különös szabályok
 
 14/B. § (1) Egyszerűsített támogatásra – beérkezési sorrendben, az erre vonatkozó keret kimerüléséig – jogosult az a helyi vagy területi hatókörű civil szervezet, amely
 
 a) a támogatási igény benyújtását megelőző két évben letétbe helyezett teljes és közzétett számviteli beszámolóval rendelkezik,
 
-b)[^103] a pályázat megjelenését megelőző utolsó két lezárt üzleti évben a beszámolóval igazolható éves összes bevétele egyik évben sem éri el az hétmillió forintot, és
+b)[^104] a pályázat megjelenését megelőző utolsó két lezárt üzleti évben a beszámolóval igazolható éves összes bevétele egyik évben sem éri el az hétmillió forintot, és
 
-c)[^104] az adott költségvetési év forrása tekintetében nem nyújtott be a Civil tv. 56. § (1) bekezdés b), c) és j) pontjára vonatkozó támogatási igényt.
+c)[^105] az adott költségvetési év forrása tekintetében nem nyújtott be a Civil tv. 56. § (1) bekezdés b), c) és j) pontjára vonatkozó támogatási igényt.
 
-(1a)[^105] Az (1) bekezdés b) pontja szerinti értékhatár összegébe nem számít bele a Magyar Falu Program jogcímcsoport terhére nyújtott támogatások összege.
+(1a)[^106] Az (1) bekezdés b) pontja szerinti értékhatár összegébe nem számít bele a Magyar Falu Program jogcímcsoport terhére nyújtott támogatások összege.
 
-(1b)[^106]
+(1b)[^107]
 
 (2) A támogatást önrész nélkül, támogatási előlegként, vissza nem térítendő támogatásként kell biztosítani.
 
-(3)[^107] Az egyszerűsített támogatás keretében a támogatási igényben jelzett, de legfeljebb négyszázezer forint összegű támogatás nyújtható, és azt a civil szervezet kizárólag az alapcél szerinti tevékenységéhez kapcsolódó költségeinek fedezésére fordíthatja.
+(3)[^108] Az egyszerűsített támogatás keretében a támogatási igényben jelzett, de legfeljebb négyszázezer forint összegű támogatás nyújtható, és azt a civil szervezet kizárólag az alapcél szerinti tevékenységéhez kapcsolódó költségeinek fedezésére fordíthatja.
 
 (4) A támogatás biztosítására irányuló kérelmet az Alapkezelőhöz kell elektronikusan, az e célra rendszeresített elektronikus pályázatkezelési rendszeren keresztül benyújtani.
 
@@ -24,12 +24,12 @@ c)[^104] az adott költségvetési év forrása tekintetében nem nyújtott be a
 
 (7) A II. fejezet 6–8. címeiben szabályozott, az elszámolást, az ellenőrzést, az Alap támogatásaiból történő kizárást érintő eljárásokban az a kollégium a döntéshozó, amelyhez a pályázatot benyújtották.
 
-(8)[^108] Az egyszerűsített támogatás elszámolása a 6. § (1a) bekezdése szerint történik.
+(8)[^109] Az egyszerűsített támogatás elszámolása a 6. § (1a) bekezdése szerint történik.
 
-[^102]: A 12/B. alcímet (14/B. §) a 23/2017. (X. 3.) EMMI rendelet 8. §-a iktatta be.
-[^103]: A 14/B. § (1) bekezdés b) pontja a 11/2022. (VIII. 1.) MvM rendelet 5. § a) pontja szerint módosított szöveg.
-[^104]: A 14/B. § (1) bekezdés c) pontja az 5/2023. (VIII. 30.) MVM rendelet 9. § k) pontja szerint módosított szöveg.
-[^105]: A 14/B. § (1a) bekezdését a 11/2021. (IX. 17.) MvM rendelet 2. §-a iktatta be.
-[^106]: A 14/B. § (1b) bekezdését a 11/2021. (IX. 17.) MvM rendelet 2. §-a iktatta be, az 5/2023. (VIII. 30.) MVM rendelet 10. § d) pontja hatályon kívül helyezte.
-[^107]: A 14/B. § (3) bekezdése az 5/2023. (VIII. 30.) MVM rendelet 9. § l) pontja szerint módosított szöveg.
-[^108]: A 14/B. § (8) bekezdését a 11/2022. (VIII. 1.) MvM rendelet 2. §-a iktatta be, szövege az 5/2023. (VIII. 30.) MVM rendelet 9. § j) pontja szerint módosított szöveg.
+[^103]: A 12/B. alcímet (14/B. §) a 23/2017. (X. 3.) EMMI rendelet 8. §-a iktatta be.
+[^104]: A 14/B. § (1) bekezdés b) pontja a 11/2022. (VIII. 1.) MvM rendelet 5. § a) pontja szerint módosított szöveg.
+[^105]: A 14/B. § (1) bekezdés c) pontja az 5/2023. (VIII. 30.) MVM rendelet 9. § k) pontja szerint módosított szöveg.
+[^106]: A 14/B. § (1a) bekezdését a 11/2021. (IX. 17.) MvM rendelet 2. §-a iktatta be.
+[^107]: A 14/B. § (1b) bekezdését a 11/2021. (IX. 17.) MvM rendelet 2. §-a iktatta be, az 5/2023. (VIII. 30.) MVM rendelet 10. § d) pontja hatályon kívül helyezte.
+[^108]: A 14/B. § (3) bekezdése az 5/2023. (VIII. 30.) MVM rendelet 9. § l) pontja szerint módosított szöveg.
+[^109]: A 14/B. § (8) bekezdését a 11/2022. (VIII. 1.) MvM rendelet 2. §-a iktatta be, szövege az 5/2023. (VIII. 30.) MVM rendelet 9. § j) pontja szerint módosított szöveg.
