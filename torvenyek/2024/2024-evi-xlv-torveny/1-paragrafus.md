@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyar Köztársaság és a Jugoszláv Szövetségi Köztársaság között a kettős adóztatás elkerüléséről a jövedelem- és a vagyonadók területén Budapesten, 2001. június 20-án aláírt Egyezmény (a továbbiakban: Egyezmény) módosításáról szóló Jegyzőkönyv (a továbbiakban: Jegyzőkönyv) kötelező hatályának elismerésére.
