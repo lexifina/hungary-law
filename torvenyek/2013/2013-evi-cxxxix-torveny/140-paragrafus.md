@@ -150,7 +150,7 @@ c) a 4. § (8) bekezdésben meghatározott feladatára tekintettel az Európai B
 
 2.25. a pénzforgalmi szolgáltatók által az MNB rendelkezésére bocsátott információk alapján a különböző fizetési módokhoz kapcsolódó csalásokra vonatkozó összesített statisztikai adatokról,
 
-2.26. szanálási feladatkörben a szavatoló tőkére és a leírható, illetve átalakítható kötelezettségekre vonatkozó azon minimumkövetelményről, amelyet a Szantv. 68/A. §-ával vagy 68/B. §-ával összhangban a Szantv. hatálya alá tartozó minden egyes szervezet tekintetében megállapítottak;
+2.26. szanálási feladatkörben a szavatoló tőkére és a leírható, illetve átalakítható kötelezettségekre vonatkozó azon minimumkövetelményről, amelyet a Szantv. 68/A. §-ával vagy 68/B. §-ával összhangban a Szantv. hatálya alá tartozó minden egyes szervezet tekintetében megállapított, ideértve a Szantv. 68/B. § (2a) bekezdése alapján hozott határozatot is,
 
 2.27. a Bszt. 164. §-a szerinti szankciók szintjéről,
 
