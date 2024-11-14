@@ -1,22 +1,22 @@
 A Kormány
 
-1.
+1.[^1]
 
-a) egyetért a BrainVisionCenter Tudás- és Kompetencia Központ 2022–2024. években legfeljebb 5 200 000 000 forint összegben történő támogatásával, az alábbi ütemezés szerint:
+a) egyetért a BrainVisionCenter Tudás- és Kompetencia Központ 2022–2024. években legfeljebb 5 600 000 000 forint összegben történő támogatásával, az alábbi ütemezés szerint:
 
 aa) a 2022. évben 3 899 800 000 forint,
 
 ab) a 2023. évben 628 500 000 forint,
 
-ac) a 2024. évben 671 700 000 forint,
+ac) a 2024. évben 1 071 700 000 forint,
 
-b) a tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény (a továbbiakban: KFItv.) 13. § (1) bekezdés c) pontjában meghatározott feladatkörében eljárva felhívja az innovációért és technológiáért felelős minisztert, hogy a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal (a továbbiakban: NKFI Hivatal) elnöke útján gondoskodjon az a) alpont aa) pontjában meghatározott 2022. évi támogatás Nemzeti Kutatási, Fejlesztési és Innovációs Alap (a továbbiakban: NKFI Alap) 2022. évi kiadási előirányzata terhére történő biztosítása érdekében szükséges intézkedések megtételéről;
+b) a tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény (a továbbiakban: KFItv.) 13. § (1) bekezdés c) pontjában meghatározott feladatkörében eljárva felhívja a kultúráért és innovációért felelős minisztert, hogy a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal (a továbbiakban: NKFI Hivatal) elnöke útján gondoskodjon az a) alpont ac) pontjában meghatározott 2024. évi támogatás Nemzeti Kutatási, Fejlesztési és Innovációs Alap (a továbbiakban: NKFI Alap) 2024. évi kiadási előirányzata terhére történő biztosítása érdekében szükséges intézkedések megtételéről;
 
-Felelős: innovációért és technológiáért felelős miniszter
+| Felelős: | kultúráért és innovációért felelős miniszter |
 
-Határidő: azonnal
+| Határidő: | azonnal |
 
-2.[^1]
+2.[^2]
 
 3. az Országos Tudományos Diákköri Konferencia (a továbbiakban: OTDK) kutatói utánpótlás-nevelésben betöltött kiemelkedő szerepére tekintettel
 
@@ -68,4 +68,5 @@ Felelős: innovációért és technológiáért felelős miniszter
 
 Határidő: azonnal
 
-[^1]: A 2. pontot az 1135/2023. (IV. 11.) Korm. határozat 3. pontja hatályon kívül helyezte.
+[^1]: Az 1. pont az 1346/2024. (XI. 14.) Korm. határozat szövegével megállapított szöveg.
+[^2]: A 2. pontot az 1135/2023. (IV. 11.) Korm. határozat 3. pontja hatályon kívül helyezte.
