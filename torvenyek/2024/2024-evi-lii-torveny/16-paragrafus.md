@@ -1,0 +1,7 @@
+16. § (1) A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény 55/I. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az ivóvíz-bekötővezeték kiépítésére, fertőtlenítésére, a helyszíni szemlére, a nyomáspróbára, a működőképességi és vízzárósági próbára, a vízmérési helyen a bekötési vízmérő beszerelésére, továbbá a szennyvíz-bekötővezeték létesítésére, annak a már üzemeltetett szennyvíz-törzshálózatra való bekötésére az igénybejelentő – víziközmű-szolgáltató helyett – a kivitelezési jogosultsággal rendelkező vízszerelők nyilvántartásában szereplő személynek és a geodéziai bemérésre földmérési és térképészeti tevékenység végzéséhez szükséges szakképzettségről szóló miniszteri rendeletben meghatározott szakképzettséggel rendelkező személynek is megbízást adhat. A kivitelezési jogosultsággal rendelkező vízszerelők nyilvántartását a műszaki biztonsági hatóság vezeti. A víziközmű-szolgáltató köteles az igénybejelentővel, valamint az igénybejelentő által megbízott kivitelezési jogosultsággal rendelkező személlyel együttműködni.”
+
+(2) A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény 55/I. §-a a következő (3) bekezdéssel egészül ki:
+
+„(3) A közforgalom elől el nem zárt területen létesült csatlakozó hálózat geodéziai bemérésre az igénybejelentő kizárólag a földmérési és térképészeti tevékenység végzéséhez szükséges szakképzettségről szóló miniszteri rendeletben meghatározott szakképzettséggel rendelkező személynek adhat megbízást.”
