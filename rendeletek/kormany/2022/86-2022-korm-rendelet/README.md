@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-86-20-2
 | 2023-03-01 | 2022-86-20-22.11 | 58/2023. (II. 28.) Korm. rendelet |
 | 2023-08-01 | 2022-86-20-22.12 | 337/2023. (VII. 24.) Korm. rendelet |
 | 2024-03-01 | 2022-86-20-22.13 | 30/2024. (II. 22.) Korm. rendelet |
+| 2024-11-15 | 2022-86-20-22.14 | 2021. évi I. törvény |
