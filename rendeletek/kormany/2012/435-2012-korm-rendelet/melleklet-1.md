@@ -1,4 +1,4 @@
-1. melléklet a 435/2012. (XII. 29.) Korm. rendelethez[^43]
+1. melléklet a 435/2012. (XII. 29.) Korm. rendelethez[^48]
 
 Beváltási Kérelem
 
@@ -8,23 +8,23 @@ Kötelezett adatai:
 
 Megnevezése:
 
-Székhelye: ………………
+Székhelye:
 
-Adóazonosító száma, egyéb: …………………
+Adóazonosító száma, egyéb azonosító száma:
 
 Az állami készfizető kezességvállalás alapjául szolgáló kormányhatározat száma:
 
-1. Az állami készfizető kezességvállalással biztosított hitel- vagy pénzkölcsön adatai:
+1. Az állami készfizető kezességvállalással biztosított hitel- vagy pénzkölcsön, kötvény adatai:
 
-a) a hitel/pénzkölcsön célja:
+a) a hitel/pénzkölcsön/kötvénykibocsátás célja:
 
-b) a hitel/kölcsönszerződés kelte:
+b) a hitel/kölcsönszerződés / információs összeállítás / adásvételi vagy más szerződés kelte:
 
-c) a hitel/pénzkölcsön szerződéses összege:
+c) a hitel/pénzkölcsön szerződéses összege / kötvény össznévértéke:
 
-d) a hitel/pénzkölcsön folyósított összege:
+d) a hitel/pénzkölcsön folyósított összege / lejegyzett kötvények darabszáma és össznévértéke:
 
-e) a hitel/kölcsönszerződés végső lejárati napja / a felmondás hatályosulásának napja:
+e) a hitel/kölcsönszerződés/kötvény végső lejárati napja / a felmondás hatályosulásának napja / kötvény visszaváltásának napja:
 
 f) a beváltáskor fennálló tőke összege:
 
@@ -42,31 +42,31 @@ e) az állami készfizető kezességvállalás beváltását megelőzően megtet
 
 3. Mellékletek:
 
-a) hitel/kölcsönszerződés és azok módosításai
+a) hitel/kölcsönszerződés és azok módosításai / információs összeállítás és azok módosításai / más jogcímen történő kötvényszerzés esetén az adásvételi vagy más szerződés és azok módosításai
 
 b) biztosítéki szerződések (amennyiben vannak)
 
-c) az Eximbank nyilatkozata arról, hogy a hitelt/pénzkölcsönt kormányhatározatban megjelölt célra használták fel
+c) az Eximbank nyilatkozata arról, hogy a hitelt/pénzkölcsönt / kötvénykibocsátás útján bevont forrást a kormányhatározatban megjelölt célra használták fel
 
-d) a hitel/pénzkölcsön cél szerinti felhasználását igazoló dokumentum(ok)
+d) a hitel/pénzkölcsön / a kötvénykibocsátás útján bevont forrás cél szerinti felhasználását igazoló dokumentum(ok)
 
-e) az Eximbank nyilatkozata arra vonatkozóan, hogy volt-e megtérülés az esetleges biztosítékokból és annak mértéke
+e) az Eximbank nyilatkozata arra vonatkozóan, hogy volt-e megtérülés az esetleges biztosítékokból, és annak mértéke
 
-f) az Eximbank nyilatkozata arra vonatkozóan, hogy az állami készfizető kezességvállalás beváltását a hitel/kölcsönszerződés felmondása vagy a hitel/pénzkölcsön végső lejárati napján történő nem fizetés indokolta
+f) az Eximbank nyilatkozata arra vonatkozóan, hogy az állami készfizető kezességvállalás beváltását a hitel/kölcsönszerződés felmondása vagy a hitel/pénzkölcsön végső lejárati napján történő nemfizetés, illetve a kötvény végső lejárati napján történő nemfizetés vagy a kötvény – lejárat előtti – visszaváltási kötelezettség nemteljesítése indokolta
 
-g) a fenti f) pontban foglaltakat alátámasztó dokumentum(ok) (felmondás esetén a felmondás kézbesítését igazoló irat)
+g) az f) pontban foglaltakat alátámasztó dokumentum(ok) (felmondás esetén a felmondás kézbesítését igazoló irat)
 
 h) felmondás esetén annak indokának bemutatása
 
-i) annak igazolása, hogy a 435/2012. (XII. 29.) Korm. rendelet 5/A. § (1) bekezdésében foglalt kizáró okok nem álltak fenn[^44]
+i) annak igazolása, hogy a 435/2012. (XII. 29.) Korm. rendelet 5/A. § (1) bekezdésében foglalt kizáró okok nem álltak fenn[^49]
 
 j) tartozáskimutatás
 
-Dátum: ………………
+Dátum: ..................................................
 
-………………………………
+................................................................................
 
 Cégszerű aláírás
 
-[^43]: Az 1. mellékletet a 126/2020. (IV. 16.) Korm. rendelet 18. § e) pontja hatályon kívül helyezte, újonnan az 538/2023. (XII. 6.) Korm. rendelet 3. §-a iktatta be.
-[^44]: A Magyar Export-Import Bank Zrt. által az állam készfizető kezessége mellett vállalható garanciák, valamint a deviza- és kamatcsere ügyletek pótlási- és kamatköltségei feltételeiről és részletes szabályairól szóló 435/2012. (XII. 29.) Korm. rendelet módosításáról szóló 538/2023. (XII. 6.) Korm. rendelet hatálybalépését megelőzően létrejött hitel- és pénzkölcsön esetén a 3. pont i) alpontjában foglaltak igazolására az Eximbank nyilatkozata is elfogadható.
+[^48]: Az 1. mellékletet a 126/2020. (IV. 16.) Korm. rendelet 18. § e) pontja hatályon kívül helyezte, újonnan az 538/2023. (XII. 6.) Korm. rendelet 3. §-a iktatta be, szövege a 339/2024. (XI. 14.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^49]: A Magyar Export-Import Bank Zrt. által az állam készfizető kezessége mellett vállalható garanciák, valamint a deviza- és kamatcsere ügyletek pótlási- és kamatköltségei feltételeiről és részletes szabályairól szóló 435/2012. (XII. 29.) Korm. rendelet módosításáról szóló 538/2023. (XII. 6.) Korm. rendelet hatálybalépését megelőzően létrejött hitel- és pénzkölcsön esetén a 3. pont i) alpontjában foglaltak igazolására az Eximbank nyilatkozata is elfogadható.

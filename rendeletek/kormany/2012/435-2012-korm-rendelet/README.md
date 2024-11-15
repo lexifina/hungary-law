@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-435-20-
 | 2021-05-07 | 2012-435-20-22.12 | 80/2014. (III. 14.) Korm. rendelet |
 | 2022-10-26 | 2012-435-20-22.13 | 412/2022. (X. 25.) Korm. rendelet |
 | 2023-12-07 | 2012-435-20-22.14 | 538/2023. (XII. 6.) Korm. rendelet |
+| 2024-11-15 | 2012-435-20-22.15 | 339/2024. (XI. 14.) Korm. rendelet |
