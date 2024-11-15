@@ -20,7 +20,7 @@
 
 7. a víziközmű-felügyeleti bírság mértékét, megállapításának szempontrendszerét és a bírság megfizetése módjának részletszabályait;
 
-8.
+8. az objektumvédelemmel kapcsolatos objektumvédelmi védősávok kijelölésének és fenntartásának részletszabályait;
 
 9. a víziközmű-szolgáltató kötelezettségei teljesítésével kapcsolatos áruk és szolgáltatások körét, a beszerzésre, a kiválasztásra és a megbízásra vonatkozó feltételeket és eljárásokat;
 

@@ -29,3 +29,5 @@ c) műszaki kialakítása miatt aránytalan (az újraelőállítási érték 30%
 (8) A Hivatal víziközmű minősítéséről hozott döntése a döntés tárgyát képező vízilétesítmény vízjogi létesítési vagy vízjogi üzemeltetési engedélye hatályvesztésével hatályát veszti.
 
 (9) A (6) bekezdés szerinti kérelem kötelező tartalmi elemeit az e törvény végrehajtására kiadott kormányrendelet tartalmazza.
+
+(10) A közcélú szennyvíztisztítást ellátó vízilétesítmények, valamint a közcélú szennyvíztisztítást szolgáló objektumok védelmére, illetve a szomszédos ingatlanoktól történő elhatárolására (a továbbiakban együtt: objektumvédelem) védősávot kell kijelölni. Az objektumvédelmi védősáv kijelölésének és fenntartásának részletszabályait az e törvény végrehajtására kiadott kormányrendelet határozza meg.
