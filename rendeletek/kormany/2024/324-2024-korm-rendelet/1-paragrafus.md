@@ -1,0 +1,1 @@
+1. § A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya, valamint az Azerbajdzsáni Köztársaság, Georgia és Románia kormányai között a zöld energia fejlesztéséről és szállításáról szóló Megállapodás módosításáról szóló Módosító Jegyzőkönyv (a továbbiakban: Módosító Jegyzőkönyv) kötelező hatályának elismerésére.
