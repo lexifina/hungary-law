@@ -26,3 +26,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-467-20-
 | 2023-01-01 | 2017-467-20-22.18 | 618/2022. (XII. 29.) Korm. rendelet |
 | 2023-07-22 | 2017-467-20-22.19 | 310/2023. (VII. 14.) Korm. rendelet |
 | 2023-12-19 | 2017-467-20-22.20 | 310/2023. (VII. 14.) Korm. rendelet |
+| 2024-11-15 | 2017-467-20-22.21 | 618/2022. (XII. 29.) Korm. rendelet |
