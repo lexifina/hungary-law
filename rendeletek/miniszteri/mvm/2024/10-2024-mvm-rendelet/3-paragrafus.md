@@ -1,7 +1,3 @@
-3. § Az R.
+3. §[^4]
 
-a) 11. § (7) bekezdésében, 12. § (5) bekezdésében és 13. § (7) bekezdésében a „legfeljebb hárommillió” szövegrész helyébe a „legfeljebb ötmillió” szöveg,
-
-b) 11. § (7) bekezdésében, 12. § (5) bekezdésében és 13. § (7) bekezdésében az „a hárommillió” szövegrész helyébe az „az ötmillió” szöveg
-
-lép.
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
