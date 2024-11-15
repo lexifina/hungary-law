@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-322-20-
 | --- | --- | --- |
 | 2024-11-07 | 2024-322-20-22.1 | 322/2024. (XI. 6.) Korm. rendelet |
 | 2024-11-08 | 2024-322-20-22.2 | 2010. évi CXXX. törvény |
+| 2024-11-15 | 2024-322-20-22.5 | 342/2024. (XI. 14.) Korm. rendelet |

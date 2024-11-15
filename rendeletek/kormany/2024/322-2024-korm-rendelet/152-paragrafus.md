@@ -6,7 +6,7 @@
 
 (2) A digitális szolgáltatást biztosító szervezet a 147. § (2) bekezdése szerinti bejelentést 2024. december 31-ig teszi meg.
 
-(3) Az e rendelet hatálybalépését megelőzően nyilvántartásba vett elektronikus ügyintézést önként vállaló jogalany 2024. november 1-jéig köteles a Felügyelet felé bejelentést tenni a Dáptv. 9. § (4) bekezdésében és e rendeletben meghatározott digitális szolgáltatások nyújtását önként vállaló szervvé válás feltételeinek vállalásáról. A feltételek vállalása esetén a vállaló szervezet köteles az engedélyezés iránti kérelmet 2024. december 31-ig előterjeszteni.
+(3)[^6] Az e rendelet hatálybalépését megelőzően nyilvántartásba vett elektronikus ügyintézést önként vállaló jogalany köteles a Felügyelet felé bejelentést tenni a Dáptv. 9. § (4) bekezdésében és az e rendeletben meghatározott digitális szolgáltatások nyújtását önként vállaló szervvé válás feltételeinek vállalásáról és a feltételek vállalása esetén a vállaló szervezet köteles az engedélyezés iránti kérelmet 2024. december 31-ig előterjeszteni.
 
 (4) Ha a (3) bekezdés szerinti jogalany nem vállalja a Dáptv. szerinti feltételek teljesítését, úgy köteles 2024. december 31-ig az igénybe vett támogató szolgáltatások igénybevételét megszüntetnie és ezt bejelentenie a Felügyelet részére.
 
@@ -19,3 +19,8 @@
 (8) A 451/2016. (XII. 19.) Korm. rendelet e rendelet hatálybalépését megelőzően hatályos rendelkezéseit a biztonságos kézbesítési szolgáltatásra és az ahhoz kapcsolódó tárhelyekre 2025. december 31-ig alkalmazni kell.
 
 (9) A Dáptv. 8. § 24. pont b) alpontja szerinti gazdálkodó szervezetnek minősülő, adószámmal rendelkező egyházi jogi személy köteles legkésőbb 2024. december 31-ig a cégkapu-regisztrációt elvégezni. A cégkapu-regisztráció elvégzésig az egyházi jogi személy a 2024. szeptember 1-jét megelőző szabályok szerint tart kapcsolatot. Az egyházi jogi személy jogosult a 2024. szeptember 1-jétől e rendelet hatálybalépéséig elektronikus ügyintézési kötelezettségre hivatkozással elutasított kérelmét ismételten a 2024. szeptember 1-jét megelőző szabályok szerint benyújtani, azzal, hogy kérelmét határidőben benyújtottnak kell tekinteni.
+
+(10)[^7] 2025. június 1-jéig a támogató szolgáltatások igénybevételét az e rendelet hatálybalépését megelőzően hatályos 451/2016. (XII. 19.) Korm. rendelet 68/A. §-a szerint szükséges biztosítani, ha az igénybevevő a 451/2016. (XII. 19.) Korm. rendelet 68/A. § (1) bekezdése szerinti szereplő.
+
+[^6]: A 152. § (3) bekezdése a 342/2024. (XI. 14.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^7]: A 152. § (10) bekezdését a 342/2024. (XI. 14.) Korm. rendelet 16. §-a iktatta be.
