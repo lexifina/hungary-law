@@ -1,4 +1,4 @@
-7. §[^53] (1) Az ÁAFK keretében nyújtott, a 6. § alapján közszolgáltatási szerződés keretében finanszírozott közszolgáltatások – ideértve az ÁAFK alkalmazásfejlesztés megvalósításához szükséges terjedelmű használatát, valamint a 4. § (1) bekezdés a) pont af) alpontjában rögzített módszertan szerint meghatározott, szakmailag indokolt mértékű fejlesztői kapacitásokat is – e rendelet alapján, a központi alkalmazás-szolgáltató az ÁAFK mint központi infokommunikációs közszolgáltatás igénybevételére irányuló csatlakozási kérelemről hozott döntését követően, közszolgáltatási szerződés alapján, az ott meghatározott feltételekkel vehetők igénybe.
+7. §[^55] (1) Az ÁAFK keretében nyújtott, a 6. § alapján közszolgáltatási szerződés keretében finanszírozott közszolgáltatások – ideértve az ÁAFK alkalmazásfejlesztés megvalósításához szükséges terjedelmű használatát, valamint a 4. § (1) bekezdés a) pont af) alpontjában rögzített módszertan szerint meghatározott, szakmailag indokolt mértékű fejlesztői kapacitásokat is – e rendelet alapján, a központi alkalmazás-szolgáltató az ÁAFK mint központi infokommunikációs közszolgáltatás igénybevételére irányuló csatlakozási kérelemről hozott döntését követően, közszolgáltatási szerződés alapján, az ott meghatározott feltételekkel vehetők igénybe.
 
 (2) A fejlesztő szervezet a megrendelő szervvel kötött szerződése alapján, a központi alkalmazás-szolgáltató az ÁAFK mint központi infokommunikációs közszolgáltatás igénybevételére irányuló csatlakozási kérelemről hozott döntését követően, a központ termék minőségbiztosító bevonásával, az ÁAFK funkcionalitásának használatával és szabályrendszerének betartásával köteles végrehajtani a fejlesztési megbízás teljesítése érdekében szükséges alkalmazásfejlesztési, tesztelési és bevezetési feladatokat.
 
@@ -20,4 +20,4 @@ f) a felek által az alkalmazásfejlesztés folyamatában közösen kijelölt fe
 
 g) a szerződő felek jogai és kötelezettségei.
 
-[^53]: A 7. § a 717/2021. (XII. 20.) Korm. rendelet 26. § (3) bekezdésével megállapított szöveg.
+[^55]: A 7. § a 717/2021. (XII. 20.) Korm. rendelet 26. § (3) bekezdésével megállapított szöveg.

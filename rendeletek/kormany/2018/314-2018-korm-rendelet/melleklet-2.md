@@ -1,3 +1,3 @@
-2. melléklet a 314/2018. (XII. 27.) Korm. rendelethez[^103]
+2. melléklet a 314/2018. (XII. 27.) Korm. rendelethez[^107]
 
-[^103]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^107]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

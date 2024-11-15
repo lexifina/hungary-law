@@ -24,11 +24,11 @@ c) amelyek vonatkozásában az e-közigazgatási és informatikai fejlesztések 
 
 (5b)[^17] E rendelet nem alkalmazandó
 
-a) a polgári nemzetbiztonsági, honvédelmi, katonai nemzetbiztonsági, rendvédelmi, diplomáciai és konzuli érdeket (a továbbiakban: védett érdek) érintő feladatokat ellátó szervezeteknek az alapfeladataik ellátását közvetlenül támogató informatikai szakrendszerekkel kapcsolatos alkalmazásfejlesztéseire, valamint a védett érdeket érintő feladatokhoz nem kapcsolódó olyan informatikai rendszereikkel kapcsolatos alkalmazásfejlesztéseire, amelyek olyan kódolási, rendszerkapcsolati, működési-logikai, illetve egyéb fejlesztés technológiai megoldásokkal készültek, vagy ilyen megoldásokat tartalmaznak, amelyek mások általi megismerése közvetlenül sértheti vagy veszélyeztetheti a védett érdekeket,
+a)[^18] a polgári nemzetbiztonsági, honvédelmi, katonai nemzetbiztonsági, rendvédelmi, diplomáciai és konzuli érdeket (a továbbiakban: védett érdek) érintő feladatokat ellátó szervezeteknek a védett érdekkel összefüggő alapfeladataik ellátását közvetlenül támogató informatikai szakrendszerekkel kapcsolatos alkalmazásfejlesztéseire, valamint a védett érdeket érintő feladatokhoz nem kapcsolódó olyan informatikai rendszereikkel kapcsolatos alkalmazásfejlesztéseire, amelyek olyan kódolási, rendszerkapcsolati, működési-logikai, illetve egyéb fejlesztés technológiai megoldásokkal készültek, vagy ilyen megoldásokat tartalmaznak, amelyek mások általi megismerése közvetlenül sértheti vagy veszélyeztetheti a védett érdekeket,
 
 b) a védett érdeket érintő feladatokat ellátó szervezetek körébe nem tartozó szervek rendszereivel kapcsolatos alkalmazásfejlesztéseire, amelyek olyan kódolási, rendszerkapcsolati, működési-logikai, illetve egyéb fejlesztés-technológiai megoldásokkal készültek, vagy ilyen megoldásokat tartalmaznak, amelyek mások általi megismerése közvetlenül sértheti vagy veszélyeztetheti a védett érdekeket.
 
-(6)[^18] A miniszter, valamint a 3. § (1) és (2) bekezdése szerinti szervek e rendelet szerinti eljárásai nem minősülnek hatósági eljárásnak.
+(6)[^19] A miniszter, valamint a 3. § (1) és (2) bekezdése szerinti szervek e rendelet szerinti eljárásai nem minősülnek hatósági eljárásnak.
 
 [^11]: A 2. § (1) bekezdése a 618/2022. (XII. 29.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
 [^12]: A 2. § (2) bekezdése a 182/2019. (VII. 26.) Korm. rendelet 9. § (1) bekezdésével megállapított, a 618/2022. (XII. 29.) Korm. rendelet 21. § c) pontja szerint módosított szöveg.
@@ -37,4 +37,5 @@ b) a védett érdeket érintő feladatokat ellátó szervezetek körébe nem tar
 [^15]: A 2. § (5) bekezdése a 618/2022. (XII. 29.) Korm. rendelet 21. § e) pontja szerint módosított szöveg.
 [^16]: A 2. § (5a) bekezdését a 182/2019. (VII. 26.) Korm. rendelet 9. § (2) bekezdése iktatta be, a 618/2022. (XII. 29.) Korm. rendelet 22. § b) pontja hatályon kívül helyezte.
 [^17]: A 2. § (5b) bekezdését a 618/2022. (XII. 29.) Korm. rendelet 20. § (3) bekezdése iktatta be.
-[^18]: A 2. § (6) bekezdése a 618/2022. (XII. 29.) Korm. rendelet 22. § c) pontja szerint módosított szöveg.
+[^18]: A 2. § (5b) bekezdés a) pontja a 342/2024. (XI. 14.) Korm. rendelet 14. § d) pontja szerint módosított szöveg.
+[^19]: A 2. § (6) bekezdése a 618/2022. (XII. 29.) Korm. rendelet 22. § c) pontja szerint módosított szöveg.
