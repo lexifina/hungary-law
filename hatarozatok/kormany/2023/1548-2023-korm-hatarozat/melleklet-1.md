@@ -66,7 +66,7 @@
 
 | 13[^3] | 2023 | Digitális Európa Program (EuroCC-2) | Kormányzati Informatikai Fejlesztési Ügynökség | – | 100 000 000 | 181 759 720 | – |
 
-| 14[^4] | 2023 | Digitális Európa Program (QCIHungary) | Kormányzati Informatikai Fejlesztési Ügynökség Budapesti Műszaki és Gazdaságtudományi Egyetem Eötvös Loránd Tudományegyetem Wigner Fizikai Kutatóközpont | 229 849 951 | 1 007 311 260 | 364 316 060 | 200 000 000 |
+| 14[^4] | 2023 | Digitális Európa Program (QCIHungary) | Kormányzati Informatikai Fejlesztési Ügynökség Budapesti Műszaki és Gazdaságtudományi Egyetem Eötvös Loránd Tudományegyetem Wigner Fizikai Kutatóközpont | 229 849 951 | 636 000 000 | 335 627 320 | 200 000 000 |
 
 | 15 | 2023 | Európai Hálózatfinanszírozási Eszköz (5GSMARTCOM) | Pro-M Professzionális Mobilszolgáltató Zrt. | 9 500 000 | 262 286 516 | 232 217 905 | – |
 
@@ -74,11 +74,21 @@
 
 | 17 | 2023 | LIFE (Co-Clima) | Püspökszilágy Község Önkormányzata Penc Község Önkormányzata Klímabarát Települések Szövetsége | – | 78 640 916 | 43 338 559 | 18 038 559 |
 
-| 18 | 2023 | LIFE (LOGOS 4 WATERS) | Belügyminisztérium | – | – | 112 819 526 | – |
+| 18[^5] | 2023 | LIFE (LOGOS 4 WATERS) | Közigazgatási és Területfejlesztési Minisztérium, Bátya Község Önkormányzata | – | – | 112 819 526 | – |
 
 | 19 | 2023 | LIFE (CLIMCOOP) | Miskolci Egyetem | – | 21 585 883 | 12 096 438 | – |
+
+| 20[^6] | 2024 | LIFE (COOL ZONE) | Közigazgatási és Területfejlesztési Minisztérium (konzorciumvezető) és a konzorcium tagjai | – | – | – | 605 000 000 |
+
+| 21[^7] | 2024 | EU4HEALTH (JANE2) | Országos Onkológiai Intézet, Országos Korányi Pulmonológiai Intézet | – | – | 92 000 000 | 13 000 000 |
+
+| 22[^8] | 2024 | EU4HEALTH (EUNetCCC) | Országos Onkológiai Intézet, Országos Korányi Pulmonológiai Intézet | – | – | 109 000 000 | 6 000 000 |
 
 [^1]: A 7. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^2]: Az 1. mellékletben foglalt táblázat 10. sora az 1281/2024. (IX. 17.) Korm. határozat 15. pontjával megállapított szöveg.
 [^3]: Az 1. mellékletben foglalt táblázat 13. sora az 1281/2024. (IX. 17.) Korm. határozat 15. pontjával megállapított szöveg.
-[^4]: Az 1. mellékletben foglalt táblázat 14. sora az 1281/2024. (IX. 17.) Korm. határozat 15. pontjával megállapított szöveg.
+[^4]: Az 1. mellékletben foglalt táblázat 14. sora az 1281/2024. (IX. 17.) Korm. határozat 15. pontjával megállapított, az 1348/2024. (XI. 14.) Korm. határozat 5. pont a) alpontja szerint módosított szöveg.
+[^5]: Az 1. mellékletben foglalt táblázat 18. sora az 1348/2024. (XI. 14.) Korm. határozat 5. pont b) alpontja szerint módosított szöveg.
+[^6]: Az 1. mellékletben foglalt táblázat 20. sorát az 1348/2024. (XI. 14.) Korm. határozat 6. pontja iktatta be.
+[^7]: Az 1. mellékletben foglalt táblázat 21. sorát az 1348/2024. (XI. 14.) Korm. határozat 6. pontja iktatta be.
+[^8]: Az 1. mellékletben foglalt táblázat 22. sorát az 1348/2024. (XI. 14.) Korm. határozat 6. pontja iktatta be.
