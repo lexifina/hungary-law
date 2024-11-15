@@ -90,7 +90,7 @@ A nem a Kormány irányítása vagy felügyelete alatt álló központi költsé
 
 | 23. | NISZ Zrt. | Adatátviteli szolgáltatás | Üzemeltetés | A BM rendeletben történő kijelölés hatálybalépésétől |
 
-| 24. | NISZ Zrt. | e-FAX szolgáltatás | Üzemeltetés | A BM rendeletben történő kijelölés hatálybalépésétől |
+| 24. |  |  |  |  |
 
 | 25. | NISZ Zrt. | Fizikai szerver hoszting szolgáltatás | Üzemeltetés | A BM rendeletben történő kijelölés hatálybalépésétől |
 
@@ -212,7 +212,7 @@ A nem a Kormány irányítása vagy felügyelete alatt álló központi költsé
 
 | 7. | NISZ Zrt. | Call Center szolgáltatás | hálózati szolgáltatás (üzemeltetés és fejlesztés) | 2021. október 1. |
 
-| 8. | NISZ Zrt. | eFax szolgáltatás | hálózati szolgáltatás (üzemeltetés és fejlesztés) | 2021. október 1. |
+| 8. |  |  |  |  |
 
 | 9. | NISZ Zrt. | Menedzselt munkaállomás-üzemeltetési szolgáltatás | hálózati szolgáltatás (üzemeltetés és fejlesztés) | 2021. október 1. |
 
@@ -314,7 +314,7 @@ A nem a Kormány irányítása vagy felügyelete alatt álló központi költsé
 
 | 8. | NISZ Zrt. | VIKI videokonferencia végponti eszközüzemeltetés kiegészítő szolgáltatás | hálózati szolgáltatás (üzemeltetés és fejlesztés) | A 72 db NISZ tulajdonú VIKI-1 végpont esetében a BM rendeletben történő kijelölés hatálybalépésétől, a 144 db OBH tulajdonú VIKI végpont esetében a direktfinanszírozási szerződés hatálybalépésétől, de legkorábban 2022. február 1-jétől |
 
-| 9. | NISZ Zrt. | eFax szolgáltatás | hálózati szolgáltatás (üzemeltetés és fejlesztés) | 9. § (1) bekezdése szerint |
+| 9. |  |  |  |  |
 
 | 10. | IdomSoft Zrt. | Robotzsaru NEO szakrendszer | alkalmazás üzemeltetés, alkalmazás-üzemeltetés támogatás és fejlesztés | 9. § (1) bekezdése szerint |
 
@@ -428,4 +428,4 @@ A nem a Kormány irányítása vagy felügyelete alatt álló központi költsé
 
 | 28. | NISZ Zrt. | Iratérvényességi Nyilvántartás szolgáltatás | fejlesztés és üzemeltetés | 5/2024. (VI. 18.) MK rendelet hatálybalépésének napja |
 
-[^4]: Az 1. melléklet a 9/2021. (III. 30.) BM rendelet 2. §-a, a 12/2021. (V. 10.) BM rendelet 7. §-a, a 24/2021. (VII. 30.) BM rendelet 13. §-a, a 33/2021. (X. 1.) BM rendelet 2. §-a, a 7/2022. (IV. 14.) BM rendelet 2. §-a és 3. § b)–e) pontja, a 10/2022. (IV. 21.) BM rendelet 1. §-a, a 25/2023. (IX. 12.) MK rendelet 1-3. §-a, az 5/2024. (VI. 18.) MK rendelet 1. §-a, a 12/2024. (IX. 26.) MK rendelet 1. §-a szerint módosított szöveg.
+[^4]: Az 1. melléklet a 9/2021. (III. 30.) BM rendelet 2. §-a, a 12/2021. (V. 10.) BM rendelet 7. §-a, a 24/2021. (VII. 30.) BM rendelet 13. §-a, a 33/2021. (X. 1.) BM rendelet 2. §-a, a 7/2022. (IV. 14.) BM rendelet 2. §-a és 3. § b)–e) pontja, a 10/2022. (IV. 21.) BM rendelet 1. §-a, a 25/2023. (IX. 12.) MK rendelet 1-3. §-a, az 5/2024. (VI. 18.) MK rendelet 1. §-a, a 12/2024. (IX. 26.) MK rendelet 1. §-a, a 13/2024. (XI. 14.) MK rendelet 1. § a)–c) pontja szerint módosított szöveg.
