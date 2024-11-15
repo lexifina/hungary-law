@@ -1,0 +1,3 @@
+2. § A Rendelet 5/B. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az Eximbank a hitel- és pénzkölcsön vagy a kötvény lejáratát vagy – amennyiben az korábbi – a hitelszerződés felmondását vagy a kötvény lejárat előtti visszaváltási esemény bekövetkezését követő 60 munkanapon belül érvényesítheti – az 1. mellékletben meghatározott igénylőlap (a továbbiakban: Beváltási Kérelem) elektronikus úton történő megküldésével – az állami készfizető kezességvállalásból eredő jogait az államháztartásért felelős miniszternél, feltéve, hogy a hitelfelvevő vagy a kibocsátó ezen időpontig nem tesz eleget a fizetési kötelezettségének az Eximbank részére.”
