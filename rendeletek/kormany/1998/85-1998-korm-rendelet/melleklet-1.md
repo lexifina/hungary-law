@@ -1,3 +1,3 @@
-1. melléklet a 85/1998. (V. 6.) Korm. rendelethez[^103]
+1. melléklet a 85/1998. (V. 6.) Korm. rendelethez[^104]
 
-[^103]: Az 1. mellékletet az 53/2020. (III. 20.) Korm. rendelet 3. § b) pontja hatályon kívül helyezte.
+[^104]: Az 1. mellékletet az 53/2020. (III. 20.) Korm. rendelet 3. § b) pontja hatályon kívül helyezte.

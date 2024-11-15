@@ -1,3 +1,3 @@
-## 12. §[^91] E rendelet a kihirdetését követő 5. napon lép hatályba.
+## 12. §[^92] E rendelet a kihirdetését követő 5. napon lép hatályba.
 
-[^91]: A 12. § a 118/2008. (V. 8.) Korm. rendelet 1. § 1280. pontja szerint módosított szöveg.
+[^92]: A 12. § a 118/2008. (V. 8.) Korm. rendelet 1. § 1280. pontja szerint módosított szöveg.

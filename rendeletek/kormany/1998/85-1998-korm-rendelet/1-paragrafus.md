@@ -18,7 +18,7 @@ h)[^8] export előfinanszírozó hitelek, exportcélú befektetési hitelek (a t
 
 i)[^9] belföldi és külföldi pénzügyi intézményeknek nyújtott export előfinanszírozási hitelek (a továbbiakban: export előfinanszírozási refinanszírozási hitel).
 
-j)[^10] a Kormány egyedi döntése alapján egyéb célokra nyújtott egyedi hitelek
+j)[^10] a Kormány egyedi döntése alapján egyéb célokra nyújtott egyedi hitelek, valamint a Kormány egyedi döntése alapján jegyzett vagy más jogcímen megszerzett kötvények,
 
 k)[^11] a belföldi és külföldi pénzügyi intézményeknek nyújtott, a)–j) pontban nem szereplő, a Törvény alapján nyújtott egyéb hitelek (a továbbiakban: Egyéb refinanszírozási hitel),
 
@@ -55,7 +55,7 @@ l)[^12] az a)–j) pontban nem szereplő, a Törvény alapján nyújtott egyéb 
 [^7]: Az 1. § (1) bekezdés g) pontja a 215/2015. (VII. 31.) Korm. rendelet 1. § (7) bekezdés b) pontja szerint módosított szöveg.
 [^8]: Az 1. § (1) bekezdés h) pontját a 75/2017. (IV. 3.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^9]: Az 1. § (1) bekezdés i) pontját a 75/2017. (IV. 3.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^10]: Az 1. § (1) bekezdés j) pontját a 432/2021. (VII. 16.) Korm. rendelet 1. §-a iktatta be.
+[^10]: Az 1. § (1) bekezdés j) pontját a 432/2021. (VII. 16.) Korm. rendelet 1. §-a iktatta be, szövege a 338/2024. (XI. 14.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^11]: Az 1. § (1) bekezdés k) pontját a 645/2023. (XII. 28.) Korm. rendelet 1. §-a iktatta be.
 [^12]: Az 1. § (1) bekezdés l) pontját a 645/2023. (XII. 28.) Korm. rendelet 1. §-a iktatta be.
 [^13]: Az 1. § (1a) bekezdését a 140/2014. (IV. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be.

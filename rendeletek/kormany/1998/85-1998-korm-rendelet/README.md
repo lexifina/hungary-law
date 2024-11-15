@@ -30,3 +30,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-85-20-2
 | 2022-09-09 | 1998-85-20-22.28 | 327/2022. (IX. 1.) Korm. rendelet |
 | 2022-12-09 | 1998-85-20-22.29 | 126/2020. (IV. 16.) Korm. rendelet |
 | 2023-12-29 | 1998-85-20-22.30 | 645/2023. (XII. 28.) Korm. rendelet |
+| 2024-11-15 | 1998-85-20-22.31 | 338/2024. (XI. 14.) Korm. rendelet |
