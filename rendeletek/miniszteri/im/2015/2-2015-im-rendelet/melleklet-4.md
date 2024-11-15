@@ -1,43 +1,5 @@
-## Mozgóurnát igénylő választópolgárok jegyzéke
+## 4X08195.pdf
 
-|  | MOZGÓURNÁT IGÉNYLŐ VÁLASZTÓPOLGÁROK JEGYZÉKE | 1. oldal |
+4. melléklet a 2/2015. (II. 20.) IM rendelethez[^12]
 
-## HELYI NÉPSZAVAZÁS
-
-## (a szavazás napja)
-
-## (TELEPÜLÉS NEVE)
-
-## (szavazókör sorszáma) számú szavazókör ((szavazóhelyiség címe))*
-
-## 5K01558_1
-
-| Sorszám | A választópolgárok adatai | A szavazólap átvételének igazolása |
-
-| ... | (név) (személyi azonosító) (születési név) (lakcím) (szavazási segítség) (lakcímtől eltérő szavazás helye) |  |
-
-| ... | (név) (személyi azonosító) (születési név) (lakcím) (szavazási segítség) (lakcímtől eltérő szavazás helye) |  |
-
-| ... | (név) (személyi azonosító) (születési név) (lakcím) (szavazási segítség) (lakcímtől eltérő szavazás helye) |  |
-
-| ... | (név) (személyi azonosító) (születési név) (lakcím) (szavazási segítség) (lakcímtől eltérő szavazás helye) |  |
-
-| ... | (név) (személyi azonosító) (születési név) (lakcím) (szavazási segítség) (lakcímtől eltérő szavazás helye) |  |
-
-| ... | (név) (személyi azonosító) (születési név) (lakcím) (szavazási segítség) (lakcímtől eltérő szavazás helye) |  |
-
-| ... | (név) (személyi azonosító) (születési név) (lakcím) (szavazási segítség) (lakcímtől eltérő szavazás helye) |  |
-
-| ... | (név) (személyi azonosító) (születési név) (lakcím) (szavazási segítség) (lakcímtől eltérő szavazás helye) |  |
-
-| ... | (név) (személyi azonosító) (születési név) (lakcím) (szavazási segítség) (lakcímtől eltérő szavazás helye) |  |
-
-| ... | (név) (személyi azonosító) (születési név) (lakcím) (szavazási segítség) (lakcímtől eltérő szavazás helye) |  |
-
-| ... |  |  |
-
-## * Csak a jegyzék első oldalán
-
-4. melléklet a 2/2015. (II. 20.) IM rendelethez[^11]
-
-[^11]: A 4. melléklet a 2/2024. (III. 11.) IM rendelet 25. §-ával megállapított szöveg.
+[^12]: A 4. melléklet a 2/2024. (III. 11.) IM rendelet 25. §-ával megállapított szöveg.

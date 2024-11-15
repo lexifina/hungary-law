@@ -50,4 +50,8 @@
 
 ## * Csak a szavazóköri névjegyzék első oldalán
 
-3. melléklet a 2/2015. (II. 20.) IM rendelethez
+3. melléklet a 2/2015. (II. 20.) IM rendelethez[^11]
+
+Mozgóurnát igénylő választópolgárok jegyzéke
+
+[^11]: A 3. melléklet a 14/2024. (XI. 14.) IM rendelet 1. §-ával megállapított szöveg.

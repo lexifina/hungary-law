@@ -64,6 +64,6 @@
 
 ## P.H.
 
-10. melléklet a 2/2015. (II. 20.) IM rendelethez[^14]
+10. melléklet a 2/2015. (II. 20.) IM rendelethez[^15]
 
-[^14]: A 10. melléklet a 42/2022. (XII. 28.) IM rendelet 3. § f) pontja szerint módosított szöveg.
+[^15]: A 10. melléklet a 42/2022. (XII. 28.) IM rendelet 3. § f) pontja szerint módosított szöveg.
