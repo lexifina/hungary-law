@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-232-20-
 | 2016-10-20 | 2015-232-20-22.3 | 312/2016. (X. 19.) Korm. rendelet |
 | 2017-12-30 | 2015-232-20-22.4 | 498/2017. (XII. 29.) Korm. rendelet |
 | 2023-01-01 | 2015-232-20-22.5 | 616/2022. (XII. 29.) Korm. rendelet |
+| 2024-11-15 | 2015-232-20-22.6 | 336/2024. (XI. 14.) Korm. rendelet |

@@ -1,4 +1,4 @@
-5. §[^5] (1) A végfelhasználó számára a kijelölés szerint minimálisan értékesítendő villamos energia mennyisége nem haladhatja meg a végfelhasználó tárgyévet megelőző második és harmadik évi átlagos villamos energia felhasználása 50%-ának megfelelő mennyiségű villamosenergia-mennyiséget.
+5. §[^6] (1) A végfelhasználó számára a kijelölés szerint minimálisan értékesítendő villamos energia mennyisége nem haladhatja meg a végfelhasználó tárgyévet megelőző második és harmadik évi átlagos villamos energia felhasználása 50%-ának megfelelő mennyiségű villamosenergia-mennyiséget.
 
 (2) A 8. § (1) bekezdése szerinti szerződést megkötő végfelhasználó a tárgyévet követő évben köteles energetikai számítással igazolt, energiamegtakarítással járó energiahatékonyság javító intézkedést tenni és annak eredményét 5 éven keresztül fenntartani.
 
@@ -10,4 +10,4 @@
 
 (6) A végfelhasználó köteles a kijelölést követő 60 napon belül a Társaság számára megküldeni az adott felhasználási helyre vonatkozóan a tárgyévet megelőző három év átlagos havi villamosenergia-felhasználás mennyiségi adatait.
 
-[^5]: Az 5. § a 312/2016. (X. 19.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^6]: Az 5. § a 312/2016. (X. 19.) Korm. rendelet 3. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-4. §[^3] (1)[^4] Az egyes miniszterek minden év február 1-ig tájékoztatják az energiapolitikáért felelős minisztert (a továbbiakban: miniszter) azon irányításuk alá tartozó, nem budapesti vagy Pest vármegyei, Vet. szerinti felhasználási hellyel rendelkező költségvetési intézményekről, amelyeknek a tárgyévet megelőző második és harmadik évének éves villamosenergia-fogyasztási átlaga az adott felhasználási helyen elérte a 100 MWh villamosenergia-mennyiséget. Az egyes miniszterek a tájékoztatásukban az össztársadalmi hasznosság legteljesebb érvényesülésének figyelembe vételével javaslatot tesznek azokra a kijelölendő végfelhasználókra, amelyek vállalják a villamos energia e rendelet szerinti átvételét és az ehhez fűződő, e rendelet szerinti kötelezettségeket.
+4. §[^4] (1)[^5] Az egyes miniszterek minden év február 1-ig tájékoztatják az energiapolitikáért felelős minisztert (a továbbiakban: miniszter) azon irányításuk alá tartozó, nem budapesti vagy Pest vármegyei, Vet. szerinti felhasználási hellyel rendelkező költségvetési intézményekről, amelyeknek a tárgyévet megelőző második és harmadik évének éves villamosenergia-fogyasztási átlaga az adott felhasználási helyen elérte a 100 MWh villamosenergia-mennyiséget. Az egyes miniszterek a tájékoztatásukban az össztársadalmi hasznosság legteljesebb érvényesülésének figyelembe vételével javaslatot tesznek azokra a kijelölendő végfelhasználókra, amelyek vállalják a villamos energia e rendelet szerinti átvételét és az ehhez fűződő, e rendelet szerinti kötelezettségeket.
 
 (2) A miniszter előterjesztésére a Kormány a tárgyévet megelőző év március 31-ig határozattal jelöli ki a kijelölést, valamint az e rendelet szerinti kötelezettségeket vállaló
 
@@ -26,5 +26,5 @@ b) az egyes végfelhasználóknak a tárgyévben e rendelet szerint minimálisan
 
 (8) A (7) bekezdés szerinti állami támogatás vonatkozásában az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendeletben foglalt támogatást nyújtót terhelő kötelezettségekért a Társaság felel.
 
-[^3]: A 4. § a 312/2016. (X. 19.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^4]: A 4. § (1) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 218. §-a szerint módosított szöveg.
+[^4]: A 4. § a 312/2016. (X. 19.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^5]: A 4. § (1) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 218. §-a szerint módosított szöveg.
