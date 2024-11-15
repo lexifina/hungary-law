@@ -10,11 +10,11 @@ a) átveszi az ajánlóív iránti igényt tartalmazó nyomtatványokat, azokat 
 
 b) az informatikai rendszerből kinyomtatja, és átvételi elismervény ellenében átadja az igénylő részére az ajánlóíveket,
 
-c)[^7] átveszi az ajánlóíveket, a jelölt bejelentését tartalmazó nyomtatványokat és azok mellékleteit, azokat ellenőrzi, és a bejelentő figyelmét felhívja az esetleges formai hiányosságokra, a bejelentésről átvételi elismervényt ad ki, továbbá a bejelentést az informatikai rendszerben regisztrálja,
+c)[^8] átveszi az ajánlóíveket, a jelölt bejelentését tartalmazó nyomtatványokat és azok mellékleteit, azokat ellenőrzi, és a bejelentő figyelmét felhívja az esetleges formai hiányosságokra, a bejelentésről átvételi elismervényt ad ki, továbbá a bejelentést az informatikai rendszerben regisztrálja,
 
 d) ellenőrzi, hogy a jelölt, illetve a jelölő szervezet a rendelkezésére bocsátott összes ajánlóívet leadta-e; jelzi az országgyűlési egyéni választókerületi választási bizottságnak (a továbbiakban: OEVB), ha a jelölt, illetve a jelölő szervezet nem adta le a rendelkezésére bocsátott összes ajánlóívet,
 
-e)[^8] az ajánlóíveken adott ajánlásokat – az OEVB döntésének előkészítése érdekében – a szavazóköri névjegyzék és a szavazókörök és választókerületek nyilvántartása alapján ellenőrzi; az ellenőrzés kiterjed arra, hogy
+e)[^9] az ajánlóíveken adott ajánlásokat – az OEVB döntésének előkészítése érdekében – a szavazóköri névjegyzék és a szavazókörök és választókerületek nyilvántartása alapján ellenőrzi; az ellenőrzés kiterjed arra, hogy
 
 ea) az ajánlóív eredeti-e,
 
@@ -34,7 +34,7 @@ g) az informatikai rendszerben regisztrálja az OEVB-nek a jelölt nyilvántart�
 
 h) a beérkezett jogorvoslati kérelem adatait rögzíti az informatikai rendszerben,
 
-i)[^9] a beérkezett fellebbezést az informatikai rendszerben felterjeszti az elbírálására jogosult választási bizottsághoz,
+i)[^10] a beérkezett fellebbezést az informatikai rendszerben felterjeszti az elbírálására jogosult választási bizottsághoz,
 
 j) az interneten közzéteszi az OEVB ülésének várható időpontját és részletes napirendjét,
 
@@ -68,6 +68,6 @@ v) kinyomtatja az átjelentkezéssel és a külföldön leadott szavazatok megsz
 
 w) a személyazonosság – magyar vagy más hatóság által kiállított, a személyazonosság igazolására alkalmas okmány alapján történő – ellenőrzését és az átvétel igazolását követően átadja a szavazási levélcsomagot a választópolgárnak.
 
-[^7]: A 15. § c) pontja a 26/2018. (IX. 7.) IM rendelet 33. § (1) bekezdésével megállapított szöveg.
-[^8]: A 15. § e) pontja a 26/2018. (IX. 7.) IM rendelet 33. § (2) bekezdésével megállapított szöveg.
-[^9]: A 15. § i) pontja a 26/2018. (IX. 7.) IM rendelet 33. § (3) bekezdésével megállapított szöveg.
+[^8]: A 15. § c) pontja a 26/2018. (IX. 7.) IM rendelet 33. § (1) bekezdésével megállapított szöveg.
+[^9]: A 15. § e) pontja a 26/2018. (IX. 7.) IM rendelet 33. § (2) bekezdésével megállapított szöveg.
+[^10]: A 15. § i) pontja a 26/2018. (IX. 7.) IM rendelet 33. § (3) bekezdésével megállapított szöveg.

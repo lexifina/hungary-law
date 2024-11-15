@@ -14,7 +14,7 @@ c) biztosítja a szavazóhelyiséget, annak felszerelését, valamint a szavazá
 
 d) szabályszerűen berendezi a szavazóhelyiséget,
 
-e)[^5] a külképviselet épületében a szavazást megelőző tizenötödik naptól
+e)[^6] a külképviselet épületében a szavazást megelőző tizenötödik naptól
 
 ea) külön urnát biztosít a levélben szavazók válaszborítékjának leadására, amelyet a válaszboríték leadására rendelkezésre álló időben folyamatosan felügyel,
 
@@ -42,4 +42,4 @@ a) kinyomtatja és hitelesíti a szavazási levélcsomagot a külképviseleten �
 
 b) a személyazonosság – magyar vagy más hatóság által kiállított, a személyazonosság igazolására alkalmas okmány alapján történő – ellenőrzését és az átvétel igazolását követően átadja a szavazási levélcsomagot a jegyzéken szereplő választópolgárnak.
 
-[^5]: A 12. § (1) bekezdés e) pont nyitó szövegrésze a 26/2018. (IX. 7.) IM rendelet 37. §-a szerint módosított szöveg.
+[^6]: A 12. § (1) bekezdés e) pont nyitó szövegrésze a 26/2018. (IX. 7.) IM rendelet 37. §-a szerint módosított szöveg.

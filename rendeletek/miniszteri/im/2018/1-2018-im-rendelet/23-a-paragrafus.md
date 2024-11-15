@@ -1,4 +1,4 @@
-## VI/A. Fejezet[^13]
+## VI/A. Fejezet[^14]
 
 ## IDŐKÖZI VÁLASZTÁS
 
@@ -6,12 +6,12 @@
 
 (2) A 21. § (1) bekezdés e)–g) pontjában foglalt feladatokat az időközi választáson az OEVI látja el.
 
-(3)[^14] Az időközi választáson az egy szavazókörös településen és az átjelentkezéssel szavazásra kijelölt szavazókörben
+(3)[^15] Az időközi választáson az egy szavazókörös településen és az átjelentkezéssel szavazásra kijelölt szavazókörben
 
-a)[^15] az átjelentkezéssel szavazó választópolgárok adatait a 40. melléklet szerinti névjegyzéken, illetve a 41. melléklet szerinti jegyzéken kell feltüntetni,
+a)[^16] az átjelentkezéssel szavazó választópolgárok adatait a 40. melléklet szerinti névjegyzéken, illetve a 41. melléklet szerinti jegyzéken kell feltüntetni,
 
 b) a 25. melléklet szerinti jegyzőkönyvet kell használni.
 
-[^13]: A VI/A. fejezetet (23/A. §) a 26/2018. (IX. 7.) IM rendelet 34. §-a iktatta be.
-[^14]: A 23/A. § (3) bekezdését a 3/2019. (II. 27.) IM rendelet 30. §-a iktatta be.
-[^15]: A 23/A. § (3) bekezdés a) pontja a 34/2019. (XII. 23.) IM rendelet 1. § a) pontja szerint módosított szöveg.
+[^14]: A VI/A. fejezetet (23/A. §) a 26/2018. (IX. 7.) IM rendelet 34. §-a iktatta be.
+[^15]: A 23/A. § (3) bekezdését a 3/2019. (II. 27.) IM rendelet 30. §-a iktatta be.
+[^16]: A 23/A. § (3) bekezdés a) pontja a 34/2019. (XII. 23.) IM rendelet 1. § a) pontja szerint módosított szöveg.
