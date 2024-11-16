@@ -1,1 +1,3 @@
-3. § A Vhr. 24. §-ában az „1–42. melléklet” szövegrész helyébe az „1–45. melléklet” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

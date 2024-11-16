@@ -1,9 +1,3 @@
-## „40. melléklet az 1/2018. (I. 3.) IM rendelethez
+4. melléklet a 14/2024. (XI. 14.) IM rendelethez[^9]
 
-## Névjegyzék időközi választáson
-
-## 4X08198.pdf
-
-## ”
-
-4. melléklet a 14/2024. (XI. 14.) IM rendelethez
+[^9]: A 4. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

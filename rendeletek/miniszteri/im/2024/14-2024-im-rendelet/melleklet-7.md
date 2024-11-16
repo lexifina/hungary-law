@@ -1,9 +1,3 @@
-## „43. melléklet az 1/2018. (I. 3.) IM rendelethez
+7. melléklet a 14/2024. (XI. 14.) IM rendelethez[^12]
 
-## Jelölő szervezet bejelentése időközi választáson
-
-## 4X08202.pdf
-
-## ”
-
-7. melléklet a 14/2024. (XI. 14.) IM rendelethez
+[^12]: A 7. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
