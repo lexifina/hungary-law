@@ -1,3 +1,0 @@
-32. § (1) E törvény 14. §-a és 15. § (1) bekezdése a Pénzmosás és Terrorizmusfinanszírozás Elleni Hatóság létrehozásáról, valamint az 1093/2010/EU, az 1094/2010/EU és az 1095/2010/EU rendelet módosításáról szóló, 2024. május 31-i (EU) 2024/1620 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
-
-(2) E törvény 15. § (2) bekezdése, 16. §-a és 8. alcíme a 2014/59/EU irányelvnek és a 806/2014/EU rendeletnek a szavatolótőkére és a leírható, illetve átalakítható kötelezettségekre vonatkozó minimumkövetelmény egyes vonatkozásai tekintetében történő módosításáról szóló, 2024. április 11-i (EU) 2024/1174 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
