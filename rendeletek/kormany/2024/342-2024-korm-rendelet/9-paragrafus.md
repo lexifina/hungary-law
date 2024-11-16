@@ -2,14 +2,16 @@
 
 a)[^9]
 
-b) 6. § (3) és (6) bekezdésében, 8. § (1) bekezdésében az „az elektronikus ügyintézési felügyelet” szövegrész helyébe az „a digitális szolgáltatások felügyelete” szöveg,
+b)[^10]
 
-c) 6. § (6a) és (6b) bekezdésében, 8. § (4) bekezdésében az „Az elektronikus ügyintézési felügyelet” szövegrész helyébe az „A digitális szolgáltatások felügyelete” szöveg,
+c)[^11]
 
-d)[^10]
+d)[^12]
 
-e)[^11]
+e)[^13]
 
 [^9]: A 9. § a) pontja a 17. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
-[^10]: A 9. § d) pontja a 17. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
-[^11]: A 9. § e) pontja a 17. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+[^10]: A 9. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 9. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 9. § d) pontja a 17. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+[^13]: A 9. § e) pontja a 17. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
