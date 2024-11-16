@@ -1,1 +1,3 @@
-3. § A Korm. rendelet 13. § (1) bekezdésében a „2024. december 31-ig” szövegrész helyébe a „2025. december 31-ig” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
