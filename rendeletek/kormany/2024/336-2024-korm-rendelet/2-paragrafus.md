@@ -1,1 +1,3 @@
-2. § A 232/2015. (VIII. 20.) Korm. rendelet 3. § (1) bekezdésében az „MVM Hungarowind Szélerőmű Üzemeltető Korlátolt Felelősségű Társaság (székhely: 1031 Budapest, Szentendrei út 207–209., cégjegyzékszám: 01-09-702673)” szövegrész helyébe az „MVM Zöld Generáció Zártkörűen Működő Részvénytársaság (székhely: 1031 Budapest, Szentendrei út 207–209.; cégjegyzékszám: 01-10-142594)” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
