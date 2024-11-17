@@ -1,3 +1,3 @@
-8. §[^21]
+8. §[^22]
 
-[^21]: A 8. § a 425/2022. (X. 28.) Korm. rendelet 1. § (3) bekezdés 33. pontja alapján nem lépett hatályba.
+[^22]: A 8. § a 425/2022. (X. 28.) Korm. rendelet 1. § (3) bekezdés 33. pontja alapján nem lépett hatályba.
