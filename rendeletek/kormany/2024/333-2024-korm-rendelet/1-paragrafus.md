@@ -1,0 +1,3 @@
+1. § A veszélyhelyzet idején a villamos energia és földgáz egyetemes szolgáltatás változatlan feltételek szerinti nyújtását biztosító rezsivédelmi szolgáltatásról szóló 289/2022. (VIII. 5.) Korm. rendelet (a továbbiakban: Korm. rend.) 1. §-a a következő (5b) bekezdéssel egészül ki:
+
+„(5b) A (2) bekezdés b) pontja szerinti kijelölés nem szűnik meg azzal, hogy a konzorcium egyik egyetemes szolgáltató tagja − egyesülésükre tekintettel − a másik tag általános jogutódjává válik. Az így megszűnő konzorcium − mint a (2) bekezdés b) pontja szerinti villamos energia szolgáltató − helyébe az általános jogutód egyetemes szolgáltató lép. A változást a felek a szerződésen legkésőbb az (5a) bekezdésben meghatározott felülvizsgálat során átvezetik.”
