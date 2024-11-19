@@ -2,11 +2,11 @@
 
 Az engedély és az állásfoglalás tartalma
 
-Az engedélyköteles tevékenységre vonatkozó, a vízvédelmi hatóság által kiadott engedély, illetve állásfoglalás tartalmi követelményei a következők:[^310]
+Az engedélyköteles tevékenységre vonatkozó, a vízvédelmi hatóság által kiadott engedély, illetve állásfoglalás tartalmi követelményei a következők:[^311]
 
 1. Az engedélyköteles tevékenység folytatásának helye, az érintett terület (település név, hrsz. szám feltüntetve a hely területi kiterjedését is) és a tevékenység folytatásának módja.
 
-2. Az engedélyköteles tevékenység folytatása során a felszín alatti vízbe, illetve a földtani közegbe kerülő egyes anyag(ok) engedélyezett legnagyobb mennyisége egy vagy több meghatározott időszak során, az anyagfajták, s azon belül e rendelet 1. számú melléklete, továbbá az e rendelethez kapcsolódó továbbá külön jogszabály[^311] szerinti szennyező anyag tartalma [kibocsátási paraméterek, illetve ezen anyagok koncentrációjára vonatkozó követelmények (B) szennyezettségi határérték vagy (E) egyedi szennyezettségi határérték].
+2. Az engedélyköteles tevékenység folytatása során a felszín alatti vízbe, illetve a földtani közegbe kerülő egyes anyag(ok) engedélyezett legnagyobb mennyisége egy vagy több meghatározott időszak során, az anyagfajták, s azon belül e rendelet 1. számú melléklete, továbbá az e rendelethez kapcsolódó továbbá külön jogszabály[^312] szerinti szennyező anyag tartalma [kibocsátási paraméterek, illetve ezen anyagok koncentrációjára vonatkozó követelmények (B) szennyezettségi határérték vagy (E) egyedi szennyezettségi határérték].
 
 3. A tevékenység folytatásának feltételeként meghatározott környezetvédelmi megelőző intézkedések, amelyekkel megakadályozható a felszín alatti víz veszélyeztetése, a felszín alatti víz és a földtani közeg szennyezettségének bekövetkezése, e rendelet 11. §-a szerinti tilalmak megsértése, különös tekintettel az engedélyköteles tevékenység során a felszín alatti vízbe, illetve a földtani közegbe kerülő anyagok jellegére és koncentrációjára, a befogadó környezet adottságaira, és elsősorban az ivó-, ásvány- és gyógyvizek, termálvizek beszivárgási területeinek közelségére:
 
@@ -18,9 +18,9 @@ b) az engedélyköteles tevékenység folytatása során a felszín alatti vízb
 
 5. Az ellenőrzés és dokumentálás, valamint a hatóság részére történő adatszolgáltatás szabályai.
 
-6.[^312] Az engedély, állásfoglalás hatálya.
+6.[^313] Az engedély, állásfoglalás hatálya.
 
-7.[^313] Változások, amelyeket – az engedélyben meghatározott adatszolgáltatáson túlmenően, annak bekövetkezését követő 15 napon belül – az engedélyes e rendelet 16. § (1) bekezdése szerint köteles bejelenteni a vízvédelmi hatóságnak és a vízügyi igazgatóságnak:
+7.[^314] Változások, amelyeket – az engedélyben meghatározott adatszolgáltatáson túlmenően, annak bekövetkezését követő 15 napon belül – az engedélyes e rendelet 16. § (1) bekezdése szerint köteles bejelenteni a vízvédelmi hatóságnak és a vízügyi igazgatóságnak:
 
 a) a tevékenység folytatójának változása;
 
@@ -44,7 +44,7 @@ fd) más – az ismerten kívüli – környezeti elem szennyezettségének ész
 
 g) a környezetvédelmi megelőző intézkedések engedélyben foglalt feltételektől való lényeges eltérése, a változás hatása az engedély szerinti egyéb feltételekre.
 
-[^310]: Az 5. számú melléklet nyitó szövegrésze az 527/2013. (XII. 30.) Korm. rendelet 26. § (15) bekezdés a) pontja, a 457/2017. (XII. 28.) Korm. rendelet 133. § b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^311]: A felszín alatti víz és földtani közeg minőségi védelméhez szükséges határértékekről szóló 10/2000. (VI. 2.) KöM–EüM–FVM–KHVM együttes rendelet.
-[^312]: Az 5. számú melléklet 6. pontja a 182/2009. (IX. 10.) Korm. rendelet 358. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^313]: Az 5. melléklet 7. pont nyitó szövegerésze az 527/2013. (XII. 30.) Korm. rendelet 26. § (15) bekezdés i) pontja szerint módosított szöveg.
+[^311]: Az 5. számú melléklet nyitó szövegrésze az 527/2013. (XII. 30.) Korm. rendelet 26. § (15) bekezdés a) pontja, a 457/2017. (XII. 28.) Korm. rendelet 133. § b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^312]: A felszín alatti víz és földtani közeg minőségi védelméhez szükséges határértékekről szóló 10/2000. (VI. 2.) KöM–EüM–FVM–KHVM együttes rendelet.
+[^313]: Az 5. számú melléklet 6. pontja a 182/2009. (IX. 10.) Korm. rendelet 358. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^314]: Az 5. melléklet 7. pont nyitó szövegerésze az 527/2013. (XII. 30.) Korm. rendelet 26. § (15) bekezdés i) pontja szerint módosított szöveg.

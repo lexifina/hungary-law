@@ -36,3 +36,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-219-20-
 | 2022-01-01 | 2004-219-20-22.39 | 300/2011. (XII. 22.) Korm. rendelet |
 | 2024-01-01 | 2004-219-20-22.40 | 105/2019. (V. 8.) Korm. rendelet |
 | 2024-10-01 | 2004-219-20-22.41 | 221/2014. (IX. 4.) Korm. rendelet |
+| 2024-11-19 | 2004-219-20-22.42 | 337/2024. (XI. 14.) Korm. rendelet |
