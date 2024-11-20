@@ -1,4 +1,4 @@
-12/C. §[^25] (1) Működési támogatás esetén a támogatás összege nem haladhatja meg a releváns időszakban keletkező működési veszteséget.
+12/C. §[^26] (1) Működési támogatás esetén a támogatás összege nem haladhatja meg a releváns időszakban keletkező működési veszteséget.
 
 (2) Működési támogatás esetén a támogatás a működési veszteségen felül fedezetet nyújthat az észszerű nyereségre is.
 
@@ -36,4 +36,4 @@ e) a kulturális intézmény, örökségi helyszín vagy projekt személyi jelle
 
 f) a külső tanácsadással és külső szolgáltatók által biztosított támogató szolgáltatásokkal kapcsolatos, közvetlenül a projekt eredményeként felmerülő költség.
 
-[^25]: A 12/C. §-t a 8/2018. (VI. 4.) IM rendelet 6. §-a iktatta be.
+[^26]: A 12/C. §-t a 8/2018. (VI. 4.) IM rendelet 6. §-a iktatta be.

@@ -1,4 +1,4 @@
-12. §[^21] (1)[^22] A 651/2014/EU bizottsági rendelet 53. cikke szerinti, a kultúrát és a kulturális örökség megőrzését előmozdító támogatást a kedvezményezett – a 651/2014/EU bizottsági rendelet 1. cikk (3) bekezdés utolsó albekezdése kivételével – nem használhatja a 651/2014/EU bizottsági rendelet 1. cikk (2) bekezdés c)–d) pontjában, az 1. cikk (3) bekezdés a)–d) pontjában és az 53. cikk (10) bekezdésében meghatározott kizárt ágazatokra, továbbá nem nyújtható támogatás
+12. §[^22] (1)[^23] A 651/2014/EU bizottsági rendelet 53. cikke szerinti, a kultúrát és a kulturális örökség megőrzését előmozdító támogatást a kedvezményezett – a 651/2014/EU bizottsági rendelet 1. cikk (3) bekezdés utolsó albekezdése kivételével – nem használhatja a 651/2014/EU bizottsági rendelet 1. cikk (2) bekezdés c)–d) pontjában, az 1. cikk (3) bekezdés a)–d) pontjában és az 53. cikk (10) bekezdésében meghatározott kizárt ágazatokra, továbbá nem nyújtható támogatás
 
 a) azon szervezet részére, amely az Európai Bizottság európai uniós versenyjogi értelemben vett állami támogatás visszafizetésére kötelező, Magyarországnak címzett határozatának nem tett eleget,
 
@@ -28,5 +28,5 @@ c) nehéz helyzetben lévő vállalkozás részére, kivéve azt a vállalkozás
 
 (12) A (11) bekezdés szerinti adatszolgáltatás módjára, az adatszolgáltatással érintett adatok körére és azok közzétételére vonatkozó szabályokat az Atr. 18/A–18/D. §-a határozza meg.
 
-[^21]: A 12. § a 8/2018. (VI. 4.) IM rendelet 5. §-ával megállapított szöveg.
-[^22]: A 12. § (1) bekezdése a 3/2021. (IV. 30.) IM rendelet 5. §-ával megállapított szöveg.
+[^22]: A 12. § a 8/2018. (VI. 4.) IM rendelet 5. §-ával megállapított szöveg.
+[^23]: A 12. § (1) bekezdése a 3/2021. (IV. 30.) IM rendelet 5. §-ával megállapított szöveg.

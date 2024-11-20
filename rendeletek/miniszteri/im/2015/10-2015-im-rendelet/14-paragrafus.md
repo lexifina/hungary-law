@@ -1,4 +1,4 @@
-## 14. §[^30] E rendelet
+## 14. §[^31] E rendelet
 
 a) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet (HL L 352., 2013.12.24., 1. o.),
 
@@ -10,4 +10,4 @@ d) a 651/2014/EU rendeletnek a kikötői és repülőtéri infrastruktúrákra i
 
 hatálya alá tartozó támogatást tartalmaz.
 
-[^30]: A 14. § a 8/2018. (VI. 4.) IM rendelet 8. §-ával megállapított szöveg.
+[^31]: A 14. § a 8/2018. (VI. 4.) IM rendelet 8. §-ával megállapított szöveg.

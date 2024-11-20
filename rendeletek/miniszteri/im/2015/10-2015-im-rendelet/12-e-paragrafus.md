@@ -1,6 +1,6 @@
-## 12/D. §[^26] A kétmillió eurónak megfelelő forintösszeget meg nem haladó beruházási vagy működési támogatás esetén a támogatás összege a 12/B. § (1) és (2) bekezdésében, valamint a 12/C. § (1)–(4) bekezdésében meghatározott módszerek alkalmazásától eltérően is meghatározható azzal, hogy a támogatási intenzitás nem haladhatja meg az elszámolható költségek 80%-át.
+## 12/D. §[^27] A kétmillió eurónak megfelelő forintösszeget meg nem haladó beruházási vagy működési támogatás esetén a támogatás összege a 12/B. § (1) és (2) bekezdésében, valamint a 12/C. § (1)–(4) bekezdésében meghatározott módszerek alkalmazásától eltérően is meghatározható azzal, hogy a támogatási intenzitás nem haladhatja meg az elszámolható költségek 80%-át.
 
-12/E. §[^27] (1) A 12/A. § (2) bekezdés f) pontja szerinti támogatás esetén
+12/E. §[^28] (1) A 12/A. § (2) bekezdés f) pontja szerinti támogatás esetén
 
 a) a támogatási intenzitás nem haladhatja meg az elszámolható költségek 70%-át, vagy
 
@@ -22,5 +22,5 @@ f) a nyomtatás vagy elektronikus közzététel költsége
 
 számolható el.
 
-[^26]: A 12/D. §-t a 8/2018. (VI. 4.) IM rendelet 6. §-a iktatta be.
-[^27]: A 12/E. §-t a 8/2018. (VI. 4.) IM rendelet 6. §-a iktatta be.
+[^27]: A 12/D. §-t a 8/2018. (VI. 4.) IM rendelet 6. §-a iktatta be.
+[^28]: A 12/E. §-t a 8/2018. (VI. 4.) IM rendelet 6. §-a iktatta be.
