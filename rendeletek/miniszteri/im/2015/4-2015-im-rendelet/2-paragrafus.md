@@ -14,6 +14,7 @@ f) Victima Protector díj,
 
 g) Az Év Jogi Segítője díj,
 
-h) A Fogyasztóvédelemért Érdemérem.
+h)[^3]
 
 [^2]: A 2. § a 19/2022. (IX. 26.) IM rendelet 3. §-ával megállapított szöveg.
+[^3]: A 2. § h) pontját a 15/2024. (XI. 19.) IM rendelet 1. § a) pontja hatályon kívül helyezte.

@@ -1,17 +1,3 @@
-11/F. §[^20] (1) A Fogyasztóvédelemért Érdemérem
+11/F. §[^21]
 
-a) a fogyasztóvédelem területén végzett tartósan magas színvonalú szakmai tevékenység vagy kiemelkedő életút vagy
-
-b) a fogyasztóvédelmi szakemberképzés területén végzett kimagasló tevékenység
-
-elismeréséért adományozható.
-
-(2) A díj évente legfeljebb 4 fő részére adományozható.
-
-(3) A díj átadására minden év március 15. napján, a fogyasztóvédelmi világnap alkalmából kerülhet sor.
-
-(4) A díjazott érmet és adományozást igazoló oklevelet kap.
-
-(5) Az érem díszdobozban elhelyezett, ezüstből készült, proof kivitelű, átmérője 42,5 mm, vastagsága 3 mm, előlapján a fogyasztóvédelmet szimbolizáló ábra és az „A FOGYASZTÓVÉDELEMÉRT” felirat látható, hátoldalán Magyarország címere helyezkedik el, amelyet az „IGAZSÁGÜGYI MINISZTER” felirat övez.
-
-[^20]: A 11/F. §-t a 19/2022. (IX. 26.) IM rendelet 5. §-a iktatta be.
+[^21]: A 11/F. §-t a 19/2022. (IX. 26.) IM rendelet 5. §-a iktatta be, a 15/2024. (XI. 19.) IM rendelet 1. § b) pontja hatályon kívül helyezte.

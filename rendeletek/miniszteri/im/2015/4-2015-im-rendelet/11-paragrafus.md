@@ -2,7 +2,7 @@
 
 (2) A díj évente legfeljebb 3 fő részére adományozható.
 
-(3)[^10] A díj átadására a március 15-i és az október 23-i nemzeti ünnep, valamint az augusztus 20-i állami ünnep alkalmából kerül sor.
+(3)[^11] A díj átadására a március 15-i és az október 23-i nemzeti ünnep, valamint az augusztus 20-i állami ünnep alkalmából kerül sor.
 
 (4) A díjazott kisplasztikát és az adományozást igazoló oklevelet kap.
 
@@ -10,4 +10,4 @@
 
 (6) A díjhoz 500 000 Ft összegű pénzjutalom jár.
 
-[^10]: A 11. § (3) bekezdése a 14/2021. (XI. 25.) IM rendelet 4. §-a szerint módosított szöveg.
+[^11]: A 11. § (3) bekezdése a 14/2021. (XI. 25.) IM rendelet 4. §-a szerint módosított szöveg.

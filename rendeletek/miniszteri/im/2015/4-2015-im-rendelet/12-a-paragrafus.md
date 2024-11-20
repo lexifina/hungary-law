@@ -1,4 +1,4 @@
-12/A. §[^24] (1) Miniszteri dicséret adható annak a minisztérium állományába tartozó személynek, aki kiemelkedő szakmai teljesítményt nyújtott.
+12/A. §[^25] (1) Miniszteri dicséret adható annak a minisztérium állományába tartozó személynek, aki kiemelkedő szakmai teljesítményt nyújtott.
 
 (2) Miniszteri dicséret átadására kéthavonta kerülhet sor.
 
@@ -8,4 +8,4 @@
 
 (5) A miniszteri dicséret adományozásával legfeljebb a díjazott egy havi illetményének, de legalább a mindenkori kormánytisztviselői illetményalap tízszeresének megfelelő összegű pénzjutalom jár.
 
-[^24]: A 12/A. §-t a 7/2016. (V. 25.) IM rendelet 7. §-a iktatta be.
+[^25]: A 12/A. §-t a 7/2016. (V. 25.) IM rendelet 7. §-a iktatta be.
