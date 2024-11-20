@@ -1,0 +1,1 @@
+19. § Ha a tulajdonos nem állapítható meg, vagy ismeretlen helyen tartózkodik, a közútkezelő a tulajdonosnak járó összeget a számláján elkülönítetten kezeli, és azt a jogosult – törvényes jogcímének hitelt érdemlő igazolása esetén – átveheti.
