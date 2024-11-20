@@ -1,3 +1,3 @@
-7. §[^34]
+7. §[^35]
 
-[^34]: A 7. §-t a 20/2007. (II. 20.) Korm. rendelet 14. § (1) bekezdése hatályon kívül helyezte.
+[^35]: A 7. §-t a 20/2007. (II. 20.) Korm. rendelet 14. § (1) bekezdése hatályon kívül helyezte.

@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-213-20-
 | 2018-07-01 | 1996-213-20-22.28 | 473/2017. (XII. 28.) Korm. rendelet |
 | 2020-02-15 | 1996-213-20-22.29 | 13/2020. (II. 7.) Korm. rendelet |
 | 2024-01-01 | 1996-213-20-22.30 | 561/2023. (XII. 14.) Korm. rendelet |
+| 2024-11-20 | 1996-213-20-22.31 | 346/2024. (XI. 19.) Korm. rendelet |
