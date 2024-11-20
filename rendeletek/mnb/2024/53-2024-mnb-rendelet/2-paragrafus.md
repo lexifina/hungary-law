@@ -1,0 +1,5 @@
+2. § (1) Az emlékérme 75% réz, 4% nikkel és 21% cink ötvözetéből készült, súlya 2,7 gramm, átmérője 20 mm, széle sima.
+
+(2) Az emlékérme előlapján, a középmezőben az V. László király által kibocsátott aranyforint hátoldalának ábrázolása látható. Az előlap szélén futó gyöngysorszegélyen belül, köriratban, fent a „MAGYARORSZÁG”, lent a „3000” értékjelzés és a „FORINT” felirat olvasható, melyeket egy-egy virágmotívum választ el egymástól. Az emlékérme előlapjának képét az 1. melléklet tartalmazza.
+
+(3) Az emlékérme hátlapján – részben túlnyúlva a gyöngysorszegéllyel határolt, kör alakú, hálós mintázatú középmezőn –, fent V. László trónszéken ülő alakjának a Thuróczi-krónika brünni kiadásában található metszet alapján készült ábrázolása látható, lent V. László címerével. V. László ábrázolásától balra a „BP.” verdejel, alatta a „2024” verési évszám olvasható, jobbra Soltra E. Tamás tervezőművész mesterjegye látható. A hátlap szélén futó gyöngysorszegélyen belül, köriratban, bal oldalon az „V. LÁSZLÓ 1453–1457”, jobb oldalon az „ARANYFORINTJA” felirat olvasható. Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
