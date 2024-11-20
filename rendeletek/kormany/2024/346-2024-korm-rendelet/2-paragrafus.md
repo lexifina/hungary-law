@@ -1,0 +1,5 @@
+## „d) az utazási vállalkozó nyilatkozatát arra vonatkozóan, hogy az általa alkalmazott általános szerződési feltételek tartalmazzák az utazási szolgáltatásokra vonatkozó szerződésekről, különösen az utazási csomagra és az utazási szolgáltatásegyüttesre vonatkozó szerződésekről szóló 472/2017. (XII. 28.) Korm. rendelet 34/A. § (4) bekezdésében foglalt rendelkezéseket.”
+
+2. § Az R1. a következő 14/B. §-sal egészül ki:
+
+„14/B. § Azok az utazásszervező vagy utazásközvetítő tevékenységet végző vállalkozások, amelyek a 2. § szerinti bejelentést az utazásszervező és -közvetítő tevékenységről szóló 213/1996. (XII. 23.) Korm. rendelet, valamint az utazási szolgáltatásokra vonatkozó szerződésekről, különösen az utazási csomagra és az utazási szolgáltatásegyüttesre vonatkozó szerződésekről szóló 472/2017. (XII. 28.) Korm. rendelet módosításáról szóló 346/2024. (XI. 19.) Korm. rendelet (a továbbiakban: Mód. rendelet) hatálybalépését megelőzően megtették, az e rendeletnek a Mód. rendelettel megállapított 2. § (2) bekezdés d) pontja szerinti nyilatkozatot kötelesek legkésőbb 2024. december 31. napjáig megküldeni a Kormányhivatal részére.”
