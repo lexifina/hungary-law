@@ -62,7 +62,7 @@ I. A felnőtt korú szabadságvesztésre ítéltek részére kijelölhető bünt
 
 |  | 18 | A felnőtt korú női szabadságvesztésre ítéltek részére kijelölhető büntetés-végrehajtási intézetek |
 
-|  | 19 | Heves Vármegyei Büntetés-végrehajtási Intézet | börtön |
+|  | 19[^17] |  |  |
 
 |  | 20 | Kalocsai Fegyház és Börtön | fegyház, börtön |
 
@@ -82,10 +82,11 @@ II. Azon büntetés-végrehajtási intézetek, amelyekben olyan III. kategóriá
 
 fegyház fokozatú szabadságvesztésre ítélt is elhelyezhető, akinek engedélyezett
 
-a büntetés-végrehajtási intézeten kívüli munkavégzés[^17]
+a büntetés-végrehajtási intézeten kívüli munkavégzés[^18]
 
 1. Az I. pontban foglalt táblázat A:3, A:8, A:10 és A:16 mezője szerinti büntetés-végrehajtási intézet.
 
 [^15]: A 3. melléklet a 2/2019. (I. 22.) BM rendelet 1. §-ával megállapított, a 25/2020. (VII. 15.) BM rendelet 1. §-a, az 50/2022. (XII. 27.) BM rendelet 12. § 6. pontja szerint módosított szöveg.
 [^16]: A 3. melléklet I. pontjában foglalt táblázat 17c sorát a 11/2024. (II. 29.) BM rendelet 35. § b) pontja iktatta be.
-[^17]: A 3. melléklet II. pont címe a 11/2024. (II. 29.) BM rendelet 36. § b) pontja szerint módosított szöveg.
+[^17]: A 3. melléklet I. pontjában foglalt táblázat 19. sorát az 54/2024. (XI. 19.) BM rendelet 2. §-a hatályon kívül helyezte.
+[^18]: A 3. melléklet II. pont címe a 11/2024. (II. 29.) BM rendelet 36. § b) pontja szerint módosított szöveg.

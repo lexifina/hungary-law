@@ -42,7 +42,7 @@
 
 | 20 | Zala vármegye | Szombathelyi Országos Büntetés-végrehajtási Intézet |
 
-5. melléklet a 16/2018. (VI. 7.) BM rendelethez[^19]
+5. melléklet a 16/2018. (VI. 7.) BM rendelethez[^20]
 
 Az elzárásra ítélt, illetve a szabálysértési elzárást töltő fiatalkorúak elhelyezésére szolgáló büntetés-végrehajtási intézetek, valamint az e rendeletben meghatározott esetben kijelölhető büntetés-végrehajtási intézetek
 
@@ -58,4 +58,4 @@ Az elzárásra ítélt, illetve a szabálysértési elzárást töltő fiatalkor
 
 | 5 | Budapest főváros és az ország bármelyik vármegyéje | a) Fővárosi Büntetés-végrehajtási Intézet (férfiak és nők) b) Állampusztai Országos Büntetés-végrehajtási Intézet (férfiak) c) Budapesti Fegyház és Börtön (férfiak) d) Szegedi Fegyház és Börtön (férfiak) e) Tiszalöki Országos Büntetés-végrehajtási Intézet (férfiak és nők) f) Tököli Országos Büntetés-végrehajtási Intézet (férfiak) g) Pálhalmai Országos Büntetés-végrehajtási Intézet (férfiak és nők) h) Borsod-Abaúj-Zemplén Vármegyei Büntetés-végrehajtási Intézet (férfiak és nők) i) Kiskunhalasi Országos Büntetés-végrehajtási Intézet (férfiak és nők) j) Közép-dunántúli Országos Büntetés-végrehajtási Intézet (férfiak) k) Veszprém Vármegyei Büntetés-végrehajtási Intézet (férfiak és nők) |
 
-[^19]: Az 5. melléklet a 2/2019. (I. 22.) BM rendelet 3. §-a, a 25/2020. (VII. 15.) BM rendelet 3. §-a, az 50/2022. (XII. 27.) BM rendelet 12. § 9-11. pontja szerint módosított szöveg.
+[^20]: Az 5. melléklet a 2/2019. (I. 22.) BM rendelet 3. §-a, a 25/2020. (VII. 15.) BM rendelet 3. §-a, az 50/2022. (XII. 27.) BM rendelet 12. § 9-11. pontja szerint módosított szöveg.
