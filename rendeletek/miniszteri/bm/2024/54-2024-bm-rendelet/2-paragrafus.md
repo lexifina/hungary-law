@@ -1,1 +1,3 @@
-2. § Hatályát veszti a szabadságvesztés, az elzárás, a rendbírság helyébe lépő elzárás, a letartóztatás és a szabálysértési elzárás végrehajtását foganatosító büntetés-végrehajtási intézetek kijelölésének szabályairól szóló 16/2018. (VI. 7.) BM rendelet 3. melléklet I. pontjában foglalt táblázat 19. sora.
+2. §[^2]
+
+[^2]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

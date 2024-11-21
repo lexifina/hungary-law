@@ -1,3 +1,5 @@
 ## 1. A szabadságvesztés, az elzárás, a rendbírság helyébe lépő elzárás, a letartóztatás és a szabálysértési elzárás végrehajtását foganatosító büntetés-végrehajtási intézetek kijelölésének szabályairól szóló 16/2018. (VI. 7.) BM rendelet módosítása
 
-1. § A szabadságvesztés, az elzárás, a rendbírság helyébe lépő elzárás, a letartóztatás és a szabálysértési elzárás végrehajtását foganatosító büntetés-végrehajtási intézetek kijelölésének szabályairól szóló 16/2018. (VI. 7.) BM rendelet 1. melléklete helyébe az 1. melléklet lép.
+1. §[^1]
+
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
