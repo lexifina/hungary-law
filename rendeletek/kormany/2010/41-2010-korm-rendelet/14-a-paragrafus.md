@@ -1,4 +1,4 @@
-14/A. §[^46] (1) Az eb nem tartós, átmeneti kikötése az alábbi feltétel esetén megengedett:
+14/A. §[^47] (1) Az eb nem tartós, átmeneti kikötése az alábbi feltétel esetén megengedett:
 
 a) az állaton végzett ápolás, illetve gyógykezelés céljából, annak idejére,
 
@@ -24,4 +24,4 @@ rövidebb nem lehet.
 
 (4) Lóféle esetében az istállón kívüli kikötés időtartama alkalmanként nem haladhatja meg a 60 percet.
 
-[^46]: A 14/A. §-t a 785/2021. (XII. 27.) Korm. rendelet 20. §-a iktatta be.
+[^47]: A 14/A. §-t a 785/2021. (XII. 27.) Korm. rendelet 20. §-a iktatta be.

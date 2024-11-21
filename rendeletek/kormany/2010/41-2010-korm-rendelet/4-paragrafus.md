@@ -1,8 +1,8 @@
-4. §[^10] (1) Állatkereskedés csak tevékenységi engedéllyel működtethető.
+4. §[^11] (1) Állatkereskedés csak tevékenységi engedéllyel működtethető.
 
 (2) Állatkereskedés akkor működtethető, ha az állatkereskedés
 
-a)[^11] az állomány ellátására szolgáltató állatorvossal szerződést kötött,
+a)[^12] az állomány ellátására szolgáltató állatorvossal szerződést kötött,
 
 b) rendelkezik jóváhagyott működési szabályzattal, valamint
 
@@ -16,18 +16,18 @@ b) az ellátó állatorvossal kötött szerződés egy példányát,
 
 c) a kereskedésnek a működési szabályzatát (a továbbiakban: az állatkereskedés működési szabályzata), amely tartalmazza az állatok etetésére, gondozására, egészségügyi ellenőrzésére, az elkülönítésre, a trágya, a hulladék elhelyezésére, a tetemek tárolására és ártalmatlanítására, a takarításra, a fertőtlenítésre, a közegészségügyi és állategészségügyi, állatvédelmi előírások betartására és a vásárlók tájékoztatására vonatkozó előírásokat.
 
-(4)[^12] Az állatkereskedés tevékenységi engedélyét a kereskedés helye szerint illetékes vármegyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi feladatkörében eljáró járási hivatala (a továbbiakban: járási állat-egészségügyi hatóság) adja ki. A járási állat-egészségügyi hatóság az állatkereskedés működési szabályzatának jóváhagyásáról az engedélyben dönt.
+(4)[^13] Az állatkereskedés tevékenységi engedélyét a kereskedés helye szerint illetékes vármegyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi feladatkörében eljáró járási hivatala (a továbbiakban: járási állat-egészségügyi hatóság) adja ki. A járási állat-egészségügyi hatóság az állatkereskedés működési szabályzatának jóváhagyásáról az engedélyben dönt.
 
-(5)[^13] Az állatkereskedés naprakész nyilvántartást vezet a beszerzett, készleten lévő, eladott és elhullott
+(5)[^14] Az állatkereskedés naprakész nyilvántartást vezet a beszerzett, készleten lévő, eladott és elhullott
 
 a) gerinces állatok fajonkénti egyedszámáról, a nemzetközi természetvédelmi egyezmény hatálya alá nem tartozó édesvízi halak kivételével,
 
 b) nemzetközi természetvédelmi egyezmény hatálya alá tartozó gerinctelen állatok fajonkénti egyedszámáról.
 
-(6)[^14] Elhullás esetén – amennyiben ismert – annak okát is rögzíteni kell.
+(6)[^15] Elhullás esetén – amennyiben ismert – annak okát is rögzíteni kell.
 
-[^10]: A 4. § a 18. § (2) bekezdése alapján 2010. július 1-jén lép hatályba.
-[^11]: A 4. § (2) bekezdés a) pontja a 40/2013. (II. 14.) Korm. rendelet 58. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^12]: A 4. § (4) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 273. §-ával megállapított, a 70/2015. (III. 30.) Korm. rendelet 151. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 109. §-a szerint módosított szöveg.
-[^13]: A 4. § (5) bekezdését a 115/2012. (VI. 11.) Korm. rendelet 6. § (3) bekezdése iktatta be.
-[^14]: A 4. § (6) bekezdését a 115/2012. (VI. 11.) Korm. rendelet 6. § (3) bekezdése iktatta be.
+[^11]: A 4. § a 18. § (2) bekezdése alapján 2010. július 1-jén lép hatályba.
+[^12]: A 4. § (2) bekezdés a) pontja a 40/2013. (II. 14.) Korm. rendelet 58. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^13]: A 4. § (4) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 273. §-ával megállapított, a 70/2015. (III. 30.) Korm. rendelet 151. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 109. §-a szerint módosított szöveg.
+[^14]: A 4. § (5) bekezdését a 115/2012. (VI. 11.) Korm. rendelet 6. § (3) bekezdése iktatta be.
+[^15]: A 4. § (6) bekezdését a 115/2012. (VI. 11.) Korm. rendelet 6. § (3) bekezdése iktatta be.

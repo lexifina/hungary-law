@@ -1,4 +1,4 @@
-17/M. §[^95] (1) Az ebek viselkedésének megítélésében jártas szakértői tevékenységet az folytathat, aki
+17/M. §[^96] (1) Az ebek viselkedésének megítélésében jártas szakértői tevékenységet az folytathat, aki
 
 a) a tevékenység végzésére irányuló szándékát az állatvédelmi hatóságnak bejelentette, továbbá
 
@@ -16,4 +16,4 @@ b) a szakmai gyakorlati idő meglétét igazoló iratot,
 
 c) a szakmai működés részletes leírását tartalmazó iratot.
 
-[^95]: A 17/M. §-t a 115/2012. (VI. 11.) Korm. rendelet 7. §-a iktatta be, szövege a 440/2016. (XII. 16.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^96]: A 17/M. §-t a 115/2012. (VI. 11.) Korm. rendelet 7. §-a iktatta be, szövege a 440/2016. (XII. 16.) Korm. rendelet 18. §-ával megállapított szöveg.
