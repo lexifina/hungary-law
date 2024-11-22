@@ -1,4 +1,4 @@
-21/B. §[^51] (1)[^52] A rendelkezésre álló terep és akadály adatkészletek jegyzékét a központi légiforgalmi tájékoztató szolgálat (a továbbiakban: AIS) terep adattermék, valamint akadály adattermék specifikáció formájában elektronikusan biztosítja.
+21/B. §[^55] (1)[^56] A rendelkezésre álló terep és akadály adatkészletek jegyzékét a központi légiforgalmi tájékoztató szolgálat (a továbbiakban: AIS) terep adattermék, valamint akadály adattermék specifikáció formájában elektronikusan biztosítja.
 
 (2) Valamennyi terep adattermék specifikációnak tartalmaznia kell egy áttekintő részt, a részletes leírás érvényességi tartományát, az adattermék azonosítását, az adatok összetételét és szerkezetét, a vonatkoztatási rendszert, az adat minőségét, az adat rögzítését, az adatok karbantartását, az adat ábrázolását, az adattermék továbbítását, kiegészítő információkat és a metaadatokat.
 
@@ -12,10 +12,10 @@
 
 a) az adatgyűjtési területként kijelölt 2a számú, 2b számú, 2c számú és 2d számú Terület leírását,
 
-b)[^53] a felszállási repülési útvonal terület leírását és
+b)[^57] a felszállási repülési útvonal terület leírását és
 
 c) az akadálykorlátozási felületek leírását.
 
-[^51]: A Vhr. 21/B. §-t a 167/2019. (VII. 9.) Korm. rendelet 2. §-a iktatta be.
-[^52]: A Vhr. 21/B. § (1) bekezdése a 609/2021. (XI. 5.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^53]: A Vhr. 21/B. § (6) bekezdés b) pontja a 609/2021. (XI. 5.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^55]: A Vhr. 21/B. §-t a 167/2019. (VII. 9.) Korm. rendelet 2. §-a iktatta be.
+[^56]: A Vhr. 21/B. § (1) bekezdése a 609/2021. (XI. 5.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^57]: A Vhr. 21/B. § (6) bekezdés b) pontja a 609/2021. (XI. 5.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
