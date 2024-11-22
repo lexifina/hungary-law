@@ -1,0 +1,1 @@
+1. § A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és a Szerb Köztársaság Kormánya között az elektronikus útdíjrendszer területén való együttműködésről szóló megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
