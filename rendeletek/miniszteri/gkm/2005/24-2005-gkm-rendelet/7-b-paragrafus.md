@@ -1,4 +1,4 @@
-## A vizsgára bocsátással összefüggő feladatok[^79]
+## A vizsgára bocsátással összefüggő feladatok[^80]
 
 7/B. § (1) A képző szerv a képzési és a vizsgára bocsátással összefüggő feladatai körében rögzíti a vizsgázó vizsgaszervezéshez, valamint a vizsgázó kérésére a vezetői engedély automatikus kiállításához szükséges adatait, nyilatkozatait és kérelmeit, és a vizsgaközpont informatikai rendszerén keresztül elektronikus úton átadja ezen adatokat a vizsgaközpont részére. A vizsgázó, illetve törvényes képviselője által hitelesített nyilatkozatokat, illetve hiteles másolatukat a képző szerv papír alapon is továbbíthatja a vizsgaközpontnak.
 
@@ -16,4 +16,4 @@
 
 (8) A képző szerv vagy – megismételt számítógépes elméleti vizsga esetén – a vizsgázó vagy a szaktanfolyam hallgatója a vizsgára bocsátásra irányuló igényét a vizsgaközpontnak bejelenti (vizsgára jelentés).
 
-[^79]: Az „A vizsgára bocsátással összefüggő feladatok” alcímet (7/B. §-t) a 11/2023. (VI. 23.) ÉKM rendelet 26. §-a iktatta be.
+[^80]: Az „A vizsgára bocsátással összefüggő feladatok” alcímet (7/B. §-t) a 11/2023. (VI. 23.) ÉKM rendelet 26. §-a iktatta be.

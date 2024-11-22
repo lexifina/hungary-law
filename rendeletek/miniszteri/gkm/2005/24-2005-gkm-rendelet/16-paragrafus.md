@@ -1,6 +1,6 @@
-## A közlekedési hatóság eljárása és az általa végzett tevékenység[^163]
+## A közlekedési hatóság eljárása és az általa végzett tevékenység[^164]
 
-16. §[^164]
+16. §[^165]
 
-[^163]: A 16. §-t megelőző alcím az 58/2011. (XI. 24.) NFM rendelet 17. §-ával megállapított szöveg.
-[^164]: A 16. §-t a 45/2019. (XII. 20.) ITM rendelet 29. § 2. pontja hatályon kívül helyezte.
+[^164]: A 16. §-t megelőző alcím az 58/2011. (XI. 24.) NFM rendelet 17. §-ával megállapított szöveg.
+[^165]: A 16. §-t a 45/2019. (XII. 20.) ITM rendelet 29. § 2. pontja hatályon kívül helyezte.
