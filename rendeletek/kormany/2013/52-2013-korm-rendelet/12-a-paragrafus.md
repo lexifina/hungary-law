@@ -1,4 +1,4 @@
-12/A. §[^19] (1) Az ösztöndíjas köteles a részére kifizetett ösztöndíj teljes összegét kilencven napon belül visszafizetni
+12/A. §[^21] (1) Az ösztöndíjas köteles a részére kifizetett ösztöndíj teljes összegét kilencven napon belül visszafizetni
 
 a) a 12. § (1) bekezdése szerinti esetben,
 
@@ -16,4 +16,4 @@ b) a 12. § (3) bekezdés a) pontja szerinti esetben, vagy
 
 c) ha a szerződés felmondásának oka a Központ szerződésszegése.
 
-[^19]: A 12/A. §-t a 191/2019. (VII. 30.) Korm. rendelet 42. §-a iktatta be.
+[^21]: A 12/A. §-t a 191/2019. (VII. 30.) Korm. rendelet 42. §-a iktatta be.
