@@ -6,9 +6,9 @@ a) donor: a nemzetközi fejlesztési együttműködés keretében támogatást n
 
 b) donor-együttműködés: két vagy több támogatást nyújtó ország vagy nemzetközi szervezet a nemzetközi fejlesztési együttműködés keretében a kedvezményezett részére nyújt támogatást,
 
-c) egyéb támogatási jellegű tevékenység: az e rendeletben foglaltakon túl a Gazdasági Együttműködési és Fejlesztési Szervezet Fejlesztési Támogatási Bizottsága által hivatalos fejlesztési támogatásnak minősülő tevékenység,
+c)[^2] egyéb támogatási jellegű tevékenység: az e rendeletben foglaltakon túl a Gazdasági Együttműködési és Fejlesztési Szervezet (a továbbiakban: OECD) Fejlesztési Támogatási Bizottsága által hivatalos fejlesztési támogatásnak minősülő tevékenység,
 
-d) kedvezményezett: nemzetközi fejlesztési együttműködési tevékenység keretében a Gazdasági Együttműködési és Fejlesztési Szervezet Fejlesztési Támogatási Bizottsága által felállított lista alapján hivatalos fejlesztési támogatásra jogosult ország – illetve annak szerve, szervezete –, valamint nemzetközi szervezet,
+d)[^3] kedvezményezett: nemzetközi fejlesztési együttműködési tevékenység keretében az OECD Fejlesztési Támogatási Bizottsága által felállított lista alapján hivatalos fejlesztési támogatásra jogosult ország – illetve annak szerve, szervezete –, valamint nemzetközi szervezet,
 
 e) program: projekteket magában foglaló nemzetközi fejlesztési együttműködésre irányuló folyamat, tevékenység, vagy eljárás,
 
@@ -19,3 +19,6 @@ g) projekt: nemzetközi fejlesztési együttműködésre irányuló terv és ann
 h) projektalapú együttműködés: a nemzetközi fejlesztési együttműködési tevékenység céljaival összhangban támogatás biztosítása, szolgáltatás nyújtása, egyéb kifizetés teljesítése, vagy beszerzés megvalósítása a kedvezményezett fejlesztési programjához illeszkedő projekt végrehajtására,
 
 i) támogatás: pénzügyi, tárgyi, szolgáltatási, technikai vagy kapacitásépítési hozzájárulás, segély vagy adomány, amely akár egyedi, projekt- vagy programalapon valósul meg.
+
+[^2]: Az 1. § c) pontja a 14/2024. (XI. 19.) KKM rendelet 1. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § d) pontja a 14/2024. (XI. 19.) KKM rendelet 1. § b) pontja szerint módosított szöveg.
