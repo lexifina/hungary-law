@@ -1,17 +1,18 @@
-4. §[^10] A juhfélék egyedeit, mielőtt elhagyják a születéskori tenyészetet, de legkésőbb kilenc hónapos korukig az útmutatóban meghatározott módon juh ENAR-számmal a következők szerint kell megjelölni:
+4. §[^11] A juhfélék egyedeit, mielőtt elhagyják a születéskori tenyészetet, de legkésőbb kilenc hónapos korukig az útmutatóban meghatározott módon juh ENAR-számmal a következők szerint kell megjelölni:
 
-a) a születési helyükről közvetlenül hazai vágóhídra kerülő juh egyedeket két füljelzővel kell ellátni, melyek közül az egyik vonalkódot is tartalmaz;
+a)[^12] a születési helyükről közvetlenül hazai vágóhídra kerülő juh egyedeket két kisméretű füljelzővel kell ellátni;
 
-b)[^11] a 2009. december 31. után született, élő állatként az Európai Unión belüli kereskedelembe kerülő juh egyedeket a 21/2004/EK rendelet 4. cikk (2) bekezdés a) pontjában foglaltak szerinti elsődleges jelölési módként a 2. § (1) bekezdés 4. pontjában foglaltaknak megfelelő elektronikus füljelzővel, a 21/2004/EK rendelet 4. cikk (2) bekezdés b) pontjában foglaltak szerinti másodlagos jelölési módként a 2. § (1) bekezdés 4. pontjában foglaltaknak megfelelő kisméretű füljelzővel kell ellátni;
+b)[^13] a 2009. december 31. után született, élő állatként az Európai Unión belüli vagy hazai kereskedelembe kerülő juh egyedeket elsődleges jelölési módként a 2. § (1) bekezdés 4. pontjában foglaltaknak megfelelő elektronikus füljelzővel vagy a NÉBIH által engedélyezett egyéb elektronikus jelölőeszközzel, valamint másodlagos jelölési módként a 2. § (1) bekezdés 4. pontjában foglaltaknak megfelelő kisméretű füljelzővel kell ellátni, kivéve, ha az állatot a 4/A. § szerint már megjelölték;
 
-c)[^12] a 2009. december 31. után született, továbbtartásra meghagyott juh egyedeket a 21/2004/EK rendelet 4. cikk (2) bekezdés a) pontjában foglaltak szerinti elsődleges jelölési módként a 2. § (1) bekezdés 4. pontjában foglaltaknak megfelelő elektronikus füljelzővel, a 21/2004/EK rendelet 4. cikk (2) bekezdés b) pontjában foglaltak szerinti másodlagos jelölési módként pedig a 2. § (1) bekezdés 4. pontjában foglaltaknak megfelelő nagyméretű füljelzővel kell ellátni úgy, hogy minden egyed bal fülébe kell behelyezni az elektronikus füljelzőt, a jobb fülébe pedig a másik füljelzőt. Az elektronikus füljelzőt bendő bólusz helyettesítheti.
+c)[^14]
 
-d)[^13] a 21/2004/EK rendelet mellékletének A. szakasz 8. pontja alapján az engedélyezett állatkert írásban benyújtott kérelmére a Pest Vármegyei Kormányhivatal engedélyezheti az a)–c) pontokban meghatározott azonosítási követelményektől való eltérést.
+d)[^15] a 21/2004/EK rendelet mellékletének A. szakasz 8. pontja alapján az engedélyezett állatkert írásban benyújtott kérelmére a Pest Vármegyei Kormányhivatal engedélyezheti az a)–c) pontokban meghatározott azonosítási követelményektől való eltérést.
 
-e)[^14] azon b) pont szerint jelölt egyedek esetében, melyek nem hagyják el a tenyészetet, az eredeti azonosítóval azonos tartalmú c) pont szerinti másodlagos jelölés megrendeléséről és a nagyméretű füljelző behelyezéséről a 10. § szerint kell gondoskodni.
+e)[^16] azon b) pont szerint jelölt egyedek esetében, amelyek 9 hónapos korukig nem hagyják el a tenyészetet, az eredeti azonosítóval azonos tartalmú, a 4/A. § szerinti másodlagos jelölés megrendeléséről és a nagyméretű füljelző behelyezéséről kell gondoskodni.
 
-[^10]: A 4. § nyitó szövegrésze a 23/2023. (V. 10.) AM rendelet 17. § a) pontja szerint módosított szöveg.
-[^11]: A 4. § b) pontja a 88/2013. (X. 2.) VM rendelet 61. § 2. pontja szerint módosított szöveg.
-[^12]: A 4. § c) pontja a 88/2013. (X. 2.) VM rendelet 61. § 3. pontja szerint módosított szöveg.
-[^13]: A 4. § d) pontját a 28/2010. (XI. 9.) VM rendelet 7. § (1) bekezdése iktatta be, szövege a 42/2017. (VIII. 17.) FM rendelet 149. § a) pontja, a 23/2023. (V. 10.) AM rendelet 17. § b) pontja szerint módosított szöveg.
-[^14]: A 4. § e) pontját a 88/2013. (X. 2.) VM rendelet 51. §-a iktatta be.
+[^11]: A 4. § nyitó szövegrésze a 23/2023. (V. 10.) AM rendelet 17. § a) pontja szerint módosított szöveg.
+[^12]: A 4. § a) pontja az 57/2024. (XI. 14.) AM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^13]: A 4. § b) pontja az 57/2024. (XI. 14.) AM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^14]: A 4. § c) pontját az 57/2024. (XI. 14.) AM rendelet 9. § c) pontja hatályon kívül helyezte.
+[^15]: A 4. § d) pontját a 28/2010. (XI. 9.) VM rendelet 7. § (1) bekezdése iktatta be, szövege a 42/2017. (VIII. 17.) FM rendelet 149. § a) pontja, a 23/2023. (V. 10.) AM rendelet 17. § b) pontja szerint módosított szöveg.
+[^16]: A 4. § e) pontját a 88/2013. (X. 2.) VM rendelet 51. §-a iktatta be, szövege az 57/2024. (XI. 14.) AM rendelet 2. § (2) bekezdésével megállapított szöveg.

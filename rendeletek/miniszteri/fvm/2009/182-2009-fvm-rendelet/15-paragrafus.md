@@ -10,6 +10,6 @@ d) gondoskodik az állomány- és egyednyilvántartáshoz, továbbá a jelölés
 
 e) tájékoztatja az állattartókat az állatok jelölésével és nyilvántartásával kapcsolatos előírásokról;
 
-f)[^37] nyilvántartást vezet az állattartóktól beérkező jelölési igényekről és azok időpontjáról, valamint a területi felelősökön keresztül gondoskodik azok 30 napon belüli teljesítéséről.
+f)[^45] nyilvántartást vezet az állattartóktól beérkező jelölési igényekről és azok időpontjáról, valamint a területi felelősökön keresztül gondoskodik azok 30 napon belüli teljesítéséről.
 
-[^37]: A 15. § f) pontját a 88/2013. (X. 2.) VM rendelet 57. §-a iktatta be.
+[^45]: A 15. § f) pontját a 88/2013. (X. 2.) VM rendelet 57. §-a iktatta be.

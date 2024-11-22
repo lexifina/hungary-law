@@ -1,5 +1,3 @@
-## 10. §[^28] Amennyiben a jelölőeszköz az állat füléből kiesett, elveszett, vagy olyan mértékben károsodott, hogy a rajta lévő felirat vagy elektronikus jel nem olvasható, akkor az annak pótlását szolgáló, illetve a 4. § c) pontja és az 5. § c) és d) pontja szerinti új füljelző megrendeléséről az állattartónak legkésőbb a 12. § szerinti éves leltárkor, pótlásáról vagy cseréjéről pedig a lehető leghamarabb, de legkésőbb az állat értékesítéséig vagy vágóhídra kerüléséig gondoskodnia kell. A jelölőeszközt az útmutatóban leírtak szerint bármilyen engedélyezett típussal lehet pótolni a 4. és 5. §-ban rögzített előírások betartásával.
-
 11. § (1) Az állattartó a tenyészetben található állatokról fajonként naprakész nyilvántartást (a továbbiakban: állomány-nyilvántartó) köteles vezetni.
 
 (2) Az állomány-nyilvántartónak a 21/2004/EK rendelet Mellékletének B. szakaszában foglaltakon kívül tartalmaznia kell:
@@ -18,7 +16,7 @@ f) a kiesett (elhullott, levágott) bárányok és gidák létszámát, a kiesé
 
 g) a harmadik országból behozott, továbbtartásra meghagyott állatokat a harmadik ország általi azonosítással együtt.
 
-(3)[^29] Az állomány-nyilvántartó mellékleteként kell megőrizni a 13. § (1) bekezdése szerinti szállítólevelet, továbbá az állattartónak naprakészen vezetnie kell az állomány-nyilvántartó mellékletét képező alábbi nyilvántartásokat:
+(3)[^37] Az állomány-nyilvántartó mellékleteként kell megőrizni a 13. § (1) bekezdése szerinti szállítólevelet, továbbá az állattartónak naprakészen vezetnie kell az állomány-nyilvántartó mellékletét képező alábbi nyilvántartásokat:
 
 a) a jelölésre felhasználható jelölőeszközök listája, amelyen minden jelölőeszköz esetében fel kell tüntetni a jelölés időpontját (év, hó);
 
@@ -30,5 +28,4 @@ b) a tenyészetben található, továbbá az onnan kiadott és oda érkezett ál
 
 (6) Az állomány-nyilvántartót a mellékleteivel együtt az állattartó három évig köteles megőrizni a helyszínen.
 
-[^28]: A 10. § a 88/2013. (X. 2.) VM rendelet 55. §-ával megállapított szöveg.
-[^29]: A 11. § (3) bekezdése a 41/2010. (IV. 20.) FVM rendelet 2. §-ával megállapított szöveg.
+[^37]: A 11. § (3) bekezdése a 41/2010. (IV. 20.) FVM rendelet 2. §-ával megállapított szöveg.

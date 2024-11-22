@@ -1,4 +1,4 @@
-13. §[^30] (1) Az állatokat az országon belül két tenyészet közötti szállításuk esetén a NÉBIH által rendszeresített és a honlapján közzétett, a (2) bekezdésben meghatározott adattartalmú szállítólevéllel, valamint az élő állatok belföldi szállításának állat-egészségügyi szabályairól szóló miniszteri rendeletben meghatározott dokumentációval kell kísérni.
+13. §[^38] (1) Az állatokat az országon belül két tenyészet közötti szállításuk esetén a NÉBIH által rendszeresített és a honlapján közzétett, a (2) bekezdésben meghatározott adattartalmú szállítólevéllel, valamint az élő állatok belföldi szállításának állat-egészségügyi szabályairól szóló miniszteri rendeletben meghatározott dokumentációval kell kísérni.
 
 (2) A szállítólevélnek a 21/2004/EK rendelet Mellékletének C. 1. szakaszában foglalt adatokon kívül tartalmaznia kell a szállított állat faját és ENAR-számát, a szolgáltató állatorvos által kiállított állat-egészségügyi bizonyítványának sorszámát, a kiállítás dátumát, az állatorvos bélyegzőszámát, valamint a fogadó tenyészet általi fogadás dátumát, a fogadott állatok számát és a fogadó tenyészet állattartójának aláírását.
 
@@ -12,4 +12,4 @@
 
 (7) A szállítólevélre alkalmazni kell a számvitelről szóló 2000. évi C. törvény 168. §-ának rendelkezéseit.
 
-[^30]: A 13. § a 88/2013. (X. 2.) VM rendelet 56. §-ával megállapított szöveg.
+[^38]: A 13. § a 88/2013. (X. 2.) VM rendelet 56. §-ával megállapított szöveg.

@@ -2,7 +2,7 @@
 
 a) a tenyészetében lévő állatok egyedi jelöléséről, a kiesett, az elveszett vagy olvashatatlanná vált jelölőeszközök pótlásáról saját költségén gondoskodni;
 
-b)[^41] a NÉBIH-től a tenyészetében lévő állatok jelöléséhez szükséges jelölőeszközöket és segédeszközöket a területi felelősön keresztül az útmutató előírásai szerint beszerezni;
+b)[^49] a NÉBIH-től a tenyészetében lévő állatok jelöléséhez szükséges jelölőeszközöket és segédeszközöket a területi felelősön keresztül az útmutató előírásai szerint beszerezni;
 
 c) az állatok jelölésével, nyilvántartásával összefüggő információkat és adatokat a területi felelősnek, továbbá bármely ellenőrzést végző hatóságnak rendelkezésére bocsátani;
 
@@ -16,4 +16,4 @@ g) a tenyészete állományában bekövetkezett változások (szaporodás, elhul
 
 h) a területi felelős közreműködésével évente elvégezni a 12. § szerinti leltárt.
 
-[^41]: A 19. § b) pontja a 88/2013. (X. 2.) VM rendelet 59. §-ával megállapított szöveg.
+[^49]: A 19. § b) pontja a 88/2013. (X. 2.) VM rendelet 59. §-ával megállapított szöveg.

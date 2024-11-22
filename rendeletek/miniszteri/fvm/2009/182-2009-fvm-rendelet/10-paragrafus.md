@@ -1,0 +1,3 @@
+10. §[^36] Amennyiben a jelölőeszköz az állat füléből kiesett, elveszett, vagy olyan mértékben károsodott, hogy a rajta lévő felirat vagy elektronikus jel nem olvasható, akkor az annak pótlását szolgáló füljelző megrendeléséről az állattartónak legkésőbb a 12. § szerinti éves leltárkor, pótlásáról vagy cseréjéről pedig a lehető leghamarabb, de legkésőbb az állat értékesítéséig vagy vágóhídra kerüléséig gondoskodnia kell. A jelölőeszközt az útmutatóban leírtak szerint bármilyen engedélyezett típussal lehet pótolni a 4–5/B. §-ban meghatározott követelmények betartásával.
+
+[^36]: A 10. § a 88/2013. (X. 2.) VM rendelet 55. §-ával megállapított, az 57/2024. (XI. 14.) AM rendelet 8. § d) pontja és 9. § e) pontja szerint módosított szöveg.
