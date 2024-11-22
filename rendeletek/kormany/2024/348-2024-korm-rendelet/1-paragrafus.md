@@ -1,0 +1,1 @@
+1. § A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és a Guatemalai Köztársaság Kormánya közötti oktatási együttműködési megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
