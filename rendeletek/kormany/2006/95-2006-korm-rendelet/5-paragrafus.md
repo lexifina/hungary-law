@@ -1,6 +1,6 @@
-## A honvédségi veszélyes tevékenység bejelentése, azonosítása és engedélyezése[^10]
+## A honvédségi veszélyes tevékenység bejelentése, azonosítása és engedélyezése[^13]
 
-5. §[^11] (1) A hét nap időtartamot meghaladó honvédségi veszélyes tevékenység megkezdését, megváltoztatását, megszüntetését a honvédségi üzemeltetőnek előzetesen be kell jelentenie a veszélyes katonai objektum felügyeleti hatóságnál, az 1. melléklet szerinti adattartalommal.
+5. §[^14] (1) A hét nap időtartamot meghaladó honvédségi veszélyes tevékenység megkezdését, megváltoztatását, megszüntetését a honvédségi üzemeltetőnek előzetesen be kell jelentenie a veszélyes katonai objektum felügyeleti hatóságnál, az 1. melléklet szerinti adattartalommal.
 
 (2) A honvédségi üzemeltető bejelentése alapján, annak elfogadása esetén a veszélyes katonai objektumot és a küszöbérték alatti nyilvántartott katonai objektumot a veszélyes katonai objektum felügyeleti hatóság azonosítja és nyilvántartásában rögzíti.
 
@@ -18,5 +18,5 @@ b) az üzemeltetési engedéllyel működő veszélyes katonai objektumban a ves
 
 c) a megszüntetett honvédségi veszélyes tevékenység újraindítására veszélyes katonai objektumban.
 
-[^10]: Az 5. §-t megelőző alcímet a 110/2018. (VI. 25.) Korm. rendelet 4. §-a iktatta be.
-[^11]: Az 5. § a 110/2018. (VI. 25.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^13]: Az 5. §-t megelőző alcímet a 110/2018. (VI. 25.) Korm. rendelet 4. §-a iktatta be.
+[^14]: Az 5. § a 110/2018. (VI. 25.) Korm. rendelet 5. §-ával megállapított szöveg.

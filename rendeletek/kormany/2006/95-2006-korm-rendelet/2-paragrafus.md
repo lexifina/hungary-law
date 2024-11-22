@@ -12,15 +12,15 @@ c) biztonsági dokumentáció: a veszélyes katonai objektum honvédségi üzeme
 
 d) dominóhatás: a veszélyes katonai objektumban bekövetkező olyan veszélyes anyagokkal kapcsolatos honvédségi súlyos baleset, amelynek hatása a közelben lévő veszélyes anyagokkal foglalkozó üzemre vagy más veszélyes katonai objektumra átterjedve a veszélyes anyagokkal kapcsolatos honvédségi súlyos balesetek bekövetkezésének valószínűségét megnöveli, vagy a bekövetkezett ilyen események következményeit súlyosbítja,
 
-e) hatósági összekötő: a honvédségi üzemeltető állományába tartozó, a veszélyes anyagokkal kapcsolatos honvédségi üzemzavarok elleni védekezéssel kapcsolatos feladatok ellátására kijelölt, a honvédelmi szervezet veszélyes anyagaival kapcsolatos logisztikai feladatokért felelős személy,
+e)[^3] hatósági összekötő: a honvédségi üzemeltető állományába tartozó vagy általa foglalkoztatott, a veszélyes anyagokkal kapcsolatos honvédségi üzemzavarok elleni védekezéssel kapcsolatos feladatok ellátására kijelölt, a veszélyes anyagokkal kapcsolatos logisztikai feladatokért felelős személy,
 
-f) honvédelmi szervezet: a honvédelmi szervezetek működésének az államháztartás működési rendjétől eltérő szabályairól szóló 346/2009. (XII. 30.) Korm. rendelet 1. § (1) bekezdése szerinti szervezet, a külképviseleti tevékenységet ellátó szervezetek, szervezeti egységek, valamint a szövetségi és nemzetközi szerződésekből eredő katonai kötelezettségeket teljesítő, a Magyar Honvédség hadrendje szerinti szervezet válságkezelő és béketámogató műveletekben részt vevő szervezeti egységei kivételével,
+f)[^4] honvédelmi szervezet: a honvédelmi szervezetek működésének az államháztartás működési rendjétől eltérő szabályairól szóló 346/2009. (XII. 30.) Korm. rendelet 1. § (1) bekezdése szerinti szervezet, a külképviseleti tevékenységet ellátó szervezetek, szervezeti egységek, valamint a szövetségi és nemzetközi szerződésekből eredő katonai kötelezettségeket teljesítő, a Magyar Honvédség hadrendje szerinti szervezet válságkezelő és béketámogató műveletekben részt vevő szervezeti egységei kivételével, továbbá a Várpalotai Védelmi Ipari Komplexumban (Várpalota, Csór) elhelyezkedő gyártóüzemeket mint telephelyeket üzemeltető jogi személyek,
 
 g) honvédségi üzemeltető: az a honvédelmi szervezet, amely a küszöbérték egytizedét elérő vagy meghaladó mennyiségű veszélyes anyaggal végez honvédségi veszélyes tevékenységet,
 
 h) honvédségi veszélyes tevékenység: a veszélyes katonai objektumban vagy a küszöbérték alatti nyilvántartott katonai objektumban a honvédségi üzemeltető által, veszélyes anyaggal végzett olyan tevékenység, amely veszélyes anyagokkal kapcsolatos honvédségi üzemzavar bekövetkezésének veszélyét hordozza magában,
 
-i) katonai objektum: a honvédelmi szervezet elhelyezésére szolgáló létesítmény, a külön jogszabály szerinti honvédelmi és katonai célú építmény, a honvédelmi és katonai célú ingatlan, valamint a veszélyes anyag tárolására szolgáló katonai vagy katonai célú létesítmény, berendezés, tároló,
+i)[^5] katonai objektum: a honvédelmi szervezet elhelyezésére szolgáló létesítmény, a jogszabály szerinti honvédelmi és katonai célú építmény, a honvédelmi és katonai célú ingatlan, a veszélyes anyag tárolására szolgáló katonai vagy katonai célú létesítmény, berendezés, tároló, valamint a Várpalotai Védelmi Ipari Komplexumban (Várpalota, Csór) elhelyezkedő gyártóüzemek mint telephelyek,
 
 j) küszöbérték: a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésről szóló 219/2011. (X. 20.) Korm. rendelet (a továbbiakban: R.) melléklete alapján meghatározható alsó küszöbérték, ha a veszélyes anyagnak csak egy küszöbmennyisége van, akkor a küszöbmennyiség,
 
@@ -48,3 +48,6 @@ p) veszélyeztetett terület: az a terület, ahol honvédségi veszélyes tevék
 
 [^1]: Az 1. § a 110/2018. (VI. 25.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^2]: A 2. § a 110/2018. (VI. 25.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^3]: A 2. § e) pontja a 335/2024. (XI. 14.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^4]: A 2. § f) pontja a 335/2024. (XI. 14.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^5]: A 2. § i) pontja a 335/2024. (XI. 14.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.

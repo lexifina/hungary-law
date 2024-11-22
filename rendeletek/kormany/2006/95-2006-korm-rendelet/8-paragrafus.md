@@ -1,3 +1,3 @@
-8. §[^17]
+8. §[^20]
 
-[^17]: A 8. §-t és az azt megelőző „Az építtető feladatai” alcímet a 110/2018. (VI. 25.) Korm. rendelet 20. § c)–d) pontja hatályon kívül helyezte.
+[^20]: A 8. §-t és az azt megelőző „Az építtető feladatai” alcímet a 110/2018. (VI. 25.) Korm. rendelet 20. § c)–d) pontja hatályon kívül helyezte.

@@ -1,4 +1,4 @@
-3. melléklet a 95/2006. (IV. 18.) Korm. rendelethez[^105]
+3. melléklet a 95/2006. (IV. 18.) Korm. rendelethez[^109]
 
 A veszélyes anyagokkal kapcsolatos honvédségi üzemzavar bejelentésének kötelező tartalmi elemei
 
@@ -42,7 +42,7 @@ b) Vége (dátum, időpont):
 
 9. Esemény részletes leírása
 
-10.[^106] Megtett intézkedések (objektumrész leállítása, belső védelmi terv életbeléptetése, védekezésben érintett szervek és más állami szervek értesítése, iparbiztonsági hatóság értesítése, egyéb üzemi intézkedés)
+10.[^110] Megtett intézkedések (objektumrész leállítása, belső védelmi terv életbeléptetése, védekezésben érintett szervek és más állami szervek értesítése, iparbiztonsági hatóság értesítése, egyéb üzemi intézkedés)
 
 11. Intézkedések részletes leírása
 
@@ -58,5 +58,5 @@ d) Elzárkóztatás történt (igen, nem):
 
 e) Kitelepítés történt (igen, nem):
 
-[^105]: A 3. melléklet a 110/2018. (VI. 25.) Korm. rendelet 18. § c) pontjával megállapított szöveg.
-[^106]: A 3. melléklet 10. pontja a 257/2024. (VIII. 29.) Korm. rendelet 7. § h) pontja szerint módosított szöveg.
+[^109]: A 3. melléklet a 110/2018. (VI. 25.) Korm. rendelet 18. § c) pontjával megállapított szöveg.
+[^110]: A 3. melléklet 10. pontja a 257/2024. (VIII. 29.) Korm. rendelet 7. § h) pontja szerint módosított szöveg.

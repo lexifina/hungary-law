@@ -4,9 +4,9 @@ Az engedélyezési és hatósági felügyeleti tevékenység során alkalmazott 
 
 1. A veszélyes katonai objektum, objektum rész által okozott veszélyeztetettség minősítése
 
-1.1.[^115] A veszélyes katonai objektum biztonsági színvonala alapvető mutatóit a biztonsági dokumentáció tartalmazza, amelyben a honvédségi üzemeltető elemzi és bemutatja az azonosított veszélyes anyagokkal kapcsolatos honvédségi súlyos baleset lehetséges következményeit. A veszélyes katonai objektum felügyeleti hatóság ez alapján minősíti a veszélyes katonai objektum által okozott veszélyeztetettséget.
+1.1.[^119] A veszélyes katonai objektum biztonsági színvonala alapvető mutatóit a biztonsági dokumentáció tartalmazza, amelyben a honvédségi üzemeltető elemzi és bemutatja az azonosított veszélyes anyagokkal kapcsolatos honvédségi súlyos baleset lehetséges következményeit. A veszélyes katonai objektum felügyeleti hatóság ez alapján minősíti a veszélyes katonai objektum által okozott veszélyeztetettséget.
 
-1.2.[^116] A veszélyes katonai objektum felügyeleti hatóság a lakosság veszélyeztetettségének megítélésére elsősorban a lehetséges veszélyes anyagokkal kapcsolatos honvédségi súlyos balesetek következményeinek mértékét veszi alapul.
+1.2.[^120] A veszélyes katonai objektum felügyeleti hatóság a lakosság veszélyeztetettségének megítélésére elsősorban a lehetséges veszélyes anyagokkal kapcsolatos honvédségi súlyos balesetek következményeinek mértékét veszi alapul.
 
 1.2.1. Elfogadható szintű veszélyeztetettséget jelent,
 
@@ -32,9 +32,9 @@ bb) 1%-ot elérő vagy meghaladó probit alapú elhalálozási valószínűség;
 
 c) túlnyomás tekintetében 10 kPa értéket elérő vagy meghaladó léglökési hullám.
 
-1.3.[^117] A szakhatóságként közreműködő
+1.3.[^121] A szakhatóságként közreműködő
 
-1.3.1. hozzájárulása az üzemeltető biztonsági elemzésével vagy biztonsági jelentésével összefüggésben a következők felülvizsgálatára és ellenőrzésére terjed ki:
+1.3.1.[^122] hozzájárulása a honvédségi üzemeltető biztonsági dokumentációjával összefüggésben a következők felülvizsgálatára és ellenőrzésére terjed ki:
 
 a) a veszélyes katonai objektum azonosítása és a veszélyes anyagok leltára, különös tekintettel a technológiában lévő anyagokra,
 
@@ -58,9 +58,9 @@ e) a biztonságirányítási rendszer azon részei, amelyek a technológia minde
 
 f) a technológiai rendszer és annak biztonságos működtetésével kapcsolatos műszaki-technikai rendszerek;
 
-1.3.2.[^118] az 1.3.1. alpontban foglalt tevékenységi körében elvégzi a biztonsági dokumentáció, illetve annak módosításai és kiegészítései felülvizsgálatát, melynek keretében szükség szerint a honvédségi üzemeltetőtől kiegészítő tájékoztatást kér, illetve a veszélyes katonai objektum felügyeleti hatóságnál helyszíni szemle lefolytatását kezdeményezi.
+1.3.2.[^123] az 1.3.1. alpontban foglalt tevékenységi körében elvégzi a biztonsági dokumentáció, illetve annak módosításai és kiegészítései felülvizsgálatát, melynek keretében szükség szerint a honvédségi üzemeltetőtől kiegészítő tájékoztatást kér, illetve a veszélyes katonai objektum felügyeleti hatóságnál helyszíni szemle lefolytatását kezdeményezi.
 
-1.4. A honvédségi üzemeltető a biztonsági jelentésben, illetőleg a biztonsági elemzésben értékeli az azonosított veszélyes anyagokkal kapcsolatos súlyos baleset lehetséges következményeit. A veszélyes katonai objektum felügyeleti hatóság felülvizsgálja az értékelés során alkalmazott módszereket és kiindulási mutatókat.
+1.4.[^124] A honvédségi üzemeltető a biztonsági dokumentációban értékeli az azonosított veszélyes anyagokkal kapcsolatos súlyos baleset lehetséges következményeit. A veszélyes katonai objektum felügyeleti hatóság felülvizsgálja az értékelés során alkalmazott módszereket és kiindulási mutatókat.
 
 A veszélyes katonai objektum felügyeleti hatóság felülvizsgálja, hogy
 
@@ -68,7 +68,7 @@ a) a honvédségi üzemeltető a következmények értékelésekor a veszélyes 
 
 b) a kiindulási feltételezések igazolhatóak-e, nem tartalmaznak-e a kelleténél kedvezőbb körülményeket.
 
-1.5.[^119] Mennyiségi kockázatértékelés esetén a honvédségi üzemeltető a biztonsági dokumentációban azonosított veszélyes anyagokkal kapcsolatos honvédségi súlyos baleset bekövetkezése valószínűségének gyakorisága és következményeinek súlyossága alapján a veszélyeztetett terület minden pontjára meghatározza az egyéni és a társadalmi kockázat mértékét. A veszélyes katonai objektum felügyeleti hatóság felülvizsgálja azt, hogy a honvédségi üzemeltető a kockázatok meghatározásakor a megfelelő kiindulási mutatókat, számítási módszereket helyesen alkalmazta-e, az alkalmazott feltételezések igazolhatóak-e.
+1.5.[^125] Mennyiségi kockázatértékelés esetén a honvédségi üzemeltető a biztonsági dokumentációban azonosított veszélyes anyagokkal kapcsolatos honvédségi súlyos baleset bekövetkezése valószínűségének gyakorisága és következményeinek súlyossága alapján a veszélyeztetett terület minden pontjára meghatározza az egyéni és a társadalmi kockázat mértékét. A veszélyes katonai objektum felügyeleti hatóság felülvizsgálja azt, hogy a honvédségi üzemeltető a kockázatok meghatározásakor a megfelelő kiindulási mutatókat, számítási módszereket helyesen alkalmazta-e, az alkalmazott feltételezések igazolhatóak-e.
 
 1.6. Az egyéni kockázat elfogadhatóságának feltétele
 
@@ -92,7 +92,7 @@ A társadalmi kockázat kiszámításakor nem csak a veszélyességi övezetben 
 
 ## Nem elfogadható szintű a veszélyeztetettség, ha F>(10–3 x N–2) 1/év, ahol N≥1. Ebben az esetben, ha a kockázat más eszközökkel nem csökkenthető, a veszélyes katonai objektum felügyeleti hatóság kötelezi a honvédségi üzemeltetőt a tevékenység korlátozására vagy megszüntetésére.
 
-1.8. A honvédségi üzemeltető a biztonsági jelentésben, illetve biztonsági elemzésben a veszélyességi övezet minden pontjára meghatározza a sérülések egyéni kockázatát. Az így kialakított veszélyességi övezetet belső, középső és külső zónára osztja.
+1.8.[^126] A honvédségi üzemeltető a biztonsági dokumentációban a veszélyességi övezet minden pontjára meghatározza a sérülések egyéni kockázatát. Az így kialakított veszélyességi övezetet belső, középső és külső zónára osztja.
 
 a) Belső zóna: a sérülés egyéni kockázata meghaladja a 10–5 esemény/év értéket.
 
@@ -102,11 +102,11 @@ c) Külső zóna: a sérülés egyéni kockázata nem éri el a 10–6 esemény/
 
 2. A belső védelmi terv minősítése
 
-2.1. A veszélyes katonai objektum felügyeleti hatóság felülvizsgálja a honvédségi üzemeltető által benyújtott belső védelmi tervet. Ennek során megvizsgálja, hogy a belső védelmi tervben meghatározott védelmi intézkedések arányban állnak-e a biztonsági jelentésben vagy a biztonsági elemzésben meghatározott veszélyekkel, valamint a veszélyes katonai objektum környezetében lévő létesítmények veszélyeztető hatásaival, továbbá megvizsgálja, hogy a tervezett intézkedésekben megjelölt feladatok végrehajtásának megvannak-e a feltételei. A feladatok és a feltételek realitását a veszélyes katonai objektum felügyeleti hatóság helyszíni vizsgálattal is ellenőrzi.
+2.1.[^127] A veszélyes katonai objektum felügyeleti hatóság felülvizsgálja a honvédségi üzemeltető által benyújtott belső védelmi tervet. Ennek során megvizsgálja, hogy a belső védelmi tervben meghatározott védelmi intézkedések arányban állnak-e a biztonsági dokumentációban meghatározott veszélyekkel, valamint a veszélyes katonai objektum környezetében lévő létesítmények veszélyeztető hatásaival, továbbá megvizsgálja, hogy a tervezett intézkedésekben megjelölt feladatok végrehajtásának megvannak-e a feltételei. A feladatok és a feltételek realitását a veszélyes katonai objektum felügyeleti hatóság helyszíni vizsgálattal is ellenőrzi.
 
 Ennek során:
 
-2.2. A veszélyes katonai objektum felügyeleti hatóság felülvizsgálja azt, hogy a belső védelmi terv a veszélyes anyagokkal kapcsolatos súlyos balesetek minden feltárt károsító hatása következményeinek hatékony csökkentésére reálisan végrehajtható feladatokat tartalmaz-e. Megvizsgálja a biztonsági jelentésben vagy a biztonsági elemzésben feltárt veszélyes anyagokkal kapcsolatos súlyos balesetek veszélyeit és e balesetek következményeinek értékelését. Ellenőrzi azt, hogy a belső védelmi tervben megjelölt intézkedések lefedik-e a veszélyes katonai objektumon, objektum részen belül és annak környezetében feltételezett és minden károsító hatást. Megfelelőnek minősíthető az a belső védelmi terv, amelyben a honvédségi üzemeltető a veszélyes anyagokkal kapcsolatos súlyos balesetek minden károsító hatásának csökkentésére megfelelő intézkedést tervez.
+2.2.[^128] A veszélyes katonai objektum felügyeleti hatóság felülvizsgálja azt, hogy a belső védelmi terv a veszélyes anyagokkal kapcsolatos súlyos balesetek minden feltárt károsító hatása következményeinek hatékony csökkentésére reálisan végrehajtható feladatokat tartalmaz-e. Megvizsgálja a biztonsági dokumentációban feltárt veszélyes anyagokkal kapcsolatos súlyos balesetek veszélyeit és e balesetek következményeinek értékelését. Ellenőrzi azt, hogy a belső védelmi tervben megjelölt intézkedések lefedik-e a veszélyes katonai objektumon, objektum részen belül és annak környezetében feltételezett és minden károsító hatást. Megfelelőnek minősíthető az a belső védelmi terv, amelyben a honvédségi üzemeltető a veszélyes anyagokkal kapcsolatos súlyos balesetek minden károsító hatásának csökkentésére megfelelő intézkedést tervez.
 
 2.3. A veszélyes katonai objektum felügyeleti hatóság felülvizsgálja azt, hogy a belső védelmi tervben megjelölt irányító szervezet alkalmas-e a védelmi intézkedésekben megjelölt feladatok hatékony irányítására, rendelkezik-e a feladatai ellátásához szükséges híradással, valamint a helyzetről szóló információkat biztosító és döntés-előkészítő rendszerekkel.
 
@@ -114,8 +114,13 @@ Ennek során:
 
 2.5. A veszélyes katonai objektum felügyeleti hatóság felülvizsgálja azt, hogy a belső védelmi tervben megjelölt szervezetek rendelkeznek-e megfelelő szakfelszereléssel és egyéni védőfelszereléssel, és ezek műszaki állapota lehetővé teszi-e az alkalmazásukat. Hasonlóképpen ellenőrzi azt, hogy a feladataikra való felkészítésük, illetve az előírt rendben való gyakoroltatásuk dokumentáltan megtörtént-e.
 
-[^115]: A 6. melléklet 1.1. pontja a 110/2018. (VI. 25.) Korm. rendelet 18. § d) pontjával megállapított szöveg.
-[^116]: A 6. melléklet 1.2. pontja a 110/2018. (VI. 25.) Korm. rendelet 18. § d) pontjával megállapított szöveg.
-[^117]: A 6. melléklet 1. pont 1.3. alpontja a 362/2008. (XII. 31.) Korm. rendelet 25. § (3) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 173. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^118]: A 6. melléklet 1.3. pont 1.3.2. alpontja a 110/2018. (VI. 25.) Korm. rendelet 18. § d) pontjával megállapított szöveg.
-[^119]: A 6. melléklet 1.5. pontja a 110/2018. (VI. 25.) Korm. rendelet 18. § d) pontjával megállapított szöveg.
+[^119]: A 6. melléklet 1.1. pontja a 110/2018. (VI. 25.) Korm. rendelet 18. § d) pontjával megállapított szöveg.
+[^120]: A 6. melléklet 1.2. pontja a 110/2018. (VI. 25.) Korm. rendelet 18. § d) pontjával megállapított szöveg.
+[^121]: A 6. melléklet 1. pont 1.3. alpontja a 362/2008. (XII. 31.) Korm. rendelet 25. § (3) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 173. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^122]: A 6. melléklet 1.3.1. pontja a 335/2024. (XI. 14.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^123]: A 6. melléklet 1.3. pont 1.3.2. alpontja a 110/2018. (VI. 25.) Korm. rendelet 18. § d) pontjával megállapított szöveg.
+[^124]: A 6. melléklet 1.4. pontja a 335/2024. (XI. 14.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^125]: A 6. melléklet 1.5. pontja a 110/2018. (VI. 25.) Korm. rendelet 18. § d) pontjával megállapított szöveg.
+[^126]: A 6. melléklet 1.8. pontja a 335/2024. (XI. 14.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^127]: A 6. melléklet 2.1. pontja a 335/2024. (XI. 14.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^128]: A 6. melléklet 2.2. pontja a 335/2024. (XI. 14.) Korm. rendelet 5. §-a szerint módosított szöveg.
