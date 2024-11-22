@@ -1,0 +1,1 @@
+A Hungary Helps Programról szóló 2023. évi LXXXIX. törvény 32. § (2) bekezdés a) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 139. § 6. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
