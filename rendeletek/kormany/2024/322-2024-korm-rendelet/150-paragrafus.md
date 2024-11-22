@@ -4,6 +4,10 @@
 
 (3) A próba-visszaállítás során a Felügyelet a visszaállított adatokat nem ellenőrizheti, azokat nem ismerheti meg.
 
-(4)[^5]
+(4) A Felügyelet – a jogsértés mértékétől függően –
 
-[^5]: A 150. § (4) bekezdése a 151. § (2) bekezdése alapján 2024. november 22-én lép hatályba.
+a) az archiválási szabályzat elkészítésének vagy módosításának elmulasztása esetén ötvenezertől egymillió forintig terjedő,
+
+b) az adattrezor-archiválási kötelezettség megsértése esetén egymilliótól ötmillió forintig terjedő
+
+bírságot szabhat ki.
