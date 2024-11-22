@@ -36,8 +36,9 @@
 
 | 18. | Vízgazdálkodási fejlesztések a Felső-Tisza-vidéken | A fejlesztés keretében sor kerül a Máriapócsi- és Kállai-főfolyások völgyében, a befogadó Lónyay-főcsatorna egyes vízi létesítményeinek, a Kraszna-csatorna torkolati szakaszának, valamint a Belfő-csatorna alsó és középső vízgyűjtőjének teljes körű felújítására és fejlesztésére. | Kótaj, Újfehértó, Nyíregyháza, Nyírpazony, Nagykálló, Székely, Laskod, Levelek, Rohod, Vaja, Kántorjánosi |
 
-1a. melléklet a 309/2017. (X. 27.) Korm. rendelethez[^12]
+| 19.[^14] | Esztergom árvízvédelmi fejlesztése II. ütemének megvalósítása | A Beruházás fő célja a klímaváltozás következtében jelentkező szélsőséges időjárási események káros hatásainak csökkentése, ezáltal az árvízi kockázat mérséklése. A beruházás II. ütemében megvalósul: 1. Árvízvédelmi védmű építése a Prímás-sziget felső részén, a Duna-parton, csatlakozva az 1. ütemben megvalósuló 0+325 tkm szelvényhez. 2. Prímás-szigeti mellékág torkolati árvízkapu létesítése. 3. Prímás-szigeti mellékág beeresztő műtárgy létesítése, csatlakozva az 1. ütemben megvalósuló 1+751 tkm szelvényhez. 4. Meglévő árvízvédelmi töltés fejlesztése, csatlakozva a beeresztő műtárgyhoz. 5. Prímási palota és Erzsébet park árvízvédelmének fejlesztése, Prímási palota árvízvédelmi szivárgó rendszerének kiépítése. 6. Esztergomi vízmérce átépítése. 7. Esztergomi gátőrtelep bővítése, fejlesztése. 8. Kapcsolódó városi fejlesztési elemek tanulmánytervének elkészítése. | Esztergom |
 
-Nemzetgazdasági szempontból kiemelt jelentőségű projektek
+1a. melléklet a 309/2017. (X. 27.) Korm. rendelethez[^15]
 
-[^12]: Az 1a. mellékletet az 552/2023. (XII. 12.) Korm. rendelet 7. §-a iktatta be.
+[^14]: Az 1. mellékletben foglalt táblázat 19. sorát a 353/2024. (XI. 21.) Korm. rendelet 2. §-a iktatta be.
+[^15]: Az 1a. mellékletet az 552/2023. (XII. 12.) Korm. rendelet 7. §-a iktatta be.
