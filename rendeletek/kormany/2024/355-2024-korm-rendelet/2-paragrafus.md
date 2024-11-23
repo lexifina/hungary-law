@@ -1,9 +1,3 @@
-2. § A Rendelet
+2. §[^3]
 
-a) 3. § b) pont bc) alpontjában a „beszámolóját” szövegrész helyébe a „szakmai és pénzügyi beszámolóját” szöveg,
-
-b) 4. § (1) bekezdés j) pontjában a „beszámolót” szövegrész helyébe a „szakmai és pénzügyi beszámolót” szöveg,
-
-c) 7. § (3) bekezdés a) pontjában az „osztatlan” szövegrész helyébe az „osztott vagy osztatlan” szöveg
-
-lép.
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
