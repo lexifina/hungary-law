@@ -1,3 +1,3 @@
-1. § Az egyes vízgazdálkodási és kármentesítési célú beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 309/2017. (X. 27.) Korm. rendelet [a továbbiakban: 309/2017. (X. 27.) Korm. rendelet] a következő 5/B. §-sal egészül ki:
+1. §[^2]
 
-„5/B. § E rendeletnek az egyes vízgazdálkodási és kármentesítési célú beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 309/2017. (X. 27.) Korm. rendelet módosításáról szóló 353/2024. (XI. 21.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 1. melléklet 19. sorát a Módr2. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
