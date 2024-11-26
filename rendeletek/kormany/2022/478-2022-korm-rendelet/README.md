@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-478-20-
 | --- | --- | --- |
 | 2022-11-25 | 2022-478-20-22.1 | 478/2022. (XI. 24.) Korm. rendelet |
 | 2023-10-26 | 2022-478-20-22.2 | 471/2023. (X. 25.) Korm. rendelet |
+| 2024-11-26 | 2022-478-20-22.3 | 2025. évi L. törvény |
