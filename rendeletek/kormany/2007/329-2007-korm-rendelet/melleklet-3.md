@@ -1,6 +1,6 @@
 ## A rendőrkapitányságok elnevezése és székhelye
 
-## 1. Bács-Kiskun Vármegyei Rendőr-főkapitányság[^206]
+## 1. Bács-Kiskun Vármegyei Rendőr-főkapitányság[^207]
 
 ## 1.1. Kecskeméti Rendőrkapitányság, Kecskemét
 
@@ -16,7 +16,7 @@
 
 ## 1.7. Kunszentmiklósi Rendőrkapitányság, Kunszentmiklós
 
-## 2. Baranya Vármegyei Rendőr-főkapitányság[^207]
+## 2. Baranya Vármegyei Rendőr-főkapitányság[^208]
 
 ## 2.1. Pécsi Rendőrkapitányság, Pécs
 
@@ -28,7 +28,7 @@
 
 ## 2.5. Szigetvári Rendőrkapitányság, Szigetvár
 
-## 3. Borsod-Abaúj-Zemplén Vármegyei Rendőr-főkapitányság[^208]
+## 3. Borsod-Abaúj-Zemplén Vármegyei Rendőr-főkapitányság[^209]
 
 ## 3.1. Miskolci Rendőrkapitányság, Miskolc
 
@@ -50,7 +50,7 @@
 
 ## 3.10. Tiszaújvárosi Rendőrkapitányság, Tiszaújváros
 
-## 4. Békés Vármegyei Rendőr-főkapitányság[^209]
+## 4. Békés Vármegyei Rendőr-főkapitányság[^210]
 
 ## 4.1. Békéscsabai Rendőrkapitányság, Békéscsaba
 
@@ -116,7 +116,7 @@
 
 ## 5.23. BRFK Dunai Vízirendészeti Rendőrkapitányság, Budapest
 
-## 6.[^210] Csongrád-Csanád Vármegyei Rendőr-főkapitányság[^211]
+## 6.[^211] Csongrád-Csanád Vármegyei Rendőr-főkapitányság[^212]
 
 ## 6.1. Szegedi Rendőrkapitányság, Szeged
 
@@ -130,7 +130,7 @@
 
 ## 6.6. Kisteleki Rendőrkapitányság, Kistelek
 
-## 7. Fejér Vármegyei Rendőr-főkapitányság[^212]
+## 7. Fejér Vármegyei Rendőr-főkapitányság[^213]
 
 ## 7.1. Székesfehérvári Rendőrkapitányság, Székesfehérvár
 
@@ -144,7 +144,7 @@
 
 ## 7.6. Gárdonyi Rendőrkapitányság, Gárdony
 
-## 8. Győr-Moson-Sopron Vármegyei Rendőr-főkapitányság[^213]
+## 8. Győr-Moson-Sopron Vármegyei Rendőr-főkapitányság[^214]
 
 ## 8.1. Győri Rendőrkapitányság, Győr
 
@@ -156,7 +156,7 @@
 
 ## 8.5. Kapuvári Rendőrkapitányság, Kapuvár
 
-## 9. Hajdú-Bihar Vármegyei Rendőr-főkapitányság[^214]
+## 9. Hajdú-Bihar Vármegyei Rendőr-főkapitányság[^215]
 
 ## 9.1. Debreceni Rendőrkapitányság, Debrecen
 
@@ -174,7 +174,7 @@
 
 ## 9.8. Püspökladányi Rendőrkapitányság, Püspökladány
 
-## 10. Heves Vármegyei Rendőr-főkapitányság[^215]
+## 10. Heves Vármegyei Rendőr-főkapitányság[^216]
 
 ## 10.1. Egri Rendőrkapitányság, Eger
 
@@ -186,7 +186,7 @@
 
 ## 10.5. Füzesabonyi Rendőrkapitányság, Füzesabony
 
-## 11. Jász-Nagykun-Szolnok Vármegyei Rendőr-főkapitányság[^216]
+## 11. Jász-Nagykun-Szolnok Vármegyei Rendőr-főkapitányság[^217]
 
 ## 11.1. Jászberényi Rendőrkapitányság, Jászberény
 
@@ -204,7 +204,7 @@
 
 ## 11.8. Törökszentmiklósi Rendőrkapitányság, Törökszentmiklós
 
-## 12. Komárom-Esztergom Vármegyei Rendőr-főkapitányság[^217]
+## 12. Komárom-Esztergom Vármegyei Rendőr-főkapitányság[^218]
 
 ## 12.1. Tatabányai Rendőrkapitányság, Tatabánya
 
@@ -220,7 +220,7 @@
 
 ## 12.7. Kisbéri Rendőrkapitányság, Kisbér
 
-## 13. Nógrád Vármegyei Rendőr-főkapitányság[^218]
+## 13. Nógrád Vármegyei Rendőr-főkapitányság[^219]
 
 ## 13.1. Salgótarjáni Rendőrkapitányság, Salgótarján
 
@@ -234,7 +234,7 @@
 
 ## 13.6. Bátonyterenyei Rendőrkapitányság, Bátonyterenye
 
-## 14. Pest Vármegyei Rendőr-főkapitányság[^219]
+## 14. Pest Vármegyei Rendőr-főkapitányság[^220]
 
 ## 14.1. Budaörsi Rendőrkapitányság, Budaörs
 
@@ -262,7 +262,7 @@
 
 ## 14.13. Váci Rendőrkapitányság, Vác
 
-## 15. Somogy Vármegyei Rendőr-főkapitányság[^220]
+## 15. Somogy Vármegyei Rendőr-főkapitányság[^221]
 
 ## 15.1. Kaposvári Rendőrkapitányság, Kaposvár
 
@@ -278,7 +278,7 @@
 
 ## 15.7. Balatoni Vízirendészeti Rendőrkapitányság, Siófok
 
-## 16. Szabolcs-Szatmár-Bereg Vármegyei Rendőr-főkapitányság[^221]
+## 16. Szabolcs-Szatmár-Bereg Vármegyei Rendőr-főkapitányság[^222]
 
 ## 16.1. Nyíregyházi Rendőrkapitányság, Nyíregyháza
 
@@ -296,7 +296,7 @@
 
 ## 16.8. Tiszavasvári Rendőrkapitányság, Tiszavasvári
 
-## 17. Tolna Vármegyei Rendőr-főkapitányság[^222]
+## 17. Tolna Vármegyei Rendőr-főkapitányság[^223]
 
 ## 17.1. Szekszárdi Rendőrkapitányság, Szekszárd
 
@@ -308,7 +308,7 @@
 
 ## 17.5. Tamási Rendőrkapitányság, Tamási
 
-## 18. Vas Vármegyei Rendőr-főkapitányság[^223]
+## 18. Vas Vármegyei Rendőr-főkapitányság[^224]
 
 ## 18.1. Szombathelyi Rendőrkapitányság, Szombathely
 
@@ -322,7 +322,7 @@
 
 ## 18.6. Vasvári Rendőrkapitányság, Vasvár
 
-## 19. Veszprém Vármegyei Rendőr-főkapitányság[^224]
+## 19. Veszprém Vármegyei Rendőr-főkapitányság[^225]
 
 ## 19.1. Veszprémi Rendőrkapitányság, Veszprém
 
@@ -338,7 +338,7 @@
 
 ## 19.7. Várpalotai Rendőrkapitányság, Várpalota
 
-## 20. Zala Vármegyei Rendőr-főkapitányság[^225]
+## 20. Zala Vármegyei Rendőr-főkapitányság[^226]
 
 ## 20.1. Zalaegerszegi Rendőrkapitányság, Zalaegerszeg
 
@@ -348,26 +348,26 @@
 
 ## 20.4. Lenti Rendőrkapitányság, Lenti
 
-3. melléklet a 329/2007. (XII. 13.) Korm. rendelethez[^226]
+3. melléklet a 329/2007. (XII. 13.) Korm. rendelethez[^227]
 
-[^206]: A 2. melléklet1. pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
-[^207]: A 2. melléklet 2. pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
-[^208]: A 2. melléklet 3. pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
-[^209]: A 2. melléklet 4. pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
-[^210]: A 2. melléklet 6. pont nyitó szövegrésze a 371/2020. (VII. 30.) Korm. rendelet 13. § b) pontjával megállapított, a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
-[^211]: A 2. melléklet szövege a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
-[^212]: A 2. melléklet 7. pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
-[^213]: A 2. melléklet 8. pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
-[^214]: A 2. melléklet 9. pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
-[^215]: A 2. melléklet 10. pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
-[^216]: A 2. melléklet 11. pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
-[^217]: A 2. melléklet 12. pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
-[^218]: A 2. melléklet 13. pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
-[^219]: A 2. melléklet 14. pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
-[^220]: A 2. melléklet 15. pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
-[^221]: A 2. melléklet 16. pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
-[^222]: A 2. melléklet 17. pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
-[^223]: A 2. melléklet 18. pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
-[^224]: A 2. melléklet 19. pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
-[^225]: A 2. melléklet 20. pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
-[^226]: A 3. melléklet a 148/2010. (IV. 29.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^207]: A 2. melléklet1. pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
+[^208]: A 2. melléklet 2. pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
+[^209]: A 2. melléklet 3. pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
+[^210]: A 2. melléklet 4. pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
+[^211]: A 2. melléklet 6. pont nyitó szövegrésze a 371/2020. (VII. 30.) Korm. rendelet 13. § b) pontjával megállapított, a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
+[^212]: A 2. melléklet szövege a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
+[^213]: A 2. melléklet 7. pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
+[^214]: A 2. melléklet 8. pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
+[^215]: A 2. melléklet 9. pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
+[^216]: A 2. melléklet 10. pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
+[^217]: A 2. melléklet 11. pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
+[^218]: A 2. melléklet 12. pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
+[^219]: A 2. melléklet 13. pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
+[^220]: A 2. melléklet 14. pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
+[^221]: A 2. melléklet 15. pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
+[^222]: A 2. melléklet 16. pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
+[^223]: A 2. melléklet 17. pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
+[^224]: A 2. melléklet 18. pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
+[^225]: A 2. melléklet 19. pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
+[^226]: A 2. melléklet 20. pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
+[^227]: A 3. melléklet a 148/2010. (IV. 29.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.

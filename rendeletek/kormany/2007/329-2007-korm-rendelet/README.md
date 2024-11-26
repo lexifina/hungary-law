@@ -56,3 +56,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-329-20-
 | 2023-07-01 | 2007-329-20-22.55 | 280/2023. (VI. 29.) Korm. rendelet |
 | 2023-12-27 | 2007-329-20-22.56 | 612/2023. (XII. 22.) Korm. rendelet |
 | 2024-03-01 | 2007-329-20-22.57 | 43/2024. (II. 29.) Korm. rendelet |
+| 2024-11-26 | 2007-329-20-22.58 | 357/2024. (XI. 25.) Korm. rendelet |
