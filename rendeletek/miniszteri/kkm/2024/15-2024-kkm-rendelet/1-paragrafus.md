@@ -1,1 +1,3 @@
-1. § Hatályát veszti a veszélyhelyzet megszűnésével összefüggő szabályozási kérdésekről szóló 2022. évi V. törvény 5. § (7) bekezdése szerinti országok megjelöléséről szóló 9/2022. (VI. 7.) KKM rendelet.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
