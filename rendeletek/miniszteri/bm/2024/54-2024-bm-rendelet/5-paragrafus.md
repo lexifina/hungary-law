@@ -1,1 +1,3 @@
-5. §
+5. § A büntetés-végrehajtási szervek területére történő be- és kilépés, valamint a büntetés-végrehajtási szervek területén tartózkodás részletes szabályairól szóló 3/2024. (I. 30.) BM rendelet 18. §-a helyébe a következő rendelkezés lép:
+
+„18. § A látogató a látogatási engedély alapján, személyazonosság igazolására alkalmas hatósági igazolvány felmutatása mellett léptethető be a bv. szerv területére. Ha a beléptetés egyedi azonosításra alkalmas elektronikus beléptetőrendszerrel történik, a látogatónak a bv. szerv területére történő belépéséhez a személyazonosság igazolására alkalmas hatósági igazolvány felmutatása nem szükséges.”

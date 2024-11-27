@@ -1,1 +1,3 @@
-4. §
+4. § A büntetés-végrehajtási szervek területére történő be- és kilépés, valamint a büntetés-végrehajtási szervek területén tartózkodás részletes szabályairól szóló 3/2024. (I. 30.) BM rendelet 11. §-a a következő (3) bekezdéssel egészül ki:
+
+„(3) A 2. § 7. pont i) alpontjában meghatározott személy beléptetése – az arcképmás-azonosításhoz való hozzájárulása esetén – az (1) bekezdéstől eltérően egyedi azonosításra alkalmas elektronikus beléptetőrendszerrel történik. A 2. § 7. pont i) alpontjában meghatározott személy a további adatkezeléshez való hozzájárulásról a beléptetés alkalmával nyilatkozik.”
