@@ -1,1 +1,3 @@
-9. § A nem a fogvatartottak elhelyezésére, foglalkoztatására kijelölt bv. szerv személyi állományának tagja az adott bv. szerv területére történő belépés alkalmával nem köteles a személyazonosságát igazolni, és a belépés indokát közölni, ha a beléptetés egyedi azonosításra alkalmas elektronikus beléptetőrendszerrel történik.
+9. §[^2]
+
+[^2]: A 9. §-t az 54/2024. (XI. 19.) BM rendelet 8. §-a hatályon kívül helyezte.

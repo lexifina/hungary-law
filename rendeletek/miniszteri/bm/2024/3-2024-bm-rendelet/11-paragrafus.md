@@ -9,3 +9,7 @@ b) ha az a) pont szerinti irat személyazonosság igazolására nem alkalmas, ak
 felmutatása mellett léphet be a bv. szerv területére.
 
 (2) A hivatalos vagy szolgálati ügyben eljáró személy a jogszabályban meghatározott feladatának ellátása, illetve a bv. szervezettel vagy a bv. szervvel kötött együttműködési megállapodásban foglaltak teljesítése érdekében léphet a bv. szerv területére.
+
+(3)[^3] A 2. § 7. pont i) alpontjában meghatározott személy beléptetése – az arcképmás-azonosításhoz való hozzájárulása esetén – az (1) bekezdéstől eltérően egyedi azonosításra alkalmas elektronikus beléptetőrendszerrel történik. A 2. § 7. pont i) alpontjában meghatározott személy a további adatkezeléshez való hozzájárulásról a beléptetés alkalmával nyilatkozik.
+
+[^3]: A 11. § (3) bekezdését az 54/2024. (XI. 19.) BM rendelet 4. §-a iktatta be.
