@@ -106,7 +106,7 @@
 
 45f.[^251] a 24,25–27,5 GHz frekvenciasávnak az Unión belül vezeték nélküli széles sávú elektronikus hírközlési szolgáltatások nyújtására alkalmas földfelszíni rendszerek számára történő harmonizálásáról szóló, 2019. május 14-i (EU) 2019/784 bizottsági végrehajtási határozat 2. cikke és az (EU) 2020/590 bizottsági végrehajtási határozat azt módosító 1. cikk 1. pontja kijelölésre vonatkozó rendelkezésének,
 
-45g.[^252] az ultraszéles sávú technológiát használó berendezések számára szolgáló rádióspektrum Unión belüli harmonizációjáról és a 2007/131/EK határozat hatályon kívül helyezéséről szóló, 2019. május 14-i (EU) 2019/785 bizottsági végrehajtási határozatnak,
+45g.[^252] az ultraszéles sávú technológiát használó berendezések számára szolgáló rádióspektrum Unión belüli harmonizációjáról és a 2007/131/EK határozat hatályon kívül helyezéséről szóló, 2019. május 14-i (EU) 2019/785 bizottsági végrehajtási határozatnak és az azt módosító (EU) 2024/1467 bizottsági végrehajtási határozatnak,
 
 45h.[^253] a rádióspektrum 5875–5935 MHz frekvenciasávjának az intelligens közlekedési rendszerek (ITS) biztonsággal összefüggő alkalmazásai tekintetében történő harmonizált használatáról és a 2008/671/EK határozat hatályon kívül helyezéséről szóló, 2020. október 7-i (EU) 2020/1426 bizottsági végrehajtási határozatnak,
 
@@ -120,13 +120,15 @@
 
 45m.[^258] a rádióberendezésekre vonatkozóan a 2014/53/EU európai parlamenti és tanácsi irányelv támogatása céljából kidolgozott harmonizált szabványokról szóló, 2022. november 8-i (EU) 2022/2191 bizottsági végrehajtási határozatnak és az azt módosító (EU) 2023/2392 bizottsági végrehajtási határozatnak,
 
-45n.[^259] az Unió terület én a hajókon elérhető mobilhírközlési szolgáltatások rádióspektrum-használatának harmonizált feltételeiről, valamint a 2010/166/EU határozat hatályon kívül helyezéséről szóló, 2024. január 22-i (EU) 2024/340 bizottsági végrehajtási határozatnak,
+45n.[^259] az Unió területén a hajókon elérhető mobilhírközlési szolgáltatások rádióspektrum-használatának harmonizált feltételeiről, valamint a 2010/166/EU határozat hatályon kívül helyezéséről szóló, 2024. január 22-i (EU) 2024/340 bizottsági végrehajtási határozatnak,
 
-46.[^260] a légi járműveken hozzáférhető mobilhírközlési szolgáltatásoknak (MCA-szolgáltatások) az Európai Közösségben való engedélyezéséről szóló, 2008. április 7-i 2008/295/EK bizottsági ajánlásnak
+45o.[^260] – a 2. cikk rendelkezésre bocsátásra vonatkozó rendelkezése kivételével – a 40,5–43,5 GHz frekvenciasávnak az Unión belül vezeték nélküli széles sávú elektronikus hírközlési szolgáltatások nyújtására alkalmas földfelszíni rendszerek számára történő harmonizálásáról szóló, 2024. július 18-i (EU) 2024/1983 bizottsági végrehajtási határozatnak,
+
+46.[^261] a légi járműveken hozzáférhető mobilhírközlési szolgáltatásoknak (MCA-szolgáltatások) az Európai Közösségben való engedélyezéséről szóló, 2008. április 7-i 2008/295/EK bizottsági ajánlásnak
 
 való megfelelést szolgálja.
 
-(2)[^261] Ez a rendelet az egységes európai égbolton belüli beszédüzemű kommunikáció csatornatávolságára vonatkozó követelmények megállapításáról szóló, 2012. november 16-i 1079/2012/EU bizottsági végrehajtási rendeletnek és az azt módosító 657/2013/EU bizottsági végrehajtási rendeletnek a végrehajtásához szükséges rendelkezéseket állapít meg.
+(2)[^262] Ez a rendelet az egységes európai égbolton belüli beszédüzemű kommunikáció csatornatávolságára vonatkozó követelmények megállapításáról szóló, 2012. november 16-i 1079/2012/EU bizottsági végrehajtási rendeletnek és az azt módosító 657/2013/EU bizottsági végrehajtási rendeletnek a végrehajtásához szükséges rendelkezéseket állapít meg.
 
 [^198]: A 13. § a 2/2016. (II. 26.) NMHH rendelet 35. §-ával megállapított szöveg.
 [^199]: A 13. § (1) bekezdés 1. pontja az 1/2019. (I. 22.) NMHH rendelet 7. § (1) bekezdés e) pont ea) alpontja szerint módosított szöveg.
@@ -182,13 +184,14 @@ való megfelelést szolgálja.
 [^249]: A 13. § (1) bekezdés 45d. pontját az 1/2018. (V. 29.) NMHH rendelet 3. §-a iktatta be.
 [^250]: A 13. § (1) bekezdés 45e. pontját a 2/2019. (III. 22.) NMHH rendelet 9. §-a iktatta be, szövege a 7/2022. (IX. 22.) NMHH rendelet 6. § (1) bekezdés b) pont bb) alpontja szerint módosított szöveg.
 [^251]: A 13. § (1) bekezdés 45f. pontját a 6/2019. (XII. 23.) NMHH rendelet 2. §-a iktatta be, szövege az 1/2022. (IV. 6.) NMHH rendelet 6. § (1) bekezdés b) pont bb) alpontja szerint módosított szöveg.
-[^252]: A 13. § (1) bekezdés 45g. pontját a 6/2019. (XII. 23.) NMHH rendelet 2. §-a iktatta be.
+[^252]: A 13. § (1) bekezdés 45g. pontját a 6/2019. (XII. 23.) NMHH rendelet 2. §-a iktatta be, szövege a 12/2024. (XI. 13.) NMHH rendelet 3. § a) pont aa) alpontja szerint módosított szöveg.
 [^253]: A 13. § (1) bekezdés 45h. pontját a 18/2020. (XII. 17.) NMHH rendelet 4. § (2) bekezdése iktatta be.
 [^254]: A 13. § (1) bekezdés 45i. pontját az 1/2022. (IV. 6.) NMHH rendelet 4. §-a iktatta be.
 [^255]: A 13. § (1) bekezdés 45j. pontját a 7/2022. (IX. 22.) NMHH rendelet 4. §-a iktatta be.
 [^256]: A 13. § (1) bekezdés 45k. pontját a 7/2022. (IX. 22.) NMHH rendelet 4. §-a iktatta be.
 [^257]: A 13. § (1) bekezdés 45l. pontját a 7/2022. (IX. 22.) NMHH rendelet 4. §-a iktatta be, szövege a 3/2024. (I. 29.) NMHH rendelet 4. § (1) bekezdés d) pont db) alpontja szerint módosított szöveg.
 [^258]: A 13. § (1) bekezdés 45m. pontját az 5/2024. (IV. 23.) NMHH rendelet 1. §-a iktatta be.
-[^259]: A 13. § (1) bekezdés 45n. pontját az 5/2024. (IV. 23.) NMHH rendelet 1. §-a iktatta be.
-[^260]: A 13. § (1) bekezdés 46. pontja az 1/2019. (I. 22.) NMHH rendelet 7. § (1) bekezdés e) pont ej) alpontja szerint módosított szöveg.
-[^261]: A 13. § (2) bekezdése az 1/2019. (I. 22.) NMHH rendelet 7. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^259]: A 13. § (1) bekezdés 45n. pontját az 5/2024. (IV. 23.) NMHH rendelet 1. §-a iktatta be, szövege a 12/2024. (XI. 13.) NMHH rendelet 3. § a) pont ab) alpontja szerint módosított szöveg.
+[^260]: A 13. § (1) bekezdés 45o. pontját a 12/2024. (XI. 13.) NMHH rendelet 1. §-a iktatta be.
+[^261]: A 13. § (1) bekezdés 46. pontja az 1/2019. (I. 22.) NMHH rendelet 7. § (1) bekezdés e) pont ej) alpontja szerint módosított szöveg.
+[^262]: A 13. § (2) bekezdése az 1/2019. (I. 22.) NMHH rendelet 7. § (1) bekezdés f) pontja szerint módosított szöveg.
