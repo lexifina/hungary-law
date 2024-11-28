@@ -1,1 +1,3 @@
-8. § Hatályát veszti a büntetés-végrehajtási szervek területére történő be- és kilépés, valamint a büntetés-végrehajtási szervek területén tartózkodás részletes szabályairól szóló 3/2024. (I. 30.) BM rendelet 9. §-a.
+8. §[^9]
+
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
