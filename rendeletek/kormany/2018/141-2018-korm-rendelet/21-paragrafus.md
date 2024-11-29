@@ -1,4 +1,4 @@
-## 20. §[^205] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 93/2019. (IV. 23.) Korm. rendelettel (a továbbiakban: Módr12.) megállapított 2. mellékletben foglalt táblázat 21. sorát a Módr12. hatálybalépésekor[^206] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 20. §[^220] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 93/2019. (IV. 23.) Korm. rendelettel (a továbbiakban: Módr12.) megállapított 2. mellékletben foglalt táblázat 21. sorát a Módr12. hatálybalépésekor[^221] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^205]: A 20. §-t a 94/2019. (IV. 23.) Korm. rendelet 1. §-a iktatta be.
-[^206]: A hatálybalépés időpontja 2019. április 24.
+[^220]: A 20. §-t a 94/2019. (IV. 23.) Korm. rendelet 1. §-a iktatta be.
+[^221]: A hatálybalépés időpontja 2019. április 24.

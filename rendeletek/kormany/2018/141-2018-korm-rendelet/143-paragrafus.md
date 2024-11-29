@@ -1,4 +1,4 @@
-143. §[^449] E rendeletnek a gazdasági és adatvagyon-hasznosítás tárgyú kormányrendeletek módosításáról szóló 2/2024. (I. 9.) Korm. rendelettel (a továbbiakban: Módr135.) módosított 5/V. § (1) bekezdését, 5/X. § (2) bekezdés 4. pontját, valamint megállapított 5/V. § (2) bekezdését, (4) bekezdés a) pontját és (5) bekezdését, 5/X. § (3a) bekezdését a Módr135. hatálybalépésekor[^450] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+143. §[^464] E rendeletnek a gazdasági és adatvagyon-hasznosítás tárgyú kormányrendeletek módosításáról szóló 2/2024. (I. 9.) Korm. rendelettel (a továbbiakban: Módr135.) módosított 5/V. § (1) bekezdését, 5/X. § (2) bekezdés 4. pontját, valamint megállapított 5/V. § (2) bekezdését, (4) bekezdés a) pontját és (5) bekezdését, 5/X. § (3a) bekezdését a Módr135. hatálybalépésekor[^465] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^449]: A 143. §-t a 2/2024. (I. 9.) Korm. rendelet 4. §-a iktatta be.
-[^450]: A hatálybalépés időpontja 2024. január 10.
+[^464]: A 143. §-t a 2/2024. (I. 9.) Korm. rendelet 4. §-a iktatta be.
+[^465]: A hatálybalépés időpontja 2024. január 10.

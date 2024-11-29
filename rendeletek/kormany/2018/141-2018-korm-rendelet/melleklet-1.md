@@ -4,7 +4,7 @@ A Beruházások megvalósításával összefüggő, nemzetgazdasági szempontbó
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
-2.[^469] örökségvédelmi hatósági engedélyezési és bejelentési eljárások,
+2.[^488] örökségvédelmi hatósági engedélyezési és bejelentési eljárások,
 
 3. környezetvédelmi hatósági eljárások,
 
@@ -48,11 +48,11 @@ A Beruházások megvalósításával összefüggő, nemzetgazdasági szempontbó
 
 23. földvédelmi hatósági eljárások,
 
-24.[^470] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
+24.[^489] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
 
 25. azok az 1–24. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, amelyek a Beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
 26. az 1–25. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^469]: Az 1. melléklet 2. pontja a 725/2020. (XII. 31.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
-[^470]: Az 1. melléklet 24. pontja a 257/2024. (VIII. 29.) Korm. rendelet 297. §-a szerint módosított szöveg.
+[^488]: Az 1. melléklet 2. pontja a 725/2020. (XII. 31.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
+[^489]: Az 1. melléklet 24. pontja a 257/2024. (VIII. 29.) Korm. rendelet 297. §-a szerint módosított szöveg.
