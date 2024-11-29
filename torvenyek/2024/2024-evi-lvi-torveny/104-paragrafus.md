@@ -1,3 +1,3 @@
-## 31. Az Európa Kulturális Fővárosa 2023 cím viselésével összefüggésben, az Európa Kulturális Fővárosa 2023 programsorozat sikeres megrendezéséhez és megszervezéséhez kapcsolódó rendelkezésekről szóló 2020. évi CXLIV. törvény módosítása
+## 31.
 
-104. § Az Európa Kulturális Fővárosa 2023 cím viselésével összefüggésben, az Európa Kulturális Fővárosa 2023 programsorozat sikeres megrendezéséhez és megszervezéséhez kapcsolódó rendelkezésekről szóló 2020. évi CXLIV. törvény 2. § (4) bekezdésében a „223, 224, 225, 226, 227, 228, 230, 231, 233, 234, 290, 291, 292, 293, 294, 295, 296, 297” szövegrész helyébe a „211, 219/A/1, 219/A/2, 223, 225, 226, 227, 228, 230, 231, 233, 234, 242, 290, 291, 292, 293, 294, 295, 296, 297, 700” szöveg lép.
+### 104. §

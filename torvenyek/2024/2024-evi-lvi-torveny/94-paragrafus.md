@@ -1,3 +1,1 @@
-94. § A Pmt. 20. alcíme a következő 81/A. §-sal egészül ki:
-
-„81/A. § Nem jelenti az adótitok, banktitok, értékpapírtitok, fizetési titok, pénztártitok, biztosítási titok, foglalkoztatói nyugdíjtitok és üzleti titok sérelmét, ha a pénzügyi információs egység az MNB számára ezen titokkörbe eső adatokat ad át a pénzügyi információs egységtől 2025. január 1-i hatállyal az MNB-hez átkerülő feladatok ellátása érdekében.”
+### 94. §

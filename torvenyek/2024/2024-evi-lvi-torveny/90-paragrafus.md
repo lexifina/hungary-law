@@ -1,3 +1,1 @@
-90. § A Pmt. 64. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A szolgáltató a beazonosított kockázataival összhangban köteles gondoskodni arról, hogy az e törvény szerinti tevékenységének ellátásában részt vevő foglalkoztatottjai a pénzmosás és a terrorizmus finanszírozása, valamint a proliferáció finanszírozása megelőzésére és megakadályozására vonatkozó jogszabályi rendelkezéseket megismerjék, a pénzmosást vagy a terrorizmus finanszírozását, valamint a proliferáció finanszírozását elősegítő, lehetővé tevő vagy megvalósító üzleti kapcsolatot, ügyletet felismerjék, továbbá a pénzmosásra vagy a terrorizmus finanszírozására utaló adat, tény, körülmény felmerülése esetén e törvénynek megfelelően tudjanak eljárni.”
+### 90. §
