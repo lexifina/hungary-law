@@ -9,3 +9,5 @@
 (5) Felhatalmazást kap a kormány, hogy a nemi hovatartozás szerint eltérő szolgáltatások alapjául szolgáló arányos különbségeket alátámasztó adatok szolgáltatásának rendjét, tartalmát rendeletben szabályozza.
 
 (6) Felhatalmazást kap a Kormány, hogy az egészség- és önsegélyező pénztáraknak a szociális intézményekre vonatkozó működési és üzemeltetési szabályait rendeletben határozza meg.
+
+(7) Felhatalmazást kap a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter, hogy a 74. § (12) bekezdése szerinti tájékoztatásra vonatkozó részletes szabályokat rendeletben állapítsa meg.
