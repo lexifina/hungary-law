@@ -1,4 +1,4 @@
-22/A. §[^72] (1) A bányavállalkozó szerződés hiányában a 2023. augusztus 31. napján hatályos rendelkezések szerint fizeti meg a bányajáradékot.
+22/A. §[^73] (1) A bányavállalkozó szerződés hiányában a 2023. augusztus 31. napján hatályos rendelkezések szerint fizeti meg a bányajáradékot.
 
 (2) Szerződéskötés hiányában a bányajáradék mértéke nem haladhatja meg
 
@@ -10,4 +10,4 @@ c) a 22. § (1) bekezdés c) pontja szerinti esetben földgáz esetében a TTF f
 
 90 százalékát, azzal, hogy földgáz esetében az a)–c) pont alapján kiszámított árbevétel és a megfizetett bányajáradék különbözete nem lehet kevesebb, mint 5 euró/MWh.
 
-[^72]: A 22/A. §-t a 317/2023. (VII. 17.) Korm. rendelet 6. §-a iktatta be.
+[^73]: A 22/A. §-t a 317/2023. (VII. 17.) Korm. rendelet 6. §-a iktatta be.
