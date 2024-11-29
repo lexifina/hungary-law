@@ -14,7 +14,7 @@ d) aki az őrizet végrehajtása során megszökött.
 
 a) aki a pénzügyőri felszólításra nem tudja a személyazonosságát hitelt érdemlően igazolni, vagy annak igazolását megtagadja,
 
-b) aki a NAV nyomozó hatósága hatáskörébe tartozó bűncselekmény elkövetésével gyanúsítható.
+b) aki a NAV nyomozó hatósága hatáskörébe tartozó bűncselekmény miatt indult büntetőeljárás terheltje, vagy a NAV nyomozó hatósága hatáskörébe tartozó bűncselekmény elkövetésével megalapozottan gyanúsítható.
 
 (3) A pénzügyőr jogosult a körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló törvény szerinti körözött személyek nyilvántartásában szereplő, a körözés alapján előállítandó személyt az intézkedés helye szerint illetékes rendőrkapitányságra előállítani. Az előállított személy átszállításáról, az intézkedést elrendelő vagy az intézkedésben megjelölt hatóság elé állításáról az előállítást elrendelő hatóság gondoskodik.
 

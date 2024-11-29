@@ -110,9 +110,13 @@ d) végzi az elfogott, előállított, őrizetbe vett, valamint fogva tartott sz
 
 e) jogszabályban meghatározott ellenőrzési kötelezettségeinek és jogosultságainak végrehajtása egyik formájaként mozgó egységekkel végzi Magyarország területén – az EU külső határán működő határátkelőhelyek kivételével – a mélységi ellenőrzési tevékenységet,
 
-f)
+f) ellátja a közúti áru- és személyszállításra vonatkozó egyes rendelkezések betartásának vizsgálatára irányuló, a közúti közlekedésről szóló 1988. évi I. törvény 20. § (11) bekezdése, valamint a gépjárműadóról szóló 1991. évi LXXXII. törvény 17. §-a szerinti hatósági feladatokat,
 
 g) a külön jogszabályban meghatározott rendvédelmi, igazgatási feladatokat.
+
+h) ellátja az Unió területére belépő, illetve az Unió területét elhagyó készpénz ellenőrzéséről és az 1889/2005/EK rendelet hatályon kívül helyezéséről szóló 2018/1672 európai parlamenti és tanácsi rendelet végrehajtásáról szóló 2021. évi XLI. törvény 1. § (2) bekezdés szerinti hatósági feladatokat,
+
+i) végzi a fémkereskedelmi hatósági feladatokat.
 
 (9) A NAV végzi továbbá
 

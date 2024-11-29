@@ -12,6 +12,8 @@ b) a NAV szervei hatáskörére és illetékességére vonatkozó szabályokat, 
 
 c) a Fenntartható Gazdaságfehéredésért Felelős Bizottság összetételének és működésének részletes szabályait.
 
+(1a) A Kormány rendelete alapján a NAV elnöke vámügyekben a vármegyei igazgatóságok illetékességét az (1) bekezdés b) pontjától eltérően jelölheti ki.
+
 (2) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki
 
 a) a Központi Irányítást és a területi szerveket,

@@ -66,3 +66,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-122-00-00
 | 2023-07-15 | 2023. évi LIX. törvény | 2010-122-00-00.59 |
 | 2023-12-01 | 2023. évi LXXXIII. törvény | 2010-122-00-00.60 |
 | 2024-03-01 | 2023. évi CIX. törvény | 2010-122-00-00.61 |
+| 2024-11-29 | 2024. évi LV. törvény | 2010-122-00-00.62 |

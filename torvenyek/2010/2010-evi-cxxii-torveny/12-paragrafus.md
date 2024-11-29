@@ -4,7 +4,9 @@
 
 (2) A NAV nyomozó hatósági feladatait ellátó területi szervének felettes szerve a Bűnügyi Főigazgatóság.
 
-(3) A Kormány rendeletében megjelölt területi szervek által első fokon hozott döntésekkel (intézkedésekkel) szemben induló jogorvoslati eljárásokban felettes szervként a Fellebbviteli Igazgatóság jár el.
+(3) A (3a) bekezdésben foglalt kivétellel a Kormány rendeletében megjelölt területi szervek által első fokon hozott döntésekkel (intézkedésekkel) szemben induló jogorvoslati eljárásokban felettes szervként a Fellebbviteli Igazgatóság jár el.
+
+(3a) A Központi Irányítás jár el felettes szervként azon fizetési kedvezmények esetén, amelyben a kérelemmel érintett összeg az 1 milliárd forintot eléri vagy meghaladja.
 
 (4) A Központi Irányítás felettes szerve a kijelölt miniszter.
 
