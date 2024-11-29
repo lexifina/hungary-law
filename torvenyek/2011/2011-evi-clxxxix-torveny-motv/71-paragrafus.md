@@ -1,26 +1,30 @@
 ## A főpolgármester, polgármester, a vármegyei önkormányzat közgyűlésének elnöke díjazása, költségtérítése
 
-71. § (1) A főpolgármester megbízatásának időtartamára havonta illetményre jogosult, amelynek összege 1 500 000 forint. A főpolgármester havonta az illetményének 15%-ában meghatározott költségtérítésre, valamint a minisztert jogszabály alapján megillető egyéb juttatásokra jogosult.
+71. § (1) A főpolgármester megbízatásának időtartamára havonta a (4a) bekezdés szerinti, a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset (a továbbiakban: nemzetgazdasági átlagkereset) hatszorosának megfelelő összegű illetményre, valamint illetménye 15%-ának megfelelő összegű költségtérítésre, továbbá a minisztert jogszabály alapján megillető egyéb juttatásokra jogosult.
 
-(2) A megyei jogú város polgármestere, a fővárosi kerületi önkormányzat polgármestere megbízatásának időtartamára havonta illetményre jogosult, amelynek összege 1 300 000 forint.
+(2) A megyei jogú város polgármestere, a fővárosi kerületi önkormányzat polgármestere megbízatásának időtartamára havonta a nemzetgazdasági átlagkereset négy és félszeresének megfelelő összegű illetményre jogosult.
 
-(3) A vármegyei önkormányzat közgyűlésének elnöke megbízatásának időtartamára havonta illetményre jogosult, amelynek összege megegyezik a (2) bekezdésben meghatározott illetmény 90%-ának összegével.
+(3) A vármegyei önkormányzat közgyűlésének elnöke megbízatásának időtartamára havonta a nemzetgazdasági átlagkereset négyszeresének megfelelő összegű illetményre jogosult.
 
-(4) A polgármester illetménye a (2) bekezdésben meghatározott összeg
+(4) A polgármester megbízatásának időtartamára havonta
 
-a) 40%-a az 500 fő és az az alatti lakosságszámú település polgármestere esetében;
+a) az 500 fő és az az alatti lakosságszámú település esetében a nemzetgazdasági átlagkereset 1,5-szeresének;
 
-b) 50%-a az 501–1500 fő lakosságszámú település polgármestere esetében;
+b) az 501–1500 fő közötti lakosságszámú település esetében a nemzetgazdasági átlagkereset 1,75-szeresének;
 
-c) 55%-a az 1501–2000 fő lakosságszámú település polgármestere esetében;
+c) az 1501–2000 fő közötti lakosságszámú település esetében a nemzetgazdasági átlagkereset kétszeresének;
 
-d) 60%-a a 2001–5000 fő lakosságszámú település polgármestere esetében;
+d) a 2001–5000 fő közötti lakosságszámú település esetében a nemzetgazdasági átlagkereset a település 2,25-szeresének;
 
-e) 65%-a az 5001–10 000 fő lakosságszámú település polgármestere esetében;
+e) az 5001–10 000 fő közötti lakosságszámú település esetében a nemzetgazdasági átlagkereset két és félszeresének;
 
-f) 75%-a a 10 001–30 000 fő lakosságszámú település polgármestere esetében;
+f) a 10 001–30 000 fő közötti lakosságszámú település esetében a nemzetgazdasági átlagkereset háromszorosának;
 
-g) 85%-a a 30 000 fő lakosságszám feletti település polgármestere esetében.
+g) a 30 000 fő feletti lakosságszámú település esetében a nemzetgazdasági átlagkereset három és félszeresének
+
+megfelelő összegű illetményre jogosult.
+
+(4a) A főpolgármester, a megyei jogú város polgármestere, a fővárosi kerületi önkormányzat polgármestere, a vármegyei önkormányzat közgyűlésének elnöke, a polgármester (e bekezdés alkalmazásában a továbbiakban együtt: polgármester) illetményének számításánál a tárgyévet megelőző évnek a január első napjától december utolsó napjáig tartó időszakára vonatkozó, a legalább 5 főt foglalkoztató vállalkozásoknál, a költségvetési intézményeknél és a foglalkoztatás szempontjából jelentős nonprofit szervezeteknél teljes munkaidőben alkalmazásban állók bruttó átlagkeresetére vonatkozóan a nemzetgazdasági átlagkeresetet kell alapul venni. A nemzetgazdasági átlagkereset alapján számított illetményre a polgármester a tárgyév július 1-jétől jogosult.
 
 (5) A társadalmi megbízatású polgármester havonta a polgármester illetménye 50%-ával megegyező mértékű tiszteletdíjra jogosult, melynek egészéről vagy meghatározott részéről a képviselő-testülethez intézett írásbeli nyilatkozatával lemondhat.
 

@@ -1,0 +1,1 @@
+146/O. § A 85. § (14) bekezdésében meghatározott jóváhagyás iránti kérelem a főispán részére a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény módosításáról szóló 2024. évi LVIII. törvény hatálybalépését követő 15 napon belül nyújtható be. Az e § rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
