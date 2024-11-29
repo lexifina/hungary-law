@@ -1,0 +1,1 @@
+2. § A Balassi Bálint-ösztöndíjprogramról szóló 606/2023. (XII. 22.) Korm. rendelet 7. § (2) bekezdés b) pontjában a „havi Budapest-bérlet és” szövegrész helyébe a „Budapesten érvényes 30 napos tömegközlekedési bérlet, utazási biztosítás, részvétel a szakmai programokon és” szöveg lép.

@@ -1,0 +1,1 @@
+1. § A Balassi Bálint-ösztöndíjprogramról szóló 606/2023. (XII. 22.) Korm. rendelet 3. § (3) bekezdésében a „feladatok meghatározása és finanszírozásának forrásának meghatározása céljából” szövegrész helyébe a „feladatok és az azokkal kapcsolatban felmerülő kiadások finanszírozásának meghatározása céljából” szöveg lép.
