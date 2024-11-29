@@ -1,3 +1,3 @@
-84. §[^259] A Bűnügyi Főigazgatóság főigazgatója egyedi ügyekben a 83. § a) pontjában meghatározott nyomozóhatósági jogkörét a bűnügyi igazgatóságra ruházhatja át, ha ezt a nyomozási cselekmények hatékonyabb elvégzése indokolja.
+84. §[^260] A Bűnügyi Főigazgatóság főigazgatója egyedi ügyekben a 83. § a) pontjában meghatározott nyomozóhatósági jogkörét a bűnügyi igazgatóságra ruházhatja át, ha ezt a nyomozási cselekmények hatékonyabb elvégzése indokolja.
 
-[^259]: A 84. § a 611/2023. (XII. 22.) Korm. rendelet 21. § 11. pontja szerint módosított szöveg.
+[^260]: A 84. § a 611/2023. (XII. 22.) Korm. rendelet 21. § 11. pontja szerint módosított szöveg.
