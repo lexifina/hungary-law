@@ -18,10 +18,12 @@ támogatására.
 
 a) az (1) bekezdés a)–d) pontja szerinti esetben ösztöndíj, az oktatás önköltségének megtérítése alóli mentesség, a KKM MDA Kft. által biztosított szállás és a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény 22. § (1) bekezdés i) pont id) alpontja alapján egészségügyi szolgáltatás,
 
-b) az (1) bekezdés e) pontja szerinti esetben az oktatás önköltségének megtérítése alóli mentesség, a KKM MDA Kft. által biztosított szállás, havi Budapest-bérlet és napi háromszori étkezés,
+b)[^2] az (1) bekezdés e) pontja szerinti esetben az oktatás önköltségének megtérítése alóli mentesség, a KKM MDA Kft. által biztosított szállás, Budapesten érvényes 30 napos tömegközlekedési bérlet, utazási biztosítás, részvétel a szakmai programokon és napi háromszori étkezés,
 
 c) az (1) bekezdés f) pontja szerinti esetben ösztöndíj
 
 illeti meg.
 
 (3) Az (1) bekezdés a)–d) pontjában meghatározott ösztöndíjak esetén a miniszter – a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 80. § (2) bekezdés h) pont hc) alpontja alapján – az ösztöndíjprogramban történő részvételéhez a kötelező egészségügyi protokoll szerinti egészségügyi alkalmassági vizsgálatot ír elő.
+
+[^2]: A 7. § (2) bekezdés b) pontja a 367/2024. (XI. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.

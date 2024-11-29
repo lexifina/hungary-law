@@ -30,4 +30,6 @@ f) igazolást állít ki az ösztöndíjas jogviszonyról az ösztöndíjas idő
 
 g) a 7. § (1) bekezdés a)–e) pontja szerinti ösztöndíjak esetében az a)–f) pontban meghatározott feladatokat a KKM MDA Kft. közreműködésével látja el.
 
-(3) Az ösztöndíjprogram működtetésének pénzügyi fedezetét a minisztérium költségvetésében kell tervezni. A minisztérium biztosítja a KKM MDA Kft. részére a 2. § (3) bekezdésében, valamint a 3. § (2) bekezdés g) pontjában meghatározott feladatokhoz szükséges finanszírozást. A feladat végrehajtásával összefüggő feladatok meghatározása és finanszírozásának forrásának meghatározása céljából a minisztérium a KKM MDA Kft.-vel támogatási vagy közszolgáltatási szerződést köt.
+(3)[^1] Az ösztöndíjprogram működtetésének pénzügyi fedezetét a minisztérium költségvetésében kell tervezni. A minisztérium biztosítja a KKM MDA Kft. részére a 2. § (3) bekezdésében, valamint a 3. § (2) bekezdés g) pontjában meghatározott feladatokhoz szükséges finanszírozást. A feladat végrehajtásával összefüggő feladatok és az azokkal kapcsolatban felmerülő kiadások finanszírozásának meghatározása céljából a minisztérium a KKM MDA Kft.-vel támogatási vagy közszolgáltatási szerződést köt.
+
+[^1]: A 3. § (3) bekezdése a 367/2024. (XI. 28.) Korm. rendelet 1. §-a szerint módosított szöveg.
