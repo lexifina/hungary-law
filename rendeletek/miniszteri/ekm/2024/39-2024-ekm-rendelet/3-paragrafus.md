@@ -1,0 +1,1 @@
+3. § Ez a rendelet az Unión belüli elektronikus útdíjszedési rendszerek átjárhatóságáról és az útdíjfizetés elmulasztásával kapcsolatos információk határokon átnyúló cseréjének elősegítéséről szóló, 2019. március 19-i (EU) 2019/520 európai parlamenti és tanácsi irányelv 24. cikkének és II. mellékletének való megfelelést szolgálja.

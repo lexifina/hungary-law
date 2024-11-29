@@ -1,0 +1,3 @@
+1. § (1) A közúti közlekedésről szóló 1988. évi I. törvény (a továbbiakban: Kkt.) 33/A. § (6a) bekezdésében meghatározott automatizált keresés eredményeképpen ismertté vált, az Európai Unió más tagállamában nyilvántartott használatidíj-fizetés elmulasztásával érintett jármű üzembentartója részére a Kkt. 33/A. § (6b) bekezdése alapján az 1. melléklet szerinti tájékoztatólevél, valamint a 2. melléklet szerinti válaszlevél kerül megküldésre.
+
+(2) Az útdíjszolgáltatási gazdasági társaság vagy annak a Kkt. 33/B. § (4a) bekezdésében meghatározott megbízottja az (1) bekezdés szerinti dokumentumokat a használatidíj-fizetés elmulasztásával érintett jármű nyilvántartásba vételének helye szerinti tagállam hivatalos nyelvén küldi meg.
