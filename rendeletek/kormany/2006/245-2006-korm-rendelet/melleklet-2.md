@@ -64,7 +64,7 @@
 
 | 32. | 12.10.2. | trenazsőr, szimulátor | – / db | 1300 |
 
-2. melléklet a 245/2006. (XII. 5.) Korm. rendelethez[^25]
+2. melléklet a 245/2006. (XII. 5.) Korm. rendelethez[^26]
 
 A bírság számításhoz alkalmazandó szorzószámok az épület (épületrész) készültségi állapotától függően
 
@@ -100,4 +100,4 @@ A bírság számításhoz alkalmazandó szorzószámok az épület (épületrés
 
 5. Meglévő tetőtér beépítése, valamint meglévő lapostetős építmény utólagos tetőtér beépítéssel történő bővítése esetén a kivitelezés megkezdésekor 0,5-ös, a burkolás megkezdésekor 1,0-es készültséggel kell számolni.
 
-[^25]: A 2. melléklet a 322/2012. (XI. 16.) Korm. rendelet 16. § b) pontjával megállapított szöveg.
+[^26]: A 2. melléklet a 322/2012. (XI. 16.) Korm. rendelet 16. § b) pontjával megállapított szöveg.

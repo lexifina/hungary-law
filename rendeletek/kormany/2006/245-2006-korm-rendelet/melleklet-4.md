@@ -1,4 +1,4 @@
-4. melléklet a 245/2006. (XII. 5.) Korm. rendelethez[^27]
+4. melléklet a 245/2006. (XII. 5.) Korm. rendelethez[^28]
 
 |  | A | B | C | D | E | F | G | H | I | J |
 
@@ -148,4 +148,4 @@
 
 | 27. | Beruházáslebonyolító kötelező alkalmazásának hiánya | – | 2 000 |  |  |  |  |  |  |  |
 
-[^27]: A 4. mellékletet a 311/2009. (XII. 28.) Korm. rendelet 24. § (2) bekezdés d) pontja hatályon kívül helyezte, újonnan a 286/2024. (IX. 30.) Korm. rendelet 10. § (3) bekezdése iktatta be.
+[^28]: A 4. mellékletet a 311/2009. (XII. 28.) Korm. rendelet 24. § (2) bekezdés d) pontja hatályon kívül helyezte, újonnan a 286/2024. (IX. 30.) Korm. rendelet 10. § (3) bekezdése iktatta be.

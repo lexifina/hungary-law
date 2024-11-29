@@ -2,6 +2,6 @@
 
 9. § (1) Ez a rendelet a kihirdetését követő 45. napon lép hatályba, rendelkezéseit a hatálybalépését követően indult eljárásokban kell alkalmazni.
 
-(2)[^18]
+(2)[^19]
 
-[^18]: A 9. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 244. pontja hatályon kívül helyezte.
+[^19]: A 9. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 244. pontja hatályon kívül helyezte.

@@ -1,4 +1,4 @@
-7. §[^16] (1) A jogosulatlanul vagy szakszerűtlenül folytatott tevékenységgel kapcsolatos bírság kiszabásáról szóló határozatot az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 85. § (1) bekezdésében foglaltakon kívül közölni kell
+7. §[^17] (1) A jogosulatlanul vagy szakszerűtlenül folytatott tevékenységgel kapcsolatos bírság kiszabásáról szóló határozatot az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 85. § (1) bekezdésében foglaltakon kívül közölni kell
 
 a) a szakmagyakorlói névjegyzéket vezető szervvel, ha a bírság kiszabására az építési műszaki ellenőrrel, a tervezővel, a tervezői művezetővel vagy a felelős műszaki vezetővel szemben került sor,
 
@@ -12,4 +12,4 @@ c) a sajátos építményfajták körébe tartozó honvédelmi, katonai és nemz
 
 (4) A sajátos építményfajták körébe tartozó honvédelmi, katonai és nemzetbiztonsági célú építmények építésügyi hatósági eljárásaiban a bírság kiszabásával kapcsolatos döntéseket és intézkedéseket az e-bírság alkalmazásban nem kell rögzíteni.
 
-[^16]: A 7. §-t megelőző alcímet a 322/2012. (XI. 16.) Korm. rendelet 18. § d) pontja hatályon kívül helyezte. A 7. § a 286/2024. (IX. 30.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^17]: A 7. §-t megelőző alcímet a 322/2012. (XI. 16.) Korm. rendelet 18. § d) pontja hatályon kívül helyezte. A 7. § a 286/2024. (IX. 30.) Korm. rendelet 8. §-ával megállapított szöveg.

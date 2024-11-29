@@ -6,6 +6,8 @@ a) az építési engedély mellékletét képező, záradékolt vagy az egyszer�
 
 b) az építmény helyének építési engedély vagy egyszerű bejelentés nélküli módosítása esetén.
 
+c)[^6] az építési engedély véglegessé válása előtt megkezdett vagy a keresetlevél benyújtásának halasztó hatályát elrendelő bírósági döntés ellenére végzett építési tevékenység esetén, ha az építtető az engedélyezett tervtől nem tért el.
+
 (3) A számított építményérték az elkészült, kivitelezés alatt álló vagy elbontott
 
 a) építményhez, építményrészhez hozzárendelt, az 1. melléklet szerinti egységár, valamint
@@ -43,3 +45,4 @@ b) kétszerese, ha kiszabására olyan személlyel vagy szervezettel szemben ker
 jogszerűtlen építési tevékenység végzése miatt végleges döntéssel építésügyi bírsággal sújtottak.
 
 [^5]: A 3. § a 286/2024. (IX. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^6]: A 3. § (2) bekezdés c) pontját a 286/2024. (IX. 30.) Korm. rendelet 3. §-a iktatta be.
