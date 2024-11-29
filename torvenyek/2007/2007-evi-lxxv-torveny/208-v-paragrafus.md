@@ -1,0 +1,1 @@
+208/V. § E törvénynek a 90. § h) pontja szerinti fenntarthatósági jelentés könyvvizsgálata című modult először annak a természetes személynek kell teljesítenie, akit 2024. január 1-jét követően vettek fel az okleveles könyvvizsgálói képzési programba.

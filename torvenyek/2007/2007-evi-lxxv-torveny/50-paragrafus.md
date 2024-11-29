@@ -6,7 +6,7 @@
 
 (1c) A 49. § szerinti minősítés iránti kérelem tárgyában a közfelügyeleti hatóság a kérelem beérkezésétől számított 60 napon belül dönt.
 
-(1d) Ha a 49. § szerinti minősítés iránti kérelem, valamint az 50. § (2c) bekezdés szerinti igazolás iránti kérelem a közfelügyeleti hatóságnak az adott üggyel szorosan összefüggő más hatósági döntése nélkül megalapozottan nem bírálható el, a közfelügyeleti hatóság az eljárást felfüggeszti.
+(1d) Ha a 49. § szerinti minősítés iránti kérelem, valamint az 50. § (2c) bekezdés szerinti igazolás iránti kérelem a közfelügyeleti hatóságnak az adott üggyel szorosan összefüggő más hatósági döntése nélkül megalapozottan nem bírálható el, vagy ha a döntéshez szükséges előkérdés megválaszolása más szerv hatáskörébe tartozik, a közfelügyeleti hatóság az eljárást felfüggeszti.
 
 (2) Kérelem alapján minősítést (ide nem értve a 49/A. § h) pontja szerinti minősítést) a kamarai tag könyvvizsgáló akkor kaphat, ha igazolja, hogy a minősítés megadása iránti kérelem benyújtását megelőző 5 éven belül
 

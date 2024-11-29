@@ -1,6 +1,6 @@
 173/C. § (1) A minőségellenőrzésről az ellenőr záró jelentést készít.
 
-(2) A záró jelentést az ellenőrzés befejezésétől számított tizenöt napon belül kell elkészíteni.
+(2) A záró jelentést az ellenőrzés befejezésétől számított harminc napon belül kell elkészíteni.
 
 (3) A záró jelentést az ellenőrzés alá vont kamarai tag könyvvizsgálónak, könyvvizsgáló cégnek meg kell küldeni.
 

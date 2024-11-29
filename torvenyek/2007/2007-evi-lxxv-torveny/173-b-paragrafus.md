@@ -69,3 +69,5 @@ f) az ellenőrzés dátumát és helyszínét.
 (14) A kamara a minőségellenőrzés lefolytatásához szükséges dokumentumokat, nyilvántartásokat a közfelügyeleti hatóság kérelmére tizenöt napon belül átadja a közfelügyeleti hatóságnak.
 
 (15) Minőségellenőrzés és rendkívüli minőségellenőrzés során a határozat meghozatalára nyitva álló határidő az ellenőrzés megindításától számított 120 nap.
+
+(16) A közfelügyeleti hatóság a kormányzati portálon tárgyév március 31-ig közzéteszi a tárgyévet megelőző üzleti évekre vonatkozó könyvvizsgálati megbízások (ideértve a fenntarthatósági jelentésre vonatkozó bizonyosság nyújtását is) minőségellenőrzési eljárása során alkalmazandó kérdőíveket, valamint a könyvvizsgáló cégek minőségirányítási rendszerének minőségellenőrzési eljárása során alkalmazandó kérdőíveket.

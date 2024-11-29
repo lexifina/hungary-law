@@ -17,3 +17,5 @@
 (6a) A (6) bekezdés előírásait kell alkalmazni a Rendelet 12. cikk (2) bekezdésén kívüli közérdeklődésre számot tartó gazdálkodó kamarai tag könyvvizsgálója, könyvvizsgáló cége esetében is.
 
 (6b) A 66. §-ban, valamint az (1)–(6a) bekezdésben foglaltakat a fenntarthatósági jelentésre vonatkozó bizonyosság nyújtása során is megfelelően alkalmazni kell.
+
+(7) Nem jelenti a titoktartási kötelezettség megszegését a 4. § (5) bekezdés b) pontja szerinti nemzeti standardoknak, valamint az etikai követelményeknek való megfelelés.
