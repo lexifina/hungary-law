@@ -1,0 +1,1 @@
+Az Országgyűlés abból a célból, hogy a fiatal pályakezdő munkavállalók élet- és pályakezdését segítse, az általuk igénybe vehető állami kezességgel biztosított, kamattámogatott kölcsönről a következő törvényt alkotja:
