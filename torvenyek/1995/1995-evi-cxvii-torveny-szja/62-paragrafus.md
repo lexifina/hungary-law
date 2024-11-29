@@ -4,7 +4,7 @@ a) a megszerzésre fordított összeget, és az ezzel összefüggő más kiadás
 
 b) az értéknövelő beruházásokat;
 
-c) a szerzési időponthoz tartozó bevételrész arányában az átruházással kapcsolatos kiadásokat, ideértve az adott ingatlannal kapcsolatban az állammal szemben vállalt kötelezettség alapján igazoltan megfizetett összeget is.
+c) a szerzési időponthoz tartozó bevételrész arányában az átruházással kapcsolatos kiadásokat.
 
 (2) A megszerzésre fordított összeg
 

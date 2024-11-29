@@ -8,8 +8,8 @@ c) a közlekedési kedvezmények azon körét, amely adómentes juttatásnak min
 
 d) a Széchenyi Pihenő Kártya kibocsátásának és felhasználásának részletes szabályait;
 
-e)
+e) a magyar építészetről szóló törvény szerint műemléknek minősülő ingatlan értékesítéséből származó jövedelem adómentességét megalapozó igazolás kiállításának szabályait;
 
-f)
+f) a béren kívüli juttatásként adható lakhatási támogatás juttatásának részletes feltételeit;
 
 g) azon betegségek körét, amelyekben szenvedő személyek a személyi kedvezmény érvényesítése szempontjából súlyosan fogyatékosnak minősülnek.

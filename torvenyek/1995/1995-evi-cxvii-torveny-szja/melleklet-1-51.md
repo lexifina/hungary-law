@@ -2,6 +2,8 @@
 
 4.51. a Tbj. szerint belföldinek nem minősülő személy részére adott juttatás, amelyet az említett személy a közfeladatot ellátó közérdekű vagyonkezelő alapítvánnyal, egyházi jogi személlyel, a közfeladatot ellátó közérdekű vagyonkezelő alapítvány, egyházi jogi személy által fenntartott felsőoktatási intézménnyel vagy a nemzeti felsőoktatásról szóló törvény 1. melléklete szerinti más felsőoktatási intézménnyel fennálló munkavégzésre irányuló jogviszony alapján szerez, feltéve, hogy a munkavégzésre irányuló jogviszonnyal összefüggésben a magyarországi tartózkodása bármely 12 hónapos időszakban nem haladja meg a 30 napot.
 
+## 4.52. a végső felhasználó magánszemély az energiahatékonyságról szóló törvény szerint hitelesített energiamegtakarítást eredményező – nem egyéni vállalkozóként végzett – cselekményére (így különösen beruházásra, korszerűsítésre, felújításra) tekintettel e magánszemély által megszerzett bevétel, így különösen a magánszemély javára nyilvántartásba vett hitelesített energia megtakarítás (vagyoni értékű jog), az energia megtakarítás érdekében igénybe vett szolgáltatás, vásárolt termék árengedménye, továbbá az említett magánszemély által a hitelesített energia megtakarítás mint vagyoni értékű jog átengedése ellenében megszerzett bevétel.
+
 5.
 
 6. A károk megtérülése, a kockázatok viselése körében adómentes:
@@ -222,7 +224,9 @@ c) a nemzetközi sportszövetséggel foglalkoztatásra irányuló jogviszonyban 
 
 7.45. a Kormány határozatával kiemelt nemzetközi sportrendezvénynek minősített esemény megrendezésével összefüggésben a kiemelt nemzetközi sportrendezvénynek a Kormány határozatában megjelölt szervezője vagy szervezői által a sportolóknak, a versenybíróknak, a magyar és külföldi sportszövetségek tisztségviselőinek és képviselőinek, a szervezőbizottsági tisztségviselőknek és az önkénteseknek adott napidíj, költségtérítés, formaruha, természetben biztosított ellátás, a sportolóknak fizetett pénzdíj, továbbá a versenyekhez kapcsolódó promóciós jellegű juttatások a Kormány határozatában meghatározott mértékig.
 
-## 7.46. a hulladékról szóló törvény, valamint az annak felhatalmazása alapján kiadott jogszabályok alapján a hulladék átadásának ösztönzése érdekében adott juttatás a juttatás időpontjától függetlenül, ide nem értve ha a hulladék átadása gazdasági tevékenység [3. § 46. pont] keretében történik.
+## 7.46. a hulladékról szóló törvény, valamint az annak felhatalmazása alapján kiadott jogszabályok alapján a hulladék átadásának ösztönzése érdekében adott juttatás a juttatás időpontjától függetlenül, továbbá a visszaváltási díj megállapításának és alkalmazásának, valamint a visszaváltási díjas termék forgalmazásának részletes szabályairól szóló kormányrendeletben meghatározott termékekre vonatkozó kötelező visszaváltási rendszer keretében a magánszemély részére a forgalmazó által kifizetett, juttatott visszaváltási díj (ideértve az automata visszaváltó berendezés által kibocsátott utalvány formájában juttatott visszaváltási díjat, valamint azt a visszaváltási díjat is, amely felett a jogosult más személy javára rendelkezik), de ide nem értve ha a hulladék átadása gazdasági tevékenység [3. § 46. pont] keretében történik;
+
+## 7.47. az a jövedelem, amely a kifizető által megvásárolt – a visszaváltási díj megállapításának és alkalmazásának, valamint a visszaváltási díjas termék forgalmazásának részletes szabályairól szóló kormányrendeletben meghatározott – visszaváltási díjas termékek magánszemély részére bármely módon történő átengedése révén keletkezik.
 
 8. A nem pénzben kapott juttatások közül adómentes:
 
