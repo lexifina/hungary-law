@@ -130,7 +130,7 @@ b) az olyan szervezet, amely állandó telephellyel rendelkezik, feltéve, hogy 
 
 22. csoporton belüli finanszírozás: az olyan jogügylet, amely során egy vagy több csoporttag kölcsönt nyújt ugyanazon csoport egy vagy több másik csoporttagjának, vagy más módon fektet be a csoporton belül;
 
-23. egyszerűsített tényleges adómérték: a társaságiadó-információkat tartalmazó jelentés és az e törvény felhatalmazása alapján kiadott miniszteri rendelet alapján számított tényleges adómérték;
+23. egyszerűsített tényleges adómérték: az országonkénti jelentés és az e törvény felhatalmazása alapján kiadott miniszteri rendelet alapján számított tényleges adómérték;
 
 24. elfogadható pénzügyibeszámoló-készítési standard: a számvitelről szóló törvény, a nemzetközi számviteli standardok (IFRS vagy az Európai Unióban a nemzetközi számviteli standardok alkalmazásáról szóló, 2002. július 19-i 1606/2002/EK európai parlamenti és tanácsi rendeletben foglalt eljárás alapján az Európai Unió Hivatalos Lapjában rendeleti formában kihirdetett nemzetközi számviteli standardok), valamint Ausztrália, Brazil Szövetségi Köztársaság, Kanada, az Európai Unió tagállamai, az Európai Gazdasági Térség tagállamai, Hongkong, a Kínai Népköztársaság különleges közigazgatási területe, Japán, Mexikói Egyesült Államok, Új-Zéland, a Kínai Népköztársaság, az Indiai Köztársaság, a Koreai Köztársaság, Oroszországi Föderáció, Szingapúri Köztársaság, Svájci Államszövetség, az Egyesült Királyság és az Amerikai Egyesült Államok általánosan elfogadott számviteli elvei, szabályai;
 
@@ -234,7 +234,7 @@ c) amelyre a szervezet vagy a befektetők szintjén legfeljebb egy év halasztá
 
 46. jelentős versenytorzulás: a számviteli szabályrendszer alkalmazásából eredő olyan eltérés, amely az adóévben azt eredményezi, hogy összességében a bevétel és ráfordítás egyenlege több mint 75 000 000 euróval tér el a nemzetközi számviteli standardok (IFRS-ek vagy az Unió által az 1606/2002/EK európai parlamenti és tanácsi rendelet alapján elfogadott IFRS-ek) szerinti elvek vagy szabályok alkalmazásával megállapított bevétel és ráfordítás egyenlegétől;
 
-47. kijelölt helyi szervezet: a multinacionális vállalatcsoport vagy a nagyméretű belföldi vállalatcsoport adott államban illetőséggel rendelkező tagja, amelyet a multinacionális vállalatcsoport vagy a nagyméretű belföldi vállalatcsoport adott államban illetőséggel rendelkező többi tagja jelölt ki arra, hogy a nevükben benyújtsa a kiegészítő adóval kapcsolatos adatszolgáltatásokat és nyilatkozatokat;
+47. kijelölt helyi szervezet: a multinacionális vállalatcsoport vagy a nagyméretű belföldi vállalatcsoport adott államban illetőséggel rendelkező tagja, amelyet a multinacionális vállalatcsoport vagy a nagyméretű belföldi vállalatcsoport adott államban illetőséggel rendelkező többi tagja jelölt ki arra, hogy az összes belföldi csoporttag nevében benyújtsa a kiegészítő adóval kapcsolatos bejelentést, adatszolgáltatást, bevallást és nyilatkozatot;
 
 48. kisebbségi tulajdonban lévő alcsoport: a kisebbségi tulajdonban lévő anyavállalat és kisebbségi tulajdonban lévő leányvállalatai;
 

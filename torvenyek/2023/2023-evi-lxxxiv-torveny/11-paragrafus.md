@@ -16,7 +16,7 @@
 
 (8) Ha a multinacionális vállalatcsoport és a nagyméretű belföldi vállalatcsoport minden belföldi csoporttagja olyan helyi pénzügyi számviteli standard alapján vezeti a könyvviteli nyilvántartásait, amely alapján a társasági adókötelezettségét is meghatározza, vagy társasági adókötelezettség hiányában a könyvviteli nyilvántartásait független könyvvizsgáló ellenőrizte, akkor a (4) bekezdés alkalmazásakor az alacsony adóterhelésű csoporttagok belföldi többletnyereségét ezen helyi pénzügyi számviteli standard alapján kell meghatározni. Társasági adókötelezettség hiányában, ha a belföldi csoporttag több helyi pénzügyi számviteli standard alapján is vezet független könyvvizsgáló által ellenőrzött könyvviteli nyilvántartást, akkor a belföldi csoporttag többletnyereségét az IFRS-ek szerint kell meghatározni.
 
-(9) Amennyiben a (8) bekezdéstől eltérően nem minden belföldi csoporttag helyi pénzügyi számviteli standard alapján vezeti könyvviteli nyilvántartásait vagy a helyi pénzügyi számviteli standard szerint meghatározott adóév eltér a multinacionális csoport által alkalmazott adóévtől, akkor a belföldi többletnyereséget a 15. § (1) és (2) bekezdése szerinti számviteli standard alkalmazásával kell meghatározni.
+(9) Amennyiben a (8) bekezdéstől eltérően nem minden belföldi csoporttag helyi pénzügyi számviteli standard alapján vezeti könyvviteli nyilvántartásait vagy a helyi pénzügyi számviteli standard szerint meghatározott adóév eltér a multinacionális vállalatcsoport által alkalmazott adóévtől, akkor a belföldi többletnyereséget a 15. § (1) és (2) bekezdése szerinti számviteli standard alkalmazásával kell meghatározni.
 
 (10) Amennyiben az elismert belföldi kiegészítő adót a helyi pénzügyi számviteli standard alapján kell meghatározni és minden csoporttag a helyi számviteli standard szerint teszi közzé beszámolóját, akkor a 2. § (3)–(5) bekezdésétől eltérően az elismert belföldi kiegészítő adót is a helyi számviteli standard szerinti beszámoló elkészítésénél alkalmazott devizanem alapul-vételével kell meghatározni.
 
@@ -30,9 +30,9 @@ a) a 27. § (6) bekezdése szerint számítja ki az adott csoporttagra jutó ad�
 
 b) a 27. § (5) bekezdése szerinti többletnyereség arányában határozza meg az adott csoporttagra jutó adóévi elismert kiegészítő adót,
 
-c) az összes belföldi csoporttagra meghatározott, a 27. § (5) bekezdése szerinti kiegészítő adó azon csoporttagok között kerül felosztásra az a) vagy b) pontban meghatározott módszer alapján, amelyekben az anyavállalat 100 százalékos tulajdoni részesedéssel rendelkezik, vagy
+c) az összes belföldi csoporttagra meghatározott, a 27. § (4) bekezdése szerinti kiegészítő adó azon csoporttagok között kerül felosztásra az a) vagy b) pontban meghatározott módszer alapján, amelyekben az anyavállalat 100 százalékos tulajdoni részesedéssel rendelkezik, vagy
 
-d) az összes belföldi csoporttagra meghatározott, a 27. § (5) bekezdése szerinti kiegészítő adót egy kijelölt csoporttag fizeti meg.
+d) az összes belföldi csoporttagra meghatározott, a 27. § (4) bekezdése szerinti kiegészítő adót egy kijelölt csoporttag fizeti meg.
 
 (14) Amennyiben az alacsony adóterhelésű belföldi csoporttagra jutó elismert belföldi kiegészítő adó az esedékessége adóévét követő négy adóévben nem került megfizetésre, akkor a be nem fizetett elismert belföldi kiegészítő adó összegét hozzá kell adni a kiegészítő adónak a 27. § (4) bekezdése szerint kiszámított összegéhez.
 

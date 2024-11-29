@@ -24,8 +24,4 @@ b) azon adó összege, amely akkor lett volna esedékes, ha az államban illető
 
 (10) Amennyiben az (1) bekezdés szerinti választás által érintett csoporttag kilép a multinacionális vállalatcsoportból vagy a nagyméretű belföldi vállalatcsoportból, vagy lényegében teljes eszközállományát olyan személyre ruházzák át, aki vagy amely nem ugyanazon multinacionális vállalatcsoport vagy nagyméretű belföldi vállalatcsoport azonos államban található csoporttagja, a vélelmezett osztalékadó újramegállapítását szolgáló, a korábbi adóévekre vonatkozó számlák esetleges egyenlegét az egyes említett adóévekre vonatkozóan a kiigazított lefedett adókat a 29. § (1) bekezdésével összhangban csökkentő tételnek kell tekinteni.
 
-(11) A fizetendő kiegészítőadó-többletet a fizetendő kiegészítőadó-többlet és a következő arány szorzataként kell meghatározni, azzal, hogy
-
-a) a csoporttag elismert nyereségét az V. Fejezetnek megfelelően kell megállapítani minden olyan adóévre vonatkozóan, amelyben az adott állam tekintetében a vélelmezett osztalékadó újramegállapítását szolgáló számla egyenleget mutat, és
-
-b) az állam elismert nettó nyereségét a 26. § (2) bekezdésének megfelelően kell megállapítani minden olyan adóévre vonatkozóan, amelyben az adott állam tekintetében a vélelmezett osztalékadó újramegállapítását szolgáló számla egyenleget mutat.
+(11) Az adott államban fizetendő kiegészítőadó-többletet a 10. melléklet szerint kell kiszámítani.

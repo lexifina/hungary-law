@@ -10,4 +10,4 @@
 
 (5) A (4) bekezdés szerinti egy év elteltével a (4) bekezdés szerinti választás megújul, kivéve, ha az adatszolgáltatást teljesítő csoporttag az egyéves időszak végén a választását visszavonja.
 
-(6) Az adatszolgáltatást teljesítő belföldi csoporttag az e törvény alapján megtett választásairól az erre a célra rendszeresített elektronikus űrlapon megtett nyilatkozata útján tájékoztatja az állami adó- és vámhatóságot.
+(6) Az adatszolgáltatást teljesítő belföldi csoporttag az e törvény alapján megtett választásairól az erre a célra rendszeresített elektronikus nyomtatványon megtett nyilatkozata útján tájékoztatja az állami adó- és vámhatóságot.
