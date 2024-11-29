@@ -57,3 +57,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-150-00-00
 | 2024-02-28 | 2023. évi LXXXIII. törvény | 2017-150-00-00.51 |
 | 2024-07-01 | 2023. évi LXXXIII. törvény | 2017-150-00-00.52 |
 | 2024-09-01 | 2024. évi XII. törvény | 2017-150-00-00.57 |
+| 2024-11-29 | 2024. évi LV. törvény | 2017-150-00-00.60 |

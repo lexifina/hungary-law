@@ -26,7 +26,7 @@ e) amennyiben a b)–d) pontok szerinti adat nem áll rendelkezésre, ennek tén
 
 (1b) Az automataberendezés üzemeltetési helye felett rendelkezési joggal bíró adózó köteles bármely az (1) bekezdés a)–d) pontjában bekövetkezett adat változását, az adatváltozás tudomására jutásától számított tizenöt napon belül a felügyeleti szolgáltató részére bejelenteni.
 
-(1c) E paragrafus alkalmazásában automataberendezés az AFE-vel rendelkező automataberendezés.
+(1c) Az (1a) és (1b) bekezdés alkalmazásában automataberendezés az AFE-vel rendelkező automataberendezés.
 
 (2) Az automataberendezéseket AFE-val kell ellátni, amely önállóan elkülöníthető zárt, elektronikus adattárolást és adatkommunikációt végez. Az AFE-ben tárolt adatokról az adózó rendszeresen adatszolgáltatást teljesít az állami adó- és vámhatóság részére, amely adatokat az állami adó- és vámhatóság kizárólag az e törvény szerinti adózók ellenőrzéséhez, ellenőrzésre történő kiválasztásához, törvényben meghatározott feladatai ellátásához használhatja fel az adó megállapításához való jog elévülési idején belül.
 

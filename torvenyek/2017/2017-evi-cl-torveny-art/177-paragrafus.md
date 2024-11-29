@@ -1,6 +1,6 @@
 ### 177. § [Ügyintézési határidő]
 
-(1) A szokásos piaci ár megállapítására irányuló eljárást százhúsz nap alatt kell lefolytatni. A határidő két alkalommal hatvan nappal meghosszabbítható.
+(1) A szokásos piaci ár megállapítására irányuló eljárást százhúsz nap alatt kell lefolytatni. A határidő két alkalommal kilencven nappal meghosszabbítható.
 
 (1a) Kétoldalú vagy többoldalú eljárásnál a külföldi állam illetékes hatóságával az egyeztetést a kérelem benyújtásától számított kettő év alatt kell befejezni. A határidő indokolt esetben egy évvel meghosszabbítható.
 
