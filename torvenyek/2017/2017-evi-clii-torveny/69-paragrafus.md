@@ -10,6 +10,6 @@
 
 (5) Ha az (1) és (2) bekezdés szerinti személy a Vámkódex 22. cikke szerinti kérelmet az erre a célra létrehozott uniós informatikai rendszerben nyújt be, akkor a vámhatóság a döntéseit e rendszeren keresztül közli. A közlés napja a vámhatósági döntés elküldésének az időpontja.
 
-(6) Az (5) bekezdéstől eltérően a döntés közlésének napja az a nap, amelyen azt írásban vagy szóban közölték, vagy a (4) bekezdésben meghatározott módon átadták. A vámjogszabályok eltérő rendelkezése hiányában a hirdetmény útján közölt döntést a hirdetmény kifüggesztését követő 15. napon kell közöltnek tekinteni.
+(6) Az (5) bekezdéstől eltérően a döntés közlésének napja az a nap, amelyen azt írásban vagy szóban közölték, vagy a (4) bekezdésben meghatározott módon átadták. A vámjogszabályok eltérő rendelkezése hiányában a hirdetmény útján közölt döntést a hirdetmény vámhatóság honlapján történő közzétételének napját követő 15. napon kell közöltnek tekinteni.
 
 (7) A vámjogszabályok eltérő rendelkezése hiányában a határozott naphoz kötött jogszerzés a nap kezdetén következik be. A határidő elmulasztása vagy a késedelem jogkövetkezményei a határidő utolsó napjának elteltével állnak be.

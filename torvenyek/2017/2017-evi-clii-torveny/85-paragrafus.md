@@ -6,7 +6,7 @@ a) a jogsértést vagy ezzel összefüggő mulasztást nem a bizonylatok, könyv
 
 b) a kötelezettségszegés vagy mulasztás következményeként nem keletkezik vámhiány, vagy a keletkező vámhiány összege természetes személy esetében a 30 000 forintot, jogi személy esetében 150 000 forintot nem haladja meg, és
 
-c) az érintett személy a 84. § (1) bekezdésében meghatározott valamely kötelezettségszegést vagy mulasztást az annak megállapításától számított egy éven belül első alkalommal követi el,
+c) az érintett személy a 84. § (1) bekezdésében meghatározott valamely kötelezettségszegés vagy mulasztás megállapításához kapcsolódóan biztosított meghallgatáshoz való jog közlésének napjától számított egy éven belül első alkalommal követi el,
 
 a vámhatóság a bírság kiszabását mellőzi és figyelmezteti az érintett személyt.
 

@@ -22,4 +22,10 @@
 
 a végrehajtásához szükséges rendelkezéseket állapít meg.
 
-(2) A 34. § és a Negyedik Rész a belső piaci szolgáltatásokról szóló, 2006. december 12-i 123/2006/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+(2) E törvény
+
+a) 34. §-a és a Negyedik Része a belső piaci szolgáltatásokról szóló, 2006. december 12-i 123/2006/EK európai parlamenti és tanácsi irányelvnek,
+
+b) 84. § (11) bekezdése és a 89. § (1) bekezdése a jövedéki adóra vonatkozó általános rendelkezések megállapításáról szóló, 2019. december 19-i (EU) 2020/262 tanácsi irányelvnek
+
+való megfelelést szolgálja.

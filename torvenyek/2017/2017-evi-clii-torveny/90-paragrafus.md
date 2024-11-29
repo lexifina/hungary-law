@@ -38,6 +38,6 @@ b) a lefoglalt, szállításra használt eszköz nem a jogsértést elkövető t
 
 (13) Az (1) bekezdés szerint lefoglalt, szállításra használt átalakított eszköz elkobzását a (11)–(11a) bekezdés szerint kell végrehajtani, azzal, hogy az ilyen eszközt értékesíteni kell, feltéve, hogy a vevő az értékesítéskor kötelezettséget vállal arra, hogy a jogsértést lehetővé tevő átalakítást 3 hónapon belül megszünteti, és az eszközt a vámhatóságnál bemutatja.
 
-(14) Az elkobzott közúti, vízi és légi járművek értékesítés helyett a NAV szervei részére, feladatuk ellátásához történő használatra – a NAV vezetőjének jóváhagyásával – átadhatók.
+(14) Az elkobzott járművek – a Magyar Nemzeti Vagyonkezelő Zrt.-vel kötött vagyonkezelési szerződés, valamint rendvédelmi feladatot ellátó szerv vezetőjének írásbeli jóváhagyása alapján – értékesítés helyett, a jogszabályban meghatározott feladatainak ellátása céljából a rendvédelmi feladatot ellátó szerv vagyonkezelésébe adhatók.
 
 (15) A lefoglalt és azzal egyidejűleg vagy azt követően elkobzott árukat terhelő vám és egyéb teher fizetési kötelezettséget vámhiányként a vámigazgatási bírság megállapítása szempontjából figyelembe kell venni.

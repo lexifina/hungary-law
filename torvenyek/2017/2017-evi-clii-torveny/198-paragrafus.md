@@ -28,7 +28,7 @@ i) a tapasztalt hiányosságok megszüntetésére vonatkozó esetleges javaslato
 
 j) az észrevételezés lehetőségéről és határidejéről szóló tájékoztatást,
 
-k) az ellenőr nevét és aláírását, az EMGA utólagos ellenőrzést végző szerv bélyegzőlenyomatát és a keltezést.
+k) az ellenőr nevét és aláírását, az EMGA utólagos ellenőrzést végző szerv bélyegzőlenyomatát és a keltezést; elektronikus hitelesítés esetén az ellenőr nevét és az elektronikus hitelesítésre szolgáló bélyegzőt.
 
 (4) Az EMGA utólagos ellenőrzés megállapításai alapján részjegyzőkönyv készülhet, ha az ügyfél EMGA utólagos ellenőrzéssel érintett tevékenysége egy részével kapcsolatban a tényállás tisztázásra került. A részjegyzőkönyvre a (3) bekezdés szerinti jegyzőkönyv szabályait kell alkalmazni.
 

@@ -4,7 +4,7 @@
 
 (1) E § rendelkezéseit a Vámkódex 55. cikkében foglaltakra figyelemmel kell alkalmazni.
 
-(2) A napokban vagy munkanapokban megállapított határidőbe nem számít bele a határidő kezdetére okot adó cselekmény vagy körülmény bekövetkezésének, továbbá a közlésnek, a kézbesítésnek, a hirdetmény kifüggesztésének és levételének a napja.
+(2) A napokban vagy munkanapokban megállapított határidőbe nem számít bele a határidő kezdetére okot adó cselekmény vagy körülmény bekövetkezésének, továbbá a közlésnek, a kézbesítésnek, a hirdetmény vámhatóság honlapján történő közzétételének és levételének a napja.
 
 (3) A postán küldött beadvány és megkeresés előterjesztési ideje a postára adás napja.
 

@@ -12,7 +12,7 @@ d) a hirdetményi kézbesítésen kívül igénybe vehető egyéb közlési mód
 
 (2) A vámjogszabályok eltérő rendelkezése hiányában a hirdetmény tartalmazza
 
-a) a kifüggesztés napját,
+a) a vámhatóság honlapján történő közzététel napját,
 
 b) az eljáró vámszerv megnevezését,
 

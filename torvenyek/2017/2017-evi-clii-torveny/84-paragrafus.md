@@ -118,7 +118,7 @@ c) az (1) bekezdés d) és f) pontja szerinti jogsértés esetén természetes s
 
 terjedő összeget kell megállapítani.
 
-(11) A (10) bekezdés szerinti bírság kiszabásakor a vámhatóság mérlegeli az eset összes körülményét, az ügyfél, illetve eljáró képviselője, alkalmazottja, tagja vagy megbízottja magatartásának súlyát, a jogsértés gyakoriságát a jogsértés megállapításától számított egy évben belül, továbbá azt, hogy az ügyfél, illetve eljáró képviselője, alkalmazottja, tagja vagy megbízottja az adott helyzetben a tőle elvárható körültekintéssel járt-e el.
+(11) A (10) bekezdés szerinti bírság kiszabásakor a vámhatóság mérlegeli az eset összes körülményét, az ügyfél, illetve eljáró képviselője, alkalmazottja, tagja vagy megbízottja magatartásának súlyát, a jogsértés gyakoriságát a kötelezettségszegés vagy mulasztás megállapításához kapcsolódóan biztosított meghallgatáshoz való jog közlésének napjától számított egy évben belül, továbbá azt, hogy az ügyfél, illetve eljáró képviselője, alkalmazottja, tagja vagy megbízottja az adott helyzetben a tőle elvárható körültekintéssel járt-e el.
 
 (12) Ha az (1) bekezdés b) pontjában meghatározott jogsértést a (3) bekezdés e) pontja alapján olyan árura követik el, amely nem uniós áru és egyben jövedéki termék, akkor a vámigazgatási bírság mértéke az árut terhelő vám és egyéb terhek összegének 200%-ával megegyező összeg, de legalább 40 000 forint.
 
