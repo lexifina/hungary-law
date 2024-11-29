@@ -1,0 +1,1 @@
+1. § A nemzetközi szervezeteknél nemzeti szakértőként történő foglalkoztatásról szóló 200/2022. (VI. 7.) Korm. rendelet 7. § (2) bekezdésében az „előírásai” szövegrész helyébe a „11. § (4) bekezdés c) pontja” szöveg lép.
