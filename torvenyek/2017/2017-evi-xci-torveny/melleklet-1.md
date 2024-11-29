@@ -2,13 +2,15 @@
 
 Magyarország a Megállapodás alapján – a Megállapodásban foglalt feltételek teljesülése, így az adott államnak az alkalmazásra vonatkozó szándéka és annak kifejezése esetén – az alábbi államokkal kíván automatikus információcserét folytatni:
 
-1. Andorra
+1. Albánia
 
-1a. Anguilla
+1a. Andorra
 
-1b. Argentína
+1b. Anguilla
 
-1c. Aruba
+1c. Argentína
+
+1d. Aruba
 
 2. Ausztrália
 
@@ -42,11 +44,13 @@ Magyarország a Megállapodás alapján – a Megállapodásban foglalt feltéte
 
 8. Dél-afrikai Köztársaság
 
-8a. Egyesült Arab Emírségek
+8a. Dominikai Köztársaság
 
-8b. Egyesült Királyság
+8b. Egyesült Arab Emírségek
 
-8c. Feröer szigetek
+8c. Egyesült Királyság
+
+8d. Feröer szigetek
 
 9. Gabon
 
@@ -73,6 +77,8 @@ Magyarország a Megállapodás alapján – a Megállapodásban foglalt feltéte
 17. Jersey
 
 17a. Kajmán-szigetek
+
+17b. Kamerun
 
 18. Kanada
 
@@ -101,6 +107,8 @@ Magyarország a Megállapodás alapján – a Megállapodásban foglalt feltéte
 23. Man-sziget
 
 23a. Marokkó
+
+23b. Mauritánia
 
 24. Mauritius
 
