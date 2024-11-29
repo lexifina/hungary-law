@@ -1,0 +1,9 @@
+# 352/2024. (XI. 21.) Korm. rendelet
+
+az egyes veszélyes anyagok elektromos és elektronikus berendezésekben való alkalmazásának korlátozásáról szóló 374/2012. (XII. 18.) Korm. rendelet módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-352-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2024-11-29 | 2024-352-20-22.1 | 352/2024. (XI. 21.) Korm. rendelet |

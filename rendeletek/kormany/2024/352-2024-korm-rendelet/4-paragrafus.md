@@ -1,0 +1,1 @@
+4. § Ez a rendelet a 2011/65/EU európai parlamenti és tanácsi irányelvnek a LED félvezető chipeken közvetlenül elhelyezett hullámhossz-átalakító („downshifting”) kvantumpontokban lévő kadmium mentesítése tekintetében történő módosításáról szóló, 2024. március 13-i (EU) 2024/1416 felhatalmazáson alapuló bizottsági irányelvnek való megfelelést szolgálja.
