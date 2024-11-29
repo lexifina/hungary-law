@@ -6,6 +6,8 @@ a) ha az adózó a külföldi személyben részesedéssel rendelkezik, akkor a k
 
 b) ha a kifizetést az adózó teljesíti és az adózóban részesedéssel rendelkező külföldi személy adójogrendszerében a költség, ráfordítás társasági adóalapból vagy annak megfeleltethető adóalapból történő levonását nem tagadják meg, akkor az adózó nem alkalmazhatja az e törvény szerinti költség, ráfordítás figyelembevételére, adózás előtti eredmény csökkentésére vonatkozó rendelkezéseket, továbbá az adóalapjában nem veheti figyelembe a levonást.
 
+(1a) Az (1) bekezdés szerinti költség, ráfordítás figyelembevétele, adózás előtti eredmény csökkentése elszámolható a figyelembevételt, a csökkentést követő adóévekben az érintett különbséghez kapcsolódóan felmerülő, a 4. § 57. pont g) alpontja szerinti államok társasági adóra vagy annak megfeleltethető adóra vonatkozó adójogszabálya szerint belföldön adóztatható bevétellel szemben.
+
 (2) A 4. § 57. pont a)–f) alpontja szerinti esetekben, ha a kifizetést az adózó teljesíti, akkor az adózó nem alkalmazhatja az e törvény szerinti költség, ráfordítás figyelembevételére, adózás előtti eredmény csökkentésére vonatkozó rendelkezéseket, továbbá az adóalapjában nem veheti figyelembe a levonást.
 
 (3) A 4. § 57. pont a) és e) alpontja szerinti esetekben, ha a kifizetésben az adózó részesül, és a kifizetést teljesítő adójogrendszerében a levonást nem tagadják meg, akkor az adózó adóalapjában a kifizetést figyelembe kell venni.

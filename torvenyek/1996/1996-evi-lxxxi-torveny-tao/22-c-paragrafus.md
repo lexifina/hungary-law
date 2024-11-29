@@ -16,6 +16,8 @@ ae) képzéssel összefüggő feladatokra,
 
 af) az amatőr sportszervezetek versenyeztetéssel összefüggő költségeinek támogatására;
 
+ag) sportcélú ingatlan üzemeltetésének költségeire;
+
 b) a látvány-csapatsport országos sportági szakszövetsége tagjaként működő amatőr sportszervezet – ideértve a sportról szóló törvényben meghatározott szabályok szerint a szakszövetség tagjaként működő sportiskolát is – részére
 
 ba) az utánpótlás-nevelési feladatainak ellátására,
@@ -42,7 +44,7 @@ cc) a sportrendezvények biztonságáról szóló külön jogszabályban meghat�
 
 cd) képzéssel összefüggő feladatokra – azzal, hogy az ilyen jogcímen nyújtott támogatás a 651/2014/EU bizottsági rendelet 31. cikkével összhangban képzési támogatásként nyújtható –,
 
-ce) a személyi jellegű ráfordításaira – azzal, hogy az ilyen jogcímen nyújtott támogatás csekély összegű (de minimis) támogatásként nyújtható –,
+ce) a személyi jellegű ráfordításaira – azzal, hogy az ilyen jogcímen nyújtott támogatás csekély összegű (de minimis) támogatásnak minősül, amely az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 2023. december 13-i (EU) 2023/2831 bizottsági rendelet szabályaival összhangban nyújtható, –,
 
 cf) sportcélú ingatlan üzemeltetésének költségeire – azzal, hogy az ilyen jogcímen nyújtott támogatás a 651/2014/EU bizottsági rendelet 55. cikkével összhangban sportlétesítményhez nyújtott működési támogatásként nyújtható;
 

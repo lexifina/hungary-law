@@ -28,6 +28,8 @@ g) a kizárólag alapkutatáshoz, alkalmazott kutatáshoz vagy kísérleti fejle
 
 h) a közúti személyszállításhoz használt járműveknél.
 
+i) a veszélyes hulladék tárolására igénybe vett földterület, telek esetén.
+
 5/a. Az adózó választhat a mellékletben meghatározott értékcsökkenési leírási kulcsoknál alacsonyabb leírási kulcsokat, azonban az így érvényesített értékcsökkenés nem lehet kevesebb, mint a számvitelről szóló törvény szerint elszámolt terv szerinti értékcsökkenés.
 
 5/b. A számvitelről szóló törvény 3. § (5) bekezdés 1. pontja és 177. § (50) bekezdése szerinti üzleti vagy cégérték után 10 százalék értékcsökkenési leírást érvényesíthet az adózó feltéve, hogy adóbevallásában nyilatkozik arról, hogy az üzleti vagy cégérték kimutatásának, kivezetésének körülményei megfelelnek a rendeltetésszerű joggyakorlás elvének.

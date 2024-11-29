@@ -234,15 +234,15 @@ d) az összevont alapon kezelendő vállalatcsoport esetében a jogügylet alapj
 
 (108) E törvénynek az egyes adótörvények módosításáról szóló 2022. évi XLV. törvénnyel megállapított 7. § (1) bekezdés l) pontját és (31) bekezdését első alkalommal a 2022. január 31-ét követően benyújtott adóbevallás vonatkozásában kell alkalmazni, figyelemmel a (112) bekezdésben foglaltakra.
 
-(109) Az e törvény hatálya alá tartozó, az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 2013. december 18-i 1407/2013/EU bizottsági rendelet szabályaival összhangban igénybe vehető csekély összegű (de minimis) támogatás az adózó erre vonatkozó választása és adóbevallásban benyújtott nyilatkozata szerint a Válságközlemény 2.1. szakaszának szabályaival és a támogatási programot jóváhagyó SA.103089 számú határozatban és az azt módosító európai bizottsági határozatokban foglalt rendelkezésekkel összhangban is igénybe vehető, figyelemmel a (110)–(113) bekezdésekre, valamint a 4. számú mellékletre.
+(109)
 
-(110) A (109) bekezdés szerinti választás első alkalommal a 2022-ben kezdődő adóévről a (109) bekezdés hatálybalépését követően benyújtott adóbevallás vonatkozásában alkalmazható.
+(110)
 
-(111) A (110) bekezdéstől eltérően e törvény 7. § (1) bekezdés l) pontja tekintetében a (109) bekezdést első alkalommal a 2022. január 31-ét követően benyújtott adóbevallás vonatkozásában lehet alkalmazni, figyelemmel a (112) bekezdésben foglaltakra.
+(111)
 
 (112) E bekezdés hatálybalépését megelőzően, de 2022. január 31-ét követően benyújtott adóbevallását illetően az e törvény 7. § (1) bekezdés l) pontja tekintetében az adózónak önellenőrzést kell benyújtania.
 
-(113) A (109) bekezdés szerinti adózói választás és nyilatkozat utoljára a Válságközlemény alkalmazhatóságának határidejéig benyújtott adóbevallásban tehető meg.
+(113)
 
 (114) A 29/A. § (6) bekezdése hatálya alá tartozó, a 7. § (1) bekezdés ny) pontja szerinti csökkentő tételt, illetve a 8. § (1) bekezdés j) pontja szerinti növelő tételt alkalmazó adózó a 2014-ben kezdődő adóév utolsó napjáig keletkezett, és az adóalapnál még nem érvényesített elhatárolt veszteségét legfeljebb a felhasználása (az adózás előtti eredmény csökkentéseként történő elszámolása) nélkül számított adóévi adóalapnak a 7. § (1) bekezdés ny) pontja szerinti csökkentő tétellel növelt és a 8. § (1) bekezdés j) pontja szerinti növelő tétellel csökkentett összegének 50 százalékáig számolhatja el az adózás előtti eredmény csökkentéseként. E rendelkezés az adózó választása szerint első alkalommal a 2021. december 31-ét követően kezdődő adóévre alkalmazható.
 
@@ -252,7 +252,7 @@ d) az összevont alapon kezelendő vállalatcsoport esetében a jogügylet alapj
 
 (117) E törvénynek a légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel megállapított 4. § 18/b. pontját a hatálybalépését követően értékesített, kivezetett részesedésre kell alkalmazni.
 
-(118) A globális minimum-adószintet biztosító kiegészítő adókról és ezzel összefüggésben egyes adótörvények módosításáról szóló 2023. évi LXXXIV. törvénnyel megállapított 22/G. § szerinti adókedvezmény az adózó választása szerint első alkalommal a 2024. adóévi elszámolható költségre alkalmazható.
+(118) A globális minimum-adószintet biztosító kiegészítő adókról és ezzel összefüggésben egyes adótörvények módosításáról szóló 2023. évi LXXXIV. törvénnyel megállapított 22/G. § szerinti adókedvezmény az adózó választása szerint első alkalommal a 2024. január 1-jén vagy azt követően megkezdett kutatás-fejlesztési projekt elszámolható költségére alkalmazható.
 
 (119) Az adózó a 2023. december 31. napját megelőző napon bejelentett részesedésnek nem minősülő részesedését a 2023. adóévre vonatkozó éves társasági adóbevallás benyújtására nyitva álló határidő utolsó napjáig utólag bejelentheti az állami adó- és vámhatóságnak feltéve, hogy a részesedés a bejelentéskor megfelel a 4. § 5. pontjában foglalt rendelkezésnek. A határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye.
 
@@ -263,3 +263,7 @@ d) az összevont alapon kezelendő vállalatcsoport esetében a jogügylet alapj
 (122) A (119) bekezdés szerint bejelentett részesedésekkel kapcsolatos társasági adóalap meghatározása során a későbbiekben úgy kell eljárni figyelemmel a (120) bekezdés alapján már leadózott összegre, mintha a részesedés szerzési (bekerülési) értéke a részesedés független felek által alkalmazandó 2023. december 31-én fennálló piaci értéke lenne.
 
 (123) A (119)–(122) bekezdésben foglaltak alátámasztása céljából az adózó külön nyilvántartást vezet.
+
+(124) Az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel megállapított 1. számú melléklet 5. pont i) alpontja szerinti értékcsökkenés az adózó választása szerint első alkalommal a 2024. adóévre alkalmazható.
+
+(125) E törvénynek az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel megállapított 22/C. § (1) bekezdés a) pont ag) alpontját az egyes adótörvények módosításáról szóló 2024. évi LV. törvény hatálybalépésekor folyamatban lévő sportfejlesztési programok megvalósítása során is alkalmazni kell.

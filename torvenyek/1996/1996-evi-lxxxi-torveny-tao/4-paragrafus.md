@@ -20,7 +20,7 @@ d) az adózó által lízing formájában végrehajtandó beruházáshoz, felúj
 
 3. azonos munkakör: a 7/2010. (IV. 23.) KSH közleménnyel kiadott, 2011. január 1-jétől hatályos Foglalkozások Egységes Osztályozási Rendszere (a továbbiakban: FEOR-08) szerint azonosnak minősülő munkakör;
 
-3a. állami támogatás: az Európai Unió működéséről szóló szerződés 107. cikk (1) bekezdése szerinti állami támogatás;
+3a. állami támogatás: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet (a továbbiakban: Atr.) szerinti állami támogatás;
 
 4. árbevétel:
 
@@ -216,7 +216,7 @@ feltéve, hogy az átalakulást valós gazdasági, kereskedelmi okok alapozzák 
 
 23/c. kedvezményezett részesedéscsere: az a jogügylet, amelynek alapján egy társaság (a megszerző társaság) a szavazati jogok többségét biztosító vagy azt tovább növelő részesedést szerez egy másik társaság (a megszerzett társaság) jegyzett tőkéjében annak ellenében, hogy a megszerzett társaság tagja (tagjai), részvényese (részvényesei) a megszerző társaságban részesedést, valamint – szükség esetén – a részesedés névértékének (névérték hiányában arányos könyv szerinti értékének) a 10 százalékát meg nem haladó pénzeszközt szerez, feltéve, hogy a részesedéscserét valós gazdasági, kereskedelmi okok alapozzák meg, azzal, hogy a valós gazdasági, kereskedelmi okok fennállását az adózó köteles bizonyítani, ha a megszerző társaság ellenőrzött külföldi társaságnak minősül;
 
-23/d. kis- és középvállalkozásoknak nyújtott állami támogatásra vonatkozó bizottsági rendeletben foglaltak szerinti támogatás: a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 2014. június 17-i 651/2014/EU bizottsági rendelet 1–14. és 17. cikkei alapján megillető támogatás;
+23/d. kis- és középvállalkozásoknak nyújtott állami támogatásra vonatkozó bizottsági rendeletben foglaltak szerinti támogatás: a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 2014. június 17-i 651/2014/EU bizottsági rendelet 1–14. és 17. cikkei alapján a mikro-, kis- és középvállalkozásokat megillető támogatás;
 
 23/e. kutatás-fejlesztési megállapodás: a tudományos kutatásról, fejlesztésről és innovációról szóló törvény szerinti kutatás-fejlesztési megállapodás;
 
