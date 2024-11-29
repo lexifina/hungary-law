@@ -1,0 +1,1 @@
+26/C. § E törvénynek az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel megállapított 24/B. § (1c) bekezdését a 2024. január 1-ét követően a jogi személynél első alkalommal indított MRP esetében kell alkalmazni.
