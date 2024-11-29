@@ -1,3 +1,1 @@
-130. § Az Art. 114. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A belföldi jogi személynek, a külföldi vállalkozás magyarországi fióktelepének és az általános forgalmi adó fizetésére kötelezett természetes személynek – ideértve az egyéni vállalkozót is – (a továbbiakban együtt: pénzforgalmi számla nyitására kötelezett adózó) legalább egy belföldi pénzforgalmi számlával kell rendelkeznie. Pénzforgalmi számla nyitására kötelezett adózó rendszeres gazdasági tevékenysége körében kizárólag pénzforgalmi számlát nyithat. Az első pénzforgalmi számlát a pénzforgalmi számlanyitásra kötelezett adózó adószámának közlésétől számított tizenöt napon belül kell megnyitni. Az adózó bevallásában, valamint kiutalási kérelmében feltünteti azon pénzforgalmi számla számát, amelyre a költségvetési támogatás kiutalását kéri.”
+### 130. §

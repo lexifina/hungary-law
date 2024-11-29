@@ -1,7 +1,1 @@
-51. § Az Áfa tv. a következő 369. §-sal egészül ki:
-
-„369. § (1) E törvénynek az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel megállapított 142. § (1) bekezdés k) pontját, 142. § (9) bekezdését, valamint a 6/C. számú melléklet 1a. és 2a. pontját – a (2) és (3) bekezdésben meghatározott eltéréssel – azon ügyletek esetében kell először alkalmazni, amelyek teljesítési időpontja 2025. január 1-jére vagy azt követő időpontra esik.
-
-(2) E törvénynek az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel megállapított 142. § (1) bekezdés k) pontja szerinti termékértékesítés esetén továbbra is a 2024. december 31-én hatályos szabályok szerint kell eljárni, ha a teljesítés időpontja 2025. január 1-jére vagy azt követő időpontra esik, de a terméket beszerző adóalanynak a 60. § (1)–(3) bekezdése szerint a fizetendő adót 2025. január 1-jét megelőzően kellene megállapítani.
-
-(3) Amennyiben az e törvénynek az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel megállapított 142. § (1) bekezdés k) pontja szerinti termékértékesítéshez fizetett előleg jóváírásának, kézhezvételének időpontja 2025. január 1. napját megelőző napra esik, az előleg jóváírására, kézhezvételére tekintettel fizetendő adót az ügyletet saját nevében teljesítő adóalany fizeti az 59. § (1) és (2) bekezdésének megfelelően, a terméket beszerző adóalany adófizetési kötelezettsége – a (2) bekezdésben foglaltak figyelembevételével – az adóalapnak az előleg adót nem tartalmazó összegével csökkentett része után keletkezik.”
+### 51. §

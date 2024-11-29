@@ -16,7 +16,7 @@ g) 22/B. § (2a) bekezdésében az „európai uniós versenyjogi értelemben ve
 
 h) 22/C. § (1) bekezdés c) pont ce) alpontjában a „csekély összegű (de minimis) támogatásként nyújtható” szövegrész helyébe a „csekély összegű (de minimis) támogatásnak minősül, amely az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 2023. december 13-i (EU) 2023/2831 bizottsági rendelet szabályaival összhangban nyújtható,” szöveg,
 
-i) 22/C. § (6a) bekezdésében a „30 napon belül” szövegrész helyébe a „90 napon belül” szöveg,
+i)
 
 j) 29/A. § (118) bekezdésében az „első alkalommal a 2024. adóévi elszámolható költségre” szövegrész helyébe az „első alkalommal a 2024. január 1-jén vagy azt követően megkezdett kutatás-fejlesztési projekt elszámolható költségére” szöveg,
 

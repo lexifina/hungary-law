@@ -1,5 +1,1 @@
-43. § Az Áfa tv. 195/A. §-a a következő (10) és (11) bekezdéssel egészül ki:
-
-„(10) Ha az adóalany a (4) bekezdés szerinti egyedi azonosítószámnak a (4) bekezdés szerinti nyilatkozat alapján történő megállapítását megelőzően e nyilatkozat tartalmi hibájának kijavítására irányuló dokumentumot nyújt be az állami adó- és vámhatósághoz, abban az esetben a nyilatkozatot javító dokumentumra kell a (4) bekezdés szerinti előírásokat alkalmazni, azzal, hogy a (4) bekezdésben hivatkozott határidő az említett dokumentum állami adó- és vámhatósághoz történő beérkezésétől kezdődően számítandó.
-
-(11) Ha az adóalany a (6) bekezdés szerinti módosítást – ideértve különösen a nyilatkozatban megjelölt tagállamok körének változását – azt megelőzően nyújtja be az állami adó- és vámhatósághoz, hogy az a (4) bekezdés szerinti nyilatkozatban megjelölt minden tagállam tekintetében megállapította vagy megerősítette a (4) bekezdés szerinti egyedi azonosítószámot, abban az esetben a (6) bekezdés szerinti módosításra alkalmazandó előírások azzal az eltéréssel alkalmazandóak, hogy a (6) és (7) bekezdésben hivatkozott határidő a (4) bekezdés szerinti nyilatkozat elbírálását követő naptól kezdődik.”
+### 43. §

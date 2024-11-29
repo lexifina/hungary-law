@@ -25,15 +25,3 @@
 (12) E törvény 191. §-a a 2009/917/IB tanácsi határozatnak a személyes adatok védelmére vonatkozó uniós szabályokhoz való hozzáigazítása tekintetében történő módosításáról szóló 2024. március 13-i (EU) 2024/868 európai parlamenti és a tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (13) E törvény 201. §-a vízvédelmi politika terén a közösségi fellépés kereteinek meghatározásáról szóló, 2000. október 23-i 2000/60/EK európai parlamenti és tanácsi irányelv 9. cikkének való megfelelést szolgálja.
-
-|
-
-Dr. Sulyok Tamás s. k.,
-
-köztársasági elnök
-
-|
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
