@@ -2,7 +2,7 @@
 
 ## AZ EURÓPAI UNIÓ JOGÁNAK VALÓ MEGFELELÉS
 
-53. § (1) A 39/F. § szerinti mentesség az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 2013. december 18-i 1407/2013/EU bizottsági rendelet (a továbbiakban: csekély összegű támogatásokról szóló rendelet) szabályaival összhangban vehető igénybe.
+53. § (1) A 39/F. § szerinti mentesség az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 2023. december 13-i (EU) 2023/2831 bizottsági rendelet (a továbbiakban: csekély összegű támogatásokról szóló rendelet) szabályaival összhangban vehető igénybe.
 
 (2) Az 52. § 22. pont i) alpontja szerinti nettó árbevétel csökkentés miatti adócsökkenés az adóalany választása szerint
 

@@ -140,7 +140,7 @@ d) a bizalmi vagyonkezelésbe adott vagyon esetén a kezelt vagyonba tartozó ha
 
 e) 180 napot meghaladó építőipari tevékenység folytatása esetén azon önkormányzat illetékességi területe, ahol a vállalkozó építőipari tevékenységet folytat, azzal, hogy a napok számításánál a tevékenység megkezdésének napjától a felek közti szerződés alapján a megrendelő teljesítéselfogadásának napjáig terjedő időszak valamennyi naptári napja figyelembe veendő;
 
-f) légi személyszállítást végző vállalkozó esetén azon önkormányzat illetékességi területe, ahol olyan, a légiközlekedésről szóló törvény szerinti repülőtér van, ahonnan e vállalkozó járatai indulnak;
+f) légi személyszállítást végző vállalkozó esetén azon önkormányzat illetékességi területe, ahol olyan, a légiközlekedésről szóló törvény szerinti repülőtér van, ahonnan e vállalkozó járatai indulnak, azzal, hogy nem keletkezik e rendelkezés alapján Magyarországon telephelye annak a külföldi vállalkozónak, amelynek illetősége szerinti állama részese a nemzetközi polgári repülésről Chicagóban 1944. december hó 7. napján aláírásra megnyitott Egyezménynek;
 
 g) a munka törvénykönyvéről szóló törvény szerinti munkaerő-kölcsönzést végző vállalkozó esetén annak az önkormányzatnak az illetékességi területe, ahol a vállalkozó által kölcsönzött munkavállalók az adóéven belül összesen legalább 21 000 óra időtartamban munkát végeznek;
 

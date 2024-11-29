@@ -1,15 +1,1 @@
-51/O. § (1) Átmeneti támogatásban az a mikro-, kis- és középvállalkozás részesülhet, amely 2019. december 31-én nem minősült az Atr. 6. § (4a) és (4b) bekezdése alapján nehéz helyzetben levő vállalkozásnak.
-
-(2) Az (1) bekezdéstől eltérően átmeneti támogatás nyújtható azon mikro-, kis- és középvállalkozás számára, amely 2019. december 31-én nehéz helyzetben lévő vállalkozásnak minősült, feltéve, ha a támogatási döntés időpontjában nem áll az Atr. 6. § (4a) bekezdés c) pontja szerinti eljárás hatálya alatt, továbbá esetében az Atr. 6. § (4a) bekezdés d) pontja szerinti körülmény sem áll fenn.
-
-(3) Az átmeneti támogatás támogatástartalma a közlemény 3.1. szakasza alapján nyújtott egyéb támogatásokkal együtt vállalkozásonként – a mikro-, kis- és középvállalkozás a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 4. § 23. pontja szerinti kapcsolt vállalkozásait is figyelembe véve – nem haladhatja meg a 2 300 000 eurónak megfelelő forintösszeget, a (4) és (5) bekezdés szerinti kivétellel.
-
-(4) A mezőgazdasági termékek elsődleges termelésével foglalkozó mikro-, kis- és középvállalkozás esetén az e tevékenységhez nyújtott átmeneti támogatás támogatástartalma a közlemény 3.1. szakasza alapján nyújtott egyéb támogatásokkal együtt vállalkozásonként – a vállalkozás kapcsolt vállalkozásait is figyelembe véve – nem haladhatja meg a 290 000 eurónak megfelelő forintösszeget.
-
-(5) A halászati és akvakultúra-ágazatban tevékenykedő mikro-, kis- és középvállalkozás esetén az e tevékenységhez nyújtott átmeneti támogatás támogatástartalma a közlemény 3.1. szakasza alapján nyújtott egyéb támogatásokkal együtt vállalkozásonként – a vállalkozás kapcsolt vállalkozásait is figyelembe véve – nem haladhatja meg a 345 000 eurónak megfelelő forintösszeget.
-
-(6) Ha az átmeneti támogatás mellett a kedvezményezett az Atr. 2. § 1. pontja szerinti rendeletekben meghatározott csekély összegű támogatásban is részesül vagy részesült, az igénybe veendő vagy igénybe vett csekély összegű támogatás nem csökkenti a támogatás (3)–(5) bekezdés szerinti legmagasabb mértékét.
-
-(7) Ha egy mikro-, kis- és középvállalkozás több ágazatban is tevékenykedik, és ezekre a (3)–(5) bekezdés szerint eltérő maximális összegek vonatkoznak, a vállalkozás az átmeneti támogatásokról olyan elkülönített nyilvántartást vezet, amely biztosítja az érintett tevékenységekre vonatkozó felső határok betartását, és azt, hogy a teljes maximális összeg vállalkozásonként – a mikro-, kis- és középvállalkozás kapcsolt vállalkozásait is figyelembe véve – ne haladja meg a 2 300 000 eurónak megfelelő forintösszeget. Ha egy mikro-, kis- és középvállalkozás a (4) és (5) bekezdés szerinti ágazatokban tevékenykedik, a teljes maximális átmeneti támogatás összege mikro-, kis- és középvállalkozásonként – a mikro-, kis- és középvállalkozás kapcsolt vállalkozásait is figyelembe véve – nem haladhatja meg a 345 000 eurónak megfelelő forintösszeget.
-
-(8) A mikro-, kis- és középvállalkozásnak (kedvezményezettnek) és az adóhatóságnak az átmeneti támogatással kapcsolatos minden iratot a kedvezmény igénybevételét követő tíz évig meg kell őriznie.
+### 51/O. §
