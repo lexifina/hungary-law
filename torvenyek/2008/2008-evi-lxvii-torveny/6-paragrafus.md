@@ -82,7 +82,7 @@ d) a külföldről áruként beszerzett kőolajtermékek beszerzési értékét.
 
 (14) Az adóalany a (3) bekezdés l) pontjának alkalmazása során az elektromos töltőállomás bekerülési értékeként veheti figyelembe a Tao. tv. 4. § 23. pontja szerinti kapcsolt vállalkozása által a Tao. tv. 7. § (1) bekezdés l) pontja szerint nem érvényesített összeget, amennyiben az adóbevallás benyújtásáig rendelkezik az érintett kapcsolt vállalkozása írásos nyilatkozatával, amely szerint a kapcsolt vállalkozás a Tao. tv. 7. § (1) bekezdés l) pontja szerinti kedvezményt nem érvényesíti.
 
-(15) A (3) bekezdés l) pontja szerinti összeg 7. § (1) bekezdés szerinti adókulccsal számított értéke az állami támogatásokra vonatkozó rendelkezések alkalmazásában az adóévben igénybe vett csekély összegű (de minimis) támogatásnak minősül, amely az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 2013. december 18-i 1407/2013/EU bizottsági rendelet szabályaival összhangban nyújtható.
+(15) A (3) bekezdés l) pontja szerinti összeg 7. § (1) bekezdés szerinti adókulccsal számított értéke az állami támogatásokra vonatkozó rendelkezések alkalmazásában az adóévben igénybe vett csekély összegű (de minimis) támogatásnak minősül, amely az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 2023. december 13-i (EU) 2023/2831 bizottsági rendelet szabályaival összhangban nyújtható.
 
 (16) A (3) bekezdés l) pontja szerinti kedvezmény és a Tao. tv. 7. § (1) bekezdés l) pontja szerinti kedvezmény nem érvényesíthető ugyanazon elektromos töltőállomás bekerülési értéke alapján.
 
