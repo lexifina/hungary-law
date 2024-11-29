@@ -77,3 +77,7 @@
 (38) A légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel megállapított 86. § (5) és (6) bekezdés rendelkezéseit a kötelező érvényű vámtarifabesorolásra is alkalmazni kell, azzal az eltéréssel, hogy kötelező érvényű KN-kód besorolás alatt kötelező érvényű vámtarifabesorolást kell érteni, továbbá KN-kód alatt a vizsgált határozatban megállapított vámtarifaszámot is kell érteni.
 
 (39) Az az egyszerűsített adóraktár engedélyes vagy kisüzemi bortermelő, aki a 2022. augusztus 1.–2023. július 31. borpiaci évre vonatkozó 136. § (2) bekezdése vagy 137. § (3) bekezdése szerinti kötelezettségét e rendelkezés hatálybalépésének időpontjáig nem teljesítette, e rendelkezés hatálybalépését követő 30 napon belül teljesíti kötelezettségét.
+
+(40) A 110. § (5) bekezdésétől és a 132/A. §-tól eltérően a 2024. évi közzététel határideje 2024. december 15.
+
+(41) Az állami adó- és vámhatóság az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel kihirdetett 113. § (5) bekezdés és 117. § (1) bekezdés szerinti, 2025. január 1-jétől alkalmazandó adó-visszaigénylések mértékeit 2024. december 15. napját követő 5. munkanapig közzéteszi internetes honlapján.
