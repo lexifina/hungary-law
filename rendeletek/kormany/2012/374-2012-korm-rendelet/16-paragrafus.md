@@ -170,6 +170,8 @@
 
 85.[^88] a 2011/65/EU európai parlamenti és tanácsi irányelvnek az elektromos és elektronikus ablakok és ajtók újrahasznosított kemény polivinil-kloridot tartalmazó műanyag profiljaiban előforduló kadmiumra és ólomra megadott mentesség tekintetében történő módosításáról szóló, 2023. október 25-i (EU) 2024/232 felhatalmazáson alapuló bizottsági irányelvnek
 
+86.[^89] a 2011/65/EU európai parlamenti és tanácsi irányelvnek a LED félvezető chipeken közvetlenül elhelyezett hullámhossz-átalakító („downshifting”) kvantumpontokban lévő kadmium mentesítése tekintetében történő módosításáról szóló, 2024. március 13-i (EU) 2024/1416 felhatalmazáson alapuló bizottsági irányelvnek
+
 való megfelelést szolgálja.
 
 [^30]: A 16. § a 258/2014. (X. 10.) Korm. rendelet 1. §-ával megállapított szöveg.
@@ -231,3 +233,4 @@ való megfelelést szolgálja.
 [^86]: A 16. § 83. pontját a 633/2023. (XII. 23.) Korm. rendelet 1. §-a iktatta be.
 [^87]: A 16. § 84. pontját a 633/2023. (XII. 23.) Korm. rendelet 1. §-a iktatta be.
 [^88]: A 16. § 85. pontját a 222/2024. (VII. 31.) Korm. rendelet 2. §-a iktatta be.
+[^89]: A 16. § 86. pontját a 352/2024. (XI. 21.) Korm. rendelet 1. §-a iktatta be.

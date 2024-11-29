@@ -1,4 +1,4 @@
-## 4X05468M.docx
+## 4X08289M.docx
 
 |  | A | B | C | D |
 
@@ -316,7 +316,7 @@
 
 | 82. | Az alumíniummal ötvözött berillium-oxid hordozókon használt vastag filmpasztában lévő kadmium és kadmium-oxid | nincs korlátozás | mentesség ideje nincs korlátozva |
 
-| 83. | A kijelzővilágítási alkalmazásokban használt hullámhossz-átalakító (“downshifting”) félvezető-nanokristály kvantumpontokban lévő kadmium-szelenid | a kijelzőfelület egy négyzetmilliméterére eső kadmiummennyiség < 0,2 μg | 2019. augusztus 7-ig |
+| 83. | a 7. melléklet szerinti valamennyi termékcsoportban a kijelzővilágítási alkalmazásokban használt hullámhossz-átalakító („downshifting”) félvezető-nanokristály kvantumpontokban lévő kadmium-szelenid | a kijelzőfelület egy négyzetmilliméterére eső kadmiummennyiség < 0,2 μg | 2025. november 21. |
 
 | 84. | A professzionális audioberendezésekben használt analóg optocsatolók fotorezisztoraiban lévő kadmium | nincs korlátozás | 2013. december 31-ig |
 
@@ -335,6 +335,8 @@
 | 86e. | Az elektromos és elektronikus ablakok és ajtók újrahasznosított kemény polivinil-kloridot tartalmazó műanyag profiljaiban előforduló kadmium és ólom. A mentesség a 7. melléklet 11. pontjában szereplő termékcsoportba tartozó eszközökre vonatkozik. 2026. május 28-ától az elektromos és elektronikus ablakokból és ajtókból újrahasznosított kemény PVC kizárólag az 1907/2006/EK európai parlamenti és tanácsi rendelet XVII. melléklete 63. bejegyzés 18. pont a)–d) alpontjában meghatározott kategóriákba tartozó új árucikkek előállításához használható fel. | ólom esetében ≤ 1,5 m/m% | 2028. május 28. |
 
 | kadmium esetében ≤ 0,1 m/m% |
+
+| 86f. | a 7. melléklet szerinti valamennyi termékcsoportban a kijelző- és vetítőalkalmazásokban használt LED félvezető chipeken közvetlenül elhelyezett hullámhossz-átalakító („downshifting”) félvezető-nanokristály kvantumpontokban lévő kadmium | a LED-chipek felületének egy négyzetmilliméterére eső kadmiummennyiség < 5 μg | 2027. december 31. |
 
 | 87. | IV. KRÓMTARTALOMRA VONATKOZÓ MENTESSÉGEK |
 
@@ -360,7 +362,7 @@
 
 | 91. | A nem kizárólag fogyasztói felhasználásra szánt berendezések motorrendszereinek gumialkatrészeiben használt bisz(2-etil-hexil)-ftalát (DEPH) a 7. melléklet 11. pontjában szereplő termékcsoportba tartozó, de a 90. sorban nem említett, gumit tartalmazó alkatrészek esetében, amennyiben a lágyított anyag nem érintkezik emberi nyálkahártyával vagy tartósan emberi bőrrel. (Az emberi bőrrel való tartós érintkezés több mint 10 perc megszakítás nélküli érintkezést vagy napi 30 percet kitevő szakaszos érintkezést jelent.) | a gumi ≤ 10 m% | 2024. július 21-ig |
 
-3. melléklet a 374/2012. (XII. 18.) Korm. rendelethez[^92]
+3. melléklet a 374/2012. (XII. 18.) Korm. rendelethez[^93]
 
 A veszélyes anyagok alkalmazásának korlátozása alóli mentességek az orvostechnikai eszközök és a ellenőrző és vezérlő eszközök vonatkozásában
 
@@ -558,4 +560,4 @@ lejár.
 
 53. Kapilláris reométerek olvadéknyomás-jelátalakítóiban 300 °C feletti hőmérsékleten és 1000 bar feletti nyomáson lévő higany. A mentesség a 9. termékcsoportra vonatkozik. A mentesség 2025. december 31-én lejár.
 
-[^92]: A 3. melléklet a 258/2014. (X. 10.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 365/2015. (XII. 2.) Korm. rendelet 2. §-a, a 42/2017. (III. 7.) Korm. rendelet 2. §-a, a 307/2016. (X. 13.) Korm. rendelet 3. § (2) bekezdése, a 105/2019. (V. 8.) Korm. rendelet 13. § c) pontja, a 369/2020. (VII. 28.) Korm. rendelet 2. §-a, az 596/2020. (XII. 17.) Korm. rendelet 2. § (2) bekezdése, az 52/2022. (II. 23.) Korm. rendelet 3. §-a, a 43/2023. (II. 20.) Korm. rendelet 2. §-a, a 633/2023. (XII. 23.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^93]: A 3. melléklet a 258/2014. (X. 10.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 365/2015. (XII. 2.) Korm. rendelet 2. §-a, a 42/2017. (III. 7.) Korm. rendelet 2. §-a, a 307/2016. (X. 13.) Korm. rendelet 3. § (2) bekezdése, a 105/2019. (V. 8.) Korm. rendelet 13. § c) pontja, a 369/2020. (VII. 28.) Korm. rendelet 2. §-a, az 596/2020. (XII. 17.) Korm. rendelet 2. § (2) bekezdése, az 52/2022. (II. 23.) Korm. rendelet 3. §-a, a 43/2023. (II. 20.) Korm. rendelet 2. §-a, a 633/2023. (XII. 23.) Korm. rendelet 2. §-a szerint módosított szöveg.
