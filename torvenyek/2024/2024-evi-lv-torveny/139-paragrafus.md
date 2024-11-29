@@ -1,0 +1,3 @@
+139. § Az Art. 269. § (13) bekezdése helyébe a következő rendelkezés lép:
+
+„(13) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy rendeletben állapítsa meg az e-pénztárgép használatára kötelezettek körével, az e-pénztárgép forgalmazásával, szervizelésével, engedélyezésével, üzemeltetésével, felügyeletével és ellenőrzésével összefüggő szabályokat, valamint az e-pénztárgép és a vevői alkalmazás forgalmazási engedélyének kiadásáért, módosításáért, kiterjesztéséért fizetendő igazgatási szolgáltatási díj mértékével, valamint a díj beszedésével, kezelésével, nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat.”

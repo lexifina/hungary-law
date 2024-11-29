@@ -1,0 +1,5 @@
+172. § Az Szt. 158/A. §-a a következő (3) és (4) bekezdéssel egészül ki:
+
+„(3) Amennyiben a vállalkozó fenntarthatósági jelentés vagy összevont (konszolidált) fenntarthatósági jelentés készítésére kötelezett, vagy azt önkéntes alapon készíti, akkor a vállalkozó legfőbb szerve az üzleti évről készített fenntarthatósági jelentésre vonatkozó (1) bekezdésben szereplő kötelezettségek teljesítéséhez köteles fenntarthatósági minősítéssel rendelkező kamarai tag könyvvizsgálót, könyvvizsgáló céget választani legkésőbb az előző üzleti év éves beszámolójának, összevont (konszolidált) éves beszámolójának legfőbb szerv általi elfogadásakor.
+
+(4) Amennyiben a fenntarthatósági jelentésre vagy az összevont (konszolidált) fenntarthatósági jelentésre vonatkozó bizonyosság nyújtására könyvvizsgáló cég kerül megválasztásra, azzal egyidejűleg a fenntarthatósági jelentésre vagy az összevont (konszolidált) fenntarthatósági jelentésre vonatkozó bizonyosság nyújtására a személyében felelős kamarai tag könyvvizsgálót is ki kell jelölni.”

@@ -1,0 +1,3 @@
+45. § Az Áfa tv. 195/H. §-a a következő (3) bekezdéssel egészül ki:
+
+„(3) Az az adóalany, amely élt a 195/G. § (1) bekezdése szerinti választási joggal, nem jogosult az ezen választással érintett alanyi adómentesség időszakában keletkezett előzetesen felszámított adó levonására, ha az előzetesen felszámított adó alapjául szolgáló, beszerzett terméket, igénybe vett szolgáltatást olyan termékértékesítése, szolgáltatásnyújtása érdekében használja, egyéb módon hasznosítja, amelynek teljesítési helye a Közösség olyan, másik tagállama, amelyben az adóalany nem választott a Héa-irányelv 284. cikkének megfelelő adómentességet.”

@@ -1,0 +1,3 @@
+180. § A Kkt. 67/A. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A közérdeklődésre számot tartó gazdálkodónál jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet (ideértve a fenntarthatósági jelentésre vonatkozó bizonyosság nyújtására irányuló tevékenységet is) ellátó kamarai tag könyvvizsgáló vagy a könyvvizsgáló cég évente december 31-ig tájékoztatja a közfelügyeleti hatóságot a december 31-én hatályban lévő, közérdeklődésre számot tartó gazdálkodóval kötött jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységre (ideértve a fenntarthatósági jelentésre vonatkozó bizonyosság nyújtására irányuló tevékenységet is) vonatkozó megbízásairól.”
