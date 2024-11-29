@@ -1,6 +1,6 @@
 ## 13. Az adóalanyiság keletkezése és megszűnése
 
-19. § (1) A kisvállalati adó szerinti adóalanyiság a választás állami adó- és vámhatósághoz történő bejelentését követő hónap első napjával jön létre. A bejelentést az erre a célra rendszeresített nyomtatványon, elektronikus úton lehet megtenni. A kisvállalati adóalanyiság keletkezése napjával önálló üzleti év kezdődik. Az üzleti év kezdetét megelőző nappal mint mérlegfordulónappal üzleti év zárul, mely üzleti évről az adóalanynak az Szt. általános szabályai szerint beszámolót kell készítenie, és az elkészített beszámolót letétbe kell helyeznie, közzé kell tennie.
+19. § (1) A kisvállalati adó szerinti adóalanyiság – a (8a) bekezdésben foglaltak kivételével – a választás állami adó- és vámhatósághoz történő bejelentését követő hónap első napjával jön létre. A bejelentést az erre a célra rendszeresített nyomtatványon, elektronikus úton lehet megtenni. A kisvállalati adóalanyiság keletkezése napjával önálló üzleti év kezdődik. Az üzleti év kezdetét megelőző nappal mint mérlegfordulónappal üzleti év zárul, mely üzleti évről az adóalanynak az Szt. általános szabályai szerint beszámolót kell készítenie, és az elkészített beszámolót letétbe kell helyeznie, közzé kell tennie.
 
 (2) A kisvállalati adó szerinti adóalanyiság – a (4) bekezdésben foglaltak kivételével – azon adóév utolsó napjáig áll fenn, amely adóévben az adóalany az erre a célra rendszeresített nyomtatványon, elektronikus úton bejelenti az állami adó- és vámhatósághoz, hogy adókötelezettségeit nem e törvény szabályai szerint teljesíti. A bejelentést legkorábban az adóév december 1-jétől, legkésőbb az adóév december 20-áig lehet megtenni. A határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye.
 
@@ -16,7 +16,7 @@ b) a végelszámolás, a felszámolás, a kényszertörlési eljárás kezdő id
 
 c) ha az adóalany végelszámolási vagy felszámolási eljárás nélkül szűnik meg, a megszűnés napjával;
 
-d) az adóalany egyesülését, szétválását megelőző nappal;
+d) a (8a) bekezdésben foglaltak kivételével az adóalany egyesülése, szétválása napját megelőző nappal;
 
 e) az állami adó- és vámhatóság határozata véglegessé válásának napját megelőző hónap utolsó napjával, ha az adóalany terhére az állami adó- és vámhatóság számla- vagy nyugtakibocsátási kötelezettség elmulasztásáért, be nem jelentett alkalmazott foglalkoztatásáért vagy igazolatlan eredetű áru forgalmazásáért véglegessé vált döntéssel mulasztási bírságot, jövedéki bírságot állapított meg;
 
@@ -44,6 +44,6 @@ n) ha a zártkörűen működő részvénytársaság működési formája nyilv�
 
 (8) Az adóalanyiság megszűnésétől számított 24 hónapban – figyelemmel a (8a) bekezdésben foglaltakra – az adóalanyiság ismételten nem választható.
 
-(8a) Amennyiben a Tao. tv. szerint kedvezményezett átalakulásnak nem minősülő, könyv szerinti értéken megvalósított egyesülés, szétválás miatt szűnt meg az adóalanyiság, az egyesüléssel, szétválással érintett adózó az egyesülés, szétválás napját követő 15 napon belül az állami adó- és vámhatósághoz megtett bejelentéssel, az adóalanyiság keletkezésére vonatkozó feltételek betartásával ismételten választhatja az adóalanyiságot. Ez esetben az adóalanyiság az egyesülés, szétválás napját követő nappal jön létre.
+(8a) Amennyiben az adóalanyiság könyv szerinti értéken megvalósított egyesülés, szétválás miatt szűnik meg, az egyesüléssel, szétválással érintett adózó az egyesülés, szétválás napját követő 15 napon belül az állami adó- és vámhatósághoz megtett bejelentéssel, az adóalanyiság keletkezésére vonatkozó feltételek betartásával ismételten választhatja az adóalanyiságot. Ez esetben az adóalanyiság az egyesülés, szétválás napján jön létre.
 
 (9) A tevékenységét év közben kezdő vállalkozás bejelentését az állami adó- és vámhatósághoz való bejelentkezéssel egyidejűleg teljesíti. Az (1) bekezdéstől eltérően a tevékenységét év közben kezdő vállalkozás adóalanyisága a létesítő okirata közokiratba foglalásának, ellenjegyzésének napján kezdődik, ha vállalkozási tevékenységét a cégnyilvántartásba történő bejegyzése előtt megkezdheti, az első jognyilatkozat megtételének napján, ha belföldi illetősége az üzletvezetés helyére tekintettel keletkezik, más esetben az állami adó- és vámhatósághoz történő bejelentkezése napjával. Amennyiben a tevékenységét év közben kezdő vállalkozás az állami adó- és vámhatósághoz való bejelentkezését nem elektronikus úton teljesíti, úgy az (1) bekezdés szerinti bejelentését is azonos formában teheti meg.
