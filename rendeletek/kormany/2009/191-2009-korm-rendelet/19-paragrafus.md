@@ -20,11 +20,11 @@ a) az alvállalkozó kivitelezőnek a részére, akinek a teljesítésigazolás 
 
 b) a vállalkozó kivitelezőnek a részére, aki a teljesítésigazolás tartalmát vitatóval szemben ellenszolgáltatásra kötelezett, ha a teljesítésigazolás tartalmát vitató alvállalkozó nem igazolja a harminc napos felfüggesztés időtartama alatt a teljesítésigazoláson túli összeg vonatkozásában a vitarendezési eljárás megindítását vagy a vitatott követelés kiegyenlítése megtörténik, vagy
 
-c) a vállalkozó kivitelezőnek vagy alvállalkozó kivitelezőnek a részére, akinek a javára – a harminc napos felfüggesztés időtartama alatt megindított vitarendezési eljárás esetén – a jogerős döntés, vagy közvetítői eljárás esetén egyezség születik.
+c)[^214] a vállalkozó kivitelezőnek vagy alvállalkozó kivitelezőnek a részére, akinek a javára – a harminc napos felfüggesztés időtartama alatt megindított vitarendezési eljárás esetén – a jogerős döntés, közjegyzői vagy közvetítői eljárás, a Teljesítésigazolási Szakértői Szerv közreműködése esetén egyezség születik.
 
-(5)[^214] Ha a vállalkozó kivitelező benyújtott számlája kifizetéséből azért nem lehet a (2) bekezdés szerinti visszatartást teljesíteni, mert ellene felszámolási eljárás indult, akkor mindannak a vállalkozó kivitelezőnek, akinek a szerződésben vállalt építőipari kivitelezési tevékenysége megvalósításában a felszámolási eljárás alá vont alvállalkozó kivitelező részt vett, nem kell visszatartania a kifizetésből azt a ki nem egyenlített alvállalkozói követelés összegét, amelyet a felszámolási eljárás alá vont alvállalkozó számlájának kifizetéséből sem lehetett a felszámolás miatt visszatartani.
+(5)[^215] Ha a vállalkozó kivitelező benyújtott számlája kifizetéséből azért nem lehet a (2) bekezdés szerinti visszatartást teljesíteni, mert ellene felszámolási eljárás indult, akkor mindannak a vállalkozó kivitelezőnek, akinek a szerződésben vállalt építőipari kivitelezési tevékenysége megvalósításában a felszámolási eljárás alá vont alvállalkozó kivitelező részt vett, nem kell visszatartania a kifizetésből azt a ki nem egyenlített alvállalkozói követelés összegét, amelyet a felszámolási eljárás alá vont alvállalkozó számlájának kifizetéséből sem lehetett a felszámolás miatt visszatartani.
 
-(6)[^215] A vállalkozó kivitelező ellen elrendelt felszámolási eljárás megszakítja a (4) bekezdés szerinti követelés-átszállás folyamatát. A felszámolás alá vont vállalkozó kivitelező építőipari kivitelezési tevékenységében részt vevő minden alvállalkozó kivitelezőnek közvetlenül kell a követelését a felszámolási eljárás alá vont vállalkozó kivitelezővel szemben érvényesítenie.
+(6)[^216] A vállalkozó kivitelező ellen elrendelt felszámolási eljárás megszakítja a (4) bekezdés szerinti követelés-átszállás folyamatát. A felszámolás alá vont vállalkozó kivitelező építőipari kivitelezési tevékenységében részt vevő minden alvállalkozó kivitelezőnek közvetlenül kell a követelését a felszámolási eljárás alá vont vállalkozó kivitelezővel szemben érvényesítenie.
 
 [^206]: A 19. § (1) bekezdése a 286/2024. (IX. 30.) Korm. rendelet 31. §-ával megállapított szöveg.
 [^207]: A 19. § (1a) bekezdését a 182/2010. (V. 14.) Korm. rendelet 5. § (17) bekezdése iktatta be, szövege a 286/2024. (IX. 30.) Korm. rendelet 31. §-ával megállapított szöveg.
@@ -34,5 +34,6 @@ c) a vállalkozó kivitelezőnek vagy alvállalkozó kivitelezőnek a részére,
 [^211]: A 19. § (2) bekezdés b) pontja a 182/2010. (V. 14.) Korm. rendelet 7. § 19. pontja, a 286/2024. (IX. 30.) Korm. rendelet 46. § 52. pontja szerint módosított szöveg.
 [^212]: A 19. § (3) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 92. § k) pont kb) alpontja, a 286/2024. (IX. 30.) Korm. rendelet 46. § 52. pontja szerint módosított szöveg.
 [^213]: A 19. § (4) bekezdése a 182/2010. (V. 14.) Korm. rendelet 5. § (18) bekezdésével megállapított szöveg.
-[^214]: A 19. § (5) bekezdését a 182/2010. (V. 14.) Korm. rendelet 5. § (18) bekezdése iktatta be, szövege a 286/2024. (IX. 30.) Korm. rendelet 46. § 34. pontja szerint módosított szöveg.
-[^215]: A 19. § (6) bekezdését a 182/2010. (V. 14.) Korm. rendelet 5. § (18) bekezdése iktatta be, szövege a 286/2024. (IX. 30.) Korm. rendelet 46. § 34. pontja szerint módosított szöveg.
+[^214]: A 19. § (4) bekezdés c) pontja a 286/2024. (IX. 30.) Korm. rendelet 46. § 53. pontja szerint módosított szöveg.
+[^215]: A 19. § (5) bekezdését a 182/2010. (V. 14.) Korm. rendelet 5. § (18) bekezdése iktatta be, szövege a 286/2024. (IX. 30.) Korm. rendelet 46. § 34. pontja szerint módosított szöveg.
+[^216]: A 19. § (6) bekezdését a 182/2010. (V. 14.) Korm. rendelet 5. § (18) bekezdése iktatta be, szövege a 286/2024. (IX. 30.) Korm. rendelet 46. § 34. pontja szerint módosított szöveg.

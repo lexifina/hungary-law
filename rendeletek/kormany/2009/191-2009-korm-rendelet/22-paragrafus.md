@@ -2,7 +2,7 @@
 
 ## A KIVITELEZÉSI DOKUMENTÁCIÓ
 
-22. §[^238] (1) Kivitelezési dokumentáció alapján végezhető
+22. §[^239] (1) Kivitelezési dokumentáció alapján végezhető
 
 a) az építésügyi hatósági engedélyhez vagy az egyszerű bejelentéshez kötött építési tevékenység,
 
@@ -66,4 +66,4 @@ daru vagy a ca) és cb) alpontban foglaltakon kívüli esetben 60 méternél mag
 
 (6) A kivitelezési dokumentáció tartalma nem térhet el a végleges építésügyi hatósági engedélyhez tartozó záradékolt vagy az egyszerű bejelentés építészeti-műszaki dokumentációban foglaltaktól kivéve, ha maga az eltérés nem építési engedélyhez vagy egyszerű bejelentéshez kötött építési tevékenység.
 
-[^238]: A 22. § a 286/2024. (IX. 30.) Korm. rendelet 33. §-ával megállapított szöveg.
+[^239]: A 22. § a 286/2024. (IX. 30.) Korm. rendelet 33. §-ával megállapított szöveg.

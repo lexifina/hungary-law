@@ -1,4 +1,4 @@
-47. §[^383] E rendelet hatálybalépése előtt tett egyszerű bejelentés alapján épített vagy bővített lakóépület építőipari kivitelezési tevékenysége esetén
+47. §[^378] E rendelet hatálybalépése előtt tett egyszerű bejelentés alapján épített vagy bővített lakóépület építőipari kivitelezési tevékenysége esetén
 
 a) a felelős műszaki vezető feladata az átadás-átvételi eljárásban, a használatbavételi eljárásban való közreműködés és az ehhez szükséges nyilatkozatok megtétele,
 
@@ -14,4 +14,4 @@ f) a fővállalkozó kivitelező a fővállalkozói kivitelezési szerződés te
 
 g) az építmény tulajdonosa vagy az általa megbízott személy az építmény szervizkönyvét az építési napló lezárása után, legkésőbb a használatbavételi eljárásban a döntés meghozatalának napján nyitja meg, több tulajdonos esetén a szervizkönyv tartalmáért a tulajdonostársak egyetemlegesen felelnek.
 
-[^383]: A 47. §-t a 286/2024. (IX. 30.) Korm. rendelet 44. §-a iktatta be.
+[^378]: A 47. §-t a 286/2024. (IX. 30.) Korm. rendelet 44. §-a iktatta be.

@@ -1,4 +1,4 @@
-27. §[^278] (1) Az e-építési napló készenlétének lezárásáig – a naplóvezetésre kötelezetten túl – bejegyzést tehet
+27. §[^279] (1) Az e-építési napló készenlétének lezárásáig – a naplóvezetésre kötelezetten túl – bejegyzést tehet
 
 a) az e-főnaplóba és mellékleteibe az építtető, az építtető megbízottja, a beruházáslebonyolító vagy az építési műszaki ellenőr, az építész tervező, a „rehabilitációs környezettervezés területén gyakorlott” címmel rendelkező szakmagyakorló és a tervezői művezető,
 
@@ -60,4 +60,4 @@ cg) az a) és b) pont szerinti mellékletek tartalmaként fel nem sorolt minden 
 
 d) a naplófa, amely tartalmazza az építési beruházásban részt vevő kivitelezők struktúrájának megjelenítését, a vállalkozó kivitelező megnevezését, az építési munkaterület visszaadásának időpontját.
 
-[^278]: A 27. § a 286/2024. (IX. 30.) Korm. rendelet 38. §-ával megállapított szöveg.
+[^279]: A 27. § a 286/2024. (IX. 30.) Korm. rendelet 38. §-ával megállapított szöveg.

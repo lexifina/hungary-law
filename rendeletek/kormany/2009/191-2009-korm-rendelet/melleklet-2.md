@@ -260,6 +260,6 @@
 
 ## anyagjelölésekkel, konszignációval.
 
-2. melléklet a 191/2009. (IX. 15.) Korm. rendelethez[^385]
+2. melléklet a 191/2009. (IX. 15.) Korm. rendelethez[^380]
 
-[^385]: A 2. mellékletet a 286/2024. (IX. 30.) Korm. rendelet 47. § 31. pontja hatályon kívül helyezte.
+[^380]: A 2. mellékletet a 286/2024. (IX. 30.) Korm. rendelet 47. § 31. pontja hatályon kívül helyezte.

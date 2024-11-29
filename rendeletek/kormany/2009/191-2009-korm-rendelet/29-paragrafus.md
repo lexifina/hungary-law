@@ -1,5 +1,5 @@
-## VI. Fejezet[^282]
+## VI. Fejezet[^283]
 
 29. §
 
-[^282]: A VI. Fejezetet (29–30. §) a 109/2013. (IV. 9.) Korm. rendelet 2. § (21) bekezdés f) pontja hatályon kívül helyezte.
+[^283]: A VI. Fejezetet (29–30. §) a 109/2013. (IV. 9.) Korm. rendelet 2. § (21) bekezdés f) pontja hatályon kívül helyezte.

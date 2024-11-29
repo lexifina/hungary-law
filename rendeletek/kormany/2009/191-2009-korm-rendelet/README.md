@@ -45,3 +45,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-191-20-
 | 2022-01-11 | 2009-191-20-22.41 | 788/2021. (XII. 27.) Korm. rendelet |
 | 2022-06-15 | 2009-191-20-22.42 | 18/2023. (X. 5.) ÉKM rendelet |
 | 2024-10-01 | 2009-191-20-22.43 | 286/2024. (IX. 30.) Korm. rendelet |
+| 2024-11-29 | 2009-191-20-22.44 | 286/2024. (IX. 30.) Korm. rendelet |

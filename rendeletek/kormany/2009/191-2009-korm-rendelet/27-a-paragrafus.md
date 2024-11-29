@@ -1,4 +1,4 @@
-27/A. §[^279] (1) Az e-főnapló és az e-alnapló az alábbiakból áll:
+27/A. §[^280] (1) Az e-főnapló és az e-alnapló az alábbiakból áll:
 
 a) címoldal, amely tartalmazza az építmény megnevezése és címe mellett, az e-főnapló és e-alnapló készenlétbe helyezésének és lezárásának keltét,
 
@@ -112,4 +112,4 @@ gf) a 14. § szerinti nyilatkozatot.
 
 (3) Az e-főnapló és e-alnapló nyilvántartási oldalait a napló megnyitásakor kell kitölteni. A még nem ismert adatokat azok tudomásra jutásakor kell rögzíteni.
 
-[^279]: A 27/A. §-t a 109/2013. (IV. 9.) Korm. rendelet 2. § (9) bekezdése iktatta be, szövege a 286/2024. (IX. 30.) Korm. rendelet 38. §-ával megállapított szöveg.
+[^280]: A 27/A. §-t a 109/2013. (IV. 9.) Korm. rendelet 2. § (9) bekezdése iktatta be, szövege a 286/2024. (IX. 30.) Korm. rendelet 38. §-ával megállapított szöveg.

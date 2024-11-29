@@ -10,6 +10,6 @@ b) a felmérési napló a kivitelezési dokumentáció idom- és méretjegyzék�
 
 c) a felmérési adatokat a szintezési jegyzőkönyv, a keresztszelvényrajzok és a tömegszámítások tartalmazzák.
 
-(3)[^281]
+(3)[^282]
 
-[^281]: A 28. § (3) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 82. §-a iktatta be, a 286/2024. (IX. 30.) Korm. rendelet 47. § 22. pontja hatályon kívül helyezte.
+[^282]: A 28. § (3) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 82. §-a iktatta be, a 286/2024. (IX. 30.) Korm. rendelet 47. § 22. pontja hatályon kívül helyezte.
