@@ -16,6 +16,6 @@
 
 (6) A 54. § (3) bekezdése 2024. január 19-én lép hatályba.
 
-(7) A 51. § és a 53. § 6. pontja 2025. január 1-jén lép hatályba.
+(7)
 
 (8) A 53. § 1–5. és 7–9. pontja 2027. január 1-jén lép hatályba.
