@@ -34,7 +34,7 @@ i) a kincstárban vezetett, európai uniós támogatásokkal és elszámolásokk
 
 j) a kincstár által az Áht. 79. § (2) bekezdés f) pontja alá tartozó kincstári körön kívüli számlatulajdonos számlái terhére végrehajtott, a hallgatói hitel folyósításához kapcsolódó fizetési művelet,
 
-k) az egységes adatbeviteli megoldás útján benyújtott vagy fizetési kérelemmel kezdeményezett azonnali átutalási megbízás, amennyiben a fizető fél számlatulajdonos természetes személy (az egyéni vállalkozói minőségében fizető természetes személy kivételével),
+k) az egységes adatbeviteli megoldás útján benyújtott vagy fizetési kérelemmel kezdeményezett azonnali átutalási megbízás, ha a fizető fél számlatulajdonos természetes személy (az egyéni vállalkozói minőségében fizető természetes személy kivételével),
 
 l) a földgázellátásról szóló törvény hatálya alá tartozó szervezett földgázpiacon és napi földgáz- és kapacitás kereskedelmi piacon, valamint a villamos energiáról szóló törvény hatálya alá tartozó szervezett villamosenergia-piacon megkötött ügyletek pénzügyi elszámolása során végrehajtott fizetési művelet,
 

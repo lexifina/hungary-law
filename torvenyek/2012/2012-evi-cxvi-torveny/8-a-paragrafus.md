@@ -4,7 +4,7 @@
 
 (2) Az e § szerinti tranzakciós illeték alapja a pénzügyi eszköz ügyfélszámlán (értékpapírszámlán) jóváírt értéke (vételára), azzal hogy amennyiben ezen érték külföldi pénznemben denominált, akkor a Magyar Nemzeti Bank által közzétett, a teljesítési napon érvényes hivatalos devizaárfolyamon kell forintra átszámítani.
 
-(3) Az e § szerinti tranzakciós illeték mértéke az illeték alapjának 0,3 százaléka, de vételenként legfeljebb 10 ezer forint.
+(3) Az e § szerinti tranzakciós illeték mértéke az illeték alapjának 0,45 százaléka, de vételenként legfeljebb 20 ezer forint.
 
 (4) Az e § szerinti tranzakciós illetékfizetési kötelezettség a pénzügyi eszköz vétele teljesítésének napján keletkezik.
 

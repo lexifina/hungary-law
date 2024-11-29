@@ -6,7 +6,7 @@ a) a b)–j) pont szerinti kivétellel az az összeg, amellyel a pénzforgalmi s
 
 b) készpénzátutalás esetén az átutalási megbízásban szereplő pénzösszeg,
 
-c) a Posta Elszámoló Központot működtető intézmény útján kezdeményezett készpénzbefizetés esetén a Posta Elszámoló Központot működtető intézménynél kezdeményezett befizetés 20 ezer forintot meghaladó összege,
+c) a Posta Elszámoló Központot működtető intézmény útján kezdeményezett készpénzbefizetés esetén a Posta Elszámoló Központot működtető intézménynél kezdeményezett befizetés 50 ezer forintot meghaladó összege,
 
 d) kölcsöntörlesztés esetén az az összeg, amellyel a pénzforgalmi szolgáltató az ügyfél fizetési számláját megterheli, illetve amelyet az ügyfél a pénzforgalmi szolgáltatónak nem minősülő, hitelt és pénzkölcsönt nyújtó pénzügyi intézménynek készpénzben megfizet,
 
@@ -18,7 +18,7 @@ g) jutalék- és díjbevételek esetén az az összeg, amellyel a pénzforgalmi 
 
 h) a fizető fél által a kedvezményezett útján kezdeményezett fizetés esetén a fizető fél ugyanazon készpénz-helyettesítő fizetési eszközzel lebonyolított előző naptári évi fizetési műveletei,
 
-i) magánszemély fizetési számlájáról (kivéve a magánszemély egyéni vállalkozói számlájáról) történő átutalás esetén átutalásonként a 20 ezer forintot meghaladó összeg.
+i) magánszemély fizetési számlájáról (kivéve a magánszemély egyéni vállalkozói számlájáról) történő átutalás esetén átutalásonként a 50 ezer forintot meghaladó összeg.
 
 (2) Külföldi pénznemre szóló fizetési megbízás, kölcsöntörlesztés, jutalék és díjbevétel felszámítás és pénzváltási tevékenység esetén az (1) bekezdés szerinti összeget a teljesítési napon érvényes, az MNB által közzétett hivatalos devizaárfolyamon kell forintra átszámítani.
 
