@@ -26,6 +26,9 @@ h) visszaváltási díjas termék: a kötelezően visszaváltási díjas termék
 
 (2) Az e rendeletben nem meghatározott fogalmakat a hulladékról szóló 2012. évi CLXXXV. törvényben (a továbbiakban: Ht.), a kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló kormányrendeletben és a csomagolásról és a csomagolási hulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről szóló kormányrendeletben meghatározottak szerint kell alkalmazni.
 
+(3)[^4] A visszaváltási díjas, körforgásos termék esetében a kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló kormányrendeletben meghatározott szabályokat – az e rendeletben meghatározott eltérésekkel – kell megfelelően alkalmazni.
+
 [^1]: A 2. § (1) bekezdés a) pontja a 674/2023. (XII. 29.) Korm. rendelet 26. §-ával megállapított szöveg.
 [^2]: A 2. § (1) bekezdés e) pontja a 674/2023. (XII. 29.) Korm. rendelet 35. § a) pontja szerint módosított szöveg.
 [^3]: A 2. § (1) bekezdés g) pontja a 674/2023. (XII. 29.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^4]: A 2. § (3) bekezdését a 368/2024. (XI. 28.) Korm. rendelet 1. §-a iktatta be.

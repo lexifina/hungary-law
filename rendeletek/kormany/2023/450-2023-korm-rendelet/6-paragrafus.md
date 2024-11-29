@@ -10,7 +10,7 @@
 
 (5) Ha az (1) bekezdés szerinti regisztráció során a koncessziós társaság megállapítja, hogy a termék speciális jellemzői miatt automata visszaváltó berendezéssel nem visszaváltható, akkor arra e rendelet kötelezően visszaváltási díjas termékekre vonatkozó szabályai e §-ban foglaltak kivételével nem alkalmazandók.
 
-(6)[^4] Azon kötelezően visszaváltási díjas termék esetében, amelynél
+(6)[^5] Azon kötelezően visszaváltási díjas termék esetében, amelynél
 
 a) az üres vagy kiürült palack regisztrációs célú beszerzése nem vezetett eredményre,
 
@@ -20,7 +20,7 @@ c) a végső fogyasztói csomagolással ellátott italtermék számvitelről sz�
 
 az e rendelet kötelezően visszaváltási díjas termékre vonatkozó szabályai nem alkalmazandók.
 
-(7)[^5] A (6) bekezdésben foglalt feltételek fennállásáról a gyártó a kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló 80/2023. (III. 14.) Korm. rendelet 27. §-a szerinti adatszolgáltatási kötelezettségének teljesítésével egyidejűleg nyilatkozik.
+(7)[^6] A (6) bekezdésben foglalt feltételek fennállásáról a gyártó a kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló 80/2023. (III. 14.) Korm. rendelet 27. §-a szerinti adatszolgáltatási kötelezettségének teljesítésével egyidejűleg nyilatkozik.
 
-[^4]: A 6. § (6) bekezdését a 674/2023. (XII. 29.) Korm. rendelet 28. §-a iktatta be, szövege a 124/2024. (VI. 14.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^5]: A 6. § (7) bekezdését a 124/2024. (VI. 14.) Korm. rendelet 3. §-a iktatta be.
+[^5]: A 6. § (6) bekezdését a 674/2023. (XII. 29.) Korm. rendelet 28. §-a iktatta be, szövege a 124/2024. (VI. 14.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^6]: A 6. § (7) bekezdését a 124/2024. (VI. 14.) Korm. rendelet 3. §-a iktatta be.
