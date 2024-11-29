@@ -18,7 +18,7 @@ a) az a termékértékesítés, szolgáltatásnyújtás, amelyet közvetlenül a
 
 b) a visszatérítendő összeg kisebb, mint a pénzvisszatérítésre jogosító ügylet mennyiségi adatának és az adott vásárlásösztönzési program keretében, bármely adóalap csökkentésre jogosító ügylet vonatkozásában az értékesített termék, nyújtott szolgáltatás legalacsonyabb, adóval növelt egységárának szorzataként adódó összeg.
 
-(4a) A (4) bekezdés szerinti adóalap-csökkentési jog akkor is megilleti az adóalanyt, ha a pénzvisszatérítést úgy biztosítja, hogy azt nem közvetlenül azon adóalany vagy nem adóalany részére teljesíti, aki (amely) részére a pénzvisszatérítésre jogosító termékértékesítést, szolgáltatásnyújtást teljesítették (ezen bekezdés alkalmazásában: végső fogyasztó), feltéve, hogy:
+(4a) A (4) bekezdés szerinti adóalap-csökkentési jog akkor is megilleti az adóalanyt, ha a pénzvisszatérítést – függetlenül attól, hogy azt az adóalany szerződésben vállalt kötelezettség vagy jogszabályi előírás alapján teljesíti – úgy biztosítja, hogy azt nem közvetlenül azon adóalany vagy nem adóalany részére teljesíti, aki (amely) részére a pénzvisszatérítésre jogosító termékértékesítést, szolgáltatásnyújtást teljesítették (ezen bekezdés alkalmazásában: végső fogyasztó), feltéve, hogy:
 
 a) a végső fogyasztó a pénzvisszatérítésre jogosító ügylet tekintetében előzetesen felszámított adó levonására sem részben, sem egészben nem jogosult, és
 

@@ -788,7 +788,7 @@ Házi sertés élelmezési célra alkalmas vágási mellékterméke és belsős�
 
 |
 
-Az épített környezet alakításáról és védelméről szóló törvényben meghatározott rozsdaövezeti akcióterületen található földrészleten létesített többlakásos lakóingatlanban kialakítandó vagy kialakított, 150 négyzetmétert meg nem haladó összes hasznos alapterülettel rendelkező, a 86. § (1) bekezdés j) pont ja), jb) vagy jc) alpontja alá tartozó lakás értékesítése
+Jogszabályban meghatározott rozsdaövezeti akcióterületen található földrészleten létesített többlakásos lakóingatlanban kialakítandó vagy kialakított, 150 négyzetmétert meg nem haladó összes hasznos alapterülettel rendelkező, a 86. § (1) bekezdés j) pont ja), jb) vagy jc) alpontja alá tartozó lakás értékesítése
 
 |
 

@@ -1,0 +1,3 @@
+367. § (1) E törvénynek az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel módosított 77. § (4a) bekezdése azokban az esetekben alkalmazható, amikor a pénzvisszatérítést az adóalany ezen rendelkezések hatálybalépésének napján vagy azt követő időpontban teljesíti.
+
+(2) E törvénynek az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel módosított 77. § (4a) bekezdése ezen rendelkezések hatálybalépésének időpontját megelőzően, de a 2023. december 31-ét követően teljesített pénzvisszatérítések esetében is alkalmazható feltéve, hogy az adóalany a pénzvisszatérítésből fakadó adóalap-csökkentési igényét más módon nem érvényesítette.
