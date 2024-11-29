@@ -1,3 +1,3 @@
-49. §[^147]
+49. §[^142]
 
-[^147]: A 49. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^142]: A 49. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

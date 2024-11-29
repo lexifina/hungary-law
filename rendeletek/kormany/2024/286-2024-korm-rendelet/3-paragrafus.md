@@ -1,3 +1,3 @@
-3. §[^3]
+3. § Az Épbír. 3. § (2) bekezdése a következő c) ponttal egészül ki:
 
-[^3]: A 3. § a 72. § (2) bekezdése alapján 2024. november 29-én lép hatályba.
+(A bírság összege 300 000 forint)

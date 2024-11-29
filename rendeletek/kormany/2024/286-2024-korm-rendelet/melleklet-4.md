@@ -1,3 +1,3 @@
-4. melléklet a 286/2024. (IX. 30.) Korm. rendelethez[^228]
+4. melléklet a 286/2024. (IX. 30.) Korm. rendelethez[^223]
 
-[^228]: A 4. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^223]: A 4. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
