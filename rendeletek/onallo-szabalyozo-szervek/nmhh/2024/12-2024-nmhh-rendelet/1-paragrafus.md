@@ -1,3 +1,3 @@
-1. § A nemzeti frekvenciafelosztásról, valamint a frekvenciasávok felhasználási szabályairól szóló 7/2015. (XI. 13.) NMHH rendelet (a továbbiakban: R.) 13. § (1) bekezdése a következő 45o. ponttal egészül ki:
+1. §[^2]
 
-(Ez a rendelet)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

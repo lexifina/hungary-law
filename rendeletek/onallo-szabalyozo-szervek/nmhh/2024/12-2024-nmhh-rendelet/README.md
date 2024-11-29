@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-12-20-3
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2024-11-28 | 2024-12-20-3H.1 | 12/2024. (XI. 13.) NMHH rendelet |
+| 2024-11-29 | 2024-12-20-3H.2 | 2010. évi CXXX. törvény |
