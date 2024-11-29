@@ -172,7 +172,7 @@ minősül.
 
 E rendelkezés alkalmazásában hivatásos sportszervezetnek minősül a nem látvány-csapatsportágak országos sportági szakszövetsége, országos sportági szövetsége által kiírt versenyrendszerben (bajnokságban) részt vevő (indulási jogot elnyert) sportszervezet – ideértve a sportiskolát és az utánpótlás-nevelés fejlesztését végző alapítványt is – abban az esetben, ha az ilyen sportszervezet hivatásos sportolót alkalmaz.
 
-(17) Ha az (1) bekezdés i) és r) pontjaiban meghatározott vagyonszerző, illetve az (1) bekezdés r) pontjában meghatározott vagyonszerzőnek a sportcélú ingatlan létesítésére e törvény alapján köteles jogutódja a (16) bekezdésben meghatározott esetben a de minimis támogatás, illetve a sportlétesítményekre és multifunkcionális szabadidős létesítményekre nyújtott támogatás feltételeinek nem felel meg, a mentesség alkalmazásának hiányában járó illeték, illetve a megállapított, de meg nem fizetett illeték megfizetésére a 87. § (4)–(5) bekezdéseit kell megfelelően alkalmazni.
+(17) Ha az (1) bekezdés i) és r) pontjaiban meghatározott vagyonszerző, illetve az (1) bekezdés r) pontjában meghatározott vagyonszerzőnek a sportcélú ingatlan létesítésére e törvény alapján köteles jogutódja a (16) bekezdésben meghatározott esetben az (EU) 2023/2831 bizottsági rendelet szerinti de minimis támogatás, illetve a sportlétesítményekre és multifunkcionális szabadidős létesítményekre nyújtott támogatás feltételeinek nem felel meg, a mentesség alkalmazásának hiányában járó illeték, illetve a megállapított, de meg nem fizetett illeték megfizetésére a 87. § (4)–(5) bekezdéseit kell megfelelően alkalmazni.
 
 (18) Az (1) bekezdés p) pontja szerinti illetékmentesség alkalmazásában
 
