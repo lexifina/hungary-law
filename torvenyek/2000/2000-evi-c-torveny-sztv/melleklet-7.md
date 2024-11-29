@@ -55,15 +55,3 @@ II. Befektetési cash flow
 18. Kapott osztalék, részesedés +
 
 III. Finanszírozási cash flow
-
-(19–26. sorok)
-
-19. Részvénykibocsátás, tőkebevonás (tőkeemelés) bevétele +
-
-20. Kötvény és hitelviszonyt megtestesítő értékpapír kibocsátásának bevétele +
-
-21. Hitel és kölcsön felvétele +
-
-22. Véglegesen kapott pénzeszköz +
-
-23. Részvénybevonás, tőkekivonás (tőkeleszállítás) –

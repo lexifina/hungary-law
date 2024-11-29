@@ -38,7 +38,7 @@ f) a közérdeklődésre számot tartó gazdálkodó.
 
 (7) A (6) bekezdés szerinti könyvvizsgálatra a Magyar Könyvvizsgálói Kamara tagja vagy a Magyar Könyvvizsgálói Kamaránál nyilvántartásba bejegyzett könyvvizsgáló cég választható.
 
-(7a) Semmis a vállalkozóra vonatkozó olyan szerződéses rendelkezés vagy egyéb jognyilatkozat, amely a könyvvizsgálati kötelezettség körébe eső tevékenységre történő kijelölés tekintetében a legfőbb szervet meghatározott könyvvizsgáló, könyvvizsgáló cég vagy könyvvizsgáló cégcsoport választására kötelezi.
+(7a) Semmis a vállalkozóra vonatkozó olyan szerződéses rendelkezés vagy egyéb jognyilatkozat, amely a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységre, adott esetben a fenntarthatósági jelentésre vonatkozó bizonyosság nyújtására irányuló tevékenységre történő megválasztás tekintetében a vállalkozó legfőbb szervét meghatározott könyvvizsgáló, könyvvizsgáló cég vagy könyvvizsgáló cégcsoport választására kötelezi, illetve meghatározott könyvvizsgálók, könyvvizsgáló cégek vagy könyvvizsgáló cégcsoportok bizonyos típusaira vagy csoportjaira korlátozza.
 
 (7b) Amennyiben a (6) bekezdés szerinti könyvvizsgálatra könyvvizsgáló cég kerül megválasztásra, egyidejűleg a könyvvizsgálat végrehajtásáért személyében felelős könyvvizsgálót is ki kell jelölni.
 

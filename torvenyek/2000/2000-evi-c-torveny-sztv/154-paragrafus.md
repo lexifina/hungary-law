@@ -22,6 +22,6 @@
 
 (10) A cégjegyzékbe be nem jegyzett vállalkozó – ha jogszabály a közzétételről, annak módjáról külön rendelkezik – a közzétételről az adott üzleti év mérlegfordulónapját követő ötödik hónap utolsó napjáig köteles gondoskodni.
 
-(11) Ha a vállalkozó nem tett eleget letétbe helyezési, valamint közzétételi kötelezettségének és a letétbe helyezés, a közzététel elmaradása harmadik fél jogos érdekeit érinti, a harmadik fél kezdeményezheti a cégbíróság törvényességi felügyeleti eljárását.
+(11) Ha a vállalkozó nem tett eleget e törvény szerinti bármely letétbe helyezési, valamint közzétételi kötelezettségének (ideértve a könyvvizsgálati kötelezettséget is), harmadik fél kezdeményezheti a cégbíróság törvényességi felügyeleti eljárását.
 
 (12) Az éves beszámoló részét nem képező üzleti jelentés, az összevont (konszolidált) üzleti jelentés megtekintését a vállalkozó, illetve az anyavállalat székhelyén minden érdekelt részére biztosítani kell, továbbá lehetővé kell tenni azt, hogy arról minden érdekelt teljes vagy részleges másolatot készíthessen.

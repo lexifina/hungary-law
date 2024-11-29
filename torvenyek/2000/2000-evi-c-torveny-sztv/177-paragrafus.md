@@ -285,3 +285,5 @@ e törvénynek a Mód2. törvény által megállapított fenntarthatósági jele
 (105) E törvénynek a Mód2. törvény által megállapított 134/K. §-a a 2030. január 7-e előtt végződő üzleti évre alkalmazható.
 
 (106) E törvénynek a Mód2. törvény által megállapított 94/B. §-át először a 2023. évben induló üzleti évre kell alkalmazni.
+
+(107) E törvénynek az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel megállapított 158/A. § (3) és (4) bekezdése a 2024. üzleti évre vonatkozó fenntarthatósági jelentéssel, összevont (konszolidált) fenntarthatósági jelentéssel összefüggésben úgy alkalmazandó, hogy a vállalkozó legfőbb szerve helyett a vállalkozó ügyvezető szerve választja meg a kamarai tag könyvvizsgálót, könyvvizsgáló céget, legkésőbb a mérleg fordulónapjáig.

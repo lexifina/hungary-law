@@ -4,6 +4,6 @@
 
 (3) Az (1) bekezdés szerinti uniós leányvállalat a csoport azon uniós leányvállalatainak egyike, amelyek a legutolsó öt üzleti év legalább egyikében – adott esetben összevont alapon – a legnagyobb forgalmat bonyolították az Unióban.
 
-(4) Az (1) bekezdés szerinti összevont (konszolidált) fenntarthatósági jelentést a 134/J. §-sal összhangban kell közzétenni.
+(4) Az (1) bekezdés szerinti összevont (konszolidált) fenntarthatósági jelentést a 134/J. §-sal összhangban kell közzétenni, legkésőbb azon üzleti év mérlegfordulónapját követő 12 hónapon belül, amelyre vonatkozóan a fenntarthatósági jelentést elkészítették.
 
 (5) A 95/F. § (1)–(3) bekezdése és a 134/I. § (7) bekezdése szerinti mentesség alkalmazásában az (1) bekezdés szerinti összevont (konszolidált) fenntarthatósági jelentést az anyavállalat csoportszintű jelentésének kell tekinteni a konszolidációba bevont vállalkozások tekintetében. A (2) bekezdés szerinti összevont (konszolidált) fenntarthatósági jelentés összeállításával teljesül a 95/F. § (6) bekezdése szerinti feltétel.

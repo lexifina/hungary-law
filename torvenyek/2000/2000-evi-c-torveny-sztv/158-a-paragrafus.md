@@ -19,3 +19,7 @@ e) a fenntarthatósági jelentésre vonatkozó bizonyossági jelentés keltezés
 f) a bizonyosság nyújtásáért személyében felelős könyvvizsgáló nevét, aláírását, kamarai bejegyzési (nyilvántartási) számát;
 
 g) könyvvizsgáló cég esetén – az f) pontban foglaltak mellett – a cég képviseletére jogosult személy nevét, aláírását, a cég megnevezését, székhelyét, kamarai nyilvántartási számát is.
+
+(3) Amennyiben a vállalkozó fenntarthatósági jelentés vagy összevont (konszolidált) fenntarthatósági jelentés készítésére kötelezett, vagy azt önkéntes alapon készíti, akkor a vállalkozó legfőbb szerve az üzleti évről készített fenntarthatósági jelentésre vonatkozó (1) bekezdésben szereplő kötelezettségek teljesítéséhez köteles fenntarthatósági minősítéssel rendelkező kamarai tag könyvvizsgálót, könyvvizsgáló céget választani legkésőbb az előző üzleti év éves beszámolójának, összevont (konszolidált) éves beszámolójának legfőbb szerv általi elfogadásakor.
+
+(4) Amennyiben a fenntarthatósági jelentésre vagy az összevont (konszolidált) fenntarthatósági jelentésre vonatkozó bizonyosság nyújtására könyvvizsgáló cég kerül megválasztásra, azzal egyidejűleg a fenntarthatósági jelentésre vagy az összevont (konszolidált) fenntarthatósági jelentésre vonatkozó bizonyosság nyújtására a személyében felelős kamarai tag könyvvizsgálót is ki kell jelölni.

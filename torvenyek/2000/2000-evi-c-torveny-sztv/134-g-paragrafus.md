@@ -10,9 +10,9 @@
 
 a) a vállalkozás internetes honlapján, amennyiben a 134/E. § (1) és (3) bekezdése alkalmazandó;
 
-b) a leányvállalat internetes honlapján, amennyiben a 134/E. § (7) bekezdése alkalmazandó;
+b) a leányvállalat vagy kapcsolt vállalkozás internetes honlapján, amennyiben a 134/E. § (7) bekezdése alkalmazandó;
 
-c) a fióktelep internetes honlapján, amennyiben a 134/E. § (10) bekezdése alkalmazandó.
+c) a fióktelep, a fióktelepet nyitó vállalkozás vagy egy kapcsolt vállalkozás internetes honlapján, amennyiben a 134/E. § (10) bekezdése alkalmazandó.
 
 (3a) A (3) bekezdés szerinti közzététel során a közzétett adatok folyamatos megtekinthetőségét legalább 5 egymást követő évig kell biztosítani.
 
