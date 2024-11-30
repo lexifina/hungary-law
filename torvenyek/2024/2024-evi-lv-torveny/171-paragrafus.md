@@ -1,3 +1,1 @@
-171. § Az Szt. 155. § (7a) bekezdése helyébe a következő rendelkezés lép:
-
-„(7a) Semmis a vállalkozóra vonatkozó olyan szerződéses rendelkezés vagy egyéb jognyilatkozat, amely a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységre, adott esetben a fenntarthatósági jelentésre vonatkozó bizonyosság nyújtására irányuló tevékenységre történő megválasztás tekintetében a vállalkozó legfőbb szervét meghatározott könyvvizsgáló, könyvvizsgáló cég vagy könyvvizsgáló cégcsoport választására kötelezi, illetve meghatározott könyvvizsgálók, könyvvizsgáló cégek vagy könyvvizsgáló cégcsoportok bizonyos típusaira vagy csoportjaira korlátozza.”
+### 171. §

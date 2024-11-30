@@ -24,12 +24,12 @@ k)
 
 l)
 
-m) 29/A. § (109)–(111) bekezdése,
+m)
 
-n) 29/A. § (113) bekezdése,
+n)
 
-o) 30/H. §-a,
+o)
 
 p)
 
-q) 4. számú melléklete.
+q)

@@ -1,3 +1,1 @@
-31. § A Minimumadó törvény 44. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A belföldi csoporttag – vagy az összes belföldi csoporttag nevében eljáró kijelölt helyi szervezet – az 1. § szerinti kiegészítő adóalanyiságáról bejelentést tesz az állami adó- és vámhatóság részére a kiegészítő adókötelezettséggel érintett adóév kezdő napjától számított 12 hónapon belül az állami adó- és vámhatóság által rendszeresített nyomtatványon, amelyben bemutatja a multinacionális vállalatcsoport, a nagyméretű belföldi vállalatcsoport egyes adatait, valamint feltünteti az (5) bekezdés a) és b) pontja szerinti egyes adatokat.”
+### 31. §

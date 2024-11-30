@@ -1,1 +1,1 @@
-18. § Hatályát veszti az Szja tv. 62. § (1) bekezdés c) pontjában az „ , ideértve az adott ingatlannal kapcsolatban az állammal szemben vállalt kötelezettség alapján igazoltan megfizetett összeget is” szövegrész.
+### 18. §
