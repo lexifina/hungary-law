@@ -1,3 +1,3 @@
-3. § Az Épbír. 3. § (2) bekezdése a következő c) ponttal egészül ki:
+3. §[^3]
 
-(A bírság összege 300 000 forint)
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
