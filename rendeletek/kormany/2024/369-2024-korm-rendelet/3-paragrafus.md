@@ -1,3 +1,3 @@
-3. § Az R. a következő 153. §-sal egészül ki:
+3. §[^4]
 
-„153. § E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 369/2024. (XI. 28.) Korm. rendelettel (a továbbiakban: Módr145.) megállapított 5/Q. § (12)–(26) bekezdését, 12. mellékletét, továbbá módosított 5/Q. § (1)–(3), (6) és (10) bekezdését, valamint 2. mellékletében foglalt táblázat 21. sorát a Módr145. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

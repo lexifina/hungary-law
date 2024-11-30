@@ -1,3 +1,3 @@
-1. § Az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet (a továbbiakban: R.) 5/Q. § (10) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(10) A (7) bekezdés szerinti épület használatbavételi eljárásában az építésügyi hatóság nem vizsgálja az épületek energetikai jellemzőinek a tanúsításáról szóló kormányrendeletben meghatározott energetikai tanúsítvány meglétét és az épületek energetikai jellemzőinek meghatározásáról szóló miniszteri rendelet szerinti energetikai követelményeknek való megfelelést.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
