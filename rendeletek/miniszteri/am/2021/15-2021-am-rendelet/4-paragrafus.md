@@ -1,6 +1,6 @@
 ## 4. A programban történő részvételre vonatkozó előzetes jóváhagyás
 
-4. § (1) A programban az a kérelmező vehet részt, aki vagy amely rendelkezik a mezőgazdasági és vidékfejlesztési támogatási szervnek a programban történő részvételre vonatkozó előzetes jóváhagyásával (a továbbiakban: előzetes jóváhagyás).
+4. § (1)[^10] A programban az a kérelmező vehet részt, aki vagy amely rendelkezik a Kincstárnak a programban történő részvételre vonatkozó előzetes jóváhagyásával (a továbbiakban: előzetes jóváhagyás).
 
 (2) Az előzetes jóváhagyás feltétele, hogy a kérelmező
 
@@ -12,7 +12,7 @@ c) – hatályos cégkivonata alapján – tulajdonosai az a) és b) pontban fel
 
 (3) Az előzetes jóváhagyás további feltétele, hogy a kérelmező az előzetes jóváhagyás iránti kérelem benyújtásával egyidejűleg nyilatkozzon arról, hogy vállalja a köznevelési intézményekben tanuló gyermekeknek a program keretében az 1308/2013/EU európai parlamenti és tanácsi rendeletnek a gyümölcsök és zöldségek, a banán és a tej oktatási intézményekben való biztosításához nyújtott uniós támogatás tekintetében történő kiegészítéséről és a 907/2014/EU felhatalmazáson alapuló bizottsági rendelet módosításáról szóló, 2016. november 3-i 2017/40/EU felhatalmazáson alapuló bizottsági rendelet (a továbbiakban: 2017/40/EU felhatalmazáson alapuló bizottsági rendelet) 6. cikkében előírt kötelezettségek teljesítését.
 
-(4) A kérelmezőnek az (5) bekezdésben meghatározott adattartalmú előzetes jóváhagyás iránti kérelmét a Kincstár által erre a célra rendszeresített elektronikus űrlapon, ügyfélkapus azonosítást követően minden év február 1. és február 15. között, a 3. §-ban foglaltak szerint kell benyújtania. Az előzetes jóváhagyás iránti kérelem benyújtására nyitva álló határidő jogvesztő.
+(4)[^11] A kérelmezőnek az (5) bekezdésben meghatározott adattartalmú előzetes jóváhagyás iránti kérelmét a Kincstár által erre a célra rendszeresített elektronikus űrlapon, elektronikus azonosítást követően minden év február 1. és február 15. között, a 3. §-ban foglaltak szerint kell benyújtania. Az előzetes jóváhagyás iránti kérelem benyújtására nyitva álló határidő jogvesztő.
 
 (5) Az előzetes jóváhagyás iránti kérelem az alábbi adatokat és dokumentumokat tartalmazza:
 
@@ -24,22 +24,26 @@ c) a kérelmező (2) bekezdés szerinti típusának megjelölése;
 
 d) a (2) bekezdés c) pontja szerinti kérelmező esetében a vállalkozás tulajdonosainak ügyfél-azonosítója és a (2) bekezdés a) vagy b) pontja szerinti típusának megjelölése és
 
-e) a kérelmező nyilatkozata arról, hogy
+e)[^12] a kérelmező nyilatkozata arról, hogy
 
-ea) a program keretében finanszírozott terméket csak azon köznevelési intézmények tanulói által történő fogyasztás céljára szállítja, amelyek vonatkozásában támogatást igényel,
+ea) a program keretében finanszírozott terméket kizárólag azon köznevelési intézmény tanulói által történő fogyasztásra szállítja, amely vonatkozásában támogatást igényel,
 
-eb) a program keretében a kísérőintézkedésre, valamint a munkafüzetek nyomtatási költségeire megítélt támogatást a program céljainak megfelelően használja fel,
+eb) a kiosztásra kerülő friss termék, valamint a zöldség- és gyümölcslevek előállításához felhasznált alapanyag legalább 50 százalék mennyiségben saját termék,
 
-ec) kijelenti, hogy a köznevelési intézmények vonatkozásában a fenntartóval kötött megállapodások végrehajtásáról – az 5. § (7) bekezdése szerinti – nyilvántartást vezet.
+ec) a jogosulatlanul igénybe vett támogatást visszafizeti, valamint
 
-ed)[^2] visszafizeti az érintett termékmennyiségekre jogosulatlanul kapott támogatást, ha megállapítást nyer, hogy a termékeket nem osztották ki a gyermekeknek, vagy ha azok uniós finanszírozásból nem támogathatók.
+ed) az (EU) 2017/40 felhatalmazáson alapuló bizottsági rendelet 6. cikk (1) bekezdés e)–g) pontjában meghatározott kötelezettségeket teljesíti.
 
 (6) A Kincstár az előzetes jóváhagyás iránti kérelmekről a (9) bekezdésben foglalt közzététel napjáig hoz döntést.
 
-(7) A kérelmező programban történő részvételének a 2018/2019. tanítási év vagy az azt követő tanítási évek valamelyike szerinti előzetes jóváhagyása – külön kérelem benyújtása nélkül – az (1) bekezdés szerinti előzetes jóváhagyásnak tekintendő, feltéve, hogy a kérelmező a (4) bekezdésben meghatározott kérelembenyújtási határidő első napján megfelel a (2) és (3) bekezdésben meghatározott feltételeknek.
+(7)[^13]
 
-(8) A 2021/2022. tanítási év vagy az azt megelőző tanítási évek valamelyike szerinti előzetes jóváhagyás a 2022/2023. és az azt követő tanítási évekre nem vehető figyelembe.
+(8)[^14]
 
 (9) A Kincstár a következő tanítási évre vonatkozóan előzetes jóváhagyással rendelkező kérelmezők cégnevét és székhelyét tartalmazó listáját minden év április 15-éig a honlapján közzéteszi.
 
-[^2]: A 4. § (5) bekezdés e) pont ed) alpontját a 22/2023. (V. 9.) AM rendelet 31. §-a iktatta be.
+[^10]: A 4. § (1) bekezdése az 58/2024. (XI. 27.) AM rendelet 18. § c) pontja szerint módosított szöveg.
+[^11]: A 4. § (4) bekezdése az 58/2024. (XI. 27.) AM rendelet 18. § a) pontja szerint módosított szöveg.
+[^12]: A 4. § (5) bekezdés e) pontja az 58/2024. (XI. 27.) AM rendelet 3. §-ával megállapított szöveg.
+[^13]: A 4. § (7) bekezdését az 58/2024. (XI. 27.) AM rendelet 19. § 3. pontja hatályon kívül helyezte.
+[^14]: A 4. § (8) bekezdését az 58/2024. (XI. 27.) AM rendelet 19. § 3. pontja hatályon kívül helyezte.

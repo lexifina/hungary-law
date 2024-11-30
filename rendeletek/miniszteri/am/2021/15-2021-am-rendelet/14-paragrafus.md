@@ -6,11 +6,11 @@
 
 a) a 2. § (1) bekezdés a), b) és d) pontja szerinti tanulók között a napi adag vagy a heti gyakoriság növelésével a hét egy további fennmaradó napján vagy a teljesítési időszakon belül a termékkel való ellátás időtartamának növelésével vagy
 
-b) a 2. § (1) bekezdés c) pontja szerinti bármely nevelési-oktatási intézmény 7. és 8. évfolyamának tanulói számára
+b)[^50] a 2. § (1) bekezdés c) pontja szerinti bármely köznevelési intézmény 7. és 8. évfolyamának tanulói számára
 
 osztható ki.
 
-(3) A köznevelési intézmény a kiosztással érintett tanulók számáról az osztálynapló létszámadatainak heti összesítésével és a kiosztott termék mennyiségéről az átvett és leselejtezett termékmennyiségek adatainak összesítésével, a tanulók osztályának és évfolyamának feltüntetésével, a Kincstár honlapján közzétett adatlap kitöltésével, hetente nyilvántartást vezet.
+(3)[^51] A programban részt vevő köznevelési intézmény – több feladatellátási hely esetén feladatellátási helyenként – a kiosztott termék mennyiségéről, az átvett és leselejtezett termékmennyiség adatainak összesítésével a Kincstár honlapján közzétett adatlap kitöltésével, hetente nyilvántartást vezet.
 
 (4) A köznevelési intézmény selejtezési jegyzőkönyvet vezet azon termékekről, amelyeknek a köznevelési intézményben történő tárolás alatt lejárt a minőségmegőrzési idejük, illetve érzékszervi észlelés alapján fogyasztásra alkalmatlanná váltak. A selejtezési jegyzőkönyvnek legalább az alábbi adatokat kell tartalmaznia:
 
@@ -27,3 +27,6 @@ e) a jegyzőkönyv készítőjének aláírása és a köznevelési intézmény 
 (5) Ha a termék átvételekor az átvétel helyén az átvételért felelős személy szemrevételezéssel megállapítja, hogy a termék minősége nem felel meg a 12. és 13. §-ban foglaltaknak, akkor a minőségi kifogást jegyzőkönyvben rögzíti, és azt a szállító képviselőjével aláíratja, valamint a jegyzőkönyv másolatát a szállító részére átadja. A szállító együttműködik a köznevelési intézménnyel és fenntartójával vagy annak képviselőjével a minőségi kifogás jegyzőkönyvezése során. A minőségi kifogásról a fenntartó értesíti a Kincstárt, és az értesítéshez mellékeli a jegyzőkönyv másolatát.
 
 (6) A köznevelési intézmény a támogatott termék tanulók részére történő kiosztásáról a közétkeztetéstől eltérő időpontban gondoskodik.
+
+[^50]: A 14. § (2) bekezdés b) pontja az 58/2024. (XI. 27.) AM rendelet 18. § g) pontja szerint módosított szöveg.
+[^51]: A 14. § (3) bekezdése az 58/2024. (XI. 27.) AM rendelet 10. §-ával megállapított szöveg.

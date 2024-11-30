@@ -12,4 +12,8 @@ d) az 1308/2013/EU európai parlamenti és tanácsi rendeletnek a gyümölcsök 
 
 e) a közös agrárpolitika finanszírozásáról, irányításáról és monitoringjáról és a 352/78/EGK, a 165/94/EK, a 2799/98/EK, a 814/2000/EK, az 1290/2005/EK, és a 485/2008/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1306/2013/EU európai parlamenti és tanácsi rendelete
 
+f)[^78] az (EU) 2017/40 felhatalmazáson alapuló rendeletnek a kísérő oktatási intézkedések, valamint a támogatást kérelmezők kiválasztása és jóváhagyása tekintetében történő módosításáról szóló, 2021. december 13-i (EU) 2022/245 felhatalmazáson alapuló bizottsági rendelet
+
 végrehajtásához szükséges rendelkezéseket állapít meg.
+
+[^78]: A 25. § f) pontját az 58/2024. (XI. 27.) AM rendelet 17. §-a iktatta be.

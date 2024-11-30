@@ -1,45 +1,51 @@
-6. § (1)[^3] A fenntartó a kiválasztási eljárásra vonatkozó ajánlattételi felhívást április 15-éig közzéteszi, amelyre a kérelmezők az ajánlataikat április 30-áig nyújthatják be. Az árajánlatokat zárt borítékban, egy eredeti példányban, papír alapon, az ajánlattévő cégszerű aláírásával ellátva, valamint elektronikus adathordozón kell megküldeni a fenntartó részére. A tankerületi központ fenntartó által közzétett ajánlattételi felhívásra nem tehet ajánlatot az, aki vagy amely az ajánlattétellel érintett tanévre már az 5. § (1) bekezdésében a tankerületi központok száma tekintetében meghatározott számú tankerületi központtal megkötött megállapodással rendelkezik.
+6. §[^22] (1) Ha a fenntartó a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) alapján nem kötelezett közbeszerzési eljárás lefolytatására, akkor az e rendeletben előírt pályázati és szerződéskötési eljárás (a továbbiakban: kiválasztási eljárás) lebonyolítását követően köthet megállapodást.
 
-(2) A tankerületi központok által végzett sorrendállítás során nem vehető figyelembe az az ajánlattevő, aki vagy amely az ajánlattal érintett tanév tekintetében már rendelkezik az 5. § (1) bekezdésében a tankerületi központok száma tekintetében meghatározott számú tankerületi központtal megkötött megállapodással.
+(2) Ha a fenntartó a Kbt. alapján közbeszerzési eljárás lefolytatására kötelezett, akkor
 
-(3) Egy járásba tartozó köznevelési intézmények vagy egy köznevelési intézmény vonatkozásában több – megállapodás megkötésére vonatkozó ajánlatot benyújtó – kérelmező esetén a tankerületi központ járásonként, a tankerületi központtól eltérő fenntartó köznevelési intézményenként előnyben részesíti azt a kérelmezőt, aki vagy amely
+a) megállapodást az 5. §-ban előírt feltételek betartása mellett köthet, valamint
 
-a) által szállított termékek vonatkozásában a tankerületi központ által fenntartott köznevelési intézményekben, a tankerületi központtól eltérő fenntartó esetében a köznevelési intézményben kevesebb, a 21. § (9) bekezdése szerinti minőségi kifogás érkezett; ezen szempont esetében az adott tanítási évben az ajánlat benyújtásának időpontját megelőzően a fenntartó által fenntartott köznevelési intézmények részére történt összes szállítás és a 13. §-ban meghatározott feltételeknek a gyümölcs és zöldség ellenőrzéséről szóló 82/2004. (V. 11.) FVM rendeletben meghatározott Zöldség-Gyümölcs Minőségellenőrzési Szolgálat által igazoltan a kiszállításkor meg nem felelő szállítmányok arányát kell figyelembe venni;
+b) a 10. § (1) és (4a) bekezdésében meghatározott határidő kivételével az e rendeletben előírt határidőket nem kell alkalmazni.
 
-b)[^4] tanulónként hetente több, de legfeljebb négy adag, a köznevelési intézmény székhelye szerinti vármegyében termett vagy előállított terméket szállít; ezen szempont esetében a megállapodáskötési ajánlatban szereplő és a megállapodásban elfogadott, az érintett járásba tartozó köznevelési intézmények vagy egy köznevelési intézmény részére felajánlott, a köznevelési intézmény székhelyével azonos vármegyében – Budapest esetében Pest vármegyében vagy Budapesten – termett, friss vagy előállított, feldolgozott termék adagok számát kell figyelembe venni; valamint
+(3) A fenntartó a programban való részvételre évente legkésőbb április 15-éig ajánlattételi felhívást tesz közzé a hivatalos honlapján, amelyre az előzetes jóváhagyással rendelkező kérelmező április 30-áig nyújthat be ajánlatot elektronikus úton. A határidő elmulasztása jogvesztő. A fenntartó az ajánlattételi felhívás honlapján való elérhetőségét a közzétételtől számított 5 évig biztosítja.
 
-c)[^5] a megkötendő megállapodás szerinti szállítások kezdetét megelőző tanítási évben a fenntartó által fenntartott köznevelési intézményben több alkalommal, alkalmanként több, a 2. § (1) bekezdése szerinti tanulót elérő, a tanulók zöldség-gyümölcs fogyasztását ösztönző szemléletformálást elősegítő, mezőgazdasági – uniós és helyi – termékekkel kapcsolatos ismeretek bővítését célzó, a 9. § (4) bekezdése szerinti kísérőintézkedést valósított meg, összhangban az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet ajánlásával.
+(4) Az ajánlattételi felhívás módosítása esetén – a módosítás dátumának feltüntetése mellett – az ajánlattételi felhívás közzétételére vonatkozó (3) bekezdésben meghatározott szabályok alkalmazandóak.
 
-(4) A (3) bekezdés c) pontja szerinti szempont esetében a megállapodás megkötésekor folyamatban lévő tanítási év során megvalósított kísérőintézkedéseknek az alkalmak és az alkalmanként elért tanulók száma szorzatainak összege alapján számított számának és a kérelmező részére a folyamatban lévő tanítási év vonatkozásában jóváhagyott, a fenntartóval kötött megállapodásokban szereplő, a 2. § (1) bekezdése szerinti tanulók összlétszámának arányát kell figyelembe venni. Azon kérelmezők esetében, akik vagy amelyek a folyamatban lévő tanítási év vonatkozásában nem rendelkeznek jóváhagyott megállapodással, a megállapodás megkötésére vonatkozó, a fenntartóhoz benyújtott ajánlatban szereplő kísérőintézkedéseknek az alkalmak és az alkalmanként elért tanulók száma szorzatainak összege alapján számított számának és a fenntartóhoz benyújtott, a megállapodás megkötésére vonatkozó ajánlatban szereplő, a 2. § (1) bekezdése szerinti tanulók összlétszámának arányát kell figyelembe venni. A kísérőintézkedések száma legfeljebb a fenntartóval kötött, jóváhagyott megállapodásokban vagy jóváhagyott megállapodással nem rendelkező kérelmezők esetén a megállapodás megkötésére vonatkozó ajánlatban szereplő tanulók létszámának négyszeresével megegyező mértékig vehető figyelembe.
+(5) A fenntartó az ajánlattételi felhívás közzététele során a várható végső kedvezményezett tanulói létszámot a köznevelési intézmény adott feladatellátási helyén
 
-(5) A programban történő részvételhez szükséges megállapodások megkötésére vonatkozó, a (3) bekezdés szerinti ajánlatot az előzetes jóváhagyással rendelkező kérelmező a fenntartóhoz, a tankerületi központ által fenntartott köznevelési intézmény esetében járásonként, a tankerületi központtól eltérő fenntartó esetében köznevelési intézményenként nyújthatja be a fenntartó által közzétett módon és határidőben, de legkésőbb az (1) bekezdésben megadott határidőig.
+a) az ajánlattételi felhívást követő tanítási év első évfolyamára maximálisan beíratható tanulói létszám és
 
-(6) A fenntartó a (3) bekezdés szerint meghatározott rangsorról az ajánlattevőket május 10-éig értesíti, amelyben felajánlja a rangsor szerint nyertes ajánlattevő részére a megállapodás megkötésének lehetőségét. A rangsor szerint nyertes ajánlattevő május 13-áig valamennyi fenntartótól hozzá beérkezett megállapodás megkötésére irányuló értesítésre a szerződéskötési hajlandóság megjelölésével válaszol. Ha az ajánlattevő az értesítési kötelezettségének határidőre nem tesz eleget, a Kincstár az adott kérelembenyújtással érintett tanévre vonatkozóan valamennyi megállapodása tekintetében jóváhagyott bruttó támogatási összeget 10%-kal csökkenti. Ha a rangsor szerint nyertes ajánlattévő élni kíván a fenntartó értesítésében jelzett megállapodás megkötésének lehetőségével, a (8) bekezdésben foglaltak szerint kell eljárni. Ha a rangsor szerint nyertes ajánlattevő nem kíván élni a fenntartó értesítésében jelzett megállapodás megkötésének lehetőségével, a fenntartó felajánlja a megállapodás megkötésének lehetőségét a rangsor szerint következő ajánlattevőnek. Ha a rangsor szerint soron következő ajánlattevő élni kíván a megállapodás megkötésének lehetőségével, a (8) bekezdésben foglaltak szerint kell eljárni.
+b) az ajánlattételi felhívás közzététele szerinti tanítási évben az 1–5. évfolyamon tanulók – ajánlattételi felhívás kiírásakor fennálló – létszáma
 
-(7) Ha a fenntartó ajánlattételi felhívására április 30-áig nem érkezik ajánlat, vagy a beérkezett ajánlatokra vonatkozóan a rangsorolt ajánlattevők egyikével sem jön létre megállapodás, a fenntartó május 14-éig ismételten közzéteheti az ajánlattételi felhívását. Tankerületi központ fenntartó által megismételt ajánlattételi felhívásra nem tehet ajánlatot az, aki vagy amely az ajánlattétellel érintett tanévre már az 5. § (1) bekezdésében a tankerületi központok száma tekintetében meghatározott számú tankerületi központtal megkötött megállapodással rendelkezik. A megismételt ajánlattételi felhívásra csak az nyújthat be ajánlatot, aki vagy amely a fenntartó első körben közzétett ajánlattételi felhívására nem nyújtott be ajánlatot. A fenntartó a (3) bekezdésben meghatározott sorrendállítás során csak azokat az ajánlattevőket rangsorolhatja, akik vagy amelyek az ismételten közzétett ajánlattételi felhívásra nyújtottak be ajánlatot.
+alapján határozza meg.
 
-(8) A fenntartó a (3) bekezdésben felsorolt szempontok figyelembevételével meghatározott szempontonkénti helyezések átlagát tekintve az első ranghelyre sorolt kérelmezővel legkésőbb május 20-áig, a (7) bekezdés szerinti megismételt ajánlattételi felhívás esetén május 25-éig megköti az 5. § (1) bekezdésében meghatározott megállapodást. A szempontonkénti sorrendállítás során elért helyezések átlaga alapján azonos pontszámot elért kérelmezőkkel a tankerületi központ vagy a tankerületi központtól eltérő fenntartó az érintett tanulók létszámának, az intézmények földrajzi elhelyezkedésének, a mezőgazdasági termékek forgalmazásának, a gyermekek táplálkozási szokásai javításának, a helyi beszerzés, a helyi piacok, a rövid ellátási láncok és a környezeti előnyök, valamint szükség esetén az érintett intézmények véleményének figyelembevételével kialakított, a (3) bekezdés szerinti ajánlatok benyújtását megelőzően közzétett szempontrendszer alapján, az 5. § (3) és (4) bekezdésében foglalt feltételek betartása mellett dönt azon kérelmezők kiválasztásáról, amelyekkel a megállapodást megköti. Az azonos pontszámot elért kérelmezők esetén a 4. § (2) bekezdés a) pontja szerinti kérelmezővel kell a megállapodást megkötni, ha nincs ilyen kérelmező, akkor az érintett járás vagy a köznevelési intézmény vonatkozásában megállapodáskötési ajánlatot benyújtó kérelmezőt kell előnyben részesíteni.
+(6) A fenntartó – a 14. § (1) bekezdésében meghatározott feltételek figyelembevétele mellett – az ajánlattételi felhívásban
 
-(8a)[^6] Ha a fenntartó a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) alapján nem kötelezett közbeszerzési eljárás lefolytatására, akkor az e rendeletben előírt pályázati és szerződéskötési eljárás lebonyolítását követően köti meg a szállítási szerződést.
+a) nyilatkozik a 18. § (1) bekezdésében meghatározott, egy hétre és egy főre számított támogatás összegét meghaladó ajánlat elfogadhatóságáról, és
 
-(8b)[^7] Ha a fenntartó a Kbt. rendelkezéseire figyelemmel közbeszerzési eljárás lefolytatására kötelezett,
+b) legalább a tanulónkénti heti adagszámot meghatározza.
 
-a) a szállítási szerződést az e rendeletben foglalt követelményrendszer figyelembevételével köti meg és nyújtja be, és
+(7) Ajánlatot
 
-b) – a szerződések benyújtására vonatkozóan a 10. § (1) és (4) bekezdése szerinti határidő kivételével – az e rendeletben a pályázati eljárásra és a szerződéskötésre előírt határidőket nem kell alkalmazni.
+a) a tankerületi központ által fenntartott köznevelési intézmény esetében járásonként,
 
-(9) A sorrendállítás során nem részesíthető előnyben annak a kérelmezőnek az ajánlata, aki az ajánlatában
+b) a tankerületi központtól eltérő fenntartó esetében köznevelési intézményenként
 
-a) a 14. § (1) bekezdésében meghatározott, tanulónként hetente kiosztható maximális termékmennyiséget, illetve
+lehet benyújtani.
 
-b) a (4) bekezdés alapján figyelembe vehető kísérőintézkedések számát
+(8) A fenntartó
 
-túllépi.
+a) a tanulók létszámára,
 
-(10) A kérelmezőnek a fenntartóval a kiválasztási eljárás során tett ajánlatában szereplő (3) bekezdés b) pontja szerinti vállalásának megfelelően kell a megállapodást és a több tanévre szóló megállapodásmódosítást megkötnie.
+b) az intézmény földrajzi elhelyezkedésére,
 
-[^3]: A 6. § (1) bekezdése a 22/2023. (V. 9.) AM rendelet 32. § (1) bekezdésével megállapított szöveg.
-[^4]: A 6. § (3) bekezdés b) pontja a 155/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
-[^5]: A 6. § (3) bekezdés c) pontja a 22/2023. (V. 9.) AM rendelet 38. § a) pontja szerint módosított szöveg.
-[^6]: A 6. § (8a) bekezdését a 22/2023. (V. 9.) AM rendelet 32. § (2) bekezdése iktatta be.
-[^7]: A 6. § (8b) bekezdését a 22/2023. (V. 9.) AM rendelet 32. § (2) bekezdése iktatta be.
+c) a programba bevonható mezőgazdasági termékek forgalmazási adataira,
+
+d) a helyi beszerzés, a helyi piacok és a rövid ellátási láncok által felkínált lehetőségekre,
+
+e) a környezeti előnyökre és hátrányokra, valamint
+
+f) szükség esetén az érintett intézmények véleményére
+
+tekintettel értékelési szempontrendszert alakít ki, amelyet az ajánlattételi felhívásban közzétesz.
+
+[^22]: A 6. § az 58/2024. (XI. 27.) AM rendelet 5. §-ával megállapított szöveg.

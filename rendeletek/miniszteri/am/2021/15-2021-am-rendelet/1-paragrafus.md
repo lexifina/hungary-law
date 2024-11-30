@@ -14,7 +14,9 @@
 
 6. köznevelési intézmény: a köznevelési törvény 21. § (1) bekezdésében és 7. § (1) bekezdés b), c) és i) pontjában meghatározott intézmény és annak a köznevelési törvény szerinti tagintézménye, valamint a szakképzési törvény 18. §-ában meghatározott többcélú szakképző intézmény azon évfolyamai, amelyek megfelelnek a köznevelési törvény 7. § b), c) és i) pontjában meghatározott köznevelési intézmény évfolyamainak,
 
-7.[^1] vármegyei kormányhivatal: a mezőgazdasági és vidékfejlesztési támogatásokkal összefüggő területi kezelésű kérelemkezelési, helyszíni ellenőrzési, vármegyei ügyfélszolgálati feladatkörében eljáró vármegyei kormányhivatal,
+7.[^1] megállapodás: az iskolagyümölcs- és iskolazöldség-program keretében a fenntartó és a termelő között az e rendeletben meghatározott termék tanítási évben való rendszeres szállítására létrejött szerződés,
+
+7a.[^2] saját termék: a 4. § (2) bekezdése szerinti kérelmező saját maga, tagja vagy tulajdonosa által termelt vagy előállított termék,
 
 8. tagintézmény: a köznevelési törvény 4. § 28. pontja szerinti intézményegység,
 
@@ -24,10 +26,12 @@
 
 11. társulás: az 1308/2013/EU európai parlamenti és tanácsi rendelet 156. cikke alapján létrejött termelői szervezetek társulása,
 
-12. termelő: a közös agrárpolitika keretébe tartozó támogatási rendszerek alapján a mezőgazdasági termelők részére nyújtott közvetlen kifizetésekre vonatkozó szabályok megállapításáról, valamint a 637/2008/EK és a 73/2009/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1307/2013/EU európai parlamenti és tanácsi rendelet 4. cikk (1) bekezdés a) pontjában meghatározott természetes személy vagy jogi személy, aki vagy amely az 1. melléklet szerinti, az 1308/2013/EU európai parlamenti és tanácsi rendelet I. melléklet IX. részében meghatározott terméket állít elő,
+12.[^3] termelő: a közös agrárpolitika keretében a tagállamok által elkészítendő stratégiai tervhez (KAP stratégiai terv) nyújtott, az Európai Mezőgazdasági Garanciaalap (EMGA) és az Európai Mezőgazdasági Vidékfejlesztési Alap (EMVA) által finanszírozott támogatásra vonatkozó szabályok megállapításáról, valamint az 1305/2013/EU és az 1307/2013/EU rendelet hatályon kívül helyezéséről szóló, 2021. december 2-i (EU) 2021/2115 európai parlamenti és tanácsi rendelet 3. cikk 1. pontjában meghatározott természetes személy vagy jogi személy, aki vagy amely az 1. melléklet szerinti, az 1308/2013/EU európai parlamenti és tanácsi rendelet I. melléklet IX. részében meghatározott terméket állít elő,
 
 13. termelői szervezet: az 1308/2013/EU európai parlamenti és tanácsi rendelet 152. és 154. cikkében meghatározott feltételekkel az 1308/2013/EU európai parlamenti és tanácsi rendelet I. melléklet IX. részében felsorolt termékek tekintetében elismert szervezet,
 
 14. zöldséglé: az 1. mellékletben felsorolt zöldségekből, céklából, illetve sütőtökből készített, csomagolt és jelölt termék.
 
-[^1]: Az 1. § 7. pontja a 155/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^1]: Az 1. § 7. pontja az 58/2024. (XI. 27.) AM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § 7a. pontját az 58/2024. (XI. 27.) AM rendelet 1. § (1) bekezdése iktatta be.
+[^3]: Az 1. § 12. pontja az 58/2024. (XI. 27.) AM rendelet 1. § (2) bekezdésével megállapított szöveg.
