@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-39-20-2
 | 2020-01-01 | 2013-39-20-2T.9 | 17/2019. (XI. 17.) MvM rendelet |
 | 2023-01-01 | 2013-39-20-2T.10 | 21/2022. (XII. 28.) MVM rendelet |
 | 2024-09-13 | 2013-39-20-2T.11 | 9/2024. (IX. 12.) KTM rendelet |
+| 2024-12-01 | 2013-39-20-2T.12 | 13/2024. (XII. 23.) KTM rendelet |
