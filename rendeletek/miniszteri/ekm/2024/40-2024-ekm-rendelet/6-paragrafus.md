@@ -1,0 +1,1 @@
+6. § Ez a rendelet az Európai Parlament és a Tanács 2008/57/EK irányelve alapján elfogadott, az átjárhatósági műszaki előírások keretében alkalmazandó megfelelőségértékelési, alkalmazhatósági és EK-hitelesítési eljárások moduljairól szóló, 2010. november 9-i 2010/713/EU bizottsági határozat végrehajtásához szükséges rendelkezéseket állapít meg.
