@@ -1,6 +1,6 @@
-## 13. [^60] Üzemzavar, üzemszünet, működési hiba
+## 13. [^62] Üzemzavar, üzemszünet, működési hiba
 
-22. §[^61] (1) Üzemszünet minden olyan előre tervezett technikai tevékenység, amely az EKR meghatározott szolgáltatásának vagy szolgáltatásainak az EKR üzemeltetője által közzétett és az elektronikus közbeszerzési rendszer fenntartásával és működtetésével kapcsolatos szabályokról szóló jogszabályban foglaltak szerint dokumentált szünetelését eredményezi.
+22. §[^63] (1) Üzemszünet minden olyan előre tervezett technikai tevékenység, amely az EKR meghatározott szolgáltatásának vagy szolgáltatásainak az EKR üzemeltetője által közzétett és az elektronikus közbeszerzési rendszer fenntartásával és működtetésével kapcsolatos szabályokról szóló jogszabályban foglaltak szerint dokumentált szünetelését eredményezi.
 
 (2) Üzemzavar az EKR üzemeltetője által megállapított és az elektronikus közbeszerzési rendszer fenntartásával és működtetésével kapcsolatos szabályokról szóló jogszabályban foglaltak szerint dokumentált, előre nem tervezett, az EKR korlátozott működőképességét, egy vagy több meghatározott szolgáltatásának szünetelését jelentő helyzet.
 
@@ -28,5 +28,5 @@ nem hárítja el, az ajánlattételi vagy részvételi határidő nem jár le.
 
 (9) Ha a működési hiba az ajánlatok vagy részvételi jelentkezések bontását követően következik be, a működési hibával érintett eljárási cselekmény megismétlésére a 17. §-t kell megfelelően alkalmazni.
 
-[^60]: A 13. alcím címe a 66/2019. (III. 27.) Korm. rendelet 33. §-ával megállapított szöveg.
-[^61]: A 22. § a 411/2023. (VIII. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^62]: A 13. alcím címe a 66/2019. (III. 27.) Korm. rendelet 33. §-ával megállapított szöveg.
+[^63]: A 22. § a 411/2023. (VIII. 30.) Korm. rendelet 4. §-ával megállapított szöveg.

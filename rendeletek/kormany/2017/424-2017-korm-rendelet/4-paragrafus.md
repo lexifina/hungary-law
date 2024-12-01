@@ -18,6 +18,10 @@ f) a beérkezett és megnyitott adatok csak a jogosultak számára maradjanak ho
 
 g) a továbbított adatokhoz hozzáférési jogosultságot csak az arra jogosult személyek, az előírt időpontot követően biztosíthassanak;
 
-h) az e § szerinti követelmények megsértése felderíthető legyen.
+h)[^6] a gazdasági szereplők a közbeszerzési dokumentumokat a gazdasági szereplő személyére vonatkozó adatok ajánlatkérő részére történő továbbítása nélkül is el tudják érni.
+
+i)[^7] az e § szerinti követelmények megsértése felderíthető legyen.
 
 [^5]: A 3. §-t újonnan a 40/2021. (II. 2.) Korm. rendelet 14. §-a iktatta be.
+[^6]: A 4. § h) pontja az 53/2024. (III. 4.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^7]: A 4. § i) pontját az 53/2024. (III. 4.) Korm. rendelet 4. § (2) bekezdése iktatta be.

@@ -1,4 +1,4 @@
-## 8/A. §[^26] A 8. § d) pontja szerinti statisztikai adatszolgáltatás teljesítése érdekében a nyertes ajánlattevők kötelesek legkésőbb a szerződéskötés időpontjában tájékoztatni az ajánlatkérőt a szerződéses ellenszolgáltatásból történő részesedésük tervezett értékéről.
+## 8/A. §[^28] A 8. § d) pontja szerinti statisztikai adatszolgáltatás teljesítése érdekében a nyertes ajánlattevők kötelesek legkésőbb a szerződéskötés időpontjában tájékoztatni az ajánlatkérőt a szerződéses ellenszolgáltatásból történő részesedésük tervezett értékéről.
 
 ## 6. Az eljárások dokumentálása
 
@@ -10,4 +10,4 @@
 
 (4) Az ajánlatkérő – az ellenőrzésre jogosult hozzáférése és az eljárás iratainak az EKR-ben való elektronikus megőrzése érdekében – köteles az eljárás előkészítése körében a Kbt. 28. § (2) és (4) bekezdése alkalmazása során keletkezett iratokat, valamint a részvételi jelentkezések és ajánlatok bírálata és értékelése során keletkezett dokumentumokat vagy azok egyszerű elektronikus másolatát az EKR-be (különösen bírálóbizottsági jegyzőkönyvek, bírálati lapok, értékelés dokumentumai) is feltölteni az adott eljárás dokumentumai közé.
 
-[^26]: A 8/A. §-t a 40/2021. (II. 2.) Korm. rendelet 16. §-a iktatta be.
+[^28]: A 8/A. §-t a 40/2021. (II. 2.) Korm. rendelet 16. §-a iktatta be.
