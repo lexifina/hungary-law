@@ -36,7 +36,7 @@
 
 | 18. | A villamosenergia-iparban előforduló üzemzavarok | V426 | Éves | Az adatokat évente, a tárgyidőszakot követő év január 31-ig kell megadni. |
 
-| 19. | Saját tulajdonú, akkumulátor alapú energia-tárolásra vonatkozó adatok | V427 | Éves | Az adatokat évente, a tárgyidőszakot követő év június 30-ig kell megadni. |
+| 19. | Saját tulajdonú, akkumulátor alapú energia-tárolásra vonatkozó adatok | V427 | Éves | Az adatokat évente, a tárgyidőszakot követő év április 30-ig kell megadni.[^42] |
 
 | 20. | Átviteli hálózat villamosenergia-forgalmi adatai – betáplálási és átadási pontok határmetszékenként | V431 | Napi | Az adatokat naponta, a tárgyidőszakot követő nap 16:00-ig kell megadni. |
 
@@ -44,9 +44,9 @@
 
 | 22. | Villamos energia határon keresztül történő szállításával kapcsolatos adatok | V433 | Havi | Az adatokat havonta, a tárgyidőszakot követő hó 20-ig kell megadni. |
 
-| 23. | Átviteli kapacitás-aukció összesítő (UA) | V434A2 | Napi | Az adatokat naponta, a tárgyidőszakot követő harmadik napig kell megadni. |
+| 23.[^43] |  |  |  |  |
 
-| 24. | Átviteli kapacitás-aukció összesítő – Havi aukció | V434B | Havi | Az adatokat havonta, a tárgyidőszakot követő hónap 15. napjáig kell megadni. |
+| 24.[^44] |  |  |  |  |
 
 | 25. | Folyamatban lévő erőművi projektek | V435 | Negyedéves | Az adatokat negyedévente, a tárgyidőszakot követő második hónap 10. napjáig kell megadni. |
 
@@ -148,16 +148,19 @@
 
 | 74. | Kapacitásár információ a kiegyenlítő szabályozási szolgáltatások tender eredményeiről – LE | V490B | Napi | Az adatokat naponta, a tárgyidőszakot követő második nap 17:00-ig kell megadni. |
 
-| 75.[^27] | Rendszerszintű szolgáltatások – Beadott – utolsó érvényes – energia ajánlati adatok piaci szereplőnként POZITÍV (FEL) irányba | V486E | Napi | Az adatokat a tárgyidőszakot követő 3. nap 17:00-ig kell megadni. |
+| 75.[^45] | Rendszerszintű szolgáltatások – Beadott – utolsó érvényes – energia ajánlati adatok piaci szereplőnként POZITÍV (FEL) irányba | V486E | Napi | Az adatokat a tárgyidőszakot követő 3. nap 17:00-ig kell megadni. |
 
-| 76.[^28] | Rendszerszintű szolgáltatások – Beadott – utolsó érvényes – energia ajánlati adatok piaci szereplőnként NEGATÍV (LE) irányba | V486F | Napi | Az adatokat a tárgyidőszakot követő 3. nap 17:00-ig kell megadni. |
+| 76.[^46] | Rendszerszintű szolgáltatások – Beadott – utolsó érvényes – energia ajánlati adatok piaci szereplőnként NEGATÍV (LE) irányba | V486F | Napi | Az adatokat a tárgyidőszakot követő 3. nap 17:00-ig kell megadni. |
 
-| 77.[^29] | Rendszerszintű szolgáltatások – Beadott RIR ajánlati és indítási adatok piaci szereplőnként pozitív és negatív irányba | V486G | Napi | Az adatokat a tárgyidőszakot követő 3. nap 17:00-ig kell megadni. |
+| 77.[^47] | Rendszerszintű szolgáltatások – Beadott RIR ajánlati és indítási adatok piaci szereplőnként pozitív és negatív irányba | V486G | Napi | Az adatokat a tárgyidőszakot követő 3. nap 17:00-ig kell megadni. |
 
 6. melléklet az 1/2023. (IV. 5.) MEKH rendelethez
 
 I. A villamos energia elosztói engedélyes EIA adatgyűjtő alrendszer útján teljesítendő adatszolgáltatási kötelezettsége
 
-[^27]: Az 5. mellékletben foglalt táblázat 75. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § c) pontja iktatta be.
-[^28]: Az 5. mellékletben foglalt táblázat 76. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § c) pontja iktatta be.
-[^29]: Az 5. mellékletben foglalt táblázat 77. sorát a 2/2024. (III. 12.) MEKH rendelet 4. § (2) bekezdése iktatta be.
+[^42]: Az 5. mellékletben foglalt táblázat D:19 mezője a 11/2024. (XI. 21.) MEKH rendelet 6. § 2. pontja szerint módosított szöveg.
+[^43]: Az 5. mellékletben foglalt táblázat 23. sorát a 11/2024. (XI. 21.) MEKH rendelet 7. § (3) bekezdése hatályon kívül helyezte.
+[^44]: Az 5. mellékletben foglalt táblázat 24. sorát a 11/2024. (XI. 21.) MEKH rendelet 7. § (3) bekezdése hatályon kívül helyezte.
+[^45]: Az 5. mellékletben foglalt táblázat 75. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § c) pontja iktatta be.
+[^46]: Az 5. mellékletben foglalt táblázat 76. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § c) pontja iktatta be.
+[^47]: Az 5. mellékletben foglalt táblázat 77. sorát a 2/2024. (III. 12.) MEKH rendelet 4. § (2) bekezdése iktatta be.

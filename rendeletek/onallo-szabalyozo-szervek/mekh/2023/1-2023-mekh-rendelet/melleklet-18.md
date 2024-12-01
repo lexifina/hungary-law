@@ -24,9 +24,9 @@
 
 | 12. | Határkeresztező gázszállítás földgázvezeték-beruházások adatai | G421 | Éves | Az adatokat évente, a tárgyidőszak június 30-ig kell megadni. |
 
-| 13.[^36] | A gázátadókon október 1. és március 30. közötti időszakban mért legmagasabb napi és órai adatai gázátadónként, illetve az országos legmagasabb fogyasztás | G424 | Éves | Az adatokat évente, a tárgyidőszakot követő év április 15-ig kell megadni. |
+| 13.[^58] | A gázátadókon október 1. és március 30. közötti időszakban mért legmagasabb napi és órai adatai gázátadónként, illetve az országos legmagasabb fogyasztás | G424 | Éves | Az adatokat évente, a tárgyidőszakot követő év április 15-ig kell megadni. |
 
-| 14.[^37] | Az aktuális gázévre lekötött és az azt követő 9 évre előrejelzett, rendszerhasználónként kimutatott szállítóvezetéki kapacitásigény, betáplálási és kiadási pontonként | G425 | Éves | Az adatokat évente, a tárgyidőszakot követő év március 15-ig kell megadni. |
+| 14.[^59] | Az aktuális gázévre lekötött és az azt követő 9 évre előrejelzett, rendszerhasználónként kimutatott szállítóvezetéki kapacitásigény, betáplálási és kiadási pontonként | G425 | Éves | Az adatokat évente, a tárgyidőszakot követő év március 15-ig kell megadni. |
 
 | 15. | Szállítóvezeték 5 éves kapacitás fejlesztési terv | G426 | Éves | Az adatokat évente, a tárgyidőszakot követő év március 31-ig kell megadni. |
 
@@ -42,7 +42,7 @@
 
 | 21. | MA_BALANCING_BY_PARTNER | G460 | Napi | Az adatokat naponta, a gáznapot követő gáznap 15. gázórájáig kell megadni. |
 
-| 22.[^38] | MA_BALANCING_BY_PARTNER_NP | G461 | Napi | Az adatokat naponta, a tárgyhónapot követő hónap 90. napjáig kell megadni. |
+| 22.[^60] | MA_BALANCING_BY_PARTNER_NP | G461 | Napi | Az adatokat naponta, a tárgyhónapot követő hónap 90. napjáig kell megadni. |
 
 | 23. | MA_BALANCING_GAS_PRICE | G462 | Napi | Az adatokat naponta, a gáznapot követő gáznap 15. gázórájáig kell megadni. |
 
@@ -78,10 +78,22 @@
 
 | 39. | MA_OPERATIONAL_BALANCING_ACCOUNT | G483 | Napi | Az adatokat naponta, a gáznapot követő gáznap 15. gázórájáig kell megadni. |
 
+| 40.[^61] | Túljegyzett éves, negyedéves és havi kapacitás aukciók tételes adatai | G463B | Napi | Az adatokat naponta, a gáznapot követő gáznap 15. gázórájáig kell megadni. |
+
+| 41.[^62] | Túljegyzett napi és napon belüli kapacitás aukciók tételes adatai | G463C | Napi | Az adatokat naponta, a gáznapot követő gáznap 15. gázórájáig kell megadni. |
+
+| 42.[^63] | Jogcím átvezetések | G484 | Napi | Az adatokat naponta, a gáznapot követő gáznap 15. gázórájáig kell megadni. |
+
+| 43.[^64] | Felhasználók korlátozási sorrendje | G485 | Havi | Az adatokat minden hónap 5. napjáig kell megadni. |
+
 18. melléklet az 1/2023. (IV. 5.) MEKH rendelethez
 
 I. A földgázelosztói engedélyes adatszolgáltatási kötelezettsége
 
-[^36]: A 17. mellékletben foglalt táblázat 13. sora a 9/2023. (VI. 23.) MEKH rendelet 5. § f) pontjával megállapított szöveg.
-[^37]: A 17. mellékletben foglalt táblázat 14. sora a 9/2023. (VI. 23.) MEKH rendelet 5. § f) pontjával megállapított szöveg.
-[^38]: A 17. mellékletben foglalt táblázat 22. sora a 9/2023. (VI. 23.) MEKH rendelet 5. § f) pontjával megállapított szöveg.
+[^58]: A 17. mellékletben foglalt táblázat 13. sora a 9/2023. (VI. 23.) MEKH rendelet 5. § f) pontjával megállapított szöveg.
+[^59]: A 17. mellékletben foglalt táblázat 14. sora a 9/2023. (VI. 23.) MEKH rendelet 5. § f) pontjával megállapított szöveg.
+[^60]: A 17. mellékletben foglalt táblázat 22. sora a 9/2023. (VI. 23.) MEKH rendelet 5. § f) pontjával megállapított szöveg.
+[^61]: A 17. mellékletben foglalt táblázat 40. sorát a 11/2024. (XI. 21.) MEKH rendelet 5. § (1) bekezdése iktatta be.
+[^62]: A 17. mellékletben foglalt táblázat 41. sorát a 11/2024. (XI. 21.) MEKH rendelet 5. § (1) bekezdése iktatta be.
+[^63]: A 17. mellékletben foglalt táblázat 42. sorát a 11/2024. (XI. 21.) MEKH rendelet 5. § (1) bekezdése iktatta be.
+[^64]: A 17. mellékletben foglalt táblázat 43. sorát a 11/2024. (XI. 21.) MEKH rendelet 5. § (1) bekezdése iktatta be.

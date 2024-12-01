@@ -40,9 +40,11 @@
 
 | 14. | Hátralékok és túlfizetések | G680 | Havi | Az adatokat havonta, a tárgyidőszakot követő hónap 25. napjáig kell megadni. |
 
-| 15.[^43] | Tárgygázévre vonatkozó nem ESZ szerződések tételes adatai | G619t | Negyedéves | A tárgyidőszakot megelőző hónap utolsó napjáig. |
+| 15.[^69] | Tárgygázévre vonatkozó nem ESZ szerződések tételes adatai | G619t | Negyedéves | A tárgyidőszakot megelőző hónap utolsó napjáig. |
 
-| 16.[^44] | Következő gázévre vonatkozó nem ESZ szerződések tételes adatai | G619e | Negyedéves | A tárgyidőszakot megelőző hónap utolsó napjáig. |
+| 16.[^70] | Következő gázévre vonatkozó nem ESZ szerződések tételes adatai | G619e | Negyedéves | A tárgyidőszakot megelőző hónap utolsó napjáig. |
+
+| 17.[^71] | EKR költségek | G645 | Éves | Az adatokat évente, április 30-ig kell megadni. |
 
 ## III. A Hivatal által kiadott, „Egyedi felhasználókat érintő minimális minőségi követelmények meghatározása” tárgyú határozattal rendelkező földgáz-kereskedelmi működési engedélyes adatszolgáltatási kötelezettsége
 
@@ -78,9 +80,11 @@
 
 | 15. | Hátralékok és túlfizetések | G680 | Havi | Az adatokat havonta, a tárgyidőszakot követő hónap 25. napjáig kell megadni. |
 
-| 16.[^45] | Tárgygázévre vonatkozó nem ESZ szerződések tételes adatai | G619t | Negyedéves | A tárgyidőszakot megelőző hónap utolsó napjáig. |
+| 16.[^72] | Tárgygázévre vonatkozó nem ESZ szerződések tételes adatai | G619t | Negyedéves | A tárgyidőszakot megelőző hónap utolsó napjáig. |
 
-| 17.[^46] | Következő gázévre vonatkozó nem ESZ szerződések tételes adatai | G619e | Negyedéves | A tárgyidőszakot megelőző hónap utolsó napjáig. |
+| 17.[^73] | Következő gázévre vonatkozó nem ESZ szerződések tételes adatai | G619e | Negyedéves | A tárgyidőszakot megelőző hónap utolsó napjáig. |
+
+| 18.[^74] | EKR költségek | G645 | Éves | Az adatokat évente, április 30-ig kell megadni. |
 
 ## IV. Az egyetemes szolgáltatót ellátó földgázkereskedő adatszolgáltatási kötelezettsége
 
@@ -118,9 +122,11 @@
 
 | 16. | Hátralékok és túlfizetések | G680 | Havi | Az adatokat havonta, a tárgyidőszakot követő hónap 25. napjáig kell megadni. |
 
-| 17.[^47] | Tárgygázévre vonatkozó nem ESZ szerződések tételes adatai | G619t | Negyedéves | A tárgyidőszakot megelőző hónap utolsó napjáig. |
+| 17.[^75] | Tárgygázévre vonatkozó nem ESZ szerződések tételes adatai | G619t | Negyedéves | A tárgyidőszakot megelőző hónap utolsó napjáig. |
 
-| 18.[^48] | Következő gázévre vonatkozó nem ESZ szerződések tételes adatai | G619e | Negyedéves | A tárgyidőszakot megelőző hónap utolsó napjáig. |
+| 18.[^76] | Következő gázévre vonatkozó nem ESZ szerződések tételes adatai | G619e | Negyedéves | A tárgyidőszakot megelőző hónap utolsó napjáig. |
+
+| 19.[^77] | EKR költségek | G645 | Éves | Az adatokat évente, április 30-ig kell megadni. |
 
 ## V. A földgáz-kereskedelmi engedéllyel is rendelkező egyetemes szolgáltató adatszolgáltatási kötelezettsége
 
@@ -156,19 +162,25 @@
 
 | 15. | Hátralékok és túlfizetések | G680 | Havi | Az adatokat havonta, a tárgyidőszakot követő hónap 25. napjáig kell megadni. |
 
-| 16.[^49] | Tárgygázévre vonatkozó nem ESZ szerződések tételes adatai | G619t | Negyedéves | A tárgyidőszakot megelőző hónap utolsó napjáig. |
+| 16.[^78] | Tárgygázévre vonatkozó nem ESZ szerződések tételes adatai | G619t | Negyedéves | A tárgyidőszakot megelőző hónap utolsó napjáig. |
 
-| 17.[^50] | Következő gázévre vonatkozó nem ESZ szerződések tételes adatai | G619e | Negyedéves | A tárgyidőszakot megelőző hónap utolsó napjáig. |
+| 17.[^79] | Következő gázévre vonatkozó nem ESZ szerződések tételes adatai | G619e | Negyedéves | A tárgyidőszakot megelőző hónap utolsó napjáig. |
+
+| 18.[^80] | EKR költségek | G645 | Éves | Az adatokat évente, április 30-ig kell megadni. |
 
 20. melléklet az 1/2023. (IV. 5.) MEKH rendelethez
 
 A földgáz egyetemes szolgáltatói engedélyes adatszolgáltatási kötelezettsége
 
-[^43]: A 19. melléklet II. pontjában foglalt táblázat 15. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § h) pontja iktatta be.
-[^44]: A 19. melléklet II. pontjában foglalt táblázat 16. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § h) pontja iktatta be.
-[^45]: A 19. melléklet III. pontjában foglalt táblázat 16. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § h) pontja iktatta be.
-[^46]: A 19. melléklet III. pontjában foglalt táblázat 17. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § h) pontja iktatta be.
-[^47]: A 19. melléklet IV. pontjában foglalt táblázat 17. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § h) pontja iktatta be.
-[^48]: A 19. melléklet IV. pontjában foglalt táblázat 18. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § h) pontja iktatta be.
-[^49]: A 19. melléklet V. pontjában foglalt táblázat 16. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § h) pontja iktatta be.
-[^50]: A 19. melléklet V. pontjában foglalt táblázat 17. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § h) pontja iktatta be.
+[^69]: A 19. melléklet II. pontjában foglalt táblázat 15. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § h) pontja iktatta be.
+[^70]: A 19. melléklet II. pontjában foglalt táblázat 16. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § h) pontja iktatta be.
+[^71]: A 19. melléklet II. pontjában foglalt táblázat 17. sorát a 11/2024. (XI. 21.) MEKH rendelet 5. § (2) bekezdése iktatta be.
+[^72]: A 19. melléklet III. pontjában foglalt táblázat 16. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § h) pontja iktatta be.
+[^73]: A 19. melléklet III. pontjában foglalt táblázat 17. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § h) pontja iktatta be.
+[^74]: A 19. melléklet III. pontjában foglalt táblázat 18. sorát a 11/2024. (XI. 21.) MEKH rendelet 5. § (2) bekezdése iktatta be.
+[^75]: A 19. melléklet IV. pontjában foglalt táblázat 17. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § h) pontja iktatta be.
+[^76]: A 19. melléklet IV. pontjában foglalt táblázat 18. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § h) pontja iktatta be.
+[^77]: A 19. melléklet IV. pontjában foglalt táblázat 19. sorát a 11/2024. (XI. 21.) MEKH rendelet 5. § (2) bekezdése iktatta be.
+[^78]: A 19. melléklet V. pontjában foglalt táblázat 16. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § h) pontja iktatta be.
+[^79]: A 19. melléklet V. pontjában foglalt táblázat 17. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § h) pontja iktatta be.
+[^80]: A 19. melléklet V. pontjában foglalt táblázat 18. sorát a 11/2024. (XI. 21.) MEKH rendelet 5. § (2) bekezdése iktatta be.

@@ -44,7 +44,7 @@
 
 | 22. | Hőszivattyúk adatai | V526 | Éves | Az adatokat a tárgyidőszakot követő év április 30. napjáig kell megadni. |
 
-| 23. | Saját tulajdonú, akkumulátor alapú energia-tárolásra vonatkozó adatok | V527 | Éves | Az adatokat évente, a tárgyidőszakot követő év június 30-ig kell megadni. |
+| 23. | Saját tulajdonú, akkumulátor alapú energia-tárolásra vonatkozó adatok | V527 | Éves | Az adatokat évente, a tárgyidőszakot követő év április 30-ig kell megadni.[^48] |
 
 | 24. | Elosztói üzemzavarok | V531 | Éves | Az adatokat a tárgyidőszakot követő év február 20. napjáig kell megadni. |
 
@@ -88,7 +88,7 @@
 
 | 44. | Kikapcsolt fogyasztók száma | V580 | Havi | Az adatokat a tárgyidőszakot követő hónap 25. napjáig kell megadni. |
 
-| 45.[^30] | Településenként átadott havi villamosenergia mennyiség | V517 | Havi | Az adatokat a tárgyidőszakot követő hónap 25. napjáig kell megadni. |
+| 45.[^49] | Településenként átadott havi villamosenergia mennyiség | V517 | Havi | Az adatokat a tárgyidőszakot követő hónap 25. napjáig kell megadni. |
 
 ## II. A villamos energia elosztói engedélyes HVIA adatgyűjtő alrendszer útján teljesítendő adatszolgáltatási kötelezettsége
 
@@ -130,4 +130,5 @@
 
 I. A korlátozott villamosenergia-kereskedelmi működési engedélyes adatszolgáltatási kötelezettsége
 
-[^30]: A 6. melléklet I. pontjában foglalt táblázat 45. sorát a 2/2024. (III. 12.) MEKH rendelet 4. § (3) bekezdése iktatta be.
+[^48]: A 6. melléklet I. pontjában foglalt táblázat D:23 mezője a 11/2024. (XI. 21.) MEKH rendelet 6. § 2. pontja szerint módosított szöveg.
+[^49]: A 6. melléklet I. pontjában foglalt táblázat 45. sorát a 2/2024. (III. 12.) MEKH rendelet 4. § (3) bekezdése iktatta be.

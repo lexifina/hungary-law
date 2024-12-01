@@ -2,7 +2,7 @@
 
 | 1. | Adatkör | MEKH adatszolgáltatási szám | Adatszolgáltatási gyakoriság | Beküldési határidő |
 
-| 2. | Törzsadatlap – nagyerőmű cégjogi adatai | V200 | Havi | Az adatokat a tárgyidőszakot követő hónap 15. napjáig kell megadni. |
+| 2.[^22] |  |  |  |  |
 
 | 3. | Engedélyes tevékenységre vonatkozó auditált mérleg és eredménykimutatás – nagyerőmű | V201 | Éves | Az adatokat a tárgyidőszakot követő év május 31. napjáig kell megadni. |
 
@@ -42,7 +42,7 @@
 
 | 1. | Adatkör | MEKH adatszolgáltatási szám | Adatszolgáltatási gyakoriság | Beküldési határidő |
 
-| 2. | Törzsadatlap – nagyerőmű cégjogi adatai | V200 | Havi | Az adatokat a tárgyidőszakot követő hónap 15. napjáig kell megadni. |
+| 2.[^23] |  |  |  |  |
 
 | 3. | Engedélyes tevékenységre vonatkozó auditált mérleg és eredménykimutatás – nagyerőmű | V201 | Éves | Az adatokat a tárgyidőszakot követő év május 31. napjáig kell megadni. |
 
@@ -81,3 +81,6 @@
 4. melléklet az 1/2023. (IV. 5.) MEKH rendelethez
 
 I. A nem engedélyköteles kiserőmű – nap-, szél-, víz- és geotermikus energia alapú villamosenergia-termelésre vonatkozó adatszolgáltatási kötelezettsége
+
+[^22]: A 3. melléklet I. pontjában foglalt táblázat 2. sorát a 11/2024. (XI. 21.) MEKH rendelet 7. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^23]: A 3. melléklet II. pontjában foglalt táblázat 2. sorát a 11/2024. (XI. 21.) MEKH rendelet 7. § (1) bekezdés b) pontja hatályon kívül helyezte.

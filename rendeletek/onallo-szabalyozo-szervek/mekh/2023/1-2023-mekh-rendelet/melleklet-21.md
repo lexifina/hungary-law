@@ -66,6 +66,10 @@
 
 | 33. | Hátralékok és túlfizetések | G780 | Havi | Az adatokat havonta, a tárgyidőszakot követő hónap 25. napjáig kell megadni. |
 
+| 34.[^81] | EKR költségek | G745 | Éves | Az adatokat évente, április 30-ig kell megadni. |
+
 21. melléklet az 1/2023. (IV. 5.) MEKH rendelethez
 
 A szervezett földgázpiaci engedélyes adatszolgáltatási kötelezettsége
+
+[^81]: A 20. mellékletben foglalt táblázat 34. sorát a 11/2024. (XI. 21.) MEKH rendelet 5. § (3) bekezdése iktatta be.
