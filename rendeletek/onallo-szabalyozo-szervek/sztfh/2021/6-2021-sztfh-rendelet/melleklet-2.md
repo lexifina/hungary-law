@@ -1,4 +1,4 @@
-## Országosan: 226
+## Országosan: 225
 
 ## I.
 
@@ -300,11 +300,11 @@
 
 | Paksi Járásbíróság | 1 |
 
-| Szekszárdi Járásbíróság | 3 |
+| Szekszárdi Járásbíróság | 2 |
 
 | Tamási Járásbíróság | 1 |
 
-| Összesen: | 7 |
+| Összesen: | 6 |
 
 ## XVIII.
 
