@@ -1,18 +1,16 @@
-## 12. § Ez a rendelet – az Msztv.-vel és az R.-rel együtt – a termékek forgalomba hozatalának közös keretrendszeréről, valamint a 93/465/EGK tanácsi határozat hatályon kívül helyezéséről szóló, 2008. július 9-i 768/2008/EK európai parlamenti és tanácsi határozat I. melléklet R15. cikk (3) bekezdésével, R17. cikk (6) bekezdés a) pontjával és (7) bekezdés a) pontjával, R17. cikk (9) és (11) bekezdésével, R20. cikk (1) bekezdésével, R22. cikkével, valamint R28. cikkével összhangban álló szabályozást tartalmaz.
-
 1. melléklet a 60/2011. (XI. 25.) NFM rendelethez
 
-## A közlekedésért felelős miniszter szabályozási feladatkörébe tartozó forgalmazási követelmények tekintetében eljáró megfelelőségértékelő szervezet kijelölésére irányuló kérelem tartalmi elemei
+A közlekedésért felelős miniszter szabályozási feladatkörébe tartozó forgalmazási követelmények tekintetében eljáró megfelelőségértékelő szervezet kijelölésére irányuló kérelem tartalmi elemei
 
 1. A kérelem tartalmazza az Msztv. 6. § (2) bekezdésében meghatározottakon túl a kérelmező szervezet következő adatait:
 
 a) a szervezet nevét, címét (székhelye), telefonszámát, telefaxszámát, e-mail címét és honlapcímét,
 
-b)[^16] a szervezet állományi létszámát és nyilvántartási számát, illetve cégjegyzékszámát.
+b)[^30] a szervezet állományi létszámát és nyilvántartási számát, illetve cégjegyzékszámát.
 
 2. A kérelemben a kérelmező nyilatkozik, hogy milyen megfelelőségértékelési tevékenységre kéri a kijelölést: vizsgálat, ellenőrzés vagy tanúsítás, illetve ezek kombinációja.
 
-3. A kérelemben a kérelmező megjelöli a kérelmezett megfelelőségértékelési tevékenységet, a vonatkozó jogszabályokkal, termékekkel és megfelelőségértékelési eljárásokkal (modul) együtt.
+3.[^31] A kérelemben a kérelmező megjelöli a kérelmezett megfelelőségértékelési tevékenységet, a termékekkel, vonatkozó jogszabályokkal, illetve vasúti műszaki előírásokkal és megfelelőségértékelési eljárásokkal (modul) együtt.
 
 4. A kérelem tartalmazza az Msztv. 6. § (2) bekezdésében meghatározottakon túl a megfelelőségértékelő tevékenység végzéséhez szükséges szakmai képesítés követelményét teljesítő
 
@@ -74,4 +72,5 @@ c) van-e eljárása a szervezet által kiadott tanúsítványok és tanúsítás
 
 12. A kérelem alján a kijelölést kérelmező szervezet törvényes képviselője nyilatkozik arról, hogy az 1–12. pontokban közölt válaszok és adatok a valóságnak megfelelnek, majd a kérelmet a kérelem alján dátummal és aláírásával ellátja.
 
-[^16]: Az 1. melléklet 1. pont b) alpontja a 3/2013. (I. 29.) NFM rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^30]: Az 1. melléklet 1. pont b) alpontja a 3/2013. (I. 29.) NFM rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^31]: Az 1. melléklet 3. pontja a 41/2024. (XI. 28.) ÉKM rendelet 6. § i) pontja szerint módosított szöveg.

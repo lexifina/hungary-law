@@ -1,8 +1,8 @@
 ## 9. § A kijelölő hatóság – a kijelölt állapot fennállása alatt bármikor, de legalább 3 évente egyszer – ellenőrzi a kijelölés feltételeinek meglétét és folyamatos betartását.
 
-## 9/A. §[^14] A kijelölő hatóság az ellenőrzés során az alábbi fő szempontokra figyelemmel végzi a megfelelőségértékelő szervezet ellenőrzését:
+## 9/A. §[^22] A kijelölő hatóság az ellenőrzés során az alábbi fő szempontokra figyelemmel végzi a megfelelőségértékelő szervezet ellenőrzését:
 
-a) a működési szabályzat folyamatos frissítése és a vonatkozó jogszabályoknak, szabványoknak való megfelelősége;
+a)[^23] a működési szabályzat folyamatos frissítése és a vonatkozó jogszabályoknak, vasúti műszaki előírásoknak, szabványoknak való megfelelősége;
 
 b) a minőségirányítási rendszer működőképessége és gyakorlati működtetése;
 
@@ -18,7 +18,7 @@ dc) az üzleti jó hírnév fennállása,
 
 dd) a pénzügyi teljesítőképesség biztosítása;
 
-e) a megfelelőségértékelési tevékenység ellátásához kapcsolódó jogszabályok, szabványok rendelkezésre állása és a munkatársak számára történő folyamatos biztosítása;
+e)[^24] a megfelelőségértékelési tevékenység ellátásához kapcsolódó jogszabályok, vasúti műszaki előírások, szabványok rendelkezésre állása és a munkatársak számára történő folyamatos biztosítása;
 
 f) a bejelentett megfelelőségértékelő szervezeteket koordináló csoport munkájában történő részvétel biztosítása;
 
@@ -28,4 +28,6 @@ h) az ERTMS-munkacsoport tevékenységében történő részvétel;
 
 i) tevékenységét-átláthatóságát biztosító honlap folyamatos vezetése és nyílt hozzáférésének biztosítása.
 
-[^14]: A 9/A. §-t a 37/2020. (X. 14.) ITM rendelet 15. §-a iktatta be.
+[^22]: A 9/A. §-t a 37/2020. (X. 14.) ITM rendelet 15. §-a iktatta be.
+[^23]: A 9/A. § a) pontja a 41/2024. (XI. 28.) ÉKM rendelet 6. § g) pontja szerint módosított szöveg.
+[^24]: A 9/A. § e) pontja a 41/2024. (XI. 28.) ÉKM rendelet 6. § h) pontja szerint módosított szöveg.

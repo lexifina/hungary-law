@@ -4,7 +4,7 @@
 
 (2) A jelentés a következőket tartalmazza:
 
-a) jogszabályok, termékcsoportok és megfelelőségértékelési eljárások (modulok) szerint bontva a megrendelő gazdasági szereplők, a szerződések, a vizsgálati, ellenőrzési jegyzőkönyvek, a kiadott tanúsítványok számát,
+a)[^21] jogszabályok, vasúti műszaki előírások, termékcsoportok és megfelelőségértékelési eljárások (modulok) szerint bontva a megrendelő gazdasági szereplők, a szerződések, a vizsgálati, ellenőrzési jegyzőkönyvek, a kiadott tanúsítványok számát,
 
 b) a közreműködő szervezet nevét, a szerződés azonosítóját,
 
@@ -17,3 +17,5 @@ e) a kijelölt megfelelőségértékelési területtel kapcsolatos együttműkö
 f) az R. 2. § (2) bekezdés e) pontjában meghatározott részvétel bemutatását,
 
 g) a kijelölt megfelelőségértékelési területen a termék forgalmazására vonatkozó rendelkezések megsértésével összefüggésben a piacfelügyeleti hatóságnak és a kijelölt megfelelőségértékelési területen működő más megfelelőségértékelő szervezeteknek küldött tájékoztatások számát, valamint a visszavont tanúsítványok számát.
+
+[^21]: A 8. § (2) bekezdés a) pontja a 41/2024. (XI. 28.) ÉKM rendelet 6. § f) pontja szerint módosított szöveg.

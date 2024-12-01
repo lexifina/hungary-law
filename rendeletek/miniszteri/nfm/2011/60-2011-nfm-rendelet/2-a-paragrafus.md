@@ -1,4 +1,4 @@
-2/A. §[^6] (1) Ha a kérelmezett megfelelőségértékelési terület a kölcsönös átjárhatóságot lehetővé tévő műszaki előírások szerinti valamely vasúti alrendszer, a kérelmező szervezetnek alkalmasnak kell lennie a vonatkozó átjárhatósági műszaki előírásokban előírt valamennyi olyan megfelelőségértékelési feladatra, amelynek elvégzésére kijelölését vagy bejelentését kérte.
+2/A. §[^8] (1)[^9] Ha a kérelmezett megfelelőségértékelési terület az átjárhatósági műszaki előírások szerinti valamely vasúti alrendszer, a kérelmező szervezetnek alkalmasnak kell lennie a vonatkozó átjárhatósági műszaki előírásokban előírt valamennyi olyan megfelelőségértékelési feladatra, amelynek elvégzésére kijelölését vagy bejelentését kérte.
 
 (2) A kérelmezett szervezet teljes felelősséggel tartozik a megfelelőségértékeléssel kapcsolatos feladatok ellátásába bevont közreműködő által elvégzett feladatokért.
 
@@ -16,4 +16,5 @@ c) amelynek nincs 6 hónapnál régebben lejárt adó-, vám-, járulékfizetés
 
 d) amelynek nincs 6 hónapnál régebben lejárt tartozása a vasúti piac szereplői, az alvállalkozói, vagy konzorciumi partnerei, vagy a megbízása alapján eljáró szervezetek felé.
 
-[^6]: A 2/A. §-t a 37/2020. (X. 14.) ITM rendelet 11. §-a iktatta be.
+[^8]: A 2/A. §-t a 37/2020. (X. 14.) ITM rendelet 11. §-a iktatta be.
+[^9]: A 2/A. § (1) bekezdése a 41/2024. (XI. 28.) ÉKM rendelet 6. § d) pontja szerint módosított szöveg.
