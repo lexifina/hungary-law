@@ -1,3 +1,3 @@
-10. § A 15/2021. (III. 31.) AM rendelet 14. § (3) bekezdése helyébe a következő rendelkezés lép:
+10. §[^11]
 
-„(3) A programban részt vevő köznevelési intézmény – több feladatellátási hely esetén feladatellátási helyenként – a kiosztott termék mennyiségéről, az átvett és leselejtezett termékmennyiség adatainak összesítésével a Kincstár honlapján közzétett adatlap kitöltésével, hetente nyilvántartást vezet.”
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

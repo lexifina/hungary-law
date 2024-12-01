@@ -1,3 +1,3 @@
-11. § A 15/2021. (III. 31.) AM rendelet 15. § (2) bekezdése helyébe a következő rendelkezés lép:
+11. §[^12]
 
-„(2) A Kincstár a megkötött megállapodások adatai alapján a következő tanítási évben várható költségvetési forrásigényről évente július 25-éig tájékoztatja a minisztert.”
+[^12]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

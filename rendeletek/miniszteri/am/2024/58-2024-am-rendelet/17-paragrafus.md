@@ -1,3 +1,3 @@
-17. § A 15/2021. (III. 31.) AM rendelet 25. §-a a következő f) ponttal egészül ki:
+17. §[^18]
 
-(Ez a rendelet)
+[^18]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
