@@ -4,7 +4,7 @@
 
 ## b) egyetért a NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság (a továbbiakban: NIF Zrt.) által kiírt, folyamatban lévő vasúti tervezési közbeszerzési eljárás eredménytelen lezárásával;
 
-## c)[^1] egyetért azzal, hogy a módosított műszaki tartalmú vasúti Beruházás legfeljebb 43 500 000 000 forint forrás felhasználásával valósuljon meg;
+## c)[^2] egyetért azzal, hogy a módosított műszaki tartalmú vasúti Beruházás legfeljebb 43 500 000 000 forint forrás felhasználásával valósuljon meg;
 
 ## d) egyetért azzal, hogy az IKOP-2.1.0-15-2020-00054 azonosító számú „NIF Zrt. vasúti infrastruktúra fejlesztési projektek előkészítése” projekt részét képező „Zalaszentiván–Nagykanizsa vasúti vonalszakasz villamosításának és korszerűsítésének előkészítése” projektelem legfeljebb 1 800 900 000 forint forrás felhasználásával – a műszaki tartalom tekintetében az építési és közlekedési miniszterrel egyeztetve – valósuljon meg;
 
@@ -14,15 +14,7 @@
 
 | Határidő: | 2023. december 31. |
 
-## f) egyetért a 7328 jelű úton a távlati M76 projekt részét képező 4. számú körpálya megvalósításával, ennek érdekében felhívja a pénzügyminisztert, hogy – az építési és közlekedési miniszter kezdeményezésére – gondoskodjon összesen 520 260 000 forint rendelkezésre állásáról az alábbi ütemezéssel:
-
-## fa) 180 090 000 forint többletforrás biztosításáról a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény (a továbbiakban: 2023. évi Kvtv.) 1. melléklet XVI. Építési és Beruházási Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 15. Infrastruktúra-fejlesztési beruházások alcím, 1. Közúti infrastruktúra-fejlesztések jogcímcsoport javára,
-
-## fb) 340 170 000 forint rendelkezésre állásáról a 2024. évi központi költségvetés közúti infrastruktúra-fejlesztéseket finanszírozó előirányzata javára;
-
-| Felelős: | pénzügyminiszter építési és közlekedési miniszter |
-
-| Határidő: | az fa) pont tekintetében a 2023. évi központi költségvetés végrehajtása során, a felmerülés ütemében az fb) pont tekintetében a 2024. évi központi költségvetés tervezése során |
+## f) [^3]
 
 ## g) felhívja az építési és közlekedési minisztert, hogy a d) alpontban foglaltakkal összhangban kezdeményezze az IKOP-2.1.0-15-2020-00054 azonosítószámú projekt támogatási szerződésének módosítását;
 
@@ -36,9 +28,9 @@
 
 | Határidő: | 2023. március 31. |
 
-## i) [^2] felhívja a pénzügyminisztert, hogy az építési és közlekedési miniszter kezdeményezésére gondoskodjon az a) alpont szerinti vasúti feladatok 2024–2026. évi megvalósítása érdekében
+## i) [^4] felhívja a pénzügyminisztert, hogy az építési és közlekedési miniszter kezdeményezésére gondoskodjon az a) alpont szerinti vasúti feladatok 2024–2026. évi megvalósítása érdekében
 
-## ia) [^3]
+## ia) [^5]
 
 ## ib) a 2025. évben legfeljebb 18 000 000 000 forint, a 2026. évben legfeljebb 25 000 000 000 forint rendelkezésre állásáról az éves központi költségvetés vasúti infrastruktúra-fejlesztéseket finanszírozó előirányzata javára;
 
@@ -52,24 +44,25 @@
 
 | Határidő: | azonnal |
 
-## 2.[^4]
+## 2.[^6]
 
-## 3.[^5]
+## 3.[^7]
 
-## 4.[^6]
+## 4.[^8]
 
-## 5.[^7]
+## 5.[^9]
 
-## 6.[^8]
+## 6.[^10]
 
-1. melléklet az 1599/2022. (XII. 1.) Korm. határozathoz[^9]
+1. melléklet az 1599/2022. (XII. 1.) Korm. határozathoz[^11]
 
-[^1]: Az 1. pont c) alpontja az 1468/2023. (X. 30.) Korm. határozat 4. pont b) alpontja szerint módosított szöveg.
-[^2]: Az 1. pont i) alpontja az 1118/2024. (IV. 23.) Korm. határozat 3. pontjával megállapított szöveg.
-[^3]: Az 1. pont i) pont ia) alpontját az 1229/2024. (VII. 31.) Korm. határozat 17. pont c) alpontja visszavonta.
-[^4]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: A 6. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^9]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. pont c) alpontja az 1468/2023. (X. 30.) Korm. határozat 4. pont b) alpontja szerint módosított szöveg.
+[^3]: Az 1. pont f) alpontját az 1373/2024. (XII. 2.) Korm. határozat 3. pontja visszavonta.
+[^4]: Az 1. pont i) alpontja az 1118/2024. (IV. 23.) Korm. határozat 3. pontjával megállapított szöveg.
+[^5]: Az 1. pont i) pont ia) alpontját az 1229/2024. (VII. 31.) Korm. határozat 17. pont c) alpontja visszavonta.
+[^6]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 6. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

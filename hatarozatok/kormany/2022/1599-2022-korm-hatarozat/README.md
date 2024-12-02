@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-1599-30
 | 2023-10-30 | 2022-1599-30-22.3 | 1468/2023. (X. 30.) Korm. határozat |
 | 2024-04-23 | 2022-1599-30-22.4 | 1118/2024. (IV. 23.) Korm. határozat |
 | 2024-07-31 | 2022-1599-30-22.5 | 1229/2024. (VII. 31.) Korm. határozat |
+| 2024-12-02 | 2022-1599-30-22.6 | 1038/2026. (II. 12.) Korm. határozat |
