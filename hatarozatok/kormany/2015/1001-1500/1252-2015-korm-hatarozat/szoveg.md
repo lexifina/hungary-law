@@ -1,18 +1,6 @@
 A Kormány 2015. április 14. napján együttműködési megállapodást (a továbbiakban: Megállapodás) kötött Zalaegerszeg Megyei Jogú Város Önkormányzatával. A Kormány a Megállapodásban foglaltak eredményes kormányzati végrehajtása érdekében
 
-1. felhívja a nemzeti fejlesztési minisztert, hogy Zalaegerszeg gyorsforgalmi úthálózatba történő bekapcsolása céljából tegye meg a szükséges intézkedéseket
-
-a) a 76. számú út Balatonszentgyörgy–Fenékpuszta–Keszthely elkerülő szakasz és az M7 autópálya közötti szakaszának gyorsforgalmi úttá fejlesztése, illetve megépítése, valamint
-
-b) a Vasvár–Zalaegerszeg gyorsforgalmi útszakasz tervezése
-
-érdekében;
-
-Felelős: nemzeti fejlesztési miniszter
-
-Határidő: az a) alpont szerinti gyorsforgalmi út megvalósítására 2018. március 15.
-
-a b) alpont tekintetében 2017. január 15.
+1.[^1]
 
 2. felhívja a nemzetgazdasági minisztert, a nemzeti fejlesztési minisztert és Miniszterelnökséget vezető minisztert, hogy
 
@@ -76,7 +64,7 @@ nemzetgazdasági miniszter
 
 Határidő: azonnal
 
-8.[^1] Zalaegerszeg kulturális életének élénkítése, a város kulturális szerepének erősítése céljából
+8.[^2] Zalaegerszeg kulturális életének élénkítése, a város kulturális szerepének erősítése céljából
 
 a) egyetért a zalaegerszegi Hevesi Sándor Színház felújításának támogatásával,
 
@@ -88,7 +76,7 @@ emberi erőforrások minisztere
 
 Határidő: 2018. december 31.
 
-9.[^2] a versenyképesség növelése céljából – figyelemmel a 2. pontra – egyetért a modern oktatási környezet kialakítására vonatkozó fejlesztési célokkal, amely érdekében felhívja az emberi erőforrások miniszterét és a Miniszterelnökséget vezető minisztert, hogy – a Budapesti Gazdasági Egyetem bevonásával – gondoskodjanak a fejlesztéshez szükséges beruházások megvalósítását szolgáló kormányzati intézkedések megtételéről.
+9.[^3] a versenyképesség növelése céljából – figyelemmel a 2. pontra – egyetért a modern oktatási környezet kialakítására vonatkozó fejlesztési célokkal, amely érdekében felhívja az emberi erőforrások miniszterét és a Miniszterelnökséget vezető minisztert, hogy – a Budapesti Gazdasági Egyetem bevonásával – gondoskodjanak a fejlesztéshez szükséges beruházások megvalósítását szolgáló kormányzati intézkedések megtételéről.
 
 Felelős: emberi erőforrások minisztere
 
@@ -96,7 +84,7 @@ Miniszterelnökséget vezető miniszter
 
 Határidő: azonnal
 
-10.[^3] Zalaegerszeg sport-, gazdasági és kulturális életének élénkítése céljából felhívja az emberi erőforrások miniszterét és a Miniszterelnökséget vezető minisztert, hogy tegyenek javaslatot a Kormány részére a Zalaegerszegen kormányzati támogatással megvalósítandó beruházás koncepciójára, amely keretében a meglévő városi sportcsarnok létesítmény helyett egy új multifunkciós rendezvény- és sportcsarnok létesül.
+10.[^4] Zalaegerszeg sport-, gazdasági és kulturális életének élénkítése céljából felhívja az emberi erőforrások miniszterét és a Miniszterelnökséget vezető minisztert, hogy tegyenek javaslatot a Kormány részére a Zalaegerszegen kormányzati támogatással megvalósítandó beruházás koncepciójára, amely keretében a meglévő városi sportcsarnok létesítmény helyett egy új multifunkciós rendezvény- és sportcsarnok létesül.
 
 Felelős: emberi erőforrások minisztere
 
@@ -104,7 +92,7 @@ Miniszterelnökséget vezető miniszter
 
 Határidő: a Zalaegerszegen kormányzati támogatással megvalósítandó multifunkciós rendezvény- és sportcsarnok beruházás kivitelezési dokumentációjának elkészültét követően azonnal
 
-11.[^4] támogatja a TOP-6.1.4-15-ZL1-2016-00002 azonosító számú, „Zalaegerszegi Göcseji Falumúzeum fejlesztése” című projekthez kapcsolódó – kástu áthelyezése, szobor áthelyezése, pákász kunyhó telepítése, I. világháborús emlékmű felépítése – projektelemek, valamint a TOP-6.1.3-15-ZL1-2016-00001 azonosító számú, „Helyi Termelői és Kézműves Piac kialakítása Zalaegerszegen” című projekt és a TOP-6.1.4-16-ZL1-2017-00003 azonosító számú, „Helyi Termelői és Kézműves Piac kialakítása Zalaegerszegen – Göcsej Tudásközpont” című projekt (a továbbiakban együtt: fejlesztések) megvalósulását, melynek keretében
+11.[^5] támogatja a TOP-6.1.4-15-ZL1-2016-00002 azonosító számú, „Zalaegerszegi Göcseji Falumúzeum fejlesztése” című projekthez kapcsolódó – kástu áthelyezése, szobor áthelyezése, pákász kunyhó telepítése, I. világháborús emlékmű felépítése – projektelemek, valamint a TOP-6.1.3-15-ZL1-2016-00001 azonosító számú, „Helyi Termelői és Kézműves Piac kialakítása Zalaegerszegen” című projekt és a TOP-6.1.4-16-ZL1-2017-00003 azonosító számú, „Helyi Termelői és Kézműves Piac kialakítása Zalaegerszegen – Göcsej Tudásközpont” című projekt (a továbbiakban együtt: fejlesztések) megvalósulását, melynek keretében
 
 a) egyetért azzal, hogy a fejlesztések önkormányzati beruházásként valósuljanak meg,
 
@@ -114,7 +102,7 @@ Felelős: pénzügyminiszter
 
 Határidő: 2019. október 31.
 
-12.[^5] Zalaegerszeg gazdaságélénkítő közlekedési infrastruktúrájának növelése céljából
+12.[^6] Zalaegerszeg gazdaságélénkítő közlekedési infrastruktúrájának növelése céljából
 
 a) egyetért a zalaegerszegi közúthálózat és a kapcsolódó terek fejlesztésével, valamint a munkálatok elvégzéséhez szükséges eszközbeszerzés támogatásával,
 
@@ -126,8 +114,9 @@ Miniszterelnökséget vezető miniszter
 
 Határidő: azonnal
 
-[^1]: A 8. pontot az 1826/2018. (XII. 27.) Korm. határozat iktatta be.
-[^2]: A 9. pontot az 1106/2019. (III. 11.) Korm. határozat 1. pontja iktatta be.
-[^3]: A 10. pontot az 1339/2019. (VI. 7.) Korm. határozat iktatta be, szövege az 1020/2020. (II. 6.) Korm. határozat 2. pontja szerint módosított szöveg.
-[^4]: A 11. pontot az 1582/2019. (X. 15.) Korm. határozat iktatta be.
-[^5]: A 12. pontot az 1183/2020. (IV. 24.) Korm. határozat iktatta be.
+[^1]: Az 1. pontot az 1373/2024. (XII. 2.) Korm. határozat 1. pontja visszavonta.
+[^2]: A 8. pontot az 1826/2018. (XII. 27.) Korm. határozat iktatta be.
+[^3]: A 9. pontot az 1106/2019. (III. 11.) Korm. határozat 1. pontja iktatta be.
+[^4]: A 10. pontot az 1339/2019. (VI. 7.) Korm. határozat iktatta be, szövege az 1020/2020. (II. 6.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^5]: A 11. pontot az 1582/2019. (X. 15.) Korm. határozat iktatta be.
+[^6]: A 12. pontot az 1183/2020. (IV. 24.) Korm. határozat iktatta be.
