@@ -46,7 +46,7 @@ adatok forintban
 
 | 5. | 1528/2022. (XI. 2.) Korm. határozat 1. pont b) alpont ba) és bb) pontja | 1 600 000 000 | 2 900 000 000 | 0 | 0 | 4 500 000 000 |
 
-| 6. | 1599/2022. (XII. 1.) Korm. határozat 1. pont f) alpont fa) és fb) pontja | 0 | 180 000 000 | 340 000 000 | 0 | 520 000 000 |
+| 6.[^10] |  |  |  |  |  |  |
 
 | 7. | 1645/2022. (XII. 21.) Korm. határozat 1. pont c. alpontja |  |  | 502 381 618 |  | 502 381 618 |
 
@@ -59,3 +59,4 @@ adatok forintban
 [^7]: Az 1. melléklet az 1645/2022. (XII. 21.) Korm. határozat 3. pontjával megállapított szöveg.
 [^8]: Az 1. mellékletben foglalt táblázat 2. sora az 1190/2024. (VI. 28.) Korm. határozat 4. pontjával megállapított szöveg.
 [^9]: Az 1. mellékletben foglalt táblázat 4. sorát az 1190/2024. (VI. 28.) Korm. határozat 6. pont c) alpontja visszavonta.
+[^10]: Az 1. mellékletben foglalt táblázat 6. sorát az 1373/2024. (XII. 2.) Korm. határozat 2. pontja visszavonta.
