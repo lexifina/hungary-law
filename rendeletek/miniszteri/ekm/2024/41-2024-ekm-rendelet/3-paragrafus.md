@@ -1,3 +1,3 @@
-3. § A 60/2011. (XI. 25.) NFM rendelet 6. § (1) bekezdése helyébe a következő rendelkezés lép:
+3. §[^4]
 
-„(1) Ha a kijelölő hatóság az R. 15. § a) pontja alapján a jogszabályban vagy vasúti műszaki előírásban meghatározott termékcsoportra vonatkozó megfelelőségértékelési tevékenységre a kérelmezőt kijelöli, akkor erről a kijelölési okiratot – a megfelelőség igazolási módozatok és a vasúti műszaki előírások megjelölésével – kiállítja.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
