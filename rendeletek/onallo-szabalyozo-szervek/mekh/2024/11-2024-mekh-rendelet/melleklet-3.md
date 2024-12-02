@@ -1,7 +1,3 @@
-## „
+3. melléklet a 11/2024. (XI. 21.) MEKH rendelethez[^11]
 
-| 18. | EKR költségek | G645 | Éves | Az adatokat évente, április 30-ig kell megadni. |
-
-## ”
-
-3. melléklet a 11/2024. (XI. 21.) MEKH rendelethez
+[^11]: A 3. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-4. § Az R. 11. §-a a következő 13. ponttal egészül ki:
+4. §[^5]
 
-(A GET és az Mgszr. szerinti adatszolgáltató adatszolgáltatási kötelezettségének a következő adatlapok Hivatal részére történő megküldésével tesz eleget:)
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

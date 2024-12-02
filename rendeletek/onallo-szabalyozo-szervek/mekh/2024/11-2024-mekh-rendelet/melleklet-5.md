@@ -1,13 +1,3 @@
-## Az R. 21. mellékletében foglalt táblázat a következő 12. sorral egészül ki:
+5. melléklet a 11/2024. (XI. 21.) MEKH rendelethez[^13]
 
-|  | (A | B | C | D |
-
-| 1. | Adatkör | MEKH adatszolgáltatási szám | Adatszolgáltatási gyakoriság | Beküldési határidő) |
-
-## „
-
-| 12. | Szervezett piaci tagok nyilvántartása | G874 | Havi | Az adatokat havonta, minden hónap 6. napjáig szükséges aktualizálni. |
-
-## ”
-
-5. melléklet a 11/2024. (XI. 21.) MEKH rendelethez
+[^13]: Az 5. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

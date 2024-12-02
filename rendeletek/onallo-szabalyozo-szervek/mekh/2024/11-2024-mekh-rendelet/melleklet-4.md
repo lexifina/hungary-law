@@ -1,13 +1,3 @@
-## Az R. 20. mellékletében foglalt táblázat a következő 34. sorral egészül ki:
+4. melléklet a 11/2024. (XI. 21.) MEKH rendelethez[^12]
 
-|  | (A | B | C | D |
-
-| 1. | Adatkör | MEKH adatszolgáltatási szám | Adatszolgáltatási gyakoriság | Beküldési határidő) |
-
-## „
-
-| 34. | EKR költségek | G745 | Éves | Az adatokat évente, április 30-ig kell megadni. |
-
-## ”
-
-4. melléklet a 11/2024. (XI. 21.) MEKH rendelethez
+[^12]: A 4. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

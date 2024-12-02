@@ -1,7 +1,3 @@
-3. § (1) Az R. 5. § (3) bekezdése helyébe a következő rendelkezés lép:
+3. §[^4]
 
-„(3) A digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) 19. §-a alapján elektronikus kapcsolattartásra kötelezett adatszolgáltató – ide nem értve a Magyar Államkincstár törzskönyvi nyilvántartásában szereplő gazdálkodó szervezetet, az Országos Bírósági Hivatal nyilvántartásában szereplő gazdálkodó szervezetet, továbbá a Nemzeti Adó- és Vámhivatal nyilvántartásában szereplő egyéni vállalkozót – adatszolgáltatási kötelezettségét a Dáptv. 39. § (2) bekezdés e) pontja szerinti Központi Azonosítási Ügynök szolgáltatáson keresztül történő azonosítással teljesíti.”
-
-(2) Az R. 5. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) A Dáptv. 19. §-a szerint elektronikus kapcsolattartásra nem kötelezett, valamint a Magyar Államkincstár törzskönyvi nyilvántartásában szereplő gazdálkodó szervezet, az Országos Bírósági Hivatal nyilvántartásában szereplő gazdálkodó szervezet, továbbá a Nemzeti Adó- és Vámhivatal nyilvántartásában szereplő egyéni vállalkozó adatszolgáltató az adatszolgáltatási kötelezettség beállását követő 8 napon belül az 1. melléklet szerinti adatlapot kitöltve, postai úton, meghatalmazott eljárása esetén – az adatszolgáltató választása szerint – postai vagy elektronikus úton a Hivatal részére megküldi. Az adatlap tartalmában bekövetkező változást az adatszolgáltató 8 napon belül küldi meg a Hivatal részére.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
