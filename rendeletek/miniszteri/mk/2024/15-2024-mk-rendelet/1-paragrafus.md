@@ -1,0 +1,3 @@
+1. § A fejezeti és központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 17/2022. (XII. 1.) MK rendelet (a továbbiakban: Rendelet) 55. §-a a következő (12) bekezdéssel egészül ki:
+
+„(12) E rendeletnek a fejezeti és központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 17/2022. (XII. 1.) MK rendelet Digitális Magyarország Ügynökség Zrt. tulajdonosi joggyakorlásával kapcsolatos címrendi kiegészítéssel összefüggő módosításáról szóló 15/2024. (XII. 2.) MK rendelettel (a továbbiakban: Módr8.) megállapított 2. § (2) bekezdését, 5. § (2) bekezdés d) pontját és 1. mellékletében foglalt táblázat 24. sorát a Módr8. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.”
