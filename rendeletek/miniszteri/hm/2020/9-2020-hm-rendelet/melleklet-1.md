@@ -32,17 +32,17 @@ A 2. § (1) bekezdése szerinti nemzetbiztonsági ellenőrzés alá eső személ
 
 2.6. olyan külföldi szolgálat teljesítése, amely esetében a fogadó fél személyi biztonsági tanúsítvány meglétét igényli.
 
-3. A Magyar Honvédség Parancsnoksága (a továbbiakban: MHP):
+3.[^4] A Honvéd Vezérkar (a továbbiakban: HVK):
 
-3.1. a Magyar Honvédség Parancsnokának (a továbbiakban: MH PK) és az MH PK helyettesének tevékenységét közvetlenül segítő szervezeti egység vezetője, valamint a vezető helyettesítését ellátó beosztás,
+3.1.[^5] a Honvéd Vezérkar Főnökének (a továbbiakban: HVKF) és a HVKF helyettesének tevékenységét közvetlenül segítő szervezeti egység vezetője, valamint a vezető helyettesítését ellátó beosztás,
 
-3.2. a törzsfőnök, a törzsfőnök műveleti helyettese, a törzsfőnök támogató helyettese tevékenységét közvetlenül segítő szervezeti egység vezetője, valamint a vezető helyettesítését ellátó beosztás,
+3.2.[^6] a törzsigazgató, törzsigazgató műveleti helyettese tevékenységét közvetlenül segítő szervezeti egység vezetője, valamint a vezető helyettesítését ellátó beosztás,
 
 3.3. a Magyar Honvédség (a továbbiakban: MH) vezénylő zászlósa és az MH vezénylő zászlósa tevékenységét közvetlenül segítő beosztás,
 
-3.4. a haderőnemi szemlélőség irodavezetője, továbbá az irodavezető helyettesítését ellátó beosztás,
+3.4.[^7]
 
-3.5. az MH PK közvetlen alárendeltségébe tartozó szervezeti egységek vezetői, valamint a vezető helyettesítését ellátó beosztás,
+3.5.[^8] a HVKF közvetlen alárendeltségébe tartozó szervezeti egységek vezetői, valamint a vezető helyettesítését ellátó beosztás,
 
 3.6. a csoportfőnök helyettesítésére jogosult csoportfőnök-helyettes,
 
@@ -58,7 +58,9 @@ A 2. § (1) bekezdése szerinti nemzetbiztonsági ellenőrzés alá eső személ
 
 3.12. az MH Művelet Vezetési Rendszerében vezetési, irányítási, művelet-tervezési feladatokat ellátó stratégiai és hadműveleti-harcászati szintű, országos illetékességgel rendelkező ügyeleti és készenléti szolgálati, valamint a központi ügyeleti beosztás.
 
-4. Az MHP alárendeltségébe tartozó honvédségi szervezetek:
+3.13.[^9] a katonai igazgatási feladatok ellátásával kapcsolatos beosztás.
+
+4.[^10] A HVK alárendeltségébe tartozó honvédségi szervezetek:
 
 4.1. a szervezet parancsnoka, parancsnok-helyettese és törzsfőnöke,
 
@@ -75,3 +77,14 @@ A 2. § (1) bekezdése szerinti nemzetbiztonsági ellenőrzés alá eső személ
 4.7. az állandó személyi védelemben részesülő állami vezetők állami légi járművel történő szállításában közvetlenül részt vevő gépszemélyzeti beosztás,
 
 4.8. olyan külföldi szolgálat teljesítése, amely esetében a fogadó fél igényli a személyi biztonsági tanúsítvány meglétét.
+
+4.9.[^11] a katonai igazgatási feladatok ellátásával kapcsolatos beosztás.
+
+[^4]: Az 1. melléklet 3. pontja a 25/2024. (XII. 2.) HM rendelet 8. § a) pontja szerint módosított szöveg.
+[^5]: Az 1. melléklet 3.1. pontja a 25/2024. (XII. 2.) HM rendelet 8. § b) pontja szerint módosított szöveg.
+[^6]: Az 1. melléklet 3.2. pontja a 25/2024. (XII. 2.) HM rendelet 8. § c) pontja szerint módosított szöveg.
+[^7]: Az 1. melléklet 3.4. pontját a 25/2024. (XII. 2.) HM rendelet 9. §-a hatályon kívül helyezte.
+[^8]: Az 1. melléklet 3.5. pontja a 25/2024. (XII. 2.) HM rendelet 8. § d) pontja szerint módosított szöveg.
+[^9]: Az 1. melléklet 3.13. pontját a 25/2024. (XII. 2.) HM rendelet 7. §-a iktatta be.
+[^10]: Az 1. melléklet 4. pontja a 25/2024. (XII. 2.) HM rendelet 8. § e) pontja szerint módosított szöveg.
+[^11]: Az 1. melléklet 4.9. pontját a 25/2024. (XII. 2.) HM rendelet 7. §-a iktatta be.

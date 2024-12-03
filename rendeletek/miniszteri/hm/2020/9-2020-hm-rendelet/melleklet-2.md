@@ -40,7 +40,7 @@ A 2. § (2) bekezdése szerinti nemzetbiztonsági ellenőrzés alá eső személ
 
 2.5. az államháztartási belső ellenőrzési feladatokat ellátó munkakör.
 
-3. Az MHP:
+3.[^12] A HVK:
 
 3.1. a kommunikációval, nemzetközi együttműködéssel, a társadalmi nyilvánossággal és a társadalmi kapcsolatokkal kapcsolatos feladatokat ellátó szervezeti egység beosztása,
 
@@ -70,7 +70,7 @@ A 2. § (2) bekezdése szerinti nemzetbiztonsági ellenőrzés alá eső személ
 
 3.14. a felsőszintű kiképzési feladatokat tervező és irányító szervezeti egység beosztása.
 
-4. Az MHP alárendeltségébe tartozó honvédségi szervezetek:
+4.[^13] A HVK alárendeltségébe tartozó honvédségi szervezetek:
 
 4.1. az MH katonai szervezet ügyeleti szolgálatának beosztása,
 
@@ -97,3 +97,6 @@ A 2. § (2) bekezdése szerinti nemzetbiztonsági ellenőrzés alá eső személ
 4.12. az MH vitéz Szurmay Sándor Budapest Helyőrség Dandár 32. Nemzeti Honvéd Díszegység főtiszti, tiszti és zászlósi rendfokozati csoportba tartozó beosztása,
 
 4.13. az MH Altiszti Akadémia oktatási tevékenységet folytató állománya, továbbá a honvéd tisztjelölt és a honvéd altiszt-jelölt.
+
+[^12]: A 2. melléklet 3. pontja a 25/2024. (XII. 2.) HM rendelet 8. § e) pontja szerint módosított szöveg.
+[^13]: A 2. melléklet 4. pontja a 25/2024. (XII. 2.) HM rendelet 8. § e) pontja szerint módosított szöveg.

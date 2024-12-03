@@ -1,5 +1,5 @@
 ## 5. § Ez a rendelet a kihirdetését követő 15. napon lép hatályba.
 
-6. §[^2]
+6. §[^3]
 
-[^2]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
