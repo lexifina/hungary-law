@@ -34,7 +34,7 @@ Fegyelmi jogkörök gyakorlása
 
 | – főtiszt, tiszt, zászlós, altiszt |  | X |  |
 
-| – tisztes[^5] |  |  | X |
+| – tisztes[^6] |  |  | X |
 
 | 1.8. Lefokozás |  |  |  |
 
@@ -58,7 +58,7 @@ Fegyelmi jogkörök gyakorlása
 
 | – főtiszt, tiszt, zászlós, altiszt |  | X |  |
 
-| – tisztes[^6] |  |  | X |
+| – tisztes[^7] |  |  | X |
 
-[^5]: Az 1. mellékletben foglalt táblázat B:17 mezője a 19/2024. (IX. 19.) HM rendelet 35. §-a szerint módosított szöveg.
-[^6]: Az 1. mellékletben foglalt táblázat B:29 mezője a 19/2024. (IX. 19.) HM rendelet 35. §-a szerint módosított szöveg.
+[^6]: Az 1. mellékletben foglalt táblázat B:17 mezője a 19/2024. (IX. 19.) HM rendelet 35. §-a szerint módosított szöveg.
+[^7]: Az 1. mellékletben foglalt táblázat B:29 mezője a 19/2024. (IX. 19.) HM rendelet 35. §-a szerint módosított szöveg.

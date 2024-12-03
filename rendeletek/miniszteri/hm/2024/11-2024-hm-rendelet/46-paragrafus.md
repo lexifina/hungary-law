@@ -1,6 +1,6 @@
 46. § (1) A méltatlansági eljárás méltatlansági vizsgálatból és a méltatlansági bizottság eljárásából áll, és a méltatlansági jogkört gyakorló döntésének jogerőssé válásáig tart.
 
-(2)[^3] A méltatlansági jogkört gyakorló a méltatlanság megállapítását megalapozó cselekményről való tudomásszerzés esetén elrendeli a méltatlansági eljárást, és a méltatlansági vizsgálat lefolytatására vizsgálót jelöl ki a jogi és igazgatási szolgálat tagjai közül. Rendkívül indokolt esetben a méltatlansági vizsgálat lefolytatására honvédelmi alkalmazott is kijelölhető
+(2)[^4] A méltatlansági jogkört gyakorló a méltatlanság megállapítását megalapozó cselekményről való tudomásszerzés esetén elrendeli a méltatlansági eljárást, és a méltatlansági vizsgálat lefolytatására vizsgálót jelöl ki a jogi és igazgatási szolgálat tagjai közül. Rendkívül indokolt esetben a méltatlansági vizsgálat lefolytatására honvédelmi alkalmazott is kijelölhető
 
 (3) A méltatlansági vizsgálatot 30 napon belül be kell fejezni. A méltatlansági vizsgálat az elrendelő határozat vizsgáló által történt átvételével kezdődik, és az összefoglaló jelentés méltatlansági jogkört gyakorló részére történő felterjesztésével fejeződik be.
 
@@ -16,4 +16,4 @@ c) javaslatot tesz a méltatlanság megállapítása érdekében a méltatlansá
 
 (6) A vizsgáló a vizsgálati iratokat és az összefoglaló jelentést felterjeszti a méltatlansági jogkört gyakorlónak.
 
-[^3]: A 46. § (2) bekezdése a 19/2024. (IX. 19.) HM rendelet 34. § c) pontja szerint módosított szöveg.
+[^4]: A 46. § (2) bekezdése a 19/2024. (IX. 19.) HM rendelet 34. § c) pontja szerint módosított szöveg.
