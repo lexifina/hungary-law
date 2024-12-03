@@ -1,0 +1,1 @@
+3. § A képző a mikrotanúsítvány kiállításához kapcsolódóan – az Fktv. 13/C. § (2b) és (4) bekezdésében foglalt előírásoknak való megfelelés érdekében – a felnőttképzési adatszolgáltatási rendszerben a 2. melléklet szerinti tartalommal szolgáltat adatot.

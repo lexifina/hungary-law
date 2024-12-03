@@ -1,0 +1,1 @@
+5. § A felnőttképző e rendelet rendelkezései szerint jár el, ha a képzés elvégzését igazoló, az Fktv. 11. § (2) bekezdés c) pontja szerinti tanúsítványt e rendelet hatálybalépését követően állítja ki.
