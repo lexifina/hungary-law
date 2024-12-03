@@ -1,4 +1,4 @@
-## 14.[^93] A kultúrát és a kulturális örökség megőrzését előmozdító támogatás
+## 14.[^101] A kultúrát és a kulturális örökség megőrzését előmozdító támogatás
 
 22. § (1) A kultúrát és a kulturális örökség megőrzését előmozdító támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás)
 
@@ -6,7 +6,7 @@ a) beruházási támogatásként, ideértve az infrastruktúra építését, bő
 
 b) zenei és irodalmi alkotások kiadásához nyújtott támogatásként
 
-c)[^94] működési támogatásként
+c)[^102] működési támogatásként
 
 nyújtható.
 
@@ -24,5 +24,5 @@ e) kulturális és művészeti oktatási tevékenység, a kulturális kifejezés
 
 f) zenei és irodalmi alkotások írása, szerkesztése, gyártása, terjesztése, digitalizálása, kiadása és fordítása.
 
-[^93]: A 14. alcím (22-25. §) a 30/2023. (XII. 27.) MK rendelet 8. §-ával megállapított szöveg.
-[^94]: A 22. § (1) bekezdés c) pontját a 4/2024. (VI. 14.) MK rendelet 5. §-a iktatta be.
+[^101]: A 14. alcím (22-25. §) a 30/2023. (XII. 27.) MK rendelet 8. §-ával megállapított szöveg.
+[^102]: A 22. § (1) bekezdés c) pontját a 4/2024. (VI. 14.) MK rendelet 5. §-a iktatta be.

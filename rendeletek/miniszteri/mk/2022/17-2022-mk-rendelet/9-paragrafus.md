@@ -1,4 +1,4 @@
-## 4.[^81] Helyhez kötött széles sávú infrastruktúra kiépítéséhez nyújtott támogatás
+## 4.[^89] Helyhez kötött széles sávú infrastruktúra kiépítéséhez nyújtott támogatás
 
 9. § (1) A helyhez között széles sávú infrastruktúra kiépítéséhez nyújtott támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) azokon a területeken nyújtható, ahol
 
@@ -22,9 +22,9 @@ b) vezeték nélküli hálózatok esetében a csatlakoztatható helyszínek cím
 
 kell elvégezni.
 
-(7)[^82] A (4) bekezdéstől eltérően, ha egy hálózat kiépítése egyidejűleg magában foglalja egy hozzáférési hálózat kiépítését és annak működéséhez szükséges kiegészítő felhordó hálózat korlátozott mértékű kiépítését, a felhordó hálózatok földrajzi felmérése nem szükséges.
+(7)[^90] A (4) bekezdéstől eltérően, ha egy hálózat kiépítése egyidejűleg magában foglalja egy hozzáférési hálózat kiépítését és annak működéséhez szükséges kiegészítő felhordó hálózat korlátozott mértékű kiépítését, a felhordó hálózatok földrajzi felmérése nem szükséges.
 
 (8) Az (5) bekezdésben foglalt eredmények ellenőrzésére a 651/2014/EU bizottsági rendelet 52. cikk (5) bekezdés b) pontja szerinti hatóság nyilvános konzultációt folytat le, amelynek keretében nyilvánosan elérhető honlapon közzéteszi a tervezett állami intézkedést és a (4) bekezdés szerinti földrajzi felmérés részletes adatait. A 651/2014/EU bizottsági rendelet 52. cikk (5) bekezdés b) pontja szerinti hatóság a közzétételtől számított legalább 30 napig tartó konzultáció keretében biztosítja, hogy a tervezett állami intézkedést az érdekelt felek észrevételezzék, és információt adhassanak az (1) bekezdés szerinti letöltési sebességgel bíró már meglévő vagy a releváns időtávban hitelt érdemlően kiépíteni tervezett hálózataikról.
 
-[^81]: A 4. alcím (9-10. §) a 30/2023. (XII. 27.) MK rendelet 3. §-ával megállapított szöveg.
-[^82]: A 9. § (7) bekezdése a 4/2024. (VI. 14.) MK rendelet 14. § g) pontja szerint módosított szöveg.
+[^89]: A 4. alcím (9-10. §) a 30/2023. (XII. 27.) MK rendelet 3. §-ával megállapított szöveg.
+[^90]: A 9. § (7) bekezdése a 4/2024. (VI. 14.) MK rendelet 14. § g) pontja szerint módosított szöveg.

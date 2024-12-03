@@ -1,4 +1,4 @@
-## 21.[^104] A csekély összegű közszolgáltatási támogatás
+## 21.[^112] A csekély összegű közszolgáltatási támogatás
 
 34. § (1) A közszolgáltatás ellátásával megbízott kedvezményezett és a vele egy és ugyanazon vállalkozásnak minősülő vállalkozások részére az (EU) 2023/2832 bizottsági rendelet hatálya alá tartozó, bármely három év során Magyarországon odaítélt csekély összegű közszolgáltatási támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) bruttó támogatástartalma nem haladhatja meg a 750 000 eurónak megfelelő forintösszeget, figyelembe véve az (EU) 2023/2832 bizottsági rendelet 3. cikk (8) és (9) bekezdését.
 
@@ -14,4 +14,4 @@
 
 (7) A támogatás nem halmozható ugyanazon közszolgáltatáshoz kapcsolódó más ellentételezéssel, függetlenül attól, hogy ez az ellentételezés uniós versenyjogi értelemben vett állami támogatásnak minősül-e.
 
-[^104]: A 21. alcím (34. §) a 4/2024. (VI. 14.) MK rendelet 9. §-ával megállapított szöveg.
+[^112]: A 21. alcím (34. §) a 4/2024. (VI. 14.) MK rendelet 9. §-ával megállapított szöveg.
