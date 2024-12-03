@@ -1,5 +1,5 @@
-## 24/B. §[^135] A kérelemben szereplő igények visszaigazolását a beutaló tartalmazza. A kérelmen szereplő nem igényjogosultra vonatkozó igények csak az igényjogosult által történő igénybevételt követően fennmaradó szabad férőhely terhére biztosíthatók. A beutalón nem szereplő személyek fogadására még szabad férőhely terhére sincs lehetőség.
+## 24/B. §[^136] A kérelemben szereplő igények visszaigazolását a beutaló tartalmazza. A kérelmen szereplő nem igényjogosultra vonatkozó igények csak az igényjogosult által történő igénybevételt követően fennmaradó szabad férőhely terhére biztosíthatók. A beutalón nem szereplő személyek fogadására még szabad férőhely terhére sincs lehetőség.
 
 ## 13. Záró rendelkezések
 
-[^135]: A 24/B. §-t a 19/2018. (XII. 20.) HM rendelet 12. §-a iktatta be.
+[^136]: A 24/B. §-t a 19/2018. (XII. 20.) HM rendelet 12. §-a iktatta be.

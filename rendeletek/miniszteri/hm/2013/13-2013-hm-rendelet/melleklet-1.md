@@ -1,4 +1,4 @@
-1. melléklet a 13/2013. (VIII. 21.) HM rendelethez[^141]
+1. melléklet a 13/2013. (VIII. 21.) HM rendelethez[^142]
 
 1. Igényjogosulti térítési díjak az MH regenerálódást segítő és rekreációt végző szervezetében
 
@@ -132,4 +132,4 @@
 
 | 2 | Gyermektábor | 6 187 |
 
-[^141]: Az 1. melléklet a 19/2024. (IX. 19.) HM rendelet 16. §-ával megállapított szöveg.
+[^142]: Az 1. melléklet a 19/2024. (IX. 19.) HM rendelet 16. §-ával megállapított szöveg.

@@ -6,7 +6,7 @@
 
 | 3. | Nemzetközi – CLIMS – csoportos csereüdülés | 9000+utazási költség |
 
-3. melléklet a 13/2013. (VIII. 21.) HM rendelethez[^142]
+3. melléklet a 13/2013. (VIII. 21.) HM rendelethez[^143]
 
 |  | A | B | C |
 
@@ -22,4 +22,4 @@
 
 | 6. | 425 001 Ft felett | 100% | „E” |
 
-[^142]: A 3. mellékletet az 5/2019. (IV. 11.) HM rendelet 8. § (2) bekezdése iktatta be.
+[^143]: A 3. mellékletet az 5/2019. (IV. 11.) HM rendelet 8. § (2) bekezdése iktatta be.
