@@ -1,8 +1,8 @@
 ## HARMADIK RÉSZ
 
-## A HONVÉD VEZÉRKAR FŐNÖKE ÁLTAL ALAPÍTHATÓ ÉS ADOMÁNYOZHATÓ ELISMERÉSEK[^51]
+## A HONVÉD VEZÉRKAR FŐNÖKE ÁLTAL ALAPÍTHATÓ ÉS ADOMÁNYOZHATÓ ELISMERÉSEK[^53]
 
-## VIII/A. Fejezet[^52]
+## VIII/A. Fejezet[^54]
 
 ## AZ ÉRDEMJELEK
 
@@ -28,5 +28,5 @@ c) bronz fokozatban legfeljebb 50 fő
 
 részére adományozható.
 
-[^51]: A Harmadik rész címe a 20/2018. (XII. 28.) HM rendelet 89. § h) pontja, a 30/2023. (XII. 27.) HM rendelet 1. § e) pontja szerint módosított szöveg.
-[^52]: A VIII/A. fejezetet (38/A–38/C. §) a 20/2018. (XII. 28.) HM rendelet 85. §-a iktatta be.
+[^53]: A Harmadik rész címe a 20/2018. (XII. 28.) HM rendelet 89. § h) pontja, a 30/2023. (XII. 27.) HM rendelet 1. § e) pontja szerint módosított szöveg.
+[^54]: A VIII/A. fejezetet (38/A–38/C. §) a 20/2018. (XII. 28.) HM rendelet 85. §-a iktatta be.

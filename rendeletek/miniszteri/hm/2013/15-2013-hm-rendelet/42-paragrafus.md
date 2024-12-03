@@ -2,7 +2,7 @@
 
 ## 34. Emléktárgyak
 
-42. §[^55] (1) Emléktárgy adományozható kiemelt feladat, gyakorlat végrehajtása során nyújtott kiemelkedő teljesítményért, különleges helytállásért, huzamos időn át példamutatóan ellátott szolgálatteljesítésért, jeles nap alkalmából.
+42. §[^57] (1) Emléktárgy adományozható kiemelt feladat, gyakorlat végrehajtása során nyújtott kiemelkedő teljesítményért, különleges helytállásért, huzamos időn át példamutatóan ellátott szolgálatteljesítésért, jeles nap alkalmából.
 
 (2) Az altiszt-avatás alkalmából egy fő, kiváló eredménnyel végzett honvéd altiszt-jelöltnek Avatási Szablya adományozható.
 
@@ -10,4 +10,4 @@
 
 (4) Évente, a tanulmányai során tanúsított példás magatartásáért, kiemelkedő tanulmányi eredményéért, helytállásáért és bátorságáért, illetve a magas színvonalú oktatói és kutatói tevékenységéért, a katonai felsőoktatás jó hírnevének megőrzése és növelése érdekében végzett munkája elismeréseként Ludovika Gyűrű adományozható két fő honvéd tisztjelöltnek és egy fő katonai felsőoktatásban tevékenykedő oktatónak.
 
-[^55]: A 42. § a 20/2018. (XII. 28.) HM rendelet 87. §-ával megállapított szöveg.
+[^57]: A 42. § a 20/2018. (XII. 28.) HM rendelet 87. §-ával megállapított szöveg.

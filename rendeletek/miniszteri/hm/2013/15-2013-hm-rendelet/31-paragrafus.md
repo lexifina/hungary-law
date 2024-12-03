@@ -2,7 +2,7 @@
 
 31. § (1) A díjak odaítélésére személyi javaslatot tehetnek
 
-a)[^41] a Honvédelmi Minisztérium állami vezetői, a Honvéd Vezérkar főnöke, a főosztályvezetők, csoportfőnökök, a Honvédség vezénylő zászlós,
+a)[^43] a Honvédelmi Minisztérium állami vezetői, a Honvéd Vezérkar főnöke, a főosztályvezetők, csoportfőnökök, a Honvédség vezénylő zászlós,
 
 b) a Honvédség középszintű vezető szervének parancsnoka,
 
@@ -24,10 +24,10 @@ d) hozzájárult a Honvédség társadalmi elismertségének javításához, a h
 
 e) tevékenységével jelentősen hozzájárult Magyarország nemzetbiztonságának védelméhez.
 
-(3)[^42] A díjak odaítélésére vonatkozó személyi javaslatokat a díjakra jogosító tevékenység részletes leírásával évenként, legkésőbb október 30-ig kell megküldeni az azokat véleményező Honvédelmi Minisztérium Díjadományozást Véleményező Munkacsoport (a továbbiakban: HM DVMCS) részére.
+(3)[^44] A díjak odaítélésére vonatkozó személyi javaslatokat a díjakra jogosító tevékenység részletes leírásával évenként, legkésőbb október 30-ig kell megküldeni az azokat véleményező Honvédelmi Minisztérium Díjadományozást Véleményező Munkacsoport (a továbbiakban: HM DVMCS) részére.
 
-(4)[^43] A díjak adományozásáról a HM DVMCS javaslata alapján a miniszter dönt. A HM DVMCS összetételét, tagjainak számát és működését a miniszter utasításban szabályozza.
+(4)[^45] A díjak adományozásáról a HM DVMCS javaslata alapján a miniszter dönt. A HM DVMCS összetételét, tagjainak számát és működését a miniszter utasításban szabályozza.
 
-[^41]: A 31. § (1) bekezdés a) pontja a 20/2018. (XII. 28.) HM rendelet 89. § b) pontja, a 30/2023. (XII. 27.) HM rendelet 1. § a) pontja szerint módosított szöveg.
-[^42]: A 31. § (3) bekezdése a 14/2015. (XII. 17.) HM rendelet 5. §-ával megállapított szöveg.
-[^43]: A 31. § (4) bekezdése a 14/2015. (XII. 17.) HM rendelet 5. §-ával megállapított szöveg.
+[^43]: A 31. § (1) bekezdés a) pontja a 20/2018. (XII. 28.) HM rendelet 89. § b) pontja, a 30/2023. (XII. 27.) HM rendelet 1. § a) pontja szerint módosított szöveg.
+[^44]: A 31. § (3) bekezdése a 14/2015. (XII. 17.) HM rendelet 5. §-ával megállapított szöveg.
+[^45]: A 31. § (4) bekezdése a 14/2015. (XII. 17.) HM rendelet 5. §-ával megállapított szöveg.

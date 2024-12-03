@@ -4,7 +4,7 @@
 
 (2) A személyi állomány tagjának nem minősülő személy elismerésére vonatkozó javaslatot a felterjesztő a HM TVMCS elnöke részére küldi meg a 8. melléklet szerinti javaslati lapon, amelyhez csatolni kell a 9. melléklet szerinti személyes adatok kezeléséhez történő hozzájáruló nyilatkozatot.
 
-(3) A (2) bekezdéstől eltérően a nyugállományú katona elismerésére vonatkozó javaslatot az adományozás tervezett időpontját megelőzően 120 nappal a Honvédség katonai igazgatási és központi adatfeldolgozó szervezetének útján a Honvédség központi személyügyi szervéhez a 8. melléklet szerinti javaslati lapon kell felterjeszteni.
+(3)[^36] A (2) bekezdéstől eltérően a nyugállományú katona elismerésére vonatkozó javaslatot az adományozás tervezett időpontját megelőzően 150 nappal a Honvédség területileg illetékes katonai igazgatási szervéhez kell benyújtani. A nyugállományú katona elismerésére vonatkozó javaslatot az adományozás tervezett időpontját megelőzően 100 nappal a Honvédség központi személyügyi szervéhez a 8. melléklet szerinti javaslati lapon kell felterjeszteni a Honvédség központi katonai igazgatási szervének vezetője útján.
 
 (4) A (2) és a (3) bekezdés szerinti javaslatnak az átadás tervezett időpontját megelőző 60. napig meg kell érkeznie a HM TVMCS elnökéhez.
 
@@ -12,3 +12,4 @@
 
 [^34]: A 27. § a 17/2020. (XII. 12.) HM rendelet 18. §-a szerint módosított szöveg.
 [^35]: A 28. § a 14/2015. (XII. 17.) HM rendelet 3. §-ával megállapított szöveg.
+[^36]: A 28. § (3) bekezdése a 25/2024. (XII. 2.) HM rendelet 5. §-ával megállapított szöveg.
