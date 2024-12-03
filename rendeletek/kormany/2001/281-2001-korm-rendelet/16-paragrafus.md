@@ -1,4 +1,4 @@
-16. § (1)[^31] A pénztár befektetési politikáját az igazgatótanács alakítja ki és fogadja el. A befektetési politika kötelező tartalmi elemei a következők:
+16. § (1)[^32] A pénztár befektetési politikáját az igazgatótanács alakítja ki és fogadja el. A befektetési politika kötelező tartalmi elemei a következők:
 
 a) a pénztári vagyon – ideértve saját járadékot folyósító pénztár esetén a szolgáltatási tartalékot is – befektetésének célja, alapelvei, a befektetési politikában érvényre juttatandó pénztártagi és pénztári érdekek, ingatlanbefektetéssel rendelkező pénztár esetén az ingatlanokkal kapcsolatos pénztári stratégia meghatározása,
 
@@ -10,7 +10,7 @@ d) a befektetési tevékenység végrehajtásában a pénztár tisztségviselői
 
 e) a pénztár befektetéssel foglalkozó alkalmazottai, a letétkezelő, a vagyonkezelő (vagyonkezelők) kiválasztásának, tevékenysége értékelésének, díjazásának az a) pontban foglaltakhoz igazodó irányelvei.
 
-f)[^32] a befektetett eszközök értékelése során alkalmazott, a letétkezelővel közösen kialakított alapelvek, illetve az alkalmazott módszertan leírása (a továbbiakban: eszközértékelési szabályzat).
+f)[^33] a befektetett eszközök értékelése során alkalmazott, a letétkezelővel közösen kialakított alapelvek, illetve az alkalmazott módszertan leírása (a továbbiakban: eszközértékelési szabályzat).
 
 (2) A pénztár befektetési politikája az eszközcsoportokból portfolió osztályokat alkothat, és ezekre korlátozásokat is felállíthat.
 
@@ -20,15 +20,15 @@ f)[^32] a befektetett eszközök értékelése során alkalmazott, a letétkezel
 
 (5) A befektetési politikát megvalósító személyek/megbízottak részére a befektetési politika rájuk vonatkozó részét vagyonkezelési irányelvekbe kell foglalni. A vagyonkezelési irányelvek kötelező tartalmi eleme a kezelt portfolió vonatkozásában megengedett befektetési eszközök portfolión belüli minimum és maximum arányai és a kezelt portfolióra vonatkozó referencia indexek meghatározása.
 
-(6)[^33] A vagyonkezelési irányelvek esetében referencia index alatt értendő a kezelt portfólió jellemző összetételét tükröző tőkepiaci index vagy több tőkepiaci index kombinációja, melynek adott időszak alatti változása összehasonlítható a kezelt portfólió adott időszak alatti, az adott portfólióval kapcsolatos pénzáramlást figyelembe vevő vagyonkezelői hozamrátával. A vagyonkezelési irányelvekben foglalt referencia indexeknek összességében összhangban kell állniuk a pénztárszintű befektetési politika referencia indexével.
+(6)[^34] A vagyonkezelési irányelvek esetében referencia index alatt értendő a kezelt portfólió jellemző összetételét tükröző tőkepiaci index vagy több tőkepiaci index kombinációja, melynek adott időszak alatti változása összehasonlítható a kezelt portfólió adott időszak alatti, az adott portfólióval kapcsolatos pénzáramlást figyelembe vevő vagyonkezelői hozamrátával. A vagyonkezelési irányelvekben foglalt referencia indexeknek összességében összhangban kell állniuk a pénztárszintű befektetési politika referencia indexével.
 
-(7)[^34] A befektetési politikát a pénztár a tevékenységi engedély véglegessé válását követő 180 napon belül egy alkalommal köteles – az annak elfogadását követő 15 napon belül – a Felügyelethez benyújtani. A pénztár ugyancsak köteles az alapszabálynak – a saját járadékszolgáltatás lehetőségét tartalmazó – módosítását követő 15 napon belül, a szolgáltatási tartalék eszközeinek befektetésére vonatkozó rendelkezésekkel kiegészített befektetési politikát a Felügyelet részére megküldeni. A Felügyelet megvizsgálja, hogy a benyújtott befektetési politika megfelel-e a vonatkozó jogszabályi előírásoknak.
+(7)[^35] A befektetési politikát a pénztár a tevékenységi engedély véglegessé válását követő 180 napon belül egy alkalommal köteles – az annak elfogadását követő 15 napon belül – a Felügyelethez benyújtani. A pénztár ugyancsak köteles az alapszabálynak – a saját járadékszolgáltatás lehetőségét tartalmazó – módosítását követő 15 napon belül, a szolgáltatási tartalék eszközeinek befektetésére vonatkozó rendelkezésekkel kiegészített befektetési politikát a Felügyelet részére megküldeni. A Felügyelet megvizsgálja, hogy a benyújtott befektetési politika megfelel-e a vonatkozó jogszabályi előírásoknak.
 
 (8) Az igazgatótanács legalább évente köteles döntést hozni a befektetési politika fenntartása vagy módosítása kérdésében. A meghozott döntésről az igazgatótanács legkésőbb a pénztár közgyűlésének soron következő ülésén ad tájékoztatást.
 
 (9) A pénztár az éves beszámoló kiegészítő mellékletében köteles beszámolni a tárgyévre vonatkozó befektetési politikáról, annak teljesítéséről, illetve a befektetési politikával kapcsolatos jövőbeni elképzeléseiről.
 
-(10)[^35] A pénztár aktuális befektetési politikáját
+(10)[^36] A pénztár aktuális befektetési politikáját
 
 a) a pénztárba belépni kívánó magánszeméllyel meg kell ismertetni,
 
@@ -36,11 +36,11 @@ b) a pénztártaggal kérésére, a pénztár alapszabályában szabályozott m�
 
 c) a (8) bekezdés szerinti döntést követő 8 munkanapon belül a Felügyelet által üzemeltetett közzétételi helyen közzé kell tenni.
 
-(11)[^36] A pénztár befektetett eszközeinek összetételét a pénzügyi tervben rögzített pénzmozgások figyelembevételével kell meghatározni.
+(11)[^37] A pénztár befektetett eszközeinek összetételét a pénzügyi tervben rögzített pénzmozgások figyelembevételével kell meghatározni.
 
-[^31]: A 16. § (1) bekezdése a 470/2015. (XII. 29.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^32]: A 16. § (1) bekezdés f) pontját a 684/2023. (XII. 29.) Korm. rendelet 3. §-a iktatta be.
-[^33]: A 16. § (6) bekezdése a 470/2015. (XII. 29.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^34]: A 16. § (7) bekezdése a 470/2015. (XII. 29.) Korm. rendelet 11. § (2) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 101. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^35]: A 16. § (10) bekezdése a 470/2015. (XII. 29.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg.
-[^36]: A 16. § (11) bekezdését a 302/2002. (XII. 27.) Korm. rendelet 2. §-a iktatta a szövegbe.
+[^32]: A 16. § (1) bekezdése a 470/2015. (XII. 29.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^33]: A 16. § (1) bekezdés f) pontját a 684/2023. (XII. 29.) Korm. rendelet 3. §-a iktatta be.
+[^34]: A 16. § (6) bekezdése a 470/2015. (XII. 29.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^35]: A 16. § (7) bekezdése a 470/2015. (XII. 29.) Korm. rendelet 11. § (2) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 101. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^36]: A 16. § (10) bekezdése a 470/2015. (XII. 29.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg.
+[^37]: A 16. § (11) bekezdését a 302/2002. (XII. 27.) Korm. rendelet 2. §-a iktatta a szövegbe.
