@@ -1,4 +1,4 @@
-## 5/A.[^16] A hozzátartozó részére kiállítható kivonat
+## 5/A.[^34] A hozzátartozó részére kiállítható kivonat
 
 9/A. § (1) A Küfetv. 2. § (2) bekezdésében meghatározott hozzátartozó részére a Küfetv. 5. § (6) bekezdése alapján kiállítandó hitelesített kivonat A/4 méretű okirat, amely két nyelven, magyarul és angolul tartalmazza az alábbi adatokat:
 
@@ -42,4 +42,4 @@ i) utalást az adatlap kiállításának törvényi alapjára.
 
 (2) A kivonatot legalább egy példányban, legfeljebb annyi példányban kell kiállítani, amennyit az igénylő – annak szükségessége okszerű megjelölésével – igényel. A kivonatot térítésmentesen kell kiállítani.
 
-[^16]: Az 5/A. alcímet (9/A. §-t) a 14/2013. (VIII. 22.) HM rendelet 7. §-a iktatta be.
+[^34]: Az 5/A. alcímet (9/A. §-t) a 14/2013. (VIII. 22.) HM rendelet 7. §-a iktatta be.

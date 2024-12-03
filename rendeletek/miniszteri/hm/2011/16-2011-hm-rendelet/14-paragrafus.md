@@ -18,6 +18,6 @@ e) 1. mellékletében foglalt adatlap 5. pontjában a „Subject to be discussed
 
 f) 1. mellékletében foglalt adatlap 8. pontjában a „HM Nemzetközi Együttműködési és Fegyverzet-ellenőrzési Hivatal” szövegrész helyébe a „Honvédelmi Minisztérium Nemzetközi Együttműködési Főosztály”
 
-## szövegrész lép.
+szövegrész lép.
 
 (4) Az R. 1. § (2) bekezdése hatályát veszti.
