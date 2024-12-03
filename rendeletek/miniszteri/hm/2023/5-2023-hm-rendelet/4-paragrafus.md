@@ -1,1 +1,3 @@
-4. § A 3. § (1) bekezdés a) és b) pontja szerinti igazolvány első alkalommal az állományba vétel napját követően, a 3. § (1) bekezdés c) pontja szerinti okmány a nyugdíjas igazolványra való jogosultság elérését követően, a 3. § (2) bekezdése szerinti igazolvány első alkalommal a 3. § (2) bekezdésében meghatározott beosztásba helyezés napját követően kerül kiadásra.
+4. §[^9] A 3. § (1) bekezdés a) pontja szerinti igazolvány első alkalommal a honvéd első rendfokozatba történő kinevezését követően, a 3. § (1) bekezdés b) és c) pontja szerinti igazolvány az állományba vétel napját követően, a 3. § (1) bekezdés d) és e) pontja szerinti okmány (a továbbiakban együtt: nyugdíjas igazolvány) a nyugdíjas igazolványra való jogosultság elérését követően, a 3. § (2) bekezdése szerinti igazolvány első alkalommal a 3. § (2) bekezdésében meghatározott beosztásba helyezés napját követően kerül kiadásra.
+
+[^9]: A 4. § a 25/2024. (XII. 2.) HM rendelet 12. §-ával megállapított szöveg.

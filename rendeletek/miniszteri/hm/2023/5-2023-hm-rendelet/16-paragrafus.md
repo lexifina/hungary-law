@@ -8,4 +8,6 @@
 
 (5) Az azonosító okmány másra át nem ruházható, letétbe nem helyezhető, biztosítékul nem adható és nem fogadható el.
 
-(6) Az okmányellátásban részesülő személy a részére kiadott honvédelmi igazolványon feltüntetett érvényességi idő lejártáról köteles tájékoztatni az állományilletékes személyügyi szervet, a nyugállományú katona és a honvédségi nyugdíjas a lakóhelye szerinti illetékes katonai igazgatási szervet.
+(6)[^21]
+
+[^21]: A 16. § (6) bekezdését a 25/2024. (XII. 2.) HM rendelet 19. § g) pontja hatályon kívül helyezte.

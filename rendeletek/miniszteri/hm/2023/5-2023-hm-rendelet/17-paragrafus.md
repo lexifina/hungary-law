@@ -4,7 +4,7 @@ a) a jogviszony megszűnt vagy megváltozott, kivéve, ha a honvédelmi alkalmaz
 
 b) megrongálódott, azt meghamisították, illetve az azon lévő adat megváltozott,
 
-c) az Okmánykezelő Iroda visszavonta,
+c)[^22] az okmányellátásért felelős szerv visszavonta,
 
 d) az érvényességi ideje lejárt,
 
@@ -14,10 +14,7 @@ f) elvesztését, megsemmisülését vagy eltulajdonítását bejelentették, va
 
 g) megszűnt a használatára való jogosultság.
 
-(2) Az azonosító okmányokat a személyügyi szerv, valamint az illetékes katonai igazgatási szerv bevonja
+(2)[^23] Az azonosító okmányokat a személyügyi szerv vagy az illetékes területi katonai igazgatási szerv a 13. § (2) bekezdése szerinti esetekben bevonja.
 
-a) az érintett utolsó jogviszonyban vagy munkában töltött napján,
-
-b) okmánycsere esetén az új azonosító okmány egyidejű kiadásával vagy
-
-c) az azonosító okmány érvénytelenségét eredményező, az (1) bekezdésben meghatározott esetekben.
+[^22]: A 17. § (1) bekezdés c) pontja a 25/2024. (XII. 2.) HM rendelet 18. § b) pontja szerint módosított szöveg.
+[^23]: A 17. § (2) bekezdése a 25/2024. (XII. 2.) HM rendelet 15. §-ával megállapított szöveg.
