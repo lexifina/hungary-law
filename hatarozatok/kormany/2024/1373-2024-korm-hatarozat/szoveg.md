@@ -1,7 +1,11 @@
 A Kormány visszavonja
 
-1. a Magyarország Kormánya és Zalaegerszeg Megyei Jogú Város Önkormányzata közötti együttműködési megállapodás végrehajtásával összefüggő feladatokról szóló 1252/2015. (IV. 23.) Korm. határozat 1. pontját;
+1.[^2]
 
-2. a közúti infrastruktúra-fejlesztésekhez szükséges kötelezettségvállalásokról szóló 1503/2022. (X. 19.) Korm. határozat 1. mellékletében foglalt táblázat 6. sorát;
+2.[^3]
 
-3. a Zalaegerszeg–Zalaszentiván térségben megvalósuló konténerterminál közúti és vasúti bekötés előkészítésének módosításáról szóló 1599/2022. (XII. 1.) Korm. határozat 1. pont f) alpontját.
+3.[^4]
+
+[^2]: Az 1. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
