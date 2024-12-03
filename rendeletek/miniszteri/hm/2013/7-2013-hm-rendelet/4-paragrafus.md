@@ -10,13 +10,13 @@ c) a minősítésre jogosult parancsnok engedélyével lehetővé teszi szolgál
 
 d) a „Hősi halottá” nyilvánított elhunytak esetén emlékük megőrzésére sírjelet, síremléket állít, gondoskodik annak állagmegóvásáról, a temetési hely feletti rendelkezési jog meghosszabbításáról, és szükség esetén a maradványok másik temetési helyre történő áthelyezéséről,
 
-e)[^15] a „Honvédelmi Minisztérium saját halottjává” vagy a „Magyar Honvédség halottjává” nyilvánított elhunyt esetén emlékük megőrzésére sírjelet, síremléket állít, és a síremlékállításig, de legfeljebb a temetést követő 1 évig hozzájárul a temetési hely gondozásának költségeihez,
+e)[^18] a „Honvédelmi Minisztérium saját halottjává” vagy a „Magyar Honvédség halottjává” nyilvánított elhunyt esetén emlékük megőrzésére sírjelet, síremléket állít, és a síremlékállításig, de legfeljebb a temetést követő 1 évig hozzájárul a temetési hely gondozásának költségeihez,
 
-f)[^16] a „Hősi halottá”, a „Honvédelmi Minisztérium saját halottjává” és a „Magyar Honvédség halottjává” nyilvánított elhunyt esetén sírjel-, síremlékavatást és koszorúzást rendez, illetve az elhunyt érdemei alapján emléktáblát, emlékhelyet létesíthet,
+f)[^19] a „Hősi halottá”, a „Honvédelmi Minisztérium saját halottjává” és a „Magyar Honvédség halottjává” nyilvánított elhunyt esetén sírjel-, síremlékavatást és koszorúzást rendez, illetve az elhunyt érdemei alapján emléktáblát, emlékhelyet létesíthet,
 
-g)[^17] külföldi szolgálatteljesítés közben történő elhalálozás esetén megszervezi az elhunyt Magyarországra történő szállítását, fogadását és
+g)[^20] külföldi szolgálatteljesítés közben történő elhalálozás esetén megszervezi az elhunyt Magyarországra történő szállítását, fogadását és
 
-h)[^18] végrehajtja a nemzeti és állami ünnepek, katonatörténeti eseményekhez kapcsolódó ünnepi megemlékezést szolgáló kegyeleti koszorúzásokat.
+h)[^21] végrehajtja a nemzeti és állami ünnepek, katonatörténeti eseményekhez kapcsolódó ünnepi megemlékezést szolgáló kegyeleti koszorúzásokat.
 
 (2) Az (1) bekezdés e) pontja szerinti határidő leteltét követően
 
@@ -24,24 +24,26 @@ a) a temetési hely feletti rendelkezési jog átszáll az intézkedésre jogosu
 
 b) a Honvédséget a sírhely karbantartásával, gondozásával kapcsolatos kötelezettségek nem terhelik.
 
-(3) Kegyeleti minősítés esetén a honvéd temetésén az állományilletékes parancsnok, nyugállományú katona temetésén pedig a Honvédség katonai igazgatási és központi adatfeldolgozó szervezetének vezetője a Honvédség képviseletében a sírnál koszorút vagy sírcsokrot (a továbbiakban együtt: koszorú) helyez el.
+(3)[^22] Kegyeleti minősítés esetén a honvéd temetésén az állományilletékes parancsnok, nyugállományú katona temetésén pedig a Honvédség területileg illetékes katonai igazgatási szervének vezetője a Honvédség képviseletében a sírnál koszorút vagy sírcsokrot (a továbbiakban együtt: koszorú) helyez el.
 
-(4)[^19] A „Hősi halottá”, a „Honvédelmi Minisztérium saját halottjává” vagy a „Magyar Honvédség halottjává” nyilvánított elhunytról való megemlékezésként sírjel-, síremlékavatáskor, Halottak Napján, a Magyar Hősök Emlékünnepén vagy születésének kerek – azaz minden 10. – évfordulója alkalmából az állományilletékes parancsnok, illetve a Honvédség központi katonai igazgatási és adatfeldolgozó szerve a sírjelnél, síremléknél koszorút helyezhet el.
+(4)[^23] A „Hősi halottá”, a „Honvédelmi Minisztérium saját halottjává” vagy a „Magyar Honvédség halottjává” nyilvánított elhunytról való megemlékezésként sírjel-, síremlékavatáskor, Halottak Napján, a Magyar Hősök Emlékünnepén vagy születésének kerek – azaz minden 10. – évfordulója alkalmából az állományilletékes parancsnok, illetve a Honvédség területileg illetékes katonai igazgatási szerve a sírjelnél, síremléknél koszorút helyezhet el.
 
 (5) A „Hősi halottá” és a „Magyar Honvédség halottjává” nyilvánított elhunytak emlékének megőrzésére a laktanyában, vagy az elhalálozás helyén emléktábla, kopjafa állítható.
 
-(6) A honvédelmi szervezet költségére váltott temetési helyen az elhunyt házastársának vagy élettársának és más közeli hozzátartozójának koporsója vagy urnája a Honvédség katonai igazgatási és központi adatfeldolgozó szervezete vezetőjének hozzájárulásával helyezhető el. Az ebből származó többletköltség a közeli hozzátartozókat terheli.
+(6)[^24] A honvédelmi szervezet költségére váltott temetési helyen az elhunyt házastársának vagy élettársának és más közeli hozzátartozójának koporsója vagy urnája a Honvédség területileg illetékes katonai igazgatási szerve vezetőjének hozzájárulásával helyezhető el. Az ebből származó többletköltség a közeli hozzátartozókat terheli.
 
-(7)[^20] A Hjkr. 25. §-a alapján nem minősített elhunyt temetési helyének gondozási költségeihez történő hozzájárulásról, vagy a költségek teljes átvállalásáról a miniszter egyedileg dönt.
+(7)[^25] A Hjkr. 25. §-a alapján nem minősített elhunyt temetési helyének gondozási költségeihez történő hozzájárulásról, vagy a költségek teljes átvállalásáról a miniszter egyedileg dönt.
 
 (8) A „Katonai szolgálat halottjává” nyilvánított elhunyt esetén a temetési hely feletti rendelkezési jog a temetést követően átszáll az intézkedésre jogosult közeli hozzátartozóra.
 
-(9)[^21] A minősítésre jogosult parancsnok és a honvédelmi szervezet vezetője a honvéd, honvédelmi alkalmazott és kormánytisztviselő, honvédelmi területen vagy a honvédelem érdekében politikai vagy szakmai felsővezetőként – korábban állami vezetőként – tevékenykedő személy, valamint nyugállományú katona, nyugdíjas kormánytisztviselő és honvédségi nyugdíjas elhalálozása esetén temetéskor és évfordulós koszorúzások alkalmával koszorút és sírcsokrot vásárolhat.
+(9)[^26] A minősítésre jogosult parancsnok és a honvédelmi szervezet vezetője a honvéd, honvédelmi alkalmazott és kormánytisztviselő, honvédelmi területen vagy a honvédelem érdekében politikai vagy szakmai felsővezetőként – korábban állami vezetőként – tevékenykedő személy, valamint nyugállományú katona, nyugdíjas kormánytisztviselő és honvédségi nyugdíjas elhalálozása esetén temetéskor és évfordulós koszorúzások alkalmával koszorút és sírcsokrot vásárolhat.
 
-[^15]: A 4. § (1) bekezdés e) pontja a 22/2021. (XI. 5.) HM rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^16]: A 4. § (1) bekezdés f) pontja a 22/2021. (XI. 5.) HM rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^17]: A 4. § (1) bekezdés g) pontja a 16/2018. (IX. 27.) 2. § (1) bekezdésével megállapított szöveg.
-[^18]: A 4. § (1) bekezdés h) pontját a 16/2018. (IX. 27.) 2. § (2) bekezdése iktatta be.
-[^19]: A 4. § (4) bekezdése a 22/2021. (XI. 5.) HM rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^20]: A 4. § (7) bekezdése a 22/2021. (XI. 5.) HM rendelet 11. § c) pontja, a 19/2024. (IX. 19.) HM rendelet 10. § 4. pontja szerint módosított szöveg.
-[^21]: A 4. § (9) bekezdését a 11/2015. (IX. 28.) HM rendelet 1. §-a iktatta be, szövege a 22/2021. (XI. 5.) HM rendelet 4. § (3) bekezdésével megállapított, a 18/2022. (XII. 28.) HM rendelet 2. § a) pontja szerint módosított szöveg.
+[^18]: A 4. § (1) bekezdés e) pontja a 22/2021. (XI. 5.) HM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^19]: A 4. § (1) bekezdés f) pontja a 22/2021. (XI. 5.) HM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^20]: A 4. § (1) bekezdés g) pontja a 16/2018. (IX. 27.) 2. § (1) bekezdésével megállapított szöveg.
+[^21]: A 4. § (1) bekezdés h) pontját a 16/2018. (IX. 27.) 2. § (2) bekezdése iktatta be.
+[^22]: A 4. § (3) bekezdése a 25/2024. (XII. 2.) HM rendelet 3. § c) pontja szerint módosított szöveg.
+[^23]: A 4. § (4) bekezdése a 22/2021. (XI. 5.) HM rendelet 4. § (2) bekezdésével megállapított, a 25/2024. (XII. 2.) HM rendelet 3. § d) pontja szerint módosított szöveg.
+[^24]: A 4. § (6) bekezdése a 25/2024. (XII. 2.) HM rendelet 3. § e) pontja szerint módosított szöveg.
+[^25]: A 4. § (7) bekezdése a 22/2021. (XI. 5.) HM rendelet 11. § c) pontja, a 19/2024. (IX. 19.) HM rendelet 10. § 4. pontja szerint módosított szöveg.
+[^26]: A 4. § (9) bekezdését a 11/2015. (IX. 28.) HM rendelet 1. §-a iktatta be, szövege a 22/2021. (XI. 5.) HM rendelet 4. § (3) bekezdésével megállapított, a 18/2022. (XII. 28.) HM rendelet 2. § a) pontja szerint módosított szöveg.
