@@ -1,5 +1,5 @@
 ## 2. A kegyeleti gondoskodásról és az ehhez kapcsolódó egyes szociális feladatokról szóló 7/2013. (VII. 25.) HM rendelet módosítása
 
-2. § A kegyeleti gondoskodásról és az ehhez kapcsolódó egyes szociális feladatokról szóló 7/2013. (VII. 25.) HM rendelet 2. §-a a következő (3a) bekezdéssel egészül ki:
+2. §[^3]
 
-„(3a) A nyugállományú katona Hjkr. 25. § (3) bekezdése szerinti kegyeleti minősítésére a Honvédség központi katonai igazgatási szervének vezetője jogosult.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

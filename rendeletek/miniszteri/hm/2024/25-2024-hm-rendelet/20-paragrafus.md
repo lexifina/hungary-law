@@ -1,3 +1,5 @@
 ## 7. A ruházati ellátásról szóló 8/2024. (VI. 28.) HM rendelet módosítása
 
-20. § A ruházati ellátásról szóló 8/2024. (VI. 28.) HM rendelet 6. § (2) bekezdésében a „lakóhely szerint illetékes katonai igazgatási szervnél” szövegrész helyébe a „lakóhely szerint illetékes területi katonai igazgatási szervnél” szöveg lép.
+20. §[^21]
+
+[^21]: A 20. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

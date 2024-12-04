@@ -1,3 +1,3 @@
-12. § A honvédelmi ágazatban használt azonosító okmányok és igazolások kiadására és kezelésére vonatkozó eljárási szabályokról szóló 5/2023. (IV. 3.) HM rendelet 4. §-a helyébe a következő rendelkezés lép:
+12. §[^13]
 
-„4. § A 3. § (1) bekezdés a) pontja szerinti igazolvány első alkalommal a honvéd első rendfokozatba történő kinevezését követően, a 3. § (1) bekezdés b) és c) pontja szerinti igazolvány az állományba vétel napját követően, a 3. § (1) bekezdés d) és e) pontja szerinti okmány (a továbbiakban együtt: nyugdíjas igazolvány) a nyugdíjas igazolványra való jogosultság elérését követően, a 3. § (2) bekezdése szerinti igazolvány első alkalommal a 3. § (2) bekezdésében meghatározott beosztásba helyezés napját követően kerül kiadásra.”
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

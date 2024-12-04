@@ -1,9 +1,3 @@
-13. § A honvédelmi ágazatban használt azonosító okmányok és igazolások kiadására és kezelésére vonatkozó eljárási szabályokról szóló 5/2023. (IV. 3.) HM rendelet 13. § (5)–(8) bekezdése helyébe a következő rendelkezés lép:
+13. §[^14]
 
-„(5) Az okmányellátásban részesülő személy köteles az azonosító okmány megrongálódását, elvesztését, eltulajdonítását, megsemmisülését és az azonosító okmányon feltüntetett adatokban bekövetkezett változás tényét bejelenteni az állományilletékes parancsnok, illetve a személyügyi szerv részére. Nyugállományú katonák és a honvédségi nyugdíjasok esetében az azonosító okmány megrongálódását, elvesztését, eltulajdonítását, megsemmisülését és az azonosító okmányon feltüntetett adatokban bekövetkezett változás tényét a lakóhely szerint illetékes területi katonai igazgatási szervnél van lehetőség bejelenteni. Ezzel egyidejűleg a személyügyi szerv vagy a lakóhely szerint illetékes területi katonai igazgatási szerv kezdeményezi az új okmány kiállítását.
-
-(6) Az azonosító okmányok érvényességi idejének lejártát a honvédelmi szervezet személyügyi szerve, a nyugdíjas igazolvány esetén a lakóhely szerint illetékes területi katonai igazgatási szerv kíséri figyelemmel a Haktv. 102. § (6) bekezdése, 103. § (7) bekezdése, 104. § (7) bekezdése, 105. § (5) bekezdése, 106. § (6) bekezdése, 107. § (7) bekezdése, 108. § (6) bekezdése és 109. § (5) bekezdése szerinti nyilvántartás alapján.
-
-(7) A honvédelmi igazolvány eltulajdonítása, elvesztése, megsemmisülése esetén a Honvédség központi nyilvántartó szervének okmányellátásért felelős szervezeti eleme (a továbbiakban: okmányellátásért felelős szerv) gondoskodik az igazolvány érvénytelenítéséről.
-
-(8) Az okmányellátásban részesülő személy halála esetén az érintett személy azonosító okmányának leadása érdekében a személyügyi szerv vagy a lakóhely szerint illetékes területi katonai igazgatási szerv intézkedik.”
+[^14]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

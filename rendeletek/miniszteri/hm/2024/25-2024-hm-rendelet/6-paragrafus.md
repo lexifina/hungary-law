@@ -1,1 +1,3 @@
-6. § A honvédelmi miniszter és a Honvéd Vezérkar főnöke által alapítható és adományozható elismerésekről szóló 15/2013. (VIII. 22.) HM rendelet 30. § (1) bekezdés c) pontjában a „Honvédség katonai igazgatási és központi adatfeldolgozó szervezetének” szövegrész helyébe a „Honvédség központi katonai igazgatási szervének” szöveg lép.
+6. §[^7]
+
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
