@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-15-20-7
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2024-12-03 | 2024-15-20-7G.1 | 15/2024. (XII. 2.) MK rendelet |
+| 2024-12-04 | 2024-15-20-7G.2 | 2010. évi CXXX. törvény |
