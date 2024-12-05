@@ -1,0 +1,7 @@
+# 2024. évi LX. törvény a Magyarország Kormánya és a Dominikai Köztársaság Kormánya között a diplomata-, szolgálati és hivatalos útlevéllel rendelkező állampolgáraik vízummentességéről szóló Megállapodás kihirdetéséről
+
+Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2024-60-00-00
+
+| Hatályos (In-force) | Módosította (made by) | NJT időállapot |
+| --- | --- | --- |
+| 2024-12-05 | 2024. évi LX. törvény | 2024-60-00-00.0 (közlönyállapot) |
