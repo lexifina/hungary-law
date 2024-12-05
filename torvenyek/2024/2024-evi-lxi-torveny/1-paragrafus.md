@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az Egyetemes Postaegyesület Egyetemes Postaegyezményének a 2023. évi rijádi kongresszuson aláírt Első Pótjegyzőkönyve és Zárójegyzőkönyve kötelező hatályának elismerésére.
