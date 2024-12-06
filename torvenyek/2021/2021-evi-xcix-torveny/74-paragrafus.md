@@ -1,10 +1,10 @@
 ## 21. A Cstv. eltérő alkalmazása
 
-74. § (1) A Cstv. rendelkezéseit az ezen alcímben foglalt eltérésekkel a 2024. december 31-ig benyújtott kérelmek alapján megindított csődeljárásokban és felszámolási eljárásokban kell alkalmazni.
+74. § (1) A Cstv. rendelkezéseit az ezen alcímben foglalt eltérésekkel a 2025. december 31-ig benyújtott kérelmek alapján megindított csődeljárásokban és felszámolási eljárásokban kell alkalmazni.
 
 (2) A Cstv. 6. § (1) bekezdésétől eltérően a Fővárosi Törvényszék kizárólagosan illetékes a Cstv. IV. Fejezetének hatálya alá tartozó, valamint arra a csődeljárásra és felszámolási eljárásra, amelyben az (5) bekezdés alapján kell a Cstv. IV. Fejezetének szabályait alkalmazni.
 
-(3) A Cstv. 27. § (2b) bekezdését azzal az eltéréssel kell alkalmazni, hogy a Cstv. 27. § (2) bekezdés a) és b) pontja esetében csak akkor nyújtható be az adós felszámolása iránti kérelem, ha a követelés összege (kamatok és járulékok nélkül számítva) meghaladja a 400 000 Ft-ot.
+(3) A Cstv. 27. § (2b) bekezdését azzal az eltéréssel kell alkalmazni, hogy a Cstv. 27. § (2) bekezdés a) és b) pontja esetében csak akkor nyújtható be az adós felszámolása iránti kérelem, ha a követelés összege (kamatok és járulékok nélkül számítva) meghaladja az 1 000 000 Ft-ot.
 
 (4) A Cstv. IV. Fejezetében foglalt szabályokat kell alkalmazni arra a gazdasági társaságra is, amelyben az államnak részesedése van. Ebben az esetben a Kormánynak nem kell a Cstv. 65. §-a szerinti rendeletet meghoznia. A bíróság az állami részesedésre vonatkozó adatokat a cégjegyzékből állapítja meg, szükség esetén az adós gazdálkodó szervezetet kiegészítő nyilatkozattételre hívja fel.
 
