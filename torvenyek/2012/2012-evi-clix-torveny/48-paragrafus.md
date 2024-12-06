@@ -2,7 +2,7 @@
 
 48. § (1) A nem időgarantált postai küldemény késedelmes kézbesítéséért a postai szolgáltató kártérítési felelősséggel nem tartozik.
 
-(2) Az időgarantált postai küldemény késedelmes kézbesítéséért vagy a kézbesítés késedelmes megkísérléséért a postai szolgáltató kártérítési átalányt köteles fizetni. A kártérítési átalány összege az időgarantált postai szolgáltatásért fizetett díj kétszerese.
+(2) Az időgarantált postai küldemény késedelmes kézbesítéséért vagy a kézbesítés késedelmes megkísérléséért a postai szolgáltató kártérítési átalányt köteles fizetni. A kártérítési átalány összege az időgarantált postai szolgáltatásért, vagy amennyiben a feladó azt többletszolgáltatásként veszi igénybe a többletszolgáltatásért fizetett külön díj kétszerese.
 
 (3) Nem terheli a postai szolgáltatót kártérítési felelősség az időgarantált postai küldemény késedelmes kézbesítéséért, ha
 

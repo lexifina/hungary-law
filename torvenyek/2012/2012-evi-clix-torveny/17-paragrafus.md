@@ -8,4 +8,4 @@ b) a díjképzésnek áttekinthetőnek, a díjaknak megkülönböztetéstől men
 
 (2) Az egyetemes postai szolgáltatás keretében, küldeményenkénti díjszabás szerint feladott, azonos tömegkategóriába tartozó és azonos fajtájú belföldi küldemények díját úgy kell megállapítani, hogy azok az egész ország területén azonosak legyenek függetlenül a feladás és a kézbesítés helyétől.
 
-(3) A küldeményenkénti díjszabás szerint feladott, 50 grammot meg nem haladó tömegű, belföldi levélküldemények, valamint a hivatalos iratokkal kapcsolatos belföldi szolgáltatás díjának meghatározási módszerét a miniszter – az államháztartásért felelős miniszterrel egyetértésben – rendeletben állapítja meg.
+(3)

@@ -39,3 +39,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-159-00-00
 | 2023-12-28 | 2023. évi LXXXVII. törvény | 2012-159-00-00.33 |
 | 2024-04-25 | 2024. évi IX. törvény | 2012-159-00-00.34 |
 | 2024-09-01 | 2024. évi XII. törvény | 2012-159-00-00.35 |
+| 2024-12-06 | 2024. évi LVI. törvény | 2012-159-00-00.36 |

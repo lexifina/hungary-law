@@ -22,6 +22,6 @@ i) koncepciókat és programokat dolgoz ki a postai tevékenységek, szolgáltat
 
 j) gondoskodik a postai szolgáltatások színvonalának javításáról a szabványosítás, valamint a kutatási, fejlesztési tevékenység támogatásával;
 
-k) az ügykörben érintett miniszterrel egyetértésben meghatározza az egyetemes postai szolgáltatás keretében küldeményenkénti díjszabás szerint feladott, 50 grammot meg nem haladó tömegű, belföldi levélküldemények, valamint a hivatalos iratokra vonatkozó belföldi postai szolgáltatás díjának meghatározási módszerét;
+k)
 
 l) megállapítja a méltánytalan többletteher összegét és annak az egyetemes postai szolgáltató számára megtérítésre kerülő mértékét.

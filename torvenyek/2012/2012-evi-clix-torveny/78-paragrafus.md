@@ -8,7 +8,7 @@ b) a hivatalos iratokkal kapcsolatos szolgáltatás részletes szabályait;
 
 c) a postai szolgáltatók általános szerződési feltételeinek kötelező tartalmi elemeit, a postai szolgáltatásból kizárt, vagy feltételesen szállítható küldemények körét;
 
-d) a kézbesítést lehetővé tevő automatizált eszköz funkcionalitására és műszaki leírására, valamint telepítésére vonatkozó feltételeket és követelményeket.
+d) a kézbesítést lehetővé tevő automatizált eszköz funkcionalitására, tervezésére, műszaki leírására, telepítésére és üzemeltetésére vonatkozó előírásokat, a kézbesítést lehetővé tevő automatizált eszközök hatósági nyilvántartását vezető szervezetet, valamint a kézbesítést lehetővé tevő automatizált eszköz üzembe helyezésével kapcsolatos hatósági nyilvántartásba vétel és a nyilvántartást vezető hatóság eljárásának;
 
 e) a postai szolgáltatások különleges jogrend időszaki, valamint az összehangolt védelmi tevékenységre való felkészítésének rendszerét, feladatait, működési feltételeit;
 
@@ -34,7 +34,7 @@ e) az egyetemes postai szolgáltatás nyújtására vonatkozó nyilvános pály�
 
 (3) Felhatalmazást kap a miniszter, hogy – az államháztartásért felelős miniszterrel egyetértésben – rendeletben határozza meg
 
-a) az egyetemes postai szolgáltatás keretében küldeményenkénti díjszabás szerint feladott, 50 grammot meg nem haladó tömegű, belföldi levélküldemények, valamint a hivatalos iratokra vonatkozó belföldi postai szolgáltatás díjának meghatározási módszerét,
+a)
 
 b) a 26. § (5) bekezdésében meghatározott követelményeket.
 

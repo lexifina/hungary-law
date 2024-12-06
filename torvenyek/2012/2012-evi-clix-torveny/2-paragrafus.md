@@ -58,7 +58,7 @@ f) a küldeménynek a feladó lakóhelyén, tartózkodási helyén, székhelyén
 
 21. kézbesítési pont: a postai küldemény kézbesítése céljából a postai szolgáltató által kijelölt, a felhasználók számára elérhető helyiség vagy hely, továbbá a postai szolgáltató által létesített, a kézbesítést lehetővé tevő eszköz;
 
-21a. kézbesítést lehetővé tevő automatizált eszköz: olyan, a postai szolgáltató vagy a 4. § b) pontja szerinti saját kézbesítést ellátó szervezet fizikai jelenléte nélkül üzemelő eszköz, amely megfelel az e törvény felhatalmazása alapján kiadott rendeletben meghatározott, a kézbesítést lehetővé tevő automatizált eszköz funkcionalitására és műszaki leírására, valamint telepítésére vonatkozóan megállapított feltételeknek és követelményeknek, és ezzel lehetővé teszi a személyes átadással kézbesítendő postai küldemény kézbesítését vagy a küldemény 4. § b) pontja szerinti saját kézbesítését.
+21a. kézbesítést lehetővé tevő automatizált eszköz: olyan, a postai szolgáltató vagy a 4. § b) pontja szerinti saját kézbesítést ellátó szervezet fizikai jelenléte nélkül üzemelő eszköz, amely megfelel az e törvény felhatalmazása alapján kiadott rendeletben meghatározott, a kézbesítést lehetővé tevő automatizált eszköz funkcionalitására és műszaki leírására, valamint telepítésére és üzemeltetésére vonatkozóan megállapított előírásoknak, és ezzel lehetővé teszi a személyes átadással kézbesítendő postai küldemény kézbesítését vagy a küldemény 4. § b) pontja szerinti saját kézbesítését.
 
 22. könyvelt küldemény: olyan postai küldemény, amelynek a postai szolgáltató a felvételét – írásban vagy más bizonyítható módon –, valamint a jogosult átvevő részére történő kézbesítését – az erre szolgáló okiraton, vagy a kézbesítés tényét rögzítő vagy a jogosult átvevő személyét azonosító egyéb technika alkalmazásával – a feladó irányában elismeri;
 
@@ -110,7 +110,7 @@ b) a küldeményen „címzett”-ként feltüntetett, gazdálkodó szervezetnek
 
 37. postai szolgáltatóhely: a postai szolgáltatások elérését meghatározott földrajzi ponton és időben biztosító felvételi vagy kézbesítési pont, ide nem értve a postai szolgáltató által elhelyezett levélgyűjtő szekrényt vagy más, a postai küldemény sérülésmentes és biztonságos felvételére vagy kézbesítésére szolgáló eszközt;
 
-37a. rögzített ajánlott levélküldemény: az a könyvelt levélküldemény, amelyhez az ajánlott szolgáltatáson túl egyéb többletszolgáltatás nem vehető igénybe;
+37a. rögzített ajánlott levélküldemény: az a könyvelt levélküldemény, amelyhez a postai küldemény feladója az ajánlott szolgáltatáson túl egyéb többletszolgáltatást nem vesz igénybe;
 
 38. szállítás: a postai küldemények feldolgozási, szolgáltatói hozzáférési vagy kézbesítési pontok közötti továbbításának művelete;
 
