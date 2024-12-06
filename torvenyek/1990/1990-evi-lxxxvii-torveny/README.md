@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1990-87-00-00
 | 2013-07-15 | 2013. évi LXXI. törvény | 1990-87-00-00.45 |
 | 2016-06-18 | 2016. évi LXVII. törvény | 1990-87-00-00.46 |
 | 2017-06-02 | 2017. évi XLIV. törvény | 1990-87-00-00.47 |
+| 2024-12-06 | 2024. évi LVI. törvény | 1990-87-00-00.48 |
