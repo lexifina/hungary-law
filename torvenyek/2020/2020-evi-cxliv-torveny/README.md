@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-144-00-00
 | --- | --- | --- |
 | 2020-12-26 | 2020. évi CXLIV. törvény | 2020-144-00-00.0 (közlönyállapot) |
 | 2020-12-26 | Nemzeti Jogszabálytár (egységes szerkezet) | 2020-144-00-00.1 |
+| 2024-12-06 | 2024. évi LVI. törvény | 2020-144-00-00.2 |
