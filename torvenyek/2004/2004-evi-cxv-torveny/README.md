@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-115-00-00
 | 2018-01-01 | 2017. évi CXXXVI. törvény | 2004-115-00-00.13 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 2004-115-00-00.14 |
 | 2019-04-26 | 2019. évi XXXIV. törvény | 2004-115-00-00.15 |
+| 2024-12-06 | 2024. évi LVI. törvény | 2004-115-00-00.16 |
