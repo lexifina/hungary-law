@@ -1,4 +1,4 @@
-12/A. § (1) A vendéglátó üzlet üzemeltetője a Nemzeti Turisztikai Adatszolgáltató Központba történő regisztrációt 2021. november 1. napjával köteles megkezdeni.
+12/A. § (1) Azon vendéglátó üzlet esetében, amely a működését 2025. január 1. napja előtt kezdte meg, a vendéglátó üzlet üzemeltetője a Nemzeti Turisztikai Adatszolgáltató Központba történő regisztrációt 2025. március 31. napjáig köteles befejezni.
 
 (1a) A vendéglátó üzlet üzemeltetője a Nemzeti Turisztikai Adatszolgáltató Központba történő adatok szolgáltatására és továbbítására
 

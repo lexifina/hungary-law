@@ -2,7 +2,7 @@
 
 9/H. § (1) A szálláshely-szolgáltató – az érintett és mások jogainak, biztonságának és tulajdonának védelme érdekében, továbbá harmadik országbeli állampolgárok és a szabad mozgás és tartózkodás jogával rendelkező személyek tartózkodására vonatkozó rendelkezések betartásának ellenőrzése céljából – a bejelentkezéskor a szálláshelykezelő szoftver útján a Kormány rendeletében kijelölt tárhelyszolgáltató által biztosított tárhelyen rögzíti
 
-a) a szálláshely-szolgáltatást igénybe vevő családi és utónevét, születési családi és utónevét, születési helyét és idejét, nemét, állampolgárságát valamint anyja születési családi és utónevét,
+a) a szálláshely-szolgáltatást igénybe vevő családi és utónevét, születési családi és utónevét, születési helyét és idejét, nemét, állampolgárságát, valamint anyja születési családi és utónevét,
 
 b) a szálláshely-szolgáltatást igénybe vevő személyazonosításra alkalmas okmányának, illetve útiokmányának azonosító adatait, harmadik országbeli állampolgár esetében a vízum vagy tartózkodási engedély számát, a beutazás időpontját és helyét, valamint
 
