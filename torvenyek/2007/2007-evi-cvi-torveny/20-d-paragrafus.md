@@ -4,7 +4,7 @@
 
 (3) A Felügyelőbizottság, illetve annak tagja a Felügyelőbizottság elnöke útján az Igazgatóságtól, illetve az MNV Zrt. vezető állású munkavállalóitól felvilágosítást kérhet, amelyet az MNV Zrt. alapszabályában meghatározott módon és határidőn belül kell teljesíteni. A Felügyelőbizottság az MNV Zrt. könyveit és iratait – szükség esetén szakértők bevonásával – megvizsgálhatja.
 
-(4) Az MNV Zrt. saját vagyonáról a számviteli törvény szerint készített beszámolójának, valamint a külön jogszabályban meghatározott elszámolás szerint a rábízott vagyonról készített beszámolójának jóváhagyásáról a részvényesi jogokat gyakorló miniszter csak a Felügyelő Bizottság írásbeli jelentésének birtokában dönthet.
+(4) Az MNV Zrt. saját vagyonáról a számviteli törvény szerint készített beszámolójának, valamint a külön jogszabályban meghatározott elszámolás szerint a rábízott vagyonról készített beszámolójának jóváhagyásáról a részvényesi jogokat gyakorló miniszter csak a Felügyelőbizottság írásbeli jelentésének birtokában dönthet.
 
 (5) Ha a Felügyelőbizottság megítélése szerint az Igazgatóság, a vezérigazgató, illetve az MNV Zrt. vezetésének tevékenysége jogszabályba, az alapszabályba, a részvényesi joggyakorló miniszter határozataiba ütközik, vagy egyébként sérti az állam vagy az MNV Zrt. érdekeit, ezt köteles jelezni a részvényesi jogokat gyakorló miniszternek.
 
