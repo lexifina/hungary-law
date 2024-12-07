@@ -180,7 +180,7 @@
 
 | 56. | Az 1. számú melléklet 1–55. pont B. és C. oszlopában és a 3. számú melléklet 1–128. pont B. és C. oszlopában meghatározott tevékenységek, illetve létesítmények olyan megváltoztatása vagy bővítése, ahol a változtatás az 1. számú melléklet 1–55. pont B. és C. oszlopában meghatározott tevékenység, illetve létesítmény megvalósítását jelenti |  |
 
-2. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez[^278]
+2. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez[^279]
 
 Az egységes környezethasználati engedélyhez kötött tevékenységek
 
@@ -446,4 +446,4 @@ Anyagok, tárgyak vagy termékek felületi kezelése szerves oldószerekkel, kü
 
 14.4. A települési szennyvíz kezeléséről szóló, 1991. május 21-i 91/271/EGK tanácsi irányelv hatályán kívül eső, az e mellékletben felsorolt tevékenységeket végző létesítmények által kibocsátott szennyvíz kezelése önálló üzemeltetésben.
 
-[^278]: A 2. melléklet a 480/2013. (XII. 17.) Korm. rendelet 11. § (1) bekezdésével megállapított, a 221/2014. (IX. 4.) Korm. rendelet 311. §-a szerint módosított szöveg.
+[^279]: A 2. melléklet a 480/2013. (XII. 17.) Korm. rendelet 11. § (1) bekezdésével megállapított, a 221/2014. (IX. 4.) Korm. rendelet 311. §-a szerint módosított szöveg.

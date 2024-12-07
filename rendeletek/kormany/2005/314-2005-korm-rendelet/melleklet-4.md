@@ -176,7 +176,7 @@
 
 | b) ahol az összes kezelőkád térfogata meghaladja a 30 m3-t |
 
-| 66. | Akkumulátorgyár | méretmegkötés nélkül |
+| 66. |  |  |
 
 | 67. | Automata gépsoron nyomtatott áramköröket előállító üzem | méretmegkötés nélkül |
 

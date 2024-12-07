@@ -38,7 +38,7 @@ engedély szükséges.
 
 (6b)[^8] A környezetvédelmi hatóság az előzetes vizsgálati, a környezeti hatásvizsgálati, az egységes környezethasználati, valamint az összevont eljárásában a tevékenység telepítési helye szerinti település, a fővárosban a kerület (a továbbiakban együtt: település) önkormányzata ügyfélnek minősül, aki a környezetvédelmi hatóság által megküldött kérelem és mellékletei tekintetében a kézhezvételtől számított 15 napon belül nyilatkozhat.
 
-(6c)[^9] A legalább 500 milliárd forint költségigényű beruházás esetében, ha a tevékenység megkezdéséhez – a 2. számú melléklet 4. és 5. pontjában, valamint a 3. számú mellékletében foglalt táblázat 66. sorában meghatározott tevékenységek kivételével – a (3) bekezdés b), c) pontja vagy e) pont ea) alpontja alapján egységes környezethasználati engedély szükséges, a környezethasználó, a (6d) bekezdés szerinti jogkövetkezménnyel
+(6c)[^9] A legalább 500 milliárd forint költségigényű beruházás esetében, ha a tevékenység megkezdéséhez – a 2. számú melléklet 4. és 5. pontjában, valamint az 1. számú mellékletében foglalt táblázat 27a. és 51a. sorában meghatározott tevékenységek kivételével – a (3) bekezdés b), c) pontja vagy e) pont ea) alpontja alapján egységes környezethasználati engedély szükséges, a környezethasználó, a (6d) bekezdés szerinti jogkövetkezménnyel
 
 a) a létesítési, építési engedély megszerzéséhez környezetvédelmi engedélyt,
 
@@ -72,7 +72,7 @@ b) az arról való tájékoztatást, hogy a környezethasználó a megvalósíto
 [^6]: Az 1. § (6) bekezdését a 266/2008. (XI. 6.) Korm. rendelet 8. § (1) bekezdése iktatta be.
 [^7]: Az 1. § (6a) bekezdését a 100/2014. (III. 25.) Korm. rendelet 4. § (1) bekezdése iktatta be.
 [^8]: Az 1. § (6b) bekezdését a 70/2015. (III. 30.) Korm. rendelet 74. § (1) bekezdése iktatta be, szövege a 208/2021. (IV. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^9]: Az 1. § (6c) bekezdését a 208/2021. (IV. 29.) Korm. rendelet 3. §-a hatályon kívül helyezte, újonnan a 178/2024. (VII. 7.) Korm. rendelet 1. §-a iktatta be.
+[^9]: Az 1. § (6c) bekezdését a 208/2021. (IV. 29.) Korm. rendelet 3. §-a hatályon kívül helyezte, újonnan a 178/2024. (VII. 7.) Korm. rendelet 1. §-a iktatta be, nyitó szövegrésze a 376/2024. (XII. 6.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
 [^10]: Az 1. § (6d) bekezdését a 178/2024. (VII. 7.) Korm. rendelet 1. §-a iktatta be.
 [^11]: Az 1. § (6e) bekezdését a 178/2024. (VII. 7.) Korm. rendelet 1. §-a iktatta be.
 [^12]: Az 1. § (7) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 28. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés b)–d) pontja szerint módosított szöveg.
