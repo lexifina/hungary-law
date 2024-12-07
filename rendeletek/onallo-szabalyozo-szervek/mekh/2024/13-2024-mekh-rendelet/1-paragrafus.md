@@ -1,0 +1,1 @@
+1. § E rendelet hatálya az önkormányzatok a hulladékról szóló 2012. évi CLXXXV. törvény (a továbbiakban: Ht.) 30/C. § (2) bekezdése szerinti – a 2025. január 1. napjától 2025. december 31. napjáig terjedő időszakra vonatkozó – indokolt költségei mértékének megállapítására terjed ki.
