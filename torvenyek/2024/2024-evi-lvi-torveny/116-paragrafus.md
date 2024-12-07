@@ -1,3 +1,1 @@
-116. § A Veszélyhelyzeti tv. 21. alcíme a következő 77/B. §-sal egészül ki:
-
-„77/B. § E törvénynek az egyes pénzügyi és vagyongazdálkodási tárgyú törvények módosításáról szóló 2024. évi LVI. törvénnyel módosított 74. § (3) bekezdését az e rendelkezés hatálybalépése napját követően kezdeményezett felszámolási eljárásokban kell alkalmazni.”
+### 116. §
