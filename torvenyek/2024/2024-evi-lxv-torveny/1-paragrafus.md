@@ -1,7 +1,3 @@
 ## 1. Az elektronikus hírközlésről szóló 2003. évi C. törvény módosítása
 
-1. § Az elektronikus hírközlésről szóló 2003. évi C. törvény (a továbbiakban: Eht.) 92. §-a következő (11) és (12) bekezdéssel egészül ki:
-
-„(11) Az elektronikus hírközlési szolgáltató köteles együttműködni a Magyar Honvédség katonai kibertér műveleti erőivel a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 48. alcímében meghatározott feladataik végrehajtása céljából.
-
-(12) Az az elektronikus hírközlési szolgáltató, amely a Magyar Honvédség katonai kibertér műveleti erői részére a (11) bekezdés szerinti együttműködés keretében valamely személyes adatra is kiterjedő adatszolgáltatást teljesített, illetve ilyen adathoz hozzáférést biztosított, a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK irányelv hatályon kívül helyezéséről szóló, 2016. április 27-i (EU) 2016/679 európai parlamenti és tanácsi rendelet (általános adatvédelmi rendelet) szerinti érintetti jogok gyakorlása során az ezen műveletek tényéről, tartalmáról, a megtett intézkedésekről szóló tájékoztatást az elérni kívánt céllal arányosan késlelteti, a tájékoztatás tartalmát korlátozza vagy a tájékoztatást mellőzi, ha ezen intézkedés honvédelmi érdekből elengedhetetlenül szükséges. Az elektronikus hírközlési szolgáltató az érintetti jogok gyakorlása esetén haladéktalanul megkeresi a Magyar Honvédséget, amely 15 napon belül nyilatkozik az e korlátozás szükségességéről és annak terjedelméről, amelytől az elektronikus hírközlési szolgáltató nem térhet el.”
+### 1. §

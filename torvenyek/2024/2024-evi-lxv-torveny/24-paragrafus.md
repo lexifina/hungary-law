@@ -1,3 +1,1 @@
-24. § A Haktv. 65. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A honvédelmi szervezet, a szakképző intézmény kiértesíthetőség céljából kezeli a honvédelmi szervezetnél, valamint a szakképző intézménynél szolgálatot teljesítő, munkát végző személyi állomány kiértesítésére és kiértesíthetőségére vonatkozó adatait, valamint más honvédelmi szervezetnél szolgálatot teljesítő, munkát végző személyi állomány kiértesítésére és kiértesíthetőségére vonatkozó adatait, ha részükre a szolgálatteljesítés, munkavégzés helyeként az adott honvédelmi szervezet vagy a szakképző intézmény kerül meghatározásra.”
+### 24. §
