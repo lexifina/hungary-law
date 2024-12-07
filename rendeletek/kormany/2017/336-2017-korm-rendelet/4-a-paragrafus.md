@@ -1,0 +1,5 @@
+4/A. §[^2] (1) A villamosenergia-ipari építésügyi hatósági engedélyezési eljárásokról szóló 382/2007. (XII. 23.) Korm. rendelet (a továbbiakban: Korm. rendelet) 6. § (3) bekezdésében foglaltaktól eltérően, az 1. § (1) bekezdése szerinti beruházás keretében megvalósítandó, villamos energiát termelő napelemes erőmű tekintetében az eljáró hatóság kizárólag a használatbavételi eljárásban vizsgálja a Korm. rendelet 4. számú melléklet 2. pont 6. alpontja szerinti szakkérdést.
+
+(2) Az 1. § (1) bekezdése szerinti beruházáshoz kapcsolódó, villamos energiát termelő napelemes erőmű létesítéséhez szükséges településrendezési szerződés megkötését, valamint az azt megalapozó, a településtervek tartalmáról, elkészítésének és elfogadásának rendjéről, valamint az egyes településrendezési sajátos jogintézményekről szóló kormányrendelet szerinti telepítési tanulmányterv elkészítését – a hatályos településrendezési terv előírásától eltérően – a használatbavételre irányuló kérelem elbírálása során kell igazolni.
+
+[^2]: A 4/A. §-t a 378/2024. (XII. 6.) Korm. rendelet 1. §-a iktatta be.

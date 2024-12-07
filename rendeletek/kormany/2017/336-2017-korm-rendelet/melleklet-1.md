@@ -42,7 +42,7 @@ Az 1. § (1) bekezdése szerinti beruházásokkal összefüggő, nemzetgazdaság
 
 20. erdészeti hatósági eljárások,
 
-21.[^3] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
+21.[^5] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
 
 22. honvédelmi hatósági eljárások,
 
@@ -52,4 +52,4 @@ Az 1. § (1) bekezdése szerinti beruházásokkal összefüggő, nemzetgazdaság
 
 25. az 1–24. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^3]: Az 1. melléklet 21. pontja a 257/2024. (VIII. 29.) Korm. rendelet 269. §-a szerint módosított szöveg.
+[^5]: Az 1. melléklet 21. pontja a 257/2024. (VIII. 29.) Korm. rendelet 269. §-a szerint módosított szöveg.
