@@ -1,0 +1,1 @@
+1. § A Magyar Élelmiszerkönyv kötelező előírásairól szóló 152/2009. (XI. 12.) FVM rendelet 41. melléklet B rész 3. pont 3.1. alpontjában foglalt táblázat B:2 mezőjében a „100” szövegrész helyébe a „legalább 100” szöveg lép.
