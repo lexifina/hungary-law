@@ -4,7 +4,11 @@
 
 (2) E törvény erejénél fogva az Ügynökség tulajdonosi joggyakorlása alá kerül az 1. § (1) bekezdés c) pontja szerinti sportingatlan, az Inytv. szerinti önálló ingatlanok esetén azok tartozékaival, alkotórészeivel és az azokon található, állami tulajdonú ingó vagyonelemekkel együtt.
 
-(3) Az Ügynökség a tulajdonosi joggyakorlása alá tartozó állami tulajdonú ingatlanok tulajdonjogának átruházására, továbbá arra vételi jog, elővásárlási jog szerződéssel történő alapítására, annak biztosítékul adására nem jogosult. Az e bekezdés szerinti tevékenységek végzésére a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság (a továbbiakban: MNV Zrt.) jogosult. Az Ügynökség tulajdonosi joggyakorlása alá tartozó állami tulajdonú ingatlan e bekezdés szerint történő megterhelésére annak hatékony működtetése, állagának védelme, értékének megőrzése, valamint az állami feladatok ellátásának elősegítése érdekében az MNV Zrt. meghatalmazást adhat az Ügynökség részére.
+(2a) Az Ügynökség közfeladatainak megvalósítása során – mint az állami tulajdonba kerülő vagyonelemek leendő tulajdonosi joggyakorlója – tulajdonjog megszerzésére irányuló szerződést köthet. Az Ügynökség jogosult az államot megillető tulajdonosi jogok és kötelezettségek gyakorlására a sportingatlanon annak az Ügynökség tulajdonosi joggyakorlása alá kerülését követően megvalósult beszerzés vagy beruházás megvalósításával összefüggésben létrejött, vagy – bármely jogcímen – az állam javára megszerzett ingó vagyonelemek és immateriális javak tekintetében is.
+
+(2b) Az Ügynökség tulajdonosi joggyakorlása e törvény erejénél fogva változatlan feltételekkel kiterjed mindazon vagyonelemre, amely a tulajdonosi joggyakorlásában álló vagyonból bármely módon – így különösen kitermelés, bontás, megosztás útján – újonnan jön létre, feltéve hogy az újonnan létrejövő vagyonelem és a tulajdonosi joggyakorlásában álló vagyonelem tulajdonosa megegyezik.
+
+(3) Az Ügynökség a tulajdonosi joggyakorlása alá tartozó állami tulajdonú ingatlanok tulajdonjogának átruházására, továbbá arra vételi jog, elővásárlási jog szerződéssel történő alapítására, annak biztosítékul adására nem jogosult.
 
 (4) Az állam kizárólagos tulajdonában álló és az Ügynökség tulajdonosi joggyakorlása alá tartozó ingatlanon a tulajdonosi joggyakorlás időtartama alatt a más törvény szerinti állami építési beruházás értékhatárát el nem érő beruházás következtében létrejött új felépítmény e törvény erejénél fogva az állam kizárólagos tulajdonába és az Ügynökség tulajdonosi joggyakorlása alá kerül.
 

@@ -8,6 +8,8 @@
 
 (4) A központi költségvetésről szóló törvény az NSÜ Zrt. feletti tulajdonosi joggyakorló szerv költségvetési fejezetében elkülönítetten tartalmazza az Ügynökség állam javára és nevében végzett feladatainak költségvetési bevételeit és költségvetési kiadásait.
 
+(4a) Az Ügynökség mint kedvezményezett számára biztosított európai uniós forrásból származó költségvetési támogatásokat a (4) bekezdés szerinti központi kezelésű előirányzatokon kell elszámolni. A bevételi előirányzatok javára elszámolandó európai uniós forrásból származó költségvetési bevételek összegével a (4) bekezdés szerinti fejezetet irányító szerv az Ügynökség (3) bekezdés szerinti, közfeladat ellátását szolgáló kiadási előirányzatait megemelheti.
+
 (5) A (4) bekezdés szerinti fejezet irányító szerve az e törvényben meghatározott feladatok ellátása érdekében a költségvetési évben a fejezet (4) bekezdés szerinti részének címrendjét kiegészítheti az államháztartásért felelős miniszter egyidejű tájékoztatása mellett.
 
 (6) A (4) bekezdés szerinti fejezet irányító szerve – a központi költségvetésről szóló törvény eltérő rendelkezése hiányában – a (3) bekezdés szerinti kiadási előirányzattal rendelkező előirányzatok között azok költségvetési éven belül keletkező megtakarítása terhére átcsoportosíthat az államháztartásért felelős miniszter egyidejű tájékoztatása mellett.

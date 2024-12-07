@@ -25,3 +25,5 @@ b) belép a folyamatban lévő eljárásokba.
 (7) A Feladatokhoz kapcsolódó jogviszonyok, valamint mindezekhez kapcsolódó valamennyi jog és kötelezettség tekintetében 2023. január 1-jétől az NSÜ Zrt. a korábbi vagyonkezelő és a korábbi tulajdonos jogutódja, amelyhez harmadik fél hozzájárulása nem szükséges. Ezzel egyidejűleg a jogutódlásról a jogviszonyokban részes feleket értesíteni kell.
 
 (8) Az Ügynökség jogelőd szervezeteinek megszűnése miatt az e szervezetek által – a megszűnésükre vonatkozó jogszabályi rendelkezések szerint – átutalt, költségvetési bevételként elszámolandó pénzeszközöket kizárólag a 2. § (1) bekezdésében foglalt közfeladatok ellátására kell felhasználni. A jogelőd szervezetek megszűnéséből származó költségvetési bevételeket 2023. évben az 5. § (3) bekezdése szerinti előirányzatokon kell elszámolni azzal, hogy e bevételek e törvény erejénél fogva az 5. § (7) bekezdése szerinti többletbevételnek minősülnek.
+
+(9) Az Ügynökség nem köteles helytállni az Ügynökség közfeladataihoz kapcsolódó és jogelőd szervezetei által létesített támogatási jogviszonyok lezárása következtében keletkezett kötelezettségekért.

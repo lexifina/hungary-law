@@ -16,7 +16,7 @@ d) a más törvény hatálya alá nem tartozó építési, felújítási, átala
 
 e) a gyógyfürdőnek minősülő sportingatlanban járóbeteg-gyógyító szakellátás, valamint terápiás célú gyógyfürdő- és kapcsolódó szolgáltatás nyújtása;
 
-f) a sport és testnevelés területén történő múzeumi tevékenység végzése és a magyar sport országos szakmúzeumának fenntartása és
+f) a sport és testnevelés területén történő kiállítási, kulturális, múzeumi tevékenység végzése, valamint a magyar sport országos szakmúzeumának fenntartása, valamint
 
 g) törvény eltérő rendelkezése hiányában, a Kormány egyedi határozatában történő kijelölés esetén egyes beruházások előkészítői-építtetői feladatainak elvégzése.
 
