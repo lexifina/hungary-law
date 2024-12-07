@@ -64,6 +64,8 @@
 
 | Határidő: | azonnal |
 
-## 2. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, valamint kormányhatározat módosításáról szóló 1260/2024. (VIII. 22.) Korm. határozat 1. pontjában a „2024. december 31.” szövegrész helyébe a „2024. december 31., az Építési és Közlekedési Minisztérium fejezet javára biztosított 16 134 675 000 forint tekintetében 2026. március 31.” szöveg lép.
+## 2.[^1]
 
 1. melléklet az 1374/2024. (XII. 6.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
