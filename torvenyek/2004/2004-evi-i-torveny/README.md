@@ -80,3 +80,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-1-00-00
 | 2024-04-25 | 2024. évi IX. törvény | 2004-1-00-00.88 |
 | 2024-07-01 | 2024. évi XXX. törvény | 2004-1-00-00.90 |
 | 2024-09-01 | 2024. évi XII. törvény | 2004-1-00-00.89 |
+| 2024-12-07 | 2024. évi LXV. törvény | 2004-1-00-00.91 |
