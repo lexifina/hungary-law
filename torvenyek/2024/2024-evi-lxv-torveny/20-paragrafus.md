@@ -1,0 +1,3 @@
+20. § A Haktv. 55. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A honvédelmi szervezet a fegyelmi szakterület (2) bekezdés szerinti nyilvántartásaiban kezeli a Hvt. 70. § (2) bekezdése szerinti személyi állományába tartozók, a minisztérium által foglalkoztatott kormánytisztviselők – ideértve a politikai tanácsadót és a kabinetfőnököt is –, a munkavállalók, a miniszter közvetlen alárendeltségébe tartozó szervezeteknél, illetve a KNBSZ-nél foglalkoztatott honvédelmi alkalmazottak és az önkéntes tartalékos katonák, valamint a fegyelmi szakterülethez tartozó valamely eljárásba bevont más természetes személyek 22. melléklet szerinti adatait.”
