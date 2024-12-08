@@ -1,3 +1,1 @@
-58. § Az egyes állami sportcélú közfeladatok ellátásának rendjéről és szervezeti kereteiről szóló 2022. évi LVII. törvény 5. §-a a következő (4a) bekezdéssel egészül ki:
-
-„(4a) Az Ügynökség mint kedvezményezett számára biztosított európai uniós forrásból származó költségvetési támogatásokat a (4) bekezdés szerinti központi kezelésű előirányzatokon kell elszámolni. A bevételi előirányzatok javára elszámolandó európai uniós forrásból származó költségvetési bevételek összegével a (4) bekezdés szerinti fejezetet irányító szerv az Ügynökség (3) bekezdés szerinti, közfeladat ellátását szolgáló kiadási előirányzatait megemelheti.”
+### 58. §

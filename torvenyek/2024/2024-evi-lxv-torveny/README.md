@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2024-65-00-00
 | --- | --- | --- |
 | 2024-12-07 | 2024. évi LXV. törvény | 2024-65-00-00.0 (közlönyállapot) |
 | 2024-12-07 | Nemzeti Jogszabálytár (egységes szerkezet) | 2024-65-00-00.1 |
+| 2024-12-08 | 2010. évi CXXX. törvény | 2024-65-00-00.2 |
