@@ -1,1 +1,3 @@
-2. § Hatályát veszti az R. 3. számú mellékletében foglalt táblázat 66. sora.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
