@@ -4,27 +4,19 @@
 
 | Határidő: | azonnal |
 
-## 2.[^1] az Áht. 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva engedélyezi, hogy a belügyminiszter az 5. pontban meghatározott feladatok megvalósítása érdekében
+## 2.[^1]
 
-## a) a 2024. évben a központi költségvetés XIV. Belügyminisztérium fejezet, 17. Vízügyi Igazgatóságok cím terhére vállalható kötelezettségek felső korlátját 1 761 521 404 forinttal,
+## 3.[^2] felhívja a pénzügyminisztert, hogy az energiaügyi miniszter, valamint a külgazdasági és külügyminiszter kezdeményezésére, az 5. pontban meghatározott feladat elvégzése érdekében gondoskodjon összesen 2 067 656 504 forint forrás biztosításáról, az alábbi ütemezés szerint:
 
-## b) a 2025. évben a központi költségvetés XIV. Belügyminisztérium fejezet, Vízügyi Igazgatóságokat finanszírozó előirányzat terhére vállalható kötelezettségek felső korlátját 203 263 500 forinttal,
+## a) a 2024. évben a Magyarország 2024. évi központi költségvetéséről szóló 2023. évi LV. törvény 1. melléklet XVII. Energiaügyi Minisztérium fejezet, 2. Vízügyi Igazgatóságok cím javára 1 435 374 373 forint,
 
-## c) a 2026. évben a központi költségvetés XIV. Belügyminisztérium fejezet, Vízügyi Igazgatóságokat finanszírozó előirányzat terhére vállalható kötelezettségek felső korlátját 101 631 750 forinttal
+## b) a 2025. évben a központi költségvetés XVII. Energiaügyi Minisztérium fejezet, Térségi fejlesztési feladatokat finanszírozó előirányzat javára 460 547 402 forint,
 
-## növeli meg;
+## c) a 2026. évben a központ költségvetés XVII. Energiaügyi Minisztérium fejezet, Térségi fejlesztési feladatokat finanszírozó előirányzat javára 171 734 729 forint;
 
-## 3.[^2] felhívja a pénzügyminisztert, hogy a belügyminiszter, valamint a külgazdasági és külügyminiszter kezdeményezésére, az 5. pontban meghatározott feladat elvégzése érdekében gondoskodjon összesen 2 067 656 504 forint forrás biztosításáról, az alábbi ütemezés szerint:
+| Felelős: | pénzügyminiszter energiaügyi miniszter külgazdasági és külügyminiszter |
 
-## a) a 2024. évben a Magyarország 2024. évi központi költségvetéséről szóló 2023. évi LV. törvény 1. melléklet XIV. Belügyminisztérium fejezet, 17. Vízügyi Igazgatóságok cím javára 1 762 578 317 forint,
-
-## b) a 2025. évben a központi költségvetés XIV. Belügyminisztérium fejezet, Vízügyi Igazgatóságokat finanszírozó előirányzat javára 203 385 458 forint,
-
-## c) a 2026. évben a központ költségvetés XIV. Belügyminisztérium fejezet, Vízügyi Igazgatóságokat finanszírozó előirányzat javára 101 692 729 forint;
-
-| Felelős: | pénzügyminiszter belügyminiszter külgazdasági és külügyminiszter |
-
-| Határidő: | az a) alpont tekintetében a 2024. évi központi költségvetés végrehajtása során, a felmerülés ütemében a b) és c) alpont tekintetében az adott évi központi költségvetés tervezésekor |
+| Határidő: | az a) alpont tekintetében a felmerülés ütemében a b) és c) alpont tekintetében az adott évi központi költségvetés tervezésekor |
 
 ## 4. az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva – a szükséges ingatlanok megszerzése és a kapcsolódó kiadások megfizetése érdekében – 18 921 966 467 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 7. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 21. Szeged megyei jogú város közigazgatási területén ipari terület fejlesztésének támogatása cím javára, az 1. melléklet szerint;
 
@@ -46,9 +38,12 @@
 
 ## 8. felkéri Szeged Megyei Jogú Város polgármesterét, hogy a jogszerű felhasználás feltételének megteremtése érdekében e határozat közzétételét követő 8 napon belül a Magyar Államkincstárnál a 7. pont szerinti számlát nyissa meg.
 
+## 9.[^5] az Áht. 36. § (2) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy az energiaügyi miniszter az 5. pontban meghatározott feladatok megvalósítása érdekében a 2024. évben legfeljebb a szabad előirányzatot meghaladó mértékű, 1 434 513 665 forint összegben kötelezettséget vállaljon a Magyarország 2024. évi központi költségvetéséről szóló 2023. évi LV. törvény 1. melléklet XVII. Energiaügyi Minisztérium fejezet, 2. Vízügyi Igazgatóságok cím terhére.
+
 1. melléklet az 1352/2023. (VII. 31.) Korm. határozathoz
 
-[^1]: A 2. pont az 1604/2023. (XII. 22.) Korm. határozat 8. pontjával megállapított szöveg.
-[^2]: A 3. pont az 1604/2023. (XII. 22.) Korm. határozat 8. pontjával megállapított szöveg.
+[^1]: A 2. pontot az 1387/2024. (XII. 9.) Korm. határozat 14. pontja visszavonta.
+[^2]: A 3. pont az 1387/2024. (XII. 9.) Korm. határozat 12. pontjával megállapított szöveg.
 [^3]: A 6. pont a) alpontja az 1533/2023. (XII. 5.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
 [^4]: A 6. pont b) alpontja az 1533/2023. (XII. 5.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
+[^5]: A 9. pontot az 1387/2024. (XII. 9.) Korm. határozat 13. pontja iktatta be.
