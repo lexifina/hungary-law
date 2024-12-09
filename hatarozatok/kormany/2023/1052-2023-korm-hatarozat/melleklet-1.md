@@ -16,9 +16,9 @@
 
 ## b)[^2] a Magyarország 2024. évi központi költségvetéséről szóló 2023. évi LV. törvény 1. melléklet XVII. Energiaügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 39. Térségi fejlesztési feladatok alcím javára 800 480 000 forint erejéig,
 
-## c)[^3] a 2025. évi központi költségvetésről szóló törvényben meghatározott térségi fejlesztési feladatok ellátását szolgáló előirányzat javára 10 645 383 400 forint erejéig,
+## c)[^3] a 2025. évi központi költségvetésről szóló törvényben meghatározott térségi fejlesztési feladatok ellátását szolgáló előirányzat javára 1 639 983 400 forint erejéig,
 
-## d) a 2026. évi központi költségvetésről szóló törvényben meghatározott térségi fejlesztési feladatok ellátását szolgáló előirányzat javára 23 096 849 800 forint erejéig,
+## d)[^4] a 2026. évi központi költségvetésről szóló törvényben meghatározott térségi fejlesztési feladatok ellátását szolgáló előirányzat javára 32 102 249 800 forint erejéig
 
 ## e) a 2027. évi központi költségvetésről szóló törvényben meghatározott térségi fejlesztési feladatok ellátását szolgáló előirányzat javára 34 737 830 200 forint erejéig,
 
@@ -40,24 +40,25 @@
 
 | Határidő: | a támogatási szerződés megkötésére a 2026. évi forrás rendelkezésre állását követően azonnal |
 
-## 2.[^4]
+## 2.[^5]
 
-## 3.[^5]
+## 3.[^6]
 
-## 4.[^6]
+## 4.[^7]
 
-## 5.[^7]
+## 5.[^8]
 
-## 6.[^8]
+## 6.[^9]
 
-1. melléklet az 1052/2023. (II. 23.) Korm. határozathoz[^9]
+1. melléklet az 1052/2023. (II. 23.) Korm. határozathoz[^10]
 
 [^1]: Az 1. pont 1.2. pont záró szövegrésze az 1268/2024. (IX. 10.) Korm. határozat 27. pont a)-b) alpontja szerint módosított szöveg.
 [^2]: Az 1. pont 1.2. alpont b) pontja az 1268/2024. (IX. 10.) Korm. határozat 10. pontjával megállapított szöveg.
-[^3]: Az 1. pont 1.2. alpont c) pontja az 1268/2024. (IX. 10.) Korm. határozat 10. pontjával megállapított szöveg.
-[^4]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: A 6. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^9]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. pont 1.2. alpont c) pontja az 1387/2024. (XII. 9.) Korm. határozat 8. pontjával megállapított szöveg.
+[^4]: Az 1. pont 1.2. alpont d) pontja az 1387/2024. (XII. 9.) Korm. határozat 8. pontjával megállapított szöveg.
+[^5]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 6. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
