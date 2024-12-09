@@ -104,37 +104,37 @@
 
 ## c) a Magyarország 2024. évi központi költségvetéséről szóló 2023. évi LV. törvény 1. melléklet XVII. Energiaügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 39. Térségi fejlesztési feladatok alcím javára 17 794 619 294 forint,
 
-## d) a 2025. évben 31 011 327 526 forint,
+## d)[^9] a 2025. évben 31 535 055 929 forint,
 
-## e) a 2026. évben 26 405 760 787 forint;
+## e)[^10] a 2026. évben 25 882 032 384 forint;
 
 | Felelős: | pénzügyminiszter energiaügyi miniszter |
 
 | Határidő: | az a)–c) pont tekintetében a felmerülés ütemében a d) és e) pont tekintetében az adott évi központi költségvetés tervezése során |
 
-## 1.9. [^9] felhívja az innovációért és technológiáért felelős minisztert, hogy a Beruházások megvalósítása érdekében gondoskodjon a MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zártkörűen Működő Részvénytársasággal 67 582 500 000 forint összegben támogatási szerződés megkötéséről;
+## 1.9. [^11] felhívja az innovációért és technológiáért felelős minisztert, hogy a Beruházások megvalósítása érdekében gondoskodjon a MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zártkörűen Működő Részvénytársasággal 67 582 500 000 forint összegben támogatási szerződés megkötéséről;
 
 ## Felelős: innovációért és technológiáért felelős miniszter
 
 ## Határidő: a 2022. évi forrás rendelkezésre állását követően azonnal
 
-## 1.10. [^10] felhívja a technológiai és ipari minisztert, hogy a Beruházások megvalósítása érdekében gondoskodjon az OPUS TITÁSZ Áramhálózati Zártkörűen Működő Részvénytársasággal 30 829 575 000 forint összegben támogatási szerződés megkötéséről;
+## 1.10. [^12] felhívja a technológiai és ipari minisztert, hogy a Beruházások megvalósítása érdekében gondoskodjon az OPUS TITÁSZ Áramhálózati Zártkörűen Működő Részvénytársasággal 30 829 575 000 forint összegben támogatási szerződés megkötéséről;
 
 ## Felelős: technológiai és ipari miniszter
 
 ## Határidő: a 2022. évi forrás rendelkezésre állását követően azonnal
 
-## 1.11. [^11] felhívja az innovációért és technológiáért felelős minisztert, hogy a Beruházások megvalósítása érdekében gondoskodjon az MVM Démász Áramhálózati Korlátolt Felelősségű Társaság részére 2 162 000 000 forint összegben támogatói okirat kiadásáról;
+## 1.11. [^13] felhívja az innovációért és technológiáért felelős minisztert, hogy a Beruházások megvalósítása érdekében gondoskodjon az MVM Démász Áramhálózati Korlátolt Felelősségű Társaság részére 2 162 000 000 forint összegben támogatói okirat kiadásáról;
 
 ## Felelős: innovációért és technológiáért felelős miniszter
 
 ## Határidő: a 2022. évi forrás rendelkezésre állását követően azonnal
 
-## 1.12. [^12] felhívja a technológiai és ipari minisztert, hogy az 1.7.2. pont d) alpontjában foglaltakra tekintettel a Beruházások megvalósítása érdekében gondoskodjon Debrecen Megyei Jogú Város Önkormányzatával
+## 1.12. [^14] felhívja a technológiai és ipari minisztert, hogy az 1.7.2. pont d) alpontjában foglaltakra tekintettel a Beruházások megvalósítása érdekében gondoskodjon Debrecen Megyei Jogú Város Önkormányzatával
 
-## a) [^13] 3 415 562 139 forint összegű visszatérítési kötelezettséggel járó támogatást tartalmazó, valamint
+## a) [^15] 3 415 562 139 forint összegű visszatérítési kötelezettséggel járó támogatást tartalmazó, valamint
 
-## b) [^14] 7 059 085 335 forint összegű vissza nem térítendő támogatást tartalmazó
+## b) [^16] 7 059 085 335 forint összegű vissza nem térítendő támogatást tartalmazó
 
 ## támogatási szerződés megkötéséről, azzal, hogy a támogatási szerződésben kerüljön rögzítésre, ha a Debrecen Megyei Jogú Város Önkormányzata a terület értékesítése során a vevőre áthárításra kerülő teljesítményarányos csatlakozási díj tekintetében az a) pont szerinti összegnél nagyobb bevételre (a továbbiakban: többletbevétel) tesz szert, a többletbevétellel azonos összegű vissza nem térítendő támogatást köteles visszafizetni a központi költségvetés javára, legfeljebb a b) pontban meghatározott vissza nem térítendő támogatás csatlakozási díjra eső összegének erejéig;
 
@@ -148,19 +148,19 @@
 
 ## Határidő: 2022. március 31.
 
-## 1.14. [^15] felhívja a pénzügyminisztert, hogy a külgazdasági és külügyminiszter kezdeményezése alapján gondoskodjon a Beruházások megvalósítása tekintetében felmerülő, a Kormány által elfogadott többletforrás-igények finanszírozásához szükséges forrásoknak a központi költségvetés térségi fejlesztési feladatokat finanszírozó előirányzata javára történő biztosításáról;
+## 1.14. [^17] felhívja a pénzügyminisztert, hogy a külgazdasági és külügyminiszter kezdeményezése alapján gondoskodjon a Beruházások megvalósítása tekintetében felmerülő, a Kormány által elfogadott többletforrás-igények finanszírozásához szükséges forrásoknak a központi költségvetés térségi fejlesztési feladatokat finanszírozó előirányzata javára történő biztosításáról;
 
 | Felelős: | pénzügyminiszter külgazdasági és külügyminiszter |
 
 | Határidő: | a felmerülés ütemében |
 
-## 1.15. [^16]
+## 1.15. [^18]
 
-## 2.[^17]
+## 2.[^19]
 
-## 3.[^18]
+## 3.[^20]
 
-1. melléklet az 1041/2022. (II. 4.) Korm. határozathoz[^19]
+1. melléklet az 1041/2022. (II. 4.) Korm. határozathoz[^21]
 
 [^1]: Az 1. pont 1.7. alpont 1.7.1. pontja az 1415/2022. (VIII. 18.) Korm. határozat 1. pontjával megállapított szöveg.
 [^2]: Az 1. pont 1.7. alpont 1.7.2. pontja az 1415/2022. (VIII. 18.) Korm. határozat 1. pontjával megállapított, nyitó szövegrésze az 1577/2022. (XI. 28.) Korm. határozat 3. pont a) pontja szerint módosított szöveg.
@@ -170,14 +170,16 @@
 [^6]: Az 1. pont 1.7. alpont 1.7.2. pont d) alpontja az 1577/2022. (XI. 28.) Korm. határozat 3. pont e) pontja szerint módosított szöveg.
 [^7]: Az 1.7. pont 1.7.3. alpontját az 1255/2022. (V. 9.) Korm. határozat 2. pontja iktatta be.
 [^8]: Az 1. pont 1.8. alpontja az 1268/2024. (IX. 10.) Korm. határozat 8. pontjával megállapított szöveg.
-[^9]: Az 1. pont 1.9. alpontja az 1577/2022. (XI. 28.) Korm. határozat 5. pont a) alpontja szerint módosított szöveg.
-[^10]: Az 1. pont 1.10. alpontja az 1415/2022. (VIII. 18.) Korm. határozat 3. pontjával megállapított, az 1577/2022. (XI. 28.) Korm. határozat 5. pont b) alpontja szerint módosított szöveg.
-[^11]: Az 1. pont 1.11. alpontja az 1577/2022. (XI. 28.) Korm. határozat 5. pont c) alpontja szerint módosított szöveg.
-[^12]: Az 1. pont 1.12. alpontja az 1415/2022. (VIII. 18.) Korm. határozat 4. pontjával megállapított szöveg.
-[^13]: Az 1. pont 1.12. alpont a) pontja az 1577/2022. (XI. 28.) Korm. határozat 5. pont d) alpontja szerint módosított szöveg.
-[^14]: Az 1. pont 1.12. alpont b) pontja az 1577/2022. (XI. 28.) Korm. határozat 5. pont e) alpontja szerint módosított szöveg.
-[^15]: Az 1.14. pontot az 1255/2022. (V. 9.) Korm. határozat 5. pontja visszavonta, újonnan az 1577/2022. (XI. 28.) Korm. határozat 2. pontja iktatta be.
-[^16]: Az 1.15. pontot az 1255/2022. (V. 9.) Korm. határozat 5. pontja visszavonta.
-[^17]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^18]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^19]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: Az 1. pont 1.8. alpont d) pontja az 1387/2024. (XII. 9.) Korm. határozat 5. pontjával megállapított szöveg.
+[^10]: Az 1. pont 1.8. alpont e) pontja az 1387/2024. (XII. 9.) Korm. határozat 5. pontjával megállapított szöveg.
+[^11]: Az 1. pont 1.9. alpontja az 1577/2022. (XI. 28.) Korm. határozat 5. pont a) alpontja szerint módosított szöveg.
+[^12]: Az 1. pont 1.10. alpontja az 1415/2022. (VIII. 18.) Korm. határozat 3. pontjával megállapított, az 1577/2022. (XI. 28.) Korm. határozat 5. pont b) alpontja szerint módosított szöveg.
+[^13]: Az 1. pont 1.11. alpontja az 1577/2022. (XI. 28.) Korm. határozat 5. pont c) alpontja szerint módosított szöveg.
+[^14]: Az 1. pont 1.12. alpontja az 1415/2022. (VIII. 18.) Korm. határozat 4. pontjával megállapított szöveg.
+[^15]: Az 1. pont 1.12. alpont a) pontja az 1577/2022. (XI. 28.) Korm. határozat 5. pont d) alpontja szerint módosított szöveg.
+[^16]: Az 1. pont 1.12. alpont b) pontja az 1577/2022. (XI. 28.) Korm. határozat 5. pont e) alpontja szerint módosított szöveg.
+[^17]: Az 1.14. pontot az 1255/2022. (V. 9.) Korm. határozat 5. pontja visszavonta, újonnan az 1577/2022. (XI. 28.) Korm. határozat 2. pontja iktatta be.
+[^18]: Az 1.15. pontot az 1255/2022. (V. 9.) Korm. határozat 5. pontja visszavonta.
+[^19]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
