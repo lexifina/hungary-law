@@ -16,17 +16,19 @@
 
 | Határidő: | azonnal |
 
-## 1.4. felhívja az energiaügyi minisztert, hogy a pénzügyminiszter bevonásával gondoskodjon
+## 1.4. [^1] felhívja az energiaügyi minisztert, hogy a pénzügyminiszter bevonásával gondoskodjon
 
 ## a) a 2024. évi központi költségvetésről szóló törvényben meghatározott Térségi fejlesztési feladatok előirányzat javára 4 055 431 800 forint,
 
-## b) a 2025. évi központi költségvetésről szóló törvényben meghatározott Térségi fejlesztési feladatok előirányzat javára 3 016 809 000 forint
+## b) a 2025. évi központi költségvetésről szóló törvényben meghatározott Térségi fejlesztési feladatok előirányzat javára 2 016 209 000 forint,
+
+## c) a 2026. évi központi költségvetésről szóló törvényben meghatározott Térségi fejlesztési feladatok előirányzat javára 1 000 600 000 forint
 
 ## forrás rendelkezésre állásáról;
 
 | Felelős: | energiaügyi miniszter pénzügyminiszter |
 
-| Határidő: | az adott évi központi költségvetés tervezése során |
+| Határidő: | az a) pont tekintetében a felmerülés ütemében a b) és c) pont tekintetében az adott évi központi költségvetés tervezése során |
 
 ## 1.5. felhívja az energiaügyi minisztert, hogy gondoskodjon az MVM Démász Áramhálózati Kft.-vel a Beruházások megvalósításáról és azok érdekében 7 094 000 000 forint összegű, vissza nem térítendő támogatás nyújtásáról szóló támogatási szerződés megkötéséről, az 1.2–1.4. alpontban foglaltakra tekintettel.
 
@@ -34,11 +36,12 @@
 
 | Határidő: | a támogatási szerződés megkötésére: az 1.3. alpont szerinti forrás rendelkezésre állását követően a műszaki tartalom megvalósítására: az 1.1. alpont a) pontja tekintetében 2024. június 30. az 1.1. alpont b) pontja tekintetében 2025. december 31. |
 
-## 2.[^1]
+## 2.[^2]
 
-## 3.[^2]
+## 3.[^3]
 
 1. melléklet az 1068/2023. (III. 8.) Korm. határozathoz
 
-[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont 1.4. alpontja az 1387/2024. (XII. 9.) Korm. határozat 9. pontjával megállapított szöveg.
+[^2]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
