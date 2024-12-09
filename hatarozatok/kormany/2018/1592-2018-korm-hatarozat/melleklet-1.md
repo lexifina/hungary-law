@@ -260,35 +260,35 @@
 
 ## a) a 2023. évben a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény 1. melléklet XVII. Energiaügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 39. Térségi fejlesztési feladatok jogcímcsoport javára legfeljebb 10 982 145 120 forint,
 
-## b) a 2025. évben a központi költségvetés XVII. Energiaügyi Minisztérium fejezet, térségi fejlesztési feladatokat finanszírozó előirányzat javára legfeljebb 315 189 000 forint,
+## b)[^11] a 2025. évben a központi költségvetés XVII. Energiaügyi Minisztérium fejezet, térségi fejlesztési feladatokat finanszírozó előirányzat javára legfeljebb 1 088 628 647 forint,
 
-## c) a 2026. évben a központi költségvetés XVII. Energiaügyi Minisztérium fejezet, térségi fejlesztési feladatokat finanszírozó előirányzat javára legfeljebb 6 020 610 200 forint,
+## c)[^12] a 2026. évben a központi költségvetés XVII. Energiaügyi Minisztérium fejezet, térségi fejlesztési feladatokat finanszírozó előirányzat javára legfeljebb 9 188 509 800 forint,
 
-## d) a 2027. évben a központi költségvetés XVII. Energiaügyi Minisztérium fejezet, térségi fejlesztési feladatokat finanszírozó előirányzat javára legfeljebb 6 799 367 690 forint;
+## d)[^13] a 2027. évben a központi költségvetés XVII. Energiaügyi Minisztérium fejezet, térségi fejlesztési feladatokat finanszírozó előirányzat javára legfeljebb 2 858 028 443 forint;
 
 | Felelős: | energiaügyi miniszter pénzügyminiszter |
 
 | Határidő: | az a) pont tekintetében azonnal a b)–d) pont tekintetében az adott évi központi költségvetés tervezésekor |
 
-## 3.10. [^11] felhívja az energiaügyi minisztert, hogy a 3.7. alpont szerinti feladatok megvalósítása érdekében gondoskodjon a MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zártkörűen Működő Részvénytársasággal 12 000 000 000 forint összegben támogatási szerződés megkötéséről;
+## 3.10. [^14] felhívja az energiaügyi minisztert, hogy a 3.7. alpont szerinti feladatok megvalósítása érdekében gondoskodjon a MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zártkörűen Működő Részvénytársasággal 12 000 000 000 forint összegben támogatási szerződés megkötéséről;
 
 | Felelős: | energiaügyi miniszter |
 
 | Határidő: | azonnal |
 
-## 3.11. [^12] felhívja az energiaügyi minisztert, hogy a 3.7. alpont szerinti feladatok megvalósítása érdekében gondoskodjon az OPUS TITÁSZ Áramhálózati Zártkörűen Működő Részvénytársasággal 9 974 040 000 forint összegben támogatási szerződés megkötéséről;
+## 3.11. [^15] felhívja az energiaügyi minisztert, hogy a 3.7. alpont szerinti feladatok megvalósítása érdekében gondoskodjon az OPUS TITÁSZ Áramhálózati Zártkörűen Működő Részvénytársasággal 9 974 040 000 forint összegben támogatási szerződés megkötéséről;
 
 | Felelős: | energiaügyi miniszter |
 
 | Határidő: | azonnal |
 
-## 3.12. [^13] felhívja az energiaügyi minisztert, hogy a 3.7. alpont szerinti feladatok megvalósítása érdekében gondoskodjon az MVM ÉMÁSZ Áramhálózati Korlátolt Felelősségű Társaság részére 1 083 000 000 forint összegben támogatói okirat kiadásáról;
+## 3.12. [^16] felhívja az energiaügyi minisztert, hogy a 3.7. alpont szerinti feladatok megvalósítása érdekében gondoskodjon az MVM ÉMÁSZ Áramhálózati Korlátolt Felelősségű Társaság részére 1 083 000 000 forint összegben támogatói okirat kiadásáról;
 
 | Felelős: | energiaügyi miniszter |
 
 | Határidő: | azonnal |
 
-## 3.13. [^14] felhívja az energiaügyi minisztert, hogy a 3.8. alpont d) pontjában foglaltakra tekintettel a 3.7. alpont szerinti feladatok megvalósítása érdekében gondoskodjon Debrecen Megyei Jogú Város Önkormányzatával
+## 3.13. [^17] felhívja az energiaügyi minisztert, hogy a 3.8. alpont d) pontjában foglaltakra tekintettel a 3.7. alpont szerinti feladatok megvalósítása érdekében gondoskodjon Debrecen Megyei Jogú Város Önkormányzatával
 
 ## a) 479 653 168 forint összegű visszatérítési kötelezettséggel járó támogatást tartalmazó, valamint
 
@@ -300,13 +300,13 @@
 
 | Határidő: | azonnal |
 
-## 3a.[^15] felhívja az érintett minisztereket, hogy gondoskodjanak arról, hogy a jelen határozat szerinti beruházások előkészítése és megvalósítása az Európai Unió által meghatározott elszámolhatósági feltételeknek megfelelően történjen meg;
+## 3a.[^18] felhívja az érintett minisztereket, hogy gondoskodjanak arról, hogy a jelen határozat szerinti beruházások előkészítése és megvalósítása az Európai Unió által meghatározott elszámolhatósági feltételeknek megfelelően történjen meg;
 
 | Felelős: | érintett miniszterek |
 
 | Határidő: | folyamatos |
 
-## 3b.[^16] felhívja a területfejlesztési minisztert, hogy a 2021–2027 közötti programozási időszak operatív programjaiban és a Helyreállítási és Ellenállóképességi Eszköz keretében Magyarország számára elérhető európai uniós források tervezése és felhasználása során vegye figyelembe a jelen határozat szerinti beruházásokat a feltüntetett forrásigénnyel, ha azok bármelyike megfelel az Európai Unió által meghatározott elszámolhatósági feltételeknek.
+## 3b.[^19] felhívja a területfejlesztési minisztert, hogy a 2021–2027 közötti programozási időszak operatív programjaiban és a Helyreállítási és Ellenállóképességi Eszköz keretében Magyarország számára elérhető európai uniós források tervezése és felhasználása során vegye figyelembe a jelen határozat szerinti beruházásokat a feltüntetett forrásigénnyel, ha azok bármelyike megfelel az Európai Unió által meghatározott elszámolhatósági feltételeknek.
 
 | Felelős: | területfejlesztési miniszter |
 
@@ -314,23 +314,23 @@
 
 ## 4. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 5.[^17]
+## 5.[^20]
 
-## 6.[^18]
+## 6.[^21]
 
-## 7.[^19]
+## 7.[^22]
 
-## 8.[^20]
+## 8.[^23]
 
-## 9.[^21]
+## 9.[^24]
 
-## 10.[^22]
+## 10.[^25]
 
-## 11.[^23]
+## 11.[^26]
 
-## 12.[^24]
+## 12.[^27]
 
-1. melléklet az 1592/2018. (XI. 22.) Korm. határozathoz[^25]
+1. melléklet az 1592/2018. (XI. 22.) Korm. határozathoz[^28]
 
 1. A debreceni Észak-Nyugati Gazdasági Övezet infrastrukturális fejlesztése keretében tervezett
 
@@ -422,18 +422,21 @@ közmű projektek
 [^8]: A 3. pont 3.7. alpontját az 1302/2023. (VII. 19.) Korm. határozat 1. pontja iktatta be.
 [^9]: A 3. pont 3.8. alpontját az 1302/2023. (VII. 19.) Korm. határozat 1. pontja iktatta be.
 [^10]: A 3. pont 3.9. alpontját az 1302/2023. (VII. 19.) Korm. határozat 1. pontja iktatta be.
-[^11]: A 3. pont 3.10. alpontját az 1302/2023. (VII. 19.) Korm. határozat 1. pontja iktatta be.
-[^12]: A 3. pont 3.11. alpontját az 1302/2023. (VII. 19.) Korm. határozat 1. pontja iktatta be.
-[^13]: A 3. pont 3.12. alpontját az 1302/2023. (VII. 19.) Korm. határozat 1. pontja iktatta be.
-[^14]: A 3. pont 3.13. alpontját az 1302/2023. (VII. 19.) Korm. határozat 1. pontja iktatta be.
-[^15]: A 3a. pontot az 1302/2023. (VII. 19.) Korm. határozat 2. pontja iktatta be.
-[^16]: A 3b. pontot az 1302/2023. (VII. 19.) Korm. határozat 2. pontja iktatta be.
-[^17]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^18]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^19]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^20]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^21]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^22]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^23]: A 11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^24]: A 12. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^25]: Az 1. melléklet az 1053/2020. (II. 19.) Korm. határozat 3. pontja, az 1302/2023. (VII. 19.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^11]: A 3. pont 3.9. alpont b) pontja az 1387/2024. (XII. 9.) Korm. határozat 1. pontjával megállapított szöveg.
+[^12]: A 3. pont 3.9. alpont c) pontja az 1387/2024. (XII. 9.) Korm. határozat 1. pontjával megállapított szöveg.
+[^13]: A 3. pont 3.9. alpont d) pontja az 1387/2024. (XII. 9.) Korm. határozat 1. pontjával megállapított szöveg.
+[^14]: A 3. pont 3.10. alpontját az 1302/2023. (VII. 19.) Korm. határozat 1. pontja iktatta be.
+[^15]: A 3. pont 3.11. alpontját az 1302/2023. (VII. 19.) Korm. határozat 1. pontja iktatta be.
+[^16]: A 3. pont 3.12. alpontját az 1302/2023. (VII. 19.) Korm. határozat 1. pontja iktatta be.
+[^17]: A 3. pont 3.13. alpontját az 1302/2023. (VII. 19.) Korm. határozat 1. pontja iktatta be.
+[^18]: A 3a. pontot az 1302/2023. (VII. 19.) Korm. határozat 2. pontja iktatta be.
+[^19]: A 3b. pontot az 1302/2023. (VII. 19.) Korm. határozat 2. pontja iktatta be.
+[^20]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 12. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^28]: Az 1. melléklet az 1053/2020. (II. 19.) Korm. határozat 3. pontja, az 1302/2023. (VII. 19.) Korm. határozat 3. pontja szerint módosított szöveg.
