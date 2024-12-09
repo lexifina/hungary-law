@@ -1,0 +1,65 @@
+## 1. A Kormány a honvédelemről és Magyar Honvédségről szóló 2021. évi CXL. törvény 6/A. § (3) bekezdése alapján határozatlan időtartamra – visszavonásig – engedélyezi az 1. melléklet szerinti, határátlépéssel járó csapatmozgásokat.
+
+## 2. Az 1. mellékletben megjelölt, a külföldi fegyveres erőkhöz tartozó kontingensek küldése, fogadása, illetve átvonulása – a szükséges és indokolt mennyiségű – saját rendszeresített gép- és harcjárműveikkel, híradó és kommunikációs eszközeikkel, fegyverzetükkel, lőszer- és robbanóanyag-ellátmányukkal, felszerelésükkel és a szállításukhoz szükséges járművekkel történhet.
+
+## 3. Az 1. pont szerinti engedély az 1. mellékletben a résztvevők – a vonatkozó összlétszám kereteit meg nem haladó – váltása érdekében történő, többszöri határátlépésére is vonatkozik.
+
+## 4. Az 1. mellékletben alkalmazott rövidítések jegyzékét a 2. melléklet tartalmazza.
+
+1. melléklet az 1385/2024. (XII. 9.) Korm. határozathoz
+
+1. Külföldi fegyveres erők csapatmozgásai
+
+|  | A | B | C | D | E |
+
+| 1. | Az áthaladás célja | A feladat tervezett időpontja | Engedélyezett létszám | A csapatmozgásban részt vevő országok | Célország, tervezett helyszín |
+
+| 2. | Iszlám Állam elnevezésű terrorszervezet elleni nemzetközi fellépés (Operation Inherent Resolve) keretében történő áthaladások | a nemzetközi mandátum időtartamára | egyidejűleg legfeljebb 1000 fő | Operation Inherent Resolve koalíciós műveletben részt vevő országok | Irak |
+
+| 3. | NATO NMI keretében történő áthaladások | a nemzetközi mandátum időtartamára | egyidejűleg legfeljebb 1000 fő | NATO NMI misszióban részt vevő országok | Irak |
+
+| 4. | NATO KFOR misszió keretében történő áthaladások | a nemzetközi mandátum időtartamára | egyidejűleg legfeljebb 1000 fő | NATO KFOR misszióban részt vevő országok | Koszovó |
+
+| 5. | EUFOR ALTHEA misszió keretében történő áthaladások | a nemzetközi mandátum időtartamára | egyidejűleg legfeljebb 1000 fő | EUFOR ALTHEA misszióban részt vevő országok | Bosznia-Hercegovina |
+
+| 6. | EUMA Armenia misszió keretében történő áthaladások | a nemzetközi mandátum időtartamára | egyidejűleg legfeljebb 200 fő | EUMA Armenia misszióban részt vevő országok | Örményország |
+
+| 7. | EUMAM Mozambique misszió keretében történő áthaladások | a nemzetközi mandátum időtartamára | egyidejűleg legfeljebb 200 fő | EUMAM Mozambique misszióban részt vevő országok | Mozambik |
+
+| 8. | EUMM Georgia misszió keretében történő áthaladások | a nemzetközi mandátum időtartamára | egyidejűleg legfeljebb 200 fő | EUMM Georgia misszióban részt vevő országok | Georgia |
+
+| 9. | EUTM RCA misszió keretében történő áthaladások | a nemzetközi mandátum időtartamára | egyidejűleg legfeljebb 500 fő | EUTM RCA misszióban részt vevő országok | Közép-afrikai Köztársaság |
+
+| 10. | EUTM Somalia misszió keretében történő áthaladások | a nemzetközi mandátum időtartamára | egyidejűleg legfeljebb 200 fő | EUTM Somalia misszióban részt vevő országok | Szomália |
+
+| 11. | EUNAVFOR ASPIDES misszió keretében történő áthaladások | a nemzetközi mandátum időtartamára | egyidejűleg legfeljebb 200 fő | EUNAVFOR ASPIDES misszióban részt vevő országok | Indiai-óceán, Ádeni-öböl, Vörös-tenger |
+
+| 12. | EUNAVFOR MED IRINI misszió keretében történő áthaladások | a nemzetközi mandátum időtartamára | egyidejűleg legfeljebb 500 fő | EUNAVFOR MED IRINI misszióban részt vevő országok | Földközi-tenger |
+
+| 13. | UNIFIL békefenntartó misszió keretében történő áthaladások | a nemzetközi mandátum időtartamára | egyidejűleg legfeljebb 500 fő | UNIFIL békefenntartó misszióban részt vevő országok | Libanon |
+
+| 14. | UNFICYP misszió keretében történő áthaladások | a nemzetközi mandátum időtartamára | egyidejűleg legfeljebb 1000 fő | UNFICYP misszióban részt vevő országok | Ciprus |
+
+| 15. | MINURSO misszió keretében történő áthaladások | a nemzetközi mandátum időtartamára | egyidejűleg legfeljebb 200 fő | MINURSO misszióban részt vevő országok | Nyugat-Szahara |
+
+| 16. | MINUSCA misszió keretében történő áthaladások | a nemzetközi mandátum időtartamára | egyidejűleg legfeljebb 500 fő | MINUSCA misszióban részt vevő országok | Közép-afrikai Köztársaság |
+
+| 17. | MFO békefenntartó misszió keretében történő áthaladások | a nemzetközi mandátum időtartamára | egyidejűleg legfeljebb 500 fő | MFO békefenntartó misszióban részt vevő országok | Egyiptom, Izrael |
+
+| 18. | NATO Előretolt Szárazföldi Erő Harccsoport (Forward Land Force Battlegroup – FLF BG) képességek [korábbi enhanced Vigilance Activity Battlegroup (eVA BG)] keretében történő áthaladások | a nemzetközi mandátum időtartamára | egyidejűleg legfeljebb 1000 fő | NATO FLF BG alakulatokban részt vevő országok | NATO, EU országok |
+
+| 19. | Szövetséges felderítő légijárművek áthaladása a magyar légtérben | a nemzetközi mandátum időtartamára | egyidejűleg legfeljebb 150 fő | szövetséges országok | NATO, EU országok |
+
+2. Magyarországon települő nemzetközi katonai szervezetekkel kapcsolatos csapatmozgások
+
+|  | A | B | C | D | E |
+
+| 1. | A tevékenység megnevezése | A feladat tervezett időpontja (negyedév) | Külföldi fegyveres erő létszáma (egyidejűleg legfeljebb, főben meghatározva) | A csapatmozgásban részt vevő országok | Célország, tervezett helyszín |
+
+| 2. | A Pápán települő Stratégiai Légiszállítási Képességgel kapcsolatos katonai szállítás jellegű csapatmozgások | a nemzetközi mandátum időtartamára | 1000 | NATO, EU országok | Magyarország, NATO, EU országok |
+
+| 3. | DCM-E csapatmozgások | a nemzetközi mandátum időtartamára | 1000 | NATO, EU országok | Magyarország, NATO, EU országok |
+
+| 4. | NFIU HUN csapatmozgások | a nemzetközi mandátum időtartamára | 1000 | NATO, EU országok | Magyarország, NATO, EU országok |
+
+| 5. | HQ MND-C csapatmozgások | a nemzetközi mandátum időtartamára | 1000 | NATO, EU országok | Magyarország, NATO, EU országok |
