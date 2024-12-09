@@ -56,15 +56,17 @@
 
 | Határidő: | a tervezési feladatok lezárultát követő 90 napon belül |
 
-## 3.8. az 1.2. alpontban meghatározott feladatok elvégzése érdekében
+## 3.8. [^1] az 1.2. alpontban meghatározott feladatok elvégzése érdekében
 
-## a) felhívja az energiaügyi minisztert, hogy a külgazdasági és külügyminiszter bevonásával a 2024. évben gondoskodjon a Kvtv2024. 1. melléklet XVII. Energiaügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 39. Térségi fejlesztési feladatok alcím terhére 15 183 064 376 forint biztosításáról,
+## a) felhívja az energiaügyi minisztert, hogy a külgazdasági és külügyminiszter bevonásával a 2024. évben gondoskodjon a Kvtv2024. 1. melléklet XVII. Energiaügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 39. Térségi fejlesztési feladatok alcím terhére 3 982 388 000 forint biztosításáról,
 
-## b) felhívja a pénzügyminisztert és az energiaügyi minisztert, hogy a 2025. évben gondoskodjanak a központi költségvetés XVII. Energiaügyi Minisztérium fejezet, Térségi fejlesztési feladatokat finanszírozó előirányzat javára legfeljebb 14 359 610 600 forint rendelkezésre állásáról;
+## b) felhívja az energiaügyi minisztert, valamint a pénzügyminisztert, hogy a 2025. évben gondoskodjanak a központi költségvetés XVII. Energiaügyi Minisztérium fejezet, Térségi fejlesztési feladatokat finanszírozó előirányzat javára legfeljebb 11 437 638 000 forint rendelkezésre állásáról,
 
-| Felelős: | az a) pont tekintetében energiaügyi miniszter, külgazdasági és külügyminiszter a b) pont tekintetében pénzügyminiszter, energiaügyi miniszter |
+## c) felhívja az energiaügyi minisztert, valamint a pénzügyminisztert, hogy a 2026. évben gondoskodjanak a központi költségvetés XVII. Energiaügyi Minisztérium fejezet, Térségi fejlesztési feladatokat finanszírozó előirányzat javára legfeljebb 14 122 648 976 forint rendelkezésre állásáról;
 
-| Határidő: | az a) pont tekintetében a felmerülés ütemében a b) pont tekintetében a 2025. évi központi költségvetés tervezése során |
+| Felelős: | az a) pont tekintetében energiaügyi miniszter külgazdasági és külügyminiszter a b) és c) pont tekintetében energiaügyi miniszter, pénzügyminiszter |
+
+| Határidő: | az a) pont tekintetében a felmerülés ütemében a b) és c) pont tekintetében az adott évi központi költségvetés tervezésekor |
 
 ## 3.9. felhívja az energiaügyi minisztert, hogy az 1.2. alpontban meghatározott feladatok megvalósítása érdekében gondoskodjon az Északdunántúli Vízmű Zártkörűen Működő Részvénytársasággal támogatási jogviszony létrehozásáról 29 524 960 000 forint összegben.
 
@@ -72,20 +74,21 @@
 
 | Határidő: | az e kormányhatározat közzétételét követő 30 napon belül |
 
-## 3.10. [^1] az Áht. 36. § (2) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy az építési és közlekedési miniszter az 1. pont 1.1. alpont a)–d) pontja szerinti beruházások előkészítése és megvalósítása érdekében a 2024. évben legfeljebb a szabad előirányzatot meghaladó mértékben, 4 010 123 076 forint összegben kötelezettséget vállaljon a Kvtv2024. 1. melléklet XVI. Építési és Közlekedési Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 1. Közlekedési célú fejezeti kezelésű előirányzatok alcím, 3. Országos közúthálózat felújítása jogcímcsoport terhére.
+## 3.10. [^2] az Áht. 36. § (2) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy az építési és közlekedési miniszter az 1. pont 1.1. alpont a)–d) pontja szerinti beruházások előkészítése és megvalósítása érdekében a 2024. évben legfeljebb a szabad előirányzatot meghaladó mértékben, 4 010 123 076 forint összegben kötelezettséget vállaljon a Kvtv2024. 1. melléklet XVI. Építési és Közlekedési Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 1. Közlekedési célú fejezeti kezelésű előirányzatok alcím, 3. Országos közúthálózat felújítása jogcímcsoport terhére.
 
 ## 4. A Kormány az állami építési beruházások rendjéről szóló 2023. évi LXIX. törvény (a továbbiakban: Törvény) 4. § (2) bekezdésében biztosított jogkörében eljárva – a beruházások gyors lefolytatása érdekében – az 1.1–1.2. alpontban meghatározott fejlesztéseket, az ahhoz fűződő kiemelt nemzeti és befektetésösztönzési érdekre tekintettel, mentesíti a Törvény rendelkezéseinek alkalmazása alól.
 
-## 5.[^2]
+## 5.[^3]
 
-## 6.[^3]
+## 6.[^4]
 
-## 7.[^4]
+## 7.[^5]
 
-1. melléklet az 1151/2024. (V. 23.) Korm. határozathoz[^5]
+1. melléklet az 1151/2024. (V. 23.) Korm. határozathoz[^6]
 
-[^1]: A 3. pont 3.10. alpontját az 1268/2024. (IX. 10.) Korm. határozat 25. pontja iktatta be.
-[^2]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 6. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A 7. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 3. pont 3.8. alpontja az 1387/2024. (XII. 9.) Korm. határozat 17. pontjával megállapított szöveg.
+[^2]: A 3. pont 3.10. alpontját az 1268/2024. (IX. 10.) Korm. határozat 25. pontja iktatta be.
+[^3]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 6. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 7. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
