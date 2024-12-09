@@ -56,11 +56,13 @@
 
 ## a) a Magyarország 2024. évi központi költségvetéséről szóló 2023. évi LV. törvény 1. melléklet XVII. Energiaügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 39. Térségi fejlesztési feladatok alcím javára 5 529 052 480 forint,
 
-## b) a 2025. évben 757 418 773 forint;
+## b) a 2025. évben 507 293 773 forint,
+
+## c) a 2026. évben 250 125 000 forint;
 
 | Felelős: | energiaügyi miniszter pénzügyminiszter |
 
-| Határidő: | az a) pont tekintetében a felmerülés ütemében a b) pont tekintetében a 2025. évi központi költségvetés tervezése során |
+| Határidő: | az a) pont tekintetében a felmerülés ütemében a b) és c) pont tekintetében az adott évi központi költségvetés tervezése során |
 
 ## 1.5. [^14] felhívja az energiaügyi minisztert, hogy a Beruházások megvalósítása érdekében gondoskodjon a MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zártkörűen Működő Részvénytársaság részére 4 980 000 000 forint összegben támogatói okirat kiadásáról;
 
@@ -120,7 +122,7 @@
 [^10]: Az 1. pont 1.2. alpont b) pontja az 1013/2023. (I. 25.) Korm. határozat 5. pont e) alpontja szerint módosított szöveg.
 [^11]: Az 1. pont 1.2. alpont d) pontja az 1013/2023. (I. 25.) Korm. határozat 5. pont f) alpontja szerint módosított szöveg.
 [^12]: Az 1. pont 1.3. alpontja az 1013/2023. (I. 25.) Korm. határozat 5. pont g) alpontja szerint módosított szöveg.
-[^13]: Az 1. pont 1.4. alpontja az 1268/2024. (IX. 10.) Korm. határozat 9. pontjával megállapított szöveg.
+[^13]: Az 1. pont 1.4. alpontja az 1387/2024. (XII. 9.) Korm. határozat 6. pontjával megállapított szöveg.
 [^14]: Az 1. pont 1.5. alpontja az 1013/2023. (I. 25.) Korm. határozat 5. pont h) alpontja szerint módosított szöveg.
 [^15]: Az 1. pont 1.6. alpontja az 1013/2023. (I. 25.) Korm. határozat 5. pont i) alpontja szerint módosított szöveg.
 [^16]: Az 1. pont 1.7. alpontja az 1013/2023. (I. 25.) Korm. határozat 5. pont j) alpontja szerint módosított szöveg.
