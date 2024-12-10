@@ -284,8 +284,10 @@
 
 | 132. | Élelmiszeripari beruházás Dunavarsány területén | Dunavarsány közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti Dunavarsány belterület 5086, 5042/6, 5058, 5059, 5060, 5061, 5062, 5063/2, 5063/3, 5063/4, 5063/5, 5063/6, 5071/2, 5076, 5077, 5078 helyrajzi számú ingatlanok. | Pest Vármegyei Kormányhivatalt vezető főispán |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^491]
+| 133. | Gépipari beruházás Kecel területén | Kecel közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti Kecel külterület 0231/1, 0231/2, 0231/5, 0231/6, 0231/51, 0231/52, 0231/57, 0231/70, 0231/71, 0233/12, 0233/13, 0233/14, 0233/15, 0233/16, 0236/1, 0236/9, 0236/10, 0236/72, 0236/73, 0236/74, 0236/77 helyrajzi számú ingatlanok. | Bács-Kiskun Vármegyei Kormányhivatalt vezető főispán |
+
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^494]
 
 A 2. mellékletben foglalt táblázat 7 és 7a sora szerinti beruházások közlekedési kapacitásbővítéssel összefüggő útszélesítései
 
-[^491]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^494]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
