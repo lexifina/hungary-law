@@ -1,5 +1,3 @@
-## 4/A. §[^12] Az OVF a környezetkárosodás megelőzésének és elhárításának rendjéről szóló kormányrendelet szerinti, azonnali beavatkozást igénylő vízminőségi károsodás elleni védekezési feladatait az Országos Műszaki Irányító Törzs útján látja el, a vizek kártételei elleni védekezés szabályairól szóló kormányrendelet szerint.
-
 ## 4. A vízügyi igazgatóság vízvédelmi igazgatási feladatai
 
 ## 5. § A vízügyi igazgatóság
@@ -32,7 +30,6 @@ m)[^15] a Kvt. felelősségi szabályaira tekintettel ellátja a felelősségi i
 
 n)[^16] a Kvt. felelősségi szabályaira tekintettel közreműködik a felelősségi irányelv végrehajtásához kapcsolódó, a felszíni vizek minősége védelmének szabályairól szóló kormányrendeletben és a felszín alatti vizek védelméről szóló kormányrendeletben meghatározott vízvédelmi feladatokban.
 
-[^12]: A 4/A. §-t az 576/2021. (X. 12.) Korm. rendelet 3. §-a iktatta be.
 [^13]: Az 5. § c) pontja a 289/2016. (IX. 22.) Korm. rendelet 14. § (1) bekezdésével megállapított, a 195/2017. (VII. 10.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
 [^14]: Az 5. § e) pontja a 289/2016. (IX. 22.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
 [^15]: Az 5. § m) pontját a 289/2016. (IX. 22.) Korm. rendelet 14. § (3) bekezdése iktatta be.
