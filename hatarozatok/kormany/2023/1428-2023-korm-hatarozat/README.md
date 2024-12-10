@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-1428-30
 | 2023-10-06 | 2023-1428-30-22.1 | 1428/2023. (X. 5.) Korm. határozat |
 | 2024-07-30 | 2023-1428-30-22.2 | 1217/2024. (VII. 29.) Korm. határozat |
 | 2024-08-01 | 2023-1428-30-22.3 | 1217/2024. (VII. 29.) Korm. határozat |
+| 2024-12-10 | 2023-1428-30-22.4 | 1383/2024. (XII. 9.) Korm. határozat |

@@ -16,11 +16,13 @@ A MAHOP Plusz éves fejlesztési kerete
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | MAHOP Plusz-1.1.1-2024 | Halászati ellenőrzés és nyomon követés támogatása | 1,496 | kiemelt | 2024. augusztus[^1] |
+| 2. | MAHOP Plusz-1.1.1-2024 | Halászati ellenőrzés és nyomon követés támogatása | 1,580[^1] | kiemelt | 2024. november[^2] |
 
-| 3. | MAHOP Plusz-1.2.1-2024 | Halgazdálkodással kapcsolatos adatgyűjtés, -kezelés és -felhasználás támogatása | 1,391[^2] | kiemelt | 2024. július[^3] |
+| 3. | MAHOP Plusz-1.2.1-2024 | Halgazdálkodással kapcsolatos adatgyűjtés, -kezelés és -felhasználás támogatása | 1,474[^3] | kiemelt | 2024. november[^4] |
 
-| 4.[^4] | MAHOP Plusz-1.2.2-2024 | Halgazdálkodással kapcsolatos adatgyűjtések kereteinek kialakítása | 0,105 | kiemelt | 2024. szeptember |
+| 4.[^5] | MAHOP Plusz-1.2.2-2024 | Halgazdálkodással kapcsolatos adatgyűjtések kereteinek kialakítása | 0,105 | kiemelt | 2024. november[^6] |
+
+| 5.[^7] | MAHOP Plusz-1.3.1-2025 | A fenntartható természetesvízi halgazdálkodás támogatása | 2,369 | standard | 2025. április |
 
 2. A fenntartható akvakultúra-tevékenységeknek, valamint a halászati és akvakultúra-termékek feldolgozásának és piaci értékesítésének előmozdítása, ezáltal hozzájárulva az Unió élelmezésbiztonságához
 
@@ -28,9 +30,17 @@ A MAHOP Plusz éves fejlesztési kerete
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | MAHOP Plusz-2.3.1-2024 | Halastavak természetiérték-fenntartó szerepének támogatása | 3,021 | egyszerűsített | 2024. július[^5] |
+| 2. | MAHOP Plusz-2.3.1-2024 | Halastavak természetiérték-fenntartó szerepének támogatása | 3,191[^8] | egyszerűsített | 2024. szeptember[^9] |
 
-| 3. | MAHOP Plusz-2.6.1-2024 | Halmarketing | 0,700 | kiemelt | 2024. július[^6] |
+| 3. | MAHOP Plusz-2.6.1-2024 | Halmarketing | 0,740[^10] | kiemelt | 2024. november[^11] |
+
+| 4.[^12] | MAHOP Plusz-2.1.1-2025 | Akvakultúra beruházás támogatása | 6,320 | standard | 2025. március |
+
+| 5.[^13] | MAHOP Plusz-2.2.1-2025 | A tudásalapú akvakultúra fejlesztés támogatása | 1,343 | standard | 2025. április |
+
+| 6.[^14] | MAHOP Plusz-2.4.1-2025 | Termelői szervezetek létrehozásának támogatása | 0,118 | standard | 2025. május |
+
+| 7.[^15] | MAHOP Plusz-2.5.1-2025 | Halfeldolgozás | 1,698 | standard | 2025. március |
 
 3. Uniós prioritáson kívüli intézkedés – Technikai Segítségnyújtás
 
@@ -38,23 +48,32 @@ A MAHOP Plusz éves fejlesztési kerete
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | MAHOP Plusz-3.1.1-2024[^7] | A Magyar Halgazdálkodási Operatív Program Plusz megvalósítását szolgáló Technikai Segítségnyújtás Projekt | 1,169[^8] | kiemelt | 2024. július[^9] |
+| 2. | MAHOP Plusz-3.1.1-2024[^16] | A Magyar Halgazdálkodási Operatív Program Plusz megvalósítását szolgáló Technikai Segítségnyújtás Projekt | 1,236[^17] | kiemelt | 2024. október[^18] |
 
-| 3. | MAHOP Plusz-3.1.2-2024 | A Magyar Halgazdálkodási Operatív Program Pluszhoz kapcsolódó támogatási kérelmek állami projektértékelői feladatának támogatása | 0,040 | kiemelt | 2024. július[^10] |
+| 3. | MAHOP Plusz-3.1.2-2024 | A Magyar Halgazdálkodási Operatív Program Pluszhoz kapcsolódó támogatási kérelmek állami projektértékelői feladatának támogatása | 0,040 | kiemelt | 2024. szeptember[^19] |
 
-| 4.[^11] |  |  |  |  |  |
+| 4.[^20] |  |  |  |  |  |
 
-| 5.[^12] |  |  |  |  |  |
+| 5.[^21] |  |  |  |  |  |
 
-[^1]: Az 1. melléklet 1. pontjában foglalt táblázat E:2 mezője az 1217/2024. (VII. 29.) Korm. határozat 3. pont 3.1. pontja szerint módosított szöveg.
-[^2]: Az 1. melléklet 1. pontjában foglalt táblázat C:3 mezője az 1217/2024. (VII. 29.) Korm. határozat 3. pont 3.2. pontjával megállapított szöveg.
-[^3]: Az 1. melléklet 1. pontjában foglalt táblázat E:3 mezője az 1217/2024. (VII. 29.) Korm. határozat 3. pont 3.3. pontja szerint módosított szöveg.
-[^4]: Az 1. melléklet 1. pontjában foglalt táblázat 4. sorát az 1217/2024. (VII. 29.) Korm. határozat 1. pontja iktatta be.
-[^5]: Az 1. melléklet 2. pontjában foglalt táblázat E:2 mezője az 1217/2024. (VII. 29.) Korm. határozat 3. pont 3.4. pontja szerint módosított szöveg.
-[^6]: Az 1. melléklet 2. pontjában foglalt táblázat E:3 mezője az 1217/2024. (VII. 29.) Korm. határozat 3. pont 3.5. pontja szerint módosított szöveg.
-[^7]: Az 1. melléklet 3. pontjában foglalt táblázat A:2 mezője az 1217/2024. (VII. 29.) Korm. határozat 3. pont 3.6. pontjával megállapított szöveg.
-[^8]: Az 1. melléklet 3. pontjában foglalt táblázat C:2 mezője az 1217/2024. (VII. 29.) Korm. határozat 3. pont 3.7. pontjával megállapított szöveg.
-[^9]: Az 1. melléklet 3. pontjában foglalt táblázat E:2 mezője az 1217/2024. (VII. 29.) Korm. határozat 3. pont 3.8. pontjával megállapított szöveg.
-[^10]: Az 1. melléklet 3. pontjában foglalt táblázat E:3. mezője az 1217/2024. (VII. 29.) Korm. határozat 3. pont 3.9. pontja szerint módosított szöveg.
-[^11]: Az 1. melléklet 3. pontjában foglalt táblázat 4. sorát az 1217/2024. (VII. 29.) Korm. határozat 5. pont a) alpontja hatályon kívül helyezte.
-[^12]: Az 1. melléklet 3. pontjában foglalt táblázat 5. sorát az 1217/2024. (VII. 29.) Korm. határozat 5. pont a) alpontja hatályon kívül helyezte.
+[^1]: Az 1. melléklet 1. pontjában foglalt táblázat C:2 mezője az 1383/2024. (XII. 9.) Korm. határozat 2. pont 2.1. alpontjával megállapított szöveg.
+[^2]: Az 1. melléklet 1. pontjában foglalt táblázat E:2 mezője az 1383/2024. (XII. 9.) Korm. határozat 2. pont 2.2. alpontja szerint módosított szöveg.
+[^3]: Az 1. melléklet 1. pontjában foglalt táblázat C:3 mezője az 1383/2024. (XII. 9.) Korm. határozat 2. pont 2.3. alpontjával megállapított szöveg.
+[^4]: Az 1. melléklet 1. pontjában foglalt táblázat E:3 mezője az 1383/2024. (XII. 9.) Korm. határozat 2. pont 2.4. alpontja szerint módosított szöveg.
+[^5]: Az 1. melléklet 1. pontjában foglalt táblázat 4. sorát az 1217/2024. (VII. 29.) Korm. határozat 1. pontja iktatta be.
+[^6]: Az 1. melléklet 1. pontjában foglalt táblázat E:4 mezője az 1383/2024. (XII. 9.) Korm. határozat 2. pont 2.5. alpontja szerint módosított szöveg.
+[^7]: Az 1. melléklet 1. pontjában foglalt táblázat 5. sorát az 1383/2024. (XII. 9.) Korm. határozat 1. pontja iktatta be.
+[^8]: Az 1. melléklet 2. pontjában foglalt táblázat C:2 mezője az 1383/2024. (XII. 9.) Korm. határozat 2. pont 2.6. alpontjával megállapított szöveg.
+[^9]: Az 1. melléklet 2. pontjában foglalt táblázat E:2 mezője az 1383/2024. (XII. 9.) Korm. határozat 2. pont 2.7. alpontja szerint módosított szöveg.
+[^10]: Az 1. melléklet 2. pontjában foglalt táblázat C:3 mezője az 1383/2024. (XII. 9.) Korm. határozat 2. pont 2.8. alpontjával megállapított szöveg.
+[^11]: Az 1. melléklet 2. pontjában foglalt táblázat E:3 mezője az 1383/2024. (XII. 9.) Korm. határozat 2. pont 2.9. alpontja szerint módosított szöveg.
+[^12]: Az 1. melléklet 2. pontjában foglalt táblázat 4. sorát az 1383/2024. (XII. 9.) Korm. határozat 1. pontja iktatta be.
+[^13]: Az 1. melléklet 2. pontjában foglalt táblázat 5. sorát az 1383/2024. (XII. 9.) Korm. határozat 1. pontja iktatta be.
+[^14]: Az 1. melléklet 2. pontjában foglalt táblázat 6. sorát az 1383/2024. (XII. 9.) Korm. határozat 1. pontja iktatta be.
+[^15]: Az 1. melléklet 2. pontjában foglalt táblázat 7. sorát az 1383/2024. (XII. 9.) Korm. határozat 1. pontja iktatta be.
+[^16]: Az 1. melléklet 3. pontjában foglalt táblázat A:2 mezője az 1217/2024. (VII. 29.) Korm. határozat 3. pont 3.6. alpontjával megállapított szöveg.
+[^17]: Az 1. melléklet 3. pontjában foglalt táblázat C:2 mezője az 1383/2024. (XII. 9.) Korm. határozat 2. pont 2.10. alpontjával megállapított szöveg.
+[^18]: Az 1. melléklet 3. pontjában foglalt táblázat E:2 mezője az 1383/2024. (XII. 9.) Korm. határozat 2. pont 2.11. alpontja szerint módosított szöveg.
+[^19]: Az 1. melléklet 3. pontjában foglalt táblázat E:3 mezője az 1383/2024. (XII. 9.) Korm. határozat 2. pont 2.12. alpontja szerint módosított szöveg.
+[^20]: Az 1. melléklet 3. pontjában foglalt táblázat 4. sorát az 1217/2024. (VII. 29.) Korm. határozat 5. pont a) alpontja hatályon kívül helyezte.
+[^21]: Az 1. melléklet 3. pontjában foglalt táblázat 5. sorát az 1217/2024. (VII. 29.) Korm. határozat 5. pont a) alpontja hatályon kívül helyezte.
