@@ -1,3 +1,3 @@
-17. §[^50]
+17. §[^52]
 
-[^50]: A 17. §-t a 257/2024. (VIII. 29.) Korm. rendelet 128. § f) pontja hatályon kívül helyezte.
+[^52]: A 17. §-t a 257/2024. (VIII. 29.) Korm. rendelet 128. § f) pontja hatályon kívül helyezte.

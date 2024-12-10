@@ -6,19 +6,19 @@ a) irányítja, koordinálja és ellenőrzi a területi vízügyi igazgatóságo
 
 b)[^1]
 
-c) ellátja a vizek kártételei elleni védelemmel, és ennek részeként az Országos Műszaki Irányító Törzs vezetésével kapcsolatos feladatokat,
+c)[^2] ellátja a vizek kártételei elleni védelemmel, és ennek részeként az Országos Vízügyi Irányító Törzs vezetésével kapcsolatos feladatokat,
 
 d) ellátja a területi vízügyi igazgatóságok vízrajzi tevékenységének országos szintű irányításával, a vízrajzi tevékenység egységességét biztosító szakfelügyelet ellátásával, a vízrajzi tevékenység összehangolásával és fejlesztésével kapcsolatos feladatokat,
 
 e) ellátja az egységes vízügyi nyilvántartást biztosító Vízgazdálkodási Információs Rendszer (a továbbiakban: VIZIR) országos vonatkozású üzemeltetésével és fejlesztésével kapcsolatos feladatokat,
 
-f)[^2] a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény előírásaival összhangban, a vízgazdálkodásról szóló 1995. évi LVII. törvény (a továbbiakban: Vgtv.) előírásai alapján, a VIZIR adatainak felhasználásával elvégzi a vízkészleteink mennyiségi és minőségi számbavételével kapcsolatos feladatokat,
+f)[^3] a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény előírásaival összhangban, a vízgazdálkodásról szóló 1995. évi LVII. törvény (a továbbiakban: Vgtv.) előírásai alapján, a VIZIR adatainak felhasználásával elvégzi a vízkészleteink mennyiségi és minőségi számbavételével kapcsolatos feladatokat,
 
 g) ellátja a közműves vízellátással és szennyvízkezeléssel kapcsolatos feladatokat,
 
 h) végzi a vízügyi tárgyú nemzetközi kapcsolatok koordinálásával kapcsolatos feladatokat,
 
-i)[^3] közreműködik az egyes európai uniós források felhasználásával megvalósuló vízügyi projektek tervezésével, a források felhasználásával megvalósuló központi, pályázati, valamint kiemelt kormányzati projektek megvalósításával kapcsolatos feladatok ellátásában,
+i)[^4] közreműködik az egyes európai uniós források felhasználásával megvalósuló vízügyi projektek tervezésével, a források felhasználásával megvalósuló központi, pályázati, valamint kiemelt kormányzati projektek megvalósításával kapcsolatos feladatok ellátásában,
 
 j) ellátja az egyéb, jogszabály vagy a miniszter által a feladatkörébe utalt feladatokat.
 
@@ -30,7 +30,7 @@ b) a területi vízügyi igazgatóságok fenntartásában, üzemeltetésében l�
 
 c) a területi vízügyi igazgatóságok felszíni és a felszín alatti vízkészletekkel való gazdálkodását,
 
-d)[^4] a távlati ivóvízbázisokkal kapcsolatos vízügyi igazgatósági feladatellátást,
+d)[^5] a távlati ivóvízbázisokkal kapcsolatos vízügyi igazgatósági feladatellátást,
 
 e) a VIZIR működtetésével kapcsolatos területi vízügyi igazgatósági feladatellátást, gondoskodva a más információs rendszerekkel történő országos és nemzetközi adatcseréről, valamint adatszolgáltatásról,
 
@@ -50,7 +50,7 @@ b) a jogszabályokhoz kapcsolódó előzetes és utólagos hatásvizsgálatok, v
 
 a) ellátja a vízügyi múzeumi és levéltári feladatokat, továbbá felügyeli a területi vízügyi igazgatásra vonatkozó oktatási, kutatási, múzeumi és levéltári tevékenységekkel kapcsolatos feladatokat,
 
-b)[^5] véleményezi a kiemelt térségre és vármegyére készülő területfejlesztési koncepciót és programot, valamint területrendezési tervet,
+b)[^6] véleményezi a kiemelt térségre és vármegyére készülő területfejlesztési koncepciót és programot, valamint területrendezési tervet,
 
 c) közreműködik a vízvédelmi politika terén a közösségi fellépés kereteinek meghatározásáról szóló, 2000. október 23-i 2000/60/EK európai parlamenti és tanácsi irányelv végrehajtásához kapcsolódó vízgazdálkodási vonatkozású feladatokban,
 
@@ -76,14 +76,15 @@ m) közreműködik a vízgazdálkodási szakterületi feladatok ellátását tá
 
 n) háttéranyagokat, helyzetelemzéseket, felméréseket és statisztikai elemzéseket készít szakterületi stratégiák és tervek kialakításához, valamint egyedi döntésekhez.
 
-o)[^6] ellátja a Nemzeti Környezeti Térinformatikai Rendszer létrehozásáról és működtetéséről szóló jogszabály végrehajtásával kapcsolatos feladatkörébe tartozó feladatokat,
+o)[^7] ellátja a Nemzeti Környezeti Térinformatikai Rendszer létrehozásáról és működtetéséről szóló jogszabály végrehajtásával kapcsolatos feladatkörébe tartozó feladatokat,
 
-p)[^7] ellátja a vizek többletéből eredő kockázattal érintett területek meghatározásáról, a veszély- és kockázati térképek, valamint a kockázatkezelési tervek készítéséről, tartalmáról szóló jogszabály végrehajtásával kapcsolatos feladatkörébe utalt feladatokat.
+p)[^8] ellátja a vizek többletéből eredő kockázattal érintett területek meghatározásáról, a veszély- és kockázati térképek, valamint a kockázatkezelési tervek készítéséről, tartalmáról szóló jogszabály végrehajtásával kapcsolatos feladatkörébe utalt feladatokat.
 
 [^1]: A 3. § (1) bekezdés b) pontját a 352/2014. (XII. 29.) Korm. rendelet 6. § (2) bekezdése hatályon kívül helyezte.
-[^2]: A 3. § (1) bekezdés f) pontja a 366/2015. (XII. 2.) Korm. rendelet 11. § (1) bekezdésével megállapított, a 35/2020. (III. 5.) Korm. rendelet 4. § (2) bekezdése szerint módosított szöveg.
-[^3]: A 3. § (1) bekezdés i) pontja a 238/2022. (VI. 30.) Korm. rendelet 144. § (1) bekezdésével megállapított szöveg.
-[^4]: A 3. § (2) bekezdés d) pontja a 366/2015. (XII. 2.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^5]: A 3. § (4) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 188. § a) pontja szerint módosított szöveg.
-[^6]: A 3. § (4) bekezdés o) pontját a 366/2015. (XII. 2.) Korm. rendelet 11. § (3) bekezdése iktatta be.
-[^7]: A 3. § (4) bekezdés p) pontját a 366/2015. (XII. 2.) Korm. rendelet 11. § (3) bekezdése iktatta be.
+[^2]: A 3. § (1) bekezdés c) pontja a 383/2024. (XII. 9.) Korm. rendelet 3. § (1) bekezdése szerint módosított szöveg.
+[^3]: A 3. § (1) bekezdés f) pontja a 366/2015. (XII. 2.) Korm. rendelet 11. § (1) bekezdésével megállapított, a 35/2020. (III. 5.) Korm. rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^4]: A 3. § (1) bekezdés i) pontja a 238/2022. (VI. 30.) Korm. rendelet 144. § (1) bekezdésével megállapított szöveg.
+[^5]: A 3. § (2) bekezdés d) pontja a 366/2015. (XII. 2.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^6]: A 3. § (4) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 188. § a) pontja szerint módosított szöveg.
+[^7]: A 3. § (4) bekezdés o) pontját a 366/2015. (XII. 2.) Korm. rendelet 11. § (3) bekezdése iktatta be.
+[^8]: A 3. § (4) bekezdés p) pontját a 366/2015. (XII. 2.) Korm. rendelet 11. § (3) bekezdése iktatta be.

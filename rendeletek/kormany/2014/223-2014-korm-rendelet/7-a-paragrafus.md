@@ -1,6 +1,6 @@
-## 4a.[^15] A vízügyi őrszemélyzet feladatai
+## 4a.[^17] A vízügyi őrszemélyzet feladatai
 
-7/A. § (1)[^16] A területi vízügyi igazgatóság a működési területén a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvénynek a vízügyi igazgatási szervek irányításáért felelős miniszter ágazati végrehajtásáról szóló miniszteri rendelete szerinti őri munkakörbe beosztottak (a továbbiakban: vízügyi őr) útján gondoskodik a vagyonkezelésében lévő árvízvédelmi, belvízvédelmi és vízkormányzó létesítmények, folyók, vízfolyások, csatornák, tavak, tározók és az ezekhez kapcsolódó műtárgyak, létesítmények és azok tartozékai, valamint az erdők felügyeletéről, fenntartásáról, üzemeltetéséről, karbantartásáról és állagvédelméről, az egyéb vízgazdálkodási létesítmények felügyeletéről, vagyonvédelméről, továbbá az egyes vízrajzi elemek észleléséről.
+7/A. § (1)[^18] A területi vízügyi igazgatóság a működési területén a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvénynek a vízügyi igazgatási szervek irányításáért felelős miniszter ágazati végrehajtásáról szóló miniszteri rendelete szerinti őri munkakörbe beosztottak (a továbbiakban: vízügyi őr) útján gondoskodik a vagyonkezelésében lévő árvízvédelmi, belvízvédelmi és vízkormányzó létesítmények, folyók, vízfolyások, csatornák, tavak, tározók és az ezekhez kapcsolódó műtárgyak, létesítmények és azok tartozékai, valamint az erdők felügyeletéről, fenntartásáról, üzemeltetéséről, karbantartásáról és állagvédelméről, az egyéb vízgazdálkodási létesítmények felügyeletéről, vagyonvédelméről, továbbá az egyes vízrajzi elemek észleléséről.
 
 (2) A vízügyi őrnek szolgálati feladata az (1) bekezdésben foglaltakon túl továbbá, hogy
 
@@ -26,5 +26,5 @@ c) közreműködik a belvizek elvezetésében, a vízvisszatartásban és a szü
 
 (4) A területi vízügyi igazgatóság vízügyi őrszemélyzetének tagjai más őrjárásba, valamint más területi vízügyi igazgatóság működési területére is átirányíthatók vízkár-elhárítási, valamint egyéb szolgálati feladatok elvégzése céljából.
 
-[^15]: A 4a. alcímet (7/A. §) a 100/2016. (V. 13.) Korm. rendelet 28. §-a iktatta be.
-[^16]: A 7/A. § (1) bekezdése a 217/2024. (VII. 31.) Korm. rendelet 11. §-a szerint módosított szöveg.
+[^17]: A 4a. alcímet (7/A. §) a 100/2016. (V. 13.) Korm. rendelet 28. §-a iktatta be.
+[^18]: A 7/A. § (1) bekezdése a 217/2024. (VII. 31.) Korm. rendelet 11. §-a szerint módosított szöveg.

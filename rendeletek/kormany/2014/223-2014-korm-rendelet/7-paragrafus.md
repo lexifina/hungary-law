@@ -16,7 +16,7 @@ ad) irányítja a helyi önkormányzatok, valamint a vízitársulatok vízkárel
 
 ae) adatokat szolgáltat a helyi önkormányzatok számára a vizek kártételei elleni védelemmel összefüggő, a közigazgatási feladatok ellátásához szükséges tervek elkészítéséhez, vagy törvény felhatalmazása alapján elkészíti, felülvizsgálja a terveket,
 
-af)[^9] közreműködik a védőművek építésére és fejlesztésére irányuló beruházási tevékenységek végrehajtásában,
+af)[^10] közreműködik a védőművek építésére és fejlesztésére irányuló beruházási tevékenységek végrehajtásában,
 
 ag) végzi a vízhiány kárelhárítást az állami tulajdonú vízilétesítmények tekintetében,
 
@@ -44,9 +44,9 @@ k) múzeumi, levéltári, oktatási tevékenységgel kapcsolatos feladatokat lá
 
 l) ellátja az egyéb, jogszabály vagy a miniszter által a feladatkörébe utalt feladatokat.
 
-(2)[^10] A területi vízügyi igazgatóság vagyongazdálkodási feladatai körében fenntartja, üzemelteti és fejleszti az egyes állami tulajdonú vagyontárgyakat (medrek, vízilétesítmények, erdők), így különösen a vízrajzi törzshálózatot, illetve az állami alapfeladatokat ellátó vízrajzi üzemi hálózatot, a távlati ivóvízbázisok mérő- és megfigyelő rendszerét, az üzemeltetési monitorozó rendszereket, az ár- és belvízvédelmi létesítményeket, a vízelvezető műveket, az öntözési célú vízilétesítményeket, a vízépítési műtárgyakat, a vízlépcsőket, a folyók duzzasztott tereit, a vízelosztó- és többes rendeltetésű rendszereket, továbbá a vízkészlet-gazdálkodási feladatokat ellátó vízátvezető, vízpótló műveket.
+(2)[^11] A területi vízügyi igazgatóság vagyongazdálkodási feladatai körében fenntartja, üzemelteti és fejleszti az egyes állami tulajdonú vagyontárgyakat (medrek, vízilétesítmények, erdők), így különösen a vízrajzi törzshálózatot, illetve az állami alapfeladatokat ellátó vízrajzi üzemi hálózatot, a távlati ivóvízbázisok mérő- és megfigyelő rendszerét, az üzemeltetési monitorozó rendszereket, az ár- és belvízvédelmi létesítményeket, a vízelvezető műveket, az öntözési célú vízilétesítményeket, a vízépítési műtárgyakat, a vízlépcsőket, a folyók duzzasztott tereit, a vízelosztó- és többes rendeltetésű rendszereket, továbbá a vízkészlet-gazdálkodási feladatokat ellátó vízátvezető, vízpótló műveket.
 
-(2a)[^11] A távlati ivóvízbázisok mérő- és megfigyelő rendszere mellett a területi vízügyi igazgatóság fenntartja a kezelésébe tartozó felszín alatti területi vízminőségi monitoring hálózat vízilétesítményeit is.
+(2a)[^12] A távlati ivóvízbázisok mérő- és megfigyelő rendszere mellett a területi vízügyi igazgatóság fenntartja a kezelésébe tartozó felszín alatti területi vízminőségi monitoring hálózat vízilétesítményeit is.
 
 (3) A területi vízügyi igazgatóság végzi
 
@@ -70,7 +70,7 @@ h) a vízgyűjtő-gazdálkodással kapcsolatosan jogszabály által feladatkör�
 
 a) az állami, az önkormányzati és a magántulajdonban lévő vízkárelhárítási vagy mezőgazdasági célú vízilétesítmények fenntartói, üzemeltetési, rekonstrukciós és fejlesztési összhangjának megteremtéséről,
 
-b)[^12] az Ivóvízminőség-javító Program és a Nemzeti Települési Szennyvízelvezetési és -tisztítási Megvalósítási Program szakmai végrehajtásának felügyeletéről, továbbá
+b)[^13] az Ivóvízminőség-javító Program és a Nemzeti Települési Szennyvízelvezetési és -tisztítási Megvalósítási Program szakmai végrehajtásának felügyeletéről, továbbá
 
 c) a vízkészletekkel való gazdálkodás körében
 
@@ -108,11 +108,11 @@ f) a szomszédos országokkal létesített vízgazdálkodási egyezmények végr
 
 g) a többoldalú nemzetközi együttműködések vízgazdálkodási feladatainak végrehajtásában.
 
-(7)[^13] A területi vízügyi igazgatóság véleményezi a kiemelt térségre és a vármegyére készülő területfejlesztési koncepciót és programot, valamint területrendezési tervet, továbbá a településrendezési eszközöket.
+(7)[^14] A területi vízügyi igazgatóság véleményezi a kiemelt térségre és a vármegyére készülő területfejlesztési koncepciót és programot, valamint területrendezési tervet, továbbá a településrendezési eszközöket.
 
 (8) A területi vízügyi igazgatóság együttműködik a helyi önkormányzatokkal és a vízitársulatokkal a vízgazdálkodási feladatok megoldásában.
 
-(9)[^14] A területi vízügyi igazgatóság feladata a vízitúrázás és a kerékpáros turisztikai igénybevétel alapfeltételeinek biztosítása mint közjóléti feladatellátás körében
+(9)[^15] A területi vízügyi igazgatóság feladata a vízitúrázás és a kerékpáros turisztikai igénybevétel alapfeltételeinek biztosítása mint közjóléti feladatellátás körében
 
 a) a vízitúrára alkalmas vízfolyásszakaszok kijelölése, járhatósági feltételeinek javítása,
 
@@ -126,9 +126,12 @@ e) a töltéskoronán kialakított, közforgalom elől elzárt, de kerékpáros 
 
 f) a vízügyi igazgatóság fenntartásában álló vizeken, vízilétesítményeken lévő vízitúra- és kerékpáros-útvonalak mentén kerékpárosútirány-jelző táblák, információs táblák, előrejelző táblák és jelzések, bóják kihelyezése, karbantartása.
 
-[^9]: A 7. § (1) bekezdés a) pont af) alpontja a 238/2022. (VI. 30.) Korm. rendelet 144. § (2) bekezdésével megállapított szöveg.
-[^10]: A 7. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 253. § (1) bekezdésével megállapított szöveg.
-[^11]: A 7. § (2a) bekezdését a 70/2015. (III. 30.) Korm. rendelet 253. § (1) bekezdése iktatta be.
-[^12]: A 7. § (4) bekezdés b) pontja a 195/2017. (VII. 10.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^13]: A 7. § (7) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 188. § a) pontja szerint módosított szöveg.
-[^14]: A 7. § (9) bekezdését a 460/2021. (VIII. 4.) Korm. rendelet 1. §-a iktatta be.
+(10)[^16] A területi vízügyi igazgatóságok vízkárelhárítási védekezéséhez szükséges homokzsákot a Dél-dunántúli Vízügyi Igazgatóság állítja elő.
+
+[^10]: A 7. § (1) bekezdés a) pont af) alpontja a 238/2022. (VI. 30.) Korm. rendelet 144. § (2) bekezdésével megállapított szöveg.
+[^11]: A 7. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 253. § (1) bekezdésével megállapított szöveg.
+[^12]: A 7. § (2a) bekezdését a 70/2015. (III. 30.) Korm. rendelet 253. § (1) bekezdése iktatta be.
+[^13]: A 7. § (4) bekezdés b) pontja a 195/2017. (VII. 10.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^14]: A 7. § (7) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 188. § a) pontja szerint módosított szöveg.
+[^15]: A 7. § (9) bekezdését a 460/2021. (VIII. 4.) Korm. rendelet 1. §-a iktatta be.
+[^16]: A 7. § (10) bekezdését a 383/2024. (XII. 9.) Korm. rendelet 3. § (2) bekezdése iktatta be.
