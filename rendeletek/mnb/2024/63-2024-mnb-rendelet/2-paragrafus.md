@@ -1,0 +1,5 @@
+2. § (1) Az ovális alakú emlékérme réz (75%) és nikkel (25%) ötvözetéből készült, súlya 10,3 gramm, átmérője 30×25 mm, széle sima.
+
+(2) Az emlékérme előlapján egy jellegzetes, stabil szerkezetű karbokation háromdimenziós modelljének ábrázolása látható. Az ábrázolás alatti két-két sorban, bal oldalon a „3000” értékjelzés és a „FORINT” felirat, jobb oldalon a „2024” verési évszám és a „BP.” verdejel olvasható. Az előlap szélén, fent – a perem ívét követve – a „MAGYARORSZÁG” felirat olvasható. Az emlékérme előlapjának képét az 1. melléklet tartalmazza.
+
+(3) Az emlékérme hátlapján Oláh György félalakos portréja látható, amint krétával a kezében a metanolgazdaság működését megalapozó körfolyamatot szemlélteti. A portrétól balra, két egymás alatti sorban a „NOBEL-DÍJ” és az „1994” felirat olvasható. A hátlap jobb oldali szélén – a perem ívét követve – az „OLÁH GYÖRGY” felirat olvasható, alatta Fritz Mihály tervezőművész mesterjegye látható. Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
