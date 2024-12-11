@@ -1,7 +1,11 @@
-1. Az egyes vízkárelhárítási feladatok finanszírozásáról szóló 1343/2024. (XI. 14.) Korm. határozat (a továbbiakban: Korm. határozat) 1. pont a) alpontjában a „2024. február 1. és 2024. június 30.” szövegrész helyébe a „2024. február 1. és 2024. november 30.” szöveg lép.
+1.[^2]
 
-2. A Korm. határozat 2. pontjában a „976 394 000 forint” szövegrész helyébe az „1 151 021 000 forint” szöveg lép.
+2.[^3]
 
-3. Hatályát veszti a Korm. határozat 1. pont c) alpontja.
+3.[^4]
 
 4. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^2]: Az 1. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
