@@ -44,7 +44,7 @@
 
 (3) Az 55. § (1) bekezdés 1., 2. és 4. pontjában meghatározott engedély a III. sugárvédelmi kategóriába sorolt tevékenység esetén legfeljebb 8 évig hatályos.
 
-(4)[^6] Az 55. § (1) bekezdés 6., 8., 10., 17., 18. és 19. pontjában meghatározott engedély legfeljebb 5 évig hatályos.
+(4)[^11] Az 55. § (1) bekezdés 6., 8., 10., 17., 18. és 19. pontjában meghatározott engedély legfeljebb 5 évig hatályos.
 
 (5) Az 55. § (1) bekezdés 7. és 12. pontjában meghatározott engedély legfeljebb 10 évig hatályos.
 
@@ -74,7 +74,7 @@ b) a sugárvédelmi szakértő továbbképzési kötelezettségének nem tesz el
 
 (12) A külföldi sugárvédelmi képzettség megfelelőségének elismeréséhez az OAH hatósági bizonyítványt állít ki.
 
-(13)[^7] Az (1) bekezdés 17. pontja szerinti eljárásban az OAH feltételként meghatározhatja a felszabadítható radioaktív anyag mennyiségét, jellemzőit, az alkalmazandó ártalmatlanítási, illetve hasznosítási műveleteket, a felszabadítás ütemezését, valamint a felszabadításhoz kapcsolódó jelentéstételi kötelezettségeket.
+(13)[^12] Az (1) bekezdés 17. pontja szerinti eljárásban az OAH feltételként meghatározhatja a felszabadítható radioaktív anyag mennyiségét, jellemzőit, az alkalmazandó ártalmatlanítási, illetve hasznosítási műveleteket, a felszabadítás ütemezését, valamint a felszabadításhoz kapcsolódó jelentéstételi kötelezettségeket.
 
-[^6]: Az 55. § (4) bekezdése a 2/2023. (XI. 23.) OAH rendelet 6. § a) pontja szerint módosított szöveg.
-[^7]: Az 55. § (13) bekezdését a 2/2023. (XI. 23.) OAH rendelet 2. §-a iktatta be.
+[^11]: Az 55. § (4) bekezdése a 2/2023. (XI. 23.) OAH rendelet 6. § a) pontja szerint módosított szöveg.
+[^12]: Az 55. § (13) bekezdését a 2/2023. (XI. 23.) OAH rendelet 2. §-a iktatta be.

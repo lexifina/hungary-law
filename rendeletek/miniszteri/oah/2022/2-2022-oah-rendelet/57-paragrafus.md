@@ -192,7 +192,7 @@ d) a berendezés üzemeltetése és karbantartása során alkalmazandó minősé
 
 (18) Az 55. § (1) bekezdés 16. pontja szerinti engedély iránti kérelemnek radioaktív anyag alkalmazása esetén tartalmaznia kell a 10. mellékletben foglalt szempontok szerint összeállított sugárvédelmi elemzést, és radioaktív sugárforrást tartalmazó készülék üzemeltetése esetén a berendezés megszüntetésének (elszállításának vagy további használatra alkalmatlanná tételére vonatkozó) igazolását.
 
-(19)[^8] Az 55. § (1) bekezdés 17. pontja szerinti engedély iránti kérelemnek tartalmaznia kell az alábbi adatokat:
+(19)[^13] Az 55. § (1) bekezdés 17. pontja szerinti engedély iránti kérelemnek tartalmaznia kell az alábbi adatokat:
 
 a) a felszabadítási eljárás típusának megjelölését a 3. § (4) bekezdése szerint,
 
@@ -220,4 +220,4 @@ b) 1 évnél nem régebbi zártságvizsgálati jegyzőkönyvet.
 
 (22) Az 55. § (1) bekezdés 1. pontja szerinti eljáráshoz a 7. melléklet 1. táblázatába foglalt adatlapot, az 55. § (1) bekezdés 2. pontja szerinti eljáráshoz a 7. melléklet 2. táblázatába foglalt adatlapot, az 55. § (1) bekezdés 4. pontja szerinti eljáráshoz a 7. melléklet 3. táblázatába foglalt adatlapot kell kitölteni.
 
-[^8]: Az 57. § (19) bekezdése a 2/2023. (XI. 23.) OAH rendelet 3. §-ával megállapított szöveg.
+[^13]: Az 57. § (19) bekezdése a 2/2023. (XI. 23.) OAH rendelet 3. §-ával megállapított szöveg.
