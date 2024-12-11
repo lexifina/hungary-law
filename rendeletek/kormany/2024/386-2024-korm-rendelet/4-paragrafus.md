@@ -1,3 +1,3 @@
-4. § A Korm. rendelet 4. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
+4. §[^5]
 
-[Az (1) szerinti kérelem tartalmazza]
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
