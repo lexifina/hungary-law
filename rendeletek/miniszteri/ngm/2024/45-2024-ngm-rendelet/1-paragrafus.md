@@ -1,0 +1,1 @@
+1. § A nyugdíjpénztár az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény 74. § (12) bekezdése szerinti tájékoztatását az 1. és 2. melléklet szerinti formában és tartalommal küldi meg.

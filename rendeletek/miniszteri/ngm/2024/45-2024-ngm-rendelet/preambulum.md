@@ -1,0 +1,1 @@
+Az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény 78. § (7) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 103. § (1) bekezdés 2. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
