@@ -1,4 +1,4 @@
-## 1. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 7 068 971 234 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2024. évi központi költségvetéséről szóló 2023. évi LV. törvény (a továbbiakban: Kvtv.) 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 7. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, az 1. melléklet szerint;
+## 1.[^1] az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 7 068 971 234 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2024. évi központi költségvetéséről szóló 2023. évi LV. törvény (a továbbiakban: Kvtv.) 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 7. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, az 1. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -10,7 +10,7 @@
 
 | Felelős: | honvédelmi miniszter belügyminiszter Miniszterelnöki Kabinetirodát vezető miniszter |
 
-| Határidő: | 2024. december 31. |
+| Határidő: | 2024. december 31., az Információs Hivatal cím javára biztosított 1 399 539 555 forint tekintetében 2025. március 31., A kiemelt nemzetközi sportesemények és egyéb kiemelt állami rendezvények lebonyolítása jogcímcsoport javára biztosított 4 000 000 000 forint tekintetében 2025. december 31. |
 
 ## 2. az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 1 448 385 074 forint egyszeri átcsoportosítását rendeli el, a 2. melléklet szerint;
 
@@ -41,3 +41,5 @@
 | Határidő: | azonnal |
 
 1. melléklet az 1145/2024. (V. 23.) Korm. határozathoz
+
+[^1]: Az 1. pont az 1394/2024. (XII. 12.) Korm. határozat 4. pontja szerint módosított szöveg.
