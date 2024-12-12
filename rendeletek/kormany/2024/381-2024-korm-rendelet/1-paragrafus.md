@@ -1,0 +1,1 @@
+1. § Az olimpiai központokról szóló 38/2004. (III. 12.) Korm. rendelet 1. mellékletében foglalt táblázat B:2 mezőjében a „Puskás Ferenc Stadion és létesítményei:” szövegrész helyébe a „Puskás Aréna és létesítményei:” szöveg lép.
