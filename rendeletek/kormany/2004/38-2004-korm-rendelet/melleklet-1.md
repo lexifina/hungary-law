@@ -8,7 +8,7 @@ Olimpiai központnak minősülő ingatlanok és ezek megjelölése
 
 | 1. | Olimpiai központ megjelölése | Olimpiai központnak minősülő ingatlanok |
 
-| 2. | Budapesti Olimpiai Központ (BOK) | Puskás Ferenc Stadion és létesítményei: Körcsarnok Millenáris Velodrom Gyakorló Jégcsarnok Kisstadion BOK Sportcsarnok Gerevich Aladár Nemzeti Sportcsarnok Fehér úti Sporttelep |
+| 2. | Budapesti Olimpiai Központ (BOK) | Puskás Aréna és létesítményei: Körcsarnok Millenáris Velodrom Gyakorló Jégcsarnok Kisstadion BOK Sportcsarnok Gerevich Aladár Nemzeti Sportcsarnok Fehér úti Sporttelep[^6] |
 
 | 3. | Északnyugat-magyarországi Általános Olimpiai Központ (ÉMÁOK) | Tatai Edzőtábor |
 
@@ -22,3 +22,4 @@ Olimpiai központnak minősülő ingatlanok és ezek megjelölése
 
 [^4]: A 8. § második mondatát a 118/2008. (V. 8.) Korm. rendelet 1. § 742. pontja hatályon kívül helyezte.
 [^5]: Az 1. melléklet a 206/2019. (VIII. 23.) Korm. rendelet 2. §-a iktatta be.
+[^6]: Az 1. mellékletben foglalt táblázat B:2 mezője a 381/2024. (XII. 9.) Korm. rendelet 1. §-a szerint módosított szöveg.
