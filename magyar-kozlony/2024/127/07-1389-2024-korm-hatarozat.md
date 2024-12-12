@@ -1,0 +1,338 @@
+# A Kormány 1389/2024. (XII. 12.) Korm. határozata
+
+Magyar Közlöny 2024. évi 127. szám, 2024. december 12. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/OS6MveZIiQ2t6E9fGaF567509e367af08/dokumentumok/b67f170c4a59331ea671722123425a8b57fe7b8e/letoltes)
+
+---
+
+A Kormány 1389/2024. (XII. 12.) Korm. határozata
+a Magyar–Szlovák Kisebbségi Vegyes Bizottság XV. ülésén fenntartott és elfogadott ajánlások
+jóváhagyásáról
+A Kormány
+1. jóváhagyólag tudomásul veszi a Magyar–Szlovák Kormányközi Kisebbségi Vegyes Bizottság 2022. szeptember 13-án
+és 2022. november 3-án, Budapest településen megtartott XV. ülésén kidolgozott, majd 2024. április 10-én
+elfogadott, valamint a Magyar–Szlovák Kormányközi Kisebbségi Vegyes Bizottság előző ülésén fenntartott,
+az 1. mellékletben közzétett ajánlásokat;
+2. felhívja a külgazdasági és külügyminisztert, hogy a Magyar–Szlovák Kormányközi Kisebbségi Vegyes Bizottság
+ajánlásainak tudomásulvételéről értesítse az érintett feleket;
+Felelős: külgazdasági és külügyminiszter
+Határidő: az e határozat közzétételét követő 15. nap
+3. felhívja a feladat- és hatáskörrel rendelkező minisztereket, hogy az 1. melléklet I. pontjában közzétett ajánlások
+végrehajtásának lehetőségét vizsgálják meg, az alábbiak szerint:
+3.1. az ajánlások 1. alpontja tekintetében
+Felelős: a miniszterelnök általános helyettese
+Határidő: folyamatos
+3.2. az ajánlások 2. alpontja tekintetében
+Felelős: a miniszterelnök általános helyettese
+Határidő: folyamatos
+3.3. az ajánlások 3. alpontja tekintetében
+Felelős: honvédelmi miniszter
+Határidő: folyamatos
+3.4. az ajánlások 4. alpontja tekintetében
+Felelős: a miniszterelnök általános helyettese
+építési és közlekedési miniszter
+kultúráért és innovációért felelős miniszter
+Határidő: folyamatos
+3.5. az ajánlások 5. alpontja tekintetében
+Felelős: a miniszterelnök általános helyettese
+kultúráért és innovációért felelős miniszter
+Határidő: folyamatos
+
+3.6. az ajánlások 6. alpontja tekintetében
+Felelős: kultúráért és innovációért felelős miniszter
+Határidő: folyamatos
+3.7. az ajánlások 7. alpontja tekintetében
+Felelős: közigazgatási és területfejlesztési miniszter
+Határidő: folyamatos
+3.8. az ajánlások 8. alpontja tekintetében
+Felelős: közigazgatási és területfejlesztési miniszter
+Határidő: folyamatos
+3.9. az ajánlások 9. alpontja tekintetében
+Felelős: igazságügyi miniszter
+Határidő: folyamatos
+3.10. az ajánlások 10. alpontja tekintetében
+Felelős: építési és közlekedési miniszter
+Határidő: folyamatos
+3.11. az ajánlások 11. alpontja tekintetében
+Felelős: a miniszterelnök általános helyettese
+Határidő: folyamatos
+3.12. az ajánlások 29. alpontja tekintetében
+Felelős: belügyminiszter
+pénzügyminiszter
+Határidő: folyamatos
+3.13. az ajánlások 30. alpontja tekintetében
+Felelős: belügyminiszter
+Határidő: folyamatos
+3.14. az ajánlások 31. alpontja tekintetében
+Felelős: belügyminiszter
+Határidő: folyamatos
+3.15. az ajánlások 32. alpontja tekintetében
+Felelős: belügyminiszter
+Határidő: folyamatos
+3.16. az ajánlások 33. alpontja tekintetében
+Felelős: kultúráért és innovációért felelős miniszter
+Határidő: folyamatos
+3.17. az ajánlások 34. alpontja tekintetében
+Felelős: kultúráért és innovációért felelős miniszter
+Határidő: folyamatos
+4. felhívja a feladat- és hatáskörrel rendelkező minisztereket, valamint felkéri a Nemzeti Média- és Hírközlési Hatóság
+elnökét, hogy az 1. melléklet II. pontjában közzétett ajánlások végrehajtásának lehetőségét vizsgálják meg,
+az alábbiak szerint:
+4.1. az ajánlások 1. alpontja tekintetében
+Felelős: a miniszterelnök általános helyettese
+építési és közlekedési miniszter
+kultúráért és innovációért felelős miniszter
+Határidő: folyamatos
+4.2. az ajánlások 2. alpontja tekintetében
+Felelős: kultúráért és innovációért felelős miniszter
+Határidő: folyamatos
+4.3. az ajánlások 3. alpontja tekintetében
+Felelős: a miniszterelnök általános helyettese a Nemzeti Média- és Hírközlési Hatóság elnökének
+közreműködésével
+Határidő: folyamatos
+
+4.4. az ajánlások 4. alpontja tekintetében
+Felelős: kultúráért és innovációért felelős miniszter
+Határidő: folyamatos
+4.5. az ajánlások 5. alpontja tekintetében
+Felelős: nemzetgazdasági miniszter
+Határidő: folyamatos
+4.6. az ajánlások 6. alpontja tekintetében
+Felelős: a miniszterelnök általános helyettese
+Határidő: folyamatos
+4.7. az ajánlások 7. alpontja tekintetében
+Felelős: a miniszterelnök általános helyettese
+kultúráért és innovációért felelős miniszter
+Határidő: folyamatos
+4.8. az ajánlások 8. alpontja tekintetében
+Felelős: kultúráért és innovációért felelős miniszter
+belügyminiszter
+Határidő: 2025. december 31.
+4.9. az ajánlások 9. alpontja tekintetében
+Felelős: a miniszterelnök általános helyettese
+kultúráért és innovációért felelős miniszter
+Határidő: folyamatos
+4.10. az ajánlások 17. alpontja tekintetében
+Felelős: a miniszterelnök általános helyettese
+Határidő: folyamatos
+4.11. az ajánlások 18. alpontja tekintetében
+Felelős: belügyminiszter
+Határidő: folyamatos
+4.12. az ajánlások 19. alpontja tekintetében
+Felelős: belügyminiszter
+Határidő: folyamatos
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet az 1389/2024. (XII. 12.) Korm. határozathoz
+I. A Magyar–Szlovák Kisebbségi Vegyes Bizottság 2024. április 10-én, Budapesten megtartott
+XV. ülésén az előző ülésen elfogadott ajánlások teljesítésének állásáról folytatott kölcsönös
+tájékoztatást követően a következő ajánlások fenntartásában állapodott meg
+1. A IV. ülés 6. sz. ajánlása:
+A Felek közös erőfeszítéssel segítsék elő a Magyarországon élő szlovák, illetve a Szlovák Köztársaságban élő magyar
+kisebbség vallási szertartásainak anyanyelvű gyakorlását, beleértve a lelkészek képzését és felkészítését is.
+2. Az V. ülés 2. sz. ajánlása:
+A Felek továbbra is támogatják azokat az egyházi és civil szervezeteket, amelyek a magyarországi szlovák
+nemzetiség és a szlovákiai magyar kisebbség nyelvi és kulturális identitásának fejlesztése terén fejtenek ki
+tevékenységet.
+3. Az V. ülés 6. sz. ajánlása:
+A KVB támogatja a hadisírok gondozásáról szóló megállapodás megkötését.
+4. A VII. ülés 1. sz. ajánlása módosított formában:
+A Felek támogatják a kulturális turizmus és az építészeti kulturális örökség fejlesztését, valamint a közös kulturális
+rendezvényeket, különös tekintettel a Szlovákiában található Madách Imre és Mikszáth Kálmán emlékhelyekre.
+
+5. A VII. ülés 4. sz. ajánlása módosított formában:
+A Felek törekedni fognak a Szlovákiában működő Szlovákiai Magyar Művelődési Intézet működéséhez szükséges
+pénzügyi és szakmai feltételek megteremtésére.
+6. A IX. ülés 2. sz. ajánlása módosított formában:
+A Felek, mint az UNESCO Általános Konferenciájának 2003. október 17-én elfogadott, a szellemi kulturális örökség
+védelméről szóló Egyezmény részes államai, javasolják a két ország az Egyezmény gyakorlati végrehajtásáért
+felelős állami szerveinek, hogy működjenek együtt a magyarországi szlovák szellemi kulturális örökség, illetve
+a Szlovákiában található magyar szellemi kulturális örökség, valamint a szlovákiai magyar szellemi kulturális örökség
+azonosítása, nyilvántartása és megőrzése érdekében, valamint a területeiken található szellemi kulturális örökségről
+készített jegyzék elkészítése során szerzett információk és tapasztalatok cseréje területén. A KVB továbbá javasolja
+a Feleknek, hogy az adott ügyekért felelős szervezeteken keresztül bővítsék az együttműködést, és kölcsönösen
+tájékoztassák egymást a szellemi kulturális örökség védelméről szóló UNESCO egyezmény listáira való jelölésekről
+és keressék annak lehetőségeit, hogy a projektekkel összhangban kidolgozásra kerüljenek a határon átívelő közös
+jelölések.
+7. A XI. ülés 2. sz. ajánlása módosított formában:
+A Felek biztosítják a kisebbségi nyelvhasználatot szabályozó hatályos törvények végrehajtását és elhárítják
+a törvények gyakorlati alkalmazása előtt álló akadályokat. A közigazgatási hivatalokban, ahol a törvények szerint
+a kisebbségi nyelveket használják a hivatali érintkezésben, figyelemmel lesznek arra, hogy a nemzeti kisebbség
+nyelvhasználatát olyan alkalmazottak kiválasztása révén is biztosítsák, akik az adott nyelvet bírják.
+8. A XI. ülés 3. sz. ajánlása módosított formában:
+A Felek pénzügyi hozzájárulást biztosítanak az államigazgatási szervek és a területi önkormányzati szervek számára,
+a kisebbségi nyelvek hivatali használatával kapcsolatos költségek fedezéséhez.
+9. A XI. ülés 4. sz. ajánlása módosított formában:
+A Felek biztosítják szakmai, módszertani és pénzügyi feltételeket a kisebbségi nyelvű szakterminológia
+kialakításához és fejlesztéséhez.
+10. A XIII. ülés 1. sz. ajánlása:
+A Felek figyelmet szentelnek a Szlovák Fél és a Magyar Fél számára jelentős értékkel bíró, a területükön található
+tárgyi kulturális örökségnek. Releváns műemléki értékek feltárása esetén a Felek az illetékes intézményekkel
+együttműködve megteszik a szükséges lépéseket ezen értékek törvényi védelme és ezt követő bemutatása
+érdekében.
+11. XIV. ülés 7. ajánlás:
+A Felek megvizsgálják az Országos Szlovák Önkormányzat által működtetett Magyarországi Szlovákok Kulturális
+Intézete„Élő néprajzi gyűjtemények”című muzeológiai oktatási projektjének további finanszírozási lehetőségeit.
+12. A III. ülés 2. sz. ajánlása módosított formában:
+Az állam és az egyházak kapcsolatai rendezésének keretében a Szlovák Fél tárgyalásokat fog folytatni a Szlovákiai
+Református Keresztyén Egyházzal, beleértve az egykori egyházi tulajdonviszonyok témáját.
+13. A III. ülés 24. sz. ajánlása:
+A Szlovák Fél támogatni fogja a magyarországi szlovák közművelődési szakemberek továbbképzését a Szlovák
+Köztársaságban, illetve a szlovák közművelődési szakemberek kiküldését a magyarországi szlovák regionális
+központokba, azok szükségleteinek megfelelően.
+14. A IV. ülés 13. sz. ajánlása módosított formában:
+A Szlovák Fél megvizsgálja a szlovák vendégtanárok magyarországi szlovák nemzetiségi iskolákba történő
+kiküldetésével kapcsolatos rendelkezéseket, különösen, ami a tanárok kiválasztásának módját, a finanszírozási és
+foglalkoztatási feltételeket és a kiküldött tanárok számának növelését illeti.
+15. A IV. ülés 17. sz. ajánlása módosított formában:
+A Szlovák Fél megvizsgálja annak lehetőségét, hogy a magyarországi középiskolák végzősei ingyenes egyetemi
+nyelvi és szakmai előkészítő tanfolyamokon vehessenek részt, a szlovák nyelvű felsőoktatási tanulmányokhoz
+szükséges kommunikációs készségeik javítása érdekében.
+16. Az V. ülés 5. sz. ajánlása módosított formában:
+A Szlovák Fél továbbra is biztosítsa a pénzügyi és szakmai feltételeket a szlovákiai magyar óvodák, iskolák és oktatási
+intézmények fenntartásához és hatékony működéséhez, különös tekintettel a kis létszámú és összevont osztályú
+iskolákra, és törekednie kell arra, hogy ezek állami finanszírozása ne csökkenjen. A szükséges változtatásokat és
+beavatkozásokat alapos, teljes körű és sokoldalú szakmai elemzésnek, tanulmányoknak, valamint helyi/regionális
+konzultációknak kell megelőznie az érintett intézmények fenntartóinak és vezetőinek részvételével.
+
+17. Az V. ülés 9. sz. ajánlása módosított formában:
+A Szlovák Fél továbbra is biztosítja a komáromi Selye János Egyetem működéséhez és fejlődéséhez szükséges
+pénzügyi feltételeket. A szlovák állam biztosítja, hogy az állami támogatás mértéke és szintje nem csökken.
+18. Az V. ülés 10. sz. ajánlása módosított formában:
+A Szlovák Fél biztosítja a szükséges támogatást a Szlovákiai Magyar Pedagógusok Szövetségének működéséhez,
+amely támogatja a szlovákiai magyar közoktatás szakmai, módszertani és pedagógiai tevékenységét és kutatásokat
+végez a közoktatási területen.
+19. Az V. ülés 11. sz. ajánlása módosított formában:
+A Szlovák Félnek lehetővé kell tennie, hogy a megyei önkormányzatok hatáskörébe tartozó magyar kulturális
+intézmények megfelelő pénzügyi feltételekkel rendelkezzenek ahhoz, hogy teljes értékű és hatékony tevékenységet
+folytathassanak. A komáromi Jókai Színház és a kassai Thália Színház esetében emelt szintű támogatást kell
+nyújtania a székhelyükön kívüli, tájoló színházi előadások megtartásához.
+20. A VII. ülés 6. sz. ajánlása módosított formában:
+A Szlovák Fél továbbra is biztosítja a Pátria Rádió, valamint a Szlovák Rádió és Televízió nemzetiségi tévéadásának
+pénzügyi és műszaki feltételeit.
+21. A VIII. ülés 3. sz. ajánlása módosított formában:
+A Szlovák Fél törekedni fog arra, hogy pénzügyi támogatást nyújtson a kassai Márai-ház előcsarnokának
+felújításához.
+22. A X. ülés 2. sz. ajánlása módosított formában:
+A Szlovák Fél biztosítja a magyar nyelven elérhető oktatási kiadványok (tankönyvek és segédanyagok),
+tansegédeszközök szabad választhatóságát. Egy tantárgy számára több alternatív tankönyvnek és oktatási anyagnak
+kell rendelkezésre állnia. A Szlovák Fél lehetővé teszi, hogy a tanárok tankönyvfordítások helyett a szlovákiai magyar
+szakemberek által összeállított tankönyvekből, oktatási segédletekből és anyagokból taníthassanak, és hogy
+a magyar tannyelvű iskolák egyéb tankönyveket és oktatási segédleteket használhassanak, amelyek összhangban
+állnak az oktatás és a nevelés alapelveivel és céljaival és ugyanúgy az adott állam nemzeti kerettantervével.
+23. A X. ülés 3. sz. ajánlása módosított formában:
+A Szlovák Fél biztosítja a Komáromi Pedagógiai és Módszertani Központ további működését és mérlegeli
+az intézmény hatáskörének és személyi állományának további bővítési lehetőségét és biztosítja a szükséges
+módszertani, pedagógiai és szakmai támogatást a magyar nemzetiségi iskolák számára azután is, hogy az iskolaügy
+közvetlenül irányított szervezeteit a Nemzeti Közoktatási és Ifjúsági Intézménybe vonták össze.
+24. A X. ülés 4. sz. ajánlása:
+A Szlovák Fél továbbra is garantálja a kisebbségi nyelven oktató iskolákban a pedagógiai dokumentáció kétnyelvű
+vezetésének, valamint egyes kiemelt további dokumentumok egynyelvű, azaz kisebbségi nyelvű vezetésének
+lehetőségét. A vonatkozó törvényi előírásnak megfelelően kijelöli azon dokumentumok körét, amelyeket elegendő
+kisebbségi nyelven vezetni.
+25. A XI. ülés 5. sz. ajánlása:
+A Szlovák Fél törekedni fog a magyar nemzetiségi iskolák optimális szervezési, szakmai és személyi hátterének
+hosszútávú és fenntartható működésének biztosítására a Szlovák Köztársaság Oktatási, Kutatási, Fejlesztési és
+Ifjúsági Minisztériumában és az általa közvetlenül irányított háttérintézményekben.
+26. A XI. ülés 7. sz. ajánlása módosított formában:
+A Szlovák Fél törekedni fog arra, hogy a Velencei Bizottság ajánlásainak megfelelően minél előbb módot találjon
+a kisebbségi nyelvű televízióadások szlovák nyelvű változatával összefüggő költségek kompenzálására vagy
+a rádióműsorokhoz hasonlóan e kötelezettség eltörlésére.
+27. A XIII. ülés 5. sz. ajánlása:
+A Szlovák Fél törekedni fog a magyar tannyelvű iskolák megőrzésére és fejlesztésére. A nemzetiségi oktatási
+intézmények finanszírozásánál a normatívák meghatározásakor figyelembe veszi azok sajátosságait. Biztosítja
+a nemzetiségi iskolák és osztályok működéséhez szükséges forrásokat, beleértve azokat a kiegészítő forrásokat,
+amelyek a demográfiai és települési tényezőkből következő specifikus helyzetükkel függnek össze, az oktatási
+kiadványok és segédanyagok piacának és liberalizálásának hatásait, és az iskolaügyi törvényben meghatározott
+sajátságos oktatási célokat. A szlovákiai magyar nemzetiségi iskolahálózat megőrzésének és fejlesztésének, és
+az állampolgárok számára történő elérhetősége érdekében együtt fog működni a szlovákiai magyar kisebbség
+szakmai, és társadalmi szervezeteivel és különösen a Szlovákiai Magyar Pedagógusok Szövetségével és a Comenius
+Pedagógiai Intézettel.
+
+28. A XIII. ülés 10. sz. ajánlása:
+A Szlovák Fél a törvény által megadott eszközökkel igyekszik az Eperjesi Egyetem Magyar Nyelv és Kultúra Intézete
+tevékenységét támogatni, valamint pénzügyi támogatását növelni.
+29. A IV. ülés 19. sz. ajánlása módosított formában:
+A Magyar Fél biztosítja a magyarországi szlovák óvodák, iskolák és kollégiumok megőrzéséhez és hatékony
+működéséhez szükséges pénzügyi és szakmai feltételeket, különös tekintettel a kis létszámú köznevelési
+intézményekre. Törekedni fog arra, hogy az állami támogatás mértéke és szintje ne csökkenjen, valamint hogy
+az oktatási rendszer átszervezése és megváltoztatása esetén a nemzetiségi szempontot is figyelembe vegyék.
+30. Az V. ülés 12. sz. ajánlása módosított formában:
+A Magyar Fél biztosítja a szlovák nyelvű oktatáshoz, valamint a szlovák nyelven történő oktatás javításához és
+tartalmi bővítéséhez, a közismereti tárgyakat is beleértve.
+31. A VII. ülés 7. sz. ajánlása módosított formában:
+A Magyar Fél a központi költségvetésről szóló törvényben meghatározott feltételekkel továbbra is biztosítja
+az Országos Szlovák Önkormányzat és a települési szlovák önkormányzatok által működtetett köznevelési
+intézmények tevékenységéhez szükséges költségeket. A KVB javasolja az illetékes magyar szerveknek, hogy
+a rendeletek kidolgozása során vegyék figyelembe az intézmények pénzügyi szükségleteit.
+32. A XI. ülés 8. sz. ajánlása módosított formában:
+Tekintettel arra, hogy a magyar köznevelési rendszer működtetésének és fenntartásának alapvető reformjára kerül
+sor, a Magyar Fél biztosítja, hogy a megváltozó állami intézményfenntartó központ állományában továbbra is legyen
+nemzetiségi köznevelésért felelős szakértő.
+33. A XI. ülés 9. sz. ajánlása módosított formában:
+A Magyar Fél lépéseket tesz a szlovák szak megőrzésére a magyar egyetemeken.
+34. A XIII. ülés 16. sz. ajánlása:
+A Magyar Fél a Zalaváron (Blatnohrad) található egykori Chozil székhelyének támogatása és védelme révén is
+fejleszteni fogja a kulturális turizmust.
+II. A Magyar–Szlovák Kisebbségi Vegyes Bizottság 2024. április 10-én, Budapesten tartott XV. ülésén
+a következő új ajánlásokat fogalmazta meg a két ország kormányai számára
+1. A Felek támogatják a kulturális turizmus kölcsönös fejlesztését, különösen emléktáblák és emlékművek elhelyezését
+és felújítását a magyarországi szlovák és a szlovákiai magyar történelmi emlékhelyeken, mint ahogy a kétnyelvű
+táblák elhelyezését is.
+2. A Felek a könyvtári információs szolgáltatások területén kölcsönös segítségnyújtással, valamint a kulturális
+örökséghez való hozzáférés biztosításával erősítik a könyvtárak és a levéltárak közötti együttműködést. a Felek
+szorgalmazzák a magyar, illetve szlovák szempontból jelentős könyvtári dokumentumok és levéltári iratok digitális
+másolatainak cseréjét/kölcsönzését, valamint támogatják az említett közgyűjteményekben megvalósítható
+tanulmányi és kutatói tevékenységet.
+3. A Felek támogatni fogják a nemzetiségi műsorok készítéséhez szükséges feltételek javítását, különösen
+a kisebbségi műsorok kölcsönös digitális archiválását, a műsorokhoz való hozzáférés, illetve használatuk jelentős
+megkönnyítését. A Felek törekedni fognak a kisebbségi nyelvű műsorszolgáltatás adás idejének növelésére
+a közszolgálati televízióban és rádióban, a műsorok gyártási és elérési feltételeinek javítására és a személyzeti és
+műszaki együttműködés lehetőségeinek további megerősítésére.
+4. A Felek ösztöndíjprogrammal támogatni fogják azokat az egyetemi hallgatókat, akik a szlovák, illetve a magyar
+kisebbség múltjára és jelenére, identitására és kultúrájára irányuló kutatótevékenységet folytatnak. A Felek
+intézkedéseket fogadnak el a tárcaközi együttműködési programok megújítására az oktatás területén.
+5. A kulturális turizmus fejlesztése érdekében a szerződő Felek támogatják a felújított Rákóczi-kastély beillesztését
+a túraútvonalakba (népszerűsítő kampányok formájában, az évad és a szünidei hajóutak idényének
+meghosszabbításával).
+6. A szlovákiai magyar kisebbség számára folyósított támogatás hatékonyságának növelése érdekében a Felek
+meghatározzák azokat a projekteket, amelyeket a jövőben közösen kívánnak finanszírozni.
+7. A Felek üdvözlik a másik ország területén működő egyházak kölcsönös támogatását, amennyiben arra az illetékes
+egyházi szervekkel előzetesen egyeztetett formában kerül sor, és szükség esetén törekedni fognak e támogatások
+kiegészítésére. A Felek javasolják e támogatások témakörét a Kulturális Vegyes Bizottság napirendjére venni.
+
+8. A Felek lépéseket tesznek az oktatási és kulturális együttműködés tárcaközi program megújítása és aktualizálása
+érdekében, és ennek részeként a Felek biztosítják a szlovákiai felsőoktatási tanárképző intézmények azon
+hallgatóinak magyarországi tartózkodásához szükséges feltételeket, akik a magyarországi szlovák nemzetiségi
+iskolákban, illetve óvodákban töltik szakmai gyakorlatukat.
+9. A KVB javasolja mindkét Félnek, hogy tegyenek releváns lépéseket a szlovák kisebbségi és a magyar nemzetiségi
+intézmények erőfeszítésének támogatása érdekében, amelyek a kulturális örökség védelmére és kulturális néprajzi
+jellegű tárgyak gyűjteményeinek létrehozására irányulnak, melyek a nevezett kisebbség tagjainak múltját és életét
+dokumentálják a saját közösségeikben. Emellett a KVB üdvözli az ily módon összegyűjtött tárgyak bemutatását,
+amelyeket ún. tájházakban vagy hasonló intézményekben mutatnának be.
+10. A Szlovák Fél megvizsgálja egy átfogó kisebbségi törvény kialakításának lehetőségét, amely a szlovákiai nemzeti
+kisebbségek megmaradását és fejlődését biztosítaná a Szlovák Köztársaság Kisebbségi Kormánybiztosi Hivatallal
+együttműködve a nemzeti kisebbségek tagjai jogainak hatékony érvényesítéséért a gyakorlatban.
+11. A Szlovák Fél a nemzetiségi iskolaügy és a nemzetiségi iskolákban és nemzetiségi osztályokban tanuló diákok
+oktatásának sajátosságait rögzítő elfogadott törvény definíciójának megfelelően megfontolja a nemzetiségi
+oktatásügy specifikumainak külön dokumentumban történő további kidolgozását. A Szlovák Fél növeli a nemzeti
+kisebbségekhez tartozó diákok anyanyelvi oktatásának fejlesztéséhez szükséges támogatást.
+12. A Szlovák Fél megvizsgálja a Magyarországon gyógypedagógus, logopédus és pszichológus végzettséget szerzett
+személyek diplomájának honosítási lehetőségeit.
+13. A Szlovák Fél megvizsgálja annak lehetőségét, hogy a szlovák állami intézmények költségvetéséből költségvetési
+keretet hozzon létre az Országos Szlovák Önkormányzat kulturális, tudományos és oktatási intézményeivel való
+rendszerszintű együttműködés támogatására.
+14. A KVB javasolja a Szlovák Félnek, hogy az érintett felek bevonásával dolgozzon ki javaslatot a kassai Rovás
+Egyesület Alžbetina 42. sz. alatti telekügyének méltányos és az ügyben érintett felek által kölcsönösen elfogadható
+megoldására.
+15. A Felek javasolják, hogy a két ország evangélikus egyházai egyeztessenek Rázga Pál evangélikus lelkész, vértanú
+emléktáblájának Pozsonyban történő visszahelyezéséről.
+16. A Szlovák Fél biztosítja, hogy a Szlovák Köztársaság Közlekedési Minisztériuma a hatályos jogszabályok (1999. évi
+184. sz. törvény és 1995. évi 270. sz. törvény) értelmében módosítsa a vonatkozó műszaki előírásokat, amelyekben
+szerepelnek a kétnyelvű közlekedési táblák mintái annak érdekében, hogy ezeket a táblákat legyárthassák és
+elhelyezhessék.
+17. A Magyar Fél megvizsgálja a Magyarországi Szlovákok Múzeuma létrehozásának lehetőségét.
+18. A Magyar Fél biztosítja a szlovák nemzetiségi pedagógusok számára szervezett továbbképzésen résztvevő
+pedagógusok szakmai helyettesítéséhez szükséges pénzügyi feltételeket.
+19. A Magyar Fél lépéseket tesz a magyarországi szlovák nemzetiségi iskoláknak szóló, a Nemzeti Alaptantervvel
+és az egyes kerettantervekkel összhangban levő modern tankönyvek és segédletek készítésének felgyorsítása
+érdekében.
