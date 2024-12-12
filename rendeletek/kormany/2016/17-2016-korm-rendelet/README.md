@@ -41,3 +41,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-17-20-2
 | 2024-01-01 | 2016-17-20-22.32 | 649/2023. (XII. 28.) Korm. rendelet |
 | 2024-03-01 | 2016-17-20-22.34 | 35/2024. (II. 29.) Korm. rendelet |
 | 2024-10-01 | 2016-17-20-22.35 | 285/2024. (IX. 30.) Korm. rendelet |
+| 2024-12-12 | 2016-17-20-22.36 | 169/2023. (V. 12.) Korm. rendelet |

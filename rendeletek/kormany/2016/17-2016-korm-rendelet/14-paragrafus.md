@@ -98,7 +98,7 @@ o) az igénylő a 12. § (2) bekezdése szerinti esetben vállalja, hogy tartóz
 
 (4) A (3) bekezdés a) és k) pontja szerinti nyilatkozatot azon nagykorú, közös háztartásban élő gyermeknek is meg kell tennie, akire tekintettel a családi otthonteremtési kedvezményt igénybe veszik.
 
-(4a)[^76] A (3) bekezdés k) pontja szerinti kötelezettség teljesítését a Kincstár ellenőrzi. Ha a (3) bekezdés k) pontjában meghatározott kötelezettség nem teljesül, akkor a Kincstár tájékoztatja erről a kormányhivatalt.
+(4a)[^76] A (3) bekezdés k) pontja szerinti kötelezettség teljesítését a Kincstár ellenőrzi. Ha a (3) bekezdés k) pontjában meghatározott kötelezettség nem teljesül, akkor a Kincstár tájékoztatja erről a kormányhivatalt. A kormányhivatal egy alkalommal, 60 napos határidővel felszólítja a támogatott személyt a (3) bekezdés k) pontja szerinti kötelezettsége teljesítésére, illetve a jogszerű állapot kialakítására. Ha a támogatott személy a felszólításnak határidőben eleget tesz, akkor vele szemben a 33. § (3) bekezdése és 35. § (2) bekezdése szerinti jogkövetkezmény nem alkalmazható ebben az eljárásban.
 
 (4b)[^77] Ha az igénylő és azon gyermeke, akire tekintettel a családi otthonteremtési kedvezményt igényli, a kérelem benyújtásának időpontjában a 15. § a) vagy h) pontjában foglaltak szerinti lakóhellyel vagy tartózkodási hellyel rendelkezik, a lakóhely vagy a tartózkodási hely – a 15. § a) vagy h) pontjában meghatározott tényekre tekintettel történő – fenntartása nem minősül a 14. § (3) bekezdés j) és k) pontja szerint vállalt kötelezettségek megsértésének.
 
@@ -161,7 +161,7 @@ b) a (2a) és (2b) bekezdést, a (3) bekezdés a) pontját, a (9b) bekezdést, a
 [^73]: A 14. § (3) bekezdés k) pontja a 169/2023. (V. 12.) Korm. rendelet 19. § (1) bekezdésével megállapított, a 649/2023. (XII. 28.) Korm. rendelet 20. § (7) bekezdés a) pontja szerint módosított szöveg.
 [^74]: A 14. § (3) bekezdés m) pont mb) alpontja a 26/2018. (II. 28.) Korm. rendelet 29. § (2) bekezdésével megállapított, a 169/2023. (V. 12.) Korm. rendelet 25. § 3. pontja, a 406/2023. (VIII. 30.) Korm. rendelet 26. § 7. pontja, a 649/2023. (XII. 28.) Korm. rendelet 20. § (7) bekezdés b) pontja szerint módosított szöveg.
 [^75]: A 14. § (3) bekezdés n) pontja a 252/2020. (V. 29.) Korm. rendelet 6. § (1) bekezdés c) pontja szerint módosított szöveg.
-[^76]: A 14. § (4a) bekezdését a 169/2023. (V. 12.) Korm. rendelet 19. § (2) bekezdése iktatta be.
+[^76]: A 14. § (4a) bekezdését a 169/2023. (V. 12.) Korm. rendelet 19. § (2) bekezdése iktatta be, szövege a 388/2024. (XII. 11.) Korm. rendelet 13. § 2. pontja szerint módosított szöveg.
 [^77]: A 14. § (4b) bekezdését a 169/2023. (V. 12.) Korm. rendelet 19. § (2) bekezdése iktatta be.
 [^78]: A 14. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 322. § (3) bekezdés 3. pontja, a 360/2019. (XII. 30.) Korm. rendelet 151. § (2) bekezdés d) pontja, a 406/2023. (VIII. 30.) Korm. rendelet 26. § 8. pontja szerint módosított szöveg.
 [^79]: A 14. § (6) bekezdését a 26/2018. (II. 28.) Korm. rendelet 29. § (3) bekezdése iktatta be.
