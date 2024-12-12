@@ -1,4 +1,4 @@
-## 10/A. [^171] A központi költségvetéssel való elszámolás szabályai
+## 10/A. [^172] A központi költségvetéssel való elszámolás szabályai
 
 17/A. § (1) A kamattámogatásokat az állam nevében a Kincstár nyújtja.
 
@@ -20,4 +20,4 @@
 
 (10) A hitelintézet a támogatásokat az eAdaton elérhető tájékoztató szerinti formában tartja nyilván.
 
-[^171]: A 10/A. alcímet (17/A. §) a 101/2019. (V. 2.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^172]: A 10/A. alcímet (17/A. §) a 101/2019. (V. 2.) Korm. rendelet 3. § (1) bekezdése iktatta be.
