@@ -1,0 +1,9 @@
+# 388/2024. (XII. 11.) Korm. rendelet
+
+egyes családügyi tárgyú kormányrendeletek módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-388-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2024-12-12 | 2024-388-20-22.1 | 388/2024. (XII. 11.) Korm. rendelet |
