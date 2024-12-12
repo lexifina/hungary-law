@@ -106,7 +106,7 @@ fb) a gyermek születéséről a Kincstár – a családtámogatási adatbázist
 
 (6) Az (5) bekezdés a) pontja és d) pont di) alpontja szerinti tartalmú nyilatkozatot, teljes bizonyító erejű magánokiratba foglaltan azon nagykorú, közös háztartásban élő gyermeknek is meg kell tennie, akire tekintettel a kölcsönt igénybe veszik.
 
-(7) Az (5) bekezdés d) pont di) alpontja szerinti kötelezettség teljesítését a Kincstár ellenőrzi. Ha a kötelezettség nem teljesül, a Kincstár tájékoztatja erről a kormányhivatalt.
+(7)[^16] Az (5) bekezdés d) pont di) alpontja szerinti kötelezettség teljesítését a Kincstár ellenőrzi. Ha a kötelezettség nem teljesül, a Kincstár tájékoztatja erről a kormányhivatalt. A kormányhivatal egy alkalommal 60 napos határidővel felszólítja a támogatott személyeket az (5) bekezdés d) pont di) alpontja szerinti kötelezettségük teljesítésére, illetve a jogszerű állapot kialakítására. Ha a támogatott személyek a felszólításnak határidőben eleget tesznek, akkor velük szemben a 30. § (3) és 33. § (2) bekezdése szerinti jogkövetkezmény nem alkalmazható ebben az eljárásban.
 
 (8) Ha az igénylő és azon gyermeke, akire tekintettel a kölcsönt igényli, a kérelem benyújtásának időpontjában a 17. § (1) bekezdés a) vagy h) pontjában foglaltak szerinti lakóhellyel vagy tartózkodási hellyel rendelkezik, a lakóhely vagy a tartózkodási hely – a 17. § (1) bekezdés a) vagy h) pontjában meghatározott tényekre tekintettel történő – fenntartása nem minősül az (5) bekezdés d) pont dh) és di) alpontja szerint vállalt kötelezettségek megsértésének.
 
@@ -140,3 +140,4 @@ cb) vásárlásánál a lakóépületre jutó vételárhányadot.
 [^13]: A 15. § (5) bekezdés d) pont dd) alpontja a 285/2024. (IX. 30.) Korm. rendelet 199. § 5. pontja szerint módosított szöveg.
 [^14]: A 15. § (5) bekezdés d) pont df) alpontja a 285/2024. (IX. 30.) Korm. rendelet 199. § 6. pontja szerint módosított szöveg.
 [^15]: A 15. § (5) bekezdés d) pont dg) alpontja a 285/2024. (IX. 30.) Korm. rendelet 198. § d) pontja és 199. § 7. pontja szerint módosított szöveg.
+[^16]: A 15. § (7) bekezdése a 388/2024. (XII. 11.) Korm. rendelet 48. § 11. pontja szerint módosított szöveg.

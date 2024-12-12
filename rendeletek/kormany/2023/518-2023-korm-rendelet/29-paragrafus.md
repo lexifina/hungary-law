@@ -2,16 +2,16 @@
 
 (2) Ha a hitelintézet szerint a számla valódisága vagy a számlában szereplő gazdasági esemény megtörténte kétséges, a tények feltárása érdekében megkeresi az állami adóhatóságot.
 
-(3)[^28] A támogatott személyek kötelesek a költségek igazolásaként bemutatott számlákat az adásvételi szerződés megkötése, illetve a használatbavételi engedély kiadása évének utolsó napjától számított 5 évig megőrizni.
+(3)[^29] A támogatott személyek kötelesek a költségek igazolásaként bemutatott számlákat az adásvételi szerződés megkötése, illetve a használatbavételi engedély kiadása évének utolsó napjától számított 5 évig megőrizni.
 
-(4)[^29] Lakás építése esetén a támogatott személyek a használatbavételi engedéllyel még nem rendelkező lakás tulajdonjogának a használatbavételi engedély megszerzése előtt történő átruházása esetén a készültségi fokkal arányos folyósítást megelőzően bemutatják a szerződéssel, bírósági, illetve hatósági határozattal, árverési jegyzőkönyvvel vagy számlával igazolt vagy ennek hiányában a hitelintézet által megállapított telekárral csökkentett ellenérték 70 százaléka erejéig az előző építtető nevére, vagy amennyiben az előző építtető gazdálkodó szervezet, a gazdálkodó szervezet által a teljes vételárról kiállított számlákat.
+(4)[^30] Lakás építése esetén a támogatott személyek a használatbavételi engedéllyel még nem rendelkező lakás tulajdonjogának a használatbavételi engedély megszerzése előtt történő átruházása esetén a készültségi fokkal arányos folyósítást megelőzően bemutatják a szerződéssel, bírósági, illetve hatósági határozattal, árverési jegyzőkönyvvel vagy számlával igazolt vagy ennek hiányában a hitelintézet által megállapított telekárral csökkentett ellenérték 70 százaléka erejéig az előző építtető nevére, vagy amennyiben az előző építtető gazdálkodó szervezet, a gazdálkodó szervezet által a teljes vételárról kiállított számlákat.
 
 (5) Ha a lakás építése vagy bővítése során bontott anyagok is felhasználásra kerülnek, ezeknek az építőipari kivitelezési tevékenység felelős műszaki vezetője által írásban igazolt értékéig a 15. § (5) bekezdés d) pont dc)–de) alpontja és e) pontja, valamint a (4) bekezdés szerinti számlabenyújtási kötelezettség csökkenthető. E csökkentés mértéke nem haladhatja meg a 15. § (5) bekezdés d) pont dc)–de) alpontja és e) pontja, valamint a (4) bekezdés szerinti számlabenyújtási kötelezettség 20 százalékát.
 
-(6)[^30] Hatósági árverésen vásárolt, használatbavételi engedéllyel nem rendelkező lakás esetén a 15. § (5) bekezdés d) pont dc)–de) alpontja és e) pontja, valamint a (4) bekezdés szerinti számlabenyújtási kötelezettség az árverési jegyzőkönyv szerinti vételárral csökkenthető.
+(6)[^31] Hatósági árverésen vásárolt, használatbavételi engedéllyel nem rendelkező lakás esetén a 15. § (5) bekezdés d) pont dc)–de) alpontja és e) pontja, valamint a (4) bekezdés szerinti számlabenyújtási kötelezettség az árverési jegyzőkönyv szerinti vételárral csökkenthető.
 
 (7) Ha a támogatott személyek az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény szerinti közhasznú jogállású szervezet vagy települési önkormányzat által kiírt nyilvános pályázat útján az építési vagy bővítési munkálatok elvégzéséhez szükséges természetbeni juttatásban részesültek, a természetbeni juttatás támogatást nyújtó által igazolt értékéig a 15. § (5) bekezdés d) pont dc)–de) alpontja és e) pontja, valamint a (4) bekezdés szerinti számlabenyújtási kötelezettség csökkenthető.
 
-[^28]: A 29. § (3) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 199. § 16. pontja szerint módosított szöveg.
-[^29]: A 29. § (4) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 199. § 17. pontja szerint módosított szöveg.
-[^30]: A 29. § (6) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 199. § 18. pontja szerint módosított szöveg.
+[^29]: A 29. § (3) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 199. § 16. pontja szerint módosított szöveg.
+[^30]: A 29. § (4) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 199. § 17. pontja szerint módosított szöveg.
+[^31]: A 29. § (6) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 199. § 18. pontja szerint módosított szöveg.

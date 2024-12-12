@@ -8,15 +8,15 @@
 
 a) vásárlásánál a kölcsönszerződés megkötésének időpontjától,
 
-b)[^19] építési engedélyhez vagy egyszerű bejelentéshez kötött bővítésénél – ideértve a lakás megvásárlásával egybekötött bővítést is – a használatbavételi engedély véglegessé válásának napjától,
+b)[^20] építési engedélyhez vagy egyszerű bejelentéshez kötött bővítésénél – ideértve a lakás megvásárlásával egybekötött bővítést is – a használatbavételi engedély véglegessé válásának napjától,
 
-c)[^20]
+c)[^21]
 
-d)[^21] építésénél a használatbavételi engedély véglegessé válása napjától
+d)[^22] építésénél a használatbavételi engedély véglegessé válása napjától
 
 kell számítani.
 
-(4)[^22] A (3) bekezdés szerinti okiratot a házaspár az annak kiadását követő 30 napon belül, de legkésőbb a használatbavételi engedély kiadását követő 45 napon belül köteles a hitelintézet részére bemutatni.
+(4)[^23] A (3) bekezdés szerinti okiratot a házaspár az annak kiadását követő 30 napon belül, de legkésőbb a használatbavételi engedély kiadását követő 45 napon belül köteles a hitelintézet részére bemutatni.
 
 (5) Ha a házaspár a (3) bekezdés szerinti dokumentumokra vonatkozó bemutatási kötelezettségének a hitelintézet felszólítását követően sem tesz eleget, a kamattámogatás összegét az igénybevétel napjától számított, a jegybanki alapkamat 5 százalékponttal megemelt mértékének megfelelő kamattal növelten köteles a hitelintézeten keresztül a Kincstár részére visszafizetni, és a kamattámogatás a felszólításban megjelölt határidő lejártát követő naptól a jövőre nézve megszűnik.
 
@@ -32,7 +32,7 @@ kell számítani.
 
 (11) A Kincstár a (2) bekezdésben meghatározott, a gyermekvállalás teljesítésére vonatkozó határidő alatt, illetve annak leteltét követő 6 hónapon belül adategyeztetésre hívhatja fel a házaspárt.
 
-[^19]: A 19. § (3) bekezdés b) pontja a 285/2024. (IX. 30.) Korm. rendelet 198. § f) pontja és 199. § 11. pontja szerint módosított szöveg.
-[^20]: A 19. § (3) bekezdés c) pontját a 285/2024. (IX. 30.) Korm. rendelet 199. § 12. pontja hatályon kívül helyezte.
-[^21]: A 19. § (3) bekezdés d) pontja a 285/2024. (IX. 30.) Korm. rendelet 199. § 13. pontja szerint módosított szöveg.
-[^22]: A 19. § (4) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 198. § g) pontja szerint módosított szöveg.
+[^20]: A 19. § (3) bekezdés b) pontja a 285/2024. (IX. 30.) Korm. rendelet 198. § f) pontja és 199. § 11. pontja szerint módosított szöveg.
+[^21]: A 19. § (3) bekezdés c) pontját a 285/2024. (IX. 30.) Korm. rendelet 199. § 12. pontja hatályon kívül helyezte.
+[^22]: A 19. § (3) bekezdés d) pontja a 285/2024. (IX. 30.) Korm. rendelet 199. § 13. pontja szerint módosított szöveg.
+[^23]: A 19. § (4) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 198. § g) pontja szerint módosított szöveg.

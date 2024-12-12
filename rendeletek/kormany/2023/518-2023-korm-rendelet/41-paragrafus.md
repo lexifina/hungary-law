@@ -22,7 +22,7 @@ a) az újabb lakás megszerzését hitelt érdemlően igazolják
 
 aa) adásvételi vagy csereszerződés bemutatásával vagy
 
-ab)[^35] építés esetében a használatbavételi engedély bemutatásával,
+ab)[^36] építés esetében a használatbavételi engedély bemutatásával,
 
 b) a korábbi lakás elidegenítéséből származó teljes bevételt – csökkentve a 42. § (7) bekezdésében foglaltakkal – számlával vagy szerződéssel és értékbecsléssel igazoltan az újabb lakás megszerzésére fordították, és
 
@@ -42,7 +42,7 @@ b) a tulajdonjog megszerzésére irányuló kérelem benyújtását, ha az adás
 
 a) a lakásigényüket a lakás cseréjével vagy a (2) bekezdés d) pontja és (6) bekezdés b) pontja szerinti újabb lakás építése vagy vásárlása útján elégítik ki,
 
-b)[^36] az újabb lakás megszerzését adásvételi szerződés, csereszerződés, használatbavételi engedély bemutatásával igazolják, és
+b)[^37] az újabb lakás megszerzését adásvételi szerződés, csereszerződés, használatbavételi engedély bemutatásával igazolják, és
 
 c) a kölcsön végtörlesztését hitelt érdemlően igazolják,
 
@@ -52,7 +52,7 @@ akkor – a (7) bekezdés szerinti ellenőrzést követően – a kormányhivata
 
 a) a lakásigényüket a (2) bekezdés d) pontja és (6) bekezdés b) pontja szerinti újabb lakás építése vagy vásárlása útján elégítették ki, és
 
-b)[^37] az újabb lakás megszerzését adásvételi szerződés, használatbavételi engedély bemutatásával igazolják, és
+b)[^38] az újabb lakás megszerzését adásvételi szerződés, használatbavételi engedély bemutatásával igazolják, és
 
 c) a kölcsön végtörlesztését hitelt érdemlően igazolják,
 
@@ -64,6 +64,6 @@ a) az újabb lakás vételára vagy építési költsége az elidegenített lak�
 
 b) a támogatott személyek a kamattámogatás, illetve gyermekvállalási támogatás összegének – a 42. § (7) bekezdése szerint csökkentett – eladási ár, valamint a vételár vagy építési költség különbözetével arányos részét visszafizessék.
 
-[^35]: A 41. § (6) bekezdés a) pont ab) alpontja a 285/2024. (IX. 30.) Korm. rendelet 199. § 23. pontja szerint módosított szöveg.
-[^36]: A 41. § (9) bekezdés b) pontja a 285/2024. (IX. 30.) Korm. rendelet 199. § 24. pontja szerint módosított szöveg.
-[^37]: A 41. § (10) bekezdés b) pontja a 285/2024. (IX. 30.) Korm. rendelet 199. § 25. pontja szerint módosított szöveg.
+[^36]: A 41. § (6) bekezdés a) pont ab) alpontja a 285/2024. (IX. 30.) Korm. rendelet 199. § 23. pontja szerint módosított szöveg.
+[^37]: A 41. § (9) bekezdés b) pontja a 285/2024. (IX. 30.) Korm. rendelet 199. § 24. pontja szerint módosított szöveg.
+[^38]: A 41. § (10) bekezdés b) pontja a 285/2024. (IX. 30.) Korm. rendelet 199. § 25. pontja szerint módosított szöveg.
