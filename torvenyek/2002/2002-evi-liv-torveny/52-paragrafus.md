@@ -1,29 +1,31 @@
 ## Jogharmonizációs záradék
 
-52. § (1) E törvény – az a)–d) pont tekintetében az EUtv.-nyel együtt – a következő uniós jogi aktusoknak való megfelelést szolgálja:
+52. § (1) E törvény – az a)–d) pont tekintetében az EUtv.-nyel együtt –
 
-a) a Tanács 2002/465/IB kerethatározata (2002. június 13.) a közös nyomozócsoportokról;
+a) a közös nyomozócsoportokról szóló, 2002. június 13-i 2002/465/IB tanácsi kerethatározatnak;
 
-b) a Tanács 2006/960/IB kerethatározata (2006. december 18.) az Európai Unió tagállamainak bűnüldöző hatóságai közötti, információ és bűnüldözési operatív információ cseréjének leegyszerűsítéséről (e törvény 4. § (1) bekezdése, 11/A. §-a, 16/A–16/F. §-a, 1. és 2. melléklete);
+b) 4. § (1) bekezdése, 11/A. §-a, 16/A–16/F. §-a a tagállamok bűnüldöző hatóságai közötti információcseréről és a 2006/960/IB tanácsi kerethatározat hatályon kívül helyezéséről szóló, 2023. május 10-i (EU) 2023/977 európai parlamenti és tanácsi irányelvnek;
 
-c) a Tanács 2007/845/IB határozata (2007. december 6.) a tagállamok vagyon-visszaszerzési hivatali között, a bűncselekményből származó jövedelmek és bűncselekményekhez kapcsolódó egyéb tulajdon felkutatása és azonosítása terén való együttműködésről (e törvény 16/G–16/H. §-a);
+c) 16/G. §-a és 16/H. §-a a tagállamok vagyon-visszaszerzési hivatalai között, a bűncselekményből származó jövedelmek és bűncselekményekhez kapcsolódó egyéb tulajdon felkutatása és azonosítása terén való együttműködésről szóló, 2007. december 6-i 2007/845/IB tanácsi határozatnak;
 
-d) a Tanács 96/277/IB együttes fellépése (1996. április 22.), amelyet a Tanács az Európai Unióról szóló szerződés K.3. cikke alapján fogadott el, az összekötő tisztviselőknek az Európai Unió tagállamai közötti igazságügyi együttműködés javítása céljából történő cseréjére vonatkozó keretrendszerről;
+d) az Európai Unióról szóló szerződés K.3. cikke alapján elfogadott, az összekötő tisztviselőknek az Európai Unió tagállamai közötti igazságügyi együttműködés javítása céljából történő cseréjére vonatkozó keretrendszerről szóló, 1996. április 22-i 96/277/IB tanácsi együttes fellépésnek;
 
-e) a Tanács 2000. november 30-i ajánlása az EUROPOL részéről a tagállamok által felállított közös nyomozó csoportoknak nyújtandó segítségről (HL C 357., 2000.12.13., 7. o.).
+e) az EUROPOL részéről a tagállamok által felállított közös nyomozó csoportoknak nyújtandó segítségről szóló, 2000. november 30-i tanácsi ajánlásnak
 
-(2) E törvény a következő uniós jogi aktusok végrehajtását szolgálja:
+való megfelelést szolgálja.
 
-a) a Schengeni Végrehajtási Egyezmény 39–41. cikkei, továbbá 46–47. cikkei;
+(2) E törvény
 
-b) az Európai Unió Tanácsának 2000. május 29-én kelt a tagállamok közötti, büntetőügyekben való kölcsönös segítségnyújtásról szóló Egyezmény 6–7. cikkei, továbbá 12–14. cikkei;
+a) a határellenőrzés fokozatos megszüntetéséről szóló, 1985. június 14-én elfogadott Schengeni Megállapodás végrehajtásáról szóló Egyezmény (Schengeni Végrehajtási Egyezmény) 39–41. cikkeinek, továbbá 46–47. cikkeinek;
 
-c) az Európai Uniónak az Európai Unió tagállamai közötti kölcsönös bűnügyi jogsegélyről szóló egyezménye 2001. október 16-án elfogadott Kiegészítő Jegyzőkönyve;
+b) az Európai Unió tagállamai közötti kölcsönös bűnügyi jogsegélyről szóló, 2000. május 29-én elfogadott Egyezmény 6–7. cikkeinek, továbbá 12–14. cikkeinek;
 
-d) az Európai Unió 1997. december 18-án elfogadott Egyezménye a vámszervek közötti kölcsönös segítségnyújtásról és együttműködésről (Nápoly II Egyezmény);
+c) az Európai Unió tagállamai közötti kölcsönös bűnügyi jogsegélyről szóló Egyezmény 2001. október 16-án elfogadott Kiegészítő Jegyzőkönyvének;
 
-e) az Európai Unió az Európai Rendőrségi Hivatal létrehozásáról szóló Egyezményének 2002. november 28-án elfogadott Kiegészítő Jegyzőkönyve,
+d) a 2006. évi LXXXIX. törvénnyel kihirdetett, az Európai Unióról szóló szerződés K.3 cikke alapján a vámigazgatási szervek közötti kölcsönös segítségnyújtásról és együttműködésről szóló, 1997. december 18-án elfogadott Egyezménynek (Nápoly II Egyezmény);
 
-f) az Európai Unió tagállamainak különleges intervenciós egységei közötti együttműködés javításáról válsághelyzetekben szóló, 2008. június 23-i 2008/617/IB tanácsi határozat e törvény 2. § 9. és 10. pontjával, 8. § l) pontjával, és 42/A–42/D. §-ával.
+e) 2. § 9. és 10. pontja, 8. § l) pontja, valamint 42/A–42/D. §-a az Európai Unió tagállamainak különleges intervenciós egységei közötti együttműködés javításáról válsághelyzetekben című, 2008. június 23-i 2008/617/IB tanácsi határozatnak;
 
-(3) Ez a törvény a Bűnüldözési Együttműködés Európai Uniós Ügynökségéről (Europol), valamint a 2009/371/IB, a 2009/934/IB, a 2009/935/IB, a 2009/936/IB és a 2009/968/IB tanácsi határozat felváltásáról és hatályon kívül helyezéséről szóló, 2016. május 11-i (EU) 2016/794 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+f) a Bűnüldözési Együttműködés Európai Uniós Ügynökségéről (Europol), valamint a 2009/371/IB, a 2009/934/IB, a 2009/935/IB, a 2009/936/IB és a 2009/968/IB tanácsi határozat felváltásáról és hatályon kívül helyezéséről szóló, 2016. május 11-i (EU) 2016/794 európai parlamenti és tanácsi rendeletnek [EU) 2016/794 európai parlamenti és tanácsi rendelet]
+
+a végrehajtásához szükséges rendelkezéseket állapít meg.
