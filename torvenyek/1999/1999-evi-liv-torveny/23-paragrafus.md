@@ -1,0 +1,1 @@
+23. § Ez a törvény a tagállamok bűnüldöző hatóságai közötti információcseréről és a 2006/960/IB tanácsi kerethatározat hatályon kívül helyezéséről szóló, 2023. május 10-i (EU) 2023/977 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.

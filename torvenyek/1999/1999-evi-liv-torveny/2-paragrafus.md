@@ -10,6 +10,8 @@ bb) a törvény vagy az Európai Unió jogi aktusa alapján a Schengeni Informá
 
 bc) az INTERPOL FIND rendszerhez hozzáférési jogosultsággal rendelkező szerv;
 
+bd) a közös kapcsolattartási szolgálati hely;
+
 c) bűnüldözési adat: a Rendőrségről szóló 1994. évi XXXIV. törvény VIII. fejezetében meghatározott bűnüldözési adatkezelés körébe tartozó adat;
 
 d) INTERPOL FIND rendszer: a bűnmegelőzési, a bűnüldözési, valamint a határrendészeti tevékenységi körben az Interpolnak

@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1999-54-00-00
 | 2018-01-01 | 2017. évi CXLIV. törvény | 1999-54-00-00.24 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 1999-54-00-00.25 |
 | 2023-09-01 | 2023. évi XXXI. törvény | 1999-54-00-00.26 |
+| 2024-12-12 | 2024. évi XXV. törvény | 1999-54-00-00.27 |

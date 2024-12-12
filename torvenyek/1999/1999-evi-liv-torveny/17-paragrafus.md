@@ -1,1 +1,1 @@
-### 17. §
+17. § A NEBEK a belügyi ágazati feladatellátást támogató törvények módosításáról szóló 2024. évi XXV. törvénnyel megállapított 5. § (9) bekezdése szerinti kötelezettségének első alkalommal 2026. március 1-jén tesz eleget.
