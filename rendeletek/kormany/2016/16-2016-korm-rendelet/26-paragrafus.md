@@ -4,7 +4,8 @@
 
 (3) Ha az igénylő és azon gyermeke, akire tekintettel a családi otthonteremtési kedvezményt igényli, a kérelem benyújtásának időpontjában a 28. § a) vagy h) pontjában foglaltak szerinti lakóhellyel vagy tartózkodási hellyel rendelkezik, a lakóhely vagy a tartózkodási hely – a 28. § a) vagy h) pontjában meghatározott tényekre tekintettel történő – fenntartása nem minősül az (1) és a (2) bekezdésében foglalt kötelezettségek megsértésének.
 
-(4) A (2) bekezdés szerinti kötelezettség teljesítését a Kincstár ellenőrzi. Ha a (2) bekezdésben meghatározott kötelezettség nem teljesül, a Kincstár tájékoztatja erről a kormányhivatalt.
+(4)[^87] A (2) bekezdés szerinti kötelezettség teljesítését a Kincstár ellenőrzi. Ha a (2) bekezdésben meghatározott kötelezettség nem teljesül, a Kincstár tájékoztatja erről a kormányhivatalt. A kormányhivatal egy alkalommal 60 napos határidővel felszólítja a támogatott személyt a (2) bekezdés szerinti kötelezettsége teljesítésére, illetve a jogszerű állapot kialakítására. Ha a támogatott személy a felszólításnak határidőben eleget tesz, akkor vele szemben a 41. § (3) bekezdése és az 54. § szerinti jogkövetkezmény nem alkalmazható ebben az eljárásban.
 
 [^85]: A 26. § a 169/2023. (V. 12.) Korm. rendelet 11. §-ával megállapított szöveg.
 [^86]: A 26. § (2) bekezdése a 649/2023. (XII. 28.) Korm. rendelet 19. § (7) bekezdés b) pontja szerint módosított szöveg.
+[^87]: A 26. § (4) bekezdése a 388/2024. (XII. 11.) Korm. rendelet 8. § 3. pontja szerint módosított szöveg.

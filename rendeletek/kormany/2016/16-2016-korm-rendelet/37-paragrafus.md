@@ -1,12 +1,12 @@
-37. § (1)[^131] A családi otthonteremtési kedvezmény iránti kérelmet új lakás vásárlása esetén az adásvételi szerződés megkötését követő 180 napon belül, új lakás építése esetén a használatbavételi engedélyről szóló határozat kiállítását, valamint a 18. § (3a) bekezdése szerinti esetben az építési tevékenység befejezését megelőzően kell benyújtani a hitelintézethez.
+37. § (1)[^132] A családi otthonteremtési kedvezmény iránti kérelmet új lakás vásárlása esetén az adásvételi szerződés megkötését követő 180 napon belül, új lakás építése esetén a használatbavételi engedélyről szóló határozat kiállítását, valamint a 18. § (3a) bekezdése szerinti esetben az építési tevékenység befejezését megelőzően kell benyújtani a hitelintézethez.
 
-(1a)[^132] A családi otthonteremtési kedvezmény a kérelem benyújtásakor az épület készültségi fokának megfelelő, az építési költségvetésből még fennmaradó bekerülési költségre igényelhető.
+(1a)[^133] A családi otthonteremtési kedvezmény a kérelem benyújtásakor az épület készültségi fokának megfelelő, az építési költségvetésből még fennmaradó bekerülési költségre igényelhető.
 
 (2) Ha az igénylő az (1) bekezdés szerinti határidőn belül nem él a családi otthonteremtési kedvezmény igénylésének lehetőségével, arra a határidő lejártát követően az (1) bekezdés szerinti új lakás vásárlásához a családi otthonteremtési kedvezményére már nem tarthat igényt.
 
-(3)[^133] A családi otthonteremtési kedvezmény iránti kérelem benyújtásának napja az a nap, amikor az igénylő a kérelmet, valamint az e rendelet szerinti igénylési feltételeket igazoló dokumentumokat és nyilatkozatokat hiánytalanul benyújtja a hitelintézet részére. A hitelintézet a családi otthonteremtési kedvezmény igénylése iránti kérelem benyújtásáról és a becsatolt dokumentumokról igazolást ad az igénylőnek, melyben tájékoztatja a kérelem elbírálásának (3a) bekezdés szerinti időtartamáról és a (3b) bekezdésben foglaltakról. A kérelem benyújtásának minősül az is, ha a kérelmet és a becsatolt dokumentumokat a hitelintézet függő közvetítője vette át. Ez esetben az elbírálás várható időtartamáról a függő közvetítő ad írásbeli tájékoztatást.
+(3)[^134] A családi otthonteremtési kedvezmény iránti kérelem benyújtásának napja az a nap, amikor az igénylő a kérelmet, valamint az e rendelet szerinti igénylési feltételeket igazoló dokumentumokat és nyilatkozatokat hiánytalanul benyújtja a hitelintézet részére. A hitelintézet a családi otthonteremtési kedvezmény igénylése iránti kérelem benyújtásáról és a becsatolt dokumentumokról igazolást ad az igénylőnek, melyben tájékoztatja a kérelem elbírálásának (3a) bekezdés szerinti időtartamáról és a (3b) bekezdésben foglaltakról. A kérelem benyújtásának minősül az is, ha a kérelmet és a becsatolt dokumentumokat a hitelintézet függő közvetítője vette át. Ez esetben az elbírálás várható időtartamáról a függő közvetítő ad írásbeli tájékoztatást.
 
-(3a)[^134] A kérelmet
+(3a)[^135] A kérelmet
 
 a) új lakás vásárlása esetén a kérelem benyújtásának napját követő 30 napon belül,
 
@@ -14,7 +14,7 @@ b) új lakás építése esetén a kérelem benyújtásának napját követő 60
 
 kell elbírálnia a hitelintézetnek.
 
-(3b)[^135] Ha a kérelem elbírálásához szükséges, a hitelintézet az igénylőtől a benyújtott dokumentumok kiegészítését kérheti. A kiegészítésre biztosított időtartam a (3a) bekezdés szerinti határidőbe nem számít bele.
+(3b)[^136] Ha a kérelem elbírálásához szükséges, a hitelintézet az igénylőtől a benyújtott dokumentumok kiegészítését kérheti. A kiegészítésre biztosított időtartam a (3a) bekezdés szerinti határidőbe nem számít bele.
 
 (4) A hitelintézet a családi otthonteremtési kedvezmény nyújtását nem tagadhatja meg, ha az igénylő a személyi és egyéb feltételeknek megfelel és a lakáscélját – a hitelintézet számára bizonyíthatóan – kölcsön igénybevétele nélkül meg tudja valósítani.
 
@@ -26,13 +26,13 @@ kell elbírálnia a hitelintézetnek.
 
 (8) A nem magyar állampolgár támogatott személy a tartózkodási jogosultságának fennállását évente, legkésőbb január 31-éig igazolja a hitelintézet részére. A nem magyar állampolgár támogatott személy a tartózkodási jogosultságában bekövetkezett változást 8 napon belül köteles a hitelintézetnek bejelenteni.
 
-(9)[^136] Ha ugyanazon lakáscél megvalósításához a támogatott személy az e rendelet és egyéb lakáscélú állami támogatásokat szabályozó kormányrendeletek szerinti lakáscélú állami támogatásokat különböző hitelintézetektől veszi igénybe, a hitelintézetek kötelesek együttműködni, valamint a másik hitelintézethez már benyújtott számlát, egyszerűsített számlát elfogadni.
+(9)[^137] Ha ugyanazon lakáscél megvalósításához a támogatott személy az e rendelet és egyéb lakáscélú állami támogatásokat szabályozó kormányrendeletek szerinti lakáscélú állami támogatásokat különböző hitelintézetektől veszi igénybe, a hitelintézetek kötelesek együttműködni, valamint a másik hitelintézethez már benyújtott számlát, egyszerűsített számlát elfogadni.
 
 (10) A (9) bekezdés tekintetében lakáscélú állami támogatásnak minősül a lakás-takarékpénztárakról szóló törvény, valamint a lakáscélú állami támogatásokról, a fiatalok, valamint a többgyermekes családok lakáscélú kölcsöneinek állami támogatásáról és az otthonteremtési kamattámogatásról szóló kormányrendelet, a lakásépítési támogatásról szóló kormányrendelet, valamint az e rendelet szerinti állami támogatás.
 
-[^131]: A 37. § (1) bekezdése a 46/2019. (III. 12.) Korm. rendelet 4. §-ával megállapított, a 406/2023. (VIII. 30.) Korm. rendelet 17. § 9. pontja, a 285/2024. (IX. 30.) Korm. rendelet 116. § 7. pontja szerint módosított szöveg.
-[^132]: A 37. § (1a) bekezdését a 273/2016. (IX. 15.) Korm. rendelet 8. §-a iktatta be, szövege e módosító rendelet 9. §-ával megállapított szöveg.
-[^133]: A 37. § (3) bekezdése a 26/2018. (II. 28.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^134]: A 37. § (3a) bekezdését a 26/2018. (II. 28.) Korm. rendelet 13. §-a iktatta be.
-[^135]: A 37. § (3b) bekezdését a 26/2018. (II. 28.) Korm. rendelet 13. §-a iktatta be.
-[^136]: A 37. § (9) bekezdése a 649/2023. (XII. 28.) Korm. rendelet 19. § (8) bekezdés a) pontja szerint módosított szöveg.
+[^132]: A 37. § (1) bekezdése a 46/2019. (III. 12.) Korm. rendelet 4. §-ával megállapított, a 406/2023. (VIII. 30.) Korm. rendelet 17. § 9. pontja, a 285/2024. (IX. 30.) Korm. rendelet 116. § 7. pontja szerint módosított szöveg.
+[^133]: A 37. § (1a) bekezdését a 273/2016. (IX. 15.) Korm. rendelet 8. §-a iktatta be, szövege e módosító rendelet 9. §-ával megállapított szöveg.
+[^134]: A 37. § (3) bekezdése a 26/2018. (II. 28.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^135]: A 37. § (3a) bekezdését a 26/2018. (II. 28.) Korm. rendelet 13. §-a iktatta be.
+[^136]: A 37. § (3b) bekezdését a 26/2018. (II. 28.) Korm. rendelet 13. §-a iktatta be.
+[^137]: A 37. § (9) bekezdése a 649/2023. (XII. 28.) Korm. rendelet 19. § (8) bekezdés a) pontja szerint módosított szöveg.
