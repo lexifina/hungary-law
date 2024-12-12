@@ -46,11 +46,11 @@
 
 ## g) az Ávr. 95. § (5) bekezdése szerinti jogkörében eljárva úgy dönt, hogy a 3. melléklet szerint a XIV. Belügyminisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 33. Egészségügyi ágazati előirányzatok alcím, 1. Egészségügyi ellátási és fejlesztési feladatok jogcímcsoport javára átcsoportosított 73 967 961 forint kapcsán a korábban Belügyminisztérium részéről kibocsátott támogatói okiratok módosítása során az Ávr. 95. § (2)–(4) bekezdésében foglalt eljárási szabályokat nem kell alkalmazni;
 
-## h) felkéri az érintett fejezeteket irányító szervek vezetőit, hogy az energiaár-növekedésből eredő kompenzáció az érintett fejezetek cím szintjén fel nem használt összege a 2024. évben kötelezettségvállalással nem terhelt maradványként kerüljön befizetésre a Központi Maradványelszámolási Alap előirányzat javára;
+## h) [^1] felkéri az érintett fejezeteket irányító szervek vezetőit, hogy az energiaár-növekedésből eredő kompenzáció az érintett fejezetek cím szintjén fel nem használt összege a 2025. évben kötelezettségvállalással nem terhelt maradványként kerüljön befizetésre a Központi Maradványelszámolási Alap előirányzat javára;
 
 | Felelős: | érintett fejezetet irányító szervek vezetői |
 
-| Határidő: | azonnal |
+| Határidő: | 2024. évi költségvetési beszámoló Magyar Államkincstár által történő elfogadását követő 10. munkanap |
 
 ## i) egyetért azzal, hogy a közigazgatási és területfejlesztési miniszter a d) alpont szerint átcsoportosított 21 634 152 forint forrás terhére külön pályázat és kérelem benyújtása nélkül – az egészséges ivóvízellátás biztosításával összefüggő tartozás rendezése érdekében – vissza nem térítendő egyedi támogatást nyújtson Nagyiván Község Önkormányzata részére támogatási előlegként, a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatói okirat alapján;
 
@@ -64,8 +64,9 @@
 
 | Határidő: | azonnal |
 
-## 2.[^1]
+## 2.[^2]
 
 1. melléklet az 1374/2024. (XII. 6.) Korm. határozathoz
 
-[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont h) alpontja az 1394/2024. (XII. 12.) Korm. határozat 5. pont a) és b) alpontja szerint módosított szöveg.
+[^2]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
