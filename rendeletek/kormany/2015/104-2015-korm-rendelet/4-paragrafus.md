@@ -22,12 +22,15 @@ i) a megvalósítás befejezése előtt folyamatosan ellenőrzi az igénybe vett
 
 j) ellenőrzi és jóváhagyja a beérkezett rész-, illetve záró beszámolókat.
 
+k)[^9] közreműködik a pályázatok nyomon- és utánkövetésében.
+
 (2) A záró beszámolók jóváhagyását követően a teljesítést a Támogatáskezelő igazolja.
 
-(3)[^9]
+(3)[^10]
 
 [^5]: A 3/A. §-t a 444/2020. (IX. 30.) Korm. rendelet 6. § (1) bekezdése iktatta be, szövege a 832/2021. (XII. 30.) Korm. rendelet 9. §-a szerint módosított szöveg.
 [^6]: A 4. § (1) bekezdés c) pontja a 237/2021. (V. 6.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^7]: A 4. § (1) bekezdés f) pontja a 237/2021. (V. 6.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^8]: A 4. § (1) bekezdés g) pontja a 272/2019. (XI. 20.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^9]: A 4. § (3) bekezdését a 444/2020. (IX. 30.) Korm. rendelet 6. § (3) bekezdése hatályon kívül helyezte.
+[^9]: A 4. § (1) bekezdés k) pontját a 388/2024. (XII. 11.) Korm. rendelet 4. §-a iktatta be.
+[^10]: A 4. § (3) bekezdését a 444/2020. (IX. 30.) Korm. rendelet 6. § (3) bekezdése hatályon kívül helyezte.
