@@ -20,15 +20,17 @@ bb)[^67] az állami adóhatóság a bizonylatok valódiságát, a bennük foglal
 
 (4)[^71] A (3) bekezdésben meghatározott kötelezettség teljesítését a Kincstár ellenőrzi. A (3) bekezdésben meghatározott kötelezettség nem teljesülése esetén a Kincstár tájékoztatja erről a kormányhivatalt, és megküldi az ügy iratait.
 
+(4a)[^72] A kormányhivatal egy alkalommal 60 napos határidővel felszólítja a támogatott személyt a (3) bekezdés szerinti kötelezettsége teljesítésére, illetve a jogszerű állapot kialakítására. Ha a támogatott személy a felszólításnak határidőben eleget tesz, akkor a 8. § (11) bekezdése szerinti jogkövetkezmény vele szemben nem alkalmazható ebben az eljárásban.
+
 (5) A kamattámogatások igénybevételéhez a költségek igazolásaként bemutatott számlát a hitelintézet csak akkor fogadhatja el, ha a kibocsátó a kibocsátás időpontjában az állami adóhatóság nyilvántartásában működő adóalanyként szerepel. Külön adóhatósági igazolás nélkül elfogadhatja a hitelintézet azt a számlát, melynek kibocsátója a számlakibocsátás időpontjában – bejelentkezése alapján – az állami adóhatóság e célra létrehozott külön nyilvántartásában működő adóalanyként szerepel, és hozzájárult ahhoz, hogy nevét (cégnevét), adószámát, székhelyét, adóalanyként történő nyilvántartásba vételének és törlésének időpontját az adóhatóság az interneten közzétegye. A külön nyilvántartásban nem szereplők által kibocsátott számlákat a hitelintézet akkor fogadhatja el, ha a támogatott személy a számlákhoz csatolja az állami adóhatóság igazolását, mely szerint a számlakibocsátó a számla kibocsátásának időpontjában az állami adóhatóság nyilvántartásában működő adóalanyként szerepelt. Építésiengedély-köteles munkák esetén, az építési engedély kiadását legfeljebb 6 hónappal megelőzően kiállított számlák fogadhatók el.
 
 (6) A hitelintézet az eredeti számlákat – letörölhetetlen jelzéssel ellátva – a támogatott személynek visszaadja, másolatban tíz évig, de legalább a támogatott kölcsön megszűnéséig irattárában megőrzi.
 
-(6a)[^72] Letörölhetetlen jelzéssel a számlára feljegyzésre kerül, hogy azt mely ingatlan vonatkozásában, mikor és mely 2. § (1) bekezdése szerinti kamattámogatás igénybevétele céljából mutatták be a hitelintézetnél.
+(6a)[^73] Letörölhetetlen jelzéssel a számlára feljegyzésre kerül, hogy azt mely ingatlan vonatkozásában, mikor és mely 2. § (1) bekezdése szerinti kamattámogatás igénybevétele céljából mutatták be a hitelintézetnél.
 
 (7) Ha a hitelintézet azt észleli, hogy a számla valódisága vagy a számlában szereplő gazdasági esemény megtörténte kétséges, a tények feltárása érdekében megkeresi az állami adóhatóságot.
 
-(8)[^73] A támogatott személy köteles a költségek igazolásaként bemutatott számlákat az adásvételi szerződés megkötése, illetve a használatbavételi engedély kiadása évének utolsó napjától számított öt évig megőrizni.
+(8)[^74] A támogatott személy köteles a költségek igazolásaként bemutatott számlákat az adásvételi szerződés megkötése, illetve a használatbavételi engedély kiadása évének utolsó napjától számított öt évig megőrizni.
 
 (9) Ha az állami adóhatóság vizsgálata során azt állapítja meg, hogy a kamattámogatás igénybevétele jogosulatlan, vagy a támogatott személy nem a tőle elvárható gondossággal járt el, és ezáltal érdekkörében felmerült ok miatt az igénybevétel szabálytalan, akkor a támogatott személy lakóhelye szerint illetékes állami adóhatóság – jogosulatlanul igénybe vett költségvetési támogatás címén – előírja az igénybe vett kamattámogatás az igénybevétel napjától számított késedelmi pótlékkal növelt összegének visszatérítését.
 
@@ -40,5 +42,6 @@ bb)[^67] az állami adóhatóság a bizonylatok valódiságát, a bennük foglal
 [^69]: A 7. § (2) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 28. § h) pontja szerint módosított szöveg.
 [^70]: A 7. § (3) bekezdése a 169/2023. (V. 12.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^71]: A 7. § (4) bekezdése a 169/2023. (V. 12.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^72]: A 7. § (6a) bekezdését az 537/2013. (XII. 30.) Korm. rendelet 48. §-a iktatta be.
-[^73]: A 7. § (8) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 28. § i) pontja szerint módosított szöveg.
+[^72]: A 7. § (4a) bekezdését a 388/2024. (XII. 11.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^73]: A 7. § (6a) bekezdését az 537/2013. (XII. 30.) Korm. rendelet 48. §-a iktatta be.
+[^74]: A 7. § (8) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 28. § i) pontja szerint módosított szöveg.
