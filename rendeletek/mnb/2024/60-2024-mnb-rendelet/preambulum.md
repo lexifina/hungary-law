@@ -1,0 +1,1 @@
+A nemzeti adatvagyon hasznosításának rendszeréről és az egyes szolgáltatásokról szóló 2023. évi CI. törvény 100. § (6) bekezdésében kapott felhatalmazás alapján, a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 4. § (1)–(9) és (11) bekezdésében meghatározott feladatkörömben eljárva a következőket rendelem el:

@@ -1,0 +1,1 @@
+3. § Az igénylő a díjat a megállapodás létrejöttét követően, az adatok rendelkezésre bocsátását megelőzően fizeti meg, az MNB által elektronikus úton kibocsátott számla alapján, átutalás útján, a megállapodásban meghatározottak szerint.
