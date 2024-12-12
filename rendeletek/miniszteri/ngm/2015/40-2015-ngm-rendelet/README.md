@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-40-20-2
 | 2022-01-01 | 2015-40-20-2X.7 | 14/2021. (XII. 8.) PM rendelet |
 | 2023-07-01 | 2015-40-20-2X.8 | 14/2021. (XII. 8.) PM rendelet |
 | 2024-01-01 | 2015-40-20-2X.9 | 41/2023. (XII. 27.) GFM rendelet |
+| 2024-12-12 | 2015-40-20-2X.10 | 42/2024. (XII. 4.) NGM rendelet |
