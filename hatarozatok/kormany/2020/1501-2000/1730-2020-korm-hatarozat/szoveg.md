@@ -14,7 +14,7 @@ Határidő: 2021. március 31.
 
 2. egyetért az alábbi három épület felújításának előkészítésével a historikus épületelemek helyreállítása modellprogram (a továbbiakban: modellprogram) keretében:
 
-a) a Budapest V. kerület, belterület 24718 helyrajzi számú, természetben az 1054 Budapest, Vécsey utca 4. szám alatti épület,
+a)[^1]
 
 b) a Budapesti Műszaki és Gazdaságtudományi Egyetem Budapest XI. kerület, belterület 5534 helyrajzi számú, természetben az 1111 Budapest, Szent Gellért tér 4. szám alatti „CH” épülete,
 
@@ -44,6 +44,14 @@ Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: a 2. pont szerinti épületeket érintő beruházások megvalósítására vonatkozó feltételes közbeszerzési eljárás lefolytatását követő 60 napon belül
 
-8.[^1] az állami építési beruházások rendjéről szóló 2023. évi LXIX. törvény (a továbbiakban: Ábtv.) 4. § (2) bekezdésében biztosított jogkörében eljárva – az építési beruházás gyors lefolytatása érdekében – a 2. pont szerinti épületeket érintő beruházást, ideértve a 7. pont szerinti feltételes közbeszerzési eljárást is – az ahhoz fűződő kiemelt nemzeti érdekre tekintettel – mentesíti az Ábtv. alkalmazása alól.
+8.[^2] az állami építési beruházások rendjéről szóló 2023. évi LXIX. törvény (a továbbiakban: Ábtv.) 4. § (2) bekezdésében biztosított jogkörében eljárva – az építési beruházás gyors lefolytatása érdekében – a 2. pont szerinti épületeket érintő beruházást, ideértve a 7. pont szerinti feltételes közbeszerzési eljárást is – az ahhoz fűződő kiemelt nemzeti érdekre tekintettel – mentesíti az Ábtv. alkalmazása alól.
 
-[^1]: A 8. pontot az 1043/2024. (III. 4.) Korm. határozat iktatta be.
+9.[^3] felhívja az építési és közlekedési minisztert, hogy tegye meg a szükséges intézkedéseket a 2. pont a) alpontjában meghatározott feladat vonatkozásában, a 6. pont alapján megkötött támogatási szerződés keretében már folyósított 78 500 000 forint összegű forrás tekintetében az Építési és Közlekedési Minisztérium részére történő beszámoló benyújtása és a fel nem használt összeg visszatérítése érdekében.
+
+| Felelős: | építési és közlekedési miniszter |
+
+| Határidő: | a beszámoló elkészítése és benyújtása vonatkozásában e határozati pont közzétételét követő hat hónapon belül |
+
+[^1]: A 2. pont a) alpontját az 1392/2024. (XII. 12.) Korm. határozat 2. pontja visszavonta.
+[^2]: A 8. pontot az 1043/2024. (III. 4.) Korm. határozat iktatta be.
+[^3]: A 9. pontot az 1392/2024. (XII. 12.) Korm. határozat 1. pontja iktatta be.
