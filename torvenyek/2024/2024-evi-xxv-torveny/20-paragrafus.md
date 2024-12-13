@@ -1,3 +1,1 @@
-20. § A bűnüldöző szervek nemzetközi együttműködéséről szóló 2002. évi LIV. törvény 16/E. §-a helyébe a következő rendelkezés lép:
-
-„16/E. § Ha a 16/A. § szerinti információ átadására vonatkozó megkeresés vagy a 16/B. § vagy 16/C. § alapján átadott információ az (EU) 2016/794 európai parlamenti és tanácsi rendelet 3. cikk (2) bekezdésében és I. mellékletében meghatározott bűncselekmények valamelyikére vonatkozik, a magyar bűnüldöző szerv az információ átadására vonatkozó megkeresés vagy az átadott információ másolatát minden esetben megküldi a rendőrségnek az EUROPOL-lal való együttműködésért felelős szervezeti egységének is.”
+### 20. §
