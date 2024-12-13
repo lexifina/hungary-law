@@ -1,3 +1,3 @@
-2/D. §[^21]
+2/D. §[^22]
 
-[^21]: A 2/D. §-t a 294/2016. (IX. 29.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 19/2018. (II. 14.) Korm. rendelet 57. § b)–d) pontja.
+[^22]: A 2/D. §-t a 294/2016. (IX. 29.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 19/2018. (II. 14.) Korm. rendelet 57. § b)–d) pontja.
