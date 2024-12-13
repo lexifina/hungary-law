@@ -1,0 +1,3 @@
+## 2. A lerombolt historikus épületelemek helyreállítási programjának megvalósítását szolgáló beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és a beruházások kiemelten közérdekű beruházássá nyilvánításáról szóló 477/2020. (X. 30.) Korm. rendelet módosítása
+
+2. § Hatályát veszti a lerombolt historikus épületelemek helyreállítási programjának megvalósítását szolgáló beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és a beruházások kiemelten közérdekű beruházássá nyilvánításáról szóló 477/2020. (X. 30.) Korm. rendelet 2. mellékletében foglalt táblázat 2. sora.
