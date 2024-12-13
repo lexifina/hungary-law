@@ -1,3 +1,3 @@
-39. §[^92]
+39. §[^101]
 
-[^92]: A 39. § az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^101]: A 39. § az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.

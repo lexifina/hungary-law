@@ -1,3 +1,3 @@
-9. §[^18]
+9. §[^23]
 
-[^18]: A 9. § az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^23]: A 9. § az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.

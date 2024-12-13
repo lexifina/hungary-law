@@ -1,3 +1,3 @@
-41. §[^94]
+41. §[^103]
 
-[^94]: A 41. § az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^103]: A 41. § az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.

@@ -1,145 +1,146 @@
 48. § Az R8.
 
-1.[^100]
+1.[^111]
 
-2.[^101]
+2.[^112]
 
-3.[^102]
+3.[^113]
 
-4.[^103]
+4.[^114]
 
-5.[^104]
+5.[^115]
 
-6.[^105]
+6.[^116]
 
-7.[^106]
+7.[^117]
 
-8.[^107]
+8.[^118]
 
-9.[^108]
+9.[^119]
 
-10.[^109]
+10.[^120]
 
-11. 15. § (7) bekezdésében a „kormányhivatalt.” szövegrész helyébe a „kormányhivatalt. A kormányhivatal egy alkalommal 60 napos határidővel felszólítja a támogatott személyeket az (5) bekezdés d) pont di) alpontja szerinti kötelezettségük teljesítésére, illetve a jogszerű állapot kialakítására. Ha a támogatott személyek a felszólításnak határidőben eleget tesznek, akkor velük szemben a 30. § (3) és 33. § (2) bekezdése szerinti jogkövetkezmény nem alkalmazható ebben az eljárásban.” szöveg,
+11.[^121]
 
-12.[^110]
+12.[^122]
 
-13.[^111]
+13.[^123]
 
-14.[^112]
+14.[^124]
 
-15.[^113]
+15.[^125]
 
-16.[^114]
+16.[^126]
 
-17.[^115]
+17.[^127]
 
-18.[^116]
+18.[^128]
 
-19.[^117]
+19.[^129]
 
-20.[^118]
+20.[^130]
 
-21.[^119]
+21.[^131]
 
-22.[^120]
+22.[^132]
 
-23.[^121]
+23.[^133]
 
-24.[^122]
+24.[^134]
 
-25.[^123]
+25.[^135]
 
-26.[^124]
+26.[^136]
 
-27.[^125]
+27.[^137]
 
-28.[^126]
+28.[^138]
 
-29.[^127]
+29.[^139]
 
-30.[^128]
+30.[^140]
 
-31.[^129]
+31.[^141]
 
-32.[^130]
+32.[^142]
 
-33.[^131]
+33.[^143]
 
-34.[^132]
+34.[^144]
 
-35.[^133]
+35.[^145]
 
-36.[^134]
+36.[^146]
 
-37.[^135]
+37.[^147]
 
-38.[^136]
+38.[^148]
 
-39.[^137]
+39.[^149]
 
-40.[^138]
+40.[^150]
 
-41.[^139]
+41.[^151]
 
-42.[^140]
+42.[^152]
 
-43.[^141]
+43.[^153]
 
-44.[^142]
+44.[^154]
 
-45.[^143]
+45.[^155]
 
-46.[^144]
+46.[^156]
 
-47.[^145]
+47.[^157]
 
-48.[^146]
+48.[^158]
 
-[^100]: A 48. § 1. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^101]: A 48. § 2. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^102]: A 48. § 3. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^103]: A 48. § 4. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^104]: A 48. § 5. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^105]: A 48. § 6. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^106]: A 48. § 7. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^107]: A 48. § 8. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^108]: A 48. § 9. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^109]: A 48. § 10. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^110]: A 48. § 12. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^111]: A 48. § 13. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^112]: A 48. § 14. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^113]: A 48. § 15. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^114]: A 48. § 16. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^115]: A 48. § 17. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^116]: A 48. § 18. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^117]: A 48. § 19. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^118]: A 48. § 20. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^119]: A 48. § 21. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^120]: A 48. § 22. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^121]: A 48. § 23. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^122]: A 48. § 24. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^123]: A 48. § 25. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^124]: A 48. § 26. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^125]: A 48. § 27. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^126]: A 48. § 28. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^127]: A 48. § 29. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^128]: A 48. § 30. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^129]: A 48. § 31. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^130]: A 48. § 32. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^131]: A 48. § 33. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^132]: A 48. § 34. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^133]: A 48. § 35. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^134]: A 48. § 36. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^135]: A 48. § 37. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^136]: A 48. § 38. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^137]: A 48. § 39. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^138]: A 48. § 40. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^139]: A 48. § 41. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^140]: A 48. § 42. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^141]: A 48. § 43. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^142]: A 48. § 44. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^143]: A 48. § 45. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^144]: A 48. § 46. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^145]: A 48. § 47. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^146]: A 48. § 48. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^111]: A 48. § 1. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^112]: A 48. § 2. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^113]: A 48. § 3. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^114]: A 48. § 4. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^115]: A 48. § 5. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^116]: A 48. § 6. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^117]: A 48. § 7. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^118]: A 48. § 8. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^119]: A 48. § 9. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^120]: A 48. § 10. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^121]: A 48. § 11. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^122]: A 48. § 12. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^123]: A 48. § 13. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^124]: A 48. § 14. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^125]: A 48. § 15. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^126]: A 48. § 16. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^127]: A 48. § 17. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^128]: A 48. § 18. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^129]: A 48. § 19. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^130]: A 48. § 20. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^131]: A 48. § 21. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^132]: A 48. § 22. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^133]: A 48. § 23. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^134]: A 48. § 24. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^135]: A 48. § 25. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^136]: A 48. § 26. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^137]: A 48. § 27. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^138]: A 48. § 28. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^139]: A 48. § 29. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^140]: A 48. § 30. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^141]: A 48. § 31. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^142]: A 48. § 32. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^143]: A 48. § 33. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^144]: A 48. § 34. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^145]: A 48. § 35. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^146]: A 48. § 36. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^147]: A 48. § 37. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^148]: A 48. § 38. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^149]: A 48. § 39. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^150]: A 48. § 40. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^151]: A 48. § 41. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^152]: A 48. § 42. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^153]: A 48. § 43. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^154]: A 48. § 44. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^155]: A 48. § 45. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^156]: A 48. § 46. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^157]: A 48. § 47. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^158]: A 48. § 48. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.

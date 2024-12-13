@@ -1,3 +1,3 @@
-14. §[^36]
+14. §[^43]
 
-[^36]: A 14. § az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^43]: A 14. § az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.

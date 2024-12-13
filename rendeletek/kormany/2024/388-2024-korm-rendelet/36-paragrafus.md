@@ -1,3 +1,3 @@
-36. §[^89]
+36. §[^98]
 
-[^89]: A 36. § az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^98]: A 36. § az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.

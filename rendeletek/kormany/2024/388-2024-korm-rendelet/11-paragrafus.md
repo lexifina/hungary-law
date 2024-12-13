@@ -1,3 +1,3 @@
-11. §[^20]
+11. §[^25]
 
-[^20]: A 11. § az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^25]: A 11. § az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.

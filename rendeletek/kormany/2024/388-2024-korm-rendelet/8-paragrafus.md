@@ -1,43 +1,44 @@
 8. § Az R3.
 
-1.[^5]
+1.[^9]
 
-2.[^6]
+2.[^10]
 
-3. 23. § (3) bekezdésében és 26. § (4) bekezdésében a „kormányhivatalt.” szövegrész helyébe a „kormányhivatalt. A kormányhivatal egy alkalommal 60 napos határidővel felszólítja a támogatott személyt a (2) bekezdés szerinti kötelezettsége teljesítésére, illetve a jogszerű állapot kialakítására. Ha a támogatott személy a felszólításnak határidőben eleget tesz, akkor vele szemben a 41. § (3) bekezdése és az 54. § szerinti jogkövetkezmény nem alkalmazható ebben az eljárásban.” szöveg,
+3.[^11]
 
-4.[^7]
+4.[^12]
 
-5.[^8]
+5.[^13]
 
-6.[^9]
+6.[^14]
 
-7.[^10]
+7.[^15]
 
-8.[^11]
+8.[^16]
 
-9.[^12]
+9.[^17]
 
-10.[^13]
+10.[^18]
 
-11.[^14]
+11.[^19]
 
-12.[^15]
+12.[^20]
 
-13.[^16]
+13.[^21]
 
-14.[^17]
+14.[^22]
 
-[^5]: A 8. § 1. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^6]: A 8. § 2. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^7]: A 8. § 4. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^8]: A 8. § 5. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^9]: A 8. § 6. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^10]: A 8. § 7. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^11]: A 8. § 8. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^12]: A 8. § 9. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^13]: A 8. § 10. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^14]: A 8. § 11. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^15]: A 8. § 12. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^16]: A 8. § 13. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^17]: A 8. § 14. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^9]: A 8. § 1. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^10]: A 8. § 2. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^11]: A 8. § 3. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 8. § 4. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^13]: A 8. § 5. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^14]: A 8. § 6. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^15]: A 8. § 7. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^16]: A 8. § 8. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^17]: A 8. § 9. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^18]: A 8. § 10. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^19]: A 8. § 11. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^20]: A 8. § 12. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^21]: A 8. § 13. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^22]: A 8. § 14. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.

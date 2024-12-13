@@ -1,3 +1,3 @@
-29. §[^43]
+29. §[^50]
 
-[^43]: A 29. § az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^50]: A 29. § az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.

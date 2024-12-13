@@ -1,3 +1,3 @@
-38. §[^91]
+38. §[^100]
 
-[^91]: A 38. § az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+[^100]: A 38. § az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
