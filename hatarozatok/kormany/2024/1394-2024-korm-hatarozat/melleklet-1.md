@@ -44,18 +44,17 @@
 
 ## i) egyetért azzal, hogy a közigazgatási és területfejlesztési miniszter a g) és h) alpont szerinti egyedi költségvetési támogatást a támogatói okirat kiadását követően folyósítsa az érintett önkormányzatok számára.
 
-## 2. A címrendi módosításról és kiegészítésről, a rendkívüli kormányzati intézkedésekre szolgáló tartalékból, a Rezsivédelmi Alapból, a Központi Maradványelszámolási Alapból, fejezeten belüli és fejezetek közötti előirányzat-átcsoportosításról, valamint kormányhatározatok módosításáról szóló 1014/2024. (II. 6.) Korm. határozat 1. pont c) alpontjában a „2024. december 31.” szövegrész helyébe a „2024. december 31., A kiemelt nemzetközi sportesemények és egyéb kiemelt állami rendezvények lebonyolítása jogcímcsoport javára biztosított 1 065 360 000 forint tekintetében 2025. december 31.” szöveg lép.
+## 2.[^1]
 
-## 3. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból, a Központi Maradványelszámolási Alapból, a Rezsivédelmi Alapból történő és fejezetek közötti előirányzat-átcsoportosításról szóló 1102/2024. (IV. 11.) Korm. határozat 1. pontjában a „2024. december 31.” szövegrész helyébe a „2024. december 31., az Információs Hivatal cím javára biztosított 920 000 000 forint tekintetében 2025. március 31.” szöveg lép.
+## 3.[^2]
 
-## 4. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból, a Központi Maradványelszámolási Alapból, a Rezsivédelmi Alapból történő és fejezetek közötti előirányzat-átcsoportosításról, kiadási előirányzat megnöveléséről, valamint kormányhatározat végrehajtásával összefüggő további intézkedésekről szóló 1145/2024. (V. 23.) Korm. határozat 1. pontjában a „2024. december 31.” szövegrész helyébe a „2024. december 31., az Információs Hivatal cím javára biztosított 1 399 539 555 forint tekintetében 2025. március 31., A kiemelt nemzetközi sportesemények és egyéb kiemelt állami rendezvények lebonyolítása jogcímcsoport javára biztosított 4 000 000 000 forint tekintetében 2025. december 31.” szöveg lép.
+## 4.[^3]
 
-## 5. A címrendi kiegészítésről, a Központi Maradványelszámolási Alapból, valamint a Rezsivédelmi Alapból történő, fejezeten belüli és fejezetek közötti előirányzat-átcsoportosításról, előirányzat-túllépés engedélyezéséről, valamint kormányhatározat módosításáról szóló 1374/2024. (XII. 6.) Korm. határozat 1. pont h) alpontjában
-
-## a) a „2024. évben” szövegrész helyébe a „2025. évben” szöveg,
-
-## b) az „azonnal” szövegrész helyébe a „2024. évi költségvetési beszámoló Magyar Államkincstár által történő elfogadását követő 10. munkanap” szöveg
-
-## lép.
+## 5.[^4]
 
 1. melléklet az 1394/2024. (XII. 12.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
