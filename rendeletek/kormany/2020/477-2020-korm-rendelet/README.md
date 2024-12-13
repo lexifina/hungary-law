@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-477-20-
 | --- | --- | --- |
 | 2020-10-31 | 2020-477-20-22.1 | 477/2020. (X. 30.) Korm. rendelet |
 | 2022-12-23 | 2020-477-20-22.2 | 546/2022. (XII. 22.) Korm. rendelet |
+| 2024-12-13 | 2020-477-20-22.3 | 392/2024. (XII. 12.) Korm. rendelet |
