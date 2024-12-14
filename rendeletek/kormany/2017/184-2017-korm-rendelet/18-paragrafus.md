@@ -1,0 +1,3 @@
+18. §[^9] Ha a KSH adatfelvétele esetében az adatszolgáltató az adatok benyújtására maga helyett mást bíz meg (adatbenyújtó), az elektronikus azonosításra és képviseleti jogra a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény rendelkezései az irányadóak. Amennyiben az adatszolgáltató az adatbenyújtó részére az ügyintézési rendelkezésben meghatalmazást nem adott, az adatszolgáltató az erre vonatkozó meghatalmazást a KSH részére az első adatszolgáltatást megelőzően köteles megküldeni. A meghatalmazott eljárását úgy kell tekinteni, mintha az adatszolgáltató járt volna el.
+
+[^9]: A 18. § a 377/2024. (XII. 6.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.

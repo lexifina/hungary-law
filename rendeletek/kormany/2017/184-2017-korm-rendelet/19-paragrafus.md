@@ -1,6 +1,3 @@
-## 18. §[^9] Ha a KSH adatfelvétele esetében az adatszolgáltató vagy – adatátvétel esetén – az adminisztratív adatok kezelője az adatok benyújtására vagy – adatátvétel esetén – az adatok továbbítására maga helyett mást bíz meg (adatbenyújtó), az erre vonatkozó meghatalmazást a KSH részére az első adatszolgáltatást vagy – adatátvétel esetén – adatátadást megelőzően köteles megküldeni. A meghatalmazott eljárását úgy kell tekinteni, mintha az adatszolgáltató vagy – adatátvétel esetén – az adminisztratív adatok kezelője járt volna el.
+19. §[^10] Ha az Stt. 27/A. §-ában hivatkozott, az adatszolgáltatási, adatátadási kötelezettség elektronikus úton történő teljesítéséhez a KSH által működtetett informatikai rendszer bármely okból egy napon legalább négy órán keresztül az adatszolgáltató által nem elérhető, ez a nap az adatszolgáltatási határidőbe nem számít bele. A KSH a honlapján közzéteszi azokat a napokat, amelyek a határidőbe nem számítanak bele.
 
-19. §[^10]
-
-[^9]: A 18. § a 398/2017. (XII. 13.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^10]: A 19. §-t a 398/2017. (XII. 13.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^10]: A 19. §-t a 398/2017. (XII. 13.) Korm. rendelet 3. §-a hatályon kívül helyezte, újonnan a 377/2024. (XII. 6.) Korm. rendelet 1. § (2) bekezdése iktatta be.
