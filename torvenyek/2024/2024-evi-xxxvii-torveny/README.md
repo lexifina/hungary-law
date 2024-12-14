@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2024-37-00-00
 | --- | --- | --- |
 | 2024-10-29 | 2024. évi XXXVII. törvény | 2024-37-00-00.0 (közlönyállapot) |
 | 2024-10-29 | Nemzeti Jogszabálytár (egységes szerkezet) | 2024-37-00-00.1 |
+| 2024-12-14 | Nemzeti Jogszabálytár (egységes szerkezet) | 2024-37-00-00.2 |
