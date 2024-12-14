@@ -2,6 +2,6 @@
 
 (2) Az elismerésre jelölt (a továbbiakban: jelölt) nem részesíthető elismerésben, ha az elismerési kezdeményezés miniszteri döntésre való felterjesztését megelőzően nem járult hozzá személyes adatai kezeléséhez.
 
-(3)[^16]
+(3)[^17]
 
-[^16]: A 4. § (3) bekezdését a 6/2020. (II. 28.) KKM rendelet 6. § d) pontja hatályon kívül helyezte.
+[^17]: A 4. § (3) bekezdését a 6/2020. (II. 28.) KKM rendelet 6. § d) pontja hatályon kívül helyezte.

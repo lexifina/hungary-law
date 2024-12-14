@@ -1,10 +1,9 @@
-## 8. § A miniszter az elismerések adományozásáról, illetve visszavonásáról rendelkező egyedi határozatot a minisztérium honlapján, valamint a Magyar Közlönyben közzéteszi.
+9. § (1)[^19] A miniszter által adományozható elismerésekkel összefüggő kiadások fedezetét a Minisztérium igazgatási költségvetésében kell előirányozni.
 
-9. § (1) A miniszter által adományozható elismerésekkel összefüggő kiadások fedezetét a minisztérium igazgatási költségvetésében kell előirányozni.
+(2)[^20]
 
-(2)[^17]
+(3)[^21]
 
-(3)[^18]
-
-[^17]: A 9. § (2) bekezdését a 6/2020. (II. 28.) KKM rendelet 6. § e) pontja hatályon kívül helyezte.
-[^18]: A 9. § (3) bekezdését a 3/2019. (VI. 13.) KKM rendelet 3. §-a iktatta be, a 6/2020. (II. 28.) KKM rendelet 6. § e) pontja hatályon kívül helyezte.
+[^19]: A 9. § (1) bekezdése a 19/2024. (XII. 11.) KKM rendelet 2. § b) pontja szerint módosított szöveg.
+[^20]: A 9. § (2) bekezdését a 6/2020. (II. 28.) KKM rendelet 6. § e) pontja hatályon kívül helyezte.
+[^21]: A 9. § (3) bekezdését a 3/2019. (VI. 13.) KKM rendelet 3. §-a iktatta be, a 6/2020. (II. 28.) KKM rendelet 6. § e) pontja hatályon kívül helyezte.

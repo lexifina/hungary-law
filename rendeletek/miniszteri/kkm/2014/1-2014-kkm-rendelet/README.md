@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-1-20-6Q
 | 2020-02-29 | 2014-1-20-6Q.7 | 6/2020. (II. 28.) KKM rendelet |
 | 2022-12-21 | 2014-1-20-6Q.8 | 6/2020. (II. 28.) KKM rendelet |
 | 2023-12-13 | 2014-1-20-6Q.9 | 7/2023. (XII. 12.) KKM rendelet |
+| 2024-12-14 | 2014-1-20-6Q.10 | 19/2024. (XII. 11.) KKM rendelet |
