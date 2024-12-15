@@ -36,7 +36,7 @@
 
 14. FIS (Flight Information Service): a repüléstájékoztató szolgálat jelölésére használt rövidítés;
 
-15. GAT (General Air Traffic): a polgári légijárművek, valamint az állami légijárművek mozgásának összessége, amelyeket az ICAO eljárásainak megfelelően hajtanak végre;
+15.[^103] GAT: az (EU) 2018/1139 európai parlamenti és tanácsi rendelet 3. cikk 21. pontjában meghatározott fogalom;
 
 16. GND: földfelszín jelölésére használatos rövidítés;
 
@@ -52,7 +52,7 @@
 
 22. katonai repülésirányító szolgálat: gyűjtőfogalom, amely jelenthet katonai légiforgalmi irányító, valamint légvédelmi irányító szolgálatot;
 
-23.[^103] koordinált légtér: a vitorlázó- és siklórepülések céljára az ellenőrzött légtérben kijelölt légtér, amelyben repülések az ellenőrzött légtérben illetékes légiforgalmi szolgálati egység engedélye alapján, koordinációs feladatokat ellátó szervezet közreműködésével hajthatók végre;
+23.[^104] koordinált légtér: a vitorlázó- és siklórepülések céljára az ellenőrzött légtérben kijelölt légtér, amelyben repülések az ellenőrzött légtérben illetékes légiforgalmi szolgálati egység engedélye alapján, koordinációs feladatokat ellátó szervezet közreműködésével hajthatók végre;
 
 24. légiforgalmi légtér – légiforgalmi szolgálati (ATS) légtér (ATS airspaces): Meghatározott kiterjedésű, az ABC betűivel azonosított légterek, amelyeken belül olyan meghatározott fajtájú repülések hajthatók végre, amelyek számára a légiforgalmi szolgálatok és a működés szabályai meghatározottak;
 
@@ -68,33 +68,33 @@
 
 30. műrepülő légtér: meghatározott kiterjedésű, a műrepülést végző légijárművek védelme céljából kijelölt légtér (azonosító jelölése: LHSA..);
 
-30a.[^104] No Drone Zone: a magyar légtér igénybevételéről szóló 4/1998. (I. 16.) Korm. rendelet 13. § 5. pontja szerinti légtér.
+30a.[^105] No Drone Zone: a magyar légtér igénybevételéről szóló 4/1998. (I. 16.) Korm. rendelet 13. § 5. pontja szerinti légtér.
 
 31. NOTAM: bármely légiforgalmi berendezés, szolgálat, eljárás létesítéséről, állapotáról, változásáról vagy veszély fennállásáról szóló értesítés, amelynek idejében történő megismerése elengedhetetlenül szükséges a repülésben érdekelt személyzet részére;
 
-32.[^105]
+32.[^106]
 
-33.[^106]
+33.[^107]
 
-34.[^107]
+34.[^108]
 
-34a.[^108] RMZ (Radio Mandatory Zone): a közös repülési szabályok és a léginavigációs szolgáltatásokra és eljárásokra vonatkozó működési rendelkezések meghatározásáról, valamint az 1035/2011/EU végrehajtási rendelet és az 1265/2007/EK, az 1794/2006/EK, a 730/2006/EK, az 1033/2006/EK és a 255/2010/EU rendelet módosításáról szóló, 2012. szeptember 26-i 923/2012/EU bizottsági végrehajtási rendelet (a továbbiakban: SERA rendelet) 2. cikk 106. pontjában meghatározott fogalom;
+34a.[^109] RMZ (Radio Mandatory Zone): a közös repülési szabályok és a léginavigációs szolgáltatásokra és eljárásokra vonatkozó működési rendelkezések meghatározásáról, valamint az 1035/2011/EU végrehajtási rendelet és az 1265/2007/EK, az 1794/2006/EK, a 730/2006/EK, az 1033/2006/EK és a 255/2010/EU rendelet módosításáról szóló, 2012. szeptember 26-i 923/2012/EU bizottsági végrehajtási rendelet (a továbbiakban: SERA rendelet) 2. cikk 106. pontjában meghatározott fogalom;
 
 35. STD (Standard): az 1013,25 hPa légnyomásszint szerinti repülési magasság jelölésére használt rövidítés;
 
 36. TIZ (Traffic Information Zone): forgalmi tájékoztató körzet, az a nem ellenőrzött repülőterek körül kijelölt meghatározott térbeli kiterjedésű légtér, amelyben a repülések számára a repüléstájékoztató és riasztó szolgálatot az érintett repülőtér repülőtéri repüléstájékoztató szolgálata nyújtja;
 
-37.[^109] TMA (Terminal Control Area): az (EU) 2017/373 bizottsági végrehajtási rendelet I. Melléklet 239. pontjában meghatározott fogalom,
+37.[^110] TMA (Terminal Control Area): az (EU) 2017/373 bizottsági végrehajtási rendelet I. Melléklet 239. pontjában meghatározott fogalom,
 
-38.[^110] TRA (Temporary Reserved Area): időszakosan korlátozott légtér: meghatározott kiterjedésű légtér, amelyben állami légijárművel olyan repülési tevékenység zajlik, amely veszélyt jelenthet az adott tevékenységben részt nem vevő légijárművek számára;
+38.[^111] TRA (Temporary Reserved Area): időszakosan korlátozott légtér: meghatározott kiterjedésű légtér, amelyben állami légijárművel olyan repülési tevékenység zajlik, amely veszélyt jelenthet az adott tevékenységben részt nem vevő légijárművek számára;
 
-38a.[^111] TMZ (Transponder Mandatory Zone): a SERA rendelet 2. cikk 136. pontjában meghatározott fogalom;
+38a.[^112] TMZ (Transponder Mandatory Zone): a SERA rendelet 2. cikk 136. pontjában meghatározott fogalom;
 
 39. UTC (Coordinated Universal Time): az egyeztetett egyetemes világidő jelölésére használt
 
 rövidítés;
 
-39a.[^112] versenylégtér: ellenőrzött légtér határai által meghatározott légtérben kijelölt olyan nem ellenőrzött légtér, amelyben légiforgalmi szolgáltatást nem nyújtanak, és amelyben versenyek keretében vitorlázó repülések hajthatók végre az ellenőrzött légtérben illetékes légiforgalmi szolgálati egység engedélye alapján, az országos sportági szakszövetség által kialakított éves terv szerint, koordinációs feladatokat ellátó szervezet közreműködésével;
+39a.[^113] versenylégtér: ellenőrzött légtér határai által meghatározott légtérben kijelölt olyan nem ellenőrzött légtér, amelyben légiforgalmi szolgáltatást nem nyújtanak, és amelyben versenyek keretében vitorlázó repülések hajthatók végre az ellenőrzött légtérben illetékes légiforgalmi szolgálati egység engedélye alapján, az országos sportági szakszövetség által kialakított éves terv szerint, koordinációs feladatokat ellátó szervezet közreműködésével;
 
 40. VFR (Visual Flight Rules): a látvarepülési szabályok jelölésére használt rövidítés;
 
@@ -107,13 +107,14 @@ rövidítés;
 [^100]: A 24. § 8. pontját a 34/2019. (IX. 13.) ITM rendelet 9. § a) pontja hatályon kívül helyezte, újonnan a 16/2024. (VII. 2.) ÉKM rendelet 11. § (1) bekezdése iktatta be.
 [^101]: A 24. § 10. pontja a 91/2011. (XII. 30.) NFM rendelet 55. § b) pontja szerint módosított szöveg.
 [^102]: A 24. § 12a. pontját a 15/2014. (IV. 3.) NFM rendelet 13. §-a iktatta be, szövege a 16/2024. (VII. 2.) ÉKM rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^103]: A 24. § 23. pontja a 34/2019. (IX. 13.) ITM rendelet 7. § h) pontja szerint módosított szöveg.
-[^104]: A 24. § 30a. pontját a 7/2021. (II. 5.) ITM rendelet 2. §-a iktatta be, szövege a 9/2022. (VIII. 1.) TIM rendelet 54. §-a szerint módosított szöveg.
-[^105]: A 24. § 32. pontját a 21/2024. (VII. 31.) ÉKM rendelet 2. § c) pontja hatályon kívül helyezte.
-[^106]: A 24. § 33. pontját a 21/2024. (VII. 31.) ÉKM rendelet 2. § d) pontja hatályon kívül helyezte.
-[^107]: A 24. § 34. pontját a 21/2024. (VII. 31.) ÉKM rendelet 2. § e) pontja hatályon kívül helyezte.
-[^108]: A 24. § 34a. pontját a 34/2019. (IX. 13.) ITM rendelet 5. § (2) bekezdése iktatta be.
-[^109]: A 24. § 37. pontja a 7/2022. (VII. 27.) TIM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^110]: A 24. § 38. pontja a 87/2007. (XI. 6.) GKM rendelet 2. §-ával megállapított szöveg.
-[^111]: A 24. § 38a. pontját a 34/2019. (IX. 13.) ITM rendelet 5. § (2) bekezdése iktatta be.
-[^112]: A 24. § 39a. pontját az 55/2021. (XI. 5.) ITM rendelet 2. §-a iktatta be.
+[^103]: A 24. § 15. pontja a 21/2024. (VII. 31.) ÉKM rendelet 1. §-ával megállapított szöveg.
+[^104]: A 24. § 23. pontja a 34/2019. (IX. 13.) ITM rendelet 7. § h) pontja szerint módosított szöveg.
+[^105]: A 24. § 30a. pontját a 7/2021. (II. 5.) ITM rendelet 2. §-a iktatta be, szövege a 9/2022. (VIII. 1.) TIM rendelet 54. §-a szerint módosított szöveg.
+[^106]: A 24. § 32. pontját a 21/2024. (VII. 31.) ÉKM rendelet 2. § c) pontja hatályon kívül helyezte.
+[^107]: A 24. § 33. pontját a 21/2024. (VII. 31.) ÉKM rendelet 2. § d) pontja hatályon kívül helyezte.
+[^108]: A 24. § 34. pontját a 21/2024. (VII. 31.) ÉKM rendelet 2. § e) pontja hatályon kívül helyezte.
+[^109]: A 24. § 34a. pontját a 34/2019. (IX. 13.) ITM rendelet 5. § (2) bekezdése iktatta be.
+[^110]: A 24. § 37. pontja a 7/2022. (VII. 27.) TIM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^111]: A 24. § 38. pontja a 87/2007. (XI. 6.) GKM rendelet 2. §-ával megállapított szöveg.
+[^112]: A 24. § 38a. pontját a 34/2019. (IX. 13.) ITM rendelet 5. § (2) bekezdése iktatta be.
+[^113]: A 24. § 39a. pontját az 55/2021. (XI. 5.) ITM rendelet 2. §-a iktatta be.
