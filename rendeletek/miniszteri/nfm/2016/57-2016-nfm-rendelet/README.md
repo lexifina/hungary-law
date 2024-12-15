@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-57-20-2
 | 2022-08-01 | 2016-57-20-2W.8 | 7/2022. (VII. 27.) TIM rendelet |
 | 2024-05-03 | 2016-57-20-2W.9 | 9/2024. (IV. 25.) ÉKM rendelet |
 | 2024-07-03 | 2016-57-20-2W.10 | 16/2024. (VII. 2.) ÉKM rendelet |
+| 2024-12-15 | 2016-57-20-2W.11 | 21/2024. (VII. 31.) ÉKM rendelet |

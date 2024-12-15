@@ -2,11 +2,11 @@
 
 ## 92. A látvarepülési szabályok szerinti működés felfüggesztése
 
-216. § (1)[^229]
+216. § (1)[^233]
 
 (2) A VFR szerinti repülések felfüggesztését a repülőtéri irányító tornyon keresztül kell elrendelni, illetve arról azt tájékoztatni kell.
 
-(3)[^230]
+(3)[^234]
 
-[^229]: A 216. § (1) bekezdését a 7/2022. (VII. 27.) TIM rendelet 22. § (2) bekezdés h) pontja hatályon kívül helyezte.
-[^230]: A 216. § (3) bekezdését a 7/2022. (VII. 27.) TIM rendelet 22. § (2) bekezdés h) pontja hatályon kívül helyezte.
+[^233]: A 216. § (1) bekezdését a 7/2022. (VII. 27.) TIM rendelet 22. § (2) bekezdés h) pontja hatályon kívül helyezte.
+[^234]: A 216. § (3) bekezdését a 7/2022. (VII. 27.) TIM rendelet 22. § (2) bekezdés h) pontja hatályon kívül helyezte.

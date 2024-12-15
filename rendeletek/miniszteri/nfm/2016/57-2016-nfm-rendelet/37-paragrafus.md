@@ -1,10 +1,10 @@
-37. § (1)[^97]
+37. § (1)[^100]
 
-(2)[^98] Egy adott – polgári ATS egység illetékességébe tartozó – légtér blokkon belül a GAT és OAT repülések különböző irányító egység vagy szektor által a következő feltételek teljesülése esetén kezelhetők:
+(2)[^101] Egy adott – polgári ATS egység illetékességébe tartozó – légtér blokkon belül a GAT és OAT repülések különböző irányító egység vagy szektor által a következő feltételek teljesülése esetén kezelhetők:
 
-a)[^99] az érintett területen a GAT és OAT repülések ellenőrzésének ATS felderítő rendszertől származó adatokon kell alapulniuk,
+a)[^102] az érintett területen a GAT és OAT repülések ellenőrzésének ATS felderítő rendszertől származó adatokon kell alapulniuk,
 
-b)[^100] a GAT és OAT légijárművek ATS felderítő rendszertől származó jeleinek az egyes önálló irányító egységeknél vagy szektoroknál
+b)[^103] a GAT és OAT légijárművek ATS felderítő rendszertől származó jeleinek az egyes önálló irányító egységeknél vagy szektoroknál
 
 ba) azonos ATS felderítő rendszertől vagy egy, a légiközlekedési hatóság által jóváhagyott ATS felderítő rendszertől származó adatokat feldolgozó rendszertől kell származnia, és
 
@@ -20,12 +20,12 @@ f) az érintett légtérben folyó összes GAT és OAT repülések esetén az al
 
 fa) ha a GAT és OAT repülések irányítása egy szervezeten belül különálló munkahelyekről történik, az együttműködést részletes munkahelyi előírásban kell szabályozni, vagy
 
-fb)[^101] ha a GAT és OAT repülések irányítását nem egy szervezet végzi, a szervezetek között együttműködési megállapodást kell kötni, amelynek tartalmaznia kell az irányítási felelősség megosztására, az alkalmazható elkülönítési minimumokra, valamint a koordinálást igénylő esetekre és a koordinálás módjára vonatkozó szabályokat, és
+fb)[^104] ha a GAT és OAT repülések irányítását nem egy szervezet végzi, a szervezetek között együttműködési megállapodást kell kötni, amelynek tartalmaznia kell az irányítási felelősség megosztására, az alkalmazható elkülönítési minimumokra, valamint a koordinálást igénylő esetekre és a koordinálás módjára vonatkozó szabályokat, és
 
 g) az irányító egységnek kellő ismerettel kell rendelkeznie a másik egység által kezelt forgalom irányításának szabályairól, valamint légijárműveinek műszaki jellemzőiről.
 
-[^97]: A 37. § (1) bekezdését a 7/2022. (VII. 27.) TIM rendelet 22. § (1) bekezdés k) pontja hatályon kívül helyezte.
-[^98]: A 37. § (2) bekezdés nyitó szövegrésze a 7/2022. (VII. 27.) TIM rendelet 18. § 5. pontja szerint módosított szöveg.
-[^99]: A 37. § (2) bekezdés a) pontja az 55/2021. (XI. 5.) ITM rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^100]: A 37. § (2) bekezdés b) pontja az 55/2021. (XI. 5.) ITM rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^101]: A 37. § (2) bekezdés f) pont fb) alpontja az 55/2017. (XII. 27.) NFM rendelet 105. §-ával megállapított szöveg.
+[^100]: A 37. § (1) bekezdését a 7/2022. (VII. 27.) TIM rendelet 22. § (1) bekezdés k) pontja hatályon kívül helyezte.
+[^101]: A 37. § (2) bekezdés nyitó szövegrésze a 7/2022. (VII. 27.) TIM rendelet 18. § 5. pontja szerint módosított szöveg.
+[^102]: A 37. § (2) bekezdés a) pontja az 55/2021. (XI. 5.) ITM rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^103]: A 37. § (2) bekezdés b) pontja az 55/2021. (XI. 5.) ITM rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^104]: A 37. § (2) bekezdés f) pont fb) alpontja az 55/2017. (XII. 27.) NFM rendelet 105. §-ával megállapított szöveg.

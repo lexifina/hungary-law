@@ -282,7 +282,9 @@ b)[^39] RNAV navigációs előírás: az az előírás, amely nem tartalmazza a 
 
 126. nyomtatott formájú közleményváltás: távközlési rendszer, amelynél a hálózathoz tartozó minden végponton automatikusan maradandó, nyomtatott feljegyzés készül a hálózaton áthaladó összes közleményről (Printed communications);
 
-127. OAT: olyan légiforgalom, amelyet állami légijárművek a GAT szabályoktól eltérően hajtanak végre (Operational Air Traffic);
+127.[^42] OAT: a Magyarország légterében és repülőterein történő repülések végrehajtásának szabályairól szóló 56/2016. (XII. 22.) NFM rendelet 3. § (1) bekezdés 44. pontjában meghatározott fogalom;
+
+127a.[^43] OAT-C: az állami repülések céljára kijelölt légterekben végrehajtott repülések szabályairól szóló 3/2006. (II. 2.) HM rendelet 84. § 36. pontjában meghatározott fogalom;
 
 128. OCA: akadálymentes tengerszint feletti magasság, az akadálymentességi követelmények szerinti legalacsonyabb tengerszint feletti magasság (Obstacle clearance altitude);
 
@@ -290,7 +292,7 @@ b)[^39] RNAV navigációs előírás: az az előírás, amely nem tartalmazza a 
 
 130. PAR: precíziós bevezető radar, elsődleges radarberendezés a légijármű végső megközelítés alatti helyzetének az elméleti megközelítési pályához viszonyított oldalirányú és függőleges eltérései, valamint a földetérési ponttól való távolság meghatározására (Precisionapproach radar);
 
-131.[^42] PBN: teljesítmény-alapú navigáció, azaz ATS útvonalat – beleértve a műszer szerinti megközelítési eljárást is – követő, vagy meghatározott légtérben üzemeltetett légijárműre előírt navigációs teljesítményen alapuló területi navigáció, amely esetén a teljesítményre vonatkozó navigációs követelmények RNAV vagy RNP típusú előírások formájában kerülnek meghatározásra, amelyek az adott légtérben javasolt működéshez szükséges pontossági, integritási, folytonossági, rendelkezésre állási és funkcionális jellemzőket tartalmaznak (Performance-based Navigation);
+131.[^44] PBN: teljesítmény-alapú navigáció, azaz ATS útvonalat – beleértve a műszer szerinti megközelítési eljárást is – követő, vagy meghatározott légtérben üzemeltetett légijárműre előírt navigációs teljesítményen alapuló területi navigáció, amely esetén a teljesítményre vonatkozó navigációs követelmények RNAV vagy RNP típusú előírások formájában kerülnek meghatározásra, amelyek az adott légtérben javasolt működéshez szükséges pontossági, integritási, folytonossági, rendelkezésre állási és funkcionális jellemzőket tartalmaznak (Performance-based Navigation);
 
 132. profil: a repülési pályának vagy a repülési pálya egy részének derékszögű vetülete a névleges útirányt magában foglaló függőleges felületen (Profile);
 
@@ -310,6 +312,8 @@ b)[^39] RNAV navigációs előírás: az az előírás, amely nem tartalmazza a 
 
 140. radarszolgáltatás: radar közvetlen felhasználásával nyújtott szolgáltatás (Radar service);
 
+140a.[^45] radar trail: a Magyarország légterében és repülőterein történő repülések végrehajtásának szabályairól szóló 56/2016. (XII. 22.) NFM rendelet 3. § (1) bekezdés 50a. pontjában meghatározott fogalom;
+
 141. rendeltetési repülőtér: az a repülőtér, ahova a légijármű a repülés végrehajtása során első leszállását tervezi (Destination aerodrome);
 
 142. repülésbiztonság-irányítási rendszer: a repülésbiztonság átfogó kezelésére irányuló rendszer, amely magába foglalja a szükséges szervezeti struktúrákat, felelősségi köröket, irányelveket és eljárásokat (Safety Management System);
@@ -326,29 +330,29 @@ b)[^39] RNAV navigációs előírás: az az előírás, amely nem tartalmazza a 
 
 148. repülőtér tengerszinthez viszonyított magassága: a leszállási terület legmagasabb pontjának tengerszinthez viszonyított magassága (Aerodrome elevation);
 
-149.[^43] repülőtéri meteorológiai iroda: az (EU) 2017/373 bizottsági végrehajtási rendelet I. Melléklet 7. pontjában meghatározott fogalom (Aerodrome meteorological office);
+149.[^46] repülőtéri meteorológiai iroda: az (EU) 2017/373 bizottsági végrehajtási rendelet I. Melléklet 7. pontjában meghatározott fogalom (Aerodrome meteorological office);
 
-150.[^44] riasztás állapota: az (EU) 2017/373 bizottsági végrehajtási rendelet I. Melléklet 135. pontjában meghatározott fogalom (Alert phase);
+150.[^47] riasztás állapota: az (EU) 2017/373 bizottsági végrehajtási rendelet I. Melléklet 135. pontjában meghatározott fogalom (Alert phase);
 
 151. rovat: közlemény esetén a közleménynek meghatározott adatelemeket tartalmazó kijelölt része, repülési terv esetén a repülési terv adott része (item);
 
-152.[^45] RVSM: 1000 lábas (300 m) csökkentett függőleges elkülönítési minimum (Reduced Vertical Separation Minima);
+152.[^48] RVSM: 1000 lábas (300 m) csökkentett függőleges elkülönítési minimum (Reduced Vertical Separation Minima);
 
 153. RVSM engedélyezett légijármű: a lajstromozó állam légiközlekedési hatósága által az RVSM légtérben történő működésre engedélyezett légijármű (RVSM approved aircraft);
 
-154.[^46] SID: standard műszeres indulási útvonal, ami a repülőtérhez vagy a repülőtér egy meghatározott futópályájához kapcsolódó IFR indulási útvonal, amely addig a meghatározott fontos pontig tart, ahonnan a repülés útvonal szakasza kezdődik (Standard Instrument Departure);
+154.[^49] SID: standard műszeres indulási útvonal, ami a repülőtérhez vagy a repülőtér egy meghatározott futópályájához kapcsolódó IFR indulási útvonal, amely addig a meghatározott fontos pontig tart, ahonnan a repülés útvonal szakasza kezdődik (Standard Instrument Departure);
 
-155.[^47] SIGMET: az (EU) 2017/373 bizottsági végrehajtási rendelet I. Melléklet 93. pontja szerinti fogalom;
+155.[^50] SIGMET: az (EU) 2017/373 bizottsági végrehajtási rendelet I. Melléklet 93. pontja szerinti fogalom;
 
 156. siklópálya: a végső megközelítés alatt a függőleges irányvezetésre meghatározott süllyedési profil (Glidepath);
 
-157.[^48] SSR kód: „A” módú, vagy „C” módú válaszjeladó által kisugárzott többszörös impulzus válaszjel részére kijelölt szám (Code SSR);
+157.[^51] SSR kód: „A” módú, vagy „C” módú válaszjeladó által kisugárzott többszörös impulzus válaszjel részére kijelölt szám (Code SSR);
 
 158. SSR válaszjel: az SSR válaszjeladó által kérdésre adott válaszként kisugárzott jelnek nem szimbolikus formában történő megjelenítése a helyzetképernyőn (SSR response);
 
-159.[^49] STAR: standard műszeres érkezési útvonal, ami jellemzően egy ATS útvonalon lévő fontos ponthoz kapcsolódó IFR érkezési útvonal, amely addig a pontig tart, ahonnan egy közzétett műszer szerinti megközelítési eljárás megkezdhető (Standard Instrument Arrival);
+159.[^52] STAR: standard műszeres érkezési útvonal, ami jellemzően egy ATS útvonalon lévő fontos ponthoz kapcsolódó IFR érkezési útvonal, amely addig a pontig tart, ahonnan egy közzétett műszer szerinti megközelítési eljárás megkezdhető (Standard Instrument Arrival);
 
-160.[^50] STD: standard magasságmérő beállítás szerint üzemeltetett légijármű méterben kifejezett magasságának jelölésére használt rövidítés, amely standard magasságmérő beállítás esetén az 1013,2 hPa légnyomás kerül beállításra a barometrikus magasságmérő nyomás-skáláján, ami azt eredményezi, hogy a magasságmérő 0 (nulla) műszerállást mutat az ICAO Egyezményes Légkör közepes tengerszintjén;
+160.[^53] STD: standard magasságmérő beállítás szerint üzemeltetett légijármű méterben kifejezett magasságának jelölésére használt rövidítés, amely standard magasságmérő beállítás esetén az 1013,2 hPa légnyomás kerül beállításra a barometrikus magasságmérő nyomás-skáláján, ami azt eredményezi, hogy a magasságmérő 0 (nulla) műszerállást mutat az ICAO Egyezményes Légkör közepes tengerszintjén;
 
 161. stratégiai tervezés: olyan tervezés, amikor az intézkedésekről szóló döntést azok hatálybalépése előtt több, mint egy nappal megelőzően hozzák meg, és amelyet az intézkedések hatálybalépése előtt kettő és hat hónap közötti időszakban végeznek (strategic planning);
 
@@ -360,23 +364,23 @@ b)[^39] RNAV navigációs előírás: az az előírás, amely nem tartalmazza a 
 
 165. taktikai műveletek: abban az esetben alkalmazott műveletek, ha az intézkedések végrehajtására a róluk szóló döntés meghozatala napján kerül sor (tactical operations);
 
-166.[^51] tanácsadói útvonal: olyan kijelölt útvonal, ahol légiforgalmi tanácsadó szolgálatot biztosítanak (Advisory route);
+166.[^54] tanácsadói útvonal: olyan kijelölt útvonal, ahol légiforgalmi tanácsadó szolgálatot biztosítanak (Advisory route);
 
 167. TAS: a légijárműnek a környező levegőhöz viszonyított sebessége (True air speed);
 
-168.[^52] tengerszinthez viszonyított magasság: a földfelszín valamely pontjának, szintjének, vagy ahhoz rögzített pontnak a közepes tengerszinthez viszonyított függőleges távolsága (Elevation);
+168.[^55] tengerszinthez viszonyított magasság: a földfelszín valamely pontjának, szintjének, vagy ahhoz rögzített pontnak a közepes tengerszinthez viszonyított függőleges távolsága (Elevation);
 
 169. térköz: távolság, amely lehet
 
-a)[^53] légijárművek közötti térköz: a légijárművek közötti vízszintes, illetve függőleges távolság idő vagy távolság egységekben kifejezve (Separation),
+a)[^56] légijárművek közötti térköz: a légijárművek közötti vízszintes, illetve függőleges távolság idő vagy távolság egységekben kifejezve (Separation),
 
 b) ATS útvonalak közötti térköz: az ATS útvonalak középvonalai között meghatározott oldalirányú távolság, amely biztosítja, hogy a védett légterek ne fedjék át egymást (Spacing);
 
 170. területi navigációs útvonal: területi navigációs képességgel rendelkező légijárművek általi használatra létesített ATS útvonal (Area navigation route);
 
-171.[^54] TIZ: a magyar légtér légiközlekedés céljára történő kijelöléséről szóló 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelet 24. § 36. pontjában meghatározott fogalom (Traffic Information Zone);
+171.[^57] TIZ: a magyar légtér légiközlekedés céljára történő kijelöléséről szóló 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelet 24. § 36. pontjában meghatározott fogalom (Traffic Information Zone);
 
-172.[^55] TMA: a magyar légtér légiközlekedés céljára történő kijelöléséről szóló 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelet 24. § 37. pontjában meghatározott fogalom (Terminal Control Area);
+172.[^58] TMA: a magyar légtér légiközlekedés céljára történő kijelöléséről szóló 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelet 24. § 37. pontjában meghatározott fogalom (Terminal Control Area);
 
 173. útvonal engedély: engedély, amely tartalmazza a légijármű felszállás utáni repülési útját azon pontig, amelynél a leszálláshoz történő megközelítés várható, hogy megkezdődik (En-route clearance);
 
@@ -386,7 +390,7 @@ b) ATS útvonalak közötti térköz: az ATS útvonalak középvonalai között 
 
 176. válaszjeladó: vevő- és adóberendezés, amely megfelelő kérdezésre válaszjelet sugároz ki, és amelynél a kérdezés és a válaszadás más frekvencián történik (Transponder);
 
-177.[^56] válaszjeladó garbling: az SSR rendszer esetében lehetséges hiba, amelyet az egymáshoz túl közeli azimutszögön elhelyezkedő, de különböző magasságon lévő légijárművek által küldött válaszok átfedése idéz elő;
+177.[^59] válaszjeladó garbling: az SSR rendszer esetében lehetséges hiba, amelyet az egymáshoz túl közeli azimutszögön elhelyezkedő, de különböző magasságon lévő légijárművek által küldött válaszok átfedése idéz elő;
 
 178. várakozási eljárás: előre meghatározott eljárás, amely a légijárművet előírt légtéren belül tartja, amíg az további engedélyre vár (Holding procedure);
 
@@ -416,7 +420,7 @@ d) olyan tájékoztatás érkezett, amely azt jelzi, hogy a légijármű kénysz
 
 187. VOR: olyan földön telepített, VHF rádiójeleket használó rádiónavigációs beredezés, amely segítségével a légijárművön lévő berendezés képes megállapítani a VOR-hoz képest mért, szögben kifejezett helyzetét (VHF Omni Directional Radio Range).
 
-188.[^57] műveletszám: azon műveletek összesített számértéke, amely magába foglalja a motorral felszerelt légijárművel történő felszállást, beleértve motoros vagy segédmotoros vitorlázó repülőgép önerőből való felszállását és a motorral felszerelt légijárművel történő leszállást teljes megállással, a motorral felszerelt légijárművel történő talajérintéses átstartolást.
+188.[^60] műveletszám: azon műveletek összesített számértéke, amely magába foglalja a motorral felszerelt légijárművel történő felszállást, beleértve motoros vagy segédmotoros vitorlázó repülőgép önerőből való felszállását és a motorral felszerelt légijárművel történő leszállást teljes megállással, a motorral felszerelt légijárművel történő talajérintéses átstartolást.
 
 (2) Az e rendeletben nem meghatározott fogalmakat a SERA rendeletben meghatározottak szerint kell alkalmazni.
 
@@ -459,19 +463,22 @@ d) olyan tájékoztatás érkezett, amely azt jelzi, hogy a légijármű kénysz
 [^39]: A 3. § (1) bekezdés 120. pont b) alpontja a 33/2020. (X. 5.) ITM rendelet 60. § (1) bekezdés h) pontja szerint módosított szöveg.
 [^40]: A 3. § (1) bekezdés 121. pontja a 33/2020. (X. 5.) ITM rendelet 36. § (15) bekezdésével megállapított szöveg.
 [^41]: A 3. § (1) bekezdés 123. pontja a 7/2022. (VII. 27.) TIM rendelet 11. § (5) bekezdésével megállapított szöveg.
-[^42]: A 3. § (1) bekezdés 131. pontja a 33/2020. (X. 5.) ITM rendelet 36. § (17) bekezdésével megállapított szöveg.
-[^43]: A 3. § (1) bekezdés 149. pontja a 33/2020. (X. 5.) ITM rendelet 36. § (18) bekezdésével megállapított szöveg.
-[^44]: A 3. § (1) bekezdés 150. pontja a 7/2022. (VII. 27.) TIM rendelet 11. § (6) bekezdésével megállapított szöveg.
-[^45]: A 3. § (1) bekezdés 152. pontja a 33/2020. (X. 5.) ITM rendelet 60. § (1) bekezdés i) pontja szerint módosított szöveg.
-[^46]: A 3. § (1) bekezdés 154. pontja a 33/2020. (X. 5.) ITM rendelet 60. § (1) bekezdés j) pontja szerint módosított szöveg.
-[^47]: A 3. § (1) bekezdés 155. pontja a 33/2020. (X. 5.) ITM rendelet 36. § (19) bekezdésével megállapított szöveg.
-[^48]: [A 33/2020. (X. 5.) ITM rendelet 62. § a) pontjával elrendelt módosítás, amely szerint hatályát veszti az „áll rendelkezésre” szövegrész, nem vezethető át.]
-[^49]: A 3. § (1) bekezdés 159. pontja a 33/2020. (X. 5.) ITM rendelet 60. § (1) bekezdés k) pontja szerint módosított szöveg.
-[^50]: A 3. § (1) bekezdés 160. pontja a 33/2020. (X. 5.) ITM rendelet 60. § (1) bekezdés l) pontja szerint módosított szöveg.
-[^51]: A 3. § (1) bekezdés 166. pontja a 33/2020. (X. 5.) ITM rendelet 62. § a) pontja szerint módosított szöveg.
-[^52]: A 3. § (1) bekezdés 168. pontja a 33/2020. (X. 5.) ITM rendelet 60. § (1) bekezdés m) pontja szerint módosított szöveg.
-[^53]: A 3. § (1) bekezdés 169. pont a) alpontja a 33/2020. (X. 5.) ITM rendelet 60. § (1) bekezdés n) pontja szerint módosított szöveg.
-[^54]: A 3. § (1) bekezdés 171. pontja a 33/2020. (X. 5.) ITM rendelet 36. § (20) bekezdésével megállapított szöveg.
-[^55]: A 3. § (1) bekezdés 172. pontja a 33/2020. (X. 5.) ITM rendelet 36. § (20) bekezdésével megállapított szöveg.
-[^56]: A 3. § (1) bekezdés 177. pontja a 33/2020. (X. 5.) ITM rendelet 60. § (1) bekezdés o) pontja szerint módosított szöveg.
-[^57]: A 3. § (1) bekezdés 188. pontját a 16/2024. (VII. 2.) ÉKM rendelet 22. §-a iktatta be.
+[^42]: A 3. § (1) bekezdés 127. pontja a 21/2024. (VII. 31.) ÉKM rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^43]: A 3. § (1) bekezdés 127a. pontját a 21/2024. (VII. 31.) ÉKM rendelet 12. § (2) bekezdése iktatta be.
+[^44]: A 3. § (1) bekezdés 131. pontja a 33/2020. (X. 5.) ITM rendelet 36. § (17) bekezdésével megállapított szöveg.
+[^45]: A 3. § (1) bekezdés 140a. pontját a 21/2024. (VII. 31.) ÉKM rendelet 12. § (3) bekezdése iktatta be.
+[^46]: A 3. § (1) bekezdés 149. pontja a 33/2020. (X. 5.) ITM rendelet 36. § (18) bekezdésével megállapított szöveg.
+[^47]: A 3. § (1) bekezdés 150. pontja a 7/2022. (VII. 27.) TIM rendelet 11. § (6) bekezdésével megállapított szöveg.
+[^48]: A 3. § (1) bekezdés 152. pontja a 33/2020. (X. 5.) ITM rendelet 60. § (1) bekezdés i) pontja szerint módosított szöveg.
+[^49]: A 3. § (1) bekezdés 154. pontja a 33/2020. (X. 5.) ITM rendelet 60. § (1) bekezdés j) pontja szerint módosított szöveg.
+[^50]: A 3. § (1) bekezdés 155. pontja a 33/2020. (X. 5.) ITM rendelet 36. § (19) bekezdésével megállapított szöveg.
+[^51]: [A 33/2020. (X. 5.) ITM rendelet 62. § a) pontjával elrendelt módosítás, amely szerint hatályát veszti az „áll rendelkezésre” szövegrész, nem vezethető át.]
+[^52]: A 3. § (1) bekezdés 159. pontja a 33/2020. (X. 5.) ITM rendelet 60. § (1) bekezdés k) pontja szerint módosított szöveg.
+[^53]: A 3. § (1) bekezdés 160. pontja a 33/2020. (X. 5.) ITM rendelet 60. § (1) bekezdés l) pontja szerint módosított szöveg.
+[^54]: A 3. § (1) bekezdés 166. pontja a 33/2020. (X. 5.) ITM rendelet 62. § a) pontja szerint módosított szöveg.
+[^55]: A 3. § (1) bekezdés 168. pontja a 33/2020. (X. 5.) ITM rendelet 60. § (1) bekezdés m) pontja szerint módosított szöveg.
+[^56]: A 3. § (1) bekezdés 169. pont a) alpontja a 33/2020. (X. 5.) ITM rendelet 60. § (1) bekezdés n) pontja szerint módosított szöveg.
+[^57]: A 3. § (1) bekezdés 171. pontja a 33/2020. (X. 5.) ITM rendelet 36. § (20) bekezdésével megállapított szöveg.
+[^58]: A 3. § (1) bekezdés 172. pontja a 33/2020. (X. 5.) ITM rendelet 36. § (20) bekezdésével megállapított szöveg.
+[^59]: A 3. § (1) bekezdés 177. pontja a 33/2020. (X. 5.) ITM rendelet 60. § (1) bekezdés o) pontja szerint módosított szöveg.
+[^60]: A 3. § (1) bekezdés 188. pontját a 16/2024. (VII. 2.) ÉKM rendelet 22. §-a iktatta be.

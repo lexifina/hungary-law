@@ -32,6 +32,6 @@ d) az irányítás átadása az átvevő egység számára.
 
 (13) Ha az átadott légijármű irányítását elfogadták, az átvevő ATS egységnek az irányítás átvételét, az átadó ATS egység számára küldött, az irányítás elfogadásának jelzésével kell befejeznie, kivéve, ha a két érintett egység között ettől eltérő megállapodás van érvényben.
 
-(14)[^279]
+(14)[^283]
 
-[^279]: A 326. § (14) bekezdését a 33/2020. (X. 5.) ITM rendelet 62. § r) pontja hatályon kívül helyezte.
+[^283]: A 326. § (14) bekezdését a 33/2020. (X. 5.) ITM rendelet 62. § r) pontja hatályon kívül helyezte.

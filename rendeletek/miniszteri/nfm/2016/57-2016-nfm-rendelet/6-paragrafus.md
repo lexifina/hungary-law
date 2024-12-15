@@ -1,6 +1,6 @@
 ## 4. Légiforgalmi szolgálatok szükségességének meghatározása
 
-6. §[^61] (1) Budapest FIR-ben repülőtéri repüléstájékoztató szolgálatot kell biztosítani a repülőtér üzemideje alatt a repülőtéren, ha
+6. §[^64] (1) Budapest FIR-ben repülőtéri repüléstájékoztató szolgálatot kell biztosítani a repülőtér üzemideje alatt a repülőtéren, ha
 
 a) az aktuális naptári évet megelőző naptári évben a VFR szerint működő induló vagy érkező légijárművek éves műveletszáma meghaladja a 40 000-et,
 
@@ -36,4 +36,4 @@ b) a légiközlekedési hatóságnak ütemtervet benyújtani arra vonatkozóan, 
 
 (6) Az (5) bekezdésben meghatározott ütemtervben foglaltak végrehajtásáig a repülőtér üzembentartója a repülőtér forgalmát úgy szervezi meg, hogy a repülőtér forgalma a légiforgalmi szolgálat felállításához meghatározott küszöbértéket ne lépje át.
 
-[^61]: A 6. § a 16/2024. (VII. 2.) ÉKM rendelet 23. §-ával megállapított szöveg.
+[^64]: A 6. § a 16/2024. (VII. 2.) ÉKM rendelet 23. §-ával megállapított szöveg.

@@ -10,7 +10,7 @@
 
 (5) A PSR jelen és az SSR válaszjelen alapuló elkülönítést úgy kell létrehozni, hogy az érintett légijárművek helyzetét jelentő PSR jel és az SSR válaszjel középpontja közötti távolság soha ne legyen kevesebb, mint az előírt minimum.
 
-(5a)[^247] Az ADS-B helyzetszimbólumok és SSR válaszjelek használatán alapuló elkülönítést úgy kell létrehozni, hogy az érintett légijárművek helyzetét jelentő ADS-B helyzetszimbólumok középpontja és az SSR válaszjel legközelebbi széle vagy – a légiközlekedési hatóság jóváhagyása esetén – középpontja közötti távolság nem lehet kevesebb, mint az előírt minimum.
+(5a)[^251] Az ADS-B helyzetszimbólumok és SSR válaszjelek használatán alapuló elkülönítést úgy kell létrehozni, hogy az érintett légijárművek helyzetét jelentő ADS-B helyzetszimbólumok középpontja és az SSR válaszjel legközelebbi széle vagy – a légiközlekedési hatóság jóváhagyása esetén – középpontja közötti távolság nem lehet kevesebb, mint az előírt minimum.
 
 (6) Az SSR válaszjelek felhasználásán alapuló elkülönítést úgy kell létrehozni, hogy az SSR válaszjelek középpontja közötti távolság soha ne legyen kevesebb, mint az előírt minimum.
 
@@ -24,10 +24,10 @@ b) az elkülönítést fenntartják az azonosított repülések és minden egyé
 
 (9) A 113. alcímben meghatározott elkülönítés alkalmazható egy éppen felszálló légijármű és egy előzőleg már elindult légijármű, vagy egyéb, azonosított forgalom között, ha az induló légijárművet azonosítani fogják a futópálya végétől 1 NM-en (2 km) belül és abban az időpontban meglesz az előírt minimum.
 
-(10)[^248] A 113. alcímben meghatározott elkülönítés nem alkalmazható az ugyanazon várakozási pont fölött várakozó légijárművek között. A várakozó és más légijárművek között az ATS felderítő rendszeren vagy MLAT rendszeren alapuló elkülönítés legalább 10 NM (20 km) kell, hogy legyen, kivéve a (11) bekezdésben meghatározottakat, vagy akkor, ha függőleges elkülönítést biztosítottak az érintett légijárművek között.
+(10)[^252] A 113. alcímben meghatározott elkülönítés nem alkalmazható az ugyanazon várakozási pont fölött várakozó légijárművek között. A várakozó és más légijárművek között az ATS felderítő rendszeren vagy MLAT rendszeren alapuló elkülönítés legalább 10 NM (20 km) kell, hogy legyen, kivéve a (11) bekezdésben meghatározottakat, vagy akkor, ha függőleges elkülönítést biztosítottak az érintett légijárművek között.
 
-(11)[^249] A várakozó és más légijárművek közötti vízszintes elkülönítést az illetékes légiforgalmi szolgáltató az illetékességi légterében alkalmazandó radar elkülönítésre csökkentheti, ha dokumentált repülésbiztonsági értékelés alapján az elkülönítés megfelel az elfogadható repülésbiztonsági szintnek.
+(11)[^253] A várakozó és más légijárművek közötti vízszintes elkülönítést az illetékes légiforgalmi szolgáltató az illetékességi légterében alkalmazandó radar elkülönítésre csökkentheti, ha dokumentált repülésbiztonsági értékelés alapján az elkülönítés megfelel az elfogadható repülésbiztonsági szintnek.
 
-[^247]: A 256. § (5a) bekezdését a 7/2022. (VII. 27.) TIM rendelet 15. § (7) bekezdése iktatta be.
-[^248]: A 256. § (10) bekezdése a 33/2020. (X. 5.) ITM rendelet 60. § (3) bekezdés j) pontja szerint módosított szöveg.
-[^249]: A 256. § (11) bekezdése a 33/2020. (X. 5.) ITM rendelet 52. §-ával megállapított szöveg.
+[^251]: A 256. § (5a) bekezdését a 7/2022. (VII. 27.) TIM rendelet 15. § (7) bekezdése iktatta be.
+[^252]: A 256. § (10) bekezdése a 33/2020. (X. 5.) ITM rendelet 60. § (3) bekezdés j) pontja szerint módosított szöveg.
+[^253]: A 256. § (11) bekezdése a 33/2020. (X. 5.) ITM rendelet 52. §-ával megállapított szöveg.

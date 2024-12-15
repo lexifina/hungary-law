@@ -24,6 +24,6 @@ gb) az egymást követő érkező légijárművek és
 
 gc) az induló és az azt követő érkező légijárművek között.
 
-gd)[^255] párhuzamos vagy közel párhuzamos futópályán megközelítést végző légijárművek között.
+gd)[^259] párhuzamos vagy közel párhuzamos futópályán megközelítést végző légijárművek között.
 
-[^255]: A 270. § g) pont gd) alpontját a 7/2022. (VII. 27.) TIM rendelet 15. § (8) bekezdése iktatta be.
+[^259]: A 270. § g) pont gd) alpontját a 7/2022. (VII. 27.) TIM rendelet 15. § (8) bekezdése iktatta be.

@@ -1,1 +1,0 @@
-## 336. § Repülési terv törlő (a továbbiakban: CNL) közleményt kell továbbítani, ha egy olyan repülést törölnek, amelyre korábban alapvető repülési terv adatokat továbbítottak. Az indulási repülőteret kiszolgáló ATS egységnek a CNL közleményt mindazoknak az ATS egységeknek el kell küldeni, amelyek az alapvető repülési terv adatokat megkapták.
