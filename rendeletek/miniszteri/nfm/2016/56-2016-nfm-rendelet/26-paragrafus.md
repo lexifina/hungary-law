@@ -1,4 +1,4 @@
-## 17. [^78] A repülési terv törlése, módosítása
+## 17. [^86] A repülési terv törlése, módosítása
 
 26. § (1) A repülési terv benyújtójának kérnie kell a repülési terv törlését annál az egységnél, amelyhez eredetileg benyújtotta, ha
 
@@ -12,9 +12,9 @@ d) a repülési tervet felfüggesztették, és módosítására nem került sor.
 
 (2) Az (1) bekezdés b) és c) pontban meghatározott esetekben a megváltozott adatokkal új repülési tervet kell benyújtani.
 
-(3)[^79] Ha valamely repülésre egyedi repülési tervet nyújtottak be, és az EOBT-t megelőző 4 órán belül úgy határoznak, hogy az indulási és rendeltetési repülőtér között az eredetitől eltérő útvonalat választanak:
+(3)[^87] Ha valamely repülésre egyedi repülési tervet nyújtottak be, és az EOBT-t megelőző 4 órán belül úgy határoznak, hogy az indulási és rendeltetési repülőtér között az eredetitől eltérő útvonalat választanak:
 
-a)[^80] a korábbi repülési terv közlemény valamennyi címzettje számára „DD” sürgősségi jellel repülési terv törlő (a továbbiakban: CNL) közleményt kell továbbítani, ezt követően
+a)[^88] a korábbi repülési terv közlemény valamennyi címzettje számára „DD” sürgősségi jellel repülési terv törlő (a továbbiakban: CNL) közleményt kell továbbítani, ezt követően
 
 b) alternatív repülési tervet (replacement flight plan, a továbbiakban: RFP) kell továbbítani, ugyanazt a légijármű azonosító jelet tartalmazó FPL közlemény formájában, a CNL közleményt követően, de nem korábban, minthogy a CNL közleményre az IFPS-től a közlemény elfogadását jelző válaszközlemény – azaz Acknowledge, ACK – megérkezett.
 
@@ -24,6 +24,6 @@ b) alternatív repülési tervet (replacement flight plan, a továbbiakban: RFP)
 
 (6) Ha egy induló légijárműről az EOBT-t követő 2 óra múlva sem érkezik mozgásra vonatkozó tájékoztatás, az ATS egységek a repülési tervet automatikusan törlik.
 
-[^78]: A 17. alcím címe a 33/2020. (X. 5.) ITM rendelet 32. § (3) bekezdés e) pontja szerint módosított szöveg.
-[^79]: A 26. § (3) bekezdés nyitó szövegrésze a 33/2020. (X. 5.) ITM rendelet 34. § d) pontja szerint módosított szöveg.
-[^80]: A 26. § (3) bekezdés a) pontja a 33/2020. (X. 5.) ITM rendelet 32. § (3) bekezdés m) pontja szerint módosított szöveg.
+[^86]: A 17. alcím címe a 33/2020. (X. 5.) ITM rendelet 32. § (3) bekezdés e) pontja szerint módosított szöveg.
+[^87]: A 26. § (3) bekezdés nyitó szövegrésze a 33/2020. (X. 5.) ITM rendelet 34. § d) pontja szerint módosított szöveg.
+[^88]: A 26. § (3) bekezdés a) pontja a 33/2020. (X. 5.) ITM rendelet 32. § (3) bekezdés m) pontja szerint módosított szöveg.

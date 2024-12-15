@@ -1,4 +1,4 @@
-## 85. §[^169] Az induló vagy érkező légijármű számára az AFIS akkor továbbítja a „PÁLYA SZABAD” – vagy „RUNWAY FREE” – kifejezést, ha nincs a futópályán légijármű, egyéb jármű vagy akadály, és a futópálya szélétől számított 50 m távolságon belül – vagy ha a futópálya hossza a 900 m-t nem haladja meg, 30 m távolságon belül – nincs várakozó vagy guruló légijármű.
+## 85. §[^178] Az induló vagy érkező légijármű számára az AFIS akkor továbbítja a „PÁLYA SZABAD” – vagy „RUNWAY FREE” – kifejezést, ha nincs a futópályán légijármű, egyéb jármű vagy akadály, és a futópálya szélétől számított 50 m távolságon belül – vagy ha a futópálya hossza a 900 m-t nem haladja meg, 30 m távolságon belül – nincs várakozó vagy guruló légijármű.
 
 ## 67. Átrepülő légijármű számára adott tájékoztatások
 
@@ -12,4 +12,4 @@ c) bármely egyéb, a légijármű számára fontosnak ítélt tájékoztatás.
 
 (2) Az átrepülés bejelentésével továbbított repülési tervadat alapján a légijármű számára a rendeltetési repülőtéren történő leszállásig nem biztosítanak automatikusan riasztószolgálatot.
 
-[^169]: A 85. § a 33/2020. (X. 5.) ITM rendelet 32. § (4) bekezdés g) pontja szerint módosított szöveg.
+[^178]: A 85. § a 33/2020. (X. 5.) ITM rendelet 32. § (4) bekezdés g) pontja szerint módosított szöveg.

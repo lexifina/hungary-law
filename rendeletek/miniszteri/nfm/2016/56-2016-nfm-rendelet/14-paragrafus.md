@@ -1,3 +1,3 @@
-## 13. §[^52] A SERA rendelet szerinti könnyű kategóriájú ballonok felbocsátásához a ballonok felbocsátója felbocsátási tervet készít.
+## 13. §[^59] A SERA rendelet szerinti könnyű kategóriájú ballonok felbocsátásához a ballonok felbocsátója felbocsátási tervet készít.
 
-[^52]: A 13. §-t újonnan a 33/2020. (X. 5.) ITM rendelet 16. §-a iktatta be.
+[^59]: A 13. §-t újonnan a 33/2020. (X. 5.) ITM rendelet 16. §-a iktatta be.

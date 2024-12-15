@@ -608,7 +608,7 @@
 
 ## 10.1.2.1.8. HUM: humanitárius célú repülések
 
-## 10.1.2.1.9. MARSA: katonai repülések, melyek elkülönítésének felelősségét egy katonai szervezet viseli
+## 10.1.2.1.9.
 
 ## 10.1.2.1.10. MEDEVAC: életmentés célú evakuáló mentőrepülések
 
@@ -744,7 +744,7 @@
 
 ## 10.1.2.24. RMK/ Egyéb nyílt-szövegű megjegyzés. Itt lehet feltüntetni:
 
-## 10.1.2.24.1. a repülés célját, pl. gyakorló repülés, műszaki berepülés, ejtőernyős ugratás, tűzoltás, fotózás, földi navigációs berendezések kalibrálása, transzparensvontatás,
+## 10.1.2.24.1. a repülés célját, pl. gyakorló repülés, műszaki berepülés, ejtőernyős ugratás, tűzoltás, fotózás, földi navigációs berendezések kalibrálása, transzparensvontatás, AWACS repülés,
 
 ## 10.1.2.24.2. a diplomáciai és speciális engedélyek meglétét,
 
@@ -844,6 +844,6 @@
 
 ## 12. A repülési terv űrlap képe
 
-2. melléklet az 56/2016. (XII. 22.) NFM rendelethez[^182]
+2. melléklet az 56/2016. (XII. 22.) NFM rendelethez[^191]
 
-[^182]: A 2. mellékletet a 33/2020. (X. 5.) ITM rendelet 34. § q) pontja hatályon kívül helyezte.
+[^191]: A 2. mellékletet a 33/2020. (X. 5.) ITM rendelet 34. § q) pontja hatályon kívül helyezte.

@@ -6,12 +6,12 @@
 
 89. § (1) Budapest CTR-ben hajtómű nélküli légijármű nem hajthat végre repülést.
 
-(2)[^170] Budapest CTR végső megközelítési területére csak a Budapest Liszt Ferenc Nemzetközi Repülőtérre történő leszállás, vagy a (4) bekezdésben meghatározott speciális repülési feladat végrehajtása esetén, valamint pilóta nélküli légijárművel és pilóta nélküli állami légijárművel a magyar légtér igénybevételéről szóló kormányrendeletben meghatározott feltételekkel lehet berepülni.
+(2)[^179] Budapest CTR végső megközelítési területére csak a Budapest Liszt Ferenc Nemzetközi Repülőtérre történő leszállás, vagy a (4) bekezdésben meghatározott speciális repülési feladat végrehajtása esetén, valamint pilóta nélküli légijárművel és pilóta nélküli állami légijárművel a magyar légtér igénybevételéről szóló kormányrendeletben meghatározott feltételekkel lehet berepülni.
 
-(3)[^171] Budapest CTR végső megközelítési területének határait a magyar légtér légiközlekedés céljára történő kijelöléséről szóló 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelet határozza meg.
+(3)[^180] Budapest CTR végső megközelítési területének határait a magyar légtér légiközlekedés céljára történő kijelöléséről szóló 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelet határozza meg.
 
-(4)[^172] Speciális repülési feladatnak minősül az állami légijárművel végrehajtott repülés, a kutató-mentő repülés, a légijárművel végzett egészségügyi mentőrepülés, a légi tűzoltás céljából végzett repülés, a légijárművel folytatott munkavégzés, valamint a légi fényképezési és légi megfigyelési feladatokat végző repülés.
+(4)[^181] Speciális repülési feladatnak minősül az állami légijárművel végrehajtott repülés, a kutató-mentő repülés, a légijárművel végzett egészségügyi mentőrepülés, a légi tűzoltás céljából végzett repülés, a légijárművel folytatott munkavégzés, valamint a légi fényképezési és légi megfigyelési feladatokat végző repülés.
 
-[^170]: A 89. § (2) bekezdése a 7/2021. (II. 5.) ITM rendelet 7. § a) pontja szerint módosított szöveg.
-[^171]: A 89. § (3) bekezdése a 34/2019. (IX. 13.) ITM rendelet 17. §-ával megállapított szöveg.
-[^172]: A 89. § (4) bekezdése a 33/2020. (X. 5.) ITM rendelet 30. §-ával megállapított szöveg.
+[^179]: A 89. § (2) bekezdése a 7/2021. (II. 5.) ITM rendelet 7. § a) pontja szerint módosított szöveg.
+[^180]: A 89. § (3) bekezdése a 34/2019. (IX. 13.) ITM rendelet 17. §-ával megállapított szöveg.
+[^181]: A 89. § (4) bekezdése a 33/2020. (X. 5.) ITM rendelet 30. §-ával megállapított szöveg.

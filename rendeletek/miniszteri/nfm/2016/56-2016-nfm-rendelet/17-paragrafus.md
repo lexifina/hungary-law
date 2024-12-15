@@ -1,5 +1,3 @@
-## 16. § Fényképezés céljából végzett légi munkavégzést és műszaki berepülést ellenőrzött légtérben az illetékes légiforgalmi irányító egységgel történt előzetes egyeztetés alapján, a légiforgalmi szolgáltató által az AIP-ben közzétett feltételek szerint lehet végrehajtani. A fényképezés céljából végzett légi munkavégzést és a műszaki berepülést az illetékes légiforgalmi egység a forgalomtól függően korlátozhatja.
-
 ## II. Fejezet
 
 ## A MUNKATERÜLETEN LÉVŐ LÉGIJÁRMŰ HELYZETÉVEL KAPCSOLATOS BIZONYTALANSÁG
