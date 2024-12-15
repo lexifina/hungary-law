@@ -1,5 +1,5 @@
 ## A repülőtéri irányító eljárásai
 
-52. §[^38]
+52. §[^43]
 
-[^38]: Az 52. §-t a 10/2021. (III. 23.) HM rendelet 4. § b) pontja hatályon kívül helyezte.
+[^43]: Az 52. §-t a 10/2021. (III. 23.) HM rendelet 4. § b) pontja hatályon kívül helyezte.

@@ -8,6 +8,6 @@
 
 a) ha a futópálya/leszállóhely a rajta levő akadály miatt nem alkalmas fel-, illetve leszállásokra, továbbá
 
-b)[^23] NOTAM-ban közzétett, és egyéb, azonnali intézkedést igénylő korlátozó tényező miatt.
+b)[^25] NOTAM-ban közzétett, és egyéb, azonnali intézkedést igénylő korlátozó tényező miatt.
 
-[^23]: A 24. § (3) bekezdésének b) pontja a 12/2009. (VIII. 19.) HM rendelet 10. §-ával megállapított szöveg.
+[^25]: A 24. § (3) bekezdésének b) pontja a 12/2009. (VIII. 19.) HM rendelet 10. §-ával megállapított szöveg.

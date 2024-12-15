@@ -1,4 +1,4 @@
-62/A. §[^56] (1) A radar-berendezések és lefedettség vonatkozásában a légvédelmi irányító szolgálatok felszereltségénél a NATO integrált légvédelmi rendszerében folyamatos NATO hadműveleti alárendeltségbe tartozó légtérellenőrző és légvédelmi irányító központok felszereltségével szembeni, az illetékes NATO-parancsnok által meghatározott hadműveleti követelményeket kell figyelembe venni.
+62/A. §[^61] (1) A radar-berendezések és lefedettség vonatkozásában a légvédelmi irányító szolgálatok felszereltségénél a NATO integrált légvédelmi rendszerében folyamatos NATO hadműveleti alárendeltségbe tartozó légtérellenőrző és légvédelmi irányító központok felszereltségével szembeni, az illetékes NATO-parancsnok által meghatározott hadműveleti követelményeket kell figyelembe venni.
 
 (2) A NATO integrált légvédelmi rendszerén belüli hadrendi elemek közötti összeköttetések biztosítására szolgáló híradó és informatikai berendezések, híradó vonalak hadműveleti követelményeit az egyes légtérellenőrző és légvédelmi irányító központok vonatkozásában az illetékes NATO-parancsnok határozza meg.
 
@@ -28,4 +28,4 @@ dd) egységes híradó kezelő felülettel (távvezérlővel), amely lehetővé 
 
 (5) A légvédelmi irányító szolgálatok tevékenysége során rögzített információk biztonsági célból történő tárolását 365 naptári napig kell biztosítani.
 
-[^56]: A 62/A. §-t a 12/2009. (VIII. 19.) HM rendelet 22. §-a iktatta be.
+[^61]: A 62/A. §-t a 12/2009. (VIII. 19.) HM rendelet 22. §-a iktatta be.

@@ -10,19 +10,19 @@
 
 2. AIRAC (Aeronautical Information Regulation and Control): a légiforgalmi tájékoztatások azon szabályozott és ellenőrzött kiadási rendszerének jelölésére használt rövidítés, ahol a légiközlekedést érintő lényeges változásokat egységes hatálybalépési dátumokra alapítva adják ki.
 
-3.[^89] Állami repülések céljára kijelölt légtér: az állami célú légiközlekedés által speciális szabályok alapján igénybe vett, meghatározott kiterjedésű légtér.
+3.[^94] Állami repülések céljára kijelölt légtér: az állami célú légiközlekedés által speciális szabályok alapján igénybe vett, meghatározott kiterjedésű légtér.
 
 4. ASR (Airport Surveillance Radar): repülőtéri légtérellenőrző radar.
 
 5. COMAO (Composite Air Operation): vegyes légi műveleti kötelék, amely nagy számú, különböző rendeltetésű és különböző típusú légijárműveket foglal magába.
 
-6.[^90] DA/DH (Decision altitude / Decision height) – elhatározási magasság: a precíziós megközelítési eljárásra előírt meghatározott tengerszint vagy földfelszín feletti magasság, amelyen megszakított megközelítési eljárást kell kezdeményezni, ha a megközelítés folytatásához szükséges látás utáni tájékozódás feltételei nem jöttek létre. A DA/DH az OCA/OCH üzemeltető által megnövelt értéke. Amennyiben az üzemeltető külön nem határozta meg ezen értékeket, az OCA/OCH érték az irányadó. A DA elhatározási magasság a közepes tengerszinthez, a DH elhatározási magasság pedig a futópálya küszöb magasságához viszonyított érték.
+6.[^95] DA/DH (Decision altitude / Decision height) – elhatározási magasság: a precíziós megközelítési eljárásra előírt meghatározott tengerszint vagy földfelszín feletti magasság, amelyen megszakított megközelítési eljárást kell kezdeményezni, ha a megközelítés folytatásához szükséges látás utáni tájékozódás feltételei nem jöttek létre. A DA/DH az OCA/OCH üzemeltető által megnövelt értéke. Amennyiben az üzemeltető külön nem határozta meg ezen értékeket, az OCA/OCH érték az irányadó. A DA elhatározási magasság a közepes tengerszinthez, a DH elhatározási magasság pedig a futópálya küszöb magasságához viszonyított érték.
 
 7. EUROCONTROL (European Organization for the Safety of Air Navigation): Európai Szervezet a Légiközlekedés Biztonságáért jelölésére használt rövidítés.
 
 8. Fenntartó: az üzemeltető – a légijárművek üzembentartásával kapcsolatos jogait felügyelő – szakmai elöljárója.
 
-9. GAT repülések (General Air Traffic – Általános légiforgalom): a polgári légügyi hatóság által kiadott szabályoknak és eljárásoknak megfelelően végrehajtott repülések.
+9.[^96] GAT: a polgári légi közlekedés területén alkalmazandó közös szabályokról és az Európai Unió Repülésbiztonsági Ügynökségének létrehozásáról és a 2111/2005/EK, az 1008/2008/EK, a 996/2010/EU, a 376/2014/EU európai parlamenti és tanácsi rendelet és a 2014/30/EU és a 2014/53/EU európai parlamenti és tanácsi irányelv módosításáról, valamint az 552/2004/EK és a 216/2008/EK európai parlamenti és tanácsi rendelet és a 3922/91/EGK tanácsi rendelet hatályon kívül helyezéséről szóló, 2018. július 4-i (EU) 2018/1139 európai parlamenti és tanácsi rendelet 3. cikk 21. pontjában meghatározott fogalom (General Air Traffic – Általános légiforgalom).
 
 10. Gurulás-irányító gépjármű (Marshaller): olyan gépkocsi, amely az induló és érkező légijárművek gurulását segíti elő korlátozott látási viszonyok és a gurulási nyomvonalak nem-láthatósága esetén, valamint amikor a gurulás más légijárművek vagy akadályok közelében történik. Nem hivatalos megnevezése: Follow Me Car.
 
@@ -46,7 +46,7 @@
 
 20. Katonai repülésirányító szolgálat: gyűjtőfogalom, amely jelenthet katonai légiforgalmi irányító, valamint légvédelmi irányító szolgálatot.
 
-21.[^91] Gyakorló repülés: a légijármű típusára vonatkozó kiképzési, harckiképzési utasítás (vagy ezek alapján kidolgozott és jóváhagyott) szerinti feladatok végrehajtása, mely az általános és a műveleti repülési jártasság megszerzésére, meghosszabbítására és helyreállítására irányul.
+21.[^97] Gyakorló repülés: a légijármű típusára vonatkozó kiképzési, harckiképzési utasítás (vagy ezek alapján kidolgozott és jóváhagyott) szerinti feladatok végrehajtása, mely az általános és a műveleti repülési jártasság megszerzésére, meghosszabbítására és helyreállítására irányul.
 
 22. Kísérleti repülés: ellenőrző repülés új építésű, vagy jelentősen megváltoztatott légijármű (prototípus) repülési tulajdonságainak, paramétereinek, légiközlekedésre való alkalmasságának vizsgálata céljából.
 
@@ -72,13 +72,13 @@
 
 33. NATO Airborne Early Warning Force: a NATO Korai Előrejelző és Riasztó Rendszer kötelékébe tartozó erők.
 
-34.[^92] NVD (Night Vision Device) – éjjellátó berendezés: elektro-optikai elven működő képalkotó eszköz, mely a látható vagy az infravörös tartományú fényenergia detektálásával és átalakításával az emberi szem által érzékelhető kép előállítására képes.
+34.[^98] NVD (Night Vision Device) – éjjellátó berendezés: elektro-optikai elven működő képalkotó eszköz, mely a látható vagy az infravörös tartományú fényenergia detektálásával és átalakításával az emberi szem által érzékelhető kép előállítására képes.
 
 35. OAT (Operational Air Traffic – Műveleti légiforgalom): a GAT előírásoktól eltérő szabályok és eljárások szerinti repülések jelölésére használt rövidítés.
 
-36. OAT-C (Operational Air Traffic – Compatible): a polgári légiközlekedési hatóságok által kiadott szabályok és eljárások szerinti repülés, mely elkülönített légteret nem igényel és a polgári légiközlekedésbe beilleszthető.
+36.[^99] OAT-C: olyan OAT repülés, amely elkülönített légteret nem igényel, a polgári légiközlekedésbe beilleszthető, és amely magában foglalja a szabványos és a nem szabványos OAT-C kötelékrepüléseket (Operational Air Traffic – Compatible).
 
-37. OAT-S (Operational Air Traffic – Special): a polgári légiközlekedésbe nem illeszkedő, elkülönített légtéret igénylő speciális műveleti légiforgalom.
+37.[^100] OAT-S: olyan OAT repülés, amely elkülönített légteret igényel, és a polgári légiközlekedésbe nem illeszkedik (Operational Air Traffic – Special).
 
 38. PAR (Precision Approach Radar): a precíziós bevezető radar jelölésére használt rövidítés.
 
@@ -98,13 +98,13 @@
 
 46. Repülés Utáni Tájékoztatás (Post Flight Information): a légijármű személyzetek jelentése a léginavigációs berendezések állapotáról és működéséről.
 
-47.[^93] Repülésvezető (Air Controller): gyűjtőfogalom, amely jelenthet lőtéri repülésvezetőt, külső fel-, leszállóhely repülésvezetőt, deszant kirakási hely repülésvezetőt, a kizárólag rendvédelmi képzési célú repülések repülésvezetőjét, valamint az egyéb speciális [e rendelet 10. § (1) bekezdés szerinti] feladatok repülésvezetőjét, ha a feladat jellege azt megkívánja.
+47.[^101] Repülésvezető (Air Controller): gyűjtőfogalom, amely jelenthet lőtéri repülésvezetőt, külső fel-, leszállóhely repülésvezetőt, deszant kirakási hely repülésvezetőt, a kizárólag rendvédelmi képzési célú repülések repülésvezetőjét, valamint az egyéb speciális [e rendelet 10. § (1) bekezdés szerinti] feladatok repülésvezetőjét, ha a feladat jellege azt megkívánja.
 
 48. SRA (Surveillance Radar Approach): a légtérellenőrző radar bevezetés jelölésére használt rövidítés.
 
 49. SRS (Same Runway Separation): az azonos futópályára végső megközelítést végrehajtó légijárművek közötti elkülönítésre használatos rövidítés.
 
-50.[^94]
+50.[^102]
 
 51. Szolgálati személy: a szervezeti állománytábla szerint beosztásban levő személy, aki légiközlekedéssel összefüggő tevékenységet lát el.
 
@@ -114,23 +114,26 @@
 
 54. Üzemeltető: a légijármű üzemeltetésére kijelölt állományilletékes szervezet.
 
-55.[^95] Lopakodó (In the Nap of the Earth – NOE) repülés: a terepdomborzat és az akadályok rejtési lehetőségének maximális kihasználásával, a lehető legkisebb magasságon, megfelelő sebességgel végrehajtott repülés.
+55.[^103] Lopakodó (In the Nap of the Earth – NOE) repülés: a terepdomborzat és az akadályok rejtési lehetőségének maximális kihasználásával, a lehető legkisebb magasságon, megfelelő sebességgel végrehajtott repülés.
 
-56.[^96] MDA/MDH (Minimum descent altitude – Minimum descent height) – legalacsonyabb süllyedési magasság: a nem-precíziós megközelítési vagy a körözéssel végrehajtott megközelítési eljárásra előírt meghatározott tengerszint vagy földfelszín feletti magasság, amely alá az előírt látási feltételek létrejöttének hiányában süllyedni tilos.
+56.[^104] MDA/MDH (Minimum descent altitude – Minimum descent height) – legalacsonyabb süllyedési magasság: a nem-precíziós megközelítési vagy a körözéssel végrehajtott megközelítési eljárásra előírt meghatározott tengerszint vagy földfelszín feletti magasság, amely alá az előírt látási feltételek létrejöttének hiányában süllyedni tilos.
 
 Az MDA/MDH az OCA/OCH üzemeltető által megnövelt értéke. Amennyiben az üzemeltető külön nem határozta meg ezen értékeket, az OCA/OCH érték az irányadó.
 
-57.[^97] OCA/OCH (Obstacle clearence altitude / Obstacle clearence height) – akadálymentes tengerszint feletti magasság/akadálymentes földfelszín feletti magasság: az akadálymentes tengerszint feletti magasság a közepes tengerszinthez, az akadálymentes földfelszín feletti magasság a futópálya küszöb magasságához viszonyított érték, amelyet az akadályoktól történő megfelelő függőleges elkülönítés biztosítása érdekében az akadálymentességi előírásokkal összhangban határoznak meg. A nem-precíziós megközelítés esetében az akadálymentes földfelszín feletti magasság a repülőtér magasságához vagy a futópálya küszöb magasságához viszonyított érték. Ez utóbbit akkor alkalmazzák, ha a futópálya küszöb magassága több mint 2 méterrel (7 láb) a repülőtér magassága alatt van. A megközelítéshez történő körözéshez meghatározott akadálymentes földfelszín feletti magasság a repülőtér magasságához viszonyított érték.
+57.[^105] OCA/OCH (Obstacle clearence altitude / Obstacle clearence height) – akadálymentes tengerszint feletti magasság/akadálymentes földfelszín feletti magasság: az akadálymentes tengerszint feletti magasság a közepes tengerszinthez, az akadálymentes földfelszín feletti magasság a futópálya küszöb magasságához viszonyított érték, amelyet az akadályoktól történő megfelelő függőleges elkülönítés biztosítása érdekében az akadálymentességi előírásokkal összhangban határoznak meg. A nem-precíziós megközelítés esetében az akadálymentes földfelszín feletti magasság a repülőtér magasságához vagy a futópálya küszöb magasságához viszonyított érték. Ez utóbbit akkor alkalmazzák, ha a futópálya küszöb magassága több mint 2 méterrel (7 láb) a repülőtér magassága alatt van. A megközelítéshez történő körözéshez meghatározott akadálymentes földfelszín feletti magasság a repülőtér magasságához viszonyított érték.
 
-58.[^98] SOP (Standard Operating Procedures): az Állandó Működési Eljárásokat jelölő angol nyelvű rövidítés.
+58.[^106] SOP (Standard Operating Procedures): az Állandó Működési Eljárásokat jelölő angol nyelvű rövidítés.
 
-[^89]: A 84. § 3. pontja a 10/2023. (V. 22.) HM rendelet 2. §-ával megállapított szöveg.
-[^90]: A 84. § 6. pontja a 12/2009. (VIII. 19.) HM rendelet 28. § (2) bekezdésével megállapított szöveg.
-[^91]: A 84. § 21. pontja a 12/2009. (VIII. 19.) HM rendelet 30. § (2) bekezdése szerint módosított szöveg.
-[^92]: A 84. § 34. pontja a 12/2009. (VIII. 19.) HM rendelet 28. § (3) bekezdésével megállapított szöveg.
-[^93]: A 84. § 47. pontja a 12/2009. (VIII. 19.) HM rendelet 30. § (2) bekezdése szerint módosított szöveg.
-[^94]: A 84. § 50. pontját a 10/2021. (III. 23.) HM rendelet 4. § c) pontja hatályon kívül helyezte.
-[^95]: A 84. § 55. pontját a 12/2009. (VIII. 19.) HM rendelet 28. § (4) bekezdése iktatta be.
-[^96]: A 84. § 56. pontját a 12/2009. (VIII. 19.) HM rendelet 28. § (4) bekezdése iktatta be.
-[^97]: A 84. § 57. pontját a 12/2009. (VIII. 19.) HM rendelet 28. § (4) bekezdése iktatta be.
-[^98]: A 84. § 58. pontját a 12/2009. (VIII. 19.) HM rendelet 28. § (4) bekezdése iktatta be.
+[^94]: A 84. § 3. pontja a 10/2023. (V. 22.) HM rendelet 2. §-ával megállapított szöveg.
+[^95]: A 84. § 6. pontja a 12/2009. (VIII. 19.) HM rendelet 28. § (2) bekezdésével megállapított szöveg.
+[^96]: A 84. § 9. pontja a 16/2024. (VIII. 29.) HM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^97]: A 84. § 21. pontja a 12/2009. (VIII. 19.) HM rendelet 30. § (2) bekezdése szerint módosított szöveg.
+[^98]: A 84. § 34. pontja a 12/2009. (VIII. 19.) HM rendelet 28. § (3) bekezdésével megállapított szöveg.
+[^99]: A 84. § 36. pontja a 16/2024. (VIII. 29.) HM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^100]: A 84. § 37. pontja a 16/2024. (VIII. 29.) HM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^101]: A 84. § 47. pontja a 12/2009. (VIII. 19.) HM rendelet 30. § (2) bekezdése szerint módosított szöveg.
+[^102]: A 84. § 50. pontját a 10/2021. (III. 23.) HM rendelet 4. § c) pontja hatályon kívül helyezte.
+[^103]: A 84. § 55. pontját a 12/2009. (VIII. 19.) HM rendelet 28. § (4) bekezdése iktatta be.
+[^104]: A 84. § 56. pontját a 12/2009. (VIII. 19.) HM rendelet 28. § (4) bekezdése iktatta be.
+[^105]: A 84. § 57. pontját a 12/2009. (VIII. 19.) HM rendelet 28. § (4) bekezdése iktatta be.
+[^106]: A 84. § 58. pontját a 12/2009. (VIII. 19.) HM rendelet 28. § (4) bekezdése iktatta be.

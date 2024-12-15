@@ -1,5 +1,5 @@
-## 31. § Hangsebesség felett állami légijármű a külön jogszabályban[^26] foglalt szabályok betartásával repülhet.
+## 31. § Hangsebesség felett állami légijármű a külön jogszabályban[^31] foglalt szabályok betartásával repülhet.
 
 ## Nyilvános repülőrendezvény
 
-[^26]: A magyar légtér légi közlekedés céljára történő kijelöléséről szóló 14/1998. (VI. 24.) KHVM–HM–KTM együttes rendelet.
+[^31]: A magyar légtér légi közlekedés céljára történő kijelöléséről szóló 14/1998. (VI. 24.) KHVM–HM–KTM együttes rendelet.

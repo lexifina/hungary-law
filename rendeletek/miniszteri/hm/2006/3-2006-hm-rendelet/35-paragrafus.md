@@ -10,6 +10,6 @@
 
 (2) A légvédelmi irányító szolgálat ellátásának célja a Magyar Honvédség és a NATO-államok fegyveres erőinek kötelékébe tartozó légijárművek számára – alapvetően a rádiólokációs légtérellenőrző rendszer által biztosított információk felhasználására épülő – olyan speciális repülésirányítói szolgáltatást biztosítani, amelyre a saját légijármű vagy kötelék harcfeladatának sikeres végrehajtása érdekében kerül sor.
 
-(3)[^30] A repülésvezető szolgálat ellátásának célja különböző különleges katonai és rendvédelmi célú repülések biztonságos végrehajtásának elősegítése a tevékenység engedélyezése vagy tiltása – a repülés ellenőrzése – és a légijármű személyzetek tájékoztatása útján.
+(3)[^35] A repülésvezető szolgálat ellátásának célja különböző különleges katonai és rendvédelmi célú repülések biztonságos végrehajtásának elősegítése a tevékenység engedélyezése vagy tiltása – a repülés ellenőrzése – és a légijármű személyzetek tájékoztatása útján.
 
-[^30]: A 35. § (3) bekezdése a 12/2009. (VIII. 19.) HM rendelet 30. § (2) bekezdése szerint módosított szöveg.
+[^35]: A 35. § (3) bekezdése a 12/2009. (VIII. 19.) HM rendelet 30. § (2) bekezdése szerint módosított szöveg.
