@@ -1,3 +1,1 @@
-16. §[^16]
-
-[^16]: A 16. § a 17. § (3) bekezdése alapján 2024. december 15-én lép hatályba.
+16. § Az 57/2016. (XII. 22.) NFM rendelet 18. melléklete a 6. melléklet szerint módosul.

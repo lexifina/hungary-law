@@ -1,3 +1,1 @@
-10. §[^10]
-
-[^10]: A 10. § a 17. § (3) bekezdése alapján 2024. december 15-én lép hatályba.
+10. § Az 56/2016. (XII. 22.) NFM rendelet 1. melléklete a 2. melléklet szerint módosul.

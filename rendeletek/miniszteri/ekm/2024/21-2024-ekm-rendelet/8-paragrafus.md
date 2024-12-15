@@ -1,3 +1,3 @@
-8. §[^8]
+8. § Az 56/2016. (XII. 22.) NFM rendelet 42. §-a a következő (1) bekezdéssel egészül ki:
 
-[^8]: A 8. § a 17. § (3) bekezdése alapján 2024. december 15-én lép hatályba.
+„(1) Az OAT-C kötelékrepülést végrehajtó légijárműnek folyamatosan figyelni kell a 121,5 MHz-es ultrarövid hullámú vészfrekvenciát.”

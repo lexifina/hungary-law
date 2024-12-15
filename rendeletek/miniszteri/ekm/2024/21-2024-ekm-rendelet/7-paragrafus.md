@@ -1,3 +1,5 @@
-7. §[^7]
+7. § Az 56/2016. (XII. 22.) NFM rendelet I. Fejezete a következő 11/A. alcímmel egészül ki:
 
-[^7]: A 7. § a 17. § (3) bekezdése alapján 2024. december 15-én lép hatályba.
+„11/A. AWACS repülés
+
+16/A. § Az AWACS üzemeltető szervezet és Budapest ATS Központ az AWACS repülés végrehajtásának szabályait együttműködési megállapodásban rögzítik.”
