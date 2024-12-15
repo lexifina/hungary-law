@@ -1,3 +1,3 @@
-6. melléklet a 377/2024. (XII. 6.) Korm. rendelethez[^7]
+6. melléklet a 377/2024. (XII. 6.) Korm. rendelethez[^9]
 
-[^7]: A 6. melléklet a 4. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+[^9]: A 6. melléklet a 4. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
