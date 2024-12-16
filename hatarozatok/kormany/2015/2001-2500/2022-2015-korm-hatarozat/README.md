@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-2022-30
 | 2019-12-30 | 2015-2022-30-22.7 | 1815/2019. (XII. 30.) Korm. határozat |
 | 2020-08-17 | 2015-2022-30-22.8 | 1815/2019. (XII. 30.) Korm. határozat |
 | 2023-04-18 | 2015-2022-30-22.9 | 1143/2023. (IV. 18.) Korm. határozat |
+| 2024-12-16 | 2015-2022-30-22.10 | 1405/2024. (XII. 16.) Korm. határozat |
