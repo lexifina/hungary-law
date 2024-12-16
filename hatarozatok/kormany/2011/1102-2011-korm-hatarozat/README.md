@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-1102-30
 | 2021-11-26 | 2011-1102-30-22.8 | 1267/2019. (V. 8.) Korm. határozat |
 | 2022-11-03 | 2011-1102-30-22.9 | 1521/2022. (XI. 2.) Korm. határozat |
 | 2023-01-01 | 2011-1102-30-22.10 | 1267/2019. (V. 8.) Korm. határozat |
+| 2024-12-16 | 2011-1102-30-22.11 | 1399/2024. (XII. 16.) Korm. határozat |
