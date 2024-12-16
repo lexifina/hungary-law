@@ -1,1 +1,3 @@
-14. § Az 57/2016. (XII. 22.) NFM rendelet 11. melléklete a 4. melléklet szerint módosul.
+14. §[^15]
+
+[^15]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

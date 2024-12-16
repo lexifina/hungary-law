@@ -1,5 +1,3 @@
-7. § Az 56/2016. (XII. 22.) NFM rendelet I. Fejezete a következő 11/A. alcímmel egészül ki:
+7. §[^8]
 
-„11/A. AWACS repülés
-
-16/A. § Az AWACS üzemeltető szervezet és Budapest ATS Központ az AWACS repülés végrehajtásának szabályait együttműködési megállapodásban rögzítik.”
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

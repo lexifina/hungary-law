@@ -1,1 +1,3 @@
-11. § Az 56/2016. (XII. 22.) NFM rendelet 5. melléklete a 3. melléklet szerint módosul.
+11. §[^12]
+
+[^12]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
