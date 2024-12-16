@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-1067-30
 | --- | --- | --- |
 | 2024-03-21 | 2024-1067-30-22.1 | 1067/2024. (III. 21.) Korm. határozat |
 | 2024-03-22 | 2024-1067-30-22.2 | 2010. évi CXXX. törvény |
+| 2024-12-16 | 2024-1067-30-22.4 | 1401/2024. (XII. 16.) Korm. határozat |
