@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-1518-30
 | 2021-11-05 | 2021-1518-30-22.2 | 1784/2021. (XI. 5.) Korm. határozat |
 | 2022-12-13 | 2021-1518-30-22.3 | 1618/2022. (XII. 13.) Korm. határozat |
 | 2023-09-28 | 2021-1518-30-22.4 | 1419/2023. (IX. 28.) Korm. határozat |
+| 2024-12-16 | 2021-1518-30-22.5 | 1404/2024. (XII. 16.) Korm. határozat |
