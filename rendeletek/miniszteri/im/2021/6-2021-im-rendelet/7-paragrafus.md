@@ -6,6 +6,9 @@ a) elszámolást, valamint tanúsítványt készít a TVI részére biztosított
 
 b) összesítő elszámolást készít a HVI-vezetők és a saját elszámolása alapján a szavazás napját követő harminc napon belül.
 
-(3) Az egyéb szerv vezetője elszámolást készít az NVI elnöke részére a szavazás napját követő harminc napon belül.
+(3)[^9]
 
-(4) Az NVI az (1)–(3) bekezdésben foglalt elszámolások alapján, éves költségvetési beszámolója készítésével egyidejűleg, összesítő elszámolást készít. Az összesítő elszámolás formáját és tartalmi elemeit az NVI elnökének a 6. § (4) bekezdése szerinti utasítása határozza meg.
+(4)[^10] Az NVI az (1) és (2) bekezdésben foglalt elszámolások alapján, éves költségvetési beszámolója készítésével egyidejűleg, összesítő elszámolást készít. Az összesítő elszámolás formáját és tartalmi elemeit az NVI elnökének a 6. § (4) bekezdése szerinti utasítása határozza meg.
+
+[^9]: A 7. § (3) bekezdését a 23/2024. (XII. 16.) IM rendelet 8. § c) pontja hatályon kívül helyezte.
+[^10]: A 7. § (4) bekezdése a 23/2024. (XII. 16.) IM rendelet 7. §-a szerint módosított szöveg.

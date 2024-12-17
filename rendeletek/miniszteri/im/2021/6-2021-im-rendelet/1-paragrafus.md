@@ -1,6 +1,6 @@
 1. § (1) A Nemzeti Választási Iroda (a továbbiakban: NVI) a helyi önkormányzati képviselők és polgármesterek időközi választása és a nemzetiségi önkormányzati képviselők időközi választása (a továbbiakban együtt: választás) lebonyolítása fedezetének biztosításához a költségvetés tervezése keretében éves szintű pénzügyi feladat- és költségtervet készít.
 
-(2) A helyi választási iroda (a továbbiakban: HVI) vezetője, a területi választási iroda (a továbbiakban: TVI) vezetője, továbbá a választás lebonyolításában részt vevő egyéb szerv (a továbbiakban: egyéb szerv) vezetője választási feladatai tekintetében
+(2)[^2] A helyi választási iroda (a továbbiakban: HVI) vezetője, a területi választási iroda (a továbbiakban: TVI) vezetője választási feladatai tekintetében
 
 a) felelős a választás pénzügyi tervezéséért, számviteli és az e rendelet szerinti feladattípusú pénzügyi elszámolásáért (a továbbiakban: elszámolás),
 
@@ -11,3 +11,5 @@ c) gyakorolja a választás pénzeszközei feletti kötelezettségvállalási é
 d) gondoskodik a választás céljára szolgáló pénzeszközök elkülönített számviteli kezeléséről.
 
 (3) A (2) bekezdés rendelkezéseit helyi népszavazás esetén az elszámolás kivételével alkalmazni kell.
+
+[^2]: Az 1. § (2) bekezdés nyitó szövegrésze a 23/2024. (XII. 16.) IM rendelet 8. § a) pontja szerint módosított szöveg.
