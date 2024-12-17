@@ -20,7 +20,7 @@ Barkóczi Balázs (DK)[^4]
 
 Balassa Péter (Jobbik)
 
-Fekete-Győr András (Momentum)[^5]
+dr. Cseh Katalin (Momentum)[^5]
 
 b) Fenntartható fejlődés bizottsága (9 fő)
 
@@ -130,7 +130,7 @@ Sebián-Petrovszki László (DK)
 
 Jakab Péter (független)[^17]
 
-Fekete-Győr András (Momentum)[^18]
+dr. Cseh Katalin (Momentum)[^18]
 
 Szabó Szabolcs (Momentum)
 
@@ -669,7 +669,7 @@ Varga Szimeon (nemzetiségi szószóló)[^84]
 [^2]: A 12/2024. (IV. 30.) OGY határozat 1. pontjával megállapított szöveg.
 [^3]: A 21/2024. (XI. 6.) OGY határozat 1. pontjával megállapított szöveg.
 [^4]: A 34/2022. (VII. 19.) OGY határozat 1. pontjával megállapított szöveg.
-[^5]: A 38/2022. (IX. 27.) OGY határozat 1. pontjával megállapított szöveg.
+[^5]: A 26/2024. (XII. 18.) OGY határozat 1. pontjával megállapított szöveg.
 [^6]: A 20/2023. (IX. 26.) OGY határozat 1. pontjával megállapított szöveg.
 [^7]: A 17/2022. (VI. 8.) OGY határozat 1. pontjával megállapított szöveg.
 [^8]: A 29/2023. (XII. 14.) OGY határozat 1. pontjával megállapított szöveg.
@@ -682,7 +682,7 @@ Varga Szimeon (nemzetiségi szószóló)[^84]
 [^15]: A 38/2022. (IX. 27.) OGY határozat 1. pontja iktatta be.
 [^16]: A 17/2022. (VI. 8.) OGY határozat 1. pontjával megállapított szöveg.
 [^17]: A 47/2022. (X. 5.) OGY határozat 1. pontjával megállapított szöveg.
-[^18]: A 60/2022. (XII. 8.) OGY határozat 1. pontja iktatta be.
+[^18]: A 60/2022. (XII. 8.) OGY határozat 1. pontja iktatta be, szövege a 26/2024. (XII. 18.) OGY határozat 1. pontjával megállapított szöveg.
 [^19]: Az 1/2023. (II. 28.) OGY határozat 1. pontjával megállapított szöveg.
 [^20]: A 38/2022. (IX. 27.) OGY határozat 1. pontjával megállapított szöveg.
 [^21]: A 17/2022. (VI. 8.) OGY határozat 1. pontjával megállapított szöveg.
