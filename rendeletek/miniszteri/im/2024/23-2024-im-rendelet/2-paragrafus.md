@@ -1,0 +1,3 @@
+2. § Az R1. 5. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) A HVI és a TVI rendkívüli, a (2) bekezdésben foglaltakon felüli többletkiadásainak, valamint a (3) bekezdés szerinti indokolt kifizetéseinek, illetve kötelezettségvállalásainak az elszámolásban való érvényesítését a választási iroda vezetője legkésőbb a szavazás napját követő tizenöt napon belül kezdeményezi az NVI elnökénél. A kérelem elfogadásáról az NVI elnöke a kezdeményezés átvételétől számított öt munkanapon belül dönt. Ha a kérelem elbírálására határidőben nem kerül sor, a határidő leteltét követő napon a kérelmet elfogadottnak kell tekinteni.”
