@@ -34,7 +34,7 @@ bba) sürgősségi betegellátásra rendszeresített gépjármű,
 
 bbb) hivatásos katasztrófavédelmi szervek, a tűzoltóság és a tűzoltó egyesületek közvetlen helyszíni beavatkozására rendszeresített gépjárműve,
 
-bbc) a rendőrség közrendvédelmi és közlekedésrendészeti szolgálati ágának közvetlen helyszíni beavatkozásra rendszeresített gépjárműve,
+bbc)[^227] a rendőrség közrendvédelmi, közlekedésrendészeti és személyvédelmi szolgálati ágának közvetlen helyszíni beavatkozásra rendszeresített gépjárműve, valamint a rendőrség terrorizmust elhárító szervének gépjárműve
 
 bc) a betegszállító gépjármű,
 
@@ -42,25 +42,25 @@ bd) a személytaxi,
 
 be) a kétkerekű motorkerékpár és a kétkerekű segédmotoros kerékpár,
 
-bf)[^227] nemzetközi sportszövetség, nemzetközi sportvilág ernyőszervezetének nemzetközi sporteseményei vonatkozásában a kiemelt hazai rendezésű, nemzetközi sportesemény szervező bizottsága közreműködésével egyedi jelzéssel kijelölt jármű – a kiemelt hazai rendezésű, nemzetközi sportesemény ideje alatt és azzal összefüggésben a sportesemény helyszínéül szolgáló települések területén – az autóbusz-forgalmi sáv ideiglenes használati feltételeiről szóló – a használathoz kapcsolódó irat tartalmát és ennek kibocsátási körülményeit tartalmazó – kormányhatározatban foglaltak szerint
+bf)[^228] nemzetközi sportszövetség, nemzetközi sportvilág ernyőszervezetének nemzetközi sporteseményei vonatkozásában a kiemelt hazai rendezésű, nemzetközi sportesemény szervező bizottsága közreműködésével egyedi jelzéssel kijelölt jármű – a kiemelt hazai rendezésű, nemzetközi sportesemény ideje alatt és azzal összefüggésben a sportesemény helyszínéül szolgáló települések területén – az autóbusz-forgalmi sáv ideiglenes használati feltételeiről szóló – a használathoz kapcsolódó irat tartalmát és ennek kibocsátási körülményeit tartalmazó – kormányhatározatban foglaltak szerint
 
-bg)[^228] a Kormány egyedi döntésével kiemelt fontosságúvá nyilvánított rendezvényen (a továbbiakban: Rendezvény) részt vevő delegációk egyedi jelzéssel kijelölt járműve – a Rendezvény ideje alatt és azzal összefüggésben, a Rendezvény helyszínéül szolgáló települések területén – az autóbusz-forgalmi sáv ideiglenes használati feltételeiről szóló – a használathoz kapcsolódó irat tartalmát és ennek kibocsátási körülményeit tartalmazó – kormányhatározatban foglaltak szerint
+bg)[^229] a Kormány egyedi döntésével kiemelt fontosságúvá nyilvánított rendezvényen (a továbbiakban: Rendezvény) részt vevő delegációk egyedi jelzéssel kijelölt járműve – a Rendezvény ideje alatt és azzal összefüggésben, a Rendezvény helyszínéül szolgáló települések területén – az autóbusz-forgalmi sáv ideiglenes használati feltételeiről szóló – a használathoz kapcsolódó irat tartalmát és ennek kibocsátási körülményeit tartalmazó – kormányhatározatban foglaltak szerint
 
-bh)[^229] a Kormány egyedi döntése esetén a természeti jelenség által előidézett veszély, katasztrófaveszély vagy katasztrófahelyzet idején a kijelölt szervezetek azon gépjárműve, amelyet a meghatározott feladat ellátására közvetlenül használnak – a természeti jelenség által előidézett veszéllyel, katasztrófaveszéllyel vagy katasztrófahelyzettel érintett települések területén – az autóbusz forgalmi sáv ideiglenes használati feltételeiről szóló – a használathoz kapcsolódó irat tartalmát és ennek kibocsátási körülményeit tartalmazó – kormányhatározatban foglaltak szerint
+bh)[^230] a Kormány egyedi döntése esetén a természeti jelenség által előidézett veszély, katasztrófaveszély vagy katasztrófahelyzet idején a kijelölt szervezetek azon gépjárműve, amelyet a meghatározott feladat ellátására közvetlenül használnak – a természeti jelenség által előidézett veszéllyel, katasztrófaveszéllyel vagy katasztrófahelyzettel érintett települések területén – az autóbusz forgalmi sáv ideiglenes használati feltételeiről szóló – a használathoz kapcsolódó irat tartalmát és ennek kibocsátási körülményeit tartalmazó – kormányhatározatban foglaltak szerint
 
 közlekedhet. Más jármű erre a forgalmi sávra – a sáv keresztezését és a bekanyarodásra felkészülést kivéve – nem hajthat rá. Ahol autóbusz forgalmi sáv van, a menetrend szerint közlekedő autóbusz és trolibusz – a bekanyarodás és kikerülés esetét kivéve – csak ebben a forgalmi sávban haladhat.
 
-(9)[^230] Ahol kapaszkodósáv van, a kapaszkodósávon kell haladniuk azoknak a járműveknek, amelyek a jelzőtáblán [17. § (1) bek. h) pont] megjelölt — ennek hiányában lakott területen kívül 70 km/óra, lakott területen 40 km/óra — sebességnél lassabban haladnak.
+(9)[^231] Ahol kapaszkodósáv van, a kapaszkodósávon kell haladniuk azoknak a járműveknek, amelyek a jelzőtáblán [17. § (1) bek. h) pont] megjelölt — ennek hiányában lakott területen kívül 70 km/óra, lakott területen 40 km/óra — sebességnél lassabban haladnak.
 
-(10)[^231] Azon az úton, amelynek menetirány szerinti jobb oldalán két vagy több forgalmi sáv van útburkolati jelekkel kijelölve, a körforgalmú útra történő bekanyarodást
+(10)[^232] Azon az úton, amelynek menetirány szerinti jobb oldalán két vagy több forgalmi sáv van útburkolati jelekkel kijelölve, a körforgalmú útra történő bekanyarodást
 
 a) a besorolás rendjét jelző tábla és az útburkolati jelek jelzéseinek megfelelően kell végrehajtani, vagy
 
 b) a jobb oldali szélső forgalmi sávból kell végrehajtani, amennyiben a járművezető a bekanyarodás helyét követő első kihajtási lehetőségnél kívánja a körforgalmú utat elhagyni.
 
-(11)[^232] A párhuzamos közlekedésre alkalmas körforgalmú úton a párhuzamos közlekedés szabályait kell alkalmazni.
+(11)[^233] A párhuzamos közlekedésre alkalmas körforgalmú úton a párhuzamos közlekedés szabályait kell alkalmazni.
 
-(12)[^233] Ha a járműveknek útkereszteződésben, útszűkületekben, szintbeni vasúti átjárónál vagy egyéb forgalmi okból meg kell állnia, – előre sorolás céljából – kétkerekű motorkerékpárral, illetve kétkerekű segédmotoros kerékpárral az álló járművek mellett, vagy azok között, kétkerekű kerékpárral az úttest szélén, az álló járművek mellett jobbról szabad előrehaladni, ha
+(12)[^234] Ha a járműveknek útkereszteződésben, útszűkületekben, szintbeni vasúti átjárónál vagy egyéb forgalmi okból meg kell állnia, – előre sorolás céljából – kétkerekű motorkerékpárral, illetve kétkerekű segédmotoros kerékpárral az álló járművek mellett, vagy azok között, kétkerekű kerékpárral az úttest szélén, az álló járművek mellett jobbról szabad előrehaladni, ha
 
 a) az előrehaladáshoz elegendő hely áll rendelkezésre, és
 
@@ -73,10 +73,11 @@ b) az irányváltoztatási szándékot jelző járműveket az irányváltoztatá
 [^224]: A 36. § (6) bekezdés b) pontja a 2/1984. (I. 29.) KM–BM együttes rendelet 21. § (2) bekezdésével megállapított szöveg.
 [^225]: A 36. § (8) bekezdése a 289/2009. (XII. 18.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
 [^226]: Lásd a 12/2007. (III. 13.) IRM rendeletet.
-[^227]: A 36. § (8) bekezdés b) pont bf) alpontját újonnan a 183/2019. (VII. 26.) Korm. rendelet 2. §-a iktatta be, szövege a 132/2024. (VI. 28.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^228]: A 36. § (8) bekezdés b) pont bg) alpontját a 132/2024. (VI. 28.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^229]: A 36. § (8) bekezdés b) pont bh) alpontját a 271/2024. (IX. 18.) Korm. rendelet 1. §-a iktatta be.
-[^230]: A 36. § (9) bekezdése a 148/1992. (XI. 12.) Korm. rendelet 7. §-ának (3) bekezdésével megállapított szöveg.
-[^231]: A 36. § (10) bekezdését a 28/2001. (II. 15.) Korm. rendelet 14. §-a iktatta be, szövege a 289/2009. (XII. 18.) Korm. rendelet 15. § (3) bekezdésével megállapított szöveg.
-[^232]: A 36. § (11) bekezdését a 28/2001. (II. 15.) Korm. rendelet 14. §-a iktatta a szövegbe.
-[^233]: A 36. § (12) bekezdését a 289/2009. (XII. 18.) Korm. rendelet 15. § (4) bekezdése iktatta be.
+[^227]: A 36. § (8) bekezdés b) pont bb) alpont bbc) pontja a 395/2024. (XII. 16.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^228]: A 36. § (8) bekezdés b) pont bf) alpontját újonnan a 183/2019. (VII. 26.) Korm. rendelet 2. §-a iktatta be, szövege a 132/2024. (VI. 28.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^229]: A 36. § (8) bekezdés b) pont bg) alpontját a 132/2024. (VI. 28.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^230]: A 36. § (8) bekezdés b) pont bh) alpontját a 271/2024. (IX. 18.) Korm. rendelet 1. §-a iktatta be.
+[^231]: A 36. § (9) bekezdése a 148/1992. (XI. 12.) Korm. rendelet 7. §-ának (3) bekezdésével megállapított szöveg.
+[^232]: A 36. § (10) bekezdését a 28/2001. (II. 15.) Korm. rendelet 14. §-a iktatta be, szövege a 289/2009. (XII. 18.) Korm. rendelet 15. § (3) bekezdésével megállapított szöveg.
+[^233]: A 36. § (11) bekezdését a 28/2001. (II. 15.) Korm. rendelet 14. §-a iktatta a szövegbe.
+[^234]: A 36. § (12) bekezdését a 289/2009. (XII. 18.) Korm. rendelet 15. § (4) bekezdése iktatta be.
