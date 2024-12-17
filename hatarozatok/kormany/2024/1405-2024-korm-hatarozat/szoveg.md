@@ -10,20 +10,9 @@ c) felhívja az építési és közlekedési minisztert, valamint a kultúráér
 
 | Határidő: | 2025. február 28. |
 
-2. A Makovecz Imre életművének gondozásáról szóló 2022/2015. (XII. 29.) Korm. határozat 5. pontja helyébe a következő rendelkezés lép:
+2.[^1]
 
-(A Kormány)
+3.[^2]
 
-„5. felhívja az építési és közlekedési minisztert, hogy a kultúráért és innovációért felelős miniszterrel és a pénzügyminiszterrel együttműködve dolgozza át a Makovecz Imre munkásságának megörökítésére összeállított ötéves feladattervet, és tegye meg az annak végrehajtásához szükséges intézkedéseket;
-
-| Felelős: | építési és közlekedési miniszter kultúráért és innovációért felelős miniszter pénzügyminiszter |
-
-| Határidő: | folyamatos |
-
-3. A Makovecz Imre életművének gondozásáról szóló 2022/2015. (XII. 29.) Korm. határozat
-
-a) 3. pontjában az „emberi erőforrások miniszterét” szövegrész helyébe az „építési és közlekedési minisztert” szöveg, az „emberi erőforrások minisztere” szövegrész helyébe az „építési és közlekedési miniszter” szöveg,
-
-b) 11. pont nyitó szövegrészében az „a Miniszterelnökséget vezető miniszterrel és az emberi erőforrások miniszterével” szövegrész helyébe az „az építési és közlekedési miniszterrel és a kultúráért és innovációért felelős miniszterrel” szöveg
-
-lép.
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
