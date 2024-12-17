@@ -50,11 +50,11 @@ b)[^2] Nemzeti Adó- és Vámhivatal által üzemeltetett pilóta nélküli áll
 
 c) a polgári nemzetbiztonsági szolgálatok szervezeti és működési szabályzatában kijelölt szervezeti egység, az általuk használt pilóta nélküli állami légijárművek és rendszerek tekintetében,
 
-d) a Terrorelhárítási Központ által üzemeltetett pilóta nélküli állami légijármű és rendszer tekintetében a Terrorelhárítási Központ,
+d)[^3] a Terrorelhárítási Központ által üzemeltetett pilóta nélküli állami légijármű és rendszer tekintetében a Terrorelhárítási Központ főigazgatója által kijelölt szervezeti egység,
 
 e) az Országgyűlési Őrség által üzemben tartott pilóta nélküli állami légi jármű esetében az Országgyűlési Őrség parancsnoka által kijelölt szervezeti egység,
 
-f)[^3] az általános rendőrségi feladatok ellátására létrehozott szerv tekintetében annak központi szerve, az egyes feladatok ellátására létrehozott területi szervei, valamint a vármegyei (fővárosi) rendőr-főkapitányságok,
+f)[^4] az általános rendőrségi feladatok ellátására létrehozott szerv tekintetében annak központi szerve, az egyes feladatok ellátására létrehozott területi szervei, valamint a vármegyei (fővárosi) rendőr-főkapitányságok,
 
 g) a Katonai Nemzetbiztonsági Szolgálat által üzemeltetett pilóta nélküli állami légijármű esetében a Katonai Nemzetbiztonsági Szolgálat főigazgatója által kijelölt szervezeti egység,
 
@@ -76,4 +76,5 @@ k) az idegenrendészeti szerv által üzemeltetett pilóta nélküli állami lé
 
 [^1]: Az 1. § 19. pont a) alpontja az 592/2023. (XII. 20.) Korm. rendelet 5. §-a szerint módosított szöveg.
 [^2]: Az 1. § 19. pont b) alpontja a 251/2024. (VIII. 22.) Korm. rendelet 82. §-ával megállapított szöveg.
-[^3]: Az 1. § 19. pont f) alpontja a 409/2022. (X. 24.) Korm. rendelet 26. §-a szerint módosított szöveg.
+[^3]: Az 1. § 19. pont d) alpontja a 395/2024. (XII. 16.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^4]: Az 1. § 19. pont f) alpontja a 409/2022. (X. 24.) Korm. rendelet 26. §-a szerint módosított szöveg.

@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-38-20-2
 | 2023-01-01 | 2021-38-20-22.2 | 409/2022. (X. 24.) Korm. rendelet |
 | 2023-12-21 | 2021-38-20-22.3 | 592/2023. (XII. 20.) Korm. rendelet |
 | 2024-08-30 | 2021-38-20-22.4 | 251/2024. (VIII. 22.) Korm. rendelet |
+| 2024-12-17 | 2021-38-20-22.5 | 395/2024. (XII. 16.) Korm. rendelet |
