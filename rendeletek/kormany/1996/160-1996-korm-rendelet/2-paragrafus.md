@@ -4,8 +4,8 @@ a)[^12] gyűjti, rendszerezi, ellenőrzi és értékeli a védett személy, a ki
 
 b) összehangolja és irányítja a biztosítási feladatok megszervezésében, végrehajtásában közreműködő szervezetek, személyek tevékenységét;
 
-c)[^13] szükség esetén az Rtv. 46. §-ának (1) bekezdésében foglaltakon túlmenően intézkedik a tűzszerészeti, élelmiszerbiztonsági, továbbá a vegyi, biológiai vagy nukleáris veszélyek felderítésére és elhárítására irányuló, valamint az egyéb technikai eszközöket igénylő ellenőrzés lefolytatására.
+c)[^13] szükség esetén az Rtv. 46. § (1) bekezdésében foglaltakon túlmenően – indokolt esetben külföldön is – intézkedik a tűzszerészeti, élelmiszer-biztonsági, továbbá a vegyi, biológiai vagy nukleáris veszélyek felderítésére és elhárítására irányuló, valamint az információvédelmi tevékenység végrehajtása érdekében haditechnikai minősítésű eszközöket igénylő ellenőrzés lefolytatására.
 
 [^11]: A 2. § nyitó szövegrésze a 232/2010. (VIII. 19.) Korm. rendelet 16. § (1) bekezdése, a 102/2012. (V. 18.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
 [^12]: A 2. § a) pontja a 197/1999. (XII. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^13]: A 2. § c) pontja a 165/2017. (VI. 28.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.
+[^13]: A 2. § c) pontja a 395/2024. (XII. 16.) Korm. rendelet 4. §-ával megállapított szöveg.
