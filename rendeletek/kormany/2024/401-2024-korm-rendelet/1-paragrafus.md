@@ -1,0 +1,1 @@
+1. § Hatályát veszti az energiaellátás-biztonság szempontjából stratégiai jelentőségű faalapú nyersanyagok és termékek kivitelével kapcsolatos regisztrációs eljárásról és egyéb intézkedésekről szóló 294/2022. (VIII. 9.) Korm. rendelet.
