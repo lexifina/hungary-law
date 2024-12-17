@@ -10,43 +10,43 @@
 
 | 6. | 10101 | Dologi kiadások szavazókörönként, így különösen – hirdetménnyel és tájékoztató nyomtatvánnyal, – választással összefüggő egyéb dologi kiadásokkal, – szavazóhelyiség kialakításával, ideiglenes akadálymentesítésével, működtetésével, takarításával, – nem állami, nem önkormányzati tulajdonú szavazóhelyiségek bérletével, – a HVI szavazásnapi működésével, – névjegyzék- és jegyzőkönyvnyomtatással kapcsolatos HVI feladatok. | 1 | 120 000 |
 
-| 7. | 10107 | Több településre kiterjedő illetékességgel rendelkező HVI pótelőirányzata, kapcsolódó településenként. A kapcsolt települések szavazásnapi működésével összefüggő kiadások. | 1 | 10 000 |
+| 7. | 10107 | Több településre kiterjedő illetékességgel rendelkező HVI pótelőirányzata érintett, kapcsolt településenként. A kapcsolt települések szavazásnapi működésével összefüggő kiadások. Elmaradó választás esetén nem vehető igénybe. | 1 | 10 000 |
 
 | 8. | 10109 | Szavazásnapi anyagok szállításával kapcsolatos kiadások HVI-nként. | 1 | 30 000 |
 
-| 9. | 105 | Egyéb dologi kiadások utólagos igényléssel, tényleges igénybevétel alapján. |
+| 9. | 105 | Egyéb dologi kiadások utólagos igényléssel, tényleges igénybevétel alapján |
 
 | 10. | 10510 | Az 5. § (6) bekezdése szerinti célhoz kötött összeg |  |  |
 
 | 11. | 2. SZEMÉLYI JUTTATÁSOK |
 
-| 12. | 201 | A szavazatszámláló bizottság (a továbbiakban: SZSZB), illetve a szavazatszedő albizottság tagjának tiszteletdíja. |
+| 12. | 201 | A szavazatszámláló bizottság (a továbbiakban: SZSZB) tagjainak tiszteletdíja. |
 
-| 13. | 20101 | Az SZSZB elnökének [egy szavazókörrel rendelkező településen a helyi választási bizottság (a továbbiakban: HVB) elnökének] díja. | 1 | 66 000 |
+| 13. | 20101 | Az SZSZB elnökének [egy szavazókörrel rendelkező településen a helyi választási bizottság (a továbbiakban: HVB) elnökének] díja. Elmaradó választás esetén nem vehető igénybe. | 1 | 66 000 |
 
-| 14. | 20102 | Az SZSZB (egy szavazókörrel rendelkező településen a HVB) 2 választott tagjának díja. | 2 | 55 000 |
+| 14. | 20102 | Az SZSZB (egy szavazókörrel rendelkező településen a HVB) 2 választott tagjának díja. Elmaradó választás esetén nem vehető igénybe. | 2 | 55 000 |
 
-| 15. | 20103 | Egy szavazókörrel rendelkező település esetén a HVB negyedik és ötödik tagjának díja. | 2 | 55 000 |
+| 15. | 20103 | Egy szavazókörrel rendelkező település esetén a HVB negyedik és ötödik tagjának díja. Elmaradó választás esetén nem vehető igénybe. | 2 | 55 000 |
 
-| 16. | 202 | Az SZSZB (egy szavazókörrel rendelkező településen a HVB), illetve a szavazatszedő albizottság mellett működő jegyzőkönyvvezető díja. |
+| 16. | 202 | Az SZSZB (egy szavazókörrel rendelkező településen a HVB) mellett működő jegyzőkönyvvezető díja. |
 
-| 17. | 20201 | Az SZSZB (egy szavazókörrel rendelkező településen a HVB), illetve a szavazatszedő albizottság mellett működő jegyzőkönyvvezető díja. | 1 | 66 000 |
+| 17. | 20201 | Az SZSZB (egy szavazókörrel rendelkező településen a HVB) mellett működő jegyzőkönyvvezető díja. Elmaradó választás esetén nem vehető igénybe. | 1 | 66 000 |
 
-| 18. | 203 | A HVI tagjának személyi normatívája, kivéve a HVI vezetője. A normatíva a HVI alábbi számú tagjai tekintetében vehető figyelembe (a település választópolgárszáma, több településre kiterjedő illetékességgel rendelkező HVI esetén a települések összesített választópolgárszáma alapján): |
+| 18. | 203 | A HVI tagjainak személyi normatívája, a HVI vezetőjének kivételével. A normatíva a HVI alábbi számú tagjai tekintetében vehető figyelembe (a település választópolgárszáma, több településre kiterjedő illetékességgel rendelkező HVI esetén a települések összesített választópolgárszáma alapján): |
 
-| 19. | 20301 | 8000 választópolgárig | 5 | 90 000 |
+| 19. | 20301 | 8 000 választópolgárig | 5 | 115 000 |
 
-| 20. | 20302 | 8001–40 000 választópolgár | 20 | 90 000 |
+| 20. | 20302 | 8 001–40 000 választópolgárig | 20 | 115 000 |
 
-| 21. | 20303 | 40 001–80 000 választópolgár | 45 | 90 000 |
+| 21. | 20303 | 40 001–80 000 választópolgárig | 45 | 115 000 |
 
-| 22. | 20304 | 80 001–100 000 választópolgár | 60 | 90 000 |
+| 22. | 20304 | 80 001–100 000 választópolgárig | 60 | 115 000 |
 
-| 23. | 20305 | 100 001 választópolgártól | 75 | 90 000 |
+| 23. | 20305 | 100 001 választópolgártól | 75 | 115 000 |
 
 | 24. | 204 | A HVI tagjának többlet személyi normatívája. |
 
-| 25. | 20401 | A HVI tagjának személyi normatívája több településre kiterjedő illetékességgel rendelkező HVI esetében. A HVI figyelembe vehető tagjainak száma minden kapcsolt település után 1 fővel növekszik. | 1 | 90 000 |
+| 25. | 20401 | A HVI tagjának személyi normatívája több településre kiterjedő illetékességgel rendelkező HVI esetében. A HVI figyelembe vehető tagjainak száma minden érintett kapcsolt település után 1 fővel növekszik. | 1 | 115 000 |
 
 | 26. | 207 | További jegyzőkönyvvezető díja a 20201 jogcímen felül utólagos igényléssel, tényleges igénybevétel alapján. |
 
@@ -58,7 +58,7 @@
 
 | 30. | 20704 | A második és minden további, a szavazatszedő albizottság mellett működő további jegyzőkönyvvezető tiszteletdíja, albizottságonként. | 1 | 66 000 |
 
-| 31. | 208 | Az SZSZB-be (egy szavazókörrel rendelkező településen a HVB-be) bevont további választott tagok tiszteletdíja utólagos igényléssel, tényleges igénybevétel alapján. |
+| 31. | 208 | Az SZSZB-be a Ve. 24. § (5)–(6) bekezdése szerint bevont további választott tagok, továbbá az egy szavazókörös település szükség szerint bevont HVB póttagjainak személyi juttatásai, utólagos igényléssel, tényleges igénybevétele alapján |
 
 | 32. | 20801 | Az SZSZB Ve. 24. § (3) bekezdése és 171. §-a alapján szükség szerint bevont választott tagjának tiszteletdíja, szavazókörönként legfeljebb 2 fő. | 1 | 55 000 |
 
@@ -66,7 +66,7 @@
 
 | 34. | 208021 | A Ve. 24. § (5) bekezdése szerint, az SZSZB-be bevont további választott tagok tiszteletdíja választott tagonként, továbbá az egy szavazókörös településen a HVB-be bevont póttagok tiszteletdíja póttagonként a mozgóurnát igénylő választópolgárok száma alapján, 40 és 80 fő között legfeljebb 2 tag, illetve póttag, majd minden további megkezdett 40 fő esetén legfeljebb 2 tag, illetve póttag. | 1 | 55 000 |
 
-| 35. | 208022 | A Ve. 24. § (6) bekezdése szerint az SZSZB-be bevont további választott tagok tiszteletdíja, továbbá az egy szavazókörös településen a HVB-be bevont további póttagok személyi juttatásai: |
+| 35. | 208022 | A Ve. 24. § (6) bekezdése szerint az SZSZB-be bevont további választott tagok, továbbá az egy szavazókörös településen a HVB-be bevont további póttagok személyi juttatásai: |
 
 | 36. | 2080221 | – az átjelentkezéssel szavazásra nem kijelölt szavazókörben 1500 választópolgár felett 1800 választópolgárig 1 fő, majd minden további megkezdett 300 fő esetén legfeljebb 1 fő. | 1 | 55 000 |
 
@@ -84,29 +84,29 @@
 
 | 43. | 301 | Munkaadókat terhelő járulékok és szociális hozzájárulási adó fizetési kötelezettség. |
 
-| 44. | 30101 | Munkaadókat terhelő járulékok és szociális hozzájárulási adó fizetési kötelezettség iroda- és bizottsági tagok díja után. |  |  |
+| 44. | 30101 | Munkaadókat terhelő járulékok és szociális hozzájárulási adó iroda- és bizottsági tagok díja után. |  |  |
 
 | 45. | 30102 | Étkezési ellátás kiadásai után fizetendő munkáltatói teher. |  |  |
 
 | 46. | 302 | Személyi juttatás, valamint ellátási kiadás utólagos igénye után munkaadókat terhelő járulékok és szociális hozzájárulási adó fizetési kötelezettség. |
 
-| 47. | 30201 | Személyi juttatás munkaadókat terhelő járulékok és szociális hozzájárulási adó fizetési kötelezettség. |  |  |
+| 47. | 30201 | Személyi juttatás után munkaadókat terhelő járulékok és szociális hozzájárulási adó. |  |  |
 
 | 48. | 30202 | Étkezési ellátás kiadásai után fizetendő munkáltatói teher. |  |  |
 
 | 49. | 4. ELLÁTÁSI KIADÁSOK |
 
-| 50. | 401 | Étkezési ellátás bruttó kiadásai. |
+| 50. | 401 | Étkezési ellátás bruttó kiadásai |
 
-| 51. | 40101 | Az SZSZB (egy szavazókörrel rendelkező településen a HVB) választott és megbízott tagjainak, valamint a bizottságok mellett működő jegyzőkönyvvezető szavazásnapi ellátási kiadásai. | 1 | 30 000 |
+| 51. | 40101 | Az SZSZB (egy szavazókörrel rendelkező településen a HVB) választott és megbízott tagjainak, valamint a bizottságok mellett működő jegyzőkönyvvezető szavazásnapi ellátási kiadásai. Elmaradó választás esetén nem vehető igénybe. | 1 | 30 000 |
 
-| 52. | 40103 | A HVI vezetőjének és a HVI tagjainak ellátási kiadásai normatív létszám alapján, tagonként. | 1 | 6 000 |
+| 52. | 40103 | A HVI vezetőjének és tagjainak ellátási kiadásai normatív létszám alapján, tagonként. | 1 | 6 000 |
 
-| 53. | 402 | Étkezési ellátás bruttó kiadásai utólagos igényléssel, tényleges igénybevétel alapján. |  |  |
+| 53. | 402 | Étkezési ellátás bruttó kiadásai utólagos igényléssel, tényleges igénybevétel alapján |
 
 | 54. | 40201 | Az SZSZB-be a 20802-es jogcímek szerint bevont további választott tagok ellátási kiadásai választott tagonként. | 1 | 6 000 |
 
-| 55. | 40203 | Az SZSZB (egy szavazókörrel rendelkező településen a HVB) mellett működő további jegyzőkönyvvezető ellátási kiadásai 207 jogcímeihez kapcsolódóan. | 1 | 6 000 |
+| 55. | 40203 | Az SZSZB (egy szavazókörrel rendelkező településen a HVB) mellett működő további jegyzőkönyvvezető ellátási kiadásainak 207 jogcímeihez kapcsolódóan. | 1 | 6 000 |
 
 | 56. | ORSZÁGGYŰLÉSI EGYÉNI VÁLASZTÓKERÜLETI KIADÁSOK |
 
@@ -126,11 +126,11 @@
 
 | 64. | 21101 | Az OEVB választott tagjának tiszteletdíja. | 3 | 81 000 |
 
-| 65. | 212 | Az OEVI tagjának személyi normatívája. |
+| 65. | 212 | Az OEVI tagjainak személyi normatívája. |
 
-| 66. | 21201 | Az OEVI tagjának további személyi normatívája. E normatíva az OEVI legfeljebb 15 tagja tekintetében vehető figyelembe. | 15 | 90 000 |
+| 66. | 21201 | Az OEVI tagjának személyi normatívája. E normatíva az OEVI legfeljebb 15 tagja tekintetében vehető figyelembe. | 15 | 115 000 |
 
-| 67. | 214 | A külképviseleti szavazatok és az átjelentkezők szavazatainak megszámlálására kijelölt SZSZB és jegyzőkönyvvezető díjazása, OEVI részére. |
+| 67. | 214 | A külképviseleti szavazatoknak és az átjelentkezők szavazatainak megszámlálására kijelölt SZSZB és jegyzőkönyvvezető díjazása, OEVI részére. |
 
 | 68. | 21401 | A külképviseleti szavazatok és az átjelentkezők szavazatainak megszámlálására kijelölt SZSZB 3 választott tagjának többletdíja. | 3 | 29 000 |
 
@@ -140,15 +140,15 @@
 
 | 71. | 3. MUNKAADÓT TERHELŐ FIZETÉSI KÖTELEZETTSÉG |
 
-| 72. | 311 | Munkaadókat terhelő járulékok és szociális hozzájárulási adó fizetési kötelezettség OEVI-nél. |  |  |
+| 72. | 311 | Munkaadókat terhelő járulékok és szociális hozzájárulási adó fizetési kötelezettség OEVI-nél. |
 
-| 73. | 31101 | Munkaadókat terhelő járulékok és szociális hozzájárulási adó fizetési kötelezettség OEVI-nél. |  |  |
+| 73. | 31101 | Munkaadókat terhelő járulékok és szociális hozzájárulási adó OEVI-nél. |  |  |
 
-| 74. | 31102 | Étkezési ellátás kiadásai után fizetendő munkáltatói teher. |  |  |
+| 74. | 31102 | Étkezési ellátás költsége után fizetendő munkáltatói teher. |  |  |
 
-| 75. | 312 | Személyi juttatás, valamint ellátási kiadás utólagos igényének munkaadókat terhelő járuléka és szociális hozzájárulási adó fizetési kötelezettség. |  |  |
+| 75. | 312 | Személyi juttatás, valamint ellátási kiadás utólagos igényének munkaadókat terhelő járuléka és szociális hozzájárulási adó fizetési kötelezettség. |
 
-| 76. | 31201 | Személyi juttatás munkaadókat terhelő járulékok és szociális hozzájárulási adó fizetési kötelezettség. |  |  |
+| 76. | 31201 | Személyi juttatás munkaadókat terhelő járulékok és szociális hozzájárulási adó. |  |  |
 
 | 77. | 31202 | Étkezési ellátás kiadásai után fizetendő munkáltatói teher. |  |  |
 
@@ -172,25 +172,25 @@
 
 | 87. | 231 | A HVI vezetőjének díja választópolgárszám függvényében (több településre kiterjedő illetékességgel rendelkező HVI esetén a települések összesített választópolgárszáma alapján). A választási iroda működtetése, választás szakmai felügyelete, a választás lebonyolítása. |
 
-| 88. | 23101 | 8000 választópolgárig | 1 | 160 000 |
+| 88. | 23101 | –8 000 választópolgárig | 1 | 206 000 |
 
-| 89. | 23102 | 8001–40 000 választópolgár | 1 | 210 000 |
+| 89. | 23102 | 8 001–40 000 választópolgárig | 1 | 266 000 |
 
-| 90. | 23103 | 40 001–80 000 választópolgár | 1 | 260 000 |
+| 90. | 23103 | 40 001–80 000 választópolgárig | 1 | 338 000 |
 
-| 91. | 23104 | 80 001–100 000 választópolgár | 1 | 310 000 |
+| 91. | 23104 | 80 001–100 000 választópolgárig | 1 | 411 000 |
 
-| 92. | 23105 | 100 001 választópolgártól | 1 | 360 000 |
+| 92. | 23105 | 100 001 választópolgártól | 1 | 483 000 |
 
 | 93. | 232 | Több településre kiterjedő illetékességgel rendelkező HVI vezetőjének plusz díja. |
 
-| 94. | 23201 | Több településre kiterjedő illetékességgel rendelkező HVI vezetőjének plusz díja kapcsolt településenként. | 1 | 10 000 |
+| 94. | 23201 | Több településre kiterjedő illetékességgel rendelkező HVI vezetőjének plusz díja kapcsolt településenként. | 1 | 13 000 |
 
 | 95. | 233 | Az OEVI vezetőjének további díja. |
 
-| 96. | 23301 | Az OEVI vezetőjének további díja. | 1 | 260 000 |
+| 96. | 23301 | Az OEVI vezetőjének további díja OEVK-nként. | 1 | 260 000 |
 
-| 97. | 234 | A TVI tagok és vezetők díja. |
+| 97. | 234 | TVI vezetőjének és tagjainak díja választási naponként |
 
 | 98. | 23401 | A TVI vezetőjének díja. | 1 | 320 000 |
 
@@ -200,7 +200,7 @@
 
 | 101. | 23404 | A TVI informatikai felelősének díja. | 1 | 160 000 |
 
-| 102. | 23405 | A TVI további 1 tagjának díja. | 1 | 80 000 |
+| 102. | 23405 | A TVI további tagjának díja. | 1 | 80 000 |
 
 | 103. | 236 | A területi választási bizottság (a továbbiakban: TVB) 3 választott tagjának személyi juttatása, utólagos igényléssel, tényleges igénybevétel alapján. |
 
@@ -208,31 +208,25 @@
 
 | 105. | 3. MUNKAADÓT TERHELŐ FIZETÉSI KÖTELEZETTSÉG |
 
-| 106. | 331 | Munkaadókat terhelő járulékok és szociális hozzájárulási adó fizetési kötelezettség TVI-nél. |
+| 106. | 331 | Munkaadókat terhelő járulékok és szociális hozzájárulási adó fizetési kötelezettség a TVI-nél. |
 
-| 107. | 33101 | A HVI vezetők díja utáni munkaadókat terhelő járulékok és szociális hozzájárulási adófizetési kötelezettség. |  |  |
+| 107. | 33101 | HVI vezetőinek díja utáni munkaadókat terhelő járulékok és szociális hozzájárulási adó. |  |  |
 
-| 108. | 33102 | Az OEVI vezetők további díja utáni munkaadókat terhelő járulékok és szociális hozzájárulási adófizetési kötelezettség. |  |  |
+| 108. | 33102 | OEVI vezető további díja utáni munkaadókat terhelő járulékok és szociális hozzájárulási adó. |  |  |
 
-| 109. | 33103 | A TVI vezető díja utáni munkaadókat terhelő járulékok és szociális hozzájárulási adófizetési kötelezettség. |  |  |
+| 109. | 33103 | TVI vezető díja utáni munkaadókat terhelő járulékok és szociális hozzájárulási adó. |  |  |
 
-| 110. | 33104 | A TVI tagjainak díja utáni munkaadókat terhelő járulékok és szociális hozzájárulási adófizetési kötelezettség. |  |  |
+| 110. | 33104 | TVI tag díja utáni munkaadókat terhelő járulékok és szociális hozzájárulási adó. |  |  |
 
 | 111. | 33105 | Étkezési ellátás kiadásai után fizetendő munkáltatói teher. |  |  |
 
 | 112. | 332 | Személyi juttatás, valamint ellátási kiadás utólagos igénye után munkaadókat terhelő járulékok és szociális hozzájárulási adó fizetési kötelezettség. |
 
-| 113. | 33201 | Munkaadókat terhelő járulékok és szociális hozzájárulási adó fizetési kötelezettség TVB tagjainak díja után. |  |  |
+| 113. | 33201 | Munkaadókat terhelő járulékok és szociális hozzájárulási adó TVB tagok díja után. |  |  |
 
 | 114. | 33202 | Étkezési ellátás után fizetendő munkáltatói teher. |  |  |
 
-| 115. | 4. ELLÁTÁSI KIADÁSOK |
-
-| 116. | 432 | Étkezési ellátás bruttó kiadásai utólagos igényléssel, tényleges igénybevétel alapján. |
-
-| 117. | 43201 | A TVB választott és megbízott tagjainak választási ellátási kiadása vármegyénként. | 1 | 30 000 |
-
-2. melléklet a 3/2024. (III. 11.) IM rendelethez
+2. melléklet a 3/2024. (III. 11.) IM rendelethez[^12]
 
 Tételek és normatívák az országgyűlési képviselők időközi választásán a megismételt szavazáson
 
@@ -246,27 +240,27 @@ Tételek és normatívák az országgyűlési képviselők időközi választás
 
 | 5. | 101 | Kiadások a szavazás napján és azt megelőzően. |
 
-| 6. | 10101 | Dologi kiadások szavazókörönként, így különösen – hirdetménnyel és tájékoztató nyomtatvánnyal, – választással összefüggő egyéb dologi kiadásokkal, – szavazóhelyiség kialakításával, ideiglenes akadálymentesítésével, működtetésével, takarításával, – nem állami, nem önkormányzati tulajdonú szavazóhelyiségek bérletével, – a HVI szavazásnapi működésével, – névjegyzék- és jegyzőkönyv nyomtatással kapcsolatos HVI feladatok. | 1 | 120 000 |
+| 6. | 10101 | Dologi kiadások szavazókörönként, így különösen – hirdetménnyel és tájékoztató nyomtatvánnyal, – választással összefüggő egyéb dologi kiadásokkal, – szavazóhelyiség kialakításával, ideiglenes akadálymentesítésével, működtetésével, takarításával, – nem állami, nem önkormányzati tulajdonú szavazóhelyiségek bérletével, – a HVI szavazásnapi működésével, – névjegyzék- és jegyzőkönyvnyomtatással kapcsolatos HVI feladatok. | 1 | 120 000 |
 
 | 7. | 10109 | Szavazásnapi anyagok szállításával kapcsolatos kiadások HVI-nként. | 1 | 30 000 |
 
-| 8. | 105 | Egyéb dologi kiadások utólagos igényléssel, tényleges igénybevétel alapján. |  |  |
+| 8. | 105 | Egyéb dologi kiadások utólagos igényléssel, tényleges igénybevétel alapján |
 
-| 9. | 10510 | Az 5. § (6) bekezdése szerinti célhoz kötött összeg. |  |  |
+| 9. | 10510 | Az 5. § (6) bekezdése szerinti célhoz kötött összeg |  |  |
 
 | 10. | 2. SZEMÉLYI JUTTATÁSOK |
 
-| 11. | 201 | Az SZSZB, illetve a szavazatszedő albizottság tagjának tiszteletdíja. |
+| 11. | 201 | A szavazatszámláló bizottság (a továbbiakban: SZSZB), illetve a szavazatszedő albizottság tagjának tiszteletdíja. |
 
-| 12. | 20101 | Az SZSZB elnökének (egy szavazókörrel rendelkező településen a HVB elnökének) díja. | 1 | 66 000 |
+| 12. | 20101 | Az SZSZB elnökének [egy szavazókörrel rendelkező településen a helyi választási bizottság: (a továbbiakban: HVB) elnökének] díja. Elmaradó választás esetén nem vehető igénybe. | 1 | 66 000 |
 
-| 13. | 20102 | Az SZSZB (egy szavazókörrel rendelkező településen a HVB) 2 választott tagjának díja. | 2 | 55 000 |
+| 13. | 20102 | Az SZSZB (egy szavazókörrel rendelkező településen a HVB) 2 választott tagjának díja. Elmaradó választás esetén nem vehető igénybe. | 2 | 55 000 |
 
-| 14. | 20103 | Egy szavazókörrel rendelkező település esetén a HVB negyedik és ötödik tagjának díja. | 2 | 55 000 |
+| 14. | 20103 | Egy szavazókörrel rendelkező település esetén a HVB negyedik és ötödik tagjának díja. Elmaradó választás esetén nem vehető igénybe. | 2 | 55 000 |
 
-| 15. | 202 | Az SZSZB (egy szavazókörrel rendelkező településen a HVB), illetve a szavazatszedő albizottság mellett működő jegyzőkönyvvezető díja. |
+| 15. | 202 | Az SZSZB (egy szavazókörrel rendelkező településen a HVB) mellett működő jegyzőkönyvvezető díja. |
 
-| 16. | 20201 | Az SZSZB (egy szavazókörrel rendelkező településen a HVB), illetve a szavazatszedő albizottság mellett működő jegyzőkönyvvezető díja. | 1 | 66 000 |
+| 16. | 20201 | Az SZSZB (egy szavazókörrel rendelkező településen a HVB) mellett működő jegyzőkönyvvezető díja. | 1 | 66 000 |
 
 | 17. | 207 | További jegyzőkönyvvezető díja a 20201 jogcímen felül utólagos igényléssel, tényleges igénybevétel alapján. |
 
@@ -284,7 +278,7 @@ Tételek és normatívák az országgyűlési képviselők időközi választás
 
 | 24. | 20802 | Az SZSZB-be a 20801 jogcímen felül bevont további választott tagok személyi juttatásai a Ve. 24. § (5)–(6) bekezdése szerint, tényleges igénybevétel alapján, utólagos igényléssel. |
 
-| 25. | 208021 | A Ve. 24. § (5) bekezdése szerint, az SZSZB-be bevont további választott tagok tiszteletdíja választott tagonként, továbbá az egy szavazókörös településen a HVB-be bevont póttagok tiszteletdíja póttagonként a mozgóurnát igénylő választópolgárok száma alapján, 40 és 80 fő között legfeljebb 2 tag, illetve póttag, majd minden további megkezdett 40 fő esetén legfeljebb 2 tag, illetve póttag. | 1 | 55 000 |
+| 25. | 208021 | Ve. 24. § (5) bekezdése szerint, az SZSZB-be bevont további választott tagok tiszteletdíja választott tagonként, továbbá az egy szavazókörös településen a HVB-be bevont póttagok tiszteletdíja póttagonként a mozgóurnát igénylő választópolgárok száma alapján, 40 és 80 fő között legfeljebb 2 tag, illetve póttag, majd minden további megkezdett 40 fő esetén legfeljebb 2 tag, illetve póttag. | 1 | 55 000 |
 
 | 26. | 208022 | A Ve. 24. § (6) bekezdése szerint az SZSZB-be bevont további választott tagok tiszteletdíja, továbbá az egy szavazókörös településen a HVB-be bevont további póttagok személyi juttatásai: |
 
@@ -292,7 +286,7 @@ Tételek és normatívák az országgyűlési képviselők időközi választás
 
 | 28. | 2080222 | – az átjelentkezéssel szavazásra kijelölt szavazókörben – amennyiben nem a Ve. 257/A. § (1) bekezdés a) vagy b) pontja szerint bonyolítják a szavazást – 1500 választópolgár felett 1800 választópolgárig 1 fő, 1801–2000 választópolgárig legfeljebb további 1 fő. | 1 | 55 000 |
 
-| 29. | 2080223 | – a Ve. 257/A. § (1) bekezdés a) pontja szerint, a szavazóhelyiségen belüli külön helyszínen lebonyolított választások esetében második és további helyszínenként legfeljebb 3 fő. | 1 | 55 000 |
+| 29. | 2080223 | – Ve. 257/A. § (1) bekezdés a) pontja szerint, a szavazóhelyiségen belüli külön helyszínen lebonyolított választások esetében második és további helyszínenként legfeljebb 3 fő. | 1 | 55 000 |
 
 | 30. | 2080224 | – a második és minden további szavazatszedő albizottság 3 választott szavazatszámláló bizottsági tagjának tiszteletdíja. | 1 | 55 000 |
 
@@ -310,7 +304,7 @@ Tételek és normatívák az országgyűlési képviselők időközi választás
 
 | 37. | 302 | Személyi juttatás, valamint ellátási kiadás utólagos igénye után munkaadókat terhelő járulékok és szociális hozzájárulási adó fizetési kötelezettség. |
 
-| 38. | 30201 | Személyi juttatás munkaadókat terhelő járulékok és szociális hozzájárulási adó fizetési kötelezettség. |  |  |
+| 38. | 30201 | Személyi juttatás munkaadókat terhelő járulékok és szociális hozzájárulási adó. |  |  |
 
 | 39. | 30202 | Étkezési ellátás kiadásai után fizetendő munkáltatói teher. |  |  |
 
@@ -318,12 +312,14 @@ Tételek és normatívák az országgyűlési képviselők időközi választás
 
 | 41. | 401 | Étkezési ellátás bruttó kiadásai. |
 
-| 42. | 40101 | Az SZSZB (egy szavazókörrel rendelkező településen a HVB) választott és megbízott tagjainak, valamint a bizottságok mellett működő jegyzőkönyvvezető szavazásnapi ellátási kiadásai. | 1 | 30 000 |
+| 42. | 40101 | Az SZSZB (egy szavazókörrel rendelkező településen a HVB) választott és megbízott tagjainak, valamint a bizottságok mellett működő jegyzőkönyvvezető szavazásnapi ellátási kiadásai. Elmaradó választás esetén nem vehető igénybe. | 1 | 30 000 |
 
 | 43. | 40103 | A HVI vezetőjének és a HVI tagjainak ellátási kiadásai normatív létszám alapján, tagonként. | 1 | 6 000 |
 
-| 44. | 402 | Étkezési ellátás bruttó kiadásai utólagos igényléssel, tényleges igénybevétel alapján. |  |  |
+| 44. | 402 | Étkezési ellátás bruttó kiadásai utólagos igényléssel, tényleges igénybevétel alapján. |
 
 | 45. | 40201 | Az SZSZB-be a 20802-es jogcímek szerint bevont további választott tagok ellátási kiadásai választott tagonként. | 1 | 6 000 |
 
 | 46. | 40203 | Az SZSZB (egy szavazókörrel rendelkező településen a HVB) mellett működő további jegyzőkönyvvezető ellátási kiadásai 207 jogcímeihez kapcsolódóan. | 1 | 6 000 |
+
+[^12]: A 2. melléklet a 23/2024. (XII. 16.) IM rendelet 14. §-ával megállapított szöveg.

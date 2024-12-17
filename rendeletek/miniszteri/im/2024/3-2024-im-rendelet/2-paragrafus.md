@@ -6,7 +6,7 @@ b) a nem normatív kiadások tekintetében az NVI elnökének az egyéb szerv ve
 
 szolgál.
 
-(2) Az (1) bekezdés b) pontja szerinti megállapodást az érintettek az államháztartásról szóló törvény rendelkezéseinek megfelelően, de legkésőbb a szavazás napját megelőző harmincadik napig kötik meg.
+(2)[^2] Az (1) bekezdés b) pontja szerinti megállapodást az érintettek az államháztartásról szóló törvény rendelkezéseinek megfelelően, legkésőbb a szavazás napját megelőző huszadik napig kötik meg.
 
 (3) A pénzügyi fedezet számításánál a választópolgárok számát
 
@@ -18,6 +18,9 @@ kell megállapítani.
 
 (4) Megismételt szavazás esetén a szavazásban érintett választási szervek részére a 2. melléklet szerinti normatívákat kell biztosítani a megismételt szavazásban érintett szavazóköri, választókerületi, települési adatok szerint.
 
-(5) Az NVI elnöke az (1) bekezdés a) pontja, valamint a (3)–(4) bekezdés szerint számított pénzügyi fedezetről támogatói okiratban értesíti a választási irodát. Az NVI elnöke a támogatói okiratot a szavazás napját megelőző huszonhetedik napig, megismételt szavazás esetén a szavazás napját megelőző negyedik napig a választás pénzügyi lebonyolítását támogató informatikai rendszerben (a továbbiakban: informatikai rendszer) küldi meg a választási iroda vezetőjének.
+(5)[^3] Az NVI elnöke az (1) bekezdés a) pontja, valamint a (3)–(4) bekezdés szerint számított pénzügyi fedezetről támogatói okiratban értesíti a választási irodát. Az NVI elnöke a támogatói okiratot a szavazás napját megelőző huszadik napig, megismételt szavazás esetén a szavazás napját megelőző negyedik napig a választás pénzügyi lebonyolítását támogató informatikai rendszerben (a továbbiakban: informatikai rendszer) küldi meg a választási iroda vezetőjének.
 
 (6) Kötelezettségvállalásra a támogatott tevékenység időtartama alatt, a választás kitűzésétől kerülhet sor.
+
+[^2]: A 2. § (2) bekezdése a 23/2024. (XII. 16.) IM rendelet 9. §-ával megállapított szöveg.
+[^3]: A 2. § (5) bekezdése a 23/2024. (XII. 16.) IM rendelet 15. §-a szerint módosított szöveg.
