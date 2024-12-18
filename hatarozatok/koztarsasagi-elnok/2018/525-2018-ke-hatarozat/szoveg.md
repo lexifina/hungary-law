@@ -2,4 +2,4 @@ Az Alaptörvény 9. cikk (3) bekezdés k) pontja, valamint a bírák jogállás�
 
 KEH ügyszám: KEH/05203-11/2018.
 
-[^1]: A 643/2021. (XII. 22.) KE határozat alapján a köztársasági elnök dr. Péter-Sztankó Ágnes Márta bírói kinevezését a 2022. január 1. napjától 2024. december 31. napjáig terjedő időtartamra meghosszabbította.
+[^1]: A 310/2024. (XII. 18.) KE határozat alapján a köztársasági elnök dr. Péter-Sztankó Ágnes Márta bírói kinevezését a 2025. január 1. napjától 2027. december 31. napjáig terjedő időtartamra meghosszabbította.
