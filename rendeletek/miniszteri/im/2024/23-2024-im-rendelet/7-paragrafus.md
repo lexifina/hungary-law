@@ -1,1 +1,3 @@
-7. § Az R1. 7. § (4) bekezdésében az „(1)–(3)” szövegrész helyébe az „(1) és (2)” szöveg lép.
+7. §[^8]
+
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

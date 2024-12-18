@@ -1,3 +1,3 @@
-4. § Az R1. a következő 9/A. §-sal egészül ki:
+4. §[^5]
 
-„9/A. § A HVI a szavazás napját követő huszonöt napon belül beszámolót készít a TVI vezetője számára a képviselő-testület, közgyűlés feloszlásának kimondása vagy feloszlatása miatt tartott időközi választás, továbbá a helyi népszavazás költségeinek felhasználásáról.”
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

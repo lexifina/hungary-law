@@ -1,3 +1,3 @@
-12. § Az R2. 8. § (4) bekezdése helyébe a következő rendelkezés lép:
+12. §[^13]
 
-„(4) Az 5. § (2)–(4) bekezdése szerinti – HVI-t és az OEVI-t megillető – többlettámogatások, többletkiadások indokoltságát a TVI tételesen vizsgálja és hagyja jóvá.”
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

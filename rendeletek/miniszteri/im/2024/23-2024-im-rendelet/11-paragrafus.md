@@ -1,3 +1,3 @@
-11. § Az R2. 5. § (5) bekezdése helyébe a következő rendelkezés lép:
+11. §[^12]
 
-„(5) A HVI, az OEVI és a TVI a (2) bekezdésben foglaltakon felüli többletkiadásainak, valamint a (3) bekezdés szerinti indokolt kifizetéseinek, illetve kötelezettségvállalásainak az elszámolásban való érvényesítését a TVI vezetője legkésőbb a szavazás napját követő tizenöt napon belül kezdeményezi az NVI elnökénél. A kérelemről az NVI elnöke a kezdeményezés átvételétől számított öt munkanapon belül dönt. Ha a kérelem elbírálására határidőben nem kerül sor, a határidő leteltét követő napon a kérelmet elfogadottnak kell tekinteni.”
+[^12]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

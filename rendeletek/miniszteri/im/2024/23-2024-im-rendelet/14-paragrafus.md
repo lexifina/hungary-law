@@ -1,1 +1,3 @@
-14. § Az R2. 1. és 2. melléklete helyébe a 10. és 11. melléklet lép.
+14. §[^15]
+
+[^15]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

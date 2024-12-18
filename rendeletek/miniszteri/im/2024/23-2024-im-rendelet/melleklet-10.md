@@ -1,31 +1,3 @@
-## „9. melléklet a 6/2021. (VIII. 31.) IM rendelethez
+10. melléklet a 23/2024. (XII. 16.) IM rendelethez[^27]
 
-## A helyi önkormányzati képviselők és polgármesterek időközi választására, a nemzetiségi önkormányzati képviselők időközi választására, valamint a helyi népszavazásra központilag biztosított kellékek és szolgáltatások jogcímei
-
-| 1. | Jogcím |
-
-| 2. | Név |
-
-| 3. | KÖZPONTI KIADÁSOK |
-
-| 4. | DOLOGI KIADÁSOK |
-
-| 5. | Értesítők nyomtatása, megszemélyesítése és borítékolása, választópolgáronként. |
-
-| 6. | Értesítők kézbesítése, választópolgáronként. |
-
-| 7. | Urnacsomagok előállítása, összeállítása, szállítása szavazókörönként. |
-
-| 8. | Szavazólapok, választópolgáronként és szavazólapfajtánként (120 választópolgárig +50% tartalékkal, 121–500 választópolgár között +20% tartalékkal) |
-
-| 9. | Boríték szavazólaphoz választópolgáronként (120 választópolgárig +50% tartalékkal, 121–500 választópolgár között +20% tartalékkal) |
-
-| 10. | Szavazásnapi nyomtatványok és kellékek előállítása, szavazókörönként. |
-
-| 11. | Braille-írással készült értesítő borítékkal választópolgáronként. |
-
-| 12. | Braille-írással ellátott szavazósablon és tájékoztató szavazáshoz választópolgáronként, szavazólap fajtánként. |
-
-## ”
-
-10. melléklet a 23/2024. (XII. 16.) IM rendelethez
+[^27]: A 10. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

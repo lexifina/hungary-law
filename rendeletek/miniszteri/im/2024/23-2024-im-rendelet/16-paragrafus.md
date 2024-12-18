@@ -1,1 +1,3 @@
-16. § Hatályát veszti az R2. 6. § (3) bekezdésében a „külképviseleti” szövegrész.
+16. §[^17]
+
+[^17]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
