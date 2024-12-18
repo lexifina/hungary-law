@@ -1,3 +1,3 @@
-1. § A történelmi emlékhelyekről szóló 303/2011. (XII. 23.) Korm. rendelet (a továbbiakban: R.) a következő 3. §-sal egészül ki:
+1. §[^2]
 
-„3. § E rendeletnek a történelmi emlékhelyekről szóló 303/2011. (XII. 23.) Korm. rendelet módosításáról szóló 396/2024. (XII. 16.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 1. mellékletében foglalt táblázatát a Módr. hatálybalépésekor folyamatban lévő támogatási ügyekben is alkalmazni kell.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
