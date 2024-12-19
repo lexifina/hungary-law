@@ -638,6 +638,32 @@
 
 10. melléklet a 87/2015. (IV. 9.) Korm. rendelethez[^401]
 
+## A mikrotanúsítvány kötelező tartalmi elemei:
+
+1. a mikrotanúsítvány elnevezés,
+
+2. a mikrotanúsítvány tulajdonosának neve, születési neve, születésének helye és ideje,
+
+3. a mikrotanúsítványhoz vezető képzés megnevezése,
+
+4. a mikrotanúsítványt kiállító felsőoktatási intézmény neve,
+
+5. arra történő utalás, hogy a kiállító felsőoktatási intézmény a magyar felsőoktatási jog szerint működik,
+
+6. a mikrotanúsítványhoz vezető képzéssel elért tanulási eredmények,
+
+7. a tanulási eredmények eléréséhez szükséges kreditek száma,
+
+8. a mikrotanúsítvány MKKR és EKKR szintje,
+
+9. a tudásmérés módja,
+
+10. a mikrotanúsítványhoz vezető képzésben való részvétel módja,
+
+11. a mikrotanúsítványhoz vezető képzés minőségbiztosításának módja,
+
+12. a mikrotanúsítvány kiállításának helye, éve, hónapja, napja.
+
 [^374]: A 9. melléklet 1. pont 1.1. alpontja a 407/2017. (XII. 15.) Korm. rendelet 40. § (3) bekezdése, a 191/2019. (VII. 30.) Korm. rendelet 69. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^375]: A 9. melléklet 1. pont 1.2. alpontja a 191/2019. (VII. 30.) Korm. rendelet 69. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^376]: A 9. melléklet 1. pont 1.3. alpontja a 407/2017. (XII. 15.) Korm. rendelet 40. § (3) bekezdése, a 191/2019. (VII. 30.) Korm. rendelet 69. § (2) bekezdés b) pontja szerint módosított szöveg.
@@ -665,4 +691,4 @@
 [^398]: A 9. melléklet 6. pont 6.13. alpontját a 345/2015. (XI. 19.) Korm. rendelet 88. § (5) bekezdése iktatta be, szövege a 610/2023. (XII. 22.) Korm. rendelet 45. § (3) bekezdésével megállapított szöveg.
 [^399]: A 9. melléklet 7. pontja a 610/2023. (XII. 22.) Korm. rendelet 46. § 40. pontja szerint módosított szöveg.
 [^400]: A 9. melléklet 7. pont 1. alpont 1.4. pontja a 191/2019. (VII. 30.) Korm. rendelet 69. § (2) bekezdés e) pontja szerint módosított szöveg.
-[^401]: A 10. mellékletet a 345/2015. (XI. 19.) Korm. rendelet 88. § (6) bekezdése iktatta be, hatályon kívül helyezte a 276/2022. (VII. 29.) Korm. rendelet 3. §-a.
+[^401]: A 10. mellékletet újonnan a 406/2024. (XII. 18.) Korm. rendelet 22. §-a iktatta be.
