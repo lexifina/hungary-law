@@ -1,3 +1,3 @@
-## Közös rendelkezések[^74]
+## Közös rendelkezések[^75]
 
-[^74]: A 13/A. §-t megelőző alcímet a 457/2017. (XII. 28.) Korm. rendelet 220. § (7) bekezdése iktatta be.
+[^75]: A 13/A. §-t megelőző alcímet a 457/2017. (XII. 28.) Korm. rendelet 220. § (7) bekezdése iktatta be.

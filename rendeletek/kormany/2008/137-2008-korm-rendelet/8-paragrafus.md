@@ -1,5 +1,3 @@
-## 7. §[^37]
-
 ## A vizsgaközpontok és vizsgarendszerek akkreditálása
 
 8. § (1)[^38] Az a vizsgaközpont akkreditálható, amely
@@ -40,7 +38,6 @@ b) a vizsgázó és a vizsgaközpont között folyamatos informatikai kapcsolat 
 
 c) a vizsgát olyan módon szervezik meg, amely kizárja, hogy a vizsgázó más személy segítségét vagy az adott vizsgán igénybe nem vehető segítséget vegyen igénybe.
 
-[^37]: A 7. §-t és az azt megelőző alcím címét a 33/2014. (II. 18.) Korm. rendelet 15. §-a hatályon kívül helyezte.
 [^38]: A 8. § (1) bekezdése a 33/2014. (II. 18.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^39]: A 8. § (2) bekezdés b) pontja a 33/2014. (II. 18.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
 [^40]: A 8. § (2) bekezdés c) pontja a 33/2014. (II. 18.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
