@@ -8,6 +8,8 @@ A Kormány
 
 4. elfogadja az „Az Európai Unió számára készített köznevelési stratégia 2021–2030 Intézkedési terve a 2021–2024 közötti időszakra” című dokumentumot;
 
+4a.[^1] egyetért azzal, hogy „Az Európai Unió számára készített köznevelési stratégia 2021–2030 Intézkedési terve a 2021–2024 közötti időszakra” című dokumentum végrehajtása a 2025–2028. évekre vonatkozó Intézkedési Tervről szóló kormányhatározat hatálybalépéséig, de legkésőbb 2025. június 30-áig történjen meg;
+
 5. egyetért az Európai Unió számára készített, az „A nők szerepének erősítése a családban és a társadalomban” (2021–2030) akcióterv elfogadásáról, valamint a végrehajtásának a 2021−2022. évekre szóló Intézkedési Tervéről szóló 1685/2020. (X. 22.) Korm. határozat és az Európai Unió számára készített, az „A nők szerepének erősítése a családban és a társadalomban” (2021–2030) akcióterv módosításáról, valamint a 2023–2024. évekre szóló Intézkedési Terv végrehajtásának elfogadásáról szóló 1516/2022. (X. 28.) Korm. határozat [a továbbiakban: 1516/2022. (X. 28.) Korm. határozat] szerinti intézkedési terv módosításával;
 
 6. egyetért az 1516/2022. (X. 28.) Korm. határozat szerinti akcióterv módosításával, az alábbi szempontok szerint:
@@ -171,3 +173,5 @@ A Kormány
 9.3. a korai iskolalehagyás és a lemorzsolódás fogalmak definíció szinten történő elkülönítése,
 
 9.4. a nyilvánossá tétel beépítése a monitoring tevékenységek közé.
+
+[^1]: A 4a. pontot az 1408/2024. (XII. 18.) Korm. határozat 4. pontja iktatta be.
