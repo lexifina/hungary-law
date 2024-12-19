@@ -1,9 +1,9 @@
-## 11.[^64]
+## 11.[^58]
 
-34. § (1)[^65]
+34. § (1)[^59]
 
-(2)[^66]
+(2)[^60]
 
-[^64]: A 11. alcímet a 221/2014. (IX. 4.) Korm. rendelet 635. §-a hatályon kívül helyezte.
-[^65]: A 34. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^66]: A 34. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^58]: A 11. alcímet a 221/2014. (IX. 4.) Korm. rendelet 635. §-a hatályon kívül helyezte.
+[^59]: A 34. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^60]: A 34. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
