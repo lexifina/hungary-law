@@ -1,6 +1,6 @@
-14. §[^8]
+14. §[^9] E rendeletnek a civil szervezetek gazdálkodása, az adománygyűjtés és a közhasznúság egyes kérdéseiről szóló 350/2011. (XII. 30.) Korm. rendelet módosításáról szóló 404/2024. (XII. 18.) Korm. rendelettel (a továbbiakban: Módr1.) módosított 6. §-át a Módr1. hatálybalépésekor[^10] folyamatban lévő ügyekben is alkalmazni kell.
 
-Melléklet a 350/2011. (XII. 30.) Korm. rendelethez[^9]
+Melléklet a 350/2011. (XII. 30.) Korm. rendelethez[^11]
 
 Közhasznúsági melléklet – minta –
 
@@ -88,5 +88,6 @@ Közhasznúsági melléklet – minta –
 
 * Adatok ezer forintban.
 
-[^8]: A 14. §-t a 437/2021. (VII. 16.) Korm. redelet 1. §-a hatályon kívül helyezte.
-[^9]: A melléklet a 142/2012. (VII. 3.) Korm. rendelet 10. § (4) bekezdésével megállapított, a 88/2014. (III. 20.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^9]: A 14. §-t a 437/2021. (VII. 16.) Korm. redelet 1. §-a hatályon kívül helyezte, újonnan a 404/2024. (XII. 18.) Korm. rendelet 2. §-a iktatta be.
+[^10]: A hatálybalépés időpontja 2024. december 19.
+[^11]: A melléklet a 142/2012. (VII. 3.) Korm. rendelet 10. § (4) bekezdésével megállapított, a 88/2014. (III. 20.) Korm. rendelet 2. §-a szerint módosított szöveg.

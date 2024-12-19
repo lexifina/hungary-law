@@ -1,1 +1,0 @@
-## 6. § Adomány juttatása esetén nem minősül ellenszolgáltatásnak a juttatáskor az adományozott által adott dolog vagy szolgáltatás, melynek értéke nem haladja meg a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 70. § (2a) bekezdésében meghatározott mértéket.
