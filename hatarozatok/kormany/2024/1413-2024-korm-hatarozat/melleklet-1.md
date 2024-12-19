@@ -18,56 +18,11 @@
 
 | Határidő: | az e határozat közzétételét követő 90 napon belül |
 
-## 9. A Környezeti és Energiahatékonysági Operatív Program Plusz éves fejlesztési keretének megállapításáról szóló 1527/2023. (XII. 1.) Korm. határozat [a továbbiakban: 1527/2023. (XII. 1.) Korm. határozat] 1. mellékletében foglalt táblázat
+## 9.[^1]
 
-## a) C:5 mezőjében az „54,23” szövegrész helyébe az „54,56” szöveg,
-
-## b) C:7 mezőjében a „34,02” szövegrész helyébe a „35,01” szöveg,
-
-## c) C:11 mezőjében a „6,34” szövegrész helyébe a „6,44” szöveg
-
-## lép.
-
-## 10. Az 1527/2023. (XII. 1.) Korm. határozat 2. mellékletében foglalt táblázat
-
-## a) D:24 mezőjében a „0,38” szövegrész helyébe a „0,44” szöveg,
-
-## b) D:26 mezőjében a „0,38” szövegrész helyébe a „0,46” szöveg,
-
-## c) E:26 mezőjében a „0,06” szövegrész helyébe a „0,07” szöveg,
-
-## d) D:32 mezőjében a „0,16” szövegrész helyébe a „0,26” szöveg,
-
-## e) D:37 mezőjében a „0,85” szövegrész helyébe a „0,97” szöveg,
-
-## f) E:37 mezőjében a „0,07” szövegrész helyébe a „0,08” szöveg,
-
-## g) D:38 mezőjében az „1,59” szövegrész helyébe a „2,00” szöveg,
-
-## h) E:38 mezőjében a „0,11” szövegrész helyébe a „0,14” szöveg,
-
-## i) D:39 mezőjében az „1,74” szövegrész helyébe a „2,15” szöveg,
-
-## j) E:39 mezőjében a „0,15” szövegrész helyébe a „0,18” szöveg,
-
-## k) D:52 mezőjében a „0,56” szövegrész helyébe a „0,91” szöveg,
-
-## l) E:52 mezőjében a „0,07” szövegrész helyébe a „0,11” szöveg,
-
-## m) D:54 mezőjében a „0,04” szövegrész helyébe a „0,07” szöveg,
-
-## n) D:67 mezőjében a „0,35” szövegrész helyébe a „0,46” szöveg,
-
-## o) E:67 mezőjében a „0,07” szövegrész helyébe a „0,10” szöveg,
-
-## p) D:79 mezőjében a „0,49” szövegrész helyébe a „0,50” szöveg,
-
-## q) D:87 mezőjében az „1,69” szövegrész helyébe a „2,32” szöveg,
-
-## r) D:88 mezőjében a „2,86” szövegrész helyébe a „3,22” szöveg,
-
-## s) D:188 mezőjében a „2,56” szövegrész helyébe a „2,66” szöveg
-
-## lép.
+## 10.[^2]
 
 1. melléklet az 1413/2024. (XII. 18.) Korm. határozathoz
+
+[^1]: A 9. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 10. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
