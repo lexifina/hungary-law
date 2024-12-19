@@ -1,4 +1,4 @@
-1. melléklet a 29/2017. (VII. 25.) NFM rendelethez[^9]
+1. melléklet a 29/2017. (VII. 25.) NFM rendelethez[^11]
 
 |  | A | B |
 
@@ -28,4 +28,4 @@
 
 | 13. | A 3–11. pontban nem szereplő vizsgálatok esetében a díjat a következő módon kell meghatározni: a vizsgálatra fordított idő és az itt meghatározott mérnöki óradíj szorzata, hozzáadva a felhasznált anyagköltséget. | 5 420 |
 
-[^9]: Az 1. melléklet a 12/2024. (VII. 12.) IM rendelet 5. §-ával megállapított szöveg.
+[^11]: Az 1. melléklet a 12/2024. (VII. 12.) IM rendelet 5. §-ával megállapított szöveg.
