@@ -1,3 +1,3 @@
-17. §[^53]
+17. §[^54]
 
-[^53]: A 17. §-t a 196/2019. (VIII. 1.) Korm. rendelet 11. §-a hatályon kívül helyezte.
+[^54]: A 17. §-t a 196/2019. (VIII. 1.) Korm. rendelet 11. §-a hatályon kívül helyezte.
