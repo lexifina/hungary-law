@@ -1,3 +1,3 @@
-7/B. §[^42]
+7/B. §[^43]
 
-[^42]: A 7/B. §-t a 661/2020. (XII. 24.) Korm. rendelet 22. § b) pontja hatályon kívül helyezte.
+[^43]: A 7/B. §-t a 661/2020. (XII. 24.) Korm. rendelet 22. § b) pontja hatályon kívül helyezte.

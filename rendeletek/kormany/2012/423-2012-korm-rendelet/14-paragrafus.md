@@ -2,7 +2,7 @@
 
 14. § (1) Felsőoktatási szakképzésre történő jelentkezés esetén a 15–24. §-ban foglalt rendelkezéseket e §-ban foglalt eltérésekkel kell alkalmazni.
 
-(2)[^97] A felsőoktatási szakképzésre történő jelentkezés esetén a jelentkező teljesítményét az alábbiak szerint kiszámított felvételi pontszámmal kell értékelni:
+(2)[^101] A felsőoktatási szakképzésre történő jelentkezés esetén a jelentkező teljesítményét az alábbiak szerint kiszámított felvételi pontszámmal kell értékelni:
 
 a) a középiskolai teljesítmény alapján kapott pontok (a továbbiakban: tanulmányi pontok) kétszerezésével,
 
@@ -16,7 +16,7 @@ mindhárom esetben a felsőoktatási intézmény által meghatározott intézmé
 
 (4) A felsőoktatási szakképzésre jelentkezők érettségi pontját – ha a felsőoktatási intézmény a 6. § (1) bekezdése alapján másként nem rendelkezik – az érettségi bizonyítványában, illetve a tanúsítványaiban szereplő érettségi vizsgatárgyak közül a két legjobbnak a százalékos eredménye alapján kell megállapítani.
 
-(5)[^98]
+(5)[^102]
 
-[^97]: A 14. § (2) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 40. §-ával megállapított, záró szövegrésze a 339/2022. (IX. 7.) Korm. rendelet 22. § 10. pontja szerint módosított szöveg.
-[^98]: A 14. § (5) bekezdését a 617/2022. (XII. 29.) Korm. rendelet 15. § b) pontja hatályon kívül helyezte.
+[^101]: A 14. § (2) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 40. §-ával megállapított, záró szövegrésze a 339/2022. (IX. 7.) Korm. rendelet 22. § 10. pontja szerint módosított szöveg.
+[^102]: A 14. § (5) bekezdését a 617/2022. (XII. 29.) Korm. rendelet 15. § b) pontja hatályon kívül helyezte.
