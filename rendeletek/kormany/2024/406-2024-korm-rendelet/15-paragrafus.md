@@ -1,3 +1,3 @@
-15. § A 423/2012. (XII. 29.) Korm. rendelet a következő 66. §-sal egészül ki:
+15. §[^13]
 
-„66. § E rendeletnek a felsőoktatási intézmények által kiállított okiratok külföldi felhasználásra történő közbenső felülhitelesítéséről és a felsőoktatást érintő egyes kormányrendeletek módosításáról szóló 406/2024. (XII. 18.) Korm. rendelettel (a továbbiakban: Módr.3.) módosított 5. § (2) bekezdés a) pontját, 6. § (1) bekezdését, 9. § (1) bekezdés b) pontját, (2a) és (3) bekezdését, 10. § (3) bekezdését, 11. § (2) bekezdés g) pontját, 15/A. § (8) bekezdését, 16. § (6) bekezdését, 17. § (8a) bekezdését, 18. § (3) bekezdését, 22. § (1) bekezdését, 28. § (5) bekezdését, 34. § (6)–(8) bekezdését, valamint 4. mellékletét a 2025. évi általános felvételi eljárásban kell először alkalmazni.”
+[^13]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

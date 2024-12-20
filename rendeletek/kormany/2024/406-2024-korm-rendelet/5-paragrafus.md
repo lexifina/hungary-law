@@ -1,1 +1,3 @@
-5. § Az idegennyelv-tudást igazoló államilag elismert nyelvvizsgáztatásról és a külföldön kiállított, idegennyelv-tudást igazoló nyelvvizsga-bizonyítványok Magyarországon történő honosításáról szóló 137/2008. (V. 16.) Korm. rendelet [a továbbiakban: 137/2008. (V. 16.) Korm. rendelet] 3. számú melléklete az 1. melléklet szerint módosul.
+5. §[^3]
+
+[^3]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-7. § A felsőoktatási minőségértékelés és -fejlesztés egyes kérdéseiről szóló 19/2012. (II. 22.) Korm. rendelet [a továbbiakban: 19/2012. (II. 22.) Korm. rendelet] 3. §-a helyébe a következő rendelkezés lép:
+7. §[^5]
 
-„3. § A Duális Képzési Tanács (a továbbiakban: DKT) a felsőoktatásért felelős miniszter (a továbbiakban: miniszter) felsőoktatás-fejlesztési kérdésekben közreműködő véleményező és javaslattevő testülete.”
+[^5]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

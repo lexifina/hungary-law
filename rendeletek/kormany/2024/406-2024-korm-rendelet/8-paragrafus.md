@@ -1,1 +1,3 @@
-8. § Hatályát veszti a 19/2012. (II. 22.) Korm. rendelet 4. alcíme.
+8. §[^6]
+
+[^6]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

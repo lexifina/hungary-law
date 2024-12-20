@@ -1,3 +1,3 @@
-23. § A felsőoktatásban szerezhető egyes pedagógusképesítések jegyzékéről és egyes, a felsőoktatást érintő kormányrendeletek módosításáról szóló 830/2021. (XII. 29.) Korm. rendelet [a továbbiakban: 830/2021. (XII. 29.) Korm. rendelet] a következő 5. §-sal egészül ki:
+23. §[^21]
 
-„5. § E rendeletnek a felsőoktatási intézmények által kiállított okiratok külföldi felhasználásra történő közbenső felülhitelesítéséről és a felsőoktatást érintő egyes kormányrendeletek módosításáról szóló 406/2024. (XII. 18.) Korm. rendelettel (a továbbiakban: Módr.) módosított 1. mellékletében foglalt táblázat 4. sorában szereplő konduktor–óvodapedagógus szakirányt a felsőoktatási intézmények nyilvántartását vezető szerv (a továbbiakban: oktatási hivatal) a képzési és kimeneti követelmények módosítását követően hivatalból, szakértői vélemény beszerzése nélkül nyilvántartásba veszi, ha a konduktor szak valamely felsőoktatási intézmény által folytatott képzésként a Módr. hatálybalépését megelőző napon az oktatási hivatal nyilvántartásában szerepelt.”
+[^21]: A 23. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

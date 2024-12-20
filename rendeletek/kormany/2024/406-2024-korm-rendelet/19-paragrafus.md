@@ -1,3 +1,3 @@
-19. § Az Oktatási Hivatalról szóló 121/2013. (IV. 26.) Korm. rendelet [a továbbiakban: 121/2013. (IV. 26.) Korm. rendelet] 3. § h) pontja helyébe a következő rendelkezés lép:
+19. §[^17]
 
-(A Kormány a Hivatalt jelöli ki)
+[^17]: A 19. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

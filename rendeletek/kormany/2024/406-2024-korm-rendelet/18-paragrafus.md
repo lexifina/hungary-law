@@ -1,1 +1,3 @@
-18. § Hatályát veszti a Klebelsberg Képzési Ösztöndíjról szóló 52/2013. (II. 25.) Korm. rendelet 13. § nyitó szövegrészében a „fenntartónak a miniszterhez intézett, részvételi szándékát kifejező nyilatkozata alapján” szövegrész.
+18. §[^16]
+
+[^16]: A 18. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
