@@ -1,6 +1,6 @@
 ## 1. áttekintette az Egészséges Budapest Program (a továbbiakban: Program) keretében az elmúlt években a járóbeteg-szakellátás terén végrehajtott fejlesztéseket és azok előrehaladását;
 
-## 2.[^1] úgy határoz, hogy a korábbi évek gyakorlatának megfelelően – a fekvőbeteg-ellátásban tervezett fejlesztések mellett – folytatja a fővárosi kerületi önkormányzatok, valamint Budapest Főváros Önkormányzatának (a továbbiakban: Fővárosi Önkormányzat) egészségügyi alapellátási és járóbeteg-szakellátási fejlesztéseinek támogatását, melynek keretében a 2020. évben összesen 10 440 815 680 forint forrást biztosít – 2024. december 31-éig történő felhasználás lehetősége mellett – a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 22. Egészségügyi ágazati előirányzatok alcím, 25. Egészséges Budapest Program jogcímcsoport terhére, az 1. melléklet szerint;
+## 2.[^1] úgy határoz, hogy a korábbi évek gyakorlatának megfelelően – a fekvőbeteg-ellátásban tervezett fejlesztések mellett – folytatja a fővárosi kerületi önkormányzatok, valamint Budapest Főváros Önkormányzatának (a továbbiakban: Fővárosi Önkormányzat) egészségügyi alapellátási és járóbeteg-szakellátási fejlesztéseinek támogatását, melynek keretében a 2020. évben összesen 10 440 815 680 forint forrást biztosít – 2025. december 31-éig történő felhasználás lehetősége mellett – a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 22. Egészségügyi ágazati előirányzatok alcím, 25. Egészséges Budapest Program jogcímcsoport terhére, az 1. melléklet szerint;[^2]
 
 ## 3. egyetért és támogatja a Fővárosi Önkormányzatnak a képalkotó diagnosztikai várólisták megszüntetésére irányuló törekvését és a 2. pontban biztosított forrás keretében 2 000 000 000 forint központi költségvetési forrást biztosít a Fővárosi Önkormányzat részére abból a célból, hogy Budapest főpolgármestere vállalásának megfelelően, a képalkotó diagnosztikai várólisták megszüntetéséhez szükséges intézkedéseket – feladataival összefüggésben a Nemzeti Egészségbiztosítási Alapkezelővel együttműködésben – a Fővárosi Önkormányzat megtegye;
 
@@ -22,13 +22,13 @@
 
 ## Határidő: 2020. február 29.
 
-## 7.[^2] felhívja a belügyminisztert, hogy készítsen jelentést a Kormány részére az 5. pontban meghatározott feladatok végrehajtásáról.
+## 7.[^3] felhívja a belügyminisztert, hogy készítsen jelentést a Kormány részére az 5. pontban meghatározott feladatok végrehajtásáról.
 
 ## Felelős: belügyminiszter
 
-## Határidő: 2025. március 31.
+## Határidő: 2026. március 31.
 
-1. melléklet az 1041/2020. (II. 17.) Korm. határozathoz[^3]
+1. melléklet az 1041/2020. (II. 17.) Korm. határozathoz[^4]
 
 A 2020. évben a fővárosi és egyes fővárosi kerületi egészségügyi alapellátás és járóbeteg-szakellátás fejlesztésére biztosított központi költségvetési támogatás részletezése
 
@@ -88,6 +88,7 @@ A 2020. évben a fővárosi és egyes fővárosi kerületi egészségügyi alape
 
 | ÖSSZESEN | 10 440 815 680 |
 
-[^1]: A 2. pont az 1471/2022. (X. 5.) Korm. határozat 2. pont a) pontja szerint módosított szöveg.
-[^2]: A 7. pont az 1471/2022. (X. 5.) Korm. határozat 2. pont b) pontja szerint módosított szöveg.
-[^3]: A Kormány az 1197/2021. (IV. 26.) Korm. határozat 5. pontja alapján úgy határozott, hogy az 1. melléklet 12. sora szerinti fejlesztés tekintetében – az 1041/2020. (II. 17.) Korm. határozat 2. pontjában meghatározottól eltérően – a felhasználás határideje 2024. június 30. napja legyen.
+[^1]: A 2. pont az 1416/2024. (XII. 20.) Korm. határozat 4. pont a) alpontja szerint módosított szöveg.
+[^2]: Az 1319/2025. (VIII. 21.) Korm. határozat 1. pont a) alpontja alapján az 1041/2020. (II. 17.) Korm. határozat 1. mellékletében foglalt táblázat 22. sorában meghatározott fejlesztés tekintetében az 1041/2020. (II. 17.) Korm. határozat 2. pontjában rögzített felhasználási határidőtől eltérően a felhasználási határidő 2026. március 31.
+[^3]: A 7. pont az 1471/2022. (X. 5.) Korm. határozat 2. pont b) pontja, az 1416/2024. (XII. 20.) Korm. határozat 4. pont b) alpontja szerint módosított szöveg.
+[^4]: A Kormány az 1197/2021. (IV. 26.) Korm. határozat 5. pontja alapján úgy határozott, hogy az 1. melléklet 12. sora szerinti fejlesztés tekintetében – az 1041/2020. (II. 17.) Korm. határozat 2. pontjában meghatározottól eltérően – a felhasználás határideje 2024. június 30. napja legyen.
