@@ -1,3 +1,3 @@
-1. § A dohánytermékek nyilvántartásba vételére és vizsgálatára, valamint a cigaretta kátrány-, nikotin- és szén-monoxid-kibocsátásának mérésére vonatkozó igazgatási szolgáltatási díjakról szóló 29/2017. (VII. 25.) NFM rendelet [a továbbiakban: 29/2017. (VII. 25.) NFM rendelet] a következő 5/B. §-sal egészül ki:
+1. §[^2]
 
-„5/B. § E rendeletnek a dohánytermékek nyilvántartásba vételére és vizsgálatára, valamint a cigaretta kátrány-, nikotin- és szén-monoxid-kibocsátásának mérésére vonatkozó igazgatási szolgáltatási díjakról szóló 29/2017. (VII. 25.) NFM rendeletnek a fogyasztóvédelem intézményrendszerének átalakításával összefüggő módosításáról szóló 46/2024. (XII. 16.) NGM rendelettel (a továbbiakban: Módr2.) módosított 2. § (1) bekezdését a Módr2. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
