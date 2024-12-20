@@ -112,4 +112,6 @@ b) társelnöke a családpolitikáért felelős miniszter által kijelölt álla
 
 20. Ez a határozat a közzétételét követő napon lép hatályba.
 
-21. Hatályát veszti a Társadalmi Felzárkózási és Cigányügyi Tárcaközi Bizottság létrehozásáról szóló 1199/2010. (IX. 29.) Korm. határozat.
+21.[^1]
+
+[^1]: A 21. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
