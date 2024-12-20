@@ -1,1 +1,3 @@
-3. § A Rendelet 1. melléklet VIII. pontjában foglalt táblázat A:2 mezőjében az „Országos Fordító és Fordításhitelesítő Iroda” szövegrész helyébe az „MKIFK Magyar Közlönykiadó és Igazságügyi Fordítóközpont” szöveg lép.
+3. §[^3]
+
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
