@@ -1,1 +1,3 @@
-1. § A civil szervezetek gazdálkodása, az adománygyűjtés és a közhasznúság egyes kérdéseiről szóló 350/2011. (XII. 30.) Korm. rendelet (a továbbiakban: R.) 6. §-ában a „(2a)” szövegrész helyébe az „(5)” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
