@@ -10,9 +10,13 @@
 
 (5)[^26] E rendeletnek az egyes agrár-, valamint mezőgazdasági csekély összegű támogatást tartalmazó miniszteri rendeletek módosításáról szóló 41/2020. (VIII. 19.) AM rendelettel megállapított 6/A. §-át a 2020. támogatási év vonatkozásában benyújtott támogatási kérelmeket elbíráló támogatási döntések esetében kell alkalmazni.
 
+(6)[^27] E rendeletnek a fűszerpaprika-termelők mezőgazdasági csekély összegű (de minimis) támogatásáról szóló 37/2014. (IV. 4.) VM rendelet módosításáról szóló 65/2024. (XII. 20.) AM rendelettel [a továbbiakban: 65/2024. (XII. 20.) AM rendelet] megállapított 3. § (2) bekezdését a 65/2024. (XII. 20.) AM rendelet hatálybalépésekor[^28] folyamatban lévő eljárásokban is alkalmazni kell.
+
 [^21]: A 7/A. §-t a 40/2015. (VII. 13.) FM rendelet 6. § (1) bekezdése iktatta be.
 [^22]: A hatálybalépés időpontja 2015. július 14.
 [^23]: A hatálybalépés időpontja 2015. július 14.
 [^24]: A 7/A. § (3) bekezdését a 14/2019. (IV. 10.) AM rendelet 22. §-a iktatta be.
 [^25]: A 7/A. § (4) bekezdését a 20/2019. (V. 27.) AM rendelet 8. § (1) bekezdése iktatta be.
 [^26]: A 7/A. § (5) bekezdését a 41/2020. (VIII. 19.) AM rendelet 6. §-a iktatta be.
+[^27]: A 7/A. § (6) bekezdését a 65/2024. (XII. 20.) AM rendelet 1. §-a iktatta be.
+[^28]: A hatálybalépés időpontja 2024. december 21.
