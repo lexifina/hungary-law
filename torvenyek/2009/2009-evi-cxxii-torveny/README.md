@@ -28,3 +28,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-122-00-00
 | 2023-12-30 | 2023. évi CI. törvény | 2009-122-00-00.23 |
 | 2024-01-01 | 2023. évi LXXVI. törvény | 2009-122-00-00.22 |
 | 2024-05-17 | 2024. évi XII. törvény | 2009-122-00-00.24 |
+| 2024-12-21 | 2024. évi LXXIV. törvény | 2009-122-00-00.26 |

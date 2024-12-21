@@ -30,7 +30,7 @@ g) kezelje a köztulajdonban álló gazdasági társaság kockázatait, külön�
 
 (5) A felügyelőbizottság a belső ellenőrzést végző személy vagy szervezeti egység tevékenységére vonatkozóan
 
-a) elfogadja a stratégiai ellenőrzési tervet, a belső ellenőrzés éves ellenőrzési tervét, azok módosításait, valamint megtárgyalja az éves ellenőrzési beszámolóját,
+a) elfogadja a stratégiai ellenőrzési tervet, a belső ellenőrzés éves ellenőrzési tervét, azok módosításait, valamint megtárgyalja az éves ellenőrzési jelentését,
 
 b) legalább félévente megtárgyalja a belső ellenőrzést végző személy vagy a belső ellenőrzést végző szervezeti egység vezetője által tájékoztatásul megküldött jelentéseket, és a belső ellenőrzés tárgybeli tájékoztatására alapozva ellenőrzi a szükséges intézkedések végrehajtását,
 
@@ -51,3 +51,5 @@ g) jóváhagyja a belső ellenőrzési alapszabályt, valamint a belső ellenőr
 (8) Köztulajdonban álló gazdasági társaságnál csak az végezhet belső ellenőrzést, aki szerepel az államháztartásért felelős miniszter által a belső ellenőrzési tevékenység folytatására jogosult személyekről az államháztartásról szóló 2011. évi CXCV. törvény 70. § (5) bekezdése szerinti adattartalommal vezetett nyilvántartásban.
 
 (9) A belső ellenőrzést végző személy és a megfelelési tanácsadó a feladata ellátása érdekében minősített adatot, üzleti titkot tartalmazó iratokba és más dokumentumokba is betekinthet, azokról másolatot, kivonatot kérhet, személyes adatokat kezelhet az adatvédelmi, illetve a minősített adat védelmére vonatkozó előírások betartásával.
+
+(10) Az államháztartásért felelős miniszter – a köztulajdonban álló gazdasági társaságok tulajdonosi joggyakorlását ellátó miniszterek bevonásával – ellátja a köztulajdonban álló gazdasági társaságok belső kontrollrendszerének fejlesztésével, szabályozásával, koordinációjával és harmonizációjával kapcsolatos feladatokat, megalkotja az ezekhez kapcsolódó jogszabályokat, módszertani útmutatókat, valamint ellátja a szakmai egyeztető fórumok működtetésével kapcsolatos feladatokat.
