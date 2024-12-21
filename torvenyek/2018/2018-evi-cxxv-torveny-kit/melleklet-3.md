@@ -125,9 +125,3 @@
 ## 18. kötelező alkalmassági vizsgálatra vonatkozó információk
 
 ## 19. családtámogatási kedvezmények
-
-## 20. politikai felsővezető személyijövedelemadó-bevallásából a nyilvános, honlapra közzétételre szánt változat (az összevont adóalap összege, az összevont adóalap adójának összege, az összevont adóalap adóját csökkentő adókedvezmények összege, a külön adózó jövedelmek összege és a külön adózó jövedelmek adójának összege)
-
-## 21. a politikai felsővezetői tisztség betöltésének igazolása céljából kiállított igazolvány száma
-
-## 22. kinevezéstől eltérő foglalkoztatásra vonatkozó adatok

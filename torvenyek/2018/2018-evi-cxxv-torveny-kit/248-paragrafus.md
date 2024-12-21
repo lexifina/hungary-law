@@ -4,4 +4,6 @@
 
 (2) A kormányhivatal hivatali szervezetét vezető főigazgatót a főispán javaslatára a kormányhivatal irányítására kormányrendeletben kijelölt miniszter nevezi ki és menti fel.
 
-(3) Főigazgatónak az nevezhető ki, aki felsőfokú iskolai végzettséggel és legalább 5 év vezetői gyakorlattal rendelkezik. A kormányhivatalt vezető főispán kérelmére a kormányhivatal irányítására kormányrendeletben kijelölt miniszter a vezetői gyakorlat megléte alól kivételesen indokolt esetben felmentést adhat.
+(3) A főigazgató kinevezésének a 82. §-ban meghatározottakon felüli – szakmai és képesítési – feltételeit a kormányhivatal irányítására kormányrendeletben kijelölt miniszter határozza meg.
+
+(4) A főigazgató vonatkozásában nem alkalmazandó az 58. § (2) bekezdése.
