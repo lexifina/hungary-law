@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-133-00-00
 | 2023-01-01 | 2022. évi LXVIII. törvény | 2021-133-00-00.15 |
 | 2023-04-06 | 2023. évi VII. törvény | 2021-133-00-00.16 |
 | 2024-12-06 | 2024. évi LVI. törvény | 2021-133-00-00.17 |
+| 2024-12-21 | 2024. évi LXXIV. törvény | 2021-133-00-00.18 |
