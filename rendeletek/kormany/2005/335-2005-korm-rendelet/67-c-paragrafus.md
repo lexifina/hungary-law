@@ -1,16 +1,16 @@
 ## Az ellenőrzés eszközei, módszere, szempontjai, eredménye, az ellenőrzési jegyzőkönyv
 
-67/C. §[^193] (1) Az ellenőrzést végző személy az ellenőrzés eredményes lefolytatása érdekében jogosult:
+67/C. §[^197] (1) Az ellenőrzést végző személy az ellenőrzés eredményes lefolytatása érdekében jogosult:
 
 a) az ellenőrzés lefolytatásához szükséges területre belépni (a szerv székhelye, telephelye, irattára, raktári helyisége stb.), illetve a személyes adatnak nem minősülő elektronikusan tárolt adatokhoz hozzáférni;
 
-b)[^194] az iratkezeléssel kapcsolatos iratokba, iratkezelési nyilvántartásokba betekinteni, amelynek körében az ellenőrzés tárgyával összefüggő iratot – a minősített adatot tartalmazó iratok és a személyes adatok kivételével – megvizsgálhat;
+b)[^198] az iratkezeléssel kapcsolatos iratokba, iratkezelési nyilvántartásokba betekinteni, amelynek körében az ellenőrzés tárgyával összefüggő iratot – a minősített adatot tartalmazó iratok és a személyes adatok kivételével – megvizsgálhat;
 
 c) az iratkezeléssel kapcsolatos munkafolyamatokat megvizsgálni;
 
 d) az iratkezeléssel összefüggésben felvilágosítást kérni, amelynek keretében a vizsgált szervtől személyes adatnak nem minősülő adatokat, tájékoztatást kérhet.
 
-e)[^195] az alkalmazott iratkezelési szoftver helyszíni ellenőrzéséhez szakértő bevonására.
+e)[^199] az alkalmazott iratkezelési szoftver helyszíni ellenőrzéséhez szakértő bevonására.
 
 (2) Az iratkezelés helyzetének feltárása érdekében az ellenőrzést végző ellenőrzése során az alábbi körülményeket vizsgálja különösen:
 
@@ -20,13 +20,13 @@ b) milyen az iratkezelés szervezete (központi, osztott, vegyes);
 
 c) az iratkezeléssel kapcsolatos felelősséget;
 
-d)[^196] iratkezelési szoftver alkalmazása vagy elektronikus iratkezelési szolgáltatások igénybe vétele esetén a működési tapasztalatokat;
+d)[^200] iratkezelési szoftver alkalmazása vagy elektronikus iratkezelési szolgáltatások igénybe vétele esetén a működési tapasztalatokat;
 
-e)[^197] hogyan támogatja az iratkezelési szoftver és az iratkezelési gyakorlat a közfeladatot ellátó szerv rendeltetésszerű működését és iratkezelési alapfolyamatát;
+e)[^201] hogyan támogatja az iratkezelési szoftver és az iratkezelési gyakorlat a közfeladatot ellátó szerv rendeltetésszerű működését és iratkezelési alapfolyamatát;
 
 f) az iratkezelés folyamatát;
 
-g)[^198] az iktatási, nyilvántartási fegyelmet, az iktatókönyvek hitelességét, a küldemények útjának pontos nyomon követhetőségét, a hivatali bélyegzők és a hivatalos célra felhasználható elektronikus aláírások nyilvántartásának és használatának rendjét, az irategység elvének érvényesülését;
+g)[^202] az iktatási, nyilvántartási fegyelmet, az iktatókönyvek hitelességét, a küldemények útjának pontos nyomon követhetőségét, a hivatali bélyegzők és a hivatalos célra felhasználható elektronikus aláírások nyilvántartásának és használatának rendjét, az irategység elvének érvényesülését;
 
 h) a lejárt megőrzési idejű iratok iratkezelési szabályzatban meghatározottak szerinti rendszeres selejtezését és a nem selejtezhető, maradandó értékű iratok illetékes levéltárnak történő átadását;
 
@@ -50,11 +50,11 @@ g) a vizsgált szervet képviselő személy által a vizsgálattal kapcsolatban 
 
 h) a vizsgált szervet képviselő személy és az ellenőrzést végző személy aláírását.
 
-(4)[^199] Az ellenőrzési jegyzőkönyv egy példányát az ellenőrzést végző a helyszínen átadja vagy amennyiben ez valamilyen okból nem lehetséges, az ellenőrzés befejezését követő öt munkanapon belül megküldi a vizsgált szervnek. Az ellenőrzést végző az ellenőrzési jegyzőkönyv egy példányát tájékoztatásul az illetékes közlevéltárnak is megküldi.
+(4)[^203] Az ellenőrzési jegyzőkönyv egy példányát az ellenőrzést végző a helyszínen átadja vagy amennyiben ez valamilyen okból nem lehetséges, az ellenőrzés befejezését követő öt munkanapon belül megküldi a vizsgált szervnek. Az ellenőrzést végző az ellenőrzési jegyzőkönyv egy példányát tájékoztatásul az illetékes közlevéltárnak is megküldi.
 
-(5)[^200] Amennyiben az ellenőrzés során megállapították, hogy az ellenőrzött szerv a jogszabályban foglalt előírásokat megsértette, az ellenőrző felhívja a szerv figyelmét a jogszabálysértésre és határidő megállapításával, valamint a jogkövetkezményekre történő figyelmeztetéssel felszólítja annak megszüntetésére.
+(5)[^204] Amennyiben az ellenőrzés során megállapították, hogy az ellenőrzött szerv a jogszabályban foglalt előírásokat megsértette, az ellenőrző felhívja a szerv figyelmét a jogszabálysértésre és határidő megállapításával, valamint a jogkövetkezményekre történő figyelmeztetéssel felszólítja annak megszüntetésére.
 
-(6)[^201] Amennyiben az ellenőrzött szerv az ellenőrző által az (5) bekezdésben foglaltak szerint megállapított határidőn belül nem szünteti meg a jogszabálysértést, az ellenőrző
+(6)[^205] Amennyiben az ellenőrzött szerv az ellenőrző által az (5) bekezdésben foglaltak szerint megállapított határidőn belül nem szünteti meg a jogszabálysértést, az ellenőrző
 
 a) felhívhatja az ügyben ellenőrzésre jogosult más szerv figyelmét a jogszabálysértésre,
 
@@ -62,12 +62,12 @@ b) megkeresheti az intézkedésre hatáskörrel rendelkező szervet,
 
 c) fegyelmi vagy egyéb eljárást kezdeményezhet.
 
-[^193]: A 67/C. §-t és az azt megelőző alcímet a 239/2007. (IX. 12.) Korm. rendelet 9. §-a iktatta be.
-[^194]: A 67/C. § (1) bekezdés b) pontja a 90/2010. (III. 26.) Korm. rendelet 69. § (20) bekezdése szerint módosított szöveg.
-[^195]: A 67/C. § (1) bekezdés e) pontját a 64/2010. (III. 18.) Korm. rendelet 33. § (1) bekezdése iktatta be.
-[^196]: A 67/C. § (2) bekezdés d) pontja a 196/2013. (VI. 13.) Korm. rendelet 33. §-ával megállapított szöveg.
-[^197]: A 67/C. § (2) bekezdés e) pontja a 196/2013. (VI. 13.) Korm. rendelet 33. §-ával megállapított szöveg.
-[^198]: A 67/C. § (2) bekezdés g) pontja a 64/2010. (III. 18.) Korm. rendelet 33. § (2) bekezdésével megállapított szöveg.
-[^199]: A 67/C. § (4) bekezdése a 64/2010. (III. 18.) Korm. rendelet 35. § i) pontja szerint módosított szöveg.
-[^200]: A 67/C. § (5) bekezdése az 516/2013. (XII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^201]: A 67/C. § (6) bekezdését az 516/2013. (XII. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^197]: A 67/C. §-t és az azt megelőző alcímet a 239/2007. (IX. 12.) Korm. rendelet 9. §-a iktatta be.
+[^198]: A 67/C. § (1) bekezdés b) pontja a 90/2010. (III. 26.) Korm. rendelet 69. § (20) bekezdése szerint módosított szöveg.
+[^199]: A 67/C. § (1) bekezdés e) pontját a 64/2010. (III. 18.) Korm. rendelet 33. § (1) bekezdése iktatta be.
+[^200]: A 67/C. § (2) bekezdés d) pontja a 196/2013. (VI. 13.) Korm. rendelet 33. §-ával megállapított szöveg.
+[^201]: A 67/C. § (2) bekezdés e) pontja a 196/2013. (VI. 13.) Korm. rendelet 33. §-ával megállapított szöveg.
+[^202]: A 67/C. § (2) bekezdés g) pontja a 64/2010. (III. 18.) Korm. rendelet 33. § (2) bekezdésével megállapított szöveg.
+[^203]: A 67/C. § (4) bekezdése a 64/2010. (III. 18.) Korm. rendelet 35. § i) pontja szerint módosított szöveg.
+[^204]: A 67/C. § (5) bekezdése az 516/2013. (XII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^205]: A 67/C. § (6) bekezdését az 516/2013. (XII. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be.

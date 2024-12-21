@@ -1,4 +1,4 @@
-63/A. §[^171] (1) A 3. mellékletben meghatározott államigazgatási szervek, valamint a köziratok védelmére irányuló hatósági eljárás alapján központi szolgáltató igénybevételére kötelezett szervek (a továbbiakban együtt: szerződéskötésre kötelezett szervek) központi irattárazásával kapcsolatos, a 4. mellékletben meghatározott feladatokat – a 63/B. § (1) és (2) bekezdésében foglalt kivétellel – a központi szolgáltató látja el. A feladatellátás a szerződéskötésre kötelezett szervek és a központi szolgáltató között létrejött egyedi szolgáltatási megállapodás (a továbbiakban: egyedi szolgáltatási megállapodás) alapján történik.
+63/A. §[^175] (1) A 3. mellékletben meghatározott államigazgatási szervek, valamint a köziratok védelmére irányuló hatósági eljárás alapján központi szolgáltató igénybevételére kötelezett szervek (a továbbiakban együtt: szerződéskötésre kötelezett szervek) központi irattárazásával kapcsolatos, a 4. mellékletben meghatározott feladatokat – a 63/B. § (1) és (2) bekezdésében foglalt kivétellel – a központi szolgáltató látja el. A feladatellátás a szerződéskötésre kötelezett szervek és a központi szolgáltató között létrejött egyedi szolgáltatási megállapodás (a továbbiakban: egyedi szolgáltatási megállapodás) alapján történik.
 
 (2) A 63/B. § (1) és (2) bekezdésében foglalt kivétellel
 
@@ -20,4 +20,4 @@ b) a 3. mellékletben meghatározott szervek az a) pont szerinti szolgáltatáso
 
 (9) A szerződéskötésre kötelezett szervek a szerződéskötést követően az egyedi szolgáltatási megállapodást tájékoztatás céljából megküldik a miniszternek.
 
-[^171]: A 63/A. §-t a 269/2017. (IX. 13.) Korm. rendelet 1. §-a iktatta be, szövege a 306/2023. (VII. 11.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^175]: A 63/A. §-t a 269/2017. (IX. 13.) Korm. rendelet 1. §-a iktatta be, szövege a 306/2023. (VII. 11.) Korm. rendelet 2. §-ával megállapított szöveg.

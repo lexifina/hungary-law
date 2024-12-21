@@ -2,13 +2,13 @@
 
 ## 2. §[^5] E rendelet alkalmazásában
 
-1.[^6] Űrlapbenyújtás-támogatási szolgáltatás: az Eür. szerinti szolgáltatás;
+1.[^6] Űrlapbenyújtás-támogatási szolgáltatás: a Dáptv. szerinti szolgáltatás;
 
 2. átadás: irat, ügyirat vagy irategyüttes kezelési jogosultságának dokumentált átruházása;
 
 3. átmeneti irattár: a közfeladatot ellátó szerv által az iktatóhelyhez kapcsolódóan kialakított olyan irattár, amelyben az irattári anyag meghatározott időtartamú átmeneti, selejtezés vagy központi irattárba adás előtti őrzése történik;
 
-4.[^7] biztonságos kézbesítési szolgáltatás: az Eür. szerinti szabályozott biztonságos kézbesítési szolgáltatás;
+4.[^7] biztonságos kézbesítési szolgáltatás: a Dáptv. szerinti szabályozott biztonságos kézbesítési szolgáltatás;
 
 5. csatolás: iratok, ügyiratok átmeneti jellegű összekapcsolása;
 
@@ -22,11 +22,11 @@
 
 9.[^9] elektronikus irattár: a közfeladatot ellátó szerv által használt iratkezelési szoftver azon része, vagy olyan adatbázis, amelyben az elektronikusan tárolt irattári anyag meghatározott időtartamú elektronikus őrzése történik;
 
-10.[^10] elektronikus tájékoztatás: az információs önrendelkezési jogról és az információszabadságról szóló törvény, valamint az elektronikus ügyintézést biztosító szervnek minősülő, közfeladatot ellátó szervek esetében az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény (a továbbiakban: E-ügyintézési tv.) és az Eür. szerint előírt elektronikus közzétételi kötelezettség;
+10.[^10] elektronikus tájékoztatás: az információs önrendelkezési jogról és az információszabadságról szóló törvény, valamint az elektronikus ügyintézést biztosító szervnek minősülő, közfeladatot ellátó szervek esetében a digitális állampolgárság egyes szabályairól szóló kormányrendelet szerint előírt elektronikus közzétételi kötelezettség;
 
-11.[^11] elektronikus ügyintézés: az E-ügyintézési tv. szerinti elektronikus ügyintézés;
+11.[^11] elektronikus ügyintézés: a Dáptv. szerinti elektronikus ügyintézés;
 
-12.[^12] elektronikus ügyintézési felügyelet: az E-ügyintézési tv. szerinti szerv;
+12.[^12] elektronikus ügyintézési felügyelet: a Dáptv. szerinti szerv;
 
 13. elektronikus űrlapok: a szabályozott elektronikus ügyintézési szolgáltatásokról és az állam által kötelezően nyújtandó szolgáltatásokról szóló kormányrendelet szerinti elektronikus adatbeviteli felület;
 
@@ -58,9 +58,9 @@
 
 27. kézbesítés: a küldeménynek kézbesítő szervezet, személy, adatátviteli eszköz útján történő eljuttatása a címzetthez;
 
-28.[^14] kézbesítési szolgáltatás: az Eür. szerinti kézbesítési szolgáltatás;
+28.[^14] kézbesítési szolgáltatás: a Dáptv. szerinti kézbesítési szolgáltatás;
 
-28a.[^15] központi elektronikus ügyintézési szolgáltatás: az E-ügyintézési tv. szerinti szolgáltatás;
+28a.[^15] központi elektronikus ügyintézési szolgáltatás: a Dáptv. szerinti szolgáltatás;
 
 29.[^16] központi irattár: a közfeladatot ellátó szerv irattári anyagának selejtezés vagy levéltárba adás előtti, valamint a maradandó értékű nem selejtezhető és levéltárba nem adott iratok, továbbá a nem selejtezhető és levéltárba átadásra nem kerülő iratok őrzésére szolgáló irattár;
 
@@ -98,7 +98,7 @@
 
 43.[^22]
 
-44.[^23] szabályozott elektronikus ügyintézési szolgáltatás: az E-ügyintézési tv. szerinti szolgáltatás;
+44.[^23] szabályozott elektronikus ügyintézési szolgáltatás: a Dáptv. szerinti szolgáltatás;
 
 45. szerelés: ügyiratok végleges jellegű összekapcsolása, amelynek következtében az összekapcsolt ügyiratok a továbbiakban kizárólag együtt kezelhetőek;
 
@@ -108,9 +108,9 @@
 
 47a.[^24] ügy: a szerv feladat- és hatáskörébe tartozó vagy működésével összefüggő egyedi, elkülönült folyamat, amely az ügyintézés megkezdésével indul, és annak lezárulásával ér véget;
 
-48.[^25] ügyfél ügyintézési rendelkezésének nyilvántartása: az E-ügyintézési tv. szerinti nyilvántartás;
+48.[^25] ügyfél ügyintézési rendelkezésének nyilvántartása: a Dáptv. szerinti nyilvántartás;
 
-49.[^26] ügyintézési rendelkezés: az E-ügyintézési tv. szerinti ügyintézési rendelkezés;
+49.[^26] ügyintézési rendelkezés: a Dáptv. szerinti ügyintézési rendelkezés;
 
 50. ügyintéző: az ügy intézésére kijelölt személy, az ügy előadója, aki az ügyet döntésre előkészíti;
 
@@ -123,16 +123,16 @@
 54.[^28] ügytípus: a szerv egy meghatározott feladata, tevékenysége, funkciója keretében intézett ügyeinek összessége.
 
 [^5]: A 2. § a 196/2013. (VI. 13.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^6]: A 2. § 1. pontja a 137/2019. (VI. 11.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^7]: A 2. § 4. pontja a 137/2019. (VI. 11.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^6]: A 2. § 1. pontja a 137/2019. (VI. 11.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 408/2024. (XII. 20.) Korm. rendelet 6. § 1. pontja szerint módosított szöveg.
+[^7]: A 2. § 4. pontja a 137/2019. (VI. 11.) Korm. rendelet 1. § (2) bekezdésével megállapított, a 408/2024. (XII. 20.) Korm. rendelet 6. § 2. pontja szerint módosított szöveg.
 [^8]: A 2. § 5a. pontját a 323/2014. (XII. 15.) Korm. rendelet 1. §-a iktatta be, szövege a 477/2021. (VIII. 9.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^9]: A 2. § 9. pontja a 137/2019. (VI. 11.) Korm. rendelet 14. § b) pontja, az 530/2023. (XII. 1.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
-[^10]: A 2. § 10. pontja a 137/2019. (VI. 11.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^11]: A 2. § 11. pontja a 137/2019. (VI. 11.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^12]: A 2. § 12. pontja a 137/2019. (VI. 11.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^10]: A 2. § 10. pontja a 137/2019. (VI. 11.) Korm. rendelet 1. § (3) bekezdésével megállapított, a 408/2024. (XII. 20.) Korm. rendelet 6. § 3. pontja szerint módosított szöveg.
+[^11]: A 2. § 11. pontja a 137/2019. (VI. 11.) Korm. rendelet 1. § (3) bekezdésével megállapított, a 408/2024. (XII. 20.) Korm. rendelet 6. § 4. pontja szerint módosított szöveg.
+[^12]: A 2. § 12. pontja a 137/2019. (VI. 11.) Korm. rendelet 1. § (3) bekezdésével megállapított, a 408/2024. (XII. 20.) Korm. rendelet 6. § 5. pontja szerint módosított szöveg.
 [^13]: A 2. § 20. pontja a 272/2020. (VI. 12.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^14]: A 2. § 28. pontja a 137/2019. (VI. 11.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
-[^15]: A 2. § 28a. pontját a 137/2019. (VI. 11.) Korm. rendelet 1. § (5) bekezdése iktatta be.
+[^14]: A 2. § 28. pontja a 137/2019. (VI. 11.) Korm. rendelet 1. § (4) bekezdésével megállapított, a 408/2024. (XII. 20.) Korm. rendelet 6. § 6. pontja szerint módosított szöveg.
+[^15]: A 2. § 28a. pontját a 137/2019. (VI. 11.) Korm. rendelet 1. § (5) bekezdése iktatta be, szövege a 408/2024. (XII. 20.) Korm. rendelet 6. § 7. pontja szerint módosított szöveg.
 [^16]: A 2. § 29. pontja az 530/2023. (XII. 1.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
 [^17]: A 2. § 29a. pontját a 477/2021. (VIII. 9.) Korm. rendelet 3. § (2) bekezdése iktatta be.
 [^18]: A 2. § 35. pontja a 123/2024. (VI. 11.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
@@ -140,9 +140,9 @@
 [^20]: A 2. § 38a. pontját a 123/2024. (VI. 11.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^21]: A 2. § 41a. pontját a 123/2024. (VI. 11.) Korm. rendelet 1. § (3) bekezdése iktatta be.
 [^22]: A 2. § 43. pontját a 272/2020. (VI. 12.) Korm. rendelet 12. §-a hatályon kívül helyezte.
-[^23]: A 2. § 44. pontja a 137/2019. (VI. 11.) Korm. rendelet 1. § (6) bekezdésével megállapított szöveg.
+[^23]: A 2. § 44. pontja a 137/2019. (VI. 11.) Korm. rendelet 1. § (6) bekezdésével megállapított, a 408/2024. (XII. 20.) Korm. rendelet 6. § 8. pontja szerint módosított szöveg.
 [^24]: A 2. § 47a. pontját a 123/2024. (VI. 11.) Korm. rendelet 1. § (4) bekezdése iktatta be.
-[^25]: A 2. § 48. pontja a 137/2019. (VI. 11.) Korm. rendelet 1. § (7) bekezdésével megállapított szöveg.
-[^26]: A 2. § 49. pontja a 137/2019. (VI. 11.) Korm. rendelet 1. § (7) bekezdésével megállapított szöveg.
+[^25]: A 2. § 48. pontja a 137/2019. (VI. 11.) Korm. rendelet 1. § (7) bekezdésével megállapított, a 408/2024. (XII. 20.) Korm. rendelet 6. § 9. pontja szerint módosított szöveg.
+[^26]: A 2. § 49. pontja a 137/2019. (VI. 11.) Korm. rendelet 1. § (7) bekezdésével megállapított, a 408/2024. (XII. 20.) Korm. rendelet 6. § 10. pontja szerint módosított szöveg.
 [^27]: A 2. § 53. pontja a 123/2024. (VI. 11.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
 [^28]: A 2. § 54. pontját a 123/2024. (VI. 11.) Korm. rendelet 1. § (6) bekezdése iktatta be.
