@@ -1,4 +1,4 @@
-## 9. Az alapítvány megszűnése
+## 9. Az alapítvány átalakulása és megszűnése
 
 14. § (1) Az alapítvány megszűnik, ha annak vagyona három teljes éven keresztül nem éri el a tőkeminimum összegét; ezt úgy kell tekinteni, hogy az alapítvány céljának megvalósítása lehetetlenné vált.
 

@@ -24,4 +24,4 @@ c) működése során bármikor a kuratórium egyhangú döntése alapján.
 
 (7) Amennyiben az alapítvány (1) bekezdés a) pontja szerinti közfeladat ellátása megszűnik, de az alapítvány az (1) bekezdés b) és c) pontjai szerinti tevékenységet továbbra is ellátja, akkor az alapítvány a vagyonkezelő alapítványokról szóló 2019. évi XIII. törvény (a továbbiakban: Vatv.) szabályai szerinti közérdekű vagyonkezelő alapítvánnyá alakulhat át.
 
-(8) A közfeladat ellátása, vagy a közérdekű cél elérése érdekében az alapítvány harmadik feleknek az uniós állami támogatási szabályok betartásával nyújthat támogatást.
+(8) A közfeladat ellátása, vagy a közérdekű cél elérése érdekében az alapítvány az uniós állami támogatási szabályok betartásával nyújthat támogatást az ezen szabályok hatálya alá tartozó harmadik feleknek.

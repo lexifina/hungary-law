@@ -288,6 +288,8 @@ b) múzeumi, kulturális és turisztikai nevelési-oktatási tevékenységek fol
 
 c) kulturális célú és közcélú ingatlanhasznosítás.
 
+5.Olyan, az alapítvány feladatából, céljából, vagy az általa fenntartott felsőoktatási intézmény tevékenységéből fakadó, ahhoz kapcsolódó szellemi, tudományos, illetve társadalmilag vagy gazdaságilag hasznosítható értéket, dolgot, szellemi terméket megismertető vagy ezek bármelyikét – hazai vagy nemzetközi viszonylatban – kulturális, tudományos vagy gazdasági területen fejlesztő, előállító illetve hasznosító tevékenységet végző hazai vagy külföldi természetes személy, civil szervezet, gazdasági társaság vagy más jogi személy alapítvány általi támogatása, amely elősegíti az alapítvány céljainak megvalósítását, feladatainak ellátását vagy az alapítvány által fenntartott felsőoktatási intézmény oktatási, kutatási és fejlesztési tevékenységét, illetve az alapítvány vagy az általa fenntartott felsőoktatási intézmény hazai vagy nemzetközi kulturális, tudományos vagy gazdasági kapcsolatainak kialakítását, fejlesztését, vagy erősíti a tevékenységük hazai illetve nemzetközi relációban történő pozitív megítélését.
+
 |
 
 11
@@ -447,6 +449,8 @@ c) az élsport támogatása érdekében;
 3. karitatív tevékenység, különösen tartósan, súlyosan beteg, ápolásra szoruló személyek – kiemelten gyermekek, fiatalok – valamint közösségeik, az előbbi csoportokat támogató intézményeknek, szervezeteknek támogatása, a betegek, ápolásra szorulók állapotának stabilizálása, javítása, valamint a rehabilitáció biztosítása érdekében, a támogató intézmények szolgáltatási színvonalának növelése, működésük előmozdítása;
 
 4. nemzetközi kapcsolatok ápolása, különösen az 1–3. pontokban meghatározottakkal kapcsolatos nemzetközi tevékenységek, cserekapcsolatok, határon átnyúló együttműködések, elsősorban Kelet-Közép-Európa népeinek együttműködését elősegítő kezdeményezések, projektek támogatása.
+
+5. A kulturális örökség védelme, az épített és természeti kultúra, környezet védelme, illetve ezek körébe tartozó építmények fenntartása, hasznosítása és üzemeltetése. Az építmények fenntartása, hasznosítása és üzemeltetése körében új innovatív hasznosítási és üzemeltetési üzleti modellek kialakítása, kapcsolódó infrastrukturális, szervezeti, fejlesztési és beruházási célok megvalósítása a hosszú távú, fenntartható üzemeltethetőség feltételeinek megteremtése érdekében, ezáltal biztosítva az építmények kulturális célú látogathatóságát, megismerhetőségét, a jövő nemzedékek számára való megőrzését.
 
 |
 
