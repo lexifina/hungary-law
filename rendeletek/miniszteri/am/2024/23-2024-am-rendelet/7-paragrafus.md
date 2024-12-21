@@ -7,3 +7,7 @@ b) az a) pont szerinti irat kiállítására hatáskörrel rendelkező hatóság
 (2) Az (1) bekezdés b) pontja szerinti esetben a vis maior bekövetkezését tanúsító igazolást annak közlésétől számított tizenöt napon belül kell benyújtani.
 
 (3) Az EMVA-ból finanszírozott intézkedéssel összefüggésben elindított eljárás tekintetében, ha a vis maior elismeréséről hozott döntés indokolja, a támogató intézkedik a támogatói okirat módosításáról.
+
+(4)[^7] A vis maior esemény elismeréséről az NKÜ a vis maior eseménnyel érintett intézkedésre vonatkozó érdemi döntésben, egybefoglalt döntésben vagy önálló döntésben rendelkezik.
+
+[^7]: A 7. § (4) bekezdését a 73/2024. (XII. 20.) AM rendelet 3. §-a iktatta be.

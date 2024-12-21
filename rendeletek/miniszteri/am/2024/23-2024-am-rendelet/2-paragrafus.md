@@ -6,4 +6,6 @@ a) előre nem látható módon következett be, és
 
 b) az adott helyzetben általában elvárható gondosság tanúsítása esetén sem, vagy csak aránytalan mértékű beavatkozással lehetett volna elhárítani.
 
-(2) Ugyanazon kedvezményezett tekintetében az ugyanazon vis maior bekövetkezésének igazolására a végrehajtásban közreműködő szerv által kiadott döntést vagy bármely más, a vis maior bekövetkezésének igazolására jogosult szerv által kiállított dokumentumot a kedvezményezett valamennyi, 1. § szerinti intézkedéssel összefüggő, folyamatban lévő eljárásában vagy folyamatban lévő támogatás esetében figyelembe kell venni.
+(2)[^1] Ugyanazon kedvezményezett tekintetében az ugyanazon vis maior bekövetkezésének igazolására a végrehajtásban közreműködő szerv által kiadott döntést vagy bármely más, a vis maior bekövetkezésének igazolására jogosult szerv által kiállított dokumentumot a kedvezményezett valamennyi, 1. § szerinti intézkedéssel összefüggő, folyamatban lévő eljárásában vagy fennálló agrártámogatási jogviszony esetében figyelembe kell venni.
+
+[^1]: A 2. § (2) bekezdése a 73/2024. (XII. 20.) AM rendelet 5. § a) pontja szerint módosított szöveg.

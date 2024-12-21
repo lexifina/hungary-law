@@ -34,6 +34,8 @@ m) a kedvezményezett növényállományának, illetve a kedvezményezett által
 
 n) a vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló 1996. évi LV. törvény (a továbbiakban: 1996. évi LV. törvény) 79. § (1) bekezdésében meghatározott intézkedések ellenére bekövetkező vadkár.
 
+o)[^2] a pályázati felhívásban meghatározott további rendkívüli körülmény, cselekmény vagy esemény.
+
 (2) Az (1) bekezdés b)–j) pontjában meghatározott esetekben az esemény bekövetkezését a kedvezményezettnek hitelt érdemlő módon kell bizonyítania.
 
 (3) Az (1) bekezdés g) pontjában meghatározott esetben a szolgáltató állatorvos által az esemény bekövetkeztekor kiállított igazolással vagy laboratóriumi vizsgálatról kiállított dokumentummal igazolható, amelynek tartalmaznia kell az esemény pontos okát is.
@@ -51,3 +53,5 @@ b) az a) pontban meghatározottak hiányában az 1996. évi LV. törvény 81. §
 alapján igazolható.
 
 (7) Az agrárpolitikáért felelős miniszter közleményt ad ki az ország teljes területén vagy meghatározott részén bekövetkező vis maiorról, amelyre tekintettel a kedvezményezettnek külön igazolást az érintett vis maiorról nem kell becsatolnia, és ebben az esetben nem kell alkalmazni a 6. §-ban foglaltakat.
+
+[^2]: A 3. § (1) bekezdés o) pontját a 73/2024. (XII. 20.) AM rendelet 1. §-a iktatta be.

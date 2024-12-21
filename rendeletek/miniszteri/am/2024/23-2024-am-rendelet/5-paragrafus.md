@@ -36,12 +36,14 @@ kell megtenni, amely határidő jogvesztő.
 
 (6) Ha a kedvezményezett a vis maior bekövetkezésének időpontjában zöldség-gyümölcs termelői szervezetben vagy elismert termelői csoportban tagsággal rendelkezik, és a tagságával összefüggő termelésével kapcsolatban vis maior elismerése iránti kérelmet nyújt be, a vis maior eseményre vonatkozó döntést az érintett intézkedésben részt vevő zöldség-gyümölcs termelői szervezet vagy elismert termelői csoport külön kérelme nélkül is figyelembe kell venni az intézkedésre vonatkozó jogszabályok alapján.
 
-(7) Ha a kedvezményezett a 3. § (1) bekezdés k) pontja szerinti vis maiorral érintett terület vonatkozásában vis maior kérelmet nyújt be, és ugyanezen terület vonatkozásában korábban vagy a vis maior kérelem benyújtásával egyidejűleg a mezőgazdasági termelést érintő időjárási és más természeti kockázatok kezeléséről szóló 2011. évi CLXVIII. törvény szerinti kárbejelentést is tett, akkor az NKÜ a vis maior bekövetkezésének igazolása során az általa működtetett mezőgazdasági kockázatkezelési adatbázis adatait veszi figyelembe, az alábbiak szerint:
+(7)[^6] Ha a kedvezményezett a 3. § (1) bekezdés k) pontja szerinti vis maiorral érintett terület vonatkozásában vis maior kérelmet nyújt be, és ugyanezen terület vonatkozásában korábban vagy a vis maior kérelem benyújtásával egyidejűleg a mezőgazdasági termelést érintő időjárási és más természeti kockázatok kezeléséről szóló 2011. évi CLXVIII. törvény szerinti kárbejelentést is tett, akkor az NKÜ a vis maior bekövetkezésének igazolása során az általa működtetett mezőgazdasági kockázatkezelési adatbázis adatait veszi figyelembe, az alábbiak szerint:
 
 a) ha az agrárkár-megállapító szerv az elemi káresemény 30%-ot meghaladó mértékű hozamcsökkenését állapítja meg, akkor az NKÜ nem keresi meg;
 
 b) ha az agrárkár-megállapító szerv az elemi káresemény 30%-ot meg nem haladó mértékű hozamcsökkenését állapítja meg, akkor az NKÜ megkeresi
 
-a 6. § (1) bekezdése szerinti végrehajtásban közreműködő szervet.
+a 6. § szerinti végrehajtásban közreműködő szervet.
 
 (8) Ha az e rendelet hatálya alá tartozó intézkedéssel összefüggésben az NKÜ közhiteles nyilvántartásból a kedvezményezett elhalálozásáról tudomást szerez, akkor a haláleset a kedvezményezett valamennyi folyamatban lévő eljárásában vis maiornak minősül abban az esetben is, ha a vélelmezett örökös vagy az örökös a (4) bekezdés b) pontjában meghatározott határidőben vis maior kérelmet nem nyújtott be.
+
+[^6]: Az 5. § (7) bekezdés záró szövegrésze a 73/2024. (XII. 20.) AM rendelet 5. § b) pontja szerint módosított szöveg.
