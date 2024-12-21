@@ -10,7 +10,7 @@ b) a gyermek- és fiatalkorúak védelmével,
 
 c) a fogyasztói csoporttal,
 
-d) a panaszkezeléssel, ügyfélszolgálattal, fogyasztóvédelmi referens foglalkoztatásával, valamint
+d) a panaszkezeléssel, ügyfélszolgálattal, fogyasztóvédelmi referens foglalkoztatásával, és
 
 e) a vállalkozásnak a békéltető testületre vonatkozó 17/A. § (1a) bekezdése szerinti tájékoztatási, valamint a békéltető testületi eljárásban fennálló, a 29. § (11) bekezdésében meghatározott együttműködési kötelezettségével
 
