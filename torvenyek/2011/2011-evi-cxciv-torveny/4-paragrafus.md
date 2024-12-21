@@ -2,7 +2,7 @@
 
 (2)
 
-(2a) A központi költségvetésről szóló törvényben az (1) bekezdésben foglalt értéket oly módon kell meghatározni, hogy az államadósság-mutatónak a viszonyítási évhez viszonyított csökkenése, az államadósság csökkentésre vonatkozó európai uniós szabályok érvényesítése mellett legalább 0,1 százalékpontot érjen el.
+(2a) A központi költségvetésről szóló törvényben az (1) bekezdésben foglalt értéket oly módon kell meghatározni – amennyiben az Alaptörvénnyel és az Európai Unió jogával összhangban annak csökkentése szükséges – hogy a viszonyítási évhez viszonyítottan csökkenjen.
 
 (3) A központi költségvetésről szóló törvény előkészítése során a viszonyítási év államadósság-mutatóját a viszonyítási év utolsó napján várható államadósság és a viszonyítási év várható bruttó hazai terméke, a költségvetési év államadósság-mutatóját a költségvetési év utolsó napján várható államadóság és a költségvetési év várható bruttó hazai terméke alapján kell számításba venni.
 

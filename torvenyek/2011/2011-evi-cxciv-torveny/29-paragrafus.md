@@ -2,6 +2,8 @@
 
 (2) Az (1) bekezdéstől eltérően – törvény felhatalmazása alapján – a Kormány rendeletben állapíthatja meg a pótlék mértékét. Igazgatási szolgáltatási díjat, pótdíjat – törvény vagy eredeti jogalkotói hatáskörben kiadott kormányrendelet felhatalmazása alapján – a miniszter az adópolitikáért felelős miniszter egyetértésével kiadott rendeletben állapíthat meg.
 
+(2a) Az (1) bekezdéstől eltérően – törvény felhatalmazása alapján – az államháztartásért felelős miniszter egyetértésével a miniszter a fizetési kötelezettség tételes összegét rendeletben állapíthatja meg, feltéve, hogy törvény meghatározza a fizetési kötelezettséget, a fizetésre kötelezettek körét, a fizetési kötelezettség mértékét, illetve számítási módját, és az esetleges mentességek, kedvezmények körét, azzal, hogy a fizetési kötelezettség összegének meghatározása az érintett, fizetésre kötelezett jogalanyok tekintetében hátrányos megkülönböztetést nem eredményezhet.
+
 (3) Törvény felhatalmazása alapján
 
 a) a Magyar Nemzeti Bank elnöke, a Nemzeti Média- és Hírközlési Hatóság elnöke, a Magyar Energetikai és Közmű-szabályozási Hivatal elnöke, a Szabályozott Tevékenységek Felügyeleti Hatósága elnöke és az Országos Atomenergia Hivatal elnöke rendeletben igazgatási szolgáltatási díjat, pótdíjat,
