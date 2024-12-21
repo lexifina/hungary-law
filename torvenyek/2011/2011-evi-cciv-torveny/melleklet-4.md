@@ -4,9 +4,9 @@
 
 ## 1. E törvény alapján nyilvántartott adatok:
 
-## a) családi és utónév, nem, születési családi és utónév, születési hely és idő, anyja születési családi és utóneve, állampolgárság, oktatási azonosító szám, személyazonosító okmány száma, adóazonosító jele;
+## a) családi és utónév, nem, arcképmás, születési családi és utónév, születési hely és idő, anyja születési családi és utóneve, állampolgárság, lakóhely, tartózkodási hely, értesítési cím, elektronikus levelezési cím és egyéb elérhetőségek, telefonszám, oktatási azonosító szám, személyazonosító okmány típusa, -száma, -érvényessége, adóazonosító jel, társadalombiztosítási azonosító jel, digitális állampolgár azonosító;
 
-## b) lakóhely, tartózkodási hely, értesítési cím;
+## b)
 
 ## c) munkaviszonyra, közalkalmazotti jogviszonyra, megbízási jogviszonyra vonatkozó adatok:
 
@@ -60,7 +60,7 @@
 
 ## a) felvétellel összefüggő adatok:
 
-## aa) a jelentkező családi és utóneve, neme, születési családi és utóneve, anyja születési családi és utóneve, születési helye és ideje, állampolgársága, lakóhelye, tartózkodási helye, értesítési címe és telefonszáma, nem magyar állampolgár esetén a Magyarország területén való tartózkodás jogcíme és a tartózkodásra jogosító okirat – külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személyek esetén a tartózkodási jogot igazoló okmány – a Magyar igazolvány, Magyar hozzátartozói igazolvány, a nemzetközi biztosítási okmány adatai,
+## aa) a jelentkező családi és utóneve, neme, arcképmása, születési családi és utóneve, anyja születési családi és utóneve, születési helye és ideje, állampolgársága, lakóhelye, tartózkodási helye, értesítési címe, elektronikus levelezési címe és egyéb elérhetőségei, telefonszáma, oktatási azonosító száma, személyazonosító okmány típusa, -száma, -érvényessége, adóazonosító jele, társadalombiztosítási azonosító jele, digitális állampolgár azonosítója, nem magyar állampolgár esetén a Magyarország területén való tartózkodás jogcíme és a tartózkodásra jogosító okirat – külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személyek esetén a tartózkodási jogot igazoló okmány – a Magyar igazolvány, Magyar hozzátartozói igazolvány, a nemzetközi biztosítási okmány adatai,
 
 ## ab) az érettségi vizsga adatai,
 
@@ -135,6 +135,8 @@
 ## e)
 
 ## f) a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szervnek a képzésre és a hallgatói jogviszonyra vonatkozóan.
+
+## 5. A felsőoktatási intézmény nyilvántartja a hallgató családi állapotára, valamint gyermekes hallgatói jogállására vonatkozó adatokat a hallgatói jogviszony megszűnésére vonatkozó bejelentéstől számított tíz évig a magyar állami ösztöndíjas támogatási idő megállapítása céljából.
 
 ## II.
 
@@ -223,3 +225,21 @@ a) természetes személyazonosító adatai
 b) adóazonosító jele
 
 c) lakóhelye
+
+d) elérhetősége
+
+e) a felsőfokú képzésére vonatkozó adatok
+
+f) érettségi éve
+
+g) a pályázó szociális rászorultságát igazoló – a pályázóra, a pályázó közeli hozzátartozóira, illetve a pályázóval egy háztartásban élőkre vonatkozó – személyes és különleges adatok
+
+h) a pályázó felsőoktatási intézménybe történő felvételének eredménye
+
+i) a pályázó hallgatói jogviszonyának állapotára vonatkozó adatok
+
+2. Az 1. pontban megjelölt adatok kezelésére jogosult
+
+a) a miniszter vagy a miniszter által a pályázat lebonyolítására kijelölt szervezet (továbbiakban: pályázatkezelő szervezet),
+
+b) az ösztöndíjrendszerhez csatlakozott helyi önkormányzat,

@@ -10,11 +10,11 @@ d) a Magyarországon nyilvántartásba vett alapítvány, vagyonkezelő alapítv
 
 alapíthat.
 
-(1a) Egyházi felsőoktatási intézmény az (1) bekezdés b) pontja szerinti fenntartó által fenntartott felsőoktatási intézmény. Magán felsőoktatási intézmény az (1) bekezdés c) és d) pontja szerinti fenntartó által fenntartott felsőoktatási intézmény.
+(1a) Egyházi felsőoktatási intézmény az (1) bekezdés b) pontja szerinti fenntartó által fenntartott felsőoktatási intézmény. Magán felsőoktatási intézmény az állam 100%-os tulajdonában álló gazdasági társaság kivételével az (1) bekezdés c) és d) pontja szerinti fenntartó által fenntartott felsőoktatási intézmény.
 
 (2) Az alapítói jogok gyakorlásának joga az e törvényben meghatározottak szerint átruházható. Az, aki az alapítói jogot gyakorolja, ellátja a felsőoktatási intézmény fenntartásával kapcsolatos feladatokat (a továbbiakban: fenntartó).
 
-(2a) Az állami fenntartó kivételével az (1) bekezdés szerinti fenntartó által fenntartott intézmény esetében – eltérő megállapodás hiányában – tulajdonos az, aki az alapítói, illetve fenntartói jogot gyakorolja. A tulajdonos a fenntartói jogot e törvényben meghatározottak szerint ruházhatja át az (1) bekezdés szerinti jogosultnak. Tulajdonos csak az lehet, aki az (1) bekezdés alapján felsőoktatási intézményt alapíthat.
+(2a) Az (1) bekezdés szerinti fenntartó által fenntartott intézmény esetében – eltérő megállapodás hiányában – tulajdonos az, aki az alapítói, illetve fenntartói jogot gyakorolja. A tulajdonos a fenntartói jogot e törvényben meghatározottak szerint ruházhatja át az (1) bekezdés szerinti jogosultnak. Tulajdonos csak az lehet, aki az (1) bekezdés alapján felsőoktatási intézményt alapíthat.
 
 (2b) Ha a felek megállapodása alapján a tulajdonos és a fenntartói jog gyakorlója eltér, az erről szóló bejelentés alapján a felsőoktatási intézmények nyilvántartását vezető szerv (a továbbiakban: oktatási hivatal) a tulajdonost és a fenntartói jog gyakorlóját is nyilvántartásba veszi.
 

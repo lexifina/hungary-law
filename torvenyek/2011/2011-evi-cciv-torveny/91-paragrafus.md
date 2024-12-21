@@ -31,3 +31,5 @@ e) a szervezeti és működési szabályzat vagy az oktatóval létrejött megá
 (6) A hitéleti képzés tartalmának meghatározása, a képzésben részt vevő oktatókkal, tanárokkal kapcsolatos követelmények meghatározása az egyházi felsőoktatási intézmény joga.
 
 (7) A hitéleti képzés tekintetében a 6. § (5) bekezdés a) pontjában szabályozott eljárásban csak azt kell vizsgálni, hogy biztosítottak-e a képzés tárgyi feltételei. A felsőoktatási intézmény határozza meg továbbá a felvételi eljárás rendjét és – az érettségi vizsga meglétét kivéve – a felvétel követelményeit.
+
+(8) Ha a felsőoktatási intézmény fenntartójával vagy fenntartójának vallási közösségével a Magyar Állam nemzetközi szerződést, vagy Magyarország Kormánya felsőoktatásra is kiterjedő átfogó megállapodást kötött, a hitéleti felsőfokú tanulmányok a középiskolában folytatott tanulmányok alatt, az érettségi vizsgát megelőzően is megkezdhetőek oly módon, hogy a tanulói jogviszony mellett a felsőoktatási intézménnyel hallgatói jogviszony jön létre. A hallgató egyidejűleg sajátítja el az érettségi vizsga letételéhez szükséges követelményeket és a hitéleti képzés követelményeit.

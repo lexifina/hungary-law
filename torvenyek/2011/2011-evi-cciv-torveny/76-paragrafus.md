@@ -10,7 +10,7 @@
 
 76. § (1) Magyarország területén az Európai Gazdasági Térségről szóló szerződésben nem részes államban (a továbbiakban: nem EGT-állam) székhellyel rendelkező külföldi felsőoktatási intézmény akkor folytathat oklevelet adó képzési tevékenységet, ha
 
-a) Magyarország Kormánya és a külföldi felsőoktatási intézmény székhelye szerinti állam Kormánya által a felsőoktatási végzettségek, fokozatok egyenértékűsége tárgyában kötött nemzetközi szerződésben szerepel,
+a)
 
 b) a Magyarországon nyújtott képzés a magyar felsőoktatási intézmények képzésével egyenértékű,
 
