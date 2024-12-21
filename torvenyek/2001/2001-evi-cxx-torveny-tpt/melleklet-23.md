@@ -29,3 +29,15 @@ E törvény és az e törvény felhatalmazása alapján kiadott jogszabályok al
 13. a Közép-amerikai Gazdasági Integrációs Bank,
 
 14. a Nemzetközi Beruházásbiztosítási Ügynökség,
+
+15. a Nemzetközi Fizetések Bankja,
+
+16. a Nemzetközi Pénzügyi Társaság,
+
+17. a Nemzetközi Újjáépítési és Fejlesztési Bank,
+
+18. a Nemzetközi Valutaalap,
+
+19. Nemzetközi Beruházási Bank,
+
+20. az Ázsiai Infrastrukturális Beruházási Bank.
