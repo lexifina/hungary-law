@@ -1,0 +1,7 @@
+7/G. § (1) Az Nvtv. 13. § (3) bekezdése, valamint a Vtv. 36. § (1) bekezdése alapján az állam tulajdonában lévő Badacsonytomaj belterület 421 helyrajzi számú ingatlant (ezen § alkalmazásában a továbbiakban: ingatlan) ingyenesen a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 13. § (1) bekezdés 1. pontjában meghatározott feladatai ellátásának elősegítése érdekében, településfejlesztés, településrendezés céljából Badacsonytomaj Város Önkormányzata tulajdonába kell adni.
+
+(2) Badacsonytomaj Város Önkormányzata az (1) bekezdés szerinti ingatlant terhekkel együtt szerzi meg. Az (1) bekezdés szerinti tulajdonátruházás feltétele, hogy Badacsonytomaj Város Önkormányzata az (1) bekezdés szerinti ingatlant terhelő kötelezettségeket a (3) bekezdés szerinti szerződés alapján teljeskörűen átvállalja.
+
+(3) Az (1) bekezdés szerinti tulajdonátruházás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az állam nevében a tulajdonosi joggyakorló Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság készíti el és köti meg. A szerződésben rögzíteni kell, hogy az (1) bekezdés szerinti ingatlan használata során Badacsonytomaj Város Önkormányzatának kötelezettsége a környezet- és természetvédelmi szempontok figyelembevétele, különösen a biológiai sokféleség védelme, fenntartása és a jövő nemzedékek számára való megőrzése.
+
+(4) Az (1) bekezdés szerinti vagyonjuttatást úgy kell tekinteni, hogy az az Áfa. tv. 17. § (1) bekezdésében meghatározott feltételek szerinti juttatással esik egy tekintet alá.
