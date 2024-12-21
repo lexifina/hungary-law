@@ -1910,19 +1910,11 @@ kivett parkoló
 
 |
 
-SIKLÓS
+|
 
 |
 
-1091
-
 |
-
-–
-
-|
-
-Kivett kórház
 
 |
 
