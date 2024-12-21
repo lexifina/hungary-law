@@ -14,7 +14,7 @@ b) az 501–1500 fő közötti lakosságszámú település esetében a nemzetga
 
 c) az 1501–2000 fő közötti lakosságszámú település esetében a nemzetgazdasági átlagkereset kétszeresének;
 
-d) a 2001–5000 fő közötti lakosságszámú település esetében a nemzetgazdasági átlagkereset a település 2,25-szeresének;
+d) a 2001–5000 fő közötti lakosságszámú település esetében a nemzetgazdasági átlagkereset 2,25-szeresének;
 
 e) az 5001–10 000 fő közötti lakosságszámú település esetében a nemzetgazdasági átlagkereset két és félszeresének;
 
