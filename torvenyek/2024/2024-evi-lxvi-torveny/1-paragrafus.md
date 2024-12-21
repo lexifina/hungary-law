@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és a Bahreini Királyság Kormánya között a beruházások ösztönzéséről és kölcsönös védelméről szóló megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
