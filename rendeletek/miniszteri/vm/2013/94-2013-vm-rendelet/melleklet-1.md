@@ -1,229 +1,245 @@
-1. melléklet a 94/2013. (X. 10.) VM rendelethez[^85]
+1. melléklet a 94/2013. (X. 10.) VM rendelethez[^86]
 
 A 3. § (1) bekezdésében hivatkozott agrártevékenységek
 
-| TEÁOR ‘08 kód | Szakágazat/Tevékenység |
+| A | A | B |
 
-| 01.11 | Gabonaféle (kivéve: rizs), hüvelyes növény, olajos mag termesztése |
+| 1. | TEÁOR ’25 kód | Szakágazat/Tevékenység |
 
-| 01.12 | Rizstermesztés |
+| 2. | 01.11 | Gabonaféle (kivéve: rizs), hüvelyes növény, olajos mag termesztése |
 
-| 01.13 | Zöldségféle, dinnye, gyökér-, gumósnövény termesztése |
+| 3. | 01.12 | Rizstermesztés |
 
-| 01.14 | Cukornádtermesztés |
+| 4. | 01.13 | Zöldségféle, dinnye, gyökér-, gumósnövény termesztése |
 
-| 01.15 | Dohánytermesztés |
+| 5. | 01.14 | Cukornádtermesztés |
 
-| 01.16 | Rostnövénytermesztés |
+| 6. | 01.15 | Dohánytermesztés |
 
-| 01.19 | Egyéb, nem évelő növény termesztése |
+| 7. | 01.16 | Rostnövénytermesztés |
 
-| 01.21 | Szőlőtermesztés |
+| 8. | 01.19 | Egyéb, nem évelő növény termesztése |
 
-| 01.22 | Trópusi gyümölcs termesztése |
+| 9. | 01.21 | Szőlőtermesztés |
 
-| 01.23 | Citrusféle termesztése |
+| 10. | 01.22 | Trópusi gyümölcs termesztése |
 
-| 01.24 | Almatermésű, csonthéjas termesztése |
+| 11. | 01.23 | Citrusféle termesztése |
 
-| 01.25 | Egyéb gyümölcs, héjastermésű termesztése |
+| 12. | 01.24 | Almatermésű, csonthéjas gyümölcs termesztése |
 
-| 01.26 | Olajtartalmú gyümölcs termesztése |
+| 13. | 01.25 | Egyéb gyümölcs és csonthéjas magvak termesztése |
 
-| 01.27 | Italgyártási növény termesztése |
+| 14. | 01.26 | Olajtartalmú gyümölcs termesztése |
 
-| 01.28 | Fűszer-, aroma-, narkotikus, gyógynövény termesztése |
+| 15. | 01.27 | Italgyártáshoz szükséges növény termesztése |
 
-| 01.29 | Egyéb évelő növény termesztése |
+| 16. | 01.28 | Fűszer-, aroma-, narkotikus, gyógynövény termesztése |
 
-| 01.30 | Növényi szaporítóanyag termesztése |
+| 17. | 01.29 | Egyéb évelő növény termesztése |
 
-| 01.41 | Tejhasznú szarvasmarha tenyésztése |
+| 18. | 01.30 | Növényi szaporítóanyag termesztése |
 
-| 01.42 | Egyéb szarvasmarha tenyésztése |
+| 19. | 01.41 | Tejhasznú szarvasmarha tenyésztése |
 
-| 01.43 | Ló, lóféle tenyésztése |
+| 20. | 01.42 | Egyéb szarvasmarha tenyésztése |
 
-| 01.44 | Teve, teveféle tenyésztése |
+| 21. | 01.43 | Ló, lóféle tenyésztése |
 
-| 01.45 | Juh, kecske tenyésztése |
+| 22. | 01.44 | Teve, teveféle tenyésztése |
 
-| 01.46 | Sertéstenyésztés |
+| 23. | 01.45 | Juh, kecske tenyésztése |
 
-| 01.47 | Baromfitenyésztés |
+| 24. | 01.46 | Sertéstenyésztés |
 
-| 01.49 | Egyéb állat tenyésztése |
+| 25. | 01.47 | Baromfitenyésztés |
 
-| 01.50 | Vegyes gazdálkodás |
+| 26. | 01.48 | Egyéb állat tenyésztése |
 
-| 01.61 | Növénytermesztési szolgáltatás |
+| 27. | 01.50 | Vegyes gazdálkodás |
 
-| 01.62 | Állattenyésztési szolgáltatás |
+| 28. | 01.61 | Növénytermesztési szolgáltatás |
 
-| 01.63 | Betakarítást követő szolgáltatás |
+| 29. | 01.62 | Állattenyésztési szolgáltatás |
 
-| 01.64 | Vetési célú magfeldolgozás |
+| 30. | 01.63 | Betakarítást követő szolgáltatás és vetési célú magfeldolgozás |
 
-| 01.70 | Vadgazdálkodás, vadgazdálkodási szolgáltatás |
+| 31. | 01.70 | Vadgazdálkodás, vadgazdálkodási szolgáltatás |
 
-| 02.10 | Erdészeti, egyéb erdőgazdálkodási tevékenység |
+| 33. | 02.10 | Erdészeti, egyéb erdőgazdálkodási tevékenység |
 
-| 02.20 | Fakitermelés |
+| 34. | 02.20 | Fakitermelés |
 
-| 02.30 | Vadon termő egyéb erdei termék gyűjtése |
+| 35. | 02.30 | Vadon termő erdei termény gyűjtése |
 
-| 02.40 | Erdészeti szolgáltatás |
+| 36. | 02.40 | Erdészeti szolgáltatás |
 
-| 03.11 | Tengeri halászat |
+| 37. | 03.11 | Tengeri halászat |
 
-| 03.12 | Édesvízi halászat |
+| 38. | 03.12 | Édesvízi halászat |
 
-| 03.21 | Tengerihal-gazdálkodás |
+| 39. | 03.21 | Tengerihal-termelés, akvakultúra |
 
-| 03.22 | Édesvízihal-gazdálkodás |
+| 40. | 03.22 | Édesvízihal-termelés, akvakultúra |
 
-| 10.11 | Húsfeldolgozás, -tartósítás |
+| 41. | 03.30 | Halászati és akvakultúra-szolgáltatás |
 
-| 10.12 | Baromfihús feldolgozása, tartósítása |
+| 42. | 10.11 | Húsfeldolgozás, -tartósítás, kivéve baromfi |
 
-| 10.13 | Hús-, baromfihús-készítmény gyártása |
+| 43. | 10.12 | Baromfihús feldolgozása, tartósítása |
 
-| 10.20 | Halfeldolgozás, -tartósítás |
+| 44. | 10.13 | Hús-, baromfihús-készítmény gyártása |
 
-| 10.31 | Burgonyafeldolgozás, -tartósítás |
+| 45. | 10.20 | Hal, rákféle és puhatestű feldolgozása, tartósítása |
 
-| 10.32 | Gyümölcs-, zöldséglé gyártása |
+| 46. | 10.31 | Burgonyafeldolgozás, -tartósítás |
 
-| 10.39 | Egyéb gyümölcs-, zöldségfeldolgozás, -tartósítás |
+| 47. | 10.32 | Gyümölcs-, zöldségital gyártása |
 
-| 10.41 | Olaj gyártása |
+| 48. | 10.39 | Egyéb gyümölcs-, zöldségfeldolgozás, -tartósítás |
 
-| 10.42 | Margarin gyártása |
+| 49. | 10.41 | Olaj gyártása |
 
-| 10.51 | Tejtermék gyártása |
+| 50. | 10.42 | Margarin gyártása |
 
-| 10.52 | Jégkrém gyártása |
+| 51. | 10.51 | Tejfeldolgozás |
 
-| 10.61 | Malomipari termék gyártása |
+| 52. | 10.52 | Fagylalt, jégkrém gyártása |
 
-| 10.62 | Keményítő, keményítőtermék gyártása |
+| 53. | 10.61 | Malomipari termék gyártása |
 
-| 10.71 | Kenyér, friss pékáru gyártása |
+| 54. | 10.62 | Keményítő, keményítőtermék gyártása |
 
-| 10.72 | Tartósított lisztes áru gyártása |
+| 55. | 10.71 | Kenyér, friss pékáru gyártása |
 
-| 10.73 | Tésztafélék gyártása |
+| 56. | 10.72 | Tartósított lisztes áru gyártása |
 
-| 10.81 | Cukorgyártás |
+| 57. | 10.73 | Tésztafélék gyártása |
 
-| 10.82 | Édesség gyártása |
+| 58. | 10.81 | Cukorgyártás |
 
-| 10.83 | Tea, kávé feldolgozása |
+| 59. | 10.82 | Édesség gyártása |
 
-| 10.84 | Fűszer, ételízesítő gyártása |
+| 60. | 10.83 | Tea, kávé feldolgozása |
 
-| 10.85 | Készétel gyártása |
+| 61. | 10.84 | Fűszer, ételízesítő gyártása |
 
-| 10.86 | Homogenizált, diétás étel gyártása |
+| 62. | 10.85 | Készétel gyártása |
 
-| 10.89 | M.n.s. egyéb élelmiszer gyártása |
+| 63. | 10.86 | Homogenizált, diétás étel gyártása |
 
-| 10.91 | Haszonállat-eledel gyártása |
+| 64. | 10.89 | M.n.s. egyéb élelmiszer gyártása |
 
-| 10.92 | Hobbiállat-eledel gyártása |
+| 65. | 10.91 | Haszonállat-eledel gyártása |
 
-| 11.01 | Desztillált szeszes ital gyártása |
+| 66. | 10.92 | Hobbiállat-eledel gyártása |
 
-| 11.02 | Szőlőbor termelése |
+| 67. | 11.01 | Desztillált szeszes ital gyártása |
 
-| 11.03 | Gyümölcsbor termelése |
+| 68. | 11.02 | Szőlőbor termelése |
 
-| 11.04 | Egyéb nem desztillált, erjesztett ital gyártása |
+| 69. | 11.03 | Almabor és egyéb erjesztett gyümölcsitalok gyártása |
 
-| 11.05 | Sörgyártás |
+| 70. | 11.04 | Egyéb nem desztillált, erjesztett ital gyártása |
 
-| 11.06 | Malátagyártás |
+| 71. | 11.05 | Sörgyártás |
 
-| 11.07 | Üdítőital, ásványvíz gyártása |
+| 72. | 11.06 | Malátagyártás |
 
-| 12.00 | Dohánytermék gyártása |
+| 73. | 11.07 | Üdítőital, ásványvíz gyártása |
 
-| 15.11 | Bőr, szőrme kikészítése |
+| 74. | 12.00 | Dohánytermék gyártása |
 
-| 16.10 | Fűrészárugyártás |
+| 75. | 15.11 | Bőr, szőrme kikészítése |
 
-| 16.21 | Falemezgyártás |
+| 76. | 16.11 | Fűrészárugyártás |
 
-| 16.22 | Parkettagyártás |
+| 77. | 16.12 | Fa feldolgozása és felületkezelése |
 
-| 16.23 | Épületasztalos-ipari termék gyártása |
+| 78. | 16.21 | Falemezgyártás |
 
-| 16.24 | Tároló fatermék gyártása |
+| 79. | 16.22 | Parkettagyártás |
 
-| 16.29 | Egyéb fa-, parafatermék, fonottáru gyártása |
+| 80. | 16.23 | Épületasztalos-ipari termék gyártása |
 
-| 20.15 | Műtrágya, nitrogénvegyület gyártása |
+| 81. | 16.24 | Tároló fatermék gyártása |
 
-| 20.20 | Mezőgazdasági vegyi termék gyártása |
+| 82. | 16.25 | Fa nyílászáró gyártása |
 
-| 28.30 | Mezőgazdasági, erdészeti gép gyártása |
+| 83. | 16.26 | Szilárd tüzelőanyag gyártása növényi biomasszából |
 
-| 35.11 | Villamosenergia-termelés |
+| 84. | 16.27 | Fatermék felületkezelése |
 
-| 46.11 | Mezőgazdasági termék ügynöki nagykereskedelme |
+| 85. | 16.28 | Egyéb fa-, parafatermék, fonott áru gyártása |
 
-| 46.21 | Gabona, dohány, vetőmag, takarmány nagykereskedelme |
+| 86. | 20.14 | Szerves vegyi alapanyag gyártása |
 
-| 46.22 | Dísznövény nagykereskedelme |
+| 87. | 20.15 | Műtrágya, nitrogénvegyület gyártása |
 
-| 46.23 | Élőállat nagykereskedelme |
+| 88. | 20.20 | Mezőgazdasági vegyi termék gyártása |
 
-| 46.24 | Bőr nagykereskedelme |
+| 89. | 20.51 | Folyékony bioüzemanyag gyártása |
 
-| 46.31 | Zöldség-, gyümölcs-nagykereskedelem |
+| 90. | 28.30 | Mezőgazdasági, erdészeti gép gyártása |
 
-| 46.32 | Hús-, húskészítmény nagykereskedelme |
+| 91. | 35.12 | Villamosenergia-termelés megújuló forrásból |
 
-| 46.33 | Tejtermék, tojás, zsiradék nagykereskedelme |
+| 92. | 46.11 | Mezőgazdasági termék ügynöki nagykereskedelme |
 
-| 46.34 | Ital nagykereskedelme |
+| 93. | 46.17 | Élelmiszer, ital, dohányáru ügynöki nagykereskedelme |
 
-| 46.35 | Dohányáru nagykereskedelme |
+| 94. | 46.21 | Gabona, feldolgozatlan dohány, vetőmag, takarmány nagykereskedelme |
 
-| 46.36 | Cukor, édesség nagykereskedelme |
+| 95. | 46.22 | Virág, növény nagykereskedelme |
 
-| 46.37 | Kávé-, tea-, kakaó-, fűszer-nagykereskedelem |
+| 96. | 46.23 | Élőállat nagykereskedelme |
 
-| 46.38 | Egyéb élelmiszer nagykereskedelme |
+| 97. | 46.24 | Bőr és irha nagykereskedelme |
 
-| 46.39 | Élelmiszer, ital, dohányáru vegyes nagykereskedelme |
+| 98. | 46.31 | Zöldség-, gyümölcs-nagykereskedelem |
 
-| 46.61 | Mezőgazdasági gép, berendezés nagykereskedelme |
+| 99. | 46.32 | Hús, húskészítmény, hal, halkészítmény nagykereskedelme |
 
-| 46.75 | Vegyi áru nagykereskedelme |
+| 100. | 46.33 | Tejtermék, tojás, zsiradék nagykereskedelme |
 
-| 47.21 | Zöldség, gyümölcs kiskereskedelme |
+| 101. | 46.34 | Ital nagykereskedelme |
 
-| 47.22 | Hús-, húsáru kiskereskedelme |
+| 102. | 46.35 | Dohányáru nagykereskedelme |
 
-| 47.23 | Hal kiskereskedelme |
+| 103. | 46.36 | Cukor, édesség nagykereskedelme |
 
-| 47.24 | Kenyér-, pékáru-, édesség-kiskereskedelem |
+| 104. | 46.37 | Kávé-, tea-, kakaó-, fűszer-nagykereskedelem |
 
-| 47.25 | Ital-kiskereskedelem |
+| 105. | 46.38 | Egyéb élelmiszer nagykereskedelme |
 
-| 47.26 | Dohányáru-kiskereskedelem |
+| 106. | 46.39 | Élelmiszer, ital, dohányáru vegyes nagykereskedelme |
 
-| 47.29 | Egyéb élelmiszer-kiskereskedelem |
+| 107. | 46.61 | Mezőgazdasági gép, berendezés, tartozék nagykereskedelme |
 
-| 47.76 | Dísznövény, vetőmag, műtrágya, hobbiállat-eledel kiskereskedelme |
+| 108. | 46.85 | Vegyi áru nagykereskedelme |
 
-| 47.81 | Élelmiszer, ital, dohányáru piaci kiskereskedelme |
+| 109. | 47.11 | Élelmiszer jellegű vegyes kiskereskedelem |
 
-| 68.20 | Saját tulajdonú, bérelt ingatlan bérbeadása, üzemeltetése |
+| 110. | 47.21 | Zöldség, gyümölcs kiskereskedelme |
 
-| 75.00 | Állat-egészségügyi ellátás |
+| 111. | 47.22 | Hús-, húsáru kiskereskedelme |
 
-| 77.31 | Mezőgazdasági gép kölcsönzése |
+| 112. | 47.23 | Hal kiskereskedelme |
 
-[^85]: Az 1. mellékletet a 4/2019. (III. 6.) AM rendelet 4. § (4) bekezdése iktatta be.
+| 113. | 47.24 | Kenyér-, pékáru-, édesség-kiskereskedelem |
+
+| 114. | 47.25 | Ital-kiskereskedelem |
+
+| 115. | 47.26 | Dohányáru-kiskereskedelem |
+
+| 116. | 47.27 | Egyéb élelmiszer-kiskereskedelem |
+
+| 117. | 47.76 | Virág, növény, műtrágya, hobbiállat, hobbiállat-eledel kiskereskedelme |
+
+| 118. | 68.20 | Saját tulajdonú, bérelt ingatlan bérbeadása, üzemeltetése |
+
+| 119. | 75.00 | Állategészségügyi ellátás |
+
+| 120. | 77.31 | Mezőgazdasági gép kölcsönzése |
+
+[^86]: Az 1. mellékletet a 4/2019. (III. 6.) AM rendelet 4. § (4) bekezdése iktatta be, szövege a 63/2024. (XII. 20.) AM rendelet 2. §-ával megállapított szöveg.

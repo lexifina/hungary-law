@@ -10,7 +10,7 @@
 
 (3)[^22] A kezességi díjtámogatás mértéke évente – a (4)–(9) bekezdésben foglaltak figyelembevételével – a kezességvállalás mértékéhez igazodóan a teljes hitelösszeg 0,75%-a.
 
-(4)[^23] A 77/2015. (XII. 1.) FM rendelet 1. mellékletében szereplő település valamelyikén mint székhelyen, telephelyen vagy fióktelepen a 77/2015. (XII. 1.) FM rendelet 2. mellékletében meghatározott TEÁOR' 08 szerinti tevékenység valamelyikét a hitelkérelem beadásakor főtevékenységként folytató vagy a hitelkérelemben hitelcél szerinti tevékenységként megjelölő és legkésőbb 2016. június 30-áig hatályossá vált hitelszerződéssel rendelkező vállalkozás esetében a támogatás mértéke a 2015. április 30-át követően esedékes kezességi díj 100%-a.
+(4)[^23] A 77/2015. (XII. 1.) FM rendelet 1. mellékletében szereplő település valamelyikén mint székhelyen, telephelyen vagy fióktelepen a 77/2015. (XII. 1.) FM rendelet 2. mellékletében meghatározott TEÁOR’25 szerinti tevékenység valamelyikét a hitelkérelem beadásakor főtevékenységként folytató vagy a hitelkérelemben hitelcél szerinti tevékenységként megjelölő és legkésőbb 2016. június 30-áig hatályossá vált hitelszerződéssel rendelkező vállalkozás esetében a támogatás mértéke a 2015. április 30-át követően esedékes kezességi díj 100%-a.
 
 (4a)[^24] A 77/2015. (XII. 1.) FM rendeletnek
 
@@ -52,7 +52,7 @@ hitelnek az 51/2016. (VII. 21.) FM rendelet hatálybalépésétől kezdődően e
 [^20]: A 3. § (1b) bekezdését a 28/2018. (X. 5.) AM rendelet 4. §-a iktatta be.
 [^21]: A hatálybalépés időpontja 2018. október 6.
 [^22]: A 3. § (3) bekezdése a 4/2019. (III. 6.) AM rendelet 4. § (2) bekezdésével megállapított, a 14/2020. (IV. 10.) AM rendelet 9. § a) pontja szerint módosított szöveg.
-[^23]: A 3. § (4) bekezdése az 51/2016. (VII. 21.) FM rendelet 16. § (1) bekezdésével megállapított, a 66/2020. (XII. 18.) AM rendelet 10. § c) pontja szerint módosított szöveg.
+[^23]: A 3. § (4) bekezdése az 51/2016. (VII. 21.) FM rendelet 16. § (1) bekezdésével megállapított, a 66/2020. (XII. 18.) AM rendelet 10. § c) pontja, a 63/2024. (XII. 20.) AM rendelet 1. §-a szerint módosított szöveg.
 [^24]: A 3. § (4a) bekezdését az 51/2016. (VII. 21.) FM rendelet 16. § (1) bekezdése iktatta be. [A 66/2020. (XII. 18.) AM rendelet 10. § c) pontjával elrendelt módosítás, amely szerint a „hatályba lépett” szövegrész helyébe a „hatályossá vált” szöveg lép, nem vezethető át.]
 [^25]: A 3. § (4a) bekezdés a) pontja a 78/2016. (XII. 12.) FM rendelet 13. § b) pontja, a 17/2017. (IV. 10.) FM rendelet 9. § a) pontja szerint módosított szöveg.
 [^26]: A 3. § (4a) bekezdés b) pontja a 17/2017. (IV. 10.) FM rendelet 8. §-ával megállapított szöveg.
