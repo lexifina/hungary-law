@@ -1,3 +1,1 @@
-62. § A kormányzati igazgatásról szóló 2018. évi CXXV. törvény 278. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A kormányzati igazgatási szervnél foglalkoztatott munkavállaló munkaviszonyára a 71. § (8)–(15) bekezdését, a 72. §-t, 82. § (7)–(9) bekezdését, a 95. § (5)–(7) bekezdését, a 104. § (1) bekezdés k)–m) pontját és a 107. § (2) bekezdés f) pontját alkalmazni kell azzal, hogy a munkaviszonynak 104. § (1) bekezdés k)–m) pontja alapján történő megszűnése esetén a munkavállaló végkielégítésre jogosult, a munkaviszonynak 107. § (2) bekezdés f) pontja alapján történő megszüntetése esetén felmondási időre és végkielégítésre nem jogosult.”
+### 62. §

@@ -1,1 +1,1 @@
-2. § A közúti közlekedésről szóló 1988. évi I. törvény 2. § (4) bekezdés nyitó szövegrészében a „valamint a rendvédelmi szervek” szövegrész helyébe az „a rendvédelmi szervek, valamint a polgári nemzetbiztonsági szolgálatok” szöveg lép.
+### 2. §
