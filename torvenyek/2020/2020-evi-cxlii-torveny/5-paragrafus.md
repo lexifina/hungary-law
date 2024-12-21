@@ -44,4 +44,4 @@ az Egyetem tulajdonába kerülnek.
 
 (15) A 3. melléklet szerinti ingatlanok vonatkozásában a (2) bekezdés szerinti megállapodás megkötéséig, valamint az (5) bekezdés szerinti ingóságok vonatkozásában a (6) bekezdés szerinti jegyzőkönyv felvételéig az Egyetemet a KEKVA tv. 1. mellékletében meghatározott közfeladatai ellátása érdekében – az ingatlan-nyilvántartásba be nem jegyezhető – ingyenes használati jog illeti meg.
 
-(16) A Békésszentandrás 0151/1 és a Kaposvár 3656/2 helyrajzi számú ingatlanokat a művelési ág változását követően az Egyetem tulajdonába kell adni.
+(16) A Békésszentandrás, külterület 0151/1 és a Kaposvár, belterület 3656/2 helyrajzi számú ingatlanokat ingyenesen, nyilvántartási értéken – az 5. § (1)–(15) bekezdésének és a 6. § (2), (3) és (4) bekezdéseinek alkalmazásával – a művelési ág változását követően az Egyetem tulajdonába kell adni.
