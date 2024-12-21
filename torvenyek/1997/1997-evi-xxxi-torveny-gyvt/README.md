@@ -90,3 +90,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-31-00-00
 | 2024-05-24 | 2024. évi XIII. törvény | 1997-31-00-00.125 |
 | 2024-07-01 | 2024. évi XXX. törvény | 1997-31-00-00.126 |
 | 2024-09-01 | 2024. évi XXX. törvény | 1997-31-00-00.124 |
+| 2024-12-21 | 2024. évi LXXIV. törvény | 1997-31-00-00.128 |
