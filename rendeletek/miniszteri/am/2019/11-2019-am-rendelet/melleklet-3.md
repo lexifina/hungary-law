@@ -18,9 +18,9 @@
 
 | 9. | házi tyúk | IV. negyedév | 170,00 | 170,00 | 170,00 | 170,00 | 170,00 | 170,00 |
 
-| 10. | pecsenyeliba, növendék liba, fiatal liba, pecsenyekacsa, növendék kacsa | I. negyedév | 1 700,00 | 630,00 | 1 608,00 | 600,00 | 600,00 | 600,00 |
+| 10. | pecsenyeliba, növendék liba, fiatal liba, pecsenyekacsa, növendék kacsa | I. negyedév | 1 700,00 | 630,00 | 1608,00 | 600,00 | 600,00 | 1336,9 |
 
-| 11. | pecsenyeliba, növendék liba, fiatal liba, pecsenyekacsa, növendék kacsa | II. negyedév | 1 750,00 | 850,00 | 1 562,00 | 670,00 | 670,00 | 670,00 |
+| 11. | pecsenyeliba, növendék liba, fiatal liba, pecsenyekacsa, növendék kacsa | II. negyedév | 1 750,00 | 850,00 | 1562,00 | 670,00 | 670,00 | 1397,10 |
 
 | 12. | pecsenyeliba, növendék liba, fiatal liba, pecsenyekacsa, növendék kacsa | III. negyedév | 853,91 | 500 | 500,00 | 500,00 | 500,00 | 500,00 |
 
