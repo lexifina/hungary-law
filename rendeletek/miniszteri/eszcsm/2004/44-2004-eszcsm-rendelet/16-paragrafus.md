@@ -10,7 +10,7 @@ b) FoNo dosim mennyiségnél nagyobb mennyiségű gyógyszeranyag önmagában,
 
 c)[^97] az alkalmazási előírása szerint az influenzavírus okozta megbetegedések megelőzésére és kezelésére szolgáló gyógyszerkészítmény, legfeljebb az alkalmazási előírása szerinti terápiás alkalmazáshoz szükséges mennyiségben.
 
-(4)[^98] A (3) bekezdés szerinti gyógyszerkiadás esetén az EESZT rendszerben rögzíteni kell
+(4)[^98] A (3) bekezdés szerinti gyógyszerkiadás esetén papír alapon vagy a gyógyszertár teljes ügyvitelét lefedő komplex informatikai programban rögzíteni kell
 
 a) a kiadott gyógyszer
 
@@ -27,5 +27,5 @@ b)[^99] a kiváltó orvos, gyógyszerész alapnyilvántartási számát, állato
 [^95]: A 16. § a 47/2005. (XI. 4.) EüM rendelet 12. §-ával megállapított szöveg.
 [^96]: A 16. § (3) bekezdés a) pontja az 52/2012. (XII. 27.) EMMI rendelet 11. § i) pontja szerint módosított szöveg.
 [^97]: A 16. § (3) bekezdésének c) pontját a 39/2006. (X. 13.) EüM rendelet 1. §-a iktatta be, szövege a 30/2009. (X. 14.) EüM rendelet 10. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 11. § (4) bekezdése alapján a háziorvosi szolgálat a betegforgalmi tevékenység külön jogszabály szerinti jelentése alapján, új influenzavírus elleni védőoltással történő immunizálásért oltásonként 200 forintra jogosult, melyet az Egészségügyi Minisztérium és az Országos Egészségbiztosítási Pénztár között létrejött megállapodásban foglaltaknak megfelelően az Országos Egészségbiztosítási Pénztár utal.
-[^98]: A 16. § (4) bekezdését a 29/2017. (X. 31.) EMMI rendelet 11. §-a iktatta be.
+[^98]: A 16. § (4) bekezdését a 29/2017. (X. 31.) EMMI rendelet 11. §-a iktatta be, nyitó szövegrésze az 57/2024. (XII. 20.) BM rendelet 10. § b) pontja szerint módosított szöveg.
 [^99]: A 16. § (4) bekezdés b) pontja a 29/2021. (VII. 6.) EMMI rendelet 6. §-ával megállapított szöveg.
