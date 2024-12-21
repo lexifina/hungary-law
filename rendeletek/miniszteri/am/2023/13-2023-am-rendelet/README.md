@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-13-20-7
 | 2023-07-01 | 2023-13-20-7R.2 | 26/2023. (VI. 30.) AM rendelet |
 | 2023-09-28 | 2023-13-20-7R.3 | 56/2023. (IX. 27.) AM rendelet |
 | 2024-02-02 | 2023-13-20-7R.4 | 3/2024. (I. 30.) AM rendelet |
+| 2024-12-21 | 2023-13-20-7R.5 | 70/2024. (XII. 20.) AM rendelet |
