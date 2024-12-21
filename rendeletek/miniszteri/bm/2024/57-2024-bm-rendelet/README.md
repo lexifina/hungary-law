@@ -1,0 +1,9 @@
+# 57/2024. (XII. 20.) BM rendelet
+
+egyes gyógyszerészeti tárgyú miniszteri rendeletek módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-57-20-0A
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2024-12-21 | 2024-57-20-0A.1 | 57/2024. (XII. 20.) BM rendelet |

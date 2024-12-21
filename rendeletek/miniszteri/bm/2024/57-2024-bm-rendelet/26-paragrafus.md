@@ -1,0 +1,5 @@
+26. § A 4/2009. (III. 17.) EüM rendelet 17. §-a a következő (3a) és (3b) bekezdéssel egészül ki:
+
+„(3a) A (3) bekezdés szerinti bejelentéshez mellékelni kell az orvostechnikai eszköz magyar és angol nyelvű használati útmutatóját, EU megfelelőségi nyilatkozatát és – ha az MDR 52. cikke az eszköz megfelelőségértékelési eljárásba bejelentett szervezet bevonását írja elő – megfelelőségi tanúsítványát, valamint ha az eszköz az MDR 33. cikk (2) bekezdés a) és b) pontja szerinti elektronikus rendszerben nem regisztrált, az eszköz gyártójának székhelye vagy a gyártó meghatalmazott képviselőjének a székhelye szerinti illetékes hatóság által kiállított nyilvántartásba vételről szóló igazolást.
+
+(3b) A bejelentő mentesül a (3a) bekezdésben meghatározott dokumentumok benyújtása alól, ha bejelentésében – a hivatkozási alapul szolgáló hatósági bizonyítvány iktatószámának feltüntetésével – nyilatkozik arról, hogy a bejelentésében szereplő orvostechnikai eszközöket kizárólag olyan forgalmazótól szerzi be, amely ezen orvostechnikai eszközök forgalmazását magára nézve már bejelentette az NNGYK felé.”
