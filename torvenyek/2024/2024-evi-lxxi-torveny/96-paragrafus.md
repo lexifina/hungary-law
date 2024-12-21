@@ -1,21 +1,19 @@
 96. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény
 
-a) 1. § (1) bekezdés záró szövegrészében az „a)–h) pontban” szövegrész helyébe az „a)–g) pontban” szöveg,
+a)
 
-b) 35/A. §-ában a „jogviszonyban, vagy” szövegrész helyébe a „jogviszonyban, nemzetbiztonsági szolgálati jogviszonyban vagy” szöveg,
+b)
 
-c) 108. § (1) bekezdésében az „ , a polgári nemzetbiztonsági szolgálatok, valamint” szövegrész helyébe az „és” szöveg,
+c)
 
-d) 114. § (3) bekezdés b) pontjában az „az Országgyűlési Őrségnél, valamint a polgári nemzetbiztonság szolgálatoknál” szövegrész helyébe a „valamint az Országgyűlési Őrségnél” szöveg,
+d)
 
-e) 145. § (1) bekezdés a) pontjában a „második hónap” szövegrész helyébe a „negyedik hónap” szöveg,
+e)
 
-f) 280. § (3) bekezdésében a „i) pontjában” szövegrész helyébe a „i) és j) pontjában” szöveg,
+f)
 
-g) 289/P. § (10) bekezdés a) pontjában a „második hónap” szövegrész helyébe a „negyedik hónap” szöveg,
+g)
 
-h) 295. § (4) bekezdésében a „hat” szövegrész helyébe az „öt” szöveg,
+h)
 
-i) 296. §-ában a „hat” szövegrész helyébe az „öt” szöveg
-
-lép.
+i)

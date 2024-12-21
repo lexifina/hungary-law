@@ -1,1 +1,1 @@
-57. § Az egyes vagyonnyilatkozat-tételi kötelezettségekről szóló 2007. évi CLII. törvény 3. § (2) bekezdés b) pontjában a „szervnél” szövegrész helyébe a „szervnél vagy polgári nemzetbiztonsági szolgálatnál” szöveg lép.
+### 57. §

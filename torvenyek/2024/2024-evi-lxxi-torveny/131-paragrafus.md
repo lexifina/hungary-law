@@ -1,1 +1,1 @@
-131. § A pedagógusok új életpályájáról szóló 2023. évi LII. törvény 3. § 23. pontjában az „a munkaviszony” szövegrész helyébe az „a nemzetbiztonsági alkalmazotti jogviszony, a munkaviszony” szöveg és az „a szolgálati viszony,” szövegrész helyébe az „a rendvédelmi feladatokat ellátó szervnél fennálló hivatásos szolgálati jogviszony, a nemzetbiztonsági szolgálati jogviszony, a honvédek jogállásáról szóló kormányrendelet szerinti hivatásos vagy szerződéses katonai szolgálati viszony,” szöveg lép.
+### 131. §

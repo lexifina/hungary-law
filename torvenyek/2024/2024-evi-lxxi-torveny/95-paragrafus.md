@@ -1,5 +1,1 @@
-95. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény a következő 363/D. és 363/E. §-sal egészül ki:
-
-„363/D. § Az 1. § (1) bekezdés a)–g) pontja szerinti rendvédelmi szervtől a polgári nemzetbiztonsági szolgálatokhoz történő, 2025. február 28. napján fennálló, 62. § szerinti más szervhez vezénylés hatályát nem érinti az 1. § (1) bekezdés h) pontjának 2025. március 1-jei hatályon kívül helyezése, illetve a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvény 2025. március 1-jei hatálybalépése. Az e törvénynek a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásával összefüggő törvények módosításáról szóló 2024. évi LXXI. törvény hatálybalépését megelőzően hatályos rendelkezései szerinti vezénylési határozatok és vezénylési megállapodások felülvizsgálata nem szükséges.
-
-363/E. § Az MRK-nak a polgári nemzetbiztonsági szolgálatok állományából megválasztott tisztségviselőjének megbízatása 2025. március 1-jén megszűnik. A megszűnő megbízatású tisztségviselő helyett az MRK a szükséges esetben a Közgyűlés tagjai közül az új tisztségviselőt 2025. március 31-ig választja meg”
+### 95. §

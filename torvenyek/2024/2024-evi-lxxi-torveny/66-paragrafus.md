@@ -1,1 +1,1 @@
-66. § A Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény preambulumában a „rendvédelmet érintő” szövegrész helyébe a „rendvédelmet, nemzetbiztonságot érintő” szöveg és a „szervek tiszti” szövegrész helyébe a „szervek, polgári nemzetbiztonsági szolgálatok tiszti” szöveg lép.
+### 66. §
