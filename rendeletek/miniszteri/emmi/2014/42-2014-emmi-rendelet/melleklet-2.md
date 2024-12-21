@@ -1,4 +1,4 @@
-2. melléklet a 42/2014. (VIII. 19.) EMMI rendelethez[^27]
+2. melléklet a 42/2014. (VIII. 19.) EMMI rendelethez[^34]
 
 A GLP ellenőrzéséről és felülvizsgálatáról
 
@@ -6,25 +6,15 @@ A) rész
 
 A GLP megfelelőség rendszeres ellenőrzésére vonatkozó útmutató
 
-I. Szervezési intézkedések
-
-Az NNGYK:
-
-1. közvetlenül felelős a szükséges műszaki/tudományos szakértelemmel rendelkező GLP felügyelők csoportjáért,
-
-2. közzéteszi a GLP elvek elfogadására vonatkozó dokumentumokat,
-
-3. közzéteszi a GLP Program részleteit tartalmazó iratokat, beleértve az azokról a jogi vagy közigazgatási keretekről szóló információkat, amelyek keretein belül a program működik, valamint hivatkozásokat a kihirdetett jogszabályokra, ellenőrzési kézikönyvekre, iránymutatásokra, az ellenőrzések gyakoriságára és az ellenőrzési tervek kritériumaira,
-
-4. nyilvántartást vezet az ellenőrzött vizsgáló intézményekről (és arról, hogy azok mennyire felelnek meg a GLP-nek), valamint a nemzeti vagy nemzetközi célokból ellenőrzött vizsgálatokról.
+I.
 
 II. Személyzet és képzés
 
 1. AZ NNGYK köteles biztosítani, hogy
 
-1. 1. megfelelő számú GLP felügyelő álljon rendelkezésre.
+1. 1. megfelelő számú GLP ellenőr álljon rendelkezésre.
 
-1.1.1. A GLP felügyelők száma függ:
+1.1.1. A GLP ellenőrök száma függ:
 
 1.1.1.1. a GLP Programba bevont vizsgáló intézmények számától;
 
@@ -34,45 +24,23 @@ II. Személyzet és képzés
 
 1.1.1.4. az engedélyező hatóságok által kért különleges ellenőrzések számától.
 
-1.2. a GLP felügyelők megfelelő végzettséggel és képzettséggel rendelkezzenek.
+1.2.
 
-1.2.1. a GLP felügyelőknek a vegyi anyagok vizsgálatára vonatkozó tudományos tantárgyakban szerzett képzettséggel és gyakorlati tapasztalatokkal kell rendelkezniük;
+1.3.
 
-1.2.2. az NNGYK biztosítja a GLP ellenőrök egyéni képzettségének és gyakorlatának megfelelő oktatását;
-
-1.2.3. az NNGYK a nemzetközi harmonizáció érdekében elősegíti, hogy a GLP-elvek értelmezése és alkalmazása, valamint ezen elvek betartásának folyamatos ellenőrzése terén kerüljön sor megbeszélésekre a többi OECD tagország GLP ellenőrző hatóságainak munkatársaival, beleértve szükség esetén a közös képzési tevékenységeket is.
-
-1.3. az ellenőrzést végző munkatársaknak – beleértve a szerződéses szakértőket is – ne fűződjön anyagi vagy egyéb érdekük az ellenőrzés alatt álló vizsgáló intézményhez, a felülvizsgált vizsgálatokhoz vagy az ilyen vizsgálatokat támogató szervezetekhez.
-
-1.4. a GLP felügyelők rendelkezzenek személyazonosításra alkalmas eszközzel.
+1.4.
 
 III. A GLP Program
 
-1. A GLP elvek betartása folyamatos ellenőrzésének a célja annak megállapítása, hogy a vizsgáló intézmények megvalósították-e a GLP elveit a vizsgálatok végzése során, valamint képesek-e biztosítani az eredményül kapott adatok minőségét. A fentiek alapján az NNGYK közzéteszi a GLP Program alábbi részleteit:
+1. Az NNGYK honlapján közzéteszi a GLP Program alábbi részleteit:
 
-1.1. a GLP Program hatálya és kiterjedése;
+0.1. a GLP Program hatálya és kiterjedése;
 
-A GLP Program vonatkozhat a vegyi anyagok egy korlátozott körére, vagy kiterjedhet az összes vegyi anyagra is. A GLP megfelelőség rendszeres ellenőrzésének hatályát meg kell határozni mind a vegyi anyagok kategóriáinak vizsgálatára, mind a GLP Program alá tartozó vizsgálatok típusainak vizsgálatára,
+0.2. a vizsgáló intézmény GLP Programba kerülésének módja;
 
-1.2. a vizsgáló intézmény GLP Programba kerülésének módja;
+0.3. a vizsgáló intézmények ellenőrzésének és a vizsgálatok ellenőrzésének típusaira vonatkozó előírások, adatok.
 
-Fel kell sorolni azokat a jogszabályokat, amelyek alapján a GLP elveit kötelező alkalmazni az engedélyezés céljából történő egészségügyi és környezetbiztonsági adatgyűjtésekre. Az NNGYK útmutatót is közzétesz a GLP megfelelőség NNGYK általi ellenőrzésének kérelmezéséhez,
-
-1.3. a vizsgáló intézmények ellenőrzésének és a vizsgálatok ellenőrzésének típusaira vonatkozó adatok.
-
-2. GLP Programban rendelkezni kell:
-
-2.1. a vizsgáló intézmények ellenőrzésére vonatkozó szabályokról. Ezen ellenőrzések kiterjednek a vizsgáló intézmények általános ellenőrzésére, valamint egy vagy több vizsgálat ellenőrzésére,
-
-2.2. a vizsgáló intézmények vagy a vizsgálatoknak olyan különleges ellenőrzésére vonatkozó szabályokról, amelyekre az engedélyező hatóság kérésére kerülhet sor,
-
-2.3. a GLP felügyelők jogkörének meghatározásáról, beleértve a vizsgáló intézménybe történő bejutást, a vizsgáló intézményben tárolt adatokhoz, a vizsgálati mintákhoz, a szabványműveleti előírásokhoz, illetve egyéb dokumentumokhoz való hozzáférést,
-
-2.4. a vizsgáló intézmény ellenőrzésével és a vizsgálatok ellenőrzésével kapcsolatos eljárások leírásáról a GLP betartásának ellenőrzése céljából:
-
-A dokumentációban fel kell tüntetni azokat az eljárásokat, amelyeket mind a szervezési folyamatok, mind azon feltételek megvizsgálására vesznek igénybe, amelyek alatt a vizsgálatok tervezése, lefolytatása, folyamatos ellenőrzése és nyilvántartása történik. A fenti eljárásokra vonatkozó irányelveket jelen melléklet B. része tartalmazza,
-
-2.5. a vizsgáló intézmény ellenőrzésének és a vizsgálatok felülvizsgálata utóellenőrzéseként megtehető intézkedések leírásáról.
+2.
 
 B) rész
 
@@ -80,25 +48,25 @@ A vizsgáló intézmény ellenőrzésének és a vizsgálatok felülvizsgálatá
 
 I. A vizsgáló intézmények ellenőrzése
 
-1. A GLP felügyelők felkérhetők különböző anyagok vagy készítmények fizikai, kémiai, toxikológiai vagy ökotoxikológiai tulajdonságainak ellenőrzésére. A GLP felügyelők szükség esetén szakértőket is bevonhatnak az ellenőrzésbe.
+1. A GLP ellenőrök felkérhetők különböző anyagok vagy készítmények fizikai, kémiai, toxikológiai vagy ökotoxikológiai tulajdonságainak ellenőrzésére. A GLP ellenőrök szükség esetén szakértőket is bevonhatnak az ellenőrzésbe.
 
-2. A vizsgálóintézmények közötti fizikai elhelyezkedésen vagy irányítási rendszeren alapuló eltérések, valamint a GLP felügyelők által ellenőrzött vizsgálatok különbözősége önállóságot igényel a GLP felügyelőktől annak megítélésében, hogy adott esetben milyen fokban és mértékben tartják be a GLP elveit. Ugyanakkor egységes megközelítésre kell törekedniük annak értékelésekor, hogy egy bizonyos vizsgáló intézmény vagy egy bizonyos vizsgálat esetében betartották-e a GLP minden alapelvét.
+2. A vizsgálóintézmények közötti fizikai elhelyezkedésen vagy irányítási rendszeren alapuló eltérések, valamint a GLP ellenőrök által ellenőrzött vizsgálatok különbözősége önállóságot igényel a GLP ellenőröktől annak megítélésében, hogy adott esetben milyen fokban és mértékben tartják be a GLP elveit. Ugyanakkor egységes megközelítésre kell törekedniük annak értékelésekor, hogy egy bizonyos vizsgáló intézmény vagy egy bizonyos vizsgálat esetében betartották-e a GLP minden alapelvét.
 
 3. A következő szakaszok útmutatást nyújtanak a vizsgáló intézmények ellenőrzésének különböző szempontjaira vonatkozóan, ideértve az ellenőrzés alá vont munkatársakat és eljárásokat is. Az egyes szakaszok feltüntetik a vizsgálat célját, valamint a vizsgáló intézmény ellenőrzése során figyelembe vehető konkrét tételek szemléltető listáját. E listák célja nem az, hogy átfogó képet nyújtsanak, és nem is tekinthetők ilyennek.
 
-4. A GLP felügyelőknek nem kell a vizsgálat tudományos céljával vagy az emberi egészséget illetve a környezetet érintő kockázatokkal kapcsolatos megállapításainak értelmezésével foglalkozniuk. Ezek vizsgálata azon engedélyező hatóságok feladata, amelyeknek az adatokat engedélyezés célból benyújtják.
+4. A GLP ellenőröknek nem kell a vizsgálat tudományos céljával vagy az emberi egészséget illetve a környezetet érintő kockázatokkal kapcsolatos megállapításainak értelmezésével foglalkozniuk. Ezek vizsgálata azon engedélyező hatóságok feladata, amelyeknek az adatokat engedélyezés célból benyújtják.
 
-5. A vizsgáló intézmények ellenőrzése és a vizsgálatok felülvizsgálata kétségtelenül megzavarja a vizsgáló intézményben folyó munkát, ezért a GLP felügyelőknek munkájukat gondosan megtervezett módon kell végezniük, és – hacsak lehetséges – tiszteletben kell tartaniuk a vizsgáló intézmény felelős vezetőinek kívánságait az egyes részlegek felkeresésének időpontjára vonatkozóan.
+5. A vizsgáló intézmények ellenőrzése és a vizsgálatok felülvizsgálata kétségtelenül megzavarja a vizsgáló intézményben folyó munkát, ezért a GLP ellenőröknek munkájukat gondosan megtervezett módon kell végezniük, és – hacsak lehetséges – tiszteletben kell tartaniuk a vizsgáló intézmény felelős vezetőinek kívánságait az egyes részlegek felkeresésének időpontjára vonatkozóan.
 
-6. Mivel a GLP felügyelők a vizsgáló intézmény ellenőrzése és a vizsgálatok felülvizsgálata során bizalmas, üzleti szempontból értékes információkhoz jutnak hozzá, ezért biztosítani kell, hogy az ilyen információkhoz hozzáférő, engedéllyel rendelkező munkatársak adatkezelési felelősségét a GLP Program meghatározza.
+6.
 
-II. Ellenőrzési eljárás
+II. Az ellenőrzési eljárás előkészítése
 
-1. Előzetes ellenőrzés
+1. Felkészülés az ellenőrzésre
 
-1.1. Cél: az irányítási rendszer, az épületek fizikai elhelyezkedése és a vizsgálatok körének megismertetése a GLP felügyelővel.
+1.1. Cél: az irányítási rendszer, az épületek fizikai elhelyezkedése és a vizsgálatok körének megismertetése a GLP ellenőrrel.
 
-1.2. A vizsgáló intézmény ellenőrzését vagy a vizsgálatok felülvizsgálatát megelőzően a GLP felügyelőknek meg kell ismerkedniük a vizsgáló intézménnyel. A vizsgáló intézményre vonatkozó minden lényeges információt át kell tekinteni. Ebbe beletartozhatnak a korábbi ellenőrzésekről készült jelentések, a vizsgáló intézmény felépítése, szervezeti táblázatok, vizsgálati jelentések, jegyzőkönyvek, valamint a munkatársak önéletrajzai. E dokumentumoknak a következő információkat kell tartalmazniuk:
+1.2. A vizsgáló intézmény ellenőrzését vagy a vizsgálatok felülvizsgálatát megelőzően a GLP ellenőröknek meg kell ismerkedniük a vizsgáló intézménnyel. A vizsgáló intézményre vonatkozó minden lényeges információt át kell tekinteni. Ebbe beletartozhatnak a korábbi ellenőrzésekről készült jelentések, a vizsgáló intézmény felépítése, szervezeti táblázatok, vizsgálati jelentések, jegyzőkönyvek, valamint a munkatársak önéletrajzai. E dokumentumoknak a következő információkat kell tartalmazniuk:
 
 1.2.1. a vizsgáló intézmény típusa, mérete és felépítése,
 
@@ -106,21 +74,21 @@ II. Ellenőrzési eljárás
 
 1.2.3. a vizsgáló intézmény irányítási rendszere.
 
-1.3. Az GLP felügyelőknek különös figyelemmel kell lennie a vizsgáló intézmény korábbi GLP ellenőrzései során feltárt hiányosságokra. Ha korábban még nem került sor a vizsgáló intézmény GLP ellenőrzésére, az ellenőrzést megelőzően látogatást tehetnek a megfelelő információk beszerzése érdekében.
+1.3. A GLP ellenőröknek különös figyelemmel kell lennie a vizsgáló intézmény korábbi GLP ellenőrzései során feltárt hiányosságokra. Ha korábban még nem került sor a vizsgáló intézmény GLP ellenőrzésére, az ellenőrzést megelőzően látogatást tehetnek a megfelelő információk beszerzése érdekében.
 
-1.4. A vizsgáló intézményt tájékoztatni lehet a GLP felügyelő érkezésének napjáról és idejéről, a látogatás céljáról és a helyiségekben eltöltendő idő várható hosszáról. Ezzel a vizsgáló intézmény biztosítani tudja, hogy a megfelelő személyzet és dokumentáció a vizsgálat idejére rendelkezésre álljon. Konkrét dokumentumok vagy nyilvántartások célzott vizsgálata előtt hasznos a vizsgálóhellyel egyeztetni a látogatás előtt, hogy a dokumentumok az ellenőrzés során azonnal rendelkezésre álljanak.
+1.4. A vizsgáló intézményt tájékoztatni lehet a GLP ellenőr érkezésének napjáról és idejéről, a látogatás céljáról és a helyiségekben eltöltendő idő várható hosszáról. Ezzel a vizsgáló intézmény biztosítani tudja, hogy a megfelelő személyzet és dokumentáció a vizsgálat idejére rendelkezésre álljon. Konkrét dokumentumok vagy nyilvántartások célzott vizsgálata előtt hasznos a vizsgálóhellyel egyeztetni a látogatás előtt, hogy a dokumentumok az ellenőrzés során azonnal rendelkezésre álljanak.
 
 III. Nyitó megbeszélés
 
 1. Cél: a vizsgáló intézmény vezetőségének és munkatársainak tájékoztatása a vizsgáló intézmény GLP ellenőrzése vagy a vizsgálatok felülvizsgálata okáról, valamint a vizsgáló intézmény várhatóan ellenőrzés alá vont területeinek, az ellenőrzésre kiválasztott vizsgálatoknak vagy dokumentumok körének meghatározása, továbbá az ellenőrzésbe bevonni kívánt munkatársak megnevezése.
 
-2. A vizsgáló intézmény ellenőrzésére vagy a vizsgálatok felülvizsgálatára vonatkozó adminisztratív és gyakorlati részleteket a látogatás elején meg kell beszélni az vizsgáló intézmény vezetőségével. A nyitó megbeszélésen a GLP felügyelő köteles:
+2. A vizsgáló intézmény ellenőrzésére vagy a vizsgálatok felülvizsgálatára vonatkozó adminisztratív és gyakorlati részleteket a látogatás elején meg kell beszélni az vizsgáló intézmény vezetőségével. A nyitó megbeszélésen a GLP ellenőr köteles:
 
 2.1. felvázolni a látogatás célját és kereteit,
 
 2.2. ismertetni a vizsgáló intézmény ellenőrzéséhez szükséges dokumentumok körét,
 
-2.3. dönteni az okmányokba való betekintésről és – ha szükséges – az azok lemásolására vonatkozó intézkedésekről,
+2.3. dönteni az iratokba való betekintésről és – ha szükséges – az azok lemásolására vonatkozó intézkedésekről,
 
 2.4. meghatározni és bekérni a vizsgáló intézmény irányítási rendszerére és személyzetére vonatkozó adatokat,
 
@@ -132,11 +100,11 @@ III. Nyitó megbeszélés
 
 2.8. jelezni, hogy az ellenőrzés befejezésekor záró értekezletre kerül sor.
 
-3. Az ellenőrzés tényleges megkezdése előtt a GLP felügyelőnek célszerű felvennie a kapcsolatot a vizsgáló intézmény minőségbiztosítási egységével.
+3. Az ellenőrzés tényleges megkezdése előtt a GLP ellenőrnek célszerű felvennie a kapcsolatot a vizsgáló intézmény minőségbiztosítási egységével.
 
-4. A vizsgáló intézmény GLP ellenőrzése során a GLP felügyelőket általában a minőségbiztosítási egység egyik tagja kíséri.
+4. A vizsgáló intézmény GLP ellenőrzése során a GLP ellenőröket általában a minőségbiztosítási egység egyik tagja kíséri.
 
-5. Az GLP felügyelő kérheti, hogy egy helyiséget különítsenek el a számára a dokumentumok vizsgálata és egyéb tevékenységek végzése céljából.
+5. Az GLP ellenőr kérheti, hogy egy helyiséget különítsenek el a számára a dokumentumok vizsgálata és egyéb tevékenységek végzése céljából.
 
 IV. Szervezeti felépítés és személyzet
 
@@ -162,7 +130,7 @@ IV. Szervezeti felépítés és személyzet
 
 2.9. a GLP ellenőrzés alá vont vizsgálatokba bevont vizsgálatvezetők és megbízók listája vagy listái.
 
-3. A GLP felügyelőnek meg kell megvizsgálnia:
+3. A GLP ellenőrnek meg kell megvizsgálnia:
 
 3.1. a folyamatban lévő és befejezett vizsgálatok listáját, a vizsgáló intézmény által vállalt munkamennyiség felmérése céljából,
 
@@ -176,7 +144,7 @@ V. Minőségbiztosítási program
 
 2. A minőségbiztosítási egység vezetője bemutatja a helyszíni GLP ellenőrzésekre és a vizsgálatok folyamatos GLP ellenőrzésére vonatkozó minőségbiztosítási rendszereket és módszereket, valamint a folyamatos GLP ellenőrzések során tett észrevételek nyilvántartási rendszerét.
 
-3. A GLP felügyelők ellenőrzik, hogy:
+3. A GLP ellenőrök ellenőrzik, hogy:
 
 3.1. megfelelő-e a minőségbiztosítási egység vezetőjének, valamint a minőségbiztosítási munkatársaknak a képzettsége,
 
@@ -204,7 +172,7 @@ VI. Helyiségek
 
 1. Cél: annak megállapítása, hogy a vizsgáló intézmény épületen belüli és szabadtéri mérete, szerkezete és elhelyezkedése megfelel-e a vállalt vizsgálatok kivitelezéséhez.
 
-2. Az GLP felügyelők ellenőrzik, hogy:
+2. A GLP ellenőrök ellenőrzik, hogy:
 
 2.1. a vizsgáló intézmény kialakítása lehetővé teszi-e a megfelelő mértékű elkülönítést, amellyel megakadályozható, hogy az egyik vizsgálatban szereplő vizsgálati anyagok összekeveredjenek egy másik vizsgálat anyagaival,
 
@@ -216,7 +184,7 @@ VII. A biológiai vizsgálati rendszerek kezelése, elhelyezése és tárolása
 
 1. Cél: annak megállapítása, hogy az állatokat vagy egyéb biológiai vizsgálati rendszereket felhasználó vizsgáló intézmény rendelkezik-e az állatok és egyéb biológiai rendszerek kezelésére, elhelyezésére és tárolására alkalmas kiszolgáló helyiségekkel, és biztosítottak-e a vizsgálati rendszereket és az adatok minőségét is befolyásoló stresszhelyzetek és egyéb problémák elkerülésére alkalmas eszközök és feltételek.
 
-2. A vizsgáló intézményben különböző állat vagy növényfajokon, valamint mikrobákon illetve egyéb celluláris vagy szubcelluláris rendszereken végezhetnek vizsgálatokat. A felhasznált vizsgálati rendszerek típusa meghatározza a kezelés, az elhelyezés vagy a tárolás körülményeit, amelyeket a GLP felügyelő ellenőriz. A GLP felügyelő – saját megítélése alapján, a vizsgálati rendszernek megfelelően – a következőket ellenőrzi:
+2. A vizsgáló intézményben különböző állat vagy növényfajokon, valamint mikrobákon illetve egyéb celluláris vagy szubcelluláris rendszereken végezhetnek vizsgálatokat. A felhasznált vizsgálati rendszerek típusa meghatározza a kezelés, az elhelyezés vagy a tárolás körülményeit, amelyeket a GLP ellenőr ellenőriz. A GLP ellenőr – saját megítélése alapján, a vizsgálati rendszernek megfelelően – a következőket ellenőrzi:
 
 2.1. rendelkezésre állnak-e a felhasznált vizsgálati rendszereknek és a vizsgálati igényeknek megfelelő helyiségek,
 
@@ -242,7 +210,7 @@ VIII. Készülékek, anyagok, reagensek és vizsgálati minták
 
 1. Cél: annak megállapítása, hogy megfelelő-e a vizsgáló intézmény elhelyezése, elegendő mennyiségben állnak-e rendelkezésre az üzemeltetéshez szükséges készülékek, megfelelő-e a kapacitásuk a vizsgáló intézményben végzett vizsgálatokkal szemben támasztott követelmények teljesítésére, megfelelő-e az anyagok, reagensek és vizsgálati minták címkézése, használata és tárolása.
 
-2. Az GLP felügyelő ellenőrzi, hogy:
+2. A GLP ellenőr ellenőrzi, hogy:
 
 2.1. a készülékek tiszták és üzemképesek-e,
 
@@ -260,7 +228,7 @@ IX. Vizsgálati rendszerek
 
 2. Fizikai és kémiai rendszerek
 
-2.1. Az GLP felügyelőnek ellenőriznie kell, hogy:
+2.1. Az GLP ellenőrnek ellenőriznie kell, hogy:
 
 2.1.1. ha a vizsgálati tervek azt előírják, meghatározták-e a kísérleti és összehasonlító anyagok stabilitását, valamint hogy valóban a vizsgálati tervekben meghatározott összehasonlító anyagokat használták-e,
 
@@ -268,7 +236,7 @@ IX. Vizsgálati rendszerek
 
 3. Biológiai vizsgálati rendszerek
 
-3.1. A biológiai vizsgálati rendszerek gondozására, elhelyezésére vagy elkülönített tárolására vonatkozóan fent említett szempontok megfelelő figyelembevételével a GLP felügyelő ellenőrzi, hogy:
+3.1. A biológiai vizsgálati rendszerek gondozására, elhelyezésére vagy elkülönített tárolására vonatkozóan fent említett szempontok megfelelő figyelembevételével a GLP ellenőr ellenőrzi, hogy:
 
 3.1.1. a vizsgálati rendszerek megfelelnek-e a vizsgálati tervekben meghatározottaknak,
 
@@ -292,7 +260,7 @@ X. Kísérleti és összehasonlító anyagok
 
 1. Cél: annak megállapítása, hogy a vizsgáló intézmény rendelkezik-e olyan eljárásokkal, amelyek célja annak megállapítása, hogy a kísérleti és összehasonlító anyagok neve, hatása, mennyisége és összetétele összhangban van-e a rájuk vonatkozó előírásokkal, valamint annak ellenőrzése, hogy a kísérleti és összehasonlító anyagok átvétele és tárolása megfelelő-e.
 
-2. Az GLP felügyelő ellenőrzi, hogy:
+2. A GLP ellenőr ellenőrzi, hogy:
 
 2.1. létezik-e írásbeli nyilvántartás az átvételről, amely tartalmazza az átvételért felelős személy nevét, valamint a kísérleti és összehasonlító anyagok kezeléséről, mintavételéről, használatáról és tárolásáról,
 
@@ -314,7 +282,7 @@ XI. Szabványműveleti előírások
 
 1. Cél: annak megállapítása, hogy a vizsgáló intézmény rendelkezik-e valamennyi lényeges tevékenységére vonatkozó írásbeli szabványműveleti előírással, figyelemmel arra, hogy a vizsgáló intézmény működésének ellenőrzésére szolgáló legfontosabb vezetési eszközök egyike az írásbeli szabványműveleti előírások igénybevétele. Ezek szabályozzák közvetlenül a vizsgáló intézményben végzett vizsgálatok rutinelemeit.
 
-2. Az GLP felügyelő ellenőrzi, hogy:
+2. A GLP ellenőr ellenőrzi, hogy:
 
 2.1. rendelkezik-e a vizsgáló intézmény minden egyes részlege azonnal hozzáférhető másolatokkal az engedélyezett szabványműveleti előírásokról,
 
@@ -350,7 +318,7 @@ XII. A vizsgálatok kivitelezése
 
 1. Cél: annak megállapítása, hogy rendelkezésre állnak-e írásbeli vizsgálati tervek, és hogy a tervek és a vizsgálat lefolytatása összhangban van-e a GLP elveivel.
 
-2. Az GLP felügyelő ellenőrzi, hogy:
+2. A GLP ellenőr ellenőrzi, hogy:
 
 2.1. a vizsgálatvezető aláírta-e a vizsgálati tervet,
 
@@ -376,7 +344,7 @@ XIII. A vizsgálat eredményéről készült jelentés
 
 1. Cél: annak megállapítása, hogy a zárójelentések a GLP elveivel összhangban készültek-e.
 
-2. A zárójelentés vizsgálatakor a GLP felügyelő ellenőrzi, hogy:
+2. A zárójelentés vizsgálatakor a GLP ellenőr ellenőrzi, hogy:
 
 2.1. a vizsgálatvezető aláírta és keltezte-e a dokumentumot, feltüntette-e, hogy felelősséget vállal a vizsgálat érvényességéért, továbbá nyilatkozott-e arról, hogy a vizsgálatot a GLP elveivel összhangban végezték,
 
@@ -392,7 +360,7 @@ XIV. A nyilvántartások tárolása és megőrzése
 
 1. Cél: annak megállapítása, hogy készültek-e a vizsgáló intézményben részletes nyilvántartások és jelentések, és hogy történt-e megfelelő intézkedés a nyilvántartások és anyagok biztonságos tárolása és megőrzése érdekében;
 
-2. Az GLP felügyelő ellenőrzi:
+2. A GLP ellenőr ellenőrzi:
 
 2.1. hogy kijelölésre került-e az irattárért felelős személy,
 
@@ -408,11 +376,11 @@ XIV. A nyilvántartások tárolása és megőrzése
 
 XV. A vizsgálatok felülvizsgálata
 
-1. A vizsgáló intézmény GLP ellenőrzése keretében végzett vizsgálat-felülvizsgálatok során a GLP felügyelő a folyamatban lévő vagy befejezett vizsgálatokat tekint át.
+1. A vizsgáló intézmény GLP ellenőrzése keretében végzett vizsgálat-felülvizsgálatok során a GLP ellenőr a folyamatban lévő vagy befejezett vizsgálatokat tekint át.
 
 2. Egyes esetekben a vizsgálat felülvizsgálata érdekében a GLP felügyelőknek szükségük lehet más szakértők bevonására.
 
-3. A vizsgálatok felülvizsgálata során a GLP felügyelő köteles:
+3. A vizsgálatok felülvizsgálata során a GLP ellenőr köteles:
 
 3.1. beszerezni a vizsgálatban, illetve a vizsgálatokban vizsgálatvezetőként és vezető szakértőként résztvevő kiválasztott munkatársak nevét, munkaköri leírását, valamint a képzettségüket és tapasztalatukat összefoglaló dokumentumokat,
 
@@ -434,7 +402,7 @@ XV. A vizsgálatok felülvizsgálata
 
 3.6.4. a zárójelentést.
 
-4. Olyan vizsgálatok esetében, amelyekben állatokat használnak fel a GLP felügyelőknek végig kell kísérniük az állatok bizonyos százalékának útját a vizsgáló intézménybe történő érkezésüktől a boncolásukig. Különös figyelmet kell fordítaniuk a következőkkel kapcsolatos nyilvántartásokra:
+4. Olyan vizsgálatok esetében, amelyekben állatokat használnak fel a GLP ellenőröknek végig kell kísérniük az állatok bizonyos százalékának útját a vizsgáló intézménybe történő érkezésüktől a boncolásukig. Különös figyelmet kell fordítaniuk a következőkkel kapcsolatos nyilvántartásokra:
 
 4.1. az állatok testtömege, élelem és víz felvétele, a vizsgálati anyag dózis összetétele és a beadás módja,
 
@@ -446,8 +414,8 @@ XV. A vizsgálatok felülvizsgálata
 
 XVI. A GLP ellenőrzés vagy a vizsgálatok felülvizsgálatának lezárása
 
-1. Amikor a vizsgáló intézmény GLP ellenőrzése, vagy a vizsgálatok felülvizsgálata befejeződött, a GLP felügyelőnek fel kell készülnie arra, hogy megállapításait záró értekezleten tárgyalja meg a vizsgáló intézmény képviselőivel, valamint arra, hogy inspekciós jelentést készítsen.
+1. Amikor a vizsgáló intézmény GLP ellenőrzése, vagy a vizsgálatok felülvizsgálata befejeződött, a GLP ellenőrnek fel kell készülnie arra, hogy megállapításait záró értekezleten tárgyalja meg a vizsgáló intézmény képviselőivel, valamint arra, hogy ellenőrzési jelentést készítsen.
 
-2. Amennyiben másként nem lehetséges a GLP felügyelő egy bizonyos idő után a vizsgáló intézmény ismételt meglátogatása során ellenőrzi a szükséges intézkedések végrehajtását.
+2. Amennyiben másként nem lehetséges, a GLP ellenőr egy bizonyos idő után a megismételt helyszíni ellenőrzés során ellenőrzi a szükséges intézkedések végrehajtását.
 
-[^27]: A 2. melléklet a 23/2015. (IV. 28.) EMMI rendelet 164. § b), d) és j) pontja, a 28/2023. (VIII. 10.) BM rendelet 72. § b) és d) pontja szerint módosított szöveg.
+[^34]: A 2. melléklet a 23/2015. (IV. 28.) EMMI rendelet 164. § b), d) és j) pontja, a 28/2023. (VIII. 10.) BM rendelet 72. § b) és d) pontja, az 57/2024. (XII. 20.) BM rendelet 38. §-a és 39. § 4–6., 10–20. pontja és 40. § c)–f) pontja szerint módosított szöveg. [Ez utóbbi módosító rendelet 39. § 9. pontja által elrendelt módosítás, amely szerint a 2. melléklet A) rész III. A GLP Program alcím 1.3. alpontjában az „adatok” szövegrész helyébe az „információk” lép, nem vezethető át.]

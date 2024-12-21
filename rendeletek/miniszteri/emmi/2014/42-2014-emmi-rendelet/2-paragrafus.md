@@ -16,9 +16,9 @@
 
 7.[^2] GLP megfelelőség: az NNGYK arra vonatkozó megállapítása, hogy a vizsgáló intézmény teljesíti-e a GLP követelményeit;
 
-8. GLP megfelelőség rendszeres ellenőrzése: a vizsgáló intézmény időszakos felülvizsgálata és a vizsgálatok felülvizsgálata a GLP elvek betartásának megállapítása céljából;
+8.[^3] GLP megfelelőség rendszeres ellenőrzése: a vizsgáló intézmény időszakos ellenőrzése és a vizsgálatok felülvizsgálata a GLP elvek betartásának megállapítása céljából;
 
-9. GLP Program: olyan program, amely a Magyarország területén működő vizsgáló intézmények GLP megfelelőségének rendszeres ellenőrzésére, valamint a vizsgáló intézményekben folytatott vizsgálatok felülvizsgálatára irányul;
+9.[^4] GLP Program: olyan keretrendszer, amely a Magyarország területén működő vizsgáló intézmények GLP megfelelőségének időszakos ellenőrzésére, valamint a vizsgáló intézményekben folytatott vizsgálatok felülvizsgálatára irányul;
 
 10. gyártási tétel: a kísérleti anyagoknak vagy összehasonlító anyagoknak azon meghatározott mennyisége vagy tétele, amelyeket meghatározott gyártási ciklusban állítottak elő, és amelyek azonosnak tekinthetőek és ekként is vannak megjelenítve;
 
@@ -36,7 +36,7 @@
 
 17. kozmetikum: a kozmetikai termékekről szóló 2009. november 30-i 1223/2009/EK európai parlamenti és tanácsi rendelet 2. cikk (1) bekezdés a) pontjában meghatározott készítmény;
 
-18. megbízó: az a jogi személy, jogi személyiséggel nem rendelkező szervezet, vagy természetes személy, aki vizsgálatra megbízást ad, azt támogatja, illetve ilyen vizsgálatra irányuló kérelmet előterjeszt;
+18.[^5] megbízó: az a jogi személy, vagy természetes személy, aki vizsgálatra megbízást ad, azt támogatja, illetve ilyen vizsgálatra irányuló kérelmet előterjeszt;
 
 19. minőségbiztosítási program: az a személyzetet is magába foglaló meghatározott rendszer, amely független a vizsgálat elvégzésétől, és úgy alakították ki, hogy a vizsgáló intézmény vezetősége számára garantálja a GLP alapelveinek betartását;
 
@@ -79,3 +79,6 @@
 38. vizsgáló intézmény vezetősége: azon személy vagy személyek, akiknek hatáskörébe és hivatalos felelőssége alá tartozik a vizsgáló intézményeknek a GLP említett alapelveinek megfelelően történő szervezése és működtetése.
 
 [^2]: A 2. § 7. pontja a 28/2023. (VIII. 10.) BM rendelet 72. § b) pontja szerint módosított szöveg.
+[^3]: A 2. § 8. pontja az 57/2024. (XII. 20.) BM rendelet 39. § 1. pontja szerint módosított szöveg.
+[^4]: A 2. § 9. pontja az 57/2024. (XII. 20.) BM rendelet 39. § 2. és 3. pontja szerint módosított szöveg.
+[^5]: A 2. § 18. pontja az 57/2024. (XII. 20.) BM rendelet 40. § a) pontja szerint módosított szöveg.
