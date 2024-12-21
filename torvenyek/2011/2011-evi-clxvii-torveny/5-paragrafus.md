@@ -14,7 +14,7 @@ a) a szolgálati viszony megszüntetésére egészségi, pszichikai, fizikai alk
 
 b) a jogosult 2011 decemberére járó szolgálati nyugdíjának összege – a 2012. január 1-jét megelőzően hatályos szabályok alapján csökkentett mértékben folyósított szolgálati nyugdíj esetén a jogosult 2011 decemberére járó szolgálati nyugdíjának a 2012. január 1-jét megelőzően hatályos szabályok szerinti csökkentések nélküli havi összege – nem haladta meg a 2011. december 31-én hatályos kötelező legkisebb munkabér havi összegének 150 százalékát,
 
-c) a jogosult önkéntes tartalékos szerződést – ide nem értve a honvédelmért felelős miniszter rendeletében meghatározott, területvédelmi feladatok ellátására irányuló önkéntes tartalékos szolgálati viszony létesítésére irányuló szerződést – kötött, a szerződés megkötését követő hónap első napjától a szerződés megszűnése hónapjának utolsó napjáig,
+c) a jogosult önkéntes tartalékos szerződést kötött, a szerződés megkötését követő hónap első napjától a szerződés megszűnése hónapjának utolsó napjáig,
 
 d) a jogosult a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 29/D. § (3) bekezdése alapján négy vagy több gyermeket nevelő anyának minősül, vagy
 
@@ -34,4 +34,4 @@ c) a fegyveres erők és fegyveres testületek hivatásos állományú tagjainak
 
 a 2012. január 1-jét megelőzően hatályos szabályok szerinti csökkentések nélkül kell folyósítani, és a (2) bekezdés szerinti csökkentést ennek megfelelően kell módosítani.
 
-(7) A (3) bekezdés c) pontja szerinti szerződés megkötéséről, megszűnéséről a szolgálati járandóság összegének pontos meghatározása érdekében a Honvédség központi személyügyi nyilvántartó szerve minden hónap 20. napjáig értesíti a nyugdíjfolyósító szervet. A szerződés megkötéséről szóló értesítés alapján a nyugdíjfolyósító szerv az önkéntes tartalékos katona – ide nem értve a honvédelemért felelős miniszter rendelete szerinti, területvédelmi feladatokat ellátó önkéntes tartalékos katonát – részére megállapított és folyósított szolgálati járandóság összegét, és annak változását a szolgálati járandóság összegének pontos meghatározása érdekében közli a Honvédség központi nyilvántartó szervével.
+(7) A (3) bekezdés c) pontja szerinti szerződés megkötéséről, megszűnéséről a szolgálati járandóság összegének pontos meghatározása érdekében a Honvédség központi személyügyi nyilvántartó szerve minden hónap 20. napjáig értesíti a nyugdíjfolyósító szervet. A szerződés megkötéséről szóló értesítés alapján a nyugdíjfolyósító szerv az önkéntes tartalékos katona részére megállapított és folyósított szolgálati járandóság összegét, és annak változását a szolgálati járandóság összegének pontos meghatározása érdekében közli a Honvédség központi nyilvántartó szervével.
