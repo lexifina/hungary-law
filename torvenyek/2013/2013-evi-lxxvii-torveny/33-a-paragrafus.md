@@ -1,1 +1,1 @@
-### 33/A. §
+33/A. § Azok a felsőoktatási intézmények, amelyeknek 2024. május 10. napjáig vagyoni biztosítékadási kötelezettségük állt fenn, a vagyoni biztosítékadásra vonatkozó bejelentési és nettó árbevetéli jelentési kötelezettségüknek legkésőbb 2025. június 15-ig eleget kell tenniük.

@@ -1,6 +1,6 @@
 7. § (1) A felnőttképzési államigazgatási szerv a felnőttképzési szakértőkről elektronikus nyilvántartást vezet, amely a felnőttképzési szakértői tevékenység végzésére jogosult személy természetes személyazonosító adatait, valamint – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl – a felnőttképzési szakértő
 
-a) lakcímét,
+a) lakcímét, telefonszámát és e-mail címét,
 
 b) közzétenni kívánt elérhetőségét és a felnőttképzési szakértő tevékenységével összefüggő egyéb adatát, ha hozzájárult annak közzétételéhez,
 

@@ -28,7 +28,9 @@ a felnőttképzési tevékenységtől a felnőttképzési államigazgatási szer
 
 (5a) Ha a felnőttképző a felnőttképzési tevékenységet az eltiltás és kiszabott közigazgatási bírság ellenére tovább folytatja, a felnőttképzési államigazgatási szerv a felnőttképző adószámának törlése iránt intézkedik.
 
-(6) A felnőttképzési államigazgatási szerv a felnőttképzési tevékenység megtiltását, illetve a felnőttképzési tevékenységtől eltiltást elrendelő határozata véglegessé válását követő harminc napon belül a felnőttképző köteles a jogellenes tevékenység időszaka alatt beszedett képzési díj, valamint a képzés kapcsán felmerült igazolt költség jegybanki alapkamat másfélszeresével növelt összegének a díjat és költséget megfizető részére történő visszafizetésére.
+(6) A felnőttképzési államigazgatási szerv a felnőttképzési tevékenység megtiltását, illetve a felnőttképzési tevékenységtől eltiltást elrendelő határozata véglegessé válását követő harminc napon belül a felnőttképző köteles a jogellenes tevékenység időszaka alatt beszedett képzési díj jegybanki alapkamat másfélszeresével növelt összegének a díjat megfizető részére történő visszafizetésére.
+
+(6a) A (6) bekezdés szerinti visszafizetési kötelezettség nem terjed ki azokra, akik a képzés elvégzésével tanúsítványt szereztek felnőttképzési államigazgatási szerv által a felnőttképzővel szemben elrendelt ellenőrzésről szóló értesítés közléséig.
 
 (7) A felnőttképzési államigazgatási szerv a felnőttképzési tevékenység végzésétől történő eltiltás tényét, illetve az eltiltást elrendelő határozatát a honlapján nyilvánosságra hozza. A felnőttképző és a felnőttképző törvényes képviseletére jogosult természetes személy természetes személyazonosító adata – a családi és utónév kivételével – nem hozható nyilvánosságra.
 

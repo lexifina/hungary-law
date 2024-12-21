@@ -6,6 +6,8 @@
 
 (2b) A (2a) bekezdés szerinti mikrotanúsítványt a felnőttképző a FAR-rendszerben állítja ki és elektronikus formában tárolja oly módon, hogy a mikrotanúsítványt a FAR-rendszer üzemeltetője elektronikus aláírással és olyan szolgáltató által kiadott időbélyegzővel látja el, amely e szolgáltatást minősített szolgáltatóként nyújtja. A mikrotanúsítványt a felnőttképző a képzésben részt vevő személy részére a FAR-rendszeren keresztül elektronikus úton továbbítja.
 
-(3) Az (1) és (2) bekezdés szerinti mikrotanúsítvány közokirat. E törvény alkalmazásában a mikrotanúsítvány elnevezéssel megegyező a „kredit igazolás” és a „micro-credentials” kifejezés.
+(3) Az (1) és (2) bekezdés szerinti mikrotanúsítvány közokirat.
 
 (4) Az (1) és (2) bekezdés szerinti mikrotanúsítványt a kiállítója által használt tanulmányi rendszerben elektronikusan kell kiállítani, tárolni és a FAR-ba – az adatok elektronikus feldolgozására alkalmas módon – elektronikusan feltölteni, továbbá a mikrotanúsítvány kiállítója által elektronikus aláírásával és olyan szolgáltató által kiadott időbélyegzővel kell ellátni, amely e szolgáltatást minősített szolgáltatóként nyújtja.
+
+(4a) A FAR-ba való elektronikus feltöltés a képző, a képzés, a mikrotanúsítvány, illetve az azt kiállító adatai mellett a mikrotanúsítványt szerző személy azonosítása, ellenőrzése és pontosítása, valamint a pályakövetési rendszer és a munkaerő-piaci előrejelző rendszer működtetése céljából tartalmazza a mikrotanúsítványon szereplő személy viselt nevét, születési nevét, születési helyét és idejét, anyja nevét, oktatási azonosító számát, adóazonosító jelét, társadalombiztosítási azonosító jelét, kibocsátó rendszerbeli azonosítószámát, állampolgárságát, legmagasabb iskolai végzettségét is.

@@ -1,4 +1,4 @@
-8. § (1) A felnőttképzési államigazgatási szerv hatósági ellenőrzés keretében ellenőrzi a felnőttképzési szakértőre és az általa végzett tevékenységre vonatkozóan jogszabályban meghatározott rendelkezések betartását, valamint a felnőttképzési államigazgatási szerv végrehajtható döntésében foglaltak teljesítését.
+8. § (1) A felnőttképzési államigazgatási szerv ellenőrzi a felnőttképzési szakértőre és az általa végzett tevékenységre vonatkozóan jogszabályban meghatározott rendelkezések betartását, valamint a felnőttképzési államigazgatási szerv végrehajtható döntésében foglaltak teljesítését.
 
 (1a) A felnőttképzési államigazgatási szerv a felnőttképzési szakértővel szemben tevékenység végzésétől történő eltiltást egy évnél hosszabb időre nem alkalmazhat.
 

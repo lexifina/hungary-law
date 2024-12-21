@@ -1,1 +1,1 @@
-### 33/B. §
+33/B. § Az egyes felsőoktatási, családügyi és kulturális tárgyú törvények módosításáról szóló 2024. évi LXXVI. törvénnyel (a továbbiakban: Módtv4.) megállapított 17/A. § c) pontját a Módtv4. hatálybalépésének napján folyamatban lévő képzésekre nem kell alkalmazni.

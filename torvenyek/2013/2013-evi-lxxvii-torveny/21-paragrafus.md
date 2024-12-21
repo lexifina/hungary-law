@@ -28,4 +28,4 @@ kapcsolatosak.
 
 (4)
 
-(5) A felnőttképző az (1) bekezdésben meghatározott személyes adatot a felnőttképzési szerződés megkötésétől számított nyolcadik év utolsó napjáig kezeli.
+(5) A felnőttképző az (1) bekezdés a) pontjában meghatározott személyes adatot – a jogszabály alapján szervezett oktatás és képzés esetén az ágazati jogszabályokban meghatározott ideig, de legalább – a felnőttképzési szerződés megkötésétől számított nyolcadik év utolsó napjáig kezeli.
