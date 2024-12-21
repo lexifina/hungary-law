@@ -10,7 +10,7 @@ ac) a köznevelési, illetve a felsőoktatási intézmény látogatása, vagy a 
 
 b) – a tartós ápolást végzők időskori támogatása kivételével – rendszeres pénzellátásban részesül, és annak összege meghaladja az ápolási díj összegét, ide nem értve a (4) bekezdés szerinti esetet, valamint azt a táppénzt, amelyet az ápolási díj folyósításának időtartama alatt végzett keresőtevékenységéből adódó biztosítási jogviszony alapján – keresőképtelenné válása esetén – folyósítanak,
 
-c) szakiskola, középiskola nappali rendszerű képzésének tanulója, illetve felsőoktatási intézmény nappali képzésben részt vevő hallgatója,
+c) szakiskola, középiskola nappali rendszerű képzésének tanulója, illetve a doktori képzés kivételével felsőoktatási intézmény teljes idejű képzésben részt vevő hallgatója,
 
 d) keresőtevékenységet folytat és munkaideje – az otthon történő munkavégzés kivételével – a napi 4 órát meghaladja.
 

@@ -10,7 +10,7 @@ ac) a köznevelési, illetve a felsőoktatási intézmény látogatása, vagy a 
 
 b) – a gyermeknevelési támogatás, valamint a nem a gyermekek otthongondozási díjára jogosító gyermekre tekintettel folyósított csecsemőgondozási díj, az örökbefogadói díj, gyermekgondozási díj, gyermekgondozást segítő ellátás, továbbá a tartós ápolást végzők időskori támogatása kivételével – rendszeres pénzellátásban részesül, és annak összege meghaladja a gyermekek otthongondozási díjának összegét, ide nem értve az (5) bekezdés szerinti esetet, valamint azt a táppénzt, amelyet a gyermekek otthongondozási díja folyósításának időtartama alatt végzett keresőtevékenységéből adódó biztosítási jogviszony alapján – keresőképtelenné válása esetén – folyósítanak;
 
-c) szakiskola, középiskola nappali rendszerű képzésének tanulója, illetve felsőoktatási intézmény nappali képzésben részt vevő hallgatója; vagy
+c) szakiskola, középiskola nappali rendszerű képzésének tanulója, illetve a doktori képzés kivételével felsőoktatási intézmény teljes idejű képzésben részt vevő hallgatója; vagy
 
 d) keresőtevékenységet folytat és munkaideje – az otthon történő munkavégzés kivételével – a napi 4 órát meghaladja.
 
