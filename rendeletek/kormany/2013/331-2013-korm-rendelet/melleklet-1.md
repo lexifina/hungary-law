@@ -1,5 +1,3 @@
-## 18. §[^16] Ha az érintett szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartásra e rendelet 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
-
 1. melléklet a 331/2013. (IX. 5.) Korm. rendelethez[^17]
 
 A minimális pályázati ajánlati ár kiszámítása
@@ -26,5 +24,4 @@ PV = piac éves változása +3%, (0,03),
 
 PÜ = pályázattal érintett üzletrész 0-100% (0,0-1,0).
 
-[^16]: A 18. §-t a 477/2016. (XII. 27.) Korm. rendelet 70. § (2) bekezdése iktatta be.
 [^17]: Az 1. melléklet a Magyar Közlöny 2013. évi 147. számában megjelent helyesbtésnek megfelelő szöveg.
