@@ -4,7 +4,7 @@
 
 a) a 104. § (1) bekezdésében meghatározott tiszteletdíj tízszeresének, valamint
 
-b) – a képviselőcsoporthoz tartozó képviselőnként – a 104. § (1) bekezdésében meghatározott tiszteletdíj 30%-ának
+b) – a képviselőcsoporthoz tartozó képviselőnként – a 104. § (1) bekezdésében meghatározott tiszteletdíj 50%-ának
 
 megfelelő összegre jogosult az Országgyűlés Hivatala költségvetéséből.
 

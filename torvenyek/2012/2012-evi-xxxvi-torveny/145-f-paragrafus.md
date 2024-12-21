@@ -1,0 +1,1 @@
+145/F. § A Magyarország 2025. évi központi költségvetésének megalapozásáról szóló 2024. évi LXXIV. törvénnyel (a továbbiakban: Módtv.6.) módosított 112. § (3) bekezdésében foglaltakat első alkalommal a 2024. december hónapra járó keret tekintetében kell alkalmazni.

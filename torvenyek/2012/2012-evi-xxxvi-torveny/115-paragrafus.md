@@ -4,23 +4,23 @@
 
 a) a képviselőcsoport létszámától függően, ha annak létszáma
 
-aa) nem haladja meg a tíz főt, öt fő,
+aa) nem haladja meg a tíz főt, tíz fő,
 
-ab) tizenegy–húsz fő közötti, hét fő,
+ab) tizenegy–húsz fő közötti, tizennégy fő,
 
-ac) huszonegy–harmincnégy fő közötti, tíz fő,
+ac) huszonegy–harmincnégy fő közötti, húsz fő,
 
-ad) harmincöt–ötven fő közötti, tizenkettő fő,
+ad) harmincöt–ötven fő közötti, huszonnégy fő,
 
-ae) ötvenegy–hetven fő közötti, tizenöt fő,
+ae) ötvenegy–hetven fő közötti, harminc fő,
 
-af) hetvenegy–kilencven fő közötti, húsz fő,
+af) hetvenegy–kilencven fő közötti, negyven fő,
 
-ag) kilencvenegy–száztíz fő közötti, huszonöt fő,
+ag) kilencvenegy–száztíz fő közötti, ötven fő,
 
-ah) száztizenegy–százhúsz fő közötti, harminc fő,
+ah) száztizenegy–százhúsz fő közötti, hatvan fő,
 
-ai) a százhúsz főt meghaladja, negyven fő, valamint
+ai) a százhúsz főt meghaladja, nyolcvan fő, valamint
 
 b) a képviselőcsoport létszámával megegyező számú
 
@@ -30,7 +30,7 @@ felső- vagy középfokú iskolai végzettségű, az Országgyűlés Hivatalán�
 
 (3) A képviselőcsoport a (2) és (2a) bekezdésben meghatározott személyek foglalkoztatására a (4) bekezdésben meghatározott bérkeret, illetve – a 118. § (1) bekezdése szerinti átcsoportosítás esetén – a (4) bekezdés szerinti bérkeret átcsoportosítással növelt összege erejéig jogosult. A bérkeret terhére polgári jogi jogviszony is létesíthető.
 
-(4) A képviselőcsoport a tárgyév március 1-jétől a következő év február végéig havonta a (2) és (2a) bekezdés szerint megállapított létszám és a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset két és félszerese szorzatának megfelelő összegű bérkeretre jogosult.
+(4) A képviselőcsoport a tárgyév március 1-jétől a következő év február végéig havonta a (2) és (2a) bekezdés szerint megállapított létszám és a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset négyszerese szorzatának megfelelő összegű bérkeretre jogosult.
 
 (5) A képviselőcsoport működését segítő, az Országgyűlés Hivatalánál foglalkoztatott személyekre az e törvényben foglalt, illetve az e törvény szerinti eltérő rendelkezés hiányában a köztisztviselőkre, továbbá munkavállalók esetében a közigazgatási szervnél foglalkoztatott munkavállalókra irányadó szabályokat kell alkalmazni azzal, hogy a munkáltatói jogkört a képviselőcsoport vezetője egyetértésével kell gyakorolni.
 

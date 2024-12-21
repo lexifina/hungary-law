@@ -2,9 +2,13 @@
 
 (2) A képviselő 111. § (1) bekezdése szerinti jogosultságaira az Országgyűlés Hivatala havonta legfeljebb a 104. § (1) bekezdésében meghatározott tiszteletdíj 100%-ának megfelelő összeget biztosít.
 
-(3) A képviselő 111. § (3) bekezdésében meghatározott juttatásainak fedezetét az Országgyűlés Hivatala úgy biztosítja, hogy a képviselő havonta a 104. § (1) bekezdésében meghatározott tiszteletdíj kétszeresének megfelelő összegű keretre jogosult, amely nem tartalmazza a kifizetőt terhelő közterheket.
+(3) A képviselő 111. § (3) bekezdésében meghatározott juttatásainak fedezetét az Országgyűlés Hivatala úgy biztosítja, hogy a képviselő havonta a 104. § (1) bekezdésében meghatározott tiszteletdíj 3,3-szorosának megfelelő összegű keretre jogosult, amely nem tartalmazza a kifizetőt terhelő közterheket.
 
-(4) A képviselő tevékenységét segítő alkalmazottak határozott idejű szerződéssel, a képviselő mandátuma alatt munkaviszonyban vagy polgári jogi jogviszonyban foglalkoztathatók. A munkáltatói jogkört a képviselő az Országgyűlés Hivatala ellenjegyzésével gyakorolja. A (3) bekezdés szerinti keret egésze vagy meghatározott része feletti rendelkezési jog és a munkáltatói jogkör gyakorlása átruházható a képviselőcsoport vezetőjére. A képviselőcsoport vezetője az e bekezdés szerinti átruházott jogait személyesen vagy meghatalmazása alapján a képviselőcsoportvezető-helyettes útján gyakorolja.
+(4) A képviselő tevékenységét segítő alkalmazottak − az Országgyűlés Hivatala ellenjegyzésével − határozott idejű szerződéssel, a képviselő mandátuma alatt munkaviszonyban vagy polgári jogi jogviszonyban foglalkoztathatók. Munkaviszony esetén a munkáltató és a munkáltatói jogkör gyakorlója, polgári jogi jogviszony esetén a megbízó
+
+a) a képviselő, vagy
+
+b) − amennyiben a képviselő a (3) bekezdés szerinti keret egésze vagy meghatározott része feletti rendelkezési jogot a képviselőcsoport vezetőjére átruházta − a képviselőcsoport vezetője, aki az e bekezdés szerinti jogait személyesen vagy meghatalmazása alapján a képviselőcsoportvezető-helyettes útján gyakorolja.
 
 (4a) Az Országgyűlés Hivatala a társadalombiztosítási nyugellátásra való jogosultság és a jogviszony igazolása céljából a (4) bekezdés szerinti képviselő tevékenységét segítő alkalmazott
 
