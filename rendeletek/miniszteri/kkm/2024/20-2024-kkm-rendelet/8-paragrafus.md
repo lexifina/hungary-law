@@ -1,0 +1,7 @@
+## „b) a beruházó vállalja, hogy a kötelező üzemeltetési időszak keretében a beruházást annak befejezése után legalább öt évig, kis- és középvállalkozások esetében legalább három évig fenntartja az érintett területen, továbbá vállalja, hogy az üzleti tevékenységét a beruházás befejezését követő tíz évig fenntartja, azzal, hogy az üzleti tevékenység fenntartására vonatkozó kötelezettség a c) pontban előírt kötelezettség teljesítésével teljesítettnek tekintendő abban az esetben is, amennyiben erre tíz éven belül sor kerül;
+
+## c) a beruházó vállalja, hogy a kötelező üzemeltetési időszak kezdőnapjától az üzleti tevékenység b) pont szerinti fenntartásának végéig terjedő időszak alatt az összes nettó árbevétele vagy pénzügyi műveleteinek bevétele legalább a megítélt támogatás összegével azonos összeggel meghaladja a támogatási kérelem benyújtását megelőző üzleti éve árbevételét vagy pénzügyi műveleteinek bevételét;”
+
+8. § A Rendelet 29. §-a helyébe a következő rendelkezés lép:
+
+„29. § A szakmai támogató szerv köteles adatot szolgáltatni a Támogatásokat Vizsgáló Iroda mint az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére a 10 000 eurót meghaladó összegű egyedi támogatásokról elsődleges mezőgazdasági termelési ágazatban működő kedvezményezettek esetében, illetve egyéb ágazatban a 100 000 eurót meghaladó összegű egyedi támogatásokról az Atr. 18/A–18/D. §-a szerinti közzététel céljából.”
