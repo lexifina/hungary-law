@@ -1,0 +1,1 @@
+31/C. § 2025. január 1. napjával a Jogelőd tételes jegyzőkönyv felvétele mellett a 31/B. §-ban meghatározottak szerint átadásra kerülő Feladatok vonatkozásában az azokhoz kapcsolódó valamennyi iratot és adatot átadja, a feladatellátáshoz szükséges vagy azt előmozdító valamennyi adatbázishoz való hozzáférést biztosítja a Jogutód részére.

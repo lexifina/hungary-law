@@ -1,6 +1,6 @@
-40. § (1)[^158]
+40. § (1)[^164]
 
-(2)[^159]
+(2)[^165]
 
-[^158]: A 40. § (1) bekezdését a (2) bekezdés hatályon kívül helyezte.
-[^159]: A 40. § (2) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^164]: A 40. § (1) bekezdését a (2) bekezdés hatályon kívül helyezte.
+[^165]: A 40. § (2) bekezdése ugyanezen bekezdés alapján hatályát vesztette.

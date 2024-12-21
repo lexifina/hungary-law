@@ -1,3 +1,3 @@
-37. §[^155]
+37. §[^161]
 
-[^155]: A 35–39. §-t a 40. § (2) bekezdése hatályon kívül helyezte.
+[^161]: A 35–39. §-t a 40. § (2) bekezdése hatályon kívül helyezte.
