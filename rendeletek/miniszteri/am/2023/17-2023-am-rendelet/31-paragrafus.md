@@ -10,4 +10,8 @@ c) az (EU) 2021/2116 európai parlamenti és tanácsi rendeletnek a közös agr�
 
 d) az (EU) 2021/2116 európai parlamenti és tanácsi rendeletnek a közös agrárpolitika keretében működő integrált igazgatási és kontrollrendszer tekintetében történő alkalmazására vonatkozó szabályok megállapításáról szóló, 2022. május 31-i (EU) 2022/1173 bizottsági végrehajtási rendelet
 
+e)[^8] az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet
+
 végrehajtásához szükséges rendelkezéseket állapít meg.
+
+[^8]: A 31. § e) pontját a 71/2024. (XII. 20.) AM rendelet 2. §-a iktatta be.

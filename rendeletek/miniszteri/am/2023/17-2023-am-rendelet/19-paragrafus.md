@@ -24,7 +24,7 @@ da) a minősített szaporítóanyag minősítését igazoló bizonyítvány más
 
 db) a termeltetővel, őstermelők családi gazdaságával, termelői integrációs szervezettel, termelői csoporttal vagy termelői szervezettel kötött szerződéssel, és
 
-dc)[^6] a termeltető, őstermelők családi gazdasága, termelői integrációs szervezet, termelői csoport vagy termelői szervezet által a mezőgazdasági termelő részére átadott minősített szaporítóanyag mennyiségét, valamint a származás megjelölését tartalmazó, a termeltető, az őstermelők családi gazdasága, a termelői integrációs szervezet, a termelői csoport vagy termelői szervezet által kiállított dokumentummal
+dc)[^7] a termeltető, őstermelők családi gazdasága, termelői integrációs szervezet, termelői csoport vagy termelői szervezet által a mezőgazdasági termelő részére átadott minősített szaporítóanyag mennyiségét, valamint a származás megjelölését tartalmazó, a termeltető, az őstermelők családi gazdasága, a termelői integrációs szervezet, a termelői csoport vagy termelői szervezet által kiállított dokumentummal
 
 igazolja.
 
@@ -54,4 +54,4 @@ b) a palánták esetében a tételazonosítót.
 
 (7) Ha a szaporítóanyagról kiállított számla dátuma későbbi, mint az igényelt növény vetésének dátuma, a mezőgazdasági termelő a szállító által kiállított egyéb, hiteles dokumentummal köteles igazolni, hogy a vetés vagy telepítés időpontjában a szaporítóanyag, amelyről a számla kiállításra került, már rendelkezésre állt.
 
-[^6]: A 19. § (1) bekezdés d) pont dc) alpontja a 26/2023. (VI. 30.) AM rendelet 26. §-ával megállapított szöveg.
+[^7]: A 19. § (1) bekezdés d) pont dc) alpontja a 26/2023. (VI. 30.) AM rendelet 26. §-ával megállapított szöveg.
