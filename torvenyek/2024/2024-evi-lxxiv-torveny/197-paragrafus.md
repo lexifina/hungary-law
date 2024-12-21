@@ -1,0 +1,7 @@
+## 57. Egyes vagyongazdálkodási tárgyú rendelkezésekről, valamint egyes vagyongazdálkodást és nemzeti pénzügyi szolgáltatásokat érintő törvények módosításáról szóló 2021. évi CXXXIII. törvény módosítása
+
+197. § Az egyes vagyongazdálkodási tárgyú rendelkezésekről, valamint egyes vagyongazdálkodást és nemzeti pénzügyi szolgáltatásokat érintő törvények módosításáról szóló 2021. évi CXXXIII. törvény a következő 6/A. alcímmel egészül ki:
+
+## „6/A. Egyes budapesti ingatlanok ingatlan-nyilvántartási helyzetének rendezéshez szükséges intézkedésekről
+
+6/A. § Az állami tulajdonban álló, Budapest V. kerület belterület 24512, 24513 és 24514 helyrajzi számú ingatlanokat (e § alkalmazásában a továbbiakban együtt: Ingatlanok) „kivett irodaház” megnevezésű ingatlanként kell nyilvántartásba venni. A művelés alól kivett terület elnevezése megváltozásának átvezetésére irányuló eljárást az MNV Zrt. kérelmére az ingatlanügyi hatóságként eljáró Budapest Főváros Kormányhivatala folytatja le. A művelés alól kivett terület elnevezése megváltozásának ingatlan-nyilvántartási átvezetésére irányuló kérelemben kizárólag e törvénynek a művelés alól kivett terület elnevezése megváltozását, valamint az Ingatlanok helyrajzi számát tartalmazó rendelkezésére kell hivatkozni, további dokumentum benyújtása nem szükséges. Az ingatlanügyi hatóság ügyintézési határideje 15 nap.”

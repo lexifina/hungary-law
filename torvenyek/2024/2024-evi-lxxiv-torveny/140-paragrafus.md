@@ -1,0 +1,3 @@
+140. § Az államháztartásról szóló 2011. évi CXCV. törvény 33. § (3b) bekezdése helyébe a következő rendelkezés lép:
+
+„(3b) Az ugyanazon középirányító szerv irányítása alá tartozó költségvetési szervek közötti előirányzat-átcsoportosításról, amennyiben a költségvetési szerv kiadási előirányzatain megtakarítás keletkezik vagy az átcsoportosítás a közfeladatok változásával, költségvetési szervek alapításával, átalakításával vagy megszüntetésével kapcsolatban szükséges, a középirányító szerv jogosult rendelkezni a fejezetet irányító szerv egyidejű tájékoztatása mellett. A középirányító szerv általi előirányzat-átcsoportosításról a fejezetet irányító szerv a Kormány rendeletében meghatározottak szerint tájékoztatja az államháztartásért felelős minisztert.”

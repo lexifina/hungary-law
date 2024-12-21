@@ -1,0 +1,3 @@
+83. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény 81/A. § (1) bekezdése a következő e) ponttal egészül ki:
+
+[Az elektronikus anyakönyvben, az apai elismerő nyilatkozatok nyilvántartásában, az okirat-nyilvántartásban és a jogosultsági nyilvántartásban kezelt adatok teljes körét, valamint az elektronikus alapiratot közvetlen hozzáféréssel jogosult átvenni, továbbá a papír alapú anyakönyvben nyilvántartott valamennyi adatot jogosult megtekinteni és átvenni, valamint az anyakönyvi alapiratot jogosult megtekinteni és arról másolatot kérni a 84. § (2) bekezdés a) pontjában foglalt adatok megadásával]

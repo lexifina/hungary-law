@@ -1,0 +1,1 @@
+160. § Hatályát veszti a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 2. melléklet III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősülő, műemléki védelem alatt álló építmények és építményegyüttesek cím 1. pontjában foglalt táblázat 1.24. sora.

@@ -1,0 +1,5 @@
+144. § Az államháztartásról szóló 2011. évi CXCV. törvény 45. § (6) és (7) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(6) Az állam nevében kijelölt tulajdonosi joggyakorlói feladatot ellátó gazdasági társaság a működéséhez biztosított központi költségvetési forrás felhasználásáról a tulajdonosi joggyakorlója felé elszámol, a fel nem használt vagy nem rendeltetésszerűen felhasznált forrás visszafizetése mellett.
+
+(7) Ha az állam befektetési alap létrehozatala útján valósítja meg feladatát, a befektetési jegyek megszerzése az állam nevében, tulajdonosi ügyletként hajtható végre. A befektetési jegyekből származó bevétel az állam tulajdonosi bevétele. Befektetési jegyet a Vtv. 17. § (1) bekezdés e) pontjától eltérően a befektetés céljának vagy jellegének szakmai kapcsolódása alapján feladat- és hatáskörrel rendelkező költségvetési szerv is szerezhet az állam nevében. Az így létrejött állami vagyon feletti tulajdonosi joggyakorlás tekintetében a Vtv. rendelkezéseit kell alkalmazni.”

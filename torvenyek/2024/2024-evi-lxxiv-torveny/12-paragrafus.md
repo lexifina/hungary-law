@@ -1,0 +1,5 @@
+## „p) a fejlesztő foglalkoztatás finanszírozásának rendjére vonatkozó részletes szabályokat;”
+
+12. § A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény a következő 140/B. §-sal egészül ki:
+
+„140/B. § 2025. január 1-jétől a területi lefedettséget figyelembe vevő finanszírozási rendszerbe – a rendelkezésre álló kapacitástól függetlenül – törvény erejénél fogva befogadottnak minősül az az utcai szociális munka, szenvedélybetegek részére nyújtott alacsonyküszöbű ellátás szolgáltatás, amely után a fenntartó a 2024. október 1-jén hatályos finanszírozási szerződése alapján támogatásra jogosult. A 2025. január 1-jét megelőzően hatályos 131/A. § alapján nyújtott állami támogatásra 2024. december 31-ét követően is a 2025. január 1-jét megelőzően hatályos rendelkezéseket kell alkalmazni.”

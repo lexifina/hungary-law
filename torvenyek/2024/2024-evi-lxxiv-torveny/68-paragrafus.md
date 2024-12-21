@@ -1,0 +1,5 @@
+68. § Az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló 1997. évi CXXIV. törvény 11. §-a a következő (3) és (4) bekezdéssel egészül ki:
+
+„(3) A közbeszerzésekről szóló törvény alkalmazásában a jogi személyiséggel rendelkező vallási közösség, valamint az egyházi jogi személy Ehtv. 7/A. § (2) bekezdése szerinti vallási tevékenysége önmagában nem minősül nem ipari vagy kereskedelmi jellegű, kifejezetten közérdekű tevékenységnek.
+
+(4) A közbeszerzésekről szóló törvény alkalmazásában az Országgyűlés, a Kormány vagy más ajánlatkérő által nyújtott finanszírozás aránya szempontjából a jogi személyiséggel rendelkező vallási közösség, valamint az egyházi jogi személy szervezeteknél és fenntartóknál nem kell figyelembe venni azokat az összegeket, amelyeket a szervezet vagy fenntartó más szervezetnek vagy a fenntartott intézménynek átad (a továbbiakban együtt: tényleges felhasználó szervezet). Az átadott összegeket a tényleges felhasználó szervezet finanszírozási aránya tekintetében kell figyelembe venni.”

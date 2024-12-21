@@ -1,0 +1,3 @@
+157. § A nemzeti vagyonról szóló 2011. évi CXCVI. törvény 6. § (3h) bekezdése helyébe a következő rendelkezés lép:
+
+„(3h) A Kormány kiemelt nemzetgazdasági érdekből egyedi határozatban dönthet a 4. § (1) bekezdés h) pontja szerinti vagyon, valamint e vagyoni körbe tartozó ingatlan részét képező, a 4. § (1) bekezdés d)–g) pontja szerinti kizárólagos állami vagyonba tartozó ingatlanrész tekintetében földhasználati jog alapításáról, illetve osztott tulajdon létesítéséről, valamint osztatlan közös tulajdon létrehozása, valamint annak megszüntetése érdekében e vagyon elidegenítéséről azzal, hogy az elidegenítés e vagyon állam általi működtetését nem veszélyeztetheti.”
