@@ -20,7 +20,7 @@ szenved el, és ezekről az agrárkár-megállapító szerv által a 10. § (1) 
 
 (4b)[^89] Az Mkk. tv. 11. § (5) bekezdésének alkalmazásában hozamcsökkenést kiváltó káresemény bekövetkezése előtt megkötött mezőgazdasági biztosítás alatt a mezőgazdasági termelő adott kárenyhítési évben megtett, a 4. § (1) bekezdése szerinti első kárbejelentésében feltüntetett mezőgazdasági káresemény bekövetkezésének időpontja előtt megkötött – határozatlan idejű szerződés esetén megújított – mezőgazdasági biztosítást kell érteni, a megállapított várható hozamcsökkenéstől, kárnemtől és növénykultúrától függetlenül.
 
-(4c)[^90] A (4b) bekezdésben meghatározott mezőgazdasági biztosítási szerződés megkötésének dátuma tekintetében a biztosító által az Mkk. tv. 17. § (1) bekezdés b) pontja és 17/A. § a) pont ab) alpontja alapján az agrárkár-megállapító szerv részére szolgáltatott adat az irányadó.
+(4c)[^90] A (4b) bekezdésben meghatározott mezőgazdasági biztosítási szerződés megkötésének dátuma tekintetében a biztosító által az Mkk. tv. 17. § (1) bekezdés b) pontja és 17/A. § a) pont ab) alpontja alapján az agrárkár-enyhítési szerv részére szolgáltatott adat az irányadó.
 
 (5)[^91] Az Mkk. tv. 16. §-a szerinti mezőgazdasági biztosítás kivételével, ha a mezőgazdasági biztosítási szerződésben a biztosított mezőgazdasági termelő nem szerződő fél, úgy teljes mértékű kárenyhítő juttatásra a biztosított mezőgazdasági termelő akkor jogosult, ha részére
 
@@ -60,7 +60,7 @@ a) az Mkk. tv. 16. §-a szerinti mezőgazdasági biztosítási szerződés eset�
 
 b) az Mkk. tv. 16. §-a szerinti mezőgazdasági biztosítási szerződésen kívüli egyéb biztosítás esetén a biztosító az Mkk. tv. 17/A. §-a alapján
 
-a részére szolgáltat.
+az agrárkár-enyhítési szerv részére szolgáltat.
 
 (6a)[^96] A biztosító által megállapított kártérítés összegét az Mkk. tv. 12. § (1) bekezdésében foglaltakkal összhangban figyelembe kell venni a kárenyhítő juttatás összegének kiszámításánál a lábon álló növénykultúrára kötött mezőgazdasági biztosítások esetében.
 
@@ -76,12 +76,12 @@ a részére szolgáltat.
 [^87]: A 9. § (4) bekezdése a 47/2024. (IX. 5.) AM rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^88]: A 9. § (4a) bekezdését a 60/2020. (XII. 9.) AM rendelet 5. § (2) bekezdése iktatta be, szövege az 59/2023. (X. 30.) AM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^89]: A 9. § (4b) bekezdését az 59/2023. (X. 30.) AM rendelet 1. § (1) bekezdése iktatta be, szövege a 47/2024. (IX. 5.) AM rendelet 9. § 18. pontja szerint módosított szöveg.
-[^90]: A 9. § (4c) bekezdését a 47/2024. (IX. 5.) AM rendelet 4. § (2) bekezdése iktatta be.
+[^90]: A 9. § (4c) bekezdését a 47/2024. (IX. 5.) AM rendelet 4. § (2) bekezdése iktatta be, szövege a 64/2024. (XII. 20.) AM rendelet 3. § a) pontja szerint módosított szöveg.
 [^91]: A 9. § (5) bekezdése az 59/2023. (X. 30.) AM rendelet 1. § (2) bekezdésével megállapított, nyitó és záró szövegrésze a 47/2024. (IX. 5.) AM rendelet 9. § 19. pontja szerint módosított szöveg.
 [^92]: A 9. § (5) bekezdés b) pont bd) alpontját a 47/2024. (IX. 5.) AM rendelet 10. § e) pontja hatályon kívül helyezte.
 [^93]: A 9. § (5a) bekezdését az 59/2023. (X. 30.) AM rendelet 1. § (2) bekezdése iktatta be, szövege a 47/2024. (IX. 5.) AM rendelet 4. § (3) bekezdésével megállapított szöveg.
 [^94]: A 9. § (5b) bekezdését az 59/2023. (X. 30.) AM rendelet 1. § (2) bekezdése iktatta be, szövege a 47/2024. (IX. 5.) AM rendelet 9. § 20. pontja szerint módosított szöveg.
-[^95]: A 9. § (6) bekezdése a 47/2024. (IX. 5.) AM rendelet 4. § (4) bekezdésével megállapított szöveg.
+[^95]: A 9. § (6) bekezdése a 47/2024. (IX. 5.) AM rendelet 4. § (4) bekezdésével megállapított, záró szövegrésze a 64/2024. (XII. 20.) AM rendelet 3. § b) pontja szerint módosított szöveg.
 [^96]: A 9. § (6a) bekezdését a 47/2024. (IX. 5.) AM rendelet 4. § (4) bekezdése iktatta be.
 [^97]: A 9. § (8) bekezdése a 60/2020. (XII. 9.) AM rendelet 8. § i) pontja szerint módosított szöveg.
 [^98]: A 9. § (9) bekezdése a 31/2023. (VII. 14.) AM rendelet 4. § c) pontja szerint módosított szöveg.

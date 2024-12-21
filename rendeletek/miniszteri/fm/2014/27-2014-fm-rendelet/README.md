@@ -34,3 +34,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-27-20-1
 | 2024-04-10 | 2014-27-20-11.27 | 31/2023. (VII. 14.) AM rendelet |
 | 2024-09-06 | 2014-27-20-11.28 | 47/2024. (IX. 5.) AM rendelet |
 | 2024-11-01 | 2014-27-20-11.29 | 47/2024. (IX. 5.) AM rendelet |
+| 2024-12-21 | 2014-27-20-11.30 | 47/2024. (IX. 5.) AM rendelet |

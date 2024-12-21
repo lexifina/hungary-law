@@ -14,7 +14,7 @@
 
 a)[^115] tárgyév április 30-ig a Magyar Államkincstár Mezőgazdasági támogatások szakmai költségvetési fejezeti alszámla felhasználásának tárgyév március 31-i állapotát, és
 
-b)[^116] tárgyév október 15-ig a Magyar Államkincstár Mezőgazdasági támogatások szakmai költségvetési fejezeti alszámla felhasználásának tárgyév szeptember 15-i állapotát
+b)[^116] tárgyév október 31-ig a Magyar Államkincstár Mezőgazdasági támogatások szakmai költségvetési fejezeti alszámla felhasználásának tárgyév szeptember 30-i állapotát.
 
 tükröző évközi elszámolásokat is.
 
@@ -34,6 +34,6 @@ mezőgazdasági kockázatkezelési rendszer szempontjából releváns mezőgazda
 
 [^114]: A 13. § (2) bekezdése a 65/2016. (IX. 21.) FM rendelet 17. § d) pontja, a 60/2020. (XII. 9.) AM rendelet 8. § k) pontja szerint módosított szöveg.
 [^115]: A 13. § (6) bekezdés a) pontja a 88/2016. (XII. 29.) FM rendelet 72. § b) pontja, a 60/2020. (XII. 9.) AM rendelet 8. § l) pontja szerint módosított szöveg.
-[^116]: A 13. § (6) bekezdés b) pontja a 88/2016. (XII. 29.) FM rendelet 72. § b) pontja, a 60/2020. (XII. 9.) AM rendelet 8. § l) pontja szerint módosított szöveg.
+[^116]: A 13. § (6) bekezdés b) pontja a 64/2024. (XII. 20.) AM rendelet 1. §-ával megállapított szöveg.
 [^117]: A 13. § (8) bekezdése a 35/2017. (VII. 6.) FM rendelet 17. § f) pontja szerint módosított szöveg.
 [^118]: A 13. § (10) bekezdését a 35/2017. (VII. 6.) FM rendelet 15. §-a iktatta be, nyitó szövegrésze a 10/2019. (IV. 1.) AM rendelet 5. § a) pontja szerint módosított szöveg.
