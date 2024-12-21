@@ -10,7 +10,7 @@
 
 (3a)[^25] In vitro diagnosztikai orvostechnikai eszköz teljesítőképesség-vizsgálata az eszköz rendeltetésének megfelelő, az egészségügyi szolgáltatások nyújtásához szükséges szakmai minimumfeltételekről szóló miniszteri rendeletben meghatározott progresszivitási szintű működési engedéllyel rendelkező egészségügyi szolgáltatónál végezhető.
 
-(4)[^26] A kérelmező az engedélyező engedélyezés tárgyában hozott határozatáról értesíti a klinikai vizsgálatot végző egészségügyi szolgáltató vezetőjét, valamint a vizsgálót, és a vizsgálat megkezdését megelőzően az engedélyező határozatát és a vizsgálati terv magyar nyelvű összefoglalóját az illetékes IKEB-nek megküldi.
+(4)[^26] A megbízó az engedélyező engedélyezés tárgyában hozott határozatáról értesíti a klinikai vizsgálatot végző egészségügyi szolgáltató vezetőjét, valamint a vizsgálót, és a vizsgálat megkezdését megelőzően az engedélyező határozatát és a vizsgálati terv magyar nyelvű összefoglalóját az illetékes IKEB-nek megküldi.
 
 (5)[^27] A klinikai vizsgálatok, illetve teljesítőképesség-vizsgálatok tekintetében az IKEB-nek mint etikai bizottságnak a feladata a vizsgálati alanyok jogainak és biztonságának védelme. Az IKEB a klinikai vizsgálatokkal, illetve teljesítőképesség-vizsgálatokkal kapcsolatban szakmai-etikai véleményt nem adhat ki.
 
@@ -21,6 +21,6 @@
 [^23]: A 16. § (2) bekezdése a 13/2022. (IV. 29.) EMMI rendelet 51. § 3. pontja szerint módosított szöveg.
 [^24]: A 16. § (3) bekezdése a 13/2022. (IV. 29.) EMMI rendelet 51. § 3. pontja szerint módosított szöveg.
 [^25]: A 16. § (3a) bekezdését a 13/2022. (IV. 29.) EMMI rendelet 45. § (1) bekezdése iktatta be.
-[^26]: A 16. § (4) bekezdése a 13/2022. (IV. 29.) EMMI rendelet 45. § (2) bekezdésével megállapított szöveg.
+[^26]: A 16. § (4) bekezdése a 13/2022. (IV. 29.) EMMI rendelet 45. § (2) bekezdésével megállapított, az 57/2024. (XII. 20.) BM rendelet 33. §-a szerint módosított szöveg.
 [^27]: A 16. § (5) bekezdése a 13/2022. (IV. 29.) EMMI rendelet 45. § (2) bekezdésével megállapított szöveg.
 [^28]: A 16. § (6) bekezdését a 13/2022. (IV. 29.) EMMI rendelet 45. § (3) bekezdése iktatta be.

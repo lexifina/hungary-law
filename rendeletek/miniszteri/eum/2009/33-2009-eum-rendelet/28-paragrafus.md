@@ -1,18 +1,18 @@
-## 27. §[^48] A 2011. május 1-jét megelőzően rendelkezésre álló 25. § szerinti adatokat a Hivatal legkésőbb 2012. április 30-ig továbbítja az Európai Adatbankba.
+## 27. §[^49] A 2011. május 1-jét megelőzően rendelkezésre álló 25. § szerinti adatokat a Hivatal legkésőbb 2012. április 30-ig továbbítja az Európai Adatbankba.
 
-28. §[^49] (1) Ez a rendelet az aktív beültethető orvostechnikai eszközökre vonatkozó tagállami jogszabályok közelítéséről szóló 90/385/EGK tanácsi irányelv, az orvostechnikai eszközökről szóló 93/42/EGK tanácsi irányelv, valamint a biocid termékek forgalomba hozataláról szóló 98/8/EK irányelv módosításáról szóló 2007. szeptember 5-i 2007/47/EK európai parlamenti és tanácsi irányelv rendelkezéseinek való megfelelést szolgálja.
+28. §[^50] (1) Ez a rendelet az aktív beültethető orvostechnikai eszközökre vonatkozó tagállami jogszabályok közelítéséről szóló 90/385/EGK tanácsi irányelv, az orvostechnikai eszközökről szóló 93/42/EGK tanácsi irányelv, valamint a biocid termékek forgalomba hozataláról szóló 98/8/EK irányelv módosításáról szóló 2007. szeptember 5-i 2007/47/EK európai parlamenti és tanácsi irányelv rendelkezéseinek való megfelelést szolgálja.
 
-(2)[^50] Ez a rendelet
+(2)[^51] Ez a rendelet
 
 a) az orvostechnikai eszközök európai adatbankjáról (EUDAMED) szóló, 2010. április 19-i 2010/227/EU bizottsági határozat,
 
-b)[^51] az orvostechnikai eszközökről, a 2001/83/EK irányelv, a 178/2002/EK rendelet és az 1223/2009/EK rendelet módosításáról, valamint a 90/385/EGK és a 93/42/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/745 európai parlamenti és tanácsi rendelet 62–82. cikke, valamint XV. Melléklete,
+b)[^52] az orvostechnikai eszközökről, a 2001/83/EK irányelv, a 178/2002/EK rendelet és az 1223/2009/EK rendelet módosításáról, valamint a 90/385/EGK és a 93/42/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/745 európai parlamenti és tanácsi rendelet 62–82. cikke, valamint XV. Melléklete,
 
-c)[^52] az in vitro diagnosztikai orvostechnikai eszközökről, valamint a 98/79/EK irányelv és a 2010/227/EU bizottsági határozat hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/746 európai parlamenti és tanácsi rendelet 57–73., 76. cikke, valamint XIII. és XIV. Melléklete,
+c)[^53] az in vitro diagnosztikai orvostechnikai eszközökről, valamint a 98/79/EK irányelv és a 2010/227/EU bizottsági határozat hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/746 európai parlamenti és tanácsi rendelet 57–73., 76. cikke, valamint XIII. és XIV. Melléklete,
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-Melléklet a 33/2009. (X. 20.) EüM rendelethez[^53]
+Melléklet a 33/2009. (X. 20.) EüM rendelethez[^54]
 
 A klinikai vizsgálatok és a teljesítőképesség-vizsgálatok végzésének személyi és tárgyi feltételei
 
@@ -88,9 +88,9 @@ Az egészségügyi szolgáltatások nyújtásához szükséges szakmai minimumfe
 
 Az egészségügyi szolgáltatások nyújtásához szükséges szakmai minimumfeltételekről szóló miniszteri rendeletben meghatározott megfelelő progresszivitási szintű egészségügyi intézmény tevékenységének végzéséhez szükséges minimumfeltételeknek megfelelő személy.
 
-[^48]: A 27. §-t a 29/2011. (VI. 7.) NEFMI rendelet 28. §-a iktatta be.
-[^49]: A 28. §-t a 29/2011. (VI. 7.) NEFMI rendelet 28. §-a iktatta be.
-[^50]: A 28. § (2) bekezdése a 35/2021. (VIII. 16.) EMMI rendelet 46. §-ával megállapított szöveg.
-[^51]: A 28. § (2) bekezdés b) pontja a 13/2022. (IV. 29.) EMMI rendelet 49. §-ával megállapított szöveg.
-[^52]: A 28. § (2) bekezdés c) pontját a 13/2022. (IV. 29.) EMMI rendelet 49. §-a iktatta be.
-[^53]: A Melléklet a 13/2022. (IV. 29.) EMMI rendelet 50. §-ával megállapított szöveg.
+[^49]: A 27. §-t a 29/2011. (VI. 7.) NEFMI rendelet 28. §-a iktatta be.
+[^50]: A 28. §-t a 29/2011. (VI. 7.) NEFMI rendelet 28. §-a iktatta be.
+[^51]: A 28. § (2) bekezdése a 35/2021. (VIII. 16.) EMMI rendelet 46. §-ával megállapított szöveg.
+[^52]: A 28. § (2) bekezdés b) pontja a 13/2022. (IV. 29.) EMMI rendelet 49. §-ával megállapított szöveg.
+[^53]: A 28. § (2) bekezdés c) pontját a 13/2022. (IV. 29.) EMMI rendelet 49. §-a iktatta be.
+[^54]: A Melléklet a 13/2022. (IV. 29.) EMMI rendelet 50. §-ával megállapított szöveg.
