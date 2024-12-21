@@ -6,4 +6,6 @@ b) 34. §-a az Alaptörvény IX. cikk (6) bekezdése és 23. cikke alapján,
 
 c) 53. és 54. §-a az Alaptörvény 38. cikk (1) és (2) bekezdése alapján
 
+d) 53/A. §-a az Alaptörvény 38. cikk (1), (2) és (6) bekezdése alapján
+
 sarkalatosnak minősül.

@@ -1,3 +1,3 @@
 ## 27. A kisajátításról szóló 2007. évi CXXIII. törvény módosítása
 
-27. §
+### 27. §
