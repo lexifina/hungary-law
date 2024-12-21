@@ -2,7 +2,7 @@
 
 45. § (1) Az állam nevében hitelt, kölcsönt – a kijelölt tulajdonosi joggyakorló, valamint az Nvt. 8. § (7) bekezdése szerinti meghatalmazott esetén annak kezdeményezésére – az MNV Zrt. nyújthat. Ilyen kölcsön az állam többségi befolyása alatt álló gazdasági társaság részére nyújtható.
 
-(1a) Az (1) bekezdés szerinti hitel, kölcsön nyújtásához, átütemezéséhez az államháztartásért felelős miniszter és az állami vagyon felügyeletéért felelős miniszter előzetes jóváhagyása szükséges.
+(1a) Az (1) bekezdés szerinti hitel, kölcsön nyújtásához, módosításához az államháztartásért felelős miniszter és az állami vagyon felügyeletéért felelős miniszter előzetes jóváhagyása szükséges.
 
 (2) Az állam tulajdonában álló gazdasági társaságnak az állam nevében tőkeemelést, pótbefizetést és a 49/B. § (2) bekezdése szerinti tulajdonosi támogatást az állami vagyon felügyeletéért felelős miniszter előzetes jóváhagyásával lehet nyújtani. A jóváhagyásról az államháztartásért felelős miniszter és az állami támogatások versenyszempontú ellenőrzéséért felelős szerv írásos véleményének ismeretében kell dönteni.
 
@@ -22,6 +22,6 @@ teljesíthet.
 
 (5) A 6. § (7) bekezdés b) pont bc) alpontja alapján nyújtott tulajdonosi kölcsön vissza nem térülő tőkeösszegét költségvetési kiadásként kell elszámolni a visszafizetés elmaradásának – így különösen a kölcsön, követelés elengedésének, beszámításának vagy tőkévé alakításának – időpontjában.
 
-(6) Az állam nevében kijelölt tulajdonosi joggyakorlói feladatot ellátó és az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény alapján Beruházási Ügynökségként kijelölt gazdasági társaság a működéséhez biztosított központi költségvetési forrás felhasználásáról a tulajdonosi joggyakorlója felé elszámol, a fel nem használt vagy nem rendeltetésszerűen felhasznált forrás visszafizetése mellett.
+(6) Az állam nevében kijelölt tulajdonosi joggyakorlói feladatot ellátó gazdasági társaság a működéséhez biztosított központi költségvetési forrás felhasználásáról a tulajdonosi joggyakorlója felé elszámol, a fel nem használt vagy nem rendeltetésszerűen felhasznált forrás visszafizetése mellett.
 
-(7) Ha az állam befektetési alap vagy kockázati tőkealap létrehozatala útján valósítja meg feladatát, az alapok létrehozatala és azokban tőkeemelés az állam nevében, tulajdonosi ügyletként hajtható végre. Az állam nevében létrehozott befektetési alapból vagy kockázati tőkealapból származó bevétel az állam tulajdonosi bevétele. Befektetési alapot vagy kockázati tőkealapot a Vtv. 17. § (1) bekezdés e) pontjától eltérően a befektetés céljának vagy jellegének szakmai kapcsolódása alapján feladat- és hatáskörrel rendelkező költségvetési szerv is létrehozhat. Az így létrejött állami vagyon feletti tulajdonosi joggyakorlás tekintetében a Vtv. rendelkezéseit kell alkalmazni.
+(7) Ha az állam befektetési alap létrehozatala útján valósítja meg feladatát, a befektetési jegyek megszerzése az állam nevében, tulajdonosi ügyletként hajtható végre. A befektetési jegyekből származó bevétel az állam tulajdonosi bevétele. Befektetési jegyet a Vtv. 17. § (1) bekezdés e) pontjától eltérően a befektetés céljának vagy jellegének szakmai kapcsolódása alapján feladat- és hatáskörrel rendelkező költségvetési szerv is szerezhet az állam nevében. Az így létrejött állami vagyon feletti tulajdonosi joggyakorlás tekintetében a Vtv. rendelkezéseit kell alkalmazni.

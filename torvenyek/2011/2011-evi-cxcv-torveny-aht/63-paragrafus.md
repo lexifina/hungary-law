@@ -1,4 +1,4 @@
-## 45. A kormányzati ellenőrzési szerv és az európai támogatásokat auditáló szerv
+## 45. A kormányzati ellenőrzési szerv
 
 63. § (1) A kormányzati ellenőrzési szerv ellenőrzési jogköre kiterjed
 

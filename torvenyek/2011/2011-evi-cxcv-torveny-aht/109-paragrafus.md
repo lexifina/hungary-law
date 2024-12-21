@@ -138,7 +138,7 @@ c)
 
 5.
 
-6. a bevételek és kiadások kormányzati funkciók szerinti besorolásának szabályait,
+6. a bevételek és kiadások kormányzati funkciók szerinti besorolásának szabályait, az államháztartás szakágazati rendjét,
 
 7. a 6. § (1) bekezdése szerinti adminisztratív osztályozás alapjául szolgáló államháztartási egyedi azonosítók alkalmazásának rendjét,
 

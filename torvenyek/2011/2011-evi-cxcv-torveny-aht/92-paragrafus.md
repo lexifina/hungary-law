@@ -20,7 +20,7 @@
 
 (5a) Egyedi állami kezességvállalás esetén – törvény eltérő rendelkezése hiányában – a kezességvállalási vagy garanciavállalási díjat az államháztartásért felelős miniszter állapítja meg. Az államháztartásért felelős miniszter az általa megállapított díjat vagy annak egy részét – indokolt esetben és az állami támogatási szabályokkal összeegyeztethető módon – elengedheti.
 
-(6) Az egyedi állami kezesség és a jogszabályi állami kezességvállalás alapján az állam által kifizetett összeg a tartozás eredeti kötelezettjének az állammal szembeni tartozásává válik, és azt – törvény eltérő rendelkezése hiányában – adók módjára behajtandó köztartozásként kell behajtani.
+(6) Az egyedi állami kezesség és a jogszabályi állami kezességvállalás alapján az állam által kifizetett összeg a tartozás eredeti kötelezettjének, továbbá a meg nem fizetett kezességvállalási vagy garanciavállalási díj a díjfizetésre kötelezettnek az állammal szembeni tartozásává válik, és azt – törvény eltérő rendelkezése hiányában – adók módjára behajtandó köztartozásként kell behajtani.
 
 (7) Az Európai Bizottság előzetes jóváhagyása esetén a nehéz helyzetben lévő vállalkozások megmentéséhez és szerkezetátalakításához egyedi állami kezesség (a továbbiakban: megmentési célú egyedi állami kezesség) vállalható. A megmentési célú egyedi állami kezesség esetén a (2) bekezdésben foglaltakat nem kell alkalmazni.
 
