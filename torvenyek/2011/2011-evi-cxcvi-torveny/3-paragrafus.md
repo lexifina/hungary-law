@@ -82,7 +82,11 @@ af) az ae) alpont szerinti gazdálkodó szervezet 100%-os tulajdonában álló g
 
 ag) országos törzshálózati vasúti pályát működtető többségi állami tulajdonú gazdasági társaság,
 
-ah) a törvény által kijelölt egyedileg meghatározott jogi személy.
+ah) az országos törzshálózati vasúti pálya részét képező ingatlant fejlesztő, üzemeltető gazdasági társaság, amelyben az állam közvetlen vagy közvetett részesedése eléri a 10%-ot,
+
+ai) a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény szerinti magán felsőoktatási intézmény, valamint az állam 100%-os tulajdonában álló gazdasági társaság által fenntartott felsőoktatási intézmény,
+
+aj) törvény által kijelölt, egyedileg meghatározott jogi személy.
 
 b) a helyi önkormányzat tulajdonában álló nemzeti vagyon tekintetében:
 

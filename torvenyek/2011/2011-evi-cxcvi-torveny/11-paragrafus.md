@@ -1,12 +1,14 @@
 ## 5. A nemzeti vagyon kezelése, hasznosítása
 
-11. § (1) A vagyonkezelői jog az (5) bekezdésben meghatározott kivétellel vagyonkezelési szerződéssel jön létre. A nemzeti vagyon tekintetében vagyonkezelési szerződés az (5) bekezdésben meghatározott kivétellel, továbbá a 12. §-ban foglaltak szerinti korlátozásokkal, kizárólag a 3. § (1) bekezdés 19. pont a) alpont aa)–ag) alpontjában, valamint b) és c) alpontjában felsorolt személyekkel köthető, és a vagyonkezelői jog kizárólag általuk gyakorolható.
+11. § (1) A vagyonkezelői jog az (5) bekezdésben meghatározott kivétellel vagyonkezelési szerződéssel jön létre. A nemzeti vagyon tekintetében vagyonkezelési szerződés az (5) bekezdésben meghatározott kivétellel, továbbá a 12. §-ban foglaltak szerinti korlátozásokkal, kizárólag a 3. § (1) bekezdés 19. pont a) alpont aa)–ai) alpontjában, valamint b) és c) alpontjában felsorolt személyekkel köthető, és a vagyonkezelői jog kizárólag általuk gyakorolható.
 
 (2) A nemzeti vagyon tekintetében haszonélvezeti jogot alapító szerződés a 12. §-ban foglaltak szerinti korlátozásokkal, kizárólag a 3. § (1) bekezdés 19. pont a) alpont aa)–ag) alpontjában, valamint b) és c) alpontjában felsorolt személyekkel köthető és a haszonélvezeti jog kizárólag általuk gyakorolható.
 
 (3) A vagyonkezelési szerződés, valamint a haszonélvezeti jogot alapító szerződés versenyeztetés nélkül köthető.
 
-(4) A vagyonkezelési vagy haszonélvezeti jogot alapító szerződés e törvény erejénél fogva megszűnik, ha a vagyonkezelő vagy a haszonélvező a 3. § (1) bekezdés 19. pont a) alpont ae) vagy af) alpontjában, illetve b) alpont bd) vagy be) alpontjában meghatározott tulajdonosi szerkezete megváltozik. A vagyonkezelési vagy haszonélvezeti jogot alapító szerződés megszűnésének időpontja az a nap, amelyen a 3. § (1) bekezdés 19. pont a) alpont ae) vagy af) alpontjában, vagy b) alpont bd) vagy be) alpontjában meghatározottaktól eltérő tulajdonosi szerkezetet eredményező tulajdonosváltozás bekövetkezik.
+(4) A vagyonkezelési vagy haszonélvezeti jogot alapító szerződés – a (4a) bekezdésben foglalt kivétellel – e törvény erejénél fogva megszűnik, ha a vagyonkezelő vagy a haszonélvező a 3. § (1) bekezdés 19. pont a) alpont ae) vagy af) alpontjában, illetve b) alpont bd) vagy be) alpontjában meghatározott tulajdonosi szerkezete megváltozik. A vagyonkezelési vagy haszonélvezeti jogot alapító szerződés megszűnésének időpontja az a nap, amelyen a 3. § (1) bekezdés 19. pont a) alpont ae) vagy af) alpontjában, vagy b) alpont bd) vagy be) alpontjában meghatározottaktól eltérő tulajdonosi szerkezetet eredményező tulajdonosváltozás bekövetkezik.
+
+(4a) A (4) bekezdéstől eltérően nem szűnik meg a vagyonkezelői jog, ha a vagyonkezelő tulajdonosi szerkezete úgy változik meg, hogy az továbbra is megfelel a 3. § (1) bekezdés 19. pont a) alpont ah) alpontjában foglaltaknak.
 
 (5) A vagyonkezelői jog kivételesen törvényben történő kijelöléssel, a törvényben megjelölt – a 3. § (1) bekezdés 19. pontjában felsoroltak körébe tartozó – személyekkel, vagy a törvényben egyedileg meghatározott jogi személlyel jön létre. Az állam és a helyi önkormányzat kizárólagos tulajdonában álló nemzeti vagyon, a 2. mellékletben meghatározott nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyon, valamint az állam és a helyi önkormányzat kizárólagos gazdasági tevékenysége tekintetében a 3. § (1) bekezdés 19. pont a) alpont aa)–ag) alpontjában, valamint b) és c) alpontjában felsorolt személyeken kívül kijelölés nem alkalmazható.
 
@@ -83,3 +85,5 @@ d) a közfeladatot ellátó, az állam közvetlen vagy közvetett tulajdonában 
 javára történik.
 
 (18) A (16) bekezdésben foglalt rendelkezést nem kell alkalmazni, amennyiben természetes személy vagy 100%-ban magántulajdonban álló gazdálkodó szervezet a nemzeti vagyon használója, és a használatában álló nemzeti vagyont hasznosítja.
+
+(19) A (10) bekezdésnek a nemzeti vagyon hasznosítására köthető határozott idejű szerződés időtartamára vonatkozó, valamint a (16) bekezdésben foglalt rendelkezéseket nem kell alkalmazni, amennyiben a 3. § (1) bekezdés 19. pont a) alpont ah)–ai) alpontja szerinti vagyonkezelő a vagyonkezelésében álló nemzeti vagyont hasznosítja.
