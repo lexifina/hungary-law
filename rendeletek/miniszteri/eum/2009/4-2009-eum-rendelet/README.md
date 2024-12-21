@@ -31,3 +31,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-4-20-0B
 | 2023-01-01 | 2009-4-20-0B.24 | 29/2011. (VI. 7.) NEFMI rendelet |
 | 2023-05-26 | 2009-4-20-0B.23 | 35/2021. (VIII. 16.) EMMI rendelet |
 | 2023-08-11 | 2009-4-20-0B.25 | 28/2023. (VIII. 10.) BM rendelet |
+| 2024-12-21 | 2009-4-20-0B.26 | 57/2024. (XII. 20.) BM rendelet |

@@ -1,3 +1,3 @@
-2. melléklet a 4/2009. (III. 17.) EüM rendelethez[^94]
+2. melléklet a 4/2009. (III. 17.) EüM rendelethez[^98]
 
-[^94]: A 2. mellékletet a 35/2021. (VIII. 16.) EMMI rendelet 36. § r) pontja hatályon kívül helyezte.
+[^98]: A 2. mellékletet a 35/2021. (VIII. 16.) EMMI rendelet 36. § r) pontja hatályon kívül helyezte.

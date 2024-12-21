@@ -1,3 +1,3 @@
-5. melléklet a 4/2009. (III. 17.) EüM rendelethez[^97]
+5. melléklet a 4/2009. (III. 17.) EüM rendelethez[^101]
 
-[^97]: Az 5. mellékletet a 35/2021. (VIII. 16.) EMMI rendelet 36. § r) pontja hatályon kívül helyezte.
+[^101]: Az 5. mellékletet a 35/2021. (VIII. 16.) EMMI rendelet 36. § r) pontja hatályon kívül helyezte.

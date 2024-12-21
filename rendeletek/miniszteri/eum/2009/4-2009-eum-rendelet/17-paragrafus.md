@@ -16,15 +16,19 @@ d) az eszköz kockázati osztályát,
 
 e) a meghatalmazott képviselőjének nevét és székhelyét,
 
-f) – ha az eszközt Magyarországon forgalmazzák – az eszköz márkanevét vagy kereskedelmi nevét,
+f)[^41] az eszköz márkanevét vagy kereskedelmi nevét,
 
 g) annak tényét, hogy az orvostechnikai eszköz egyben gyógyászati segédeszköznek is minősül-e.
 
-(4)[^41] A (3) bekezdés szerinti gazdasági szereplő a (3) bekezdés a)–f) pontjában foglalt adatokban bekövetkezett változást – ideértve az új eszköz bevezetését is – az NNGYK részére annak bekövetkeztétől számított hét napon belül bejelenti.
+(3a)[^42] A (3) bekezdés szerinti bejelentéshez mellékelni kell az orvostechnikai eszköz magyar és angol nyelvű használati útmutatóját, EU megfelelőségi nyilatkozatát és – ha az MDR 52. cikke az eszköz megfelelőségértékelési eljárásba bejelentett szervezet bevonását írja elő – megfelelőségi tanúsítványát, valamint ha az eszköz az MDR 33. cikk (2) bekezdés a) és b) pontja szerinti elektronikus rendszerben nem regisztrált, az eszköz gyártójának székhelye vagy a gyártó meghatalmazott képviselőjének a székhelye szerinti illetékes hatóság által kiállított nyilvántartásba vételről szóló igazolást.
 
-(5)[^42] A Magyarország területén székhellyel rendelkező, ápolási technikai eszközt forgalmazó gazdasági szereplő az ápolási technikai eszköz forgalmazásának megkezdését megelőzően az NNGYK részére nyilvántartásba vétel céljából bejelenti a nevét, székhelyét, kapcsolattartási adatait, valamint – ha az eszközt Magyarországon forgalmazzák – az ápolási technikai eszköz márkanevét vagy kereskedelmi nevét. A gazdasági szereplő az ezen adatokban bekövetkezett változást – ideértve az új eszköz bevezetését is – az annak bekövetkeztétől számított hét napon belül az NNGYK részére bejelenti.
+(3b)[^43] A bejelentő mentesül a (3a) bekezdésben meghatározott dokumentumok benyújtása alól, ha bejelentésében – a hivatkozási alapul szolgáló hatósági bizonyítvány iktatószámának feltüntetésével – nyilatkozik arról, hogy a bejelentésében szereplő orvostechnikai eszközöket kizárólag olyan forgalmazótól szerzi be, amely ezen orvostechnikai eszközök forgalmazását magára nézve már bejelentette az NNGYK felé.
 
-(6)[^43] Az NNGYK a (2)–(5) bekezdés szerinti bejelentések megtörténtéről igazolást állít ki.
+(4)[^44] A (3) bekezdés szerinti gazdasági szereplő a (3) bekezdés a)–f) pontjában foglalt adatokban bekövetkezett változást – ideértve az új eszköz bevezetését is – az NNGYK részére annak bekövetkeztétől számított kilencven napon belül bejelenti.
+
+(5)[^45] A Magyarország területén székhellyel rendelkező, ápolási technikai eszközt forgalmazó gazdasági szereplő az ápolási technikai eszköz forgalmazásának megkezdését megelőzően az NNGYK részére nyilvántartásba vétel céljából bejelenti a nevét, székhelyét, kapcsolattartási adatait, valamint az ápolási technikai eszköz márkanevét vagy kereskedelmi nevét. A gazdasági szereplő az ezen adatokban bekövetkezett változást – ideértve az új eszköz bevezetését is – az annak bekövetkeztétől számított kilencven napon belül az NNGYK részére bejelenti.
+
+(6)[^46] Az NNGYK a (2)–(5) bekezdés szerinti bejelentések megtörténtéről igazolást állít ki.
 
 (7) Az (5) bekezdés alkalmazásában ápolási technikai eszköznek minősül az olyan, orvostechnikai eszköznek nem minősülő eszköz, amelynek célja az egészségkárosodás, sérülés vagy fogyatékosság kapcsán hiányzó vagy kiesett funkciók pótlása és az önellátó, illetve -fenntartó képesség, az életminőség elősegítése, javítása.
 
@@ -33,6 +37,9 @@ g) annak tényét, hogy az orvostechnikai eszköz egyben gyógyászati segédesz
 [^38]: A 17. § (2) bekezdése a 28/2023. (VIII. 10.) BM rendelet 52. § d) pontja szerint módosított szöveg.
 [^39]: A 17. § (3) bekezdés nyitó szövegrésze a 28/2023. (VIII. 10.) BM rendelet 52. § c) pontja szerint módosított szöveg.
 [^40]: A 17. § (3) bekezdés c) pontja a 13/2022. (IV. 29.) EMMI rendelet 39. § a) pontja szerint módosított szöveg.
-[^41]: A 17. § (4) bekezdése a 28/2023. (VIII. 10.) BM rendelet 52. § c) pontja szerint módosított szöveg.
-[^42]: A 17. § (5) bekezdése a 28/2023. (VIII. 10.) BM rendelet 52. § d) pontja szerint módosított szöveg.
-[^43]: A 17. § (6) bekezdése a 28/2023. (VIII. 10.) BM rendelet 52. § c) pontja szerint módosított szöveg.
+[^41]: A 17. § (3) bekezdés f) pontja az 57/2024. (XII. 20.) BM rendelet 32. §-a szerint módosított szöveg.
+[^42]: A 17. § (3a) bekezdését az 57/2024. (XII. 20.) BM rendelet 26. §-a iktatta be.
+[^43]: A 17. § (3b) bekezdését az 57/2024. (XII. 20.) BM rendelet 26. §-a iktatta be.
+[^44]: A 17. § (4) bekezdése a 28/2023. (VIII. 10.) BM rendelet 52. § c) pontja, az 57/2024. (XII. 20.) BM rendelet 31. §-a szerint módosított szöveg.
+[^45]: A 17. § (5) bekezdése a 28/2023. (VIII. 10.) BM rendelet 52. § d) pontja, az 57/2024. (XII. 20.) BM rendelet 31. és 32. §-a szerint módosított szöveg.
+[^46]: A 17. § (6) bekezdése a 28/2023. (VIII. 10.) BM rendelet 52. § c) pontja szerint módosított szöveg.

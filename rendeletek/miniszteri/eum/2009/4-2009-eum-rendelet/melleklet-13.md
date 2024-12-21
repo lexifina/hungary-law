@@ -1,5 +1,5 @@
-13. melléklet a 4/2009. (III. 17.) EüM rendelethez[^105]
+13. melléklet a 4/2009. (III. 17.) EüM rendelethez[^109]
 
-Időszakos felülvizsgálat
+Az időszakos felülvizsgálatra kötelezett orvostechnikai eszközök köre és a felülvizsgálat gyakorisága
 
-[^105]: A 13. melléklet a 35/2021. (VIII. 16.) EMMI rendelet - 13/2022. (IV. 29.) EMMI rendelet 57. §-ával megállapított – 34. §-ával megállapított szöveg.
+[^109]: A 13. melléklet az 57/2024. (XII. 20.) BM rendelet 30. §-ával megállapított szöveg.
