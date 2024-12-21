@@ -1,8 +1,4 @@
-139. § (1) Az államháztartásról szóló 2011. évi CXCV. törvény 31/A. §-a következő (3a) és (3b) bekezdéssel egészül ki:
-
-„(3a) A Kormány irányítása alá tartozó központi költségvetési szerv feladatellátására feleslegessé vált nem elhelyezési, vagy nem rekreációs célú értékesítésre kijelölt állami tulajdonú ingatlanok értékesítéséből származó – a 14. § (4) bekezdés b) pontja szerinti fejezetben elszámolandó – bevételek államháztartásért felelős miniszter által jóváhagyott összege a költségvetési évben a központi költségvetési szerv költségvetését tartalmazó költségvetési fejezet által finanszírozható felhalmozási kiadások teljesítésére használható fel. Az államháztartásért felelős miniszter ennek érdekében a költségvetési évben – a pénzforgalmilag teljesült értékesítési bevételek mértékéig – új kiadási előirányzat létrehozatalát és meglévő kiadási előirányzat növelését engedélyezheti e költségvetési fejezetben a fejezetet irányító szerv vezetőjének kezdeményezése alapján.
-
-(3b) A Kormány irányítása alá tartozó központi költségvetési szerv feladatellátására feleslegessé vált elhelyezési, vagy rekreációs célú értékesítésre kijelölt, állami tulajdonú ingatlanok értékesítéséből származó bevételek államháztartásért felelős miniszter által jóváhagyott összege a költségvetési évben az ilyen célú ingatlanok körét, vagy értékét növelő a 14. § (4) bekezdés b) pontja szerinti fejezetben elszámolandó felhalmozási kiadások teljesítésére használható fel. Az államháztartásért felelős miniszter ennek érdekében – legfeljebb a költségvetési évben pénzforgalmilag teljesült értékesítési bevételek mértékéig – új kiadási előirányzat létrehozatalát és meglévő kiadási előirányzat növelését engedélyezheti e költségvetési fejezetben a fejezetet irányító szerv vezetőjének kezdeményezése alapján.”
+139. § (1)
 
 (2) Az államháztartásról szóló 2011. évi CXCV. törvény 31/A. § (7) bekezdése helyébe a következő rendelkezés lép:
 

@@ -1,1 +1,1 @@
-252. § Az ezen alcímben meghatározott szabályokat a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény szerinti egyház, illetve egyházi jogi személy építési beruházásai, valamint a nemzetpolitikai célú építési beruházások esetén 500 millió forint összegű becsült értéket meghaladó építési beruházások esetén kell alkalmazni.
+### 252. §

@@ -1,3 +1,1 @@
-40. § A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 100. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) Az otthont nyújtó ellátás, utógondozói ellátás nevelőszülő, illetve gyermekotthon által történő biztosítása esetén, valamint a helyettes szülőnél, a gyermekek átmeneti otthonában, illetve a családok átmeneti otthonában az ellátottak száma éves átlagban nem haladhatja meg a fenntartó által működtetett, a szolgáltatói nyilvántartásba véglegessé vált döntéssel bejegyzett férőhelyszám 100%-át, azzal, hogy gyermekotthoni férőhelyszám esetén a szolgáltatói nyilvántartásba véglegessé vált döntéssel bejegyzett férőhelyszámtól éves átlagban a fenntartónak a gyermekek és az ifjúság védelméért, valamint az államháztartásért felelős miniszterrel egyeztetett döntésében meghatározott mértékben lehet eltérni.”
+### 40. §

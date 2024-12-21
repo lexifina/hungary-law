@@ -20,13 +20,13 @@
 
 10. 92. § (6) bekezdésében a „kötelezettjének” szövegrész helyébe a „kötelezettjének, továbbá a meg nem fizetett kezességvállalási vagy garanciavállalási díj a díjfizetésre kötelezettnek” szöveg,
 
-11. 100. § (1) bekezdésében az „A fejezeti kezelésű előirányzatok” szövegrész helyébe az „Az európai uniós alapokból finanszírozott visszatérítendő támogatások folyósítására és a visszatérített támogatások fogadására szolgáló előirányzatok kivételével a fejezeti kezelésű előirányzatok” és az „MVH” szövegrész helyébe az „MNV Zrt.” szöveg,
+11.
 
-12. 100. § (2) és (3) bekezdésében az „MVH” szövegrész helyébe az „MNV Zrt.” szöveg,
+12.
 
-13. 103. § (7) bekezdésében az „a Kormány” szövegrész helyébe a „valamint a fejezeti kezelésű előirányzatok fejezetet irányító szerve a Kormány” szöveg,
+13.
 
-14. 109. § (1) bekezdés 15. pont a) alpontjában a „folyósításának” szövegrész helyébe a „folyósításának, a támogatási előleg összegének” szöveg,
+14.
 
 15. 109. § (3) bekezdés 6. pontjában a „szabályait” szövegrész helyébe a „szabályait, az államháztartás szakágazati rendjét” szöveg, és
 

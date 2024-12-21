@@ -1,1 +1,1 @@
-256. § Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg a költségellenőrzéssel érintett építési beruházások értékhatárait, az állami beruházásokért felelős miniszter költségellenőrzésre vonatkozó véleményének igénylésével és kibocsátásának, a költségellenőrzéshez benyújtandó dokumentációval kapcsolatos követelményekre vonatkozó, valamint az összeférhetetlenségi követelményekkel kapcsolatos részletes szabályokat, továbbá a költségellenőrzéssel kapcsolatos feladatokat ellátó szervezet kijelölését.
+### 256. §

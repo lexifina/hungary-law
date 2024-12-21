@@ -1,3 +1,1 @@
-46. § Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény 70. § (3a) bekezdése helyébe a következő rendelkezés lép:
-
-„(3a) Azon igazságügyi alkalmazott esetében, akinek az illetménye az Mt. alapján került megállapításra, továbbá a 103/A. §-ban meghatározott igazságügyi alkalmazottak esetében az (1) bekezdés b) pontjában foglalt fegyelmi büntetés helyett kétévi időtartamra illetményemelés elmaradása, az (1) bekezdés c) pontjában foglalt fegyelmi büntetés helyett legfeljebb kétévi időtartamra illetménycsökkentés fegyelmi büntetést kell kiszabni. Az illetménycsökkentés mértéke az illetmény öt százalékáig terjedhet.”
+### 46. §

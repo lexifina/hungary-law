@@ -1,17 +1,1 @@
-## „c) kiemelt munkakörben foglalkoztatott tisztviselő esetében az egy, illetve két fizetési fokozattal visszavetés fegyelmi büntetés helyett a kiemelt munkakörré minősítés visszavonása fegyelmi büntetés szabható ki, tisztviselő, írnok, fizikai alkalmazott esetében az egy fizetési fokozattal visszavetés fegyelmi büntetés helyett legfeljebb egyévi, két fizetési fokozattal való visszavetés fegyelmi büntetés helyett legfeljebb kétévi időtartamra illetmény-csökkentés fegyelmi büntetést kell kiszabni, a csökkentés mértéke az alapilletmény öt százalékáig terjedhet;”
-
-119. § A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 165/X. §-sal egészül ki:
-
-„165/X. § (1) Az alügyész és az ügyészségi fogalmazó számára az e törvénynek Magyarország 2025. évi központi költségvetésének megalapozásáról szóló 2024. évi LXXIV. törvény (a továbbiakban: Módtv3.) 123. § ával megállapított rendelkezései alapján az illetményt akként kell megállapítani, hogy az magasabb legyen, mint a Módtv3. 123. §-ának hatálybalépését megelőzően őt megillető illetményelemek együttes összege.
-
-(2) Az alügyészt és az ügyészségi fogalmazót a Módtv3. 123. §-ának hatálybalépését követő 30 napon belül kell 2025. január 1-jétől kezdődően e törvénynek a Módtv3. 123. §-ával megállapított rendelkezései szerint besorolni és – az (1) bekezdésben foglaltakat is figyelembe véve – illetményét megállapítani. A besorolásnál megállapítandó szolgálati idő a Módtv3. 123. §-ának hatálybalépése előtti besorolásnál megállapított szolgálati időnél kevesebb nem lehet. A Módtv3. 123. § hatálybalépése előtt soron kívüli előresorolással megszerzett szolgálati időt a besorolásnál figyelembe kell venni.
-
-(3) Az alügyészt és az ügyészségi fogalmazót az e törvénynek a Módtv3. 123. §-ával megállapított rendelkezései alapján kiszámított illetmény 2025. január 1-jétől illeti meg. Az illetmény már folyósított és megemelt összege közötti különbözet kifizetésére 2025. január 1-jére visszamenőleg, legkésőbb a Módtv3. 123. § hatálybalépését követő 60 napon belül kerül sor.
-
-(4) A tisztviselő, írnok, fizikai alkalmazott és vezető számára Módtv3. rendelkezései alapján az illetményt akként kell megállapítani, hogy az magasabb legyen, mint a Módtv3. 119. §-ának hatálybalépését megelőzően őt megillető illetményelemek együttes összege.
-
-(5) A tisztviselőt, írnokot, fizikai alkalmazottat és vezetőt a Módtv3. 119. §-ának hatálybalépését követő 30 napon belül kell 2025. január 1-jétől kezdődően e törvénynek a Módtv3.-al megállapított rendelkezései szerint besorolni és – a (4) bekezdésben foglaltakat is figyelembe véve – illetményét megállapítani.
-
-(6) A tisztviselőt, írnokot, fizikai alkalmazottat és vezetőt az e törvénynek a Módtv3.-al megállapított rendelkezései alapján kiszámított illetmény 2025. január 1-jétől illeti meg. Az illetmény már folyósított és megemelt összege közötti különbözet kifizetésére 2025. január 1-jére visszamenőleg, legkésőbb a Módtv3. 119. § -ának hatálybalépését követő 60 napon belül kerül sor.
-
-(7) Ha a tisztviselő és az írnok számára az e törvénynek a Módtv3.-al megállapított rendelkezései alapján járó szabadsága a korábbi szabadságához képest csökkenne, mindaddig a Módtv3. hatálybalépése előtt megállapított szabadságára jogosult, amíg annak mértékét az e törvény Módtv3.-al megállapított rendelkezései szerinti szabadsága meg nem haladja.”
+### 119. §
