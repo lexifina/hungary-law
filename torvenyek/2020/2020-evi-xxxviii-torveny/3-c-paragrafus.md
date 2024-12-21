@@ -2,7 +2,7 @@
 
 a) az államnak
 
-aa) a HUMDA Magyar Autó-Motorsport és Zöld Mobilitás-fejlesztési Ügynökség Zártkörűen Működő Részvénytársaságban és
+aa)
 
 ab) a TECHTRA Technológiai Transzfer Intézet Közhasznú Nonprofit Zártkörűen Működő Részvénytársaságban
 
