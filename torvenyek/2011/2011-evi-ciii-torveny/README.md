@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-103-00-00
 | 2019-01-01 | 2018. évi XLI. törvény | 2011-103-00-00.13 |
 | 2023-08-01 | 2023. évi LIX. törvény | 2011-103-00-00.14 |
 | 2023-12-01 | 2023. évi LXXXIII. törvény | 2011-103-00-00.15 |
+| 2024-12-21 | 2024. évi LXXIV. törvény | 2011-103-00-00.16 |

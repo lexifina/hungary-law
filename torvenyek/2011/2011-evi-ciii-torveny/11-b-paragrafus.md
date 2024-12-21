@@ -1,7 +1,1 @@
-## II. Fejezet
-
-## BALESETI ADÓ
-
-## 1. Az adókötelezettség, az adó alanya
-
-### 11/B. §
+11/B. § A népegészségügyi termékadó alanya a Neta tv. 2025 január 31-én hatályos 8. § (4) bekezdés szerinti rendelkező nyilatkozatot utoljára a 2025. január 31-ét magába foglaló bevallási időszakról szóló adóbevallásában tehet.
