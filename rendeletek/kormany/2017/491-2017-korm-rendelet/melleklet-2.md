@@ -122,7 +122,7 @@
 
 ## 5. a tervező tűzvédelmi szakvizsga-bizonyítványának meglétét.
 
-2. melléklet a 491/2017. (XII. 29.) Korm. rendelethez[^12]
+2. melléklet a 491/2017. (XII. 29.) Korm. rendelethez[^13]
 
 A beépített tűzjelző berendezés létesítéséhez szükséges engedély iránti kérelem mellékletét képező elvi jellegű dokumentáció tartalma
 
@@ -186,4 +186,4 @@ A beépített tűzjelző berendezés létesítéséhez szükséges engedély ir�
 
 4. a tervező tűzvédelmi szakvizsga-bizonyítványának meglétét.
 
-[^12]: A 2. melléklet a 176/2019. (VII. 18.) Korm. rendelet 14. § (7) bekezdés b) pontjával megállapított szöveg.
+[^13]: A 2. melléklet a 176/2019. (VII. 18.) Korm. rendelet 14. § (7) bekezdés b) pontjával megállapított szöveg.

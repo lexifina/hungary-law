@@ -1,4 +1,4 @@
-2. § (1)[^6] A tűzvédelmi hatóság engedélyező határozatának rendelkező része tartalmazza
+2. § (1)[^7] A tűzvédelmi hatóság engedélyező határozatának rendelkező része tartalmazza
 
 a) a berendezés megnevezését,
 
@@ -30,7 +30,7 @@ a) a tervező nem rendelkezik megfelelő jogosultsággal vagy képesítéssel, v
 
 b) az Országos Tűzvédelmi Szabályzatról szóló miniszteri rendeletben meghatározott biztonsági szint nem teljesül, vagy annak teljesülését a kérelemhez mellékelt dokumentáció vagy annak hiánypótlási felhívásra benyújtott kiegészítése nem támasztja alá.
 
-(4)[^7] A tűzvédelmi hatóság a használatbavételi engedély iránti kérelmet elutasítja, ha
+(4)[^8] A tűzvédelmi hatóság a használatbavételi engedély iránti kérelmet elutasítja, ha
 
 a) a kivitelezésért felelős műszaki vezető, ennek hiányában a kivitelező, illetve az üzembe helyező mérnök nem rendelkezik megfelelő jogosultsággal vagy képesítéssel,
 
@@ -44,7 +44,7 @@ e) a berendezés részegységeinek megfelelőségét, teljesítményét nem igaz
 
 f) a kivitelezésért felelős műszaki vezető, ennek hiányában a kivitelező nyilatkozata, az üzembe helyező mérnök nyilatkozata vagy az üzembehelyezési jegyzőkönyv nem áll rendelkezésre.
 
-(5)[^8] A tűzvédelmi hatóság a megszüntetési engedély iránti kérelmet elutasítja, ha
+(5)[^9] A tűzvédelmi hatóság a megszüntetési engedély iránti kérelmet elutasítja, ha
 
 a) a berendezés létesítését a megszüntetési engedély iránti kérelem benyújtásakor hatályban lévő jogszabályi rendelkezés előírja,
 
@@ -52,6 +52,6 @@ b) a megszüntetés feltételeinek teljesülését nem igazolták, vagy
 
 c) a berendezés további üzemeltetésére okot adó körülmény áll fenn.
 
-[^6]: A 2. § (1) bekezdése a 176/2019. (VII. 18.) Korm. rendelet 14. § (4) bekezdésével megállapított szöveg.
-[^7]: A 2. § (4) bekezdése a 176/2019. (VII. 18.) Korm. rendelet 14. § (5) bekezdésével megállapított szöveg.
-[^8]: A 2. § (5) bekezdése a 176/2019. (VII. 18.) Korm. rendelet 14. § (6) bekezdésével megállapított szöveg.
+[^7]: A 2. § (1) bekezdése a 176/2019. (VII. 18.) Korm. rendelet 14. § (4) bekezdésével megállapított szöveg.
+[^8]: A 2. § (4) bekezdése a 176/2019. (VII. 18.) Korm. rendelet 14. § (5) bekezdésével megállapított szöveg.
+[^9]: A 2. § (5) bekezdése a 176/2019. (VII. 18.) Korm. rendelet 14. § (6) bekezdésével megállapított szöveg.

@@ -30,9 +30,9 @@ d) megszüntetés esetén a 4. melléklet szerinti
 
 tartalmi követelményeket vizsgálja az engedélyező hatóság.
 
-(4) A kérelem papír alapon vagy elektronikusan nyújtható be. Elektronikusan vagy az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 1. § 45. pontja szerinti tartós adathordozón történő benyújtás esetében PDF/A formátumban, 300 dpi felbontású ábrákkal kell benyújtani.
+(4)[^5] A kérelem papír alapon vagy elektronikusan nyújtható be. Elektronikusan vagy a fogyasztók jogairól, a 93/13/EGK tanácsi irányelv és az 1999/44/EK európai parlamenti és tanácsi irányelv módosításáról, valamint a 85/577/EGK tanácsi irányelv és a 97/7/EK európai parlamenti és tanácsi irányelv hatályon kívül helyezéséről szóló, 2011. október 25-i 2011/83/EU európai parlamenti és tanácsi irányelv 2. cikk 10. pontja szerinti tartós adathordozón történő benyújtás esetében PDF/A formátumban, 300 dpi felbontású ábrákkal kell benyújtani.
 
-(5)[^5] A használatbavételi engedéllyel rendelkező berendezés megszüntetésének engedélyezése abban az esetben kérelmezhető, ha
+(5)[^6] A használatbavételi engedéllyel rendelkező berendezés megszüntetésének engedélyezése abban az esetben kérelmezhető, ha
 
 a) a berendezés létesítési kötelezettségét a megszüntetési engedély iránti kérelem benyújtásakor hatályban lévő jogszabályi rendelkezés nem írja elő,
 
@@ -44,4 +44,5 @@ c) a berendezés további üzemeltetését a védett építmény, építményré
 [^2]: Az 1. § (2) bekezdés c) pontja a 176/2019. (VII. 18.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
 [^3]: Az 1. § (2) bekezdés d) pontja a 176/2019. (VII. 18.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
 [^4]: Az 1. § (3) bekezdése a 176/2019. (VII. 18.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
-[^5]: Az 1. § (5) bekezdése a 176/2019. (VII. 18.) Korm. rendelet 14. § (3) bekezdésével megállapított szöveg.
+[^5]: Az 1. § (4) bekezdése a 408/2024. (XII. 20.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^6]: Az 1. § (5) bekezdése a 176/2019. (VII. 18.) Korm. rendelet 14. § (3) bekezdésével megállapított szöveg.
