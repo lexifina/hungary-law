@@ -8,6 +8,6 @@ c) 76. § (1) bekezdés a) pontja,
 
 d) 78. § (6) bekezdésében a „Szövetség (European Association for Quality Assurance in Higher Education) teljes jogú tagjaként működő és az Európai Felsőoktatási Minőségbiztosítási” szövegrész,
 
-e) 2. melléklet I. rész 2. pont c) alpontja,
+e)
 
 f) 3. melléklet I/A. pont 1. alpont b) pontja.

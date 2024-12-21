@@ -1,6 +1,6 @@
 107. § A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény
 
-a) V. Fejezet címében az „ADATKEZELÉS A FELSŐOKTATÁSI INTÉZMÉNYEKBEN, A FELSŐOKTATÁS INFORMÁCIÓS RENDSZERE” szövegrész helyébe az „ADATKEZELÉS A FELSŐOKTATÁSI INTÉZMÉNYEKBEN ÉS A DIÁKHITEL SZERVEZETNÉL, A FELSŐOKTATÁS INFORMÁCIÓS RENDSZERE” szöveg,
+a)
 
 b) 18. § (1) bekezdés g) pontjában a „15. és” szövegrész helyébe a „közoktatásban és a szakképzésben részt vevő tanulók pályaorientációja és a” szöveg,
 

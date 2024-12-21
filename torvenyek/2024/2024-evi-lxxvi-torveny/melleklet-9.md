@@ -7,11 +7,3 @@
 ## ”
 
 9. melléklet a 2024. évi LXXVI. törvényhez
-
-## „4. melléklet a 2021. évi LXXXI. törvényhez
-
-## Az Alapítvány részére átadásra kerülő állami tulajdonú ingatlanok
-
-## | | A | B | C | D | E | 1 | TELEPÜLÉS | HELYRAJZI SZÁM | TULAJDONOS | TULAJDONI HÁNYAD | MEGNEVEZÉS | 2 | Budapest | 38047 | Magyar Állam | 1/1 | Kivett beépítetlen terület | 3 | Budapest | 38087 | Magyar Állam | 1/1 | Kivett beépítetlen terület | 4 | Budapest | 38080/2 | Magyar Állam | 1/1 | Kivett beépítetlen terület | 5 | Budapest | 38086/80 | Magyar Állam | 1/1 | Kivett építési terület | 6 | Budapest | 38089 | Magyar Állam | 1/1 | Kivett beépítetlen terület | 7 | Budapest | 38086/258 | Magyar Állam | 1/1 | Kivett beépítetlen terület | 8 | Budapest | 38086/22 | Magyar Állam | 1/1 | Kivett közforgalmú vasút
-
-## ”

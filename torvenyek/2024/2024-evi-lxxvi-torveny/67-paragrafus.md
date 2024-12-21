@@ -1,3 +1,1 @@
-67. § A mozgóképről szóló 2004. évi II. törvény 31/D. § (9) bekezdése helyébe a következő rendelkezés lép:
-
-„(9) A közvetett támogatás kifizetését a filmelőállító, illetve a filmgyártó vállalkozás akkor kérheti az NFI-től, ha a Hatóság által a filmalkotás adott gyártási időszaka tekintetében meghozott, a 31/C. § (1) bekezdése szerinti határozata véglegessé vált és támogatási szerződést még nem kötött, a 31/C. (3) szerinti támogatási igazolást a Hatóság nem adott ki, vagy azt a 31/C. § (12) bekezdése alapján visszavonta. A 31/C. § (1) bekezdése szerinti határozat véglegesé válásának időpontjáról a Hatóság nyilvántartást vezet. A letéti számláról történő kifizetés kizárólag a 31/C. § (1) bekezdése szerinti határozat véglegessé válásának sorrendjében történhet.”
+### 67. §
