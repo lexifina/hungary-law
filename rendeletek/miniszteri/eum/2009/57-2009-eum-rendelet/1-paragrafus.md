@@ -8,8 +8,11 @@ a) III.G.8. sorában szereplő kiegészítő igazgatási szolgáltatási díjat 
 
 b) III.G.14. sora szerinti igazgatási szolgáltatási díjat az ügyfél az emberi felhasználásra szánt gyógyszerek klinikai vizsgálatairól és a 2001/20/EK irányelv hatályon kívül helyezéséről szóló, 2014. április 16-i 536/2014/EU európai parlamenti és tanácsi rendelet 42. vagy 43. cikke szerinti jelentés benyújtásakor
 
+c)[^4] III.G.5. és III.G.7. sora szerinti igazgatási szolgáltatási díjat az ügyfél az értékelő jelentés II. részében szereplő szempontokra vonatkozó kérelem benyújtásakor
+
 fizeti meg.
 
 [^1]: Az 1. § (1) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 112. § a) pontja szerint módosított szöveg. [Nem vezethető át a 28/2023. (VIII. 10.) BM rendelet 58. § a) pontjában foglalt módosítás, amely szerint „az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet (a továbbiakban: OGYÉI)” szövegrész helyébe az „a Nemzeti Népegészségügyi és Gyógyszerészeti Központ (a továbbiakban: NNGYK)” szöveg lép.]
 [^2]: Az 1. § (2) bekezdése a 28/2023. (VIII. 10.) BM rendelet 58. § b) pontja szerint módosított szöveg.
 [^3]: Az 1. § (3) bekezdését a 2/2022. (I. 14.) EMMI rendelet 30. §-a iktatta be.
+[^4]: Az 1. § (3) bekezdés c) pontját az 57/2024. (XII. 20.) BM rendelet 34. §-a iktatta be.
