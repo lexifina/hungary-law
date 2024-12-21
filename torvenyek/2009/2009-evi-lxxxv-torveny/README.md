@@ -44,3 +44,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-85-00-00
 | 2023-09-01 | 2023. évi XXXIX. törvény | 2009-85-00-00.40 |
 | 2024-01-01 | 2023. évi XXXIX. törvény | 2009-85-00-00.41 |
 | 2024-04-25 | 2024. évi X. törvény | 2009-85-00-00.43 |
+| 2024-12-21 | 2024. évi LXXIV. törvény | 2009-85-00-00.46 |
