@@ -90,4 +90,28 @@ V. Aggregált költségvetési hatás: magas pontszámot az az értékelt eljár
 
 VI.1–2. A szakmai kollégium véleménye; A nemzetközi alkalmazás: a szakmai kollégiumtól vagy kollégiumoktól beérkezett véleményeket, valamint a fellelhető nemzetközi alkalmazásokat kell figyelembe venni.
 
-VI.3. Az eljáráshoz kapcsolódó evidenciák besorolása: az Egészségügyi Minisztériumnak az egészség-gazdaságtani elemzések készítéséről szóló szakmai irányelvében meghatározott, az eljáráshoz kapcsolódó tudományos eredmények és vélemények hierarchiája szerinti legmagasabb szintű evidencia esetében 4 pont adható, az alatta levők szintenként 0,5 ponttal kevesebbet kapnak.
+VI.3.[^9] Az eljáráshoz kapcsolódó klinikai bizonyítékok besorolása:
+
+a) Magas evidenciaszintű bizonyíték (4 pont):
+
+aa) Legalább egy jó minőségű (alacsony torzítási kockázatú) fázis III-as, randomizált, kontrollált klinikai vizsgálatból származó adatok;
+
+ab) Jó minőségű (alacsony torzítási kockázatú) direkt összehasonlító randomizált, kontrollált klinikai vizsgálatok metaanalízisei, amennyiben a beválogatott vizsgálatok között nem jelentős az inkonzisztencia, illetve nincsenek jelentős, PICO-beli különbségek, szisztematikus irodalmi áttekintéssel és a tudományos bizonyítékok minőségére vonatkozó valamilyen nemzetközileg elfogadott módszertan alapján végzett értékelésével alátámasztva.
+
+b) Közepes evidenciaszintű bizonyíték (2 pont):
+
+ba) Kis betegszámú (fázis Ib/fázis II), randomizált, kontrollált klinikai vizsgálat, vagy olyan nagy betegszámú (fázis III/fázis IV) randomizált, kontrollált klinikai vizsgálat, ahol a torzítási kockázat nem alacsony, vagy egyéb hatókörbeli kockázatok azonosíthatók (pl. nyílt vizsgálat, egyes végpontok eredményeinek nem közlése).
+
+bb) Közepes evidenciaszintű direkt összehasonlító randomizált, kontrollált klinikai vizsgálatok metaanalízisei, vagy magas evidencia szintű randomizált, kontrollált klinikai vizsgálatok esetében a hatókörbeli különbségek/inkonzisztencia megfelelően bemutatott korrekciójával elvégzett metaanalízisek. Direkt összehasonlító randomizált, kontrollált klinikai vizsgálatok szisztematikus irodalmi áttekintéssel nem alátámasztott metaanalízisei.
+
+bc) Jó minőségű, randomizált, kontrollált klinikai vizsgálatok indirekt összevetései és hálózatos metaanalízisei, hatókörbeli különbségek esetén azok megfelelő korrekciójával, készített indirekt összehasonlítások, szisztematikus irodalmi áttekintéssel és a tudományos bizonyítékok minőségére vonatkozó valamilyen nemzetközileg elfogadott módszertan alapján végzett értékelésével alátámasztva.
+
+c) Alacsony evidenciaszintű bizonyíték (1 pont):
+
+ca) Prospektív kohorsz típusú, nem randomizált vizsgálatok. Retrospektív kohorsz vizsgálatok, eset-kontroll vizsgálatok. Kontrollcsoport nélküli, egykarú vizsgálatok, esettanulmányok, szakértői vélemények.
+
+cb) Alacsony evidenciaszintű direkt összehasonlító vizsgálatok metaanalízisei vagy olyan közepes vagy magas evidenciaszintű direkt összehasonlító vizsgálatok metaanalízisei, ahol jelentősek a PICO-ban a különbségek/inkonzisztencia a vizsgálatok között, illetve amennyiben a metaanalízisben szereplő vizsgálatok különbségekre nem történt korrekció, vagy annak módszertana a támogatási kérelemben nem került bemutatásra.
+
+cc) Naiv indirekt összehasonlítások. Olyan jelentős hatókörbeli különbségekkel/inkonziszteniával bíró vizsgálatok hálózatos metaanalízisei, ahol nem történt meg a korrekció a különbségekre, illetve minden olyan eset, ahol a beadvány nem tartalmazza az összehasonlítás módszertanának részletes bemutatását. Olyan indirekt összevetések, ahol az összehasonlítások alapját képező szakirodalmi forrásokat célzott irodalomkereséssel vagy irodalomkeresés nélkül gyűjtötték össze.
+
+[^9]: Az 1. melléklet VI.3. pontja az 57/2024. (XII. 20.) BM rendelet 35. §-ával megállapított szöveg.
