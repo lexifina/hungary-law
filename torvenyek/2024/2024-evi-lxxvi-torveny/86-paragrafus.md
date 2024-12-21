@@ -1,0 +1,3 @@
+86. § A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 16. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A felsőoktatási intézmény doktori képzésre és doktori fokozat odaítélésére azon a tudományterületen, azon belül tudományágban vagy művészeti ágban szerezhet jogosultságot, amelyre a nyilvántartásba vételről szóló határozata kiterjed. A művészetek területén a tudományos fokozatszerzésre felkészítő PhD-képzésre, illetve a „Doctor of Liberal Arts” művészeti fokozatszerzésre felkészítő DLA-képzésre és -fokozatadásra lehet jogosultságot szerezni. Az üzleti vezetői területen „Doctor of Business Administration” doktori fokozatszerzésre felkészítő DBA-képzésre és -fokozatadásra lehet jogosultságot szerezni.”

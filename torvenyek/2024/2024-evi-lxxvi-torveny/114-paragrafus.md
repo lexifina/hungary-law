@@ -1,0 +1,3 @@
+114. § A felnőttképzésről szóló 2013. évi LXXVII. törvény 13/C. §-a a következő (4a) bekezdéssel egészül ki:
+
+„(4a) A FAR-ba való elektronikus feltöltés a képző, a képzés, a mikrotanúsítvány, illetve az azt kiállító adatai mellett a mikrotanúsítványt szerző személy azonosítása, ellenőrzése és pontosítása, valamint a pályakövetési rendszer és a munkaerő-piaci előrejelző rendszer működtetése céljából tartalmazza a mikrotanúsítványon szereplő személy viselt nevét, születési nevét, születési helyét és idejét, anyja nevét, oktatási azonosító számát, adóazonosító jelét, társadalombiztosítási azonosító jelét, kibocsátó rendszerbeli azonosítószámát, állampolgárságát, legmagasabb iskolai végzettségét is.”

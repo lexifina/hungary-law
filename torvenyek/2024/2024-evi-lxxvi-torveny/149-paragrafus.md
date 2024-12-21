@@ -1,0 +1,1 @@
+149. § A MOL – Új Európa Alapítvány létrehozásáról és a részére történő vagyonjuttatásról szóló 2021. évi XIX. törvény 6. §-ában a „3. § (1) és (3) bekezdése, a” szövegrész helyébe a „3. § (1) és (3) bekezdése, a 3/A. §, a” szöveg lép.

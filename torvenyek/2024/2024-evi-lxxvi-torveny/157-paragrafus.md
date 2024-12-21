@@ -1,0 +1,1 @@
+157. § A Közép- és Kelet-európai Történelem és Társadalom Kutatásáért Alapítványról szóló 2021. évi XLVIII. törvény 3. §-ában a „bekezdése, a” szövegrész helyébe a „bekezdése, az 1/A. §, a” szöveg lép.
