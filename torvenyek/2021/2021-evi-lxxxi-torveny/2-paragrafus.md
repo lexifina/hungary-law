@@ -10,6 +10,8 @@ d) rászorultsági alapú támogatás biztosítása,
 
 e) tehetséggondozó programok működésének támogatása.
 
+f) felsőoktatás nemzetköziesítésének fejlesztése.
+
 (2) Az Alapítvány által végzett cél szerinti tevékenység:
 
 a) az (1) bekezdésben meghatározott célok megvalósítása, és
