@@ -1,0 +1,13 @@
+137. § E törvény 19. §-a, 58. § (3) bekezdése és a 133. §-a az Európai Utasinformációs és Engedélyezési Rendszer (ETIAS) létrehozásáról, valamint az 1077/2011/EU rendelet, az 515/2014/EU rendelet, az (EU) 2016/399 rendelet, az (EU) 2016/1624 rendelet és az (EU) 2017/2226 rendelet módosításáról szóló, 2018. szeptember 12-i (EU) 2018/1240 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+|
+
+Dr. Sulyok Tamás s. k.,
+
+köztársasági elnök
+
+|
+
+Dr. Latorcai János s. k.,
+
+az Országgyűlés alelnöke
