@@ -1,0 +1,1 @@
+25. § A 234/2024. (VIII. 8.) Korm. rendelet 4. § (1) bekezdésében a „Pro-M Professzionális Mobilszolgáltató Zártkörűen Működő Részvénytársaság (a továbbiakban: Pro-M Zrt.)” szövegrész helyébe a „Pro-M Zrt.” szöveg lép.
