@@ -102,6 +102,8 @@ b) a VIZEK rendszer üzemeltetőjét és a rendszerhez csatlakozó szerveket.
 
 (7g) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a vízkészletvédelmi országtérkép, valamint a kockázati besorolás elkészítésének és felülvizsgálatának szakmai és eljárási szabályait.
 
+(7h) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza egyes hatósági eljárásokban a vízvédelmi hatóság által vizsgált szakkérdésekkel kapcsolatos eljárási költségeket.
+
 (8) Felhatalmazást kap a vízgazdálkodásért felelős miniszter
 
 a) a vízgazdálkodás általános szakmai követelményeinek, képesítési előírásainak, a vízrajzi feladatoknak és a vízkészletekbe történő beavatkozás szabályainak;
