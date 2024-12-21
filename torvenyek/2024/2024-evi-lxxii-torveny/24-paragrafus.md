@@ -1,0 +1,1 @@
+24. § A lőfegyverekről és lőszerekről szóló 2004. évi XXIV. törvény 18/B. § (4) bekezdésében a „rendvédelmi szervek, a” szövegrész helyébe a „rendvédelmi szervek, a polgári nemzetbiztonsági szolgálatok, a” szöveg lép.
