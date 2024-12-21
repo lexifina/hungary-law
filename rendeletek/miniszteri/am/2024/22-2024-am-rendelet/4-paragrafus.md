@@ -22,8 +22,17 @@ i) a védett tájképi elemek határvonalai,
 
 j) a védett tájképi elemek területmértékei,
 
-k) a kis vizes élőhely határvonalai és
+k)[^10] a kis vizes élőhely határvonalai,
 
-l) a kis vizes élőhely területmértékei.
+l)[^11] a kis vizes élőhely területmértékei,
+
+m)[^12] vizenyős terület határvonalai és
+
+n)[^13] vizenyős terület területmérete.
 
 (2) A MePAR továbbá tartalmazza a kataszteri fedvényt, valamint jogszabály, az Európai Mezőgazdasági és Vidékfejlesztési Alap társfinanszírozásával megvalósuló támogatások pályázati felhívásai vagy technikai útmutatás alapján létrehozott és létrehozandó, egyéb tematikus rétegekre vonatkozó adatokat.
+
+[^10]: A 4. § (1) bekezdés k) pontja a 72/2024. (XII. 20.) AM rendelet 2. §-ával megállapított szöveg.
+[^11]: A 4. § (1) bekezdés l) pontja a 72/2024. (XII. 20.) AM rendelet 2. §-ával megállapított szöveg.
+[^12]: A 4. § (1) bekezdés m) pontját a 72/2024. (XII. 20.) AM rendelet 2. §-a iktatta be.
+[^13]: A 4. § (1) bekezdés n) pontját a 72/2024. (XII. 20.) AM rendelet 2. §-a iktatta be.
