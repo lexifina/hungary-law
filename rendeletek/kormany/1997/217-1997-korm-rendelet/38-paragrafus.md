@@ -1,4 +1,4 @@
-38. §[^544] (1)[^545] A kifizetőhellyel nem rendelkező foglalkoztató a pénzbeli egészségbiztosítási ellátásra és a baleseti táppénzre vonatkozó kérelem elbírálásához kiállítja a Központ által erre a célra rendszeresített, az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti személyre szabott ügyintézési felületen közzétett elektronikus űrlapot. A kitöltött elektronikus űrlapot a biztosított által benyújtott igazolásokkal, továbbá a táppénz és a baleseti táppénz kivételével a Központ által a kérelem benyújtására rendszeresített – a biztosított által kitöltött és aláírt – elektronikus űrlappal együtt 5 napon belül, az Ebtv. 61. § (5) bekezdésében foglaltaknak megfelelően megküldi a székhelye szerint illetékes kormányhivatalnak. A foglalkoztató a kérelem, illetve az igazolások átvételét, beérkezését hitelt érdemlő módon köteles igazolni.
+38. §[^544] (1)[^545] A kifizetőhellyel nem rendelkező foglalkoztató a pénzbeli egészségbiztosítási ellátásra és a baleseti táppénzre vonatkozó kérelem elbírálásához kiállítja a Központ által erre a célra rendszeresített, a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény szerinti személyre szabott ügyintézési felületen közzétett elektronikus űrlapot. A kitöltött elektronikus űrlapot a biztosított által benyújtott igazolásokkal, továbbá a táppénz és a baleseti táppénz kivételével a Központ által a kérelem benyújtására rendszeresített – a biztosított által kitöltött és aláírt – elektronikus űrlappal együtt 5 napon belül, az Ebtv. 61. § (5) bekezdésében foglaltaknak megfelelően megküldi a székhelye szerint illetékes kormányhivatalnak. A foglalkoztató a kérelem, illetve az igazolások átvételét, beérkezését hitelt érdemlő módon köteles igazolni.
 
 (1a)[^546] Ha a foglalkoztatónál kifizetőhely működik, a (2) bekezdéstől eltérően az (1) bekezdésben foglaltakat kell alkalmazni az Ebtv. 63. §-ában foglaltak tekintetében akkor, ha a biztosított
 
@@ -33,7 +33,7 @@ b) az Ebtv. 42/G. § (1) bekezdése szerinti gyermekgondozási díj iránti kér
 (14)[^559]
 
 [^544]: A Vhr. 38. §-a a 254/2013. (VII. 5.) Korm. rendelet 14. §-ával megállapított szöveg.
-[^545]: A Vhr. 38. § (1) bekezdése a 286/2023. (VI. 30.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^545]: A Vhr. 38. § (1) bekezdése a 286/2023. (VI. 30.) Korm. rendelet 5. § (1) bekezdésével megállapított, a 408/2024. (XII. 20.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
 [^546]: A Vhr. 38. § (1a) bekezdését a 192/2015. (VII. 21.) Korm. rendelet 12. § (1) bekezdése iktatta be, szövege a 305/2019. (XII. 12.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^547]: A Vhr. 38. § (2) bekezdése a 286/2023. (VI. 30.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
 [^548]: A Vhr. 38. § (3) bekezdése a 286/2023. (VI. 30.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.

@@ -87,3 +87,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-217-20-
 | 2024-03-01 | 1997-217-20-22.166 | 41/2024. (II. 29.) Korm. rendelet |
 | 2024-06-18 | 1997-217-20-22.167 | 128/2024. (VI. 17.) Korm. rendelet |
 | 2024-07-01 | 1997-217-20-22.164 | 42/2024. (II. 29.) Korm. rendelet |
+| 2024-12-21 | 1997-217-20-22.168 | 286/2023. (VI. 30.) Korm. rendelet |
