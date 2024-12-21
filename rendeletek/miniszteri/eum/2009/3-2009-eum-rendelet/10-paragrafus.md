@@ -2,7 +2,7 @@
 
 (2)[^22] A 7. § (3) bekezdésében, illetve a 9. § (2) bekezdésében meghatározott jegyzőkönyvek egy-egy példányát az ismertetési tevékenységet folytató és a gyógyszer, gyógyászati segédeszköz rendelésére, használatának betanítására és forgalmazására jogosult a kiállítástól számított öt évig köteles – jegyzőkönyvtípusonként csoportosítva – megőrizni.
 
-(3)[^23] Az ismertetési tevékenységet folytató a jegyzőkönyvek egy-egy példányát – társadalombiztosítási támogatásba befogadott gyógyszer, illetve társadalombiztosítási támogatással rendelhető gyógyászati segédeszköz esetén – negyedévente megküldi az NNGYK-nak.
+(3)[^23] Az ismertetési tevékenységet folytató a jegyzőkönyvek egy-egy példányát – társadalombiztosítási támogatásba befogadott gyógyszer, illetve társadalombiztosítási támogatással rendelhető gyógyászati segédeszköz esetén – negyedévente, a tárgynegyedévet követő hónap utolsó napjáig megküldi az NNGYK-nak.
 
 [^22]: A 10. § (2) bekezdése a 38/2009. (XI. 6.) EüM rendelet 7. § (2) bekezdése szerint módosított szöveg.
-[^23]: A 10. § (3) bekezdése a 38/2009. (XI. 6.) EüM rendelet 7. § (2) bekezdése, a 28/2023. (VIII. 10.) BM rendelet 51. § c) pontja szerint módosított szöveg.
+[^23]: A 10. § (3) bekezdése a 38/2009. (XI. 6.) EüM rendelet 7. § (2) bekezdése, a 28/2023. (VIII. 10.) BM rendelet 51. § c) pontja, az 57/2024. (XII. 20.) BM rendelet 24. §-a szerint módosított szöveg.
