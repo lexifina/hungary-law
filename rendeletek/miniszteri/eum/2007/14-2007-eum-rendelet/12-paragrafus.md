@@ -32,6 +32,8 @@ b)[^70]
 
 (11)[^77] A 25. számú melléklet határozza meg azoknak a gyógyászati segédeszközöknek a körét, amelyek kölcsönzési díjához az egészségbiztosító méltányosságból támogatást nyújthat.
 
+(12)[^78] A 26. számú melléklet határozza meg azoknak a gyógyászati segédeszközöknek a körét és az eltérés mértékét, amelyek esetében a forgalmazó a Gyftv. 35. § (2) bekezdés b) pontja alapján a kiszolgáltatás során a közfinanszírozás alapjául elfogadott ártól eltérhet.
+
 [^65]: A 12. § (1) bekezdése az 52/2009. (XII. 30.) EüM rendelet 2. §-ával megállapított szöveg.
 [^66]: A 12. § (3a) bekezdését a 3/2014. (I. 16.) EMMI rendelet 23. §-a iktatta be.
 [^67]: A 12. § (4) bekezdése a 25/2009. (VIII. 3.) EüM rendelet 3. § (2) bekezdésével megállapított, a 7/2016. (III. 30.) EMMI rendelet 17. § b) pontja szerint módosított szöveg.
@@ -45,3 +47,4 @@ b)[^70]
 [^75]: A 12. § (9) bekezdését az 57/2012. (XII. 29.) EMMI rendelet 7. § (2) bekezdése iktatta be, szövege az 53/2013. (VII. 19.) EMMI rendelet 8. § (2) bekezdésével megállapított szöveg.
 [^76]: A 12. § (10) bekezdését az 57/2012. (XII. 29.) EMMI rendelet 7. § (2) bekezdése iktatta be.
 [^77]: A 12. § (11) bekezdését a 47/2015. (X. 19.) EMMI rendelet 27. §-a iktatta be.
+[^78]: A 12. § (12) bekezdését az 57/2024. (XII. 20.) BM rendelet 11. §-a iktatta be.

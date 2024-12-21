@@ -90,7 +90,7 @@
 
 ## 9. Az eszköz hatékonyságát alátámasztó tudományos bizonyítékok bemutatása
 
-## 9.1. Nyilatkozat arról, hogy készült-e átfogó technológia-elemzési tanulmány az eszközzel kapcsolatban (gyógyszer-GYSE, kórházi ellátás, műtét - GYSE összehasonlító, GYSE-GYSE műszaki, funkcionális összehasonlítás minőség, garancia, értékállóság alapján) (Egészségügyi Minisztérium szakmai irányelve az egészség-gazdaságtani elemzések készítéséhez módszertani irányelv figyelembevételével)
+## 9.1. Nyilatkozat arról, hogy készült-e átfogó technológia-elemzési tanulmány az eszközzel kapcsolatban (gyógyszer-GYSE, vagy kórházi ellátás, műtét – GYSE összehasonlító, GYSE-GYSE műszaki, funkcionális összehasonlítás minőség, garancia, értékállóság alapján) (az egészségügyért felelős miniszter által vezetett minisztérium egészség-gazdaságtani elemzések készítéséről és értékeléséről szóló szakmai irányelvének figyelembevételével)
 
 ## 10. Szakorvosi vélemény
 
@@ -118,9 +118,9 @@
 
 ## 10.12. Állásfoglalás arra vonatkozóan, hogy az eszköz gyógyászati segédeszközként való használatával egyetért-e
 
-## 10.13. A véleményező neve, szakképzettségei, beosztása, munkahelye, a vélemény kiadásának kelte
+## 10.13.
 
-6. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^178]
+6. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^181]
 
 A járóbeteg gyógyászati segédeszköz költségvetési keretből a NEAK nem támogatja:
 
@@ -148,4 +148,4 @@ A járóbeteg gyógyászati segédeszköz költségvetési keretből a NEAK nem 
 
 12. a kizárólag kozmetikai célt szolgáló gyógyászati segédeszközöket.
 
-[^178]: A 6. számú melléklet a 7/2016. (III. 30.) EMMI rendelet 15. § (6) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 53. § (1) bekezdés j) pontja, a 16/2020. (IV. 30.) EMMI rendelet 3. § (1) bekezdése, a 10/2022. (III. 31.) EMMI rendelet 3. § (1) bekezdése szerint módosított szöveg.
+[^181]: A 6. számú melléklet a 7/2016. (III. 30.) EMMI rendelet 15. § (6) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 53. § (1) bekezdés j) pontja, a 16/2020. (IV. 30.) EMMI rendelet 3. § (1) bekezdése, a 10/2022. (III. 31.) EMMI rendelet 3. § (1) bekezdése szerint módosított szöveg.

@@ -58,6 +58,8 @@
 
 ## 4.6. Áfa kulcsa
 
+## 4.7. Az eszköz gyártó által meghatározott élettartama (hónap)
+
 ## 5. Az eszköz ismertetése
 
 ## 5.1. Az eszköz és tartozékai anyagának, több anyag esetén az összetevők nevének és százalékos összetételének leírása (beleértve a bevonó és színező anyagok pontos leírását is) (vagy az ide vonatkozó adatok helyének megjelölése a beadott műszaki dokumentációban)
@@ -122,7 +124,7 @@
 
 ## 9.1. Árajánlat (nettó fogyasztói ár Ft/mennyiségi egység)
 
-## Nyilatkozat arról – az alkalmazott számítások egyidejű bemutatásával –, hogy az árajánlat kialakítása során figyelembe vette, hogy a fajlagos költségeket és az üzleti kockázatot csökkenti a támogatással történő értékesítés;
+## Az árajánlat kialakítása során figyelembe vett tényezők bemutatása: tervezett db/év forgalom, betegszám, kapcsolódó költségek, fajlagos költségek, a támogatással történő értékesítés fajlagos költségeket és az üzleti kockázatot csökkentő hatása.
 
 ## 9.2. A kérelmező által kért társadalombiztosítási támogatás mértéke és jellege
 
@@ -132,11 +134,11 @@
 
 ## 10. Az eszköz hatékonyságát alátámasztó tudományos bizonyítékok bemutatása
 
-## 10.1. Nyilatkozat arról, hogy készült-e átfogó technológia-elemzési tanulmány az eszközzel kapcsolatban (gyógyszer-GYSE, kórházi ellátás, műtét - GYSE összehasonlító, GYSE-GYSE műszaki, funkcionális összehasonlítás minőség, garancia, értékállóság alapján) (Egészségügyi Minisztérium szakmai irányelve az egészség-gazdaságtani elemzések készítéséhez módszertani irányelv figyelembevételével)
+## 10.1. Nyilatkozat arról, hogy készült-e átfogó technológia-elemzési tanulmány az eszközzel kapcsolatban (gyógyszer-GYSE, vagy kórházi ellátás, műtét – GYSE összehasonlító, GYSE-GYSE műszaki, funkcionális összehasonlítás minőség, garancia, értékállóság alapján) (az egészségügyért felelős miniszter által vezetett minisztérium egészség-gazdaságtani elemzések készítéséről és értékeléséről szóló szakmai irányelvének figyelembevételével)
 
 ## 11. Szakorvosi vélemény
 
-## 11.1. Nyilatkozat arról, hogy országos gyógyintézet, klinika vagy korábbi vármegyei kórház által kiállított, öt évnél nem régebbi szakorvosi vélemény rendelkezésre áll-e
+## 11.1. Országos gyógyintézet, a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 97. § (1) bekezdése szerinti klinika (a továbbiakban: klinika) vagy korábbi vármegyei kórház által kiállított, öt évnél nem régebbi szakorvosi vélemény, amelyen szerepel a kiadás kelte, a véleményező orvos neve, szakképzettségei, beosztása, munkahelye.
 
 ## 11.2. Az eszköz pontos megnevezése, meghatározása
 
@@ -156,8 +158,8 @@
 
 ## 11.10. Állásfoglalás arra vonatkozóan, hogy az eszköz gyógyászati segédeszközként való használatával egyetért-e
 
-## 11.11. A véleményező neve, szakképzettségei, beosztása, munkahelye, a vélemény kiadásának kelte
+## 11.11.
 
-4. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^176]
+4. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^179]
 
-[^176]: A 4. számú melléklet a 34/2010. (V. 14.) EüM rendelet 12. § (4) bekezdésével megállapított, a 10/2011. (III. 30.) NEFMI rendelet 58. § (2) bekezdése, a 7/2016. (III. 30.) EMMI rendelet 15. § (4) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 53. § (1) bekezdés c) pontja, a 8/2018. (II. 13.) EMMI rendelet 42. § e) pontja, a 32/2021. (VII. 29.) EMMI rendelet 9. § (4) bekezdése, a 35/2021. (VIII. 16.) EMMI rendelet 21. § f)–g) pontja, a 13/2022. (IV. 29.) EMMI rendelet 35. § c) pontja, a 48/2022. (XII. 27.) BM rendelet 4. §-a szerint módosított szöveg.
+[^179]: A 4. számú melléklet a 34/2010. (V. 14.) EüM rendelet 12. § (4) bekezdésével megállapított, a 10/2011. (III. 30.) NEFMI rendelet 58. § (2) bekezdése, a 7/2016. (III. 30.) EMMI rendelet 15. § (4) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 53. § (1) bekezdés c) pontja, a 8/2018. (II. 13.) EMMI rendelet 42. § e) pontja, a 32/2021. (VII. 29.) EMMI rendelet 9. § (4) bekezdése, a 35/2021. (VIII. 16.) EMMI rendelet 21. § f)–g) pontja, a 13/2022. (IV. 29.) EMMI rendelet 35. § c) pontja, a 48/2022. (XII. 27.) BM rendelet 4. §-a, az 57/2024. (XII. 20.) BM rendelet 18. § (5) bekezdése és 19. § d) pontja szerint módosított szöveg.

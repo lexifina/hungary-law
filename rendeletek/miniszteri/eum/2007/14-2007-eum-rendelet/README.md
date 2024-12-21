@@ -45,3 +45,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-14-20-0
 | 2023-03-01 | 2007-14-20-0B.58 | 4/2023. (II. 8.) BM rendelet |
 | 2023-06-01 | 2007-14-20-0B.59 | 11/2023. (V. 8.) BM rendelet |
 | 2024-09-06 | 2007-14-20-0B.60 | 20/2010. (XII. 28.) NEFMI rendelet |
+| 2024-12-21 | 2007-14-20-0B.61 | 57/2024. (XII. 20.) BM rendelet |

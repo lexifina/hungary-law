@@ -72,6 +72,8 @@
 
 ## 4.8. Az eszköz nettó beszerzési ára forintban
 
+## 4.9. Az eszköz gyártó által meghatározott élettartama (hónap)
+
 ## 5. Az eszköz ismertetése
 
 ## 5.1. Az eszköz (és tartozékai) anyagának, több anyag esetén az összetevők nevének és százalékos összetételének leírása (beleértve a bevonó- és színezőanyagok pontos leírását is) (vagy az idevonatkozó adatok helyének megjelölése a beadott műszaki dokumentációban)
@@ -146,7 +148,7 @@
 
 ## 9.1. Árajánlat (nettó fogyasztói ár Ft/mennyiségi egység)
 
-## Nyilatkozat arról – az alkalmazott számítások egyidejű bemutatásával –, hogy az árajánlat kialakítása során figyelembe vette, hogy a fajlagos költségeket és az üzleti kockázatot csökkenti a támogatással történő értékesítés;
+## Az árajánlat kialakítása során figyelembe vett tényezők bemutatása: tervezett db/év forgalom, betegszám, kapcsolódó költségek, fajlagos költségek, a támogatással történő értékesítés fajlagos költségeket és az üzleti kockázatot csökkentő hatása.
 
 ## 9.2. A kérelmezett napi kölcsönzési díj társadalombiztosítási támogatásának mértéke és módszere
 
@@ -154,11 +156,11 @@
 
 ## 10. Az eszköz hatékonyságát alátámasztó tudományos bizonyítékok bemutatása
 
-## 10.1. Nyilatkozat arról, hogy készült-e átfogó technológia-elemzési tanulmány az eszköz kölcsönzésével kapcsolatban (gyógyszer-GYSE, kórházi ellátás, műtét - GYSE összehasonlító, GYSE-GYSE műszaki, funkcionális összehasonlítás minőség, garancia, értékállóság alapján) (Egészségügyi Minisztérium szakmai irányelve az egészség-gazdaságtani elemzések készítéséhez módszertani irányelv figyelembevételével)
+## 10.1. Nyilatkozat arról, hogy készült-e átfogó technológia-elemzési tanulmány az eszközzel kapcsolatban (gyógyszer-GYSE, vagy kórházi ellátás, műtét – GYSE összehasonlító, GYSE-GYSE műszaki, funkcionális összehasonlítás minőség, garancia, értékállóság alapján) (az egészségügyért felelős miniszter által vezetett minisztérium egészség-gazdaságtani elemzések készítéséről és értékeléséről szóló szakmai irányelvének figyelembevételével)
 
 ## 11. Szakorvosi vélemény
 
-## 11.1. Nyilatkozat arról, hogy országos gyógyintézet, klinika vagy korábbi vármegyei kórház által kiállított, öt évnél nem régebbi szakorvosi vélemény rendelkezésre áll-e
+## 11.1. Országos gyógyintézet, a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 97. § (1) bekezdése szerinti klinika (a továbbiakban: klinika) vagy korábbi vármegyei kórház által kiállított, öt évnél nem régebbi szakorvosi vélemény, amelyen szerepel a kiadás kelte, a véleményező orvos neve, szakképzettségei, beosztása, munkahelye.
 
 ## 11.2. Az eszköz pontos megnevezése, meghatározása
 
@@ -180,8 +182,8 @@
 
 ## 11.11. Állásfoglalás arra vonatkozóan, hogy az eszköz kölcsönzött gyógyászati segédeszközként való használatával egyetért-e
 
-## 11.12. A véleményező neve, szakképzettségei, beosztása, munkahelye, a vélemény kiadásának kelte
+## 11.12.
 
-5. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^177]
+5. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^180]
 
-[^177]: Az 5. számú melléklet a 34/2010. (V. 14.) EüM rendelet 12. § (5) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 84. § h) pontja, a 47/2015. (X. 19.) EMMI rendelet 31. §-a és 32. § e) pontja, a 7/2016. (III. 30.) EMMI rendelet 15. § (5) bekezdése, a 8/2018. (II. 13.) EMMI rendelet 42. § e) pontja, a 35/2021. (VIII. 16.) EMMI rendelet 21. § g) pontja, a 13/2022. (IV. 29.) EMMI rendelet 34. § f) pontja, a 48/2022. (XII. 27.) BM rendelet 4. §-a szerint módosított szöveg. [A 13/2022. (IV. 29.) EMMI rendelet 34. § g) pontjában foglalz módosítás, mely szerint a „az R. 4. § (1) bekezdés 15. pontja szerinti alkalmazási célja” szövegrész helyébe a „rendeltetése” szöveg lép, nem vezethető át.]
+[^180]: Az 5. számú melléklet a 34/2010. (V. 14.) EüM rendelet 12. § (5) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 84. § h) pontja, a 47/2015. (X. 19.) EMMI rendelet 31. §-a és 32. § e) pontja, a 7/2016. (III. 30.) EMMI rendelet 15. § (5) bekezdése, a 8/2018. (II. 13.) EMMI rendelet 42. § e) pontja, a 35/2021. (VIII. 16.) EMMI rendelet 21. § g) pontja, a 13/2022. (IV. 29.) EMMI rendelet 34. § f) pontja, a 48/2022. (XII. 27.) BM rendelet 4. §-a, az 57/2024. (XII. 20.) BM rendelet 18. § (6) bekezdése és 19. § e) pontja szerint módosított szöveg. [A 13/2022. (IV. 29.) EMMI rendelet 34. § g) pontjában foglalz módosítás, mely szerint a „az R. 4. § (1) bekezdés 15. pontja szerinti alkalmazási célja” szövegrész helyébe a „rendeltetése” szöveg lép, nem vezethető át.]

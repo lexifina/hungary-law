@@ -48,6 +48,8 @@
 
 ## 4.6. Áfa kulcsa
 
+## 4.7. Az eszköz gyártó által meghatározott élettartama (hónap)
+
 ## 5. Az eszköz ismertetése
 
 ## 5.1. Az eszköz (és tartozékai) anyagának, több anyag esetén az összetevők nevének és százalékos összetételének leírása (beleértve a bevonó és színező anyagok pontos leírását is) (vagy az ide vonatkozó adatok helyének megjelölése a beadott műszaki dokumentációban)
@@ -114,7 +116,7 @@
 
 ## 9.1. Árajánlat (nettó fogyasztói ár Ft/mennyiségi egység)
 
-## Nyilatkozat arról – az alkalmazott számítások egyidejű bemutatásával –, hogy az árajánlat kialakítása során figyelembe vette, hogy a fajlagos költségeket és az üzleti kockázatot csökkenti a támogatással történő értékesítés;
+## Az árajánlat kialakítása során figyelembe vett tényezők bemutatása: tervezett db/év forgalom, betegszám, kapcsolódó költségek, fajlagos költségek, a támogatással történő értékesítés fajlagos költségeket és az üzleti kockázatot csökkentő hatása.
 
 ## 9.2. A kérelmezett társadalombiztosítási támogatás mértéke és módszere
 
@@ -128,7 +130,7 @@
 
 ## 11. Szakorvosi vélemény
 
-## 11.1. Nyilatkozat arról, hogy országos gyógyintézet, klinika vagy korábbi vármegyei kórház által kiállított, öt évnél nem régebbi szakorvosi vélemény rendelkezésre áll-e
+## 11.1. Országos gyógyintézet, a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 97. § (1) bekezdése szerinti klinikai központ (a továbbiakban: klinika) vagy korábbi vármegyei kórház által kiállított, öt évnél nem régebbi szakorvosi vélemény, amelyen szerepel a kiadás kelte, a véleményező orvos neve, szakképzettségei, beosztása, munkahelye.
 
 ## 11.2. Az eszköz pontos megnevezése, meghatározása
 
@@ -152,8 +154,8 @@
 
 ## 11.12. Állásfoglalás arra vonatkozóan, hogy az eszköz gyógyászati segédeszközként való használatával egyetért-e
 
-## 11.13. A véleményező neve, szakképzettségei, beosztása, munkahelye, a vélemény kiadásának kelte
+## 11.13.
 
-3. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^175]
+3. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^178]
 
-[^175]: A 3. számú melléklet a 34/2010. (V. 14.) EüM rendelet 12. § (3) bekezdésével megállapított, a 7/2016. (III. 30.) EMMI rendelet 15. § (3) bekezdése, a 8/2018. (II. 13.) EMMI rendelet 42. § e) pontja, a 32/2021. (VII. 29.) EMMI rendelet 9. § (3) bekezdése, a 48/2022. (XII. 27.) BM rendelet 4. §-a szerint módosított szöveg.
+[^178]: A 3. számú melléklet a 34/2010. (V. 14.) EüM rendelet 12. § (3) bekezdésével megállapított, a 7/2016. (III. 30.) EMMI rendelet 15. § (3) bekezdése, a 8/2018. (II. 13.) EMMI rendelet 42. § e) pontja, a 32/2021. (VII. 29.) EMMI rendelet 9. § (3) bekezdése, a 48/2022. (XII. 27.) BM rendelet 4. §-a, az 57/2024. (XII. 20.) BM rendelet 18. § (4) bekezdése és 19. § c) pontja szerint módosított szöveg.
