@@ -1,6 +1,6 @@
-## 19/B. §[^60] A Mezőkovácsházai járás mint feladatellátási terület 2017. február 1-jével a Gyulai Tankerületi Központtól a Békéscsabai Tankerületi Központhoz kerül.
+## 19/B. §[^61] A Mezőkovácsházai járás mint feladatellátási terület 2017. február 1-jével a Gyulai Tankerületi Központtól a Békéscsabai Tankerületi Központhoz kerül.
 
-19/C. §[^61] (1) Az Esztergomi Tankerületi Központ a Tatabányai Tankerületi Központból történő kiválás útján 2018. július 1-jén jön létre. Az Esztergomi Tankerületi Központ fenntartásába kerülnek a feladatellátási területén székhellyel rendelkező, 2018. július 1-jét megelőzően a Tatabányai Tankerületi Központ fenntartásában lévő köznevelési intézmények.
+19/C. §[^62] (1) Az Esztergomi Tankerületi Központ a Tatabányai Tankerületi Központból történő kiválás útján 2018. július 1-jén jön létre. Az Esztergomi Tankerületi Központ fenntartásába kerülnek a feladatellátási területén székhellyel rendelkező, 2018. július 1-jét megelőzően a Tatabányai Tankerületi Központ fenntartásában lévő köznevelési intézmények.
 
 (2) A következő európai uniós forrásból finanszírozott projektek megvalósítása és fenntartása tekintetében a Tatabányai Tankerületi Központ jogutóda az Esztergomi Tankerületi Központ:
 
@@ -64,5 +64,5 @@
 
 30. EFOP-4.1.3-17-2017-00067 „Az Esztergomi Arany János Általános Iskola infrastrukturális fejlesztése” című projekt.
 
-[^60]: A 19/B. §-t a 486/2016. (XII. 28.) Korm. rendelet 21. §-a iktatta be.
-[^61]: A 19/C. §-t a 64/2018. (IV. 3.) Korm. rendelet 1. §-a iktatta be.
+[^61]: A 19/B. §-t a 486/2016. (XII. 28.) Korm. rendelet 21. §-a iktatta be.
+[^62]: A 19/C. §-t a 64/2018. (IV. 3.) Korm. rendelet 1. §-a iktatta be.

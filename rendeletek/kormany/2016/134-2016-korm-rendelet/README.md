@@ -29,3 +29,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-134-20-
 | 2023-01-01 | 2016-134-20-22.21 | 64/2018. (IV. 3.) Korm. rendelet |
 | 2023-09-01 | 2016-134-20-22.22 | 402/2023. (VIII. 30.) Korm. rendelet |
 | 2024-02-01 | 2016-134-20-22.23 | 64/2018. (IV. 3.) Korm. rendelet |
+| 2024-12-21 | 2016-134-20-22.24 | 402/2023. (VIII. 30.) Korm. rendelet |

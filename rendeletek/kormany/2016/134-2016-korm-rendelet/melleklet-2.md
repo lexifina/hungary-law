@@ -396,8 +396,8 @@
 
 | Letenyei járás |
 
-2. melléklet a 134/2016. (VI. 10.) Korm. rendelethez[^71]
+2. melléklet a 134/2016. (VI. 10.) Korm. rendelethez[^72]
 
 Az államháztartásról szóló 2011. évi CXCV. törvény 11. § (3b) bekezdés a) pontja szerinti beolvadásos kiválással érintett tankerületek és a befogadó tankerületi központok
 
-[^71]: A 2. melléklet a 170/2016. (VII. 1.) Korm. rendelet 4. §-a, a 371/2020. (VI. 30.) Korm. rendelet 38. § b) pontja, a 616/2022. (XII. 29.) Korm. rendelet 235. §-a szerint módosított szöveg.
+[^72]: A 2. melléklet a 170/2016. (VII. 1.) Korm. rendelet 4. §-a, a 371/2020. (VI. 30.) Korm. rendelet 38. § b) pontja, a 616/2022. (XII. 29.) Korm. rendelet 235. §-a szerint módosított szöveg.
