@@ -22,21 +22,9 @@
 
 | Határidő: | 2024. december 31. |
 
-## 4. A fővárosi egészségügyi alapellátás és járóbeteg-szakellátás fejlesztésének az Egészséges Budapest Program keretében történő megvalósításával kapcsolatos egyes feladatokról szóló 1041/2020. (II. 17.) Korm. határozat
+## 4.[^1]
 
-## a) 2. pontjában a „2024. december 31-éig” szövegrész helyébe a „2025. december 31-éig” szöveg,
-
-## b) 7. pontjában a „2025. március 31.” szövegrész helyébe a „2026. március 31.” szöveg
-
-## lép.
-
-## 5. A fővárosi alapellátás és járóbeteg-szakellátás fejlesztésének az Egészséges Budapest Program keretében történő megvalósításával kapcsolatos 2021. évi feladatokról szóló 1439/2021. (VII. 6.) Korm. határozat
-
-## a) 1. pont b) alpontjában az „az emberi erőforrások miniszterét” szövegrész helyébe az „a belügyminisztert” szöveg, az „emberi erőforrások minisztere” szövegrész helyébe a „belügyminiszter” szöveg és a „2024. december 31-éig” szövegrész helyébe a „2025. december 31-éig” szöveg,
-
-## b) 1. pont c) alpontjában a „2025. március 31.” szövegrész helyébe a „2026. március 31.” szöveg
-
-## lép.
+## 5.[^2]
 
 1. melléklet az 1416/2024. (XII. 20.) Korm. határozathoz
 
@@ -71,3 +59,6 @@ Az Egészséges Budapest Program terhére egyes egészségügyi fejlesztésekhez
 | 12. | Budapest Főváros XXIII. kerület Soroksár Önkormányzata | Dr. Nádor Ödön Egészségügyi Intézmény felújítása | 400 000 000 |
 
 | ÖSSZESEN: | 7 765 975 000 |
+
+[^1]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
