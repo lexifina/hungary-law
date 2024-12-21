@@ -18,6 +18,12 @@
 
 (8) A honvédek beosztásukhoz és feladataik végrehajtásához egyenruhát viselnek, a nyugállományúak és a honvédelmi szolgálati juttatásban részesülők a honvédelem érdekében végzett tevékenységük során egyenruhát viselhetnek. Egyenruha viselése a honvédelemért felelős miniszter rendeletében meghatározottak szerint engedélyezhető a szolgálaton kívüli állománynak, továbbá a rendelkezésre állása időszakában az önkéntes tartalékosnak és műveleti területen a rendvédelmi szerv tagjának, ha a Honvédség érdekében végeznek tevékenységet. Az önkéntes tartalékos a rendelkezésre állása időszakában a szerződésében meghatározott esetben is viselhet egyenruhát. A köztársasági elnök és a Kit. szerinti politikai vagy szakmai felsővezető műveleti területen és gyakorlaton egyenruhát viselhet. Más személyek részére a Honvédségnél rendszeresített egyenruha, vagy azzal összetéveszthető ruházat viselete tilos.
 
+(8a) A honvédelemért felelős miniszter utasításban szabályozza
+
+a) az egyenruha, a katonai rendfokozati és a fegyvernemi jelzés, az évfolyamjelzés, a kitüntetés és a szolgálati jel viselésének módját, továbbá az egyenruha és a rendfokozat viselésének korlátozását, előzetes engedélyhez kötését, tilalmát, az egyenruha-viseléssel és annak megvonásával kapcsolatos jogkört gyakorló szervezetet, az egyenruha viselésének megvonására vonatkozó eljárásrendet tartalmazó öltözködési szabályzatot,
+
+b) a honvédek egyéni és különböző kötelékeinek egységes, a katonai fegyelmet és tartást kifejező megjelenését és mozgásformáit tartalmazó alaki szabályzatot.
+
 (9) Az arra jogosult az öltözködésre vonatkozó szabályok betartásával kizárólag a Honvédségnél rendszeresített egyenruhát viselhet. A honvédelemért felelős miniszter rendeletében meghatározott esetekben az egyenruha viselése megtiltható, előzetes írásbeli engedélyhez köthető, megvonható, valamint egészségi okból korlátozható.
 
 (9a) A honvédelemért felelős miniszter egyedi döntésével elrendelheti – a (8) bekezdésben meghatározottaktól eltérően – az egyenruha szolgálatteljesítési időn túl történő kötelező viselését a munkába járás során.
