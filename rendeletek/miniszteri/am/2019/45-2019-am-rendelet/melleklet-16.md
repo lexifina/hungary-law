@@ -10,6 +10,8 @@ Védett őshonos és veszélyeztetett mezőgazdasági állatfajták
 
 |  | 2. | Szarvasmarha és bivaly: | magyar szürke szarvasmarha |
 
+|  | 2a.[^5] |  | magyartarka szarvasmarha |
+
 |  | 3. |  | magyar házibivaly |
 
 |  | 4. | Ló: | gidrán |
@@ -86,10 +88,12 @@ Védett őshonos és veszélyeztetett mezőgazdasági állatfajták
 
 |  | 1. | Faj | Fajta |
 
-|  | 2. | Szarvasmarha: | magyar tarka szarvasmarha |
+|  | 2.[^6] |  |  |
 
 |  | 3. | Juh: | magyar merinó |
 
 |  | 4. | Ló: | akhal-teke |
 
 [^4]: A 16. melléklet az 1/2020. (II. 6.) AM rendelet 1. §-a, az 59/2020. (XI. 30.) AM rendelet 2. §-a szerint módosított szöveg.
+[^5]: A 16. melléklet 1. pontjában foglalt táblázat 2a. sorát a 67/2024. (XII. 20.) AM rendelet 1. § (1) bekezdése iktatta be.
+[^6]: A 16. melléklet 2. pontjában foglalt táblázat 2. sorát a 67/2024. (XII. 20.) AM rendelet 2. §-a hatályon kívül helyezte.

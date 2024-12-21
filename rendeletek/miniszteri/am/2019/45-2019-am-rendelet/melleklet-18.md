@@ -2,7 +2,11 @@
 
 | 1. | Mezőgazdasági haszonállat | „kritikus” fenyegetettségi szint egyedszáma | „védendő” fenyegetettségi szint egyedszáma | „megőrzendő” fenyegetettségi szint egyedszáma |
 
-| 2. | Szarvasmarhafélék | 200 alatt | 200–1500 | 1501–7500 |
+| 2.[^7] | 1. Szarvasmarhafélék |  |  |  |
+
+| 1.1. magyar szürke szarvasmarha és magyar házibivaly | 200 alatt | 200–1500 | 1501–7500 |
+
+| 1.2. magyartarka szarvasmarha | 200 alatt | 200–1500 | 1501–9000 |
 
 | 3. | Juh | 200 alatt | 200–1500 | 1501–10000 |
 
@@ -41,3 +45,5 @@ Magyar ebfajták
 8. pumi,
 
 9. rövidszőrű magyar vizsla.
+
+[^7]: A 17. mellékletben foglalt táblázat 2. sora a 67/2024. (XII. 20.) AM rendelet 1. § (2) bekezdésével megállapított szöveg.

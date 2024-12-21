@@ -1,4 +1,4 @@
-21. melléklet a 45/2019. (IX. 25.) AM rendelethez[^5]
+21. melléklet a 45/2019. (IX. 25.) AM rendelethez[^8]
 
 A házi nyúl, a csincsilla, a magyar ebfajták, a házi tyúk, a gyöngytyúk, a házi lúd, a házi kacsa, a pézsmakacsa, a pulyka, a strucc, az emu, a ponty, a fogassüllő, a harcsa, a sebes pisztráng, a szivárványos pisztráng és a mézelő méh teljesítményvizsgálatának és tenyészértékbecslésének elfogadott módszerei
 
@@ -74,4 +74,4 @@ A házi nyúl, a csincsilla, a magyar ebfajták, a házi tyúk, a gyöngytyúk, 
 
 5.4.3. a közzététel formáját.
 
-[^5]: A 21. melléklet a 46/2020. (IX. 23.) AM rendelet 39. § b) pontja, a 154/2022. (XII. 27.) AM rendelet 1. §-a szerint módosított szöveg.
+[^8]: A 21. melléklet a 46/2020. (IX. 23.) AM rendelet 39. § b) pontja, a 154/2022. (XII. 27.) AM rendelet 1. §-a szerint módosított szöveg.
