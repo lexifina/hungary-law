@@ -2,8 +2,12 @@
 
 19. § (1) A beruházás keretében kizárólag a támogatási kérelem benyújtásának napját követően felmerült költségek számolhatóak el.
 
-(2) A 2. § (1) bekezdés a)–d) pontja szerinti támogatás esetén a beruházás elszámolható költsége kizárólag a beruházás érdekében felmerült tárgyi eszközök és immateriális javak költsége lehet.
+(2)[^45]
 
-(3) A 2. § (1) bekezdés e) pontja szerinti támogatás esetén a kutatás-fejlesztési projekt elszámolható költsége a beruházó – választása szerint – az első támogatásban részesülő kutatás-fejlesztési projekt megkezdésétől számított legkevesebb egy, de legfeljebb három év alatt felmerült, a támogatási kérelemben feltüntetett kutatás-fejlesztési projektjéhez kapcsolódó, a kutató-fejlesztőkre tekintettel elszámolt költségei. Ezen felül elszámolható költségek – a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Sztv.) 80. § (2) bekezdése kivételével – az Sztv. 52. §-ában meghatározott értékcsökkenési leírás, a támogatandó kutatás-fejlesztési projekt teljes elszámolható költségének legfeljebb huszonöt százalékáig az igazolhatóan felhasznált anyagköltség, amennyiben az megfelel az általános csoportmentességi rendelet 25. cikk (3) bekezdés a)–c) és e) pontjának, valamint az olyan szerződéses kutatási költségek, amelyek kizárólag a kutatás-fejlesztési projekt célját szolgálják. E támogatások esetében a 18–20. §-t – a 20. § (2) bekezdése kivételével – nem kell alkalmazni.
+(3)[^46]
 
-(4) A 2. § (1) bekezdés f) pontja szerinti támogatás esetén elszámolható a projekt menedzsment, könyvvizsgálat, jogi szolgáltatás, tervezés és engedélyeztetés költségei.
+(4)[^47]
+
+[^45]: A 19. § (2) bekezdését a 20/2024. (XII. 20.) KKM rendelet 11. § 15. pontja hatályon kívül helyezte.
+[^46]: A 19. § (3) bekezdését a 20/2024. (XII. 20.) KKM rendelet 11. § 15. pontja hatályon kívül helyezte.
+[^47]: A 19. § (4) bekezdését a 20/2024. (XII. 20.) KKM rendelet 11. § 15. pontja hatályon kívül helyezte.

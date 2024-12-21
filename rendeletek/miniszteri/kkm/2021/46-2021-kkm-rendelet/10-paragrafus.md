@@ -10,11 +10,11 @@ c) a beruházás szakmai tartalmának és költségeinek megalapozottsága,
 
 d) a beruházás megvalósítójának a tervezett beruházáshoz kapcsolódó szakmai tapasztalata,
 
-e) a 6. § (1) bekezdés a) pontja szerinti szervezet exportérettsége,
+e)[^31]
 
 f) a beruházás földrajzi fókusza,
 
-g) a beruházó vállalkozások gazdasági teljesítménye, a 6. § (1) bekezdés a) pontja szerinti szervezet pénzügyi helyzete,
+g)[^32] a beruházó vállalkozások gazdasági teljesítménye, a 6. § (1) bekezdése szerinti szervezet pénzügyi helyzete,
 
 h) a beruházás előkészítettsége,
 
@@ -57,3 +57,6 @@ m) a beruházás által létrejött kapacitás működtetéséhez szükséges er
 n) rendelkezésre álló beszállítói, vevői, kivitelezői, partneri szándéknyilatkozatok, szerződések bemutatása,
 
 o) nagyvállalkozások esetén az ösztönző hatások bemutatása az általános csoportmentességi rendelet 6. cikk (3) bekezdésében leírtaknak megfelelően.
+
+[^31]: A 10. § (1) bekezdés e) pontját a 20/2024. (XII. 20.) KKM rendelet 11. § 11. pontja hatályon kívül helyezte.
+[^32]: A 10. § (1) bekezdés g) pontja a 20/2024. (XII. 20.) KKM rendelet 10. § b) pontja szerint módosított szöveg.

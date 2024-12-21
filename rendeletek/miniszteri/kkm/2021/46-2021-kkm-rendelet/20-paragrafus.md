@@ -54,7 +54,7 @@
 
 26. cégközi profit,
 
-27. energiatermeléshez kapcsolódó eszközök, a (6) bekezdésben meghatározott kivételekkel,
+27.[^48]
 
 28. létesítmény felvásárlása, amennyiben arra nem piaci áron kerül sor,
 
@@ -92,16 +92,14 @@ e) az immateriális javak az elszámolható költségek maximum 20%-át képezhe
 
 (5) A támogatható tárgyi eszközöknek az alábbi feltételeknek kell megfelelniük:
 
-a) a beszállító a támogatásban részesült telephelyen működő vállalkozásnál, a beruházóval kötött beszállítói szerződés birtokában használhatja fel azokat,
+a)[^49]
 
 b) a beszerzett tárgyi eszközöknek tartósan, legalább a fenntartási időszak végéig szolgálniuk kell a támogatott tevékenységet, és
 
 c) az egy vállalatcsoporton belülről beszerzett új eszközök esetén az elszámolható költség nem haladhatja meg az eladó könyveiben nyilvántartott összeget.
 
-(6) A megújuló energia termeléséhez kapcsolódó eszközök költségei elszámolható költségeknek minősülnek a 2. § (1) bekezdés a)–d) és f)–g) pontja szerinti támogatás esetén, amennyiben az alábbi feltételek együttesen teljesülnek:
+(6)[^50]
 
-a) a beruházás elsődleges célja nem az energiatermelés,
-
-b) az energiatermeléshez kapcsolódó eszközök költsége a beruházás összköltségének legfeljebb 50%-át teszi ki, és
-
-c) a beruházó előzetes elemzés bemutatásával hitelesen igazolja, hogy az energiatermelési kapacitás nem haladja meg a beruházás működtetéséhez szükséges mennyiséget, valamint az előzetes elemzésből hitelt érdemlően kitűnik, hogy a megtermelt energia legfeljebb 20%-át értékesítik.
+[^48]: A 20. § (2) bekezdés 27. pontját a 20/2024. (XII. 20.) KKM rendelet 11. § 16. pontja hatályon kívül helyezte.
+[^49]: A 20. § (5) bekezdés a) pontját a 20/2024. (XII. 20.) KKM rendelet 11. § 17. pontja hatályon kívül helyezte.
+[^50]: A 20. § (6) bekezdését a 20/2024. (XII. 20.) KKM rendelet 11. § 18. pontja hatályon kívül helyezte.

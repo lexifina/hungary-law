@@ -4,12 +4,15 @@
 
 a) a beruházó a támogatási szerződés módosításával egyidejűleg a módosítással érintett nyilatkozatokat a szakmai támogató szerv írásbeli felszólítása ellenére nem teszi meg,
 
-b) a beruházó a támogatási szerződésben rögzített, a 16. § (1) bekezdés f) pontjában meghatározott importtilalomra vonatkozó kötelezettségét nem teljesíti, vagy
+b)[^53] a beruházó a támogatási szerződésben rögzített, a 16. § (1) bekezdés d) pontjában meghatározott importtilalomra vonatkozó kötelezettségét nem teljesíti, vagy
 
-c) a beruházó a támogatási szerződésben számszerűen rögzített, a 16. § (1) bekezdés e) pontjában meghatározott árbevételre vagy pénzügyi műveleteinek bevételére vonatkozó jogosultsági feltételnek minősülő kötelezettségét nem teljesíti a kötelező üzemeltetési időszakban.
+c)[^54] a beruházó a támogatási szerződésben számszerűen rögzített, a 16. § (1) bekezdés c) pontjában meghatározott árbevételre vagy pénzügyi műveleteinek bevételére vonatkozó kötelezettségét nem teljesíti a kötelező üzemeltetési időszakban.
 
 (3) A támogatási szerződés a (2) bekezdésben meghatározottakon túl, a támogatási szerződés megszegése esetén alkalmazandó egyéb jogkövetkezményeket, illetve további elállási okokat is meghatározhat. A támogatási szerződésben felmondási ok nem határozható meg.
 
 (4) A beruházó a támogatási szerződéstől annak hatálya alatt bármikor indokolás nélkül elállhat, ebben az esetben köteles visszafizetni a szakmai támogató szervnek a számára folyósított támogatás összegét az irányadó jogszabályokban vagy a támogatási szerződésben meghatározott kamattal növelve.
 
 (5) A szakmai támogató szerv eláll a szerződéstől, ha a beruházó legkésőbb a projekt megkezdését követő egy év elteltéig nem számol el a projekt költségvetésének legalább 20%-ával. A rendelkezéstől való eltérést a forrásgazda különös méltánylást érdemlő, kivételes esetben, nemzetgazdasági érdekből engedélyezhet a szakmai támogató szervnek.
+
+[^53]: A 28. § (2) bekezdés b) pontja a 20/2024. (XII. 20.) KKM rendelet 10. § g) pontja szerint módosított szöveg.
+[^54]: A 28. § (2) bekezdés c) pontja a 20/2024. (XII. 20.) KKM rendelet 10. § h) pontja és 11. § 19. pontja szerint módosított szöveg.

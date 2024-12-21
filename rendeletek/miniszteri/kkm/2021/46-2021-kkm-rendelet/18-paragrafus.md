@@ -1,3 +1,3 @@
-18. § (1) Nem nyújtható támogatás, ha a kérelmet benyújtó beruházó vagy az általános csoportmentességi rendelet értelmében csoportszinten ugyanazon kedvezményezett a támogatási kérelem benyújtását megelőző két évben áttelepítette azt a létesítményt, amelyben a támogatási kérelem tárgyát képező induló beruházást meg kívánja valósítani, vagy a támogatási kérelem tárgyát képező induló beruházás befejezését követő két éven belül ilyen áttelepítést hajt végre.
+18. §[^44]
 
-(2) Létesítményfelvásárlás esetén, ha a három évnél nem régebbi tárgyi eszköz és a támogatható immateriális javak beszerzéséhez a vásárlást megelőzően már nyújtottak támogatást, e tárgyi eszköz és támogatható immateriális javak költségét le kell vonni a létesítmény felvásárlásához kapcsolódó elszámolható költségekből. Ha egy kis- és középvállalkozást az eredeti tulajdonos családtagjai vagy korábbi munkavállalók vesznek át, a tárgyi eszköznek és támogatható immateriális javaknak a vevőtől független harmadik féltől való megvásárlására vonatkozó feltételnek nem kell teljesülnie.
+[^44]: A 18. §-t a 20/2024. (XII. 20.) KKM rendelet 11. § 14. pontja hatályon kívül helyezte.
