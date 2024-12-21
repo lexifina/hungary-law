@@ -1,3 +1,3 @@
-18. §[^9]
+18. §[^15]
 
-[^9]: A 18. § a 9. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+[^15]: A 18. § a 9. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.

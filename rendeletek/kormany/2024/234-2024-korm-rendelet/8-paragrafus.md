@@ -26,4 +26,6 @@ c) a Feladatokat ellátó közalkalmazottakkal és munkavállalókkal fennálló
 
 (11) A jogutódlás a KIFÜ-vel szemben fennálló követeléseket nem teszi lejárttá, és arra való hivatkozással szerződésszegési igényt, kártérítési igényt vagy biztosíték nyújtására vonatkozó igényt nem lehet érvényesíteni.
 
-(12) 2025. január 1. napjától 2025. június 30. napjáig a Pro-M Zrt. üzemelteti a KIFÜ személyügyi nyilvántartásának archív rendszerét, valamint azokat az adatbázisokat és informatikai rendszereket, amelyek kettő vagy több Jogutód KIFÜ-től átvett feladatának ellátáshoz szükségesek.
+(12)[^5] 2025. január 1. napjától a Digitális Magyarország Ügynökség Zártkörűen Működő Részvénytársaság – a Pro-M Zrt. közreműködésével – üzemelteti a KIFÜ személyügyi nyilvántartásának archív rendszerét, valamint azokat az adatbázisokat és informatikai rendszereket, amelyek kettő vagy több Jogutód KIFÜ-től átvett feladatának ellátásához szükségesek.
+
+[^5]: A 8. § (12) bekezdése a 410/2024. (XII. 20.) Korm. rendelet 22. §-ával megállapított szöveg.

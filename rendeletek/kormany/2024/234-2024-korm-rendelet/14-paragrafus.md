@@ -1,3 +1,3 @@
-14. §[^5]
+14. §[^11]
 
-[^5]: A 14. § a 9. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+[^11]: A 14. § a 9. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.

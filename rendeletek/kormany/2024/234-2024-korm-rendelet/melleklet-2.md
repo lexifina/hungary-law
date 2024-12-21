@@ -19,3 +19,10 @@ A Pro-M Professzionális Mobilszolgáltató Zártkörűen Működő Részvényt�
 8. az 1010812470- „2020-2.1.1-ED-2023-00286 azonosító számú „QCIHungary2024” projekt, a KÁF/392/2/2023 azonosító számú SZPI önerő pályázattal, valamint
 
 9. az 101100680 azonosító számú „GN5-1” projekt
+
+10.[^20] a GINOP-3.3.1-16-2016-00001 azonosító számú „Közösségi internet hozzáférési pontok fejlesztése, szolgáltatási portfóliójuk bővítése” projekt, kivéve a GINOP-3.3.1-16-2016-00001 projekt keretében beszerzett vagy létrehozott nem hálózati eszközöket, amelyek vonatkozásában a KIFÜ helyébe jogutódként 2025. január 1-jétől a NISZ Zrt. lép
+
+11.[^21] a 101131237 azonosító számú „Authentication and Authorisation for Research Collaboration Technical Revision to Enhance Effectiveness” (AARC TREE) projekt
+
+[^20]: A 2. melléklet 10. pontját a 410/2024. (XII. 20.) Korm. rendelet 24. § b) pontja iktatta be.
+[^21]: A 2. melléklet 11. pontját a 410/2024. (XII. 20.) Korm. rendelet 24. § b) pontja iktatta be.

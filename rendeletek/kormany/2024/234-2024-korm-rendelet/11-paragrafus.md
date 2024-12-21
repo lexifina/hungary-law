@@ -1,3 +1,3 @@
-11. §[^2]
+11. §[^8]
 
-[^2]: A 11. § a 9. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+[^8]: A 11. § a 9. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
