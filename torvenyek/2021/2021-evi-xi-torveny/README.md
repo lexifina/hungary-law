@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-11-00-00
 | 2021-08-02 | 2010. évi CXXX. törvény | 2021-11-00-00.3 |
 | 2021-12-22 | 2021. évi CXLVII. törvény | 2021-11-00-00.4 |
 | 2022-05-25 | 2022. évi IV. törvény | 2021-11-00-00.5 |
+| 2024-12-21 | 2024. évi LXXVI. törvény | 2021-11-00-00.6 |
