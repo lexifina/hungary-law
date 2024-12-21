@@ -100,15 +100,17 @@ b) a gyermek vagy a fiatal felnőtt halála esetén az örökös az öröklési 
 
 kérheti.
 
-(19) A fiatal felnőtt az életkezdési letéti számlán lévő összeg átvételére 23. életévének betöltése napjáig jogosult. A kiutaló
+(19) A fiatal felnőtt az életkezdési letéti számlán lévő összeg kifizetése iránti kérelmét legkésőbb a 23. életévének betöltése napján terjesztheti elő. A határidő elmulasztása jogvesztéssel jár. A kiutaló
 
-a) a fiatal felnőtt 19. életévének betöltése után 90 napon belül postai úton írásbeli értesítést küld az életkezdési letéti számlán lévő összeg kifizetésével kapcsolatban azon fiatal felnőtt számára, aki a 18. életévének betöltése után 1 évig nem kérte annak kifizetését;
+a) a fiatal felnőtt 19. életévének betöltése után 90 napon belül írásbeli értesítést küld az életkezdési letéti számlán lévő összeg kifizetésével kapcsolatban azon fiatal felnőtt számára, aki a 18. életévének betöltése után 1 évig nem kérte annak kifizetését;
 
-b) a fiatal felnőtt 22. életévének betöltése után 90 napon belül postai úton írásbeli értesítést küld az életkezdési letéti számlán lévő összeg kifizetésével kapcsolatban azon fiatal felnőtt számára, aki a 18. életévének betöltése után 4 évig nem kérte annak kifizetését;
+b) a fiatal felnőtt 22. életévének betöltése után 90 napon belül írásbeli értesítést küld az életkezdési letéti számlán lévő összeg kifizetésével kapcsolatban azon fiatal felnőtt számára, aki a 18. életévének betöltése után 4 évig nem kérte annak kifizetését;
 
 c) visszautalja az életkezdési letéti számlán lévő összeget az állam számára, amennyiben a fiatal felnőtt a 23. életévének betöltéséig nem kezdeményezi az életkezdési letéti számlán lévő összeg kifizetését;
 
 d) megszünteti az életkezdési letéti számlát a c) pont szerinti visszautalás esetében.
+
+(19a) A kiutaló az életkezdési letéti számlán lévő összeget a fiatal felnőtt, illetve az örökös vagy örökösök kérelmére a megjelölt folyószámlára, vagy kifizetési utalványon utalja ki. Magyarországi lakcímmel nem rendelkező jogosult részére a kiutaló kizárólag folyószámlára történő átutalással teljesíti a kifizetést.
 
 (20) A számlavezető az életkezdési támogatás összegét a magyarországi lakcímmel rendelkező jogosult rendelkezése szerint átutalással vagy készpénzben, a magyarországi lakcímmel nem rendelkező jogosult számára pedig átutalással fizeti ki, melynek megtörténtéről a kiutalót tájékoztatja. A számlavezető egyéb díjat, költséget nem számíthat fel.
 

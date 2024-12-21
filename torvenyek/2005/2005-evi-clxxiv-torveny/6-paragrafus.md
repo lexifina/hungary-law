@@ -10,6 +10,8 @@ azzal, hogy az önkormányzati rendelet az életkezdési támogatás felhasznál
 
 (1a) A Start-számlán lévő állampapír befektetéséből származó kamatjövedelem nem minősül befizetésnek.
 
+(1b) A természetes személy által egy naptári évben történő befizetések összértéke nem haladhatja meg az 1 200 000 forintot.
+
 (2) Támogatás illeti meg
 
 a) az (1) bekezdés a) pontja alapján történő befizetés esetén a befizetés évében a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerinti rendszeres gyermekvédelmi kedvezményre jogosult gyermeket a naptári évben befizetett összeg 20 százalékának megfelelő, de legfeljebb évi 24 ezer forint összegben;

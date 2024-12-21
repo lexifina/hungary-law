@@ -14,7 +14,7 @@ ad) a gyermek adóazonosító jelének passzívvá válása napján,
 
 ae) a gyermek halála esetén az elhalálozás napján,
 
-af) a gyermek jogosultságának bármely okból történő megszűnésének napján
+af) a gyermek jogosultságának bármely okból történő megszűnésének napján, ideértve a fiatal felnőtt 18. életévének betöltését
 
 a jóváírás évét megelőző naptári évre vonatkozóan a Központi Statisztikai Hivatal által hivatalosan közzétett éves átlagos fogyasztói árindex százalékos mértékével megegyező kamat, negatív éves fogyasztói árindex esetén nullaszázalékos kamat alapján a nyilvántartott követelés utolsó fordulónapjától számított időszakban meghatározott átlagos állománya után számított támogatást,
 
@@ -54,7 +54,7 @@ c) a kincstár a Start-számla megnyitásáról a kiutalót 10 napon belül táj
 
 (8) Az életkezdési támogatást, illetőleg a gyermek halála esetén az örököst megillető összeget a fiatal felnőtt, illetőleg az örökös kérelmére
 
-a) a kiutaló – kivéve a (9) bekezdésben szabályozott esetet – a támogatásnak a 7. § (1) bekezdés b) pontja szerinti jóváírását követő 8 munkanapon belül a kérelemben megjelölt módon kifizeti;
+a) a kiutaló – kivéve a (9) bekezdésben szabályozott esetet – a kérelem kézhezvételétől számított 8 munkanapon belül a kérelemben megjelölt módon folyószámlára utalással vagy kifizetési utalványon postai úton fizeti ki;
 
 b) a számlavezető – kivéve a (10) bekezdésben szabályozott esetet – a támogatásnak a 6. § (5) bekezdése szerinti kiutalását követő 8 munkanapon belül készpénzben vagy a kérelemben megjelölt folyószámlára utalással, a magyarországi lakcímmel nem rendelkező jogosult esetében kizárólag átutalással fizeti ki.
 
