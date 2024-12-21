@@ -4,7 +4,7 @@
 
 a) felméri az adományozási és juttatási igényeket,
 
-b) előkészíti az adományozási programokat és az adományozó leveleket,
+b) előkészíti és végrehajtja az adományozási programokat és kiadja az adományozó leveleket,
 
 c) előkészíti a pályázati felhívásokat és az elszámolási kötelezettséggel nyújtott juttatások okiratait,
 
@@ -12,18 +12,18 @@ d) lebonyolítja a pályázati eljárásokat,
 
 e) elbírálja a pályázatokat és a juttatási kérelmeket,
 
-f) a miniszter elé terjeszti szakmai felügyeleti ellenjegyzés céljából az adományozó leveleket, az elszámolási kötelezettséggel nyújtott juttatások okiratait,
+f) elvégzi a nyújtott adományok és elszámolási kötelezettséggel nyújtott juttatások felhasználásával kapcsolatos monitoring feladatokat,
 
-g) eljár az adományozó levelek, az elszámolási kötelezettséggel nyújtott juttatási okiratok teljesítése érdekében,
+g) érvényesíti az adományozó levelekből, elszámolási kötelezettséggel nyújtott juttatások okirataiból eredő jogokat,
 
-h) elvégzi a nyújtott adományok és elszámolási kötelezettséggel nyújtott juttatások felhasználásával kapcsolatos monitoring feladatokat,
+h) vezeti a nyújtott adományokkal és támogatásokkal kapcsolatos nyilvántartásokat,
 
-i) érvényesíti az adományozó levelekből, elszámolási kötelezettséggel nyújtott juttatások okirataiból eredő jogokat,
+i) ellátja az ösztöndíjprogramokkal kapcsolatos feladatokat,
 
-j) vezeti a nyújtott adományokkal és támogatásokkal kapcsolatos nyilvántartásokat,
+j) ellátja a követeléskezelési feladatokat, továbbá
 
-k) ellátja az ösztöndíjprogramokkal kapcsolatos feladatokat,
+k) segélyezési programokat hajt végre.
 
-l) ellátja a követeléskezelési feladatokat, továbbá
+l)
 
-m) segélyezési programokat hajt végre.
+m)

@@ -20,6 +20,6 @@ a) a nemzetközi fejlesztési együttműködési tevékenység formáit,
 
 b) a stabilitást erősítő tevékenység formáit, továbbá
 
-c) az adomány felhasználásával kapcsolatos beszámolási kötelezettség teljesítésének rendjét, valamint a teljesítés elmaradása esetén alkalmazandó intézkedéseket
+c) az adomány felhasználásával kapcsolatos tájékoztatási kötelezettség teljesítésének rendjét, valamint a teljesítés elmaradása esetén alkalmazandó intézkedéseket
 
 rendeletben állapítsa meg.

@@ -1,4 +1,4 @@
-12. § (1) A segítségnyújtás során a természeti és civilizációs katasztrófák által okozott humanitárius válságok, illetve elhúzódó válságok folytán felmerült szükségleteket és igényeket kell figyelembe venni.
+12. § (1) A segítségnyújtás során a természeti és civilizációs katasztrófák által okozott humanitárius válságok, humanitárius krízishelyzetek, illetve elhúzódó válságok folytán felmerült szükségleteket és igényeket kell figyelembe venni.
 
 (2) A segítségnyújtás keretében különösen a következő célokra nyújtható adomány:
 
