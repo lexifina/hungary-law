@@ -1,1 +1,3 @@
-19. § A hatósági erkölcsi bizonyítvány kiállítására irányuló eljárás részletes szabályairól szóló 419/2017. (XII. 19.) Korm. rendelet 2. § (2) bekezdésében az „az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény” szövegrész helyébe az „a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény” szöveg lép.
+19. §[^20]
+
+[^20]: A 19. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

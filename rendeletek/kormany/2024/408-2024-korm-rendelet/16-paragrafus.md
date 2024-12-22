@@ -1,3 +1,3 @@
-16. § A hatósági erkölcsi bizonyítvány kiállítására irányuló eljárás részletes szabályairól szóló 419/2017. (XII. 19.) Korm. rendelet 3. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
+16. §[^17]
 
-(Az ügyintézési határidő)
+[^17]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

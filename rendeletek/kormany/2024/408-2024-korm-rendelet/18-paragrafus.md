@@ -1,3 +1,3 @@
-18. § A hatósági erkölcsi bizonyítvány kiállítására irányuló eljárás részletes szabályairól szóló 419/2017. (XII. 19.) Korm. rendelet 4. § (5) bekezdése helyébe a következő rendelkezés lép:
+18. §[^19]
 
-„(5) A digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti keretalkalmazáson keresztül előterjesztett kérelem alapján digitális biztonsági okmányként kiállított hatósági erkölcsi bizonyítványt a bűnügyi nyilvántartó szerv a kérelmező hivatalos elérhetőségére küldi meg.”
+[^19]: A 18. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

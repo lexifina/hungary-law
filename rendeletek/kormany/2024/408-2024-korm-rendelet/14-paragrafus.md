@@ -1,5 +1,5 @@
 ## 12. A hatósági erkölcsi bizonyítvány kiállítására irányuló eljárás részletes szabályairól szóló 419/2017. (XII. 19.) Korm. rendelet módosítása
 
-14. § A hatósági erkölcsi bizonyítvány kiállítására irányuló eljárás részletes szabályairól szóló 419/2017. (XII. 19.) Korm. rendelet 1. § (1) bekezdése helyébe a következő rendelkezés lép:
+14. §[^15]
 
-„(1) A hatósági erkölcsi bizonyítvány kiállítása iránti kérelem (a továbbiakban: kérelem) előterjesztésére rendszeresített papíralapú űrlap postai kereskedelmi áruként, az egyetemes postai szolgáltató postai szolgáltató helynek minősülő felvételi pontjain szerezhető be, és kizárólag postai úton terjeszthető elő. A kérelem a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti, a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatásokon keresztül egyedi informatikai alkalmazás igénybevételével, valamint a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti keretalkalmazáson keresztül elektronikus úton is előterjeszthető.”
+[^15]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

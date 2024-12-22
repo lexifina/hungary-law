@@ -1,5 +1,5 @@
 ## 13. A beépített tűzjelző, illetve tűzoltó berendezések létesítésének, használatbavételének és megszüntetésének engedélyezésére irányuló hatósági eljárás részletes szabályairól szóló 491/2017. (XII. 29.) Korm. rendelet módosítása
 
-21. § A beépített tűzjelző, illetve tűzoltó berendezések létesítésének, használatbavételének és megszüntetésének engedélyezésére irányuló hatósági eljárás részletes szabályairól szóló 491/2017. (XII. 29.) Korm. rendelet 1. § (4) bekezdése helyébe a következő rendelkezés lép:
+21. §[^22]
 
-„(4) A kérelem papír alapon vagy elektronikusan nyújtható be. Elektronikusan vagy a fogyasztók jogairól, a 93/13/EGK tanácsi irányelv és az 1999/44/EK európai parlamenti és tanácsi irányelv módosításáról, valamint a 85/577/EGK tanácsi irányelv és a 97/7/EK európai parlamenti és tanácsi irányelv hatályon kívül helyezéséről szóló, 2011. október 25-i 2011/83/EU európai parlamenti és tanácsi irányelv 2. cikk 10. pontja szerinti tartós adathordozón történő benyújtás esetében PDF/A formátumban, 300 dpi felbontású ábrákkal kell benyújtani.”
+[^22]: A 21. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

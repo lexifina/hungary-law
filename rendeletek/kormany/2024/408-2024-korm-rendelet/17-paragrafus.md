@@ -1,5 +1,3 @@
-## „b) minden más módon előterjesztett belföldi kérelem, valamint a külföldi kérelem esetében nyolc nap.”
+17. §[^18]
 
-17. § A hatósági erkölcsi bizonyítvány kiállítására irányuló eljárás részletes szabályairól szóló 419/2017. (XII. 19.) Korm. rendelet 4. alcím címe helyébe a következő alcím cím lép:
-
-„4. A belföldi kérelem alapján kiállított hatósági erkölcsi bizonyítvány közlése”
+[^18]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
