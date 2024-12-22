@@ -1,3 +1,3 @@
-1. § Az Európai Mezőgazdasági Garanciaalapból, valamint az Európai Mezőgazdasági Vidékfejlesztési Alapból és a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos eljárási szabályokról szóló 13/2023. (IV. 19.) AM rendelet [a továbbiakban: 13/2023. (IV. 19.) AM rendelet] a következő 51. §-sal egészül ki:
+1. §[^2]
 
-„51. § E rendeletnek az Európai Mezőgazdasági Garanciaalapból, valamint az Európai Mezőgazdasági Vidékfejlesztési Alapból és a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos eljárási szabályokról szóló 13/2023. (IV. 19.) AM rendelet módosításáról szóló 70/2024. (XII. 20.) AM rendelettel [a továbbiakban: 70/2024. (XII. 20.) AM rendelet] megállapított 26. § (4) bekezdését a 70/2024. (XII. 20.) AM rendelet hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
