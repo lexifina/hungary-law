@@ -1,1 +1,3 @@
-2. § Az 56/2008. (IV. 25.) FVM rendelet 8. § (2) bekezdésében a „4000 millió forint” szövegrész helyébe a „4500 millió forint” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
