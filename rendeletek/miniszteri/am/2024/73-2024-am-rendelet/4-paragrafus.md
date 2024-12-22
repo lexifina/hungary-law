@@ -1,5 +1,3 @@
-4. § A 23/2024. (IV. 9.) AM rendelet a következő 11. §-sal egészül ki:
+4. §[^5]
 
-„11. § (1) E rendeletnek a Közös Agrárpolitikából és a nemzeti költségvetésből finanszírozott intézkedésekkel összefüggő elháríthatatlan külső ok (vis maior) esetén alkalmazott eljárásról szóló 23/2024. (IV. 9.) AM rendelet módosításáról szóló 73/2024. (XII. 20.) AM rendelettel [a továbbiakban: 73/2024. (XII. 20.) AM rendelet] megállapított 3. § (1) bekezdés o) pontját és 7. § (4) bekezdését a 73/2024. (XII. 20.) AM rendelet hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
-
-(2) E rendeletnek a 73/2024. (XII. 20.) AM rendelettel megállapított 4. § (2a) és (4) bekezdését a 2025. évben indult eljárásokban kell alkalmazni.”
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

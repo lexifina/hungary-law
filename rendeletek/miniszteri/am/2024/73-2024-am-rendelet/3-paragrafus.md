@@ -1,3 +1,3 @@
-3. § A 23/2024. (IV. 9.) AM rendelet 7. §-a a következő (4) bekezdéssel egészül ki:
+3. §[^4]
 
-„(4) A vis maior esemény elismeréséről az NKÜ a vis maior eseménnyel érintett intézkedésre vonatkozó érdemi döntésben, egybefoglalt döntésben vagy önálló döntésben rendelkezik.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
