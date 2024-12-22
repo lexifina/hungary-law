@@ -1,5 +1,3 @@
 ## 28. A pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény módosítása
 
-79. § A pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény VII. fejezete a következő 36/F. §-sal egészül ki:
-
-„36/F. § A kereskedelemről szóló 2005. évi CLXIV. törvény (a továbbiakban: Kertv.) szerinti vendéglátás tevékenységet végző üzlet számára fizetési műveletek elfogadását nyújtó pénzforgalmi szolgáltató biztosítja annak technikai feltételeit, hogy a fizető fél által adott Kertv. szerinti borravalót a munkavállaló akkor is megkaphassa, ha a fogyasztó a fizetést készpénz-helyettesítő fizetési eszközzel, vagy azonnali átutalással teljesíti.”
+### 79. §

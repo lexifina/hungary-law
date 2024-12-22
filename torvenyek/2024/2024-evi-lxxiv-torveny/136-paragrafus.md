@@ -1,3 +1,1 @@
-136. § A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény 29. §-a a következő (2a) bekezdéssel egészül ki:
-
-„(2a) Az (1) bekezdéstől eltérően – törvény felhatalmazása alapján – az államháztartásért felelős miniszter egyetértésével a miniszter a fizetési kötelezettség tételes összegét rendeletben állapíthatja meg, feltéve, hogy törvény meghatározza a fizetési kötelezettséget, a fizetésre kötelezettek körét, a fizetési kötelezettség mértékét, illetve számítási módját, és az esetleges mentességek, kedvezmények körét, azzal, hogy a fizetési kötelezettség összegének meghatározása az érintett, fizetésre kötelezett jogalanyok tekintetében hátrányos megkülönböztetést nem eredményezhet.”
+### 136. §
