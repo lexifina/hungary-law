@@ -1,1 +1,3 @@
-32. § Hatályát veszti a 4/2009. (III. 17.) EüM rendelet 17. § (3) bekezdés f) pontjában és (5) bekezdésében a „– ha az eszközt Magyarországon forgalmazzák –” szövegrész.
+32. §[^41]
+
+[^41]: A 32. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

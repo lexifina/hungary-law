@@ -1,3 +1,3 @@
-16. § A 14/2007. (III. 14.) EüM rendelet a következő 28. §-sal egészül ki:
+16. §[^17]
 
-„28. § E rendeletnek az egyes gyógyszerészeti tárgyú miniszteri rendeletek módosításáról szóló 57/2024. (XII. 20.) BM rendelettel módosított 10. és 18. számú mellékletében foglaltakat 2025. január 1-jétől kell alkalmazni.”
+[^17]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

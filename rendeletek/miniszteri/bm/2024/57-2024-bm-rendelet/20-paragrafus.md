@@ -1,7 +1,5 @@
 ## 6. A közforgalmú, fiók- és kézigyógyszertárak, továbbá intézeti gyógyszertárak működési, szolgálati és nyilvántartási rendjéről szóló 41/2007. (IX. 19.) EüM rendelet módosítása
 
-20. § A közforgalmú, fiók- és kézigyógyszertárak, továbbá intézeti gyógyszertárak működési, szolgálati és nyilvántartási rendjéről szóló 41/2007. (IX. 19.) EüM rendelet [a továbbiakban: 41/2007. (IX. 19.) EüM rendelet] 18. § (15) bekezdése helyébe a következő rendelkezés lép és a következő (15a) bekezdéssel egészül ki:
+20. §[^29]
 
-„(15) A gyógyszertár az emberi felhasználásra kerülő gyógyszerek rendeléséről és kiadásáról szóló miniszteri rendelet szerinti vényköteles gyógyszer vény nélküli kiadásáról nyilvántartást vezet, amely tartalmazza a kiadott gyógyszernek az emberi felhasználásra kerülő gyógyszerek rendeléséről és kiadásáról szóló miniszteri rendelet szerinti adatait, a kiadás időpontját, az átvevő végzettségét vagy jogosultságát hitelt érdemlően tanúsító okirat számát, valamint – papír alapon vezetett nyilvántartás esetén – a kiadó és az átvevő aláírását.
-
-(15a) A nyilvántartás papír alapon vagy a gyógyszertár teljes ügyvitelét lefedő komplex informatikai programban elektronikus módon is vezethető. Az elektronikus módon vezetett nyilvántartás esetén a gyógyszer átvevője a pénztári bizonylat másodpéldányán aláírásával igazolja az átvétel tényét. A gyógyszertár a gyógyszertár teljes ügyvitelét lefedő komplex informatikai programban, elektronikus módon vezetett nyilvántartás esetén a pénztári bizonylatok másodpéldányát a kiadástól számított öt évig a gyógyszerkiadás időrendjében lefűzve, elkülönítetten megőrzi.”
+[^29]: A 20. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

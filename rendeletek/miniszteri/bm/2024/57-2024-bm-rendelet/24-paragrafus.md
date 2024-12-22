@@ -1,3 +1,5 @@
 ## 7. Az emberi felhasználásra kerülő gyógyszer, illetve gyógyászati segédeszköz ismertetésére, az ismertetői tevékenységet végző személyek nyilvántartására, és a gyógyszerrel, gyógyászati segédeszközzel kapcsolatos, fogyasztókkal szembeni kereskedelmi gyakorlatra vonatkozó részletes szabályokról szóló 3/2009. (II. 25.) EüM rendelet módosítása
 
-24. § Az emberi felhasználásra kerülő gyógyszer, illetve gyógyászati segédeszköz ismertetésére, az ismertetői tevékenységet végző személyek nyilvántartására, és a gyógyszerrel, gyógyászati segédeszközzel kapcsolatos, fogyasztókkal szembeni kereskedelmi gyakorlatra vonatkozó részletes szabályokról szóló 3/2009. (II. 25.) EüM rendelet 10. § (3) bekezdésében a „negyedévente” szövegrész helyébe a „negyedévente, a tárgynegyedévet követő hónap utolsó napjáig” szöveg lép.
+24. §[^33]
+
+[^33]: A 24. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

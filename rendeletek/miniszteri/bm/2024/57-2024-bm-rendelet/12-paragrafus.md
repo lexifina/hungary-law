@@ -1,3 +1,3 @@
-12. § A 14/2007. (III. 14.) EüM rendelet 13. § (3) bekezdése a következő i) ponttal egészül ki:
+12. §[^13]
 
-(A vényen az orvosnak fel kell tüntetnie:)
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

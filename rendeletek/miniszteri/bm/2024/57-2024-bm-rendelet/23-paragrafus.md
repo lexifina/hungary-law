@@ -1,1 +1,3 @@
-23. § A 41/2007. (IX. 19.) EüM rendelet 16/A. § (3) bekezdésében és 18. § (1) bekezdésében az „elektronikusan” szövegrész helyébe az „a gyógyszertár teljes ügyvitelét lefedő komplex informatikai programban elektronikusan” szöveg lép.
+23. §[^32]
+
+[^32]: A 23. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

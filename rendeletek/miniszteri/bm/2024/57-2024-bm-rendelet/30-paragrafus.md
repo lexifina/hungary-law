@@ -1,1 +1,3 @@
-30. § A 4/2009. (III. 17.) EüM rendelet 13. melléklete helyébe a 14. melléklet lép.
+30. §[^39]
+
+[^39]: A 30. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

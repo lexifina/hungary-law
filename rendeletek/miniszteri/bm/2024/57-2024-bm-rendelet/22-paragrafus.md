@@ -1,3 +1,3 @@
-22. § A 41/2007. (IX. 19.) EüM rendelet 39. §-a a következő (4) bekezdéssel egészül ki:
+22. §[^31]
 
-„(4) Ez a rendelet az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.”
+[^31]: A 22. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

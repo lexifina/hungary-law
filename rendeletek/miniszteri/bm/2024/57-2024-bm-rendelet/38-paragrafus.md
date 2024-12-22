@@ -1,1 +1,3 @@
-38. § A 42/2014. (VIII. 19.) EMMI rendelet 2. melléklete a 16. melléklet szerint módosul.
+38. §[^47]
+
+[^47]: A 38. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,5 @@
 ## 9. Az orvostechnikai eszközök klinikai vizsgálatáról szóló 33/2009. (X. 20.) EüM rendelet módosítása
 
-33. § Az orvostechnikai eszközök klinikai vizsgálatáról szóló 33/2009. (X. 20.) EüM rendelet 16. § (4) bekezdésében és 17. §-ában a „kérelmező” szövegrész helyébe a „megbízó” szöveg lép.
+33. §[^42]
+
+[^42]: A 33. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

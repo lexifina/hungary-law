@@ -1,1 +1,3 @@
-9. § A 44/2004. (IV. 28.) ESZCSM rendelet a 4. melléklet szerinti 1. számú melléklettel egészül ki.
+9. §[^9]
+
+[^9]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
