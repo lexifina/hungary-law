@@ -1,1 +1,3 @@
-6. § Hatályát veszti a 22/2024. (IV. 9.) AM rendelet 1. § 10. pontja.
+6. §[^7]
+
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
