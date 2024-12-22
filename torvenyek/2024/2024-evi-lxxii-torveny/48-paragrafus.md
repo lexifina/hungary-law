@@ -4,6 +4,6 @@
 
 a)
 
-b) 71. § (4) bekezdés d) pontjában az „a település 2,25-szeresének” szövegrész helyébe az „2,25-szeresének” szöveg
+b)
 
 lép.
