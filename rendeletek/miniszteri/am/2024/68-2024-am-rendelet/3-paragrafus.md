@@ -1,1 +1,3 @@
-3. § A 11/2019. (IV. 1.) AM rendelet 4. § (1) bekezdés záró szövegrészében a „2024/2025. támogatási évben legfeljebb 10,000 milliárd forint” szövegrész helyébe a „2024/2025. támogatási évben legfeljebb 11,464 milliárd forint” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
