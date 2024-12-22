@@ -1,3 +1,3 @@
-21. § A 234/2024. (VIII. 8.) Korm. rendelet 3. § (1) bekezdés f) pontja helyébe a következő rendelkezés lép:
+21. §[^19]
 
-[A KIFÜ jogutódja 2025. január 1-jétől a NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság (a továbbiakban: NISZ Zrt.)]
+[^19]: A 21. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

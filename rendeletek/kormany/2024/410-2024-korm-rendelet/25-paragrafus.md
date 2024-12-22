@@ -1,1 +1,3 @@
-25. § A 234/2024. (VIII. 8.) Korm. rendelet 4. § (1) bekezdésében a „Pro-M Professzionális Mobilszolgáltató Zártkörűen Működő Részvénytársaság (a továbbiakban: Pro-M Zrt.)” szövegrész helyébe a „Pro-M Zrt.” szöveg lép.
+25. §[^23]
+
+[^23]: A 25. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

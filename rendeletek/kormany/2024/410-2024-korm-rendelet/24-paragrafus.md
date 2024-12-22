@@ -1,7 +1,3 @@
-24. § A 234/2024. (VIII. 8.) Korm. rendelet
+24. §[^22]
 
-a) 1. melléklete az 1. melléklet szerint,
-
-b) 2. melléklete a 2. melléklet szerint
-
-módosul.
+[^22]: A 24. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

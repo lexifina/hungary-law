@@ -1,1 +1,3 @@
-26. § Hatályát veszti a 234/2024. (VIII. 8.) Korm. rendelet 3. § (1) bekezdés b) pontja.
+26. §[^24]
+
+[^24]: A 26. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
