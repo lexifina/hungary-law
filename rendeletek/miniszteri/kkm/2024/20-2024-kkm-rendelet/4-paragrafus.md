@@ -1,5 +1,3 @@
-## „a) amely a gazdaságfejlesztési stratégiák célterületét képző államok valamelyikének területén székhellyel rendelkezik, és”
+4. §[^5]
 
-4. § A Rendelet 8. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-(E rendelet alapján nem nyújtható támogatás)
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

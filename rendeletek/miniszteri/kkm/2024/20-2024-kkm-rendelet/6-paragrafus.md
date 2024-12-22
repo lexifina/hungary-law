@@ -1,5 +1,3 @@
-6. § A Rendelet 11. §-a helyébe a következő rendelkezés lép:
+6. §[^7]
 
-„11. § (1) A támogatás összege a vonatkozó állami támogatási szabályokban foglalt maximális mérték, de legfeljebb 50%, amely a támogatási szerződésben szereplő, e rendelet alapján odaítélt állami támogatás támogatástartalma és a jelenértéken számolt összes elszámolható költség hányadosaként hét tizedesjegyre kerekített, százalékban kifejezett mérték.
-
-(2) Az e rendelet alapján nyújtott támogatás összegének kérelmenként el kell érnie a 400 millió forint összeget, azzal, hogy a beruházó és az általános csoportmentességi rendelet I. melléklete alapján meghatározott partner vagy kapcsolt vállalkozásai által kapott támogatás összege összesen nem haladhatja meg a 7 milliárd forintot. Az összes támogatás összege nem haladhatja meg az utolsó három lezárt üzleti év közül a beruházó által megjelölt két év nettó értékesítési árbevételének átlagát a beruházó vagy a 6. § (1) bekezdés b) pontja szerinti kapcsolt vagy partner vállalkozása tekintetében. E bekezdés alkalmazása során a kapcsolt vállalkozás nettó árbevétele teljes összegben, a partner vállalkozás nettó árbevétele pedig olyan hányadban vehető figyelembe, amilyen hányadban a partnerség az önálló beruházó vagy a konzorciumvezető között fennáll.”
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

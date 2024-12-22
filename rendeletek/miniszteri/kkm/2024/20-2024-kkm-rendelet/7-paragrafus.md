@@ -1,3 +1,3 @@
-7. § A Rendelet 16. § (1) bekezdés b) és c) pontja helyébe a következő rendelkezések lépnek:
+7. §[^8]
 
-[A 2. § (1) bekezdés a)–d) és f)–g) pontjában foglalt támogatás feltétele, hogy]
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
