@@ -1,7 +1,3 @@
-3. § A 27/2014. (IX. 25.) FM rendelet
+3. §[^4]
 
-a) 9. § (4c) bekezdésében az „agrárkár-megállapító szerv” szövegrész helyébe az „agrárkár-enyhítési szerv” szöveg,
-
-b) 9. § (6) bekezdésben az „a részére” szövegrész helyébe az „az agrárkár-enyhítési szerv részére” szöveg
-
-lép.
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
