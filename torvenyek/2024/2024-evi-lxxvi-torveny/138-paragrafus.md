@@ -1,1 +1,1 @@
-138. § A Színház- és Filmművészetért Alapítványról, a Színház- és Filmművészetért Alapítvány és a Színház- és Filmművészeti Egyetem részére történő vagyonjuttatásról szóló 2020. évi LXXII. törvény 7. §-ában a „3/H. §” szövegrész helyébe a „3/H. §, a 3/J. §” szöveg lép.
+### 138. §

@@ -1,3 +1,1 @@
-## „5. A kulturális örökség védelme, az épített és természeti kultúra, környezet védelme, illetve ezek körébe tartozó építmények fenntartása, hasznosítása és üzemeltetése. Az építmények fenntartása, hasznosítása és üzemeltetése körében új innovatív hasznosítási és üzemeltetési üzleti modellek kialakítása, kapcsolódó infrastrukturális, szervezeti, fejlesztési és beruházási célok megvalósítása a hosszú távú, fenntartható üzemeltethetőség feltételeinek megteremtése érdekében, ezáltal biztosítva az építmények kulturális célú látogathatóságát, megismerhetőségét, a jövő nemzedékek számára való megőrzését.”
-
 6. melléklet a 2024. évi LXXVI. törvényhez

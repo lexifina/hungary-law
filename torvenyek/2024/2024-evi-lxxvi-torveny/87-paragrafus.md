@@ -1,3 +1,1 @@
-87. § A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 17. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A részidős képzés lehet esti vagy levelező képzés munkarendje szerint szervezett képzés. A részidős képzés időtartama – kivéve a részismereti képzést és a szakirányú továbbképzést – a teljes idejű képzés tanóráinak – ideértve az ennek megfelelő zárt rendszerű elektronikus távolléti oktatást is – legalább harminc, legfeljebb ötven százaléka lehet. A részismereti képzés és a szakirányú továbbképzés időtartama a teljes idejű képzés tanóráinak – ideértve az ennek megfelelő zárt rendszerű elektronikus távolléti oktatást is – legalább húsz, legfeljebb ötven százaléka lehet.”
+### 87. §

@@ -1,11 +1,1 @@
-## „50. zárt rendszerű távoktatási képzésmenedzsment-rendszer: a képzésben részt vevő személy képzését tervező, szervező és ellenőrző, a képzéshez szükséges digitális tananyagot, videótartalom-kezelő által biztosított tartalmat, önellenőrző tesztelést és elektronikus vizsgázást biztosító, valamint az e-könyv (e-book) formátumú kiegészítő ismeretanyagot a képzési program szerint számára online kapcsolattal eljuttató (webböngészőben megjelenítő), a tanulmányi rendszer vonatkozásában minősített és tanúsított zárt informatikai rendszer, amely a képzésszervezésen túl adatbázisában manipulálhatatlanul és automatikusan rögzíti és értékeli – valamint a tanulmányi rendszer számára rendszerkapcsolaton keresztül közvetíti – a képzésben részt vevő személy képzési programban, annak részét képező tartalmakban regisztrált előrehaladását, ellenőrző és vizsgakérdésekre adott válaszait, eredményeit, tevékenységét, és végrehajtja – a képzésben részt vevő személy teljesítményének értékelése alapján – a képzési program szerint lehetséges navigációs kéréseit, továbbá biztosítja az oktató, az oktatásszervező és a képzésben részt vevő hallgató vagy személy interaktív és távolléti kapcsolattal megvalósuló, teljes értékű online és offline együttműködését, amelyet úgy szükséges kialakítani, hogy minden kliensének, felhasználói felületének és a megvalósított funkcionalitásainak magyar nyelven is elérhetőnek kell lennie;”
-
-102. § A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 114/P. §-a helyébe a következő rendelkezés lép:
-
-„(1) A felsőoktatási intézmények 2025. szeptember 1-jéig felülvizsgálják intézményi szabályzataikat, különösen a tanulmányi és vizsgaszabályzatukat abból a célból, hogy a mesterséges intelligencia használatát megfelelő módon szabályozzák.
-
-(2) A felsőoktatási intézmények 2025. szeptember 1-jéig felülvizsgálják tanterveiket abból a célból, hogy
-
-a) az adott képzés céljainak megfelelő módon a mesterséges intelligencia megismertetése a képzési program részévé váljon, és
-
-b) külföldi részképzés, külföldi szakmai gyakorlat, szakdolgozat vagy diplomamunka készítése érdekében nemzetközi mobilitásra felhasználható, tantervbe épített mobilitási időszakot biztosítsanak a hallgatók számára.”
+### 102. §

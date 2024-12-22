@@ -1,3 +1,1 @@
-100. § A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 91. §-a a következő (8) bekezdéssel egészül ki:
-
-„(8) Ha a felsőoktatási intézmény fenntartójával vagy fenntartójának vallási közösségével a Magyar Állam nemzetközi szerződést, vagy Magyarország Kormánya felsőoktatásra is kiterjedő átfogó megállapodást kötött, a hitéleti felsőfokú tanulmányok a középiskolában folytatott tanulmányok alatt, az érettségi vizsgát megelőzően is megkezdhetőek oly módon, hogy a tanulói jogviszony mellett a felsőoktatási intézménnyel hallgatói jogviszony jön létre. A hallgató egyidejűleg sajátítja el az érettségi vizsga letételéhez szükséges követelményeket és a hitéleti képzés követelményeit.”
+### 100. §

@@ -1,11 +1,3 @@
 ## 24. A Dunaújvárosi Egyetemért Alapítványról, a Dunaújvárosi Egyetemért Alapítvány és a Dunaújvárosi Egyetem részére történő vagyonjuttatásról szóló 2021. évi XI. törvény módosítása
 
-144. § A Dunaújvárosi Egyetemért Alapítványról, a Dunaújvárosi Egyetemért Alapítvány és a Dunaújvárosi Egyetem részére történő vagyonjuttatásról szóló 2021. évi XI. törvény 2. alcíme a következő 4/A. §-sal egészül ki:
-
-„4/A. § (1) Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése és a KEKVA tv. 12. §-a alapján az Alapítvány közérdekű céljainak megvalósítása és a KEKVA tv. 1. mellékletében meghatározott közfeladata ellátása érdekében a Balatonszemes, belterület 119/1, 120 és 161 helyrajzi számú ingatlanokat ingyenesen, nyilvántartási értéken történő átvezetéssel az Alapítvány tulajdonába kell adni.
-
-(2) Az (1) bekezdésben meghatározott ingatlanok tulajdonjogát az Alapítvány a terhekkel együtt szerzi meg. Az (1) bekezdésben meghatározott ingatlanok tulajdonjogának Alapítvány részére történő átadásának feltétele, hogy az ingatlanok tekintetében az állam és a BSE Palóc Farkasok Utánpótlás Sport Egyesület (székhely: 2660 Balassagyarmat, 3192/1/A hrsz., nyilvántartási szám: 12-02-0001465) között fennálló ingyenes használati szerződés az államról az Alapítványra átruházásra kerül.
-
-(3) Az Alapítvány a tulajdonába adott ingatlanokat – az e §-ban foglaltak alapján – a tulajdonátruházási szerződésben meghatározott célokra használhatja fel. Ha az Alapítvány a tulajdonába adott ingatlant értékesíti, az ingatlan átruházásból származó bevételnek az átruházás költségeinek kiegyenlítését követően fennmaradó részét a KEKVA tv. 1. mellékletében meghatározott közfeladatok ellátását szolgáló infrastruktúra-fejlesztési célok megvalósítására köteles fordítani. Az Alapítvány az ingatlanértékesítésből származó bevételt működési költségek finanszírozására nem használhatja fel.
-
-(4) Az (1) bekezdés szerinti ingatlanjuttatással egyidejűleg az (1) bekezdés szerinti ingatlanban található, a közfeladat ellátására rendelkezésre álló, állami tulajdonú ingó vagyontárgyak e törvény erejénél fogva, az (1) bekezdés szerinti ingatlanjuttatás tárgyában megkötendő megállapodás létrejöttének napjával ingyenesen az Alapítvány tulajdonába kerülnek.”
+### 144. §

@@ -1,1 +1,1 @@
-132. § Az egyes közigazgatási tárgyú törvények módosításáról, valamint ingyenes vagyonjuttatásról szóló 2020. évi XXX. törvény 53. §-ában az „alapján ingyenesen tulajdonba adott ingatlanokon” szövegrész helyébe az „a) pontja alapján ingyenesen tulajdonba adott ingatlanon” szöveg lép.
+### 132. §

@@ -1,7 +1,1 @@
 5. melléklet a 2024. évi LXXVI. törvényhez
-
-1. A közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény 1. melléklet A) alcímében foglalt táblázat B:10 mezője a következő 5. ponttal egészül ki:
-
-## „5. Olyan, az alapítvány feladatából, céljából, vagy az általa fenntartott felsőoktatási intézmény tevékenységéből fakadó, ahhoz kapcsolódó szellemi, tudományos, illetve társadalmilag vagy gazdaságilag hasznosítható értéket, dolgot, szellemi terméket megismertető vagy ezek bármelyikét – hazai vagy nemzetközi viszonylatban – kulturális, tudományos vagy gazdasági területen fejlesztő, előállító illetve hasznosító tevékenységet végző hazai vagy külföldi természetes személy, civil szervezet, gazdasági társaság vagy más jogi személy alapítvány általi támogatása, amely elősegíti az alapítvány céljainak megvalósítását, feladatainak ellátását vagy az alapítvány által fenntartott felsőoktatási intézmény oktatási, kutatási és fejlesztési tevékenységét, illetve az alapítvány vagy az általa fenntartott felsőoktatási intézmény hazai vagy nemzetközi kulturális, tudományos vagy gazdasági kapcsolatainak kialakítását, fejlesztését, vagy erősíti a tevékenységük hazai illetve nemzetközi relációban történő pozitív megítélését.”
-
-2. A közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény 1. melléklet A) alcímében foglalt táblázat B:17 mezője a következő 5. ponttal egészül ki:
