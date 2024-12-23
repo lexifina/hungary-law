@@ -20,6 +20,8 @@ h) a tanúkat a vizsgálat bármely szakaszában – a helyszínen lévő tanúk
 
 i) betekintsen valamennyi iratba – amely a közlekedési balesetben és az egyéb közlekedési eseményben részt vevő járműre, annak üzemeltetőjére, valamint a közlekedési infrastruktúrára, annak üzemeltetőjére vonatkozik – azokról másolatot készítsen, illetőleg másolatot kérjen.
 
+j) a vizsgálat bármely szakaszában haladéktalanul és akadálytalanul, előzetes értesítés nélkül hozzáférhessen a fentieken túlmenően minden általa szükségesnek tartott adathoz, információhoz, bizonyítékként értékelhető tárgyhoz.
+
 (2) A közlekedésbiztonsági szerv az (1) bekezdésben meghatározott jogosultságát a vizsgálóbizottsága vagy szakmai kivizsgálója útján gyakorolja.
 
 (3) A szakmai vizsgálattal okozott kárért kártalanításnak van helye.

@@ -24,7 +24,7 @@ bd) a biztonsággal kapcsolatos tanulságokkal szolgálhatnak;
 
 c) kivizsgálhatja azokat az a) pontban meg nem határozott eseteket is, amelyekkel kapcsolatban a vizsgálatot az infrastruktúra üzemeltetői, a közlekedési társaságok, a biztonsági hatóságok, továbbá nemzetközi együttműködés keretében az Európai Unió más tagállamának balesetvizsgáló szervezetei kérik;
 
-d) figyelembe véve a víziközlekedési baleset vagy víziközlekedési esemény súlyosságát, az érintett úszólétesítmény vagy rakomány típusát, valamint azt a mértéket, amellyel a szakmai vizsgálat megállapításai hozzájárulhatnak a jövőbeli balesetek és események megelőzéséhez a víziközlekedési baleset és víziközlekedési esemény esetén a közlekedésbiztonsági szerv előzetes vizsgálatot végez és értékelést készít annak meghatározása érdekében, hogy folytasson-e szakmai vizsgálatot; ha a közlekedésbiztonsági szerv a víziközlekedési baleset kapcsán nem indít vizsgálatot, ennek indokait rögzíti;
+d) figyelembe véve a vasúti baleset, váratlan vasúti esemény, a víziközlekedési baleset vagy víziközlekedési esemény súlyosságát, az érintett úszólétesítmény vagy rakomány típusát, valamint azt a mértéket, amellyel a szakmai vizsgálat megállapításai hozzájárulhatnak a jövőbeli balesetek és események megelőzéséhez a vasúti baleset, váratlan vasúti esemény, a víziközlekedési baleset és víziközlekedési esemény esetén előzetes vizsgálatot végez és értékelést készít annak meghatározása érdekében, hogy folytasson-e szakmai vizsgálatot; ha a közlekedésbiztonsági szerv a vasúti baleset vagy a víziközlekedési baleset kapcsán nem indít vizsgálatot, ennek indokait rögzíti;
 
 e) a közlekedési balesetek és az egyéb közlekedési események megelőzése érdekében javaslatot tesz a jogszabály előkészítőjének;
 

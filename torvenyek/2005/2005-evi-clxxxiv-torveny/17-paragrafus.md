@@ -6,7 +6,7 @@
 
 a) a közlekedési balesetben vagy egyéb közlekedési eseményben érintett jármű személyzete tagjainak, az érintett jármű, infrastruktúra üzemeltetésében, karbantartásában, kiszolgálásában részt vevő vagy forgalmi irányítását, tájékoztatását ellátó személy
 
-aa) családi és utóneve, születési családi és utóneve, állampolgársága, születési helye, ideje, lakcíme, értesítési címe,
+aa) családi és utóneve, születési családi és utóneve, állampolgársága, születési helye, ideje, lakcíme, értesítési címe, telefonszáma és elektronikus elérhetősége,
 
 ab) képzettsége, szakmai gyakorlata, szakmai jogosultsága, az esemény idején betöltött szolgálati beosztása,
 
@@ -20,4 +20,4 @@ af) az esemény bekövetkeztekor, illetve azt közvetlenül megelőzően folytat
 
 b) a közlekedési balesetben vagy egyéb közlekedési eseményben részes jármű személyzete által, vagy a jármű üzemeltetésében, karbantartásában, kiszolgálásában részt vevő vagy forgalmi irányítását, tájékoztatását ellátó személlyel folytatott és rögzített kommunikáció, a jármű hangrögzítő berendezésének felvétele vagy az ilyen felvételekről készült átirat;
 
-c) a közlekedési baleset vagy egyéb közlekedési esemény tárgyában folytatott szakmai vizsgálat egyéb résztvevőjének neve, állampolgársága, születési helye és időpontja, lakcíme és értesítési címe.
+c) a közlekedési baleset vagy egyéb közlekedési esemény tárgyában folytatott szakmai vizsgálat egyéb résztvevőjének neve, állampolgársága, születési helye és időpontja, lakcíme és értesítési címe, telefonszáma és elektronikus elérhetősége.
