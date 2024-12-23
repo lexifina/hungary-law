@@ -10,7 +10,7 @@ b) légi jármű lajstromozására, nyilvántartására, üzemben tartására, b
 
 c) légiközlekedési akadályra,
 
-d) nyilvános repülőrendezvényre,
+d) repülőrendezvényre,
 
 e) szakszolgálati tevékenységre,
 
@@ -36,7 +36,7 @@ b) az (1) bekezdés g) és i) pontjában meghatározott esetben – amennyiben a
 
 folytatja le.
 
-(2a) A bírság összegét – a közigazgatási szabályszegések szankcióiról szóló törvényben meghatározott szempontokon túlmenően – a jogsértés veszélyességének mértékére tekintettel, valamint az (1) bekezdés k) pontja esetén a fenntartható légi közlekedés egyenlő versenyfeltételeinek biztosításáról szóló, 2023. október 18-i (EU) 2023/2405 európai parlamenti és tanácsi rendelet 12. cikkében foglaltakra tekintettel kell meghatározni.
+(2a) A bírság összegét – a közigazgatási szabályszegések szankcióiról szóló törvényben meghatározott szempontokon túlmenően – a jogsértés veszélyességének mértékére tekintettel, valamint az (1) bekezdés k) pontja esetén az (EU) 2023/2405 európai parlamenti és tanácsi rendelet 12. cikkében foglaltakra tekintettel kell meghatározni.
 
 (2b) A pilóta nélküli légijármű-rendszer üzembentartója, és a (2d) bekezdés szerinti esetben a pilóta nélküli légijárművet használatba vevő személy felelős az általa üzemben tartott vagy használt pilóta nélküli légijármű üzembentartására, használatára vonatkozó – jogszabályokban meghatározott – előírások betartásáért. A légiközlekedési hatóság által vezetett nyilvántartásba nem vett pilóta nélküli légijárművel elkövetett jogsértésért az elkövető személy felelős.
 
@@ -89,3 +89,5 @@ d) az átadás és átvétel tényét, valamit azon időszak megjelölését, am
 (12)
 
 (13) A zajvédelmi díj megállapításának részletes szabályait és a beszedett díj összegének felhasználási rendjét a miniszter az államháztartásért felelős miniszterrel egyetértésben és a légiközlekedési hatóság által kijelölt zajgátló védőövezet által érintett települési önkormányzatokkal egyeztetve rendeletben állapítja meg.
+
+(14) Az (1) bekezdés k) pontja alapján kiszabott közigazgatási bírsággal megegyező összeget az (EU) 2023/2405 európai parlamenti és tanácsi rendelet 12. cikkében foglaltak teljesítése érdekében kell felhasználni.

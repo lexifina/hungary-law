@@ -32,7 +32,7 @@ o) a légijármű fel- és leszállásának, valamint a leszállóhely létesít
 
 p) a gazdasági célú légiközlekedési tevékenység ellátásához a szakszolgálati engedéllyel rendelkező által teljesítendő általános feltételeket,
 
-q)
+q) a légijárművel – ide nem értve az állami légijárművet – végzett repülőrendezvények eljárásjogi szabályait,
 
 r) a magyar légtér igénybevételének, felügyeletének, az igénybevétel korlátozásának és tiltásának a szabályait, az eseti légterek és a légiközlekedési hatóság engedélyével igénybe vehető korlátozott légterek engedélyezésének szabályait,
 
@@ -102,4 +102,4 @@ m) a légiközlekedési vizsgaközpont felügyeleti szerve által kiszabható b�
 
 n) a légiközlekedési vizsgaközpont tevékenységének részletes szabályait,
 
-o) a fenntartható légijármű üzemanyagokkal kapcsolatos műszaki, üzembentartási és felhasználási előírásokat.
+o) a fenntartható légijármű üzemanyagokkal kapcsolatos műszaki, üzembentartási és felhasználási előírásokat, valamint a fenntartható légiközlekedéssel összefüggő támogatási rendszerre vonatkozó szabályokat.

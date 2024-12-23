@@ -52,7 +52,7 @@ w) a repülőterekhez kapcsolódó követelményeknek és igazgatási eljáráso
 
 x) a polgári légi közlekedési események jelentéséről, elemzéséről és nyomon követéséről, valamint a 996/2010/EU európai parlamenti és tanácsi rendelet módosításáról és a 2003/42/EK európai parlamenti és tanácsi irányelv, valamint az 1321/2007/EK bizottsági rendelet és az 1330/2007/EK bizottsági rendelet hatályon kívül helyezéséről szóló, 2014. április 3-i 376/2014/EU európai parlamenti és tanácsi rendelet,
 
-y) a pilóta nélküli légijármű-rendszerekről és a pilóta nélküli légijármű-rendszerek harmadik országbeli üzemben tartóiról szóló, 2019. március 12-i (EU) 2019/945 felhatalmazáson alapuló bizottsági rendelet 19. cikk (1) bekezdése.
+y) a pilóta nélküli légijármű-rendszerekről és a pilóta nélküli légijármű-rendszerek harmadik országbeli üzemben tartóiról szóló, 2019. március 12-i (EU) 2019/945 felhatalmazáson alapuló bizottsági rendelet.
 
 z) a pilóta nélküli légi járművekkel végzett műveletekre vonatkozó szabályokról és eljárásokról szóló, 2019. május 24-i (EU) 2019/947 bizottsági végrehajtási rendelet.
 

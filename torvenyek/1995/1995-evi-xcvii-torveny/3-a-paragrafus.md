@@ -12,7 +12,7 @@ e) a nemzeti minőségbiztosítási ellenőrök, védelmi oktatók, védelmi tis
 
 f) az eseti légtér kijelöléssel és a pilóta nélküli állami légijárművel kapcsolatos hatósági eljárással összefüggésben a kérelmező, a pilóta nélküli légijármű üzembentartó, a pilóta nélküli légijármű tulajdonos, a szakszemélyzet, a távoli pilóta és a segítő személy nevét, születési adatait, anyja nevét (a továbbiakban: természetes személyazonosító adatait), a kapcsolattartást biztosító e-mail-címét és telefonszámát, a tevékenység ellátásához szükséges egészségi állapotára, továbbá kóros szenvedélyére vonatkozó adatait, a vizsgaeredményeit, alkalmassági minősítéseit, képesítéseit,
 
-g) a nyilvános repülőrendezvény tervezéséért és végrehajtásáért felelős igazgatónak a tevékenység ellátásához szükséges képesítés igazolására szolgáló adatait,
+g) a repülőrendezvény tervezéséért és végrehajtásáért felelős igazgatónak a tevékenység ellátásához szükséges képesítés igazolására szolgáló adatait,
 
 h) a légiközlekedési baleset, súlyos repülőesemény, repülőesemény, légiközlekedési rendellenesség közigazgatási hatósági eljárás keretében történő vizsgálata során a légiközlekedési balesetben, a súlyos repülőeseményben, a repülőeseményben, illetve a légiközlekedési rendellenességben érintett személy személyes és egészségi állapotára vonatkozó adatokat, továbbá a tevékenység ellátásához szükséges alkalmasság igazolására, továbbá a szakszolgálat ellátására vonatkozó adatait, és a képesítéseit,
 
@@ -62,7 +62,7 @@ a) a légiközlekedési hatóság kiegészítő eljárásjogi szabályairól sz�
 
 b) a repülőterek üzemben tartási engedélyeire;
 
-c) a légiforgalmi földi rádióállomás kezelői engedélyekre;
+c) a koordinációs feladatok ellátására szolgáló földi rádióállomás kezelői engedélyekre;
 
 d) a légiforgalmi szolgáltatást/léginavigációs szolgálatokat és más légiforgalmi szolgáltatási hálózati funkciókat és azok felügyeletét ellátó szolgáltatókra vonatkozó közös követelmények meghatározásáról, valamint a 482/2008/EK rendelet, az 1034/2011/EU, az 1035/2011/EU és az (EU) 2016/1377 végrehajtási rendelet hatályon kívül helyezéséről, továbbá a 677/2011/EU rendelet módosításáról szóló, 2017. március 1-jei (EU) 2017/373 bizottsági végrehajtási rendeletben meghatározott repülőtéri repüléstájékoztató szolgálat ellátására jogosító szolgáltatói tanúsítványokra
 

@@ -22,11 +22,11 @@
 
 (2b) Az ügyintézési határidő 90 nap a következő közigazgatási hatósági eljárásokban:
 
-a) légijármű és légijármű-berendezés karbantartó szervezetek jóváhagyása,
+a) légijármű és légijármű-berendezés karbantartó szervezetek jóváhagyása, a jóváhagyás módosítása,
 
 b) légi jármű üzembentartási engedély kiadása, módosítása,
 
-c) a légi járművek és repüléstechnikai termékek, alkatrészek és berendezések folyamatos légi alkalmasságának biztosításáról és az ezzel összefüggő feladatokban részt vevő szervezetek és személyek jóváhagyásáról szóló, 2014. november 26-i 1321/2014/EU bizottsági rendelet I. melléklet M. rész A. szakasz G. alrész szerinti folyamatos légialkalmasság-irányító szervezet jóváhagyása,
+c) a légi járművek és repüléstechnikai termékek, alkatrészek és berendezések folyamatos légi alkalmasságának biztosításáról és az ezzel összefüggő feladatokban részt vevő szervezetek és személyek jóváhagyásáról szóló, 2014. november 26-i 1321/2014/EU bizottsági rendelet Vc. melléklet vagy Vd. melléklet szerinti folyamatos légialkalmasság-irányító szervezet jóváhagyása,
 
 d) Nemzeti Polgári Légiközlekedés Védelmi Minőségbiztosítási Program alapján lefolytatott eljárás,
 
@@ -38,7 +38,7 @@ g) a légiközlekedés-védelmi események kivizsgálása,
 
 h) repülőtér létesítésének, fejlesztésének és megszüntetésének engedélyezése,
 
-i) légi járművet és légiközlekedéssel kapcsolatos eszközt tervező és gyártó szervezet tanúsítása,
+i) légi járművet és légiközlekedéssel kapcsolatos eszközt tervező és gyártó szervezet tanúsítása, a tanúsítás módosítása,
 
 j) repülőtér üzembentartási engedélyének kiadása, módosítása,
 
@@ -108,15 +108,7 @@ i) az állami repülések céljára szolgáló repülőtér és a közös felhas
 
 j) a légiközlekedés-védelmi háttérellenőrzési eljárásban.
 
-(2f) Az ügyintézési határidő 70 nap a katonai légügyi hatóság következő közigazgatási hatósági eljárásaiban:
-
-a) állami légi jármű, pilóta nélküli állami légijármű, légijármű-berendezés és pilóta nélküli állami légijármű rendszer karbantartó szervezetek jóváhagyása,
-
-b)
-
-c)
-
-d)
+(2f) Az ügyintézési határidő 90 nap a katonai légügyi hatóság állami légi jármű, pilóta nélküli állami légijármű, légijármű-berendezés és pilóta nélküli állami légijármű rendszer tervező, gyártó, javító, karbantartó és az állami légijármű folyamatos légialkalmassága fenntartását végző szervezet tevékenységének engedélyezésére vonatkozó közigazgatási hatósági eljárásában.
 
 (2g) Az ügyintézési határidő 4 hónap a katonai légügyi hatóság légi kutató-mentő tevékenység engedélyezésére vonatkozó közigazgatási hatósági eljárásában.
 

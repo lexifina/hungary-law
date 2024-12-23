@@ -8,7 +8,7 @@
 
 2. állami légijármű: a honvédelemért felelős miniszter rendeletében meghatározott nyilvántartásba bejegyzett, honvédelmi, vám, rendvédelmi szervek vagy a rendvédelmi feladatot ellátó szervek céljára szolgáló légijármű;
 
-2a. külföldi állami légijármű: a nemzetközi polgári repülésről Chicagóban, az 1944. évi december hó 7. napján aláírt Egyezmény és az annak módosításáról szóló jegyzőkönyvek kihirdetéséről szóló 1971. évi 25. törvényerejű rendelet 3. cikk b) pontjában meghatározott, a katonai, a vám- és a rendőri szervek céljára szolgáló külföldi légijármű;
+2a. külföldi állami légijármű: a nemzetközi polgári repülésről Chicagóban, az 1944. évi december hó 7. napján aláírt Egyezmény és az annak módosításáról szóló jegyzőkönyvek kihirdetéséről szóló 1971. évi 25. törvényerejű rendelet 3. cikk b) pontjában meghatározott, a katonai, a vám- és a rendőri szervek repülései céljára szolgáló külföldi légijármű, ide nem értve a külföldi állam- és kormányfők, kormánytagok és hasonlóan magas állami tisztséget viselő személyek szállítását végző légijárműveket;
 
 3. ellenőrzött repülőtér: olyan repülőtér, ahol a repülőtéri forgalom részére légiforgalmi irányító szolgálatot, állami repülések céljára szolgáló repülőtér esetében katonai légiforgalmi irányító szolgálatot, közös felhasználású repülőtér esetében olyan légiforgalmi irányító szolgálatot biztosítanak, amely mind a polgári, mind a katonai előírásoknak megfelel;
 
@@ -68,7 +68,7 @@ g) veszélyes áru feladása légi úton történő továbbításra;
 
 14. légisport: légijárművel folytatott, nem gazdálkodási célú sporttevékenység;
 
-15. nyilvános repülőrendezvény: légibemutató vagy verseny, melynek látogatására a meghívás propaganda vagy hirdetés útján történik;
+15. repülőrendezvény: olyan repülési tevékenység vagy egymással összehangolt repülési tevékenységek, amelyet annak érdekében végeznek, hogy a közönség számára nyitott rendezvényen bemutatót vagy szórakoztatást biztosítsanak, beleértve azt a versenyt is, ahol az egyidejűleg jelenlévő, a versenyben részt nem vevő nézők létszáma az 50 főt meghaladja;
 
 16. polgári légijármű: a nem állami légijármű;
 
@@ -116,7 +116,7 @@ g) veszélyes áru feladása légi úton történő továbbításra;
 
 38. katonai körzet: az a légtér, ahol a katonai repülésirányító szolgálatok nyújtanak szolgáltatást;
 
-39. repülőeszköz: siklórepülő eszköznek, ejtőernyőnek és a 216/2008/EK európai parlamenti és tanácsi rendelet II. Melléklet e) pontjában meghatározott egyszemélyes vagy 300 kg legnagyobb felszálló tömeget el nem érő repülőgépnek minősülő légijármű;
+39. repülőeszköz: a siklórepülő eszköz, az ultralight repülőgép, az autogiro és az ejtőernyő;
 
 40. siklórepülő eszköz: a légijárművek gyártásáról, építéséről és műszaki alkalmasságáról szóló miniszteri rendeletben meghatározott sárkányrepülő eszköz vagy siklóernyő;
 
@@ -152,9 +152,11 @@ g) veszélyes áru feladása légi úton történő továbbításra;
 
 56. szabadidős célú UAS-művelet: pilóta nélküli légijármű kedvtelési célú, gazdasági célú használattal össze nem függő, és nem állami szerv feladatának végrehajtása érdekében végzett használata.
 
+56a. lakott terület: az UAS-műveletbe be nem vont személy vagy személyek életvitelszerű tartózkodási helye;
+
 57. légiközlekedés védelmében közreműködő szervezet: a 300/2008/EK európai parlamenti és tanácsi rendelet 3. cikk 3–6. pontjában felsorolt olyan vállalkozás vagy jogalany, amely a védelmi háttérellenőrzésre kötelezett személyt foglalkoztatja, illetve repülőtér esetében az állandó belépési engedélyt kibocsátja.
 
-58. kereskedelmi repülőtér: határátkelővel rendelkező, nem menetrend szerinti rendszeres utas, poggyász, áru és posta továbbítását végző légi forgalom céljaira létesített közforgalom számára nyitva álló repülőtér;
+58. kereskedelmi repülőtér: határátkelővel rendelkező, elsősorban nem menetrend szerinti rendszeres utas, poggyász, áru és posta továbbítását végző légi forgalom céljaira létesített közforgalom számára nyitva álló repülőtér;
 
 59. üzleti célú repülőtér: határátkelővel rendelkező, nem menetrend szerinti nemzetközi forgalmat bonyolító közforgalom számára nyitva álló olyan repülőtér, amely nem tartozik a 2018/1139 EU európai parlamenti és tanácsi rendelet hatálya alá;
 
@@ -175,3 +177,9 @@ g) veszélyes áru feladása légi úton történő továbbításra;
 67. szabadidős célú repülés: sport, vagy rekreációs céllal végzett, nem gazdasági célú repülés;
 
 68. sétarepülés: olyan gazdasági célú, légijárművel végzett személyszállítás, amikor a fel- és a leszállás ugyanazon a helyen történik.
+
+69. autogiro: a levegőnél nehezebb légijármű, amelyet repülés közben egy vagy több rotoron keletkező felhajtóerő tart a levegőben, amely rotorok szabadon forognak alapvetően függőleges tengely körül;
+
+70. ultralight repülőgép: az (EU) 2018/1139 európai parlamenti és tanácsi rendelet 2. cikk (8) bekezdésében meghatározott mentesítés hatálya alá tartozó, vagy az (EU) 2018/1139 európai parlamenti és tanácsi rendelet I. melléklet 1. pont e) alpontjának megfelelő aerodinamikai kormányzású repülőgép;
+
+71. repülőgép: hajtóművel felszerelt, levegőnél nehezebb, merevszárnyú légijármű, amelynek repülését a szárnyaira ható aerodinamikai erő biztosítja.
