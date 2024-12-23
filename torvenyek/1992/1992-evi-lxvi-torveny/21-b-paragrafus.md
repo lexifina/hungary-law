@@ -9,3 +9,5 @@ c) az állampolgárság kivételével az úszólétesítményen fedélzeti és g
 d) az állampolgárság kivételével a pilóta nélküli légijármű-rendszerekről, valamint a pilóta nélküli légijármű-rendszer üzemben tartókról vezetett nyilvántartáshoz kapcsolódóan a kérelmezők adatainak ellenőrzése céljából a légiközlekedésről szóló törvény szerinti légiközlekedési hatóság;
 
 e) az állampolgárság kivételével a légiközlekedési szakszemélyzeti képesítések és vizsgáztatói tanúsítás megszerzéséhez szükséges vizsgára jelentkezők adatainak ellenőrzése céljából a légiközlekedésről szóló törvény szerinti légiközlekedési vizsgaközpont.
+
+f) az állampolgárság kivételével a digitális tachográf kártya kiadása érdekében a kártyára jogosultak adatainak ellenőrzése céljából a digitális kártyát kiállító közlekedési hatóság.
