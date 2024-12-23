@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2024-76-00-00
 | 2024-12-21 | 2024. évi LXXVI. törvény | 2024-76-00-00.0 (közlönyállapot) |
 | 2024-12-21 | Nemzeti Jogszabálytár (egységes szerkezet) | 2024-76-00-00.1 |
 | 2024-12-22 | 2010. évi CXXX. törvény | 2024-76-00-00.2 |
+| 2024-12-23 | Nemzeti Jogszabálytár (egységes szerkezet) | 2024-76-00-00.3 |

@@ -1,3 +1,5 @@
-## 15.
+## 15. A Budapest és az agglomeráció fejlesztésével összefüggő állami feladatokról, valamint egyes fejlesztések megvalósításáról, továbbá egyes törvényeknek a Magyarország filmszakmai támogatási programjáról szóló SA.50768 számú Európai Bizottsági határozattal összefüggő módosításáról szóló 2018. évi XLIX. törvény módosítása
 
-### 122. §
+122. § A Budapest és az agglomeráció fejlesztésével összefüggő állami feladatokról, valamint egyes fejlesztések megvalósításáról, továbbá egyes törvényeknek a Magyarország filmszakmai támogatási programjáról szóló SA.50768 számú Európai Bizottsági határozattal összefüggő módosításáról szóló 2018. évi XLIX. törvény 18. §-a a következő (4) bekezdéssel egészül ki:
+
+„(4) A 19. § (2) és (4)–(10) bekezdésében foglaltak alkalmazandóak az olyan, (1) bekezdés szerinti beruházáshoz kapcsolódó beruházás esetében is, amelyet a 19. § (1) bekezdése szerinti Vagyonkezelő nem a saját vagyonkezelésében álló vagy nem állami tulajdonú nemzeti vagyonba tartozó ingatlanon (a továbbiakban együtt: idegen ingatlan) valósít meg. Idegen ingatlanon történő beruházásra a tulajdonosi joggyakorló – ennek hiányában a tulajdonos – előzetes hozzájárulása birtokában kerülhet sor, és a beruházással létrejövő vagyon átadásáról a Vagyonkezelő és a tulajdonosi joggyakorló – ennek hiányában a tulajdonos – megállapodást köt.”
