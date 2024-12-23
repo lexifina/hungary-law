@@ -10,7 +10,7 @@
 
 | Felelős: | Miniszterelnökséget vezető miniszter belügyminiszter külgazdasági és külügyminiszter Miniszterelnöki Kabinetirodát vezető miniszter közigazgatási és területfejlesztési miniszter |
 
-| Határidő: | 2024. december 31., az Információs Hivatal cím javára biztosított 920 000 000 forint tekintetében 2025. március 31. |
+| Határidő: | 2024. december 31., a Miniszterelnökség igazgatása javára biztosított 108 000 000 forint tekintetében 2025. február 15., az Információs Hivatal cím javára biztosított 920 000 000 forint tekintetében 2025. március 31. |
 
 ## 2. az Áht. 33. § (2) bekezdésében, valamint az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 153. §-ában biztosított jogkörében eljárva 32 822 433 196 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 45. Központi Maradványelszámolási Alap cím terhére, a 2. melléklet szerint;
 
@@ -38,4 +38,4 @@
 
 1. melléklet az 1102/2024. (IV. 11.) Korm. határozathoz
 
-[^1]: Az 1. pont az 1394/2024. (XII. 12.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^1]: Az 1. pont az 1394/2024. (XII. 12.) Korm. határozat 3. pontja, az 1434/2024. (XII. 23.) Korm. határozat 6. pontja szerint módosított szöveg.
