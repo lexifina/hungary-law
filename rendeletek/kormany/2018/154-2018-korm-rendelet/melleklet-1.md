@@ -36,9 +36,13 @@ A Budai Palotanegyed területébe tartozó ingatlanok
 
 | 15. | Budapest I. kerület | 6471 |
 
+| 15a.[^2] | Budapest I. kerület | 6514 |
+
 | 16. | Budapest I. kerület | 6515 |
 
 | 17. | Budapest I. kerület | 6516 |
+
+| 17a.[^3] | Budapest I. kerület | 7124/2 |
 
 | 18. | Budapest I. kerület | 7139 |
 
@@ -61,3 +65,5 @@ A Budai Palotanegyed területébe tartozó ingatlanok
 | 27. | Budapest I. kerület | 14371/2 |
 
 [^1]: Az 1. melléklet a 228/2023. (VI. 8.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^2]: Az 1. mellékletben foglalt táblázat 15a. sorát a 413/2024. (XII. 20.) Korm. rendelet 1. §-a iktatta be.
+[^3]: Az 1. mellékletben foglalt táblázat 17a. sorát a 413/2024. (XII. 20.) Korm. rendelet 1. §-a iktatta be.
