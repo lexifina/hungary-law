@@ -12,7 +12,7 @@ d) a Tatabánya ipari és kommunális szennyvíztisztító telep fejlesztésére
 
 e) [^1] a Tatabánya XV/C és XIV/A vízaknák fejlesztésére, valamint a kapcsolódó műtárgyak, tartozékok, berendezések, egyéb kiegészítő elemek rekonstrukciójára;
 
-2.[^2] egyetért a Beruházás előkészítéséhez és megvalósításához szükséges 75 351 684 163 forint forrás biztosításával;
+2.[^2] egyetért a Beruházás előkészítéséhez és megvalósításához szükséges 76 653 861 347 forint forrás biztosításával;
 
 3.[^3] felhívja a pénzügyminisztert, hogy az energiaügyi miniszter bevonásával gondoskodjon a Beruházás komplex előkészítése és megvalósítása érdekében
 
@@ -30,13 +30,19 @@ e)[^4] 3 979 965 928 forint rendelkezésre állásáról a 2025. évben a XVII. 
 
 | Határidő: | az a) és b) alpont tekintetében azonnal a c) és d) alpont tekintetében az adott évi központi költségvetés végrehajtása során, a felmerülés ütemében az e) alpont tekintetében az adott évi központi költségvetés tervezése során |
 
-4.[^5] felhívja a pénzügyminisztert, hogy az energiaügyi miniszter kezdeményezésére – az építési és közlekedési miniszter bevonásával – gondoskodjon az 1. pont e) alpontja szerinti beruházás komplex előkészítése és megvalósítása érdekében
+f) [^5] 365 078 825 forint rendelkezésre állásáról a 2026. évben a XVII. Energiaügyi Minisztérium fejezet, térségi fejlesztési feladatok finanszírozását szolgáló előirányzat javára;
 
-a)[^6] a 2024. évben 6 755 045 502 forint rendelkezésre állásáról a Magyarország 2024. évi központi költségvetéséről szóló 2023. évi LV. törvény 1. melléklet XVII. Energiaügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 39. Térségi fejlesztési feladatok alcím javára,
+| Felelős: | pénzügyminiszter energiaügyi miniszter |
 
-b)[^7] a 2025. évben 4 991 439 036 forint rendelkezésre állásáról a központi költségvetés XVII. Energiaügyi Minisztérium fejezet, térségi fejlesztési feladatok finanszírozását szolgáló előirányzat javára,
+| Határidő: | a 2026. évi központi költségvetés tervezése során |
 
-c)[^8] a 2026. évben 15 130 947 975 forint rendelkezésre állásáról a központi költségvetés XVII. Energiaügyi Minisztérium fejezet, térségi fejlesztési feladatok finanszírozását szolgáló előirányzat javára,
+4.[^6] felhívja a pénzügyminisztert, hogy az energiaügyi miniszter kezdeményezésére – az építési és közlekedési miniszter bevonásával – gondoskodjon az 1. pont e) alpontja szerinti beruházás komplex előkészítése és megvalósítása érdekében
+
+a)[^7] a 2024. évben 6 755 045 502 forint rendelkezésre állásáról a Magyarország 2024. évi központi költségvetéséről szóló 2023. évi LV. törvény 1. melléklet XVII. Energiaügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 39. Térségi fejlesztési feladatok alcím javára,
+
+b)[^8] a 2025. évben 4 991 439 036 forint rendelkezésre állásáról a központi költségvetés XVII. Energiaügyi Minisztérium fejezet, térségi fejlesztési feladatok finanszírozását szolgáló előirányzat javára,
+
+c)[^9] a 2026. évben 16 068 046 334 forint rendelkezésre állásáról a központi költségvetés XVII. Energiaügyi Minisztérium fejezet, térségi fejlesztési feladatok finanszírozását szolgáló előirányzat javára,
 
 d) a 2027. évben 2 701 620 000 forint rendelkezésre állásáról a központi XVII. Energiaügyi Minisztérium fejezet, térségi fejlesztési feladatok finanszírozását szolgáló előirányzat javára;
 
@@ -44,11 +50,11 @@ d) a 2027. évben 2 701 620 000 forint rendelkezésre állásáról a központi 
 
 | Határidő: | az a) alpont tekintetében a 2024. évi központi költségvetés végrehajtása során, a felmerülés ütemében a b)–d) alpont tekintetében az adott évi központi költségvetés tervezése során |
 
-5.[^9] felhívja a technológiai és ipari minisztert, hogy az építési és beruházási miniszter bevonásával gondoskodjon a Beruházás támogatási szerződésének módosításáról;
+5.[^10] felhívja az energiaügyi minisztert, hogy a Beruházás megvalósítása érdekében gondoskodjon az Északdunántúli Vízmű Zártkörűen Működő Részvénytársaság mint kedvezményezettel kötött támogatási szerződés módosításáról;
 
-| Felelős: | technológiai és ipari miniszter építési és beruházási miniszter |
+| Felelős: | energiaügyi miniszter |
 
-| Határidő: | azonnal |
+| Határidő: | a tárgyévi forrás rendelkezésre állását követően azonnal |
 
 6. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy az NFP Nemzeti Fejlesztési Programiroda Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: NFP Nonprofit Kft.) mint kedvezményezett a feladat teljes körű előkészítése keretében tervezési, mérnöki, műszaki ellenőri feladatokat lássa el, az ehhez kapcsolódó beszerzési, illetve közbeszerzési eljárásokat folytassa le, valamint a megvalósítás keretében az Északdunántúli Vízmű Zártkörűen Működő Részvénytársaság (a továbbiakban: Északdunántúli Vízmű Zrt.) nevében és javára kivitelezési (tervezés és kivitelezés) szerződéshez kapcsolódó beszerzési, illetve közbeszerzési eljárásokat folytassa le, és az ezekhez kapcsolódó projektmenedzsment-feladatokat lássa el;
 
@@ -90,15 +96,16 @@ Felelős: pénzügyminisztérium nemzeti vagyon kezeléséért felelős tárca n
 
 Határidő: az előrehaladás ütemében
 
-14.[^10]
+14.[^11]
 
 [^1]: Az 1. pont e) alpontját az 1495/2022. (X. 19.) Korm. határozat 1. pontja iktatta be.
-[^2]: A 2. pont az 1604/2023. (XII. 22.) Korm. határozat 3. pontjával megállapított, az 1337/2024. (XI. 6.) Korm. határozat 5. pont a) alpontja szerint módosított szöveg.
+[^2]: A 2. pont az 1604/2023. (XII. 22.) Korm. határozat 3. pontjával megállapított, az 1418/2024. (XII. 23.) Korm. határozat 5. pontja szerint módosított szöveg.
 [^3]: A 3. pont az 1604/2023. (XII. 22.) Korm. határozat 3. pontjával megállapított szöveg.
 [^4]: A 3. pont e) alpontja az 1337/2024. (XI. 6.) Korm. határozat 5. pont b) alpontja szerint módosított szöveg.
-[^5]: A 4. pontot az 1023/2022. (I. 27.) Korm. határozat 4. pont d) alpontja visszavonta, újonnan az 1495/2022. (X. 19.) Korm. határozat 2. pontja iktatta be, szövege az 1604/2023. (XII. 22.) Korm. határozat 3. pontjával megállapított szöveg.
-[^6]: A 4. pont a) alpontja az 1387/2024. (XII. 9.) Korm. határozat 2. pontjával megállapított szöveg.
-[^7]: A 4. pont b) alpontja az 1387/2024. (XII. 9.) Korm. határozat 2. pontjával megállapított szöveg.
-[^8]: A 4. pont c) alpontja az 1387/2024. (XII. 9.) Korm. határozat 2. pontjával megállapított szöveg.
-[^9]: Az 5. pontot az 1023/2022. (I. 27.) Korm. határozat 4. pont d) alpontja visszavonta, újonnan az 1495/2022. (X. 19.) Korm. határozat 2. pontja iktatta be.
-[^10]: A 14. pontot az 1495/2022. (X. 19.) Korm. határozat 4. pontja visszavonta.
+[^5]: A 3. pont f) alpontját az 1418/2024. (XII. 23.) Korm. határozat 1. pontja iktatta be.
+[^6]: A 4. pontot az 1023/2022. (I. 27.) Korm. határozat 4. pont d) alpontja visszavonta, újonnan az 1495/2022. (X. 19.) Korm. határozat 2. pontja iktatta be, szövege az 1604/2023. (XII. 22.) Korm. határozat 3. pontjával megállapított szöveg.
+[^7]: A 4. pont a) alpontja az 1387/2024. (XII. 9.) Korm. határozat 2. pontjával megállapított szöveg.
+[^8]: A 4. pont b) alpontja az 1387/2024. (XII. 9.) Korm. határozat 2. pontjával megállapított szöveg.
+[^9]: A 4. pont c) alpontja az 1418/2024. (XII. 23.) Korm. határozat 2. pontjával megállapított szöveg.
+[^10]: Az 5. pontot az 1023/2022. (I. 27.) Korm. határozat 4. pont d) alpontja visszavonta, újonnan az 1495/2022. (X. 19.) Korm. határozat 2. pontja iktatta be, szövege az 1418/2024. (XII. 23.) Korm. határozat 3. pontjával megállapított szöveg.
+[^11]: A 14. pontot az 1495/2022. (X. 19.) Korm. határozat 4. pontja visszavonta.
