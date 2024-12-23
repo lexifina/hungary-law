@@ -1,4 +1,4 @@
-1. melléklet a 210/2016. (VII. 21.) Korm. rendelethez[^43]
+1. melléklet a 210/2016. (VII. 21.) Korm. rendelethez[^46]
 
 1. A Budai Palotanegyed fenntartható fejlesztését, valamint tervszerű és egységes szemléletű helyreállítását szolgáló, kiemelten közérdekű beruházások felsorolása
 
@@ -26,7 +26,7 @@
 
 | 11. | Várgarázs I. (projektszámozás szerint 2.) befejezése, középkori támfal stabilizálása | Budapest I. kerület, belterület 6452/4, 6452/5 és 6452/6 helyrajzi számú ingatlan | Budapest I. kerület, 7124/2 helyrajzi számú ingatlan | 2021. 01. 31. – 2023. 12. 31. |
 
-| 12. | A Nyugati kert (Csikós udvar) alatti mélygarázs közvetlen közelében további mélygarázs (Várgarázs II.) kialakítása, Fehérvári rondella és Nyugati kert rekonstrukció | Budapest I. kerület, belterület 6452/4, 6452/5 és 6452/6 helyrajzi számú ingatlan | Budapest I. kerület, 7124/2 helyrajzi számú ingatlan | 2021. 03. 26. – 2025. 11. 03. |
+| 12. | A Nyugati kert (Csikós udvar) alatti mélygarázs közvetlen közelében további mélygarázs (Várgarázs II.) kialakítása, Fehérvári rondella, Fehérvári kapu és Nyugati kert rekonstrukció | Budapest I. kerület, belterület 6452/4, 6452/5 és 6452/6 helyrajzi számú ingatlan; a Budapest I. kerület 7124/2 helyrajzi számú ingatlan Fehérvári kapu ingatlanrésze | Budapest I. kerület, 6469 és 7124/2 helyrajzi számú ingatlan | 2021. 03. 26. – 2027. 12. 31. |
 
 | 13. | A Habsburg Ottó Alapítvány elhelyezése, a Budavári Palota „D” épületrész földszintjének felújítása | Budapest I. kerület, belterület 6452/4 helyrajzi számú ingatlan | - | 2020. 10. 21. – 2023. 11. 30. |
 
@@ -44,7 +44,7 @@
 
 | 20. | A Budai Palotanegyed várfalainak felmérése, tervezése, helyreállításának kivitelezése | Budapest I. kerület, belterület 6330, 6331, 6452/2, 6452/3, 6452/4, 6452/5, 6452/6, 6456/1, 6458, 6515, 14362, 14363/1, 14369, 14371/1 és 14371/2 helyrajzi számú ingatlan | Budapest I. kerület, belterület 7124/2, 14339/3, 14363/2, 14365, 14367, 14368, 14370, 14372 és 14373/2 helyrajzi számú ingatlan | 2020. 10. 21. – 2026. 05. 31. |
 
-| 21. | A Budai Palotanegyed várkertjeinek, közterületeinek felmérése, tervezése, kivitelezése, üzemeltetésre felkészítése | Budapest I. kerület, belterület 6331, 6452/2, 6452/3, 6452/4, 6452/5, 6452/6, 6456/1, 6461, 6464, 14358, 14359, 14360, 14361, 14362, 14363/1, 14369, 14371/1 és 14371/2 helyrajzi számú ingatlan | Budapest I. kerület, belterület 6335, 7124/2, 14339/3, 14363/2 és 14365 helyrajzi számú ingatlan | 2020. 10. 21. – 2026. 05. 31. |
+| 21. | A Budai Palotanegyed várkertjeinek, közterületeinek felmérése, tervezése, kivitelezése, üzemeltetésre felkészítése | Budapest I. kerület, belterület 6331, 6452/2, 6452/3, 6452/4, 6452/5, 6452/6, 6456/1, 6461, 6462, 6464, 6514, 14358, 14359, 14360, 14361, 14362, 14363/1, 14369, 14371/1 és 14371/2 helyrajzi számú ingatlan | Budapest I. kerület, belterület 6335, 6469, 6493, 6513, 7124/2, 14339/3, 14363/2 és 14365 helyrajzi számú ingatlan | 2020. 10. 21. – 2027. 12. 31. |
 
 | 22. | Turisztikai célú területrendezés és infrastruktúra elemek kialakítása több helyszínen | Budapest I. kerület, belterület 6330, 6331, 6452/2, 6452/3, 6452/4, 6452/5, 6452/6, 6456/1, 6458, 6459, 6461, 6462, 6464, 6471, 6515, 6516, 6546, 14359, 14360, 14361, 14362, 14363/1, 14369, 14371/1 és 14371/2 helyrajzi számú ingatlan | Budapest I. kerület, belterület 6514 és 7124/2 helyrajzi számú ingatlan | 2020. 10. 21. – 2025. 12. 31. |
 
@@ -80,4 +80,4 @@
 
 | 6. | A Magyar Nemzeti Levéltár épületének rekonstrukciója és bővítése | Budapest I. kerület, belterület 6627 és 6628 helyrajzi számú ingatlan | Budapest I. kerület, belterület 6563, 6622 és 6632 helyrajzi számú ingatlan | 2021. 01. 01. – 2026. 12. 31. |
 
-[^43]: Az 1. melléklet a 792/2021. (XII. 27.) Korm. rendelet 7. §-ával megállapított, a 228/2023. (VI. 8.) Korm. rendelet 6. §-a, 7. § b)-g) pontja és 8. §-a, az 556/2023. (XII. 12.) Korm. rendelet 1-2. §-a szerint módosított szöveg.
+[^46]: Az 1. melléklet a 792/2021. (XII. 27.) Korm. rendelet 7. §-ával megállapított, a 228/2023. (VI. 8.) Korm. rendelet 6. §-a, 7. § b)-g) pontja és 8. §-a, az 556/2023. (XII. 12.) Korm. rendelet 1–2. §-a, a 412/2024. (XII. 20.) Korm. rendelet 2. §-a szerint módosított szöveg.
