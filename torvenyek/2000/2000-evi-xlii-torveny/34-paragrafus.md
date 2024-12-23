@@ -2,7 +2,7 @@
 
 ## AZ ÚSZÓLÉTESÍTMÉNY VEZETŐJE
 
-34. § (1) Az úszólétesítmény vezetője az üzemben tartó által írásban megbízott, jogszabályban előírt képesítéssel rendelkező személy lehet.
+34. § (1) Az úszólétesítmény vezetője az üzemben tartó által szolgálati beosztásban meghatározott, jogszabályban előírt képesítéssel rendelkező személy lehet.
 
 (2) A tengeri nagyhajó, továbbá a gépi üzemű belvízi nagyhajó vezetője a hajóparancsnok.
 
