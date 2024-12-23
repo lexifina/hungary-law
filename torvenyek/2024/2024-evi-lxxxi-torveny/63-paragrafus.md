@@ -2,7 +2,7 @@
 
 a) 2. § 7. pont 7.1. alpontja,
 
-b) 36/I. § (6) bekezdés nyitó szövegrészében a „– felügyeleti díj ellenében –” szövegrész,
+b)
 
 c) 67/G. § (4) bekezdése,
 

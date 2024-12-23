@@ -21,15 +21,3 @@ való megfelelést szolgálja.
 5. a fenntartható légiközlekedés egyenlő versenyfeltételeinek biztosításáról (ReFuelEU Aviation) szóló, 2023. október 18-i (EU) 2023/2405 európai parlamenti és tanácsi rendeletnek
 
 a végrehajtásához szükséges rendelkezéseket állapít meg.
-
-|
-
-Dr. Sulyok Tamás s. k.,
-
-köztársasági elnök
-
-|
-
-Dr. Latorcai János s. k.,
-
-az Országgyűlés alelnöke
