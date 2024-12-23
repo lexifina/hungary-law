@@ -1,0 +1,1 @@
+1. § A Budai Palotanegyed területébe tartozó ingatlanok meghatározásáról szóló 154/2018. (IX. 3.) Korm. rendelet [a továbbiakban: 154/2018. (IX. 3.) Korm. rendelet] 1. melléklete az 1. melléklet szerint módosul.
