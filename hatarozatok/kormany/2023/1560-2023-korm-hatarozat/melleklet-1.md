@@ -38,17 +38,9 @@
 
 | Határidő: | a 2023. évi költségvetési beszámoló Magyar Államkincstár által történő elfogadását követő 10. munkanap |
 
-## f) az Áht. 36. § (4b) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy az építési és közlekedési miniszter a közlekedési hatósági informatikai szakrendszerek üzemeltetési és fejlesztési feladatainak ellátása érdekében a közlekedési hatósági díjbevételek terhére legfeljebb 10 480 000 000 forint összegben kötelezettséget vállaljon;
+## f) [^1]
 
-## g) az Áht. 36. § (4c) bekezdés b) pontjában biztosított jogkörében eljárva a központi költségvetés Építési és Közlekedési Minisztérium fejezet közlekedési hatósági informatikai szakrendszerek üzemeltetési és fejlesztési feladatainak ellátását finanszírozó előirányzata terhére vállalható kötelezettségek mértékét
-
-## ga) a 2024. évben legfeljebb 4 230 000 000 forint,
-
-## gb) a 2025. évben legfeljebb 2 980 000 000 forint,
-
-## gc) a 2026. évben legfeljebb 3 270 000 000 forint
-
-## összegben állapítja meg;
+## g) [^2]
 
 ## h) az Áht. 33. § (1) bekezdésében biztosított jogkörében eljárva a Magyarország 2024. évi központi költségvetéséről szóló 2023. évi LV. törvény 1. melléklet XVI. Építési és Közlekedési Minisztérium fejezet, 11. Központi kezelésű előirányzatok cím, 1. Az ÉKM tulajdonosi joggyakorlásával kapcsolatos bevételek és kiadások alcím,
 
@@ -74,11 +66,13 @@
 
 | Határidő: | 2024. február 19. |
 
-## 2.[^1]
+## 2.[^3]
 
-## 3.[^2]
+## 3.[^4]
 
 1. melléklet az 1560/2023. (XII. 13.) Korm. határozathoz
 
-[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont f) alpontot az 1425/2024. (XII. 23.) Korm. határozat 3. pontja visszavonta.
+[^2]: Az 1. pont g) alpontot az 1425/2024. (XII. 23.) Korm. határozat 3. pontja visszavonta.
+[^3]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
