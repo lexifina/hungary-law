@@ -1,1 +1,0 @@
-6. § Ez a rendelet a TEÁOR’25 átállás miatt- a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról szóló 1893/2006/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2022. október 10-i (EU) 2023/137 bizottsági felhatalmazáson alapuló rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
