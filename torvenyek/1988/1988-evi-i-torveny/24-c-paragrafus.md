@@ -1,0 +1,5 @@
+24/C. § (1) A járműműszaki előírás a közúti járművek, továbbá ezek tulajdonságai, alkatrészei, tartozékai és önálló műszaki egységei műszaki, közlekedésbiztonsági és környezetvédelmi követelményeire vonatkozó technikai, technológiai jellegű műszaki és szakmai követelmény, olyan szakmai szabály, amelynek alkalmazása a címzettek számára kötelező, betartását a közlekedési hatóság ellenőrzi.
+
+(2) A járműműszaki előírásokat a nemzetközi és uniós jogi aktusok, valamint a hazai jogszabályok alapulvételével, azokkal összhangban, a tudomány, a technika és a technológia mindenkori állásának megfelelően, közlekedési szakértői vélemények mérlegelésével, valamint az európai és nemzeti szabályokra és szabványokra is figyelemmel kell kidolgozni.
+
+(3) Az e törvény felhatalmazása alapján kiadott miniszteri rendeletben kijelölt felelős szakértői testület dolgozza ki a járműműszaki előírásokat, technológiai folyamatokat, eljárásrendeket. A járműműszaki előírásokat a szakértői testület javaslata alapján a közlekedési hatóság közzéteszi a honlapján.

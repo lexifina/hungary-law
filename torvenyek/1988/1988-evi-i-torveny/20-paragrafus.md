@@ -80,19 +80,19 @@ vonatkozó rendelkezések megsértői bírság fizetésére kötelezhetők.
 
 (6) A kiszabott bírság és a pénzkövetelés biztosítása összegének megfizetésével kapcsolatos jogszabályban meghatározott költséget az állam viseli. A kiszabott bírság és a pénzkövetelés biztosítása összegének megfizetése e törvény felhatalmazása alapján kiadott jogszabályban meghatározott számlaszámra történő befizetéssel történik. A megfizetett bírság és a pénzkövetelés biztosítása összegét – az azt megállapító döntés véglegessé válásáig – az eljáró hatóság elkülönítetten kezeli.
 
-(7) Közúti forgalomban történő ellenőrzés esetén a járművet – a veszélyes áru, a gyorsan romló élelmiszer és az élő állat szállítmány feltartóztatására vonatkozó előírások megtartásával – az ellenőrző hatóság a bírság, illetőleg a pénzkövetelés biztosítás megfizetéséig az erre vonatkozó külön határozat kiadása nélkül az általános közigazgatási rendtartásról szóló törvénynek (a továbbiakban: Ákr.) a biztosítási intézkedésekre vonatkozó feltételek szerint vissza lehet tartani. A jármű nem tartható vissza különösen abban az esetben, ha
+(7) Ha a járművet az ellenőrző hatóság a közúti forgalomban ellenőrzi – a veszélyes áru, a gyorsan romló élelmiszer és az élőállat-szállítmány feltartóztatására vonatkozó előírások megtartásával – az ellenőrző hatóság a bírság, illetve a pénzkövetelés biztosítás megfizetéséig az erre vonatkozó külön határozat kiadása nélkül az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) biztosítási intézkedésekre vonatkozó szabályai, valamint a 44. § (9)–(12) bekezdésében foglaltak szerint visszatarthatja.
 
-a) a bírságfizetésre kötelezett (kötelezettek) székhelye, illetve lakóhelye vagy szokásos tartózkodási helye Magyarország területén van és a kötelezett rendelkezik az állami adóhatóság által kiadott adószámmal, illetve adóazonosító jellel, vagy
+(7a) A jármű nem tartható vissza különösen abban az esetben, ha
+
+a) a bírságfizetésre kötelezett székhelye, illetve lakóhelye vagy szokásos tartózkodási helye Magyarország területén van és a kötelezett rendelkezik az állami adóhatóság által kiadott adószámmal, illetve adóazonosító jellel, vagy
 
 b) a bírságfizetési kötelezettség teljesítéséért pénzügyi intézmény kezességet, garanciát vállal vagy a kötelezettséget belföldön bejegyzett, adószámmal rendelkező gazdálkodó szervezet átvállalja és ezt a tényt a bírságfizetésre kötelezett az eljárás során hitelt érdemlően igazolja.
 
-(7a) Amennyiben az ellenőrzés megállapítja, hogy az (1) bekezdés c), e) és h) pontjában felsorolt szabályok valamelyikét megszegték és a szabályszegés a közlekedés biztonságára kockázatot jelent, az eljáró hatóság az erre vonatkozó külön határozat kiadása nélkül az Ákr. biztosítási intézkedésekre vonatkozóan megállapított feltételei szerint a járművet visszatartja a közlekedésbiztonsági kockázat elhárításáig.
+(8)
 
-(8) A jármű részére a visszatartás idejére várakozó helyet kell kijelölni, és a jármű forgalmi engedélyét és hatósági jelzését – az átvételét igazoló elismervény egyidejű kiállítása és annak a járművezető részére történő átadása mellett – a visszatartás időtartamára el kell venni. A külföldi hatóság által kiadott forgalmi engedélyt és hatósági jelzést – ha azt a jogosult a visszatartás időtartamának lejáratát követő három napon belül nem veszi át – a kiállító hatósághoz kell megküldeni.
+(9)
 
-(9) A jármű vezetőjét a külön jogszabályban foglaltak szerint az Európai Unió hivatalos nyelvén, továbbá – a jármű honossága szerint – orosz, szerb, török vagy ukrán nyelven írásban tájékoztatni kell a (8) bekezdés szerint kijelölt várakozási helyről, valamint annak megközelítési útvonaláról, továbbá a bírságolási eljárás lefolytatására, illetve a hatósági ellenőrzés során foganatosítható intézkedésekre vonatkozó jogszabályi rendelkezésekről.
-
-(10) A jármű visszatartásából eredő kárért az eljáró hatóság felelősséggel nem tartozik.
+(10)
 
 (11) Magyarország területén magyar vagy külföldi rendszámú közúti járművel végzett áru-, illetve személyszállítási tevékenységre az (1) bekezdés szerinti rendelkezések megtartását
 
@@ -144,8 +144,8 @@ jogosult együtt vagy önállóan ellenőrizni. A közúti forgalomban közleked
 
 (14) Az (1) bekezdés k), m) és o) pontja szerinti rendelkezések, valamint a megengedett legnagyobb össztömeget, tengelyterhelést és méretet meghaladó járművek közúti közlekedésére vonatkozó rendelkezések megsértése miatt indult közigazgatási hatósági eljárásokban alkalmazott szankciókat nem kell bejegyezni a Közigazgatási Szankciók Nyilvántartásába.
 
-(15) Amennyiben az eljáró hatóság a közúti ellenőrzés során megállapítja, hogy a jármű vezetőjének, vagy üzemben tartójának közigazgatási bírság tartozása áll fenn, a (7)–(10) bekezdésekben foglaltak szerint kell eljárni.
+(15) Amennyiben az eljáró hatóság a közúti ellenőrzés során megállapítja, hogy a jármű vezetőjének, vagy üzemben tartójának közigazgatási bírság tartozása áll fenn, a (7) bekezdésben, valamint a 44. § (9)–(12) bekezdésében foglaltak szerint kell eljárni.
 
-(16) Ha az ellenőrzésre jogosult hatóság a közúti ellenőrzés során megállapítja, hogy a 21. § (1) bekezdés d), h) vagy i) pontjában meghatározott rendelkezés megszegése miatt közigazgatási eljárás még nem indult, vagy a megindított közigazgatási eljárásban az üzembentartó személye még nem került megállapításra, úgy – tekintet nélkül a szabályszegés elkövetési helyére – a (7)–(10) bekezdésben foglaltak szerint kell eljárnia.
+(16) Ha az ellenőrzésre jogosult hatóság a közúti ellenőrzés során megállapítja, hogy a 21. § (1) bekezdés d), h) vagy i) pontjában meghatározott rendelkezés megszegése miatt közigazgatási eljárás még nem indult, vagy a megindított közigazgatási eljárásban az üzembentartó személye még nem került megállapításra, úgy – tekintet nélkül a szabályszegés elkövetési helyére – a (7) bekezdésben, valamint a 44. § (9)–(12) bekezdésében foglaltak szerint kell eljárnia.
 
 (17) Az eljáró hatóság az (1) bekezdés d) és h) pontjában meghatározott előírások megszegői által a jogsértés elkövetéséhez használt vagy arra alkalmas, megtévesztésre szolgáló eszközt – ide nem értve a járművet – elkobozza.

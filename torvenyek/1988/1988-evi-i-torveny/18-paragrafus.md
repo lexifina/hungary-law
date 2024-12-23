@@ -6,7 +6,7 @@
 
 (2b) A (2) és (8) bekezdéstől eltérően a középiskolában és szakképző intézményben (a továbbiakban együtt: középiskola) járművezető (a továbbiakban: középiskolás járművezető) tanfolyami képzését törvényben, valamint a Kormány rendeletében meghatározottak szerint a középiskolás járművezető tanulói jogviszonya szerinti középiskola vagy a szakképző intézmény – a közlekedési hatóság engedélye nélkül – is végezheti.
 
-(3) A közúti közlekedési szakember tevékenységét akkor folytathatja, ha a közúti közlekedési szakemberek képzésére, vizsgáztatására, valamint a tevékenységének végzésére vonatkozó rendeletekben előírt ismereteket – a vizsgakövetelmények teljesítésével igazoltan – megszerezte és az időszakos szakirányú kötelező továbbképzésen részt vett és vizsgakötelezettségének eleget tett.
+(3) A közúti közlekedési szakember tevékenységét akkor folytathatja, ha a közúti közlekedési szakemberek képzésére, vizsgáztatására, valamint a tevékenységének végzésére vonatkozó rendeletekben előírt ismereteket – a vizsgakövetelmények teljesítésével igazoltan – megszerezte és az időszakos szakirányú kötelező továbbképzést teljesítette.
 
 (4) Utánképzésen kell részt vennie annak a járművezetőnek
 

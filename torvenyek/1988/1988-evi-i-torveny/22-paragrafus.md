@@ -2,7 +2,7 @@
 
 22. § (1) Belföldi üzemben tartás céljából olyan típusú jármű gyártható vagy hozható be külföldről, amelyre a közlekedési hatóság típusjóváhagyás keretében típusvizsgálat alapján típusbizonyítványt, valamint a külföldön kiadott típusjóváhagyó okmány honosításával általános forgalomba helyezési engedélyt adott ki. Egyedi jármű vagy járműsorozat behozatala esetén a közlekedési hatóság a típusvizsgálattól és a típusbizonyítvány kiadásától eltekinthet.
 
-(2) A típusvizsgálat során azt kell ellenőrizni, hogy a járműtípus megfelel-e a jogszabályban meghatározott műszaki, közlekedésbiztonsági, környezetvédelmi és munkavédelmi követelményeknek.
+(2) A hatóság a típusvizsgálat során azt ellenőrzi, hogy a járműtípus megfelel-e jogszabályban meghatározott műszaki, közlekedésbiztonsági, környezetvédelmi és munkavédelmi követelményeknek, valamint a vonatkozó járműműszaki előírásoknak.
 
 (3) Jármű egyedi előállításához (összeépítéséhez), átalakításához, forgalomba helyezéséhez a közlekedési hatóság előzetes engedélye szükséges.
 

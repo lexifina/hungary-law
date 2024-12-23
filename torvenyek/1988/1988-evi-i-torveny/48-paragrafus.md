@@ -150,7 +150,7 @@ b) a miniszter, hogy
 
 12. a közúti járművek műszaki vizsgáztatásával kapcsolatos szabályokat,
 
-13.
+13. a 24/C. § szerinti járműműszaki előírások kidolgozását végző szakértői testület létrehozására, összetételére, feladatkörére és működésére vonatkozó részletes szabályokat,
 
 14. a járműfenntartó tevékenység végzésének feltételeit, a szükséges eszközöket, berendezéseket és alkalmazott technológiákat, illetve a járműjavításhoz felhasznált alkatrészekre, felszerelésekre, tartozékokra, tüzelő- és kenőanyagokra vonatkozó minőségi követelményeket,
 
@@ -160,7 +160,7 @@ b) a miniszter, hogy
 
 17. az útépítési kivitelezési tevékenység szabályait,
 
-18. a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának részletes szabályait,
+18. a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának, valamint a középiskolában és szakképző intézményben folytatott járművezetői képzésnek és vizsgáztatásnak a részletes szabályait,
 
 19. a közúti közlekedésben használt menetíró készülékekről, a közúti közlekedésben használt menetíró készülékekről szóló 3821/85/EGK tanácsi rendelet hatályon kívül helyezéséről és a közúti szállításra vonatkozó egyes szociális jogszabályok összehangolásáról szóló 561/2006/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2014. február 4-i 165/2014/EU európai parlamenti és tanácsi rendeletben foglaltak végrehajtási szabályait,
 
@@ -178,7 +178,7 @@ b) a miniszter, hogy
 
 26. a 21. § (3) bekezdése szerinti eszközre vonatkozó követelményeket,
 
-27. a meghatározott össztömeget, tengelyterhelést és méretet, továbbá össztömeg-korlátozást meghaladó járművek közúti közlekedéséről, a közútkezelői feladatokról, a díjfizetés, valamint a szakkíséret és kíséret személyi és tárgyi feltételeiről szóló szabályokat,
+27. a meghatározott össztömeget, tengelyterhelést és méretet, továbbá össztömeg-korlátozást meghaladó járművek közúti közlekedéséről, a közútkezelői feladatokról, a díjfizetés, a szakkíséret és kíséret személyi és tárgyi feltételeiről szóló, valamint az össztömeg és tengelysúlyméréssel összefüggő közlekedési szabályokat,
 
 28. az út és műtárgyai tervezésére, építésére, valamint a forgalom biztonságát és forgalmi rendjét meghatározó technikai eszközökre, továbbá az utak kezelésére vonatkozó, a közlekedésbiztonságot és a létesítményeket érintő alapvető követelményeket,
 

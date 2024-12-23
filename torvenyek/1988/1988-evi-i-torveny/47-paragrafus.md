@@ -16,9 +16,9 @@
 
 8. közforgalom elől elzárt magánút: a sorompóval, kapuval vagy más fizikai eszközzel lezárt, vagy „Mindkét irányból behajtani tilos” jelzőtáblával és a „magánút” feliratot tartalmazó kiegészítő táblával jelzett út, amely az ingatlan-nyilvántartásban közforgalom elől elzárt magánútként van bejegyezve;
 
-9. az út műtárgya: a híd, a pontonhíd, a hajóhíd, a felüljáró, az áteresz, az alagút, az aluljáró, a támfal, a bélésfal, az út víztelenítését szolgáló árok, csatorna vagy más vízelvezető létesítmény; a két méternél nagyobb nyílású áthidaló műtárgy: híd, a két méternél kisebb nyílású áthidaló műtárgy: áteresz;
+9. az út műtárgya: a híd, a pontonhíd, a hajóhíd, a felüljáró, az áteresz, az alagút, az aluljáró, a támfal, a bélésfal, az út víztelenítését szolgáló árok, csatorna vagy más vízelvezető létesítmény; a két méternél nagyobb nyílású áthidaló műtárgy: híd, a kétméteres vagy annál kisebb nyílású áthidaló műtárgy: áteresz;
 
-10. az út tartozéka: a várakozóhely, pihenőhely, a vezetőoszlop, a korlát, az útfenntartási és közlekedésbiztonsági célokat szolgáló műszaki és egyéb létesítmény, berendezés (így különösen jelzőtábla, jelzőlámpa, segélykérő telefon, parkolójegy-kiadó automata, sorompó) – a Komplex Közlekedési Ellenőrző Pont kivételével –, a zajárnyékoló fal és töltés, hóvédő erdősáv, fasor vagy cserjesáv (védelmi rendeltetésű erdő), valamint a közút határától számított két méter távolságon belül ültetett fa – az összefüggő üzemi gyümölcsöshöz tartozó fák kivételével, az út üzemeltetéséhez szükséges elektronikus hírközlő eszközök és hálózatok;
+10. az út tartozéka: a várakozóhely, pihenőhely, a vezetőoszlop, a korlát, az útfenntartási és közlekedésbiztonsági célokat szolgáló műszaki és egyéb létesítmény, berendezés (így különösen jelzőtábla, jelzőlámpa, segélykérő telefon, parkolójegy-kiadó automata, sorompó) – a Komplex Közlekedési Ellenőrző Pont kivételével –, a zajárnyékoló fal és töltés, hóvédő erdősáv, fasor vagy cserjesáv (védelmi rendeltetésű erdő), valamint az út területén belül ültetett fa – az összefüggő üzemi gyümölcsöshöz tartozó fák kivételével, az út üzemeltetéséhez szükséges elektronikus hírközlő eszközök és hálózatok;
 
 11. közúthálózat: az országos közutak és a helyi közutak összefüggő rendszere;
 

@@ -23,3 +23,7 @@ személyes és egészségi állapotra, kóros szenvedélyre vonatkozó különle
 (7) A képző szerv a 18. § (8a) bekezdése szerinti vizsgára bocsátással összefüggő feladatai céljából adatkezelési jogosultsággal rendelkezik a közúti közlekedési szakemberek és a közúti járművezetők személyes adataira – név, születési név, anyja neve, születési hely, idő – vonatkozóan. A képző szerv az adatokat az átvétel időpontjától számított 5 évig kezeli.
 
 (8) A személyiadat- és lakcímnyilvántartást kezelő szerv a vizsgaközpont adatkérése alapján, a közúti járművezetők tanfolyami és a közúti közlekedési szakemberek szaktanfolyami képzésén, továbbképzésén, a pályaalkalmassági vizsgálaton és utánképzésén résztvevő, illetve ehhez kapcsolódóan vizsgára vagy vizsgálatra jelentkező adatainak ellenőrzése céljából díjmentesen átadja a résztvevők, valamint jelentkezők természetes személyazonosító adatait.
+
+(9) A 18. § (8e) bekezdése szerinti adatokat adatszolgáltatási kötelezettség teljesítése és ellenőrzése érdekében az ott megjelölt szervek az átvétel időpontjától számított 5 évig kezelik.
+
+(10) A középiskolát a középiskolai tanfolyam és vizsga ellátásával összefüggésben történő adatkezelése tekintetében képző szervnek és vizsgaközpontnak kell tekinteni. A középiskola az általa kezelt adatokat – személyazonosításra alkalmatlanná tett módon – statisztikai célokra felhasználhatja, azokból statisztikai célra adatot szolgáltathat.
