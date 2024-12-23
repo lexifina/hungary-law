@@ -12,13 +12,9 @@
 
 ## 4. A Kormány egyetért azzal, hogy az 1. pont szerinti elővárosi vasúti fejlesztések érdekében a Soroksár–Kunszentmiklós-Tass vonalszakaszon – az eddigi terveken felül – legalább további 240 darabbal növelni kell a P+R parkolók és további legalább 300 darabbal a B+R kerékpártárolók számát, valamint fokozottan gondoskodni kell az állomási előterek esztétikus kialakításáról.
 
-## 5. A Kormány egyetért azzal, hogy az 1. melléklet I. pontja szerinti társadalmi igények megvalósítására a pályaépítés során a Déli szakasz engedélyeztetésére, tervezésére és kivitelezésére kötött Szerződéses Megállapodás és annak mellékletét képező Szerződéses Feltételek (EPC Szerződés) teljesítésének végrehajtásához rendelkezésre álló forrás terhére kerüljön sor.
+## 5.[^1] egyetért azzal, hogy az 1. melléklet I. pontjában foglaltak megvalósítására a pályaépítés során a Déli szakasz engedélyeztetésére, tervezésére és kivitelezésére kötött Szerződéses Megállapodás és annak mellékletét képező Szerződéses Feltételek (EPC I. Szerződés) módosításának keretében, többletforrás biztosítása mellett kerüljön sor.
 
-## 6. A Kormány felhívja az innovációért és technológiáért felelős minisztert, hogy készítsen előterjesztést a Kormány számára az 5. pont szerinti EPC Szerződés terhére felhasznált források visszapótlásáról.
-
-## Felelős: innovációért és technológiáért felelős miniszter
-
-## Határidő: 2022. november 30.
+## 6.[^2]
 
 ## 7. A Kormány egyetért az 1. melléklet II. és III. pontja szerinti társadalmi igények és szakhatósági előírások előkészítésének központi költségvetési forrásból történő finanszírozásával, és felhívja az innovációért és technológiáért felelős minisztert és a Miniszterelnökséget vezető minisztert, hogy a tervek rendelkezésre állását követően a kijelölt beruházók útján folytassák le a feltételes kivitelezési közbeszerzési eljárásokat, és készítsenek előterjesztést a Kormány részére azok finanszírozásáról és megvalósításáról.
 
@@ -36,9 +32,9 @@
 
 ## Határidő: a felmerülés ütemében
 
-## 9.[^1]
+## 9.[^3]
 
-## 10.[^2] A Kormány felhívja a pénzügyminisztert, hogy – az építési és közlekedési miniszter bevonásával – gondoskodjon a Projekt megvalósítása érdekében a 2024–2028. években az 1. melléklet II. pontjában foglalt táblázat 1–6. sorában meghatározott fejlesztések előkészítéséhez szükséges forrás biztosításáról a központi költségvetés állami közútfejlesztési beruházások finanszírozását szolgáló központi kezelésű előirányzata javára, az alábbiak szerint:
+## 10.[^4] A Kormány felhívja a pénzügyminisztert, hogy – az építési és közlekedési miniszter bevonásával – gondoskodjon a Projekt megvalósítása érdekében a 2024–2028. években az 1. melléklet II. pontjában foglalt táblázat 1–6. sorában meghatározott fejlesztések előkészítéséhez szükséges forrás biztosításáról a központi költségvetés állami közútfejlesztési beruházások finanszírozását szolgáló központi kezelésű előirányzata javára, az alábbiak szerint:
 
 ## a) a 2024. évben 4 000 000 forint,
 
@@ -88,63 +84,53 @@
 
 ## Határidő: a forrás rendelkezésre állását követően azonnal
 
-## 16.[^3] A Kormány egyetért azzal, hogy a 8. és 11. pont kapcsán a 2024. évben központi költségvetési forrás biztosítása nem szükséges.
+## 16.[^5] A Kormány egyetért azzal, hogy a 8. és 11. pont kapcsán a 2024. évben központi költségvetési forrás biztosítása nem szükséges.
 
 1. melléklet az 1213/2022. (IV. 5.) Korm. határozathoz
 
 A Budapest–Belgrád vasútvonal újjáépítési beruházás engedélyezési eljárása során felmerült települési igények
 
-I. A pályaépítés során a Déli szakasz tervezésére és kivitelezésére kötött Szerződéses Megállapodás és mellékletét képező Szerződéses Feltételek (EPC Szerződés) tartalékkeretének terhére megvalósítandó fejlesztések
+I.[^6] A pályaépítés során a Déli szakasz tervezésére és kivitelezésre kötött Szerződéses Megállapodás és mellékletét képező Szerződéses Feltételek (EPC I. Szerződés) módosítása keretében, többletforrás biztosítása mellett megvalósítandó fejlesztések
 
-| Sorszám | Támogatott fejlesztések |
+|  | A |
 
-| 1.[^4] |  |
+| 1. | Támogatott fejlesztések |
 
-| 2. | Dunaharaszti településen kerékpáros-gyalogos aluljáró 156-os szelvényben |
+| 2. | Dunaharaszti településen gyalogos aluljáró építése a 156-os szelvényben |
 
-| 3.[^5] | Dunaharaszti településen a Temető úti közúti aluljáró tervezése |
+| 3. | Dunavarsány településen útátjáró kiegészítése gyalogos-kerékpáros átjáróval és felálló sávokkal (Szabadkai útnál) |
 
-| 4. | Dunavarsány településen útátjáró kiegészítése gyalogos-kerékpáros átjáróval és felálló sávokkal (Szabadkai útnál) |
+| 4. | Dunavarsány megállóhely gyalogos peronaluljáró kiépítése |
 
-| 5. | Dunavarsány településen gyalogos-kerékpáros aluljáró építése a peronnál |
+| 5. | Délegyháza településen a peronaluljáró meghosszabbítása, továbbá ivóvízhez kút fúrása, valamint nyomott szennyvízvezeték kiépítése (1000 m hosszban) |
 
-| 6. | Dunavarsány településen Halász Lajosné úti átjáró kapacitás növelése plusz sáv építésével |
+| 6. | Kiskunhalas településen útátjárók kiegészítése gyalogos átvezetéssel Kéve és az Átlós utcánál |
 
-| 7. | Délegyháza településen a peronaluljáró meghosszabbítása |
-
-| 8. | Kiskunhalas településen útátjárók kiegészítése gyalogos átvezetéssel Kéve és az Átlós utcánál |
-
-| 9. | Kiskunhalas településen gyalogos felüljáró átalakítása |
-
-| 10. | Soltvadkert településen kerékpáros átvezetés kialakítása az útátjárónál |
-
-| 11.[^6] | Kiskunhalas település logisztikai központjához kiszolgálás kialakítása a kiágazásig (vasúti kapcsolat kiépítése a logisztikai központtal) |
-
-| 12.[^7] | A vonal menti települési többletigények zajvédelme (Dunaharaszti, Taksony, Kelebia) |
+| 7. | Soltvadkert településen különszintű kerékpáros átvezetés kialakítása a megszüntetésre került közúti útátjáró helyén. |
 
 II. A pályaépítéshez közvetlenül nem kötődő, költségvetési forrásból megvalósítandó fejlesztések
 
 | Sorszám | Támogatott fejlesztések | Beruházó |
 
-| 1.[^8] |  |  |
+| 1.[^7] |  |  |
 
-| 2.[^9] | Dunavarsány településen összekötő utak építése: 51. és 5202. számú utak összekötése különszintű vasúti átvezetéssel Dunavarsány és Délegyháza határán, valamint Dunavarsány északi bekötő út tervezése | ÉKM |
+| 2.[^8] | Dunavarsány településen összekötő utak építése: 51. és 5202. számú utak összekötése különszintű vasúti átvezetéssel Dunavarsány és Délegyháza határán, valamint Dunavarsány északi bekötő út tervezése | ÉKM |
 
-| 3.[^10] | Kiskunlacháza településen északi elkerülő út tervezése | ÉKM |
+| 3.[^9] | Kiskunlacháza településen északi elkerülő út tervezése | ÉKM |
 
-| 4.[^11] | Tompa településen további parkolók tervezése (10 db P+R és 20 db B+R) | ÉKM |
+| 4.[^10] | Tompa településen további parkolók tervezése (10 db P+R és 20 db B+R) | ÉKM |
 
-| 5.[^12] | Soltvadkert megállóhelynél buszforduló tervezése | ÉKM |
+| 5.[^11] | Soltvadkert megállóhelynél buszforduló tervezése | ÉKM |
 
-| 6.[^13] | Kelebia településen komplex különszintű átvezetés tervezése | ÉKM |
+| 6.[^12] | Kelebia településen komplex különszintű átvezetés tervezése | ÉKM |
 
-| 7.[^14] |  |  |
+| 7.[^13] |  |  |
 
 | 8. | Élőhelyrekonstrukció | MÁV Zrt. |
 
 | 9. | Kelebia állomás határrendészeti feladataihoz infrastruktúra kialakítása | MÁV Zrt. |
 
-| 10.[^15] | Katonai rakodók megvalósítása (Kiskunlacháza és Szabadszállás vasútállomásokon) | MÁV Zrt. |
+| 10.[^14] | Katonai rakodók megvalósítása (Kiskunlacháza és Szabadszállás vasútállomásokon) | MÁV Zrt. |
 
 III. A pályaépítéshez közvetlenül nem kötődő, költségvetési forrásból megvalósítandó, a BFK Nonprofit Zrt. feladataihoz kapcsolódó budapesti és elővárosi fejlesztések
 
@@ -168,7 +154,7 @@ III. A pályaépítéshez közvetlenül nem kötődő, költségvetési forrásb
 
 | 9. | Kunszentmiklós-Tass – állomási előtér rendezése, összesen 40 db P+R és 20 db B+R kialakítása |
 
-IV.[^16] A Projekttel összefüggésben felmerülő MÁV Zrt. által elvégzendő feladatok
+IV.[^15] A Projekttel összefüggésben felmerülő MÁV Zrt. által elvégzendő feladatok
 
 | Sorszám | Elvégzendő feladatok |
 
@@ -182,22 +168,21 @@ IV.[^16] A Projekttel összefüggésben felmerülő MÁV Zrt. által elvégzend�
 
 | 5. | Budapest–Belgrád vasútfejlesztés projekt Ferencváros (Soroksári úti állomás) – Soroksár állomás szakaszával kapcsolatban a kisajátítási eljárás kezdeményezése és kapcsolódó feladatok |
 
-V.[^17] Budapest–Belgrád vasútvonal fejlesztésétől műszakilag elválasztható MÁV Zrt. által elvégzendő feladatok
+V.[^16] Budapest–Belgrád vasútvonal fejlesztésétől műszakilag elválasztható MÁV Zrt. által elvégzendő feladatok
 
-[^1]: A 9. pontot az 1190/2024. (VI. 28.) Korm. határozat 6. pont b) alpontja visszavonta.
-[^2]: A 10. pont az 1190/2024. (VI. 28.) Korm. határozat 2. pontjával megállapított szöveg.
-[^3]: A 16. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 1291/2024. (IX. 19.) Korm. határozat 102. pontja iktatta be.
-[^4]: Az 1. melléklet I. pontjában foglalt táblázat 1. sorát az 1090/2023. (III. 16.) Korm. határozat 2. pontja visszavonta.
-[^5]: Az 1. melléklet I. pontjában foglalt táblázat 3. sora az 1090/2023. (III. 16.) Korm. határozat 3. pontja szerint módosított szöveg.
-[^6]: Az 1. melléklet I. pontjában foglalt táblázat 11. sorát az 1090/2023. (III. 16.) Korm. határozat 6. pontja iktatta be.
-[^7]: Az 1. melléklet I. pontjában foglalt táblázat 12. sorát az 1090/2023. (III. 16.) Korm. határozat 6. pontja iktatta be.
-[^8]: Az 1. melléklet II. pontjában foglalt táblázat 1. sorát az 1090/2023. (III. 16.) Korm. határozat 2. pontja visszavonta.
-[^9]: Az 1. melléklet II. pontjában foglalt táblázat 2. sora az 1090/2023. (III. 16.) Korm. határozat 4. és 5. pontja szerint módosított szöveg.
-[^10]: Az 1. melléklet II. pontjában foglalt táblázat 3. sora az 1090/2023. (III. 16.) Korm. határozat 3. és 5. pontja szerint módosított szöveg.
-[^11]: Az 1. melléklet II. pontjában foglalt táblázat 4. sora az 1090/2023. (III. 16.) Korm. határozat 3. és 5. pontja szerint módosított szöveg.
-[^12]: Az 1. melléklet II. pontjában foglalt táblázat 5. sora az 1090/2023. (III. 16.) Korm. határozat 3. és 5. pontja szerint módosított szöveg.
-[^13]: Az 1. melléklet II. pontjában foglalt táblázat 6. sora az 1090/2023. (III. 16.) Korm. határozat 3. és 5. pontja szerint módosított szöveg.
-[^14]: Az 1. melléklet II. pontjában foglalt táblázat 7. sorát az 1090/2023. (III. 16.) Korm. határozat 2. pontja visszavonta.
-[^15]: Az 1. melléklet II. pontjában foglalt táblázat 10. sorát az 1090/2023. (III. 16.) Korm. határozat 7. pontja iktatta be.
-[^16]: Az 1. melléklet IV. pontját az 1090/2023. (III. 16.) Korm. határozat 8. pontja iktatta be.
-[^17]: Az 1. melléklet V. pontját az 1090/2023. (III. 16.) Korm. határozat 8. pontja iktatta be.
+[^1]: Az 5. pont az 1428/2024. (XII. 23.) Korm. határozat 2. pontjával megállapított szöveg.
+[^2]: A 6. pontot az 1428/2024. (XII. 23.) Korm. határozat 4. pontja visszavonta.
+[^3]: A 9. pontot az 1190/2024. (VI. 28.) Korm. határozat 6. pont b) alpontja visszavonta.
+[^4]: A 10. pont az 1190/2024. (VI. 28.) Korm. határozat 2. pontjával megállapított szöveg.
+[^5]: A 16. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 1291/2024. (IX. 19.) Korm. határozat 102. pontja iktatta be.
+[^6]: Az 1. melléklet I. pontja az 1428/2024. (XII. 23.) Korm. határozat 3. pontjával megállapított szöveg.
+[^7]: Az 1. melléklet II. pontjában foglalt táblázat 1. sorát az 1090/2023. (III. 16.) Korm. határozat 2. pontja visszavonta.
+[^8]: Az 1. melléklet II. pontjában foglalt táblázat 2. sora az 1090/2023. (III. 16.) Korm. határozat 4. és 5. pontja szerint módosított szöveg.
+[^9]: Az 1. melléklet II. pontjában foglalt táblázat 3. sora az 1090/2023. (III. 16.) Korm. határozat 3. és 5. pontja szerint módosított szöveg.
+[^10]: Az 1. melléklet II. pontjában foglalt táblázat 4. sora az 1090/2023. (III. 16.) Korm. határozat 3. és 5. pontja szerint módosított szöveg.
+[^11]: Az 1. melléklet II. pontjában foglalt táblázat 5. sora az 1090/2023. (III. 16.) Korm. határozat 3. és 5. pontja szerint módosított szöveg.
+[^12]: Az 1. melléklet II. pontjában foglalt táblázat 6. sora az 1090/2023. (III. 16.) Korm. határozat 3. és 5. pontja szerint módosított szöveg.
+[^13]: Az 1. melléklet II. pontjában foglalt táblázat 7. sorát az 1090/2023. (III. 16.) Korm. határozat 2. pontja visszavonta.
+[^14]: Az 1. melléklet II. pontjában foglalt táblázat 10. sorát az 1090/2023. (III. 16.) Korm. határozat 7. pontja iktatta be.
+[^15]: Az 1. melléklet IV. pontját az 1090/2023. (III. 16.) Korm. határozat 8. pontja iktatta be.
+[^16]: Az 1. melléklet V. pontját az 1090/2023. (III. 16.) Korm. határozat 8. pontja iktatta be.
