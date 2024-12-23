@@ -6,8 +6,8 @@ a) a vasúti forgalom operatív lebonyolításával összefüggő folyamatokat a
 
 b) a vasúti közlekedés biztonságával összefüggő vasúti társasági előírásokat a vasúti társaság
 
-a biztonságirányítási rendszerébe illeszkedő szabályzatokban, utasításokban (a továbbiakban: hálózati forgalmi és biztonsági szabályzatok, utasítások) állapítja meg.
+a biztonságirányítási rendszerébe illeszkedő szabályzatokban, utasításokban (a továbbiakban: hálózati műszaki, forgalmi és biztonsági szabályzatok, utasítások) állapítja meg.
 
-(3) A hálózati forgalmi és biztonsági szabályzatokat, utasításokat a pályahálózat-működtető és a vasúti társaság a közlekedési hatóságnak jóváhagyásra megküldi.
+(3) A hálózati műszaki, forgalmi és biztonsági szabályzatokat, utasításokat a pályahálózat-működtető és a vasúti társaság a közlekedési hatóságnak jóváhagyásra megküldi.
 
-(4) A hálózati forgalmi és biztonsági szabályzatokat, utasításokat a közlekedési hatóság a jóváhagyás során a vasútüzemi működés körében alkalmazandó jogszabályoknak, a vasúti műszaki előírásoknak való megfelelőség, valamint a vasúti közlekedés biztonságára gyakorolt kockázata alapján vizsgálja.
+(4) A hálózati műszaki, forgalmi és biztonsági szabályzatokat, utasításokat a közlekedési hatóság a jóváhagyás során a vasútüzemi működés körében alkalmazandó jogszabályoknak, a vasúti műszaki előírásoknak való megfelelőség, valamint a vasúti közlekedés biztonságára gyakorolt kockázata alapján vizsgálja.

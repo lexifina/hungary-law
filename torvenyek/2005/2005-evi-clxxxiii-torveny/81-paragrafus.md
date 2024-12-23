@@ -80,7 +80,7 @@ b) a veszélyes áru feladójával, illetve a veszélyes árut fuvarozó vasúti
 
 a) a vasúti közlekedés biztonságával összefüggő munkakört betöltő munkavállalót a külön jogszabályban meghatározottak szerint határozott időre eltilthatja a munkavégzéstől, valamint a munkakör további betöltését képzés elvégzéséhez és hatósági vizsga letételéhez kötheti,
 
-b) ha az ellenőrzés alá vont vasúti jármű a külön jogszabályokban, valamint a hálózati forgalmi és a biztonsági utasításokban az össztömegre, a tengelyterhelésre és a méretre meghatározott előírásoknak nem tesz eleget, vagy a vasúti közlekedés biztonsága érdekében egyébként indokolt, felszólítja a pályahálózat-működtetőt az érintett vonat továbbközlekedtetésének leállítására,
+b) ha az ellenőrzés alá vont vasúti jármű a külön jogszabályokban, valamint a hálózati műszaki, forgalmi és a biztonsági utasításokban az össztömegre, a tengelyterhelésre és a méretre meghatározott előírásoknak nem tesz eleget, vagy a vasúti közlekedés biztonsága érdekében egyébként indokolt, felszólítja a pályahálózat-működtetőt az érintett vonat továbbközlekedtetésének leállítására,
 
 c) bírságot szabhat ki.
 

@@ -92,9 +92,9 @@ b) fizikai összeköttetésben van más vasúti pályahálózattal, azonban az �
 
 2.20. térségi vasúti pályahálózat: térségi vasúti szolgáltatás végzéséhez szükséges vasúti pályahálózat;
 
-2.21. vasúti pálya: az 1. melléklet 1–6. pontjában felsorolt vasúti pályahálózat elem, valamint a vasúti alépítmény és felépítmény, az utasforgalom és áruszállítás részére rendelkezésre álló útvonalak, beleértve az utasperonokat, rakodóterületeket, beleértve az útvonalba eső az utasok mozgását biztosító szállító, mozgató berendezéseket, mozgólépcsőket, mozgójárdákat, lifteket, gyalogos alul- és felüljárókat, a mozgáskorlátozottak emelésére szolgáló speciális berendezéseket, továbbá a vasúti kocsik rakodását, mozgatását, javítását célzó, a vágányra, vágányba vagy a vágány alá- vagy fölé épített különleges berendezések, különösen rakodó- és ürítőberendezések, ürítőhidak, ürítőgaratok, töltő- és lefejtő berendezések, fordítókorongok, tolópadok, a vasúti járművek javításához, karbantartásához szükséges és egyéb járműmozgató berendezések, vágányfékek, daruk, darupályák, emelőberendezések, járműmérlegek, kocsibuktatók, szállítógépek és berendezések, diagnosztikai és egyéb berendezések, és a mindezek elhelyezésére szolgáló földterületek; ahol
+2.21. vasúti pálya: az 1. melléklet 1–6. pontjában felsorolt vasúti pályahálózat elem, valamint a vasúti alépítmény és felépítmény, az utasforgalom és áruszállítás részére rendelkezésre álló útvonalak, beleértve az utasperonokat, rakodóterületeket, beleértve az útvonalba eső az utasok mozgását biztosító szállító, mozgató berendezéseket, mozgólépcsőket, mozgójárdákat, lifteket, gyalogos és kerékpáros alul- és felüljárókat, a mozgáskorlátozottak emelésére szolgáló speciális berendezéseket, továbbá a vasúti kocsik rakodását, mozgatását, javítását célzó, a vágányra, vágányba vagy a vágány alá- vagy fölé épített különleges berendezések, különösen rakodó- és ürítőberendezések, ürítőhidak, ürítőgaratok, töltő- és lefejtő berendezések, fordítókorongok, tolópadok, a vasúti járművek javításához, karbantartásához szükséges és egyéb járműmozgató berendezések, vágányfékek, daruk, darupályák, emelőberendezések, járműmérlegek, kocsibuktatók, szállítógépek és berendezések, diagnosztikai és egyéb berendezések, és a mindezek elhelyezésére szolgáló földterületek; ahol
 
-2.21.1. vasúti alépítmény: a vasúti felépítmény terhelését elviselő és a talaj felé közvetítő mérnöki létesítmény. Az alépítmény része minden olyan szerkezet, amely a vasúti terhelés viselésében részt vesz, így különösen: töltések, bevágások, nyílásokat áthidaló mérnöki szerkezetek (hidak, átereszek, közúti vagy gyalogos aluljárók), a vasút pálya védelmére épített mérnöki szerkezetek, (alagutak, támfalak, bélésfalak, kőomlás ellen védő műtárgyak), vízelvezetést szolgáló szerkezetek (árkok, szivárgók), valamint a pálya és a környezet védelmét szolgáló szerkezetek (kerítések, tűzvédelmi sávok, hófogó rácsok, zajárnyékoló falak, védelmi céllal telepített növényzet);
+2.21.1. vasúti alépítmény: a vasúti felépítmény terhelését elviselő és a talaj felé közvetítő mérnöki létesítmény. Az alépítmény része minden olyan szerkezet, amely a vasúti terhelés viselésében részt vesz vagy a szerkezet védelmét biztosítja, így különösen: töltések, bevágások, nyílásokat áthidaló mérnöki szerkezetek (hidak, átereszek, közúti vagy gyalogos aluljárók), a vasút pálya védelmére épített mérnöki szerkezetek, (alagutak, támfalak, bélésfalak, kőomlás ellen védő műtárgyak), vízelvezetést szolgáló szerkezetek (árkok, szivárgók), valamint a pálya és a környezet védelmét szolgáló szerkezetek (kerítések, tűzvédelmi sávok, hófogó rácsok, zajárnyékoló falak, védelmi céllal telepített növényzet);
 
 2.21.2. vasúti felépítmény: a vasúti vágány, amely magában foglalja valamennyi, a vasúti jármű kereke által közvetített terhelést viselő, illetve a jármű kerekének vezetését végző, azt elősegítő mérnöki szerkezetet, (beleértve a váltófűtő, sínkenő berendezéseket), valamint a vasúti ágyazat;
 
@@ -266,7 +266,7 @@ d) a vállalkozás különálló részlegekből áll, magában foglal egy pálya
 
 7. A vasúti közlekedés biztonságával kapcsolatos fogalmak:
 
-7.1. biztonsági jelentés: a 2004/49/EK európai parlamenti és tanácsi irányelv 8. cikk (2) és (4) bekezdésében, továbbá 32. cikkében előírt jelentés;
+7.1.
 
 7.2. biztonságirányítási rendszer: a pályahálózat-működtető vagy a vállalkozó vasúti társaság által az üzemeltetés biztonságos irányítására létrehozott irányítási rendszer, beleértve az azt működtető szervezeti egységet és az e szervezeti egység által meghozott intézkedések összességét;
 
@@ -286,7 +286,7 @@ e) a biztonsági célok megvalósításának nemzeti és uniós szintű értéke
 
 f) minden olyan módszer, amely a biztonságirányítási rendszereknek valamely, uniós szinten harmonizálásra szoruló folyamatára vonatkozik;
 
-7.5. könnyű vasút: olyan városi vagy elővárosi vasúti közlekedési rendszer, amely (az EN 15227:2011 alapján) C-III vagy C-IV törésbiztonsággal rendelkezik, és járműveinek szilárdsága legfeljebb 800 kN (hosszirányú nyomóerő a kapcsolási ponton); a könnyű vasúti rendszerek rendelkezhetnek saját pályatesttel, vagy pályatestük lehet a közúttal közös, és járműveik általában nem vesznek részt a távolsági személyszállítási vagy árufuvarozási forgalomban;
+7.5. könnyű vasút: olyan városi vagy elővárosi vasúti közlekedési rendszer, amely (az EN 15227:2020 alapján) C-III vagy C-IV törésbiztonsággal rendelkezik, és járműveinek szilárdsága legfeljebb 800 kN (hosszirányú nyomóerő a kapcsolási ponton); a könnyű vasúti rendszerek rendelkezhetnek saját pályatesttel, vagy pályatestük lehet a közúttal közös, és járműveik általában nem vesznek részt a távolsági személyszállítási vagy árufuvarozási forgalomban;
 
 7.6. berakodó: az a vállalkozás, amely a küldeménydarabos árut, a kiskonténert vagy a mobil tartányt a kocsira vagy a konténerbe rakja, valamint a konténert, ömlesztettáru-konténert, MEG-konténert, tankkonténert vagy mobil tartányt a kocsira rakja;
 

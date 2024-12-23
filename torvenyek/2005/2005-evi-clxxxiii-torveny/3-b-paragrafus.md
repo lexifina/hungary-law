@@ -20,6 +20,8 @@ c) a vonatkozó európai uniós előírásoknak való teljes körű adminisztrá
 
 d) a vasúti rendszert érintő jelentős változtatások által felmerülő kockázatok kezelésének ellenőrzését.
 
+e) a vasúti pályahálózatok minőségi követelményei megvalósulásának és fennállásának ellenőrzését.
+
 (7a) A (7) bekezdés szerinti kijelölt szervezet számára – jogszabályban meghatározott forrásból, a miniszter által vezetett minisztérium igazgatási előirányzata terhére – a miniszter döntése alapján támogatás is nyújtható.
 
 (8) Országos jelentőségű vasútvonalat működtető független pályahálózat-működtető esetében a 67/P. § (3) bekezdésében foglalt feladatokat a Vasúti Pályakapacitás-elosztó Szervezet (a továbbiakban: VPSZ) látja el a díjbeszedés kivételével, amelyet a független pályahálózat-működtető is elláthat.

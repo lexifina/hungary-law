@@ -10,7 +10,7 @@ b) ha a vállalkozó vasúti társaság szolgáltatási területe Magyarország 
 
 c) a vasúti közlekedés biztonságával összefüggő munkakört betöltő munkavállalók képzésére és vizsgáztatására vonatkozó rendelkezések munkavállalók, vállalkozó vasúti társaságok, pályahálózat-működtetők, oktatók, vizsgabiztosok és képzőszervek által történő betartásának rendszeres ellenőrzése, a képzési tevékenység folytatására irányuló bejelentések nyilvántartásba vétele, az alapképzés és az időszakos oktatás rendszeres ellenőrzése, az alapvizsga és az időszakos vizsga alapján a hatósági igazolás kiállítása, továbbá annak rendszeres ellenőrzése, hogy a vasúti közlekedés biztonságával összefüggő tevékenységet végző munkavállaló a jogszabályban előírt alapvizsgával és időszakos vizsgával rendelkezik-e,
 
-d) a vasúti pálya, a vasúti üzemi létesítmények, a vasúti járművek, a vasúti forgalom lebonyolításának, valamint a vasúti közlekedéssel összefüggő tevékenységek ellenőrzése és felügyelete abból a szempontból, hogy azok megfelelnek-e a jogszabályok előírásainak, a hatósági engedélyekben és a hálózati, a forgalmi és a biztonsági szabályzatokban foglaltaknak, továbbá a járművek vagy járműtípusok az alapvető követelményeknek való megfelelőségének ellenőrzése és felügyelete,
+d) a vasúti pálya, a vasúti üzemi létesítmények, a vasúti járművek, a vasúti forgalom lebonyolításának, valamint a vasúti közlekedéssel összefüggő tevékenységek ellenőrzése és felügyelete abból a szempontból, hogy azok megfelelnek-e a jogszabályok előírásainak, a hatósági engedélyekben és a hálózati műszaki, a forgalmi és a biztonsági szabályzatokban foglaltaknak, továbbá a járművek vagy járműtípusok az alapvető követelményeknek való megfelelőségének ellenőrzése és felügyelete,
 
 e) a vasúti járművek és a vasúti járműre szerelt, vasútüzemi célt szolgáló kazánok és nyomástartó edények hatósági jelzésének kiadása,
 
@@ -32,7 +32,7 @@ m) az egészségi alkalmasság megállapítása, valamint a vizsgáló szervezet
 
 n) a képzést és vizsgáztatást, valamint az egészségi alkalmasság vizsgálatát és véleményezését végző személyek nyilvántartásának vezetése,
 
-o) a hálózati forgalmi és a biztonsági szabályzatok jóváhagyása,
+o) a hálózati műszaki, forgalmi és a biztonsági szabályzatok jóváhagyása,
 
 p) együttműködés az Ügynökséggel a forgalombahozatali járműengedélyeknek az (EU) 2016/797 európai parlamenti és tanácsi irányelv 21. cikke (5) bekezdésének megfelelően, vagy jármű-típusengedélyeknek az (EU) 2016/797 európai parlamenti és tanácsi irányelv 24. cikkének megfelelően történő kiállításában, megújításában, módosításában és visszavonásában, az (EU) 2016/798 európai parlamenti és tanácsi irányelv 10. cikk (5) bekezdése szerinti egységes biztonsági tanúsítványok kiállításában, megújításában, módosításában és visszavonásában, az ÁME-k kidolgozásában és felülvizsgálatában, valamint az Ügynökségnek a vasútbiztonság uniós szintű fejlesztésének nyomon követésével kapcsolatos munkájában,
 

@@ -1,0 +1,1 @@
+30/B. § A vasúti műszaki szabályozási feladatokkal összefüggésben a miniszter egyedi támogatói döntése alapján támogatás is nyújtható. A támogatás a miniszter által vezetett minisztérium igazgatás előirányzata terhére is nyújtható.

@@ -42,7 +42,15 @@ c) a vasút területét igénybe vevő, illetve a vasút területén tartózkod�
 
 (5) A vasúti társaság a vasúti közlekedés biztonságával összefüggő feladatkör betöltésére a jogszabály által előírt képesítéssel és szaktudással rendelkező személyt köteles alkalmazni.
 
-(6) A bejelentett szervezet részt vesz a Bizottság által létrehozott bejelentett szervezetek ágazati csoportjában. A pálya menti vagy a fedélzeti ellenőrző-irányító és jelző alrendszerek tekintetében bejelentett szervezet ezen kívül részt vesz az (EU) 2016/796 európai parlamenti és tanácsi rendelet 29. cikkében említett munkacsoport tevékenységében és követi a munkacsoport tevékenysége nyomán kidolgozott iránymutatásokat.
+(6) A bejelentett szervezet
+
+a) részt vesz a Bizottság által létrehozott bejelentett szervezetek ágazati csoportjának tevékenységeiben,
+
+b) az ágazati csoportja tekintetében végzett tevékenységről emlékeztető megküldésével tájékoztatja az értékelést végzőket, és
+
+c) általános útmutatóként alkalmazza az értékelést végzők adminisztratív döntéseit és leiratait.
+
+(6a) A pálya menti vagy a fedélzeti ellenőrző-irányító és jelző alrendszerek tekintetében bejelentett szervezet részt vesz az (EU) 2016/796 európai parlamenti és tanácsi rendelet 29. cikke szerinti munkacsoport tevékenységében és követi a munkacsoport tevékenysége nyomán kidolgozott iránymutatásokat.
 
 (7) A bejelentett szervezet az Ügynökség részre megküldi az alrendszerek EK-hitelesítési tanúsítványait, valamint a kölcsönös átjárhatóságot lehetővé tevő rendszerelemek EK-megfelelőségi tanúsítványait és EK-alkalmazhatósági tanúsítványait.
 

@@ -2,7 +2,7 @@
 
 (1a) A közlekedési hatóság vasúti pályával és vasúti üzemi létesítménnyel kapcsolatos másodfokú eljárásában nem lehet ügyfél az, aki vagy amely az elsőfokú eljárásban nem tett nyilatkozatot vagy nem nyújtott be kérelmet.
 
-(2) A közlekedési hatóság a 80. § (1) bekezdés a) és b) pontjában meghatározott engedélyezési eljárásokban a hiányosan benyújtott kérelemmel kapcsolatos – a tartalmi és formai követelményekre vonatkozó – részletes hiánypótlási felhívást a kérelem beérkezésétől számított harminc napon belül adja ki. A közlekedési hatóság eljárásaiban két ízben hiánypótlásra hívhatja fel a kérelmezőt.
+(2) A közlekedési hatóság a 80. § (1) bekezdés a) és b) pontjában meghatározott engedélyezési eljárásokban a hiányosan benyújtott kérelemmel kapcsolatos – a tartalmi és formai követelményekre vonatkozó – részletes hiánypótlási felhívást a kérelem beérkezésétől számított harminc napon belül adja ki. A közlekedési hatóság eljárásaiban három ízben hiánypótlásra hívhatja fel a kérelmezőt.
 
 (3) A közlekedési hatóság ügyintézési határideje a kérelemre indult, a 80. § (1) bekezdés a) és b) pontjában meghatározott engedélyezési eljárásokban, és az ellenőrzési eljárásokban két hónap. A vasúti pálya létesítésével, korszerűsítésével, átalakításával, használatbavételével, az egységes biztonsági tanúsítvánnyal, a vasútbiztonsági engedéllyel, valamint a vasúti járművek forgalomba hozatalának engedélyezésével, típusengedélyezésével összefüggő hatósági eljárások ügyintézési határideje négy hónap. A vasúti szakhatósági eljárás ügyintézési határideje huszonegy nap.
 

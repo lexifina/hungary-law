@@ -2,11 +2,11 @@
 
 88. § (1) Felhatalmazást kap a Kormány, hogy
 
-1. a vasúti közlekedési hatóság vagy hatóságok, valamint a vasúti igazgatási szerv kijelölését, eljárásuk részletes szabályait, a vasúti igazgatási szervvel kormányzati szolgálati jogviszonyban vagy munkaviszonyban állókra vonatkozó összeférhetetlenségi szabályokat,
+1. a vasúti közlekedési hatóság vagy hatóságok, valamint a vasúti igazgatási szerv kijelölését, eljárásuk részletes szabályait, a vasúti igazgatási szervvel kormányzati szolgálati jogviszonyban vagy munkaviszonyban állókra vonatkozó összeférhetetlenségi szabályokat, valamint az érdekeltségi és kötelezettségvállalási nyilatkozat megtételére vonatkozó szabályokat,
 
 2. a vasúti közlekedés területén a kötelező kárfedezet biztosításának részletes szabályait,
 
-3. a vasúti piacfelügyeleti bírság legmagasabb mértékére, a vasúti bírság mértékére, továbbá a megfizetésükre vonatkozó részletes szabályokat,
+3. a vasúti piacfelügyeleti bírság legmagasabb mértékére, továbbá a megfizetésére vonatkozó részletes szabályokat,
 
 4. a vasúti árufuvarozási szerződésre vonatkozó részletes szabályokat,
 
@@ -116,7 +116,7 @@ rendeletben állapítsa meg.
 
 19. a kölcsönös átjárhatóságot lehetővé tevő műszaki előírásokat,
 
-20. a vasúti forgalom lebonyolítására és a hálózati forgalmi szabályzatokra, valamint azok hatósági jóváhagyására vonatkozó anyagi jogi szabályokat,
+20. a vasúti forgalom lebonyolítására és a hálózati műszaki, forgalmi szabályzatokra, valamint azok hatósági jóváhagyására vonatkozó anyagi jogi szabályokat,
 
 21. a vasúti igazgatási szerv részére fizetendő felügyeleti díj megfizetésének módját és feltételeit tartalmazó anyagi jogi szabályokat,
 

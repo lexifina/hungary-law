@@ -2,6 +2,8 @@
 
 73. § (1) A vasúti igazgatási szerv kormánytisztviselőjének vasúti társasággal és vasúti pályakapacitás-elosztó szervezettel közvetlen vagy közvetett érdekeltsége nem állhat fenn.
 
+(1a) Nem nevezhető ki a vasúti igazgatási szerv kormánytisztviselőjének az a személy, akinek vasúti társasággal vagy vasúti pályakapacitás-elosztó szervezettel közvetlen vagy közvetett érdekeltsége áll fenn.
+
 (2) A vasúti igazgatási szerv kormánytisztviselője részére nem engedélyezhető további munkaviszony vagy munkavégzéssel járó egyéb jogviszony létesítése vasúti társasággal, vasúti pályakapacitás-elosztó szervezettel.
 
 (3) A kormányzati szolgálati jogviszonyt létesíteni szándékozó személy a kinevezést megelőzően, a vasúti igazgatási szerv kormánytisztviselője évente kötelezettségvállalási és érdekeltségi nyilatkozatot tesz, amelyben feltünteti azokat a közvetlen és közvetett érdekeltségeit, amelyek sérthetik függetlenségét és befolyásolhatják bármely feladata teljesítését.
@@ -10,4 +12,4 @@
 
 (5) A vasúti igazgatási szerv kormánytisztviselőjének a felmentésére kizárólag a vasúti igazgatási szerv döntéséhez nem kapcsolódó ok miatt kerülhet sor.
 
-(6) Az (1)–(4) bekezdésben foglaltakkal összefüggő részletes szabályokat a Kormány rendeletben határozza meg.
+(6)
