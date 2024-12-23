@@ -1,0 +1,3 @@
+56. § A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény 67/G. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A transzeurópai hagyományos vasúti rendszer ellenőrző-irányító és jelző alrendszerére vonatkozó kölcsönös átjárhatósági műszaki előírások végrehajtására vonatkozó hatályos bizottsági határozatban meghatározott ERTMS vasúti folyosók esetében különböző hálózat-hozzáférési díjak alkalmazhatók az ETCS fedélzeti berendezéssel, továbbá annak továbbfejlesztett változataival való felszerelésére ösztönzés érdekében. A különböző díjak alkalmazása nem idézhet elő átfogó változást a pályahálózat-működtető bevételében.”

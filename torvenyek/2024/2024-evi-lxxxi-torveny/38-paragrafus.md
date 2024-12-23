@@ -1,0 +1,3 @@
+38. § A víziközlekedésről szóló 2000. évi XLII. törvény 26/B. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) E törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott vizsgát a vizsgaközpont vizsgaszabályzata vagy képzőszervek által rendezett vizsga esetén a hajózási hatóság által kibocsátott vizsgaszabályzat szerint kell lefolytatni. A vizsgán vizsgabiztosként csak olyan személy vehet részt, akinek a tevékenységét a hajózási hatóság engedélyezte, büntetlen előéletű, összeférhetetlenségtől mentes, független és nem áll vizsgabiztosi tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt.”

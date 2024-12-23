@@ -1,0 +1,9 @@
+8. § (1) A közúti közlekedésről szóló 1988. évi I. törvény 29/E. § (2) és (3) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(2) A közműszolgáltató – a közúthálózat fejlesztésének közérdekűségére tekintettel, az útépítés mint közérdekből megvalósítandó beruházás megvalósítása érdekében – az (1) bekezdés szerinti értesítés kézhezvétele után az abban feltüntetett határidőn belül köteles a műszakilag feltétlenül szükséges mértékű közműszakasz kiváltását vagy fejlesztését elvégezni vagy elvégeztetni, amelyre az építtető a körülmények által indokolt mértékű, a közműszolgáltatóval egyeztetett – 30 napnál nem rövidebb, közműszakasz fejlesztés esetén, ha azt jogszabályi és más kötelezettségek lehetővé teszik, maximum 12 hónap – határidőt határoz meg. A közműszolgáltató a véleményét az építtető értesítésének kézhezvételétől számított tíznapos határidőn belül köteles közölni az építtetővel. Az építtető és a közműszolgáltató – a közműszolgáltató véleményének kézhezvételétől számított 30 napon belül – a közműkiváltás vagy -fejlesztés elvégzésére vonatkozóan kötelesek egymással megállapodást kötni.
+
+(3) A közműkiváltás vagy -fejlesztés elvégzésének vagy elvégeztetésének megtagadása esetén az építtető jogosult a közműkiváltást vagy -fejlesztést (beleértve a tervezési munkákat is) a vonatkozó jogszabályok szerinti eljárásban általa kiválasztott, megfelelő szakmai képesítéssel rendelkező vállalkozóval elvégeztetni, amelyet a közműszolgáltató tűrni köteles.”
+
+(2) A közúti közlekedésről szóló 1988. évi I. törvény 29/E. §-a a következő (12) bekezdéssel egészül ki:
+
+„(12) Ha a közúthálózat fejlesztésének végleges nyomvonalával érintett ingatlanon fogyasztói mérőóra került felszerelésre, a fogyasztó ellátását szolgáló közműszakasz bontását és a mérőóra leszerelését a közműszolgáltató köteles az építtető kérelmére 30 napon belül elvégezni, ha a tulajdonosi hozzájárulást rögzítő birtokbavételi jegyzőkönyvet az építtető csatolja.”
