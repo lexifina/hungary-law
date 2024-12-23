@@ -1,6 +1,6 @@
 19. § (1) A nyilvántartásból igényelheti(k):
 
-a) a bíróság, a bírósági végrehajtó, a közjegyző, az ügyészség, a nyomozó hatóság, az előkészítő eljárást folytató szerv, az állami adó- és vámhatóság, a nemzetbiztonsági szolgálatok, a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv, valamint belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a törvényben meghatározott feladataik ellátásához szükséges adatokat, iratokat;
+a) a bíróság, a bírósági végrehajtó, a közjegyző, az ügyészség, a nyomozó hatóság, az előkészítő eljárást folytató szerv, az állami adó- és vámhatóság, a nemzetbiztonsági szolgálat, a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv, valamint belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv és ezek adatfeldolgozója a törvényben meghatározott feladataik ellátásához szükséges adatokat, iratokat;
 
 b) a közúti közlekedési ügyekben, valamint a közúti közlekedési igazgatási ügyekben eljáró hatóságok a jogszabályban meghatározott feladataik ellátásához szükséges adatokat és iratokat;
 
@@ -25,6 +25,8 @@ h) a közterület-felügyelet
 ha) közúti közlekedéssel összefüggő feladatai ellátása céljából a 8. § (1) bekezdés a) pont aa) alpontjában és b) pont ba) alpontjában, a 8/A. § (1) bekezdés a), d), f)–i) és k) pontjában, a 9. § (1) bekezdés a) és b) pontjában, d) pont da) és db) alpontjában, valamint e) pontjában, a 9. § (1a) bekezdésében, a 9. § (2) bekezdés a), b), d) és e) pontjában, valamint a 9. § (4) bekezdésében, a 9/D. § (1) bekezdés a) és b) pontjában, d) pont da) és db) alpontjában, valamint e) pontjában, továbbá a 9/D. § (2) bekezdés a)–c) pontjában és (3) bekezdésében meghatározott adatokat;
 
 hb) a várakozásidíj-fizetési kötelezettség teljesítésének ellenőrzésére, a várakozási díj és a pótdíj beszedésére a várakozási díj meg nem fizetése esetén a jogszerű parkolás megállapítása érdekében a 8/A. § (1) bekezdés g), h) és k) pontjában, valamint a díj és a pótdíj behajtása érdekében a 9. § (1)–(1a) bekezdésében, (2) bekezdés a), b), d) és e) pontjában, továbbá (3) bekezdésében, a 9/D. § (1) bekezdésében, (2) bekezdés a)–c) pontjában és (3) bekezdésében megjelölt adatokat;
+
+hc) közútkezelői feladatainak, valamint a közterület rendjének biztosításával összefüggő feladatainak ellátásához a 8/A. § (1) bekezdés a), d), f)–i) és k) pontjában, a 9. § (1) bekezdés a) és b) pontjában, a 9. § (1) bekezdés d) pont da) és db) alpontjában és a 9. § (1) bekezdés e) pontjában, a 9. § (1a) bekezdésében, a 9. § (2) bekezdés a), b), d) és e) pontjában, a 9. § (4) bekezdésében, valamint a 9/D. § (1) bekezdés a)–c) pontjában, a 9/D. § (1) bekezdés d) pont da) és db) alpontjában és a 9/D. § (1) bekezdés e) pontjában, valamint a 9/D. § (2) bekezdés a)–c) pontjában és a 9/D. § (3) bekezdésében megjelölt adatokat;
 
 i) személyes adatok esetén törvénnyel kihirdetett nemzetközi szerződésben vagy az Európai Unió kötelező jogi aktusának végrehajtását vagy átültetését biztosító törvényben megnevezett külföldi szervezet az e törvényekben meghatározott célból az abban megjelölt adatokat;
 
@@ -87,6 +89,8 @@ g) a vizsgaközpont a pályaalkalmassági, képzési, utánképzési, vizsgázta
 l) a nyilvántartó által megbízott megszemélyesítést végző szervezet a vezetői engedély, törzskönyv és hivatalból kiállításra kerülő forgalmi engedély megszemélyesítéséhez, kiállításához és jogszabályban meghatározott adatok kezeléséhez a nyilvántartásból az okmányra kerülő adatokat ingyenesen.
 
 m) a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény szerinti szolgáltató automatikus információátvétel útján a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 66. §-a szerinti ügyfél-átvilágítás céljából térítésmentesen a 8. § (1) bekezdés ac) és ad) pontjában megjelölt adatokat, valamint az engedély típusát és okmányazonosító jelét.
+
+n) a közlekedési hatóság a digitális tachográf kártya kiadásához a 8. § (1) bekezdés a) pont aj) alpontjában, a 8. § (1) bekezdés b) pont ba)–bc) alpontjában lévő adatokat.
 
 (2a) A nyilvántartásból adatot, iratot igényelhet – a 8. § (1) bekezdés a) pont ac) és ad) alpontjában meghatározott adatok kivételével – a szabálysértési ügyekben eljáró hatóság a szabálysértési eljárás lefolytatásához, továbbá a Kkt. 21. §-a szerinti közigazgatási hatósági ügyekben eljáró hatóság a közigazgatási hatósági eljárás lefolytatásához.
 

@@ -2,6 +2,6 @@
 
 a)
 
-b) a közlekedésrendészetért felelős miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben a nyilvántartásból való adatszolgáltatási díj fizetésére kötelezettek körét, a fizetési kötelezettség mértékét, beszedésének módját, a kedvezmények, mentességek körét;
+b) a személyiadat- és lakcímnyilvántartásért felelős miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben a nyilvántartásból való adatszolgáltatási díj fizetésére kötelezettek körét, a fizetési kötelezettség mértékét, beszedésének módját, a kedvezmények, mentességek körét;
 
-c) a közlekedésrendészetért felelős miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben a közlekedési igazgatási hatósági eljárások díjait, mértékét, megfizetésének módját és feltételeit.
+c) a személyiadat- és lakcímnyilvántartásért felelős miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben a közlekedési igazgatási hatósági eljárások díjait, mértékét, megfizetésének módját és feltételeit.
