@@ -96,7 +96,7 @@ autópálya
 
 |
 
-M0 – Tatabánya (kapacitásbővítés)
+M0 – Hegyeshalom határátkelőhely (kapacitásbővítés)
 
 |
 
