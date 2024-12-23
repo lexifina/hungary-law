@@ -50,6 +50,8 @@ g) a hivatásos katasztrófavédelmi szerv a katasztrófavédelmi, tűzvédelmi 
 
 h) a rendőrség körözött személy vagy tárgy azonosítása érdekében.
 
+i) a közlekedési igazgatási feladatokkal összefüggő hatósági feladatokat ellátó szervek kijelöléséről szóló kormányrendeletben a közúti járműre előírt tömeg- és mérethatárok betartásának ellenőrzésére, valamint a meghatározott engedélyhez és meghatározott okmány meglétéhez kötött nemzetközi közúti közlekedési szolgáltatás ellenőrzésére kijelölt közútkezelő a közúti közlekedésről szóló 1988. évi I. törvény 20. § (11) bekezdés a) pont ab) alpontjában és 20. § (11) bekezdés b) pont bc) alpontjában foglalt hatósági, valamint 33/C. § (1) bekezdésében meghatározott feladatainak ellátása céljából.
+
 (6) Az (5) bekezdésben felsoroltakon kívül az elektronikus ellenőrző rendszerből adatigénylésre jogosult az is, akit a hatáskörébe tartozó feladat ellátása érdekében törvény feljogosít az elektronikus díjellenőrző rendszer adatainak megismerésére.
 
 (7) Az (1) bekezdés c) pontjában meghatározott útdíj-ellenőrzésre jogosult szervezet a díjköteles útszakaszok használatáért fizetendő, megtett úttal arányos útdíjra vonatkozó szabályok helyszíni ellenőrzése alkalmával hatósági ellenőrzés keretében eljárva jogosult:
