@@ -1,4 +1,4 @@
-35. § (1) A beruházás koncepciótervét készítő tervező – amennyiben a miniszter eltérően nem rendelkezik – tervpályázat útján kerül kiválasztásra. A koncepcióterv elkészítésére irányuló tervpályázatot a minisztérium írja ki.
+35. § (1) A beruházás koncepciótervét készítő tervező – amennyiben a miniszter eltérően nem rendelkezik – tervpályázat útján kerül kiválasztásra. A koncepcióterv elkészítésére irányuló tervpályázatot az építtető írja ki.
 
 (2) Tervpályázatot az építtető által jóváhagyott előzetes tervezési program, költségbecslés, beruházási keret alapján lehet kiírni.
 

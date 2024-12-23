@@ -16,11 +16,11 @@ g) vasúti építmény megvalósítására irányuló állami építési beruhá
 
 jelöl ki vagy bíz meg.
 
-(2) Az állami építési beruházás (1) bekezdés a) pontja szerinti résztvevője e törvény eltérő rendelkezése hiányában a minisztériummal munkavégzésre irányuló jogviszonyban álló vagy – a Kormány egyedi döntése alapján – 100%-os állami tulajdonú gazdasági társasággal munkavégzésre irányuló jogviszonyban álló személy lehet.
+(2) Az állami építési beruházás (1) bekezdés a) pontja szerinti résztvevője e törvény eltérő rendelkezése hiányában az építtetővel munkavégzésre irányuló jogviszonyban álló vagy – a Kormány egyedi döntése alapján – 100%-os állami tulajdonú gazdasági társasággal munkavégzésre irányuló jogviszonyban álló személy lehet.
 
 (3) Az állami építési beruházás (1) bekezdés e) pontja szerinti résztvevője e törvény eltérő rendelkezése hiányában költségvetési szervvel vagy 100%-os állami tulajdonú gazdasági társasággal munkavégzésre irányuló jogviszonyban álló személy lehet.
 
-(4) A (2) és (3) bekezdésben foglaltaktól eltérően – ha az építési beruházás gyors lefolytatásához kiemelt nemzeti vagy befektetésösztönzési érdek fűződik – a minisztérium dönthet az (1) bekezdés a) és e) pontja szerinti résztvevők polgári jogi jogviszony keretében történő igénybe vételéről.
+(4) A (2) és (3) bekezdésben foglaltaktól eltérően – ha az építési beruházás gyors lefolytatásához kiemelt nemzeti vagy befektetésösztönzési érdek fűződik – az építtető dönthet az (1) bekezdés a) és e) pontja szerinti résztvevők polgári jogi jogviszony keretében történő igénybe vételéről.
 
 (5) Az állami építési beruházás megvalósítása eredményeként állami tulajdonú ingatlan területén létrejövő építmény üzemeltetésének feltételeit és az üzemeltető kiválasztásának szabályait – ha törvény eltérően nem rendelkezik – a miniszter rendeletben állapítja meg.
 

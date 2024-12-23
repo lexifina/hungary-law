@@ -1,6 +1,6 @@
 36. § (1) A tervező kiválasztására a tervpályázat lezárását követően – amennyiben annak jogszabályi feltételei fennállnak – külön hirdetmény nélküli tárgyalásos közbeszerzési eljárásban kerül sor.
 
-(2) Ha a tervezési szolgáltatások beszerzésére irányuló közbeszerzési eljárás több fajtája is választható, a minisztérium dönthet úgy, hogy az (1) bekezdésben foglaltakkal ellentétben a közbeszerzési eljárás másik, jogszabály által megengedett fajtáját alkalmazza.
+(2) Ha a tervezési szolgáltatások beszerzésére irányuló közbeszerzési eljárás több fajtája is választható, az építtető dönthet úgy, hogy az (1) bekezdésben foglaltakkal ellentétben a közbeszerzési eljárás másik, jogszabály által megengedett fajtáját alkalmazza.
 
 (3) A tervezési szolgáltatások beszerzésére irányuló közbeszerzési eljárás a beruházáshoz szükséges telekingatlan jogi helyzetének a keretprogram által meghatározott rendezését követően vagy az ingatlanügyi hatóság által záradékolt kisajátítási tervek rendelkezésre állása esetén indítható el.
 

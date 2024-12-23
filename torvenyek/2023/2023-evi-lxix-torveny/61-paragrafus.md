@@ -4,6 +4,10 @@
 
 (2) Nem kell előkészítési dokumentációt készíteni azon állami építési beruházások tekintetében, amelyek e törvény hatálybalépése napján végleges építési engedéllyel rendelkeznek.
 
+(2a) Azon beruházások esetében, amelyek előkészítése nem állami építési beruházásként kezdődött meg, az 5. § (1) bekezdés 1. pontjában meghatározott mértékű forrás utólagos bevonására a 7. § (2) bekezdése szerinti előkészítési szakasz lezárását megelőzően van lehetőség.
+
+(2b) A (2a) bekezdés alapján utólagosan biztosított forrás esetén e törvény rendelkezéseit a Kormány forrásbiztosító egyedi döntése meghozatala napját követő tevékenységekre kell alkalmazni.
+
 (3) Az e törvényben foglaltakat nem kell alkalmazni azon építési beruházások tekintetében, amelyben az önkormányzat kedvezményezett részére a költségvetési vagy a nem közvetlen európai uniós forrás nyújtásáról szóló támogatási szerződés vagy támogatói okirat e törvény hatálybalépését megelőzően lépett hatályba.
 
 (4) A 2023. december 31-ig a Kbt. 3. § 23. pontja szerint megkezdettnek minősülő, európai uniós forrás felhasználásával megvalósuló állami építési beruházásokra a 9. alcímet és a 38. §-t nem kell alkalmazni.

@@ -40,7 +40,7 @@
 
 18. a szerződés megszűnésének esetköreit.
 
-(3) A beruházás megvalósítása során a minisztérium kizárólag olyan típusú költségváltozáshoz járulhat hozzá, amely a kivitelezési szerződésben a (2) bekezdésben foglaltak szerint rögzítésre került.
+(3) A beruházás megvalósítása során az építtető kizárólag olyan típusú költségváltozáshoz járulhat hozzá, amely a kivitelezési szerződésben a (2) bekezdésben foglaltak szerint rögzítésre került.
 
 (4) Az ajánlatkérő és az ajánlattevő megállapodhat további egyedi szerződéses feltételekben, amennyiben azok nem ellentétesek a (2) bekezdés rendelkezéseivel vagy nem irányulnak azok megkerülésére.
 

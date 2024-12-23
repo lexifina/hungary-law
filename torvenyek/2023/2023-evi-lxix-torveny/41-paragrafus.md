@@ -1,6 +1,6 @@
 ## 12. A kivitelezési dokumentáció
 
-41. § (1) Építési, létesítési vagy egyéb hatósági engedélyhez kötött beruházás esetén az engedély véglegessé válását követően a minisztérium – ha elfogadja a költségszakértő által aktualizált költségbecslés alapján a beruházás megvalósításának becsült költségeit – felkéri a tervezőt a végleges engedéllyel rendelkező engedélyezési dokumentáción alapuló kivitelezési dokumentáció elkészítésére.
+41. § (1) Építési, létesítési vagy egyéb hatósági engedélyhez kötött beruházás esetén az engedély véglegessé válását követően az építtető – ha elfogadja a költségszakértő által aktualizált költségbecslés alapján a beruházás megvalósításának becsült költségeit – felkéri a tervezőt a végleges engedéllyel rendelkező engedélyezési dokumentáción alapuló kivitelezési dokumentáció elkészítésére.
 
 (2) A kivitelezési dokumentáció részeként a kivitelezők kiválasztása érdekében az engedélyezési dokumentáció alapján összeállított és a munkanemekre vagy modellnemekre bontott, tételes tervezői költségvetést tartalmazó kiviteli tervet kell készíteni, amely alkalmas a pontos, minden részletre kiterjedő kivitelezési ajánlat elkészítésére.
 

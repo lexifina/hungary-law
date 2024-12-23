@@ -20,7 +20,7 @@ f) költségszakértője nem lehet az állami építési beruházás lebonyolít
 
 (4) Nem járhat el az adott állami építési beruházás során az, aki nem felel meg az Építési Beruházási Folyamatok Rendszerében meghatározott követelményeknek.
 
-(5) Az állami építési beruházásban résztvevő köteles a tevékenysége megkezdését megelőzően összeférhetetlenségi nyilatkozatot tenni a miniszter részére.
+(5) Az állami építési beruházásban résztvevő köteles a tevékenysége megkezdését megelőzően összeférhetetlenségi nyilatkozatot tenni az építtető részére.
 
 (6) Az összeférhetetlenségi nyilatkozatot a miniszter mintavételi eljárás alapján és bejelentésre ellenőrzi.
 
@@ -32,4 +32,4 @@ f) költségszakértője nem lehet az állami építési beruházás lebonyolít
 
 (10) Nem járhat el az adott állami építési beruházás során az, aki bejelentette összeférhetetlenségét mindaddig, amíg a miniszter nem állapítja meg, hogy az összeférhetetlenség nem áll fenn vagy megszűnt.
 
-(11) Az összeférhetetlenséggel érintett résztvevőt az adott állami építési beruházásból ki kell zárni, és a miniszter gondoskodik annak a feladatnak a felülvizsgálatáról és megismétléséről, amelyben az összeférhetetlenséggel érintett résztvevő eljárt.
+(11) Az összeférhetetlenséggel érintett résztvevőt az adott állami építési beruházásból ki kell zárni, és az építtető gondoskodik annak a feladatnak a felülvizsgálatáról és megismétléséről, amelyben az összeférhetetlenséggel érintett résztvevő eljárt.
