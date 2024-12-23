@@ -27,3 +27,5 @@
 (11) A vagyonkezelő által a vagyonkezelésében lévő ingatlanon a (4) bekezdés szerinti beruházások előkészítésével és megvalósításával, továbbá üzemeltetésével és fenntartásával összefüggő beruházási és fejlesztési, valamint az ezekkel összefüggő közbeszerzési és beszerzési tevékenység ellátása közérdekű célú fejlesztésnek minősül. A vagyonkezelő mint ajánlatkérő a beruházások előkészítésével, megvalósításával, üzemeltetésével és fenntartásával összefüggő beruházási és fejlesztési, továbbá az ezekkel összefüggő közbeszerzési és beszerzési tevékenysége esetében e törvény, a Kbt., valamint a saját vonatkozó szabályzata szerint köteles eljárni.
 
 (12) A vagyonkezelő mint építtető feladatai elvégzéséhez közreműködőt, valamint beruházás-lebonyolítót vehet igénybe.
+
+(13) A vagyonkezelő ellátja a vagyonkezelésében álló ingatlan díszkivilágításának létesítésével és üzemeltetésével kapcsolatos feladatokat.
