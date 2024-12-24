@@ -1,0 +1,3 @@
+## 17. A H6 HÉV Szigetszentmiklós-Gyártelep – Ráckeve kül- és belterületi szakasza nyomvonalának megállapításáról szóló 304/2022. (VIII. 11.) Korm. rendelet módosítása
+
+36. § A H6 HÉV Szigetszentmiklós-Gyártelep – Ráckeve kül- és belterületi szakasza nyomvonalának megállapításáról szóló 304/2022. (VIII. 11.) Korm. rendelet 3. §-ában a „két” szövegrész helyébe a „hét” szöveg lép.

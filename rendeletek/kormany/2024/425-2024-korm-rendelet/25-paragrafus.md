@@ -1,0 +1,1 @@
+25. § A 181/2017. (VII. 5.) Korm. rendelet 14. § (1) bekezdés b) pontjában az „alapít” szövegrész helyébe az „alapít, továbbá amikor országos, regionális, elővárosi autóbusszal végzett személyszállítási közszolgáltatási tevékenységet végző tanúsító szervezet tekintetében jogutódlás következik be” szöveg lép.
