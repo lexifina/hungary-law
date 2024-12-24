@@ -23,3 +23,5 @@ j) köztisztasági,
 k) kereskedelmi és
 
 l) turisztikai
+
+szempontokra.

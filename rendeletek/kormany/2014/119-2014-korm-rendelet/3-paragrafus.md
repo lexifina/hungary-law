@@ -1,5 +1,3 @@
-## a vagyonkezelővel kötött polgári jogi megállapodás (a továbbiakban: használati szerződés) szükséges.
-
 3. § (1) Nem minősül a kiemelt nemzeti emlékhely nemzeti kulturális értéke megőrzését akadályozó tevékenységnek és nem kell használati szerződést kötni:
 
 a) a kiemelt nemzeti emlékhelyet felkereső személyeknek a kiemelt nemzeti emlékhely idegenforgalmi célra irányuló látogatása esetén,

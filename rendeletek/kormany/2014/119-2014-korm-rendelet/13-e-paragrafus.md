@@ -1,16 +1,14 @@
-## 13/D. §[^20] A vagyonkezelői behajtási, illetve behajtási és várakozási hozzájárulás kiadására az e rendeletben meghatározott használati szerződésre vonatkozó szabályokat kell alkalmazni.
+## 13/D. §[^21] A vagyonkezelői behajtási, illetve behajtási és várakozási hozzájárulás kiadására az e rendeletben meghatározott használati szerződésre vonatkozó szabályokat kell alkalmazni.
 
-13/E. §[^21] (1) A védett várakozási övezet területére – a (3) bekezdésben meghatározott kivétellel – egyszerű közlekedési eszközt használva nem lehet behajtani.
+13/E. §[^22] (1) A védett várakozási övezet területére – a kiemelt nemzeti emlékhely vagyonkezelője által kijelölt és jól látható módon jelzett területének kivételével – egyszerű közlekedési eszközzel nem lehet behajtani, azt nem lehet használni.
 
-(2) A védett várakozási övezet területén egyszerű közlekedési eszközt – a (3) bekezdésben meghatározott kivétellel – nem lehet használni.
-
-(3) Az (1) és (2) bekezdés szerinti korlátozás nem vonatkozik
+(2) Az (1) bekezdés szerinti korlátozás nem vonatkozik
 
 a) a mozgáskorlátozottak közlekedésére szolgáló, emberi erővel tolt vagy hajtott kerekesszékre és az olyan gépi meghajtású kerekesszékre, amely sík úton önerejéből 10 km/óra sebességnél gyorsabban haladni nem képes,
 
-b) a gyermekek szállítására szolgáló eszközre, valamint
+b) a gyermek szállítására szolgáló eszközre, és
 
-c) a gyermekek közlekedését szolgáló játékeszközre.
+c) a 6 év alatti gyermek által használt, a gyermek közlekedését szolgáló játékeszközre.
 
-[^20]: A 13/D. §-t a 447/2016. (XII. 16.) Korm. rendelet 4. §-a iktatta be.
-[^21]: A 13/E. §-t a 270/2019. (XI. 19.) Korm. rendelet 3. §-a iktatta be.
+[^21]: A 13/D. §-t a 447/2016. (XII. 16.) Korm. rendelet 4. §-a iktatta be.
+[^22]: A 13/E. §-t a 270/2019. (XI. 19.) Korm. rendelet 3. §-a iktatta be, szövege a 424/2024. (XII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.

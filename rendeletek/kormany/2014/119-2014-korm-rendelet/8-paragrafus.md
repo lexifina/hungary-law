@@ -1,1 +1,0 @@
-## 7. § A használati szerződés nem pótolja a jogszabályokban előírt egyéb – hatósági, illetve szakhatósági – engedélyeket, bejelentés-köteles tevékenység esetén a bejelentés megtételét, továbbá a Kötv. 61/I. § (4) és (8) bekezdése szerinti előzetes hozzájáruló nyilatkozatot.

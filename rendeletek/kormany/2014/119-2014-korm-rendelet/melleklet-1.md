@@ -1,5 +1,7 @@
 1. melléklet a 119/2014. (IV. 8.) Korm. rendelethez
 
+4K04918_0
+
 |  | A | B | C |
 
 | 1. | Sorszám | Közterület-használat célja | Díjtételek* (az általános forgalmi adót nem tartalmazzák) |
