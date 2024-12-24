@@ -44,31 +44,31 @@ c) tőzsdén kívüli kamatlábügyletek (kamatalapú határidős és swap ügyl
 
 d) egyéb tőzsdén kívüli ügyletek esetében az elismert piacon kialakult, a piaci ár tendenciáját is tükröző árajánlatokkal, illetve az üzleti év során történt értékesítés adataival alátámasztott, az üzleti év végén a piaci értékítéletet megfelelően jellemző árat.
 
-(6) A befektetési alapnak – jellegétől függően – a portfoliójában lévő eszközei közül:
+(6)[^37] A befektetési alapnak – jellegétől függően – a portfoliójában lévő eszközei közül:
 
-a)[^37] a Kbftv.-ben meghatározott gyakorisággal át kell értékelni az értékelés napján érvényes piaci értékre:
+a) a Kbftv.-ben meghatározott gyakorisággal át kell értékelni az értékelés napján érvényes piaci értékre:
 
-(– a bérbeadás céljára vásárolt – tárgyi eszközök között kimutatott – ingatlanokat,
+aa) a bérbeadás céljára vásárolt – tárgyi eszközök között kimutatott – ingatlanokat,
 
-– az eladás céljára vásárolt – készletként kimutatott ingatlanokat (beleértve a vásárolt, fejlesztés alatt álló ingatlanokat is),
+ab) az eladás céljára vásárolt – készletként kimutatott ingatlanokat (beleértve a vásárolt, fejlesztés alatt álló ingatlanokat is),
 
-– az értékpapírokat,
+ac) az értékpapírokat,
 
-– a valutakészletet és a devizabetétet,
+ad) a valutakészletet és a devizabetétet,
 
-– a külföldi pénzértékre szóló követeléseket és kötelezettségeket,
+ae) a külföldi pénzértékre szóló követeléseket és kötelezettségeket,
 
-– a 3 hónapon belüli lejáratú forintköveteléseket és a kölcsönadott értékpapírok miatt fennálló követeléseket,
+af) a 3 hónapon belüli lejáratú forintköveteléseket és a kölcsönadott értékpapírok miatt fennálló követeléseket,
 
-– a származékos ügyleteket;)
+ag) a származékos ügyleteket;
 
 b) a beszerzési (bekerülési) értéken, illetve annak értékvesztéssel csökkentett, visszaírással növelt összegén, a kötelezettségek esetében szerződés szerinti értéken kell kimutatnia:
 
-– a forintban fennálló, három hónapon túli követeléseket, valamint lejárattól függetlenül a kötelezettségeket,
+ba) a forintban fennálló, három hónapon túli követeléseket, valamint lejárattól függetlenül a kötelezettségeket,
 
-– a forint pénzkészletet,
+bb) a forint pénzkészletet,
 
-– az aktív, illetve a passzív időbeli elhatárolást.
+bc) az aktív, illetve a passzív időbeli elhatárolást.
 
 (7)[^38] A három hónapon belüli lejáratú forintkövetelések piaci értékének meghatározásakor figyelembe vehető a követelések – Tv. szerinti – értékelésének általános szempontjain túlmenően a követelések lejárat időpontjáig diszkontált összege. A kölcsönadott értékpapír miatti követelés piaci értékének meghatározásakor a tárgyát képező értékpapír piaci értékét kell alapul venni. Az ilyen követelések után értékvesztés nem számolható el, azok értékeléséből adódó veszteség vagy nyereség jellegű különbözeteket a követelés értékelési különbözeteként kell elszámolni.
 
@@ -100,7 +100,7 @@ b) az adott devizaeszköz, illetve devizakötelezettség értékelési különb�
 [^34]: A 7. § (4) bekezdés nyitó szövegrésze a 480/2016. (XII. 28.) Korm. rendelet 19. § 1. pontja szerint módosított szöveg.
 [^35]: A 7. § (5) bekezdés nyitó szövegrésze a 480/2016. (XII. 28.) Korm. rendelet 19. § 1. pontja szerint módosított szöveg.
 [^36]: A 7. § (5) bekezdés a) pontja a 484/2015. (XII. 29.) Korm. rendelet 19. § 1. pontja szerint módosított szöveg.
-[^37]: A 7. § (6) bekezdés a) pontja a 344/2011. (XII. 29.) Korm. rendelet 33. § (6) bekezdésével megállapított, nyitó szövegrésze a 79/2014. (III. 14.) Korm. rendelet 32. § c) pontja szerint módosított szöveg.
+[^37]: A 7. § (6) bekezdése a 423/2024. (XII. 23.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^38]: A 7. § (7) bekezdés harmadik mondatát a 331/2008. (XII. 30.) Korm. rendelet 23. §-a iktatta be. E módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
 [^39]: A 7. § (9) bekezdése 480/2016. (XII. 28.) Korm. rendelet 19. § 5. pontja és a 20. § 2. pontja szerint módosított szöveg.
 [^40]: A 7. § (13) bekezdését a 331/2008. (XII. 30.) Korm. rendelet 38. § (6) bekezdése hatályon kívül helyezte. A nyílt végű befektetési alapra vonatkozó kötelezettségre lásd e módosító rendelet 40. §-át.
