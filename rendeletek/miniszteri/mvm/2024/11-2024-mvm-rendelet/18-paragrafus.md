@@ -1,0 +1,1 @@
+18. § A nemzetközi vízpolitika és vízdiplomácia mesterképzési szakra a jelentkezés feltétele angol nyelvből államilag elismert, B2 (korábban középfokú), komplex (korábban C típusú) nyelvvizsga-bizonyítvány vagy azzal egyenértékű okirat.

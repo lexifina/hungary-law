@@ -1,0 +1,1 @@
+20. § Az ezen alcímben meghatározott nappali munkarendben folyó alapképzés esetén a jelentkezés feltétele – e rendelet eltérő rendelkezése hiányában – egy olyan nyilatkozat, melyben a hivatásos jogviszonyban nem álló jelentkező hozzájárul a tanulmányok megkezdéséhez szükséges kifogástalan életvitelre vonatkozó ellenőrzés – illetékes szerv által történő – lefolytatásához.

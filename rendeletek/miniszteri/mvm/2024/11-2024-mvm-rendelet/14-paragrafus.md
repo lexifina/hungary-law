@@ -1,0 +1,1 @@
+14. § A nemzetközi biztonság- és védelempolitikai alapképzési szakra a jelentkezés feltétele egy élő idegen nyelvből államilag elismert B2 (korábban középfokú), komplex (korábban C típusú) nyelvvizsga-bizonyítvány vagy azzal egyenértékű okirat.

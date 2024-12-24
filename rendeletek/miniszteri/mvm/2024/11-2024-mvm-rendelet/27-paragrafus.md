@@ -1,0 +1,3 @@
+27. § (1) A rendészeti alapképzési szak nappali munkarendben folyó képzésre jelentkezés feltétele, hogy a jelentkező vállalja a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvényben meghatározott rendvédelmi tisztjelölti jogviszony létesítését és fenntartását a képzés idejére.
+
+(2) A nappali munkarendben folyó képzésre jelentkezővel az Egyetem pályaalkalmassági orientációs beszélgetést folytat le, melynek keretében bizottság vizsgálja a felvételiző pálya iránti elkötelezettségét és alkalmasságát, hogy a jelentkező a rendészeti hivatásra kellően motivált, illetve esetében nincs-e olyan kizáró ok, amely a hivatás gyakorlására alkalmatlanná teszi.

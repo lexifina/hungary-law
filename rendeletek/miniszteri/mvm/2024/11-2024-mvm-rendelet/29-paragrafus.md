@@ -1,0 +1,1 @@
+29. § A biztonsági szervező mesterképzési szakra az jelentkezhet, aki rendelkezik legalább kétéves, a személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló 2005. évi CXXXIII. törvény hatálya alá tartozó szervezetnél, rendvédelmi szervnél vagy önkormányzati rendészeti szervnél szerzett szakmai gyakorlattal.
