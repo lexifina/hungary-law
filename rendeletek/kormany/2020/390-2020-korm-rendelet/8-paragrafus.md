@@ -1,5 +1,3 @@
-## 7. § A kockázatértékelést végző szervezet az elismert értékelési területen, az értékelési tevékenységet előíró jogszabályban vagy az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusában meghatározott előírásoknak megfelelően végzi az értékelési tevékenységeket.
-
 8. § (1) Az értékelési tevékenység elvégzésére irányuló szerződést írásban kell megkötni.
 
 (2) A biztonságértékelési jelentés elkészítésére irányuló szerződésnek tartalmaznia kell egy olyan kikötést, amelynek értelmében a kockázatértékelést végző szervezet a szerződés időtartama alatt jogosult a javaslattevőnél a szerződés tárgyát képező értékelési tevékenységhez szükséges vizsgálatokat és ellenőrzéseket elvégezni.

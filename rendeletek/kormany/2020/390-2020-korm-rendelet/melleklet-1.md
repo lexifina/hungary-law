@@ -2,7 +2,7 @@
 
 1. melléklet a 390/2020. (VIII. 12.) Korm. rendelethez
 
-## A kockázatértékelést végző szervezet kijelölésére irányuló kérelem tartalmi elemei
+A kockázatértékelést végző szervezet kijelölésére irányuló kérelem tartalmi elemei
 
 1. A kérelem tartalmazza a szervezet következő adatait:
 
@@ -60,6 +60,12 @@ c) van-e eljárása a szervezet által kiadott tanúsítványok és tanúsítás
 
 7. A kérelmező nyilatkozik, hogy tanúsító szervezetként megköveteli-e, hogy a gazdasági szereplők tartsanak nyilván minden, a tanúsított termékkel kapcsolatos panaszt és az azok rendezésére tett intézkedéseket.
 
-8. A kérelmező a kérelemben felsorolja, hogy a kijelölés iránti kérelem tárgyát képező tevékenységét az elmúlt öt évben mely szervek, szervezetek értékelték, és csatolja az erről készült dokumentumokat, a kérelmező felsorolja az értékelők neveit és címeit, az értékelt tevékenység fajtáit, az értékelés tárgyát és az okiratok számát, valamint az értékelés időpontját és érvényességét.
+8.[^4] A kérelmező nyilatkozik, hogy bevezeti és követi Európai Vasúti Ügynökségtől (ERA) származó használati ajánlásokat (RFU).
 
-9. A kérelem alján a kijelölést kérelmező szervezet törvényes képviselője nyilatkozik arról, hogy az 1–8. pontban közölt válaszok és adatok a valóságnak megfelelnek, majd a kérelmet a kérelem alján dátummal és aláírásával ellátja.
+9.[^5] A kérelmező a kérelemben felsorolja, hogy a kijelölés iránti kérelem tárgyát képező tevékenységét az elmúlt öt évben mely szervek, szervezetek értékelték, és csatolja az erről készült dokumentumokat, a kérelmező felsorolja az értékelők neveit és címeit, az értékelt tevékenység fajtáit, az értékelés tárgyát és az okiratok számát, valamint az értékelés időpontját és érvényességét.
+
+10.[^6] A kijelölést kérelmező szervezet törvényes képviselője nyilatkozik arról, hogy az 1–9. pontban közölt válaszok és adatok a valóságnak megfelelnek, majd a kérelmet a kérelem alján dátummal és aláírásával ellátja.
+
+[^4]: Az 1. melléklet 8. pontja a 425/2024. (XII. 23.) Korm. rendelet 33. §-ával megállapított szöveg.
+[^5]: Az 1. melléklet 9. pontja a 425/2024. (XII. 23.) Korm. rendelet 33. §-ával megállapított szöveg.
+[^6]: Az 1. melléklet 10. pontját a 425/2024. (XII. 23.) Korm. rendelet 33. §-a iktatta be.
