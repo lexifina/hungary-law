@@ -8,9 +8,12 @@
 
 (2) A 25. § 2013. január 1-jén lép hatályba.
 
-(3)[^67] A 3. § 2029. december 4-én hatályát veszti.
+(2a)[^67] A 9. § (3) bekezdése 2030. június 7-én hatályát veszti.
 
-(4)[^68]
+(3)[^68] A 3. § 2029. december 4-én hatályát veszti.
 
-[^67]: A 24. § (3) bekezdését a (4) bekezdés a) pontja hatályon kívül helyezte, újonnan a 223/2023. (VI. 6.) Korm. rendelet 7. § (1) bekezdése iktatta be.
-[^68]: A 24. § (4) bekezdése ugyanezen bekezdés f) pontja alapján hatályát vesztette.
+(4)[^69]
+
+[^67]: A 24. § (2a) bekezdését a 425/2024. (XII. 23.) Korm. rendelet 15. §-a iktatta be.
+[^68]: A 24. § (3) bekezdését a (4) bekezdés a) pontja hatályon kívül helyezte, újonnan a 223/2023. (VI. 6.) Korm. rendelet 7. § (1) bekezdése iktatta be.
+[^69]: A 24. § (4) bekezdése ugyanezen bekezdés f) pontja alapján hatályát vesztette.
