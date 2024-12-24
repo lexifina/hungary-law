@@ -58,34 +58,15 @@
 
 | Határidő: | azonnal |
 
-## 2. Az 1213/2022. (IV. 5.) Korm. határozat 5. pontja helyébe a következő rendelkezés lép:
+## 2.[^1]
 
-## (A Kormány)
+## 3.[^2]
 
-## „5. egyetért azzal, hogy az 1. melléklet I. pontjában foglaltak megvalósítására a pályaépítés során a Déli szakasz engedélyeztetésére, tervezésére és kivitelezésére kötött Szerződéses Megállapodás és annak mellékletét képező Szerződéses Feltételek (EPC I. Szerződés) módosításának keretében, többletforrás biztosítása mellett kerüljön sor.”
+## 4.[^3]
 
-## 3. Az 1213/2022. (IV. 5.) Korm. határozat 1. melléklete az 1. melléklet szerint módosul.
+1. melléklet az 1428/2024. (XII. 23.) Korm. határozathoz[^4]
 
-## 4. A Kormány visszavonja az 1213/2022. (IV. 5.) Korm. határozat 6. pontját.
-
-1. melléklet az 1428/2024. (XII. 23.) Korm. határozathoz
-
-Az 1213/2022. (IV. 5.) Korm. határozat 1. melléklet I. pontjában foglalt táblázat helyébe a következő táblázat lép:
-
-„I. A pályaépítés során a Déli szakasz tervezésére és kivitelezésre kötött Szerződéses Megállapodás és mellékletét képező Szerződéses Feltételek (EPC I. Szerződés) módosítása keretében, többletforrás biztosítása mellett megvalósítandó fejlesztések
-
-|  | A |
-
-| 1. | Támogatott fejlesztések |
-
-| 2. | Dunaharaszti településen gyalogos aluljáró építése a 156-os szelvényben |
-
-| 3. | Dunavarsány településen útátjáró kiegészítése gyalogos-kerékpáros átjáróval és felálló sávokkal (Szabadkai útnál) |
-
-| 4. | Dunavarsány megállóhely gyalogos peronaluljáró kiépítése |
-
-| 5. | Délegyháza településen a peronaluljáró meghosszabbítása, továbbá ivóvízhez kút fúrása, valamint nyomott szennyvízvezeték kiépítése (1000 m hosszban) |
-
-| 6. | Kiskunhalas településen útátjárók kiegészítése gyalogos átvezetéssel Kéve és az Átlós utcánál |
-
-| 7. | Soltvadkert településen különszintű kerékpáros átvezetés kialakítása a megszüntetésre került közúti útátjáró helyén. |
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
