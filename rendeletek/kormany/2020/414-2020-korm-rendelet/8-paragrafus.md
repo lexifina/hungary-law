@@ -6,7 +6,7 @@ a) a hatóság a kérelem elutasítását, vagy
 
 b) a hatóság a kérelem elfogadását
 
-## javasolja, amellyel az Ügynökség nem ért egyet, az Ügynökséggel folytatott egyeztetés során a hatóság véleményét megváltoztatja vagy az ügyet választott bírósági eljárás céljából az Európai Unió Vasúti Ügynökségéről és a 881/2004/EK rendelet hatályon kívül helyezéséről szóló, 2016. május 11-i (EU) 2016/796 európai parlamenti és tanácsi rendelet 55. cikke alapján létrehozott fellebbezési tanácshoz továbbítja. Az Ügynökséggel folytatott egyeztetés során a hatóság kezdeményezheti a vállalkozó vasúti társaság bevonását az eljárásba, ha azt a kérelem elbírálása szempontjából szükségesnek tartja.
+javasolja, amellyel az Ügynökség nem ért egyet, az Ügynökséggel folytatott egyeztetés során a hatóság véleményét megváltoztatja vagy az ügyet választott bírósági eljárás céljából az Európai Unió Vasúti Ügynökségéről és a 881/2004/EK rendelet hatályon kívül helyezéséről szóló, 2016. május 11-i (EU) 2016/796 európai parlamenti és tanácsi rendelet 55. cikke alapján létrehozott fellebbezési tanácshoz továbbítja. Az Ügynökséggel folytatott egyeztetés során a hatóság kezdeményezheti a vállalkozó vasúti társaság bevonását az eljárásba, ha azt a kérelem elbírálása szempontjából szükségesnek tartja.
 
 (3) A hatóság az (EU) 2018/763 bizottsági végrehajtási rendelet II. mellékletében meghatározott értékelési eljárás szerint folytatja le a kérelem bírálatát és dönt az egységes biztonsági tanúsítvány kiadhatóságáról.
 

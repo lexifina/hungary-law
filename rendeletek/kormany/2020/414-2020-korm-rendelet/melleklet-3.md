@@ -18,7 +18,7 @@
 
 3. melléklet a 414/2020. (VIII. 30.) Korm. rendelethez
 
-## Eltérő követelmények az egységes biztonsági tanúsítványra és vasútbiztonsági engedélyre vonatkozóan a városi, elővárosi vasúti társaságok esetében
+Eltérő követelmények az egységes biztonsági tanúsítványra és vasútbiztonsági engedélyre vonatkozóan a városi, elővárosi vasúti társaságok esetében
 
 ## A városi, elővárosi vasúti társaságok biztonságirányítási rendszerében az (EU) 2018/762 bizottsági felhatalmazáson alapuló rendelet I. MELLÉKLET A vasúti társaságok biztonságirányítási rendszerére vonatkozó követelmények (a továbbiakban: I. Melléklet) és a II. MELLÉKLET A pályahálózat-működtetők biztonságirányítási rendszerére vonatkozó követelmények (a továbbiakban: II. Melléklet) helyett az alábbi eltéréseket kell alkalmazni:
 
