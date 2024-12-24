@@ -2,7 +2,7 @@
 
 | 1 | Sorszám | Bírságolással érintett cselekmények, mulasztások | A súlyosság foka (RSJ = rendkívül súlyos jogsértés, NSJ = nagyon súlyos jogsértés, SJ = súlyos jogsértés, EJ = enyhébb jogsértés) | A bírság összege forintban | A bírságolással érintett cselekmény, mulasztás elkövetéséért felelőssé tehető |
 
-| 2 | 1. | a) Közúti árutovábbítási engedély, közúti árufuvarozói engedély (a továbbiakban együtt: közúti árutovábbítási engedély), közúti személyszállítási engedély, autóbuszos személyszállító engedély (a továbbiakban együtt: közúti személyszállítási engedély), taxiengedély, személygépkocsis személyszállító engedély nélkül – vagy az engedély időbeni hatálya lejáratát 90 napot követően – végzett közúti közlekedési szolgáltatás | RSJ | 780 000 | szállító |
+| 2 | 1. | a) Közúti árutovábbítási engedély, közúti árufuvarozói engedély (a továbbiakban együtt: közúti árutovábbítási engedély), a 2. § o) pontjában meghatározott Megállapodás szerinti engedély hiteles másolata vagy kivonata, közúti személyszállítási engedély, autóbuszos személyszállító engedély (a továbbiakban együtt: közúti személyszállítási engedély), taxiengedély, személygépkocsis személyszállító engedély nélkül – vagy az engedély időbeni hatálya lejáratát 90 napot követően – végzett közúti közlekedési szolgáltatás | RSJ | 780 000 | szállító |
 
 | 3 | b) Nemzetközi forgalomban közösségi engedély nélkül (nem létezik, hamis, visszavonták, lejárt) végzett közúti közlekedési szolgáltatás | RSJ | 1 040 000 | szállító |
 
@@ -107,6 +107,8 @@
 | 53 | 26. | A szállító nem tartja naprakészen a kiküldetési nyilatkozatokat az IMI-hez kapcsolódó nyilvános felületen | SJ | 260 000 | szállító |
 
 | 54 | 27. | A szerződéses kötelezettségekre alkalmazandó jog megsértése | SJ | 260 000 | szállító |
+
+| 55 | 28. | A 2. § o) pontjában meghatározott Megállapodás szerinti matrica hiánya | NSJ | 300 000 | szállító |
 
 2. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^91]
 

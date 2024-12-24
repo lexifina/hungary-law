@@ -62,3 +62,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-156-20-
 | 2024-04-01 | 2009-156-20-22.58 | 44/2024. (II. 29.) Korm. rendelet |
 | 2024-08-16 | 2009-156-20-22.59 | 99/2011. (VI. 29.) Korm. rendelet |
 | 2024-08-30 | 2009-156-20-22.60 | 251/2024. (VIII. 22.) Korm. rendelet |
+| 2024-12-24 | 2009-156-20-22.61 | 425/2024. (XII. 23.) Korm. rendelet |
