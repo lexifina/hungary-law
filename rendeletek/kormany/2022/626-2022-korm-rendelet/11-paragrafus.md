@@ -30,6 +30,16 @@ n) a külképviselet egyedi tűz- és munkavédelmi szabályzatának – a külp
 
 o) a külképviselet tagja számára a tartós külszolgálati munkakör átvételekor és munkába lépéskor, illetve az előírásoknak megfelelő rendszerességgel történő, a külképviseletre érvényes tűz- és munkavédelmi szabályokról szóló oktatás megtartatásáért.
 
-(2)[^3] Ha a külképviselet nem gazdasági régió részeként működik, és a külképviseletnek nincs gazdasági vezetője, az első beosztott diplomata, illetve az első beosztott konzul felel a gazdasági felelős munkájának közvetlen irányításáért, felügyeletéért, ellenőrzéséért, ha a külképviselet-vezető ezt a jogkört a tartós külszolgálati munkaköri leírásban rögzítve írásban átruházta rá. A külképviselet-vezető az első beosztott diplomatán vagy az első beosztott konzulon, valamint a gazdasági munkatárson kívül a külképviselet más tagjára a gazdálkodással kapcsolatban őt megillető jogköreit vagy azok meghatározott részét nem ruházhatja át. A külképviselet gazdálkodása tekintetében a külképviselet-vezető és az első beosztott diplomata vagy első beosztott konzul egymást helyettesítik.
+(1a)[^4] Ha a kihelyező okirat úgy rendelkezik, hogy a kihelyezett a tartós külszolgálati állomáshelyén kívül további külképviseleten is lát el gazdasági vezetői, gazdasági felelősi vagy gazdasági ügyintézői tartós külszolgálati munkakört (a továbbiakban együtt: párhuzamos feladatellátás), akkor – az (1) bekezdés f) és i) pontjától és a 13. § (3) bekezdésétől eltérően – a kihelyező szerv szervezeti és működési szabályzatában kijelölt szervezeti egysége felelős a kihelyezett kormánytisztviselő
 
-[^3]: A 11. § (2) bekezdése az 536/2023. (XII. 5.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
+a) munkaköri leírásának elkészítéséért, naprakészen tartásáért;
+
+b) munkájának közvetlen irányításáért, felügyeletéért, ellenőrzéséért.
+
+(1b)[^5] Párhuzamos feladatellátás esetén a kihelyező szerv szervezeti és működési szabályzatában kijelölt szervezeti egysége szervezeti egységének vezetője az (1a) bekezdés a) és b) pontja szerinti feladatait másra nem ruházhatja át.
+
+(2)[^6] Ha a külképviselet nem gazdasági régió részeként működik, és a külképviseletnek nincs gazdasági vezetője, az első beosztott diplomata, illetve az első beosztott konzul felel a gazdasági felelős munkájának közvetlen irányításáért, felügyeletéért, ellenőrzéséért, ha a külképviselet-vezető ezt a jogkört a tartós külszolgálati munkaköri leírásban rögzítve írásban átruházta rá. A külképviselet-vezető az első beosztott diplomatán vagy az első beosztott konzulon, valamint a gazdasági munkatárson kívül a külképviselet más tagjára a gazdálkodással kapcsolatban őt megillető jogköreit vagy azok meghatározott részét nem ruházhatja át. A külképviselet gazdálkodása tekintetében a külképviselet-vezető és az első beosztott diplomata vagy első beosztott konzul egymást helyettesítik.
+
+[^4]: A 11. § (1a) bekezdését a 444/2024. (XII. 23.) Korm. rendelet 3. §-a iktatta be.
+[^5]: A 11. § (1b) bekezdését a 444/2024. (XII. 23.) Korm. rendelet 3. §-a iktatta be.
+[^6]: A 11. § (2) bekezdése az 536/2023. (XII. 5.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.

@@ -6,7 +6,7 @@
 
 (4) A külképviselet-vezető részére – a külföldön történő szolgálatteljesítés idejére – személyes gépkocsihasználatot a kihelyező szerv vezetője engedélyezhet. A gépkocsihasználat feltételeit a kihelyező szerv közjogi szervezetszabályozó eszközben állapítja meg.
 
-(5)[^13] A külképviselet egyes működési költségeinek, egyes rendezvények kiadásainak részbeni vagy teljes átvállalása céljából pénzbeli hozzájárulást (a továbbiakban: szponzori bevétel) fogadhat el. A szponzori bevétel elfogadására szponzori szerződés aláírását követően kerülhet sor. Szponzori szerződést kizárólag a külképviselet-vezető, távollétében vagy akadályoztatása esetén az első beosztott diplomata vagy első beosztott konzul köthet.
+(5)[^20] A külképviselet egyes működési költségeinek, egyes rendezvények kiadásainak részbeni vagy teljes átvállalása céljából pénzbeli hozzájárulást (a továbbiakban: szponzori bevétel) fogadhat el. A szponzori bevétel elfogadására szponzori szerződés aláírását követően kerülhet sor. Szponzori szerződést kizárólag a külképviselet-vezető, távollétében vagy akadályoztatása esetén az első beosztott diplomata vagy első beosztott konzul köthet.
 
 (6) Ha vendéglátás keretében igénybe vett szolgáltatásnál a szervizdíj, illetve borravaló (a továbbiakban együtt: szervizdíj) az adott külképviselet országának pénzügyi szabályozása, illetve gyakorlata alapján nem kerül feltüntetésre a pénzügyi bizonylaton, a szervizdíj elszámolásához is önbizonylatot kell kiállítani. A számlán fel nem tüntetett szervizdíj összege nem haladhatja meg a bizonylat értékének tíz százalékát. Az adott külképviselet fogadó államában kialakult szokásjog figyelembevételével a kihelyező szerv előzetes írásbeli engedélyével a szervizdíj legfeljebb huszonöt százalékig megemelhető. A számlán feltüntetett szervízdíj összege elszámolható kiadásként, ha a fogadó államban megszokott mértéket nem lépi túl, és a számlán vagy önbizonylaton feltüntetésre kerül.
 
@@ -14,4 +14,4 @@
 
 (8) A (7) bekezdés szerint képződött költségvetési maradvány terhére a költségvetési évet követő év december 31-ét követően is a Kormány döntése nélkül vállalható kötelezettség és teljesíthető kifizetés.
 
-[^13]: A 31. § (5) bekezdése az 536/2023. (XII. 5.) Korm. rendelet 1. § m) pontja szerint módosított szöveg.
+[^20]: A 31. § (5) bekezdése az 536/2023. (XII. 5.) Korm. rendelet 1. § m) pontja szerint módosított szöveg.
