@@ -1,4 +1,4 @@
-## 10. §[^8] A PB-gáz forgalmazói tevékenységet a bányafelügyelet felügyeli.
+## 10. §[^19] A PB-gáz forgalmazói tevékenységet a bányafelügyelet felügyeli.
 
 ## 6. Az átfejtés általános követelményei és engedélyezése
 
@@ -12,4 +12,4 @@ b) a munkavédelmi szakértő által készített, a berendezés és a technológ
 
 (3) El kell utasítani az átfejtés iránti kérelmet, ha a palacknak vagy a palack tartozékainak állapota a műszaki-biztonsági követelményeknek nem felel meg.
 
-[^8]: A 10. § a 825/2021. (XII. 28.) Korm. rendelet 45. §-ával megállapított szöveg.
+[^19]: A 10. § a 825/2021. (XII. 28.) Korm. rendelet 45. §-ával megállapított szöveg.

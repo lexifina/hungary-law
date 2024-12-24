@@ -20,6 +20,8 @@ d) az üzletszabályzata a honlapján hozzáférhető legyen.
 
 (3) A palackos PB-gáz kiskereskedő az árusítás helyén
 
-a) a tömítő elem vásárlásának lehetőségét és a palackos gáz használatára vonatkozó útmutató elérhetőségét folyamatosan biztosítja, és
+a)[^22] a tömítő elem vásárlásának lehetőségét és a palackos gáz használatára vonatkozó útmutató, valamint a PB-gázra vonatkozó biztonsági adatlap elérhetőségét folyamatosan biztosítja, és
 
 b) a palackokba töltött PB-gáz fogyasztói árát, továbbá ha gázpalack értékesítésével is foglalkozik az üres gázpalack árát, a palackokba töltött gáz tömegét és annak megengedhető eltérését jól látható módon feltünteti.
+
+[^22]: A 13. § (3) bekezdés a) pontja a 385/2024. (XII. 9.) Korm. rendelet 15. § i) pontja szerint módosított szöveg.
