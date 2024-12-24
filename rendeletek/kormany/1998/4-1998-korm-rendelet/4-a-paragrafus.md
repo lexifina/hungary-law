@@ -20,7 +20,7 @@ h)[^41] a forgalmi tájékoztató körzetben, ATZ-ben, kivéve, ha a repülőté
 
 i) az Együttes rendelet 2. melléklet III. Nem ellenőrzött légterek alcím 5. táblázatában meghatározott légterekben, kivéve, ha ahhoz az illetékes légiforgalmi szolgálat hozzájárult,
 
-j)[^42] ATZ-vel nem rendelkező repülőterek vonatkoztatási pontjától számított 2 km sugarú körön belül, kivéve, ha a repülőtér üzemben tartója hozzájárult, és – a 8/C. § (5) bekezdés a)–f) pontjában meghatározott esetek kivételével – azt a tevékenységet végző a hozzájárulás csatolásával a tevékenység megkezdése előtt legkésőbb 2 nappal bejelentette a légiközlekedési hatósághoz,
+j)[^42] ATZ-vel nem rendelkező repülőterek vonatkoztatási pontjától számított 2 km sugarú körön belül, kivéve, ha a repülőtér üzemben tartója hozzájárult, és – a 8/C. § (5) bekezdés a)–f) pontjában és a 8/C. § (6) bekezdésében meghatározott esetek kivételével – azt a tevékenységet végző a hozzájárulás csatolásával a tevékenység megkezdése előtt legkésőbb 2 nappal bejelentette a légiközlekedési hatósághoz,
 
 k)[^43]
 
@@ -28,16 +28,19 @@ l)[^44] a mentőhelikopter-leszállóhelyek vonatkozási pontjától számított
 
 m)[^45] Drop-Zone légtérben annak működési ideje alatt, kivéve, ha ehhez a koordinációs feladatokat ellátó szervezet hozzájárult, és e szervezet, valamint a távoli pilóta között közvetlen elérés és kommunikáció biztosított,
 
-n)[^46] az Országgyűlésről szóló 2012. évi XXXVI. törvény 125. § (2) bekezdés b) pontjában meghatározott védett létesítmények, a kulturális örökség védelméről szóló 2001. évi LXIV. törvényben meghatározott kiemelt nemzeti emlékhely (a továbbiakban: kiemelt nemzeti emlékhely), a védett személyek és a kijelölt létesítmények védelméről szóló 160/1996. (XI. 5.) Korm. rendeletben, valamint az állam működése, illetőleg a lakosság ellátása szempontjából kiemelten fontos létesítmények köréről szóló 24/1997. (III. 26.) BM rendeletben meghatározott, az állam működése szempontjából kiemelten fontos létesítmények 200 méteres körzete feletti légtérben,
+n)[^46] az Országgyűlésről szóló 2012. évi XXXVI. törvény 125. § (2) bekezdés b) pontjában meghatározott védett létesítmények, a kulturális örökség védelméről szóló 2001. évi LXIV. törvényben meghatározott kiemelt nemzeti emlékhely (a továbbiakban: kiemelt nemzeti emlékhely), a védett személyek és a kijelölt létesítmények védelméről szóló 160/1996. (XI. 5.) Korm. rendeletben, valamint az állam működése, illetőleg a lakosság ellátása szempontjából kiemelten fontos létesítmények köréről szóló 24/1997. (III. 26.) BM rendeletben meghatározott, az állam működése szempontjából kiemelten fontos létesítmények 300 méteres körzete feletti légtérben,
 
 o)[^47] a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012. évi CLXVI. törvény alapján kijelölt európai és nemzeti létfontosságú rendszerelemek 500 méteres körzete feletti légtérben, ide nem értve a d) pont szerinti légteret.
+
+p)[^48] No Drone Zone légtérben, kivéve akkor, ha a No Drone Zone légtér igénybevételéhez a kijelölést kérő üzemeltető hozzájárult, vagy a No Drone Zone légtér igénybevétele hatóság jogszabályban meghatározott felügyeleti, illetve ellenőrzési hatáskörének gyakorlásához szükséges.
 
 [^39]: Az „A légtér igénybevétele légiközlekedési célra pilóta nélküli légijárművel vagy pilóta nélküli állami légijárművel” alcímet (4/A–4/D. §) a 39/2021. (II. 2.) Korm. rendelet 3. §-a iktatta be.
 [^40]: A 4/A. § c) pontja a 199/2023. (V. 22.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^41]: A 4/A. § h) pontja a 84/2024. (IV. 17.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
-[^42]: A 4/A. § j) pontja a 789/2021. (XII. 27.) Korm. rendelet 8. §-ával megállapított, a 84/2024. (IV. 17.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
+[^42]: A 4/A. § j) pontja a 789/2021. (XII. 27.) Korm. rendelet 8. §-ával megállapított, a 84/2024. (IV. 17.) Korm. rendelet 10. § b) pontja, a 425/2024. (XII. 23.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
 [^43]: A 4/A. § k) pontját a 84/2024. (IV. 17.) Korm. rendelet 11. §-a hatályon kívül helyezte.
 [^44]: A 4/A. § l) pontja a 789/2021. (XII. 27.) Korm. rendelet 8. §-ával megállapított, a 84/2024. (IV. 17.) Korm. rendelet 10. § c) pontja szerint módosított szöveg.
 [^45]: A 4/A. § m) pontja a 789/2021. (XII. 27.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^46]: A 4/A. § n) pontja a 789/2021. (XII. 27.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^46]: A 4/A. § n) pontja a 789/2021. (XII. 27.) Korm. rendelet 8. §-ával megállapított, a 425/2024. (XII. 23.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
 [^47]: A 4/A. § o) pontja a 789/2021. (XII. 27.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^48]: A 4/A. § p) pontját a 425/2024. (XII. 23.) Korm. rendelet 6. §-a iktatta be.
