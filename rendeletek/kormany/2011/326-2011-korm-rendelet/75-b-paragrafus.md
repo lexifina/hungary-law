@@ -1,4 +1,4 @@
-## 16/A. [^373] A 2022. július 1-jétől bevezetett ideiglenes rendszámtábla kiadására, használatára vonatkozó eltérő rendelkezések
+## 16/A. [^375] A 2022. július 1-jétől bevezetett ideiglenes rendszámtábla kiadására, használatára vonatkozó eltérő rendelkezések
 
 75/B. § (1) Az ideiglenes forgalomban tartás engedélyezésével egyidejűleg kerül sor az ideiglenes rendszámtábla kiadására.
 
@@ -30,4 +30,4 @@ c) a közúti közlekedés során igazolni az ideiglenes forgalmi engedéllyel �
 
 (7) A 63/A. § (2) bekezdés 6–18. pontja, valamint a 63/A. § (3) bekezdése alapján kiadott ideiglenes rendszámtábla csak olyan járműre szerelhető fel, amely a közúti közlekedésre alkalmas műszaki állapotban van. E feltételek betartásáért a jármű üzemben tartója felelős.
 
-[^373]: A 16/A. alcímet (75/B–75/G. §) a 303/2021. (VI. 1.) Korm. rendelet 15. §-a iktatta be.
+[^375]: A 16/A. alcímet (75/B–75/G. §) a 303/2021. (VI. 1.) Korm. rendelet 15. §-a iktatta be.

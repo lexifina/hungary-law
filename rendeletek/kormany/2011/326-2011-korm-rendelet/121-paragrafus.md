@@ -1,10 +1,10 @@
 ## 29. Az Európai Unió jogának való megfelelés
 
-## 121. §[^601] Ez a rendelet a következő európai uniós jogi aktusoknak való megfelelést szolgálja:
+## 121. §[^604] Ez a rendelet a következő európai uniós jogi aktusoknak való megfelelést szolgálja:
 
 a) a járművek nyilvántartásba vételéhez kapcsolódó okmányokról szóló, 1999. április 29-i 1999/37/EK tanácsi irányelv,
 
-b)[^602] a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának részletes szabályairól szóló 24/2005. (IV. 21.) GKM rendelettel együtt a vezetői engedélyekről szóló, 1991. július 29-i 91/439/EGK tanácsi irányelv, és az azt módosító 96/47/EK, 97/26/EK tanácsi irányelv, 2000/56/EK bizottsági irányelv, az (EU) 2022/2561 európai parlamenti és tanácsi irányelv, 2006/103/EK tanácsi irányelv, 2008/65/EK bizottsági irányelv és 2011/94/EU bizottsági irányelv,
+b)[^605] a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának részletes szabályairól szóló 24/2005. (IV. 21.) GKM rendelettel együtt a vezetői engedélyekről szóló, 1991. július 29-i 91/439/EGK tanácsi irányelv, és az azt módosító 96/47/EK, 97/26/EK tanácsi irányelv, 2000/56/EK bizottsági irányelv, az (EU) 2022/2561 európai parlamenti és tanácsi irányelv, 2006/103/EK tanácsi irányelv, 2008/65/EK bizottsági irányelv és 2011/94/EU bizottsági irányelv,
 
 c) az elhasználódott járművekről szóló, 2000. szeptember 18-i 2000/53/EK európai parlamenti és tanácsi irányelv,
 
@@ -12,14 +12,14 @@ d) a közúti járművezetők és a közúti közlekedési szakemberek képzés�
 
 e) a vezetői engedélyekről szóló 2006/126/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2012. november 19-i 2012/36/EU bizottsági irányelv,
 
-f)[^603] a vezetői engedélyekről szóló 2006/126/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2015. április 24-i 2015/653/EU bizottsági irányelv 1. cikke,
+f)[^606] a vezetői engedélyekről szóló 2006/126/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2015. április 24-i 2015/653/EU bizottsági irányelv 1. cikke,
 
-g)[^604] az egyes közúti árufuvarozást vagy személyszállítást végző járművek vezetőinek alapképzéséről és továbbképzéséről szóló 2003/59/EK irányelv és a vezetői engedélyekről szóló 2006/126/EK irányelv módosításáról szóló, 2018. április 18-i (EU) 2018/645 európai parlamenti és tanácsi irányelv 2. cikke.
+g)[^607] az egyes közúti árufuvarozást vagy személyszállítást végző járművek vezetőinek alapképzéséről és továbbképzéséről szóló 2003/59/EK irányelv és a vezetői engedélyekről szóló 2006/126/EK irányelv módosításáról szóló, 2018. április 18-i (EU) 2018/645 európai parlamenti és tanácsi irányelv 2. cikke.
 
-h)[^605] a vezetői engedélyekről szóló 2006/126/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2020. május 4-i (EU) 2020/612 bizottsági irányelv 1. cikke.
+h)[^608] a vezetői engedélyekről szóló 2006/126/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2020. május 4-i (EU) 2020/612 bizottsági irányelv 1. cikke.
 
-[^601]: A 121. § (1) az 544/2013. (XII. 30.) Korm. rendelet 40. § (1) bekezdésével megállapított szöveg.
-[^602]: A 121. § b) pontja a 141/2023. (IV. 24.) Korm. rendelet 8. §-a szerint módosított szöveg.
-[^603]: A 121. § f) pontját a 467/2015. (XII. 29.) Korm. rendelet 27. §-a iktatta be.
-[^604]: A 121. § g) pontját a 265/2020. (VI. 11.) Korm. rendelet 7. §-a iktatta be.
-[^605]: A 121. § h) pontját a 722/2020. (XII. 31.) Korm. rendelet 29. §-a iktatta be.
+[^604]: A 121. § (1) az 544/2013. (XII. 30.) Korm. rendelet 40. § (1) bekezdésével megállapított szöveg.
+[^605]: A 121. § b) pontja a 141/2023. (IV. 24.) Korm. rendelet 8. §-a szerint módosított szöveg.
+[^606]: A 121. § f) pontját a 467/2015. (XII. 29.) Korm. rendelet 27. §-a iktatta be.
+[^607]: A 121. § g) pontját a 265/2020. (VI. 11.) Korm. rendelet 7. §-a iktatta be.
+[^608]: A 121. § h) pontját a 722/2020. (XII. 31.) Korm. rendelet 29. §-a iktatta be.

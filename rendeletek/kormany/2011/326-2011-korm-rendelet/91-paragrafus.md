@@ -1,4 +1,4 @@
-91. §[^435] (1) Ideiglenes forgalmi engedélyt kell kiadni a 63/A. § (2) bekezdés 4. pont a) alpontjában meghatározott, a NAV vámszerve által kiadott „I” betűjelű ideiglenes rendszámtábla kivételével, valamennyi ideiglenes rendszámtáblához.
+91. §[^437] (1) Ideiglenes forgalmi engedélyt kell kiadni a 63/A. § (2) bekezdés 4. pont a) alpontjában meghatározott, a NAV vámszerve által kiadott „I” betűjelű ideiglenes rendszámtábla kivételével, valamennyi ideiglenes rendszámtáblához.
 
 (2) Az ideiglenes forgalmi engedély érvényességi ideje
 
@@ -26,7 +26,7 @@ e) a 63/A. § (2) bekezdés 12. pontjában meghatározott esetben a Műszaki Ada
 
 (7) Az M betűjelű ideiglenes rendszámtáblához kiadott ideiglenes forgalomban tartási engedély érvényessége 2022. július 1-jétől cserével nem hosszabbítható meg, a jogosultság fennállásának igazolása esetén a 63/A. § (2) bekezdés 6. pontja szerinti ideiglenes rendszámtáblát és ideiglenes forgalmi engedélyt kell kiadni.
 
-(8)[^436] A (6) és (7) bekezdésben meghatározott eljárás során a 75/D. § (1) bekezdés e) pontját nem kell alkalmazni.
+(8)[^438] A (6) és (7) bekezdésben meghatározott eljárás során a 75/D. § (1) bekezdés e) pontját nem kell alkalmazni.
 
-[^435]: A 91. § a 303/2021. (VI. 1.) Korm. rendelet 17. §-ával megállapított szöveg.
-[^436]: A 91. § (8) bekezdését a 612/2023. (XII. 22.) Korm. rendelet 32. §-a iktatta be.
+[^437]: A 91. § a 303/2021. (VI. 1.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^438]: A 91. § (8) bekezdését a 612/2023. (XII. 22.) Korm. rendelet 32. §-a iktatta be.

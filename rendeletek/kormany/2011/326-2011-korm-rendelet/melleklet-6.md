@@ -248,7 +248,7 @@
 
 ## 7. Aláírás
 
-## 9. [Érvényességi kategóriák (a nemzeti kategóriák másképpen nyomtatandók, mint a harmonizált kategóriák)];
+## 8. [Érvényességi kategóriák (a nemzeti kategóriák másképpen nyomtatandók, mint a harmonizált kategóriák)];
 
 ## Európai Közösségi Modell (kifejezés magyar nyelven, valamint a „vezetői engedély” kifejezés az Európai Közösség többi nyelvén, az engedély háttereként rózsaszínnel nyomtatva).
 
@@ -278,7 +278,9 @@
 
 ## Sorszám
 
-6. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^617]
+## állampolgárság adat (többes állampolgárság esetén csak a magyar állampolgárság feltüntetése), születési név adat (ha eltér a viselt névtől)
+
+6. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^620]
 
 Járművezetésre jogosító okmányok kiadásának életkori és jártassági feltételei 2013. január 18-ig
 
@@ -324,4 +326,4 @@ b) aki a 21. életévét betöltötte, és külön vizsgát tett a kategóriára
 
 4.5. A jártassági feltételek teljesítésének kell tekinteni azt az esetet is, ha a járművezető a feltételül szabott járműkategóriára érvényes vizsgával rendelkezik.
 
-[^617]: A 6. melléklet a 90/2015. (IV. 9.) Korm. rendelet 14. § (4) bekezdésével megállapított szöveg.
+[^620]: A 6. melléklet a 90/2015. (IV. 9.) Korm. rendelet 14. § (4) bekezdésével megállapított szöveg.
