@@ -22,4 +22,7 @@ df) közreműködik a tartós külszolgálati kihelyezés előtt álló, tartós
 
 dg) gondoskodik a tartós külszolgálati személyzetpolitikát, a pályázati és kiválasztási rendszert és a tartós külszolgálati felkészítést érintően a szakmai módszertani anyagok és útmutatók kiadásáról.
 
+dh)[^2] gondoskodik a tartós külszolgálati, illetve szűrővizsgálati foglalkozás-egészségügyi feladatok ellátásáról.
+
 [^1]: A 2. § nyitó szövegrésze az 554/2023. (XII. 12.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § d) pont dh) alpontját a 436/2024. (XII. 23.) Korm. rendelet 1. §-a iktatta be.

@@ -1,1 +1,0 @@
-## 5. § A külpolitikáért felelős miniszter felel az EU ÁK tekintetében – külön megállapodásban foglaltak szerint – a 3. § (3) bekezdés a), c) pontja, valamint a 3. § (4) bekezdés a) pontja szerinti feladatok ellátásáért.

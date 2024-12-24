@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-17-20-2
 | 2019-02-16 | 2019-17-20-22.2 | 2010: CXXX. törvény |
 | 2020-08-01 | 2019-17-20-22.3 | 381/2020. (VII. 31.) Korm. rendelet |
 | 2023-12-13 | 2019-17-20-22.4 | 554/2023. (XII. 12.) Korm. rendelet |
+| 2024-12-24 | 2019-17-20-22.5 | 436/2024. (XII. 23.) Korm. rendelet |
