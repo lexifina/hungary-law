@@ -20,6 +20,6 @@ c) helyszíni ellenőrzésekben való műszaki közreműködés a beruházások 
 
 d) egyéb, felmerülő műszaki tanácsadási szolgáltatás a pályázati konstrukció kialakításának, megvalósításának minőségbiztosítási és gazdaságossági hatékonyságának biztosítása érdekében.
 
-(2)[^1]
+(2)[^2]
 
-[^1]: A 2. § (2) bekezdése a 4. § (4) bekezdése alapján 2026. január 1-jén lép hatályba.
+[^2]: A 2. § (2) bekezdése a 4. § (4) bekezdése alapján 2026. január 1-jén lép hatályba.
