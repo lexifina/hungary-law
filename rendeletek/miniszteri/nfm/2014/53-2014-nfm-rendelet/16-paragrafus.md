@@ -1,0 +1,3 @@
+16. §[^21] Ha a mintavételező szervezet a mintavételezés vagy a vizsgálat során visszaélést, visszaélésre utaló jelet vagy az előírt értékektől való eltérést észlel, értesíti a fogyasztóvédelmi hatóságot, azzal, hogy az előírt értéktől való eltérés észlelése esetén a mintavételező szervezet kontrollmintavételezést és vizsgálatot végez. A kontrollminta nem megfelelősége esetén a vizsgálati jegyzőkönyv kiállítását követő 8 napon belül értesíti a fogyasztóvédelmi hatóságot. A mérési eredményeket az MSZ EN ISO 4259-2 6.3. pontja szerint kell értelmezni.
+
+[^21]: A 16. § a 35/2024. (XII. 23.) EM rendelet 1. §-ával megállapított szöveg.
