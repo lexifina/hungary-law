@@ -442,15 +442,17 @@ h) regisztráció a könyvviteli szolgáltatást végzők nyilvántartásában.
 
 ## A képzési modulok mérése akkor eredményes, ha a mérésben részvevő teljesítménye modulonként legalább 60%-ot elérte. Ebben az esetben a képzési modul méréséről szóló igazolás minősítése megfelelt.
 
-3.4.2. A szakmai követelmények mérése alóli felmentés szabályai
+3.4.2.[^1] A szakmai követelmények mérése alóli felmentés szabályai
 
 ## A képzési modul teljesítése alól felmentést kap az, aki rendelkezik
 
-a) ACCA (Foundationlevel) – sikeresen befejezett vizsgákkal (a hivatalos okirat a Foundationlevel a következő kódú vizsgákat tartalmazza: AB, MA, FA, LW, PM, TX, FR, AA, FM),
+a) ACCA (Foundation Level) – sikeresen befejezett vizsgákkal (a hivatalos okirat a következő kódú vizsgákat tartalmazza: AB, MA, FA, LW, PM, TX, FR, AA, FM),
 
-b) DipIFR – befejezett és sikeres vizsgákkal vagy
+b) DipIFR – befejezett és sikeres vizsgákkal,
 
-c) IFRS minősítéssel rendelkező könyvvizsgálói végzettséggel.
+c) IFRS minősítéssel rendelkező könyvvizsgálói végzettséggel vagy
+
+d) gazdaságtudományi képzési területen Nemzetközi számvitel és könyvvizsgálat (International Accounting and Auditing) mesterszakon felsőoktatási intézményben az oklevél kibocsátásának feltételeként letett záróvizsgával.
 
 ## Az a képzésre jelentkező, aki az IFRS mérlegképes könyvelő szakképesítés képesítő vizsgájára bocsátás feltételeit 1 éven belül eredményesen teljesítette, illetve képesítő vizsgája 1 éven belül sikertelen volt, a képzési modul szakmai követelményeinek mérése alól felmentésben részesül.
 
@@ -544,15 +546,17 @@ j) az IFRS-ekkel kapcsolatos aktuális kérdések (folyamatban lévő fejleszté
 
 ## A hatósági vizsgán használható segédeszközöket kizárólag a vizsgaközpont biztosítja a vizsgázók számára, egyéb segédeszköz használata – nem programozható számológépen felül – nem engedélyezett.
 
-3.5.5. A hatósági vizsga alóli felmentések speciális esetei, módja, és feltételei
+3.5.5.[^2] A hatósági vizsga alóli felmentések speciális esetei, módja, és feltételei
 
 ## A gyakorlati vizsga és a szóbeli vizsga teljesítése alól felmentést kap az, aki rendelkezik
 
-a) ACCA (Foundationlevel) – sikeresen befejezett vizsgákkal (a hivatalos okirat a Foundationlevel a következő kódú vizsgákat tartalmazza: AB, MA, FA, LW, PM, TX, FR, AA, FM),
+a) ACCA (Foundation Level) – sikeresen befejezett vizsgákkal (a hivatalos okirat a következő kódú vizsgákat tartalmazza: AB, MA, FA, LW, PM, TX, FR, AA, FM),
 
-b) DipIFR – befejezett és sikeres vizsgákkal vagy
+b) DipIFR – befejezett és sikeres vizsgákkal,
 
-c) IFRS minősítéssel rendelkező könyvvizsgálói végzettséggel.
+c) IFRS minősítéssel rendelkező könyvvizsgálói végzettséggel vagy
+
+d) gazdaságtudományi képzési területen Nemzetközi számvitel és könyvvizsgálat (International Accounting and Auditing) mesterszakon felsőoktatási intézményben az oklevél kibocsátásának feltételeként letett záróvizsgával.
 
 ## A felmentés alapjául szolgáló tényeket – a megfelelő dokumentumok bemutatásával – hitelt érdemlően kell bizonyítani.
 
@@ -751,3 +755,6 @@ l) pénzügyi szervezeti ellenőrzéssel kapcsolatos ismeretek.
 ## Felmentés esetén a hatósági vizsga értékelése 100%.
 
 4.5.6. A hatósági vizsga egyéb szabályai
+
+[^1]: Az 1. melléklet 3. pont 3.4. alpont 3.4.2. pontja a 423/2024. (XII. 23.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^2]: Az 1. melléklet 3. pont 3.5. alpont 3.5.5. pontja a 423/2024. (XII. 23.) Korm. rendelet 17. §-ával megállapított szöveg.
