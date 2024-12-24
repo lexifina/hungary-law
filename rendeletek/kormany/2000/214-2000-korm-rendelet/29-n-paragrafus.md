@@ -1,5 +1,3 @@
-## 29/M. § A Kárrendezési Alap éves beszámolójának felülvizsgálatára csak olyan kamarai tag könyvvizsgáló, könyvvizsgáló társaság választható, aki/amely megfelel a Hpt. előírásai szerint a könyvvizsgálóval szemben támasztott követelményeknek.
-
 ## Az éves beszámoló jóváhagyása
 
 29/N. § (1) A Kárrendezési Alap éves beszámolóját és üzleti jelentését – ennek részeként a következő évi költségvetését – a Befektető-védelmi Alap igazgatósága hagyja jóvá.

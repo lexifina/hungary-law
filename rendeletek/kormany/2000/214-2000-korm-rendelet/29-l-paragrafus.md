@@ -10,6 +10,6 @@ b) az igazgatóság által meghatározott feladatok teljesítésére és azok é
 
 c) a Kárrendezési Alap következő évi költségvetésére;
 
-d)[^43] a nem kárrendezésből eredő bevételek és ráfordítások jelentős nagysága esetén azok jogcímenkénti bemutatására.
+d)[^46] a nem kárrendezésből eredő bevételek és ráfordítások jelentős nagysága esetén azok jogcímenkénti bemutatására.
 
-[^43]: A 29/L. § (2) bekezdés d) alpontja a 480/2016. (XII. 28.) Korm. rendelet 10. § 2. pontja szerint módosított szöveg.
+[^46]: A 29/L. § (2) bekezdés d) alpontja a 480/2016. (XII. 28.) Korm. rendelet 10. § 2. pontja szerint módosított szöveg.

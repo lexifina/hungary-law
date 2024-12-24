@@ -88,7 +88,7 @@ II. Tartalék
 
 III. Értékelési tartalék
 
-## IV.[^48] Tárgyévi eredmény
+## IV.[^52] Tárgyévi eredmény
 
 ## E. Céltartalék
 
@@ -110,4 +110,4 @@ II. Rövid lejáratú kötelezettségek
 
 G. Passzív időbeli elhatárolások
 
-[^48]: Az 1. számú melléklet „FORRÁSOK (PASSZÍVÁK)” alcím „D. Saját tőke” fősor IV. pontja a 484/2015. (XII. 29.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^52]: Az 1. számú melléklet „FORRÁSOK (PASSZÍVÁK)” alcím „D. Saját tőke” fősor IV. pontja a 484/2015. (XII. 29.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.

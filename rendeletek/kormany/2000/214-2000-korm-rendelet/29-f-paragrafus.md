@@ -10,6 +10,6 @@ b) az Igazgatótanács által meghatározott feladatok teljesítésére és azok
 
 c) a Szanálási Alap következő évi költségvetésére.
 
-(3)[^32] A Szanálási Alap éves beszámolóját és üzleti jelentését – ennek részeként a következő évi költségvetését – az Igazgatótanács hagyja jóvá.
+(3)[^35] A Szanálási Alap éves beszámolóját és üzleti jelentését – ennek részeként a következő évi költségvetését – az Igazgatótanács hagyja jóvá.
 
-[^32]: A 29/F. § (3) bekezdését a 642/2023. (XII. 28.) Korm. rendelet 5. §-a iktatta be.
+[^35]: A 29/F. § (3) bekezdését a 642/2023. (XII. 28.) Korm. rendelet 5. §-a iktatta be.

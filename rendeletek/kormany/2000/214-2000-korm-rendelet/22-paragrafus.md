@@ -14,7 +14,7 @@ c) a rendkívüli éves befizetés miatt fennálló követelések összegét;
 
 d) a Befektető-védelmi Alap által a befagyott követelések után a befektetők részére kifizetett kártalanítás összegének a tagokkal szemben fennálló, de a Befektető-védelmi Alapra átszállt összegét, valamint azok kifizetésével kapcsolatos költségek tagra áthárított összegét.
 
-(4)[^18] A tagokkal szembeni egyéb követelések között kell kimutatni a befektetőknek történő kifizetéssel megbízott szervezet részére a Befektető-védelmi Alap által átutalt összeget.
+(4)[^20] A tagokkal szembeni egyéb követelések között kell kimutatni a befektetőknek történő kifizetéssel megbízott szervezet részére a Befektető-védelmi Alap által átutalt összeget.
 
 (5) A befektetőkkel szembeni követelésként kell kimutatni:
 
@@ -28,4 +28,4 @@ b) a befektetők egyezségi tárgyaláson, felszámolási eljárásban való ké
 
 (8) Az egyéb értékpapírok között kell kimutatni a tag felszámolása során a Befektető-védelmi Alap taggal szembeni követelése fejében kapott, a Befektető-védelmi Alap tulajdonába került kötvények, részvények és egyéb értékpapírok értékének összegét.
 
-[^18]: A 22. § (4) bekezdése a 484/2015. (XII. 29.) Korm. rendelet 15. § 4. pontja szerint módosított szöveg.
+[^20]: A 22. § (4) bekezdése a 484/2015. (XII. 29.) Korm. rendelet 15. § 4. pontja szerint módosított szöveg.

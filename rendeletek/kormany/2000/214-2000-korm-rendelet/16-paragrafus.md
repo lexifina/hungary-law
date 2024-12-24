@@ -20,12 +20,12 @@
 
 (10) A működési költségek között ráfordításonkénti bontásban kell kimutatni az önkéntes alap működésével kapcsolatban felmerült általános igazgatási és fenntartási költségek összegét, továbbá a betétek kifizetésével kapcsolatban felmerült költségeknek a tagintézetekre át nem hárított összegét, és a válság megelőzésével, a tagintézetek gazdálkodásának ellenőrzésével és fejlesztésével kapcsolatban felmerült költségek tagintézetekre át nem hárított összegét. A működési költségek nem tartalmazzák a betétbiztosítási tevékenységgel összefüggő megbízásos ügyletekkel kapcsolatban felmerült, továbbszámlázott költségek összegét, a válság megelőzésével kapcsolatban felmerült intézményvédelmi ráfordítások összegét, és a nem betétbiztosítási és intézményvédelmi tevékenységből eredő ráfordítások összegét.
 
-(11)[^14] Tárgyévi eredményként – előjelének megfelelően – kell kimutatni az üzleti év bevételeinek és ráfordításainak (költségeinek) különbözeteként adódó nyereség vagy veszteség összegét.
+(11)[^15] Tárgyévi eredményként – előjelének megfelelően – kell kimutatni az üzleti év bevételeinek és ráfordításainak (költségeinek) különbözeteként adódó nyereség vagy veszteség összegét.
 
-(12)[^15] Tartalékot módosító tételként kell elszámolni a tárgyévet követő üzleti évben a tárgyévi eredmény összegét.
+(12)[^16] Tartalékot módosító tételként kell elszámolni a tárgyévet követő üzleti évben a tárgyévi eredmény összegét.
 
-(13)[^16]
+(13)[^17]
 
-[^14]: A 16. § (11) bekezdése a 484/2015. (XII. 29.) Korm. rendelet 15. § 3. pontja szerint módosított szöveg.
-[^15]: A 16. § (12) bekezdése a 484/2015. (XII. 29.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^16]: A 16. § (13) bekezdését a 484/2015. (XII. 29.) Korm. rendelet 17. § 2. pontja hatályon kívül helyezte.
+[^15]: A 16. § (11) bekezdése a 484/2015. (XII. 29.) Korm. rendelet 15. § 3. pontja szerint módosított szöveg.
+[^16]: A 16. § (12) bekezdése a 484/2015. (XII. 29.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^17]: A 16. § (13) bekezdését a 484/2015. (XII. 29.) Korm. rendelet 17. § 2. pontja hatályon kívül helyezte.

@@ -1,4 +1,4 @@
-## V. Fejezet[^33]
+## V. Fejezet[^36]
 
 ## KÁRRENDEZÉSI ALAP
 
@@ -8,4 +8,4 @@
 
 (2) Az éves beszámoló a 8. számú melléklet szerinti mérleget, a 9. számú melléklet szerinti eredménykimutatást és a 29/K. § szerinti kiegészítő mellékletet foglalja magában. Az éves beszámolóval egyidejűleg a 29/L. § szerinti üzleti jelentést is el kell készíteni.
 
-[^33]: A V. fejezetet (29/G–29/N. §) a 484/2015. (XII. 29.) Korm. rendelet 13. §-a iktatta be.
+[^36]: A V. fejezetet (29/G–29/N. §) a 484/2015. (XII. 29.) Korm. rendelet 13. §-a iktatta be.

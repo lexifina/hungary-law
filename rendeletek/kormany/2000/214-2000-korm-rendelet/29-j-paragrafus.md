@@ -2,13 +2,13 @@
 
 29/J. § (1) Az eredménykimutatás előírt tagolását a 9. számú melléklet tartalmazza.
 
-(2)[^38] A kárrendezésből származó bevételek között elkülönítetten kell kimutatni a Befektető-védelmi Alap tagjai által teljesítendő (a Befektető-védelmi Alap tagjaitól igényelt) éves befizetés összegét.
+(2)[^41] A kárrendezésből származó bevételek között elkülönítetten kell kimutatni a Befektető-védelmi Alap tagjai által teljesítendő (a Befektető-védelmi Alap tagjaitól igényelt) éves befizetés összegét.
 
-(3)[^39] A kárrendezésből származó ráfordítások között elkülönítetten kell kimutatni:
+(3)[^42] A kárrendezésből származó ráfordítások között elkülönítetten kell kimutatni:
 
-a)[^40] a kárrendezés kifizetésével megbízott hitelintézetnek fizetett lebonyolítási díj összegét;
+a)[^43] a kárrendezés kifizetésével megbízott hitelintézetnek fizetett lebonyolítási díj összegét;
 
-b)[^41] a kárrendezés kifizetésével kapcsolatban felmerült egyéb költségek összegét.
+b)[^44] a kárrendezés kifizetésével kapcsolatban felmerült egyéb költségek összegét.
 
 (4) A tárgyévi költségeket a 9. számú melléklet szerinti bontásban kell kimutatni.
 
@@ -16,7 +16,7 @@ b)[^41] a kárrendezés kifizetésével kapcsolatban felmerült egyéb költség
 
 (6) Tartalékot módosító tételként kell elszámolni a tárgyévet követő üzleti évben a tárgyévi eredmény összegét.
 
-[^38]: A 29/J. § (2) bekezdése a 480/2016. (XII. 28.) Korm. rendelet 10. § 2. pontja szerint módosított szöveg.
-[^39]: A 29/J. § (3) bekezdés nyitó szövegrésze a 480/2016. (XII. 28.) Korm. rendelet 10. § 2. pontja szerint módosított szöveg.
-[^40]: A 29/J. § (3) bekezdés a) pontja a 480/2016. (XII. 28.) Korm. rendelet 10. § 1. pontja szerint módosított szöveg.
-[^41]: A 29/J. § (3) bekezdés b) pontja a 480/2016. (XII. 28.) Korm. rendelet 10. § 1. pontja szerint módosított szöveg.
+[^41]: A 29/J. § (2) bekezdése a 480/2016. (XII. 28.) Korm. rendelet 10. § 2. pontja szerint módosított szöveg.
+[^42]: A 29/J. § (3) bekezdés nyitó szövegrésze a 480/2016. (XII. 28.) Korm. rendelet 10. § 2. pontja szerint módosított szöveg.
+[^43]: A 29/J. § (3) bekezdés a) pontja a 480/2016. (XII. 28.) Korm. rendelet 10. § 1. pontja szerint módosított szöveg.
+[^44]: A 29/J. § (3) bekezdés b) pontja a 480/2016. (XII. 28.) Korm. rendelet 10. § 1. pontja szerint módosított szöveg.

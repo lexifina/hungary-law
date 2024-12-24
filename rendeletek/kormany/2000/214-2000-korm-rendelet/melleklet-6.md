@@ -1,6 +1,6 @@
 ## A. Tárgyévi eredmény (I+II+III+IV-V-VI-VII-VIII-IX)
 
-6. számú melléklet a 214/2000. (XII. 11.) Korm. rendelethez[^54]
+6. számú melléklet a 214/2000. (XII. 11.) Korm. rendelethez[^58]
 
 A Szanálási Alap mérlegének előírt tagolása
 
@@ -114,4 +114,4 @@ c) egyéb szanálási tevékenységből származó költség, ráfordítás miat
 
 G. Passzív időbeli elhatárolások
 
-[^54]: A 6. számú mellékletet a 362/2014. (XII. 30.) Korm. rendelet 4. § (1) bekezdése iktatta be, szövege a 484/2015. (XII. 29.) Korm. rendelet 16. § (6) bekezdése szerint módosított szöveg.
+[^58]: A 6. számú mellékletet a 362/2014. (XII. 30.) Korm. rendelet 4. § (1) bekezdése iktatta be, szövege a 484/2015. (XII. 29.) Korm. rendelet 16. § (6) bekezdése szerint módosított szöveg.

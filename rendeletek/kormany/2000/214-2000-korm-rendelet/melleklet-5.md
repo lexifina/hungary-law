@@ -1,4 +1,4 @@
-5. számú melléklet a 214/2000. (XII. 11.) Korm. rendelethez[^53]
+5. számú melléklet a 214/2000. (XII. 11.) Korm. rendelethez[^57]
 
 A Befektető-védelmi Alap eredménykimutatásának előírt tagolása
 
@@ -38,4 +38,4 @@ VIII. Pénzügyi műveletek ráfordításai
 
 IX. Működési költségek (07+08+09)
 
-[^53]: Az 5. számú melléklet a 484/2015. (XII. 29.) Korm. rendelet 16. § (5) bekezdésével megállapított szöveg.
+[^57]: Az 5. számú melléklet a 484/2015. (XII. 29.) Korm. rendelet 16. § (5) bekezdésével megállapított szöveg.

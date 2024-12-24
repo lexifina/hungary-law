@@ -1,8 +1,8 @@
-29/C. § (1)[^27] A Szanálási Alap saját tőkéje a jegyzett tőkét, a tartalékot, az értékelési tartalékot és a tárgyévi eredményt foglalja magában.
+29/C. § (1)[^30] A Szanálási Alap saját tőkéje a jegyzett tőkét, a tartalékot, az értékelési tartalékot és a tárgyévi eredményt foglalja magában.
 
 (2) Jegyzett tőkeként kell kimutatni az alaptőkét, amely az intézmények által a Szanálási Alapba fizetendő csatlakozási díjak összegéből áll.
 
-(3)[^28] A tartalékot módosítja az előző üzleti év eredménye.
+(3)[^31] A tartalékot módosítja az előző üzleti év eredménye.
 
 (4) Az állammal szembeni kötelezettség soron kell kimutatni az állam által szanálási célra rendelkezésre bocsátott források összegét.
 
@@ -24,5 +24,5 @@ miatt felmerülő kötelezettséget.
 
 (9) Egyéb rövid lejáratú kötelezettségek között kell kimutatni minden olyan rövid lejáratú kötelezettséget, amelyet a 6. számú melléklet szerinti mérlegben nem kell külön tételként szerepeltetni.
 
-[^27]: A 29/C. § (1) bekezdése a 484/2015. (XII. 29.) Korm. rendelet 15. § 2. pontja szerint módosított szöveg.
-[^28]: A 29/C. § (3) bekezdése a 484/2015. (XII. 29.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^30]: A 29/C. § (1) bekezdése a 484/2015. (XII. 29.) Korm. rendelet 15. § 2. pontja szerint módosított szöveg.
+[^31]: A 29/C. § (3) bekezdése a 484/2015. (XII. 29.) Korm. rendelet 11. §-ával megállapított szöveg.
