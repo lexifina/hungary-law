@@ -1,4 +1,4 @@
-1. melléklet a 181/2017. (VII. 5.) Korm. rendelethez[^44]
+1. melléklet a 181/2017. (VII. 5.) Korm. rendelethez[^42]
 
 Az engedély iránti kérelem tartalmi elemei
 
@@ -6,7 +6,7 @@ Az engedély iránti kérelem tartalmi elemei
 
 a) forgalomba helyezés előtti vizsgálat: érvényes általános forgalomba helyezési engedély (ÁFE) vagy típusbizonyítvány alapján kiadott megfelelőségi nyilatkozat felhasználásával végzett műszaki vizsgálat;
 
-b) időszakos vizsgálat: műszaki vizsgálat, valamint időszakos műszaki vizsgálathoz kapcsolódó adatmódosítás, amennyiben a hatósági elírás következménye és az elírás ténye a vizsgálathoz kapcsolódó iratokban egyértelműen dokumentálásra kerül (a módosítható adatok felsorolása a HKR rendszerben található);
+b)[^43] időszakos vizsgálat: műszaki vizsgálat, valamint időszakos műszaki vizsgálathoz kapcsolódó adatmódosítás, amennyiben a hatósági elírás következménye és az elírás ténye a vizsgálathoz kapcsolódó iratokban egyértelműen dokumentálásra kerül;
 
 c) korlátozott időszakos vizsgálat: új jármű kereskedelmi forgalomba hozatala során, a vonószerkezettel felszerelt jármű vontatásra való alkalmasságának megállapítását, vagy a megkülönböztető- és figyelmeztető jelzést adó készülékek felszerelésének megállapítását követően a Műszaki adatlap adatainak módosításával új Műszaki adatlap kiadása;
 
@@ -104,4 +104,5 @@ d) egyéb, a közúti járművek műszaki megvizsgálásáról szóló 5/1990. (
 
 19. egyéb, jogszabályban nevesített, a közlekedési hatósági műszaki vizsgálathoz kapcsolódó eljárás.
 
-[^44]: Az 1. melléklet a 613/2023. (XII. 22.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^42]: Az 1. melléklet a 613/2023. (XII. 22.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^43]: Az 1. melléklet 1. pont b) alpontja a 425/2024. (XII. 23.) Korm. rendelet 26. §-a szerint módosított szöveg.

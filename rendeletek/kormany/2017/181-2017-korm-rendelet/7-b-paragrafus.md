@@ -1,0 +1,3 @@
+7/B. §[^21] A vizsgálóállomást működtető vállalkozásvezető tisztségviselője, képviseleti joggal rendelkező egyéb személye nem lehet az, aki az engedély iránti kérelem benyújtását megelőző három éven belül vezető tisztséget töltött be olyan vállalkozásban, amelynek a közlekedési hatóság az engedélyét – a vezetői tisztségviselés időtartama alatt – a 14. § (1) bekezdés e) vagy f) pontjában foglaltak miatt vonta vissza.
+
+[^21]: Az újabb 7/A. §-t a 657/2023. (XII. 28.) Korm. rendelet 2. §-a iktatta be, jelölését 7/B. §-ra változtatta és szövegét megállapította a 425/2024. (XII. 23.) Korm. rendelet 23. §-a.
