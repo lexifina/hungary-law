@@ -14,11 +14,11 @@ d)[^3]
 
 e) szolgáltatási tartalék kiegészítéséből eredő követelésként kell kimutatni a nyugdíj folyósításának időszakában a pénztár szolgáltatási tartalékának – a likviditási és kockázati tartalék igénybevétele után is fennálló hiánya miatt – az Alap által történő kiegészítésből a még fennálló követelés összegét;
 
-f) felszámolás alatt álló pénztár járadékos tagja részére folyósított járadék miatti követelésként kell kimutatni az Mpt. 89. §-ának (6) bekezdése alapján az Alap által – a pénztár helyett – kifizetett járadék miatt még fennálló követelés összegét;
+f)[^4] felszámolás alatt álló pénztár járadékos tagja részére folyósított járadék miatti követelésként kell kimutatni az Mpt. 89. § (7) bekezdése alapján az Alap által – a pénztár helyett – kifizetett járadék miatt még fennálló követelés összegét;
 
 g) egyéb követelésként kell kimutatni a tagpénztárakkal szembeni követelések behajtásával, a felszámolási eljárással összefüggésben az Alapnál felmerült költségek, ráfordítások tagpénztárra továbbhárított összege miatt még fennálló követelés összegét;
 
-h)[^4] működési célra átadott pénzeszköz miatti követelésként kell kimutatni a Felügyelet engedélyével, visszatérítési kötelezettség mellett működési célra rendelkezésre bocsátott összeget.
+h)[^5] működési célra átadott pénzeszköz miatti követelésként kell kimutatni a Felügyelet engedélyével, visszatérítési kötelezettség mellett működési célra rendelkezésre bocsátott összeget.
 
 (4) Pénztártagokkal, kedvezményezettekkel szembeni követelésként kell kimutatni a felszámolási eljárás, egyezségi tárgyalás során a pénztártagok Alap által történő jogi képviseletéért felszámított díjak garanciális bevételként elszámolt összegét.
 
@@ -28,4 +28,5 @@ h)[^4] működési célra átadott pénzeszköz miatti követelésként kell kim
 
 [^2]: A 8. § (3) bekezdés b) pontja a 484/2015. (XII. 29.) Korm. rendelet 26. § 1. pontja szerint módosított szöveg.
 [^3]: A 8. § (3) bekezdésének d) pontját a 293/2001. (XII. 26.) Korm. rendelet 26. §-a hatályon kívül helyezte.
-[^4]: A 8. § (3) bekezdés h) pontját a 345/2010. (XII. 28.) Korm. rendelet 22. §-a iktatta be, szövege a 345/2013. (IX. 30.) Korm. rendelet 15. § b) pontja szerint módosított szöveg.
+[^4]: A 8. § (3) bekezdés f) pontja a 423/2024. (XII. 23.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^5]: A 8. § (3) bekezdés h) pontját a 345/2010. (XII. 28.) Korm. rendelet 22. §-a iktatta be, szövege a 345/2013. (IX. 30.) Korm. rendelet 15. § b) pontja szerint módosított szöveg.

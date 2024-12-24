@@ -46,7 +46,7 @@
 
 ## c) Alapra átszállt befagyott követelések
 
-## d)[^18]
+## d)[^19]
 
 ## e) szolgáltatási tartalék kiegészítéséből eredő követelések
 
@@ -92,7 +92,7 @@
 
 ## III. Értékelési tartalék
 
-## IV.[^19] Tárgyévi eredmény
+## IV.[^20] Tárgyévi eredmény
 
 ## E. Céltartalékok
 
@@ -120,9 +120,9 @@
 
 ## Források összesen
 
-2. számú melléklet a 217/2000. (XII. 11.) Korm. rendelethez[^20]
+2. számú melléklet a 217/2000. (XII. 11.) Korm. rendelethez[^21]
 
-## Az eredménykimutatás előírt tagolása
+Az eredménykimutatás előírt tagolása
 
 01. Tagpénztárakkal szemben elszámolt díjbevételek
 
@@ -168,7 +168,7 @@ V. Egyéb ráfordítások
 
 ## A. Szokásos tevékenység eredménye (I+II–III–IV–V)
 
-12.[^21] Befektetett pénzügyi eszközökből (értékpapírokból, kölcsönökből) származó bevételek, árfolyamnyereségek
+12.[^22] Befektetett pénzügyi eszközökből (értékpapírokból, kölcsönökből) származó bevételek, árfolyamnyereségek
 
 13. Egyéb kapott (járó) kamatok és kamatjellegű bevételek
 
@@ -176,9 +176,9 @@ V. Egyéb ráfordítások
 
 VI. Pénzügyi műveletek bevételei (12+13+14)
 
-15.[^22] Befektetett pénzügyi eszközökből (értékpapírokból, kölcsönökből) származó ráfordítások, árfolyamveszteségek
+15.[^23] Befektetett pénzügyi eszközökből (értékpapírokból, kölcsönökből) származó ráfordítások, árfolyamveszteségek
 
-16.[^23] Fizetendő (fizetett) kamatok és kamatjellegű ráfordítások
+16.[^24] Fizetendő (fizetett) kamatok és kamatjellegű ráfordítások
 
 17. Értékpapírok, bankbetétek értékvesztése
 
@@ -188,21 +188,21 @@ VII. Pénzügyi műveletek ráfordításai (15+16+17+18)
 
 B. Pénzügyi műveletek eredménye (VI–VII)
 
-VIII.[^24]
+VIII.[^25]
 
-IX.[^25]
+IX.[^26]
 
-C.[^26]
+C.[^27]
 
-C.[^27] Tárgyévi eredmény (±A±B)
+C.[^28] Tárgyévi eredmény (±A±B)
 
-[^18]: Az 1. számú melléklet B/II. részének 1.d) sorát a 293/2001. (XII. 26.) Korm. rendelet 26. §-a hatályon kívül helyezte.
-[^19]: Az 1. számú melléklet „D. Saját tőke” pont IV. alpontja a 484/2015. (XII. 29.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg.
-[^20]: A 2. számú melléklet a 293/2001. (XII. 26.) Korm. rendelet 26. §-a, a 325/2009. (XII. 29.) Korm. rendelet 44. §-a, a 345/2010. (XII. 28.) Korm. rendelet 25. §-a szerint módosított szöveg.
-[^21]: A 2. számú melléklet 12. pontja a 484/2015. (XII. 29.) Korm. rendelet 27. § (2) bekezdésével megállapított szöveg.
-[^22]: A 2. számú melléklet 15. pontja a 484/2015. (XII. 29.) Korm. rendelet 27. § (2) bekezdésével megállapított szöveg.
-[^23]: A 2. számú melléklet 16. pontja a 484/2015. (XII. 29.) Korm. rendelet 27. § (2) bekezdésével megállapított szöveg.
-[^24]: A 2. számú melléklet VIII. pontját a 484/2015. (XII. 29.) Korm. rendelet 27. § (2) bekezdése hatályon kívül helyezte.
-[^25]: A 2. számú melléklet IX. pontját a 484/2015. (XII. 29.) Korm. rendelet 27. § (2) bekezdése hatályon kívül helyezte.
-[^26]: A 2. számú melléklet C. pontját a 484/2015. (XII. 29.) Korm. rendelet 27. § (2) bekezdése hatályon kívül helyezte.
-[^27]: A 2. számú melléklet 15. pontja a 484/2015. (XII. 29.) Korm. rendelet 27. § (2) bekezdésével megállapított szöveg.
+[^19]: Az 1. számú melléklet B/II. részének 1.d) sorát a 293/2001. (XII. 26.) Korm. rendelet 26. §-a hatályon kívül helyezte.
+[^20]: Az 1. számú melléklet „D. Saját tőke” pont IV. alpontja a 484/2015. (XII. 29.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg.
+[^21]: A 2. számú melléklet a 293/2001. (XII. 26.) Korm. rendelet 26. §-a, a 325/2009. (XII. 29.) Korm. rendelet 44. §-a, a 345/2010. (XII. 28.) Korm. rendelet 25. §-a szerint módosított szöveg.
+[^22]: A 2. számú melléklet 12. pontja a 484/2015. (XII. 29.) Korm. rendelet 27. § (2) bekezdésével megállapított szöveg.
+[^23]: A 2. számú melléklet 15. pontja a 484/2015. (XII. 29.) Korm. rendelet 27. § (2) bekezdésével megállapított szöveg.
+[^24]: A 2. számú melléklet 16. pontja a 484/2015. (XII. 29.) Korm. rendelet 27. § (2) bekezdésével megállapított szöveg.
+[^25]: A 2. számú melléklet VIII. pontját a 484/2015. (XII. 29.) Korm. rendelet 27. § (2) bekezdése hatályon kívül helyezte.
+[^26]: A 2. számú melléklet IX. pontját a 484/2015. (XII. 29.) Korm. rendelet 27. § (2) bekezdése hatályon kívül helyezte.
+[^27]: A 2. számú melléklet C. pontját a 484/2015. (XII. 29.) Korm. rendelet 27. § (2) bekezdése hatályon kívül helyezte.
+[^28]: A 2. számú melléklet 15. pontja a 484/2015. (XII. 29.) Korm. rendelet 27. § (2) bekezdésével megállapított szöveg.
