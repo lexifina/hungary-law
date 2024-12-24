@@ -1,5 +1,3 @@
-## A H5 HÉV kül- és belterületi szakasza tengelypontjainak koordinátái és a beépítésre nem szánt terület határpontjainak tengelytől mért távolsága
-
 |  | A | B | C | D | E | F | G |
 
 | 1. | Tengelypont koordináták | Távolság méterben |
