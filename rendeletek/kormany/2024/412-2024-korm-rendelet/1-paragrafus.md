@@ -1,3 +1,3 @@
-1. § A Budavári Palota területén, valamint a De la Motte-palotát érintően a Nemzeti Hauszmann-terv keretében megvalósuló beruházásokkal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 210/2016. (VII. 21.) Korm. rendelet [a továbbiakban: 210/2016. (VII. 21.) Korm. rendelet] a következő 14. §-sal egészül ki:
+1. §[^2]
 
-„14. § E rendeletnek a Budavári Palota területén, valamint a De la Motte-palotát érintően a Nemzeti Hauszmann-terv keretében megvalósuló beruházásokkal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 210/2016. (VII. 21.) Korm. rendelet módosításáról szóló 412/2024. (XII. 20.) Korm. rendelettel (a továbbiakban: Módr6.) módosított 1. mellékletét a Módr6. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

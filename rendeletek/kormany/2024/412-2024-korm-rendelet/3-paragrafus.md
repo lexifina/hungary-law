@@ -1,1 +1,3 @@
-3. § A 210/2016. (VII. 21.) Korm. rendelet 5/C. § 4. pontjában a „300” szövegrész helyébe a „200” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
