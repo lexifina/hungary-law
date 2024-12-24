@@ -1,6 +1,6 @@
 ## 11. § E rendelet rendelkezéseit a rendelet hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
 
-12. §[^13] Ez a rendelet
+12. §[^14] Ez a rendelet
 
 a) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet,
 
@@ -10,4 +10,4 @@ c) az „Állami támogatási intézkedésekre vonatkozó ideiglenes válságkez
 
 hatálya alá tartozó támogatást tartalmaz.
 
-[^13]: A 12. § a 28/2022. (XII. 13.) IM rendelet 4. §-ával megállapított szöveg.
+[^14]: A 12. § a 28/2022. (XII. 13.) IM rendelet 4. §-ával megállapított szöveg.

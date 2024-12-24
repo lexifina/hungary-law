@@ -14,6 +14,6 @@
 
 (7) A kedvezményezettnek az 1407/2013/EU bizottsági rendelet 5. cikk (1) bekezdése figyelembevételével – az ott meghatározott feltételek teljesítésének megállapítására alkalmas módon – nyilatkoznia kell a részére a csekély összegű támogatás odaítélésének évében és az azt megelőző két pénzügyi évben nyújtott csekély összegű támogatások támogatástartalmáról.
 
-(8)[^4] Csekély összegű támogatás esetén 2024. június 30-ig lehet támogatási döntést hozni.
+(8)[^5] Csekély összegű támogatás esetén 2024. június 30-ig lehet támogatási döntést hozni.
 
-[^4]: Az 5. § (8) bekezdése a 11/2021. (X. 14.) IM rendelet 2. §-ával megállapított szöveg.
+[^5]: Az 5. § (8) bekezdése a 11/2021. (X. 14.) IM rendelet 2. §-ával megállapított szöveg.
