@@ -60,12 +60,15 @@ Kivételi körbe eső állami tulajdonú gazdasági társaságok
 
 | 28. | Magyar Posta Életbiztosító Zártkörűen Működő Részvénytársaság | 01 10 044750 |
 
-| 29.[^1] | Büntetés-Végrehajtás Országos Parancsnoksága tulajdonosi joggyakorlása alá tartozó társaságok | – |
+| 29.[^4] | Büntetés-Végrehajtás Országos Parancsnoksága tulajdonosi joggyakorlása alá tartozó társaságok | – |
 
-| 30.[^2] | Magyar Rádió Művészeti Együttesei Nonprofit Korlátolt Felelősségű Társaság | 01 09 697582 |
+| 30.[^5] | Magyar Rádió Művészeti Együttesei Nonprofit Korlátolt Felelősségű Társaság | 01 09 697582 |
 
-| 31.[^3] | N.S. MÉDIA ÉS VAGYONKEZELŐ Korlátolt Felelősségű Társaság | 01 09 404379 |
+| 31.[^6] | N.S. MÉDIA ÉS VAGYONKEZELŐ Korlátolt Felelősségű Társaság | 01 09 404379 |
 
-[^1]: Az 1. mellékletben foglalt táblázat 29. sorát a 256/2024. (VIII. 22.) Korm. rendelet 1. §-a iktatta be.
-[^2]: Az 1. mellékletben foglalt táblázat 30. sorát a 256/2024. (VIII. 22.) Korm. rendelet 1. §-a iktatta be.
-[^3]: Az 1. mellékletben foglalt táblázat 31. sorát a 256/2024. (VIII. 22.) Korm. rendelet 1. §-a iktatta be.
+| 32.[^7] | Magyar Bormarketing Ügynökség Zártkörűen Működő Részvénytársaság | 01 10 142187 |
+
+[^4]: Az 1. mellékletben foglalt táblázat 29. sorát a 256/2024. (VIII. 22.) Korm. rendelet 1. §-a iktatta be.
+[^5]: Az 1. mellékletben foglalt táblázat 30. sorát a 256/2024. (VIII. 22.) Korm. rendelet 1. §-a iktatta be.
+[^6]: Az 1. mellékletben foglalt táblázat 31. sorát a 256/2024. (VIII. 22.) Korm. rendelet 1. §-a iktatta be.
+[^7]: Az 1. mellékletben foglalt táblázat 32. sorát a 451/2024. (XII. 23.) Korm. rendelet 2. §-a iktatta be.
