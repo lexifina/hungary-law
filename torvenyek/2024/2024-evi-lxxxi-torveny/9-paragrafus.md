@@ -1,7 +1,1 @@
-9. § A közúti közlekedésről szóló 1988. évi I. törvény 33/C. § (1) bekezdés c) pont ca) alpontja helyébe a következő rendelkezés lép:
-
-(A díjköteles országos közutak díjfizetés ellenében történő használatának ellenőrzésére jogosult szervezetek a díjköteles utak használati díja megfizetésének helyszíni ellenőrzése, valamint a megengedett legnagyobb össztömeget, tengelyterhelést és méretet meghaladó járművek helyszíni ellenőrzése alkalmával hatósági ellenőrzés keretében eljárva jogosultak:
-
-a rendőrség általános rendőrségi feladatok ellátására létrehozott szerve intézkedését kérni, és annak megérkezéséig – de legfeljebb két óra időtartamra – feltartóztatni azt, aki a gépjármű okmányait nem adja át, vagy személyazonosságát nem igazolja, vagy az intézkedést más módon akadályozza,)
-
-„ca) a megengedett legnagyobb össztömeget, tengelyterhelést és méretet meghaladó járművek helyszíni ellenőrzése során megállapított, a 44. § (8) bekezdésében meghatározott mértékű szabályszegés esetén az eljárásra hatáskörrel rendelkező hatóság kiérkezéséig a meghatározott össztömeget, tengelyterhelést, tengelycsoport-terhelést és méretet meghaladó járművek közlekedéséről szóló miniszteri rendelet szerinti, egyedi elbírálás alapján kiadható közútkezelői hozzájárulással közlekedtethető járművet két órát meghaladó időtartamon túl is, az egyszerűsített eljárásban kiadható közútkezelői hozzájárulással közlekedtethető járművet legfeljebb két óra időtartamra,”
+### 9. §

@@ -1,3 +1,1 @@
-40. § A víziközlekedésről szóló 2000. évi XLII. törvény 48/A. § (4a) bekezdése helyébe a következő rendelkezés lép:
-
-„(4a) A Vizsgaközpont az e törvényben, valamint e törvény felhatalmazása alapján kiadott rendeletben meghatározott vizsgáztatási és okmánykiállítási tevékenységével összefüggésben a (4) bekezdés a) pontjában foglalt adatokat, a hajózási képesítő vizsgára jelentkező és vizsgát tett személy, valamint hajózási képesítő okmányt igénylő személy egészségi alkalmassági minősítésére vonatkozó adatait, természetes személyazonosító adatait, képesítéssel kapcsolatos adatait, valamint arra vonatkozó adatait, hogy hajózási képesítéshez kötött foglalkozástól vagy járművezetéstől eltiltás hatálya alatt nem áll, – a vizsgaeredmények, a megszerzett képesítések és kiállított okmányok hitelességének utólagos igazolása céljából – a vizsgára jelentkezéstől számított, illetve az okmányigénylés benyújtását követő 40 évig kezeli.”
+### 40. §

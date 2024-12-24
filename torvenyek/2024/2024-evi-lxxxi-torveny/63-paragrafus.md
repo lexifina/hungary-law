@@ -1,13 +1,13 @@
 63. § Hatályát veszti a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény
 
-a) 2. § 7. pont 7.1. alpontja,
+a)
 
 b)
 
-c) 67/G. § (4) bekezdése,
+c)
 
-d) 73. § (6) bekezdése,
+d)
 
-e) 80/C. § (4) bekezdése,
+e)
 
-f) 84. § (3)–(5) bekezdése.
+f)

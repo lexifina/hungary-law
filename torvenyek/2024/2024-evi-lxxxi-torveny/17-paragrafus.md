@@ -4,32 +4,32 @@
 
 2.
 
-3. 18. § (3) bekezdésében a „továbbképzésen részt vett és vizsgakötelezettségének eleget tett” szövegrész helyébe a „továbbképzést teljesítette” szöveg,
+3.
 
 4.
 
 5.
 
-6. 18/K. §-ában a „szolgáltatatást” szövegrész helyébe a „szolgáltatást” szöveg,
+6.
 
 7.
 
 8.
 
-9. 20. § (15) bekezdésében a „(7)–(10) bekezdésekben” szövegrész helyébe a „(7) bekezdésben, valamint a 44. § (9)–(12) bekezdésében” szöveg,
+9.
 
-10. 20. § (16) bekezdésében a „(7)–(10) bekezdésben” szövegrész helyébe a „(7) bekezdésben, valamint a 44. § (9)–(12) bekezdésében” szöveg,
+10.
 
 11.
 
 12.
 
-13. 21/L. § (3) bekezdésében a „20. § (9)” szövegrész helyébe a „44. § (10)” szöveg,
+13.
 
 14.
 
-15. 47. § 9. pontjában a „két méternél kisebb” szövegrész helyébe a „kétméteres vagy annál kisebb” szöveg,
+15.
 
-16. 47. § 10. pontjában az „a közút határától számított két méter távolságon” szövegrész helyébe az „az út területén” szöveg
+16.
 
 lép.

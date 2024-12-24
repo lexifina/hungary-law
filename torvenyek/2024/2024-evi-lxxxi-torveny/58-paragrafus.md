@@ -1,3 +1,1 @@
-58. § A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény „A vasúti igazgatási szerv kormánytisztviselője” alcíme a következő 75/B. §-sal egészül ki:
-
-„75/B. § A vasúti igazgatási szerv munkavállalója köteles haladéktalanul írásban bejelenteni, ha vele szemben a 73. § (1) bekezdésében meghatározott összeférhetetlenségi ok merül fel, illetve ha munkaviszonyának fennállása alatt összeférhetetlen helyzetbe kerül. Ha a munkáltatói jogkör gyakorlójának összeférhetetlenségi ok jut a tudomására, a jogkövetkezmények megjelölésével köteles haladéktalanul írásban felszólítani a munkavállalót, hogy az összeférhetetlenséget 30 napon belül szüntesse meg. Amennyiben a munkavállaló az összeférhetetlenséget a felszólítás kézbesítésétől számított 30 napon belül nem szünteti meg, munkaviszonya megszűnik.”
+### 58. §

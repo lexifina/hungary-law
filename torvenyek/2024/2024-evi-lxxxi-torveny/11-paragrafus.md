@@ -1,5 +1,1 @@
-11. § A közúti közlekedésről szóló 1988. évi I. törvény 35. §-a helyébe a következő rendelkezés lép:
-
-„35. § (1) Az út kezelője az útkezelői kötelezettségének megszegésével okozott kárt a polgári jog általános, felróhatóságon alapuló felelősségi alakzatára vonatkozó szabályok szerint köteles megtéríteni. A kártérítési követelést a kár keletkezését követően 30 napos határidővel kell a közút kezelőjéhez bejelenteni. A polgári jog általános felelősségi szabályaitól eltérően, ha a károsult a bejelentésre előírt 30 napos határidőt elmulasztja, a közútkezelő felelőssége nem áll be, kivéve, ha a károsult bizonyítja, hogy a kárt okozó, a közút kezelőjének a kárfelelősségébe tartozó állapot a kár bejelentésének időpontjában is fennáll.
-
-(2) Ha az út kezelője a tevékenységére irányadó jogszabályoknak megfelelően járt el, akkor nem állapítható meg az útkezelő felróható magatartása.”
+### 11. §
