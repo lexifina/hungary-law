@@ -1,3 +1,3 @@
-32. §[^347]
+32. §[^348]
 
-[^347]: A 32. §-t és az azt megelőző alcímet a 118/2008. (V. 8.) Korm. rendeet 1. § 1108. pontja hatályon kívül helyezte.
+[^348]: A 32. §-t és az azt megelőző alcímet a 118/2008. (V. 8.) Korm. rendeet 1. § 1108. pontja hatályon kívül helyezte.

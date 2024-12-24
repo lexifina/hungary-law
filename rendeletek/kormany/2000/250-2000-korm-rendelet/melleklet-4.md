@@ -388,7 +388,7 @@ Az összevont (konszolidált) éves beszámolót készítő pénzügyi intézmé
 
 ## „,,c) Konszolidációból adódó (számított) társasági adókövetelés''”
 
-3.[^379] A Források ,,4. Egyéb kötelezettségek'' sora kiegészül az alábbi d) ponttal:
+3.[^380] A Források ,,4. Egyéb kötelezettségek'' sora kiegészül az alábbi d) ponttal:
 
 ## „,,d) Konszolidációból adódó (számított) társasági adókötelezettség''”
 
@@ -400,4 +400,4 @@ Az összevont (konszolidált) éves beszámolót készítő pénzügyi intézmé
 
 5. A Források kiegészülnek a következő 16–18. ponttal:
 
-[^379]: A 4. melléklet 3. pontja a 642/2023. (XII. 28.) Korm. rendelet 16. § 3. pontja szerint módosított szöveg.
+[^380]: A 4. melléklet 3. pontja a 642/2023. (XII. 28.) Korm. rendelet 16. § 3. pontja szerint módosított szöveg.

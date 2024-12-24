@@ -36,7 +36,7 @@ e) az egyéb befektetési szolgáltatás bevételeként, illetve ráfordításak
 
 (13)[^169] A hitelintézet és a pénzügyi vállalkozás a pénzügyi szervezetek különadójaként fizetendő, bevallott adót az egyéb ráfordítások között számolja el annak az évnek az eredménye terhére, amelyre az a külön jogszabály szerint vonatkozik és az üzleti éven belül – a 12. § (2) bekezdése szerinti évközi zárlati munkálatok során – időarányosan mutatja be az eredményben az aktív időbeli elhatárolásokkal szemben.
 
-(14)[^170] A hitelintézet a hitelintézeti különadót a társasági adóval azonos módon, attól elkülönítetten és közvetlenül azt megelőzően számolja el az eredmény terhére, továbbá az eredménykimutatásban az adófizetési kötelezettség soron mutatja be.
+(14)[^170]
 
 [^159]: A 11. § (1) bekezdésének c) pontja a 238/2003. (XII. 17.) Korm. rendelet 8. § (1) bekezdésével megállapított, a 480/2016. (XII. 28.) Korm. rendelet 57. § 8. pontja szerint módosított szöveg.
 [^160]: A 11. § (1) bekezdés d) pontja a 484/2015. (XII. 29.) Korm. rendelet 69. § 6. pontja szerint módosított szöveg.
@@ -49,4 +49,4 @@ e) az egyéb befektetési szolgáltatás bevételeként, illetve ráfordításak
 [^167]: A 11. § (9) bekezdése a 238/2003. (XII. 17.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg, e módosító rendelet 18. § (1)–(2) bekezdése alapján a rendelkezést először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, illetve a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
 [^168]: A 11. § (12) bekezdését a 238/2003. (XII. 17.) Korm. rendelet 8. § (4) bekezdése iktatta be, e módosító rendelet 18. § (1)–(2) bekezdése alapján a rendelkezést először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, illetve a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
 [^169]: A 11. § (13) bekezdését a 345/2010. (XII. 28.) Korm. rendelet 1. §-a iktatta be.
-[^170]: A 11. § (14) bekezdését a 345/2010. (XII. 28.) Korm. rendelet 1. §-a iktatta be.
+[^170]: A 11. § (14) bekezdését a 345/2010. (XII. 28.) Korm. rendelet 1. §-a iktatta be, a 423/2024. (XII. 23.) Korm. rendelet 8. §-a hatályon kívül helyezte.

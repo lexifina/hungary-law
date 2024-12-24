@@ -2,7 +2,7 @@
 
 ## Az Európai Unió jogának való megfelelés
 
-30. §[^341] (1)[^342] E rendelet a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg:
+30. §[^342] (1)[^343] E rendelet a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg:
 
 a) az Európai Parlament és a Tanács 2002. július 19-i, a nemzetközi számviteli standardok alkalmazásáról szóló 1606/2002/EK rendelete,
 
@@ -18,11 +18,11 @@ c) az Európai Parlament és a Tanács 2001. szeptember 27-i, 2001/65/EK iránye
 
 d) az Európai Parlament és a Tanács 2003. június 18-i, 2003/51/EK irányelve a meghatározott jogi formájú társaságok, a bankok és más pénzügyi intézmények, illetve biztosítóintézetek éves és összevont (konszolidált) éves beszámolóiról szóló 78/660/EGK, 83/349/EGK, 86/635/EGK és 91/674/EGK irányelvek módosításáról,
 
-e)[^343] az Európai Parlament és a Tanács 2013. június 26-i, 2013/36/EU irányelve a hitelintézetek tevékenységéhez való hozzáférésről és a hitelintézetek és befektetési vállalkozások prudenciális felügyeletéről, a 2002/87/EK irányelv módosításáról, a 2006/48/EK és a 2006/49/EK irányelv hatályon kívül helyezéséről.
+e)[^344] az Európai Parlament és a Tanács 2013. június 26-i, 2013/36/EU irányelve a hitelintézetek tevékenységéhez való hozzáférésről és a hitelintézetek és befektetési vállalkozások prudenciális felügyeletéről, a 2002/87/EK irányelv módosításáról, a 2006/48/EK és a 2006/49/EK irányelv hatályon kívül helyezéséről.
 
-f)[^344]
+f)[^345]
 
-[^341]: A 30. § és az előtte lévő alcím a 357/2006. (XII. 27.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^342]: A 30. § (1) bekezdése az 518/2013. (XII. 30.) Korm. rendelet 31. §-ával megállapított szöveg.
-[^343]: A 30. § (2) bekezdés e) pontja az 518/2013. (XII. 30.) Korm. rendelet 34. § 14. pontja szerint módosított szöveg.
-[^344]: A 30. § (2) bekezdés f) pontját az 518/2013. (XII. 30.) Korm. rendelet 35. § 2. pontja hatályon kívül helyezte.
+[^342]: A 30. § és az előtte lévő alcím a 357/2006. (XII. 27.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^343]: A 30. § (1) bekezdése az 518/2013. (XII. 30.) Korm. rendelet 31. §-ával megállapított szöveg.
+[^344]: A 30. § (2) bekezdés e) pontja az 518/2013. (XII. 30.) Korm. rendelet 34. § 14. pontja szerint módosított szöveg.
+[^345]: A 30. § (2) bekezdés f) pontját az 518/2013. (XII. 30.) Korm. rendelet 35. § 2. pontja hatályon kívül helyezte.

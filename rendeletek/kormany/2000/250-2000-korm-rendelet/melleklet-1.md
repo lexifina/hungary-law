@@ -1,4 +1,4 @@
-1. számú melléklet a 250/2000. (XII. 24.) Korm. rendelethez[^376]
+1. számú melléklet a 250/2000. (XII. 24.) Korm. rendelethez[^377]
 
 ## Mérleg előírt tagolása
 
@@ -414,4 +414,4 @@
 
 c) Halasztott adókülönbözet (±)
 
-[^376]: Az 1. számú melléklet a 484/2015. (XII. 29.) Korm. rendelet 70. § (1) bekezdésével megállapított, a 642/2023. (XII. 28.) Korm. rendelet 16. § 1. pontja szerint módosított szöveg.
+[^377]: Az 1. számú melléklet a 484/2015. (XII. 29.) Korm. rendelet 70. § (1) bekezdésével megállapított, a 642/2023. (XII. 28.) Korm. rendelet 16. § 1. pontja szerint módosított szöveg.

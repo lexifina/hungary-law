@@ -1,8 +1,8 @@
-## A szakosított hitelintézetként működő központi szerződő fél sajátos előírásai[^335]
+## A szakosított hitelintézetként működő központi szerződő fél sajátos előírásai[^336]
 
-28/B. §[^336] (1)[^337] A szakosított hitelintézetként működő központi szerződő fél (az általa végezhető tevékenységek vonatkozásában) az általa elszámolt, illetve az általa elszámolásra közvetített ügylet, valamint az általa garantált ügyletek teljesítésének biztosítása érdekében működtetett garanciarendszer tekintetében e rendelet központi szerződő félre vonatkozó rendelkezéseit a (2)–(5) bekezdésben foglalt eltérésekkel köteles alkalmazni.
+28/B. §[^337] (1)[^338] A szakosított hitelintézetként működő központi szerződő fél (az általa végezhető tevékenységek vonatkozásában) az általa elszámolt, illetve az általa elszámolásra közvetített ügylet, valamint az általa garantált ügyletek teljesítésének biztosítása érdekében működtetett garanciarendszer tekintetében e rendelet központi szerződő félre vonatkozó rendelkezéseit a (2)–(5) bekezdésben foglalt eltérésekkel köteles alkalmazni.
 
-(2)[^338] A szakosított hitelintézetként működő központi szerződő félnek e rendelet
+(2)[^339] A szakosított hitelintézetként működő központi szerződő félnek e rendelet
 
 a) központi értéktári tevékenységgel,
 
@@ -16,15 +16,15 @@ e) nemesfém letéti őrzéssel és letétkezeléssel
 
 kapcsolatos, központi szerződő félre vonatkozó előírásait nem kell alkalmaznia.
 
-(3)[^339] Ahol a központi szerződő féllel kapcsolatos rendelkezések a központi szerződő fél tevékenységét segítő, kiegészítő tevékenységekről szólnak, az alatt informatikai, adatszolgáltatási, oktatási tevékenységeket kell érteni.
+(3)[^340] Ahol a központi szerződő féllel kapcsolatos rendelkezések a központi szerződő fél tevékenységét segítő, kiegészítő tevékenységekről szólnak, az alatt informatikai, adatszolgáltatási, oktatási tevékenységeket kell érteni.
 
 (4) A Hpt. 3. § (1) bekezdés b) és d) pontjában meghatározott tevékenységek kapcsán a szakosított hitelintézetként működő központi szerződő fél a rendelet hitel és pénzkölcsön, valamint pénzforgalmi szolgáltatások nyújtására vonatkozó rendelkezéseit kell alkalmazni.
 
-(5)[^340] Ahol e rendelet a hatálya alá tartozó hitelintézet és pénzügyi vállalkozás központi szerződő féllel szemben fennálló kapcsolatairól rendelkezik, az előírásokat a hitelintézet és a pénzügyi vállalkozás a szakosított hitelintézetként működő központi szerződő féllel szemben fennálló kapcsolataira a (2) bekezdésben felsorolt tevékenységekkel kapcsolatos előírások kivételével köteles alkalmazni.
+(5)[^341] Ahol e rendelet a hatálya alá tartozó hitelintézet és pénzügyi vállalkozás központi szerződő féllel szemben fennálló kapcsolatairól rendelkezik, az előírásokat a hitelintézet és a pénzügyi vállalkozás a szakosított hitelintézetként működő központi szerződő féllel szemben fennálló kapcsolataira a (2) bekezdésben felsorolt tevékenységekkel kapcsolatos előírások kivételével köteles alkalmazni.
 
-[^335]: A 28/B. §-t megelőző alcímet az 518/2013. (XII. 30.) Korm. rendelet 30. §-a iktatta be.
-[^336]: A 28/B. §-t az 518/2013. (XII. 30.) Korm. rendelet 30. §-a iktatta be.
-[^337]: A 28/B. § (1) bekezdése a 484/2015. (XII. 29.) Korm. rendelet 69. § 17. pontja szerint módosított szöveg.
-[^338]: A 28/B. § (2) bekezdés záró szövegrésze a 484/2015. (XII. 29.) Korm. rendelet 69. § 17. pontja szerint módosított szöveg.
-[^339]: A 28/B. § (3) bekezdése a 484/2015. (XII. 29.) Korm. rendelet 67. §-ával megállapított szöveg.
-[^340]: A 28/B. § (5) bekezdése a 484/2015. (XII. 29.) Korm. rendelet 69. § 18. pontja szerint módosított szöveg.
+[^336]: A 28/B. §-t megelőző alcímet az 518/2013. (XII. 30.) Korm. rendelet 30. §-a iktatta be.
+[^337]: A 28/B. §-t az 518/2013. (XII. 30.) Korm. rendelet 30. §-a iktatta be.
+[^338]: A 28/B. § (1) bekezdése a 484/2015. (XII. 29.) Korm. rendelet 69. § 17. pontja szerint módosított szöveg.
+[^339]: A 28/B. § (2) bekezdés záró szövegrésze a 484/2015. (XII. 29.) Korm. rendelet 69. § 17. pontja szerint módosított szöveg.
+[^340]: A 28/B. § (3) bekezdése a 484/2015. (XII. 29.) Korm. rendelet 67. §-ával megállapított szöveg.
+[^341]: A 28/B. § (5) bekezdése a 484/2015. (XII. 29.) Korm. rendelet 69. § 18. pontja szerint módosított szöveg.
