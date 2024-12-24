@@ -1,4 +1,4 @@
-3. § (1) E rendelet szerinti, az Európai Unió működéséről szóló szerződés (a továbbiakban: EUMSz) 107. cikk (1) bekezdése szerinti állami támogatás esetében az 1. melléklet szerinti táblázat
+3. § (1)[^1] E rendelet szerinti, az Európai Unió működéséről szóló szerződés (a továbbiakban: EUMSz) 107. cikk (1) bekezdése szerinti állami támogatás esetében az 1. melléklet szerinti táblázat
 
 a) 4. sora alapján a beruházás ösztönzési célelőirányzat felhasználásáról szóló kormányrendeletben meghatározott szabályok szerinti támogatás;
 
@@ -24,7 +24,7 @@ b) 6. sora alapján
 
 10. a 651/2014/EU bizottsági rendelet 31. cikke szerinti képzési támogatás,
 
-11. a 651/2014/EU bizottsági rendelet 41. cikke szerinti a megújuló energia, megújuló hidrogén és nagy hatásfokú kapcsolt energiatermeléshez nyújtott beruházási támogatás,
+11. a 651/2014/EU bizottsági rendelet 41. cikke szerinti, a megújuló energia, megújuló hidrogén és nagy hatásfokú kapcsolt energiatermeléshez nyújtott beruházási támogatás,
 
 12. a 651/2014/EU bizottsági rendelet 53. cikke szerinti kultúrát és kulturális örökség megőrzését előmozdító támogatás,
 
@@ -54,7 +54,7 @@ c) 7. sora alapján
 
 8. a 651/2014/EU bizottsági rendelet 53. cikke szerinti kultúrát és kulturális örökség megőrzését előmozdító támogatás,
 
-9. a 651/2014/EU bizottsági rendelet 54. cikk audiovizuális alkotásokra vonatkozó támogatási programok szerinti támogatás;
+9. a 651/2014/EU bizottsági rendelet 54. cikke szerinti audiovizuális alkotásokra vonatkozó támogatási programok szerinti támogatás;
 
 d) 12. sora alapján
 
@@ -94,7 +94,7 @@ f) 14. sora alapján
 
 7. a 651/2014/EU bizottsági rendelet 28. cikke szerinti kis- és középvállalkozásoknak nyújtott innovációs támogatás,
 
-8. a 651/2014/EU bizottsági rendelet 41. cikke szerinti a megújuló energia, megújuló hidrogén és nagy hatásfokú kapcsolt energiatermeléshez nyújtott beruházási támogatás,
+8. a 651/2014/EU bizottsági rendelet 41. cikke szerinti, a megújuló energia, megújuló hidrogén és nagy hatásfokú kapcsolt energiatermeléshez nyújtott beruházási támogatás,
 
 9. az (EU) 2023/2832 bizottsági rendelet szerinti csekély összegű közszolgáltatási támogatás,
 
@@ -126,33 +126,35 @@ g) 18–20. sora alapján
 
 12. a 651/2014/EU bizottsági rendelet 27. cikke szerinti innovációs klaszterre nyújtott támogatás,
 
-13. a 651/2014/EU bizottsági rendelet 31. cikke szerinti képzési támogatás,
+13. a 651/2014/EU bizottsági rendelet 29. cikke szerinti eljárási innováció és szervezési innováció támogatása,
 
-14. a 651/2014/EU bizottsági rendelet 36. cikke szerinti környezetvédelmi beruházási támogatás, beleértve a széntelenítést is,
+14. a 651/2014/EU bizottsági rendelet 31. cikke szerinti képzési támogatás,
 
-15. a 651/2014/EU bizottsági rendelet 36a. cikke szerinti elektromos vagy hidrogéntöltő infrastruktúrára nyújtott beruházási támogatás,
+15. a 651/2014/EU bizottsági rendelet 36. cikke szerinti környezetvédelmi beruházási támogatás, beleértve a széntelenítést is,
 
-16. a 651/2014/EU bizottsági rendelet 38. cikke szerinti energiahatékonysági intézkedésekre irányuló beruházási támogatás (az épületek energiahatékonyságának kivételével),
+16. a 651/2014/EU bizottsági rendelet 36a. cikke szerinti elektromos vagy hidrogéntöltő infrastruktúrára nyújtott beruházási támogatás,
 
-17. a 651/2014/EU bizottsági rendelet 38a. cikke szerinti épület-energiahatékonysági intézkedésekre irányuló beruházási támogatás,
+17. a 651/2014/EU bizottsági rendelet 38. cikke szerinti energiahatékonysági intézkedésekre irányuló beruházási támogatás (az épületek energiahatékonyságának kivételével),
 
-18. a 651/2014/EU bizottsági rendelet 45. cikke szerinti a környezeti károk felszámolására, a természetes élőhelyek és ökoszisztémák rehabilitációjára, a biológiai sokféleség védelmére és visszaállítására, illetve az éghajlatváltozás hatásaihoz való alkalmazkodás és az éghajlatváltozás mérséklése érdekében hozott természetalapú megoldások végrehajtására nyújtott beruházási támogatás,
+18. a 651/2014/EU bizottsági rendelet 38a. cikke szerinti épület-energiahatékonysági intézkedésekre irányuló beruházási támogatás,
 
-19. a 651/2014/EU bizottsági rendelet 48. cikke szerinti energetikai infrastruktúrára irányuló beruházási támogatás,
+19. a 651/2014/EU bizottsági rendelet 45. cikke szerinti a környezeti károk felszámolására, a természetes élőhelyek és ökoszisztémák rehabilitációjára, a biológiai sokféleség védelmére és visszaállítására, illetve az éghajlatváltozás hatásaihoz való alkalmazkodás és az éghajlatváltozás mérséklése érdekében hozott természetalapú megoldások végrehajtására nyújtott beruházási támogatás,
 
-20. a 651/2014/EU bizottsági rendelet 49. cikke szerinti környezetvédelmi és energetikai tanulmányokhoz és tanácsadási szolgáltatásokhoz nyújtott támogatás,
+20. a 651/2014/EU bizottsági rendelet 48. cikke szerinti energetikai infrastruktúrára irányuló beruházási támogatás,
 
-21. a 651/2014/EU bizottsági rendelet 53. cikke szerinti kultúrát és kulturális örökség megőrzését előmozdító támogatás,
+21. a 651/2014/EU bizottsági rendelet 49. cikke szerinti környezetvédelmi és energetikai tanulmányokhoz és tanácsadási szolgáltatásokhoz nyújtott támogatás,
 
-22. a 651/2014/EU bizottsági rendelet 54. cikk audiovizuális alkotásokra vonatkozó támogatási programok szerinti támogatás,
+22. a 651/2014/EU bizottsági rendelet 53. cikke szerinti kultúrát és kulturális örökség megőrzését előmozdító támogatás,
 
-23. a 651/2014/EU bizottsági rendelet 55. cikke szerinti sportlétesítményekre és multifunkcionális szabadidős létesítményekre nyújtott támogatás,
+23. a 651/2014/EU bizottsági rendelet 54. cikke szerinti audiovizuális alkotásokra vonatkozó támogatási programok szerinti támogatás,
 
-24. a 651/2014/EU bizottsági rendelet 56. cikke szerinti helyi infrastruktúrára irányuló támogatás,
+24. a 651/2014/EU bizottsági rendelet 55. cikke szerinti sportlétesítményekre és multifunkcionális szabadidős létesítményekre nyújtott támogatás,
 
-25. a 651/2014/EU bizottsági rendelet 56a. cikke szerinti regionális repülőterekre irányuló támogatás, vagy az Európai Bizottság előzetes jóváhagyását igénylő támogatási intézkedés esetén az Európai Bizottságnak a repülőtereknek és a légitársaságoknak nyújtott állami támogatásról szóló közleménye (2014/C99/03) szerinti támogatás,
+25. a 651/2014/EU bizottsági rendelet 56. cikke szerinti helyi infrastruktúrára irányuló támogatás,
 
-26. a 651/2014/EU bizottsági rendelet 56c. cikke szerinti belvízi kikötőkre irányuló támogatás;
+26. a 651/2014/EU bizottsági rendelet 56a. cikke szerinti regionális repülőterekre irányuló támogatás vagy az Európai Bizottság előzetes jóváhagyását igénylő támogatási intézkedés esetén az Európai Bizottságnak a repülőtereknek és a légitársaságoknak nyújtott állami támogatásról szóló közleménye (2014/C99/03) szerinti támogatás,
+
+27. a 651/2014/EU bizottsági rendelet 56c. cikke szerinti belvízi kikötőkre irányuló támogatás;
 
 h) 21. sora alapján
 
@@ -180,7 +182,7 @@ h) 21. sora alapján
 
 12. a 651/2014/EU bizottsági rendelet 38a. cikke szerinti épület-energiahatékonysági intézkedésekre irányuló beruházási támogatás,
 
-13. a 651/2014/EU bizottsági rendelet 45. cikke szerinti a környezeti károk felszámolására, a természetes élőhelyek és ökoszisztémák rehabilitációjára, a biológiai sokféleség védelmére és visszaállítására, illetve az éghajlatváltozás hatásaihoz való alkalmazkodás és az éghajlatváltozás mérséklése érdekében hozott természetalapú megoldások végrehajtására nyújtott beruházási támogatás,
+13. a 651/2014/EU bizottsági rendelet 45. cikke szerinti, a környezeti károk felszámolására, a természetes élőhelyek és ökoszisztémák rehabilitációjára, a biológiai sokféleség védelmére és visszaállítására, illetve az éghajlatváltozás hatásaihoz való alkalmazkodás és az éghajlatváltozás mérséklése érdekében hozott természetalapú megoldások végrehajtására nyújtott beruházási támogatás,
 
 14. a 651/2014/EU bizottsági rendelet 48. cikke szerinti energetikai infrastruktúrára irányuló beruházási támogatás,
 
@@ -192,15 +194,13 @@ h) 21. sora alapján
 
 18. a 651/2014/EU bizottsági rendelet 56. cikke szerinti helyi infrastruktúrára irányuló támogatás,
 
-19. a 651/2014/EU bizottsági rendelet 56a. cikke szerinti regionális repülőterekre irányuló támogatás, vagy az Európai Bizottság előzetes jóváhagyását igénylő támogatási intézkedés esetén az Európai Bizottságnak a repülőtereknek és a légitársaságoknak nyújtott állami támogatásról szóló közleménye (2014/C99/03) szerinti támogatás,
+19. a 651/2014/EU bizottsági rendelet 56a. cikke szerinti regionális repülőterekre irányuló támogatás vagy az Európai Bizottság előzetes jóváhagyását igénylő támogatási intézkedés esetén az Európai Bizottságnak a repülőtereknek és a légitársaságoknak nyújtott állami támogatásról szóló közleménye (2014/C99/03) szerinti támogatás,
 
 20. a 651/2014/EU bizottsági rendelet 56c. cikke szerinti belvízi kikötőkre irányuló támogatás,
 
-21. az Európai Bizottságnak az SA.38454 (2015/C) (ex2015/N) C(2015) 8227 final számú,
+21. az Európai Bizottságnak az SA.38454 (2015/C) (ex2015/N) C(2015) 8227 final számú, 2015. november 23-i határozatának megfelelő támogatás
 
-2015. november 23-i határozatának megfelelő támogatás;
-
-i) 5–21. sora alapján az SA.104850 számú, valamint az azt módosító európai bizottsági határozatokban foglaltakkal összhangban az „Az állami támogatásokra vonatkozó, az Ukrajna elleni orosz agresszióval összefüggésben a gazdaság támogatását célzó ideiglenes válság- és átállási keret” című, 2023. március 17-i, 2023/C 101/03. számú európai bizottsági közlemény 2.1. szakasza szerinti támogatás.
+nyújtható.
 
 (2) E rendelet szerinti, az EUMSz 107. cikk (1) bekezdése szerinti állami támogatás esetében a 2. melléklet szerinti táblázat
 
@@ -280,6 +280,9 @@ c) 11. sora alapján
 
 2. a 651/2014/EU bizottsági rendelet 56. cikke szerinti helyi infrastruktúrára irányuló támogatás;
 
-d) 5–14. sora alapján az SA.104850 számú, valamint az azt módosító európai bizottsági határozatokban foglaltakkal összhangban az „Az állami támogatásokra vonatkozó, az Ukrajna elleni orosz agresszióval összefüggésben a gazdaság támogatását célzó ideiglenes válság- és átállási keret” című, 2023. március 17-i, 2023/C 101/03. számú európai bizottsági közlemény 2.1. szakasza szerinti támogatás
+d)[^2]
 
 nyújtható.
+
+[^1]: A 3. § (1) bekezdése a 21/2024. (XII. 23.) KKM rendelet 1. §-ával megállapított szöveg.
+[^2]: A 3. § (2) bekezdés d) pontját a 21/2024. (XII. 23.) KKM rendelet 8. § (1) bekezdés a) pontja hatályon kívül helyezte.

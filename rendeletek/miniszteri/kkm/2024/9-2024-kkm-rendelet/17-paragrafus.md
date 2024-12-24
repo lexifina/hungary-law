@@ -6,8 +6,10 @@
 
 (3) A támogatást nyújtó a kedvezményezett részére az (EU) 2023/2832 bizottsági rendelet 7. cikk (4) bekezdésével összhangban igazolást állít ki a támogatás összegéről bruttó támogatási egyenértékben kifejezve, és annak csekély összegű jellegéről, közvetlenül utalva az (EU) 2023/2832 bizottsági rendeletre.
 
-(4) A támogatás más csekély összegű támogatásokról szóló rendeleteknek megfelelően nyújtott csekély összegű támogatással a vonatkozó bizottsági rendeletekben foglalt felső támogatási határok közül a legmagasabb felső határig halmozható.
+(4)[^8] A támogatás más közszolgáltatási csekély összegű támogatással az (EU) 2023/2832 bizottsági rendelet 3. cikk (2) bekezdésében meghatározott felső határig halmozható. A 750 ezer eurónak megfelelő forintösszeg értékhatárba – közszolgáltatási csekély összegű támogatás kivételével – nem számít bele más csekély összegű támogatásról szóló rendelet alapján nyújtott csekély összegű támogatás.
 
 (5) A támogatás halmozható azonos elszámolható költségek vonatkozásában nyújtott állami támogatással, ha a halmozás következtében az odaítélt támogatások nem lépik túl a csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitást vagy összeget.
 
 (6) A támogatás nem halmozható ugyanazon közszolgáltatáshoz kapcsolódó más ellentételezéssel, függetlenül attól, hogy ez az ellentételezés uniós versenyjogi értelemben vett állami támogatásnak minősül-e.
+
+[^8]: A 17. § (4) bekezdése a 21/2024. (XII. 23.) KKM rendelet 4. §-ával megállapított szöveg.

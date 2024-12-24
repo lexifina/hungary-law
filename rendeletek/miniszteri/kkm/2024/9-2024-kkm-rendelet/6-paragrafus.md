@@ -6,11 +6,11 @@ b) − a 4–5. és 7. alcím szerinti támogatás kivételével − támogatás
 
 c) − a 12–13., 16. és 18. alcím szerinti támogatás kivételével − támogatás halászati és akvakultúra-termékek termeléséhez,
 
-d) − a 12–13., 16. és 18. alcím, valamint − ha a támogatás összegét nem a piacon vásárolt vagy forgalomba hozott termékek ára vagy mennyisége alapján határozzák meg − a 4., 7. és 34. alcím szerinti támogatás kivételével − támogatás halászati és akvakultúra-termékek feldolgozásához és forgalmazásához,
+d)[^3] − a 12–13., 16. és 18. alcím, valamint − ha a támogatás összegét nem a piacon vásárolt vagy forgalomba hozott termékek ára vagy mennyisége alapján határozzák meg − a 4. és 7. alcím szerinti támogatás kivételével − támogatás halászati és akvakultúra-termékek feldolgozásához és forgalmazásához,
 
-e) − az 5., 10., 13., 16., 18–26. alcím szerinti támogatás kivételével − támogatás elsődleges mezőgazdasági termeléshez,
+e)[^4] − az 5., 10., 13., 16., 18–26., valamint a 32–33. alcím szerinti támogatás kivételével − támogatás elsődleges mezőgazdasági termeléshez,
 
-f) támogatás mezőgazdasági termék feldolgozásához és mezőgazdasági termék forgalmazásához, ha
+f)[^5] mezőgazdasági termék feldolgozásában és mezőgazdasági termék forgalmazásában tevékeny vállalkozás részére a 7–31. és a 35. alcím szerinti támogatás, ha
 
 fa) a támogatás összege az elsődleges termelőktől beszerzett vagy érintett vállalkozások által forgalmazott ilyen termékek ára vagy mennyisége alapján kerül rögzítésre, vagy
 
@@ -31,3 +31,7 @@ l) − a 4. alcím szerinti támogatás kivételével − támogatás atomenergi
 (2) Amennyiben a kedvezményezett az (1) bekezdés c)–f) pontjában kizárt ágazatok bármelyikében és ezektől eltérő egy vagy több ágazatban egyaránt végez tevékenységet, a 4. és 7. alcím szerinti támogatás akkor nyújtható a kedvezményezett részére ez utóbbi egyéb tevékenységhez, ha a kedvezményezett megfelelő eszközökkel – úgymint a tevékenységek szétválasztásával vagy számviteli elkülönítéssel – biztosítja, hogy az (1) bekezdés c)–f) pontjában említett kizárt ágazatokban végzett tevékenységek ne részesüljenek a 4. és 7. alcím szerinti támogatásban.
 
 (3) Nem minősül exporttámogatásnak az olyan támogatás, amellyel a kereskedelmi vásárokon való részvétel költségeihez vagy olyan tanulmányok vagy tanácsadói szolgáltatások költségeihez járulnak hozzá, amelyek valamely új vagy már meglévő terméknek egy új piacra történő bevezetéséhez szükségesek.
+
+[^3]: A 6. § (1) bekezdés d) pontja a 21/2024. (XII. 23.) KKM rendelet 2. §-ával megállapított szöveg.
+[^4]: A 6. § (1) bekezdés e) pontja a 21/2024. (XII. 23.) KKM rendelet 2. §-ával megállapított szöveg.
+[^5]: A 6. § (1) bekezdés f) pontja a 21/2024. (XII. 23.) KKM rendelet 2. §-ával megállapított szöveg.

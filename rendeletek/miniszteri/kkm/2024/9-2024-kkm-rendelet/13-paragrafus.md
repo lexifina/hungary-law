@@ -10,6 +10,8 @@ d) az (EU) 2023/2832 bizottsági rendelet szerinti csekély összegű közszolg�
 
 e) mezőgazdasági csekély összegű támogatás esetén 2028. június 30-ig,
 
-f) válságtámogatás esetén 2024. június 30-ig
+f)[^6]
 
 lehet támogatási döntést hozni.
+
+[^6]: A 13. § f) pontját a 21/2024. (XII. 23.) KKM rendelet 8. § (1) bekezdés b) pontja hatályon kívül helyezte.

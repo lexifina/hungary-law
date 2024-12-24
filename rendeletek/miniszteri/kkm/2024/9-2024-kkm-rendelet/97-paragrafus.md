@@ -14,8 +14,10 @@ f) az Európai Unió működéséről szóló szerződés 106. cikke (2) bekezd�
 
 g) az SA.38454 (2015/C) (ex2015/N) C(2015) 8227 final számú, 2015. november 23-i Európai Bizottsági határozat,
 
-h) az „Az állami támogatásokra vonatkozó, az Ukrajna elleni orosz agresszióval összefüggésben a gazdaság támogatását célzó ideiglenes válság- és átállási keret” című, 2023. március 17-i, 2023/C 101/03. számú európai bizottsági közlemény,
+h)[^13]
 
 i) az Európai Bizottságnak a repülőtereknek és a légitársaságoknak nyújtott állami támogatásáról szóló közleménye (2014/C99/03)
 
 hatálya alá tartozó támogatást tartalmaz.
+
+[^13]: A 97. § h) pontját a 21/2024. (XII. 23.) KKM rendelet 8. § (1) bekezdés d) pontja hatályon kívül helyezte.
