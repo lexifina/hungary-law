@@ -8,4 +8,6 @@ b) a 2026. évben legfeljebb 3 302 100 000 forint
 
 összegben állapítja meg.
 
-3. A Kormány visszavonja a Központi Maradványelszámolási Alap előirányzatból, a Rezsivédelmi Alap fejezet terhére történő, fejezetek közötti és fejezeten belüli előirányzat-átcsoportosításról, kötelezettségvállalás engedélyezéséről, címrendi kiegészítésről és kormányhatározat módosításáról szóló 1560/2023. (XII. 13.) Korm. határozat 1. pont f) és g) alpontját.
+3.[^1]
+
+[^1]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
