@@ -1,1 +1,3 @@
-1. § A Budai Palotanegyed területén megvalósuló kiemelten közérdekű beruházások megnevezéséről, valamint az ingatlanok vagyonkezelési feladatainak ellátásáról szóló 313/2018. (XII. 27.) Korm. rendelet [a továbbiakban: 313/2018. (XII. 27.) Korm. rendelet] 2. melléklete helyébe az 1. melléklet lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
