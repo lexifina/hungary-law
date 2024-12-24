@@ -33,4 +33,4 @@ Az anyavállalatnak minősülő befektetési vállalkozás összevont (konszolid
 6.[^157] A „D. Adózott eredmény” és az „E. Tárgyévi eredmény” sorok és a köztük lévő sorok a következők szerint változnak:
 
 [^156]: A 4. számú melléklet 5. pontja a 484/2015. (XII. 29.) Korm. rendelet 78. § (3) bekezdésével megállapított, a 642/2023. (XII. 28.) Korm. rendelet 19. § 2. pontja szerint módosított szöveg.
-[^157]: A 4. számú melléklet 6. pontja a 484/2015. (XII. 29.) Korm. rendelet 78. § (3) bekezdésével megállapított szöveg.
+[^157]: A 4. számú melléklet 6. pontja a 484/2015. (XII. 29.) Korm. rendelet 78. § (3) bekezdésével megállapított, a 423/2024. (XII. 23.) Korm. rendelet 9. §-a szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## „D. Adózott eredmény (±C-XII±XII/A.)
+## „D. Adózott eredmény (±C–XII±XII/A.±XII/B.)
 
 ## XIII. Általános tartalékképzés, felhasználás (±)
 
