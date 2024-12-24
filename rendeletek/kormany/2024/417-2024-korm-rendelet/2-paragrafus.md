@@ -1,0 +1,1 @@
+2. § A Kormány a regionális repülés kiépítése és fenntartása körében a Társaságot jelöli ki a Közösségben a légi járatok működtetésére vonatkozó közös szabályokról szóló 1008/2008/EK európai parlamenti és tanácsi rendelet 16. és 17. cikkeiben foglalt feladatok Magyar Állam nevében és képviseletében történő ellátására és lebonyolítására.
