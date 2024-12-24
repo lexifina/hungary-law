@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-39-20-2
 | 2021-01-23 | 2001-39-20-22.11 | 61/2011. (IV. 12.) Korm. rendelet |
 | 2021-02-10 | 2001-39-20-22.12 | 39/2021. (II. 2.) Korm. rendelet |
 | 2024-05-01 | 2001-39-20-22.13 | 84/2024. (IV. 17.) Korm. rendelet |
+| 2024-12-24 | 2001-39-20-22.14 | 425/2024. (XII. 23.) Korm. rendelet |
