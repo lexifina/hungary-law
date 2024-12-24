@@ -54,3 +54,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-345-20-
 | 2024-06-29 | 2012-345-20-22.45 | 153/2024. (VI. 28.) Korm. rendelet |
 | 2024-07-30 | 2012-345-20-22.46 | 236/2020. (V. 26.) Korm. rendelet |
 | 2024-10-01 | 2012-345-20-22.47 | 257/2024. (VIII. 29.) Korm. rendelet |
+| 2024-12-24 | 2012-345-20-22.48 | 425/2024. (XII. 23.) Korm. rendelet |

@@ -54,7 +54,7 @@
 
 ## 1.1.26. Az M4 gyorsforgalmi út Abony (kelet) és Törökszentmiklós (nyugat) közötti szakasz (Szolnok északi elkerülő) megvalósítása új Tisza-híd megépítésével.
 
-## 1.1.27. Az M4 gyorsforgalmi út, Törökszentmiklós (nyugat) és Püspökladány közötti szakasz megvalósítása.
+## 1.1.27. Az M4 gyorsforgalmi út, Törökszentmiklós (nyugat) és Kisújszállás közötti szakasz megvalósítása.
 
 ## 1.1.28. Az M4 gyorsforgalmi út, Püspökladány és Berettyóújfalu közötti szakasz megvalósítása.
 
@@ -108,7 +108,7 @@
 
 ## 1.1.53. M44 gyorsforgalmi út Kecskemét – Nagykőrös (korábbi M8 tervezési szakasz) – Békéscsaba közötti szakasz.
 
-## 1.1.54. Az M49 gyorsforgalmi út, M3 autópálya (Vaja) és Csenger, országhatár közötti szakasz megvalósítása.
+## 1.1.54. Az M49 gyorsforgalmi út, M3 autópálya (Vaja) és Ököritófülpös (Porcsalma) közötti szakasz megvalósítása.
 
 ## 1.1.55. Az M60 gyorsforgalmi út Pécs és Szigetvár közötti szakasz megvalósítása.
 
@@ -116,9 +116,9 @@
 
 ## 1.1.57. Az M70 gyorsforgalmi út, Letenye és Tornyiszentmiklós, országhatár közötti szakasz fejlesztése.
 
-## 1.1.58. Az M76 autóút M7 autópálya (Holládi csomópont) és Zalaegerszeg (észak) közötti szakasz megvalósítása.
+## 1.1.58. Az M7 autópálya (Holládi csomópont) és Keszthely közötti 2×2 sávos útkapcsolat kialakítása.
 
-## 1.1.59. Az M76 autóút Zalaegerszeg (észak) és Körmend (kelet) közötti szakasz megvalósítása.
+## 1.1.59.
 
 ## 1.1.60. Az M80 gyorsforgalmi út Körmend (kelet) és Szentgotthárd–Rábafüzes, országhatár közötti szakasz megvalósítása.
 
@@ -173,6 +173,12 @@
 ## 1.1.85. Kaposvár–Szigetvár gyorsforgalmi összeköttetése.
 
 ## 1.1.86. Az M3 autópálya Gödöllő (M31 csomópont) – Gyöngyös nyugati csomópont 2×3 sávra bővítése.
+
+## 1.1.87. Az M4 gyorsforgalmi út, Kisújszállás és Püspökladány közötti szakasz megvalósítása.
+
+## 1.1.88. Az M49 gyorsforgalmi út, Ököritófülpös (Porcsalma) és Csenger, országhatár közötti szakasz megvalósítása.
+
+## 1.1.89. Az M3 autópálya 230+488 km szelvényben új különszintű csomópont megvalósítása.
 
 ## 1.2. Főutak
 
@@ -512,6 +518,10 @@
 
 ## 1.2.168. 502. számú főút meghosszabbítása a 4519. jelű útig.
 
+## 1.2.169. Miskolc, 306. számú főút 2×2 sávra bővítése.
+
+## 1.2.170. A 33. számú főút, Debrecen, Nyíl utca fejlesztése
+
 ## 1.3. Mellékutak
 
 ## 1.3.1. A 74176. jelű út (Kercaszomor–országhatár) fejlesztése.
@@ -792,6 +802,10 @@
 
 ## 1.3.139. 4519. jelű út fejlesztése az M43 autópálya és Szeged, Rókusi körút között, a 135. sz. vasútvonal külön szintű átvezetésével.
 
+## 1.3.140. Zákány és Gotalovo (Gotála) közötti közúti kapcsolat megvalósítása.
+
+## 1.3.141. 4. számú főút és a 49101. jelű út közötti közúti kapcsolat fejlesztése.
+
 ## 1.4. Csomóponti és közlekedésbiztonsági beavatkozások
 
 ## 1.4.1. Körforgalmú csomópont kiépítése az 1. számú főút és a 8101. jelű út keresztezésében.
@@ -1004,6 +1018,8 @@
 
 ## 1.4.105. Debrecen, Füredi út – Böszörményi úti csomópont fejlesztése.
 
+## 1.4.106. Jászladány, 3226-3227 jelű úti csomópont átépítés.
+
 ## 1.5. Hidak
 
 ## 1.5.1. A kisunyomi Sorok-patak-híd fejlesztése.
@@ -1100,7 +1116,7 @@
 
 ## 1.7.3. A 67. számú főút M7 autópálya és Kaposvár (észak) közötti 2×2 sávos keresztmetszetre történő fejlesztésének megvalósításához kapcsolódó Kaposvári üzemmérnökségi telep megvalósítása.
 
-## 1.7.4. M76 Nemesrádó mérnökségi telep megvalósítása.
+## 1.7.4.
 
 ## 1.7.5. Kesztölci üzemmérnökségi telep megvalósítása (M100 autóút fejlesztéséhez kapcsolódóan).
 
@@ -1172,7 +1188,7 @@
 
 ## 1.8.16. Vámosszabadi–Győr kerékpáros-útvonal fejlesztése.
 
-## 1.8.17. Tiszafüred–Hortobágy–Balmazújváros kerékpárút fejlesztése.
+## 1.8.17. EuroVelo 14, Tiszafüred – Hortobágy-Halastó – Balmazújváros – Debrecen közötti kerékpárút fejlesztése.
 
 ## 1.8.18. Székesfehérvár déli összekötőút megvalósítása.
 
@@ -1960,6 +1976,22 @@
 
 ## 2.1.133. Szegedi ipari parkhoz kapcsolódó vasúti infrastruktúra fejlesztése.
 
+## 2.1.134. Központi forgalomirányítás fejlesztése a 80. (Füzesabony (kiz.) – Mezőzombor (bez.), 100a (Kőbánya-Kispest (kiz.) – Szolnok (kiz.), 140. Cegléd (kiz.) – Kecskemét (kiz.) – Városföld-Elágazás (bez.) számú vasútvonalakon.
+
+## 2.1.135. 100a (Budapest–Cegléd-Szolnok) vasútvonal fejlesztése.
+
+## 2.1.136. 20. számú vasútvonal Boba–Porpác szakaszán távközlési, erősáram és biztosítóberendezés korszerűsítése.
+
+## 2.1.137. 30. számú vasútvonal Székesfehérvár–Siófok szakaszán ETCS 2 vonatbefolyásoló rendszer kiépítése.
+
+## 2.1.138. Nyugat-magyarországi TEN-T vasútállomások alkalmassá tétele polgári és katonai kettős felhasználásra.
+
+## 2.1.139. Kis-Gellért hegyi vasúti alagút rekonstrukciója és a Déli pályaudvar korszerűsítése.
+
+## 2.1.140. Kapacitásnövelés a magyar–ukrán vasúti határforgalomban.
+
+## 2.1.141. Szeged–Temesvár vasúti kapcsolat helyreállítása.
+
 ## 2.2. Helyi érdekeltségű keskeny nyomközű vasúti közlekedési projektek
 
 ## 2.2.1. MÁV Zrt. Széchenyi-hegyi Gyermekvasút pályafelújítás, valamint gördülőállomány felújítása és fejlesztése.
@@ -2172,6 +2204,6 @@
 
 ## 5.6. Békéscsabai repülőtér kifutópályájának meghosszabbítása.
 
-1/a. melléklet a 345/2012. (XII. 6.) Korm. rendelethez[^73]
+1/a. melléklet a 345/2012. (XII. 6.) Korm. rendelethez[^76]
 
-[^73]: Az 1/a. mellékletet a 226/2015. (VIII. 7.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 236/2020. (V. 26.) Korm. rendelet 9. § b) pontja.
+[^76]: Az 1/a. mellékletet a 226/2015. (VIII. 7.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 236/2020. (V. 26.) Korm. rendelet 9. § b) pontja.
