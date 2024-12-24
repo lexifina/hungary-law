@@ -1,0 +1,3 @@
+2. § Az egységes külképviseleti rendszer adminisztratív-technikai működésével és fenntartásával kapcsolatos feladatokról, valamint egyes kormányrendeletek módosításáról szóló 17/2019. (II. 14.) Korm. rendelet 3. § (3) bekezdése a következő d) ponttal egészül ki:
+
+(A miniszter az egységes külképviseleti rendszer és külképviseleti hálózat fenntartásával kapcsolatban a biztonságos működés érdekében, valamint a Minisztérium egyes – a kötelezően központi szolgáltató által nyújtott központosított informatikai szolgáltatások kivételével – informatikai, távközlési és infokommunikációs rendszereinek üzemeltetésével kapcsolatban)
