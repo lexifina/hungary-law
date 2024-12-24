@@ -1,0 +1,3 @@
+1. § A rozsdaövezeti akcióterületek kijelöléséről és egyes akcióterületeken megvalósuló beruházásokra irányadó sajátos követelményekről szóló 619/2021. (XI. 8.) Korm. rendelet (a továbbiakban: R.) a következő 6/E. §-sal egészül ki:
+
+„6/E. § Az 1. mellékletben foglalt táblázat 56. sora szerinti beruházás esetében az 1. mellékletben foglalt táblázat D:56 mezőjében megjelölt telkeken a beruházással összefüggésben a helyi településrendezési tervben előírt infrastruktúra-fejlesztések elmaradása a beruházással összefüggő fejlesztés keretében megvalósított épületekre vonatkozó építési és használatbavételi engedély kiadásának nem lehet a feltétele.”
