@@ -1,4 +1,4 @@
-10. §[^9] (1) Működési támogatás keretében elszámolható
+10. §[^14] (1) Működési támogatás keretében elszámolható
 
 a) a kulturális intézmény vagy örökségi helyszín állandó vagy időszakos tevékenységéhez – különösen kiállításokhoz, előadásokhoz, rendezvényekhez és hasonló kulturális tevékenységekhez – kapcsolódó, a szokásos üzletmenetben felmerülő költség,
 
@@ -38,4 +38,4 @@ b) visszafizetési mechanizmus alkalmazásával utólag
 
 kell meghatározni.
 
-[^9]: A 10. § a 44/2023. (XII. 28.) HM rendelet 2. §-ával megállapított szöveg.
+[^14]: A 10. § a 44/2023. (XII. 28.) HM rendelet 2. §-ával megállapított szöveg.

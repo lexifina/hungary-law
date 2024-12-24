@@ -1,4 +1,4 @@
-9. §[^8] (1) Beruházási támogatás keretében a tárgyi eszközök és az immateriális javak következő költségei számolhatók el:
+9. §[^13] (1) Beruházási támogatás keretében a tárgyi eszközök és az immateriális javak következő költségei számolhatók el:
 
 a) az infrastruktúra építésének, korszerűsítésének, bővítésének, megvásárlásának, megőrzésének és fejlesztésének költsége, ha az infrastruktúra időbeli vagy térbeli kapacitását évente legalább 80%-ban kulturális célra használják,
 
@@ -20,4 +20,4 @@ b) visszafizetési mechanizmus alkalmazásával utólag
 
 kell levonni az elszámolható költségekből.
 
-[^8]: A 9. § a 44/2023. (XII. 28.) HM rendelet 2. §-ával megállapított szöveg.
+[^13]: A 9. § a 44/2023. (XII. 28.) HM rendelet 2. §-ával megállapított szöveg.

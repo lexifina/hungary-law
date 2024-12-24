@@ -1,5 +1,3 @@
-## 7. § A kultúrát és a kulturális örökség megőrzését előmozdító támogatás (a továbbiakban: kulturális támogatás) a 651/2014/EU bizottsági rendelet 53. cikkének megfelelően nyújtható.
-
 8. § (1) A kulturális támogatás beruházási, működési vagy zenei és irodalmi alkotások kiadásához nyújtott támogatásként nyújtható.
 
 (2) Kulturális támogatás – a nyomtatott vagy elektronikus formában közzétett sajtótermék és magazin kivételével – a következőkhöz nyújtható:

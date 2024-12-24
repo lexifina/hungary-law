@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-5-20-15
 | 2023-06-06 | 2018-5-20-15.9 | 6/2021. (I. 28.) HM rendelet |
 | 2023-12-29 | 2018-5-20-15.10 | 44/2023. (XII. 28.) HM rendelet |
 | 2024-01-01 | 2018-5-20-15.11 | 6/2021. (I. 28.) HM rendelet |
+| 2024-12-24 | 2018-5-20-15.12 | 26/2024. (XII. 23.) HM rendelet |
