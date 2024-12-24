@@ -1,0 +1,3 @@
+4. § A külképviseletek gazdálkodásáról szóló 626/2022. (XII. 30.) Korm. rendelet 16. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A pénztárellenőr vagy a pénztárellenőr-helyettes kiegészítő feladatkört a külképviselet vezető – gazdasági régió működése esetén a regionális gazdasági igazgatóval együttesen megtett – javaslata alapján a kihelyező vezető által kijelölt első beosztott diplomata vagy regionális gazdasági igazgató vagy beosztott diplomata külszolgálati munkakört betöltő, a külképviseletre tartós külszolgálatra kihelyezett láthatja el, azzal, hogy a kiegészítő feladatkört a kihelyező okiratban rögzíteni kell.”
