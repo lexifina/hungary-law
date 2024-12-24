@@ -76,7 +76,7 @@ a) Anyagjellegű kiadások között kell kimutatni a Tv. 78. §-ának (1)–(6) 
 
 b) Személyi jellegű kiadások között kell kimutatni a Tv. 79. §-ában foglaltak szerint a pénztár működési, kiegészítő vállalkozási tevékenységével, valamint a pénztártagok részére nyújtott szolgáltatásokkal kapcsolatban felmerült bérkiadásokat, személyi jellegű egyéb kiadásokat, valamint a bérjárulékokat.
 
-c)[^52] Kis értékű eszközök beszerzésével kapcsolatos kiadásként kell kimutatni a pénztár működési, kiegészítő vállalkozási tevékenységét, valamint a pénztártagok részére nyújtott szolgáltatások teljesítését szolgáló, a használatbavételkor egy összegben értékcsökkenési leírásként elszámolandó 200 ezer forint egyedi beszerzési érték alatti vagyoni értékű jogok, szellemi termékek, tárgyi eszközök beszerzésére fordított kiadásokat.
+c)[^52] Kis értékű eszközök beszerzésével kapcsolatos kiadásként kell kimutatni a pénztár működési, kiegészítő vállalkozási tevékenységét, valamint a pénztártagok részére nyújtott szolgáltatások teljesítését szolgáló, a használatbavételkor egy összegben értékcsökkenési leírásként elszámolandó a Tv. 80. § (2) bekezdésében meghatározott egyedi beszerzési érték alatti vagyoni értékű jogok, szellemi termékek, tárgyi eszközök beszerzésére fordított kiadásokat.
 
 d) Egyéb kiadások között kell kimutatni a Tv. 81. §-ának (2) bekezdése szerinti jogcímeken történő kifizetések összegét.
 
@@ -123,6 +123,6 @@ l) Működési alap tárgyévi adózott eredménye a működési, illetve kiegé
 [^49]: A 29. § (8) bekezdésének h) pontja a 358/2006. (XII. 27.) Korm. rendelet 52. § (3) bekezdése szerint módosított szöveg, alkalmazására lásd e módosító rendelet 49. § (1) bekezdését.
 [^50]: A 29. § (8) bekezdésének j) pontját a 358/2006. (XII. 27.) Korm. rendelet 39. § (7) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 49. § (1) bekezdését.
 [^51]: A 29. § (9) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 214. §-a szerint módosított szöveg.
-[^52]: A 29. § (9) bekezdés c) pontja a 343/2019. (XII. 23.) Korm. rendelet 15. §-a szerint módosított szöveg.
+[^52]: A 29. § (9) bekezdés c) pontja a 423/2024. (XII. 23.) Korm. rendelet 10. § c) pontja szerint módosított szöveg.
 [^53]: A 29. § (9) bekezdés f) pontja a 331/2008. (XII. 30.) Korm. rendelet 35. §-ával megállapított, a 345/2010. (XII. 28.) Korm. rendelet 21. §-a szerint módosított szöveg.
 [^54]: A 29. § (11) bekezdése a 358/2006. (XII. 27.) Korm. rendelet 39. § (8) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 49. § (1) bekezdését.

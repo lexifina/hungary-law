@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-252-20-
 | 2017-01-01 | 2000-252-20-22.26 | 480/2016. (XII. 28.) Korm. rendelet |
 | 2020-01-01 | 2000-252-20-22.27 | 343/2019. (XII. 23.) Korm. rendelet |
 | 2024-01-01 | 2000-252-20-22.28 | 642/2023. (XII. 28.) Korm. rendelet |
+| 2024-12-24 | 2000-252-20-22.29 | 423/2024. (XII. 23.) Korm. rendelet |
