@@ -1,0 +1,3 @@
+## 5. A települési zöldinfrastruktúráról, a zöldfelületi tanúsítványról és a zöld védjegyről szóló 282/2024. (IX. 30.) Korm. rendelet módosítása
+
+19. § A települési zöldinfrastruktúráról, a zöldfelületi tanúsítványról és a zöld védjegyről szóló 282/2024. (IX. 30.) Korm. rendelet (a továbbiakban: 282/2024. (IX. 30.) Korm. rendelet) 28. § (1) bekezdésében a „településfejlesztésért és településrendezésért felelős miniszter” szövegrész helyébe a „szerződés alapján közreműködőként bevont Magyar Kertörökség Alapítvány és a településfejlesztésért és településrendezésért felelős miniszter” szöveg lép.
