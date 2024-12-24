@@ -1,4 +1,4 @@
-## (Az Lt. 67. §-ához)
+## (Az Lt. 67. §-ához és 69. §-ához)[^88]
 
 27. § (1) Légijármű abban az esetben vehet részt a légiközlekedésben, ha a légijármű üzemben tartója, személyzete és a szállított személyek a biztonsági szabályoknak eleget tesznek.
 
@@ -7,3 +7,8 @@
 (3) Ha a légijármű üzemben tartója megtagadja, hogy légijárművét, annak szállítmányát az illetékes hatóság vagy a repülőtér biztonsági szervei biztonsági ellenőrzésnek vessék alá, akkor az a légiközlekedésben nem vehet részt. Azt a légi utazásra jelentkező személyt, aki nem veti magát alá a biztonsági ellenőrzésnek, a légiközlekedésből ki kell zárni.
 
 (4) A légiközlekedés védelme érdekében — jogszabályban meghatározott körben — a munkavállalókat az illetékes szervek, az érintettek tudomásával, törvényben meghatározott módon ellenőrzik.
+
+(5)[^89] Állami légijármű a légiközlekedésben – harmadik személynek okozott kár megtérítése céljából kötött – kötelező felelősségbiztosítás nélkül vehet részt. Ezen légijárművek tekintetében az állam közvetlen mögöttes felelősségét meghatározó szabályokat kell alkalmazni.
+
+[^88]: A Vhr. „(Az Lt. 67. §-ához és 69. §-ához)” alcím címe a 425/2024. (XII. 23.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
+[^89]: A Vhr. 27. § (5) bekezdését a 425/2024. (XII. 23.) Korm. rendelet 3. §-a iktatta be.

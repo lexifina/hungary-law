@@ -1,4 +1,4 @@
-21/D. §[^62] (1)[^63] Nem létesíthető olyan építmény – beleértve a meglévő építmények bővítését is –, amely a repülőtér akadálykorlátozási felületei, akadályvédelmi felülete vagy az Lt. 50/B. § (2a) bekezdésében meghatározott, a fel- és leszállásra kijelölt területnek az akadálymentes védőövezete fölé nyúlik, kivéve, ha egy már meglévő, nem mozdítható tereptárgy (a továbbiakban: árnyékoló tereptárgy) léte miatt az új építmény nem okoz repülésbiztonsági kockázatot, és a (2) bekezdés szerint árnyékoltnak tekinthető.
+21/D. §[^63] (1)[^64] Nem létesíthető olyan építmény – beleértve a meglévő építmények bővítését is –, amely a repülőtér akadálykorlátozási felületei, akadályvédelmi felülete vagy az Lt. 50/B. § (2a) bekezdésében meghatározott, a fel- és leszállásra kijelölt területnek az akadálymentes védőövezete fölé nyúlik, kivéve, ha egy már meglévő, nem mozdítható tereptárgy (a továbbiakban: árnyékoló tereptárgy) léte miatt az új építmény nem okoz repülésbiztonsági kockázatot, és a (2) bekezdés szerint árnyékoltnak tekinthető.
 
 (2) Egy új építmény akkor tekinthető árnyékoltnak, ha az árnyékoló tereptárgytól legfeljebb 150 m távolságra található és
 
@@ -20,5 +20,5 @@ b) a repülőtérrel ellentétes oldali legmagasabb pontjának tengerszint felet
 
 (9) Azokat a tereptárgyakat, amelyek a belső vízszintes felület és a kúpos felület határain belül találhatóak, és veszélyeztethetik a légijárműveket a mozgási területen vagy a levegőben, az Lt. 51. § (1) bekezdése szerinti kötelezett eltávolítja. Ha a tereptárgy jellege vagy funkciója miatt nem távolítható el, akkor az Lt. 51. § (1) bekezdése szerinti kötelezett az e rendelet szerinti akadályjelöléssel látja el.
 
-[^62]: A Vhr. 21/D. §-t a 167/2019. (VII. 9.) Korm. rendelet 2. §-a iktatta be.
-[^63]: A Vhr. 21/D. § (1) bekezdése a 84/2024. (IV. 17.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.
+[^63]: A Vhr. 21/D. §-t a 167/2019. (VII. 9.) Korm. rendelet 2. §-a iktatta be.
+[^64]: A Vhr. 21/D. § (1) bekezdése a 84/2024. (IV. 17.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-2. melléklet a 141/1995. (XI. 30.) Korm. rendelethez[^113]
+2. melléklet a 141/1995. (XI. 30.) Korm. rendelethez[^119]
 
 A REP-25 adatbázis elkészítéséhez felmérendő terület az állami repülések céljára szolgáló repülőterek 10 km sugarú környezetén kívül
 
@@ -24,4 +24,4 @@ A REP-25 adatbázis elkészítéséhez felmérendő terület az állami repülé
 
 | 10. | 471205N | 0174058E |
 
-[^113]: A Vhr. 2. mellékletét a 167/2019. (VII. 9.) Korm. rendelet 9. §-a iktatta be.
+[^119]: A Vhr. 2. mellékletét a 167/2019. (VII. 9.) Korm. rendelet 9. §-a iktatta be.

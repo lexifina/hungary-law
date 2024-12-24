@@ -1,4 +1,4 @@
-21/G. §[^66] (1) A felszállási emelkedési felület belső élétől 3000 m távolságon belül lévő rögzített, a felszállási emelkedési felületen túlnyúló tereptárgyat az Lt. 51. § (1) bekezdése szerinti kötelezett akadályjelöléssel látja el, és ha a futópályát éjszaka is használják, akadályfénnyel is jelöli.
+21/G. §[^67] (1) A felszállási emelkedési felület belső élétől 3000 m távolságon belül lévő rögzített, a felszállási emelkedési felületen túlnyúló tereptárgyat az Lt. 51. § (1) bekezdése szerinti kötelezett akadályjelöléssel látja el, és ha a futópályát éjszaka is használják, akadályfénnyel is jelöli.
 
 (2) A megközelítési felület belső élétől 3000 m távolságon belül lévő, a megközelítési felületen vagy az átmeneti felületen túlnyúló rögzített tereptárgyat az Lt. 51. § (1) bekezdése szerinti kötelezett akadályjelöléssel látja el, és ha a futópályát éjszaka is használják, akadályfénnyel is jelöli.
 
@@ -32,4 +32,4 @@ b) nappal nagy intenzitású akadályfénnyel ki van világítva.
 
 (9) Az akadálykorlátozási felületek oldalhatárain belül található valamennyi folyót, völgyet és autópályát keresztező légvezetéket, ezek tartóoszlopait, valamint az egyéb kötöttpályás közlekedési rendszer pályáját az Lt. 51. § (1) bekezdése szerinti kötelezett akadályjelöléssel, beleértve az akadályfényt is, látja el, ha azok veszélyt jelentenek a légijárművekre.
 
-[^66]: A Vhr. 21/G. §-t a 167/2019. (VII. 9.) Korm. rendelet 2. §-a iktatta be.
+[^67]: A Vhr. 21/G. §-t a 167/2019. (VII. 9.) Korm. rendelet 2. §-a iktatta be.
