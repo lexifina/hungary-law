@@ -1,5 +1,3 @@
-## A H7 HÉV kül- és belterületi szakasza tengelypontjainak koordinátái és a beépítésre nem szánt terület határpontjainak tengelytől mért távolsága
-
 | Jobb átmenő vágány részletpontjainak koordinátajegyzéke |
 
 |  | A | B | C | D | E | F | G |
