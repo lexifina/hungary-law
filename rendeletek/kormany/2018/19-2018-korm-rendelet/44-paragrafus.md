@@ -1,12 +1,12 @@
 44. § (1) A támogatás kérelem alapján vehető igénybe.
 
-(2)[^92] A támogatás iránti kérelem benyújtásának napja az a nap, amikor az igénylő a kérelmet és az e rendelet szerinti igénylési feltételeket igazoló dokumentumokat hiánytalanul benyújtja a Kezelőhöz.
+(2)[^132] A támogatás iránti kérelem benyújtásának napja az a nap, amikor az igénylő a kérelmet és az e rendelet szerinti igénylési feltételeket igazoló dokumentumokat hiánytalanul benyújtja a Kezelőhöz.
 
-(3)[^93] A támogatásról a kulturális örökség védelméért felelős miniszter dönt. A miniszter döntése során mérlegeli a KNEB a támogatás maximális mértékére tett 43. § (4) bekezdés a) pontja szerinti javaslatát.
+(3)[^133] A támogatásról a kulturális örökség védelméért felelős miniszter dönt. A miniszter döntése során mérlegeli a KNEB a támogatás maximális mértékére tett 43. § (4) bekezdés a) pontja szerinti javaslatát.
 
 (4) A támogatásról szóló támogatói okiratot a kulturális örökség védelméért felelős miniszter döntését követően a Kezelő adja ki. A támogatás iránti kérelem elutasítása esetén a Kezelő az igénylőt részletesen, írásban tájékoztatja a kérelem elutasításának indokáról.
 
 (5) A támogatás folyósítását, valamint a támogatás felhasználásáról szóló beszámoló felülvizsgálatát, elfogadását a Kezelő végzi. A támogatás iránti kérelem benyújtásakor az e rendelet szerinti feltételek meglétét a Kezelő köteles ellenőrizni.
 
-[^92]: A 44. § (2) bekezdése a 776/2021. (XII. 23.) Korm. rendelet 7. § 15. pontja szerint módosított szöveg.
-[^93]: A 44. § (3) bekezdése a 776/2021. (XII. 23.) Korm. rendelet 7. § 16. pontja és 8. § b) pontja szerint módosított szöveg.
+[^132]: A 44. § (2) bekezdése a 776/2021. (XII. 23.) Korm. rendelet 7. § 15. pontja szerint módosított szöveg.
+[^133]: A 44. § (3) bekezdése a 776/2021. (XII. 23.) Korm. rendelet 7. § 16. pontja és 8. § b) pontja szerint módosított szöveg.

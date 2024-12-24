@@ -12,7 +12,7 @@ b) a kiemelt nemzeti emlékhelyre és településkép-védelmi környezetére vo
 
 ba) az egyedi településképi követelmények megállapítására,
 
-bb) a közterületen és a közterületről látható magánterületen elhelyezhető reklámok megengedett méreteire, a reklámközzététel megengedett technológiájára, módszereire, eszközeire, a reklámhordozók általános formai követelményeire,
+bb)[^2] a közterületen és a közterületről látható magánterületen elhelyezhető reklámok megengedett méreteire, a reklámközzététel megengedett technológiájára, módszereire, eszközeire, a reklámeszközök általános formai követelményeire,
 
 bc) a beépítési szabályokra, valamint az ezzel összefüggő sajátos építésügyi és örökségvédelmi követelményekre,
 
@@ -29,3 +29,4 @@ e) a településképi ösztönző- és támogatási rendszer meghatározására
 terjed ki.
 
 [^1]: Az 1. § nyitó szövegrésze a 285/2024. (IX. 30.) Korm. rendelet 138. § 1. pontja szerint módosított szöveg.
+[^2]: Az 1. § b) pont bb) alpontja a 424/2024. (XII. 23.) Korm. rendelet 13. § 1. pontja szerint módosított szöveg.

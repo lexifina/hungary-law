@@ -1,20 +1,20 @@
 ## 36. § A hatóság ellenőrzi a bejelentési kötelezettség teljesítését és a bejelentett tevékenység folytatását. Amennyiben a hatóság a bejelentési eljárás lefolytatásának elmulasztását észleli, a tevékenység folytatását a bejelentési eljárás során megtiltotta vagy azt tudomásul vette, de attól eltérő végrehajtást tapasztal, a hatóság a 40. §-ban foglaltak szerint jár el.
 
-37. §[^78] (1) A településképi bejelentési eljárás kötelező
+37. §[^110] (1) A településképi bejelentési eljárás kötelező
 
-a) az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendeletben [a továbbiakban: 312/2012. (XI. 8.) Korm. rendelet] – ide nem értve a 312/2012. (XI. 8.) Korm. rendelet 1. melléklet 14., 22., 28. és 32. pontjában meghatározott tevékenységeket – az építési engedélyhez nem kötött építési tevékenységek, a (2) és (3) bekezdés figyelembevételével,
+a)[^111] a (2) és (3) bekezdés figyelembevételével a TTr. 13. melléklet 1–12., 14–17., 19–24., 26. és 28. pontjában meghatározott, településképi bejelentési eljáráshoz köthető építési tevékenységek, elhelyezések, az építési engedélyhez nem kötött építési tevékenységek,
 
-b) a 22. § (2) bekezdése szerinti kereskedelmi, szolgáltatási, vendéglátási rendeltetést szolgáló rendeltetési egység megvalósítása, rendeltetésmódosítás, továbbá
+b)[^112] a Méptv. 33. alcíme hatálya alá nem tartozó, a 22. § (2) bekezdése szerinti kereskedelmi, szolgáltatási, vendéglátási rendeltetést szolgáló rendeltetési egység megvalósítása, rendeltetésmódosítás, vagy a rendeltetési egység számának megváltoztatása, továbbá
 
-c) reklám, reklámhordozó, utcabútor elhelyezését érintő tevékenység
+c)[^113] utcabútor, üzletjelzés elhelyezését vagy módosítását érintő tevékenység
 
 esetében.
 
-(2) A településképi bejelentési eljárás a 312/2012. (XI. 8.) Korm. rendelet 1. melléklet 1. és 2. pontja szerint végzett építési tevékenység esetében akkor kötelező, ha
+(2)[^114] A településképi bejelentési eljárás a TTr. 13. melléklet 2., 3. és 4. pontja szerint végzett építési tevékenység esetében akkor kötelező, ha
 
 a) a közterületről látható homlokzat homlokzatképzését, ezen belül a felületképzést, az anyaghasználatot, a színezést, a homlokzattagolást, homlokzati architektúrát, a nyílászárókat, továbbá a tetőformálás geometriáját, héjalását és a tetőnyílászárók osztását;
 
-b) az 1. mellékletben szereplő, egyben helyi védelem alatt is álló épület közös tulajdonban lévő
+b)[^115] az 1. mellékletben szereplő, egyben egyedi vagy utcaképi (területi) védelem alatt is álló épület közös tulajdonban lévő
 
 ba) belső udvari homlokzat homlokzatképzését, ezen belül a felületképzést, az anyaghasználatot, a színezést, a homlokzattagolást, homlokzati architektúrát, a nyílászárókat,
 
@@ -22,6 +22,12 @@ bb) közös használatú terét, helyiségét, ezen belül a fennállótól elt�
 
 érinti.
 
-(3) A településképi bejelentési eljárás a (2) bekezdésben foglaltaktól eltérően nem kötelező, ha a 312/2012. (XI. 8.) Korm. rendelet 1. melléklet 1. pontja szerint végzett építési tevékenység csak az önálló rendeltetési egység belső felújítási munkájára terjed ki, és nem érinti olyan helyiség válaszfal áthelyezését, illetve bontását, amely az épület közterületről látható homlokzatán lévő nyílászárót tartalmaz.
+(3)[^116] A településképi bejelentési eljárás a (2) bekezdésben foglaltaktól eltérően nem kötelező, ha a TTr. 13. melléklet 2. pontja szerint végzett építési tevékenység csak az önálló rendeltetési egység belső felújítási munkájára terjed ki, és nem érinti olyan helyiség válaszfal áthelyezését, illetve bontását, amely az épület közterületről látható homlokzatán lévő nyílászárót tartalmaz.
 
-[^78]: A 37. § a 776/2021. (XII. 23.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^110]: A 37. § a 776/2021. (XII. 23.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^111]: A 37. § (1) bekezdés a) pontja a 424/2024. (XII. 23.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^112]: A 37. § (1) bekezdés b) pontja a 424/2024. (XII. 23.) Korm. rendelet 13. § 29. pontja szerint módosított szöveg.
+[^113]: A 37. § (1) bekezdés c) pontja a 424/2024. (XII. 23.) Korm. rendelet 13. § 30. pontja szerint módosított szöveg.
+[^114]: A 37. § (2) bekezdés nyitó szövegrésze a 424/2024. (XII. 23.) Korm. rendelet 13. § 31. pontja szerint módosított szöveg.
+[^115]: A 37. § (2) bekezdés b) pont nyitó szövegrésze a 424/2024. (XII. 23.) Korm. rendelet 13. § 32. pontja szerint módosított szöveg.
+[^116]: A 37. § (3) bekezdése a 424/2024. (XII. 23.) Korm. rendelet 13. § 33. pontja szerint módosított szöveg.
