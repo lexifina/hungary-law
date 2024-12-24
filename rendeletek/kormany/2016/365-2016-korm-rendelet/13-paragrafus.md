@@ -48,15 +48,15 @@ h)[^51] a nyomástartó berendezés kezelője, a nyomástartó berendezés vizsg
 
 i) a felvonó- és mozgólépcső-ellenőrök nyilvántartásba vételével, a nyilvántartott szervezetekkel, valamint a felvonók, mozgólépcsők és mozgójárdák országos nyilvántartásának vezetésével,
 
-j) a műszaki-biztonsági hatósági felügyelet alatt álló, cseppfolyós propán-, butángázok és ezek elegyei tárolására szolgáló, legfeljebb 13 000 l össztérfogatú nyomástartó berendezések és kriogén tartályok létesítésének tervezésére, létesítésére, üzembe helyezésére, üzemeltetésére, átalakítására, javítására, időszakos ellenőrzésére és megszüntetésére vonatkozó műszaki-biztonsági irányítási rendszert működtető ellenőrző szervezet nyilvántartásba vételével és felügyeletével,
+j)[^52]
 
-k)[^52] a műszaki biztonsági szempontból jelentős ipari szakképesítés (felvonó- és mozgólépcső ellenőr, nyomástartó berendezés kezelője, nyomástartó berendezés vizsgálója, nyomástartóedény-gépész, tartálytisztító, tartályvizsgáló, villamos biztonsági felülvizsgáló) megszerzéséhez szükséges vizsgakötelezettség teljesítéséhez igénybe vehető hatósági jellegű képzés programjának jóváhagyásával és a képzési tevékenység felügyeletével,
+k)[^53] a műszaki biztonsági szempontból jelentős ipari szakképesítés (felvonó- és mozgólépcső ellenőr, nyomástartó berendezés kezelője, nyomástartó berendezés vizsgálója, nyomástartóedény-gépész, tartálytisztító, tartályvizsgáló, villamos biztonsági felülvizsgáló) megszerzéséhez szükséges vizsgakötelezettség teljesítéséhez igénybe vehető hatósági jellegű képzés programjának jóváhagyásával és a képzési tevékenység felügyeletével,
 
 l) az aeroszol termékek és aeroszol csomagolások forgalmazásának követelményeiről szóló miniszteri rendeletben meghatározott vizsgálatok esetében a vizsgálati módszer jóváhagyásával,
 
-m)[^53] a villamos energiáról szóló törvény szerint a bejelentett és jogosult villanyszerelők nyilvántartásának vezetésével, valamint a víziközmű-szolgáltatásról szóló törvény szerint a kivitelezői jogosultsággal rendelkező vízszerelők nyilvántartásának vezetésével,
+m)[^54] a villamos energiáról szóló törvény szerint a bejelentett és jogosult villanyszerelők nyilvántartásának vezetésével, valamint a víziközmű-szolgáltatásról szóló törvény szerint a kivitelezői jogosultsággal rendelkező vízszerelők nyilvántartásának vezetésével,
 
-n)[^54] az egyes szórakoztatási célú berendezések, létesítmények és ideiglenes szerkezetek, valamint szórakozási célú sporteszközök biztonságosságáról szóló miniszteri rendelet szerinti I. és II. veszélyességi osztályba tartozó szórakoztatási célú berendezések, létesítmények biztonságos üzemeltetésével kapcsolatos oktatásra történő feljogosításával
+n)[^55] az egyes szórakoztatási célú berendezések, létesítmények és ideiglenes szerkezetek, valamint szórakozási célú sporteszközök biztonságosságáról szóló miniszteri rendelet szerinti I. és II. veszélyességi osztályba tartozó szórakoztatási célú berendezések, létesítmények biztonságos üzemeltetésével kapcsolatos oktatásra történő feljogosításával
 
 kapcsolatos eljárásokban.
 
@@ -66,7 +66,7 @@ kapcsolatos eljárásokban.
 
 (6) A műszaki biztonsági hatóság a műszaki-biztonsági szakhatósági közreműködést igénylő ügyben az ügyfélnek az eljárás megindítása előtt benyújtott kérelmére 6 hónapig felhasználható, előzetes szakhatósági állásfoglalást ad ki.
 
-(7)[^55] A mérésügyi és műszaki biztonsági tevékenységért jogszabály alapján befizetett igazgatási szolgáltatási díjbevétel 50%-a a fővárosi és vármegyei kormányhivatalokat, 50%-a Budapest Főváros Kormányhivatalát illetik meg. Budapest Főváros Kormányhivatala a díjbevételt a tárgyhónapot követő hónap 25. napjáig utalja át a jogosultak részére.
+(7)[^56] A mérésügyi és műszaki biztonsági tevékenységért jogszabály alapján befizetett igazgatási szolgáltatási díjbevétel 50%-a a fővárosi és vármegyei kormányhivatalokat, 50%-a Budapest Főváros Kormányhivatalát illetik meg. Budapest Főváros Kormányhivatala a díjbevételt a tárgyhónapot követő hónap 25. napjáig utalja át a jogosultak részére.
 
 [^38]: A 13. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 157. § (5) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 240. § a) pontja szerint módosított szöveg.
 [^39]: A 13. § (2) bekezdés b) pontját a 190/2020. (V. 7.) Korm. rendelet 15. §-a hatályon kívül helyezte.
@@ -82,7 +82,8 @@ kapcsolatos eljárásokban.
 [^49]: A 13. § (3) bekezdés d) pontját a 327/2019. (XII. 20.) Korm. rendelet 19. § (2) bekezdése hatályon kívül helyezte.
 [^50]: A 13. § (3) bekezdés e) pontja a 80/2018. (IV. 20.) Korm. rendelet 19. § (12) bekezdésével megállapított szöveg.
 [^51]: A 13. § (3) bekezdés h) pontja a 447/2021. (VII. 26.) Korm. rendelet 6. § (5) bekezdés a) pontja szerint módosított szöveg.
-[^52]: A 13. § (3) bekezdés k) pontja a 447/2021. (VII. 26.) Korm. rendelet 6. § (5) bekezdés b) pontja szerint módosított szöveg.
-[^53]: A 13. § (3) bekezdés m) pontját a 218/2017. (VII. 31.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^54]: A 13. § (3) bekezdés n) pontját a 198/2019. (VIII. 1.) Korm. rendelet 16. §-a iktatta be, szövege a 414/2023. (VIII. 30.) Korm. rendelet 10. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^55]: A 13. § (7) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 240. § a) pontja szerint módosított szöveg.
+[^52]: A 13. § (3) bekezdés j) pontját a 385/2024. (XII. 9.) Korm. rendelet 12. § b) pontja hatályon kívül helyezte.
+[^53]: A 13. § (3) bekezdés k) pontja a 447/2021. (VII. 26.) Korm. rendelet 6. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^54]: A 13. § (3) bekezdés m) pontját a 218/2017. (VII. 31.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^55]: A 13. § (3) bekezdés n) pontját a 198/2019. (VIII. 1.) Korm. rendelet 16. §-a iktatta be, szövege a 414/2023. (VIII. 30.) Korm. rendelet 10. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^56]: A 13. § (7) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 240. § a) pontja szerint módosított szöveg.

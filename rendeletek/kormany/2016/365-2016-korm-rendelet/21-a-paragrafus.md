@@ -1,4 +1,4 @@
-21/A. §[^75] (1) Az egyes szállítható nyomástartó berendezések üzemeltetésével kapcsolatos műszaki biztonsági követelményekről és a Gázpalack Biztonsági Szabályzatról szóló miniszteri rendelet hatálya alá tartozó gázpalackok vonatkozásában hatáskörrel rendelkező nemzeti hatóságként a 13. § (1) bekezdése szerinti hatóság jár el.
+21/A. §[^77] (1) Az egyes szállítható nyomástartó berendezések üzemeltetésével kapcsolatos műszaki biztonsági követelményekről és a Gázpalack Biztonsági Szabályzatról szóló miniszteri rendelet hatálya alá tartozó gázpalackok vonatkozásában hatáskörrel rendelkező nemzeti hatóságként a 13. § (1) bekezdése szerinti hatóság jár el.
 
 (2) A cseppfolyós propán-, butángázok és ezek elegyei forgalmazására szolgáló szállítható nyomástartó berendezések vonatkozásában a műszaki biztonsági hatósági jogkört a bányafelügyelet gyakorolja.
 
@@ -16,4 +16,4 @@ c) a javítási vagy átalakítási technológia és vizsgálati technológia le
 
 (6) A gázpalackok tulajdonosát vagy használóját érintő hatósági engedéllyel kapcsolatos jogutódlás esetén – ha az engedély már véglegessé vált – a jogutód a 13. § (1) bekezdése szerinti hatóságot a változás bekövetkezésétől számított 30 napon belül a jogerős cégbírósági bejegyző határozat másolatának megküldésével köteles értesíteni és kérni a 13. § (1) bekezdése szerinti hatóságtól a jogutódlás megállapítását. A tulajdonos vagy használó a jogutódlásra vonatkozó szabály szerint köteles értesíteni a 13. § (1) bekezdése szerinti hatóságot nevének megváltozása esetén is.
 
-[^75]: A 21/A. §-t a 198/2019. (VIII. 1.) Korm. rendelet 17. §-a iktatta be.
+[^77]: A 21/A. §-t a 198/2019. (VIII. 1.) Korm. rendelet 17. §-a iktatta be.

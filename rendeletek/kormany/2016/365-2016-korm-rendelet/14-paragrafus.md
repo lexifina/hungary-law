@@ -22,13 +22,13 @@ i) alkalmazásával szolgáltatást végző szervezetek tevékenységére
 
 vonatkozó jogszabályi rendelkezések megtartását és érvényesülését.
 
-(2)[^56] Jogszabály eltérő rendelkezése hiányában a műszaki biztonsági hatóság jár el a következő berendezések, létesítmények tekintetében:
+(2)[^57] Jogszabály eltérő rendelkezése hiányában a műszaki biztonsági hatóság jár el a következő berendezések, létesítmények tekintetében:
 
 a) a földgáz csatlakozóvezetékei, felhasználói berendezései és telephelyi vezetékei, ezek tartozékai,
 
-b)[^57] a nyomástartó berendezések és létesítmények, beleértve az autógáztöltő állomások berendezéseit is,
+b)[^58] a nyomástartó berendezések és létesítmények, beleértve az autógáztöltő állomások berendezéseit is,
 
-c) a szállítható nyomástartó berendezések,
+c)[^59] a szállítható nyomástartó berendezések, ideértve a veszélyes áruk szállítására használt nyomástartó berendezéseket és eszközöket is,
 
 d) a b) és c) pontban meghatározott nyomástartó berendezés töltésére szolgáló berendezések, valamint az egyedi sűrített földgáztöltő berendezések,
 
@@ -36,7 +36,7 @@ e) a nyomástartó berendezésnek nem minősülő gáztárolók és üzemi beren
 
 f) a gázüzemű közúti jármű üzemanyag-ellátó berendezései, munkagép és nem közúti gép üzemanyag-ellátó berendezései,
 
-g)[^58] a veszélyes áruk szállítására használt nem nyomástartó tartályok, tartányok, csomagolóeszközök, kivéve az ezek szállítására használt szállítóeszközök,
+g)[^60] a veszélyes áruk szállítására használt nem nyomástartó tartályok, tartányok, csomagolóeszközök, kivéve az ezek szállítására használt szállítóeszközök,
 
 h) a veszélyes folyadékok és olvadékok – nyomástartó berendezésnek nem minősülő – tárolótartályai és tároló létesítményei, beleértve az üzemanyagtöltő állomást, valamint azok működéséhez szükséges technológiai, biztonsági berendezések, csővezetékek, szerelvények, tartozékok,
 
@@ -58,6 +58,7 @@ b) bejelentés alapján kivizsgálja a hatáskörébe tartozó rendkívüli esem
 
 (4) A műszaki biztonsági hatóság a műszaki biztonsági felügyeleti feladat- és hatáskörében a műszaki biztonsági követelmények megtartása érdekében ellátja mindazokat a feladatokat, amelyeket a jogszabályok a hatáskörébe utalnak.
 
-[^56]: A 14. § (2) bekezdés nyitó szövegrésze a 414/2023. (VIII. 30.) Korm. rendelet 10. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^57]: A 14. § (2) bekezdés b) pontja a 80/2018. (IV. 20.) Korm. rendelet 19. § (13) bekezdésével megállapított szöveg.
-[^58]: A 14. § (2) bekezdés g) pontja a 414/2023. (VIII. 30.) Korm. rendelet 10. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^57]: A 14. § (2) bekezdés nyitó szövegrésze a 414/2023. (VIII. 30.) Korm. rendelet 10. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^58]: A 14. § (2) bekezdés b) pontja a 80/2018. (IV. 20.) Korm. rendelet 19. § (13) bekezdésével megállapított szöveg.
+[^59]: A 14. § (2) bekezdés c) pontja a 385/2024. (XII. 9.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^60]: A 14. § (2) bekezdés g) pontja a 414/2023. (VIII. 30.) Korm. rendelet 10. § (1) bekezdés c) pontja szerint módosított szöveg.
