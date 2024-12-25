@@ -1,1 +1,0 @@
-1. § Az Építőipari Ágazati Párbeszéd Bizottság ajánlása alapján az építőipari kivitelezési tevékenységről szóló kormányrendelet szerinti építőipari rezsióradíj 2023. évre meghatározott, általános forgalmi adó nélküli legkisebb mértéke 5856 forint/óra.
