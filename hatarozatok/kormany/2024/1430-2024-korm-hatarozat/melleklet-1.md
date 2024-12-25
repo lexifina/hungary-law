@@ -20,13 +20,7 @@
 
 | Határidő: | az e határozat közzétételét követő 60 napon belül |
 
-## 2. A Környezeti és Energiahatékonysági Operatív Program Plusz éves fejlesztési keretének megállapításáról szóló 1527/2023. (XII. 1.) Korm. határozat 2. mellékletében foglalt táblázat
-
-## a) D:60 mezőjében a „3,69” szövegrész helyébe a „4,42” szöveg,
-
-## b) E:60 mezőjében a „0,56” szövegrész helyébe a „0,67” szöveg
-
-## lép.
+## 2.[^1]
 
 ## 3. Ez a határozat a közzétételét követő napon lép hatályba.
 
@@ -41,3 +35,5 @@
 | 3. | Megtérülő projektköltségre jutó központi költségvetési forrás összege (Ft) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés a) pontja alapján | Projekt le nem vonható, az EU felé el nem számolható ÁFA összege (Ft) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés b) pontja alapján | Az EU felé el nem számolható költségek összege (Ft) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés f) pontja alapján | Az EU felé el nem számolható költségek összege (Ft) |  |  | Megtérülő projektköltségre jutó központi költségvetési forrás összege (Ft) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés a) pontja alapján | Projekt le nem vonható, az EU felé el nem számolható ÁFA összege (Ft) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés b) pontja alapján | Az EU felé el nem számolható költségek összege (Ft) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés f) pontja alapján | Az EU felé el nem számolható költségek összege (Ft) |  |  | Megtérülő projektköltségre jutó központi költségvetési forrás összege (Ft) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés a) pontja alapján | Projekt le nem vonható, az EU felé el nem számolható ÁFA összege (Ft) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés b) pontja alapján | Az EU felé el nem számolható költségek összege (Ft) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés f) pontja alapján | Az EU felé el nem számolható költségek összege (Ft) |
 
 | 4. | KEHOP PLUSZ-2.1.20-23-2024-00009 | Martonvásár-Erdőhát ivóvízminőség-javító programja | Martonvásár Város Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet, valamint a 362/2022. (IX. 19.) Korm. rendelet szerint | 86,895537 | 3 683 901 121 | 555 558 405 | 45 422 866 | 2 | 0 | – | 727 690 903 | 109 740 947 | 10 811 228 | 230 656 344 | 23 622 803 | 86,895537 | 4 411 592 024 | 665 299 352 | 56 234 094 | 230 656 344 | 23 622 803 | 5 387 404 619 | A beruházással szembeni szakmai elvárás, hogy az érintett területen elsősorban az öt, a vízminőséget kiemelten befolyásoló komponens (arzén, bór, fluor, nitrit, ammónium) vonatkozásában a szolgáltatott közműves ivóvíz minősége feleljen meg az (EU) 2020/2184 irányelvben, valamint az 5/2023. (I. 12.) Korm. rendeletben rögzített paramétereknek, határértékeknek. |
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
