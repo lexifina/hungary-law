@@ -1,3 +1,3 @@
-9. § A 19/2018. (II. 14.) Korm. rendelet 37. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+9. §[^9]
 
-(A településképi bejelentési eljárás kötelező)
+[^9]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

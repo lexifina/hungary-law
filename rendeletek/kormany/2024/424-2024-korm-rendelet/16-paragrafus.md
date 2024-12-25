@@ -1,3 +1,3 @@
-16. §[^3]
+16. §[^16]
 
-[^3]: A 16. § a 21. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+[^16]: A 16. § a 21. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
