@@ -1,3 +1,3 @@
-8. § A külképviseletek gazdálkodásáról szóló 626/2022. (XII. 30.) Korm. rendelet 37. §-a a következő (1a) bekezdéssel egészül ki:
+8. §[^8]
 
-„(1a) A külképviseleti hálózat devizában vállalt kötelezettségállományából fakadó árfolyamkockázatok minimalizálása, valamint a felelős gazdálkodás megteremtése, a vezetői információs rendszer kiszolgálása és a felelős vezetői döntések meghozatalának elősegítése érdekében a tárgyhónapot megelőző hónap utolsó napján érvényes, MNB által közzétett árfolyam alapján a külképviselet a tárgyhavi devizában nyilvántartott kötelezettségvállalások esetében havi árfolyamkorrekciót végezhet.”
+[^8]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

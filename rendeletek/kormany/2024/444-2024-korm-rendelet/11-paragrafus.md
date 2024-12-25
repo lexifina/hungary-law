@@ -1,1 +1,3 @@
-11. § Hatályát veszti a külképviseletek gazdálkodásáról szóló 626/2022. (XII. 30.) Korm. rendelet 13. § (1) bekezdésében a „külképviselet-vezető, vagy gazdasági régió működése esetén a regionális gazdasági igazgató közvetlen irányításával” szövegrész.
+11. §[^11]
+
+[^11]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

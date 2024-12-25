@@ -1,3 +1,3 @@
-5. § A külképviseletek gazdálkodásáról szóló 626/2022. (XII. 30.) Korm. rendelet 25. § (6) bekezdése a következő e) ponttal egészül ki:
+5. §[^5]
 
-(A kiadások érvényesítése, utalványozása önbizonylat kiállításával történik, ha a külképviselet gazdálkodási feladatellátása során – figyelembe véve az adott állomáshely országának pénzügyi szabályozóit, hagyományait és gyakorlatát – bizonylat beszerzésére nincs lehetőség, vagy nincs lehetőség olyan bizonylat beszerzésére, amely tartalmazza legalább)
+[^5]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

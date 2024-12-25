@@ -1,3 +1,3 @@
-2. § A külképviseletek gazdálkodásáról szóló 626/2022. (XII. 30.) Korm. rendelet 3. §-a a következő 3a. ponttal egészül ki:
+2. §[^2]
 
-(E rendelet alkalmazásában)
+[^2]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
