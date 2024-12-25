@@ -1,1 +1,3 @@
-1. § Hatályát veszti a szakdiplomata-álláshely létesítésére, valamint a szakdiplomata felkészítésére és szakmai irányítására vonatkozó részletes szabályokról szóló 239/2017. (VIII. 18.) Korm. rendelet 3. § (1) bekezdés b) pontjában a „vagy legalább tárgyalóképes szakmai nyelvismerettel, ha jogszabály a nyelvi követelmények vonatkozásában eltérően nem rendelkezik” szövegrész.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
