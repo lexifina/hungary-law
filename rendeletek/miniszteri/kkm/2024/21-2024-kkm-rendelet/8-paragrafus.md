@@ -1,13 +1,6 @@
-8. § (1) Hatályát veszti a KKM Rendelet
+8. § (1)[^8]
 
-a) 3. § (2) bekezdés d) pontja,
+(2)[^9]
 
-b) 13. § f) pontja,
-
-c) 34. alcíme,
-
-d) 97. § h) pontja.
-
-(2)[^1]
-
-[^1]: A 8. § (2) bekezdése a 9. § (2) bekezdése alapján 2025. július 1-jén lép hatályba.
+[^8]: A 8. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 8. § (2) bekezdése a 9. § (2) bekezdése alapján 2025. július 1-jén lép hatályba.

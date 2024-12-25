@@ -1,7 +1,3 @@
-7. § A KKM Rendelet
+7. §[^7]
 
-a) 36. § (1) bekezdésében a „Támogatás” szövegrész helyébe a „Beruházási támogatás” szöveg,
-
-b) 36. § (2) bekezdésében az „A támogatási” szövegrész helyébe a „Beruházási támogatás esetén a támogatási” szöveg
-
-lép.
+[^7]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
