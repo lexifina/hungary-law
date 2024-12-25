@@ -1,3 +1,3 @@
-1. § Az állami tulajdonban lévő ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Korlátolt Felelősségű Társaság Lakossági energiahatékonysági beruházások megvalósításához kapcsolódó Otthonfelújítási Program műszaki szakértői közreműködői feladatok elvégzésére vonatkozó kijelöléséről szóló 139/2024. (VI. 28.) Korm. rendelet [a továbbiakban: 139/2024. (VI. 28.) Korm. rendelet] 1. §-a helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„1. § E rendelet hatálya a lakossági energiahatékonysági beruházások megvalósításához kapcsolódó Otthonfelújítási Programban műszaki szakértői közreműködő kijelölésére és az ellátandó feladatokra terjed ki.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
