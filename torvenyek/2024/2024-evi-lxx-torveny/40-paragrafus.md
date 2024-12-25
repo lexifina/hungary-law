@@ -1,0 +1,25 @@
+40. § (1) A nemzetbiztonsági állomány tagjának vezetői beosztásba helyezése azonnali hatállyal, indokolás nélkül – belegyezése nélkül is – visszavonható vagy a vezetői beosztásról az érintett 30 napos határidővel bármikor, indokolás nélkül lemondhat.
+
+(2) A vezetői beosztásba helyezés visszavonása esetén, ha az nem az alacsonyabb szolgálati beosztásba helyezés fegyelmi fenyítés végrehajtása miatt történik, az érintett részére a visszavonással egy időben végzettségének megfelelő szolgálati beosztást kell felajánlani, feltéve, hogy ilyen felajánlható szolgálati beosztás rendelkezésre áll. A felajánlott szolgálati beosztás elfogadásáról vagy elutasításáról a nemzetbiztonsági állomány tagja a felajánlástól számított 5 munkanapon belül írásban nyilatkozik. Ha a nemzetbiztonsági állomány tagja a szolgálati beosztás elfogadása vonatkozásában 5 munkanapon belül nem nyilatkozik, azt úgy kell tekinteni, mintha a felajánlott szolgálati beosztást elutasította volna.
+
+(3) A vezetői beosztásba helyezés visszavonása esetén – ha a visszavonás hatálya már beállt – a nemzetbiztonsági állomány tagja részére a szolgálati beosztás (2) bekezdés szerinti felajánlásától a felajánlott szolgálati beosztással kapcsolatos nyilatkozat megtételéig
+
+a) a munkáltatói jogkör gyakorlója jogosult a nemzetbiztonsági állomány tagjának szolgálati feladattal való ideiglenes ellátására intézkedni vagy részére ezen időtartamra szolgálatmentességet biztosítani, valamint
+
+b) a nemzetbiztonsági állomány tagja a visszavonással érintett vezetői beosztásának megfelelő korábbi illetményére jogosult.
+
+(4) Ha a vezetői beosztásba helyezés visszavonásakor a (2) bekezdés szerint felajánlott szolgálati beosztásról egészségi állapota miatt nem képes dönteni, a nemzetbiztonsági állomány tagját – a visszavonással érintett vezetői beosztása szerinti utolsó illetménye 85%-ának megállapítása mellett – a döntésre való alkalmasságáig rendelkezési állományba kell helyezni.
+
+(5) Ha a polgári nemzetbiztonsági szolgálatnál felajánlható másik szolgálati beosztás nincs, de a szolgálat érdekeire figyelemmel a nemzetbiztonsági állomány tagjának továbbfoglalkoztatását tervezik, úgy az érintett beleegyezésével – a visszavonással érintett vezetői beosztása szerinti utolsó illetménye 85%-ának folyósítása mellett – a szolgálati beosztásba helyezéséig, de legfeljebb 1 évig rendelkezési állományba helyezhető, amelyet a főigazgató indokolt esetben további 1 évvel meghosszabbíthat.
+
+(6) Ha a nemzetbiztonsági állomány tagja a neki felajánlott szolgálati beosztást elfogadja, új szolgálati beosztásának megfelelően be kell sorolni, illetményét és rendfokozatát megállapítani. Ha a nemzetbiztonsági állomány tagja a vezetői beosztásba helyezés visszavonása után a neki felajánlott, a (2) bekezdésben meghatározott feltételeknek megfelelő szolgálati beosztást nem fogadja el, szolgálati viszonyát felmentéssel meg kell szüntetni.
+
+(7) A vezetői beosztásról történő lemondás esetén az (1) bekezdés szerinti 30 napos időtartam alatt a polgári nemzetbiztonsági szolgálatnál – feltéve, hogy felajánlható szolgálati beosztás rendelkezésre áll – a nemzetbiztonsági állomány tagja részére végzettségének megfelelő szolgálati beosztást kell felajánlani. A felajánlott szolgálati beosztás nem lehet magasabb vezetői beosztás a lemondással érintett vezetői beosztásnál. A nemzetbiztonsági állomány tagja a felajánlott szolgálati beosztás elfogadásáról vagy elutasításáról a felajánlástól számított 5 munkanapon belül írásban nyilatkozik. Ha a nemzetbiztonsági állomány tagja a felajánlott szolgálati beosztást elfogadja, új szolgálati beosztásának megfelelően kell besorolni, illetményét és rendfokozatát megállapítani.
+
+(8) A vezetői beosztásról történő lemondás esetén a nemzetbiztonsági állomány tagja részére a szolgálati beosztás (7) bekezdés szerinti felajánlásától a felajánlott szolgálati beosztással kapcsolatos nyilatkozat megtételéig
+
+a) a munkáltatói jogkör gyakorlója jogosult a nemzetbiztonsági állomány tagjának szolgálati feladattal való ideiglenes ellátására intézkedni vagy részére ezen időtartamra szolgálatmentességet biztosítani, illetve
+
+b) a nemzetbiztonsági állomány tagja a vezetői kinevezésről történő lemondással érintett vezetői beosztásának megfelelő korábbi illetményére és rendfokozat viselésére jogosult.
+
+(9) A szolgálati viszonyról történő lemondásnak kell tekinteni, ha a nemzetbiztonsági állomány tagja nem fogadja el a vezetői beosztásról történő lemondást követően felajánlott, végzettségének megfelelő szolgálati beosztást. Ha a polgári nemzetbiztonsági szolgálatnál felajánlható másik szolgálati beosztás nincs, de a szolgálati érdekre figyelemmel a nemzetbiztonsági állomány tagjának továbbfoglalkoztatását tervezik, úgy az érintett beleegyezésével – a lemondással érintett vezetői beosztása szerinti utolsó illetménye 85%-ának folyósítása mellett – a szolgálati beosztásba helyezéséig, de legfeljebb 1 évig rendelkezési állományba helyezhető, amelyet a főigazgató indokolt esetben további 1 évvel meghosszabbíthat.

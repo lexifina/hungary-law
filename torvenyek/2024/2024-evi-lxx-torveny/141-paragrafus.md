@@ -1,0 +1,1 @@
+141. § A nemzetbiztonsági állomány tagjának járó vagy adható illetményen felüli juttatások, költségtérítések, kedvezmények és támogatások pénzbeli kifizetésére a 138. § rendelkezéseit kell alkalmazni.

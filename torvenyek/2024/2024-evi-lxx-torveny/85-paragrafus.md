@@ -1,0 +1,3 @@
+85. § (1) A nemzetbiztonsági állomány tagja szolgálatteljesítése során köteles végrehajtani a szolgálati elöljáró utasítását, a felettes rendelkezését, kivéve, ha azzal bűncselekményt követne el.
+
+(2) Az (1) bekezdésben foglalt kivétellel a nemzetbiztonsági állomány tagja a jogszabálysértő utasítás, rendelkezés végrehajtását nem tagadhatja meg. Ha azonban annak jogellenessége felismerhető számára, arra haladéktalanul köteles a szolgálati elöljáró vagy a felettes figyelmét felhívni. Ha a szolgálati elöljáró az utasítását vagy a felettes a rendelkezését ennek ellenére fenntartja, azt kérelemre írásba kell foglalnia. A jogszabálysértő utasítás, rendelkezés végrehajtásáért kizárólag az azt kiadó felel.

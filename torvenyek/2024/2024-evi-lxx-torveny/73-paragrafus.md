@@ -1,0 +1,5 @@
+## 36. Áthelyezés
+
+73. § (1) A nemzetbiztonsági állomány tagja, a főigazgató és a nemzetbiztonsági szolgálati, nemzetbiztonsági alkalmazotti, a Hszt. szerinti hivatásos szolgálati, a rendvédelmi igazgatási szolgálati, a Magyar Honvédség hivatásos és szerződéses katonai szolgálati, a honvédelmi alkalmazotti, az adó- és vámhatósági szolgálati, az igazságügyi alkalmazotti szolgálati, a kormányzati szolgálati, az egészségügyi szolgálati, a közszolgálati vagy a közalkalmazotti jogviszony létrehozására feljogosított szerv vezetője megállapodhatnak a nemzetbiztonsági állomány tagjának nemzetbiztonsági szolgálati, nemzetbiztonsági alkalmazotti, a Hszt. szerinti hivatásos szolgálati, rendvédelmi igazgatási szolgálati, a Magyar Honvédség hivatásos vagy szerződéses katonai szolgálati, honvédelmi alkalmazotti, adó- és vámhatósági szolgálati, igazságügyi alkalmazotti szolgálati, kormányzati szolgálati, egészségügyi szolgálati, közszolgálati vagy közalkalmazotti jogviszonyba történő áthelyezésében.
+
+(2) Az áthelyezett jogviszonyát folyamatosnak kell tekinteni.

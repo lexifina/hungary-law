@@ -1,0 +1,5 @@
+97. § (1) A nemzetbiztonsági állomány tagja köteles a munkáltatói jogkör gyakorlójának haladéktalanul bejelenteni, ha vele szemben e törvényben meghatározott összeférhetetlenségi ok merült fel, vagy ha szolgálati viszonyának fennállása alatt összeférhetetlen helyzetbe került. A munkáltatói jogkör gyakorlója köteles – kivéve, ha a nemzetbiztonsági állomány tagja a 96. § (1) és (2) bekezdésében meghatározott engedélyt kapott – írásban felszólítani a nemzetbiztonsági állomány tagját az összeférhetetlenség megszüntetésére, vagy köteles a szükséges intézkedést megtenni az összeférhetetlenség kizárására.
+
+(2) Ha a nemzetbiztonsági állomány tagja az összeférhetetlenséget a felszólítástól számított 30 napon belül nem szüntette meg, szolgálati viszonya a törvény erejénél fogva megszűnik.
+
+(3) A miniszter közjogi szervezetszabályozó eszközben állapítja meg a más kereső foglalkozás bejelentésével, engedélyezésével, az összeférhetetlenség megszüntetésével és tilalma megszegése következményeivel kapcsolatos eljárást.

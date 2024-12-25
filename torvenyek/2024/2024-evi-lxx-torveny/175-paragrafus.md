@@ -1,0 +1,7 @@
+175. § (1) A személyügyi alapnyilvántartás keretében a nemzetbiztonsági állomány tagjairól személyi anyaggyűjtőt kell vezetni, amely tartalmazza a szolgálati viszony létesítésével kapcsolatos alapvető előkészítő, valamint az 5. mellékletben meghatározott adatokat tartalmazó iratokat, munkáltatói intézkedéseket, beleértve a szolgálati viszony megszűnését követően keletkezett iratokat is, valamint a személyi nyilvántartó adatlapot.
+
+(2) A személyi anyaggyűjtőből iratot selejtezni vagy adatot módosítani csak a jogszabályban meghatározott rendben lehet. A személyi anyaggyűjtőben elhelyezett és az onnan selejtezett iratról a személyi anyagban nyilvántartást kell vezetni. A személyi anyaggyűjtőt a szerv egyéb nyilvántartásaitól elkülönítetten kell kezelni.
+
+(3) A szolgálati viszony megszűnését követően a személyi anyaggyűjtőt és a nyilvántartható adatokat tartalmazó egyéb adatállományt további 50 évig a szolgálati viszonyban állók nyilvántartásától elkülönítetten kell kezelni.
+
+(4) A személyi anyaggyűjtő a szolgálati hely tervezett vagy kérelmezett változtatását megelőzően az új szervezeti egység vezetőjének betekintésre átadható. Áthelyezést vagy vezénylést megelőzően a személyi anyaggyűjtő az új foglalkoztató szerv vezetőjének csak az érintett hozzájárulásával adható át. Az érintett hozzájárulásával a személyügyi alapnyilvántartásban elektronikusan vezetett adatai az új foglalkoztató szerv vezetőjének azonos informatikai rendszeren belül elektronikusan is átadhatók.
