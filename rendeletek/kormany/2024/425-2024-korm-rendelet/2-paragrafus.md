@@ -1,3 +1,3 @@
-2. § A 141/1995. (XI. 30.) Korm. rendelet 25/A. § (3) bekezdése helyébe a következő rendelkezés lép:
+2. §[^2]
 
-„(3) A közlekedésért felelős miniszter együttműködési megállapodásban rögzíti a környezetvédelemért felelős miniszter, az adópolitikáért felelős miniszter, a rendészetért felelős miniszter, a határrendészetért felelős miniszter, az idegenrendészetért és menekültügyért felelős miniszter, az egészségügyért felelős miniszter, az élelmiszerlánc-felügyeletért felelős miniszter, a külpolitikáért felelős miniszter, a honvédelemért felelős miniszter, a természetvédelemért felelős miniszter és a frekvenciaszabályozásért felelős szervezet által megadandó, az 1. melléklet 1. táblázatában meghatározott adatok körét, valamint megadásuk módját, és közvetlenül továbbítja az adatokat és tájékoztatásokat az AIS részére.”
+[^2]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

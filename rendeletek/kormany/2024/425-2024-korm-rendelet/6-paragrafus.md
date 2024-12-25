@@ -1,5 +1,5 @@
 ## 2. A magyar légtér igénybevételéről szóló 4/1998. (I. 16.) Korm. rendelet módosítása
 
-6. § A magyar légtér igénybevételéről szóló 4/1998. (I. 16.) Korm. rendelet [a továbbiakban: 4/1998. (I. 16.) Korm. rendelet] 4/A. §-a a következő p) ponttal egészül ki:
+6. §[^6]
 
-(UAS művelet nem végezhető)
+[^6]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

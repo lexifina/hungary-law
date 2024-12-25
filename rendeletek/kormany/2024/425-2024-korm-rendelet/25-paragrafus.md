@@ -1,1 +1,3 @@
-25. § A 181/2017. (VII. 5.) Korm. rendelet 14. § (1) bekezdés b) pontjában az „alapít” szövegrész helyébe az „alapít, továbbá amikor országos, regionális, elővárosi autóbusszal végzett személyszállítási közszolgáltatási tevékenységet végző tanúsító szervezet tekintetében jogutódlás következik be” szöveg lép.
+25. §[^26]
+
+[^26]: A 25. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-33. § A 390/2020. (VIII. 12.) Korm. rendelet 1. melléklete a 6. melléklet szerint módosul.
+33. §[^34]
+
+[^34]: A 33. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

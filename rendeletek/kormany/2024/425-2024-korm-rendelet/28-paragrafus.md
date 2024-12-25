@@ -1,1 +1,3 @@
-28. § Az 513/2017. (XII. 29.) Korm. rendelet 3. melléklete az 5. melléklet szerint módosul.
+28. §[^29]
+
+[^29]: A 28. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

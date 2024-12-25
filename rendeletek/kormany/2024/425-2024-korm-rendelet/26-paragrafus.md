@@ -1,1 +1,3 @@
-26. § Hatályát veszti a 181/2017. (VII. 5.) Korm. rendelet 1. melléklet 1. pont b) alpontjában az „(a módosítható adatok felsorolása a HKR rendszerben található)” szövegrész.
+26. §[^27]
+
+[^27]: A 26. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

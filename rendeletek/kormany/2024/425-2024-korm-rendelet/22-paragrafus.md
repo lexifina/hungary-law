@@ -1,1 +1,3 @@
-22. § A 345/2012. (XII. 6.) Korm. rendelet 1. § (6) bekezdésében a „2.1.62., 2.1.113., 2.1.125–2.1.127., 3.2.7.,” szövegrész helyébe a „2.1.52., 2.1.62., 2.1.92., 2.1.95., 2.1.113., 2.1.125–2.1.127., 3.1.16., 3.2.7.,” szöveg lép.
+22. §[^23]
+
+[^23]: A 22. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

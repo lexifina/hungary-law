@@ -1,1 +1,3 @@
-4. § A 141/1995. (XI. 30.) Korm. rendelet 1. melléklete helyébe az 1. melléklet lép.
+4. §[^4]
+
+[^4]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
