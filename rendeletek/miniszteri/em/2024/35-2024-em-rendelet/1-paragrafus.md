@@ -1,3 +1,3 @@
-1. § Az egyes folyékony tüzelő- és fűtőanyagok kéntartalmáról szóló 53/2014. (XII. 13.) NFM rendelet 16. §-a helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„16. § Ha a mintavételező szervezet a mintavételezés vagy a vizsgálat során visszaélést, visszaélésre utaló jelet vagy az előírt értékektől való eltérést észlel, értesíti a fogyasztóvédelmi hatóságot, azzal, hogy az előírt értéktől való eltérés észlelése esetén a mintavételező szervezet kontrollmintavételezést és vizsgálatot végez. A kontrollminta nem megfelelősége esetén a vizsgálati jegyzőkönyv kiállítását követő 8 napon belül értesíti a fogyasztóvédelmi hatóságot. A mérési eredményeket az MSZ EN ISO 4259-2 6.3. pontja szerint kell értelmezni.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
