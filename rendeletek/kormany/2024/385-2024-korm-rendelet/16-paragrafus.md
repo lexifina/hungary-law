@@ -1,5 +1,3 @@
-16. § Hatályát veszti a 327/2019. (XII. 20.) Korm. rendelet
+16. §[^13]
 
-a) 6. § (1) bekezdés a) pont ad) alpontjában az „a tevékenység megkezdésétől számított egy éven belül” szövegrész,
-
-b) 6. § (3) bekezdés d) pontja.
+[^13]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
