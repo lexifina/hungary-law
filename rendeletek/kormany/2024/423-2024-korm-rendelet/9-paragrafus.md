@@ -1,3 +1,5 @@
 ## 7. A befektetési vállalkozások éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló 251/2000. (XII. 24.) Korm. rendelet módosítása
 
-9. § A befektetési vállalkozások éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló 251/2000. (XII. 24.) Korm. rendelet 4. számú melléklet 6. pontjában a „D. Adózott eredmény (±C–XII±XII/A.)” szövegrész helyébe a „D. Adózott eredmény (±C–XII±XII/A.±XII/B.)” szöveg lép.
+9. §[^9]
+
+[^9]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

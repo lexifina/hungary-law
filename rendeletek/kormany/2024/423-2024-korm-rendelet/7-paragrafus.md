@@ -1,7 +1,3 @@
-7. § A Hitkr.
+7. §[^7]
 
-a) 9/B. § (15) bekezdésében az „A Tv. 59/B. § (14) bekezdése szerint, a származékos leszállítási ügylet” szövegrész helyébe az „A származékos leszállítási ügylet” szöveg,
-
-b) 28. § (1) bekezdésében az „a 13. § (1), (1a)–(1d)” szövegrész helyébe az „a 13. § (1), (1a)–(1c)” szöveg
-
-lép.
+[^7]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
