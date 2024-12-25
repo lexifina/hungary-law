@@ -1,1 +1,1 @@
-136. § Ha a nemzetbiztonsági állomány vezetői beosztást betöltő tagja elhelyezésének biztosításához különös szolgálati érdek fűződik, a polgári nemzetbiztonsági szolgálat az állam nevében eljárva kizárólag az ingatlan zárt végű pénzügyi lízing útján történő megszerzése céljából adósságot keletkeztető ügyletet köthet.
+### 136. §

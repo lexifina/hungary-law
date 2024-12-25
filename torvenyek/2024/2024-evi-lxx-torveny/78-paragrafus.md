@@ -1,5 +1,1 @@
-78. § (1) A nemzetbiztonsági állomány vezetői beosztást betöltő tagja – a 32. §-ban foglaltaktól eltérően – az általa betöltött, a 4. melléklet szerint vezetői besorolási kategóriához rendelt rendfokozattal rendelkezik.
-
-(2) A vezetői beosztásba helyezés visszavonása vagy a vezetői beosztásról történő lemondás esetén a nemzetbiztonsági állomány tagjának rendfokozatát – az (1) és (3) bekezdésben meghatározott kivétellel – a 32. § (2) bekezdésében foglaltak szerint kell megállapítani.
-
-(3) Ha a nemzetbiztonsági állomány vezetői beosztást betöltő tagja a vezetői kinevezést megelőzően a 79. § b) pontja szerinti soron kívül eggyel magasabb rendfokozatba került előléptetésre vagy kinevezésre és a vezetői beosztásba helyezés visszavonása vagy a vezetői beosztásról történő lemondás hatályában a soron kívüli előléptetés szerinti rendfokozata magasabb, mint a tényleges szolgálati idő szerinti rendfokozata lenne, abban az esetben a nemzetbiztonsági állomány tagjának rendfokozatát a (2) bekezdésben foglaltaktól eltérően a soron kívüli előléptetés szerinti, magasabb rendfokozatban kell megállapítani.
+### 78. §

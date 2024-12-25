@@ -1,1 +1,1 @@
-21. § A munkáltatói jogkör gyakorlója nemzetbiztonsági érdekből, a minősített adat védelme és a szolgálatellátás rendjének fenntartása érdekében megtilthatja, hogy a nemzetbiztonsági állomány tagja a szolgálatban a főigazgató által közjogi szervezetszabályozó eszközben meghatározott eszközt magánál tartson, továbbá korlátozhatja a magáncélú telekommunikációs eszközöknek a szolgálatellátás során történő használatát.
+### 21. §

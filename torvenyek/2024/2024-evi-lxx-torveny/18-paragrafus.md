@@ -1,3 +1,1 @@
-18. § (1) A nemzetbiztonsági állomány tagja pártnak vagy pártpolitikai célokat szolgáló egyesületnek nem lehet tagja, ilyen célú alapítvánnyal nem létesíthet jogviszonyt, munkájában nem vehet részt, politikai tartalmú közszereplést szolgálaton kívül – az országgyűlési képviselők, az Európai Parlament tagjainak, a helyi önkormányzati képviselők és polgármesterek, valamint a nemzetiségi önkormányzati képviselők választásán jelöltként való részvételt kivéve – sem vállalhat.
-
-(2) E § alkalmazásában politikai tartalmú közszereplésnek kell tekinteni minden olyan, mások előtti megnyilvánulást, amely kifejezetten valamely párt vagy politikai mozgalom céljának megvalósulása érdekében a párt vagy politikai mozgalom segítésére vagy támogatására szólít fel.
+### 18. §

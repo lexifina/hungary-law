@@ -1,1 +1,1 @@
-146. § Kegyeleti gondoskodás keretében az elhunyt szolgálati nyugdíjast és a nemzetbiztonsági egészségkárosodási ellátásra jogosultat – a szolgálat teljesítése során szerzett érdemeire figyelemmel – a korábban a miniszter munkáltatói jogkörébe tartozó személy vonatkozásában a miniszter, egyéb esetben a főigazgató a polgári nemzetbiztonsági szolgálat halottjává nyilváníthatja.
+### 146. §

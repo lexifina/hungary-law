@@ -1,3 +1,1 @@
-89. § (1) A polgári nemzetbiztonsági szolgálat vezetői és I. besorolási osztályba tartozó szolgálati beosztásainak betöltéséhez elfogadható felsőfokú végzettségeket, az egyes szolgálati beosztások ellátásához szükséges szakképesítéseket, szakmai képesítéseket, valamint az egyéb képzettségi feltételeket a főigazgató közjogi szervezetszabályozó eszközben állapítja meg.
-
-(2) Ha a nemzetbiztonsági állomány tagja részére magasabb szolgálati beosztásba történő helyezés érdekében előírásra kerül képzési kötelezettség és az előírt képzési kötelezettségét neki felróható okból határidőben nem teljesítette, a nemzetbiztonsági állomány tagja magasabb szolgálati beosztásba nem helyezhető.
+### 89. §

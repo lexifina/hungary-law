@@ -1,1 +1,1 @@
-10. § A nemzetbiztonsági állomány tagja – a főigazgató által közjogi szervezetszabályozó eszközben meghatározott szolgálati beosztásokban – szolgálatteljesítése során szolgálati lőfegyver viselésére jogosult.
+### 10. §

@@ -19,15 +19,3 @@ g) a szülők és a gondozók vonatkozásában a munka és a magánélet közöt
 h) az Európai Unióban biztosítandó megfelelő minimálbérekről szóló, 2022. október 19-i (EU) 2022/2041 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja
-
-|
-
-Dr. Sulyok Tamás s. k.,
-
-köztársasági elnök
-
-|
-
-Dr. Latorcai János s. k.,
-
-az Országgyűlés alelnöke

@@ -1,1 +1,1 @@
-186. § A 184. § e) pontja szerinti illetménycsökkentés fenyítés kiszabása során a nemzetbiztonsági állomány tagját a fegyelmi jogkör gyakorlójának a fegyelemsértésről, szabálysértésről való tudomásszerzését megelőző napon megillető illetményt kell figyelembe venni. Ebben az esetben a 129. § (1) bekezdése szerinti, sávon belüli illetménymegállapítást nem kell alkalmazni.
+### 186. §
