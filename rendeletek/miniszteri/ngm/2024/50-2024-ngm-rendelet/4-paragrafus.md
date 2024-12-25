@@ -1,1 +1,3 @@
-4. § Hatályát veszti a Rendelet 1. melléklet III. pontjában foglalt táblázat 8. és 9. sora.
+4. §[^4]
+
+[^4]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
