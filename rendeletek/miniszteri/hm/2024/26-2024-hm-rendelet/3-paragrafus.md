@@ -1,3 +1,3 @@
-3. § A HM rendelet 14. § (1) bekezdése helyébe a következő rendelkezés lép:
+3. §[^4]
 
-„(1) Az 1. mellékletben foglalt táblázat G:8 és G:20 mezője szerinti kedvezményezett, valamint G:5 mezője szerinti kedvezményezettek közül a Bajtársi Egyesületek Országos Szövetsége, a Centenáriumi Hadtörténeti Egyesület, a Honvédségi Nyugdíjas Klubok Országos Szövetsége, a Honvédség és Társadalom Baráti Körök Országos Közhasznú Szövetsége, a Magyar Tartalékosok Szövetsége, valamint a Magyar Huszár és Katonai Hagyományőrző Szövetség, továbbá a G:5 mező 3. pont szerinti szervezetek részére – a támogató és a kedvezményezett közötti támogatási jogviszonynak megfelelően a támogatói okiratban vagy a támogatási szerződésben foglalt célra és feltételekkel – biztosított költségvetési támogatás e rendelet és a támogatói okirat vagy a támogatási szerződés rendelkezéseinek megfelelő harmadik személy által is felhasználható.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
