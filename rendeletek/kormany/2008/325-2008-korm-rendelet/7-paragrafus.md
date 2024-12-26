@@ -2,11 +2,11 @@
 
 7. § (1) Ez a rendelet 2009. január 1-jén lép hatályba.
 
-(2)[^1]
+(2)[^2]
 
 (3) E rendelet hatálybalépését követő napon hatályát veszti a (2) bekezdés.
 
-Melléklet a 325/2008. (XII. 29.) Korm. rendelethez[^2]
+Melléklet a 325/2008. (XII. 29.) Korm. rendelethez[^3]
 
 | Munkakörök, beosztások | Fizetési osztályok | Vezetői pótlék |
 
@@ -14,13 +14,13 @@ Melléklet a 325/2008. (XII. 29.) Korm. rendelethez[^2]
 
 | Magasabb vezetői beosztások |  |  |  |  |  |  |  |  |  |  |  |
 
-| Nemzeti Utánpótlás-nevelési és Sportszolgáltató Intézet főigazgatója |  |  |  |  |  | * | * | * | * | * | 300% |
+| Nemzeti Sportfejlesztési és Módszertani Intézet főigazgatója |  |  |  |  |  | * | * | * | * | * | 300% |
 
 | Egyéb önálló költségvetési szerv főigazgatója, igazgatója, intézményvezetője |  |  |  |  |  | * | * | * | * |  | 270% |
 
 | Fővárosi, megyei és megyei jogú városi önkormányzat önálló intézményének vezetője |  |  |  |  |  | * | * | * | * |  | 250% |
 
-| Nemzeti Utánpótlás-nevelési és Sportszolgáltató Intézet főigazgató-helyettese, gazdasági igazgatója |  |  |  |  |  | * | * | * | * | * | 250% |
+| Nemzeti Sportfejlesztési és Módszertani Intézet főigazgató-helyettese, gazdasági igazgatója |  |  |  |  |  | * | * | * | * | * | 250% |
 
 | Igazgató, intézményvezető |  |  |  |  | * | * | * | * | * |  | 200% |
 
@@ -424,5 +424,5 @@ Melléklet a 325/2008. (XII. 29.) Korm. rendelethez[^2]
 
 | Vízőr | * | * |  |  |  |  |  |  |  |  |  |
 
-[^1]: A 7. § (2) bekezdése e rendelet 7. § (3) bekezdése alapján hatályát vesztette.
-[^2]: A melléklet a 393/2017. (XII. 13.) Korm. rendelet 30. §-a szerint módosított szöveg.
+[^2]: A 7. § (2) bekezdése e rendelet 7. § (3) bekezdése alapján hatályát vesztette.
+[^3]: A melléklet a 393/2017. (XII. 13.) Korm. rendelet 30. §-a, a 428/2024. (XII. 23.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
