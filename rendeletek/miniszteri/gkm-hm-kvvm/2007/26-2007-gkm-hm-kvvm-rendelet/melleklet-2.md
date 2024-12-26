@@ -8,7 +8,7 @@
 
 | 4 | 2. Légiforgalmi irányító, VFR légijárművek esetén forgalmi tájékoztatás és kérésre tanácsadás a forgalom elkerülése érdekében |
 
-| 5 | D | 1000 láb (300 m) AGL és 9500 láb (2900 m) AMSL között Budapest FIR határ és a következő koordináták által bezárt terület: 482346N 0202459E – 481110N 0210551E – 481703N 0214953E – 482000N 0214901E – Kosice TMA2, valamint Budapest CTR, Sármellék, Debrecen CTR és Sármellék, Debrecen CTA | IFR | IFR-IFR-től | Légiforgalmi irányító, forgalmi tájékoztatás a VFR repülésekről (és kérésre tanácsadás a forgalom elkerülése érdekében) | Nincs | Max. 250 kt (460 km/h) IAS | Folyamatos kétoldalú | Igen | Igen |
+| 5 | D | 1000 láb (300 m) AGL és 9500 láb (2900 m) AMSL között Budapest FIR határ és a következő koordináták által bezárt terület: 482346N 0202459E – 481110N 0210551E – 481703N 0214953E – 482000N 0214901E – Kosice TMA2, valamint Budapest CTR | IFR | IFR-IFR-től | Légiforgalmi irányító, forgalmi tájékoztatás a VFR repülésekről (és kérésre tanácsadás a forgalom elkerülése érdekében) | Nincs | Max. 250 kt (460 km/h) IAS | Folyamatos kétoldalú | Igen | Igen |
 
 | 6 | VFR | Nem biztosítanak | Légiforgalmi irányító, forgalmi tájékoztatás a VFR és IFR, valamint VFR és VFR repülések között (és kérésre tanácsadás a forgalom elkerülése érdekében) | Vízszintes látás: 5 km Felhőktől való távolság: 1500 m vízszintesen, 300 m függőlegesen | Max. 250 kt (460 km/h) IAS | Folyamatos kétoldalú | Igen | Igen |
 
@@ -44,7 +44,7 @@
 
 2. melléklet a 26/2007. (III. 1.) GKM–HM–KvVM
 
-együttes rendelethez[^128]
+együttes rendelethez[^129]
 
 ELLENŐRZÖTT, NEM ELLENŐRZÖTT ÉS IDŐSZAKOSAN KORLÁTOZOTT LÉGTEREK
 
@@ -364,79 +364,15 @@ I. ELLENŐRZÖTT LÉGTEREK
 
 | 473457N | 0190856E |
 
-| 4. | Sármellék CTR | 2000’ (600 m) AMSL/GND | (ICAO „D”) közzétett üzemidő szerint csak Sármellék CTA légtérrel együtt működhet. |
+| 4. |  |  |  |  |
 
-| 465232N | 0170443E |
+| 5. |  |  |  | . |
 
-| 465233N | 0171252E |
+| 6. |  |  |  |  |
 
-| 464035N | 0171331E |
+| 7. |  |  |  |  |
 
-| 463224N | 0171903E |
-
-| 462847N | 0171750E |
-
-| 462659N | 0170752E |
-
-| 463919N | 01 70630E |
-
-| 465010N | 0165907E |
-
-| 465232N | 0170443E |
-
-| 5. | Sármellék CTA | 9500’ (2900 m) AMSL / 2000’ (600 m) AMSL | (ICAO „D”) közzétett üzemidő szerint csak Sármellék CTR légtérrel együtt működhet. |
-
-| 465211N | 0164912E |
-
-| 465233N | 0171252E |
-
-| 463423N | 0171944E |
-
-| 462847N | 0171750E |
-
-| 462539N | 0170031E |
-
-| 465211N | 0164912E |
-
-| 6. | Debrecen CTR | 2000’ (600 m) AMSL/GND | (ICAO „D”) Közzétett üzemidő szerint csak Debrecen CTA1 és CTA2 légterekkel együtt működhet. |
-
-| 473908N | 0214744E |
-
-| 473338N | 0215503E |
-
-| 471843N | 0213038E |
-
-| 472433N | 0212252E |
-
-| 473908N | 0214744E |
-
-| 7. | Debrecen CTA1 | 9500’ (2900 m) AMSL / 2000’ (600 m) AMSL | (ICAO „D”) Közzétett üzemidő szerint csak Debrecen CTR és CTA2 légterekkel együtt működhet. |
-
-| 474127N | 0215009E |
-
-| 473102N | 0220059E |
-
-| 471020N | 0214329E |
-
-| 471154N | 0212611E |
-
-| 472402N | 0211743E |
-
-| 473243N | 0213243E |
-
-| 474127N | 0215009E |
-
-| 8. | Debrecen CTA2 | 9500’ (2900 m) AMSL / 5000’ (1500 m) AMSL | (ICAO „D”) Közzétett üzemidő szerint csak Debrecen CTR és CTA1 légterekkel együtt működhet. |
-
-| 474718N | 0213722E |
-
-| 474127N | 0215009E |
-
-| 473243N | 0213243E |
-
-| 474559N | 0213339E |
-
-| 474718N | 0213722E |
+| 8. |  |  |  |  |
 
 4. Katonai körzetek
 
@@ -744,7 +680,7 @@ II. ATS ÁTRUHÁZÁS
 
 2.2.2. A fentiekben meghatározott légtéren belül a kutató- és mentőtevékenység koordinálása és végzése az illetékes szlovák hatóságok feladata.
 
-3.[^129]
+3.
 
 III. NEM ELLENŐRZÖTT LÉGTEREK
 
@@ -776,55 +712,11 @@ III. NEM ELLENŐRZÖTT LÉGTEREK
 
 | 465341N | 0212325E |
 
-| 3. | Börgönd TIZ1 | 2000’ (600 m) AMSL/GND | (ICAO „G”) Közzétett üzemidő szerint csak Börgönd TIZ2 és TIZ3 légterekkel együtt működhet. |
+| 3. |  |  |  |  |
 
-| 471301N | 0181832E |
+| 4. |  |  |  |  |
 
-| 471833N | 0182354E |
-
-| 471842N | 0183545E |
-
-| 465707N | 0183721E |
-
-| 465448N | 0182729E |
-
-| 465523N | 0181838E |
-
-| 470933N | 0181924E |
-
-| 471301N | 0181832E |
-
-| 4. | Börgönd TIZ2 | 7500’ (2300 m) AMSL/2000’ (600 m) AMSL | (ICAO „G”) Közzétett üzemidő szerint csak Börgönd TIZ1 és TIZ3 légterekkel együtt működhet. |
-
-| 471301N | 0181832E |
-
-| 472148N | 0181621E |
-
-| 472147N | 0183628E |
-
-| 470908N | 0184432E |
-
-| 471301N | 0181832E |
-
-| 5. | Börgönd TIZ3 | 9500’ (2900 m) AMSL/2000’ (600 m) AMSL | (ICAO „G”) Közzétett üzemidő szerint csak Börgönd TIZ1 és TIZ2 légterekkel együtt működhet. |
-
-| 471301N | 0181832E |
-
-| 470908N | 0184432E |
-
-| 470623N | 0184817E |
-
-| 465611N | 0185125E |
-
-| 465054N | 0183452E |
-
-| 465115N | 0182246E |
-
-| 465523N | 0181838E |
-
-| 470933N | 0181924E |
-
-| 471301N | 0181832E |
+| 5. |  |  |  |  |
 
 | 6. | Debrecen TIZ1 | 2000’ (600 m) AMSL/GND | (ICAO „G”) Közzétett üzemidő szerint csak Debrecen TIZ2 és TIZ3 légtérrel együtt működhet. |
 
@@ -968,9 +860,7 @@ III. NEM ELLENŐRZÖTT LÉGTEREK
 
 | 460750N 462354N | 0194917E 0194931E |
 
-| 17. | Tököl TIZ | 3500’ (1050 m)- AMSL/GND | (ICAO „G”) Közzétett üzemidő szerint. |
-
-| 472257N 472140N 471556N 472014N 472257N | 0185724E 0190505E 0185907E 0185339E 0185724E |
+| 17. |  |  |  |
 
 | 2. Műrepülő légterek |
 
@@ -985,6 +875,8 @@ III. NEM ELLENŐRZÖTT LÉGTEREK
 | 3. | LHSA2B | 4500’ (1350 m) AMSL/1000’ (300 m) AGL | munkanapokon 09.00 óra (LT) és 18.00 óra (LT) között, pihenő- és munkaszüneti napokon 09.00 óra (LT) és 12.00 óra (LT) között, valamint 15.00 óra (LT) és 18.00 óra (LT) között lehet igénybe venni |
 
 |  | 470915N 470758N 471008N 471127N 470915N | 0183641E 0183822E 0184207E 0184024E 0183641E |
+
+| 4. | LHSA3 3 km sugarú kör 460854N 0190230E középpont körül | 4000’ (1200 m) AMSL / 1000’ (300 m) AGL | Munkanapokon 09.00 óra (LT) és 18.00 óra (LT) között, pihenő- és munkaszüneti napokon 09.00 óra (LT) és 12.00 óra (LT) között, valamint 15.00 óra (LT) és 18.00 óra (LT) között lehet igénybe venni. |
 
 3. Vitorlázó- és siklórepülések céljára kijelölt légterek
 
@@ -1354,7 +1246,7 @@ III. NEM ELLENŐRZÖTT LÉGTEREK
 
 4. Drop Zone légterek
 
-## 4X05499M.docx
+## 4X07865N.docx
 
 |  | A | B | C |
 
@@ -1368,7 +1260,7 @@ III. NEM ELLENŐRZÖTT LÉGTEREK
 
 | 5 km (2,7 NM) sugarú kör a 465318N 0185438E középpont körül |
 
-| 4. | LHSDZLHTL/Tököl | FL145 (4400 m STD)/3500’ (1050 m) AMSL | Csak Tököl TIZ légtérrel együtt működhet. LHSDZLHGD/Gödöllő légtérrel egyidejűleg nem működhet. |
+| 4. | LHSDZLHTL/Tököl | FL145 (4400 m STD)/3500’ (1050 m) AMSL | LHSDZLHGD/Gödöllő légtérrel egyidejűleg nem működhet. |
 
 | 3,15 km (1,7 NM) sugarú kör a 472037N 0185909E középpont körül |
 
@@ -1612,5 +1504,4 @@ IV. IDŐSZAKOSAN KORLÁTOZOTT LÉGTEREK (TRA)
 
 1. Időszakosan korlátozott légterek
 
-[^128]: A 2. melléklet a 45/2017. (XII. 4.) NFM rendelet 2. §-ával megállapított, a 33/2018. (XII. 17.) ITM rendelet 3. §-a, a 34/2019. (IX. 13.) ITM rendelet 7. § j)–o) pontja, 8. § (2) bekezdése és 9. § b)–c) pontja, a 33/2020. (X. 5.) ITM rendelet 3. § c) pontja, 4. § (2) bekezdése, a 3/2021. (I. 20.) ITM rendelet 1. §-a, az 55/2021. (XI. 5.) ITM rendelet 4–5. §-a, a 7/2022. (VII. 27.) TIM rendelet 3. §-a, a 7/2023. (IV. 14.) ÉKM rendelet 2. §-a, a 30/2023. (XII. 29.) ÉKM rendelet 1. § (1) bekezdése, a 21/2024. (VII. 31.) ÉKM rendelet 2. § f) pontja és 3. §-a szerint módosított szöveg. A Magyar Közlöny 201. számában megjelent helyesbítésnek megfelelő szöveg.
-[^129]: A 2. melléklet II. ATS ÁTRUHÁZÁS rész 3. Közös felhasználású légterek pontját a 21/2024. (VII. 31.) ÉKM rendelet 2. § f) pontja hatályon kívül helyezte.
+[^129]: A 2. melléklet a 45/2017. (XII. 4.) NFM rendelet 2. §-ával megállapított, a 33/2018. (XII. 17.) ITM rendelet 3. §-a, a 34/2019. (IX. 13.) ITM rendelet 7. § j)–o) pontja, 8. § (2) bekezdése és 9. § b)–c) pontja, a 33/2020. (X. 5.) ITM rendelet 3. § c) pontja, 4. § (2) bekezdése, a 3/2021. (I. 20.) ITM rendelet 1. §-a, az 55/2021. (XI. 5.) ITM rendelet 4–5. §-a, a 7/2022. (VII. 27.) TIM rendelet 3. §-a, a 7/2023. (IV. 14.) ÉKM rendelet 2. §-a, a 30/2023. (XII. 29.) ÉKM rendelet 1. § (1) bekezdése, a 21/2024. (VII. 31.) ÉKM rendelet 2. § f) pontja és 3. §-a, a 37/2024. (XI. 11.) ÉKM rendelet 3. § (2) bekezdése szerint módosított szöveg. A Magyar Közlöny 201. számában megjelent helyesbítésnek megfelelő szöveg.
