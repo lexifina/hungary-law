@@ -1,1 +1,3 @@
-6. § Hatályát veszti a minimális építőipari rezsióradíj 2023. évi mértékéről szóló 18/2023. (X. 5.) ÉKM rendelet.
+6. §[^2]
+
+[^2]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
