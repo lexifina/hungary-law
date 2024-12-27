@@ -1,3 +1,3 @@
-12. §[^8]
+12. §[^9]
 
-[^8]: A 12. § a 6. § (2) bekezdése alapján 2025. február 1-jén lép hatályba.
+[^9]: A 12. § a 6. § (2) bekezdése alapján 2025. február 1-jén lép hatályba.
