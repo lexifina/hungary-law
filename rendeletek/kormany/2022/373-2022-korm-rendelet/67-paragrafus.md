@@ -4,4 +4,6 @@
 
 (2) A felhívás nem minősül az Ávr. 45. § (1) bekezdése szerinti kötelezettségvállalásnak.
 
-(3) A nemzeti hatóság a támogatási kérelem benyújtásának határidejét megelőző tizedik napig biztosítja, hogy a támogatást igénylő kérdéseket tehessen fel, és azokra észszerű határidőn belül, de legkésőbb a kérdés nemzeti hatósághoz való érkezését követő nyolc napon belül tájékoztatást kapjon.
+(3)[^119]
+
+[^119]: A 67. § (3) bekezdését a 441/2024. (XII. 23.) Korm. rendelet 12. § b) pontja hatályon kívül helyezte.

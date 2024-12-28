@@ -1,10 +1,10 @@
-143. § (1)[^263] Az NFK HEE forrásonként kincstári előirányzat-felhasználási keretszámlát nyit.
+143. § (1)[^273] Az NFK HEE forrásonként kincstári előirányzat-felhasználási keretszámlát nyit.
 
-(2)[^264] Az előirányzat-felhasználási keretszámlák támogatások folyósítására, követelések beszedésére szolgál.
+(2)[^274] Az előirányzat-felhasználási keretszámlák támogatások folyósítására, követelések beszedésére szolgál.
 
-(3)[^265] Az előirányzat-felhasználási keretszámlák felett az NFK rendelkezik.
+(3)[^275] Az előirányzat-felhasználási keretszámlák felett az NFK rendelkezik.
 
-(4)[^266] Az előirányzat-felhasználási keretszámlákról indított átutaláshoz az átutalási megbízást a monitoring és információs rendszerben kell kiállítani.
+(4)[^276] Az előirányzat-felhasználási keretszámlákról indított átutaláshoz az átutalási megbízást a monitoring és információs rendszerben kell kiállítani.
 
 (5) A (4) bekezdés szerinti átutalási megbízást elektronikus formában kell átadni pénzügyi teljesítésre a kincstár részére. A monitoring és információs rendszer működési problémája esetén, megfelelő dokumentáltság mellett az átutalási megbízás elektronikus utalás nélkül is teljesíthető, de az átutalási megbízást utólag a monitoring és információs rendszerben rögzíteni kell az akadály megszűnését követő öt napon belül.
 
@@ -12,7 +12,7 @@
 
 (7) A pénzforgalmi számlák vezetésével és forgalmával kapcsolatban felmerült költség elszámolása a központi költségvetés terhére történik.
 
-[^263]: A 143. § (1) bekezdése a 49/2024. (III. 4.) Korm. rendelet 6. §-ával megállapított, a 218/2024. (VII. 31.) Korm. rendelet 84. § 107. pontja szerint módosított szöveg.
-[^264]: A 143. § (2) bekezdése a 49/2024. (III. 4.) Korm. rendelet 11. § f) pontja szerint módosított szöveg.
-[^265]: A 143. § (3) bekezdése a 49/2024. (III. 4.) Korm. rendelet 11. § f) pontja, a 218/2024. (VII. 31.) Korm. rendelet 84. § 108. pontja szerint módosított szöveg.
-[^266]: A 143. § (4) bekezdése a 49/2024. (III. 4.) Korm. rendelet 11. § g) pontja szerint módosított szöveg.
+[^273]: A 143. § (1) bekezdése a 49/2024. (III. 4.) Korm. rendelet 6. §-ával megállapított, a 218/2024. (VII. 31.) Korm. rendelet 84. § 107. pontja szerint módosított szöveg.
+[^274]: A 143. § (2) bekezdése a 49/2024. (III. 4.) Korm. rendelet 11. § f) pontja szerint módosított szöveg.
+[^275]: A 143. § (3) bekezdése a 49/2024. (III. 4.) Korm. rendelet 11. § f) pontja, a 218/2024. (VII. 31.) Korm. rendelet 84. § 108. pontja szerint módosított szöveg.
+[^276]: A 143. § (4) bekezdése a 49/2024. (III. 4.) Korm. rendelet 11. § g) pontja szerint módosított szöveg.

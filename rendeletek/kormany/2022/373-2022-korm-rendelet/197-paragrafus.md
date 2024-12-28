@@ -4,6 +4,6 @@
 
 (3) A szabálytalanságfelelős a kézhezvételtől számított nyolc napon belül a szabálytalanság gyanúját rögzíti a monitoring és információs rendszerben, és megküldi a nemzeti hatóság vezetőjének a szabálytalansági gyanúról kapott tájékoztatást, a kapcsolódó dokumentumokat és véleményét, javaslatot téve az ügy kivizsgálására vagy annak mellőzésére.
 
-(4)[^316] Rendszerszintű szabálytalanság gyanújáról a nemzeti hatóság haladéktalanul értesíti az NFK belső ellenőrzésekért felelős szervezeti egységét, a Belső Ellenőrzési és Integritási Igazgatóságot, valamint az audit hatóságot.
+(4)[^329] Rendszerszintű szabálytalanság gyanújáról a nemzeti hatóság haladéktalanul értesíti az NFK belső ellenőrzésekért felelős szervezeti egységét, a Belső Ellenőrzési és Integritási Igazgatóságot, valamint az audit hatóságot.
 
-[^316]: A 197. § (4) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 81. §-ával megállapított szöveg.
+[^329]: A 197. § (4) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 81. §-ával megállapított szöveg.

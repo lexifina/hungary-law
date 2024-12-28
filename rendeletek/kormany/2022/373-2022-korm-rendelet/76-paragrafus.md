@@ -6,6 +6,6 @@ b) a támogatási jogviszony létrehozásához szükséges feltételek teljesít
 
 c) elutasítja.
 
-(2)[^117] Ha a döntés-előkészítő bizottság a projekt támogatását hárommilliárd forintot meghaladó összegben javasolja megállapítani, a támogatási kérelemről – kiemelt projektek kivételével – a nemzeti hatóság javaslata alapján az NFK dönt.
+(2)[^124] Ha a döntés-előkészítő bizottság a projekt támogatását hárommilliárd forintot meghaladó összegben javasolja megállapítani, a támogatási kérelemről – kiemelt projektek kivételével – a nemzeti hatóság javaslata alapján az NFK dönt.
 
-[^117]: A 76. § (2) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 84. § 19. pontja szerint módosított szöveg.
+[^124]: A 76. § (2) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 84. § 19. pontja szerint módosított szöveg.

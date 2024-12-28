@@ -6,6 +6,9 @@ b) az államháztartás központi alrendszerébe tartozó költségvetési szerv
 
 c) az állam által alapított vagyonkezelő alapítvány és az ilyen alapítvány által fenntartott jogi személy végső kedvezményezett esetén,
 
-d)[^367] az Uniós fejlesztések fejezetbe tartozó fejezeti és központi kezelésű előirányzatok felhasználásának rendjéről szóló 590/2022. (XII. 28.) Korm. rendelet 8. §-a szerinti esetben.
+d)[^380] az Uniós fejlesztések fejezetbe tartozó fejezeti és központi kezelésű előirányzatok felhasználásának rendjéről szóló 590/2022. (XII. 28.) Korm. rendelet 8. §-a szerinti esetben.
 
-[^367]: A 225. § d) pontja a 154/2023. (IV. 27.) Korm. rendelet 16. §-ával megállapított szöveg.
+e)[^381] a 177. § (1) bekezdése szerinti határidő lejárta és a kifizetési kérelemről történő döntés közötti időtartamra.
+
+[^380]: A 225. § d) pontja a 154/2023. (IV. 27.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^381]: A 225. § e) pontját a 441/2024. (XII. 23.) Korm. rendelet 9. §-a iktatta be.

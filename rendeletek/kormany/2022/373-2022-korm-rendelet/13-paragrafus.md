@@ -2,7 +2,7 @@
 
 13. § (1) Az audit hatóság az Európai Bizottság iránymutatásai és a nemzetközileg elfogadott audit standardok alapján
 
-a)[^55] elkészíti a HET végrehajtáshoz szükséges audit stratégiát, amely meghatározza
+a)[^60] elkészíti a HET végrehajtáshoz szükséges audit stratégiát, amely meghatározza
 
 aa) a kockázatelemzés megközelítését és módszertanát,
 
@@ -34,13 +34,13 @@ l) elkészíti az általa végzett ellenőrzések összefoglalását, ideértve 
 
 m) ellenőrzései alapján meghatározza azt az Európai Bizottság iránymutatása szerinti bizonyossági szintet, amely a nemzeti hatóság vezetője által kibocsátott vezetői nyilatkozat szerint lefedett területekre vonatkozik,
 
-n)[^56] felelős annak megállapításáért, hogy az irányítási és ellenőrzési rendszerek eredményesen védik-e az Európai Unió pénzügyi érdekeit, és megbízható tájékoztatást nyújtanak-e a végrehajtás előrehaladásáról és eredményeiről.
+n)[^61] felelős annak megállapításáért, hogy az irányítási és ellenőrzési rendszerek eredményesen védik-e az Európai Unió pénzügyi érdekeit, és megbízható tájékoztatást nyújtanak-e a végrehajtás előrehaladásáról és eredményeiről.
 
-(2)[^57]
+(2)[^62]
 
-(3)[^58] Az audit hatóság feladatait az Európai Támogatásokat Auditáló Főigazgatóságról és a kondicionalitási eljárás eredményes lezárása érdekében az Európai Bizottság kérésére elfogadott egyes törvények módosításáról szóló 2022. évi XLIV. törvény kijelölése alapján az Európai Támogatásokat Auditáló Főigazgatóság látja el.
+(3)[^63] Az audit hatóság feladatait az Európai Támogatásokat Auditáló Főigazgatóságról és a kondicionalitási eljárás eredményes lezárása érdekében az Európai Bizottság kérésére elfogadott egyes törvények módosításáról szóló 2022. évi XLIV. törvény kijelölése alapján az Európai Támogatásokat Auditáló Főigazgatóság látja el.
 
-[^55]: [Nem vezethető át a 213/2024. (VII. 29.) Korm. rendelet 50. § 4. pontjában foglalt azon rendelkezés, amely szerint a 13. § (1) bekezdés a) pontjában a „végrehajtásához szükséges” szövegrész helyébe a „végrehajtására vonatkozó” szöveg lép.]
-[^56]: A 13. § (1) bekezdés n) pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 8. pontja szerint módosított szöveg.
-[^57]: A 13. § (2) bekezdése a 463/2022. (XI. 15.) Korm. rendelet 31. § 9. pontja szerint módosított szöveg. A 13. § (2) bekezdését a 615/2022. (XII. 29.) Korm. rendelet 22. § b) pontja hatályon kívül helyezte.
-[^58]: A 13. § (3) bekezdése a 615/2022. (XII. 29.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^60]: [Nem vezethető át a 213/2024. (VII. 29.) Korm. rendelet 50. § 4. pontjában foglalt azon rendelkezés, amely szerint a 13. § (1) bekezdés a) pontjában a „végrehajtásához szükséges” szövegrész helyébe a „végrehajtására vonatkozó” szöveg lép.]
+[^61]: A 13. § (1) bekezdés n) pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 8. pontja szerint módosított szöveg.
+[^62]: A 13. § (2) bekezdése a 463/2022. (XI. 15.) Korm. rendelet 31. § 9. pontja szerint módosított szöveg. A 13. § (2) bekezdését a 615/2022. (XII. 29.) Korm. rendelet 22. § b) pontja hatályon kívül helyezte.
+[^63]: A 13. § (3) bekezdése a 615/2022. (XII. 29.) Korm. rendelet 21. §-ával megállapított szöveg.

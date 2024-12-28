@@ -1,4 +1,4 @@
-27. § (1)[^75] A szabálytalansági ügy elintézésében nem vehet részt
+27. § (1)[^81] A szabálytalansági ügy elintézésében nem vehet részt
 
 a) a végső kedvezményezett, továbbá az, akinek jogaira vagy kötelezettségeire az eljárás eredménye kihatással lehet,
 
@@ -16,7 +16,7 @@ g) az a)–f) pont szerinti személy hozzátartozója, valamint
 
 h) akitől az ügy elfogulatlan megítélése egyéb okból nem várható.
 
-(2)[^76] Ha egy személy összeférhetetlensége az (1) bekezdés a)–g) pontja alapján nem volna megállapítható, de az (EU, Euratom) 2018/1046 európai parlamenti és tanácsi rendelet 61. cikk (3) bekezdése szerinti valamely összeférhetetlenségi ok rá nézve teljesül, vagy annak kockázata vagy látszata objektíven fennáll, akkor ezen személyt az (1) bekezdés g) pontja szerint kell minősíteni.
+(2)[^82] Ha egy személy összeférhetetlensége az (1) bekezdés a)–g) pontja alapján nem volna megállapítható, de az (EU, Euratom) 2024/2509 európai parlamenti és tanácsi rendelet 61. cikk (3) bekezdése szerinti valamely összeférhetetlenségi ok rá nézve teljesül, vagy annak kockázata vagy látszata objektíven fennáll, akkor ezen személyt az (1) bekezdés g) pontja szerint kell minősíteni.
 
 (3) Az (1) bekezdés a), b) és d) pontja nem zárja ki, hogy a nemzeti hatóság, illetve annak munkatársa
 
@@ -26,5 +26,5 @@ b) szakpolitikai felelős által vezetett szervezet tekintetében
 
 szabálytalansági eljárást folytasson le, valamint szabálytalansági döntést készítsen elő és hozzon meg. Erre akkor kerülhet sor, ha a projekt előkészítéséhez és megvalósításához, valamint a szabálytalansági eljárás lefolytatásához és az abban való döntéshozatalhoz kapcsolódó feladatok szervezeti és személyi szinten elkülönülnek.
 
-[^75]: A 27. § (1) bekezdése a 213/2024. (VII. 29.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^76]: A 27. § (2) bekezdése a 463/2022. (XI. 15.) Korm. rendelet 31. § 16. pontja, a 213/2024. (VII. 29.) Korm. rendelet 50. § 7. pontja szerint módosított szöveg.
+[^81]: A 27. § (1) bekezdése a 213/2024. (VII. 29.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^82]: A 27. § (2) bekezdése a 463/2022. (XI. 15.) Korm. rendelet 31. § 16. pontja, a 213/2024. (VII. 29.) Korm. rendelet 50. § 7. pontja, a 441/2024. (XII. 23.) Korm. rendelet 11. § g) pontja szerint módosított szöveg.

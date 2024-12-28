@@ -1,4 +1,4 @@
-12/B. §[^52] (1) A pénzügyi eszközt végrehajtó szerv az e rendelet hatálya alá tartozó feladatok ellátására a nemzeti hatósággal kötött finanszírozási megállapodásban foglaltak szerint a nemzeti hatóság megbízásából, saját nevében jár el.
+12/B. §[^56] (1) A pénzügyi eszközt végrehajtó szerv az e rendelet hatálya alá tartozó feladatok ellátására a nemzeti hatósággal kötött finanszírozási megállapodásban foglaltak szerint a nemzeti hatóság megbízásából, saját nevében jár el.
 
 (2) A pénzügyi eszközt végrehajtó szerv a finanszírozási megállapodásban foglaltak szerint az alábbi feladatokat látja el különösen:
 
@@ -54,7 +54,7 @@ g) beszámol és adatszolgáltatást teljesít a nemzeti hatóság részére.
 
 (5) A nemzeti hatóság a (4) bekezdés szerinti intézkedés alkalmazása mellett jogosult a finanszírozási megállapodásban meghatározott esetekben és mértékben a pénzügyi eszközt végrehajtó szerv költségtérítésének csökkenését eredményező szankció alkalmazására.
 
-(6) Ha a nemzeti hatóság a 235/N. § (3) bekezdése szerinti, valamint az egyéb ellenőrzések eredményeként megállapítja, hogy a pénzügyi eszközt végrehajtó szerv súlyos vagy rendszerszintű jogsértést követett el, akkor gondoskodik a finanszírozási megállapodás megszüntetéséről, valamint az ennek folytán a nemzeti hatósághoz visszakerülő feladatok ellátására más pénzügyi eszközt végrehajtó szerv bevonásáról.
+(6)[^57] Ha a nemzeti hatóság a 235/N. § (3) bekezdése szerinti, valamint az egyéb ellenőrzések eredményeként megállapítja, hogy a pénzügyi eszközt végrehajtó szerv súlyos vagy rendszerszintű jogsértést követett el, akkor dönthet a finanszírozási megállapodás megszüntetéséről, valamint az ennek folytán a nemzeti hatósághoz visszakerülő feladatok ellátására más pénzügyi eszközt végrehajtó szerv bevonásáról.
 
 (7) Ha a nemzeti hatóság a 235/N. § (3) bekezdése szerinti, valamint az egyéb ellenőrzések eredményeként megállapítja, hogy a pénzügyi eszközt végrehajtó szerv az átruházott feladatok elvégzéséhez szükséges kapacitással nem rendelkezik, a finanszírozási megállapodás megszüntetéséről dönthet.
 
@@ -62,4 +62,5 @@ g) beszámol és adatszolgáltatást teljesít a nemzeti hatóság részére.
 
 (9) A pénzügyi eszközt végrehajtó szerv és a pénzügyi közvetítő gondoskodik arról, hogy a jogsértés vagy a szabálytalanság eredményeként sem az Európai Unió, sem Magyarország pénzügyi érdekei ne sérüljenek.
 
-[^52]: A 12/B. §-t a 213/2024. (VII. 29.) Korm. rendelet 7. §-a iktatta be.
+[^56]: A 12/B. §-t a 213/2024. (VII. 29.) Korm. rendelet 7. §-a iktatta be.
+[^57]: A 12/B. § (6) bekezdése a 441/2024. (XII. 23.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.
