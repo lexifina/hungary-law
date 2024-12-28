@@ -1,0 +1,1 @@
+8. § Az átruházott feladatok ellátásának feltételeit a Nemzeti Irányító Hatóság a Közös Agrárpolitikából és a nemzeti költségvetésből biztosított agrártámogatások felhasználásának rendjéről szóló 54/2023. (IX. 13.) AM rendelet 74. §-a szerint a technikai segítségnyújtási keretből biztosítja.
