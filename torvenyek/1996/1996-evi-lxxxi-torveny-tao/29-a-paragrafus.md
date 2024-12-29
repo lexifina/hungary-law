@@ -210,7 +210,7 @@ d) az összevont alapon kezelendő vállalatcsoport esetében a jogügylet alapj
 
 (96) E törvénynek az egyes adótörvények módosításáról szóló 2020. évi CXVIII. törvénnyel megállapított 8. § (5e) bekezdését a 2020-ban kezdődő adóévében az adózó választása szerint alkalmazza.
 
-(97) E törvénynek az egyes adótörvények módosításáról szóló 2020. évi CXVIII. törvénnyel megállapított 22/C. § (1a) és (4d) bekezdését első alkalommal a 2020. évben kezdődő adóévre lehet alkalmazni.
+(97)
 
 (98) E törvénynek az egyes adótörvények módosításáról szóló 2021. évi LXIX. törvénnyel megállapított 7. § (1) bekezdés z) pontját, 7. § (7) bekezdését, 18/C. § (23) bekezdését, 3. számú melléklet B) rész 25. pontját első alkalommal a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló törvény hatálybalépése napját követő ügyletekre kell alkalmazni.
 
