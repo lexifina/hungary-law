@@ -16,7 +16,7 @@ g)
 
 h)
 
-i)
+i) 22/C. § (6a) bekezdésében a „30 napon belül” szövegrész helyébe a „90 napon belül” szöveg,
 
 j)
 

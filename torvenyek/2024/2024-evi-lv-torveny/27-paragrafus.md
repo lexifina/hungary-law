@@ -1,28 +1,28 @@
 27. § Hatályát veszti a Tao. törvény
 
-a)
+a) 22/C. § (1a) bekezdése,
 
-b)
+b) 22/C. § (2a) bekezdésében az „(1a)” szövegrész,
 
-c)
+c) 22/C. § (3a) bekezdés a) pontjában az „és az (1a) bekezdés” szövegrész,
 
-d)
+d) 22/C. § (3e) bekezdésében a „ , valamint az (1a) bekezdésben” szövegrészek,
 
-e)
+e) 22/C. § (4d) bekezdése,
 
-f)
+f) 24/A. § (3) bekezdés b) pontjában az „(1a)” szövegrész,
 
-g)
+g) 24/A. § (7) bekezdésében az „(1a)” szövegrész,
 
-h)
+h) 24/A. § (9), (19) és (20) bekezdésében az „és (4d)” szövegrész,
 
-i)
+i) 24/A. § (12) bekezdésében az „és (1a) bekezdésének” szövegrész,
 
-j)
+j) 24/A. § (19) bekezdésében az „(1a)” szövegrész,
 
-k)
+k) 24/A. § (20) bekezdésében a „ , valamint (1a) bekezdésében” szövegrész,
 
-l)
+l) 29/A. § (97) bekezdése,
 
 m)
 
@@ -30,6 +30,6 @@ n)
 
 o)
 
-p)
+p) 3. számú melléklet B) rész 15. pontjában az „–(1a)” szövegrész,
 
 q)
