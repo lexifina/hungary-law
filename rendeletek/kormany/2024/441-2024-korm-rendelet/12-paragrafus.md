@@ -1,7 +1,3 @@
-12. § Hatályát veszti a 373/2022. (IX. 30.) Korm. rendelet
+12. §[^12]
 
-a) 2. § 5. pontja,
-
-b) 67. § (3) bekezdése,
-
-c) 2. melléklet 8.4. pontja.
+[^12]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

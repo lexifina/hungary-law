@@ -1,5 +1,3 @@
-## „j) a támogatási szerződés közös megegyezéssel történő megszüntetése esetén, ha az elszámolás alapján a végső kedvezményezettet visszafizetés terheli, valamint a támogatási szerződés felbontásakor, ha már történt kifizetés,”
+9. §[^9]
 
-9. § A 373/2022. (IX. 30.) Korm. rendelet 225. §-a a következő e) ponttal egészül ki:
-
-(Nem kell kamatot fizetni)
+[^9]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

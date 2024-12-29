@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-441-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2024-12-28 | 2024-441-20-22.1 | 441/2024. (XII. 23.) Korm. rendelet |
+| 2024-12-29 | 2024-441-20-22.2 | 2010. évi CXXX. törvény |

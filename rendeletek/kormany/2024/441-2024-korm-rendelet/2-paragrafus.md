@@ -1,9 +1,3 @@
-2. § (1) A 373/2022. (IX. 30.) Korm. rendelet 2. § 8. pontja helyébe a következő rendelkezés lép:
+2. §[^2]
 
-(E rendelet alkalmazásában)
-
-## „8. HET intézkedési lista: olyan tervezési dokumentum, amely a teljes végrehajtási időszakra vonatkozóan programterületenkénti bontásban tartalmazza a HET intézkedéseket, szükség szerint azok támogatási formáját, eljárásrendjét és finanszírozási forrását is.”
-
-(2) A 373/2022. (IX. 30.) Korm. rendelet 2. § 13a. pontja helyébe a következő rendelkezés lép:
-
-(E rendelet alkalmazásában)
+[^2]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

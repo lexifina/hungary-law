@@ -1,3 +1,3 @@
-8. § A 373/2022. (IX. 30.) Korm. rendelet 222. § (2) bekezdés j) pontja helyébe a következő rendelkezés lép:
+8. §[^8]
 
-(Követelést kell előírni)
+[^8]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
