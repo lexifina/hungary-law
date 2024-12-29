@@ -1,24 +1,34 @@
-## 5/C. [^183] Utóellenőrzések elrendelése
+## 5/C. [^204] Utóellenőrzések elrendelése
 
-15/C. § (1)[^184] Utóellenőrzés keretében a sportfejlesztési program egésze megvalósulásának utólagos ellenőrzésére – ideértve a sportfejlesztési program jóváhagyását, a támogatási igazolás kiállítását, a jóváhagyott sportfejlesztési program megvalósítását, a támogatások, kiegészítő sportfejlesztési támogatások és a kamatozó tartalék felhasználásának ellenőrzését – kerülhet sor.
+15/C. §[^205] (1) Utóellenőrzés keretében a sportfejlesztési program részben vagy egészben történt megvalósulásának utólagos ellenőrzésére – ideértve a sportfejlesztési program jóváhagyását, a támogatási igazolás kiállítását, a jóváhagyott sportfejlesztési program megvalósítását, a támogatások, kiegészítő sportfejlesztési támogatások, a kamatozó tartalék és a sportfejlesztési program megvalósítását biztosító saját forrás összege felhasználásának ellenőrzését – kerülhet sor.
 
-(2)[^185] A sportpolitikáért felelős miniszter a szakszövetséget utóellenőrzés lefolytatására hívja fel, ha a szakszövetség az Stv. 22. § (2) bekezdés f) pont ff) alpontja szerint meghatározott feladataival összefüggésben olyan tényt, körülményt tár fel, amely a szakszövetségi ellenőrzés megállapításainak megváltoztatását eredményezheti.
+(2) A sportpolitikáért felelős miniszter az utóellenőrzés lefolytatását hivatalból elrendelheti, ha az Stv. 51. § (2) bekezdés g) pont gd) alpontja szerint meghatározott feladataival összefüggésben saját hatáskörben olyan tényt, körülményt tár fel, amely az általa lefolytatott ellenőrzés megállapításainak megváltoztatását eredményezheti. Az utóellenőrzés lefolytatását elrendelő döntésben meg kell határozni az utóellenőrzés lefolytatásának kezdő időpontját.
 
-(3) A sportpolitikáért felelős miniszter az utóellenőrzés lefolytatását hivatalból is elrendelheti, ha az Stv. 51. § (2) bekezdés g) pont gd) alpontja alapján saját hatáskörben olyan tényt, körülményt tár fel, amely az általa lefolytatott ellenőrzés megállapításainak megváltoztatását eredményezheti.
+(3) A sportpolitikáért felelős miniszter a szakszövetséget utóellenőrzés lefolytatására hívja fel, ha a szakszövetség – az Stv. 22. § (2) bekezdés f) pont ff) alpontja szerint meghatározott feladataival összefüggésben – olyan tényt, körülményt tár fel, amely a szakszövetség által lefolytatott ellenőrzés megállapításainak megváltoztatását eredményezheti. Az utóellenőrzés lefolytatására történő felhívásban meg kell határozni az utóellenőrzés lefolytatásának kezdő időpontját.
 
-(3a)[^186] Az utóellenőrzés lefolytatásáról való döntésnek halasztó hatálya van az utóellenőrzéssel érintett, visszafizetési kötelezettséget megállapító döntésre.
+(4) A támogatott szervezet az elszámolást lezáró értesítés kézbesítésétől számított 30 napos jogvesztő határidőn belül utóellenőrzés iránti kérelmet nyújthat be az elszámolást lezáró értesítést kibocsátó szervezethez olyan, a támogatott szervezeten kívül álló, a támogatott szervezetnek fel nem róható okból bekövetkezett, az elszámoláshoz közvetlenül kapcsolódó tény, körülmény bemutatásával, amely az ellenőrző szervezet ellenőrzése megállapításainak megváltoztatását eredményezheti.
 
-(4) A szakszövetség a (2) bekezdés szerint lefolytatott utóellenőrzés megállapításai alapján az összesítő elszámolást módosítja vagy hatályában fenntartja. Az összesítő elszámolás módosítása esetén a szakszövetség az Stv. 22. § (2) bekezdés f) pont ff) alpontja szerint jár el. Az összesítő elszámolás hatályában való fenntartása esetén a szakszövetség erről 8 napon belül tájékoztatja a sportpolitikáért felelős minisztert.
+(5) A támogatott szervezetnek a kérelemben előadott tényeket, körülményeket alátámasztó és igazoló dokumentumokat kérelméhez csatolnia kell.
 
-(5) A sportpolitikáért felelős miniszter a (3) bekezdés szerint lefolytatott utóellenőrzés megállapításai alapján az elszámolást módosítja vagy hatályában fenntartja.
+(6) A (4) bekezdésben meghatározott kérelem benyújtásával egyidejűleg – ha ennek feltételei fennállnak – a támogatott szervezetnek pótolnia kell az elmulasztott cselekményt is.
 
-(6)[^187] Az utóellenőrzésre a 12. és 13. §-ban foglaltakat megfelelően alkalmazni kell azzal, hogy az 2. § (1) bekezdés 1. pontja szerint illetékes ellenőrző szervezet a 12. § (1) bekezdés szerint bekért dokumentációk alapján 60 napon belül dönt az utóellenőrzés lefolytatásáról. Az 2. § (1) bekezdés 1. pontja szerint illetékes ellenőrző szervezet döntésében köteles meghatározni az utóellenőrzés lefolytatásának kezdő időpontját.
+(7) A (6) bekezdés alapján a 11. § (1) bekezdése szerinti elszámolás, valamint a 11. § (2) bekezdése szerinti előrehaladási jelentés elmulasztott benyújtása nem pótolható.
 
-(7)[^188] Amennyiben az 2. § (1) bekezdés 1. pontja szerint illetékes ellenőrző szervezet az utóellenőrzés lefolytatásáról dönt, a (4) és (5) bekezdés szerinti döntését az utóellenőrzés elrendeléséről szóló döntésben megállapított határidőtől számított 180 napon belül hozza meg. Ez a határidő egy alkalommal további 180 nappal meghosszabbítható.
+(8) Amennyiben az elszámolást lezáró értesítést kibocsátó szervezet nem azonos az ellenőrző szervezettel, az elszámolást lezáró értesítést kibocsátó szervezet az utóellenőrzés iránti kérelmet – annak összes mellékletével együtt – haladéktalanul megküldi az ellenőrző szervezetnek.
 
-[^183]: Az 5/C. alcímet (15/C. §) a 128/2017. (VI. 8.) Korm. rendelet 2. §-a iktatta be.
-[^184]: A 15/C. § (1) bekezdése a 318/2018. (XII. 27.) Korm. rendelet 15. §-ával megállapított, a 723/2020. (XII. 31.) Korm. rendelet 7. § i) pontja szerint módosított szöveg.
-[^185]: A 15/C. § (2) bekezdése a 318/2018. (XII. 27.) Korm. rendelet 15. §-ával megállapított szöveg.
-[^186]: A 15/C. § (3a) bekezdését a 40/2019. (III. 7.) Korm. rendelet 6. §-a iktatta be.
-[^187]: A 15/C. § (6) bekezdése a 164/2017. (VI. 28.) Korm. rendelet 10. § 10. pontja, a 253/2021. (V. 17.) Korm. rendelet 3. §-a szerint módosított szöveg.
-[^188]: A 15/C. § (7) bekezdése a 164/2017. (VI. 28.) Korm. rendelet 10. § 1. pontja szerint módosított szöveg.
+(9) Az ellenőrző szervezet a támogatott szervezet utóellenőrzés iránti kérelmének beérkezésétől számított 60 napon belül dönt az utóellenőrzés lefolytatásának szükségességéről. Ha az ellenőrző szervezet az utóellenőrzés lefolytatásának szükségességét megállapító döntést hoz, döntésében köteles meghatározni az utóellenőrzés lefolytatásának kezdő időpontját.
+
+(10) Az utóellenőrzés lefolytatását elrendelő döntésnek, az utóellenőrzés lefolytatására történő felhívásnak, valamint az utóellenőrzés lefolytatásának szükségességét megállapító döntésnek halasztó hatálya van az utóellenőrzéssel érintett, visszafizetési kötelezettséget megállapító döntésre. A szakszövetség az általa meghozott, az utóellenőrzés lefolytatásának szükségességét megállapító döntésről 8 napon belül értesíti a sportpolitikáért felelős minisztert.
+
+(11) Az utóellenőrzés lefolytatásának szükségességét vizsgáló eljárásban és az utóellenőrzés során egy alkalommal 5 munkanapos határidő tűzésével kerülhet sor hiánypótlásra.
+
+(12) Az utóellenőrzés lefolytatása során az ellenőrző szervezet a (13) és (14) bekezdés szerinti döntését az utóellenőrzés elrendeléséről szóló döntésben megállapított határidőtől számított 180 napon belül hozza meg.
+
+(13) A sportpolitikáért felelős miniszter a (2) és (4) bekezdés szerint lefolytatott utóellenőrzés megállapításai alapján az elszámolás ellenőrzésének megállapításait módosítja vagy hatályában fenntartja.
+
+(14) A szakszövetség a (3) és (4) bekezdés szerint lefolytatott utóellenőrzés megállapításai alapján az elszámolás ellenőrzésének megállapításait vagy az összesítő elszámolást módosítja vagy hatályában fenntartja. Az összesítő elszámolás módosítása esetén a szakszövetség az Stv. 22. § (2) bekezdés f) pont ff) alpontja szerint jár el. Az összesítő elszámolás módosítása vagy hatályában való fenntartása esetén a szakszövetség erről 8 napon belül tájékoztatja a sportpolitikáért felelős minisztert.
+
+(15) Az utóellenőrzésre a 12. §-ban, valamint a 13. § (4)–(4a) bekezdésében foglaltakat megfelelően alkalmazni kell.
+
+[^204]: Az 5/C. alcímet (15/C. §) a 128/2017. (VI. 8.) Korm. rendelet 2. §-a iktatta be.
+[^205]: A 15/C. § a 398/2024. (XII. 16.) Korm. rendelet 11. §-ával megállapított szöveg.

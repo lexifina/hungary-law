@@ -1,15 +1,21 @@
-15/G. § (1) A Tao. tv. 22/C. § (1) bekezdés c) pont ce) alpontjában meghatározott támogatás az 1407/2013/EU bizottsági rendelet rendelkezéseivel összhangban nyújtható.
+15/G. § (1)[^215] A Tao. tv. 22/C. § (1) bekezdés c) pont ce) alpontjában meghatározott csekély összegű támogatás (e § alkalmazásában a továbbiakban: támogatás) az (EU) 2023/2831 bizottsági rendelet rendelkezéseivel összhangban nyújtható.
 
-(2) Az egy és ugyanazon vállalkozásnak minősülő vállalkozások részére az 1407/2013/EU bizottsági rendelet hatálya alá tartozó, Magyarországon odaítélt csekély összegű támogatások bruttó támogatástartalmának összege nem haladhatja meg a 200 000 eurónak megfelelő forintösszeget, figyelembe véve az 1407/2013/EU bizottsági rendelet 3. cikk (8) és (9) bekezdését.
+(2)[^216] A támogatott szervezet, a támogatás végső kedvezményezettje és a vele egy és ugyanazon vállalkozásnak minősülő vállalkozások részére az (EU) 2023/2831 bizottsági rendelet hatálya alá tartozó, bármely három évből álló időszakban Magyarországon odaítélt csekély összegű támogatás bruttó támogatástartalma nem haladhatja meg a 300 000 eurónak megfelelő forintösszeget, figyelembe véve az (EU) 2023/2831 bizottsági rendelet 3. cikk (8) és (9) bekezdését.
 
-(3)[^195] A támogatás odaítélése során az adott pénzügyi évben, valamint az előző két pénzügyi év alatt odaítélt csekély összegű támogatások bruttó támogatástartalmának összegét kell figyelembe venni.
+(3)[^217]
 
-(4) Az 1407/2013/EU bizottsági rendelet alapján nyújtott csekély összegű támogatás az Európai Unió működéséről szóló szerződés 107. és 108. cikkének az általános gazdasági érdekű szolgáltatást nyújtó vállalkozások számára nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2012. április 25-i 360/2012/EU bizottsági rendeletnek (HL L 114., 2012.4.26., 8. o.) megfelelően nyújtott csekély összegű támogatással a 360/2012/EU bizottsági rendeletben meghatározott felső határig halmozható. Az 1407/2013/EU bizottsági rendelet szerinti csekély összegű támogatás más csekély összegű támogatásokról szóló rendeleteknek megfelelően nyújtott csekély összegű támogatással az 1407/2013/EU bizottsági rendelet 3. cikkének (2) bekezdésében meghatározott felső határig halmozható.
+(4)[^218] A támogatás − az (EU) 2023/2832 bizottsági rendelet alapján nyújtott támogatás kivételével − más csekély összegű támogatással a (2) bekezdésben meghatározott értékhatárig halmozható.
 
-(5) A csekély támogatás nem halmozható azonos elszámolható költségek vagy azonos kockázatfinanszírozási célú intézkedés vonatkozásában nyújtott állami támogatással, ha az így halmozott összeg meghaladná a csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó határozatában az egyes esetek meghatározott körülményeire vonatkozóan rögzített legmagasabb támogatási intenzitást vagy összeget.
+(5)[^219] A támogatás halmozható azonos elszámolható költségek vagy azonos kockázatfinanszírozási célú intézkedés vonatkozásában nyújtott állami támogatással, ha a halmozás következtében az odaítélt támogatások nem lépik túl a csoportmentességi rendeletekben vagy az Európai Bizottságnak a Tao. tv. 30/I. § (1) bekezdésében rögzített határozataiban az egyes esetek meghatározott körülményeire vonatkozóan rögzített legmagasabb támogatási intenzitást vagy összeget.
 
-(6) A támogatott szervezetnek az 1407/2013/EU bizottsági rendelet 5. cikk (1) bekezdése figyelembevételével – az ott meghatározott feltételek teljesítésének megállapítására alkalmas módon – nyilatkoznia kell a részére a támogatás odaítélésének évében és az azt megelőző két pénzügyi évben nyújtott csekély összegű támogatások támogatástartalmáról.
+(6)[^220] A támogatott szervezetnek, a támogatás végső kedvezményezettjének az (EU) 2023/2831 bizottsági rendelet 7. cikk (4) bekezdése figyelembevételével – az ott meghatározott feltételek teljesítésének megállapítására alkalmas módon – nyilatkoznia kell a részére a támogatás odaítélését megelőző három év (háromszor háromszázhatvanöt nap) során nyújtott csekély összegű támogatások támogatástartalmáról.
 
-(7) A jóváhagyást végző szervezet írásban tájékoztatja a kedvezményezettet a támogatás bruttó támogatási egyenértékben kifejezett összegéről és arról, hogy az csekély összegűnek minősül.
+(7)[^221] A jóváhagyást végző szervezet a támogatott szervezet vagy a támogatás végső kedvezményezettje részére az (EU) 2023/2831 bizottsági rendelet 7. cikk (4) bekezdésével összhangban igazolást állít ki a támogatás bruttó támogatási egyenértékben kifejezett összegéről és arról, hogy az csekély összegűnek minősül, közvetlenül utalva az (EU) 2023/2831 bizottsági rendeletre.
 
-[^195]: [A 15/G. § (3) bekezdésben a 631/2023. (XII. 23.) Korm. rendelet 8. § j) pontja által elrendelt módosítás, amely szerint az „odaítélés során az adott pénzügyi évben, valamint az előző két pénzügyi év alatt” szövegrész helyébe az „odaítélés során bármely három év alatt” szöveg lép, nem vezethető át.]
+[^215]: A 15/G. § (1) bekezdése a 398/2024. (XII. 16.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^216]: A 15/G. § (2) bekezdése a 398/2024. (XII. 16.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^217]: A 15/G. § (3) bekezdését a 398/2024. (XII. 16.) Korm. rendelet 17. § (1) bekezdés o) pontja hatályon kívül helyezte.
+[^218]: A 15/G. § (4) bekezdése a 398/2024. (XII. 16.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^219]: A 15/G. § (5) bekezdése a 398/2024. (XII. 16.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^220]: A 15/G. § (6) bekezdése a 398/2024. (XII. 16.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^221]: A 15/G. § (7) bekezdése a 398/2024. (XII. 16.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.

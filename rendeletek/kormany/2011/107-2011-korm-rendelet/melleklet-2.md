@@ -1,3 +1,3 @@
-2. melléklet a 107/2011. (VI. 30.) Korm. rendelethez[^269]
+2. melléklet a 107/2011. (VI. 30.) Korm. rendelethez[^308]
 
-[^269]: A 2. mellékletet a 723/2020. (XII. 31.) Korm. rendelet 8. § (2) bekezdése hatályon kívül helyezte.
+[^308]: A 2. mellékletet a 723/2020. (XII. 31.) Korm. rendelet 8. § (2) bekezdése hatályon kívül helyezte.
