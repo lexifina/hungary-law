@@ -61,3 +61,15 @@ h) a kiegészítő adó megállapításához szükséges egyéb adatok.
 (9) A kiegészítő adóval kapcsolatos adóbevallást, adatszolgáltatást legkésőbb az adókötelezettséggel érintett adóév utolsó napjától számított 15 hónapon belül kell benyújtani az állami adó- és vámhatósághoz.
 
 (10) A belföldi csoporttag a kiegészítő adót, a kiegészítő adókötelezettséggel érintett adóév utolsó napjától számított 15 hónapon belül köteles megfizetni.
+
+(11) A belföldi csoporttagnak vagy az összes belföldi csoporttag nevében eljáró kijelölt helyi szervezetnek az adóévre elismert belföldi kiegészítőadó-előleget kell megállapítania, – az állami adó- és vámhatóság által az elismert belföldi kiegészítő-adóelőleg bevallására rendszeresített nyomtatványon – bevallania és megfizetnie az elismert belföldi kiegészítő adóval érintett adóév utolsó napjától számított tizenegyedik hónap 20. napjáig.
+
+(12) A (11) bekezdés szerinti elismert belföldi kiegészítőadó-előleg összege az adóévre várhatóan fizetendő elismert belföldi kiegészítő adó összege.
+
+(13) Az elismert belföldi kiegészítőadó-előleggel kapcsolatos bevallásnak a következő adatokat kell tartalmaznia:
+
+a) a belföldi csoporttag azonosító adatai,
+
+b) a belföldi csoporttag elismert belföldi kiegészítőadó-előleg kötelezettsége.
+
+(14) Az adózás rendjéről szóló törvénytől eltérően a (11)–(13) bekezdés szerinti kötelezettség megsértése esetén késedelmi pótlék, adóbírság és mulasztási bírság alkalmazásának nincs helye, ha a csoporttag úgy járt el, ahogy az az adott helyzetben a csoporttagtól elvárható.

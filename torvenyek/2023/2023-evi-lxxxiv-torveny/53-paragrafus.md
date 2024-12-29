@@ -9,3 +9,5 @@
 (3) Amennyiben egy multinacionális vállalatcsoport vagy nagyméretű belföldi vállalatcsoport a 32. § (2) bekezdése alapján az adóévi kiegészítő adót nem tekinti nullának abban az adóévben, amelyben e törvény hatálya alá kerül, akkor a 32. § (2) bekezdése szerinti mentesség későbbi adóévben nem választható.
 
 (4) A 12–14. §-t, a 36. § (4) bekezdését és a 47. § (2) bekezdését első alkalommal a 2024. december 31. napját követően kezdődő adóévre kell alkalmazni.
+
+(5) E törvénynek az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel megállapított 44. § (11)–(14) bekezdését első alkalommal a 2024-ben kezdődő adóév vonatkozásában kell alkalmazni.
