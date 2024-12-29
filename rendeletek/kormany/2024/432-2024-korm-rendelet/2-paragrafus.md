@@ -1,3 +1,3 @@
-2. § A 37/2011. (III. 22.) Korm. rendelet 25. §-a a következő (2a) bekezdéssel egészül ki:
+2. §[^3]
 
-„(2a) Az (1) bekezdés szerinti területi besorolásonként meghatározott támogatási intenzitások a Stratégiai Technológiák Európai Platformjának (STEP) létrehozásáról és a 2003/87/EK irányelv, valamint az (EU) 2021/1058, az (EU) 2021/1056, az (EU) 2021/1057, az 1303/2013/EU, a 223/2014/EU, az (EU) 2021/1060, az (EU) 2021/523, az (EU) 2021/695, az (EU) 2021/697 és az (EU) 2021/241 rendelet módosításáról szóló, 2024. február 29-i (EU) 2024/795 európai parlamenti és tanácsi rendelet hatálya alá tartozó beruházások esetén 10 százalékponttal növelhetők.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
