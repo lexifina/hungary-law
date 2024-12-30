@@ -1,0 +1,3 @@
+88. § A hozzátartozók közötti erőszak miatt alkalmazható távoltartásról szóló 2009. évi LXXII. törvény 16. §-a a következő (2c) bekezdéssel egészül ki:
+
+„(2c) Ha ennek technikai feltételei a rendőrség nyilatkozata alapján rendelkezésre állnak, a bíróság a bántalmazott kérelmére elrendelheti, hogy a megelőző távoltartás magatartási szabályainak megtartását a rendőrség a bántalmazó – valamint beleegyezése esetén a bántalmazott – mozgását nyomon követő technikai eszközzel, valamint alkalmazással ellenőrizze. A bíróság a technikai eszköz alkalmazásának szabályait a megelőző távoltartás magatartási szabályai között határozza meg. A megelőző távoltartás magatartási szabályainak megtartásának ellenőrzésére szolgáló technikai eszköz kiskorú személyre nem telepíthető.”

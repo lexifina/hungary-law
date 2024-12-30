@@ -1,0 +1,5 @@
+## 30. A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény módosítása
+
+47. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény a következő 22/B. §-sal egészül ki:
+
+„22/B. § E törvény felhatalmazása alapján a 17. § (2) bekezdés e) pontja szerinti adatok és a lakcím igénylésére jogosultak a rendészeti feladatokat ellátó igazgatási szervek a polgári kézi lőfegyverekkel, lőszerekkel, gáz- és riasztófegyverekkel, ipari célokat szolgáló robbantóanyagokkal, pirotechnikai tevékenységekkel, az ellenőrzött anyagokkal és kábítószer prekurzorokkal, az atomenergiával, a személy és vagyonvédelmi, valamint magánnyomozói tevékenységgel, továbbá a rendészeti feladatokat ellátó személyekkel kapcsolatos engedélyezési és nyilvántartási eljárásokhoz.”
