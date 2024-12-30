@@ -1,7 +1,3 @@
-7. § (1) Az R. 12. § (1) bekezdése helyébe a következő rendelkezés lép:
+7. §[^8]
 
-„(1) Az igazolás és a támogatási igazolás alapján nyújtott támogatás, kiegészítő sportfejlesztési támogatás, valamint a sportfejlesztési program megvalósítását biztosító saját forrás felhasználásának szakmai ellenőrzésére az ellenőrző szervezet jogosult. Az ellenőrző szervezet a szakmai ellenőrzés keretében a támogatásból, támogatási szerződés keretében nyújtott kiegészítő sportfejlesztési támogatásból, valamint az ahhoz kapcsolódó saját forrásokból megvalósuló programok dokumentációjába betekinthet, valamint a döntése előkészítése érdekében a 11. § (4) bekezdése szerinti eredeti dokumentációt bekérheti. Ennek érdekében a támogatott szervezet az iratokat az igazolás vagy támogatási igazolás kiállításától számított 10 évig megőrzi, ellenőrzés esetén azt rendelkezésre bocsátja, és az ellenőrzés során együttműködik az ellenőrző szervezettel, az ellenőrzés lefolytatásához szükséges tájékoztatást az ellenőrző szervezet részére megadja. Amennyiben egy sportfejlesztési program vonatkozásában egy vagy több igazolás és egy vagy több támogatási igazolás is kiállításra kerül, az iratok őrzésére megállapított 10 évet a kiállított igazolások és támogatási igazolások közül a legkésőbb kiállított irat keltétől kell számítani.”
-
-(2) Az R. 12. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) Ha az (1) bekezdésben megállapított iratőrzési kötelezettség határidejének lejártakor utóellenőrzés van folyamatban, a támogatott szervezet az utóellenőrzés lezárulásáig köteles az iratokat megőrizni, azokat rendelkezésre bocsátani, továbbá az ellenőrző szervezettel együttműködni, részére az utóellenőrzés lefolytatásához szükséges tájékoztatást megadni.”
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
