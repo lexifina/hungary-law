@@ -1,4 +1,4 @@
-1. melléklet az 526/2022. (XII. 16.) Korm. rendelethez[^28]
+1. melléklet az 526/2022. (XII. 16.) Korm. rendelethez[^38]
 
 Fajlagos benchmark beruházási értékek
 
@@ -26,4 +26,4 @@ Fajlagos benchmark beruházási értékek
 
 A fajlagos benchmark beruházási érték az itt fel nem sorolt technológiák esetén 1025 M Ft/MWe. A MWe értékek a névleges villamos teljesítőképességet jelölik, amit inverteres erőművek esetén az inverterek váltóáram (AC) oldali névleges aktív (wattos) teljesítőképessége alapján kell meghatározni.
 
-[^28]: Az 1. melléklet a 14/2024. (I. 31.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^38]: Az 1. melléklet a 14/2024. (I. 31.) Korm. rendelet 2. §-ával megállapított szöveg.
