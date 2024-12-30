@@ -56,3 +56,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2000-42-00-00
 | 2024-10-01 | 2024. évi XXIX. törvény | 2000-42-00-00.67 |
 | 2024-11-01 | 2024. évi XLI. törvény | 2000-42-00-00.69 |
 | 2024-12-23 | 2024. évi LXXXI. törvény | 2000-42-00-00.70 |
+| 2024-12-30 | 2024. évi LXXXIV. törvény | 2000-42-00-00.74 |
