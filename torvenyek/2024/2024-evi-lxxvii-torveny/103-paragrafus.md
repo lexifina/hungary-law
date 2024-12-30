@@ -1,1 +1,1 @@
-103. § Az állam működését érintő egyes törvények módosításáról szóló 2024. évi XXIX. törvény 35. §-ának az egészségügyről szóló 1997. évi CLIV. törvény 244/N. §-át megállapító rendelkezése a „2025. március 1-jéig” szövegrész helyett a „2026. március 1-jéig” szöveggel lép hatályba.
+### 103. §

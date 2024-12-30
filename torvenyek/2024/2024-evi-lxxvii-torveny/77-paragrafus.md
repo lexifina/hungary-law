@@ -1,3 +1,1 @@
-77. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 100. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Ha a szolgálati viszony a 80. § (1) bekezdés f) vagy g) pontja, (2) bekezdés b) vagy f) pontja, a 82. § (1) bekezdés a) vagy c) pontja, vagy a 86. § (2) bekezdés b)–d) pontja alapján az oktatási intézményben kötelező tanulmányi időnél rövidebb idő alatt szűnt meg, a rendvédelmi szerv a szolgálati beosztáshoz és előmenetelhez szükséges iskolarendszerű vagy iskolarendszeren kívüli képzéshez térítésmentesen nyújtott támogatást időarányosan visszakövetelheti, ideértve a pénzbeli juttatásokat, a természetbeni élelmezés értékét, valamint a megállapított, de meg nem fizetett tandíjnak azt a hányadát is, amelyet a felsőoktatási intézményben a szociális és tanulmányi kedvezményekkel is meg kellett volna fizetni.”
+### 77. §
