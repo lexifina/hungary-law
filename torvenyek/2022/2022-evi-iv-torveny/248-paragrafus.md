@@ -10,7 +10,7 @@
 
 (5) A 141. alcím és a 147. alcím 2023. július 1-jén lép hatályba.
 
-(6) A 34. § és a 97. § (3) bekezdése 2025. január 1-jén lép hatályba.
+(6) A 34. § és a 97. § (3) bekezdése 2027. január 1-jén lép hatályba.
 
 (7) A 143. alcím 2025. január 15-én lép hatályba.
 
