@@ -1,0 +1,9 @@
+# 1438/2024. (XII. 30.) Korm. határozat
+
+az ideiglenes védelemre jogosult köznevelésben tanulók fejlesztésének, nevelése-oktatásának megvalósítása érdekében szükséges forrásbiztosításról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-1438-30-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2024-12-30 | 2024-1438-30-22.1 | 1438/2024. (XII. 30.) Korm. határozat |
