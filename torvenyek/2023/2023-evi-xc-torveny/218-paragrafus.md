@@ -16,4 +16,4 @@
 
 (6) Az idegenrendészeti eljárások során, amennyiben jogszabályban meghatározott igazgatási szolgáltatási díj nem került meghatározásra, az illetékekről szóló 1990. évi XCIII. törvény rendelkezései szerint kell eljárni.
 
-(7) Az idegenrendészeti hatóság által a vendégbefektetői tartózkodási engedély kiadására irányuló eljárásban kirendelt ingatlanforgalmi szakértő költségét a kérelmező előlegezi és viseli.
+(7)

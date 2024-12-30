@@ -24,6 +24,8 @@ h) az előállítási vagy visszatartási időben küldött megkeresés kivétel
 
 i) a tényállás tisztázása érdekében más szerv vagy szervezeti egység megkeresése esetén az ellenőrzés lefolytatása iránti kérelem megküldésének napjától az ellenőrzés eredményéről történő tájékoztatásnak az idegenrendészeti hatóság részére történő megérkezéséig tartó időtartam.
 
+j) a vendégbefektetői tartózkodási engedély kiadása esetén a kérelem benyújtása és a 16. § (2) bekezdés c) pontja szerinti nyilatkozat alapján vállalt befektetés teljesítéséről szóló igazolás 22. § (7) bekezdése szerinti benyújtása, illetve ennek elmaradása esetén a 22. § (7) bekezdés szerinti igazolás benyújtásra nyitva álló határidő között eltelt időtartam.
+
 (4) A fellebbezés elbírálására jogosult idegenrendészeti hatóság és a felügyeleti szerv eljárása esetén, valamint a megismételt eljárásban az ügyintézési határidő az ügy összes iratának az eljárásra jogosult hatósághoz érkezését követő napon kezdődik. Az idegenrendészeti hatóság a felügyeleti szerv erre irányuló felhívására köteles az iratokat felterjeszteni.
 
 (5) Az eljáró idegenrendészeti hatóság vezetője az ügyintézési határidőt indokolt esetben, egy ízben legfeljebb huszonegy nappal meghosszabbíthatja. Erről a kérelemre indult eljárás esetén az ügyfelet értesíteni kell.

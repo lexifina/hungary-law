@@ -8,9 +8,9 @@ c) a 16. § (2) bekezdés c) pontja szerint vállalt befektetés teljesítésér
 
 d) meghosszabbítás esetén a harmadik országbeli állampolgár nem teljesítette a 22. § (13) bekezdésében foglaltakat.
 
-(2) A vendégbefektetői tartózkodási engedély kiadását az (1) bekezdésben foglaltakon túl meg kell tagadni akkor is, ha az idegenrendészeti hatóság által kirendelt ingatlanforgalmi szakértő által készített szakvélemény szerint a vételár és az ingatlan értéke között feltűnő értékaránytalanság áll fenn.
+(2)
 
-(2a) Ha az ingatlan-nyilvántartás adatai szerint a 22. § (11) bekezdés a) pontja alapján az elidegenítési és terhelési tilalmat bejegyezték, az idegenrendészeti hatóság a kérelmet elutasító határozatában – a magyar állam nevében eljárva – rendelkezik az elidegenítési és terhelési tilalom törléséről.
+(2a)
 
 (3) A vendégbefektetői tartózkodási engedélyt vissza kell vonni
 
@@ -18,4 +18,4 @@ a) az (1) bekezdés a)–c) pontjában meghatározott esetekben, vagy
 
 b) ha a rendelkezésre álló adatok és tények alapján valószínűsíthető, hogy a 16. § (2) bekezdés c) pontja szerint vállalt befektetés az e törvényben meghatározott időtartamban nem áll fenn.
 
-(4) Ha a vendégbefektetői tartózkodási engedélyt az idegenrendészeti hatóság visszavonja, és megállapítja, hogy a 16. § (3) bekezdés b) pontja szerinti ingatlanbefektetéshez kapcsolódó elidegenítési és terhelési tilalom még fennáll, az idegenrendészeti hatóság a vendégbefektetői tartózkodási engedélyt visszavonó határozatában – a magyar állam nevében eljárva – rendelkezik az elidegenítési és terhelési tilalom törléséről.
+(4)

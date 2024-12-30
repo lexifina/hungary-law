@@ -68,6 +68,8 @@ a) szabályozza a vendégbefektetői vízum igénylésének eljárási szabálya
 
 b) meghatározza a vendégbefektetői vízumra és vendégbefektetői tartózkodási engedélyre való jogosultsághoz megvalósítandó befektetések teljesítésének, valamint ezen befektetések teljesítése igazolásának feltételeit és eljárási szabályait.
 
+c) meghatározza az ingatlanalap nettó eszközértékébe beszámítható lakás funkciójú ingatlanba történő befektetések részletszabályait.
+
 (6) Felhatalmazást kap a Kormány, hogy a nemzeti tartózkodási kártya és az EU tartózkodási kártya kiadásával, továbbá a tartózkodási engedély meghosszabbításával és ismételt kiadásával összefüggésben a társadalmi együttélési feltételek fennállásának igazolására szolgáló kulturális ismereti vizsga, a kulturális ismereti vizsgával kapcsolatban fizetendő díj, valamint a vizsgakötelezettség keletkezésének és a vizsgakötelezettség alóli mentességnek a részletszabályait rendeletben állapítsa meg, továbbá a társadalmi együttélési feltételek teljesítésének vizsgálatára jogosult szervet rendeletben jelölje ki.
 
 (7) Felhatalmazást kap a Kormány, hogy rendeletben a vállalkozásra vonatkozó olyan feltételeket határozzon meg, amelyeket az arra alapított vendég-önfoglalkoztatás célú tartózkodási engedély kiadása, illetve meghosszabbítása során az idegenrendészeti hatóságnak figyelembe kell vennie.
