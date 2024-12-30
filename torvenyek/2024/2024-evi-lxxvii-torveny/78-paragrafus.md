@@ -1,0 +1,3 @@
+78. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 118. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A nem vezetői beosztásból vezetői beosztásba első alkalommal történő kinevezéskor a hivatásos állomány tagját a vezetői besorolási kategória első fizetési fokozatába kell besorolni. Ha a besorolása a korábbi beosztásához képest alacsonyabb rendfokozatot vagy beosztási illetményt eredményezne, a hivatásos állomány tagját a második vezetői fizetési fokozatba kell besorolni és részére a korábbi rendfokozatának megfelelő rendfokozatot megállapítani, abban az esetben is, ha a 9. mellékletben az adott vezetői fizetési fokozathoz rendszeresített rendfokozat annál alacsonyabb.”
