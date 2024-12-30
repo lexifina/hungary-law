@@ -1,3 +1,3 @@
 7. §[^6]
 
-[^6]: A 7. § a 8. § (2) bekezdés alapján 2024. december 31-én lép hatályba.
+[^6]: A 7. § a 430/2024. (XII. 23.) Korm. rendelet 2. §-a alapján nem lép hatályba.

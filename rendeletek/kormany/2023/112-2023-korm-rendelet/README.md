@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-112-20-
 | --- | --- | --- |
 | 2023-04-05 | 2023-112-20-22.1 | 112/2023. (III. 31.) Korm. rendelet |
 | 2023-10-13 | 2023-112-20-22.3 | 461/2023. (X. 5.) Korm. rendelet |
+| 2024-12-30 | 2023-112-20-22.4 | 430/2024. (XII. 23.) Korm. rendelet |

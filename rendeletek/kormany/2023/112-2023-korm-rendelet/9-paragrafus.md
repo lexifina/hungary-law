@@ -1,1 +1,3 @@
-9. § Ez a rendelet 2025. január 1. napján hatályát veszti.
+9. §[^7]
+
+[^7]: A 9. §-t a 430/2024. (XII. 23.) Korm. rendelet 3. §-a hatályon kívül helyezte.
