@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2024-12-00-00
 | 2024-10-02 | 2010. évi CXXX. törvény | 2024-12-00-00.11 |
 | 2024-10-31 | Nemzeti Jogszabálytár (egységes szerkezet) | 2024-12-00-00.12 |
 | 2024-11-01 | 2010. évi CXXX. törvény | 2024-12-00-00.13 |
+| 2024-12-30 | 2024. évi LXXXIV. törvény | 2024-12-00-00.24 |
