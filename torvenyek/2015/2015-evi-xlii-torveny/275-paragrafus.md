@@ -20,6 +20,8 @@ i) az illetményszámfejtést végző szerv az illetményszámfejtéshez szüks�
 
 j) a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv előzetes véleményalkotási eljárás keretében.
 
+(1a) A hivatásos állomány tagja a saját adatai tekintetében a személyügyi alapnyilvántartásába és az annak alapjául szolgáló iratokba jogosult betekinteni.
+
 (2) A hivatásos állomány tagjának az 51. § (2) bekezdés a) pontja vagy (3) bekezdés c) pontja szerinti, a kormányzati igazgatásról szóló 2018. évi CXXV. törvény hatálya alá tartozó szervhez történő
 
 a) más szervhez vezénylése, vagy

@@ -18,7 +18,7 @@ ab) szolgálati beosztásának ellátására alkalmatlanná vált
 
 b) a hivatásos szolgálatra alkalmatlanná vált, mert nem felel meg a kifogástalan életvitel követelményének,
 
-c) nemzetbiztonsági szempontból alkalmatlanná vált, mert a nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg – kivéve, ha a nemzetbiztonsági ellenőrzés tárgykörét szabályozó törvény szerint arra feljogosított személy a nemzetbiztonsági ellenőrzés alá eső jogviszony fenntartását jóváhagyta –, és
+c) nemzetbiztonsági szempontból alkalmatlanná vált, mert a nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg – kivéve, ha a nemzetbiztonsági ellenőrzés tárgykörét szabályozó törvény szerint arra feljogosított személy a nemzetbiztonsági ellenőrzés alá eső jogviszony fenntartását jóváhagyta –, vagy a 33. § (6) bekezdése szerint megtett hozzájáruló nyilatkozatát visszavonta, és
 
 ca) a hivatásos állomány tagja a részére az eredeti szolgálati beosztásból való felmentését követően vagy a rendelkezési állomány ideje alatt az 54. §-ban foglaltak szerint felajánlott szolgálati beosztást nem fogadta el, vagy
 
