@@ -1,1 +1,1 @@
-33. § A kritikus szervezet ellenálló képességéért felelős vezetővel önhibáján kívül nem rendelkező kritikus szervezet az általános kijelölő hatóság jóváhagyása esetén az ellenálló képességi tervét a kirendelt tanácsadó jóváhagyásával nyújthatja be.
+### 33. §

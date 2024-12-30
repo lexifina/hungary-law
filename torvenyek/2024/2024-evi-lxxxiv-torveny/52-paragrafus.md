@@ -1,3 +1,1 @@
-52. § A Rendőrségről szóló 1994. évi XXXIV. törvény 91/C. §-a a következő (13) bekezdéssel egészül ki:
-
-„(13) Az általános rendőrségi feladatok ellátására létrehozott szerv – illetve e szerv felkérésére a szakértői nyilvántartó szerv – a Btk. szerinti terrorcselekmény és az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. 1. számú melléklete által meghatározott bűncselekmények megelőzése, felderítése és nyomozása céljából jogosult a CIR-ben tárolt adatok lekérdezésére az (EU) 2019/817 európai parlamenti és tanácsi rendelet 22. cikk (1) bekezdésében, valamint az (EU) 2019/818 európai parlamenti és tanácsi rendelet 22. cikk (1) bekezdésében foglaltaknak megfelelően.”
+### 52. §

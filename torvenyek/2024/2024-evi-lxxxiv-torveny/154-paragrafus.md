@@ -7,15 +7,3 @@
 (2) A digitális állam megvalósítása érdekében egyes törvények módosításáról szóló 2024. évi XII. törvény 254. §-a a következő (13) bekezdéssel egészül ki:
 
 „(13) A 145. § (2) bekezdése, a 147. §, a 150. § és a 111. alcím 2027. január 1-jén lép hatályba.”
-
-|
-
-Dr. Sulyok Tamás s. k.,
-
-köztársasági elnök
-
-|
-
-Dr. Latorcai János s. k.,
-
-az Országgyűlés alelnöke
