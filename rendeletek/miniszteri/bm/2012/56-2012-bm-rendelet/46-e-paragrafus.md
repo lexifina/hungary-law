@@ -2,4 +2,6 @@
 
 (2) A megtérítendő tárgyhavi önként vállalt túlszolgálat összesítését a tárgyhónapot követő hónap tizedikéig kell az Országgyűlési Őrség kijelölt szervezeti eleméhez eljuttatni, amely intézkedik a Hszt. 140. § (9) bekezdése szerinti díjazásnak a hivatásos állomány tagja részére történő átutalásáról.
 
-(3) Ha a hivatásos állomány tagja a Hszt. 72. §-a szerinti célfeladat végrehajtásában vesz részt, e tevékenysége nem minősül túlszolgálatnak.
+(3)[^128]
+
+[^128]: A 46/E. § (3) bekezdését a 62/2024. (XII. 30.) BM rendelet 12. § b) pontja hatályon kívül helyezte.

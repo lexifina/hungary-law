@@ -126,9 +126,7 @@
 
 ## 6.1.2.2. Az informatikai, híradó- és biztonságtechnikai feladatokra rendszeresített kiemelt főreferens, főmérnök, mérnök szolgálati beosztásokban felsőfokú végzettségként kizárólag felsőoktatásban szerzett egyetemi vagy főiskolai villamos-, biztonságtechnikai mérnök, mérnök-informatikus felsőfokú végzettség fogadható el.
 
-## 6.1.3. Szakirányú felsőfokú végzettség a felsőoktatásban szerezhető egyes pedagógusképesítések jegyzékéről és egyes, a felsőoktatást érintő kormányrendeletek módosításáról szóló 830/2021. (XII. 29.)
-
-## Korm. rendeletben és a felsőoktatásban szerezhető képesítések jegyzékéről és az új képzések létesítéséről szóló 65/2021. (XII. 29.) ITM rendeletben szereplő felsőfokú képzettségek valamelyike
+## 6.1.3. Szakirányú felsőfokú végzettség a felsőoktatásban szerezhető egyes pedagógusképesítések jegyzékéről és egyes, a felsőoktatást érintő kormányrendeletek módosításáról szóló 830/2021. (XII. 29.) Korm. rendeletben és a felsőoktatásban szerezhető képesítések jegyzékéről és az új képzések létesítéséről szóló 65/2021. (XII. 29.) ITM rendeletben szereplő felsőfokú képzettségek valamelyike
 
 ## 6.1.3.1. a jogi, igazgatási szakterületen,
 
@@ -364,7 +362,7 @@
 
 ## 7.7. Ha a tűzoltás vezetői jogosultság megszerzése a 7.6.1. pont szerint történt, akkor a beosztást betöltő személynek a tűzoltás vezetői jogosultság megszerzésétől számított 5 éven belül meg kell szereznie a legalább középszintű (tűzoltó szerparancsnok) szakmai képesítést. Ha a szakmai képesítés megszerzésére határidőben nem kerül sor, a beosztást betöltő személy a továbbiakban a tűzoltás, műszaki mentés vezetési jogosultsághoz kötött beosztást nem töltheti be.”
 
-3. melléklet az 56/2012. (XI. 22.) BM rendelethez[^298]
+3. melléklet az 56/2012. (XI. 22.) BM rendelethez[^301]
 
 Az Országgyűlési Őrségnél idegennyelv-tudási pótlékra jogosító szolgálati beosztások
 
@@ -380,4 +378,4 @@ Az Országgyűlési Őrségnél idegennyelv-tudási pótlékra jogosító szolg�
 
 6. az Országgyűlési Őrség parancsnoka által meghatározott egyéb szolgálati beosztások, ahol az idegen nyelv használata a szolgálat ellátásához szükséges
 
-[^298]: A 3. melléklet a 9/2018. (IV. 25.) BM rendelet 17. § (3) bekezdésével megállapított szöveg.
+[^301]: A 3. melléklet a 9/2018. (IV. 25.) BM rendelet 17. § (3) bekezdésével megállapított szöveg.

@@ -1,4 +1,4 @@
-129/B. §[^273] (1) Az ezen alcímben foglaltakat a (2) bekezdésben meghatározott eltérésekkel alkalmazni kell az Országgyűlési Őrségnél foglalkoztatott munkavállalóra is.
+129/B. §[^276] (1) Az ezen alcímben foglaltakat a (2) bekezdésben meghatározott eltérésekkel alkalmazni kell az Országgyűlési Őrségnél foglalkoztatott munkavállalóra is.
 
 (2) Az Országgyűlési Őrségnél foglalkoztatott munkavállaló tekintetében az ezen alcímben foglaltakat azzal kell alkalmazni, hogy
 
@@ -14,4 +14,4 @@ e) a Hszt. XIX. Fejezetében szereplő alapilletményen a munkavállaló alapbé
 
 kell érteni.
 
-[^273]: A 129/B. §-t a 24/2023. (VI. 30.) BM rendelet 31. §-a iktatta be.
+[^276]: A 129/B. §-t a 24/2023. (VI. 30.) BM rendelet 31. §-a iktatta be.

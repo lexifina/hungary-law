@@ -1,6 +1,6 @@
-44. § (1)[^120] Ha a szolgálati feladatot az eredeti szolgálati beosztásba tartozó feladatként kell más szervezeti elemben vagy más helységben teljesíteni, akkor a ténylegesen szolgálatban töltött szolgálatteljesítési időt kell számítani. Az utazással indokoltan eltöltött időt a szolgálatteljesítési időbe be kell számítani.
+44. § (1)[^122] Ha a szolgálati feladatot az eredeti szolgálati beosztásba tartozó feladatként kell más szervezeti elemben vagy más helységben teljesíteni, akkor a ténylegesen szolgálatban töltött szolgálatteljesítési időt kell számítani. Az utazással indokoltan eltöltött időt a szolgálatteljesítési időbe be kell számítani.
 
-(2)[^121] Ha a szolgálati feladatot határozatban, parancsban, berendelő vagy meghívó levélben, kiküldetési utasításban elrendelve vagy az elöljáró utasítására kell az eredeti szolgálati beosztásba tartozó feladaton kívüli feladatként a szolgálatteljesítési helyen kívül – ha az a hivatásos állomány tagjának lakóhelyével sem esik egybe – teljesíteni, akkor
+(2)[^123] Ha a szolgálati feladatot határozatban, parancsban, berendelő vagy meghívó levélben, kiküldetési utasításban elrendelve vagy az elöljáró utasítására kell az eredeti szolgálati beosztásba tartozó feladaton kívüli feladatként a szolgálatteljesítési helyen kívül – ha az a hivatásos állomány tagjának lakóhelyével sem esik egybe – teljesíteni, akkor
 
 a) az egynapos távollétnél vagy naponkénti oda-vissza utazásnál az (1) bekezdésben meghatározottak szerint kell eljárni,
 
@@ -10,8 +10,8 @@ c) a három- vagy többnapos távollétnél az első és az utolsó napon a két
 
 d) a többhetes távollétnél az utazással indokoltan eltöltött időt annyiszor kell figyelembe venni, ahányszor a hivatásos állomány tagja részére az utazást engedélyezték.
 
-(3)[^122] Ha a külföldi kiküldetés során a hivatásos állomány tagját a napi tényleges szolgálatteljesítés befejezését követően arra kötelezik, hogy pihenőidejében meghatározott szolgálati feladatokra történő igénybevétel céljából rendelkezésre álljon, a tényleges szolgálatteljesítés nélküli rendelkezésre állás időtartama készenlétnek vagy kiemelt készenlétnek minősül. Ha ilyen rendelkezésre állási kötelezettség a hivatásos állomány tagját nem terheli, a szolgálatteljesítési idő leteltét követő időtartam nem tekinthető sem túlszolgálatnak, sem készenlétnek, sem kiemelt készenlétnek.
+(3)[^124] Ha a külföldi kiküldetés során a hivatásos állomány tagját a napi tényleges szolgálatteljesítés befejezését követően arra kötelezik, hogy pihenőidejében meghatározott szolgálati feladatokra történő igénybevétel céljából rendelkezésre álljon, a tényleges szolgálatteljesítés nélküli rendelkezésre állás időtartama készenlétnek vagy kiemelt készenlétnek minősül. Ha ilyen rendelkezésre állási kötelezettség a hivatásos állomány tagját nem terheli, a szolgálatteljesítési idő leteltét követő időtartam nem tekinthető sem túlszolgálatnak, sem készenlétnek, sem kiemelt készenlétnek.
 
-[^120]: A 44. § (1) bekezdése a 9/2018. (IV. 25.) BM rendelet 18. § f) pontja szerint módosított szöveg.
-[^121]: A 44. § (2) bekezdés nyitó szövegrésze a 9/2018. (IV. 25.) BM rendelet 18. § g) pontja szerint módosított szöveg.
-[^122]: A 44. § (3) bekezdését a 9/2018. (IV. 25.) BM rendelet 8. §-a iktatta be.
+[^122]: A 44. § (1) bekezdése a 9/2018. (IV. 25.) BM rendelet 18. § f) pontja szerint módosított szöveg.
+[^123]: A 44. § (2) bekezdés nyitó szövegrésze a 9/2018. (IV. 25.) BM rendelet 18. § g) pontja szerint módosított szöveg.
+[^124]: A 44. § (3) bekezdését a 9/2018. (IV. 25.) BM rendelet 8. §-a iktatta be.
