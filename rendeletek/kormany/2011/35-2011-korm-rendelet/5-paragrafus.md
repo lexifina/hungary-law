@@ -6,7 +6,7 @@
 
 (4) A felelős személy a várandós nő döntését követő 3 napon belül arról írásban vagy elektronikus úton értesíti a háttérkórház szülészeti és újszülött-ellátást nyújtó osztályát. Az értesítésnek a várandós nő nevét, a szülés várható időpontját, valamint a felelős személy és az egészségügyi szolgáltató nevét és telefonszámát tartalmaznia kell.
 
-(5) Amennyiben a háttérkórház szülészeti és újszülött-ellátást nyújtó osztályának az ellátás választott helyszíne szerint területi ellátási kötelezettsége is van, akkor a (4) bekezdés szerinti értesítés kézhezvételét követő 3 napon belül írásban vagy elektronikus úton tájékoztatja a felelős személyt arról, hogy az értesítést tudomásul vette. Területi ellátási kötelezettség hiányában a háttérkórház az értesítés vételét az azt követő 3 napon belül visszaigazolja és azt jóváhagyja. Jóváhagyás hiányában a felelős személy az ellátás választott helyszíne szerinti területi ellátási kötelezettséggel rendelkező szülészeti és újszülött-ellátást nyújtó fekvőbeteg-gyógyintézetet értesíti a (4) bekezdésben foglaltakról.
+(5)[^6] A háttérkórház a (4) bekezdés szerinti értesítés kézhezvételét követő 3 napon belül írásban vagy elektronikus úton tájékoztatja a felelős személyt, illetve – ha a háttérkórház az ellátás választott helyszíne szerint területi ellátási kötelezettséggel nem rendelkezik – a területi ellátási kötelezettséggel rendelkező intézményt arról, hogy az értesítést tudomásul vette.
 
 (6) A várandós nő terhesgondozása a terhesgondozásról szóló jogszabályban meghatározottak szerint történik.
 
@@ -14,3 +14,4 @@
 
 [^4]: Az 5. § (2) bekezdése az 520/2013. (XII. 30.) Korm. rendelet 81. §-ával megállapított szöveg.
 [^5]: Az 5. § (3) bekezdése a 464/2016. (XII. 23.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^6]: Az 5. § (5) bekezdése a 463/2024. (XII. 30.) Korm. rendelet 45. §-ával megállapított szöveg.

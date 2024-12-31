@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-35-20-2
 | 2014-01-01 | 2011-35-20-22.4 | 520/2013. (XII. 30.) Korm. rendelet |
 | 2016-07-01 | 2011-35-20-22.5 | 172/2016. (VII. 1.) Korm. rendelet |
 | 2017-01-01 | 2011-35-20-22.6 | 464/2016. (XII. 23.) Korm. rendelet |
+| 2024-12-31 | 2011-35-20-22.7 | 463/2024. (XII. 30.) Korm. rendelet |

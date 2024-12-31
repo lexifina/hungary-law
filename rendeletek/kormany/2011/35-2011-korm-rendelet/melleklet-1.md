@@ -1,12 +1,10 @@
-## 16. §[^13]
-
 1. melléklet a 35/2011. (III. 21.) Korm. rendelethez
 
-## Az ellátás igénybevételének egészségügyi feltételei és kizáró okai
+Az ellátás igénybevételének egészségügyi feltételei és kizáró okai
 
 1. Az ellátás csak a következő feltételek együttes fennállása esetén vehető igénybe:
 
-a) a terhesség szövődménymentes,
+a)[^15] a terhesség szövődménymentes, a várandósgondozás 36. hetében a gondozón keresztül, személyes vagy telemedicinális ellátás keretében megtörténik a várandós regisztrálása a fogadó intézményben,,
 
 b) a várandós nő az 5. § (1) bekezdése szerinti döntés időpontjában betöltötte a 18. életévét,
 
@@ -78,4 +76,4 @@ i) idő előtti burokrepedés, ha a szülés nem indul el spontán 12 órán bel
 
 j) igazolt B típusú streptococcus fertőzés.
 
-[^13]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: Az 1. melléklet 1. pont a) alpontja a 463/2024. (XII. 30.) Korm. rendelet 46. §-a szerint módosított szöveg.
