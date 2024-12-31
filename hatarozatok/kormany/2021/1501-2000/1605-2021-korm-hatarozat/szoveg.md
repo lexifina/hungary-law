@@ -8,8 +8,10 @@ Felelős: érintett miniszterek
 
 Határidő: folyamatos
 
-3. felhívja a belügyminisztert, hogy gondoskodjon az MNTFS 2030 kormányzati honlapon való közzétételéről.
+3.[^1] elfogadja a módosított MNTFS 2030 című dokumentumot, és felhívja a belügyminisztert, hogy gondoskodjon a módosított MNTFS 2030 című dokumentum kormányzati honlapon való közzétételéről.
 
-Felelős: belügyminiszter
+| Felelős: | belügyminiszter |
 
-Határidő: azonnal
+| Határidő: | azonnal |
+
+[^1]: A 3. pont az 1442/2024. (XII. 30.) Korm. határozat 1. pontjával megállapított szöveg.
