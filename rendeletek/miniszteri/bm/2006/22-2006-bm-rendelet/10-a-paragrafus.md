@@ -1,4 +1,4 @@
-10/A. §[^16] (1)[^17] Személy- és vagyonőri igazolvány kiadása vagy megújítása iránti kérelem elbírálása során az SzVMt. 1. § (1) bekezdés a) pontja szerinti személy- és vagyonvédelmi tevékenység személyes ellátására az SzVMt. 1. § (3) bekezdés a)–d) pontjában előírt szakképesítésnek számít
+10/A. §[^16] (1)[^17] Személy- és vagyonőri igazolvány kiadása iránti kérelem elbírálása során az SzVMt. 1. § (1) bekezdés a) pontja szerinti személy- és vagyonvédelmi tevékenység személyes ellátására az SzVMt. 1. § (3) bekezdés a)–d) pontjában előírt szakképesítésnek számít
 
 1. a Nemzeti Közszolgálati Egyetem Hadtudományi és Honvédtisztképző Karán szerzett szakképzettség,
 
@@ -38,6 +38,12 @@
 
 19. az OKJ szerinti a Rendészeti ügyintéző szakképesítés,
 
+19a.[^18] az OKJ szerinti Személy és vagyonvédő szakképesítés,
+
+19b.[^19] az OKJ szerinti a Biztonsági őr szakképesítés,
+
+19c.[^20] az OKJ szerinti Fegyveres biztonsági őr szakképesítés,
+
 20. az 5 1032 18 03 azonosító számú Rendőr tiszthelyettes szakma valamennyi szakmairánya,
 
 21. az 5 0413 18 01 azonosító számú Közszolgálati technikus szakma mindkét szakmairánya,
@@ -66,33 +72,33 @@
 
 33. a vállalkozás keretében végzett személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység átmeneti szabályairól szóló 87/1995. (VII. 14.) Korm. rendelet és a vállalkozás keretében végzett személy- és vagyonőri, valamint a magánnyomozói tevékenység végzéséhez szükséges szakképesítésről szóló 12/1995. (VIII. 18.) BM rendelet alapján szerzett személy- és vagyonőr szakképesítés.
 
-(2)[^18] Vagyonvédelmi rendszert szerelő igazolvány kiadása vagy megújítása iránti kérelem elbírálása során az SzVMt. 1. § (1) bekezdés b) pontja szerinti tevékenység személyes ellátására az SzVMt. 1. § (5) bekezdés a)–d) pontjában előírt szakképesítésnek számít
+(2)[^21] Vagyonvédelmi rendszert szerelő igazolvány kiadása iránti kérelem elbírálása során az SzVMt. 1. § (1) bekezdés b) pontja szerinti tevékenység személyes ellátására az SzVMt. 1. § (5) bekezdés a)–d) pontjában előírt szakképesítésnek számít
 
 1. biztonságtechnikai, híradástechnikai, távközlési, elektrotechnikai, mechanikai, gépészmérnöki, mechatronikai mérnöki, közlekedésmérnöki, villamosmérnöki karon alap- vagy mesterképzésben szerzett szakképzettség,
 
-2.[^19] az OKJ szerinti Elektronikus vagyonvédelmi rendszerszerelő szakképesítés,
+2.[^22] az OKJ szerinti Elektronikus vagyonvédelmi rendszerszerelő szakképesítés,
 
-3.[^20] az OKJ szerinti Mechanikus vagyonvédelmi szerelő szakképesítés,
+3.[^23] az OKJ szerinti Mechanikus vagyonvédelmi szerelő szakképesítés,
 
-4.[^21]
+4.[^24]
 
-5.[^22] a villamossági vagy elektronikai képzettségek technikusi szintű végzettsége, továbbá emelt szintű szakképesítése,
+5.[^25] a villamossági vagy elektronikai képzettségek technikusi szintű végzettsége, továbbá emelt szintű szakképesítése,
 
-6.[^23] a Biztonságtechnikai szerelő, kezelő szakképesítés,
+6.[^26] a Biztonságtechnikai szerelő, kezelő szakképesítés,
 
-7.[^24] a gépészeti vagy mechanikai képzettségek technikusi szintű végzettsége, továbbá emelt szintű szakképesítése, illetve
+7.[^27] a gépészeti vagy mechanikai képzettségek technikusi szintű végzettsége, továbbá emelt szintű szakképesítése, illetve
 
-8.[^25] a vagyonvédelmi rendszerszerelő szakképesítés (sorszám: 10324020).
+8.[^28] a vagyonvédelmi rendszerszerelő szakképesítés (sorszám: 10324020).
 
-9.[^26] az OKJ szerinti Elektronikus és mechanikus vagyonvédelmirendszer-szerelő szakképesítés.
+9.[^29] az OKJ szerinti Elektronikus és mechanikus vagyonvédelmirendszer-szerelő szakképesítés.
 
-(2a)[^27] Vagyonvédelmi rendszert tervező, szerelő igazolvány kiadása vagy megújítása iránti kérelem elbírálása során az SzVMt. 1. § (1) bekezdés b) pontja szerinti tevékenység személyes ellátására előírt szakképesítésnek számít a biztonságtechnikai, híradástechnikai, távközlési, mechanikai, illetve villamosmérnöki képzettséget adó egyetemi vagy főiskolai végzettség.
+(2a)[^30] Vagyonvédelmi rendszert tervező, szerelő igazolvány kiadása iránti kérelem elbírálása során az SzVMt. 1. § (1) bekezdés b) pontja szerinti tevékenység személyes ellátására előírt szakképesítésnek számít a biztonságtechnikai, híradástechnikai, távközlési, mechanikai, illetve villamosmérnöki képzettséget adó egyetemi vagy főiskolai végzettség.
 
-(3)[^28] Magánnyomozói igazolvány kiadása vagy megújítása iránti kérelem elbírálása során az SzVMt. 1. § (1) bekezdés c) pontja szerinti magánnyomozói tevékenység személyes ellátásához szükséges magánnyomozói szakképesítésnek számít
+(3)[^31] Magánnyomozói igazolvány kiadása iránti kérelem elbírálása során az SzVMt. 1. § (1) bekezdés c) pontja szerinti magánnyomozói tevékenység személyes ellátásához szükséges magánnyomozói szakképesítésnek számít
 
 1. a Nemzeti Közszolgálati Egyetem Hadtudományi és Honvédtisztképző Karán szerzett szakképzettség,
 
-2.[^29] a Nemzeti Közszolgálati Egyetem Rendészettudományi Karán bűnügyi igazgatás, rendészeti igazgatás vagy rendészeti vezető szakon alap- vagy mesterképzésben szerzett szakképzettség,
+2.[^32] a Nemzeti Közszolgálati Egyetem Rendészettudományi Karán bűnügyi igazgatás, rendészeti igazgatás vagy rendészeti vezető szakon alap- vagy mesterképzésben szerzett szakképzettség,
 
 3. a Nemzeti Közszolgálati Egyetem szakokleveles magánnyomozó szakirányú továbbképzési szakon szerzett szakokleveles magánnyomozó szakképzettség,
 
@@ -102,27 +108,27 @@
 
 6. az egyetemi osztatlan jogász mesterképzésben szerzett szakképzettség,
 
-7.[^30] a Rendészeti szervező szakképesítés valamennyi szakmairánya a katasztrófavédelmi, a tűzvédelmi és az iparbiztonsági szakmairányok kivételével, továbbá a Rendőrszervező (tiszt) szakképesítés rendőrszervező szakiránya és határrendész-szervező szakiránya,
+7.[^33] a Rendészeti szervező szakképesítés valamennyi szakmairánya a katasztrófavédelmi, a tűzvédelmi és az iparbiztonsági szakmairányok kivételével, továbbá a Rendőrszervező (tiszt) szakképesítés rendőrszervező szakiránya és határrendész-szervező szakiránya,
 
-8.[^31] az OKJ szerinti Rendőr tiszthelyettes szakképesítés valamennyi szakmairánya,
+8.[^34] az OKJ szerinti Rendőr tiszthelyettes szakképesítés valamennyi szakmairánya,
 
-9.[^32] az OKJ szerinti Rendészeti ügyintéző szakképesítés,
+9.[^35] az OKJ szerinti Rendészeti ügyintéző szakképesítés,
 
-10.[^33] az OKJ szerinti Büntetés-végrehajtási felügyelő szakképesítés,
+10.[^36] az OKJ szerinti Büntetés-végrehajtási felügyelő szakképesítés,
 
-11.[^34] az OKJ szerinti Magánnyomozó szakképesítés,
+11.[^37] az OKJ szerinti Magánnyomozó szakképesítés,
 
-12.[^35]
+12.[^38]
 
-13.[^36] a magánnyomozó szakképesítés (sorszám: 10325019), illetve
+13.[^39] a magánnyomozó szakképesítés (sorszám: 10325019), illetve
 
-14.[^37] a szakképzésről szóló törvény végrehajtásáról szóló 12/2020. (II. 7.) Korm. rendelet 1. mellékletében kiadott Szakmajegyzék szerinti, Rendészet és közszolgálat ágazatba sorolt szakmák, kivéve a Közszolgálati technikus szakma Közigazgatási ügyintéző szakmairánya és a Rendészeti őr szakma.
+14.[^40] a szakképzésről szóló törvény végrehajtásáról szóló 12/2020. (II. 7.) Korm. rendelet 1. mellékletében kiadott Szakmajegyzék szerinti, Rendészet és közszolgálat ágazatba sorolt szakmák, kivéve a Közszolgálati technikus szakma Közigazgatási ügyintéző szakmairánya és a Rendészeti őr szakma.
 
 (4) A Nemzeti Közszolgálati Egyetem Hadtudományi és Honvédtisztképző Karán alap- vagy mesterképzésében szerzett szakképzettségnek minősül a Zrínyi Miklós Nemzetvédelmi Egyetem karain és azok jogelődjeinél szerzett szakképzettség.
 
-(5)[^38] A Nemzeti Közszolgálati Egyetem Rendészettudományi Karán bűnügyi igazgatás, rendészeti igazgatás vagy rendészeti vezető szakon szakképzettségnek minősül a Rendőrtiszti Főiskola által szak megnevezésével vagy anélkül kiadott oklevélben igazolt szakképzettség.
+(5)[^41] A Nemzeti Közszolgálati Egyetem Rendészettudományi Karán bűnügyi igazgatás, rendészeti igazgatás vagy rendészeti vezető szakon szakképzettségnek minősül a Rendőrtiszti Főiskola által szak megnevezésével vagy anélkül kiadott oklevélben igazolt szakképzettség.
 
-(6)[^39] Az (1) bekezdés 10–31. pontja, valamint a (3) bekezdés 7–13. pontja szerinti szakképesítés
+(6)[^42] Az (1) bekezdés 10–31. pontja, valamint a (3) bekezdés 7–13. pontja szerinti szakképesítés
 
 1. a rendészeti szakgimnázium és annak jogelődei által kiállított részszakképesítést vagy szakképesítést igazoló bizonyítvánnyal, vagy bizonyítvány hiányában a jogelőd által kiállított, a képzés elvégzését is igazoló tanulmányi értesítővel,
 
@@ -134,27 +140,32 @@
 
 5. a Rendőrtiszti Főiskolán szerzett, a szak megnevezését még nem tartalmazó oklevéllel
 
+igazolható.
+
 [^16]: A 10/A. §-t az 55/2011. (XII. 21.) BM rendelet 9. §-a iktatta be, szövege a 18/2018. (VI. 28.) BM rendelet 1. §-ával megállapított szöveg.
-[^17]: A 10/A. § (1) bekezdése a 48/2021. (XII. 22.) BM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^18]: A 10/A. § (2) bekezdés nyitó szövegrésze a 37/2018. (XII. 28.) BM rendelet 4. § (6) bekezdése szerint módosított szöveg.
-[^19]: A 10/A. § (2) bekezdés 2. pontja a 48/2021. (XII. 22.) BM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^20]: A 10/A. § (3) bekezdés 2. pontja a 48/2021. (XII. 22.) BM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^21]: A 10/A. § (2) bekezdés 4. pontját a 48/2021. (XII. 22.) BM rendelet 2. § b) pontja hatályon kívül helyezte.
-[^22]: A 10/A. § (2) bekezdés 5. pontja a 48/2021. (XII. 22.) BM rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^23]: A 10/A. § (2) bekezdés 6. pontja a 14/2021. (VI. 16.) BM rendelet 3. § b) pontja szerint módosított szöveg.
-[^24]: A 10/A. § (2) bekezdés 7. pontja a 48/2021. (XII. 22.) BM rendelet 1. § (4) bekezdésével megállapított szöveg.
-[^25]: A 10/A. § (2) bekezdés 8. pontját a 14/2021. (VI. 16.) BM rendelet 1. § (2) bekezdése iktatta be.
-[^26]: A 10/A. § (2) bekezdés 9. pontját a 48/2021. (XII. 22.) BM rendelet 1. § (5) bekezdése iktatta be.
-[^27]: A 10/A. § (2a) bekezdését a 37/2018. (XII. 28.) BM rendelet 4. § (4) bekezdése iktatta be, szövege a 48/2021. (XII. 22.) BM rendelet 1. § (6) bekezdésével megállapított szöveg.
-[^28]: A 10/A. § (3) bekezdés nyitó szövegrésze a 37/2018. (XII. 28.) BM rendelet 4. § (7) bekezdése szerint módosított szöveg.
-[^29]: A 10/A. § (3) bekezdés 2. pontja a 48/2021. (XII. 22.) BM rendelet 1. § (7) bekezdésével megállapított szöveg.
-[^30]: A 10/A. § (3) bekezdés 7. pontja a 37/2018. (XII. 28.) BM rendelet 4. § (5) bekezdésével megállapított szöveg.
-[^31]: A 10/A. § (3) bekezdés 8. pontja a 48/2021. (XII. 22.) BM rendelet 1. § (8) bekezdésével megállapított szöveg.
-[^32]: A 10/A. § (3) bekezdés 9. pontja a 48/2021. (XII. 22.) BM rendelet 1. § (8) bekezdésével megállapított szöveg.
-[^33]: A 10/A. § (3) bekezdés 10. pontja a 48/2021. (XII. 22.) BM rendelet 1. § (8) bekezdésével megállapított szöveg.
-[^34]: A 10/A. § (3) bekezdés 11. pontja a 48/2021. (XII. 22.) BM rendelet 1. § (8) bekezdésével megállapított szöveg.
-[^35]: A 10/A. § (3) bekezdés 12. pontját a 48/2021. (XII. 22.) BM rendelet 2. § c) pontja hatályon kívül helyezte.
-[^36]: A 10/A. § (3) bekezdés 13. pontját a 14/2021. (VI. 16.) BM rendelet 1. § (3) bekezdése iktatta be.
-[^37]: A 10/A. § (3) bekezdés 14. pontját a 14/2021. (VI. 16.) BM rendelet 1. § (3) bekezdése iktatta be, szövege a 48/2021. (XII. 22.) BM rendelet 1. § (9) bekezdésével megállapított szöveg.
-[^38]: A 10/A. § (5) bekezdése a 48/2021. (XII. 22.) BM rendelet 1. § (10) bekezdésével megállapított szöveg.
-[^39]: A 10/A. § (6) bekezdése a 48/2021. (XII. 22.) BM rendelet 1. § (10) bekezdésével megállapított szöveg.
+[^17]: A 10/A. § (1) bekezdése a 48/2021. (XII. 22.) BM rendelet 1. § (1) bekezdésével megállapított, nyitó szövegrésze a 62/2024. (XII. 30.) BM rendelet 5. §-a szerint módosított szöveg.
+[^18]: A 10/A. § (1) bekezdés 19a. pontját a 62/2024. (XII. 30.) BM rendelet 4. §-a iktatta be.
+[^19]: A 10/A. § (1) bekezdés 19b. pontját a 62/2024. (XII. 30.) BM rendelet 4. §-a iktatta be.
+[^20]: A 10/A. § (1) bekezdés 19c. pontját a 62/2024. (XII. 30.) BM rendelet 4. §-a iktatta be.
+[^21]: A 10/A. § (2) bekezdés nyitó szövegrésze a 37/2018. (XII. 28.) BM rendelet 4. § (6) bekezdése, a 62/2024. (XII. 30.) BM rendelet 5. §-a szerint módosított szöveg.
+[^22]: A 10/A. § (2) bekezdés 2. pontja a 48/2021. (XII. 22.) BM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^23]: A 10/A. § (3) bekezdés 2. pontja a 48/2021. (XII. 22.) BM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^24]: A 10/A. § (2) bekezdés 4. pontját a 48/2021. (XII. 22.) BM rendelet 2. § b) pontja hatályon kívül helyezte.
+[^25]: A 10/A. § (2) bekezdés 5. pontja a 48/2021. (XII. 22.) BM rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^26]: A 10/A. § (2) bekezdés 6. pontja a 14/2021. (VI. 16.) BM rendelet 3. § b) pontja szerint módosított szöveg.
+[^27]: A 10/A. § (2) bekezdés 7. pontja a 48/2021. (XII. 22.) BM rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^28]: A 10/A. § (2) bekezdés 8. pontját a 14/2021. (VI. 16.) BM rendelet 1. § (2) bekezdése iktatta be.
+[^29]: A 10/A. § (2) bekezdés 9. pontját a 48/2021. (XII. 22.) BM rendelet 1. § (5) bekezdése iktatta be.
+[^30]: A 10/A. § (2a) bekezdését a 37/2018. (XII. 28.) BM rendelet 4. § (4) bekezdése iktatta be, szövege a 48/2021. (XII. 22.) BM rendelet 1. § (6) bekezdésével megállapított, a 62/2024. (XII. 30.) BM rendelet 5. §-a szerint módosított szöveg.
+[^31]: A 10/A. § (3) bekezdés nyitó szövegrésze a 37/2018. (XII. 28.) BM rendelet 4. § (7) bekezdése, a 62/2024. (XII. 30.) BM rendelet 5. §-a szerint módosított szöveg.
+[^32]: A 10/A. § (3) bekezdés 2. pontja a 48/2021. (XII. 22.) BM rendelet 1. § (7) bekezdésével megállapított szöveg.
+[^33]: A 10/A. § (3) bekezdés 7. pontja a 37/2018. (XII. 28.) BM rendelet 4. § (5) bekezdésével megállapított szöveg.
+[^34]: A 10/A. § (3) bekezdés 8. pontja a 48/2021. (XII. 22.) BM rendelet 1. § (8) bekezdésével megállapított szöveg.
+[^35]: A 10/A. § (3) bekezdés 9. pontja a 48/2021. (XII. 22.) BM rendelet 1. § (8) bekezdésével megállapított szöveg.
+[^36]: A 10/A. § (3) bekezdés 10. pontja a 48/2021. (XII. 22.) BM rendelet 1. § (8) bekezdésével megállapított szöveg.
+[^37]: A 10/A. § (3) bekezdés 11. pontja a 48/2021. (XII. 22.) BM rendelet 1. § (8) bekezdésével megállapított szöveg.
+[^38]: A 10/A. § (3) bekezdés 12. pontját a 48/2021. (XII. 22.) BM rendelet 2. § c) pontja hatályon kívül helyezte.
+[^39]: A 10/A. § (3) bekezdés 13. pontját a 14/2021. (VI. 16.) BM rendelet 1. § (3) bekezdése iktatta be.
+[^40]: A 10/A. § (3) bekezdés 14. pontját a 14/2021. (VI. 16.) BM rendelet 1. § (3) bekezdése iktatta be, szövege a 48/2021. (XII. 22.) BM rendelet 1. § (9) bekezdésével megállapított szöveg.
+[^41]: A 10/A. § (5) bekezdése a 48/2021. (XII. 22.) BM rendelet 1. § (10) bekezdésével megállapított szöveg.
+[^42]: A 10/A. § (6) bekezdése a 48/2021. (XII. 22.) BM rendelet 1. § (10) bekezdésével megállapított szöveg.
