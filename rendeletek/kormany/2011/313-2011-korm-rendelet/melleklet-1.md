@@ -1,6 +1,6 @@
-## 18. §[^25] Az egyes egészségügyi és egészségbiztosítási tárgyú kormányrendeletek módosításáról szóló 413/2015. (XII. 23.) Korm. rendelet (a továbbiakban: Mód.r.) hatálybalépesekor[^26] fennálló feladat-ellátási szerződés tekintetében a Mód.r.-rel megállapított 4. § (7) bekezdésében és 1. mellékletben foglaltakat első ízben a feladat-ellátási szerződésnek a Mód.r. hatálybalépését követő első módosításakor kell alkalmazni.
+## 18. §[^26] Az egyes egészségügyi és egészségbiztosítási tárgyú kormányrendeletek módosításáról szóló 413/2015. (XII. 23.) Korm. rendelet (a továbbiakban: Mód.r.) hatálybalépesekor[^27] fennálló feladat-ellátási szerződés tekintetében a Mód.r.-rel megállapított 4. § (7) bekezdésében és 1. mellékletben foglaltakat első ízben a feladat-ellátási szerződésnek a Mód.r. hatálybalépését követő első módosításakor kell alkalmazni.
 
-1. melléklet a 313/2011. (XII. 23.) Korm. rendelethez[^27]
+1. melléklet a 313/2011. (XII. 23.) Korm. rendelethez[^28]
 
 FELADAT-ELLÁTÁSI SZERZŐDÉS
 
@@ -34,6 +34,6 @@ PRAXISJOG ALAPJÁN VÉGZETT TEVÉKENYSÉGRE
 
 14. Dátum; a felek (cégszerű) aláírása
 
-[^25]: A 18. §-t a 413/2015. (XII. 23.) Korm. rendelet 33. §-a iktatta be.
-[^26]: A hatálybalépés időpontja 2016. január 1.
-[^27]: Az 1. mellékletet a 413/2015. (XII. 23.) Korm. rendelet 34. §-a iktatta be.
+[^26]: A 18. §-t a 413/2015. (XII. 23.) Korm. rendelet 33. §-a iktatta be.
+[^27]: A hatálybalépés időpontja 2016. január 1.
+[^28]: Az 1. mellékletet a 413/2015. (XII. 23.) Korm. rendelet 34. §-a iktatta be.
