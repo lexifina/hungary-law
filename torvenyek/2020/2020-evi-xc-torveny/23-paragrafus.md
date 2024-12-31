@@ -1,1 +1,0 @@
-23. § A XLVII. Gazdaság-újraindítási Alap fejezet, 2. cím, 3. Nemzeti agrártámogatások alcím kiadási előirányzatáról kell teljesíteni a folyó költségként elszámolható, megszűnő agrár- és vidékfejlesztési támogatások korábbi években vállalt és 2021. évet terhelő áthúzódó fizetési kötelezettségeit.

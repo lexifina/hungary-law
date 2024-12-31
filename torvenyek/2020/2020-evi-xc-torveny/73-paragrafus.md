@@ -1,1 +1,0 @@
-73. § A mozgóképről szóló 2004. évi II. törvény 13. § (5) bekezdésében meghatározott gyártási költségvetési értékhatár a 2021. évben magyar filmalkotás esetén 359,8 millió forint, magyar részvételű koprodukciós filmalkotás esetén 628,0 millió forint.
