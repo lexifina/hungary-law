@@ -1,8 +1,9 @@
-## 7.[^103]
+14. §[^103] (1) A 2. mellékletben foglalt táblázat A:289 mezőjében meghatározott egészségügyi szolgáltatónak az egészségügyi ágazati előmeneteli rendszer hatálya alá tartozó, 2024. március 1. napján jogviszonyban álló foglalkoztatottja az illetmény- vagy bérnövelésre 2024. március 1-jétől, de legfeljebb a munkáltatónál fennálló, az egészségügyi ágazati előmeneteli rendszer hatálya alá tartozó munkakörben történő foglalkoztatásának kezdő időpontjától jogosult.
 
-## 8. Módosító rendelkezések
+(2) A 2. mellékletben foglalt táblázat A:290 mezőjében meghatározott egészségügyi szolgáltatónak az egészségügyi ágazati előmeneteli rendszer hatálya alá tartozó, 2024. július 1. napján jogviszonyban álló foglalkoztatottja az illetmény- vagy bérnövelésre 2024. július 1-jétől, de legfeljebb a munkáltatónál fennálló, az egészségügyi ágazati előmeneteli rendszer hatálya alá tartozó munkakörben történő foglalkoztatásának kezdő időpontjától jogosult.
 
-14. §[^104]
+(3) A 2. mellékletben foglalt táblázat A:291 mezőjében meghatározott egészségügyi szolgáltatónak az egészségügyi ágazati előmeneteli rendszer hatálya alá tartozó, 2024. augusztus 1. napján jogviszonyban álló foglalkoztatottja az illetmény- vagy bérnövelésre 2024. augusztus 1-jétől, de legfeljebb a munkáltatónál fennálló, az egészségügyi ágazati előmeneteli rendszer hatálya alá tartozó munkakörben történő foglalkoztatásának kezdő időpontjától jogosult.
 
-[^103]: A 7. alcím címét a 286/2023. (VI. 30.) Korm. rendelet 49. §-a hatályon kívül helyezte.
-[^104]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+(4) A 2. mellékletben foglalt táblázat A:292 mezőjében meghatározott egészségügyi szolgáltatónak az egészségügyi ágazati előmeneteli rendszer hatálya alá tartozó, 2024. április 1. napján jogviszonyban álló foglalkoztatottja az illetmény- vagy bérnövelésre 2024. április 1-jétől, de legfeljebb a munkáltatónál fennálló, az egészségügyi ágazati előmeneteli rendszer hatálya alá tartozó munkakörben történő foglalkoztatásának kezdő időpontjától jogosult.
+
+[^103]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 463/2024. (XII. 30.) Korm. rendelet 60. §-a iktatta be.
