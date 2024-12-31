@@ -2,7 +2,7 @@
 
 1. melléklet a 45/2011. (XII. 7.) BM rendelethez
 
-## A tűzvédelmi szakvizsgához kötött foglalkozási ágak és munkakörök
+A tűzvédelmi szakvizsgához kötött foglalkozási ágak és munkakörök
 
 1. Hegesztők és az építőipari tevékenység során nyílt lánggal járó munkát végzők.
 

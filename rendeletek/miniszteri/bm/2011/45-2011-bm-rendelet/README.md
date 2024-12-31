@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-45-20-0
 | 2020-04-28 | 2011-45-20-0A.9 | 4/2015. (II. 27.) BM rendelet |
 | 2021-06-19 | 2011-45-20-0A.10 | 64/2013. (XII. 4.) BM rendelet |
 | 2021-07-26 | 2011-45-20-0A.11 | 13/2021. (V. 27.) BM rendelet |
+| 2024-12-31 | 2011-45-20-0A.12 | 13/2021. (V. 27.) BM rendelet |
