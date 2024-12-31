@@ -1,0 +1,1 @@
+1. § A Paksi Atomerőmű kapacitásának fenntartásával kapcsolatos beruházásról, valamint az ezzel kapcsolatos egyes törvények módosításáról szóló 2015. évi VII. törvény (a továbbiakban: 2015. évi VII. törvény) preambuluma helyébe a következő rendelkezés lép:
