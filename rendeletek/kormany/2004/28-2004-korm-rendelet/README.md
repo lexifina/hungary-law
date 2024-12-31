@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-28-20-2
 | 2017-01-01 | 2004-28-20-22.9 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2017-04-01 | 2004-28-20-22.10 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2023-08-01 | 2004-28-20-22.11 | 334/2023. (VII. 20.) Korm. rendelet |
+| 2024-12-31 | 2004-28-20-22.12 | 463/2024. (XII. 30.) Korm. rendelet |

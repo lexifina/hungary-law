@@ -2,5 +2,8 @@
 
 (2)[^2] A Központ alapító okiratát az egészségügyért felelős miniszter adja ki.
 
+(3)[^3] A Központ vezetőjét az egészségügyért felelős miniszter nevezi meg az Európai Unió Kábítószer-ügynöksége (a továbbiakban: EUDA) és az egészségügyért felelős miniszter által vezetett minisztérium között évente megkötésre kerülő támogatási szerződésben.
+
 [^1]: Az 1. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 260. § a) pontja, a 379/2016. (XII. 2.) Korm. rendelet 61. § (2) bekezdése szerint módosított szöveg.
 [^2]: Az 1. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 260. § b) pontja szerint módosított szöveg.
+[^3]: Az 1. § (3) bekezdését a 463/2024. (XII. 30.) Korm. rendelet 24. §-a iktatta be.

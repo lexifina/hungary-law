@@ -1,71 +1,43 @@
-## A Központ részére feladatkörében szolgáltatandó információk köre:
+2. számú melléklet a 28/2004. (II. 28.) Korm. rendelethez[^9]
 
-## – kábítószer-fogyasztókra vonatkozó információk (a fogyasztói csoportok jellemzői szerint);
+## A Központ kábítószer adat- és információgyűjtő tevékenységében adat-, illetve információ-szolgáltatási kötelezettség teljesítésével feladatkörük szerint résztvevő minisztériumok, egyéb állami szervek:
 
-## – a kábítószer fogyasztásra, szerkezeti összetételére, a kábítószerekhez való hozzáférhetőségre, árakra, a fogyasztott kábítószerek minőségére vonatkozó információk;
+1. Agrárminisztérium
 
-## – kábítószer-fogyasztással összefüggő kezelésekre, egyéb ellátásokra és szűrésekre, valamint az elsődleges, másodlagos valamint harmadlagos megelőzést szolgáló programokra vonatkozó információk;
+2. Belügyminisztérium
 
-## – kábítószer-fogyasztással összefüggésbe hozható halálozásokra vonatkozó információk;
+3. Honvédelmi Minisztérium
 
-## – kábítószer-fogyasztással összefüggésbe hozható fertőző megbetegedésekre vonatkozó információk;
+4. Igazságügyi Minisztérium
 
-## – kábítószer-fogyasztással összefüggésbe hozható büntetőeljárási, illetőleg büntetés végrehajtási, valamint a lefoglalt kábítószerek minőségére, árára vonatkozó információk;
+5. Külgazdasági és Külügyminisztérium
 
-## – kábítószer-fogyasztással összefüggő költségvetési kiadások;
+6. Miniszterelnökség
 
-## – az illegális kábítószer gyártásra, forgalmazásra vonatkozó információk, valamint a fogyasztás megelőzésére, illetőleg mérséklésére irányuló állami, önkormányzati, valamint társadalmi kezdeményezésen nyugvó intézkedések, kezdeményezések.
+7. Nemzetgazdasági Minisztérium
 
-2. számú melléklet a 28/2004. (II. 28.) Korm. rendelethez[^7]
+8. Budapest Főváros Kormányhivatala
 
-A Központ kábítószer adat- és információgyűjtő tevékenységében adat-, illetve információ-szolgáltatási kötelezettség teljesítésével feladatkörük szerint résztvevő minisztériumok, illetőleg egyéb állami szervek:
+9. Büntetés-végrehajtás Országos Parancsnoksága
 
-a) Belügyminisztérium;
+10. Központi Statisztikai Hivatal
 
-b) Honvédelmi Minisztérium;
+11. Nemzeti Adó- és Vámhivatal Központi Irányítása
 
-c)[^8] Igazságügyi Minisztérium;
+12. Nemzeti Bűnmegelőzési Tanács
 
-d)[^9] Külgazdasági és Külügyminisztérium;
+13. Nemzeti Egészségbiztosítási Alapkezelő
 
-e)[^10]
+14. Nemzeti Népegészségügyi és Gyógyszerészeti Központ
 
-f) Nemzeti Fejlesztési Minisztérium
+15. Nemzeti Szakértői és Kutató Központ
 
-g) Nemzetgazdasági Minisztérium;
+16. Országos Mentőszolgálat
 
-h)[^11] Földművelésügyi Minisztérium;
+17. Országos Rendőr-főkapitányság
 
-i) Büntetés-végrehajtás Országos Parancsnoksága;
+18. Slachta Margit Nemzeti Szociálpolitikai Intézet
 
-j)[^12]
+19. Szociális és Gyermekvédelmi Főigazgatóság
 
-k)[^13] Budapest Főváros Kormányhivatala;
-
-l) Központi Statisztikai Hivatal;
-
-m) Nemzeti Bűnmegelőzési Tanács;
-
-n)[^14] Nemzeti Egészségbiztosítási Alapkezelő;
-
-o) Országos Mentőszolgálat Főigazgatósága;
-
-p)[^15] országos tisztifőorvos;
-
-q) Országos Rendőr-főkapitányság;
-
-r)[^16] Nemzeti Adó- és Vámhivatal Központi Irányítása;
-
-s)[^17] Miniszterelnökség.
-
-[^7]: A 2. számú melléklet a 94/2011. (VI. 28.) Korm. rendelet 2. §-ával megállapított szöveg, e módosító rendelet 6. §-a alapján a 2011. július 6-tól a folyamatban lévő ügyekre is alkalmazni kell.
-[^8]: A 2. számú melléklet c) pontja a 221/2014. (IX. 4.) Korm. rendelet 260. § d) pontjával megállapított szöveg.
-[^9]: A 2. számú melléklet d) pontja a 221/2014. (IX. 4.) Korm. rendelet 260. § e) pontjával megállapított szöveg.
-[^10]: A 2. számú melléklet e) pontját a 379/2016. (XII. 2.) Korm. rendelet 61. § (4) bekezdés d) pontja hatályon kívül helyezte.
-[^11]: A 2. számú melléklet h) pontja a 221/2014. (IX. 4.) Korm. rendelet 260. § g) pontjával megállapított szöveg.
-[^12]: A 2. számú melléklet j) pontját a 334/2023. (VII. 20.) Korm. rendelet 9. §-a hatályon kívül helyzte.
-[^13]: A 2. számú melléklet k) pontja a 379/2016. (XII. 2.) Korm. rendelet 61. § (3) bekezdés b) pontjával megállapított szöveg.
-[^14]: A 2. számú melléklet n) pontja a 379/2016. (XII. 2.) Korm. rendelet 61. § (3) bekezdés c) pontjával megállapított szöveg.
-[^15]: A 2. számú melléklet p) pontja a 379/2016. (XII. 2.) Korm. rendelet 61. § (3) bekezdés d) pontjával megállapított szöveg.
-[^16]: A 2. számú melléklet r) pontja a 486/2015. (XII. 29.) Korm. rendelet 9. §-a szerint módosított szöveg.
-[^17]: A 2. számú melléklet s) pontját a 221/2014. (IX. 4.) Korm. rendelet 259. §-a iktatta be.
+[^9]: A 2. számú melléklet a 463/2024. (XII. 30.) Korm. rendelet 28. § (2) bekezdésével megállapított szöveg.
