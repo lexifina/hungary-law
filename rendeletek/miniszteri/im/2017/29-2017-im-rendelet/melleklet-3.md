@@ -24,6 +24,8 @@ Az áldozati státusz igazolása iránti kérelem benyújtására szolgáló nyo
 
 1.10. elsődleges kapcsolattartási mód
 
+1.11.[^12] nem magyar állampolgár esetén a Magyarország területén tartózkodásának jogcíme
+
 2. A kérelem benyújtásának alapjául szolgáló bűncselekményre, tulajdon elleni szabálysértésre vonatkozó adatok
 
 2.1. a bűncselekmény, tulajdon elleni szabálysértés
@@ -59,3 +61,4 @@ Az áldozati státusz igazolása iránti kérelem benyújtására szolgáló nyo
 5. Tájékoztató
 
 [^11]: A 3. mellékletet a 18/2020. (XII. 29.) IM rendelet 11. § (3) bekezdése iktatta be, szövege a 18/2021. (XII. 23.) IM rendelet 25. § (3) bekezdése szerint módosított szöveg.
+[^12]: A 3. melléklet 1.11. pontját a 42/2024. (XII. 30.) IM rendelet 1. §-a iktatta be.
