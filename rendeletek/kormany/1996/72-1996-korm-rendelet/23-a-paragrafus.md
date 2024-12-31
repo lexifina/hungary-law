@@ -1,8 +1,8 @@
-## 23. §[^213] A vízbeszerzésre meghatározott, továbbá a befogadóba vezethető vízmennyiségeket a vízügyi hatóság – a kiadott elvi vízjogi engedély hatályán belül – bejegyzett igényként, a vízkészlet-nyilvántartásról szóló külön jogszabály szerint tartja nyilván.
+## 23. §[^216] A vízbeszerzésre meghatározott, továbbá a befogadóba vezethető vízmennyiségeket a vízügyi hatóság – a kiadott elvi vízjogi engedély hatályán belül – bejegyzett igényként, a vízkészlet-nyilvántartásról szóló külön jogszabály szerint tartja nyilván.
 
-## A VIZEK rendszer[^214]
+## A VIZEK rendszer[^217]
 
-23/A. § (1)[^215] A VIZEK rendszert mint elektronikus szakrendszert
+23/A. § (1)[^218] A VIZEK rendszert mint elektronikus szakrendszert
 
 a) az Országos Vízügyi Főigazgatóság által üzemeltetett VIZEK Keretrendszer és
 
@@ -24,6 +24,6 @@ részére a VIZEK rendszert működteti.
 
 (5) A VIZEK Keretrendszer részét képezi az előszűrő felület és döntéstámogató modul, valamint az adatgyűjtő felület, míg az integrált hatósági rendszer részét képezi az e-vízikönyv és az elektronikus vízkészletjárulék-nyilvántartás.
 
-[^213]: A 23. § a 182/2009. (IX. 10.) Korm. rendelet 84. §-a szerint módosított szöveg. [A 23. §-ban az 527/2013. (XII. 30.) Korm. rendelet 3. § (13) bekezdés c) pontjával elrendelt módosítás, amely szerint a „felügyelőség” szövegrészek helyébe a „vízügyi hatóság” szöveg lép, nem vezethető át.]
-[^214]: A „VIZEK rendszer” alcímet (23/A–23/G. §) a 286/2019. (XII. 4.) Korm. rendelet 12. §-a iktatta be.
-[^215]: A 23/A. § (1) bekezdése a 257/2024. (VIII. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^216]: A 23. § a 182/2009. (IX. 10.) Korm. rendelet 84. §-a szerint módosított szöveg. [A 23. §-ban az 527/2013. (XII. 30.) Korm. rendelet 3. § (13) bekezdés c) pontjával elrendelt módosítás, amely szerint a „felügyelőség” szövegrészek helyébe a „vízügyi hatóság” szöveg lép, nem vezethető át.]
+[^217]: A „VIZEK rendszer” alcímet (23/A–23/G. §) a 286/2019. (XII. 4.) Korm. rendelet 12. §-a iktatta be.
+[^218]: A 23/A. § (1) bekezdése a 257/2024. (VIII. 29.) Korm. rendelet 2. §-ával megállapított szöveg.

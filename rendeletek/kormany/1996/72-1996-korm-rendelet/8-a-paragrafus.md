@@ -1,8 +1,8 @@
-## Kutakra vonatkozó rendelkezések[^123]
+## Kutakra vonatkozó rendelkezések[^126]
 
-## A létesítés[^124]
+## A létesítés[^127]
 
-8/A. §[^125] (1) A kútból kitermelt víz felhasználásának módjára figyelemmel – különös tekintettel az ivóvíz-minőségű vízre vonatkozó rendelkezésekre – el kell végezni a víz minőségi vizsgálatát. A vizsgálandó paramétereket a vízügyi hatóság a létesítési engedélyben határozza meg.
+8/A. §[^128] (1) A kútból kitermelt víz felhasználásának módjára figyelemmel – különös tekintettel az ivóvíz-minőségű vízre vonatkozó rendelkezésekre – el kell végezni a víz minőségi vizsgálatát. A vizsgálandó paramétereket a vízügyi hatóság a létesítési engedélyben határozza meg.
 
 (2) A felszín alatti vízkészletekbe történő beavatkozás és vízkútfúrás szakmai követelményeiről szóló 101/2007. (XII. 23.) KvVM rendelet (a továbbiakban: Fvbr.) 13. § (2)–(4) bekezdéseiben meghatározott jogosultságok fennállását igazolni kell a létesítési engedély iránti kérelemben vagy legkésőbb a kút kivitelezésének időpontjáról szóló értesítésben. Ha a vízjogi engedélyes a másolatokat a vízjogi létesítési engedély iránti kérelemhez nem mellékeli, akkor a vízjogi létesítési engedély csak azok pótlására irányuló feltétellel adható meg.
 
@@ -10,6 +10,6 @@
 
 (4) A vízügyi hatóság vagy a műszaki ellenőr előírására a földtani rétegsor pontosításának érdekében földtani laboratóriumi anyagvizsgálatokat is végezni kell.
 
-[^123]: A 8/A. §-t megelőző alcímet az 518/2017. (XII. 29.) Korm. rendelet 7. §-a iktatta be.
-[^124]: A 8/A. §-t megelőző alcímet az 518/2017. (XII. 29.) Korm. rendelet 7. §-a iktatta be.
-[^125]: A 8/A. §-t az 518/2017. (XII. 29.) Korm. rendelet 7. §-a iktatta be.
+[^126]: A 8/A. §-t megelőző alcímet az 518/2017. (XII. 29.) Korm. rendelet 7. §-a iktatta be.
+[^127]: A 8/A. §-t megelőző alcímet az 518/2017. (XII. 29.) Korm. rendelet 7. §-a iktatta be.
+[^128]: A 8/A. §-t az 518/2017. (XII. 29.) Korm. rendelet 7. §-a iktatta be.
