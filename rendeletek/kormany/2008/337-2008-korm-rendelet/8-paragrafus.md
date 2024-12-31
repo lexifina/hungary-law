@@ -2,7 +2,7 @@
 
 8. §[^140] (1) A Tv. 7. §-a alapján kezdeményezett átcsoportosítási kérelemhez csatolni kell:
 
-a)[^141] az egészségügyi ellátási kötelezettség körében kötött megállapodás vagy egészségügyi ellátási szerződés esetén a feladatot átadó egyetértését igazoló dokumentumot,
+a)[^141]
 
 b) az átcsoportosítás részletes szakmai indokolását,
 
@@ -85,7 +85,7 @@ d) az átcsoportosítással kapcsolatos szakmai véleményét, és
 e)[^166] a 13. § (4) bekezdés c) pontja szerinti – a fenntartó által az országos tisztifőorvos rendelkezésére bocsátott – hatásvizsgálatot.
 
 [^140]: A 8. § a 360/2009. (XII. 30.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^141]: A 8. § (1) bekezdés a) pontja a 164/2012. (VII. 19.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^141]: A 8. § (1) bekezdés a) pontját a 463/2024. (XII. 30.) Korm. rendelet 38. §-a hatályon kívül helyezte.
 [^142]: A 8. § (1a) bekezdését a 164/2012. (VII. 19.) Korm. rendelet 4. § (2) bekezdése iktatta be.
 [^143]: A 8. § (2) bekezdése a 363/2010. (XII. 30.) Korm. rendelet 16. § 6. pontja szerint módosított szöveg.
 [^144]: A 8. § (3) bekezdése a 363/2010. (XII. 30.) Korm. rendelet 15. § 7. pontja, a 164/2012. (VII. 19.) Korm. rendelet 6. § c) pontja, az 520/2013. (XII. 30.) Korm. rendelet 57. § (2) bekezdés d) pontja szerint módosított szöveg.

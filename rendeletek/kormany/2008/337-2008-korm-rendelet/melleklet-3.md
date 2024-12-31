@@ -1,203 +1,181 @@
-## 1. belgyógyászat
+|  | A | B |
 
-## 2. angiológia, phlebológia, lymphológia
+| 1 | Szakma kód | Szakma megnevezése |
 
-## 3. haematológia
+| 2 | 0100 | belgyógyászat |
 
-## 4. haemopoetikus őssejt transzplantáció
+| 3 | 0101 | angiológia, phlebológia, lymphológia |
 
-## 5. endokrinológia, anyagcsere és diabetológia
+| 4 | 0102 | haematológia |
 
-## 6. gasztroenterológia
+| 5 | 0103 | endokrinológia, anyagcsere és diabetológia |
 
-## 7. nefrológia
+| 6 | 0104 | gasztroenterológia |
 
-## 8. geriátria
+| 7 | 0105 | nefrológia |
 
-## 9. allergológia és klinikai immunológia
+| 8 | 0106 | geriátria |
 
-## 10. kardiológia
+| 9 | 0109 | allergológia és klinikai immunológia |
 
-## 11.[^294]
+| 10 | 0112 | haemopoetikus őssejt transzplantáció |
 
-## 12. klinikai toxikológia
+| 11 | 0200 | sebészet |
 
-## 13. sebészet
+| 12 | 0202 | tüdő- és mellkassebészet |
 
-## 14. tüdő- és mellkassebészet
+| 13 | 0203 | érsebészet |
 
-## 15. érsebészet
+| 14 | 0204 | idegsebészet |
 
-## 16. idegsebészet
+| 15 | 0205 | szívsebészet |
 
-## 17. szívsebészet
+| 16 | 0208 | szerv-transzplantációs sebészet |
 
-## 18. csecsemő- és gyermekszívsebészet
+| 17 | 0214 | gyermek idegsebészet |
 
-## 19. szerv-transzplantációs sebészet
+| 18 | 0215 | csecsemő- és gyermekszívsebészet |
 
-## 20. traumatológia
+| 19 | 0400 | szülészet-nőgyógyászat |
 
-## 20/a.[^295] gyermektraumatológia
+| 20 | 0403 | asszisztált reprodukció |
 
-## 21. helyreállító és esztétikai plasztikai sebészet
+| 21 | 0500 | csecsemő- és gyermekgyógyászat |
 
-## 22. égéssebészet (felnőtt)
+| 22 | 0501 | neonatológia |
 
-## 23. gyermek helyreállító plasztikai és égéssebészet
+| 23 | 0502 | PIC |
 
-## 24. kézsebészet
+| 24 | 0503 | csecsemő- és gyermekkardiológia |
 
-## 25. arc-, állcsont-szájsebészet
+| 25 | 0504 | gyermek-tüdőgyógyászat |
 
-## 26. szülészet-nőgyógyászat
+| 26 | 0505 | gyermek-gasztroenterológia |
 
-## 26/a.[^296] asszisztált reprodukció
+| 27 | 0506 | gyermeksebészet |
 
-## 27. csecsemő- és gyermekgyógyászat
+| 28 | 0507 | gyermeknőgyógyászat |
 
-## 28.[^297] neonatológia
+| 29 | 0508 | gyermekszemészet |
 
-## 28/a.[^298] PIC
+| 30 | 0509 | csecsemő és gyermek fül-, orr-, gégegyógyászat |
 
-## 29. csecsemő- és gyermekgyógyászati intenzív terápia
+| 31 | 0511 | gyermekneurológia |
 
-## 30. csecsemő- és gyermekkardiológia
+| 32 | 0515 | csecsemő- és gyermekgyógyászati intenzív terápia |
 
-## 31. gyermek-tüdőgyógyászat
+| 33 | 0516 | gyermekhemato-onkológia |
 
-## 32. gyermek-gasztroenterológia
+| 34 | 0521 | fejlődésneurológia |
 
-## 33. gyermeksebészet
+| 35 | 0600 | fül-orr-gégegyógyászat |
 
-## 34. gyermeknőgyógyászat
+| 36 | 0700 | szemészet |
 
-## 35. gyermekszemészet
+| 37 | 0800 | bőr- és nemibeteg-ellátás |
 
-## 35/a.[^299] gyermek idegsebészet
+| 38 | 0900 | neurológia |
 
-## 36. csecsemő és gyermek fül-, orr-, gégegyógyászat
+| 39 | 0901 | stroke ellátás |
 
-## 37.[^300] gyermekneurológia
+| 40 | 1000 | ortopédia |
 
-## 37/a.[^301] fejlődésneurológia
+| 41 | 1001 | gerincsebészet |
 
-## 38. gyermek- és ifjúságpszichiátria
+| 42 | 1002 | traumatológia |
 
-## 39. gyermek- és ifjúsági addiktológia
+| 43 | 1003 | kézsebészet |
 
-## 40. fül-orr-gégegyógyászat
+| 44 | 1005 | gyermektraumatológia |
 
-## 41. szemészet
+| 45 | 1100 | urológia |
 
-## 42.[^302] bőr- és nemibeteg ellátás
+| 46 | 1101 | andrológia |
 
-## 43.[^303] neurológia
+| 47 | 1200 | klinikai onkológia |
 
-## 43/a.[^304] stroke ellátás
+| 48 | 1201 | sugárterápia |
 
-## 44. ortopédia
+| 49 | 1301 | dento-alveoláris sebészet |
 
-## 45. gerincsebészet
+| 50 | 1309 | általános anesztéziában végzett fogászati ellátás |
 
-## 46. urológia
+| 51 | 1400 | reumatológia |
 
-## 47. andrológia
+| 52 | 1502 | intenzív ellátás |
 
-## 48. klinikai onkológia
+| 53 | 1600 | infektológia |
 
-## 49. sugárterápia
+| 54 | 1601 | AIDS beteg ellátás |
 
-## 50. dento-alveoláris sebészet
+| 55 | 1603 | trópusi betegségek ellátása |
 
-## 51. általános anesztéziában végzett fogászati ellátás
+| 56 | 1700 | arc-, állcsont-szájsebészet |
 
-## 52. reumatológia
+| 57 | 1800 | pszichiátria |
 
-## 53. aneszteziológia és intenzív ellátás
+| 58 | 1801 | addiktológia |
 
-## 54. infektológia
+| 59 | 1900 | tüdőgyógyászat |
 
-## 55. AIDS betegek ellátása
+| 60 | 2000 | plasztikai helyreállító és esztétikai sebészet |
 
-## 56. trópusi betegségek ellátása
+| 61 | 2001 | égéssebészet (felnőtt) |
 
-## 57. sürgősségi betegellátó egységben szervezett szakellátás
+| 62 | 2002 | gyermek helyreállító plasztikai és égéssebészet |
 
-## 57/a.[^305] sürgősségi betegellátó egységben szervezett gyermek szakellátás
+| 63 | 2300 | gyermek- és ifjúságpszichiátria |
 
-## 58. pszichiátria
+| 64 | 2302 | gyermek- és ifjúsági addiktológia |
 
-## 59. addiktológia
+| 65 | 2501 | foglalkozás-egészségügy |
 
-## 60. tüdőgyógyászat
+| 66 | 4000 | kardiológia |
 
-## 61. foglalkozás-egészségügy
+| 67 | 4602 | sürgősségi betegellátó egységben szervezett szakellátás |
 
-## B)[^306] Krónikus fekvőbeteg-szakellátás, rehabilitációs fekvőbeteg-szakellátás, ápolás és hospice ellátás
+| 68 | 4603 | klinikai toxikológia |
 
-## 1. krónikus ellátási formában szakmai minimumfeltétellel rendelkező szakmák köre
+| 69 | 4605 | sürgősségi betegellátó egységben szervezett gyermek szakellátás |
 
-## 2. addiktológiai rehabilitáció
+## B) Krónikus fekvőbeteg-szakellátás, rehabilitációs fekvőbeteg-szakellátás, ápolás és hospice ellátás
 
-## 3.[^307]
+|  | A | B |
 
-## 4.[^308]
+| 1 | Szakma kód | Szakma megnevezése |
 
-## 5. gyermek rehabilitáció
+| 2 | 1804 | pszichiátriai rehabilitáció |
 
-## 6. gyermek- és ifjúságpszichiátriai rehabilitáció
+| 3 | 1806 | addiktológiai rehabilitáció |
 
-## 7. gyermek- és ifjúsági addiktológiai rehabilitáció
+| 4 | 1903 | tüdőgyógyászati és légzésrehabilitáció |
 
-## 8. kardiológiai rehabilitáció
+| 5 | 2200 | rehabilitációs medicina alaptevékenységek |
 
-## 9.[^309]
+| 6 | 2205 | gyermek rehabilitáció |
 
-## 9/a.[^310] rehabilitációs medicina alaptevékenység
+| 7 | 2206 | súlyos agykárosodottak rehabilitációja |
 
-## 10. súlyos agysérültek rehabilitációja
+| 8 | 2207 | gerincvelő károsodottak rehabilitációja |
 
-## 11.[^311] gerincvelősérültek rehabilitációja
+| 9 | 2208 | politraumatizáltak, égésbetegek és szeptikus sebészeti betegek rehabilitációja |
 
-## 12. politraumatizáltak, égésbetegek és szeptikus sebészeti betegek rehabilitációja
+| 10 | 2209 | súlyos központi idegrendszeri károsodottak, polytraumatizáltak és égésbetegek rehabilitációja gyermekkorban |
 
-## 13. súlyos központi idegrendszeri sérültek, politraumatizáltak és égésbetegek rehabilitációja gyermekkorban
+| 11 | 2301 | gyermek- és ifjúságpszichiátriai rehabilitáció |
 
-## 14–15.[^312]
+| 12 | 2303 | gyermek- és ifjúsági addiktológiai rehabilitáció |
 
-## 16. pszichiátriai rehabilitáció
+| 13 | 4003 | kardiológiai rehabilitáció |
 
-## 17. tüdőgyógyászati és légzésrehabilitáció
+| 14 | 7305 | szakápolás |
 
-## 18.[^313] szakápolás
+| 15 | 7306 | felnőtt hospice-palliatív ellátás |
 
-## 19.[^314] felnőtt hospice ellátás
+| 16 | 7310 | gyermek palliatív ellátás |
 
-## 20.[^315] gyermek palliatív ellátás
+3. számú melléklet a 337/2008. (XII. 30.) Korm. rendelethez[^294]
 
-3. számú melléklet a 337/2008. (XII. 30.) Korm. rendelethez[^316]
+Járóbeteg-szakellátásban finanszírozható szakmák köre
 
-[^294]: A 2. számú melléklet A) Aktív fekvőbeteg szakellátás rész 11. pontját a 94/2013. (III. 29.) Korm. rendelet 4. § (2) bekezdés a) pontja hatályon kívül helyezte.
-[^295]: A 2. számú melléklet A) rész 20/a. pontját a 41/2024. (II. 29.) Korm. rendelet 5. § (1) bekezdése iktatta be.
-[^296]: A 2. számú melléklet A) rész 26/a. pontját az 532/2023. (XII. 5.) Korm. rendelet 2. §-a iktatta be.
-[^297]: A 2. melléklet A) rész 28. sora a 92/2012. (IV. 27.) Korm. rendelet 26. § (1) bekezdése szerint módosított szöveg.
-[^298]: A 2. melléklet A) rész 28/a. sorát a 92/2012. (IV. 27.) Korm. rendelet 26. § (1) bekezdése iktatta be.
-[^299]: A 2. számú melléklet A rész 35/a. pontját a 447/2012. (XII. 29.) Korm. rendelet 55. § (1) bekezdése iktatta be.
-[^300]: A 2. melléklet A) rész 37. sora a 92/2012. (IV. 27.) Korm. rendelet 26. § (1) bekezdése szerint módosított szöveg.
-[^301]: A 2. melléklet A) rész 37/a. sorát a 92/2012. (IV. 27.) Korm. rendelet 26. § (1) bekezdése iktatta be.
-[^302]: A 2. számú melléklet A) rész 42. sora a 107/2012. (VI. 1.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^303]: A 2. melléklet A) rész 43. sora a 92/2012. (IV. 27.) Korm. rendelet 26. § (1) bekezdése szerint módosított szöveg.
-[^304]: A 2. melléklet A) rész 43/a. sorát a 92/2012. (IV. 27.) Korm. rendelet 26. § (1) bekezdése iktatta be.
-[^305]: A 2. számú melléklet A) rész 57/a. pontját a 41/2024. (II. 29.) Korm. rendelet 5. § (1) bekezdése iktatta be.
-[^306]: A 2. számú melléklet B) rész címe az 520/2013. (XII. 30.) Korm. rendelet 57. § (1) bekezdés m) pontjával megállapított szöveg.
-[^307]: A 2. melléklet B) Krónikus fekvőbeteg-szakellátás, rehabilitációs fekvőbeteg-szakellátás, ápolás és hospice ellátás rész 3. pontját az 520/2013. (XII. 30.) Korm. rendelet 56. § (1) bekezdése hatályon kívül helyezte.
-[^308]: A 2. számú melléklet B) rész 4. pontját a 364/2014. (XII. 30.) Korm. rendelet 74. § b) pontja hatályon kívül helyezte.
-[^309]: A 2. melléklet B) Krónikus fekvőbeteg-szakellátás, rehabilitációs fekvőbeteg-szakellátás, ápolás és hospice ellátás rész 9. pontját az 520/2013. (XII. 30.) Korm. rendelet 56. § (1) bekezdése hatályon kívül helyezte.
-[^310]: A 2. számú melléklet B) Krónikus fekvőbeteg-szakellátás, rehabilitációs fekvőbeteg-szakellátás, ápolás és hospice ellátás rész 9/a. pontját az 520/2013. (XII. 30.) Korm. rendelet 56. § (1) bekezdése iktatta be.
-[^311]: A 2. számú melléklet B) Krónikus fekvőbeteg-szakellátás rész 11. pontja a 94/2013. (III. 29.) Korm. rendelet 4. § (1) bekezdés a) pontjával megállapított szöveg.
-[^312]: A 2. melléklet B) Krónikus fekvőbeteg-szakellátás, rehabilitációs fekvőbeteg-szakellátás, ápolás és hospice ellátás rész 14–15. pontját az 520/2013. (XII. 30.) Korm. rendelet 56. § (1) bekezdése hatályon kívül helyezte.
-[^313]: A 2. számú melléklet B) Krónikus fekvőbeteg-szakellátás rész 18. pontja a 94/2013. (III. 29.) Korm. rendelet 4. § (1) bekezdés b) pontjával megállapított szöveg.
-[^314]: A 2. számú melléklet B) Krónikus fekvőbeteg-szakellátás rész 19. pontja a 94/2013. (III. 29.) Korm. rendelet 4. § (1) bekezdés c) pontjával megállapított szöveg.
-[^315]: A 2. számú melléklet B) Krónikus fekvőbeteg-szakellátás rész 20. pontját a 94/2013. (III. 29.) Korm. rendelet 3. §-a iktatta be.
-[^316]: A 3. számú mellékletet a 360/2009. (XII. 30.) Korm. rendelet 11. § (2) bekezdése iktatta be, szövege a 137/2012. (VI. 29.) Korm. rendelet 44. §-ával megállapított, a 447/2012. (XII. 29.) Korm. rendelet 55. § (2) bekezdése, a 94/2013. (III. 29.) Korm. rendelet 4. § (2) bekezdés b)–c) pontja, az 520/2013. (XII. 30.) Korm. rendelet 56. § (2)–(3) bekezdése, a 364/2014. (XII. 30.) Korm. rendelet 74. § c) pontja, a 172/2016. (VII. 1.) Korm. rendelet 32. §-a, a 757/2021. (XII. 22.) Korm. rendelet 9. §-a, a 41/2024. (II. 29.) Korm. rendelet 5. § (2) bekezdése, a 128/2024. (VI. 17.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^294]: A 3. számú mellékletet a 360/2009. (XII. 30.) Korm. rendelet 11. § (2) bekezdése iktatta be, szövege a 463/2024. (XII. 30.) Korm. rendelet 37. § (2) bekezdésével megállapított szöveg.

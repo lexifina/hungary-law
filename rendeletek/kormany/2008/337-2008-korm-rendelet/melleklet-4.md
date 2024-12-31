@@ -1,305 +1,295 @@
-## Járóbeteg-szakellátásban finanszírozható szakmák köre
-
 ## Az egészségbiztosító az alábbi szakmákra/szaktevékenységekre köthet finanszírozási szerződést:
 
-| 1. | belgyógyászat |
+|  | A | B |
 
-| 2. | angiológia, phlebológia, lymphológia |
+| 1 | Szakma kód | Szakma megnevezése |
 
-| 3. | haematológia |
+| 2 | 0100 | belgyógyászat |
 
-| 4. | endokrinológia, anyagcsere és diabetológia |
+| 3 | 0101 | angiológia, phlebológia, lymphológia |
 
-| 5. | endokrinológia |
+| 4 | 0102 | haematológia |
 
-| 6. | diabetológia |
+| 5 | 0103 | endokrinológia, anyagcsere és diabetológia |
 
-| 6/a. | dietetika |
+| 6 | 0104 | gasztroenterológia |
 
-| 7. | gasztroenterológia |
+| 7 | 0105 | nefrológia |
 
-| 8. | nefrológia |
+| 8 | 0106 | geriátria |
 
-| 9. | geriátria |
+| 9 | 0109 | allergológia és klinikai immunológia |
 
-| 10. | allergológia és klinikai immunológia |
+| 10 | 0113 | endokrinológia |
 
-| 11. | sebészet |
+| 11 | 0123 | diabetológia |
 
-| 11/a. | tüdő- és mellkassebészet |
+| 12 | 0200 | sebészet |
 
-| 12. | érsebészet |
+| 13 | 0202 | tüdő- és mellkassebészet |
 
-| 13. | idegsebészet |
+| 14 | 0203 | érsebészet |
 
-| 14. | szívsebészet |
+| 15 | 0204 | idegsebészet |
 
-| 15. | csecsemő- és gyermekszívsebészet |
+| 16 | 0205 | szívsebészet |
 
-| 16. | szülészet-nőgyógyászat |
+| 17 | 0215 | csecsemő- és gyermekszívsebészet |
 
-| 16/a. | szülésznői ellátás (intézeti) |
+| 18 | 0400 | szülészet-nőgyógyászat |
 
-| 16/b. | asszisztált reprodukció |
+| 19 | 0403 | asszisztált reprodukció |
 
-| 17. | csecsemő- és gyermekgyógyászat |
+| 20 | 0500 | csecsemő- és gyermekgyógyászat |
 
-| 18. | csecsemő- és gyermekkardiológia |
+| 21 | 0503 | csecsemő- és gyermekkardiológia |
 
-| 19. | gyermek-tüdőgyógyászat |
+| 22 | 0504 | gyermek-tüdőgyógyászat |
 
-| 20. | gyermek-gasztroenterológia |
+| 23 | 0505 | gyermek-gasztroenterológia |
 
-| 21. | gyermeksebészet |
+| 24 | 0506 | gyermeksebészet |
 
-| 22. | gyermeknőgyógyászat |
+| 25 | 0507 | gyermeknőgyógyászat |
 
-| 23. | gyermekszemészet |
+| 26 | 0508 | gyermekszemészet |
 
-| 24. | csecsemő és gyermek fül-, orr-, gégegyógyászat |
+| 27 | 0509 | csecsemő és gyermek fül-, orr-, gégegyógyászat |
 
-| 25. | gyermekradiológia |
+| 28 | 0510 | gyermekradiológia |
 
-| 26. | gyermekneurológia |
+| 29 | 0511 | gyermekneurológia |
 
-| 27. | fejlődésneurológia |
+| 30 | 0516 | gyermekhemato-onkológia |
 
-| 28. | fül-orr-gégegyógyászat |
+| 31 | 0521 | fejlődésneurológia |
 
-| 29. | audiológia |
+| 32 | 0600 | fül-orr-gégegyógyászat |
 
-| 30. | foniátria |
+| 33 | 0601 | audiológia |
 
-| 31. | otoneurológia |
+| 34 | 0602 | foniátria |
 
-| 32. | szemészet |
+| 35 | 0603 | otoneurológia |
 
-| 33. | bőr- és nemibeteg-ellátás |
+| 36 | 0700 | szemészet |
 
-| 34. | neurológia |
+| 37 | 0800 | bőr- és nemibeteg-ellátás |
 
-| 36. | klinikai neurofiziológia |
+| 38 | 0900 | neurológia |
 
-| 37. | alvásmedicina |
+| 39 | 0904 | klinikai neurofiziológia |
 
-| 38. | ortopédia |
+| 40 | 0905 | alvásmedicina |
 
-| 39. | gerincsebészet |
+| 41 | 1000 | ortopédia |
 
-| 40. | traumatológia |
+| 42 | 1001 | gerincsebészet |
 
-| 40/a. | gyermektraumatológia |
+| 43 | 1002 | traumatológia |
 
-| 41. | kézsebészet |
+| 44 | 1003 | kézsebészet |
 
-| 42. | urológia |
+| 45 | 1005 | gyermektraumatológia |
 
-| 43. | andrológia |
+| 46 | 1100 | urológia |
 
-| 44. | urodinamia |
+| 47 | 1101 | andrológia |
 
-| 45. | klinikai onkológia |
+| 48 | 1102 | urodinamia |
 
-| 46. | sugárterápia |
+| 49 | 1200 | klinikai onkológia |
 
-| 47. | fogászati ellátás (szakellátás) |
+| 50 | 1201 | sugárterápia |
 
-| 48. | dento-alveoláris sebészet |
+| 51 | 1300 | fogászati ellátás (szakellátás) |
 
-| 49. | fogszabályozás |
+| 52 | 1301 | dento-alveoláris sebészet |
 
-| 50. | parodontológia |
+| 53 | 1302 | fogszabályozás |
 
-| 51. | gyermekfogászat |
+| 54 | 1303 | parodontológia |
 
-| 52. | fogászati röntgen |
+| 55 | 1304 | gyermekfogászat |
 
-| 53. | konzerváló fogászat, fogpótlástan |
+| 56 | 1306 | fogászati röntgen |
 
-| 54. | általános anesztéziában végzett fogászati ellátás |
+| 57 | 1308 | konzerváló fogászat, fogpótlástan |
 
-| 55. | klinikai fogászati szájhigiénia |
+| 58 | 1400 | reumatológia |
 
-| 56. | reumatológia |
+| 59 | 1402 | fizioterápia (orvosi szakképesítéssel) |
 
-| 57. | fizioterápia (orvosi szakképesítéssel) |
+| 60 | 1404 | menopauza és oszteoporozis rendelés |
 
-| 58. | menopauza és oszteoporozis rendelés |
+| 61 | 1501 | aneszteziológia |
 
-| 60. | aneszteziológia |
+| 62 | 1503 | fájdalomterápia |
 
-| 61. | fájdalomterápia |
+| 63 | 1600 | infektológia |
 
-| 62. | infektológia |
+| 64 | 1601 | AIDS beteg ellátás |
 
-| 63. | AIDS beteg ellátás |
+| 65 | 1602 | HIV/AIDS szűrés |
 
-| 64. | HIV/AIDS szűrés |
+| 66 | 1603 | trópusi betegségek ellátása |
 
-| 65. | trópusi betegségek ellátása |
+| 67 | 1700 | arc-állcsont-szájsebészet |
 
-| 66. | arc-állcsont-szájsebészet |
+| 68 | 1800 | pszichiátria |
 
-| 67. | pszichiátria |
+| 69 | 1801 | addiktológia |
 
-| 68. | addiktológia |
+| 70 | 1804 | pszichiátriai rehabilitáció |
 
-| 69. | addiktológiai rehabilitáció |
+| 71 | 1806 | addiktológiai rehabilitáció |
 
-| 70. | pszichiátriai rehabilitáció |
+| 72 | 1900 | tüdőgyógyászat |
 
-| 71. | tüdőgyógyászat |
+| 73 | 1903 | tüdőgyógyászati és légzésrehabilitáció |
 
-| 72. | tüdőszűrés |
+| 74 | 1904 | tüdőszűrés |
 
-| 73. | plasztikai helyreállító és esztétikai sebészet |
+| 75 | 2000 | plasztikai helyreállító és esztétikai sebészet |
 
-| 74. | égéssebészet |
+| 76 | 2001 | égéssebészet |
 
-| 75. | gyermek plasztikai és égéssebészet |
+| 77 | 2002 | gyermek plasztikai és égéssebészet |
 
-| 76. |  |
+| 78 | 2200 | rehabilitációs medicina alaptevékenység |
 
-| 76/a. | rehabilitációs medicina alaptevékenység |
+| 79 | 2205 | gyermek rehabilitáció |
 
-| 77. |  |
+| 80 | 2300 | gyermek- és ifjúságpszichiátria |
 
-| 78. |  |
+| 81 | 2301 | gyermek- és ifjúságpszichiátriai rehabilitáció |
 
-| 79. |  |
+| 82 | 2302 | gyermek- és ifjúságaddiktológia |
 
-| 80. | gyermek rehabilitáció |
+| 83 | 2303 | gyermek- és ifjúságaddiktológiai rehabilitáció |
 
-| 81. |  |
+| 84 | 2501 | foglalkozás-egészségügyi szakellátás |
 
-| 82. | kardiológiai rehabilitáció |
+| 85 | 4000 | kardiológia |
 
-| 83. | tüdőgyógyászati és légzésrehabilitáció |
+| 86 | 4003 | kardiológiai rehabilitáció |
 
-| 84. | gyermek- és ifjúságpszichiátria |
+| 87 | 5000 | orvosi laboratóriumi diagnosztika |
 
-| 85. | gyermek- és ifjúságpszichiátriai rehabilitáció |
+| 88 | 5003 | mikrobiológiai laboratóriumi diagnosztika |
 
-| 86. | gyermek- és ifjúságaddiktológia |
+| 89 | 5006 | molekuláris genetikai laboratóriumi diagnosztika |
 
-| 87. | gyermek- és ifjúságaddiktológiai rehabilitáció |
+| 90 | 5100 | röntgendiagnosztika |
 
-| 88. | foglalkozás-egészségügyi szakellátás |
+| 91 | 5102 | mammográfia |
 
-| 89. | kardiológia |
+| 92 | 5103 | angiográfiás diagnosztika |
 
-| 90. | orvosi laboratóriumi diagnosztika |
+| 93 | 5108 | CT diagnosztika |
 
-| 91. |  |
+| 94 | 5109 | MRI diagnosztika |
 
-| 92. | mikrobiológiai laboratóriumi diagnosztika |
+| 95 | 5203 | vaszkuláris intervenciós radiológia |
 
-| 93. |  |
+| 96 | 5204 | intervenciós onkoradiológia |
 
-| 94. | molekuláris genetikai laboratóriumi diagnosztika |
+| 97 | 5205 | intervenciós neuroradiológia |
 
-| 95. | röntgendiagnosztika |
+| 98 | 5206 | egyéb intervenciós radiológia |
 
-| 96. | mammográfia |
+| 99 | 5301 | teljeskörű ultrahang-diagnosztika |
 
-| 97. | angiográfiás diagnosztika |
+| 100 | 5303 | echokardiográfia |
 
-| 98. | CT diagnosztika |
+| 101 | 5304 | szülészeti és nőgyógyászati ultrahang-diagnosztika |
 
-| 99. | MRI diagnosztika |
+| 102 | 5305 | gasztroenterológiai ultrahang diagnosztika |
 
-| 100. | vaszkuláris intervenciós radiológia |
+| 103 | 5306 | szemészeti ultrahang diagnosztika |
 
-| 101. | intervenciós onkoradiológia |
+| 104 | 5307 | neurológiai ultrahang diagnosztika |
 
-| 102. | intervenciós neuroradiológia |
+| 105 | 5308 | urológiai ultrahang diagnosztika |
 
-| 103. | egyéb intervenciós radiológia |
+| 106 | 5400 | kórbonctan és kórszövettan |
 
-| 104. | teljeskörű ultrahang-diagnosztika |
+| 107 | 5401 | szövettan, kórszövettan |
 
-| 105. | echokardiográfia |
+| 108 | 5402 | cytológia, cytopatológia |
 
-| 106. | szülészeti és nőgyógyászati ultrahang-diagnosztika |
+| 109 | 5403 | aspirációs cytológia |
 
-| 107. | gasztroenterológiai ultrahang diagnosztika |
+| 110 | 5404 | immunhisztológia |
 
-| 108. | szemészeti ultrahang diagnosztika |
+| 111 | 5405 | neuropatológia |
 
-| 109. | neurológiai ultrahang diagnosztika |
+| 112 | 5413 | tüdő és/vagy pajzsmirigy aspirációs cytológia, cytopatológia |
 
-| 110. | urológiai ultrahang diagnosztika |
+| 113 | 5603 | szén-dioxid gázzal végzett terápia |
 
-| 111. | kórbonctan és kórszövettan |
+| 114 | 5604 | hiperbárikus oxigén terápia |
 
-| 112. | szövettan, kórszövettan |
+| 115 | 5700 | fizioterápia-gyógytorna |
 
-| 113. | cytológia, cytopatológia |
+| 116 | 5703 | hydroterápia |
 
-| 114. | aspirációs cytológia |
+| 117 | 5704 | elektroterápia |
 
-| 115. | tüdő és/vagy pajzsmirigy aspirációs cytológia, cytopatológia |
+| 118 | 5706 | balneoterápia |
 
-| 116. | immunhisztológia |
+| 119 | 5707 | thermoterápia |
 
-| 117. | neuropatológia |
+| 120 | 5708 | magneto-, fototerápia |
 
-| 118. | szén-dioxid gázzal végzett terápia |
+| 121 | 5710 | víz alatti gyógytorna |
 
-| 119. | hiperbárikus oxigén terápia |
+| 122 | 5711 | gyógytorna |
 
-| 120. | fizioterápia-gyógytorna |
+| 123 | 5712 | gyógymasszázs |
 
-| 121. | hydroterápia |
+| 124 | 5722 | fizikoterápia/fizioterápia (asszisztensi tevékenységként) |
 
-| 122. | gyógytorna |
+| 125 | 6101 | transzfúziológia |
 
-| 123. | balneoterápia |
+| 126 | 6500 | izotópdiagnosztika |
 
-| 124. | thermoterápia |
+| 127 | 6501 | radioizotópos terápia |
 
-| 125. | magneto-, fototerápia |
+| 128 | 6503 | PET-CT |
 
-| 126. | elektroterápia |
+| 129 | 6700 | klinikai genetika |
 
-| 127. | víz alatti gyógytorna |
+| 130 | 6701 | genetikai tanácsadás |
 
-| 128. | gyógymasszázs |
+| 131 | 7101 | klinikai és mentálhigiéniai szakpszichológia |
 
-| 129. | fizikoterápia/fizioterápia (asszisztensi tevékenységként) |
+| 132 | 7104 | pszichoterápia |
 
-| 130. | transzfúziológia |
+| 133 | 7106 | neuropszichológia |
 
-| 131. | izotópdiagnosztika |
+| 134 | 7107 | klinikai addiktológiai szakpszichológia |
 
-| 132. | radioizotópos terápia |
+| 135 | 7201 | logopédia |
 
-| 133. | PET-CT |
+| 136 | 7202 | gyógypedagógia |
 
-| 134. | klinikai genetika |
+| 137 | 7203 | konduktori tevékenység |
 
-| 135. | genetikai tanácsadás |
+| 137 | 7308 | szülésznői ellátás (intézeti) |
 
-| 136. |  |
+| 139 | 7311 | klinikai fogászati higiénia |
 
-| 137. | klinikai és mentálhigiéniai szakpszichológia |
+| 140 | 7600 | dietetika |
 
-| 138. | pszichoterápia |
+| 141 | 8101 | hippoterápia |
 
-| 139. | logopédia |
+| 142 | 8102 | gyógypedagógiai lovaglás és lovastorna |
 
-| 140. | gyógypedagógia |
+| 142 | 8103 | pszichológiai lovasterápia |
 
-| 141. | konduktori tevékenység |
+| 143 | 9504 | egészségbiztosítási orvostan |
 
-| 142. | egészségbiztosítási orvosszakértés |
+4. számú melléklet a 337/2008. (XII. 30.) Korm. rendelethez[^295]
 
-| 143. | neuropszichológia |
-
-| 144. | klinikai addiktológiai szakpszichológia |
-
-| 145. | nem humán-asszisztált terápiák |
-
-4. számú melléklet a 337/2008. (XII. 30.) Korm. rendelethez[^317]
-
-[^317]: A 4. számú mellékletet a 325/2011. (XII. 28.) Korm. rendelet 71. § (1) bekezdése iktatta be, szövege a 447/2012. (XII. 29.) Korm. rendelet 55. § (3) bekezdésével megállapított, a 371/2020. (VII. 30.) Korm. rendelet 16. §-a, a 616/2022. (XII. 29.) Korm. rendelet 96. § b) és c) pontja szerint módosított szöveg.
+[^295]: A 4. számú mellékletet a 325/2011. (XII. 28.) Korm. rendelet 71. § (1) bekezdése iktatta be, szövege a 447/2012. (XII. 29.) Korm. rendelet 55. § (3) bekezdésével megállapított, a 371/2020. (VII. 30.) Korm. rendelet 16. §-a, a 616/2022. (XII. 29.) Korm. rendelet 96. § b) és c) pontja szerint módosított szöveg.
