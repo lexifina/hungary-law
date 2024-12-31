@@ -1,4 +1,4 @@
-3/A. melléklet a 14/2016. (V. 10.) BM rendelethez[^78]
+3/A. melléklet a 14/2016. (V. 10.) BM rendelethez[^80]
 
 Az idegenrendészeti szerv hivatásos állományára vonatkozó ruházati ellátási normák
 
@@ -120,4 +120,4 @@ Az idegenrendészeti szerv hivatásos állományára vonatkozó ruházati ellát
 
 | 7 | 10M e. r. gyakorló zubbony, felirattal | 2028. 12. 31. |
 
-[^78]: A 3/A. mellékletet a 47/2019. (XII. 18.) BM rendelet 3. §-a iktatta be, szövege a 46/2024. (IX. 26.) BM rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^80]: A 3/A. mellékletet a 47/2019. (XII. 18.) BM rendelet 3. §-a iktatta be, szövege a 46/2024. (IX. 26.) BM rendelet 14. § (2) bekezdésével megállapított szöveg.

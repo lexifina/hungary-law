@@ -2,7 +2,7 @@
 
 (2) A felszerelők alapfelszerelési ellátmányának, valamint az alapellátás-kiegészítési ellátmány összegét a Központi Ellátó Szerv által kiadott árjegyzék egységárait alapul véve kell kiszámítani.
 
-(3)[^25] Az igényjogosult alapfelszerelését, valamint alapellátás-kiegészítését a végrehajtó szervezeti egység és a középfokú szakirányító szerv – a központosított beszerzésű termékek esetében a Központi Ellátó Szerven keresztül – biztosítja. Az igényjogosultnak egyenruha beszerzése céljából szükség esetén a szolgálati helyéről a kijelölt ellátási helyre történő utazása és onnan való visszautazása – a webáruház használatának elrendeléséig évente egy alkalommal – szolgálati célú utazásnak minősül.
+(3)[^26] Az igényjogosult alapfelszerelését, valamint alapellátás-kiegészítését a végrehajtó szervezeti egység és a középfokú szakirányító szerv – a központosított beszerzésű termékek esetében a Központi Ellátó Szerven keresztül – biztosítja. Az igényjogosultnak egyenruha beszerzése céljából szükség esetén a szolgálati helyéről a kijelölt ellátási helyre történő utazása és onnan való visszautazása – a webáruház használatának elrendeléséig évente egy alkalommal – szolgálati célú utazásnak minősül.
 
 (4) Alapfelszereléskor és alapellátás-kiegészítés során az igényjogosult részére konfekcionált vagy – indokolt esetben – méretes ruházati termékeket kell biztosítani. A társasági ruházat, valamint a méretes ruházatok, illetve lábbelik beszerzési ára csak azokra a ruházati termékekre és felszerelési cikkekre fizethető ki, amelyekből az igényjogosult méretére konfekcionált kivitelű nem áll rendelkezésre.
 
@@ -18,4 +18,4 @@ b) drágábban szerzi be, úgy az árváltozás összegét a ruházati nyilvánt
 
 (8) Ha az igényjogosult a kifizetett forintösszeg felhasználásáról a szolgálati hely szerint illetékes ruházati szakszolgálat felé – az erre kijelölt időn belül a vásárlást, anyagkiadást bizonyító dokumentum bemutatásával – nem számol el, az el nem számolt összeg forintértékét túlellátásként kell számára előjegyezni, amit az esedékessé váló ruházati utánpótlási ellátmányból le kell vonni.
 
-[^25]: A 14. § (3) bekezdése a 29/2017. (XI. 6.) BM rendelet 12. § d) pontja szerint módosított szöveg.
+[^26]: A 14. § (3) bekezdése a 29/2017. (XI. 6.) BM rendelet 12. § d) pontja szerint módosított szöveg.
