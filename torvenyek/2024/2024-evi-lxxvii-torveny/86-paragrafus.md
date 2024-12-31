@@ -8,7 +8,7 @@
 
 4.
 
-5. 86. § (2) bekezdés c) pont nyitó szövegrészében az „–, és” szövegrész helyébe a „–, vagy a 33. § (6) bekezdése szerint megtett hozzájáruló nyilatkozatát visszavonta, és” szöveg,
+5.
 
 6.
 
@@ -34,6 +34,6 @@
 
 17.
 
-18. 350. § (4) bekezdésében a „2024” szövegrész helyébe a „2025” szöveg és a „választása alapján szabadidő vagy díjazás illeti meg. A” szövegrész helyébe a „szabadidő vagy díjazás illeti meg. Az ellentételezés formájáról – a szolgálatszervezés érdekeire figyelemmel, a hivatásos állomány tagja igényének, a pihenéshez való jog, a szolgálatteljesítés és a pihenőidő egyensúlya biztosításának, valamint a költségvetési forrásokkal való felelős gazdálkodás követelményének figyelembevétele mellett – az állományilletékes parancsnok dönt. A” szöveg
+18.
 
 lép.
