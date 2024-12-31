@@ -194,7 +194,7 @@
 
 2.21. Magyar Közlöny Lap- és Könyvkiadó Kft.,
 
-2.22.[^24] NISZ Nemzeti Infokommunikációs Szolgáltató Zrt. és a közvetlen irányítása alatt álló Pro-M Professzionális Mobilrádió Zrt., IdomSoft Informatikai Zrt.,),
+2.22.[^24] NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.,
 
 2.23. Győr-Sopron-Ebenfurti Vasút Zrt., GySev Cargo Zrt. és ezek háttérintézményei,
 
@@ -282,6 +282,10 @@
 
 2.65.[^38] Országos Fordító és Fordításhitelesítő Iroda Zrt.
 
+2.66.[^39] Pro-M Professzionális Mobilszolgáltató Zártkörűen Működő Részvénytársaság,
+
+2.67.[^40] IdomSoft Informatikai Zrt.
+
 [^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdés alapján hatályát vesztette.
 [^2]: Az 1. melléklet 1. pont 1.22. alpontja az 1604/2019. (X. 16.) Korm. határozat 1. pontja szerint módosított szöveg.
 [^3]: Az 1. melléklet 1. pont 1.31. alpontja az 1853/2016. (XII. 27.) Korm. határozat 64. pont a) alpontjával megállapított szöveg.
@@ -305,7 +309,7 @@
 [^21]: Az 1. melléklet 2. pont 2.5. alpontját az 1604/2019. (X. 16.) Korm. határozat 1. pontja hatályon kívül helyezte.
 [^22]: Az 1. melléklet 2. pont 2.6. alpontját az 1604/2019. (X. 16.) Korm. határozat 1. pontja hatályon kívül helyezte.
 [^23]: Az 1. melléklet 2. pont 2.7. alpontja az 1604/2019. (X. 16.) Korm. határozat 1. pontja szerint módosított szöveg.
-[^24]: Az 1. melléklet 2.22. pontja az 1421/2023. (IX. 29.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^24]: Az 1. melléklet 2. pont 2.22. alpontja az 1421/2023. (IX. 29.) Korm. határozat 1. pontja, az 1450/2024. (XII. 31.) Korm. határozat 3. pontja szerint módosított szöveg.
 [^25]: Az 1. melléklet 2. pont 2.39. alpontja az 1604/2019. (X. 16.) Korm. határozat 1. pontja szerint módosított szöveg.
 [^26]: Az 1. melléklet 2. pont 2.40. alpontja az 1604/2019. (X. 16.) Korm. határozat 1. pontja szerint módosított szöveg.
 [^27]: Az 1. melléklet 2. pont 2.42. alpontját az 1378/2022. (VII. 29.) Korm. határozat 4. pontja hatályon kívül helyezte.
@@ -320,3 +324,5 @@
 [^36]: Az 1. melléklet 2. pont 2.63. alpontját az 1604/2019. (X. 16.) Korm. határozat 1. pontja iktatta be.
 [^37]: Az 1. melléklet 2. pont 2.64. alpontját az 1604/2019. (X. 16.) Korm. határozat 1. pontja iktatta be.
 [^38]: Az 1. melléklet 2. pont 2.65. alpontját az 1604/2019. (X. 16.) Korm. határozat 1. pontja iktatta be.
+[^39]: Az 1. melléklet 2. pont 2.66. alpontját az 1450/2024. (XII. 31.) Korm. határozat 2. pontja iktatta be.
+[^40]: Az 1. melléklet 2. pont 2.67. alpontját az 1450/2024. (XII. 31.) Korm. határozat 2. pontja iktatta be.
