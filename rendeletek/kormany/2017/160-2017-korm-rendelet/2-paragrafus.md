@@ -12,7 +12,7 @@ d) a Magyar Egészségügyi Szakdolgozói Kamara 1 főt és
 
 e) a b) pont szerinti egyetemek hallgatói önkormányzatainak tisztségviselői közül a Hallgatói Önkormányzatok Országos Konferenciája 1 főt
 
-## delegál.
+delegál.
 
 (3) A Bizottság tagjait a miniszter kéri fel három évre.
 
