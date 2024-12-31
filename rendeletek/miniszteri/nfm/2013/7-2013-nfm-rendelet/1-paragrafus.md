@@ -8,12 +8,12 @@ c) TÁMOP: a 2007–2013. évekre kiterjedő időszakra elfogadott Társadalmi M
 
 d) TIOP: a 2007–2013. évekre kiterjedő időszakra elfogadott Társadalmi Infrastruktúra Operatív Program alapján a Kormány határozatában megállapított akciótervben nevesített projekt;
 
-e)[^1] KÖFOP: a 2014–2020. évekre kiterjedő időszakra elfogadott Közigazgatás- és Közszolgáltatás-fejlesztési Operatív Program alapján a Kormány határozatában megállapított akciótervben nevesített projekt;
+e)[^2] KÖFOP: a 2014–2020. évekre kiterjedő időszakra elfogadott Közigazgatás- és Közszolgáltatás-fejlesztési Operatív Program alapján a Kormány határozatában megállapított akciótervben nevesített projekt;
 
-f)[^2] VEKOP: a 2014–2020. évekre kiterjedő időszakra elfogadott Versenyképes Közép-Magyarország Operatív Program alapján a Kormány határozatában megállapított akciótervben nevesített projekt;
+f)[^3] VEKOP: a 2014–2020. évekre kiterjedő időszakra elfogadott Versenyképes Közép-Magyarország Operatív Program alapján a Kormány határozatában megállapított akciótervben nevesített projekt;
 
-g)[^3] virtuális infrastruktúra: az IAAS szintig terjedő üzemeltetés, amely a szoftverek tekintetében nem tartalmazza az operációs rendszert és adatbáziskezelő rendszer üzemeltetését, azonban tartalmazza a virtualizáció és a hardver infrastruktúra működtetéséhez tartozó szoftvereket.
+g)[^4] virtuális infrastruktúra: az IAAS szintig terjedő üzemeltetés, amely a szoftverek tekintetében nem tartalmazza az operációs rendszert és adatbáziskezelő rendszer üzemeltetését, azonban tartalmazza a virtualizáció és a hardver infrastruktúra működtetéséhez tartozó szoftvereket.
 
-[^1]: Az 1. § e) pontját a 37/2017. (XII. 27.) BM rendelet 1. §-a iktatta be.
-[^2]: Az 1. § f) pontját a 37/2017. (XII. 27.) BM rendelet 1. §-a iktatta be.
-[^3]: Az 1. § g) pontját a 37/2017. (XII. 27.) BM rendelet 1. §-a iktatta be.
+[^2]: Az 1. § e) pontját a 37/2017. (XII. 27.) BM rendelet 1. §-a iktatta be.
+[^3]: Az 1. § f) pontját a 37/2017. (XII. 27.) BM rendelet 1. §-a iktatta be.
+[^4]: Az 1. § g) pontját a 37/2017. (XII. 27.) BM rendelet 1. §-a iktatta be.

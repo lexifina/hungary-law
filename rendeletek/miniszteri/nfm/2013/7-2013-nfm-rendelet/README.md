@@ -46,3 +46,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-7-20-2W
 | 2023-07-25 | 2013-7-20-2W.38 | 16/2023. (VII. 24.) MK rendelet |
 | 2023-12-30 | 2013-7-20-2W.39 | 31/2023. (XII. 29.) MK rendelet |
 | 2024-08-09 | 2013-7-20-2W.40 | 46/2015. (VII. 28.) BM rendelet |
+| 2024-12-31 | 2013-7-20-2W.41 | 341/2024. (XI. 14.) Korm. rendelet |
