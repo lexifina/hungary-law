@@ -22,11 +22,11 @@ d)[^31]
 
 (7)[^33] A Budapesten kívül működő közjegyző – az illetékességi területén – a székhelyén kívüli településen is tarthat fenn hivatali helyiséget.
 
-(8)[^34] Az azonos székhelyre kinevezett 2 vagy több közjegyző tagból álló közös közjegyzői iroda – az illetékességi területén – a közjegyzői iroda székhelyén kívül is tarthat fenn hivatali helyiséget. A közös közjegyzői iroda hivatás gyakorlására való alkalmasságának feltételeit a közjegyzői iroda székhelye és a közjegyzői iroda székhelyén kívüli hivatali helyiség együttesen is teljesítheti.
+(8)[^34] Az azonos székhelyre kinevezett 2 vagy több közjegyző tagból álló közös közjegyzői iroda – az illetékességi területén (a fővárosban a működési körzetében) – a közjegyzői iroda székhelyén kívül is tarthat fenn hivatali helyiséget. A közös közjegyzői iroda hivatás gyakorlására való alkalmasságának feltételeit a közjegyzői iroda székhelye és a közjegyzői iroda székhelyén kívüli hivatali helyiség együttesen is teljesítheti.
 
 [^29]: A Vhr. 7. §-a az 55/2007. (XII. 21.) IRM rendelet 1. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 6. § (3) bekezdését és 7. §-át.
 [^30]: A Vhr. 7. § (1) bekezdése a 20/2017. (XII. 21.) IM rendelet 4. § (2) bekezdésével megállapított szöveg.
 [^31]: A Vhr. 7. § (2) bekezdés d) pontját a 20/2017. (XII. 21.) IM rendelet 4. § (9) bekezdés a) pontja hatályon kívül helyezte.
 [^32]: A Vhr. 7. § (6) bekezdése a 6/2010. (III. 12.) IRM rendelet 2. § a) pontja szerint módosított szöveg.
 [^33]: A Vhr. 7. § (7) bekezdését a 21/2014. (III. 13.) KIM rendelet 7. § (1) bekezdése iktatta be.
-[^34]: A 7. § (8) bekezdését a 13/2023. (IX. 21.) IM rendelet 1. §-a iktatta be.
+[^34]: A Vhr. 7. § (8) bekezdését a 13/2023. (IX. 21.) IM rendelet 1. §-a iktatta be, szövege a 29/2024. (XII. 30.) IM rendelet 2. § a) pontja szerint módosított szöveg.
