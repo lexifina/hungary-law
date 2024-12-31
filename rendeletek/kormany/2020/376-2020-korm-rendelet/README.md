@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-376-20-
 | 2021-06-22 | 2020-376-20-22.4 | 312/2021. (VI. 7.) Korm. rendelet |
 | 2023-01-01 | 2020-376-20-22.5 | 616/2022. (XII. 29.) Korm. rendelet |
 | 2023-12-31 | 2020-376-20-22.6 | 633/2023. (XII. 23.) Korm. rendelet |
+| 2024-12-31 | 2020-376-20-22.7 | 463/2024. (XII. 30.) Korm. rendelet |
