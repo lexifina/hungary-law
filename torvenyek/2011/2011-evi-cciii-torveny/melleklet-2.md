@@ -2,217 +2,225 @@
 
 Az egyéni választókerületek sorszáma, székhelye és területi beosztása
 
-Budapest
+## Budapest
 
-01. számú országgyűlési egyéni választókerület
+## 01. számú országgyűlési egyéni választókerület
 
-Rövidítése: Budapest 01. OEVK
+## Rövidítése: Budapest 01. OEVK
 
-Székhelye: V. kerület
+## Székhelye: V. kerület
 
-Területe:
+## Területe:
 
-1. Az I. kerület teljes területe, amelynek határa: A Duna középvonalától a Csalogány utcán halad a Széna térig, a Széna tér délkeleti oldalán a Vérmező útig, ezen végig az Attila útig, innen a Krisztina körúton, majd az Alkotás utcán a Márvány utcáig, a Márvány utcán tovább a Győri útig, a Győri úton, majd az Avar utcán és az Alsóhegyi utcán a Somlói útig, ezen, majd a Mihály utcán a Gyula utcáig, a Gyula utcán a Számadó utcáig, majd a Számadó utcán a Szirtes útig, a Szirtes úton a Citadella csúcsáig és innen a Duna középvonalára vont merőleges vonalon a Duna közepéig, a középvonalon észak felé a kiindulási pontig körbezárt terület.
+## 1. I. kerület
 
-2. Az V. kerület teljes területe, amelynek határa: A Duna középvonalától a Margit hídon és a Jászai Mari téren át a Szent István körúton halad a Nyugati térig, majd a téren át ennek nyugati oldalán és a Bajcsy-Zsilinszky úton a Deák Ferenc térig, a Deák Ferenc téren át a Károly körúton a Kossuth Lajos utcáig, majd a Múzeum körúton át a Kálvin térig, a Kálvin tér nyugati oldalán az épületek vonalán a Vámház körútig, a Vámház körúton és ennek folytatásában a Fővám téren és a Szabadság hídon át a Duna középvonaláig, innen a Duna középvonalán a kiindulási pontig körbezárt terület.
+## 2. Az V. kerület választókerülethez tartozó részének határvonala: A Duna mederközépvonalának és az Erzsébet híd tengelyvonalának metszéspontjától az Erzsébet híd tengelyvonala, majd folytatásában a Szabad sajtó út tengelyvonala, majd folytatásában a Kossuth Lajos utca tengelyvonala az V. kerület a Múzeum körúton áthaladó határvonalának metszéspontjáig, a metszésponttól az V. kerület határvonala az óramutató járásával ellentétes irányban a kiindulási pontig.
 
-3. A VIII. kerület választókerülethez tartozó részének határa: A Kálvin tér északkeleti oldalán az Üllői útig, az Üllői úton a József körútig, a József körút páratlan házszámozású oldalán haladva a Rákóczi útig, majd a Rákóczi úton a Múzeum körútig, ezen át a Kálvin téri kiindulási pontig körbezárt terület.
+## 3. A VI. kerület választókerülethez tartozó részének határvonala: A Teréz körút és a Király utca tengelyvonalainak metszéspontjától a Teréz körúton haladó villamosvonal pályatengelye a Nyugati tér irányában a VI. kerület határvonalának metszéspontjáig, a metszésponttól a VI. kerület határvonala az óramutató járásával ellentétes irányban a kiindulási pontig.
 
-4. A IX. kerület választókerülethez tartozó részének határa: A Kálvin tér északkeleti, majd nyugati oldalán az épületek vonalán a Vámház körútig, a Vámház körút páratlan házszámozású oldalán a Fővám térig, és ennek folytatásában a Szabadsághíd dunai középvonaláig, erre merőlegesen a Duna középvonalát követve déli irányban a Dandár utca, valamint folytatásában a Dandár köz páros házszámozású oldalának Dunára merőleges elméleti meghosszabbításának metszéspontjáig, a Dandár köz, majd a Dandár utca és a Thaly Kálmán utca páros házszámozású oldalán az Üllői útig, az Üllői úton a kiindulási pontig körbezárt terület.
+## 4. A VII. kerület választókerülethez tartozó részének határvonala: Az Erzsébet körút és a Király utca tengelyvonalainak metszéspontjától az Erzsébet körút tengelyvonala az Erzsébet körút és a Rákóczi út tengelyvonalainak metszéspontjáig, a metszésponttól a VII. kerület határvonala az óramutató járásával megegyező irányban a kiindulási pontig.
 
-02. számú országgyűlési egyéni választókerület
+## 5. A XI. kerület választókerülethez tartozó részének határvonala: A Déli összekötő vasúti híd pályatengelyének és a Duna mederközépvonalának metszéspontjától az 1-es számú vasúti fővonal pályatengelye a Karolina út tengelyvonalának metszéspontjáig, a Karolina út tengelyvonala a Bocskai útig, a Bocskai út tengelyvonala és annak elméleti meghosszabbítása a rá merőleges Budaörsi út tengelyvonalának metszéspontjáig, a Budaörsi út tengelyvonala a BAH-csomópont irányában a Budaörsi út tengelyvonalának és a XI. kerület határvonalának metszéspontjáig, a metszésponttól a XI. kerület határvonala az óramutató járásával megegyező irányban a kiindulási pontig.
 
-Rövidítése: Budapest 02. OEVK
+## 6. A XII. kerület választókerülethez tartozó részének határvonala: A Hegyalja út és az Alkotás utca pályatengelyeinek metszéspontjától az Alkotás utca tengelyvonala az Alkotás utca és a Márvány utca tengelyvonalainak, valamint a XII. kerület határának metszéspontjáig, a metszésponttól a XII. kerület határvonala az óramutató járásával megegyező irányban a kiindulási pontig.
 
-Székhelye: XI. kerület
+## 02. számú országgyűlési egyéni választókerület
 
-Területe:
+## Rövidítése: Budapest 02. OEVK
 
-A XI. kerület választókerülethez tartozó részének határa: A Duna középvonalától merőlegesen halad a Citadella csúcsáig, a Szirtes útig, innen a Szirtes úton a Számadó utcáig, ezen a Gyula utcáig, a Gyula utcán, majd a Mihály utcán a Somlói útig, a Somlói úton és az Alsóhegy utcán az Avar utcáig, az Avar utcán a Hegyalja útig, a Hegyalja úton a Meredek utcáig, a Meredek utcán és a Fátra tér északkeleti oldalán végig halad vissza a Hegyalja útig, a Hegyalja úton a Németvölgyi útig, innen a XII. kerület régi határvonalán a Németvölgyi úton, az Érdi úton, a Törökbálinti úton az Irhás árokig, az Irhás árokban a Kakukkhegyi útig, a Kakukkhegyi úton a Kakukkhegyi erdősorig, a Kakukkhegyi erdősoron tovább mindenütt a régi határvonalat követve Budaörs határáig, innen a Felső határúton a régi fővárosi határvonalon halad a budaörsi irányba haladó MÁV vasútvonalig, a MÁV vasútvonalon a Kelenföldi pályaudvarig, a Kelenföldi pályaudvartól az Etele tér északi oldalán halad az Etele út páratlan házszámozású oldalán a Tétényi útig, majd az Etele út középvonalán a Petzvál József utcáig, a Petzvál József utca páratlan házszámozású oldalán a Mérnök utcáig, a Mérnök utca páros házszámozású oldalán a Mohai útig, a Mohai út páratlan házszámozású oldalán a Sárbogárdi útig, majd a MÁV vasútvonal vonalán keleti irányban haladva (a Sárbogárdi és Dombóvári úttal párhuzamosan) a Déli összekötő vasúti híd és a Duna középvonalának metszéspontjáig, a Duna középvonalától északi irányba a kiindulási pontig körbezárt terület.
+## Székhelye: VIII. kerület
 
-03. számú országgyűlési egyéni választókerület
+## Területe:
 
-Rövidítése: Budapest 03. OEVK
+## 1. Az V. kerület választókerülethez tartozó részének határvonala: A Duna mederközépvonalának és az Erzsébet híd tengelyvonalának metszéspontjától az Erzsébet híd tengelyvonala, majd folytatásában a Szabad sajtó út tengelyvonala, majd folytatásában a Kossuth Lajos utca tengelyvonala az V. kerület a Múzeum körúton áthaladó határvonalának metszéspontjáig, a metszésponttól az V. kerület határvonala az óramutató járásával megegyező irányban a kiindulási pontig.
 
-Székhelye: XII. kerület
+## 2. A VIII. kerület választókerülethez tartozó részének határvonala: Az 1-es számú vasúti fővonal pályatengelyének és a Könyves Kálmán körút tengelyvonalának metszéspontjától az 1-es számú vasúti fővonal pályatengelye a Kerepesi út tengelyvonaláig, a Kerepesi út tengelyvonala, majd folytatásában a Baross téri főút tengelyvonala a Baross téri felüljáró tengelyvonaláig, a Baross téri felüljáró tengelyvonala a tengelyvonal és a VIII. kerület határvonalának metszéspontjáig, a metszésponttól a VIII. kerület határvonala az óramutató járásával ellentétes irányban a kiindulási pontig.
 
-Területe:
+## 3. A IX. kerület választókerülethez tartozó részének határvonala: Az Üllői út és a Könyves Kálmán körút tengelyvonalainak metszéspontjától a Könyves Kálmán körút tengelyvonala, majd folytatásában a Rákóczi híd tengelyvonala a tengelyvonal és a IX. kerület határvonalának metszéspontjáig, a metszésponttól a IX. kerület határvonala az óramutató járásával megegyező irányban a kiindulási pontig.
 
-1. A XII. kerület teljes területe, amelynek határa: A Vérmező úttól a Várfok utcán halad, majd a Széll Kálmán tér délnyugati oldalán a Szilágyi Erzsébet fasorig, a Szilágyi Erzsébet fasoron a Budakeszi útig, a Budakeszi úton a Szépjuhászné útig, tovább a Budakeszi úton mintegy 500 méterig, innen a határvonal északnyugat felé fordul merőlegesen az útra, és mintegy 120 méter után ismét megtörik enyhén észak felé és ebbe az irányba halad mintegy 1110 métert. Innen északi irányba fordul és éles szögben mintegy 70 méter után becsatlakozik a XII.–II. kerületek–Budakeszi hármas határpontba. Budakeszi határán halad tovább déli irányba mintegy 50 métert, itt ismét megtörik és délnyugati irányba halad mintegy 160 métert egy újabb töréspontig, majd enyhe töréssel délkeleti irányba halad mintegy 140 métert, itt ismét megtörik és déli irányba halad mintegy 900 métert az Országos Orvosi Rehabilitációs Intézetig (a továbbiakban: OORI). Innen több töréssel az OORI határán halad a Szanatórium útig, majd a Szanatórium úton halad a Budakeszi útig. A Budakeszi úttól a Budakeszi–Budapest határ mentén halad Budapest–Budakeszi–Budaörs hármas határpontjáig, innen a Budapest–Budaörs határon halad a XI. kerület–Budaörs–XII. kerület hármas határpontjáig, innen a főváros régi határvonalát követve, majd enyhe töréssel a Kakukkhegyi erdősorig a XI. kerület határáig. Tovább a kerületi határvonalon, a Kakukkhegyi erdősoron a Kakukkhegyi útig, tovább a Kakukkhegyi úton folytatódik az Irhás árokig, majd az Irhás árokban a Törökbálinti útig. Ezen, majd az Érdi úton a Németvölgyi útig, a Németvölgyi úton a Hegyalja útig, ezen a Meredek utcáig, a Meredek utcán vissza a Hegyalja útig, a Hegyalja úton tovább a régi kerületi határvonalon az Avar utcáig, és ezen a Győri útig, a Győri úton a Márvány utcáig, ezen az Alkotás utcáig, az Alkotás utcán a Vérmező útig, a Vérmező úton a Várfok utcáig, a kiindulási pontig körbezárt terület.
+## 03. számú országgyűlési egyéni választókerület
 
-2. A II. kerület választókerülethez tartozó részének határa: A Duna középvonalától a Margit híd budai oldalán halad a Margit körúton (minden házszám) folyamatosan a Margit utcáig, a Margit utcától (minden házszám) az Apostol utcáig, az Apostol utca páros oldalán halad a Bolyai utcáig, a Bolyai utca páros házszámozású oldalán halad a Szemlőhegyi útig, a Szemlőhegyi út páratlan házszámozású oldalán halad déli irányba az Ady Endre útig, az Ady Endre út páros házszámozású oldalán a Bimbó utcáig, a Bimbó utcán déli irányba a keleti oldalon halad az Aranka utcáig, az Aranka utca páratlan házszámozású oldalán a Marcibányi térig, a Marcibányi tér (teljes közterület) nyugati oldalán folyamatosan a Garas utca páratlan házszámozású oldalán a Fillér utcáig, a Fillér utca páros házszámozású oldalán a Lórántffy Zsuzsanna útig, a Lórántffy Zsuzsanna út páratlan házszámozású oldalán a Herman Ottó útig, a Herman Ottó út páros házszámozású oldalán a Radnai utcáig, a Radnai utca páratlan házszámozású oldalán a Pasaréti útig, a Pasaréti út páros házszámozású oldalán halad a Júlia utcáig, a Júlia utca páratlan házszámozású oldalán a Szilágyi Erzsébet fasorig, innen északnyugati irányban a Hűvösvölgyi út vonalán a Nagykovácsi útig, onnan a déli oldalon északnyugati irányban halad a Nagykovácsi úton a Feketefej utcáig, a Feketefej utca páros házszámozású oldalán a Budakeszi–XII.–II. kerületek közös határpontjáig, onnan a kerület déli határa a Budakeszi út, Szilágyi Erzsébet fasor, Széll Kálmán tér – a tér teljes területe a II. kerület része – és Várfok utca. Az I. és II. kerület határa a Vérmező utca, a Széna tér délkeleti széle a Csalogány utcáig, a Csalogány utca a Duna középvonaláig, a Duna középvonalától a kiindulási pontig körbezárt terület.
+## Rövidítése: Budapest 03. OEVK
 
-04. számú országgyűlési egyéni választókerület
+## Székhelye: XII. kerület
 
-Rövidítése: Budapest 04. OEVK
+## Területe:
 
-Székhelye: II. kerület
+## 1. A XI. kerület választókerülethez tartozó részének határvonala: A Péterhegyi út és a Ringló út tengelyvonalainak metszéspontjától a Péterhegyi út tengelyvonala az 1-es számú vasúti fővonal pályatengelyéig, az 1-es számú vasúti fővonal pályatengelye a pályatengely és a rá merőleges Etele út tengelyvonala elméleti meghosszabbításának metszéspontjáig, a metszésponttól az elméleti vonal, majd folytatásában az Etele út tengelyvonala a Bártfai utcáig, a Bártfai utca tengelyvonala a Tétényi útig, a Tétényi út tengelyvonala, majd folytatásában a Karolina út tengelyvonala a Bocskai útig, a Bocskai út tengelyvonala és annak elméleti meghosszabbítása a rá merőleges Budaörsi út tengelyvonalának metszéspontjáig, a Budaörsi út tengelyvonala a BAH-csomópont irányában a Budaörsi út tengelyvonalának és a XI. kerület határvonalának metszéspontjáig, a metszésponttól a XI. kerület határvonala az óramutató járásával ellentétes irányban a kiindulási pontig.
 
-Területe:
+## 2. A XII. kerület választókerülethez tartozó részének határvonala: A Hegyalja út és az Alkotás utca pályatengelyeinek metszéspontjától az Alkotás utca tengelyvonala az Alkotás utca és a Márvány utca tengelyvonalainak, valamint a XII. kerület határának metszéspontjáig, a metszésponttól a XII. kerület határvonala az óramutató járásával ellentétes irányban a kiindulási pontig.
 
-1. A II. kerület választókerülethez tartozó részének határa: A Duna budai ágának középvonalától halad a Szépvölgyi útig, a Szépvölgyi úton a Hármashatár-hegyi úti elágazásig, majd folytatódik a Hármashatár-hegyi úton az út végéig, innen a III. kerületi 16536/83, 16536/87, illetve a 16536/88 hrsz.-ú földrészletek határán halad – a Hármashatár-hegy csúcsát érintve – mintegy 2600 m hosszan északnyugati irányú egyenes vonalban Budapest és Pesthidegkút határáig. Ezt követően a kerülethatár egyben mintegy 3200 m hosszan Budapest és Solymár, mintegy 6000 m hosszan Budapest és Nagykovácsi, majd 500 m hosszan Budapest és Budakeszi határa a Budakeszi–XII.–II. kerületek közös határpontjáig, majd tovább halad a Feketefej páratlan házszámozású oldalán a Nagykovácsi útig, a Nagykovácsi úton halad délkeleti irányba a Hűvösvölgyi útig, Hűvösvölgyi út északi vonalán halad a Szilágyi Erzsébet fasoron a Júlia utcáig, a Júlia utca páros házszámozású oldalán a Pasaréti útig, a Pasaréti út páratlan házszámozású oldalán halad a Radnai utcáig, a Radnai utca páros házszámozású oldalán a Herman Ottó útig, a Herman Ottó út páratlan házszámozású oldalán a Lórántffy Zsuzsanna útig, a Lórántffy Zsuzsanna út páros házszámozású oldalán a Fillér utcáig, a Fillér utca páratlan házszámozású oldalán a Garas utcáig, a Garas utca páros házszámozású oldalán folyamatosan a Marcibányi tér (közterület nélkül) nyugati oldalán az Aranka utcáig, az Aranka utca páros házszámozású oldalán a Bimbó utcáig, onnan északi irányba a Bimbó utca nyugati oldalán haladva az Ady Endre útig, az Ady Endre út páratlan házszámozású oldalán a Szemlőhegyi útig, a Szemlőhegyi út páros házszámozású oldalán halad északi irányba a Bolyai utcáig, a Bolyai utca páratlan házszámozású oldalán az Apostol utcáig, az Apostol utca páratlan oldalán a Margit utcáig, a Margit utcán (házszám nélkül) át a Margit körút (házszám nélkül) vonalán halad a Margit hídon a Duna középvonaláig, onnan a Duna budai ágának középvonalán a kiinduló pontig körbezárt terület.
+## 04. számú országgyűlési egyéni választókerület
 
-2. A III. kerület választókerülethez tartozó részének határa: A régi békásmegyeri határ mentén halad az Ország úttól, az Ország út nyugati oldalán déli irányban a Táncsics Mihály utcáig, a Táncsics Mihály utca páros házszámozású északi oldalán az Ezüsthegy utcáig, az Ezüsthegy utca páros házszámozású nyugati oldalán déli irányba a Dózsa György utca torkolatáig, a Dózsa György utcán tovább haladva a Hollós Korvin Lajos utcáig, a Hollós Korvin Lajos utca déli oldalán az utca végéig, majd a vonal elméleti meghosszabbításának és a Batthyány utcának a metszéspontjáig, a Batthyány utca páros házszámozású (nyugati) oldala folytatásában a Rákóczi utca páratlan házszámozású (nyugati) oldalán a Határ útig, a Határ út északi oldalán haladva az Aranyhegyi útig, az Aranyhegyi út páros házszámozású oldalán, majd folytatásában a Pomázi út páros házszámozású oldalán a Bécsi útig, a Bécsi út páros házszámozású oldalán a Kiscelli utcáig, a Kiscelli utca páros házszámozású oldalán a Pacsirtamező utcáig, a Pacsirtamező utca páros házszámozású oldalán a Tímár utcáig, a Tímár utca páros házszámozású vonalán a Duna budai ágának középvonaláig, majd a középvonaltól déli irányba a Szépvölgyi útig, a Szépvölgyi úttól a Hármashatár-hegyi útig, a Hármashatár-hegyi úttól a III. kerület 16536/83, 16536/87, illetve a 16536/88 hrsz.-ú földrészek határán haladva a Hármashatár-hegy csúcsáig, a Hármashatár-hegy csúcsától a főváros és Pesthidegkút régi közös határvonalán haladva a főváros és Pesthidegkút régi határának találkozási pontjáig, innen a régi békásmegyeri határ mentén haladva a Budapest–Üröm–Békásmegyer hármas határpontjáig, majd folytatásában a régi békásmegyeri határ mentén a kiindulási pontig körbezárt terület.
+## Rövidítése: Budapest 04. OEVK
 
-05. számú országgyűlési egyéni választókerület
+## Székhelye: II. kerület
 
-Rövidítése: Budapest 05. OEVK
+## Területe:
 
-Székhelye: VII. kerület
+## 1. II. kerület
 
-Területe:
+## 2. A III. kerület választókerülethez tartozó részének határvonala: A III. kerület határvonalának valamint a 10. számú főút, a Bécsi út és az Ürömi út körforgalmi csomópontjának metszéspontjától a 10. számú főút tengelyvonala, majd folytatásában a Bécsi út tengelyvonala a Reménység utcáig, a Reménység utca tengelyvonala a San Marco utcáig, a San Marco utca tengelyvonala a Föld utcáig, a Föld utca tengelyvonala a Zápor utcáig, a Zápor utca tengelyvonala a Kenyeres utcáig, a Kenyeres utca tengelyvonala a Dévai Bíró Mátyás térig, a Dévai Bíró Mátyás tér nyugati, majd déli oldalán futó út tengelyvonala a Pacsirtamező utcáig, a Pacsirtamező utca tengelyvonala a Nagyszombat utcáig, a Nagyszombat utca tengelyvonala, majd elméleti meghosszabbítása a III. kerület határvonalának metszéspontjáig, a metszésponttól a III. kerület határvonala az óramutató járásával megegyező irányban a kiindulási pontig.
 
-1. A VI. kerület teljes területe, amelynek határa: A Dózsa György úton a 28058 hrsz.-ú ingatlan keleti határpontjától a 28224/6 hrsz.-ú MÁV-terület északnyugati határvonalát követve halad a Bulcsú utcai aluljáró északnyugati bejárójáig, innen a Bulcsú utcán át a Lehel utcáig, a Lehel utcán a Ferdinánd híd és a Váci út találkozásáig, majd a Váci úton a Nyugati tér délkeleti oldalán a Bajcsy-Zsilinszky útig és ezen végig a Deák Ferenc térig, a tér északkeleti oldalán a Király utcáig, ezen végig a Lövölde térig, a téren és a Városligeti fasoron át a Dózsa György útig, a Dózsa György úton, később az aluljárón keresztül a kiindulási pontig körbezárt terület.
+## 05. számú országgyűlési egyéni választókerület
 
-2. A VII. kerület teljes területe, amelynek határa: A Dózsa György úttól a Városligeti fasoron, majd a Lövölde téren át halad a Király utcáig, a Király utcán végig a Károly körútig, a Károly körúton a Rákóczi útig, ezen a Baross térig, a Baross tér északnyugati oldalán, majd a Thököly úton a Verseny utcáig, a Verseny utcán a Dózsa György útig – a Keleti pályaudvar területét a VIII. kerületnél hagyva –, majd ezen a Városligeti fasoron keresztül a kiindulási pontig körbezárt terület.
+## Rövidítése: Budapest 05. OEVK
 
-06. számú országgyűlési egyéni választókerület
+## Székhelye: VI. kerület
 
-Rövidítése: Budapest 06. OEVK
+## Területe:
 
-Székhelye: VIII. kerület
+## 1. A VI. kerület választókerülethez tartozó részének határvonala: A Teréz körút és a Király utca tengelyvonalainak metszéspontjától a Teréz körúton haladó villamosvonal pályatengelye a Nyugati tér irányában a VI. kerület határvonalának metszéspontjáig, a metszésponttól a VI. kerület határvonala az óramutató járásával megegyező irányban a kiindulási pontig.
 
-Területe:
+## 2. A XIII. kerület választókerülethez tartozó részének határvonala: A Szegedi út és a Tatai utca tengelyvonalainak metszéspontjától a Szegedi út tengelyvonala a Béke téren haladó villamos pályatengelyéig, a villamos pályatengelye a Fáy utcáig, a Fáy utca tengelyvonala a Hajdú utcáig, a Hajdú utca tengelyvonala és annak elméleti meghosszabbítása a rá merőleges Rákos-patakig, a Rákos-patak mederközépvonala és annak elméleti meghosszabbítása a Duna irányában a XIII. kerület határvonalának metszéspontjáig, a metszésponttól a XIII. kerület határvonala az óramutató járásával ellentétes irányban a kiindulási pontig.
 
-1. A VIII. kerület választókerülethez tartozó részének határa: A Hungária körúttól a Kerepesi úton a Dózsa György útig, a Dózsa György úton a Verseny utcáig, a Verseny utcán a Thököly útig – a Keleti pályaudvar területét a kerületnél hagyva – és a Thököly úton a Baross térig, ezen át a Rákóczi útig, majd a Rákóczi úton a József körútig, a József körút páros házszámozású oldalán haladva az Üllői útig, az Üllői úton a Könyves Kálmán körútig, ezen tovább a Hungária körúton a kiindulási pontig körbezárt terület.
+## 3. Margitsziget
 
-2. A IX. kerület választókerülethez tartozó részének határa: A Duna középvonala, valamint a Dandár köz és folytatásában a Dandár utca páratlan házszámozású oldalának Dunára merőleges elméleti meghosszabbításának metszéspontjától a Duna középvonalán haladva a soroksári Duna-ágig, a soroksági Duna-ág középvonalán Pesterzsébet régi határáig, innen a Határ úton át az Üllői útig, az Üllői úton a Thaly Kálmán utcáig, a Thaly Kálmán utca, majd Dandár utca és Dandár köz páratlan házszámozású oldalán végig haladva a kiindulási pontig körbezárt terület.
+## 06. számú országgyűlési egyéni választókerület
 
-07. számú országgyűlési egyéni választókerület
+## Rövidítése: Budapest 06. OEVK
 
-Rövidítése: Budapest 07. OEVK
+## Székhelye: XIV. kerület
 
-Székhelye: XIII. kerület
+## Területe:
 
-Területe:
+## 1. A VII. kerület választókerülethez tartozó részének határvonala: Az Erzsébet körút és a Király utca tengelyvonalainak metszéspontjától az Erzsébet körút tengelyvonala az Erzsébet körút és a Rákóczi út tengelyvonalainak metszéspontjáig, a metszésponttól a VII. kerület határvonala az óramutató járásával ellentétes irányban a kiindulási pontig.
 
-A XIII. kerület választókerülethez tartozó részének határa: A Népsziget déli csúcsától a Duna fő, majd budai ágának középvonalán halad a Margit hídig, innen a Jászai Mari téren át és a Szent István körúton a Nyugati térig, a Nyugati tér nyugati, majd délkeleti oldalán a Váci útig, a Váci úton a Ferdinánd hídig, innen a Lehel úton a Bulcsú utcáig, a Bulcsú utcán az aluljáró bejáratáig, majd a MÁV 28224 hrsz.-ú ingatlanának északnyugati határvonalát követve a Dózsa György útig, innen a Dózsa György utat keresztezve, a Vágány utcán a XIII. kerület régi határvonalát követve a Róbert Károly körútig, ezen, a Dévényi úton, a Szegedi úton, a Tatai úton át a Futár utcáig, a Futár utca páratlan házszámozású oldalán a Jász utcáig, a Jász utca páros házszámozású oldalán a Keszkenő utcáig, a Keszkenő utca páratlan házszámozású oldalán a Béke útig, a Béke út páros házszámozású oldalán, a Gyöngyösi útig, a Gyöngyösi út páratlan házszámozású oldalán a Gyöngyösi térig, a Gyöngyösi tér keleti, majd déli oldalán az épületek vonalán haladva, a Váci utat keresztezve a Meder utcáig, a Meder utca páros házszámozású oldalán haladva az utca végéig, az utca végétől a kiindulási pontig körbezárt terület.
+## 2. A VIII. kerület választókerülethez tartozó részének határvonala: A Kerepesi út és a Dózsa György út tengelyvonalainak metszéspontjától a Kerepesi út tengelyvonala, majd folytatásában a Baross téri főút tengelyvonala a Baross téri felüljáró tengelyvonaláig, a Baross téri felüljáró tengelyvonala a tengelyvonal és a VIII. kerület határvonalának metszéspontjáig, a metszésponttól a VIII. kerület határvonala az óramutató járásával megegyező irányban a kiindulási pontig.
 
-08. számú országgyűlési egyéni választókerület
+## 3. A XIV. kerület választókerülethez tartozó részének határvonala: A Kerepesi út és a Hungária körút tengelyvonalainak metszéspontjától a Hungária körút tengelyvonala az Egressy útig, az Egressy út tengelyvonala és annak elméleti meghosszabbítása a XIV. kerület határvonalának metszéspontjáig, a metszésponttól a XIV. kerület határvonala az óramutató járásával ellentétes irányban a kiindulási pontig.
 
-Rövidítése: Budapest 08. OEVK
+## 4. A XV. kerület választókerülethez tartozó részének határvonala: A Drégelyvár utca és a Rákospalotai körvasút sor tengelyvonalainak metszéspontjától a Drégelyvár utca tengelyvonala az Adria utcáig, az Adria utca tengelyvonala, majd folytatásában a Széchenyi út tengelyvonala, majd folytatásában a Wysocki utca tengelyvonala és annak elméleti meghosszabbítása a XV. kerület határvonalának metszéspontjáig, a metszésponttól a XV. kerület határvonala az óramutató járásával ellentétes irányban a kiindulási pontig.
 
-Székhelye: XIV. kerület
+## 07. számú országgyűlési egyéni választókerület
 
-Területe:
+## Rövidítése: Budapest 07. OEVK
 
-A XIV. kerület választókerülethez tartozó részeinek határa: A Vágány utcától a Dózsa György úton halad a Kerepesi útig, innen a Kerepesi úton a rákospalotai körvasútig, a vasútvonal mentén a Fogarasi útig, a Fogarasi út páratlan oldalán a Fischer István utcáig, a Fischer István utcán a Tihany utcáig, a Tihany utca középvonalán a Vezér utcáig, a Vezér utca középvonalán a Mirtusz utcáig, a Mirtusz utca páratlan oldalán az Álmos vezér útjáig, az Álmos vezér útja páros oldalán a Fogarasi útig, a Fogarasi út páratlan oldalán a Nagy Lajos király útjáig, a Nagy Lajos király útja páros oldalán a Mogyoródi útig, a Mogyoródi út páros oldalán a Csernyus utcáig, a Csernyus utca páros oldalán az Egressy útig, az Egressy út páros oldalán a Vezér utcáig, a Vezér utca páros oldalán haladva a Szugló utcát keresztezve a Rákospatak utcáig, a Rákospatak utca páros oldalán a Csömöri útig, a Csömöri út páros oldalán a rákospalotai körvasútig, ezután a rákospalotai körvasút soron a MÁV Budapest–Vác vasútvonala és a MÁV körvasút sor elvi metszéspontjáig, innen a Madridi úton, majd a MÁV vonalon át a Kámfor utcáig, ezután a Tatai úton, a Szegedi úton, a Dévényi úton a Róbert Károly körútig, majd a Vágány utcán a Dózsa György útig, és onnan a kiindulási pontig körbezárt terület.
+## Székhelye: X. kerület
 
-09. számú országgyűlési egyéni választókerület
+## Területe:
 
-Rövidítése: Budapest 09. OEVK
+## 1. A VIII. kerület választókerülethez tartozó részének határvonala: Az 1-es számú vasúti fővonal pályatengelyének és a Könyves Kálmán körút tengelyvonalának metszéspontjától az 1-es számú vasúti fővonal pályatengelye a Kerepesi út tengelyvonaláig, a Kerepesi út tengelyvonala a tengelyvonal és a VIII. kerület határvonalának metszéspontjáig, a metszésponttól a VIII. kerület határvonala az óramutató járásával megegyező irányban a kiindulási pontig.
 
-Székhelye: X. kerület
+## 2. A X. kerület választókerülethez tartozó részének határvonala: A X. kerület határvonalának és a Sibrik Miklós út tengelyvonalának a Sibrik Miklós úti felüljárónál elhelyezkedő metszéspontjától a Sibrik Miklós út tengelyvonala a Harmat utcáig, a Harmat utca tengelyvonala a Kada utcáig, a Kada utca tengelyvonala a Maglódi útig, a Maglódi út tengelyvonala az Algyógyi utcáig, az Algyógyi utca tengelyvonala a Tárna utcáig, a Tárna utca tengelyvonala és annak elméleti meghosszabbítása a Rákos és Rákosszentmihály vasútállomások között haladó körvasút pályavonaláig, a pályavonal Rákosszentmihály irányában a X. kerület határvonalának metszéspontjáig, a metszésponttól a X. kerület határvonala az óramutató járásával ellentétes irányban a kiindulási pontig.
 
-Területe:
+## 3. A XIV. kerület választókerülethez tartozó részének határvonala: A Kerepesi út és a Hungária körút tengelyvonalainak metszéspontjától a Hungária körút tengelyvonala az Egressy útig, az Egressy út tengelyvonala és annak elméleti meghosszabbítása a XIV. kerület határvonalának metszéspontjáig, a metszésponttól a XIV. kerület határvonala az óramutató járásával megegyező irányban a kiindulási pontig.
 
-1. A X. kerület választókerülethez tartozó részének határa: A VIII.–XIV.–X. kerületek hármas határpontjától indulva déli irányba a Hungária körúton, majd a Könyves Kálmán körúton halad az Üllői útig, ezen, egyúttal a X. kerület régi határvonalán a Budapest Liszt Ferenc Nemzetközi Repülőtérre vezető úton a MÁV vasútvonal keresztezéséig, innen a vasútvonal déli oldalán halad, majd a 42296/5 hrsz.-ú és a 152654/1 hrsz.-ú ingatlanok közös határán a Gyömrői útig, innen a Gyömrői úton halad a Gyula utcáig, majd a Gyula utca keleti oldalán a Hangár utcáig, innen a Hangár utca kereszteződése után a Hangár utca páros házszámozású oldalán folytatódik a Harmat utcáig, a Harmat utca páratlan házszámozású oldalán folytatódik a Sibrik Miklós útig, a Sibrik Miklós út páros házszámozású oldalán a Maglódi útig, a Maglódi út páros házszámozású oldalán a Sírkert útig, a Sírkert út páros házszámozású oldalán a Kozma utcáig, a Kozma utca páratlan oldalán a Jászberényi útig, a Jászberényi út páratlan házszámozású oldalán az 526. sorig, majd a MÁV vasutat keresztezve a Határhalom utcán a X.–XVI.–XVII. kerületek hármas határpontjáig. Ettől a Pesti határút képzeletbeli meghosszabbításán, majd a Pesti határúton halad a Sárgarózsa utcáig, innen a Sárgarózsa utcán a Kerepesi útig, innen a Kerepesi úton a Hungária körútig, és onnan a kiindulási pontig körbezárt terület.
+## 08. számú országgyűlési egyéni választókerület
 
-2. A XIX. kerület választókerülethez tartozó részének határa: A Határ út és Ady Endre út kereszteződésétől kiindulva az Ady Endre út páros házszámozású oldalán haladva a MÁV vasútvonal kereszteződéséig, innen a vasútvonal keleti oldalán a Liszt Ferenc és a Kártoló utak nyugati határán a Malomkő útig, innen a Malomkő út tengelyén a Derkovits Gyula útig, innen a Derkovits Gyula út tengelyén a Küllő és Csillag út közötti farmezsgyén halad az Alsóerdősor útig, innen az Alsóerdősor út északi határán a Budapest Liszt Ferenc Nemzetközi Repülőtérre vezető útig, innen a Budapest Liszt Ferenc Nemzetközi Repülőtérre vezető út északi oldalán halad az Üllői útig, és az Üllői út tengelyén haladva a kiindulási pontig körbezárt terület.
+## Rövidítése: Budapest 08. OEVK
 
-10. számú országgyűlési egyéni választókerület
+## Székhelye: XIX. kerület
 
-Rövidítése: Budapest 10. OEVK
+## Területe:
 
-Székhelye: III. kerület
+## 1. A IX. kerület választókerülethez tartozó részének határvonala: A Határ út és az Illatos út tengelyvonalainak metszéspontjától az Illatos út tengelyvonala, majd folytatásában az Epreserdő utca tengelyvonala az Epreserdő utcával párhuzamosan futó villamos pályavonaláig, a villamos pályavonala a pályavonal és a IX. kerület határvonalának metszéspontjáig, a metszésponttól a IX. kerület határvonala az óramutató járásával megegyező irányban a kiindulási pontig.
 
-Területe:
+## 2. A XVIII. kerület választókerülethez tartozó részének határvonala: A Kolozsvár utca és a Cziffra György utca tengelyvonalainak metszéspontjától a Cziffra György utca tengelyvonala a Kiss István utcáig, a Kiss István utca tengelyvonala a Varjú utcáig, a Varjú utca tengelyvonala a Garay utcáig, a Garay utca tengelyvonala az Üllői útig, az Üllői út tengelyvonala a Haladás utcáig, a Haladás utca tengelyvonala, majd folytatásában a Ráday Gedeon utca tengelyvonala a 100a számú vasúti fővonal pályatengelyéig, a pályatengely a X.–XVIII.–XIX. kerületek hármas határpontjának irányában a XVIII. kerület határvonalának metszéspontjáig, a metszésponttól a XVIII. kerület határvonala az óramutató járásával ellentétes irányban a kiindulási pontig.
 
-A III. kerület választókerülethez tartozó részének határa: A Duna szentendrei ágának középvonalától a régi békásmegyeri határ mentén halad az Ország útig, az Ország út keleti oldalán déli irányban a Táncsics Mihály utcáig, a Táncsics Mihály utca páratlan házszámozású déli oldalán az Ezüsthegy utcáig, az Ezüsthegy utca keleti oldalán déli irányba a Dózsa György utca torkolatáig, a Dózsa György utcán tovább haladva a Hollós Korvin Lajos utcáig, a Hollós Korvin Lajos utca északi oldalán az utca végéig, majd a vonal elméleti meghosszabbításának és a Batthyány utcának a metszéspontjáig, a Batthyány utca páratlan számozású (keleti) oldala, majd folytatásában a Rákóczi utca páros házszámozású (keleti) oldalán a Határ útig, a Határ út déli oldalán haladva az Aranyhegyi útig, az Aranyhegyi út páratlan házszámozású oldalán, majd folytatásában a Pomázi út páratlan házszámozású oldalán a Bécsi útig, a Bécsi út páratlan házszámozású oldalán a Kiscelli utcáig, a Kiscelli utca páratlan házszámozású oldalán a Pacsirtamező utcáig, a Pacsirtamező utca páratlan házszámozású oldalán a Tímár utcáig, a Tímár utca páratlan házszámozású vonalán halad a Duna budai ágának középvonaláig, majd a középvonaltól északi irányba a kiindulási pontig körbezárt terület.
+## 3. XIX. kerület
 
-11. számú országgyűlési egyéni választókerület
+## 09. számú országgyűlési egyéni választókerület
 
-Rövidítése: Budapest 11. OEVK
+## Rövidítése: Budapest 09. OEVK
 
-Székhelye: IV. kerület
+## Székhelye: XXI. kerület
 
-Területe:
+## Területe:
 
-1. A IV. kerület választókerülethez tartozó részének határa: A Duna váci ágának, majd az egyesült Dunának középvonalán a régi újpesti határon halad dél felé, majd a Palotai-szigettől nyugatra a budai Duna-ág középvonalán a sziget déli csúcsáig, innen a régi határvonalon az újpesti vasúti összekötő híd újpesti hídfőjéig, ettől a vasúti töltés északkeleti oldalán a Göncöl utcáig a vasúti töltés mentén a 71323 hrsz.-ú – jelenleg Balzsam utca – és a 72327/2 hrsz.-ú közterületek határvonalán, majd vissza a 72327/1 hrsz.-ú ingatlan határvonalára, innen tovább a 72328 hrsz.-ú ingatlan határvonala mentén a 72294 hrsz.-ú – jelenleg Mártírok útja – közterületig, annak délkeleti határa mentén a 72298/2 hrsz.-ú – jelenleg Dugonics utca – közterület határvonala mentén és a 72699 hrsz.-ú – jelenleg Madridi utca – közterület határvonala mentén, majd az Istvántelki Főműhely 72701 hrsz.-ú területének délnyugati oldala mellett a Budapest–Vác vasútvonal mentén végig a vasútvonalat követve az Elem utcáig, keresztezve azt, az Elem utca páratlan házszámozású oldalán a Rózsa utcáig, a Rózsa utca páros házszámozású oldalán haladva a Görgey Artúr útig, a Görgey Artúr út páros házszámozású oldalán a 72998 hrsz.-ú – jelenleg Szilágyi utca – közterület határáig, majd az utca keleti határvonalát követve a Fóti útig, onnan tovább a váci vasútvonal nyugati határa mentén Budapest közigazgatási határáig, onnan Budapest közigazgatási határának vonalán a kiindulási pontig körbezárt terület.
+## 1. A IX. kerület választókerülethez tartozó részének határvonala: A Határ út és az Illatos út tengelyvonalainak metszéspontjától az Illatos út tengelyvonala, majd folytatásában az Epreserdő utca tengelyvonala az Epreserdő utcával párhuzamosan futó villamos pályavonaláig, a villamos pályavonala az Üllői útig, az Üllői út tengelyvonala a Könyves Kálmán körútig, a Könyves Kálmán körút tengelyvonala, majd folytatásában a Rákóczi híd tengelyvonala a tengelyvonal és a IX. kerület határvonalának metszéspontjáig, a metszésponttól a IX. kerület határvonala az óramutató járásával ellentétes irányban a kiindulási pontig.
 
-2. A XIII. kerület választókerülethez tartozó részének határa: A Népsziget déli csúcsától a Meder utcáig, a Meder utca páratlan házszámozású oldalán haladva, a Váci utat keresztezve, a Gyöngyösi térig, a Gyöngyösi tér déli, majd keleti oldalán az épületek vonalán haladva, a Gyöngyösi utcáig, a Gyöngyös utca páros házszámozású oldalától a Béke útig, a Béke út páratlan házszámozású oldalától déli irányba a Keszkenő utcáig, a Keszkenő utca páros házszámozású oldalán a Jász utcáig, a Jász utca páratlan házszámozású oldalán a Futár utcáig, a Futár utca páros házszámozású oldalán a Tatai útig, a Tatai úton át északi irányban a Kámfor utcáig, ezen a MÁV vonalon át Újpest határáig, innen a főváros és Újpest régi közös határa mentén a Göncöl utcáig, a Göncöl utcán a MÁV vasútvonaláig, a vasúti töltés északkeleti oldalán vissza a régi újpest-budapest közös határig, az újpesti összekötő híd újpesti hídfőjéig, innen a régi közös határvonal mentén a Palotai-sziget déli csúcsáig, innen a Duna főágának középvonalán a kiindulási pontig körbezárt terület.
+## 2. A XI. kerület választókerülethez tartozó részének határvonala: A Déli összekötő vasúti híd pályatengelyének és a Duna mederközépvonalának metszéspontjától az 1-es számú vasúti fővonal pályatengelye a Szerémi útig, a Szerémi út tengelyvonala a Keserű-érig, a Keserű-ér mederközépvonala és annak elméleti meghosszabbítása a Duna irányában a XI. kerület határvonalának metszéspontjáig, a metszésponttól a XI. kerület határvonala az óramutató járásával ellentétes irányban a kiindulási pontig.
 
-12. számú országgyűlési egyéni választókerület
+## 3. A XX. kerület választókerülethez tartozó részének határvonala: A Határ út és a Török Flóris utca tengelyvonalainak metszéspontjától a Török Flóris utca tengelyvonala a Pöltenberg utcáig, a Pöltenberg utca tengelyvonala a Vörösmarty utcáig, a Vörösmarty utca tengelyvonala a Szegfű utcáig, a Szegfű utca tengelyvonala a Vágóhíd utcáig, a Vágóhíd utca tengelyvonala a Barkó utcáig, a Barkó utca tengelyvonala a XX. kerület határvonalának metszéspontjáig, a metszésponttól a XX. kerület határvonala az óramutató járásával megegyező irányban a kiindulási pontig.
 
-Rövidítése: Budapest 12. OEVK
+## 4. XXI. kerület
 
-Székhelye: XV. kerület
+## 10. számú országgyűlési egyéni választókerület
 
-Területe:
+## Rövidítése: Budapest 10. OEVK
 
-1. A IV. kerület választókerülethez tartozó részének határa: A Budapest–Vác vasútvonal és az Elem utca kereszteződésétől az Elem utca páros házszámozású oldalán a Rózsa utcáig, a Rózsa utca páratlan házszámozású oldalán haladva a Görgey Artúr útig, a Görgey Artúr út páratlan házszámozású oldalán a 72998 hrsz.-ú – jelenleg Szilágyi utca – közterület határáig, onnan déli irányban a Budapest–Vác vasútvonal mentén végig haladva a kiindulási pontig körbezárt terület.
+## Székhelye: XXII. kerület
 
-2. A XV. kerület teljes területe, amelynek határa: A MÁV Budapest–Vác vasútvonal és a MÁV körvasút elvi metszéspontjától kiindulva a Rákospalotai körvasút sor–Vezseny u.-Rákospalotai határút, innen először északkeleti majd északnyugati irányban Rákospalota régi határvonalán többször irányt változtatva az újpesti határig, innen a MÁV Budapest–Vác vasútvonal által elfoglalt ingatlanok (80000, 87009, 88195, 88586 hrsz.) Újpest felé eső északnyugati ingatlanhatára a kiindulási pontig.
+## Területe:
 
-13. számú országgyűlési egyéni választókerület
+## 1. A XI. kerület választókerülethez tartozó részének határvonala: A Péterhegyi út és a Ringló út tengelyvonalainak metszéspontjától a Péterhegyi út tengelyvonala az 1-es számú vasúti fővonal pályatengelyéig, az 1-es számú vasúti fővonal pályatengelye a pályatengely és a rá merőleges Etele út tengelyvonalának elméleti meghosszabbításának metszéspontjáig, a metszésponttól az elméleti vonal, majd folytatásában az Etele út tengelyvonala a Bártfai utcáig, a Bártfai utca tengelyvonala a Tétényi útig, a Tétényi út tengelyvonala az 1-es számú vasúti fővonal pályatengelyéig, az 1-es számú vasúti fővonal pályatengelye a Szerémi útig, a Szerémi út tengelyvonala a Keserű-érig, a Keserű-ér mederközépvonala és annak elméleti meghosszabbítása a Duna irányában a XI. kerület határvonalának metszéspontjáig, a metszésponttól a XI. kerület határvonala az óramutató járásával megegyező irányban a kiindulási pontig.
 
-Rövidítése: Budapest 13. OEVK
+## 2. XXII. kerület
 
-Székhelye: XVI. kerület
+## 11. számú országgyűlési egyéni választókerület
 
-Területe:
+## Rövidítése: Budapest 11. OEVK
 
-1. A XIV. kerület választókerülethez tartozó részeinek határa: A Csömöri út és a rákospalotai körvasút keresztezésénél lévő kerülethatár ponttól kiindulva a Csömöri út páratlan oldalán a Rákospatak utcáig, a Rákospatak utca páratlan oldalán haladva, a Szugló utcát keresztezve a Vezér utcáig, a Vezér utca páratlan oldalán az Egressy útig, az Egressy út páratlan oldalán a Csernyus utcáig, a Csernyus utca páratlan oldalán a Mogyoródi útig, a Mogyoródi út páratlan oldalán a Nagy Lajos király útjáig, a Nagy Lajos király útja páratlan oldalán a Fogarasi útig, a Fogarasi út páros oldalán az Álmos vezér útjáig, az Álmos vezér útja páratlan oldalán a Mirtusz utcáig, a Mirtusz utca páros oldalán a Vezér utcáig, a Vezér utca középvonalán a Tihany utcáig, a Tihany utca középvonalán a Fischer István utcáig, a Fischer István utcán a Fogarasi útig, a Fogarasi út páros oldalán a vasútvonalig, innen a kerülethatáron a kiindulási pontig körbezárt terület.
+## Székhelye: III. kerület
 
-2. A XVI. kerület teljes területe, amelynek határa: A XIV.–XV.–XVI. kerületek hármas határpontjától halad a Rákospalotai határúttól kezdődően a Budapest–Csömör határán lévő erdő sarokpontjáig. Innen a határ délkelet felé fordulva az erdő szélén folytatódik a Mókus utca kezdetéig, majd a Csömöri út elméleti folytatásaként a szabályozatlan vízfolyás medre mentén az Asztag utcába ívelve, az Árpádföldi úton megtörve halad a Csöbör út végződéséhez érve Csömör község határvonaláig. Onnan folytatódik a Budapesti út–Akácos út–Magtár utca kereszteződésétől az Akácos út mentén haladva, annak egyenes folytatásaként a Szabadföld út–Kistarcsa kerülethatárig, majd megtörve a Nagytarcsa felőli fővárosi határvonal mellett haladva, a Szilas patakot ászelve a Mátyásföld–Nagytarcsa–XVII. kerületi rákosligeti hármas határpontnál lévő dűlőút mentén nyugat, majd délnyugat felé fordulva eléri a Cinkotai kiserdő délkeleti szélét. Az erdő szélén haladva, a dűlőutat elhagyva a Rákosligeti határút–Forrásmajori dűlőút kereszteződésének hármas kerületi határpontjától a Pesti határút folytatásának elméleti vonala képezi a kerület határát. Innen továbbhaladva a Pesti határút, Sárgarózsa utca, Kerepesi úttal párhuzamosan haladó HÉV északi oldala, innen északnyugatra fordulva a töltésre épített vasútvonal – Szolnoki út, Körvasút sor felőli – koronavonalának töltés alja, majd a Körvasút sor végződésénél a Rákospalotai határút kezdeténél lévő hármas határkereszteződés kiinduló pontja a kezdő hármas határkereszteződés.
+## Területe:
 
-14. számú országgyűlési egyéni választókerület
+## 1. A III. kerület választókerülethez tartozó részének határvonala: A III. kerület határvonalának valamint a 10. számú főút, a Bécsi út és az Ürömi út körforgalmi csomópontjának metszéspontjától a 10. számú főút tengelyvonala, majd folytatásában a Bécsi út tengelyvonala a Reménység utcáig, a Reménység utca tengelyvonala a San Marco utcáig, a San Marco utca tengelyvonala a Föld utcáig, a Föld utca tengelyvonala a Zápor utcáig, a Zápor utca tengelyvonala a Kenyeres utcáig, a Kenyeres utca tengelyvonala a Dévai Bíró Mátyás térig, a Dévai Bíró Mátyás tér nyugati, majd déli oldalán futó út tengelyvonala a Pacsirtamező utcáig, a Pacsirtamező utca tengelyvonala a Nagyszombat utcáig, a Nagyszombat utca tengelyvonala, majd elméleti meghosszabbítása a III. kerület határvonalának metszéspontjáig, a metszésponttól a III. kerület határvonala az óramutató járásával ellentétes irányban a kiindulási pontig.
 
-Rövidítése: Budapest 14. OEVK
+## 12. számú országgyűlési egyéni választókerület
 
-Székhelye: XVII. kerület
+## Rövidítése: Budapest 12. OEVK
 
-Területe:
+## Székhelye: XIII. kerület
 
-1. A X. kerület választókerülethez tartozó részének határa: A Harmat utca és Hangár utca kereszteződésének kerülethatárától a Hangár utcán a Felsőcsatári útig, innen a Felsőcsatári úton az Álmos utcáig, majd az Álmos utcán a Tünde utcáig, a Tünde utcától a 42550 hrsz.-ú közterületen a Helikopter utcáig, majd a MÁV vasutat keresztezve az 526. soron a Jászberényi útig, a Jászberényi út páratlan házszámozású oldalán a Kozma utcáig, a Kozma utca páros oldalán a Sírkert útig, a Sírkert út páratlan házszámozású oldalán a Maglódi útig, a Maglódi út páratlan házszámozású oldalán a Sibrik Miklós útig, a Sibrik Miklós páratlan házszámozású oldalán a Harmat utcáig, a Harmat utca páros házszámozású oldalán a kiindulási pontig körbezárt terület.
+## Területe:
 
-2. A XVII. kerület teljes területe, amelynek határa: A Tünde utcától a X.–XVII.–XVIII. kerületek hármas határpontjától délkelet felé halad a Csévéző utcáig, innen a Bélatelepi úton halad a Baross utcáig, majd többszöri töréssel a mai Budapest Liszt Ferenc Nemzetközi Repülőtér területén is haladva az Orgoványi utcán a Ferihegyi útig, innen a Ferihegyi út mentén, majd többszöri töréssel a Budapest Liszt Ferenc Nemzetközi Repülőtér területén halad a XVII.–XVIII. kerületek–Vecsés hármas határpontjáig. Innen a Budapest Liszt Ferenc Nemzetközi Repülőtér területén a Vecsés–Budapest határon halad a XVII. kerület–Vecsés–Ecser hármas határpontig, innen a Budapest–Ecser határon halad a Budapest–Ecser–Maglód hármas határpontig, innen a Budapest–Maglód határon halad a Budapest–Maglód–Pécel hármas határpontig, innen a Budapest–Pécel határon halad a Budapest–Pécel–Nagytarcsa hármas határpontig. Innen a Budapest–Nagytarcsa határon halad a XVII.–XVI. kerületek–Nagytarcsa hármas határpontjáig, innen a XVI.–X.–XVII. kerületek hármas határpontjáig, innen a Határmalom utcán az 526. sorig, innen az 526. soron a MÁV vasútvonalat is keresztezve a Tünde utcai kiindulási pontig.
+## 1. A IV. kerület választókerülethez tartozó részének határvonala: A Szilágyi utca és a Fóti út tengelyvonalainak metszéspontjától a Fóti út tengelyvonala a Kunhalom utcáig, a Kunhalom utca tengelyvonala a Vadgesztenye utcáig, a Vadgesztenye utca tengelyvonala, majd folytatásában a Reviczky utca tengelyvonala a Megyeri útig, a Megyeri út tengelyvonala a Szilas-patakig, a Szilas-patak mederközépvonala és annak elméleti meghosszabbítása a Duna irányában a IV. kerület határvonalának metszéspontjáig, a metszésponttól a IV. kerület határvonala az óramutató járásával ellentétes irányban a Fóti út tengelyvonalának metszéspontjáig, a metszésponttól a Fóti út tengelyvonala a kiindulási pontig.
 
-15. számú országgyűlési egyéni választókerület
+## 2. A XIII. kerület választókerülethez tartozó részének határvonala: A Szegedi út és a Tatai utca tengelyvonalainak metszéspontjától a Szegedi út tengelyvonala a Béke téren haladó villamos pályatengelyéig, a villamos pályatengelye a Fáy utcáig, a Fáy utca tengelyvonala a Hajdú utcáig, a Hajdú utca tengelyvonala és annak elméleti meghosszabbítása a rá merőleges Rákos-patakig, a Rákos-patak mederközépvonala és annak elméleti meghosszabbítása a Duna irányában a XIII. kerület határvonalának metszéspontjáig, a metszésponttól a XIII. kerület határvonala az óramutató járásával megegyező irányban a kiindulási pontig.
 
-Rövidítése: Budapest 15. OEVK
+## 13. számú országgyűlési egyéni választókerület
 
-Székhelye: XVIII. kerület
+## Rövidítése: Budapest 13. OEVK
 
-Területe:
+## Székhelye: XV. kerület
 
-A XVIII. kerület teljes területe, amelynek határa: A X.–XVIII.–XIX. kerületek hármas határpontjától, a MÁV ceglédi vasútvonalától indulva a Küllő és Csillag út közötti farmezsgyén, a Nefelejcs, a Malomkő, a Kártoló utcán haladva az Üllői útig, azt keresztezve a Liszt Ferenc utcán az Újtemető utcáig tart, az Újtemető utcán és annak egyenes meghosszabbításán 380 métert halad, majd délnyugatnak fordulva keresztezve az Újtemető utcát, folytatódik a kispesti temető délkeleti határvonalán a Kolozsvár utcáig. A Kolozsvár utcán, a Méta utcán a Nagykőrösi útig, a XVIII.–XIX.–XX.–XXIII. kerületek négyes határpontjáig vezet. A Nagykőrösi úton a Pestszentimrén lévő Hunyadi János utcán a Szélső utcáig, majd a Somberek sorig, a Búzakéve utcáig, a Búzakéve utcán a XXIII. kerületi Névtelen utcáig halad. A Névtelen utcán, majd az Ültetvény utcával párhuzamosan, attól 30 méterre vezet a Dózsa György utcáig, ahol az Ültetvény utcán 70 métert halad és északkeletre fordul. A Dózsa György utcával párhuzamosan halad a Jég utcáig és annak folytatásán a Gesztenye utcáig tart, ahol eléri a XVIII. kerület–Soroksár–Gyál hármas határpontját. A Gesztenye utcán északkeleti irányban ferdén keresztezve a Nagykőrösi utat és a lajosmizsei vasutat, a Gesztenye utca vonalának meghosszabbításában halad a Dalos utcáig, ahol folytatódik a Pestszentimre és Pestszentlőrinc közötti Határ útig. A Határ utat keresztezve tart az Alacska utcáig, ahol délkeletnek fordul és a gyáli Határ úton halad a gyáli Mátyás király útig, és eléri a Vecsés–Gyál–XVIII. kerület hármas határpontját. A Mátyás király úton vezet északnyugati irányban a Névtelen utcáig, majd ennek meghosszabbított vonalán a Ganz kertvárosi földterületen keresztül tart (a volt szovjet laktanya területén keresztül) az Üllői útig. Azt elérve délkeletre fordul, a Mednyánszky utcát keresztezve tovább halad 70 métert, és északkeletre fordul a Bartók Béla utca vonaláig. A Mednyánszky utcával párhuzamosan, attól 40 méterre vezet a ceglédi vasútvonalig. A ceglédi vasútvonalnál délkeletre fordul és 350 méter megtétele utáni törésponttal 200 métert délnyugatnak vezet, újra elérve az Üllői utat. Az Üllői úton haladva ferdén keresztezi a ceglédi vasútvonalat és a 4-es főúton további 560 méter megtétele után északkeletnek fordul. E törésponttól mért 600 méter után irányt vált délkeletnek, 50 méter megtétele után ismét északkelet felé halad 620 méter hosszan, Vecsés–XVII.–XVIII. kerületek hármas határpontjáig. A hármas határponttól többszöri töréssel a Budapest Liszt Ferenc Nemzetközi Repülőtér területén halad a Ferihegyi útig, majd a Ferihegyi úton halad az Orgoványi utcáig. Az Orgoványi utcán nyugati irányba mintegy 600 métert haladva a határ délnyugatra fordul és a Budapest Liszt Ferenc Nemzetközi Repülőtér területén is haladva, többszöri töréssel jut el a XVII. kerületi Baross utcáig, ott északkeletnek fordul és a Baross utca mentén tart a Bélatelepi útig. A Bélatelepi útnál északnyugati irányba fordul és a Bélatelepi úton halad 1600 méter hosszan, ahol a Bélatelepi utat elhagyva 150 méter megtétele után délnyugatnak fordul és visszatér a Bélatelepi úthoz a Frangepán utcai telkek hátsó mezsgyéjéig. Azt elérve a Frangepán utca északkeleti oldalán lévő telkek hátsó mezsgyevonalát követve többszöri törésponttal vezet a Tünde utcáig, a X.–XVII.–XVIII. kerületek hármas határpontjáig. A hármas határponttól az Álmos utcát elérve halad a Felsőcsatári útig. A Felsőcsatári úton délnek fordul, a Hangár utcát elérve azon vezet, majd a Gyula utca keleti oldalán tart a Gyömrői útig. A Gyömrői úton a 4229/5 hrsz.-ú és a 152654/1 hrsz.-ú ingatlanok közös határán a ceglédi vasútvonalig halad, majd a vasútvonal mentén tart a X.–XVIII.–XIX. kerületek hármas határpontjáig.
+## Területe:
 
-16. számú országgyűlési egyéni választókerület
+## 1. A IV. kerület választókerülethez tartozó részének határvonala: A Szilágyi utca és a Fóti út tengelyvonalainak metszéspontjától a Fóti út tengelyvonala a Kunhalom utcáig, a Kunhalom utca tengelyvonala a Vadgesztenye utcáig, a Vadgesztenye utca tengelyvonala, majd folytatásában a Reviczky utca tengelyvonala a Megyeri útig, a Megyeri út tengelyvonala a Szilas-patakig, a Szilas-patak mederközépvonala és annak elméleti meghosszabbítása a Duna irányában a IV. kerület határvonalának metszéspontjáig, a metszésponttól a IV. kerület határvonala az óramutató járásával megegyező irányban a Fóti út tengelyvonalának metszéspontjáig, a metszésponttól a Fóti út tengelyvonala a kiindulási pontig.
 
-Rövidítése: Budapest 16. OEVK
+## 2. A XV. kerület választókerülethez tartozó részének határvonala: A Drégelyvár utca és a Rákospalotai körvasút sor tengelyvonalainak metszéspontjától a Drégelyvár utca tengelyvonala az Adria utcáig, az Adria utca tengelyvonala, majd folytatásában a Széchenyi út tengelyvonala, majd folytatásában a Wysocki utca tengelyvonala és annak elméleti meghosszabbítása a XV. kerület határvonalának metszéspontjáig, a metszésponttól a XV. kerület határvonala az óramutató járásával megegyező irányban a kiindulási pontig.
 
-Székhelye: XX. kerület
+## 14. számú országgyűlési egyéni választókerület
 
-Területe:
+## Rövidítése: Budapest 14. OEVK
 
-1. A XIX. kerület választókerülethez tartozó részének határa: A Határ út és a Nagykőrösi út kereszteződésétől a Nagykőrösi úti autópályatest tengelyvonalán, majd a Nagykőrösi út északi oldalán halad a MÁV vasútvonalig, majd a Nagykőrösi út mentén haladó MÁV vasútvonal északkeleti oldalán a Méta útig, majd a Méta út tengelyén a Kolozsvár útig, innen a Kolozsvár út tengelyén a Kispesti temetőig, majd a temető délkeleti oldalán a Csapó utcáig, majd a Csapó utca északi oldalán a Darányi utcai farmezsgyéig, és a Darányi utca farmezsgyén a Parázs utcai farmezsgyéig, a Parázs utcai farmezsgyén, és az Újtemető út, illetve a hozzá tartozó közterület északi oldalán a MÁV vasútvonal kereszteződésén át az Ady Endre útig, az Ady Endre út páratlan házszámozású oldalán a Határ útig, a Határ úton a kiindulási pontig körbezárt terület.
+## Székhelye: XVI. kerület
 
-2. A XX. kerület teljes területe, amelynek határa: A XXI.–IX.–XX. kerületeknek a soroksári Duna-ág elméleti középpontjában lévő hármas határpontjától keleti irányba keresztezve a Budapest–Kunszentmiklós vasútvonalat és a Budapest–Ráckeve HÉV-vonalat a Határ út tengelyén halad a Határ út–Nagykőrösi út találkozási pontjáig. Itt délkeleti irányba fordul és a Nagykőrösi úton halad, majd a Nagykőrösi út mentén fekvő MÁV vasútvonal északkeleti oldalán a kispesti Méta utca, a Szentlőrinci út és a Nagykőrösi út kereszteződéséig, majd a Szentlőrinci út déli vonalán a Köves útig. A Szentlőrinci út és a Mezsgye utca között a határ a Köves út nyugati oldalán halad, majd a Mezsgye utca és az Alsó határút között áttér a Köves út keleti oldalára. Itt délnyugatra fordul és a Budapest Ferencváros–Soroksár összekötő vasútvonal kisajátítási vonalán halad az erzsébeti temető északi sarkáig. Továbbhalad a Temetősor menti temetőfalon, megkerüli a temetőt, északnyugati irányban eléri a Könyves utcát, keresztezi a MÁV pályatestet, a Könyves utca keleti oldalán haladva eléri a Török utca Alsó határút találkozási pontját, itt északkeleti irányba fordul, az Alsó határút délkeleti oldalán haladva eléri a Vágóhíd utcát, a Vágóhíd utca nyugati oldalán halad a Bolyai János utcáig, a Bolyai János utca déli oldalán eléri a szervízutat, keresztezi a papírgyári iparvágányt, s a gyár nyugati oldalán haladva elér a Barkó utcáig. A határvonal itt keresztezi a Helsinki utat, a HÉV-pályát, az E5-ös főutat és a MÁV vasútvonal rézsűjének felső vonalán visszafordul déli irányba és a vasút feletti hidat megkerülve a 184099 hrsz.-nál nyugati irányba halad a 196605. külterületi mezőgazdasági tábla és a 170187/10. agyaggödör közös határvonalán. A 196600 hrsz.-nál eléri a Vízisport utcát, kiér a soroksári Duna-ág partjára, eléri a Duna középvonalát, ezen északi irányba haladva eléri a kiindulási pontot.
+## Területe:
 
-17. számú országgyűlési egyéni választókerület
+## 1. A X. kerület választókerülethez tartozó részének határvonala: A X. kerület határvonalának és a Sibrik Miklós út tengelyvonalainak a Sibrik Miklós úti felüljárónál elhelyezkedő metszéspontjától a Sibrik Miklós út tengelyvonala a Harmat utcáig, a Harmat utca tengelyvonala a Kada utcáig, a Kada utca tengelyvonala a Maglódi útig, a Maglódi út tengelyvonala az Algyógyi utcáig, az Algyógyi utca tengelyvonala a Tárna utcáig, a Tárna utca tengelyvonala és annak elméleti meghosszabbítása a Rákos és Rákosszentmihály vasútállomások között haladó körvasút pályavonaláig, a pályavonal Rákosszentmihály irányában a X. kerület határvonalának metszéspontjáig, a metszésponttól a X. kerület határvonala az óramutató járásával megegyező irányban a kiindulási pontig.
 
-Rövidítése: Budapest 17. OEVK
+## 2. XVI. kerület
 
-Székhelye: XXI. kerület
+## 3. A XVIII. kerület választókerülethez tartozó részének határvonala: A 100a számú vasúti fővonal pályatengelyének és a X. és XVIII. kerület határvonalának metszéspontjától a 100a számú vasúti fővonal pályatengelye a Ráday Gedeon utcáig, a Ráday Gedeon utca tengelyvonala, majd folytatásában a Csévéző utca tengelyvonala a XVIII. kerület határvonalának metszéspontjáig, a metszésponttól a XVIII. kerület határvonala az óramutató járásával ellentétes irányban a kiindulási pontig.
 
-Területe:
+## 15. számú országgyűlési egyéni választókerület
 
-1. A XXI. kerület teljes területe, amelynek határa: A Csepel-sziget északi csúcsának magasságában a Duna középvonalán halad dél felé, majd áttér a Csepel-sziget nyugati partjára a Vízművek területének (200024/2 hrsz.) északi csücskéhez, innen a parton halad Csepel és Szigetszentmiklós határáig. Itt délkeletre fordul a Vízművek határán és a 200001 hrsz.-ú földrészlet határán halad, majd északkeletre fordulva mintegy 300 métert halad a 8644/1. számú dűlőig. Itt merőlegesen keresztezi a II. Rákóczi Ferenc utat, majd délkeleti irányba halad mintegy 400 métert a szigetszentmiklósi 8644/1. számú dűlő határán, onnan a II. Rákóczi Ferenc úttal párhuzamosan a 8643. számú dűlőig, innen északi irányba halad a 8645. számú dűlő vonaláig (214408 hrsz.), ezen 400 métert halad délkeleti irányba, ezt követően merőleges irányban mintegy 50 métert haladva eléri a 8647. számú dűlőt (213225 hrsz.), ennek déli szélén halad mintegy 180 métert, majd északra fordul a 8649. számú dűlőt követve mintegy 500 métert a 8653. számú dűlőig, majd annak déli oldalán halad mintegy 280 métert, eléri a Csepeli utat (214175 hrsz.). Innen a Csepeli út keleti oldala mentén halad mintegy 700 métert, a 8654. számú dűlőt (214174 hrsz.) mintegy 100 méterre elhagyva, ezután keletre fordulva a Kavicsbányán halad, mintegy 600 métert, majd északkelet felé fordul a 8600. számú dűlő meghosszabbított vonaláig. Ezen a meghosszabbított vonalon halad északnyugat felé a 4419. számú dűlőig. A 4419. számú dűlő (213127 hrsz.) déli szélén halad az Akácfa utcáig, majd a Tihanyi utca déli oldala mentén halad a Királyerdő utcáig, aminek délkeleti szabálytalan vonala mentén éri el a Hollandi utat, a Hollandi út után 140 méterre a parttól 15 méterre a Dunában lévő elméleti pontig halad, majd a Dunában halad a Molnársziget déli határáig. A Molnársziget nyugati partvonala mentén halad észak felé, majd a sziget északi csúcsától halad tovább a Duna-ág keleti partjának vonalát követve és a Csepel-sziget északi csúcsán (Szigetcsúcson) keresztül éri el a Nagy-Duna-ág középvonalát.
+## Rövidítése: Budapest 15. OEVK
 
-2. A XXIII. kerület teljes területe, amelynek határa: A kerület határvonala a soroksári Duna-ág középvonalán Csepel–Pestszenterzsébet–Soroksár közös határpontjából kiindulva eléri a partot, a parton haladva a 184105 hrsz.-ú út északi határvonalán haladva metszi a Vízisport utcát, majd keleti irányba a 184103 és a 196600 hrsz. északi határvonalán, majd a 196605. külterületi tábla határvonalán halad a Meddőhányó utcáig. A Meddőhányó utca északi határvonalán továbbhaladva, majd délre fordulva a 184300 hrsz. északi határvonalán végighaladva a Helsinki út (184091 hrsz.) nyugati határvonalán északra fordul a Barkó utca magasságáig. Itt keresztezi az E5-ös főutat, a HÉV-pályát és a 184089 hrsz.-ú szervízutat, majd ennek keleti oldalán déli irányba halad, és a Papírgyár délnyugati sarkán északkeleti irányba fordul a 184088 hrsz.-ú telekhatáron a Lenke utcáig, majd a Bolyai János utca déli oldalán a használati magánterület és a közterület határán halad a Vágóhíd utcáig. A Vágóhíd utca nyugati oldalán a közterület és a használati magánterület határán halad az Alsó határútig, ahol a 183998/1 hrsz.-ú közterület délkeleti oldalán halad a Török utcáig. Majd a vasutat keresztezve északra fordul és eléri az erzsébeti temetőt, innen délkeleti irányban halad a temető fala mentén a Temetősorig. A temetőfal vonalán továbbhaladva a Budapest Ferencváros–Soroksár összekötő vasútvonal és a temető északi közös határpontjánál északkeleti irányban a vasút (178839 hrsz.) déli vonalán halad a Köves útig, a Köves út keleti oldalán halad a Mezsgye utcáig, a Mezsgye utcánál áttér a Köves út nyugati oldalára és így halad a Szentlőrinci útig. A Szentlőrinci út déli oldalán halad tovább a Nagykőrösi út–Méta utca kereszteződéséig, majd Pestszentlőrinccel, Pestszentimrével közös határvonalon Pestszentimre–Soroksár–Gyál közös határpontjáig. E határponttól a főváros határvonalán (ami egyben Gyál–Alsónémedi–Dunaharaszti községek határvonala is) halad tovább, a Haraszti utat keresztezve eléri a Horgászpart utat, ezt keresztezve nyugati irányban eléri a Dunát. A Dunában haladva a csepeli Királyerdő út magasságánál eléri Szigetszentmiklós–Soroksár–Csepel közös határpontját, e ponttól a határ a Duna elméleti középvonalán haladva eléri a kiindulási pontot.
+## Székhelye: XVII. kerület
 
-18. számú országgyűlési egyéni választókerület
+## Területe:
 
-Rövidítése: Budapest 18. OEVK
+## 1. XVII. kerület
 
-Székhelye: XXII. kerület
+## 2. A XVIII. kerület választókerülethez tartozó részének határvonala: Budapest városhatárának vonala és az Üllői út tengelyvonalának az Üllői út és a Mednyánszky utca kereszteződése mellett található metszéspontjától az Üllői út tengelyvonala a Haladás utcáig, a Haladás utca tengelyvonala, majd folytatásában a Ráday Gedeon utca tengelyvonala, majd folytatásában a Csévéző utca tengelyvonala a XVIII. kerület határvonalának metszéspontjáig, a metszésponttól a XVIII. kerület határvonala az óramutató járásával megegyező irányban a kiindulási pontig.
 
-Területe:
+## 16. számú országgyűlési egyéni választókerület
 
-1. A XI. kerület választókerülethez tartozó része: A Duna középvonalára merőlegesen a Déli összekötő vasúti híd középpontjáról kiindulva a MÁV vasútvonalán nyugati irányban halad (a Dombóvári út és a Sárbogárdi úttal párhuzamosan) a Mohai útig, a Mohai út páros házszámozású oldalán haladva a Mérnök utcáig, a Mérnök utca páratlan házszámozású oldalán a Petzvál József utcáig, a Petzvál József utca páros házszámozású oldalán az Etele útig, az Etele út középvonalán a Tétényi útig, a Tétényi úttól pedig az Etele út páros házszámozású oldalának vonalában az Etele térig, az Etele tér északi oldalán a Kelenföldi pályaudvarig, majd a MÁV vasútvonal vonalán déli, majd nyugati irányban Budaörs felé a városhatárig, onnan a régi fővárosi határvonalon halad, a Kamaraerdőt megkerüli, a Kamaraerdő déli határán halad a Kamaraerdei úton a Balatoni műútig, ezen, majd tovább kissé északkelet felé a Péterhegyi úton a kelenvölgyi Ringló útig, és ezen, majd a Méhész utcán át a MÁV vasútvonalig, a vasútvonal keleti oldalán a Duna utcáig, ezen, majd ennek folytatásában a Duna középvonaláig, s a középvonalon a kiindulási pontig körbezárt terület.
+## Rövidítése: Budapest 16. OEVK
 
-2. A XXII. kerület teljes területe, amelynek határa: A Duna középvonalától a Duna utcán halad a MÁV vasútvonalig, a MÁV vasútvonal mentén a Méhész utcáig, a Méhész utcán a kelenvölgyi Ringló útig, a Ringló úton a Horogszegi határsorig, a Horogszegi határsoron a Honfoglalás útig, a Honfoglalás úttól a Vöröskúti határsoron halad a Kőérberki útig, a Kőérberki úttól a Háros úton a Kamaraerdei útig, a Kamaraerdei út mentén az ingatlanok határán halad a Balatoni úttól a Tétényi fennsík területén, a 239904/2 és 239906 hrsz.-ok határán éri el a Kamaraerdei utat, a Kamaraerdei úttól a 239912 hrsz. határán éri el Budaörs–Budapest és egyben Nagytétény határát, innen a fővárosi és nagytétényi határvonalon halad tovább a Duna főágának középvonaláig, és ezen a kiindulási pontig.
+## Székhelye: XXIII. kerület
+
+## Területe:
+
+## 1. A XVIII. kerület választókerülethez tartozó részének határvonala: A Kolozsvár utca és a Cziffra György utca tengelyvonalainak metszéspontjától a Cziffra György utca tengelyvonala a Kiss István utcáig, a Kiss István utca tengelyvonala a Varjú utcáig, a Varjú utca tengelyvonala a Garay utcáig, a Garay utca tengelyvonala az Üllői útig, az Üllői út tengelyvonala Vecsés irányában a XVIII. kerület határvonalának metszéspontjáig, a metszésponttól a XVIII. kerület határvonala az óramutató járásával megegyező irányban a kiindulási pontig.
+
+## 2. A XX. kerület választókerülethez tartozó részének határvonala: A Határ út és a Török Flóris utca tengelyvonalainak metszéspontjától a Török Flóris utca tengelyvonala a Pöltenberg utcáig, a Pöltenberg utca tengelyvonala a Vörösmarty utcáig, a Vörösmarty utca tengelyvonala a Szegfű utcáig, a Szegfű utca tengelyvonala a Vágóhíd utcáig, a Vágóhíd utca tengelyvonala a Barkó utcáig, a Barkó utca tengelyvonala a XX. kerület határvonalának metszéspontjáig, a metszésponttól a XX. kerület határvonala az óramutató járásával ellentétes irányban a kiindulási pontig.
+
+## 3. XXIII. kerület
 
 Baranya vármegye
 
@@ -2102,421 +2110,421 @@ Területe:
 
 54. Vatta
 
-Csongrád-Csanád vármegye
+## Csongrád-Csanád vármegye
 
-01. számú országgyűlési egyéni választókerület
+## 01. számú országgyűlési egyéni választókerület
 
-Rövidítése: Csongrád-Csanád 01. OEVK
+## Rövidítése: Csongrád-Csanád 01. OEVK
 
-Székhelye: Szeged
+## Székhelye: Szeged
 
-Területe:
+## Területe:
 
-1. Deszk
+## Szeged választókerülethez tartozó területének határvonala: Az 5. számú főút tengelyvonala a városhatáron való északi belépési ponttól, majd folytatásában a Kossuth Lajos sugárút tengelyvonala a Török utcáig, a Török utca tengelyvonala, majd folytatásában a Bartók tér északnyugati oldalán futó út tengelyvonala, majd a Bartók tér délnyugati oldalán futó út tengelyvonala, majd folytatásában az Attila utca tengelyvonala, majd folytatásában a Nagy Jenő utca tengelyvonala, majd folytatásában a Széchenyi tér délnyugati oldalán futó út tengelyvonala, majd folytatásában a Híd utca tengelyvonala, majd folytatásában a Belvárosi híd tengelyvonala a Tisza mederközépvonalának metszéspontjáig, a metszésponttól a Tisza mederközépvonala folyásirányban a 121-es számú vasútvonal pályatengelyének Tiszára merőleges elméleti meghosszabbításának metszéspontjáig, a metszésponttól a 121-es számú vasútvonal pályatengelyének elméleti meghosszabbítása a 121-es számú vasútvonal pályatengelyének újszegedi végéig, majd a 121-es számú vasútvonal pályatengelye a Kamaratöltés töltéskoronájának tengelyéig, majd a Kamaratöltés töltéskoronájának tengelye észak-északkeleti irányban a városhatár vonalával való metszéspontjáig, a metszésponttól a városhatár vonala az óramutató járásával ellentétes irányban a kiindulási pontig.
 
-2. Ferencszállás
+## 02. számú országgyűlési egyéni választókerület
 
-3. Klárafalva
+## Rövidítése: Csongrád-Csanád 02. OEVK
 
-4. Kübekháza
+## Székhelye: Szeged
 
-5. Szeged választókerülethez tartozó területének határvonala: A Sándorfalvi út középvonala a városhatáron belépési ponttól az algyői vasútvonalig, a vasútvonal az Izabella hídig, az Izabella híd középvonala a Kossuth Lajos sugárútig, a Kossuth Lajos sugárút középvonala a Széchenyi téren keresztül egyenes vonalban a Vörösmarty utcáig, a Vörösmarty utca középvonala a Stefániáig, a Stefánia középvonala a Belvárosi hídig, a Belvárosi híd középvonala a híd közepéig, a Tisza középvonala folyásiránnyal szemben a Maros tiszai torkolatáig, a Maros középvonala a városhatárig, a városhatár vonala déli irányban a Kamara-töltésig, a Kamara-töltés az újszeged-makói vasútvonalig, a vasútvonal déli irányban az Újszentiváni útig, az Újszentiváni út középvonala a városhatárig, a városhatár vonala az óramutató járásával ellentétes irányban a kiindulási pontig.
+## Területe:
 
-6. Tiszasziget
+## 1. Ásotthalom
 
-7. Újszentiván
+## 2. Bordány
 
-02. számú országgyűlési egyéni választókerület
+## 3. Deszk
 
-Rövidítése: Csongrád-Csanád 02. OEVK
+## 4. Domaszék
 
-Székhelye: Szeged
+## 5. Forráskút
 
-Területe:
+## 6. Kübekháza
 
-1. Ásotthalom
+## 7. Mórahalom
 
-2. Bordány
+## 8. Öttömös
 
-3. Domaszék
+## 9. Pusztamérges
 
-4. Forráskút
+## 10. Röszke
 
-5. Mórahalom
+## 11. Ruzsa
 
-6. Öttömös
+## 12. Szeged választókerülethez tartozó területének határvonala: Az 5. számú főút tengelyvonala a városhatáron való északi belépési ponttól, majd folytatásában a Kossuth Lajos sugárút tengelyvonala a Török utcáig, a Török utca tengelyvonala, majd folytatásában a Bartók tér északnyugati oldalán futó út tengelyvonala, majd a Bartók tér délnyugati oldalán futó út tengelyvonala, majd folytatásában az Attila utca tengelyvonala, majd folytatásában a Nagy Jenő utca tengelyvonala, majd folytatásában a Széchenyi tér délnyugati oldalán futó út tengelyvonala, majd folytatásában a Híd utca tengelyvonala, majd folytatásában a Belvárosi híd tengelyvonala a Tisza meder középvonalának metszéspontjáig, a metszésponttól a Tisza mederközépvonala folyásirányban a 121-es számú vasútvonal pályatengelyének Tiszára merőleges elméleti meghosszabbításának metszéspontjáig, a metszésponttól a 121-es számú vasútvonal pályatengelyének elméleti meghosszabbítása a 121-es számú vasútvonal pályatengelyének újszegedi végéig, majd a 121-es számú vasútvonal pályatengelye a Kamaratöltés töltéskoronájának tengelyéig, majd a Kamaratöltés töltéskoronájának tengelye észak-északkeleti irányban a városhatár vonalával való metszéspontjáig, a metszésponttól a városhatár vonala az óramutató járásával megegyező irányban a kiindulási pontig.
 
-7. Pusztamérges
+## 13. Tiszasziget
 
-8. Röszke
+## 14. Újszentiván
 
-9. Ruzsa
+## 15. Üllés
 
-10. Szeged választókerülethez tartozó területének határvonala: A Sándorfalvi út középvonala a városhatáron belépési ponttól az algyői vasútvonalig, a vasútvonal az Izabella hídig, az Izabella híd középvonala a Kossuth Lajos sugárútig, a Kossuth Lajos sugárút középvonala a Széchenyi téren keresztül egyenes vonalban a Vörösmarty utcáig, a Vörösmarty utca középvonala a Stefániáig, a Stefánia középvonala a Belvárosi hídig, a Belvárosi híd középvonala a híd közepéig, a Tisza középvonala folyásiránnyal szemben a Maros tiszai torkolatáig, a Maros középvonala a városhatárig, a városhatár vonala déli irányban a Kamara-töltésig, a Kamara-töltés az újszeged-makói vasútvonalig, a vasútvonal déli irányban az Újszentiváni útig, az Újszentiváni út középvonala a városhatárig, a városhatár vonala az óramutató járásával megegyező irányban a kiindulási pontig.
+## 16. Zákányszék
 
-11. Üllés
+## 17. Zsombó
 
-12. Zákányszék
+## 03. számú országgyűlési egyéni választókerület
 
-13. Zsombó
+## Rövidítése: Csongrád-Csanád 03. OEVK
 
-03. számú országgyűlési egyéni választókerület
+## Székhelye: Szentes
 
-Rövidítése: Csongrád-Csanád 03. OEVK
+## Területe:
 
-Székhelye: Szentes
+## 1. Árpádhalom
 
-Területe:
+## 2. Baks
 
-1. Árpádhalom
+## 3. Balástya
 
-2. Baks
+## 4. Csanytelek
 
-3. Balástya
+## 5. Csengele
 
-4. Csanytelek
+## 6. Csongrád
 
-5. Csengele
+## 7. Derekegyház
 
-6. Csongrád
+## 8. Dóc
 
-7. Derekegyház
+## 9. Eperjes
 
-8. Dóc
+## 10. Fábiánsebestyén
 
-9. Eperjes
+## 11. Felgyő
 
-10. Fábiánsebestyén
+## 12. Kistelek
 
-11. Felgyő
+## 13. Mindszent
 
-12. Kistelek
+## 14. Nagymágocs
 
-13. Mindszent
+## 15. Nagytőke
 
-14. Nagymágocs
+## 16. Ópusztaszer
 
-15. Nagytőke
+## 17. Pusztaszer
 
-16. Ópusztaszer
+## 18. Sándorfalva
 
-17. Pusztaszer
+## 19. Szatymaz
 
-18. Sándorfalva
+## 20. Szegvár
 
-19. Szatymaz
+## 21. Szentes
 
-20. Szegvár
+## 22. Tömörkény
 
-21. Szentes
+## 04. számú országgyűlési egyéni választókerület
 
-22. Tömörkény
+## Rövidítése: Csongrád-Csanád 04. OEVK
 
-04. számú országgyűlési egyéni választókerület
+## Székhelye: Hódmezővásárhely
 
-Rövidítése: Csongrád-Csanád 04. OEVK
+## Területe:
 
-Székhelye: Hódmezővásárhely
+## 1. Algyő
 
-Területe:
+## 2. Ambrózfalva
 
-1. Algyő
+## 3. Apátfalva
 
-2. Ambrózfalva
+## 4. Csanádalberti
 
-3. Apátfalva
+## 5. Csanádpalota
 
-4. Csanádalberti
+## 6. Ferencszállás
 
-5. Csanádpalota
+## 7. Földeák
 
-6. Földeák
+## 8. Hódmezővásárhely
 
-7. Hódmezővásárhely
+## 9. Királyhegyes
 
-8. Királyhegyes
+## 10. Kiszombor
 
-9. Kiszombor
+## 11. Klárafalva
 
-10. Kövegy
+## 12. Kövegy
 
-11. Magyarcsanád
+## 13. Magyarcsanád
 
-12. Makó
+## 14. Makó
 
-13. Maroslele
+## 15. Maroslele
 
-14. Mártély
+## 16. Mártély
 
-15. Nagyér
+## 17. Nagyér
 
-16. Nagylak
+## 18. Nagylak
 
-17. Óföldeák
+## 19. Óföldeák
 
-18. Pitvaros
+## 20. Pitvaros
 
-19. Székkutas
+## 21. Székkutas
 
-Fejér vármegye
+## Fejér vármegye
 
-01. számú országgyűlési egyéni választókerület
+## 01. számú országgyűlési egyéni választókerület
 
-Rövidítése: Fejér 01. OEVK
+## Rövidítése: Fejér 01. OEVK
 
-Székhelye: Székesfehérvár
+## Székhelye: Székesfehérvár
 
-Területe:
+## Területe:
 
-Székesfehérvár választókerülethez tartozó területének határvonala: A 81-es országút középvonala a városhatáron való belépési ponttól a Szent Flórián körút és Móri út kereszteződéséig, a kereszteződéstől előbb a 7-es, majd a körforgalomtól 7-8-as út közös szakaszának középvonala a Mór felé vezető vasútvonalig, a vasútvonal a székesfehérvári vasútállomás felé a Balatoni útig, a Balatoni út középvonala a Horvát István utcáig, a Horvát István utca középvonala a Széchenyi utcáig, a Széchenyi utca középvonala a vasútvonalig, a vasútvonal a börgönd–sárbogárd elágazásig, az elágazástól a Seregélyes felé haladó vasútvonal a városhatárig, a városhatár vonala az óramutató járásával ellentétes irányban a kiindulási pontig.
+## 1. Füle
 
-02. számú országgyűlési egyéni választókerület
+## 2. Jenő
 
-Rövidítése: Fejér 02. OEVK
+## 3. Kőszárhegy
 
-Székhelye: Székesfehérvár
+## 4. Nádasdladány
 
-Területe:
+## 5. Polgárdi
 
-1. Bakonycsernye
+## 6. Sárkeszi
 
-2. Bakonykúti
+## 7. Sárszentmihály
 
-3. Balinka
+## 8. Szabadbattyán
 
-4. Bodajk
+## 9. Székesfehérvár választókerülethez tartozó területének határvonala: A Malomcsatorna mederközépvonala a városhatáron való belépési ponttól a Fürdő utcáig, a Fürdő utca tengelyvonala a Szabadságharcos útig, a Szabadságharcos út tengelyvonala a Mátyás király körútig, a Mátyás király körút tengelyvonala a Várkörútig, a Várkörút tengelyvonala a Budai útig, a Budai út tengelyvonala a Vörösmarty térig, a Budai út és a Széchenyi utca között a Vörösmarty téri főút tengelyvonala a Széchenyi utcáig, a Széchenyi utca tengelyvonala a Horvát István utcáig, a Horvát István utca tengelyvonala a Deák Ferenc utca és a Lövölde utca körforgalmi csomópontjáig, a körforgalmi csomóponttól a Lövölde utca főtengelyének középvonala a Budai útig, a Budai út tengelyvonala az Aszalvölgyi-árokig, az Aszalvölgyi-árok mederközépvonala a 811. számú főútig, a 811. számú főút tengelyvonala a Nagyszombati utcáig, a 811. számú főút és a Nagyszombati utca tengelyvonalainak metszéspontjától a Császár-víz mederközépvonalának és a városhatár vonalának metszéspontjáig húzott egyenes vonal, a metszésponttól a városhatár vonala az óramutató járásával megegyező irányban a kiindulási pontig.
 
-5. Csákberény
+## 10. Tác
 
-6. Csókakő
+## 11. Úrhida
 
-7. Csór
+## 02. számú országgyűlési egyéni választókerület
 
-8. Fehérvárcsurgó
+## Rövidítése: Fejér 02. OEVK
 
-9. Füle
+## Székhelye: Székesfehérvár
 
-10. Iszkaszentgyörgy
+## Területe:
 
-11. Isztimér
+## 1. Bakonycsernye
 
-12. Jenő
+## 2. Bakonykúti
 
-13. Kincsesbánya
+## 3. Balinka
 
-14. Kőszárhegy
+## 4. Bodajk
 
-15. Magyaralmás
+## 5. Csákberény
 
-16. Moha
+## 6. Csókakő
 
-17. Mór
+## 7. Csór
 
-18. Nádasdladány
+## 8. Fehérvárcsurgó
 
-19. Nagyveleg
+## 9. Iszkaszentgyörgy
 
-20. Polgárdi
+## 10. Isztimér
 
-21. Pusztavám
+## 11. Kincsesbánya
 
-22. Sárkeresztes
+## 12. Lovasberény
 
-23. Sárkeszi
+## 13. Magyaralmás
 
-24. Sárszentmihály
+## 14. Moha
 
-25. Söréd
+## 15. Mór
 
-26. Szabadbattyán
+## 16. Nagyveleg
 
-27. Székesfehérvár választókerülethez tartozó területének határvonala: A 81-es országút középvonala a városhatáron való belépési ponttól a Szent Flórián körút és Móri út kereszteződéséig, a kereszteződéstől előbb a 7-es, majd a körforgalomtól 7–8-as út közös szakaszának középvonala a Mór felé vezető vasútvonalig, a vasútvonal a székesfehérvári vasútállomás felé a Balatoni útig, a Balatoni út középvonala a Horvát István utcáig, a Horvát István utca középvonala a Széchenyi utcáig, a Széchenyi utca középvonala a vasútvonalig, a vasútvonal a börgönd-sárbogárd elágazásig, az elágazástól a Seregélyes felé haladó vasútvonal a városhatárig, a városhatár vonala az óramutató járásával megegyező irányban a kiindulási pontig.
+## 17. Pákozd
 
-28. Úrhida
+## 18. Pátka
 
-29. Zámoly
+## 19. Pusztavám
 
-03. számú országgyűlési egyéni választókerület
+## 20. Sárkeresztes
 
-Rövidítése: Fejér 03. OEVK
+## 21. Söréd
 
-Székhelye: Bicske
+## 22. Székesfehérvár választókerülethez tartozó területének határvonala: A Malomcsatorna mederközépvonala a városhatáron való belépési ponttól a Fürdő utcáig, a Fürdő utca tengelyvonala a Szabadságharcos útig, a Szabadságharcos út tengelyvonala a Mátyás király körútig, a Mátyás király körút tengelyvonala a Várkörútig, a Várkörút tengelyvonala a Budai útig, a Budai út tengelyvonala a Vörösmarty térig, a Budai út és a Széchenyi utca között a Vörösmarty téri főút tengelyvonala a Széchenyi utcáig, a Széchenyi utca tengelyvonala a Horvát István utcáig, a Horvát István utca tengelyvonala a Deák Ferenc utca és a Lövölde utca körforgalmi csomópontjáig, a körforgalmi csomóponttól a Lövölde utca főtengelyének középvonala a Budai útig, a Budai út tengelyvonala az Aszalvölgyi-árokig, az Aszalvölgyi-árok mederközépvonala a 811. számú főútig, a 811. számú főút tengelyvonala a Nagyszombati utcáig, a 811. számú főút és a Nagyszombati utca tengelyvonalainak metszéspontjától a Császár-víz mederközépvonalának és a városhatár vonalának metszéspontjáig húzott egyenes vonal, a metszésponttól a városhatár vonala az óramutató járásával ellentétes irányban a kiindulási pontig.
 
-Területe:
+## 23. Zámoly
 
-1. Alcsútdoboz
+## 03. számú országgyűlési egyéni választókerület
 
-2. Baracska
+## Rövidítése: Fejér 03. OEVK
 
-3. Beloiannisz
+## Székhelye: Bicske
 
-4. Besnyő
+## Területe:
 
-5. Bicske
+## 1. Alcsútdoboz
 
-6. Bodmér
+## 2. Baracska
 
-7. Csabdi
+## 3. Bicske
 
-8. Csákvár
+## 4. Bodmér
 
-9. Etyek
+## 5. Csabdi
 
-10. Felcsút
+## 6. Csákvár
 
-11. Gánt
+## 7. Etyek
 
-12. Gárdony
+## 8. Felcsút
 
-13. Gyúró
+## 9. Gánt
 
-14. Kajászó
+## 10. Gárdony
 
-15. Kápolnásnyék
+## 11. Gyúró
 
-16. Lovasberény
+## 12. Kajászó
 
-17. Mány
+## 13. Kápolnásnyék
 
-18. Martonvásár
+## 14. Mány
 
-19. Nadap
+## 15. Martonvásár
 
-20. Óbarok
+## 16. Nadap
 
-21. Pákozd
+## 17. Óbarok
 
-22. Pátka
+## 18. Pázmánd
 
-23. Pázmánd
+## 19. Ráckeresztúr
 
-24. Ráckeresztúr
+## 20. Sukoró
 
-25. Sukoró
+## 21. Szár
 
-26. Szár
+## 22. Tabajd
 
-27. Tabajd
+## 23. Tordas
 
-28. Tordas
+## 24. Újbarok
 
-29. Újbarok
+## 25. Vál
 
-30. Vál
+## 26. Velence
 
-31. Velence
+## 27. Vereb
 
-32. Vereb
+## 28. Vértesacsa
 
-33. Vértesacsa
+## 29. Vértesboglár
 
-34. Vértesboglár
+## 04. számú országgyűlési egyéni választókerület
 
-35. Zichyújfalu
+## Rövidítése: Fejér 04. OEVK
 
-04. számú országgyűlési egyéni választókerület
+## Székhelye: Dunaújváros
 
-Rövidítése: Fejér 04. OEVK
+## Területe:
 
-Székhelye: Dunaújváros
+## 1. Adony
 
-Területe:
+## 2. Beloiannisz
 
-1. Adony
+## 3. Besnyő
 
-2. Dunaújváros
+## 4. Dunaújváros
 
-3. Ercsi
+## 5. Ercsi
 
-4. Iváncsa
+## 6. Iváncsa
 
-5. Kulcs
+## 7. Kulcs
 
-6. Nagyvenyim
+## 8. Nagyvenyim
 
-7. Perkáta
+## 9. Perkáta
 
-8. Pusztaszabolcs
+## 10. Pusztaszabolcs
 
-9. Rácalmás
+## 11. Rácalmás
 
-05. számú országgyűlési egyéni választókerület
+## 05. számú országgyűlési egyéni választókerület
 
-Rövidítése: Fejér 05. OEVK
+## Rövidítése: Fejér 05. OEVK
 
-Székhelye: Sárbogárd
+## Székhelye: Sárbogárd
 
-Területe:
+## Területe:
 
-1. Aba
+## 1. Aba
 
-2. Alap
+## 2. Alap
 
-3. Alsószentiván
+## 3. Alsószentiván
 
-4. Baracs
+## 4. Baracs
 
-5. Cece
+## 5. Cece
 
-6. Csősz
+## 6. Csősz
 
-7. Daruszentmiklós
+## 7. Daruszentmiklós
 
-8. Dég
+## 8. Dég
 
-9. Előszállás
+## 9. Előszállás
 
-10. Enying
+## 10. Enying
 
-11. Hantos
+## 11. Hantos
 
-12. Igar
+## 12. Igar
 
-13. Káloz
+## 13. Káloz
 
-14. Kisapostag
+## 14. Kisapostag
 
-15. Kisláng
+## 15. Kisláng
 
-16. Lajoskomárom
+## 16. Lajoskomárom
 
-17. Lepsény
+## 17. Lepsény
 
-18. Mátyásdomb
+## 18. Mátyásdomb
 
-19. Mezőfalva
+## 19. Mezőfalva
 
-20. Mezőkomárom
+## 20. Mezőkomárom
 
-21. Mezőszentgyörgy
+## 21. Mezőszentgyörgy
 
-22. Mezőszilas
+## 22. Mezőszilas
 
-23. Nagykarácsony
+## 23. Nagykarácsony
 
-24. Nagylók
+## 24. Nagylók
 
-25. Sárbogárd
+## 25. Sárbogárd
 
-26. Sáregres
+## 26. Sáregres
 
-27. Sárkeresztúr
+## 27. Sárkeresztúr
 
-28. Sárosd
+## 28. Sárosd
 
-29. Sárszentágota
+## 29. Sárszentágota
 
-30. Seregélyes
+## 30. Seregélyes
 
-31. Soponya
+## 31. Soponya
 
-32. Szabadegyháza
+## 32. Szabadegyháza
 
-33. Szabadhídvég
+## 33. Szabadhídvég
 
-34. Tác
+## 34. Vajta
 
-35. Vajta
+## 35. Zichyújfalu
 
 Győr-Moson-Sopron vármegye
 
@@ -4062,477 +4070,493 @@ Területe:
 
 84. Varsány
 
-Pest vármegye
+## Pest vármegye
 
-01. számú országgyűlési egyéni választókerület
+## 01. számú országgyűlési egyéni választókerület
 
-Rövidítése: Pest 01. OEVK
+## Rövidítése: Pest 01. OEVK
 
-Székhelye: Érd
+## Székhelye: Érd
 
-Területe:
+## Területe:
 
-1. Diósd
+## 1. Érd
 
-2. Érd
+## 2. Százhalombatta
 
-3. Pusztazámor
+## 3. Tárnok
 
-4. Sóskút
+## 02. számú országgyűlési egyéni választókerület
 
-5. Tárnok
+## Rövidítése: Pest 02. OEVK
 
-6. Törökbálint
+## Székhelye: Budaörs
 
-02. számú országgyűlési egyéni választókerület
+## Területe:
 
-Rövidítése: Pest 02. OEVK
+## 1. Biatorbágy
 
-Székhelye Budakeszi
+## 2. Budakeszi
 
-Területe:
+## 3. Budaörs
 
-1. Biatorbágy
+## 4. Diósd
 
-2. Budajenő
+## 5. Nagykovácsi
 
-3. Budakeszi
+## 6. Pusztazámor
 
-4. Budaörs
+## 7. Remeteszőlős
 
-5. Herceghalom
+## 8. Sóskút
 
-6. Nagykovácsi
+## 9. Törökbálint
 
-7. Páty
+## 03. számú országgyűlési egyéni választókerület
 
-8. Perbál
+## Rövidítése: Pest 03. OEVK
 
-9. Piliscsaba
+## Székhelye: Pilisvörösvár
 
-10. Pilisjászfalu
+## Területe:
 
-11. Pilisszentiván
+## 1. Budajenő
 
-12. Remeteszőlős
+## 2. Budakalász
 
-13. Solymár
+## 3. Csobánka
 
-14. Telki
+## 4. Herceghalom
 
-15. Tinnye
+## 5. Páty
 
-16. Tök
+## 6. Perbál
 
-17. Zsámbék
+## 7. Pilisborosjenő
 
-03. számú országgyűlési egyéni választókerület
+## 8. Piliscsaba
 
-Rövidítése: Pest 03. OEVK
+## 9. Pilisjászfalu
 
-Székhelye: Szentendre
+## 10. Pilisvörösvár
 
-Területe:
+## 11. Pilisszántó
 
-1. Budakalász
+## 12. Pilisszentiván
 
-2. Csobánka
+## 13. Pilisszentkereszt
 
-3. Dunabogdány
+## 14. Solymár
 
-4. Kisoroszi
+## 15. Telki
 
-5. Leányfalu
+## 16. Tinnye
 
-6. Pilisborosjenő
+## 17. Tök
 
-7. Pilisvörösvár
+## 18. Üröm
 
-8. Pilisszántó
+## 19. Zsámbék
 
-9. Pilisszentkereszt
+## 04. számú országgyűlési egyéni választókerület
 
-10. Pilisszentlászló
+## Rövidítése: Pest 04. OEVK
 
-11. Pócsmegyer
+## Székhelye: Szentendre
 
-12. Pomáz
+## Területe:
 
-13. Szentendre
+## 1. Bernecebaráti
 
-14. Szigetmonostor
+## 2. Dunabogdány
 
-15. Tahitótfalu
+## 3. Ipolydamásd
 
-16. Üröm
+## 4. Ipolytölgyes
 
-17. Visegrád
+## 5. Kemence
 
-04. számú országgyűlési egyéni választókerület
+## 6. Kismaros
 
-Rövidítése: Pest 04. OEVK
+## 7. Kisoroszi
 
-Székhelye: Vác
+## 8. Kóspallag
 
-Területe:
+## 9. Leányfalu
 
-1. Acsa
+## 10. Letkés
 
-2. Bernecebaráti
+## 11. Márianosztra
 
-3. Csörög
+## 12. Nagybörzsöny
 
-4. Csővár
+## 13. Nagymaros
 
-5. Galgagyörk
+## 14. Perőcsény
 
-6. Ipolydamásd
+## 15. Pilisszentlászló
 
-7. Ipolytölgyes
+## 16. Pócsmegyer
 
-8. Kemence
+## 17. Pomáz
 
-9. Kismaros
+## 18. Szentendre
 
-10. Kisnémedi
+## 19. Szigetmonostor
 
-11. Kosd
+## 20. Szob
 
-12. Kóspallag
+## 21. Szokolya
 
-13. Letkés
+## 22. Tahitótfalu
 
-14. Márianosztra
+## 23. Tésa
 
-15. Nagybörzsöny
+## 24. Vámosmikola
 
-16. Nagymaros
+## 25. Verőce
 
-17. Őrbottyán
+## 26. Visegrád
 
-18. Penc
+## 27. Zebegény
 
-19. Perőcsény
+## 05. számú országgyűlési egyéni választókerület
 
-20. Püspökhatvan
+## Rövidítése: Pest 05. OEVK
 
-21. Püspökszilágy
+## Székhelye: Dunakeszi
 
-22. Rád
+## Területe:
 
-23. Szob
+## 1. Csomád
 
-24. Szokolya
+## 2. Csömör
 
-25. Sződ
+## 3. Dunakeszi
 
-26. Sződliget
+## 4. Fót
 
-27. Tésa
+## 5. Göd
 
-28. Vác
+## 06. számú országgyűlési egyéni választókerület
 
-29. Vácduka
+## Rövidítése: Pest 06. OEVK
 
-30. Váchartyán
+## Székhelye: Gödöllő
 
-31. Vácrátót
+## Területe:
 
-32. Vámosmikola
+## 1. Gödöllő
 
-33. Verőce
+## 2. Kerepes
 
-34. Zebegény
+## 3. Kistarcsa
 
-05. számú országgyűlési egyéni választókerület
+## 4. Mogyoród
 
-Rövidítése: Pest 05. OEVK
+## 5. Nagytarcsa
 
-Székhelye: Dunakeszi
+## 6. Szada
 
-Területe:
+## 7. Veresegyház
 
-1. Csomád
+## 07. számú országgyűlési egyéni választókerület
 
-2. Csömör
+## Rövidítése: Pest 07. OEVK
 
-3. Dunakeszi
+## Székhelye: Pécel
 
-4. Erdőkertes
+## Területe:
 
-5. Fót
+## 1. Bag
 
-6. Göd
+## 2. Dány
 
-7. Veresegyház
+## 3. Galgahévíz
 
-06. számú országgyűlési egyéni választókerület
+## 4. Hévízgyörk
 
-Rövidítése: Pest 06. OEVK
+## 5. Isaszeg
 
-Székhelye: Gödöllő
+## 6. Kartal
 
-Területe:
+## 7. Kóka
 
-1. Aszód
+## 8. Maglód
 
-2. Bag
+## 9. Mende
 
-3. Domony
+## 10. Pécel
 
-4. Galgamácsa
+## 11. Sülysáp
 
-5. Gödöllő
+## 12. Tura
 
-6. Hévízgyörk
+## 13. Vácszentlászló
 
-7. Iklad
+## 14. Valkó
 
-8. Isaszeg
+## 15. Verseg
 
-9. Kartal
+## 16. Zsámbok
 
-10. Kerepes
+## 08. számú országgyűlési egyéni választókerület
 
-11. Kistarcsa
+## Rövidítése: Pest 08. OEVK
 
-12. Mogyoród
+## Székhelye: Vecsés
 
-13. Nagytarcsa
+## Területe:
 
-14. Szada
+## 1. Ecser
 
-15. Vácegres
+## 2. Felsőpakony
 
-16. Váckisújfalu
+## 3. Gyál
 
-17. Verseg
+## 4. Gyömrő
 
-07. számú országgyűlési egyéni választókerület
+## 5. Péteri
 
-Rövidítése: Pest 07. OEVK
+## 6. Üllő
 
-Székhelye: Vecsés
+## 7. Vecsés
 
-Területe:
+## 09. számú országgyűlési egyéni választókerület
 
-1. Ecser
+## Rövidítése: Pest 09. OEVK
 
-2. Felsőpakony
+## Székhelye: Ráckeve
 
-3. Gyál
+## Területe:
 
-4. Gyömrő
+## 1. Alsónémedi
 
-5. Maglód
+## 2. Apaj
 
-6. Pécel
+## 3. Áporka
 
-7. Üllő
+## 4. Bugyi
 
-8. Vecsés
+## 5. Délegyháza
 
-08. számú országgyűlési egyéni választókerület
+## 6. Dömsöd
 
-Rövidítése: Pest 08. OEVK
+## 7. Dunavarsány
 
-Székhelye: Szigetszentmiklós
+## 8. Kiskunlacháza
 
-Területe:
+## 9. Lórév
 
-1. Dunavarsány
+## 10. Majosháza
 
-2. Halásztelek
+## 11. Makád
 
-3. Majosháza
+## 12. Ócsa
 
-4. Százhalombatta
+## 13. Ráckeve
 
-5. Szigetcsép
+## 14. Szigetbecse
 
-6. Szigethalom
+## 15. Szigetcsép
 
-7. Szigetszentmárton
+## 16. Szigetszentmárton
 
-8. Szigetszentmiklós
+## 17. Szigetújfalu
 
-9. Szigetújfalu
+## 18. Taksony
 
-10. Tököl
+## 19. Tököl
 
-09. számú országgyűlési egyéni választókerület
+## 10. számú országgyűlési egyéni választókerület
 
-Rövidítése: Pest 09. OEVK
+## Rövidítése: Pest 10. OEVK
 
-Székhelye: Nagykáta
+## Székhelye: Szigetszentmiklós
 
-Területe:
+## Területe:
 
-1. Dány
+## 1. Dunaharaszti
 
-2. Farmos
+## 2. Halásztelek
 
-3. Galgahévíz
+## 3. Szigethalom
 
-4. Kóka
+## 4. Szigetszentmiklós
 
-5. Nagykáta
+## 11. számú országgyűlési egyéni választókerület
 
-6. Sülysáp
+## Rövidítése: Pest 11. OEVK
 
-7. Szentlőrinckáta
+## Székhelye: Vác
 
-8. Szentmártonkáta
+## Területe:
 
-9. Tápióbicske
+## 1. Acsa
 
-10. Tápiógyörgye
+## 2. Aszód
 
-11. Tápióság
+## 3. Csörög
 
-12. Tápiószecső
+## 4. Csővár
 
-13. Tápiószele
+## 5. Domony
 
-14. Tápiószentmárton
+## 6. Erdőkertes
 
-15. Tápiószőlős
+## 7. Galgagyörk
 
-16. Tóalmás
+## 8. Galgamácsa
 
-17. Tura
+## 9. Iklad
 
-18. Úri
+## 10. Kisnémedi
 
-19. Vácszentlászló
+## 11. Kosd
 
-20. Valkó
+## 12. Őrbottyán
 
-21. Zsámbok
+## 13. Penc
 
-10. számú országgyűlési egyéni választókerület
+## 14. Püspökhatvan
 
-Rövidítése: Pest 10. OEVK
+## 15. Püspökszilágy
 
-Székhelye: Monor
+## 16. Rád
 
-Területe:
+## 17. Sződ
 
-1. Albertirsa
+## 18. Sződliget
 
-2. Bénye
+## 19. Vác
 
-3. Ceglédbercel
+## 20. Vácduka
 
-4. Csévharaszt
+## 21. Vácegres
 
-5. Dánszentmiklós
+## 22. Váchartyán
 
-6. Gomba
+## 23. Váckisújfalu
 
-7. Hernád
+## 24. Vácrátót
 
-8. Káva
+## 12. számú országgyűlési egyéni választókerület
 
-9. Mende
+## Rövidítése: Pest 12. OEVK
 
-10. Mikebuda
+## Székhelye: Monor
 
-11. Monor
+## Területe:
 
-12. Monorierdő
+## 1. Bénye
 
-13. Nyáregyháza
+## 2. Farmos
 
-14. Örkény
+## 3. Gomba
 
-15. Pánd
+## 4. Káva
 
-16. Péteri
+## 5. Monor
 
-17. Pilis
+## 6. Monorierdő
 
-18. Pusztavacs
+## 7. Nagykáta
 
-19. Táborfalva
+## 8. Pánd
 
-20. Tatárszentgyörgy
+## 9. Szentlőrinckáta
 
-21. Újhartyán
+## 10. Szentmártonkáta
 
-22. Újlengyel
+## 11. Tápióbicske
 
-23. Vasad
+## 12. Tápiógyörgye
 
-11. számú országgyűlési egyéni választókerület
+## 13. Tápióság
 
-Rövidítése: Pest 11. OEVK
+## 14. Tápiószecső
 
-Székhelye: Dabas
+## 15. Tápiószele
 
-Területe:
+## 16. Tápiószentmárton
 
-1. Alsónémedi
+## 17. Tápiószőlős
 
-2. Apaj
+## 18. Tóalmás
 
-3. Áporka
+## 19. Úri
 
-4. Bugyi
+## 13. számú országgyűlési egyéni választókerület
 
-5. Dabas
+## Rövidítése: Pest 13. OEVK
 
-6. Délegyháza
+## Székhelye: Dabas
 
-7. Dömsöd
+## Területe:
 
-8. Dunaharaszti
+## 1. Albertirsa
 
-9. Inárcs
+## 2. Ceglédbercel
 
-10. Kakucs
+## 3. Csévharaszt
 
-11. Kiskunlacháza
+## 4. Dabas
 
-12. Lórév
+## 5. Dánszentmiklós
 
-13. Makád
+## 6. Hernád
 
-14. Ócsa
+## 7. Inárcs
 
-15. Ráckeve
+## 8. Kakucs
 
-16. Szigetbecse
+## 9. Mikebuda
 
-17. Taksony
+## 10. Nyáregyháza
 
-12. számú országgyűlési egyéni választókerület
+## 11. Örkény
 
-Rövidítése: Pest 12. OEVK
+## 12. Pilis
 
-Székhelye: Cegléd
+## 13. Pusztavacs
 
-Területe:
+## 14. Táborfalva
 
-1. Abony
+## 15. Tatárszentgyörgy
 
-2. Cegléd
+## 16. Újhartyán
 
-3. Csemő
+## 17. Újlengyel
 
-4. Jászkarajenő
+## 18. Vasad
 
-5. Kocsér
+## 14. számú országgyűlési egyéni választókerület
 
-6. Kőröstetétlen
+## Rövidítése: Pest 14. OEVK
 
-7. Nagykőrös
+## Székhelye: Cegléd
 
-8. Nyársapát
+## Területe:
 
-9. Törtel
+## 1. Abony
 
-10. Újszilvás
+## 2. Cegléd
+
+## 3. Csemő
+
+## 4. Jászkarajenő
+
+## 5. Kocsér
+
+## 6. Kőröstetétlen
+
+## 7. Nagykőrös
+
+## 8. Nyársapát
+
+## 9. Törtel
+
+## 10. Újszilvás
 
 Somogy vármegye
 
