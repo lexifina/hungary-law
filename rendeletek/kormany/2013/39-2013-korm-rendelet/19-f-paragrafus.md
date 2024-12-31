@@ -1,4 +1,4 @@
-## 9/B.[^104] A dohányzást helyettesítő nikotintartalmú termékre vonatkozó szabályok
+## 9/B.[^105] A dohányzást helyettesítő nikotintartalmú termékre vonatkozó szabályok
 
 19/F. § (1) A dohányzást helyettesítő nikotintartalmú termék legmagasabb nikotintartalma fogyasztási egységenként 17 mg.
 
@@ -18,4 +18,4 @@ e) nyilatkozat arról, hogy a gyártó, az importáló, illetve a forgalmazó te
 
 (4) A termék minden olyan változtatása esetén, ami a (3) bekezdés szerinti adatokat érinti, új bejelentést kell benyújtani.
 
-[^104]: A 9/B. alcímet (19/F–19/G. §-t) a 120/2024. (VI. 10.) Korm. rendelet 10. §-a iktatta be.
+[^105]: A 9/B. alcímet (19/F–19/G. §-t) a 120/2024. (VI. 10.) Korm. rendelet 10. §-a iktatta be.
