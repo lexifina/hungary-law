@@ -1,1 +1,0 @@
-1. § A központi költségvetés kiegészítő támogatási előleget biztosít a bevett egyház és annak belső egyházi jogi személye által fenntartott köznevelési és szakképző intézményeket érintő energiaár-növekedésből adódó 2023. évi többletkiadások ellentételezéséhez.

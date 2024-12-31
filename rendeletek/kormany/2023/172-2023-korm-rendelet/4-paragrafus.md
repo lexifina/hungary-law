@@ -1,1 +1,0 @@
-4. § A 2. § (4) bekezdése szerint a bevett egyház részére folyósított előlegösszeg és a bevett egyházat megillető költségvetési támogatás különbözetének rendezésére a Vhr. 37/R. §-a szerint kerül sor.
