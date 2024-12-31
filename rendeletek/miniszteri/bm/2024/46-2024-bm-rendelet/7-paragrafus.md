@@ -8,7 +8,7 @@ c) az általános rendőrségi feladatok ellátására létrehozott szerv szenio
 
 d) a minisztériumokba vezényelt hivatásos állomány,
 
-e) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.) 62. § (1) bekezdése szerint más szervhez vezényelt hivatásos állomány, valamint a Hszt. 67. §-a szerint az ügyészi szervezethez vezényelt hivatásos állomány,
+e)[^1] a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.) 62. § (1) bekezdése szerint más szervhez vezényelt hivatásos állomány, a Hszt. 67. §-a szerint az ügyészi szervezethez vezényelt hivatásos állomány, valamint a Hszt. 79/A. §-a szerinti hatósági vezényelt hivatásos állomány,
 
 f) a Nemzeti Közszolgálati Egyetemhez vezényelt hivatásos állomány, kivéve
 
@@ -31,3 +31,5 @@ l) az, aki szülési szabadságon van, továbbá a várandós nő, ha a várand�
 m) az, aki felmentési idejét tölti, valamint
 
 n) az, akinek hivatásos szolgálati jogviszonya a nyugdíjazásra tekintettel 2025. december 31. napjáig megszűnik.
+
+[^1]: A 7. § e) pontja a 62/2024. (XII. 30.) BM rendelet 49. §-ával megállapított szöveg.
