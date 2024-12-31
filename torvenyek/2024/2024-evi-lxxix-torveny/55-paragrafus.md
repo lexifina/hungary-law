@@ -1,0 +1,3 @@
+55. § A Ve. 277. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A Nemzeti Választási Iroda elnöke a (2) bekezdés szerint a szavazási levélcsomag személyes átvételét úgy állapítja meg, hogy arra a szavazást megelőző tizenötödik naptól munkanapokon legalább 9 és 16 óra között lehetőség legyen. A Nemzeti Választási Iroda elnöke a 9–16 óráig tartó időszak kezdetét korábbi, végét későbbi időpontban is megállapíthatja, továbbá a személyes átvétel lehetőségét nem munkanapnak minősülő szombatra, továbbá vasárnapra, valamint munkaszüneti napra is kiterjesztheti. A Nemzeti Választási Iroda elnökének döntését a választások hivatalos honlapján közzé kell tenni.”

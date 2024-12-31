@@ -1,0 +1,3 @@
+19. § A Ve. 40/A. §-a helyébe a következő rendelkezés lép:
+
+„40/A. § A választási bizottság ülése az elnök döntése alapján – az ülés nyilvánosságának megfelelő biztosítása mellett – elektronikus kommunikációs eszköz igénybevételével is megtartható, különösen, ha a választási bizottság határozatképessége másképp nem biztosítható.”

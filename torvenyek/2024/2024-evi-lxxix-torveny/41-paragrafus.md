@@ -1,0 +1,5 @@
+41. § A Ve. 198. §-a helyébe a következő rendelkezés lép:
+
+„198. § (1) A szavazólapokat tartalmazó csomagokat a szavazatszámláló bizottság a szavazatszámlálást követően, a szavazóhelyiségben olyan módon zárja le, hogy – a csomagolás megsértése nélkül – ne lehessen abból szavazólapot kivenni, illetve abba szavazólapot betenni. A csomagra rá kell írni a szavazókör sorszámát és a csomagban lévő szavazólapok megjelölését és számát. A csomagot a szavazatszámláló bizottság jelen lévő tagjai aláírásukkal, valamint bélyegzőlenyomattal hitelesítik.
+
+(2) A szavazólapokat tartalmazó lezárt csomagokat dobozba kell zárni. A dobozt és a szavazólapokat tartalmazó csomagokat csak jogorvoslati eljárás vagy újraszámlálás során lehet felnyitni.”

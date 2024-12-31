@@ -1,0 +1,7 @@
+# 2024. évi LXXIX. törvény egyes választási tárgyú törvények módosításáról
+
+Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2024-79-00-00
+
+| Hatályos (In-force) | Módosította (made by) | NJT időállapot |
+| --- | --- | --- |
+| 2024-12-31 | 2024. évi LXXIX. törvény | 2024-79-00-00.0 (közlönyállapot) |
