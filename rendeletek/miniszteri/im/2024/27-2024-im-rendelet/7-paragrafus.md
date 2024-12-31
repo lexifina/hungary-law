@@ -1,0 +1,3 @@
+## 4. A számviteli törvény szerinti beszámoló elektronikus úton történő letétbe helyezéséről és közzétételéről szóló 11/2009. (IV. 28.) IRM–MeHVM–PM együttes rendelet módosítása
+
+7. § A számviteli törvény szerinti beszámoló elektronikus úton történő letétbe helyezéséről és közzétételéről szóló 11/2009. (IV. 28.) IRM–MeHVM–PM együttes rendelet 3. § (5) bekezdésében és 3. § (7b) bekezdésében az „ügyfélkapus tárhelyére” szövegrész helyébe az „a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény szerinti hivatalos elérhetőségére” szöveg lép.
