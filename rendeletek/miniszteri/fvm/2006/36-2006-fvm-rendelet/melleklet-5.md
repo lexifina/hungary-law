@@ -1,6 +1,6 @@
 ## Az engedélyezett termésnövelő anyag csomagolóeszközén, valamint a 100 kg nettó tömeget meghaladó ömlesztett áru kísérő okmányán feltüntetendő adatok
 
-## 1.[^188] Az engedély száma.
+## 1.[^194] Az engedély száma.
 
 ## 2. A termésnövelő anyag kereskedelmi neve (feltűnő helyen, egyértelműen, olvashatóan).
 
@@ -22,17 +22,17 @@
 
 ## 11. Tárolási előírások.
 
-## 12.[^189] Gyártási idő (év, hónap, nap), eltarthatóság a gyártó által adott gyártási számot, vagy a tétel azonosítására alkalmas jelölést.
+## 12.[^195] Gyártási idő (év, hónap, nap), eltarthatóság a gyártó által adott gyártási számot, vagy a tétel azonosítására alkalmas jelölést.
 
 ## 13. A termésnövelő anyag – kérelmező által megadott – vámtarifaszáma hat számjegyig.
 
-## 14.[^190] Garantált nettó tömeg vagy térfogat.
+## 14.[^196] Garantált nettó tömeg vagy térfogat.
 
 ## 15. Ha a termésnövelő anyag a veszélyes áruk szállításáról szóló (ADR/RID) szabályzatok hatálya alá esik, a termék UN száma és ADR/RID osztálya.
 
 ## 16. Egyéb előírások.
 
-## 17.[^191] A címkén feltüntetett kötelező információk legkisebb betűmérete:
+## 17.[^197] A címkén feltüntetett kötelező információk legkisebb betűmérete:
 
 |  | A | B | C | D |
 
@@ -40,7 +40,7 @@
 
 | 2. | betűméret minimum | 8 | 10 | 12 |
 
-## 4. számú melléklet függeléke[^192]
+## 4. számú melléklet függeléke[^198]
 
 ## A tápelemek feltüntetésére vonatkozó előírások
 
@@ -106,7 +106,7 @@ h) a gyártó által megadott tárolási és eltarthatósági feltételek.
 
 3. Kísérlet
 
-a)[^193] helyszíne (vármegye, helység, gazdaság, földhasználó),
+a)[^199] helyszíne (vármegye, helység, gazdaság, földhasználó),
 
 b) az összes kísérleti terület nagysága ha-ban kifejezve,
 
@@ -118,9 +118,9 @@ e) kezelések adatai (dózis, koncentráció, fenofázis, kezelés módja, felha
 
 f) értékelési szempontok.
 
-[^188]: A 4. számú melléklet 1. pontja a 10/2010. (II. 4.) FVM rendelet 13. § (4) bekezdése, a 163/2023. (XII. 27.) AM rendelet 5. § f) pontja szerint módosított szöveg.
-[^189]: A 4. számú melléklet 12. pontja a 37/2014. (XII. 17.) FM rendelet 16. § (4) bekezdésével megállapított szöveg.
-[^190]: A 4. melléklet 14. pontja a 42/2013. (V. 28.) VM rendelet 1. §-a szerint módosított szöveg.
-[^191]: A 4. számú melléklet 17. pontját a 37/2014. (XII. 17.) FM rendelet 16. § (4) bekezdése iktatta be.
-[^192]: A 4. számú melléklet függeléke a 72/2012. (VII. 24.) VM rendelet 9. § e) pontja, a 64/2017. (XII. 22.) FM rendelet 2. §-a szerint módosított szöveg.
-[^193]: Az 5. számú melléklet 3. pont a) alpontja a 93/2022. (XII. 27.) AM rendelet 1. § e) pontja szerint módosított szöveg.
+[^194]: A 4. számú melléklet 1. pontja a 10/2010. (II. 4.) FVM rendelet 13. § (4) bekezdése, a 163/2023. (XII. 27.) AM rendelet 5. § f) pontja szerint módosított szöveg.
+[^195]: A 4. számú melléklet 12. pontja a 37/2014. (XII. 17.) FM rendelet 16. § (4) bekezdésével megállapított szöveg.
+[^196]: A 4. melléklet 14. pontja a 42/2013. (V. 28.) VM rendelet 1. §-a szerint módosított szöveg.
+[^197]: A 4. számú melléklet 17. pontját a 37/2014. (XII. 17.) FM rendelet 16. § (4) bekezdése iktatta be.
+[^198]: A 4. számú melléklet függeléke a 72/2012. (VII. 24.) VM rendelet 9. § e) pontja, a 64/2017. (XII. 22.) FM rendelet 2. §-a szerint módosított szöveg.
+[^199]: Az 5. számú melléklet 3. pont a) alpontja a 93/2022. (XII. 27.) AM rendelet 1. § e) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-3. számú melléklet a 36/2006. (V. 18.) FVM rendelethez[^187]
+3. számú melléklet a 36/2006. (V. 18.) FVM rendelethez[^193]
 
 Minőségi előírások a termésnövelő anyagokra
 
@@ -718,4 +718,4 @@ A/1. NITROGÉN MŰTRÁGYÁK
 
 | Karbamid-ammónium-szulfát | 0,5 N |
 
-[^187]: A 3. számú melléklet a 10/2010. (II. 4.) FVM rendelet 13. § (2) bekezdése, a 42/2013. (V. 28.) VM rendelet 1. §-a, a 37/2014. (XII. 17.) FM rendelet 16. § (3) bekezdése, az 52/2017. (X. 13.) FM rendelet 3. § c) pontja és 4–5. §-a szerint módosított szöveg.
+[^193]: A 3. számú melléklet a 10/2010. (II. 4.) FVM rendelet 13. § (2) bekezdése, a 42/2013. (V. 28.) VM rendelet 1. §-a, a 37/2014. (XII. 17.) FM rendelet 16. § (3) bekezdése, az 52/2017. (X. 13.) FM rendelet 3. § c) pontja és 4–5. §-a szerint módosított szöveg.
