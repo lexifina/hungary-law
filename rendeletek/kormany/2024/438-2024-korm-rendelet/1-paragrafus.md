@@ -1,0 +1,3 @@
+1. § A Pázmány Péter Katolikus Egyetem oktatási célú ingatlanjainak bővítését és fejlesztését célzó beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé és a beruházás kiemelten közérdekű beruházássá nyilvánításáról szóló 195/2021. (IV. 26.) Korm. rendelet (a továbbiakban: R.) 1. §-a a következő (4) bekezdéssel egészül ki:
+
+„(4) A Kormány a Beruházás során építési tevékenységgel érintett, a (3) bekezdésben meghatározott ingatlanok közvetlen környezetébe tartozó, az építési tevékenység költséghatékony elvégzéséhez szükséges közterület ingyenes használatának feltétlenül szükséges időtartamát – közterület-használati engedély vagy megállapodás hiányában is – a 2. melléklet szerint határozza meg.”
