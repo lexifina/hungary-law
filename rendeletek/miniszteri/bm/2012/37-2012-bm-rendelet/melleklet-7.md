@@ -1,7 +1,3 @@
-## Az Év Vízügyi Dolgozója Miniszteri Díj emlékplakett kör alakú, bronzból készült, átmérője 110 milliméter, vastagsága 12 milliméter. A plakett egyik oldalát Magyarország címere díszíti.
-
-## Az Év Vízügyi Dolgozója Miniszteri Díj plakettjének másik oldalára a díj megnevezése, a díjazott neve és a díjazás időpontja kerül rávésésre.
-
 7. melléklet a 37/2012. (VIII. 2.) BM rendelethez
 
 A Szemere Bertalan Érdemjel leírása és viselési rendje

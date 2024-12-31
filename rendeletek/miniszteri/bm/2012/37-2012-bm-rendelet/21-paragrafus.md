@@ -2,22 +2,8 @@
 
 ## ÉRMEK, EMLÉKÉRMEK, EMLÉKPLAKETTEK
 
-## 19. Árvíz és Belvíz Elleni Védekezésért Emlékérem
+## 19.[^82]
 
-21. § (1)[^84] Az Árvíz és Belvíz Elleni Védekezésért Emlékérem az országot sújtó árvíz, belvíz elleni védekezésben kiemelkedő teljesítményt nyújtó személyek tevékenységének elismerésére adományozható.
+21. §
 
-(2) Az Árvíz és Belvíz Elleni Védekezésért Emlékérem
-
-a) arany fokozata legfeljebb 1,
-
-b) ezüst fokozata legfeljebb 5,
-
-c) bronz fokozata legfeljebb 20
-
-fő részére adományozható egy-egy védekezési időszakban kiemelkedő tevékenység tanúsításáért.
-
-(3) Ugyanazon fokozat egy személy részére csak egy alkalommal adományozható.
-
-(4) Az elismerés leírását a 15. melléklet tartalmazza.
-
-[^84]: A 21. § (1) bekezdése az 51/2014. (XI. 26.) BM rendelet 6. §-ával megállapított szöveg.
+[^82]: A 19. alcímet (21. §-t) a 62/2024. (XII. 30.) BM rendelet 9. § e) pontja hatályon kívül helyezte.

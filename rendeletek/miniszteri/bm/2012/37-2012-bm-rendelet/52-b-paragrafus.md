@@ -1,15 +1,6 @@
-## 52/A. §[^151] A 26/A. §-ban meghatározott Bűnmegelőzésért Emlékérem elismerés adományozására az 50. § (4) bekezdése szerint előterjesztett kezdeményezések alapján a Nemzeti Bűnmegelőzési Tanács elnöke tesz javaslatot. Az elismerés adományozásáról a Nemzeti Bűnmegelőzési Tanács elnökének javaslata alapján a belügyminiszter dönt.
+## 52/A. §[^144] A 26/A. §-ban meghatározott Bűnmegelőzésért Emlékérem elismerés adományozására az 50. § (4) bekezdése szerint előterjesztett kezdeményezések alapján a Nemzeti Bűnmegelőzési Tanács elnöke tesz javaslatot. Az elismerés adományozásáról a Nemzeti Bűnmegelőzési Tanács elnökének javaslata alapján a belügyminiszter dönt.
 
-52/B. §[^152] (1)[^153] A 9., a 9/A., a 26. és a 26/B. §-ban meghatározott elismerések (a továbbiakban: vízügyi elismerések) adományozására vonatkozó javaslatokat szakmai kuratórium fogadja be, véleményezi és rangsorolja.
+52/B. §[^145]
 
-(2) A szakmai kuratórium elnökét és tagjait évente a vízügyért felelős helyettes államtitkár kéri fel a vízügyi szakemberek közül.
-
-(3) A kuratórium 9 főből áll, döntését szótöbbséggel hozza.
-
-(4) A szakmai kuratórium döntését követően a vízügyi elismerések adományozására vonatkozó javaslatát eljuttatja a belügyminiszterhez.
-
-(5) A szakmai kuratóriumban való részvételért tiszteletdíj nem jár.
-
-[^151]: Az 52/A. §-t a 17/2013. (V. 9.) BM rendelet 5. §-a iktatta be, szövege az 51/2014. (XI. 26.) BM rendelet 14. §-ával megállapított szöveg.
-[^152]: Az 52/B. §-t a 21/2014. (III. 10.) BM rendelet 6. §-a iktatta be.
-[^153]: Az 52/B. § (1) bekezdése a 39/2022. (XI. 22.) BM rendelet 16. § g) pontja szerint módosított szöveg.
+[^144]: Az 52/A. §-t a 17/2013. (V. 9.) BM rendelet 5. §-a iktatta be, szövege az 51/2014. (XI. 26.) BM rendelet 14. §-ával megállapított szöveg.
+[^145]: Az 52/B. §-t a 21/2014. (III. 10.) BM rendelet 6. §-a iktatta be, a 62/2024. (XII. 30.) BM rendelet 9. § i) pontja hatályon kívül helyezte.

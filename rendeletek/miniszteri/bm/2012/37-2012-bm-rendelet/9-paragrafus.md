@@ -1,7 +1,5 @@
-## 9. Az Év Vízügyi Dolgozója Miniszteri Díj
+## 9.[^14]
 
-9. § (1)[^14] Az Év Vízügyi Dolgozója Miniszteri Díj a vízügyi igazgatási szervek és a vízügyi hatóságok állományában dolgozó, munkájukat huzamos időn keresztül kiválóan végző, a közösség elé példaképül állítható kormánytisztviselői, közalkalmazotti jogviszonyban állók elismerésére adományozható, évente 2 fő részére.
+9. §
 
-(2) A miniszteri díj átadására a Víz Világnapja alkalmából (március 22.) kerül sor.
-
-[^14]: A 9. § (1) bekezdése az 51/2014. (XI. 26.) BM rendelet 3. §-ával megállapított szöveg.
+[^14]: A 9. alcímet (9. §-t) a 62/2024. (XII. 30.) BM rendelet 9. § a) pontja hatályon kívül helyezte.
