@@ -18,13 +18,13 @@ e) a (2) bekezdésben foglalt információkat tartalmazó honlap címéről.
 
 (4) A települési önkormányzat a honlapján köteles biztosítani, hogy az ivóvízszolgáltató adatai és elérhetőségei; az ivóvíz-szolgáltatással kapcsolatos (3) bekezdés a), b) és e) pontja szerinti információk, valamint a 17. § (1) bekezdése szerinti rendkívüli események, vagy ezek elérési helye elérhetőek legyenek a fogyasztók számára.
 
-(5)[^48] Az NNGYK a HUMVI rendszerben rendelkezésre álló adatok alapján értékeli az ivóvízminőség országos helyzetét, erről évente összefoglalót készít, és azt az éves településsoros ivóvíz-minőségi adatokkal, valamint az élelmiszeripari vállalkozások ivóvízminőségi helyzetére vonatkozó adatokkal együtt az országos tisztifőorvos honlapján közzéteszi.
+(5)[^52] Az NNGYK a HUMVI rendszerben rendelkezésre álló adatok alapján értékeli az ivóvízminőség országos helyzetét, erről évente összefoglalót készít, és azt az éves településsoros ivóvíz-minőségi adatokkal, valamint az élelmiszeripari vállalkozások ivóvízminőségi helyzetére vonatkozó adatokkal együtt az országos tisztifőorvos honlapján közzéteszi.
 
 (6) Az ivóvíz egészségre gyakorolt hatásáról kérelemre az ivóvíz-szolgáltatás helye szerint hatáskörrel rendelkező népegészségügyi szerv ad felvilágosítást.
 
-(7)[^49] Az ivóvíz-szolgáltatás helye szerint hatáskörrel rendelkező népegészségügyi szerv által jóváhagyott ivóvízbiztonsági terveknek megfelelően üzemelő ivóvízellátó rendszerek listáját a fővárosi és vármegyei kormányhivatal, vagy a járási hivatal a honlapján közzéteszi, a listát szükség esetén, de legalább évente frissíti, valamint az adatokat az NNGYK-nak is megküldi.
+(7)[^53] Az ivóvíz-szolgáltatás helye szerint hatáskörrel rendelkező népegészségügyi szerv által jóváhagyott ivóvízbiztonsági terveknek megfelelően üzemelő ivóvízellátó rendszerek listáját a fővárosi és vármegyei kormányhivatal, vagy a járási hivatal a honlapján közzéteszi, a listát szükség esetén, de legalább évente frissíti, valamint az adatokat az NNGYK-nak is megküldi.
 
 (8) A napi átlagban legalább 10 000 m3 ivóvizet szolgáltató, vagy legalább 50 000 főt ellátó ivóvízszolgáltatók esetében a víziközmű-szolgáltatásért felelős miniszter az általa vezetett minisztérium honlapján éves tájékoztatást nyújt a víz köbméterenkénti díjának szerkezetére vonatkozóan, ideértve az állandó és a változó költségeket, valamint a 24. § szerinti intézkedésekkel kapcsolatos költségeket, ha az ivóvízszolgáltató megvalósított ilyeneket.
 
-[^48]: A 25. § (5) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 71. § c) pontja szerint módosított szöveg.
-[^49]: A 25. § (7) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 71. § f) pontja szerint módosított szöveg.
+[^52]: A 25. § (5) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 71. § c) pontja szerint módosított szöveg.
+[^53]: A 25. § (7) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 71. § f) pontja szerint módosított szöveg.

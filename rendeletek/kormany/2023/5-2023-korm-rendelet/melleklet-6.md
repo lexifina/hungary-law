@@ -24,11 +24,11 @@
 
 ## 2.6. Ivóvízzel vagy használati melegvízzel érintkezésbe kerülő egyéb termékek, beleértve a szerelvényeket, szelepeket, szivattyúkat, csapokat, vízmérőket, tömítéseket, ragasztókat, forraszanyagokat, a kivitelezés helyszínén előállított in-situ bevonatokat, bevonatrendszereket, javításra használt anyagokat, amelyek vizsgálatára és értékelésére vonatkozóan nincs érvényes magyar szabványként bevezetett európai termékszabvány.
 
-## 3.[^61] Az NNGYK-hoz benyújtandó engedélyezési vagy nyilvántartásba vételi kérelem tartalmi követelményei és mellékletei
+## 3.[^68] Az NNGYK-hoz benyújtandó engedélyezési vagy nyilvántartásba vételi kérelem tartalmi követelményei és mellékletei
 
 ## 1. A kérelem tartalmi követelményei:
 
-## 1.1. A termék forgalmazási neve
+## 1.1.[^69] A termék, termékcsalád forgalmazási neve, termék, termékcsalád típusainak listája
 
 ## 1.2. A hazai forgalmazó cégek neve, adószáma, telephelyei
 
@@ -46,11 +46,11 @@
 
 ## 2.4. NNK által előzetesen elkészített közegészségügyi értékelés száma
 
-## 4.[^62] Az NNGYK-hoz benyújtandó felülvizsgálati kérelem tartalmi követelményei és mellékletei
+## 4.[^70] Az NNGYK-hoz benyújtandó felülvizsgálati kérelem tartalmi követelményei és mellékletei
 
 ## 1. A kérelem tartalmi követelményei:
 
-## 1.1. A termék forgalmazási neve
+## 1.1.[^71] A termék, termékcsalád forgalmazási neve, termék, termékcsalád típusainak listája
 
 ## 1.2. A hazai forgalmazó cégek neve, adószáma, telephelyei
 
@@ -68,9 +68,9 @@
 
 ## 2.4. Magyar nyelvű használati útmutató, vagy kezelési-üzemeltetési utasítás vagy gépkönyv, amely tartalmazza a közegészségügyi szempontú alkalmazási feltételeket, valamint esetlegesen a termék használatával összefüggésbe hozható, kizárólag annak rendeltetésből egyértelműen levezethető állításokat
 
-## 2.5.[^63] NNGYK által előzetesen elkészített közegészségügyi értékelés száma
+## 2.5.[^72] NNGYK által előzetesen elkészített közegészségügyi értékelés száma
 
-6. melléklet az 5/2023. (I. 12.) Korm. rendelethez[^64]
+6. melléklet az 5/2023. (I. 12.) Korm. rendelethez[^73]
 
 Az ivóvízbiztonsági terv tartalmi követelményei és a jóváhagyáshoz benyújtandó dokumentumok*
 
@@ -150,7 +150,9 @@ A nyersvíz minőségének értékelése illetve a nyersvíz minőségével öss
 
 *Megjegyzés: Az ivóvízellátó rendszer főbb elemein végig vezetve kell a szükséges adatokat, a lehetséges veszélyeket és kockázatokat (figyelembe véve az az éghajlatváltozásra, az ivóvízellátó rendszerben előforduló szivárgásokra és az azokra visszavezethető kockázatokat, illetve az ivóvízzel érintkezésbe kerülő anyagok, ivóvízkezelő vegyszerek és szűrőanyagok megfelelőségét), a kockázatértékelés módját, a beavatkozási lehetőségeket és az ellenőrző rendszert az ivóvízbiztonsági tervben rögzíteni.
 
-[^61]: Az 5. melléklet 3. pont címe a 334/2023. (VII. 20.) Korm. rendelet 71. § g) pontja szerint módosított szöveg.
-[^62]: Az 5. melléklet 4. pont címe a 334/2023. (VII. 20.) Korm. rendelet 71. § g) pontja szerint módosított szöveg.
-[^63]: Az 5. melléklet 4. pont 2. alpont 2.5. pontja a 334/2023. (VII. 20.) Korm. rendelet 71. § c) pontja szerint módosított szöveg.
-[^64]: A 6. melléklet a 334/2023. (VII. 20.) Korm. rendelet 71. § c) pontja szerint módosított szöveg.
+[^68]: Az 5. melléklet 3. pont címe a 334/2023. (VII. 20.) Korm. rendelet 71. § g) pontja szerint módosított szöveg.
+[^69]: Az 5. melléklet 3. pont 1.1. alpontja a 463/2024. (XII. 30.) Korm. rendelet 84. § (2) bekezdésével megállapított szöveg.
+[^70]: Az 5. melléklet 4. pont címe a 334/2023. (VII. 20.) Korm. rendelet 71. § g) pontja szerint módosított szöveg.
+[^71]: Az 5. melléklet 4. pont 1.1. alpontja a 463/2024. (XII. 30.) Korm. rendelet 84. § (2) bekezdésével megállapított szöveg.
+[^72]: Az 5. melléklet 4. pont 2. alpont 2.5. pontja a 334/2023. (VII. 20.) Korm. rendelet 71. § c) pontja szerint módosított szöveg.
+[^73]: A 6. melléklet a 334/2023. (VII. 20.) Korm. rendelet 71. § c) pontja szerint módosított szöveg.

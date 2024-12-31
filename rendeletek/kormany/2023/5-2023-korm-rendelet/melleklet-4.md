@@ -310,11 +310,11 @@ Az ivóvízszolgáltató által a fogyasztók számára nyújtandó tájékoztat
 
 3. Az ivóvízszolgáltató köteles a fogyasztó indokolt kérésére hozzáférést biztosítani a 2. pont szerinti információkhoz legfeljebb 10 évre visszamenőleg, ha ehhez a HUMVI rendszerben rendelkezésre állnak a szükséges jóváhagyott adatok.
 
-4. Információk az emberi egészségre nézve jelentkező potenciális veszélyről, és ezzel kapcsolatban az egészségvédelmi és fogyasztási tanácsok vagy egy ezen információkat tartalmazó weboldalra mutató link a 4. § szerint meghatározott határértékek és parametrikus értékek túllépését követően a népegészségügyi szerv által megállapított, az emberi egészségre nézve jelentkező potenciális veszély esetén, ha a 19. § (2) bekezdés szerint a népegészségügyi szerv által előírt tájékoztatási kötelezettség fennáll.
+4.[^66] Információk az emberi egészségre nézve jelentkező potenciális veszélyről, és ezzel kapcsolatban az egészségvédelmi és fogyasztási tanácsok vagy egy ezen információkat tartalmazó weboldalra mutató link a 4. § szerint meghatározott határértékek és parametrikus értékek túllépését követően a népegészségügyi szerv által megállapított, az emberi egészségre nézve jelentkező potenciális veszély esetén, ha a 19. § (2) bekezdés szerint a népegészségügyi szerv által előírt tájékoztatási kötelezettség fennáll.
 
 5. Az ivóvízellátó rendszer kockázatértékelésével kapcsolatos releváns információk.
 
-6.[^60] A fogyasztóknak szóló tanácsok arról, hogy adott esetben miként csökkenthetik az ivóvízfogyasztásukat, hogyan használhatják a korábbi állapothoz viszonyítva felelősségteljesebben a helyi adottságoknak megfelelően az ivóvizet, illetve hogyan kerülhetik el a nem megfelelő ivóvízhasználatból, a pangó ivóvíz fogyasztásából eredő egészségkockázatokat, vagy tájékoztatás arról, hogy az ezekről szóló tanácsok elérhetőek az NNGYK honlapján.
+6.[^67] A fogyasztóknak szóló tanácsok arról, hogy adott esetben miként csökkenthetik az ivóvízfogyasztásukat, hogyan használhatják a korábbi állapothoz viszonyítva felelősségteljesebben a helyi adottságoknak megfelelően az ivóvizet, illetve hogyan kerülhetik el a nem megfelelő ivóvízhasználatból, a pangó ivóvíz fogyasztásából eredő egészségkockázatokat, vagy tájékoztatás arról, hogy az ezekről szóló tanácsok elérhetőek az NNGYK honlapján.
 
 7. A napi átlagban legalább 10 000 m3 ivóvizet szolgáltató, vagy legalább 50 000 főt ellátó ivóvízszolgáltatók esetében éves tájékoztatás a következőkről:
 
@@ -324,4 +324,5 @@ Az ivóvízszolgáltató által a fogyasztók számára nyújtandó tájékoztat
 
 7.3. ha rendelkezésre áll, az e rendelet hatálya alá tartozó tárgykörökhöz kapcsolódóan az ivóvízszolgáltatóhoz intézett fogyasztói panaszok összefoglalása és az ezekkel kapcsolatos statisztikák;
 
-[^60]: A 4. melléklet 6. pontja a 334/2023. (VII. 20.) Korm. rendelet 71. § c) pontja szerint módosított szöveg.
+[^66]: [A 4. melléklet 4. pontjában a 463/2024. (XII. 30.) Korm. rendelet 85. § b) pontja által elrendelt módosítás, amely szerint a „legfrissebb” szövegrész helyébe az „értékelt” szöveg lép, nem vezethető át.]
+[^67]: A 4. melléklet 6. pontja a 334/2023. (VII. 20.) Korm. rendelet 71. § c) pontja szerint módosított szöveg.
