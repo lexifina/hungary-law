@@ -1094,6 +1094,14 @@
 
 ## 76. § (1) A vizsgabizottság kérelemre valamennyi vizsga letétele alól felmentést ad, ha a jelölt hitelesen igazolja, hogy más szolgálati helyen fegyveres biztonsági őri szolgálatot látott el, a rendelet szerinti vizsgákat eredményesen letette, és korábbi fegyveres biztonsági őri munkaviszonya nem egészségügyi alkalmatlanság miatt szűnt meg.
 
+## (1a)[^82] A vizsgabizottság kérelemre valamennyi vizsga letétele alól felmentést ad, ha a jelölt igazolja, hogy
+
+## a) büntetés-végrehajtási felügyelő szakképesítéssel vagy
+
+## b) a Büntetés-végrehajtási Szervezet Oktatási, Továbbképzési és Rehabilitációs Központjában, illetve az e szervezet jogelődjénél szerzett alapfokú végzettséggel
+
+## rendelkezik.
+
 ## (2) Az (1) bekezdésben meghatározottakon túl:
 
 ## a) az elméleti vizsga jogi ismereti része alól, ha a jelölt hitelesen igazolja, hogy
@@ -1106,11 +1114,11 @@
 
 ## c) az önvédelmi vizsga alól, ha a jelölt igazolja, hogy valamely küzdősportban sportminősítést (pl. övfokozat) szerzett.
 
-## X. Fejezet[^82]
+## X. Fejezet[^83]
 
-## ZÁRÓ RENDELKEZÉSEK[^83]
+## ZÁRÓ RENDELKEZÉSEK[^84]
 
-## 77. §[^84] E Szabályzat alkalmazásában az őrség irányítására jogosult személy a kötelezett, illetve az őrséget működtető szervezet vezetője és a helyettesítésére, illetve a nevében utasítás kiadására jogosult személy, továbbá az Fbő. törvény 1. § (6) bekezdésében meghatározott szerveknél a hivatásos állomány ügyeleti szolgálatot ellátó, valamint azt irányító tagja.
+## 77. §[^85] E Szabályzat alkalmazásában az őrség irányítására jogosult személy a kötelezett, illetve az őrséget működtető szervezet vezetője és a helyettesítésére, illetve a nevében utasítás kiadására jogosult személy, továbbá az Fbő. törvény 1. § (6) bekezdésében meghatározott szerveknél a hivatásos állomány ügyeleti szolgálatot ellátó, valamint azt irányító tagja.
 
 ## 1. számú függelék
 
@@ -1401,6 +1409,7 @@ aláírás
 [^79]: A melléklet 69. § (2) bekezdése a 86/2009. (XII. 30.) IRM rendelet 11. § (2) bekezdése szerint módosított szöveg.
 [^80]: A melléklet 70. § (2) bekezdés j) pontját a 86/2009. (XII. 30.) IRM rendelet 9. §-a iktatta be.
 [^81]: A melléklet 73. § (2) bekezdése a 11/2022. (IV. 29.) BM rendelet 1. §-ával megállapított szöveg.
-[^82]: A melléklet X. Fejezetét (77. §) a 86/2009. (XII. 30.) IRM rendelet 10. §-a iktatta be.
-[^83]: A melléklet X. Fejezet címét a 86/2009. (XII. 30.) IRM rendelet 10. §-a iktatta be.
-[^84]: A 77. §-t a 86/2009. (XII. 30.) IRM rendelet 10. §-a iktatta be.
+[^82]: A Melléklet 76. § (1a) bekezdését a 62/2024. (XII. 30.) BM rendelet 1. §-a iktatta be.
+[^83]: A melléklet X. Fejezetét (77. §) a 86/2009. (XII. 30.) IRM rendelet 10. §-a iktatta be.
+[^84]: A melléklet X. Fejezet címét a 86/2009. (XII. 30.) IRM rendelet 10. §-a iktatta be.
+[^85]: A 77. §-t a 86/2009. (XII. 30.) IRM rendelet 10. §-a iktatta be.

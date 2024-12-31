@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-27-20-0
 | 2021-06-26 | 1998-27-20-0A.12 | 15/2021. (VI. 18.) BM rendelet |
 | 2022-04-30 | 1998-27-20-0A.13 | 11/2022. (IV. 29.) BM rendelet |
 | 2023-01-01 | 1998-27-20-0A.14 | 8/2008. (IV. 22.) IRM rendelet |
+| 2024-12-31 | 1998-27-20-0A.15 | 62/2024. (XII. 30.) BM rendelet |
