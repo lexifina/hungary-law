@@ -1,4 +1,4 @@
-## 3/A.[^6] Az EESZT-vel kapcsolatos kijelölő rendelkezések
+## 3/A.[^7] Az EESZT-vel kapcsolatos kijelölő rendelkezések
 
 5/A. § (1) A Kormány az egészségügyért felelős minisztert jelöli ki
 
@@ -14,7 +14,7 @@ c) az Eüak. 35/L. §-a szerinti feladatok ellátására kapcsolati kódot kezel
 
 (4) Az egészségügyért felelős miniszter az e § szerinti feladata ellátásába adatfeldolgozóként vonja be a Szolgáltatóközpontot.
 
-(5)[^7] Az egészségügyért felelős miniszter az Eüak. 7. § (7) bekezdése, valamint az egészségügyről szóló 1997. évi CLIV. törvény 24. § (9)–(11) bekezdése szerinti egészségügyi adatok megismerésének biztosítása érdekében az egészségügyi adatok orvosszakmai értékeléséhez adatfeldolgozóként az Országos Kórházi Főigazgatóságot (a továbbiakban: OKFŐ) bevonja. Az OKFŐ további adatfeldolgozót is igénybe vehet.
+(5)[^8] Az egészségügyért felelős miniszter az Eüak. 7. § (7) bekezdése, valamint az egészségügyről szóló 1997. évi CLIV. törvény 24. § (9)–(11) bekezdése szerinti egészségügyi adatok megismerésének biztosítása érdekében az egészségügyi adatok orvosszakmai értékeléséhez adatfeldolgozóként az Országos Kórházi Főigazgatóságot (a továbbiakban: OKFŐ) bevonja. Az OKFŐ további adatfeldolgozót is igénybe vehet.
 
-[^6]: A 3/A. alcímet (5/A. §-t) a 630/2022. (XII. 30.) Korm. rendelet 33. §-a iktatta be.
-[^7]: Az 5/A. § (5) bekezdését a 659/2023. (XII. 28.) Korm. rendelet 59. §-a iktatta be.
+[^7]: A 3/A. alcímet (5/A. §-t) a 630/2022. (XII. 30.) Korm. rendelet 33. §-a iktatta be.
+[^8]: Az 5/A. § (5) bekezdését a 659/2023. (XII. 28.) Korm. rendelet 59. §-a iktatta be.
