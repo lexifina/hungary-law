@@ -12,8 +12,6 @@ bb) a mezőgazdasági termelő nem teljesítette a mezőgazdasági üzem teljes 
 
 (2) Az adott táblán nem teljesül a választott gyakorlat, ha annak megállapított hasznosítása nem felel meg a választott gyakorlat földhasználati kategóriájának.
 
-(3) Ha az ellenőrzés keretében megállapításra kerül, hogy a tárgyévben a mezőgazdasági termelő egy vagy több táblán megsértette az Egységes kérelem rendelet 17. §-a szerinti követelményeket, és a mezőgazdasági termelő az adott földhasználati kategóriában olyan gyakorlatot választ, amely
+(3)[^3]
 
-a) nem a földhasználati kategória teljes területén teljesítendő, akkor az ily módon nem támogatható táblán vagy táblákon a gyakorlat teljesítése nem fogadható el; vagy
-
-b) a földhasználati kategória teljes területén teljesítendő, és az ily módon nem támogatható terület eléri vagy meghaladja az adott földhasználati kategória teljes területének 10 százalékát, akkor a gyakorlat nem teljesítettnek tekintendő.
+[^3]: A 8. § (3) bekezdését a 79/2024. (XII. 30.) AM rendelet 3. §-a hatályon kívül helyezte.

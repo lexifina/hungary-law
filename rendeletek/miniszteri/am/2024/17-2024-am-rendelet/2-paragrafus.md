@@ -8,7 +8,7 @@
 
 a) a támogatási programmal érintett területe vonatkozásában a Közös Agrárpolitika Stratégiai Tervből finanszírozott fenntarthatóságot elősegítő alapszintű-jövedelemtámogatás, az ahhoz kapcsolódó átmeneti nemzeti támogatás, valamint a fenntarthatóságot elősegítő, átcsoportosítással nyújtható kiegészítő jövedelemtámogatás igénybevételével kapcsolatos egyes kérdésekről szóló 18/2024. (IV. 9.) AM rendelet alapján jogosult fenntarthatóságot elősegítő alapszintű-jövedelemtámogatásra (a továbbiakban: alaptámogatás);
 
-b) a mezőgazdasági üzem teljes területén elvégzett tevékenységek Egységes kérelem rendelet 7. § (6) bekezdése szerinti adatszolgáltatásának (a továbbiakban: adatszolgáltatás) eleget tesz;
+b)[^1] a mezőgazdasági üzem teljes területén elvégzett tevékenységek Egységes kérelem rendelet 7. § (5) bekezdése szerinti adatszolgáltatásának (a továbbiakban: adatszolgáltatás) eleget tesz;
 
 c) az egységes kérelemben vállalja a mezőgazdasági üzem e rendelet szerinti minden földhasználati kategóriájára a 4. mellékletben felsorolt egy vagy több mezőgazdasági gyakorlat (a továbbiakban: gyakorlat) teljesítését a 4. mellékletben meghatározott pontozási rendszer alapján legalább 2 pont, de legfeljebb 4 pont értékben; és
 
@@ -30,6 +30,7 @@ b) Natura 2000 gyepterület, valamint a különleges állandó kultúra vonatkoz
 
 (3) A mezőgazdasági termelő a támogatási programban – az alaptámogatásban részesülő, az Európai Mezőgazdasági Orientációs és Garanciaalap, illetve az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásával megvalósuló erdősített terület kivételével – a mezőgazdasági üzemének teljes területével vesz részt, azzal, hogy a (2) bekezdés a) pontjában meghatározott területméret alatti földhasználati kategóriába tartozó terület, valamint a Natura 2000 gyepterület, valamint a különleges állandó kultúra (a továbbiakban együtt: gyakorlat teljesítése alól mentesített terület) akkor részesülhet támogatásban, ha a mezőgazdasági termelő ezen terület vonatkozásában az egységes kérelemben gyakorlatot vállal.
 
-(4)[^1] A támogatást igényelheti az a mezőgazdasági termelő is, valamint a támogatás annak a mezőgazdasági termelőnek is kifizetésre kerülhet, aki vagy amely csőd-, felszámolási, végelszámolási, adósságrendezési eljárás alatt áll.
+(4)[^2] A támogatást igényelheti az a mezőgazdasági termelő is, valamint a támogatás annak a mezőgazdasági termelőnek is kifizetésre kerülhet, aki vagy amely csőd-, felszámolási, végelszámolási, adósságrendezési eljárás alatt áll.
 
-[^1]: A 2. § (4) bekezdését a 33/2024. (V. 30.) AM rendelet 40. §-a iktatta be.
+[^1]: A 2. § (1) bekezdés b) pontja a 79/2024. (XII. 30.) AM rendelet 2. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § (4) bekezdését a 33/2024. (V. 30.) AM rendelet 40. §-a iktatta be.

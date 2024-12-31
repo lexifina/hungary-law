@@ -36,7 +36,7 @@ kell igazolnia.
 
 (6) Az (5) bekezdés szerinti igazoló dokumentumokat a mezőgazdasági termelőnek a KAP Vhr. 19. §-a szerint kell megőriznie, amelyeket a Kincstár helyszíni vizsgálat keretében jogosult ellenőrizni.
 
-(7)[^8] A gyakorlat19 nem teljesíthető olyan táblán, ahol az álló- és folyóvizek partjától számított 50 méteres biztonsági sáv vagy sávok miatt a tábla területének több mint 15 százaléka nem kezelhető, kivéve, ha az adott készítmény engedélyokiratában 50 méternél keskenyebb biztonsági sáv szerepel.
+(7)[^17] A gyakorlat19 nem teljesíthető olyan táblán, ahol az álló- és folyóvizek partjától számított 50 méteres biztonsági sáv vagy sávok miatt a tábla területének több mint 15 százaléka nem kezelhető, kivéve, ha az adott készítmény készítmény engedélyokiratában vagy jogszabályban 50 méternél keskenyebb biztonsági sáv szerepel.
 
 (8) A gyakorlat19-et nem teljesítettnek kell tekinteni a gyakorlat19 teljesítésébe bevont tábla vonatkozásában, ha az ellenőrzés keretében megállapításra kerül, hogy a mezőgazdasági termelő
 
@@ -52,4 +52,4 @@ a) az egyéb állandó kultúra terület legalább 50%-án nem használt, vagy n
 
 b) nem vagy nem az Egységes kérelem rendeletnek megfelelően jelentette be agrotechnikai műveletként a mikrobiológiai készítmény alkalmazását az egyéb állandó kultúra területnek a gyakorlat19 teljesítésére bejelentett táblák mindegyikén, de legalább a teljes egyéb állandó kultúra terület 50%-án.
 
-[^8]: A 34. § (7) bekezdése a 33/2024. (V. 30.) AM rendelet 44. §-ával megállapított szöveg.
+[^17]: A 34. § (7) bekezdése a 33/2024. (V. 30.) AM rendelet 44. §-ával megállapított, a 79/2024. (XII. 30.) AM rendelet 2. § e) pontja szerint módosított szöveg.
