@@ -28,7 +28,7 @@
 
 13. gyógyszer: az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény (a továbbiakban: Gytv.) 1. § 1. pontjában meghatározott gyógyszer, valamint az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény Mellékletének 3. pontjában meghatározott állatgyógyászati készítmény;
 
-14.[^6] információcsere: a Kábítószer és a Kábítószer-függőség Európai Megfigyelőközpontjáról (átdolgozott változat) szóló, 2006. december 12-i 1920/2006/EK európai parlamenti és tanácsi rendelet 5a. cikke szerinti értesítés lehetséges új pszichoaktív anyag megjelenéséről, illetve az ezt tartalmazó készítmények előállításáról, kereskedelméről és felhasználásáról;
+14.[^6] információcsere: az Európai Unió Kábítószer-ügynökségéről és az 1920/2006/EK rendelet hatályon kívül helyezéséről szóló (EU) 2023/1322 rendelet 8. cikk (1) bekezdése szerinti értesítés lehetséges új pszichoaktív anyag megjelenéséről, illetve az ezt tartalmazó készítmények előállításáról, kereskedelméről és felhasználásáról;
 
 15. import: kábítószereknek és pszichotróp anyagoknak, valamint új pszichoaktív anyagoknak harmadik országból Magyarország területére irányuló behozatala vagy beléptetése;
 
@@ -97,7 +97,7 @@ d)[^13] az új pszichoaktív anyagokkal vagy az egészségügyért felelős mini
 [^3]: Az 1. § 9. pontját az 507/2017. (XII. 29.) Korm. rendelet 32. § a) pontja hatályon kívül helyezte.
 [^4]: Az 1. § 11. pontja a 137/2012. (VI. 29.) Korm. rendelet 81. § (1) bekezdésével megállapított szöveg.
 [^5]: Az 1. § 12. pontja a 623/2021. (XI. 10.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^6]: Az 1. § 14. pontja a 113/2019. (V. 15.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^6]: Az 1. § 14. pontja a 463/2024. (XII. 30.) Korm. rendelet 54. §-ával megállapított szöveg.
 [^7]: Az 1. § 16. pontja a 172/2016. (VII. 1.) Korm. rendelet 56. § a) pontja szerint módosított szöveg.
 [^8]: Az 1. § 17. pontját a 607/2022. (XII. 28.) Korm. rendelet 11. § a) pontja hatályon kívül helyezte.
 [^9]: Az 1. § 18. pontja a 607/2022. (XII. 28.) Korm. rendelet 10. § 1. pontja szerint módosított szöveg.
