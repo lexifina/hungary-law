@@ -1,19 +1,19 @@
 75. § Hatályát veszti a Ve.
 
-a) 33. § (3) bekezdés b) pontjában, valamint (5) bekezdésében a „jelöléshez, listaállításhoz kapcsolódó” szövegrész,
+a)
 
-b) 82. § (1) bekezdésében az „és a helyi választási irodák” szövegrész,
+b)
 
-c) 94. § (1) bekezdése,
+c)
 
-d) 152. § (4) bekezdése,
+d)
 
-e) 176. § (2) bekezdése,
+e)
 
-f) 177. § (1) bekezdés a) pontjában az „és lakcímét vagy személyi azonosítóját” szövegrész,
+f)
 
-g) 288. § (3) bekezdésében az „ , illetve (3)” szövegrész,
+g)
 
-h) 289. § (1) bekezdésében a „határidőben” szövegrész,
+h)
 
-i) 294. § (3) bekezdésében az „– az országos listás választás területi részeredményét megállapító határozat jogerőre emelkedését követően haladéktalanul –” szövegrész.
+i)

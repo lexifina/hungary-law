@@ -1,13 +1,1 @@
 82. § A 71. § és a 74. § x) és y) pontja az állampolgárságuktól eltérő tagállamban lakóhellyel rendelkező uniós polgárok aktív és passzív választójogának az európai parlamenti választásokon történő gyakorlására vonatkozó részletes szabályok megállapításáról szóló 1993. december 6-i 93/109/EK tanácsi irányelvének, valamint az azt módosító 2013/1/EU tanácsi irányelvnek való megfelelést szolgálja.
-
-|
-
-Dr. Sulyok Tamás s. k.,
-
-köztársasági elnök
-
-|
-
-Dr. Latorcai János s. k.,
-
-az Országgyűlés alelnöke
