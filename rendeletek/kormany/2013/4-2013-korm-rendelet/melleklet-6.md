@@ -508,7 +508,7 @@
 
 ## Források összesen
 
-6. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^349]
+6. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^350]
 
 EREDMÉNYKIMUTATÁS/KONSZOLIDÁLT EREDMÉNYKIMUTATÁS
 
@@ -568,7 +568,7 @@ VII. Egyéb ráfordítások
 
 20. Egyéb kapott (járó) kamatok és kamatjellegű eredményszemléletű bevételek
 
-21.[^350] Pénzügyi műveletek egyéb eredményszemléletű bevételei
+21.[^351] Pénzügyi műveletek egyéb eredményszemléletű bevételei
 
 – ebből: lekötött bankbetétek mérlegfordulónapi értékelése során megállapított (nem realizált) árfolyamnyeresége
 
@@ -588,7 +588,7 @@ VIII. Pénzügyi műveletek eredményszemléletű bevételei (17+18+19+20+21)
 
 – ebből: Kincstáron kívüli forint- és devizaszámlák értékvesztése
 
-26.[^351] Pénzügyi műveletek egyéb ráfordításai
+26.[^352] Pénzügyi műveletek egyéb ráfordításai
 
 – ebből: lekötött bankbetétek mérlegfordulónapi értékelése során megállapított (nem realizált) árfolyamvesztesége
 
@@ -596,6 +596,6 @@ VIII. Pénzügyi műveletek eredményszemléletű bevételei (17+18+19+20+21)
 
 IX. Pénzügyi műveletek ráfordításai (22+23+24+25+26)
 
-[^349]: A 6. melléklet a 402/2015. (XII. 15.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
-[^350]: A 6. melléklet 21. pontja a 380/2017. (XII. 11.) Korm. rendelet 6. § 7. pontja szerint módosított szöveg.
-[^351]: A 6. melléklet 26. pontja a 380/2017. (XII. 11.) Korm. rendelet 6. § 8. pontja szerint módosított szöveg.
+[^350]: A 6. melléklet a 402/2015. (XII. 15.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^351]: A 6. melléklet 21. pontja a 380/2017. (XII. 11.) Korm. rendelet 6. § 7. pontja szerint módosított szöveg.
+[^352]: A 6. melléklet 26. pontja a 380/2017. (XII. 11.) Korm. rendelet 6. § 8. pontja szerint módosított szöveg.

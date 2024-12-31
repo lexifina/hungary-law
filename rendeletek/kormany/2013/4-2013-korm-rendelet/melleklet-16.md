@@ -6,13 +6,13 @@
 
 ## K11. Foglalkoztatottak személyi juttatásai
 
-## K1101.[^366] Törvény szerinti illetmények, munkabérek
+## K1101.[^367] Törvény szerinti illetmények, munkabérek
 
 ## Ezen a rovaton kell elszámolni
 
-## a)[^367] köztisztviselők, kormánytisztviselők, kormányzati ügykezelők, közszolgálati ügykezelők, közalkalmazottak, köznevelési foglalkoztatotti jogviszonyban álló foglalkoztatottak, egészségügyi szolgálati jogviszony keretében foglalkoztatottak, rendvédelmi feladatokat ellátó szervek hivatásos és szerződéses állományának tagjai, a rendvédelmi igazgatási alkalmazottak, a rendvédelmi tisztjelöltek, a honvédek jogállásáról szóló kormányrendelet szerinti hivatásos és szerződéses állomány tagjai, a honvédelmi alkalmazottak, a Nemzeti Adó- és Vámhivatallal adó- és vámhatósági szolgálati és tisztjelölti jogviszonyban álló foglalkoztatottak, a különleges jogállású szerveknél közszolgálati jogviszonyban foglalkoztatottak, a bírák, az ügyészek, az igazságügyi és az ügyészségi alkalmazottak – besorolási osztály, fizetési fokozat, előmeneteli fokozat, besorolási fokozat szerint megállapított, kötelező illetménykiegészítésekkel, a közalkalmazottak jogállásáról szóló törvény szerinti kereset-kiegészítéssel, a kötelező és feltételtől függő, adható pótlékokkal (például felzárkóztatási, kollégiumi, összevont osztályban oktatók pótlékai, közművelődési, közgyűjteményi dolgozók pótléka), törvényben illetmény részeként nevesített tanulmányi díjjal növelt – illetményét,
+## a)[^368] köztisztviselők, kormánytisztviselők, kormányzati ügykezelők, közszolgálati ügykezelők, közalkalmazottak, köznevelési foglalkoztatotti jogviszonyban álló foglalkoztatottak, egészségügyi szolgálati jogviszony keretében foglalkoztatottak, rendvédelmi feladatokat ellátó szervek hivatásos és szerződéses állományának tagjai, a rendvédelmi igazgatási alkalmazottak, a rendvédelmi tisztjelöltek, a honvédek jogállásáról szóló kormányrendelet szerinti hivatásos és szerződéses állomány tagjai, a honvédelmi alkalmazottak, a Nemzeti Adó- és Vámhivatallal adó- és vámhatósági szolgálati és tisztjelölti jogviszonyban álló foglalkoztatottak, a különleges jogállású szerveknél közszolgálati jogviszonyban foglalkoztatottak, a bírák, az ügyészek, az igazságügyi és az ügyészségi alkalmazottak – besorolási osztály, fizetési fokozat, előmeneteli fokozat, besorolási fokozat szerint megállapított, kötelező illetménykiegészítésekkel, a közalkalmazottak jogállásáról szóló törvény szerinti kereset-kiegészítéssel, a kötelező és feltételtől függő, adható pótlékokkal (például felzárkóztatási, kollégiumi, összevont osztályban oktatók pótlékai, közművelődési, közgyűjteményi dolgozók pótléka), törvényben illetmény részeként nevesített tanulmányi díjjal növelt – illetményét,
 
-## b)[^368] a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 3. § (2) és (5) bekezdése, valamint 3. § (7) bekezdés a) és b) pontja szerinti tisztségviselő, valamint a költségvetési szerv választott tisztségviselőnek nem minősülő, az a) alpontba nem tartozó vezetőjének illetményét,
+## b)[^369] a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 3. § (2) és (5) bekezdése, valamint 3. § (7) bekezdés a) és b) pontja szerinti tisztségviselő, valamint a költségvetési szerv választott tisztségviselőnek nem minősülő, az a) alpontba nem tartozó vezetőjének illetményét,
 
 ## c) egyszerűsített foglalkoztatás alá tartozó munkavállalók kivételével a munka törvénykönyve alapján teljes vagy részmunkaidőben foglalkoztatottak bérét,
 
@@ -28,15 +28,15 @@
 
 ## (az a)-h) pontban nevesítettek a továbbiakban együtt: foglalkoztatottak).
 
-## K1102. Normatív jutalmak[^369]
+## K1102. Normatív jutalmak[^370]
 
 ## Ezen a rovaton kell elszámolni az előre nem meghatározott követelményekhez kapcsolódóan a foglalkoztatottaknak megállapított normatív jutalmakat.
 
-## K1103. Céljuttatás, projektprémium[^370]
+## K1103. Céljuttatás, projektprémium[^371]
 
 ## Ezen a rovaton kell elszámolni a teljesítményösztönzés, személyi ösztönzés céljából a foglalkoztatottaknak megállapított jutalmat, prémiumot, céljuttatást, továbbá minden más hasonló személyi ösztönzési jellegű kifizetést, függetlenül annak elnevezésétől.
 
-## K1104.[^371] Készenléti, ügyeleti, helyettesítési díj, túlóra, túlszolgálat[^372]
+## K1104.[^372] Készenléti, ügyeleti, helyettesítési díj, túlóra, túlszolgálat[^373]
 
 ## Ezen a rovaton kell elszámolni
 
@@ -46,37 +46,37 @@
 
 ## c) a túlóradíjakat, és
 
-## d)[^373] a rendvédelmi feladatokat ellátó szervek hivatásos állományának tagját a túlszolgálatért, a Nemzeti Adó- és Vámhivatal adó- és vámhatósági szolgálati jogviszonyban álló foglalkoztatottját a túlmunkáért megillető díjazást.
+## d)[^374] a rendvédelmi feladatokat ellátó szervek hivatásos állományának tagját a túlszolgálatért, a Nemzeti Adó- és Vámhivatal adó- és vámhatósági szolgálati jogviszonyban álló foglalkoztatottját a túlmunkáért megillető díjazást.
 
-## K1105. Végkielégítés[^374]
+## K1105. Végkielégítés[^375]
 
 ## Ezen a rovaton kell elszámolni a foglalkoztatottaknak megállapított végkielégítést.
 
-## K1106. Jubileumi jutalom[^375]
+## K1106. Jubileumi jutalom[^376]
 
 ## Ezen a rovaton kell elszámolni a foglalkoztatottaknak megállapított jubileumi jutalmakat és a munkaviszony elismerésére szolgáló – például hűségjutalom – jutalmakat.
 
-## K1107.[^376] Béren kívüli juttatások
+## K1107.[^377] Béren kívüli juttatások
 
 ## Ezen a rovaton kell elszámolni a foglalkoztatottak részére juttatott, a személyi jövedelemadóról szóló törvény szerinti béren kívüli juttatásokat és egyes meghatározott juttatásokat.
 
-## K1108. Ruházati költségtérítés[^377]
+## K1108. Ruházati költségtérítés[^378]
 
 ## Ezen a rovaton kell elszámolni a foglalkoztatottak részére pénzben fizetendő ruházati költségtérítéseket.
 
-## K1109. Közlekedési költségtérítés[^378]
+## K1109. Közlekedési költségtérítés[^379]
 
 ## Ezen a rovaton kell elszámolni a munkába járással kapcsolatos személygépkocsi használat után fizetendő költségtérítést, továbbá a foglalkoztatottaknak megállapított más utazási költségtérítéseket.
 
-## K1110. Egyéb költségtérítések[^379]
+## K1110. Egyéb költségtérítések[^380]
 
 ## Ezen a rovaton kell elszámolni a foglalkoztatottak részére pénzben fizetendő, más rovaton nem elszámolható költségtérítéseket.
 
-## K1111. Lakhatási támogatások[^380]
+## K1111. Lakhatási támogatások[^381]
 
 ## Ezen a rovaton kell elszámolni a foglalkoztatottaknak megállapított lakhatási, rezsiköltség, albérleti díj hozzájárulásokat.
 
-## K1112. Szociális támogatások[^381]
+## K1112. Szociális támogatások[^382]
 
 ## Ezen a rovaton kell elszámolni a foglalkoztatottaknak szociális alapon megállapított eseti szociális támogatásokat, segélyeket.
 
@@ -84,7 +84,7 @@
 
 ## Ezen a rovaton kell elszámolni
 
-## a)[^382] a munkáltató által a foglalkoztatottaknak teljesített, más rovaton nem elszámolható olyan juttatásokat, amelyek után a foglalkoztatottnak a személyi jövedelemadóról szóló törvény alapján az összevont adóalapba tartozó bevétele keletkezik függetlenül attól, hogy a foglalkoztatott a jövedelme kiszámításakor a bevétellel szemben jogosult-e levonásra,
+## a)[^383] a munkáltató által a foglalkoztatottaknak teljesített, más rovaton nem elszámolható olyan juttatásokat, amelyek után a foglalkoztatottnak a személyi jövedelemadóról szóló törvény alapján az összevont adóalapba tartozó bevétele keletkezik függetlenül attól, hogy a foglalkoztatott a jövedelme kiszámításakor a bevétellel szemben jogosult-e levonásra,
 
 ## b) a munkáltató által a foglalkoztatottaknak teljesített, más rovaton nem elszámolható olyan kifizetéseket, amelyek után a foglalkoztatottnak a személyi jövedelemadóról szóló törvény alapján adómentes bevétele keletkezik, és
 
@@ -96,7 +96,7 @@
 
 ## K12. Külső személyi juttatások
 
-## K121.[^383] Választott tisztségviselők juttatásai
+## K121.[^384] Választott tisztségviselők juttatásai
 
 ## Ezen a rovaton kell elszámolni a köztársasági elnök, az Országgyűlés elnöke, az Alkotmánybíróság elnöke és tagja, a Kúria elnöke, az Országos Bírósági Hivatal elnöke, a Költségvetési Tanács elnöke, a legfőbb ügyész, az alapvető jogok biztosa és helyettesei, az Állami Számvevőszék elnöke és alelnöke, az országgyűlési képviselő, a helyi nemzetiségi önkormányzati képviselő, a nemzetiségi önkormányzat tisztségviselői, a társulási tanács tisztségviselői, a nemzetiségi szószóló, a polgármester, főpolgármester, a helyi önkormányzati képviselő, vármegyei közgyűlés tagja, az alpolgármester, a főpolgármester-helyettes, továbbá a vármegyei közgyűlés elnöke és alelnöke számára fizetett, a K11. Foglalkoztatottak személyi juttatásai rovatainak megfelelő tartalmú juttatásokat, tiszteletdíjakat.
 
@@ -110,19 +110,19 @@
 
 ## a) a prémiumévek programban résztvevők juttatásait,
 
-## b)[^384] az egyszerűsített foglalkoztatás alá tartozó munkavállalók részére megállapított juttatásokat, ide értve a juttatásaik után a foglalkoztatót terhelő közterheket is,
+## b)[^385] az egyszerűsített foglalkoztatás alá tartozó munkavállalók részére megállapított juttatásokat, ide értve a juttatásaik után a foglalkoztatót terhelő közterheket is,
 
 ## c) a Bolyai János Kutatási Ösztöndíjat, az MTA doktori címmel rendelkezők tiszteletdíját, az akadémikusok és a Magyar Művészeti Akadémia tagjai tiszteletdíját,
 
-## d)[^385] a nem foglalkoztatottaknak adományozott kitüntetésekkel, díjakkal, elismerésekkel járó pénz- és tárgyjutalmat,
+## d)[^386] a nem foglalkoztatottaknak adományozott kitüntetésekkel, díjakkal, elismerésekkel járó pénz- és tárgyjutalmat,
 
-## e)[^386] az önkéntes tartalékos szolgálatot teljesítők juttatásait, a rendvédelmi tanintézeteknél tiszthelyettes képzésben részesülők juttatásait, a honvédelemért felelős miniszter által alapított középiskolai, esélyegyenlőségi, önkéntes tartalékos szolgálati ösztöndíjat, a honvéd kollégiumok, gimnáziumok és szakközépiskolák növendékeinek juttatásait, a honvédelemért felelős miniszter által a polgári felsőoktatási intézmények hallgatói és a honvédelmi szakképző intézmény tanulói részére a katonai szolgálat vállalásának ösztönzése érdekében alapított ösztöndíjat, valamint a honvédelmi tárca gondoskodási körébe tartozó árvák részére alapított ösztöndíjat, továbbá a rendészeti szakközépiskolák hallgatói állományának juttatásait,
+## e)[^387] az önkéntes tartalékos szolgálatot teljesítők juttatásait, a rendvédelmi tanintézeteknél tiszthelyettes képzésben részesülők juttatásait, a honvédelemért felelős miniszter által alapított középiskolai, esélyegyenlőségi, önkéntes tartalékos szolgálati ösztöndíjat, a honvéd kollégiumok, gimnáziumok és szakközépiskolák növendékeinek juttatásait, a honvédelemért felelős miniszter által a polgári felsőoktatási intézmények hallgatói és a honvédelmi szakképző intézmény tanulói részére a katonai szolgálat vállalásának ösztönzése érdekében alapított ösztöndíjat, valamint a honvédelmi tárca gondoskodási körébe tartozó árvák részére alapított ösztöndíjat, továbbá a rendészeti szakközépiskolák hallgatói állományának juttatásait,
 
 ## f) a személyi jövedelemadóról szóló törvény szerinti reprezentáció és üzleti ajándék kiadásait, ide értve azt az esetet is, ha azok megfelelnek a reprezentáció, üzleti ajándék feltételeinek, de a személyi jövedelemadóról szóló törvényben meghatározott értékhatárt meghaladják, és
 
-## g)[^387] mindazon a K11. Foglalkoztatottak személyi juttatásai rovatainak megfelelő tartalmú juttatásokat, amelyeket nem foglalkoztatottnak és nem választott tisztségviselőnek fizetnek, így különösen az ítélkezésben közreműködők - kirendelt védő, szakértő, ülnök - díjazását, a fogvatartottak díjazását és egyéb költségtérítését, a munkaterápiában résztvevő betegek díjazását, a házi szociális gondozók díját, a jogsegélyszolgálat, a lelki-segély szolgálat díját, és a diákok, hallgatók demonstrátori díját.
+## g)[^388] mindazon a K11. Foglalkoztatottak személyi juttatásai rovatainak megfelelő tartalmú juttatásokat, amelyeket nem foglalkoztatottnak és nem választott tisztségviselőnek fizetnek, így különösen az ítélkezésben közreműködők - kirendelt védő, szakértő, ülnök - díjazását, a fogvatartottak díjazását és egyéb költségtérítését, a munkaterápiában résztvevő betegek díjazását, a házi szociális gondozók díját, a jogsegélyszolgálat, a lelki-segély szolgálat díját, és a diákok, hallgatók demonstrátori díját.
 
-## K2.[^388] Munkaadókat terhelő járulékok és szociális hozzájárulási adó
+## K2.[^389] Munkaadókat terhelő járulékok és szociális hozzájárulási adó
 
 ## Ezen a rovaton kell elszámolni
 
@@ -130,7 +130,7 @@
 
 ## b) a rehabilitációs hozzájárulást,
 
-## c)[^389]
+## c)[^390]
 
 ## d) az egészségügyi hozzájárulást,
 
@@ -146,7 +146,7 @@
 
 ## K31. Készletbeszerzés
 
-## K311.[^390] Szakmai anyagok beszerzése
+## K311.[^391] Szakmai anyagok beszerzése
 
 ## Ezen a rovaton kell elszámolni
 
@@ -158,7 +158,7 @@
 
 ## d) a 12. § (7) bekezdése szerinti egyéb készletek vételárát, és
 
-## e)[^391] az olyan informatikai eszközök, elektronikus könyvek, közlönyök, jogi információk, napilapok, folyóiratok, egyéb információhordozók beszerzése után fizetett vételárat, amelyek a tevékenységet legfeljebb egy évig szolgálják.
+## e)[^392] az olyan informatikai eszközök, elektronikus könyvek, közlönyök, jogi információk, napilapok, folyóiratok, egyéb információhordozók beszerzése után fizetett vételárat, amelyek a tevékenységet legfeljebb egy évig szolgálják.
 
 ## K312. Üzemeltetési anyagok beszerzése
 
@@ -174,7 +174,7 @@
 
 ## e) a fogvatartottak, ellátottak ruházata, valamint a ruházati költségtérítésnél nem szerepeltethető munka- és védőruha beszerzése után fizetett vételárat, és
 
-## f)[^392] mindazon anyagok beszerzése után fizetett vételárat, amelyek nem számolhatók el szakmai anyag beszerzéseként.
+## f)[^393] mindazon anyagok beszerzése után fizetett vételárat, amelyek nem számolhatók el szakmai anyag beszerzéseként.
 
 ## K313. Árubeszerzés
 
@@ -188,11 +188,11 @@
 
 ## a) a számítógépes rendszer tervezésére, az erre vonatkozó tanácsadásra, számítógéprendszer, illetve adatfeldolgozó berendezések kiépítésére, helyszíni irányítására, üzemeltetésére – ide értve a számítógépek üzembe helyezését, szoftverek telepítését is, ha azok nem részei azok vételárának –, valamint az ezeket segítő tevékenységekre irányuló szolgáltatás után fizetett vételárat,
 
-## b)[^393] a számítógépes programozásra, így különösen adatbázisok készítésére, szoftverek írására, meglévő alkalmazások módosítására és konfigurálására, ezek tesztelésére irányuló szolgáltatás után fizetett vételárat,
+## b)[^394] a számítógépes programozásra, így különösen adatbázisok készítésére, szoftverek írására, meglévő alkalmazások módosítására és konfigurálására, ezek tesztelésére irányuló szolgáltatás után fizetett vételárat,
 
 ## c) az informatikai eszközök, pénzkiadó automaták (ATM), nem mechanikus működésű bolti kártyaleolvasó (POS) terminálok kölcsönzése, bérlete, lízingelése, javítása, karbantartása vételárát, díját,
 
-## d)[^394] a szoftverek kölcsönzésének, bérletének, lízingelésének vételárát, a köznevelési intézmények, a szakképző intézmények és a felsőoktatási intézmények jogtiszta szoftver licenc biztosításával összefüggésben kifizetett összegeket,
+## d)[^395] a szoftverek kölcsönzésének, bérletének, lízingelésének vételárát, a köznevelési intézmények, a szakképző intézmények és a felsőoktatási intézmények jogtiszta szoftver licenc biztosításával összefüggésben kifizetett összegeket,
 
 ## e) az adatrögzítésre, adatfeldolgozásra, web-hosztingra irányuló szolgáltatás után fizetett vételárat,
 
@@ -208,7 +208,7 @@
 
 ## K33. Szolgáltatási kiadások
 
-## K331.[^395] Közüzemi díjak
+## K331.[^396] Közüzemi díjak
 
 ## K3311. Villamosenergia szolgáltatás díja
 
@@ -250,7 +250,7 @@
 
 ## a) ebből: államháztartáson belül.
 
-## K336.[^396] Szakmai tevékenységet segítő szolgáltatások
+## K336.[^397] Szakmai tevékenységet segítő szolgáltatások
 
 ## Ezen a rovaton kell elszámolni
 
@@ -260,7 +260,7 @@
 
 ## c) a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 1. számú melléklet 4. pont 4.51. alpontja szerinti juttatást.
 
-## K337.[^397] Egyéb szolgáltatások
+## K337.[^398] Egyéb szolgáltatások
 
 ## Ezen a rovaton kell elszámolni a más rovaton nem szerepeltethető szolgáltatások vételárát, így különösen a raktározás, csomagolás, postai levél, csomag, távirat, postafiókbérlet, szállítás, bizományi tevékenység, takarítás, mosás és vegytisztítás, kéményseprés, rovarirtás vételárát, a közigazgatási alap- és szakvizsgáért és a kötelező közigazgatási továbbképzésért fizetett munkáltatói térítés ellenértékét, a foglalkoztatottak – iskolarendszeren kívüli – továbbképzésével kapcsolatos kiadásokat, a pénzügyi, befektetési, biztosítóintézeti szolgáltatásokkal összefüggésben felmerülő díjakat, jutalékokat és más kiadásokat – ideértve a Kincstár által felszámított díjakat is –, ha azokat nem a személyi juttatások között kell megjeleníteni.
 
@@ -276,7 +276,7 @@
 
 ## a) a foglalkoztatottak és a választott tisztségviselők belföldi és külföldi kiküldetéseivel kapcsolatos valamennyi, a személyi juttatások között nem elszámolható kiadást, így különösen az utazási- és szállásköltségeket, az elszámolható élelmezési és egyéb (például poggyászmegőrzés, telefon) kiadásokat, a saját személygépkocsi igénybevételével kapcsolatos költségtérítést,
 
-## b)[^398] a tartós külszolgálathoz kapcsolódó kiadásokat, és
+## b)[^399] a tartós külszolgálathoz kapcsolódó kiadásokat, és
 
 ## c) a foglalkoztatottakon és a választott tisztségviselőkön kívüli harmadik személyek utazásai költségeinek – így különösen sportolók, tudományos szakemberek hazai vagy nemzetközi rendezvényekre történő utazása – átvállalását vagy megtérítését, ha arra nem a harmadik személy részére biztosított támogatás kifizetésével kerül sor.
 
@@ -286,7 +286,7 @@
 
 ## K35. Különféle befizetések és egyéb dologi kiadások
 
-## K351.[^399] Működési célú előzetesen felszámított általános forgalmi adó
+## K351.[^400] Működési célú előzetesen felszámított általános forgalmi adó
 
 ## Ezen a rovaton kell elszámolni a működési kiadások teljesítése során a termék, szolgáltatás beszerzőjére áthárított előzetesen felszámított általános forgalmi adót.
 
@@ -300,9 +300,9 @@
 
 ## a) a hitelviszonyt megtestesítő kamatozó értékpapír vásárlásakor a vételáron kívüli felhalmozott kamat összegét,
 
-## b)[^400] a felvett hitelek, kapott kölcsönök, visszatérítendő támogatások, hitelviszonyt megtestesítő kamatozó értékpapírok kibocsátásból fennálló tartozások és az azokhoz kapcsolódó kamat swap ügyletek, a váltótartozások után fizetett kamatot, ide értve a Gst. 8. § (2) bekezdés e) pontja szerinti ügyletek eladási és visszavásárlási ára különbözetét és a kölcsönbe vett értékpapír után fizetendő kölcsönzési díj összegében elszámolt kamatkiadást,
+## b)[^401] a felvett hitelek, kapott kölcsönök, visszatérítendő támogatások, hitelviszonyt megtestesítő kamatozó értékpapírok kibocsátásból fennálló tartozások és az azokhoz kapcsolódó kamat swap ügyletek, a váltótartozások után fizetett kamatot, ide értve a Gst. 8. § (2) bekezdés e) pontja szerinti ügyletek eladási és visszavásárlási ára különbözetét és a kölcsönbe vett értékpapír után fizetendő kölcsönzési díj összegében elszámolt kamatkiadást,
 
-## c)[^401] a lezárt kamat swap ügyletetek realizált veszteségét,
+## c)[^402] a lezárt kamat swap ügyletetek realizált veszteségét,
 
 ## d) a pénzügyi lízing a keretében beszerzett eszközök után a lízingszerződésben kikötött tőkerészen felül teljesített törlesztéseket, és
 
@@ -312,7 +312,7 @@
 
 ## a) ebből: államháztartáson belül,
 
-## b)[^402] ebből: kamat swap ügyletek kamatkiadásai.
+## b)[^403] ebből: kamat swap ügyletek kamatkiadásai.
 
 ## K354. Egyéb pénzügyi műveletek kiadásai
 
@@ -348,7 +348,7 @@
 
 ## e) a tevékenység ellátással kapcsolatban felmerülő kötelező jellegű díjakat, így különösen a díjköteles utak használata ellenében fizetett használati díjat, pótdíjat, elektronikus útdíjat, a járművek műszaki vizsgáztatásának díját, a zöldkártya hatósági díját, a közbeszerzési díjat, a közbeszerzésről szóló törvényben előírt ajánlati biztosítékot, és
 
-## f)[^403] a más rovaton nem szerepeltethető dologi jellegű kiadásokat, így különösen a szerződés megerősítésével, a szerződésszegéssel kapcsolatos végleges kiadásokat (például óvadék, foglaló, kötbér, jótállás, szavatosság, késedelmi kamat, a késedelmes vagy elmaradt teljesítés miatti kártérítés, behajtási költségátalány), a szerződésen kívüli károkozásért, személyiségi, dologi vagy más jog megsértéséért, jogalap nélküli gazdagodásért fizetett összegeket a K43. Pénzbeli kárpótlások, kártérítések rovaton elszámolandó kiadások kivételével, az adóhatóság által kiszabott szankciókat, a fizetett késedelmi és önellenőrzési pótlékokat, bírságokat, a perköltséget, a követelések vásárlására fordított kiadásokat, a Nemzeti Egészségbiztosítási Alapkezelő felé megtérített kiadásokat, a pénztárhiányt.
+## f)[^404] a más rovaton nem szerepeltethető dologi jellegű kiadásokat, így különösen a szerződés megerősítésével, a szerződésszegéssel kapcsolatos végleges kiadásokat (például óvadék, foglaló, kötbér, jótállás, szavatosság, késedelmi kamat, a késedelmes vagy elmaradt teljesítés miatti kártérítés, behajtási költségátalány), a szerződésen kívüli károkozásért, személyiségi, dologi vagy más jog megsértéséért, jogalap nélküli gazdagodásért fizetett összegeket a K43. Pénzbeli kárpótlások, kártérítések rovaton elszámolandó kiadások kivételével, az adóhatóság által kiszabott szankciókat, a fizetett késedelmi és önellenőrzési pótlékokat, bírságokat, a perköltséget, a követelések vásárlására fordított kiadásokat, a Nemzeti Egészségbiztosítási Alapkezelő felé megtérített kiadásokat, a pénztárhiányt.
 
 ## K4. Ellátottak pénzbeli juttatásai
 
@@ -360,7 +360,7 @@
 
 ## b) az Egészségbiztosítási Alapból folyósított egészségbiztosítás pénzbeli ellátásait.
 
-## K42.[^404] Családi támogatások
+## K42.[^405] Családi támogatások
 
 ## Ezen a rovaton kell elszámolni
 
@@ -368,7 +368,7 @@
 
 ## b) az anyasági támogatást,
 
-## c)[^405] a gyermekgondozást segítő ellátást,
+## c)[^406] a gyermekgondozást segítő ellátást,
 
 ## d) a gyermeknevelési támogatást,
 
@@ -380,41 +380,41 @@
 
 ## h) a gyermektartásdíj megelőlegezését,
 
-## i)[^406] a GYES-en és GYED-en lévők hallgatói hitelének célzott támogatását,
+## i)[^407] a GYES-en és GYED-en lévők hallgatói hitelének célzott támogatását,
 
-## j)[^407]
+## j)[^408]
 
 ## k) az egyéb pénzbeli és természetbeni gyermekvédelmi támogatásokat.
 
 ## A rovaton elszámolt kiadásokat a beszámolóban a fenti bontásban kell szerepeltetni.
 
-## K43.[^408] Pénzbeli kárpótlások, kártérítések
+## K43.[^409] Pénzbeli kárpótlások, kártérítések
 
 ## Ezen a rovaton kell elszámolni az állam által szerződésen kívül okozott károkért nemzetközi szerződés, jogszabály, vagy bírósági ítélet alapján egyszeri vagy tartós jelleggel pénzben folyósított kárpótlásokat, kártalanításokat, kártérítéseket a K511. Egyéb működési célú támogatások államháztartáson kívülre rovaton elszámolandó kiadások kivételével.
 
-## K44.[^409] Betegséggel kapcsolatos (nem társadalombiztosítási) ellátások
+## K44.[^410] Betegséggel kapcsolatos (nem társadalombiztosítási) ellátások
 
 ## Ezen a rovaton kell elszámolni
 
-## a)[^410] az ápolási díjat,
+## a)[^411] az ápolási díjat,
 
 ## b) a fogyatékossági támogatást és a vakok személyi járadékát,
 
-## c)[^411] a kivételes rokkantsági ellátást [2011. évi CXCI. tv. 13/A. §-a],
+## c)[^412] a kivételes rokkantsági ellátást [2011. évi CXCI. tv. 13/A. §-a],
 
 ## d) a mozgáskorlátozottak szerzési és átalakítási támogatását,
 
 ## e) a megváltozott munkaképességűek illetve egészségkárosodottak kereset-kiegészítését,
 
-## f)[^412] a közgyógyellátást [Szoctv. 50. § (1) és (2) bekezdése],
+## f)[^413] a közgyógyellátást [Szoctv. 50. § (1) és (2) bekezdése],
 
 ## g) a cukorbetegek támogatását,
 
-## h)[^413] tartós ápolást végzők időskori támogatását [Szoctv. 44/A. §],
+## h)[^414] tartós ápolást végzők időskori támogatását [Szoctv. 44/A. §],
 
-## i)[^414] egészségügyi szolgáltatási jogosultságra való jogosultság szociális rászorultság alapján [Szoctv. 54. §-a] és
+## i)[^415] egészségügyi szolgáltatási jogosultságra való jogosultság szociális rászorultság alapján [Szoctv. 54. §-a] és
 
-## j)[^415] a gyermekek otthongondozási díját [Szoctv. 38. §].
+## j)[^416] a gyermekek otthongondozási díját [Szoctv. 38. §].
 
 ## A rovaton elszámolt kiadásokat a beszámolóban a fenti bontásban kell szerepeltetni.
 
@@ -422,11 +422,11 @@
 
 ## Ezen a rovaton kell elszámolni
 
-## a)[^416] a foglalkoztatási programokkal kapcsolatos elkülönített állami pénzalapból folyósított passzív, ellátási típusú támogatásokat, így különösen az álláskeresési járadékot, a nyugdíj előtti álláskeresési segélyt, valamint az ellátások megállapításával kapcsolatos útiköltség-térítést,
+## a)[^417] a foglalkoztatási programokkal kapcsolatos elkülönített állami pénzalapból folyósított passzív, ellátási típusú támogatásokat, így különösen az álláskeresési járadékot, a nyugdíj előtti álláskeresési segélyt, valamint az ellátások megállapításával kapcsolatos útiköltség-térítést,
 
 ## b) a korhatár előtti ellátást és a fegyveres testületek volt tagjai szolgálati járandóságát,
 
-## c)[^417]
+## c)[^418]
 
 ## d) az átmeneti bányászjáradékot,
 
@@ -450,9 +450,9 @@
 
 ## b) a lakbértámogatást,
 
-## c)–d)[^418]
+## c)–d)[^419]
 
-## e–f)[^419]
+## e–f)[^420]
 
 ## A rovaton elszámolt kiadásokat a beszámolóban a fenti bontásban kell szerepeltetni.
 
@@ -462,7 +462,7 @@
 
 ## a) a jelenlegi és volt állami gondozottaknak folyósított rendszeres és rendkívüli pénzbeli juttatásokat – így különösen a zsebpénzt, a volt állami gondozottak önálló életkezdési támogatását –, valamint a számukra szervezett programok (tanulmányi kirándulások, kulturális programok stb.) kiadásait,
 
-## b)[^420] a középfokú köznevelési intézményben, a szakképző intézményben, a felsőoktatási intézményben, valamint a gyermek- és ifjúságvédelem különböző intézményeiben, a tanuló, a képzésben részt vevő személy, illetve a hallgató részére folyósított rendszeres és rendkívüli pénzbeli juttatásokat,
+## b)[^421] a középfokú köznevelési intézményben, a szakképző intézményben, a felsőoktatási intézményben, valamint a gyermek- és ifjúságvédelem különböző intézményeiben, a tanuló, a képzésben részt vevő személy, illetve a hallgató részére folyósított rendszeres és rendkívüli pénzbeli juttatásokat,
 
 ## c) a felnőttoktatásban résztvevők részére folyósítható valamennyi pénzbeli juttatást, és
 
@@ -474,7 +474,7 @@
 
 ## b) ebből: oktatásban részt vevők pénzbeli juttatásai.
 
-## K48.[^421] Egyéb nem intézményi ellátások
+## K48.[^422] Egyéb nem intézményi ellátások
 
 ## Ezen a rovaton kell elszámolni
 
@@ -484,11 +484,11 @@
 
 ## c) a szociális alapon nyújtott jövedelempótló és jövedelemkiegészítő támogatásokat,
 
-## d)[^422] a művészeti, sportolói és űrkutatói ellátásokat
+## d)[^423] a művészeti, sportolói és űrkutatói ellátásokat
 
 ## e) a központi költségvetésből folyósított más jövedelem- vagy nyugdíj-kiegészítés jellegű ellátásokat, támogatásokat,
 
-## f)[^423] a Szoctv., a Gyvt., vagy más jogszabály alapján a helyi önkormányzat költségvetéséből folyósított ellátásokat, és
+## f)[^424] a Szoctv., a Gyvt., vagy más jogszabály alapján a helyi önkormányzat költségvetéséből folyósított ellátásokat, és
 
 ## g) a központi költségvetésből folyósított útdíj kompenzációt.
 
@@ -508,7 +508,7 @@
 
 ## g) ebből: egyes, tartós időtartamú szabadságelvonást elszenvedettek részére járó juttatás,
 
-## h)[^424] ebből: a Nemzet Színésze címet viselő színészek havi életjáradéka, művészeti nyugdíjsegélyek, művészjáradék, táncművészeti életjáradék, tudományos alkotói járadék,
+## h)[^425] ebből: a Nemzet Színésze címet viselő színészek havi életjáradéka, művészeti nyugdíjsegélyek, művészjáradék, táncművészeti életjáradék, tudományos alkotói járadék,
 
 ## i) ebből: az elhunyt akadémikusok hozzátartozóinak folyósított özvegyi- és árvaellátás,
 
@@ -516,7 +516,7 @@
 
 ## k) ebből: életjáradék termőföldért,
 
-## l)[^425] ebből: az idegenrendészeti szerv által folyósított ellátások,
+## l)[^426] ebből: az idegenrendészeti szerv által folyósított ellátások,
 
 ## m) ebből: szépkorúak jubileumi juttatása,
 
@@ -534,13 +534,13 @@
 
 ## K5. Egyéb működési célú kiadások
 
-## K501.[^426] Nemzetközi kötelezettségek
+## K501.[^427] Nemzetközi kötelezettségek
 
 ## Ezen a rovaton kell elszámolni
 
 ## a) a nemzetközi szervezetekben történő részvétel után fizetendő tagsági díjakat, a tagállami kötelező és önkéntes hozzájárulásokat,
 
-## b)[^427] az Európai Unió költségvetésébe fizetett tagállami hozzájárulásokat, az Európai Fejlesztési Alapba fizetendő összegeket, és
+## b)[^428] az Európai Unió költségvetésébe fizetett tagállami hozzájárulásokat, az Európai Fejlesztési Alapba fizetendő összegeket, és
 
 ## c) az uniós támogatások szabálytalan felhasználása miatti befizetési kötelezettségeket, amelyek nem kapcsolódnak korábban elszámolt költségvetési bevételekhez, különösen a bírságokat, büntetéseket, és a pénzügyi korrekciók közül a korábban költségvetési bevételként el nem számolt tételekhez kapcsolódó kiadásokat.
 
@@ -548,13 +548,13 @@
 
 ## a) ebből: Európai Unió.
 
-## K502.[^428] Elvonások és befizetések
+## K502.[^429] Elvonások és befizetések
 
-## K5021.[^429] A helyi önkormányzatok előző évi elszámolásából származó kiadások
+## K5021.[^430] A helyi önkormányzatok előző évi elszámolásából származó kiadások
 
 ## Ezen a rovaton kell elszámolni a helyi önkormányzat, a társulás részére a központi költségvetés Áht. 14. § (3) bekezdése szerinti fejezetéből folyósított támogatások jogosulatlan igénybevétele miatt a bevétel elszámolását követő években visszafizetett összeget.
 
-## K5022.[^430] A helyi önkormányzatok törvényi előíráson alapuló befizetései
+## K5022.[^431] A helyi önkormányzatok törvényi előíráson alapuló befizetései
 
 ## Ezen a rovaton kell elszámolni a helyi önkormányzatok szolidaritási hozzájárulás jogcímen teljesített befizetéseit.
 
@@ -566,11 +566,11 @@
 
 ## a) a költségvetési maradványt és a vállalkozási maradványt terhelő befizetési kötelezettséget,
 
-## b)[^431] a tervezettet meghaladó többletbevétel után teljesítendő befizetést,
+## b)[^432] a tervezettet meghaladó többletbevétel után teljesítendő befizetést,
 
-## c)[^432] az Áht. 47. §-a szerinti befizetési kötelezettséget és
+## c)[^433] az Áht. 47. §-a szerinti befizetési kötelezettséget és
 
-## d)[^433] a központi költségvetésről szóló törvény szerinti egyéb fizetési kötelezettségeket.
+## d)[^434] a központi költségvetésről szóló törvény szerinti egyéb fizetési kötelezettségeket.
 
 ## A rovaton eredeti előirányzat nem tervezhető az Áht. 47. § (2) bekezdése szerinti befizetés kivételével.
 
@@ -608,7 +608,7 @@
 
 ## a) ebből: állami vagy önkormányzati tulajdonban lévő gazdasági társaságok tartozásai miatti kifizetések.
 
-## K508.[^434] Működési célú visszatérítendő támogatások, kölcsönök nyújtása államháztartáson kívülre
+## K508.[^435] Működési célú visszatérítendő támogatások, kölcsönök nyújtása államháztartáson kívülre
 
 ## Ezen a rovaton kell elszámolni a K919. Tulajdonosi kölcsönök kiadásai rovaton elszámolandó tulajdonosi kölcsönök kivételével az államháztartáson kívüli szervezetek, személyek számára visszafizetési kötelezettség mellett működési célból nyújtott támogatásokat, kölcsönöket függetlenül attól, hogy azt terheli-e kamat vagy más költség, díj.
 
@@ -622,19 +622,19 @@
 
 ## Ezen a rovaton kell elszámolni azokat az államháztartáson kívüli szervezetek, személyek számára teljesített támogatásokat, amelyek meghatározott rendeltetéssel felvett hitelek kamatfizetési terheinek enyhítését szolgálják, így különösen a lakástámogatásokat, a mezőgazdasági hitelek kamattámogatását, a Széchenyi Hitelprogramok konstrukciói és a hallgatói hitelrendszer keretében nyújtott kamattámogatásokat, a kötött segélyhitelekhez kapcsolódó kamattámogatást.
 
-## K511.[^435] Működési célú támogatások az Európai Uniónak
+## K511.[^436] Működési célú támogatások az Európai Uniónak
 
 ## Ezen a rovaton kell elszámolni
 
 ## a) az Európai Unió számára működési célból végleges jelleggel nyújtott támogatásokat és más ellenérték nélküli kifizetéseket, és
 
-## b)[^436] az Európai Uniótól működési célú átvett pénzeszközként kapott bevételek bármely okból a bevétel elszámolását követő években történő visszafizetését, ideértve a költségvetési bevételként elszámolt tételekre vonatkozó pénzügyi korrekciókat is.
+## b)[^437] az Európai Uniótól működési célú átvett pénzeszközként kapott bevételek bármely okból a bevétel elszámolását követő években történő visszafizetését, ideértve a költségvetési bevételként elszámolt tételekre vonatkozó pénzügyi korrekciókat is.
 
-## K512.[^437] Egyéb működési célú támogatások államháztartáson kívülre
+## K512.[^438] Egyéb működési célú támogatások államháztartáson kívülre
 
 ## Ezen a rovaton kell elszámolni
 
-## a)[^438] az Európai Unión kívüli államháztartáson kívüli szervezetek, személyek számára a K509. Árkiegészítések, ártámogatások és a K510. Kamattámogatások rovatokba nem besorolható, működési célból végleges jelleggel nyújtott támogatásokat és más ellenérték nélküli kifizetéseket, ideértve a közcélú felajánlásokat, adományokat, a segélyeket, az agrár és a bűncselekmények áldozatainak fizetett kárenyhítéseket, az egyházak részére átadásra nem került ingatlanok utáni járadékot, az életjáradékot, valamint a tanulmányi szerződés díját is, és
+## a)[^439] az Európai Unión kívüli államháztartáson kívüli szervezetek, személyek számára a K509. Árkiegészítések, ártámogatások és a K510. Kamattámogatások rovatokba nem besorolható, működési célból végleges jelleggel nyújtott támogatásokat és más ellenérték nélküli kifizetéseket, ideértve a közcélú felajánlásokat, adományokat, a segélyeket, az agrár és a bűncselekmények áldozatainak fizetett kárenyhítéseket, az egyházak részére átadásra nem került ingatlanok utáni járadékot, az életjáradékot, valamint a tanulmányi szerződés díját is, és
 
 ## b) az Európai Unión kívüli államháztartáson kívüli szervezetektől, személyektől működési célú átvett pénzeszközként kapott bevételek bármely okból, a bevétel elszámolását követő években történő visszafizetését.
 
@@ -660,17 +660,17 @@
 
 ## j) ebből: egyéb külföldiek.
 
-## K513.[^439] Tartalékok
+## K513.[^440] Tartalékok
 
 ## Ezen a rovaton kell elszámolni az Áht. 15. § (3) bekezdése, 21. §-a és 23. § (3) bekezdése szerinti tartalékokat, valamint az Egészségbiztosítási Alap esetén a természetbeni ellátások céltartalékát.
 
 ## K6. Beruházások
 
-## K61.[^440] Immateriális javak beszerzése, létesítése
+## K61.[^441] Immateriális javak beszerzése, létesítése
 
 ## Ezen a rovaton kell elszámolni az immateriális javak vételárát.
 
-## K62. Ingatlanok beszerzése, létesítése[^441]
+## K62. Ingatlanok beszerzése, létesítése[^442]
 
 ## Ezen a rovaton kell elszámolni az ingatlanok és az ingatlanhoz kapcsolódó vagyoni értékű jogok bekerülési értékébe beszámító kiadásokat.
 
@@ -678,7 +678,7 @@
 
 ## a) ebből: termőföld-vásárlás kiadásai.
 
-## K63.[^442] Informatikai eszközök beszerzése, létesítése
+## K63.[^443] Informatikai eszközök beszerzése, létesítése
 
 ## Ezen a rovaton kell elszámolni a befektetett eszköznek minősülő informatikai eszközök, nem mechanikus működésű bolti kártyaleolvasó (POS) terminálok bekerülési értékébe beszámító kiadásokat.
 
@@ -686,7 +686,7 @@
 
 ## Ezen a rovaton kell elszámolni az ingatlannak és informatikai eszköznek nem minősülő tárgyi eszközök bekerülési értékébe beszámító kiadásokat.
 
-## K65.[^443] Részesedések beszerzése
+## K65.[^444] Részesedések beszerzése
 
 ## Ezen a rovaton kell elszámolni a részesedés, a befektetési jegy – függetlenül attól, hogy azt a befektetett vagy a forgóeszközök között mutatják ki – bekerülési értékébe beszámító kiadásokat vásárlás, alapítás esetén.
 
@@ -694,7 +694,7 @@
 
 ## a) ebből: befektetési jegyek.
 
-## K66.[^444] Meglévő részesedések növeléséhez kapcsolódó kiadások
+## K66.[^445] Meglévő részesedések növeléséhez kapcsolódó kiadások
 
 ## Ezen a rovaton kell elszámolni a korábban megszerzett részesedéshez, befektetési jegyhez – függetlenül attól, hogy azt a befektetett vagy a forgóeszközök között mutatják ki – kapcsolódó tőkeemelést, ha a tőkeemelés pénzeszköz átadásával jár.
 
@@ -760,7 +760,7 @@
 
 ## a) ebből: állami vagy önkormányzati tulajdonban lévő gazdasági társaságok tartozásai miatti kifizetések.
 
-## K86.[^445] Felhalmozási célú visszatérítendő támogatások, kölcsönök nyújtása államháztartáson kívülre
+## K86.[^446] Felhalmozási célú visszatérítendő támogatások, kölcsönök nyújtása államháztartáson kívülre
 
 ## Ezen a rovaton kell elszámolni a K919. Tulajdonosi kölcsönök kiadásai rovaton elszámolandó tulajdonosi kölcsönök kivételével az államháztartáson kívüli szervezetek, személyek számára visszafizetési kötelezettség mellett felhalmozási célból nyújtott támogatásokat, kölcsönöket függetlenül attól, hogy azt terheli-e kamat vagy más költség, díj.
 
@@ -770,7 +770,7 @@
 
 ## Ezen a rovaton kell elszámolni a foglalkoztatottak lakásépítésének, lakásvásárlásának munkáltatói támogatására végleges jelleggel juttatott támogatásokat, valamint a helyi önkormányzatok helyi lakásépítési és vásárlási támogatását a kamattámogatások kivételével.
 
-## K88.[^446] Felhalmozási célú támogatások az Európai Uniónak
+## K88.[^447] Felhalmozási célú támogatások az Európai Uniónak
 
 ## Ezen a rovaton kell elszámolni
 
@@ -778,13 +778,13 @@
 
 ## b) az Európai Uniótól felhalmozási célú átvett pénzeszközként kapott bevételek bármely okból, a bevétel elszámolását követő években történő visszafizetését.
 
-## K89.[^447] Egyéb felhalmozási célú támogatások államháztartáson kívülre
+## K89.[^448] Egyéb felhalmozási célú támogatások államháztartáson kívülre
 
 ## Ezen a rovaton kell elszámolni
 
 ## a) a lakástámogatások kivételével az Európai Unión kívüli államháztartáson kívüli szervezetek, személyek számára felhalmozási célból végleges jelleggel nyújtott támogatásokat, és
 
-## b)[^448] az Európai Unión kívüli államháztartáson kívüli szervezetektől, személyektől felhalmozási célú átvett pénzeszközként, továbbá bármely szervezettől, személytől felhalmozási bevételként kapott bevételek bármely okból, a bevétel elszámolását követő években történő visszafizetését.
+## b)[^449] az Európai Unión kívüli államháztartáson kívüli szervezetektől, személyektől felhalmozási célú átvett pénzeszközként, továbbá bármely szervezettől, személytől felhalmozási bevételként kapott bevételek bármely okból, a bevétel elszámolását követő években történő visszafizetését.
 
 ## A rovaton elszámolt kiadásokat a beszámolóban a következő bontásban kell szerepeltetni.
 
@@ -814,7 +814,7 @@
 
 ## K911. Hitel-, kölcsöntörlesztés államháztartáson kívülre
 
-## K9111.[^449] Hosszú lejáratú hitelek, kölcsönök törlesztése pénzügyi vállalkozásnak
+## K9111.[^450] Hosszú lejáratú hitelek, kölcsönök törlesztése pénzügyi vállalkozásnak
 
 ## Ezen a rovaton kell elszámolni a költségvetési éven túlra belföldről felvett hitelek, kölcsönök tőketörlesztését az azokhoz kapcsolódó fedezeti ügyletek lezárásával együtt (kivéve a kamatfedezeti ügyleteket).
 
@@ -826,29 +826,29 @@
 
 ## Ezen a rovaton kell elszámolni a folyószámla-, rulírozó- és a munkabér-megelőlegezési hitelek, kölcsönök tőketörlesztését.
 
-## K9113.[^450] Rövid lejáratú hitelek, kölcsönök törlesztése pénzügyi vállalkozásnak
+## K9113.[^451] Rövid lejáratú hitelek, kölcsönök törlesztése pénzügyi vállalkozásnak
 
 ## Ezen a rovaton kell elszámolni
 
 ## a) a költségvetési éven belülre felvett hitelek, kölcsönök tőketörlesztését a likviditási célú hitelek, kölcsönök kivételével az azokhoz kapcsolódó fedezeti ügyletek lezárásával együtt (kivéve a kamatfedezeti ügyleteket), és
 
-## b)[^451] a Gst. 8. § (2) bekezdés e) pontja szerinti ügyletek keretében az eszközök visszavásárlásáért fizetett visszavásárlási árat a korábban kapott eladási ár mértékéig.
+## b)[^452] a Gst. 8. § (2) bekezdés e) pontja szerinti ügyletek keretében az eszközök visszavásárlásáért fizetett visszavásárlási árat a korábban kapott eladási ár mértékéig.
 
 ## A rovaton elszámolt kiadásokat a beszámolóban a következő bontásban kell szerepeltetni:
 
 ## a) ebből: fedezeti ügyletek nettó kiadásai.
 
-## K912.[^452] Belföldi értékpapírok kiadásai
+## K912.[^453] Belföldi értékpapírok kiadásai
 
-## K9121.[^453] Forgatási célú belföldi értékpapírok vásárlása
+## K9121.[^454] Forgatási célú belföldi értékpapírok vásárlása
 
 ## Ezen a rovaton kell elszámolni a forgóeszközök között kimutatott, belföldön kibocsátott vásárolt hitelviszonyt megtestesítő értékpapírok - ideértve a kárpótlási jegyeket is - vételárát, ide nem értve a K353. Kamatkiadások rovaton elszámolt vételáron kívüli felhalmozott kamat összegét, valamint a K354. Egyéb pénzügyi műveletek kiadásai rovaton elszámolt névérték és vételár közötti különbözetet.
 
 ## A rovaton elszámolt kiadásokat a beszámolóban a következő bontásban kell szerepeltetni:
 
-## a)[^454] ebből: kárpótlási jegyek.
+## a)[^455] ebből: kárpótlási jegyek.
 
-## b)[^455]
+## b)[^456]
 
 ## K9122. Befektetési célú belföldi értékpapírok vásárlása
 
@@ -866,9 +866,9 @@
 
 ## a) ebből: fedezeti ügyletek nettó kiadásai,
 
-## b)[^456] ebből: kárpótlási jegyek.
+## b)[^457] ebből: kárpótlási jegyek.
 
-## c)[^457]
+## c)[^458]
 
 ## K9125. Belföldi kötvények beváltása
 
@@ -882,19 +882,19 @@
 
 ## a) ebből: fedezeti ügyletek nettó kiadásai.
 
-## K913.[^458] Államháztartáson belüli megelőlegezések folyósítása
+## K913.[^459] Államháztartáson belüli megelőlegezések folyósítása
 
 ## Ezen a rovaton kell elszámolni az Áht. 78. § (4), valamint 83. § (3) bekezdése szerinti megelőlegezések folyósítását.
 
-## K914.[^459] Államháztartáson belüli megelőlegezések visszafizetése
+## K914.[^460] Államháztartáson belüli megelőlegezések visszafizetése
 
 ## Ezen a rovaton kell elszámolni az Áht. 78. § (4), valamint 83. § (3) bekezdése szerinti megelőlegezések visszafizetésével kapcsolatban felmerülő kiadásokat.
 
-## K915.[^460] Központi, irányító szervi támogatás folyósítása
+## K915.[^461] Központi, irányító szervi támogatás folyósítása
 
 ## Ezen a rovaton kell elszámolni az Áht. 6. § (7) bekezdés a) pont ad) alpontja szerinti központi, irányító szervi támogatás, valamint a központi kezelésű előirányzatok kiadásai finanszírozására szolgáló központi pénzellátás folyósítását.
 
-## K916.[^461] Pénzeszközök lekötött bankbetétként elhelyezése
+## K916.[^462] Pénzeszközök lekötött bankbetétként elhelyezése
 
 ## Ezen a rovaton kell elszámolni a szabad pénzeszközök lekötött betétként való elhelyezését.
 
@@ -902,21 +902,21 @@
 
 ## Ezen a rovaton kell elszámolni a pénzügyi lízing keretében beszerzett eszközök lízingszerződésben kikötött tőkerésze törlesztését.
 
-## K918.[^462] Központi költségvetés sajátos finanszírozási kiadásai
+## K918.[^463] Központi költségvetés sajátos finanszírozási kiadásai
 
 ## Ezen a rovaton kell elszámolni az Áht. 6. § (7) bekezdés b) pont ba)-bb) pontjában foglalt finanszírozási célú pénzügyi műveletek kiadásait.
 
-## K919.[^463] Tulajdonosi kölcsönök kiadásai
+## K919.[^464] Tulajdonosi kölcsönök kiadásai
 
-## K9191.[^464] Hosszú lejáratú tulajdonosi kölcsönök kiadásai
+## K9191.[^465] Hosszú lejáratú tulajdonosi kölcsönök kiadásai
 
 ## Ezen a rovaton kell elszámolni az Áht. 6. § (7) bekezdés b) pont bc) és be) alpontja szerinti, a kölcsön nyújtását követő költségvetési években történő lejárattal nyújtott tulajdonosi kölcsönök kiadásait.
 
-## K9192.[^465] Rövid lejáratú tulajdonosi kölcsönök kiadásai
+## K9192.[^466] Rövid lejáratú tulajdonosi kölcsönök kiadásai
 
 ## Ezen a rovaton kell elszámolni az Áht. 6. § (7) bekezdés b) pont bc) és be) alpontja szerinti, a kölcsön nyújtásával megegyező költségvetési évben történő lejárattal nyújtott tulajdonosi kölcsönök kiadásait.
 
-## K92.[^466] Külföldi finanszírozás kiadásai
+## K92.[^467] Külföldi finanszírozás kiadásai
 
 ## K921. Forgatási célú külföldi értékpapírok vásárlása
 
@@ -950,13 +950,13 @@
 
 ## Ezen a rovaton kell elszámolni a származékos ügyletek hitelek, kölcsönök, értékpapírok értékében ki nem mutatott és a kamatok között el nem számolt kiadásait, így
 
-## a)[^467] a mérlegforduló napjáig lezárt, kamat swap ügyletnek nem minősülő származékos ügyleteknek a zárás időpontjában érvényes piaci árfolyam és kötési (határidős) árfolyam közötti – veszteségjellegű – különbözet teljes összegét, és
+## a)[^468] a mérlegforduló napjáig lezárt, kamat swap ügyletnek nem minősülő származékos ügyleteknek a zárás időpontjában érvényes piaci árfolyam és kötési (határidős) árfolyam közötti – veszteségjellegű – különbözet teljes összegét, és
 
-## b)[^468]
+## b)[^469]
 
 ## c) a kiírt opcióért fizetett opciós díjat.
 
-## K94.[^469] Váltókiadások
+## K94.[^470] Váltókiadások
 
 ## Ezen a rovaton kell elszámolni az adott váltók teljesítésének kiadásait.
 
@@ -968,7 +968,7 @@
 
 ## B11. Önkormányzatok működési támogatásai
 
-## B111.[^470] Helyi önkormányzatok működésének általános támogatása
+## B111.[^471] Helyi önkormányzatok működésének általános támogatása
 
 ## Ezen a rovaton kell elszámolni a központi költségvetésről szóló törvényben a települési önkormányzatok és a vármegyei önkormányzatok részére a működés általános támogatására biztosított előirányzatból származó bevételeket.
 
@@ -976,7 +976,7 @@
 
 ## Ezen a rovaton kell elszámolni a központi költségvetésről szóló törvényben a települési önkormányzatok egyes köznevelési feladatainak támogatására biztosított előirányzatból származó bevételeket.
 
-## B113.[^471] Települési önkormányzatok szociális, gyermekjóléti és gyermekétkeztetési feladatainak támogatása
+## B113.[^472] Települési önkormányzatok szociális, gyermekjóléti és gyermekétkeztetési feladatainak támogatása
 
 ## B1131. Települési önkormányzatok egyes szociális és gyermekjóléti feladatainak támogatása
 
@@ -990,7 +990,7 @@
 
 ## Ezen a rovaton kell elszámolni a központi költségvetésről szóló törvényben a települési önkormányzatok kulturális feladatainak támogatására biztosított előirányzatból származó bevételeket.
 
-## B115.[^472] Működési célú költségvetési támogatások és kiegészítő támogatások
+## B115.[^473] Működési célú költségvetési támogatások és kiegészítő támogatások
 
 ## Ezen a rovaton kell elszámolni a központi költségvetésről szóló törvényben a helyi önkormányzatok, társulások részére működési célra biztosított költségvetési támogatásokat, továbbá a központi költségvetés Áht. 14. § (3) bekezdése szerinti fejezetében szereplő fejezeti tartalékból
 
@@ -1002,7 +1002,7 @@
 
 ## bevételeit.
 
-## B116.[^473] Elszámolásból származó bevételek
+## B116.[^474] Elszámolásból származó bevételek
 
 ## Ezen a rovaton kell elszámolni a kiadás elszámolását követő évben kapott, valamint a kincstári felülvizsgálat alapján járó pótlólagos támogatások bevételeit.
 
@@ -1016,7 +1016,7 @@
 
 ## c) a tervezettet meghaladó többletbevétel utáni befizetésből származó bevételt, és
 
-## d)[^474] az Áht. 47. §-a szerinti, valamint a központi költségvetésről szóló törvényben előírt más befizetési kötelezettség teljesítéséből származó bevételt.
+## d)[^475] az Áht. 47. §-a szerinti, valamint a központi költségvetésről szóló törvényben előírt más befizetési kötelezettség teljesítéséből származó bevételt.
 
 ## B13. Működési célú garancia- és kezességvállalásból származó megtérülések államháztartáson belülről
 
@@ -1046,15 +1046,15 @@
 
 ## B2. Felhalmozási célú támogatások államháztartáson belülről
 
-## B21.[^475] Felhalmozási célú önkormányzati támogatások
+## B21.[^476] Felhalmozási célú önkormányzati támogatások
 
 ## Ezen a rovaton kell elszámolni
 
-## a)[^476] a központi költségvetés Áht. 14. § (3) bekezdése szerinti fejezetéből a helyi önkormányzatok, társulások részére felhalmozási célra biztosított költségvetési támogatásokból és felhalmozási célú kiegészítő támogatásokból származó bevételeket,
+## a)[^477] a központi költségvetés Áht. 14. § (3) bekezdése szerinti fejezetéből a helyi önkormányzatok, társulások részére felhalmozási célra biztosított költségvetési támogatásokból és felhalmozási célú kiegészítő támogatásokból származó bevételeket,
 
 ## b) a központi költségvetés Áht. 14. § (3) bekezdése szerinti fejezetéből biztosított vis maior támogatást, és
 
-## c)[^477] a helyi önkormányzatok részére a központi költségvetés Áht. 14. § (3) bekezdése szerinti fejezetéből adott egyéb, felhalmozási célú támogatásokat.
+## c)[^478] a helyi önkormányzatok részére a központi költségvetés Áht. 14. § (3) bekezdése szerinti fejezetéből adott egyéb, felhalmozási célú támogatásokat.
 
 ## B22. Felhalmozási célú garancia- és kezességvállalásból származó megtérülések államháztartáson belülről
 
@@ -1092,7 +1092,7 @@
 
 ## a) a személyi jövedelemadót,
 
-## b)[^478]
+## b)[^479]
 
 ## c) a termőföld bérbeadásából származó jövedelem utáni személyi jövedelemadót.
 
@@ -1106,7 +1106,7 @@
 
 ## b) a társas vállalkozások különadóját,
 
-## c)[^479]
+## c)[^480]
 
 ## d) a hitelintézeti járadékot,
 
@@ -1120,13 +1120,13 @@
 
 ## A rovaton elszámolt bevételeket a beszámolóban a fenti bontásban kell szerepeltetni.
 
-## B32.[^480] Szociális hozzájárulási adó és járulékok
+## B32.[^481] Szociális hozzájárulási adó és járulékok
 
 ## Ezen a rovaton kell elszámolni
 
 ## a) a szociális hozzájárulási adót,
 
-## b)[^481] a nyugdíjjárulékot,
+## b)[^482] a nyugdíjjárulékot,
 
 ## c) a korkedvezmény-biztosítási járulékot,
 
@@ -1144,11 +1144,11 @@
 
 ## A rovaton elszámolt bevételeket a beszámolóban a fenti bontásban kell szerepeltetni.
 
-## B33.[^482] Bérhez és foglalkoztatáshoz kapcsolódó adók
+## B33.[^483] Bérhez és foglalkoztatáshoz kapcsolódó adók
 
 ## Ezen a rovaton kell elszámolni
 
-## a)[^483]
+## a)[^484]
 
 ## b) a rehabilitációs hozzájárulást,
 
@@ -1158,13 +1158,13 @@
 
 ## A rovaton elszámolt bevételeket a beszámolóban a fenti bontásban kell szerepeltetni.
 
-## B34.[^484] Vagyoni típusú adók
+## B34.[^485] Vagyoni típusú adók
 
 ## Ezen a rovaton kell elszámolni
 
 ## a) az építményadót,
 
-## b)[^485]
+## b)[^486]
 
 ## c) a magánszemélyek kommunális adóját,
 
@@ -1180,7 +1180,7 @@
 
 ## B35. Termékek és szolgáltatások adói
 
-## B351.[^486] Értékesítési és forgalmi adók
+## B351.[^487] Értékesítési és forgalmi adók
 
 ## Ezen a rovaton kell elszámolni
 
@@ -1234,7 +1234,7 @@
 
 ## b) a regisztrációs adót, és
 
-## c)[^487] a turizmusfejlesztési hozzájárulást.
+## c)[^488] a turizmusfejlesztési hozzájárulást.
 
 ## A rovaton elszámolt bevételeket a beszámolóban a fenti bontásban kell szerepeltetni.
 
@@ -1246,9 +1246,9 @@
 
 ## Ezen a rovaton kell elszámolni
 
-## a)[^488] a belföldi gépjárművek adóját,
+## a)[^489] a belföldi gépjárművek adóját,
 
-## b)[^489]
+## b)[^490]
 
 ## c) a külföldi gépjárművek adóját, és
 
@@ -1256,11 +1256,11 @@
 
 ## A rovaton elszámolt bevételeket a beszámolóban a fenti bontásban kell szerepeltetni.
 
-## B355.[^490] Egyéb áruhasználati és szolgáltatási adók
+## B355.[^491] Egyéb áruhasználati és szolgáltatási adók
 
 ## Ezen a rovaton kell elszámolni
 
-## a)[^491]
+## a)[^492]
 
 ## b) a baleseti adót,
 
@@ -1286,7 +1286,7 @@
 
 ## m) a földvédelmi járulékot,
 
-## n)[^492] a halászati haszonbérleti díjat, valamint az állami halász- és horgászjegy díjat,
+## n)[^493] a halászati haszonbérleti díjat, valamint az állami halász- és horgászjegy díjat,
 
 ## o) a hulladéklerakási járulékot,
 
@@ -1296,7 +1296,7 @@
 
 ## A rovaton elszámolt bevételeket a beszámolóban a fenti bontásban kell szerepeltetni.
 
-## B36.[^493] Egyéb közhatalmi bevételek
+## B36.[^494] Egyéb közhatalmi bevételek
 
 ## Ezen a rovaton kell elszámolni
 
@@ -1342,7 +1342,7 @@
 
 ## B4. Működési bevételek
 
-## B401.[^494] Készletértékesítés ellenértéke
+## B401.[^495] Készletértékesítés ellenértéke
 
 ## Ezen a rovaton kell elszámolni a készletek értékesítésekor kapott eladási árat.
 
@@ -1370,7 +1370,7 @@
 
 ## a) a tárgyi eszközök ellenérték fejében történő vagyonkezelésbe, haszonbérbe, használatba, üzemeltetésbe adásából származó bevételeket,
 
-## b)[^495] a részesedések után kapott osztalékot, ide értve a kamatozó részvények után kapott kamatot is,
+## b)[^496] a részesedések után kapott osztalékot, ide értve a kamatozó részvények után kapott kamatot is,
 
 ## c) a bányajáradékot, és
 
@@ -1402,9 +1402,9 @@
 
 ## Ezen a rovaton kell elszámolni az adóhatóságtól visszaigényelt általános forgalmi adót.
 
-## B408.[^496] Kamatbevételek és más nyereségjellegű bevételek
+## B408.[^497] Kamatbevételek és más nyereségjellegű bevételek
 
-## B4081.[^497] Befektetett pénzügyi eszközökből származó bevételek
+## B4081.[^498] Befektetett pénzügyi eszközökből származó bevételek
 
 ## Ezen a rovaton kell elszámolni
 
@@ -1424,7 +1424,7 @@
 
 ## c) ebből: befektetési jegyek.
 
-## B4082.[^498] Egyéb kapott (járó) kamatok és kamatjellegű bevételek
+## B4082.[^499] Egyéb kapott (járó) kamatok és kamatjellegű bevételek
 
 ## Ezen a rovaton kell elszámolni:
 
@@ -1446,13 +1446,13 @@
 
 ## c) ebből: befektetési jegyek.
 
-## B409.[^499] Egyéb pénzügyi műveletek bevételei
+## B409.[^500] Egyéb pénzügyi műveletek bevételei
 
 ## B4091. Részesedésekből származó pénzügyi műveletek bevételei
 
 ## Ezen a rovaton kell elszámolni a befektetett pénzügyi eszközök kimutatott részesedések értékesítésekor a könyv szerinti érték és az eladási ár közötti nyereségjellegű különbözetet.
 
-## B4092.[^500] Más egyéb pénzügyi műveletek bevételei
+## B4092.[^501] Más egyéb pénzügyi műveletek bevételei
 
 ## Ezen a rovaton kell elszámolni:
 
@@ -1480,11 +1480,11 @@
 
 ## d) ebből: valuta és deviza eszközök realizált árfolyamnyeresége.
 
-## B410.[^501] Biztosító által fizetett kártérítés
+## B410.[^502] Biztosító által fizetett kártérítés
 
 ## Ezen a rovaton kell elszámolni a káresemények után a biztosítótársaságok által fizetett kártérítéseket.
 
-## B411.[^502] Egyéb működési bevételek
+## B411.[^503] Egyéb működési bevételek
 
 ## Ezen a rovaton kell elszámolni a más rovaton nem szerepeltethető működési jellegű bevételeket, így különösen
 
@@ -1502,13 +1502,13 @@
 
 ## g) a foglalkoztatottak, ellátottak által fizetett kártérítéseket,
 
-## h)[^503] a szerződés megerősítésével, a szerződésszegéssel kapcsolatos véglegesen járó bevételeket (például óvadék, foglaló, kötbér, jótállás, szavatosság, késedelmi kamat, a késedelmes vagy elmaradt teljesítés miatti kártérítés), a szerződésen kívüli károkozásért, személyiségi, dologi vagy más jog megsértéséért, jogalap nélküli gazdagodásért kapott összegeket,
+## h)[^504] a szerződés megerősítésével, a szerződésszegéssel kapcsolatos véglegesen járó bevételeket (például óvadék, foglaló, kötbér, jótállás, szavatosság, késedelmi kamat, a késedelmes vagy elmaradt teljesítés miatti kártérítés), a szerződésen kívüli károkozásért, személyiségi, dologi vagy más jog megsértéséért, jogalap nélküli gazdagodásért kapott összegeket,
 
 ## i) az eredeti követelést engedményezőnél (eladónál) az átruházott (engedményezett) követelésért kapott ellenértéket,
 
 ## j) az 1 és 2 forintos érmék forgalomból történő kivonása miatti kerekítési különbözetet, ha a készpénzes kiadások teljesítésekor, bevételek beszedéskor nem határozható meg egyértelműen, hogy az mely rovathoz kapcsolódik, mivel a készpénzmozgás egynél több kiadási, illetve bevételi rovatot érintett, és
 
-## k)[^504] a személyi juttatások, a munkaadókat terhelő járulékok és szociális hozzájárulási adó, a dologi kiadások, valamint a beruházások és a felújítások esetén a kiadás elszámolását követő években történő visszatérítéseit, a pénztártöbbletet.
+## k)[^505] a személyi juttatások, a munkaadókat terhelő járulékok és szociális hozzájárulási adó, a dologi kiadások, valamint a beruházások és a felújítások esetén a kiadás elszámolását követő években történő visszatérítéseit, a pénztártöbbletet.
 
 ## A rovaton elszámolt bevételeket a beszámolóban a következő bontásban kell szerepeltetni:
 
@@ -1538,17 +1538,17 @@
 
 ## Ezen a rovaton kell elszámolni a gépek, berendezések és felszerelések, a járművek és a tenyészállatok értékesítésekor kapott eladási árat.
 
-## B54.[^505] Részesedések értékesítése
+## B54.[^506] Részesedések értékesítése
 
 ## Ezen a rovaton kell elszámolni a részesedés, a befektetési jegy – függetlenül attól, hogy azt a befektetett vagy a forgóeszközök között mutatják ki – értékesítésekor kapott eladási árat és a befektetési jegy beváltásakor kapott összeget, legfeljebb annak könyv szerinti értékéig.
 
 ## A rovaton elszámolt bevételeket a beszámolóban a következő bontásban kell szerepeltetni:
 
-## a)[^506] ebből: privatizációból származó bevétel,
+## a)[^507] ebből: privatizációból származó bevétel,
 
-## b)[^507] ebből: befektetési jegyek.
+## b)[^508] ebből: befektetési jegyek.
 
-## B55.[^508] Részesedések megszűnéséhez kapcsolódó bevételek
+## B55.[^509] Részesedések megszűnéséhez kapcsolódó bevételek
 
 ## Ezen a rovaton kell elszámolni a meglévő részesedéshez, befektetési jegyhez – függetlenül attól, hogy azt a befektetett vagy a forgóeszközök között mutatják ki – kapcsolódó tőkekivonásból, tőkeleszállításból származó bevételt.
 
@@ -1556,7 +1556,7 @@
 
 ## a) ebből: befektetési jegyek.
 
-## B6.[^509] Működési célú átvett pénzeszközök
+## B6.[^510] Működési célú átvett pénzeszközök
 
 ## B61. Működési célú garancia- és kezességvállalásból származó megtérülések államháztartáson kívülről
 
@@ -1604,7 +1604,7 @@
 
 ## A rovaton elszámolt bevételeket a beszámolóban a II. fejezet 2. pontja szerinti bontásban kell szerepeltetni.
 
-## B7.[^510] Felhalmozási célú átvett pénzeszközök
+## B7.[^511] Felhalmozási célú átvett pénzeszközök
 
 ## B71. Felhalmozási célú garancia- és kezességvállalásból származó megtérülések államháztartáson kívülről
 
@@ -1656,7 +1656,7 @@
 
 ## B81. Belföldi finanszírozás bevételei
 
-## B811.[^511] Hitel-, kölcsönfelvétel pénzügyi vállalkozástól
+## B811.[^512] Hitel-, kölcsönfelvétel pénzügyi vállalkozástól
 
 ## B8111. Hosszú lejáratú hitelek, kölcsönök felvétele pénzügyi vállalkozástól
 
@@ -1672,9 +1672,9 @@
 
 ## a) a költségvetési éven belülre belföldről felvett hitelek, kölcsönök felvételéből befolyó bevételeket a likviditási célú hitelek, kölcsönök kivételével, és
 
-## b)[^512] a Gst. 8. § (2) bekezdés e) pontja szerinti ügyletek keretében az eszközök átadásakor kapott eladási árat.
+## b)[^513] a Gst. 8. § (2) bekezdés e) pontja szerinti ügyletek keretében az eszközök átadásakor kapott eladási árat.
 
-## B812.[^513] Belföldi értékpapírok bevételei
+## B812.[^514] Belföldi értékpapírok bevételei
 
 ## B8121. Forgatási célú belföldi értékpapírok beváltása, értékesítése
 
@@ -1682,9 +1682,9 @@
 
 ## A rovaton elszámolt bevételeket a beszámolóban a következő bontásban kell szerepeltetni:
 
-## a)[^514] ebből: kárpótlási jegyek.
+## a)[^515] ebből: kárpótlási jegyek.
 
-## b)[^515]
+## b)[^516]
 
 ## B8122. Éven belüli lejáratú belföldi értékpapírok kibocsátása
 
@@ -1708,33 +1708,33 @@
 
 ## Ezen a rovaton kell elszámolni az előző év vállalkozási maradványának a kiadások teljesítésére történő felhasználását.
 
-## B814.[^516] Államháztartáson belüli megelőlegezések
+## B814.[^517] Államháztartáson belüli megelőlegezések
 
 ## Ezen a rovaton kell elszámolni az Áht. 78. § (4), valamint 83. § (3) bekezdése szerint biztosított megelőlegezéseket.
 
-## B815.[^517] Államháztartáson belüli megelőlegezések törlesztése
+## B815.[^518] Államháztartáson belüli megelőlegezések törlesztése
 
 ## Ezen a rovaton kell elszámolni az Áht. 78. § (4), valamint 83. § (3) bekezdése szerinti megelőlegezések befolyó törlesztését.
 
-## B816.[^518] Központi, irányító szervi támogatás
+## B816.[^519] Központi, irányító szervi támogatás
 
 ## Ezen a rovaton kell elszámolni az Áht. 6. § (7) bekezdés a) pont ad) pontja szerinti központi, irányító szervi támogatás, valamint a központi kezelésű előirányzatok kiadásai finanszírozására szolgáló központi pénzellátás beérkezését.
 
-## B817.[^519] Lekötött bankbetétek megszüntetése
+## B817.[^520] Lekötött bankbetétek megszüntetése
 
 ## Ezen a rovaton kell elszámolni a lekötött bankbetétek megszüntetését.
 
-## B818.[^520] Központi költségvetés sajátos finanszírozási bevételei
+## B818.[^521] Központi költségvetés sajátos finanszírozási bevételei
 
 ## Ezen a rovaton kell elszámolni az Áht. 6. § (7) bekezdés b) pont ba)-bb) pontjában foglalt finanszírozási célú pénzügyi műveletek bevételeit.
 
-## B819.[^521] Tulajdonosi kölcsönök bevételei
+## B819.[^522] Tulajdonosi kölcsönök bevételei
 
-## B8191.[^522] Hosszú lejáratú tulajdonosi kölcsönök bevételei
+## B8191.[^523] Hosszú lejáratú tulajdonosi kölcsönök bevételei
 
 ## Ezen a rovaton kell elszámolni az Áht. 6. § (7) bekezdés b) pont bc) és be) alpontja szerinti, a kölcsön nyújtását követő költségvetési években történő lejárattal nyújtott tulajdonosi kölcsönök bevételeit.
 
-## B8192.[^523] Rövid lejáratú tulajdonosi kölcsönök bevételei
+## B8192.[^524] Rövid lejáratú tulajdonosi kölcsönök bevételei
 
 ## Ezen a rovaton kell elszámolni az Áht. 6. § (7) bekezdés b) pont bc) és be) alpontja szerinti, a kölcsön nyújtásával megegyező költségvetési évben történő lejárattal nyújtott tulajdonosi kölcsönök bevételeit.
 
@@ -1744,7 +1744,7 @@
 
 ## Ezen a rovaton kell elszámolni a forgóeszközök között kimutatott, külföldön kibocsátott vásárolt hitelviszonyt megtestesítő értékpapírok beváltásakor kapott, kamatot nem tartalmazó összeget, eladásukkor azok eladási árát a könyv szerinti értékig.
 
-## B822.[^524] Befektetési célú külföldi értékpapírok beváltása, értékesítése
+## B822.[^525] Befektetési célú külföldi értékpapírok beváltása, értékesítése
 
 ## Ezen a rovaton kell elszámolni a befektetett eszközök között kimutatott, külföldön kibocsátott tartós hitelviszonyt megtestesítő értékpapírok beváltásakor kapott, kamatot nem tartalmazó összeget, eladásukkor azok eladási árát a könyv szerinti értékig.
 
@@ -1752,11 +1752,11 @@
 
 ## Ezen a rovaton kell elszámolni a külföldön kibocsátott hitelviszonyt megtestesítő értékpapírok kibocsátásakor kapott eladási árat azok névértékéig.
 
-## B824.[^525] Hitelek, kölcsönök felvétele külföldi kormányoktól és nemzetközi szervezetektől
+## B824.[^526] Hitelek, kölcsönök felvétele külföldi kormányoktól és nemzetközi szervezetektől
 
 ## Ezen a rovaton kell elszámolni a külföldi kormányoktól és nemzetközi szervezetektől felvett hitelekből, kölcsönökből befolyó bevételeket.
 
-## B825.[^526] Hitelek, kölcsönök felvétele külföldi pénzintézetektől
+## B825.[^527] Hitelek, kölcsönök felvétele külföldi pénzintézetektől
 
 ## Ezen a rovaton kell elszámolni a külföldi pénzintézetektől felvett hitelekből, kölcsönökből befolyó bevételeket.
 
@@ -1764,13 +1764,13 @@
 
 ## Ezen a rovaton kell elszámolni a származékos ügyletek hitelek, kölcsönök, értékpapírok értékében ki nem mutatott és a kamatok között el nem számolt bevételeit, így
 
-## a)[^527] a mérlegforduló napjáig lezárt, kamat swap ügyletnek nem minősülő származékos ügyleteknek a zárás időpontjában érvényes piaci árfolyam és kötési (határidős) árfolyam közötti – nyereségjellegű – különbözet teljes összegét, és
+## a)[^528] a mérlegforduló napjáig lezárt, kamat swap ügyletnek nem minősülő származékos ügyleteknek a zárás időpontjában érvényes piaci árfolyam és kötési (határidős) árfolyam közötti – nyereségjellegű – különbözet teljes összegét, és
 
-## b)[^528]
+## b)[^529]
 
 ## c) a kiírt opcióért kapott opciós díjat.
 
-## B84.[^529] Váltóbevételek
+## B84.[^530] Váltóbevételek
 
 ## Ezen a rovaton kell elszámolni a 43. § (10) bekezdése szerinti, a váltó kibocsátásával együtt nyilvántartásba vett bevételt.
 
@@ -1782,7 +1782,7 @@
 
 ## b) ebből: központi kezelésű előirányzatok,
 
-## c)[^530] ebből: központi vagy fejezeti kezelésű előirányzatok EU-s programok és azok hazai társfinanszírozása,
+## c)[^531] ebből: központi vagy fejezeti kezelésű előirányzatok EU-s programok és azok hazai társfinanszírozása,
 
 ## d) ebből: egyéb fejezeti kezelésű előirányzatok,
 
@@ -1798,7 +1798,7 @@
 
 ## j) ebből: térségi fejlesztési tanácsok és költségvetési szerveik.
 
-## 2.[^531] Ha e melléklet így rendeli, az államháztartáson kívüli bevételeket, kiadásokat a következő bontásban kell bemutatni:
+## 2.[^532] Ha e melléklet így rendeli, az államháztartáson kívüli bevételeket, kiadásokat a következő bontásban kell bemutatni:
 
 ## a) ebből: egyházi jogi személyek,
 
@@ -1822,7 +1822,7 @@
 
 ## k) ebből: egyéb külföldiek.
 
-16. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^532]
+16. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^533]
 
 Egységes számlatükör
 
@@ -2688,172 +2688,170 @@ Egységes számlatükör
 
 0511033. Céljuttatás, projektprémium teljesítése
 
-051104. Készenléti, ügyeleti, helyettesítési díj, túlóra, túlszolgálat
-
-[^366]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K1-8. KÖLTSÉGVETÉSI KIADÁSOK alpont, K1. SZEMÉLYI JUTTATÁSOK alpont, K11. Foglalkoztatottak személyi juttatásai alpont K1101. Törvény szerinti illetmények, munkabérek alpontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (3) bekezdés 3. pontjával megállapított szöveg.
-[^367]: A 15. melléklet K1101. pont a) alpontja az 560/2023. (XII. 14.) Korm. rendelet 16. § 3. pontjával megállapított, a 176/2024. (VII. 7.) Korm. rendelet 9. §-a szerint módosított szöveg.
-[^368]: A 15. melléklet I. Egységes rovatrend a költségvetési és finanszírozási bevételekhez, kiadásokhoz pont, K1–8. Költségvetési kiadások alpont, K1. Személyi juttatások pont, K11. Foglalkoztatottak személyi juttatásai alpont, K1101. Törvény szerinti illetmények, munkabérek pont b) alpontja a 47/2019. (III. 12.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^369]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, K1-8. KÖLTSÉGVETÉSI KIADÁSOK, K1. SZEMÉLYI JUTTATÁSOK, K11. Foglalkoztatottak személyi juttatásai, K1102. Normatív jutalmak rész a 307/2013. (VIII. 14.) Korm. rendelet 39. § (1) bekezdés e) pontjával megállapított szöveg.
-[^370]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, K1-8. KÖLTSÉGVETÉSI KIADÁSOK, K1. SZEMÉLYI JUTTATÁSOK, K11. Foglalkoztatottak személyi juttatásai, K1103. Céljuttatás, projektprémium rész a 307/2013. (VIII. 14.) Korm. rendelet 39. § (1) bekezdés e) pontjával megállapított szöveg.
-[^371]: [A 671/2020. (XII. 28.) Korm. rendelet 27. § b) pontjában foglalt módosítás, mely szerint a 15. melléklet K1-8 Költségvetési kiadások cím K1. Személyi juttatások alcím K1104. pontjában a „túlszolgálatért” szövegrész helyébe a „túlszolgálatért, a Nemzeti Adó- és Vámhivatal adó- és vámhatósági szolgálati jogviszonyban álló foglalkoztatottját a túlmunkáért” szöveg lép, nem vezethető át.]
-[^372]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, K1-8. KÖLTSÉGVETÉSI KIADÁSOK, K1. SZEMÉLYI JUTTATÁSOK, K11. Foglalkoztatottak személyi juttatásai, K1104 .Készenléti, ügyeleti, helyettesítési díj, túlóra, túlszolgálat rész a 307/2013. (VIII. 14.) Korm. rendelet 39. § (1) bekezdés e) pontjával megállapított szöveg.
-[^373]: A 15. melléklet K1104. pont d) alpontja a 480/2022. (XI. 28.) Korm. rendelet 18. § (2) bekezdés 5. pontjával megállapított szöveg.
-[^374]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, K1-8. KÖLTSÉGVETÉSI KIADÁSOK, K1. SZEMÉLYI JUTTATÁSOK, K11. Foglalkoztatottak személyi juttatásai, K1105. Végkielégítés rész a 307/2013. (VIII. 14.) Korm. rendelet 39. § (1) bekezdés e) pontjával megállapított szöveg.
-[^375]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, K1-8. KÖLTSÉGVETÉSI KIADÁSOK, K1. SZEMÉLYI JUTTATÁSOK, K11. Foglalkoztatottak személyi juttatásai, K1106. Jubileumi jutalom rész a 307/2013. (VIII. 14.) Korm. rendelet 39. § (1) bekezdés e) pontjával megállapított szöveg.
-[^376]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K1-8. KÖLTSÉGVETÉSI KIADÁSOK alpont, K1. SZEMÉLYI JUTTATÁSOK pont, K11. Foglalkoztatottak személyi juttatásai alpont K1107. Béren kívüli juttatások pontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontjával megállapított, a 203/2018. (XI. 5.) Korm. rendelet 3. § (3) bekezdés 4. pontja szerint módosított szöveg.
-[^377]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, K1-8. KÖLTSÉGVETÉSI KIADÁSOK, K1. SZEMÉLYI JUTTATÁSOK, K11. Foglalkoztatottak személyi juttatásai, K1108. Ruházati költségtérítés rész a 307/2013. (VIII. 14.) Korm. rendelet 39. § (1) bekezdés e) pontjával megállapított szöveg.
-[^378]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, K1-8. KÖLTSÉGVETÉSI KIADÁSOK, K1. SZEMÉLYI JUTTATÁSOK, K11. Foglalkoztatottak személyi juttatásai, K1109. Közlekedési költségtérítés rész a 307/2013. (VIII. 14.) Korm. rendelet 39. § (1) bekezdés e) pontjával megállapított szöveg.
-[^379]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, K1-8. KÖLTSÉGVETÉSI KIADÁSOK, K1. SZEMÉLYI JUTTATÁSOK, K11. Foglalkoztatottak személyi juttatásai, K1110. Egyéb költségtérítések rész a 307/2013. (VIII. 14.) Korm. rendelet 39. § (1) bekezdés e) pontjával megállapított szöveg.
-[^380]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, K1-8. KÖLTSÉGVETÉSI KIADÁSOK, K1. SZEMÉLYI JUTTATÁSOK, K11. Foglalkoztatottak személyi juttatásai, K1111. Lakhatási támogatások rész a 307/2013. (VIII. 14.) Korm. rendelet 39. § (1) bekezdés e) pontjával megállapított szöveg.
-[^381]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, K1-8. KÖLTSÉGVETÉSI KIADÁSOK, K1. SZEMÉLYI JUTTATÁSOK, K11. Foglalkoztatottak személyi juttatásai, K1112. Szociális támogatások rész a 307/2013. (VIII. 14.) Korm. rendelet 39. § (1) bekezdés e) pontjával megállapított szöveg.
-[^382]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, K1-8. KÖLTSÉGVETÉSI KIADÁSOK, K1. SZEMÉLYI JUTTATÁSOK, K11. Foglalkoztatottak személyi juttatásai, K1113. Foglalkoztatottak egyéb személyi juttatásai rész a) pontja a 307/2013. (VIII. 14.) Korm. rendelet 39. § (1) bekezdés e) pontjával megállapított szöveg.
-[^383]: A 15. melléklet K121. pont a 480/2022. (XI. 28.) Korm. rendelet 18. § (2) bekezdés 6. pontjával megállapított szöveg.
-[^384]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, K1-8. KÖLTSÉGVETÉSI KIADÁSOK, K1. SZEMÉLYI JUTTATÁSOK, K12. Külső személyi juttatások, K123. Egyéb külső személyi juttatások rész b) pontja a 307/2013. (VIII. 14.) Korm. rendelet 39. § (1) bekezdés e) pontja szerint módosított szöveg.
-[^385]: A 15. melléklet K123. pont d) alpontja a 282/2019. (XI. 27.) Korm. rendelet 22. § (2) bekezdés 4. pontja szerint módosított szöveg.
-[^386]: A 15. melléklet I. pont K123. alpont e) pontja a 480/2022. (XI. 28.) Korm. rendelet 18. § (2) bekezdés 5. pontjával megállapított, a 176/2024. (VII. 7.) Korm. rendelet 10. §-a szerint módosított szöveg.
-[^387]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K1-8. KÖLTSÉGVETÉSI KIADÁSOK alpont, K1. SZEMÉLYI JUTTATÁSOK alpont, K12. Külső személyi juttatások alpont K123. Választott tisztségviselők juttatásai alpont g) alpontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (3) bekezdés 3. pontjával megállapított szöveg.
-[^388]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, K1-8. KÖLTSÉGVETÉSI KIADÁSOK, K2. MUNKAADÓKAT TERHELŐ JÁRULÉKOK ÉS SZOCIÁLIS HOZZÁJÁRULÁSI ADÓ rész záró mondata a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 5. pontja szerint módosított szöveg.
-[^389]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K1–8. KÖLTSÉGVETÉSI KIADÁSOK alpont, K2. MUNKAADÓKAT TERHELŐ JÁRULÉKOK ÉS SZOCIÁLIS HOZZÁJÁRULÁSI ADÓ pont c) alpontját a 380/2017. (XII. 11.) Korm. rendelet 7. § (1) bekezdés 6. pontja hatályon kívül helyezte.
-[^390]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, K1-8. KÖLTSÉGVETÉSI KIADÁSOK, K3. DOLOGI KIADÁSOK, K31. Készletbeszerzés, K311. Szakmai anyagok beszerzése rész a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 5. pontjával megállapított szöveg.
-[^391]: A 15. melléklet K311. pont e) alpontja a 678/2020. (XII. 28.) Korm. rendelet 9. § (2) bekezdés 5. pontja szerint módosított szöveg.
-[^392]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, K1-8. KÖLTSÉGVETÉSI KIADÁSOK, K3. SZEMÉLYI JUTTATÁSOK, K31. Készletbeszerzés, K312. Üzemeltetési anyagok beszerzése rész f) pontja a 307/2013. (VIII. 14.) Korm. rendelet 39. § (1) bekezdés e) pontja szerint módosított szöveg.
-[^393]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, K1-8. KÖLTSÉGVETÉSI KIADÁSOK, K3. DOLOGI KIADÁSOK, K32. Kommunikációs szolgáltatások, K321. Informatikai szolgáltatások igénybevétele rész b) pontja a 307/2013. (VIII. 14.) Korm. rendelet 39. § (1) bekezdés e) pontja szerint módosított szöveg.
-[^394]: A 15. melléklet K321. pont d) alpontja a 380/2021. (VI. 30.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^395]: A 15. melléklet K331. pontja a 480/2022. (XI. 28.) Korm. rendelet 18. § (2) bekezdés 6. pontjával megállapított szöveg.
-[^396]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K1-8. KÖLTSÉGVETÉSI KIADÁSOK alpont, K3. DOLOGI KIADÁSOK alpont, K33. Szolgáltatási kiadások alpont K336. Szakmai tevékenységet segítő szolgáltatások alpontja a 397/2014. (XII. 31.) Korm. rendelet 49. § 2. pontjával, az 532/2022. (XII. 19.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^397]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont K1-8. KÖLTSÉGVETÉSI KIADÁSOK alpont K3. DOLOGI KIADÁSOK alpont K33. Szolgáltatási kiadások alpont K337. alpontja a 402/2015. (XII. 15.) Korm. rendelet 21. § (1) bekezdés 6. pontjával megállapított, a 282/2019. (XI. 27.) Korm. rendelet 22. § (2) bekezdés 4. pontja szerint módosított szöveg.
-[^398]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K1–8. KÖLTSÉGVETÉSI KIADÁSOK alpont, K3. DOLOGI KIADÁSOK pont, K34. Kiküldetések, reklám- és propagandakiadások alpont, K341. Kiküldetések kiadásai pont b) alpontja a 380/2017. (XII. 11.) Korm. rendelet 6. § 10. pontja szerint módosított szöveg.
-[^399]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K1-8. KÖLTSÉGVETÉSI KIADÁSOK alpont, K3. DOLOGI KIADÁSOK alpont, K35. Különféle befizetések és egyéb dologi kiadások alpont K351. Működési célú előzetesen felszámított általános forgalmi adó alpontja a 397/2014. (XII. 31.) Korm. rendelet 49. § 2. pontjával megállapított szöveg.
-[^400]: A 15. melléklet I. K353. Kamatkiadások pont b) alpontja a 284/2014. (XI. 20.) Korm. rendelet 23. § (1) bekezdés 2. pontja, a 351/2016. (XI. 18.) Korm. rendelet 11. § 16. pontja, a 678/2020. (XII. 28.) Korm. rendelet 9. § (2) bekezdés 5. pontja szerint módosított szöveg.
-[^401]: A 15. melléklet I. alcím K1–8. alpont K3 pont K35 alpont K353. pont c) alpontja a 351/2016. (XI. 18.) Korm. rendelet 10. § (1) bekezdés 5. pontjával megállapított szöveg.
-[^402]: A 15. melléklet I. alcím K1–8. pont K3. alpont K35. pont K353. alpont záró szövegrész b) pontja a 351/2016. (XI. 18.) Korm. rendelet 11. § 16. pontja szerint módosított szöveg.
-[^403]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K1-8. KÖLTSÉGVETÉSI KIADÁSOK alpont, K3. DOLOGI KIADÁSOK alpont, K35. Különféle befizetések és egyéb dologi kiadások alpont, K355. Egyéb dologi kiadások alpont f) alpontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (3) bekezdés 3. pontjával megállapított, a 351/2016. (XI. 18.) Korm. rendelet 11. § 17. pontja szerint módosított szöveg.
-[^404]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K1-8. KÖLTSÉGVETÉSI KIADÁSOK alpont, K4. ELLÁTOTTAK PÉNZBELI JUTTATÁSAI alpont K42. Családi támogatások alpontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontjával megállapított szöveg.
-[^405]: A 15. melléklet K4. cím K42. alcím c) pontja a 417/2015. (XII. 23.) Korm. rendelet 46. §-ával megállapított szöveg.
-[^406]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K1–8. KÖLTSÉGVETÉSI KIADÁSOK alpont, K4. ELLÁTOTTAK PÉNZBELI JUTTATÁSAI pont, K42. Családi támogatások alpont i) pontja a 380/2017. (XII. 11.) Korm. rendelet 6. § 11. pontja szerint módosított szöveg.
-[^407]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont K1-8. KÖLTSÉGVETÉSI KIADÁSOK alpont K4. ELLÁTOTTAK PÉNZBELI JUTTATÁSAI alpont K42. Családi támogatások alpont j) alpontját a 402/2015. (XII. 15.) Korm. rendelet 23. § (2) bekezdés 9. pontja hatályon kívül helyezte.
-[^408]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, K1-8. KÖLTSÉGVETÉSI KIADÁSOK, K4. ELLÁTOTTAK PÉNZBELI JUTTATÁSAI, K43. Pénzbeli kárpótlások, kártérítések rész a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 5. pontjával megállapított szöveg.
-[^409]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K1-8. KÖLTSÉGVETÉSI KIADÁSOK alpont, K4. ELLÁTOTTAK PÉNZBELI JUTTATÁSAI alpont K44. Betegséggel kapcsolatos (nem társadalombiztosítási) ellátások alpontja a 397/2014. (XII. 31.) Korm. rendelet 49. § 2. pontjával megállapított szöveg.
-[^410]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K1-8. KÖLTSÉGVETÉSI KIADÁSOK alpont, K4. ELLÁTOTTAK PÉNZBELI JUTTATÁSAI alpont K44. Betegséggel kapcsolatos (nem társadalombiztosítási) ellátások alpont a) alpontja a 70/2015. (III. 30.) Korm. rendelet 217. § (2) bekezdése, a 402/2015. (XII. 15.) Korm. rendelet 22. § 45. pontja szerint módosított szöveg.
-[^411]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont K1-8. KÖLTSÉGVETÉSI KIADÁSOK alpont K4. ELLÁTOTTAK PÉNZBELI JUTTATÁSAI alpont K44. alpont c) alpontját a 402/2015. (XII. 15.) Korm. rendelet 23. § (2) bekezdés 10. pontja hatályon kívül helyezte, újonnan a 380/2017. (XII. 11.) Korm. rendelet 5. § 5. pontja iktatta be.
-[^412]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K1-8. KÖLTSÉGVETÉSI KIADÁSOK alpont, K4. ELLÁTOTTAK PÉNZBELI JUTTATÁSAI alpont K44. Betegséggel kapcsolatos (nem társadalombiztosítási) ellátások alpont f) alpontja a 70/2015. (III. 30.) Korm. rendelet 217. § (2) bekezdése, a 402/2015. (XII. 15.) Korm. rendelet 23. § (1) bekezdés 6. pontja szerint módosított szöveg.
-[^413]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont K1-8. KÖLTSÉGVETÉSI KIADÁSOK alpont K4. ELLÁTOTTAK PÉNZBELI JUTTATÁSAI pont K44. Betegséggel kapcsolatos (nem társadalombiztosítási) ellátások alpont h) pontját a 402/2015. (XII. 15.) Korm. rendelet 23. § (2) bekezdés 10. pontja hatályon kívül helyezte, újonnan a 203/2018. (XI. 5.) Korm. rendelet 3. § (3) bekezdés 4. pontja iktatta be, szövege a 282/2019. (XI. 27.) Korm. rendelet 24. § (2) bekezdése szerint módosított szöveg.
-[^414]: A 15. melléklet K44. pont i) alpontja a 282/2019. (XI. 27.) Korm. rendelet 22. § (2) bekezdés 5. pontja szerint módosított szöveg.
-[^415]: A 15. melléklet K44. pont j) alpontját a 282/2019. (XI. 27.) Korm. rendelet 22. § (2) bekezdés 5. pontja iktatta be.
-[^416]: A 15. melléklet K45. pont a) alpontja a 480/2022. (XI. 28.) Korm. rendelet 18. § (2) bekezdés 6. pontjával megállapított szöveg.
-[^417]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K1-8. KÖLTSÉGVETÉSI KIADÁSOK alpont, K4. ELLÁTOTTAK PÉNZBELI JUTTATÁSAI pont, K45. Foglalkoztatással, munkanélküliséggel kapcsolatos ellátások alpont c) pontját a 380/2017. (XII. 11.) Korm. rendelet 7. § (1) bekezdés 8. pontja hatályon kívül helyezte.
-[^418]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K1–8. KÖLTSÉGVETÉSI KIADÁSOK alpont, K4. ELLÁTOTTAK PÉNZBELI JUTTATÁSAI pont, K46. Lakhatással kapcsolatos ellátások alpont c)–d) pontját a 380/2017. (XII. 11.) Korm. rendelet 7. § (1) bekezdés 7. pontja hatályon kívül helyezte.
-[^419]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont K1-8. KÖLTSÉGVETÉSI KIADÁSOK alpont K4. ELLÁTOTTAK PÉNZBELI JUTTATÁSAI alpont K46. alpont e–f) alpontját a 402/2015. (XII. 15.) Korm. rendelet 23. § (2) bekezdés 11. pontja hatályon kívül helyezte.
-[^420]: A 15. melléklet K47. pont b) alpontja a 380/2021. (VI. 30.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^421]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont K1-8. KÖLTSÉGVETÉSI KIADÁSOK alpont K4. ELLÁTOTTAK PÉNZBELI JUTTATÁSAI alpont K48. alpontja a 402/2015. (XII. 15.) Korm. rendelet 21. § (1) bekezdés 6. pontjával megállapított szöveg.
-[^422]: A 15. melléklet K48. pont d) alpontja a 678/2020. (XII. 28.) Korm. rendelet 9. § (2) bekezdés 5. pontjával megállapított szöveg.
-[^423]: A 15. melléklet K48. pont f) alpontja a 282/2019. (XI. 27.) Korm. rendelet 22. § (2) bekezdés 4. pontja szerint módosított szöveg.
-[^424]: A 15. melléklet K4. Ellátottak pénzbeli juttatásai pont K48. h) alpontja a 449/2016. (XII. 19.) Korm. rendelet 24. §-a, a 380/2017. (XII. 11.) Korm. rendelet 6. § 12. pontja, a 282/2019. (XI. 27.) Korm. rendelet 22. § (2) bekezdés 4. pontja szerint módosított szöveg.
-[^425]: A 15. melléklet I. alcím K1–8. pont l) alpontja a 126/2019. (V. 30.) Korm. rendelet 20. §-a szerint módosított szöveg.
-[^426]: A 15. melléklet I. alcím K1-8. alpont K5. pont K501. alpontja a 351/2016. (XI. 18.) Korm. rendelet 10. § (1) bekezdés 4. pontjával megállapított szöveg.
-[^427]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K1–8. KÖLTSÉGVETÉSI KIADÁSOK alpont, K5. EGYÉB MŰKÖDÉSI CÉLÚ KIADÁSOK pont, K501. Nemzetközi kötelezettségek alpont b) pontja a 380/2017. (XII. 11.) Korm. rendelet 6. § 13. pontja szerint módosított szöveg.
-[^428]: A 15. melléklet I. alcím K1-8. alpont K5. pont K502. alpont megjelölést a 351/2016. (XI. 18.) Korm. rendelet 10. § (1) bekezdés 4. pontja iktatta be.
-[^429]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K1-8. KÖLTSÉGVETÉSI KIADÁSOK alpont, K5. EGYÉB MŰKÖDÉSI CÉLÚ KIADÁSOK alpont K502 Elvonások és befizetések alpontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontjával megállapított szöveg.
-[^430]: A 15. melléklet I. alcím K1–8. alpont K5 pont K502. alpont K522. pont a 351/2016. (XI. 18.) Korm. rendelet 10. § (1) bekezdés 5. pontjával megállapított szöveg.
-[^431]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K1–8. KÖLTSÉGVETÉSI KIADÁSOK alpont, K5. EGYÉB MŰKÖDÉSI CÉLÚ KIADÁSOK pont, K502. Elvonások és befizetések alpont, K5023. Egyéb elvonások, befizetések pont b) alpontja a 380/2017. (XII. 11.) Korm. rendelet 5. § (2) bekezdés 4. pontjával megállapított szöveg.
-[^432]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K1–8. KÖLTSÉGVETÉSI KIADÁSOK alpont, K5. EGYÉB MŰKÖDÉSI CÉLÚ KIADÁSOK pont, K502. Elvonások és befizetések alpont, K5023. Egyéb elvonások, befizetések pont c) alpontja a 380/2017. (XII. 11.) Korm. rendelet 5. § (2) bekezdés 4. pontjával megállapított szöveg.
-[^433]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K1–8. KÖLTSÉGVETÉSI KIADÁSOK alpont, K5. EGYÉB MŰKÖDÉSI CÉLÚ KIADÁSOK pont, K502. Elvonások és befizetések alpont, K5023. Egyéb elvonások, befizetések pont d) alpontját a 380/2017. (XII. 11.) Korm. rendelet 5. § (2) bekezdés 4. pontja iktatta be.
-[^434]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K1-8. KÖLTSÉGVETÉSI KIADÁSOK alpont, K5. EGYÉB MŰKÖDÉSI CÉLÚ KIADÁSOK alpont K508. Működési célú visszatérítendő támogatások, kölcsönök nyújtása államháztartáson kívülre alpontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontjával megállapított szöveg.
-[^435]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K1-8. KÖLTSÉGVETÉSI KIADÁSOK alpont, K5. EGYÉB MŰKÖDÉSI CÉLÚ KIADÁSOK alpont K511. Egyéb működési célú támogatások államháztartáson kívülre alpontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontjával megállapított szöveg.
-[^436]: A 15. melléklet I. alcím K1-8. alpont K5. pont K511. alpont b) pontja a 351/2016. (XI. 18.) Korm. rendelet 10. § (1) bekezdés 4. pontjával megállapított szöveg.
-[^437]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K1-8. KÖLTSÉGVETÉSI KIADÁSOK alpont, K5. EGYÉB MŰKÖDÉSI CÉLÚ KIADÁSOK alpont K512. Tartalékok alpontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontjával megállapított, a 402/2015. (XII. 15.) Korm. rendelet 23. § (1) bekezdés 7. pontja szerint módosított szöveg.
-[^438]: A 15. melléklet K512. pont a) alpontja a 282/2019. (XI. 27.) Korm. rendelet 22. § (2) bekezdés 4. pontja szerint módosított szöveg.
-[^439]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K1-8. KÖLTSÉGVETÉSI KIADÁSOK alpont K5. EGYÉB MŰKÖDÉSI CÉLÚ KIADÁSOK alpont K513. Tartalékok alpontját a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontja iktatta be.
-[^440]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, K1-8. KÖLTSÉGVETÉSI KIADÁSOK, K6. BERUHÁZÁSOK, K61. Immateriális javak beszerzése, létesítése rész a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 5. pontjával megállapított szöveg.
-[^441]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, K1-8. KÖLTSÉGVETÉSI KIADÁSOK, K6. BERUHÁZÁSOK, K62. Ingatlanok beszerzése, létesítése rész a 307/2013. (VIII. 14.) Korm. rendelet 39. § (1) bekezdés e) pontja szerint módosított szöveg.
-[^442]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, K1-8. KÖLTSÉGVETÉSI KIADÁSOK, K6. BERUHÁZÁSOK, K63. Informatikai eszközök beszerzése, létesítése rész a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 5. pontjával megállapított szöveg.
-[^443]: A 15. melléklet K65. pontja a 678/2020. (XII. 28.) Korm. rendelet 9. § (2) bekezdés 6. pontjával megállapított szöveg.
-[^444]: A 15. melléklet K66. pontja a 678/2020. (XII. 28.) Korm. rendelet 9. § (2) bekezdés 6. pontjával megállapított szöveg.
-[^445]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K1-8. KÖLTSÉGVETÉSI KIADÁSOK alpont, K8. EGYÉB FELHALMOZÁSI CÉLÚ KIADÁSOK alpont K86. Felhalmozási célú visszatérítendő támogatások, kölcsönök nyújtása államháztartáson kívülre alpontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontjával megállapított szöveg.
-[^446]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K1-8. KÖLTSÉGVETÉSI KIADÁSOK alpont, K8. EGYÉB FELHALMOZÁSI CÉLÚ KIADÁSOK alpont K88. Egyéb felhalmozási célú támogatások államháztartáson kívülre alpontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontjával megállapított szöveg.
-[^447]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K1-8. KÖLTSÉGVETÉSI KIADÁSOK alpont, K8. EGYÉB FELHALMOZÁSI CÉLÚ KIADÁSOK alpont K89. Egyéb felhalmozási célú támogatások államháztartáson kívülre alpontot a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontja iktatta be.
-[^448]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K1-8. KÖLTSÉGVETÉSI KIADÁSOK alpont, K8. EGYÉB FELHALMOZÁSI CÉLÚ KIADÁSOK alpont K89. alpont b) alpontja a 402/2015. (XII. 15.) Korm. rendelet 22. § 47. pontja szerint módosított szöveg.
-[^449]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K9. FINANSZÍROZÁSI KIADÁSOK alpont, K91. Belföldi finanszírozás kiadásai alpont, K911. Hitel-, kölcsöntörlesztés államháztartáson kívülre alpont K9111. Hosszú lejáratú hitelek, kölcsönök törlesztése alpontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontjával megállapított szöveg.
-[^450]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K9. FINANSZÍROZÁSI KIADÁSOK alpont, K91. Belföldi finanszírozás kiadásai alpont, K911. Hitel-, kölcsöntörlesztés államháztartáson kívülre alpont,K9113. Rövid lejáratú hitelek, kölcsönök törlesztése alpontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontjával megállapított szöveg.
-[^451]: A 15. melléklet I. K9113. pont b) alpontja a 678/2020. (XII. 28.) Korm. rendelet 9. § (2) bekezdés 5. pontja szerint módosított szöveg.
-[^452]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K9. FINANSZÍROZÁSI KIADÁSOK alpont, K91. Belföldi finanszírozás kiadásai alpont K912. Belföldi értékpapírok kiadásai alpontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontjával megállapított szöveg.
-[^453]: A 15. melléklet a K9121. pontja a 678/2020. (XII. 28.) Korm rendelet 9. § (2) bekezdés 5. pontja szerint módosított szöveg.
-[^454]: A 15. melléklet K9121. pont a) alpontja a 678/2020. (XII. 28.) Korm. rendelet 9. § (2) bekezdés 6. pontjával megállapított szöveg.
-[^455]: A 15. melléklet K9121. pont b) alpontját a 678/2020. (XII. 28.) Korm. rendelet 11. § (2) bekezdés 3. pontja hatályon kívül helyezte.
-[^456]: A 15. melléklet K9124. pont b) alpontja a 678/2020. (XII. 28.) Korm. rendelet 9. § (2) bekezdés 6. pontjával megállapított szöveg.
-[^457]: A 15. melléklet K9124. pont c) alpontját a 678/2020. (XII. 28.) Korm. rendelet 11. § (2) bekezdés 4. pontja hatályon kívül helyezte.
-[^458]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, K9. FINANSZÍROZÁSI KIADÁSOK, K91. Belföldi finanszírozás kiadásai, K913. Államháztartáson belüli megelőlegezések folyósítása rész a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 5. pontjával megállapított szöveg.
-[^459]: A15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, K9. FINANSZÍROZÁSI KIADÁSOK, K91. Belföldi finanszírozás kiadásai, K914. Államháztartáson belüli megelőlegezések visszafizetése rész a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 5. pontjával megállapított szöveg.
-[^460]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K9. FINANSZÍROZÁSI KIADÁSOK alpont, K91. Belföldi finanszírozás kiadásai alpont K915. Központi, irányító szervi támogatás folyósítása alpontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontjával megállapított, a 175/2015. (VII. 7.) Korm. rendelet 40. § 2. pontja szerint módosított szöveg.
-[^461]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K9. FINANSZÍROZÁSI KIADÁSOK alpont, K91. Belföldi finanszírozás kiadásai alpont K916. Pénzeszközök betétként elhelyezése alpontja a 397/2014. (XII. 31.) Korm. rendelet 49. § 2. pontjával megállapított szöveg.
-[^462]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K9. FINANSZÍROZÁSI KIADÁSOK alpont, K91. Belföldi finanszírozás kiadásai alpont K918. Központi költségvetés sajátos finanszírozási kiadásai alpontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontjával megállapított szöveg.
-[^463]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K9. FINANSZÍROZÁSI KIADÁSOK alpont K91. Belföldi finanszírozás kiadásai alpont K919. Tulajdonosi kölcsönök kiadásai alpontát a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontja iktatta be.
-[^464]: A 15. melléklet K9191. pontja az 560/2023. (XII. 14.) Korm. rendelet 16. § 3. pontjával megállapított szöveg.
-[^465]: A 15. melléklet K9192. pontja az 560/2023. (XII. 14.) Korm. rendelet 16. § 3. pontjával megállapított szöveg.
-[^466]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K9. FINANSZÍROZÁSI KIADÁSOK alpont K92. Külföldi finanszírozás kiadásai alpontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontjával megállapított szöveg.
-[^467]: A 15. melléklet I. alcím K9. alpont K93. pont a) alpontja a 351/2016. (XI. 18.) Korm. rendelet 10. § (1) bekezdés 5. pontjával megállapított szöveg.
-[^468]: A 15. melléklet I. alcím K9. alpont K93. pont b) alpontját a 351/2016. (XI. 18.) Korm. rendelet 12. § (1) bekezdés 10. pontja hatályon kívül helyezte.
-[^469]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont K9. FINANSZÍROZÁSI KIADÁSOK alpont K94. Váltókiadások alpontját a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontja iktatta be, szövege a 402/2015. (XII. 15.) Korm. rendelet 22. § 48. pontja szerint módosított szöveg.
-[^470]: A 15. melléklet B111. pontja a 480/2022. (XI. 28.) Korm. rendelet 18. § (2) bekezdés 6. pontjával megállapított szöveg.
-[^471]: A 15. melléklet B113. pontja a 282/2019. (XI. 27.) Korm. rendelet 22. § (2) bekezdés 5. pontjával megállapított szöveg.
-[^472]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, B1-7. KÖLTSÉGVETÉSI BEVÉTELEK alpont, B1. MŰKÖDÉSI CÉLÚ TÁMOGATÁSOK ÁLLAMHÁZTARTÁSON BELÜLRŐL alpont, B11. Önkormányzatok működési támogatásai alpont B115. Működési célú központosított előirányzatok alpontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontjával megállapított, a 402/2015. (XII. 15.) Korm. rendelet 23. § (1) bekezdés 8. pontja szerint módosított szöveg.
-[^473]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, B1-7. KÖLTSÉGVETÉSI BEVÉTELEK alpont, B1. MŰKÖDÉSI CÉLÚ TÁMOGATÁSOK ÁLLAMHÁZTARTÁSON BELÜLRŐL alpont, B11. Önkormányzatok működési támogatásai alpont B116. Helyi önkormányzatok kiegészítő támogatásai alpontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontjával megállapított szöveg.
-[^474]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, B1-7. KÖLTSÉGVETÉSI BEVÉTELEK alpont, B1. MŰKÖDÉSI CÉLÚ TÁMOGATÁSOK ÁLLAMHÁZTARTÁSON BELÜLRŐL alpont, B12. Elvonások és befizetések bevételei alpont d) alpontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (3) bekezdés 3. pontjával megállapított szöveg.
-[^475]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont B1-7. KÖLTSÉGVETÉSI BEVÉTELEK alpont B2. FELHALMOZÁSI CÉLÚ TÁMOGATÁSOK ÁLLAMHÁZTARTÁSON BELÜLRŐL alpontja B21. Felhalmozási célú önkormányzati támogatások alpontja a 402/2015. (XII. 15.) Korm. rendelet 21. § (1) bekezdés 6. pontjával megállapított szöveg.
-[^476]: A 15. melléklet I. alcím B1–7. pont B2. alpont B21. pont a) alpontja a 351/2016. (XI. 18.) Korm. rendelet 11. § 19. pontja szerint módosított szöveg.
-[^477]: A 15. melléklet I. alcím B1–7. pont B2. alpont B21. pont c) alpontja a 351/2016. (XI. 18.) Korm. rendelet 11. § 20. pontja szerint módosított szöveg.
-[^478]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont BEVÉTELEK (B) B1-7. KÖLTSÉGVETÉSI BEVÉTELEK alpont B3. KÖZHATALMI BEVÉTELEK pont B31. Jövedelemadók alpont B311. Magánszemélyek jövedelemadói pont b) alpontját a 203/2018. (XI. 5.) Korm. rendelet 3. § (3) bekezdés 4. pontja hatályon kívül helyezte.
-[^479]: A 15. melléklet B312. pont c) alpontját a 282/2019. (XI. 27.) Korm. rendelet 24. § (1) bekezdés 3. pontja hatályon kívül helyezte.
-[^480]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, B1-7. KÖLTSÉGVETÉSI BEVÉTELEK, B3. KÖZHATALMI BEVÉTELEK, B32. Szociális hozzájárulási adó és járulékok rész a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 5. pontjával megállapított szöveg.
-[^481]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, B1-7. KÖLTSÉGVETÉSI BEVÉTELEK, B3. KÖZHATALMI BEVÉTELEK, B32. Szociális hozzájárulási adó és járulékok rész b) alpontja a 402/2015. (XII. 15.) Korm. rendelet 23. § (1) bekezdés 9. pontja szerint módosított szöveg.
-[^482]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, B1-7. KÖLTSÉGVETÉSI BEVÉTELEK, B3. KÖZHATALMI BEVÉTELEK, B33. Bérhez és foglalkoztatáshoz kapcsolódó adók rész a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 5. pontjával megállapított szöveg.
-[^483]: A 15. melléklet B33. pont a) alpontját a 480/2022. (XI. 28.) Korm. rendelet 20. § (1) bekezdés 1. pontja hatályon kívül helyezte.
-[^484]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, B1-7. KÖLTSÉGVETÉSI BEVÉTELEK, B3. KÖZHATALMI BEVÉTELEK, B34. Vagyoni típusú adók rész a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 5. pontjával megállapított szöveg.
-[^485]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, BEVÉTELEK alpont B1-7. KÖLTSÉGVETÉSI BEVÉTELEK pont, B3. KÖZHATALMI BEVÉTELEK alpont, B34. Vagyoni típusú adók pont b) alpontját a 380/2017. (XII. 11.) Korm. rendelet 7. § (1) bekezdés 9. pontja hatályon kívül helyezte.
-[^486]: A 15. melléklet B351. pontja a 480/2022. (XI. 28.) Korm. rendelet 18. § (2) bekezdés 6. pontjával megállapított szöveg.
-[^487]: A 15. melléklet BEVÉTELEK (B) pont, B1–7. KÖLTSÉGVETÉSI BEVÉTELEK alpont, B3. KÖZHATALMI BEVÉTELEK pont, B35. Termékek és szolgáltatások adói alpont, B352. Fogyasztási adók pont c) alpontja a 380/2017. (XII. 11.) Korm. rendelet 6. § 14. pontjával megállapított szöveg.
-[^488]: A 15. melléklet B354. pont a) alpontja a 480/2022. (XI. 28.) Korm. rendelet 18. § (2) bekezdés 6. pontjával megállapított szöveg.
-[^489]: A 15. melléklet B354. pont b) alpontját a 480/2022. (XI. 28.) Korm. rendelet 20. § (1) bekezdés 2. pontja hatályon kívül helyezte.
-[^490]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, B1-7. KÖLTSÉGVETÉSI BEVÉTELEK alpont, B3. KÖZHATALMI BEVÉTELEK alpont, B35. Termékek és szolgáltatások adói, B355. Egyéb áruhasználati és szolgáltatási adók alpontja a 397/2014. (XII. 31.) Korm. rendelet 49. § 2. pontjával megállapított szöveg.
-[^491]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont BEVÉTELEK (B) B1-7. KÖLTSÉGVETÉSI BEVÉTELEK alpont B3. KÖZHATALMI BEVÉTELEK pont B35. Termékek és szolgáltatások adói alpont B355. Egyéb áruhasználati és szolgáltatási adók pont a) alpontját a 203/2018. (XI. 5.) Korm. rendelet 3. § (3) bekezdés 4. pontja hatályon kívül helyezte.
-[^492]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont B1-7. KÖLTSÉGVETÉSI BEVÉTELEK alpont B3. KÖZHATALMI BEVÉTELEK alpont B35 Termékek és szolgáltatások adói alpont B355. Egyéb áruhasználati és szolgáltatási adók alpont n) alpontja a 402/2015. (XII. 15.) Korm. rendelet 21. § (1) bekezdés 6. pontjával megállapított szöveg.
-[^493]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, BEVÉTELEK (B) B1-7. KÖLTSÉGVETÉSI BEVÉTELEK alpont, B3. KÖZHATALMI BEVÉTELEK pont, B36. Egyéb közhatalmi bevételek alpontját a 380/2017. (XII. 11.) Korm. rendelet 5. § 5. pontja iktatta be, szövege a 203/2018. (XI. 5.) Korm. rendelet 3. § (3) bekezdés 4. pontjával megállapított szöveg.
-[^494]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, B1-7. KÖLTSÉGVETÉSI BEVÉTELEK, B4. MŰKÖDÉSI BEVÉTELEK, B401. rész a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 5. pontjával megállapított szöveg.
-[^495]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, B1-7. KÖLTSÉGVETÉSI BEVÉTELEK, B4. MŰKÖDÉSI BEVÉTELEK, B404. rész b pontja a 402/2015. (XII. 15.) Korm. rendelet 22. § 49. pontja szerint módosított szöveg.
-[^496]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont B1-7. KÖLTSÉGVETÉSI BEVÉTELEK alpont B4. MŰKÖDÉSI BEVÉTELEK alpont B408. alpontja a 402/2015. (XII. 15.) Korm. rendelet 21. § (1) bekezdés 6. pontjával megállapított szöveg.
-[^497]: A 15. melléklet B4081. pontja a 482/2021. (VIII. 13.) Korm. rendelet 15. § (2) bekezdés 2. pontjával megállapított szöveg.
-[^498]: A 15. melléklet B4082. pontja a 678/2020. (XII. 28.) Korm. rendelet 9. § (2) bekezdés 6. pontjával megállapított szöveg.
-[^499]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont B1-7. KÖLTSÉGVETÉSI BEVÉTELEK alpont B4. MŰKÖDÉSI BEVÉTELEK alpont B409. alpontja a 402/2015. (XII. 15.) Korm. rendelet 21. § (1) bekezdés 6. pontjával megállapított szöveg.
-[^500]: A 15. melléklet a B4092. pontja a 678/2020. (XII. 28.) Korm rendelet 9. § (2) bekezdés 6. pontjával megállapított szöveg.
-[^501]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, B1-7. KÖLTSÉGVETÉSI BEVÉTELEK alpont, B4. MŰKÖDÉSI BEVÉTELEK alpont B410. Egyéb működési bevételek alpontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontjával megállapított szöveg.
-[^502]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, B1-7. KÖLTSÉGVETÉSI BEVÉTELEK alpont, B4. MŰKÖDÉSI BEVÉTELEK alpont B411. Egyéb működési bevételek alpontját a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontja iktatta be, szövege a 402/2015. (XII. 15.) Korm. rendelet 22. § 50. pontja szerint módosított szöveg.
-[^503]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, B1-7. KÖLTSÉGVETÉSI BEVÉTELEK alpont, B4. MŰKÖDÉSI BEVÉTELEK alpont B411. Egyéb működési bevételek alpont h) alpontja a a 402/2015. (XII. 15.) Korm. rendelet 23. § (1) bekezdése 10. pontja szerint módosított szöveg.
-[^504]: A 15. melléklet B411. pont k) alpontja a 282/2019. (XI. 27.) Korm. rendelet 22. § (2) bekezdés 4. pontja szerint módosított szöveg.
-[^505]: A 15. melléklet a B54. pontja a 678/2020. (XII. 28.) Korm rendelet 9. § (2) bekezdés 5. pontja szerint módosított szöveg.
-[^506]: A 15. melléklet I. Egységes rovatrend a költségvetési és finanszírozási bevételekhez, kiadásokhoz pont, K1–8. Költségvetési kiadások alpont, K1. Személyi juttatások pont, K11. Foglalkoztatottak személyi juttatásai alpont, K1101. Törvény szerinti illetmények, munkabérek pont b) alpontja a 678/2020. (XII. 28.) Korm rendelet 9. § (2) bekezdés 6. pontja szerint módosított szöveg.
-[^507]: A 15. melléklet B54. pont b) alpontját a 678/2020. (XII. 28.) Korm. rendelet 9. § (2) bekezdés 6. pontja iktatta be.
-[^508]: A 15. melléklet a B55. pontja a 678/2020. (XII. 28.) Korm rendelet 9. § (2) bekezdés 6. pontjával megállapított szöveg.
-[^509]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, B1-7. KÖLTSÉGVETÉSI BEVÉTELEK alpont B6. MŰKÖDÉSI CÉLÚ ÁTVETT PÉNZESZKÖZÖK alpontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontjával megállapított szöveg.
-[^510]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, B1-7. KÖLTSÉGVETÉSI BEVÉTELEK alpont B7. FELHALMOZÁSI CÉLÚ ÁTVETT PÉNZESZKÖZÖK alpontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontjával megállapított szöveg.
-[^511]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, B8. FINANSZÍROZÁSI BEVÉTELEK alpont, B81. Belföldi finanszírozás bevételei alpont B811. Hitel-, kölcsönfelvétel államháztartáson kívülről alpontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontjával megállapított szöveg.
-[^512]: A 15. melléklet B8113. pont b) alpontja a 678/2020. (XII. 28.) Korm. rendelet 9. § (2) bekezdés 5. pontja szerint módosított szöveg.
-[^513]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, B8. FINANSZÍROZÁSI BEVÉTELEK alpont, B81. Belföldi finanszírozás bevételei alpont B812. Belföldi értékpapírok bevételei alpontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontjával megállapított szöveg.
-[^514]: A 15. melléklet a B8121. pont a) alpontja a 678/2020. (XII. 28.) Korm rendelet 9. § (2) bekezdés 6. pontjával megállapított szöveg.
-[^515]: A 15. melléklet B8121. pont b) alpontját a 678/2020. (XII. 28.) Korm. rendelet 11. § (2) bekezdés 5. pontja hatályon kívül helyezte.
-[^516]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, B8. FINANSZÍROZÁSI BEVÉTELEK, B81. Belföldi finanszírozás bevételei, B814. Államháztartáson belüli megelőlegezések rész a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 5. pontjával megállapított szöveg.
-[^517]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, B8. FINANSZÍROZÁSI BEVÉTELEK, B81. Belföldi finanszírozás bevételei, B815. Államháztartáson belüli megelőlegezések törlesztése rész a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 5. pontjával megállapított szöveg.
-[^518]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, B8. FINANSZÍROZÁSI BEVÉTELEK alpont, B81. Belföldi finanszírozás bevételei alpont B816. Központi, irányító szervi támogatás alpontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontjával megállapított szöveg.
-[^519]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, B8. FINANSZÍROZÁSI BEVÉTELEK alpont, B81. Belföldi finanszírozás bevételei alpont B817. Betétek megszüntetése alpontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontjával megállapított szöveg.
-[^520]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, B8. FINANSZÍROZÁSI BEVÉTELEK alpont, B81. Belföldi finanszírozás bevételei alpont B818. Központi költségvetés sajátos finanszírozási bevételei alpontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontjával megállapított szöveg.
-[^521]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, B8. FINANSZÍROZÁSI BEVÉTELEK alpont B81. Belföldi finanszírozás bevételei alpont B819. Tulajdonosi kölcsönök bevételei alpontját a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontja iktatta be.
-[^522]: A 15. melléklet B8191. pontja az 560/2023. (XII. 14.) Korm. rendelet 16. § 3. pontjával megállapított szöveg.
-[^523]: A 15. melléklet B8192. pontja az 560/2023. (XII. 14.) Korm. rendelet 16. § 3. pontjával megállapított szöveg.
-[^524]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, B8. FINANSZÍROZÁSI BEVÉTELEK alpont, B82. Külföldi finanszírozás bevételei alpont B822. Befektetési célú külföldi értékpapírok beváltása értékesítése alpontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontjával megállapított szöveg.
-[^525]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, B8. FINANSZÍROZÁSI BEVÉTELEK alpont, B82. Külföldi finanszírozás bevételei alpont B824. Külföldi hitelek, kölcsönök felvétele alpontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontjával megállapított szöveg.
-[^526]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, B8. FINANSZÍROZÁSI BEVÉTELEK alpont B82. Külföldi finanszírozás bevételei alpont B825. Hitelek, kölcsönök felvétele külföldi pénzintézetektől alpontját a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontja iktatta be.
-[^527]: A 15. melléklet I. alcím B8. alpont B83. pont a) alpontja a 351/2016. (XI. 18.) Korm. rendelet 10. § (1) bekezdés 5. pontjával megállapított szöveg.
-[^528]: A 15. melléklet I. alcím B8. alpont B83. pont b) alpontját a 351/2016. (XI. 18.) Korm. rendelet 12. § (1) bekezdés 11. pontja hatályon kívül helyezte.
-[^529]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont B8. FINANSZÍROZÁSI BEVÉTELEK alpont B84. Váltóbevételek alpontját a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontja iktatta be, szövege a 402/2015. (XII. 15.) Korm. rendelet 22. § 51. pontja szerint módosított szöveg.
-[^530]: A 15. melléklet II. pont 1. alpont c) pontja a 678/2020. (XII. 28.) Korm. rendelet 9. § (2) bekezdés 6. pontja szerint módosított szöveg.
-[^531]: A 15. melléklet II. KÖTELEZŐ MEGBONTÁS rész 2. pontja a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 5. pontjával megállapított szöveg.
-[^532]: A 16. melléklet a 307/2013. (VIII. 14.) Korm. rendelet – 497/2013. (XII. 29.) Korm. rendelet 115. § 11. pontja szerint módosított – 39. § (1) bekezdés f) pontja, a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 6. pontja, a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 6. pontja, a 397/2014. (XII. 31.) Korm. rendelet 49. § 3. pontja, a 20/2015. (II. 17.) Korm. rendelet 22. §-a, a 402/2015. (XII. 15.) Korm. rendelet 21. § (1) bekezdés 7. pontja, a 22. § 52. pontja, a 23. § (1) bekezdés 11. pontja és a (2) bekezdés 13–15. pontja, a 351/2016. (XI. 18.) Korm. rendelet 10. § (1) bekezdés 6. pontja, 11. § 21. pontja, 12. § (1) bekezdés 12. pontja és (2) bekezdés 4–7. pontja, a 380/2017. (XII. 11.) Korm. rendelet 6. § 15–20. pontja, 7. § (1) bekezdés 10–13. pontja, a 282/2019. (XI. 27.) Korm. rendelet 22. § (2) bekezdés 6. pontja, a 678/2020. (XII. 28.) Korm. rendelet 9. § (2) bekezdés 7. és 8. pontja, a 482/2021. (VIII. 13.) Korm. rendelet 15. § (2) bekezdés 3. pontja, 17. § (1) bekezdés 2. pontja, a 480/2022. (XI. 28.) Korm. rendelet 18. § (2) bekezdés 7. pontja és 20. § (1) bekezdés 3. pontja szerint módosított szöveg.
+[^367]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K1-8. KÖLTSÉGVETÉSI KIADÁSOK alpont, K1. SZEMÉLYI JUTTATÁSOK alpont, K11. Foglalkoztatottak személyi juttatásai alpont K1101. Törvény szerinti illetmények, munkabérek alpontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (3) bekezdés 3. pontjával megállapított szöveg.
+[^368]: A 15. melléklet K1101. pont a) alpontja az 560/2023. (XII. 14.) Korm. rendelet 16. § 3. pontjával megállapított, a 176/2024. (VII. 7.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^369]: A 15. melléklet I. Egységes rovatrend a költségvetési és finanszírozási bevételekhez, kiadásokhoz pont, K1–8. Költségvetési kiadások alpont, K1. Személyi juttatások pont, K11. Foglalkoztatottak személyi juttatásai alpont, K1101. Törvény szerinti illetmények, munkabérek pont b) alpontja a 47/2019. (III. 12.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^370]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, K1-8. KÖLTSÉGVETÉSI KIADÁSOK, K1. SZEMÉLYI JUTTATÁSOK, K11. Foglalkoztatottak személyi juttatásai, K1102. Normatív jutalmak rész a 307/2013. (VIII. 14.) Korm. rendelet 39. § (1) bekezdés e) pontjával megállapított szöveg.
+[^371]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, K1-8. KÖLTSÉGVETÉSI KIADÁSOK, K1. SZEMÉLYI JUTTATÁSOK, K11. Foglalkoztatottak személyi juttatásai, K1103. Céljuttatás, projektprémium rész a 307/2013. (VIII. 14.) Korm. rendelet 39. § (1) bekezdés e) pontjával megállapított szöveg.
+[^372]: [A 671/2020. (XII. 28.) Korm. rendelet 27. § b) pontjában foglalt módosítás, mely szerint a 15. melléklet K1-8 Költségvetési kiadások cím K1. Személyi juttatások alcím K1104. pontjában a „túlszolgálatért” szövegrész helyébe a „túlszolgálatért, a Nemzeti Adó- és Vámhivatal adó- és vámhatósági szolgálati jogviszonyban álló foglalkoztatottját a túlmunkáért” szöveg lép, nem vezethető át.]
+[^373]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, K1-8. KÖLTSÉGVETÉSI KIADÁSOK, K1. SZEMÉLYI JUTTATÁSOK, K11. Foglalkoztatottak személyi juttatásai, K1104 .Készenléti, ügyeleti, helyettesítési díj, túlóra, túlszolgálat rész a 307/2013. (VIII. 14.) Korm. rendelet 39. § (1) bekezdés e) pontjával megállapított szöveg.
+[^374]: A 15. melléklet K1104. pont d) alpontja a 480/2022. (XI. 28.) Korm. rendelet 18. § (2) bekezdés 5. pontjával megállapított szöveg.
+[^375]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, K1-8. KÖLTSÉGVETÉSI KIADÁSOK, K1. SZEMÉLYI JUTTATÁSOK, K11. Foglalkoztatottak személyi juttatásai, K1105. Végkielégítés rész a 307/2013. (VIII. 14.) Korm. rendelet 39. § (1) bekezdés e) pontjával megállapított szöveg.
+[^376]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, K1-8. KÖLTSÉGVETÉSI KIADÁSOK, K1. SZEMÉLYI JUTTATÁSOK, K11. Foglalkoztatottak személyi juttatásai, K1106. Jubileumi jutalom rész a 307/2013. (VIII. 14.) Korm. rendelet 39. § (1) bekezdés e) pontjával megállapított szöveg.
+[^377]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K1-8. KÖLTSÉGVETÉSI KIADÁSOK alpont, K1. SZEMÉLYI JUTTATÁSOK pont, K11. Foglalkoztatottak személyi juttatásai alpont K1107. Béren kívüli juttatások pontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontjával megállapított, a 203/2018. (XI. 5.) Korm. rendelet 3. § (3) bekezdés 4. pontja szerint módosított szöveg.
+[^378]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, K1-8. KÖLTSÉGVETÉSI KIADÁSOK, K1. SZEMÉLYI JUTTATÁSOK, K11. Foglalkoztatottak személyi juttatásai, K1108. Ruházati költségtérítés rész a 307/2013. (VIII. 14.) Korm. rendelet 39. § (1) bekezdés e) pontjával megállapított szöveg.
+[^379]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, K1-8. KÖLTSÉGVETÉSI KIADÁSOK, K1. SZEMÉLYI JUTTATÁSOK, K11. Foglalkoztatottak személyi juttatásai, K1109. Közlekedési költségtérítés rész a 307/2013. (VIII. 14.) Korm. rendelet 39. § (1) bekezdés e) pontjával megállapított szöveg.
+[^380]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, K1-8. KÖLTSÉGVETÉSI KIADÁSOK, K1. SZEMÉLYI JUTTATÁSOK, K11. Foglalkoztatottak személyi juttatásai, K1110. Egyéb költségtérítések rész a 307/2013. (VIII. 14.) Korm. rendelet 39. § (1) bekezdés e) pontjával megállapított szöveg.
+[^381]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, K1-8. KÖLTSÉGVETÉSI KIADÁSOK, K1. SZEMÉLYI JUTTATÁSOK, K11. Foglalkoztatottak személyi juttatásai, K1111. Lakhatási támogatások rész a 307/2013. (VIII. 14.) Korm. rendelet 39. § (1) bekezdés e) pontjával megállapított szöveg.
+[^382]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, K1-8. KÖLTSÉGVETÉSI KIADÁSOK, K1. SZEMÉLYI JUTTATÁSOK, K11. Foglalkoztatottak személyi juttatásai, K1112. Szociális támogatások rész a 307/2013. (VIII. 14.) Korm. rendelet 39. § (1) bekezdés e) pontjával megállapított szöveg.
+[^383]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, K1-8. KÖLTSÉGVETÉSI KIADÁSOK, K1. SZEMÉLYI JUTTATÁSOK, K11. Foglalkoztatottak személyi juttatásai, K1113. Foglalkoztatottak egyéb személyi juttatásai rész a) pontja a 307/2013. (VIII. 14.) Korm. rendelet 39. § (1) bekezdés e) pontjával megállapított szöveg.
+[^384]: A 15. melléklet K121. pont a 480/2022. (XI. 28.) Korm. rendelet 18. § (2) bekezdés 6. pontjával megállapított szöveg.
+[^385]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, K1-8. KÖLTSÉGVETÉSI KIADÁSOK, K1. SZEMÉLYI JUTTATÁSOK, K12. Külső személyi juttatások, K123. Egyéb külső személyi juttatások rész b) pontja a 307/2013. (VIII. 14.) Korm. rendelet 39. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^386]: A 15. melléklet K123. pont d) alpontja a 282/2019. (XI. 27.) Korm. rendelet 22. § (2) bekezdés 4. pontja szerint módosított szöveg.
+[^387]: A 15. melléklet I. pont K123. alpont e) pontja a 480/2022. (XI. 28.) Korm. rendelet 18. § (2) bekezdés 5. pontjával megállapított, a 176/2024. (VII. 7.) Korm. rendelet 10. §-a szerint módosított szöveg.
+[^388]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K1-8. KÖLTSÉGVETÉSI KIADÁSOK alpont, K1. SZEMÉLYI JUTTATÁSOK alpont, K12. Külső személyi juttatások alpont K123. Választott tisztségviselők juttatásai alpont g) alpontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (3) bekezdés 3. pontjával megállapított szöveg.
+[^389]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, K1-8. KÖLTSÉGVETÉSI KIADÁSOK, K2. MUNKAADÓKAT TERHELŐ JÁRULÉKOK ÉS SZOCIÁLIS HOZZÁJÁRULÁSI ADÓ rész záró mondata a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 5. pontja szerint módosított szöveg.
+[^390]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K1–8. KÖLTSÉGVETÉSI KIADÁSOK alpont, K2. MUNKAADÓKAT TERHELŐ JÁRULÉKOK ÉS SZOCIÁLIS HOZZÁJÁRULÁSI ADÓ pont c) alpontját a 380/2017. (XII. 11.) Korm. rendelet 7. § (1) bekezdés 6. pontja hatályon kívül helyezte.
+[^391]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, K1-8. KÖLTSÉGVETÉSI KIADÁSOK, K3. DOLOGI KIADÁSOK, K31. Készletbeszerzés, K311. Szakmai anyagok beszerzése rész a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 5. pontjával megállapított szöveg.
+[^392]: A 15. melléklet K311. pont e) alpontja a 678/2020. (XII. 28.) Korm. rendelet 9. § (2) bekezdés 5. pontja szerint módosított szöveg.
+[^393]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, K1-8. KÖLTSÉGVETÉSI KIADÁSOK, K3. SZEMÉLYI JUTTATÁSOK, K31. Készletbeszerzés, K312. Üzemeltetési anyagok beszerzése rész f) pontja a 307/2013. (VIII. 14.) Korm. rendelet 39. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^394]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, K1-8. KÖLTSÉGVETÉSI KIADÁSOK, K3. DOLOGI KIADÁSOK, K32. Kommunikációs szolgáltatások, K321. Informatikai szolgáltatások igénybevétele rész b) pontja a 307/2013. (VIII. 14.) Korm. rendelet 39. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^395]: A 15. melléklet K321. pont d) alpontja a 380/2021. (VI. 30.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^396]: A 15. melléklet K331. pontja a 480/2022. (XI. 28.) Korm. rendelet 18. § (2) bekezdés 6. pontjával megállapított szöveg.
+[^397]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K1-8. KÖLTSÉGVETÉSI KIADÁSOK alpont, K3. DOLOGI KIADÁSOK alpont, K33. Szolgáltatási kiadások alpont K336. Szakmai tevékenységet segítő szolgáltatások alpontja a 397/2014. (XII. 31.) Korm. rendelet 49. § 2. pontjával, az 532/2022. (XII. 19.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^398]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont K1-8. KÖLTSÉGVETÉSI KIADÁSOK alpont K3. DOLOGI KIADÁSOK alpont K33. Szolgáltatási kiadások alpont K337. alpontja a 402/2015. (XII. 15.) Korm. rendelet 21. § (1) bekezdés 6. pontjával megállapított, a 282/2019. (XI. 27.) Korm. rendelet 22. § (2) bekezdés 4. pontja szerint módosított szöveg.
+[^399]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K1–8. KÖLTSÉGVETÉSI KIADÁSOK alpont, K3. DOLOGI KIADÁSOK pont, K34. Kiküldetések, reklám- és propagandakiadások alpont, K341. Kiküldetések kiadásai pont b) alpontja a 380/2017. (XII. 11.) Korm. rendelet 6. § 10. pontja szerint módosított szöveg.
+[^400]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K1-8. KÖLTSÉGVETÉSI KIADÁSOK alpont, K3. DOLOGI KIADÁSOK alpont, K35. Különféle befizetések és egyéb dologi kiadások alpont K351. Működési célú előzetesen felszámított általános forgalmi adó alpontja a 397/2014. (XII. 31.) Korm. rendelet 49. § 2. pontjával megállapított szöveg.
+[^401]: A 15. melléklet I. K353. Kamatkiadások pont b) alpontja a 284/2014. (XI. 20.) Korm. rendelet 23. § (1) bekezdés 2. pontja, a 351/2016. (XI. 18.) Korm. rendelet 11. § 16. pontja, a 678/2020. (XII. 28.) Korm. rendelet 9. § (2) bekezdés 5. pontja szerint módosított szöveg.
+[^402]: A 15. melléklet I. alcím K1–8. alpont K3 pont K35 alpont K353. pont c) alpontja a 351/2016. (XI. 18.) Korm. rendelet 10. § (1) bekezdés 5. pontjával megállapított szöveg.
+[^403]: A 15. melléklet I. alcím K1–8. pont K3. alpont K35. pont K353. alpont záró szövegrész b) pontja a 351/2016. (XI. 18.) Korm. rendelet 11. § 16. pontja szerint módosított szöveg.
+[^404]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K1-8. KÖLTSÉGVETÉSI KIADÁSOK alpont, K3. DOLOGI KIADÁSOK alpont, K35. Különféle befizetések és egyéb dologi kiadások alpont, K355. Egyéb dologi kiadások alpont f) alpontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (3) bekezdés 3. pontjával megállapított, a 351/2016. (XI. 18.) Korm. rendelet 11. § 17. pontja szerint módosított szöveg.
+[^405]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K1-8. KÖLTSÉGVETÉSI KIADÁSOK alpont, K4. ELLÁTOTTAK PÉNZBELI JUTTATÁSAI alpont K42. Családi támogatások alpontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontjával megállapított szöveg.
+[^406]: A 15. melléklet K4. cím K42. alcím c) pontja a 417/2015. (XII. 23.) Korm. rendelet 46. §-ával megállapított szöveg.
+[^407]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K1–8. KÖLTSÉGVETÉSI KIADÁSOK alpont, K4. ELLÁTOTTAK PÉNZBELI JUTTATÁSAI pont, K42. Családi támogatások alpont i) pontja a 380/2017. (XII. 11.) Korm. rendelet 6. § 11. pontja szerint módosított szöveg.
+[^408]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont K1-8. KÖLTSÉGVETÉSI KIADÁSOK alpont K4. ELLÁTOTTAK PÉNZBELI JUTTATÁSAI alpont K42. Családi támogatások alpont j) alpontját a 402/2015. (XII. 15.) Korm. rendelet 23. § (2) bekezdés 9. pontja hatályon kívül helyezte.
+[^409]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, K1-8. KÖLTSÉGVETÉSI KIADÁSOK, K4. ELLÁTOTTAK PÉNZBELI JUTTATÁSAI, K43. Pénzbeli kárpótlások, kártérítések rész a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 5. pontjával megállapított szöveg.
+[^410]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K1-8. KÖLTSÉGVETÉSI KIADÁSOK alpont, K4. ELLÁTOTTAK PÉNZBELI JUTTATÁSAI alpont K44. Betegséggel kapcsolatos (nem társadalombiztosítási) ellátások alpontja a 397/2014. (XII. 31.) Korm. rendelet 49. § 2. pontjával megállapított szöveg.
+[^411]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K1-8. KÖLTSÉGVETÉSI KIADÁSOK alpont, K4. ELLÁTOTTAK PÉNZBELI JUTTATÁSAI alpont K44. Betegséggel kapcsolatos (nem társadalombiztosítási) ellátások alpont a) alpontja a 70/2015. (III. 30.) Korm. rendelet 217. § (2) bekezdése, a 402/2015. (XII. 15.) Korm. rendelet 22. § 45. pontja szerint módosított szöveg.
+[^412]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont K1-8. KÖLTSÉGVETÉSI KIADÁSOK alpont K4. ELLÁTOTTAK PÉNZBELI JUTTATÁSAI alpont K44. alpont c) alpontját a 402/2015. (XII. 15.) Korm. rendelet 23. § (2) bekezdés 10. pontja hatályon kívül helyezte, újonnan a 380/2017. (XII. 11.) Korm. rendelet 5. § 5. pontja iktatta be.
+[^413]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K1-8. KÖLTSÉGVETÉSI KIADÁSOK alpont, K4. ELLÁTOTTAK PÉNZBELI JUTTATÁSAI alpont K44. Betegséggel kapcsolatos (nem társadalombiztosítási) ellátások alpont f) alpontja a 70/2015. (III. 30.) Korm. rendelet 217. § (2) bekezdése, a 402/2015. (XII. 15.) Korm. rendelet 23. § (1) bekezdés 6. pontja szerint módosított szöveg.
+[^414]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont K1-8. KÖLTSÉGVETÉSI KIADÁSOK alpont K4. ELLÁTOTTAK PÉNZBELI JUTTATÁSAI pont K44. Betegséggel kapcsolatos (nem társadalombiztosítási) ellátások alpont h) pontját a 402/2015. (XII. 15.) Korm. rendelet 23. § (2) bekezdés 10. pontja hatályon kívül helyezte, újonnan a 203/2018. (XI. 5.) Korm. rendelet 3. § (3) bekezdés 4. pontja iktatta be, szövege a 282/2019. (XI. 27.) Korm. rendelet 24. § (2) bekezdése szerint módosított szöveg.
+[^415]: A 15. melléklet K44. pont i) alpontja a 282/2019. (XI. 27.) Korm. rendelet 22. § (2) bekezdés 5. pontja szerint módosított szöveg.
+[^416]: A 15. melléklet K44. pont j) alpontját a 282/2019. (XI. 27.) Korm. rendelet 22. § (2) bekezdés 5. pontja iktatta be.
+[^417]: A 15. melléklet K45. pont a) alpontja a 480/2022. (XI. 28.) Korm. rendelet 18. § (2) bekezdés 6. pontjával megállapított szöveg.
+[^418]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K1-8. KÖLTSÉGVETÉSI KIADÁSOK alpont, K4. ELLÁTOTTAK PÉNZBELI JUTTATÁSAI pont, K45. Foglalkoztatással, munkanélküliséggel kapcsolatos ellátások alpont c) pontját a 380/2017. (XII. 11.) Korm. rendelet 7. § (1) bekezdés 8. pontja hatályon kívül helyezte.
+[^419]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K1–8. KÖLTSÉGVETÉSI KIADÁSOK alpont, K4. ELLÁTOTTAK PÉNZBELI JUTTATÁSAI pont, K46. Lakhatással kapcsolatos ellátások alpont c)–d) pontját a 380/2017. (XII. 11.) Korm. rendelet 7. § (1) bekezdés 7. pontja hatályon kívül helyezte.
+[^420]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont K1-8. KÖLTSÉGVETÉSI KIADÁSOK alpont K4. ELLÁTOTTAK PÉNZBELI JUTTATÁSAI alpont K46. alpont e–f) alpontját a 402/2015. (XII. 15.) Korm. rendelet 23. § (2) bekezdés 11. pontja hatályon kívül helyezte.
+[^421]: A 15. melléklet K47. pont b) alpontja a 380/2021. (VI. 30.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^422]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont K1-8. KÖLTSÉGVETÉSI KIADÁSOK alpont K4. ELLÁTOTTAK PÉNZBELI JUTTATÁSAI alpont K48. alpontja a 402/2015. (XII. 15.) Korm. rendelet 21. § (1) bekezdés 6. pontjával megállapított szöveg.
+[^423]: A 15. melléklet K48. pont d) alpontja a 678/2020. (XII. 28.) Korm. rendelet 9. § (2) bekezdés 5. pontjával megállapított szöveg.
+[^424]: A 15. melléklet K48. pont f) alpontja a 282/2019. (XI. 27.) Korm. rendelet 22. § (2) bekezdés 4. pontja szerint módosított szöveg.
+[^425]: A 15. melléklet K4. Ellátottak pénzbeli juttatásai pont K48. h) alpontja a 449/2016. (XII. 19.) Korm. rendelet 24. §-a, a 380/2017. (XII. 11.) Korm. rendelet 6. § 12. pontja, a 282/2019. (XI. 27.) Korm. rendelet 22. § (2) bekezdés 4. pontja szerint módosított szöveg.
+[^426]: A 15. melléklet I. alcím K1–8. pont l) alpontja a 126/2019. (V. 30.) Korm. rendelet 20. §-a szerint módosított szöveg.
+[^427]: A 15. melléklet I. alcím K1-8. alpont K5. pont K501. alpontja a 351/2016. (XI. 18.) Korm. rendelet 10. § (1) bekezdés 4. pontjával megállapított szöveg.
+[^428]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K1–8. KÖLTSÉGVETÉSI KIADÁSOK alpont, K5. EGYÉB MŰKÖDÉSI CÉLÚ KIADÁSOK pont, K501. Nemzetközi kötelezettségek alpont b) pontja a 380/2017. (XII. 11.) Korm. rendelet 6. § 13. pontja szerint módosított szöveg.
+[^429]: A 15. melléklet I. alcím K1-8. alpont K5. pont K502. alpont megjelölést a 351/2016. (XI. 18.) Korm. rendelet 10. § (1) bekezdés 4. pontja iktatta be.
+[^430]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K1-8. KÖLTSÉGVETÉSI KIADÁSOK alpont, K5. EGYÉB MŰKÖDÉSI CÉLÚ KIADÁSOK alpont K502 Elvonások és befizetések alpontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontjával megállapított szöveg.
+[^431]: A 15. melléklet I. alcím K1–8. alpont K5 pont K502. alpont K522. pont a 351/2016. (XI. 18.) Korm. rendelet 10. § (1) bekezdés 5. pontjával megállapított szöveg.
+[^432]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K1–8. KÖLTSÉGVETÉSI KIADÁSOK alpont, K5. EGYÉB MŰKÖDÉSI CÉLÚ KIADÁSOK pont, K502. Elvonások és befizetések alpont, K5023. Egyéb elvonások, befizetések pont b) alpontja a 380/2017. (XII. 11.) Korm. rendelet 5. § (2) bekezdés 4. pontjával megállapított szöveg.
+[^433]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K1–8. KÖLTSÉGVETÉSI KIADÁSOK alpont, K5. EGYÉB MŰKÖDÉSI CÉLÚ KIADÁSOK pont, K502. Elvonások és befizetések alpont, K5023. Egyéb elvonások, befizetések pont c) alpontja a 380/2017. (XII. 11.) Korm. rendelet 5. § (2) bekezdés 4. pontjával megállapított szöveg.
+[^434]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K1–8. KÖLTSÉGVETÉSI KIADÁSOK alpont, K5. EGYÉB MŰKÖDÉSI CÉLÚ KIADÁSOK pont, K502. Elvonások és befizetések alpont, K5023. Egyéb elvonások, befizetések pont d) alpontját a 380/2017. (XII. 11.) Korm. rendelet 5. § (2) bekezdés 4. pontja iktatta be.
+[^435]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K1-8. KÖLTSÉGVETÉSI KIADÁSOK alpont, K5. EGYÉB MŰKÖDÉSI CÉLÚ KIADÁSOK alpont K508. Működési célú visszatérítendő támogatások, kölcsönök nyújtása államháztartáson kívülre alpontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontjával megállapított szöveg.
+[^436]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K1-8. KÖLTSÉGVETÉSI KIADÁSOK alpont, K5. EGYÉB MŰKÖDÉSI CÉLÚ KIADÁSOK alpont K511. Egyéb működési célú támogatások államháztartáson kívülre alpontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontjával megállapított szöveg.
+[^437]: A 15. melléklet I. alcím K1-8. alpont K5. pont K511. alpont b) pontja a 351/2016. (XI. 18.) Korm. rendelet 10. § (1) bekezdés 4. pontjával megállapított szöveg.
+[^438]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K1-8. KÖLTSÉGVETÉSI KIADÁSOK alpont, K5. EGYÉB MŰKÖDÉSI CÉLÚ KIADÁSOK alpont K512. Tartalékok alpontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontjával megállapított, a 402/2015. (XII. 15.) Korm. rendelet 23. § (1) bekezdés 7. pontja szerint módosított szöveg.
+[^439]: A 15. melléklet K512. pont a) alpontja a 282/2019. (XI. 27.) Korm. rendelet 22. § (2) bekezdés 4. pontja szerint módosított szöveg.
+[^440]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K1-8. KÖLTSÉGVETÉSI KIADÁSOK alpont K5. EGYÉB MŰKÖDÉSI CÉLÚ KIADÁSOK alpont K513. Tartalékok alpontját a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontja iktatta be.
+[^441]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, K1-8. KÖLTSÉGVETÉSI KIADÁSOK, K6. BERUHÁZÁSOK, K61. Immateriális javak beszerzése, létesítése rész a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 5. pontjával megállapított szöveg.
+[^442]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, K1-8. KÖLTSÉGVETÉSI KIADÁSOK, K6. BERUHÁZÁSOK, K62. Ingatlanok beszerzése, létesítése rész a 307/2013. (VIII. 14.) Korm. rendelet 39. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^443]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, K1-8. KÖLTSÉGVETÉSI KIADÁSOK, K6. BERUHÁZÁSOK, K63. Informatikai eszközök beszerzése, létesítése rész a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 5. pontjával megállapított szöveg.
+[^444]: A 15. melléklet K65. pontja a 678/2020. (XII. 28.) Korm. rendelet 9. § (2) bekezdés 6. pontjával megállapított szöveg.
+[^445]: A 15. melléklet K66. pontja a 678/2020. (XII. 28.) Korm. rendelet 9. § (2) bekezdés 6. pontjával megállapított szöveg.
+[^446]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K1-8. KÖLTSÉGVETÉSI KIADÁSOK alpont, K8. EGYÉB FELHALMOZÁSI CÉLÚ KIADÁSOK alpont K86. Felhalmozási célú visszatérítendő támogatások, kölcsönök nyújtása államháztartáson kívülre alpontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontjával megállapított szöveg.
+[^447]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K1-8. KÖLTSÉGVETÉSI KIADÁSOK alpont, K8. EGYÉB FELHALMOZÁSI CÉLÚ KIADÁSOK alpont K88. Egyéb felhalmozási célú támogatások államháztartáson kívülre alpontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontjával megállapított szöveg.
+[^448]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K1-8. KÖLTSÉGVETÉSI KIADÁSOK alpont, K8. EGYÉB FELHALMOZÁSI CÉLÚ KIADÁSOK alpont K89. Egyéb felhalmozási célú támogatások államháztartáson kívülre alpontot a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontja iktatta be.
+[^449]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K1-8. KÖLTSÉGVETÉSI KIADÁSOK alpont, K8. EGYÉB FELHALMOZÁSI CÉLÚ KIADÁSOK alpont K89. alpont b) alpontja a 402/2015. (XII. 15.) Korm. rendelet 22. § 47. pontja szerint módosított szöveg.
+[^450]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K9. FINANSZÍROZÁSI KIADÁSOK alpont, K91. Belföldi finanszírozás kiadásai alpont, K911. Hitel-, kölcsöntörlesztés államháztartáson kívülre alpont K9111. Hosszú lejáratú hitelek, kölcsönök törlesztése alpontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontjával megállapított szöveg.
+[^451]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K9. FINANSZÍROZÁSI KIADÁSOK alpont, K91. Belföldi finanszírozás kiadásai alpont, K911. Hitel-, kölcsöntörlesztés államháztartáson kívülre alpont,K9113. Rövid lejáratú hitelek, kölcsönök törlesztése alpontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontjával megállapított szöveg.
+[^452]: A 15. melléklet I. K9113. pont b) alpontja a 678/2020. (XII. 28.) Korm. rendelet 9. § (2) bekezdés 5. pontja szerint módosított szöveg.
+[^453]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K9. FINANSZÍROZÁSI KIADÁSOK alpont, K91. Belföldi finanszírozás kiadásai alpont K912. Belföldi értékpapírok kiadásai alpontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontjával megállapított szöveg.
+[^454]: A 15. melléklet a K9121. pontja a 678/2020. (XII. 28.) Korm rendelet 9. § (2) bekezdés 5. pontja szerint módosított szöveg.
+[^455]: A 15. melléklet K9121. pont a) alpontja a 678/2020. (XII. 28.) Korm. rendelet 9. § (2) bekezdés 6. pontjával megállapított szöveg.
+[^456]: A 15. melléklet K9121. pont b) alpontját a 678/2020. (XII. 28.) Korm. rendelet 11. § (2) bekezdés 3. pontja hatályon kívül helyezte.
+[^457]: A 15. melléklet K9124. pont b) alpontja a 678/2020. (XII. 28.) Korm. rendelet 9. § (2) bekezdés 6. pontjával megállapított szöveg.
+[^458]: A 15. melléklet K9124. pont c) alpontját a 678/2020. (XII. 28.) Korm. rendelet 11. § (2) bekezdés 4. pontja hatályon kívül helyezte.
+[^459]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, K9. FINANSZÍROZÁSI KIADÁSOK, K91. Belföldi finanszírozás kiadásai, K913. Államháztartáson belüli megelőlegezések folyósítása rész a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 5. pontjával megállapított szöveg.
+[^460]: A15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, K9. FINANSZÍROZÁSI KIADÁSOK, K91. Belföldi finanszírozás kiadásai, K914. Államháztartáson belüli megelőlegezések visszafizetése rész a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 5. pontjával megállapított szöveg.
+[^461]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K9. FINANSZÍROZÁSI KIADÁSOK alpont, K91. Belföldi finanszírozás kiadásai alpont K915. Központi, irányító szervi támogatás folyósítása alpontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontjával megállapított, a 175/2015. (VII. 7.) Korm. rendelet 40. § 2. pontja szerint módosított szöveg.
+[^462]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K9. FINANSZÍROZÁSI KIADÁSOK alpont, K91. Belföldi finanszírozás kiadásai alpont K916. Pénzeszközök betétként elhelyezése alpontja a 397/2014. (XII. 31.) Korm. rendelet 49. § 2. pontjával megállapított szöveg.
+[^463]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K9. FINANSZÍROZÁSI KIADÁSOK alpont, K91. Belföldi finanszírozás kiadásai alpont K918. Központi költségvetés sajátos finanszírozási kiadásai alpontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontjával megállapított szöveg.
+[^464]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K9. FINANSZÍROZÁSI KIADÁSOK alpont K91. Belföldi finanszírozás kiadásai alpont K919. Tulajdonosi kölcsönök kiadásai alpontát a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontja iktatta be.
+[^465]: A 15. melléklet K9191. pontja az 560/2023. (XII. 14.) Korm. rendelet 16. § 3. pontjával megállapított szöveg.
+[^466]: A 15. melléklet K9192. pontja az 560/2023. (XII. 14.) Korm. rendelet 16. § 3. pontjával megállapított szöveg.
+[^467]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K9. FINANSZÍROZÁSI KIADÁSOK alpont K92. Külföldi finanszírozás kiadásai alpontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontjával megállapított szöveg.
+[^468]: A 15. melléklet I. alcím K9. alpont K93. pont a) alpontja a 351/2016. (XI. 18.) Korm. rendelet 10. § (1) bekezdés 5. pontjával megállapított szöveg.
+[^469]: A 15. melléklet I. alcím K9. alpont K93. pont b) alpontját a 351/2016. (XI. 18.) Korm. rendelet 12. § (1) bekezdés 10. pontja hatályon kívül helyezte.
+[^470]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont K9. FINANSZÍROZÁSI KIADÁSOK alpont K94. Váltókiadások alpontját a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontja iktatta be, szövege a 402/2015. (XII. 15.) Korm. rendelet 22. § 48. pontja szerint módosított szöveg.
+[^471]: A 15. melléklet B111. pontja a 480/2022. (XI. 28.) Korm. rendelet 18. § (2) bekezdés 6. pontjával megállapított szöveg.
+[^472]: A 15. melléklet B113. pontja a 282/2019. (XI. 27.) Korm. rendelet 22. § (2) bekezdés 5. pontjával megállapított szöveg.
+[^473]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, B1-7. KÖLTSÉGVETÉSI BEVÉTELEK alpont, B1. MŰKÖDÉSI CÉLÚ TÁMOGATÁSOK ÁLLAMHÁZTARTÁSON BELÜLRŐL alpont, B11. Önkormányzatok működési támogatásai alpont B115. Működési célú központosított előirányzatok alpontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontjával megállapított, a 402/2015. (XII. 15.) Korm. rendelet 23. § (1) bekezdés 8. pontja szerint módosított szöveg.
+[^474]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, B1-7. KÖLTSÉGVETÉSI BEVÉTELEK alpont, B1. MŰKÖDÉSI CÉLÚ TÁMOGATÁSOK ÁLLAMHÁZTARTÁSON BELÜLRŐL alpont, B11. Önkormányzatok működési támogatásai alpont B116. Helyi önkormányzatok kiegészítő támogatásai alpontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontjával megállapított szöveg.
+[^475]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, B1-7. KÖLTSÉGVETÉSI BEVÉTELEK alpont, B1. MŰKÖDÉSI CÉLÚ TÁMOGATÁSOK ÁLLAMHÁZTARTÁSON BELÜLRŐL alpont, B12. Elvonások és befizetések bevételei alpont d) alpontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (3) bekezdés 3. pontjával megállapított szöveg.
+[^476]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont B1-7. KÖLTSÉGVETÉSI BEVÉTELEK alpont B2. FELHALMOZÁSI CÉLÚ TÁMOGATÁSOK ÁLLAMHÁZTARTÁSON BELÜLRŐL alpontja B21. Felhalmozási célú önkormányzati támogatások alpontja a 402/2015. (XII. 15.) Korm. rendelet 21. § (1) bekezdés 6. pontjával megállapított szöveg.
+[^477]: A 15. melléklet I. alcím B1–7. pont B2. alpont B21. pont a) alpontja a 351/2016. (XI. 18.) Korm. rendelet 11. § 19. pontja szerint módosított szöveg.
+[^478]: A 15. melléklet I. alcím B1–7. pont B2. alpont B21. pont c) alpontja a 351/2016. (XI. 18.) Korm. rendelet 11. § 20. pontja szerint módosított szöveg.
+[^479]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont BEVÉTELEK (B) B1-7. KÖLTSÉGVETÉSI BEVÉTELEK alpont B3. KÖZHATALMI BEVÉTELEK pont B31. Jövedelemadók alpont B311. Magánszemélyek jövedelemadói pont b) alpontját a 203/2018. (XI. 5.) Korm. rendelet 3. § (3) bekezdés 4. pontja hatályon kívül helyezte.
+[^480]: A 15. melléklet B312. pont c) alpontját a 282/2019. (XI. 27.) Korm. rendelet 24. § (1) bekezdés 3. pontja hatályon kívül helyezte.
+[^481]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, B1-7. KÖLTSÉGVETÉSI BEVÉTELEK, B3. KÖZHATALMI BEVÉTELEK, B32. Szociális hozzájárulási adó és járulékok rész a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 5. pontjával megállapított szöveg.
+[^482]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, B1-7. KÖLTSÉGVETÉSI BEVÉTELEK, B3. KÖZHATALMI BEVÉTELEK, B32. Szociális hozzájárulási adó és járulékok rész b) alpontja a 402/2015. (XII. 15.) Korm. rendelet 23. § (1) bekezdés 9. pontja szerint módosított szöveg.
+[^483]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, B1-7. KÖLTSÉGVETÉSI BEVÉTELEK, B3. KÖZHATALMI BEVÉTELEK, B33. Bérhez és foglalkoztatáshoz kapcsolódó adók rész a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 5. pontjával megállapított szöveg.
+[^484]: A 15. melléklet B33. pont a) alpontját a 480/2022. (XI. 28.) Korm. rendelet 20. § (1) bekezdés 1. pontja hatályon kívül helyezte.
+[^485]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, B1-7. KÖLTSÉGVETÉSI BEVÉTELEK, B3. KÖZHATALMI BEVÉTELEK, B34. Vagyoni típusú adók rész a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 5. pontjával megállapított szöveg.
+[^486]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, BEVÉTELEK alpont B1-7. KÖLTSÉGVETÉSI BEVÉTELEK pont, B3. KÖZHATALMI BEVÉTELEK alpont, B34. Vagyoni típusú adók pont b) alpontját a 380/2017. (XII. 11.) Korm. rendelet 7. § (1) bekezdés 9. pontja hatályon kívül helyezte.
+[^487]: A 15. melléklet B351. pontja a 480/2022. (XI. 28.) Korm. rendelet 18. § (2) bekezdés 6. pontjával megállapított szöveg.
+[^488]: A 15. melléklet BEVÉTELEK (B) pont, B1–7. KÖLTSÉGVETÉSI BEVÉTELEK alpont, B3. KÖZHATALMI BEVÉTELEK pont, B35. Termékek és szolgáltatások adói alpont, B352. Fogyasztási adók pont c) alpontja a 380/2017. (XII. 11.) Korm. rendelet 6. § 14. pontjával megállapított szöveg.
+[^489]: A 15. melléklet B354. pont a) alpontja a 480/2022. (XI. 28.) Korm. rendelet 18. § (2) bekezdés 6. pontjával megállapított szöveg.
+[^490]: A 15. melléklet B354. pont b) alpontját a 480/2022. (XI. 28.) Korm. rendelet 20. § (1) bekezdés 2. pontja hatályon kívül helyezte.
+[^491]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, B1-7. KÖLTSÉGVETÉSI BEVÉTELEK alpont, B3. KÖZHATALMI BEVÉTELEK alpont, B35. Termékek és szolgáltatások adói, B355. Egyéb áruhasználati és szolgáltatási adók alpontja a 397/2014. (XII. 31.) Korm. rendelet 49. § 2. pontjával megállapított szöveg.
+[^492]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont BEVÉTELEK (B) B1-7. KÖLTSÉGVETÉSI BEVÉTELEK alpont B3. KÖZHATALMI BEVÉTELEK pont B35. Termékek és szolgáltatások adói alpont B355. Egyéb áruhasználati és szolgáltatási adók pont a) alpontját a 203/2018. (XI. 5.) Korm. rendelet 3. § (3) bekezdés 4. pontja hatályon kívül helyezte.
+[^493]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont B1-7. KÖLTSÉGVETÉSI BEVÉTELEK alpont B3. KÖZHATALMI BEVÉTELEK alpont B35 Termékek és szolgáltatások adói alpont B355. Egyéb áruhasználati és szolgáltatási adók alpont n) alpontja a 402/2015. (XII. 15.) Korm. rendelet 21. § (1) bekezdés 6. pontjával megállapított szöveg.
+[^494]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, BEVÉTELEK (B) B1-7. KÖLTSÉGVETÉSI BEVÉTELEK alpont, B3. KÖZHATALMI BEVÉTELEK pont, B36. Egyéb közhatalmi bevételek alpontját a 380/2017. (XII. 11.) Korm. rendelet 5. § 5. pontja iktatta be, szövege a 203/2018. (XI. 5.) Korm. rendelet 3. § (3) bekezdés 4. pontjával megállapított szöveg.
+[^495]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, B1-7. KÖLTSÉGVETÉSI BEVÉTELEK, B4. MŰKÖDÉSI BEVÉTELEK, B401. rész a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 5. pontjával megállapított szöveg.
+[^496]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, B1-7. KÖLTSÉGVETÉSI BEVÉTELEK, B4. MŰKÖDÉSI BEVÉTELEK, B404. rész b pontja a 402/2015. (XII. 15.) Korm. rendelet 22. § 49. pontja szerint módosított szöveg.
+[^497]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont B1-7. KÖLTSÉGVETÉSI BEVÉTELEK alpont B4. MŰKÖDÉSI BEVÉTELEK alpont B408. alpontja a 402/2015. (XII. 15.) Korm. rendelet 21. § (1) bekezdés 6. pontjával megállapított szöveg.
+[^498]: A 15. melléklet B4081. pontja a 482/2021. (VIII. 13.) Korm. rendelet 15. § (2) bekezdés 2. pontjával megállapított szöveg.
+[^499]: A 15. melléklet B4082. pontja a 678/2020. (XII. 28.) Korm. rendelet 9. § (2) bekezdés 6. pontjával megállapított szöveg.
+[^500]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont B1-7. KÖLTSÉGVETÉSI BEVÉTELEK alpont B4. MŰKÖDÉSI BEVÉTELEK alpont B409. alpontja a 402/2015. (XII. 15.) Korm. rendelet 21. § (1) bekezdés 6. pontjával megállapított szöveg.
+[^501]: A 15. melléklet a B4092. pontja a 678/2020. (XII. 28.) Korm rendelet 9. § (2) bekezdés 6. pontjával megállapított szöveg.
+[^502]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, B1-7. KÖLTSÉGVETÉSI BEVÉTELEK alpont, B4. MŰKÖDÉSI BEVÉTELEK alpont B410. Egyéb működési bevételek alpontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontjával megállapított szöveg.
+[^503]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, B1-7. KÖLTSÉGVETÉSI BEVÉTELEK alpont, B4. MŰKÖDÉSI BEVÉTELEK alpont B411. Egyéb működési bevételek alpontját a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontja iktatta be, szövege a 402/2015. (XII. 15.) Korm. rendelet 22. § 50. pontja szerint módosított szöveg.
+[^504]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, B1-7. KÖLTSÉGVETÉSI BEVÉTELEK alpont, B4. MŰKÖDÉSI BEVÉTELEK alpont B411. Egyéb működési bevételek alpont h) alpontja a a 402/2015. (XII. 15.) Korm. rendelet 23. § (1) bekezdése 10. pontja szerint módosított szöveg.
+[^505]: A 15. melléklet B411. pont k) alpontja a 282/2019. (XI. 27.) Korm. rendelet 22. § (2) bekezdés 4. pontja szerint módosított szöveg.
+[^506]: A 15. melléklet a B54. pontja a 678/2020. (XII. 28.) Korm rendelet 9. § (2) bekezdés 5. pontja szerint módosított szöveg.
+[^507]: A 15. melléklet I. Egységes rovatrend a költségvetési és finanszírozási bevételekhez, kiadásokhoz pont, K1–8. Költségvetési kiadások alpont, K1. Személyi juttatások pont, K11. Foglalkoztatottak személyi juttatásai alpont, K1101. Törvény szerinti illetmények, munkabérek pont b) alpontja a 678/2020. (XII. 28.) Korm rendelet 9. § (2) bekezdés 6. pontja szerint módosított szöveg.
+[^508]: A 15. melléklet B54. pont b) alpontját a 678/2020. (XII. 28.) Korm. rendelet 9. § (2) bekezdés 6. pontja iktatta be.
+[^509]: A 15. melléklet a B55. pontja a 678/2020. (XII. 28.) Korm rendelet 9. § (2) bekezdés 6. pontjával megállapított szöveg.
+[^510]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, B1-7. KÖLTSÉGVETÉSI BEVÉTELEK alpont B6. MŰKÖDÉSI CÉLÚ ÁTVETT PÉNZESZKÖZÖK alpontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontjával megállapított szöveg.
+[^511]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, B1-7. KÖLTSÉGVETÉSI BEVÉTELEK alpont B7. FELHALMOZÁSI CÉLÚ ÁTVETT PÉNZESZKÖZÖK alpontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontjával megállapított szöveg.
+[^512]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, B8. FINANSZÍROZÁSI BEVÉTELEK alpont, B81. Belföldi finanszírozás bevételei alpont B811. Hitel-, kölcsönfelvétel államháztartáson kívülről alpontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontjával megállapított szöveg.
+[^513]: A 15. melléklet B8113. pont b) alpontja a 678/2020. (XII. 28.) Korm. rendelet 9. § (2) bekezdés 5. pontja szerint módosított szöveg.
+[^514]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, B8. FINANSZÍROZÁSI BEVÉTELEK alpont, B81. Belföldi finanszírozás bevételei alpont B812. Belföldi értékpapírok bevételei alpontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontjával megállapított szöveg.
+[^515]: A 15. melléklet a B8121. pont a) alpontja a 678/2020. (XII. 28.) Korm rendelet 9. § (2) bekezdés 6. pontjával megállapított szöveg.
+[^516]: A 15. melléklet B8121. pont b) alpontját a 678/2020. (XII. 28.) Korm. rendelet 11. § (2) bekezdés 5. pontja hatályon kívül helyezte.
+[^517]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, B8. FINANSZÍROZÁSI BEVÉTELEK, B81. Belföldi finanszírozás bevételei, B814. Államháztartáson belüli megelőlegezések rész a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 5. pontjával megállapított szöveg.
+[^518]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, B8. FINANSZÍROZÁSI BEVÉTELEK, B81. Belföldi finanszírozás bevételei, B815. Államháztartáson belüli megelőlegezések törlesztése rész a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 5. pontjával megállapított szöveg.
+[^519]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, B8. FINANSZÍROZÁSI BEVÉTELEK alpont, B81. Belföldi finanszírozás bevételei alpont B816. Központi, irányító szervi támogatás alpontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontjával megállapított szöveg.
+[^520]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, B8. FINANSZÍROZÁSI BEVÉTELEK alpont, B81. Belföldi finanszírozás bevételei alpont B817. Betétek megszüntetése alpontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontjával megállapított szöveg.
+[^521]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, B8. FINANSZÍROZÁSI BEVÉTELEK alpont, B81. Belföldi finanszírozás bevételei alpont B818. Központi költségvetés sajátos finanszírozási bevételei alpontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontjával megállapított szöveg.
+[^522]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, B8. FINANSZÍROZÁSI BEVÉTELEK alpont B81. Belföldi finanszírozás bevételei alpont B819. Tulajdonosi kölcsönök bevételei alpontját a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontja iktatta be.
+[^523]: A 15. melléklet B8191. pontja az 560/2023. (XII. 14.) Korm. rendelet 16. § 3. pontjával megállapított szöveg.
+[^524]: A 15. melléklet B8192. pontja az 560/2023. (XII. 14.) Korm. rendelet 16. § 3. pontjával megállapított szöveg.
+[^525]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, B8. FINANSZÍROZÁSI BEVÉTELEK alpont, B82. Külföldi finanszírozás bevételei alpont B822. Befektetési célú külföldi értékpapírok beváltása értékesítése alpontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontjával megállapított szöveg.
+[^526]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, B8. FINANSZÍROZÁSI BEVÉTELEK alpont, B82. Külföldi finanszírozás bevételei alpont B824. Külföldi hitelek, kölcsönök felvétele alpontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontjával megállapított szöveg.
+[^527]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, B8. FINANSZÍROZÁSI BEVÉTELEK alpont B82. Külföldi finanszírozás bevételei alpont B825. Hitelek, kölcsönök felvétele külföldi pénzintézetektől alpontját a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontja iktatta be.
+[^528]: A 15. melléklet I. alcím B8. alpont B83. pont a) alpontja a 351/2016. (XI. 18.) Korm. rendelet 10. § (1) bekezdés 5. pontjával megállapított szöveg.
+[^529]: A 15. melléklet I. alcím B8. alpont B83. pont b) alpontját a 351/2016. (XI. 18.) Korm. rendelet 12. § (1) bekezdés 11. pontja hatályon kívül helyezte.
+[^530]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont B8. FINANSZÍROZÁSI BEVÉTELEK alpont B84. Váltóbevételek alpontját a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 5. pontja iktatta be, szövege a 402/2015. (XII. 15.) Korm. rendelet 22. § 51. pontja szerint módosított szöveg.
+[^531]: A 15. melléklet II. pont 1. alpont c) pontja a 678/2020. (XII. 28.) Korm. rendelet 9. § (2) bekezdés 6. pontja szerint módosított szöveg.
+[^532]: A 15. melléklet II. KÖTELEZŐ MEGBONTÁS rész 2. pontja a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 5. pontjával megállapított szöveg.
+[^533]: A 16. melléklet a 307/2013. (VIII. 14.) Korm. rendelet – 497/2013. (XII. 29.) Korm. rendelet 115. § 11. pontja szerint módosított – 39. § (1) bekezdés f) pontja, a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 6. pontja, a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 6. pontja, a 397/2014. (XII. 31.) Korm. rendelet 49. § 3. pontja, a 20/2015. (II. 17.) Korm. rendelet 22. §-a, a 402/2015. (XII. 15.) Korm. rendelet 21. § (1) bekezdés 7. pontja, a 22. § 52. pontja, a 23. § (1) bekezdés 11. pontja és a (2) bekezdés 13–15. pontja, a 351/2016. (XI. 18.) Korm. rendelet 10. § (1) bekezdés 6. pontja, 11. § 21. pontja, 12. § (1) bekezdés 12. pontja és (2) bekezdés 4–7. pontja, a 380/2017. (XII. 11.) Korm. rendelet 6. § 15–20. pontja, 7. § (1) bekezdés 10–13. pontja, a 282/2019. (XI. 27.) Korm. rendelet 22. § (2) bekezdés 6. pontja, a 678/2020. (XII. 28.) Korm. rendelet 9. § (2) bekezdés 7. és 8. pontja, a 482/2021. (VIII. 13.) Korm. rendelet 15. § (2) bekezdés 3. pontja, 17. § (1) bekezdés 2. pontja, a 480/2022. (XI. 28.) Korm. rendelet 18. § (2) bekezdés 7. pontja és 20. § (1) bekezdés 3. pontja szerint módosított szöveg.
