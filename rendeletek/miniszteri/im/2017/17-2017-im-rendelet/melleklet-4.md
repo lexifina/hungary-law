@@ -1,6 +1,6 @@
 4. melléklet a 17/2017. (XII. 15.) IM rendelethez
 
-## Az OBH adatszolgáltatásának vagy az adatszolgáltatás teljesíthetetlenségéről szóló tájékoztatásának az adattartalma
+Az OBH adatszolgáltatásának vagy az adatszolgáltatás teljesíthetetlenségéről szóló tájékoztatásának az adattartalma
 
 1. Az OBH adatai
 

@@ -1,6 +1,6 @@
 2. melléklet a 17/2017. (XII. 15.) IM rendelethez
 
-## A közfeladatot ellátó szerv nyilvántartásból történő adatigényléséhez szükséges kérelem adattartalma
+A közfeladatot ellátó szerv nyilvántartásból történő adatigényléséhez szükséges kérelem adattartalma
 
 1. A közfeladatot ellátó szerv adatai
 
