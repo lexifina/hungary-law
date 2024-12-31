@@ -1,0 +1,3 @@
+2. §[^1] A MOKK rendszerét a közjegyzői kamara a digitális szolgáltatások, a digitális állampolgárság szolgáltatások és támogató szolgáltatások részletes műszaki követelményeiről szóló kormányrendeletben és az e rendeletben meghatározott informatikai biztonsági technológiai, szervezet-szervezési és módszertani követelmények teljesítésével, vagy az informatikai rendszer értékelésére jogosult szervezet által kiadott megfelelőségértékelési tanúsítvány birtokában működteti.
+
+[^1]: A 2. § a 29/2016. (XII. 27.) IM rendelet 13. §-ával megállapított, a 37/2024. (XII. 30.) IM rendelet 1. § a) pontja szerint módosított szöveg.
