@@ -28,7 +28,7 @@ a) büntető ügyszakban
 
 12. fellebbezett nyomozási bírói ügy,
 
-13.[^68] egy éven túli távoltartás, bűnügyi felügyelet vagy letartóztatás miatt felterjesztett ügy,
+13.[^69] egy éven túli távoltartás, bűnügyi felügyelet vagy letartóztatás miatt felterjesztett ügy,
 
 14. bírósági mentesítés iránti ügy,
 
@@ -44,13 +44,13 @@ a) büntető ügyszakban
 
 20. egyéb (vegyes) ügy,
 
-21.[^69] harmadfokú büntetőügy,
+21.[^70] harmadfokú büntetőügy,
 
-22.[^70] fiatalkorú harmadfokú büntetőügye,
+22.[^71] fiatalkorú harmadfokú büntetőügye,
 
-23.[^71] felterjesztett kifogás az eljárás elhúzódása miatt;
+23.[^72] felterjesztett kifogás az eljárás elhúzódása miatt;
 
-b)[^72] szabálysértési ügyek
+b)[^73] szabálysértési ügyek
 
 1. szabálysértési hatóság határozata ellen benyújtott kifogás (panasz),
 
@@ -72,7 +72,7 @@ b)[^72] szabálysértési ügyek
 
 10. bíróság kijelölése szabálysértési ügyben;
 
-c)[^73] polgári ügyszakban
+c)[^74] polgári ügyszakban
 
 1. első fokú polgári peres ügy,
 
@@ -106,11 +106,11 @@ d) munkaügyi ügyekben
 
 6. felülvizsgálati ügy,
 
-7.[^74] egyéb (vegyes) ügy,
+7.[^75] egyéb (vegyes) ügy,
 
-8.[^75] felterjesztett kifogás az eljárás elhúzódása miatt;
+8.[^76] felterjesztett kifogás az eljárás elhúzódása miatt;
 
-e)[^76] közigazgatási ügyszakban
+e)[^77] közigazgatási ügyszakban
 
 1. első fokú közigazgatási peres ügy,
 
@@ -138,21 +138,21 @@ e)[^76] közigazgatási ügyszakban
 
 13. felterjesztett kifogás az eljárás elhúzódása miatt;
 
-14.[^77] az önkormányzati rendelet más jogszabályba ütközésének vizsgálatára irányuló eljárás,
+14.[^78] az önkormányzati rendelet más jogszabályba ütközésének vizsgálatára irányuló eljárás,
 
-15.[^78] a helyi önkormányzat jogalkotási kötelezettségének elmulasztása miatti eljárás;
+15.[^79] a helyi önkormányzat jogalkotási kötelezettségének elmulasztása miatti eljárás;
 
-f)[^79] valamennyi ügyszakban az alkotmányjogi panasz orvoslására irányuló eljárás, a jogegységi eljárás, valamint a jogegységi panasz eljárás.
+f)[^80] valamennyi ügyszakban az alkotmányjogi panasz orvoslására irányuló eljárás, a jogegységi eljárás, valamint a jogegységi panasz eljárás.
 
-[^68]: A 29. § a) pont 13. alpontja a 17/2018. (VI. 27.) IM rendelet 5. § 15. pontja szerint módosított szöveg.
-[^69]: A 29. § a) pontjának 21. alpontja a 18/2003. (VI. 24.) IM rendelet 75. §-ának (1) bekezdése alapján érvényét veszti és nem lép hatályba. A 29. § a) pontjának 21. alpontját újonnan a 26/2006. (V. 18.) IM rendelet 3. § (1) bekezdése iktatta be. Ez utóbbi módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^70]: A 29. § a) pontjának 22. alpontját a 26/2006. (V. 18.) IM rendelet 3. § (1) bekezdése iktatta be. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^71]: A 29. § a) pontjának 23. alpontját a 26/2006. (V. 18.) IM rendelet 3. § (1) bekezdése iktatta be. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^72]: A 29. § b) pontja az 1/2016. (II. 9.) IM rendelet 1. §-ával megállapított szöveg.
-[^73]: A 29. § c) pontja a 21/2014. (III. 13.) KIM rendelet 12. § (3) bekezdésével megállapított szöveg.
-[^74]: A 29. § d) pont 7. alpontját a 26/2006. (V. 18.) IM rendelet 3. § (4) bekezdése iktatta be, szövege a 21/2014. (III. 13.) KIM rendelet 12. § (4) bekezdésével megállapított szöveg.
-[^75]: A 29. § d) pont 8. alpontját a 21/2014. (III. 13.) KIM rendelet 12. § (4) bekezdése iktatta be.
-[^76]: A 29. § e) pontja a 20/2017. (XII. 21.) IM rendelet 8. § (10) bekezdésével megállapított szöveg.
-[^77]: A 29. § e) pont 14. alpontját a 4/2020. (IV. 24.) IM rendelet 3. § (1) bekezdése iktatta be.
-[^78]: A 29. § e) pont 15. alpontját a 4/2020. (IV. 24.) IM rendelet 3. § (1) bekezdése iktatta be.
-[^79]: A 29. § f) pontját a 21/2014. (III. 13.) KIM rendelet 12. § (6) bekezdése iktatta be, szövege a 4/2020. (IV. 24.) IM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^69]: A 29. § a) pont 13. alpontja a 17/2018. (VI. 27.) IM rendelet 5. § 15. pontja szerint módosított szöveg.
+[^70]: A 29. § a) pontjának 21. alpontja a 18/2003. (VI. 24.) IM rendelet 75. §-ának (1) bekezdése alapján érvényét veszti és nem lép hatályba. A 29. § a) pontjának 21. alpontját újonnan a 26/2006. (V. 18.) IM rendelet 3. § (1) bekezdése iktatta be. Ez utóbbi módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^71]: A 29. § a) pontjának 22. alpontját a 26/2006. (V. 18.) IM rendelet 3. § (1) bekezdése iktatta be. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^72]: A 29. § a) pontjának 23. alpontját a 26/2006. (V. 18.) IM rendelet 3. § (1) bekezdése iktatta be. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^73]: A 29. § b) pontja az 1/2016. (II. 9.) IM rendelet 1. §-ával megállapított szöveg.
+[^74]: A 29. § c) pontja a 21/2014. (III. 13.) KIM rendelet 12. § (3) bekezdésével megállapított szöveg.
+[^75]: A 29. § d) pont 7. alpontját a 26/2006. (V. 18.) IM rendelet 3. § (4) bekezdése iktatta be, szövege a 21/2014. (III. 13.) KIM rendelet 12. § (4) bekezdésével megállapított szöveg.
+[^76]: A 29. § d) pont 8. alpontját a 21/2014. (III. 13.) KIM rendelet 12. § (4) bekezdése iktatta be.
+[^77]: A 29. § e) pontja a 20/2017. (XII. 21.) IM rendelet 8. § (10) bekezdésével megállapított szöveg.
+[^78]: A 29. § e) pont 14. alpontját a 4/2020. (IV. 24.) IM rendelet 3. § (1) bekezdése iktatta be.
+[^79]: A 29. § e) pont 15. alpontját a 4/2020. (IV. 24.) IM rendelet 3. § (1) bekezdése iktatta be.
+[^80]: A 29. § f) pontját a 21/2014. (III. 13.) KIM rendelet 12. § (6) bekezdése iktatta be, szövege a 4/2020. (IV. 24.) IM rendelet 3. § (2) bekezdésével megállapított szöveg.

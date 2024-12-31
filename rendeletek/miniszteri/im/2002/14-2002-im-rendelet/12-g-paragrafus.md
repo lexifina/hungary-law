@@ -6,7 +6,7 @@
 
 (2) Az (1) bekezdés szerinti jogosultságot a beavatkozó a beavatkozást engedélyező határozat meghozatalát követően, az érdekelt a perbelépését megengedő vagy perbe állító végzés jogerőre emelkedését követően gyakorolhatja.
 
-(3) Az ÜIR használatához a kérelmező regisztrációja szükséges. A regisztráció során a kérelmező köteles magát az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 18. § (2) bekezdés a) és b) pontjainak megfelelően elektronikusan azonosítani.
+(3)[^42] Az ÜIR használatához a kérelmező regisztrációja szükséges. A regisztráció során a kérelmező köteles magát a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 34. § (2) bekezdésének megfelelően elektronikusan azonosítani.
 
 (4) Az elektronikus ügyirat elektronikus irataihoz való hozzáférés biztosítása iránt a regisztrált kérelmezőnek hozzáférési kérelmet (ezen alcímben a továbbiakban: kérelem) kell benyújtania. A kérelmet ügyenként külön-külön szükséges benyújtani.
 
@@ -40,3 +40,4 @@ b) a hozzáférési jogosultság nem állapítható meg, erről a kérelmezőnek
 
 [^40]: A 12/F. §-t a 20/2014. (XII. 23.) IM rendelet 7. § (2) bekezdése iktatta be.
 [^41]: Az „Az iratokhoz való elektronikus hozzáférés” alcímet (12/G–12/I. §) a 4/2020. (IV. 24.) IM rendelet 2. §-a iktatta be.
+[^42]: A 12/G. § (3) bekezdése a 32/2024. (XII. 30.) IM rendelet 1. § a) pontja szerint módosított szöveg.

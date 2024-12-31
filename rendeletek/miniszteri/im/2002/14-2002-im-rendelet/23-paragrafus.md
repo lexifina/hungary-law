@@ -12,6 +12,6 @@
 
 (4) Az átvevő a kézbesítő okmányon olvasható aláírásával és az átvétel dátumának feltüntetésével ismeri el az átvételt, az ,,azonnal'' és a ,,sürgős'' jelzésű küldemények átvételi idejét óra, perc pontossággal jelöli meg a kézbesítő okmányon és a borítékon is.
 
-(5)[^61] A személyesen benyújtott beadványt átvevő személy a beadvány felzetén vagy a megszövegezett elismervényen az érkezés megjelölésére szolgáló bélyegzővel igazolja az átvételt, és ha már rendelkezésre áll, rájegyzi a lajstromszámot is. Az ügyfél kívánságára szóban előterjesztett kérelem és indítvány jegyzőkönyvbe foglalásáról elismervényt kell adni, vagy átadni részére a felvett jegyzőkönyv egy hitelesítetlen másolati példányát.
+(5)[^62] A személyesen benyújtott beadványt átvevő személy a beadvány felzetén vagy a megszövegezett elismervényen az érkezés megjelölésére szolgáló bélyegzővel igazolja az átvételt, és ha már rendelkezésre áll, rájegyzi a lajstromszámot is. Az ügyfél kívánságára szóban előterjesztett kérelem és indítvány jegyzőkönyvbe foglalásáról elismervényt kell adni, vagy átadni részére a felvett jegyzőkönyv egy hitelesítetlen másolati példányát.
 
-[^61]: A 23. § (5) bekezdése a 17/2018. (VI. 27.) IM rendelet 5. § 14. pontja szerint módosított szöveg.
+[^62]: A 23. § (5) bekezdése a 17/2018. (VI. 27.) IM rendelet 5. § 14. pontja szerint módosított szöveg.
