@@ -2,6 +2,6 @@
 
 58. § (1) Az Országgyűlési Őrség éves költségvetésében a szociális és kegyeleti gondoskodás pénzügyi fedezetére külön keretet (a továbbiakban: szociális keret) kell képezni, amelyet elkülönítetten kell kezelni.
 
-(2)[^124] Az Országgyűlési Őrség parancsnoka az elfogadott szociális keretről tájékoztatja a szociális bizottságot.
+(2)[^126] Az Országgyűlési Őrség parancsnoka az elfogadott szociális keretről tájékoztatja a szociális bizottságot.
 
-[^124]: Az 58. § (2) bekezdése a 36/2015. (VI. 16.) BM rendelet 30. § (2) bekezdése szerint módosított szöveg.
+[^126]: Az 58. § (2) bekezdése a 36/2015. (VI. 16.) BM rendelet 30. § (2) bekezdése szerint módosított szöveg.

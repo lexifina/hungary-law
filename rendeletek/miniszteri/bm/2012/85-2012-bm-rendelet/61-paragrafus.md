@@ -24,9 +24,9 @@ b) fogyatékos gyermeket nevel,
 
 c) gyermeket egyedül nevel.
 
-(5)[^128]
+(5)[^130]
 
-(6)[^129] Szociális támogatásban csak az részesíthető, aki a szociális helyzete megítéléséhez szükséges személyes adatokat a valóságnak megfelelően rendelkezésre bocsátja és igazolja.
+(6)[^131] Szociális támogatásban csak az részesíthető, aki a szociális helyzete megítéléséhez szükséges személyes adatokat a valóságnak megfelelően rendelkezésre bocsátja és igazolja.
 
-[^128]: A 61. § (5) bekezdését a 34/2024. (VIII. 8.) BM rendelet 24. § e) pontja hatályon kívül helyezte.
-[^129]: A 61. § (6) bekezdése a 34/2024. (VIII. 8.) BM rendelet 23. § 9. pontja szerint módosított szöveg.
+[^130]: A 61. § (5) bekezdését a 34/2024. (VIII. 8.) BM rendelet 24. § e) pontja hatályon kívül helyezte.
+[^131]: A 61. § (6) bekezdése a 34/2024. (VIII. 8.) BM rendelet 23. § 9. pontja szerint módosított szöveg.
