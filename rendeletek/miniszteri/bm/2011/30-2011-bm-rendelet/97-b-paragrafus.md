@@ -1,4 +1,4 @@
-97/B. § (1)[^158] Jogszabály, az Európai Unió kötelező jogi aktusa vagy nemzetközi szerződés eltérő rendelkezésének hiányában a külföldi rendészeti feladatokat ellátó hatóság szolgálati lőfegyvereinek, lőszereinek szolgálati célból Magyarország területére történő behozatalát
+97/B. § (1)[^160] Jogszabály, az Európai Unió kötelező jogi aktusa vagy nemzetközi szerződés eltérő rendelkezésének hiányában a külföldi rendészeti feladatokat ellátó hatóság szolgálati lőfegyvereinek, lőszereinek szolgálati célból Magyarország területére történő behozatalát
 
 a) az általános rendőrségi feladatok ellátására létrehozott szerv központi szerve,
 
@@ -8,9 +8,9 @@ c) a Terrorelhárítási Központ
 
 vezetője írásban engedélyezi.
 
-(1a)[^159] Az (1) bekezdés szerinti engedélyt annak a rendőri szervnek a vezetője adja ki, amely rendőri szerv feladatellátásához a külföldi rendészeti feladatokat ellátó hatóság magyarországi tevékenysége kapcsolódik.
+(1a)[^161] Az (1) bekezdés szerinti engedélyt annak a rendőri szervnek a vezetője adja ki, amely rendőri szerv feladatellátásához a külföldi rendészeti feladatokat ellátó hatóság magyarországi tevékenysége kapcsolódik.
 
-(2)[^160] Ha az engedélyezési hatáskör az (1a) bekezdés alapján nem állapítható meg, a behozatalt az általános rendőrségi feladatok ellátására létrehozott szerv központi szervének vezetője engedélyezi.
+(2)[^162] Ha az engedélyezési hatáskör az (1a) bekezdés alapján nem állapítható meg, a behozatalt az általános rendőrségi feladatok ellátására létrehozott szerv központi szervének vezetője engedélyezi.
 
 (3) Az engedélynek tartalmaznia kell
 
@@ -32,6 +32,6 @@ b) a Magyarország területére beléptetett, illetve az onnan kiléptetett szol
 
 c) az engedélyben előírttól eltérő helyen vagy időpontban történő behozatalt vagy kivitelt.
 
-[^158]: A 97/B. § (1) bekezdése a 65/2022. (XII. 27.) BM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^159]: A 97/B. § (1a) bekezdését a 65/2022. (XII. 27.) BM rendelet 2. § (2) bekezdése iktatta be.
-[^160]: A 97/B. § (2) bekezdése a 65/2022. (XII. 27.) BM rendelet 4. § a) pontja szerint módosított szöveg.
+[^160]: A 97/B. § (1) bekezdése a 65/2022. (XII. 27.) BM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^161]: A 97/B. § (1a) bekezdését a 65/2022. (XII. 27.) BM rendelet 2. § (2) bekezdése iktatta be.
+[^162]: A 97/B. § (2) bekezdése a 65/2022. (XII. 27.) BM rendelet 4. § a) pontja szerint módosított szöveg.

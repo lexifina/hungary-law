@@ -2,7 +2,23 @@
 
 ## 21. Igazoltatás
 
-25. § (1)[^51] Az igazoltatás során a rendőr elkéri az igazoltatott személyazonosító igazolványát vagy egyéb, a személyazonosságot hitelt érdemlően igazoló okmányát. Ha az okmány valódisága vagy az igazoltatott személyazonossága kétséges, a rendőr ellenőrző kérdéseket tehet fel, felszólítja az igazoltatott személyt adatainak bemondására, a bemondott adatokat az okmánnyal összehasonlítja. Az intézkedés során minden esetben ellenőrizni kell az igazoltatott személy és a bemutatott okmány adatait a Schengeni Információs Rendszerben (SIS), a körözési nyilvántartási rendszerben, valamint – szükség szerint – a személyi adat- és lakcím nyilvántartásban vagy az okmány-nyilvántartásban.
+25. § (1)[^51] Az igazoltatás során a rendőr – a választás lehetőségére történő felhívást követően –
+
+a) elkéri az igazoltatott személyazonosító igazolványát vagy egyéb, a személyazonosságot hitelt érdemlően igazoló okmányát, vagy
+
+b) ha az igazoltatott ezt választja, a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvényben meghatározott digitális okmányának adatai vagy adattároló kódja hozzáférhetővé tételére szólítja fel.
+
+(1a)[^52] Ha az okmány valódisága vagy az igazoltatott személyazonossága kétséges, a rendőr ellenőrző kérdéseket tehet fel, felszólítja az igazoltatott személyt adatainak bemondására, a bemondott adatokat az okmánnyal összehasonlítja.
+
+(1b)[^53] Az intézkedés során minden esetben ellenőrizni kell az igazoltatott személy és a bemutatott okmány adatait
+
+a) a Schengeni Információs Rendszerben (SIS),
+
+b) a körözési nyilvántartási rendszerben,
+
+c) – szükség szerint – a személyiadat- és lakcímnyilvántartásban vagy az okmány-nyilvántartásban, valamint
+
+d) a bűnügyi felügyelet, a távoltartás keretében előírt magatartási szabályok megtartásának ellenőrzésére jogosult rendőri szerv állományának tagja által végzett igazoltatás során az e célt szolgáló adatállományban.
 
 (2) Az igazoltatás során meg kell állapítani az igazoltatott személyazonosságát, és – akinél ez a további intézkedéshez, eljáráshoz szükséges, vagy egyéb körülmények ezt indokolják – az igazoltató lapon rögzíteni kell az igazoltatottnak az Rtv. 29. § (8) bekezdése szerinti személyazonosító adatait, az igazolványának sorozatát és számát, valamint az igazoltatás helyét, idejét és okát.
 
@@ -11,4 +27,6 @@
 (4) Az igazoltatást kérő részére az igazoltatott személy adatait az igazoltatás helye szerint illetékes rendőrkapitányság adhatja ki.
 
 [^50]: A 24/C. §-t a 21/2018. (VI. 29.) BM rendelet 4. § (2) bekezdése iktatta be.
-[^51]: A 25. § (1) bekezdése a 63/2013. (XI. 28.) BM rendelet 16. § (1) bekezdése szerint módosított szöveg.
+[^51]: A 25. § (1) bekezdése a 64/2024. (XII. 30.) BM rendelet 1. §-ával megállapított szöveg.
+[^52]: A 25. § (1a) bekezdését a 64/2024. (XII. 30.) BM rendelet 2. §-a iktatta be.
+[^53]: A 25. § (1b) bekezdését a 64/2024. (XII. 30.) BM rendelet 2. §-a iktatta be.

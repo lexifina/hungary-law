@@ -1,4 +1,4 @@
-## 47/A. [^127] A tárgyaló eljárása
+## 47/A. [^129] A tárgyaló eljárása
 
 60/A. § (1) Az Rtv. 33. §-ában vagy 37. §-ában meghatározott intézkedés végrehajtása során az intézkedés alá vont személy magatartása következtében létrejött, az életet, testi épséget, vagyonbiztonságot veszélyeztető vagy sértő helyzetben (a továbbiakban: tárgyalást igénylő helyzet) a Terrorelhárítási Központ főigazgatója vagy az országos rendőrfőkapitány által meghatározott tárgyalói képzésen részt vett tárgyaló az intézkedés eredményes befejezése, illetve a helyzet békés megoldása érdekében speciális kommunikációt (a továbbiakban: tárgyalás) folytathat.
 
@@ -18,4 +18,4 @@ f) a veszélyeztetett anyagi javak megóvása és
 
 g) – ha a tárgyalást igénylő helyzet megoldása kizárólag kényszerítő eszköz alkalmazásával oldható meg – a kényszerítő eszköz alkalmazásához legkedvezőbb feltételek megteremtése.
 
-[^127]: A 47/A. alcímet (60/A. §) az 50/2016. (XII. 14.) BM rendelet 14. §-a iktatta be.
+[^129]: A 47/A. alcímet (60/A. §) az 50/2016. (XII. 14.) BM rendelet 14. §-a iktatta be.

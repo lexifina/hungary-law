@@ -8,7 +8,7 @@ b) a lőfegyverhasználat okát,
 
 c) a megelőző intézkedéseket,
 
-d)[^97] milyen haláleset vagy sérülés történt, sor került-e elsősegélynyújtásra, orvosi ellátásra, hol tartózkodik a sérült,
+d)[^99] milyen haláleset vagy sérülés történt, sor került-e elsősegélynyújtásra, orvosi ellátásra, hol tartózkodik a sérült,
 
 e) milyen kárt okozott a lövés, ki a károsult, a rendőr, valamint a károsult mit tett a kár enyhítésére,
 
@@ -30,7 +30,7 @@ d) az okozott kárt.
 
 (5) Ha a lőfegyverhasználattal kapcsolatban a lőfegyvert használó rendőr szolgálati helye szerinti rendőri szerv vagy az (1) bekezdésben meghatározott felettes rendőri szerv vezetője bűncselekmény megalapozott gyanúját állapítja meg, feljelentést tesz az illetékes ügyészi szervnél, fegyelmi vétség gyanúja esetén intézkedik a fegyelmi eljárás lefolytatására.
 
-(6)[^98] Az állatra irányuló, valamint a figyelmeztető és a nem szándékosan létrejött lövést a rendőr lehetőleg azonnal, szóban jelenti szolgálati elöljárójának, majd írásos jelentést készít, amely tartalmazza:
+(6)[^100] Az állatra irányuló, valamint a figyelmeztető és a nem szándékosan létrejött lövést a rendőr lehetőleg azonnal, szóban jelenti szolgálati elöljárójának, majd írásos jelentést készít, amely tartalmazza:
 
 a) mikor, hol, milyen célból, hány lövést adott le,
 
@@ -38,15 +38,15 @@ b) a lövést kiváltó körülményeket, figyelmeztető lövésnél az alkalmaz
 
 c) a lövés irányát és következményét,
 
-d)[^99] ha a lövés sérülést, halált, illetve kárt okozott, annak leírását,
+d)[^101] ha a lövés sérülést, halált, illetve kárt okozott, annak leírását,
 
 e) a lövést követően tett intézkedéseit, valamint
 
 f) a helyszínre, a tanúkra, és az egyéb körülményekre vonatkozó adatokat.
 
-(7)[^100] Ha a (6) bekezdés szerinti lövés sérülést, halált, illetve kárt okozott, a lőfegyverhasználatra vonatkozó rendelkezések szerint kell a vizsgálatot lefolytatni.
+(7)[^102] Ha a (6) bekezdés szerinti lövés sérülést, halált, illetve kárt okozott, a lőfegyverhasználatra vonatkozó rendelkezések szerint kell a vizsgálatot lefolytatni.
 
-[^97]: Az 50. § (2) bekezdés d) pontja a 83/2023. (XII. 28.) BM rendelet 3. § b) pontja szerint módosított szöveg.
-[^98]: Az 50. § (6) bekezdés nyitó szövegrésze a 83/2023. (XII. 28.) BM rendelet 3. § c) pontja szerint módosított szöveg.
-[^99]: Az 50. § (6) bekezdés d) pontja a 83/2023. (XII. 28.) BM rendelet 3. § d) pontja szerint módosított szöveg.
-[^100]: Az 50. § (7) bekezdése a 83/2023. (XII. 28.) BM rendelet 3. § d) pontja szerint módosított szöveg.
+[^99]: Az 50. § (2) bekezdés d) pontja a 83/2023. (XII. 28.) BM rendelet 3. § b) pontja szerint módosított szöveg.
+[^100]: Az 50. § (6) bekezdés nyitó szövegrésze a 83/2023. (XII. 28.) BM rendelet 3. § c) pontja szerint módosított szöveg.
+[^101]: Az 50. § (6) bekezdés d) pontja a 83/2023. (XII. 28.) BM rendelet 3. § d) pontja szerint módosított szöveg.
+[^102]: Az 50. § (7) bekezdése a 83/2023. (XII. 28.) BM rendelet 3. § d) pontja szerint módosított szöveg.
