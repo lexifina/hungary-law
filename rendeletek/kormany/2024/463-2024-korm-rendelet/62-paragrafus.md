@@ -1,0 +1,5 @@
+## 23. Az egészségügyi felsőfokú szakirányú szakképzési rendszerről, a Rezidens Támogatási Program ösztöndíjairól, valamint a fiatal szakorvosok támogatásáról szóló 162/2015. (VI. 30.) Korm. rendelet módosítása
+
+62. § Az egészségügyi felsőfokú szakirányú szakképzési rendszerről, a Rezidens Támogatási Program ösztöndíjairól, valamint a fiatal szakorvosok támogatásáról szóló 162/2015. (VI. 30.) Korm. rendelet [a továbbiakban: 162/2015. (VI. 30.) Korm. rendelet] 3. §-a a következő (8) bekezdéssel egészül ki:
+
+„(8) A (7) bekezdésben foglaltaktól eltérően a szakmai grémium támogatása esetén, a tutori névjegyzékbe felvehető az a személy is, aki adott szakterületen szakirányú szakképesítéssel vagy felsőfokú végzettséggel nem rendelkezik, vagy aki adott szakterületen szakvizsgával vagy felsőfokú szakképzettséggel és három évnél rövidebb időtartamú gyakorlattal rendelkezik, amennyiben a szakképzési grémium meggyőződött arról, hogy korábban megszerzett szakképesítései, szakmai gyakorlata és képességei alapján a tutori feladatok ellátására alkalmas.”

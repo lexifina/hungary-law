@@ -1,0 +1,3 @@
+8. § A 43/1999. (III. 3.) Korm. rendelet 14. §-a a következő (11) bekezdéssel egészül ki:
+
+„(11) A háziorvosi szolgáltató a közúti közlekedésről szóló törvényben meghatározott középiskolás járművezetők esetében elvégzett gépjárművezetői alkalmassági vizsgálatok után esetenként 7200 Ft díjazásra jogosult. A szolgáltató az általa végzett vizsgálatokról a finanszírozónak a tárgyhót követő hónap 5. munkanapjáig jelentést küld. A díjazás kifizetésére a tárgyhónapot követő második hónapban kerül sor. A díjazás fedezetére az 5. számú melléklet szerinti Háziorvosi, háziorvosi ügyeleti ellátás összesen jogcímcsoporton belül az Indikátorrendszer finanszírozás és teljesítményfinanszírozás előirányzata szolgál.”
