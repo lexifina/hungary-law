@@ -28,7 +28,7 @@ k) végzi a zárszámadás előkészítésével kapcsolatos ügyviteli, nyilván
 
 l) ellátja a kezelésében lévő adatok tekintetében a közérdekű adatok igénylésével összefüggő feladatokat;
 
-m)[^16] külön megállapodás alapján ellátja az Ávr. 9. § (2a) bekezdésében megjelölt feladatokat;
+m)[^16]
 
 n)[^17] működteti a törzsadat-nyilvántartást.
 
@@ -37,6 +37,6 @@ n)[^17] működteti a törzsadat-nyilvántartást.
 [^13]: A 9. § (1) bekezdése a 207/2018. (XI. 10.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
 [^14]: [A 9. § (2) bekezdés nyitó szövegrészében a 207/2018. (XI. 10.) Korm. rendelet 4. § b) pontjával elrendelt módosítás, amely szerint az „államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendeletben (a továbbiakban: Ávr.)” szövegrész helyébe az „Ávr.-ben” szöveg lép, nem vezethető át.]
 [^15]: A 9. § (2) bekezdés a) pontja a 801/2021. (XII. 28.) Korm. rendelet 18. §-a szerint módosított szöveg.
-[^16]: A 9. § (2) bekezdés m) pontját a 207/2018. (XI. 10.) Korm. rendelet 3. §-a iktatta be, szövege a 445/2020. (X. 1.) Korm. rendelet 23. § 1. pontja szerint módosított szöveg.
+[^16]: A 9. § (2) bekezdés m) pontját a 207/2018. (XI. 10.) Korm. rendelet 3. §-a iktatta be, a 462/2024. (XII. 30.) Korm. rendelet 26. § 2. pontja hatályon kívül helyezte.
 [^17]: A 9. § (2) bekezdés n) pontját a 445/2020. (X. 1.) Korm. rendelet 22. § (1) bekezdése iktatta be.
 [^18]: A 9. § (3) bekezdését a 445/2020. (X. 1.) Korm. rendelet 22. § (2) bekezdése iktatta be.
