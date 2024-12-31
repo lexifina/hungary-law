@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-195-20-
 | 2023-06-02 | 2021-195-20-22.3 | 215/2023. (VI. 1.) Korm. rendelet |
 | 2024-08-06 | 2021-195-20-22.4 | 211/2024. (VII. 29.) Korm. rendelet |
 | 2024-10-01 | 2021-195-20-22.5 | 215/2023. (VI. 1.) Korm. rendelet |
+| 2024-12-31 | 2021-195-20-22.6 | 438/2024. (XII. 23.) Korm. rendelet |

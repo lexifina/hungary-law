@@ -1,6 +1,6 @@
 ## 5. § A Beruházással összefüggő közigazgatási hatósági ügyekre vonatkozó ügyintézési határidő – ha jogszabály rövidebb határidőt nem állapít meg, illetve az előzetes vizsgálati eljárás, a környezeti hatásvizsgálati eljárás és a természetvédelmi hatósági eljárás kivételével – harminc nap.
 
-6. § (1)[^5] A Budapest VIII. kerület, belterület 36582, 36583 és 36585/9 helyrajzi számú ingatlanra a beépítés szabályait a (2)–(5) bekezdés állapítja meg, azzal, hogy
+6. § (1)[^6] A Budapest VIII. kerület, belterület 36582, 36583 és 36585/9 helyrajzi számú ingatlanra a beépítés szabályait a (2)–(5) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési tervek és az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK) előírásait a (2)–(5) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
@@ -16,7 +16,7 @@ c) a szintterületi mutató megengedett legnagyobb értéke 5,5 m2/m2,
 
 d) a zöldfelület megengedett legkisebb mértéke 10%, azzal, hogy mélygarázs létesítése esetén 0%.
 
-(3)[^6] A Budapest VIII. kerület, belterület 36582 helyrajzi számú ingatlanra meghatározott sajátos beépítési szabályok:
+(3)[^7] A Budapest VIII. kerület, belterület 36582 helyrajzi számú ingatlanra meghatározott sajátos beépítési szabályok:
 
 a) az utcavonalra vonatkozó előírást nem kell alkalmazni,
 
@@ -30,11 +30,11 @@ e) a zöldfelület megengedett legkisebb mértéke 15%,
 
 f) a szintterületi mutató megengedett legnagyobb értéke 3,5 m2/m2.
 
-(4)[^7] A Budapest VIII. kerület, belterület 36582 és 36583 helyrajzi számú ingatlan zöldfelületként fenntartandó részén épület elhelyezhető, azzal, hogy a legkisebb zöldfelületi arányt a telken belül biztosítani kell.
+(4)[^8] A Budapest VIII. kerület, belterület 36582 és 36583 helyrajzi számú ingatlan zöldfelületként fenntartandó részén épület elhelyezhető, azzal, hogy a legkisebb zöldfelületi arányt a telken belül biztosítani kell.
 
-(5)[^8] A Budapest VIII. kerület, belterület 36582 és 36585/9 helyrajzi számú ingatlanon létesített építmények között a telepítési távolság nem lehet kisebb, mint 12 méter, azzal, hogy a telepítési távolságot a 36585/9 helyrajzi számú ingatlanon létesített építmény huzamos tartózkodásra szolgáló helyiségeket tartalmazó homlokzatától kell számítani, illetve az átfedésben lévő homlokzatok között a 36582 helyrajzi számú ingatlanon létesített épület kizárólag nem huzamos tartózkodás céljára szolgáló helyiségek nyílásait tartalmazhatja.
+(5)[^9] A Budapest VIII. kerület, belterület 36582 és 36585/9 helyrajzi számú ingatlanon létesített építmények között a telepítési távolság nem lehet kisebb, mint 12 méter, azzal, hogy a telepítési távolságot a 36585/9 helyrajzi számú ingatlanon létesített építmény huzamos tartózkodásra szolgáló helyiségeket tartalmazó homlokzatától kell számítani, illetve az átfedésben lévő homlokzatok között a 36582 helyrajzi számú ingatlanon létesített épület kizárólag nem huzamos tartózkodás céljára szolgáló helyiségek nyílásait tartalmazhatja.
 
-[^5]: A 6. § (1) bekezdése a 215/2023. (VI. 1.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^6]: A 6. § (3) bekezdését a 215/2023. (VI. 1.) Korm. rendelet 4. § (2) bekezdése iktatta be.
-[^7]: A 6. § (4) bekezdését a 215/2023. (VI. 1.) Korm. rendelet 4. § (2) bekezdése iktatta be.
-[^8]: A 6. § (5) bekezdését a 215/2023. (VI. 1.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^6]: A 6. § (1) bekezdése a 215/2023. (VI. 1.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^7]: A 6. § (3) bekezdését a 215/2023. (VI. 1.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^8]: A 6. § (4) bekezdését a 215/2023. (VI. 1.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^9]: A 6. § (5) bekezdését a 215/2023. (VI. 1.) Korm. rendelet 4. § (2) bekezdése iktatta be.
