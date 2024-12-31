@@ -1,10 +1,10 @@
-## 5/B. [^16] A vagyonkutatás lefolytatására vonatkozó eltérő rendelkezések
+## 5/B. [^18] A vagyonkutatás lefolytatására vonatkozó eltérő rendelkezések
 
 10/B. § (1) A büntetőeljárásról szóló 2017. évi XC. törvény 820. § (2) bekezdés a) pontja szerinti vagyonkutatást
 
 a) 1 000 000 Ft-ot meg nem haladó érték esetén a vagyonkutatást elrendelő ügyészség székhelye szerint illetékes helyi nyomozó hatóság,
 
-b)[^17] 1 000 001 Ft és 100 000 000 Ft közötti érték esetén a vagyonkutatást elrendelő ügyészség székhelye szerint illetékes szerinti vármegyei (fővárosi) rendőr-főkapitányság,
+b)[^19] 1 000 001 Ft és 100 000 000 Ft közötti érték esetén a vagyonkutatást elrendelő ügyészség székhelye szerint illetékes szerinti vármegyei (fővárosi) rendőr-főkapitányság,
 
 c) 100 000 000 Ft-ot meghaladó érték esetén a KR
 
@@ -20,5 +20,5 @@ c) 100 000 000 Ft-ot meghaladó érték esetén a KR
 
 (6) A (2)–(4) bekezdés szerinti hatáskörbe utalás vagy hatáskörbe vonás esetén a vagyonkutatás az arra eredetileg hatáskörrel rendelkező nyomozó hatóságnak nem adható vissza.
 
-[^16]: Az 5/B. alcímet (10/B. §) a 28/2021. (VIII. 16.) BM rendelet 1. §-a iktatta be.
-[^17]: A 10/B. § (1) bekezdés b) pontja az 50/2022. (XII. 27.) BM rendelet 6. § a) pontja szerint módosított szöveg.
+[^18]: Az 5/B. alcímet (10/B. §) a 28/2021. (VIII. 16.) BM rendelet 1. §-a iktatta be.
+[^19]: A 10/B. § (1) bekezdés b) pontja az 50/2022. (XII. 27.) BM rendelet 6. § a) pontja szerint módosított szöveg.
