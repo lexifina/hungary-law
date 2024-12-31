@@ -1,3 +1,3 @@
-39. §[^116]
+39. §[^118]
 
-[^116]: A 38–39. §-t a 41. § (3) bekezdése hatályon kívül helyezte.
+[^118]: A 38–39. §-t a 41. § (3) bekezdése hatályon kívül helyezte.

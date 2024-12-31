@@ -1,4 +1,4 @@
-37/C. § (1)[^112]
+37/C. § (1)[^114]
 
 (2) Valamennyi, a 37/B. § (1) bekezdése szerinti kutatás és vizsgálat engedélyezésére irányuló kérelem mellékleteként sugáregészségügyi dokumentációt kell benyújtani a következő tartalommal:
 
@@ -26,4 +26,4 @@ db) a vizsgálatvezető irányításával a kutatás során a besugárzást terv
 
 e) a kutatás során az ionizáló sugárzásnak kitett kutatási alanyok, a kutatásban közreműködők, a gondozók és segítők, valamint a lakosság várható sugárterhelésének becslését leíró kockázatelemzés.
 
-[^112]: A 37/C. § (1) bekezdését a 334/2023. (VII. 20.) Korm. rendelet 19. §-a hatályon kívül helyezte.
+[^114]: A 37/C. § (1) bekezdését a 334/2023. (VII. 20.) Korm. rendelet 19. §-a hatályon kívül helyezte.
