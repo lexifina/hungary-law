@@ -4,6 +4,8 @@
 
 (2) Az (1) bekezdés szerinti felmentésre irányuló kérelemnek tartalmaznia kell a felmentendő gyógymedence vonatkozásában a 9. melléklet 1. pontjában foglaltakat.
 
-(3) A vármegyei kormányhivatal a szűrő-forgató rendszer üzemeltetése alóli felmentésre irányuló eljárásban az országos vízügyi hatóság dönt a felmentés megadásáról vagy elutasításáról annak alapján, hogy a gyógyvíz, gyógyhatású víz minősége alapján a felmentés (1) bekezdés szerinti feltételei teljesülnek-e, továbbá, hogy a gyógyvíz, gyógyhatású víz gyógyászati szempontból értékes, biológiailag aktív alkotórészeit a vízforgatás károsítja-e.
+(3)[^1] A vármegyei kormányhivatal a szűrő-forgató rendszer üzemeltetése alóli felmentésre irányuló eljárásban a vízügyi és vízvédelmi hatáskörrel rendelkező illetékes vármegyei kormányhivatal és az NNGYK bevonásával dönt a felmentés megadásáról vagy elutasításáról annak alapján, hogy a gyógyvíz, gyógyhatású víz minősége alapján a felmentés (1) bekezdés szerinti feltételei teljesülnek-e, továbbá, hogy a gyógyvíz, gyógyhatású víz gyógyászati szempontból értékes, biológiailag aktív alkotórészeit a vízforgatás károsítja-e.
 
 (4) A szűrő-forgató rendszer üzemeltetése alóli felmentés – a 24. § (3) bekezdésében foglaltak figyelembevételével – 5 évig érvényes. A felmentés kérelemre történő módosítása csak a felmentés jogosultjának személyében, valamint adataiban bekövetkező változás miatt lehetséges.
+
+[^1]: A 23. § (3) bekezdése a 463/2024. (XII. 30.) Korm. rendelet 87. §-a szerint módosított szöveg.
