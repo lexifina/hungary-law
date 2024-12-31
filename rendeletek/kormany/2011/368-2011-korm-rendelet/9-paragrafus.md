@@ -8,7 +8,7 @@ felelős szervezeti egység.
 
 (2)[^39] Az (1) bekezdés b) pontja szerinti feladatok ellátása a gazdasági szervezeten kívül, szolgáltatás megrendelésével is történhet.
 
-(2a)[^40] A helyi önkormányzat és az általa alapított költségvetési szerv, a helyi nemzetiségi önkormányzat és az általa alapított költségvetési szerv, az önkormányzati társulás és az általa alapított költségvetési szerv és a Kincstár közötti megállapodás alapján a Kincstár is elláthatja az (1) bekezdés a) pontjában foglalt egyes feladatokat. A megállapodásnak tartalmaznia kell az (1) bekezdés a) pontjában foglalt feladatok részletes munkamegosztását és az ehhez kapcsolódó felelősségi köröket.
+(2a)[^40]
 
 (3)[^41] A gazdasági szervezet feladatait indokolt esetben több szervezeti egység is elláthatja, ez azonban nem eredményezhet az egyes szervezeti egységek által ellátott tevékenységek között párhuzamosságot. Ha több szervezeti egység látja el a gazdasági szervezet feladatait, a szervezeti egységek összességét kell gazdasági szervezetnek tekinteni.
 
@@ -41,7 +41,7 @@ látja el, kivéve, ha az (1) bekezdés b) pontja szerinti feladatok ellátása 
 [^37]: Az Ávr. 9. §-át megelőző jogszabályi hivatkozást a 497/2013. (XII. 29.) Korm. rendelet 63. § (1) bekezdés 4. pontja hatályon kívül helyezte.
 [^38]: Az Ávr. 9. § (1) bekezdése a 397/2014. (XII. 31.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
 [^39]: Az Ávr. 9. § (2) bekezdését a 413/2012. (XII. 29.) Korm. rendelet 40. § (1) bekezdés 3. pontja hatályon kívül helyezte, újonnan a 397/2014. (XII. 31.) Korm. rendelet 8. § (2) bekezdése iktatta be.
-[^40]: Az Ávr. 9. § (2a) bekezdését a 207/2018. (XI. 10.) Korm. rendelet 1. §-a iktatta be.
+[^40]: Az Ávr. 9. § (2a) bekezdését a 207/2018. (XI. 10.) Korm. rendelet 1. §-a iktatta be, a 462/2024. (XII. 30.) Korm. rendelet 13. § 2. pontja hatályon kívül helyezte.
 [^41]: Az Ávr. 9. § (3) bekezdése a 397/2014. (XII. 31.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg.
 [^42]: Az Ávr. 9. § (4) bekezdését a 497/2013. (XII. 29.) Korm. rendelet 63. § (1) bekezdés 5. pontja hatályon kívül helyezte, újonnana a 397/2014. (XII. 31.) Korm. rendelet 8. § (3) bekezdése iktatta be.
 [^43]: Az Ávr. 9. § (5) bekezdése a 480/2022. (XI. 28.) Korm. rendelet 2. §-ával megállapított szöveg.

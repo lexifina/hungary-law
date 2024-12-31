@@ -20,7 +20,7 @@ c) a megbízatás időtartamát.
 
 (4) Ha a költségvetési biztos a feladatát 15 napon túl nem képes ellátni, vagy a kijelölését követően vele szemben összeférhetetlenségi ok merül fel, és ezen okot a felmerülésétől számított 15 napon belül nem szünteti meg, a Kincstár elnöke a költségvetési biztos feladatellátásának biztosítása érdekében helyettes költségvetési biztost jelöl ki.
 
-(5) Az Áht. 39/A. § (2) bekezdés a) pont ac) alpontja alkalmazásában tervezéssel, gazdálkodással, beszámolással összefüggő intézkedés
+(5)[^306] Az Áht. 39/A. § (3) bekezdés a) pont ac) alpontjának alkalmazásában tervezéssel, gazdálkodással, beszámolással összefüggő intézkedés
 
 a) a bevétel beszedésére és a finanszírozási műveletekre irányuló intézkedés,
 
@@ -30,14 +30,19 @@ c) a költségvetési biztos által előre meghatározott körben az előirányz
 
 d) az eszközök értékesítésére és selejtezésére irányuló intézkedés.
 
-(6) A költségvetési biztos az Áht. 39/A. § (2) bekezdés c) pontja szerinti kötelezettségvállalás ellenjegyzése során a helyi önkormányzat pénzügyi-gazdasági helyzetének, takarékos, szabályszerű és eredményes működése figyelembevételével vizsgálja a tervezett kifizetéseket.
+(6)[^307] A költségvetési biztos az Áht. 39/A. § (3) bekezdés c) pontja szerinti kötelezettségvállalás ellenjegyzése során a helyi önkormányzat pénzügyi-gazdasági helyzetének, takarékos, szabályszerű és eredményes működése figyelembevételével vizsgálja a tervezett kifizetéseket.
 
-(7) Ha a költségvetési biztos a (2) bekezdés szerinti tervezett kifizetéssel nem ért egyet, a pénzügyi kötelezettségvállalást nem ellenjegyzi.
+(7)[^308] Ha a költségvetési biztos a (6) bekezdés szerinti tervezett kifizetéssel nem ért egyet, a pénzügyi kötelezettségvállalást nem ellenjegyzi.
 
-(8) A költségvetési biztos munkájához a helyi önkormányzat rendelkezésre bocsátja az (1) bekezdés és az Áht. 39/A. §-a szerinti intézkedések dokumentumait, az azokra vonatkozó összefoglaló, rendelkezésére álló részletes adatokat.
+(8)[^309] A költségvetési biztos munkájához a helyi önkormányzat rendelkezésre bocsátja a (6) bekezdés és az Áht. 39/A. § (3) bekezdése szerinti intézkedések dokumentumait, az azokra vonatkozó összefoglaló, rendelkezésére álló részletes adatokat.
 
-(9) A költségvetési biztos a feladatellátása során a kijelölt szerv kezelésében lévő, közpénz felhasználásával összefüggő adatok megismerése, kezelése során a 61/A. § (4) bekezdése szerint jár el.
+(9)[^310] Az Áht. 39/A. § (3) bekezdés c) pontja szerinti intézkedések dokumentumait azok tervezett kiadmányozását – e rendelet szabályai szerint előzetes pénzügyi ellenjegyzést igénylő intézkedés esetén pénzügyi ellenjegyzését –, a tervezett intézkedések megtételét legalább három munkanappal megelőzően meg kell küldeni a költségvetési biztosnak. Ha a költségvetési biztos a kézhezvételtől számított három munkanapon belül a megküldött dokumentumokkal kapcsolatban nem nyilatkozik, az intézkedés megtételére sor kerülhet.
 
 (10) Az Áht. 39/A. § (2) bekezdés c) pontja szerinti intézkedések dokumentumait azok tervezett kiadmányozását – e rendelet szabályai szerint előzetes pénzügyi ellenjegyzést igénylő intézkedés esetén pénzügyi ellenjegyzését –, a tervezett intézkedések megtételét legalább három munkanappal megelőzően meg kell küldeni a költségvetési biztosnak. Ha a költségvetési biztos a kézhezvételtől számított három munkanapon belül a megküldött dokumentumokkal kapcsolatban nem nyilatkozik, az intézkedés megtételére sor kerülhet.
 
 [^305]: Az „[Az Áht. 39/A. §-ához]” alcímet (Ávr. 61/D-t) a 143/2024. (VI. 28.) Korm. rendelet 1. §-a iktatta be.
+[^306]: Az Ávr. 61/D. § (5) bekezdése a 462/2024. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^307]: Az Ávr. 61/D. § (6) bekezdése a 462/2024. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^308]: Az Ávr. 61/D. § (7) bekezdése a 462/2024. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^309]: Az Ávr. 61/D. § (8) bekezdése a 462/2024. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^310]: Az Ávr. 61/D. § (9) bekezdése a 462/2024. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.

@@ -34,7 +34,7 @@ g) az eszközök értékesítésére és selejtezésére irányuló intézkedés
 
 (3)[^291] A költségvetési felügyelő az állami tulajdonú gazdasági társaság tekintetében előzetesen véleményezi a társaságnak nyújtott költségvetési támogatások felhasználásával összefüggő intézkedéseket.
 
-(4)[^292] A költségvetési felügyelő jogosult a kijelölt szerv, illetve az állami tulajdonú gazdasági társaság tekintetében érvényes titoktartási követelmények szerinti nyilatkozatok megtételét követően a kijelölt szerv kezelésében lévő, közpénz felhasználásával összefüggő adatot, illetve az állami tulajdonú gazdasági társaság számára nyújtott költségvetési támogatások felhasználásával összefüggő adatot – ideértve az üzleti vagy más titoknak minősülő adatokat is – megismerni, az azokat tartalmazó iratokba vagy egyéb adathordozókba betekinteni. A költségvetési felügyelő minősített adatot kizárólag a minősített adat védelméről szóló törvényben meghatározott személyi biztonsági feltételek teljesülése esetén ismerhet meg. A nemzetbiztonsági szolgálatoknál folytatott tevékenysége során a költségvetési felügyelő nem ismerheti meg azokat az adatokat, amelyek a titkos információgyűjtés során keletkezett információra, forrására vagy az alkalmazott titkos információgyűjtő módszer konkrét jellegére utalnak.
+(4)[^292]
 
 (5)[^293] A költségvetési felügyelő az (1) bekezdés a) pont ab) és ac) alpontjában és a (3) bekezdésben meghatározott intézkedések tekintetében a kijelölt szerv vezetőjénél, illetve az állami tulajdonú gazdasági társaság vezető tisztségviselőjénél kifogással élhet. A kifogással egyidejűleg a költségvetési felügyelő indokolt javaslatot készít, amit a kijelölt szerv esetén annak vezetőjének, állami tulajdonú gazdasági társaság esetén az állami tulajdonú gazdasági társaság vezető tisztségviselőjének, valamint a tulajdonosi joggyakorló képviseletében eljáró személynek haladéktalanul megküld. A kifogásolt intézkedés az államháztartásért felelős miniszter (6) bekezdés szerinti jóváhagyásáig vagy a kifogásnak a költségvetési felügyelő általi visszavonásáig nem hajtható végre.
 
@@ -48,7 +48,7 @@ g) az eszközök értékesítésére és selejtezésére irányuló intézkedés
 [^289]: Az Ávr. 61/A. § (2) bekezdés b) pontja a 264/2016. (VIII. 31.) Korm. rendelet 26. § (2) bekezdés 3. pontja szerint módosított szöveg.
 [^290]: Az Ávr. 61/A. § (2) bekezdés c) pontja a 175/2018. (IX. 27.) Korm. rendelet 8. § 3. pontja szerint módosított szöveg.
 [^291]: Az Ávr. 61/A. § (3) bekezdése a 264/2016. (VIII. 31.) Korm. rendelet 25. § 9. pontja, a 175/2018. (IX. 27.) Korm. rendelet 8. § 3. pontja szerint módosított szöveg.
-[^292]: Az Ávr. 61/A. § (4) bekezdése a 264/2016. (VIII. 31.) Korm. rendelet 25. § 10. pontja, a 175/2018. (IX. 27.) Korm. rendelet 8. § 1. pontja szerint módosított szöveg.
+[^292]: Az Ávr. 61/A. § (4) bekezdését a 462/2024. (XII. 30.) Korm. rendelet 13. § 4. pontja hatályon kívül helyezte.
 [^293]: Az Ávr. 61/A. § (5) bekezdése a 465/2015. (XII. 29.) Korm. rendelet 4. § (2) bekezdésével megállapított, a 175/2018. (IX. 27.) Korm. rendelet 8. § 1. pontja, a 482/2021. (VIII. 13.) Korm. rendelet 11. § 4. pontja szerint módosított szöveg.
 [^294]: Az Ávr. 61/A. § (6) bekezdését a 465/2015. (XII. 29.) Korm. rendelet 4. § (3) bekezdése iktatta be, szövege a 175/2018. (IX. 27.) Korm. rendelet 8. § 3. pontja szerint módosított szöveg.
 [^295]: Az Ávr. 61/A. § (7) bekezdését a 465/2015. (XII. 29.) Korm. rendelet 4. § (3) bekezdése iktatta be, szövege a 175/2018. (IX. 27.) Korm. rendelet 8. § 1. és 5. pontja szerint módosított szöveg.

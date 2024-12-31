@@ -1,40 +1,40 @@
-## [Az Áht. 81. §-ához][^593]
+## [Az Áht. 81. §-ához][^600]
 
 128. § (1) A Kincstár az Áht. 81. § (1) bekezdése szerinti előirányzat-felhasználási keretet (a 128–130. § alkalmazásában a továbbiakban: keret) havonta megállapítja és átvezeti a költségvetési szervek fizetési számlájára.
 
-(2)[^594] A keret megállapítása során a Kincstár
+(2)[^601] A keret megállapítása során a Kincstár
 
-a)[^595] a teljesítésarányos finanszírozás alá tartozó előirányzatok esetén a központi támogatás felhalmozási kiadási előirányzatokra jutó részéből a 172/A. § szerinti felhasználási tervben az adott hónapra megjelölt,
+a)[^602] a teljesítésarányos finanszírozás alá tartozó előirányzatok esetén a központi támogatás felhalmozási kiadási előirányzatokra jutó részéből a 172/A. § szerinti felhasználási tervben az adott hónapra megjelölt,
 
-b)[^596] az időarányos finanszírozás alá tartozó előirányzatok esetén a központi támogatás működési kiadási előirányzatokra eső részéből adott hónapra időarányosan jutó
+b)[^603] az időarányos finanszírozás alá tartozó előirányzatok esetén a központi támogatás működési kiadási előirányzatokra eső részéből adott hónapra időarányosan jutó
 
 összeget veszi alapul, amelyet a (3) és (4) bekezdés rendelkezései szerint korrigál.
 
-(3)[^597] A Kincstár a működési előirányzatokra jutó központi támogatás január havi keretét – a honvédelemért felelős miniszter által vezetett minisztérium 1–7. címéhez tartozó költségvetési szervek, valamint a polgári nemzetbiztonsági szolgálatok kivételével – a személyi juttatások 1/12-ének 35%-ával és a munkaadókat terhelő járulékok és szociális hozzájárulási adó 1/12-ével csökkenti. A Kincstár ettől a fejezetet irányító szerv kérelmére eltérést engedélyezhet.
+(3)[^604] A Kincstár a működési előirányzatokra jutó központi támogatás január havi keretét – a honvédelemért felelős miniszter által vezetett minisztérium 1–7. címéhez tartozó költségvetési szervek, valamint a polgári nemzetbiztonsági szolgálatok kivételével – a személyi juttatások 1/12-ének 35%-ával és a munkaadókat terhelő járulékok és szociális hozzájárulási adó 1/12-ével csökkenti. A Kincstár ettől a fejezetet irányító szerv kérelmére eltérést engedélyezhet.
 
-(4)[^598] Ha a központi költségvetésről szóló törvény a költségvetési évet megelőző év november 20-áig nem kerül az Országgyűlés által elfogadásra és kihirdetésre, és az előzetes, valamint a végleges elemi költségvetés között eltérés mutatkozik, az előzetesen megállapított január havi keret miatti korrekciót a Kincstár a március havi keret megállapításakor végzi el.
+(4)[^605] Ha a központi költségvetésről szóló törvény a költségvetési évet megelőző év november 20-áig nem kerül az Országgyűlés által elfogadásra és kihirdetésre, és az előzetes, valamint a végleges elemi költségvetés között eltérés mutatkozik, az előzetesen megállapított január havi keret miatti korrekciót a Kincstár a március havi keret megállapításakor végzi el.
 
-(5)[^599]
+(5)[^606]
 
-(6)[^600]
+(6)[^607]
 
-(7)[^601]
+(7)[^608]
 
-(8)[^602]
+(8)[^609]
 
-(9)[^603]
+(9)[^610]
 
-(10)[^604] Likvid fedezet hiányában a 62/D. § (6) bekezdése szerinti befizetési kötelezettséget a Kincstár mindaddig nem teljesíti, amíg a költségvetési szerv fizetési számlája a befizetési kötelezettség összegével nem terhelhető. A befizetési kötelezettség teljesítéséig a költségvetési szerv fizetési számlája terhére benyújtott egyéb fizetési megbízásokat a Kincstár nem teljesíti.
+(10)[^611] Likvid fedezet hiányában a 62/D. § (6) bekezdése szerinti befizetési kötelezettséget a Kincstár mindaddig nem teljesíti, amíg a költségvetési szerv fizetési számlája a befizetési kötelezettség összegével nem terhelhető. A befizetési kötelezettség teljesítéséig a költségvetési szerv fizetési számlája terhére benyújtott egyéb fizetési megbízásokat a Kincstár nem teljesíti.
 
-[^593]: Az Ávr. 128. §-t megelőző alcím a 397/2014. (XII. 31.) Korm. rendelet 44. § 38. pontja szerint módosított szöveg.
-[^594]: Az Ávr. 128. § (2) bekezdés záró szövegrésze a 397/2014. (XII. 31.) Korm. rendelet 44. § 40. pontja szerint módosított szöveg.
-[^595]: Az Ávr. 128. § (2) bekezdés a) pontja a 801/2021. (XII. 28.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^596]: Az Ávr. 128. § (2) bekezdés b) pontja a 801/2021. (XII. 28.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^597]: Az Ávr. 128. § (3) bekezdése a 245/2022. (VII. 8.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^598]: Az Ávr. 128. § (4) bekezdése a 264/2016. (VIII. 31.) Korm. rendelet 19. §-ával megállapított szöveg.
-[^599]: Az Ávr. 128. § (5)–(9) bekezdését a 397/2014. (XII. 31.) Korm. rendelet 45. § (2) bekezdés 15. pontja hatályon kívül helyezte.
-[^600]: Az Ávr. 128. § (5)–(9) bekezdését a 397/2014. (XII. 31.) Korm. rendelet 45. § (2) bekezdés 15. pontja hatályon kívül helyezte.
-[^601]: Az Ávr. 128. § (5)–(9) bekezdését a 397/2014. (XII. 31.) Korm. rendelet 45. § (2) bekezdés 15. pontja hatályon kívül helyezte.
-[^602]: Az Ávr. 128. § (5)–(9) bekezdését a 397/2014. (XII. 31.) Korm. rendelet 45. § (2) bekezdés 15. pontja hatályon kívül helyezte.
-[^603]: Az Ávr. 128. § (5)–(9) bekezdését a 397/2014. (XII. 31.) Korm. rendelet 45. § (2) bekezdés 15. pontja hatályon kívül helyezte.
-[^604]: Az Ávr. 128. § (10) bekezdése a 175/2015. (VII. 7.) Korm. rendelet 28. § 22. pontja szerint módosított szöveg.
+[^600]: Az Ávr. 128. §-t megelőző alcím a 397/2014. (XII. 31.) Korm. rendelet 44. § 38. pontja szerint módosított szöveg.
+[^601]: Az Ávr. 128. § (2) bekezdés záró szövegrésze a 397/2014. (XII. 31.) Korm. rendelet 44. § 40. pontja szerint módosított szöveg.
+[^602]: Az Ávr. 128. § (2) bekezdés a) pontja a 801/2021. (XII. 28.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^603]: Az Ávr. 128. § (2) bekezdés b) pontja a 801/2021. (XII. 28.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^604]: Az Ávr. 128. § (3) bekezdése a 245/2022. (VII. 8.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^605]: Az Ávr. 128. § (4) bekezdése a 264/2016. (VIII. 31.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^606]: Az Ávr. 128. § (5)–(9) bekezdését a 397/2014. (XII. 31.) Korm. rendelet 45. § (2) bekezdés 15. pontja hatályon kívül helyezte.
+[^607]: Az Ávr. 128. § (5)–(9) bekezdését a 397/2014. (XII. 31.) Korm. rendelet 45. § (2) bekezdés 15. pontja hatályon kívül helyezte.
+[^608]: Az Ávr. 128. § (5)–(9) bekezdését a 397/2014. (XII. 31.) Korm. rendelet 45. § (2) bekezdés 15. pontja hatályon kívül helyezte.
+[^609]: Az Ávr. 128. § (5)–(9) bekezdését a 397/2014. (XII. 31.) Korm. rendelet 45. § (2) bekezdés 15. pontja hatályon kívül helyezte.
+[^610]: Az Ávr. 128. § (5)–(9) bekezdését a 397/2014. (XII. 31.) Korm. rendelet 45. § (2) bekezdés 15. pontja hatályon kívül helyezte.
+[^611]: Az Ávr. 128. § (10) bekezdése a 175/2015. (VII. 7.) Korm. rendelet 28. § 22. pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
-## [Az Áht. 50. §-ához][^372]
+## [Az Áht. 50. §-ához][^377]
 
-66. § (1)[^373] A pályázati úton nyújtott támogatás esetén a támogatási igény formája pályázat. Pályázatot pályázati kiírás alapján lehet benyújtani. A pályázati kiírást a támogató internetes honlapján és az általa szükségesnek tartott egyéb helyen teszi közzé.
+66. § (1)[^378] A pályázati úton nyújtott támogatás esetén a támogatási igény formája pályázat. Pályázatot pályázati kiírás alapján lehet benyújtani. A pályázati kiírást a támogató internetes honlapján és az általa szükségesnek tartott egyéb helyen teszi közzé.
 
 (2) A pályázati kiírás tartalmazza
 
@@ -38,7 +38,7 @@
 
 17. arra történő utalást, hogy a költségvetési támogatás visszatérítendő vagy nem visszatérítendő,
 
-17a.[^374] a támogatás felhasználásával kapcsolatos ellenőrzés-tűrési és adatszolgáltatási kötelezettségre, valamint nyilvánossági követelményekre vonatkozó tájékoztatást,
+17a.[^379] a támogatás felhasználásával kapcsolatos ellenőrzés-tűrési és adatszolgáltatási kötelezettségre, valamint nyilvánossági követelményekre vonatkozó tájékoztatást,
 
 18. a támogató által indokoltnak tartott egyéb információkat.
 
@@ -48,6 +48,6 @@
 
 (5) A támogató a pályázati kiírás közzététele és a pályázat benyújtásának határideje között köteles biztosítani a pályázók ésszerű időn belüli tájékoztatását.
 
-[^372]: Az Ávr. 66. §-t megelőző alcím cím a 465/2015. (XII. 29.) Korm. rendelet 24. § 9. pontja szerint módosított szöveg.
-[^373]: Az Ávr. 66. § (1) bekezdése a 465/2015. (XII. 29.) Korm. rendelet 24. § 13. pontja, 25. § (1) bekezdés 2. pontja szerint módosított szöveg.
-[^374]: Az Ávr. 66. § (2) bekezdés 17a. pontját a 175/2015. (VII. 7.) Korm. rendelet 7. §-a iktatta be.
+[^377]: Az Ávr. 66. §-t megelőző alcím cím a 465/2015. (XII. 29.) Korm. rendelet 24. § 9. pontja szerint módosított szöveg.
+[^378]: Az Ávr. 66. § (1) bekezdése a 465/2015. (XII. 29.) Korm. rendelet 24. § 13. pontja, 25. § (1) bekezdés 2. pontja szerint módosított szöveg.
+[^379]: Az Ávr. 66. § (2) bekezdés 17a. pontját a 175/2015. (VII. 7.) Korm. rendelet 7. §-a iktatta be.
