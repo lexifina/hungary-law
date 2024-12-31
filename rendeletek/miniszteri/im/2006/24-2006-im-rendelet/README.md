@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-24-20-0
 | 2024-01-01 | 2006-24-20-06.20 | 4/2012. (II. 10.) KIM rendelet |
 | 2024-06-29 | 2006-24-20-06.21 | 9/2024. (VI. 28.) IM rendelet |
 | 2024-10-01 | 2006-24-20-06.22 | 9/2024. (VI. 28.) IM rendelet |
+| 2024-12-31 | 2006-24-20-06.24 | 27/2024. (XII. 30.) IM rendelet |
