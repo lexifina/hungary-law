@@ -218,27 +218,33 @@ Felelős: köznevelésért felelős miniszter
 
 Határidő: 2021-től, folyamatos
 
+25.[^19] Az Ukrajna területén fennálló fegyveres konfliktus miatt keletkezett migrációs kihívásokra tekintettel támogatni kell az érintett gyermekek – köztük számos hátrányos helyzetű vagy roma gyermek – köznevelésbe történő integrációját.
+
+| Felelős: | köznevelésért felelős miniszter, az orosz–ukrán háború elől Magyarországra menekülő személyekért felelős kormánybiztos bevonásával |
+
+| Határidő: | az Ukrajna területén fennálló fegyveres konfliktusra, illetve humanitárius katasztrófára tekintettel, valamint ezek magyarországi következményeinek az elhárítása és kezelése érdekében kihirdetett veszélyhelyzet ideje alatt folyamatosan |
+
 III. Ifjúsági ügyek, gyermekvállalás, családalapítás, életmód
 
-1.[^19] Támogatni kell a gyermekek családban történő nevelkedését. A gyermekvédelmi szakellátásba kerülés megelőzése érdekében erősíteni kell a szülőkre irányuló figyelmet. A családi válsághelyzetek, a családban lévő működési zavarok kezelése, csökkentése érdekében támogatni kell a szülői kompetenciafejlesztésre, a szülők edukációjára irányuló programok megvalósítását és a megelőző közösségi alapú kezdeményezéseket. A gyermekvédelmi szakellátásban részesülő gyermek esetében családi kapcsolatainak fenntartása, kialakítása érdekében innovatív programok kidolgozása vagy adaptálása szükséges. Indokolt a vér szerinti családba történő hazagondozás vagy az örökbefogadás elősegítése, a hazagondozás hatékonyságának növelése és utánkövetése.
+1.[^20] Támogatni kell a gyermekek családban történő nevelkedését. A gyermekvédelmi szakellátásba kerülés megelőzése érdekében erősíteni kell a szülőkre irányuló figyelmet. A családi válsághelyzetek, a családban lévő működési zavarok kezelése, csökkentése érdekében támogatni kell a szülői kompetenciafejlesztésre, a szülők edukációjára irányuló programok megvalósítását és a megelőző közösségi alapú kezdeményezéseket. A gyermekvédelmi szakellátásban részesülő gyermek esetében családi kapcsolatainak fenntartása, kialakítása érdekében innovatív programok kidolgozása vagy adaptálása szükséges. Indokolt a vér szerinti családba történő hazagondozás vagy az örökbefogadás elősegítése, a hazagondozás hatékonyságának növelése és utánkövetése.
 
 | Felelős: | a gyermekek és az ifjúság védelméért felelős miniszter a gyermek- és ifjúságpolitikáért felelős miniszter |
 
 | Határidő: | 2021-től, folyamatos |
 
-2.[^20] A gyermekbántalmazás minden formájának visszaszorítása érdekében támogatni kell a gyermekek bántalmazás vagy emberkereskedelem áldozatává válását megelőző egyedi és országos programok megvalósítását, beleértve az online zaklatás minden formájával összefüggő bántalmazást, áldozattá válást is, valamint fejleszteni kell a bántalmazott vagy emberkereskedelem áldozatává vált gyermekek támogatását célzó szolgáltatásokat.
+2.[^21] A gyermekbántalmazás minden formájának visszaszorítása érdekében támogatni kell a gyermekek bántalmazás vagy emberkereskedelem áldozatává válását megelőző egyedi és országos programok megvalósítását, beleértve az online zaklatás minden formájával összefüggő bántalmazást, áldozattá válást is, valamint fejleszteni kell a bántalmazott vagy emberkereskedelem áldozatává vált gyermekek támogatását célzó szolgáltatásokat.
 
 | Felelős: | a gyermekek és az ifjúság védelméért felelős miniszter |
 
 | Határidő: | 2021-től, folyamatos |
 
-3.[^21] A gyermekvédelmi szakellátásban elhelyezett gyermekek, fiatal felnőttek társadalmi integrációjának elősegítése érdekében meg kell vizsgálni annak lehetőségét, hogy azok a kistelepülések, ahol nagyszámú nevelőszülői vagy gyermekotthoni férőhely működik, és ebből következően a településen élő gyermekek körében a gyermekvédelmi szakellátásban részesülők aránya magas, a köznevelési és egészségügyi feladatellátás központi költségvetési támogatásában külön kompenzációs forrásban részesülhessenek. Ez az adott települési önkormányzatnak nyújtott támogatással, valamint az adott településen működő iskolák többletfeladat-ellátásának kompenzációs célú támogatási lehetőségének megteremtésével érhető el.
+3.[^22] A gyermekvédelmi szakellátásban elhelyezett gyermekek, fiatal felnőttek társadalmi integrációjának elősegítése érdekében meg kell vizsgálni annak lehetőségét, hogy azok a kistelepülések, ahol nagyszámú nevelőszülői vagy gyermekotthoni férőhely működik, és ebből következően a településen élő gyermekek körében a gyermekvédelmi szakellátásban részesülők aránya magas, a köznevelési és egészségügyi feladatellátás központi költségvetési támogatásában külön kompenzációs forrásban részesülhessenek. Ez az adott települési önkormányzatnak nyújtott támogatással, valamint az adott településen működő iskolák többletfeladat-ellátásának kompenzációs célú támogatási lehetőségének megteremtésével érhető el.
 
 | Felelős: | a gyermekek és az ifjúság védelméért felelős miniszter a köznevelésért felelős miniszter az egészségügyért felelős miniszter |
 
 | Határidő: | 2021-től, folyamatos |
 
-4.[^22] Meg kell vizsgálni annak lehetőségét, hogy a szolgáltatáshiányos településeken, illetve az elmaradott településrészeken javuljon az önkormányzatok által biztosított humán közszolgáltatásokhoz való hozzáférés, különös tekintettel a családokról, gyermekekről, fogyatékos személyekről, időskorúakról, szenvedélybetegekről, pszichiátriai betegekről és hajléktalan emberekről gondoskodó szociális alapellátások vonatkozásában. A költségvetési lehetőségeknek megfelelően szükséges a szociális igazgatásról és szociális ellátásokról szóló és a gyermekek védelméről és a gyámügyi igazgatásról szóló törvényben meghatározott szolgáltatásokhoz való egyenlő esélyű hozzáférés biztosítása új szolgáltatások megszervezésével, illetve a már működő ellátások infrastrukturális fejlesztésével.
+4.[^23] Meg kell vizsgálni annak lehetőségét, hogy a szolgáltatáshiányos településeken, illetve az elmaradott településrészeken javuljon az önkormányzatok által biztosított humán közszolgáltatásokhoz való hozzáférés, különös tekintettel a családokról, gyermekekről, fogyatékos személyekről, időskorúakról, szenvedélybetegekről, pszichiátriai betegekről és hajléktalan emberekről gondoskodó szociális alapellátások vonatkozásában. A költségvetési lehetőségeknek megfelelően szükséges a szociális igazgatásról és szociális ellátásokról szóló és a gyermekek védelméről és a gyámügyi igazgatásról szóló törvényben meghatározott szolgáltatásokhoz való egyenlő esélyű hozzáférés biztosítása új szolgáltatások megszervezésével, illetve a már működő ellátások infrastrukturális fejlesztésével.
 
 | Felelős: | a gyermekek és az ifjúság védelméért felelős miniszter a szociálpolitikáért felelős miniszter a területfejlesztés stratégiai tervezéséért felelős miniszter a felnőttképzésért felelős miniszter |
 
@@ -252,13 +258,13 @@ társadalmi felzárkózásért felelős miniszter
 
 Határidő: 2022-től, folyamatos
 
-6.[^23] A gyermekek családban való nevelkedésének elősegítése, illetve a családból történő kiemelésének elkerülése, továbbá a krízishelyzetben lévő családok esetében a család egységének megtartása érdekében szükséges az átmeneti elhelyezést nyújtó családok átmeneti otthona fejlesztése, különösképpen a külső férőhelyek számának növelése.
+6.[^24] A gyermekek családban való nevelkedésének elősegítése, illetve a családból történő kiemelésének elkerülése, továbbá a krízishelyzetben lévő családok esetében a család egységének megtartása érdekében szükséges az átmeneti elhelyezést nyújtó családok átmeneti otthona fejlesztése, különösképpen a külső férőhelyek számának növelése.
 
 | Felelős: | a gyermekek és az ifjúság védelméért felelős miniszter |
 
 | Határidő: | 2021-től, folyamatos |
 
-7.[^24] A sérülékeny csoportba tartozók, rászorulók segítséghez történő hozzájutásának bővítése érdekében javasolt a szolgáltatások nyitvatartási idejének meghosszabbítása és a hétvégi nyitvatartás biztosítása, hogy a szolgáltatás jobban igazodjon az igénybevevők szükségletéhez, igényéhez és a hozzátartozók munkaidejéhez.
+7.[^25] A sérülékeny csoportba tartozók, rászorulók segítséghez történő hozzájutásának bővítése érdekében javasolt a szolgáltatások nyitvatartási idejének meghosszabbítása és a hétvégi nyitvatartás biztosítása, hogy a szolgáltatás jobban igazodjon az igénybevevők szükségletéhez, igényéhez és a hozzátartozók munkaidejéhez.
 
 Felelős: szociálpolitikáért felelős miniszter
 
@@ -270,7 +276,7 @@ Felelős: kultúráért felelős miniszter
 
 Határidő: 2021-től, folyamatos
 
-9.[^25] Meg kell alapozni a hátrányos helyzetű fiatalok integrációjának elősegítésére, valamint aktivitásuk és társadalmi kohéziójuk növelését szolgáló élménypedagógiai, a fizikai aktivitásra építő programok infrastrukturális hátterét.
+9.[^26] Meg kell alapozni a hátrányos helyzetű fiatalok integrációjának elősegítésére, valamint aktivitásuk és társadalmi kohéziójuk növelését szolgáló élménypedagógiai, a fizikai aktivitásra építő programok infrastrukturális hátterét.
 
 | Felelős: | a gyermekek és az ifjúság védelméért felelős miniszter az államháztartásért felelős miniszter |
 
@@ -288,7 +294,7 @@ Felelős: bűncselekmények megelőzéséért felelős miniszter
 
 Határidő: 2021-től, folyamatos
 
-12.[^26] Az iskola-egészségügy és a védőnői szolgálat prevenciós munkájának megerősítésén belül szükséges a teljes körű iskolai egészségfejlesztés továbbfejlesztése, gyakorlati megvalósulásának elősegítése, különösen a hátrányos helyzetű településeken. Szükséges a függőségek komplex megelőzése – beleértve a digitális függőségeket is – a szociális kompetencia és készségek fejlesztésével, iskolán kívüli színtereket és családokat is bevonva, különös tekintettel a hátrányos helyzetű célcsoportra.
+12.[^27] Az iskola-egészségügy és a védőnői szolgálat prevenciós munkájának megerősítésén belül szükséges a teljes körű iskolai egészségfejlesztés továbbfejlesztése, gyakorlati megvalósulásának elősegítése, különösen a hátrányos helyzetű településeken. Szükséges a függőségek komplex megelőzése – beleértve a digitális függőségeket is – a szociális kompetencia és készségek fejlesztésével, iskolán kívüli színtereket és családokat is bevonva, különös tekintettel a hátrányos helyzetű célcsoportra.
 
 Felelős: szociálpolitikáért felelős miniszter
 
@@ -313,6 +319,12 @@ családpolitikáért felelős miniszter
 áldozatsegítésért felelős miniszter
 
 Határidő: 2021-től, folyamatos
+
+15.[^28] Folytatni kell a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 2. § a) pontjában foglalt harmadik országbeli állampolgárokat érintő szolgáltatások fejlesztésére irányuló intézkedések megvalósítását, köztük az átmeneti védelemre jogosult Ukrajnából érkezők komplex támogatását a lakhatás, munkavállalás, magyar nyelvi képzés, iskolai felzárkózás, az emberkereskedelem elleni küzdelem és az áldozatok védelme, valamint a kísérő nélküli kiskorúaknak nyújtott szolgáltatások területén.
+
+| Felelős: | idegenrendészetért és menekültügyért felelős miniszter a gyermekek és az ifjúság védelméért felelős miniszter |
+
+| Határidő: | folyamatos |
 
 IV. Foglalkoztatás, munkavállalás, felnőttképzés, szociális gazdaság
 
@@ -366,7 +378,7 @@ Felelős: kultúráért felelős miniszter
 
 Határidő: 2021-től, folyamatos
 
-9.[^27] A leghátrányosabb helyzetű munkaerőpiaci csoportok integrációja érdekében szükséges a hazai szociális gazdaságot, ezen belül a társadalmi célú vállalkozásokat egyértelműen definiáló jogi környezet kialakítása, ezt követően stratégia megalkotása. Ennek részeként az intézményrendszerének fejlesztése révén, a szociális gazdaság szervezeteinek és eszközeinek támogatásával bővíteni kell a hátrányos helyzetű emberek foglalkoztatását, valamint meg kell alapozni egy egyszerű, jól alkalmazható, a szervezetek által vállalt társadalmi célokhoz igazítható hatásmérési modell és mérési eszköztár kidolgozását és elterjesztését.
+9.[^29] A leghátrányosabb helyzetű munkaerőpiaci csoportok integrációja érdekében szükséges a hazai szociális gazdaságot, ezen belül a társadalmi célú vállalkozásokat egyértelműen definiáló jogi környezet kialakítása, ezt követően stratégia megalkotása. Ennek részeként az intézményrendszerének fejlesztése révén, a szociális gazdaság szervezeteinek és eszközeinek támogatásával bővíteni kell a hátrányos helyzetű emberek foglalkoztatását, valamint meg kell alapozni egy egyszerű, jól alkalmazható, a szervezetek által vállalt társadalmi célokhoz igazítható hatásmérési modell és mérési eszköztár kidolgozását és elterjesztését.
 
 Felelős: társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter
 
@@ -404,7 +416,7 @@ közlekedésért felelős miniszter
 
 Határidő: 2021-től, folyamatos
 
-13.[^28] Folytatni kell a térségi és települési felzárkózáshoz kapcsolódó helyi gazdaságfejlesztési intézkedéseket: a társadalmi vállalkozások, elsődlegesen a helyi önkormányzat tagságával rendelkező szociális szövetkezetek a helyi adottságokhoz igazodó termelő, feldolgozó, szolgáltató vállalkozási tevékenységének támogatásával, valamint helyi termék-előállításhoz, mezőgazdasági termékek térségi piacra jutását elősegítő, termelést követő műveletekhez, kezeléshez kapcsolódó közösségi, önkormányzati többségi tulajdonú agrárlogisztikai infrastruktúra kialakításával.
+13.[^30] Folytatni kell a térségi és települési felzárkózáshoz kapcsolódó helyi gazdaságfejlesztési intézkedéseket: a társadalmi vállalkozások, elsődlegesen a helyi önkormányzat tagságával rendelkező szociális szövetkezetek a helyi adottságokhoz igazodó termelő, feldolgozó, szolgáltató vállalkozási tevékenységének támogatásával, valamint helyi termék-előállításhoz, mezőgazdasági termékek térségi piacra jutását elősegítő, termelést követő műveletekhez, kezeléshez kapcsolódó közösségi, önkormányzati többségi tulajdonú agrárlogisztikai infrastruktúra kialakításával.
 
 Felelős: területfejlesztés stratégiai tervezéséért felelős miniszter
 
@@ -422,7 +434,7 @@ Felelős: társadalmi felzárkózásért felelős miniszter
 
 Határidő: az EFOP Plusz tervidőszak ütemezésének megfelelően, folyamatos
 
-2.[^29] A városi jellegű településeken folytatni kell a szociális városrehabilitációs intézkedéseket az érintett, települési szövetbe ágyazott városrészek meglévő funkcióinak fejlesztésével, új gazdasági, szociális, közösségi és közterületi funkciók kialakításával, valamint szükséges esetben a településtesttől elkülönült telepek felszámolásával, az ott élők integrációjának segítésével. Továbbra is fontos a közösségformálást erősítő terek, létesítmények fejlesztése, beleértve új közösségi funkciók létrehozását, meglévők megerősítését. Kiemelt figyelmet kell fordítani a lakhatás legalizálására, a lakhatási biztonság növelésére, valamint a lakhatási körülmények infrastrukturális feltételeinek a javítására.
+2.[^31] A városi jellegű településeken folytatni kell a szociális városrehabilitációs intézkedéseket az érintett, települési szövetbe ágyazott városrészek meglévő funkcióinak fejlesztésével, új gazdasági, szociális, közösségi és közterületi funkciók kialakításával, valamint szükséges esetben a településtesttől elkülönült telepek felszámolásával, az ott élők integrációjának segítésével. Továbbra is fontos a közösségformálást erősítő terek, létesítmények fejlesztése, beleértve új közösségi funkciók létrehozását, meglévők megerősítését. Kiemelt figyelmet kell fordítani a lakhatás legalizálására, a lakhatási biztonság növelésére, valamint a lakhatási körülmények infrastrukturális feltételeinek a javítására.
 
 Felelős: lakáspolitikáért felelős miniszter
 
@@ -432,7 +444,7 @@ területfejlesztés stratégiai tervezéséért felelős miniszter
 
 Határidő: a TOP Plusz tervidőszak ütemezésének megfelelően, folyamatos
 
-3.[^30] A szegregátumokban élők helyzetének célzott javítása érdekében szükséges az Országos Szegregációs Adatbázis aktualizálása a 2022. évi népszámlálás alapján.
+3.[^32] A szegregátumokban élők helyzetének célzott javítása érdekében szükséges az Országos Szegregációs Adatbázis aktualizálása a 2022. évi népszámlálás alapján.
 
 Felelős: közigazgatás-szervezésért felelős miniszter a KSH bevonásával
 
@@ -450,13 +462,13 @@ Felelős: diagnózis alapú felzárkózási roma stratégia előkészítésének
 
 Határidő: 2021-től, folyamatos
 
-6.[^31] A Vidékfejlesztési Program keretében meghirdetésre kerülő beruházási pályázatoknál előnyben kell részesíteni azt a pályázót, aki a kedvezményezett járások besorolásáról, szóló Korm. rendelet, a kedvezményezett települések besorolásáról és a besorolás feltételrendszeréről szóló Korm. rendelet, valamint a Magyarország egyes területei közötti gazdasági egyenlőtlenség csökkentése érdekében szükséges fejlesztési programcsomagról szóló Korm. határozat, a „Felzárkózó települések” hosszú távú programjának megalapozásáról szóló Korm. határozat vagy a „Felzárkózó települések” és a gazdaságélénkítő program folytatása érdekében teendő további intézkedésekről szóló Korm. határozat, illetve a további települések bevonásáról szóló Korm. határozatok alapján besorolt településen kívánja a fejlesztését megvalósítani.
+6.[^33] A Vidékfejlesztési Program keretében meghirdetésre kerülő beruházási pályázatoknál előnyben kell részesíteni azt a pályázót, aki a kedvezményezett járások besorolásáról, szóló Korm. rendelet, a kedvezményezett települések besorolásáról és a besorolás feltételrendszeréről szóló Korm. rendelet, valamint a Magyarország egyes területei közötti gazdasági egyenlőtlenség csökkentése érdekében szükséges fejlesztési programcsomagról szóló Korm. határozat, a „Felzárkózó települések” hosszú távú programjának megalapozásáról szóló Korm. határozat vagy a „Felzárkózó települések” és a gazdaságélénkítő program folytatása érdekében teendő további intézkedésekről szóló Korm. határozat, illetve a további települések bevonásáról szóló Korm. határozatok alapján besorolt településen kívánja a fejlesztését megvalósítani.
 
 Felelős: vidékfejlesztésért felelős miniszter
 
 Határidő: 2023. december 31.
 
-7.[^32] Folytatni kell a leginkább rászorulók anyagi nélkülözését enyhítő programokat, melyek célja az alapvető élelmiszerekből összeállított csomagok nyújtása, az alapvető fogyasztási cikkek rendszeres juttatása alacsony jövedelműek vagy jövedelemmel nem rendelkezők számára; meleg étkezés biztosítása hajléktalan emberek részére – társadalmi felzárkózást és a szolgáltatásokhoz való hozzáférést segítő kísérő intézkedések biztosításával.
+7.[^34] Folytatni kell a leginkább rászorulók anyagi nélkülözését enyhítő programokat, melyek célja az alapvető élelmiszerekből összeállított csomagok nyújtása, az alapvető fogyasztási cikkek rendszeres juttatása alacsony jövedelműek vagy jövedelemmel nem rendelkezők számára; meleg étkezés biztosítása hajléktalan emberek részére – társadalmi felzárkózást és a szolgáltatásokhoz való hozzáférést segítő kísérő intézkedések biztosításával.
 
 Felelős: szociálpolitikáért felelős miniszter
 
@@ -475,6 +487,42 @@ Felelős: társadalmi felzárkózásért felelős miniszter
 diagnózis alapú felzárkózási roma stratégia előkészítésének és végrehajtásának koordinálásáért felelős miniszterelnöki biztos
 
 Határidő: 2021-től, folyamatos
+
+10.[^35] A Nemzeti Fejlesztés 2030 – Országos Fejlesztési és Területfejlesztési Koncepcióban (a továbbiakban: OFTK) meghatározott célok és prioritások megvalósulásáról szóló tájékoztatásban, valamint az OFTK felülvizsgálata során az új időszakra szóló tervek összeállításában kiemelt figyelmet kell fordítani a szegénység csökkentését és a társadalmi felzárkózás erősítését célzó ágazati beavatkozások összhangjának, valamint területi szempontjainak áttekintésére, tervezésére és fejlesztésére.
+
+| Felelős: | területfejlesztésért felelős miniszter |
+
+| Határidő: | az OFTK ütemezéséhez igazodóan folyamatosan |
+
+11.[^36] A lakhatási beavatkozások tervezése érdekében a Központi Statisztikai Hivatal bevonásával rendszeres adatfelvételek, különösen adminisztratív adatforrásokból származó adatok felhasználásával szükséges a népszámlálás adatait feldolgozni, a szociális bérlakás állományt teljeskörűen felmérni és alakulásának éves nyomon követéséről részletes területi bontásban (megyékre, fejlesztendő és komplex programmal fejlesztendő járásokra) gondoskodni. Biztosítani kell a nyomon követés eredményeinek, statisztikai adatainak nyilvánosságát.
+
+| Felelős: | társadalmi felzárkózásért felelős miniszter |
+
+| Határidő: | folyamatosan |
+
+12.[^37] Az MR Közösségi Lakásalap működésének, valamint az RRF-3.3.1-22 projekt keretében létrehozott szociális bérlakások lakásügynökségi működtetésének tapasztalatait szükséges áttekinteni és értékelni a bérlakások működtetési feladatainak ellátása, fenntarthatósága és a felzárkózási programokkal érintett célcsoport hozzáférhetősége vonatkozásában. A tapasztalatok alapján javaslatokat kell megfogalmazni a közösségi lakhatás alapelveire és jogszabályi környezetére vonatkozóan.
+
+| Felelős: | diagnózis alapú felzárkózási stratégia végrehajtásáért felelős miniszterelnöki biztos |
+
+| Határidő: | 2025. június 30. |
+
+13.[^38] A fejlesztések kezdetétől szakpolitikai szempontból is nyomon kell követni és folyamatában is értékelni szükséges az EFOP Plusz 3. és 7., valamint a TOP Plusz 1. és 3. prioritás deszegregációs célkitűzéseinek megvalósítását. Ehhez folyamatosan működtethető, szakpolitikai szempontú nyomonkövetési és értékelési módszertant kell kidolgozni, meg kell kezdeni a rendszeres adatgyűjtést és a rendszeres jelentések összeállítását.
+
+| Felelős: | társadalmi felzárkózásért felelős miniszter területfejlesztésért felelős miniszter |
+
+| Határidő: | az első jelentés összeállítására 2025. június 30. |
+
+14.[^39] A bérlakáspiacon tapasztalható diszkriminációs jelenségek, különösen az etnikai alapú diszkrimináció jelenségeinek feltárására kutatást kell indítani. A kutatás tapasztalatai nyomán javaslatokat kell megfogalmazni a lehetséges szakpolitikai beavatkozásokat illetően. Gondoskodni kell a kutatás eredményeinek nyilvánosságáról.
+
+| Felelős: | lakáspolitikáért felelős miniszter társadalmi felzárkózásért felelős miniszter |
+
+| Határidő: | 2025. június 30. |
+
+15.[^40] A Központi Statisztikai Hivatal bevonásával a 2022. évi népszámlálási adatok feldolgozása alapján a települési önkormányzatok számára biztosítani kell a szegregátumok és a szegregációval veszélyeztetett területek meghatározását.
+
+| Felelős: | területfejlesztésért felelős miniszter társadalmi felzárkózásért felelős miniszter |
+
+| Határidő: | 2025. június 30. |
 
 VI. Testi-lelki egészség, egészségügyi ellátás
 
@@ -496,7 +544,7 @@ Felelős: egészségügyért felelős miniszter
 
 Határidő: 2021-től, folyamatos
 
-4.[^33] Célzott programokkal fejleszteni kell a hátrányos helyzetű társadalmi csoportok egészségkultúráját és egészségtudatosságát, kiemelt figyelemmel az egészségkárosító életmódra, hangsúlyosan a szenvedélybetegségekre, a szerhasználat megelőzésére.
+4.[^41] Célzott programokkal fejleszteni kell a hátrányos helyzetű társadalmi csoportok egészségkultúráját és egészségtudatosságát, kiemelt figyelemmel az egészségkárosító életmódra, hangsúlyosan a szenvedélybetegségekre, a szerhasználat megelőzésére.
 
 Felelős: egészségügyért felelős miniszter
 
@@ -504,7 +552,7 @@ köznevelésért felelős miniszter
 
 Határidő: 2021-től, folyamatos
 
-5.[^34] Az anyagilag rászoruló személyek egészségi állapotának megőrzése, helyreállítása, a szükséges gyógyszerek, gyógyászati segédeszközök elérése érdekében biztosítani kell, hogy a közgyógyellátásra valamennyi rászoruló személy jogosulttá váljon.
+5.[^42] Az anyagilag rászoruló személyek egészségi állapotának megőrzése, helyreállítása, a szükséges gyógyszerek, gyógyászati segédeszközök elérése érdekében biztosítani kell, hogy a közgyógyellátásra valamennyi rászoruló személy jogosulttá váljon.
 
 Felelős: szociálpolitikáért felelős miniszter
 
@@ -550,7 +598,7 @@ Felelős: társadalmi felzárkózásért felelős miniszter
 
 Határidő: 2021-től, folyamatos
 
-2.[^35] A felnövekvő generációk szemléletformálása, társadalmi együttélésre, kölcsönös megértésre nevelése szempontjából fontos a legnagyobb hazai nemzetiség, a roma népesség történelmének, társadalomtörténetének hangsúlyosabb megjelenítése, a roma kulturális értékek felmutatása a köznevelésben, valamint a roma nemzetiségi oktatás fejlesztése.
+2.[^43] A felnövekvő generációk szemléletformálása, társadalmi együttélésre, kölcsönös megértésre nevelése szempontjából fontos a legnagyobb hazai nemzetiség, a roma népesség történelmének, társadalomtörténetének hangsúlyosabb megjelenítése, a roma kulturális értékek felmutatása a köznevelésben, valamint a roma nemzetiségi oktatás fejlesztése.
 
 Felelős: köznevelésért felelős miniszter
 
@@ -570,7 +618,7 @@ Felelős: kultúráért felelős miniszter
 
 Határidő: 2021-től, folyamatos
 
-5.[^36] A közösség életében jelentős szerepet játszó civil szervezetekkel olyan speciális megállapodás megkötése szükséges, melynek célja: az érintett felzárkóztatni kívánt közösségek rendszeres, időszakos tájékoztatása a jogszabályi változásokról, azok alkalmazásáról, értelmezéséről; az ágazati közigazgatás színtereinek és feladatkörének ismertetése – ezáltal az ügyintézés megkönnyítése; a mindennapokban hasznos és elengedhetetlen, az agrárium, valamint a környezet- és természetvédelem témakörét érintő információk, módszerek, megoldások bemutatása, gyakorlatban történő alkalmazása.
+5.[^44] A közösség életében jelentős szerepet játszó civil szervezetekkel olyan speciális megállapodás megkötése szükséges, melynek célja: az érintett felzárkóztatni kívánt közösségek rendszeres, időszakos tájékoztatása a jogszabályi változásokról, azok alkalmazásáról, értelmezéséről; az ágazati közigazgatás színtereinek és feladatkörének ismertetése – ezáltal az ügyintézés megkönnyítése; a mindennapokban hasznos és elengedhetetlen, az agrárium, valamint a környezet- és természetvédelem témakörét érintő információk, módszerek, megoldások bemutatása, gyakorlatban történő alkalmazása.
 
 Felelős vidékfejlesztésért felelős miniszter
 
@@ -610,13 +658,13 @@ Felelős: társadalmi felzárkózásért felelős miniszter
 
 Határidő: az EFOP Plusz tervidőszak ütemezésének megfelelően, folyamatos
 
-2.[^37] Fejleszteni kell a statisztikai adatgyűjtéseket a szegénységben és társadalmi kirekesztettségben élők életkörülményeiről, valamint a különböző hátrányos helyzetű csoportok ellátásairól annak érdekében, hogy vizsgálható legyen a szegénység továbbörökítésének kérdése, biztosított legyen az intézkedések célzottságának és eredményeinek nyomon követése, értékelése.
+2.[^45] Fejleszteni kell a statisztikai adatgyűjtéseket a szegénységben és társadalmi kirekesztettségben élők életkörülményeiről, valamint a különböző hátrányos helyzetű csoportok ellátásairól annak érdekében, hogy vizsgálható legyen a szegénység továbbörökítésének kérdése, biztosított legyen az intézkedések célzottságának és eredményeinek nyomon követése, értékelése.
 
 Felelős: közigazgatás-szervezésért felelős miniszter a KSH bevonásával
 
 Határidő: folyamatos
 
-3.[^38] Fejleszteni kell a gyermekek esélynövelő szolgáltatásaiban részesülő gyerekek esetében (Biztos Kezdet Gyerekház és tanoda) a KIR rendszerben történő nyomonkövethetőséget. A Biztos Kezdet Gyerekházak szolgáltatásaiban részesülő 3 éves és fiatalabb gyermekek esetében az óvodai nevelésbe kerüléstől, a tanoda szolgáltatásaiban részesülők esetében az általános és középfokú tanulmányokhoz kötötten, az oktatási azonosítójukhoz kapcsolva érhető el, hogy látszódjon az esélynövelő szolgáltatás igénybevételének az előzménye a köznevelés rendszerében működtetett adatkezelési rendszerekben.
+3.[^46] Fejleszteni kell a gyermekek esélynövelő szolgáltatásaiban részesülő gyerekek esetében (Biztos Kezdet Gyerekház és tanoda) a KIR rendszerben történő nyomonkövethetőséget. A Biztos Kezdet Gyerekházak szolgáltatásaiban részesülő 3 éves és fiatalabb gyermekek esetében az óvodai nevelésbe kerüléstől, a tanoda szolgáltatásaiban részesülők esetében az általános és középfokú tanulmányokhoz kötötten, az oktatási azonosítójukhoz kapcsolva érhető el, hogy látszódjon az esélynövelő szolgáltatás igénybevételének az előzménye a köznevelés rendszerében működtetett adatkezelési rendszerekben.
 
 Felelős: köznevelésért felelős miniszter
 
@@ -654,23 +702,31 @@ Határidő: folyamatos
 [^16]: Az 1. melléklet II. alcím 22. pontja az 1520/2022. (XI. 2.) Korm. határozat 70. pont i) pontja szerint módosított szöveg.
 [^17]: Az 1. melléklet II. alcím 23. pontja az 1520/2022. (XI. 2.) Korm. határozat 70. pont j) pontja szerint módosított szöveg.
 [^18]: Az 1. melléklet II. alcím 24. pontja az 1520/2022. (XI. 2.) Korm. határozat 70. pont k) pontja szerint módosított szöveg.
-[^19]: Az 1. melléklet III. alcím 1. pontja az 1520/2022. (XI. 2.) Korm. határozat 69. pontjával megállapított szöveg.
-[^20]: Az 1. melléklet III. alcím 2. pontja az 1520/2022. (XI. 2.) Korm. határozat 69. pontjával megállapított szöveg.
-[^21]: Az 1. melléklet III. alcím 3. pontja az 1520/2022. (XI. 2.) Korm. határozat 69. pontjával megállapított szöveg.
-[^22]: Az 1. melléklet III. alcím 4. pontja az 1520/2022. (XI. 2.) Korm. határozat 69. pontjával megállapított szöveg.
-[^23]: Az 1. melléklet III. alcím 6. pontja az 1520/2022. (XI. 2.) Korm. határozat 69. pontjával megállapított szöveg.
-[^24]: Az 1. melléklet III. alcím 7. pontja az 1520/2022. (XI. 2.) Korm. határozat 70. pont l) pontja szerint módosított szöveg.
-[^25]: Az 1. melléklet III. alcím 9. pontja az 1520/2022. (XI. 2.) Korm. határozat 69. pontjával megállapított szöveg.
-[^26]: Az 1. melléklet III. alcím 12. pontja az 1520/2022. (XI. 2.) Korm. határozat 70. pont m) pontja szerint módosított szöveg.
-[^27]: Az 1. melléklet IV. alcím 9. pontja az 1520/2022. (XI. 2.) Korm. határozat 70. pont n) pontja szerint módosított szöveg.
-[^28]: Az 1. melléklet IV. alcím 13. pontja az 1520/2022. (XI. 2.) Korm. határozat 70. pont o) pontja szerint módosított szöveg.
-[^29]: Az 1. melléklet V. alcím 2. pontja az 1520/2022. (XI. 2.) Korm. határozat 71. pontja szerint módosított szöveg.
-[^30]: Az 1. melléklet V. alcím 3. pontja az 1520/2022. (XI. 2.) Korm. határozat 70. pont p) pontja szerint módosított szöveg.
-[^31]: Az 1. melléklet V. alcím 6. pontja az 1520/2022. (XI. 2.) Korm. határozat 70. pont q) pontja szerint módosított szöveg.
-[^32]: Az 1. melléklet V. alcím 7. pontja az 1520/2022. (XI. 2.) Korm. határozat 70. pont r) pontja szerint módosított szöveg.
-[^33]: Az 1. melléklet VI. alcím 4. pontja az 1520/2022. (XI. 2.) Korm. határozat 70. pont s) pontja szerint módosított szöveg.
-[^34]: Az 1. melléklet VI. alcím 5. pontja az 1520/2022. (XI. 2.) Korm. határozat 70. pont t) pontja szerint módosított szöveg.
-[^35]: Az 1. melléklet VII. alcím 2. pontja az 1520/2022. (XI. 2.) Korm. határozat 70. pont u) pontja szerint módosított szöveg.
-[^36]: Az 1. melléklet VII. alcím 5. pontja az 1520/2022. (XI. 2.) Korm. határozat 70. pont v) pontja szerint módosított szöveg.
-[^37]: Az 1. melléklet IX. alcím 2. pontja az 1520/2022. (XI. 2.) Korm. határozat 70. pont w) pontja szerint módosított szöveg.
-[^38]: Az 1. melléklet IX. alcím 3. pontja az 1520/2022. (XI. 2.) Korm. határozat 70. pont x) pontja szerint módosított szöveg.
+[^19]: Az 1. melléklet II. alcím 25. pontját az 1442/2024. (XII. 30.) Korm. határozat 2. pontja iktatta be.
+[^20]: Az 1. melléklet III. alcím 1. pontja az 1520/2022. (XI. 2.) Korm. határozat 69. pontjával megállapított szöveg.
+[^21]: Az 1. melléklet III. alcím 2. pontja az 1520/2022. (XI. 2.) Korm. határozat 69. pontjával megállapított szöveg.
+[^22]: Az 1. melléklet III. alcím 3. pontja az 1520/2022. (XI. 2.) Korm. határozat 69. pontjával megállapított szöveg.
+[^23]: Az 1. melléklet III. alcím 4. pontja az 1520/2022. (XI. 2.) Korm. határozat 69. pontjával megállapított szöveg.
+[^24]: Az 1. melléklet III. alcím 6. pontja az 1520/2022. (XI. 2.) Korm. határozat 69. pontjával megállapított szöveg.
+[^25]: Az 1. melléklet III. alcím 7. pontja az 1520/2022. (XI. 2.) Korm. határozat 70. pont l) pontja szerint módosított szöveg.
+[^26]: Az 1. melléklet III. alcím 9. pontja az 1520/2022. (XI. 2.) Korm. határozat 69. pontjával megállapított szöveg.
+[^27]: Az 1. melléklet III. alcím 12. pontja az 1520/2022. (XI. 2.) Korm. határozat 70. pont m) pontja szerint módosított szöveg.
+[^28]: Az 1. melléklet III. alcím 15. pontját az 1442/2024. (XII. 30.) Korm. határozat 2. pontja iktatta be.
+[^29]: Az 1. melléklet IV. alcím 9. pontja az 1520/2022. (XI. 2.) Korm. határozat 70. pont n) pontja szerint módosított szöveg.
+[^30]: Az 1. melléklet IV. alcím 13. pontja az 1520/2022. (XI. 2.) Korm. határozat 70. pont o) pontja szerint módosított szöveg.
+[^31]: Az 1. melléklet V. alcím 2. pontja az 1520/2022. (XI. 2.) Korm. határozat 71. pontja szerint módosított szöveg.
+[^32]: Az 1. melléklet V. alcím 3. pontja az 1520/2022. (XI. 2.) Korm. határozat 70. pont p) pontja szerint módosított szöveg.
+[^33]: Az 1. melléklet V. alcím 6. pontja az 1520/2022. (XI. 2.) Korm. határozat 70. pont q) pontja szerint módosított szöveg.
+[^34]: Az 1. melléklet V. alcím 7. pontja az 1520/2022. (XI. 2.) Korm. határozat 70. pont r) pontja szerint módosított szöveg.
+[^35]: Az 1. melléklet V. alcím 10. pontját az 1442/2024. (XII. 30.) Korm. határozat 2. pontja iktatta be.
+[^36]: Az 1. melléklet V. alcím 11. pontját az 1442/2024. (XII. 30.) Korm. határozat 2. pontja iktatta be.
+[^37]: Az 1. melléklet V. alcím 12. pontját az 1442/2024. (XII. 30.) Korm. határozat 2. pontja iktatta be.
+[^38]: Az 1. melléklet V. alcím 13. pontját az 1442/2024. (XII. 30.) Korm. határozat 2. pontja iktatta be.
+[^39]: Az 1. melléklet V. alcím 14. pontját az 1442/2024. (XII. 30.) Korm. határozat 2. pontja iktatta be.
+[^40]: Az 1. melléklet V. alcím 15. pontját az 1442/2024. (XII. 30.) Korm. határozat 2. pontja iktatta be.
+[^41]: Az 1. melléklet VI. alcím 4. pontja az 1520/2022. (XI. 2.) Korm. határozat 70. pont s) pontja szerint módosított szöveg.
+[^42]: Az 1. melléklet VI. alcím 5. pontja az 1520/2022. (XI. 2.) Korm. határozat 70. pont t) pontja szerint módosított szöveg.
+[^43]: Az 1. melléklet VII. alcím 2. pontja az 1520/2022. (XI. 2.) Korm. határozat 70. pont u) pontja szerint módosított szöveg.
+[^44]: Az 1. melléklet VII. alcím 5. pontja az 1520/2022. (XI. 2.) Korm. határozat 70. pont v) pontja szerint módosított szöveg.
+[^45]: Az 1. melléklet IX. alcím 2. pontja az 1520/2022. (XI. 2.) Korm. határozat 70. pont w) pontja szerint módosított szöveg.
+[^46]: Az 1. melléklet IX. alcím 3. pontja az 1520/2022. (XI. 2.) Korm. határozat 70. pont x) pontja szerint módosított szöveg.
