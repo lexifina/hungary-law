@@ -22,6 +22,12 @@ db) a honvédelmi és katonai célú ingatlanon működtetni kívánt szállásh
 
 e)[^42] a honvédelmi és katonai célú ingatlanon működtetni kívánt szálláshely esetében a honvédelmi ágazati munkavédelmi követelményeknek való megfelelés kérdésében az elsőfokú hatósági eljárásban a honvédelemért felelős minisztert
 
+f)[^43] a közhasználatú fürdők létesítésére és üzemeltetésére vonatkozó előírások teljesülésével kapcsolatban
+
+fa) a honvédelmi és katonai célú ingatlanon kívül működtetni kívánt szálláshely esetében elsőfokú eljárásban a fővárosi és vármegyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalát,
+
+fb) a honvédelmi és katonai célú ingatlanon működtetni kívánt szálláshely esetében elsőfokú eljárásban a honvédelemért felelős minisztert
+
 a tevékenység megkezdéséről a bejelentés megtörténtéről szóló igazolás megküldésével értesíti.
 
 [^35]: A 7. § a 441/2015. (XII. 28.) Korm. rendelet 119. § (4) bekezdésével megállapított, nyitó szövegrésze a 155/2019. (VI. 27.) Korm. rendelet 13. § i) pontja szerint módosított szöveg.
@@ -32,3 +38,4 @@ a tevékenység megkezdéséről a bejelentés megtörténtéről szóló igazol
 [^40]: A 7. § d) pontja a 379/2016. (XII. 2.) Korm. rendelet 146. § (2) bekezdésével megállapított szöveg.
 [^41]: A 7. § d) pont da) alpontja a 30/2020. (II. 29.) Korm. rendelet 14. §-a szerint módosított szöveg.
 [^42]: A 7. § e) pontját a 379/2016. (XII. 2.) Korm. rendelet 146. § (3) bekezdése iktatta be.
+[^43]: A 7. § f) pontját a 463/2024. (XII. 30.) Korm. rendelet 41. §-a iktatta be.
