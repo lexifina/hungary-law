@@ -1,6 +1,6 @@
 7. melléklet a 16/2014. (III. 13.) KIM rendelethez[^22]
 
-## A másodfokon, a felülvizsgálati eljárásban vagy a perújítás során eljárt bíróság határozatáról szóló kivonat adattartalma
+A másodfokon, a felülvizsgálati eljárásban vagy a perújítás során eljárt bíróság határozatáról szóló kivonat adattartalma
 
 1. Az eljáró bíróság megnevezése
 

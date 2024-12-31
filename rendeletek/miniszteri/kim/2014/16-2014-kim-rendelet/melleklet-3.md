@@ -1,6 +1,6 @@
 3. melléklet a 16/2014. (III. 13.) KIM rendelethez[^18]
 
-## Az előzetes jognyilatkozatok nyilvántartásából történő adatigényléshez szükséges kérelem adattartalma
+Az előzetes jognyilatkozatok nyilvántartásából történő adatigényléshez szükséges kérelem adattartalma
 
 1. A felvilágosítást kérő adatai
 

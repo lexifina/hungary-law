@@ -1,8 +1,6 @@
-## 23. §[^15]
-
 1. melléklet a 16/2014. (III. 13.) KIM rendelethez[^16]
 
-## A gondnokság alá helyezettek országos nyilvántartásából történő adatigényléshez szükséges kérelem adattartalma
+A gondnokság alá helyezettek országos nyilvántartásából történő adatigényléshez szükséges kérelem adattartalma
 
 1. A felvilágosítást kérő adatai
 
@@ -110,5 +108,4 @@
 
 12.2. címe
 
-[^15]: A 23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^16]: Az 1. melléklet a 29/2016. (XII. 27.) IM rendelet 21. § a) pontjával megállapított szöveg.

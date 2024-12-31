@@ -1,6 +1,6 @@
 2. melléklet a 16/2014. (III. 13.) KIM rendelethez[^17]
 
-## A gondnokság alá helyezettek országos nyilvántartásából, a közfeladatot ellátó szerv általi adatigénylés érdekében történő megkeresés adattartalma
+A gondnokság alá helyezettek országos nyilvántartásából, a közfeladatot ellátó szerv általi adatigénylés érdekében történő megkeresés adattartalma
 
 1. A közfeladatot ellátó szerv adatai
 

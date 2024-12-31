@@ -1,6 +1,6 @@
 6. melléklet a 16/2014. (III. 13.) KIM rendelethez[^21]
 
-## Az OBH adatszolgáltatási díj megfizetésére irányuló felhívásának adattartalma
+Az OBH adatszolgáltatási díj megfizetésére irányuló felhívásának adattartalma
 
 1. Az OBH adatai
 

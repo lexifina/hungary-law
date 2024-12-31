@@ -1,6 +1,6 @@
 5. melléklet a 16/2014. (III. 13.) KIM rendelethez[^20]
 
-## Az OBH adatszolgáltatásának vagy az adatszolgáltatás teljesíthetetlensége esetén az erről szóló tájékoztatásnak az adattartalma
+Az OBH adatszolgáltatásának vagy az adatszolgáltatás teljesíthetetlensége esetén az erről szóló tájékoztatásnak az adattartalma
 
 1. Az OBH adatai
 
