@@ -26,6 +26,8 @@ b) költségtérítéses képzés esetén a munkáltató vagy külső képzőhel
 
 személy lehet.
 
+(8)[^13] A (7) bekezdésben foglaltaktól eltérően a szakmai grémium támogatása esetén, a tutori névjegyzékbe felvehető az a személy is, aki adott szakterületen szakirányú szakképesítéssel vagy felsőfokú végzettséggel nem rendelkezik, vagy aki adott szakterületen szakvizsgával vagy felsőfokú szakképzettséggel és három évnél rövidebb időtartamú gyakorlattal rendelkezik, amennyiben a szakképzési grémium meggyőződött arról, hogy korábban megszerzett szakképesítései, szakmai gyakorlata és képességei alapján a tutori feladatok ellátására alkalmas.
+
 [^6]: A 3. § (1a) bekezdését a 333/2015. (XI. 10.) Korm. rendelet 2. § (1) bekezdése iktatta be, szövege a 287/2018. (XII. 21.) Korm. rendelet 42. § a) pontja, az 529/2020. (XI. 28.) Korm. rendelet 19. § c) pontja szerint módosított szöveg.
 [^7]: A 3. § (3) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
 [^8]: A 3. § (5) bekezdése a 250/2017. (IX. 5.) Korm. rendelet 68. § a) pontja szerint módosított szöveg.
@@ -33,3 +35,4 @@ személy lehet.
 [^10]: A 3. § (5b) bekezdését a 250/2017. (IX. 5.) Korm. rendelet 56. §-a iktatta be, szövege az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
 [^11]: A 3. § (7) bekezdése a 333/2015. (XI. 10.) Korm. rendelet 2. § (3) bekezdésével megállapított, nyitó szövegrésze a 250/2017. (IX. 5.) Korm. rendelet 68. § b) pontja szerint módosított szöveg.
 [^12]: A 3. § (7) bekezdés a) pontja az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^13]: A 3. § (8) bekezdését a 463/2024. (XII. 30.) Korm. rendelet 62. §-a iktatta be.

@@ -1,16 +1,18 @@
 ## 19. Jelentkezés és kiválasztás az RTP-be
 
-28. § (1)[^115] Az OKFŐ az RTP-be való jelentkezésre kiírt pályázatot a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben és a honlapján teszi közzé.
+28. § (1)[^129] Az OKFŐ az RTP-be való jelentkezésre kiírt pályázatot a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben és a honlapján teszi közzé.
 
-(2) A pályázati felhívás tartalmazza
+(2)[^130] A pályázati felhívás tartalmazza
 
 a) a jelentkezés feltételeit,
 
-b) a pályázat benyújtásának határidejét,
+b) a sikeres pályázó részére meghatározott, a szakképzéséhez kapcsolódó teljesítési és vállalási kötelezettségeket,
 
-c) az értékelési szempontokat és
+c) a pályázat benyújtásának határidejét,
 
-d) pályázatonként azon szakmai szervezeteket, amelyek delegáltjai az értékelést végzik.
+d) az értékelési szempontokat és
+
+e) pályázatonként azon szakmai szervezeteket, amelyek delegáltjai az értékelést végzik.
 
 (3) Pályázat benyújtására az jogosult, aki
 
@@ -18,43 +20,38 @@ a) a pályázat benyújtásának időpontjában hazai felsőoktatási intézmén
 
 b) az első szakképzését még nem kezdte meg vagy az elsőként megszerzendő szakképesítésének képzéséből még legalább 1 év van hátra,
 
-c)[^116] vállalja, hogy a szakképesítésének megszerzése után az ösztöndíj folyósítása időtartamának megfelelő ideig hazai, társadalombiztosítás által vagy a Honvédelmi Minisztérium fejezet költségvetéséből finanszírozott egészségügyi szolgáltatónál vagy rendvédelmi szerv által fenntartott egészségügyi szolgáltatónál végez teljes munkaidőben, illetve a (4) bekezdés szerinti feltételekkel részmunkaidőben a támogatott szakképzésben megszerzett szakorvosi vagy szakgyógyszerészi tevékenységet és
+c)[^131] a 26. § (7) bekezdése szerinti ösztöndíj esetében a második, vagy további szakképzését még nem kezdte meg,
 
-d) vállalja, hogy az általa biztosított egészségügyi ellátással összefüggésben semmilyen formában nem fogad el paraszolvenciát.
+d)[^132]
 
-(3a)[^117] A (3) bekezdésben foglaltaktól eltérően a vállalási időszak teljesítése során általános ösztöndíj teljesítése esetén elfogadható
+e)[^133] vállalja, hogy az ösztöndíj pályázatban meghatározott teljesítési és vállalási kötelezettségeit teljesíti.
 
-a) a megszerzett szakképesítéstől eltérő szakterületen, közfinanszírozott egészségügyi szolgáltatónál végzett egészségügyi tevékenység, ha az adott szakterületen az ösztöndíjas szakképzésben vesz részt,
+(3a)[^134] A (3) bekezdésben foglaltaktól eltérően a vállalási időszak teljesítése során a nemzeti felsőoktatásról szóló törvény hatálya alá tartozó egyetemen végzett egészségügyi oktatói tevékenység valamennyi rezidens támogatási program keretében meghirdetett ösztöndíj vonatkoztatásban elfogadható.
 
-b) a Honvédelmi Minisztérium fejezet költségvetéséből finanszírozott vagy rendvédelmi szerv által működtetett intézmény alkalmazásában végzett egészségügyi tevékenység,
+(3b)[^135]
 
-c) egészségügyi államigazgatásban végzett, jogszabály alapján szakorvosi szakképesítéshez kötött munkakörben végzett tevékenység.
+(4)[^136] Részmunkaidős foglalkoztatás esetén a (3) bekezdés d) pontjában meghatározott vállalási időszak annyival hosszabbodik meg, hogy megfeleljen a teljes munkaidejű foglalkoztatás időtartamának.
 
-(3b)[^118] Hiányszakmás ösztöndíj esetében a (3a) bekezdésben meghatározott tevékenység végzése a vállalási időszakban csak abban az esetben fogadható el, ha a szakképesítéstől eltérő egészségügyi tevékenység végzése a megszerzett szakirányon, vagy a megszerzett szakképesítéstől eltérő, a teljesítéskor hiányszakmának minősülő területen újabb szakképesítés megszerzése érdekében történik.
+(5)[^137]
 
-(4) Részmunkaidős foglalkoztatás esetén a (3) bekezdés c) pontjában meghatározott vállalási időszak annyival hosszabbodik meg, hogy megfeleljen a teljes munkaidejű foglalkoztatás időtartamának.
+(6)[^138] A pályázatnak a (2) bekezdés alapján meghatározott szempontok szerinti értékelését követően az ösztöndíjas rezidens RTP-be történő felvételéről az OKFŐ főigazgatója dönt.
 
-(5)[^119] A (3) bekezdés c) pontja szerinti vállalási időszak
+(6a)[^139] Az OKFŐ az RTP-be a (6) bekezdés alapján felvett ösztöndíjas rezidenssel szerződést köt, amely szerződés tartalmazza a 26. § (5) bekezdése szerinti nyilatkozattétel és az ösztöndíj kifizetésének feltételeit, továbbá a szakképzés és a vállalási időszak teljesítésére, szüneteltetésére, valamint szakváltásra vonatkozó részletes szabályokat.
 
-a) a 8. § (1) bekezdése szerinti esetekben az ott meghatározott körülmény fennállásának az időtartamára,
+(7)[^140] Ha az ösztöndíjas rezidens a (3) bekezdés d) és e) pontja szerinti vállalását nem teljesíti, vagy ha a 22. §-ban meghatározott feltételek megállapítására kerül sor, továbbá ha a 26. § (6) bekezdése szerinti ellenőrzése alapján az OKFŐ megállapítja, hogy az ösztöndíjas rezidens nyilatkozata alapján jogosulatlanul került sor az ösztöndíj kifizetésére, az államháztartásról szóló törvény rendelkezéseire figyelemmel az ösztöndíjas rezidens, a részére folyósított ösztöndíj vagy annak jogosulatlanul igénybe vett részének visszafizetésére köteles.
 
-b) kiemelt, valamint hiányszakmás ösztöndíj esetén a teljes munkaidőben további egészségügyi szakképesítés megszerzése érdekében végzett egészségügyi tevékenység időtartamára, vagy
+(8)[^141] Mentesül az ösztöndíjas rezidens a visszafizetési kötelezettség alól, amennyiben a 22. § (6) bekezdése alapján megállapításra kerül, hogy egészségügyi okból vált alkalmatlanná a szakképzés befejezésére vagy a vállalási időszak teljesítésére.
 
-c) egyéb ok miatt összesen legfeljebb 12 hónap időtartamra
-
-szüneteltethető.
-
-(6)[^120] A pályázatnak a (2) bekezdés alapján meghatározott szempontok szerinti értékelését követően a rezidens és a szakgyógyszerész-jelölt RTP-be történő felvételéről az OKFŐ főigazgatója dönt.
-
-(6a)[^121] Az OKFŐ az RTP-be a (6) bekezdés alapján felvett rezidenssel és szakgyógyszerész-jelölttel szerződést köt, amely szerződés meghatározza a 26. § (5) bekezdése szerinti nyilatkozattétel és az ösztöndíj kifizetésének részletes szabályait is.
-
-(7)[^122] Ha a rezidens és a szakgyógyszerész-jelölt a (3) bekezdés c) és d) pontja szerinti vállalását nem teljesíti vagy ha a 22. §-ban meghatározott feltételek megállapítására kerül sor, továbbá ha a 26. § (6) bekezdése szerinti ellenőrzése alapján az OKFŐ megállapítja, hogy a rezidens, illetve a szakgyógyszerész-jelölt nyilatkozata alapján jogosulatlanul került sor az ösztöndíj kifizetésére, az államháztartásról szóló törvény rendelkezéseire figyelemmel a rezidens, illetve a szakgyógyszerész-jelölt a részére folyósított ösztöndíj visszafizetésére köteles.
-
-[^115]: A 28. § (1) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
-[^116]: A 28. § (3) bekezdés c) pontja a 250/2017. (IX. 5.) Korm. rendelet 68. § g) pontja szerint módosított szöveg.
-[^117]: A 28. § (3a) bekezdését a 287/2018. (XII. 21.) Korm. rendelet 38. § (1) bekezdése iktatta be.
-[^118]: A 28. § (3b) bekezdését a 287/2018. (XII. 21.) Korm. rendelet 38. § (1) bekezdése iktatta be.
-[^119]: A 28. § (5) bekezdése a 287/2018. (XII. 21.) Korm. rendelet 38. § (2) bekezdésével megállapított szöveg.
-[^120]: A 28. § (6) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
-[^121]: A 28. § (6a) bekezdését a 90/2016. (IV. 29.) Korm. rendelet 2. § (1) bekezdése iktatta be, szövege az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
-[^122]: A 28. § (7) bekezdése a 90/2016. (IV. 29.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 172/2016. (VII. 1.) Korm. rendelet 77. § f) pontja, az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^129]: A 28. § (1) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^130]: A 28. § (2) bekezdése a 463/2024. (XII. 30.) Korm. rendelet 68. § (1) bekezdésével megállapított szöveg.
+[^131]: A 28. § (3) bekezdés c) pontja a 463/2024. (XII. 30.) Korm. rendelet 68. § (2) bekezdésével megállapított szöveg.
+[^132]: A 28. § (3) bekezdés d) pontját a 463/2024. (XII. 30.) Korm. rendelet 71. § b) pontja hatályon kívül helyezte.
+[^133]: A 28. § (3) bekezdés e) pontját a 463/2024. (XII. 30.) Korm. rendelet 68. § (3) bekezdése iktatta be.
+[^134]: A 28. § (3a) bekezdését a 287/2018. (XII. 21.) Korm. rendelet 38. § (1) bekezdése iktatta be, szövege a 463/2024. (XII. 30.) Korm. rendelet 68. § (4) bekezdésével megállapított szöveg.
+[^135]: A 28. § (3b) bekezdését a 287/2018. (XII. 21.) Korm. rendelet 38. § (1) bekezdése iktatta be, a 463/2024. (XII. 30.) Korm. rendelet 71. § c) pontja hatályon kívül helyezte.
+[^136]: A 28. § (4) bekezdése a 463/2024. (XII. 30.) Korm. rendelet 70. § n) pontja szerint módosított szöveg.
+[^137]: A 28. § (5) bekezdését a 463/2024. (XII. 30.) Korm. rendelet 71. § d) pontja hatályon kívül helyezte.
+[^138]: A 28. § (6) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja, a 463/2024. (XII. 30.) Korm. rendelet 70. § o) pontja szerint módosított szöveg.
+[^139]: A 28. § (6a) bekezdését a 90/2016. (IV. 29.) Korm. rendelet 2. § (1) bekezdése iktatta be, szövege a 463/2024. (XII. 30.) Korm. rendelet 68. § (5) bekezdésével megállapított szöveg.
+[^140]: A 28. § (7) bekezdése a 463/2024. (XII. 30.) Korm. rendelet 68. § (6) bekezdésével megállapított szöveg.
+[^141]: A 28. § (8) bekezdését a 463/2024. (XII. 30.) Korm. rendelet 68. § (7) bekezdése iktatta be.

@@ -1,3 +1,3 @@
-47. §[^169]
+47. §[^191]
 
-[^169]: A 36–47. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^191]: A 36–47. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
