@@ -16,13 +16,9 @@ A Kormány
 
 | Határidő: | a 3. pont szerinti társaság cégnyilvántartásba való bejegyzését követően azonnal |
 
-5. felhívja a Miniszterelnöki Kabinetirodát vezető minisztert, hogy az Ügynökség vagy az Ügynökség tulajdonosi joggyakorlása alá kerülő társaság útján a Hévízgyógyfürdő és Szent András Reumakórház (a továbbiakban: Kórház) fenntartójának a bevonásával gondoskodjon a Kórház jelenlegi színvonalon történő folyamatos működését biztosító intézkedések és források meghatározásáról, továbbá az ehhez szükséges együttműködési megállapodás megkötéséről;
+5.[^1]
 
-| Felelős: | Miniszterelnöki Kabinetirodát vezető miniszter belügyminiszter |
-
-| Határidő: | 2023. december 31. |
-
-6. egyetért azzal, hogy a 2. pont szerinti intézkedés feltétele az 5. pontban meghatározott együttműködési megállapodás megkötése;
+6.[^2]
 
 7. felhívja a Miniszterelnöki Kabinetirodát vezető minisztert, hogy az Ügynökség bevonásával készítse elő azokat a jogszabály-módosításokat, és tegye meg azokat az intézkedéseket, amelyek az 1. és 2. pontban meghatározott feladatok megvalósításához szükségesek;
 
@@ -49,3 +45,6 @@ A Kormány
 | Felelős: | Miniszterelnöki Kabinetirodát vezető miniszter |
 
 | Határidő: | azonnal |
+
+[^1]: Az 5. pontot az 1450/2024. (XII. 31.) Korm. határozat 4. pontja visszavonta.
+[^2]: A 6. pontot az 1450/2024. (XII. 31.) Korm. határozat 4. pontja visszavonta.
