@@ -1,4 +1,4 @@
-38/B. §[^15] (1)[^16] A hivatásos állomány tagja – a (2) bekezdésben foglalt kivétellel – a Hszt. 170. § (4) bekezdésében foglaltakra is figyelemmel kiegészítő juttatásra jogosult, melynek mértéke a hivatásos állomány tagját megillető
+38/B. §[^18] (1)[^19] A hivatásos állomány tagja – a (2) bekezdésben foglalt kivétellel – a Hszt. 170. § (4) bekezdésében foglaltakra is figyelemmel kiegészítő juttatásra jogosult, melynek mértéke a hivatásos állomány tagját megillető
 
 a) beosztási illetmény,
 
@@ -8,11 +8,11 @@ c) szolgálati időpótlék,
 
 d) idegennyelv-tudási pótlék,
 
-e)[^17] Hszt. 161. § (1) bekezdés a) és b) pontja szerinti egyéb pótlék,
+e)[^20] Hszt. 161. § (1) bekezdés a) és b) pontja szerinti egyéb pótlék,
 
-f)[^18] címpótlék és
+f)[^21] címpótlék és
 
-g)[^19] egészségügyi szakdolgozói pótlék
+g)[^22] egészségügyi szakdolgozói pótlék
 
 együttes összegének 21 százaléka.
 
@@ -20,25 +20,29 @@ együttes összegének 21 százaléka.
 
 a) aki illetményre, illetve távolléti díjra nem jogosult,
 
-b)[^20] akinek a Hszt. 165. § (1) bekezdése alapján távolléti díjának 50%-át vagy teljes illetményét vissza kell tartani, feltéve, hogy vele szemben a Hszt. 165. § (2) bekezdése alkalmazásának nincs helye,
+b)[^23] akinek a Hszt. 165. § (1) bekezdése alapján távolléti díjának 50%-át vagy teljes illetményét vissza kell tartani, feltéve, hogy vele szemben a Hszt. 165. § (2) bekezdése alkalmazásának nincs helye,
 
-c)[^21] aki vezénylés jogcímén lát el hivatásos szolgálatot, kivéve, ha az illetményét a Belügyminisztérium vagy a belügyminiszter irányítása alatt álló szervezet állapította meg a Hszt. illetményre vonatkozó szabályai alapján, vagy
+c)[^24] aki vezénylés jogcímén lát el hivatásos szolgálatot, kivéve, ha
 
-d)[^22] aki a Hszt. XXX/A. Fejezet szerinti egészségügyi feladatokat ellátó dolgozónak minősül.
+ca) az illetményét a Belügyminisztérium vagy a belügyminiszter irányítása alatt álló szervezet állapította meg a Hszt. illetményre vonatkozó szabályai alapján,
 
-(3)[^23]
+cb) hatósági vezénylésére került sor, vagy
+
+d)[^25] aki a Hszt. XXX/A. Fejezet szerinti egészségügyi feladatokat ellátó dolgozónak minősül.
+
+(3)[^26]
 
 (4) A Hszt. 165. § (2) bekezdése szerinti esetben a kiegészítő juttatásra a visszatartott távolléti díj, illetmény utólagos kifizetésekor a hivatásos állomány tagja jogosulttá válik.
 
-(5)[^24]
+(5)[^27]
 
-[^15]: A 38/B. §-t a 2/2020. (I. 17.) BM rendelet 3. §-a iktatta be.
-[^16]: A 38/B. § (1) bekezdés záró szövegrésze a 43/2021. (XII. 9.) BM rendelet 1. §-a szerint módosított szöveg.
-[^17]: A 38/B. § (1) bekezdés e) pontja a 4/2022. (III. 25.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
-[^18]: A 38/B. § (1) bekezdés f) pontja a 4/2022. (III. 25.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
-[^19]: A 38/B. § (1) bekezdés g) pontját a 4/2022. (III. 25.) Korm. rendelet 16. §-a iktatta be.
-[^20]: A 38/B. § (2) bekezdés b) pontja a 27/2021. (VIII. 9.) BM rendelet 8. § a) pontja szerint módosított szöveg.
-[^21]: A 38/B. § (2) bekezdés c) pontja a 27/2021. (VIII. 9.) BM rendelet 8. § b) pontja szerint módosított szöveg.
-[^22]: A 38/B. § (2) bekezdés d) pontját a 27/2021. (VIII. 9.) BM rendelet 7. §-a iktatta be.
-[^23]: A 38/B. § (3) bekezdését a 46/2021. (XII. 22.) BM rendelet 13. §-a hatályon kívül helyezte.
-[^24]: A 38/B. § (5) bekezdését a 46/2021. (XII. 22.) BM rendelet 13. §-a hatályon kívül helyezte.
+[^18]: A 38/B. §-t a 2/2020. (I. 17.) BM rendelet 3. §-a iktatta be.
+[^19]: A 38/B. § (1) bekezdés záró szövegrésze a 43/2021. (XII. 9.) BM rendelet 1. §-a szerint módosított szöveg.
+[^20]: A 38/B. § (1) bekezdés e) pontja a 4/2022. (III. 25.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
+[^21]: A 38/B. § (1) bekezdés f) pontja a 4/2022. (III. 25.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
+[^22]: A 38/B. § (1) bekezdés g) pontját a 4/2022. (III. 25.) Korm. rendelet 16. §-a iktatta be.
+[^23]: A 38/B. § (2) bekezdés b) pontja a 27/2021. (VIII. 9.) BM rendelet 8. § a) pontja szerint módosított szöveg.
+[^24]: A 38/B. § (2) bekezdés c) pontja a 62/2024. (XII. 30.) BM rendelet 41. §-ával megállapított szöveg.
+[^25]: A 38/B. § (2) bekezdés d) pontját a 27/2021. (VIII. 9.) BM rendelet 7. §-a iktatta be.
+[^26]: A 38/B. § (3) bekezdését a 46/2021. (XII. 22.) BM rendelet 13. §-a hatályon kívül helyezte.
+[^27]: A 38/B. § (5) bekezdését a 46/2021. (XII. 22.) BM rendelet 13. §-a hatályon kívül helyezte.

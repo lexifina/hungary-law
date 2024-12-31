@@ -6,4 +6,6 @@
 
 (3) A pénzben megtérítendő tárgyhavi túlszolgálat összesítését a tárgyhónapot követő hónap tizedikéig kell a rendvédelmi szerv gazdasági szervéhez eljuttatni.
 
-(4) Ha a hivatásos állomány tagja a Hszt. 72. §-a szerinti célfeladat végrehajtásában vesz részt, e tevékenysége nem minősül túlszolgálatnak.
+(4)[^13]
+
+[^13]: A 13. § (4) bekezdését a 62/2024. (XII. 30.) BM rendelet 44. § b) pontja hatályon kívül helyezte.

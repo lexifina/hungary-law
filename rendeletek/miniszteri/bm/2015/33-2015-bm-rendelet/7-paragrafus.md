@@ -2,7 +2,7 @@
 
 7. § (1) A hivatásos állománynak a Hszt. 51. § (2) bekezdésben meghatározott szervnél szolgálatot teljesítő, rendelkezési állományba helyezett tagjának illetményére az 6. § (2) és (3) bekezdését kell alkalmazni.
 
-(2)[^4] A hivatásos állománynak a Hszt. 77. § (1) bekezdés b), c), e) és k) pontja szerint rendelkezési állományba helyezett tagja a rendelkezési állományba helyezés előtti besorolása szerinti illetményre jogosult, azzal, hogy – jogszabály eltérő rendelkezése hiányában – a hivatásos pótlék mértéke 50%. A hivatásos állománynak külföldre vezénylés miatt a Hszt. 77. § (1) bekezdés a) pontja szerint rendelkezési állományba helyezett tagja a rendelkezési állományba helyezés előtti besorolása szerinti illetményre jogosult, azzal, hogy a külföldre vezényelt hivatásos pótlékának mértéke a külföldre vezénylést megelőzően betöltött szolgálati beosztás szerint irányadó hivatásos pótlék mértéke.
+(2)[^4] A hivatásos állománynak a Hszt. 77. § (1) bekezdés b), c)és e) pontja szerint rendelkezési állományba helyezett tagja a rendelkezési állományba helyezés előtti besorolása szerinti illetményre jogosult, azzal, hogy – jogszabály eltérő rendelkezése hiányában – a hivatásos pótlék mértéke 50%. A hivatásos állománynak külföldre vezénylés miatt a Hszt. 77. § (1) bekezdés a) pontja szerint rendelkezési állományba helyezett tagja a rendelkezési állományba helyezés előtti besorolása szerinti illetményre jogosult, azzal, hogy a külföldre vezényelt hivatásos pótlékának mértéke a külföldre vezénylést megelőzően betöltött szolgálati beosztás szerint irányadó hivatásos pótlék mértéke.
 
 (2a)[^5] A hivatásos állománynak a Hszt. 77. § (1) bekezdés h) pontja szerint rendelkezési állományba helyezett tagja a rendelkezési állományba helyezés idejére 50%-os mértékű hivatásos pótlékra jogosult.
 
@@ -14,6 +14,6 @@
 
 (5) A rendelkezési állományba helyezéskor a munkáltatói intézkedésben rendelkezni kell a folyósítandó illetményről vagy arról, hogy azt ki jogosult megállapítani külön intézkedésben.
 
-[^4]: A 7. § (2) bekezdése a 34/2018. (XII. 20.) BM rendelet 10. §-ával megállapított, a 29/2024. (VII. 12.) BM rendelet 4. §-a szerint módosított szöveg.
+[^4]: A 7. § (2) bekezdése a 34/2018. (XII. 20.) BM rendelet 10. §-ával megállapított, a 29/2024. (VII. 12.) BM rendelet 4. §-a, a 62/2024. (XII. 30.) BM rendelet 43. § a) pontja szerint módosított szöveg.
 [^5]: A 7. § (2a) bekezdését a 20/2021. (VII. 14.) BM rendelet 26. §-a iktatta be.
 [^6]: A 7. § (2b) bekezdését a 29/2024. (VII. 12.) BM rendelet 3. §-a iktatta be.
