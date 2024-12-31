@@ -1,1 +1,5 @@
 ## 1. § A Tisza-völgy árvízi biztonságának növelését, valamint az érintett térség terület- és vidékfejlesztését szolgáló program (a Vásárhelyi-terv továbbfejlesztése) közérdekűségéről és megvalósításáról szóló 2004. évi LXVII. törvény (a továbbiakban: VTT tv.) keretében létesülő Szamos-Krasznaközi árvízi tározó területével érintett földrészletek jegyzékét településenkénti bontásban és helyrajzi szám szerinti felsorolásban az 1. melléklet tartalmazza.
+
+2. §[^1]
+
+[^1]: A 2. §-t a 80/2011. (VIII. 3.) VM rendelet 12. § c) pontja hatályon kívül helyezte.

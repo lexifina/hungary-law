@@ -1,1 +1,3 @@
-## 4. § Az egyes tározók árvízi szabályozási célú igénybevételét a vizek kártételei elleni védekezés szabályairól szóló kormányrendelet szerinti árvízvédelmi és belvízvédelmi Országos Műszaki Irányító Törzs (a továbbiakban: OMIT) rendeli el az előzetesen elfogadott üzemelési szabályzat alapján. Az igénybevétel várható idejéről, valamint az elöntés mértékéről az OMIT az elrendelést követően azonnal értesíti az érintett települések polgármestereit a megyei védelmi bizottságokon keresztül.
+5. §[^4]
+
+[^4]: Az 5. §-t a 80/2011. (VIII. 3.) VM rendelet 12. § c) pontja hatályon kívül helyezte.
