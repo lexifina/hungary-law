@@ -26,3 +26,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-173-20-
 | 2022-07-01 | 2003-173-20-22.27 | 12/2005. (I. 26.) Korm. rendelet |
 | 2024-02-17 | 2003-173-20-22.28 | 5/2024. (I. 18.) Korm. rendelet |
 | 2024-10-01 | 2003-173-20-22.29 | 285/2024. (IX. 30.) Korm. rendelet |
+| 2024-12-31 | 2003-173-20-22.30 | 37/2007. (VII. 23.) EüM–SZMM együttes rendelet |

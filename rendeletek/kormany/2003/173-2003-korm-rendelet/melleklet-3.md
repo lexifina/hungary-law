@@ -236,11 +236,7 @@
 
 ## 4. A keletkezett szennyvíz elhelyezése helyi elszikkasztás útján biztosított.
 
-## 5. A keletkezett fekália
-
-## – űrgödörben való elhelyezése és rendszeres földelése, fertőtlenítése, illetve
-
-## – vegyszeres semlegesítése és kémiai ürítő helyre szállítása biztosított.
+## 5.[^99] A keletkezett fekália űrgödörben való elhelyezése és rendszeres földelése, fertőtlenítése, továbbá biológiai vagy kémiai semlegesítése biztosított.
 
 ## 6. A szelektív hulladékgyűjtés és a hulladék jellege szerint
 
@@ -260,7 +256,7 @@
 
 ## 11. A háromfázisú (kombinált mosogatószer esetén kétfázisú) mosogatás mobil eszközben vagy elkülönített mosogatótálak útján higiénikusan megoldott.
 
-## IV.[^99] A hegyi menedékház minősítési követelményei
+## IV.[^100] A hegyi menedékház minősítési követelményei
 
 ## Hegyi menedékház az a természeti környezetben álló, turista célokra szolgáló, nem üzleti célú közösségi, szabadidős szálláshely, amely igénybe vehető több éjszakának az időjárástól védett módon való eltöltésére. Hegyi menedékháznak minősül a sportlétesítmény, közintézmény vagy egyházi jogi személy által üzemeltetett intézményi szállás helyiségében fekvőhelyek elhelyezésével kialakított ideiglenes szálláshely is.
 
@@ -296,7 +292,7 @@
 
 ## 8. Fűtés: hagyományos egyedi fűtés (a szezonálisan üzemelő kulcsosházak kivételével).
 
-## 9.[^100] Tisztálkodási lehetőség: a szálláshelyen vagy takart területen megoldott. Mosakodáshoz 20 női és 30 férfi férőhelyenként egy-egy mosdótál, minden megkezdett 20 férőhely után egy illemhely.
+## 9.[^101] Tisztálkodási lehetőség: a szálláshelyen vagy takart területen megoldott. Mosakodáshoz 20 női és 30 férfi férőhelyenként egy-egy mosdótál, minden megkezdett 20 férőhely után egy illemhely.
 
 ## 10. Takarítás: távozáskor kötelező.
 
@@ -374,7 +370,7 @@
 
 ## V. A bivakszállás minősítési követelményei
 
-## Bivakszállás az a természeti környezetben található, turista célokra szolgáló, állandó felügyelet nélküli egyszerű létesítmény vagy telepített mobil eszköz (pl. konténer, jármű-felépítmény), mely jellemzően rendkívüli helyzetbe (4. § 13. pont) került turisták számára alkalmas és igénybe vehető egy éjszakának a természetben, időjárástól védett módon való eltöltésére. A bivakszállás önellátó formában működik és egyéb szolgáltatást nem biztosít. Bivakszállásnak minősül a természeti alakulat külvilágtól állandó fallal elhatárolt részében kialakított szálláshely is. Téliesített bivakszállás az a bivakszállás, amelyik fűtőberendezéssel rendelkezik.[^101]
+## Bivakszállás az a természeti környezetben található, turista célokra szolgáló, állandó felügyelet nélküli egyszerű létesítmény vagy telepített mobil eszköz (pl. konténer, jármű-felépítmény), mely jellemzően rendkívüli helyzetbe (4. § 13. pont) került turisták számára alkalmas és igénybe vehető egy éjszakának a természetben, időjárástól védett módon való eltöltésére. A bivakszállás önellátó formában működik és egyéb szolgáltatást nem biztosít. Bivakszállásnak minősül a természeti alakulat külvilágtól állandó fallal elhatárolt részében kialakított szálláshely is. Téliesített bivakszállás az a bivakszállás, amelyik fűtőberendezéssel rendelkezik.[^102]
 
 ## A bivakszállás:
 
@@ -388,23 +384,23 @@
 
 ## 1. A szállás és közvetlen környezete területe pormentes, a csapadékvíz elvezetése megoldott.
 
-## 2.[^102] Minden oldalán zárt, ajtóval, ablakkal vagy szellőzővel és felülvilágítóval rendelkező építmény vagy telepített eszköz. Belmagassága középen legalább 180 cm.
+## 2.[^103] Minden oldalán zárt, ajtóval, ablakkal vagy szellőzővel és felülvilágítóval rendelkező építmény vagy telepített eszköz. Belmagassága középen legalább 180 cm.
 
 ## 3. Legfeljebb 15 fő egyidejű elhelyezésére szolgál. Fekvőhelyenként 1,5 m2 alapterületet (fekvőfelület: legalább 50 x 190 cm) vagy 8 m3 térfogategységet kell biztosítani (az emeletes fekvőhely a minimális alapterület, illetve térfogategység szempontjából egy fekvőhelynek számít).
 
 ## 4. Berendezés, felszereltség: matracszállásnak megfelelő fekvőhelysor. Emeletes fekvőhely-kialakítás legalább 240 cm belmagasságnál megengedett. Asztal vagy étkezőpult, férőhelyenként egy fogas, takarítóeszköz, elsősegélynyújtó felszerelés.
 
-## 5.[^103] Egészségügyi helyiség: egy árnyékszék, távolsága a bivakszállástól legfeljebb 50 m.
+## 5.[^104] Egészségügyi helyiség: egy árnyékszék, távolsága a bivakszállástól legfeljebb 50 m.
 
-## 5a.[^104] Az 5. pont szerinti feltétel épített környezetben kiváltható a helyi építési szabályzat által előírt egyéb megoldással.
+## 5a.[^105] Az 5. pont szerinti feltétel épített környezetben kiváltható a helyi építési szabályzat által előírt egyéb megoldással.
 
 ## Téliesített bivakszállásnál többletkövetelmény:
 
-## 6.[^105] A szellőzéstől független kéménykivezetés.
+## 6.[^106] A szellőzéstől független kéménykivezetés.
 
-## 7.[^106] Fűtés: hagyományos fűtőberendezés.
+## 7.[^107] Fűtés: hagyományos fűtőberendezés.
 
-## VI.[^107] A pihenőház minősítési követelményei
+## VI.[^108] A pihenőház minősítési követelményei
 
 ## Pihenőház az a hivatali szállás – nem üzleti célú közösségi, szabadidős szálláshely-szolgáltatásának időszakában –, amely éves forgalmának legalább 90%-ában, az R. 8. § (5) bekezdésében meghatározott esetben éves forgalmának legalább 80%-ában a munkavégzéssel kapcsolatban a távollakó, másutt bejelentett lakással rendelkező dolgozók részére e célra létesített vagy átalakított, végleges vagy ideiglenes rendeltetésű létesítményben átmeneti vagy huzamos ideig szállást, valamint konyha-, illetve étkezőhasználati lehetőséget biztosít és legalább a „C” kategóriájú pihenőház minősítési követelményeinek eleget tesz. Pihenőháznak minősül különösen a munkásszállás, ideértve a nőtlen- és a nővérszállást is.
 
@@ -428,7 +424,7 @@
 
 ## 8. Tájékoztatás a szolgáltatásokról és a menekülési útvonalról.
 
-## 9.[^108] Lift, parkolók: a településrendezési és építési követelményekről szóló kormányrendeletben előírtak szerint.
+## 9.[^109] Lift, parkolók: a településrendezési és építési követelményekről szóló kormányrendeletben előírtak szerint.
 
 ## 10. Tárolási lehetőség férőhelyenként legalább 0,27 m3 térfogategységű élelmiszer-tároló rekeszben és 50 férőhelyenként egy hűtőszekrényben.
 
@@ -488,7 +484,7 @@
 
 ## 10. Főzési lehetőség: két szobánként közös, felszerelt konyha/főzőfülke.
 
-## VII.[^109] A kollégium minősítési
+## VII.[^110] A kollégium minősítési
 
 ## követelményei
 
@@ -502,7 +498,7 @@
 
 ## 2. Nemek szerint elkülönített hálóhelyiségek. A hálóhelyiségben fekvőhelyenként legalább 4 m2 alapterületet, illetve 8 m3 térfogategységet kell biztosítani. (Az emeletes ágy a minimális alapterület, illetve térfogategység szempontjából egy ágynak számít.)
 
-## 3.[^110] A hálóhelyiségek berendezése, felszereltsége: ágy/emeletes ágy (fekvőfelület legalább 80x190 cm). Az ágyakon ágybetét van. Ágynemű biztosítása nem kötelező. A szobában csomagtárolási lehetőség. Világítás: szobánként legalább egy központi (mennyezeti) lámpa (világítótest).
+## 3.[^111] A hálóhelyiségek berendezése, felszereltsége: ágy/emeletes ágy (fekvőfelület legalább 80x190 cm). Az ágyakon ágybetét van. Ágynemű biztosítása nem kötelező. A szobában csomagtárolási lehetőség. Világítás: szobánként legalább egy központi (mennyezeti) lámpa (világítótest).
 
 ## 4. Fűtés: fűtési időszakban legalább 20 °C hőmérséklet.
 
@@ -528,11 +524,11 @@
 
 ## 2. Egy hálóhelyiségben legfeljebb 8 fekvőhely. A hálóhelyiségben fekvőhelyenként legalább 5 m2 alapterületet, illetve 8 m3 térfogategységet kell biztosítani.
 
-## 3.[^111] A hálóhelyiség berendezése, felszereltsége: az ágyak párnával, takaróval felszereltek. Ágynemű-biztosítás. A szobában a fekvőhelyszámnak megfelelő ülőalkalmatosság, legalább egy asztal és férőhelyenként egy 30x60 cm alapterületű ruhásszekrény-egység.
+## 3.[^112] A hálóhelyiség berendezése, felszereltsége: az ágyak párnával, takaróval felszereltek. Ágynemű-biztosítás. A szobában a fekvőhelyszámnak megfelelő ülőalkalmatosság, legalább egy asztal és férőhelyenként egy 30x60 cm alapterületű ruhásszekrény-egység.
 
-## 4.[^112] Vizesblokkok száma: nemenként 6 főre egy mosdó és 15 főre legalább egy zuhanyozó hideg-meleg vizes zuhanyozási lehetőséggel, valamint 10 férőhelyenként, nemenként elkülönített WC.
+## 4.[^113] Vizesblokkok száma: nemenként 6 főre egy mosdó és 15 főre legalább egy zuhanyozó hideg-meleg vizes zuhanyozási lehetőséggel, valamint 10 férőhelyenként, nemenként elkülönített WC.
 
-## 5.[^113] Textilváltás:
+## 5.[^114] Textilváltás:
 
 ## – ágynemű: legalább egyszer hetente, új vendég esetén kötelező az ágyneműcsere.
 
@@ -544,11 +540,11 @@
 
 ## 9. Telefon: a portán áll rendelkezésre.
 
-## 10.[^114] Központi csomag- és értékmegőrzési lehetőség.
+## 10.[^115] Központi csomag- és értékmegőrzési lehetőség.
 
 ## 11. Szabadidős szolgáltatás: legalább kétféle beltéri és kétféle kültéri játék- és sporteszköz kölcsönzési lehetőség.
 
-3. számú melléklet a 173/2003. (X. 28.) Korm. rendelethez[^115]
+3. számú melléklet a 173/2003. (X. 28.) Korm. rendelethez[^116]
 
 [^79]: A 2. számú melléklet I. részének bevezető rendelkezése a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (2)–(3) bekezdését.
 [^80]: A 2. számú melléklet I. rész „C” kategóriájú üdülő pontjának 5. alpontja a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
@@ -570,20 +566,21 @@
 [^96]: A 2. számú melléklet II. rész „A” kategóriájú gyermek- és ifjúsági tábor pontjának 2. alpontja a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
 [^97]: A 2. számú melléklet II. rész „A” kategóriájú gyermek- és ifjúsági tábor pontjának 8. alpontja a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
 [^98]: A 2. számú melléklet II. rész Telepített sátortábor pontjának 6. alpontja a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
-[^99]: A 2. számú melléklet IV. pontja a 297/2013. (VII. 29.) Korm. rendelet 26. §-a szerint módosított szöveg.
-[^100]: A 2. számú melléklet IV. rész „C” kategóriájú hegyi menedékház (kulcsosház) pontjának 9. alpontja a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
-[^101]: A 2. számú melléklet V. részének bevezető rendelkezése a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
-[^102]: A 2. számú melléklet V. rész b) pontjának 2. alpontja a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
-[^103]: A 2. számú melléklet V. rész b) pontjának 5. alpontja a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
-[^104]: A 2. számú melléklet V. rész b) pont 5a. alpontját a 258/2015. (IX. 10.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^105]: A 2. számú melléklet V. rész b) pontjának 6. alpontja a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
-[^106]: A 2. számú melléklet V. rész b) pontjának 7. alpontját a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
-[^107]: A 2. számú melléklet VI. pontja az 5/2024. (I. 18.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^108]: A 2. számú melléklet VI. pont „C” kategóriájú pihenőház (munkásszállás) alcím 9. pontja a 285/2024. (IX. 30.) Korm. rendelet 10. § c) pontja szerint módosított szöveg.
-[^109]: A 2. számú melléklet VII. része a 13/2020. (II. 7.) Korm. rendelet 19. § 5. pontja és 20. § 5–10. pontja szerint módosított szöveg.
-[^110]: A 2. számú melléklet VII. rész „B” kategóriájú diákotthon, kollégium pontjának 3. alpontja a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
-[^111]: A 2. számú melléklet VII. rész „A” kategóriájú diákotthon, kollégium pontjának 3. alpontja a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
-[^112]: A 2. számú melléklet VII. rész „A” kategóriájú diákotthon, kollégium pontjának 4. alpontja a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
-[^113]: A 2. számú melléklet VII. rész „A” kategóriájú diákotthon, kollégium pontjának 5. alpontja a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
-[^114]: A 2. számú melléklet VII. rész „A” kategóriájú diákotthon, kollégium pontjának 10. alpontja a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
-[^115]: A 3. számú melléklet a 218/2007. (VIII. 15.) Korm. rendelet 10. § (3) bekezdésével megállapított, a 353/2019. (XII. 23.) Korm. rendelet 2. § d) pontja, az 5/2024. (I. 18.) Korm. rendelet 2. § (3) bekezdése szerint módosított szöveg.
+[^99]: A 2. számú melléklet III. rész 5. pontja a 463/2024. (XII. 30.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^100]: A 2. számú melléklet IV. pontja a 297/2013. (VII. 29.) Korm. rendelet 26. §-a szerint módosított szöveg.
+[^101]: A 2. számú melléklet IV. rész „C” kategóriájú hegyi menedékház (kulcsosház) pontjának 9. alpontja a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
+[^102]: A 2. számú melléklet V. részének bevezető rendelkezése a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
+[^103]: A 2. számú melléklet V. rész b) pontjának 2. alpontja a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
+[^104]: A 2. számú melléklet V. rész b) pontjának 5. alpontja a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
+[^105]: A 2. számú melléklet V. rész b) pont 5a. alpontját a 258/2015. (IX. 10.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^106]: A 2. számú melléklet V. rész b) pontjának 6. alpontja a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
+[^107]: A 2. számú melléklet V. rész b) pontjának 7. alpontját a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
+[^108]: A 2. számú melléklet VI. pontja az 5/2024. (I. 18.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^109]: A 2. számú melléklet VI. pont „C” kategóriájú pihenőház (munkásszállás) alcím 9. pontja a 285/2024. (IX. 30.) Korm. rendelet 10. § c) pontja szerint módosított szöveg.
+[^110]: A 2. számú melléklet VII. része a 13/2020. (II. 7.) Korm. rendelet 19. § 5. pontja és 20. § 5–10. pontja szerint módosított szöveg.
+[^111]: A 2. számú melléklet VII. rész „B” kategóriájú diákotthon, kollégium pontjának 3. alpontja a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
+[^112]: A 2. számú melléklet VII. rész „A” kategóriájú diákotthon, kollégium pontjának 3. alpontja a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
+[^113]: A 2. számú melléklet VII. rész „A” kategóriájú diákotthon, kollégium pontjának 4. alpontja a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
+[^114]: A 2. számú melléklet VII. rész „A” kategóriájú diákotthon, kollégium pontjának 5. alpontja a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
+[^115]: A 2. számú melléklet VII. rész „A” kategóriájú diákotthon, kollégium pontjának 10. alpontja a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
+[^116]: A 3. számú melléklet a 218/2007. (VIII. 15.) Korm. rendelet 10. § (3) bekezdésével megállapított, a 353/2019. (XII. 23.) Korm. rendelet 2. § d) pontja, az 5/2024. (I. 18.) Korm. rendelet 2. § (3) bekezdése szerint módosított szöveg.
