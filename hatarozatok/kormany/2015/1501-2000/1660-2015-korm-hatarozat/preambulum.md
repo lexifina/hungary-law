@@ -1,9 +1,7 @@
-A Kormány meghallgatta az Állami Számvevőszék elnökének az állami tulajdonú gazdasági társaságok vezetésével kapcsolatos javaslatait, és megállapította, hogy a vezetői juttatásokat és követelményeket közelíteni szükséges a piaci vezetői bérekhez és követelményekhez, továbbá a jelenlegi prémiumok jelentős részét be kell építeni az alapbérbe.
+A Kormány egyetért azzal, hogy az állami tulajdonú gazdasági társaságok vezető állású munkavállalóinak juttatásait és a követelményeket szükséges felülvizsgálni a hazai és nemzetközi piac vezetői bérezése és követelményei viszonylatában.
 
-A Kormány megállapította, hogy elkötelezett a többségi állami tulajdonú gazdasági társaságok átlátható, hatékony és gazdaságos működése feltételeinek kialakításában.
+A Kormány továbbra is elkötelezett a többségi állami tulajdonú gazdasági társaságok átlátható, hatékony és gazdaságos működése feltételeinek kialakításában.
 
-A Kormány – az Állami Számvevőszék elnökének javaslatára – továbbá elkötelezett abban is, hogy a többségi állami tulajdonú gazdasági társaságok vezetőinek tevékenységét folyamatosan értékelni kell a szabályosság, eredményesség, gazdaságosság szempontjából; továbbá az állami cégek vezetőinek szigorú etikai és integritás elveknek kell megfelelniük.
+A Kormány továbbá elkötelezett abban is, hogy a többségi állami tulajdonú gazdasági társaságok vezetőinek tevékenységét folyamatosan értékelni kell a szabályosság, eredményesség, gazdaságosság szempontjából; továbbá az állami cégek vezetőinek szigorú etikai és integritás elveknek kell megfelelniük.[^2]
 
-A Kormány megvizsgálta a visegrádi országok állami tulajdonú gazdasági társaságai vállalatirányítási rendszerét, valamint vezető állású munkavállalóinak bérezési gyakorlatát.
-
-A Kormány egyetért azzal, hogy a többségi állami tulajdonú gazdasági társaságok átláthatóságának és költséghatékonyságának növelése érdekében a vállalatirányításban megfelelő nemzetközi tapasztalattal rendelkező külföldi menedzserek részvételére is sor kerülhessen.
+[^2]: A bevezető rész az 1445/2024. (XII. 30.) Korm. határozat 1. pontjával megállapított szöveg.
