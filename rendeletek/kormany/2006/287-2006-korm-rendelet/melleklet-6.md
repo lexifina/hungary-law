@@ -34,6 +34,6 @@
 
 ## A várólisták tételes meghatározását az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló 9/1993. (IV. 2.) NM rendelet 19. számú melléklete tartalmazza.
 
-6. számú melléklet a 287/2006. (XII. 23.) Korm. rendelethez[^85]
+6. számú melléklet a 287/2006. (XII. 23.) Korm. rendelethez[^83]
 
-[^85]: A 6. számú mellékletet a 8/2008. (I. 23.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 92/2012. (IV. 27.) Korm. rendelet 21. § (1) bekezdésével megállapított, a 379/2016. (XII. 12.) Korm. rendelet 81. § (3) bekezdés d) pontja, a 287/2018. (XII. 21.) Korm. rendelet 24. § c) pontja szerint módosított szöveg.
+[^83]: A 6. számú mellékletet a 8/2008. (I. 23.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 92/2012. (IV. 27.) Korm. rendelet 21. § (1) bekezdésével megállapított, a 379/2016. (XII. 12.) Korm. rendelet 81. § (3) bekezdés d) pontja, a 287/2018. (XII. 21.) Korm. rendelet 24. § c) pontja szerint módosított szöveg.

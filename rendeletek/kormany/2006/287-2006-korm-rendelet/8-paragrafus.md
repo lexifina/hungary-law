@@ -10,4 +10,6 @@ c) az adott szerv transzplantációjában, a betegek transzplantációra törté
 
 a) a Magyar Transzplantációs Társaság tagjai közül delegált egy személy,
 
-b) a betegek transzplantációra történő kiválasztásában, illetve utókezelésében és gondozásában legalább ötéves gyakorlattal rendelkező két szakorvos.
+b)[^23] a betegek transzplantációra történő kiválasztásában, illetve utókezelésében és gondozásában legalább ötéves gyakorlattal rendelkező négy szakorvos.
+
+[^23]: A 8. § (2) bekezdés b) pontja a 463/2024. (XII. 30.) Korm. rendelet 33. §-a szerint módosított szöveg.

@@ -1,4 +1,4 @@
-1. számú melléklet a 287/2006. (XII. 23.) Korm. rendelethez[^75]
+1. számú melléklet a 287/2006. (XII. 23.) Korm. rendelethez[^78]
 
 A nagy költségű ellátások jegyzéke
 
@@ -6,4 +6,4 @@ A nagy költségű ellátások jegyzéke
 
 2. Gamma Sugársebészet
 
-[^75]: Az 1. számú melléklet a 370/2007. (XII. 23.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^78]: Az 1. számú melléklet a 370/2007. (XII. 23.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.

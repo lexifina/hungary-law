@@ -4,9 +4,9 @@
 
 a) a csontvelő transzplantáció végzésére külön jogszabályban kijelölt egészségügyi szolgáltató(k) adott ellátást nyújtó szervezeti egységének vezetője,
 
-b)[^23] az Egészségügyi Szakmai Kollégium Transzfuziológia és Hematológia Tagozatának vezetője,
+b)[^26] az Egészségügyi Szakmai Kollégium Transzfuziológia és Hematológia Tagozatának vezetője,
 
-c)[^24] az őssejtdonor nyilvántartást vezető szervezet szakmai képviselője.
+c)[^27] az őssejtdonor nyilvántartást vezető szervezet szakmai képviselője.
 
 (3) A Gyermek Csontvelő Transzplantációs Bizottság tagjai:
 
@@ -14,8 +14,8 @@ a) a gyermek csontvelő transzplantáció végzésére külön jogszabályban ki
 
 b) a gyermek onko-hematológiai ellátást nyújtó egészségügyi szolgáltatók által delegált két szakorvos,
 
-c)[^25] az őssejtdonor nyilvántartást vezető szervezet szakmai képviselője.
+c)[^28] az őssejtdonor nyilvántartást vezető szervezet szakmai képviselője.
 
-[^23]: A 10. § (2) bekezdés b) pontja a 192/2015. (VII. 21.) Korm. rendelet 37. § (1) bekezdésével megállapított szöveg.
-[^24]: A 10. § (2) bekezdés c) pontja a 192/2015. (VII. 21.) Korm. rendelet 37. § (1) bekezdésével megállapított szöveg.
-[^25]: A 10. § (3) bekezdés c) pontja a 192/2015. (VII. 21.) Korm. rendelet 37. § (2) bekezdésével megállapított szöveg.
+[^26]: A 10. § (2) bekezdés b) pontja a 192/2015. (VII. 21.) Korm. rendelet 37. § (1) bekezdésével megállapított szöveg.
+[^27]: A 10. § (2) bekezdés c) pontja a 192/2015. (VII. 21.) Korm. rendelet 37. § (1) bekezdésével megállapított szöveg.
+[^28]: A 10. § (3) bekezdés c) pontja a 192/2015. (VII. 21.) Korm. rendelet 37. § (2) bekezdésével megállapított szöveg.

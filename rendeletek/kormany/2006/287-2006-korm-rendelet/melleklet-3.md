@@ -42,4 +42,6 @@
 
 ## aláírás/orvosi pecsét
 
-3. számú melléklet a 287/2006. (XII. 23.) Korm. rendelethez
+3. számú melléklet a 287/2006. (XII. 23.) Korm. rendelethez[^79]
+
+[^79]: A 3. számú melléklet a 463/2024. (XII. 30.) Korm. rendelet 32. §-ával megállapított szöveg.

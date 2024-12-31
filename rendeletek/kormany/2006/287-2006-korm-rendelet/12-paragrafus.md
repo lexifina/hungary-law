@@ -1,4 +1,4 @@
-12. §[^27] (1) Az 1. számú mellékletben meghatározott PET/CT ellátás tekintetében kialakított központi várólista nyilvántartási rendszert (a továbbiakban: PET/CT várólista) a Nemzeti Egészségbiztosítási Alapkezelő (a továbbiakban: NEAK) működteti.
+12. §[^30] (1) Az 1. számú mellékletben meghatározott PET/CT ellátás tekintetében kialakított központi várólista nyilvántartási rendszert (a továbbiakban: PET/CT várólista) a Nemzeti Egészségbiztosítási Alapkezelő (a továbbiakban: NEAK) működteti.
 
 (2) A NEAK a PET/CT várólista működtetése érdekében szakmai albizottságokból álló Központi Várólista Bizottságot (a továbbiakban: PET-Bizottság) hoz létre.
 
@@ -12,7 +12,7 @@
 
 (7) A PET-Bizottság tagjainak listáját és a PET-Bizottság működésének rendjét a NEAK a honlapján tájékoztatóban teszi közzé.
 
-(8)[^28] A PET/CT várólista vezetésének költségeit a NEAK költségvetésében kell biztosítani.
+(8)[^31] A PET/CT várólista vezetésének költségeit a NEAK költségvetésében kell biztosítani.
 
-[^27]: A 12. § a 464/2016. (XII. 23.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^28]: A 12. § (8) bekezdését a 261/2018. (XII. 19.) Korm. rendelet 2. §-a iktatta be.
+[^30]: A 12. § a 464/2016. (XII. 23.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^31]: A 12. § (8) bekezdését a 261/2018. (XII. 19.) Korm. rendelet 2. §-a iktatta be.

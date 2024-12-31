@@ -2,10 +2,11 @@
 
 (2) A Transzplantációs Bizottság szükség szerint, de legalább havonta ülésezik.
 
-(3) A Transzplantációs Bizottságok tagjai maguk közül – két évre – elnököt választanak, és a Transzplantációs Bizottság létrehozásától számított 30 napon belül meghatározzák ügyrendjüket. A Transzplantációs Bizottság döntéseit nyílt szavazással, szótöbbséggel hozza, szavazategyenlőség esetén az elnök szavazata dönt. A Transzplantációs Bizottság határozatképes, ha az ülésen a tagjainak több mint a fele jelen van.
+(3)[^20] A 3. § (2) bekezdése szerinti Transzplantációs Bizottságok tagjai maguk közül – két évre – elnököt választanak, és a Transzplantációs Bizottság létrehozásától számított 30 napon belül meghatározzák ügyrendjüket, amelyet az OVSZK főigazgatója hagy jóvá.
 
 (4) A Transzplantációs Bizottságnak nem lehet tagja, aki az adott transzplantációval érintett várólistán szerepel, illetve akinek erre a várólistára történő felvétele folyamatban van. A tagság a 4. § (2) bekezdése szerinti kezdeményezés időpontjával szűnik meg.
 
 (5) A Transzplantációs Bizottság tizenöt napot meghaladó határozatképtelensége esetén új bizottságot kell létrehozni.
 
 [^19]: A 6. § (1) bekezdése a 192/2015. (VII. 21.) Korm. rendelet 36. §-ával megállapított szöveg.
+[^20]: A 6. § (3) bekezdése a 463/2024. (XII. 30.) Korm. rendelet 30. §-ával megállapított szöveg.
