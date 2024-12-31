@@ -1,0 +1,1 @@
+A bűncselekmények áldozatainak segítéséről és az állami kárenyhítésről szóló 2005. évi CXXXV. törvény 46. § (2) bekezdés a) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 119. § 3. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
