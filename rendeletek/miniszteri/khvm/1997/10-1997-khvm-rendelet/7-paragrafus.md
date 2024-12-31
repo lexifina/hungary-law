@@ -8,7 +8,7 @@ a) a védelmi szakaszra beosztottak a szakasz-védelemvezető,
 
 b)[^29] a szakasz-védelemvezető és helyettese az illetékes VIZIG vezetőjének (a továbbiakban: vízügyi igazgató),
 
-c)[^30] a VIZIG működési területét III. fokú és azt meghaladó készültség esetén a vízügyi igazgató és helyettese az R. 3. § (3) bekezdés szerinti Országos Műszaki Irányító Törzs (a továbbiakban: Törzs) vezetőjének
+c)[^30] a VIZIG működési területét III. fokú és azt meghaladó készültség esetén a vízügyi igazgató és helyettese az R. 3. § (3) bekezdés szerinti Országos Vízügyi Irányító Törzs (a továbbiakban: Törzs) vezetőjének
 
 engedélyével hagyhatja el.
 
@@ -47,7 +47,7 @@ igényelheti.
 [^27]: A 6/A. §-t a 35/2021. (X. 14.) BM rendelet 1. § (6) bekezdése iktatta be.
 [^28]: A 7. § (1) bekezdés nyitó szövegrésze a 35/2021. (X. 14.) BM rendelet 1. § (16) bekezdése szerint módosított szöveg.
 [^29]: A 7. § (1) bekezdésének b) pontja az 1/2004. (II. 6.) KvVM rendelet 5. §-ának (3) bekezdésével megállapított, a 147/2011. (XII. 23.) VM rendelet 4. § (3) bekezdés c) pontja szerint módosított szöveg.
-[^30]: A 7. § (1) bekezdés c) pontja a 147/2011. (XII. 23.) VM rendelet 4. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^30]: A 7. § (1) bekezdés c) pontja a 147/2011. (XII. 23.) VM rendelet 4. § (3) bekezdés c) pontja, a 37/2024. (XII. 30.) EM rendelet 1. §-a szerint módosított szöveg.
 [^31]: A 7. § (4) bekezdés a) pontja a 147/2011. (XII. 23.) VM rendelet 4. § (3) bekezdés c) pontja szerint módosított szöveg.
 [^32]: A 7. § (4) bekezdés b) pontja a 147/2011. (XII. 23.) VM rendelet 4. § (3) bekezdés c) pontja szerint módosított szöveg.
 [^33]: A 7. § (5) bekezdése a 147/2011. (XII. 23.) VM rendelet 4. § (3) bekezdés c) pontja szerint módosított szöveg.
