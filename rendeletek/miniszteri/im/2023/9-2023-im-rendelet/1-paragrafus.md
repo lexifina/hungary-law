@@ -4,8 +4,10 @@
 
 (2) Vizsga csak szóban tehető, és csak egyszer ismételhető.
 
-(3) A vizsga letétele alól felmentést kap az, aki a jogi szakvizsgát letette.
+(3)[^1]
 
 (4) A vizsgát megelőzően a jelentkezők szakmai oktatáson vesznek részt, ha azonban a jelentkezők száma nem éri el az öt főt, az oktatás szervezője eseti konzultációt biztosít. A szakmai oktatás célja, hogy a résztvevő megismerje a pártfogó felügyelői, jogi segítségnyújtó és áldozatsegítő szolgálatként, valamint kárpótlási hatóságként kijelölt szerv tevékenységére, szervezetére és az igazságszolgáltatásra vonatkozó fontosabb jogszabályokat, elsajátítsa az ügyvitel, az iratkezelés szabályait, továbbá a feladatkörével kapcsolatos egyéb szükséges tudnivalókat, és azokat a gyakorlatban alkalmazni tudja. Az oktatást vagy konzultációt úgy kell megszervezni, hogy a résztvevők vizsgakötelezettségüknek határidőben eleget tehessenek.
 
 (5) A vizsgára történő felkészülést segítő szakmai oktatást vagy konzultációt az igazságügyért felelős miniszter (a továbbiakban: miniszter) szervezi.
+
+[^1]: Az 1. § (3) bekezdését a 44/2024. (XII. 30.) IM rendelet 2. §-a hatályon kívül helyezte.
