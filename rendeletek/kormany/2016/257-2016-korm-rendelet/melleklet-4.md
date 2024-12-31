@@ -16,8 +16,8 @@
 
 | 7. | Kincstár Önkormányzati Előirányzat Gazdálkodási Modul | Önkormányzatok állami támogatásának nyilvántartó rendszere az adósságot keletkeztető ügyletekhez történő hozzájárulás részletes szabályairól szóló Korm. rendelet, az Áht., az Ávr., az NGM rendelet szerinti adatok |
 
-4. melléklet a 257/2016. (VIII. 31.) Korm. rendelethez[^61]
+4. melléklet a 257/2016. (VIII. 31.) Korm. rendelethez[^62]
 
 Egyéb, az önkormányzati ASP rendszer szolgáltatásait igénybe vevő szakrendszerek
 
-[^61]: A 4. mellékletet a 148/2018. (VIII. 13.) Korm. rendelet 3. § c) pontja hatályon kívül helyezte, újonnan a 235/2019. (X. 15.) Korm. rendelet 18. § (2) bekezdése iktatta be.
+[^62]: A 4. mellékletet a 148/2018. (VIII. 13.) Korm. rendelet 3. § c) pontja hatályon kívül helyezte, újonnan a 235/2019. (X. 15.) Korm. rendelet 18. § (2) bekezdése iktatta be.

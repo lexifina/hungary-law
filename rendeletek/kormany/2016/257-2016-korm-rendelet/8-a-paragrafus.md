@@ -22,6 +22,8 @@ c) felmondási ideje három hónap, és csak a naptári év végével mondható 
 
 (6)[^38] Az önkormányzati költségvetési szerv az önkormányzati ASP rendszerhez a csatlakozás kezdeményezését követő év január 1-jével csatlakozhat, a csatlakozást a megelőző év július 31-éig kezdeményezheti. Az önkormányzati költségvetési szerv a csatlakozás időpontjáról és módjáról a Kincstárral – ha az önkormányzati költségvetési szerv csatlakozása az önkormányzati ASP rendszerhez kötelezően csatlakozók ellátását nem veszélyezteti – megállapodik.
 
+(7)[^39] Az önkormányzati költségvetési szerv a (6) bekezdéstől eltérően az önkormányzati ASP rendszerhez – a Kincstárral kötött megállapodás alapján – év közben is csatlakozhat. A megállapodásnak tartalmaznia kell a csatlakozás időpontját és módját. A csatlakozás időpontját a Kincstár határozza meg a központi szolgáltató véleményének figyelembevételével.
+
 [^32]: Az 5/A. alcímet (8/A. §) a 361/2017. (XI. 30.) Korm. rendelet 2. § (5) bekezdése iktatta be, az alcím címe a 75/2019. (IV. 9.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^33]: A 8/A. § (1) bekezdés nyitó szövegrésze a 179/2018. (X. 2.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
 [^34]: A 8/A. § (2) bekezdése a 179/2018. (X. 2.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
@@ -29,3 +31,4 @@ c) felmondási ideje három hónap, és csak a naptári év végével mondható 
 [^36]: A 8/A. § (4) bekezdés a) pontja a 75/2019. (IV. 9.) Korm. rendelet 7. §-ával megállapított szöveg.
 [^37]: A 8/A. § (4) bekezdés b) pontja a 179/2018. (X. 2.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
 [^38]: A 8/A. § (6) bekezdését a 148/2018. (VIII. 13.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^39]: A 8/A. § (7) bekezdését a 462/2024. (XII. 30.) Korm. rendelet 25. §-a iktatta be.
