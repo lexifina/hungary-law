@@ -14,8 +14,9 @@ e)[^73]
 
 (2) A finanszírozó ellenőrzi, hogy az elszámolásra jelentett ellátási esemény az (1) bekezdés szerinti adatok között szerepel-e. Az ellenőrzés szempontja az (1) bekezdésben szereplő adatok egyezősége.
 
-(3) Ha a finanszírozó megállapítja, hogy a finanszírozásra jelentett ellátási esemény nem szerepel az EESZT-ben, úgy az ellátási eseményre vonatkozó finanszírozási díjat visszavonja.
+(3)[^74] Ha a finanszírozó megállapítja, hogy a finanszírozásra jelentett ellátási esemény nem szerepel az EESZT-ben, úgy az ellátási eseményre vonatkozó finanszírozási díjat a mindenkori alapdíj 20%-ának megfelelő összeggel csökkenti.
 
 [^71]: Az „Elszámoláshoz kapcsolódó egyéb rendelkezések” alcím címét a 697/2020. (XII. 29.) Korm. rendelet 6. §-a iktatta be.
 [^72]: Az 5/C. §-t a 154/2020. (IV. 27.) Korm. rendelet 1. §-a iktatta be.
 [^73]: Az 5/C. § (1) bekezdés e) pontját az 557/2020. (XII. 4.) Korm. rendelet 8. §-a hatályon kívül helyezte.
+[^74]: Az 5/C. § (3) bekezdése a 463/2024. (XII. 30.) Korm. rendelet 7. §-ával megállapított szöveg.

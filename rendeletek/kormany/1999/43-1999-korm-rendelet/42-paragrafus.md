@@ -1,12 +1,12 @@
-## 42. §[^482] A finanszírozással kapcsolatos nem személyes adatok közérdekű adatoknak minősülnek. Az adatokhoz való hozzáférés és ellenőrizhetőségük érdekében
+## 42. §[^488] A finanszírozással kapcsolatos nem személyes adatok közérdekű adatoknak minősülnek. Az adatokhoz való hozzáférés és ellenőrizhetőségük érdekében
 
-a)[^483]
+a)[^489]
 
-b)[^484] a NEAK a finanszírozási adatok közül a 22. számú melléklet A) pontja szerinti adatokat honlapján közzéteszi, továbbá a C) pont szerinti adatokat megküldi az egészségügyért felelős miniszter által vezetett minisztérium (a továbbiakban: minisztérium) részére,
+b)[^490] a NEAK a finanszírozási adatok közül a 22. számú melléklet A) pontja szerinti adatokat honlapján közzéteszi, továbbá a C) pont szerinti adatokat megküldi az egészségügyért felelős miniszter által vezetett minisztérium (a továbbiakban: minisztérium) részére,
 
-c)[^485] a finanszírozási adatokról a NEAK – a b) pontban foglaltak mellett – a minisztérium részére esetenként, igény szerinti csoportosításban összesítést és elemzést készít.
+c)[^491] a finanszírozási adatokról a NEAK – a b) pontban foglaltak mellett – a minisztérium részére esetenként, igény szerinti csoportosításban összesítést és elemzést készít.
 
-[^482]: A 42. § a 112/2004. (IV. 28.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^483]: A 42. § a) pontját a 277/2021. (V. 26.) Korm. rendelet 18. § d) pontja hatályon kívül helyezte.
-[^484]: A 42. § b) pontja a 15/2005. (I. 26.) Korm. rendelet 19. § (2) bekezdésének a) pontja, a 379/2016. (XII. 2.) Korm. rendelet 34. § 3. pontja, a 757/2021. (XII. 22.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
-[^485]: A 42. § c) pontja a 379/2016. (XII. 2.) Korm. rendelet 34. § 3. pontja szerint módosított szöveg.
+[^488]: A 42. § a 112/2004. (IV. 28.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^489]: A 42. § a) pontját a 277/2021. (V. 26.) Korm. rendelet 18. § d) pontja hatályon kívül helyezte.
+[^490]: A 42. § b) pontja a 15/2005. (I. 26.) Korm. rendelet 19. § (2) bekezdésének a) pontja, a 379/2016. (XII. 2.) Korm. rendelet 34. § 3. pontja, a 757/2021. (XII. 22.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^491]: A 42. § c) pontja a 379/2016. (XII. 2.) Korm. rendelet 34. § 3. pontja szerint módosított szöveg.

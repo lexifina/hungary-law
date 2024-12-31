@@ -1,6 +1,6 @@
-## A tervezett éves keret megállapításának szabályai[^311]
+## A tervezett éves keret megállapításának szabályai[^314]
 
-27. §[^312] (1) A finanszírozási szerződésben minden ellátási forma tekintetében meghatározható a szolgáltató által nyújtható szolgáltatások köre, a tervezett éves keret, a teljesítés időbeli ütemezése, valamint a tervezett éves keret feletti ellátások köre. A járóbeteg- és aktív fekvőbeteg-szakellátás, az általános anesztéziában végzett egynapos fogászati ellátás, az aktív fekvőbeteg-szakellátási háttérrel nem rendelkező önálló egynapos sebészeti ellátások (a továbbiakban: önálló egynapos ellátások), továbbá a molekuláris diagnosztikai vizsgálatok (PCR) és laboratóriumi ellátások tervezett éves keretének finanszírozó általi megállapítása az e rendeletben foglaltak szerint történik.
+27. §[^315] (1) A finanszírozási szerződésben minden ellátási forma tekintetében meghatározható a szolgáltató által nyújtható szolgáltatások köre, a tervezett éves keret, a teljesítés időbeli ütemezése, valamint a tervezett éves keret feletti ellátások köre. A járóbeteg- és aktív fekvőbeteg-szakellátás, az általános anesztéziában végzett egynapos fogászati ellátás, az aktív fekvőbeteg-szakellátási háttérrel nem rendelkező önálló egynapos sebészeti ellátások (a továbbiakban: önálló egynapos ellátások), továbbá a molekuláris diagnosztikai vizsgálatok (PCR) és laboratóriumi ellátások tervezett éves keretének finanszírozó általi megállapítása az e rendeletben foglaltak szerint történik.
 
 (2) A tervezett éves keretek meghatározása a tárgyidőszakot megelőző finanszírozási évben (november–október) jelentett teljesítmények figyelembevételével történik, az e §-ban foglalt ellátási formáknak megfelelő speciális szabályok szerint.
 
@@ -64,5 +64,5 @@ kivételével történik.
 
 (19) A szolgáltatók tervezett éves keretei a finanszírozási év során a jelentett teljesítmények figyelembevételével felülvizsgálatra kerülhetnek, mely alapján az egészségügyért felelős miniszter kezdeményezheti a tervezett éves keretek mértékének megváltoztatását.
 
-[^311]: Az „A tervezett éves keret megállapításának szabályai” alcím címét a 697/2020. (XII. 29.) Korm. rendelet 9. §-a iktatta be.
-[^312]: A 27. § a 293/2024. (X. 9.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^314]: Az „A tervezett éves keret megállapításának szabályai” alcím címét a 697/2020. (XII. 29.) Korm. rendelet 9. §-a iktatta be.
+[^315]: A 27. § a 293/2024. (X. 9.) Korm. rendelet 2. §-ával megállapított szöveg.
