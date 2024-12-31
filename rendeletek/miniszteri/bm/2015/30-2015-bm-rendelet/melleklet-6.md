@@ -1,4 +1,4 @@
-6. melléklet a 30/2015. (VI. 16.) BM rendelethez[^36]
+6. melléklet a 30/2015. (VI. 16.) BM rendelethez[^39]
 
 A büntetés-végrehajtási szervezet szolgálati beosztásai
 
@@ -296,7 +296,7 @@ A büntetés-végrehajtási szervezet szolgálati beosztásai
 
 | 60. | segédfelügyelő | 520 |  |
 
-4.[^37] Megjegyzés:
+4.[^40] Megjegyzés:
 
 4.1. Agglomerációs központ (területi szerv): a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény végrehajtásáról szóló 154/2015. (VI. 19.) Korm. rendelet 1. melléklet V. pontjában foglalt táblázat B oszlopában meghatározott büntetés-végrehajtási szerv.
 
@@ -344,5 +344,5 @@ A büntetés-végrehajtási szervezet szolgálati beosztásai
 
 4.6. 570*: 570% a hivatásos pótlék mértéke, amennyiben speciális (hosszúidős, gyógyító-terápiás, pszichoszociális, szexuális bűncselekményt elkövetettek, drogprevenciós) részlegen, a fogvatartás biztonságára különös veszélyt jelentő elítéltek részlegén vagy HIV-részlegen, műveleti osztályon, illetve csoportban teljesít szolgálatot, vagy páncélozott szállítójárművet vezet, vagy ténylegesen életfogytiglani szabadságvesztésre ítélt fogvatartottat munkáltat.
 
-[^36]: A 6. melléklet a 2/2023. (I. 30.) BM rendelet 20. § f) pontjával megállapított szöveg.
-[^37]: A 6. melléklet 4. pontja a 29/2024. (VII. 12.) BM rendelet 1. §-ával megállapított szöveg.
+[^39]: A 6. melléklet a 2/2023. (I. 30.) BM rendelet 20. § f) pontjával megállapított szöveg.
+[^40]: A 6. melléklet 4. pontja a 29/2024. (VII. 12.) BM rendelet 1. §-ával megállapított szöveg.

@@ -1198,6 +1198,7 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 9.2.4. kiemelt rendőrkapitányságok: a BRFK II., III., IV., V., VII., VIII., IX., X., XI., XIII., XIV. kerületi Rendőrkapitányság és a Dunai Vízirendészeti Rendőrkapitányság, a vármegyeszékhelyi rendőrkapitányságok, a Gödöllői, a Soproni, a Nagykanizsai, a Dunaújvárosi, az Érdi, a Hódmezővásárhelyi Rendőrkapitányság,
 
-9.2.5. kiemelt határrendészeti kirendeltségek: a Szegedi, a Kiszombori, a Nagylaki, a Kelebiai, a Hercegszántói, a Bácsbokodi, a Bácsalmási, a Záhonyi Határrendészeti Kirendeltség.
+9.2.5.[^32] kiemelt határrendészeti kirendeltségek: a Szegedi, a Kiszombori, a Nagylaki, a Kelebiai, a Hercegszántói, a Bácsalmási, a Záhonyi Határrendészeti Kirendeltség.
 
 [^31]: A 2. melléklet a 92/2023. (XII. 28.) BM rendelet 1. § a) pontjával megállapított szöveg.
+[^32]: A 2. melléklet 9.2.5. pontja a 62/2024. (XII. 30.) BM rendelet 35. §-a szerint módosított szöveg.

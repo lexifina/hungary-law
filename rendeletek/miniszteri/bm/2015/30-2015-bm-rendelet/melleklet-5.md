@@ -1,4 +1,4 @@
-5. melléklet a 30/2015. (VI. 16.) BM rendelethez[^35]
+5. melléklet a 30/2015. (VI. 16.) BM rendelethez[^38]
 
 A hivatásos katasztrófavédelmi szerv szolgálati beosztásai
 
@@ -252,4 +252,4 @@ A hivatásos katasztrófavédelmi szerv szolgálati beosztásai
 
 4.2. KML: Katasztrófavédelmi mobil laborok
 
-[^35]: Az 5. melléklet a 2/2023. (I. 30.) BM rendelet 20. § e) pontjával megállapított szöveg.
+[^38]: Az 5. melléklet a 2/2023. (I. 30.) BM rendelet 20. § e) pontjával megállapított szöveg.

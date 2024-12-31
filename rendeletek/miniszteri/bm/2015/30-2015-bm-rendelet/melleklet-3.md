@@ -1,4 +1,4 @@
-3. melléklet a 30/2015. (VI. 16.) BM rendelethez[^32]
+3. melléklet a 30/2015. (VI. 16.) BM rendelethez[^33]
 
 A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv szolgálati beosztásai
 
@@ -42,9 +42,9 @@ A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv szolg
 
 1.1.1. *: A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv központi szervi jogállású, de igazgatója a vezetői beosztás szempontjából a területi szerv vezetőjével esik egy kategóriába.
 
-1.1.2. 720–800**: A Nemzeti Védelmi Szolgálat Központi Védelmi Igazgatóság Kiberfelderítési Főosztály vezetője esetében a hivatásos pótlék mértéke 720–800%.
+1.1.2.[^34] 720–800**: A Nemzeti Védelmi Szolgálat Közigazgatási Szervek Védelmi Igazgatósága Kiberfelderítési Főosztály vezetője esetében a hivatásos pótlék mértéke 720–800%.
 
-1.1.3. 870–950***: A Nemzeti Védelmi Szolgálat Központi Védelmi Igazgatóság Kiberfelderítési Főosztály Kibertechnológiai Osztály vezetője, valamint a Kiberfelderítő Osztály vezetője esetében a hivatásos pótlék mértéke 870–950%.
+1.1.3.[^35] 870–950***: A Nemzeti Védelmi Szolgálat Közigazgatási Szervek Védelmi Igazgatósága Kiberfelderítési Főosztály Kibertechnológiai Osztály vezetője, valamint a Kiberfelderítő Osztály vezetője esetében a hivatásos pótlék mértéke 870–950%.
 
 2. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
@@ -84,4 +84,6 @@ A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv szolg
 
 | 4. | D | szakreferens (kiberfelderítési) | 950 |  |
 
-[^32]: A 3. melléklet a 92/2023. (XII. 28.) BM rendelet 1. § b) pontjával megállapított szöveg.
+[^33]: A 3. melléklet a 92/2023. (XII. 28.) BM rendelet 1. § b) pontjával megállapított szöveg.
+[^34]: A 3. melléklet 1.1.2. pontja a 62/2024. (XII. 30.) BM rendelet 34. §-a szerint módosított szöveg.
+[^35]: A 3. melléklet 1.1.3. pontja a 62/2024. (XII. 30.) BM rendelet 34. §-a szerint módosított szöveg.

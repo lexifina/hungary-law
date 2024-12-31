@@ -1,4 +1,4 @@
-4/A. melléklet a 30/2015. (VI. 16.) BM rendelethez[^34]
+4/A. melléklet a 30/2015. (VI. 16.) BM rendelethez[^37]
 
 Az idegenrendészeti szerv szolgálati beosztásai
 
@@ -58,4 +58,4 @@ Az idegenrendészeti szerv szolgálati beosztásai
 
 | 10. | igazgatóság | B | referens | 520 | 520 |
 
-[^34]: A 4/A. melléklet a 2/2023. (I. 30.) BM rendelet 20. § d) pontjával megállapított szöveg.
+[^37]: A 4/A. melléklet a 2/2023. (I. 30.) BM rendelet 20. § d) pontjával megállapított szöveg.
