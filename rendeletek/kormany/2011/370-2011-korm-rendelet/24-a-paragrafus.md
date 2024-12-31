@@ -1,3 +1,3 @@
-24/A. §[^65]
+24/A. §[^66]
 
-[^65]: A 24/A. §-t a 264/2013. (VII. 11.) Korm. rendelet 7. §-a iktatta be.
+[^66]: A 24/A. §-t a 264/2013. (VII. 11.) Korm. rendelet 7. §-a iktatta be.

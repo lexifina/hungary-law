@@ -8,6 +8,6 @@ b) a beszámolás formáját és határidejét.
 
 (2) A tanácsadó tevékenység végrehajtása során nem kell alkalmazni a 33. §-ban, a 35–36. §-ban és a 38–47. §-ban foglaltakat.
 
-(3)[^88] Ha a belső ellenőrzési tevékenységet teljes körűen külső szolgáltató látja el, akkor a tanácsadó tevékenységre szóló felkérést minden esetben írásban kell rögzíteni.
+(3)[^89] Ha a belső ellenőrzési tevékenységet teljes körűen külső szolgáltató látja el, akkor a tanácsadó tevékenységre szóló felkérést minden esetben írásban kell rögzíteni.
 
-[^88]: A 37. § (3) bekezdése a 465/2015. (XII. 29.) Korm. rendelet 34. § 3. pontja szerint módosított szöveg.
+[^89]: A 37. § (3) bekezdése a 465/2015. (XII. 29.) Korm. rendelet 34. § 3. pontja szerint módosított szöveg.
