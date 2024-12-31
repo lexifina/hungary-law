@@ -1,5 +1,3 @@
-## 9. § A forgalmazókra vonatkozó, Büat. 10. § (1) bekezdése szerinti kötelezettségeknek való megfelelés ellenőrzéséhez a forgalmazók a motorhajtóanyagok terén elért, a teljes életciklusra számított üvegházhatású gázkibocsátásukra vonatkozó csökkentéseket összevetik a 7. mellékletben meghatározott, motorhajtóanyagokra vonatkozó kiindulási értékkel.
-
 ## 5. A fogyasztók tájékoztatása
 
 10. § (1) A motorhajtóanyagot kiszolgáló kútoszlopot
@@ -14,9 +12,9 @@ d) fémtartalmú adalékot tartalmazó motorhajtóanyag esetében „Fémtartalm
 
 jelöléssel kell ellátni, és fel kell hívni a figyelmet a motorhajtóanyagok rendeltetésszerű használatára.
 
-(1a)[^18] A motorhajtóanyagot kiszolgáló kútoszlopon és annak töltőpisztolyán az MSZ EN 16942 legkésőbbi évjelzetű szabványban meghatározott jelöléseket kell elhelyezni.
+(1a)[^23] A motorhajtóanyagot kiszolgáló kútoszlopon és annak töltőpisztolyán az MSZ EN 16942 legkésőbbi évjelzetű szabványban meghatározott jelöléseket kell elhelyezni.
 
-(2)[^19] Az (1) és (1a) bekezdés szerinti jelölésnek jól láthatónak és könnyen olvashatónak kell lennie.
+(2)[^24] Az (1) és (1a) bekezdés szerinti jelölésnek jól láthatónak és könnyen olvashatónak kell lennie.
 
-[^18]: A 10. § (1a) bekezdését a 36/2018. (XII. 21.) ITM rendelet 6. §-a iktatta be.
-[^19]: A 10. § (2) bekezdése a 36/2018. (XII. 21.) ITM rendelet 7. §-a szerint módosított szöveg.
+[^23]: A 10. § (1a) bekezdését a 36/2018. (XII. 21.) ITM rendelet 6. §-a iktatta be.
+[^24]: A 10. § (2) bekezdése a 36/2018. (XII. 21.) ITM rendelet 7. §-a szerint módosított szöveg.

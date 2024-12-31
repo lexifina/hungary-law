@@ -1,5 +1,3 @@
-## 14. § A forgalmazó a 8. § (2) bekezdése szerinti, a 2017. május és december közötti adatokkal feltöltött jelentést 2018. március 31-ig küldi meg az állami adó- és vámhatóságnak.
-
 15. § (1) Ez a rendelet
 
 a) a benzin és a dízelüzemanyagok minőségéről, valamint a 93/12/EGK tanácsi irányelv módosításáról szóló, 1998. október 13-i 98/70/EK európai parlamenti és tanácsi irányelvnek;
@@ -14,20 +12,19 @@ e) a benzin és a dízelüzemanyagok minőségéről szóló 98/70/EK európai p
 
 f) a benzin és a dízelüzemanyagok minőségéről szóló 98/70/EK európai parlamenti és tanácsi irányelv I. és II. mellékletének módosításáról szóló, 2014. június 10-i 2014/77/EU bizottsági irányelvnek;
 
-g) a benzin és a dízelüzemanyagok minőségéről szóló 98/70/EK európai parlamenti és tanácsi irányelv szerinti számítási módszerek és jelentéstételi követelmények meghatározásáról szóló, 2015. április 20-i (EU) 2015/652/EU tanácsi irányelvnek;
+g)[^26] az (EU) 2018/2001 irányelvnek, az (EU) 2018/1999 rendeletnek és a 98/70/EK irányelvnek a megújuló energiaforrásokból előállított energia előmozdítása tekintetében történő módosításáról, valamint az (EU) 2015/652 tanácsi irányelv hatályon kívül helyezéséről szóló, 2023. október 18-i (EU) 2023/2413 európai parlamenti és tanácsi irányelvnek;
 
-h)[^20] az alternatív üzemanyagok infrastruktúrájának kiépítéséről szóló 2014. október 22-i 2014/94/EU európai parlamenti és tanácsi irányelvnek
+h)[^27]
 
-i)[^21] az egyes folyékony tüzelőanyagok kéntartalmának csökkentéséről szóló 2016. május 11-i (EU) 2016/802 európai parlamenti és tanácsi irányelvnek
+i)[^28] az egyes folyékony tüzelőanyagok kéntartalmának csökkentéséről szóló 2016. május 11-i (EU) 2016/802 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
 (2) Ez a rendelet az üzemanyagok minőségére vonatkozó nemzeti adatokat összefoglaló beadvány egységes formájáról szóló, 2002. február 18-i 2002/159/EK bizottsági határozat végrehajtásához szükséges rendelkezéseket állapít meg.
 
-(3)[^22] A 8. § az energiaunió és az éghajlat-politika irányításáról, valamint a 663/2009/EK és a 715/2009/EK európai parlamenti és tanácsi rendelet, a 94/22/EK, a 98/70/EK, a 2009/31/EK a 2009/73/EK, a 2010/31/EU, a 2012/27/EU
+(3)[^29]
 
-és a 2013/30/EU európai parlamenti és tanácsi irányelv, a 2009/119/EK és az (EU) 2015/652 tanácsi irányelv módosításáról, továbbá az 525/2013/EU európai parlamenti és tanácsi rendelet hatályon kívül helyezéséről szóló, 2018. december 11-i (EU) 2018/1999 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
-
-[^20]: A 15. § (1) bekezdés h) pontját a 36/2018. (XII. 21.) ITM rendelet 8. §-a iktatta be.
-[^21]: A 15. § (1) bekezdés i) pontját a 7/2023. (V. 9.) EM rendelet 4. §-a iktatta be.
-[^22]: A 15. § (3) bekezdését a 61/2020. (XII. 30.) ITM rendelet 9. §-a iktatta be.
+[^26]: A 15. § (1) bekezdés g) pontja a 41/2024. (XII. 30.) EM rendelet 3. §-ával megállapított szöveg.
+[^27]: A 15. § (1) bekezdés h) pontját a 36/2018. (XII. 21.) ITM rendelet 8. §-a iktatta be, a 41/2024. (XII. 30.) EM rendelet 5. § d) pontja hatályon kívül helyezte.
+[^28]: A 15. § (1) bekezdés i) pontját a 7/2023. (V. 9.) EM rendelet 4. §-a iktatta be.
+[^29]: A 15. § (3) bekezdését a 61/2020. (XII. 30.) ITM rendelet 9. §-a iktatta be, a 41/2024. (XII. 30.) EM rendelet 5. § e) pontja hatályon kívül helyezte.
