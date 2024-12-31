@@ -49,3 +49,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-191-20-
 | 2023-07-01 | 2008-191-20-22.47 | 629/2022. (XII. 30.) Korm. rendelet |
 | 2023-07-28 | 2008-191-20-22.48 | 349/2023. (VII. 27.) Korm. rendelet |
 | 2024-01-01 | 2008-191-20-22.49 | 419/2015. (XII. 23.) Korm. rendelet |
+| 2024-12-31 | 2008-191-20-22.51 | 463/2024. (XII. 30.) Korm. rendelet |
