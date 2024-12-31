@@ -78,7 +78,7 @@ ab) ismeretlen módon biztosított az ivóvíz,
 
 28. rétegvíz: üledékes-törmelékes képződményekben a talajvíz alatt elhelyezkedő felszín alatti víz,
 
-28a.[^12] saját célú ivóvízmű: víztermelő létesítmény, a hozzá tartozó gépészet és a csatlakozó-, házi ivóvízhálózat, illetve a víztisztítási feladatokat ellátó vízilétesítmény vagy víztisztító berendezés, amely a víziközmű-szolgáltatásról szóló törvény szerint nem minősül víziközműnek, és amely lehet
+28a.[^12] saját célú ivóvízmű: víztermelő létesítmény, a hozzá tartozó gépészet és a csatlakozó-, házi ivóvízhálózat, valamint víztisztítás szükségessége esetén a hozzá csatlakozó, a víztisztítási feladatokat ellátó vízilétesítmény vagy víztisztító berendezés, amely a víziközmű-szolgáltatásról szóló törvény szerint nem minősül víziközműnek, és amely lehet
 
 a) magán ivóvízellátást biztosító saját célú ivóvízmű: házi ivóvízigényt kiszolgáló vízilétesítmény, amely egy háztartás ingatlanon belüli legfeljebb 500 m3/év ivóvízigényét fedezi,
 
@@ -121,6 +121,6 @@ b) közösségi ivóvízellátást biztosító saját célú ivóvízmű: közö
 [^9]: A 2. § 22. pontja az 518/2017. (XII. 29.) Korm. rendelet 30. § (1) bekezdésével megállapított szöveg.
 [^10]: A 2. § 22a. pontját a 6/2023. (I. 12.) Korm. rendelet 19. § (2) bekezdése iktatta be.
 [^11]: A 2. § 24. pontja a 286/2019. (XII. 4.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.
-[^12]: A 2. § 28a. pontját a 100/2016. (V. 13.) Korm. rendelet 13. § (2) bekezdése iktatta be, szövege a 6/2023. (I. 12.) Korm. rendelet 19. § (3) bekezdésével megállapított szöveg.
+[^12]: A 2. § 28a. pontját a 100/2016. (V. 13.) Korm. rendelet 13. § (2) bekezdése iktatta be, szövege a 6/2023. (I. 12.) Korm. rendelet 19. § (3) bekezdésével megállapított, nyitó szövegrésze a 463/2024. (XII. 30.) Korm. rendelet 44. §-a szerint módosított szöveg.
 [^13]: A 2. § 30a. pontját a 100/2016. (V. 13.) Korm. rendelet 13. § (3) bekezdése iktatta be.
 [^14]: A 2. § 34. pontja a 100/2016. (V. 13.) Korm. rendelet 19. §-a szerint módosított szöveg.
