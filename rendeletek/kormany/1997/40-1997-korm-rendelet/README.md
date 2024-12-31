@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-40-20-2
 | 2013-01-01 | 1997-40-20-22.5 | 174/2012. (VII. 26.) Korm. rendelet |
 | 2015-04-01 | 1997-40-20-22.6 | 174/2012. (VII. 26.) Korm. rendelet |
 | 2015-09-19 | 1997-40-20-22.7 | 110/1998. (VI. 3.) Korm. rendelet |
+| 2024-12-31 | 1997-40-20-22.8 | 463/2024. (XII. 30.) Korm. rendelet |
