@@ -10,6 +10,9 @@
 
 (6)[^15] A Mentőszolgálat mentőjárműveit mentésre, rendezvények egészségügyi biztosítására, mozgóőrségre, helyszínbiztosításra, külföldi beteg- és szervszállításra, továbbá külföldi és belföldi szervátültetéssel kapcsolatos sürgős szállításra lehet igénybe venni. A Mentőszolgálat betegszállító járműveit belföldi betegszállításra lehet igénybe venni. A Mentőszolgálat főigazgatója vagy az általa megbízott személy rendkívül indokolt esetben a mentő és a betegszállító járművek más célú igénybevételét is engedélyezheti.
 
+(7)[^16] A Mentőszolgálat a pirotechnikai termékek használatával kapcsolatos, sérüléssel járó balesetek számáról vagy sérülések számáról, valamint a balesetekből eredő sérülések korcsoport és sérüléstípus szerinti bontásban megadott számára vonatkozó információkról nyilvántartást vezet.
+
 [^13]: A 7. § (1) bekezdése a 172/2016. (VII. 1.) Korm. rendelet 30. § (1) bekezdésével megállapított szöveg.
 [^14]: A 7. § (3) bekezdése a 172/2016. (VII. 1.) Korm. rendelet 30. § (2) bekezdésével megállapított szöveg.
 [^15]: A 7. § (6) bekezdése a 172/2016. (VII. 1.) Korm. rendelet 30. § (3) bekezdésével megállapított szöveg.
+[^16]: A 7. § (7) bekezdését a 463/2024. (XII. 30.) Korm. rendelet 34. §-a iktatta be.
