@@ -128,4 +128,14 @@ Határidő: a felmerülés ütemében
 
 24.[^1] egyetért azzal, hogy a 10. és 11. pont kapcsán további központi költségvetési többletforrás biztosítása nem szükséges.
 
+25.[^2] felhívja a pénzügyminisztert, hogy – a kultúráért és innovációért felelős miniszter bevonásával – a 3. pont b) alpontja szerinti Fiatalokért Központ kialakítását érintő, az 1. pont szerinti egységes érintett fejlesztési területek összehangolt infrastrukturális szükségleteihez, valamint az infrastrukturális hálózatok elhelyezéséhez kapcsolódó előkészítő tevékenység megvalósulása érdekében gondoskodjon 2 000 000 000 forint forrás biztosításáról elszámolási és visszafizetési kötelezettség előírásával a Magyarország 2024. évi központi költségvetéséről szóló 2023. évi LV. törvény 1. melléklet XX. Kulturális és Innovációs Minisztérium fejezet, 20. Fejezeti Kezelésű Előirányzatok cím, 12. Felsőoktatási feladatok alcím, 2. Felsőoktatás speciális feladatai jogcímcsoport javára;
+
+| Felelős: | pénzügyminiszter kultúráért és innovációért felelős miniszter |
+
+| Határidő: | azonnal |
+
+26.[^3] egyetért azzal, hogy a 25. pontban foglalt feladatokat a Velencei-tó és Térsége, Váli-völgy, Vértes Térségi Fejlesztési Tanács valósítsa meg.
+
 [^1]: A 24. pontot az 1291/2024. (IX. 19.) Korm. határozat 85. pontja iktatta be.
+[^2]: A 25. pontot az 1453/2024. (XII. 31.) Korm. határozat iktatta be.
+[^3]: A 26. pontot az 1453/2024. (XII. 31.) Korm. határozat iktatta be.
