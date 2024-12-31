@@ -18,7 +18,7 @@
 
 (8)[^48] Az egyszerűsített végelszámolás esetén használható mintaokiratokat a 13–18. számú melléklet tartalmazza.
 
-(9)[^49] Egyszerűsített végelszámolás esetén a cég az egyszerűsített végelszámolás befejezésével összefüggő okiratokat a személyre szabott ügyintézési felület útján és az elektronikus ügyintézés részletszabályairól szóló 451/2016. (XII. 19.) Korm. rendelet 12. § (1) bekezdés d) pontja szerinti dokumentumhitelesítéssel küldheti meg a cégbírósághoz.
+(9)[^49]
 
 [^41]: A 11. § (2) bekezdése a 16/2018. (VI. 22.) IM rendelet 7. § (1) bekezdésével megállapított szöveg.
 [^42]: A 11. § (3) bekezdése a 16/2018. (VI. 22.) IM rendelet 7. § (1) bekezdésével megállapított szöveg.
@@ -28,4 +28,4 @@
 [^46]: A 11. § (6) bekezdése a 12/2014. (II. 28.) KIM rendelet 5. § (10) bekezdés b) pontja, a 16/2018. (VI. 22.) IM rendelet 8. §-a szerint módosított szöveg.
 [^47]: A 11. § (7) bekezdését a 21/2018. (VII. 4.) IM rendelet 4. § (2) bekezdése iktatta be.
 [^48]: A 11. § (8) bekezdését a 21/2018. (VII. 4.) IM rendelet 4. § (2) bekezdése iktatta be.
-[^49]: A 11. § (9) bekezdését a 21/2018. (VII. 4.) IM rendelet 4. § (2) bekezdése iktatta be.
+[^49]: A 11. § (9) bekezdését a 21/2018. (VII. 4.) IM rendelet 4. § (2) bekezdése iktatta be, a 27/2024. (XII. 30.) IM rendelet 4. §-a hatályon kívül helyezte.
