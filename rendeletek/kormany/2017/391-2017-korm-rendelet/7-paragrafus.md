@@ -1,5 +1,3 @@
-## 6. § A közalkalmazott – a közalkalmazotti jogviszonyban töltött idő alapján – meghatározott idő elteltével magasabb fizetési fokozatba lép. A közalkalmazottat a tárgyév első napján kell a magasabb fizetési fokozatba besorolni. A magasabb fizetési fokozat elérésével a várakozási idő újra kezdődik a 3. mellékletben megjelöltek szerint.
-
 7. § (1) Ha a közalkalmazott a besorolásakor nem rendelkezik a munkakör betöltéséhez előírt képesítéssel, indokolt esetben a munkáltatói jogkör gyakorlója át nem ruházható jogkörében mentesítést adhat, ha
 
 a) a közalkalmazott a képesítési követelmény teljesítése érdekében tanulmányait megkezdte, vagy
@@ -12,4 +10,6 @@ b) a munkáltató nem foglalkoztat olyan, a képesítési követelményeknek meg
 
 (4) A munkáltatói jogkör gyakorlója a képesítési követelmények teljesítése alól a határozott időre kinevezett közalkalmazottat a kinevezés időtartamára mentesítheti.
 
-(5) A (2) bekezdés szerinti mentesítés időtartamának eredménytelen letelte esetén a közalkalmazottat a meglévő iskolai végzettségének megfelelő munkaköri kategóriába és munkakörbe kell besorolni, illetményét a rá irányadó illetménytábla szerinti fizetési fokozat szerint kell megállapítani.
+(5)[^10] A (2) bekezdés szerinti mentesítés időtartamának eredménytelen letelte esetén a közalkalmazottat a meglévő iskolai végzettségének megfelelő munkaköri kategóriába és munkakörbe kell besorolni, illetményét ennek megfelelően kell megállapítani.
+
+[^10]: A 7. § (5) bekezdése a 468/2024. (XII. 30.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
