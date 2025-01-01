@@ -4,7 +4,7 @@
 
 ## 6. A kinevezés
 
-11. § (1) Ügyésszé azt az egyetemi jogi végzettséggel és jogi szakvizsgával rendelkező magyar állampolgárt lehet kinevezni, aki nem áll cselekvőképességet érintő gondnokság vagy támogatott döntéshozatal hatálya alatt. A katonai ügyészi kinevezés további feltétele, hogy a kinevezendő személy a Magyar Honvédség hivatásos állományú tisztje legyen.
+11. § (1) Ügyésszé kinevezni, illetve legfőbb ügyésszé megválasztani azt az egyetemi jogi végzettséggel és jogi szakvizsgával rendelkező magyar állampolgárt lehet, aki nem áll cselekvőképességet érintő gondnokság vagy támogatott döntéshozatal hatálya alatt. A katonai ügyészi kinevezés további feltétele, hogy a kinevezendő személy a Magyar Honvédség hivatásos állományú tisztje legyen.
 
 (2) Az (1) bekezdésben foglalt feltételeken túl az a személy nevezhető ki ügyésszé, aki a jogi szakvizsga letételét követően
 
