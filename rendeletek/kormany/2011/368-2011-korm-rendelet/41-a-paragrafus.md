@@ -1,4 +1,4 @@
-41/A. §[^170] (1) A Kormány irányítása alá tartozó fejezet esetében a fejezetet irányító szerv az általa irányított fejezetbe sorolt fejezeti kezelésű előirányzat, központi kezelésű előirányzat terhére az Áht. 33. § (3a) bekezdése alapján történő előirányzat-átcsoportosítási döntéséről az államháztartásért felelős minisztert és a Kincstárt elektronikus úton, az előirányzat-átcsoportosítás indokára, valamint az Áht. 33. § (3a) bekezdésében foglalt feltételek fennállására is kiterjedően tájékoztatja, és megküldi
+41/A. §[^173] (1) A Kormány irányítása alá tartozó fejezet esetében a fejezetet irányító szerv az általa irányított fejezetbe sorolt fejezeti kezelésű előirányzat, központi kezelésű előirányzat terhére az Áht. 33. § (3a) bekezdése alapján történő előirányzat-átcsoportosítási döntéséről az államháztartásért felelős minisztert és a Kincstárt elektronikus úton, az előirányzat-átcsoportosítás indokára, valamint az Áht. 33. § (3a) bekezdésében foglalt feltételek fennállására is kiterjedően tájékoztatja, és megküldi
 
 a) a fejezeten belüli előirányzat-átcsoportosításra, vagy ha az előirányzat-átcsoportosítással érintett fejezetek fejezetet irányító szervének vezetője azonos személy, a fejezetek közötti átcsoportosításra a fejezetet irányító szerv vezetőjének egyoldalú írásbeli jognyilatkozatát, vagy
 
@@ -18,4 +18,4 @@ b) nem ért egyet, akkor a Kincstár az előirányzat-átcsoportosítást végre
 
 (6) Az államháztartásért felelős miniszter a (4) és (5) bekezdésben foglaltakról az érintett fejezetet irányító szervet és a Kincstárt tájékoztatja.
 
-[^170]: Az Ávr. 41/A. §-át az 560/2023. (XII. 14.) Korm. rendelet 6. §-a iktatta be.
+[^173]: Az Ávr. 41/A. §-át az 560/2023. (XII. 14.) Korm. rendelet 6. §-a iktatta be.

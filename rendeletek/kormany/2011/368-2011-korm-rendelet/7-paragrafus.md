@@ -1,6 +1,6 @@
-## [Az Áht. 10. § (1)–(4b) bekezdéséhez][^33]
+## [Az Áht. 10. § (1)–(4b) bekezdéséhez][^36]
 
-7. §[^34] (1) A költségvetési szerv
+7. §[^37] (1) A költségvetési szerv
 
 a) a személyi juttatásokkal és az azokhoz kapcsolódó járulékok és egyéb közterhek előirányzataival minden esetben,
 
@@ -8,8 +8,8 @@ b) a működtetéshez, a vagyon használatához, valamint az a) pontba nem tarto
 
 rendelkezik.
 
-(2)[^35]
+(2)[^38]
 
-[^33]: Az Ávr. 7. §-át megelőző alcím címe a 397/2014. (XII. 31.) Korm. rendelet 44. § 2. pontja szerint módosított szöveg.
-[^34]: Az Ávr. 7. §-a a 497/2013. (XII. 29.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^35]: Az Ávr. 7. § (2) bekezdését a 397/2014. (XII. 31.) Korm. rendelet 45. § (2) bekezdés 1. pontja hatályon kívül helyezte.
+[^36]: Az Ávr. 7. §-át megelőző alcím címe a 397/2014. (XII. 31.) Korm. rendelet 44. § 2. pontja szerint módosított szöveg.
+[^37]: Az Ávr. 7. §-a a 497/2013. (XII. 29.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^38]: Az Ávr. 7. § (2) bekezdését a 397/2014. (XII. 31.) Korm. rendelet 45. § (2) bekezdés 1. pontja hatályon kívül helyezte.
