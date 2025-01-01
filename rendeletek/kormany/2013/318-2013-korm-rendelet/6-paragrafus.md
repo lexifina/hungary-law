@@ -1,3 +1,3 @@
-## 5. §[^20]
+6. §[^22]
 
-[^20]: Az 5. §-t a 221/2014. (IX. 4.) Korm. rendelet 753. §-a hatályon kívül helyezte.
+[^22]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

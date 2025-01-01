@@ -1,10 +1,10 @@
 ## 2. A hulladéklerakási járulék felhasználásának céljai
 
-3. § (1)[^7] A hulladéklerakási járulékból befolyt összeget a hulladékgazdálkodásért felelős miniszter a következőkre fordítja:
+3. § (1)[^8] A hulladéklerakási járulékból befolyt összeget a hulladékgazdálkodásért felelős miniszter a következőkre fordítja:
 
-a)[^8] az egyes közszolgáltatások ellátásáról és az ezzel összefüggő törvénymódosításokról szóló 2013. évi CXXXIV. törvény 3. § (5) bekezdése alapján az ideiglenes ellátás, valamint a szükségellátás költségeinek, illetve az ideiglenes ellátás és szükségellátás során felmerülő működési, fejlesztési és ellenőrzési költségek fedezetére a nem rendszeres hulladékszállítás szabályairól és az ennek során eljáró állami szervek kijelöléséről 292/2013. (VII. 26.) Korm. rendelet 18/A. § (2) és (3) bekezdéseiben foglaltak esetén;
+a)[^9] az egyes közszolgáltatások ellátásáról és az ezzel összefüggő törvénymódosításokról szóló 2013. évi CXXXIV. törvény 3. § (5) bekezdése alapján az ideiglenes ellátás, valamint a szükségellátás költségeinek, illetve az ideiglenes ellátás és szükségellátás során felmerülő működési, fejlesztési és ellenőrzési költségek fedezetére a nem rendszeres hulladékszállítás szabályairól és az ennek során eljáró állami szervek kijelöléséről 292/2013. (VII. 26.) Korm. rendelet 18/A. § (2) és (3) bekezdéseiben foglaltak esetén;
 
-b)[^9]
+b)[^10]
 
 c) a hulladékképződés megelőzését szolgáló ösztönző rendszerek támogatására;
 
@@ -20,19 +20,19 @@ h) a hulladékgazdálkodással kapcsolatos lakossági szemléletformálásra, il
 
 i) az országos és területi hulladékgazdálkodási tervek, megelőzési programok előkészítésének és megalkotásának finanszírozására;
 
-j)[^10] egyéb, a hulladékgazdálkodásért felelős miniszter által meghatározott, hulladékgazdálkodással összefüggő állami feladatok ellátására;
+j)[^11] egyéb, a hulladékgazdálkodásért felelős miniszter által meghatározott, hulladékgazdálkodással összefüggő állami feladatok ellátására;
 
 k) a b)–j) pontban foglalt feladatok végrehajtása körében felmerülő működési és fejlesztési költségek fedezetére; továbbá
 
 l) a hulladéklerakási járulék befizetési kötelezettségének körében felmerülő pénzügyi, számviteli, hatósági, ellenőrzési és ügyviteli feladatok ellátásának fedezetére.
 
-(2)[^11] A hulladékgazdálkodásért felelős miniszter az (1) bekezdés k) és l) pontjában meghatározott feladatra a hulladéklerakási járulékból befolyt összeg tárgyévi pénzforrásainak 10%-át, de legfeljebb 2 milliárd forintot használhat fel.
+(2)[^12] A hulladékgazdálkodásért felelős miniszter az (1) bekezdés k) és l) pontjában meghatározott feladatra a hulladéklerakási járulékból befolyt összeg tárgyévi pénzforrásainak 10%-át, de legfeljebb 2 milliárd forintot használhat fel.
 
-(3)[^12]
+(3)[^13]
 
-[^7]: A 3. § (1) bekezdés nyitó szövegrésze a 132/2018. (VII. 23.) Korm. rendelet 11. §-a szerint módosított szöveg.
-[^8]: A 3. § (1) bekezdés a) pontja a 373/2016. (XI. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^9]: A 3. § (1) bekezdés b) pontját a 373/2016. (XI. 29.) Korm. rendelet 2. §-a hatályon kívül helyezte.
-[^10]: A 3. § (1) bekezdés j) pontja a 132/2018. (VII. 23.) Korm. rendelet 11. §-a szerint módosított szöveg.
-[^11]: A 3. § (2) bekezdése a 132/2018. (VII. 23.) Korm. rendelet 11. §-a szerint módosított szöveg.
-[^12]: A 3. § (3) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 753. §-a hatályon kívül helyezte.
+[^8]: A 3. § (1) bekezdés nyitó szövegrésze a 132/2018. (VII. 23.) Korm. rendelet 11. §-a szerint módosított szöveg.
+[^9]: A 3. § (1) bekezdés a) pontja a 373/2016. (XI. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^10]: A 3. § (1) bekezdés b) pontját a 373/2016. (XI. 29.) Korm. rendelet 2. §-a hatályon kívül helyezte.
+[^11]: A 3. § (1) bekezdés j) pontja a 132/2018. (VII. 23.) Korm. rendelet 11. §-a szerint módosított szöveg.
+[^12]: A 3. § (2) bekezdése a 132/2018. (VII. 23.) Korm. rendelet 11. §-a szerint módosított szöveg.
+[^13]: A 3. § (3) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 753. §-a hatályon kívül helyezte.

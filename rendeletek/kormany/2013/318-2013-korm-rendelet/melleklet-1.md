@@ -1,6 +1,17 @@
-## 6. §[^21]
+1. melléklet a 318/2013. (VIII. 28.) Korm. rendelethez[^23]
 
-1. melléklet a 318/2013. (VIII. 28.) Korm. rendelethez[^22]
+A hulladéklerakási járulékfizetési kötelezettség bejelentéséhez szükséges adatok
 
-[^21]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^22]: Az 1. melléklet a 310/2014. (XII. 11.) Korm. rendelet 18. § (4) bekezdésével megállapított szöveg.
+A kötelezett nyilvántartásba vételi bejelentéséhez vagy megszűnés bejelentéséhez szükséges adatok:
+
+a) a kötelezett neve és KÜJ-azonosítója;
+
+b) a kötelezett telephelyének KTJ-azonosítója;
+
+c) a fizetési kötelezettség keletkezésének vagy megszűnésének dátuma;
+
+d) az adatszolgáltatásért felelős neve, beosztása, elérhetősége;
+
+e) a bejelentés kitöltésének dátuma.
+
+[^23]: Az 1. melléklet a 340/2024. (XI. 14.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.

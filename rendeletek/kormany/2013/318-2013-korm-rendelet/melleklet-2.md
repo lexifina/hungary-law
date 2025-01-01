@@ -1,18 +1,4 @@
-## A hulladéklerakási járulékfizetési kötelezettség bejelentéséhez szükséges adatok
-
-## A kötelezett nyilvántartásba vételi bejelentéséhez vagy megszűnés bejelentéséhez szükséges adatok:
-
-## a) a kötelezett neve, székhelyének címe, KÜJ-azonosítója, KSH statisztikai számjele;
-
-## b) a kötelezett telephelyének neve, címe, KTJ-azonosítója;
-
-## c) a fizetési kötelezettség keletkezésének vagy megszűnésének dátuma;
-
-## d) az adatszolgáltatásért felelős neve, beosztása, elérhetősége;
-
-## e) a bejelentés kitöltésének dátuma.
-
-2. melléklet a 318/2013. (VIII. 28.) Korm. rendelethez[^23]
+2. melléklet a 318/2013. (VIII. 28.) Korm. rendelethez[^24]
 
 Hulladéklerakási járulék adatszolgáltatási lap
 
@@ -20,23 +6,20 @@ A kötelezett adatszolgáltatása során beküldendő adatok:
 
 a) beszámolási időszak (év, negyedév);
 
-b) a kötelezett neve, székhelyének címe, KÜJ-azonosítója, KSH számjele;
+b) a kötelezett neve és KÜJ-azonosítója;
 
 c) a hulladéklerakási járulék fizetési kötelezettség telephelyenként összesített összege;
 
-d) az adatszolgáltatásért felelős neve, beosztása, elérhetősége;
+d) az adatszolgáltatásért felelős neve, beosztása, elérhetősége (változás esetén);
 
-e) a kötelezett telephelyének neve, címe, KTJ-azonosítója;
+e) a kötelezett telephelyének KTJ-azonosítója;
 
 f) az ártalmatlanítási művelet azonosító kódja;
 
-g) hulladékgazdálkodási engedély száma;
+g) a hulladéklerakási járulékfizetési kötelezettséggel érintett hulladékra vonatkozó adatok [hulladékjegyzék szerinti azonosító kód, mennyiség (t), egységár (Ft/t), hulladék lerakási járulék összege (Ft)];
 
-h)[^24] a hulladéklerakási járulékfizetési kötelezettséggel érintett hulladékra vonatkozó adatok (hulladékjegyzék szerinti azonosító kód, mennyiség (t), egységár (Ft/t), hulladék lerakási járulék összege (Ft);
+h) az adatszolgáltatás kitöltésének dátuma;
 
-i) az adatszolgáltatás kitöltésének dátuma;
+i) fizetendő hulladéklerakási járulék az adott telephelyen összesen (Ft).
 
-j) fizetendő hulladéklerakási járulék az adott telephelyen összesen (Ft).
-
-[^23]: A 2. melléklet a 310/2014. (XII. 11.) Korm. rendelet 18. § (5) bekezdésével megállapított szöveg.
-[^24]: A 2. melléklet h) pontja a 196/2016. (VII. 13.) Korm. rendelet 3. § (3) bekezdése szerint módosított szöveg.
+[^24]: A 2. melléklet a 340/2024. (XI. 14.) Korm. rendelet 15. § (3) bekezdésével megállapított szöveg.
