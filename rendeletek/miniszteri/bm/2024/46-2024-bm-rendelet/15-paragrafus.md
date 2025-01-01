@@ -1,3 +1,1 @@
-15. §[^4]
-
-[^4]: A 15. § a 12. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+15. § Hatályát veszti a belügyminiszter irányítása alá tartozó rendvédelmi feladatokat ellátó szervek hivatásos állományának 2024. évi ruházati utánpótlási ellátmánya terhére kiadandó természetbeni ellátásról szóló 37/2023. (IX. 12.) BM rendelet.
