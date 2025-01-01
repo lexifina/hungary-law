@@ -10,13 +10,15 @@ Alapvető felhasználóként történő kijelölés során figyelembe veendő l�
 
 4. Kiemelt jelentőségű honvédelmi létesítmény.
 
-5.[^9] A BM OKF, a vármegyei (fővárosi) katasztrófavédelmi irányító központ, és a vármegyei (fővárosi) védelmi bizottság működési helye.
+5.[^10] A BM OKF, a vármegyei (fővárosi) katasztrófavédelmi irányító központ, és a vármegyei (fővárosi) védelmi bizottság működési helye.
 
 6. A katasztrófavédelmi és rendvédelmi szervek különleges jogrend időszaki üzemanyag igényét biztosító, illetve a nemzeti stratégiai tartalékot kezelő társaság üzemanyag töltőállomásai közül, katasztrófavédelmi kirendeltségenként egy töltőállomás.
 
 7. Az országos közszolgálati televízió- és rádióállomás, és hírközlési eszközei, valamint a hivatásos, rendvédelmi szervek hírforgalmazását biztosító hálózati berendezések.
 
-8. A fekvőbeteg-szakellátást nyújtó szolgáltatók, valamint a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló törvény hatálya alá tartozó egészségügyi alágazatokhoz tartozó további szolgáltatók.
+8.[^11] A kritikus szervezetek ellenálló képességéről szóló törvény szerinti kritikus szervezetek és kritikus infrastruktúrák.
+
+8a.[^12] A védelmi és biztonsági tevékenységek összehangolásáról szóló törvény szerinti, az ország védelme és biztonsága szempontjából jelentős szervezetek, az ország védelem és biztonsága szempontjából jelentős infrastruktúrák.
 
 9. Közforgalmi repülőtér, valamint repülésirányító és repülésbiztonsági berendezés.
 
@@ -24,4 +26,6 @@ Alapvető felhasználóként történő kijelölés során figyelembe veendő l�
 
 11. Kényszeráramú szennyvízszállítást és szennyvíztisztítást biztosító létesítmény, valamint árvíz és belvízvédekezés idején belvízmentesítést szolgáló szivattyútelepe.
 
-[^9]: A 2. melléklet 5. pontja a 616/2022. (XII. 29.) Korm. rendelet 237. § a) pontja szerint módosított szöveg.
+[^10]: A 2. melléklet 5. pontja a 616/2022. (XII. 29.) Korm. rendelet 237. § a) pontja szerint módosított szöveg.
+[^11]: A 2. melléklet 8. pontja a 474/2024. (XII. 31.) Korm. rendelet 152. §-ával megállapított szöveg.
+[^12]: A 2. melléklet 8a. pontját a 474/2024. (XII. 31.) Korm. rendelet 152. §-a iktatta be.
