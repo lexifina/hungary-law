@@ -1,7 +1,0 @@
-7. § (1) Az engedélyezésre irányuló kérelem tartalmazza a 6. § (2) és (3) bekezdése szerinti adatokat. A kérelmet a külföldön történő adatkezelés megkezdését megelőzően kilencven nappal kell benyújtani a hatóság részére. A 6. § (2) bekezdés b), e) és f) pontja, és a 6. § (3) bekezdése szerinti dokumentációkat, okiratokat az eredetivel megegyező másolatban, és hiteles magyar fordításban a kérelem mellékleteként csatolni kell.
-
-(2) A hatóság engedélye hiányában az elektronikus információs rendszer EGT tagállamban történő üzemeltetése, továbbá ilyen rendszeren adatfeldolgozói, adatkezelői tevékenység nem kezdhető meg. Az engedély lejártát a benyújtott tanúsítványok érvényességi időtartamához igazodóan kell megállapítani.
-
-(3) Ha a külföldön végzett adatkezelésre vagy rendszerüzemeltetésre olyan nemzetközi szerződés alapján kerül sor, amelyben az állam az egyik szerződő fél, a hatóságot tájékoztatni kell az érintett adatokról, az adatfeldolgozó vagy üzemeltető személyéről, és a szerződéses jogviszony tartalmáról. A hatóság a tájékoztatást további eljárás lefolytatása nélkül tudomásul veszi.
-
-(4) Ha a hatóság tudomására jut, hogy az érintett szervezet az adatkezelést vagy üzemeltetést – ideértve a nem azonosítható adatkezelési, vagy jogszabály által kizárt helyszínen megvalósuló, felhő alapú számítástechnikai szolgáltatásokat is – jogosulatlanul Magyarországon kívül folytatja, a hatóság a 13. § szerinti jogkövetkezményt alkalmazza.

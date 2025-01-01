@@ -1,8 +1,0 @@
-32. §[^48] (1) Az egyedüli kapcsolattartó pont a 29/A. § (2) bekezdés a)–d) pontja szerinti információkat első alkalommal 2018. november 9-éig, ezt követően legalább kétévente megküldi az Európai Bizottság részére.
-
-(2) Az egyedüli kapcsolattartó pont 2018. augusztus 9-ig, azt követően pedig évente egyszer köteles összefoglaló jelentést benyújtani az Irányelv szerinti együttműködési csoportnak az alapvető szolgáltatásokat nyújtó szolgáltatóktól, valamint a bejelentés-köteles szolgáltatóktól kapott bejelentésekről, és a jelentésnek tartalmaznia kell a bejelentések számát, a bejelentett biztonsági események jellegét, valamint a hozott intézkedéseket.
-
-(3)[^49] A BM OKF első alkalommal 2018. október 31-éig, ezt követően legalább kétévente tájékoztatást nyújt az egyedüli kapcsolattartó pont részére a 29/A. § (2) bekezdése szerinti jelentéshez.
-
-[^48]: A 32. § a 323/2018. (XII. 28.) Korm. rendelet 51. §-ával megállapított szöveg.
-[^49]: A 32. § (3) bekezdése a 375/2020. (VII. 30.) Korm. rendelet 72. § d) pontja szerint módosított szöveg.

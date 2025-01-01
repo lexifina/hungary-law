@@ -1,3 +1,0 @@
-10. § (1) Az érintett szervezet vagy szervezeti egység biztonsági szintbe sorolásának ellenőrzése a hatóságnak megküldött információk alapján – ideértve a szervezetre, vagy szervezeti egységre vonatkozó biztonsági szint meghatározásánál feltárt hiányosság megszüntetésére irányuló cselekvési tervet is – jogszabályban meghatározott szempontok szerint történik.
-
-(2) Ha a hatóság az érintett szervezetre vagy szervezeti egységre vonatkozó, bejelentett biztonsági szintbe sorolásnál alacsonyabb szint alkalmazásának lehetőségét látja, arra az érintett szervezetnek vagy szervezeti egységnek javaslatot tesz.

@@ -1,3 +1,0 @@
-22. § (1) A kijelölt hatóság az ellenőrzést a zárt célú elektronikus információs rendszert működtető szervezet irányítását, vezetését vagy felügyeletét ellátó miniszter által jóváhagyott éves ellenőrzési terv vagy egyedi utasítás alapján végzi.
-
-(2) Ha a kijelölt hatóság azt állapítja meg, hogy a zárt célú elektronikus információs rendszert működtető szervezet a biztonsági követelményeket és az ehhez kapcsolódó eljárási szabályokat nem teljesíti, vagy nem tartja be, akkor az érintettet felszólítja a jogszabályokban foglalt biztonsági követelmények és az ehhez kapcsolódó eljárási szabályok teljesítésére.
