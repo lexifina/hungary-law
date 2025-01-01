@@ -6,7 +6,7 @@
 
 4. § (1) A robbanóanyag gyártására, megszerzésére, felhasználására, megsemmisítésére, valamint a polgári robbanóanyag forgalmazására vonatkozó engedély iránti kérelmet a 2. melléklet szerinti tartalommal kell benyújtani.
 
-(1a)[^1] A kérelmező – nyomvonalas vagy vízi létesítmény, repülőtér vagy műemlék védőtávolságán belüli, továbbá hajóúton vagy honvédelmi szempontból jelentős vagy védett természeti területen végzett robbantás esetében – a robbanóanyag-felhasználási engedély iránti kérelem benyújtásakor igazolja az érintett kezelő, üzemeltető vagy védett természeti terület esetében az illetékes Nemzeti Park Igazgatóság robbantásra vonatkozó nyilatkozatának meglétét. Ha a kezelő, üzemeltető vagy Nemzeti Park Igazgatóság a nyilatkozat megadására vonatkozó megkeresés kézhezvételétől számított 15 napon belül nem nyilatkozik, a hozzájárulását megadottnak kell tekinteni a megkeresésben szereplő robbantáshoz.
+(1a)[^1] A kérelmező – nyomvonalas vagy vízi létesítmény, repülőtér vagy műemlék védőtávolságán belüli, továbbá hajóúton vagy honvédelmi szempontból jelentős vagy védett természeti területen végzett robbantás esetében – a robbanóanyag-felhasználási engedély iránti kérelem benyújtásakor igazolja az érintett kezelő, üzemeltető vagy védett természeti terület esetében az illetékes Nemzeti Park Igazgatóság robbantásra vonatkozó nyilatkozatának meglétét. Ha a kezelő, üzemeltető vagy Nemzeti Park Igazgatóság a nyilatkozat megadására vonatkozó megkeresés kézhezvételétől számított 15 napon belül nem nyilatkozik, a hozzájárulását megadottnak kell tekinteni a megkeresésben szereplő robbantáshoz. A nyilatkozatot a robbanóanyag-felhasználási engedély iránti kérelemben szereplő időtartamra vonatkozóan kell megadni.
 
 (2) A robbanóanyag
 
@@ -52,7 +52,7 @@ a) a robbantási munka helyét a bányaüzem megnevezésével, cím vagy helyraj
 
 b) a biztonsági távolságok méreteit,
 
-c) a robbantásvezető és a robbantás tervezőjének természetes személyazonosító adatait és lakcímét,
+c)[^2] a robbantás tervezőjének természetes személyazonosító adatait és lakcímét,
 
 d) az egy év alatt felhasználható robbanóanyag mennyiségét, fajtáját,
 
@@ -64,7 +64,7 @@ g) az engedély hatályát.
 
 (7) A felhasználási engedélyben a bányafelügyelet a kérelemben szereplő robbanóanyagokkal azonos robbantástechnikai paraméterekkel rendelkező robbanóanyag felhasználását is engedélyezheti.
 
-(7a)[^2] Robbanóanyagot átadni – a (8) bekezdésben foglalt kivétellel – robbanóanyag-megszerzési engedéllyel rendelkező személynek lehet.
+(7a)[^3] Robbanóanyagot átadni – a (8) bekezdésben foglalt kivétellel – robbanóanyag-megszerzési engedéllyel rendelkező személynek lehet.
 
 (8) A (11) bekezdés szerinti esetben nincs szükség robbanóanyag megszerzési engedélyre. A robbanóanyag megszerzéséhez az ár- vagy belvíz elleni védekezés, a helyi vízkárelhárítás, a III. fokú vagy „Rendkívüli” készültség idején, valamint a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény (a továbbiakban: Kattv.) 3. § 5. pontja szerinti katasztrófa vagy 9. pontja szerinti katasztrófaveszély esetében elegendő az intézkedésre jogosult szerv nyilatkozata.
 
@@ -104,5 +104,6 @@ c) – bányafelügyeletnek küldendő jelentés esetében – a robbantásvezet
 
 (17) Az 1. § (2) bekezdés a) pontjában meghatározott szervek belső szabályozása alapján kialakított, engedélyezett és védett raktárban a robbanóanyag-szektorban működő vállalkozás bértárolási szerződés alapján is tárolhat robbanóanyagot.
 
-[^1]: A 4. § (1a) bekezdését a 4/2024. (V. 31.) SZTFH rendelet 13. § (1) bekezdése iktatta be.
-[^2]: A 4. § (7a) bekezdését a 4/2024. (V. 31.) SZTFH rendelet 13. § (2) bekezdése iktatta be.
+[^1]: A 4. § (1a) bekezdését a 4/2024. (V. 31.) SZTFH rendelet 13. § (1) bekezdése iktatta be, szövege a 19/2024. (XII. 30.) SZTFH rendelet 26. § a) pontja szerint módosított szöveg.
+[^2]: A 4. § (6) bekezdés c) pontja a 19/2024. (XII. 30.) SZTFH rendelet 27. § a) pontja szerint módosított szöveg.
+[^3]: A 4. § (7a) bekezdését a 4/2024. (V. 31.) SZTFH rendelet 13. § (2) bekezdése iktatta be.
