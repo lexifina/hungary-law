@@ -1,5 +1,6 @@
-A Kormány
+1.[^2]
 
-1. jóváhagyja a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény (a továbbiakban: Kvtv.) 17. §-a alapján, a Kvtv. 4. mellékletében foglalt táblázat 2. pont 94. sorában biztosított jogkörében eljárva a vízügyi igazgatási szervek 2020. december 1. és 2021. május 31. közötti időszakban jogszabályi kötelezettség alapján végzett árvíz, belvíz, helyi vízkár elleni védekezés, vízminőségi kárelhárítás, jég elleni védekezés, valamint a 2020. december 1. utáni időszakban a károsodott vízi létesítmények, védművek helyreállításának finanszírozása céljából a Kvtv. 1. melléklet XIV. Belügyminisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 1. Ágazati célfeladatok alcím, 50. Víz-, környezeti és természeti katasztrófa kárelhárítás jogcímcsoport 1 274 672 000 forint összeggel történő túllépését;
+2.[^3]
 
-2. tudomásul veszi, hogy az 1. pont szerinti előirányzat-túllépés összegéből 1 013 320 000 forint – az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 39. §-ában foglaltak figyelembevételével – a Kvtv. 1. melléklet XIV. Belügyminisztérium fejezet, 17. Vízügyi igazgatóságok cím 2021. évi személyi juttatások eredeti költségvetési kiadásai előirányzatának növelésére irányul.
+[^2]: Az 1. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^3]: A 2. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
