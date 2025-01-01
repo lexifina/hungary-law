@@ -34,7 +34,7 @@ rendeletben állapítsa meg.
 
 a) a szúnyogirtószer és szúnyoglárvairtó-szer légi úton történő környezetbe juttatásának feltételeit és az egészségügyi államigazgatási szervnek teljesítendő bejelentésekre és az engedélyezésre vonatkozó eljárás részletes szabályait, valamint
 
-b) a táboroztatás személyi és tárgyi egészségügyi feltételeit, továbbá a táboroztatás bejelentésére, a bejelentés személyes adatnak nem minősülő további adattartalmára, valamint a táboroztatás hatósági ellenőrzésére és a jogsértő táboroztatás jogkövetkezményeire vonatkozó részletes szabályokat,
+b) a táboroztatás személyi és tárgyi egészségügyi feltételeit, továbbá a táboroztatás bejelentésére, a bejelentés személyes adatnak nem minősülő további adattartalmára, a táboroztatás kapcsán a gyermek törvényes képviselője részére nyújtandó tájékoztatásra, a táboroztatás szervezésében, illetve lebonyolításában közreműködőnek minősülő személyek meghatározására, valamint a táboroztatás hatósági ellenőrzésére és a jogsértő táboroztatás jogkövetkezményeire vonatkozó részletes szabályokat,
 
 c) a transz-zsírsav tartalmú élelmiszerek forgalmazásának feltételeit és hatósági ellenőrzésének szabályait, valamint a lakosság transz-zsírsav bevitelének nyomon követésére vonatkozó szabályokat az élelmiszerlánc-felügyeletért felelős miniszterrel egyetértésben
 
