@@ -4,10 +4,10 @@
 
 a) a Neumann János Nonprofit Közhasznú Korlátolt Felelősségű Társaság (a továbbiakban: Neumann Nkft.),
 
-b)[^2] a Kormányzati Informatikai Fejlesztési Ügynökség (a továbbiakban: KIFÜ),
+b)[^2]
 
 c)[^3] a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara.
 
 [^1]: Az 1. § a 49/2018. (III. 19.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^2]: A 2. § b) pontja a 104/2023. (III. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^2]: A 2. § b) pontját a 234/2024. (VIII. 8.) Korm. rendelet 16. § a) pontja hatályon kívül helyezte.
 [^3]: A 2. § c) pontját a 86/2018. (IV. 21.) Korm. rendelet 1. §-a iktatta be.
