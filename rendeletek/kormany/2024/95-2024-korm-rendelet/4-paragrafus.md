@@ -1,1 +1,0 @@
-4. § A tiszta növényi olajat előállító által megfizetendő adó mértékére az e rendelet 1. §-ával, valamint a mezőgazdaságban felhasznált gázolaj után visszaigényelhető adó mértékére az e rendelet 2. §-ával megállapított rendelkezéseket 2024. május 1-jétől kell alkalmazni.
