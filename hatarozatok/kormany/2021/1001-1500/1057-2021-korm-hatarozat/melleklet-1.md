@@ -26,7 +26,7 @@
 
 A Gazdaságélénkítő programba (GÉP) javasolt 445 település listája
 
-[^1]: A 2. pontot az 1520/2022. (XI. 2.) Korm. határozat 61. pont a) pontja visszavonta.
-[^2]: A 3. pontot az 1520/2022. (XI. 2.) Korm. határozat 61. pont b) pontja visszavonta.
+[^1]: A 2. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: A 3. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
 [^3]: A 4. pontot az 1520/2022. (XI. 2.) Korm. határozat 61. pont c) pontja visszavonta.
 [^4]: Az 5. pont b) pontot az 1520/2022. (XI. 2.) Korm. határozat 61. pont d) pontja visszavonta.
