@@ -10,4 +10,4 @@
 
 (5)
 
-(6) Az 5. § (6) bekezdése, a 21. § és a 22. § 2025. január 1-jén lép hatályba.
+(6) A 21. § és a 22. § 2025. január 1-jén lép hatályba.
