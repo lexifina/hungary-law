@@ -1,4 +1,4 @@
-## 8. [^71] A hulladéklerakás engedélyezésével kapcsolatos egyes eljárási rendelkezések
+## 8. [^77] A hulladéklerakás engedélyezésével kapcsolatos egyes eljárási rendelkezések
 
 15/A. § (1) A környezetvédelmi hatóság a hulladéklerakóra vonatkozó környezetvédelmi követelményeket a környezeti hatásvizsgálat, illetve egységes környezethasználati engedély köteles hulladéklerakók esetében a környezetvédelmi engedélyben, illetve az egységes környezethasználati engedélyben írja elő, amelynek – az általános közigazgatási rendtartásról szóló törvényben meghatározottakon felül – az alábbiakat is tartalmaznia kell:
 
@@ -24,7 +24,7 @@ h) a rekultivációra és utógondozásra vonatkozó feltételeket, az előzetes
 
 i) települési hulladék lerakása esetén a biológiailag lebomló szervesanyag-tartalom csökkentését szolgáló előírásokat.
 
-(2)[^72] A hulladéklerakással, valamint a hulladéklerakóval kapcsolatos egyes szabályokról és feltételekről szóló 20/2006. (IV. 5.) KvVM rendelet [a továbbiakban: 20/2006. (IV. 5.) KvVM rendelet] szerinti hulladéklerakó rekultivációját és utógondozását engedélyező határozatban a hulladékgazdálkodási hatóság előírja a hulladéklerakó rekultivációjára és utógondozására vonatkozó környezetvédelmi követelményeket. A határozatnak – az általános közigazgatási rendtartásról szóló törvényben meghatározottakon felül – a következőket is tartalmaznia kell:
+(2)[^78] A hulladéklerakással, valamint a hulladéklerakóval kapcsolatos egyes szabályokról és feltételekről szóló 20/2006. (IV. 5.) KvVM rendelet [a továbbiakban: 20/2006. (IV. 5.) KvVM rendelet] szerinti hulladéklerakó rekultivációját és utógondozását engedélyező határozatban a hulladékgazdálkodási hatóság előírja a hulladéklerakó rekultivációjára és utógondozására vonatkozó környezetvédelmi követelményeket. A határozatnak – az általános közigazgatási rendtartásról szóló törvényben meghatározottakon felül – a következőket is tartalmaznia kell:
 
 a) a hulladéklerakó rekultivációjával kapcsolatos technológiai követelményeket,
 
@@ -36,5 +36,5 @@ d) a 20/2006. (IV. 5.) KvVM rendelet 4. számú mellékletében foglaltak figyel
 
 e) az üzemeltető megnevezését az utógondozási időszakban.
 
-[^71]: A 8. alcímet (15/A. §) a 457/2017. (XII. 28.) Korm. rendelet 423. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^72]: A 15/A. § (2) bekezdés nyitó szövegrésze a 312/2021. (VI. 7.) Korm. rendelet 7. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^77]: A 8. alcímet (15/A. §) a 457/2017. (XII. 28.) Korm. rendelet 423. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^78]: A 15/A. § (2) bekezdés nyitó szövegrésze a 312/2021. (VI. 7.) Korm. rendelet 7. § (3) bekezdés c) pontja szerint módosított szöveg.
