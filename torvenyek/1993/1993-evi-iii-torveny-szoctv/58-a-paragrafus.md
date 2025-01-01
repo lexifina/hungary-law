@@ -26,7 +26,7 @@ a) az állam fenntartói feladatainak ellátására a Kormány rendeletében kij
 
 b) családsegítés és gyermekjóléti szolgáltatás esetén,
 
-c) a 131/A. § alapján támogatott szociális szolgáltatások esetén,
+c) fejlesztő foglalkoztatás esetén,
 
 d)
 

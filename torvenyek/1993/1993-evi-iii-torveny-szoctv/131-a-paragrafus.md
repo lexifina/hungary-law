@@ -1,4 +1,4 @@
-131/A. § (1) A szenvedélybetegek részére nyújtott alacsonyküszöbű ellátás, az utcai szociális munka és a fejlesztő foglalkoztatás működtetését az állam – kormányrendeletben meghatározott eljárási rend szerint kiválasztott – fenntartókkal kötött finanszírozási szerződések útján támogatja. A finanszírozási szerződés legfeljebb három évre köthető meg. A fenntartóval a finanszírozási szerződést a szociálpolitikai feladatok ellátására a Kormány rendeletében kijelölt szerv köti meg.
+131/A. § (1) A fejlesztő foglalkoztatás működtetését az állam – kormányrendeletben meghatározott eljárási rend szerint kiválasztott – fenntartókkal kötött finanszírozási szerződések útján támogatja. A finanszírozási szerződés legfeljebb három évre köthető meg. A fenntartóval a finanszírozási szerződést a szociálpolitikai feladatok ellátására a Kormány rendeletében kijelölt szerv köti meg.
 
 (2) Az éves támogatási összeget a költségvetési törvény állapítja meg.
 

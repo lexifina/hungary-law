@@ -32,7 +32,7 @@ n) a szociális hatóság, a 24/C. § szerinti jogi személy és a szociális sz
 
 o)
 
-p) a szenvedélybetegek részére nyújtott alacsonyküszöbű ellátás, utcai szociális munka és a fejlesztő foglalkoztatás finanszírozásának rendjére vonatkozó részletes szabályokat;
+p) a fejlesztő foglalkoztatás finanszírozásának rendjére vonatkozó részletes szabályokat;
 
 q) a személyes gondoskodás igénybevételével kapcsolatos eljárásokban közreműködő szakértőkre, szakértői szervekre vonatkozó részletes szabályokat;
 
