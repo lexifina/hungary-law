@@ -1,74 +1,22 @@
 ## 1. A Kormány
 
-## 1.1. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet
+## 1.1.[^1]
 
-## a) IX. Helyi önkormányzatok támogatásai fejezet címrendjének a 48. Cegléd Város Önkormányzata sportfejlesztési feladatainak támogatása címmel és a 49. Komárom Város Önkormányzata közútfejlesztésének támogatása címmel,
+## 1.2.[^2]
 
-## b) XVII. Innovációs és Technológiai Minisztérium fejezet, 21. Központi kezelésű előirányzatok címnek a 15. Távhőszolgáltatók kompenzációja alcímmel és azon belül az 1. Távhőszolgáltatók kompenzációjával kapcsolatos kiadások jogcímcsoporttal,
-
-## c) XLII. A költségvetés közvetlen bevételei és kiadásai fejezet címrendjének a 44. Kapott előleg, támogatás visszafizetése címmel,
-
-## d) XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 2. Az NVTNM tulajdonosi joggyakorlásával kapcsolatos bevételek és kiadások cím, 2. Az NVTNM tulajdonosi joggyakorlásával kapcsolatos kiadások alcímnek a 6. Társasági részesedés vásárlása jogcímcsoporttal
-
-## történő kiegészítését;
-
-## Felelős: pénzügyminiszter
-
-## Határidő: azonnal
-
-## 1.2. az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 93 646 188 382 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 1. Központi kezelésű előirányzatok cím, 1. Központi tartalékok alcím, 1. Gazdaság-újraindítási programok jogcímcsoport (a továbbiakban: GÚP előirányzat) terhére, az 1. melléklet szerint;
-
-## Felelős: pénzügyminiszter
-
-## Határidő: azonnal
-
-## 1.3. a Kvtv. 17. §-a, valamint 4. melléklet 7. pontja alapján jóváhagyja a GÚP előirányzatnak az 1.2. alpont szerinti átcsoportosítás alapján az eredeti előirányzaton felül – az eddig jóváhagyott összegen túl további – 93 646 188 382 forinttal történő túlteljesülését;
+## 1.3.[^3]
 
 ## 1.4. egyetért azzal, hogy a belügyminiszter az 1.2. alpont szerint átcsoportosított
 
-## a)[^1] 1 853 600 000 forint forrás terhére külön pályázat és kérelem benyújtása nélkül – a Gál József sportcsarnok felújításához, bővítéséhez kapcsolódó többletkiadások finanszírozása támogatás nyújtásával cél megvalósítása érdekében – vissza nem térítendő egyedi támogatást nyújtson Cegléd Város Önkormányzata (a továbbiakban: Önkormányzat1) részére támogatási előlegként, a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatói okirat alapján,
+## a)[^4] 1 853 600 000 forint forrás terhére külön pályázat és kérelem benyújtása nélkül – a Gál József sportcsarnok felújításához, bővítéséhez kapcsolódó többletkiadások finanszírozása támogatás nyújtásával cél megvalósítása érdekében – vissza nem térítendő egyedi támogatást nyújtson Cegléd Város Önkormányzata (a továbbiakban: Önkormányzat1) részére támogatási előlegként, a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatói okirat alapján,
 
 ## b) 73 036 500 forint forrás terhére külön pályázat és kérelem benyújtása nélkül – komplex közútfejlesztési feladatok előkészítése érdekében – vissza nem térítendő egyedi támogatást nyújtson Komárom Város Önkormányzata (a továbbiakban: Önkormányzat2) részére támogatási előlegként, a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatói okirat alapján;
 
 ## 1.5. egyetért azzal, hogy a belügyminiszter az 1.4. alpont szerinti egyedi költségvetési támogatást a támogatói okirat kiadását követően folyósítsa az Önkormányzat1 és az Önkormányzat2 számára;
 
-## 1.6. az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 153 116 327 034 forint egyszeri átcsoportosítását rendeli el, a 2. melléklet szerint;
+## 1.6.[^5]
 
-## Felelős: pénzügyminiszter
-
-## Miniszterelnökséget vezető miniszter
-
-## családokért felelős tárca nélküli miniszter
-
-## a miniszterelnök általános helyettese
-
-## agrárminiszter
-
-## belügyminiszter
-
-## innovációért és technológiáért felelős miniszter
-
-## külgazdasági és külügyminiszter
-
-## emberi erőforrások minisztere
-
-## a miniszterelnök kabinetfőnöke
-
-## Miniszterelnöki Kormányiroda közigazgatási államtitkára
-
-## nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
-
-## Határidő: azonnal
-
-## 1.7. az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva bázisba épülő jelleggel 34 985 291 forint átcsoportosítását rendeli el, a 3. melléklet szerint;
-
-## Felelős: pénzügyminiszter
-
-## innovációért és technológiáért felelős miniszter
-
-## emberi erőforrások minisztere
-
-## Határidő: 2022. január 5.
+## 1.7.[^6]
 
 ## 1.8. az Áht. 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva engedélyezi a pénzügyminiszter számára, hogy a 2021. évben a XLVII. Gazdaság-újraindítási Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 5. Gazdaság újraindítását szolgáló pénzügyi fejezeti kezelésű előirányzatok alcím, 2. Területfejlesztési feladatok terhére legfeljebb 26 479 600 000 forint összeg mértékéig éven túli kötelezettséget vállaljon;
 
@@ -86,63 +34,69 @@
 
 ## b) 2. melléklete szerint átcsoportosított összegből 5 132 437 forint a Kvtv. 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 8. Gazdaság újraindítását szolgáló emberi erőforrások fejezeti kezelésű előirányzatok alcím, 1. Egészséges Budapest Program jogcímcsoport támogatási előirányzata helyett a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 48. Kincstári díj alcímen kerül felhasználásra.
 
-## 2.[^2]
+## 2.[^7]
 
-## 3.[^3]
+## 3.[^8]
 
-## 4.[^4]
+## 4.[^9]
 
-## 5.[^5]
+## 5.[^10]
 
-## 6.[^6]
+## 6.[^11]
 
-## 7.[^7]
+## 7.[^12]
 
-## 8.[^8]
+## 8.[^13]
 
-## 9.[^9]
+## 9.[^14]
 
-## 10.[^10]
+## 10.[^15]
 
-## 11.[^11]
+## 11.[^16]
 
-## 12.[^12]
+## 12.[^17]
 
-## 13.[^13]
+## 13.[^18]
 
-## 14.[^14]
+## 14.[^19]
 
-## 15.[^15]
+## 15.[^20]
 
-## 16.[^16]
+## 16.[^21]
 
-## 17.[^17]
+## 17.[^22]
 
-## 18.[^18]
+## 18.[^23]
 
-## 19.[^19]
+## 19.[^24]
 
-## 20.[^20]
+## 20.[^25]
 
-1. melléklet az 1953/2021. (XII. 22.) Korm. határozathoz
+1. melléklet az 1953/2021. (XII. 22.) Korm. határozathoz[^26]
 
-[^1]: Az 1. pont 1.4. alpont a) pontja az 1978/2021. (XII. 24.) Korm. határozat 2. pontja szerint módosított szöveg.
-[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^9]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^10]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^11]: A 11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^12]: A 12. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^13]: A 13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^14]: A 14. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^15]: A 15. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^16]: A 16. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^17]: A 17. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^18]: A 18. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^19]: A 19. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^20]: A 20. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont 1.1. alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: Az 1. pont 1.2. alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^3]: Az 1. pont 1.3. alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^4]: Az 1. pont 1.4. alpont a) pontja az 1978/2021. (XII. 24.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^5]: Az 1. pont 1.6. alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^6]: Az 1. pont 1.7. alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^7]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 12. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 14. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 15. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 16. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 17. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 18. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 19. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 20. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
