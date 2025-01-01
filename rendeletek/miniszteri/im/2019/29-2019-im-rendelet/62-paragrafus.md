@@ -1,4 +1,4 @@
-62. § (1)[^38] A papíralapú közjegyzői okiratról papíralapú hiteles kiadmány és a Kjtv. 168. § (1) bekezdése szerinti papíralapú hiteles másolat (ezen alcím alkalmazásában a továbbiakban együtt: hiteles kiadmány), valamint elektronikus hiteles kiadmány adható ki. Az elektronikus közjegyzői okiratról papíralapú és elektronikus hiteles kiadmány adható ki.
+62. § (1)[^44] A papíralapú közjegyzői okiratról papíralapú hiteles kiadmány és a Kjtv. 168. § (1) bekezdése szerinti papíralapú hiteles másolat (ezen alcím alkalmazásában a továbbiakban együtt: hiteles kiadmány), valamint elektronikus hiteles kiadmány adható ki. Az elektronikus közjegyzői okiratról papíralapú és elektronikus hiteles kiadmány adható ki.
 
 (2) Ha a közjegyzői okiratot
 
@@ -10,16 +10,16 @@ elkészítheti.
 
 (3) A hiteles kiadmány készítése előtt a közjegyző, illetve a közjegyzőhelyettes köteles meggyőződni arról, hogy a közjegyzői okiraton történt-e javítás, kiegészítés. Ha a közjegyzői okirat kijavítására, illetve kiegészítésére került sor, el kell készíteni a kijavítással, kiegészítéssel egységes szerkezetbe foglalt hiteles kiadmányt.
 
-(4)[^39] A hiteles kiadmány kiadását, valamint azt, hogy kinek, mikor és hány példányban adták ki, a KÜR-ben a hiteles kiadmány alapjául szolgáló közjegyzői okirat ügyszáma alatt fel kell jegyezni.
+(4)[^45] A hiteles kiadmány kiadását, valamint azt, hogy kinek, mikor és hány példányban adták ki, a KÜR-ben a hiteles kiadmány alapjául szolgáló közjegyzői okirat ügyszáma alatt fel kell jegyezni.
 
-(5)[^40] Ügyleti okirat esetén – ha jogszabály eltérően nem rendelkezik – a felek a közjegyzői okiratban meghatározhatják a törvényben meghatározotton túli azon személyi kört, akinek hiteles kiadmány kiadható.
+(5)[^46] Ügyleti okirat esetén – ha jogszabály eltérően nem rendelkezik – a felek a közjegyzői okiratban meghatározhatják a törvényben meghatározotton túli azon személyi kört, akinek hiteles kiadmány kiadható.
 
-(6)[^41] A felek a hiteles kiadmány kiadásának lehetőségét feltétel vagy időpont bekövetkezéséhez köthetik, és meghatározhatják a feltétel vagy időpont bekövetkezése igazolásának módját, feltéve, hogy az nem köztudomású, vagy a közjegyzőnek, illetve a közjegyzőhelyettesnek nincs róla tudomása. A feltétel vagy időpont bekövetkezéséig a közjegyzői okirat nem adható le a Levéltárba. A feltétel vagy időpont kikötésének tényét és az időpontot fel kell tüntetni a KÜR-ben.
+(6)[^47] A felek a hiteles kiadmány kiadásának lehetőségét feltétel vagy időpont bekövetkezéséhez köthetik, és meghatározhatják a feltétel vagy időpont bekövetkezése igazolásának módját, feltéve, hogy az nem köztudomású, vagy a közjegyzőnek, illetve a közjegyzőhelyettesnek nincs róla tudomása. A feltétel vagy időpont bekövetkezéséig a közjegyzői okirat nem adható le a Levéltárba. A feltétel vagy időpont kikötésének tényét és az időpontot fel kell tüntetni a KÜR-ben.
 
-(7)[^42]
+(7)[^48]
 
-[^38]: A 62. § (1) bekezdése az 1/2021. (III. 12.) IM rendelet 21. § f) pontja szerint módosított szöveg.
-[^39]: A 62. § (4) bekezdése az 1/2021. (III. 12.) IM rendelet 10. §-ával megállapított szöveg.
-[^40]: A 62. § (5) bekezdése az 1/2021. (III. 12.) IM rendelet 10. §-ával megállapított szöveg.
-[^41]: A 62. § (6) bekezdése az 1/2021. (III. 12.) IM rendelet 10. §-ával megállapított szöveg.
-[^42]: A 62. § (7) bekezdését az 1/2021. (III. 12.) IM rendelet 22. § c) pontja hatályon kívül helyezte.
+[^44]: A 62. § (1) bekezdése az 1/2021. (III. 12.) IM rendelet 21. § f) pontja szerint módosított szöveg.
+[^45]: A 62. § (4) bekezdése az 1/2021. (III. 12.) IM rendelet 10. §-ával megállapított szöveg.
+[^46]: A 62. § (5) bekezdése az 1/2021. (III. 12.) IM rendelet 10. §-ával megállapított szöveg.
+[^47]: A 62. § (6) bekezdése az 1/2021. (III. 12.) IM rendelet 10. §-ával megállapított szöveg.
+[^48]: A 62. § (7) bekezdését az 1/2021. (III. 12.) IM rendelet 22. § c) pontja hatályon kívül helyezte.

@@ -24,12 +24,12 @@ b) elektronikus közjegyzői okiratról az elektronikus közjegyzői okiratot k�
 
 a Levéltár ad ki papíralapú vagy elektronikus hiteles másolatot a hiteles kiadmány kiadására vonatkozó szabályok megfelelő alkalmazásával.
 
-(6)[^44]
+(6)[^50]
 
-(7)[^45]
+(7)[^51]
 
-(8)[^46]
+(8)[^52]
 
-[^44]: A 63. § (6) bekezdését az 1/2021. (III. 12.) IM rendelet 22. § d) pontja hatályon kívül helyezte.
-[^45]: A 63. § (7) bekezdését az 1/2021. (III. 12.) IM rendelet 22. § d) pontja hatályon kívül helyezte.
-[^46]: A 63. § (8) bekezdését az 1/2021. (III. 12.) IM rendelet 22. § d) pontja hatályon kívül helyezte.
+[^50]: A 63. § (6) bekezdését az 1/2021. (III. 12.) IM rendelet 22. § d) pontja hatályon kívül helyezte.
+[^51]: A 63. § (7) bekezdését az 1/2021. (III. 12.) IM rendelet 22. § d) pontja hatályon kívül helyezte.
+[^52]: A 63. § (8) bekezdését az 1/2021. (III. 12.) IM rendelet 22. § d) pontja hatályon kívül helyezte.

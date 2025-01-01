@@ -20,7 +20,7 @@
 
 9. érdemi határozat: ha az adott eljárást szabályozó jogszabály eltérően nem rendelkezik, az ügy érdemében hozott határozat;
 
-10. hivatali tárhely: az elektronikus ügyintézés részletszabályairól szóló 451/2016. (XII. 19.) Korm. rendelet (a továbbiakban: Eüszvhr.) által meghatározott, hivatalos elektronikus kapcsolattartásra szolgáló elérhetőség;
+10.[^2] hivatali tárhely: a digitális szolgáltatások, a digitális állampolgárság szolgáltatások és támogató szolgáltatások részletes műszaki követelményeiről szóló kormányrendelet által meghatározott, hivatalos elektronikus kapcsolattartásra szolgáló elérhetőség;
 
 11. intézkedés: az ügy tartalmi (érdemi), illetve formai (alaki) elintézése érdekében végzett cselekmény;
 
@@ -48,7 +48,7 @@ b) az elektronikus okiratról készített papíralapú másolat látványának a
 
 21. közjegyzői iroda: a közjegyzőkről szóló 1991. évi XLI. törvény (a továbbiakban: Kjtv.) 31/A. § (2) bekezdése szerinti szervezet;
 
-22.[^2] közjegyző székhelyének azonosító száma: a MOKK által megállapított, a közjegyzői székhely azonosítására szolgáló ötjegyű számsor, amelynek első számjegye a területi kamarát, a második számjegye a vármegyét, harmadik, negyedik és ötödik számjegye a közjegyző székhelyét jelöli;
+22.[^3] közjegyző székhelyének azonosító száma: a MOKK által megállapított, a közjegyzői székhely azonosítására szolgáló ötjegyű számsor, amelynek első számjegye a területi kamarát, a második számjegye a vármegyét, harmadik, negyedik és ötödik számjegye a közjegyző székhelyét jelöli;
 
 23. közjegyzői ügyviteli rendszer: a MOKK-nak a külön jogszabály alapján létrehozott számítástechnikai rendszerrel nem támogatott közjegyzői eljárások informatikai támogatására szolgáló, a Kjtv. 54. § (1) bekezdés q) pontja szerinti egységes ügykezelő alkalmazása;
 
@@ -89,4 +89,5 @@ c) közjegyzőjelölt alatt az azonos székhelyen működő közjegyzőjelöltet
 is érteni kell.
 
 [^1]: A 2. § (1) bekezdés 2. pontja az 1/2021. (III. 12.) IM rendelet 21. § a) pontja szerint módosított szöveg.
-[^2]: A 2. § (1) bekezdés 22. pontja a 38/2022. (XII. 27.) IM rendelet 13. §-a szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdés 10. pontja az 50/2024. (XII. 31.) IM rendelet 4. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § (1) bekezdés 22. pontja a 38/2022. (XII. 27.) IM rendelet 13. §-a szerint módosított szöveg.

@@ -12,4 +12,6 @@
 
 (7) A közjegyzőhöz postán érkezett pénzt vagy egyéb értéket (pl. ékszert, értékpapírt, takarékbetétkönyvet, fel nem használt és fel nem használható illetékbélyeget), amelynek kezelésére a közjegyző nem jogosult vagy nem őt illeti, a közjegyző visszaküldi a feladónak, feltéve, hogy a feladó személye és címe megállapítható, és a visszaküldött küldeményt átveszi. Ellenkező esetben ezeket a közjegyző a találásra vonatkozó szabályok szerint kezeli.
 
-(8) A papíralapú küldeményre felragasztott illetékbélyeget a küldemény érkezésének, illetve az illeték lerovásának napján az ügyintéző az illetékekről szóló törvény szerint értékteleníti.
+(8)[^7]
+
+[^7]: A 14. § (8) bekezdését az 50/2024. (XII. 31.) IM rendelet 5. §-a hatályon kívül helyezte.

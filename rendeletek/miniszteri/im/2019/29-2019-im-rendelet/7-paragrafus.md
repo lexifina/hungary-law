@@ -4,7 +4,7 @@ a) az azonos székhelyen működő közjegyző és a közjegyző alkalmazottja,
 
 b) a más székhelyen működő ügyintéző megosztott hozzáférés alapján,
 
-c)[^3] a Levéltár jogszabályban meghatározott feladatainak ellátásával összefüggésben,
+c)[^4] a Levéltár jogszabályban meghatározott feladatainak ellátásával összefüggésben,
 
 d) a területi kamara elnöksége a közjegyző működésének vizsgálatával összefüggésben (Kjtv. 69/A. §),
 
@@ -36,7 +36,7 @@ c) olyan nyomdatechnikai funkciók ellátására, amelyekkel a közjegyzői ügy
 
 (4) A naplózási rendszernek alkalmasnak kell lennie az egyes ügyintézők által végzett műveletek szelektív leválogatására is.
 
-(5)[^4] A KÜR-nek alkalmasnak kell lennie arra, hogy ha
+(5)[^5] A KÜR-nek alkalmasnak kell lennie arra, hogy ha
 
 a) a fél ugyanolyan tárgyú jogügylet közjegyzői okiratba foglalása iránt terjeszt elő újabb kérelmet, a folyamatban lévő, „K” ügykategóriába tartozó;
 
@@ -44,5 +44,5 @@ b) az „N” ügykategóriába tartozó ügyben érintett fél vagy örökhagy�
 
 közjegyzői ügy számának feltüntetésével figyelmeztesse a megindult eljárásra a közjegyzőt.
 
-[^3]: A 7. § (1) bekezdés c) pontja a 13/2023. (IX. 21.) IM rendelet 15. §-ával megállapított szöveg.
-[^4]: A 7. § (5) bekezdése a 13/2023. (IX. 21.) IM rendelet 16. §-ával megállapított szöveg.
+[^4]: A 7. § (1) bekezdés c) pontja a 13/2023. (IX. 21.) IM rendelet 15. §-ával megállapított szöveg.
+[^5]: A 7. § (5) bekezdése a 13/2023. (IX. 21.) IM rendelet 16. §-ával megállapított szöveg.

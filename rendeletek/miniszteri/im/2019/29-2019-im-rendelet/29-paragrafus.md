@@ -14,11 +14,11 @@ adhat ki.
 
 (4) A másolat papíralapú iratról elektronikus formában, elektronikus iratról pedig papíralapon is kiadható.
 
-(5)[^10] A papíralapú iratról készített hiteles papíralapú másolatot – az (5a) bekezdésben foglaltak kivételével – „A másolat hiteléül” záradékkal, a másolatot készítő aláírásával, a közjegyző bélyegzőjének lenyomatával kell ellátni, továbbá a másolaton a készítés idejét is fel kell tüntetni.
+(5)[^13] A papíralapú iratról készített hiteles papíralapú másolatot – az (5a) bekezdésben foglaltak kivételével – „A másolat hiteléül” záradékkal, a másolatot készítő aláírásával, a közjegyző bélyegzőjének lenyomatával kell ellátni, továbbá a másolaton a készítés idejét is fel kell tüntetni.
 
-(5a)[^11] A (2) és (3) bekezdés szerinti iratról a Kjnp. 15/B. § (3) bekezdésében meghatározott módon hiteles másolat kiadásának van helye azzal, hogy a hiteles másolaton utalni kell arra, hogy az a közjegyző aláírása és bélyegzőlenyomata nélkül is hiteles.
+(5a)[^14] A (2) és (3) bekezdés szerinti iratról a Kjnp. 15/B. § (3) bekezdésében meghatározott módon hiteles másolat kiadásának van helye azzal, hogy a hiteles másolaton utalni kell arra, hogy az a közjegyző aláírása és bélyegzőlenyomata nélkül is hiteles.
 
 (6) A papíralapú iratról készített elektronikus hiteles másolatot záradék nélkül az ügyintéző hivatali elektronikus aláírásával kell ellátni.
 
-[^10]: A 29. § (5) bekezdése az 1/2021. (III. 12.) IM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^11]: A 29. § (5a) bekezdését az 1/2021. (III. 12.) IM rendelet 2. § (2) bekezdése iktatta be.
+[^13]: A 29. § (5) bekezdése az 1/2021. (III. 12.) IM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^14]: A 29. § (5a) bekezdését az 1/2021. (III. 12.) IM rendelet 2. § (2) bekezdése iktatta be.
