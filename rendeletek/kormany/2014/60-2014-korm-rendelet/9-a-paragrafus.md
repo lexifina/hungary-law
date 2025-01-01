@@ -10,9 +10,9 @@ b) a 2021–2027 programozási időszakban az egyes európai uniós alapokból s
 
 koordináló szervezet.
 
-(3)[^28] Az (1) bekezdéstől eltérően a monitoring felelős feladatkörébe tartoznak a FAIR-ral összefüggő, Ibtv. szerinti feladatok.
+(3)[^28] Az (1) bekezdéstől eltérően a monitoring felelős feladatkörébe tartoznak a FAIR-ral összefüggő, a Kiberbiztonsági tv. szerinti feladatok.
 
 [^25]: A 9. § az 562/2021. (X. 1.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^26]: A 9/A. §-t a 228/2018. (XII. 5.) Korm. rendelet 2. §-a iktatta be.
 [^27]: A 9/A. § (2) bekezdése az 562/2021. (X. 1.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^28]: A 9/A. § (3) bekezdése az 562/2021. (X. 1.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^28]: A 9/A. § (3) bekezdése az 562/2021. (X. 1.) Korm. rendelet 4. §-ával megállapított, a 418/2024. (XII. 23.) Korm. rendelet 127. § b) pontja szerint módosított szöveg.

@@ -2,7 +2,7 @@
 
 ## 2. § E rendelet alkalmazásában
 
-1.[^4] adatkezelő: az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény, az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény (a továbbiakban: Ibtv.), valamint a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK rendelet hatályon kívül helyezéséről szóló, 2016. április 27-i (EU) 2016/679 európai parlamenti és tanácsi rendelet (általános adatvédelmi rendelet) szerinti adatkezelő feladatát ellátó szervezet,
+1.[^4] adatkezelő: az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény, Magyarország kiberbiztonságáról szóló törvény (a továbbiakban: Kiberbiztonsági tv.), valamint a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK rendelet hatályon kívül helyezéséről szóló, 2016. április 27-i (EU) 2016/679 európai parlamenti és tanácsi rendelet (általános adatvédelmi rendelet) szerinti adatkezelő feladatát ellátó szervezet,
 
 2. alkalmazásgazda: e rendelet hatálya alá tartozó alkalmazások felhasználási és fejlesztési jogaival rendelkező, az alkalmazások üzemeltetéséért, illesztéséért, paraméterezéséért és szükség szerinti fejlesztéséért, valamint az alkalmazáshoz szükséges hozzáférési jogok biztosításáért felelős személy,
 
@@ -30,6 +30,6 @@
 
 12. projekt: olyan gazdaságilag oszthatatlan munkafázisok sora, amely pontos technikai funkciót lát el, és világosan meghatározott célokkal rendelkezik.
 
-[^4]: A 2. § 1. pontja az 562/2021. (X. 1.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^4]: A 2. § 1. pontja az 562/2021. (X. 1.) Korm. rendelet 1. §-ával megállapított, a 418/2024. (XII. 23.) Korm. rendelet 127. § a) pontja szerint módosított szöveg.
 [^5]: A 2. § 10a. pontját a 351/2015. (XI. 24.) Korm. rendelet 1. §-a iktatta be, a 689/2021. (XII. 8.) Korm. rendelet 1. § a) pontja hatályon kívül helyezte.
 [^6]: A 2. § 11a. pontját a 228/2018. (XII. 5.) Korm. rendelet 1. §-a iktatta be, a 689/2021. (XII. 8.) Korm. rendelet 1. § b) pontja hatályon kívül helyezte.

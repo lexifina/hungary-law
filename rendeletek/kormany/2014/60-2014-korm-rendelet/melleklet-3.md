@@ -16,7 +16,7 @@
 
 | 8. | Minősítési kód |
 
-| 9. | A főtevékenység a Gazdasági tevékenységek egységes ágazati osztályozási rendszere, 2008 (a továbbiakban: TEÁOR ’08) szerinti kódja |
+| 9. | A főtevékenység a mindenkor hatályos TEÁOR szerinti kódja[^72] |
 
 | 10. | Projektcíme |
 
@@ -118,7 +118,7 @@
 
 | 59. | Nyertes szállító adószáma |
 
-3. melléklet a 60/2014. (III. 6.) Korm. rendelethez[^72]
+3. melléklet a 60/2014. (III. 6.) Korm. rendelethez[^73]
 
 |  | A | B | C | D |
 
@@ -142,7 +142,7 @@
 
 | 10. |  |  |  | Minősítési kód |
 
-| 11. |  |  |  | A főtevékenység TEÁOR ’08 szerinti kódja |
+| 11. |  |  |  | A főtevékenység a mindenkor hatályos TEÁOR szerinti kódja[^74] |
 
 | 12. | Projektkiválasztás |  | Közvetítői kérelem beérkezésének dátuma |  |
 
@@ -260,4 +260,6 @@
 
 | 69. | Szabálytalansági döntés | Szabálytalansági döntés | Szabálytalansági döntés |
 
-[^72]: A 3. mellékletet a 144/2015. (VI. 12.) Korm. rendelet 2. §-a iktatta be, szövege a 183/2015. (VII. 10.) Korm. rendelet 5. § b) pontjával megállapított szöveg.
+[^72]: A 2. mellékletben foglalt táblázat B:9 mezője a 364/2024. (XI. 28.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^73]: A 3. mellékletet a 144/2015. (VI. 12.) Korm. rendelet 2. §-a iktatta be, szövege a 183/2015. (VII. 10.) Korm. rendelet 5. § b) pontjával megállapított szöveg.
+[^74]: A 3. mellékletben foglalt táblázat D:11 mezője a 364/2024. (XI. 28.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
