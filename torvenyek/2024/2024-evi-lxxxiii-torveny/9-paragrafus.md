@@ -11,15 +11,3 @@ c) 2. § (1)–(2), (8)–(12) bekezdése a veszélyes anyagokkal kapcsolatos s�
 d) 2. § (7) bekezdése a veszélyes áruk közúti szállításának ellenőrzésére vonatkozó egységes eljárásról szóló, 2022. október 19-i (EU) 2022/1999 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
-
-|
-
-Dr. Sulyok Tamás s. k.,
-
-köztársasági elnök
-
-|
-
-Dr. Latorcai János s. k.,
-
-az Országgyűlés alelnöke
