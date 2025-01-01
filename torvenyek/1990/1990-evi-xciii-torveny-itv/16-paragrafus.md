@@ -22,6 +22,8 @@ i) az örökhagyó egyenes ági rokona (ideértve az örökbefogadáson alapuló
 
 j) az örökhagyó testvére által megszerzett örökrész.
 
+k) a nemzeti emléknek minősülő műemlék lakóépület, továbbá a nemzeti emléknek minősülő műemlék épületben lévő lakás öröklése;
+
 (2a) Az (1) bekezdés g) pontja szerinti illetékmentesség alkalmazása során az állami adóhatóság a vagyonszerzés után megállapított illetéket – a megfizetés tekintetében – felfüggeszti. Az állami adóhatóság a lakóházépítésre meghatározott 4 éves határidő (a továbbiakban e bekezdés alkalmazásában: határidő) elteltét követő 15 napon belül az Országos Építésügyi Nyilvántartás adatai alapján ellenőrzi a lakóház felépítését. Az állami adóhatóság a felfüggesztett illetéket törli, ha
 
 a) a határidő elteltét követő 15 napon belül megállapítja, hogy az illetékes építésügyi hatóság a határidőn belül – a vagyonszerző nevére szóló – végleges használatbavételi engedélyt adott ki, illetve a használatbavételt tudomásul vette, vagy

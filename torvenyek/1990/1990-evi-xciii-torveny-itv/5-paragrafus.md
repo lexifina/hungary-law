@@ -4,7 +4,7 @@ a) a Magyar Állam,
 
 b) a helyi önkormányzatok és azok társulásai,
 
-c) a költségvetési szerv, a Magyar Nemzeti Vagyonkezelő Zrt., a Maradványvagyon-hasznosító Zártkörűen Működő Részvénytársaság, valamint a Tartalékgazdálkodási Kht., illetve annak tevékenységét folytató nonprofit gazdasági társaság,
+c) a költségvetési szerv, a Magyar Nemzeti Vagyonkezelő Zrt., valamint a Tartalékgazdálkodási Kht., illetve annak tevékenységét folytató nonprofit gazdasági társaság,
 
 d) az egyesület, a köztestület,
 

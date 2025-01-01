@@ -186,11 +186,21 @@ ac) a birtokösszevonási célú földcsere,
 
 ad) a termőföld tulajdonjogának, vagyoni értékű jogának az agrárgazdaságok átadásáról szóló törvény szerinti gazdaságátadási szerződés alapján megvalósuló átadása;
 
-b) nem minősül az (1) bekezdés p) pont pb) és pc) alpontjaiban foglalt feltételek megszegésének, ha a vagyonszerző a termőföld használatát, hasznosítását a földművesnek minősülő, Polgári Törvénykönyv szerinti közeli hozzátartozója vagy a legalább 25%-ban tulajdonában, vagy a közeli hozzátartozójának legalább 25%-ban tulajdonában álló, a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti mezőgazdasági termelőszervezet vagy olyan erdőbirtokossági társulat javára engedi át, amelyben a vagyonszerző vagy a közeli hozzátartozója társulati érdekeltséggel rendelkezik, vagy erdőkezelésbe adja, feltéve, hogy az 5 éves időtartam hátralévő részére
+ae) földön fennálló a tulajdonjognak, vagyoni értékű jognak a földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló törvény szerinti bekebelezés következtében történő megszűnése.
 
-ba) a mezőgazdasági termelőszervezet, az erdőbirtokossági társulat, az erdőkezelő vagy a közeli hozzátartozó vállalja, hogy a termőföldet mező-, illetve erdőgazdasági tevékenység céljára hasznosítja, továbbá
+b) nem minősül az (1) bekezdés p) pont pb) és pc) alpontjaiban foglalt feltételek megszegésének, ha a vagyonszerző a termőföld használatát, hasznosítását
 
-bb) a termőföld használatának, hasznosításának mezőgazdasági termelőszervezet részére történő átengedése esetén a vagyonszerző, illetve közeli hozzátartozója vállalja, hogy a mezőgazdasági termelőszervezetben fennálló tulajdoni hányada nem csökken 25% alá vagy erdőbirtokossági társulat részére történő átengedés esetén a vagyonszerző, illetve közeli hozzátartozója vállalja, hogy az erdőbirtokossági társulati tagságát fenntartja.
+ba) földművesnek minősülő, Polgári Törvénykönyv szerinti közeli hozzátartozója javára engedi át, vagy
+
+bb) legalább 25%-ban tulajdonában, vagy a közeli hozzátartozójának legalább 25%-ban tulajdonában álló, a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti mezőgazdasági termelőszervezet javára engedi át, vagy
+
+bc) olyan családi mezőgazdasági társaság javára engedi át, amelyben tag, vagy
+
+bd) olyan erdőbirtokossági társulat javára engedi át, amelyben a vagyonszerző vagy a közeli hozzátartozója társulati érdekeltséggel rendelkezik, vagy
+
+be) erdőkezelésbe adja,
+
+feltéve, hogy az 5 éves időtartam hátralévő részére a termőföld használója, hasznosítója vállalja, hogy a termőföldet mező-, illetve erdőgazdasági tevékenység céljára hasznosítja, továbbá mezőgazdasági termelőszervezet részére történő átengedés esetén a vagyonszerző, illetve közeli hozzátartozója vállalja, hogy a mezőgazdasági termelőszervezetben fennálló tulajdoni hányada nem csökken 25% alá, továbbá erdőbirtokossági társulat részére történő átengedés esetén a vagyonszerző, illetve közeli hozzátartozója vállalja, hogy az erdőbirtokossági társulati tagságát fenntartja.
 
 (18a) Az (1) bekezdés p) pontja szerinti feltételek fennállásáról és vállalásáról a vagyonszerzőnek legkésőbb a fizetési meghagyás jogerőre emelkedéséig, véglegessé válásáig kell nyilatkoznia az állami adóhatóságnál. Ha az eredetileg vállalt 5 év letelte előtt
 
@@ -202,7 +212,7 @@ c) a vagyonszerző a termőföldet saját maga vagy a (18) bekezdés szerinti me
 
 d) a vagyonszerző vagy a vagyonszerző közeli hozzátartozója a mezőgazdasági termelőszervezetben fennálló tulajdoni hányadát 25% alá csökkenti, vagy az erdőbirtokossági társulati tagságát nem tartja fenn,
 
-az egyébként járó illeték kétszeresét kell megfizetnie, kivéve a vagyonszerző elhalálozásának az esetét. Ha a vagyonszerző vagy a (18) bekezdés szerinti mezőgazdasági termelőszervezet, erdőbirtokossági társulat, erdőkezelő vagy közeli hozzátartozó által vállalt feltételek csak a termőföld meghatározott tulajdoni hányada tekintetében teljesültek, az egyébként járó illeték kétszeresét kizárólag azon tulajdoni hányad vonatkozásában kell megfizetni, amelyre a feltételek nem teljesültek.
+az egyébként járó illeték kétszeresét kell megfizetnie, kivéve a vagyonszerző elhalálozásának az esetét. Ha a vagyonszerző vagy a (18) bekezdés szerinti mezőgazdasági termelőszervezet, családi mezőgazdasági társaság, erdőbirtokossági társulat, erdőkezelő vagy közeli hozzátartozó által vállalt feltételek csak a termőföld meghatározott tulajdoni hányada tekintetében teljesültek, az egyébként járó illeték kétszeresét kizárólag azon tulajdoni hányad vonatkozásában kell megfizetni, amelyre a feltételek nem teljesültek.
 
 (19) Az (1) bekezdés y) pontja szerinti illetékmentességet:
 

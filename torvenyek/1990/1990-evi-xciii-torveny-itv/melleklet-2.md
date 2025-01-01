@@ -246,8 +246,6 @@ a termőföld birtokösszevonási célú telekcsoport-újraosztására és telek
 
 |
 
-a mezőgazdasági és erdészeti gépkezelői jogosítvány kiállítása
-
 |
 
 5.
