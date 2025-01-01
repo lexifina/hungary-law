@@ -51,3 +51,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-210-20-
 | 2024-05-08 | 2009-210-20-22.44 | 93/2024. (IV. 23.) Korm. rendelet |
 | 2024-07-01 | 2009-210-20-22.45 | 104/2024. (V. 9.) Korm. rendelet |
 | 2024-11-21 | 2009-210-20-22.46 | 319/2024. (XI. 6.) Korm. rendelet |
+| 2025-01-01 | 2009-210-20-22.47 | 501/2021. (VIII. 18.) Korm. rendelet |

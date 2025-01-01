@@ -4,8 +4,8 @@
 
 12. § (1) Közterületi értékesítés keretében – a (2) bekezdésben meghatározott eltéréssel – az 5. mellékletben meghatározott termékek forgalmazhatóak.
 
-(2)[^43] Közterületi értékesítés keretében a húsvéti, adventi, karácsonyi és szilveszteri ünnepeken, valamint évente egy alkalommal, kizárólag az adott ünnepen és az azt megelőző 20 napban az 5. mellékletben meghatározott termékeken túl az adott ünneppel, illetve az adott alkalomhoz kapcsolódó helyi hagyománnyal összefüggő termékek, továbbá nemesfémből készült ékszerek, díszműáruk és egyéb tárgyak forgalmazhatók.
+(2)[^44] Közterületi értékesítés keretében a húsvéti, adventi, karácsonyi és szilveszteri ünnepeken, valamint évente egy alkalommal, kizárólag az adott ünnepen és az azt megelőző 20 napban az 5. mellékletben meghatározott termékeken túl az adott ünneppel, illetve az adott alkalomhoz kapcsolódó helyi hagyománnyal összefüggő termékek, továbbá nemesfémből készült ékszerek, díszműáruk és egyéb tárgyak forgalmazhatók.
 
 (3) Közterületi értékesítést a kereskedő a termékre vonatkozó külön jogszabályok alapján szükséges hatósági engedélyek birtokában, továbbá a nevének és székhelyének feltüntetésével folytathat.
 
-[^43]: A 12. § (2) bekezdése a 260/2014. (X. 15.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^44]: A 12. § (2) bekezdése a 260/2014. (X. 15.) Korm. rendelet 2. §-ával megállapított szöveg.
