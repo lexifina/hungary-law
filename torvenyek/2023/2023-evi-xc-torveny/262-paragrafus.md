@@ -36,7 +36,7 @@ kf) az idegenrendészeti óvadék visszaadásának napját,
 
 kg) az idegenrendészeti óvadék összege államra szállásának időpontját.
 
-(2) Az idegenrendészeti hatóság a légi úton történő kiutasítás céljából történő átszállítás eseteiben biztosított segítségnyújtás kérése, illetve engedélyezése céljából a harmadik országbeli állampolgár következő adatait kezelheti:
+(2) Az idegenrendészeti hatóság a légi úton történő kitoloncolás céljából történő átszállítás eseteiben biztosított segítségnyújtás kérése, illetve engedélyezése céljából a harmadik országbeli állampolgár következő adatait kezelheti:
 
 a) a természetes személyazonosító adatok;
 

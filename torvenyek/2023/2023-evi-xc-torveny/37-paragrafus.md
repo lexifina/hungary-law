@@ -34,6 +34,6 @@ f) az a harmadik országbeli állampolgár, aki a kereskedelem és a befektetés
 
 g) a 96/71/EK európai parlamenti és tanácsi irányelv hatálya alá tartozó az a harmadik országbeli állampolgár, aki Magyarország területén kiküldetésben tartózkodik.
 
-(4) Az EU Kék Kártyát legalább kettő évre kell kiállítani. Ha a foglalkoztatásra irányuló szerződés kettő évnél rövidebb időtartamra szól, az EU Kék Kártyát a foglalkoztatásra irányuló szerződés szerinti jogviszony időtartamát három hónappal meghaladó időtartamra kell kiállítani.
+(4) Az EU Kék Kártyát legalább kettő évre, ha az úti okmány ennél hamarabb veszíti érvényességét, akkor az úti okmány érvényességi időtartamára kell kiállítani. Ha a foglalkoztatásra irányuló szerződés kettő évnél rövidebb időtartamra szól, az EU Kék Kártyát a foglalkoztatásra irányuló szerződés szerinti jogviszony időtartamát három hónappal meghaladó, de az úti okmány érvényességét meg nem haladó időtartamra kell kiállítani, amely esetben az EU Kék Kártya érvényessége nem haladhatja meg a két évet.
 
 (5) Az EU Kék Kártya érvényességi ideje legfeljebb négy év, amely alkalmanként legfeljebb négy évvel meghosszabbítható.

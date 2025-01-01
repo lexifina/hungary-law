@@ -1,0 +1,1 @@
+271/A. § Az idegenrendészeti hatóság a harmadik országbeli állampolgárok engedélyügyi eljárásai, valamint közrendvédelmi bírság kiszabására irányuló eljárások tekintetében jogosult a munkáltatóra vonatkozó adatok kezelésére, valamint a munkáltatóra vonatkozó adatok más jogszabályon alapuló közzétételére.

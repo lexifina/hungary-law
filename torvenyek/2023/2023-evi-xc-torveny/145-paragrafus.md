@@ -34,7 +34,7 @@ d) munkakör,
 
 e) a tényleges munkavégzés vagy vállalaton belül áthelyezés megkezdésének vagy meg nem kezdésének, vagy a munkavállalási engedély, vagy az összevont engedély érvényességi idején belül történő megszűnésének időpontja.
 
-(7) Az idegenrendészeti hatóság az (1)–(5) bekezdésben meghatározott kötelezettséget elmulasztó munkáltatót vagy fogadó szervezetet a foglalkoztatott harmadik országbeli állampolgárok számával arányos mértékű – jogszabályban meghatározott – közrendvédelmi bírsággal sújtja.
+(7) Az idegenrendészeti hatóság az (1)–(5) bekezdésben meghatározott kötelezettséget elmulasztó munkáltatót vagy fogadó szervezetet – jogszabályban meghatározott – közrendvédelmi bírsággal sújtja.
 
 (8) A közrendvédelmi bírság megfizetésének kötelezettsége alól a munkáltató vagy a fogadó szervezet akkor mentesül, ha bizonyítja, hogy az (1)–(5) bekezdésben foglalt ellenőrzési és bejelentési kötelezettségének eleget tett, kivéve, ha tudott, vagy kellő gondosság mellett tudhatott volna arról, hogy az érvényes tartózkodási engedélyként vagy más, tartózkodásra jogosító engedélyként bemutatott okmány hamis volt.
 

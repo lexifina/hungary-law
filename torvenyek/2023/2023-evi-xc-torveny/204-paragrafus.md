@@ -26,6 +26,8 @@ c) az eljárás megindítására nemzetbiztonsági, közrendi, közbiztonsági o
 
 d) az ügyfél nem tartózkodik Magyarországon.
 
+(5a) Közrendvédelmi bírság kiszabására irányuló eljárás esetén az idegenrendészeti hatóság – az ügyfél eljárás megindításáról szóló és nyilatkozattételre felhívó értesítésére figyelemmel – az idézéstől eltekinthet.
+
 (6) Az idegenrendészeti hatóság előtt megjelent ügyfelet az idegenrendészeti hatóság tájékoztatja a vele szemben hivatalból megindult idegenrendészeti eljárás okairól, eljárási jogairól és kötelezettségeiről.
 
 (7) A hivatalból indított eljárásban az ügyfél a hatóság erre irányuló felhívására köteles közölni az érdemi döntéshez szükséges adatokat. Törvény vagy kormányrendelet jogkövetkezményeket állapíthat meg az adatszolgáltatási kötelezettség elmulasztása vagy valótlan adatok közlése esetére. Az adatszolgáltatást az ügyfél akkor tagadhatja meg, ha arra a tanúvallomást megtagadhatná.

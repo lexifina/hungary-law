@@ -118,6 +118,6 @@ a) a szezonális munkavállalás célú tartózkodási engedély kiadására vag
 
 b) a vendégmunkás-tartózkodási engedély kiadására
 
-irányuló összevont kérelmezési eljárás lefolytatását megelőzően – a foglalkoztatást elősegítő szolgáltatásokról és támogatásokról, valamint a foglalkoztatás felügyeletéről szóló 2020. évi CXXXV. törvény 3. § (3) bekezdésében foglaltak alapján – köteles az adott álláshely vagy álláshelyek betöltése céljából a munkaerőigényét bejelenteni, és a foglalkoztatást elősegítő szolgáltatásokról és támogatásokról szóló kormányrendeletben meghatározott könnyített közvetítési eljárás lefolytatására irányuló kérelmét benyújtani az állami foglalkoztatási szerv részére.
+irányuló összevont kérelmezési eljárás lefolytatását megelőzően – a foglalkoztatást elősegítő szolgáltatásokról és támogatásokról, valamint a foglalkoztatás felügyeletéről szóló 2020. évi CXXXV. törvény 3. § (3) bekezdésében foglaltak alapján – köteles az adott álláshely vagy álláshelyek betöltése céljából a munkaerőigényét bejelenteni, és a foglalkoztatást elősegítő szolgáltatásokról és támogatásokról szóló kormányrendeletben meghatározott könnyített közvetítési szolgáltatás lefolytatására irányuló kérelmét benyújtani az állami foglalkoztatási szerv részére.
 
-(9) A (8) bekezdés b) pontjában meghatározott tartózkodási engedély iránti kérelemhez mellékelni kell az állami foglalkoztatási szerv által kiállított igazolást a munkaerőigény-bejelentéséről és a lefolytatott könnyített közvetítési eljárás eredményéről.
+(9) A (8) bekezdés b) pontjában meghatározott tartózkodási engedély iránti kérelemhez mellékelni kell az állami foglalkoztatási szerv által kiállított igazolást a munkaerőigény-bejelentéséről és a lefolytatott könnyített közvetítési szolgáltatás eredményéről.
