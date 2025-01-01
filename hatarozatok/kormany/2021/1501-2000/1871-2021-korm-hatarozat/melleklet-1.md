@@ -1,10 +1,4 @@
-## 1. a Közbeszerzési és Ellátási Főigazgatóság által a fővárosi és megyei kormányhivatalok részére nyújtott őrzés-védelmi és recepciós, valamint takarítási szolgáltatások ellátásával összefüggésben az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (2) bekezdésében biztosított jogkörében eljárva 815 413 109 forint egyszeri átcsoportosítását rendeli el a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 12. Fővárosi, megyei kormányhivatalok és járási kormányhivatalok cím terhére, a Kvtv. 1. melléklet XV. Pénzügyminisztérium fejezet, 5. Közbeszerzési és Ellátási Főigazgatóság cím javára, az 1. melléklet szerint;
-
-## Felelős: Miniszterelnökséget vezető miniszter
-
-## pénzügyminiszter
-
-## Határidő: azonnal
+## 1.[^1]
 
 ## 2. felhívja a pénzügyminisztert, hogy gondoskodjon a Közbeszerzési és Ellátási Főigazgatóság által a fővárosi és megyei kormányhivatalok részére nyújtott őrzés-védelmi és recepciós, valamint takarítási szolgáltatások ellátásával összefüggésben a központi költségvetés XI. Miniszterelnökség fejezet, 12. Fővárosi, megyei kormányhivatalok és járási kormányhivatalok cím terhére, a XV. Pénzügyminisztérium fejezet, 5. Közbeszerzési és Ellátási Főigazgatóság cím javára
 
@@ -26,4 +20,7 @@
 
 ## Határidő: 2021. december 15.
 
-1. melléklet az 1871/2021. (XII. 3.) Korm. határozathoz
+1. melléklet az 1871/2021. (XII. 3.) Korm. határozathoz[^2]
+
+[^1]: Az 1. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
