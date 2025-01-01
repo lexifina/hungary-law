@@ -1,0 +1,5 @@
+43/N. § (1) A honvédelmi ágazati kijelölő hatóság honvédelmi érdekből az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű szervezetként, az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű infrastruktúraként a Kszetv. 1. melléklete szerinti alapvető szolgáltatást nyújtó szervezetet, infrastruktúrát is kijelölhet.
+
+(2) Az (1) bekezdés szerint kijelölt, az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű szervezetek és az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű infrastruktúrák esetében is ezen alcímben foglaltakat kell alkalmazni.
+
+(3) A Kszetv. 1. mellékletében meghatározott digitális infrastruktúra alágazatban kijelölt, az ország védelme és biztonsága szempontjából jelentős honvédelmi ágazaton kívüli szervezet és az ország védelme és biztonsága szempontjából jelentős honvédelmi ágazaton kívüli infrastruktúra esetében a 43/B. § (2) bekezdésében foglaltakon túl a Kszetv. V. Fejezetét, 13. alcímét, valamint 15–17. alcímét is alkalmazni kell.

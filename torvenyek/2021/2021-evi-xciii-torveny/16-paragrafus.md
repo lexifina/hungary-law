@@ -16,4 +16,4 @@ g) azok az országos közutak kezelését ellátó a közforgalmú személyszál
 
 h) a közszolgáltató vagy közüzemi tevékenységet folytató természetes vagy jogi személyek, különösen az áram-, víz-, gáz-, távhőszolgáltatást, víziközmű-szolgáltatást, kommunálishulladék-eltávolítást végzők, és ezek üzemvitelét biztosító üzemek, a rendeltetésszerű feladataik teljesítéséhez nélkülözhetetlen mértékben, beleértve a hozzájuk tartozó védő és biztonsági területeket is,
 
-i) létfontosságú rendszerek üzemeltetői és az üzemeltetéshez nélkülözhetetlen szolgáltatásokat teljesítő szervezetek a létfontosságú rendszerelemek üzemeltetéséhez kapcsolódó szolgáltatásokhoz szükséges eszközök és erőforrások erejéig.
+i) a kritikus szervezetek és a kritikus szervezetek által nyújtott alapvető szolgáltatáshoz nélkülözhetetlen szolgáltatásokat teljesítő szervezetek, valamint az ország védelme és biztonsága szempontjából jelentős szervezetek és az ország védelme és biztonsága szempontjából jelentős szervezetek által nyújtott alapvető szolgáltatáshoz nélkülözhetetlen szolgáltatásokat teljesítő szervezetek, az alapvető szolgáltatáshoz szükséges eszközök és erőforrások erejéig.

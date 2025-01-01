@@ -27,3 +27,5 @@
 8. a NATO Válságreagálási Rendszerével összefüggő döntéshozatal és feladatellátás részletes szabályait, valamint az ezzel összhangban álló Nemzeti Intézkedési Rendszer alkalmazásával összefüggő szabályokat,
 
 9. az összehangolt védelmi tevékenység elrendelését, valamint az e törvényben meghatározott intézkedések bevezetését.
+
+10. az ország védelme és biztonsága szempontjából jelentős szervezet, az ország védelme és biztonsága szempontjából jelentős infrastruktúra kijelölésével kapcsolatos részletes szabályokat, az eljáró hatóságokat, a kijelölés ágazati kritériumait.

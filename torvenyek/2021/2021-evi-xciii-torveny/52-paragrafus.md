@@ -18,7 +18,7 @@ g) kormányrendeletben meghatározottak szerint koordinálja a Kormány válság
 
 h) figyelemmel kíséri és feladatkörét érintően támogatja a védelmi és biztonsági érdekek érvényesítését, illetve az ezekkel összefüggő fejlesztéseket segítő, valamint a biztonsági és védelmi összefüggésű technológiai, illetve társadalmi kihívások beazonosításához hozzájáruló tudományos kutatásokat,
 
-i) ellenőrzi a védelmi és biztonsági célú feladatellátást és az arra való felkészülést a minisztériumok, kormányzati főhivatalok és központi hivatalok tekintetében,
+i) ellenőrzi a védelmi és biztonsági célú feladatellátást és az arra való felkészülést a minisztériumok, kormányzati főhivatalok, központi hivatalok tekintetében, valamint a nemzetbiztonsági szolgálatok tekintetében, valamint, a kritikus szervezetek és az ország védelme és biztonsága szempontjából jelentős szervezetek kijelölő hatóságai körében,
 
 j) koordinálja a különleges jogrendi felkészülés ágazati feladatainak ellátását, valamint
 

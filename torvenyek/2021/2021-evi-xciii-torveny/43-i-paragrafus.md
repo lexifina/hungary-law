@@ -1,0 +1,3 @@
+43/I. § (1) Az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű szervezetként kijelölt, a honvédelemről szóló törvény szerinti honvédelmi szervezet esetében a kritikus szervezet ellenálló képességéért felelős vezetői tevékenységi kör egyéb beosztás ellátása melletti megbízással is végezhető.
+
+(2) Az ország védelme és biztonsága szempontjából jelentős honvédelmi ágazaton belüli, továbbá az ország védelme és biztonsága szempontjából jelentős kettős kijelöléssel nem érintett honvédelmi ágazaton kívüli szervezethez a Kszetv. szerinti Ellenálló Képességért Felelős Vezetők Tanácsadó Bizottságából tanácsadó nem rendelhető ki.

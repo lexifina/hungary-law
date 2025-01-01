@@ -1,0 +1,1 @@
+43/K. § A kormányrendeletben kijelölt honvédelmi nyilvántartó hatóság az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű szervezet, az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű infrastruktúra vonatkozásában nyilvántartást vezet. A honvédelmi nyilvántartó hatósági feladatokat a honvédelmi kijelölő hatóság látja el.

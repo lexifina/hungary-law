@@ -22,7 +22,7 @@ b) rugalmas és a kihívásokhoz alkalmazkodó energetikai rendszer és energiab
 
 c) az ellenőrizetlen, tömeges személymozgások hatékony kezelésére való képesség,
 
-d) a rugalmas és a kihívásokhoz alkalmazkodó, az alapvető élet- és egészségügyi feltételek fenntartását szolgáló rendszerek kialakítása, a társadalom alapvető szükségletei ellátásában nélkülözhetetlen létfontosságú rendszerek üzemfolytonos működésének biztosítása,
+d) a rugalmas és a kihívásokhoz alkalmazkodó, az alapvető élet- és egészségügyi feltételek fenntartását szolgáló rendszerek kialakítása, az alapvető szolgáltatások folyamatosságának biztosítása,
 
 e) a tömeges mértékű személyi sérüléssel fenyegető események kezelésére való képesség,
 
@@ -48,4 +48,4 @@ e) a szövetségesi kötelezettségek és vállalások teljesítése,
 
 f) a természeti és ipari katasztrófák megelőzése, valamint a kockázatok lehető legkisebbre csökkentése, a következmények mielőbbi helyreállítása, valamint
 
-g) a társadalom alapvető szükségletei ellátásában nélkülözhetetlen létfontosságú rendszerek üzemfolytonos működése.
+g) a kritikus szervezetek és a kritikus infrastruktúrák, valamint az ország védelme és biztonsága szempontjából jelentős szervezetek és az ország védelme és biztonsága szempontjából jelentős infrastruktúrák ellenálló képessége és az alapvető szolgáltatások folyamatosságának biztosítása.

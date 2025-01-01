@@ -4,7 +4,7 @@
 
 ## 34. A védelmi és biztonsági feladatok ellátásával összefüggő kötelezettségek ellenőrzése
 
-72. § (1) A védelmi és biztonsági igazgatás központi szerve ellenőrzi az e törvényben és a kapcsolódó jogszabályokban meghatározott védelmi és biztonsági feladatok ellátásából fakadó kötelezettségek teljesítését a minisztériumok, a kormányzati főhivatalok, központi hivatalok és a nemzetbiztonsági szolgálatok körében.
+72. § (1) A védelmi és biztonsági igazgatás központi szerve ellenőrzi az e törvényben és a kapcsolódó jogszabályokban meghatározott védelmi és biztonsági feladatok ellátásából fakadó kötelezettségek teljesítését a minisztériumok, a kormányzati főhivatalok, központi hivatalok, a nemzetbiztonsági szolgálatok, a kritikus szervezetek és az ország védelme és biztonsága szempontjából jelentős szervezetek kijelölő hatóságai körében.
 
 (2) Az ellenőrzés magában foglalja a védelmi és biztonsági feladatokkal összefüggésben különösen
 

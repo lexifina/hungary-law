@@ -48,7 +48,7 @@ m) a szakirányú felsőfokú végzettséggel rendelkező, hivatását gyakorló
 
 n) a léginavigációs szolgáltatást ellátó szervezet személyzete,
 
-o) a létfontosságú rendszerelem kritikus munkakörben foglalkoztatottja.
+o) a kritikus szervezet és az ország védelme és biztonsága szempontjából jelentős szervezet kritikus munkakörben foglalkoztatottja.
 
 (3) A polgármester – kérelmére – a polgári védelmi kötelezettség alól legfeljebb egy év időtartamra mentesítheti azt a kötelezettet, aki
 

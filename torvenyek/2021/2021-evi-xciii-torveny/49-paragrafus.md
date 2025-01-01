@@ -24,7 +24,7 @@ j) a Magyar Energetikai és Közmű-szabályozási Hivatal,
 
 k) a közellátást, illetve a közüzemi szolgáltatást végző szervek,
 
-l) az a)–k) pontban meghatározottakon túl a társadalom alapvető szükségleteinek ellátásában nélkülözhetetlen létfontosságú rendszerek üzemeltetői,
+l) az a)–k) pontban meghatározottakon túl a kritikus szervezetek, az ország védelme és biztonsága szempontjából jelentős szervezetek,
 
 m) minden olyan szerv, amely jogszabály alapján védelmi és biztonsági feladat ellátására vagy védelmi és biztonsági kötelezettség teljesítésében való közreműködésre köteles.
 

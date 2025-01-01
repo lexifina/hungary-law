@@ -18,10 +18,10 @@ h) vízügyi és árvízvédelmi termékek,
 
 i) pénzeszközök, valamint
 
-j) az a)–i) pont alá nem tartozó létfontosságú rendszerelemek által nyújtott, a társadalom alapvető szükségleteit kielégítő szolgáltatások.
+j) az a)–i) pont alá nem tartozó kritikus szervezetek, az ország védelme és biztonsága szempontjából jelentős szervezetek által nyújtott alapvető szolgáltatásokhoz szükséges eszközök, erőforrások.
 
 (2) Az (1) bekezdés g) pontja szerinti energetikai eszközök nem foglalják magukban az atomenergiáról szóló törvény szerinti nukleáris üzemanyagot.
 
 (3) Az állami célú tartalékok tekintetében a korlátozott felhasználhatóságú készleteket az elavulást, illetve a felhasználhatósági időtartam lejáratát megelőzően – a Kormány rendeletében meghatározottak szerint – más állami célra kell felhasználni a tartalékkészletek egyidejű pótlása mellett. A fel nem használható készleteket – az állami vagyonnal való gazdálkodásról szóló jogszabályokban és a Kormány rendeletében meghatározottak szerint – az elavulást megelőzően a 26. § (2) bekezdésében meghatározottakra figyelemmel értékesíteni kell.
 
-(4) A tartalékolási kötelezettség teljesítéséhez az állam elsősorban pénzbeli támogatásának biztosítása során – az egyéb, jogszabályban előírt feltételek fennállása esetén – elsőbbséget kell biztosítani a létfontosságú rendszerek üzemeltetői számára.
+(4) A tartalékolási kötelezettség teljesítéséhez az állam elsősorban pénzbeli támogatásának biztosítása során – az egyéb, jogszabályban előírt feltételek fennállása esetén – elsőbbséget kell biztosítani a kritikus szervezetek, az ország védelme és biztonsága szempontjából jelentős szervezetek számára.

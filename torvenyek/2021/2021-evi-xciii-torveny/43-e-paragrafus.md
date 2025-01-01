@@ -1,0 +1,5 @@
+43/E. § (1) Az ország védelme és biztonsága szempontjából jelentős szervezetek, az ország védelme és biztonsága szempontjából jelentős infrastruktúrák ellenőrzésére – a (2) bekezdésben és a 43/J. § (2) bekezdésében foglalt kivétellel – kormányrendeletben kijelölt ellenőrző hatóság (a továbbiakban: ellenőrző hatóság) rendelkezik hatáskörrel.
+
+(2) Az ország védelme és biztonsága szempontjából jelentős honvédelmi ágazaton belüli szervezetek, az ország védelme és biztonsága szempontjából jelentős honvédelmi ágazaton belüli infrastruktúrák ellenőrzésével összefüggő feladatok ellátására kizárólag a honvédelmi ágazati ellenőrző hatósági jogkörében a honvédelmi ágazati kijelölő hatóság rendelkezik hatáskörrel.
+
+(3) Az ország védelme és biztonsága szempontjából jelentős honvédelmi ágazaton kívüli szervezetek, az ország védelme és biztonsága szempontjából jelentős honvédelmi ágazaton kívüli infrastruktúrák ellenőrzésére mind az ellenőrző hatóság, mind a honvédelmi ágazati ellenőrző hatóság rendelkezik hatáskörrel.

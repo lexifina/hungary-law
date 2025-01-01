@@ -16,7 +16,7 @@ a) az ország honvédelmi érdekeit súlyosan sértő vagy veszélyeztető csele
 
 b) az államhatár rendjét súlyosan sértő cselekmények,
 
-c) az élet- és vagyonbiztonságot jelentős mértékben veszélyeztető létfontosságú rendszer üzemzavara, illetve károsítása vagy
+c) az élet- és vagyonbiztonságot jelentős mértékben veszélyeztető kritikus infrastruktúra, az ország védelme és biztonsága szempontjából jelentős infrastruktúra rendkívüli eseménye, illetve károsítása vagy
 
 d) az a)–c) pont szerinti körülmény közvetlen veszélye
 
