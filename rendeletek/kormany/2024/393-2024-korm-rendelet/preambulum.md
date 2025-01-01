@@ -1,0 +1,1 @@
+A Kormány az önkéntes kölcsönös biztosító pénztárakról szóló 1993. évi XCVI. törvény 78. § (1) bekezdésében kapott felhatalmazás alapján, az Alaptörvény 15. § (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
