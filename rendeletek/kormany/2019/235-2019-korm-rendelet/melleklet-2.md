@@ -8,6 +8,6 @@
 
 | 4. | Budaörsi Repülőtér | Budapest, XI. kerület 1236/20 | 83 ha 1887 m2 | Budapest, XI. kerület Kőérberki út | igen | HÉVÍZ-BALATON AIRPORT Korlátolt Felelősségű Társaság | beruházó és fenntartó |
 
-2. melléklet a 235/2019. (X. 15.) Korm. rendelethez[^50]
+2. melléklet a 235/2019. (X. 15.) Korm. rendelethez[^72]
 
-[^50]: A 2. melléklet az 501/2021. (VIII. 18.) Korm. rendelet 34. § (1) bekezdésével megállapított szöveg.
+[^72]: A 2. melléklet a 484/2024. (XII. 31.) Korm. rendelet 24. § (1) bekezdés a) pontjával megállapított szöveg.

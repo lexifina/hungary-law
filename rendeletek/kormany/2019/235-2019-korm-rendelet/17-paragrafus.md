@@ -1,5 +1,13 @@
-## 16. § Azok a szálláshely-szolgáltatók, amelyek a szálláshely-szolgáltatási tevékenység folytatásának részletes feltételeiről és a szálláshely-üzemeltetési engedély kiadásának rendjéről szóló 239/2009. (X. 20.) Korm. rendelet 4. § (3)–(6a) bekezdése szerinti szálláshely-szolgáltatási tevékenységüket 2019. december 1-jét megelőzően jelentik be, továbbá működési engedéllyel rendelkeznek, kötelesek 2019. december 1. és 2019. december 31. között az e rendelet 5. §-a szerinti regisztrációt teljesíteni. A napi és a havi adatszolgáltatást 2020. január 1-jétől kell teljesíteni, azzal, hogy az adatszolgáltatás első napja 2020. január 1-je, illetve első alkalommal 2020. január 1. napját követően kötelező a havi adatszolgáltatás teljesítése.
-
 17. § (1) Ez a rendelet a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
 (2) E rendeletnek a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti előzetes bejelentése megtörtént.
+
+(3)[^67] Ez a rendelet
+
+a) a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról szóló 1893/2006/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2022. október 10-i (EU) 2023/137 felhatalmazáson alapuló bizottsági rendelet és
+
+b) az (EU) 2020/1197, az (EU) 2022/918 és az (EU) 2022/1092 bizottsági végrehajtási rendeletnek a gazdasági tevékenységek statisztikai osztályozásának az 1893/2006/EK európai parlamenti és tanácsi rendelettel létrehozott NACE Rev. 2. rendszerére való hivatkozások tekintetében történő módosításáról szóló, 2024. június 27-i (EU) 2024/1840 bizottsági végrehajtási rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg.
+
+[^67]: A 17. § (3) bekezdését a 484/2024. (XII. 31.) Korm. rendelet 23. §-a iktatta be.

@@ -1,0 +1,5 @@
+## 16. § Azok a szálláshely-szolgáltatók, amelyek a szálláshely-szolgáltatási tevékenység folytatásának részletes feltételeiről és a szálláshely-üzemeltetési engedély kiadásának rendjéről szóló 239/2009. (X. 20.) Korm. rendelet 4. § (3)–(6a) bekezdése szerinti szálláshely-szolgáltatási tevékenységüket 2019. december 1-jét megelőzően jelentik be, továbbá működési engedéllyel rendelkeznek, kötelesek 2019. december 1. és 2019. december 31. között az e rendelet 5. §-a szerinti regisztrációt teljesíteni. A napi és a havi adatszolgáltatást 2020. január 1-jétől kell teljesíteni, azzal, hogy az adatszolgáltatás első napja 2020. január 1-je, illetve első alkalommal 2020. január 1. napját követően kötelező a havi adatszolgáltatás teljesítése.
+
+16/A. §[^66] A 2024. december 31. napján regisztrációs számmal nem rendelkező magánszálláshely és egyéb szálláshely 2026. december 31. napjáig nem kaphat regisztrációs számot Budapest főváros közigazgatási területén.
+
+[^66]: A 16/A. §-t a 484/2024. (XII. 31.) Korm. rendelet 22. §-a iktatta be.
