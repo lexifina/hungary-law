@@ -30,6 +30,8 @@ m) a biomassza, a köztes termékek, a bioüzemanyagok, a folyékony bio-energia
 
 n) a személyes adatok kivételével az erdei biomassza, fásszárú biomassza, erdészeti és faipari maradványok előállítására, forgalmazására, feldolgozására és felhasználására vonatkozó kötelezően nyilvántartandó adatokat.
 
+o) az Uniós Adatbázisba történő adatszolgáltatás részletes szabályait.
+
 (2) Felhatalmazást kap az energiapolitikáért felelős miniszter, hogy rendeletben állapítsa meg
 
 a) az adópolitikáért felelős miniszter egyetértésével az üzemanyag-forgalmazó által forgalomba hozott üzemanyagból és más közlekedési célú energiatermékből származó teljes életciklusra és energiaegységre számított üvegházhatású gázkibocsátással kapcsolatos nyilvántartásokra, bizonylatolásra és jelentésre vonatkozó részletes szabályokat,
