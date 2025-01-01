@@ -1,5 +1,3 @@
-1. melléklet a 10/2024. (VIII. 8.) MK rendelethez
+1. melléklet a 10/2024. (VIII. 8.) MK rendelethez[^3]
 
-A 7/2013. (II. 26.) NFM rendelet 1. melléklet 1. pontja a következő 1.4. alponttal egészül ki:
-
-„1.4. az e-közigazgatásért felelős miniszterrel kötött közszolgáltatási szerződés alapján az Országos Széchényi Könyvtár informatikai rendszerének üzemeltetése;”
+[^3]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
