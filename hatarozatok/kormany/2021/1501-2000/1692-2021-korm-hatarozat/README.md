@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-1692-30
 | 2021-09-30 | 2021-1692-30-22.1 | 1692/2021. (IX. 30.) Korm. határozat |
 | 2021-10-01 | 2021-1692-30-22.2 | 2010: CXXX. törvény |
 | 2022-11-25 | 2021-1692-30-22.4 | 1565/2022. (XI. 24.) Korm. határozat |
+| 2025-01-01 | 2021-1692-30-22.3 | 2011: CXCV. törvény |
