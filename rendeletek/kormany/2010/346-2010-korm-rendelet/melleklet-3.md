@@ -4,13 +4,13 @@
 
 ## b) A katonai nemzetbiztonsági műveleti hálózat esetében a Katonai Nemzetbiztonsági Szolgálat.
 
-## c)[^168] A Magyar Honvédség Kormányzati Célú Elkülönült Hírközlő Hálózat esetében a honvédelemért felelős miniszter.
+## c)[^180] A Magyar Honvédség Kormányzati Célú Elkülönült Hírközlő Hálózat esetében a honvédelemért felelős miniszter.
 
-## d)[^169] A terrorizmust elhárító szerv (Terrorelhárítási Központ) által használt elektronikus hírközlő hálózat esetében a rendészetért felelős miniszter.
+## d)[^181] A terrorizmust elhárító szerv (Terrorelhárítási Központ) által használt elektronikus hírközlő hálózat esetében a rendészetért felelős miniszter.
 
-## e)[^170] A külpolitikáért felelős miniszter által diplomáciai információs célokra használt hálózat esetében a külpolitikáért felelős miniszter.
+## e)[^182] A külpolitikáért felelős miniszter által diplomáciai információs célokra használt hálózat esetében a külpolitikáért felelős miniszter.
 
-3. melléklet a 346/2010. (XII. 28.) Korm. rendelethez[^171]
+3. melléklet a 346/2010. (XII. 28.) Korm. rendelethez[^183]
 
 ## EDR VPN gazda szervezetek és EDR felhasználók
 
@@ -118,11 +118,11 @@ II. Egyedi finanszírozásúak
 
 | 2. EDR – kormányzati célú hírközlési szolgáltató /Pro-M FKB VPN/ | X | 2.1. A 17. § (7) bekezdése szerint a kormányzati célú hírközlési szolgáltató jóváhagyásával az EDR-hálózathoz külön megállapodás alapján csatlakozó szervezet, így különösen a közszolgáltatást végző szervezetek. | X |
 
-| 2.2. Létfontosságú rendszerelemmé kijelölt eszköz, létesítmény vagy rendszer rendszerelemének tulajdonosa, engedélyese, rendelkezésre jogosultja vagy ilyen rendszerelem napi működéséért felelős jogi személy vagy jogi személyiség nélküli szervezet, valamint felső küszöbértékű veszélyes anyagokkal foglalkozó üzemek. | X |
+| 2.2. Kritikus szervezetek, az ország védelme és biztonsága szempontjából jelentős szervezetek, valamint felső küszöbértékű veszélyes anyagokkal foglalkozó üzemek. | X |
 
 | 3. Paks II. Atomerőmű Zártkörűen Működő Részvénytársaság (Paks II. Zrt.-VPN) | X | 3.1. Paks II. Atomerőmű Zártkörűen Működő Részvénytársaság |  |
 
-[^168]: A 2. melléklet c) pontja a 88/2024. (IV. 23.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^169]: A 2. melléklet d) pontja a 221/2014. (IX. 4.) Korm. rendelet 531. § b) pontja szerint módosított szöveg.
-[^170]: A 2. melléklet e) pontja a 221/2014. (IX. 4.) Korm. rendelet 531. § c) pontja szerint módosított szöveg.
-[^171]: A 3. melléklet a 188/2016. (VII. 13.) Korm. rendelet 14. §-ával megállapított, a 227/2016. (VII. 29.) Korm. rendelet 3. §-a, a 379/2016. (XII. 2.) Korm. rendelet 166. § (1) bekezdése, (2) bekezdés a)–b) pontja, a 85/2017. (IV. 10.) Korm. rendelet 5. §-a, a 361/2017. (XI. 30.) Korm. rendelet 1. §-a, a 162/2018. (IX. 10.) Korm. rendelet 16. §-a, a 81/2019. (IV. 18.) Korm. rendelet 13. § d)–e) pontja, a 126/2019. (V. 30.) Korm. rendelet 16. §-a, a 70/2021. (II. 19.) Korm. rendelet 6. §-a, a 717/2021. (XII. 20.) Korm. rendelet 6. § (1)–(2) bekezdése, a 239/2022. (VI. 30.) Korm. rendelet 13. §-a, a 409/2022. (X. 24.) Korm. rendelet 10. §-a, a 258/2023. (VI. 28.) Korm. rendelet 7. §-a, a 291/2023. (VII. 6.) Korm. rendelet 13. §-a, a 334/2023. (VII. 20.) Korm. rendelet 22. §-a szerint módosított szöveg.
+[^180]: A 2. melléklet c) pontja a 88/2024. (IV. 23.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^181]: A 2. melléklet d) pontja a 221/2014. (IX. 4.) Korm. rendelet 531. § b) pontja szerint módosított szöveg.
+[^182]: A 2. melléklet e) pontja a 221/2014. (IX. 4.) Korm. rendelet 531. § c) pontja szerint módosított szöveg.
+[^183]: A 3. melléklet a 188/2016. (VII. 13.) Korm. rendelet 14. §-ával megállapított, a 227/2016. (VII. 29.) Korm. rendelet 3. §-a, a 379/2016. (XII. 2.) Korm. rendelet 166. § (1) bekezdése, (2) bekezdés a)–b) pontja, a 85/2017. (IV. 10.) Korm. rendelet 5. §-a, a 361/2017. (XI. 30.) Korm. rendelet 1. §-a, a 162/2018. (IX. 10.) Korm. rendelet 16. §-a, a 81/2019. (IV. 18.) Korm. rendelet 13. § d)–e) pontja, a 126/2019. (V. 30.) Korm. rendelet 16. §-a, a 70/2021. (II. 19.) Korm. rendelet 6. §-a, a 717/2021. (XII. 20.) Korm. rendelet 6. § (1)–(2) bekezdése, a 239/2022. (VI. 30.) Korm. rendelet 13. §-a, a 409/2022. (X. 24.) Korm. rendelet 10. §-a, a 258/2023. (VI. 28.) Korm. rendelet 7. §-a, a 291/2023. (VII. 6.) Korm. rendelet 13. §-a, a 334/2023. (VII. 20.) Korm. rendelet 22. §-a, a 474/2024. (XII. 31.) Korm. rendelet 131. § b) pontja szerint módosított szöveg.

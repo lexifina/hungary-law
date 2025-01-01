@@ -45,3 +45,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-346-20-
 | 2023-08-01 | 2010-346-20-22.37 | 188/2016. (VII. 13.) Korm. rendelet |
 | 2024-04-24 | 2010-346-20-22.38 | 88/2024. (IV. 23.) Korm. rendelet |
 | 2024-12-21 | 2010-346-20-22.40 | 410/2024. (XII. 20.) Korm. rendelet |
+| 2025-01-01 | 2010-346-20-22.39 | 410/2024. (XII. 20.) Korm. rendelet |
