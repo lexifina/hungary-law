@@ -1,0 +1,1 @@
+7. § Az Ehat Vhr. 12. mellékletében foglalt táblázat A:3 mezőjében az „Alapképzésben szerzett energetikai mérnök, vagy gépészmérnök, vagy villamosmérnök, vagy építészmérnök, vagy építőmérnök, vagy előzőekkel egyenértékű” szövegrész helyébe a „11. melléklet szerinti alapképzésben szerzett” szöveg lép.
