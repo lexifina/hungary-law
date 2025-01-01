@@ -30,7 +30,7 @@
 
 ## 2.3. magyarországi képzési helyen történő működéséhez szükséges képzési helyszín biztosításával kapcsolatos együttműködési megállapodásairól az együttműködő egyéni vállalkozó neve, címe, adószáma.
 
-## 3. a Magyar Felsőoktatási Akkreditációs Bizottság, a Felsőoktatási Tervezési Testület, a Magyar Rektori Konferencia, a Hallgatói Önkormányzatok Országos Konferenciája, a Doktoranduszok Országos Szövetsége, az Országos Doktori Tanács, az Országos Tudományos Diákköri Tanács esetében
+## 3. a Magyar Felsőoktatási Akkreditációs Bizottság, a Magyar Rektori Konferencia, a Hallgatói Önkormányzatok Országos Konferenciája, a Doktoranduszok Országos Szövetsége, az Országos Doktori Tanács, az Országos Tudományos Diákköri Tanács esetében
 
 ## 3.1. a szervezet neve, székhelye,
 

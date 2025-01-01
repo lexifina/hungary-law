@@ -30,7 +30,7 @@ i) évfolyamát,
 
 j) melyik évfolyamon, mely országban vett részt az Nkt.-ban szabályozott határon túli kiránduláson,
 
-k)
+k) annak tényét és időtartamát, hogy a tanuló igénybe vette vagy veszi a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény szerinti tanoda szolgáltatásait,
 
 l) melyik évfolyamon, mely országban vett részt külföldi tanulmányúton,
 
@@ -266,7 +266,7 @@ e) előző tanévi matematika osztályzat;
 
 f) évfolyam, osztály;
 
-g)
+g) annak tényére és időtartamára vonatkozó adatok, hogy a tanuló, korábban az óvodai nevelésben való részvétele alatt igénybe vette a Biztos Kezdet Gyerekházak szolgáltatásait, továbbá, hogy a tanuló igénybe vette vagy veszi a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény szerinti tanoda szolgáltatásait,
 
 h) jogviszonnyal kapcsolatos adatok;
 

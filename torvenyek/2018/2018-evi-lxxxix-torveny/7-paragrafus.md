@@ -118,6 +118,16 @@ c) a Hallgatói személyi törzsből a 3. melléklet IV. rész 5. pontja, – a 
 
 (27) A tanköteles gyermekek nyilvántartásából adat továbbítható a kötelező felvételt biztosító általános iskola fenntartója részére az iskolai felvétel biztosítása céljából, a felmentést engedélyező szerv részére a hatósági eljárás lefolytatása céljából, valamint a szabálysértési hatóság részére a szabálysértési eljárás lefolytatása céljából.
 
+(28) A felsőoktatási információs rendszerből az oktatási nyilvántartás működéséért felelős szerv a kormányablaknak, a családtámogatási ügyben eljáró hatóságnak, az állami foglalkoztatási szervnek, a nyugdíjbiztosítási igazgatási szervnek, valamint a rehabilitációs hatóságnak a feladatellátásához szükséges adatok tekintetében az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti automatikus információelérési felületet biztosít.
+
+(29) Az oktatási nyilvántartás működéséért felelős szerv az óvodai nevelésben részvételre kötelezett gyermekek nyilvántartásából, illetve a tanköteles gyermekek nyilvántartásából
+
+a) a családi pótlékra való jogosultság ellenőrzése céljából a tankötelezettség teljesítésére vonatkozó adatok tekintetében a családtámogatási ügyben eljáró hatóság részére,
+
+b) az árvaellátáshoz kapcsolódó kérelmek elbírásához a nyugdíjbiztosítási igazgatási szerv részére
+
+az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti automatikus információelérési felületet biztosít.
+
 (30) Az oktatási nyilvántartás működéséért felelős szerv az oktatási igazolványok intézményi adminisztrációs rendszeréből az igazolványok érvényességére vonatkozóan adatot szolgáltat az oktatási igazolványokhoz kapcsolódó kedvezmények szervezője és a kedvezmények nyújtói részére.
 
 (31) Az oktatási nyilvántartás működéséért felelős szerv a nyelvvizsgák nyelvvizsga-anyakönyveinek nyilvántartásából előzetes regisztrációt követően
