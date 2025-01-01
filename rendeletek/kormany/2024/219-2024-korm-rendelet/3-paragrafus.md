@@ -1,5 +1,3 @@
-## 2.[^3]
+## 2. Az integrált ügyintézési és tájékoztatási pont kialakításáról, működtetéséről, valamint a működtető és az érintett szervek együttműködésének rendjéről szóló 160/2010. (V. 6.) Korm. rendelet módosítása
 
-3. §
-
-[^3]: A 2. alcím a 9. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+3. § Az integrált ügyintézési és tájékoztatási pont kialakításáról, működtetéséről, valamint a működtető és az érintett szervek együttműködésének rendjéről szóló 160/2010. (V. 6.) Korm. rendelet 3. § (3) bekezdésében a „Központi Okmányiroda” szövegrész helyébe a „Központi Okmányügyi Főosztály” szöveg lép.
