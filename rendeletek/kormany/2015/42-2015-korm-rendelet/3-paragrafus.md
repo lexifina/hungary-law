@@ -1,8 +1,8 @@
-3. § (1)[^2] Az intézmény kiépíti az informatikai rendszere biztonságos működtetését felügyelő informatikai ellenőrző rendszert, és azt folyamatosan működteti, valamint gondoskodik a független informatikai biztonsági funkció kialakításáról.
+3. § (1)[^3] Az intézmény kiépíti az informatikai rendszere biztonságos működtetését felügyelő informatikai ellenőrző rendszert, és azt folyamatosan működteti, valamint gondoskodik a független informatikai biztonsági funkció kialakításáról.
 
 (2) A biztonsági kockázatelemzés eredményének értékelése alapján a biztonsági kockázattal arányos módon gondoskodni kell legalább az alábbiakról:
 
-a)[^3] a rendszer legfontosabb elemeinek – különösen eszközök, folyamatok, személyek, szolgáltatások, adatkapcsolatok – egyértelmű és visszakereshető azonosításáról,
+a)[^4] a rendszer legfontosabb elemeinek – különösen eszközök, folyamatok, személyek, szolgáltatások, adatkapcsolatok – egyértelmű és visszakereshető azonosításáról,
 
 b) az informatikai biztonsági rendszer önvédelmét, kritikus elemei védelmének zártságát és teljeskörűségét biztosító ellenőrzésekről, eljárásokról,
 
@@ -10,7 +10,7 @@ c) a rendszer szabályozott, ellenőrizhető és rendszeresen ellenőrzött felh
 
 d) olyan biztonsági környezetről, amely az informatikai rendszer működése szempontjából kritikus folyamatok eseményeit naplózza, alkalmas a naplózás rendszeres (esetleg önműködő) és érdemi értékelésére, valamint lehetőséget nyújt a nem rendszeres események kezelésére is,
 
-e)[^4] az adatátvitel bizalmasságáról, sértetlenségéről és hitelességéről, a távadatátvitel során a felhasználók erős hitelesítéséről,
+e)[^5] az adatátvitel bizalmasságáról, sértetlenségéről és hitelességéről, a távadatátvitel során a felhasználók erős hitelesítéséről,
 
 f) az adathordozók szabályozott és biztonságos kezeléséről, valamint
 
@@ -32,11 +32,11 @@ f) jogszabályban meghatározott nyilvántartás ismételt előhívására alkal
 
 g) a szolgáltatásai folyamatosságát akadályozó rendkívüli események kezelésére szolgáló tervvel,
 
-h)[^5] olyan elektronikusdokumentum-hitelesítési, valamint digitális archiválási megoldással és eljárásokkal, amelyek biztosítják az elektronikus ügyfélcsatornák alkalmazása során létrejövő elektronikus dokumentumok és adatok valódiságát, valamint a valódiság hosszú távú fenntarthatóságát.
+h)[^6] olyan elektronikusdokumentum-hitelesítési, valamint digitális archiválási megoldással és eljárásokkal, amelyek biztosítják az elektronikus ügyfélcsatornák alkalmazása során létrejövő elektronikus dokumentumok és adatok valódiságát, valamint a valódiság hosszú távú fenntarthatóságát.
 
 (4) A (3) bekezdés e) pontja szerinti mentéseket kockázati szempontból elkülönítetten és tűzbiztos módon kell tárolni, valamint gondoskodni kell a mentések forrásrendszerrel azonos szintű hozzáférési védelméről.
 
-[^2]: A 3. § (1) bekezdése az 586/2020. (XII. 15.) Korm. rendelet 2. § (1) bekezdésével megálapított szöveg.
-[^3]: A 3. § (2) bekezdés a) pontja az 586/2020. (XII. 15.) Korm. rendelet 2. § (2) bekezdésével megálapított szöveg.
-[^4]: A 3. § (2) bekezdés e) pontja az 586/2020. (XII. 15.) Korm. rendelet 2. § (3) bekezdésével megálapított szöveg.
-[^5]: A 3. § (3) bekezdés h) pontját a 399/2020. (VIII. 12.) Korm. rendelet 1. §-a iktatta be.
+[^3]: A 3. § (1) bekezdése az 586/2020. (XII. 15.) Korm. rendelet 2. § (1) bekezdésével megálapított szöveg.
+[^4]: A 3. § (2) bekezdés a) pontja az 586/2020. (XII. 15.) Korm. rendelet 2. § (2) bekezdésével megálapított szöveg.
+[^5]: A 3. § (2) bekezdés e) pontja az 586/2020. (XII. 15.) Korm. rendelet 2. § (3) bekezdésével megálapított szöveg.
+[^6]: A 3. § (3) bekezdés h) pontját a 399/2020. (VIII. 12.) Korm. rendelet 1. §-a iktatta be.

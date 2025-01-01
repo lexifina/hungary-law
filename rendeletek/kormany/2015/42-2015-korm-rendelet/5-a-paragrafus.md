@@ -1,6 +1,6 @@
 ## 5. § Az intézmény a belső szabályzatában meghatározza az egyes munkakörök betöltéséhez szükséges informatikai ismeretet.
 
-5/A. §[^12] (1)[^13] A Hpt. 67/A. §-ában, a Bszt. 12. §-ában, az Fsztv. 12/A. §-ában és a Bit. 94. §-ában meghatározott tanúsító szervezet (a továbbiakban: tanúsító szervezet) a Magyar Nemzeti Bank (a továbbiakban: MNB) által vezetett nyilvántartásba vételét követően kezdheti meg az e rendelet hatálya alá tartozó tevékenységét. Az MNB azt a szervezetet veszi kérelmére tanúsító szervezetként nyilvántartásba, amely a nyilvántartásba vételi eljárás során igazolja, hogy a következő feltételeket teljesítette:
+5/A. §[^13] (1)[^14] A Hpt. 67/A. §-ában, a Bszt. 12. §-ában, az Fsztv. 12/A. §-ában és a Bit. 94. §-ában meghatározott tanúsító szervezet (a továbbiakban: tanúsító szervezet) a Magyar Nemzeti Bank (a továbbiakban: MNB) által vezetett nyilvántartásba vételét követően kezdheti meg az e rendelet hatálya alá tartozó tevékenységét. Az MNB azt a szervezetet veszi kérelmére tanúsító szervezetként nyilvántartásba, amely a nyilvántartásba vételi eljárás során igazolja, hogy a következő feltételeket teljesítette:
 
 a) a Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: SZTFH) az információs és kommunikációs technológiák kiberbiztonsági tanúsításáról szóló SZTFH rendelet szerinti „magas” megbízhatósági szintű kiberbiztonsági tanúsítvány kiállítására vonatkozó feltételeknek megfelelő megfelelőségértékelő szervezetként nyilvántartásba vette,
 
@@ -18,7 +18,7 @@ cb) 10 és 1000 milliárd forint mérlegfőösszeg közötti vizsgált intézmé
 
 cc) 1000 milliárd forintot meghaladó mérlegfőösszegű vizsgált intézmény esetén legalább 2 éves akkreditált státuszt igazoló okirattal.
 
-(1a)[^14]
+(1a)[^15]
 
 (2) Az intézmény a tanúsítási eljárás lefolytatására az MNB nyilvántartásában (a továbbiakban: tanúsító szervezetek jegyzéke) szereplő tanúsító szervezet részére megbízást ad. A megbízás vonatkozhat több tanúsítási eljárás lefolytatására vagy tanúsítási eljárások folyamatos végzésére is. Az első tanúsítvány beszerzése érdekében az intézmény a tanúsító szervezetek jegyzékének közzétételét követő 60 napon belül – a szövetkezeti hitelintézetnek minősülő intézmény 2018. január 31. napjáig – köteles a tanúsító szervezettel megbízási jogviszonyt létrehozni, és a tanúsítási eljárást 2017. március 31. napjáig lezárni. A kiállított tanúsítványok érvényességi ideje egy év. Ezt követően az intézmény legkésőbb a tanúsítvány érvényességi idejének lejártát megelőző hat hónappal korábban köteles megbízást adni a tanúsító szervezet részére a tanúsítvány megújítása iránti eljárás lefolytatására. A tanúsító szervezet a tanúsítási eljárást olyan időpontban köteles megkezdeni, hogy a tanúsítási eljárás az intézmény tanúsítványának érvényességi ideje alatt lefolytatható legyen, beleértve az új tanúsítvány kiadását is.
 
@@ -42,11 +42,11 @@ cd) a szabályozások és eljárások garantálják a rendszer biztonsági szint
 
 (5) Amennyiben a tanúsító szervezet a vizsgált intézmény informatikai rendszerének kockázatokkal arányos védelmét biztosító eszközrendszerében hibát vagy hiányosságot észlel, a hiba vagy hiányosság pontos meghatározását tartalmazó jegyzőkönyvet ad át a vizsgált intézmény részére, melynek kijavítására megfelelő határidőt biztosít. A vizsgált intézmény a jegyzőkönyvben foglaltak szerint készített tevékenységi terve alapján a hiba kijavítását vagy a hiányosság pótlását a tanúsító szervezet által megjelölt határidőn belül elvégzi. A tanúsító szervezet a hiba kijavítását vagy a hiányosság pótlását a megadott határidő leteltét követően ellenőrzi és ennek eredményétől függően dönt annak elfogadásáról vagy a tevékenységi terv elvégzéséhez szükséges határidő meghosszabbításáról.
 
-(5a)[^15] A tanúsító szervezet a tanúsítási eljárás befejezését követően tájékoztatja az MNB-t a tanúsítási eljárás eredményéről. Amennyiben az átadott dokumentáció alapján az MNB a vizsgált intézmény informatikai rendszerének kockázatokkal arányos védelmét biztosító eszközrendszerében hibát vagy hiányosságot észlel, az intézménnyel szemben intézkedést alkalmazhat.
+(5a)[^16] A tanúsító szervezet a tanúsítási eljárás befejezését követően tájékoztatja az MNB-t a tanúsítási eljárás eredményéről. Amennyiben az átadott dokumentáció alapján az MNB a vizsgált intézmény informatikai rendszerének kockázatokkal arányos védelmét biztosító eszközrendszerében hibát vagy hiányosságot észlel, az intézménnyel szemben intézkedést alkalmazhat.
 
-(5b)[^16] Amennyiben a tanúsító szervezet az általánosan elfogadott szakmai standardok alapján és az eljárás során feltárt hibák – (5) bekezdésben meghatározottak szerinti – kijavítása ellenére nem látja lehetségesnek a tanúsítvány kiadását, akkor erről a teljes dokumentáció megküldésével egyidejűleg értesíti az MNB-t, aki ezt követően dönt a szükséges intézkedések megtételéről.
+(5b)[^17] Amennyiben a tanúsító szervezet az általánosan elfogadott szakmai standardok alapján és az eljárás során feltárt hibák – (5) bekezdésben meghatározottak szerinti – kijavítása ellenére nem látja lehetségesnek a tanúsítvány kiadását, akkor erről a teljes dokumentáció megküldésével egyidejűleg értesíti az MNB-t, aki ezt követően dönt a szükséges intézkedések megtételéről.
 
-(6)[^17] A tanúsító szervezet a tanúsítvány kiadásával egyidejűleg átadja a vizsgált intézmény részére a tanúsítás alátámasztásához szükséges dokumentációt. A tanúsító szervezet a tanúsítási eljárás lefolytatásáért és a tanúsítvány kiadásáért együttesen legfeljebb az alábbi összegű díjazást kérhet az intézménytől:
+(6)[^18] A tanúsító szervezet a tanúsítvány kiadásával egyidejűleg átadja a vizsgált intézmény részére a tanúsítás alátámasztásához szükséges dokumentációt. A tanúsító szervezet a tanúsítási eljárás lefolytatásáért és a tanúsítvány kiadásáért együttesen legfeljebb az alábbi összegű díjazást kérhet az intézménytől:
 
 a) 10 milliárd forintot el nem érő mérlegfőösszeg esetén legfeljebb nettó 5 millió forint;
 
@@ -64,30 +64,30 @@ c) 1000 milliárd forintot meghaladó mérlegfőösszeg esetén legfeljebb nett�
 
 (11) A tanúsító szervezet a tanúsítási tevékenységének ellátása körében okozott kár megtérítéséért a Polgári Törvénykönyvről szóló törvény kártérítési felelősségre vonatkozó általános szabályai szerinti felelősséggel tartozik.
 
-(12)[^18] A tanúsító szervezetnek és az SZTFH által a tanúsító szervezet tevékenységében közreműködőként nyilvántartásba vett vizsgáló laboratóriumnak (a továbbiakban: vizsgáló laboratórium) szerepelnie kell az eseménykezelő központok feladat- és hatásköréről, valamint a biztonsági események kezelésének és műszaki vizsgálatának, továbbá a sérülékenységvizsgálat lefolytatásának szabályairól szóló 271/2018. (XII. 20.) Korm. rendelet 22. § (5) bekezdése szerinti nyilvántartásban.
+(12)[^19]
 
-(13)[^19] A tanúsítási eljárás során az eljárás lefolytatását végző személyeknek rendelkezniük kell személyi biztonsági tanúsítvánnyal. A tanúsítási eljárás során az eljárás lefolytatását végző személy tudomására jutott adatok – így különösen a személyes adatok vagy üzleti titkot tartalmazó adatok – megismerése és felhasználása a tanúsítási eljárás lefolytatása és dokumentálása szabályainak betartásával tehető meg.
+(13)[^20] A tanúsítási eljárás során az eljárás lefolytatását végző személyeknek rendelkezniük kell személyi biztonsági tanúsítvánnyal. A tanúsítási eljárás során az eljárás lefolytatását végző személy tudomására jutott adatok – így különösen a személyes adatok vagy üzleti titkot tartalmazó adatok – megismerése és felhasználása a tanúsítási eljárás lefolytatása és dokumentálása szabályainak betartásával tehető meg.
 
-(14)[^20]
+(14)[^21]
 
-(15)[^21]
+(15)[^22]
 
-(16)[^22]
+(16)[^23]
 
-(17)[^23]
+(17)[^24]
 
-(18)[^24]
+(18)[^25]
 
-[^12]: Az 5/A. §-t a 157/2016. (VI. 13.) Korm. rendelet 2. §-a iktatta be.
-[^13]: Az 5/A. § (1) bekezdése a 324/2023. (VII. 17.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^14]: Az 5/A. § (1a) bekezdését a 399/2020. (VIII. 12.) Korm. rendelet 2. § (1) bekezdése iktatta be, a 324/2023. (VII. 17.) Korm. rendelet 4. §-a hatályon kívül helyezte.
-[^15]: Az 5/A. § (5a) bekezdését a 358/2016. (XI. 23.) Korm. rendelet 1. §-a iktatta be.
-[^16]: Az 5/A. § (5b) bekezdését a 358/2016. (XI. 23.) Korm. rendelet 1. §-a iktatta be.
-[^17]: Az 5/A. § (6) bekezdése a 460/2015. (XII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^18]: Az 5/A. § (12) bekezdése a 324/2023. (VII. 17.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^19]: Az 5/A. § (13) bekezdését a 460/2015. (XII. 23.) Korm. rendelet 2. §-a iktatta be, szövege a 399/2020. (VIII. 12.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^20]: Az 5/A. § (14) bekezdését a 399/2020. (VIII. 12.) Korm. rendelet 2. § (2) bekezdése iktatta be, a 324/2023. (VII. 17.) Korm. rendelet 4. §-a hatályon kívül helyezte.
-[^21]: Az 5/A. § (15) bekezdését a 399/2020. (VIII. 12.) Korm. rendelet 2. § (2) bekezdése iktatta be, a 324/2023. (VII. 17.) Korm. rendelet 4. §-a hatályon kívül helyezte.
-[^22]: Az 5/A. § (16) bekezdését a 399/2020. (VIII. 12.) Korm. rendelet 2. § (2) bekezdése iktatta be, a 324/2023. (VII. 17.) Korm. rendelet 4. §-a hatályon kívül helyezte.
-[^23]: Az 5/A. § (17) bekezdését a 399/2020. (VIII. 12.) Korm. rendelet 2. § (2) bekezdése iktatta be, a 324/2023. (VII. 17.) Korm. rendelet 4. §-a hatályon kívül helyezte.
-[^24]: Az 5/A. § (18) bekezdését a 399/2020. (VIII. 12.) Korm. rendelet 2. § (2) bekezdése iktatta be, a 324/2023. (VII. 17.) Korm. rendelet 4. §-a hatályon kívül helyezte.
+[^13]: Az 5/A. §-t a 157/2016. (VI. 13.) Korm. rendelet 2. §-a iktatta be.
+[^14]: Az 5/A. § (1) bekezdése a 324/2023. (VII. 17.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^15]: Az 5/A. § (1a) bekezdését a 399/2020. (VIII. 12.) Korm. rendelet 2. § (1) bekezdése iktatta be, a 324/2023. (VII. 17.) Korm. rendelet 4. §-a hatályon kívül helyezte.
+[^16]: Az 5/A. § (5a) bekezdését a 358/2016. (XI. 23.) Korm. rendelet 1. §-a iktatta be.
+[^17]: Az 5/A. § (5b) bekezdését a 358/2016. (XI. 23.) Korm. rendelet 1. §-a iktatta be.
+[^18]: Az 5/A. § (6) bekezdése a 460/2015. (XII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^19]: Az 5/A. § (12) bekezdését a 418/2024. (XII. 23.) Korm. rendelet 128. §-a hatályon kívül helyezte.
+[^20]: Az 5/A. § (13) bekezdését a 460/2015. (XII. 23.) Korm. rendelet 2. §-a iktatta be, szövege a 399/2020. (VIII. 12.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^21]: Az 5/A. § (14) bekezdését a 399/2020. (VIII. 12.) Korm. rendelet 2. § (2) bekezdése iktatta be, a 324/2023. (VII. 17.) Korm. rendelet 4. §-a hatályon kívül helyezte.
+[^22]: Az 5/A. § (15) bekezdését a 399/2020. (VIII. 12.) Korm. rendelet 2. § (2) bekezdése iktatta be, a 324/2023. (VII. 17.) Korm. rendelet 4. §-a hatályon kívül helyezte.
+[^23]: Az 5/A. § (16) bekezdését a 399/2020. (VIII. 12.) Korm. rendelet 2. § (2) bekezdése iktatta be, a 324/2023. (VII. 17.) Korm. rendelet 4. §-a hatályon kívül helyezte.
+[^24]: Az 5/A. § (17) bekezdését a 399/2020. (VIII. 12.) Korm. rendelet 2. § (2) bekezdése iktatta be, a 324/2023. (VII. 17.) Korm. rendelet 4. §-a hatályon kívül helyezte.
+[^25]: Az 5/A. § (18) bekezdését a 399/2020. (VIII. 12.) Korm. rendelet 2. § (2) bekezdése iktatta be, a 324/2023. (VII. 17.) Korm. rendelet 4. §-a hatályon kívül helyezte.

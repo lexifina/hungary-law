@@ -1,4 +1,4 @@
-## 1. §[^1] E rendelet hatálya
+## 1. §[^2] E rendelet hatálya
 
 a) a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) szerinti hitelintézetre és pénzügyi vállalkozásra,
 
@@ -10,4 +10,4 @@ d) a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, va
 
 (a továbbiakban együtt: intézmény) terjed ki.
 
-[^1]: Az 1. § a 157/2016. (VI. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § a 157/2016. (VI. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
