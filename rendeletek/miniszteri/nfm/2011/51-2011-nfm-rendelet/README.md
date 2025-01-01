@@ -43,3 +43,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-51-20-2
 | 2024-01-12 | 2011-51-20-2W.35 | 1/2024. (I. 11.) EM rendelet |
 | 2024-05-11 | 2011-51-20-2W.36 | 8/2024. (V. 10.) EM rendelet |
 | 2024-10-01 | 2011-51-20-2W.37 | 1/2024. (I. 11.) EM rendelet |
+| 2025-01-01 | 2011-51-20-2W.38 | 83/2011. (XII. 29.) NFM rendelet |
