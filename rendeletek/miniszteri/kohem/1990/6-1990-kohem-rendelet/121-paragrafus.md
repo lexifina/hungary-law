@@ -108,7 +108,7 @@
 
 53.[^378] a könnyű személygépjárművek és haszongépjárművek (Euro 5 és Euro 6) kibocsátás tekintetében történő típusjóváhagyásáról és a járműjavítási és -karbantartási információk elérhetőségéről szóló 715/2007/EK európai parlamenti és tanácsi rendelet kiegészítéséről, a 2007/46/EK európai parlamenti és tanácsi irányelv, a 692/2008/EK bizottsági rendelet és az 1230/2012/EU bizottsági rendelet módosításáról, valamint a 692/2008/EK bizottsági rendelet hatályon kívül helyezéséről szóló, 2017. június 1-i (EU) 2017/1151 bizottsági rendelet,
 
-54.[^379] a szabályozási vizsgálati eljárásnak a könnyű haszongépjárművek tekintetében történő változását tükröző megfeleltetési paraméterek meghatározására szolgáló módszertan megállapításáról és a 293/2012/EU végrehajtási rendelet módosításáról szóló, 2017. június 2-i (EU) 2017/1152 bizottsági végrehajtási rendelet,
+54.[^379]
 
 55.[^380] a könnyű személygépjárművek és haszongépjárművek (Euro 5 és Euro 6) kibocsátás tekintetében történő típusjóváhagyásáról és a járműjavítási és -karbantartási információk elérhetőségéről szóló 715/2007/EK európai parlamenti és tanácsi rendelet kiegészítéséről, a 2007/46/EK európai parlamenti és tanácsi irányelv, a 692/2008/EK bizottsági rendelet és az 1230/2012/EU bizottsági rendelet módosításáról, valamint a 692/2008/EK rendelet hatályon kívül helyezéséről szóló (EU) 2017/1151 bizottsági rendeletnek és a 2007/46/EK európai parlamenti és tanácsi irányelvnek a könnyű személy- és haszongépjárművek valós vezetési feltételek melletti kibocsátásai (Euro 6) tekintetében történő módosításáról szóló, 2017. június 7-i (EU) 2017/1154 bizottsági rendelet,
 
@@ -151,7 +151,7 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 [^376]: A 121. § 51. pontját az 53/2017. (XII. 22.) NFM rendelet 6. §-a iktatta be.
 [^377]: A 121. § 52. pontját az 53/2017. (XII. 22.) NFM rendelet 6. §-a iktatta be.
 [^378]: A 121. § 53. pontját a 28/2018. (XI. 15.) ITM rendelet 17. §-a iktatta be.
-[^379]: A 121. § 54. pontját a 28/2018. (XI. 15.) ITM rendelet 17. §-a iktatta be.
+[^379]: A 121. § 54. pontját a 28/2018. (XI. 15.) ITM rendelet 17. §-a iktatta be, a 27/2023. (XII. 29.) ÉKM rendelet 1. §-a hatályon kívül helyezte.
 [^380]: A 121. § 55. pontját a 28/2018. (XI. 15.) ITM rendelet 17. §-a iktatta be.
 [^381]: A 121. § 56. pontját a 28/2018. (XI. 15.) ITM rendelet 17. §-a iktatta be.
 [^382]: A 121. § 57. pontját a 36/2019. (IX. 20.) ITM rendelet 5. §-a iktatta be.
