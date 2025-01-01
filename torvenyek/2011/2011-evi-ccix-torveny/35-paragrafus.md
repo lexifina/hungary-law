@@ -2,6 +2,6 @@
 
 ## A VÍZIKÖZMŰ-SZOLGÁLTATÓ
 
-## 12. A víziközmű-szolgáltatói és a működési engedély
+## 12. Az engedély
 
-35. § Víziközmű-szolgáltatást a Hivatal által kiadott víziközmű-szolgáltatói engedély és működési engedély alapján lehet végezni.
+35. § Víziközmű-szolgáltatást a Hivatal által kiadott engedély alapján lehet végezni.

@@ -8,7 +8,11 @@
 
 3. csatlakozó hálózat: több felhasználási hely ivóvízét az ivóvíz-bekötővezeték végpontjától a házi ivóvízhálózatokba szállító vízvezeték-hálózat (csatlakozó ivóvízhálózat), vagy több felhasználási hely szennyvizét a házi szennyvízhálózatból a szennyvíz-bekötővezeték végpontjáig szállító vezeték-hálózat (csatlakozó szennyvízhálózat), amely az érintett felhasználási helyek szerinti ingatlantulajdonosok közös tulajdonát képezi,
 
+3a. egyesített rendszerű csatornahálózat: olyan csatornahálózat, amelyben a szennyvízelvezető hálózat és a vízgyűjtőterület bármely pontjáról a szenny- és csapadékvíz a közműhálózat igénybevételével kevert (szennyvíz és csapadékvíz együtt) szennyvízként kerül a település szennyvíztisztító telepére,
+
 4. ellátási terület: olyan, települési közigazgatási területtel vagy területekkel egyértelműen behatárolható terület, amelyen belül a felhasználók részére az adott víziközmű-szolgáltatást ugyanaz a víziközmű-szolgáltató végzi,
+
+4a. elválasztott rendszerű csatornahálózat: olyan csatornahálózat, amely kizárólag szennyvizet vezet el a település szennyvíztisztító telepére,
 
 5. felhasználási hely: az a víziközmű-szolgáltatásba bekapcsolt ingatlan, amelyen a víziközmű-szolgáltatást a felhasználó igénybe veszi,
 
@@ -16,7 +20,7 @@
 
 7. felhasználói egyenérték: olyan mutatószám, amely a víziközmű-szolgáltatást igénybe vevő felhasználók számosságát – víziközmű-szolgáltatási ágazatonként, a felhasználók kapacitás igényeire figyelemmel – az 1. melléklet szerinti képlet alapján egységesen fejezi ki,
 
-8. gördülő fejlesztési terv: víziközmű-rendszerre vonatkozó hosszú távú, felújítási és pótlási, valamint beruházási tervrészből álló terv,
+8. gördülő fejlesztési terv: víziközmű-rendszerekre vonatkozó hosszú távú, felújítási és beruházási tervrészekből álló terv,
 
 9. házi ivóvízhálózat: a felhasználási hely ivóvízfogyasztását biztosító – az ingatlan alkotórészét képező – vezeték, amely a vízkivételi helyig szállítja a vizet, valamint annak kiegészítő elemei (így különösen vízmérő berendezés elhelyezésére szolgáló akna és a fogyasztói csap),
 
@@ -71,6 +75,8 @@ c) átadási pontokkal egyértelműen körülhatárolt, kapcsolódó szolgáltat
 d)
 
 24. víziközmű-szolgáltatás: közszolgáltatási szerződés keretében nyújtott közműves ivóvízellátás az ahhoz kapcsolódó tűzivíz biztosítással, továbbá a közműves szennyvízelvezetés és -tisztítás, ideértve az egyesített rendszerű csapadékvíz-elvezetést is (a továbbiakban együtt: víziközmű-szolgáltatási ágazatok),
+
+24a. víziközmű-szolgáltatói működési engedély: a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) által kiadott engedély, amely kizárólagos jogot biztosít és kötelezettséget jelent az engedélyben meghatározott ellátási területen víziközmű-szolgáltatás nyújtására,
 
 25. víziközmű-szolgáltatásba bekapcsolt ingatlan: az az ingatlan vagy ingatlanrész
 

@@ -18,4 +18,4 @@ c) felmondhatja törvényben vagy az üzemeltetési szerződésében meghatároz
 
 (3a) A határozatlan vagy határozott időre kötött üzemeltetési szerződést az év végére szólóan, de legalább 4 hónapos felbontási határidővel a felek közös megegyezéssel is megszüntethetik.
 
-(4) A víziközmű-szolgáltató működési engedélyének visszavonásával az érintett ellátási területre vonatkozó üzemeltetési szerződés hatálya megszűnik.
+(4) Az engedély visszavonásával az érintett ellátási területre vonatkozó üzemeltetési szerződés hatálya megszűnik.

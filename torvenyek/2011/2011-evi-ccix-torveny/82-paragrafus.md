@@ -1,4 +1,4 @@
-82. § (1) A 2013. május 31. napja után víziközmű-szolgáltatói tevékenységet folytatni kívánó gazdasági társaság, köteles legkésőbb e határidőig a működési engedély iránti kérelmet benyújtani a Hivatalhoz.
+82. § (1) A 2013. május 31. napja után víziközmű-szolgáltatói tevékenységet folytatni kívánó gazdasági társaság, köteles legkésőbb e határidőig az engedély iránti kérelmet benyújtani a Hivatalhoz.
 
 (2) A 2012. július 15-én működő, vagy a működését ezen időpontot követően megkezdő víziközmű-szolgáltatást végző gazdálkodó szervezet az (1) bekezdés szerinti kérelem jogerős elbírálásáig jogosult e törvény szerint engedélyköteles tevékenységét az e törvényben előírtak szerint folytatni azzal, hogy rá alkalmazni kell e törvény víziközmű-szolgáltatókra vonatkozó rendelkezéseit.
 

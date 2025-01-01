@@ -1,6 +1,6 @@
 9/D. § (1) A közcélú megváltással érintett víziközmű tulajdonosát a tulajdonjoga elvonásáért teljes, azonnali és feltétlen kártalanítás illeti meg.
 
-(2) A kártalanítás összegének megállapítása során az összehasonlításra alkalmas víziközművek vagyonértékelése szerinti értékét kell figyelembe venni.
+(2) A kártalanítás összegének megállapítása során az összehasonlításra alkalmas víziközművek vagyonértékelése, vagy új beruházás esetén vagyonértékelés hiányában az elkészült beruházás üzembehelyezési dokumentációja szerinti értékét kell figyelembe venni.
 
 (3) A kisajátítási hatóság a kérelemnek helyt adó határozatában – a (14) bekezdésben meghatározott kivétellel – külön kell rendelkeznie arról, hogy a közcélú megváltással érintett víziközműért, továbbá a közcélú megváltással kapcsolatos értékveszteségért és költségekért milyen összegű kártalanítást állapít meg.
 

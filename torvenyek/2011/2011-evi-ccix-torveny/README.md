@@ -53,3 +53,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-209-00-00
 | 2023-09-01 | 2023. évi XXIX. törvény | 2011-209-00-00.47 |
 | 2024-01-01 | 2023. évi LXXVII. törvény | 2011-209-00-00.48 |
 | 2024-11-15 | 2024. évi LII. törvény | 2011-209-00-00.49 |
+| 2025-01-01 | 2024. évi LII. törvény | 2011-209-00-00.50 |

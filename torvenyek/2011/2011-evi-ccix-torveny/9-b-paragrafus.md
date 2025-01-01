@@ -28,7 +28,7 @@ b) a közcélú megváltást kérő nyilatkozatát arról, hogy a kártalanítá
 
 c) a közcélú megváltással érintett víziközmű műszaki, ingatlan-nyilvántartási adatait, helyszínrajzát;
 
-d) a víziközmű-szolgáltató működési engedélyét, melyhez a közcélú megváltással érintett víziközmű csatlakozik;
+d) a víziközmű-szolgáltató működési engedélyét (a továbbiakban: engedély), melyhez a közcélú megváltással érintett víziközmű csatlakozik;
 
 e) a víziközmű-szolgáltatási ágazat megnevezését (közműves ivóvízellátás, közműves szennyvízelvezetés);
 

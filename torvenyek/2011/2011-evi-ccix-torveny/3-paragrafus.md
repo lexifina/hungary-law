@@ -4,7 +4,7 @@
 
 ## 2/a. A Magyar Energetikai és Közmű-szabályozási Hivatalra vonatkozó szabályok
 
-3. § (1) A víziközmű-szolgáltatással összefüggő közigazgatási hatósági ügyekben, illetve hatósági ellenőrzésekben – az e törvényben meghatározott kivételekkel – a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) jár el.
+3. § (1) A víziközmű-szolgáltatással összefüggő közigazgatási hatósági ügyekben, illetve hatósági ellenőrzésekben – az e törvényben meghatározott kivételekkel – a Hivatal jár el.
 
 (2) A Hivatal eljárására az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) szabályait az e törvényben meghatározott eltérésekkel és kiegészítésekkel kell alkalmazni.
 
@@ -14,17 +14,21 @@
 
 a) 5/A. § (3) bekezdése, valamint a 11. § (2) bekezdése szerinti eljárásában 135 nap,
 
-b) 5/F. § (6) bekezdése és a 16. § (3) bekezdése szerinti eljárásában 21 nap,
+b) 5/F. § (6) bekezdése szerinti eljárásában 21 nap,
 
-c) 31/B. § szerinti eljárásában 30 nap,
+c) 16. § (3) bekezdése szerinti eljárásában 30 nap,
 
 d) 36. § szerinti eljárásában – az (5) bekezdés a) pontjában meghatározott kivétellel – 135 nap.
+
+e) 31/B. § szerinti eljárásában 45 nap,
+
+f) 37. § szerinti eljárásában 90 nap.
 
 (5) Az ügyintézési határidő a Hivatal
 
 a) 36. § szerinti eljárásában 75 nap,
 
-b) 37. § szerinti eljárásában 60 nap,
+b)
 
 c) 37/A. § szerinti eljárásában 45 nap,
 

@@ -10,7 +10,7 @@
 
 (6) Az (5) bekezdésben meghatározott követelményeknek való megfelelést tanúsító szervezet által történő, a számlázási informatikai rendszerre vonatkozó tanúsítással kell igazolni. A számlázási rendszerre vonatkozó követelmények teljesülése kizárólag informatikai biztonsági funkciókat megvalósító szoftvertermékek és -rendszerek elfogadott hazai vagy nemzetközi informatikai biztonsági módszertanon alapuló tanúsítására akkreditált tanúsító szervezet által kiállított tanúsítvánnyal igazolható. A tanúsítvány a kiadását követő második naptári év utolsó napjáig érvényes.
 
-(8) A víziközmű-szolgáltatás díjának elszámolása alapjául szolgáló számlázási rendszer információbiztonsági megfeleltetéséről a víziközmű-szolgáltató az állami és önkormányzati szervek elektronikus információbiztonságáról szóló törvénynek megfelelően és módon köteles gondoskodni.
+(8) A víziközmű-szolgáltatás díjának elszámolása alapjául szolgáló számlázási rendszer információbiztonsági megfeleltetéséről a víziközmű-szolgáltató a Magyarország kiberbiztonságáról szóló törvénynek megfelelően és módon köteles gondoskodni.
 
 (9) A logikai védelmi intézkedések teljesítésének vizsgálata során a számlázási rendszer vizsgálatának a számlázó szoftveren túl a teljes, a számlázásban részt vevő rendszer technológiai vizsgálata szükséges, beleértve a számlázási folyamathoz szükséges összes releváns bemeneti adatot (pl. mérési, fogyasztási adatok) kezelő rendszerelemet. A vizsgálatnak ki kell terjednie a rendszerben alkalmazott számlázó szoftvertermék konkrét beállításainak, telepítésének és üzemeltetésének ellenőrzésére is.
 

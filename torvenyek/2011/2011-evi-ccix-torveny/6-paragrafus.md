@@ -2,7 +2,7 @@
 
 6. § (1) Víziközmű kizárólag az állam vagy települési önkormányzat tulajdonában állhat.
 
-(2) Ha a víziközmű idegen ingatlanon fekszik, a vízgazdálkodásról szóló törvényben meghatározott vízvezetési szolgalmi jog gyakorlása – a víziközmű üzemeltetési tevékenységéhez indokolt mértékben – a víziközmű-szolgáltatót megilleti. A víziközmű-szolgáltató viselni köteles a joggyakorlás következtében felmerülő terheket.
+(2) Ha a víziközmű idegen ingatlanon fekszik, a vízgazdálkodásról szóló törvényben meghatározott vízvezetési szolgalmi jog jogosultja az ellátásért felelős. A vízvezetési szolgalmi jog gyakorlása – a víziközmű üzemeltetési tevékenységéhez indokolt mértékben – a víziközmű-szolgáltatót illeti meg. A víziközmű-szolgáltató viselni köteles a joggyakorlás következtében felmerülő terheket.
 
 (3) Az állami tulajdonú víziközmű, valamint az 5/H. § alapján az állam tulajdonába kerülő víziközmű működtető eszközök és rendszerfüggetlen víziközmű-elemek felett az államot megillető tulajdonosi jogok és kötelezettségek összességét a Nemzeti Vízművek Zártkörűen Működő Részvénytársaság gyakorolja. Az államra mint ellátásért felelősre történő tulajdonjog-átruházás esetén az állam képviseletében a Nemzeti Vízművek Zártkörűen Működő Részvénytársaság jár el.
 

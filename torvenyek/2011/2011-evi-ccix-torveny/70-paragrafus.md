@@ -4,6 +4,6 @@
 
 (3) A víziközmű-fejlesztési hozzájárulás összegét a közműves ivóvízellátás, valamint a közműves szennyvízelvezetés és -tisztítás tekintetében külön-külön, tételesen kell megállapítani. A víziközmű-fejlesztési hozzájárulás a kiszámítására vonatkozó módszer előírásával is megállapítható.
 
-(4) A nem lakossági felhasználó és a víziközmű-szolgáltatásba bekapcsolódni kívánó személy a Hivatal által megállapított víziközmű-fejlesztési hozzájárulást fizet.
+(4) A nem lakossági felhasználó a Hivatal által megállapított víziközmű-fejlesztési hozzájárulást fizet.
 
 (5) A víziközmű-fejlesztési hozzájárulás tekintetében a 66. §-ban foglalt rendelkezéseket kell alkalmazni azzal, hogy közszolgáltatási szerződés alatt a 69. § (1) bekezdése szerinti szerződést, hatósági díj alatt víziközmű-fejlesztési hozzájárulást kell érteni.

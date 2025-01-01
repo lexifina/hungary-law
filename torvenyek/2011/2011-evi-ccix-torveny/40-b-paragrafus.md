@@ -8,9 +8,11 @@ ab) megszegi az e törvényben vagy a felhatalmazása alapján kiadott jogszabá
 
 ac) közös ellátásért felelősséggel érintett víziközmű-rendszer esetén az 5/G. § (1) bekezdése szerinti írásbeli megállapodásnak az érintett ellátásért felelősökkel történő megkötését akadályozza vagy elmulasztja;
 
+ad) nem tesz eleget a Hivatal közérdekű üzemeltetőt kijelölő határozatában foglalt kötelezettségeinek,
+
 b) a víziközmű-szolgáltató
 
-ba) a víziközmű-szolgáltatási vagy a víziközmű-üzemeltetési tevékenységét a Hivatal által kiadott véglegessé vált víziközmű-szolgáltatói vagy működési engedély nélkül folytatja, ide nem értve a 31/A. § (1) bekezdésében szabályozott ideiglenes szolgáltatást,
+ba) a víziközmű-szolgáltatási vagy a víziközmű-üzemeltetési tevékenységét a Hivatal által kiadott véglegessé vált engedély nélkül folytatja, ide nem értve a 31/A. § (1) bekezdésében szabályozott ideiglenes szolgáltatást,
 
 bb) a kiszervezésre vonatkozó jogszabályi vagy a Hivatal határozatában foglalt előírást megsérti,
 
@@ -34,9 +36,9 @@ c) az ellátásért felelős vagy a víziközmű-szolgáltató
 
 ca) a 11. § (2) bekezdésében meghatározott határidőt elmulasztotta,
 
-cb) a Hivatal által jóváhagyott felújítási és pótlási tervrészben, vagy a beruházási tervrészben foglalt feladatokat nem vagy csak részben hajtja végre,
+cb) a Hivatal által jóváhagyott gördülő fejlesztési tervben foglalt feladatokat nem, vagy csak részben hajtotta végre, és a tervtől való eltérést a víziközmű-szolgáltató a tárgyévet követő év június 30. napjáig benyújtott – az e törvény végrehajtására kiadott kormányrendelet szerinti – jelentésében nem tüntette fel,
 
-cc) Hivatal által jóváhagyott felújítási és pótlási tervrész, vagy a beruházási tervrész maradéktalan végrehajtását megelőzően a gördülő fejlesztési tervben nem szereplő felújítási és pótlási, valamint beruházási tevékenységet végez,
+cc) elmulasztotta a gördülő fejlesztési terv megvalósulásáról szóló – az e törvény végrehajtására kiadott kormányrendelet szerinti – jelentés Hivatal részére való megküldését,
 
 cd) a Hivatal részére rosszhiszeműen, valótlan adatot közölt,
 

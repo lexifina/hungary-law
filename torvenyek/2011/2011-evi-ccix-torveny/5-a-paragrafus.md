@@ -4,7 +4,7 @@
 
 (2) A víziközmű-szolgáltató felügyeletét a Hivatal átfogó ellenőrzéssel, célellenőrzéssel, témaellenőrzéssel és utóellenőrzéssel valósítja meg. A Hivatal az ellátásért felelős tekintetében célellenőrzést, témaellenőrzést és utóellenőrzést tart.
 
-(3) Az átfogó ellenőrzés a víziközmű-szolgáltatók működésének legalább hároméves ciklusonként megvalósuló komplex, minden működési területre kiterjedő törvényességi, szakszerűségi és hatékonysági ellenőrzése.
+(3) Az átfogó ellenőrzés a víziközmű-szolgáltatók működésének legalább ötéves ciklusonként megvalósuló komplex, minden működési területre kiterjedő törvényességi, szakszerűségi és hatékonysági ellenőrzése.
 
 (4) A célellenőrzés egy meghatározott célterület vagy feladat ellátásának vizsgálata a víziközmű-szolgáltatónál vagy az ellátásért felelősnél.
 

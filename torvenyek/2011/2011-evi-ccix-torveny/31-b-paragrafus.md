@@ -8,6 +8,8 @@
 
 (3) A szerződött víziközmű-szolgáltató a Hivatal által meghatározott átmeneti díjról szóló határozat kézhezvételét követően a soron következő számlában, a 31/A. § (4) bekezdése szerinti kérelem benyújtásának napjára visszamenőleges hatállyal, a 74. § (2) bekezdés 3. pontjában foglalt felhatalmazás alapján megalkotott miniszteri rendeletnek az ideiglenes szolgáltatási tevékenységgel érintett ellátási területre és felhasználói körre kiterjedő víziközmű-szolgáltatási díjat megállapító rendelkezéseinek hatályba lépéséig érvényesítheti díjigényét az ideiglenes szolgáltatással érintett víziközmű-rendszerre csatlakozott felhasználóval szemben.
 
+(3a) Az ideiglenes szolgáltatással érintett víziközmű-rendszerre csatlakozott, és a 74. § (2) bekezdés 3. pontjában foglalt felhatalmazás alapján megalkotott miniszteri rendelet hatálya alá tartozó nem lakossági felhasználóval szemben a víziközmű-szolgáltató a 31/A. § (4) bekezdése szerinti kérelem benyújtásának napjától érvényesítheti díjigényét.
+
 (4) A Hivatal az átmeneti díjat megállapító határozatot megküldi az ellátásért felelős részére, valamint a miniszternek.
 
 (5) Az átmeneti díjat megállapító határozat hatályát veszti, ha

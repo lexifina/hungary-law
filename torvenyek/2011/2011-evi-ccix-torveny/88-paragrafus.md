@@ -11,3 +11,5 @@
 (EU) 2020/2184 európai parlamenti és tanácsi irányelv 4. cikk (3) bekezdésének való megfelelést szolgálja.
 
 (4) E törvény 45. § (6) bekezdése a víz újrafelhasználásra vonatkozó minimumkövetelményekről szóló, 2020. május 25-i (EU) 2020/741 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+(5) Az 58. § (2) bekezdés c) pontja a kritikus szervezetek rezilienciájáról és a 2008/114/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2022. december 14-i (EU) 2022/2557 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.

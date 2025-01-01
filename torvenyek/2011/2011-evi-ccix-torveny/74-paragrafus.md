@@ -12,7 +12,7 @@
 
 3. az üzemeltetési szerződés megkötésére irányuló pályázat kiírásának feltételeit, a pályázati kiírás közzétételének szabályait és minimális tartalmi követelményeit, valamint a pályázati eljárás szabályait;
 
-4. a víziközmű-szolgáltatói engedély kérelem, az üzemeltetési szerződések és a működési engedély kérelem kötelező tartalmi elemeit, benyújtásuk formai követelményeit;
+4. az engedély iránti kérelem, valamint az üzemeltetési szerződés és annak jóváhagyása iránti kérelem kötelező tartalmi elemeit, benyújtásuk formai követelményeit;
 
 5. a közérdekű üzemeltető kijelölésére, jogaira és kötelezettségeire vonatkozó részletes szabályokat, valamint a víziközmű-szolgáltatás biztosításához szükséges szerződésekre vonatkozó részletes rendelkezéseket;
 
@@ -84,7 +84,7 @@ rendeletben állapítsa meg.
 
 9. állapítsa meg a Hivatal miniszter részére történő adatszolgáltatási és javaslattételi kötelezettségének rendjére, módjára, tartalmára, formájára és időpontjára vonatkozó részletes szabályokat;
 
-10. állapítsa meg a víziközmű-szolgáltató által a felhasználók igénye alapján külön díj ellenében végzendő szolgáltatások körét és annak díjait, a felhasználók számára külön díj felszámítása nélkül biztosítandó szolgáltatások legszűkebb körét, a felhasználó szerződésszegése esetén külön díj ellenében végezhető szolgáltatások körét és azok díjait.
+10. állapítsa meg a víziközmű-szolgáltató által a felhasználók igénye alapján külön díj ellenében végzendő szolgáltatások körét és annak díjait.
 
 (2a) Felhatalmazást kap az iparügyekért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben rendeletben szabályozza a műszaki biztonsági hatóság részére a kérelemre indult eljárásért fizetendő igazgatási szolgáltatási díj mértékét – ide nem értve az 55/K. § (3) bekezdés szerinti díj mértékét –, és a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat.
 

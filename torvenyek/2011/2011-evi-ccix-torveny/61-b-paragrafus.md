@@ -14,17 +14,17 @@ d) a víziközmű-rendszer tulajdonosainak nevét és tulajdoni részesedését,
 
 e) a víziközmű-rendszer működésében érintett ellátásért felelős(ök) nevét, ha a működésben több ellátásért felelős is érdekelt, azt is, hogy a képviseletüket ki látja el,
 
-f) a működési engedély számát és az engedélyes víziközmű-szolgáltató nevét,
+f) az engedély számát és az engedélyes víziközmű-szolgáltató nevét,
 
 g) a víziközmű rendszer térképi nyilvántartási adatait.
 
-h) az ellátási területet, és
+h) az ellátott területet, és
 
-i) a működési engedély időbeli hatályát.
+i) az engedély időbeli hatályát.
 
 (4) Az ellátásért felelősök nyilvántartása az egyes ellátásért felelősökre nézve tartalmazza:
 
-a) a tulajdonába tartozó víziközmű-rendszerek megnevezését, amelyekre a Hivatal működési engedélyt adott,
+a) a tulajdonába tartozó víziközmű-rendszerek megnevezését, amelyekre a Hivatal engedélyt adott,
 
 b) a víziközmű-rendszerek Hivatal által képzett azonosító kódjait.
 
@@ -32,7 +32,7 @@ b) a víziközmű-rendszerek Hivatal által képzett azonosító kódjait.
 
 a) a víziközmű-szolgáltató tulajdonosi szerkezetét (ideértve különösen a tulajdonosok nevét és tulajdoni részesedését),
 
-b) a víziközmű-szolgáltatói, valamint a működési engedély kiadásáról rendelkező határozat számát,
+b) az engedély kiadásáról rendelkező határozat számát,
 
 c) a működtetett víziközmű-rendszerek Hivatal által képzett azonosító kódjait és az ezekre vonatkozó üzemeltetési jogviszony (ide értve a közérdekű üzemeltetői jogviszonyt is) típusát.
 

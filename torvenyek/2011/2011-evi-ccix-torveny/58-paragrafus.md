@@ -10,9 +10,17 @@ d) előrefizetős mérőt helyezhet el, ha ebben és a fennálló tartozások me
 
 e) nem lakossági felhasználó esetében a közüzemi ivóvíz-szolgáltatást felfüggesztheti, illetve 45 napon túli díjtartozás esetében 30 napos határidővel a közszolgáltatási szerződést felmondhatja.
 
-(2) Az (1) bekezdés nem alkalmazható egészségügyi és gyermekintézmények esetében, továbbá lakossági felhasználó részére végzett közműves szennyvízelvezetés és
+(2) Az (1) bekezdés nem alkalmazható
 
--tisztítás esetében.
+a) egészségügyi, valamint köznevelési, gyermekjóléti és gyermekvédelmi szolgáltató, intézmény,
+
+b) lakossági felhasználó részére végzett közműves szennyvízelvezetés és -tisztítás,
+
+c) a kritikus szervezetek ellenálló képességéről szóló törvény alapján kijelölt kritikus szervezetek, kritikus infrastruktúrák, valamint
+
+d) a védelmi és biztonsági tevékenységek összehangolásáról szóló törvény szerinti, az ország védelme és biztonsága szempontjából jelentős szervezetek, az ország védelme és biztonsága szempontjából jelentős infrastruktúrák
+
+esetében.
 
 (2a) Létfenntartási és a közegészségügyi vízigények teljesítését az illetékes népegészségügyi szerv ellenőrizheti és szükség szerint intézkedik a víziközmű-szolgáltatóval szemben.
 
