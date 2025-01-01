@@ -1,0 +1,3 @@
+## 7/A. Mezőgazdasági termékek nagykereskedelmi tevékenységének szabályozása
+
+13/A. § Mezőgazdasági termékek nagykereskedelmét vagy feldolgozását végző vállalkozásnak nem lehet tulajdonosa vagy vezető tisztségviselője az a személy, aki korábban tulajdonosa vagy vezető tisztségviselője volt olyan vállalkozásnak, amely az annak végelszámolására vagy felszámolására irányuló eljárás megkezdésekor a vállalkozás vagyonát meghaladóan rendelkezett a mezőgazdasági termékek nagykereskedelmi tevékenység keretében vásárolt termékek tekintetében fennálló szállítói kötelezettségekkel, és akinek felelősségét e jogellenes cselekmény megvalósításában az arra hatáskörrel rendelkező szerv megállapította.
