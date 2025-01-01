@@ -20,13 +20,13 @@ CDi: Kártalanítási kötelezettség
 
 2. Az összesített kockázati pontszám meghatározásának képlete:
 
-Ahol:
+## Ahol:
 
-ARS: Összesített kockázati pontszám
+## ARS: Összesített kockázati pontszám
 
-IW: Mutató súlya a modellben
+## IW: Mutató súlya a modellben
 
-IRS: Kockázati pont
+## IRS: Kockázati pont
 
 3. A korrekciós együttható meghatározásának képlete:
 

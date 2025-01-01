@@ -18,9 +18,9 @@ a) a (2) bekezdés a) pontja tekintetében a tőkeáttételi mutatót, valamint 
 
 b) a (2) bekezdés b) pontja tekintetében a likviditásfedezeti rátát és a nettó stabil forrásellátottsági rátát,
 
-c) a (2) bekezdés c) pontja tekintetében a nem teljesítő hitelek arányát,
+c)[^4] a (2) bekezdés c) pontja tekintetében a nem teljesítő hitelek arányát és az értékvesztés fedezettségét,
 
-d) a (2) bekezdés d) pontja tekintetében a kockázattal súlyozott eszközök és a mérlegfőösszeg arányát és az eszközarányos jövedelmezőséget,
+d)[^5] a (2) bekezdés d) pontja tekintetében a kockázattal súlyozott eszközök és a mérlegfőösszeg arányát és az eszközarányos jövedelmezőséget, az adott tagintézet által előállításra kerülő, az OBA által biztosított betétek, valamint a betétesek adatait tartalmazó adatállomány (KBB adatállomány) minőségét és az éves OBA tagintézeti adatszolgáltatás minőségét, továbbá a vállalati zöld hitelek arányát,
 
 e) a (2) bekezdés e) pontja tekintetében a meg nem terhelt eszközök és az OBA által biztosított, a kártalanítási összeghatár alatti betétek állományának arányát.
 
@@ -31,3 +31,6 @@ e) a (2) bekezdés e) pontja tekintetében a meg nem terhelt eszközök és az O
 (6) A (3) bekezdés szerinti alapvető kockázati mutatók mellett a tagintézetek kockázati profiljának meghatározása szempontjából releváns kiegészítő kockázati mutatók is bevonhatók, amelyeket a (2) bekezdés a)–e) pontja szerinti kategóriákba kell besorolni.
 
 (7) A számítási módszerben az egyes kockázati mutatókhoz rendelt súlyok összegének 100 százaléknak kell lennie. A kiegészítő mutatók összesített súlya nem haladhatja meg a 25 százalékot.
+
+[^4]: A 4. § (3) bekezdés c) pontja a 66/2024. (XII. 18.) MNB rendelet 2. §-ával megállapított szöveg.
+[^5]: A 4. § (3) bekezdés d) pontja a 66/2024. (XII. 18.) MNB rendelet 2. §-ával megállapított szöveg.
