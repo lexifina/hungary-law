@@ -120,7 +120,7 @@
 
 | 60. | Balatonfüredi Törvénykezési Hely elhelyezésének megvalósítása | Balatonfüred belterület 1552/1 helyrajzi számú ingatlan | Veszprém Vármegyei Kormányhivatalt vezető főispán |
 
-| 61. | Fiatalokért Központ kialakítása és kapcsolódó közmű- és útfejlesztési infrastrukturális fejlesztések, valamint Sukoró Község külterület Velencei-tóval érintett parti területeinek integrált fejlesztése | Sukoró külterület 018/1, 019/1, 019/3, 019/13, 021/13, 021/15, 022/2, 022/3, 022/4, 022/5, 022/7, 022/8, 022/10, 022/11, 022/13, 022/14, 024/5, 026/1, 026/2, 026/3, 026/4, 026/5, 029/2, 030/5, 030/6, 030/28, 030/29, 030/30, 032/5, 038/5, 039, 044 és 045 helyrajzi számú ingatlanok | Fejér Vármegyei Kormányhivatalt vezető főispán |
+| 61. | Fiatalokért Központ kialakítása és kapcsolódó közmű- és útfejlesztési infrastrukturális fejlesztések, valamint Sukoró Község külterület Velencei-tóval érintett parti területeinek integrált fejlesztése | Sukoró külterület 018/1, 019/1, 019/3, 019/13, 021/5, 021/13, 021/15, 022/2, 022/3, 022/4, 022/5, 022/7, 022/8, 022/9, 022/10, 022/11, 022/13, 022/14, 023, 024/5, 026/1, 026/2, 026/3, 026/4, 026/5, 029/2, 030/5, 030/6, 030/28, 030/29, 030/30, 032/5, 038/5, 039, 044 és 045 helyrajzi számú ingatlanok | Fejér Vármegyei Kormányhivatalt vezető főispán |
 
 | 62. | A Budapesti Honvéd Sportegyesület létesítményfejlesztési programja („Honvéd Város Fejlesztési Program”) keretében a) meglévő sportlétesítmények és kiszolgáló épületek felújítása és korszerűsítése, b) új sportlétesítmények és sportinfrastruktúra létesítése, sporthotel és kollégium, sportóvoda, kapcsolódó kiszolgáló létesítmények építése, c) a telephelyek infrastruktúrájának fejlesztése. | Budapest XIII. kerület, belterület 27913/1, 27950/6 és 27999 helyrajzi számú ingatlanok Budapest III. kerület, belterület 23796/29 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető főispán |
 
@@ -204,6 +204,6 @@
 
 | 102. | Új, négy csoportszobás bölcsőde kialakítása Göd Város területén | Göd külterület 017, 018/52, 018/53, 018/55, 018/57, 019 és belterület 9321, 5722 helyrajzi számú ingatlanok | Pest Vármegyei Kormányhivatalt vezető főispán |
 
-3. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^220]
+3. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^223]
 
-[^220]: A 3. melléklet a 383/2021. (VI. 30.) Korm. rendelet 3. § b) pontja, a 411/2021. (VII. 12.) Korm. rendelet 8. § b) pontja, az 566/2021. (X. 4.) Korm. rendelet 2. § b) pontja, az 591/2021. (X. 20.) Korm. rendelet 2. § b) pontja, a 622/2021. (XI. 9.) Korm. rendelet 3. § b) pontja, a 779/2021. (XII. 23.) Korm. rendelet 3. § b) pontja, a 145/2022. (IV. 7.) Korm. rendelet 6. § b) pontja, a 301/2022. (VIII. 9.) Korm. rendelet 3. § c) pontja, a 373/2023. (VIII. 7.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^223]: A 3. melléklet a 383/2021. (VI. 30.) Korm. rendelet 3. § b) pontja, a 411/2021. (VII. 12.) Korm. rendelet 8. § b) pontja, az 566/2021. (X. 4.) Korm. rendelet 2. § b) pontja, az 591/2021. (X. 20.) Korm. rendelet 2. § b) pontja, a 622/2021. (XI. 9.) Korm. rendelet 3. § b) pontja, a 779/2021. (XII. 23.) Korm. rendelet 3. § b) pontja, a 145/2022. (IV. 7.) Korm. rendelet 6. § b) pontja, a 301/2022. (VIII. 9.) Korm. rendelet 3. § c) pontja, a 373/2023. (VIII. 7.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.

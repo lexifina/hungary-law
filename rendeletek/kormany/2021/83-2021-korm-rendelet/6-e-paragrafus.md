@@ -1,4 +1,4 @@
-6/E. §[^30] (1) A 2. mellékletben foglalt táblázat 64. sora szerinti beruházással érintett ingatlanon hitéleti, oktatási célú épületek és azok kiszolgáló építményei helyezhetők el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával:
+6/E. §[^31] (1) A 2. mellékletben foglalt táblázat 64. sora szerinti beruházással érintett ingatlanon hitéleti, oktatási célú épületek és azok kiszolgáló építményei helyezhetők el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával:
 
 a) a hatályos településrendezési terv és az OTÉK előírásait a (2) bekezdésben foglalt eltérésekkel kell alkalmazni, és
 
@@ -22,4 +22,4 @@ g) az előkert legkisebb mélysége 5 méter, az oldalkert legkisebb szélesség
 
 h) az épületmagasság megengedett legnagyobb mértéke 12 méter.
 
-[^30]: A 6/E. §-t a 779/2021. (XII. 23.) Korm. rendelet 1. §-a iktatta be.
+[^31]: A 6/E. §-t a 779/2021. (XII. 23.) Korm. rendelet 1. §-a iktatta be.

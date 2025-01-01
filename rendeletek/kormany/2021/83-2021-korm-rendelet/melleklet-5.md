@@ -208,7 +208,7 @@
 
 | 104 | 654 631,095 | 239 483,919 |
 
-5. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^222]
+5. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^225]
 
 ## A 2. mellékletben foglalt táblázat 94. sora szerinti beruházással érintett Szántód 1176/1 és
 
@@ -336,4 +336,4 @@
 
 | 12 | 562491.3149 | 171342.4480 |
 
-[^222]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 220/2023. (VI. 1.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^225]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 220/2023. (VI. 1.) Korm. rendelet 4. § (2) bekezdése iktatta be.

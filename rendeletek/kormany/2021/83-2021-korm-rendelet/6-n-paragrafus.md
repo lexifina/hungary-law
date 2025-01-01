@@ -1,4 +1,4 @@
-6/N. §[^41] (1) A 2. mellékletben foglalt táblázat 81. sora szerinti beruházással érintett ingatlanon hitéleti, oktatási célú épületek és azok kiszolgáló építményei helyezhetőek el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával, azzal, hogy
+6/N. §[^42] (1) A 2. mellékletben foglalt táblázat 81. sora szerinti beruházással érintett ingatlanon hitéleti, oktatási célú épületek és azok kiszolgáló építményei helyezhetőek el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával, azzal, hogy
 
 a) a hatályos településrendezési terv és az OTÉK előírásait a (2) bekezdésben foglalt eltérésekkel kell alkalmazni, és
 
@@ -14,4 +14,4 @@ c) a zöldfelület e rendelkezés hatálybalépésekor fennálló mértéke a be
 
 d) a beruházással összefüggésben összesen 22 darab új személygépkocsi-parkolóhelyet kell biztosítani.
 
-[^41]: A 6/N. §-t a 145/2022. (IV. 7.) Korm. rendelet 2. §-a iktatta be.
+[^42]: A 6/N. §-t a 145/2022. (IV. 7.) Korm. rendelet 2. §-a iktatta be.

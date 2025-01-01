@@ -1,4 +1,4 @@
-6/I. §[^36] (1) A 2. mellékletben foglalt táblázat 69. sora szerinti beruházással érintett ingatlanra a beépítés egyedi szabályait a (2) és (3) bekezdés állapítja meg, azzal, hogy
+6/I. §[^37] (1) A 2. mellékletben foglalt táblázat 69. sora szerinti beruházással érintett ingatlanra a beépítés egyedi szabályait a (2) és (3) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési terv és az OTÉK előírásait a (2) és (3) bekezdésben foglalt eltérésekkel kell alkalmazni, és
 
@@ -18,4 +18,4 @@ a) a telken belül elhelyezendő parkolóhelyek száma legfeljebb 23 darab,
 
 b) autóbusz-várakozóhelyet nem kell biztosítani.
 
-[^36]: A 6/I. §-t a 45/2022. (II. 16.) Korm. rendelet 1. §-a iktatta be.
+[^37]: A 6/I. §-t a 45/2022. (II. 16.) Korm. rendelet 1. §-a iktatta be.

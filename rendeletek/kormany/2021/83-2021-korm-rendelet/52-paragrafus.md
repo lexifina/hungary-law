@@ -1,4 +1,4 @@
-## 51. §[^165] E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet módosításáról szóló 32/2022. (II. 4.) Korm. rendelettel (a továbbiakban: Módr43.) megállapított 6/H. §-át és módosított 7/F. §-át a Módr43. hatálybalépésekor[^166] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 51. §[^166] E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet módosításáról szóló 32/2022. (II. 4.) Korm. rendelettel (a továbbiakban: Módr43.) megállapított 6/H. §-át és módosított 7/F. §-át a Módr43. hatálybalépésekor[^167] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^165]: Az 51. §-t a 32/2022. (II. 4.) Korm. rendelet 2. §-a iktatta be.
-[^166]: A hatálybalépés időpontja 2022. február 5.
+[^166]: Az 51. §-t a 32/2022. (II. 4.) Korm. rendelet 2. §-a iktatta be.
+[^167]: A hatálybalépés időpontja 2022. február 5.
