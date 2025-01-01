@@ -1,1 +1,3 @@
-### 132. §
+132. § A hitelbiztosítéki nyilvántartásról szóló 2013. évi CCXXI. törvény 7. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A regisztrált felhasználó hitelbiztosítéki nyilatkozatát annak megtételekor minősített elektronikus aláírással és időbélyegzővel látja el. Elektronikus aláírás alkalmazására kizárólag olyan aláírás-létrehozó adat használható, amely olyan tulajdonosi azonosítókhoz kötött, amiket a 4. § (2) bekezdése szerinti adatokat tartalmazó kérelem aláírása során használtak, feltéve, hogy az űrlapon így elhelyezett elektronikus aláírás tulajdonosi azonosítói a regisztrált felhasználó hitelbiztosítéki rendszerben rögzített adataival a 4. § (4) bekezdése szerint összerendelésre kerültek.”
