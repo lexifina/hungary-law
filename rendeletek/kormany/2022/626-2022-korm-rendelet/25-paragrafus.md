@@ -20,7 +20,7 @@ c) az értékesített termék, nyújtott szolgáltatás megnevezését, mennyis�
 
 d) a fizetendő összeg mértékét és pénznemét.
 
-e)[^16] a bizonylat sorszámát vagy egyéb más azonosítóját, amely a bizonylatot kétséget kizáróan azonosítja.
+e)[^17] a bizonylat sorszámát vagy egyéb más azonosítóját, amely a bizonylatot kétséget kizáróan azonosítja.
 
 (7) Az önbizonylaton
 
@@ -40,4 +40,4 @@ g) a pénztárellenőr aláírását
 
 kell feltüntetni.
 
-[^16]: A 25. § (6) bekezdés e) pontját a 444/2024. (XII. 23.) Korm. rendelet 5. §-a iktatta be.
+[^17]: A 25. § (6) bekezdés e) pontját a 444/2024. (XII. 23.) Korm. rendelet 5. §-a iktatta be.

@@ -1,4 +1,4 @@
-6. § (1)[^3] A külképviselet a kihelyező szerv által jóváhagyott és biztosított előirányzati kerettel – az e rendeletben foglalt szabályok figyelembevételével, ha nem része gazdasági régiónak – önállóan gazdálkodik. A külképviselet gazdálkodása az előirányzati kerete tervezése és felhasználása, az ellenőrzés, a finanszírozás, az adatszolgáltatás és a beszámolás, illetve a külképviselet működtetése tekintetében kiterjed mindarra, amit jogszabály nem utal a kihelyező szerv hatáskörébe.
+6. § (1)[^4] A külképviselet a kihelyező szerv által jóváhagyott és biztosított előirányzati kerettel – az e rendeletben foglalt szabályok figyelembevételével, ha nem része gazdasági régiónak – önállóan gazdálkodik. A külképviselet gazdálkodása az előirányzati kerete tervezése és felhasználása, az ellenőrzés, a finanszírozás, az adatszolgáltatás és a beszámolás, illetve a külképviselet működtetése tekintetében kiterjed mindarra, amit jogszabály nem utal a kihelyező szerv hatáskörébe.
 
 (2) A külképviselet javaslatának kikérésével a kihelyező szerv látja el
 
@@ -18,4 +18,4 @@ d) a külképviseletekre irányadó egységes számviteli politika meghatározá
 
 (6) A külképviselet (4) bekezdésben meghatározott utasításában a gazdálkodási jogköröket gyakorló személyekről és aláírásmintájukról – elektronikus aláírás alkalmazása esetén a használt tanúsítványokról és az elektronikus aláíráshoz kapcsolódó tanúsítvány nyilvános adatairól – naprakész nyilvántartást vezet.
 
-[^3]: A 6. § (1) bekezdése az 536/2023. (XII. 5.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^4]: A 6. § (1) bekezdése az 536/2023. (XII. 5.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
