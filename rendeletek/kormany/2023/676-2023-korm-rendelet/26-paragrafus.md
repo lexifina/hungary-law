@@ -22,10 +22,12 @@ d) az érintett energiaügynökségek vagy hasonló szervek elérhetőségi adat
 
 e) a fogyasztók részére az átlagos energiafogyasztással történő összehasonlítást vagy az összehasonlítási lehetőség elérhetőségét,
 
-f) az alkalmazott energiahordozó összetételére, valamint olyan távfűtési rendszerek esetében amelyek teljes névleges bemenő hőteljesítménye meghaladja a 20 MW-ot, a kapcsolódó éves üvegházhatásúgáz-kibocsátásra vonatkozó információkat,
+f)[^2] az alkalmazott energiahordozó összetételére vonatkozó információkat,
 
 g) az alkalmazott különböző adók, illetékek és tarifák ismertetését és
 
 h) a fogyasztói panaszok intézésével kapcsolatos információkat.
 
 (4) A (3) bekezdés szerinti információk interneten is elérhetővé tehetők, a számlán történő hivatkozás révén.
+
+[^2]: A 26. § (3) bekezdés f) pontja a 471/2024. (XII. 30.) Korm. rendelet 18. §-ával megállapított szöveg.

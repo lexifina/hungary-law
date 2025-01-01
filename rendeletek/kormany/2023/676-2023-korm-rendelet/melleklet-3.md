@@ -22,7 +22,7 @@ A korrekciós tényezők
 
 | 9. | 3. Sarokhelyiségek korrekciói: |  |
 
-| 10. | 3.1. minden olyan helyiség, amely legalább két külső határoló felülettel (lehűlő falfelülettel) rendelkezik | –10 |
+| 10. | 3.1. minden olyan helyiség, amely legalább két külső határoló felülettel (lehűlő falfelülettel) rendelkezik[^6] | –10 |
 
 | 11. | 4. Égtáj szerinti korrekció: |  |
 
@@ -41,3 +41,5 @@ A korrekciós tényezők
 ** A földszinti korrekciók nem alkalmazhatók azoknál a függőleges, alsó elosztású fűtési rendszerű épületek helyiségeinél, amelyek légterében hőszigetelés nélküli vízszintes elosztóvezeték halad át.
 
 *** A legfelső emeleti korrekciók nem alkalmazhatók azoknál a függőleges, felső elosztású fűtési rendszerű épületek helyiségeinél, amelyek légterében hőszigetelés nélküli vízszintes elosztóvezeték halad át.
+
+[^6]: [A 471/2024. (XII. 30.) Korm. rendelet 19. § c) pontjában foglalt azon módosítás, amely szerint a 3. mellékletben foglalt táblázat A:10 mezőjében a „két külső határoló-felülettel” szövegrész helyébe a „két külső egymással határos határoló-felülettel” szöveg lép, nem vezethető át.]

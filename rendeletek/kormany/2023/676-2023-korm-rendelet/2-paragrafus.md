@@ -32,10 +32,12 @@
 
 13. központi hőellátó rendszer: az épület alkotórészét képező hőtermelő berendezés (fűtőkazán, zárt vízmelegítő, gépek), valamint a központi hőellátást szolgáló fogyasztói vezetékrendszer, hőleadó készülék, amely az épületben – vagy egy vagy több más épületben – lévő lakások, nem lakás céljára szolgáló helyiségek és közös használatra szolgáló helyiségek, területek fűtését vagy melegvíz-ellátását biztosítja;
 
-14. megbízott: az a gazdálkodó szervezet, amely a tulajdonosi közösséggel kötött megbízási szerződés alapján felszereli, működteti, karbantartja a költségmegosztókat, elvégzi a költségmegosztók időszakos ellenőrzését, leolvassa, kiértékeli a költségmegosztók adatait és kiszámítja a fűtési díjmegosztási arányokat, valamint a melegvíz-díjmegosztási arányokat;
+14.[^1] megbízott: az a gazdálkodó szervezet, amely a tulajdonosi közösséggel kötött megbízási szerződés alapján felszereli, működteti, karbantartja a költségmegosztókat és hőmennyiségmérőket, elvégzi a költségmegosztók és hőmennyiségmérők időszakos ellenőrzését, leolvassa, kiértékeli a költségmegosztók és hőmennyiségmérők adatait, és kiszámítja a fűtési díjmegosztási arányokat, valamint a melegvíz-díjmegosztási arányokat;
 
 15. meleg víz: központi hőellátó rendszerrel felmelegített közműves ivóvíz;
 
 16. melegvíz-költségmegosztó: az épület melegvíz-hálózatába beépített vízmennyiség-mérő (vízmérő), amely az épületrész melegvíz-kifolyócsapján vételezett (felhasznált) meleg víz mennyiségét méri;
 
 17. üzembentartó: a központi hőellátó rendszerrel rendelkező épületnek a hőtermelő berendezés üzemképes állapotáért és üzemeltetéséért felelős tulajdonosa vagy tulajdonosi közössége (az állami tulajdonú épület esetében az épület kezelője).
+
+[^1]: A 2. § 14. pontja a 471/2024. (XII. 30.) Korm. rendelet 17. §-ával megállapított szöveg.

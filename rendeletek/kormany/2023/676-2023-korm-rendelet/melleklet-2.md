@@ -1,4 +1,4 @@
-2. melléklet a 676/2023. (XII. 29.) Korm. rendelethez
+2. melléklet a 676/2023. (XII. 29.) Korm. rendelethez[^4]
 
 Költséghatékonysági vizsgálat fűtési célú hőmennyiség épületrészenkénti hiteles mérésének kialakítása vagy fűtési költségmegosztók alkalmazása esetére
 
@@ -8,7 +8,7 @@ Költséghatékonysági vizsgálat fűtési célú hőmennyiség épületrészen
 
 | 2. | A | – | Átlagos éves hőfelhasználás | GJ/év | – |
 
-| 3. | B | – | Bruttó fűtési hődíj | Ft/GJ | – |
+| 3. | B | – | Fűtésre felhasznált energiahordozó évi fajlagos költsége[^5] | Ft/GJ | – |
 
 | 4. | C | – | Bruttó beruházási költség | Ft | – |
 
@@ -39,3 +39,6 @@ Költséghatékonysági vizsgálat fűtési célú hőmennyiség épületrészen
 1.8. A vizsgált beruházás akkor költséghatékony, ha
 
 F × G > C + G × D
+
+[^4]: [A 471/2024. (XII. 30.) Korm. rendelet 19. § a) pontjában foglalt azon módosítás, amely szerint a 2. mellékletben a „helyet ellátó távhőszolgáltató esetén a vizsgálat elvégzésekor érvényes bruttó fűtési hődíj.” szövegrész helyébe a „helyen fűtésre felhasznált energiahordozó évi fajlagos költsége.” szöveg lép, nem vezethető át.]
+[^5]: A 2. mellékletben foglalt táblázat C:3 mezője a 471/2024. (XII. 30.) Korm. rendelet 19. § b) pontjával megállapított szöveg.
