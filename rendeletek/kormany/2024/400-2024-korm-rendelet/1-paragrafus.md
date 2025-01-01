@@ -1,0 +1,1 @@
+1. § Az extraprofit adókról szóló 197/2022. (VI. 4.) Korm. rendelet 21. § (3a) bekezdésében az „a Kiskeradó tv. 1. § 1. pont d) alpontjának” szövegrész helyébe az „a Kiskeradó tv. 1. § 1. pontjának” szöveg lép.
