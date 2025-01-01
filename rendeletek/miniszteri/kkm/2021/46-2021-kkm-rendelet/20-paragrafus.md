@@ -54,7 +54,7 @@
 
 26. cégközi profit,
 
-27.[^48]
+27.[^49]
 
 28. létesítmény felvásárlása, amennyiben arra nem piaci áron kerül sor,
 
@@ -92,14 +92,14 @@ e) az immateriális javak az elszámolható költségek maximum 20%-át képezhe
 
 (5) A támogatható tárgyi eszközöknek az alábbi feltételeknek kell megfelelniük:
 
-a)[^49]
+a)[^50]
 
 b) a beszerzett tárgyi eszközöknek tartósan, legalább a fenntartási időszak végéig szolgálniuk kell a támogatott tevékenységet, és
 
 c) az egy vállalatcsoporton belülről beszerzett új eszközök esetén az elszámolható költség nem haladhatja meg az eladó könyveiben nyilvántartott összeget.
 
-(6)[^50]
+(6)[^51]
 
-[^48]: A 20. § (2) bekezdés 27. pontját a 20/2024. (XII. 20.) KKM rendelet 11. § 16. pontja hatályon kívül helyezte.
-[^49]: A 20. § (5) bekezdés a) pontját a 20/2024. (XII. 20.) KKM rendelet 11. § 17. pontja hatályon kívül helyezte.
-[^50]: A 20. § (6) bekezdését a 20/2024. (XII. 20.) KKM rendelet 11. § 18. pontja hatályon kívül helyezte.
+[^49]: A 20. § (2) bekezdés 27. pontját a 20/2024. (XII. 20.) KKM rendelet 11. § 16. pontja hatályon kívül helyezte.
+[^50]: A 20. § (5) bekezdés a) pontját a 20/2024. (XII. 20.) KKM rendelet 11. § 17. pontja hatályon kívül helyezte.
+[^51]: A 20. § (6) bekezdését a 20/2024. (XII. 20.) KKM rendelet 11. § 18. pontja hatályon kívül helyezte.

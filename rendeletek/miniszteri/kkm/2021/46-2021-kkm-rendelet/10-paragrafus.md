@@ -10,11 +10,11 @@ c) a beruházás szakmai tartalmának és költségeinek megalapozottsága,
 
 d) a beruházás megvalósítójának a tervezett beruházáshoz kapcsolódó szakmai tapasztalata,
 
-e)[^31]
+e)[^32]
 
 f) a beruházás földrajzi fókusza,
 
-g)[^32] a beruházó vállalkozások gazdasági teljesítménye, a 6. § (1) bekezdése szerinti szervezet pénzügyi helyzete,
+g)[^33] a beruházó vállalkozások gazdasági teljesítménye, a 6. § (1) bekezdése szerinti szervezet pénzügyi helyzete,
 
 h) a beruházás előkészítettsége,
 
@@ -58,5 +58,5 @@ n) rendelkezésre álló beszállítói, vevői, kivitelezői, partneri szándé
 
 o) nagyvállalkozások esetén az ösztönző hatások bemutatása az általános csoportmentességi rendelet 6. cikk (3) bekezdésében leírtaknak megfelelően.
 
-[^31]: A 10. § (1) bekezdés e) pontját a 20/2024. (XII. 20.) KKM rendelet 11. § 11. pontja hatályon kívül helyezte.
-[^32]: A 10. § (1) bekezdés g) pontja a 20/2024. (XII. 20.) KKM rendelet 10. § b) pontja szerint módosított szöveg.
+[^32]: A 10. § (1) bekezdés e) pontját a 20/2024. (XII. 20.) KKM rendelet 11. § 11. pontja hatályon kívül helyezte.
+[^33]: A 10. § (1) bekezdés g) pontja a 20/2024. (XII. 20.) KKM rendelet 10. § b) pontja szerint módosított szöveg.

@@ -1,8 +1,8 @@
-8. § (1)[^25]
+8. § (1)[^26]
 
 (2) E rendelet alapján nem nyújtható támogatás
 
-a)[^26] nehéz helyzetben lévő vállalkozás részére;
+a)[^27] nehéz helyzetben lévő vállalkozás részére;
 
 b) azon vállalkozás részére, amely nem szerepel a köztartozásmentes adózói adatbázisban legkésőbb a támogatási szerződés megkötésének napján;
 
@@ -16,10 +16,10 @@ ea) azon vállalkozásnak, amelyik a támogatási szerződésben nem vállalja, 
 
 eb) azon vállalkozásnak, amelyik a támogatási szerződésben nem vállalja, hogy a beruházás eredeti helyszínével azonos célországban fekvő másik helyszín rendelkezésre állását igazolja, feltéve, hogy a beruházás vagy fejlesztés megfelel a 9. § (1) bekezdésében meghatározott jogosultsági feltételeknek;
 
-f)[^27]
+f)[^28]
 
 g) olyan beruházáshoz, amely bármely más vissza nem térítendő költségvetési támogatásban részesül, kivéve, ha az adott támogatás nyújtásának feltétele az e rendelet alapján nyújtott támogatás.
 
-[^25]: A 8. § (1) bekezdését a 20/2024. (XII. 20.) KKM rendelet 11. § 9. pontja hatályon kívül helyezte.
-[^26]: A 8. § (2) bekezdés a) pontja a 20/2024. (XII. 20.) KKM rendelet 4. §-ával megállapított szöveg.
-[^27]: A 8. § (2) bekezdés f) pontját a 20/2024. (XII. 20.) KKM rendelet 11. § 10. pontja hatályon kívül helyezte.
+[^26]: A 8. § (1) bekezdését a 20/2024. (XII. 20.) KKM rendelet 11. § 9. pontja hatályon kívül helyezte.
+[^27]: A 8. § (2) bekezdés a) pontja a 20/2024. (XII. 20.) KKM rendelet 4. §-ával megállapított szöveg.
+[^28]: A 8. § (2) bekezdés f) pontját a 20/2024. (XII. 20.) KKM rendelet 11. § 10. pontja hatályon kívül helyezte.

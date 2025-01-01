@@ -1,12 +1,12 @@
 ## 9. A támogatás nyújtásának alapvető feltételei
 
-16. § (1)[^38] A 9/2024. (VI. 10.) KKM rendelet 3. § (1) bekezdés b) pont 1., 3., 4., 7., 11. és 14. alpontjában foglalt támogatás feltétele, hogy
+16. § (1)[^39] A 9/2024. (VI. 10.) KKM rendelet 3. § (1) bekezdés b) pont 1., 3., 4., 7., 11. és 14. alpontjában foglalt támogatás feltétele, hogy
 
 a) a támogatás felhasználására legkésőbb a támogatási szerződés megkötésétől számított 36 hónapon belül kerüljön sor;
 
-b)[^39] a beruházó vállalja, hogy a kötelező üzemeltetési időszak keretében a beruházást annak befejezése után legalább öt évig, kis- és középvállalkozások esetében legalább három évig fenntartja az érintett területen, továbbá vállalja, hogy az üzleti tevékenységét a beruházás befejezését követő tíz évig fenntartja, azzal, hogy az üzleti tevékenység fenntartására vonatkozó kötelezettség a c) pontban előírt kötelezettség teljesítésével teljesítettnek tekintendő abban az esetben is, amennyiben erre tíz éven belül sor kerül;
+b)[^40] a beruházó vállalja, hogy a kötelező üzemeltetési időszak keretében a beruházást annak befejezése után legalább öt évig, kis- és középvállalkozások esetében legalább három évig fenntartja az érintett területen, továbbá vállalja, hogy az üzleti tevékenységét a beruházás befejezését követő tíz évig fenntartja, azzal, hogy az üzleti tevékenység fenntartására vonatkozó kötelezettség a c) pontban előírt kötelezettség teljesítésével teljesítettnek tekintendő abban az esetben is, amennyiben erre tíz éven belül sor kerül;
 
-c)[^40] a beruházó vállalja, hogy a kötelező üzemeltetési időszak kezdőnapjától az üzleti tevékenység b) pont szerinti fenntartásának végéig terjedő időszak alatt az összes nettó árbevétele vagy pénzügyi műveleteinek bevétele legalább a megítélt támogatás összegével azonos összeggel meghaladja a támogatási kérelem benyújtását megelőző üzleti éve árbevételét vagy pénzügyi műveleteinek bevételét;
+c)[^41] a beruházó vállalja, hogy a kötelező üzemeltetési időszak kezdőnapjától az üzleti tevékenység b) pont szerinti fenntartásának végéig terjedő időszak alatt az összes nettó árbevétele vagy pénzügyi műveleteinek bevétele legalább a megítélt támogatás összegével azonos összeggel meghaladja a támogatási kérelem benyújtását megelőző üzleti éve árbevételét vagy pénzügyi műveleteinek bevételét;
 
 d) a beruházó vállalja, hogy a külföldön megvalósult beruházás eredményeképpen létrejövő kapacitások révén előállított termékeket és nyújtott szolgáltatásokat nem értékesíti Magyarországon, azzal, hogy a külföldön megvalósult beruházás eredményeképpen létrejövő kapacitások révén előállított részegységek és alkatrészek – és kivételes esetben a külföldön előállított termék vagy szolgáltatás – importja megengedhető, ha az a támogatott magyarországi vállalkozás nemzetközi versenyképességét növeli;
 
@@ -20,14 +20,14 @@ fb) a kötelezően vállalt külföldi beruházás illeszkedik az RGT céljaihoz
 
 fc) a célországi beruházás költségét az elszámolható projekt-költségvetés részeként nem számolja el.
 
-(2)[^41]
+(2)[^42]
 
-(3)[^42]
+(3)[^43]
 
 (4) A szakmai támogató szerv – az e rendeletben foglaltakkal összhangban – a támogatás nyújtására vonatkozóan további követelményeket határozhat meg.
 
-[^38]: A 16. § (1) bekezdés nyitó szövegrésze a 20/2024. (XII. 20.) KKM rendelet 10. § d) pontja szerint módosított szöveg.
-[^39]: A 16. § (1) bekezdés b) pontja a 20/2024. (XII. 20.) KKM rendelet 7. §-ával megállapított szöveg.
-[^40]: A 16. § (1) bekezdés c) pontja a 20/2024. (XII. 20.) KKM rendelet 7. §-ával megállapított szöveg.
-[^41]: A 16. § (2) bekezdését a 20/2024. (XII. 20.) KKM rendelet 11. § 13. pontja hatályon kívül helyezte.
-[^42]: A 16. § (3) bekezdését a 20/2024. (XII. 20.) KKM rendelet 11. § 13. pontja hatályon kívül helyezte.
+[^39]: A 16. § (1) bekezdés nyitó szövegrésze a 20/2024. (XII. 20.) KKM rendelet 10. § d) pontja szerint módosított szöveg.
+[^40]: A 16. § (1) bekezdés b) pontja a 20/2024. (XII. 20.) KKM rendelet 7. §-ával megállapított szöveg.
+[^41]: A 16. § (1) bekezdés c) pontja a 20/2024. (XII. 20.) KKM rendelet 7. §-ával megállapított szöveg.
+[^42]: A 16. § (2) bekezdését a 20/2024. (XII. 20.) KKM rendelet 11. § 13. pontja hatályon kívül helyezte.
+[^43]: A 16. § (3) bekezdését a 20/2024. (XII. 20.) KKM rendelet 11. § 13. pontja hatályon kívül helyezte.
