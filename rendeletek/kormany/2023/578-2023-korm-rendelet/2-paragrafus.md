@@ -14,7 +14,7 @@
 
 6. hálózati forgalom kivonata: a hálózati forgalomból előállított műszaki adat, amelyből a hálózati forgalom nem állítható helyre,
 
-7. honvédelmi ágazati korai figyelmeztető rendszer: a honvédelmi célú elektronikus információs rendszer érdekében működő olyan központosított védelmi megoldás, amely a védett rendszer eseménynaplóinak, a jelforrás biztonsági jelzésének, szenzorral gyűjtött és feldolgozott hálózati forgalma kivonatának automatizált elemzése alapján azonosítja a honvédelmi célú elektronikus információs rendszer bizalmasságának, sértetlenségének és rendelkezésre állásának sérülésére utaló kockázati tényezőket, valamint biztonsági esemény kísérletét vagy tényét,
+7.[^1] honvédelmi ágazati korai figyelmeztető rendszer: a honvédelmi célú elektronikus információs rendszer érdekében működő olyan központosított védelmi megoldás, amely a védett rendszer eseménynaplóinak, a jelforrás biztonsági jelzésének, szenzorral gyűjtött és feldolgozott hálózati forgalma kivonatának automatizált elemzése alapján azonosítja a honvédelmi célú elektronikus információs rendszer bizalmasságának, sértetlenségének és rendelkezésre állásának sérülésére utaló kockázati tényezőket, valamint kiberbiztonsági incidens kísérletét vagy tényét,
 
 8. információs kapcsolatrendszer: a két vagy többoldalú együttműködési megállapodáson alapuló nemzeti és nemzetközi együttműködés által biztosított adat és információ szervezett rendje,
 
@@ -28,7 +28,7 @@
 
 13. metaadat: a honvédelmi célú elektronikus információs rendszer eleme által kezelt adatot leíró információk összessége, amely szabványos formátumban leírja az adat minőségét, állapotát és egyéb jellemzőjét, és amely oly módon mentes törvény által védett adatoktól, hogy azokat kizárólag a védett intézmény tudja helyreállítani,
 
-14. szakfeladat szerint elkülönülő eseménykezelő központ: az eseménykezelő központok feladat- és hatásköréről, valamint a biztonsági események kezelésének és műszaki vizsgálatának, továbbá a sérülékenységvizsgálat lefolytatásának szabályairól szóló 271/2018. (XII. 20.) Korm. rendelet 6. § (1) bekezdése szerinti szakfeladat szerint elkülönülő eseménykezelő központ,
+14.[^2] szakfeladat szerint elkülönülő incidenskezelő központ: Magyarország kiberbiztonságáról szóló törvény végrehajtásáról szóló kormányrendelet szerinti szakfeladat szerint elkülönülő incidenskezelő központ,
 
 15. szenzor: a honvédelmi ágazati korai figyelmeztető rendszer végponti elemébe integrált, a hálózati forgalmat monitorozó hardver- és szoftverelemek együttese, amely a védett infrastruktúra felől a köztes elem felé logikailag egyirányú hálózati kapcsolattal rendelkezik, és a hálózati forgalom más módon nem elérhető kivonatát állítja elő,
 
@@ -43,3 +43,6 @@
 20. végpontvédelem és riasztási rendszer: olyan védelmi szoftvermegoldás, amely a védelme alatt álló végponton károskód jelenlétére utaló jelzés észlelésére és elsődleges automatikus beavatkozásra képes,
 
 21. vizsgált esemény: veszélyre utaló adatok, jelenségek és folyamatok összessége.
+
+[^1]: A 2. § 7. pontja a 418/2024. (XII. 23.) Korm. rendelet 146. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § 14. pontja a 418/2024. (XII. 23.) Korm. rendelet 145. §-ával megállapított szöveg.
