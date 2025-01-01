@@ -1,0 +1,1 @@
+208/P. § E törvénynek a légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel megállapított 23/A. §-át, valamint 40/C. §-át a 2025. üzleti évi beszámolókra vonatkozó könyvvizsgálói jelentések elkészítése során kell először alkalmazni.

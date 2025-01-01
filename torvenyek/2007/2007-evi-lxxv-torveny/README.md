@@ -49,3 +49,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-75-00-00
 | 2023-07-15 | 2023. évi LIX. törvény | 2007-75-00-00.49 |
 | 2024-01-01 | 2023. évi CVIII. törvény | 2007-75-00-00.51 |
 | 2024-11-29 | 2024. évi LV. törvény | 2007-75-00-00.52 |
+| 2025-01-01 | 2023. évi LIX. törvény | 2007-75-00-00.50 |

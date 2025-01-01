@@ -36,6 +36,8 @@ q) az 50. § (2c) bekezdése szerinti igazolás megszerzésének időpontja, ill
 
 r) a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzéséhez szükséges engedély megadásáról, valamint visszavonásáról szóló hatósági döntések.
 
+s) az elektronikus aláírás azonosító száma és érvényességének kezdő és lejárati dátuma.
+
 (2) A könyvvizsgáló cégek nyilvántartása tartalmazza a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésének engedélyezéséért, a minőségbiztosításért, a fegyelmi eljárásért, valamint a közfelügyeletért felelős szervek nevét és címét is.
 
 (3) Az (1) bekezdés l), m) és r) pontjában foglalt adatok kivételével az (1) és (2) bekezdésben foglaltak közérdekből nyilvános adatok, azokról bárki tájékoztatást kaphat.

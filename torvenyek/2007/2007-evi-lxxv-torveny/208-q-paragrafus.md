@@ -1,0 +1,1 @@
+208/Q. § E törvénynek a légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel megállapított 48/A. §-át a 2025. üzleti évi beszámolók könyvvizsgálati dokumentációinak archiválása és megőrzése során kell először alkalmazni.

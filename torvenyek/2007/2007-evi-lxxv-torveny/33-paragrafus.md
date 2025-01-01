@@ -38,10 +38,12 @@ r) a 11. § (1a) bekezdés szerinti egyéni vállalkozói jogviszony fennállás
 
 s) a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzéséhez szükséges igazolás megadásáról, valamint visszavonásáról szóló hatósági döntések.
 
+t) az elektronikus aláírás azonosító száma és érvényességének kezdő és lejárati dátuma.
+
 (2) A kamarai tag könyvvizsgálók nyilvántartása tartalmazza a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésének engedélyezéséért, a minőségbiztosításért, a fegyelmi eljárásért, valamint a közfelügyeletért felelős szervek nevét és címét is.
 
 (3) A nyilvántartás vezetésének célja annak hiteles dokumentálása, hogy a nyilvántartásban szereplő rendelkezik a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzéséhez előírt feltételekkel. A nyilvántartásban szereplők közérdekből nyilvános adatainak, az azokban bekövetkező változásoknak a közzététele az ellenőrzés lehetőségének a megteremtését, illetve az időszerű tájékoztatást szolgálja.
 
-(4) Az (1) bekezdés a), b), c), f), h), i), j), n), o), p) és q) pontjában, valamint a (2) bekezdésben foglaltak közérdekből nyilvános adatok, azokról bárki tájékoztatást kaphat.
+(4) Az (1) bekezdés a), b), c), f), h), i), j), n), o), p), q) és t) pontjában, valamint a (2) bekezdésben foglaltak közérdekből nyilvános adatok, azokról bárki tájékoztatást kaphat.
 
 (5) A kamara az újonnan nyilvántartásba vettek nyilvántartási számát, nevét, címét a kamara lapjában közzéteszi, továbbá biztosítja, hogy a nyilvános adatok a kamara honlapján folyamatosan és bárki számára szabadon megtekinthetők legyenek. A kamara a nyilvántartásból töröltek nyilvántartási számát, nevét és a kamarai tagság megszűnésének időpontját a kamara lapjában és a kamara holnapján közzéteszi.
