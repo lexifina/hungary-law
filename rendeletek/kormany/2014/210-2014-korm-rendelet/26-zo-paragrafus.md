@@ -2,7 +2,7 @@
 
 26/ZO. § (1) A támogatás kizárólag jogi személyenként igényelhető a lebonyolító szerv részére megküldött, cégszerűen aláírt támogatási kérelem benyújtásával.
 
-(2)[^250]
+(2)[^251]
 
 (3) A támogatási kérelem különösen a következő adatokat tartalmazza:
 
@@ -30,4 +30,4 @@ j) a vállalkozás nyilatkozata arról, hogy a saját forrás rendelkezésre ál
 
 (5) A támogatási eljárásban a kérelmező a lebonyolító szerv rendelkezésére bocsátja a támogatáshoz szükséges valamennyi adat, tény és információ igazolásához szükséges okiratot és dokumentumot.
 
-[^250]: A 26/ZO. § (2) bekezdését a 632/2023. (XII. 23.) Korm. rendelet 32. § g) pontja hatályon kívül helyezte.
+[^251]: A 26/ZO. § (2) bekezdését a 632/2023. (XII. 23.) Korm. rendelet 32. § g) pontja hatályon kívül helyezte.

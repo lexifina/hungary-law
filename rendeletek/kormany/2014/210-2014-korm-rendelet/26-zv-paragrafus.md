@@ -6,6 +6,6 @@
 
 (3) A támogatás Magyarország egész területén igénybe vehető.
 
-(4)[^253] A támogatás a közlemény 61. pont c) alpontjában meghatározott határidőig ítélhető oda.
+(4)[^254] A támogatás a közlemény 61. pont c) alpontjában meghatározott határidőig ítélhető oda.
 
-[^253]: A 26/ZV. § (4) bekezdése a 366/2023. (VIII. 3.) Korm. rendelet 9. § i) pontja szerint módosított szöveg.
+[^254]: A 26/ZV. § (4) bekezdése a 366/2023. (VIII. 3.) Korm. rendelet 9. § i) pontja szerint módosított szöveg.

@@ -18,9 +18,9 @@
 
 | 9 | Adminisztratív-, kiegészítő egyéb üzleti szolgáltatás (82) | 82.11 Összetett adminisztratív szolgáltatás 82.20 Telefoninformáció 82.99 M. n. s. egyéb kiegészítő üzleti szolgáltatás |
 
-2. melléklet a 210/2014. (VIII. 27.) Korm. rendelethez[^320]
+2. melléklet a 210/2014. (VIII. 27.) Korm. rendelethez[^322]
 
-Az energiahatékonysági beruházási, a megújuló energia előállítására és tárolására, valamint a megújuló hidrogén előállítására irányuló beruházási támogatásban részesíthető tevékenységek felsorolása TEÁOR’08 kód szerint[^321]
+Az energiahatékonysági beruházási, a megújuló energia előállítására és tárolására, valamint a megújuló hidrogén előállítására irányuló beruházási támogatásban részesíthető tevékenységek felsorolása TEÁOR’08 kód szerint[^323]
 
 | 1. | 101 Húsfeldolgozás, -tartósítás, húskészítmény gyártása |
 
@@ -114,9 +114,9 @@ Az energiahatékonysági beruházási, a megújuló energia előállítására �
 
 | 46. | 239 Egyéb csiszolótermék és nemfém ásványi termék gyártása m.n.s. |
 
-| 47.[^322] |  |
+| 47.[^324] |  |
 
-| 48.[^323] |  |
+| 48.[^325] |  |
 
 | 49. | 243 Egyéb kohászati termék gyártása acélból |
 
@@ -212,7 +212,7 @@ Az energiahatékonysági beruházási, a megújuló energia előállítására �
 
 | 95. | 332 Ipari gép, berendezés üzembe helyezése |
 
-[^320]: A 2. mellékletet a 416/2022. (X. 26.) Korm. rendelet 5. §-a iktatta be.
-[^321]: A 2. melléklet címe a 632/2023. (XII. 23.) Korm. rendelet 28. § (2) bekezdésével megállapított szöveg.
-[^322]: A 2. mellékletben foglalt táblázat 47. sorát a 632/2023. (XII. 23.) Korm. rendelet 32. § i) pontja hatályon kívül helyezte.
-[^323]: A 2. mellékletben foglalt táblázat 48. sorát a 632/2023. (XII. 23.) Korm. rendelet 32. § i) pontja hatályon kívül helyezte.
+[^322]: A 2. mellékletet a 416/2022. (X. 26.) Korm. rendelet 5. §-a iktatta be.
+[^323]: A 2. melléklet címe a 632/2023. (XII. 23.) Korm. rendelet 28. § (2) bekezdésével megállapított szöveg.
+[^324]: A 2. mellékletben foglalt táblázat 47. sorát a 632/2023. (XII. 23.) Korm. rendelet 32. § i) pontja hatályon kívül helyezte.
+[^325]: A 2. mellékletben foglalt táblázat 48. sorát a 632/2023. (XII. 23.) Korm. rendelet 32. § i) pontja hatályon kívül helyezte.

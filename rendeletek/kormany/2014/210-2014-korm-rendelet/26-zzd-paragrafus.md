@@ -2,7 +2,7 @@
 
 26/ZZD. § (1) A támogatást kizárólag jogi személy igényelheti a lebonyolító szerv részére megküldött, cégszerűen aláírt támogatási kérelem benyújtásával.
 
-(2)[^256] Támogatási kérelmet az nyújthat be, aki a lebonyolító szerv által működtetett online felületen sikeresen regisztrált az ott feltüntetett adatok megadásával. Egy regisztrációs időszak a regisztráció megnyitásától annak felfüggesztéséig tart. A támogatási kérelem benyújtására legkésőbb a regisztráció napját követő négy hónapig van lehetőség, ha a támogatás nyújtásának feltételei még fennállnak, azzal, hogy a benyújtási határidőt a támogató indokolt esetben, a beruházó kérelmére legfeljebb négy hónappal meghosszabbíthatja. A kérelem benyújtására legkésőbb az eredeti határidő lejárta előtt 5 nappal kerülhet sor. A sikeres regisztráció nem jelenti a támogatási feltételeknek történő megfelelést, és nem minősül támogatási döntésnek.
+(2)[^257] Támogatási kérelmet az nyújthat be, aki a lebonyolító szerv által működtetett online felületen sikeresen regisztrált az ott feltüntetett adatok megadásával. Egy regisztrációs időszak a regisztráció megnyitásától annak felfüggesztéséig tart. A támogatási kérelem benyújtására legkésőbb a regisztráció napját követő négy hónapig van lehetőség, ha a támogatás nyújtásának feltételei még fennállnak, azzal, hogy a benyújtási határidőt a támogató indokolt esetben, a beruházó kérelmére legfeljebb négy hónappal meghosszabbíthatja. A kérelem benyújtására legkésőbb az eredeti határidő lejárta előtt 5 nappal kerülhet sor. A sikeres regisztráció nem jelenti a támogatási feltételeknek történő megfelelést, és nem minősül támogatási döntésnek.
 
 (3) A támogatási kérelem különösen a következő adatokat tartalmazza:
 
@@ -34,4 +34,4 @@ b) a megújuló energiatermelési beruházás esetén a 26/ZO. § (4) bekezdés�
 
 (4) A támogatási eljárásban a kérelmező a lebonyolító szerv rendelkezésére bocsátja a támogatáshoz szükséges valamennyi adat, tény és információ igazolásához szükséges okiratot és dokumentumot.
 
-[^256]: A 26/ZZD. § (2) bekezdése az 50/2023. (II. 22.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^257]: A 26/ZZD. § (2) bekezdése az 50/2023. (II. 22.) Korm. rendelet 8. §-ával megállapított szöveg.

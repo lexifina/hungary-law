@@ -1,4 +1,4 @@
-9/B. §[^107] (1) A 2. § (1) bekezdés e) pontjában meghatározott támogatás az alábbi feltételekkel vehető igénybe Budapesten a beruházó méretétől függetlenül:
+9/B. §[^108] (1) A 2. § (1) bekezdés e) pontjában meghatározott támogatás az alábbi feltételekkel vehető igénybe Budapesten a beruházó méretétől függetlenül:
 
 a) a beruházás egy olyan, a 2. mellékletben meghatározott tevékenységekhez kapcsolódó, két részből álló beruházás, melynek egyik része induló beruházás, amely esetben a 18. § szerinti költségek minősülnek elszámolható költségnek (e § alkalmazásában a továbbiakban: főberuházás), a másik része megújuló energia termeléséhez vagy megújuló energia termeléséhez és tárolásához kapcsolódó beruházás, amely esetben a 26/ZL. § (1) bekezdése szerinti költségek minősülnek elszámolható költségnek (e § alkalmazásában a továbbiakban: kiegészítő energetikai beruházás), ha a főberuházáshoz kapcsolódó elszámolható költségek mértéke meghaladja a teljes beruházási érték felét,
 
@@ -14,7 +14,7 @@ b) a teljes beruházási érték elszámolható költségeinek összege folyó �
 
 a) megvalósítása esetén a 6. §-ban megjelölt jogi személyek részére nyújtható támogatás,
 
-b)[^108] esetén a kiegészítő energetikai beruházásra eső támogatás intenzitása nem haladhatja meg a 45 százalékot, valamint a támogatás mértéke nem haladhatja meg a 30 millió eurónak megfelelő forintösszeget,
+b)[^109] esetén a kiegészítő energetikai beruházásra eső támogatás intenzitása nem haladhatja meg a 45 százalékot, valamint a támogatás mértéke nem haladhatja meg a 30 millió eurónak megfelelő forintösszeget,
 
 c) időtartama nem haladhatja meg a támogatási szerződésben meghatározott időtartamot,
 
@@ -26,5 +26,5 @@ f) támogatására és a támogatás visszafizetésének biztosítékára a 23. 
 
 g) támogatásának folyósítására a 24. §-ban foglalt feltételeket kell alkalmazni.
 
-[^107]: A 9/B. §-t a 366/2023. (VIII. 3.) Korm. rendelet 4. §-a iktatta be.
-[^108]: A 9/B. § (5) bekezdés b) pontja a 632/2023. (XII. 23.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^108]: A 9/B. §-t a 366/2023. (VIII. 3.) Korm. rendelet 4. §-a iktatta be.
+[^109]: A 9/B. § (5) bekezdés b) pontja a 632/2023. (XII. 23.) Korm. rendelet 5. §-ával megállapított szöveg.

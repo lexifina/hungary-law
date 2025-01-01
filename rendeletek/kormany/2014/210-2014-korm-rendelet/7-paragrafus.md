@@ -20,4 +20,7 @@ g) élelmiszeripar,
 
 h) tudás-intenzív regionális szolgáltató központok létesítése vagy bővítése.
 
+i)[^71] kritikus szervezetek, valamint az ország védelme és biztonsága szempontjából jelentős szervezetek ellenálló képességének növelése.
+
 [^70]: A 7. § a 426/2016. (XII. 15.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^71]: A 7. § i) pontját a 474/2024. (XII. 31.) Korm. rendelet 146. §-a iktatta be.
