@@ -140,6 +140,6 @@
 
 | E-mail: |  |
 
-4. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^161]
+4. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^162]
 
-[^161]: A 4. melléklet a 129/2014. (IV. 10.) Korm. rendelet 12. § 29. pontja, a 383/2015. (XII. 8.) Korm. rendelet 15. § s) pontja, a 379/2016. (XII. 2.) Korm. rendelet 168. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^162]: A 4. melléklet a 129/2014. (IV. 10.) Korm. rendelet 12. § 29. pontja, a 383/2015. (XII. 8.) Korm. rendelet 15. § s) pontja, a 379/2016. (XII. 2.) Korm. rendelet 168. § (1) bekezdés d) pontja szerint módosított szöveg.

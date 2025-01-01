@@ -124,6 +124,6 @@
 
 ## Telefon:
 
-2. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^159]
+2. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^160]
 
-[^159]: A 2. melléklet a 92/2013. (III. 28.) Korm. rendelet 9. § (2) bekezdésével megállapított, a 129/2014. (IV. 10.) Korm. rendelet 12. § 27. pontja szerint módosított szöveg.
+[^160]: A 2. melléklet a 92/2013. (III. 28.) Korm. rendelet 9. § (2) bekezdésével megállapított, a 129/2014. (IV. 10.) Korm. rendelet 12. § 27. pontja szerint módosított szöveg.

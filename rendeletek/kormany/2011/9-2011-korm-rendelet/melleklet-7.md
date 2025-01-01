@@ -46,6 +46,6 @@
 
 | 10. |  |  |  |  |  |  |  |  |
 
-7. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^164]
+7. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^165]
 
-[^164]: A 7. melléklet a 92/2013. (III. 28.) Korm. rendelet 9. § (5) bekezdésével megállapított, a 129/2014. (IV. 10.) Korm. rendelet 12. § 32. pontja, a 383/2015. (XII. 8.) Korm. rendelet 15. § t) pontja szerint módosított szöveg.
+[^165]: A 7. melléklet a 92/2013. (III. 28.) Korm. rendelet 9. § (5) bekezdésével megállapított, a 129/2014. (IV. 10.) Korm. rendelet 12. § 32. pontja, a 383/2015. (XII. 8.) Korm. rendelet 15. § t) pontja szerint módosított szöveg.

@@ -212,6 +212,6 @@
 
 | 17 | Intézkedési javaslat: |  |
 
-9. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^166]
+9. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^167]
 
-[^166]: A 9. mellékletet a 92/2013. (III. 28.) Korm. rendelet 10. §-a iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 85. § (4) bekezdés c) pontjával megállapított, a 334/2023. (VII. 20.) Korm. rendelet 24. § c) pontja szerint módosított szöveg.
+[^167]: A 9. mellékletet a 92/2013. (III. 28.) Korm. rendelet 10. §-a iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 85. § (4) bekezdés c) pontjával megállapított, a 334/2023. (VII. 20.) Korm. rendelet 24. § c) pontja szerint módosított szöveg.
