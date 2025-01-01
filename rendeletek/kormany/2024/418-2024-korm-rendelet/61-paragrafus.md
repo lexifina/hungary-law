@@ -1,0 +1,1 @@
+61. § A sérülékenységvizsgálat nemzetközileg elfogadott sérülékenységvizsgálati és kockázatértékelési módszertanok mentén folytatható. A sérülékenységvizsgálat során kizárólag olyan kockázatértékelési módszertan alkalmazható, amely figyelembe veszi legalább a sérülékenység hatásának mértékét, valamint a kihasználásának komplexitását.

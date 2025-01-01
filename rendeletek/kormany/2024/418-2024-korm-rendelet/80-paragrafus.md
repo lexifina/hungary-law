@@ -1,0 +1,5 @@
+80. § (1) A szervezetek indokolatlan késedelem nélkül és térítésmentesen értesítik a szolgáltatásaikat igénybe vevőket azon kiberbiztonsági incidensekről, amelyek valószínűleg hátrányosan érintik a szolgáltatásnyújtásukat és a szolgáltatásaikat igénybe vevők részéről intézkedés megtétele szükséges.
+
+(2) A szervezet indokolatlan késedelem nélkül – vagy amint az információ rendelkezésre áll – tájékoztatja a jelentős kiberfenyegetés által potenciálisan érintett szolgáltatásait igénybe vevőit azon intézkedésekről, illetve fenyegetést orvosló lehetőségekről, amelyeket a szolgáltatások igénybe vevői a fenyegetésre válaszul maguk megtehetnek, illetve amelyekkel élhetnek.
+
+(3) Ha a kiberbiztonsági incidens megelőzéséhez vagy egy folyamatban lévő kiberbiztonsági incidens kezeléséhez lakossági figyelemfelkeltés szükséges, vagy ha a kiberbiztonsági incidens nyilvánosságra hozatala egyébként közérdek, a Központ – az érintett szervezettel szükség szerint folytatott konzultációt követően – tájékoztatja az illetékes kiberbiztonsági hatóságot a nyilvánosság tájékoztathatósága érdekében.

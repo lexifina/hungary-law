@@ -1,0 +1,3 @@
+49. § (1) A sérülékenységvizsgálat célja a szervezet elektronikus információs rendszere, rendszerelemei gyenge pontjainak feltárása, valamint a feltárt sérülékenységek elhárítására vonatkozó megoldási javaslatok kidolgozása az elektronikus információs rendszerek, rendszerelemek védelmének és biztonságának megerősítése érdekében.
+
+(2) A sérülékenységvizsgálat tárgya az adatok, információk kezelésére használt elektronikus információs rendszerek, rendszerelemek, eszközök, eljárások és kapcsolódó folyamatok vizsgálata, valamint az ezeket kezelő személyek és a szervezet általános informatikai felkészültségének vizsgálata.

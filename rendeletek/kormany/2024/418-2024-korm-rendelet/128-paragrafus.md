@@ -1,0 +1,1 @@
+128. § Hatályát veszti a pénzügyi intézmények, a biztosítók és a viszontbiztosítók, továbbá a befektetési vállalkozások és az árutőzsdei szolgáltatók informatikai rendszerének védelméről szóló 42/2015. (III. 12.) Korm. rendelet 5/A. § (12) bekezdése.

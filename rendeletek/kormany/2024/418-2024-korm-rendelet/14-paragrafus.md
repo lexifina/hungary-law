@@ -1,0 +1,5 @@
+14. § (1) Az elektronikus információs rendszer használatbavétele, illetve meglévő elektronikus információs rendszer továbbhasználata kapcsán a szervezet vezetője által hozott döntésnek a nemzeti kiberbiztonsági hatóság általi jóváhagyását a szervezet a nemzeti kiberbiztonsági hatóság – honvédelmi célú elektronikus információs rendszer vonatkozásában a honvédelmi kiberbiztonsági hatóság – honlapján közzétett nyomtatványon kérelmezi.
+
+(2) A kérelemnek tartalmaznia kell a biztonsági osztályba sorolás eredményeként kapott, elvárt védelmi intézkedések megvalósításáról készült valamennyi dokumentációt.
+
+(3) A nemzeti kiberbiztonsági hatóság a jóváhagyását adja, ha meggyőződött róla, hogy az érintett elektronikus információs rendszer valamennyi elvárt kiberbiztonsági kritériumot teljesíti és ezzel egyidőben nyilvántartásba veszi az elektronikus információs rendszert. Ellenkező esetben a hatóság hiánypótlásra, a hiányosságok javítására, pótlására szólít fel és megtilthatja az elektronikus információs rendszer használatba vételét, továbbhasználatát.

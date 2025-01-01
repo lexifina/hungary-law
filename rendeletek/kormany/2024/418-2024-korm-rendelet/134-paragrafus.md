@@ -1,0 +1,1 @@
+134. § A Magyarország biztonsági érdekét sértő külföldi befektetések ellenőrzéséről szóló 2018. évi LVII. törvény végrehajtásáról szóló 246/2018. (XII. 17.) Korm. rendelet 1. melléklet 9. alcíme helyébe a következő alcím lép:

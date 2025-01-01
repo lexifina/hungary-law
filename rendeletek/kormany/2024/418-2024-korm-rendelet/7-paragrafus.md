@@ -1,0 +1,1 @@
+7. § A Kiberbiztonsági tv. 8. § (7) bekezdése szerinti kiberbiztonsági információmegosztási megállapodások keretében az információmegosztás során a szervezetek az információk érzékeny jellegét tiszteletben tartva járnak el.

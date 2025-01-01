@@ -1,0 +1,3 @@
+54. § (1) A sérülékenységvizsgálat szervezet általi kezdeményezése esetén a vizsgálati feladatokra a szervezet javaslatot tehet, amelyről a sérülékenységvizsgálatot végző szerv dönt.
+
+(2) A sérülékenységvizsgálati alapdokumentumot a sérülékenységvizsgálatot végző szerv – legalább a sérülékenységvizsgálat megkezdését megelőzően 8 nappal – megküldi az érintett szervezet részére. Az érintett szervezet a sérülékenységvizsgálati alapdokumentum tartalmára a kézhezvételtől számított 5 napon belül észrevételt tehet. Az észrevétel nem érintheti a nemzeti kiberbiztonsági hatóság által elrendelt vizsgálatokat. Az észrevételekről a sérülékenységvizsgálatot végző szerv dönt.

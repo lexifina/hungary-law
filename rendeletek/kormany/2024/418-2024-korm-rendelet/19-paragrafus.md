@@ -1,0 +1,1 @@
+19. § Ha a szervezet jelentős kiberbiztonsági incidensről értesíti a nemzeti kiberbiztonsági hatóságot, a nemzeti kiberbiztonsági hatóság a kézhezvételt követően továbbítja az értesítést a Központnak.

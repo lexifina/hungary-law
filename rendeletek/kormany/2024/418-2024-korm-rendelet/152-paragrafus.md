@@ -1,0 +1,1 @@
+152. § A digitális állampolgárság egyes szabályairól szóló 321/2024. (XI. 6.) Korm. rendelet 60. § (3) bekezdés e) pontjában az „az állami és önkormányzati szervek elektronikus információbiztonságáról” szövegrész helyébe a „Magyarország kiberbiztonságáról” szöveg és a „biztonsági esemény” szövegrész helyébe a „kiberbiztonsági incidens” szöveg lép.

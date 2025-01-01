@@ -1,0 +1,1 @@
+151. § A megújuló gázok származásának igazolásáról szóló 215/2024. (VII. 29.) Korm. rendelet 2. § (2) bekezdésében az „az állami és önkormányzati szervek elektronikus információbiztonságáról” szövegrész helyébe az „a Magyarország kiberbiztonságáról” szöveg lép.

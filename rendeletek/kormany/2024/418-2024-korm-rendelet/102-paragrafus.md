@@ -1,0 +1,1 @@
+102. § A Nemzeti Kiberbiztonsági Munkacsoport, a Fórum és a Kiberbiztonsági Almunkacsoportok működésére vonatkozó eljárási szabályokat a tagok által készített és a Nemzeti Kiberbiztonsági Munkacsoport elnöke által jóváhagyott ügyrend tartalmazza.

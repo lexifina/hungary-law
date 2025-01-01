@@ -1,0 +1,1 @@
+133. § A Kormányzati Adatközpont működéséről szóló 467/2017. (XII. 28.) Korm. rendelet 6. § (1) bekezdés d) pontjában az „az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L.” szövegrész helyébe az „a Magyarország kiberbiztonságáról szóló” szöveg és a „besorolási szinthez” szövegrész helyébe a „biztonsági osztályhoz” szöveg lép.

@@ -1,0 +1,1 @@
+132. § Az egységes elektronikuskártya-kibocsátási keretrendszerről szóló 2014. évi LXXXIII. törvény végrehajtásáról szóló 304/2017. (X. 27.) Korm. rendelet 15. § (4) bekezdés c) pontjában az „az állami és önkormányzati szervek elektronikus információbiztonságáról” szövegrész helyébe az „a Magyarország kiberbiztonságáról” szöveg lép.

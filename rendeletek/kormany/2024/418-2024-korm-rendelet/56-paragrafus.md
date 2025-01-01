@@ -1,0 +1,5 @@
+56. § (1) A sérülékenységvizsgálatot végző szerv a sérülékenységvizsgálat során kellő gondossággal eljárva köteles a vizsgált elektronikus információs rendszer által nyújtott szolgáltatásoknak a feltétlenül szükségesnél nem nagyobb mértékű korlátozására, a sérülékenységvizsgálatnak a szolgáltatás szempontjából nem kritikus időszakban történő elvégzésére. A sérülékenységvizsgálatot végző szerv köteles a korlátozás várható mértékéről és időtartalmáról az érintett szervezetet előzetesen tájékoztatni.
+
+(2) A sérülékenységvizsgálatot végző szerv tájékoztatja a sérülékenységvizsgálattal érintett szervezetet az általa a vizsgálathoz használt IP címről vagy más egyedi technikai azonosítóról, amelyet a szervezet a vizsgálat időtartama alatt nem tilthat ki a szolgáltatás eléréséből, illetve gondoskodnia kell a szolgáltatásnak a sérülékenységvizsgálatot végző szerv általi eléréséről.
+
+(3) A sérülékenységvizsgálatot végző szerv a polgári hírszerző tevékenységet végző nemzetbiztonsági szolgálat elektronikus információs rendszerei vonatkozásában lehetőség szerint gondoskodik arról, hogy az azokon tárolt adatok megismerése nélkül hajtsa végre a sérülékenységvizsgálatot.

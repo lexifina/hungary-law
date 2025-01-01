@@ -1,0 +1,3 @@
+72. § (1) A prevenciós célú eszközök alkalmazása és ezirányú szolgáltatások nyújtása (a továbbiakban: prevenciós eszközök) során a Központ kellő gondossággal eljárva köteles az érintett elektronikus információs rendszer által nyújtott szolgáltatásoknak a feltétlenül szükségesnél nem nagyobb mértékű korlátozására, és a prevenciós eszközöknek a szolgáltatás szempontjából nem kritikus időszakban történő alkalmazására.
+
+(2) Az érintett szervezet köteles a prevenciós eszközök alkalmazásához szükséges adatokat, dokumentumokat, eszközöket és egyéb információkat a Központ rendelkezésére bocsátani, valamint tűrni a prevenciós eszközök alkalmazásából fakadó, az érintett elektronikus információs rendszeren bekövetkezett szolgáltatáscsökkenést, illetve -kiesést.

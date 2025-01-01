@@ -1,0 +1,1 @@
+28. § Az azonosított alapvető vagy fontos szervezet soron kívül bejelenti a nemzeti kiberbiztonsági hatóság részére, ha a működési körülményeiben olyan változás áll be, amely befolyásolja vagy befolyásolhatja az alapvető vagy fontos szervezeti státuszát.
