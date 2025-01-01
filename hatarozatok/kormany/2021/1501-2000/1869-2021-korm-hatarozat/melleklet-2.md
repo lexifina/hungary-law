@@ -134,6 +134,6 @@
 
 | 67. | Mórahalom Város Önkormányzata vízrendezési feladatainak támogatása | 103 100 000 | Öntözővíz, csapadékvíz és termálvíz elvezetésének megoldása |
 
-2. melléklet az 1869/2021. (XII. 3.) Korm. határozathoz[^2]
+2. melléklet az 1869/2021. (XII. 3.) Korm. határozathoz[^4]
 
-[^2]: A 2. melléklet az 1428/2022. (IX. 5.) Korm. határozat 3. pont c) pontja szerint módosított szöveg.
+[^4]: A 2. melléklet az 1428/2022. (IX. 5.) Korm. határozat 3. pont c) pontja szerint módosított szöveg.
