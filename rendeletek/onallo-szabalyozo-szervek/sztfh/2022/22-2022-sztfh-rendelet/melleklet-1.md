@@ -46,11 +46,15 @@ A bányászatban műszaki biztonsági szempontból jelentős munkakörök betöl
 
 | 21. | alapfokú bányászati, gépész vagy villamos | 5 év |
 
-| 22. | Gépészeti felügyelet | felső- vagy középfokú gépész vagy villamos | 1 év |
+| 22.[^8] | Gépészeti felügyelet | felső- vagy középfokú gépész vagy villamos | 1 év |
 
-| 23. | Villamos felügyelet | felső- vagy középfokú villamos | 1 év |
+| 22a.[^9] | alapfokú gépész vagy villamos | 5 év |
 
-| 24. | felsőfokú gépész | 2 év |
+| 23.[^10] | Villamos felügyelet | felső- vagy középfokú villamos | 1 év |
+
+| 24.[^11] | felsőfokú gépész | 2 év |
+
+| 24a.[^12] | alapfokú villamos | 5 év |
 
 | 25. | Kőolaj- és földgázbányászatban és a földalatti gáztárolásban |  |  |
 
@@ -69,3 +73,8 @@ A bányászatban műszaki biztonsági szempontból jelentős munkakörök betöl
 | 32. | szakirányú középfokú | 10 év |
 
 [^7]: Az 1. melléklet a 3/2024. (V. 9.) SZTFH rendelet 11. §-ával megállapított szöveg.
+[^8]: Az 1. mellékletben foglalt táblázat 22. sora a 19/2024. (XII. 30.) SZTFH rendelet 24. §-ával megállapított szöveg.
+[^9]: Az 1. mellékletben foglalt táblázat 22a. sorát a 19/2024. (XII. 30.) SZTFH rendelet 24. §-a iktatta be.
+[^10]: Az 1. mellékletben foglalt táblázat 23. sora a 19/2024. (XII. 30.) SZTFH rendelet 24. §-ával megállapított szöveg.
+[^11]: Az 1. mellékletben foglalt táblázat 24. sora a 19/2024. (XII. 30.) SZTFH rendelet 24. §-ával megállapított szöveg.
+[^12]: Az 1. mellékletben foglalt táblázat 24a. sorát a 19/2024. (XII. 30.) SZTFH rendelet 24. §-a iktatta be.
