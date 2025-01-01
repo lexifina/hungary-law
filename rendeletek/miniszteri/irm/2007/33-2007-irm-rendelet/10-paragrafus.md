@@ -4,10 +4,10 @@
 
 a) tisztségviselői megbízatásának időtartama lejár,
 
-b)[^6] tisztségviselői megbízatását a miniszter – a szakértői testület elnöke vagy elnökhelyettese esetén a szakértői testület szakterületének ágazati irányításáért felelős miniszterrel egyetértésben – visszavonja,
+b)[^7] tisztségviselői megbízatását a miniszter – a szakértői testület elnöke vagy elnökhelyettese esetén a szakértői testület szakterületének ágazati irányításáért felelős miniszterrel egyetértésben – visszavonja,
 
 c) tisztségviselői megbízatásáról lemond,
 
 d) testületi tagságára vonatkozó megbízatása a 6. §-ban foglaltak alapján megszűnik.
 
-[^6]: A 10. § b) pontja a 35/2017. (XII. 27.) IM rendelet 6. §-ával megállapított szöveg.
+[^7]: A 10. § b) pontja a 35/2017. (XII. 27.) IM rendelet 6. §-ával megállapított szöveg.
