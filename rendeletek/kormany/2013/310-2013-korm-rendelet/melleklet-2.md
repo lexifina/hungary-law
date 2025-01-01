@@ -110,6 +110,8 @@ c) a fejlesztést vagy felszámolást, illetve utógondozást igénylő hulladé
 
 2.2.5. Be kell mutatni a tervezési területre vonatkozó célok megvalósításával és a célok meg nem valósításával járó környezeti, társadalmi és gazdasági hatásokat.
 
+2.2.6.[^14] Be kell mutatni az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alap Pluszra, a Kohéziós Alapra, az Igazságos Átmenet Alapra és az Európai Tengerügyi, Halászati és Akvakultúra-alapra vonatkozó közös rendelkezések, valamint az előbbiekre és a Menekültügyi, Migrációs és Integrációs Alapra, a Belső Biztonsági Alapra és a határigazgatás és a vízumpolitika pénzügyi támogatására szolgáló eszközre vonatkozó pénzügyi szabályok megállapításáról szóló, 2021. június 24-i (EU) 2021/1060 európai parlamenti és tanácsi rendelet 15. cikkében foglaltak szerint a IV. mellékletben meghatározott 2.6. Naprakész hulladékgazdálkodás-tervezés megnevezésű tematikus feljogosító feltételnek történő megfelelést.
+
 2.3. A cselekvési program:
 
 2.3.1. A hulladék kezelésének racionalizálása és hatékonyságának növelése érdekében meg kell határozni:
@@ -137,3 +139,4 @@ A hulladékgazdálkodási terven belül a megelőzési program önálló szerkez
 Az összefoglalásban be kell mutatni a tervezési időszak alatt várható eredményeket, valamint a hulladékgazdálkodás további fejlesztésének lehetőségeit.
 
 [^13]: A 2. melléklet a 158/2021. (III. 31.) Korm. rendelet 13. § (1) bekezdése, a 675/2023. (XII. 29.) Korm. rendelet 8. §-a szerint módosított szöveg.
+[^14]: A 2. melléklet 2. pont 2.2.6. alpontját a 465/2024. (XII. 30.) Korm. rendelet 14. §-a iktatta be.
