@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-45-00-00
 | 2022-02-01 | 2021. évi CLI. törvény | 2020-45-00-00.3 |
 | 2022-09-01 | 2022. évi XIII. törvény | 2020-45-00-00.4 |
 | 2023-12-01 | 2023. évi LXXXIII. törvény | 2020-45-00-00.5 |
+| 2025-01-01 | 2024. évi LV. törvény | 2020-45-00-00.6 |

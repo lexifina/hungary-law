@@ -2,17 +2,7 @@
 
 1. § E törvény alkalmazásában:
 
-1. kiskereskedelmi tevékenység: a 2020. január 1-jén hatályos Gazdasági Tevékenységek Egységes Osztályozási Rendszere szerint
-
-a) a 45.1 ágazatba – ide nem értve a gépjármű, pótkocsi nagykereskedelmét –,
-
-b) a 45.32 ágazatba,
-
-c) a 45.40 ágazatba – ide nem értve a motorkerékpár javítását, nagykereskedelmét –, továbbá
-
-d) a 47.1–47.9 ágazatokba
-
-sorolt azon tevékenységek, melyek folytatása esetén a vevő magánszemély is lehet;
+1. kiskereskedelmi tevékenység: a 2025. január 1-jén hatályos Gazdasági Tevékenységek Egységes Osztályozási Rendszere (TEÁOR’25) szerint a 47.1–47.9 alágazatokba sorolt azon tevékenységek, amelyek folytatása esetén a vevő magánszemély is lehet;
 
 2. nettó árbevétel:
 
@@ -24,4 +14,10 @@ c) a kisadózó vállalkozók tételes adójáról szóló törvény szerinti ki
 
 d) a személyi jövedelemadóról szóló törvény hatálya alá tartozó adóalany esetében a személyi jövedelemadóról szóló törvény szerinti általános forgalmi adó nélküli bevétel,
 
-e) a 2. § szerinti tevékenységét nem fióktelep útján kifejtő külföldi illetőségű személy vagy szervezet esetén a belföldön átadott áru értékesítéséből származó általános forgalmi adó nélküli ellenérték.
+e) a 2. § (1) bekezdése szerinti tevékenységét nem fióktelep útján kifejtő külföldi illetőségű személy vagy szervezet esetén a belföldön és külföldön átadott áru értékesítéséből származó általános forgalmi adó nélküli ellenérték.
+
+3. platform: az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény 5. melléklet I/A/1. pontja szerinti platform;
+
+4. platformüzemeltető: az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény 5. melléklet I/A/2. pontja szerinti platformüzemeltető;
+
+5. adómértéket megállapító rendelkezés: a 6. § (1) bekezdése és az extraprofit adókról szóló 197/2022. (VI. 4.) Korm. rendelet 21. § (3) bekezdése.
