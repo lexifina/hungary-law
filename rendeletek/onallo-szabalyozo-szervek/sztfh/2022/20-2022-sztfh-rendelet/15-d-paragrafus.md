@@ -14,12 +14,12 @@ f) az engedélyezni kért szerződéses időtartamot és annak indokolását és
 
 g) a hasznosított termálvíz visszasajtolásának módját és mértékét.
 
-(2)[^55] A bányavállalkozó az (1) bekezdés szerinti kérelemhez mellékeli a Bt. 21/C. § (2) bekezdés a) pontja szerinti jognyilatkozatot.
+(2)[^71] A bányavállalkozó az (1) bekezdés szerinti kérelemhez mellékeli a Bt. 21/C. § (2) bekezdés a) pontja szerinti jognyilatkozatot.
 
-(3)[^56]
+(3)[^72] A bányavállalkozó az (1) bekezdés szerinti kérelemhez mellékeli a biztosítékadásra vonatkozó ajánlatát, és az ajánlatát alátámasztó költségtervet a 41. § (3) bekezdése szerinti tartalommal.
 
-(4)[^57] Ha a bányavállalkozó a Bt. 21/C. § (1) bekezdése szerinti határidőn belül az (1) bekezdés szerinti kérelmet nem nyújtja be, vagy a bányafelügyelet a Bt. 21/C. § (2) bekezdése szerinti feltételek teljesülése hiányában végleges döntésével elutasítja az (1) bekezdés szerinti kérelmet, a bányafelügyelet a kijelölt geotermikus védőidomot törli a nyilvántartásából.
+(4)[^73] Ha a bányavállalkozó a Bt. 21/C. § (1) bekezdése szerinti határidőn belül az (1) bekezdés szerinti kérelmet nem nyújtja be, vagy a bányafelügyelet a Bt. 21/C. § (2) bekezdése szerinti feltételek teljesülése hiányában végleges döntésével elutasítja az (1) bekezdés szerinti kérelmet, a bányafelügyelet a kijelölt geotermikus védőidomot törli a nyilvántartásából.
 
-[^55]: A 15/D. § (2) bekezdése a 25/2023. (XII. 22.) SZTFH rendelet 11. § b) pontja szerint módosított szöveg.
-[^56]: A 15/D. § (3) bekezdését a 25/2023. (XII. 22.) SZTFH rendelet 11. § c) pontja hatályon kívül helyezte.
-[^57]: A 15/D. § (4) bekezdése a 25/2023. (XII. 22.) SZTFH rendelet 10. § d) pontja szerint módosított szöveg.
+[^71]: A 15/D. § (2) bekezdése a 25/2023. (XII. 22.) SZTFH rendelet 11. § b) pontja szerint módosított szöveg.
+[^72]: A 15/D. § (3) bekezdését a 25/2023. (XII. 22.) SZTFH rendelet 11. § c) pontja hatályon kívül helyezte, újonnan a 19/2024. (XII. 30.) SZTFH rendelet 9. §-a iktatta be.
+[^73]: A 15/D. § (4) bekezdése a 25/2023. (XII. 22.) SZTFH rendelet 10. § d) pontja szerint módosított szöveg.

@@ -4,11 +4,18 @@
 
 (2) A bányatérkép hitelesítését hites bányamérő végezheti. A hites bányamérő felügyeli a bányamérést, a bányaműveletekkel, a bányakárokkal és a bányászati tevékenységet követő tájrendezéssel kapcsolatos, a bányavállalkozót terhelő mérési feladatok ellátását.
 
-(3) A hites bányamérő szakmai feladatát önállóan, egyéni felelősséggel látja el, tevékenységét a bányafelügyelet ellenőrzi. Ha a hites bányamérő tevékenysége során jogosulatlan vagy szabálytalan bányászati tevékenység végzésre vonatkozó adat birtokába kerül, köteles azt a bányafelügyelettel haladéktalanul közölni.
+(3)[^141] A hites bányamérő szakmai feladatát önállóan, egyéni felelősséggel látja el, tevékenységét a bányafelügyelet ellenőrzi. Tevékenysége során a bányavállalkozó nem utasíthatja.
 
-(4)[^102]
+(4)[^142] A hites bányamérő a bányafelügyeletet nyolc napon belül tájékoztatja, ha a bányatérkép hitelesítése során megállapítja, hogy
 
-(5)[^103]
+a) a bányaműveletekkel védőpillért fejtettek el, és a bányavállalkozó erre nem rendelkezett bányafelügyeleti engedéllyel,
 
-[^102]: A 39. § (4) bekezdését a 21/2023. (XI. 9.) SZTFH rendelet 4. § e) pontja hatályon kívül helyezte.
-[^103]: A 39. § (5) bekezdését a 21/2023. (XI. 9.) SZTFH rendelet 4. § e) pontja hatályon kívül helyezte.
+b) a bányatelken kívül a bányavállalkozó kitermelési tevékenységet végzett,
+
+c) a bányaüzemen kívül a bányavállalkozó bányászati tevékenységet vagy a bányászati tevékenységhez közvetlenül kapcsolódó tevékenységet végzett.
+
+(5)[^143]
+
+[^141]: A 39. § (3) bekezdése a 19/2024. (XII. 30.) SZTFH rendelet 18. §-ával megállapított szöveg.
+[^142]: A 39. § (4) bekezdését a 21/2023. (XI. 9.) SZTFH rendelet 4. § e) pontja hatályon kívül helyezte, újonnan a 19/2024. (XII. 30.) SZTFH rendelet 18. §-a iktatta be.
+[^143]: A 39. § (5) bekezdését a 21/2023. (XI. 9.) SZTFH rendelet 4. § e) pontja hatályon kívül helyezte.

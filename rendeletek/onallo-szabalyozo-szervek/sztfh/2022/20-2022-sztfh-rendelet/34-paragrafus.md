@@ -1,6 +1,6 @@
 ## 15. A kitermelés szüneteltetése
 
-34. § (1)[^86] Szüneteltetésre vonatkozó műszaki üzemi terv legfeljebb 3 év időtartamra hagyható jóvá.
+34. § (1)[^119] Szüneteltetésre vonatkozó műszaki üzemi terv legfeljebb 3 év időtartamra hagyható jóvá. A kitermelés szüneteltetése összesen hat évig engedélyezhető. A hatéves időtartam meghatározásánál a bányafelügyeleti engedély nélkül történő szüneteltetések időtartamát is figyelembe kell venni.
 
 (2) A szüneteltetésre kidolgozott műszaki üzemi terv tartalmazza
 
@@ -20,8 +20,9 @@ g) a szüneteltetés időszakában felhagyásra tervezett bányatérségek felha
 
 h) a Szabályozott Tevékenységek Felügyeleti Hatósága elnökének a bányatérképek méretarányára és tartalmára vonatkozó Bányabiztonsági Szabályzatról szóló rendeletében meghatározott térképeket.
 
-(3) Ha a bányavállalkozó a szüneteltetés időtartama alatt – a kitermelés kivételével – olyan tevékenységet kíván folytatni, amely idegen ingatlan igénybevételével jár, a 30. § (12) bekezdése szerinti, az idegen ingatlan igénybevételére vonatkozó jogosultságot igazoló okiratot a kérelemhez mellékeli.
+(3)[^120] Ha a bányavállalkozó a szüneteltetés időtartama alatt – a kitermelés kivételével – olyan tevékenységet kíván folytatni, amely idegen ingatlan igénybevételével jár, a 30. § (12) bekezdése szerinti, az idegen ingatlan igénybevételére vonatkozó jogosultságot igazoló okiratot a kérelemhez mellékeli. Nem számít ingatlan igénybevételnek a jogszabályban előírt ellenőrzési kötelezettségek teljesítése vagy a biztonságellenes állapot megszüntetéséhez szükséges intézkedések megtétele.
 
 (4) A szüneteltetés után a kitermelés, vagy a bányabezárás és tájrendezés csak az erre vonatkozó, a bányafelügyelet által jóváhagyott műszaki üzemi terv alapján kezdhető meg.
 
-[^86]: A 34. § (1) bekezdése a 4/2024. (V. 31.) SZTFH rendelet 8. §-ával megállapított szöveg.
+[^119]: A 34. § (1) bekezdése a 4/2024. (V. 31.) SZTFH rendelet 8. §-ával megállapított, a 19/2024. (XII. 30.) SZTFH rendelet 22. § k) pontja szerint módosított szöveg.
+[^120]: A 34. § (3) bekezdése a 19/2024. (XII. 30.) SZTFH rendelet 14. §-ával megállapított szöveg.

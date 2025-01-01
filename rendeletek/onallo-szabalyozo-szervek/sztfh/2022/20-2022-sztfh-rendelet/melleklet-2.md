@@ -2,7 +2,7 @@
 
 ## Fogalommeghatározások
 
-## I. Általános az ENSZ Vagyon Osztályozási Keretrendszere (UNFC 2020) szerint:
+## I.[^164] Általános kategóriák az ENSZ Vagyon Osztályozási Keretrendszere (UNFC 2019) szerint:
 
 ## 1. UNFC 221 osztály: E2: A fejlesztés és a működtetés környezeti, társadalmi, illetve gazdasági megfontolásokból életképes lesz a közeljövőben; F2: A technikai megvalósíthatósága a fejlesztési projektnek további értékelés tárgyát képezi; G1: A projekthez tartozó termék (ásványi nyersanyag) magas szintű bizonyossággal becsülhető.
 
@@ -12,17 +12,15 @@
 
 ## 4. UNFC 111 osztály: E1: A fejlesztés és a működtetés környezeti, társadalmi, illetve gazdasági megfontolásokból igazoltan életképes; F1: A technikai megvalósíthatósága a fejlesztési projektnek igazolt; G1: A projekthez tartozó termék (ásványi nyersanyag) magas szintű bizonyossággal becsülhető.
 
-## II. Szénhidrogének vonatkozásában alkalmazott kategóriák az SPE PRMS (2018) szabvánnyal és UNFC (2020) ENSZ osztályozási keretrendszerrel összefüggésben:
+## II.[^165] A szénhidrogén- és szén-dioxidvagyon mennyiségi meghatározásának bizonytalanságát kifejező kategóriák:
 
-## 1. A becsült vagyon mennyiségi meghatározásának bizonytalanságát fejezik ki.
+## 1. P90 vagy LE: alacsony bizonytalanságú, konzervatív becslés az ásványvagyon mennyiségére (LE – low estimate). Valószínűségi becslés esetén legalább 90% a valószínűsége, hogy a meghatározott vagyon mennyisége a megadott érték, vagy több; jelölése P90.
 
-## 1.1. 1P: Bizonyított készlet: alacsony bizonytalanságú, konzervatív becslés a vagyon mennyiségére. Valószínűségi becslés esetén legalább 90% a valószínűsége, hogy a meghatározott vagyon mennyisége a megadott érték, vagy több. Feltételes vagyon esetén jelölése 1C. Megfelel a UNFC osztályozás szerinti G1 kategóriának.
+## 2. P50 vagy BE: közepes bizonytalanságú (legjobb) becslés az ásványvagyon mennyiségére (BE – best estimate). Valószínűségi becslés esetén legalább 50% a valószínűsége, hogy a meghatározott ásványvagyon mennyisége a megadott érték; jelölése P50.
 
-## 1.2. 2P: Bizonyított + valószínű készlet: legjobb becslés a vagyon mennyiségére. Valószínűségi becslés esetén legalább 50% a valószínűsége, hogy a meghatározott vagyon mennyisége a megadott érték, vagy több. Feltételes vagyon esetében jelölése 2C. Megfelel a UNFC osztályozás szerinti G1+G2 kategóriának.
+## 3. P10 vagy HE: magas bizonytalanságú, optimista becslés az ásványvagyon mennyiségére (HE – high estimate). Valószínűségi becslés esetén legalább 10% a valószínűsége, hogy a meghatározott ásványvagyon mennyisége a megadott érték; jelölése P10.
 
-## 1.3. 3P: Bizonyított + valószínű + lehetséges készlet: magas bizonytalanságú, optimista becslés a vagyon mennyiségére. Valószínűségi becslés esetén legalább 10% a valószínűsége, hogy a meghatározott vagyon mennyisége a megadott érték, vagy több. Feltételes vagyon esetében jelölése 3C. Megfelel a UNFC osztályozás szerinti G1+G2+G3 kategóriának.
-
-## III. Szilárd ásványi nyersanyagok ismeretességi kategóriái (CRIRSCO 2019) szerint:
+## III.[^166] Szilárd ásványi nyersanyagok ismeretességi kategóriái a CRIRSCO (2019) nemzetközi jelentéstételi szabvány szerint:
 
 ## 1. Szilárd földtani ásványi nyersanyagvagyon (Mineral Resource): A földtani ásványvagyon a földkéregben vagy annak felszínén található, gazdasági értéket hordozó olyan szilárd anyagkoncentráció vagy előfordulás, melynek ismeretessége (formája, mennyisége és minősége) reális kilátást nyújt a jövőbeli gazdaságos kitermelésre. A földtani ásványi nyersanyagvagyon helyzete, mennyisége, minősége, térbeli folyamatossága és egyéb geológiai jellemzői konkrét földtani tények és ismeretek (pl. mintázás) alapján ismertek, becsültek, vagy következtetettek. A növekvő bizonyosság szerint a szilárd földtani ásványi nyersanyagvagyon következtetett, felderített és megkutatott kategóriákba sorolható. A szilárd földtani ásványi nyersanyagvagyon megfelel a Bt. 49. § 30. pontjában foglalt földtani ásványvagyon definíciónak.
 
@@ -40,7 +38,7 @@
 
 ## Bizonyított szilárd ásványi nyersanyagkészlet (bizonyított ipari vagyon) (Proved Mineral Reserve): A bizonyított ásványi nyersanyagkészlet a megkutatott ásványvagyon gazdaságosan kitermelhető része. A bizonyított nyersanyagkészlet a módosító tényezők magas ismeretességi szintjét jelenti.
 
-## IV. Szilárd ásványi nyersanyagok vonatkozásában alkalmazott kategóriák harmonizációja a CRIRSCO (2019) nemzetközi jelentéstételi szabvány és ENSZ (UNFC 2020) osztályozási keretrendszerrel:
+## IV.[^167] Szilárd ásványi nyersanyagok vonatkozásában alkalmazott kategóriák harmonizációja a CRIRSCO (2019) nemzetközi jelentéstételi szabvány és ENSZ (UNFC 2019) osztályozási keretrendszerrel:
 
 ## 1. „A” kategória: Az ásványi nyersanyagtestek geometriája (hely, forma, méret, települési viszonyok), belső változékonysága, meddő betelepülések, töréses elmozdulások geometriája részletesen ismert és kontúrozott. Az ásványi nyersanyag természeti és technológiai típusai és minőségi fajtái, hasznos és káros komponensei részletesen – a komplex feldolgozási törzsfa megtervezéséhez elegendő részletességgel – ismertek és a számbavételi kondíciók szerint jellemzésre kerültek. A hidrogeológiai, mérnök-geológiai (geotechnikai), bányaföldtani és egyéb természeti feltételek olyan részletességgel ismertek, amely biztosítja a lelőhely leművelésének tervezéséhez szükséges alapadatokat. Az ásványi nyersanyag földtani, illetve ipari vagyon (készlet) kontúrozását fúrások és bányászati (beleértve a fejtéselőkészítő-) létesítmények mentén a számbavételi kondíciós követelmények alapján – extrapoláció nélkül – végezték el.
 
@@ -68,8 +66,12 @@
 
 ## – nagyon zavart, különösen inhomogén: ≥160 db/km2.
 
-2. melléklet a 20/2022. (I. 31.) SZTFH rendelethez[^123]
+2. melléklet a 20/2022. (I. 31.) SZTFH rendelethez[^168]
 
 A kutatási zárójelentés tartalma
 
-[^123]: A 2. melléklet a 6/2023. (II. 28.) SZTFH rendelet 5. §-ával megállapított szöveg.
+[^164]: Az 1. melléklet I. pontja a 19/2024. (XII. 30.) SZTFH rendelet 22. § o) pontja szerint módosított szöveg.
+[^165]: Az 1. melléklet II. pontja a 19/2024. (XII. 30.) SZTFH rendelet 21. §-ával megállapított szöveg.
+[^166]: Az 1. melléklet III. pontja a 19/2024. (XII. 30.) SZTFH rendelet 22. § p) pontja szerint módosított szöveg.
+[^167]: Az 1. melléklet IV. pontja a 19/2024. (XII. 30.) SZTFH rendelet 22. § q) pontja szerint módosított szöveg.
+[^168]: A 2. melléklet a 6/2023. (II. 28.) SZTFH rendelet 5. §-ával megállapított szöveg.

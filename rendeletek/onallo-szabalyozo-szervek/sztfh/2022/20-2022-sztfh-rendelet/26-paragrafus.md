@@ -12,19 +12,19 @@ ac) közigazgatási megjelölését az érintett települések megnevezésével,
 
 ad) határvonalának töréspontjait EOV-ban, a töréspontoknál a terep, a fedő- és alapsík tengerszint feletti magasságát Balti magassági rendszerben és a bányatelek területét m2-ben,
 
-b) a bányatelekben található ásványi nyersanyagok mennyiségét földtani ásványvagyonra és kitermelhető ásványvagyonra, valamint az 1. melléklet IV. pontja szerinti ismeretességi kategóriákra bontva, ezek haszonanyagként vagy meddőanyagként történő besorolását,
+b)[^89] a bányatelekben található ásványi nyersanyagok telepenkénti, készletszámítási tömbönkénti és összesített mennyiségét földtani ásványvagyonra és kitermelhető ásványvagyonra, valamint szénhidrogének és szén-dioxid esetében az 1. melléklet II. pontja szerinti bizonytalansági kategóriákra, illetve szilárd ásványi nyersanyagok esetében az 1. melléklet IV. pontja szerinti ismeretességi kategóriákra bontva, ezek haszonanyagként vagy meddőanyagként történő besorolását,
 
 c) védendő létesítményenként, területenként a védő- és határpillérek kijelölését, a védősáv méretét, a határszöget,
 
 d) az alkalmazni tervezett bányaművelési technológiát,
 
-e)[^67]
+e)[^90]
 
-f) külfejtésre tervezett bányatelek esetében az ingatlan igénybevételi ütemtervről szóló döntést,
+f)[^91] külfejtésre tervezett bányatelek esetében az ingatlan igénybevételi ütemtervről szóló döntést, és
 
-g) az elfogadott újrahasznosítási célt és
+g)[^92] az elfogadott újrahasznosítási célt.
 
-h) külfejtésre tervezett bányatelek esetében az elfogadott tájrendezési előterv alapján meghatározható követelményeket.
+h)[^93]
 
 (3) A bányatelket megállapító határozat tartalmazza a haszonanyagként meghatározott ásványi nyersanyagnak az ásványi nyersanyagok és a geotermikus energia fajlagos értékének, valamint az értékszámítás módjának meghatározásáról szóló kormányrendeletben meghatározott alcsoport, ennek hiányában csoport szerinti megnevezését.
 
@@ -42,13 +42,15 @@ c) annak a haszonanyagként meghatározott ásványi nyersanyagnak az ásványi 
 
 (7) Ha a bányatelek megállapítása építőipari nyers- és alapanyagra irányul, a bányatelek által lehatárolt térrészben előforduló valamennyi építőipari nyers- és alapanyagot haszonanyagként kell besorolni.
 
-(8) A véglegessé vált határozatot és a megállapított bányatelek térképét a bányafelügyelet záradékkal ellátva megküldi a kérelmezőnek, valamint szilárd ásványi nyersanyagra megállapított bányatelek esetén az ingatlanügyi hatóságnak, a bányatelek mint jogi jelleg ingatlan-nyilvántartásba történő feljegyzése céljából. Ha a megállapított bányatelek nem az egész ingatlant érinti, a határozathoz a bányafelügyelet mellékeli az ingatlan bányatelekkel érintett részét ábrázoló, közigazgatási határonként egy vagy több ingatlant is tartalmazó, az ingatlanügyi hatóság által záradékolt változási vázrajzot is.
+(8)[^94]
 
-(9)[^68] A bányatelek módosítására irányuló eljárásban a bányatelek megállapítására vonatkozó szabályokat kell alkalmazni. Ha a módosítás a bányatelekben található ásványinyersanyag-besorolásának változtatására irányul, a módosításról az annak alapjául szolgáló földtani szakértő által ellenjegyzett készletszámítási jelentés alapján a bányafelügyelet dönt. A készletszámítási jelentést a 11. § (1) bekezdése, (2) bekezdés f) pontja és a 11. § (3) bekezdés a) és b) pontja szerint kell elkészíteni.
+(9)[^95] A bányatelek módosítására irányuló eljárásban a bányatelek megállapítására vonatkozó szabályokat kell alkalmazni. Ha a módosítás a bányatelekben található ásványinyersanyag-besorolásának változtatására irányul, a módosításról az annak alapjául szolgáló földtani szakértő által ellenjegyzett készletszámítási jelentés alapján a bányafelügyelet dönt. A készletszámítási jelentést a 11. § (1) bekezdése, (2) bekezdés f) pontja és a 11. § (3) bekezdés a) és b) pontja szerint kell elkészíteni.
 
 (10) Bányatelek megosztása esetén a létrejövő bányatelkek védnevében sorszámként a soron következő sorszámokat kell megadni, és a megosztott bányatelket a bányafelügyelet által vezetett nyilvántartásból törölni kell.
 
 (11) Bányatelkek egyesítése esetén a létrejövő új bányatelek védnevében sorszámként a soron következő sorszámot kell megadni, és az egyesítést megelőző bányatelkeket a bányafelügyelet által vezetett nyilvántartásból törölni kell.
+
+(11a)[^96] Csak azonos fedőlappal és alaplappal rendelkező bányatelkeket lehet egyesíteni. Ha az egyesítendő bányatelkek fedőlapja a külszín, akkor az eltérő fedőlapú, de azonos alaplapú bányatelkek is egyesíthetők. Nem egyesíthetők a bányatelkek, ha közöttük lévő bányatelekkel nem érintett térrész tekintetében valamelyik bányatelek bővítését is engedélyezni kellene.
 
 (12) A bányatelket módosító határozat tartalmazza a módosítással érintett bányatelkek tekintetében a kitermelés megkezdésére vonatkozó határidő kezdő napját.
 
@@ -70,8 +72,14 @@ határozat véglegessé válásának napja.
 
 (16) A bányatelek jogosultja a nyilvántartásban szereplő azonosító adatainak változásáról harminc napon belül értesíti a bányafelügyeletet.
 
-(17)[^69]
+(17)[^97] Nem kell módosítani a bányatelket, ha a módosítás a bányatelek jogosítottjának nevét vagy elnevezését és címét vagy székhelyét, a bányatelekkel érintett ingatlanok helyrajzi számát, vagy az ingatlan igénybevételi ütemtervre vonatkozó adatokat érinti. A bányafelügyelet a bányatelek jogosítottja nevének vagy elnevezésének és címének vagy székhelyének módosítását a bányavállalkozó bejelentése vagy hivatalos tudomásszerzés alapján átvezeti a Bt. 26/B. § (3a) bekezdés b) pontja szerinti nyilvántartáson.
 
-[^67]: A 26. § (2) bekezdés e) pontját a 21/2023. (XI. 9.) SZTFH rendelet 4. § c) pontja hatályon kívül helyezte.
-[^68]: A 26. § (9) bekezdése a 21/2023. (XI. 9.) SZTFH rendelet 2. §-ával megállapított szöveg.
-[^69]: A 26. § (17) bekezdését a 21/2023. (XI. 9.) SZTFH rendelet 4. § d) pontja hatályon kívül helyezte.
+[^89]: A 26. § (2) bekezdés b) pontja a 19/2024. (XII. 30.) SZTFH rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^90]: A 26. § (2) bekezdés e) pontját a 21/2023. (XI. 9.) SZTFH rendelet 4. § c) pontja hatályon kívül helyezte.
+[^91]: A 26. § (2) bekezdés f) pontja a 19/2024. (XII. 30.) SZTFH rendelet 22. § e) pontja szerint módosított szöveg.
+[^92]: A 26. § (2) bekezdés g) pontja a 19/2024. (XII. 30.) SZTFH rendelet 22. § f) pontja szerint módosított szöveg.
+[^93]: A 26. § (2) bekezdés h) pontját a 19/2024. (XII. 30.) SZTFH rendelet 23. § k) pontja hatályon kívül helyezte.
+[^94]: A 26. § (8) bekezdését a 19/2024. (XII. 30.) SZTFH rendelet 23. § l) pontja hatályon kívül helyezte.
+[^95]: A 26. § (9) bekezdése a 21/2023. (XI. 9.) SZTFH rendelet 2. §-ával megállapított szöveg.
+[^96]: A 26. § (11a) bekezdését a 19/2024. (XII. 30.) SZTFH rendelet 12. § (2) bekezdése iktatta be.
+[^97]: A 26. § (17) bekezdését a 21/2023. (XI. 9.) SZTFH rendelet 4. § d) pontja hatályon kívül helyezte, újonnan a 19/2024. (XII. 30.) SZTFH rendelet 12. § (3) bekezdése iktatta be.

@@ -14,14 +14,20 @@
 
 6. Geotermikus energia-utánpótlódás: a termelő-visszasajtoló kutak által kialakított vízáramlási és hőtranszport rendszer hatására a földi hőáramból származó energia,
 
-7. Geotermikus védőidom: geotermikus energiahasznosítás céljából a földkéreg lehatárolt része, amelyben adott technológiát alkalmazva a kinyerni tervezett geotermikus energia mennyiség legalább 25 évre biztosított,
+7.[^1]
 
 8. Hasznosított geotermikus energia mennyiség: a kitermelt, +30 °C-ot meghaladó hőmérsékletű energiahordozóból kinyert energiamennyiség energetikai célra hasznosított része,
 
 9. Hidrosztatikus nyomású tároló: olyan föld alatti térrész, amelyben a terep alatti mélységből és átlagosan 1000 kg/m3 vízsűrűségből becsült nyomásértéknél legfeljebb 20 barral nagyobb a nyomás,
 
+9a.[^2] Készletszámítási tömb: a lelőhely azon legkisebb, az ásványi nyersanyag értékét és a kitermelés technikai, technológiai feltételeit meghatározó természeti adottságok, valamint az ismeretességi kategória tekintetében homogénnek tekintett része, amelynek ásványvagyonát önállóan határozzák meg,
+
 10. Kútfej: a bányának, kőolaj- és földgázbányászati üzemnek az első technológiai pontja, ahol a kitermelt, nyers bányatermék (a meddővel és kísérő ásványi nyersanyaggal együtt) a külszínen megjelenik,
 
-11. Mező: a szénhidrogén telepek termeltetésével kapcsolatos bányaüzemi fogalom. Egy vagy több hidrodinamikai kapcsolatban nem álló szénhidrogén tároló réteget vagy telepet tartalmazó földtani térség külszíni vetülete,
+11.[^3]
 
 12. Nagy nyomású tároló: olyan föld alatti térrész, amely a hidrosztatikus nyomású tároló esetében megadott értéknél nagyobb nyomással rendelkezik.
+
+[^1]: Az 1. § 7. pontját a 19/2024. (XII. 30.) SZTFH rendelet 23. § a) pontja hatályon kívül helyezte.
+[^2]: Az 1. § 9a. pontját a 19/2024. (XII. 30.) SZTFH rendelet 7. §-a iktatta be.
+[^3]: Az 1. § 11. pontját a 19/2024. (XII. 30.) SZTFH rendelet 23. § b) pontja hatályon kívül helyezte.

@@ -8,15 +8,15 @@ c) a kinyerés tervezett időtartamát.
 
 (2) Vízügyi igazgatósági vagyonkezelésben lévő vizek érintettsége esetén a kérelmező a kérelemhez mellékeli a vízügyi igazgatóságnak a vízgazdálkodási hatósági jogkör gyakorlásáról szóló kormányrendelet 1/J. §-a szerinti vagyonkezelői hozzájárulását, ha a 12. § (1) bekezdése szerinti kérelemhez mellékelt vagyonkezelői hozzájárulásban a vízügyi igazgatóság nem tudott teljes körű nyilatkozatot adni.
 
-(2a)[^49] A bányavállalkozó az (1) bekezdés szerinti kérelemhez mellékeli a Bt. 21/B. § (3a) bekezdése szerinti jognyilatkozatot vagy szándéknyilatkozatot.
+(2a)[^64] A bányavállalkozó az (1) bekezdés szerinti kérelemhez mellékeli a Bt. 21/B. § (3a) bekezdése szerinti jognyilatkozatot vagy szándéknyilatkozatot.
 
 (3) A geotermikus védőidomra az elfogadott kutatási zárójelentésben lévő és a kérelemben megadott adatokra és információkra alapozottan a bányavállalkozó javaslatot tesz.
 
 (4) A bányavállalkozó geotermikus védőidomra vonatkozó javaslatát a bányafelügyelet ellenőrzi, és a geotermikus védőidomot ennek figyelembevételével jelöli ki.
 
-(5)[^50] A bányafelügyelet – a Bt. 21/B. § (3a) bekezdése szerinti feltételek teljesülése esetén – a geotermikus védőidomot az (1) bekezdés szerinti kérelemtől eltérően kisebb térrészre is kijelölheti, ha a kutatási zárójelentés szerinti és egyéb földtani-geofizikai-hidrogeológiai-vízgeokémiai és izotóphidrológiai adatok alapján indokolt.
+(5)[^65] A bányafelügyelet – a Bt. 21/B. § (3a) bekezdése szerinti feltételek teljesülése esetén – a geotermikus védőidomot az (1) bekezdés szerinti kérelemtől eltérően kisebb térrészre is kijelölheti, ha a kutatási zárójelentés szerinti és egyéb földtani-geofizikai-hidrogeológiai-vízgeokémiai és izotóphidrológiai adatok alapján indokolt.
 
-(5a)[^51] A bányafelügyelet a geotermikus védőidomot annál a hatástávolságnál jelöli ki, ahol
+(5a)[^66] A bányafelügyelet a geotermikus védőidomot annál a hatástávolságnál jelöli ki, ahol
 
 a) hidrosztatikus nyomású tároló esetében
 
@@ -26,20 +26,20 @@ ab) ha természetes kifolyása van a víztestnek, a víztermelő és besajtoló 
 
 b) nagy nyomású tároló esetében a víztermelő és besajtoló kutak tekintetében a 25 éves időtartamhoz tartozó állapotban a hőmérséklet-változás kisebb, mint 1 °C, vagy az állandósult állapotú termeléshez tartozó nyomásváltozás kisebb, mint 1 bar.
 
-(5b)[^52] Ha az (5a) bekezdés a) pont aa) alpontja vagy b) pontja szerinti számítás alapján a hőmérséklet-változás és nyomásváltozás szerint számított térrészek metszik egymást, a bányafelügyelet számított térrészek közös burkolófelületénél jelöli ki a geotermikus védőidomot.
+(5b)[^67] Ha az (5a) bekezdés a) pont aa) alpontja vagy b) pontja szerinti számítás alapján a hőmérséklet-változás és nyomásváltozás szerint számított térrészek metszik egymást, a bányafelügyelet számított térrészek közös burkolófelületénél jelöli ki a geotermikus védőidomot.
 
 (6) A visszasajtolás nélküli víztermelés esetén védőidomként az a kutatási területen belül elhelyezkedő térrész jelölhető ki, amelynek esetében a 25 éves időtartamhoz tartozó állandósult állapotú termeléshez tartozó nyomásváltozás kisebb, mint 0,2 bar a védőidom kontúrja mentén.
 
 (7) A geotermikus védőidomot megállapító határozat – az általános közigazgatási rendtartásról szóló törvényben előírtakon túl – tartalmazza
 
-a)[^53] a geotermikus védőidom egyértelmű meghatározásához szükséges EOV rendszer szerinti koordinátákkal történő lehatárolását,
+a)[^68] a geotermikus védőidom egyértelmű meghatározásához szükséges EOV rendszer szerinti koordinátákkal történő lehatárolását,
 
 b) a geotermikus védőidomon belüli létesítményeket és
 
 c) a Bt. 21/B. § (4) bekezdésében foglaltakat.
 
-[^49]: A 15/A. § (2a) bekezdését a 25/2023. (XII. 22.) SZTFH rendelet 6. §-a iktatta be.
-[^50]: A 15/A. § (5) bekezdése a 4/2024. (V. 31.) SZTFH rendelet 5. §-ával megállapított szöveg.
-[^51]: A 15/A. § (5a) bekezdését a 4/2024. (V. 31.) SZTFH rendelet 5. §-a iktatta be.
-[^52]: A 15/A. § (5b) bekezdését a 4/2024. (V. 31.) SZTFH rendelet 5. §-a iktatta be.
-[^53]: A 15/A. § (7) bekezdés a) pontja a 25/2023. (XII. 22.) SZTFH rendelet 10. § c) pontja szerint módosított szöveg.
+[^64]: A 15/A. § (2a) bekezdését a 25/2023. (XII. 22.) SZTFH rendelet 6. §-a iktatta be.
+[^65]: A 15/A. § (5) bekezdése a 4/2024. (V. 31.) SZTFH rendelet 5. §-ával megállapított szöveg.
+[^66]: A 15/A. § (5a) bekezdését a 4/2024. (V. 31.) SZTFH rendelet 5. §-a iktatta be.
+[^67]: A 15/A. § (5b) bekezdését a 4/2024. (V. 31.) SZTFH rendelet 5. §-a iktatta be.
+[^68]: A 15/A. § (7) bekezdés a) pontja a 25/2023. (XII. 22.) SZTFH rendelet 10. § c) pontja szerint módosított szöveg.

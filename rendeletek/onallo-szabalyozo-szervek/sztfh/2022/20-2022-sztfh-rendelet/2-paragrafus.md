@@ -28,11 +28,11 @@ f) az előkutatással összefüggésben várható károk rendezésére, a körny
 
 a) az előkutatás a megismerni kívánt ásványi nyersanyag vonatkozásában zárt területet érint,
 
-b)[^1] a bejelentés olyan területre (térrészre) vonatkozik, amely tekintetében a bányafelügyelet a bejelentés benyújtása előtt a bejelentőnek már megtiltotta az előkutatás folytatását,
+b)[^4] a bejelentés olyan területre (térrészre) vonatkozik, amely tekintetében a bányafelügyelet a bejelentés benyújtása előtt a bejelentőnek már megtiltotta az előkutatás folytatását,
 
-c)[^2] a magyar állam tulajdonosi jogait gyakorló szerv bejelentése megfelel a jogszabályi előírásoknak, vagy
+c)[^5] a magyar állam tulajdonosi jogait gyakorló szerv bejelentése megfelel a jogszabályi előírásoknak, vagy
 
-d)[^3] a bejelentő a bejelentés elfogadását követően az előkutatásra vonatkozó jogszabályi előírásoknak nem felel meg.
+d)[^6] a bejelentő a bejelentés elfogadását követően az előkutatásra vonatkozó jogszabályi előírásoknak nem felel meg.
 
 (8) Ha a magyar állam tulajdonosi jogait gyakorló szerv bejelentése megfelel a jogszabályi előírásoknak, a bányafelügyelet az azonos térrészre vonatkozó további bejelentést tevőnek a kutatási tevékenység folytatását megtiltja.
 
@@ -40,9 +40,9 @@ d)[^3] a bejelentő a bejelentés elfogadását követően az előkutatásra von
 
 (10) Az előkutatás során nyert földtani adatokat a bányafelügyelet részére meg kell küldeni, az előkutatás befejezését követő 60 napon belül.
 
-(11)[^4] A bejelentő az előkutatás bejelentését a bejelentés megtételét követő 30 napon belül visszavonhatja. A visszavonást a bányafelügyelet tudomásul veszi.
+(11)[^7] A bejelentő az előkutatás bejelentését a bejelentés megtételét követő 30 napon belül visszavonhatja. A visszavonást a bányafelügyelet tudomásul veszi.
 
-[^1]: A 2. § (7) bekezdés b) pontja a 4/2024. (V. 31.) SZTFH rendelet 12. § a) pontja szerint módosított szöveg.
-[^2]: A 2. § (7) bekezdés c) pontja a 4/2024. (V. 31.) SZTFH rendelet 11. § a) pontja szerint módosított szöveg.
-[^3]: A 2. § (7) bekezdés d) pontját a 4/2024. (V. 31.) SZTFH rendelet 4. §-a iktatta be.
-[^4]: A 2. § (11) bekezdését a 40/2022. (XII. 19.) SZTFH rendelet 32. §-a iktatta be.
+[^4]: A 2. § (7) bekezdés b) pontja a 4/2024. (V. 31.) SZTFH rendelet 12. § a) pontja szerint módosított szöveg.
+[^5]: A 2. § (7) bekezdés c) pontja a 4/2024. (V. 31.) SZTFH rendelet 11. § a) pontja szerint módosított szöveg.
+[^6]: A 2. § (7) bekezdés d) pontját a 4/2024. (V. 31.) SZTFH rendelet 4. §-a iktatta be.
+[^7]: A 2. § (11) bekezdését a 40/2022. (XII. 19.) SZTFH rendelet 32. §-a iktatta be.

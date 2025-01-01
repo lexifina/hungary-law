@@ -4,11 +4,11 @@ a) a kutatás engedélyezett időtartamát,
 
 b) az ásványvagyon-gazdálkodás, a műszaki-biztonság és a tulajdon védelme érdekében szükséges feltételeket,
 
-c)[^18] a tájrendezési feladatokat és azok elvégzésének ütemezését,
+c)[^27] a tájrendezési feladatokat és azok elvégzésének ütemezését,
 
-d)[^19] a 7. § (1) bekezdés g) pontja szerinti biztosítékkal kapcsolatos rendelkezést.
+d)[^28] a 7. § (1) bekezdés g) pontja szerinti biztosítékkal kapcsolatos rendelkezést.
 
-e)[^20] a kutatás során kitermelésre engedélyezett ásványi nyersanyag fajtáját és mennyiségét, továbbá a próbatermelés engedélyezésével kapcsolatos rendelkezéseket.
+e)[^29] a kutatás során kitermelésre engedélyezett ásványi nyersanyag fajtáját és mennyiségét, továbbá a próbatermelés engedélyezésével kapcsolatos rendelkezéseket.
 
 (2) A kutatásra engedélyezett időtartam számításának kezdő napja a kutatási műszaki üzemi tervet jóváhagyó határozat véglegessé válásának a napja.
 
@@ -34,11 +34,11 @@ c) a műszaki üzemi tervben jóváhagyott kutatási feladatait elvégezte, de a
 
 (8) Ha a kutatási időszak meghosszabbítását a bányavállalkozó a (6) bekezdés c) pontja alapján kérelmezi, akkor a kérelem tartalmazza a 7. § (1) bekezdésében felsoroltakat. A bányavállalkozó a kutatási feladatok bővítésének indokoltságát a kérelem benyújtásával egyidejűleg igazolja.
 
-(9)[^21] A nem hagyományos szénhidrogének kutatására vonatkozó kutatási időtartam második alkalommal történő meghosszabbítása iránti kérelem elbírálására a (6)–(8) bekezdésben foglaltakat kell alkalmazni.
+(9)[^30] A nem hagyományos szénhidrogének kutatására vonatkozó kutatási időtartam második alkalommal történő meghosszabbítása iránti kérelem elbírálására a (6)–(8) bekezdésben foglaltakat kell alkalmazni.
 
 (10) A bányafelügyelet a kutatási időtartam meghosszabbításáról a műszaki üzemi terv módosításával dönt. Ha a bányavállalkozó a kutatási időtartam meghosszabbítását a (6) bekezdés c) pontja alapján kérelmezi, a bányafelügyelet a kutatási időtartam meghosszabbításával egyidejűleg dönt a kutatási feladatok jóváhagyásáról is.
 
-[^18]: A 8. § (1) bekezdés c) pontja a 40/2022. (XII. 19.) SZTFH rendelet 42. § d) pontja szerint módosított szöveg.
-[^19]: [A 40/2022. (XII. 19.) SZTFH rendelet 42. § e) pontja által elrendelt a „rendelkezéseket.” szövegrész helyébe a „rendelkezéseket és” szöveg lép szövegcsere nem átvezethető.]
-[^20]: A 8. § (1) bekezdés e) pontját a 40/2022. (XII. 19.) SZTFH rendelet 35. §-a iktatta be.
-[^21]: A 8. § (9) bekezdése a 4/2024. (V. 31.) SZTFH rendelet 12. § b) pontja szerint módosított szöveg.
+[^27]: A 8. § (1) bekezdés c) pontja a 40/2022. (XII. 19.) SZTFH rendelet 42. § d) pontja szerint módosított szöveg.
+[^28]: [A 40/2022. (XII. 19.) SZTFH rendelet 42. § e) pontja által elrendelt a „rendelkezéseket.” szövegrész helyébe a „rendelkezéseket és” szöveg lép szövegcsere nem átvezethető.]
+[^29]: A 8. § (1) bekezdés e) pontját a 40/2022. (XII. 19.) SZTFH rendelet 35. §-a iktatta be.
+[^30]: A 8. § (9) bekezdése a 4/2024. (V. 31.) SZTFH rendelet 12. § b) pontja szerint módosított szöveg.
