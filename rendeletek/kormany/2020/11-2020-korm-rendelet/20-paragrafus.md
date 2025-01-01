@@ -1,10 +1,10 @@
-## 10.[^53] Az Fktv. 11/A. §-ához
+## 10.[^54] Az Fktv. 11/A. §-ához
 
 20. § (1) A programkövetelmény nyilvántartásba vételéről, a nyilvántartásba vétel módosításáról, valamint a nyilvántartásból történő törlésről a felnőttképzésért felelős miniszter – a szakképzésért felelős miniszter egyetértésével – dönt.
 
 (2) Az eljárásban a felnőttképzésért felelős miniszter a kérelem
 
-a) szakmai tartalmának módszertani szempontú megfelelése tekintetében az IKK Innovatív Képzéstámogató Központ Zártkörűen Működő Részvénytársaságot és
+a)[^55] szakmai tartalmának módszertani szempontú megfelelése tekintetében az IKK Innovatív Képzéstámogató Központ Nonprofit Zártkörűen Működő Részvénytársaságot és
 
 b) valós gazdasági igénynek megfelelése tekintetében – ha az adott ágazatban ágazati készségtanács működik – az ágazati készségtanácsot
 
@@ -18,4 +18,5 @@ szakértőként vonhatja be.
 
 (6) Az (5) bekezdés szerinti nyilvántartásba vételkor a (2) bekezdésben meghatározottakat nem kell alkalmazni.
 
-[^53]: A 10. alcímet (20. §-t) a 318/2020. (VII. 1.) Korm. rendelet 17. § 10. pontja hatályon kívül helyezte, a 10. alcímet (20-20/A. §-t) újonnan a 631/2022. (XII. 30.) Korm. rendelet 2. §-a iktatta be.
+[^54]: A 10. alcímet (20. §-t) a 318/2020. (VII. 1.) Korm. rendelet 17. § 10. pontja hatályon kívül helyezte, a 10. alcímet (20-20/A. §-t) újonnan a 631/2022. (XII. 30.) Korm. rendelet 2. §-a iktatta be.
+[^55]: A 20. § (2) bekezdés a) pontja a 492/2024. (XII. 31.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.

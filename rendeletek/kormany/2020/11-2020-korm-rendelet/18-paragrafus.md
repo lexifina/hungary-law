@@ -20,10 +20,11 @@ c)[^50] – több oldalból álló képzési program esetén – a képzési pro
 
 (5)[^51] Az előzetesen minősített képzési programot a felnőttképző képviseletére jogosult személynek – elektronikusan megszerkesztett képzési program esetében minősített elektronikus aláírással, minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírással, minősített elektronikus bélyegzővel vagy minősített tanúsítványon alapuló fokozott biztonsági elektronikus bélyegzővel, vagy papíralapú képzési program esetében a képzési program utolsó oldalán – alá kell írnia. A felnőttképző az előzetes minősítés alapját képező, (3) bekezdés szerinti szakértői véleményt a képzési programhoz mellékeli.
 
-(6) A képzés program módosítása esetén a felnőttképzőnek el kell végeztetnie a módosított képzési program előzetes minősítését.
+(6)[^52] A képzési program módosítása esetén a felnőttképzőnek el kell végeztetnie a módosított képzési program előzetes minősítését.
 
 [^47]: A 18. § (1) bekezdését a 318/2020. (VII. 1.) Korm. rendelet 17. § 9. pontja hatályon kívül helyezte, újonnan a 688/2021. (XII. 8.) Korm. rendelet 4. §-a iktatta be.
 [^48]: A 18. § (2) bekezdés a) pontja a 95/2021. (II. 27.) Korm. rendelet 7. § l) pontja szerint módosított szöveg.
 [^49]: A 18. § (2) bekezdés b) pontja a 95/2021. (II. 27.) Korm. rendelet 7. § m) pontja szerint módosított szöveg.
 [^50]: A 18. § (2) bekezdés c) pontja a 688/2021. (XII. 8.) Korm. rendelet 9. § f) pontja szerint módosított szöveg.
 [^51]: A 18. § (5) bekezdése a 95/2021. (II. 27.) Korm. rendelet 7. § n) pontja szerint módosított szöveg.
+[^52]: A 18. § (6) bekezdése a 492/2024. (XII. 31.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
