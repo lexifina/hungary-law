@@ -59,3 +59,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-185-00-00
 | 2024-02-17 | 2023. évi CIV. törvény | 2010-185-00-00.53 |
 | 2024-05-10 | 2024. évi XV. törvény | 2010-185-00-00.54 |
 | 2024-07-01 | 2022. évi LXI. törvény | 2010-185-00-00.51 |
+| 2025-01-01 | 2024. évi LXXVIII. törvény | 2010-185-00-00.55 |

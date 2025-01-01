@@ -36,4 +36,6 @@ q) összeállítja a társadalom számára kiemelten nagy jelentőséggel bíró
 
 r) kidolgozza a kiskorút szerepeltető olyan tudósításokra vonatkozó ajánlását, amelyek bűncselekményt vagy megalázó, kiszolgáltatott helyzetben lévő kiskorút mutatnak be,
 
+s) kidolgozza az Smtv. 20/A. § szerinti szabályzatra és hatékony megoldások követelményeire vonatkozó ajánlást.
+
 (2) A Médiatanács látja el a fogyasztóvédelmi jogszabályok végrehajtásáért felelős nemzeti hatóságok közötti együttműködésről és a 2006/2004/EK rendelet hatályon kívül helyezéséről szóló, 2017. december 12-i (EU) 2017/2394 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2017/2394 rendelet] végrehajtását a tagállamok audiovizuális médiaszolgáltatások nyújtására vonatkozó egyes törvényi, rendeleti vagy közigazgatási rendelkezéseinek összehangolásáról szóló 2010/13/EU európai parlamenti és tanácsi irányelv 19–26. cikkét átültető tagállami jogszabályokba ütköző Európai Közösségen belüli jogsértések tekintetében. Ennek végrehajtásánál a kölcsönös jogsegély során a Médiatanács a 2007/76/EK bizottsági határozatnak megfelelően jár el.
