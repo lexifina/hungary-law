@@ -2,7 +2,7 @@
 
 12. § (1) Az eljárásban – törvény eltérő rendelkezése hiányában – kérelmező az eljárást kezdeményező személy; kérelmezett, akivel szemben az eljárást megindítják, feltéve, hogy van az eljárásban a kérelmezővel szemben álló személy.
 
-(2) Az eljárásban a jogi képviselet nem kötelező, kivéve, ha törvény eltérően rendelkezik.
+(2) Az eljárásban a jogi képviselet nem kötelező, kivéve, ha törvény eltérően rendelkezik. Ha az eljárás során a fél jogi képviselővel jár el, az a Pp. 244. §-ának alkalmazása szempontjából nem minősül a jogi képviselővel történő eljárás választásának.
 
 (3) Ha a közjegyző az eljárás során pénzt vesz át, annak kezelésére a bizalmi őrzés szabályait kell megfelelően alkalmazni, azzal az eltéréssel, hogy ezen pénzösszegeket azonos számlán kezeli, és a pénzösszeg után annak átadója, illetve átvevője kamatra, a közjegyző pedig a pénzösszeg kezelésével járó költségekre nem tarthat igényt.
 

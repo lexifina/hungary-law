@@ -18,6 +18,8 @@ d) a közjegyző nevét, székhelyét és a bejegyzés ügyszámát, továbbá a
 
 e) a szerződés megszüntetése vagy megszűnése esetében ennek tényét és a bejegyző közjegyző nevét, székhelyét és a bejegyzés ügyszámát, továbbá a bejegyzés időpontját.
 
+f) azt, hogy az anyakönyvi bejegyzés szerint az élettársi kapcsolat vagy a házasság a kérelmezők bármelyikének halála miatt megszűnt.
+
 (2) A nyilvántartás adatairól közigazgatási hatóság, közigazgatási szerv, bíróság, bírósági végrehajtó, ügyészség, nyomozó hatóság, előkészítő eljárást folytató szerv, terrorizmust elhárító szerv, nemzetbiztonsági szolgálat, továbbá a közjegyző tevékenységének szakmai felügyeletét ellátó szerv az országos kamarától közvetlen hozzáféréssel adatot igényelhet. Az adatigénylés megkezdésekor az annak alapjául szolgáló eljárás tárgyát és ügyszámát, az igényelt adat tekintetében az adatigénylőt az ügy elbírálásához, továbbá jogosultság, illetve kötelezettség fennállásának ellenőrzéséhez az adatkezelésre feljogosító törvényi rendelkezést, valamint az adott személy beazonosításához szükséges valamennyi adatot elektronikus úton az országos kamara rendszere számára rendelkezésre kell bocsátani.
 
 (2a) Az (1) bekezdés szerinti nyilvántartásában kezelt adatokat a Központi Statisztikai Hivatal részére – a: Stt. 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen az országos kamara adja át és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
@@ -44,4 +46,4 @@ d) a naplóból történt adatszolgáltatásról, a szolgáltatott adatok köré
 
 (9) Az országos kamarának biztosítania kell az adatok megismeréséhez szükséges technikai eszközöket. A napló adatait az országos kamara a (2) bekezdésnek megfelelően eljárva továbbítja.
 
-(10)
+(10) Az országos kamara az (1) bekezdés b) pontjában foglalt adatokban bekövetkezett változásokat és a nyilvántartásban szereplő személy halálára vonatkozó adatokat a nyilvántartásban átvezeti, e célból a polgárok személyi adatainak és lakcímének nyilvántartását vezető szervtől elektronikus úton adatot igényelhet.

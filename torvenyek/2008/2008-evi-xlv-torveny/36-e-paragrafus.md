@@ -34,7 +34,7 @@ b) az élettársi kapcsolat fennállásáról szóló nyilatkozat,
 
 c) nyilatkozat arról, hogy az élettársi nyilvántartásba bejegyzett élettársi kapcsolat már nem áll fenn,
 
-d) az az időpont, amikor az anyakönyvi bejegyzés szerint a nyilvántartásba bejegyzett élettársi kapcsolat a kérelmezők bármelyikének házassága, bejegyzett élettársi kapcsolata vagy halála miatt megszűnt,
+d) az a tény, hogy az anyakönyvi bejegyzés szerint a nyilvántartásba bejegyzett élettársi kapcsolat a kérelmezők bármelyikének házassága, bejegyzett élettársi kapcsolata vagy halála miatt megszűnt,
 
 e) a nyilatkozatot a nyilvántartásba bejegyző közjegyző neve, székhelye és a bejegyzésről szóló végzés ügyszáma.
 
