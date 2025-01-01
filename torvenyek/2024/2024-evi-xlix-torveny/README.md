@@ -5,3 +5,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2024-49-00-00
 | Hatályos (In-force) | Módosította (made by) | NJT időállapot |
 | --- | --- | --- |
 | 2025-01-01 | 2024. évi XLIX. törvény | 2024-49-00-00.0 (közlönyállapot) |
+| 2025-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2024-49-00-00.1 |
