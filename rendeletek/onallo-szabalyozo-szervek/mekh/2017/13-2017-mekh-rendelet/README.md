@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-13-20-5
 | 2022-01-01 | 2017-13-20-5Z.8 | 16/2021. (XII. 8.) MEKH rendelet |
 | 2022-02-13 | 2017-13-20-5Z.9 | 1/2022. (II. 10.) MEKH rendelet |
 | 2023-01-01 | 2017-13-20-5Z.10 | 15/2022. (XII. 15.) MEKH rendelet |
+| 2025-01-01 | 2017-13-20-5Z.11 | 15/2024. (XII. 18.) MEKH rendelet |
