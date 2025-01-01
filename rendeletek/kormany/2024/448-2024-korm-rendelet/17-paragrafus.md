@@ -1,5 +1,3 @@
-## 9.[^8]
+## 9. A hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításával összefüggő lebonyolítói feladatok ellátásáról szóló 343/2020. (VII. 14.) Korm. rendelet módosítása
 
-17. §
-
-[^8]: A 9. alcím a 18. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+17. § A hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításával összefüggő lebonyolítói feladatok ellátásáról szóló 343/2020. (VII. 14.) Korm. rendelet 1. §-ában a „Maradványvagyon-hasznosító Zártkörűen Működő Részvénytársaságot” szövegrész helyébe a „Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaságot” szöveg lép.

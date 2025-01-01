@@ -1,5 +1,3 @@
-## 7.[^6]
+## 7. Az egészségbiztosítási szervekről szóló 386/2016. (XII. 2.) Korm. rendelet módosítása
 
-15. §
-
-[^6]: A 7. alcím a 18. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+15. § Az egészségbiztosítási szervekről szóló 386/2016. (XII. 2.) Korm. rendelet 8. § (1) bekezdésében a „Maradványvagyon-hasznosító Zártkörűen Működő Részvénytársaság” szövegrész helyébe a „Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság” szöveg lép.

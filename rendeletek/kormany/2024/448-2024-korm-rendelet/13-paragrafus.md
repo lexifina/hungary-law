@@ -1,5 +1,7 @@
-## 5.[^5]
+## 5. Az egyes földügyi eljárások részletes szabályairól szóló 384/2016. (XII. 2.) Korm. rendelet módosítása
 
-13. §
+13. § Hatályát veszti az egyes földügyi eljárások részletes szabályairól szóló 384/2016. (XII. 2.) Korm. rendelet
 
-[^5]: Az 5. alcím a 18. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+a) 15. § (1) bekezdés d) pontja és
+
+b) 15. § (5) bekezdésében az „és az MVH” szövegrész.
