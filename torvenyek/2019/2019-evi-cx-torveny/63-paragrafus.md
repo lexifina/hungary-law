@@ -2,7 +2,13 @@
 
 63. § (1)
 
-(2)
+(2) Az Evt. 39. § (3) bekezdése a következő i) ponttal egészül ki:
+
+(Az erdészeti hatóság térítésmentesen elektronikus hozzáférést biztosít)
+
+## „i) a környezet- és természetvédelmi hatóság részére az erdészeti hatósági eljárásban természetvédelmi szakkérdés vizsgálata, valamint az erdőgazdálkodási tevékenységek természetvédelmi szempontú korlátozása érdekében szükséges erdők”
+
+(Adattárban nyilvántartott adataihoz.)
 
 (3)
 
