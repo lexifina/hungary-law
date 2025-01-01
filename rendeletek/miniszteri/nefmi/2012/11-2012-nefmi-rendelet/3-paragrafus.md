@@ -20,11 +20,13 @@
 
 (10) A fázisokban használt gyógyszereket szinonima kóddal kell feltüntetni. Az adagolás az adott fázis kezdőnapjától számítottan mg/m2-re, mg/testtömeg kilogrammra, NE/m2-re vagy NE/testtömeg kilogrammra és egy kezelési napra vonatkozik. A felhasználásra kerülő gyógyszermennyiségek meghatározásánál 1,75 m2 átlagos testfelülettel és 70 testtömeg kilogramm – 1,5 év alatti korosztály kezelésére alkalmas protokollok esetében 10 testtömeg kilogramm – átlagos testsúllyal kell számolni. A protokollba tartozó gyógyszereket a (11) bekezdésben foglaltak kivételével nem kell jelenteni.
 
+(10a)[^3] A carboplatint (CBP) tartalmazó protokollok esetében a (10) bekezdésben foglaltakat azzal az eltéréssel kell alkalmazni, hogy a pontos adagolást a mindenkori vesefunkció (AUC) szerint korrigálni kell.
+
 (11) Azon protokollok jelentése esetén, amelyekben tételes elszámolás alá eső gyógyszer kerül felhasználásra, a protokoll jelentése mellett ezen készítmények alkalmazását a beavatkozás típusánál (T) tételesen finanszírozott gyógyszeres kezelésként („F”) kell feltüntetni, a kemoterápiás protokoll és a tételes finanszírozású gyógyszer OENO kódjai mellett egyaránt.
 
 (12) Amennyiben a beteg a gyógyszert, a Kr.-ben rögzítetteknek megfelelő módon, az onkológiai centrum felügyelete mellett az otthonában kapja meg, akkor ezt a tényt az adatlapon 'B' kóddal a Beavatkozás jellege (J) rovatban fel kell tüntetni, annak kezdő dátumával egyidejűleg. Ez esetben az Adatlap „27. Beavatkozások” részében az „Intézet/osztály azonosítója” mezőben az első négy karakter az ellátásért felelős intézet kódja, a többi karakter nulla.
 
-(13)[^2] A „Beavatkozás minősítése az ellátásban elfoglalt helye szerint (M)” mező kitöltése onkológiai daganatellenes kezelések esetén kötelező az alábbiaknak megfelelően:
+(13)[^4] A „Beavatkozás minősítése az ellátásban elfoglalt helye szerint (M)” mező kitöltése onkológiai daganatellenes kezelések esetén kötelező az alábbiaknak megfelelően:
 
 a) 0. neoadjuváns beavatkozás,
 
@@ -36,4 +38,5 @@ d) 3. másod vonalbeli kezelés,
 
 e) 4. harmad, illetve többed vonalbeli kezelés.
 
-[^2]: A 3. § (13) bekezdése az 55/2012. (XII. 28.) EMMI rendelet 16. §-a szerint módosított szöveg.
+[^3]: A 3. § (10a) bekezdését az 55/2024. (XII. 11.) BM rendelet 9. §-a iktatta be.
+[^4]: A 3. § (13) bekezdése az 55/2012. (XII. 28.) EMMI rendelet 16. §-a szerint módosított szöveg.

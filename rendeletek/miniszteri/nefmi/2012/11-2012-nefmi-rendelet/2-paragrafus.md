@@ -38,8 +38,9 @@ p) gyógyszer: a protokollokban a kemoterápiás szerek nemzetközi szabad nevek
 
 q) szinonima kód: a fázisokban alkalmazható gyógyszernevek rövidített formája;
 
-r) indikáción túli gyógyszer alkalmazása: indokolt esetben, ha az indikáción túli gyógyszer mással nem helyettesíthető, az emberi felhasználásra kerülő gyógyszerek rendeléséről és kiadásáról szóló 44/2004. (IV. 28.) ESZCSM rendeletben foglaltaknak megfelelő indikáción túli gyógyszeres kezelés, figyelembe véve a gyógyító-megelőző ellátás jogcímén az Egészségbiztosítási Alap terhére finanszírozható homogén betegségcsoportok kódolási és besorolási szabályairól szóló miniszteri rendeletben foglaltakat;
+r)[^2] indikáción túli gyógyszeralkalmazás: az emberi felhasználásra kerülő gyógyszerek egyedi rendelésének és felhasználásának engedélyezéséről szóló kormányrendeletben foglaltaknak megfelelő indikáción túli gyógyszeres kezelés, figyelembe véve a gyógyító-megelőző ellátás jogcímén az Egészségbiztosítási Alap terhére finanszírozható homogén betegségcsoportok kódolási és besorolási szabályairól szóló miniszteri rendeletben foglaltakat;
 
 s) tételes elszámolás alá eső gyógyszer: azon gyógyszerkészítmények, amelyek hatóanyaga megjelölt OENO kóddal az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló 9/1993. (IV. 2.) NM rendelet 1/A. számú mellékletében szerepel.
 
 [^1]: Az 1. § az 54/2016. (XII. 30.) EMMI rendelet 84. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § r) pontja az 55/2024. (XII. 11.) BM rendelet 8. §-ával megállapított szöveg.
