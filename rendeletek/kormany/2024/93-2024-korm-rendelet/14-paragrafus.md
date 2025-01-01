@@ -1,13 +1,14 @@
+## „d) üzemanyagtöltő állomáson forgalmazott folyékony motorhajtóanyagok esetében a Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV),”
+
 14. § Az R4.
 
-a)[^14]
+a) 2. § (2) bekezdésében a „Nemzeti Adó- és Vámhivatal” szövegrész helyébe a „NAV” szöveg,
 
-b)[^15]
+b)[^13]
 
-c)[^16]
+c)[^14]
 
 lép.
 
-[^14]: A 14. § a) pontja a 38. § (5) bekezdés alapján 2025. január 1-jén lép hatályba.
-[^15]: A 14. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^16]: A 14. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 14. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 14. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
