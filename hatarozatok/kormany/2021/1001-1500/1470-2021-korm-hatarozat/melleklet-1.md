@@ -52,21 +52,7 @@
 
 ## b) az 1. pont d) alpontja szerinti beruházásnak a 233/2018. (XII. 6.) Korm. rendelet 2. § (2) bekezdés a), e), l), n) és p) pontja szerinti előkészítési fázisaira a 2021. évben 176 618 265 forint forrást biztosít a Kvtv. 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 1. Központi kezelésű előirányzatok cím, 1. Központi tartalékok alcím, 2. Beruházás Előkészítési Alap jogcímcsoport terhére, azzal, hogy az előkészítési fázisokat legkésőbb 2021. december 31. napjáig kell megvalósítani;
 
-## 7. az 1. pont c) és d) alpontja szerinti célok megvalósítása érdekében az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva 253 428 151 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 1. Központi kezelésű előirányzatok cím, 1. Központi tartalékok alcím, 2. Beruházás Előkészítési Alap jogcímcsoport terhére, a Kvtv. 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 8. Gazdaság újraindítását szolgáló emberi erőforrások fejezeti kezelésű előirányzatok alcím, 3. Sportlétesítmény fejlesztések támogatása jogcímcsoport javára, az 1. melléklet szerint;
-
-## Az átcsoportosítás tekintetében
-
-## Felelős: pénzügyminiszter
-
-## emberi erőforrások minisztere
-
-## Határidő: azonnal
-
-## Az elszámolás és a fel nem használt, valamint a nem rendeltetésszerűen felhasznált rész visszafizetése tekintetében
-
-## Felelős: emberi erőforrások minisztere
-
-## Határidő: 2022. július 31.
+## 7.[^1]
 
 ## 8. felhívja az emberi erőforrások miniszterét, hogy gondoskodjon
 
@@ -92,66 +78,7 @@
 
 ## Határidő: az egyes beruházások megvalósítását célzó feltételes közbeszerzési eljárás lezárását követő 90 napon belül
 
-1. melléklet az 1470/2021. (VII. 15.) Korm. határozathoz
+1. melléklet az 1470/2021. (VII. 15.) Korm. határozathoz[^2]
 
-| XLVII. Gazdaság-újraindítási Alap ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA Költségvetési év: 2021. forintban |
-
-| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | K I A D Á S O K | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XLVII. |  |  |  |  |  | Gazdaság-újraindítási Alap |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 1 |  |  |  |  |  | Központi kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 1 |  |  |  |  |  | Központi tartalékok |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 375739 |  |  |  | 2 |  |  |  |  |  | Beruházás Előkészítési Alap |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K8 |  |  |  |  |  | Egyéb felhalmozási célú kiadások |  |  |  |  |  |  |  |  | -253 428 151 |  |  |
-
-|  | XLVII. |  |  |  |  |  | Gazdaság-újraindítási Alap |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 2 |  |  |  |  |  | Fejezeti kezelésú előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 8 |  |  |  |  |  | Gazdaság újraindítását szolgáló emberi erőforrások fejezeti kezelésú előirányzatok |  |  |  |  |  |  |  |  |  |  |  |
-
-| 386440 |  |  |  | 3 |  |  |  |  |  | Sportlétesítmény fejlesztések támogatása |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K6 |  |  |  |  |  | Beruházások |  |  |  |  |  |  |  |  | 253 428 151 |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |  |
-
-| forintban |
-
-| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | B E V É T E L | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |  |
-
-| forintban |
-
-| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | T Á M O G A T Á S | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XLVII. |  |  |  |  |  | Gazdaság-újraindítási Alap |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 2 |  |  |  |  |  | Fejezeti kezelésú előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 8 |  |  |  |  |  | Gazdaság újraindítását szolgáló emberi erőforrások fejezeti kezelésú előirányzatok |  |  |  |  |  |  |  |  |  |  |  |
-
-| 386440 |  |  |  | 3 |  |  |  |  |  | Sportlétesítmény fejlesztések támogatása |  |  |  |  |  |  |  |  | 253 428 151 |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |
-
-| Az adatlap 1 eredeti példányban töltendő ki | A támogatás folyósítása/zárolása (módosítása +/-) | Összesen |  | I.n.év | II. n.év | III. n.év | IV. n.év |
-
-| Magyar Államkincstár 1 példány | időarányos teljesítésarányos egyéb: azonnal |  |  |  |  |  |  |
-
-|  | 253 428 151 |
-
-| 253 428 151 |  |
-
-| * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+[^1]: A 7. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
