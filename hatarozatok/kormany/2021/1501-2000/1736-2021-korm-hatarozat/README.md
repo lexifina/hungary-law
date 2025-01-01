@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-1736-30
 | --- | --- | --- |
 | 2021-10-14 | 2021-1736-30-22.1 | 1736/2021. (X. 14.) Korm. határozat |
 | 2021-10-15 | 2021-1736-30-22.2 | 2010: CXXX. törvény |
+| 2025-01-01 | 2021-1736-30-22.3 | 2011: CXCV. törvény |
