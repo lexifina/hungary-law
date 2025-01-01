@@ -14,11 +14,7 @@ Felelős: innovációért és technológiáért felelős miniszter
 
 Határidő: folyamatos
 
-3.[^1] az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet, XLVII. Gazdaság-újraindítási Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 6. Gazdaság újraindítását szolgáló innovációs és technológiai fejezeti kezelésű előirányzatok alcím, 1. Közlekedési fejlesztések jogcímcsoport 6. Térségi közúti beruházások jogcímmel történő kiegészítését;
-
-Felelős: pénzügyminiszter
-
-Határidő: azonnal
+3.[^1]
 
 4. az Útfejlesztések elvégzése érdekében
 
@@ -62,5 +58,5 @@ Határidő: azonnal
 
 6.[^2]
 
-[^1]: A 3. pont az 1779/2021. (XI. 2.) Korm. határozat 5. pontja szerint módosított szöveg.
+[^1]: A 3. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
 [^2]: A 6. pontot az 1779/2021. (XI. 2.) Korm. határozat 6. pont b) alpontja visszavonta.
