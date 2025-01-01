@@ -2104,11 +2104,11 @@
 
 ## - Ismeri a terrorelhárítással kapcsolatos jogszabályokat, a terrorelhárítás elméletének és gyakorlatának alapjait.
 
-## 7.3.3.2. Képesség:
+## 7.3.3.2.[^2] Képesség:
 
 ## - Önállóan képes a főbb terrorelhárítási folyamatok jellegzetességeit felismerni, ezek alapján a szakmai vezetői feladatszabás alapján alapvető szakmai koncepciókat önállóan megfogalmazni.
 
-## - Objektumok, létfontosságú létesítmények és személyek védelme vonatkozásában képes a terrorizmussal kapcsolatos kockázatelemzések elkészítésére.
+## - Objektumok, kritikus infrastruktúrák, az ország védelme és biztonsága szempontjából jelentős infrastruktúrák és létfontosságú személyek védelme vonatkozásában képes a terrorizmussal kapcsolatos kockázatelemzések elkészítésére.
 
 ## - Képes a pszichológia, a szociológia és a vezetéselmélet korszerű kutatási eredményeinek szakmai alkalmazására a terrorelhárító munkában.
 
@@ -3320,13 +3320,13 @@
 
 ## 7.3.3. iparbiztonsági szakirányon
 
-## 7.3.3.1. Tudás:
+## 7.3.3.1.[^3] Tudás:
 
 ## - Magas szinten ismeri a veszélyes anyagokkal foglalkozó üzemek létesítésére, működésére vonatkozó jogszabályokban és hatósági előírásokban foglaltakat és azok gyakorlati alkalmazási eljárási és eszközrendszerét.
 
 ## - Széles körű ismeretekkel rendelkezik a veszélyes anyagok különféle szállítási módozataival kapcsolatos jogszabályi és hatósági előírások, az ezekre vonatkozó hatósági eljárási rend területén.
 
-## - Beható ismeretekkel rendelkezik a kritikus infrastruktúrákkal összefüggő hazai és nemzetközi szabályozások alkalmazása területén, különös tekintettel a létfontosságú rendszerelemek működési rendjét meghatározó biztonsági követelményrendszerek vonatkozásában.
+## - Beható ismeretekkel rendelkezik a kritikus infrastruktúrákkal, az ország védelme és biztonsága szempontjából jelentős infrastruktúrákkal összefüggő hazai és nemzetközi szabályozások alkalmazása területén, különös tekintettel a kritikus szervezetek és a kritikus infrastruktúrák, valamint az ország védelme és biztonsága szempontjából jelentős szervezetek és az ország védelme és biztonsága szempontjából jelentős infrastruktúrák működési rendjét meghatározó biztonsági követelményrendszerek vonatkozásában.
 
 ## - Mélyrehatóan ismeri a veszélyes anyagokkal kapcsolatos közlekedési és ipari káresemények elleni védekezésre, valamint a nukleáris baleset-elhárításra vonatkozó eljárás és eszközrendszer alkalmazását.
 
@@ -3422,7 +3422,7 @@
 
 ## 7.2. Az elsajátítandó szakmai kompetenciák:
 
-## 7.2.1. Tudás:
+## 7.2.1.[^4] Tudás:
 
 ## - Rendelkezik magánbiztonsági szektor működésével kapcsolatos válságkezelési alapismeretekkel.
 
@@ -3452,7 +3452,7 @@
 
 ## - Ismeri a magánbiztonság fő területeinek, elméleteinek ismeretszerzési és problémamegoldási módszereit.
 
-## - Rendelkezik a létfontosságú rendszerelemek védelmére vonatkozó speciális ismeretekkel.
+## - Rendelkezik a kritikus szervezetek, kritikus infrastruktúrák, valamint az ország védelme és biztonsága szempontjából jelentős szervezetek, az ország védelme és biztonsága szempontjából jelentős infrastruktúrák ellenálló képességére vonatkozó speciális ismeretekkel.
 
 ## - Anyanyelvi szinten ismeri a magánbiztonsági és az önkormányzati rendészeti szektor szakmai szókincsét.
 
@@ -4854,11 +4854,11 @@ B/ A képzés szerkezeti és kimeneti jellemzői
 
 7. A mesterképzési szak képzési célja, a szakmai kompetenciák leírása:
 
-7.1. A képzés célja: A képzés célja olyan felsőfokú végzettséggel rendelkező szakemberek felkészítése, akik a közigazgatás, a védelmi igazgatás, a külügyi igazgatás területeihez tartozó szervezeteknél vezetői és szakértői munkakörökben képesek a kiberbiztonsági feladatok tervezését, szervezését és irányítását eredményesen végrehajtani. A mesterképzés azokra a kiberbiztonsági kérdésekre, aktuális és jövőbeli kihívásokra fókuszál, amelyekkel az állami és a magánszférának, illetve a társadalomnak egyaránt szembe kell néznie. A hallgatók széles körű ismereteket szereznek a kiberbiztonság elméleti és gyakorlati oldaláról, biztonsági, környezeti, társadalmi és gazdasági aspektusairól. A differenciált szakmai tananyag elsajátítása során (nemzetközi kapcsolatok a kiberbiztonságban, közszolgálati kiberbiztonság-menedzsment, létfontosságú elektronikus információs rendszerek védelme) alkalmassá válnak szakterületüknek megfelelően kutatási, fejlesztési és tervezési feladatok ellátására, védelmi problémakörök tudományos igényű elemzésére és következtetések kialakítására.
+7.1.[^5] A képzés célja: A képzés célja olyan felsőfokú végzettséggel rendelkező szakemberek felkészítése, akik a közigazgatás, a védelmi igazgatás, a külügyi igazgatás területeihez tartozó szervezeteknél vezetői és szakértői munkakörökben képesek a kiberbiztonsági feladatok tervezését, szervezését és irányítását eredményesen végrehajtani. A mesterképzés azokra a kiberbiztonsági kérdésekre, aktuális és jövőbeli kihívásokra fókuszál, amelyekkel az állami és a magánszférának, illetve a társadalomnak egyaránt szembe kell néznie. A hallgatók széles körű ismereteket szereznek a kiberbiztonság elméleti és gyakorlati oldaláról, biztonsági, környezeti, társadalmi és gazdasági aspektusairól. A differenciált szakmai tananyag elsajátítása során (nemzetközi kapcsolatok a kiberbiztonságban, közszolgálati kiberbiztonság-menedzsment, kritikus elektronikus információs rendszerek védelme) alkalmassá válnak szakterületüknek megfelelően kutatási, fejlesztési és tervezési feladatok ellátására, védelmi problémakörök tudományos igényű elemzésére és következtetések kialakítására.
 
 7.2. Az elsajátítandó szakmai kompetenciák:
 
-7.2.1. Tudás:
+7.2.1.[^6] Tudás:
 
 - Ismeri azokat a fontosabb előírásokat a kiberbiztonsággal kapcsolatos hazai és nemzetközi szabályozásokból, amelyek a mindennapi munkáját befolyásolják.
 
@@ -4868,7 +4868,7 @@ B/ A képzés szerkezeti és kimeneti jellemzői
 
 - Ismeri a kibertámadás esetén alkalmazandó eljárásokat.
 
-- Ismeri a létfontosságú rendszerelemek fogalmát.
+- Ismeri a kritikus szervezetek, kritikus infrastruktúrák, valamint az ország védelme és biztonsága szempontjából jelentős szervezetek, az ország védelme és biztonsága szempontjából jelentős infrastruktúrák fogalmát.
 
 - Átlátja a munkáltatók által meghatározott belső szabályzatok megalkotásának szükségességét az információs rendszerekben tárolt adatok sértetlensége és a rendelkezésre állás tekintetében.
 
@@ -6531,3 +6531,19 @@ B/ A képzés szerkezeti és kimeneti jellemzői
 - A biztonság- és védelempolitika területén elsajátított tudása alapján nyitott a továbbképzésre, szakmai fejlődésre.
 
 7.2.4. Autonómia és felelősség:
+
+- Szervezeti struktúrában elfoglalt helyének megfelelő önállósággal és felelősséggel, a hivatali út betartásával szervezi munkáját és az irányítása alatt dolgozó munkatársak tevékenységét.
+
+- Legjobb tudása szerint, elkötelezetten szolgálja és képviseli az állam, a tágabb szervezet és a munkahely céljait, feladatait és érdekeit.
+
+- Szervezeti struktúrában elfoglalt helyétől függően konstruktív szakmai álláspontot képvisel, képes a szakmai érdekek érvényesítésére.
+
+- Felkészült az intézményen belüli és kívüli együttműködési formákban Magyarország nemzeti érdekeinek képviseletére.
+
+- Nemzetközi biztonsági szervezetben végzett munkavégzés esetén képes a nemzetközi munkáltató céljainak és érdekeinek szolgálatára.
+
+[^2]: Az 1. melléklet 7. alcím 7.3.3.2. pontja a 474/2024. (XII. 31.) Korm. rendelet 172. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. melléklet 13. alcím 7.3.3.1. pontja a 474/2024. (XII. 31.) Korm. rendelet 172. § b) pontja szerint módosított szöveg.
+[^4]: Az 1. melléklet 14. alcím 7.2.1. pontja a 474/2024. (XII. 31.) Korm. rendelet 172. § c) pontja szerint módosított szöveg.
+[^5]: A 2. melléklet 3. alcím 7.1. pontja a 474/2024. (XII. 31.) Korm. rendelet 172. § d) pontja szerint módosított szöveg.
+[^6]: A 2. melléklet 3. alcím 7.2.1. pontja a 474/2024. (XII. 31.) Korm. rendelet 172. § e) pontja szerint módosított szöveg.
