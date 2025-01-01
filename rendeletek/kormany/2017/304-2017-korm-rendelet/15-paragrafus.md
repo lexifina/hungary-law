@@ -12,7 +12,7 @@ a) a miniszteri rendeletben meghatározott, a megszemélyesítési tevékenyég 
 
 b) azt, hogy rendelkezik a telephely biztonsági tanúsítvány kiadásáról szóló jogszabályban meghatározott, a kártya megszemélyesítéshez használt információs rendszer biztonsági osztályba sorolásának megfelelő telephely biztonsági tanúsítvánnyal;
 
-c) azt, hogy az általa használt információs rendszer megfelel az állami és önkormányzati szervek elektronikus információbiztonságáról szóló törvényben meghatározott biztonsági feltételeknek;
+c)[^1] azt, hogy az általa használt információs rendszer megfelel a Magyarország kiberbiztonságáról szóló törvényben meghatározott biztonsági feltételeknek;
 
 d) a megszemélyesítési tevékenység elvégzéséhez használni kívánt informatikai infrastruktúrának és eszközöknek a megszemélyesítési tevékenység folyamatos és zavartalan folytatásához szükséges minőségi, mennyiségi és informatikai biztonsági megfelelőségét;
 
@@ -23,3 +23,5 @@ f) jogszabályban előírt egyéb feltételnek való megfelelést.
 (5) A megszemélyesítő a megszemélyesítési tevékenységével összefüggésben köteles ellenőrt foglalkoztatni.
 
 (6) A működtető a megszemélyesítési tevékenységhez szükséges műszaki, technológiai feltételek vizsgálatát a kérelmezőnél a Nemzetbiztonsági Szakszolgálat Szakértői Intézetének bevonásával – szükség esetén helyszíni ellenőrzés keretében – vizsgálja.
+
+[^1]: A 15. § (4) bekezdés c) pontja a 418/2024. (XII. 23.) Korm. rendelet 132. §-a szerint módosított szöveg.
