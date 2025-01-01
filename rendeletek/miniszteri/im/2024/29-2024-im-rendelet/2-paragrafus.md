@@ -1,7 +1,9 @@
 2. § A közjegyzőkről szóló 1991. évi XLI. törvény végrehajtásáról szóló 13/1991. (XI. 26.) IM rendelet
 
-a) 7. § (8) bekezdésében a „területén” szövegrész helyébe a „területén (a fővárosban a működési körzetében)” szöveg,
+a)[^1]
 
-b)[^2]
+b) 23. § (1) bekezdésében a „levéltár” szövegrész helyébe a „levéltár szervezetét, belső működését, továbbá az” szöveg
 
-[^2]: A 2. § b) pontja a 4. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+lép.
+
+[^1]: A 2. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

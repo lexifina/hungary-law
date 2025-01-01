@@ -1,3 +1,5 @@
-3. §[^3]
+3. § Hatályát veszti a közjegyzőkről szóló 1991. évi XLI. törvény végrehajtásáról szóló 13/1991. (XI. 26.) IM rendelet
 
-[^3]: A 3. § a 4. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+a) 3. § (4a) bekezdése,
+
+b) 23/A. §-a.
