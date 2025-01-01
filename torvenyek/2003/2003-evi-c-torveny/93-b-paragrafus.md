@@ -42,6 +42,6 @@ c) az (1) bekezdés szerinti információkat elektronikus formában már nyilvá
 
 a) az építési munkák csekély jelentőségére tekintettel vagy
 
-b) létfontosságú rendszerelem védelme érdekében
+b) kritikus szervezet és kritikus infrastruktúra, valamint az ország védelme és biztonsága szempontjából jelentős szervezet és az ország védelme és biztonsága szempontjából jelentős infrastruktúra ellenálló képessége érdekében
 
 nem kell alkalmazni.

@@ -1,0 +1,7 @@
+97/A. § (1) Az elektronikus hírközlési építmény üzemeltetője, ennek hiányában a tulajdonosa a használat során köteles az építmény állagát megóvni, az élet, a testi épség és az egészség, a köz- és vagyonbiztonság védelme érdekében az építmény műszaki állapotának rendszeres felülvizsgálatát és a szükséges átalakítási, felújítási, helyreállítási munkálatokat elvégezni, továbbá az üzemen vagy használaton kívüli hálózatokat elbontani.
+
+(2) Az elektronikus hírközlési építmény üzemeltetője, ennek hiányában tulajdonosa az építményt elbontja, ha annak használatával véglegesen felhagy, vagy az építmény további használatra alkalmatlan. Az üzemeltető, ennek hiányában a tulajdonos az elektronikus hírközlési építmény elbontását követően az eredeti állapot helyreállítására köteles, kivéve, ha az érintett ingatlan tulajdonosával vagy a tulajdonosi jog gyakorlójával eltérően állapodnak meg.
+
+(3) Azt az elektronikus hírközlési építményt, amelynek használatával véglegesen felhagytak, vagy használatra alkalmatlan, és tulajdonosa nem ismert vagy nem elérhető, az ingatlan tulajdonosa – a tulajdonát képező ingatlant érintő építményrész erejéig – az elektronikus hírközlési építmények elhelyezéséről és az elektronikus hírközlési építményekkel kapcsolatos hatósági eljárásokról szóló NMHH rendelet szerinti engedély alapján elbontathatja. A bontással okozott kárért a bontási engedélyt kérő felel.
+
+(4) Az elektronikus hírközlési építmény rongálódott, használaton kívüli, vagy használatra alkalmatlan állapotát a Hatóság ügyfélszolgálatán bárki bejelentheti.

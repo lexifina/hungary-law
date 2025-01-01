@@ -1,1 +1,1 @@
-### 163/F. §
+163/F. § E törvénynek a Magyarország kiberbiztonságáról szóló 2024. évi LXIX. törvénnyel megállapított 98/B. §-át a 2027. január 1-ét követően indult építésügyi hatósági engedélyezési eljárásokban kell alkalmazni.

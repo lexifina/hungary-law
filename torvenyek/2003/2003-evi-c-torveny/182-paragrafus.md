@@ -38,7 +38,7 @@ i) az alapvető felhasználók elektronikus hírközlési szolgáltatással tör
 
 6. az egyedi használati jog biztosításával kapcsolatos hatósági eljárás rendjét, különösen a frekvenciakijelölési és rádióengedélyezési eljárás részletes feltételeit, az egyedi használati jogok kiadására, módosítására, visszavonására, meghosszabbítására, megújítására és kiadásának megtagadására vonatkozó részletes szabályokat, a rádióspektrum-használati jog gyakorlásának feltételeit és a rádióspektrum-használati engedélyben (frekvenciakijelölésben, rádióengedélyben, rádióspektrum-használati jogosultságban) foglalható feltételek részletes szabályait, valamint a rádióspektrum-használati jog érvényességének idejét a polgári célú rádióspektrum-gazdálkodás területén;
 
-7.
+7. a kiskorú felhasználóra tekintettel nyújtott biztonságos szolgáltatással összefüggő előfizetői tájékoztatás és a szolgáltatás nyújtása módjának, a 149/F. § (3) bekezdése szerinti lista összeállításának, felülvizsgálatának és közzétételének részletes szabályait;
 
 8. a rádióberendezések és elektronikus hírközlő végberendezések megfelelőség-igazolásának és elismerésének, valamint forgalomba hozatalának, forgalmazásának, üzembe helyezésének részletes szabályait;
 
@@ -109,3 +109,5 @@ i) az alapvető felhasználók elektronikus hírközlési szolgáltatással tör
 (4) Az Elnök (3) bekezdés szerinti jogalkotási hatáskörébe tartozó, 2011. augusztus 1. napját megelőzően kibocsátott jogszabályok az Elnök által azonos tárgykörben kibocsátott jogszabályok hatálybalépésének napjáig maradnak hatályban, e napig alkalmazhatók.
 
 (5) Felhatalmazást kap az SZTFH elnöke, hogy rendeletben határozza meg az elektronikus hírközlő hálózat üzemeltetője által teljesítendő kiberbiztonsági követelményeket.
+
+(6) Felhatalmazást kap az SZTFH elnöke, hogy – az Elnök véleményének kikérésével – rendeletben határozza meg az elektronikus hírközlési szolgáltatáshoz használt rendszerek vonatkozásában alkalmazandó európai vagy nemzeti kiberbiztonsági tanúsítási rendszert.

@@ -42,7 +42,9 @@ g) a 2 hónapot meghaladó lejárt határidejű frekvencia-, vagy azonosítóhas
 
 h) azonosító felhasználásával elkövetett csalás, visszaélés esetén megtilthatja az azonosító további használatát, kötelezheti az érintett szolgáltatókat az azonosító elérésének megakadályozására, elrendelheti az azonosító eléréséért fizetendő díjak (így különösen a végződtetési díjak) visszatartását, és az előfizetőknek felszámított, vagy tőlük beszedett díj jóváírását, illetve visszatérítését;
 
-i) egyéb, törvényben meghatározott szankciót alkalmazhat.
+i) elrendeli az állagmegóvásra, átalakításra, helyreállításra vonatkozó kötelezettség teljesítését, illetve az elektronikus hírközlési építmény bontását, ha annak állapota az állékonyságot, az életet, testi épséget és az egészséget, a köz- és vagyonbiztonságot veszélyezteti, vagy az elektronikus hírközlési építmény használatra alkalmatlan, vagy a használatával véglegesen felhagytak;
+
+j) egyéb, törvényben meghatározott szankciót alkalmazhat.
 
 (8) A (4)–(7) bekezdésben meghatározott jogkövetkezmények együttesen is megállapíthatók.
 

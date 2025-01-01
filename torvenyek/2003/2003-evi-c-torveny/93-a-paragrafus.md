@@ -26,7 +26,7 @@
 
 a) a nagy sebességű elektronikus hírközlő hálózatok kiépítésére műszakilag alkalmatlannak minősülő meglévő fizikai infrastruktúrára való tekintettel, vagy
 
-b) létfontosságú rendszerelem védelme érdekében
+b) kritikus szervezet és kritikus infrastruktúra, valamint az ország védelme és biztonsága szempontjából jelentős szervezet és az ország védelme és biztonsága szempontjából jelentős infrastruktúra ellenálló képessége érdekében
 
 mentességeket határozhat meg az e §-ban foglalt rendelkezések vagy azok egy részének alkalmazása alól.
 

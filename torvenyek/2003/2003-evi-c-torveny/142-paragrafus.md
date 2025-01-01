@@ -12,7 +12,7 @@
 
 (5)
 
-(6) Az elektronikus hírközlési szolgáltatás díjának elszámolása alapjául szolgáló számlázási rendszer információbiztonsági megfeleltetéséről a szolgáltató az állami és önkormányzati szervek elektronikus információbiztonságáról szóló törvénynek megfelelően és módon köteles gondoskodni.
+(6) Az elektronikus hírközlési szolgáltatás díjának elszámolása alapjául szolgáló számlázási rendszer információbiztonsági megfeleltetéséről a szolgáltató Magyarország kiberbiztonságáról szóló törvénynek megfelelően és módon köteles gondoskodni.
 
 (7) A logikai védelmi intézkedések teljesítésének vizsgálata során a számlázási rendszer vizsgálatának a számlázó szoftveren túl a teljes, a számlázásban részt vevő rendszer technológiai vizsgálata szükséges, beleértve a számlázási folyamathoz szükséges összes releváns bemeneti adatot (pl. mérési, fogyasztási adatok) kezelő rendszerelemet. A vizsgálatnak ki kell terjednie a rendszerben alkalmazott számlázó szoftver termék konkrét beállításainak, telepítésének és üzemeltetésének ellenőrzésére is.
 

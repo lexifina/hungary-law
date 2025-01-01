@@ -46,6 +46,8 @@ j) az Európai Elektronikus Hírközlési Kódex létrehozásáról szóló, 201
 
 k) a spektrumhasználatra vonatkozó információk Közösségen belüli harmonizált rendelkezésre állásáról szóló, 2007. május 16-i 2007/344/EK bizottsági határozatnak
 
+l) a kritikus szervezetek rezilienciájáról és a 2008/114/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2022. december 14-i (EU) 2022/2557 európai parlamenti és tanácsi irányelvnek
+
 való megfelelést szolgálja.
 
-(3) A 92/C. §, a 145/A. § és a 182. § (1) bekezdésének h) pontja a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.
+(3) E törvény 92/C. §-a, a 145/A. §-a, a 149/F. § (1) és (2) bekezdése, a 163/Q. § (2)–(4) bekezdése és a 182. § (1) bekezdés h) pontja tervezetének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.

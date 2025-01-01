@@ -1,1 +1,3 @@
-86/B. § Az elektronikus hírközlő hálózat üzemeltetője a Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: SZTFH) elnöke által kiadott rendeletben meghatározott kiberbiztonsági követelmények betartásával és alkalmazásával köteles végezni az üzemeltetési tevékenységet.
+86/B. § (1) Az elektronikus hírközlő hálózat üzemeltetője a Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: SZTFH) elnöke által kiadott rendeletben meghatározott kiberbiztonsági követelmények betartásával és alkalmazásával köteles végezni az üzemeltetési tevékenységet.
+
+(2) Az elektronikus hírközlési szolgáltató által az elektronikus hírközlési szolgáltatáshoz használt rendszernek rendelkeznie kell a Magyarország kiberbiztonságáról szóló törvény alapján kiállított nemzeti vagy európai kiberbiztonsági tanúsítvánnyal, ha az adott, hírközlési szolgáltatáshoz használt rendszerre vonatkozóan nemzeti vagy európai kiberbiztonsági tanúsítási rendszer meghatározásra került.

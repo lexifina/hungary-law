@@ -24,7 +24,7 @@ d) az ajánlat elfogadása jogszabályba, végrehajtható hatósági döntésbe,
 
 a) az építési munkák csekély jelentőségére tekintettel vagy
 
-b) létfontosságú rendszerelem védelme érdekében
+b) kritikus szervezet és kritikus infrastruktúra, valamint az ország védelme és biztonsága szempontjából jelentős szervezet és az ország védelme és biztonsága szempontjából jelentős infrastruktúra ellenálló képessége érdekében
 
 nem kell alkalmazni.
 
