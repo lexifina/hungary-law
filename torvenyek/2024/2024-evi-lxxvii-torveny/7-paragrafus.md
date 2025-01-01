@@ -1,3 +1,15 @@
 ## 3. A Rendőrségről szóló 1994. évi XXXIV. törvény módosítása
 
-### 7. §
+7. § (1) A Rendőrségről szóló 1994. évi XXXIV. törvény 7/B. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
+
+(A megbízhatósági vizsgálatot a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv tagja a következők szerint végezheti:)
+
+## „a) polgári felhasználású robbanóanyaggal és pirotechnikai termékkel kapcsolatos szabálysértést, valótlan bejelentés szabálysértést, vámszabálysértést, vámszabálysértés elkövetőjének segítése szabálysértést, vámorgazdaság szabálysértést, minősített adat biztonságának megsértése szabálysértést, külföldiek rendészetével kapcsolatos szabálysértést, közúti közlekedési igazgatási szabályok megsértése szabálysértést, közúti közlekedési szabályok kisebb fokú megsértése szabálysértést, víziközlekedési szabályok megsértése szabálysértést, köztisztasági szabálysértést, tiltott határátlépés szabálysértést, határrendészeti szabálysértést, gyógyszerrendészeti szabálysértést, segélyhívó számok rendeltetéstől eltérő igénybevétele szabálysértést, büntetés-végrehajtási intézet rendjének megzavarása szabálysértést, fertőző betegség elleni védekezés elmulasztása szabálysértést, védelmi intézkedés megszegése szabálysértést, engedély nélküli vezetés szabálysértést, érvénytelen hatósági engedéllyel vagy jelzéssel való közlekedés szabálysértést, a légiközlekedés biztonságát és védelmét szolgáló szabályok megszegése szabálysértést, valamint olyan szabályszegést követhet el, amelynek esetén közigazgatási bírság kiszabásának van helye,”
+
+(2) A Rendőrségről szóló 1994. évi XXXIV. törvény 7/B. § (2) bekezdés b) pont bb) alpontja helyébe a következő rendelkezés lép:
+
+(A megbízhatósági vizsgálatot a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv tagja a következők szerint végezheti:
+
+nem követhet el)
+
+„bb) a Btk.-ban meghatározott bűncselekményt, a kábítószer-kereskedelem (Btk. 176. §), a kábítószer birtoklás (Btk. 178–180. §), a teljesítményfokozó szerrel visszaélés (Btk. 185. §), a gyógyszerhamisítás (Btk. 185/A. §), emberkereskedelem és kényszermunka (Btk. 192. §), kerítés, (Btk. 200. §), prostitúció elősegítése (Btk. 201. §), gyermekpornográfia (Btk. 204. §), a személyes adattal visszaélés (Btk. 219. §), a magánlaksértés (Btk. 221. §), a minősített adattal visszaélés (Btk. 265. §), a hamis vád [Btk. 268. § és 269. § a) pont], a hatóság félrevezetése [Btk. 271. § (1) és (2) bekezdés], a hamis tanúzás (Btk. 272. §), a hivatali visszaélés (Btk. 305. §), a lopás (Btk. 370. §), a sikkasztás (Btk. 372. §), az információs rendszer felhasználásával elkövetett csalás (Btk. 375. §), a szerzői vagy szerzői joghoz kapcsolódó jogok megsértése (Btk. 385. §), a készpénz-helyettesítő fizetési eszköz hamisítása (Btk. 392. §), a készpénz-helyettesítő fizetési eszközzel visszaélés (Btk. 393. §), a készpénz-helyettesítő fizetési eszköz hamisításának elősegítése (Btk. 394. §), a versenytárs utánzása (Btk. 419. §), illetve a Btk. XXVII., XXXIII. és XXXIX. Fejezetében felsorolt bűncselekmények kivételével,”

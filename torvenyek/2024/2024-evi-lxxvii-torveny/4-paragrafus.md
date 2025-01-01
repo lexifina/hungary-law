@@ -1,1 +1,3 @@
-### 4. §
+4. § Az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvény 14/B. § (9) bekezdése helyébe a következő rendelkezés lép:
+
+„(9) Az ivóvízzel és használati melegvízzel érintkezésbe kerülő közegészségügyi szempontú nyilvántartásba vételhez kötött termékek, vízkezelő vegyszerek és szűrőanyagok bejelentésével, az ivóvízzel és használati melegvízzel érintkezésbe kerülő, ivóvíz-biztonsági engedély alapján forgalomba hozható termékek, vízkezelésére szolgáló berendezések ivóvíz-biztonsági engedélyezésével, valamint a fürdővízzel közvetlenül érintkezésbe kerülő bejelentésköteles anyagok, termékek bejelentésével és a fürdővíz-biztonsági engedélyhez kötött fürdővíz-vízkezelési eljárások engedélyezésével kapcsolatos hatósági ügyekben nincs helye sommás eljárásnak.”

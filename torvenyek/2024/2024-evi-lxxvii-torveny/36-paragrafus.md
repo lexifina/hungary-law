@@ -1,1 +1,9 @@
-### 36. §
+36. § Az egészségügyről szóló 1997. évi CLIV. törvény 137. §-a helyébe a következő rendelkezés lép:
+
+„137. § Az egészségügyi szolgáltató
+
+a) több résztevékenységből álló, összefüggő ellátási folyamat végén vagy fekvőbeteg-gyógyintézeti ellátást követően az ellátás adatait összefoglaló zárójelentést,
+
+b) járóbeteg-szakellátási tevékenység befejezésekor, a beteg ellátásával és gyógykezelésével kapcsolatos összefoglaló adatokat tartalmazó ambuláns ellátási lapot
+
+készít, és azt – a 14. § (1) bekezdésben foglalt eset kivételével – a beteg kérésére a betegnek átadja.”

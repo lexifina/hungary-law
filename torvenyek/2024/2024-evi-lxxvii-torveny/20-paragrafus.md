@@ -1,1 +1,1 @@
-### 20. §
+20. § Az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény 10. § (1) bekezdésében az „a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény (a továbbiakban: Ebtv.)” szövegrész helyébe az „az Ebtv.” szöveg lép.
