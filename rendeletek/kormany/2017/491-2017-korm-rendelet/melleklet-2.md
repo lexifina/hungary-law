@@ -44,7 +44,7 @@
 
 ## 2.1. jelmagyarázatot,
 
-## 2.2. méretekkel ellátott elvi nyomvonalrajzokat, ennek keretében elsősorban alaprajzokat (legalább M=1:200 méretarányban), amelyek tartalmazzák a berendezés részegységeinek, elemeinek telepítési helyét, a jelzésadók, hang- és fényjelzők azonosító számát, a kábelek elvi nyomvonalát, a helyiségek megnevezését és alapterületét, a tűz- és a füstszakasz határok nyomvonalát, valamennyi tervlapon feltüntetve az építmény megnevezését, címét, a tervező nevét, kamarai névjegyzéki jelölését és tűzvédelmi szakvizsga-bizonyítványának számát, az adott tervrajz megnevezését, a tervezés dátumát,
+## 2.2.[^20] méretekkel ellátott elvi nyomvonalrajzokat, ennek keretében elsősorban alaprajzokat (legalább M=1:200 méretarányban), amelyek tartalmazzák a berendezés részegységeinek, elemeinek telepítési helyét, a jelzésadók, hang- és fényjelzők azonosító számát, a kábelek elvi nyomvonalát, a helyiségek megnevezését és alapterületét, a tűz- és a füstszakasz határok nyomvonalát, valamennyi tervlapon feltüntetve az építmény megnevezését, címét, a tervező nevét, kamarai névjegyzéki jelölését, az adott tervrajz megnevezését, a tervezés dátumát,
 
 ## 2.3. metszetrajzot,
 
@@ -108,7 +108,7 @@
 
 ## 3.2. kapcsolási vázlatot,
 
-## 3.3. a telepítés helyét képező szintek méretekkel ellátott alaprajzát, amely tartalmazza a berendezés részegységeinek, elemeinek pozícióját, a csővezetékek nyomvonalát, az oltási zónákat (M=1:50-1:250 méretarányban), a helyiségek megnevezését és alapterületét, a tűz- és a füstszakasz határok nyomvonalát, valamennyi tervlapon feltüntetve az építmény megnevezését, címét, a tervező nevét, kamarai névjegyzéki jelölését és tűzvédelmi szakvizsga-bizonyítványának számát, az adott tervrajz megnevezését, a tervezés dátumát,
+## 3.3.[^21] a telepítés helyét képező szintek méretekkel ellátott alaprajzát, amely tartalmazza a berendezés részegységeinek, elemeinek pozícióját, a csővezetékek nyomvonalát, az oltási zónákat (M=1:50-1:250 méretarányban), a helyiségek megnevezését és alapterületét, a tűz- és a füstszakasz határok nyomvonalát, valamennyi tervlapon feltüntetve az építmény megnevezését, címét, a tervező nevét, kamarai névjegyzéki jelölését, az adott tervrajz megnevezését, a tervezés dátumát,
 
 ## 3.4. metszetrajzot,
 
@@ -122,7 +122,7 @@
 
 ## 5. a tervező tűzvédelmi szakvizsga-bizonyítványának meglétét.
 
-2. melléklet a 491/2017. (XII. 29.) Korm. rendelethez[^13]
+2. melléklet a 491/2017. (XII. 29.) Korm. rendelethez[^22]
 
 A beépített tűzjelző berendezés létesítéséhez szükséges engedély iránti kérelem mellékletét képező elvi jellegű dokumentáció tartalma
 
@@ -172,7 +172,7 @@ A beépített tűzjelző berendezés létesítéséhez szükséges engedély ir�
 
 2.1. jelmagyarázatot,
 
-2.2. méretekkel ellátott elvi nyomvonalrajzokat, ennek keretében elsősorban alaprajzokat (legalább M=1:200 méretarányban), amelyek tartalmazzák a berendezés részegységeinek, elemeinek telepítési helyét, a kábelek elvi nyomvonalát, a helyiségek megnevezését és alapterületét, a tűz- és a füstszakasz határok nyomvonalát, valamennyi tervlapon feltüntetve az építmény megnevezését, címét, a tervező nevét, kamarai névjegyzéki jelölését és tűzvédelmi szakvizsga-bizonyítványának számát, az adott tervrajz megnevezését, a tervezés dátumát,
+2.2.[^23] méretekkel ellátott elvi nyomvonalrajzokat, ennek keretében elsősorban alaprajzokat (legalább M=1:200 méretarányban), amelyek tartalmazzák a berendezés részegységeinek, elemeinek telepítési helyét, a kábelek elvi nyomvonalát, a helyiségek megnevezését és alapterületét, a tűz- és a füstszakasz határok nyomvonalát, valamennyi tervlapon feltüntetve az építmény megnevezését, címét, a tervező nevét, kamarai névjegyzéki jelölését, az adott tervrajz megnevezését, a tervezés dátumát,
 
 2.3. metszetrajzot,
 
@@ -186,4 +186,7 @@ A beépített tűzjelző berendezés létesítéséhez szükséges engedély ir�
 
 4. a tervező tűzvédelmi szakvizsga-bizonyítványának meglétét.
 
-[^13]: A 2. melléklet a 176/2019. (VII. 18.) Korm. rendelet 14. § (7) bekezdés b) pontjával megállapított szöveg.
+[^20]: Az 1. melléklet A) pont 2.2. alpontja a 340/2024. (XI. 14.) Korm. rendelet 22. § f) pontja szerint módosított szöveg.
+[^21]: Az 1. melléklet B) pont 3.3. alpontja a 340/2024. (XI. 14.) Korm. rendelet 22. § f) pontja szerint módosított szöveg.
+[^22]: A 2. melléklet a 176/2019. (VII. 18.) Korm. rendelet 14. § (7) bekezdés b) pontjával megállapított szöveg.
+[^23]: A 2. melléklet A) pont 2.2. alpontja a 340/2024. (XI. 14.) Korm. rendelet 22. § f) pontja szerint módosított szöveg.

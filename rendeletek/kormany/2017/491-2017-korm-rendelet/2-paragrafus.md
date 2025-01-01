@@ -1,4 +1,4 @@
-2. § (1)[^7] A tűzvédelmi hatóság engedélyező határozatának rendelkező része tartalmazza
+2. § (1)[^9] A tűzvédelmi hatóság engedélyező határozatának rendelkező része tartalmazza
 
 a) a berendezés megnevezését,
 
@@ -12,17 +12,11 @@ da) a tervező nevét, kamarai névjegyzéki jelölését,
 
 db) a létesítési engedély hatályát,
 
-e) a használatbavételi engedély megadása esetén
+e)[^10]
 
-ea) a berendezés folyamatos üzemeltetésének szükségességére való figyelmeztetést,
+f)[^11]
 
-eb) tűzoltó berendezés esetén az oltóanyag megnevezését,
-
-ec) tűzjelző berendezés és oltásvezérlő központtal létesülő tűzoltó berendezés esetén a tűzjelző központ és az oltásvezérlő központ típusát,
-
-f) a megszüntetési engedély megadása esetén az arra vonatkozó figyelmeztetést, hogy a berendezés megszüntetésével a fennálló biztonsági szint csökken.
-
-(2) A berendezés létesítési engedélye a véglegessé válásától számított három évig hatályos, amely időtartam alatt a berendezés használatbavételi engedély iránti kérelmét be kell nyújtani. Ha a létesítési engedély véglegessé válását követő három éven belül a berendezés használatbavételének engedélyezése iránti kérelmet nem nyújtották be, a létesítés engedélyezését ismételten kérelmezni kell.
+(2)[^12] A berendezés létesítési engedélye a véglegessé válásától számított három évig hatályos, amely időtartam alatt a berendezés használatbavételét be kell jelenteni. Ha a létesítési engedély véglegessé válását követő három éven belül a berendezés használatbavételét nem jelentették be, a létesítés engedélyezését ismételten kérelmezni kell.
 
 (3) A tűzvédelmi hatóság a létesítési engedély iránti kérelmet elutasítja, ha
 
@@ -30,28 +24,13 @@ a) a tervező nem rendelkezik megfelelő jogosultsággal vagy képesítéssel, v
 
 b) az Országos Tűzvédelmi Szabályzatról szóló miniszteri rendeletben meghatározott biztonsági szint nem teljesül, vagy annak teljesülését a kérelemhez mellékelt dokumentáció vagy annak hiánypótlási felhívásra benyújtott kiegészítése nem támasztja alá.
 
-(4)[^8] A tűzvédelmi hatóság a használatbavételi engedély iránti kérelmet elutasítja, ha
+(4)[^13]
 
-a) a kivitelezésért felelős műszaki vezető, ennek hiányában a kivitelező, illetve az üzembe helyező mérnök nem rendelkezik megfelelő jogosultsággal vagy képesítéssel,
+(5)[^14]
 
-b) az előírt oltóanyag-mennyiség nem biztosított,
-
-c) a berendezés állandó felügyelete nem biztosított,
-
-d) a riasztás megjelenítése nem biztosított a védett építményben, építményrészben tartózkodó személyek számára beazonosítható módon,
-
-e) a berendezés részegységeinek megfelelőségét, teljesítményét nem igazolták, vagy
-
-f) a kivitelezésért felelős műszaki vezető, ennek hiányában a kivitelező nyilatkozata, az üzembe helyező mérnök nyilatkozata vagy az üzembehelyezési jegyzőkönyv nem áll rendelkezésre.
-
-(5)[^9] A tűzvédelmi hatóság a megszüntetési engedély iránti kérelmet elutasítja, ha
-
-a) a berendezés létesítését a megszüntetési engedély iránti kérelem benyújtásakor hatályban lévő jogszabályi rendelkezés előírja,
-
-b) a megszüntetés feltételeinek teljesülését nem igazolták, vagy
-
-c) a berendezés további üzemeltetésére okot adó körülmény áll fenn.
-
-[^7]: A 2. § (1) bekezdése a 176/2019. (VII. 18.) Korm. rendelet 14. § (4) bekezdésével megállapított szöveg.
-[^8]: A 2. § (4) bekezdése a 176/2019. (VII. 18.) Korm. rendelet 14. § (5) bekezdésével megállapított szöveg.
-[^9]: A 2. § (5) bekezdése a 176/2019. (VII. 18.) Korm. rendelet 14. § (6) bekezdésével megállapított szöveg.
+[^9]: A 2. § (1) bekezdése a 176/2019. (VII. 18.) Korm. rendelet 14. § (4) bekezdésével megállapított szöveg.
+[^10]: A 2. § (1) bekezdés e) pontját a 340/2024. (XI. 14.) Korm. rendelet 22. § d) pontja hatályon kívül helyezte.
+[^11]: A 2. § (1) bekezdés f) pontját a 340/2024. (XI. 14.) Korm. rendelet 22. § d) pontja hatályon kívül helyezte.
+[^12]: A 2. § (2) bekezdése a 340/2024. (XI. 14.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^13]: A 2. § (4) bekezdését a 340/2024. (XI. 14.) Korm. rendelet 22. § e) pontja hatályon kívül helyezte.
+[^14]: A 2. § (5) bekezdését a 340/2024. (XI. 14.) Korm. rendelet 22. § e) pontja hatályon kívül helyezte.

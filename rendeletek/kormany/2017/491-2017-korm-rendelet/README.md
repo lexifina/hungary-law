@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-491-20-
 | 2020-02-01 | 2017-491-20-22.3 | 6/2020. (I. 31.) Korm. rendelet |
 | 2023-01-01 | 2017-491-20-22.4 | 569/2022. (XII. 23.) Korm. rendelet |
 | 2024-12-21 | 2017-491-20-22.6 | 408/2024. (XII. 20.) Korm. rendelet |
+| 2025-01-01 | 2017-491-20-22.5 | 340/2024. (XI. 14.) Korm. rendelet |
