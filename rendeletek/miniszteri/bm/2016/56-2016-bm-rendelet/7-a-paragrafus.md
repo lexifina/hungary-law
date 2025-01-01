@@ -1,4 +1,4 @@
-## 7/A. §[^7] A Hszt. 82/C. § (2c) bekezdése szerinti előterjesztéssel az Országgyűlési Őrség parancsnoka a továbbfoglalkoztatási kötelezettség alóli mentesítési eljárás lefolytatásához szükséges alábbi iratokat terjeszti fel az Országgyűlés elnökéhez:
+## 7/A. §[^8] A Hszt. 82/C. § (2c) bekezdése szerinti előterjesztéssel az Országgyűlési Őrség parancsnoka a továbbfoglalkoztatási kötelezettség alóli mentesítési eljárás lefolytatásához szükséges alábbi iratokat terjeszti fel az Országgyűlés elnökéhez:
 
 a) a FÜV Bizottság által folytatott eljárás során beszerzett, a rehabilitációs hatóság által kiállított szakvélemény,
 
@@ -24,4 +24,4 @@ k) az egészségügyi dokumentáció,
 
 l) a Becsületbíróság döntése.
 
-[^7]: A 7/A. §-t a 40/2017. (XII. 29.) BM rendelet 17. § (2) bekezdése iktatta be.
+[^8]: A 7/A. §-t a 40/2017. (XII. 29.) BM rendelet 17. § (2) bekezdése iktatta be.
