@@ -1,4 +1,4 @@
-1. melléklet a 236/2013. (VI. 30.) Korm. rendelethez[^20]
+1. melléklet a 236/2013. (VI. 30.) Korm. rendelethez[^23]
 
 Teljesítésigazolási Szakértői Szerv véleménye iránti kérelem
 
@@ -78,4 +78,4 @@ Kelt: ........................... , ........ év .............................. 
 
 kérelmező aláírása
 
-[^20]: Az 1. melléklet a 426/2015. (XII. 23.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^23]: Az 1. melléklet a 426/2015. (XII. 23.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.

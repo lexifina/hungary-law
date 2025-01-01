@@ -1,6 +1,6 @@
 ## 4. A Szerv működése
 
-4. § (1) A Szervet a vezetője irányítja és képviseli. A vezetőt akadályoztatása esetén, illetve ha a vezetői tisztség nincsen betöltve, a vezetőhelyettes helyettesíti.
+4. § (1)[^7] A Szervet a vezetője irányítja és képviseli. A vezetőt akadályoztatása esetén, illetve ha a vezetői tisztség nincsen betöltve, a vezetőhelyettes látja el a vezetői feladatokat.
 
 (2) A vezető feladatai a Szerv adminisztratív működtetésével kapcsolatban:
 
@@ -29,3 +29,5 @@ i) az építésgazdaságért felelős miniszter elé terjeszti a bizottság ált
 (5) A Szerv titkársági feladatait a Magyar Kereskedelmi és Iparkamara, míg a Szerv működéséről való tájékoztatást, információ közvetítést a Magyar Kereskedelmi és Iparkamara a területi kereskedelmi és iparkamarák bevonásával látja el.
 
 (6) A Szerv és a Magyar Kereskedelmi és Iparkamara között, a Szerv és a területi kereskedelmi és iparkamarák között, valamint a Szerv tagjai között a kapcsolattartás módja elektronikus.
+
+[^7]: A 4. § (1) bekezdése a 331/2024. (XI. 14.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.

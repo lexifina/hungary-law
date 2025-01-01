@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-236-20-
 | 2018-01-01 | 2013-236-20-22.5 | 432/2017. (XII. 21.) Korm. rendelet |
 | 2022-07-01 | 2013-236-20-22.6 | 238/2022. (VI. 30.) Korm. rendelet |
 | 2023-10-22 | 2013-236-20-22.7 | 426/2015. (XII. 23.) Korm. rendelet |
+| 2025-01-01 | 2013-236-20-22.8 | 331/2024. (XI. 14.) Korm. rendelet |

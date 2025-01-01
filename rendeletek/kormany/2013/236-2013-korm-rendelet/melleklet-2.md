@@ -1,4 +1,4 @@
-2. melléklet a 236/2013. (VI. 30.) Korm. rendelethez[^21]
+2. melléklet a 236/2013. (VI. 30.) Korm. rendelethez[^24]
 
 Teljesítésigazolási Szakértői Szerv véleménye
 
@@ -196,4 +196,4 @@ aláírása
 
 P. H.
 
-[^21]: A 2. melléklet a 426/2015. (XII. 23.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^24]: A 2. melléklet a 426/2015. (XII. 23.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.

@@ -18,4 +18,6 @@ g) a szakértői díj kérelmezőnek történő visszautalás részleteit.
 
 (3) A Szerv tagjairól vezetett nyilvántartást, az ügyrendet és az évenkénti beszámolót a Magyar Kereskedelmi és Iparkamara hivatalos honlapján kell közzétenni.
 
-(4) A Szerv pecsétje Magyarország címerét és a „Teljesítésigazolási Szakértői Szerv” nevét tartalmazza.
+(4)[^8] A Szerv bélyegzője Magyarország címerét és a „Teljesítésigazolási Szakértői Szerv” nevét tartalmazza.
+
+[^8]: Az 5. § (4) bekezdése a 331/2024. (XI. 14.) Korm. rendelet 6. § d) pontja szerint módosított szöveg.

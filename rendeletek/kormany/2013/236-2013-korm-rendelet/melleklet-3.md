@@ -1,4 +1,4 @@
-3. melléklet a 236/2013. (VI. 30.) Korm. rendelethez[^22]
+3. melléklet a 236/2013. (VI. 30.) Korm. rendelethez[^25]
 
 Teljesítésigazolási Szakértői Szerv véleményének kivonata
 
@@ -126,4 +126,4 @@ aláírása
 
 P. H.
 
-[^22]: A 3. melléklet a 426/2015. (XII. 23.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^25]: A 3. melléklet a 426/2015. (XII. 23.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
