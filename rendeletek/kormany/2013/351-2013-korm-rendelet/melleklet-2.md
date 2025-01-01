@@ -240,6 +240,6 @@
 
 | 9.14. eHVB tárhelyre küldés | X |  |  |  |
 
-2. melléklet a 351/2013. (X. 4.) Korm. rendelethez[^64]
+2. melléklet a 351/2013. (X. 4.) Korm. rendelethez[^65]
 
-[^64]: A 2. melléklet a 377/2023. (VIII. 10.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg.
+[^65]: A 2. melléklet a 377/2023. (VIII. 10.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg.
