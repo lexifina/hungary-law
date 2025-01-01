@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-95-00-00
 | 2021-01-01 | 2020. évi CXXIII. törvény | 2009-95-00-00.13 |
 | 2023-07-01 | 2023. évi XLIV. törvény | 2009-95-00-00.14 |
 | 2024-01-01 | 2023. évi XCIV. törvény | 2009-95-00-00.15 |
+| 2025-01-01 | 2024. évi L. törvény | 2009-95-00-00.16 |
