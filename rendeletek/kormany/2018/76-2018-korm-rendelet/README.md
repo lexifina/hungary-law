@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-76-20-2
 | 2021-12-25 | 2018-76-20-22.9 | 178/2021. (IV. 15.) Korm. rendelet |
 | 2022-12-31 | 2018-76-20-22.10 | 178/2021. (IV. 15.) Korm. rendelet |
 | 2023-01-09 | 2018-76-20-22.11 | 594/2022. (XII. 28.) Korm. rendelet |
+| 2025-01-01 | 2018-76-20-22.12 | 364/2024. (XI. 28.) Korm. rendelet |

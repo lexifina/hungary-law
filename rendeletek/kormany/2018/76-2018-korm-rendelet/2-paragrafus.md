@@ -1,12 +1,12 @@
 ## 2. A Széchenyi Pihenő Kártya működési rendje
 
-2. § (1)[^1] A személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) 71. § (1) bekezdése szerinti munkáltatói juttatást (a továbbiakban: Széchenyi Pihenő Kártya juttatás) a pénzforgalmi szolgáltató a munkavállalóval kötött, pénzforgalmi szolgáltatás nyújtására irányuló keretszerződés alapján nyitott és vezetett, olyan korlátozott rendeltetésű fizetési számlán írja jóvá, amelyen lévő pénzeszközök kizárólag az e rendeletben meghatározott célokra használhatók fel. A korlátozott fizetési számlának csak egy természetes személy lehet a tulajdonosa.
+2. § (1)[^2] A személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) 71. § (1) és (1a) bekezdése szerinti munkáltatói juttatást (a továbbiakban: Széchenyi Pihenő Kártya juttatás) a pénzforgalmi szolgáltató a munkavállalóval kötött, pénzforgalmi szolgáltatás nyújtására irányuló keretszerződés alapján nyitott és vezetett, olyan korlátozott rendeltetésű fizetési számlán írja jóvá, amelyen lévő pénzeszközök kizárólag az e rendeletben meghatározott célokra használhatók fel. A korlátozott fizetési számlának csak egy természetes személy lehet a tulajdonosa.
 
-(2)[^2] Az Szja tv. 71. § (5) bekezdés d) pontja szerinti Széchenyi Pihenő Kártyát a pénzforgalmi szolgáltatónak műanyag formájú olyan készpénz-helyettesítő fizetési eszközként kell kibocsátania, amely
+(2)[^3] Az Szja tv. 71. § (5) bekezdés d) pontja szerinti Széchenyi Pihenő Kártyát a pénzforgalmi szolgáltatónak műanyag formájú olyan készpénz-helyettesítő fizetési eszközként kell kibocsátania, amely
 
 a) a kártyabirtokos számára kizárólag az (1) bekezdés szerinti, korlátozott rendeltetésű fizetési számlán jóváírt Széchenyi Pihenő Kártya juttatások terhére tesz lehetővé fizetési megbízások megtételét,
 
 b) elektronikus elfogadóhelyi terminál által olvasható, és azon keresztül is alkalmas a fizetési megbízások megtételére.
 
-[^1]: A 2. § (1) bekezdése a 311/2018. (XII. 27.) Korm. rendelet 40. § 1. pontja szerint módosított szöveg.
-[^2]: A 2. § (2) bekezdés nyitó szövegrésze a 311/2018. (XII. 27.) Korm. rendelet 40. § 2. pontja szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdése a 311/2018. (XII. 27.) Korm. rendelet 40. § 1. pontja, a 449/2024. (XII. 23.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § (2) bekezdés nyitó szövegrésze a 311/2018. (XII. 27.) Korm. rendelet 40. § 2. pontja szerint módosított szöveg.
