@@ -1,5 +1,5 @@
-3. melléklet a 70/2016. (XII. 29.) NFM rendelethez[^25]
+3. melléklet a 70/2016. (XII. 29.) NFM rendelethez[^29]
 
 Egyetemes szolgáltatói árrés mértéke
 
-[^25]: A 3. melléklet a 17/2024. (IX. 30.) EM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^29]: A 3. melléklet a 45/2024. (XII. 31.) EM rendelet 3. § (2) bekezdésével megállapított szöveg.

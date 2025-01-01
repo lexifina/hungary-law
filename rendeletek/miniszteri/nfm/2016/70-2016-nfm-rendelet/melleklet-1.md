@@ -1,4 +1,4 @@
-1. melléklet a 70/2016. (XII. 29.) NFM rendelethez[^19]
+1. melléklet a 70/2016. (XII. 29.) NFM rendelethez[^21]
 
 1. Az elismert fajlagos földgázár meghatározása negyedévre (Ft/kWh) (felső hőértéken):
 
@@ -12,9 +12,9 @@ n = (nk * zf) + ntk
 
 zf megállapítása a 4. pont szerint történik.
 
-3. 2022. október 1-jétől az egyetemes szolgáltatás árában elismerésre kerülő egyetemes szolgáltatói árrés (e) gázévenként:
+3.[^22] 2025. október 1-jétől az egyetemes szolgáltatás árában elismerésre kerülő egyetemes szolgáltatói árrés (e) gázévenként:
 
-e = (ek * zf)+ etk
+e = (ek * zf) + etk + ekr
 
 zf megállapítása a 4. pont szerint történik.
 
@@ -80,7 +80,7 @@ z = 1+( csz * Brátlagkereset /100 + cCPI * CPI/100)/( csz + cCPI )
 
 5.16. ntk: a 2. melléklet szerinti tőkeköltség elem alapján számított, nagykereskedelmi árrésben figyelembe vett tőkeköltség fajlagos értéke, Ft/MWh;
 
-5.17.[^20] S: az eltérés (spread) értéke megegyezik a Felajánlási rendelet 3. melléklete szerinti sp értékkel.
+5.17.[^23] S: az eltérés (spread) értéke megegyezik a Felajánlási rendelet 3. melléklete szerinti sp értékkel.
 
 5.18. TTF: az aktuális negyedévet megelőző negyedév második hónapjának 1. napjától a 15. napjáig terjedő időszak napjain, a Hivatal honlapján megjelölt adatforrás szerinti (égéshő figyelembevételével)
 
@@ -90,5 +90,9 @@ EUR/MWh-ban közzétett napvégi, az aktuális negyedévre vonatkozó TTF adatok
 
 5.20. zf: a tárgyidőszaki (rendszeres) árkorrekciós javaslatban figyelembe vett kompozit index tényező.
 
-[^19]: Az 1. melléklet a 48/2021. (IX. 30.) ITM rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^20]: Az 1. melléklet 5. pont 5.17. alpontja a 21/2022. (IX. 30.) TIM rendelet 2. § (4) bekezdésével megállapított szöveg.
+5.21.[^24] ekr: a földgáz egyetemes szolgáltatói engedélyes tevékenység keretében az Ehat. szerinti energiahatékonysági kötelezettségi rendszerben a megelőző naptári évre vonatkozó kötelezettségek teljesítése érdekében felmerülő költségek, beleértve a 3. § (7) bekezdése szerinti utólagos korrekciókat is.
+
+[^21]: Az 1. melléklet a 48/2021. (IX. 30.) ITM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^22]: Az 1. melléklet 3. pontja a 45/2024. (XII. 31.) EM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^23]: Az 1. melléklet 5. pont 5.17. alpontja a 21/2022. (IX. 30.) TIM rendelet 2. § (4) bekezdésével megállapított szöveg.
+[^24]: Az 1. melléklet 5.21. pontját a 45/2024. (XII. 31.) EM rendelet 3. § (1) bekezdése iktatta be.

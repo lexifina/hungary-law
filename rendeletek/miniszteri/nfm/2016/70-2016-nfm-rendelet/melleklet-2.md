@@ -1,4 +1,4 @@
-2. melléklet a 70/2016. (XII. 29.) NFM rendelethez[^21]
+2. melléklet a 70/2016. (XII. 29.) NFM rendelethez[^25]
 
 Az egyetemes szolgáltatói és nagykereskedői árrések megállapítására vonatkozó keretszabályok
 
@@ -28,7 +28,7 @@ aa) β: értéke az egyetemes szolgáltatói tevékenység tényleges működés
 
 ab) CR: országkockázati prémium, értéke a Bloomberg adatai alapján a magyar (Bloomberg: YCCD1967 Index) és az USA (Bloomberg: YCCD2637 Index) CDS árfolyamai alapján GET 146/P. § (1) bekezdés a) pontja szerinti árszabályozási ciklust megelőző eszköz- és költség-felülvizsgálat során négy évre visszamenőleg a havi középárfolyamok (Mid Trade) átlagaiból számtani átlagolással kerül meghatározásra, százalék;
 
-ac)[^22] finanszírozási igény: a napi készpénzforgalmi kumulált egyenleg minimuma és az egyetemes szolgáltatás érdekében felmerült, indokolt bankgarancia költségek összege, értéke magában foglalja az engedélyesnél felmerült mobilgáz-finanszírozási költséget, Ft;
+ac)[^26] finanszírozási igény: a napi készpénzforgalmi kumulált egyenleg minimuma és az egyetemes szolgáltatás érdekében felmerült, indokolt bankgarancia költségek összege, értéke magában foglalja az engedélyesnél felmerült mobilgáz-finanszírozási költséget, Ft;
 
 ad) hkbevétel: megállapítása a készpénzforgalmi egyenleg kumulált értékéből számított, működéshez szükséges hitelkeretből ténylegesen rendelkezésre álló összeg napi szintű alakulása alapján történik, évente felülvizsgálatra kerül, Ft;
 
@@ -36,7 +36,7 @@ ae) hklenemhívott: megállapítása a készpénzforgalmi egyenleg kumulált ér
 
 af) hkráfordítás: megállapítása a készpénzforgalmi egyenleg kumulált értékéből számított, a működéshez szükséges hitelkeretből ténylegesen lehívott összeg napi szintű alakulása alapján történik, évente felülvizsgálatra kerül, Ft;
 
-ag)[^23] kamatbevétel: a Magyar Nemzeti Bank által kiadott „A nem pénzügyi vállalati szektorral kötött piaci forinthitel és forintbetét szerződések átlagkamata” című publikációnak az 5. táblájában közölt „Látra szóló és folyószámlabetét” (1-es sorszámú mutató) kamata, értéke megegyezik a Get 146/P. § (1) bekezdés a) pontja szerinti árszabályozási ciklust megelőző eszköz- és költség-felülvizsgálat során meghatározott értékkel, százalék;
+ag)[^27] kamatbevétel: a Magyar Nemzeti Bank által kiadott „A nem pénzügyi vállalati szektorral kötött piaci forinthitel és forintbetét szerződések átlagkamata” című publikációnak az 5. táblájában közölt „Látra szóló és folyószámlabetét” (1-es sorszámú mutató) kamata, értéke megegyezik a Get 146/P. § (1) bekezdés a) pontja szerinti árszabályozási ciklust megelőző eszköz- és költség-felülvizsgálat során meghatározott értékkel, százalék;
 
 ah) kamatráfordítás: a Magyar Nemzeti Bank által kiadott „A nem pénzügyi vállalati szektorral kötött piaci forinthitel és forintbetét szerződések átlagkamata” című publikációnak az 5. táblájában közölt „Egyéb rövid hitelek” (9-es sorszámú mutató) kamata, értéke megegyezik a GET 146/P. § (1) bekezdés a) pontja szerinti árszabályozási ciklust megelőző eszköz- és költség-felülvizsgálat során meghatározott értékkel, százalék;
 
@@ -60,9 +60,9 @@ bb) a szagosítás finanszírozás.
 
 A korrigált mennyiségi adatok megállapítása során a fogyasztást befolyásoló más tényezők – mint pl. világgazdasági reálfolyamatok, illetve a fogyasztói szokások változásának – hatását a Hivatal indokolt esetben figyelembe veszi.
 
-4.[^24] Az éves árkarbantartás során az egyetemes szolgáltatói árrés és a nagykereskedői árrés a 2. pont alapján úgy kerül meghatározásra, hogy a 2. pont a) alpont ac), ag), ah), valamint am) pont értékét újra kell számítani, azzal, hogy ha a 2. pont a) alpont ac) pontja szerinti elem 10%-ot meghaladó mértékben változik, úgy a 2. pont a) alpont al) pontja szerinti elem értékét is úja meg kell határozni.
+4.[^28] Az éves árkarbantartás során az egyetemes szolgáltatói árrés és a nagykereskedői árrés a 2. pont alapján úgy kerül meghatározásra, hogy a 2. pont a) alpont ac), ag), ah), valamint am) pont értékét újra kell számítani, azzal, hogy ha a 2. pont a) alpont ac) pontja szerinti elem 10%-ot meghaladó mértékben változik, úgy a 2. pont a) alpont al) pontja szerinti elem értékét is úja meg kell határozni.
 
-[^21]: A 2. melléklet a 48/2021. (IX. 30.) ITM rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^22]: A 2. melléklet 2. pont a) alpont ac) pontja a 21/2022. (IX. 30.) TIM rendelet 2. § (5) bekezdésével megállapított szöveg.
-[^23]: A 2. melléklet 2. pont a) alpont ag) pontja a 21/2022. (IX. 30.) TIM rendelet 2. § (5) bekezdésével megállapított szöveg.
-[^24]: A 2. melléklet 4. pontját a 21/2022. (IX. 30.) TIM rendelet 2. § (5) bekezdése iktatta be.
+[^25]: A 2. melléklet a 48/2021. (IX. 30.) ITM rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^26]: A 2. melléklet 2. pont a) alpont ac) pontja a 21/2022. (IX. 30.) TIM rendelet 2. § (5) bekezdésével megállapított szöveg.
+[^27]: A 2. melléklet 2. pont a) alpont ag) pontja a 21/2022. (IX. 30.) TIM rendelet 2. § (5) bekezdésével megállapított szöveg.
+[^28]: A 2. melléklet 4. pontját a 21/2022. (IX. 30.) TIM rendelet 2. § (5) bekezdése iktatta be.
