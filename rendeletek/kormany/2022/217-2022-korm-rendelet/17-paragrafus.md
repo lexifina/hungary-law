@@ -1,4 +1,4 @@
-17. §[^25] (1)[^26] E rendeletnek a Mód. rendelettel megállapított 10/A. § (3) bekezdése szerinti nyilatkozattételi felhívást az egyetemes szolgáltató első alkalommal a Mód. rendelet hatálybalépését követő 5. napig, 2022. november 30-ai határidővel teszi meg. A nyilatkozat az e rendelet hatálybalépését követő 5. munkanaptól tehető meg.
+17. §[^27] (1)[^28] E rendeletnek a Mód. rendelettel megállapított 10/A. § (3) bekezdése szerinti nyilatkozattételi felhívást az egyetemes szolgáltató első alkalommal a Mód. rendelet hatálybalépését követő 5. napig, 2022. november 30-ai határidővel teszi meg. A nyilatkozat az e rendelet hatálybalépését követő 5. munkanaptól tehető meg.
 
 (2) Az egyetemes szolgáltatásra nem jogosult felhasználó 2022. november 30. napjáig az egyetemes szolgáltató által e célra biztosított elektronikus felületen keresztül, e-mail-címének megjelölésével tájékoztatja az őt ellátó egyetemes szolgáltatót arról, ha 2022. december 31. napját követően ellátását más villamosenergia-kereskedővel, illetve földgázkereskedővel kívánja biztosítani, ettől eltérő esetben a nyilatkozat érvénytelen. A tájékoztatásra nyitva álló határidő jogvesztő. A nyilatkozat a Mód. rendelet hatálybalépését követő 5. munkanaptól tehető meg.
 
@@ -46,9 +46,9 @@ b) elosztóhálózat-használati szerződését a 2022. december 31-i gáznapon 
 
 (7) A (6) bekezdés b) pontjában foglaltak végrehajtása érdekében az egyetemes szolgáltató a kezelésében lévő elosztóhálózat-használati szerződéseket a földgázkereskedő részére átadja.
 
-(8)[^27] Az önkormányzati, illetve állami fenntartású bérlakás bérbeadója a veszélyhelyzettel összefüggő kormányrendeletek módosításáról szóló 67/2023. (III. 8.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 5/A. §-a alapján a Módr2. hatálybalépésétől[^28] számított 60 napon belül gondoskodik a lakásbérleti szerződések módosításáról.
+(8)[^29] Az önkormányzati, illetve állami fenntartású bérlakás bérbeadója a veszélyhelyzettel összefüggő kormányrendeletek módosításáról szóló 67/2023. (III. 8.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 5/A. §-a alapján a Módr2. hatálybalépésétől[^30] számított 60 napon belül gondoskodik a lakásbérleti szerződések módosításáról.
 
-[^25]: A 17. §-t a 443/2022. (XI. 7.) Korm. rendelet 2. §-a iktatta be.
-[^26]: A 17. § (1) bekezdése a 470/2022. (XI. 21.) Korm. rendelet 1. § (3) bekezdése szerint módosított szöveg.
-[^27]: A 17. § (8) bekezdését a 67/2023. (III. 8.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^28]: A hatálybalépés időpontja 2023. március 9.
+[^27]: A 17. §-t a 443/2022. (XI. 7.) Korm. rendelet 2. §-a iktatta be.
+[^28]: A 17. § (1) bekezdése a 470/2022. (XI. 21.) Korm. rendelet 1. § (3) bekezdése szerint módosított szöveg.
+[^29]: A 17. § (8) bekezdését a 67/2023. (III. 8.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^30]: A hatálybalépés időpontja 2023. március 9.
