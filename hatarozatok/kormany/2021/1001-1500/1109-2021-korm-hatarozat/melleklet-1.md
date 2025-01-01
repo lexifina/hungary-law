@@ -22,15 +22,7 @@
 
 ## Határidő: azonnal
 
-## 5. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva, a 2. pontban meghatározott célkitűzés megvalósítása érdekében, az álláshely létesítése egyszeri költségeinek fedezetére 832 460 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet XII. Agrárminisztérium fejezet, 1. Agrárminisztérium igazgatása cím terhére, a Kvtv. 1. melléklet XVIII. Külgazdasági és Külügyminisztérium fejezet, 2. Külképviseletek igazgatása cím javára, az 1. melléklet szerint;
-
-## Felelős: pénzügyminiszter
-
-## agrárminiszter
-
-## külgazdasági és külügyminiszter
-
-## Határidő: 2021. március 31.
+## 5.[^2]
 
 ## 6. úgy határoz, hogy a 2. pontban meghatározott szakdiplomata-álláshely létesítésével kapcsolatos beszerzésekre a Kormány irányítása alá tartozó fejezetek költségvetési szerveinek eszközbeszerzéseiről szóló 1982/2013. (XII. 29.) Korm. határozat 1. pontját nem kell alkalmazni.
 
@@ -38,56 +30,7 @@
 
 ## Határidő: a felmerülés ütemében
 
-1. melléklet az 1109/2021. (III. 10.) Korm. határozathoz
+1. melléklet az 1109/2021. (III. 10.) Korm. határozathoz[^3]
 
-| XII. Agrárminisztérium XVIII. Külgazdasági és Külügyminisztérium ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA Költségvetési év: 2021. forintban |
-
-| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | K I A D Á S O K | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XII. |  |  |  |  |  | Agrárminisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 004240 |  | 1 |  |  |  |  |  | Agrárminisztérium igazgatása |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K3 |  |  |  |  |  | Dologi kiadások |  |  |  |  |  |  |  |  | -832 460 |  |  |  |
-
-|  | XVIII. |  |  |  |  |  | Külgazdasági és Külügyminisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 004118 |  | 2 |  |  |  |  |  | Külképviseletek igazgatása |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K6 |  |  |  |  |  | Beruházások |  |  |  |  |  |  |  |  | 832 460 |  |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |
-
-| forintban |
-
-| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | B E V É T E L | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |
-
-| forintban |
-
-| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | T Á M O G A T Á S | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XII. |  |  |  |  |  | Agrárminisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 004240 |  | 1 |  |  |  |  |  | Agrárminisztérium igazgatása |  |  |  |  |  |  |  |  |  |  | -832 460 |  |  |  |
-
-|  | XVIII. |  |  |  |  |  | Külgazdasági és Külügyminisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 004118 |  | 2 |  |  |  |  |  | Külképviseletek igazgatása |  |  |  |  |  |  |  |  |  |  | 832 460 |  |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |
-
-|  |  |  |  |  |  |  |  |  |  |  |  | Foglalkoztatottak létszáma (fő) - időszakra |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Az adatlap 1 eredeti példányban töltendő ki | A támogatás folyósítása/zárolása (módosítása +/-) | Összesen |  | I.n.év | II. n.év | III.n.év | IV.n.év |
-
-| Magyar Államkincstár | 1 példány | időarányos teljesítésarányos egyéb: 2021. március 31. | 832 460 |  | 832 460 |  |  |  |
-
-| * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+[^2]: Az 5. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^3]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
