@@ -6,4 +6,6 @@
 
 (4) A kereskedő az (1) bekezdés szerinti kötelezettségének teljesítése érdekében magyarországi gyártás esetén a gyártó, ettől eltérő esetben az első magyarországi forgalomba hozó, valamint a nagykereskedő köteles – az érintett termék kereskedő részére történő első értékesítése alkalmával – a termék kísérő dokumentációjában vagy más módon írásban a kereskedő részére megfelelő tartalmú tájékoztatást nyújtani a termék kiszerelésének csökkenéséről és a korábbi kiszerelési egységek esetleges kivezetéséről.
 
-(5) Magyarországi gyártás esetén a gyártó, ettől eltérő esetben az első magyarországi forgalomba hozó, valamint a nagykereskedő a (4) bekezdés és a 8. § (2) bekezdése szerinti tájékoztatási kötelezettségének első alkalommal történő teljesítésével egyidejűleg köteles a kereskedő részére nyújtott tájékoztatással megegyező tartalommal tájékoztatást nyújtani a Nemzeti Élelmiszerlánc-biztonsági Hivatal részére.
+(5)[^2] Magyarországi gyártás esetén a gyártó, ettől eltérő esetben az első magyarországi forgalomba hozó, valamint a nagykereskedő a (4) bekezdés és a 8. § (2) bekezdése szerinti tájékoztatási kötelezettségének első alkalommal történő teljesítésével egyidejűleg köteles a kereskedő részére nyújtott tájékoztatással megegyező tartalommal tájékoztatást nyújtani a Nemzeti Kereskedelmi és Fogyasztóvédelmi Hatóság (a továbbiakban: NKFH) részére.
+
+[^2]: A 3. § (5) bekezdése a 329/2024. (XI. 14.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
