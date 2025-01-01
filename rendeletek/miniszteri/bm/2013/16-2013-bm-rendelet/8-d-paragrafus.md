@@ -1,4 +1,4 @@
-## II/B. Fejezet[^20]
+## II/B. Fejezet[^21]
 
 ## AZ EGÉSZSÉGÜGYI ÁGAZAT SZERVEINEK HONVÉDELMI FELADATAI
 
@@ -18,15 +18,15 @@ esetén.
 
 a) Országos Kórházi Főigazgatóság,
 
-b)[^21] Nemzeti Népegészségügyi és Gyógyszerészeti Központ,
+b)[^22] Nemzeti Népegészségügyi és Gyógyszerészeti Központ,
 
-c)[^22]
+c)[^23]
 
 d) Országos Mentőszolgálat,
 
 e) fekvőbeteg-szakellátást végző egészségügyi szolgáltatók,
 
-f) kijelölt egészségügyi létfontosságú rendszerelemek.
+f)[^24] az egészségügy ágazatban kijelölt kritikus szervezetek, valamint az egészségügy ágazatban kijelölt az ország védelme és biztonsága szempontjából jelentős szervezetek.
 
 (3) Az országos tisztifőorvos a hivatásos katasztrófavédelmi szerv vezetője, illetve a belügyminiszter felkérésére szakmai útmutatók, oktatóanyagok, tájékoztatók kidolgozásával közreműködik a honvédelmi, polgári védelmi feladatokkal összefüggésben a polgári védelmi szervezetek, illetve a polgári védelmi ismereteket oktatók felkészítésében.
 
@@ -52,7 +52,7 @@ a) a telepített gyógyintézeti felszerelések szállításának tervezéséhez
 
 b) útmutatót készít az egyes tartalékelemek telepítéséhez, meghatározza a telepítés forrásigényét.
 
-(9)[^23] Az egészségügyi szolgáltató vezetője a fővárosi és vármegyei, illetve az országos tervezési feladatok érdekében, a belügyminiszter által meghatározottak szerint adatot szolgáltat – különös tekintettel az ágyszámra, műtéti kapacitásra, egészségügyi szakdolgozói állományra, a felhasznált orvostechnikai eszközökre és gyógyszerekre vonatkozóan –, valamint jelzi az ezzel kapcsolatos többletigényeit.
+(9)[^25] Az egészségügyi szolgáltató vezetője a fővárosi és vármegyei, illetve az országos tervezési feladatok érdekében, a belügyminiszter által meghatározottak szerint adatot szolgáltat – különös tekintettel az ágyszámra, műtéti kapacitásra, egészségügyi szakdolgozói állományra, a felhasznált orvostechnikai eszközökre és gyógyszerekre vonatkozóan –, valamint jelzi az ezzel kapcsolatos többletigényeit.
 
 (10) A fekvőbeteg-szakellátó intézmény vezetője felelős
 
@@ -70,7 +70,8 @@ c) hadiállapot kihirdetése esetén gondoskodik a kórház épületeinek földr
 
 d) rendszeresen tájékoztatást ad a fegyveres összeütközés időszakában, valamint különleges jogrend idején történő működés többletigényeiről és költségeiről a területi védelmi bizottság és a belügyminiszter részére.
 
-[^20]: Az II/B. Fejezetet (8/D-8/E. §) a 41/2022. (XII. 9.) BM rendelet 14. §-a iktatta be.
-[^21]: A 8/D. § (2) bekezdés b) pontja a 28/2023. (VIII. 10.) BM rendelet 67. §-a szerint módosított szöveg.
-[^22]: A 8/D. § (2) bekezdés c) pontját a 28/2023. (VIII. 10.) BM rendelet 68. §-a hatályon kívül helyezte.
-[^23]: A 8/D. § (9) bekezdése a 79/2022. (XII. 28.) BM rendelet 2. §-a szerint módosított szöveg.
+[^21]: Az II/B. Fejezetet (8/D-8/E. §) a 41/2022. (XII. 9.) BM rendelet 14. §-a iktatta be.
+[^22]: A 8/D. § (2) bekezdés b) pontja a 28/2023. (VIII. 10.) BM rendelet 67. §-a szerint módosított szöveg.
+[^23]: A 8/D. § (2) bekezdés c) pontját a 28/2023. (VIII. 10.) BM rendelet 68. §-a hatályon kívül helyezte.
+[^24]: A 8/D. § (2) bekezdés f) pontja az 59/2024. (XII. 23.) BM rendelet 13. §-ával megállapított szöveg.
+[^25]: A 8/D. § (9) bekezdése a 79/2022. (XII. 28.) BM rendelet 2. §-a szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## II/D. Fejezet[^27]
+## II/D. Fejezet[^29]
 
 ## A GONDOSKODÁSPOLITIKÁÉRT FELELŐS ÁGAZAT HONVÉDELMI FELADATAI
 
@@ -12,4 +12,4 @@ c) az ellátások biztosításához szükséges személyi és tárgyi feltétele
 
 d) a kormányhivatalokkal, az adóhatósággal, egyéb szervekkel fenntartott informatikai kapcsolat fokozott védelmének személyi és tárgyi feltételeit, a kibertámadások kivédésére a felkészülés módját, a kapcsolatot biztosító eszközök sérülése esetén a kiváltásukra megfelelő módszereket.
 
-[^27]: Az II/D. Fejezetet (8/G. §) a 41/2022. (XII. 9.) BM rendelet 14. §-a iktatta be.
+[^29]: Az II/D. Fejezetet (8/G. §) a 41/2022. (XII. 9.) BM rendelet 14. §-a iktatta be.
