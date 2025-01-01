@@ -10,7 +10,7 @@ a) a termékdíjköteles termék alapanyagként történő felhasználása eset�
 
 aa) megnevezését és vámtarifaszámát,
 
-ab) CsK vagy KT kódját,
+ab)[^5] KT kódját,
 
 ac) saját azonosítószámát vagy ennek hiányában a termék globális kereskedelmi áruazonosító számát (a továbbiakban: GTIN) számát, és
 
@@ -30,14 +30,16 @@ c) az újrahasználatra előkészítés vagy a használt termék újbóli felhas
 
 ca) a közvetlen anyagként, alapanyagként felhasznált termék megnevezését, mennyiségét (db), egységnyi tömegét (kg/db), tömegét (kg),
 
-cb) az előállított termékdíjköteles termék megnevezését, CsK vagy KT kódját, mennyiségét (db), egységnyi tömegét (kg/db), tömegét (kg),
+cb)[^6] az előállított termékdíjköteles termék megnevezését, KT kódját, mennyiségét (db), egységnyi tömegét (kg/db), tömegét (kg),
 
 cc) a tevékenység és a felhasznált anyagok rövid leírását,
 
 cd) anyagmérleget, amely pontosan bemutatja az újrahasználatra előkészítéshez vagy újbóli felhasználásra előkészítéshez közvetlen anyagként felhasznált termékdíjköteles termékek mennyiségét, a létrejött termékdíjköteles termék mennyiségét, és az egységnyi termékdíjköteles termék létrehozásához felhasznált anyagok mennyiségét, anyagnormáját.
 
-(4)[^5] Biológiailag lebomló műanyagból készült műanyag hordtasak esetén a kötelezett nyilvántartása tartalmazza az akkreditált laboratórium által kiadott tanúsítvány számát, amely igazolja, hogy a termékdíjköteles termék – a csomagolásra vonatkozó európai szabványokkal összhangban – komposztálás és anaerob lebontás útján hasznosítható.
+(4)[^7] Biológiailag lebomló műanyagból készült műanyag hordtasak esetén a kötelezett nyilvántartása tartalmazza az akkreditált laboratórium által kiadott tanúsítvány számát, amely igazolja, hogy a termékdíjköteles termék – a csomagolásra vonatkozó európai szabványokkal összhangban – komposztálás és anaerob lebontás útján hasznosítható.
 
 [^3]: A 2. § a 446/2016. (XII. 16.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^4]: A 2. § (2) bekezdése a 633/2022. (XII. 30.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
-[^5]: A 2. § (4) bekezdését a 446/2017. (XII. 27.) Korm. rendelet 1. §-a iktatta be, szövege a 724/2020. (XII. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^5]: A 2. § (3) bekezdés a) pont ab) alpontja a 465/2024. (XII. 30.) Korm. rendelet 8. § 2. pontja szerint módosított szöveg.
+[^6]: A 2. § (3) bekezdés c) pont cb) alpontja a 465/2024. (XII. 30.) Korm. rendelet 8. § 3. pontja szerint módosított szöveg.
+[^7]: A 2. § (4) bekezdését a 446/2017. (XII. 27.) Korm. rendelet 1. §-a iktatta be, szövege a 724/2020. (XII. 31.) Korm. rendelet 1. §-ával megállapított szöveg.

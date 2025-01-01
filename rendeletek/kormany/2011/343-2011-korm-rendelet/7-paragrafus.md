@@ -8,9 +8,10 @@ b) „a(z) .............. termékdíja a vevő ... számon iktatott időszakra v
 
 szöveget tünteti fel.
 
-(2) Az (1) bekezdésben foglaltakon túl a Ktdt. 3. § (6) bekezdés d) pontjának alkalmazása esetén a kötelezett köteles továbbá a számlán feltüntetni a termékdíjköteles termék termékdíjának alapját képező tömegét és KT vagy CsK kódját.
+(2)[^30] Az (1) bekezdésben foglaltakon túl a Ktdt. 3. § (6) bekezdés d) pontjának alkalmazása esetén a kötelezett köteles továbbá a számlán feltüntetni a termékdíjköteles termék termékdíjának alapját képező tömegét és KT kódját.
 
-(3)[^30] A termékdíjköteles termék ipari termékdíjraktár engedélyese részére, a termékdíj-visszaigénylés igénybevételével történő értékesítése esetén az eladó köteles a számla tételeire hivatkozva feltüntetni „a termékdíj visszaigénylését az eladó igénybe veszi” szöveget, továbbá a termékdíjköteles termék KT vagy CsK kódját, mennyiségét, díjtételét és a visszaigénylés összegét.
+(3)[^31] A termékdíjköteles termék ipari termékdíjraktár engedélyese részére, a termékdíj-visszaigénylés igénybevételével történő értékesítése esetén az eladó köteles a számla tételeire hivatkozva feltüntetni „a termékdíj visszaigénylését az eladó igénybe veszi” szöveget, továbbá a termékdíjköteles termék KT kódját, mennyiségét, díjtételét és a visszaigénylés összegét.
 
 [^29]: A 7. § a 407/2015. (XII. 15.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^30]: A 7. § (3) bekezdése a 724/2020. (XII. 31.) Korm. rendelet 6. § a) pontja, a 633/2022. (XII. 30.) Korm. rendelet 5. § 1. pontja szerint módosított szöveg.
+[^30]: A 7. § (2) bekezdése a 465/2024. (XII. 30.) Korm. rendelet 8. § 5. pontja szerint módosított szöveg.
+[^31]: A 7. § (3) bekezdése a 724/2020. (XII. 31.) Korm. rendelet 6. § a) pontja, a 633/2022. (XII. 30.) Korm. rendelet 5. § 1. pontja, a 465/2024. (XII. 30.) Korm. rendelet 8. § 6. pontja szerint módosított szöveg.
