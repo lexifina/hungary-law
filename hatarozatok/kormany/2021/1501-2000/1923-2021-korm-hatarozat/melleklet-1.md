@@ -32,11 +32,7 @@
 
 ## 7.[^1] az 1. melléklet B) pontja szerinti beruházás megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 2 847 511 662 forintban határozza meg;
 
-## 8. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva, a Kvtv. 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 3. Gazdaság-újraindítási Alap – Kiemelt Kormányzati Magasépítési Beruházások cím, 1. Egyedi magasépítési beruházások alcímet a 65. Budapesti Honvéd Sportegyesület kosárlabda öltözőépületének megvalósítása jogcímcsoporttal egészíti ki;
-
-## Felelős: pénzügyminiszter
-
-## Határidő: azonnal
+## 8.[^2]
 
 ## 9. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a pénzügyminiszter bevonásával gondoskodjon a 7. pont szerinti összeg 2022–2023. évi részeinek rendelkezésre állásáról az alábbiak szerint:
 
@@ -52,7 +48,7 @@
 
 ## a b) alpont tekintetében a 2023. évi központi költségvetés tervezése során
 
-## 9a.[^2] felhívja az építési és beruházási minisztert, hogy a pénzügyminiszter bevonásával gondoskodjon az egyes kivitelezés alatt álló beruházások megvalósításához szükséges többletforrások biztosításáról szóló 1492/2022. (X. 19.) Korm. határozattal módosított 7. pont szerinti összeg 2023. évre tervezett összeget meghaladó részének rendelkezésre állásáról a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény 1. melléklet XLV. Kiemelt Kormányzati Magasépítési Beruházások fejezeten belül;
+## 9a.[^3] felhívja az építési és beruházási minisztert, hogy a pénzügyminiszter bevonásával gondoskodjon az egyes kivitelezés alatt álló beruházások megvalósításához szükséges többletforrások biztosításáról szóló 1492/2022. (X. 19.) Korm. határozattal módosított 7. pont szerinti összeg 2023. évre tervezett összeget meghaladó részének rendelkezésre állásáról a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény 1. melléklet XLV. Kiemelt Kormányzati Magasépítési Beruházások fejezeten belül;
 
 | Felelős: | építési és beruházási miniszter pénzügyminiszter |
 
@@ -92,7 +88,7 @@
 
 ## Határidő: az ingatlan tulajdonosi joggyakorlásának Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság részére történő átadását követő 60 napon belül
 
-## 13.[^3] egyetért azzal, hogy az 5. ponttól eltérően az 1 260 630 000 forint összegű forrás biztosítására a 2024. évet követően kerüljön sor.
+## 13.[^4] egyetért azzal, hogy az 5. ponttól eltérően az 1 260 630 000 forint összegű forrás biztosítására a 2024. évet követően kerüljön sor.
 
 1. melléklet az 1923/2021. (XII. 20.) Korm. határozathoz
 
@@ -117,5 +113,6 @@ A) A Budapesti Honvéd Sportegyesület által előkészítendő és megvalósít
 B) A Beruházási Ügynökség által megvalósítandó kosárlabda öltözőépület építése (Budapest 27999 helyrajzi számú, Budapest XIII. kerület, Dózsa György út 53. szám alatti ingatlanon)
 
 [^1]: A 7. pont az 1492/2022. (X. 19.) Korm. határozat 95. pontja szerint módosított szöveg.
-[^2]: A 9a. pontot az 1492/2022. (X. 19.) Korm. határozat 94. pontja iktatta be.
-[^3]: A 13. pontot az 1291/2024. (IX. 19.) Korm. határozat 88. pontja iktatta be.
+[^2]: A 8. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^3]: A 9a. pontot az 1492/2022. (X. 19.) Korm. határozat 94. pontja iktatta be.
+[^4]: A 13. pontot az 1291/2024. (IX. 19.) Korm. határozat 88. pontja iktatta be.
