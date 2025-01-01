@@ -1,3 +1,3 @@
-13. §[^47]
+13. §[^49]
 
-[^47]: A 13. §-t a 379/2016. (XII. 2.) Korm. rendelet 195. § (4) bekezdés d) pontja hatályon kívül helyezte.
+[^49]: A 13. §-t a 379/2016. (XII. 2.) Korm. rendelet 195. § (4) bekezdés d) pontja hatályon kívül helyezte.

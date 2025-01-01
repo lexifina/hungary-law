@@ -1,3 +1,3 @@
-9. §[^43]
+9. §[^45]
 
-[^43]: A 9. §-t a 379/2016. (XII. 2.) Korm. rendelet 195. § (4) bekezdés d) pontja hatályon kívül helyezte.
+[^45]: A 9. §-t a 379/2016. (XII. 2.) Korm. rendelet 195. § (4) bekezdés d) pontja hatályon kívül helyezte.

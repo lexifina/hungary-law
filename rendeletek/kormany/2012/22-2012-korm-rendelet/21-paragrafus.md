@@ -1,3 +1,3 @@
-21. §[^56]
+21. §[^58]
 
-[^56]: A 21. §-t a 379/2016. (XII. 2.) Korm. rendelet 195. § (4) bekezdés d) pontja hatályon kívül helyezte.
+[^58]: A 21. §-t a 379/2016. (XII. 2.) Korm. rendelet 195. § (4) bekezdés d) pontja hatályon kívül helyezte.

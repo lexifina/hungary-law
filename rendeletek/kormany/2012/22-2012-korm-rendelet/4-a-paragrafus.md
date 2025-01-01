@@ -30,7 +30,7 @@ k) ellátja a szakmai szintű hazai és nemzetközi állatvédelmi kapcsolattart
 
 (4) A hatóságok a hatékony, koordinált és magas színvonalú élelmiszerlánc-felügyelet érdekében a feladatkörükben rendelkezésükre álló adatokat évente – intézkedést igénylő esetben soron kívül – átadják a NÉBIH-nek.
 
-(5) A hatóságok a rendkívüli élelmiszerlánc-eseményekről és az ezekkel kapcsolatban megtett intézkedésekről, valamint minden, az élelmiszerjog általános elveiről és követelményeiről, az Európai Élelmiszerbiztonsági Hatóság létrehozásáról és az élelmiszerbiztonságra vonatkozó eljárások megállapításáról szóló, 2002. január 28-i 178/2002/EK európai parlamenti és tanácsi rendelet 50. cikkében meghatározott esetben a NÉBIH-et haladéktalanul kötelesek tájékoztatni.
+(5)[^19] A hatóságok a rendkívüli élelmiszerlánc-eseményekről és az ezekkel kapcsolatban megtett intézkedésekről, valamint minden, az élelmiszerjog általános elveiről és követelményeiről, az Európai Élelmiszerbiztonsági Hatóság létrehozásáról és az élelmiszerbiztonságra vonatkozó eljárások megállapításáról szóló, 2002. január 28-i 178/2002/EK európai parlamenti és tanácsi rendelet 50. cikkében meghatározott esetben a NÉBIH-et haladéktalanul kötelesek tájékoztatni. A NÉBIH a földművelésügyi hatósági és igazgatási feladatokat ellátó szervek kijelöléséről szóló kormányrendelet szerinti élelmiszer-kereskedelmet (a továbbiakban: élelmiszer-kereskedelem) érintő esetekben haladéktalanul köteles tájékoztatni az NKFH-t.
 
 (6) Az élelmiszer- és takarmánybiztonságot veszélyeztető, (5) bekezdés szerinti rendkívüli élelmiszerlánc-eseményről a NÉBIH valamennyi érintett hatóságot haladéktalanul értesíti, és eleget tesz az (1) bekezdés d) pontjában foglalt kötelezettségének.
 
@@ -38,4 +38,8 @@ k) ellátja a szakmai szintű hazai és nemzetközi állatvédelmi kapcsolattart
 
 (8) Az élelmiszerlánc-termékek ellenőrzése tekintetében a Nemzeti Adó- és Vámhivatal köteles a NÉBIH-hel szorosan együttműködni, és minden elvárható segítséget és információt megadni a NÉBIH hatékony élelmiszerlánc-felügyeleti tevékenységének elősegítése érdekében. A Nemzeti Adó- és Vámhivatal ennek keretében különösen a NÉBIH rendelkezésére bocsátja a feladatkörében tudomására jutott, az élelmiszerlánc szempontjából jelentős áruforgalmi és határellenőrzési adatokat.
 
+(9)[^20] A NÉBIH az élelmiszer-kereskedelem ellenőrzésével kapcsolatban köteles az NKFH-val szorosan együttműködni és minden elvárható segítséget és információt megadni részére.
+
 [^18]: A 4/A. alcímet (4/A–4/B. §-t) a 379/2016. (XII. 2.) Korm. rendelet 195. § (3) bekezdése iktatta be.
+[^19]: A 4/A. § (5) bekezdése a 328/2024. (XI. 14.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^20]: A 4/A. § (9) bekezdését a 328/2024. (XI. 14.) Korm. rendelet 9. § (2) bekezdése iktatta be.
