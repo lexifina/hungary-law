@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-23-00-00
 | 2021-01-01 | 2020. évi CLXXIII. törvény | 1993-23-00-00.28 |
 | 2023-06-29 | 2023. évi XLI. törvény | 1993-23-00-00.29 |
 | 2024-10-01 | 2023. évi C. törvény | 1993-23-00-00.30 |
+| 2025-01-01 | 2024. évi LXXVI. törvény | 1993-23-00-00.31 |
