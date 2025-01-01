@@ -1,5 +1,3 @@
-## 36. § A forenzikus botanikai vizsgálat növénymaradványok összehasonlítására, azonosítására, eredetének, származási helyének megállapítására irányul.
-
 ## Közlekedési szakértői vizsgálat
 
 37. § (1) A közúti közlekedési balesetre vonatkozó szakvéleményben állást kell foglalni a baleset műszaki és forgalmi okairól, valamint a baleset elkerülhetőségéről.
@@ -14,7 +12,7 @@ b) a baleset előtti sebességgel, a fék- és sodródási nyomokkal, valamint a
 
 c) a jármű állapotával, az esetleges műszaki meghibásodás eredetével, jellegével és a baleset bekövetkezésében való közrehatásának mértékével, észlelhetőségével, a járműnek a balesetből eredő rongálódásaival és azok keletkezésének módjával, a jármű mozgásállapotával
 
-## kapcsolatos körülményeket.
+kapcsolatos körülményeket.
 
 (4) A teljes járműről és a jármű balesetnél közreható részeiről a vizsgálat során – amennyiben lehetséges – külső és belső fényképfelvételt kell készíteni, és azt – a szakértő rendelkezésére bocsátott, helyszínről készített helyszínrajzzal vagy fényképfelvétellel együtt – a méretek feltüntetésével a szakvéleményhez csatolni kell.
 

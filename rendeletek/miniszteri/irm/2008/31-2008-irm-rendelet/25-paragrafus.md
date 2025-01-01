@@ -22,7 +22,7 @@ f) a vizsgált kézírás a minták alapján rendhagyó körülmények között 
 
 g) a vizsgálatra küldött kézírás vagy aláírás és a minta alkalmas-e a vizsgálatra,
 
-## írásszakértői vizsgálatot kell elvégezni.
+írásszakértői vizsgálatot kell elvégezni.
 
 (2) Írógéppel készített szöveg esetében az írásszakértői vizsgálat során értékelni kell azt, hogy az iratot
 

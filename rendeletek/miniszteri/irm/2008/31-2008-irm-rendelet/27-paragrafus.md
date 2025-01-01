@@ -16,7 +16,7 @@ f) egyes részei milyen sorrendben készültek, illetve
 
 g) bélyegzőlenyomata eredeti vagy hamisított, illetve az adott bélyegzőtől származik-e,
 
-## okmányszakértői vizsgálatot kell lefolytatni.
+okmányszakértői vizsgálatot kell lefolytatni.
 
 (2) Az (1) bekezdés a) pontjában megjelölt szakkérdés megválaszolásához szükséges vizsgálatot a szakértő lehetőség szerint az eredeti okmány vagy okirat alapján, összehasonlítással végzi el.
 

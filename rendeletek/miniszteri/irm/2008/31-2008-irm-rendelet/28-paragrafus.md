@@ -19,3 +19,5 @@ g) a vizsgált lövedéket milyen kaliberjelű, típusú és rendszerű, azonos 
 h) a vizsgált lőfegyvert más helyszínen használták-e, illetve
 
 i) a különböző helyszíneken talált lövedékeket, illetve töltényhüvelyeket ugyanabból a fegyverből lőtték-e ki,
+
+fegyverek és lőszerek szakértői vizsgálatát kell elvégezni.

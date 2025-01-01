@@ -16,7 +16,7 @@ ae) külön törvényben írt feltételek fennállása esetén elektronikus kéz
 
 b) személyes megjelenés során szóban
 
-## terjeszti elő.
+terjeszti elő.
 
 (2) Ha az ügyben különböző szakkérdésekben több szakértőt rendelnek ki, vagy később válik szükségessé több szakértő alkalmazása, a szakértői tevékenységeket a kirendelésben meghatározott feladatok, sorrend és együttműködés szerint kell lefolytatni.
 

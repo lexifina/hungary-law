@@ -21,3 +21,5 @@ h) a vizsgálatra küldött, különálló tárgyak korábban egy egészet képe
 i) a közlekedési eszközök nyomai milyen eszköztől keletkeztek, illetve
 
 j) a közlekedési baleset alkalmával a nyomok, elváltozások kölcsönös nyomképződés során jöttek-e létre,
+
+nyomszakértői vizsgálatot kell elvégezni.

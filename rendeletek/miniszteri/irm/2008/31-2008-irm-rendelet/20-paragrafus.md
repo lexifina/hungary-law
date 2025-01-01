@@ -18,7 +18,7 @@ g) a gyermek direkt befolyásolásának, vagy bántalmazásának, illetve
 
 h) a konfliktusos családi működésnek a szülők vagy gyermek személyiségét érintő következményeinek
 
-## feltárására, leírására, megállapítására, tipizálására, kategorizálására, értékelésére, illetve kizárására irányul, klinikai és mentálhigiéniai felnőtt- és gyermek szakpszichológiai vizsgálatot kell lefolytatni.
+feltárására, leírására, megállapítására, tipizálására, kategorizálására, értékelésére, illetve kizárására irányul, klinikai és mentálhigiéniai felnőtt- és gyermek szakpszichológiai vizsgálatot kell lefolytatni.
 
 (2)[^8] Az (1) bekezdésben megjelölt szakkérdések esetében a klinikai és mentálhigiéniai felnőtt- és gyermek szakpszichológiai vizsgálat mellett szükség esetén az esetlegesen felmerülő és az (1) bekezdés szerinti vizsgálattal meg nem válaszolható klinikai szakkérdésnek megfelelő orvosszakértői vizsgálatnak is helye van.
 
