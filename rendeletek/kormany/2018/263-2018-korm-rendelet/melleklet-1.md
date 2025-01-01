@@ -6,7 +6,7 @@ Az adótanácsadói, az adószakértői és az okleveles adószakértői igazolv
 
 1. Kibocsátó szervezet megnevezése: „Pénzügyminisztérium”
 
-2. Igazolvány megnevezése: „Adótanácsadói/adószakértői/okleveles adószakértői[^42] igazolvány”
+2. Igazolvány megnevezése: „Adótanácsadói/adószakértői/okleveles adószakértői[^43] igazolvány”
 
 3. Nyilvántartási szám
 
@@ -30,4 +30,4 @@ Az adótanácsadói, az adószakértői és az okleveles adószakértői igazolv
 
 10. Kibocsátó aláírása, bélyegzője
 
-[^42]: A nyilvántartásba vett szakterületnek megfelelő megnevezést kell feltüntetni.
+[^43]: A nyilvántartásba vett szakterületnek megfelelő megnevezést kell feltüntetni.

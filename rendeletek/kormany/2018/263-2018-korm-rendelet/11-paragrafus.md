@@ -42,6 +42,8 @@ p)[^32] e-learning továbbképzés esetén a 10. § (5) bekezdése szerinti elek
 
 (4)[^34] Az (1) bekezdés j) pontja szerinti kreditpont-igazolás annak a továbbképzésben részt vevő személynek állítható ki, aki nyilatkozatával hozzájárul ahhoz, hogy a továbbképzésben való részvételének igazolásához szükséges, általa megadott adatait a továbbképző szervezet kezelje.
 
+(5)[^35] Az (1) bekezdés c) pontjában foglalt bejelentési kötelezettség elmulasztása esetén a továbbképző a továbbképzési programot kreditpontos képzésként nem tarthatja meg, nem állíthat ki kreditpont-igazolást a résztvevőnek, és a továbbképzésben részt vevő személy adott évi továbbképzésének teljesítésébe a továbbképzési program minősítésekor megállapított kreditpont nem számítható be.
+
 [^27]: A 11. § (1) bekezdés i) pontja a 642/2023. (XII. 28.) Korm. rendelet 38. § 1. pontja szerint módosított szöveg.
 [^28]: A 11. § (1) bekezdés n) pontját a 343/2019. (XII. 23.) Korm. rendelet 30. § (1) bekezdése iktatta be.
 [^29]: A 11. § (1) bekezdés n) pont na) alpontja a 642/2023. (XII. 28.) Korm. rendelet 38. § 2. pontja szerint módosított szöveg.
@@ -50,3 +52,4 @@ p)[^32] e-learning továbbképzés esetén a 10. § (5) bekezdése szerinti elek
 [^32]: A 11. § (1) bekezdés p) pontját a 642/2023. (XII. 28.) Korm. rendelet 37. §-a iktatta be.
 [^33]: A 11. § (3) bekezdése a 616/2020. (XII. 21.) Korm. rendelet 25. § 5. pontja, a 719/2021. (XII. 20.) Korm. rendelet 14. §-a, a 642/2023. (XII. 28.) Korm. rendelet 38. § 4. pontja szerint módosított szöveg.
 [^34]: A 11. § (4) bekezdését a 343/2019. (XII. 23.) Korm. rendelet 30. § (2) bekezdése iktatta be.
+[^35]: A 11. § (5) bekezdését a 423/2024. (XII. 23.) Korm. rendelet 16. §-a iktatta be.
