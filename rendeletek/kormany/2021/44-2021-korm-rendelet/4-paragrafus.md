@@ -1,1 +1,0 @@
-## 3. § A Mosonmagyaróvár város közigazgatási területén létrejövő különleges gazdasági övezeten található, Mosonmagyaróvár Város Önkormányzatának tulajdonában álló, forgalomképtelen, törzsvagyonba tartozó, 2. mellékletben megjelölt közterület tulajdonjogát Győr-Moson-Sopron Megye Önkormányzata szerzi meg.
