@@ -1,4 +1,4 @@
-15/A. §[^9] (1) A Magyar Vagon Vasúti Járműgyártó, Javító és Karbantartó Korlátolt Felelősségű Társaság (a továbbiakban: szerzett jogokkal érintett vállalkozás) azon munkavállalója,
+15/A. §[^18] (1) A Magyar Vagon Vasúti Járműgyártó, Javító és Karbantartó Korlátolt Felelősségű Társaság (a továbbiakban: szerzett jogokkal érintett vállalkozás) azon munkavállalója,
 
 a) aki a munkáltató tulajdonosi szerkezetében 2024. április 30-án bekövetkezett változást megelőző napon a szerzett jogokkal érintett vállalkozás munkavállalója volt és menetkedvezményre volt jogosult, továbbá
 
@@ -10,4 +10,4 @@ az országos vasúti személyszállítási közszolgáltatást nyújtó vasúti 
 
 (3) Az (1) és (2) bekezdés hatálya alá tartozó jogosultat a menetkedvezményre való jogosultság a szerzett jogokkal érintett vállalkozásnál létesített munkaviszonyának fennállása alatt, továbbá közvetlenül a szerzett jogokkal érintett vállalkozástól vagy a szerzett jogokkal érintett vállalkozás általános jogutódjától történő nyugdíjba vonulása után, valamint korhatár előtti ellátása, illetve a megváltozott munkaképességű személyek ellátásának igénybevétele során is megilleti.
 
-[^9]: A 15/A. §-t az 56/2024. (XII. 30.) ÉKM rendelet 5. §-a iktatta be.
+[^18]: A 15/A. §-t az 56/2024. (XII. 30.) ÉKM rendelet 5. §-a iktatta be.

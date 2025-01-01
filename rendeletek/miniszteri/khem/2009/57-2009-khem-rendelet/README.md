@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-57-20-2
 | 2023-09-01 | 2009-57-20-2M.5 | 16/2023. (VIII. 30.) ÉKM rendelet |
 | 2024-05-31 | 2009-57-20-2M.6 | 11/2024. (V. 30.) ÉKM rendelet |
 | 2024-12-31 | 2009-57-20-2M.8 | 56/2024. (XII. 30.) ÉKM rendelet |
+| 2025-01-01 | 2009-57-20-2M.9 | 56/2024. (XII. 30.) ÉKM rendelet |
