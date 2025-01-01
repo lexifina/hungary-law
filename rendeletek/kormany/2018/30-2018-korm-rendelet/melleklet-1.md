@@ -124,6 +124,8 @@ c) Alvállalkozó által végzett megfelelőségértékelési terület meghatár
 
 A kérelmezett megfelelőségértékelési tevékenységnek megfelelően kérjük kitölteni!
 
+## 8K01249_2
+
 |  | B. modul |  |  |  |  |
 
 |  | NÉV | ISKOLAI VÉGZETTSÉG (bizonyítványok, oklevelek azonosító számai, a kibocsátó intézmények és a végzettség megjelölése) | SZAKMAI TAPASZTALAT (részletes leírása) | NYELVVIZSGA (típus, szint, bizonyítványok számai) | JOGVISZONY (munkavállaló vagy megbízott) |
@@ -136,28 +138,27 @@ A kérelmezett megfelelőségértékelési tevékenységnek megfelelően kérjü
 
 |  | NÉV | ISKOLAI VÉGZETTSÉG (bizonyítványok, oklevelek azonosító számai, a kibocsátó intézmények és a végzettség megjelölése) | SZAKMAI TAPASZTALAT (részletes leírása) | NYELVVIZSGA (típus, szint, bizonyítványok számai) | JOGVISZONY (munkavállaló vagy megbízott) |
 
-6. A kérelemhez csatolandó dokumentumok:
+6.[^2] A kérelemhez csatolandó dokumentumok:
 
 a) a kérelmezett megfelelőségértékelési területre vonatkozó minőségirányítási kézikönyv(ek),
 
 b) a működési és eljárási szabályzat,
 
-c) a felelősségbiztosítási szerződés másolata,
+c) a személyzet minden (munkavállaló vagy megbízási szerződéssel tevékenykedő) tagjának összeférhetetlenségi nyilatkozata,
 
-d) a biztosító arra vonatkozó nyilatkozata, hogy a felelősségbiztosítási szerződés érvényes és hatályos,
+d) az igazgatási szolgáltatási díj megfizetéséről szóló igazolás.
 
-e) a személyzet minden (munkavállaló vagy megbízási szerződéssel tevékenykedő) tagjának összeférhetetlenségi nyilatkozata,
+7.[^3] A kérelem elbírásához szükséges nyilatkozatok:
 
-f) védjegyjogosultság megléte esetén a védjegyokirat és határozat másolata,
+a) felelősségbiztosítási szerződés száma, a biztosító megnevezése:
 
-g) az igazgatási szolgáltatási díj megfizetéséről szóló igazolás,
+b) védjegyjogosultság megléte esetén:
 
-h) kötelezettségvállalás arra vonatkozóan, hogy a kijelölés iránti kérelem elbírálásával kapcsolatosan keletkezett szakértői költségeket a kérelmező vállalja,
+ba) a védjegy lajstromszáma:
 
-i) a kérelem tárgyát képező megfelelőségértékelési tevékenységgel kapcsolatos, más szerv által kibocsátott határozatok.
+bb) a jogosultságot megállapító határozat száma:
 
-Kelt: ............................................................
+c) a kérelem tárgyát képező megfelelőségértékelési tevékenységgel kapcsolatos határozatok száma a határozatot hozó szerv/hatóság megjelölésével.
 
-................................................................................
-
-kérelmező szervezet képviselője
+[^2]: Az 1. melléklet 6. pontja a 416/2024. (XII. 20.) Korm. rendelet 28. § (2) bekezdésével megállapított szöveg.
+[^3]: Az 1. melléklet 7. pontját a 416/2024. (XII. 20.) Korm. rendelet 28. § (2) bekezdése iktatta be.

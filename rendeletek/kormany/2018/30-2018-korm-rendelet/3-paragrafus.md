@@ -1,5 +1,3 @@
-## 2. § A kijelölési eljárás kérelemre indul, amelyet az 1. melléklet szerinti nyomtatványon, elektronikus formában kell benyújtani a kijelölő hatósághoz.
-
 3. § (1) A kérelmező szervezetnek rendelkeznie kell
 
 a) a megfelelőségértékelési tevékenysége során szükséges dokumentumok – így különösen az EU-típusvizsgálati tanúsítvány, az ellenőrzési jegyzőkönyv, a vizsgálati jegyzőkönyv –, valamint a megfelelőségértékelési tevékenységével összefüggő eljárásának a gazdasági szereplők tájékoztatására szolgáló dokumentumai angol nyelvű fordításával,
