@@ -76,7 +76,7 @@ Az egységes kormányzati ügyiratkezelő rendszerbe bevont szervek[^231]
 
 36. Nemzeti park igazgatóságok
 
-37.[^261]
+37.[^261] Nemzeti Kereskedelmi és Fogyasztóvédelmi Hatóság
 
 38.[^262] HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zártkörűen Működő Részvénytársaság
 
@@ -84,9 +84,9 @@ Az egységes kormányzati ügyiratkezelő rendszerbe bevont szervek[^231]
 
 40. Közbeszerzési és Ellátási Főigazgatóság
 
-41. Kormányzati Informatikai Fejlesztési Ügynökség
+41.[^264]
 
-42.[^264] Szabályozott Tevékenységek Felügyeleti Hatósága
+42.[^265] Szabályozott Tevékenységek Felügyeleti Hatósága
 
 43. Országos Atomenergia Hivatal
 
@@ -123,7 +123,8 @@ Az egységes kormányzati ügyiratkezelő rendszerbe bevont szervek[^231]
 [^258]: Az 1. melléklet 30. pontja a 281/2023. (VI. 29.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^259]: Az 1. melléklet 33. pontját a 311/2017. (X. 31.) Korm. rendelet 12. §-a hatályon kívül helyezte, újonnan az 591/2023. (XII. 20.) Korm. rendelet 4. §-a iktatta be.
 [^260]: Az 1. melléklet 34. pontját a 379/2016. (XII. 2.) Korm. rendelet 71. § (8) bekezdés b) pontja hatályon kívül helyezte, újonnan az 591/2023. (XII. 20.) Korm. rendelet 4. §-a iktatta be.
-[^261]: Az 1. melléklet 37. pontját a 107/2024. (V. 9.) Korm. rendelet 2. § a) pontja hatályon kívül helyezte.
+[^261]: Az 1. melléklet 37. pontját a 107/2024. (V. 9.) Korm. rendelet 2. § a) pontja hatályon kívül helyezte, újonnan a 328/2024. (XI. 14.) Korm. rendelet 1. §-a iktatta be.
 [^262]: Az 1. melléklet 38. pontja az 591/2023. (XII. 20.) Korm. rendelet 4. §-a szerint módosított szöveg.
 [^263]: Az 1. melléklet 39. pontját a 615/2022. (XII. 29.) Korm. rendelet 4. § a) pontja hatályon kívül helyezte.
-[^264]: Az 1. melléklet 42. pontja a 825/2021. (XII. 28.) Korm. rendelet 13. §-ával megállapított, a 306/2023. (VII. 11.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^264]: Az 1. melléklet 41. pontját a 234/2024. (VIII. 8.) Korm. rendelet 11. §-a hatályon kívül helyezte.
+[^265]: Az 1. melléklet 42. pontja a 825/2021. (XII. 28.) Korm. rendelet 13. §-ával megállapított, a 306/2023. (VII. 11.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
