@@ -1,1 +1,3 @@
-4. § Az R. 1. melléklet 1. pontjában az „engedélyezési és tudomásulvételi eljárások” szövegrész helyébe az „eljárások” szöveg lép.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

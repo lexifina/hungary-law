@@ -1,3 +1,3 @@
-2. § Az R. a következő 11. §-sal egészül ki:
+2. §[^3]
 
-„11. § E rendeletnek a Pázmány Péter Katolikus Egyetem oktatási célú ingatlanjainak bővítését és fejlesztését célzó beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé és a beruházás kiemelten közérdekű beruházássá nyilvánításáról szóló 195/2021. (IV. 26.) Korm. rendelet módosításáról szóló 438/2024. (XII. 23.) Korm. rendelet (a továbbiakban: Módr.3.) által megállapított 1. § (4) bekezdését és 2. mellékletét, valamint módosított 1. mellékletét a Módr.3. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
