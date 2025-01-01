@@ -16,10 +16,12 @@ d) operatív program;
 
 e) kiemelt térség területfejlesztési programja;
 
-f) vármegyei és fővárosi területfejlesztési koncepció és területfejlesztési program;
+f) a nem kiemelt térségekben működő térségi fejlesztési tanácsok által a 11. § (7) bekezdés c) pontja alapján készített területfejlesztési koncepció és program;
 
-g) vármegyei és fővárosi szintű Integrált Területi Program;
+g) vármegyei és fővárosi területfejlesztési koncepció és területfejlesztési program;
 
-h) együtt kezelendő térség fejlesztési programja.
+h) vármegyei és fővárosi Integrált Területi Program;
+
+i) együtt kezelendő térség területfejlesztési programja.
 
 (2) Az (1) bekezdés szerinti tervek egymásra épülő rendszert alkotnak. A felsorolásban hátrébb álló, kisebb területi szintű tervnek meg kell felelnie a felsorolásban előrébb álló, magasabb területi szintű terv célrendszerével, azzal ellentétes elemet nem tartalmazhat.

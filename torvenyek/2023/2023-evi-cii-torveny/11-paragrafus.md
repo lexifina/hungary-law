@@ -10,7 +10,7 @@
 
 (5) A térségi fejlesztési tanács működtetését a tagok által képviselt szervezetek befizetései és egyéb bevételek biztosítják. A működtetéshez a központi költségvetés támogatást nem nyújt.
 
-(6) A térségi fejlesztési tanács működésének törvényességi felügyeletét a térségi fejlesztési tanács székhelye szerint illetékes vármegyei kormányhivatal látja el.
+(6) A térségi fejlesztési tanács működésének törvényességi felügyeletét a térségi fejlesztési tanács székhelye szerint illetékes fővárosi vagy vármegyei kormányhivatal látja el. Ennek keretében a kormányhivatal kezdeményezheti az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 68/B. §-a szerinti kincstári ellenőrzést, valamint a térségi fejlesztési tanácsok gazdálkodását érintően tájékoztathatja az Állami Számvevőszéket az Állami Számvevőszékről szóló 2011. évi LXVI. törvény 23. § (2) bekezdésében foglalt feladatkörét érintő intézkedés érdekében.
 
 (7) A térségi fejlesztési tanács
 

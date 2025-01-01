@@ -28,7 +28,7 @@
 
 12. az együtt kezelendő térségek lehatárolását, körének meghatározását;
 
-13. az e törvényben meghatározott területfejlesztési programok végrehajtási rendszerének kialakítását
+13.
 
 rendeletben állapítsa meg.
 
@@ -40,6 +40,12 @@ b) a vármegyei területrendezési tervet
 
 rendeletben állapítsa meg.
 
-(3) Felhatalmazást kap a területfejlesztésért felelős miniszter, hogy a területfejlesztési tervezési tevékenység szabályait rendeletben megállapítsa.
+(3) Felhatalmazást kap a területfejlesztésért felelős miniszter, hogy
+
+a) a területfejlesztési tervezési tevékenység szabályait, valamint
+
+b) az Alapból finanszírozott programok végrehajtási rendszerének kialakítását
+
+rendeletben állapítsa meg.
 
 (4) Felhatalmazást kap a területrendezésért felelős miniszter, hogy a kiadott térségi területfelhasználási engedélyek okán felmerülő – az országos és a kiemelt térségi területrendezési terveket érintő – területhasználati változásokat rendeletben kihirdesse.
