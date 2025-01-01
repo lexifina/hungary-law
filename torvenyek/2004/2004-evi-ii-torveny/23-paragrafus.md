@@ -1,25 +1,19 @@
-23. § (1) A Korhatár Bizottság legalább tizennégy, legfeljebb huszonnyolc tagból áll. A Korhatár Bizottság működtetése érdekében a Hatóság együttműködési megállapodásokat köt az általa kiválasztott alábbi társadalmi szervezetekkel:
+23. § (1) A Korhatár Bizottság legalább tizenöt, legfeljebb huszonhét tagból áll. A Korhatár Bizottság működtetése érdekében a Hatóság együttműködési megállapodásokat köthet az általa kiválasztott alábbi civil szervezetekkel:
 
-a) a média gyermekek fejlődésére gyakorolt hatásaival foglalkozó társadalmi szervezettel vagy szervezetekkel,
+a) a média gyermekek fejlődésére gyakorolt hatásaival foglalkozó szervezettel vagy szervezetekkel,
 
-b) a média-, illetve mozgóképoktatással is foglalkozó pedagógus szervezettel vagy szervezetekkel,
+b) a média-, illetve mozgóképoktatással is foglalkozó pedagógus szervezettel vagy szakszervezetekkel,
 
-c) gyermekpszichológusokat tömörítő szervvel, szervezettel vagy szervezetekkel,
+c) gyermekpszichológusokat tömörítő szervvel, szervezettel, szervezetekkel.
 
-d) a filmterjesztők szakmai szervezetével.
+(2) A Hatóság kormányzati szolgálati jogviszonyban álló, és a média gyermekek fejlődésére gyakorolt hatásai tekintetében tapasztalattal rendelkező tagja a Korhatár Bizottság ülésén tagként részt vehet.
 
-(2) Az (1) bekezdés szerinti együttműködési megállapodásokon keresztül a Hatóság biztosítja, hogy a társadalmi szervezetek megfelelő számú és végzettségű tagot delegáljanak a Korhatár Bizottságba. A Hatóság a vele kormányzati szolgálati jogviszonyban állók közül is delegálhat megfelelő végzettségű és a média gyermekek fejlődésére gyakorolt hatásai tekintetében tapasztalattal rendelkező tagot a Korhatár Bizottságba.
+(3) Az eljáró Korhatár Bizottságot a Korhatár Bizottság tagjai közül a Hatóság kéri fel és hívja össze. Az eljáró Korhatár Bizottság legalább három, legfeljebb öt tagból áll Az eljáró Korhatár Bizottságot úgy kell összeállítani, hogy abban jelen legyen legalább
 
-(3) Az eljáró Korhatár Bizottságot a Korhatár Bizottság tagjai közül a Hatóság kéri fel és hívja össze. Az eljáró Korhatár Bizottság legalább hét tagból áll. Az eljáró Korhatár Bizottságot úgy kell összeállítani, hogy abban jelen legyen legalább
+a) egy, a média gyermekek fejlődésére gyakorolt hatására vonatkozóan szakmai tapasztalattal rendelkező pszichológus végzettségű személy,
 
-a) kettő, a média gyermekek fejlődésére gyakorolt hatására vonatkozóan szakmai tapasztalattal rendelkező pszichológus végzettségű személy,
-
-b) kettő, a filmterjesztés vagy a média- vagy a mozgóképoktatás területén szakmai tapasztalattal rendelkező pedagógus végzettségű személy,
-
-c) kettő, a média gyermekek fejlődésére gyakorolt hatására vonatkozóan szakmai tapasztalattal rendelkező felsőfokú végzettségű személy,
-
-d) a filmterjesztők egy képviselője.
+b) egy, a filmterjesztés vagy a média- vagy a mozgóképoktatás területén szakmai tapasztalattal rendelkező pedagógus végzettségű személy, egy, a média gyermekek fejlődésére gyakorolt hatására vonatkozóan szakmai tapasztalattal rendelkező felsőfokú végzettségű személy.
 
 (4) A Korhatár Bizottság tagjai a 18. § (2) bekezdésben meghatározott, a Kormány által rendeletben kijelölt miniszter által megállapított díjazásban részesülnek.
 
-(5) A kultúráért felelős miniszter (a továbbiakban: miniszter), a köznevelésért felelős miniszter, a gyermekek és az ifjúság védelméért felelős miniszter, a Médiatanács és az NFI egy-egy, a gyermek- és ifjúságvédelem területén tapasztalattal rendelkező delegáltja a Korhatár Bizottság ülésein szakértőként részt vehet.
+(5) A kultúráért felelős miniszter (a továbbiakban: miniszter) a köznevelésért felelős miniszter, a gyermekek és az ifjúság védelméért felelős miniszter, a Médiatanács, az NFI és a filmterjesztők szakmai szervezetének egy-egy, a gyermek- és ifjúságvédelem területén tapasztalattal rendelkező delegáltja a Korhatár Bizottság ülésein szakértőként részt vehet.

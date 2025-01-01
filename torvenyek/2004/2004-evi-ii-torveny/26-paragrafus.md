@@ -1,4 +1,4 @@
-26. § (1) A filmalkotások „art” minősítésére a Hatóság által felállított és működtetett Art Bizottság tesz javaslatot.
+26. § (1) A Hatóság létrehozza és működteti az Art Bizottságot, amely a Hatóságnak javaslatot tesz a filmalkotások kategóriákba sorolására.
 
 (2) Az Art Bizottság hat tagját a Filmiroda vezetőjének a javaslatára a 18. § (2) bekezdésében meghatározott, a Kormány által rendeletben kijelölt miniszter nevezi ki három évre.
 
@@ -12,12 +12,14 @@ c) egy, a miniszter által delegált, a mozgóképművészet területén tapaszt
 
 d) három, filmművészeti, filmtudományi vagy mozgóképtanári végzettséggel, illetve gyakorlattal rendelkező személy.
 
-(4) A (3) bekezdés b) pontjában meghatározott tag ellátja az Art Bizottság koordinációjával kapcsolatos feladatokat és a Bizottság elnökeként vezeti annak üléseit.
+(4)
 
-(5) A Hatóság az Art Bizottság javaslata alapján „art” minősítést ad minden olyan terjesztésre kerülő filmalkotásnak,
+(5) A Hatóság az Art Bizottság javaslatának figyelembevételével 45 napon belül dönt a terjesztésre kerülő filmalkotás „art” minősítéséről.
 
-a) amely művészi értékével hozzájárul a magyar, az európai, illetve az egyetemes audiovizuális kultúra fejlődéséhez, vagy
+(5a) „Art” minősítés annak a terjesztésre kerülő filmalkotásnak adható, amely
 
-b) amelyet az Art Bizottság oktatási vagy kulturális szempontból jelentősnek és magas művészi színvonalúnak ítél.
+a) művészi értékével hozzájárul a magyar, az európai, illetve az egyetemes audiovizuális kultúrához vagy
+
+b) oktatási, kulturális szempontból jelentős és magas művészi színvonalú.
 
 (6) A Hatóság a filmalkotás előállítójának vagy terjesztőjének kérelmére „art” minősítést ad annak a terjesztésre kerülő filmalkotásnak, amely nemzetközileg elismert, a Hatóság által évente közzétett jegyzékben meghatározott fesztivál díjában részesült.

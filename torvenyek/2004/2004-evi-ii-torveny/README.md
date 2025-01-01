@@ -49,3 +49,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-2-00-00
 | 2022-09-01 | 2022. évi XIII. törvény | 2004-2-00-00.56 |
 | 2024-01-01 | 2023. évi XC. törvény | 2004-2-00-00.57 |
 | 2024-10-01 | 2023. évi C. törvény | 2004-2-00-00.58 |
+| 2025-01-01 | 2024. évi LXXVI. törvény | 2004-2-00-00.59 |

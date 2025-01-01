@@ -24,6 +24,8 @@ k) a filmalkotás végefőcímében az állam támogatóként való feltünteté
 
 l) a 25. § (2) bekezdése szerinti „art” mozivá minősítéshez szükséges feltételeket.
 
+m) a magyarországi gyártással összefüggésben keletkezett, a filmalkotás költségvetésében elszámolható költségnemek meghatározását.
+
 3. CÍM
 
 Az Európai Unió jogának való megfelelés

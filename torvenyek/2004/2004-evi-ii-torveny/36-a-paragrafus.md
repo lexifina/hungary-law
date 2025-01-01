@@ -2,4 +2,4 @@
 
 (2) A mozgóképről szóló 2004. évi II. törvény módosításáról szóló 2012. évi CXCIX. törvénnyel megállapított 32. § (1) bekezdésében meghatározott feladatokat a Filmiroda a 2013. évre vonatkozó adatgyűjtési feladatoktól kezdődően látja el.
 
-(3) A kizárólag műhelyként nyilvántartott mozgóképszakmai szervezet 2012. december 31-éig kérheti a Filmirodától a 28. § (4) bekezdés szerinti minőségben történő nyilvántartásba vételét. Ha a nyilvántartott mozgóképszakmai szervezet e határidőig nem nyújt be kérelmet, vagy a kérelmét a Filmiroda elutasítja, a Filmiroda a kizárólag műhelyként nyilvántartott szervezetet törli a nyilvántartásából. Ha a mozgóképszakmai szervezet a műhelyen kívül más minőségében is szerepel a nyilvántartásban, a Filmiroda kizárólag a műhely minőségét törli a nyilvántartásból.
+(3)

@@ -4,7 +4,21 @@ a) a filmalkotásokat a kiskorúak védelme érdekében e törvény szerint beso
 
 b) a művészi értékük miatt támogatásra érdemes és a kulturális követelmények teljesítése alapján támogatásra jogosult filmalkotásokat, valamint az ilyen filmalkotásokat terjesztő mozikat és mozitermeket e törvény szerint besorolja,
 
-c) az e törvény szerinti támogatást igénylő mozgóképszakmai szervezetekről és természetes személyekről, a moziüzemeltetési tevékenységet folytató természetes, illetve jogi személyekről, a forgalmazói tevékenységet folytató természetes, illetve jogi személyekről, a támogatásra jogosult, és a támogatásban nem részesülő filmalkotásokról, a terjesztésre kerülő, valamint az „art” besorolású filmalkotásokról, továbbá az „art” mozikról és mozitermekről e törvényben, illetve a 18. § (2) bekezdésében meghatározott, a Kormány által rendeletben kijelölt miniszter rendeletében meghatározott módon a Filmiroda hatósági ellenőrzése tevékenysége céljából, közhiteles hatósági nyilvántartást vezet,
+c) közhiteles nyilvántartást vezet
+
+ca) az e törvény szerinti támogatásra jogosult mozgóképszakmai szervezetekről és természetes személyekről,
+
+cb) a moziüzemeltetési tevékenységet folytató természetes személyekről, illetve szervezetekről,
+
+cc) a forgalmazói tevékenységet folytató természetes személyekről, illetve szervezetekről,
+
+cd) az e törvény hatálya alá tartozó filmalkotásokról,
+
+ce) a terjesztésre kerülő, valamint „art” besorolású filmalkotásokról, továbbá
+
+cf) az „art” mozikról és mozitermekről
+
+az e törvényben, illetve a 18. § (2) bekezdésében meghatározott, a Kormány által rendeletben kijelölt miniszter rendeletében meghatározott módon.
 
 d) azokat a filmalkotásokat, amelyek előállításához e törvény szerinti támogatást igényelnek, a magyar filmalkotás, a magyar részvételű filmalkotás, az egyéb magyar részvételű filmalkotás vagy az egyéb filmalkotás elnevezésű kategóriák szerint besorolja,
 

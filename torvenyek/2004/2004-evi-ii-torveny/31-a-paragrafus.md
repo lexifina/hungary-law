@@ -8,6 +8,8 @@
 
 (4) A Hatóság e törvény alapján vezetett nyilvántartásainak részletes szabályait, a nyilvántartásba vételi eljárások részletes szabályait, valamint a nyilvántartásokból történő adatszolgáltatás módját a 18. § (2) bekezdésében meghatározott, a Kormány által rendeletben kijelölt miniszter rendelete szabályozza.
 
+(5) Az e törvényben meghatározott célok teljesüléséhez szükséges, illetve a Kormány e törvény felhatalmazása alapján kiadott rendeletében megállapított egyéb adatokat a Hatóság felhívására az ügyfél köteles bejelenteni a Hatóság részére.
+
 5. CÍM
 
 Támogatási eljárás

@@ -2,11 +2,13 @@
 
 ## Jogosultság magyarországi filmterjesztésre
 
-19/K. § (1) Az e törvény hatálya alá tartozó, Magyarországon letelepedett filmterjesztő által végzett 2. § 15. pont a) alpontja szerinti forgalmazói, illetve 2. § 15. pont b) alpontja szerinti moziüzemeltetési tevékenység bejelentés és a Hatóság általi hatósági nyilvántartásba vétel után végezhető.
+19/K. § (1) Az e törvény hatálya alá tartozó, 2. § 15. pont a) alpontja szerinti forgalmazói, illetve 2. § 15. pont b) alpontja szerinti, Magyarországon székhellyel rendelkező moziüzemeltető által végzett moziüzemeltetési tevékenységet a Hatóságnál nyilvántartásba kell venni.
 
-(2) A nyilvántartásba vételt kezdeményező bejelentő – e törvény keretei között – bármely természetes személy és jogi személy lehet.
+(1a) Moziüzemeltetési tevékenység a Hatóság által vezetett hatósági nyilvántartásba vétel után végezhető.
 
-(3) A bejelentéssel összefüggő eljárásban a Hatóság a filmterjesztőt az (1) bekezdés szerinti bejelentés megérkezését követő naptól számított nyolc napon belül hivatalból nyilvántartásba veszi.
+(2) A nyilvántartásba vételt kezdeményező bejelentő – e törvény keretei között – bármely, üzletszerű tevékenységet folytató természetes személy és jogi személy lehet.
+
+(3)
 
 (4) Ha a filmterjesztő filmforgalmazási és moziüzemeltetési tevékenységet is végez, köteles a forgalmazói és moziüzemeltetési tevékenységet külön-külön bejelenteni.
 
@@ -16,6 +18,10 @@ a) a forgalmazói tevékenységet folytató szolgáltatókról, valamint
 
 b) a moziüzemeltető tevékenységet folytató szolgáltatókról.
 
-(6) Az (5) bekezdés szerinti nyilvántartásoknak a forgalmazók és a moziüzemeltetők nevére, elérhetőségére, valamint a mozik elnevezésére, címére és teremszámára vonatkozó adatai nyilvánosak és a Hatóság internetes honlapjáról elérhetők. A Hatóság a forgalmazói és moziüzemeltetési tevékenység ellenőrzése céljából a forgalmazói, illetve moziüzemeltetési tevékenységet folytató természetes személy személyazonosító adatait kezeli a nyilvántartásból való törlésig.
+c) azokról a filmterjesztőkről, amelyek tevékenységének folytatását a Hatóság végleges döntésével megtiltotta.
+
+(6) Az (5) bekezdés szerinti nyilvántartások tartalmazzák a forgalmazók és a moziüzemeltetők nevére, elérhetőségére, valamint a mozik elnevezésére, címére és teremszámára vonatkozó adatait, valamint az e törvényben és a mozgóképszakmai hatóság által vezetett nyilvántartások részletes szabályairól és az igazolások kiadásának rendjéről szóló miniszteri rendeletben meghatározott egyéb adatokat. A Hatóság a forgalmazói és moziüzemeltetési tevékenység ellenőrzése céljából a forgalmazói, illetve moziüzemeltetési tevékenységet folytató természetes személy személyazonosító adatait kezeli a nyilvántartásból való törlésig.
 
 (7) Az (5) bekezdés szerinti nyilvántartások a (6) bekezdésben foglalt adatok tekintetében – a természetes személyazonosító, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősülnek.
+
+(8) Az (5) bekezdés c) pontja szerinti nyilvántartásban szereplő filmforgalmazótól a moziüzemeltető nem szerezhet be filmalkotást terjesztés céljából, továbbá a nyilvántartásban szereplő moziüzemeltetőnek a forgalmazó terjesztés céljából nem adhat át filmalkotást. Amennyiben az általános felügyeleti eljárás során a Hatóság megállapítja a filmalkotás terjesztés céljából történő beszerzése vagy átadása tilalmának megsértését, közigazgatási bírságot szab ki.

@@ -22,7 +22,7 @@ b) a jogsértőt kötelezheti közleménynek a jogsértő internetes honlapja ny
 
 c) ha e törvény vagy e törvény felhatalmazása keretében kibocsátott jogszabály alapján adatszolgáltatásra vagy bejelentésre kötelezett az adatszolgáltatási vagy bejelentési kötelezettségét nem vagy késedelmesen teljesíti, a Hatóság harmincezer forinttól ötszázezer forintig terjedő közigazgatási bírságot szabhat ki;
 
-d) e törvény vagy e törvény felhatalmazása keretében kibocsátott jogszabály a) és c) pontokban nem szabályozott rendelkezéseinek, valamint a Hatóság hatósági döntésének e törvényben nem szabályozott egyéb megsértése esetén a Hatóság háromezer forinttól egymillió forintig terjedő közigazgatási bírságot szabhat ki;
+d) e törvény vagy e törvény felhatalmazása keretében kibocsátott jogszabály a) és c) pontban nem szabályozott rendelkezéseinek, valamint a Hatóság hatósági döntésének e törvényben nem szabályozott egyéb megsértése esetén a Hatóság ötezer forinttól egymillió forintig terjedő közigazgatási bírságot szabhat ki.
 
 e) e törvényben meghatározott egyéb jogkövetkezményeket alkalmazhat.
 

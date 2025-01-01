@@ -2,9 +2,9 @@
 
 ## Filmregisztráció
 
-19/N. § (1) A 19/L. § (1) bekezdése szerint nyilvántartott moziban bemutatásra kerülő filmalkotást a mozgóképszakmai statisztikai adatok előállításának céljából a film forgalmazójának regisztrálnia kell a Hatóság által erre a célra létrehozott online felületen.
+19/N. § (1) A 19/L. § (1) bekezdése szerint nyilvántartott moziban bemutatásra kerülő filmalkotást a mozgóképszakmai statisztikai adatok előállításának céljából a film terjesztőjének regisztrálnia kell a Hatóság által erre a célra létrehozott online felületen.
 
-(2) Az (1) bekezdést nem kell alkalmazni az olyan terjesztői hálózatba nem kerülő filmalkotásra, amely nemzetközi egyezmény vagy szakmai szervezet által szervezett filmfesztiválok alkalmával országosan és egy évben legfeljebb tíz alkalommal kerül bemutatásra.
+(2) Az (1) bekezdést nem kell alkalmazni az olyan filmalkotásokra, amely szakmai vagy civil szervezet, kulturális intézmény által szervezett filmfesztiválok alkalmával országosan és egy évben legfeljebb tíz alkalommal kerül bemutatásra.
 
 (3) A regisztrációnak tartalmaznia kell a nyilvános előadás keretében bemutatni kívánt filmalkotás
 
@@ -28,9 +28,9 @@ i) játékidejét, és
 
 j) hazai bemutatójának tervezett időpontját.
 
-(4) A filmalkotás regisztrációjának a filmforgalmazónak a (3) bekezdésben foglalt adatok rendelkezésre állását követően haladéktalanul – de legkésőbb a 20. § (1) bekezdése, valamint a 25. § (1) bekezdése szerinti besorolási eljárások megkezdéséig – eleget kell tennie. A filmalkotás a (3) bekezdésben foglalt adatok hiánytalan közlését követően kap statisztikai azonosítót.
+(4) A filmalkotás regisztrációjának a film terjesztőjének a (3) bekezdésben foglalt adatok rendelkezésre állását követően haladéktalanul – de legkésőbb a 20. § (1) bekezdése, valamint a 25. § (1) bekezdése szerinti besorolási eljárások megkezdéséig – eleget kell tennie. A filmalkotás a (3) bekezdésben foglalt adatok hiánytalan közlését követően kap statisztikai azonosítót.
 
-(5) Ha a (3) bekezdésben meghatározott adatokban változás következik be, a filmforgalmazónak a megváltozott adat tudomására jutását követően haladéktalanul – de legkésőbb a filmalkotás 20. § (1) bekezdése szerinti hatóság eljárás megkezdéséig, ennek hiányában a (3) bekezdés j) pontjában foglalt időpontot megelőző három nappal – a regisztrált adatot módosítania kell. A filmalkotás hazai forgalmazója, eredeti címe és gyártási éve nem módosítható.
+(5) Ha a (3) bekezdésben meghatározott adatokban változás következik be, a film terjesztőjének a megváltozott adat tudomására jutását követően haladéktalanul – de legkésőbb a filmalkotás 20. § (1) bekezdése szerinti hatósági eljárás megkezdéséig, ennek hiányában a (3) bekezdés j) pontjában foglalt időpontot megelőző három nappal – a regisztrált adatot módosítania kell. A filmalkotás hazai forgalmazója, eredeti címe és gyártási éve nem módosítható.
 
 (6) A filmalkotás regisztrációja során kapott statisztikai azonosító a Hatóság eljárása során felhasználható.
 

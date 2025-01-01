@@ -4,7 +4,7 @@
 
 (3) Nem részesülhet az e törvény szerinti támogatásban:
 
-a) akit a mozgóképszakmai hatóság nem vett nyilvántartásba, vagy onnan törölt,
+a) a 12. § (3) bekezdés a)–d) pontja szerinti támogatások esetében, akit a mozgóképszakmai hatóság nem vett nyilvántartásba, vagy onnan törölt,
 
 b) akinek az állammal szemben fennálló adó-, járulék- vagy egyéb köztehertartozása van,
 

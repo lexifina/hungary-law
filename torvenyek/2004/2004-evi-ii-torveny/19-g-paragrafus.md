@@ -8,7 +8,7 @@
 
 (4) A Hatóság az e törvény hatálya alá tartozó személyeket és szervezeteket hatósági határozatában időszakos vagy folyamatos adatszolgáltatásra is kötelezheti.
 
-(5) A Hatóság e törvény hatálya alá tartozó személyeket és szervezeteket hatósági határozatában a helyszínre vagy a hatósági nyilvántartáshoz telepített, illetve folyamatba épített ellenőrző rendszerből történő táv-adatszolgáltatásra kötelezheti.
+(5) A Hatóság e törvény hatálya alá tartozó személyeket és szervezeteket hatósági határozatában, illetve a 38. § a) pontja szerinti felhatalmazás alapján megalkotott jogszabály szerint a helyszínre vagy a hatósági nyilvántartáshoz telepített, illetve folyamatba épített ellenőrző rendszerből történő táv-adatszolgáltatásra kötelezheti. A Hatóság e feladata ellátásához igénybe vehet közreműködőként harmadik személyt vagy szervezetet.
 
 (6) Az ügyfél a Hatóság (3)–(5) bekezdés szerinti határozatát a határozat közlésétől számított tizenöt napon belül támadhatja meg közigazgatási perben. A keresetlevél benyújtásának halasztó hatálya van.
 

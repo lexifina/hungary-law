@@ -20,7 +20,7 @@ g) mozgóképszakmai rendezvényszervezés, illetve rendezvényen, filmfesztivá
 
 h) mozgóképszakmai kiadványok készítése, kiadása,
 
-i) infrastrukturális fejlesztések.
+i)
 
 (4) A (3) bekezdésben meghatározott tevékenységek céljára nyújtható támogatás maximális mértékének meghatározása szempontjából a filmalkotáshoz nyújtott valamennyi támogatást figyelembe kell venni. A filmgyártás-előkészítési támogatásban részesülő filmalkotás támogatását a 13. §-ban meghatározott támogatási határ kiszámításakor figyelembe kell venni.
 

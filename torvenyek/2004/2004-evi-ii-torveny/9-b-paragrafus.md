@@ -26,7 +26,7 @@ h) a mozgóképszakmai támogatási rendszer továbbfejlesztésére vonatkozó k
 
 i) a magyar kultúra terjesztése,
 
-j) a 31/B. § (2c) bekezdése szerinti forrás felhasználásával a mozgóképszakmai képzés támogatása, támogatási rendszerének működtetése, képzések szervezése és a mozgóképes szakmák népszerűsítése,
+j) a 31/B. § (2c) bekezdése szerinti forrás felhasználásával a mozgóképszakmai képzés, mozgóképszakmai pályaorientáció, mozgóképszakmai képzéssel összefüggő nemzetközi rendezvényen való részvétel támogatása, támogatási rendszerének működtetése, képzések szervezése és a mozgóképes szakmák népszerűsítése,
 
 k)
 
