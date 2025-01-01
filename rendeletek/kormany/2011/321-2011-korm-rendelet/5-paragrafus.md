@@ -1,6 +1,6 @@
 5. § (1) A helyi esélyegyenlőségi program részét képező intézkedési tervben meghatározott intézkedések célja különösen:
 
-a) a lakhatási szegregáció és oktatási kirekesztődés felszámolása, integrált vagy a környezeti normáknak megfelelő minőségű lakókörnyezet kialakítása;
+a)[^10] a lakhatási szegregáció és oktatási kirekesztődés megelőzése, felszámolása, integrált vagy a környezeti normáknak megfelelő minőségű lakókörnyezet kialakítása;
 
 b) a hátrányos helyzetű társadalmi csoportok képzettségi és foglalkoztatottsági szintjének növelése;
 
@@ -14,7 +14,7 @@ f) a hátrányos helyzetű csoportok tagjai részvételének elősegítése a d�
 
 g) a hátrányos helyzetű csoportok tájékozottságának és tudatosságának növelése az őket megillető jogok és lehetőségek tekintetében.
 
-(2)[^8] Az intézkedési tervben
+(2)[^11] Az intézkedési tervben
 
 a) a helyzetelemzés következtetései alapján feltárt problémákhoz kapcsolódóan kell meghatározni a helyi esélyegyenlőségi program céljait, valamint az azok elérését szolgáló intézkedéseket;
 
@@ -22,4 +22,5 @@ b) esélyegyenlőségi területenként kell bemutatni az intézkedéseket, azok 
 
 c) rendelkezni kell az egyes intézkedések végrehajtásának feltételeiről, ütemezéséről a szükséges uniós források és hazai költségvetési források megjelölésével.
 
-[^8]: Az 5. § (2) bekezdése a 375/2021. (VI. 30.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^10]: Az 5. § (1) bekezdés a) pontja a 486/2024. (XII. 31.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^11]: Az 5. § (2) bekezdése a 375/2021. (VI. 30.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.

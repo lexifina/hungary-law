@@ -2,6 +2,6 @@
 
 9. § (1) Ez a rendelet 2012. március 1-jén lép hatályba.
 
-(2)[^16]
+(2)[^19]
 
-[^16]: A 9. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 9. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
