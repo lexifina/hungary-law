@@ -1,0 +1,3 @@
+2. § (1) A Paks város közigazgatási területén kijelölt különleges gazdasági övezetben található, az 1. mellékletben felsorolt, Tolna Vármegye Önkormányzata tulajdonába került – 3. § szerinti, a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvényben, valamint törvényben meghatározott kötelező közfeladat ellátását szolgáló – közterület, közpark, közút tulajdonjogát e rendelet hatálybalépése napján Paks Város Önkormányzata szerzi meg, az ingatlanok terheivel és az azokkal kapcsolatos egyéb kötelezettséggel együtt.
+
+(2) Paks Város Önkormányzatának tulajdonjogát az ingatlan-nyilvántartásba a települési önkormányzat megkeresése alapján kell bejegyezni. A megkeresésben meg kell jelölni a különleges gazdasági övezet megszűnéséről szóló kormányrendeletet.
