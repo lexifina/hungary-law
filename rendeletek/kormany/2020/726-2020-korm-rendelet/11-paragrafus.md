@@ -18,7 +18,7 @@ f) a tanúsító szervezet és a vizsgáló laboratórium rendelkezik informatik
 
 g) a tanúsító szervezet és a vizsgáló laboratórium rendelkezik informatikai biztonsági funkciókat megvalósító szoftvertermékek és -rendszerek biztonságának hazai vagy nemzetközi informatikai biztonsági módszertanon alapuló tanúsítására vonatkozó akkreditáció alapján végzett – bármilyen ágazatból származó – legalább 3 referenciával;
 
-h) a tanúsító szervezetnek biztonsági szabályzattal, valamint tanúsított informatikabiztonsági irányítási rendszerrel kell rendelkeznie, valamint a tanúsító szervezetnek és a vizsgáló laboratóriumnak legalább 3 éve rendelkeznie kell a minősített adat védelméről szóló 2009. évi CLV. törvény 16. §-a alapján kiállított telephely-biztonsági tanúsítvánnyal, és tanúsító szervezetnek és a vizsgáló laboratóriumnak szerepelnie kell a kormányzati eseménykezelő központ és az eseménykezelő központok feladat- és hatásköréről, valamint a biztonsági események kezelésének, a biztonsági események műszaki vizsgálatának és a sérülékenységvizsgálat lefolytatásának szabályairól szóló 271/2018. (XII. 20.) Korm. rendelet 22. § (5) bekezdése szerinti nyilvántartásban.
+h)[^38] a tanúsító szervezetnek biztonsági szabályzattal, valamint tanúsított informatikabiztonsági irányítási rendszerrel kell rendelkeznie, valamint a tanúsító szervezetnek és a vizsgáló laboratóriumnak legalább 3 éve rendelkeznie kell a minősített adat védelméről szóló 2009. évi CLV. törvény 16. §-a alapján kiállított telephely-biztonsági tanúsítvánnyal, és tanúsító szervezetnek és a vizsgáló laboratóriumnak szerepelnie kell Magyarország kiberbiztonságáról szóló 2024. évi LXIX. törvény 57. § (2) bekezdés d) pontja szerinti nyilvántartásban.
 
 (3) Az informatikai rendszer megfelel a rendszerelemek zártságával, az informatikai rendszerhez történő jogosulatlan hozzáférés és észrevétlen módosítás megakadályozásával kapcsolatos, valamint az általános információbiztonsági zártsági követelményeknek, ha
 
@@ -56,6 +56,9 @@ p) a rendszer és az üzemeltetési szabályzatok gondoskodnak a rendszer és a 
 
 q) megfelelő szintű fizikailag védett környezetet biztosítanak a rendszer számára;
 
-r) a szervezet detektálja és kezeli az egyes biztonsági eseményeket;
+r)[^39] a szervezet detektálja és kezeli az egyes kiberbiztonsági incidenseket;
 
 s) a rendszer üzemeltetésében és használatában részt vevő személyek rendszeres biztonságtudatossági oktatáson vesznek részt, valamint a szervezet dolgozóinak munkaügyi szabályozása megfelel a biztonsági előírásoknak.
+
+[^38]: A 11. § (2) bekezdés h) pontja a 418/2024. (XII. 23.) Korm. rendelet 141. § a) pontja szerint módosított szöveg.
+[^39]: A 11. § (3) bekezdés r) pontja a 418/2024. (XII. 23.) Korm. rendelet 141. § b) pontja szerint módosított szöveg.

@@ -1,19 +1,19 @@
-14. §[^48] (1)[^49] A kereskedő a fogyasztó részére 2023. december 31-ig át nem adott címkéket – ideértve a sérült címkéket is – 2024. január 31-ig köteles a székhelye vagy telephelye szerinti illetékes járási (fővárosi kerületi) hivatal (a továbbiakban: járási hivatal) részére visszaszolgáltatni.
+14. §[^50] (1)[^51] A kereskedő a fogyasztó részére 2023. december 31-ig át nem adott címkéket – ideértve a sérült címkéket is – 2024. január 31-ig köteles a székhelye vagy telephelye szerinti illetékes járási (fővárosi kerületi) hivatal (a továbbiakban: járási hivatal) részére visszaszolgáltatni.
 
-(2)[^50] A járási hivatal a kereskedő által visszaszolgáltatott címkéket 2024. február 15-ig átadja Budapest Főváros Kormányhivatala (a továbbiakban: BFKH) részére.
+(2)[^52] A járási hivatal a kereskedő által visszaszolgáltatott címkéket 2024. február 15-ig átadja Budapest Főváros Kormányhivatala (a továbbiakban: BFKH) részére.
 
-(3)[^51] A BFKH a (2) bekezdés alapján átvett címkéket 2024. február 20-ig juttatja el az NMHH részére.
+(3)[^53] A BFKH a (2) bekezdés alapján átvett címkéket 2024. február 20-ig juttatja el az NMHH részére.
 
-(4)[^52] Az NMHH – a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény (a továbbiakban: Mttv.) 134. § (18) bekezdése szerinti forrás terhére – a 2023. december 31-ig nyilvántartásba vett, de ki nem adott, vagy a (3) bekezdés szerint visszaszolgáltatott ép címkéket jogosult 2026. november 30-ig átadni a személyes adatok védelméhez kapcsolódó nevelő, ismeretterjesztő tevékenység elősegítése, a személyes adatok védelmével összefüggő fogyasztói tudatosság növelése céljából más állami szerv, oktatási, nevelési vagy kulturális feladatokat ellátó intézmény vagy nonprofit szervezet részére.
+(4)[^54] Az NMHH – a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény (a továbbiakban: Mttv.) 134. § (18) bekezdése szerinti forrás terhére – a 2023. december 31-ig nyilvántartásba vett, de ki nem adott, vagy a (3) bekezdés szerint visszaszolgáltatott ép címkéket jogosult 2026. november 30-ig átadni a személyes adatok védelméhez kapcsolódó nevelő, ismeretterjesztő tevékenység elősegítése, a személyes adatok védelmével összefüggő fogyasztói tudatosság növelése céljából más állami szerv, oktatási, nevelési vagy kulturális feladatokat ellátó intézmény vagy nonprofit szervezet részére.
 
-(5)[^53] A (4) bekezdés szerint átadott címke felhasználójára az e rendelet fogyasztóra irányadó szabályai megfelelően alkalmazandók.
+(5)[^55] A (4) bekezdés szerint átadott címke felhasználójára az e rendelet fogyasztóra irányadó szabályai megfelelően alkalmazandók.
 
-(6)[^54] Az NMHH a (4) bekezdés szerinti címkéket szigorú számadású bizonylatként tartja nyilván, és azok átadásáról jegyzőkönyvet vesz fel. Az NMHH nyilvántartja a jegyzőkönyv keltét mint az adattörlő kód fogyasztó részére történő átadásának időpontját, az átadott címkék sorszámát és a jegyzőkönyv – átadási bizonylat – azonosító számát.
+(6)[^56] Az NMHH a (4) bekezdés szerinti címkéket szigorú számadású bizonylatként tartja nyilván, és azok átadásáról jegyzőkönyvet vesz fel. Az NMHH nyilvántartja a jegyzőkönyv keltét mint az adattörlő kód fogyasztó részére történő átadásának időpontját, az átadott címkék sorszámát és a jegyzőkönyv – átadási bizonylat – azonosító számát.
 
-[^48]: A 14. §-t az 518/2022. (XII. 13.) Korm. rendelet 11. §-a iktatta be.
-[^49]: A 14. § (1) bekezdése a 111/2023. (III. 31.) Korm. rendelet 2. § a) és b) pontja szerint módosított szöveg.
-[^50]: A 14. § (2) bekezdése a 111/2023. (III. 31.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
-[^51]: A 14. § (3) bekezdése a 111/2023. (III. 31.) Korm. rendelet 2. § d) pontja szerint módosított szöveg.
-[^52]: A 14. § (4) bekezdését a 93/2024. (IV. 23.) Korm. rendelet 32. §-a iktatta be.
-[^53]: A 14. § (5) bekezdését a 93/2024. (IV. 23.) Korm. rendelet 32. §-a iktatta be.
-[^54]: A 14. § (6) bekezdését a 93/2024. (IV. 23.) Korm. rendelet 32. §-a iktatta be.
+[^50]: A 14. §-t az 518/2022. (XII. 13.) Korm. rendelet 11. §-a iktatta be.
+[^51]: A 14. § (1) bekezdése a 111/2023. (III. 31.) Korm. rendelet 2. § a) és b) pontja szerint módosított szöveg.
+[^52]: A 14. § (2) bekezdése a 111/2023. (III. 31.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
+[^53]: A 14. § (3) bekezdése a 111/2023. (III. 31.) Korm. rendelet 2. § d) pontja szerint módosított szöveg.
+[^54]: A 14. § (4) bekezdését a 93/2024. (IV. 23.) Korm. rendelet 32. §-a iktatta be.
+[^55]: A 14. § (5) bekezdését a 93/2024. (IV. 23.) Korm. rendelet 32. §-a iktatta be.
+[^56]: A 14. § (6) bekezdését a 93/2024. (IV. 23.) Korm. rendelet 32. §-a iktatta be.
