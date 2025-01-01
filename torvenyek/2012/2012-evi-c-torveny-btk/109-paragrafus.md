@@ -16,6 +16,8 @@ b) tíz évet meghaladó tartamú szabadságvesztéssel büntetendő bűncselekm
 
 c) öt évet meghaladó tartamú szabadságvesztéssel büntetendő bűncselekmény elkövetése esetén öt év.
 
-(4) A büntethetőség elévülése határidejének számításánál és a visszaesőkre vonatkozó rendelkezések szempontjából a (2)–(3) bekezdésben meghatározott időtartamok az irányadóak.
+(4) A (2) bekezdés b) pontjában, valamint a (3) bekezdés b) és c) pontjában írt esetben a büntethetőség elévülése határidejének számításánál az ott meghatározott időtartamok az irányadók.
+
+(4a) A visszaesőkre vonatkozó rendelkezések szempontjából a (2)–(3) bekezdésben meghatározott időtartamok az irányadók.
 
 (5) Fiatalkorúval szemben a 38. § (4) bekezdés e) pontja és (5) bekezdése alapján a feltételes szabadságra bocsátás lehetősége akkor zárható ki, ha a bűncselekmény elkövetésekor a tizenhatodik életévét betöltötte, és tízévi vagy azt meghaladó tartamú szabadságvesztésre ítélik.
