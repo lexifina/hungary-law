@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-163-00-00
 | 2023-07-01 | 2023. évi XLIV. törvény | 2020-163-00-00.6 |
 | 2024-05-17 | 2024. évi XIX. törvény | 2020-163-00-00.8 |
 | 2024-09-01 | 2024. évi XII. törvény | 2020-163-00-00.7 |
+| 2025-01-01 | 2024. évi LXXX. törvény | 2020-163-00-00.9 |
