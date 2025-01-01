@@ -51,3 +51,5 @@ o) a 46. § (2) bekezdés e) pontjában meghatározott adatok tekintetében – 
 (5) Az (1) bekezdés b)–m) pontjaiban meghatározott adatigénylők részére történő adatszolgáltatás díjmentes.
 
 (6) Az (1) bekezdés o) pontjában foglalt adatátadás valamint ezen adatok tekintetében a Kknyt.-ben meghatározott informatikai platformon keresztül történő járműéletút-adatszolgáltatás díjmentes.
+
+(7) A kötvénynyilvántartás a 46. § (2) bekezdésében meghatározott adatokat automatikusan és díjmentesen szolgáltatja a Kknyt. szerinti járműnyilvántartásnak.
