@@ -1,0 +1,1 @@
+25. § A XII. Agrárminisztérium fejezet, 20. cím, 3. alcím, 1. Nemzeti agrártámogatások jogcímcsoport kiadási előirányzatáról kell teljesíteni a folyó költségként elszámolható, megszűnő agrár- és vidékfejlesztési támogatások korábbi években vállalt és a 2025. évet terhelő áthúzódó fizetési kötelezettségeit.

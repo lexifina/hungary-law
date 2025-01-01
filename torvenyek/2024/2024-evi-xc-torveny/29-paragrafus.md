@@ -1,0 +1,1 @@
+29. § A honvédelemért felelős miniszter a védelmi tevékenység, a NATO felé vállalt haderőfejlesztési célkitűzések és az előre nem tervezett nemzetközi feladatok végrehajtása céljából a XIII. Honvédelmi Minisztérium fejezet 1–8. címe, alcímei között – ideértve címen, alcímen belül a kiemelt előirányzatokat is – átcsoportosíthat.

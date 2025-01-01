@@ -1,0 +1,1 @@
+76. § A mozgóképről szóló 2004. évi II. törvény 13. § (5) bekezdésében meghatározott gyártási költségvetési értékhatár a 2025. évben magyar filmalkotás esetén 411,1 millió forint, magyar részvételű koprodukciós filmalkotás esetén 821,6 millió forint.
