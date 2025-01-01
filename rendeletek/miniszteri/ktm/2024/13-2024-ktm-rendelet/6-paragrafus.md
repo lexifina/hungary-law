@@ -1,0 +1,1 @@
+6. § A kormányablak, a GÜP, az ügysegéd és a KOF részére biztosított internetes elérés – a feladatai ellátásához szükséges szolgáltatások biztosítása mellett – a miniszter és az e-közigazgatásért felelős miniszter egyetértésével információbiztonsági okból a szükséges mértékig korlátozható.
