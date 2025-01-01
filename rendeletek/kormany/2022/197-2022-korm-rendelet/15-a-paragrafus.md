@@ -1,3 +1,3 @@
-15/A. §[^55]
+15/A. §[^53]
 
-[^55]: A 15/A. §-t a 183/2024. (VII. 8.) Korm. rendelet 2. § (2) bekezdése iktatta be, a 2024. évi LV. törvény 212. § b) pontja hatályon kívül helyezte.
+[^53]: A 15/A. §-t a 183/2024. (VII. 8.) Korm. rendelet 2. § (2) bekezdése iktatta be, a 2024. évi LV. törvény 212. § b) pontja hatályon kívül helyezte.
