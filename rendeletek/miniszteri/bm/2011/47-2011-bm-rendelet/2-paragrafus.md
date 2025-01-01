@@ -10,7 +10,7 @@ d) építészmérnök tűz- és katasztrófavédelmi szakirányú végzettségge
 
 e) területi építész vagy mérnöki kamarai tagsággal, felsőfokú végzettséggel és jogszabályban meghatározott felsőszintű tűzvédelmi szakmai képesítéssel
 
-## rendelkezik.
+rendelkezik.
 
 (1a)[^12] Az (1) bekezdésben meghatározott személy tűzvédelmi szakértői tevékenységet akkor folytathat, ha
 
@@ -18,7 +18,7 @@ a)[^13] az általa megjelölt tűzvédelmi szakterületen a szakmai képesítés
 
 b) a kérelmezett tűzvédelmi szakterületen a vizsgabizottság előtt letett eredményes vizsgával
 
-## rendelkezik.
+rendelkezik.
 
 (2)[^14] Tűzvizsgálati szakértői tevékenység folytatása esetén az (1) bekezdésben és az (1a) bekezdés a) pontjában foglalt feltételek teljesítése alól mentesül, aki
 

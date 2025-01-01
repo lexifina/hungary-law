@@ -24,6 +24,8 @@ b) a bizonyítványban szereplő adat megváltozása, vagy
 
 c) hibás adatokat tartalmazó bizonyítvány
 
+esetén.
+
 [^25]: A 4. § a 75/2015. (XII. 22.) BM rendelet 3. § (8) bekezdésével megállapított szöveg.
 [^26]: A 4. § (1) bekezdés b) pontja a 10/2017. (VI. 1.) BM rendelet 22. § b) pontja szerint módosított szöveg.
 [^27]: A 4. § (3) bekezdése a 10/2017. (VI. 1.) BM rendelet 15. §-ával megállapított szöveg.

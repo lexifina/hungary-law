@@ -1,5 +1,3 @@
-## A tűzvédelmi szakértői tevékenység bejelentése
-
 ## Bejelentés típusa (tevékenység megkezdés, adatváltozás)
 
 ## Szolgáltató neve
@@ -22,9 +20,9 @@
 
 ## Nyilvántartási szám (adatváltozás esetén)
 
-3. melléklet a 47/2011. (XII. 15.) BM rendelethez[^48]
+3. melléklet a 47/2011. (XII. 15.) BM rendelethez[^49]
 
-## Szakértői nyilvántartás tartalma
+Szakértői nyilvántartás tartalma
 
 1. a megbízás tárgya,
 
@@ -36,4 +34,4 @@
 
 5. a megbízás egyedi azonosítója.
 
-[^48]: A 3. mellékletet a 10/2017. (VI. 1.) BM rendelet 23. §-a iktatta be.
+[^49]: A 3. mellékletet a 10/2017. (VI. 1.) BM rendelet 23. §-a iktatta be.

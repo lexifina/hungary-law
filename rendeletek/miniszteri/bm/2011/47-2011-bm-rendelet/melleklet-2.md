@@ -1,5 +1,3 @@
-## Tűzvédelmi szakértői szakterületek
-
 | Igazságügyi szakértői szakterületek a 9/2006. (II. 27.) IM rendelet szerint | Kapcsolódó tűzvédelmi szakértői szakterületek |
 
 | 1. Építmények tűzvédelme | a) Építész tűzvédelmi szakértő |
@@ -22,6 +20,8 @@
 
 | 4. Tűzvizsgálat | a) Tűzvizsgálati szakértő |
 
-2. melléklet a 47/2011. (XII. 15.) BM rendelethez[^47]
+2. melléklet a 47/2011. (XII. 15.) BM rendelethez[^48]
 
-[^47]: A 2. mellékletet a 75/2015. (XII. 22.) BM rendelet 3. § (15) bekezdése iktatta be.
+A tűzvédelmi szakértői tevékenység bejelentése
+
+[^48]: A 2. mellékletet a 75/2015. (XII. 22.) BM rendelet 3. § (15) bekezdése iktatta be.
