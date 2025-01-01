@@ -6,6 +6,6 @@
 
 (4) Az 1. §-ban meghatározott – a rendelet hatálybalépése előtt érvényes szerződéseket felváltó, a rendelet kihirdetése és hatálybalépése között megkötendő – új szerződések e rendelet hatálybalépésének napján lépnek hatályba.
 
-(5)[^52]
+(5)[^54]
 
-[^52]: A 7. § (5) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1223. pontja hatályon kívül helyezte.
+[^54]: A 7. § (5) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1223. pontja hatályon kívül helyezte.
