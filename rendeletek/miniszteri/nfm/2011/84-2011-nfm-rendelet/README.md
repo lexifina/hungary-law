@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-84-20-2
 | 2022-01-01 | 2011-84-20-2W.13 | 46/2017. (XII. 20.) NFM rendelet |
 | 2023-01-01 | 2011-84-20-2W.14 | 46/2017. (XII. 20.) NFM rendelet |
 | 2024-01-01 | 2011-84-20-2W.15 | 46/2017. (XII. 20.) NFM rendelet |
+| 2025-01-01 | 2011-84-20-2W.16 | 46/2017. (XII. 20.) NFM rendelet |
