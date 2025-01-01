@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-1573-30
 | --- | --- | --- |
 | 2021-08-09 | 2021-1573-30-22.1 | 1573/2021. (VIII. 9.) Korm. határozat |
 | 2021-12-21 | 2021-1573-30-22.2 | 1947/2021. (XII. 21.) Korm. határozat |
+| 2025-01-01 | 2021-1573-30-22.3 | 2011: CXCV. törvény |
