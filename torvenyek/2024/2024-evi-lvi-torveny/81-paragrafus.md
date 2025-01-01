@@ -1,1 +1,3 @@
-### 81. §
+81. § A Pmt. 14. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Az 1. § (1) bekezdés e)–h), j)–k), m), p) és q) pontjában meghatározott szolgáltató – a 6. § (2) bekezdésében meghatározott kötelezettség végrehajtása érdekében – a háromszázezer forintot elérő vagy meghaladó összegű, virtuális fizetőeszköz átváltás esetén a százezer forintot elérő vagy meghaladó összegű ügyleti megbízás teljesítésekor természetes személy ügyfél esetében a 7. § (2) bekezdés a) pont aa) és ad) alpontjában, jogi személy vagy jogi személyiséggel nem rendelkező szervezet ügyfél esetében a 7. § (2) bekezdés b) pont ba) és bb) alpontjában, valamint a 14/A. § (2) bekezdés a) pontjában meghatározott adatokat köteles rögzíteni, és a 7. § (3) bekezdésében meghatározott okiratok bemutatását kérheti.”

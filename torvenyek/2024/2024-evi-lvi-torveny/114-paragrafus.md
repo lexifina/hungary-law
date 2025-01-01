@@ -1,1 +1,1 @@
-### 114. §
+114. § Hatályát veszti az egyes otthonteremtési állami feladatok karitatív szervezetek általi átvállalásáról szóló 2021. évi LXXXVI. törvény 1. § (1) bekezdésében az „és a Maradványvagyon-hasznosító Zártkörűen Működő Részvénytársaság (a továbbiakban: MVH) vagyonkezelésében” szövegrész.
