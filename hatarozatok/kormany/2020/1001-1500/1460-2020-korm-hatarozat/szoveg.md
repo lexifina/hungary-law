@@ -36,13 +36,7 @@ Határidő: a felmerülés ütemében
 
 5/A.[^1] egyetért azzal, hogy a 2. pont végrehajtása érdekében az 5. pontban biztosított forráson felül további 49 400 000 forint központi költségvetési támogatás kerüljön biztosításra;
 
-5/B.[^2] az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva 49 400 000 forint egyszeri átcsoportosítását rendeli el a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 1. Miniszterelnökség igazgatása cím terhére, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 10. BFK Budapest Fejlesztési Központ Nonprofit Zrt. működésének és szakmai feladatainak támogatása jogcímcsoport javára, az 1. melléklet szerint;
-
-Felelős: pénzügyminiszter
-
-Miniszterelnökséget vezető miniszter
-
-Határidő: azonnal
+5/B.[^2]
 
 6. felhívja a Miniszterelnökséget vezető minisztert, hogy az 5. pont szerinti költségvetési támogatással kapcsolatosan bocsásson ki támogatói okiratot a BFK Budapest Fejlesztési Központ Nonprofit Zrt. részére;
 
@@ -65,5 +59,5 @@ innovációért és technológiáért felelős miniszter
 Határidő: a 2021–2027 közötti európai uniós programozási időszak közlekedésfejlesztésre rendelkezésre álló forrásainak tervezése során
 
 [^1]: Az 5/A. pontot az 1090/2021. (III. 3.) Korm. határozat 1. pontja iktatta be.
-[^2]: Az 5/B. pontot az 1090/2021. (III. 3.) Korm. határozat 1. pontja iktatta be.
+[^2]: Az 5/B. pontot az 1090/2021. (III. 3.) Korm. határozat 1. pontja iktatta be, a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
 [^3]: A 6/A. pontot az 1090/2021. (III. 3.) Korm. határozat 2. pontja iktatta be.
