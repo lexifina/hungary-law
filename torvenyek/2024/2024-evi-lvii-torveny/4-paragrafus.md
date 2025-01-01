@@ -8,4 +8,4 @@
 
 ## 1. Felhatalmazó és hatályba léptető rendelkezések
 
-### 4. §
+4. § Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a munkáshitel igénybevételének feltételeit, nyújtásának részletes szabályait.
