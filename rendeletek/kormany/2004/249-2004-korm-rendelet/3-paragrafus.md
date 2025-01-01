@@ -20,6 +20,8 @@ e) a dolog fogyasztó részére történő visszaadásának időpontját, továb
 
 (6)[^10] A jótállási jegy fogyasztó rendelkezésére bocsátásának elmaradása esetén a szerződés megkötését bizonyítottnak kell tekinteni, ha az ellenérték megfizetését igazoló bizonylatot – az általános forgalmi adóról szóló törvény alapján kibocsátott számlát vagy nyugtát – a fogyasztó bemutatja. Ebben az esetben a jótállásból eredő jogok az ellenérték megfizetését igazoló bizonylattal érvényesíthetőek.
 
+(7)[^11] A vállalkozás az e rendelet előírásainak megfelelő jótállási jegyet – a fogyasztó eltérő kérése hiányában – a jótállási jegyet elektronikus úton is átadhatja a fogyasztó részére. Ezen eltérő kérés lehetőségére – a távollévők között kötött szerződések kivételével – a vállalkozás a jótállási jegy átadását megelőzően felhívja a fogyasztó figyelmét.
+
 [^4]: A 3. § (1) bekezdése a 97/2014. (III. 25.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
 [^5]: A 3. § (2) bekezdés a) pontja a 97/2014. (III. 25.) Korm. rendelet 3. § (13) bekezdés a) pontja szerint módosított szöveg. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
 [^6]: A 3. § (2) bekezdés b) pontja a 97/2014. (III. 25.) Korm. rendelet 3. § (13) bekezdés b) pontja szerint módosított szöveg. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
@@ -27,3 +29,4 @@ e) a dolog fogyasztó részére történő visszaadásának időpontját, továb
 [^8]: A 3. § (4) bekezdése a 97/2014. (III. 25.) Korm. rendelet 3. § (13) bekezdés c) pontja szerint módosított szöveg. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
 [^9]: A 3. § (5) bekezdése a 97/2014. (III. 25.) Korm. rendelet 3. § (5) bekezdésével megállapított szöveg. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
 [^10]: A 3. § (6) bekezdését a 97/2014. (III. 25.) Korm. rendelet 3. § (6) bekezdése iktatta be. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
+[^11]: A 3. § (7) bekezdését a 416/2024. (XII. 20.) Korm. rendelet 7. § (1) bekezdése iktatta be.
