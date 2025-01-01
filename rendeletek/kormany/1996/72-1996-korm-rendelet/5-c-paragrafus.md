@@ -1,6 +1,6 @@
-## A vízjogi engedélyezés vízkészletjárulékkal kapcsolatos szabályai[^104]
+## A vízjogi engedélyezés vízkészletjárulékkal kapcsolatos szabályai[^108]
 
-5/C. §[^105] (1) A vízkészlet lekötésére és vízhasználat gyakorlására vonatkozó vízjogi létesítési vagy üzemeltetési engedélyben az 5. § (4) bekezdésben meghatározottak mellett a vízügyi hatóság a vízkészlet-járulékkal összefüggésben rögzíti
+5/C. §[^109] (1) A vízkészlet lekötésére és vízhasználat gyakorlására vonatkozó vízjogi létesítési vagy üzemeltetési engedélyben az 5. § (4) bekezdésben meghatározottak mellett a vízügyi hatóság a vízkészlet-járulékkal összefüggésben rögzíti
 
 a) a vízhasználó által lekötött vízmennyiséget,
 
@@ -22,5 +22,5 @@ f) az ügyfelet terhelő kötelezettségek teljesítésének rendjét.
 
 (5) A mezőgazdasági vízszolgáltató igazolja azt a tényt, hogy a felszíni vízkivétel egynél több kalibrált mérőeszköz után történik.
 
-[^104]: Az 5/C. §-t megelőző alcímet a 370/2012. (XII. 17.) Korm. rendelet 1. §-a iktatta be.
-[^105]: Az 5/C. §-t a 370/2012. (XII. 17.) Korm. rendelet 1. §-a iktatta be, szövege az 518/2017. (XII. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^108]: Az 5/C. §-t megelőző alcímet a 370/2012. (XII. 17.) Korm. rendelet 1. §-a iktatta be.
+[^109]: Az 5/C. §-t a 370/2012. (XII. 17.) Korm. rendelet 1. §-a iktatta be, szövege az 518/2017. (XII. 29.) Korm. rendelet 5. §-ával megállapított szöveg.

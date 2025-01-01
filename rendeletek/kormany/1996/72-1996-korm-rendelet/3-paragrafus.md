@@ -32,11 +32,11 @@ c) a hasznosítás során nem alakul ki hidrodinamikai hatás a bányafelügyele
 
 (6)[^43] A vízjogi létesítési engedély az abban meghatározott jogok gyakorlása és kötelezettségek teljesítése mellett feljogosít – az érintett ingatlan vonatkozásában fennálló polgári jog szerinti jogosultság megléte esetén – az engedélyben meghatározott vízimunka elvégzésére, vízilétesítmény megépítésére, de a vízhasználat gyakorlásához, illetve a vízilétesítmény használatbavételéhez, üzemeltetéséhez szükséges vízjogi üzemeltetési engedély, vagy a jogszabály szerint szükséges egyéb hatósági engedély megszerzésének kötelezettsége alól nem mentesít.
 
-(7)[^44] A létesítési engedély – a vízgazdálkodási szempontokra figyelemmel, valamint a (7b) bekezdésben meghatározott kivétellel – az engedélyben meghatározott ideig hatályos. A hatály az engedély módosítására vonatkozó szabályok szerint, valamint a (7a) bekezdésben foglalt eltérések figyelembevételével meghosszabbítható.
+(7)[^44] A létesítési engedély – a vízgazdálkodási szempontokra figyelemmel, valamint a (7b) bekezdésben meghatározott kivétellel – a véglegessé és végrehajthatóvá válásának napjától számított öt évig hatályos. A hatály az engedély módosítására vonatkozó szabályok szerint, valamint a (7a) bekezdésben foglalt eltérések figyelembevételével meghosszabbítható.
 
 (7a)[^45] Ha a vízjogi létesítési engedély időbeli hatályának meghosszabbítására irányuló kérelem közműveket érint és a műszaki tervdokumentáció tartalma változatlan, a közmű kezelője (üzemeltetője) tizenöt napon belül adja meg nyilatkozatát, illetve hozzájárulását. Ha a közmű kezelője (üzemeltetője) a megkeresés beérkezésétől számított 15 napon belül nem nyilatkozik, a közmű kezelőjének (üzemeltetőjének) nyilatkozatát a megkeresésben foglalt tartalommal megadottnak kell tekinteni.
 
-(7b)[^46] A létesítési engedély a 309/2017. (X. 27.) Korm. rendelet 1. § (1a) bekezdése szerinti projektek, valamint a 323/2020. (VII. 1.) Korm. rendelet 2. mellékletében foglalt beruházások esetében a véglegessé és végrehajthatóvá válásának napjától számított öt évig hatályos.
+(7b)[^46] A létesítési engedély a 309/2017. (X. 27.) Korm. rendelet 1. § (1a) bekezdése szerinti projektek, valamint a 323/2020. (VII. 1.) Korm. rendelet 2. mellékletében foglalt beruházások esetében a véglegessé és végrehajthatóvá válásának napjától számított hét évig hatályos.
 
 (8)[^47] A (6) bekezdés szerint meghatározott jog gyakorlásához fűződő kötelezettségek teljesítése körében, az engedélyezett létesítmény céljára és vízgazdálkodási, környezetvédelmi rendeltetésére figyelemmel a vízügyi hatóság a létesítési engedélyben rendelkezik a próbaüzemeltetésről.
 
@@ -69,9 +69,9 @@ c) az a) és b) pontban meghatározott létesítményeken túl minden olyan egy�
 [^41]: A 3. § (4a) bekezdését a 369/2016. (XI. 29.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 457/2017. (XII. 28.) Korm. rendelet 28. § a) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^42]: A 3. § (5) bekezdése a 61/2023. (II. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^43]: A 3. § eredeti (5) bekezdésének számozását a 10/2000. (II. 2.) Korm. rendelet 2. §-ának (1) bekezdése (6) bekezdésre változtatta. A 3. § (6) bekezdése az 518/2017. (XII. 29.) Korm. rendelet 17. § c) pontja szerint módosított szöveg.
-[^44]: A 3. § eredeti (6) bekezdésének számozását (7) bekezdésre változtatta a 10/2000. (II. 2.) Korm. rendelet 2. §-ának (1) bekezdése, szövege az 552/2023. (XII. 12.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^44]: A 3. § eredeti (6) bekezdésének számozását (7) bekezdésre változtatta a 10/2000. (II. 2.) Korm. rendelet 2. § (1) bekezdése. A 3. § (7) bekezdése a 340/2024. (XI. 14.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^45]: A 3. § (7a) bekezdését a 123/2012. (VI. 26.) Korm. rendelet 2. §-a iktatta be.
-[^46]: A 3. § (7b) bekezdését az 552/2023. (XII. 12.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 158/2024. (VI. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^46]: A 3. § (7b) bekezdését az 552/2023. (XII. 12.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 158/2024. (VI. 28.) Korm. rendelet 2. §-ával megállapított, a 340/2024. (XI. 14.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
 [^47]: A 3. § (8) bekezdését a 10/2000. (II. 2.) Korm. rendelet 2. §-ának (2) bekezdése iktatta a szövegbe. [A 3. § (8) bekezdésében az 527/2013. (XII. 30.) Korm. rendelet 3. § (13) bekezdés c) pontjával elrendelt módosítás, amely szerint a „felügyelőség” szövegrészek helyébe a „vízügyi hatóság” szöveg lép, nem vezethető át.]
 [^48]: A 3. § (9) bekezdését a 10/2000. (II. 2.) Korm. rendelet 2. §-ának (2) bekezdése iktatta a szövegbe.
 [^49]: A 3. § (10) bekezdését a 10/2000. (II. 2.) Korm. rendelet 2. §-ának (2) bekezdése iktatta a szövegbe. [A 3. § (10) bekezdésében az 527/2013. (XII. 30.) Korm. rendelet 3. § (13) bekezdés c) pontjával elrendelt módosítás, amely szerint a „felügyelőség” szövegrészek helyébe a „vízügyi hatóság” szöveg lép, nem vezethető át.]
