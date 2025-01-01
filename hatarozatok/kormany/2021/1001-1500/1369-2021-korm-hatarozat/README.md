@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-1369-30
 | --- | --- | --- |
 | 2021-06-10 | 2021-1369-30-22.1 | 1369/2021. (VI. 10.) Korm. határozat |
 | 2023-12-20 | 2021-1369-30-22.3 | 1584/2023. (XII. 20.) Korm. határozat |
+| 2025-01-01 | 2021-1369-30-22.2 | 2011: CXCV. törvény |
