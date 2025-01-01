@@ -1,0 +1,1 @@
+9. § Az (EU) 2024/573 európai parlamenti és tanácsi rendeletben foglalt esetekben mentességi kérelem a klímavédelemért felelős hatóság útján az Európai Bizottság felé nyújtható be. A kérelem benyújtásának részletes szabályait az e törvény végrehajtására kiadott kormányrendelet határozza meg.

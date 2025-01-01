@@ -1,0 +1,1 @@
+Az Országgyűlés az éghajlatvédelem és a jövő nemzedékekért érzett felelőssége jegyében a klímagázokkal kapcsolatos tevékenységek végzésére irányuló törvényi szabályok megalkotásával kívánja előmozdítani az üvegházhatásúgáz-kibocsátás csökkentését.

@@ -1,0 +1,5 @@
+42. § Az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény 34/A. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(1) Ha az üzemeltető, légijármű-üzembentartó vagy hajózási társaság a számlavezetési díjat határidőben nem fizeti meg, a hatóság a határidő lejártát követően fizetési kötelezettség teljesítésének elmulasztását megállapító és a számlavezetési díj megfizetésére kötelező határozatot hoz.
+
+(2) A számlavezetési díj megfizetéséig a hatóság felfüggeszti az üzemeltető, a légijármű-üzembentartó vagy hajózási társaság forgalmi jegyzékbeli számláját. A számla felfüggesztésének feloldását a jegyzékkezelő a követelés teljesítésének beérkezését követő 15 napon belül végzi el. A számlavezetési díj üzemeltetői, légijármű-üzembentartói vagy hajózási társaság általi teljesítéséhez kapcsolódó felfüggesztésről és a felfüggesztés feloldásának tényéről a jegyzékkezelő minden esetben értesíti az érintetteket.”
