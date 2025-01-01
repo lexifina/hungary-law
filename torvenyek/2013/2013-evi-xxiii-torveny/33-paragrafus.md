@@ -6,7 +6,7 @@
 
 a) a biztonsági kőolaj- és földgázkészletezés,
 
-b)
+b) a 13. § (1) bekezdés e) pontja szerinti jelentések elkészítésében és a magyarországi termékszabvány szerinti paraméterek vizsgálatában való közreműködéshez kapcsolódó költségeket,
 
 c) a működésének várható ráfordításait.
 

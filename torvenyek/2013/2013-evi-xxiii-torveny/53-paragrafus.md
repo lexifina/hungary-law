@@ -1,8 +1,10 @@
 53. § (1) E törvény
 
-a) a tagállamok minimális kőolaj- és/vagy kőolajtermék-készletezési kötelezettségéről szóló, 2009. szeptember 14-i 2009/119/EK tanácsi irányelvnek, valamint
+a) a tagállamok minimális kőolaj- és/vagy kőolajtermék-készletezési kötelezettségéről szóló, 2009. szeptember 14-i 2009/119/EK tanácsi irányelvnek,
 
-b) a 2009/119/EK tanácsi irányelvnek a készletezési kötelezettségek számítási módszerei tekintetében történő módosításáról szóló, 2018. október 19-i 2018/1581/EU bizottsági végrehajtási irányelvnek
+b) a 2009/119/EK tanácsi irányelvnek a készletezési kötelezettségek számítási módszerei tekintetében történő módosításáról szóló, 2018. október 19-i 2018/1581/EU bizottsági végrehajtási irányelvnek, valamint
+
+c) a kritikus szervezetek rezilienciájáról és a 2008/114/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2022. december 14-i (EU) 2022/2557 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 

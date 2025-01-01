@@ -8,6 +8,8 @@ a) a felhasználásra engedélyezett kőolaj, kőolajtermék megnevezését és 
 
 b) a felhasznált készletek visszapótlásának határidejét, termékek szerinti összetételét.
 
+c) a kritikus szervezetek ellenálló képességéről szóló törvény, továbbá a védelmi és biztonsági tevékenységek összehangolásáról szóló törvény szerinti alapvető szolgáltatásokat és a hozzájuk tartozó felhasználásra engedélyezett kőolaj, kőolajtermék megnevezését és mennyiségét, ha az ellátás zavara, az ellátási válsághelyzet, az ellátási nehézség hatással lehet kritikus szervezet vagy az ország védelme és biztonsága szempontjából jelentős szervezet működésére.
+
 (4) A (2) bekezdés szerinti rendeletben a miniszter
 
 a) meghatározhatja a felhasználás célját,

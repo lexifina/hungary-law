@@ -14,7 +14,7 @@ B
 
 |
 
-1.
+1
 
 |
 
@@ -22,11 +22,11 @@ Kőolajtermék megnevezése
 
 |
 
-Kombinált Nómenklatúra-kód (KN-kód)
+KN-kód
 
 |
 
-2.
+2
 
 |
 
@@ -38,7 +38,7 @@ Motorbenzinek
 
 |
 
-3.
+3
 
 |
 
@@ -46,7 +46,7 @@ Motorbenzinek
 
 |
 
-4.
+4
 
 |
 
@@ -54,7 +54,7 @@ Motorbenzinek
 
 |
 
-5.
+5
 
 |
 
@@ -62,7 +62,7 @@ Motorbenzinek
 
 |
 
-6.
+6
 
 |
 
@@ -70,7 +70,7 @@ Motorbenzinek
 
 |
 
-7.
+7
 
 |
 
@@ -78,7 +78,7 @@ Motorbenzinek
 
 |
 
-8.
+8
 
 |
 
@@ -90,7 +90,7 @@ Kerozin típusú sugárhajtómű üzemanyag
 
 |
 
-9.
+9
 
 |
 
@@ -98,11 +98,19 @@ Gáz- és tüzelőolajok
 
 |
 
-27101943
+27101942
 
 |
 
-10.
+10
+
+|
+
+27101944
+
+|
+
+11
 
 |
 
@@ -110,7 +118,7 @@ Gáz- és tüzelőolajok
 
 |
 
-11.
+12
 
 |
 
@@ -118,7 +126,7 @@ Gáz- és tüzelőolajok
 
 |
 
-12.
+13
 
 |
 
@@ -126,7 +134,7 @@ Gáz- és tüzelőolajok
 
 |
 
-13.
+14
 
 |
 
@@ -134,7 +142,7 @@ Gáz- és tüzelőolajok
 
 |
 
-14.
+15
 
 |
 
@@ -142,7 +150,7 @@ Gáz- és tüzelőolajok
 
 |
 
-15.
+16
 
 |
 
@@ -150,7 +158,7 @@ Gáz- és tüzelőolajok
 
 |
 
-16.
+17
 
 |
 
@@ -162,7 +170,7 @@ Alacsony és magas kéntartalmú fűtőolajok
 
 |
 
-17.
+18
 
 |
 
@@ -170,7 +178,7 @@ Alacsony és magas kéntartalmú fűtőolajok
 
 |
 
-18.
+19
 
 |
 
@@ -178,7 +186,7 @@ Alacsony és magas kéntartalmú fűtőolajok
 
 |
 
-19.
+20
 
 |
 
@@ -186,7 +194,7 @@ Alacsony és magas kéntartalmú fűtőolajok
 
 |
 
-20.
+21
 
 |
 

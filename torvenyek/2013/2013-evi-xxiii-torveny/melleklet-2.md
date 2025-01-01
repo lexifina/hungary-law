@@ -24,7 +24,7 @@ Készletezett anyag
 
 |
 
-Kombinált Nómenklatúra-kód (KN-kód)
+KN-kód
 
 |
 
@@ -60,7 +60,7 @@ Motorikus gázolaj/dízelolaj
 
 |
 
-27101943-27101948, 27102011-27102019
+27101942-27101948, 27102011-27102019
 
 |
 
