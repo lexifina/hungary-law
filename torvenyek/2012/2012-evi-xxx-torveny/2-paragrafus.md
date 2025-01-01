@@ -4,4 +4,4 @@
 
 ## 2. A nemzeti értékek azonosítása
 
-2. § A nemzeti értékek megóvandó értékek, azonosításukban, rendszerezésükben, adataik nyilvántartásba vételében és folyamatos frissítésében, gondozásában a természetes személyek, települési önkormányzatok, a vármegyei önkormányzatok, a települési, külhoni települési, a vármegyei és az országos nemzetiségi önkormányzatok, a hatáskörrel rendelkező állami szervek, a Magyar Állandó Értekezleten (a továbbiakban: MÁÉRT) részt vevő külhoni szervezetek és az általuk megbízott természetes és jogi személyek működhetnek közre.
+2. § A nemzeti értékek megóvandó értékek, azonosításukban, rendszerezésükben, adataik nyilvántartásba vételében és folyamatos frissítésében, gondozásában a természetes személyek, települési önkormányzatok, a vármegyei önkormányzatok, a települési, külhoni települési, a vármegyei és az országos nemzetiségi önkormányzatok, a hatáskörrel rendelkező állami szervek, a Magyar Állandó Értekezlet (a továbbiakban: MÁÉRT) külhoni tagszervezetei és az általuk megbízott természetes és jogi személyek működhetnek közre.

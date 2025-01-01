@@ -6,13 +6,13 @@
 
 1. § (1) E törvény alkalmazásában:
 
-a) ágazati értéktár: az egyes ágazatokért felelős miniszterek által azonosított nemzeti értékek adatainak gyűjteménye;
+a) ágazati értéktár: az egyes ágazatokért felelős miniszterek által feladat-és hatáskörük szerint azonosítva nyilvántartott nemzeti értékek adatainak gyűjteménye;
 
 b) értéktár bizottság: települési értéktár, tájegységi értéktár, külhoni települési értéktár, külhoni tájegységi értéktár, valamint vármegyei értéktár esetén legalább három tagból álló bizottság, ágazati értéktár bizottság esetén öt tagból álló bizottság, akiket az egyes ágazatokért felelős miniszterek nevezik ki;
 
-c) hungarikum: gyűjtőfogalom, amely egységes osztályozási, besorolási és nyilvántartási rendszerben olyan megkülönböztetésre, kiemelésre méltó értéket jelöl, amely a magyarságra jellemző tulajdonságával, egyediségével, különlegességével és minőségével a magyarság csúcsteljesítménye;
+c) hungarikum: gyűjtőfogalom, amely – szakterületi kategóriák szerinti besorolásban nyilvántartva – olyan megkülönböztetésre, kiemelésre méltó értéket jelöl, amely a magyarságra jellemző tulajdonságával, egyediségével, különlegességével és minőségével a magyarság csúcsteljesítménye;
 
-d) Hungarikumok Gyűjteménye: a kiemelkedő nemzeti értékek köréből a Hungarikum Bizottság (a továbbiakban: HB) által hungarikummá nyilvánított nemzeti értékek gyűjteménye;
+d) Hungarikumok Gyűjteménye: a hungarikummá nyilvánított nemzeti értékek gyűjteménye;
 
 e) hungarikum termék: olyan hungarikum, amely termékként jogszabály alapján magyar terméknek minősül;
 
@@ -26,7 +26,7 @@ i) külhoni magyarság értéktár: a külhoni települési értéktár, a külh
 
 j) külhoni nemzetrész értéktár: az országhatáron túl, egy adott ország területén élő magyarságra jellemző nemzeti értékek közül az adott Külhoni Nemzetrész Értéktár Bizottság által külhoni értékké nyilvánított értékek adatait tartalmazó gyűjtemény;
 
-k) Magyar Értéktár: a nemzeti értékek köréből a HB által kiemelkedő nemzeti értékké nyilvánított értékek gyűjteménye;
+k) Magyar Értéktár: a nemzeti értékek köréből a Hungarikum Bizottság (a továbbiakban: HB) által kiemelkedő nemzeti értékké nyilvánított értékek gyűjteménye;
 
 l) vármegyei értéktár: a vármegye területén fellelhető nemzeti értékek közül a Vármegyei Értéktár Bizottság által vármegyei értékké nyilvánított értékek adatait tartalmazó gyűjtemény; ahol e törvény vármegyei értéktárat említ, az alatt a fővárosi értéktárat is érteni kell;
 

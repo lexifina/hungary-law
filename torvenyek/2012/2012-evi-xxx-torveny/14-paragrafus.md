@@ -6,7 +6,7 @@
 
 a) az Országgyűlés által delegált négy,
 
-b) a MÁÉRT-en részt vevő külhoni szervezetek által delegált három,
+b) a MÁÉRT külhoni tagszervezetei által delegált három,
 
 c) a nemzetpolitikáért felelős miniszter által delegált egy,
 
