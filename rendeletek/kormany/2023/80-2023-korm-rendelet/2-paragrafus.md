@@ -22,14 +22,16 @@
 
 5. a hulladékká vált gépjárművekről szóló 369/2014. (XII. 30.) Korm. rendeletben (a továbbiakban: a hulladékká vált gépjárművekről szóló kormányrendelet),
 
-6. az egyes egyszer használatos, valamint egyes egyéb műanyagtermékek forgalomba hozatalának korlátorzásáról szóló 301/2021. (VI. 1.) Korm. rendeletben és
+6.[^4] az egyes egyszer használatos, valamint egyes egyéb műanyagtermékek forgalomba hozatalának korlátozásáról szóló 301/2021. (VI. 1.) Korm. rendeletben
 
-7. az egyes műanyagtermékek környezetre gyakorolt hatásának csökkentéséről szóló 349/2021. (VI. 22.) Korm. rendeletben
+7.[^5] az egyes műanyagtermékek környezetre gyakorolt hatásának csökkentéséről szóló 349/2021. (VI. 22.) Korm. rendeletben, és
 
-8.[^4] a visszaváltási díj megállapításának és alkalmazásának, valamint a visszaváltási díjas termék forgalmazásának részletes szabályairól szóló kormányrendeletben
+8.[^6] a visszaváltási díj megállapításának és alkalmazásának, valamint a visszaváltási díjas termék forgalmazásának részletes szabályairól szóló kormányrendeletben
 
 (a 2–7. pont a továbbiakban együtt: termékárami kormányrendeletek) meghatározottak szerint kell értelmezni.
 
 [^2]: A 2. § (1) bekezdése a 421/2023. (VIII. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^3]: A 2. § (1) bekezdés 3. pontja a 674/2023. (XII. 29.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^4]: A 2. § (2) bekezdés 8. pontját a 450/2023. (X. 4.) Korm. rendelet 43. § (1) bekezdése iktatta be.
+[^4]: A 2. § (2) bekezdés 6. pontja a 465/2024. (XII. 30.) Korm. rendelet 37. § 1. pontja és 38. § a) pontja szerint módosított szöveg.
+[^5]: A 2. § (2) bekezdés 7. pontja a 465/2024. (XII. 30.) Korm. rendelet 37. § 2. pontja szerint módosított szöveg.
+[^6]: A 2. § (2) bekezdés 8. pontját a 450/2023. (X. 4.) Korm. rendelet 43. § (1) bekezdése iktatta be.

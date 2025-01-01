@@ -8,8 +8,8 @@
 
 a) a 23. § (1) bekezdése szerinti kötelezettség teljesítéséig és
 
-b)[^77] a 23. § (8) bekezdése szerinti díj, kötelezően visszaváltási díjas termék esetén a visszaváltási díj megállapításának és alkalmazásának, valamint a visszaváltási díjas termék forgalmazásának részletes szabályairól szóló kormányrendelet szerinti csatlakozási és szolgáltatási díj megfizetéséig
+b)[^101] a 23. § (8) bekezdése szerinti díj, kötelezően visszaváltási díjas termék esetén a visszaváltási díj megállapításának és alkalmazásának, valamint a visszaváltási díjas termék forgalmazásának részletes szabályairól szóló kormányrendelet szerinti csatlakozási és szolgáltatási díj megfizetéséig
 
 felfüggeszti.
 
-[^77]: A 34. § (3) bekezdés b) pontja a 450/2023. (X. 4.) Korm. rendelet 45. §-a szerint módosított szöveg.
+[^101]: A 34. § (3) bekezdés b) pontja a 450/2023. (X. 4.) Korm. rendelet 45. §-a szerint módosított szöveg.

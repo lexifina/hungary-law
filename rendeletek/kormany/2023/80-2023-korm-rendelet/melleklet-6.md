@@ -1,17 +1,18 @@
 6. melléklet a 80/2023. (III. 14.) Korm. rendelethez
 
-A 22. § és a 22/A. § szerinti nyilatkozat kötelező tartalmi elemei[^117]
+A 22. § és a 22/A. § szerinti nyilatkozat kötelező tartalmi elemei[^148]
 
 1. A vevő neve, székhelye, adószáma, cégjegyzékszáma, egyéni vállalkozó esetén nyilvántartási száma
 
-2. A gyártó neve, székhelye, adószáma, cégjegyzékszáma, egyéni vállalkozó esetén nyilvántartási száma
+2.[^149] A gyártó neve, székhelye, adószáma, adóazonosító jele, cégjegyzékszáma, egyéni vállalkozó esetén nyilvántartási száma
 
-3.[^118] A 22/B. § szerinti időszak megjelölése
+3.[^150] A 22/B. § szerinti időszak megjelölése
 
 4. A körforgásos termék 1. melléklet szerinti megnevezése és azonosító kódszámának (KF kódjának) 1–6. karaktere
 
-5.[^119] A nyilatkozattétel alapjául szolgáló jogszabályhely (22. § vagy 22/A. §)
+5.[^151] A nyilatkozattétel alapjául szolgáló jogszabályhely (22. § vagy 22/A. §)
 
-[^117]: A 6. melléklet címe a 276/2023. (VI. 29.) Korm. rendelet 70. § 16. pontja szerint módosított szöveg.
-[^118]: A 6. melléklet 3. pontja a 276/2023. (VI. 29.) Korm. rendelet 70. § 16. pontja szerint módosított szöveg.
-[^119]: A 6. melléklet 5. pontját a 276/2023. (VI. 29.) Korm. rendelet 69. § (1) bekezdés d) pontja iktatta be.
+[^148]: A 6. melléklet címe a 276/2023. (VI. 29.) Korm. rendelet 70. § 16. pontja szerint módosított szöveg.
+[^149]: A 6. melléklet 2. pontja a 465/2024. (XII. 30.) Korm. rendelet 37. § 18. pontja szerint módosított szöveg.
+[^150]: A 6. melléklet 3. pontja a 276/2023. (VI. 29.) Korm. rendelet 70. § 16. pontja szerint módosított szöveg.
+[^151]: A 6. melléklet 5. pontját a 276/2023. (VI. 29.) Korm. rendelet 69. § (1) bekezdés d) pontja iktatta be.

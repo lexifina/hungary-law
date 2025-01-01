@@ -2,7 +2,7 @@
 
 A körforgásos termékek díjkódjai
 
-1.[^94] Csomagolás díjkódok
+1.[^122] Csomagolás díjkódok
 
 |  | A | B | C | D | E | F | G |
 
@@ -60,7 +60,7 @@ A körforgásos termékek díjkódjai
 
 | 27 |  |  | 112111 | 112141 |  |  | P01 |
 
-| 28 | 1122 | papír (PAP) | 112210 | 112220 | 112240[^95] | 112250[^96] | P01 |
+| 28 | 1122 | papír (PAP) | 112210 | 112220 | 112240[^123] | 112250[^124] | P01 |
 
 | 29 |  |  | 112211 | 112241 |  |  | P01 |
 
@@ -188,87 +188,139 @@ A körforgásos termékek díjkódjai
 
 | 91 |  |  | 119911 | 119941 |  |  | X01 |
 
-2.[^97] Egyszer használatos műanyagtermék díjkódok
+2.[^125] Egyszer használatos műanyagtermék díjkódok
 
-|  | A | B | C | D | E | F | G | H | I | J | K | L | M |
+|  | A | B | C | D | E | F | G | H | I | J | K | L |
 
-| 1. | KF kód 1–4. karakter | Anyagáram | KF kód 1–6. karakter | Díjkód |
+| 1 | KF kód 1–4. karakter | Anyagáram | KF kód 1–6. karakter | Díjkód |
 
-| 2. | 1201 | polietilén-tereftalát (PET) | 120110 | 120111 |  | 120121 |  | 120131 | 120140 | 120141 | 120150 | 120151 | M01 |
+| 2 | 1201 | polietilén-tereftalát (PET) | 120110 | 120111 |  | 120121 | 120131 | 120140 | 120141 | 120150 | 120151 | M01 |
 
-| 3. |  |  | 120190 |  |  |  |  |  |  |  |  |  | SUP01 |
+| 3 |  |  | 120160 | 120170 | 120180 | 120190 |  |  |  |  |  | SUP01 |
 
-| 4. | 1202 | nagysűrűségű polietilén (HDPE) | 120210 | 120211 |  | 120221 |  | 120231 | 120240 | 120241 | 120250 | 120251 | M01 |
+| 4 | 1202 | nagysűrűségű polietilén (HDPE) | 120210 | 120211 |  | 120221 | 120231 | 120240 | 120241 | 120250 | 120251 | M01 |
 
-| 5. |  |  | 120290 |  |  |  |  |  |  |  |  |  | SUP01 |
+| 5 |  |  | 120260 | 120270 | 120280 | 120290 |  |  |  |  |  | SUP01 |
 
-| 6. | 1203 | poli(vinil-klorid) (PVC) | 120310 | 120311 |  | 120321 |  | 120331 | 120340 | 120341 | 120350 | 120351 | M01 |
+| 6 | 1203 | poli(vinil-klorid) (PVC) | 120310 | 120311 |  | 120321 | 120331 | 120340 | 120341 | 120350 | 120351 | M01 |
 
-| 7. |  |  | 120390 |  |  |  |  |  |  |  |  |  | SUP01 |
+| 7 |  |  | 120360 | 120370 | 120380 | 120390 |  |  |  |  |  | SUP01 |
 
-| 8. | 1204 | kissűrűségű polietilén (LDPE) | 120410 | 120411 |  | 120421 |  | 120431 | 120440 | 120441 | 120450 | 120451 | M01 |
+| 8 | 1204 | kissűrűségű polietilén (LDPE) | 120410 | 120411 |  | 120421 | 120431 | 120440 | 120441 | 120450 | 120451 | M01 |
 
-| 9. |  |  | 120460 | 120470 | 120480 | 120490 |  |  |  |  |  |  | SUP01 |
+| 9 |  |  | 120460 | 120470 | 120480 | 120490 |  |  |  |  |  | SUP01 |
 
-| 10. | 1205 | polipropilén (PP) | 120510 | 120511 |  | 120521 |  | 120531 | 120540 | 120541 | 120550 | 120551 | M01 |
+| 10 | 1205 | polipropilén (PP) | 120510 | 120511 |  | 120521 | 120531 | 120540 | 120541 | 120550 | 120551 | M01 |
 
-| 11. |  |  | 120560 | 120590 |  |  |  |  |  |  |  |  | SUP01 |
+| 11 |  |  | 120560 | 120570 | 120580 | 120590 |  |  |  |  |  | SUP01 |
 
-| 12. | 1206 | polisztirol (PS) | 120610 | 120611 |  | 120621 |  | 120631 | 120640 | 120641 | 120650 | 120651 | M01 |
+| 12 | 1206 | polisztirol (PS) | 120610 | 120611 |  | 120621 | 120631 | 120640 | 120641 | 120650 | 120651 | M01 |
 
-| 13. |  |  | 120660 | 120690 |  |  |  |  |  |  |  |  | SUP01 |
+| 13 |  |  | 120660 | 120670 | 120680 | 120690 |  |  |  |  |  | SUP01 |
 
-| 14. | 1207 | poliamid (PA) | 120710 | 120711 |  | 120721 |  | 120731 | 120740 | 120741 | 120750 | 120751 | M01 |
+| 14 | 1207 | poliamid (PA) | 120710 | 120711 |  | 120721 | 120731 | 120740 | 120741 | 120750 | 120751 | M01 |
 
-| 15. |  |  | 120760 | 120790 |  |  |  |  |  |  |  |  | SUP01 |
+| 15 |  |  | 120760 | 120770 | 120780 | 120790 |  |  |  |  |  | SUP01 |
 
-| 16. | 1208 | poliuretán (PU) | 120810 | 120811 |  | 120821 |  | 120831 | 120840 | 120841 | 120850 | 120851 | M01 |
+| 16 | 1208 | poliuretán (PU) | 120810 | 120811 |  | 120821 | 120831 | 120840 | 120841 | 120850 | 120851 | M01 |
 
-| 17. |  |  | 120860 | 120890 |  |  |  |  |  |  |  |  | SUP01 |
+| 17 |  |  | 120860 | 120870 | 120880 | 120890 |  |  |  |  |  | SUP01 |
 
-| 18. | 1209 | polivinil alkohol | 120910 | 120911 |  | 120921 |  | 120931 | 120940 | 120941 | 120950 | 120951 | M01 |
+| 18 | 1209 | polivinil alkohol | 120910 | 120911 |  | 120921 | 120931 | 120940 | 120941 | 120950 | 120951 | M01 |
 
-| 19. |  |  | 120960 | 120990 |  |  |  |  |  |  |  |  | SUP01 |
+| 19 |  |  | 120960 | 120970 | 120980 | 120990 |  |  |  |  |  | SUP01 |
 
-| 20. | 1217 | biológiailag lebomló műanyag | 121710 | 121711 |  | 121721 |  | 121731 | 121740 | 121741 | 121750 | 121751 | M01 |
+| 20 | 1217 | biológiailag lebomló műanyag | 121710 | 121711 |  | 121721 | 121731 | 121740 | 121741 | 121750 | 121751 | M01 |
 
-| 21. |  |  | 121760 | 121770 | 121780 | 121790 |  |  |  |  |  |  | SUP01 |
+| 21 |  |  | 121760 | 121770 | 121780 | 121790 |  |  |  |  |  | SUP01 |
 
-| 22. | 1219 | más műanyag (műanyag/ műanyag) | 121910 | 121911 |  | 121921 |  | 121931 | 121940 | 121941 | 121950 | 121951 | M01 |
+| 22 | 1219 | más műanyag (műanyag/ műanyag) | 121910 | 121911 |  | 121921 | 121931 | 121940 | 121941 | 121950 | 121951 | M01 |
 
-| 23. |  |  | 121960 | 121970 | 121980 | 121990 |  |  |  |  |  |  | SUP01 |
+| 23 |  |  | 121960 | 121970 | 121980 | 121990 |  |  |  |  |  | SUP01 |
 
-| 24. | 1281 | társított: papír és karton/műanyag, ideértve az abból készült rétegzett italkartont is | 128110 | 128111 |  | 128121 |  | 128131 | 128140 | 128141 | 128150 | 128151 | K01 |
+| 24 | 1220 | hullámpapírlemez (PAP) | 122010 | 122011 |  |  | 122031 | 122040 | 122041 |  |  | P01 |
 
-| 25. |  |  | 128180 | 128190 |  |  |  |  |  |  |  |  | SUP01 |
+| 25 | 1221 | nem hullámpapírlemez jellegű karton (PAP) | 122110 | 122111 |  |  | 122131 | 122140 | 122141 |  |  | P01 |
 
-| 26. | 1284 | társított: papír és karton/műanyag/ alumínium, ideértve az abból készült rétegzett italkartont is | 128410 | 128411 |  | 128421 |  | 128431 | 128440 | 128441 | 128450 | 128451 | K01 |
+| 26 | 1222 | papír (PAP) | 122210 | 122211 |  |  | 122231 | 122240 | 122241 |  |  | P01 |
 
-| 27. |  |  | 128470 | 128480 | 128490 |  |  |  |  |  |  |  | SUP01 |
+| 27 | 1229 | más papír | 122910 | 122911 |  |  | 122931 | 122940 | 122941 |  |  | P01 |
 
-| 28. | 1285 | társított: papír és karton/műanyag/ alumínium/ónozott lemez | 128510 | 128511 |  | 128521 |  | 128531 | 128540 | 128541 | 128550 | 128551 | K01 |
+| 28 | 1240 | vas, acél (FE) | 124010 | 124011 |  |  | 124031 | 124040 | 124041 |  |  | V01 |
 
-| 29. |  |  | 128570 | 128580 | 128590 |  |  |  |  |  |  |  | SUP01 |
+| 29 | 1241 | alumínium (ALU) | 124110 | 124111 |  |  | 124131 | 124140 | 124141 |  |  | V01 |
 
-| 30. | 1290 | társított: műanyag/ alumínium | 129010 | 129011 |  | 129021 |  | 129031 | 129040 | 129041 | 129050 | 129051 | K01 |
+| 30 | 1249 | más fém | 124910 | 124911 |  |  | 124931 | 124940 | 124941 |  |  | V01 |
 
-| 31. |  |  | 129060 | 129070 | 129080 | 129090 |  |  |  |  |  |  | SUP01 |
+| 31 | 1250 | fa (FOR) | 125010 | 125011 |  |  | 125031 | 125040 | 125041 |  |  | F01 |
 
-| 32. | 1291 | társított: műanyag/ ónozott lemez | 129101 | 129111 |  | 129121 |  | 129131 | 129140 | 129141 | 129150 | 129151 | K01 |
+| 32 | 1251 | parafa (FOR) | 125110 | 125111 |  |  | 125131 | 125140 | 125141 |  |  | F01 |
 
-| 33. |  |  | 129160 | 129170 | 129180 | 129190 |  |  |  |  |  |  | SUP01 |
+| 33 | 1259 | más fa | 125910 | 125911 |  |  | 125931 | 125940 | 125941 |  |  | F01 |
 
-| 34. | 1292 | társított: műanyag/ különböző fémek | 129210 | 129211 |  | 129221 |  | 129231 | 129240 | 129241 | 129250 | 129251 | K01 |
+| 34 | 1260 | gyapot (TEX) | 126010 | 126011 |  |  | 126031 | 126040 | 126041 |  |  | C01 |
 
-| 35. |  |  | 129260 | 129270 | 129280 | 129290 |  |  |  |  |  |  | SUP01 |
+| 35 | 1261 | juta, kender (TEX) | 126110 | 126111 |  |  | 126131 | 126140 | 126141 |  |  | C01 |
 
-| 36. | 1293 | társított: műanyag/más | 129310 | 129311 |  | 129321 |  | 129331 | 129340 | 129341 | 129350 | 129351 | K01 |
+| 36 | 1269 | más természetes alapú anyag | 126910 | 126911 |  |  | 126931 | 126940 | 126941 |  |  | C01 |
 
-| 37. |  |  | 129360 | 129370 | 129380 | 129390 |  |  |  |  |  |  | SUP01 |
+| 37 | 1270 | színtelen üveg (GL) | 127010 | 127011 |  |  | 127031 | 127040 | 127041 |  |  | U01 |
 
-| 38. | 1295 | társított: üveg/műanyag | 129510 | 129511 |  | 129521 |  | 129531 | 129540 | 129541 | 129550 | 129551 | K01 |
+| 38 | 1271 | zöld üveg (GL) | 127110 | 127111 |  |  | 127131 | 127140 | 127141 |  |  | U01 |
 
-| 39. |  |  | 129560 | 129570 | 129580 | 129590 |  |  |  |  |  |  | SUP01 |
+| 39 | 1272 | barna üveg (GL) | 127210 | 127211 |  |  | 127231 | 127240 | 127241 |  |  | U01 |
+
+| 40 | 1279 | más üveg | 127910 | 127911 |  |  | 127931 | 127940 | 127941 |  |  | U01 |
+
+| 41 | 1280 | társított: papír és karton / különböző fémek | 128010 | 128011 |  |  | 128031 | 128040 | 128041 |  |  | K01 |
+
+| 42 | 1281 | társított: papír és karton/műanyag, ideértve az abból készült rétegzett italkartont is | 128110 | 128111 |  | 128121 | 128131 | 128140 | 128141 | 128150 | 128151 | K01 |
+
+| 43 |  |  | 128160 | 128170 | 128180 | 128190 |  |  |  |  |  | SUP01 |
+
+| 44 | 1282 | társított: papír és karton / alumínium | 128210 | 128211 |  |  | 128231 | 128240 | 128241 |  |  | K01 |
+
+| 45 | 1283 | társított: papír és karton / ónozott lemez | 128310 | 128311 |  |  | 128331 | 128340 | 128341 |  |  | K01 |
+
+| 46 | 1284 | társított: papír és karton/műanyag/ alumínium, ideértve az abból készült rétegzett italkartont is | 128410 | 128411 |  | 128421 | 128431 | 128440 | 128441 | 128450 | 128451 | K01 |
+
+| 47 |  |  | 128460 | 128470 | 128480 | 128490 |  |  |  |  |  | SUP01 |
+
+| 48 | 1285 | társított: papír és karton/műanyag/ alumínium/ónozott lemez | 128510 | 128511 |  | 128521 | 128531 | 128540 | 128541 | 128550 | 128551 | K01 |
+
+| 49 |  |  | 128570 | 128580 | 128590 |  |  |  |  |  |  | SUP01 |
+
+| 50 | 1286 | társított: papír és karton / más | 128610 | 128611 |  |  | 128631 | 128640 | 128641 |  |  | K01 |
+
+| 51 | 1290 | társított: műanyag/ alumínium | 129010 | 129011 |  | 129021 | 129031 | 129040 | 129041 | 129050 | 129051 | K01 |
+
+| 52 |  |  | 129060 | 129070 | 129080 | 129090 |  |  |  |  |  | SUP01 |
+
+| 53 | 1291 | társított: műanyag/ ónozott lemez | 129110 | 129111 |  | 129121 | 129131 | 129140 | 129141 | 129150 | 129151 | K01 |
+
+| 54 |  |  | 129160 | 129170 | 129180 | 129190 |  |  |  |  |  | SUP01 |
+
+| 55 | 1292 | társított: műanyag/ különböző fémek | 129210 | 129211 |  | 129221 | 129231 | 129240 | 129241 | 129250 | 129251 | K01 |
+
+| 56 |  |  | 129260 | 129270 | 129280 | 129290 |  |  |  |  |  | SUP01 |
+
+| 57 | 1293 | társított: műanyag/más | 129310 | 129311 |  | 129321 | 129331 | 129340 | 129341 | 129350 | 129351 | K01 |
+
+| 58 |  |  | 129360 | 129370 | 129380 | 129390 |  |  |  |  |  | SUP01 |
+
+| 59 | 1294 | társított: egyéb anyag / egyéb anyag | 129410 | 129411 |  |  | 129431 | 129440 | 129441 |  |  | K01 |
+
+| 60 | 1295 | társított: üveg/műanyag | 129510 | 129511 |  | 129521 | 129531 | 129540 | 129541 | 129550 | 129551 | K01 |
+
+| 61 |  |  | 129560 | 129570 | 129580 | 129590 |  |  |  |  |  | SUP01 |
+
+| 62 | 1296 | társított: üveg/alumínium | 129610 | 129611 |  |  | 129631 | 129640 | 129641 |  |  | K01 |
+
+| 63 | 1297 | társított: üveg / ónozott lemez | 129710 | 129711 |  |  | 129731 | 129740 | 129741 |  |  | K01 |
+
+| 64 | 1298 | társított: üveg / különböző fémek | 129810 | 129811 |  |  | 129831 | 129840 | 129841 |  |  | K01 |
+
+| 65 | 1299 | egyéb anyag | 129910 | 129911 |  |  | 129931 | 129940 | 129941 |  |  | K01 |
 
 3. Elektromos és elektronikus berendezés díjkódok
 
@@ -288,17 +340,17 @@ A körforgásos termékek díjkódjai
 
 | 7. | 1340 | nagygép (amelyeknek bármely külső mérete meghaladja az 50 cm-t), a nagyméretű világítótest és a fotovoltaikus panel kivételével | 134010 | 134020 | E04 |
 
-| 8.[^98] | 1341 | nagyméretű világítótest (amelynek bármely külső mérete meghaladja az 50 cm-t) | 134110 | 134120 | E04 |
+| 8.[^126] | 1341 | nagyméretű világítótest (amelynek bármely külső mérete meghaladja az 50 cm-t) | 134110 | 134120 | E04 |
 
 | 9. | 1342 | fotovoltaikus panel | 134210 | 134220 | E05 |
 
 | 10. | 1350 | kisgép (amelynek egyik külső mérete sem haladja meg az 50 cm-t), a kisméretű világítótest kivételével | 135010 | 135020 | E06 |
 
-| 11.[^99] | 1351 | kisméretű világítótest (amelynek egyik külső mérete sem haladja meg az 50 cm-t) | 135110 | 135120 | E06 |
+| 11.[^127] | 1351 | kisméretű világítótest (amelynek egyik külső mérete sem haladja meg az 50 cm-t) | 135110 | 135120 | E06 |
 
 | 12. | 1360 | kisméretű számítástechnikai és távközlési berendezés (amelynek egyik külső mérete sem haladja meg az 50 cm-t) | 136010 | 136020 | E06 |
 
-4.[^100] Elem és akkumulátor díjkódok
+4.[^128] Elem és akkumulátor díjkódok
 
 |  | A | B | C | D | E | F | G |
 
@@ -310,7 +362,7 @@ A körforgásos termékek díjkódjai
 
 | 4. | 1450 | gépjármű elem, akkumulátor | 145010 | 145020 | 145030 | 145040 | A03 |
 
-5.[^101] Gépjármű díjkódok
+5.[^129] Gépjármű díjkódok
 
 |  | A | B | C | D | E |
 
@@ -358,7 +410,7 @@ A körforgásos termékek díjkódjai
 
 | 2. | 1910 | sütőolaj és -zsír | 191010 | 192020 | Z01 |
 
-10.[^102] Textil díjkódok
+10.[^130] Textil díjkódok
 
 |  | A | B | C | D | E |
 
@@ -370,7 +422,7 @@ A körforgásos termékek díjkódjai
 
 | 4 | 2031 | lábbeli, lábszárvédő és hasonló áru (kivéve: lábbelirész) | 203110 | 203120 | T01 |
 
-11.[^103] Bútor fából díjkód
+11.[^131] Bútor fából díjkód
 
 |  | A | B | C | D | E |
 
@@ -378,13 +430,13 @@ A körforgásos termékek díjkódjai
 
 | 2. | 2100 | bútor fából | 210010 | 210020 | B01 |
 
-[^94]: A 2. melléklet 1. pontja a 435/2023. (IX. 21.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg. [A 2. melléklet 1. pontjában foglalt táblázat E:15 és F:15 mezőjében a 435/2023. (IX. 21.) Korm. rendelet 2. melléklet 4. pontjával elrendelt módosítás nem vezethető át.]
-[^95]: A 2. melléklet 1. pontjában foglalt táblázat E:28 mezője a 674/2023. (XII. 29.) Korm. rendelet 23. § 9. pontjával megállapított szöveg.
-[^96]: A 2. melléklet 1. pontjában foglalt táblázat F:28 mezője a 674/2023. (XII. 29.) Korm. rendelet 23. § 10. pontjával megállapított szöveg.
-[^97]: A 2. melléklet 2. pontja a 674/2023. (XII. 29.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
-[^98]: A 2. melléklet 3. pontjában foglalt táblázat 8. sora a 674/2023. (XII. 29.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
-[^99]: A 2. melléklet 3. pontjában foglalt táblázat 11. sora a 674/2023. (XII. 29.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
-[^100]: A 2. melléklet 4. pontja a 276/2023. (VI. 29.) Korm. rendelet 69. § (1) bekezdés b) pontjával megállapított szöveg.
-[^101]: A 2. melléklet 5. pontja a 435/2023. (IX. 21.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^102]: A 2. melléklet 10. pontja a 435/2023. (IX. 21.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^103]: A 2. melléklet 11. pontja a 674/2023. (XII. 29.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
+[^122]: A 2. melléklet 1. pontja a 435/2023. (IX. 21.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg. [A 2. melléklet 1. pontjában foglalt táblázat E:15 és F:15 mezőjében a 435/2023. (IX. 21.) Korm. rendelet 2. melléklet 4. pontjával elrendelt módosítás nem vezethető át.]
+[^123]: A 2. melléklet 1. pontjában foglalt táblázat E:28 mezője a 674/2023. (XII. 29.) Korm. rendelet 23. § 9. pontjával megállapított szöveg.
+[^124]: A 2. melléklet 1. pontjában foglalt táblázat F:28 mezője a 674/2023. (XII. 29.) Korm. rendelet 23. § 10. pontjával megállapított szöveg.
+[^125]: A 2. melléklet 2. pontja a 465/2024. (XII. 30.) Korm. rendelet 36. § (2) bekezdésével megállapított szöveg.
+[^126]: A 2. melléklet 3. pontjában foglalt táblázat 8. sora a 674/2023. (XII. 29.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
+[^127]: A 2. melléklet 3. pontjában foglalt táblázat 11. sora a 674/2023. (XII. 29.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
+[^128]: A 2. melléklet 4. pontja a 276/2023. (VI. 29.) Korm. rendelet 69. § (1) bekezdés b) pontjával megállapított szöveg.
+[^129]: A 2. melléklet 5. pontja a 435/2023. (IX. 21.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^130]: A 2. melléklet 10. pontja a 435/2023. (IX. 21.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^131]: A 2. melléklet 11. pontja a 674/2023. (XII. 29.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
