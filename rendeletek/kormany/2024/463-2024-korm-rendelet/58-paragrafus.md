@@ -1,3 +1,3 @@
-58. § A 39/2013. (II. 14.) Korm. rendelet 19/A. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
+58. §[^47]
 
-[Az (1) bekezdés szerinti bejelentésnek a következő adatokat kell tartalmaznia:]
+[^47]: Az 58. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

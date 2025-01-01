@@ -1,8 +1,7 @@
-16. § (1)[^6]
+16. § (1) A 43/1999. (III. 3.) Korm. rendelet 5. számú melléklete helyébe az 1. melléklet lép.
 
-(2)[^7]
+(2) A 43/1999. (III. 3.) Korm. rendelet 28. számú melléklete helyébe a 2. melléklet lép.
 
-(3) A 43/1999. (III. 3.) Korm. rendelet 28/B. számú melléklete helyébe a 3. melléklet lép.
+(3)[^11]
 
-[^6]: A 16. § (1) bekezdése a 88. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
-[^7]: A 16. § (2) bekezdése a 88. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+[^11]: A 16. § (3) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

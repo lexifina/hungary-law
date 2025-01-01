@@ -1,1 +1,3 @@
-43. § Hatályát veszti a 239/2009. (X. 20.) Korm. rendelet 9. §-a.
+43. §[^38]
+
+[^38]: A 43. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

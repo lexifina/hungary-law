@@ -1,3 +1,3 @@
-9. § A 43/1999. (III. 3.) Korm. rendelet 21. § (13) bekezdés c) pontja helyébe a következő rendelkezés lép:
+9. §[^5]
 
-(A szolgáltató a védőnői szolgálat által ellátandók létszámát minden év szeptember 30-ai állapotnak megfelelően október 31. napjáig, illetve körzethatár-módosítás esetén a szerződésmódosítás kezdeményezésével egyidejűleg bejelenti a NEAK-nak)
+[^5]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,11 +1,5 @@
 ## 22. Az egyes egészségügyi dolgozók és egészségügyben dolgozók illetmény- vagy bérnövelésének, valamint az ahhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló 256/2013. (VII. 5.) Korm. rendelet módosítása
 
-60. § Az egyes egészségügyi dolgozók és egészségügyben dolgozók illetmény- vagy bérnövelésének, valamint az ahhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló 256/2013. (VII. 5.) Korm. rendelet [a továbbiakban: 256/2013. (VII. 5.) Korm. rendelet] 6. alcíme a következő 14. §-sal egészül ki:
+60. §[^49]
 
-„14. § (1) A 2. mellékletben foglalt táblázat A:289 mezőjében meghatározott egészségügyi szolgáltatónak az egészségügyi ágazati előmeneteli rendszer hatálya alá tartozó, 2024. március 1. napján jogviszonyban álló foglalkoztatottja az illetmény- vagy bérnövelésre 2024. március 1-jétől, de legfeljebb a munkáltatónál fennálló, az egészségügyi ágazati előmeneteli rendszer hatálya alá tartozó munkakörben történő foglalkoztatásának kezdő időpontjától jogosult.
-
-(2) A 2. mellékletben foglalt táblázat A:290 mezőjében meghatározott egészségügyi szolgáltatónak az egészségügyi ágazati előmeneteli rendszer hatálya alá tartozó, 2024. július 1. napján jogviszonyban álló foglalkoztatottja az illetmény- vagy bérnövelésre 2024. július 1-jétől, de legfeljebb a munkáltatónál fennálló, az egészségügyi ágazati előmeneteli rendszer hatálya alá tartozó munkakörben történő foglalkoztatásának kezdő időpontjától jogosult.
-
-(3) A 2. mellékletben foglalt táblázat A:291 mezőjében meghatározott egészségügyi szolgáltatónak az egészségügyi ágazati előmeneteli rendszer hatálya alá tartozó, 2024. augusztus 1. napján jogviszonyban álló foglalkoztatottja az illetmény- vagy bérnövelésre 2024. augusztus 1-jétől, de legfeljebb a munkáltatónál fennálló, az egészségügyi ágazati előmeneteli rendszer hatálya alá tartozó munkakörben történő foglalkoztatásának kezdő időpontjától jogosult.
-
-(4) A 2. mellékletben foglalt táblázat A:292 mezőjében meghatározott egészségügyi szolgáltatónak az egészségügyi ágazati előmeneteli rendszer hatálya alá tartozó, 2024. április 1. napján jogviszonyban álló foglalkoztatottja az illetmény- vagy bérnövelésre 2024. április 1-jétől, de legfeljebb a munkáltatónál fennálló, az egészségügyi ágazati előmeneteli rendszer hatálya alá tartozó munkakörben történő foglalkoztatásának kezdő időpontjától jogosult.”
+[^49]: A 60. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,5 @@
 ## 31. A központi egészséginformatikai szolgáltatásokról szóló 29/2022. (I. 31.) Korm. rendelet módosítása
 
-80. § A központi egészséginformatikai szolgáltatásokról szóló 29/2022. (I. 31.) Korm. rendelet [a továbbiakban: 29/2022. (I. 31.) Korm. rendelet] 2. §-a a következő (1c) bekezdéssel egészül ki:
+80. §[^67]
 
-„(1c) A Szolgáltatóközpont egészséginformatikai módszertani támogatást nyújt a miniszter és az egészségügyi szakmai kollégium számára a laboratóriumi diagnosztika körébe tartozó ellátások egységes egészségügyi nevezéktana előkészítéséhez és felülvizsgálatához.”
+[^67]: A 80. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

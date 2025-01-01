@@ -1,3 +1,3 @@
-4. §[^2]
+4. § A 217/1997. (XII. 1.) Korm. rendelet 49. § (5) bekezdése a következő c) ponttal egészül ki:
 
-[^2]: A 4. § a 88. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+(Az Ebtv. 70. §)

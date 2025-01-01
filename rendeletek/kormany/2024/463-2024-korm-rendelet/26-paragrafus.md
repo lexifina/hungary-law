@@ -1,3 +1,3 @@
-26. § A 28/2004. (II. 28.) Korm. rendelet 3. §-a helyébe a következő rendelkezés lép:
+26. §[^21]
 
-„3. § A Központ az EUDA munkaterve szerinti éves jelentési csomag szöveges jelentési kimeneteinek tervezetét előzetes véleményezésre megküldi a szociális ügyekért felelős miniszternek, az egészségügyért felelő miniszternek, a köznevelésért felelős miniszternek, a kábítószer-megelőzésért és kábítószerügyi koordinációs feladatokért felelős miniszternek, a rendészetért felelős miniszternek és az igazságügyért felelős miniszternek, akik a tervezetet a rendelkezésükre bocsátásától számított 5 napon belül véleményezik. A Központ jelentési kötelezettségének a miniszterek véleményének ismeretében tehet eleget azzal, hogy a vélemény hiánya nem akadálya a jelentés megtételének, ha a miniszterek a véleményezésre rendelkezésre álló határidőn belül véleményezési jogukkal nem éltek. A Központ, illetőleg a miniszterek véleményének eltérése esetén a Központ vezetője a jelentésben foglalt, a véleménytől továbbra is eltérő megállapításokat a véleményező számára megindokolja.”
+[^21]: A 26. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

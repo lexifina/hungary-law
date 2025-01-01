@@ -1,1 +1,3 @@
-46. § A 35/2011. (III. 21.) Korm. rendelet 1. melléklet 1. pont a) alpontjában a „szövődménymentes” szövegrész helyébe a „szövődménymentes, a várandósgondozás 36. hetében a gondozón keresztül, személyes vagy telemedicinális ellátás keretében megtörténik a várandós regisztrálása a fogadó intézményben,” szöveg lép.
+46. §[^41]
+
+[^41]: A 46. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

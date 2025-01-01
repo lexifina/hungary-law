@@ -1,9 +1,3 @@
-18. § Hatályát veszti a 43/1999. (III. 3.) Korm. rendelet
+18. §[^17]
 
-a) 29. § d), e) és g) pontja,
-
-b) 76/V. §-a,
-
-c) 23. számú melléklete,
-
-d) 32. számú melléklete.
+[^17]: A 18. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

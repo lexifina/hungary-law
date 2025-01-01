@@ -1,11 +1,3 @@
-71. § Hatályát veszti a 162/2015. (VI. 30.) Korm. rendelet
+71. §[^60]
 
-a) 15. § (2) bekezdése,
-
-b) 28. § (3) bekezdés d) pontja,
-
-c) 28. § (3b) bekezdése,
-
-d) 28. § (5) bekezdése,
-
-e) 20. alcíme.
+[^60]: A 71. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

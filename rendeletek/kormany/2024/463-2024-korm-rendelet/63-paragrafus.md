@@ -1,3 +1,3 @@
-63. § A 162/2015. (VI. 30.) Korm. rendelet 13. § (2) bekezdése helyébe a következő rendelkezés lép:
+63. §[^52]
 
-„(2) Egy tutor egyidejűleg legfeljebb három jelölt szakképzését felügyelheti. Ettől eltérően az egészségügyi felsőfokú szakirányú szakképesítés megszerzéséről szóló 22/2012. (IX. 14.) EMMI rendelet 8. § (19) bekezdése szerinti sürgősségi betegellátó osztályon végzett gyakorlat esetén egy tutor egyidejűleg legfeljebb öt jelölt szakképzését felügyelheti.”
+[^52]: A 63. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

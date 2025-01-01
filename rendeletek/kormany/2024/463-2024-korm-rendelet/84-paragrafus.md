@@ -1,3 +1,3 @@
-84. § (1) Az 5/2023. (I. 12.) Korm. rendelet 2. melléklete a 11. melléklet szerint módosul.
+84. §[^71]
 
-(2) Az 5/2023. (I. 12.) Korm. rendelet 5. melléklete a 12. melléklet szerint módosul.
+[^71]: A 84. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

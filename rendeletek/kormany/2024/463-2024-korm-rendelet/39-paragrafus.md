@@ -1,5 +1,5 @@
 ## 12. Az emberen végzett orvostudományi kutatások, az emberi felhasználásra kerülő vizsgálati készítmények klinikai vizsgálata, valamint az emberen történő alkalmazásra szolgáló, klinikai vizsgálatra szánt orvostechnikai eszközök klinikai vizsgálata engedélyezési eljárásának szabályairól szóló 235/2009. (X. 20.) Korm. rendelet módosítása
 
-39. § Az emberen végzett orvostudományi kutatások, az emberi felhasználásra kerülő vizsgálati készítmények klinikai vizsgálata, valamint az emberen történő alkalmazásra szolgáló, klinikai vizsgálatra szánt orvostechnikai eszközök klinikai vizsgálata engedélyezési eljárásának szabályairól szóló 235/2009. (X. 20.) Korm. rendelet [a továbbiakban: 235/2009. (X. 20.) Korm. rendelet] 2. Címe az „A klinikai vizsgálat engedélyezése” alcímet megelőzően a következő 22/A. §-sal egészül ki:
+39. §[^34]
 
-„22/A. § Ha az emberi felhasználásra kerülő vizsgálati készítmények klinikai vizsgálatáról és a helyes klinikai gyakorlat alkalmazásáról szóló miniszteri rendelet az engedély iránti kérelem tárgyát képező klinikai vizsgálat tekintetében a vizsgálati alanyok részére betegkártya kiállítását írja elő, a megbízó a kérelemhez az 536/2014/EU európai parlamenti és tanácsi rendelet I. Melléklete szerinti dokumentációban a tájékoztatáson alapuló beleegyező nyilatkozat mellékleteként a betegkártya tervezetét is benyújtja.”
+[^34]: A 39. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

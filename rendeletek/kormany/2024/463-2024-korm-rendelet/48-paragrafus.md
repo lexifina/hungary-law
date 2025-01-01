@@ -1,5 +1,5 @@
-## 17.[^11]
+## 17. Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet módosítása
 
-48. §
+48. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet [a továbbiakban: 368/2011. (XII. 31.) Korm. rendelet] 52/A. § (2) bekezdése a következő e) ponttal egészül ki:
 
-[^11]: A 17. alcím a 88. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+(Nem tartozik a kötelezettségvállalások előzetes jóváhagyásának kötelezettsége alá)

@@ -1,3 +1,5 @@
 ## 1. A természetgyógyászati tevékenységről szóló 40/1997. (III. 5.) Korm. rendelet módosítása
 
-1. § A természetgyógyászati tevékenységről szóló 40/1997. (III. 5.) Korm. rendelet 3. § (1) bekezdés a) pontjában a „középiskolai végzettségű” szövegrész helyébe az „érettségi vizsgát tett” szöveg lép.
+1. §[^1]
+
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

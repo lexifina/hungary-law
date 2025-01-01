@@ -1,17 +1,21 @@
 17. § A 43/1999. (III. 3.) Korm. rendelet
 
-a)[^8]
+a) 19. § (3) bekezdésében a „44 Ft/fő” szövegrész helyébe a „125 Ft/fő” szöveg,
 
-b) 27/A. § (10) bekezdésében a „járóbeteg-szakellátás ellátási szintjei között történik a területi ellátási kötelezettség módosítása” szövegrész helyébe a „járóbeteg-szakellátás és a fekvőbeteg-szakellátás ellátási szintjei között történik a területi ellátási kötelezettség módosítása” szöveg,
+b)[^12]
 
-c) 28/E. § (3) bekezdésében a „fogvatartottak berettyóújfalui ellátására” szövegrész helyébe a „fogvatartottak ellátására” szöveg,
+c)[^13]
 
-d) 36. § (3) bekezdés a) pontjában a „de legkésőbb 24 órán belül hazabocsátották” szövegrész helyébe a „de legkésőbb 24 órán belül elbocsátották” szöveg,
+d)[^14]
 
-e) 39. § (1) bekezdésében az „a beteg finanszírozott járóbeteg-szakellátást” szövegrész helyébe az „a beteg finanszírozott járóbeteg-szakellátást, vagy kúraszerű ellátás keretében végzett onkológiai kezeléseket” szöveg,
+e)[^15]
 
-f) 40. § (1) bekezdésében az „a transzplantációs vagy keringéstámogató ellátás és az azt megelőző és/vagy követő ellátás önálló ellátási esetként” szövegrész helyébe az „a transzplantációs vagy keringéstámogató ellátás, valamint az azt megelőző ellátás, illetve a keringéstámogató ellátást követő ellátás önálló ellátási esetként” szöveg
+f)[^16]
 
 lép.
 
-[^8]: A 17. § a) pontja a 88. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+[^12]: A 17. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 17. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 17. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 17. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 17. § f) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

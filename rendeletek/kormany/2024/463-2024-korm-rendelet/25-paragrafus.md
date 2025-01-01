@@ -1,11 +1,3 @@
-25. § A 28/2004. (II. 28.) Korm. rendelet 2. §-a helyébe a következő rendelkezés lép:
+25. §[^20]
 
-„2. § (1) A Központ az EUDA, illetve az EUDA-hoz kapcsolódó Kábítószerek és Kábítószer-függőség Európai Megfigyelő Hálózat munkájában, mint magyar nemzeti fókuszpont ellátja az adat- és információgyűjtő, -feldolgozó és -értékelő, illetve kapcsolattartó, továbbá minden, az Európai Unió Kábítószer-ügynökségről (EUDA) és az 1920/2006/EK rendelet hatályon kívül helyezéséről szóló, 2023. június 27-i (EU) 2023/1322 európai parlamenti és tanácsi rendelet 34. cikkében részletezett feladatot. Ezen felül információt, adatot szolgáltat különösen a Kormány számára döntéseinek előkészítéséhez, egyéb, a Fókuszpont feladatköréhez kapcsolódó szakterületen jelentkező feladatai teljesítéséhez.
-
-(2) A Központ részt vesz az EUDA munkatervének kialakításában és ennek megfelelően – megvalósítandó feladatai vonatkozásában – éves munkatervet készít.
-
-(3) A Központ a nemzeti kábítószerhelyzetre vonatkozó adatok és információk gyűjtése, átvétele, feldolgozása, elemzése és értékelése körében – az irányadó hatályos jogszabályok keretei között – az EUDA munkaterve, ütemterve, előírásai, irányelvei, valamint az EUDA és az egészségügyért felelős minisztérium között fennálló támogatási szerződésben rögzítettek szerint jár el, illetve ellátja a jogszabály alapján előírt további nemzeti feladatokat.
-
-(4) A Központ az EUDA részére történő éves jelentési csomag elkészítéséhez adat-, illetve információgyűjtést, kutatásokat, valamint adatátvételt végez. A Központ tevékenységéhez szükséges adatokat, valamint az 1. számú melléklet keretébe tartozó egyéb információkat a 2. számú melléklet szerinti, valamint az ezek szakmai felügyelete, illetve irányítása alatt működő szervek szolgáltatják. Az érintett szervek feladatkörükben az OSAP rendje szerint, illetve az ennek körén kívül eső információk tekintetében a Fókuszpont megkeresése alapján, a megkeresésben foglaltak figyelembevételével bocsátják rendelkezésre a Fókuszpont feladatainak ellátásához szükséges – személyazonosításra nem alkalmas, illetve arra alkalmatlanná tett – adatokat, információkat.
-
-(5) A Központ feladatainak teljesítéséhez éves beszámolót kér be az utolsó hatályos kábítószer-szakpolitikát meghatározó stratégiai dokumentumban kijelölt minisztériumoktól és háttérintézményeiktől a stratégiai dokumentumban meghatározott feladataik teljesítéséről.”
+[^20]: A 25. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
