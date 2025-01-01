@@ -1,0 +1,3 @@
+25. § (1) Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése és a 18. § alapján – a HUN-REN közérdekű céljainak megvalósítása és közfeladata ellátása érdekében – az állam tulajdonában álló, a 2. melléklet szerinti üzletrészeket ingyenesen, nyilvántartási értéken történő átvezetéssel a HUN-REN tulajdonába kell adni.
+
+(2) Ha a HUN-REN a tulajdonába adott üzletrészt elidegeníti, az elidegenítésből származó bevételnek az elidegenítés költségeinek kiegyenlítését követően fennmaradó részét a HUN-REN az e törvény szerinti közérdekű céljainak megvalósítására, közfeladata ellátására köteles fordítani.
