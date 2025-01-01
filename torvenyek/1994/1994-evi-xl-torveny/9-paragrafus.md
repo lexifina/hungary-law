@@ -34,6 +34,6 @@ j) alapítói jogkörében dönt költségvetési szervek megalapításáról, �
 
 (7) A Közgyűlés összehívását kezdeményezheti – a napirend megjelölésével, írásban – a Közgyűlésen szavazásra jogosultak egyötöde is. A Közgyűlést az elnöknek ilyenkor az összehívás kérésének kézhezvételétől számított hatvan napon belül kell összehívnia.
 
-(8) A Közgyűlés akkor határozatképes, ha azon a szavazásra jogosultak több mint fele jelen van.
+(8) A Közgyűlés akkor határozatképes, ha azon a szavazásra jogosultak több mint fele személyesen vagy – videókonferencia alkalmazás igénybevételével tartott közgyűlés esetén – személyesen és távjelenléttel együttesen jelen van. Távjelenlét által elektronikus szavazás útján is hozható közgyűlési döntés, ha az egyes napirendi pontok megtárgyalása előzetes írásbeli véleménynyilvánítás útján biztosított az Akadémia belső szabályai szerint.
 
 (9) A Közgyűlés a határozatait a jelen levő szavazásra jogosultak több mint felének igen szavazatával hozza. Az Alapszabály elfogadásához és módosításához a határozatképes Közgyűlésen jelen levő szavazásra jogosultak több mint kétharmadának igen szavazata szükséges.
