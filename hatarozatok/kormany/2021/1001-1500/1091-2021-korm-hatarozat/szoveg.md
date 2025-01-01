@@ -8,11 +8,7 @@ b) a Johannita Segítő Szolgálat
 
 hosszú távú karitatív tevékenységének ellátása céljából működésükhöz központi költségvetési forrás biztosítása szükséges;
 
-2. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok címnek a 48. Kincstári díj alcímmel történő kiegészítését;
-
-Felelős: pénzügyminiszter
-
-Határidő: azonnal
+2.[^1]
 
 3. felhívja a pénzügyminisztert, hogy az 1. pont a) alpontja szerinti cél megvalósítása érdekében – az emberi erőforrások minisztere bevonásával – gondoskodjon
 
@@ -71,3 +67,5 @@ Felelős: emberi erőforrások minisztere
 Határidő: az 5. pont a) alpontja szerinti forrás tekintetében a rendelkezésre állását követő 30 napon belül
 
 az 5. pont b) alpontja szerinti forrás tekintetében a 2022. évtől az adott évi forrás rendelkezésre állását követő 30 napon belül
+
+[^1]: A 2. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
