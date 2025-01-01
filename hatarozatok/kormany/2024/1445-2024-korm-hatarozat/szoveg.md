@@ -1,49 +1,29 @@
-1. A többségi állami tulajdonú gazdasági társaságok vezető állású munkavállalói javadalmazási rendszerének megújításáról szóló 1660/2015. (IX. 15.) Korm. határozat (a továbbiakban: Korm. határozat) bevezető része helyébe a következő rendelkezés lép:
+1.[^2]
 
-„A Kormány egyetért azzal, hogy az állami tulajdonú gazdasági társaságok vezető állású munkavállalóinak juttatásait és a követelményeket szükséges felülvizsgálni a hazai és nemzetközi piac vezetői bérezése és követelményei viszonylatában.
+2.[^3]
 
-A Kormány továbbra is elkötelezett a többségi állami tulajdonú gazdasági társaságok átlátható, hatékony és gazdaságos működése feltételeinek kialakításában.
+3.[^4]
 
-A Kormány továbbá elkötelezett abban is, hogy a többségi állami tulajdonú gazdasági társaságok vezetőinek tevékenységét folyamatosan értékelni kell a szabályosság, eredményesség, gazdaságosság szempontjából; továbbá az állami cégek vezetőinek szigorú etikai és integritás elveknek kell megfelelniük.”
+4.[^5]
 
-2. A Korm. határozat 1. pont b) alpont bb) pontja helyébe a következő rendelkezés lép:
+5.[^6]
 
-[A fenti célkitűzések megvalósítása érdekében a Kormány egyetért a többségi állami tulajdonú gazdasági társaságok (a továbbiakban: gazdasági társaság) vezető állású munkavállalói díjazásának a következő szempontok szerint történő átalakításával:]
+6.[^7]
 
-„bb) a Kormány döntése alapján – különösen indokolt esetben – az érintett gazdasági társaság az I. kategóriába sorolható;”
+7.[^8]
 
-3. A Korm. határozat 1. pont b) alpontja a következő bc) és bd) pontokkal egészül ki:
+8.[^9]
 
-[A fenti célkitűzések megvalósítása érdekében a Kormány egyetért a többségi állami tulajdonú gazdasági társaságok (a továbbiakban: gazdasági társaság) vezető állású munkavállalói díjazásának a következő szempontok szerint történő átalakításával:]
-
-„bc) a Kormány a tulajdonosi joggyakorló indokolással ellátott kérelme alapján, az állami vagyonnal való gazdálkodás szabályozásáért felelős miniszter (a továbbiakban: miniszter) véleményének ismeretében a vezető állású munkavállaló számára díjazásként az egyes kategórián belül adható maximum értéknél magasabb havi alapbért is megállapíthat;
-
-bd) az üzleti tervezés során a költségvetési tervezéssel előre jelzett, becsült infláció mértékét meghaladó mértékű béremelés csak a Kormány engedélyével állapítható meg;”
-
-4. A Korm. határozat 1. pont d) alpont db) pontja helyébe a következő rendelkezés lép:
-
-[A fenti célkitűzések megvalósítása érdekében a Kormány egyetért a többségi állami tulajdonú gazdasági társaságok (a továbbiakban: gazdasági társaság) vezető állású munkavállalói díjazásának a következő szempontok szerint történő átalakításával:]
-
-„db) a Kormány a tulajdonosi joggyakorló indokolással ellátott kérelmére, a miniszter véleményének ismeretében dönt a prémium kifizetése megengedhetőségéről és mértékéről, ha a gazdasági társaság adózott eredménye negatív vagy nulla forint;”
-
-5. A Korm. határozat 1. mellékletben foglalt táblázat C:2 mezőjében az „5 000 000 Ft/hó” szövegrész helyébe az „A Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset tízszeresének megfelelő összeg.” szöveg lép.
-
-6. A Korm. határozat 1. mellékletében foglalt táblázat C:3 mezőjében a „4 000 000 Ft/hó” szövegrész helyébe az „A Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset nyolcszorosának megfelelő összeg.” szöveg lép.
-
-7. A Korm. határozat 1. mellékletében foglalt táblázat C:4 mezőjében a „3 000 000 Ft/hó” szövegrész helyébe az „A Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset hatszorosának megfelelő összeg.” szöveg lép.
-
-8. Hatályát veszti a Korm. határozat
-
-a) 1. pont c) alpontja;
-
-b) 2. pontja;
-
-c) 3. pontja;
-
-d) 4. pontja;
-
-e) 2. melléklete.
-
-9. Hatályát veszti a Korm. határozat 1. pont b) alpontjában a „fő” szövegrész.
+9.[^10]
 
 10. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^2]: Az 1. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 6. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 7. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 8. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 9. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
