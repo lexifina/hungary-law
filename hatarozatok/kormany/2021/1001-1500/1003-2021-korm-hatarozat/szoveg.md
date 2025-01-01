@@ -1,10 +1,6 @@
 A Kormány – a vidéki Magyarország megújítása, a vidék gazdasági és népességmegtartó erejének növelése, a magyar élelmiszer-önrendelkezés és exportpotenciál erősítése, a magyar mezőgazdaság és élelmiszeripar versenyképességének fejlesztése és a gazdálkodók számára kiszámítható agrártámogatások érdekében –
 
-1. egyetért azzal, hogy a 2021–2027-es Közös Agrárpolitika Stratégiai Tervben a 2023–2027-es időszakban az Európai Mezőgazdasági Vidékfejlesztési Alap keretből 25%-os forrás kerüljön átcsoportosításra az Európai Mezőgazdasági Garancia Alap keretbe;
-
-Felelős: agrárminiszter
-
-Határidő: Közös Agrárpolitika Stratégia Terv tárgyalásaihoz igazodva
+1.[^1]
 
 2. egyetért azzal, hogy a 2021–2027. évek tekintetében 80%-os nemzeti társfinanszírozás kerüljön biztosításra a Közös Agrárpolitika Európai Mezőgazdasági Vidékfejlesztési Alap kerete számára;
 
@@ -17,3 +13,5 @@ Határidő: a 2022–2029. évi központi költségvetés tervezése során
 Felelős: agrárminiszter
 
 Határidő: folyamatos
+
+[^1]: Az 1. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
