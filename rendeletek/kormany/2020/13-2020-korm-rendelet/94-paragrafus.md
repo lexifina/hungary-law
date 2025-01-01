@@ -1,3 +1,3 @@
-## 93. §[^95]
+## 93. §[^94]
 
-[^95]: A 93. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^94]: A 93. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

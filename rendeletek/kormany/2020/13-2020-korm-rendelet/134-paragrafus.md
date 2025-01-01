@@ -1,3 +1,3 @@
-## 133. §[^135]
+## 133. §[^134]
 
-[^135]: A 133. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^134]: A 133. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

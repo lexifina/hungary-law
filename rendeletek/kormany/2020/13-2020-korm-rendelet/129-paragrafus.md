@@ -1,3 +1,3 @@
-## 128. §[^130]
+## 128. §[^129]
 
-[^130]: A 128. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^129]: A 128. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

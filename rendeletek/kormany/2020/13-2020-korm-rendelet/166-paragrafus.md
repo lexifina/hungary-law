@@ -1,5 +1,5 @@
-## 165. §[^167]
+## 165. §[^166]
 
 ## 139. A belügyminiszter ágazatába tartozó kéményseprő szakma mestervizsga követelményeiről szóló 53/2013. (IX. 11.) BM rendelet hatályon kívül helyezése
 
-[^167]: A 165. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^166]: A 165. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

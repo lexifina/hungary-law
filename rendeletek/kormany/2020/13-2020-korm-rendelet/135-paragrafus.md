@@ -1,3 +1,3 @@
-## 134. §[^136]
+## 134. §[^135]
 
-[^136]: A 134. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^135]: A 134. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
