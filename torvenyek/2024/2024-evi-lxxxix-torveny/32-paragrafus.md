@@ -1,0 +1,3 @@
+32. § A távhőszolgáltatásról szóló 2005. évi XVIII. törvény 29. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A használati jog ingatlan-nyilvántartásba történő bejegyzését az engedélyes kérelmezi az ingatlantulajdonossal kötött szerződés vagy véglegessé vált hatósági határozat alapján. A használati jog a mindenkori engedélyest illeti meg, és az ingatlan mindenkori tulajdonosát terheli. A használati jog az azt megállapító hatósági határozat véglegessé válását követően, illetve az ingatlantulajdonossal kötött megállapodás alapján gyakorolható, azonban az harmadik személyekkel szemben akkor hatályos, ha azt az ingatlan-nyilvántartásba bejegyezték.”

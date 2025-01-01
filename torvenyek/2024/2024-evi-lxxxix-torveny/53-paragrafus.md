@@ -1,0 +1,3 @@
+53. § A villamos energiáról szóló 2007. évi LXXXVI. törvény 48. §-a helyébe a következő rendelkezés lép:
+
+„48. § Az egyetemes szolgáltatót e törvény és a Vhr. szerinti feltételekkel az egyetemes szolgáltatás vonatkozásában villamosenergia-értékesítési és szerződéskötési kötelezettség terheli, az erre jogosult felhasználó tekintetében a felhasználó a Vhr.-ben meghatározott módon bejelentett szándéka esetén. E § alkalmazásában jogosult felhasználónak az 50. § (3) bekezdése szerinti olyan felhasználót kell tekinteni, aki (amely) az egyetemes szolgáltató szolgáltatási területén elhelyezkedő felhasználási hely tekintetében igényli az egyetemes szolgáltatást.”

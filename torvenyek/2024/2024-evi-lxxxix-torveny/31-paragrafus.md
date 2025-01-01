@@ -1,0 +1,3 @@
+31. § A távhőszolgáltatásról szóló 2005. évi XVIII. törvény 25. §-a helyébe a következő rendelkezés lép:
+
+„25. § A vezetékjognak az ingatlan-nyilvántartásba történő bejegyzését az engedélyes kérelmezi az ingatlantulajdonossal, illetve az ingatlan kezelőjével kötött szerződés vagy véglegessé vált hatósági határozat alapján. A vezetékjog a távhőszolgáltatás engedélyesét illeti meg, és az ingatlan mindenkori tulajdonosát terheli. A vezetékjog az azt megállapító hatósági határozat véglegessé válását követően, illetve az ingatlantulajdonossal kötött megállapodás alapján gyakorolható, azonban az harmadik személyekkel szemben akkor hatályos, ha azt az ingatlan-nyilvántartásba bejegyezték.”

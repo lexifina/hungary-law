@@ -1,0 +1,1 @@
+141. § A megújuló energia közlekedési célú felhasználásának előmozdításáról és a közlekedésben felhasznált energia üvegházhatású gázkibocsátásának csökkentéséről szóló 2010. évi CXVII. törvény 6. § (2) bekezdésében a „március” szövegrész helyébe az „április” szöveg lép.

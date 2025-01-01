@@ -1,0 +1,3 @@
+18. § A bányászatról szóló 1993. évi XLVIII. törvény 41. § (3d) bekezdése helyébe a következő rendelkezés lép:
+
+„(3d) Ha a bányafelügyelet az első szankcionált jogsértést követő két éven belül újabb három jogsértést állapít meg ugyanazon bányászati jog vagy a bányászati jog alapján folytatott bányászati tevékenység tekintetében, a negyedik jogsértés esetén a bányavállalkozó bányászati jogát törli. Jogsértésként nem kell figyelembe venni, ha a bányafelügyelet a jogsértést a bányajáradék bevallás vagy befizetés, a felügyeleti díj befizetés vagy az ásványvagyonban bekövetkezett változásra vonatkozó éves adatszolgáltatási kötelezettség hibás vagy hiányos teljesítése miatt állapítja meg.”

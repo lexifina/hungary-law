@@ -1,0 +1,3 @@
+9. § A bányászatról szóló 1993. évi XLVIII. törvény 21/A. §-a a következő (7a) bekezdéssel egészül ki:
+
+„(7a) A bányavállalkozó a kutatási területet vagy annak egy részét a geotermikus védőidom kijelölési kérelem benyújtásáig visszaadhatja. A bányafelügyelet a terület-visszaadást akkor fogadja el, ha a visszaadásra bejelentett területen a bányakárokat megtérítették, továbbá a tájrendezési, környezetvédelmi, földvédelmi és talajvédelmi kötelezettségeket teljesítették. A kutatási terület visszaadását elfogadó határozat véglegessé válásának napján a kutatási engedély a visszaadott terület tekintetében megszűnik.”

@@ -1,0 +1,3 @@
+160. § A hulladékról szóló 2012. évi CLXXXV. törvény 72. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A pénzügyi biztosíték képzésére, valamint a környezetvédelmi biztosítás kötésére kötelezett gazdálkodó szervezet az üzleti év március 1. napjáig a hulladékgazdálkodási hatóságnak igazolja, hogy a tárgyévre vonatkozóan a pénzügyi biztosíték rendelkezésre áll, a környezetvédelmi biztosítást megkötötte, továbbá a céltartalék képzésére kötelezett gazdálkodó szervezet nyilatkozik arról, hogy a céltartalékot megképezte. Az üzleti év végét követő év május 31-ig a céltartalék képzésére kötelezett a hulladékgazdálkodási hatóságnak igazolja, hogy a céltartalék a tárgyévben rendelkezésére állt.”
