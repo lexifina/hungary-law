@@ -1,4 +1,4 @@
-12. melléklet a 6/2011. (I. 14.) VM rendelethez[^41]
+12. melléklet a 6/2011. (I. 14.) VM rendelethez[^42]
 
 A levegőterheltségi szint értékelési módszereinek követelményei
 
@@ -42,4 +42,4 @@ A levegőterheltségi szint értékelési módszereinek követelményei
 
 3.4. online adatok közvetlen számítógépes feldolgozásával, speciális program segítségével.
 
-[^41]: A 12. melléklet a 33/2015. (VI. 25.) FM rendelet 4. § g) pontja szerint módosított szöveg.
+[^42]: A 12. melléklet a 33/2015. (VI. 25.) FM rendelet 4. § g) pontja szerint módosított szöveg.

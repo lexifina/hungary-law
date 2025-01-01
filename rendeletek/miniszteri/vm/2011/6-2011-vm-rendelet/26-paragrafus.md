@@ -1,3 +1,3 @@
-26. §[^28]
+26. §[^29]
 
-[^28]: A 17. alcímet és a 26–27. §-t a 27. § hatályon kívül helyezte.
+[^29]: A 17. alcímet és a 26–27. §-t a 27. § hatályon kívül helyezte.

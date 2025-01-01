@@ -1,4 +1,4 @@
-3. melléklet a 6/2011. (I. 14.) VM rendelethez[^31]
+3. melléklet a 6/2011. (I. 14.) VM rendelethez[^32]
 
 Az ózonkoncentráció helyhez kötött mérésére szolgáló mintavételi pontok száma meghatározásának kritériumai
 
@@ -28,4 +28,4 @@ Az ózonkoncentráció helyhez kötött mérésére szolgáló mintavételi pont
 
 2.1. Az ózonra vonatkozó mintavételi pontok számának – az egyéb, kiegészítő vizsgálatra szolgáló módszerekkel, például a levegőminőség modellezésével és a közös elhelyezésű nitrogéndioxid-mérésekkel együttesen alkalmazva – elegendőnek kell lennie az ózonszennyezési folyamatok alakulásának vizsgálatára és a hosszú távú célkitűzések betartásának ellenőrzésére. Az agglomerációkban és egyéb zónákban elhelyezett mérőállomások számát 1. pontban meghatározott szám egyharmadára lehet csökkenteni. Amennyiben az információ egyetlen forrása a helyhez kötött mérésekre szolgáló mérőállomásokból származó információ, legalább egy figyelemmel kísérési állomást meg kell tartani. Azokban a zónákban, ahol kiegészítő vizsgálatok folynak, melyek eredményeképpen egy zóna mérőállomás nélkül marad, a szomszédos zónákba telepített mérőállomásokkal folytatott együttműködésnek kell biztosítania az ózon koncentrációjának megfelelő vizsgálatát a hosszú távú célkitűzések tekintetében. A vidéki hátterű mérőállomások száma 100 000 km2-ként 1.
 
-[^31]: A 3. melléklet a 84/2016. (XII. 16.) FM rendelet 15. § b) pontja szerint módosított szöveg.
+[^32]: A 3. melléklet a 84/2016. (XII. 16.) FM rendelet 15. § b) pontja szerint módosított szöveg.

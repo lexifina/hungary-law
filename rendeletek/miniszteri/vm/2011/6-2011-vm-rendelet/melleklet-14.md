@@ -1,4 +1,4 @@
-14. melléklet a 6/2011. (I. 14.) VM rendelethez[^43]
+14. melléklet a 6/2011. (I. 14.) VM rendelethez[^44]
 
 A légszennyező anyagok időszakos kibocsátás mérésére kötelezett tevékenységek esetében a mérések gyakorisága
 
@@ -68,4 +68,4 @@ A légszennyező anyagok időszakos kibocsátás mérésére kötelezett tevéke
 
 2. A légszennyező kérelme alapján, az alkalmazott technológia egyenletes működésére vagy nem jelentős környezeti hatására való hivatkozással, a környezetvédelmi hatóság a kétévenként és az ötévenként javasolt időszakos mérés helyett ennél hosszabb időszakot is megállapíthat.
 
-[^43]: A 14. melléklet a 84/2016. (XII. 16.) FM rendelet 15. § e) pontja szerint módosított szöveg.
+[^44]: A 14. melléklet a 84/2016. (XII. 16.) FM rendelet 15. § e) pontja szerint módosított szöveg.

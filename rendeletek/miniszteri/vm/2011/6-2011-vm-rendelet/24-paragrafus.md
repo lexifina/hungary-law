@@ -1,6 +1,6 @@
 ## 15. Jogharmonizációs záradék
 
-## 24. §[^26] Ez a rendelet
+## 24. §[^27] Ez a rendelet
 
 a) a levegőben található arzénről, kadmiumról, higanyról, nikkelről és policiklusos aromás szénhidrogénekről szóló 2004. december 15-i 2004/107/EK európai parlamenti és tanácsi irányelvnek,
 
@@ -8,4 +8,4 @@ b) a környezeti levegő minőségéről és a Tisztább levegőt Európának el
 
 való megfelelést szolgálja.
 
-[^26]: A 24. § a 84/2016. (XII. 16.) FM rendelet 12. §-ával megállapított szöveg.
+[^27]: A 24. § a 84/2016. (XII. 16.) FM rendelet 12. §-ával megállapított szöveg.

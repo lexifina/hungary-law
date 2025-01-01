@@ -8,6 +8,7 @@
 
 (5) A számításon alapuló éves adatszolgáltatáshoz csatolt jelentésnek tartalmaznia kell a számítások módját és az ehhez felhasznált, az üzemnapló alapján összesített és feldolgozott adatokat.
 
-(6) A kibocsátás-ellenőrzés adatait, részeredményeit és a pontforrás üzemnaplóját, valamint az éves jelentéseket az üzemeltető az adatrögzítéstől számított 5 évig köteles megőrizni.
+(6)[^22]
 
 [^21]: A 19. § (3) bekezdése a 84/2016. (XII. 16.) FM rendelet 10. §-ával megállapított szöveg.
+[^22]: A 19. § (6) bekezdését a 31/2024. (XII. 18.) EM rendelet 1. §-a hatályon kívül helyezte.

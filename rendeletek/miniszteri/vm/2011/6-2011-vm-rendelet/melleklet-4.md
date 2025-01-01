@@ -1,4 +1,4 @@
-4. melléklet a 6/2011. (I. 14.) VM rendelethez[^32]
+4. melléklet a 6/2011. (I. 14.) VM rendelethez[^33]
 
 Az ózonkoncentrációk vizsgálatára szolgáló mintavételi pontok osztályozásának és elhelyezkedésének kritériumai
 
@@ -26,4 +26,4 @@ A megvalósíthatóság mértékéig a 4. melléklet 3. pontjában meghatározot
 
 A 4. melléklet 4. pontjában meghatározott eljárást kell alkalmazni a megfigyelési adatoknak az adott helyszíneken mért ózonkoncentrációt befolyásoló meteorológiai és fotokémiai folyamatok összefüggésében történő megfelelő szűrése és értelmezése mellett.
 
-[^32]: A 4. melléklet a 33/2015. (VI. 25.) FM rendelet 4. § a) pontja szerint módosított szöveg.
+[^33]: A 4. melléklet a 33/2015. (VI. 25.) FM rendelet 4. § a) pontja szerint módosított szöveg.
