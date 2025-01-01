@@ -16,6 +16,8 @@ d) keretmegállapodás alapján történő, az a)–b) pontban meghatározott é
 
 (3b) Az állami közbeszerzési szaktanácsadó az őt foglalkoztató ajánlatkérő engedélyével más ajánlatkérővel közbeszerzési szakértelem biztosítása céljából megbízási jogviszonyt létesíthet.
 
+(3c) Ha a közbeszerzési eljárás lefolytatása során az állami közbeszerzési szaktanácsadó bevonására kötelezett ajánlatkérő javára a 3. § 14. pontja szerinti járulékos közbeszerzési szolgáltatás nyújtásával központi beszerző szerv jár el, az eljárásba bevont állami közbeszerzési szaktanácsadót a központi beszerző szerv biztosítja.
+
 (4) Az ajánlatkérő a (3) bekezdésben meghatározott szakértelemmel együttesen rendelkező, legalább háromtagú bírálóbizottságot köteles létrehozni az ajánlatoknak – szükség esetén a hiánypótlás, felvilágosítás vagy indokolás [71–72. §] megadását követő – e törvény szerinti elbírálására és értékelésére. A bírálóbizottság írásbeli szakvéleményt és döntési javaslatot készít az eljárást lezáró döntést meghozó személy vagy testület részére. A bírálóbizottsági munkáról jegyzőkönyvet kell készíteni, amelynek – amennyiben az ajánlatkérő alkalmaz ilyet – részét képezhetik a tagok indokolással ellátott bírálati lapjai.
 
 (5) Az ajánlatkérő nevében az eljárást lezáró döntést meghozó személy nem lehet a bírálóbizottság tagja. Testületi döntéshozatal esetén a döntéshozó kizárólag tanácskozási joggal rendelkező személyt delegálhat a bírálóbizottságba. Testületi döntéshozatal esetében név szerinti szavazást kell alkalmazni.

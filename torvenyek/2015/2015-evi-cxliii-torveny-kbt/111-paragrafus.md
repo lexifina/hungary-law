@@ -6,9 +6,9 @@ a) tankönyv beszerzésére, amennyiben arra a nemzeti köznevelésről szóló 
 
 b) a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény alapján gyermekotthonban, illetve lakásotthonban elhelyezett gyermekek teljes ellátására, illetve utógondozói ellátásban részesülők, valamint a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 59–85/A. §-ában szabályozott szociális szolgáltatások körében ellátottak teljes ellátására szolgáló árubeszerzés és szolgáltatás megrendelése esetén;
 
-c) a 3. melléklet szerinti egészségügyi szolgáltatásra akkor, ha az ellátási kötelezettség körébe tartozó, részben vagy egészben közfinanszírozott közszolgáltatás teljesítését szolgálja, a 3. melléklet szerinti szállodai és éttermi szolgáltatásokra, a 79995000-5-től 79995200-7-ig tartó CPV kódok által meghatározott könyvtárkezelési szolgáltatásokra, a 92000000-1-től 92700000-8-ig tartó CPV kódok által meghatározott, a pihenés, kultúra és sport területén nyújtott szolgáltatásokra, valamint a jogi szolgáltatásokra;
+c) a 3. melléklet szerinti egészségügyi szolgáltatásra akkor, ha az ellátási kötelezettség körébe tartozó, részben vagy egészben közfinanszírozott közszolgáltatás teljesítését szolgálja, a 3. melléklet szerinti szállodai és éttermi szolgáltatásokra, a 79995000-5-től 79995200-7-ig tartó CPV kódok által meghatározott könyvtárkezelési szolgáltatásokra, a 92000000-1-től 92700000-8-ig tartó CPV kódok által meghatározott, a pihenés, kultúra és sport területén nyújtott szolgáltatásokra, 3. melléklet szerinti jogi szolgáltatásokra, valamint a járulékos közbeszerzési szolgáltatásokra;
 
-d) a 3. melléklet szerinti bármely szolgáltatásra, ha annak becsült értéke a harmincmillió forintot nem éri el;
+d) a 3. melléklet szerinti bármely szolgáltatásra, ha annak becsült értéke az ötvenmillió forintot nem éri el;
 
 e) nemzetközi fejlesztési együttműködési, nemzetközi humanitárius segítségnyújtási tevékenység és nemzetközi stabilitást elősegítő tevékenység keretében történő beszerzésre;
 
@@ -26,7 +26,7 @@ k) közfoglalkoztató által közfoglalkoztatási jogviszony keretében előáll
 
 l) a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti pénzforgalmi szolgáltatás igénybevételére;
 
-m) postai szolgáltatást vagy a postai szolgáltató által nyújtott postai szolgáltatásoktól eltérő szolgáltatást nyújtó szervezet beszerzéseire, a nemzetközi kereskedelmi repülőtér légi fuvarozók, illetve személyszállítók rendelkezésére bocsátása céljából meghatározott földrajzi terület hasznosítását végző szervezet beszerzéseire, valamint a 6. § (1) bekezdés b) pontja szerinti ajánlatkérőnek a megújuló technológiák alkalmazásával megvalósuló villamos energia termelését közvetlenül szolgáló beszerzéseire;
+m) postai szolgáltatást vagy a postai szolgáltató által nyújtott postai szolgáltatásoktól eltérő szolgáltatást nyújtó szervezet beszerzéseire, a nemzetközi kereskedelmi repülőtér légi fuvarozók, illetve személyszállítók rendelkezésére bocsátása céljából meghatározott földrajzi terület hasznosítását végző szervezet beszerzéseire, valamint a 6. § (1) bekezdés b) pontja szerinti közszolgáltató tevékenységet folytató ajánlatkérőnek a megújuló technológiák alkalmazásával megvalósuló villamos energia termelését közvetlenül szolgáló beszerzéseire;
 
 n) nyomtatott és elektronikus könyvek, újságok, folyóiratok, időszakos kiadványok, valamint az elsődlegesen az előbbieket tartalmazó, kutatási, közművelődési vagy oktatási célt szolgáló elektronikus adatbázisok, illetve azok felhasználására vonatkozó jogok, a kulturális javak körébe tartozó tárgyak és rájuk vonatkozó jogok megszerzésére, hangszerek, hangszertartozékok és hangszeralkatrészek beszerzésére;
 

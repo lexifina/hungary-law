@@ -5,7 +5,3 @@ A 73. § (4) bekezdésében hivatkozott környezetvédelmi, szociális és munka
 – 87. számú ILO-egyezmény az egyesülési szabadságról és a szervezkedési jog védelméről
 
 – 98. számú ILO-egyezmény a szervezkedési jog és a kollektív tárgyalási jog elveinek alkalmazásáról
-
-– 29. számú ILO-egyezmény a kényszer- vagy kötelező munkáról
-
-– 105. számú ILO-egyezmény a kényszermunka felszámolásáról
