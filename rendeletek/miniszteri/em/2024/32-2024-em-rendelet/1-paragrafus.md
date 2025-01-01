@@ -1,0 +1,1 @@
+1. § Hatályát veszti a környezetvédelmi, természetvédelmi, valamint a vízügyi hatósági eljárások igazgatási szolgáltatási díjairól szóló 33/2005. (XII. 27.) KvVM rendelet módosításáról szóló 48/2011. (VI. 1.) VM rendelet.
