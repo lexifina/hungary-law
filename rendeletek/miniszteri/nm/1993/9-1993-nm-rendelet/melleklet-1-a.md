@@ -1,3 +1,13 @@
+| 31/h. 01411 Standardizált intestinalis microbiota graft |
+
+| Elszámolásra jogosult intézetek: |
+
+| 50. Agyi elektródák |
+
+| 50/a. 01900 Sztereotaxiás mély elektróda (SEEG) és tartozékai intracanialis video EEG monitorizáláshoz |
+
+| 50/b. 01901 Subdurális strip, grid elektróda (SDG) intracranialis video EEG monitorizáláshoz |
+
 | 1. 01000 Gerinc belső fixációs implantátum |
 
 | Elszámolásra jogosult intézetek: |
@@ -1048,6 +1058,112 @@
 
 | 2915 Semmelweis Egyetem |
 
+| 1084 Bajai Szent Rókus Kórház |
+
+| 1122 Bács-Kiskun Vármegyei Oktatókórház |
+
+| 1243 Orosházi Dr. László Elek Kórház és Rendelőintézet |
+
+| 1407 Sátoraljaújhelyi Erzsébet Kórház |
+
+| 1454 Hódmezővásárhelyi-Makói Egészségügyi Ellátó Központ |
+
+| 1568 Fejér Vármegyei Szent György Egyetemi Oktató Kórház, Székesfehérvár |
+
+| 1640 Győr-Moson-Sopron Vármegyei Petz Aladár Egyetemi Oktató Kórház |
+
+| 1644 Mosonmagyaróvári Karolina Kórház-Rendelőintézet |
+
+| 1663 Soproni Erzsébet Oktató Kórház és Rehabilitációs Intézet |
+
+| 1865 Esztergomi Vaszary Kolos Kórház |
+
+| 1876 Komárom-Esztergom Vármegyei Szent Borbála Kórház, Tatabánya |
+
+| 1903 Balassagyarmati Dr. Kenessey Albert Kórház-Rendelőintézet |
+
+| 1928 Nógrád Vármegyei Szent Lázár Kórház, Salgótarján |
+
+| 2010 Kistarcsai Flór Ferenc Kórház |
+
+| 2095 Váci Jávorszky Ödön Kórház |
+
+| 2137 Somogy Vármegyei Kaposi Mór Oktató Kórház |
+
+| 2162 Siófoki Kórház-Rendelőintézet |
+
+| 2324 Jász-Nagykun-Szolnok Vármegyei Hetényi Géza Kórház - Rendelőintézet |
+
+| 2425 Tolna Vármegyei Balassa János Kórház |
+
+| 2535 Ajkai Magyar Imre Kórház |
+
+| 2586 Pápai Gróf Esterházy Kórház és Rendelőintézeti Szakrendelő |
+
+| 2703 Keszthelyi Kórház |
+
+| 2734 Zala Vármegyei Szent Rafael Kórház |
+
+| 2747 Nagykanizsai Kanizsai Dorottya Kórház |
+
+| 2872 Bethesda Gyermekkórház |
+
+| 2873 Budapesti Bajcsy-Zsilinszky Kórház és Rendelőintézet |
+
+| 2877 Heim Pál Országos Gyermekgyógyászati Intézet |
+
+| 2878 Dél-pesti Centrumkórház - Országos Hematológiai és Infektológiai Intézet |
+
+| 2880 Észak-budai Szent János Centrumkórház |
+
+| 2886 Budapesti Péterfy Sándor utcai Kórház-Rendelőintézet |
+
+| 2889 Dél-budai Centrumkórház Szent Imre Egyetemi Oktatókórház |
+
+| 2891 Budapesti Uzsoki Utcai Kórház |
+
+| M915 Betegápoló Irgalmas Rend |
+
+| M934 Dunaújvárosi Szent Pantaleon Kórház-Rendelőintézet |
+
+| N511 Budapesti Szent Margit Kórház |
+
+| N581 Hatvani Albert Schweitzer Kórház-Rendelőintézet, Hatvan |
+
+| N585 Heves Vármegyei Markhot Ferenc Kórház, Eger |
+
+| N590 Kiskunhalasi Semmelweis Kórház |
+
+| N593 Ceglédi Toldy Ferenc Kórház és Rendelőintézet |
+
+| N594 Veszprém Vármegyei Csolnoky Ferenc Kórház |
+
+| N595 Vas Vármegyei Markusovszky Egyetemi Oktatókórház |
+
+| N596 Jászberényi Szent Erzsébet Kórház |
+
+| N599 Szabolcs-Szatmár-Bereg Vármegyei Oktatókh. |
+
+| N682 Gyöngyösi Bugát Pál Kórház, Gyöngyös |
+
+| N684 Ózdi Almási Balogh Pál Kórház |
+
+| R464 Békés Vármegyei Központi Kórház |
+
+| R730 Borsod-Abaúj-Zemplén Vármegyei Központi Kórház és Egyetemi Oktatókórház |
+
+| S908 Szent Damján Görögkatolikus Kórház |
+
+| U403 Észak-Pesti Centrumkórház - Honvédkórház |
+
+| U894 Debreceni Egyetem Klinikai Központ |
+
+| U912 Pécsi Tudományegyetem Klinikai Központ |
+
+| U915 Semmelweis Egyetem Klinikai Központ |
+
+| U917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+
 | 32. Stent-graftok 32/a. 01501 Stent-graftok (dilatatív érbetegségek ellátásában) Elszámolásra jogosult intézetek: 1640 Petz Aladár Egyetemi Oktató Kórház K403 Magyar Honvédség Egészségügyi Központ R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház U894 Debreceni Egyetem Klinikai Központ U912 Pécsi Tudományegyetem Klinikai Központ U915 Semmelweis Egyetem Klinikai Központ U917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ 32/b. 01526 Fedett vascularis stentek (obliteratív érbetegségek ellátásában) Elszámolásra jogosult intézetek: 1122 Bács-Kiskun Megyei Kórház, Kecskemét 1568 Fejér Megyei Szent György Egyetemi Oktató Kórház, Székesfehérvár 1640 Petz Aladár Egyetemi Oktató Kórház 2010 Pest Megyei Flór Ferenc Kórház, Kistarcsa 2137 Somogy Megyei Kaposi Mór Oktató Kórház 2324 Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet 2873 Bajcsy-Zsilinszky Kórház és Rendelőintézet 2889 Dél-budai Centrumkórház Szent Imre Egyetemi Oktatókórház 2896 Gottsegen György Országos Kardiovaszkuláris Intézet K403 Magyar Honvédség Egészségügyi Központ N593 Toldy Ferenc Kórház és Rendelőintézet, Cegléd N594 Csolnoky Ferenc Kórház, Veszprém N595 Markusovszky Egyetemi Oktatókórház, Szombathely N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház R464 Békés Megyei Központi Kórház R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház U984 Debreceni Egyetem Klinikai Központ U912 Pécsi Tudományegyetem Klinikai Központ U915 Semmelweis Egyetem Klinikai Központ U917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
 | 33. |
@@ -1434,6 +1550,10 @@
 
 | U917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
-1/A. számú melléklet a 9/1993. (IV. 2.) NM rendelethez[^129]
+| U915 Semmelweis Egyetem Klinikai Központ |
 
-[^129]: Az 1/A. számú mellékletet a 62/2007. (XII. 29.) EüM rendelet 2. § (2) bekezdése iktatta be, szövege a 32/2016. (X. 27.) EMMI rendelet 1. § (2) bekezdésével megállapított, a 15/2017. (VI. 22.) EMMI rendelet 1. § (2) bekezdése, a 15/2018. (VI. 28.) EMMI rendelet 3. § (2) bekezdése, a 35/2018. (X. 12.) EMMI rendelet 1. §-a, a 15/2019. (VII. 26.) EMMI rendelet 1. § (2) bekezdése, a 36/2019. (XII. 30.) EMMI rendelet 1. § (1) bekezdése, a 22/2020. (VI. 26.) EMMI rendelet 2. § (2) bekezdése és 3. § a) pontja, a 39/2021. (IX. 6.) EMMI rendelet 2. § (2) bekezdése, az 55/2021. (XII. 22.) EMMI rendelet 1. §-a, a 3/2022. (I. 14.) EMMI rendelet 1. § (2) bekezdése, a 34/2022. (IX. 28.) BM rendelet 2. §-a, a 34/2022. (IX. 28.) BM rendelet 2. §-a, a 37/2022. (X. 28.) BM rendelet 2. §-a, az 50/2023. (XII. 12.) BM rendelet 4. §-a és 5. § b) pontja szerint módosított szöveg.
+| U912 Pécsi Tudományegyetem Klinikai Központ |
+
+1/A. számú melléklet a 9/1993. (IV. 2.) NM rendelethez[^130]
+
+[^130]: Az 1/A. számú mellékletet a 62/2007. (XII. 29.) EüM rendelet 2. § (2) bekezdése iktatta be, szövege a 32/2016. (X. 27.) EMMI rendelet 1. § (2) bekezdésével megállapított, a 15/2017. (VI. 22.) EMMI rendelet 1. § (2) bekezdése, a 15/2018. (VI. 28.) EMMI rendelet 3. § (2) bekezdése, a 35/2018. (X. 12.) EMMI rendelet 1. §-a, a 15/2019. (VII. 26.) EMMI rendelet 1. § (2) bekezdése, a 36/2019. (XII. 30.) EMMI rendelet 1. § (1) bekezdése, a 22/2020. (VI. 26.) EMMI rendelet 2. § (2) bekezdése és 3. § a) pontja, a 39/2021. (IX. 6.) EMMI rendelet 2. § (2) bekezdése, az 55/2021. (XII. 22.) EMMI rendelet 1. §-a, a 3/2022. (I. 14.) EMMI rendelet 1. § (2) bekezdése, a 34/2022. (IX. 28.) BM rendelet 2. §-a, a 34/2022. (IX. 28.) BM rendelet 2. §-a, a 37/2022. (X. 28.) BM rendelet 2. §-a, az 50/2023. (XII. 12.) BM rendelet 4. §-a és 5. § b) pontja szerint módosított szöveg.

@@ -1,27 +1,27 @@
-7. §[^70] (1) A 10. számú melléklet tartalmazza az aktív fekvőbeteg-ellátási háttér mellett ambuláns formában is nyújtható kúraszerű kezeléseket.
+7. §[^71] (1) A 10. számú melléklet tartalmazza az aktív fekvőbeteg-ellátási háttér mellett ambuláns formában is nyújtható kúraszerű kezeléseket.
 
-(2)[^71] Aktív fekvőbeteg-ellátási háttér az egészségügyi intézményen belül, vagy más olyan egészségügyi intézménnyel kötött szerződéssel biztosítható, amely a biztosított számára 30 percen belül elérhető.
+(2)[^72] Aktív fekvőbeteg-ellátási háttér az egészségügyi intézményen belül, vagy más olyan egészségügyi intézménnyel kötött szerződéssel biztosítható, amely a biztosított számára 30 percen belül elérhető.
 
-(3)[^72] A 10. számú melléklet szerinti meddőségi kezelések a kötelező egészségbiztosítás keretében igénybe vehető meddőségkezelési eljárásokról szóló 49/1997. (XII. 17.) NM rendeletben előírt számban és gyakorisággal jelenthetők. Petesejt leszívásának céljából végzett stimulációért önmagában 0,25000 súlyszám, amennyiben emellett petesejt leszívása is történik, 1,40953 súlyszám, fagyasztott petesejt felhasználásáért, amennyiben további részfolyamat nem történik, 0,25000 súlyszám számolható el.
+(3)[^73] A 10. számú melléklet szerinti meddőségi kezelések a kötelező egészségbiztosítás keretében igénybe vehető meddőségkezelési eljárásokról szóló 49/1997. (XII. 17.) NM rendeletben előírt számban és gyakorisággal jelenthetők. Petesejt leszívásának céljából végzett stimulációért önmagában 0,25000 súlyszám, amennyiben emellett petesejt leszívása is történik, 1,40953 súlyszám, fagyasztott petesejt felhasználásáért, amennyiben további részfolyamat nem történik, 0,25000 súlyszám számolható el.
 
-(3a)[^73] A 10. számú mellékletben felsorolt meddőségi kezelések közül a 6570 HBCs-ben elszámolható beavatkozási sorozatok a Rendeletben előírt számban és gyakorisággal jelenthetők. A különálló beavatkozások a 92700 vagy a 92701 OENO kódú eljárás nélkül is elszámolhatók a HBCs súlyszámértékének 50 százalékával.
+(3a)[^74] A 10. számú mellékletben felsorolt meddőségi kezelések közül a 6570 HBCs-ben elszámolható beavatkozási sorozatok a Rendeletben előírt számban és gyakorisággal jelenthetők. A különálló beavatkozások a 92700 vagy a 92701 OENO kódú eljárás nélkül is elszámolhatók a HBCs súlyszámértékének 50 százalékával.
 
-(4)[^74] A daganatos betegek kúraszerű kemoterápiás kezeléséről kiállított Adatlapon az egyes kezelési fázisok beavatkozási kódját is fel kell tüntetni.
+(4)[^75] A daganatos betegek kúraszerű kemoterápiás kezeléséről kiállított Adatlapon az egyes kezelési fázisok beavatkozási kódját is fel kell tüntetni.
 
-(4a)[^75] A Kézikönyvben szereplő kemoterápiás protokollok módosítását, illetve az új protokollok összeállítását a törzskönyvezett gyógyszerek és a különleges táplálkozási igényt kielégítő tápszerek társadalombiztosítási támogatásba való befogadásának szempontjairól és a befogadás vagy a támogatás megváltoztatásáról szóló 32/2004. (IV. 26.) ESZCSM rendelet szerint befogadott gyógyszerek, alkalmazási előírások, továbbá indikációk szerint a NEAK végzi. A NEAK a javaslatát szakmai véleményezés céljából megküldi az egészségügyi szakmai kollégium illetékes tagozata részére. A NEAK a javaslatát az egészségügyi szakmai kollégium illetékes tagozatának észrevételével együtt megküldi a Finanszírozási Kódkarbantartó Bizottságnak. A Finanszírozási Kódkarbantartó Bizottság a NEAK javaslata, valamint az egészségügyi szakmai kollégium illetékes tagozatának észrevétele alapján alakítja ki a javaslatát, amit megküld az egészségbiztosításért felelős miniszter részére. Az egészségbiztosításért felelős miniszter dönt a javaslatról, amelyet jóváhagyása esetén kihirdet.
+(4a)[^76] A Kézikönyvben szereplő kemoterápiás protokollok módosítását, illetve az új protokollok összeállítását – az (5) bekezdésben foglaltak figyelembevételével – a törzskönyvezett gyógyszerek és a különleges táplálkozási igényt kielégítő tápszerek társadalombiztosítási támogatásba való befogadásának szempontjairól és a befogadás vagy a támogatás megváltoztatásáról szóló 32/2004. (IV. 26.) ESZCSM rendelet szerint befogadott gyógyszerek, alkalmazási előírások, továbbá indikációk szerint a NEAK végzi. A NEAK a javaslatát szakmai véleményezés céljából megküldi az egészségügyi szakmai kollégium illetékes tagozata részére. A NEAK a javaslatát az egészségügyi szakmai kollégium illetékes tagozatának észrevételével együtt megküldi a Finanszírozási Kódkarbantartó Bizottságnak. A Finanszírozási Kódkarbantartó Bizottság a NEAK javaslata, valamint az egészségügyi szakmai kollégium illetékes tagozatának észrevétele alapján alakítja ki a javaslatát, amit megküld az egészségbiztosításért felelős miniszter részére. Az egészségbiztosításért felelős miniszter dönt a javaslatról, amelyet jóváhagyása esetén kihirdet.
 
-(5)[^76]
+(5)[^77] A NEAK – a (4a) bekezdésben foglaltakon túl – javaslatot tehet a Finanszírozási Kódkarbantartó Bizottságnak a Kézikönyvben szereplő kemoterápiás protokollok módosítására, illetve az új protokollok összeállítására az emberi felhasználásra kerülő gyógyszerek egyedi rendelésének és felhasználásának engedélyezéséről szóló kormányrendeletben foglalt eljárásrend szerint már engedélyezett indikáción túli gyógyszerrendelés és -alkalmazás alapján is.
 
-(6)[^77]
+(6)[^78]
 
-(6a)[^78] Az egészségügyi ellátórendszer fejlesztéséről szóló törvény alapján befogadott nappali ellátásra szerződött járóbeteg-szakellátást nyújtó szolgáltató, valamint az ellátásoknak megfelelő szakmákban nappali kórházi ellátásra szerződött fekvőbeteg szakellátást nyújtó szolgáltató az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet 2. § r) pontja szerinti rehabilitációs ellátási program szerinti nappali ellátásokat a 18. számú mellékletben meghatározott szabályok és paraméterek alapján számolhatja el.
+(6a)[^79] Az egészségügyi ellátórendszer fejlesztéséről szóló törvény alapján befogadott nappali ellátásra szerződött járóbeteg-szakellátást nyújtó szolgáltató, valamint az ellátásoknak megfelelő szakmákban nappali kórházi ellátásra szerződött fekvőbeteg szakellátást nyújtó szolgáltató az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet 2. § r) pontja szerinti rehabilitációs ellátási program szerinti nappali ellátásokat a 18. számú mellékletben meghatározott szabályok és paraméterek alapján számolhatja el.
 
-[^70]: A 7. §-t a 3/1997. (II. 13.) NM rendelet 2. §-a iktatta a szövegbe.
-[^71]: A 7. § (2) bekezdése a 7/2001. (III. 2.) EüM rendelet 3. §-ának (1) bekezdésével megállapított szöveg.
-[^72]: A 7. § (3) bekezdése a 34/2023. (VIII. 24.) BM rendelet 1. §-ával megállapított szöveg.
-[^73]: A 7. § (3a) bekezdését a 2/2020. (I. 30.) EMMI rendelet 1. §-a iktatta be.
-[^74]: A 7. § (4) bekezdése a 48/2005. (XI. 8.) EüM rendelet 2. §-ával megállapított, a 36/2011. (VI. 27.) NEFMI rendelet 6. §-a szerint módosított szöveg.
-[^75]: A 7. § (4a) bekezdését a 36/2011. (VI. 27.) NEFMI rendelet 2. §-a iktatta be, szövege az 54/2016. (XII. 30.) EMMI rendelet 2. § g)–h) pontja szerint módosított szöveg.
-[^76]: A 7. § (5) bekezdését újonnan a 35/2010. (V. 14.) EüM rendelet 3. §-a iktatta be, újból hatályon kívül helyezte a 4/2012. (I. 12.) NEFMI rendelet 5. §-a.
-[^77]: A 7. § (6) bekezdését a 29/2010. (XII. 30.) NEFMI rendelet 2. §-a iktatta be, hatályon kívül helyezte a 32/2016. (X. 27.) EMMI rendelet 3. § a) pontja.
-[^78]: A 7. § (6a) bekezdését a 4/2012. (I. 12.) NEFMI rendelet 1. §-a iktatta be, szövege a 4/2014. (I. 20.) EMMI rendelet 2. § b) pontja szerint módosított szöveg.
+[^71]: A 7. §-t a 3/1997. (II. 13.) NM rendelet 2. §-a iktatta a szövegbe.
+[^72]: A 7. § (2) bekezdése a 7/2001. (III. 2.) EüM rendelet 3. §-ának (1) bekezdésével megállapított szöveg.
+[^73]: A 7. § (3) bekezdése a 34/2023. (VIII. 24.) BM rendelet 1. §-ával megállapított szöveg.
+[^74]: A 7. § (3a) bekezdését a 2/2020. (I. 30.) EMMI rendelet 1. §-a iktatta be.
+[^75]: A 7. § (4) bekezdése a 48/2005. (XI. 8.) EüM rendelet 2. §-ával megállapított, a 36/2011. (VI. 27.) NEFMI rendelet 6. §-a szerint módosított szöveg.
+[^76]: A 7. § (4a) bekezdését a 36/2011. (VI. 27.) NEFMI rendelet 2. §-a iktatta be, szövege az 54/2016. (XII. 30.) EMMI rendelet 2. § g)–h) pontja, az 55/2024. (XII. 11.) BM rendelet 4. § b) pontja szerint módosított szöveg.
+[^77]: A 7. § (5) bekezdését újonnan az 55/2024. (XII. 11.) BM rendelet 2. §-a iktatta be.
+[^78]: A 7. § (6) bekezdését a 29/2010. (XII. 30.) NEFMI rendelet 2. §-a iktatta be, hatályon kívül helyezte a 32/2016. (X. 27.) EMMI rendelet 3. § a) pontja.
+[^79]: A 7. § (6a) bekezdését a 4/2012. (I. 12.) NEFMI rendelet 1. §-a iktatta be, szövege a 4/2014. (I. 20.) EMMI rendelet 2. § b) pontja szerint módosított szöveg.
