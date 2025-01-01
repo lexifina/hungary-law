@@ -1,0 +1,1 @@
+50. § A polgári perrendtartásról szóló 2016. évi CXXX. törvény 605. § (2) bekezdésében a „benyújtását” szövegrész helyébe a „benyújtás” szöveg és a „kell tekinteni” szövegrész helyébe a „minősül” szöveg lép.

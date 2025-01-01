@@ -1,0 +1,3 @@
+71. § A digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 15. alcíme a következő 28/A. §-sal egészül ki:
+
+„28/A. § Ha természetes személy felhasználó nem rendelkezik a 25. § (2) bekezdés szerinti hivatalos elérhetőséggel, a digitális szolgáltatás nyújtására köteles szerv az általa ismert, a 46. § (5) bekezdése szerinti tárhelyre megkísérelheti kézbesíteni a küldeményt. Ebben az esetben a 27. §-t kell alkalmazni azzal, hogy a kézbesítés második sikertelen megkísérlését követően a digitális szolgáltatás nyújtására köteles szerv köteles más módon intézkedni az irat vagy értesítés kézbesítéséről.”
