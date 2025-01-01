@@ -6,4 +6,4 @@
 
 (4) Ha a szakértői tanács tagja a kizáró okot maga jelentette be vagy a kizáráshoz maga is hozzájárult, továbbá ha a kizáró okot a Teljesítésigazolási Szakértői Szerv vezetője állapítja meg, az eljárásra másik tagot jelöl ki. Így kell eljárni akkor is, ha a szakértői tanács tagja a szakértői vélemény elkészítésének egyéb akadályát maga jelentette be.
 
-(5) A Teljesítésigazolási Szakértői Szerv vezetőjének akadályoztatása esetén – ideértve a kizárást is – a vezetői feladatait az erre kijelölt helyettese látja el.
+(5) A Teljesítésigazolási Szakértői Szerv vezetőjének akadályoztatása esetén – ideértve a kizárást is – a vezetői feladatait a vezető helyettes látja el.

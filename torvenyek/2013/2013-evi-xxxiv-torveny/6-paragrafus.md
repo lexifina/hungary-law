@@ -6,7 +6,7 @@
 
 a) a szerződés műszaki tartalma szerint a vállalkozót (alvállalkozót) terhelő munkák leírása,
 
-b) az a) pont szerinti munkák közül a teljes bizonyossággal megállapíthatóan teljesített munkák mennyiségének és minőségének meghatározása,
+b) az a) pont szerinti munkák közül a teljes bizonyossággal megállapíthatóan teljesített munkák mennyiségének és a szerződésben meghatározott, az alapvető követelmények teljesülését szolgáló minőségének meghatározása,
 
 c) az a) pont szerinti munkák közül a teljes bizonyossággal megállapíthatóan el nem végzett munkák meghatározása, és
 

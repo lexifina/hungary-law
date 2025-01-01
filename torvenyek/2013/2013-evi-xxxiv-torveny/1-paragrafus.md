@@ -32,7 +32,7 @@ b) biztosítékot nyújtó személy: a garanciát vállaló pénzügyi intézmé
 
 (5) A szakértői vélemény jogszabályban meghatározott díjazás ellenében kérhető.
 
-(6) A Teljesítésigazolási Szakértői Szerv – a Teljesítésigazolási Szakértői Szerv szakvéleményére alapított per, valamint az (1a) és (1e) bekezdésben meghatározott szakértői tevékenység kivételével – az igazságügyi szakértőkről szóló 2016. évi XXIX. törvény (a továbbiakban: Szaktv.) 2. § 8. pontjában meghatározott szervek eljárásában nem rendelhető ki.
+(6) A Teljesítésigazolási Szakértői Szerv az igazságügyi szakértőkről szóló 2016. évi XXIX. törvény (a továbbiakban: Szaktv.) 2. § 8. pontjában meghatározott szervek eljárásában a tevékenységi körébe eső szakterületekhez tartozó szakkérdésben szakértőként kirendelhető. A Teljesítésigazolási Szakértői Szerv csak olyan kirendelést fogadhat el, amely az (1)–(3) bekezdésében foglalt kötelezettségeinek teljesítését nem veszélyezteti. A Teljesítésigazolási Szakértői Szerv nem járhat el szakértőként a szakvéleményére alapított perben.
 
 (7) Az e törvényben nem szabályozott kérdésekben a Teljesítésigazolási Szakértői Szerv, valamint a tagjának jogaira és kötelezettségeire a Szaktv. rendelkezéseit megfelelően alkalmazni kell.
 
