@@ -12,7 +12,7 @@ belső ellenőrző és információs rendszerek működéséről.
 
 (2) Az (1) bekezdésben meghatározott rendszernek biztosítania kell, hogy a szolgáltató teljeskörűen és gyorsan teljesíthesse a pénzügyi információs egységtől, az 5. §-ban meghatározott felügyeletet ellátó szervtől vagy bűnmegelőzési, bűnüldözési feladatot ellátó szervektől érkező megkereséseket vagy adatkéréseket, valamint a szolgáltató gondoskodik arról, hogy az (1) bekezdésben meghatározott rendszer által jelzett ügyletek kivizsgálása a belső szabályzatban rögzített eljárásrendben és határidőkkel megtörténik.
 
-(3) Az (1) bekezdés c) pontjában meghatározott rendszer ezenfelül kiterjed a szolgáltató vezetője, foglalkoztatottja és segítő családtagja által az e törvény rendelkezéseinek a szolgáltató általi megsértése esetén küldhető értesítés teljesítése érdekében – a szolgáltató típusára és méretére tekintettel – kialakított és névtelenséget biztosító belső rendszer működtetésére is.
+(3) Az (1) bekezdés c) pontjában meghatározott rendszer ezenfelül kiterjed a szolgáltató vezetője és foglalkoztatottja által az e törvény rendelkezéseinek a szolgáltató általi megsértése esetén küldhető értesítés teljesítése érdekében – a szolgáltató típusára és méretére tekintettel – kialakított és névtelenséget biztosító belső rendszer működtetésére is.
 
 (4) Az 5. §-ban meghatározott felügyeletet ellátó szerv az (1) bekezdésben előírt kötelezettség végrehajtására a felügyelete alá tartozó szolgáltatók részére útmutatót adhat ki.
 

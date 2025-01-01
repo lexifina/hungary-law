@@ -16,7 +16,7 @@ ad) születési helyét, idejét,
 
 ae) anyja születési nevét,
 
-af) lakcímét, ennek hiányában tartózkodási helyét,
+af) lakóhelyét, ennek hiányában tartózkodási helyét,
 
 ag) azonosító okmányának típusát és számát;
 
@@ -54,15 +54,15 @@ bc) külföldi jogi személy vagy jogi személyiséggel nem rendelkező szerveze
 
 c) bírósági vagy hatósági nyilvántartásba vétel iránti kérelem bírósághoz vagy hatósághoz történő benyújtását megelőzően a jogi személy vagy jogi személyiséggel nem rendelkező szervezet létesítő okiratát.
 
-(3a) A (2) bekezdés a) pont ab)–ac) és ae) alpontjában meghatározott adat ellenőrzése mellőzhető, ha a személyazonosság igazoló ellenőrzése érdekében bemutatott okirat azt nem tartalmazza.
+(3a) A (2) bekezdés a) pont ab) és ae) alpontjában meghatározott adat rögzítése mellőzhető, ha a személyazonosság igazoló ellenőrzése érdekében bemutatott okirat azt nem tartalmazza.
 
-(3b) A (3a) bekezdésben meghatározott esetben a szolgáltató köteles az arra vonatkozó információt rögzíteni, hogy a (2) bekezdés a) pont ab)–ac) és ae) alpontjában meghatározott adatok rögzítésére az ellenőrzés mellőzésével került sor.
+(3b) A (2) bekezdés a) pont ac) alpontjában meghatározott adat ellenőrzése mellőzhető, ha a személyazonosság igazoló ellenőrzése érdekében bemutatott okirat azt nem tartalmazza. Az ellenőrzés mellőzése esetén a szolgáltató köteles az arra vonatkozó információt rögzíteni, hogy az adat rögzítésére az ellenőrzés mellőzésével került sor.
 
 (4) A (3) bekezdés c) pontjában meghatározott esetben a jogi személy vagy jogi személyiséggel nem rendelkező szervezet köteles a cégbejegyzés, hatósági vagy bírósági nyilvántartásba vétel megtörténtét követő harminc napon belül okirattal igazolni, hogy a cégbejegyzés vagy nyilvántartásba vétel megtörtént, valamint a szolgáltató köteles a cégjegyzékszámot vagy egyéb nyilvántartási számot rögzíteni.
 
 (5) A személyazonosság igazoló ellenőrzése érdekében a szolgáltató köteles ellenőrizni a (3) bekezdés alapján bemutatott azonosságot igazoló okirat érvényességét, valamint ennek keretében köteles meggyőződni az okirat hitelességéről.
 
-(6) A személyazonosság igazoló ellenőrzése során a szolgáltató köteles ellenőrizni a meghatalmazott esetében a meghatalmazás érvényességét, a rendelkezésre jogosult rendelkezési jogosultságát, továbbá a képviselő képviseleti jogosultságát.
+(6) A személyazonosság igazoló ellenőrzése során a szolgáltató köteles ellenőrizni a meghatalmazott esetében a meghatalmazás érvényességét, az ügyfél szolgáltatónál eljáró rendelkezésre jogosultjának rendelkezési jogosultságát, továbbá a képviselő képviseleti jogosultságát.
 
 (7) Ha az ügyfél és az üzleti kapcsolat azonosításához kockázatérzékenységi megközelítés alapján ez indokolt, a személyazonosság igazoló ellenőrzése érdekében a szolgáltató jogosult a (3)–(6) bekezdésben meghatározott intézkedéseken túlmenően a személyazonosságra vonatkozó adat felügyeletet ellátó szerv által meghatározott nyilvánosan hozzáférhető nyilvántartás vagy olyan nyilvántartás alapján történő ellenőrzésére, amelynek kezelőjétől törvény alapján adatigénylésre jogosult.
 

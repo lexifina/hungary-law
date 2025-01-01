@@ -1,6 +1,6 @@
 ## 7/A. Speciális ügyfél-átvilágítási intézkedések
 
-24/A. § (1) Az 1. § (1) bekezdés a) és b) pontjában meghatározott szolgáltató külföldi székhelyű szolgáltatóval történő, pénzösszeg elszámolását, illetve pénzösszeg elszámolására irányuló ügylet teljesítését is magában foglaló levelező kapcsolat létesítését megelőzően köteles
+24/A. § (1) Az 1. § (1) bekezdés a) és b) pontjában meghatározott szolgáltató külföldi székhelyű szolgáltatóval történő, pénzösszeg elszámolását, pénzösszeg elszámolására irányuló ügylet teljesítését, valamint a kriptoeszközökre vonatkozó tanácsadáson kívüli kriptoeszköz-szolgáltatás nyújtását is magában foglaló levelező kapcsolat létesítését megelőzően köteles
 
 a) a külföldi székhelyű szolgáltatóról a pénzmosás és a terrorizmus finanszírozása ellen alkalmazott eszközrendszere felmérése és értékelése céljából feltáró elemzést készíteni;
 
@@ -17,3 +17,5 @@ d) meggyőződni arról, hogy a külföldi székhelyű szolgáltató kérésre k
 (4) Az 1. § (1) bekezdés a) és b) pontjában meghatározott szolgáltató nem létesíthet és nem tarthat fenn levelező kapcsolatot fiktív bankkal, továbbá olyan szolgáltatóval, amely fiktív bankkal levelező kapcsolatot tart fenn.
 
 (5) Az 1. § (1) bekezdés a) és b) pontjában meghatározott szolgáltató jogosult kockázatérzékenységi megközelítés alapján meghatározni, hogy az Európai Unió tagállamában székhellyel rendelkező szolgáltatóval történő levelező kapcsolat létesítése előtt alkalmazza-e az (1)–(3) bekezdésben meghatározott ügyfél-átvilágítási intézkedéseket.
+
+(6) Az 1. § (1) bekezdés a) és b) pontjában meghatározott szolgáltató köteles nyilvántartást vezetni az (1) bekezdés a)–d) pontjában foglaltakról.

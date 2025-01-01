@@ -10,7 +10,7 @@ c) állampolgárságát,
 
 d) születési helyét, idejét,
 
-e) lakcímét, ennek hiányában tartózkodási helyét.
+e) lakóhelyét, ennek hiányában tartózkodási helyét.
 
 (3) A szolgáltató a (2) bekezdésben meghatározott adatokon kívül az ügyféltől az arra vonatkozó nyilatkozat megtételét is köteles kérni, hogy a tényleges tulajdonos kiemelt közszereplőnek minősül-e. Ha a tényleges tulajdonos kiemelt közszereplő, a nyilatkozatnak tartalmaznia kell, hogy a 4. § (2) bekezdésének mely pontja alapján minősül kiemelt közszereplőnek.
 

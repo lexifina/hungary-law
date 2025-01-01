@@ -3,3 +3,5 @@
 (2) A pénzügyi információs egység elemző-értékelő és felügyeleti tevékenysége keretében a feladatainak ellátásához szükséges mértékben megkereséssel fordulhat az (1) bekezdésben meghatározott adat és titok megismerése érdekében a szolgáltatóhoz, amely köteles a megkeresésben megjelölt adatot, titkot a pénzügyi információs egység részére megküldeni.
 
 (3) A szolgáltató köteles biztosítani a pénzügyi információs egység megkeresésének teljes körű, gyors és biztonságos csatornákon keresztüli teljesítését.
+
+(4) A pénzügyi információs egység a (2) bekezdésben meghatározott megkeresést a kijelölt személynek küldi meg, továbbá a megkeresésben megjelölt adatot, titkot a kijelölt személy köteles megküldeni a pénzügyi információs egység részére.

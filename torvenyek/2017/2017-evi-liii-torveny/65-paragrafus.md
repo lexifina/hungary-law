@@ -20,4 +20,4 @@
 
 (10) E törvény hatálybalépésekor működő szolgáltató az e törvény hatálya alá kerülő tevékenysége kapcsán köteles e törvény hatálybalépését követő 45 napon belül belső szabályzatot készíteni és azt az 5. §-ban meghatározott felügyeletet ellátó szervnek jóváhagyás céljából benyújtani.
 
-(11) A kulturális javak (műalkotások, régiségek) kereskedelmével foglalkozó szolgáltatót a kereskedelmi hatóság a belső szabályzatának jóváhagyásával egyidejűleg nyilvántartásba veszi.
+(11) A kulturális javak (műalkotások, régiségek) forgalmazásával vagy közvetítésével foglalkozó szolgáltatót a kereskedelmi hatóság a belső szabályzatának jóváhagyásával egyidejűleg nyilvántartásba veszi.

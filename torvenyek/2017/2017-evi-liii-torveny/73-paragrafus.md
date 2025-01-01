@@ -8,7 +8,7 @@ b) ingatlan tulajdonának átruházása,
 
 c) gazdasági társaság vagy egyéb gazdálkodó szervezet alapítása, működtetése, megszűnése,
 
-d) bizalmi vagyonkezelési szerződés vagy bizalmi vagyonkezelés létesítésére irányuló egyoldalú jognyilatkozat,
+d) bizalmi vagyonkezelési szerződés vagy bizalmi vagyonkezelés létesítésére irányuló egyoldalú jognyilatkozat, valamint bizalmi vagyonkezelési jogviszonyban vagyonrendelő által a vagyonkezelő részére teljesített vagyonjuttatás,
 
 e) ingó vagyonelem, különösen pénzeszköz, pénzügyi eszköz ellenérték nélkül történő átruházása.
 
@@ -20,7 +20,7 @@ b) ingatlan tulajdonának átruházása,
 
 c) gazdasági társaság vagy egyéb gazdálkodó szervezet alapítása, működtetése, megszűnése,
 
-d) bizalmi vagyonkezelési szerződés vagy bizalmi vagyonkezelés létesítésére irányuló egyoldalú jognyilatkozat.
+d) bizalmi vagyonkezelési szerződés vagy bizalmi vagyonkezelés létesítésére irányuló egyoldalú jognyilatkozat, valamint bizalmi vagyonkezelési jogviszonyban vagyonrendelő által a vagyonkezelő részére teljesített vagyonjuttatás.
 
 (1b) A kamarai jogtanácsost az e törvény szerinti szolgáltatónak minősülő ügyfele számára a szolgáltató e törvény hatálya alá tartozó tevékenysége keretében végzett ügyvédi tevékenysége alapján terhelő kötelezettségeket a kamarai jogtanácsos ügyfele a rá, mint szolgáltatóra vonatkozó szabályok szerint teljesíti.
 
@@ -36,7 +36,7 @@ b) ingatlan tulajdonának átruházása,
 
 c) gazdasági társaság vagy egyéb gazdálkodó szervezet alapítása, működtetése, megszűnése;
 
-d) bizalmi vagyonkezelési szerződés vagy bizalmi vagyonkezelés létesítésére irányuló egyoldalú jognyilatkozat.
+d) bizalmi vagyonkezelési szerződés vagy bizalmi vagyonkezelés létesítésére irányuló egyoldalú jognyilatkozat, valamint bizalmi vagyonkezelési jogviszonyban vagyonrendelő által a vagyonkezelő részére teljesített vagyonjuttatás.
 
 (3) Az e törvényben előírt bejelentési kötelezettség, illetve a 75. § (3) bekezdésében meghatározott, a pénzügyi információs egység megkeresésére vonatkozó válaszadási kötelezettség az ügyvédet és a kamarai jogtanácsost nem terheli, ha
 

@@ -16,7 +16,7 @@ való megfelelést szolgálja.
 
 (2) E törvény
 
-a) a pénzátutalásokat kísérő adatokról és a 1781/2006/EK rendelet hatályon kívül helyezéséről szóló, 2015. május 20-i (EU) 2015/847 európai parlamenti és tanácsi rendelet,
+a) a pénzátutalásokat és egyes kriptoeszköz-átruházásokat kísérő adatokról és az (EU) 2015/849 irányelv módosításáról szóló, 2023. május 31-i (EU) 2023/1113 európai parlamenti és tanácsi rendelet
 
 b) az (EU) 2022/1231 tanácsi végrehajtási rendelettel módosított, a belarusz helyzetre és Belarusznak az Ukrajna elleni orosz agresszióban való részvételére tekintettel hozott korlátozó intézkedésekről szóló, 2006. május 18-i 765/2006/EK tanácsi rendelet 1j–1l. és 1u–1zb. cikke és
 

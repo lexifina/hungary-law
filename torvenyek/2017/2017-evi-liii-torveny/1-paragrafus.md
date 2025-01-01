@@ -28,9 +28,9 @@ l) ügyvédre, ügyvédi irodára, európai közösségi jogászra, európai kö
 
 m) bizalmi vagyonkezelőre;
 
-n) virtuális és törvényes fizetőeszközök, illetve virtuális fizetőeszközök közötti átváltási szolgáltatásokat nyújtó szolgáltatóra;
+n)
 
-o) letétkezelő pénztárca-szolgáltatóra;
+o)
 
 p) kulturális javak (műalkotások, régiségek) forgalmazásával vagy közvetítésével foglalkozó szolgáltatóra olyan ügyletek vagy ügyletsorozatok vonatkozásában, amelyek értéke eléri vagy meghaladja a hárommillió forintot;
 
@@ -48,7 +48,7 @@ r) székhelyszolgáltatóra.
 
 a) a szolgáltató ügyfele, vagy az ügyfél szolgáltatónál eljáró rendelkezésre jogosultja, képviselője, meghatalmazottja;
 
-b) a szolgáltató vezetője, foglalkoztatottja, illetve segítő családtagja;
+b) a szolgáltató vezetője és foglalkoztatottja;
 
 c) kamarai jogtanácsos irányításával ügyvédi kamarai nyilvántartásba vett jogi előadóként (a továbbiakban: jogi előadó) ügyvédi tevékenységet gyakorol; valamint
 

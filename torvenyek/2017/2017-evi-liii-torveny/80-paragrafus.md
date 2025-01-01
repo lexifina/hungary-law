@@ -11,3 +11,5 @@
 (6)
 
 (7) A Módtv. hatálybalépését megelőző napig hatályban volt 12. § (5) bekezdése alapján foganatosított korlátozó intézkedést a szolgáltató megszünteti, ha az ügyfél eleget tesz az azonosító adatok közlésére vonatkozó kötelezettségének.
+
+(8) Az e rendelkezés hatálybalépésekor működő – a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény szerint már nyilvántartásba vett –, belső szabályzattal még nem rendelkező befektetési alapkezelő a belső szabályzatát az e rendelkezés hatálybalépését követő 90 napon belül köteles kidolgozni. Az így kidolgozott szabályzat a 65. § (4) bekezdésének megfelelően kidolgozott szabályzatnak minősül.

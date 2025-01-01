@@ -14,6 +14,6 @@ db) a közjegyzők esetében az a kamara, amelynek a közjegyző a tagja (a tov�
 
 e) j), k), p) és q) pontjában meghatározott szolgáltatók vonatkozásában a kereskedelmi hatóság;
 
-f) f), h), n) o) és r) pontjában meghatározott szolgáltatók vonatkozásában a pénzügyi információs egységként működő hatóság (a továbbiakban: pénzügyi információs egység);
+f) f), h) és r) pontjában meghatározott szolgáltatók vonatkozásában a pénzügyi információs egységként működő hatóság (a továbbiakban: pénzügyi információs egység);
 
-g) m) pontjában meghatározott szolgáltatók vonatkozásában a bizalmi vagyonkezelőkről és tevékenységük szabályairól szóló törvény szerinti hivatal (a továbbiakban: Hivatal).
+g) m) pontjában meghatározott szolgáltatók vonatkozásában a bizalmi vagyonkezelőkről és tevékenységük szabályairól szóló törvény szerinti hivatal (a továbbiakban: Hivatal), kivéve az üzletszerű bizalmi vagyonkezelési tevékenységet végző ügyvédi irodát, amely vonatkozásában a területi ügyvédi kamara.

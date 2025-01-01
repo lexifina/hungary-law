@@ -22,6 +22,8 @@ meghatározott intézkedés.
 
 5. árutőzsdei szolgáltató: a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvényben (a továbbiakban: Bszt.) meghatározott árutőzsdei szolgáltató;
 
+5a. befektetési alap: a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény (továbbiakban: Kbftv.) 4. § (1) bekezdés 62. pontjában meghatározott kollektív befektetési forma;
+
 6. csoport: olyan vállalkozások összessége, amelyet egy anyavállalat, annak leányvállalatai, fióktelepei és mindazon vállalkozások alkotnak, amelyekben az anyavállalat vagy leányvállalata ellenőrző befolyással vagy részesedési viszonnyal rendelkezik;
 
 7. elektronikus pénz: a Hpt.-ben meghatározott elektronikus pénz;
@@ -62,7 +64,11 @@ d) a befolyással rendelkező személy tőkekapcsolat nélkül gyakorol jelentő
 
 19a. kockázati szint: tartós üzleti kapcsolatok vonatkozásában az a besorolás, amely meghatározza, hogy az ügyfél vonatkozásában milyen terjedelmű ügyfél-átvilágítási intézkedéseket szükséges elvégezni;
 
+19b. kollektív befektetési értékpapír: a Kbftv. 4. § (1) bekezdés 61. pontjában meghatározott kollektív befektetési értékpapír;
+
 20. könyvviteli tevékenység: a Számv. tv. szerinti könyvviteli szolgáltatás;
+
+20a. kriptoeszköz-szolgáltató: a kriptoeszközök piacairól, valamint az 1093/2010/EU és az 1095/2010/EU rendelet, továbbá a 2013/36/EU és az (EU) 2019/1937 irányelv módosításáról szóló 2023. május 31-i (EU) 2023/1114 európai parlamenti és tanácsi rendelet (a továbbiakban: MiCA rendelet) 3. cikk (1) bekezdés 15. pontjában meghatározott kriptoeszköz-szolgáltató, amennyiben a MiCA rendelet 3. cikk (1) bekezdés 16. pontjában meghatározott egy vagy több kriptoeszköz-szolgáltatást nyújt, kivéve a MiCA rendelet 3. cikk (1) bekezdés 16. pont h) alpontja szerinti kriptoeszközökkel kapcsolatos tanácsadást;
 
 21. külföldi pénzügyi információs egységként működő hatóság: az Európai Unió más tagállamának vagy harmadik országnak az a hatósága, amely – különösen a Pénzügyi Akciócsoport és az Egmont Csoport követelményeinek a figyelembevételével – a pénzügyi információs egységként működő hatósággal azonos vagy hasonló feladatokat lát el;
 
@@ -70,13 +76,13 @@ d) a befolyással rendelkező személy tőkekapcsolat nélkül gyakorol jelentő
 
 22. leányvállalat: minden olyan vállalkozás, amelynek működésére egy másik vállalkozás ellenőrző befolyást gyakorol, azzal, hogy a leányvállalat valamennyi leányvállalatát az anyavállalat leányvállalatának kell tekinteni;
 
-22a. letétkezelő pénztárca-szolgáltató: olyan szervezet, amely ügyfelei nevében virtuális fizetőeszközök tartására, tárolására és átadására szolgáló kriptográfiai magánkulcsok megőrzésével kapcsolatos szolgáltatást nyújt;
+22a.
 
 23. levelező kapcsolat:
 
 a) egyes pénzügyi vagy befektetési szolgáltatások hitelintézet részére más hitelintézet általi biztosítása, ideértve különösen a fizetési számla vezetését, a készpénzellátást, a nemzetközi pénzátutalást, a csekkelszámolást és a devizaügyleteket,
 
-b) kapcsolat kettő vagy több hasonló szolgáltatást nyújtó hitelintézet vagy pénzügyi szolgáltató között, ideértve különösen az értékpapírügyletek és a fizetési műveletek elszámolását;
+b) kapcsolat kettő vagy több hasonló szolgáltatást nyújtó hitelintézet vagy pénzügyi szolgáltató között, ideértve különösen az értékpapírügyletek és a fizetési műveletek elszámolását, valamint a kriptoeszköz-szolgáltatás nyújtását;
 
 23a. megfelelési vezető: a szolgáltató 65. §-ban meghatározott belső szabályzatában kijelölt vezető beosztású foglalkoztatottja, aki a pénzmosás és a terrorizmusfinanszírozás megelőzésével és megakadályozásával kapcsolatos követelményeknek és elvárásoknak a szolgáltató foglalkoztatottjai általi végrehajtásáért felel;
 
@@ -112,11 +118,13 @@ j) a befektetési vállalkozás,
 
 k) az árutőzsdei szolgáltató az árutőzsdei szolgáltatásba tartozó tevékenysége tekintetében,
 
-l) a befektetési alapkezelő befektetési jegy forgalmazási tevékenysége tekintetében, illetve a Bszt.-ben meghatározott tevékenysége tekintetében,
+l) a befektetési alapkezelő – ideértve a kockázati tőkealap-kezelőt is – a kollektív befektetési értékpapír forgalomba hozatali és forgalmazási tevékenysége tekintetében, továbbá a Bszt.-ben meghatározott befektetési szolgáltatási tevékenysége, kiegészítő befektetési szolgáltatási tevékenysége tekintetében,
 
 m) piacműködtető, a tőkepiacról szóló 2001. évi CXX. törvényben (a továbbiakban: Tpt.), illetve a Bszt.-ben meghatározott tevékenysége tekintetében,
 
-n) a pénzforgalmi közvetítő a pénzforgalmi szolgáltatásnyújtás közvetítése vonatkozásában;
+n) a pénzforgalmi közvetítő a pénzforgalmi szolgáltatásnyújtás közvetítése vonatkozásában,
+
+o) kriptoeszköz-szolgáltató;
 
 28a. pénzeszköz forrásának igazolása: az ügyletben szereplő pénzeszköz és virtuális fizetőeszköz törvényes forrását megerősítő adat vagy azt igazoló dokumentum, így különösen az öröklésből, kártérítésből, polgári jogi jogviszonyokból származó szerződés vagy egyéb hivatalos dokumentum a kapcsolódó jogosultságok nevesítésével, munkaviszonyból származó bérjövedelem-igazolás, külszolgálatért kapott jövedelemigazolás, egyéb jövedelemigazolás, árfolyamnyereséghez, nyereményhez, osztalékhoz kapcsolódó igazoló dokumentum;
 
@@ -162,7 +170,7 @@ c) az a természetes személy, akinek megbízásából valamely ügyletet végre
 
 d) alapítványok esetében az a természetes személy,
 
-da) aki az alapítvány vagyona legalább huszonöt százalékának a kedvezményezettje, ha a leendő kedvezményezetteket már meghatározták,
+da) aki az alapítvány vagyona legalább huszonöt százalékának a kedvezményezettje, ha a leendő kedvezményezetteket már meghatározták, vagy
 
 db) akinek érdekében az alapítványt létrehozták, illetve működtetik, ha a kedvezményezetteket még nem határozták meg,
 
@@ -184,6 +192,16 @@ ee) adott esetben a vagyonkezelést ellenőrző személy(ek); nem természetes s
 
 f) az a) és b) pontban meghatározott természetes személy hiányában a jogi személy vagy jogi személyiséggel nem rendelkező szervezet vezető tisztségviselője;
 
+g) zártkörű befektetési alap esetében
+
+ga) az a természetes személy, aki egyedül vagy a Ptk. 8:1. § (1) bekezdés 1. pontja szerinti közeli hozzátartozójával együttesen a befektetési alapban kibocsátott befektetési jegyek legalább 25%-át tulajdonolja,
+
+gb) olyan jogi személy vagy jogi személyiséggel nem rendelkező szervezet esetén, amely a befektetési alapban kibocsátott befektetési jegyek legalább 25%-át tulajdonolja, e befektető a) vagy b) pont szerinti tényleges tulajdonosa,
+
+gc) az a természetes személy, aki az általa egyedül vagy a Ptk. 8:1. § (1) bekezdés 1. pontja szerinti közeli hozzátartozójával együttesen birtokolt befektetési jegyek alapján jogosult a zártkörű befektetési alap kezelési szabályzata meghatározott feltételeinek módosításának jóváhagyására vagy az alapkezelés átruházásának jóváhagyására; továbbá ilyen jogosultsággal egyedül rendelkező jogi személy vagy jogi személyiséggel nem rendelkező szervezet befektető esetén e befektető a) vagy b) pont szerinti tényleges tulajdonosa, valamint
+
+gd) az a természetes személy, aki egyéb módon tényleges irányítást, ellenőrzést gyakorol a zártkörű befektetési alap felett
+
 38a. tényleges tulajdonosi nyilvántartás: a pénzügyi és egyéb szolgáltatók azonosítási feladatához kapcsolódó adatszolgáltatási háttér megteremtéséről és működtetéséről szóló 2021. évi XLIII. törvény (a továbbiakban: Afad-törvény) 3. § 14. pontjában meghatározott tényleges tulajdonosi nyilvántartás;
 
 38b. többségi állami tulajdonú vállalat: teljes mértékben állami vagy helyi önkormányzati tulajdonban álló vállalat, többségi állami tulajdonban álló vállalat, valamint a helyi önkormányzat többségi tulajdonában álló vállalat;
@@ -204,11 +222,25 @@ c) az 1. § (1) bekezdés l) pontjában meghatározott szolgáltató részére k
 
 a) aki a szolgáltatóval üzleti kapcsolatot létesít vagy a szolgáltató részére ügyleti megbízást ad, és
 
-b) az 1. § (1) bekezdés f) pontjában meghatározott szolgáltató vonatkozásában, aki az ingatlan eladása és vétele, vagy bérbeadása és bérbevétele céljából ajánlatot kér;
+b) az 1. § (1) bekezdés f) pontjában meghatározott szolgáltató vonatkozásában, aki az ingatlan eladása és vétele, vagy bérbeadása és bérbevétele céljából ajánlatot kér vagy tesz;
+
+c) a kollektív befektetési értékpapír forgalomba hozatala és forgalmazása esetében:
+
+ca) olyan természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet, aki vagy amely saját nevében, és nem más, mögöttes befektetők nevében, közvetlenül vásárol kollektív befektetési értékpapírt,
+
+cb) olyan gazdasági társaság vagy egyéb gazdálkodó szervezet, amely gazdasági tevékenységének részeként saját nevében közvetlenül kollektív befektetési értékpapírt vásárol, és a befektetés felett ellenőrzést gyakorol egy vagy több olyan harmadik fél javára, akik nem ellenőrzik a befektetést vagy a befektetési döntéseket,
+
+d) fizetés-kezdeményezési szolgáltató esetében az a természetes személy vagy jogi személy, aki vagy amely fizetési számlával rendelkezik, és e számláról fizetési megbízást kezdeményez. Ha a fizetés-kezdeményezési szolgáltató nem a fizető féllel, hanem a kedvezményezettel áll üzleti kapcsolatban fizetés-kezdeményezési szolgáltatás nyújtása céljából, és a fizető fél az adott fizetés-kezdeményezési szolgáltatót veszi igénybe abból a célból, hogy egyetlen vagy egyszeri fizetési műveletet kezdeményezzen az adott kedvezményezett részére, akkor a fizetés-kezdeményezési szolgáltató ügyfele nem a fizető fél, hanem a kedvezményezett,
+
+e) számlainformációs szolgáltatást nyújtó szolgáltató esetében az a természetes személy vagy jogi személy, aki vagy amely szerződést kötött a számlainformációs szolgáltatást nyújtó szolgáltatóval és a fizetési számlával rendelkezik.
 
 42. ügyfél-átvilágítás:
 
-a) a 6. §-ban meghatározott esetben az ügyfél azonosítása, az ügyfél kockázati besorolása, a személyazonosság igazoló ellenőrzése, az üzleti kapcsolat és az ügyleti megbízás céljának és jellegének megismerése, folyamatos figyelemmel kísérése;
+a) a 6. §-ban meghatározott esetekben
+
+aa) üzleti kapcsolat létesítésekor az ügyfél azonosítása, az ügyfél kockázati besorolása, a személyazonosság igazoló ellenőrzése, a tényleges tulajdonos azonosítása és személyazonosságának ellenőrzése, az üzleti kapcsolat céljának és jellegének megismerése, folyamatos figyelemmel kísérése, valamint
+
+ab) ügyleti megbízás esetében az ügyfél azonosítása, az ügyfél kockázati besorolása, a személyazonosság igazoló ellenőrzése, a tényleges tulajdonos azonosítása és személyazonosságának ellenőrzése, az ügyleti megbízás tárgyának, összegének, és teljesítése körülményeinek rögzítése, valamint az ügyleti megbízásokat rendszeresen adó ügyfelek részére teljesített ügyleti megbízások folyamatos figyelemmel kísérése;
 
 b) a játékkaszinót, kártyatermet működtető és a távszerencsejátékot, online kaszinójátékot szervező szolgáltató által a játékos nyilvántartásba vételekor elvégzett ügyfél-átvilágítási intézkedések;
 

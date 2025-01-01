@@ -1,1 +1,1 @@
-### 19. §
+19. § Ahol e törvény a személyazonosítást vagy a lakcím igazolását írja elő, ott az adatszolgáltatás és az adatok igazoló ellenőrzése a digitális állampolgárság szolgáltató által digitálisan kiállított hiteles igazolás alapján is elvégezhető.

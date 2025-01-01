@@ -18,7 +18,7 @@ ec) az 1. § (1) bekezdés f) pontjában meghatározott szolgáltató esetében 
 
 ed) az 1. § (1) bekezdés h) pontjában meghatározott szolgáltató esetében kezdeményezi a nyilvántartást vezető szervnél a szolgáltató nyilvántartásból való törlését;
 
-f) kezdeményezi a szolgáltató vezetője vagy a jogsértésért felelős foglalkoztatottja, segítő családtagja felelősségének megállapítását;
+f) kezdeményezi a szolgáltató vezetője vagy a jogsértésért felelős foglalkoztatottja felelősségének megállapítását;
 
 g) kezdeményezi a szolgáltató vezetője vezetői jogkörének a jogsértés megszüntetéséig történő felfüggesztését vagy visszavonását;
 
@@ -36,13 +36,13 @@ i) az 1. § (1) bekezdés a)–e) pontjában meghatározott szolgáltatók eset�
 
 j) kötelezi a szolgáltatót határidő tűzésével az alkalmazottak (vezetők) szakmai továbbképzésére vagy megfelelő szakmai ismeretekkel rendelkező alkalmazottak (vezetők) felvételére;
 
-k) az 1. § (1) bekezdés a–e) pontjában meghatározott szolgáltatók esetében előírhatja rendkívüli adatszolgáltatási kötelezettség teljesítését;
+k) az 1. § (1) bekezdés a)–r) pontjában meghatározott szolgáltatók esetében előírhatja rendkívüli adatszolgáltatási kötelezettség teljesítését;
 
-l) az 1. § (1) bekezdés a)–e), n) és o) pontjában meghatározott szolgáltató jogsértésért felelős vezetőjét, foglalkoztatottját, segítő családtagját
+l) az 1. § (1) bekezdés a)–e), n) és o) pontjában meghatározott szolgáltató jogsértésért felelős vezetőjét és foglalkoztatottját
 
 la) figyelmeztetheti,
 
-lb) vezető állású személy esetében százezer forinttól legfeljebb ötszázmillió forintig terjedő, a szolgáltató által át nem vállalható pénzbírsággal, foglalkoztatott, segítő családtag esetében pedig húszezer forinttól legfeljebb húszmillió forintig terjedő, a szolgáltató által át nem vállalható pénzbírsággal sújthatja.
+lb) vezető állású személy esetében százezer forinttól legfeljebb ötszázmillió forintig terjedő, a szolgáltató által át nem vállalható pénzbírsággal, foglalkoztatott esetében pedig húszezer forinttól legfeljebb húszmillió forintig terjedő, a szolgáltató által át nem vállalható pénzbírsággal sújthatja.
 
 (1a) A bírság mértékét az (1) bekezdés h) pont ha), hb) és hd) alpont szerint meghatározott magasabb összegű bírsághatárra figyelemmel kell megállapítani.
 
@@ -68,6 +68,6 @@ g) a szabályszegéssel vagy mulasztással előidézett kockázatra.
 
 (5) Az (1) bekezdés l) pontjában foglalt intézkedés mellett a szolgáltatóval szemben az (1) bekezdésben meghatározott intézkedést kell alkalmazni abban az esetben is, ha a szolgáltató jogi személy vagy jogi személyiséggel nem rendelkező szervezet, és a szolgáltató vezetője a szolgáltató javára sérti meg e törvény rendelkezéseit.
 
-(6) Az (1) bekezdés l) pontjában foglalt intézkedés mellett a szolgáltatóval szemben az (1) bekezdésben meghatározott intézkedést kell alkalmazni abban az esetben is, ha a szolgáltató jogi személy vagy jogi személyiséggel nem rendelkező szervezet, és a szolgáltató foglalkoztatottja vagy segítő családtagja a szolgáltató javára sérti meg e törvény rendelkezéseit úgy, hogy a szolgáltató vezetője felügyeleti vagy ellenőrzési kötelezettségének a teljesítése a jogsértést megakadályozhatta volna.
+(6) Az (1) bekezdés l) pontjában foglalt intézkedés mellett a szolgáltatóval szemben az (1) bekezdésben meghatározott intézkedést kell alkalmazni abban az esetben is, ha a szolgáltató jogi személy vagy jogi személyiséggel nem rendelkező szervezet, és a szolgáltató foglalkoztatottja a szolgáltató javára sérti meg e törvény rendelkezéseit úgy, hogy a szolgáltató vezetője felügyeleti vagy ellenőrzési kötelezettségének a teljesítése a jogsértést megakadályozhatta volna.
 
 (7) Az (1) bekezdés h) pontja szerint kiszabott pénzbírságot a közléstől számított harminc napon belül kell megfizetni. A szolgáltató kérelmére a felügyeletet ellátó szerv a pénzfizetési kötelezettség teljesítésére halasztást, illetve részletekben történő teljesítést (a továbbiakban: fizetési kedvezmény) is megállapíthat. A pénzbírság megfizetésére kötelezett szolgáltató a határozat közlésétől számított öt napon belül benyújtott kérelmében kérheti a fizetési kedvezmény engedélyezését abban az esetben, ha rajta kívül álló ok lehetetlenné teszi a határidőre való teljesítést, vagy az számára aránytalan nehézséget jelentene. A feltételek meglétét a szolgáltatónak hitelt érdemlően, dokumentumokkal alátámasztva igazolnia kell.

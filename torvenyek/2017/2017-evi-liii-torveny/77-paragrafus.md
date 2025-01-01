@@ -1,6 +1,10 @@
 ## 20. Záró rendelkezések
 
-77. § (1) Felhatalmazást kap a miniszter arra, hogy rendeletben állapítsa meg a belső szabályzat kötelező tartalmi elemeit, valamint a vagyon forrására vonatkozó nyilatkozat kötelező tartalmi elemeit.
+77. § (1) Felhatalmazást kap a miniszter arra, hogy rendeletben állapítsa meg
+
+a) a belső szabályzat kötelező tartalmi elemeit, valamint a vagyon forrására vonatkozó nyilatkozat kötelező tartalmi elemeit,
+
+b) a nemzeti kockázatértékelés elkészítése és annak felülvizsgálata érdekében teljesítendő adatszolgáltatási kötelezettségeket.
 
 (2) Felhatalmazást kap a miniszter arra, hogy rendeletben állapítsa meg az 1. § (1) bekezdés f), h), j), k) és n)–r) pontjában meghatározott szolgáltatók tekintetében
 
@@ -21,6 +25,8 @@ g) a képzési programra,
 h) az ügylet felfüggesztésére
 
 i) a tényleges tulajdonos kilétének, valamint az ügyfél tulajdonosi és irányítási szerkezetének megértése és megállapítása érdekében megteendő intézkedésekre.
+
+j) az ügyfél és a tényleges tulajdonos vonatkozásában a kiemelt közszereplői minőség megállapításával kapcsolatos kockázatkezelési rendszer kialakítására
 
 vonatkozó részletszabályokat.
 
@@ -48,6 +54,8 @@ j) a külső ellenőrzési funkció szakmai követelményeire és igénybevétel
 
 k) a szolgáltató által az üzleti kapcsolat jellegének és céljának megállapítása érdekében tett intézkedésekre
 
+l) az ügyfél és a tényleges tulajdonos vonatkozásában kiemelt közszereplői minőség megállapításával kapcsolatos kockázatkezelési rendszer kialakítására
+
 vonatkozó részletszabályokat.
 
 (3a) Felhatalmazást kap a Szabályozott Tevékenységek Felügyeleti Hatóságának elnöke, hogy rendeletben állapítsa meg az 1. § (1) bekezdés i) pontjában meghatározott szolgáltatók tekintetében
@@ -62,11 +70,13 @@ d) az auditált elektronikus hírközlő eszköz és működtetésének minimumk
 
 e) a megerősített eljárás esetköreire és feltételrendszerére,
 
-f) a kockázatérzékenységi megközelítés alapján üzleti kapcsolat létesítéséhez vagy ügyleti megbízás teljesítéséhez a kijelölt felelős vezető döntését igénylő esetek meghatározására és e döntések meghozatalára,
+f) a kijelölt felelős vezető és a megfelelési vezető kijelölésére és helyettesítésére, valamint a kockázatérzékenységi megközelítés alapján üzleti kapcsolat létesítéséhez vagy ügyleti megbízás teljesítéséhez a kijelölt felelős vezető döntését igénylő esetek meghatározására és e döntések meghozatalára,
 
 g) a képzési programra,
 
 h) az ügylet felfüggesztésére
+
+i) az ügyfél és a tényleges tulajdonos vonatkozásában kiemelt közszereplői minőség megállapításával kapcsolatos kockázatkezelési rendszer kialakítására
 
 vonatkozó részletszabályokat.
 

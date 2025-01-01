@@ -1,4 +1,4 @@
-31. § (1) A szolgáltató köteles kijelölni – a szervezet sajátosságától, különösen annak méretétől és a vezetői szintek számától függően – egy vagy több személyt (a továbbiakban: kijelölt személy), aki a szolgáltató vezetőjétől, foglalkoztatottjától és segítő családtagjától érkező bejelentést a pénzügyi információs egységnek haladéktalanul továbbítja. A kijelölt személy a szolgáltató vezetője, alkalmazottja vagy segítő családtagja lehet.
+31. § (1) A szolgáltató köteles kijelölni – a szervezet sajátosságától, különösen annak méretétől és a vezetői szintek számától függően – egy vagy több személyt (a továbbiakban: kijelölt személy), aki a szolgáltató vezetőjétől és foglalkoztatottjától érkező bejelentést a pénzügyi információs egységnek haladéktalanul továbbítja. A kijelölt személy a szolgáltató vezetője és alkalmazottja lehet.
 
 (2) A szolgáltató a kijelölt személy nevéről, beosztásáról, elérhetőségéről a tevékenysége megkezdésének időpontjától, valamint az ezekben bekövetkezett változásról a változástól számított öt munkanapon belül köteles tájékoztatni a pénzügyi információs egységet.
 
