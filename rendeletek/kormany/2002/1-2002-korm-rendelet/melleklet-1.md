@@ -2,7 +2,7 @@
 
 1. számú melléklet az 1/2002. (I. 11.) Korm. rendelethez[^27]
 
-Ellenőrzési jegyzék (a 2004/12/EK irányelvvel módosított 95/50/EK irányelv szerint)
+Ellenőrzési jegyzék (a 2022/1999 európai parlamenti és tanácsi irányelv)[^28]
 
 | 1. Az ellenőrzés helye: 2. Az ellenőrzés napja: 3. Az ellenőrzés időpontja: |
 
@@ -83,4 +83,5 @@ Ellenőrzési jegyzék (a 2004/12/EK irányelvvel módosított 95/50/EK irányel
 (3) Szemmel látható szabálytalanságok ellenőrzése.
 
 [^26]: A 9. §-t a 246/2016. (VIII. 17.) Korm. rendelet 2. §-a iktatta be.
-[^27]: Az 1. számú melléklet a 24/2006. (II. 3.) Korm. rendelet 3. §-ával megállapított és a Magyar Közlöny 2006. évi 18. számában megjelent helyesbítésnek megfelelő szöveg.
+[^27]: Az 1. számú melléklet a 24/2006. (II. 3.) Korm. rendelet 3. §-ával megállapított és a Magyar Közlöny 2006. évi 18. számában megjelent helyesbítésnek megfelelő szöveg. [Az 1. számú mellékletben a 340/2024. (XI. 14.) Korm. rendelet 5. §-a által elrendelt módosítás, amely szerint az „a 2004/12/EK irányelvvel módosított 95/50/EK irányelv szerint” szövegrész helyébe az „a 2022/1999 európai parlamenti és tanácsi irányelv” szöveg lép, nem vezethető át.]
+[^28]: Az 1. számú melléklet címe a 340/2024. (XI. 14.) Korm. rendelet 5. §-a szerint módosított szöveg.

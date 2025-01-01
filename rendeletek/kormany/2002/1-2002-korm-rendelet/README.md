@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-1-20-22
 | 2017-01-13 | 2002-1-20-22.12 | 372/2016. (XI. 29.) Korm. rendelet |
 | 2021-04-02 | 2002-1-20-22.13 | 66/2021. (II. 16.) Korm. rendelet |
 | 2023-04-10 | 2002-1-20-22.14 | 116/2023. (IV. 5.) Korm. rendelet |
+| 2025-01-01 | 2002-1-20-22.15 | 340/2024. (XI. 14.) Korm. rendelet |

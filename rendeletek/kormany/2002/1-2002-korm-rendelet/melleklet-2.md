@@ -1,4 +1,4 @@
-2. számú melléklet az 1/2002. (I. 11.) Korm. rendelethez[^28]
+2. számú melléklet az 1/2002. (I. 11.) Korm. rendelethez[^29]
 
 Szabálytalanságok
 
@@ -96,4 +96,4 @@ III. kockázati kategória
 
 3. Az oktatási bizonyítvány nincs a járművön, de bizonyíték van rá, hogy a járművezető rendelkezik vele.
 
-[^28]: A 2. számú melléklet a 24/2006. (II. 3.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^29]: A 2. számú melléklet a 24/2006. (II. 3.) Korm. rendelet 3. §-ával megállapított szöveg.
