@@ -11,3 +11,7 @@
 4. légi utas: az az utas, aki utazását légi közlekedésben teszi meg, ide nem értve a magánjellegű, kedvtelési célú légi közlekedést;
 
 5. magánjellegű, kedvtelési célú légi közlekedés: az a légi közlekedés, amelynek során az utas olyan légi közlekedési eszközt használ akár annak tulajdonosaként, akár – vele vagy harmadik személlyel kötött – bérlet vagy egyéb, használati jogot biztosító jogcímen, amely nem kereskedelmi (így különösen nem: ellenérték fejében személyek szállítását, termékek fuvarozását vagy egyéb szolgáltatások nyújtását) célokat szolgál, vagy nem hatósági szükségleteket elégít ki.
+
+6. határövezet: olyan övezet, amely légvonalban 15 km-nél nem terjed messzebb egy tagállam határától, és amelybe beletartoznak azok a helyi közigazgatási körzetek, amelyek területe részben az övezetben helyezkedik el;
+
+7. határövezetben dolgozó munkavállaló: minden olyan személy, akinek szokásos tevékenysége szükségessé teszi, hogy munkanapján átjusson a határ túloldalára.

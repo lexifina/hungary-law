@@ -22,6 +22,8 @@ ah) a füst nélküli dohányterméknél légi utas esetében a 125 grammot, egy
 
 ai) a dohányzást helyettesítő nikotintartalmú terméknél légi utas esetében a 125 grammot, egyéb utas esetében a 25 grammot;
 
+aj) hevített terméknél légi utas esetében a 200 darabot, egyéb utas esetében a 40 darabot;
+
 b) alkoholtermékek és egyéb – ide nem értve a szőlőbort és a sört – alkoholtartalmú italok körében:
 
 ba) 22 térfogatszázaléknál nagyobb alkoholtartalmú alkoholterméknél vagy legalább 80 térfogatszázalék alkoholtartalmú nem denaturált alkoholterméknél összesen az 1 litert,
@@ -36,9 +38,9 @@ e) üzemanyagnál a belföldre érkező gépjármű szabványos üzemanyagtartá
 
 [a)–e) pontok a továbbiakban együtt: adómentességi mennyiséghatár].
 
-(2) Az (1) bekezdés a) pontjának aa)–ad) alpontjaiban meghatározott mennyiségi korlátok külön-külön jelentik a dohánytermékekre vonatkozó adómentességi mennyiséghatár 100 százalékát.
+(2) Az (1) bekezdés a) pontjának aa)–aj) alpontjában meghatározott mennyiségi korlátok külön-külön jelentik a dohánytermékekre vonatkozó adómentességi mennyiséghatár 100 százalékát.
 
-(3) A (2) bekezdéstől eltérően adómentes az (1) bekezdés a) pontjának aa)–ad) alpontjaiban meghatározott dohánytermékek vegyes importja, ha az egyes alpontokban meghatározott mennyiséghatárok szerinti százalékos részarányok együttes összege nem haladja meg a 100 százalékot.
+(3) A (2) bekezdéstől eltérően adómentes az (1) bekezdés a) pontjának aa)–aj) alpontjában meghatározott dohánytermékek vegyes importja, ha az egyes alpontokban meghatározott mennyiséghatárok szerinti százalékos részarányok együttes összege nem haladja meg a 100 százalékot.
 
 (4) Az (1) bekezdés b) pontjának ba) és bb) alpontjában meghatározott mennyiségi korlátok külön-külön jelentik az alkoholtermékekre és az egyéb – ide nem értve a szőlőbort és a sört – alkoholtartalmú italokra vonatkozó adómentességi mennyiséghatár 100 százalékát.
 
