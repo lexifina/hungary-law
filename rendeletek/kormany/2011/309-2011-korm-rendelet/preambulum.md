@@ -1,1 +1,0 @@
-A Kormány az Alkotmány 35. § (2) bekezdésében kapott eredeti jogalkotói hatáskörében, a 15. és 16. § tekintetében az elektronikus hírközlésről szóló 2003. évi C. törvény 182. § (1) bekezdés d) pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés c) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
