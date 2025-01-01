@@ -1,1 +1,0 @@
-## 9. § E rendelet 2006. január 1-jén lép hatályba, ezzel egyidejűleg a környezetvédelmi termékdíjról, továbbá egyes termékek környezetvédelmi termékdíjáról szóló 1995. évi LVI. törvény végrehajtásáról szóló 10/1995. (IX. 28.) KTM rendelet módosításáról szóló 26/2004. (XII. 22.) KvVM rendelet 1. és 5. §-a, valamint 3. számú melléklete hatályát veszti.
