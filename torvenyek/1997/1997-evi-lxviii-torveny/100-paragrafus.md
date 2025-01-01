@@ -8,7 +8,7 @@
 
 a) bírósági titkárnál a kinevezése előtt jogi képesítéshez kötött munkakörben a jogi szakvizsga letételének napjától számított időt,
 
-b) igazságügyi szakértő, szakértőjelölt és felsőfokú végzettségű tisztviselő esetén a korábbi munkaviszony, kormánytisztviselői, állami tisztviselői, köztisztviselői, kormányzati ügykezelői, állami ügykezelői, közszolgálati ügykezelői, egészségügyi szolgálati, köznevelési foglalkoztatotti, közalkalmazotti, hivatásos szolgálati jogviszony, adó- és vámhatósági szolgálati jogviszony, rendvédelmi igazgatási szolgálati jogviszony, honvédelmi alkalmazotti jogviszony, kormányzati szolgálati jogviszony és szolgálati jogviszony idejét,
+b) igazságügyi szakértő, szakértő gyakornok és felsőfokú végzettségű tisztviselő esetén a korábbi munkaviszony, kormánytisztviselői, állami tisztviselői, köztisztviselői, kormányzati ügykezelői, állami ügykezelői, közszolgálati ügykezelői, egészségügyi szolgálati, köznevelési foglalkoztatotti, közalkalmazotti, hivatásos szolgálati jogviszony, adó- és vámhatósági szolgálati jogviszony, rendvédelmi igazgatási szolgálati jogviszony, honvédelmi alkalmazotti jogviszony, kormányzati szolgálati jogviszony és szolgálati jogviszony idejét,
 
 c) az egyéb igazságügyi alkalmazottaknál a korábbi munkaviszony, kormánytisztviselői, állami tisztviselői, köztisztviselői, kormányzati ügykezelői, állami ügykezelői, közszolgálati ügykezelői, hivatásos szolgálati jogviszony, adó- és vámhatósági szolgálati jogviszony, rendvédelmi igazgatási szolgálati jogviszony, honvédelmi alkalmazotti jogviszony, egészségügyi szolgálati jogviszony, köznevelési foglalkoztatotti jogviszony, közalkalmazotti jogviszony, kormányzati szolgálati jogviszony és szolgálati jogviszony idejét.
 

@@ -16,7 +16,15 @@ igazságügyi alkalmazottainak szolgálati jogviszonyára (a továbbiakban: szol
 
 (3) A katonai tanácsokkal rendelkező bíróságokon igazságügyi alkalmazottként hivatásos szolgálati viszonyban álló katonák, az OBH-nál – honvédelmi és polgári védelmi feladatok ellátására – a Magyar Honvédség, illetve a rendvédelmi szervek hivatásos szolgálati viszonyban álló tagjai vezénylés alapján teljesíthetnek szolgálatot.
 
-(4) E törvény hatálya alá tartozó igazságügyi szakértő, valamint szakértőjelölt szolgálati viszonyára az igazságügyi szakértőkről szóló 2016. évi XXIX. törvénynek és az igazságügyi szakértőkről szóló jogszabályoknak a rendelkezéseit, a végrehajtási ügyintéző szolgálati viszonyára a bírósági végrehajtásról szóló 1994. évi LIII. törvénynek a rendelkezéseit is alkalmazni kell.
+(4) E törvény hatálya alá tartozó
+
+a) igazságügyi szakértő szolgálati viszonyára az igazságügyi szakértőkről szóló 2016. évi XXIX. törvénynek (a továbbiakban: Szaktv.) és az igazságügyi szakértőkről szóló jogszabályoknak a rendelkezéseit,
+
+b) szakértő gyakornok szolgálati viszonyára a Szaktv. 8. § (2) bekezdését, 17. § (3) bekezdését, valamint a 47. § (5) bekezdését,
+
+c) végrehajtási ügyintéző szolgálati viszonyára a bírósági végrehajtásról szóló 1994. évi LIII. törvénynek a rendelkezéseit
+
+is alkalmazni kell.
 
 (5) Az igazságügyi alkalmazottak szolgálati viszonyára más jogszabály rendelkezéseit akkor kell alkalmazni, ha azt e törvény elrendeli.
 

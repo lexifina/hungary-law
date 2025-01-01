@@ -1,6 +1,6 @@
 4. melléklet az 1997. évi LXVIII. törvényhez
 
-A II. fizetési osztály (bírósági fogalmazó, szakértőjelölt) fizetési fokozatai és az azokhoz tartozó alapilletmények alsó és felső határai
+A II. fizetési osztály (bírósági fogalmazó, szakértő gyakornok) fizetési fokozatai és az azokhoz tartozó alapilletmények alsó és felső határai
 
 1. Bírósági fogalmazó
 
@@ -122,7 +122,7 @@ szorzószáma
 
 0,83
 
-2. Szakértőjelölt
+2. Szakértő gyakornok
 
 |
 

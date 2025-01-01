@@ -4,9 +4,9 @@
 
 (3) Egyéb igazságügyi szervhez igazságügyi szakértővé az nevezhető ki, aki az e törvényben meghatározott feltételeknek megfelel és az igazságügyi szakértői tevékenységről szóló törvény szerint igazságügyi szakértő.
 
-(4) Szakértőjelöltnek a szakterületnek megfelelő egyetemi (főiskolai) végzettséggel rendelkező személy nevezhető ki.
+(4) Szakértő gyakornoknak a szakterületnek megfelelő egyetemi (főiskolai) végzettséggel rendelkező személy nevezhető ki.
 
-(5) A bírósági fogalmazó, a bírósági titkár, az igazságügyi szakértő, a szakértőjelölt, a tisztviselő és az írnok a kinevezéstől számított két éven belül az igazságszolgáltatási ismeretekről is számot adó ügyviteli vizsgát tesz. A (7) bekezdés szerinti jogszabály meghatározott iskolai végzettségű tisztviselő részére a vizsga alól részben vagy egészben felmentést adhat.
+(5) A bírósági fogalmazó, a bírósági titkár, az igazságügyi szakértő, a szakértő gyakornok, a tisztviselő és az írnok a kinevezéstől számított két éven belül az igazságszolgáltatási ismeretekről is számot adó ügyviteli vizsgát tesz. A (7) bekezdés szerinti jogszabály meghatározott iskolai végzettségű tisztviselő részére a vizsga alól részben vagy egészben felmentést adhat.
 
 (6) A munkáltató a munkakörre előírt szakvizsga vagy egyéb vizsga megszerzésének feltétele alól kivételesen indokolt esetben – legfeljebb öt évre – halasztást engedélyezhet.
 
@@ -20,7 +20,7 @@ ab) az OBT képesítési követelményei esetében az OBT véleményének beszer
 
 b) egyéb igazságügyi szerv esetében – a c) pontban foglalt kivétellel – az a miniszter,
 
-c) az egyéb igazságügyi szerv igazságügyi szakértője és szakértőjelöltje esetében a miniszter az igazságügyért felelős miniszterrel egyetértésben
+c) az egyéb igazságügyi szerv igazságügyi szakértője és szakértő gyakornoka esetében a miniszter az igazságügyért felelős miniszterrel egyetértésben
 
 rendeletben határozza meg.
 

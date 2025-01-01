@@ -6,7 +6,7 @@ a) a bírósági fogalmazó és a bírósági titkár,
 
 b) a technikus,
 
-c) az igazságügyi szakértő és a szakértőjelölt,
+c) az igazságügyi szakértő és a szakértő gyakornok,
 
 d) a tisztviselő,
 
