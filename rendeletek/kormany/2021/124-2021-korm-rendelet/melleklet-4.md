@@ -14,6 +14,6 @@
 
 | 6 | A nem veszélyes hulladékkal kapcsolatos engedélyezési eljárásában a hulladékgazdálkodási tevékenység engedélyezése esetén (a kereskedelem és közvetítés kivételével). | Annak elbírálása, hogy a tevékenység vízellátása, a keletkező csapadék és szennyvíz elvezetése, valamint a szennyvíz tisztítása biztosított-e, a vízbázis védőterületére, védőidomára jogszabályban, illetve határozatban meghatározott előírások érvényesülnek-e, valamint a vizek lefolyására, az árvíz és a jég levonulására gyakorolt hatás vizsgálata. | Minden esetben. |
 
-4. melléklet a 124/2021. (III. 12.) Korm. rendelethez[^25]
+4. melléklet a 124/2021. (III. 12.) Korm. rendelethez[^26]
 
-[^25]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
