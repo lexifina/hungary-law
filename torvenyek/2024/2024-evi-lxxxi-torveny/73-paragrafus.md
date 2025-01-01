@@ -1,1 +1,3 @@
-### 73. §
+73. § A személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény 37/A. §-a helyébe a következő rendelkezés lép:
+
+„37/A. § Az országos, regionális vagy elővárosi közúti vagy helyi menetrend szerinti személyszállítási szolgáltatást vagy a menetrend szerinti vízi személyszállítási szolgáltatást végző közlekedési szolgáltató munkavállalói és jogszabályban meghatározott igényjogosultjai számára az alkalmazott menetdíjakból díjkedvezményt nyújthat. A közlekedésszervező és az 5. § (6) bekezdése szerinti szervezet 5. § (6) bekezdés a)–d) pontjában meghatározott feladatokat ellátó munkavállalóját a menetkedvezmények szempontjából a személyszállítási közszolgáltatást végző közlekedési szolgáltató munkavállalójának kell tekinteni.”

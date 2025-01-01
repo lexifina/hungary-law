@@ -1,1 +1,3 @@
-### 48. §
+48. § A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény 27. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A nem pályaműködtető vagyonkezelő az MNV Zrt.-vel megkötött vagyonkezelési szerződés alapján a pályahálózat használatát és hasznosítási jogát a pályahálózat-működtetőnek – a hasznosítási jog átengedésére, fejlesztési, felújítási és karbantartási feladatok ellátására vonatkozó szerződés keretében – ingyenesen átengedi. A nem pályaműködtető vagyonkezelő – a 26. § (1) bekezdés e) pontjában meghatározott vagyonkezelő kivételével – a vagyonkezelt vagyonra vonatkozó indokolt költségeit és ráfordításait a pályahálózat-működtetőre átháríthatja.”
