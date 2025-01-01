@@ -8,7 +8,7 @@ c) igazságügyi szakértői intézmény és igazságügyi szakértői intézet,
 
 d) igazságügyi szakértői testület,
 
-e) külön jogszabályban feljogosított állami szerv, intézmény, intézet és szervezet (a továbbiakban együtt: szervezet) és
+e) állami szerv, intézmény, intézet, költségvetési kutatóhely, szervezet, valamint Magyar Mérnöki Kamara, Magyar Építész Kamara (a továbbiakban együtt: szervezet),
 
 f) külön törvény szerinti Teljesítésigazolási Szakértői Szerv
 
@@ -44,7 +44,11 @@ b) a szakvizsgához kötött tevékenység esetén a szakvizsgája szerinti szak
 
 c) kötelező kamarai tagsághoz kötött tevékenység esetén a kamarai jogosultsága szerinti szakterületen, vagy
 
-d) – ha a tevékenység az a)–c) pont szerinti feltételhez nem kötött – az adott szakterületen legalább tíz év szakmai gyakorlattal rendelkezik.
+d) – ha a tevékenység az a)–c) pont szerinti feltételhez nem kötött – az adott szakterületen legalább öt év szakmai gyakorlattal rendelkezik.
+
+(4c) Eseti szakértőként kirendelhető a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 1. mellékletében meghatározott, Magyarországon államilag elismert felsőoktatási intézmény, valamint jogszabály szerint nyilvántartásba vett doktori iskola (a továbbiakban együtt: felsőoktatási intézmény). A felsőoktatási intézmény azon, az igazságügyi szakértői szakterületekről, valamint az azokhoz kapcsolódó képesítési és egyéb szakmai feltételekről szóló rendeletben megjelölt szakterületen jogosult véleményt adni, amelyre vonatkozó képesítési feltételeket biztosító képzés a felsőoktatási intézményben folyamatban van vagy az Oktatási Hivatal által működtetett, jogszabályban meghatározott honlapon meghirdetésre került.
+
+(4d) A (4c) bekezdés szerint kirendelt felsőoktatási intézmény nevében a szakvéleményt a felsőoktatási intézmény vezetője által kijelölt, a szakterületen egyetemi doktori vagy tudományos fokozattal és a szakterületen szakmai jártassággal rendelkező alkalmazott adja.
 
 (5) Eseti szakértőként csak az járhat el, aki a 45. § (2) bekezdés n) pontja szerinti felhívásnak megfelelően nyilatkozik arról, hogy az igazságügyi szakértőkre vonatkozó fegyelmi követelményeknek aláveti magát. Az eseti szakértő jogaira és kötelezettségeire e törvény rendelkezéseit kell megfelelően alkalmazni.
 

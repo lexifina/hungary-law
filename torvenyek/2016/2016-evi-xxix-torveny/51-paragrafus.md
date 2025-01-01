@@ -1,11 +1,9 @@
-## 23. A kamarai költségátalány
+## 23. Képzési hozzájárulás
 
-51. § (1) A Kamarát az igazságügyi szakértői működéssel kapcsolatos közfeladatai, továbbá jogszabály által a Kamara hatáskörébe utalt, egyéb feladatok ellátásának érdekében a szakértő által készített szakvélemény elkészítése után járó kamarai költségátalány illeti meg. E § rendelkezéseit az eseti szakértő eljárására is alkalmazni kell.
+51. § (1) A névjegyzéket vezető hatóságot az igazságügyi szakértői működéssel kapcsolatos feladatainak ellátása, az ezzel összefüggő igazgatási és nyilvántartási tevékenységének végzése, a szakértők továbbképzése, továbbá jogszabály által a hatáskörébe utalt, egyéb feladatok ellátása érdekében a szakértő által készített szakvélemény elkészítése után járó képzési hozzájárulás illeti meg. E § rendelkezéseit az eseti szakértő eljárására is alkalmazni kell.
 
-(2) A szakértő díjjegyzékében feltüntetett kamarai költségátalányt a szakértő részére kell megfizetni. A szakértő köteles a Kamarának jelezni, ha részére a kamarai költségátalányt nem fizették meg. A kamarai költségátalány nem része a szakértő bevételének, azt a szakértő befizeti vagy átutalja a Kamarának.
+(2) A szakértő díjjegyzékében feltüntetett képzési hozzájárulást a névjegyzéket vezető hatóság részére kell megfizetni. A kirendelő szerv köteles a névjegyzéket vezető hatóságnak jelezni, ha részére a képzési hozzájárulást nem fizették meg. A képzési hozzájárulás nem része a szakértő bevételének, azt a kirendelő szerv átutalja a névjegyzéket vezető hatóság részére.
 
-(3) Amennyiben a szakértő részére a kamarai költségátalányt nem fizetik meg vagy a szakértő a kamarai költségátalányt nem fizeti be, illetve nem utalja át a Kamarának, a tartozás adók módjára behajtandó köztartozásnak minősül.
+(3) Amennyiben a kirendelő szerv a képzési hozzájárulást nem utalja át a névjegyzéket vezető hatóságnak, a tartozás adók módjára behajtandó köztartozásnak minősül.
 
-(4) A kamarai költségátalányt a szakértő a negyedéves statisztikai adatszolgáltatással egyidejűleg fizeti be vagy utalja át a Kamara részére.
-
-(5) A kamarai költségátalány mértékét, bevallásának és megfizetésének részletes szabályait a miniszter rendeletben határozza meg.
+(4) A képzési hozzájárulás mértékét, bevallásának és megfizetésének részletes szabályait a miniszter rendeletben határozza meg.

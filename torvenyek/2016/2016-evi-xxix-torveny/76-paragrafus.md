@@ -12,7 +12,7 @@ e) előkészíti és elfogadja a Kamara szakmai iránymutatásait,
 
 f) előkészíti és a küldöttgyűlés elé terjeszti a kamarai tagdíj mértékéről, a Kamara által nyújtott szolgáltatásokért fizetendő egyéb hozzájárulások mértékéről, a kamarai tagdíj alóli részleges vagy teljes mentesülésről szóló szabályzatot,
 
-g) előkészíti és elfogadja a szakértőjelölti igazolvány kiadásáról és külalakjáról szóló szabályzatot, a szakértőjelöltek kötelező képzéseiről és számonkéréseiről, különösen a szakértés alapismeretéről szóló elméleti képzésről szóló szabályzatot, a szakértőjelöltet foglalkoztató mentorokat megillető kedvezményeket és egyéb juttatásokat előíró szabályzatot, a szakértőjelöltekkel kapcsolatos egyéb szabályzatokat, valamint a módszertani levél kiadásának részletes szabályairól szóló szabályzatot,
+g) előkészíti és elfogadja a módszertani levél kiadásának részletes szabályairól szóló szabályzatot,
 
 h) előkészíti és a küldöttgyűlés elé terjeszti a fegyelmi eljárási szabályzatot, az igazságügyi szakértők etikai kódexét,
 

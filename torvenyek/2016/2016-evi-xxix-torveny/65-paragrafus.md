@@ -16,6 +16,6 @@ a) megtartsa az alapszabályban és a Kamara egyéb szabályzatában foglaltakat
 
 b) megfizesse a kamarai tagdíjat és
 
-c) részt vegyen a Kamara által szervezett – az alapszabályban előírt – szakmai képzéseken.
+c) részt vegyen a miniszter által szervezett – jogszabályban előírt – szakmai képzéseken.
 
 (3) Az e törvény szerinti kamarai tagság nem zárja ki, hogy az igazságügyi szakértő más szakmai kamara tagja is legyen.

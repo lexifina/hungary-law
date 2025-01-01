@@ -18,7 +18,7 @@ e) a szakvélemény megszerkesztése a jogszabályoknak és a releváns szakmai 
 
 f) az igazságügyi szakértő a rá vonatkozó továbbképzési követelményeknek eleget tett-e, valamint azok eredményeit a szakmai tevékenységébe megfelelően integrálta-e,
 
-g) az igazságügyi szakértő munkája során segédszemélyzet, szakkonzultáns, illetve szakértőjelölt közreműködését igénybe vette-e és
+g) az igazságügyi szakértő munkája során segédszemélyzet, szakkonzultáns közreműködését igénybe vette-e és
 
 h) az igazságügyi szakértőre vonatkozó jogszabályi előírásoknak, kamarai és egyéb szakmai szabályzatoknak az adott szakterületen kiadott szakértői módszertani leveleknek (a továbbiakban: módszertani levél) az igazságügyi szakértő eljárása megfelelt-e.
 

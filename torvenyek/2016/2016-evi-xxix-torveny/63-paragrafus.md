@@ -2,9 +2,9 @@
 
 63. § (1) A Kamara az általános közigazgatási rendtartásról szóló törvény szerinti közigazgatási hatóságként jár el – az e §-ban foglalt kiegészítésekkel és eltérésekkel – a következő ügyekben:
 
-a) felvétel a szakértőjelölti nyilvántartásba, törlés a nyilvántartásból,
+a)
 
-b) szakértőjelölti igazolvány kiállítása,
+b)
 
 c) kamarai tagdíj meg nem fizetése miatt a kamarai tagság megszüntetése,
 

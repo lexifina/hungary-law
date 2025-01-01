@@ -2,7 +2,7 @@
 
 a) az igazságügyi szakértők által a Kamara részére fizetett tagdíj,
 
-b) a kamarai költségátalány,
+b)
 
 c) a hatósági feladatai ellátásával összefüggésben beszedett igazgatási szolgáltatási díj, valamint
 

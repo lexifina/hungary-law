@@ -12,7 +12,7 @@ A szakértői nyilvántartás tartalma
 
 5. társaság, igazságügyi szakértői intézmény vagy igazságügyi szakértői testület kirendelése esetén a szakvélemény adására kijelölt igazságügyi szakértő vagy eseti bizottság tagjainak neve,
 
-6. az ügyben részt vevő szakértőjelölt neve,
+6.
 
 7. a kirendelés elfogadása esetén:
 

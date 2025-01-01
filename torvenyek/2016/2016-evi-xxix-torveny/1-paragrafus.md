@@ -10,7 +10,7 @@
 
 a) az igazságügyi szakértői tevékenységre,
 
-b) az igazságügyi szakértőkre és a szakértőjelöltekre, az eseti szakértőkre, a szakkonzultánsra és a segédszemélyzetre,
+b) az igazságügyi szakértőkre és az eseti szakértőkre, a szakkonzultánsra és a segédszemélyzetre,
 
 c) az igazságügyi szakértői névjegyzékbe (a továbbiakban: névjegyzék) bejegyzett gazdasági társaságokra, a szolgáltatókra,
 

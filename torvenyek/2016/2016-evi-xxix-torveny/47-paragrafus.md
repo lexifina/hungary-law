@@ -2,7 +2,7 @@
 
 47. § (1) A szakértő a szakvélemény szakmai megállapításaival összefüggésben nem utasítható.
 
-(2) A szakértő a szakvéleményt – a kirendelésben foglaltaknak megfelelően – írásban vagy szóban terjeszti elő. A szakvélemény papír alapon vagy elektronikus kapcsolattartás keretében kézbesíthető a hatóság részére.
+(2) A szakértő a szakvéleményt – a kirendelésben foglaltaknak megfelelően – írásban vagy szóban terjeszti elő. A szakvélemény írásban történő előterjesztése esetén – ha törvény eltérően nem rendelkezik – a 44. § (2) bekezdésben foglaltaknak megfelelően elektronikus kapcsolattartás keretében kézbesíti a hatóság részére.
 
 (3) Az elektronikus úton való kapcsolattartásra a Dáptv. rendelkezéseit kell alkalmazni.
 
@@ -22,7 +22,7 @@ f) a módszertani levélre történő utalást, illetve a módszertani levélben
 
 g) az arra való utalást, hogy az igazságügyi szakértő mely szakterületen jogosult szakvéleményt adni illetve, hogy az igazságügyi szakértő vagy más személy eseti szakértőként járt el.
 
-(5) Szakkonzultáns, szakértőjelölt vagy segédszemélyzet igénybevétele esetén a szakvéleményben a hatóságot erről tájékoztatni kell, továbbá fel kell tüntetni, hogy a szakkonzultáns milyen szakkérdésben nyilvánított véleményt, valamint a szakértőjelölt miként működött közre.
+(5) Szakkonzultáns vagy segédszemélyzet igénybevétele esetén a szakvéleményben a hatóságot erről tájékoztatni kell, továbbá fel kell tüntetni, hogy a szakkonzultáns milyen szakkérdésben nyilvánított véleményt.
 
 (6) A szakvéleményben jogkérdésben – ha jogszabály eltérően nem rendelkezik – nem lehet állást foglalni.
 

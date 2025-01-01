@@ -8,13 +8,13 @@ c) megalkotja az alapszabályát,
 
 d) véleményezési jogot gyakorol a szakértői tevékenységet érintő jogszabályok megalkotásánál,
 
-e) szervezi az igazságügyi szakértők, szakértőjelöltek szakértői munkával összefüggő szakmai továbbképzését, ennek során együttműködik a szakmai, civil szervezetekkel, más szakmai kamarákkal,
+e)
 
 f) megalkotja a fegyelmi eljárási szabályzatot, az igazságügyi szakértők etikai kódexét, továbbá e törvényben meghatározott esetekben az igazságügyi szakértővel szemben fegyelmi eljárást folytat le, nyilvántartja a jogerős fegyelmi határozatokat,
 
 g) az igazságügyi szakértői tevékenységre vonatkozó szakmai iránymutatást ad ki,
 
-h) nyilvántartást vezet a szakértőjelöltekről, igazolja a szakértőjelöltek gyakorlatát, előírja a szakértőjelöltekre vonatkozó kötelező képzési és vizsgakövetelményeket, valamint kiállítja a szakértőjelöltek igazolványát,
+h)
 
 i) rendszeresen értékeli az igazságügyi szakértő szakmai tevékenységét,
 
@@ -22,4 +22,4 @@ j) törvényben meghatározott esetekben kezdeményezi az igazságügyi szakért
 
 k) a szakértők által beküldött statisztikai adatokat gyűjti és feldolgozza.
 
-(2) A Kamara a feladatellátásának érdekében jogosult az igazságügyi szakértők 11. § (4) bekezdése alapján átvett személyes adatait, valamint a szakértőjelöltek 3. melléklet szerinti személyes adatait kezelni.
+(2) A Kamara a feladatellátásának érdekében jogosult az igazságügyi szakértők 11. § (4) bekezdése alapján átvett személyes adatait kezelni.

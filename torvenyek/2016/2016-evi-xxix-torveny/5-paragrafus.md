@@ -10,9 +10,9 @@ b) a kérelmében megjelölt szakterületen
 
 ba) az igazságügyi szakértői tevékenység folytatásához meghatározott vagy azzal egyenértékű képesítéssel és
 
-bb) – ha jogszabály eltérően nem rendelkezik – a képesítés megszerzésétől számított, legalább ötéves szakirányú szakmai gyakorlattal rendelkezik,
+bb) – ha jogszabály eltérően nem rendelkezik – a képesítés megszerzésétől számított, legalább kétéves szakirányú szakmai gyakorlattal, vagy az adott szakterületen egyetemi doktori vagy tudományos fokozattal rendelkezik,
 
-c) az 57. § (1) bekezdésben meghatározott kötelező szakértőjelölti jelölti időt vagy szakértőjelöltként kötelező szakmai közreműködőként elvégzett ügyszámot, továbbá a Kamara által külön szabályzatban előírt képzési és vizsgafeltételeket teljesítette,
+c)
 
 d) a miniszter által szervezett igazságügyi szakértői tevékenység végzéséhez szükséges jogi ismeretek oktatásán részt vett és a jogi vizsgát – a miniszter rendeletében meghatározott mentesülés esetét kivéve – sikeresen letette,
 
@@ -21,6 +21,32 @@ e) a szakterületén működő szakmai kamara tagja, ha a tevékenység folytat�
 f) kötelezettséget vállal arra, hogy a hatósági kirendelésnek – jogszabályban meghatározott eseteket kivéve – eleget tesz, és
 
 g) nem áll cselekvőképességet érintő gondnokság, támogatott döntéshozatal vagy közügyektől eltiltás hatálya alatt.
+
+(2a) A névjegyzéket vezető hatóság kérelemre névjegyzékbe veszi a jogszabályban meghatározott
+
+a) tűzvédelmi,
+
+b) munkabiztonsági,
+
+c) agrárgazdasági és agrárvidék-fejlesztési,
+
+d) közlekedési,
+
+e) ipari,
+
+f) környezetvédelmi, természetvédelmi, vízügyi és tájvédelmi,
+
+g) építésügyi műszaki,
+
+h) településrendezési,
+
+i) műemléki
+
+szakértői névjegyzékbe az igazságügyi szakterületnek megfelelő szakterületen érvényesen bejegyzett (a továbbiakban: ágazati szakértői jogosultság) szakértőt.
+
+(2b) A (2a) bekezdés szerinti kérelmező nyilatkozik arról, hogy ágazati szakértői jogosultsággal rendelkezik. A névjegyzéket vezető hatóság az e törvényben, valamint az egyes szakterületekhez kapcsolódó képesítési és egyéb szakmai feltételeket meghatározó miniszteri rendeletben foglalt képzési követelményeket nem vizsgálja.
+
+(2c) A névjegyzéket vezető hatóság a kérelmező (2a) bekezdés szerinti ágazati szakértői jogosultságát hivatalból ellenőrzi az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 36. § (2) bekezdésében foglaltak szerint.
 
 (3) Nem vehető fel a névjegyzékbe az,
 

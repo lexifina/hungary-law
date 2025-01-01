@@ -30,15 +30,15 @@ rendeletben határozza meg.
 
 (2) Felhatalmazást kap a miniszter, hogy
 
-a) az igazságügyi szakértői szakterületeket, az igazságügyi szakértők szakterületének besorolását és a szakterületekhez kapcsolódó képesítési és egyéb szakmai feltételeket, a kötelező szakértőjelölti idő vagy ügyszám mértékét, a képesítés egyenértékűségére vonatkozó feltételeket, az egyes szakterületek esetében a névjegyzékbe-vételi eljárás során figyelembe vehető szakértőjelölti szakmai gyakorlati tapasztalatra, rövidebb kötelező szakmai gyakorlat időtartamára, tudományos fokozatra, képesítésre és ágazati szakértői jogosultságra, ezek igazolására, valamint a névjegyzékbe bejegyzett igazságügyi szakértő esetében a feltételek alóli mentesülésre vonatkozó feltételeket,
+a) az igazságügyi szakértői szakterületeket, az igazságügyi szakértők szakterületének besorolását és a szakterületekhez kapcsolódó képesítési és egyéb szakmai feltételeket, a képesítés egyenértékűségére vonatkozó feltételeket, az egyes szakterületek esetében a névjegyzékbe vételi eljárás során figyelembe vehető kötelező szakmai gyakorlat időtartamára, tudományos fokozatra, képesítésre és ágazati szakértői jogosultságra, ezek igazolására, valamint a névjegyzékbe bejegyzett igazságügyi szakértő esetében a feltételek alóli mentesülésre vonatkozó feltételeket,
 
-b)
+b) az igazságügyi szakértők szakértői munkával összefüggő rendszeres szakmai továbbképzés szervezésére, a szakmai továbbképzés lebonyolítására, és az előírt képzési kötelezettség teljesítésének kreditpontokkal történő igazolására vonatkozó szabályokat,
 
 c) az igazságügyi szakértő által vezetett adattovábbítási nyilvántartás adattartalmára vonatkozó szabályokat,
 
 d) az államháztartásért felelős miniszterrel egyetértésben az igazságügyi szakértői tevékenységet végzők díjazására, munkadíjára és költségeire, ezen belül különösen az egy órára felszámítható munkadíj, tételes munkadíj összegét; tételes költségelszámolás hiányában a felszámítható költségátalány mértékét, valamint a szakkonzultáns és a segédszemélyzet munkadíjára vonatkozó szabályokat,
 
-e) a kamarai költségátalány mértékét, bevallásának és megfizetésének részletes szabályait,
+e) a képzési hozzájárulás mértékét, bevallásának és megfizetésének részletes szabályait,
 
 f) az igazságügyi szakértők jogi oktatására és vizsgájára, az oktatás és a vizsga lebonyolítására és díjára, az oktatáson való részvétel szabályaira, a vizsga alóli mentesség eseteire és igazolásának szabályaira, valamint az oktatáson való részvétel és a vizsga letételének igazolására vonatkozó szabályokat,
 
@@ -50,11 +50,11 @@ i) a szakértő eljárására, a szakvéleményre, a szakértői vizsgálatra é
 
 j) az igazságügyi szakértők értékelésére vonatkozó részletes szabályokat, valamint az igazságügyi szakértő által kért értékeléssel összefüggésben megfizetendő díjra vonatkozó szabályokat,
 
-k) az igazságügyi szakértői és szakértőjelölti igazolványra vonatkozó részletes szabályokat,
+k) az igazságügyi szakértői igazolványra vonatkozó részletes szabályokat,
 
 l)
 
-m) az adópolitikáért felelős miniszterrel egyetértésben a kamarai tagság szünetelésének engedélyezése iránti eljárás és a szakértőjelölti igazolvány kiállítása iránti eljárás igazgatási szolgáltatási díjának összegére, befizetésére, visszatérítésére és nyilvántartására vonatkozó részletes szabályokat és
+m) az adópolitikáért felelős miniszterrel egyetértésben a kamarai tagság szünetelésének engedélyezése iránti eljárás igazgatási szolgáltatási díjának összegére, befizetésére, visszatérítésére és nyilvántartására vonatkozó részletes szabályokat és
 
 n) a szakértő statisztikai adatszolgáltatására vonatkozó szabályokat
 

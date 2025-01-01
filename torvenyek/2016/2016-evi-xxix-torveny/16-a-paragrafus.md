@@ -1,0 +1,1 @@
+16/A. § Az igazságügyi szakértőnek, valamint az igazságügyi szakértői névjegyzékbe való felvétel iránti kérelmet benyújtónak a miniszter által szervezett képzés, oktatás és vizsga tekintetében történő kapcsolattartására a 44. § (2) bekezdésben foglalt rendelkezéseket kell alkalmazni.

@@ -1,18 +1,18 @@
 ## 35. A kamarai tagság felfüggesztése
 
-69. § (1) Az igazságügyi szakértő kamarai tagságát fel kell függeszteni, ha
+69. § (1) A Kamara az igazságügyi szakértő kamarai tagságát felfüggeszti, ha
 
 a) az igazságügyi szakértő ellen közvádra üldözendő szándékos bűncselekmény miatt emel vádat az ügyészség vagy
 
 b) a kötelező szakmai kamarai tagsággal rendelkező igazságügyi szakértő szakmai kamarai tagsága felfüggesztésre került.
 
-(1a) Az igazságügyi szakértőt 6 hónapra el kell tiltani a tevékenység végzésétől és egyúttal az eltiltás idejére kamarai tagságát fel kell függeszteni, ha az igazságügyi szakértő
+(1a) A névjegyzéket vezető hatóság az igazságügyi szakértőt 6 hónapra eltiltja a tevékenység végzésétől és egyúttal az eltiltás idejére kezdeményezi a Kamaránál a kamarai tagságának felfüggesztését, ha az igazságügyi szakértő
 
 a) a névjegyzékben szereplő adatok változását, a Kormány rendeletében meghatározott módon, felhívásra, a jogkövetkezményekre történő írásbeli figyelmeztetés után nem jelenti be,
 
-b) azon statisztikai adatokat, amelyeket e törvény alapján a Kamara részére szolgáltatni köteles, a naptári év tekintetében határidőben nem szolgáltatja, és annak felhívásra, a jogkövetkezményekre történő írásbeli figyelmeztetés után sem tesz eleget,
+b) az éves statisztikai adatszolgáltatást elmulasztja, és annak felhívásra, a jogkövetkezményekre történő írásbeli figyelmeztetés után sem tesz eleget,
 
-c) a naptári év első három negyedévében esedékes statisztikai adatszolgáltatást két éven belül három alkalommal elmulasztja, és annak felhívásra, a jogkövetkezményekre történő írásbeli figyelmeztetés után sem tesz eleget,
+c) a Dáptv. szerinti hivatalos elérhetőségének bejelentését elmulasztja, és annak felhívásra, a jogkövetkezményekre történő írásbeli figyelmeztetés után sem tesz eleget,
 
 d) által szolgáltatott statisztikai adatok eltérnek a 2. melléklet szerint vezetett szakértői nyilvántartásában szereplő adatoktól, és azokat felhívásra, a jogkövetkezményekre történő írásbeli figyelmeztetés után sem helyesbíti,
 
