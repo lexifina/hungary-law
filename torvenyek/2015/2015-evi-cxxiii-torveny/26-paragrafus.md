@@ -1,1 +1,1 @@
-### 26. §
+26. § A 2025. január 1-jét megelőzően az állami mentőszolgálat által biztosított egészségügyi alapellátáshoz kapcsolódó háziorvosi és házi gyermekorvosi ügyeleti ellátás esetén a személyes közreműködés hatósági nyilvántartásba vételre irányuló eljárásért kifizetett igazgatási szolgáltatási díjat a nyilvántartásba vételt lefolytató egészségügyi államigazgatási szerv 2025. március 1-jéig visszatéríti.
