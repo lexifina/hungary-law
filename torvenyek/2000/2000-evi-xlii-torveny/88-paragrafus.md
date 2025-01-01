@@ -30,7 +30,7 @@ l) az e törvény szerinti szakértői tevékenység folytatása részletes felt
 
 m) a veszélyes áruk belvízi szállításának ellenőrzésére és a bírság kivetésére jogosult hatóság kijelölésének, a kijelölt hatóság által végzett ellenőrzés és a bírság kivetésére vonatkozó egységes eljárás szabályainak, továbbá az egyes szabálytalanságokért kiszabható bírságok összegének, valamint a bírságolással összefüggő hatósági feladatok általános szabályainak,
 
-n) a víziközlekedés tekintetében az európai és a nemzeti kritikus infrastruktúrák azonosítás kritériumrendszerének, kritikus infrastruktúrává történő kijelölésnek, érzékeny információ védelmének, kapcsolattartás és jelentéstételi kötelezettségek rendjének, valamint európai kritikus infrastruktúra kijelölése esetén annak védelmének, a kritikus infrastruktúrákra vonatkozó előírások ellenőrzési rendjének, az előírások megsértése esetén alkalmazható jogkövetkezmények részlet szabályainak,
+n)
 
 o) a bírság mértékének, megállapítása szempontrendszerének és a bírság megfizetési módja részletszabályainak,
 
