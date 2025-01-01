@@ -38,25 +38,25 @@
 
 ## 20.[^20]
 
-## 21.[^21]
+## 21. Az 1548/2023. (XII. 13.) Korm. határozat 1. melléklete helyébe a 4. melléklet lép.
 
-## 22.[^22]
+## 22.[^21]
 
-## 23.[^23]
+## 23.[^22]
 
-## 24.[^24]
+## 24.[^23]
 
-## 25.[^25]
+## 25.[^24]
 
-## 26.[^26]
+## 26.[^25]
 
-## 27.[^27]
+## 27.[^26]
 
 ## 28. Ez a határozat – a 29. pontban foglalt kivétellel – a közzétételét követő napon lép hatályba.
 
 ## 29. A 21. pont és a 4. melléklet 2025. január 1-jén lép hatályba.
 
-1. melléklet az 1268/2024. (IX. 10.) Korm. határozathoz[^28]
+1. melléklet az 1268/2024. (IX. 10.) Korm. határozathoz[^27]
 
 [^1]: Az 1. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^2]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
@@ -78,11 +78,10 @@
 [^18]: A 18. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^19]: A 19. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^20]: A 20. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^21]: A 21. pont a 29. pont alapján 2025. január 1-jén lép hatályba.
-[^22]: A 22. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^23]: A 23. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^24]: A 24. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^25]: A 25. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^26]: A 26. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^27]: A 27. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^28]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 22. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 23. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 24. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 25. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 26. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 27. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
