@@ -2,32 +2,15 @@
 
 ## 2. az 1. pont szerinti beruházások megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 817 671 198 forintban határozza meg;
 
-## 3. a 2. pont szerinti összeg finanszírozása érdekében az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (2) bekezdésében biztosított jogkörében eljárva 817 671 198 forint egyszeri átcsoportosítását rendeli el, az 1. melléklet szerint;
+## 3.[^1]
 
-## Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
+## 4.[^2]
 
-## pénzügyminiszter
+## 5.[^3]
 
-## Határidő: azonnal
+1. melléklet az 1129/2021. (III. 17.) Korm. határozathoz[^4]
 
-## 4. az 1976/2020. (XII. 22.) Korm. határozat 2. pontja szerinti összeg finanszírozása érdekében az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 592 158 065 forint egyszeri átcsoportosítását rendeli el, a 2. melléklet szerint;
-
-## Felelős: Miniszterelnökséget vezető miniszter
-
-## nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
-
-## pénzügyminiszter
-
-## Határidő: azonnal
-
-## 5. az 1976/2020. (XII. 22.) Korm. határozat 4. pontja szerinti összeg finanszírozása érdekében az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 62 493 906 forint egyszeri átcsoportosítását rendeli el, a 2. melléklet szerint.
-
-## Felelős: Miniszterelnökséget vezető miniszter
-
-## nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
-
-## pénzügyminiszter
-
-## Határidő: azonnal
-
-1. melléklet az 1129/2021. (III. 17.) Korm. határozathoz
+[^1]: A 3. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: A 4. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^3]: Az 5. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^4]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
