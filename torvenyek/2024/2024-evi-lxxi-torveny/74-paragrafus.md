@@ -14,7 +14,7 @@ e)
 
 f)
 
-g)
+g) 102. § (4) bekezdésében a „második hónap” szövegrész helyébe a „negyedik hónap” szöveg,
 
 h)
 

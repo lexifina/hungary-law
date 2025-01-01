@@ -4,7 +4,7 @@ a)
 
 b)
 
-c)
+c) 63. § (12) és (12a) bekezdésében a „második hónap” szövegrész helyébe a „negyedik hónap” szöveg,
 
 d)
 
