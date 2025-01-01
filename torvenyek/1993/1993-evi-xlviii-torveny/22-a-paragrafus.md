@@ -1,6 +1,6 @@
 ## A szénhidrogén-kutatás, -feltárás és -kitermelés engedélyezésének sajátos szabályai
 
-22/A. § (1) A koncesszióról szóló 1991. évi XVI. törvény 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv a 9. §-ban foglaltak alapján kijelöli azokat a zárt területeket, amelyeken a szénhidrogének kutatásának, feltárásának és kitermelésének koncesszió keretében történő engedélyezése a területeknek két országos terjesztésű napilapban és az Európai Unió Hivatalos Lapjában történt közzétételét (hirdetmény) követő 90 nap elteltével, a benyújtott pályázatok egyidejű elbírálásával kezdődik meg.
+22/A. § (1) A koncesszióról szóló 1991. évi XVI. törvény 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv a 9. §-ban foglaltak alapján kijelöli azokat a zárt területeket, amelyeken a szénhidrogének kutatásának, feltárásának és kitermelésének koncesszió keretében történő engedélyezése a területeknek az Európai Unió Hivatalos Lapjában történt közzétételét (hirdetmény) követő 90 nap elteltével, a benyújtott pályázatok egyidejű elbírálásával kezdődik meg.
 
 (2)
 

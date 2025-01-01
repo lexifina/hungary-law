@@ -22,13 +22,15 @@ d) amely terület tekintetében más a 21/C. § (1) bekezdése szerinti szerződ
 
 (3) A kutatás engedélyezése iránti kérelemhez mellékelni kell a kutatási munkaprogramot. A kutatási engedély megadásának feltétele a Hatóság elnökének rendeletében megállapított pénzügyi biztosíték nyújtása.
 
-(4) A kutatási időszak – a munkaprogramban tervezett kutatási tevékenység időszükséglete alapján – legfeljebb négy év lehet, amely az engedélyezett időszak felével egy alkalommal meghosszabbítható. A kutatási időszakba nem számít be a kutatás megkezdéséhez szükséges hatósági engedélyek megszerzéséhez szükséges hatósági eljárások, valamint a bányavállalkozó által lefolytatott közbeszerzési eljárás időtartama.
+(4) A kutatási időszak – a munkaprogramban tervezett kutatási tevékenység időszükséglete alapján – legfeljebb négy év lehet, amely az engedélyezett időszak felével két alkalommal meghosszabbítható. A kutatási időszakba nem számít be a kutatás megkezdéséhez szükséges hatósági engedélyek megszerzéséhez szükséges hatósági eljárások, valamint a bányavállalkozó által lefolytatott közbeszerzési eljárás időtartama.
 
 (5) Ha a bányavállalkozó a kutatási engedélyben meghatározott kutatási feladatainak időarányos részét neki felróható okból nem hajtotta végre, a bányafelügyelet a kutatási engedélyt visszavonja.
 
 (6) A bányavállalkozó az engedélyezett kutatási időszak utolsó napjától számított három hónapos jogvesztő határidőn belül – kutatási zárójelentés benyújtásával – kérheti a geotermikus védőidom megállapítását. A határidő elmulasztása esetén a bányavállalkozó kutatási engedélye megszűnik.
 
-(7) A kutatási terület kialakítására és mértékére, az azonos bányavállalkozó jogosultságában álló kutatási területek számára, valamint a kutatási engedély tartalmi követelményeire vonatkozó szabályokat a Hatóság elnöke rendeletben állapítja meg.
+(7) A kutatási terület kialakítására és mértékére, az azonos bányavállalkozó jogosultságában álló kutatási blokkok számára, valamint a kutatási engedély tartalmi követelményeire vonatkozó szabályokat a Hatóság elnöke rendeletben állapítja meg.
+
+(7a) A bányavállalkozó a kutatási területet vagy annak egy részét a geotermikus védőidom kijelölési kérelem benyújtásáig visszaadhatja. A bányafelügyelet a terület-visszaadást akkor fogadja el, ha a visszaadásra bejelentett területen a bányakárokat megtérítették, továbbá a tájrendezési, környezetvédelmi, földvédelmi és talajvédelmi kötelezettségeket teljesítették. A kutatási terület visszaadását elfogadó határozat véglegessé válásának napján a kutatási engedély a visszaadott terület tekintetében megszűnik.
 
 (8) A bányafelügyelet a geotermikus kutatási területről nyilvántartást vezet, amely tartalmazza
 

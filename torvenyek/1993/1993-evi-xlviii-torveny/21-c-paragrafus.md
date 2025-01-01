@@ -20,9 +20,11 @@ b) a hasznosítás formáját és az alkalmazott kinyerési technológiát,
 
 c) a hasznosítás megkezdésének időpontját,
 
-d) a kinyerni tervezett éves geotermikus energia mennyiségét, és
+d) a kinyerni tervezett éves geotermikus energia mennyiségét,
 
-e) a (6) bekezdés szerinti vízvisszasajtolási kötelezettség teljesítésére vonatkozó rendelkezéseket.
+e) a (6) bekezdés szerinti vízvisszasajtolási kötelezettség teljesítésére vonatkozó rendelkezéseket és
+
+f) a 41. § (7) bekezdése szerinti bányászati biztosíték nagyságát és szolgáltatásának módját.
 
 (5a) A bányavállalkozó – a szerződés eltérő rendelkezése hiányában – a hasznosítást legkésőbb a szerződés hatálybalépését követő egy éven belül megkezdi. A határidő elmulasztása esetén a szerződés megszűnik, kivéve, ha a hasznosítás megkezdésének elmaradása a bányavállalkozónak nem róható fel.
 

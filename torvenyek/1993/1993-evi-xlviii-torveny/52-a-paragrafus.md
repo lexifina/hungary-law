@@ -1,0 +1,1 @@
+52/A. § A 43/B. § (13) bekezdés az energiaágazaton belüli metánkibocsátás csökkentéséről és az (EU) 2019/942 rendelet módosításáról szóló, 2024. június 13-i (EU) 2024/1787 európai parlamenti és tanácsi rendelet 4. cikke végrehajtásához szükséges rendelkezéseket állapít meg.

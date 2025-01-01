@@ -16,63 +16,93 @@ c) a geotermikus energiát kitermelő jogalany
 
 az általa kitermelt ásványi nyersanyag és geotermikus energia, illetve föld alatti szénelgázosítással történő kitermelés esetében az általa igénybevett ásványi nyersanyag után.
 
-(3) A bányajáradék mértéke a hatósági engedély alapján kitermelt ásványi nyersanyag mennyisége után keletkező értéknek:
+(3) A bányajáradék mértéke a hatósági engedély alapján kitermelt ásványi nyersanyag mennyisége után keletkező értéknek
 
-a) a termelési műszaki üzemi terv alapján 2008. január 1. előtt üzemszerűen termelésbe állított szénhidrogén mezőkön kitermelt kőolaj és földgáz esetében – a b), d) és e) pontban foglalt kivétellel – 16%-a
+a) földgáz és a magas inertgáztartalmú földgáz esetében, ha a TTF földgáz tőzsdei jegyzésárának a havi átlaga
 
-b) az 1998. január 1. előtt termelésbe állított szénhidrogén mezőkön kitermelt földgáz esetében
+aa) nem haladja meg a 15 EUR/MWh jegyzésárat, az 5%-a,
 
-ba) J%-a, ahol
+ab) meghaladja a 15 EUR/MWh-ás jegyzésárat, de nem haladja meg a 25 EUR/MWh-ás jegyzésárat, F1%-a, ahol F1=20–(225/PTTF),
 
-## J: a bányajáradék százalékos mértéke;
+ac) meghaladja a 25 EUR/MWh-ás jegyzésárat, de nem haladja meg az 40 EUR/MWh-ás jegyzésárat, F2%-a, ahol F2=40–(725/PTTF),
 
-## P: az egyetemes szolgáltatásra jogosult felhasználók ellátása érdekében értékesített földgáz esetén az egyetemes szolgáltatók részére vételre felajánlott földgázforrás és a hazai termelésű földgáz mennyiségéről és áráról, valamint az igénybevételre jogosultak és kötelezettek köréről szóló jogszabályban megállapított hatósági ár; szabadáras értékesítés esetén a földgázpiaci egyetemes szolgáltatáshoz kapcsolódó árak képzéséről szóló miniszteri rendeletben elismert földgáz aktuális ár tárgyévet megelőző, éves, USA-dollárban kifejezett átlagának és az MNB hivatalos napi árfolyamainak átlagának szorzata;
+ad) meghaladja az 40 EUR/MWh-ás jegyzésárat, de nem haladja meg a 100 EUR/MWh-ás jegyzésárat, F3%-a, ahol F3=45–(925/PTTF),
 
-## A: a hazai kitermelésű földgáz elismert értéke 2003-ban;
+ae) meghaladja 100 EUR/MWh-ás jegyzésárat, F4%-a, ahol F4=50–(1425/PTTF);
 
-## k: korrekciós tényező, melynek értéke 2003-ban 1, és az ezt követő években évenként 0,24-gyel növekszik;
+b) kőolaj esetében, ha a Brent kőolaj tőzsdei jegyzésárának havi átlaga
 
-bb) 12%-a, amennyiben a bányajáradék ba) pont szerint számított mértéke a 12%-ot nem éri el;
+ba) nem haladja meg a 25 USD/bbl jegyzésárat, az 5%-a,
 
-c) a próbatermelés során, valamint a termelési műszaki üzemi terv alapján 2008. január 1. után üzemszerűen termelésbe állított szénhidrogén mezőkön kitermelt kőolaj és földgáz esetében a d) és e) pontban foglalt kivétellel
+bb) meghaladja 25 USD/bbl jegyzésárat, de nem haladja meg az 50 USD/bbl jegyzésárat, K1%-a, ahol K1=15–(250/PBrent),
 
-ca) 12%-a, ha a szénhidrogén mezőből a kitermelt földgáz mennyisége évente a 300 millió m3-t, kőolaj esetében az 50 kt-t nem halad meg,
+bc) meghaladja az 50 USD/bbl jegyzésárat, de nem haladja meg a 80 USD/bbl jegyzésárat, K2%-a, ahol K2=30–(1000/PBrent),
 
-cb) 20%-a, ha a szénhidrogén mezőből éves szinten a kitermelt földgáz mennyisége a 300 millió m3-nél nagyobb, de 500 millió m3-t nem halad meg, kőolaj esetében 50 kt-nál nagyobb, de 200 kt-t nem halad meg,
+bd) meghaladja a 80 USD/bbl jegyzésárat, de nem haladja meg a 110 USD/bbl jegyzésárat, K3%-a, ahol K3=45–(2200/PBrent),
 
-cc) 30%-a, ha a szénhidrogén mezőből éves szinten a kitermelt földgáz mennyisége 500 millió m3-t meghalad, kőolaj esetében 200 kt-t meghalad;
+be) meghaladja a 110 USD/bbl jegyzésárat, K4%-a, ahol K4=60–(3850/PBrent);
 
-d) a 2007. július 1-jét megelőzően működésbe állított föld alatti gáztárolás kényszerű párnagáz lecseréléséből származó földgáz, valamint a szén-dioxid gáz esetében 12%-a;
+c) az a)–b) ponttól eltérően
 
-e) a magas inertgáz tartalmú földgáz esetében 8%-a;
+ca) a nem hagyományos eredetű szénhidrogén esetében 2%-a,
 
-f) az energiahordozók kivételével a külfejtéssel termelt nemfémes ásványi nyersanyagok esetében 5%-a;
+cb) a növelt hatékonyságú művelési eljárások alkalmazásával kitermelt többlet szénhidrogén esetében 1%-a,
 
-g) kőszenek bányászata esetén 0%-a;
+cc) a bányavállalkozó, vagy a bányavállalkozó a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 4. § 23. pontja szerinti kapcsolt vállalkozása (a továbbiakban: kapcsolt vállalkozás) saját maga által energia előállítási célból felhasznált magas inertgáztartalmú földgáz esetében 2%-a,
 
-h) egyéb szilárd ásványi nyersanyagok esetében 2%-a;
+cd) a szénhidrogén-kitermelés fokozása érdekében visszasajtolásra kerülő magas inertgáztartalmú földgáz esetében 1%-a,
 
-i) a nem hagyományos eredetű és különleges eljárással kitermelhető szénhidrogén esetében, továbbá a termálvízzel kitermelt kísérőgázból kinyert szénhidrogén hasznosítása esetében 2%-a.
+ce) a szén-dioxid-tartalom visszasajtolásával megvalósuló dúsítási technológiával kezelt magas inertgáztartalmú földgáz esetében 2%-a,
 
-(3a) A bányajáradék mértéke
+d) a 2007. július 1-jét megelőzően működésbe állított föld alatti gáztárolás kényszerű párnagáz lecseréléséből származó földgáz esetében 12%-a,
+
+e) szén-dioxid gáz esetében 12%-a,
+
+f) termálvízzel kitermelt földgáz hasznosítása esetében 2%-a,
+
+g) az energiahordozók kivételével a külfejtéssel termelt nemfémes ásványi nyersanyag esetében 5%-a;
+
+h) kőszén bányászata esetében 0%-a;
+
+i) egyéb ásványi nyersanyag esetében 2%-a.
+
+(3a)
+
+(3b)
+
+(3c)
+
+(4) A (3) bekezdés
+
+a) a) pontjának alkalmazásában:
+
+aa) F1–4: a bányajáradék százalékos mértéke (%),
+
+ab) PTTF: a TTF földgáz bevallási időszakra elérhető napi záró jegyzésárainak számtani átlaga (EUR/MWh);
+
+b) b) pontjának alkalmazásában:
+
+ba) K1–4: bányajáradék százalékos mértéke (%),
+
+bb) PBrent: Brent kőolaj bevallási időszak napi jegyzésárainak számtani átlaga (USD/bbl).
+
+(4a)
+
+(4b)
+
+(5) A (3) bekezdés a) és b) pontja szerinti bányajáradék mértéket két tizedesjegy pontosságúra kerekítve kell meghatározni.
+
+(5a) A bányajáradék mértéke
 
 a) az 1. § (7) bekezdése szerinti más hatósági engedély alapján kitermelt és az engedélyben foglalt tevékenységgel össze nem függő célra, vagy
 
 b) a 3. § (1a) bekezdés b) pontja szerint a katasztrófaveszély vagy az Alaptörvény 53. cikke szerinti veszélyhelyzet megszűnését követően más célra
 
-## felhasznált, hasznosított vagy értékesített ásványi nyersanyag mennyisége után keletkező értéknek az 50%-a.
+felhasznált, hasznosított vagy értékesített ásványi nyersanyag mennyisége után keletkező értéknek az 50%-a.
 
-(3b) A föld alatti szénelgázosítással történő kitermelés esetében a bányajáradék mértéke az igénybevett ásványi nyersanyag mennyisége után keletkező értéknek a 2%-a.
+(5b) A föld alatti szénelgázosítással történő kitermelés esetében a bányajáradék mértéke az igénybe vett ásványi nyersanyag mennyisége után keletkező értéknek a 2%-a.
 
-(3c) A bányajáradék mértéke a nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra beruházás során a magyar állam nevében és javára eljáró építtetővel szerződéses jogviszonyban álló személy tulajdonába került ásványi nyersanyag értéknek az 50%-a.
-
-(4) Ha a Brent kőolaj tőzsdei jegyzésárának havi átlaga a 80 USD/bbl árat eléri vagy meghaladja, kőolaj esetében a (3) bekezdés a) és c) pontja szerinti bányajáradék mértéke 3-3 százalékponttal emelkedik. Ha a Brent kőolaj tőzsdei jegyzésárának havi átlaga a 90 USD/bbl árat eléri vagy meghaladja, kőolaj esetében a (3) bekezdés a) és c) pontja szerinti bányajáradék mértéke további 3-3 százalékponttal emelkedik.
-
-(4a) Ha a TTF földgáz tőzsdei jegyzésárának a havi átlaga a 18 EUR/MWh-t meghaladja, földgáz esetében a (3) bekezdés a) és c) pontja szerinti bányajáradék mértéke L%-kal, de legfeljebb 6%-kal emelkedik, ahol L = Jalap × (PTTF – 18 EUR/MWh) × 3,2%, L: a bányajáradék-növekedés százalékos mértéke (%); Jalap: a bányajáradék (3) bekezdés a) és c) pontja szerinti mértéke (%); PTTF: a TTF földgáz bevallási időszak napi jegyzésárainak számtani átlaga (EUR/MWh).
-
-(4b) Ha a Brent kőolaj tőzsdei jegyzésárának havi átlaga a 80 USD/bbl árat eléri vagy meghaladja, a (3) bekezdés b) pontja szerinti bányajáradék mértéke 3-3 százalékponttal emelkedik. Ha a Brent kőolaj tőzsdei jegyzésárának havi átlaga a 90 USD/bbl árat eléri vagy meghaladja, a (3) bekezdés b) pontja szerinti bányajáradék mértéke további 3-3 százalékponttal emelkedik.
-
-(5) A bányajáradék mértéke 0% a növelt hatékonyságú művelési eljárások alkalmazásával kitermelt szénhidrogén mennyisége után.
+(5c) A bányajáradék mértéke a nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházás során a magyar állam nevében és javára eljáró építtetővel szerződéses jogviszonyban álló személy tulajdonába került ásványi nyersanyag értéknek az 50%-a.
 
 (6) Nem kell bányajáradékot fizetni
 
@@ -84,9 +114,11 @@ c) az anyagnyerő helyről kitermelt és a vizek kártételei elleni védelem é
 
 d) a 30 °C-ot el nem érő energiahordozóból kinyert geotermikus energia után,
 
-e) a kitermelt geotermikus energia 50%-ot meghaladóan hasznosított mennyisége után, valamint
+e) a kitermelt geotermikus energia 50%-ot meghaladóan hasznosított mennyisége után,
 
-f) a vízjogi engedély alapján gyógyászati (balneológiai) célra hasznosított termálvíz visszahűtéséből származó geotermikus energiának (hőenergiának), továbbá a kísérőgázból kinyert szénhidrogénnek az engedélyes saját céljára történő hasznosítása után.
+f) a vízjogi engedély alapján gyógyászati (balneológiai) célra hasznosított termálvíz visszahűtéséből származó geotermikus energiának (hőenergiának), továbbá a kísérőgázból kinyert szénhidrogénnek az engedélyes saját céljára történő hasznosítása után, és
+
+g) a 2007. július 1-jét megelőzően működésbe állított föld alatti gáztárolás kényszerű párnagáz lecseréléséből származó földgáz esetében, ha a lecserélésből származó párnagázt a kitermeléssel megegyező mennyiségben a föld alatti gáztárolóba visszapótolják.
 
 (7) A bányajáradék mértéke geotermikus energia esetében a kitermelt geotermikus energia értékének 2%-a.
 
@@ -98,7 +130,7 @@ b) a kitermelés eredményességét befolyásoló természeti adottságok és
 
 c) egyéb közérdek
 
-## különbözőségének figyelembevételével kitermelési helyenként állapítja meg.
+különbözőségének figyelembevételével koncessziós területenként állapítja meg.
 
 (9) A bányajáradékot pénzben kell teljesíteni. A befizetett bányajáradék költségként számolható el.
 

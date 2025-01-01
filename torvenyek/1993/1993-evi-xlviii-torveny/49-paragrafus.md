@@ -14,7 +14,7 @@ b) halmazállapotától függetlenül a víz.
 
 3.
 
-4. „Bányászat (bányászati tevékenység)”: ásványi nyersanyagok kutatása, feltárása és kitermelése, az e tevékenységek során keletkező hulladékok kezelése, valamint az ásványvagyon-gazdálkodás. Bányászati tevékenységnek minősül:
+4. „Bányászat (bányászati tevékenység)”: ásványi nyersanyagok kutatása, feltárása és kitermelése, az e tevékenységek során keletkező hulladékok kezelése, a meddőhányó hasznosítása, valamint az ásványvagyon-gazdálkodás. Bányászati tevékenységnek minősül:
 
 a) a kitermelt ásványi nyersanyag helyben végzett feldolgozása, a szénhidrogén-bányászatban az ásványi nyersanyag továbbfeldolgozásra vagy továbbfelhasználásra való alkalmassá tétele, különösen a propán-bután kinyerés, a gazolin feldolgozás vagy brikettgyártás,
 
@@ -104,11 +104,11 @@ A bányavállalkozó tulajdonában lévő távadat-átviteli eszközök a száll
 
 24. „Zárt terület”: meghatározott ásványi nyersanyag kutatása, feltárása, kitermelése céljából lehatárolt, koncessziós pályázatra kijelölhető terület. Zárt területnek kell tekinteni a már megállapított bányászati joggal fedett területeket az adott ásványi nyersanyag vonatkozásában a jogosultság fennállása alatt.
 
-25. „Növelt hatékonyságú művelési eljárás”: olyan végső többletszénhidrogén-kihozatali eljárás, amely megnöveli az elsődleges és másodlagos művelési eljárásokkal kitermelhető szénhidrogén mennyiséget.
+25. „Növelt hatékonyságú művelési eljárás”: olyan elsődleges és másodlagos művelési eljárásnak nem minősülő többletszénhidrogén-kihozatali eljárás, amely a szénhidrogéntelítettség csökkentését eredményezi, és ezzel megnöveli az elsődleges és másodlagos művelési eljárásokkal kitermelhető szénhidrogén mennyiséget.
 
 25a. „Elsődleges művelési eljárás”: rétegenergiával, külső energia alkalmazása nélkül történő szénhidrogén kitermelési eljárás.
 
-25b. „Másodlagos művelési eljárás”: többlet szénhidrogén kitermelésére irányuló kívülről alkalmazott energia segítségével történő gáz, illetve víz besajtolásával történő művelési eljárás.
+25b. „Másodlagos művelési eljárás”: olyan többletszénhidrogén-kitermelésére irányuló művelet, amely kívülről alkalmazott energiatárolóba juttatásával a korábbi termelés során lecsökkent nyomás további termeléshez szükséges mértékű megemelését és fenntartását célozza, víz, szén-dioxid- vagy szénhidrogén-gáz besajtolásával.
 
 26. „Szolgáltatásra köteles földtani adat”: azok a földtani adatok, amelyeket a földtani kutatás, a geotermikusenergia-kutatás, az ásványi nyersanyagkutatás vagy a kitermelés során a földtani kutatásra jogosult vagy a bányavállalkozó közvetlenül vagy a földtani alapadatok feldolgozásával közvetett módon megismer.
 
@@ -140,7 +140,7 @@ A bányavállalkozó tulajdonában lévő távadat-átviteli eszközök a száll
 
 37. Magas inertgáz tartalmú földgáz”: az olyan földgáz, amelyben a nem éghető gázok (joghatású méréssel meghatározott) aránya eléri vagy meghaladja a 30(térfogat)%-ot.
 
-38. Nem hagyományos eredetű és különleges eljárással kitermelhető szénhidrogén”: az olyan szénhidrogén, amelyet a szénhidrogén-képződés feltételeit biztosító üledékes anyakőzet pórusaiban létrejött szénhidrogén felhalmozódásból, rendkívül gyenge áteresztőképességű tároló rétegekből, valamely egyedi eljárással, többnyire rétegserkentési vagy a szilárdásvány-bányászatban alkalmazott bányászati technológia alkalmazásával lehet csak kitermelni.
+38. „Nem hagyományos eredetű szénhidrogén”: az olyan szénhidrogén, amely jelentős kiterjedésű, kőzettanilag homogénnek tekinthető, földgáz esetében legfeljebb 0,1 mD, kőolaj esetében legfeljebb 1 mD áteresztőképességgel jellemezhető tároló térrészben helyezkedik el, és kizárólag repesztési műveletekkel mobilizálható.
 
 39. „Egyéb gázok és gáztermékek vezetéke”: tartozékaival és alkotórészeivel együtt az a csővezeték, amely a földgázon kívüli egyéb gázt, fluidumot vagy gázterméket a termelés (előkészítés, gyártás, tárolás) kiadó pontjától (előkészítő üzem, feldolgozóüzem), indító állomásától, vagy az országhatár átlépésétől a felhasználás (lakótelepülés, ipari létesítmény), feldolgozás átadó állomásáig, az együttműködő földgáz rendszerhez történő csatlakozási pontig, vagy az országhatárig szállítja.
 
@@ -180,7 +180,15 @@ A vezetékek alkotórészei:
 
 52. „Föld alatti szénelgázosítás”: olyan bányaművelési technológia, amely a felszín alatt feltárt széntelep fúrólyukon keresztül végzett részleges oxidációja során képződő szintézisgáz fúrólyukon való, szabályozott kitermelésével történik.
 
-53. „Kitermelés szüneteltetése”: amikor a bányában 12 hónapot meghaladóan nem folytatnak kitermelést.
+53. „Kitermelés szüneteltetése”: a kitermelés szüneteltetésének minősül
+
+a) ha a bányavállalkozó 12 hónapot meghaladóan nem folytat kitermelést, vagy
+
+b) ha – szénhidrogén ásványi nyersanyagra megállapított bányatelek esetén – a bányavállalkozó a bányatelek megállapítását követő 15 év alatt nem termelte ki a bányatelek kitermelhető ásványvagyonának legalább 10%-át, nem hagyományos eredetű szénhidrogén esetében legalább 5%-át, és az évente kitermelt szénhidrogén mennyisége egyik évben sem érte el
+
+ba) földgáz esetében a 100.000 m3/év mennyiséget,
+
+bb) kőolaj esetében az 500 t/év mennyiséget.
 
 54. „Együttes művelési terv”: az a műszaki dokumentáció, amelyet akkor kell készíteni, ha a szénhidrogén-lelőhely kutatási fázisú próbatermelésére, feltárására és kitermelésére több, a kitermeléshez szükséges feltételekkel rendelkező bányavállalkozó jogosult.
 

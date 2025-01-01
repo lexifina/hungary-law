@@ -73,3 +73,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-48-00-00
 | 2023-06-30 | 2023. évi XLVI. törvény | 1993-48-00-00.105 |
 | 2024-01-01 | 2023. évi XCIX. törvény | 1993-48-00-00.106 |
 | 2024-10-01 | 2023. évi C. törvény | 1993-48-00-00.107 |
+| 2025-01-01 | 2024. évi LXXXIX. törvény | 1993-48-00-00.109 |

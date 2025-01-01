@@ -6,7 +6,7 @@
 
 (3) Ha a vezetékjog az ingatlan tulajdonosának az engedélyessel vagy az elosztóvezeték tulajdonosával kötött megállapodása alapján jön létre, a vezetékjog ingatlan-nyilvántartásba történő bejegyzését az engedélyes vagy az elosztóvezeték tulajdonosa köteles kérni. A vezetékjog a gázelosztó-vezeték mindenkori engedélyesét vagy tulajdonosát illeti meg, és az ingatlant terheli.
 
-(4) A vezetékjog a véglegessé vált határozat, illetve a tulajdonos hozzájárulása alapján a bejegyzés előtt is gyakorolható.
+(4) A vezetékjog a véglegessé vált határozat, illetve a tulajdonos hozzájárulása alapján a bejegyzés előtt is gyakorolható, azonban az harmadik személyekkel szemben akkor hatályos, ha azt az ingatlan-nyilvántartásba bejegyezték.
 
 (5) Az engedélyes, illetőleg az elosztóvezeték tulajdonosa a vezetékjog alapján az idegen ingatlanon
 

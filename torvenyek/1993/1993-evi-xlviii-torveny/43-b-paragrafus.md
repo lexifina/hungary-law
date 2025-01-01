@@ -35,3 +35,15 @@ c) a döntés szóban nem közölhető.
 (10) A bányafelügyelet hatósági eljárása során a székhelyén lakcímmel nem rendelkező természetes személyt vagy a székhellyel nem rendelkező jogi személy törvényes képviselőjét is idézheti székhelyére.
 
 (11) Ha az eljárás a hatásterületen lévő ingatlan tulajdonosát, vagy azt, akinek a jogát az ingatlan-nyilvántartásba bejegyezték, illetve több mint ötven ügyfelet érint – az eljárás során a személyesen az ügyfélnek szóló végzések kivételével – a bányafelügyelet a döntéseit hirdetményi úton közli.
+
+(12) Elektronikusan tartja a kapcsolatot a bányafelügyelettel
+
+a) a természetes személy bányavállalkozó,
+
+b) a bányajáradék önbevallást benyújtó természetes személy,
+
+c) a bányafelügyeletnek adatot szolgáltató természetes személy, és
+
+d) a bányafelügyeleti eljárásokban a természetes személy kérelmező.
+
+(13) Az (EU) 2024/1787 európai parlamenti és tanácsi rendelet előírásai tekintetében illetékes hatóságként a bányafelügyelet jár el.
