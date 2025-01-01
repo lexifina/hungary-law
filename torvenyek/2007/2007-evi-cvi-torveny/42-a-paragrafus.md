@@ -2,19 +2,25 @@
 
 ## A KIVEZETÉSRE SZÁNT ÁLLAMI VAGYONNAL KAPCSOLATOS SZABÁLYOK
 
-## A kivezetésre szánt állami vagyon, az MVH feladatai, jogállása
+## A kivezetésre szánt állami vagyon, az MNV Zrt. kivezetésre szánt állami vagyonnal kapcsolatos feladatai
 
 42/A. § (1) A kivezetésre szánt állami vagyon körébe tartoznak az Nvtv. 3. § (1) bekezdés 7. pontja szerinti:
 
-a) az állam szükségképpeni törvényes öröklése útján állami tulajdonba kerülő vagyonelemek,
+a) az állam szükségképpeni törvényes öröklése útján állami tulajdonba került vagy kerülő vagyonelemek,
 
-b) az 1. § (6a) bekezdése szerint, köztartozások fejében állami tulajdonba kerülő vagyonelemek,
+b) az 1. § (6a) bekezdése szerinti, köztartozások fejében állami tulajdonba került vagy kerülő vagyonelemek,
 
-c) az MNV Zrt. által – a tulajdonosi joggyakorlása alatt álló, általa közvetlenül kezelt, kis értékű vagyonelemek köréből – kivezetésre szánt állami vagyonba tartozó vagyonnak minősített és az MVH részére átadott vagyonelemek, valamint
+c) az MNV Zrt. által – a tulajdonosi joggyakorlása alatt álló, általa közvetlenül kezelt – kivezetésre szánt állami vagyonba tartozó vagyonnak minősített
 
-d) az államra öröklés útján átszállt, továbbá a köztartozások fejében átvett, az MNV Zrt. által az MVH részére átadott követelések.
+ca) kis értékű vagyonelemek, továbbá
 
-(2) Az (1) bekezdés c) pontja szerinti kis értékű vagyonelemnek minősül:
+cb) terhelt vagyonelemek,
+
+d) az államra öröklés útján átszállt, továbbá az 1. § (6a) bekezdése szerinti köztartozások fejében átvett követelések, valamint
+
+e) állami tulajdonban álló, hulladéknak nem minősülő vissznyereményi anyagok.
+
+(2) Az (1) bekezdés c) pont ca) alpontja szerinti kis értékű vagyonelemnek minősül:
 
 a) az az ingóság, amelynek az egyedi, nyilvántartási értéke az 1 millió forintot nem haladja meg, az e törvény végrehajtási rendeletében meghatározott ingóságok kivételével,
 
@@ -22,4 +28,6 @@ b) a jármű,
 
 c) az a) és b) pontba nem tartozó egyéb vagyonelem, amelynek az egyedi, nyilvántartási értéke nem haladja meg a 25 millió forintot.
 
-(3) Az MVH az e fejezetben foglaltak szerint jár el a kivezetésre szánt állami vagyonnal kapcsolatos feladatai ellátása során. A kivezetésre szánt állami vagyon tekintetében a IV. és V. Fejezetben foglalt rendelkezések nem alkalmazhatóak.
+(2a) Az (1) bekezdés c) pont cb) alpontja szerinti terhelt vagyonelemnek minősül az az ingatlan, amely tekintetében az ingatlan-nyilvántartásba bejegyzett jelzálogjoggal, zálogjoggal biztosított követelések, valamint az ingatlan-nyilvántartásba bejegyzett végrehajtandó követelések összesített értéke meghaladja az ingatlan egyedi, nyilvántartási értékének 70%-át. A követelések értékének megállapítása során az ingatlan-nyilvántartásba devizakölcsön alapján fennálló fizetési kötelezettség biztosítására bejegyzett követelés, teher mértékét az ingatlan állami tulajdonba kerülése napján érvényes MNB devizaárfolyamon kell figyelembe venni.
+
+(3) Az MNV Zrt. az e fejezetben foglaltak szerint jár el a kivezetésre szánt állami vagyonnal kapcsolatos feladatai ellátása során. A kivezetésre szánt állami vagyon tekintetében a IV. és V. Fejezetben foglalt rendelkezések nem alkalmazhatóak.

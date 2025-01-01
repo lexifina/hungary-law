@@ -1,6 +1,6 @@
 3. § (1) A rábízott állami vagyon felett az államot megillető tulajdonosi jogok és kötelezettségek összességét tulajdonosi joggyakorlóként – ha törvény vagy miniszteri rendelet eltérően nem rendelkezik – a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság (a továbbiakban: MNV Zrt.) gyakorolja.
 
-(1a) A kivezetésre szánt állami vagyon felett az államot megillető tulajdonosi jogok és kötelezettségek összességét a Maradványvagyon-hasznosító Zártkörűen Működő Részvénytársaság (a továbbiakban: MVH) gyakorolja.
+(1a)
 
 (1b)
 
@@ -8,7 +8,7 @@
 
 a) a Magyar Posta Zártkörűen Működő Részvénytársaság felett – ha miniszteri rendelet eltérően nem rendelkezik – az állami vagyon felügyeletéért felelős miniszter (a továbbiakban: miniszter),
 
-b) azon állami tulajdonban álló ingatlanok felett, amelyek egy része a Nemzeti Földalapba tartozik, az MNV Zrt. vagy – a 42/A. § (1) bekezdése szerinti kivezetésre szánt állami vagyon vonatkozásában – az MVH az agrárpolitikáért felelős miniszterrel közösen, a Nemzeti Földalapról szóló törvény, valamint az annak végrehajtására kiadott rendeletben meghatározottak szerint,
+b) azon állami tulajdonban álló ingatlanok felett, amelyek egy része a Nemzeti Földalapba tartozik, az MNV Zrt. az agrárpolitikáért felelős miniszterrel közösen, a Nemzeti Földalapról szóló törvény, valamint az annak végrehajtására kiadott rendeletben meghatározottak szerint,
 
 c)
 
@@ -34,4 +34,4 @@ gyakorolja.
 
 (6) Az (5) bekezdés szerinti megállapodás megkötéséhez nem szükséges a miniszter jóváhagyása, ha az érintett vagyonelem más tulajdonosi joggyakorló tulajdonosi joggyakorlása alá kerülésére törvény rendelkezése alapján kerül sor.
 
-(7) A kivezetésre szánt állami vagyon tekintetében a tulajdonosi joggyakorlás átadására vonatkozó szabályokat az V/A. Fejezet állapítja meg.
+(7)

@@ -1,3 +1,1 @@
-42/F. § (1) Ha vagyongazdálkodási célok megvalósítása érdekében indokolt, a 42/D. §-ban és a 42/E. §-ban meghatározott vagyonátadások helyett az MNV Zrt. eseti egyoldalú nyilatkozattal is rendelkezhet valamely vagyonelem tulajdonosi joggyakorlásának átadásáról vagy átvételéről.
-
-(2) Az (1) bekezdés szerinti esetben a tulajdonosi joggyakorlás az érintett vagyonelemre vonatkozó eseti egyoldalú nyilatkozat kiállításának napján, az azon a napon érvényes nyilvántartási értéken száll át az átvevőre azzal, hogy az átadás tekintetében a 42/D. § (4)–(6) bekezdésében és a 42/E. § (3)–(5) bekezdésében foglaltakat alkalmazni kell.
+### 42/F. §

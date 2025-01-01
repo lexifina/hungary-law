@@ -2,4 +2,4 @@
 
 (2) Az árverezők elektronikus nyilvántartásába bármely természetes személy vagy olyan jogi személy kérheti a felvételét, aki megfelel az Nvtv. 3. § (1) bekezdés 1. pontja vagy az Nvtv. 14/B. §-a szerinti feltételeknek, és az elektronikus árverési rendszer árverezőként történő használatának feltételeit rögzítő felhasználási szabályzatban foglaltakat elfogadta.
 
-(3) Az MVH részére az MNV Zrt. az elektronikus árverésen történő értékesítést ingyenesen bonyolítja le.
+(3)

@@ -1,35 +1,11 @@
-42/B. § (1) Az MVH feladatai:
+42/B. § (1) Az MNV Zrt. folyamatosan vizsgálja a 42/A. § (1) bekezdés a)–c) pontja szerinti kivezetésre szánt állami vagyonként nyilvántartott vagyonelemeket, és ha a vagyonelem nem felel meg az Nvtv. 3. § (1) bekezdés 7. pontja szerinti feltételeknek, az e törvény, valamint az e törvény végrehajtási rendeletében meghatározottak szerint átminősíti, ha
 
-a) az e törvény, valamint az e törvény végrehajtási rendeletében meghatározottak szerint értékesíti a kivezetésre szánt állami vagyont,
+a) az e törvény végrehajtási rendeletében meghatározott ingóságnak minősül,
 
-b) az e törvény, valamint az e törvény végrehajtási rendeletében meghatározottak szerint lefolytatja a kivezetésre szánt állami vagyon ingyenes tulajdonba adására irányuló eljárásokat,
+b) egyedi tulajdonságai vagy a rendelkezésre álló információk alapján állami feladatok ellátásához felhasználható lehet, vagy
 
-c) közvetlenül vagy polgári jogi szerződések útján – átmeneti jelleggel, a tulajdonjog átruházásáig – hasznosítja a kivezetésre szánt állami vagyont,
+c) annak egyedi nyilvántartási értéke meghaladja a 42/A. § (2) bekezdése szerinti értéket és tehermentes vagy teljes tehermentesítésére került sor.
 
-d) a kivezetésre szánt állami vagyon tekintetében ellátja az ingatlanok birtokbavételével, őrzésével, kiürítésével, állagmegóvásával, valamint az ingóságok őrzésével, szállításával, raktározásával, selejtezésével, megsemmisítésével kapcsolatos feladatokat,
+(2) Az MNV Zrt. – az állami vagyonnal való felelős gazdálkodás vonatkozásában az Nvtv. 7. §-ában meghatározott követelményeknek való megfelelés érdekében – átminősítheti azt az (1) bekezdés c) pontja szerinti vagyonelemet, amely tekintetében a fennálló teher alapjául szolgáló követelés pontos mértéke nem haladja meg a 42/A. § (2a) bekezdése szerinti értéket.
 
-e) nyilvántartást vezet a tulajdonosi joggyakorlása alá tartozó, kivezetésre szánt állami vagyonról,
-
-f) a kivezetésre szánt állami vagyonnal kapcsolatos polgári jogi jogviszonyokban – jogszabály eltérő rendelkezése hiányában – képviseli az államot,
-
-g) nyilvántartja, folyamatosan nyomon követi és kezeli a kivezetésre szánt állami vagyont érintő jogokat, követeléseket és terheket,
-
-h) működteti a kivezetésre szánt állami vagyon tulajdonjogának átruházását szolgáló informatikai rendszereket,
-
-i) folyamatosan vizsgálja a 42/A. § (1) bekezdés a) és b) pontja alapján állami tulajdonba és a tulajdonosi joggyakorlása alá kerülő vagyonelemeket és az e törvény, valamint az e törvény végrehajtási rendeletében meghatározottak szerint kezdeményezi a vagyonelemek MNV Zrt. tulajdonosi joggyakorlása alá kerülését, ha azok nem minősülnek az Nvtv. 3. § (1) bekezdés 7. pontja szerinti vagyonelemnek;
-
-j) gyakorolja a tulajdonosi jogokat a 42/A. § (1) bekezdés szerinti kivezetésre szánt állami vagyon tekintetében,
-
-k) ellátja a fejezeti kezelésű előirányzatok, az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai javára elszámolandó, a kötelezett által nem teljesített befizetéseken alapuló követelések fejében átvett vagyonelemek értékesítésével, hasznosításával, kezelésével és a vagyonelemként átvett követelések érvényesítésével kapcsolatos feladatokat.
-
-(2) Ha az (1) bekezdés i) pontja szerinti vizsgálat alapján az MVH megállapítja, hogy valamely vagyonelem
-
-a) egyedi bruttó értéke meghaladja a 42/A. § (2) bekezdése szerinti értéket,
-
-b) a vagyonelem egyedi tulajdonságai vagy a rendelkezésre álló információk alapján valószínűsíthető, hogy az adott vagyonelem állami feladatok ellátásához felhasználható lehet vagy
-
-c) az e törvény végrehajtási rendeletében meghatározott ingóságnak minősül,
-
-a vagyonelemet az a) és a c) pont szerinti esetben átadja, a b) pont szerinti esetben felajánlja az MNV Zrt. részére.
-
-(3) Az (1) bekezdés k) pontja szerinti feladatok ellátása során az MVH e fejezet szabályai szerint jár el azzal, hogy a 42/O. §-ban foglalt rendelkezések nem alkalmazhatóak.
+(3) Az (1) és (2) bekezdés szerinti vagyonelemek tekintetében az átminősítés napjától az e Fejezetben foglalt rendelkezések nem alkalmazhatóak.

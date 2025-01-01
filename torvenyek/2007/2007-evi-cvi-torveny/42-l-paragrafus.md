@@ -1,1 +1,1 @@
-42/L. § A 42/I. § (1) bekezdés c) pontja szerinti versenyeztetés nélküli értékesítés során az MVH a kivezetésre szánt állami vagyoni körbe tartozó vagyontárgyat legalább a becsült forgalmi értéken idegenítheti el.
+42/L. § A 42/I. § (1) bekezdés c) pontja szerinti versenyeztetés nélküli értékesítés során az MNV Zrt. a kivezetésre szánt állami vagyoni körbe tartozó vagyontárgyat legalább a becsült forgalmi értéken idegenítheti el.

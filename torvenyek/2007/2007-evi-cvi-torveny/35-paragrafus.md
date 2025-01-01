@@ -42,6 +42,8 @@ qb) osztatlan közös tulajdonban álló védett természeti terület, amely fö
 
 r) hulladéknak nem minősülő vissznyereményi anyagok értékesítése esetén.
 
+s) a kisajátításról szóló törvény szerinti fejlesztési befektetési területhez tartozó ingatlan értékesítése esetén.
+
 (2a) Az állam tulajdonában álló pénzügyi eszköznek pénzügyi eszközre történő cseréje esetén a az Nvtv. 13. § (1) bekezdése szerinti versenyeztetési kötelezettségre vonatkozó rendelkezést nem kell alkalmazni.
 
 (2b) Versenyeztetés mellőzésével kerül sor a (2) bekezdés i) pontja szerinti kis értékű ingó vagyontárgy értékesítésére, ha
