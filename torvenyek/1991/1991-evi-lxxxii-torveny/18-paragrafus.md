@@ -22,7 +22,7 @@
 
 8. külföldön nyilvántartott az a gépjármű, amelynek forgalmi engedélyét és hatósági jelzését (rendszámát) nem magyar hatóság adta ki, kizárólag külföldön nyilvántartott gépjárművekből álló gépjárműszerelvény esetén az adó megállapítása a vontató honossága szerint történik, feltéve, ha nemzetközi egyezmény e kérdésben másként nem rendelkezik,
 
-9. környezetkímélő gépkocsi az a gépjármű, amely a KöHÉM rendelet 2015. július 1-jén hatályos 2. § (6) bekezdése szerint környezetkímélő gépkocsinak minősül, valamint a környezetkímélő motorkerékpár,
+9. környezetkímélő gépkocsi az a gépjármű, amely a KöHÉM rendelet 2024. szeptember 1-jén hatályos 2. § (6) bekezdése szerint környezetkímélő gépkocsinak minősül, valamint a környezetkímélő motorkerékpár,
 
 10. költségvetési szerv az állam, a helyi önkormányzat, a nemzetiségi önkormányzat és az államháztartásról szóló 2011. évi CXCV. törvény szerinti szerv,
 
