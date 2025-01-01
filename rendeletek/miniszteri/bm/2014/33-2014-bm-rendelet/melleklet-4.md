@@ -1,6 +1,6 @@
 4. melléklet a 33/2014. (IV. 24.) BM rendelethez
 
-## Az alkalmazásba vételről szóló határozat adattartalma
+Az alkalmazásba vételről szóló határozat adattartalma
 
 1. Az alkalmazásba vételi javaslat adatai:
 

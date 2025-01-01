@@ -1,6 +1,6 @@
 6. melléklet a 33/2014. (IV. 24.) BM rendelethez
 
-## A rendszerből történő kivonásról szóló határozat adattartalma
+A rendszerből történő kivonásról szóló határozat adattartalma
 
 1. A rendszerből történő kivonásra tett javaslat adatai:
 

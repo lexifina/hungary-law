@@ -1,6 +1,6 @@
 3. melléklet a 33/2014. (IV. 24.) BM rendelethez
 
-## A rendszerbe vételről szóló határozat adattartalma
+A rendszerbe vételről szóló határozat adattartalma
 
 1. A rendszerbe vételi javaslat adatai:
 

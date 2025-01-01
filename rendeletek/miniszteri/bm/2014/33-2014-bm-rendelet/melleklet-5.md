@@ -1,6 +1,6 @@
 5. melléklet a 33/2014. (IV. 24.) BM rendelethez
 
-## A rendszerből történő kivonási javaslat tartalmi elemei
+A rendszerből történő kivonási javaslat tartalmi elemei
 
 1. A rendszerből történő kivonásra javasolt kényszerítő eszköz megnevezése
 

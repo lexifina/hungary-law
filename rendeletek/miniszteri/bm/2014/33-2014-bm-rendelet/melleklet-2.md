@@ -64,7 +64,7 @@
 
 2. melléklet a 33/2014. (IV. 24.) BM rendelethez
 
-## A rendszerbe vételi javaslat, valamint az alkalmazásba vételi javaslat tartalmi elemei
+A rendszerbe vételi javaslat, valamint az alkalmazásba vételi javaslat tartalmi elemei
 
 1. A rendszerbe vételi eljárást vagy az alkalmazásba vételi eljárást kezdeményező szervezeti elem megnevezése, iktatószáma
 
@@ -88,10 +88,12 @@ c) jelezni azt is, ha nincs kiváltandó kényszerítő eszköz.
 
 7. Az ellátandó szervezeti elemek megnevezése, az ellátásra tervezett mennyiség: alapellátás és az arra számított tartalékok
 
-8. Az ellátás, mennyiségi bővítés, pótlás szükséges költségeinek, tervezett forrásainak, a beszerzési eljárásra vonatkozó információknak, a költségek viselőjének megjelölése
+8.[^22] Az ellátás, mennyiségi bővítés, pótlás szükséges költségeinek, tervezett forrásainak, a beszerzési eljárásra vagy a vagyonátadási eljárásra vonatkozó információknak, a költségek viselőjének megjelölése
 
 9. A kényszerítő eszközt használó állomány kiképzésére vonatkozó javaslatok
 
 10. Az állagmegóvásra, műszaki kiszolgálásra, javításra tett javaslatok
 
 11. A pótlásra vagy a mennyiségi bővítésre vonatkozó feladatok megjelölése
+
+[^22]: A 2. melléklet 8. pontja a 60/2024. (XII. 23.) BM rendelet 86. § e) pontja szerint módosított szöveg.
