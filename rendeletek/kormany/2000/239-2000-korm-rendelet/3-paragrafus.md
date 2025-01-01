@@ -14,7 +14,7 @@ b) a közigazgatásilag érintett település önkormányzati rendeletben meghat
 
 c)[^12] a bányatóval érintett területtel kapcsolatos vízgazdálkodási, kulturális örökségvédelmi, környezet-, természet- és tájvédelmi, továbbá közegészségügyi szempontokra
 
-## figyelemmel kell meghatározni.
+figyelemmel kell meghatározni.
 
 (5)[^13] A bányató üzemeltetésére vonatkozó jogerős határozat és ingatlan-nyilvántartási átvezetésre alkalmas változási vázrajz megküldésével a vízügyi hatóság megkeresi a bányató fekvése szerint illetékes ingatlanügyi hatóságot, hogy a bányatavat – az ingatlan-nyilvántartásra vonatkozó külön jogszabályok szerint – a vízgazdálkodással összefüggő művelés alól kivett területként ,,bányató'' megnevezéssel jegyezze be az ingatlan-nyilvántartásba.
 

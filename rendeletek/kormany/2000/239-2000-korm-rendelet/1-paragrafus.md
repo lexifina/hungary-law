@@ -4,7 +4,7 @@ a) a bányászati tevékenység folytán kialakult, illetve kialakított bányat
 
 b) az a) pont szerinti bányatavak fennmaradásával, fenntartásával, hasznosításával kapcsolatos jogokat gyakorló vagy kötelezettségeket teljesítő természetes és jogi személyekre, illetőleg jogi személyiség nélküli gazdasági társaságokra (a továbbiakban együttesen: személyekre)
 
-## terjed ki.
+terjed ki.
 
 (2) E rendelet alkalmazásában
 

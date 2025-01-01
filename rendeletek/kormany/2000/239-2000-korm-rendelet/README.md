@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-239-20-
 | 2014-01-01 | 2000-239-20-22.9 | 527/2013. (XII. 30.) Korm. rendelet |
 | 2015-04-01 | 2000-239-20-22.10 | 362/2008. (XII. 31.) Korm. rendelet |
 | 2020-03-01 | 2000-239-20-22.11 | 360/2019. (XII. 30.) Korm. rendelet |
+| 2025-01-01 | 2000-239-20-22.12 | 416/2024. (XII. 20.) Korm. rendelet |
