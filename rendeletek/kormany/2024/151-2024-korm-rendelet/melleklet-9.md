@@ -1,3 +1,3 @@
-9. melléklet a 151/2024. (VI. 28.) Korm. rendelethez[^40]
+9. melléklet a 151/2024. (VI. 28.) Korm. rendelethez[^32]
 
-[^40]: A 9. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^32]: A 9. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

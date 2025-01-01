@@ -1,40 +1,35 @@
 17. § A Rendelet3.
 
-a)[^19]
+a)[^16]
 
-b)[^20]
+b)[^17]
 
-c)[^21]
+c)[^18]
 
-d)[^22]
+d)[^19]
 
-e)[^23]
+e) 5. § (4) bekezdés b) pont ba) alpontjában az „edző; valamint” szövegrész helyébe az „edző, nevelőedző, valamint” szöveg,
 
-f)[^24]
+f) 5. § (5) bekezdésében az „Edző, sportszakember” szövegrész helyébe az „Edző, nevelőedző, sportszakember” szöveg,
 
-g)[^25]
+g)[^20]
 
-h)[^26]
+h)[^21]
 
-i)[^27]
+i) 5. § (8) bekezdésében a „versenyzőként, edzőként vagy sportszakemberként” szövegrész helyébe a „versenyzőként, edzőként, nevelőedzőként vagy sportszakemberként” szöveg,
 
-j)[^28]
+j) 6. § (1) bekezdésében a „versenyzőket felkészítő edzők, továbbá” szövegrész helyébe a „versenyzőket felkészítő edzők, nevelőedzők, továbbá” szöveg,
 
-k)[^29]
+k) 6. § (5) bekezdésében az „Az edzők és a sportszakemberek” szövegrész helyébe az „Az edzők, nevelőedzők és a sportszakemberek” szöveg,
 
-l)[^30]
+l)[^22]
 
 lép.
 
-[^19]: A 17. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^20]: A 17. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^21]: A 17. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^22]: A 17. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^23]: A 17. § e) pontja a 19. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
-[^24]: A 17. § f) pontja a 19. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
-[^25]: A 17. § g) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^26]: A 17. § h) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^27]: A 17. § i) pontja a 19. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
-[^28]: A 17. § j) pontja a 19. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
-[^29]: A 17. § k) pontja a 19. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
-[^30]: A 17. § l) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 17. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 17. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 17. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 17. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 17. § g) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 17. § h) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 17. § l) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
