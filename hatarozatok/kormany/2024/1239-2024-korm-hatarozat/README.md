@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-1239-30
 | 2024-09-11 | 2024-1239-30-22.5 | 1268/2024. (IX. 10.) Korm. határozat |
 | 2024-09-15 | 2024-1239-30-22.6 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2024-09-16 | 2024-1239-30-22.7 | 2010: CXXX. törvény |
+| 2025-01-01 | 2024-1239-30-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |

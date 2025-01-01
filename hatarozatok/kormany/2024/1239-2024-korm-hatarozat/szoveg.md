@@ -20,39 +20,47 @@ c) felhívja az építési és közlekedési minisztert, hogy vizsgálja felül 
 
 4.[^3]
 
-5.[^4]
+5. A Gazdaságfejlesztési és Innovációs Operatív Program éves fejlesztési keretének megállapításáról szóló 1006/2016. (I. 18.) Korm. határozat 2. mellékletében foglalt táblázat
 
-6.[^5]
+a) C:5, C:6b. és C:8 mezőjében a „Kormányzati Informatikai Fejlesztési Ügynökség” szövegrész helyébe a „NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság” szöveg,
 
-7.[^6]
+b) C:6a. mezőjében a „KIFÜ – Kormányzati Informatikai Fejlesztési Ügynökség” szövegrész helyébe a „Digitális Kormányzati Fejlesztés és Projektmenedzsment Korlátolt Felelősségű Társaság” szöveg,
 
-8.[^7]
+c) C:6, C:7, C:7a., C:9, C:12, C:19 és C:25a. mezőjében a „Kormányzati Informatikai Fejlesztési Ügynökség” szövegrész helyébe a „Digitális Kormányzati Fejlesztés és Projektmenedzsment Korlátolt Felelősségű Társaság” szöveg,
 
-9.[^8]
+d) C:10, C:11, C:12a., C:12b. és C:20 mezőjében a „Kormányzati Informatikai Fejlesztési Ügynökség” szövegrész helyébe a „Pro-M Professzionális Mobilszolgáltató Zártkörűen Működő Részvénytársaság” szöveg
 
-10.[^9]
+lép.
 
-11.[^10]
+6.[^4]
 
-12.[^11]
+7.[^5]
 
-13.[^12] Ez a határozat – a 14. és 15. pontban foglalt kivétellel – a közzétételét követő napon lép hatályba.
+8.[^6]
 
-14.[^13] A 2., 3. és 6. pont 2024. szeptember 15-én lép hatályba.
+9.[^7]
 
-15.[^14] Az 5. és 11. pont 2025. január 1-jén lép hatályba.
+10.[^8]
+
+11. Hatályát veszti az 1548/2023. (XII. 13.) Korm. határozat 1. mellékletében foglalt táblázat 7. sorában a „Kormányzati Informatikai Fejlesztési Ügynökség” szövegrész.
+
+12.[^9]
+
+13.[^10] Ez a határozat – a 14. és 15. pontban foglalt kivétellel – a közzétételét követő napon lép hatályba.
+
+14.[^11] A 2., 3. és 6. pont 2024. szeptember 15-én lép hatályba.
+
+15.[^12] Az 5. és 11. pont 2025. január 1-jén lép hatályba.
 
 [^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^3]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: Az 5. pont a 15. pont alapján 2025. január 1-jén lép hatályba.
-[^5]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: A 7. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: A 8. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: A 9. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^9]: A 10. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^10]: A 11. pont a 15. pont alapján 2025. január 1-jén lép hatályba.
-[^11]: A 12. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^12]: A 13. pont az 1268/2024. (IX. 10.) Korm. határozat 27. pont h) alpontja szerint módosított szöveg.
-[^13]: A 14. pont az 1268/2024. (IX. 10.) Korm. határozat 26. pontjával megállapított szöveg.
-[^14]: A 15. pontot az 1268/2024. (IX. 10.) Korm. határozat 26. pontja iktatta be.
+[^4]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 7. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 8. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 9. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 10. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 12. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 13. pont az 1268/2024. (IX. 10.) Korm. határozat 27. pont h) alpontja szerint módosított szöveg.
+[^11]: A 14. pont az 1268/2024. (IX. 10.) Korm. határozat 26. pontjával megállapított szöveg.
+[^12]: A 15. pontot az 1268/2024. (IX. 10.) Korm. határozat 26. pontja iktatta be.
