@@ -1,1 +1,0 @@
-## 7. § Amennyiben a felügyeleti díj fizetésére kötelezett az Éltv. 47/B. § (3)–(5) bekezdésében meghatározottnál nagyobb összegű felügyeleti díjat fizetett meg, a NÉBIH a túlfizetés visszafizetéséről, annak megállapítását követő harminc napon belül intézkedik.

@@ -1,3 +1,0 @@
-2. § (1) Az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvényben (a továbbiakban: Éltv.) meghatározott felügyeleti díj (a továbbiakban: felügyeleti díj) összegét a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) 10032000-00289782-30006016 számú fizetési számlájára kell megfizetni ezer forintra kerekítve.
-
-(2) A felügyeleti díj megfizetését átutalással kell teljesíteni. A befizetési bizonylatnak a közlemények rovatban tartalmaznia kell a felügyeleti díj fizetésére kötelezett adószámát (adóazonosító jelét) és a 3. § (5) bekezdése szerinti tranzakció azonosítót.
