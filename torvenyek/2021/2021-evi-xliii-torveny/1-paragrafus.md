@@ -64,6 +64,8 @@
 
 29. jogszabály alapján a költségvetési szervek gazdálkodására vonatkozó szabályokat alkalmazó jogi személy, amennyiben annak állami vagy önkormányzati tulajdoni hányada közvetlenül, vagy a Ptk. 8:2. § (4) bekezdésében meghatározott módon közvetve nem éri el a 75%-ot.
 
+30. zártkörű befektetési alap.
+
 (2) E törvény hatálya – az (1) bekezdésen túl – kiterjed a bizalmi vagyonkezelési jogviszonyokra, amennyiben a bizalmi vagyonkezelő
 
 a) bizalmi vagyonkezelői tevékenységét Magyarország területén végzi;

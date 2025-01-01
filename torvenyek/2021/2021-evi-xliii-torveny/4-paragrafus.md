@@ -30,7 +30,7 @@ gd) születési helye, ideje;
 
 ge) lakcíme, ennek hiányában tartózkodási helye;
 
-gf) érdekeltségének a Pmt. 3. § 38. pont a) és b), valamint d)–f) pontjai szerinti jellege és mértéke;
+gf) érdekeltségének a Pmt. 3. § 38. pont a) és b), valamint d)–g) pontja szerinti jellege és mértéke;
 
 h) a tényleges tulajdonosi adat TT indexe.
 
