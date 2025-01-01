@@ -1,22 +1,22 @@
 ## 17. A terv megvalósíthatóságának ellenőrzése
 
-40. § (1)[^157] Az üzemeltető a súlyos káresemény elhárítási tervben foglaltak megvalósíthatóságát rendszeresen ellenőrzi. Ennek érdekében évente folytat le olyan gyakorlatot, ahol a tervben megjelölt szervezetek valamely részét, valamint háromévente olyan gyakorlatot, ahol a tervben megjelölt szervezetek egészét gyakoroltatja. A gyakorlatok tervezése során figyelembe kell venni az évszakokhoz, napszakokhoz kapcsolódó üzemeltetési körülményeket, üzemállapotokat. A gyakorlatok időpontját ennek megfelelően, az iparbiztonsági hatósággal egyeztetve kell kijelölni.
+40. § (1)[^163] Az üzemeltető a súlyos káresemény elhárítási tervben foglaltak megvalósíthatóságát rendszeresen ellenőrzi. Ennek érdekében évente folytat le olyan gyakorlatot, ahol a tervben megjelölt szervezetek valamely részét, valamint háromévente olyan gyakorlatot, ahol a tervben megjelölt szervezetek egészét gyakoroltatja. A gyakorlatok tervezése során figyelembe kell venni az évszakokhoz, napszakokhoz kapcsolódó üzemeltetési körülményeket, üzemállapotokat. A gyakorlatok időpontját ennek megfelelően, az iparbiztonsági hatósággal egyeztetve kell kijelölni.
 
-(1a)[^158] Az 1. § 3. pont a) alpont szerinti létesítmények üzemeltetője az üzemeltetése alatt álló 1. § 3. pont a) alpont szerinti létesítményei esetében évente folytat le olyan egységes, összevont gyakorlatot, ahol a tervekben megjelölt szervezetek egészét gyakoroltatja, vagy az 1. § 3. pont a) alpont szerinti létesítményei esetében külön-külön évente folytat le olyan gyakorlatot, ahol a tervekben megjelölt szervezetek valamely részét, valamint háromévente olyan gyakorlatot, ahol a tervekben megjelölt szervezetek egészét gyakoroltatja.
+(1a)[^164] Az 1. § 3. pont a) alpont szerinti létesítmények üzemeltetője az üzemeltetése alatt álló 1. § 3. pont a) alpont szerinti létesítményei esetében évente folytat le olyan egységes, összevont gyakorlatot, ahol a tervekben megjelölt szervezetek egészét gyakoroltatja, vagy az 1. § 3. pont a) alpont szerinti létesítményei esetében külön-külön évente folytat le olyan gyakorlatot, ahol a tervekben megjelölt szervezetek valamely részét, valamint háromévente olyan gyakorlatot, ahol a tervekben megjelölt szervezetek egészét gyakoroltatja.
 
 (2) Az üzemeltető a gyakorlatok szervezése során biztosítja, hogy tervben szereplő védekezésben részt vevő erők feladataikat legalább évente egyszer gyakorolják.
 
-(3)[^159] Az üzemeltető a súlyos káresemény elhárítási tervben foglaltak gyakoroltatásának időpontjáról az iparbiztonsági hatóságot a gyakorlat előtt legalább 30 nappal értesíti, valamint a gyakorlatok tartásával kapcsolatos tapasztalatokat jegyzőkönyvben rögzíti.
+(3)[^165] Az üzemeltető a súlyos káresemény elhárítási tervben foglaltak gyakoroltatásának időpontjáról az iparbiztonsági hatóságot a gyakorlat előtt legalább 30 nappal értesíti, valamint a gyakorlatok tartásával kapcsolatos tapasztalatokat jegyzőkönyvben rögzíti.
 
-(4)[^160] Az üzemeltető a gyakorlatok tartásával kapcsolatos tapasztalatokat a gyakorlat elvégzését követő 30 napon belül jegyzőkönyvben rögzíti, melyet az iparbiztonsági hatóság részére haladéktalanul tájékoztatás céljából megküld.
+(4)[^166] Az üzemeltető a gyakorlatok tartásával kapcsolatos tapasztalatokat a gyakorlat elvégzését követő 30 napon belül jegyzőkönyvben rögzíti, melyet az iparbiztonsági hatóság részére haladéktalanul tájékoztatás céljából megküld.
 
-(5)[^161] A súlyos káresemény elhárítási terv gyakorlatot háromévente legalább egy alkalommal az iparbiztonsági hatóság a hivatásos katasztrófavédelmi szerv területi szerve bevonásával, helyszíni szemlével ellenőrzi és értékeli. Ha a gyakorlatot nem megfeleltnek értékelik, az iparbiztonsági hatóság határidő megjelölésével a súlyos káresemény elhárítási terv gyakorlat ismételt végrehajtására kötelezi a küszöbérték alatti üzem üzemeltetőjét.
+(5)[^167] A súlyos káresemény elhárítási terv gyakorlatot háromévente legalább egy alkalommal az iparbiztonsági hatóság a hivatásos katasztrófavédelmi szerv területi szerve bevonásával, helyszíni szemlével ellenőrzi és értékeli. Ha a gyakorlatot nem megfeleltnek értékelik, az iparbiztonsági hatóság határidő megjelölésével a súlyos káresemény elhárítási terv gyakorlat ismételt végrehajtására kötelezi a küszöbérték alatti üzem üzemeltetőjét.
 
-(6)[^162] Az iparbiztonsági hatóság a hivatásos katasztrófavédelmi szerv területi szervét a súlyos káresemény elhárítási tervben foglaltak gyakoroltatásának időpontjáról szóló üzemeltetői értesítés beérkezését követő öt napon belül tájékoztatja az abban foglaltakról.
+(6)[^168] Az iparbiztonsági hatóság a hivatásos katasztrófavédelmi szerv területi szervét a súlyos káresemény elhárítási tervben foglaltak gyakoroltatásának időpontjáról szóló üzemeltetői értesítés beérkezését követő öt napon belül tájékoztatja az abban foglaltakról.
 
-[^157]: A 40. § (1) bekezdése a 317/2020. (VII. 1.) Korm. rendelet 10. § (7) bekezdésével megállapított, a 257/2024. (VIII. 29.) Korm. rendelet 40. § 46. pontja szerint módosított szöveg.
-[^158]: A 40. § (1a) bekezdését a 34/2015. (II. 27.) Korm. rendelet 26. §-a iktatta be.
-[^159]: A 40. § (3) bekezdése a 74/2012. (IV. 13.) Korm. rendelet 11. § (1) bekezdés o) pontja, a 257/2024. (VIII. 29.) Korm. rendelet 40. § 47. pontja szerint módosított szöveg.
-[^160]: A 40. § (4) bekezdése a 476/2013. (XII. 17.) Korm. rendelet 19. §-ával megállapított, a 257/2024. (VIII. 29.) Korm. rendelet 40. § 48. pontja szerint módosított szöveg.
-[^161]: A 40. § (5) bekezdése a 257/2024. (VIII. 29.) Korm. rendelet 38. §-ával megállapított szöveg.
-[^162]: A 40. § (6) bekezdését a 257/2024. (VIII. 29.) Korm. rendelet 39. §-a iktatta be.
+[^163]: A 40. § (1) bekezdése a 317/2020. (VII. 1.) Korm. rendelet 10. § (7) bekezdésével megállapított, a 257/2024. (VIII. 29.) Korm. rendelet 40. § 46. pontja szerint módosított szöveg.
+[^164]: A 40. § (1a) bekezdését a 34/2015. (II. 27.) Korm. rendelet 26. §-a iktatta be.
+[^165]: A 40. § (3) bekezdése a 74/2012. (IV. 13.) Korm. rendelet 11. § (1) bekezdés o) pontja, a 257/2024. (VIII. 29.) Korm. rendelet 40. § 47. pontja szerint módosított szöveg.
+[^166]: A 40. § (4) bekezdése a 476/2013. (XII. 17.) Korm. rendelet 19. §-ával megállapított, a 257/2024. (VIII. 29.) Korm. rendelet 40. § 48. pontja szerint módosított szöveg.
+[^167]: A 40. § (5) bekezdése a 257/2024. (VIII. 29.) Korm. rendelet 38. §-ával megállapított szöveg.
+[^168]: A 40. § (6) bekezdését a 257/2024. (VIII. 29.) Korm. rendelet 39. §-a iktatta be.

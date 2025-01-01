@@ -1,3 +1,3 @@
-9. §[^27]
+9. §[^28] Az iparbiztonsági hatóság a hozzá benyújtott biztonsági jelentés vagy biztonsági elemzés vizsgálata, illetve a hatósági ellenőrzésen tapasztaltak alapján állapítja meg a dominóhatásban érintett, veszélyes anyagokkal foglalkozó üzemek körét. Az iparbiztonsági hatóság a dominóhatásban érintett üzemek irányába intézkedik a veszélyes anyagokkal foglalkozó üzemek veszélyes anyagokkal kapcsolatos súlyos baleset-megelőzési célkitűzéseinek, biztonsági irányítási rendszerének, belső védelmi terveinek összehangolására a biztonsági jelentés vagy biztonsági elemzés soron kívüli felülvizsgálatának kezdeményezésével. Az iparbiztonsági hatóság az intézkedéseiről tájékoztatja a külső védelmi tervek és a lakossági tájékoztatók elkészítésében érintetteket.
 
-[^27]: A 9. §-t a 441/2015. (XII. 28.) Korm. rendelet 147. § b) pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^28]: A 9. §-t a 441/2015. (XII. 28.) Korm. rendelet 147. § b) pontja hatályon kívül helyezte, újonnan a 340/2024. (XI. 14.) Korm. rendelet 9. § (3) bekezdése iktatta be.

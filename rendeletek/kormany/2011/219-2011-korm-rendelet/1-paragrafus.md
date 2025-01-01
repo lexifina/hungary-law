@@ -32,6 +32,8 @@ c) azon üzemek, amelyek területén klór vagy ammónia legalább 1000 kg menny
 
 7.[^8] Veszélyeztetett terület: ahol a veszélyes anyagokkal foglalkozó üzem, küszöbérték alatti üzem tevékenysége során bekövetkező veszélyes anyagokkal kapcsolatos súlyos balesetek, események által okozott mérgező, hősugárzási, ökotoxikus vagy túlnyomási hatások az emberi egészséget, a környezetet vagy a természeti értékeket károsíthatják.
 
+8.[^9] Dominóhatás: a veszélyes anyagokkal foglalkozó létesítményben bekövetkező olyan baleset, amely a közelben lévő más, veszélyes anyagokkal foglalkozó üzemre átterjedve a veszélyes anyagokkal kapcsolatos súlyos balesetek valószínűségét és lehetőségét megnöveli, vagy a bekövetkezett veszélyes anyagokkal kapcsolatos súlyos baleset következményeit súlyosbítja.
+
 [^1]: Az 1. § 1. pontja a 34/2015. (II. 27.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § 1a. pontját a 34/2015. (II. 27.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^3]: Az 1. § 2. pontja a 476/2013. (XII. 17.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
@@ -40,3 +42,4 @@ c) azon üzemek, amelyek területén klór vagy ammónia legalább 1000 kg menny
 [^6]: Az 1. § 3. pont b) alpontja a 441/2016. (XII. 16.) Korm. rendelet 43. § a) pontja szerint módosított szöveg.
 [^7]: Az 1. § 4. pontja a 34/2015. (II. 27.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
 [^8]: Az 1. § 7. pontja a 408/2022. (X. 24.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^9]: Az 1. § 8. pontját a 340/2024. (XI. 14.) Korm. rendelet 9. § (1) bekezdése iktatta be.

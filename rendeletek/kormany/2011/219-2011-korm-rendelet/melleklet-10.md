@@ -1,8 +1,8 @@
 10. melléklet a 219/2011. (X. 20.) Korm. rendelethez
 
-A lakossági tájékoztatás követelményei és a hirdetmény tartalmi elemei[^257]
+A lakossági tájékoztatás követelményei és a hirdetmény tartalmi elemei[^269]
 
-1.[^258] A veszélyes anyagokkal kapcsolatos súlyos balesetek vonatkozásában az iparbiztonsági hatóság a polgármesterrel együttműködésben a lakosság részére tájékoztató kiadványt készít, amely a következőket tartalmazza:
+1.[^270] A veszélyes anyagokkal kapcsolatos súlyos balesetek vonatkozásában az iparbiztonsági hatóság a polgármesterrel együttműködésben a lakosság részére tájékoztató kiadványt készít, amely a következőket tartalmazza:
 
 1.1. A veszélyes anyagokkal foglalkozó üzemről szóló információkat.
 
@@ -14,7 +14,7 @@ b) az üzemeltető neve, a létesítmény címe,
 
 c) a veszélyes anyagokkal foglalkozó üzem tájékoztatásért felelős személy neve, beosztása, elérhetősége,
 
-d)[^259] tájékoztatás, hogy a veszélyes anyagokkal foglalkozó üzem e jogszabály alapján felső vagy alsó küszöbértékű,
+d)[^271] tájékoztatás, hogy a veszélyes anyagokkal foglalkozó üzem e jogszabály alapján felső vagy alsó küszöbértékű,
 
 e) annak kinyilatkoztatása, hogy az üzemeltető minden tőle elvárhatót megtett a veszélyes anyagokkal kapcsolatos súlyos balesetek megelőzésére és a kialakult balesetek hatásainak mérséklésére.
 
@@ -42,9 +42,9 @@ cb) a riasztást követő lakossági tájékoztatás eszközei (helyi elektronik
 
 cc) a lakosságvédelem módszerei (elzárkózás, kitelepítés, kimenekítés, egyéni védőeszközök viselete), és a lakosság ebben való közreműködésének feladatai.
 
-1.4.[^260] A lakossági tájékoztató kiadvány tartalmazza továbbá:
+1.4.[^272] A lakossági tájékoztató kiadvány tartalmazza továbbá:
 
-a)[^261] az iparbiztonsági hatóság elérhetőségi adatait, beleértve a hatósági elektronikus tájékoztató rendszer címét, a veszélyes anyagokkal foglalkozó üzemben lefolytatott utolsó hatósági ellenőrzés dátumának elérhetőségére vonatkozó információkat, valamint azt hogy hol szerezhető be kérésre részletes, releváns információ,
+a)[^273] az iparbiztonsági hatóság elérhetőségi adatait, beleértve a hatósági elektronikus tájékoztató rendszer címét, a veszélyes anyagokkal foglalkozó üzemben lefolytatott utolsó hatósági ellenőrzés dátumának elérhetőségére vonatkozó információkat, valamint azt hogy hol szerezhető be kérésre részletes, releváns információ,
 
 b) felső küszöbértékű veszélyes anyagokkal foglalkozó üzem esetén adott esetben azt, hogy az Egyesült Nemzetek Európai Gazdasági Bizottságának ipari balesetek országhatáron túli hatásairól szóló egyezmény értelmében felmerülhet országhatáron túli hatásokkal járó veszélyes anyagokkal kapcsolatos súlyos baleset lehetősége.
 
@@ -54,9 +54,9 @@ b) felső küszöbértékű veszélyes anyagokkal foglalkozó üzem esetén adot
 
 4. Elkészíthető a tájékoztató kiadvány színes, rövidített, de minden lényeges információt tartalmazó változata, amely – megfelelő módon való terjesztéssel – minden családhoz eljuttatható. A kiadvány e változata a helyi médiában is közzétehető.
 
-5.[^262]
+5.[^274]
 
-6.[^263] A biztonsági jelentés vagy a biztonsági elemzés közzétételéről a közmeghallgatásról és a terület fejlesztésről szóló hirdetmény tartalma:
+6.[^275] A biztonsági jelentés vagy a biztonsági elemzés közzétételéről a közmeghallgatásról és a terület fejlesztésről szóló hirdetmény tartalma:
 
 a) a veszélyes anyagokkal foglalkozó üzem telepítési vagy működési helye, a veszélyes tevékenység rövid leírása, a veszélyes anyagokkal foglalkozó üzemben, az üzem környezetében történő fejlesztés, projekt tárgya;
 
@@ -64,28 +64,28 @@ b) a biztonsági jelentés, vagy a biztonsági elemzés, vagy a fejlesztéshez k
 
 c) arról szóló felhívás, hogy a biztonsági jelentéssel, vagy a biztonsági elemzéssel, és a fejlesztéshez kapcsolódó dokumentációkkal, tervekkel kapcsolatosan a település jegyzőjénél írásbeli észrevételeket lehet tenni, megadva annak végső határidejét;
 
-d)[^264] a polgármester a veszélyes anyagokkal foglalkozó üzemmel kapcsolatosan milyen formában (személyesen vagy elektronikus úton), hol és mikor tart közmeghallgatást;
+d)[^276] a polgármester a veszélyes anyagokkal foglalkozó üzemmel kapcsolatosan milyen formában (személyesen vagy elektronikus úton), hol és mikor tart közmeghallgatást;
 
-e)[^265] az iparbiztonsági hatóság elérhetősége, kapcsolattartási adatai;
+e)[^277] az iparbiztonsági hatóság elérhetősége, kapcsolattartási adatai;
 
 f) az engedélyezési eljárás ügyintézési határideje, valamint az eljárás lehetséges lezárásainak típusai, illetve további releváns információk.
 
-7.[^266] A külső védelmi terv közzétételéről szóló hirdetmény tartalma:
+7.[^278] A külső védelmi terv közzétételéről szóló hirdetmény tartalma:
 
 a) a külső védelmi terv hol és milyen időpontokban tekinthető meg;
 
 b) arról szóló felhívás, hogy a megadott határidőig a külső védelmi tervvel kapcsolatosan a település jegyzőjénél írásbeli észrevételeket lehet tenni;
 
-c)[^267] az iparbiztonsági hatóság elérhetősége, kapcsolattartási adatai.
+c)[^279] az iparbiztonsági hatóság elérhetősége, kapcsolattartási adatai.
 
-[^257]: A 10. melléklet címe a 34/2015. (II. 27.) Korm. rendelet 30. § (6) bekezdésével megállapított szöveg.
-[^258]: A 10. melléklet 1. pontja a 476/2013. (XII. 17.) Korm. rendelet 23. § (7) bekezdése, a 257/2024. (VIII. 29.) Korm. rendelet 40. § 65. pontja szerint módosított szöveg.
-[^259]: A 10. melléklet 1.1.pont d) alpontja a 34/2015. (II. 27.) Korm. rendelet 30. § (6) bekezdésével megállapított szöveg.
-[^260]: A 10. melléklet 1.4.pontját a 34/2015. (II. 27.) Korm. rendelet 30. § (6) bekezdése iktatta be.
-[^261]: A 10. melléklet 1.4. pont a) alpontja a 257/2024. (VIII. 29.) Korm. rendelet 40. § 2. pontja szerint módosított szöveg.
-[^262]: A 10. melléklet 5. pontját a 34/2015. (II. 27.) Korm. rendelet 30. § (6) bekezdése hatályon kívül helyezte.
-[^263]: A 10. melléklet 6. pontja a 34/2015. (II. 27.) Korm. rendelet 30. § (6) bekezdésével megállapított szöveg.
-[^264]: A 10. melléklet 6. pont d) alpontja az 561/2023. (XII. 14.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg.
-[^265]: A 10. melléklet 6. pont e) alpontja a 257/2024. (VIII. 29.) Korm. rendelet 40. § 66. pontja szerint módosított szöveg.
-[^266]: A 10. melléklet 7. pontját a 476/2013. (XII. 17.) Korm. rendelet 23. § (7) bekezdése iktatta be.
-[^267]: A 10. melléklet 7. pont c) alpontját a 34/2015. (II. 27.) Korm. rendelet 30. § (6) bekezdése iktatta be, szövege a 257/2024. (VIII. 29.) Korm. rendelet 40. § 66. pontja szerint módosított szöveg.
+[^269]: A 10. melléklet címe a 34/2015. (II. 27.) Korm. rendelet 30. § (6) bekezdésével megállapított szöveg.
+[^270]: A 10. melléklet 1. pontja a 476/2013. (XII. 17.) Korm. rendelet 23. § (7) bekezdése, a 257/2024. (VIII. 29.) Korm. rendelet 40. § 65. pontja szerint módosított szöveg.
+[^271]: A 10. melléklet 1.1.pont d) alpontja a 34/2015. (II. 27.) Korm. rendelet 30. § (6) bekezdésével megállapított szöveg.
+[^272]: A 10. melléklet 1.4.pontját a 34/2015. (II. 27.) Korm. rendelet 30. § (6) bekezdése iktatta be.
+[^273]: A 10. melléklet 1.4. pont a) alpontja a 257/2024. (VIII. 29.) Korm. rendelet 40. § 2. pontja szerint módosított szöveg.
+[^274]: A 10. melléklet 5. pontját a 34/2015. (II. 27.) Korm. rendelet 30. § (6) bekezdése hatályon kívül helyezte.
+[^275]: A 10. melléklet 6. pontja a 34/2015. (II. 27.) Korm. rendelet 30. § (6) bekezdésével megállapított szöveg.
+[^276]: A 10. melléklet 6. pont d) alpontja az 561/2023. (XII. 14.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg.
+[^277]: A 10. melléklet 6. pont e) alpontja a 257/2024. (VIII. 29.) Korm. rendelet 40. § 66. pontja szerint módosított szöveg.
+[^278]: A 10. melléklet 7. pontját a 476/2013. (XII. 17.) Korm. rendelet 23. § (7) bekezdése iktatta be.
+[^279]: A 10. melléklet 7. pont c) alpontját a 34/2015. (II. 27.) Korm. rendelet 30. § (6) bekezdése iktatta be, szövege a 257/2024. (VIII. 29.) Korm. rendelet 40. § 66. pontja szerint módosított szöveg.

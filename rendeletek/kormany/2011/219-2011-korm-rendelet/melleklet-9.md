@@ -14,7 +14,7 @@ a) a veszélyes anyagokkal kapcsolatos súlyos baleset következtében kialakul�
 
 b) a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésbe bevonható települési infrastruktúra, berendezések és anyagok;
 
-c)[^253] a lakosság, az anyagi javaik és a környezet védelme érdekében hozott intézkedések:
+c)[^265] a lakosság, az anyagi javaik és a környezet védelme érdekében hozott intézkedések:
 
 ca) vezetési és együttműködési feladatok,
 
@@ -42,7 +42,7 @@ cl) a híradás, valamint
 
 cm) az áldozatokkal kapcsolatos tevékenység.
 
-cn)[^254] súlyos balesetet követően a környezet helyreállítása és megtisztítása.
+cn)[^266] súlyos balesetet követően a környezet helyreállítása és megtisztítása.
 
 1.2.2. A veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezés irányítása:
 
@@ -60,11 +60,11 @@ a) a tájékoztatás tartalma,
 
 b) a lakosság tájékoztatásához szükséges eszközrendszer.
 
-1.2.4.[^255] Az iparbiztonsági hatóság tájékoztatásának feladatai:
+1.2.4.[^267] Az iparbiztonsági hatóság tájékoztatásának feladatai:
 
 a) a védelmi igazgatás szervei tájékoztatásának tartalma és eszközei,
 
-b)[^256] az iparbiztonsági hatóság tájékoztatásának tartalma és eszközei.
+b)[^268] az iparbiztonsági hatóság tájékoztatásának tartalma és eszközei.
 
 1.3. A külső védelmi terv részét képezheti más jogszabály alapján létrehozott védelmi tervnek, de önálló okmányként úgy kell kialakítani, hogy tartalma és végrehajthatósága megítélhető legyen.
 
@@ -74,7 +74,7 @@ b)[^256] az iparbiztonsági hatóság tájékoztatásának tartalma és eszköze
 
 2.2. A térképeken (vázlaton) ki kell emelni a veszélyes anyagokkal foglalkozó üzem, vagy a küszöbérték alatti üzem megközelítési útvonalait, valamint a kimenekítési és egyéb, a veszélyes anyagokkal kapcsolatos súlyos baleset hatásai elleni védekezéssel kapcsolatos tevékenységek során igénybe vehető útvonalakat.
 
-[^253]: A 9. melléklet 1.2.1. pont c) alpont nyitó szövegrésze a 34/2015. (II. 27.) Korm. rendelet 30. § (5) bekezdésével megállapított szöveg.
-[^254]: A 9. melléklet 1.2.1. pont c) alpont cn) pontját az 572/2020. (XII. 9.) Korm. rendelet 26. § d) pontja iktatta be.
-[^255]: A 9. melléklet 1.2.4. pontja a 257/2024. (VIII. 29.) Korm. rendelet 40. § 8. pontja szerint módosított szöveg.
-[^256]: A 9. melléklet 1.2.4. pont b) alpontja a 257/2024. (VIII. 29.) Korm. rendelet 40. § 2. pontja szerint módosított szöveg.
+[^265]: A 9. melléklet 1.2.1. pont c) alpont nyitó szövegrésze a 34/2015. (II. 27.) Korm. rendelet 30. § (5) bekezdésével megállapított szöveg.
+[^266]: A 9. melléklet 1.2.1. pont c) alpont cn) pontját az 572/2020. (XII. 9.) Korm. rendelet 26. § d) pontja iktatta be.
+[^267]: A 9. melléklet 1.2.4. pontja a 257/2024. (VIII. 29.) Korm. rendelet 40. § 8. pontja szerint módosított szöveg.
+[^268]: A 9. melléklet 1.2.4. pont b) alpontja a 257/2024. (VIII. 29.) Korm. rendelet 40. § 2. pontja szerint módosított szöveg.

@@ -4,19 +4,9 @@ A súlyos káresemény elhárítási terv tartalmi és formai követelményei
 
 1. Tartalmi követelmények
 
-1.1. A küszöbérték alatti üzem és környezetének bemutatása: a tartalmi követelmények megegyeznek a 3. melléklet 1.2., 1.3., 1.5. pontjában foglalt követelményekkel.
+1.1.[^217] A küszöbérték alatti üzem és környezetének bemutatása: a tartalmi követelmények megegyeznek a 3. melléklet 1.2. pont 1.2.1–1.2.2. és az 1.2.7. alpontjában foglalt követelményekkel, továbbá az 1.3. pont 1.3.1–1.3.5. és 1.3.7. alpontjában foglalt követelményekkel.
 
-1.2. A veszélyes anyagokkal kapcsolatos súlyos baleset által való veszélyeztetés értékelése
-
-1.2.1. Az üzemeltető értékeli a küszöbérték alatti üzem által okozott veszélyeztetést. Az értékelés a következő szakaszokra osztható:
-
-a) a veszély meghatározása (a súlyos baleset lehetőségének azonosítása),
-
-b) az azonosított veszélyes anyagokkal kapcsolatos súlyos baleset következményeinek értékelése.
-
-1.2.2.[^206] Az üzemeltető részletesen elemzi a reálisan feltételezhető veszélyes anyagokkal kapcsolatos súlyos balesetek előfordulásának okait és körülményeit. Ennek során bemutatja a veszélyes anyagokkal kapcsolatos súlyos balesethez vezető események üzemen belüli vagy kívüli kiváltó okait és lefolyását. A veszélyazonosításhoz az üzemeltető bármilyen, e célra a nemzetközi gyakorlatban elfogadott módszert használhat.
-
-1.2.3. Az üzemeltető értékeli a reálisan feltételezett balesetek lehetséges következményeit. Ennek során az üzemeltető bemutatja azokat a területeket, melyeket az üzemből kiinduló ilyen balesetek hatásai (mérgezés, tűz és robbanás okozta hatások) érinthetnek. A területek bemutatása térképen és ezzel egyenértékű leírással történik, melynek során figyelembe kell venni e rendeletnek a védendő adatokra vonatkozó előírásait is. Az üzemeltető, a veszélyes anyagokkal kapcsolatos súlyos balesetek következményeinek értékelését bármilyen, a nemzetközi gyakorlatban, az adott típusú súlyos balesetre, a szakma által általánosan elfogadott módszerrel végezheti el. Az értékelést a technológiában feltárt minden balesetre el kell végezni, de a súlyos káresemény elhárítási tervben csak a küszöbérték alatti üzem egésze által jelentett veszélyeztetést érdemben meghatározó, legnagyobb veszélyeztetést jelentő baleseti eseménysorokat kell bemutatni.
+1.2.[^218]
 
 1.3. A veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezés és a hatások csökkentésére irányuló tevékenység erő- és eszközrendszerének leírása. Ezen belül:
 
@@ -78,7 +68,7 @@ cf) beavatkozás, kárelhárítás, mentesítés végzése,
 
 cg) az üzem környezetében kialakult veszélyhelyzet elhárításához szükséges segítségnyújtás lehetőségei és feltételei;
 
-ch)[^207] súlyos balesetet követően a környezet helyreállítása és megtisztítása;
+ch)[^219] súlyos balesetet követően a környezet helyreállítása és megtisztítása;
 
 d) az üzemi dolgozók védelme érdekében hozott intézkedések, beleértve a riasztásuk és a riasztás vételét követő magatartási rendszabályokat, a munka biztonságos szüneteltetésének, a kimenekítésnek, a gyülekezésnek a feltételeit;
 
@@ -86,11 +76,11 @@ e) annak bemutatása, hogy a védelmi intézkedések arányban állnak a küszö
 
 f) a feltárt súlyos balesetekhez kapcsolódó kárelhárítási feladatok végrehajtása feltételeinek bemutatása; a szükséges és rendelkezésre álló belső és külső erők és eszközök összevetése teljesítménymutatók alapján.
 
-1.5.[^208] A külső védelmi tervhez kapcsolódó feladatok leírása, amennyiben külső védelmi terv készítését az iparbiztonsági hatóság előírja:
+1.5.[^220] A külső védelmi tervhez kapcsolódó feladatok leírása, amennyiben külső védelmi terv készítését az iparbiztonsági hatóság előírja:
 
 a) a külső védelmi terv beindításáért felelős szervezet riasztásának módja, a riasztáskor közlendő információk, a helyzet kialakulását követő részletes információk tartalma, és az információk átadásának módja,
 
-b)[^209] a küszöbérték alatti üzem környezetében kialakult veszélyhelyzet elhárításához a segítségnyújtás lehetőségei és annak feltételei.
+b)[^221] a küszöbérték alatti üzem környezetében kialakult veszélyhelyzet elhárításához a segítségnyújtás lehetőségei és annak feltételei.
 
 1.6. A védekezési tevékenységben érintett személyek felkészítésével kapcsolatos feladatok bemutatása.
 
@@ -102,7 +92,8 @@ b)[^209] a küszöbérték alatti üzem környezetében kialakult veszélyhelyze
 
 A súlyos káresemény elhárítási terv formai követelményei megegyeznek a 3. melléklet 2. pontjában foglalt formai követelményekkel.
 
-[^206]: Az 5. melléklet 1.2.2. pontja a 408/2022. (X. 24.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
-[^207]: Az 5. melléklet 1.4. pont c) alpont ch) pontját az 572/2020. (XII. 9.) Korm. rendelet 26. § b) pontja iktatta be.
-[^208]: Az 5. melléklet 1.5. pontja a 257/2024. (VIII. 29.) Korm. rendelet 40. § 2. pontja szerint módosított szöveg.
-[^209]: Az 5. melléklet 1.5. pont b) alpontja a 476/2013. (XII. 17.) Korm. rendelet 23. § (4) bekezdésével megállapított szöveg.
+[^217]: Az 5. melléklet 1. pont 1.1. alpontja a 340/2024. (XI. 14.) Korm. rendelet 9. § (22) bekezdésével megállapított szöveg.
+[^218]: Az 5. melléklet 1. pont 1.2. alpontját a 340/2024. (XI. 14.) Korm. rendelet 9. § (22) bekezdése hatályon kívül helyezte.
+[^219]: Az 5. melléklet 1.4. pont c) alpont ch) pontját az 572/2020. (XII. 9.) Korm. rendelet 26. § b) pontja iktatta be.
+[^220]: Az 5. melléklet 1.5. pontja a 257/2024. (VIII. 29.) Korm. rendelet 40. § 2. pontja szerint módosított szöveg.
+[^221]: Az 5. melléklet 1.5. pont b) alpontja a 476/2013. (XII. 17.) Korm. rendelet 23. § (4) bekezdésével megállapított szöveg.

@@ -1,4 +1,4 @@
-23. §[^87] (1) A felső küszöbértékű veszélyes anyagokkal foglalkozó üzem biztonsági jelentésének elfogadása napját követő 180 napon belül a 9. mellékletben meghatározott tartalmi és formai követelményeknek megfelelő, végleges és jóváhagyott külső védelmi terv készül.
+23. §[^95] (1) A felső küszöbértékű veszélyes anyagokkal foglalkozó üzem biztonsági jelentésének elfogadása napját követő 180 napon belül a 9. mellékletben meghatározott tartalmi és formai követelményeknek megfelelő, végleges és jóváhagyott külső védelmi terv készül.
 
 (2) A külső védelmi terv tervezetét a biztonsági jelentés elfogadása napját követő hatvan napon belül az üzemeltető, a mentőszolgálat, a rendőrség, az illetékes iparbiztonsági, környezetvédelmi, természetvédelmi, vízügyi, valamint népegészségügyi hatáskörében eljáró fővárosi és vármegyei kormányhivatal bevonásával kell elkészíteni.
 
@@ -12,7 +12,15 @@
 
 (7) Egy külső védelmi terv készül abban az esetben is, ha az adott települést több felső küszöbértékű veszélyes anyagokkal foglalkozó üzem, alsó küszöbértékű veszélyes anyagokkal foglalkozó üzem vagy küszöbérték alatti üzem veszélyeztető hatásai érhetik.
 
-(8) A külső védelmi tervet legalább háromévente vagy az új vagy a módosított biztonsági jelentés, biztonsági elemzés vagy súlyos káresemény elhárítási terv hatóság által történő elfogadását követően az (1)–(6) bekezdésben részletezett eljárással felül kell vizsgálni, és szükség szerint módosítani kell.
+(8)[^96] A külső védelmi tervet
+
+a) felső küszöbértékű üzemek esetében legalább háromévente az új vagy a módosított biztonsági jelentés,
+
+b) alsó küszöbértékű üzemek esetében legalább négyévente az új vagy a módosított biztonsági elemzés,
+
+c) küszöbérték alatti üzemek esetében az új vagy módosított súlyos káresemény elhárítási terv
+
+hatóság által történő elfogadását követően az (1)–(6) bekezdésben részletezett eljárással felül kell vizsgálni, és szükség szerint módosítani kell.
 
 (9) A külső védelmi terv jelentős módosítása esetén új külső védelmi tervet kell kidolgozni. A külső védelmi terv jelentős módosításának tekintendő, ha a meglévő külső védelmi tervben szerepeltetett adatokhoz képest:
 
@@ -36,4 +44,5 @@ cc) a veszélyeztetett terület által érintett lakosság létszáma számottev
 
 (13) A Kat. 40. § (5) bekezdése szerinti döntés meghozatalát követően, a súlyos káresemény elhárítási terv készítésére kötelezett üzem vonatkozásában, amennyiben az adott településre külső védelmi terv készítése szükséges, az iparbiztonsági hatóság tájékoztatja erről a polgármestert és a hivatásos katasztrófavédelmi szerv helyi szervét és egyidejűleg megküldi részükre a védendő adatokat nem tartalmazó súlyos káresemény elhárítási tervet. A külső védelmi terv a hirdetményi közzététel és a közmeghallgatás biztosítása nélkül, hatvan napon belül az (1)–(6) bekezdésben foglaltak értelemszerű alkalmazásával, valamint a 9. mellékletben meghatározott tartalmi és formai követelményeknek megfelelően készül.
 
-[^87]: A 23. § a 257/2024. (VIII. 29.) Korm. rendelet 34. §-ával megállapított szöveg.
+[^95]: A 23. § a 257/2024. (VIII. 29.) Korm. rendelet 34. §-ával megállapított szöveg.
+[^96]: A 23. § (8) bekezdése a 340/2024. (XI. 14.) Korm. rendelet 9. § (14) bekezdésével megállapított szöveg.

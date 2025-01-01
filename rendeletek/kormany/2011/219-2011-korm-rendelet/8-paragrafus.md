@@ -1,6 +1,6 @@
 ## 6. A biztonsági jelentés és biztonsági elemzés
 
-8. § (1)[^25] A felső küszöbértékű veszélyes anyagokkal foglalkozó üzem üzemeltetője a 3. mellékletben meghatározott tartalmi és formai követelményeknek megfelelő biztonsági jelentést; az alsó küszöbértékű veszélyes anyagokkal foglalkozó üzem üzemeltetője a 4. mellékletben meghatározott tartalmi és formai követelményeknek megfelelő biztonsági elemzést készít, és az abban foglaltak szerint köteles működni.
+8. § (1)[^26] A felső küszöbértékű veszélyes anyagokkal foglalkozó üzem üzemeltetője a 3. mellékletben meghatározott tartalmi és formai követelményeknek megfelelő biztonsági jelentést; az alsó küszöbértékű veszélyes anyagokkal foglalkozó üzem üzemeltetője a 4. mellékletben meghatározott tartalmi és formai követelményeknek megfelelő biztonsági elemzést készít, és az abban foglaltak szerint köteles működni.
 
 (2) A biztonsági jelentésben vagy a biztonsági elemzésben az üzemeltető bemutatja a veszélyes anyagokkal kapcsolatos súlyos baleset megelőzésével és annak hatásai elleni védekezéssel kapcsolatban kialakított fő célkitűzéseit, valamint azt az üzemi szervezeti és eszközrendszert, amely biztosítja az egészség és a környezet magas fokú védelmét.
 
@@ -8,7 +8,7 @@
 
 (4) A biztonsági jelentésben vagy a biztonsági elemzésben az üzemeltető bizonyítja, hogy a veszélyes anyagokkal kapcsolatos súlyos balesetek kialakulásának lehetőségeit a biztonsági irányítási rendszer, az irányítási rendszer kialakítása során figyelembe vette.
 
-(5)[^26] A veszélyes anyagokkal foglakozó üzem üzemeltetője – a lakossági tájékoztató kiadványhoz szükséges, legalább a 10. melléklet 1.1. és 1.2. pontja szerinti adattartalommal – elkészíti a biztonsági jelentés, biztonsági elemzés kivonatát, vagy a nyilvánosságra hozható biztonsági jelentésben, biztonsági elemzésben nyilatkozik annak teljeskörű felhasználhatóságáról. A kivonat a nyilvánosságra hozható biztonsági jelentés, biztonsági elemzés részét képezi, amely – ha arra lehetőség van – a szakmai kifejezések helyett azok köznapi megfelelőjét tartalmazza.
+(5)[^27]
 
-[^25]: A 8. § (1) bekezdése a 476/2013. (XII. 17.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^26]: A 8. § (5) bekezdése a 34/2015. (II. 27.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^26]: A 8. § (1) bekezdése a 476/2013. (XII. 17.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^27]: A 8. § (5) bekezdését a 340/2024. (XI. 14.) Korm. rendelet 11. § a) pontja hatályon kívül helyezte.
