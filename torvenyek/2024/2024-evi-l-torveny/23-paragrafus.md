@@ -1,0 +1,1 @@
+23. § A 2017. évi CL. törvény 269. § (11) bekezdésében az „élelmiszerlánc-felügyeletért felelős miniszter” szövegrész helyébe az „élelmiszerlánc-felügyeletért felelős miniszter és a kereskedelemért felelős miniszter” szöveg lép.
