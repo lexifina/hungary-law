@@ -1,3 +1,1 @@
-10. §[^14]
-
-[^14]: A 10. § a 17. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+10. § Hatályát veszti a Kormányzati Adatközpont működéséről szóló 467/2017. (XII. 28.) Korm. rendelet 1. melléklete.

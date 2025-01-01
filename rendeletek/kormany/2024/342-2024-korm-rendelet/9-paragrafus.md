@@ -1,17 +1,16 @@
 9. § A Kormányzati Adatközpont működéséről szóló 467/2017. (XII. 28.) Korm. rendelet
 
-a)[^9]
+a) 3. §-ában az „amelynek keretében az 1. mellékletben meghatározott” szövegrész helyébe az „amelynek keretében” szöveg,
 
-b)[^10]
+b)[^1]
 
-c)[^11]
+c)[^2]
 
-d)[^12]
+d) 6. § (9) bekezdésében az „Az adatközponti szolgáltatások” szövegrész helyébe az „Az alapszintű norma szerinti adatközponti szolgáltatások” szöveg,
 
-e)[^13]
+e) 6. § (9a) bekezdésében és 10. § (2a) bekezdésében az „az adatközponti szolgáltatások” szövegrész helyébe az „az alapszintű norma szerinti adatközponti szolgáltatások” szöveg
 
-[^9]: A 9. § a) pontja a 17. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
-[^10]: A 9. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^11]: A 9. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^12]: A 9. § d) pontja a 17. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
-[^13]: A 9. § e) pontja a 17. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+lép.
+
+[^1]: A 9. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 9. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
