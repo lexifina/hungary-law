@@ -1,3 +1,3 @@
-3. melléklet a 215/2024. (VII. 29.) Korm. rendelethez[^6]
+3. melléklet a 215/2024. (VII. 29.) Korm. rendelethez[^7]
 
-[^6]: A 3. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 3. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
