@@ -22,8 +22,6 @@ j) Külgazdasági és Külügyminisztérium,
 
 k) Miniszterelnöki Kabinetiroda,
 
-l) Miniszterelnökség,
+l) Miniszterelnökség és
 
-m) Nemzetgazdasági Minisztérium és
-
-n) Pénzügyminisztérium.
+m) Nemzetgazdasági Minisztérium.
