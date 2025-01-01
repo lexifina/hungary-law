@@ -10,7 +10,7 @@ b) a honvédelemért felelős miniszter által vezetett minisztérium vagyonkeze
 
 engedélyével létesíthető.
 
-(4) Vadászterületen – a (3) bekezdésben meghatározott, illetve az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvény hatálya alá tartozó területeket kivéve – a vad mozgását befolyásoló, tartós telepítésű kerítés a vadászati hatóság engedélyével létesíthető.
+(4) Vadászterületen – a (3) bekezdésben meghatározott, illetve az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény hatálya alá tartozó területeket kivéve – a vad mozgását befolyásoló, tartós telepítésű kerítés a vadászati hatóság engedélyével létesíthető.
 
 (5) A vadászati hatóság a (4) bekezdés szerinti kerítés létesítését – figyelemmel a közlekedésbiztonsági szempontokra is – akkor engedélyezheti, ha
 

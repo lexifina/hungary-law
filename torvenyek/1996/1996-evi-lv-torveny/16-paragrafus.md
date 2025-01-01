@@ -6,7 +6,7 @@ b) a vadásztársaságok érdekképviseleti szerve;
 
 c) a természetvédelmi kezelésért felelős központi költségvetési szerv, a mezőgazdasági, erdészeti, vadgazdálkodási oktatást folytató középiskola és felsőoktatási intézmény, a mezőgazdasági, illetve erdőgazdálkodás ágazatba sorolt, Magyarországon bejegyzett gazdasági társaság, szövetkezet, erdőbirtokossági társulat, feltéve, ha a vadászterület legalább 25%-át, vagy a vadászterületből legalább 300 hektárt mezőgazdasági, erdőgazdálkodási vagy természetvédelemmel összefüggő tevékenység céljából használja.
 
-(1a) Vadaskert vadászati jogának haszonbérlője vagy alhaszonbérlője lehet:
+(1a) Az (1) bekezdésben foglaltaktól eltérően vadaskert vadászati jogának haszonbérlője vagy alhaszonbérlője lehet:
 
 a) a vadásztársaság;
 
