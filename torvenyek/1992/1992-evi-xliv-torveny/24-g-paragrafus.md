@@ -14,4 +14,4 @@
 
 (8) Az MRP szervezet legalább évente egyszer közbenső mérleget készít. A közbenső mérleg elfogadásáról a legfőbb szerv a fordulónapot követő 30 napon belül dönt.
 
-(9) Az MRP szervezet a javadalmazási politika keretében megszerzett pénzügyi eszközök piaci értékét a közbenső mérleg fordulónapjára, illetve a beszámoló mérlegfordulónapjára megállapítja, valamint a piaci érték változásából eredő különbözetet adózás előtti eredménye javára, vagy terhére elszámolja. A pénzügyi eszközök értékeléséből eredő adózott eredményből a résztvevő csak tagi részesedése bevonása esetén részesedhet.
+(9) Az MRP szervezet a javadalmazási politika keretében megszerzett pénzügyi eszközök piaci értékét a mérlegfordulónapra megállapítja, továbbá a beszámoló kiegészítő mellékletében bemutatja.
