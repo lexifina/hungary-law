@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-1663-30
 | --- | --- | --- |
 | 2021-09-28 | 2021-1663-30-22.1 | 1663/2021. (IX. 28.) Korm. határozat |
 | 2023-04-18 | 2021-1663-30-22.4 | 1143/2023. (IV. 18.) Korm. határozat |
+| 2025-01-01 | 2021-1663-30-22.2 | 2011: CXCV. törvény |
