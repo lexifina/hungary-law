@@ -1,4 +1,4 @@
-31/B. § (1) A hatóság elektronikus rendszert üzemeltet, amelyben a (2) bekezdésben meghatározott adatokat – létesítményenként ÜHG azonosító alkalmazásával – kezeli a végzett tevékenység megszűnését, megszüntetését követő 30 évig, az alábbi célok érdekében:
+31/B. § (1) A hatóság elektronikus rendszert üzemeltet, amelyben a (2) bekezdésben meghatározott adatokat – létesítményenként üvegházhatású gáz azonosító (a továbbiakban: ÜHG azonosító) és települési hulladékégető (a továbbiakban: THÉ) azonosító alkalmazásával – kezeli a végzett tevékenység megszűnését, megszüntetését követő 30 évig, az alábbi célok érdekében:
 
 a) az üvegházhatású gázokkal végzett tevékenységére vonatkozó jogok és kötelezettségek teljesülésének ellenőrzése,
 
@@ -50,6 +50,8 @@ cf) Európai Szennyezőanyag-kibocsátási és -szállítási Nyilvántartás (E
 
 cg) ÜHG azonosító;
 
+ch) THÉ-azonosító;
+
 d) a hatóság a)–c) ponttal összefüggő rendelkezései vonatkozásában:
 
 da) hatósági döntés iktatószáma,
@@ -60,7 +62,7 @@ dc) a bírság kiszabása mellőzésének ténye, a figyelmeztetés ténye,
 
 dd) a számlavezetési és felügyeleti díj összege és megfizetésének ténye, behajtás állapota; továbbá
 
-e) minden egyéb olyan adatot, amelynek szolgáltatására az ÜHG azonosítóval rendelkező üzemeltető a vonatkozó hazai és európai uniós jogszabályban foglalt rendelkezés szerint köteles.
+e) minden egyéb olyan adatot, amelynek szolgáltatására az ÜHG azonosítóval vagy THÉ-azonosítóval rendelkező üzemeltető a vonatkozó hazai és európai uniós jogszabályban foglalt rendelkezés szerint köteles.
 
 (3) Az (1) és (2) bekezdésben meghatározott elektronikus rendszer hatósági nyilvántartás, amely a létesítmények üvegházhatású gázokkal kapcsolatos kibocsátásaira vonatkozó adatokat közhitelesen tartalmazza.
 

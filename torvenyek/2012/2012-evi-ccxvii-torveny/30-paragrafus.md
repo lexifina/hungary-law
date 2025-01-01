@@ -1,6 +1,6 @@
 ## 11. A forgalmi jegyzék
 
-30. § (1) Az ÜHG-egységek kiosztásának, forgalmának, visszaadásának, törlésének nyilvántartására az (EU) 2019/1122 felhatalmazáson alapuló bizottsági rendelet 2. fejezete szerint a forgalmi jegyzékben és az európai uniós ügyleti jegyzőkönyvben kerül sor.
+30. § (1) A kibocsátási egységek kiosztásának, forgalmának, visszaadásának, törlésének nyilvántartására az (EU) 2019/1122 felhatalmazáson alapuló bizottsági rendelet 2. fejezete szerint a forgalmi jegyzékben és az európai uniós ügyleti jegyzőkönyvben kerül sor.
 
 (2) A forgalmi jegyzékben vezetett magyar nemzeti folyószámla feletti tulajdonosi jogokat a miniszter gyakorolja.
 

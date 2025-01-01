@@ -1,12 +1,12 @@
-34. § (1) A 32. § és a 33. § (1) bekezdése szerinti bírság megfizetésére tekintet nélkül, ha az üzemeltető vagy a légi jármű üzembentartó a jelentési és hitelesítési kötelezettségének, vagy az ÜHG-egységek visszaadására irányuló kötelezettségének határidőre részben vagy egészben nem tesz eleget, a megfelelően hitelesített jelentés benyújtásáig vagy az ÜHG-egységek visszaadásáig nem jogosult ÜHG-egységek átruházására és kiosztására.
+34. § (1) A 32. § (1) bekezdése és a 33. § (1) bekezdése szerinti bírság megfizetésére tekintet nélkül, ha az üzemeltető, a légi jármű üzembentartó vagy a hajózási társaság a jelentési és hitelesítési kötelezettségének, vagy a kibocsátási egységek visszaadására irányuló kötelezettségének határidőre részben vagy egészben nem tesz eleget, a megfelelően hitelesített jelentés benyújtásáig vagy a kibocsátási egységek visszaadásáig nem jogosult kibocsátási egységek átruházására és kiosztására.
 
-(2) Az (1) bekezdés szerinti esetben a hatóság kezdeményezi az üzemeltető vagy a légi jármű üzembentartó forgalmi jegyzékbeli számlájának zárolását. A zárolást a jegyzékkezelő akkor oldja fel, ha az üzemeltető vagy a légi jármű üzembentartó a jelentési és hitelesítési kötelezettségének a rá vonatkozó szabályok szerint eleget tett, illetve jelentése a 24. § (3) bekezdése alapján elkészült.
+(2) Az (1) bekezdés szerinti esetben a hatóság kezdeményezi az üzemeltető, a légi jármű üzembentartó vagy a hajózási társaság forgalmi jegyzékbeli számlájának felfüggesztését. A felfüggesztést a jegyzékkezelő akkor oldja fel, ha az (1) bekezdés szerinti kötelezettségszegések már nem állnak fenn.
 
-(3) A 32. § és 33. § (1) bekezdése szerinti bírság megfizetésére tekintet nélkül, amennyiben az üzemeltető vagy a légi jármű üzembentartó a jelentési vagy hitelesítési kötelezettségének, vagy az ÜHG-egységek visszaadására irányuló kötelezettségének részben vagy egészben nem tesz eleget, a hatóság az üzemeltető vagy a légi jármű üzembentartó nevét és a kötelességszegés tényét honlapján nyilvánosságra hozza.
+(3) A 32. § (1) bekezdése és a 33. § (1) bekezdése szerinti bírság megfizetésére tekintet nélkül, amennyiben az üzemeltető, légi jármű üzembentartó vagy hajózási társaság a jelentési vagy hitelesítési kötelezettségének, vagy a kibocsátási egységek visszaadására irányuló kötelezettségének részben vagy egészben nem tesz eleget, a hatóság az üzemeltető, légi jármű üzembentartó vagy hajózási társaság nevét és a kötelességszegés tényét honlapján nyilvánosságra hozza.
 
 (4)
 
-(5) A visszaadás elmulasztása esetén a hatóság zárolja az üzemeltető vagy a légi jármű üzembentartó forgalmi jegyzékbeli számláját. A zárolást a jegyzékkezelő akkor oldja fel, ha a (4) bekezdésben előírt ÜHG-egység visszaadásra kerül.
+(5) A visszaadás elmulasztása esetén a hatóság felfüggeszti az üzemeltető, légi jármű üzembentartó vagy hajózási társaság forgalmi jegyzékbeli számláját. A felfüggesztést a jegyzékkezelő akkor oldja fel, ha az előírt kibocsátási egység visszaadásra kerül.
 
 (6)
 

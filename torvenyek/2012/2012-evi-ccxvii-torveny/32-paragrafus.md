@@ -1,6 +1,6 @@
 ## 13. Jogkövetkezmények
 
-32. § (1) Ha az üzemeltető a kibocsátási engedély megszerzésére, a kibocsátások nyomon követésére, jelentésére és a jelentés hitelesítésére, a kibocsátási egység visszaadására vonatkozó kötelezettségének, a hatóság felé történő adatszolgáltatások és változások bejelentésére irányuló kötelezettségének, és a hatóság döntésében foglalt kötelezettségének részben vagy egészben nem tesz eleget, a hatóság az üzemeltetőt az e törvény végrehajtására kiadott kormányrendeletben meghatározott mértékű bírság megfizetésére kötelezi.
+32. § (1) Ha az üzemeltető a kibocsátási engedély megszerzésére, a kibocsátások nyomon követésére, jelentésére és a jelentés hitelesítésére, a tevékenységi szintről szóló jelentés és nyomonkövetési módszertani terv, valamint módosítása határidőre történő benyújtására, a kibocsátási egység visszaadására vonatkozó kötelezettségének, a hatóság felé történő adatszolgáltatások és változások bejelentésére irányuló kötelezettségének, és a hatóság döntésében foglalt kötelezettségének részben vagy egészben nem tesz eleget, a hatóság az üzemeltetőt az e törvény végrehajtására kiadott kormányrendeletben meghatározott mértékű bírság megfizetésére kötelezi.
 
 (2) A bírságot a határozat véglegessé válását követő 30 napon belül kell megfizetni. Amennyiben a határidő eredménytelenül telik el, úgy a hatóság a bírság behajtása érdekében megkeresi az állami adóhatóságot.
 

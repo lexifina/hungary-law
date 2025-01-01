@@ -1,1 +1,5 @@
-### 11. §
+11. § (1) Az 1. mellékletben foglalt táblázat 40. sora szerinti, a tengeri közlekedési tevékenységekkel kapcsolatban az e törvény végrehajtására kiadott kormányrendeletben megjelölt hatóság jár el.
+
+(2) Az 1. mellékletben foglalt táblázat 40. sora szerinti, a tengeri közlekedési tevékenységekből származó kibocsátásokkal kapcsolatban a hajózási társaság tekintetében felelős igazgatási hatóság biztosítja, hogy a felelősségi körébe tartozó hajózási társaság a jelentési időszakban nyomon kövesse és jelentse a vonatkozó paramétereket, valamint az (EU) 2015/757 európai parlamenti és tanácsi rendelet II. fejezetével összhangban nyújtsa be a társasági szintű összesített kibocsátási adatokat.
+
+(3) A hajózási társaság tekintetében felelős igazgatási hatóság biztosítja, hogy a hajózási társaság által a (2) bekezdés szerint benyújtott, hajózási társasági szintű összesített kibocsátási adatok jelentését az (EU) 2015/757 európai parlamenti és tanácsi rendelet III. fejezetében meghatározott hitelesítési és akkreditációs szabályokkal összhangban hitelesítsék.

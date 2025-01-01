@@ -1,0 +1,1 @@
+10/A. § A 2003/87/EK európai parlamenti és tanácsi irányelv 14. cikk (5) bekezdésének megfelelően a légijármű-üzemeltetők évente egyszer jelentést tesznek a 2025. január 1. után bekövetkező, nem szén-dioxiddal kapcsolatos légiközlekedési hatásokról az e törvény végrehajtására kiadott kormányrendeletben meghatározottak szerint.

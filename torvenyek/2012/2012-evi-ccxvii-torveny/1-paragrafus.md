@@ -2,15 +2,23 @@
 
 1. § (1) E törvény hatálya kiterjed:
 
-a) a kibocsátási egységek és a légiközlekedési kibocsátási egységek (a továbbiakban együtt: ÜHG-egység) kereskedelmére
+a) a kibocsátási egységek kereskedelmére
 
 b) a (2)–(4) bekezdés szerinti kivétellel az 1. mellékletben meghatározott tevékenységekre és az e tevékenységekből származó, az 1. mellékletben felsorolt üvegházhatású gázok kibocsátására, és
 
 c) az (EU) 2019/1603 felhatalmazáson alapuló bizottsági rendelet 2. cikkében meghatározott repülésekre és az azokból származó üvegházhatású gázok kibocsátására.
 
-(2) Nem terjed ki a törvény hatálya a kizárólag kutatásra, fejlesztésre és új termékek és folyamatok tesztelésére használt létesítményekre vagy létesítményrészekre, valamint a kizárólag biomasszát használó létesítményekre.
+d) az üzemeltető üvegházhatású gázok közösségi kereskedelmi rendszere hatálya alá tartozásra irányuló nyilatkozata esetén az érintett üzemeltető által folytatott tevékenységre,
 
-(3) Nem terjed ki a törvény hatálya az 1. melléklet XXII. pontja szerinti tevékenység esetében olyan légi jármű üzembentartóra, amely tekintetében nem Magyarország az adminisztrációért felelős tagállam.
+e) a 2. mellékletben meghatározott bejelentés-köteles tevékenységekre, és
+
+f) olyan hajózási társaságokra, amelyek az 2003/87/EK európai parlamenti és tanácsi irányelv 3ga. cikke szerinti tengeri közlekedési tevékenységet folytatnak.
+
+(2) Nem terjed ki e törvény hatálya a kizárólag kutatásra, fejlesztésre és új termékek és folyamatok tesztelésére használt létesítményekre vagy létesítményrészekre.
+
+(2a) Nem terjed ki e törvény hatálya a kizárólag biomasszát használó létesítményekre.
+
+(3) Nem terjed ki e törvény hatálya az 1. mellékletben foglalt táblázat 38. sora szerinti tevékenység esetében olyan légi jármű üzembentartóra, amely tekintetében nem Magyarország az adminisztrációért felelős tagállam. Nem terjed ki a törvény hatálya továbbá az 1. mellékletben foglalt táblázat 38. sorában meghatározott kivételnek számító tevékenységekre.
 
 (4) Nem terjed ki a törvény hatálya az Európai Gazdasági Térségről szóló megállapodásban részes államok (a továbbiakban: EGT-megállapodásban részes államok) területén található repülőtérről induló vagy oda érkező légi járatok üzemeltetésére, a következő esetekben
 

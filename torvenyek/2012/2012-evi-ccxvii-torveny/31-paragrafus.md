@@ -1,6 +1,6 @@
-## 12. Az ÜHG-egységek kereskedelmének nyilvánossága
+## 12. A kibocsátási egységek kereskedelmének nyilvánossága
 
-31. § Az ÜHG-egységek kereskedelmével kapcsolatos adatok, így különösen
+31. § A kibocsátási egységek kereskedelmével kapcsolatos adatok, így különösen
 
 a) a kiadott kibocsátási engedélyekre,
 

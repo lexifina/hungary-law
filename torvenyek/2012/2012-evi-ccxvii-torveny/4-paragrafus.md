@@ -12,7 +12,7 @@ c) az engedély kiadásához szükséges valamennyi feltétel változatlanul fen
 
 (3a)
 
-(3b) A hatóság a térítésmentes kiosztásra megállapított ÜHG-egységek mennyiségének alapjául szolgáló adatok megfelelőségének felülvizsgálatát hatósági ellenőrzés keretében végezheti.
+(3b) A hatóság a térítésmentes kiosztásra megállapított kibocsátási egységek mennyiségének alapjául szolgáló adatok megfelelőségének felülvizsgálatát hatósági ellenőrzés keretében végezheti.
 
 (3c) Hatósági ellenőrzés lefolytatása iránti kérelem előterjesztésének nincs helye.
 

@@ -1,6 +1,6 @@
 31/A. § (1) A hatóság ellenőrzésre jogosult alkalmazottja (a továbbiakban: ellenőr) az ellenőrzés során a létesítményt üzemeltető képviselőjének jelenlétében az ellenőrzés alá vont létesítmény tekintetében
 
-a) átvizsgálhatja az ellenőrzés alá vont létesítmény nyomonkövetési tervében, kibocsátási engedélyében, valamint a kibocsátási jelentésében található adatok és információk valóságtartalmát a tevékenység végzésének a helyszínén,
+a) átvizsgálhatja az ellenőrzés alá vont létesítmény nyomonkövetési tervében, nyomonkövetési módszertani tervében, kibocsátási engedélyében, valamint a kibocsátási jelentésében és az e törvény végrehajtására kiadott kormányrendelet szerinti, a térítésmentes kibocsátási egység megállapítására, vagy kiosztására vonatkozó jelentésekben, adatszolgáltatásokban található adatok és információk valóságtartalmát a tevékenység végzésének a helyszínén,
 
 b) felhívhatja az e törvény hatálya alá tartozó üvegházhatású gázokkal kapcsolatos tevékenységben a résztvevőket személyazonosságuk igazolására,
 

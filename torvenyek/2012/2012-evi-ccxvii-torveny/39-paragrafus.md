@@ -6,21 +6,21 @@
 
 2. a kibocsátási engedély tartalmára vonatkozó részletes szabályokat,
 
-3. az ÜHG-egységek kiosztásához szükséges részletszabályokat,
+3. a kibocsátási egységek kiosztásához szükséges részletszabályokat,
 
-4. az állam tulajdonában lévő ÜHG-egységekkel való rendelkezésre vonatkozó részletes szabályokat,
+4. az állam tulajdonában lévő kibocsátási egységekkel való rendelkezésre vonatkozó részletes szabályokat,
 
-5. az állam tulajdonában lévő ÜHG-egységek értékesítésére vonatkozó részletes szabályokat,
+5.
 
 6. a klímavédelemért felelős hatóság felügyeleti jogköre és a hatósági ellenőrzés részletes szabályait, az e területen alkalmazható jogkövetkezményeket,
 
-7. a hatóság és a jegyzékkezelő kijelölését és az ÜHG-egységek nyilvántartásának szabályait,
+7. a hatóság és a jegyzékkezelő kijelölését és a kibocsátási egységek nyilvántartásának szabályait,
 
 8. a 2003/87/EK európai parlamenti és tanácsi irányelv 10c. cikkében rögzített ingyenes kiosztás szabályait,
 
 9. az üvegházhatású gázkibocsátásokkal kapcsolatos kötelezettségek megszegéséért fizetendő bírság mértékét és a fizetési kötelezettség teljesítésének részletes szabályait,
 
-10. az 1. melléklet szerinti tevékenység gázkibocsátása engedélyezésére, a kibocsátások nyomon követésére, jelentésére és az ÜHG-egységek visszaadására vonatkozó részletes szabályokat,
+10. az 1. melléklet szerinti tevékenység gázkibocsátása engedélyezésére, a kibocsátások nyomon követésére, jelentésére és a kibocsátási egységek visszaadására vonatkozó részletes szabályokat,
 
 11. a derogációs kiosztás keretében kiosztásban részesülő villamosenergia-termelők körét és a részükre kiosztható kibocsátási egységek mennyiségét,
 
@@ -42,9 +42,9 @@
 
 20. a klíma- és energiapolitikai keretrendszer végrehajtására vonatkozó részletes szabályokat,
 
-21. az állam tulajdonában lévő ESD-egységek értékesítésére vonatkozó részletes szabályokat,
+21. az állam tulajdonában lévő ESR-egységek értékesítésére vonatkozó részletes szabályokat,
 
-22. az állam tulajdonában lévő ESD-egységekkel és az abból származó bevételekkel való gazdálkodás részletes szabályait,
+22. az állam tulajdonában lévő ESR-egységekkel és az abból származó bevételekkel való gazdálkodás részletes szabályait,
 
 23. a 31/B. § szerinti elektronikus nyilvántartás vezetésére, a regisztrációra, az adatszolgáltatásra, a jelentéstételre vonatkozó részletes szabályokat, és a megszegésük esetén alkalmazandó jogkövetkezmények részletes szabályait,
 
@@ -52,7 +52,7 @@
 
 25. a számlavezetési díj mértékét és megfizetésének szabályait,
 
-26. az ÜHG-egységekre vonatkozóan az üzemeltető és a légi jármű üzembentartó visszaadási kötelezettségére vonatkozó részletes szabályokat,
+26. a kibocsátási egységekre vonatkozóan az üzemeltető, a légi jármű üzembentartó vagy a hajózási társaság visszaadási kötelezettségére vonatkozó részletes szabályokat,
 
 27. a légi jármű üzembentartó nyomonkövetési tervének elkészítésére vonatkozó részletes szabályokat,
 
@@ -62,7 +62,9 @@
 
 30. a légi jármű üzembentartó, valamint az üzemeltető kibocsátásának nyomon követésére, hitelesített kibocsátási jelentéstételére, valamint annak hatóság részére történő benyújtására vonatkozó részletes szabályokat,
 
-31. a CER és az ERU beszámításának részletes szabályait
+31.
+
+32. a forgalmi jegyzékhez kapcsolódó számlavezetési díj mértékét és fizetésének szabályait
 
 rendeletben állapítsa meg.
 

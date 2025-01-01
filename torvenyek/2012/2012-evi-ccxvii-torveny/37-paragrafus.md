@@ -1,4 +1,4 @@
-## 16. Részvétel az üvegházhatású gázok kibocsátásának 2020-ig tartó csökkentésére irányuló európai uniós erőfeszítésben
+## 16. Részvétel az üvegházhatású gázok kibocsátásának csökkentésére irányuló európai uniós erőfeszítésben
 
 37. § (1)
 

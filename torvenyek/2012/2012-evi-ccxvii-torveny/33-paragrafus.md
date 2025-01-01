@@ -1,4 +1,4 @@
-33. § (1) Ha a légi jármű üzembentartó a nyomon követési terv jóváhagyásának megszerzésére, a kibocsátások nyomon követésére, jelentésére és a jelentés hitelesítésére, a légiközlekedési kibocsátási egység visszaadására, valamint a hatóság felé történő adatszolgáltatások és változások bejelentésére irányuló kötelezettségének, és a hatóság döntésében foglalt kötelezettségének részben vagy egészben nem tesz eleget, a hatóság az üzemeltetőt e törvény végrehajtására kiadott kormányrendeletben meghatározott mértékű bírság megfizetésére kötelezi.
+33. § (1) Ha a légi jármű üzembentartó a nyomon követési terv jóváhagyásának megszerzésére, a kibocsátások nyomon követésére, jelentésére és a jelentés hitelesítésére, a kibocsátási egység visszaadására, valamint a hatóság felé történő adatszolgáltatások és változások bejelentésére irányuló kötelezettségének, és a hatóság döntésében foglalt kötelezettségének részben vagy egészben nem tesz eleget, a hatóság az üzemeltetőt e törvény végrehajtására kiadott kormányrendeletben meghatározott mértékű bírság megfizetésére kötelezi.
 
 (2) A bírságot a határozat véglegessé válását követő 30 napon belül kell megfizetni. Amennyiben a határidő eredménytelenül telik el, úgy a hatóság a bírság behajtása érdekében megkeresi az állami adóhatóságot. Ismételt kötelezettségszegés esetén a hatóság a (4) bekezdésben foglalt intézkedés megtételét kezdeményezi.
 
@@ -6,7 +6,7 @@
 
 (4) Az (1) bekezdésben meghatározott bírság alkalmazása céljából, amennyiben a légi jármű üzembentartónak térítésmentesen járó kibocsátási egységek száma azért nem állapítható meg, mert
 
-a) a légi jármű üzembentartó nem nyújtott be hitelesített éves kibocsátási jelentést és tonnakilométer-adatokat tartalmazó jelentést az e törvényben előírt határidőre,
+a) a légi jármű üzembentartó nem nyújtott be hitelesített éves kibocsátási jelentést az e törvényben előírt határidőre,
 
 b) a hitelesített éves kibocsátási jelentés nincs összhangban e törvény rendelkezéseivel, vagy
 
