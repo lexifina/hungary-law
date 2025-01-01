@@ -92,14 +92,12 @@ d) 1 300 000 forint a 2026. évi központi költségvetés I. Országgyűlés fe
 
 | Határidő: | a 1.11. alpont szerinti forrás rendelkezésre állását követően azonnal |
 
-2. A nemzetbiztonsági védelem alá eső szervek és létesítmények köréről szóló 2009/2015. (XII. 29.) Korm. határozat 1. melléklete a következő 2.66. és 2.67. ponttal egészül ki:
+2.[^1]
 
-(A központi államigazgatási és kormányzati tevékenység szempontjából fontos gazdálkodó szervezetek és létesítményeik:)
+3.[^2]
 
-„2.66. Pro-M Professzionális Mobilszolgáltató Zártkörűen Működő Részvénytársaság,
+4.[^3]
 
-2.67. IdomSoft Informatikai Zrt.”
-
-3. A nemzetbiztonsági védelem alá eső szervek és létesítmények köréről szóló 2009/2015. (XII. 29.) Korm. határozat 1. melléklet 2.22. pontjában a „NISZ Nemzeti Infokommunikációs Szolgáltató Zrt. és a közvetlen irányítása alatt álló Pro-M Professzionális Mobilrádió Zrt., IdomSoft Informatikai Zrt.,)” szövegrész helyébe a „NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.” szöveg lép.
-
-4. A Kormány visszavonja a Hévíz turizmusának fejlesztéséhez szükséges intézkedésekről szóló 1506/2023. (XI. 17.) Korm. határozat 5. és 6. pontját.
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
