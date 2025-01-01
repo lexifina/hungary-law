@@ -10,21 +10,7 @@
 
 ## 6.[^2] a Fejlesztésnek a Korm. rendelet 2. § (2) bekezdés a) és g) pontjában rögzített előkészítési fázisaira legfeljebb 4 522 500 forint forrást biztosít azzal, hogy az előkészítési fázisokat legkésőbb 2022. szeptember 30-ig meg kell valósítani;
 
-## 7.[^3] az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva, az előkészítési fázisok finanszírozása érdekében 675 198 476 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt, valamint a nem rendeltetésszerűen felhasznált rész tekintetében visszafizetési kötelezettséggel a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 1. Központi kezelésű előirányzatok cím, 1. Központi tartalékok alcím, 2. Beruházás Előkészítési Alap jogcímcsoport terhére, a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 3. Nemzeti Sportközpontok cím javára, a 2. melléklet szerint;
-
-## Az átcsoportosítás tekintetében
-
-## Felelős: pénzügyminiszter
-
-## emberi erőforrások minisztere
-
-## Határidő: azonnal
-
-## Az elszámolás, a fel nem használt, valamint a nem rendeltetésszerűen felhasznált rész visszafizetése tekintetében
-
-## Felelős: emberi erőforrások minisztere
-
-## Határidő: az 5. pont tekintetében 2023. március 31. a 6. pont tekintetében 2022. szeptember 30.
+## 7.[^3]
 
 ## 8. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a Beruházások megvalósítására lefolytatott feltételes közbeszerzési eljárás eredménye alapján készítsen előterjesztést a Kormány részére a Beruházások megvalósításáról, a kivitelezéshez kapcsolódó kötelezettségvállalási összeg és a kifizetések ütemezésének, valamint – az emberi erőforrások minisztere és a Nemzeti Sportközpontok bevonásával – az üzemeltetési költségeknek a bemutatásával.
 
@@ -38,4 +24,4 @@
 
 [^1]: Az 5. pont az 1439/2022. (IX. 9.) Korm. határozat 1. pont a) pontja szerint módosított szöveg.
 [^2]: A 6. pont az 1439/2022. (IX. 9.) Korm. határozat 1. pont b) pontja szerint módosított szöveg.
-[^3]: A 7. pont az 1439/2022. (IX. 9.) Korm. határozat 1. pont c) pontja szerint módosított szöveg.
+[^3]: A 7. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.

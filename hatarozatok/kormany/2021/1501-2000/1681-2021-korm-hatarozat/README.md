@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-1681-30
 | --- | --- | --- |
 | 2021-09-29 | 2021-1681-30-22.1 | 1681/2021. (IX. 29.) Korm. határozat |
 | 2022-09-09 | 2021-1681-30-22.3 | 1439/2022. (IX. 9.) Korm. határozat |
+| 2025-01-01 | 2021-1681-30-22.2 | 2011: CXCV. törvény |
