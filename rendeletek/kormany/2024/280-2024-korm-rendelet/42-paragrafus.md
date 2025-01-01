@@ -1,0 +1,7 @@
+## 41. Szélerőművek elhelyezésének sajátos szabályai
+
+42. § (1) Beépítésre szánt területen és annak határától számított 700 méteres védőzónán belül szélerőművet és szélerőmű parkot nem lehet elhelyezni, kivéve az ipari gazdasági terület és az egyéb ipari gazdasági terület építési övezetekben elhelyezkedő azon területet, ahol a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló törvény szerinti beruházás valósult meg vagy folyamatban van, vagy a Méptv. szerinti kiemelt beruházás valósult meg vagy folyamatban van.
+
+(2) Beépítésre nem szánt területen – az (1) bekezdés szerinti védőzónán kívül – nem lehet szélerőművet elhelyezni az országos ökológiai hálózat övezetében, a kiváló termőhelyi adottságú szántók övezetében, a tájképvédelmi szempontból kiemelten kezelendő terület övezetében, a tájképvédelmi terület övezetében, valamint a világörökségi és világörökségi várományos területek övezetében.
+
+(3) A Magyar Honvédség által üzemeltetett radaroktól számított 40 kilométer, valamint a katonai repülőterektől számított 15 kilométeren belül új szélerőmű, vagy szélerőmű park nem helyezhető el, a meglévő szélerőművek magassága nem növelhető, a szélerőmű parkok nem bővíthetők. E területeken kívül új szélerőmű vagy szélerőmű park akkor létesíthető, a meglévő szélerőművek magassága akkor növelhető, a szélerőmű parkok akkor bővíthetők, ha igazolható, hogy a tervezett szélerőmű vagy szélerőmű park létesítése és működése honvédelmi és katonai képességcsökkenést nem okoz.

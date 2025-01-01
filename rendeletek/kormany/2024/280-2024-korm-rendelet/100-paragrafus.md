@@ -1,0 +1,1 @@
+100. § Az elektronikus hírközlési szolgáltatáshoz szükséges vezetékek, berendezések épületen belüli elhelyezését úgy kell megvalósítani, hogy minden huzamos emberi tartózkodásra szánt helyiségben biztosítható legyen a hírközlési szolgáltatás elérhetősége.

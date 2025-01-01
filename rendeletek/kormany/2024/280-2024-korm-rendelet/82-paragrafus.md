@@ -1,0 +1,3 @@
+82. § (1) Az építményt és annak alapjait, továbbá a terepszint alatti szerkezeteket szilárd, víznek ellenálló anyagból, a helyszíni adottságok figyelembevételével úgy kell kialakítani, hogy azok a rákerülő terheket biztonsággal adják át az építmény alatti talaj teherbíró rétegének és a fagy károsító hatásának ellenálljanak. A várható építménysüllyedés, talajmozgás az építményben káros hatást, az építmény és más építmények között káros kölcsönhatást sem az építés időszaka alatt, sem a megvalósult állapotban nem eredményezhet.
+
+(2) Az építmény lábazatát szilárd, fagyálló anyagból kell készíteni.
