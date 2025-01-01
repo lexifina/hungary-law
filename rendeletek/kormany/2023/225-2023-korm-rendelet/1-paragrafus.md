@@ -21,3 +21,7 @@ i) a Nemzeti Adó- és Vámhivatal,
 j) az Országos Rendőr-főkapitányság,
 
 k) az országos természetvédelmi hatóság.
+
+l)[^1] a Nemzeti Kereskedelmi és Fogyasztóvédelmi Hatóság.
+
+[^1]: Az 1. § l) pontját a 328/2024. (XI. 14.) Korm. rendelet 30. §-a iktatta be.
