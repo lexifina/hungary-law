@@ -8,7 +8,7 @@ b) az öregségi nyugdíj megállapításának kezdő napját megelőző nappal.
 
 a) kérte,
 
-b) más rendszeres pénzellátásban részesül, ide nem értve a táppénzt, baleseti táppénzt, csecsemőgondozási díjat, gyermekgondozási díjat és az örökbefogadói díjat,
+b) más rendszeres pénzellátásban részesül, ide nem értve a csecsemőgondozási díjat, gyermekgondozási díjat és az örökbefogadói díjat,
 
 c) egészségi állapotában olyan tartós javulás következett be, amely alapján a jogosultsági feltételek már nem állnak fenn,
 

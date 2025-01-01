@@ -12,7 +12,7 @@ a) kérte,
 
 b)
 
-c) más rendszeres pénzellátásban részesül, ide nem értve a táppénzt, baleseti táppénzt, csecsemőgondozási díjat, gyermekgondozási díjat és az örökbefogadói díjat,
+c) más rendszeres pénzellátásban részesül, ide nem értve a csecsemőgondozási díjat, gyermekgondozási díjat és az örökbefogadói díjat,
 
 d) egészségi állapotában olyan tartós rosszabbodás következett be, amely a rehabilitációt lehetetlenné teszi,
 
