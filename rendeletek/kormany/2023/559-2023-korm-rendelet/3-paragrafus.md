@@ -6,4 +6,12 @@
 
 (3) A koncessziós társaság legalább ötévente, országos szinten adatot gyűjt a házi és közösségi komposztálás során képződő komposzt mennyiségéről és felhasználásáról.
 
-(4) A biológiailag lebomló hulladék képződésének megelőzésére vonatkozó szemléletformálás és edukáció a lakosság körében a Nemzeti Élelmiszerlánc-biztonsági Hivatal által működtetett Maradék nélkül – Élelmiszerhulladék-megelőzési Nemzeti Program országos előadássorozat hozzájárulásával valósul meg annak érdekében, hogy az Egyesült Nemzetek Szervezete által megfogalmazott 12.3. számú fenntartható fejlődési cél 2030-ig teljesüljön Magyarországon.
+(4)[^1] A biológiailag lebomló hulladék képződésének megelőzésére vonatkozó szemléletformálás és edukáció a lakosság körében
+
+a) a Nemzeti Élelmiszerlánc-biztonsági Hivatal által működtetett Maradék nélkül – Élelmiszerhulladék-megelőzési Nemzeti Program országos előadássorozat, valamint
+
+b) a Nemzeti Kereskedelmi és Fogyasztóvédelmi Hatóság által végzett fogyasztói tudatosság erősítő tevékenység
+
+hozzájárulásával valósul meg annak érdekében, hogy az Egyesült Nemzetek Szervezete által megfogalmazott 12.3. számú fenntartható fejlődési cél 2030-ig teljesüljön Magyarországon.
+
+[^1]: A 3. § (4) bekezdése a 328/2024. (XI. 14.) Korm. rendelet 31. §-ával megállapított szöveg.
