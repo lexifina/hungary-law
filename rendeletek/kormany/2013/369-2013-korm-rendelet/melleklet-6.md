@@ -1,4 +1,4 @@
-6. melléklet a 369/2013. (X. 24.) Korm. rendelethez[^190]
+6. melléklet a 369/2013. (X. 24.) Korm. rendelethez[^191]
 
 A kormányhivatal hatósági engedélyezési eljárásában az eljáró hatóság által vizsgálandó szakkérdések
 
@@ -36,4 +36,4 @@ A kormányhivatal hatósági engedélyezési eljárásában az eljáró hatósá
 
 | 16 | Adatmódosítás a szolgáltatói nyilvántartásban. | Az engedélyesre vonatkozó létesítési, használati és üzemeltetési tűzvédelmi előírások érvényesítése. | Ha a) a tűzvédelmi szakhatóság szakhatósági állásfoglalása miatt a szolgáltatói nyilvántartásba történő bejegyzés ideiglenes hatályú, és a fenntartó az ideiglenes hatályú bejegyzés határozatlan vagy határozott idejű bejegyzésre történő módosítását, illetve hatályának meghosszabbítását kéri, vagy b) a fenntartó a tűzvédelmi szakhatóság által meghatározott egyedi szakhatósági előírás, feltétel módosítását vagy törlését kéri. |
 
-[^190]: A 6. mellékletet a 258/2024. (VIII. 29.) Korm. rendelet 10. §-a iktatta be.
+[^191]: A 6. mellékletet a 258/2024. (VIII. 29.) Korm. rendelet 10. §-a iktatta be.

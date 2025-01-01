@@ -22,12 +22,15 @@ c) a bejegyzett szolgáltatások felsorolását,
 
 d) azt, hogy az engedélyes bejegyzésére, adatmódosításra vagy az engedélyes törlésére került-e sor.
 
+(4a)[^58] A (3) bekezdés szerinti értesítésnek nem kell tartalmaznia a (4) bekezdés c) pontjában foglaltakat az engedélyes törlése esetén, valamint ha az adatmódosítás a bejegyzett szolgáltatásokat nem érinti.
+
 (5) Nem kell a (3) bekezdés szerint értesítést küldeni a fenntartó és a szolgáltató, engedélyes telefonszámának, telefaxszámának, elektronikus levélcímének és honlapcímének, valamint a kapcsolattartó nevének, beosztásának, telefonszámának és elektronikus levélcímének bejegyzéséről, módosításáról és törléséről.
 
-(6)[^58] A 4. § (4) és (5) bekezdése szerinti esetben az eljárás megindításáról, az adatmódosításról és annak véglegessé válásáról a szolgáltatói nyilvántartás informatikai rendszere értesítést küld a 4. § (1)–(3) bekezdése szerint illetékes vármegyei működést engedélyező szervnek.
+(6)[^59] A 4. § (4) és (5) bekezdése szerinti esetben az eljárás megindításáról, az adatmódosításról és annak véglegessé válásáról a szolgáltatói nyilvántartás informatikai rendszere értesítést küld a 4. § (1)–(3) bekezdése szerint illetékes vármegyei működést engedélyező szervnek.
 
 [^54]: A 17. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 457. § 4. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^55]: A 17. § (2) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 458. § b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^56]: A 17. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 248. § (5) bekezdésével megállapított, nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 457. § 5. pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^57]: A 17. § (3) bekezdés b) pontja a 610/2020. (XII. 18.) Korm. rendelet 18. §-ával megállapított, a 448/2021. (VII. 26.) Korm. rendelet 5. §-a szerint módosított szöveg.
-[^58]: A 17. § (6) bekezdése a 70/2015. (III. 30.) Korm. rendelet 234. § (11) bekezdés f) pontja, a 457/2017. (XII. 28.) Korm. rendelet 457. § 6. pontja, a 616/2022. (XII. 29.) Korm. rendelet 168. § a) pontja szerint módosított szöveg. [A 17. § (6) bekezdésében a 379/2016. (XII. 2.) Korm. rendelet 248. § (12) bekezdés e) pontjával elrendelt módosítás, amely szerint az „a 4. § (1)–(3) bekezdése alapján illetékes megyei” szövegrész helyébe az „az általánosan illetékes” szöveg lép, nem vezethető át.]
+[^58]: A 17. § (4a) bekezdését a 104/2024. (V. 9.) Korm. rendelet 25. §-a iktatta be.
+[^59]: A 17. § (6) bekezdése a 70/2015. (III. 30.) Korm. rendelet 234. § (11) bekezdés f) pontja, a 457/2017. (XII. 28.) Korm. rendelet 457. § 6. pontja, a 616/2022. (XII. 29.) Korm. rendelet 168. § a) pontja szerint módosított szöveg. [A 17. § (6) bekezdésében a 379/2016. (XII. 2.) Korm. rendelet 248. § (12) bekezdés e) pontjával elrendelt módosítás, amely szerint az „a 4. § (1)–(3) bekezdése alapján illetékes megyei” szövegrész helyébe az „az általánosan illetékes” szöveg lép, nem vezethető át.]

@@ -1,3 +1,3 @@
-50/C. §[^164]
+50/C. §[^165]
 
-[^164]: Az 50/C. §-t a 284/2015. (IX. 29.) Korm. rendelet 15. §-a iktatta be, hatályon kívül helyezte a 238/2022. (VI. 30.) Korm. rendelet 134-a.
+[^165]: Az 50/C. §-t a 284/2015. (IX. 29.) Korm. rendelet 15. §-a iktatta be, hatályon kívül helyezte a 238/2022. (VI. 30.) Korm. rendelet 134-a.
