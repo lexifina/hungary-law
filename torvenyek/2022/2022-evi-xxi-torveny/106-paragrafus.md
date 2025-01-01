@@ -1,6 +1,6 @@
 ## 55. A katonai rendész igazolvány kiadásával kapcsolatos adatkezelés
 
-106. § (1) A Honvédség központi nyilvántartó szerve Magyarország területén működtetett katonai rendészeti feladatra kijelölt állomány ez irányú jogosultságainak és a katonai rendészeti szolgálat ellátásának igazolására szolgáló igazolvány kiadásával összefüggő feladatok ellátása céljából a 27. melléklet 1–8. és 10–13. pontja szerinti adatokat és az adatok hitelességét igazoló iratokat vagy másolataikat kezeli a katonai rendész jogosultság kezdetétől a jogosultság megszűnését követő 5 évig, vagy a hiánypótlásra nyitva álló idő eredménytelen leteltéig.
+106. § (1) A Honvédség központi nyilvántartó szerve Magyarország területén működtetett katonai rendészeti feladatra kijelölt állomány ez irányú jogosultságainak és a katonai rendészeti szolgálat ellátásának igazolására szolgáló igazolvány kiadásával összefüggő feladatok ellátása céljából a 27. melléklet 1–8., 10–13. és 16. pontja szerinti adatokat és az adatok hitelességét igazoló iratokat vagy másolataikat kezeli a katonai rendész jogosultság kezdetétől a jogosultság megszűnését követő 5 évig, vagy a hiánypótlásra nyitva álló idő eredménytelen leteltéig.
 
 (2) A katonai rendész igazolvány tartalmazza:
 
@@ -22,7 +22,7 @@ h) az „Intézkedésre és fegyverviselésre jogosult!” feliratot.
 
 (3) A (2) bekezdés a) és b) pontja szerinti adatokat, a (2) bekezdés c) pontja szerinti érvényességi időt, valamint a (2) bekezdés e) és h) pontja szerinti adatokat a katonai rendész igazolvány angol és magyar nyelven is tartalmazza.
 
-(4) A honvédelmi szervezet az igazolvány érintett részére történő igénylésekor a személyügyi nyilvántartásból továbbítja az érintett 27. melléklet 1–8. és 10. pontja szerinti adatait a Honvédség központi nyilvántartó szerve részére az igazolvány kiadásával összefüggő feladatok ellátása céljából.
+(4) A honvédelmi szervezet az igazolvány érintett részére történő igénylésekor a személyügyi nyilvántartásból továbbítja az érintett 27. melléklet 1–8., 10., 13. és 16. pontja szerinti adatait a Honvédség központi nyilvántartó szerve részére az igazolvány kiadásával összefüggő feladatok ellátása céljából.
 
 (5) A Honvédség központi nyilvántartó szerve az elkészült igazolványt megküldi a honvédelmi szervezet számára az érintett részére történő átadás és az ehhez kapcsolódó (6) bekezdés szerinti nyilvántartás vezetése céljából.
 

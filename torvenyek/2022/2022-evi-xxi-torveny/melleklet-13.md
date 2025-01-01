@@ -20,7 +20,7 @@ A toborzó nyilvántartásban kezelt adatok
 
 1.8. adóazonosító jel, Társadalombiztosítási Azonosító Jel,
 
-1.9. a személyazonosító igazolvány száma, érvényességi ideje, útlevél száma, érvényességi ideje,
+1.9. a személyazonosító igazolvány száma, érvényességi ideje, úti okmány típusa, száma, érvényességi ideje,
 
 1.10. állampolgárság,
 

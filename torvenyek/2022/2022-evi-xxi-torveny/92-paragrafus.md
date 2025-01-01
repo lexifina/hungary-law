@@ -2,11 +2,11 @@
 
 92. § (1) A katonai rehabilitációs nyilvántartásban (a továbbiakban: rehabilitációs nyilvántartás) kell kezelni a (4) bekezdés szerinti személy 26. melléklet szerinti adatait.
 
-(2) A 26. melléklet 10. és 11. pontjában foglalt adatok tekintetében közhiteles nyilvántartásnak minősül.
+(2)
 
-(3) A rehabilitációs nyilvántartás adatait a társadalmi kapcsolattartásért felelős honvédelmi szervezet szerve a társadalombiztosítási, a szociális és a kegyeleti ellátásra való jogosultság megszűnéséig kezeli.
+(3) A rehabilitációs nyilvántartás adatait az adatkezelő legfeljebb a döntés meghozatalát követő év december 31. napjáig kezeli.
 
-(4) A rehabilitációs nyilvántartásban történő adatkezelés célja a rehabilitált katona részére a katonai rehabilitációt követően, a rehabilitációs határozat alapján társadalombiztosítási, katonai ruházati, szociális, egészségügyi, kegyeleti ellátásai megállapításának és folyósításának biztosítása.
+(4) A rehabilitációs nyilvántartásban történő adatkezelés célja a rehabilitációs eljárás lefolytatása és a döntés meghozatala, a rehabilitált katona részére a katonai rehabilitációt követően a rehabilitációs határozat alapján társadalombiztosítási, katonai ruházati, szociális, egészségügyi, kegyeleti ellátásai megállapításának és folyósításának biztosítása.
 
 (5) A rehabilitációs nyilvántartásban szereplő adatokat, valamint az azok alapjául szolgáló iratokat a (3) bekezdés szerinti idő eltelte után megőrzésre a Honvédség központi irattározási feladatát ellátó honvédelmi szervezetnek kell átadni.
 

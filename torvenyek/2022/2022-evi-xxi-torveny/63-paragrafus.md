@@ -2,18 +2,14 @@
 
 a) a miniszter, a minisztérium államtitkára, közigazgatási államtitkára, helyettes államtitkára, valamint a HVKF,
 
-b) fellebbezés esetén az alárendeltjei vonatkozásában az állományilletékes parancsnok, a munkáltatói jogkör gyakorló,
+b) a miniszter törvényességi felügyeleti jogkörében ellenőrzést végző honvédelmi szervezet,
 
-c) a miniszter törvényességi felügyeleti jogkörében ellenőrzést végző honvédelmi szervezet,
+c) a szolgálati, illetve a szakmai elöljárói ellenőrzéseket végrehajtó honvédelmi szervezet.
 
-d) a honvédelmi szervezetek jogi képviseletét ellátó honvédelmi szervezet,
+(2) Kártérítési nyilvántartásból
 
-e) a szolgálati, illetve a szakmai elöljárói ellenőrzéseket végrehajtó honvédelmi szervezet.
+a) a pénzügyi feladatok végrehajtása céljából a pénzügyi nyilvántartás részére,
 
-(2) Kártérítés vagy kártalanítás megállapítása esetén a pénzügyi feladatok végrehajtása céljából adatközlés történik a pénzügyi nyilvántartás részére.
+b) a 77. § (1) bekezdés g) pontja szerinti adat tekintetében, a logisztikai feladatok végrehajtása céljából, a logisztikai nyilvántartás részére
 
-(3) A kártérítési felelősség körében meg nem térülő károk leírása érdekében a kártérítési eljárás lezárását követően adatközlés történik
-
-a) a pénzügyi rendezés végrehajtása céljából a pénzügyi nyilvántartás részére,
-
-b) a logisztikai feladatok végrehajtása céljából a logisztikai nyilvántartás részére.
+adatátadás történik.

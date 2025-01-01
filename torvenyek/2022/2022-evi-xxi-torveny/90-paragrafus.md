@@ -1,4 +1,4 @@
-90. § (1) Az önkéntes tartalékosok ösztöndíja vonatkozásában, a pályázatok kiírására, elbírálására és az ezzel összefüggő kiértesítésre kijelölt honvédelmi szervezet és a szerződések megkötésére kijelölt honvédelmi szervezet az ösztöndíjra pályázók és az ösztöndíjban részesülők következő adatait kezeli:
+90. § (1) Az önkéntes tartalékosok ösztöndíja vonatkozásában, a pályázatok kiírására, elbírálására és az ezzel összefüggő kiértesítésre kijelölt honvédelmi szervezet és a szerződések megkötésére kijelölt honvédelmi szervezet a 47. § (3) bekezdés d) pontjában meghatározott célból az ösztöndíjra pályázók és az ösztöndíjban részesülők következő adatait kezeli:
 
 a) családi és utónevét, születési nevét,
 
@@ -12,7 +12,7 @@ e) büntetlen előéletre vonatkozó adatát,
 
 f) telefonszámát, e-mail-címét, levelezési címét,
 
-g) oktatási intézmény megnevezését, tanulói státuszát,
+g) oktatási intézmény megnevezését, tanulói státuszát, OM-azonosítót,
 
 h) tanulmányi igazolását,
 
@@ -34,7 +34,7 @@ id) bankszámlaszámát.
 
 (5) A szerződések megkötésére kijelölt honvédelmi szervezet az (1) bekezdésben meghatározott adatokat
 
-a) nyertes pályázat esetén az ösztöndíj folyósításának megszüntetését követő 3 évig,
+a) nyertes pályázat esetén az ösztöndíj folyósításának megszüntetését követő nyolcadik év december 31-éig,
 
 b) eredménytelen vagy elutasított pályázat esetén az eredménytelen vagy elutasított pályázatokkal kapcsolatos feladatok ellátásáig, de legkésőbb a pályázat elbírálását követő 3 évig
 

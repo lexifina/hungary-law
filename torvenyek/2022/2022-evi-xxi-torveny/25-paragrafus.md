@@ -8,7 +8,7 @@
 
 (5) A hadkiegészítő és toborzó központ a katonai szolgálatot önként vállaló honvédelmi alkalmazottak 8. melléklet 1., 4. és 5. pontja szerinti adatait az egészségi, pszichikai alkalmasságra vonatkozó adatok nyilvántartása, a hadkötelezettség bevezetését követő katonai szolgálatteljesítésének biztosítása céljából továbbítja az egészségügyi adatkezelést végző honvédelmi szervezet részére.
 
-(6) A katonai szolgálatot önként vállaló honvédelmi alkalmazott alkalmasságvizsgálata során felhasznált, illetve keletkezett egészségügyi dokumentációt az adatfelvételtől számított 30 évig kell megőrizni. Az egészségügyi adatkezelést végző honvédelmi szervezet az (5) bekezdés szerinti adatkezelés adatait az adatfelvételtől számított 30 évig kezeli.
+(6)
 
 (7) Az állományilletékes honvédelmi szervezet, illetve a miniszter közvetlen irányítása és fenntartói irányítása alá tartozó szervezet a (4) bekezdés szerinti adatkezelés adatait
 

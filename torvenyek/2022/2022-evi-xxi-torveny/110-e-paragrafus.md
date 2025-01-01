@@ -2,8 +2,8 @@
 
 (2) Az árvák kiegészítő támogatásának a mértéke
 
-a) hősi halott árvája esetében a megállapított árvaellátás ötven százaléka,
+a) hősi halott árvája esetében a megállapított árvaellátás száz százaléka,
 
-b) a szolgálati kötelmekkel összefüggő balesetben vagy szolgálati eredetű foglalkozási megbetegedésben elhunyt árvája esetében a megállapított árvaellátás huszonöt százaléka, vagy
+b) a szolgálati kötelmekkel összefüggő balesetben vagy szolgálati eredetű foglalkozási megbetegedésben elhunyt árvája esetében a megállapított árvaellátás ötven százaléka, vagy
 
-c) az a) és a b) pont alá nem tartozó árva esetében a megállapított árvaellátás tíz százaléka.
+c) az a) és a b) pont alá nem tartozó árva esetében a megállapított árvaellátás húsz százaléka.

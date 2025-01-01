@@ -1,6 +1,6 @@
 ## 30. Kiértesítéssel kapcsolatos nyilvántartás
 
-65. § (1) A honvédelmi szervezet kiértesíthetőség céljából kezeli a honvédelmi szervezetnél szolgálatot teljesítő, munkát végző személyi állomány kiértesítésére és kiértesíthetőségére vonatkozó adatait, valamint más honvédelmi szervezetnél szolgálatot teljesítő, munkát végző személyi állomány kiértesítésére és kiértesíthetőségére vonatkozó adatait, ha részükre a szolgálatteljesítés, munkavégzés helyeként az adott honvédelmi szervezet kerül meghatározásra.
+65. § (1) A honvédelmi szervezet, a szakképző intézmény kiértesíthetőség céljából kezeli a honvédelmi szervezetnél, valamint a szakképző intézménynél szolgálatot teljesítő, munkát végző személyi állomány kiértesítésére és kiértesíthetőségére vonatkozó adatait, valamint más honvédelmi szervezetnél szolgálatot teljesítő, munkát végző személyi állomány kiértesítésére és kiértesíthetőségére vonatkozó adatait, ha részükre a szolgálatteljesítés, munkavégzés helyeként az adott honvédelmi szervezet vagy a szakképző intézmény kerül meghatározásra.
 
 (2) Belső szabályozóban létrehozott készenléti szolgálatban több honvédelmi szervezet állományából szolgálatot teljesítő, munkát végző személyi állomány kiértesítésére és kiértesíthetőségére vonatkozó adatokat a kiértesítési kötelezettséggel rendelkező honvédelmi szervezet kezeli.
 
@@ -8,7 +8,7 @@
 
 a) név, rendfokozat, beosztás,
 
-b) lakcím, telefonszám, valamint
+b) lakcím, telefonszám, e-mail-cím, valamint
 
 c) a jelenlétre, illetve távollétre vonatkozó adatok, különösen jelen, szolgálatban, vezényelve, szolgálati úton, egészségügyi, illetve betegszabadságon, kórházban, szabadságon, pihenőnapon, engedély nélkül távol, egyéb okból távol.
 

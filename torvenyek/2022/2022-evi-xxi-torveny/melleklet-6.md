@@ -32,7 +32,13 @@ A hadköteles nyilvántartás adatai
 
 3.3. telefonszáma,
 
-4. további állampolgársága,
+4. állampolgársággal kapcsolatos adatok:
+
+4.1. magyar állampolgárság megszerzése,
+
+4.2. további állampolgárság megszerzése,
+
+4.3. további állampolgárság megszűnése,
 
 5. családi állapota,
 
@@ -48,7 +54,7 @@ A hadköteles nyilvántartás adatai
 
 6.5. idegen nyelv ismerete és annak foka,
 
-6.6. a közúti közlekedési nyilvántartó szerv nyilvántartásában szereplő engedély típusára, kiadására, érvényességére, cseréjére, visszavonására, bevonására, a vezetési jogosultság megszerzésének időpontjára, a megszerzett kategóriára vonatkozó és a hivatalos feljegyzések rovatban bejegyzett adatok,
+6.6. a közúti közlekedési nyilvántartó szerv nyilvántartásában szereplő engedély típusára, kiadására, érvényességére, cseréjére, visszavonására, bevonására, a megszerzett kategóriára vonatkozó és a hivatalos feljegyzések rovatban bejegyzett adatok,
 
 6.7. saját háztartásában eltartott vér szerinti, örökbefogadott, mostoha és nevelt gyermeke születésének ideje,
 
@@ -88,7 +94,7 @@ A hadköteles nyilvántartás adatai
 
 12. külföldi letelepedése,
 
-13. az állampolgárság megszűnése,
+13. a magyar állampolgárság megszűnése,
 
 14. szolgálati adatai:
 
@@ -110,7 +116,7 @@ A hadköteles nyilvántartás adatai
 
 14.9. közoktatás és felsőoktatás keretében és egyéb képzésben, tanfolyamon megszerzett honvédelmi ismeretek,
 
-15. cselekvőképességet részlegesen korlátozó vagy cselekvőképességet teljesen korlátozó gondnokság, illetve ideiglenes gondnokság alá helyezés, valamint felülvizsgálatának, megszűnésének, megszüntetésének időpontja,
+15. cselekvőképességet részlegesen korlátozó vagy cselekvőképességet teljesen korlátozó gondnokság, illetve ideiglenes gondnokság alá helyezés, a gondnok és a gondnokolt személyazonosító adatai, valamint felülvizsgálatának, megszűnésének, megszüntetésének időpontja,
 
 16. Társadalombiztosítási Azonosító Jele,
 
@@ -122,8 +128,10 @@ A hadköteles nyilvántartás adatai
 
 17.3. vércsoportja és Rh-faktora,
 
-17.4. gondnokság alá helyezett személy gondnokává hatóság által történő kijelölés, annak időpontja, valamint a gondnokság megszűnése és időpontja,
+17.4. gondnokság alá helyezett személy személyazonosító adatai,
 
-17.5. személyazonosító igazolvány okmányazonosítója, érvényességi ideje, útlevél száma, érvényességi ideje,
+17.5. személyazonosító igazolvány okmányazonosítója, érvényességi ideje, úti okmány típusa, száma, érvényességi ideje,
 
 18. fogyatékossági támogatásban, vakok személyi járadékában részesülésre vonatkozó adatok.
+
+19. tárhellyel rendelkezés ténye, egyedi azonosító száma.

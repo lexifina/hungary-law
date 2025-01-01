@@ -1,4 +1,4 @@
-91. § (1) A honvédelmi árvák ösztöndíja vonatkozásában a Honvédség központi személyügyi szerve az ösztöndíjra pályázók és az ösztöndíjban részesülők következő adatait kezeli:
+91. § (1) A honvédelmi árvák ösztöndíja vonatkozásában a Honvédség központi személyügyi szerve a 47. § (3) bekezdés d) pontjában meghatározott célból az ösztöndíjra pályázók és az ösztöndíjban részesülők következő adatait kezeli:
 
 a) családi és utónevét, születési nevét,
 
@@ -10,7 +10,7 @@ d) lakóhelyét,
 
 e) telefonszámát, e-mail-címét, levelezési címét,
 
-f) oktatási intézmény megnevezését, tanulói státuszát,
+f) oktatási intézmény megnevezését, tanulói státuszát, OM-azonosítót,
 
 g) tanulmányi igazolását,
 
@@ -46,7 +46,7 @@ f) bankszámlaszámát.
 
 (5) Az adatkezelő honvédelmi szervezet az ösztöndíjra pályázó és az ösztöndíjban részesülő (1)–(2) bekezdésben meghatározott adatait
 
-a) nyertes pályázat esetén az ösztöndíj folyósításának megszüntetését követő 3 évig,
+a) nyertes pályázat esetén az ösztöndíj folyósításának megszüntetését követő nyolcadik év december 31-éig,
 
 b) eredménytelen vagy elutasított pályázat esetén a pályázat elbírálását követő 3 évig
 

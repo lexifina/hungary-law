@@ -1,30 +1,48 @@
 ## 43. Az ösztöndíjakkal kapcsolatos adatkezelések külön szabályai
 
-87. § (1) A Béri Balogh Ádám honvéd kadét ösztöndíj vonatkozásában a kijelölt honvédelmi szervezet az ösztöndíjban részesülők következő adatait kezeli:
+87. § (1) A Béri Balogh Ádám honvéd kadét ösztöndíj vonatkozásában a kijelölt honvédelmi szervezet a 47. § (3) bekezdés d) pontjában meghatározott célból a Honvéd Kadét Programban résztvevő, illetve az ösztöndíjban részesülő következő adatait kezeli:
 
-a) családi és utónevét, születési nevét,
+1. családi és utónevét, születési nevét,
 
-b) születési helyét és idejét,
+2. nemét,
 
-c) anyja születési nevét,
+3. születési helyét és idejét,
 
-d) lakóhelyét,
+4. anyja születési nevét,
 
-e) adóazonosító jelét,
+5. állampolgárságát,
 
-f) telefonszámát, e-mail-címét, levelezési címét,
+6. kommunikációja nyelvét,
 
-g) bankszámlaszámát, a bankszámla tulajdonosának nevét,
+7. lakóhelyét,
 
-h) Társadalombiztosítási Azonosító Jelét,
+8. adóazonosító jelét,
 
-i) oktatási intézmény megnevezését, iskola típusát, tanulói státuszát, Honvéd Kadét Program szintjét,
+9. telefonszámát, e-mail-címét, levelezési címét,
 
-j) tanulmányi átlageredményét és az azt igazoló dokumentumot,
+10. bankszámlaszámát, a bankszámla tulajdonosának nevét,
 
-k) honvédelmi nevelést támogató nem tanórai foglalkozás vagy a honvédelmi alapismeretek tantárgy felvételét igazoló dokumentumát, és
+11. Társadalombiztosítási Azonosító Jelét,
 
-l) személyügyi törzsszámát.
+12. lakcímet igazoló hatósági igazolványának számát,
+
+13. gondviselőjének vagy értesítendő személynek családi és utónevét, lakóhelyét, telefonszámát,
+
+14. oktatási intézmény megnevezését, iskola típusát, Honvéd Kadét Program szintjét, OM-azonosítóját,
+
+15. tanulói státuszát, évfolyamát, tanulmányi átlageredményét és az azt igazoló dokumentumot,
+
+16. kadétképzés megkezdésének és befejezésének dátumát,
+
+17. tanulói jogviszonyának megszűnésének vagy megszüntetésének adatait,
+
+18. honvédelmi nevelést támogató nem tanórai foglalkozás vagy a honvédelmi alapismeretek tantárgy felvételét igazoló dokumentumát,
+
+19. fegyelmi büntetés tényét, fegyelmi határozat hatálybalépésének dátumát, fegyelmi határozat hatályának végét,
+
+20. évfolyamismétlés tényét és
+
+21. személyügyi törzsszámát.
 
 (2) Kiskorú ösztöndíjban részesülő esetén, az adatkezelő az (1) bekezdésben meghatározott adatokon túl kezeli a törvényes képviselő
 
@@ -36,10 +54,10 @@ c) anyja születési nevét,
 
 d) lakóhelyét.
 
-(3) Az adatkezelő honvédelmi szervezet részére az (1) bekezdés szerinti adatokat a Honvéd Kadét Programban részt vevő partneriskola továbbítja az ösztöndíj megállapítása és kifizetése céljából.
+(3) Az adatkezelő honvédelmi szervezet részére az (1) bekezdés szerinti adatokat a Honvéd Kadét Programban részt vevő partneriskola adatszolgáltatása biztosítja az ösztöndíj megállapítása és kifizetése céljából.
 
 (4) Az ösztöndíj kifizetésével összefüggő feladatokat a pénzügyi szakterület látja el.
 
-(5) Az adatkezelő honvédelmi szervezet az érintett adatai kezelésének szükségességét a Honvéd Kadét Programban részt vevő partneriskola (3) bekezdésben meghatározott adattovábbításától az érintett tanulói jogviszonyának megszűnését vagy megszüntetését követően 3 évente felülvizsgálja.
+(5) Az adatkezelő honvédelmi szervezet az érintett (1) bekezdés szerinti adatait a Honvéd Kadét Programban részt vevő partneriskola (3) bekezdésben meghatározott adattovábbításától az érintett tanulói jogviszonyának megszűnését vagy megszüntetését követő nyolcadik év december 31-éig kezeli.
 
-(6) A Honvéd Kadét Programban részt vevő partneriskola az adatkezelő honvédelmi szervezetet tájékoztatja az érintett tanulói jogviszonyának megszűnéséről vagy megszüntetéséről.
+(6)

@@ -1,39 +1,29 @@
-68. § (1) A 67. § (1) bekezdésében meghatározott célból, országhatáron belül, szolgálati feladat ellátásával összefüggő használat esetén, a gépkocsivezető beosztású gépjárművezetőről, annak igénybevétele esetén a gépjárművezető állományilletékes honvédelmi szervezete a következő adatokat kezeli:
+68. § (1) A honvédségi gépjárművek, személygépjárművek, járművek (a továbbiakban együtt: honvédségi járművek) országhatáron belül, szolgálati feladat ellátásával összefüggő használata céljából az érvényes gépjármű-menetlevél egyéb adatain kívül a gépkocsivezető beosztású gépjárművezetőről, a honvédségi jármű vezetésére jogosult, nem gépkocsivezető beosztású gépjárművezetőről, csoportos személyszállítás esetén az utasokról a gépjárművezető állományilletékes honvédelmi szervezete a következő adatokat kezeli:
 
 a) családi és utónév,
 
-b) állománycsoport, honvéd esetén rendfokozat,
+b) állománycsoport, honvéd esetén rendfokozat.
 
-c) a jogviszonyát igazoló igazolvány adatai,
+(2) Az állami tulajdon védelme, a szolgálatteljesítés, valamint a gépjárműhasználat biztonságának növelése, továbbá a szolgálati feladatok végrehajtásának támogatása céljából a gépkocsivezető beosztású gépjárművezetőről a gépjárművezető állományilletékes honvédelmi szervezete az (1) bekezdésen túl a következő adatokat kezeli:
 
-d) a vezetői engedély érvényességi kategóriája, száma, érvényessége,
+a) e-mail-cím,
 
-e) érvényes gépjármű menetlevél adatai,
+b) telefonszám,
 
-f) érvényes személyi menetlevél adatai.
+c) beosztás,
 
-(2) A 67. § (1) bekezdésében meghatározott célból, országhatáron belül, szolgálati feladat ellátásával összefüggő használat esetén, honvédségi jármű vezetésére jogosult, nem gépkocsivezető beosztású gépjárművezető igénybevétel esetén a gépjárművezető állományilletékes honvédelmi szervezete az a)–g) pontban, a közlekedésbiztonsági feladatokat ellátó honvédségi szervezetek pedig a g) pontban meghatározott adatot kezelik:
+d) szervezet megnevezése,
 
-a) családi és utónév,
+e) STN-azonosító,
 
-b) állománycsoport, rendfokozat,
+f) RFID-azonosító,
 
-c) szolgálati, munkáltatói igazolványa adatai,
+g) GUID-azonosító,
 
-d) vezetői engedélye érvényességi kategóriája, száma, érvényessége,
+h) Active Directory azonosító,
 
-e) érvényes gépjármű menetlevél adatai,
+i) személyügyi törzsszám,
 
-f) érvényes személyi menetlevél adatai,
+j) helymeghatározó adatok.
 
-g) honvédségi járművek vezetésére jogosító igazolvány adatai.
-
-(3) A 67. § (1) bekezdésében meghatározott célból, országhatáron belül, szolgálati feladat ellátásával összefüggő használat esetén, a honvédségi jármű utasként történő igénybevétele esetén a honvédségi jármű utasának állományilletékes honvédelmi szervezete a következő adatokat kezeli:
-
-a) családi és utónév,
-
-b) állománycsoport, honvéd esetén rendfokozat,
-
-c) jogviszonyát igazoló igazolvány adatai,
-
-d) érvényes személyi menetlevél adatai.
+(3) Az (1) és (2) bekezdés szerinti adatkezelő az (1) és (2) bekezdés szerinti adatokat a gépjármű igénybevételével kapcsolatos dokumentum leadását követő 5 évig kezeli.

@@ -17,3 +17,5 @@ A személyiadat- és lakcímnyilvántartást kezelő szerv által a hadköteles 
 7. elhalálozás tényére vonatkozó adatok,
 
 8. a külföldön történő letelepedés ténye.
+
+9. személyazonosító igazolvány okmányazonosítója, érvényességi ideje.

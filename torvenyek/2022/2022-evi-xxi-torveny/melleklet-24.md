@@ -34,7 +34,7 @@ A lakhatási támogatásokkal kapcsolatban kezelt személyes adatok
 
 2.2. korábbi lakóhely, tartózkodási hely,
 
-2.3. a lakóhelyen és a tartózkodási helyen, korábbi lakóhelyen és a tartózkodási helyen a lakáshasználat jogcíme, a lakóhely és tartózkodási hely tulajdoni jellege és tulajdonviszonyai, továbbá bármely lakóingatlanban lévő tulajdoni részesedés, a szerzés jogcíme,
+2.3. a lakóhelyen és a tartózkodási helyen, korábbi lakóhelyen és a tartózkodási helyen a lakáshasználat jogcíme, a lakóhely és tartózkodási hely tulajdoni jellege és tulajdonviszonyai, ideértve a tulajdonosok azonosító adatait, továbbá bármely lakóingatlanban lévő tulajdoni részesedés, a szerzés jogcíme, továbbá mindezen ingatlanokra vonatkozó ingatlan-nyilvántartási adatok, így különösen a bejegyzett jogok és tények,
 
 2.4. lakóhely és tartózkodási hely szobaszáma, alapterülete, komfortfokozata, műszaki állapota, helyrajzi száma,
 
@@ -46,11 +46,13 @@ A lakhatási támogatásokkal kapcsolatban kezelt személyes adatok
 
 3.3. hozzátartozói kapcsolatot igazoló okiratok, így különösen házassági anyagkönyvi kivonat, élettársi, bejegyzett élettársi kapcsolatot igazoló okirat, születési és halálra vonatkozó anyakönyvi kivonat,
 
-3.4. eltartottak száma, az eltartás kezdete, valamint az ezzel összefüggő támogatásokra vonatkozó adatok,
+3.4. eltartottak száma, az eltartás kezdete, valamint az ezzel összefüggő támogatásokra vonatkozó adatok, az eltartott tanulói (hallgatói) jogviszonyára vonatkozó adatok,
+
+3.5. a hozzátartozó jövedelme
 
 4. a szolgálati adatok:
 
-4.1. jogviszony megnevezése, katona esetében a rendfokozat,
+4.1. jogviszony megnevezése, honvéd esetében a rendfokozat,
 
 4.2. a szolgálati viszony kezdete, kinevezés ideje, a szolgálati viszonyra és a szolgálati időre vonatkozó adatok,
 
@@ -82,19 +84,19 @@ A lakhatási támogatásokkal kapcsolatban kezelt személyes adatok
 
 6.7. a támogatással érintett lakás vételára, vásárlási költsége, az arra felvett pénzintézeti lakáskölcsön összege, a pénzintézeti lakáskölcsönt nyújtó pénzintézet címe, a lakáskölcsön szerződés szerződéses tanúi,
 
-6.8. a lakás üzemeltetésével fenntartásával összefüggő adatok és költségek, ideértve a beruházási, felújítási, korszerűsítési, akadálymentesítési, bővítési, karbahelyezési adatokat, a beruházást elvégző szerződéses partner adatai az önkormányzat által kiszabott közterheket is,
+6.8. a lakás üzemeltetésével fenntartásával összefüggő adatok és költségek, ideértve a beruházási, felújítási, korszerűsítési, akadálymentesítési, bővítési, karbahelyezési adatokat, a beruházást elvégző szerződéses partner adatait és az önkormányzat által kiszabott közterheket is,
 
 6.9. lakhatási támogatás nyújtására irányuló megállapodás esetében az adóstárs és a kezes személyes adatai,
 
-6.10. a megállapodás alapján nyújtott lakhatási támogatás futamideje alatt elhunyt támogatott örökösének személyes adatai,
+6.10. a megállapodás alapján nyújtott lakhatási támogatás futamideje alatt elhunyt támogatott örökösének személyes adatai, vagy a lakásbérleti (személygépkocsi állóhely-bérleti, szállóbérleti) szerződésnek a bérlő halálával való megszűnése esetén az örökös személyes adatai,
 
 6.11. az élettársi életközösség igazolására készített magánokirat tanúinak személyes adatai, vagy az élettársi életközösség igazolására készült, közjegyző, vagy ügyvéd által ellenjegyzett okiraton a készítő ügyvéd, vagy közjegyző adatai, különösen neve, kamarai azonosító száma,
 
 6.12. helyőrségi szállón hozzátartozónak nem minősülő személy számára kérelmezett vendégéjszaka esetén a vendég adatai – vendég neve, bérlővel fennálló kapcsolat, születési hely, év, hó, nap, anyja neve – és a vendégfogadás ideje, a vendégéjszakák száma,
 
-6.13. HM-rendelkezésű lakás ellenőrzése során a meghallgatott bérlő, továbbá jogcím nélküli lakáshasználó, illetve önkényes lakásfoglaló személyes adatai, nyilatkozata, a lakásról készült fényképfelvételek, a meghallgatott tanúk neve, személyes adatai, nyilatkozatai,
+6.13. HM-rendelkezésű lakás – ideértve a nem bérlakásként hasznosított HM rendelkezésű lakást is – ellenőrzése során a meghallgatott bérlő, továbbá jogcím nélküli lakáshasználó, illetve önkényes lakásfoglaló személyes adatai, nyilatkozata, a lakásról – és az ahhoz tartozó fogyasztásmérőkről – készült fényképfelvételek, a meghallgatott tanúk neve, személyes adatai, nyilatkozatai,
 
-6.14. HM-rendelkezésű garzonlakás és helyőrségi hálószoba, férőhely) ellenőrzése során a garzonlakásról és a szállószobáról, férőhelyről készült fényképfelvételek, a meghallgatott bérlő és tanúk személyes adatai, nyilatkozatai,
+6.14. HM-rendelkezésű garzonlakás és helyőrségi szállószoba (férőhely) ellenőrzése során a garzonlakásról – illetve az ahhoz tartozó fogyasztásmérőkről – és a szállószobáról (férőhelyről) készült fényképfelvételek, a meghallgatott bérlő, jogcím nélküli használó és tanúk személyes adatai, nyilatkozatai,
 
 6.15. a támogatás megszerzése érdekében elidegenített ingatlan címe és adatai – a szerződő felek és a tanúk személyes adatai –,
 

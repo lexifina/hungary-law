@@ -18,4 +18,4 @@ a) a miniszter,
 
 b) a minisztérium államtitkára, közigazgatási államtitkára, helyettes államtitkára,
 
-c) a HVKF.
+c)

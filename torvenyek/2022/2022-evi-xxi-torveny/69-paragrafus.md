@@ -1,11 +1,11 @@
-69. § A 67. § (1) bekezdésében meghatározott célból, a honvédségi járművek országhatáron kívül, szolgálati feladatok végrehajtása érdekében történő igénybevétele esetén, valamint az igénybevételhez szükséges igazolás kiállításához az utazást elrendelő honvédelmi szervezet az a)–d) pont szerinti, míg a honvédségi jármű tulajdonosaként bejegyzett honvédelmi szervezet az a)–e) pont szerinti következő adatokat kezeli:
+69. § (1) A honvédségi járművek országhatáron kívül, szolgálati feladatok végrehajtása céljából történő igénybevétele esetén, a honvédségi jármű tulajdonosaként bejegyzett honvédelmi szervezet az alábbi adatokat kezeli:
 
 a) 68. §-ban meghatározott adatok,
 
-b) utazást elrendelő határozat, parancs száma,
+b) az utazást elrendelő határozat, parancs adatai,
 
-c) gépjármű parancsnok neve, rendfokozat, úti okmány száma,
+c) a gépjárművezető családi és utóneve, honvéd esetén rendfokozat, úti okmány száma,
 
-d) gépjármű vezető családi és utóneve, honvéd esetén rendfokozat, úti okmány száma,
+d) a kiutazó csoport vezetőjének neve, honvéd esetén rendfokozat, úti okmány száma.
 
-e) kiutazó csoport vezetőjének neve, honvéd esetén rendfokozat, úti okmány száma.
+(2) Az (1) bekezdés szerinti adatkezelő az (1) bekezdés szerinti adatokat a keletkezésüktől számított ötödik év december 31-éig kezeli.

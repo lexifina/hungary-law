@@ -6,43 +6,57 @@
 
 1. § (1) E törvény alkalmazásában
 
-a) behívhatósági korhatár:
+1. behívhatósági korhatár:
 
-aa) a Magyar Honvédségnél (a továbbiakban: Honvédség) 2011. január 1-jét követően hivatásos, szerződéses, önkéntes tartalékos, hallgatói, honvéd tisztjelölti vagy altisztjelölti katonai szolgálatot, illetve honvédelmi szervezetnél katonai alapkiképzést, alapfelkészítést vagy annak valamely modulját teljesített hadkötelesek esetén a katonai szolgálat felső korhatára,
+a) a Magyar Honvédségnél (a továbbiakban: Honvédség) 2011. január 1-jét követően hivatásos, szerződéses, önkéntes tartalékos, hallgatói, honvéd tisztjelölti vagy altisztjelölti katonai szolgálatot, illetve honvédelmi szervezetnél katonai alapkiképzést, alapfelkészítést vagy annak valamely modulját teljesített hadkötelesek esetén a katonai szolgálat felső korhatára,
 
-ab) az aa) alpontba nem tartozó hadkötelesek esetén annak az évnek a december 31. napja, amelyben 50. életévüket betöltik,
+b) az a) alpontba nem tartozó hadkötelesek esetén annak az évnek a december 31. napja, amelyben 50. életévüket betöltik,
 
-b) biometrikus adat: az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény (a továbbiakban: Infotv.) 3. § 3b. pontja szerinti adat,
+2. biometrikus adat: az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény (a továbbiakban: Infotv.) 3. § 3b. pontja szerinti adat,
 
-c) honvédelemben közreműködő szerv: a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény (a továbbiakban: Hvt.) 11. §-a szerinti, a honvédelmi felkészülés egyes feladatainak ellátásában részt vevő szerv és szervezet,
+3. felhasználó: az a személy, aki a részére meghatározott jogosultságnak megfelelő nyílt és minősített adatfeldolgozó elektronikus információs rendszerek szolgáltatásait veszi igénybe a Magyar Honvédség Kormányzati Célú Elkülönült Hírközlő Hálózatából (a továbbiakban: MH KCEHH) vagy külső üzemeltető szervezettől,
 
-d) honvédségi nyugdíjas: az a korábban kormányzati szolgálati-, közszolgálati-, állami vezetői szolgálati-, politikai szolgálati-, biztosi-, kormánytisztviselői-, közalkalmazotti-, honvédelmi alkalmazotti jogviszonyban, illetve munkaviszonyban vagy polgári alkalmazottként, kinevezett polgári alkalmazottként foglalkoztatott személy, aki a honvédelemért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztériumban (a továbbiakban: minisztérium), a miniszter közvetlen alárendeltségében vagy fenntartói irányítása alatt álló szervezetben, a Katonai Nemzetbiztonsági Szolgálatnál (a továbbiakban: KNBSZ) vagy honvédségi szervezetnél állt foglalkoztatási jogviszonyban, és
+4. helyi üzemeltető: az MH KCEHH vonatkozásában a hálózatfelügyeleti és hálózatgazdálkodási jogosítvánnyal rendelkező személy rendelkezése alapján hatáskörébe utalt híradó és informatikai központok, felügyelt és felügyelet nélküli hírközlési létesítmények, berendezések, hálózatrészek, információs rendszerek üzemeltetését, üzemfelügyeletét, üzemvitelét végző honvédelmi szervezet,
 
-da) akinek nyugdíjazását közvetlenül megelőző utolsó foglalkoztatási jogviszonya ezen szervezetek valamelyikével állt fent, vagy
+5. honvédelemben közreműködő szerv: a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény (a továbbiakban: Hvt.) 11. §-a szerinti, a honvédelmi felkészülés egyes feladatainak ellátásában részt vevő szerv és szervezet,
 
-db) aki ezen szervezetekkel fennálló jogviszonyának megszűnése és nyugdíjba vonulása között új jogviszonyt nem létesített, feltéve, hogy a két időpont között eltelt idő az 1 évet nem haladja meg,
+6. honvédségi nyugdíjas: az a korábban kormányzati szolgálati, közszolgálati, állami vezetői szolgálati, politikai szolgálati, biztosi, kormánytisztviselői, közalkalmazotti, honvédelmi alkalmazotti jogviszonyban, illetve munkaviszonyban vagy polgári alkalmazottként, kinevezett polgári alkalmazottként foglalkoztatott személy, aki a honvédelemért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztériumban (a továbbiakban: minisztérium), a miniszter közvetlen alárendeltségében vagy fenntartói irányítása alatt álló szervezetben, a Katonai Nemzetbiztonsági Szolgálatnál (a továbbiakban: KNBSZ) vagy honvédségi szervezetnél állt foglalkoztatási jogviszonyban, és
 
-e) hozzátartozó: a Polgári Törvénykönyvről szóló 2013. évi V. törvény 8:1. § (1) bekezdés 2. pontjában meghatározott személy,
+a) akinek nyugdíjazását közvetlenül megelőző utolsó foglalkoztatási jogviszonya ezen szervezetek valamelyikével állt fent, vagy
 
-f) igénybevételi hatóság: a gazdasági és anyagi szolgáltatás a védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény (a továbbiakban: Vbö.) 15. § (1) bekezdése szerinti igénybevételét elrendelő szerv vagy személy,
+b) aki ezen szervezetekkel fennálló jogviszonyának megszűnése és nyugdíjba vonulása között új jogviszonyt nem létesített, feltéve, hogy a két időpont között eltelt idő az 1 évet nem haladja meg,
 
-g) katonai szolgálatot önként vállaló honvédelmi alkalmazott: hadkötelezettség bevezetése esetére, a honvédelmi alkalmazottak jogállásáról szóló 2018. évi CXIV. törvény 3. § (2) bekezdése szerint a katonai szolgálat teljesítését önként vállaló honvédelmi alkalmazott,
+7. hozzátartozó: a Polgári Törvénykönyvről szóló 2013. évi V. törvény 8:1. § (1) bekezdés 2. pontjában meghatározott személy,
 
-h) képességkatalógus: a befogadó állam által összeállított, az Észak-atlanti Szerződés Szervezete (a továbbiakban: NATO) által vezetett művelet érdekében felajánlható polgári és katonai képességek adatai,
+8. igénybevételi hatóság: a gazdasági és anyagi szolgáltatásnak a védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény (a továbbiakban: Vbö.) 15. § (1) bekezdése szerinti igénybevételét elrendelő szerv vagy személy,
 
-i) központi pénzügyi szervezet: a honvédelmi szervezetek központi pénzügyi és számviteli, ingatlanfenntartási és -üzemeltetési, logisztikai, valamint központosított igazgatási feladatokat ellátó szervezete,
+9. infokommunikációs szakterület: a híradó, informatikai, információvédelmi, információbiztonsági és kiber szakterület,
 
-j) személyi állomány: a Hvt. 70. § (2) bekezdése szerinti személyi állomány, a minisztériumban dolgozó kormánytisztviselők – ideértve a politikai szolgálati és a biztosi jogviszonyban állókat is –, a honvédelmi alkalmazottak, a munkavállalók, a miniszter közvetlen alárendeltségébe tartozó szervezeteknél, illetve a KNBSZ-nél foglalkoztatott honvédelmi alkalmazottak és az önkéntes tartalékos katonák,
+10. infokommunikációs szolgáltatás: olyan szolgáltatás, amely teljes mértékben vagy legnagyobb részben az információ hálózati és információs rendszerek útján történő továbbításából, tárolásából, lekérdezéséből vagy kezeléséből áll,
 
-k) veterán: az a volt katona, aki miniszteri rendeletben meghatározottak szerint
+11. katonai szolgálatot önként vállaló honvédelmi alkalmazott: hadkötelezettség bevezetése esetére, a honvédelmi alkalmazottak jogállásáról szóló 2018. évi CXIV. törvény 3. § (2) bekezdése szerint a katonai szolgálat teljesítését önként vállaló honvédelmi alkalmazott,
 
-ka) 1988. augusztus 1-jét követően a Honvédség és jogelődje állományában szolgálatot teljesítve igazoltan harci cselekményben vett részt, és annak során kiemelkedő helytállást tanúsított,
+12. képességkatalógus: a befogadó állam által összeállított, az Észak-atlanti Szerződés Szervezete (a továbbiakban: NATO) által vezetett művelet érdekében felajánlható polgári és katonai képességek adatai,
 
-kb) a Honvédség és jogelődje állományából méltó módon vált ki, erkölcsileg feddhetetlen, és
+13. központilag biztosított infokommunikációs szolgáltatások: az MH KCEHH-ből több információs rendszer, felhasználó, alkalmazó honvédelmi szervezet részére helyi üzemeltető szükség szerinti bevonásával biztosított infokommunikációs szolgáltatások, amelyek biztosítására kizárólagosan a központi üzemeltető jogosult,
 
-kc) ilyen személyként – miniszteri rendelet alapján létrehozott Veterán Grémium (a továbbiakban: Grémium) határozatával – elismerésre került.
+14. központi pénzügyi szervezet: a honvédelmi szervezetek központi pénzügyi és számviteli, ingatlanfenntartási és -üzemeltetési, logisztikai, valamint központosított igazgatási feladatokat ellátó szervezete,
 
-l) nyugállományú katona: a honvédek jogállásáról szóló kormányrendelet (a továbbiakban: Hjkr.) szerinti nyugállományú katona.
+15. központi üzemeltető: az MH KCEHH működőképességéért, biztonságáért, fenntartásáért, a felhasználó, alkalmazó szervezetek központilag biztosított infokommunikációs szolgáltatásokkal történő ellátásért felelős honvédelmi szervezet,
+
+16. külső üzemeltető szervezet: olyan szervezet, amely az MH KCEHH-en kívül, szerződés vagy megállapodás alapján a honvédelmi szervezetek részére biztosított infokommunikációs szolgáltatások, információs rendszerek üzemeltetését, üzemfelügyeletét, üzemvitelét végzi,
+
+17. nyugállományú katona: a honvédek jogállásáról szóló kormányrendelet (a továbbiakban: Hjkr.) szerinti nyugállományú katona,
+
+18. személyi állomány: a Hvt. 70. § (2) bekezdése szerinti személyi állomány, a minisztériumban dolgozó kormánytisztviselők – ideértve a politikai szolgálati és a biztosi jogviszonyban állókat is –, a honvédelmi alkalmazottak, a munkavállalók, a miniszter közvetlen alárendeltségébe tartozó szervezeteknél, illetve a KNBSZ-nél foglalkoztatott honvédelmi alkalmazottak, munkavállalók és az önkéntes tartalékos katonák,
+
+19. veterán: az a volt katona, aki miniszteri rendeletben meghatározottak szerint
+
+a) 1988. augusztus 1-jét követően a Honvédség és jogelődje állományában szolgálatot teljesítve igazoltan harci cselekményben vett részt, és annak során kiemelkedő helytállást tanúsított,
+
+b) a Honvédség és jogelődje állományából méltó módon vált ki, erkölcsileg feddhetetlen, és
+
+c) ilyen személyként – miniszteri rendelet alapján létrehozott Veterán Grémium (a továbbiakban: Grémium) határozatával – elismerésre került.
 
 (2) Az e törvény által meghatározott adatokról az egyes nyilvántartások személyi köre tekintetében, törvényekben meghatározott jogok érvényesítése és kötelezettségek teljesítése céljából elektronikus, illetve papíralapú nyilvántartást kell vezetni. Az adatkezelés alapelveinek megfelelően, különböző jogosultsági szintű hozzáféréssel biztosított az egyes szakterületek nyilvántartásai számára az azokban szereplő adatok kezelése.
 
@@ -50,7 +64,7 @@ l) nyugállományú katona: a honvédek jogállásáról szóló kormányrendele
 
 (4) Az e törvény szerint kezelt adatokat a minisztérium adatvédelmi és információszabadsággal összefüggő feladatokat ellátó szervezeti egységének kijelölt állománya, valamint az adatkezelő honvédelmi szervezet adatvédelmi tisztviselője az adatkezelési szabályok betartásának ellenőrzéséhez szükséges mértékben megismeri.
 
-(5) Az e törvény szerint kezelt adatokat az államháztartási belső ellenőrzési tevékenységet végző honvédelmi szervezet kijelölt tagja, az adatkezelési szabályok betartásával, az ellenőrzéséhez szükséges mértékben megismeri.
+(5) Az e törvény szerint kezelt adatokat az államháztartási belső ellenőrzési tevékenységet végző személy, az adatkezelési szabályok betartásával, az ellenőrzéséhez szükséges mértékben megismeri.
 
 (6) Az e törvény szerinti adatkezelés szempontjából személyi állományba tartozónak kell tekinteni azt a személyt is, aki jogszabály vagy az erre vonatkozó megállapodás szerint honvédelmi szervezeten kívüli szervezetnél teljesít szolgálatot vagy végez munkát.
 

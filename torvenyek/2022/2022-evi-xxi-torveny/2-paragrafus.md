@@ -16,6 +16,8 @@ d) a befogadó nemzeti támogatás központi koordináló szerve,
 
 e) a védelemgazdaság központi tervező szerve,
 
-f) a Honvédség központi nyilvántartó szerve, valamint
+f) a Honvédség központi nyilvántartó szerve,
 
-g) a katonai igazgatás területi szerve.
+g) a katonai igazgatás területi szerve, valamint
+
+h) a Hvt. 38. § (3a) bekezdése szerinti meghagyási névjegyzék miniszterelnöki jóváhagyásra történő felterjesztés előkészítése érdekében a védelmi és biztonsági igazgatás központi szerve.

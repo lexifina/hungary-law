@@ -1,4 +1,4 @@
-72. § (1) A 67. § (1) bekezdésében meghatározott célból, a közúti közlekedési balesetben részes honvédségi járművekkel összefüggő vizsgálatok lefolytatása érdekében az illetékes baleseti helyszínelő és balesetvizsgáló tevékenységet ellátó honvédelmi szervezet a 68. §-ban meghatározott adatokon túl a következő adatokat kezeli:
+72. § (1) A közúti közlekedési balesetben részes honvédségi járművekkel összefüggő vizsgálatok lefolytatása céljából az illetékes baleseti helyszínelő és balesetvizsgáló tevékenységet ellátó honvédelmi szervezet a 68. §-ban meghatározott adatokon túl a következő adatokat kezeli:
 
 a) gépjármű vezetője vonatkozásában
 
@@ -43,3 +43,5 @@ b) a gépjármű utasa vonatkozásában
 ba) sérülés esetén annak súlyossága,
 
 bb) baleset leírása.
+
+(3) Az (1) és (2) bekezdés szerinti adatkezelő az (1) és (2) bekezdés szerinti adatokat a keletkezésüktől számított ötödik év december 31-éig kezeli.

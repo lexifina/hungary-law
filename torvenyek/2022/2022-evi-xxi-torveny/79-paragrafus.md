@@ -14,11 +14,11 @@ c) az állomány elhunyt tagjának, az önkéntes tartalékos szolgálatteljesí
 
 d) az a)–c) pont szerint ellátásra jogosult hozzátartozóinak
 
-társadalombiztosítási, szociális, kegyeleti ellátásai, humánszolgálati támogatásai, juttatásai megállapításának és folyósításának biztosítása, elismerés adományozása, valamint az érintetti kör tájékoztatása tájékoztatók és honvédségi kiadványok megküldésével, az érintettek véleményének, álláspontjának kikérése, megismerése, valamint kiemelt eseményekről, különösen évfordulókról, emléknapokról történő megemlékezés köszöntő levelek megküldésével vagy személyes kapcsolattartással.
+társadalombiztosítási, szociális, kegyeleti ellátásai, humánszolgálati támogatásai, juttatásai megállapításának és folyósításának biztosítása, elismerés adományozása, az e § szerinti érintettek részére tájékoztatók és honvédségi kiadványok megküldése, véleményük, álláspontjuk kikérése, megismerése, valamint kiemelt eseményekről, különösen évfordulókról, emléknapokról történő megemlékezés keretében köszöntő levelek megküldése vagy személyes kapcsolattartás.
 
 (4) Az érdekvédelmi nyilvántartás adatait a (2) bekezdés szerinti idő eltelte után megőrzés céljából a Honvédség központi irattározási feladatát ellátó honvédelmi szervezete kezeli tovább.
 
-(5) Az érdekvédelmi nyilvántartásban kezelt adatokhoz társadalombiztosítási, szociális, kegyeleti ellátás, humánszolgálati támogatás, juttatás megállapításának és folyósításának, valamint elismerés adományozásának céljából megismeri:
+(5) Az érdekvédelmi nyilvántartásban kezelt adatokat társadalombiztosítási, szociális, kegyeleti ellátás, humánszolgálati támogatás, juttatás megállapításának és folyósításának, valamint elismerés adományozásának céljából megismeri:
 
 a) miniszter, a minisztérium államtitkára, közigazgatási államtitkára, helyettes államtitkára, valamint a HVKF,
 

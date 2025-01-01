@@ -10,6 +10,14 @@
 
 a) békeidőszakban évente január 31-ig,
 
-b) hadkötelezettség bevezetésének a Kormány általi kezdeményezését követő 5 napon belül.
+b) a hadiállapot kihirdetésének Kormány általi kezdeményezését követő 5 napon belül.
+
+(4a) A (4) bekezdéstől eltérően, ha a meghagyási jegyzék jóváhagyása a miniszterelnök hatásköre, a jogszabályban és jogszabály alapján meghagyásba bevont szervezet, a védelmi és biztonsági igazgatás központi szerve útján szolgáltatja a 9. mellékletben meghatározott adatokat
+
+a) békeidőszakban évente január 31-ig,
+
+b) hadiállapot kihirdetésének a Kormány általi kezdeményezését követő 5 napon belül.
+
+(4b) A (4a) bekezdés szerinti meghagyási névjegyzéket a miniszterelnök a védelmi és biztonsági igazgatás központi szervének javaslata alapján hagyja jóvá. A jóváhagyott névjegyzéket a védelmi és biztonsági igazgatás központi szerve küldi meg a Honvédség központi nyilvántartó szerve részére
 
 (5) Ha a 9. melléklet 1. pont 1.1–1.9. alpontját, 3. pontját vagy 6. pont 6.1–6.4. alpontját érintő adatokban változás történik, a változásról adatszolgáltatást kell teljesíteni a változást követő 8 napon belül.

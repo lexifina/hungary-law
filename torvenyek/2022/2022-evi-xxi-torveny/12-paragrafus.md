@@ -1,6 +1,6 @@
 ## 9. A honvédelmi adatkezelő szerv befogadó nemzeti támogatással kapcsolatos nyilvántartása és adatszolgáltatása
 
-12. § (1) A 2. § a)–c) pontja szerinti honvédelmi adatkezelő szerv a befogadó nemzeti támogatás tervezése és végrehajtása céljából nyilvántartást vezet a képességkatalógusról.
+12. § (1) A 2. § szerinti honvédelmi adatkezelő szerv a befogadó nemzeti támogatás tervezése és végrehajtása céljából nyilvántartást vezet a képességkatalógusról.
 
 (2) A képességkatalógus az 5. melléklet szerinti adatkörben tartalmazza:
 

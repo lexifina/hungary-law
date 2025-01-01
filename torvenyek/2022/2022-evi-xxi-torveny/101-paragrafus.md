@@ -4,7 +4,7 @@
 
 ## 50. A katonai igazolvány kiadásával kapcsolatos adatkezelés
 
-101. § (1) A Honvédség központi nyilvántartó szerve a hadkötelezettek szolgálati viszonyának és személyazonosságának igazolására szolgáló katonai igazolványának kiadásával összefüggő feladatok ellátása céljából a 27. melléklet 1–8. és 10–13. pontja szerinti adatokat és az adatok hitelességét igazoló iratokat vagy másolataikat kezeli a hadkötelezettség bevezetésétől a hadkötelezettség megszűnését követő 5 évig, vagy a hiánypótlásra nyitva álló idő eredménytelen leteltéig.
+101. § (1) A Honvédség központi nyilvántartó szerve a hadkötelezettek szolgálati viszonyának és személyazonosságának igazolására szolgáló katonai igazolványának kiadásával összefüggő feladatok ellátása céljából a 27. melléklet 1–8., 10–13. és 16. pontja szerinti adatokat és az adatok hitelességét igazoló iratokat vagy másolataikat kezeli a hadkötelezettség bevezetésétől a hadkötelezettség megszűnését követő 5 évig, vagy a hiánypótlásra nyitva álló idő eredménytelen leteltéig.
 
 (2) A hadkötelezettek igazolványa tartalmazza:
 

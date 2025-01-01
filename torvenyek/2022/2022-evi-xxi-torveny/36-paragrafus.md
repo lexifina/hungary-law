@@ -28,7 +28,7 @@ b) a Honvédség központi személyügyi szerve,
 
 c) annak a honvédelmi szervezetnek a személyügyi szerve, amelynek állományába a jelentkező bekerülhet,
 
-d) az egészségi, pszichikai, fizikai alkalmasságot megállapító honvédelmi szervezet.
+d) a honvédelmi egészségi, pszichikai, fizikai alkalmasságot megállapító szervezet.
 
 (5a) A központi katonai igazgatási szerv a toborzó nyilvántartásban kezelt adatokat a Hvt. 67. § d) pontjában meghatározott feladatainak végrehajtása érdekében megismeri.
 

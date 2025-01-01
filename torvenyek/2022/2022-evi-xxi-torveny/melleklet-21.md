@@ -20,7 +20,7 @@ Az érdekvédelmi nyilvántartásban kezelt személyes adatok
 
 1.8. adóazonosító jel, Társadalombiztosítási Azonosító Jel,
 
-1.9. a személyazonosító igazolvány száma, érvényességi ideje, útlevél száma, érvényességi ideje, lakcímet igazoló hatósági igazolvány száma,
+1.9. a személyazonosító igazolvány száma, érvényességi ideje, úti okmány típusa, száma, érvényességi ideje, lakcímet igazoló hatósági igazolvány száma,
 
 1.10. állampolgárság,
 

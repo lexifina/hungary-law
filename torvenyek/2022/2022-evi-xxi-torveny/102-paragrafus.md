@@ -4,7 +4,7 @@
 
 a) a hivatásos, szerződéses, önkéntes tartalékos, honvéd tisztjelölti, honvéd altiszt-jelölti szolgálati viszony fennállásának igazolására szolgáló szolgálati igazolvány, valamint
 
-b) a minisztérium, a miniszter közvetlen alárendeltségében és fenntartói irányítása alatt álló szervezet, a KNBSZ, a Honvédség vagy a szakképző intézmény (e fejezet alkalmazásában a továbbiakban együtt: honvédelmi szervezet) személyi állományába tartozást igazoló kormánytisztviselői, közalkalmazotti, honvédelmi alkalmazotti igazolvány (a továbbiakban együtt: munkáltatói igazolvány)
+b) a minisztérium, a miniszter közvetlen alárendeltségében álló szervezet, a KNBSZ, a Honvédség vagy a szakképző intézmény (e fejezet alkalmazásában a továbbiakban együtt: honvédelmi szervezet) személyi állományába tartozást igazoló kormánytisztviselői, közalkalmazotti, honvédelmi alkalmazotti igazolvány (a továbbiakban együtt: munkáltatói igazolvány)
 
 kiadásával összefüggő feladatok ellátása céljából kezeli a 27. melléklet 1–8. és 10–13. pontja szerinti adatokat és az adatok hitelességét igazoló iratokat vagy másolataikat a fennálló szolgálati, kormányzati szolgálati, politikai szolgálati – ide nem értve a szakmai és politikai felsővezető kormányzati szolgálati, politikai szolgálati jogviszonyát –, közalkalmazotti, honvédelmi alkalmazotti, kormánytisztviselői jogviszony létrejöttétől a jogviszony megszűnését vagy megszüntetését követő 5 évig, vagy a hiánypótlásra nyitva álló idő eredménytelen leteltéig.
 
@@ -28,7 +28,7 @@ h) a „Genfi egyezmények szerinti igazolvány” feliratot.
 
 (3) A (2) bekezdés a) és b) pontja szerinti adatokat, a (2) bekezdés c) pontja szerinti érvényességi időt, valamint a (2) bekezdés d), e) és h) pontja szerinti adatokat az igazolvány angol és magyar nyelven is tartalmazza.
 
-(4) A honvédelmi szervezet az igazolvány érintett részére történő igénylésekor a személyügyi nyilvántartásból továbbítja az érintett 27. melléklet 1–8. és 10. pontja szerinti adatait a Honvédség központi nyilvántartó szerve részére az igazolvány kiadásával összefüggő feladatok ellátása céljából.
+(4) A honvédelmi szervezet az igazolvány érintett részére történő igénylésekor a személyügyi nyilvántartásból továbbítja az érintett 27. melléklet 1–8., 10., 13. és 16. pontja szerinti adatait a Honvédség központi nyilvántartó szerve részére az igazolvány kiadásával összefüggő feladatok ellátása céljából.
 
 (5) A Honvédség központi nyilvántartó szerve az elkészült igazolványt megküldi a honvédelmi szervezet számára az érintett részére történő átadás és az ehhez kapcsolódó (6) bekezdés szerinti nyilvántartás vezetése céljából.
 

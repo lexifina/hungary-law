@@ -6,13 +6,13 @@ A honvédelmi ágazatban használt igazolványokkal kapcsolatos adatkezelés ada
 
 2. házassági, családi és utónév,
 
-3. anya születési családi és utónevei,
+3. anyja születési családi és utónevei,
 
 4. születési hely,
 
 5. születési idő,
 
-6. jogviszony megnevezése, katona esetében a rendfokozat és a rendfokozatba helyezés ideje is, hatósági és ellenőri, katonai rendész vagy belföldi katonai futárigazolvány esetén a jogosultság kezdete,
+6. jogviszony megnevezése, katona esetében a rendfokozat és a rendfokozatba kinevezés ideje is, hatósági és ellenőri, katonai rendész vagy belföldi katonai futárigazolvány esetén a jogosultság kezdete,
 
 7. arckép,
 
@@ -31,3 +31,5 @@ A honvédelmi ágazatban használt igazolványokkal kapcsolatos adatkezelés ada
 14. a külszolgálatra tervezett állomány szolgálatteljesítésének kezdő és befejező dátuma.
 
 15. a jelvény egyedi azonosítószáma.
+
+16. személyügyi törzsszám.

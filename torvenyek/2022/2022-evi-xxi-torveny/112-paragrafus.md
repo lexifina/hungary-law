@@ -2,7 +2,7 @@
 
 a) a honvédelmi ágazatban használt azonosító okmányok kiadásával és kezelésével kapcsolatos eljárási szabályokat, valamint az okmányok használatával összefüggő jogokat és kötelezettségeket,
 
-b) a honvédek, a nyugállományú katonák és azok közeli hozzátartozóinak, élettársának és örökösének nyújtható juttatások, költségtérítések, kedvezmények, támogatások, természetbeni ellátás fajtáit, mértékét, a jogosultság feltételeit, az azokban való részesítés, a megállapítás, a kifizetés, az elszámolás és a visszatérítés részletes rendjét,
+b) a honvédek, a nyugállományú katonák és azok közeli hozzátartozóinak, élettársának és örökösének nyújtható juttatások, költségtérítések, kedvezmények, támogatások, természetbeni ellátás fajtáit, mértékét, a jogosultság feltételeit, az azokban való részesítés, a megállapítás, a kifizetés, az elszámolás, a visszatérítés és visszatérítési kötelezettség esetén az elengedés részletes rendjét,
 
 c) humánszolgálati gondoskodás keretében az elhunyt honvéd közeli hozzátartozója vagy élettársa támogatásának részletes szabályait,
 

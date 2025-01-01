@@ -20,7 +20,7 @@ A személyügyi nyilvántartásban kezelt személyes adatok
 
 1.8. adóazonosító jel, Társadalombiztosítási Azonosító Jel, állampolgárság,
 
-1.9. személyazonosító igazolvány okmányazonosítója, érvényességi ideje, útlevél száma, érvényességi ideje, lakcímet igazoló hatósági igazolvány száma,
+1.9. személyazonosító igazolvány okmányazonosítója, érvényességi ideje, úti okmány típusa, száma, érvényességi ideje, lakcímet igazoló hatósági igazolvány száma, az oktatási igazolványokról szóló kormányrendelet szerint a közreműködő intézmény által a tárgyidőszakra kiadott, érvényesítő matricával ellátott diákigazolvány-másolatnak vagy a közreműködő intézmény által kiadott, a diákigazolványra való jogosultságról szóló igazolás másolatának adatai – ha az a gyermek, aki után vagy aki részére a tárgyév augusztus hónapjára iskoláztatási támogatást folyósítottak, és a tanulmányokat folytatóknak az Oktatási Hivatal vagy a Nemzeti Szakképzési és Felnőttképzési Hivatal által közölt adatállományában nem szerepel –. Külföldön folytatott tanulmányok esetén az intézmény által kiállított igazolás,
 
 1.10. értesítendő személy neve, kapcsolat fajtája, címe, vezetékes és mobiltelefonszáma, elektronikus elérhetősége,
 
@@ -28,9 +28,9 @@ A személyügyi nyilvántartásban kezelt személyes adatok
 
 2. a hozzátartozók adatai:
 
-2.1. házastárs, élettárs neve, születési neve, lakóhelye, tartózkodási helye, levelezési címe, adóazonosító jele, Társadalombiztosítási Azonosító Jele, születési hely, ideje, neme, állampolgársága, anyja születési neve,
+2.1. házastárs, élettárs neve, születési neve, lakóhelye, tartózkodási helye, levelezési címe, adóazonosító jele, Társadalombiztosítási Azonosító Jele, születési hely, ideje, neme, állampolgársága, anyja születési neve, jövedelemmel való rendelkezése a külszolgálat ideje alatt,
 
-2.2. gyermek, gyermekek neve, születési neve, lakcíme, levelezési címe, adóazonosító jele, Társadalombiztosítási Azonosító Jele, születési helye, ideje, neme, állampolgársága, anyja születési neve,
+2.2. gyermek, gyermekek neve, születési neve, lakcíme, levelezési címe, adóazonosító jele, Társadalombiztosítási Azonosító Jele, születési helye, ideje, neme, állampolgársága, anyja születési neve, közoktatási, szakképző intézmény vagy felsőfokú oktatási intézmény neve a gyermek 25. életévéig, iskolalátogatási igazolása, az oktatási igazolványokról szóló kormányrendelet szerint a közreműködő intézmény által a tárgyidőszakra kiadott, érvényesítő matricával ellátott diákigazolvány-másolatnak vagy a közreműködő intézmény által kiadott, a diákigazolványra való jogosultságról szóló igazolás másolatának adatai – ha az a gyermek, aki után vagy aki részére a tárgyév augusztus hónapjára iskoláztatási támogatást folyósítottak, és a tanulmányokat folytatóknak az Oktatási Hivatal vagy a Nemzeti Szakképzési és Felnőttképzési Hivatal által közölt adatállományában nem szerepel –. Külföldön folytatott tanulmányok esetén az intézmény által kiállított igazolás, a tanulmányok folytatásának vagy a hallgatói jogviszony fennállásának igazolásával összefüggő adatok – ha a családi pótlékra nem jogosító, de a családok támogatásáról szóló 1998. évi LXXXIV. törvény (a továbbiakban: Cst.) 12. § (1) bekezdés a) pont ab) alpontja szerint a gyermekszámba beszámító gyermek a családi pótlék megállapítására irányuló kérelem benyújtásakor nem szerepel az Oktatási Hivatal vagy a Nemzeti Szakképzési és Felnőttképzési Hivatal által a tanulmányokat folytatókról, vagy a fennálló hallgatói jogviszonnyal rendelkezőkről közölt adatállományban –, szakorvosi igazolása,
 
 2.3. eltartottak száma, az eltartás kezdete,
 
@@ -72,11 +72,11 @@ A személyügyi nyilvántartásban kezelt személyes adatok
 
 5.4. előírt iskolai végzettség,
 
-5.5. a beosztás, pozíció megnevezése, munkaköri azonosító kód,
+5.5. a beosztás, munkaköri azonosító kód,
 
-5.6. előmeneteli rend típusa, a szolgálatteljesítés szerinti helyőrség,
+5.6. a szolgálatteljesítés szerinti helyőrség,
 
-5.7. besorolási osztály, besorolási kategória, foglalkoztatás mértéke, típusa,
+5.7. foglalkoztatás mértéke, típusa,
 
 5.8. Foglalkozások Egységes Osztályozási Rendszere száma,
 
@@ -152,7 +152,7 @@ A személyügyi nyilvántartásban kezelt személyes adatok
 
 9.3. a szolgálati viszony szünetelése,
 
-10. illetményre, végkielégítésre, visszailleszkedési támogatásra, jubileumi jutalomra, juttatásokra, költségtérítésekre, kedvezményekre és támogatásokra vonatkozó adatok,
+10. illetményre, végkielégítésre, jutalomra, juttatásra, költségtérítésre, kedvezményre és támogatásra, valamint ellátásra vonatkozó adatok,
 
 11. összeférhetetlenségre vonatkozó adatok:
 
@@ -178,7 +178,7 @@ A személyügyi nyilvántartásban kezelt személyes adatok
 
 16. a lőfegyver-megszerzési és tartási engedély megszerzésének ténye és a megszerzés időpontja, a fegyverviselésre és fegyvertartásra vonatkozó adatok,
 
-17. az önkéntes tartalékos katona munkáltatójának adatai, a munkavállaló jogviszonyára, munkakörére, előírt munkarendjére – heti munkaóra – vonatkozó adatok, a munkáltató által kijelölt kapcsolattartó adatai,
+17. az önkéntes tartalékos katona munkáltatójának adatai, ideértve a tevékenységének ágazati besorolását, a kompenzáció megállapításához és folyósításához szükséges adatokat, a behívás átütemezésére vonatkozó kérelemről vagy ennek kizárásáról szóló nyilatkozatot, a kompenzációs igényről, avagy az erről való lemondásról szóló nyilatkozatot, a munkavállaló jogviszonyára, munkakörére, előírt munkarendjére – heti munkaóra – vonatkozó adatok, a munkáltató által kijelölt kapcsolattartó adatai,
 
 18. az önkéntes tartalékos katona szolgálathalasztásával kapcsolatos adatok:
 
@@ -201,3 +201,5 @@ A személyügyi nyilvántartásban kezelt személyes adatok
 22. fokozati vizsgára, vizsgahalasztásra vonatkozó adatok,
 
 23. minősítő vizsgára vonatkozó adatok.
+
+24. kérelemben foglalt egyéb adatok.

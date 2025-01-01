@@ -1,7 +1,9 @@
-71. § A 67. § (1) bekezdésében meghatározott célból, országhatáron belül, magáncélú igénybevétel során a személyi állomány tagja vonatkozásában a honvédségi járművet üzemeltető honvédelmi szervezet vagy az érintett állományilletékes honvédelmi szervezete, nyugállományú igénybe vevő esetén a honvédségi járművet biztosító honvédelmi szervezet a következő adatokat kezeli:
+71. § (1) A honvédségi járművek országhatáron belüli, magáncélú igénybevétele esetén a személyi állomány tagja vonatkozásában a honvédségi járművet üzemeltető honvédelmi szervezet vagy az érintett állományilletékes honvédelmi szervezete, nyugállományú igénybe vevő esetén a honvédségi járművet biztosító honvédelmi szervezet a következő adatokat kezeli:
 
-a) igénybe vevő családi és utónév,
+a) az igénybe vevő családi és utóneve,
 
-b) állománycsoport, honvéd esetén rendfokozat,
+b) az igénybe vevő állománycsoportja, honvéd esetén rendfokozata,
 
-c) igénybevétel célja.
+c) az igénybevétel célja.
+
+(2) Az (1) bekezdés szerinti adatkezelő az (1) bekezdés szerinti adatokat a keletkezésüktől számított ötödik év december 31-éig kezeli.

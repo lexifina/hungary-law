@@ -1,6 +1,6 @@
 ## 47. A honvédelmi célból rögzített biometrikus adatok nyilvántartása
 
-96. § (1) A Honvédség kijelölt erői és a KNBSZ mint közös adatkezelők – a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 39. §-ától eltérően – a Hvt.-ben meghatározott feladatok, így különösen külföldi művelet végrehajtása során ujj- vagy tenyérnyomatot, DNS-mintát, íriszképet, arcképet, kézérhálózatot, hangmintát, egyéni írásképet és egyéni mozgásképet mint biometrikus adatot, illetve az érintett természetes személyazonosító adatait kezelik a biometrikus adatok nyilvántartásában (a továbbiakban: biometrikus nyilvántartás).
+96. § (1) A Honvédség kijelölt erői és a KNBSZ mint közös adatkezelők – a nemzetbiztonsági szolgálatokról szóló törvénytől eltérően – a Hvt.-ben meghatározott feladatok, így különösen külföldi művelet végrehajtása során ujj- vagy tenyérnyomatot, DNS-mintát, íriszképet, arcképet, kézérhálózatot, hangmintát, egyéni írásképet és egyéni mozgásképet mint biometrikus adatot, illetve az érintett természetes személyazonosító adatait kezelik a biometrikus adatok nyilvántartásában (a továbbiakban: biometrikus nyilvántartás).
 
 (2) A biometrikus nyilvántartásban szereplő adatok kezelésének célja
 

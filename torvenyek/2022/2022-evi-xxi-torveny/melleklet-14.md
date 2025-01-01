@@ -72,7 +72,7 @@ Egészségügyi célból kezelt személyes adatok
 
 1.5.12. a 38. § (1) bekezdés b) pontjában meghatározott személyek esetében az érintett által átadott, az alapellátást végző honvéd-egészségügyi szolgálat által továbbított gyógykezelési, ellátási adatok,
 
-1.6. a Honvédség egészségügyi szervezeténél folytatott gyógykezelés, ellátás adatai,
+1.6. a Honvédség egészségügyi szervezeténél és a honvédségi igényjogosultakat ellátó egészségügyi szolgáltatónál folytatott gyógykezelés, ellátás adatai,
 
 1.7. az Elektronikus Egészségügyi Szolgáltatási Térben elérhető gyógykezelési, ellátási adatok ellenőrzési célból, a szükséges mértékben,
 
@@ -112,7 +112,7 @@ Egészségügyi célból kezelt személyes adatok
 
 2.4.2. az alapellátó orvosi vélemény, valamint a gyógyintézeti, szakorvosi, szakértői vélemények,
 
-2.5. Honvédség egészségügyi szervezeténél folytatott gyógykezelés, ellátás adatai,
+2.5. Honvédség egészségügyi szervezeténél és a honvédségi igényjogosultakat ellátó egészségügyi szolgáltatónál folytatott gyógykezelés, ellátás adatai,
 
 2.6. az Elektronikus Egészségügyi Szolgáltatási Térben elérhető gyógykezelési, ellátási adatok ellenőrzési célból, a szükséges mértékben,
 
@@ -181,6 +181,8 @@ Egészségügyi célból kezelt személyes adatok
 3.6.11. szűrővizsgálaton való részvételre vonatkozó adatok,
 
 3.6.12. érintett véleménye elképzelt eseményekre, helyzetekre vonatkozóan
+
+3.6.13. az adatkezelők által észlelt, vizsgált, mért, leképzett vagy származtatott egészségügyi adat.
 
 4. A 43. § alkalmazásában:
 
@@ -261,3 +263,33 @@ Egészségügyi célból kezelt személyes adatok
 6.2.5. külföldi szolgálatteljesítés adatai,
 
 6.3. gyógykezelésre, ellátásra vonatkozó adatok.
+
+7. A 45/A. § alkalmazásában:
+
+7.1. személyazonosító adatok – családi és utónév, születési név, nem, születési hely és idő, anyja neve, Társadalombiztosítási Azonosító Jel –,
+
+7.2. szolgálati viszonnyal összefüggő adatok:
+
+7.2.1. rendfokozat,
+
+7.2.2. alakulat,
+
+7.2.3. külföldi szolgálatteljesítés célállomása,
+
+7.2.4. külföldi szolgálatteljesítés kezdő és befejező időpontja,
+
+7.3. elérhetőségi adat,
+
+7.4. oltás szükségességének oka,
+
+7.5. oltás ténye,
+
+7.6. oltóanyag típusa,
+
+7.7. olthatóság elbírálásához szükséges egészségügyi adatok, gyógyszerallergiára vonatkozó információk,
+
+7.8. oltóanyag típusa,
+
+7.9. malária profilaxissal összefüggő információ,
+
+7.10. oltási tanúsítvány nyilvántartási száma.
