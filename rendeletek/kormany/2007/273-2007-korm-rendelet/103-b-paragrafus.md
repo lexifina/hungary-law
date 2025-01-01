@@ -1,6 +1,4 @@
-## (A Vet 119/E. §-ához)
-
-## A könnyített térségek kijelölése[^439]
+## A könnyített térségek kijelölése[^451]
 
 103/B. § (1) Könnyített térség azon járás közigazgatási területén jelölhető ki, ahol
 
@@ -14,4 +12,4 @@ c) a szélerőmű vagy szélerőmű park már rendelkezik hatályos kiserőművi
 
 (3) A könnyített térség területén az időjárásfüggő megújuló energiát hasznosító erőmű környezetvédelmi és építési engedélyezési eljárásában az eljáró hatóság ügyintézési határideje legfeljebb 50 nap.
 
-[^439]: Az „A könnyített térségek kijelölése” alcímet (103/B. §-t) a 650/2023. (XII. 28.) Korm. rendelet 2. §-a iktatta be.
+[^451]: Az „A könnyített térségek kijelölése” alcímet (103/B. §-t) a 650/2023. (XII. 28.) Korm. rendelet 2. §-a iktatta be.

@@ -2,12 +2,12 @@
 
 ## Az engedélyezés általános szabályai
 
-52. § (1)[^317] A Hivatal a VET 74. §-ában meghatározott engedélyköteles tevékenységek folytatásának feltételeit – a 84. § (1) bekezdésében foglaltakra is figyelemmel – az engedélyben állapítja meg, a feltételek nem teljesülése esetén a VET 96. §-ában foglalt jogkövetkezményeket alkalmazza.
+52. § (1)[^330] A Hivatal a VET 74. §-ában meghatározott engedélyköteles tevékenységek folytatásának feltételeit – a 84. § (1) bekezdésében foglaltakra is figyelemmel – az engedélyben állapítja meg, a feltételek nem teljesülése esetén a VET 96. §-ában foglalt jogkövetkezményeket alkalmazza.
 
-(2)[^318]
+(2)[^331]
 
-(3)[^319] Az (1) bekezdésben meghatározott engedély, a Hivatal egyéb határozatai és a határozatokban foglalt egyéb jogosultságok sem egészben, sem részben nem ruházhatók át.
+(3)[^332] Az (1) bekezdésben meghatározott engedély, a Hivatal egyéb határozatai és a határozatokban foglalt egyéb jogosultságok sem egészben, sem részben nem ruházhatók át.
 
-[^317]: A Vhr. 52. § (1) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 32. § (3) bekezdése szerint módosított szöveg.
-[^318]: A Vhr. 52. § (2) bekezdését a 100/2011. (VI. 29.) Korm. rendelet 24. § (3) bekezdése hatályon kívül helyezte.
-[^319]: A Vhr. 52. § (3) bekezdése a 256/2018. (XII. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^330]: A Vhr. 52. § (1) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 32. § (3) bekezdése szerint módosított szöveg.
+[^331]: A Vhr. 52. § (2) bekezdését a 100/2011. (VI. 29.) Korm. rendelet 24. § (3) bekezdése hatályon kívül helyezte.
+[^332]: A Vhr. 52. § (3) bekezdése a 256/2018. (XII. 18.) Korm. rendelet 1. §-ával megállapított szöveg.

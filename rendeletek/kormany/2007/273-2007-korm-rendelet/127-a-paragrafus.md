@@ -1,3 +1,3 @@
-127/A. §[^504]
+127/A. §[^516]
 
-[^504]: A Vhr. 127/A. §-t a 75/2011. (V. 2.) Korm. rendelet 10. §-a iktatta be, az 590/2023. (XII. 20.) Korm. rendelet 2. § b) pontja hatályon kívül helyezte.
+[^516]: A Vhr. 127/A. §-t a 75/2011. (V. 2.) Korm. rendelet 10. §-a iktatta be, az 590/2023. (XII. 20.) Korm. rendelet 2. § b) pontja hatályon kívül helyezte.

@@ -1,6 +1,6 @@
 1. § (1) E rendelet alkalmazásában:
 
-1.[^1] elszámoló számla: olyan a hálózathasználati vagy a villamosenergia-vásárlási szerződés időtartama alatt kiállított, az adott elszámolási időszakra vonatkozó számla, amely az elszámolást az elszámolási időszak kezdő és záró mérőállása közötti tényleges fogyasztás és az egyes zónaidőkre, illetve időszakos árszabás szerinti egy árszabási időszakra vonatkozó díjtétel szorzataként tartalmazza;
+1.[^1] elszámoló számla: a felhasználó részére az adott elszámolási időszakra vonatkozóan kiállított számla;
 
 2.[^2] erőműegység: villamos hálózati csatlakozással rendelkező, elsődleges energiaforrás felhasználásával villamos energia, illetve hővel kapcsolt villamos energia termelésére alkalmas technológiailag önálló egységet képező, műszakilag független berendezés (kazán, erőgép és generátor, illetve erőgép és generátor, a továbbiakban együtt: főberendezés) vagy berendezéscsoport;
 
@@ -26,23 +26,23 @@
 
 11.[^11] próbaüzem: az üzembe helyezés utolsó szakasza, amelynek célja annak igazolása, hogy az erőműegység a jogszabályokban, a hatósági határozatokban és a villamosenergia-ellátási szabályzatokban foglalt, folyamatos és rendeltetésszerű üzemeltetésre vonatkozó követelményeknek üzemelés közben megfelel;
 
-12.[^12] profil elszámolású felhasználó: olyan felhasználó, akinek az ellátása a kisfeszültségű hálózatról történik és nem rendelkezik terhelési görbe regisztrálására alkalmas, indirekt mérésre szolgáló távlehívható fogyasztásmérővel vagy a 14/B. §-ban meghatározott felszerelési feltételeknek megfelelő okosmérővel,
+12.[^12]
 
 13.[^13]
 
 14.[^14] rendelkezésre álló teljesítmény: az a kVA mértékegységben kifejezett látszólagos teljesítőképesség-érték, amelynek mértékéig a hálózati engedélyes a hálózati teljesítőképességet az adott csatlakozási pontra biztosítja;
 
-14a.[^15] részszámla: a felhasználó részére az elszámolási időszakon belül rendszeres időközönként kiállított, statisztikai elemzés vagy adatszolgáltatás alapján megállapított villamosenergia-mennyiségen alapuló számla;
+14a.[^15] részszámla: a felhasználó részére az elszámolási időszakon belüli időszakra vonatkozóan kiállított számla;
 
 15. termelői engedély: a villamosenergia-termelői működési engedély és a kiserőművi összevont engedély;
 
 16. üzemi esemény: a villamosenergia-rendszer üzemében bekövetkező állapotváltozás vagy beavatkozás;
 
-16a.[^16] végszámla: a felhasználó részére a hálózathasználati vagy a villamosenergia-vásárlási szerződés megszűnését követően kiállított, az adott időszak alatti mérőállás szerinti fogyasztáson és a zónaidőkhöz rendelt tarifák szorzatán alapuló számla;
+16a.[^16] végszámla: a felhasználó részére a hálózathasználati vagy a villamosenergia-vásárlási szerződés megszűnésére tekintettel kiállított számla;
 
 17.[^17]
 
-18.[^18] energetikai auditálás: olyan eljárás, amelynek révén megfelelő ismereteket gyűjtenek valamely épület vagy épületcsoport, ipari művelet vagy létesítmény, magán- vagy közszolgáltatás aktuális energiafogyasztási profiljára vonatkozóan, továbbá amely meghatározza és számszerűsíti a költséghatékony energia-megtakarítási lehetőségeket, és rögzíti azok eredményeit;
+18.[^18] energetikai auditálás: olyan eljárás, amelynek révén megfelelő ismereteket gyűjtenek valamely épület vagy épületcsoport, ipari művelet vagy létesítmény, magán- vagy közszolgáltatás aktuális energiafogyasztási szokásaira vonatkozóan, továbbá amely meghatározza és számszerűsíti a költséghatékony energia-megtakarítási lehetőségeket, és rögzíti azok eredményeit;
 
 19.[^19] energiahatékonyság: az energia kihozatal és a bevitt energia hányadosa;
 
@@ -68,7 +68,7 @@
 
 (2) Az (1) bekezdésben nem szereplő fogalmakat a villamos energiáról szóló 2007. évi LXXXVI. törvény (a továbbiakban: VET) 3. §-a szerint kell értelmezni.
 
-[^1]: A Vhr. 1. § (1) bekezdés 1. pontja a 100/2011. (VI. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^1]: A Vhr. 1. § (1) bekezdés 1. pontja a 466/2024. (XII. 30.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^2]: A Vhr. 1. § (1) bekezdés 2. pontja a 100/2011. (VI. 29.) Korm. rendelet 23. § (1) bekezdése szerint módosított szöveg.
 [^3]: A Vhr. 1. § (1) bekezdés 2a. pontját a 378/2011. (XII. 31.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^4]: A Vhr. 1. § (1) bekezdés 2b. pontját a 378/2011. (XII. 31.) Korm. rendelet 1. § (1) bekezdése iktatta be.
@@ -79,13 +79,13 @@
 [^9]: A Vhr. 1. § (1) bekezdés 9. pontja a 100/2011. (VI. 29.) Korm. rendelet 23. § (1) bekezdése szerint módosított szöveg.
 [^10]: A Vhr. 1. § (1) bekezdés 10a. pontját a 100/2011. (VI. 29.) Korm. rendelet 1. § (3) bekezdése iktatta be.
 [^11]: A Vhr. 1. § (1) bekezdés 11. pontja a 378/2011. (XII. 31.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^12]: A Vhr. 1. § (1) bekezdés 12. pontja a 787/2021. (XII. 27.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^12]: A Vhr. 1. § (1) bekezdés 12. pontját a 466/2024. (XII. 30.) Korm. rendelet 34. § a) pontja hatályon kívül helyezte.
 [^13]: A Vhr. 1. § (1) bekezdés 13. pontját a 100/2011. (VI. 29.) Korm. rendelet 24. § (1) bekezdése hatályon kívül helyezte.
 [^14]: A Vhr. 1. § (1) bekezdés 14. pontja a 100/2011. (VI. 29.) Korm. rendelet 24. § (1) bekezdése, a 787/2021. (XII. 7.) Korm. rendelet 21. § 1. pontja szerint módosított szöveg.
-[^15]: A Vhr. 1. § (1) bekezdés 14a. pontját a 100/2011. (VI. 29.) Korm. rendelet 1. § (4) bekezdése iktatta be.
-[^16]: A Vhr. 1. § (1) bekezdés 16a. pontját a 100/2011. (VI. 29.) Korm. rendelet 1. § (5) bekezdése iktatta be.
+[^15]: A Vhr. 1. § (1) bekezdés 14a. pontját a 100/2011. (VI. 29.) Korm. rendelet 1. § (4) bekezdése iktatta be, szövege a 466/2024. (XII. 30.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^16]: A Vhr. 1. § (1) bekezdés 16a. pontját a 100/2011. (VI. 29.) Korm. rendelet 1. § (5) bekezdése iktatta be, szövege a 466/2024. (XII. 30.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
 [^17]: A Vhr. 1. § (1) bekezdés 17. pontját újonnan a 787/2021. (XII. 27.) Korm. rendelet 1. § (2) bekezdése iktatta be, a 680/2023. (XII. 29.) Korm. rendelet 18. § a) pontja hatályon kívül helyezte.
-[^18]: A Vhr. 1. § (1) bekezdés 18. pontját a 64/2009. (III. 31.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 123/2015. (V. 26.) Korm. rendelet 16. §-a szerint módosított szöveg.
+[^18]: A Vhr. 1. § (1) bekezdés 18. pontját a 64/2009. (III. 31.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 123/2015. (V. 26.) Korm. rendelet 16. §-a, a 466/2024. (XII. 30.) Korm. rendelet 33. § a) pontja szerint módosított szöveg.
 [^19]: A Vhr. 1. § (1) bekezdés 19. pontját a 64/2009. (III. 31.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^20]: A Vhr. 1. § (1) bekezdés 20. pontját a 64/2009. (III. 31.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^21]: A Vhr. 1. § (1) bekezdés 21. pontját a 64/2009. (III. 31.) Korm. rendelet 1. § (1) bekezdése iktatta be.

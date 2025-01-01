@@ -1,3 +1,3 @@
-19. §[^113] A profil elszámolású felhasználó által fizetett rendszerhasználati díjak tartalmazzák a menetrend kiegyensúlyozásának költségeit is a Hivatal határozatában meghatározottak szerint.
+19. §[^123]
 
-[^113]: A Vhr. 19. §-a a 100/2011. (VI. 29.) Korm. rendelet 23. § (2) bekezdése szerint módosított szöveg.
+[^123]: A Vhr. 19. §-át a 466/2024. (XII. 30.) Korm. rendelet 34. § d) pontja hatályon kívül helyezte.

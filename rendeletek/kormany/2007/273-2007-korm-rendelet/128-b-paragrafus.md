@@ -1,3 +1,3 @@
-128/B. §[^508]
+128/B. §[^521] E rendelet Módr1.-gyel megállapított 21/D. § (1) bekezdésében foglalt kötelezettség 2026. május 31. napja előtti megsértésére hivatkozva az aktív felhasználóval szemben hátrányos jogkövetkezmény nem alkalmazható.
 
-[^508]: A Vhr. 128/B. §-át a 119/2013. (IV. 23.) Korm. rendelet 10. §-a iktatta be, az 590/2023. (XII. 20.) Korm. rendelet 2. § d) pontja hatályon kívül helyezte.
+[^521]: A Vhr. 128/B. §-át az 590/2023. (XII. 20.) Korm. rendelet 2. § d) pontja hatályon kívül helyezte, újonnan a 466/2024. (XII. 30.) Korm. rendelet 30. §-a iktatta be.

@@ -1,8 +1,8 @@
 ## (A VET 100. §-ához)
 
-## A vertikálisan integrált villamosenergia-ipari vállalkozásra vonatkozó közös szétválasztási szabályok[^412]
+## A vertikálisan integrált villamosenergia-ipari vállalkozásra vonatkozó közös szétválasztási szabályok[^424]
 
-92. §[^413] A hálózati engedélyes vezető tisztségviselője, felügyelőbizottságának – elosztó esetén ügydöntő felügyelőbizottságának – tagja, cégvezetője, vezető állású munkavállalója és engedélyesi tevékenységet ellátó szervezeti egységének vezetője (a továbbiakban: szervezeti egység vezető) a munkaviszony, a munkavégzésre irányuló egyéb jogviszony vagy a kinevezés (a továbbiakban együtt: munkaviszony) megszűnését követően köteles üzleti titokként kezelni a hálózati engedélyesnél tudomására jutott mindazon információkat, amelyek a piaci szereplők számára nyilvánosan nem hozzáférhetők.
+92. §[^425] A hálózati engedélyes vezető tisztségviselője, felügyelőbizottságának – elosztó esetén ügydöntő felügyelőbizottságának – tagja, cégvezetője, vezető állású munkavállalója és engedélyesi tevékenységet ellátó szervezeti egységének vezetője (a továbbiakban: szervezeti egység vezető) a munkaviszony, a munkavégzésre irányuló egyéb jogviszony vagy a kinevezés (a továbbiakban együtt: munkaviszony) megszűnését követően köteles üzleti titokként kezelni a hálózati engedélyesnél tudomására jutott mindazon információkat, amelyek a piaci szereplők számára nyilvánosan nem hozzáférhetők.
 
-[^412]: A Vhr. 92. §-t megelőző alcíme a 75/2011. (V. 2.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^413]: A Vhr. 92. § a 75/2011. (V. 2.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^424]: A Vhr. 92. §-t megelőző alcíme a 75/2011. (V. 2.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^425]: A Vhr. 92. § a 75/2011. (V. 2.) Korm. rendelet 6. §-ával megállapított szöveg.
