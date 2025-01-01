@@ -1,13 +1,3 @@
-5. § Hatályát veszti a motorhajtóanyagok minőségi követelményeiről szóló 17/2017. (V. 26.) NFM rendelet
+5. §[^6]
 
-a) 2. § (1) bekezdés 5., valamint 10–13. pontja,
-
-b) 8. és 9. §-a,
-
-c) 14. §-a,
-
-d) 15. § (1) bekezdés h) pontja,
-
-e) 15. § (3) bekezdése,
-
-f) 5–7. melléklete.
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

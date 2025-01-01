@@ -1,3 +1,3 @@
-2. § A motorhajtóanyagok minőségi követelményeiről szóló 17/2017. (V. 26.) NFM rendelet 7. § (6) bekezdése helyébe a következő rendelkezés lép:
+2. §[^3]
 
-„(6) Ha a közreműködő szervezet a mintavételezés vagy a vizsgálat során jogsértést észlel, erről – a hatósági eljárás lefolytatásához szükséges adatok megküldésével – értesíti a fogyasztóvédelmi hatóságot, valamint az állami adó- és vámhatóságot, azzal, hogy amennyiben a közreműködő szervezet által vett motorbenzin, illetve dízelgázolaj minta a minőségi jellemzők vizsgálata során nem felel meg a (4) bekezdés b) pontja szerinti termékszabványnak, akkor a közreműködő szervezet kontrollmintavételezést és vizsgálatot végez a (4) bekezdés előírásainak megfelelően. A kontrollminta nem megfelelősége esetén a közreműködő szervezet a vizsgálati jegyzőkönyv kiállítását követő 8 napon belül értesíti a fogyasztóvédelmi hatóságot, valamint az állami adó- és vámhatóságot.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
