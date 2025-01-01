@@ -6,11 +6,11 @@
 
 (3) Társasházi és lakásszövetkezeti különlapon nyilvántartott ingatlan, valamint a közös gyűjtőedényt használó ingatlanhasználók közössége esetén a közszolgáltatási résztevékenység igénybevétele akkor szüneteltethető, ha az ingatlanhasználó saját használatú gyűjtőedénnyel rendelkező egyéni díjfizető.
 
-(4) A szüneteltetés – a (9) bekezdésben foglaltak kivételével – legfeljebb egy évre biztosítható, egy év letelte után újra kezdeményezhető.
+(4)[^6] A szüneteltetés – a (10) bekezdésben foglaltak kivételével – legfeljebb egy évre biztosítható, egy év letelte után újra kezdeményezhető.
 
 (5) A szüneteltetésre vonatkozó igényt az ingatlanhasználó a koncessziós társaság részére a szünetelés kívánt kezdő időpontja előtt legalább 30 nappal megelőzően bejelenti a koncessziós társaság ÁSZF-jében meghatározott módon.
 
-(6) Ha a szüneteltetés feltételei fennállnak, de a szüneteltetést az ingatlanhasználó tartós akadályoztatása miatt vagy érvényes jogcíme hiányában csak későbbi időpontban jelenti be, az akadályoztatás okának megjelölésével és kérelmének alapjául szolgáló okiratok benyújtásával kérheti kizárólag a hulladékgazdálkodási közszolgáltatási résztevékenység igénybevétele szüneteltetésének utólagos megállapítását.
+(6)[^7] Ha a szüneteltetés feltételei fennállnak, de a szüneteltetést az ingatlanhasználó tartós akadályoztatása miatt vagy érvényes jogcíme hiányában csak későbbi időpontban jelenti be, az akadályoztatás okának megjelölésével és kérelmének alapjául szolgáló okiratok benyújtásával kérheti a hulladékgazdálkodási közszolgáltatási résztevékenység igénybevétele szüneteltetésének utólagos megállapítását.
 
 (7) A szüneteltetés időtartamáról a koncessziós társaság az ingatlanhasználót a szüneteltetés nyilvántartásában való rögzítésével egyidejűleg írásban tájékoztatja.
 
@@ -22,8 +22,12 @@
 
 (11) Az ingatlanhasználó a szüneteltetés időszakában is köteles gondoskodni a birtokában, használatában lévő hulladékgyűjtő edény tisztán tartásáról, tárolásáról, őrzéséről.
 
-(12) Ha a szüneteltetés feltételeiben változás következik be, az ingatlanhasználó ezt írásban a koncessziós társaság részére haladéktalanul bejelenti.
+(12)[^8] Ha a szüneteltetés feltételeiben változás következik be, az ingatlanhasználó ezt haladéktalanul bejelenti az ÁSZF-ben meghatározott módon.
 
 (13) Ha az ingatlanhasználó a szüneteltetés időtartama alatt hulladékgazdálkodási közszolgáltatási résztevékenység körébe tartozó hulladékot helyez ki, úgy a szünetelés megszűnik, és a hulladékgazdálkodási közszolgáltatási résztevékenység igénybevétele folytatódik. A folytatódó igénybevétel keretében a koncessziós társaság a kihelyezett hulladékot elszállítja, és értesíti az ingatlanhasználót a szüneteltetés megszűnéséről.
 
 (14) Az ingatlanhasználó az általa kötelezően igénybe veendő hulladékgazdálkodási közszolgáltatási résztevékenység keretében végzett szolgáltatás igénybevételét írásban megszünteti, amennyiben ingatlanhasználói minősége megszűnt. A megszüntetés feltétele az ÁSZF-ben meghatározottak szerint az ingatlanhasználói minőség megszűnését igazoló dokumentumok bemutatása és azon indokok írásos rögzítése, amelyek alátámasztják a megszüntetés jogosságát.
+
+[^6]: A 12. § (4) bekezdése a 465/2024. (XII. 30.) Korm. rendelet 55. § (3) bekezdés d) pontja szerint módosított szöveg.
+[^7]: A 12. § (6) bekezdése a 465/2024. (XII. 30.) Korm. rendelet 55. § (4) bekezdése szerint módosított szöveg.
+[^8]: A 12. § (12) bekezdése a 465/2024. (XII. 30.) Korm. rendelet 55. § (3) bekezdés e) pontja szerint módosított szöveg.

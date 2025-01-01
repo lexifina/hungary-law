@@ -4,7 +4,7 @@
 
 (2) A koncessziós társaság a hulladékgazdálkodási közszolgáltatási résztevékenység keretében jogszabály és az ÁSZF, illetve a koncessziós társaság által megkötött egyedi szerződés alapján biztosítja a szolgáltatást az ingatlanhasználók részére a 2023. június 30-án megszűnt közszolgáltatási szerződésekben foglalt feltételekkel és műszaki tartalommal összességében legalább azonos szolgáltatási színvonalon.
 
-(3) A településen ellátott hulladékgazdálkodási közszolgáltatási résztevékenység műszaki színvonalát az alábbi szempontcsoportok együttese határozza meg:
+(3)[^1] A településen ellátott hulladékgazdálkodási közszolgáltatási résztevékenység szolgáltatási színvonalát az alábbi szempontcsoportok együttese határozza meg:
 
 a) a házhoz menő hulladékgyűjtés jellemzői és gyakorisága;
 
@@ -36,7 +36,7 @@ g) az alkalmazott vagy rendelkezésre álló hulladékgazdálkodási infrastrukt
 
 h) az ügyfél-elégedettség és a tagállami célszámteljesítés szempontjából kedvező egyéb gyakorlat.
 
-(4) A településen ellátott hulladékgazdálkodási közszolgáltatási résztevékenység műszaki színvonala megfelelő, ha a tevékenység változása a (3) bekezdés szerinti szempontok alapján nem eredményezi a műszaki színvonal, valamint a környezetvédelem elért szintjének csökkenését.
+(4)[^2] A településen ellátott hulladékgazdálkodási közszolgáltatási résztevékenység szolgáltatási színvonala megfelelő, ha a tevékenység változása a (3) bekezdés szerinti szempontok alapján nem eredményezi a szolgáltatási színvonal, valamint a környezetvédelem elért szintjének csökkenését.
 
 (5) A koncessziós társaság az ÁSZF-ben határozza meg a hulladékgazdálkodási közszolgáltatási résztevékenység ellátásával kapcsolatos, jogszabályban nem szabályozott eljárási vagy végrehajtási jellegű részletszabályokat, valamint a többlethulladékkal kapcsolatos és a hulladékgazdálkodási közszolgáltatási résztevékenységgel összefüggő egyéb szolgáltatások igénybevételének feltételeit, azzal, hogy az egyes szolgáltatási területeket érintő speciális szabályok az ÁSZF mellékleteként kerülnek meghatározásra.
 
@@ -45,3 +45,6 @@ h) az ügyfél-elégedettség és a tagállami célszámteljesítés szempontjá
 (7) A koncessziós társaság az ÁSZF-et – a hatályos, egységes szerkezetbe foglalt szöveggel és a megelőző állapotok (8) bekezdésben meghatározott időtartamig történő visszamenőleges elérhetőségének biztosításával – az ügyfélszolgálatán és a honlapján az ingatlanhasználók részére hozzáférhetővé teszi.
 
 (8) A koncessziós társaság az ÁSZF közzétételével biztosítja, hogy annak tartalma visszakereshető legyen az archív állományba kerüléstől számított 5 évig.
+
+[^1]: A 4. § (3) bekezdés nyitó szövegrésze a 465/2024. (XII. 30.) Korm. rendelet 55. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^2]: A 4. § (4) bekezdése a 465/2024. (XII. 30.) Korm. rendelet 55. § (3) bekezdés a) pontja szerint módosított szöveg.

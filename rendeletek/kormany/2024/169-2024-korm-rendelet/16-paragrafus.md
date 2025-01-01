@@ -10,7 +10,7 @@ b) a lakóingatlant egyedül használó természetes személy ingatlanhasználó
 
 nem haladja meg.
 
-(3) A (2) bekezdés b) pontja szerinti jogosultságot az ingatlanhasználó csak abban az esetben gyakorolhatja, ha annak tényét, hogy a lakóingatlant egyedül használja, a járási hivatal által kiadott igazolás útján, az ÁSZF-ben meghatározott módon a koncessziós társaság részére bizonyítja. Ha a járási hivatal a lakóingatlan egyedül történő használatát nem igazolja, de a tényleges állapot ennek felel meg, akkor a települési önkormányzat jegyzője jogosult ennek igazolására, a jegyző által szükségesnek tartott bizonyítást követően.
+(3)[^13] A (2) bekezdés b) pontja szerinti jogosultságot az ingatlanhasználó csak abban az esetben gyakorolhatja, ha annak tényét, hogy a lakóingatlant egyedül használja, a települési önkormányzat jegyzője által – a jegyző által szükségesnek tartott bizonyítást követően – kiadott igazolás útján, az ÁSZF-ben meghatározott módon a koncessziós társaság részére bizonyítja. A jogosultság a járási hivatal által kiadott, egy lakcímre bejelentett érvényes lakcímmel rendelkező személyekről szóló hatósági bizonyítvánnyal is igazolható.
 
 (4) A koncessziós társaság által felajánlott mindkét gyűjtőedény űrmértéke abban az esetben haladhatja meg a (2) bekezdés szerinti űrmértéket, ha a koncessziós társaság által felajánlott gyűjtőedény egyedi azonosító jellel rendelkezik, és az adott ingatlanhoz tartozó gyűjtőedény ürítésének tényét az azon elhelyezett egyedi azonosító jel alapján az ürítéskor elektronikus úton rögzíti.
 
@@ -27,3 +27,5 @@ d) az érintett ingatlant használó természetes személy (2) bekezdés b) pont
 (6) Ha az ingatlanhasználó az igénybejelentési kötelezettségét elmulasztja, vagy az igénybejelentésében nem nyilatkozik a gyűjtőedény űrtartalmáról, a koncessziós társaság jogosult a 120 literes gyűjtőedényre vonatkozó közszolgáltatási díj ingatlanhasználóval szembeni felszámítására mindaddig, amíg az ingatlanhasználó nem tesz eleget az igénybejelentési kötelezettségének és nem nyilatkozik a gyűjtőedény űrtartalmáról.
 
 (7) A koncessziós társaság az ÁSZF-ben a szolgáltatás igénybevételének feltételeként előírhatja az ingatlanhasználó számára a gyűjtőedényen matrica vagy más egyedi azonosító használatát.
+
+[^13]: A 16. § (3) bekezdése a 465/2024. (XII. 30.) Korm. rendelet 55. § (2) bekezdésével megállapított szöveg.
