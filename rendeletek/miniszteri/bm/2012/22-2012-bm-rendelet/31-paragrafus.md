@@ -6,9 +6,15 @@
 
 (2) Az elkobzást elrendelő határozat jogerőre emelkedése után az elkobzást foganatosító hatóság megvizsgálja, hogy az egyes elkobzott dolgok közérdekű felhasználásáról szóló törvényben meghatározott közérdekű felhasználás feltételei fennállnak-e. A feltételek hiánya esetén a közérdekű felhasználásra nem kerülhet sor.
 
-(3)[^49] Az elkobzott dolgot az annak tárolási helye szerint illetékes általános szabálysértési hatóságnak kell értékesítésre átadni.
+(3)[^49] Az elkobzott dolog értékesítését
 
-(4)[^50]
+a) – a b) pont szerinti eset kivételével – az annak tárolási helye szerint illetékes általános szabálysértési hatóság, vagy
+
+b) a hatáskörébe utalt szabálysértés esetén a NAV
+
+végzi.
+
+(4)[^50] Ha az nincs a birtokában, az elkobzott dolgot az annak értékesítését a (3) bekezdés a) vagy b) pontja alapján végző szervnek kell értékesítésre átadni.
 
 (5) Nem magyar állampolgárságú személy által az előreláthatólag kiszabásra kerülő pénzbírság, illetve eljárási költség fedezeteként letétbe helyezett összegből, illetve a Szabs. tv. alapján tőle lefoglalt vagyontárgyak értékesítéséből a tartozás kiegyenlítése után fennmaradt összeget – ha a nem magyar állampolgárságú személy már nem tartózkodik Magyarország területén – az általa megadott bankszámlára kell befizetni.
 
@@ -36,5 +42,5 @@ h) a jelenlévők aláírását.
 
 (9) Ha az elkobzást végrehajtó szerv az elkobzott dolog értékesítését vagy megsemmisítését követően azt állapítja meg, hogy az elkobzás alaptalanul történt, a 29. § (3) és (4) bekezdésben meghatározott jogosult részére visszafizetést rendel el. Értékesítés esetén a ténylegesen befolyt ellenértéket, megsemmisítés esetén a dolog lefoglaláskori értékét kell megtéríteni. A visszatérítendő összeget az elkobzás alaptalanságát megállapító határozat jogerőre emelkedését követően a megtérítés időpontjáig minden naptári nap után, a felszámítás időpontjában érvényes jegybanki alapkamat kétszeresének 365-öd részét kitevő kamattal növelten kell az elkobzást végrehajtó szervnek visszafizetnie. A 29. § (3) és (4) bekezdésében meghatározott jogosult ezt meghaladó igényét a polgári jog szabályai szerint érvényesítheti. A visszafizetés annak a szervnek a feladata, amelynek költségvetésében az elkobzást végrehajtó szerv szerepel.
 
-[^49]: A 31. § (3) bekezdése a 14/2020. (V. 20.) BM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^50]: A 31. § (4) bekezdését a 14/2020. (V. 20.) BM rendelet 2. § (2) bekezdése hatályon kívül helyezte.
+[^49]: A 31. § (3) bekezdése a 62/2024. (XII. 30.) BM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^50]: A 31. § (4) bekezdését a 14/2020. (V. 20.) BM rendelet 2. § (2) bekezdése hatályon kívül helyezte, újonnan a 62/2024. (XII. 30.) BM rendelet 7. § (2) bekezdése iktatta be.
