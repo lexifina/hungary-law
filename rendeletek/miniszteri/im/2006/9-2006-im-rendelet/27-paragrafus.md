@@ -1,3 +1,3 @@
-## 26. §[^53]
+27. §[^47]
 
-[^53]: A 26. §-t a 46/2007. (IX. 29.) IRM rendelet 25. § (4) bekezdésének j) pontja hatályon kívül helyezte.
+[^47]: A 27. §-t a 32/2008. (XII. 31.) IRM rendelet 19. § (7) bekezdés f) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 19. § (3)–(4) bekezdését.

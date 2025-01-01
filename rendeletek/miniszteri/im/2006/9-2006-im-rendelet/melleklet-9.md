@@ -1,5 +1,3 @@
-## Igazságügyi szakértői szakterületek és az azokhoz kapcsolódó képesítési feltételek a kulturális területen
-
 | Szakterület megnevezése | Képesítési feltétel |
 
 | 1. állagvédelem, restaurálás | a) restaurátorművész vagy b) az OKJ-ben szereplő restaurátor technikus szakképesítés és ba) okleveles vegyész vagy bb) okleveles vegyészmérnök |
@@ -52,6 +50,6 @@
 
 | 25. történeti kertek | a) okleveles tájépítészmérnök vagy b) okleveles tájépítész és kertművész |
 
-9. számú melléklet a 9/2006. (II. 27.) IM rendelethez[^136]
+9. számú melléklet a 9/2006. (II. 27.) IM rendelethez[^131]
 
-[^136]: A 9. számú melléklet a 21/2014. (III. 13.) KIM rendelet 16. § (10) bekezdés a) pontjával megállapított szöveg.
+[^131]: A 9. számú melléklet a 21/2014. (III. 13.) KIM rendelet 16. § (10) bekezdés a) pontjával megállapított szöveg.

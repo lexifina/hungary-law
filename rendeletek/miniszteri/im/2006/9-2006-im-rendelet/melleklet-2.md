@@ -1,5 +1,3 @@
-## Igazságügyi szakértői szakterületek és képesítési feltételek a tűzvédelmi, valamint személy- és vagyonvédelmi területeken
-
 | Szakterület megnevezése | Képesítési feltétel |
 
 | 1. biztonságszervezés | a) főiskolai szakmérnök, biztonságszervező szakon vagy b) biztonságtechnikai mérnök vagy c) biztonságszervező szakember vagy d) egyetemi vagy főiskolai szintű alapképzésben szerzett végzettség és az OKJ-ben szereplő biztonságszervező I. szakképesítés |
@@ -16,6 +14,8 @@
 
 | 7. tűzvizsgálat | a) tűzvédelmi mérnök vagy b) műszaki szakoktató, tűzvédelmi szakirányon vagy c) az OKJ-ben szereplő katasztrófa- és tűzvédelmi szervező (tiszt) szakképesítés vagy d) egyetemi vagy főiskolai szintű alapképzésben szerzett végzettség és az OKJ-ben szereplő tűzvédelmi főelőadó szakképesítés vagy e) katasztrófavédelem alapképzési szakon (katasztrófavédelmi műveleti, tűzvédelmi és mentésirányítási vagy iparbiztonsági szakirány) szerzett felsőfokú végzettség vagy f) rendészeti szervező szakképesítés (katasztrófavédelmi szervező szakmairány, tűzvédelmi szervező szakmairány vagy iparbiztonsági szervező szakmairány) |
 
-2. számú melléklet a 9/2006. (II. 27.) IM rendelethez[^129]
+2. számú melléklet a 9/2006. (II. 27.) IM rendelethez[^124]
 
-[^129]: A 2. számú melléklet a 46/2007. (IX. 29.) IRM rendelet 24. § (1) bekezdése, a 32/2008. (XII. 31.) IRM rendelet 18. § (1) bekezdése, az 50/2009. (IX. 28.) IRM rendelet 16. § (1) bekezdése, a 31/2012. (VI. 29.) KIM rendelet 13. § (5) bekezdés a) pontja, az 57/2012. (XII. 28.) KIM rendelet 17. §-a, a 34/2013. (XII. 23.) KIM rendelet 3. § (9) bekezdés a) pontja, a 21/2014. (III. 13.) KIM rendelet 16. § (9) bekezdés b) pontja szerint módosított szöveg.
+Igazságügyi szakértői szakterületek és az azokhoz kapcsolódó képesítési feltételek az orvosi, továbbá egyes pszichológiai és biológiai területeken
+
+[^124]: A 2. számú melléklet a 46/2007. (IX. 29.) IRM rendelet 24. § (1) bekezdése, a 32/2008. (XII. 31.) IRM rendelet 18. § (1) bekezdése, az 50/2009. (IX. 28.) IRM rendelet 16. § (1) bekezdése, a 31/2012. (VI. 29.) KIM rendelet 13. § (5) bekezdés a) pontja, az 57/2012. (XII. 28.) KIM rendelet 17. §-a, a 34/2013. (XII. 23.) KIM rendelet 3. § (9) bekezdés a) pontja, a 21/2014. (III. 13.) KIM rendelet 16. § (9) bekezdés b) pontja szerint módosított szöveg.

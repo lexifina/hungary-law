@@ -22,6 +22,10 @@
 
 | 9. forenzikus botanika | a) okleveles biológus vagy b) biológus vagy c) okleveles biológia szakos tanár vagy d) biológia szakos tanár |
 
-13. számú melléklet a 9/2006. (II. 27.) IM rendelethez[^140]
+| 10. Kriminalisztikai digitális nyomszakértés | a) műszaki felsőoktatásban szerzett főiskolai vagy egyetemi végzettség vagy b) okleveles informatika szakos tanár vagy számítástechnika szakos tanár vagy c) informatika szakirányon végzett okleveles gazdaságinformatikus vagy d) okleveles alkalmazott matematikus vagy e) villamosmérnök vagy okleveles villamosmérnök vagy f) mérnök-informatikus vagy okleveles mérnök-informatikus vagy g) főiskolai vagy egyetemi szintű alapképzésben szerzett közgazdasági végzettség és legalább 2 éves, nyomozó hatóságnál bűnügyi szakterületen igazoltan megszerzett szakirányú szakmai gyakorlat és bűnügyi elemző képesítés együttes megléte vagy h) egyetemi szintű képzésben megszerzett jogászi végzettség, valamint jogi szakokleveles adó- és vámnyomozó tanácsadói képesítés együttes megléte és legalább 2 éves, nyomozó hatóságnál bűnügyi szakterületen igazoltan megszerzett szakirányú szakmai gyakorlat és bűnügyi elemző képesítés együttes megléte |
 
-[^140]: A 13. számú mellékletet a 46/2007. (IX. 29.) IRM rendelet 24. § (1) bekezdése iktatta be. E módosító rendelet 25. § (1) bekezdése alapján rendelkezéseit a 2007. október 1. napján folyamatban lévő ügyekre is alkalmazni kell.
+13. számú melléklet a 9/2006. (II. 27.) IM rendelethez[^135]
+
+Igazságügyi szakértői szakterületek és az azokhoz kapcsolódó képesítési feltételek az audiovizuális média területén
+
+[^135]: A 13. számú mellékletet a 46/2007. (IX. 29.) IRM rendelet 24. § (1) bekezdése iktatta be. E módosító rendelet 25. § (1) bekezdése alapján rendelkezéseit a 2007. október 1. napján folyamatban lévő ügyekre is alkalmazni kell.
