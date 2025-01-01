@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-296-20-
 | 2021-01-01 | 2013-296-20-22.4 | 616/2020. (XII. 21.) Korm. rendelet |
 | 2023-01-01 | 2013-296-20-22.5 | 603/2022. (XII. 28.) Korm. rendelet |
 | 2024-01-01 | 2013-296-20-22.6 | 642/2023. (XII. 28.) Korm. rendelet |
+| 2025-01-01 | 2013-296-20-22.7 | 423/2024. (XII. 23.) Korm. rendelet |
