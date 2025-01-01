@@ -99,3 +99,5 @@ b) amelyet az üzemeltetőtől, a foglalkoztatottól elvárható, a rendes üzle
 40. egyéb szálláshely: nem kizárólag szálláshely-szolgáltatás folytatása céljából létesített épületben, de szálláshely-szolgáltatási céllal és nem magánszemély vagy nem egyéni vállalkozó által hasznosított, önálló rendeltetési egységet képező épületrész, ahol az egy szobában található ágyak külön-külön is hasznosításra kerülhetnek, illetve a szobák száma legfeljebb huszonöt, és az ágyak száma legfeljebb száz.
 
 41. szálláshely-minősítés: a szálláshelyek számára előírt minőségi követelményeknek való megfelelés vizsgálata és annak alapján a szálláshelyek minőségi fokozatokba sorolása a szálláshely-minősítő szervezet által.
+
+42. borravaló: a vendéglátás szolgáltatással való elégedettség kifejezéseként a fogyasztó által önkéntesen juttatott pénzösszeg.
