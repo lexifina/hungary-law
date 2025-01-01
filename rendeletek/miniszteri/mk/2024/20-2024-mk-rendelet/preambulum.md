@@ -1,0 +1,1 @@
+A Vidéki Otthonfelújítási Programról szóló 389/2024. (XII. 11.) Korm. rendelet 29. §-ában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 9. § 1. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
