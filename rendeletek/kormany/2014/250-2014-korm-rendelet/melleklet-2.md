@@ -1,4 +1,4 @@
-2. melléklet a 250/2014. (X. 2.) Korm. rendelethez[^44]
+2. melléklet a 250/2014. (X. 2.) Korm. rendelethez[^45]
 
 Külön igénylés vagy egyedi feladatátadás alapján nyújtott szolgáltatások
 
@@ -12,4 +12,4 @@ Külön igénylés vagy egyedi feladatátadás alapján nyújtott szolgáltatás
 
 5. Protokoll ajándékbeszerzés, készletraktározás
 
-[^44]: A 2. mellékletet a 293/2017. (X. 10.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^45]: A 2. mellékletet a 293/2017. (X. 10.) Korm. rendelet 3. § (2) bekezdése iktatta be.

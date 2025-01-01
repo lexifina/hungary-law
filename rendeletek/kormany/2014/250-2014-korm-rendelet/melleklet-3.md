@@ -1,4 +1,4 @@
-3. melléklet a 250/2014. (X. 2.) Korm. rendelethez[^45]
+3. melléklet a 250/2014. (X. 2.) Korm. rendelethez[^46]
 
 Kórházak részére biztosított ingatlanüzemeltetési szolgáltatások
 
@@ -58,4 +58,4 @@ Kórházak részére biztosított ingatlanüzemeltetési szolgáltatások
 
 7. Üzemi és munkabalesetek kivizsgálása
 
-[^45]: A 3. mellékletet a 83/2023. (III. 16.) Korm. rendelet 5. §-a iktatta be.
+[^46]: A 3. mellékletet a 83/2023. (III. 16.) Korm. rendelet 5. §-a iktatta be.
