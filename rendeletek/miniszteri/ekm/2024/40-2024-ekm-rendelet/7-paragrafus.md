@@ -1,1 +1,3 @@
-7. § Hatályát veszti az Országos Vasúti Szabályzat II. kötetének kiadásáról szóló 18/1998. (VII. 3.) KHVM rendelet.
+7. §[^1]
+
+[^1]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
