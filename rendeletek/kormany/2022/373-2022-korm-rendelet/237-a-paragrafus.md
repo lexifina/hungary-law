@@ -1,4 +1,4 @@
-237/A. §[^442] E rendeletnek az egyes fejlesztéspolitikai tárgyú kormányrendeleteknek a Belső Ellenőrzési és Integritási Igazgatóság feladatkörét érintő módosításáról szóló 123/2023. (IV. 12.) Korm. rendelettel [a továbbiakban: 123/2023. (IV. 12.) Korm. rendelet] megállapított 111. §-át, 119. § (3a) bekezdését és 124. § (1a) és (3) bekezdését a 123/2023. (IV. 12.) Korm. rendelet hatálybalépését[^443] követően kiállított tanúsítványok és jelentések esetén kell alkalmazni.
+237/A. §[^445] E rendeletnek az egyes fejlesztéspolitikai tárgyú kormányrendeleteknek a Belső Ellenőrzési és Integritási Igazgatóság feladatkörét érintő módosításáról szóló 123/2023. (IV. 12.) Korm. rendelettel [a továbbiakban: 123/2023. (IV. 12.) Korm. rendelet] megállapított 111. §-át, 119. § (3a) bekezdését és 124. § (1a) és (3) bekezdését a 123/2023. (IV. 12.) Korm. rendelet hatálybalépését[^446] követően kiállított tanúsítványok és jelentések esetén kell alkalmazni.
 
-[^442]: A 237/A. §-t a 123/2023. (IV. 12.) Korm. rendelet 28. §-a iktatta be.
-[^443]: A hatálybalépés időpontja 2023. április 15.
+[^445]: A 237/A. §-t a 123/2023. (IV. 12.) Korm. rendelet 28. §-a iktatta be.
+[^446]: A hatálybalépés időpontja 2023. április 15.

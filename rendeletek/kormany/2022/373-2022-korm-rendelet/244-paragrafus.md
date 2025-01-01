@@ -1,5 +1,5 @@
 ## 68. Hatályon kívül helyező rendelkezések
 
-244. §[^463]
+244. §[^467]
 
-[^463]: A 244. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^467]: A 244. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
