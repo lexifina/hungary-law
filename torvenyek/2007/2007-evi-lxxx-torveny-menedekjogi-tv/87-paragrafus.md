@@ -34,6 +34,8 @@ p) a 2014–2020 közötti programozási időszakban a Belső Biztonsági Alapb�
 
 q) a konzuli szolgálat
 
+r) a közúti közlekedési nyilvántartó szerv és a közlekedési igazgatási hatóság
+
 igényelhetnek adatot.
 
 (1a) Az e fejezetben meghatározott nyilvántartásokból a Nemzeti Információs Központ az utasadatok kockázatelemzése, elemzés-értékelés készítése, valamint hírigény teljesítése céljából igényelhet adatot.

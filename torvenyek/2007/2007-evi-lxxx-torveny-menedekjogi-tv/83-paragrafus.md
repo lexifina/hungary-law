@@ -56,17 +56,19 @@ z) a menedékes személyazonosságát és tartózkodási jogát igazoló okmány
 
 (2) A menekültügyi hatóság
 
-a) az (1) bekezdés a)–o) és q)–z) pontjában meghatározott adatokat a kérelem elutasításától, az eljárás megszüntetésétől vagy az elismerés megszűnésétől,
+a) az (1) bekezdés a)–o) és q)–z) pontjában meghatározott adatokat a kérelem elutasításától, az eljárás megszüntetésétől vagy az elismerés megszűnésétől számított huszonöt évig,
 
-b) az (1) bekezdés p) pontjában meghatározott adatokat az e törvényben és külön jogszabályban meghatározott ellátásra, illetve támogatásra való jogosultság megszűnésétől, illetve a visszatérítendő támogatás teljesítésétől vagy a követelés elévülésétől
+b) az (1) bekezdés p) pontjában meghatározott adatokat az e törvényben és jogszabályban meghatározott ellátásra, illetve támogatásra való jogosultság megszűnésétől, illetve a visszatérítendő támogatás teljesítésétől vagy a követelés elévülésétől számított tíz évig
 
-számított huszonöt évig kezeli.
+kezeli.
 
 (3) Az ujjnyomat-adat rögzítésének és tárolásának célja
 
 a) a harmadik országbeli állampolgár vagy hontalan személy által a tagállamok egyikében benyújtott nemzetközi védelem iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló 604/2013/EU rendelet hatékony alkalmazása érdekében az ujjlenyomatok összehasonlítását szolgáló Eurodac létrehozásáról, továbbá a tagállamok bűnüldöző hatóságai és az Europol által az Eurodac-adatokkal való, bűnüldözési célú összehasonlítások kérelmezéséről, valamint a szabadságon, a biztonságon és a jog érvényesülésén alapuló térség nagyméretű IT-rendszereinek üzemeltetési igazgatását végző ügynökség létrehozásáról szóló 1077/2011/EU rendelet módosításáról szóló, 2013. június 26-i, 603/2013/EU európai parlamenti és tanácsi rendelet végrehajtása;
 
 b) a tizenkettedik életévét betöltött elismerését kérő esetében a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra jogosító vízumokra vonatkozó adatok tagállamok közötti cseréjéről (VIS-rendelet) szóló 2008. július 9-i, 767/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: VIS rendelet) 21. és 22. cikke szerinti hozzáférés biztosítása.
+
+c) az (EU) 2019/818 európai parlamenti és tanácsi rendelet végrehajtása.
 
 (4) A menekültügyi hatóság a (3) bekezdés a) pontjában meghatározott célból rögzített ujjnyomat-adatot az elismerését kérő igazolt, ennek hiányában az általa közölt természetes személyazonosító adatainak, állampolgárságának, továbbá a kijelölt szálláshelyének megjelölésével haladéktalanul továbbítja az (5) bekezdés szerinti adatfeldolgozó szervnek. A (3) bekezdés a) és b) pontjában meghatározott célból rögzített ujjnyomat-adat ellenőrzés eredményét a menekültügyi hatóság haladéktalanul továbbítja a szakhatóságként eljáró rendőrségi szerv és polgári nemzetbiztonsági szolgálat részére.
 

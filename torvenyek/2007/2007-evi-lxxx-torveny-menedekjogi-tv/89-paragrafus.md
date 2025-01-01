@@ -24,8 +24,8 @@ f) a büntetőeljárás során keletkezett adatokat.
 
 (7) A menekültügyi hatóság a (2) bekezdés a)–e) pontja szerinti adatokat
 
-a) az Európai Unió tagállamainak menekültügyi hatóságai számára,
+a) az Európai Unió tagállamainak, vagy a többi schengeni államnak a menekültügyi hatóságai számára,
 
-b) az Európai Unió tagállamainak 87. § (1) bekezdés a)–e) pontjai szerinti más hatóságai számára
+b) az Európai Unió tagállamainak, vagy a többi schengeni államnak a 87. § (1) bekezdés a)–e) pontjai szerinti más hatóságai számára
 
 hatósági eljárás lefolytatása érdekében adhatja át.
