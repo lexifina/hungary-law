@@ -53,3 +53,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-383-20-
 | 2024-10-01 | 2016-383-20-22.45 | 258/2024. (VIII. 29.) Korm. rendelet |
 | 2024-10-25 | 2016-383-20-22.46 | 301/2024. (X. 22.) Korm. rendelet |
 | 2024-11-24 | 2016-383-20-22.48 | 351/2024. (XI. 21.) Korm. rendelet |
+| 2025-01-01 | 2016-383-20-22.47 | 328/2024. (XI. 14.) Korm. rendelet |

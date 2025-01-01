@@ -1,5 +1,5 @@
-## 22.[^295]
+## 22.[^299]
 
 65. §
 
-[^295]: A 22. alcímet (65. §-t) a 457/2017. (XII. 28.) Korm. rendelet 591. § c) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 618. §-át.
+[^299]: A 22. alcímet (65. §-t) a 457/2017. (XII. 28.) Korm. rendelet 591. § c) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 618. §-át.

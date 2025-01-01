@@ -4,7 +4,7 @@
 
 ## 1. Az agrárkár-megállapító szerv kijelölése
 
-4. §[^15] A Kormány
+4. §[^18] A Kormány
 
 a) a mezőgazdasági termelést érintő időjárási és más természeti kockázatok kezeléséről szóló 2011. évi CLXVIII. törvényben (a továbbiakban: Mkk tv.),
 
@@ -14,4 +14,4 @@ c) a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. 
 
 foglaltak tekintetében agrárkár-megállapító szervként a vármegyei kormányhivatalt jelöli ki.
 
-[^15]: A 4. § záró szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 1. pontja, a 616/2022. (XII. 29.) Korm. rendelet 242. § b) pontja szerint módosított szöveg.
+[^18]: A 4. § záró szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 1. pontja, a 616/2022. (XII. 29.) Korm. rendelet 242. § b) pontja szerint módosított szöveg.

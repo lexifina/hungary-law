@@ -1,33 +1,31 @@
 ## 5. Az élelmiszerlánc-felügyeleti szerv kijelölése
 
-13. §[^76] A Kormány élelmiszerlánc-felügyeleti szervként
+13. §[^80] A Kormány élelmiszerlánc-felügyeleti szervként
 
 a) a minisztert,
 
-b) az országos főállatorvost,
+b) a kereskedelemért felelős minisztert,
 
-c) a NÉBIH-et,
+c) az országos főállatorvost,
 
-d)[^77] a Pest Vármegyei Kormányhivatalt,
+d) a NÉBIH-et,
 
-e)[^78] az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró vármegyei kormányhivatalt,
+e) az NKFH-t,
 
-f)[^79] a növény- és talajvédelmi hatáskörében eljáró vármegyei kormányhivatalt (a továbbiakban: növény- és talajvédelmi hatáskörben eljáró kormányhivatal),
+f) a Pest Vármegyei Kormányhivatalt,
 
-g)[^80] a vármegyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatalát (a továbbiakban: élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatal),
+g) az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró vármegyei kormányhivatalt,
 
-h) a jegyzőt,
+h) a növény- és talajvédelmi hatáskörében eljáró vármegyei kormányhivatalt (a továbbiakban: növény- és talajvédelmi hatáskörben eljáró kormányhivatal),
 
-i)[^81] a borászati hatáskörben eljáró vármegyei kormányhivatalt,
+i) a vármegyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatalát (a továbbiakban: élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatal),
 
-j)[^82] a pálinkaellenőrző hatóságként eljáró vármegyei kormányhivatalt
+j) a jegyzőt,
+
+k) a borászati hatáskörben eljáró vármegyei kormányhivatalt,
+
+l) a pálinkaellenőrző hatóságként eljáró vármegyei kormányhivatalt
 
 jelöli ki.
 
-[^76]: A 13. § a 20/2017. (II. 2.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg.
-[^77]: A 13. § d) pontját a 360/2019. (XII. 30.) Korm. rendelet 159. § (45) bekezdés 7. pontja hatályon kívül helyezte, újonnan a 446/2020. (X. 1.) Korm. rendelet 8. §-a iktatta be, szövege a 616/2022. (XII. 29.) Korm. rendelet 242. § d) pontja szerint módosított szöveg.
-[^78]: A 13. § e) pontja a 616/2022. (XII. 29.) Korm. rendelet 242. § b) pontja szerint módosított szöveg.
-[^79]: A 13. § f) pontja a 360/2019. (XII. 30.) Korm. rendelet 159. § (7) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 242. § b) pontja szerint módosított szöveg.
-[^80]: A 13. § g) pontja a 616/2022. (XII. 29.) Korm. rendelet 242. § b) pontja szerint módosított szöveg.
-[^81]: A 13. § i) pontját a 171/2017. (VI. 29.) Korm. rendelet 24. § (2) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 159. § (8) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 242. § b) pontja szerint módosított szöveg.
-[^82]: A 13. § j) pontját a 171/2017. (VI. 29.) Korm. rendelet 24. § (2) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 159. § (8) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 242. § b) pontja szerint módosított szöveg.
+[^80]: A 13. § a 328/2024. (XI. 14.) Korm. rendelet 18. §-ával megállapított szöveg.

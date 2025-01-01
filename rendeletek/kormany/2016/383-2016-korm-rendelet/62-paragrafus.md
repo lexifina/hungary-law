@@ -1,3 +1,3 @@
-62. §[^292] A NÉBIH jogosult a Vtv. I/A. Fejezetében meghatározott tevékenységek ellenőrzésére. Ez a rendelkezés nem érinti a területi vadászati hatóság ellenőrzési és intézkedési jogosultságát.
+62. §[^296] A NÉBIH jogosult a Vtv. I/A. Fejezetében meghatározott tevékenységek ellenőrzésére. Ez a rendelkezés nem érinti a területi vadászati hatóság ellenőrzési és intézkedési jogosultságát.
 
-[^292]: A 62. § a 89/2024. (IV. 23.) Korm. rendelet 9. § f) pontja szerint módosított szöveg.
+[^296]: A 62. § a 89/2024. (IV. 23.) Korm. rendelet 9. § f) pontja szerint módosított szöveg.
