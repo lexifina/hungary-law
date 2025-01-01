@@ -88,6 +88,10 @@ b) az a) pont hatálya alá nem tartozó esetben a Kormány rendelete
 
 (11) A városi intézmény tekintetében a (10) bekezdés szerinti irányító vármegyei intézmény vezetője gyakorolja a (6) bekezdés szerinti jogköröket azzal, hogy a (7) bekezdést kell alkalmazni az irányító vármegyei kórház vezetője által tett kezdeményezésekre is.
 
+(11a) Az (1a) bekezdés b) pontjától eltérően az irányító vármegyei intézmény vezetője jogosult az irányítása alá tartozó városi intézmény kapacitásai átcsoportosítására – ideértve az irányító vármegyei intézmény javára történő kapacitás-átcsoportosítást is –, csökkentésére, illetve szakmai összetételének módosítására.
+
+(11b) A városi intézmény 200 000 forint feletti értékű eszközeinek vagyonkezelője az irányító vármegyei intézmény.
+
 (12) A városi intézmény vezetője tekintetében
 
 a) az alapvető munkáltatói jogokat az egészségügyi szolgáltatás irányításáért felelős szerv vezetője,
@@ -96,13 +100,7 @@ b) az egyéb munkáltatói jogokat az irányító vármegyei intézmény vezető
 
 gyakorolja.
 
-(13) A városi intézmény (12) bekezdés alá nem tartozó foglalkoztatottjai tekintetében
-
-a) az alapvető munkáltató jogokat az irányító vármegyei intézmény vezetője,
-
-b) az egyéb munkáltató jogokat a városi intézmény vezetője
-
-gyakorolja.
+(13) A városi intézmény (12) bekezdés alá nem tartozó foglalkoztatottjai tekintetében az alapvető és az egyéb munkáltató jogokat az irányító vármegyei intézmény vezetője gyakorolja.
 
 (13a) A vármegyei intézmény – ideértve az irányítási feladatokat ellátó vármegyei intézményt és klinikai központot is – és a városi intézmény foglalkoztatottjai számára a munkavégzés helyeként bármely, a foglalkoztatási jogviszony szerinti vármegyei vagy városi intézmény székhelye szerinti vármegyében működő vármegyei vagy városi intézmény meghatározható azzal, hogy
 
@@ -142,7 +140,7 @@ g) az országos társgyógyintézet tekintetében a (6) bekezdése szerinti jogk
 
 h) az országos társgyógyintézet vezetője tekintetében az alapvető munkáltatói jogokat – a) pont szerinti kivétellel – egészségügyi szolgáltatás irányításáért felelős szerv vezetője, az egyéb munkáltatói jogokat az országos gyógyintézet vezetője gyakorolja,
 
-i) az országos társgyógyintézet h) pont alá nem tartozó foglalkoztatottjai felett az alapvető munkáltatói jogokat az országos gyógyintézet vezetője, az egyéb munkáltatói jogokat az országos társgyógyintézet vezetője gyakorolja.
+i) az országos társgyógyintézet h) pont alá nem tartozó foglalkoztatottjai felett az alapvető munkáltatói jogokat és az egyéb munkáltatói jogokat az országos gyógyintézet vezetője gyakorolja.
 
 (16) A (8), (9), (12), (13) bekezdés és a (15) bekezdés c), d), h) és i) pontja szerinti munkáltatói jogok gyakorlása az egészségügyi szolgáltatás irányításáért felelős szerv által kiadott szabályzatban foglaltak szerint átruházható.
 

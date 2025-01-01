@@ -18,10 +18,18 @@ h) aki a törlését kéri,
 
 i) akinek – feltéve, hogy törvény kötelező kamarai tagságot ír elő – kamarai tagsága megszűnt.
 
-(1a) Az (1) bekezdés a)–d) pontja alapján a működési nyilvántartásból törölt egészségügyi dolgozó egészségügyi tevékenységet felügyelet mellett sem végezhet.
+(1a) Az (1) bekezdés a)–d) pontja alapján a működési nyilvántartásból törölt, és az Eütv. 113/A. § (5) bekezdésének hatálya alá tartozó egészségügyi dolgozó egészségügyi tevékenységet felügyelet mellett sem végezhet.
 
 (2)
 
 (3) A működési nyilvántartást vezető szerv a 111. § (3) bekezdés c) pontja szerinti azonosítók alapján folyamatosan, elektronikus úton adategyeztetést folytat az egészségügyi államigazgatási szervvel a 112. § (4) bekezdés f) pontjában meghatározott adatok tekintetében.
 
 (4) Az egészségügyi dolgozó egy évet meghaladó végrehajtandó szabadságvesztéséről, valamint az egészségügyi tevékenység folytatását kizáró foglalkozástól eltiltásáról szóló jogerős határozatáról a bíróság – jogszabályban meghatározottak szerint – haladéktalanul értesíti a működési nyilvántartást vezető szervet, és az illetékes egészségügyi szakmai kamarát.
+
+(5) A működési nyilvántartást vezető szerv felfüggeszti a működési nyilvántartását
+
+a) annak a személynek, akinek kötelező kamarai tagságát az egészségügyben működő szakmai kamarákról szóló törvény szerint illetékes egészségügyi szakmai kamara felfüggesztette, a kamarai tagság felfüggesztésének időtartamára,
+
+b) annak a kötelező kamarai tagságát kérelme alapján szüneteltető egészségügyi dolgozónak, aki jogszabály alapján egészségügyi tevékenység végzésére a szüneteltetés időtartama alatt nem jogosult, a kötelező kamarai tagság szüneteltetésének időtartamára,
+
+c) annak a személynek, akit egészségi állapota következtében az egészségügyi államigazgatási szerv az egészségügyi tevékenység folytatására átmenetileg alkalmatlannak nyilvánított, az egészségügyi tevékenység végzésére való alkalmassági felülvizsgálat lefolytatásáig.

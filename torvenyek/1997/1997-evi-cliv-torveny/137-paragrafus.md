@@ -4,4 +4,4 @@ a) több résztevékenységből álló, összefüggő ellátási folyamat végé
 
 b) járóbeteg-szakellátási tevékenység befejezésekor, a beteg ellátásával és gyógykezelésével kapcsolatos összefoglaló adatokat tartalmazó ambuláns ellátási lapot
 
-készít és – a 14. § (1) bekezdésében foglalt eset kivételével – azt a betegnek átadja.
+készít, és azt – a 14. § (1) bekezdésben foglalt eset kivételével – a beteg kérésére a betegnek átadja.

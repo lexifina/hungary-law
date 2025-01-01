@@ -24,9 +24,11 @@ a) átültetés,
 
 b) saját célú gyógykezelés,
 
-c) kórisme megállapítása, továbbá
+c) kórisme megállapítása,
 
-d) kutatás
+d) kutatás, valamint
+
+e) tárolás
 
 céljából lehet külföldre, illetve külföldről Magyarország területére szállítani, ha nemzetközi egyezmény vagy megállapodás azt lehetővé teszi. Szervnek az a) pont szerinti célból történő külföldre szállításának további feltétele az, ha Magyarország területén nincs megfelelő recipiens.
 
