@@ -60,6 +60,10 @@ ac) segítséget nyújt a bántalmazás következtében kialakult pszichés sér
 
 b) legfeljebb öt év időtartamra kiegészítő tevékenysége keretében a bántalmazott társadalmi reintegrációja érdekében félutasház-szolgáltatást nyújthat.
 
+(11a) Új krízisközpont, titkos menedékház szolgáltatás kizárólag családok átmeneti otthona új férőhellyel együtt hozható létre.
+
+(11b) A (11a) bekezdés alkalmazásában nem minősül új családok átmeneti otthona férőhelyszámnak, krízisközpontnak, titkos menedékház szolgáltatásnak, ha a családok átmeneti otthona férőhelyszáma, a krízisközpont, titkos menedékház szolgáltatás fenntartóváltással, más telephelyre, székhelyre történő átcsoportosítással, fenntartók közötti szolgáltatás-átadással jön létre.
+
 (12) A családok átmeneti otthona az otthonhoz kapcsolódó külső férőhelyeken biztosíthatja azoknak a családoknak az ellátását, amelyek önálló lakhatásra támogatással képesek.
 
 (13) A külső férőhelyen történő ellátás időtartama a 45. § (6) bekezdése és a 47. § (3) bekezdés a) pontja szerinti időtartammal együtt sem haladhatja meg a három évet.

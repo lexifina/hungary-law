@@ -28,9 +28,13 @@ b) kollégiumban van,
 
 c) tanulmányai folytatása, illetve üdülés céljából harminc napot meghaladóan külföldön tartózkodik,
 
-d) letartóztatásban van, illetve szabadságvesztését vagy egyéb büntetését tölti, vagy
+d) letartóztatásban van, illetve szabadságvesztését egyéb büntetését tölti,
 
-e) a gyermek örökbefogadásának előkészítése során a szülő-gyermek kapcsolat kialakulása érdekében a kötelező gondozásba kihelyezést megelőzően az örökbe fogadni szándékozóknál tartózkodik.
+e) a gyermek örökbefogadásának előkészítése során a szülő-gyermek kapcsolat kialakulása érdekében a kötelező gondozásba kihelyezést megelőzően az örökbe fogadni szándékozóknál tartózkodik, vagy.
+
+f) a gondozási helyéről engedély nélkül eltávozott, feltéve, hogy a távolléte a három hónapot nem haladja meg.
+
+(5a) Ha az (5) bekezdés d) vagy f) pontja szerinti távollét a három hónapot meghaladja, a távollét idejére a gondozási helyen – ideiglenes hatállyal vagy nevelésbe vétel elrendelésével egyidejűleg, ideiglenes gondozási hely kijelölésével – más gyermek helyezhető el.
 
 (6) A gyermek tartózkodási helyét, illetve annak megváltoztatását – az (5) bekezdés a) és d) pontjának kivételével – a gyermekvédelmi gyám bejelenti a gyámhatóságnak, és kéri annak jóváhagyását. Az (5) bekezdés a) és d) pontjában meghatározott esetekben a gyermekvédelmi gyám értesíti a gyámhatóságot a gyermek tartózkodási helye megváltozásáról.
 

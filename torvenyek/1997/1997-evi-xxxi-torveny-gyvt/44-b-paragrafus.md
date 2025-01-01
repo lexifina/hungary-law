@@ -10,7 +10,7 @@ c) az óvodai nevelésben részesülő gyermek számára a kötelező óvodai ne
 
 d) az egyéni munkarenddel rendelkező tanuló számára,
 
-e) az iskolai oktatásban részesülő tanuló számára az Nktv. szerinti kötelező tanórai és egyéb foglalkozásokon való részvételének idején kívül, valamint a tanítási szünetekben, és
+e) az iskolai oktatásban részesülő tanuló számára az Nktv. szerinti kötelező tanórai és egyéb foglalkozásokon való részvételének idején kívül, és
 
 f) az Nktv. rendelkezései szerint az általános iskolában a tizenhat óra előtt megszervezett egyéb foglalkozás alól felmentett gyermek számára.
 
@@ -41,3 +41,5 @@ feltéve, hogy nem áll fenn vele szemben a 10/A. § (1) bekezdésében meghatá
 a) a sajátos nevelési igényű gyermek, amelyben a tizenhatodik életévét betölti,
 
 b) az a) pont alá nem tartozó gyermek, amelyben a tizennegyedik életévét betölti.
+
+(7) Az (1) bekezdés e) pontja szerint nyújtott napközbeni gyermekfelügyelet rendjének fenntartásában, ha a szolgáltatás nyújtására nem a szolgáltatást nyújtó vagy a szülő, törvényes képviselő otthonában kerül sor, az általános rendőrségi feladatok ellátására létrehozott szerv közreműködhet.

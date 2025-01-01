@@ -34,6 +34,8 @@ ba) a gyermek szüleinek a szülői felügyeleti jogát a bíróság megszüntet
 
 bb) a felülvizsgálatot indokoló egyéb körülmény jut a tudomására.
 
+bc) a gyermek hat hónapot meghaladó időtartamban van engedély nélkül távol a gondozási helyétől.
+
 (5) A gyámhatóság a nevelésbe vétel felülvizsgálata során dönt az egyéni elhelyezési terv fenntartásáról vagy módosításáról, illetve – szükség szerint a vármegyei, fővárosi gyermekvédelmi szakértői bizottság véleményének beszerzésével és mérlegelésével – a gyermek gondozási helyének megváltoztatásáról.
 
 (5a) A gyámhatóság a nevelésbe vétel felülvizsgálata során dönt a nevelési felügyelet elrendeléséről vagy annak mellőzéséről, ha a gyermek személyes szabadságának negyvennyolc órát meghaladó korlátozását az országos vagy a vármegyei, fővárosi gyermekvédelmi szakértői bizottság a szakmai véleményében javasolta.

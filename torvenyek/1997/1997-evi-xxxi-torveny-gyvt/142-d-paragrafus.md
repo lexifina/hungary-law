@@ -1,0 +1,1 @@
+142/D. § A nyilvántartást vezető szerv az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv, illetve más közigazgatási szerv, a közjegyző, a bírósági végrehajtó, a felszámoló részére a közfeladataik ellátása érdekében, a közfeladat megjelölése mellett a nyilvántartáshoz ingyenesen közvetlen hozzáférést biztosít.

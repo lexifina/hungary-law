@@ -12,4 +12,4 @@ feltéve, hogy nem áll fenn vele szemben a 10/A. § (1) bekezdésében meghatá
 
 (3) A családi bölcsődében gondozott saját gyermek után a központi költségvetésről szóló törvényben biztosított támogatást nem lehet igénybe venni.
 
-(4) A családi bölcsőde feladatait önálló szolgáltató vagy legalább három – egy szolgáltató székhelyeként, illetve telephelyeiként, egy vagy több épületben működő – családi bölcsődét magába foglaló hálózat biztosítja. Három vagy annál több családi bölcsőde fenntartását hálózatba kell szervezni. A hálózatban biztosítani kell a szolgáltatást nyújtó személyek részére a folyamatos szakmai tanácsadást, valamint a gyermekek igényeihez rugalmasan igazodó szolgáltatások összehangolását.
+(4) A családi bölcsőde feladatait önálló szolgáltató vagy legalább három családi bölcsődét magába foglaló hálózat biztosítja. Három vagy annál több családi bölcsőde fenntartását hálózatba kell szervezni. A hálózatban biztosítani kell a szolgáltatást nyújtó személyek részére a folyamatos szakmai tanácsadást, valamint a gyermekek igényeihez rugalmasan igazodó szolgáltatások összehangolását.

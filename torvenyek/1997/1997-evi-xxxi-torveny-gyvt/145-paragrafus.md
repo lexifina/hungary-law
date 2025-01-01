@@ -1,14 +1,14 @@
 145. § (1) A központi költségvetésről szóló törvényben biztosított támogatásra jogosult a szolgáltatói nyilvántartásba végleges döntéssel bejegyzett szolgáltató, intézmény vagy hálózat útján gyermekjóléti vagy gyermekvédelmi szolgáltató tevékenységet folytató, közfeladatot ellátó egyházi fenntartó és – a központi költségvetésről szóló törvényben meghatározott – nem állami fenntartó.
 
-(2) Az állami fenntartó, az egyházi fenntartó és a nem állami fenntartó központi költségvetésről szóló törvényben biztosított támogatásra való jogosultságának feltétele
+(2) A központi költségvetésről szóló törvényben biztosított támogatásra való jogosultság feltétele
 
-a) a személyes gondoskodást nyújtó gyermekjóléti alapellátást és gyermekvédelmi szakellátást nyújtó új szolgáltatónak, intézménynek, hálózatnak,
+a) a gyermekek napközbeni ellátása, – a b) pontban foglaltak kivételével – a gyermekek átmeneti gondozása és a gyermekvédelmi szakellátás esetében az új férőhelyszámnak,
 
-b) a gyermekek napközbeni ellátása, gyermekvédelmi szakellátás és – az 51. § (4)–(9) bekezdése szerinti ellátás kivételével – a gyermekek átmeneti gondozása esetében az új férőhelyeknek
+b) krízisközpont, titkos menedékház, félutas ház esetében az új szolgáltatásnak
 
-a gyermekjóléti szolgáltatások és a gyermekvédelmi szakellátás területi lefedettségét figyelembe vevő, külön jogszabály szerinti finanszírozási rendszerbe történő befogadása (a továbbiakban: befogadás), a családsegítés és gyermekjóléti szolgáltatás, a területi gyermekvédelmi szakszolgáltatás, valamint a 145/C. §-ban foglaltak kivételével.
+a gyermekjóléti szolgáltatások és a gyermekvédelmi szakellátás területi lefedettségét figyelembe vevő, jogszabály szerinti finanszírozási rendszerbe történő befogadása (a továbbiakban: befogadás), a területi gyermekvédelmi szakszolgáltatás kivételével.
 
-(2a) A (2) bekezdés alkalmazásában új szolgáltatónak, intézménynek, hálózatnak, illetve férőhelyszámnak az minősül, amelyre a fenntartó a kérelem benyújtásakor nem rendelkezik befogadással.
+(2a) A (2) bekezdés alkalmazásában új szolgáltatásnak vagy férőhelyszámnak az minősül, amelyre a fenntartó a kérelem benyújtásakor nem rendelkezik befogadással.
 
 (2b) A központi költségvetésről szóló törvényben biztosított támogatás befogadás nélkül is jár, ha
 
@@ -30,9 +30,9 @@ ca) szétválás vagy egyesítés,
 
 cb) szolgáltatásiforma-váltás,
 
-cc) a fenntartó intézményei, telephelyei közötti, illetve újonnan létesített telephelyére történő férőhelyszám-átcsoportosítás, vagy
+cc) a fenntartó intézményei, telephelyei közötti, illetve újonnan létesített telephelyére történő férőhelyszám-átcsoportosítás,
 
-cd)
+cd) költözés, vagy
 
 ce) fenntartóváltás
 
@@ -44,9 +44,17 @@ d) az állam fenntartói feladatainak ellátására a Kormány rendeletében kij
 
 (2e) A (2c) bekezdés c) pontja szerinti esetben szétváláson, egyesítésen, átcsoportosításon az egyik intézményben, telephelyen történő férőhelyszám-csökkenéssel egyidejű, másik intézményben, telephelyen, újonnan létesített intézményben, telephelyen történő azonos mértékű férőhelyszám-növelést kell érteni.
 
-(2f) A miniszter, a gyermekek napközbeni ellátása tekintetében a gyermek- és ifjúságpolitikáért felelős miniszter az államháztartásért felelős miniszter egyetértésével indokolt esetben dönthet a szolgáltató, intézmény, hálózat, férőhelyszám befogadásának szükségességéről a (2c) és a (2d) bekezdésben foglaltakra tekintet nélkül, a költségvetési források, a területi lefedettség, a szükségletek és a szolgáltatói nyilvántartásból törölt kapacitások figyelembevételével. Indokolt eset különösen a megszűnt intézmény ellátottairól való gondoskodás, a területileg hiányzó szolgáltatás pótlása, valamint a máshol nem ellátható személyek ellátásának biztosítása. A miniszter, a gyermekek napközbeni ellátása tekintetében a gyermek- és ifjúságpolitikáért felelős miniszter a döntését – az államháztartásért felelős miniszter 30 napon belül közölt álláspontja alapján – 60 napon belül hozza meg.
+(2f) A miniszter, a gyermekek napközbeni ellátása tekintetében a gyermek- és ifjúságpolitikáért felelős miniszter az államháztartásért felelős miniszter egyetértésével indokolt esetben dönthet a szolgáltató, szolgáltatás, intézmény, hálózat, férőhelyszám befogadásának szükségességéről a (2c) és a (2d) bekezdésben foglaltakra tekintet nélkül, a költségvetési források, a területi lefedettség, a szükségletek és a szolgáltatói nyilvántartásból törölt kapacitások figyelembevételével. Indokolt eset különösen a megszűnt intézmény ellátottairól való gondoskodás, a területileg hiányzó szolgáltatás pótlása, valamint a máshol nem ellátható személyek ellátásának biztosítása. A miniszter, a gyermekek napközbeni ellátása tekintetében a gyermek- és ifjúságpolitikáért felelős miniszter a döntését – az államháztartásért felelős miniszter 30 napon belül közölt álláspontja alapján – 60 napon belül hozza meg.
 
-(2g) A gyermekek átmeneti otthonára és a családok átmeneti otthonára a (2a)–(2f) bekezdés szabályai helyett az Szt. 58/A. § (2a)–(2f) bekezdését kell alkalmazni, azzal, hogy a családok átmeneti otthona keretében létrehozott külső férőhelyek esetében a központi költségvetésről szóló törvényben biztosított támogatás befogadás nélkül is jár.
+(2g) A gyermekek átmeneti gondozására a (2a)–(2f) bekezdés szerinti rendelkezések helyett az Szt. 58/A. § (2a)–(2f) bekezdését kell alkalmazni, azzal, hogy
+
+a) a családok átmeneti otthona keretében létrehozott külső férőhelyek esetében a központi költségvetésről szóló törvényben biztosított támogatás befogadás nélkül is jár,
+
+b) krízisközpont, titkos menedékház és félutas ház szolgáltatás esetén a befogadásról a miniszter dönt, az Szt. 58/A. § (2c) bekezdésében foglalt esetek kivételével a gyermek- és ifjúságpolitikáért felelős miniszter egyetértésével,
+
+c) krízisközpont, titkos menedékház és félutas ház-szolgáltatás esetében nem alkalmazható az Szt. 58/A. § (2b) bekezdés f) pontja, és a (2c) bekezdés b) pontja csak a Helyreállítási és Ellenállóképességi Terv keretében vagy a 2021-2027-es uniós programozási időszakban elnyert uniós és hazai pályázatokra vonatkozik.
+
+(2h) A (2c) bekezdés c) pont cd) alpontja szerinti esetben költözésen a gyermekek napközbeni ellátását nyújtó szolgáltató, intézmény, hálózat székhelyének, telephelyének a szolgáltatás nyújtásának településén, fővárosi kerületén belül másik címre történő elköltöztetését kell érteni.
 
 (3) A központi költségvetésről szóló törvényben biztosított támogatásban részesülő egyházi fenntartású vagy nem állami fenntartású gyermekjóléti, gyermekvédelmi szolgáltató, intézmény, hálózat – a munkakörüket sajátos egyházi szolgálati viszonyban ellátó személyeket kivéve –
 

@@ -1,0 +1,1 @@
+142/C. § Az eseti gondnokot, illetve eseti gyámot kirendelő hatóság a nyilvántartásba történő bejegyzés céljából a döntését megküldi az Országos Bírósági Hivatal (a továbbiakban: nyilvántartást vezető szerv) részére. A nyilvántartásba az adatokat a nyilvántartást vezető szerv jegyzi be.

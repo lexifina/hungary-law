@@ -1,0 +1,1 @@
+136/C. § A Biztos Kezdet Gyerekház és a tanoda szolgáltatás fenntartója a tanulói teljesítménymérések céljából átadja a köznevelési és a szakképzési intézmény részére a szolgáltatást igénybe vevő gyermek természetes személyazonosító adatait és a szolgáltatás igénybevételének időtartamára vonatkozó adatot.

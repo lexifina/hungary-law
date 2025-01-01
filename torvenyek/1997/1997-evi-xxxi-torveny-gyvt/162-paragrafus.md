@@ -20,7 +20,7 @@ gy) a Gyermekeink védelmében elnevezésű informatikai rendszerre és a javít
 
 h) a helyettes szülői jogviszony és a nevelőszülői foglalkoztatási jogviszony egyes kérdéseit,
 
-i) a szolgáltatói nyilvántartás vezetésének részletes szabályait, a gyermekjóléti, gyermekvédelmi szolgáltató tevékenységet végző szolgáltatók, intézmények és hálózatok ágazati azonosítójára és annak használatára vonatkozó szabályokat, a szolgáltatói nyilvántartásra vonatkozó hatósági eljárások részletes szabályait, a gyermekjóléti, gyermekvédelmi szolgáltató tevékenységet végző szolgáltatók, intézmények és hálózatok ellenőrzésének részletes szabályait, a jogsértés esetén alkalmazható jogkövetkezményeket, a 98. § (11)–(14) bekezdése szerinti közhírré tétel részletes szabályait, a bejegyzés hiányában nyújtott szolgáltatásokra vonatkozó szabályokat, valamint a szolgáltatói nyilvántartást vezető szerv vagy szervek és a működést engedélyező szerv vagy szervek kijelölését,
+i) a szolgáltatói nyilvántartás vezetésének részletes szabályait, a gyermekjóléti, gyermekvédelmi szolgáltató tevékenységet végző szolgáltatók, intézmények és hálózatok ágazati azonosítójára és annak használatára vonatkozó szabályokat, a szolgáltatói nyilvántartásra vonatkozó hatósági eljárások részletes szabályait, a gyermekjóléti, gyermekvédelmi szolgáltató tevékenységet végző szolgáltatók, intézmények és hálózatok ellenőrzésének részletes szabályait, az engedélyezett férőhelyszám-túllépés mértékét, a jogsértés esetén alkalmazható jogkövetkezményeket, a 98. § (11)–(14) bekezdése szerinti közhírré tétel részletes szabályait, a bejegyzés hiányában nyújtott szolgáltatásokra vonatkozó szabályokat, valamint a szolgáltatói nyilvántartást vezető szerv vagy szervek és a működést engedélyező szerv vagy szervek kijelölését,
 
 j) az örökbefogadást elősegítő és az örökbefogadás utánkövetését végző magánszervezetek tevékenységét és működésük engedélyezését, továbbá a szolgáltatást engedélyező szerv kijelölését,
 
@@ -50,7 +50,7 @@ u) a gyermekvédelmi igazgatási bírság megállapítására és megfizetésér
 
 v) az új szolgáltatóknak, intézményeknek, hálózatoknak, illetve férőhelyszámnak a szolgáltatások területi lefedettségét figyelembe vevő finanszírozási rendszerbe történő befogadására vonatkozó részletes szabályokat,
 
-w) a gyermekek esélynövelő szolgáltatásai, a krízisközpontok, a félutas házak és a titkos menedékházak finanszírozásának rendjére vonatkozó részletes szabályokat,
+w) a gyermekek esélynövelő szolgáltatásai finanszírozásának rendjére vonatkozó részletes szabályokat,
 
 x) az állam fenntartói feladatait ellátó szerv kijelölését, jogállását, működésének részletes szabályait, feladat- és hatáskörét, a szerv feletti irányítási jogkörök gyakorlásának részletes szabályait, valamint a szociálpolitikai feladatokat ellátó szerv kijelölését,
 
@@ -125,3 +125,9 @@ g) az örökbefogadás előtti tanácsadás és felkészítő tanfolyam részlet
 a) a gyermekek esélynövelő szolgáltatásainak szakmai feladatait és működési feltételeit,
 
 b) a Biztos Kezdet Alapképzés szakmai és vizsgakövetelményeit.
+
+(8) Felhatalmazást kap a családpolitikáért felelős miniszter, hogy rendeletben szabályozza
+
+a) a hozzátartozók közötti erőszak áldozatait segítő ellátórendszer szakmai feladatait, működésük feltételeit, valamint a szolgáltatás igénybevételének részletes szabályait,
+
+b) a hozzátartozók közötti erőszak áldozatait segítő ellátórendszer körébe tartozó egyes feladatokat ellátó személyek képesítési előírásait.

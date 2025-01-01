@@ -6,4 +6,4 @@
 
 (4)
 
-(5) Az otthont nyújtó ellátás, utógondozói ellátás nevelőszülő, illetve gyermekotthon által történő biztosítása esetén az ellátottak száma éves átlagban nem haladhatja meg a fenntartó által működtetett – a szolgáltatói nyilvántartásba véglegessé vált döntéssel bejegyzett – nevelőszülői, illetve gyermekotthoni összférőhelyszám 100%-át. A helyettes szülőnél, a gyermekek átmeneti otthonában, illetve a családok átmeneti otthonában ellátottak száma éves átlagban nem haladhatja meg a szolgáltatói nyilvántartásba véglegessé vált döntéssel bejegyzett férőhelyszám 100%-át.
+(5) Az otthont nyújtó ellátás, utógondozói ellátás nevelőszülő, illetve gyermekotthon által történő biztosítása esetén, valamint a helyettes szülőnél, a gyermekek átmeneti otthonában, illetve a családok átmeneti otthonában a szolgáltatói nyilvántartásba véglegessé vált döntéssel bejegyzett férőhelyszámtól éves átlagban az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott mértékben lehet eltérni.
