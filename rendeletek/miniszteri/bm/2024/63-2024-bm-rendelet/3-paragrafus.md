@@ -1,0 +1,3 @@
+## 2. Az egyes veszélyes anyagokkal, illetve veszélyes készítményekkel kapcsolatos egyes tevékenységek korlátozásáról szóló 41/2000. (XII. 20.) EüM–KöM együttes rendelet módosításáról szóló 28/2007. (VI. 13.) EüM–KvVM együttes rendelet hatályon kívül helyezése
+
+3. § Hatályát veszti az egyes veszélyes anyagokkal, illetve veszélyes készítményekkel kapcsolatos egyes tevékenységek korlátozásáról szóló 41/2000. (XII. 20.) EüM–KöM együttes rendelet módosításáról szóló 28/2007. (VI. 13.) EüM–KvVM együttes rendelet.
