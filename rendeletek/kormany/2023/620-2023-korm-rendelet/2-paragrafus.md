@@ -1,3 +1,1 @@
-2. §[^2]
-
-[^2]: A 2. § a 3. § (2) bekezdés alapján 2025. január 1-jén lép hatályba.
+2. § Az R. 1. melléklete helyébe az 1. melléklet lép.
