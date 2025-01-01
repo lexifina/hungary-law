@@ -1,4 +1,4 @@
-## 31/B. §[^161] A halgazdálkodási terv szerkezetét, kötelező és ajánlott elemeit, formai követelményeit a 14. melléklet tartalmazza.
+## 31/B. §[^163] A halgazdálkodási terv szerkezetét, kötelező és ajánlott elemeit, formai követelményeit a 14. melléklet tartalmazza.
 
 32. § (1) Halászati, halgazdálkodási felsőfokú szakirányú képesítéssel rendelkező személynek minősül, aki
 
@@ -12,10 +12,10 @@ d) külföldi egyetemen szerzett halászati mérnök végzettséggel rendelkezik
 
 e) halászati, halgazdálkodási témában dr. univ., PhD, CSc vagy DSc fokozatot szerzett, vagy
 
-f)[^162] felsőfokú mezőgazdasági végzettségű, és rendelkezik ötéves halászati, halgazdálkodási szakmai gyakorlattal.
+f)[^164] felsőfokú mezőgazdasági végzettségű, és rendelkezik ötéves halászati, halgazdálkodási szakmai gyakorlattal.
 
-(2)[^163] Ha a Hhvtv. 50. §-a szerinti nagyságú halgazdálkodási vízterület jogosultja természetes személy, és rendelkezik a (1) bekezdés szerinti képesítéssel a halgazdálkodási hatóságnál kérheti – képzettségének igazolásával – a Hhvtv. 50. §-a szerinti kötelezettség alóli mentesítését.
+(2)[^165] Ha a Hhvtv. 50. §-a szerinti nagyságú halgazdálkodási vízterület jogosultja természetes személy, és rendelkezik a (1) bekezdés szerinti képesítéssel a halgazdálkodási hatóságnál kérheti – képzettségének igazolásával – a Hhvtv. 50. §-a szerinti kötelezettség alóli mentesítését.
 
-[^161]: A 31/B. §-t az 5/2021. (II. 23.) AM rendelet 9. §-a iktatta be.
-[^162]: A 32. § (1) bekezdés f) pontja a 44/2014. (IV. 14.) VM rendelet 22. §-ával megállapított szöveg.
-[^163]: A 32. § (2) bekezdése az 56/2015. (IX. 24.) FM rendelet 22. § 21. pontja szerint módosított szöveg.
+[^163]: A 31/B. §-t az 5/2021. (II. 23.) AM rendelet 9. §-a iktatta be.
+[^164]: A 32. § (1) bekezdés f) pontja a 44/2014. (IV. 14.) VM rendelet 22. §-ával megállapított szöveg.
+[^165]: A 32. § (2) bekezdése az 56/2015. (IX. 24.) FM rendelet 22. § 21. pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-26. §[^93] (1) A turista állami horgászjegy és a hozzá tartozó fogási napló kizárólag nyilvántartott halgazdálkodási vízterületen, a váltás időpontjától számítva a 90. nap végéig érvényes.
+26. §[^95] (1) A turista állami horgászjegy és a hozzá tartozó fogási napló kizárólag nyilvántartott halgazdálkodási vízterületen, a váltás időpontjától számítva a 90. nap végéig érvényes.
 
 (2) A turista állami horgászjegy és a hozzá tartozó horgász fogási napló elektronikus forgalmazását a horgászszövetségi szakrendszer biztosítja.
 
@@ -12,4 +12,4 @@
 
 (7) A turista állami horgászjegy adattartalmát a halgazdálkodási hatóság a honlapján közzéteszi.
 
-[^93]: A 26. § a 4/2024. (II. 14.) AM rendelet 6. §-ával megállapított szöveg.
+[^95]: A 26. § a 4/2024. (II. 14.) AM rendelet 6. §-ával megállapított szöveg.

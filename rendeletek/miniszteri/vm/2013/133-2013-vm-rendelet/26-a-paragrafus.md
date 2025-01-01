@@ -1,4 +1,4 @@
-26/A. §[^94] (1) Az állami halászjegy a kiadásának napjától kezdve a következő év január 31. napjáig, az új állami halászjegy január hónapban történő kiadásának időpontjáig vagy visszavonásáig érvényes.
+26/A. §[^96] (1) Az állami halászjegy a kiadásának napjától kezdve a következő év január 31. napjáig, az új állami halászjegy január hónapban történő kiadásának időpontjáig vagy visszavonásáig érvényes.
 
 (2) A halász fogási napló az elektronikus állami halászjegy kiváltásával együtt és egyidejűleg elektronikus formában is igényelhető, azzal, hogy az állami halászjegy érvényessége alatt a papíralapú fogási napló már nem adható ki.
 
@@ -8,4 +8,4 @@
 
 (5) Az állami halászjegy kötelező adattartalmát a halgazdálkodási hatóság a honlapján közzéteszi.
 
-[^94]: A 26/A. § a 4/2024. (II. 14.) AM rendelet 6. §-ával megállapított szöveg.
+[^96]: A 26/A. § a 4/2024. (II. 14.) AM rendelet 6. §-ával megállapított szöveg.

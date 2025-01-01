@@ -1,4 +1,4 @@
-8. melléklet a 133/2013. (XII. 29.) VM rendelethez[^232]
+8. melléklet a 133/2013. (XII. 29.) VM rendelethez[^235]
 
 I. rész
 
@@ -62,4 +62,4 @@ I. rész
 
 II. rész
 
-[^232]: A 8. melléklet a 44/2014. (IV. 14.) VM rendelet 25. § f) pontja, a 45/2018. (XII. 28.) AM rendelet 33. § (2) bekezdése, a 3/2023. (I. 27.) AM rendelet 7. § d)–e) pontja, a 4/2024. (II. 14.) AM rendelet 13. § h) pont ha) és hb) alpontja szerint módosított szöveg.
+[^235]: A 8. melléklet a 44/2014. (IV. 14.) VM rendelet 25. § f) pontja, a 45/2018. (XII. 28.) AM rendelet 33. § (2) bekezdése, a 3/2023. (I. 27.) AM rendelet 7. § d)–e) pontja, a 4/2024. (II. 14.) AM rendelet 13. § h) pont ha) és hb) alpontja szerint módosított szöveg.

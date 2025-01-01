@@ -1,4 +1,4 @@
-25. §[^92] (1) Az állami horgászjegy a kiadásának napjától kezdve a következő év január 31. napjáig vagy az új állami horgászjegy január hónapban megtörtént kiadásának időpontjáig, illetve a horgászjegy visszavonásáig érvényes.
+25. §[^94] (1) Az állami horgászjegy a kiadásának napjától kezdve a következő év január 31. napjáig vagy az új állami horgászjegy január hónapban megtörtént kiadásának időpontjáig, illetve a horgászjegy visszavonásáig érvényes.
 
 (2) A Hhvtv. 40. § (4) bekezdés c) vagy d) pontja szerinti személy az állami horgászjegy díjának megfizetése alóli mentességét (a továbbiakban: mentesség) az állami horgászjegy váltásakor a horgászszövetség vagy az állami horgászjegy forgalmazását végző horgászszervezet számára a súlyos fogyatékosság minősítéséről és igazolásáról szóló miniszteri rendeletben meghatározott igazolás benyújtásával igazolja. A mentesség jogosulatlan igénybevétele esetén az állami horgászjegy jogosultja az emelt díj pótlólagos befizetésére köteles.
 
@@ -18,4 +18,4 @@
 
 (10) Az állami horgászjegy kötelező adattartalmát a halgazdálkodási hatóság a honlapján közzéteszi.
 
-[^92]: A 25. § a 4/2024. (II. 14.) AM rendelet 6. §-ával megállapított szöveg.
+[^94]: A 25. § a 4/2024. (II. 14.) AM rendelet 6. §-ával megállapított szöveg.

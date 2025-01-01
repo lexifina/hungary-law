@@ -72,7 +72,7 @@ b) a fogási zsákmány GPS koordinátákkal meghatározott kirakodási helyét,
 
 (17)[^79] Ha a nyilvántartott halgazdálkodási vízterület két vagy több halgazdálkodási hatóság illetékességi területén helyezkedik el, a halászati engedélyt kiadó halgazdálkodási hatóság a halászati engedélyt, valamint az annak visszavonásáról szóló határozatot, továbbá a kiadott fogási napló és fogási tanúsítvány egyedi azonosító adatait megküldi a nyilvántartott halgazdálkodási vízterülettel érintett többi halgazdálkodási hatóságnak.
 
-(18)[^80] A fogási tanúsítvány 12. melléklet szerinti díját negyedévente, a tárgynegyedévet követő hónap 20. napjáig a 13. melléklet 2. pontjában meghatározott, a halgazdálkodási hatóság illetékességi területe szerinti vármegyei kormányhivatal számlájára kell befizetni.
+(18)[^80] A fogási tanúsítvány 12. melléklet szerinti díját negyedévente, a tárgynegyedévet követő hónap 20. napjáig a 13. melléklet 2. pontjában meghatározott, a halgazdálkodási hatóság illetékességi területe szerinti vármegyei kormányhivatal számlájára kell befizetni. Az illetékes vármegyei kormányhivatal a díjat negyedévente, a tárgynegyedévet követő hónap 20. napjáig átutalja a 13. melléklet 1. pontjában meghatározott fizetési számlaszámra.
 
 (19)[^81]
 
@@ -101,7 +101,7 @@ b) a fogási zsákmány GPS koordinátákkal meghatározott kirakodási helyét,
 [^77]: A 17. § (15) bekezdése a 62/2019. (XII. 18.) AM rendelet 3. § (3) bekezdésével megállapított szöveg.
 [^78]: A 17. § (15a) bekezdését az 56/2015. (IX. 24.) FM rendelet 4. § (2) bekezdése iktatta be, szövege a 45/2018. (XII. 28.) AM rendelet 10. § (3) bekezdésével megállapított szöveg.
 [^79]: A 17. § (17) bekezdése a 45/2018. (XII. 28.) AM rendelet 10. § (4) bekezdésével megállapított szöveg.
-[^80]: A 17. § (18) bekezdését a 45/2018. (XII. 28.) AM rendelet 35. § a) pontja hatályon kívül helyezte, újonnan a 4/2024. (II. 14.) AM rendelet 4. § (2) bekezdése iktatta be.
+[^80]: A 17. § (18) bekezdését a 45/2018. (XII. 28.) AM rendelet 35. § a) pontja hatályon kívül helyezte, újonnan a 4/2024. (II. 14.) AM rendelet 4. § (2) bekezdése iktatta be, szövege a 80/2024. (XII. 31.) AM rendelet 1. §-ával megállapított szöveg.
 [^81]: A 17. § (19) bekezdését a 45/2018. (XII. 28.) AM rendelet 35. § a) pontja hatályon kívül helyezte.
 [^82]: A 17. § (20) bekezését az 56/2015. (IX. 24.) FM rendelet 4. § (3) bekezdése iktatta be, hatályon kívül helyezte a 45/2018. (XII. 28.) AM rendelet 35. § a) pontja.
 [^83]: A 17. § (21) bekezését az 56/2015. (IX. 24.) FM rendelet 4. § (3) bekezdése iktatta be, a 62/2019. (XII. 18.) AM rendelet 8. § a) pontja hatályon kívül helyezte.

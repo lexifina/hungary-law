@@ -34,6 +34,6 @@
 
 | 17. | menyhal | – | legalább 25 cm | 3 kg |
 
-10. melléklet a 133/2013. (XII. 29.) VM rendelethez[^234]
+10. melléklet a 133/2013. (XII. 29.) VM rendelethez[^237]
 
-[^234]: A 10. mellékletet a 45/2018. (XII. 28.) AM rendelet 35. § e) pontja hatályon kívül helyezte.
+[^237]: A 10. mellékletet a 45/2018. (XII. 28.) AM rendelet 35. § e) pontja hatályon kívül helyezte.
