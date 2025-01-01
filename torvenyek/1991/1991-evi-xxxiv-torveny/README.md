@@ -67,3 +67,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-34-00-00
 | 2023-12-29 | 2023. évi XCVI. törvény | 1991-34-00-00.98 |
 | 2024-01-01 | 2023. évi XCVI. törvény | 1991-34-00-00.99 |
 | 2024-01-20 | 2023. évi XCVI. törvény | 1991-34-00-00.100 |
+| 2025-01-01 | 2024. évi LXXXV. törvény | 1991-34-00-00.101 |

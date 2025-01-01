@@ -10,7 +10,7 @@ b) e tevékenység gyakorlásának jogát az állam koncessziós szerződésben 
 
 (2) A Magyar Állam képviseletét
 
-a) a szerencsejáték-szervezéssel kapcsolatos pályázati és pályázat nélküli ajánlattételi eljárásban, valamint a koncessziós szerződések megkötése során a koncesszióról szóló 1991. évi XVI. törvény (a továbbiakban: Ktv.) 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv,
+a) a szerencsejáték-szervezéssel kapcsolatos pályázati és pályázat nélküli ajánlattételi eljárásban, valamint a koncessziós szerződések megkötése, módosítása és megszüntetése során a koncesszióról szóló 1991. évi XVI. törvény (a továbbiakban: Ktv.) 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv,
 
 b) a koncessziós szerződések végrehajtása, teljesítése, ellenőrzése során a szerencsejáték-szabályozásért felelős miniszter, a koncesszióköteles tevékenység gyakorlásának ellenőrzése során a Hatóság
 
