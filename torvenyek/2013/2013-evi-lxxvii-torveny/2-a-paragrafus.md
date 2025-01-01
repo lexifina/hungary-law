@@ -10,7 +10,7 @@
 
 a) a szakképzésről szóló törvény szerinti szakmai képzést vagy – nem szakképző intézményként – részszakmára felkészítő szakmai oktatást,
 
-b) – a belső képzés és jogszabály alapján szervezett oktatás és képzés kivételével – részben vagy egészben az államháztartás terhére nyújtott költségvetési támogatásból vagy európai uniós forrásból megvalósuló oktatást vagy képzést, vagy
+b) – a mikrotanúsítványt nem adó belső képzés és jogszabály alapján szervezett oktatás és képzés kivételével – részben vagy egészben az államháztartás terhére nyújtott költségvetési támogatásból vagy európai uniós forrásból megvalósuló oktatást vagy képzést, vagy
 
 c) mikrotanúsítványt adó képzést
 

@@ -1,6 +1,6 @@
 ## 11. A felnőttképző adatkezelése
 
-21. § (1) A felnőttképző a képzés lebonyolítása érdekében kezeli
+21. § (1) A felnőttképző a képzés lebonyolítása, valamint a bejelentési és adatszolgáltatási kötelezettség hatóság általi teljesítése esetén a hatóság az 1. § (2) és (2a) bekezdése szerinti kötelezettség teljesítése érdekében kezeli
 
 a) a képzésben részt vevő személy
 

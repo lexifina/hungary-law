@@ -44,7 +44,7 @@ b) a szakképzésért felelős miniszter egyetértésével kiadott rendeletben h
 
 c) rendeletben határozza meg a kontaktórás, távoktatási és zárt rendszerű elektronikus távoktatási képzési formában megvalósuló képzések szakszerű és jogszabálynak megfelelő megszervezéséhez, lebonyolításához, valamint az adatszolgáltatási kötelezettséghez kapcsolódó ellenőrzésének részletes szabályait,
 
-d) rendeletben határozza meg a mikrotanúsítvány tartalmát és kiállításának részletes feltételeit, továbbá a mikrotanúsítvány felnőttképző kiállító által a FAR-rendszerbe – az adatok elektronikus feldolgozására alkalmas módon – történő adatszolgáltatásának részletes szabályait.
+d) rendeletben határozza meg a mikrotanúsítvány tartalmát és kiállításának részletes feltételeit, továbbá a 13/C. § alapján kiállított mikrotanúsítványnak a FAR-rendszerbe – az adatok elektronikus feldolgozására alkalmas módon – történő adatszolgáltatásának részletes szabályait.
 
 (4) Felhatalmazást kap az igazságügyért felelős miniszter, hogy rendeletben határozza meg
 

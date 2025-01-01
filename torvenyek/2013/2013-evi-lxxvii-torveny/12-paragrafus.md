@@ -18,7 +18,7 @@ g) – a zárt rendszerű elektronikus távoktatás kivételével – a maximál
 
 h) a képzésben részt vevő teljesítményét értékelő rendszernek leírását,
 
-i) a képzésről, a képzés egyes tananyagegységeinek elvégzéséről szóló igazolás kiadásának feltételeit,
+i) a képzésről, a képzés egyes tananyagegységeinek elvégzéséről szóló igazolás kiadásának feltételeit, valamint amennyiben a képzéshez mikrotanúsítvány kerül kiállításra, úgy a mikrotanúsítvány alapjául szolgáló szakképzési tankönyv megnevezését és nyilvántartásba vételi számát
 
 j) a képzési program végrehajtásához szükséges személyi és tárgyi feltételeket, valamint a képzéshez kapcsolódó egyéb speciális feltételeket és ezek biztosításának módját.
 

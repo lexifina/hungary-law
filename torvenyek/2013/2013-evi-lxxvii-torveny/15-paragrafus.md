@@ -14,7 +14,7 @@ da) amely részben vagy egészben az államháztartás terhére nyújtott költs
 
 db) amelynek esetében a képzési hitelt nyújtó szerv legalább egy képzésben résztvevővel szerződést kötött
 
-vonatkozó adatot szolgáltat a felnőttképzési államigazgatási szerv részére a felnőttképzés adatszolgáltatási rendszerében. Az adatszolgáltatási kötelezettségnek legkésőbb a képzés megkezdésének időpontját, az adatokban bekövetkezett változás esetén legkésőbb az adatváltozás keletkezését követő harmadik munkanapig, belső képzés esetén annak a negyedévnek az utolsó napjáig kell eleget tenni, amelyikbe a belső képzés befejezésének időpontja esik.
+vonatkozó adatot szolgáltat a felnőttképzési államigazgatási szerv részére a felnőttképzés adatszolgáltatási rendszerében. Az adatszolgáltatási kötelezettségnek legkésőbb a képzés megkezdését, valamint az adatokban bekövetkezett változás esetén legkésőbb az adatváltozás keletkezését, az adatokban bekövetkezett változás esetén legkésőbb az adatváltozás keletkezését követő harmadik munkanapig, belső képzés esetén annak a negyedévnek az utolsó napjáig kell eleget tenni, amelyikbe a belső képzés befejezésének időpontja esik.
 
 (1a) Az (1) bekezdés szerinti adatszolgáltatás nem terjed ki a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szerv, a Nemzeti Adó- és Vámhivatal, a Magyar Honvédség, illetve a nemzetbiztonsági szolgálatok által vagy azok állománya számára szervezett oktatásra, képzésre és ahhoz kapcsolódóan a képzésben részt vevő személyre, ha annak eltérő kezelése e szervek tevékenységével összefüggésben Magyarország rendvédelmi, honvédelmi vagy nemzetbiztonsági érdekeinek érvényesítése céljából szükséges.
 

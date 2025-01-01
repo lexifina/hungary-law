@@ -10,7 +10,7 @@ b) büntetlen előéletű és nem áll a felnőttképzési szakértői tevékeny
 
 c) rendelkezik a felnőttképzési szakértői tevékenység végzéséhez szükséges szakképzettséggel és szakmai gyakorlattal,
 
-d) a Kormány rendeletében meghatározott továbbképzésen részt vett, valamint eredményes vizsgát tett, és
+d) a Kormány rendeletében meghatározott szakértői alapképzést, és vizsgát eredményesen teljesítette, és
 
 e) megfelel a Kormány rendeletében meghatározott egyéb feltételeknek.
 

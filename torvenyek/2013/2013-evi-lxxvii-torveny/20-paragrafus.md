@@ -24,7 +24,7 @@ a) részben vagy egészben az államháztartás terhére nyújtott költségvet�
 
 b) a feltárt jogszabálysértést a felnőttképzési államigazgatási szerv határozata alapján nem szünteti meg vagy ismételten jogszabálysértést követ el,
 
-a felnőttképzési tevékenységtől a felnőttképzési államigazgatási szerv egy – a Kormány rendeletében meghatározott súlyosabban minősülő jogszabálysértés esetén vagy az a) pont szerinti esetben két – évre eltiltja és vele szemben a Kormány rendeletében meghatározott mértékű közigazgatási bírságot szab ki.
+a felnőttképzési tevékenységtől a felnőttképzési államigazgatási szerv egy hónap és egy év közötti – a Kormány rendeletében meghatározott súlyosabban minősülő jogszabálysértés esetén vagy az a) pont szerinti esetben hat hónap és két év közötti – időtartamra eltiltja és vele szemben a Kormány rendeletében meghatározott mértékű közigazgatási bírságot szab ki.
 
 (5a) Ha a felnőttképző a felnőttképzési tevékenységet az eltiltás és kiszabott közigazgatási bírság ellenére tovább folytatja, a felnőttképzési államigazgatási szerv a felnőttképző adószámának törlése iránt intézkedik.
 
@@ -38,4 +38,4 @@ a felnőttképzési tevékenységtől a felnőttképzési államigazgatási szer
 
 (9) A felnőttképzési államigazgatási szerv nem alkalmazhat közigazgatási szankciót a jogsértő magatartás hatóság tudomására jutásától számított egy év, továbbá az elkövetéstől vagy a jogellenes állapot megszűnésétől számított öt év elteltével.
 
-(10) Az (5) bekezdés a) pontja szerinti esetben figyelmeztetés alkalmazásának nincs helye.
+(10) A (3) bekezdés b) pontjában, valamint az (5) bekezdés a) pontja szerinti esetben figyelmeztetés alkalmazásának nincs helye.

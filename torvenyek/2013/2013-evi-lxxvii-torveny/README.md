@@ -37,3 +37,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-77-00-00
 | 2024-01-01 | 2023. évi XC. törvény | 2013-77-00-00.31 |
 | 2024-05-10 | 2024. évi XIII. törvény | 2013-77-00-00.32 |
 | 2024-12-21 | 2024. évi LXXVI. törvény | 2013-77-00-00.33 |
+| 2025-01-01 | 2024. évi LXXVI. törvény | 2013-77-00-00.34 |

@@ -4,7 +4,7 @@ a) a képzésben részt vevő személlyel a 12/A–13/B. § szerint felnőttkép
 
 b) eleget kell tennie a felnőttképzés adatszolgáltatási rendszerébe a 15. § alapján történő adatszolgáltatási kötelezettségnek, a 17. § a) pontjában meghatározott tájékoztatási kötelezettségének, továbbá hirdetéseinek és tájékoztatóinak meg kell felelnie a 17/A. §-ban foglaltaknak.
 
-c) a felnőttképzési tevékenységét – a belső képzés és a jogszabály alapján szervezett oktatás és képzés kivételével – az általa kidolgozott, 12. § szerinti képzési programnak megfelelően kell folytatnia, amelyet előzetes minősítés nélkül a felnőttképzés adatszolgáltatási rendszerébe fel kell töltenie.
+c) a felnőttképzési tevékenységét – a mikrotanúsítványt nem adó belső képzés és a jogszabály alapján szervezett oktatás és képzés kivételével – az általa kidolgozott, 12. § szerinti képzési programnak megfelelően kell folytatnia, amelyet előzetes minősítés nélkül a felnőttképzés adatszolgáltatási rendszerébe fel kell töltetni a 15. § (1) bekezdésében meghatározott időpontig.
 
 (2) A felnőttképzőnek, ha felnőttképzési tevékenysége engedélyhez kötött, a működése során e Fejezet rendelkezései közül az alábbi követelményeknek kell megfelelnie:
 
