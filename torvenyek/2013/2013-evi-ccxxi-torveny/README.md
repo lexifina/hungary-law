@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-221-00-00
 | 2019-07-17 | 2019. évi LXVII. törvény | 2013-221-00-00.9 |
 | 2024-01-01 | 2023. évi CIX. törvény | 2013-221-00-00.11 |
 | 2024-09-01 | 2024. évi XII. törvény | 2013-221-00-00.12 |
+| 2025-01-01 | 2024. évi XII. törvény | 2013-221-00-00.13 |
