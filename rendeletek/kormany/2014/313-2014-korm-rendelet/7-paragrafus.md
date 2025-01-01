@@ -8,6 +8,6 @@
 
 (5) A 6. § a) és b) pontjában foglalt intézkedésekkel kapcsolatban felmerült többletköltségek és károk az intézkedést kiváltó szabálytalanságért felelős résztvevőket terhelik. Több felelős esetén a többletköltségek és a kárviselés megosztására, az (1) bekezdés bírságmegosztásra vonatkozó szabályait kell alkalmazni.
 
-(6)[^7]
+(6)[^9]
 
-[^7]: A 7. § (6) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 234. §-a hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^9]: A 7. § (6) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 234. §-a hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

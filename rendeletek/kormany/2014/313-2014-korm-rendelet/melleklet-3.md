@@ -1,5 +1,3 @@
-## Bírságolással érintett cselekmények
-
 | Sorszám | Bírságolással érintett cselekmények, (szabálytalanságok, mulasztások) | A bírság alapösszege forintban | A bírság megfizetésére kötelezhető |
 
 |  | I. kockázati kategóriába tartozó mulasztások |

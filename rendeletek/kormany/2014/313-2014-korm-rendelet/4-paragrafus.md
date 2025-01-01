@@ -4,6 +4,6 @@
 
 (2) Az ellenőrzés indokolatlanul nem gátolhatja a veszélyes áru továbbítását. Szabálytalanság feltárása esetén a katasztrófavédelmi hatóságnak a legkisebb kockázattal járó intézkedést kell megtennie a szabálytalanság megszüntetésére.
 
-(3)[^6]
+(3)[^8]
 
-[^6]: A 4. § (3) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 514. §-a hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^8]: A 4. § (3) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 514. §-a hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
