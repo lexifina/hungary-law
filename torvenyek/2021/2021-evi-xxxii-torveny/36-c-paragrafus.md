@@ -1,0 +1,1 @@
+36/C. § A 3. § (3) bekezdése és a 4. § (1) bekezdése a Pénzmosás és Terrorizmusfinanszírozás Elleni Hatóság létrehozásáról, valamint az 1093/2010/EU, az 1094/2010/EU és az 1095/2010/EU rendelet módosításáról szóló, 2024. május 31-i (EU) 2024/1620 Európai Parlamenti és Tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.

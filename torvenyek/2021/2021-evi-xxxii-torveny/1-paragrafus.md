@@ -14,9 +14,9 @@ c) a szerencsejáték-szervezés engedélyezésével, hatósági ellenőrzésév
 
 d) a felszámolói névjegyzék, valamint a felszámoló szervezetek más hatósági nyilvántartásainak vezetésével, a felszámolók egyes tevékenységeinek szabályozásával, a felszámolói szervezetrendszer feletti hatósági felügyelet és hatósági ellenőrzés gyakorlásával és szabályozásával
 
-e) az elektronikus információs rendszerek védelméhez szükséges poszt-kvantumtitkosítás alkalmazást nyújtó szervezetek nyilvántartásba vételével,
+e) a poszt-kvantumtitkosítás alkalmazást nyújtó szervezetek nyilvántartásba vételével és ellenőrzésével,
 
-f) az elektronikus információs rendszerek védelméhez szükséges poszt-kvantumtitkosítás alkalmazást nyújtó szervezetek információbiztonsági tanúsítását végző szervezetek (a továbbiakban: tanúsító szervezet) nyilvántartásba vételével,
+f) a Magyarország kiberbiztonságáról szóló törvény (a továbbiakban: Kiberbiztonsági tv.) 54. § (1) bekezdése szerinti tanúsító szervezet nyilvántartásba vételével és ellenőrzésével,
 
 g) a szerkezetátalakítási szakértők hatósági nyilvántartásainak vezetésével, a bíróság általi kijelölésük és hivatalból történő kirendelésük során alkalmazott, a Hatóság által működtetett elektronikus, véletlenszerű kiválasztás elvét alkalmazó informatikai rendszer fejlesztésével és működtetésével, egyes tevékenységeik szabályozásával, a tevékenységük feletti hatósági felügyelet és hatósági ellenőrzés gyakorlásával és szabályozásával, valamint
 

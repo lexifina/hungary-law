@@ -1,4 +1,4 @@
-5/A. § A Hatóság a 3. § (6) bekezdése szerinti, nemzeti kiberbiztonsági tanúsító hatósági feladatkörében az ellenőrzés eredményeként a feltárt jogsértés súlyával arányosan, a jogsértésben rejlő kockázat mértékének és jellegének figyelembevételével – a termékek piacfelügyeletéről szóló törvényben és a Kibertan.tv.-ben foglaltakon túl – a következő jogkövetkezményeket is alkalmazhatja:
+5/A. § A Hatóság a 3. § (6) bekezdése szerinti, nemzeti kiberbiztonsági tanúsító hatósági feladatkörében az ellenőrzés eredményeként a feltárt jogsértés súlyával arányosan, a jogsértésben rejlő kockázat mértékének és jellegének figyelembevételével – a termékek piacfelügyeletéről szóló törvényben és a Kiberbiztonsági tv.-ben foglaltakon túl – a következő jogkövetkezményeket is alkalmazhatja:
 
 a) kötelezheti a gyártót az uniós és a nemzeti megfelelőségi nyilatkozat módosítására vagy visszavonására,
 
