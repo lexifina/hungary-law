@@ -22,7 +22,7 @@ da) év végi leltározásának – a 3. § szerinti HM fejezet Számviteli Poli
 
 db) adatszolgáltatásának jóváhagyására.
 
-(2)[^30] Az MH PK, továbbá a szervezetszerű helyettese a 2. § szerinti speciális gazdálkodásra való tekintettel a honvédelmi szervezetek vonatkozásában egyéb gazdálkodási jogköröket gyakorolhat, a közjogi szervezetszabályozó eszközben meghatározottak szerint.
+(2)[^30] A HVKF vagy az általa kijelölt helyettese a 2. § szerinti speciális gazdálkodásra való tekintettel a honvédelmi szervezetek vonatkozásában egyéb gazdálkodási jogköröket gyakorolhat, a közjogi szervezetszabályozó eszközben meghatározottak szerint.
 
 (3)[^31] A HVKF vagy az általa kijelölt helyettese a 2. Magyar Honvédség költségvetési cím vonatkozásában a központi létszámgazdálkodás keretében
 
@@ -40,6 +40,6 @@ d) előirányzatfedezet megléte esetén dönt a honvédségi szervezetek elemi 
 [^27]: Az „A Honvéd Vezérkar főnöke gazdálkodás-irányítási jogköre” alcím címe az 592/2023. (XII. 20.) Korm. rendelet 2. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^28]: A 7/C. §-t a 354/2019. (XII. 23.) Korm. rendelet 5. §-a iktatta be.
 [^29]: A 7/C. § (1) bekezdés nyitó szövegrésze az 592/2023. (XII. 20.) Korm. rendelet 2. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^30]: A 7/C. § (2) bekezdése a 11/2021. (I. 20.) Korm. rendelet 2. § c) pontja szerint módosított szöveg. [A 7/C. § (2) bekezdés nyitó szövegrészében az 592/2023. (XII. 20.) Korm. rendelet 2. § (2) bekezdés c) pontjával elrendelt módosítás, amely szerint az „Az MH PK, továbbá szervezetszerű helyettese” szövegrész helyébe az „A HVKF, illetve az általa kijelölt helyettese” szöveg lép, nem vezethető át.]
+[^30]: A 7/C. § (2) bekezdése a 354/2024. (XI. 21.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^31]: A 7/C. § (3) bekezdés nyitó szövegrésze az 592/2023. (XII. 20.) Korm. rendelet 2. § (2) bekezdés d) pontja szerint módosított szöveg.
 [^32]: A 7/C. § (4) bekezdését az 592/2023. (XII. 20.) Korm. rendelet 2. § (1) bekezdése iktatta be.
