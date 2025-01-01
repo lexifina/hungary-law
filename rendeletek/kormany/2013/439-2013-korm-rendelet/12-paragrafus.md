@@ -12,8 +12,11 @@ b) az e rendeletben meghatározott feltételekkel már nem rendelkezik.
 
 (5)[^85] A miniszter eltiltja a tevékenység Magyarországon történő folytatásától azt a nem EGT-állambeli szakértőt, akinek megfelelőségét az adott állam örökségvédelmi intézménye nem igazolja.
 
+(6)[^86] A nyilvántartás vezető miniszter az (1) és a (3)–(5) bekezdésben foglalt intézkedésekről az igazságügyi szakértői névjegyzéket vezető hatóságot haladéktalanul, de legfeljebb az intézkedésének nyilvántartásba történő bejegyzésétől számított 3 munkanapon belül tájékoztatja, amennyiben az érintett szakértő az igazságügyi szakértői nyilvántartásban is szerepel.
+
 [^81]: A 12. § (1) bekezdése a 323/2016. (X. 27.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
 [^82]: A 12. § (2) bekezdése a 38/2015. (III. 11.) Korm. rendelet 23. § (21) bekezdés g) pontja szerint módosított szöveg.
 [^83]: A 12. § (3) bekezdés nyitó szövegrésze a 38/2015. (III. 11.) Korm. rendelet 23. § (21) bekezdés h) pontja szerint módosított szöveg.
 [^84]: A 12. § (4) bekezdése a 38/2015. (III. 11.) Korm. rendelet 23. § (21) bekezdés i) pontja szerint módosított szöveg.
 [^85]: A 12. § (5) bekezdését a 323/2016. (X. 27.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^86]: A 12. § (6) bekezdését a 331/2024. (XI. 14.) Korm. rendelet 11. §-a iktatta be.

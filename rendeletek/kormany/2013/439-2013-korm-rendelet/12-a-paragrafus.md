@@ -1,4 +1,4 @@
-## 12/A. §[^86] A műemléki érték védelmével kapcsolatos műemléki területen a miniszter azon szakértő vagy szakértő szervezet számára,
+## 12/A. §[^87] A műemléki érték védelmével kapcsolatos műemléki területen a miniszter azon szakértő vagy szakértő szervezet számára,
 
 a) amely a szakértői tevékenység hatósági ellenőrzése során a műemléki területen kirendelt igazságügyi szakértő szakvéleménye szerint szakszerűtlen, vagy szándékosan vagy súlyos gondatlanságból valótlan tartalmú szakvéleményt, dokumentációt készít – ha a c) pontban foglaltak nem valósulnak meg –, egy évre,
 
@@ -8,4 +8,4 @@ c) amelyről az örökségvédelmi, az örökségvédelmi felügyeleti vagy az �
 
 megtiltja a szakértői tevékenység folytatását.
 
-[^86]: A 12/A. §-t a 62/2014. (III. 6.) Korm. rendelet 54. §-a iktatta be, szövege a 323/2016. (X. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^87]: A 12/A. §-t a 62/2014. (III. 6.) Korm. rendelet 54. §-a iktatta be, szövege a 323/2016. (X. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
