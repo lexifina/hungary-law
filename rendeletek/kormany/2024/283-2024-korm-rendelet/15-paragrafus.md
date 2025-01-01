@@ -6,8 +6,6 @@ a) ellátja az Ábtv. 4. § (6) bekezdése szerinti feladatot,
 
 b) elbírálja a területi építészeti tervtanácsi véleménnyel szembeni kifogást,
 
-c)[^2]
+c) vizsgálja a településrendezési és építési követelmények alapszabályzatáról szóló kormányrendelet szerint egyedi eltérést, valamint
 
 d) konzultációt biztosít a Méptv. 61. § (2) bekezdésében meghatározott feladatok tekintetében.
-
-[^2]: A 15. § c) pontja a 36. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.

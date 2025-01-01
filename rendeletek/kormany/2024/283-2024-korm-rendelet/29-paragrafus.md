@@ -1,3 +1,9 @@
-29. §[^4]
+29. § Egyedi eltérés kérése esetén a 23. § (2) bekezdésében meghatározottakon kívül benyújtandó:
 
-[^4]: A 29. § a 36. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+a) a vázlatterv,
+
+b) a kérelmezett eltérés és az esetlegesen vállalt kompenzáció megjelölése,
+
+c) az eltérés szükségességét alátámasztó indokolása, valamint
+
+d) az önkormányzati főépítész támogató véleménye.

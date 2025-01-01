@@ -14,7 +14,7 @@ e) világörökségi terület, világörökségi várományos terület vagy a Vi
 
 (2) Kifogás elbírálása esetén – az (1) bekezdésben meghatározottak alapján – az Országos Építészeti Tervtanács és a területi építészeti tervtanács azt vizsgálja, hogy a kifogás alapját képező tervtanácsi vélemény szakmailag megalapozott volt-e.
 
-(3)[^5]
+(3) Eltérés kérése minden esetben konzultáció lefolytatása, majd azt követően a végleges dokumentáció Országos Építészeti Tervtanács vagy területi építészeti tervtanács általi jóváhagyása mellett történik. Egyedi eltérés kérése esetében az Országos Építészeti Tervtanács és a területi építészeti tervtanács vizsgálja, hogy a településrendezési és építési követelmények alapszabályzatáról szóló kormányrendelet rendelkezései alapján indokolt-e a kérelmezett eltérés.
 
 (4) A településrendezési tervtanács a településrendezési terv szakmai véleményezése során vizsgálja, hogy az
 
@@ -29,5 +29,3 @@ d) figyelembe veszi-e a területhasználatot befolyásoló jogszabályokat, kül
 e) tisztázta-e a tervezett területhasználat környezeti, társadalmi és gazdasági hatásait,
 
 f) megfelel-e a rá vonatkozó jogszabályi és szakmai előírásoknak, valamint a szakmai igényesség és szakszerűség követelményeinek.
-
-[^5]: A 31. § (3) bekezdése a 36. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.

@@ -4,8 +4,8 @@ a) a magyar építészetről szóló 2023. évi C. törvény (a továbbiakban: M
 
 b) az állami építési beruházások rendjéről szóló 2023. évi LXIX. törvény (a továbbiakban: Ábtv.) 4. § (6) bekezdésében, továbbá
 
-c)[^1]
+c) a településrendezési és építési követelmények alapszabályzatáról szóló kormányrendeletben
+
+meghatározott feladatok ellátására (a továbbiakban együtt: tervtanácsi eljárás) terjed ki.
 
 (2) Nem terjed ki e rendelet hatálya a tervpályázati eljárásokról szóló kormányrendelet hatálya alá tartozó, az építési engedélyezéshez szükséges, továbbá a kiemelt beruházás tárgyát képező építmény terveinek készítésére kiírt tervpályázaton díjazott építészeti-műszaki dokumentációra (a továbbiakban: dokumentáció).
-
-[^1]: A 2. § (1) bekezdés c) pontja a 36. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.

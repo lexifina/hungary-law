@@ -32,6 +32,4 @@ b) módosítja.
 
 (9) Ha a területi építészeti tervtanács helyi építészeti tervtanács véleménye elleni kifogást tárgyal, véleménye a fővárosi vagy vármegyei kormányhivatalban működő állami főépítészi jóváhagyással adható ki.
 
-(10)[^6]
-
-[^6]: A 32. § (10) bekezdése a 36. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+(10) Ha a benyújtott dokumentáció alapján egyedi eltérés jóváhagyása szükséges, a tervtanácsi vélemény tartalmazza a tervtanács nyilatkozatát arról, hogy az egyedi eltérést támogatja vagy nem támogatja.
