@@ -22,26 +22,15 @@
 
 ## k) a Szabadszállás Város Önkormányzata által megvalósítandó útfelújítással, valamint orvosi eszközbeszerzéssel;
 
-## 2. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet címrendjének a 36. Egyes települési önkormányzatok fejlesztési célú támogatásai címmel és az 1. melléklet szerinti alcímekkel történő kiegészítését;
+## 2.[^1]
 
-## Felelős: pénzügyminiszter
-
-## belügyminiszter
-
-## Határidő: azonnal
-
-## 3. az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva, az 1. pontban meghatározott célokra 1 232 867 818 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 1. Gazdaság újraindítását szolgáló miniszterelnökségi fejezeti kezelésű előirányzatok alcím, 1. Magyar Falu Program jogcímcsoport terhére, a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 36. Egyes települési önkormányzatok fejlesztési célú támogatásai cím 1. melléklet szerinti alcímei javára, az ott megjelölt célokra, a 2. melléklet szerint;
-
-## Felelős: pénzügyminiszter
-
-## Miniszterelnökséget vezető miniszter
-
-## belügyminiszter
-
-## Határidő: azonnal
+## 3.[^2]
 
 ## 4. egyetért azzal, hogy a belügyminiszter az 1. pontban meghatározott támogatási célokra, a 3. pont szerint átcsoportosított forrás terhére, külön pályázat és kérelem benyújtása nélkül, vissza nem térítendő egyedi támogatást nyújtson az 1. melléklet szerinti önkormányzatok (a továbbiakban együtt: Önkormányzatok) részére támogatási előlegként, a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatói okiratok alapján;
 
 ## 5. egyetért azzal, hogy a belügyminiszter a 3. pont szerinti költségvetési támogatást az 1. melléklet szerint a támogatói okiratok kiadását követően folyósítsa az Önkormányzatok részére.
 
 1. melléklet az 1642/2021. (IX. 21.) Korm. határozathoz
+
+[^1]: A 2. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: A 3. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
