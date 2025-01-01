@@ -90,6 +90,6 @@
 
 ## e) Választható portfoliós rendszerben az egyes portfoliókra számított hozamrátát az a)–d) pontok szerinti módszerrel kell kiszámítani.
 
-4/A. számú melléklet a 281/2001. (XII. 26.) Korm. rendelethez[^161]
+4/A. számú melléklet a 281/2001. (XII. 26.) Korm. rendelethez[^164]
 
-[^161]: A 4/A. számú mellékletet a 335/2008. (XII. 30.) Korm. rendelet 16. § (2) bekezdése iktatta be, hatályon kívül helyezte a 139/2016. (VI. 13.) Korm. rendelet 11. § b) pontja.
+[^164]: A 4/A. számú mellékletet a 335/2008. (XII. 30.) Korm. rendelet 16. § (2) bekezdése iktatta be, hatályon kívül helyezte a 139/2016. (VI. 13.) Korm. rendelet 11. § b) pontja.

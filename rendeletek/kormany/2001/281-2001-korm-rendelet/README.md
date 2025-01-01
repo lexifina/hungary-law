@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-281-20-
 | 2022-07-01 | 2001-281-20-22.28 | 332/2004. (XII. 11.) Korm. rendelet |
 | 2024-07-01 | 2001-281-20-22.29 | 684/2023. (XII. 29.) Korm. rendelet |
 | 2024-12-03 | 2001-281-20-22.30 | 373/2024. (XII. 2.) Korm. rendelet |
+| 2025-01-01 | 2001-281-20-22.31 | 393/2024. (XII. 12.) Korm. rendelet |
