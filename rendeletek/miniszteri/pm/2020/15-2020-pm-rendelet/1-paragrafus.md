@@ -15,3 +15,5 @@ c) a NAV vezetőjére, a NAV vezetőjének szakmai helyettesére,
 d) a NAV munkaviszonyban álló munkavállalóira (a továbbiakban: munkavállaló),
 
 e) a NAV Képzési, Egészségügyi és Kulturális Intézete (a továbbiakban: NAV KEKI) felnőtt háziorvosi szolgálatába bejelentkezettekre
+
+terjed ki.

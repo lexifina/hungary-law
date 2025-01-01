@@ -1,6 +1,6 @@
 2. melléklet a 15/2020. (XII. 29.) PM rendelethez
 
-## A végrehajtott foglalkozás-egészségügyi alapfeladatokra vonatkozó kimutatás adattartalma
+A végrehajtott foglalkozás-egészségügyi alapfeladatokra vonatkozó kimutatás adattartalma
 
 1. jogszabályban meghatározott előzetes egészségi alkalmassági vizsgálatok esetszáma
 

@@ -36,6 +36,6 @@ ba) a 4. melléklet 2.1. pontjában, illetve 2.2.1–2.2.11. pontjában meghatá
 
 bb) a 4. melléklet 2.3–2.8. pontjában meghatározott okok közül legalább egy
 
-## kizáró ok fennáll, szolgálati jogviszonyba nem vehető fel.
+kizáró ok fennáll, szolgálati jogviszonyba nem vehető fel.
 
 (8) Az (1)–(7) bekezdésben foglaltakat kell alkalmazni akkor, ha a munkavállaló – jogviszony-váltás keretében – szolgálati jogviszonyt kíván létesíteni.

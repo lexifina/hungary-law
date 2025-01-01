@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-15-20-5
 | --- | --- | --- |
 | 2021-01-01 | 2020-15-20-53.1 | 15/2020. (XII. 29.) PM rendelet |
 | 2021-01-02 | 2020-15-20-53.2 | 2010: CXXX. törvény |
+| 2025-01-01 | 2020-15-20-53.3 | 7/2024. (XII. 31.) PM rendelet |

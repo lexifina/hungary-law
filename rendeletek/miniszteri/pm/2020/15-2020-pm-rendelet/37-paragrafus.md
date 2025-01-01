@@ -8,7 +8,7 @@ c) a tisztjelölttel kapcsolatos ügyek intézésére kijelölt NAV szervezeti e
 
 d) a dékán
 
-## jogosult.
+jogosult.
 
 (2) Felülvizsgálati kérelem benyújtása esetén a FÜV Bizottság eljárásához be kell szerezni a dékán írásbeli véleményét is.
 

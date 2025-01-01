@@ -30,6 +30,6 @@ a) 2000 méter sík terepen történő gyaloglással, és
 
 b) az 5. melléklet 1–4. pontjában foglalt táblázatban meghatározott mozgásformák közül további legfeljebb négy mozgásformával
 
-## teljesíti.
+teljesíti.
 
 (9) A (8) bekezdés b) pontja szerint választott négy mozgásforma alkalmazásával végzett fizikai felmérésen a pontozás az 5. melléklet 6. pontjában foglalt táblázat szerint történik.

@@ -1,8 +1,6 @@
-## 51. §[^1]
-
 1. melléklet a 15/2020. (XII. 29.) PM rendelethez
 
-## A pénzügyőrök alkalmassági kategóriába sorolása
+A pénzügyőrök alkalmassági kategóriába sorolása
 
 1. Alkalmassági kategóriák
 
@@ -63,5 +61,3 @@ A III. alkalmassági kategóriába tartozik az a személy, aki munkakörének el
 | 19 | vezető | VEZ | I. vagy II. vagy III. |
 
 2.2. Megjegyzés a 2.1. pont szerinti táblázathoz: Azoknál a munkaköröknél, ahol több alkalmassági kategória van feltüntetve, a konkrét munkakörnek, a munkahelyi kockázatbecslés, valamint a feladatellátás sajátosságainak figyelembevételével kell elvégezni az alkalmassági kategóriába való besorolást, amely a munkáltatói jogkört gyakorló feladata.
-
-[^1]: Az 51. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

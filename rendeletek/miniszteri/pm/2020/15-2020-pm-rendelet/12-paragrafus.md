@@ -8,7 +8,7 @@ a) pénzügyőrök esetében egészségi, pszichológiai és fizikai állapot,
 
 b) az a) pontba nem tartozó foglalkoztatottak esetében egészségi állapot
 
-## vizsgálatára terjed ki.
+vizsgálatára terjed ki.
 
 (3) A pénzügyőr nem vesz részt időszakos fizikai alkalmassági vizsgálaton attól a naptári évtől kezdve, amelyben ötvenedik életévét betölti.
 
@@ -22,7 +22,7 @@ ab) az aa) pontba nem tartozó foglalkoztatottak esetében a kóroki tényezőkt
 
 b) pszichológiai és fizikai alkalmassági vizsgálatot pénzügyőrök esetén – az (5) bekezdésben foglaltak figyelembevételével – legalább kettő évente
 
-## kell elvégezni.
+kell elvégezni.
 
 (5) A NAV speciális bevetési feladatokat ellátó egységének tagjai esetében az egészségi, fizikai és pszichológiai alkalmassági vizsgálatot évente kell elvégezni.
 

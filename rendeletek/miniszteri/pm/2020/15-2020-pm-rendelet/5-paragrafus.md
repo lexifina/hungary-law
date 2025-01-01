@@ -8,7 +8,7 @@ c) soron kívüli vagy
 
 d) záró
 
-## vizsgálat.
+vizsgálat.
 
 (2) Az alkalmassági vizsgálat tartalmát tekintve lehet
 
@@ -17,3 +17,5 @@ a) egészségi,
 b) pszichológiai vagy
 
 c) fizikai
+
+vizsgálat.

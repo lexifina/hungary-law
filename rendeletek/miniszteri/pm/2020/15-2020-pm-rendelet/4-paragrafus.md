@@ -1,5 +1,3 @@
-## és a társadalombiztosítási azonosító jelet igazoló hatósági igazolványával (a továbbiakban: TAJ kártya) igazolja.
-
 ## 4. Az alkalmassági vizsgálatok célja, típusa
 
 4. § (1) Az alkalmassági vizsgálat célja annak elbírálása, hogy
@@ -36,6 +34,6 @@ a) a képzés, illetve a tanulmányok folytatására, valamint
 
 b) a pénzügyőri pályára
 
-## való alkalmasságot.
+való alkalmasságot.
 
 (4) Az alkalmasság vizsgálata, valamint a foglalkoztathatóság szakvéleményezése nem terjed ki a munkaképesség-változás, valamint az egészségkárosodás mértékének meghatározására.

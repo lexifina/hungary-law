@@ -1,6 +1,6 @@
 4. melléklet a 15/2020. (XII. 29.) PM rendelethez
 
-## A szolgálati jogviszony létesítését kizáró okok
+A szolgálati jogviszony létesítését kizáró okok
 
 1. Egészségi alkalmasságot kizáró okok
 

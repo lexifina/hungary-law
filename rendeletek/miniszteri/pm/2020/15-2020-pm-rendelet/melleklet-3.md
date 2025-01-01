@@ -1,6 +1,6 @@
 3. melléklet a 15/2020. (XII. 29.) PM rendelethez
 
-## A pszichológiai kockázati tényezők
+A pszichológiai kockázati tényezők
 
 1. nagy felelősségvállalás más emberekért
 

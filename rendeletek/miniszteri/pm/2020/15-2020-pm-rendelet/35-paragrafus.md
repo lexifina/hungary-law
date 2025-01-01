@@ -12,6 +12,6 @@ d) a tisztjelölttel kapcsolatos ügyek intézésére kijelölt NAV szervezeti e
 
 e) a rendészeti és nemzetbiztonsági felsőoktatást folytató felsőoktatási intézmény rendészeti felsőoktatásért felelős karának dékánja (a továbbiakban: dékán) a szakirányért felelős oktatási szervezeti egység vezetője, a rendészeti kiképzési-nevelési egység vezetője vagy a NAV KEKI orvosa javaslatára
 
-## jogosult.
+jogosult.
 
 (3) A soron kívüli alkalmassági vizsgálat kezdeményezéséhez írásbeli indokolást kell csatolni.

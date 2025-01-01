@@ -1,5 +1,3 @@
-## vizsgálat.
-
 ## 5. Az alkalmassági vizsgálatot végző személyek
 
 6. § (1) Az egészségi alkalmasság vizsgálatát és véleményezését első fokon
@@ -20,7 +18,7 @@ a) a sport területén képesítéshez kötött tevékenységek gyakorlásához 
 
 b) fizikai alkalmasság felmérésében legalább kettő éves sportszakmai tapasztalattal rendelkező személy
 
-## végezheti.
+végezheti.
 
 (4) Az egészségi és pszichológiai alkalmasság vizsgálatát és véleményezését másodfokon a NAV Felülvizsgáló Bizottsága (a továbbiakban: FÜV Bizottság) végzi.
 

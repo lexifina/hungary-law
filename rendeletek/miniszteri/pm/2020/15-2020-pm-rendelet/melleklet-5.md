@@ -1,8 +1,10 @@
 5. melléklet a 15/2020. (XII. 29.) PM rendelethez
 
-## Fizikai alkalmassági vizsgálati csoportok és követelmények
+Fizikai alkalmassági vizsgálati csoportok és követelmények
 
 1. I. csoport (29 éves korig)
+
+## 0X11314_0
 
 |  | A | B | C | D | E | F | G | H | I | J | K |
 
@@ -64,6 +66,8 @@
 
 2. II. csoport (30–35 éves kor között)
 
+## 0X11314_1
+
 |  | A | B | C | D | E | F | G | H | I | J | K |
 
 | 1 | Pont | Fekvőtámaszban karhajlítás-nyújtás 30 mp alatt | Hajlított karú függés időre mp | Fekvenyomás | 4×10 m-es ingafutás mp | Helyből távolugrás cm | Hanyattfekvésből felülés 60 mp alatt | 2000 m-es síkfutás (perc) | Fekvőtámasz tartás mp | Fal melletti ülőtartás mp | Hanyattfekvésben lábtartás mp |
@@ -124,6 +128,8 @@
 
 3. III. csoport (36–40 éves kor között)
 
+## 0X11314_2
+
 |  | A | B | C | D | E | F | G | H | I | J | K |
 
 | 1 | Pont | Fekvőtámaszban karhajlítás-nyújtás 30 mp alatt | Hajlított karú függés időre mp | Fekvenyomás | 4×10 m-es ingafutás mp | Helyből távolugrás cm | Hanyattfekvésből felülés 60 mp alatt | 2000 m-es síkfutás (perc) | Fekvőtámasz tartás mp | Fal melletti ülőtartás mp | Hanyattfekvésben lábtartás mp |
@@ -183,6 +189,8 @@
 | 28 | 1 | 1 |  | 4 | 1 | 1 | 1 | 11,9 | 12,5 | 189 | 151 | 16 | 2 | 15;00 | 17;30 | 6 | 5 | 6 | 5 | 6 | 5 |
 
 4. IV. csoport (41–49 éves kor között)
+
+## 0X11314_3
 
 |  | A | B | C | D | E | F | G | H | I | J | K |
 
@@ -309,6 +317,8 @@
 | 5 | IV. korcsoport | 22;00 |
 
 6.2. Választható könnyített mozgásformák pontozása
+
+## 0X11314_7
 
 |  | A | B | C | D | E | F | G | H | I | J |
 

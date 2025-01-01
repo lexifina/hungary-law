@@ -8,7 +8,7 @@ ab) a jelentkező és
 
 ac) a tisztjelölt
 
-## vonatkozásában, valamint
+vonatkozásában, valamint
 
 b) a pszichológiai alkalmassági vizsgálatokat.
 

@@ -2,7 +2,7 @@
 
 (2) A foglalkoztatott, a tisztjelölt az alkalmassági vizsgálatokon – a meghatározott helyen és időben – köteles megjelenni. Ha a kötelezett önhibájából nem jelenik meg a vizsgálaton, a közvetlen vezetőjének minden esetben egyénileg kell vizsgálnia a távolmaradás okát, szükség esetén kezdeményeznie kell a kötelezett fegyelmi felelősségre vonását.
 
-(3) A vizsgálat megkezdése előtt ellenőrizni kell a vizsgálatra rendelt személy személyazonosságát – pénzügyőr, tisztjelölt esetében az alkalmassági kategóriába, illetve csoportba sorolását – és tájékoztatást kell adni részére a vizsgálat céljáról, menetéről, várható időtartamáról. A foglalkoztatott, a tisztjelölt személyazonosságát a 3. § (2) bekezdése szerint, a jelentkező a személyazonosságot igazoló érvényes arcképes okmánnyal és TAJ kártyával igazolja.
+(3)[^2] A vizsgálat megkezdése előtt ellenőrizni kell a vizsgálatra rendelt személy személyazonosságát, továbbá pénzügyőr, tisztjelölt esetében az alkalmassági kategóriába, illetve csoportba sorolását, jelölt esetében a TAJ-számát, és tájékoztatást kell adni részére a vizsgálat céljáról, menetéről, várható időtartamáról. A foglalkoztatott, a tisztjelölt személyazonosságát a 3. § (2) bekezdése szerint, a jelentkező a személyazonosságát a személyazonosságot igazoló érvényes arcképes okmánnyal, a TAJ-számát az Ebtv. 29. § (4) bekezdésében meghatározott módon igazolja.
 
 (4) Ha a közvetlen vezető nem e rendeletnek megfelelően vagy hiányosan tölti ki az alkalmassági vizsgálatra rendelő lapot, az alkalmassági vizsgálatot végző személy a szükséges vizsgálatokat, illetve felmérést elvégzi, azonban minősítést csak a jogszabályszerű alkalmassági vizsgálatra rendelő lap birtokában állít ki.
 
@@ -11,3 +11,5 @@
 (6) Az alkalmassági vizsgálatok során keletkezett, az alkalmasság minősítését tartalmazó véleményt meg kell küldeni a foglalkoztató NAV szerv illetékes humánigazgatási feladatokat ellátó szervezeti egysége vezetőjének, aki a minősítésről tájékoztatja a közvetlen vezetőt.
 
 (7) Alkalmatlanságra okot adó egészségi állapotváltozás felmerülése esetén az elsőfokú vizsgálatot végző szakorvosnak a pénzügyőrt az egészségkárosodás mértékének megállapítása céljából kormányrendeletben e személyi kör vonatkozásában kijelölt rehabilitációs szakértői és orvosszakértői szervhez kell beutalni.
+
+[^2]: A 10. § (3) bekezdése a 7/2024. (XII. 31.) PM rendelet 15. §-ával megállapított szöveg.

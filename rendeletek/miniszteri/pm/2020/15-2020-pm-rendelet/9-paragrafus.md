@@ -8,6 +8,6 @@ a) pénzügyőrök, pénzügyőri munkakörbe jelentkezők, valamint tisztjelöl
 
 b) az a) pontba nem tartozó foglalkoztatottak, jelentkezők esetében munkakörre
 
-## történik.
+történik.
 
 (2) Az alkalmassági kategóriák meghatározását, valamint az egyes munkakörök kategóriába sorolását az 1. melléklet tartalmazza.
