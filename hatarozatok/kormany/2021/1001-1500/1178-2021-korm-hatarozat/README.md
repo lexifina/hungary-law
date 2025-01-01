@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-1178-30
 | 2022-06-22 | 2021-1178-30-22.5 | 1692/2021. (IX. 30.) Korm. határozat |
 | 2023-09-28 | 2021-1178-30-22.7 | 1692/2021. (IX. 30.) Korm. határozat |
 | 2024-09-18 | 2021-1178-30-22.8 | 1692/2021. (IX. 30.) Korm. határozat |
+| 2025-01-01 | 2021-1178-30-22.6 | 2011: CXCV. törvény |
