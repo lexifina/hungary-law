@@ -38,8 +38,8 @@
 
 | 19. | 17 | 48 év felett | 61,14% | 72,50% | 86,36% |
 
-6/a. számú melléklet a 257/2000. (XII. 26.) Korm. rendelethez[^143]
+6/a. számú melléklet a 257/2000. (XII. 26.) Korm. rendelethez[^144]
 
 Bölcsődei pótlék mértéke a bölcsődében, mini bölcsődében foglalkoztatott bölcsődei dajkák vonatkozásában
 
-[^143]: A 6/a. számú mellékletet a 272/2019. (XI. 20.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 628/2023. (XII. 23.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^144]: A 6/a. számú mellékletet a 272/2019. (XI. 20.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 628/2023. (XII. 23.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
