@@ -1,0 +1,1 @@
+117. § A Magyarország biztonsági érdekét sértő külföldi befektetések ellenőrzéséről szóló 2018. évi LVII. törvény 2. § (4) bekezdés i) pontjában az „az állami és önkormányzati szervek elektronikus információbiztonságáról” szövegrész helyébe az „a Magyarország kiberbiztonságáról” szöveg lép.

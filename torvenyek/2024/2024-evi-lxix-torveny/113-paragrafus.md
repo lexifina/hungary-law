@@ -1,0 +1,1 @@
+113. § A földgázellátásról szóló 2008. évi XL. törvény 100. § (1e) bekezdésében az „az állami és önkormányzati szervek elektronikus információbiztonságáról” szövegrész helyébe az „a Magyarország kiberbiztonságáról” szöveg lép.

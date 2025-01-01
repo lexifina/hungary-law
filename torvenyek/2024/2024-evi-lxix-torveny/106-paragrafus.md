@@ -1,0 +1,5 @@
+106. § Az elektronikus hírközlésről szóló 2003. évi C. törvény 163/P. §-a helyébe a következő rendelkezés lép:
+
+„163/P. § (1) E törvénynek a Magyarország kiberbiztonságáról szóló 2024. évi LXIX. törvénnyel megállapított 86/B. § (1) bekezdését e rendelkezés hatálybalépését követően az SZTFH elnökének az elektronikus hírközlő hálózat üzemeltetője által teljesítendő kiberbiztonsági követelményekre vonatkozó részletes szabályokat tartalmazó rendelete hatálybalépését követő 30. naptól kell alkalmazni.
+
+(2) E törvénynek a Magyarország kiberbiztonságáról szóló 2024. évi LXIX. törvénnyel megállapított 86/B. § (2) bekezdését e rendelkezés hatálybalépését követően az SZTFH elnökének az elektronikus hírközlési szolgáltatáshoz használt rendszerek nemzeti kiberbiztonsági tanúsítási rendszeréről szóló rendelete hatálybalépését követő 180. naptól kell alkalmazni.”

@@ -1,0 +1,1 @@
+61. § E törvény hatálya alá nem tartozó elektronikus információs rendszerek vonatkozásában a sérülékenységvizsgálat végzésére jogosult állami szerv az elektronikus információs rendszer felett rendelkezési jogosultsággal rendelkező szervezettel kötött megállapodás alapján végezhet sérülékenységvizsgálatot.

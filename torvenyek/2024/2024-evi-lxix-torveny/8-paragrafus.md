@@ -1,0 +1,37 @@
+8. § (1) Az e törvény hatálya alá tartozó elektronikus információs rendszert működtető, nem Magyarországon bejegyzett szervezetnek Magyarország területén működő képviselőt kell írásban kijelölnie, aki az e törvényben foglaltak végrehajtásáért a szervezet vezetőjére vonatkozó szabályok szerint felel. A képviselő kijelölése nem érinti a szervezet, illetve a szervezet vezetőjének felelősségét.
+
+(2) A szervezet vezetője köteles gondoskodni arról, hogy a szervezet együttműködjön a kiberbiztonsági hatósággal.
+
+(3) Az együttműködés során a szervezet vezetője
+
+a) gondoskodik a jogszabályban és a hatóság honlapján meghatározottak szerint az adatoknak, dokumentumoknak, valamint ezek változásainak, a változást követő tizenöt napon belül a kiberbiztonsági hatóság részére – nyilvántartásba vétel céljából – történő megküldéséről, valamint
+
+b) biztosítja az ellenőrzés lefolytatásához szükséges feltételeket.
+
+(4) Az 1. § (1) bekezdés a)–c) pontja szerinti szervezet – az 51. alcímben foglalt kivételekkel – az e törvény hatálya alá kerülését követő
+
+a) 30 napon belül bejelenti a nemzeti kiberbiztonsági hatóság részére a 28. § (1) bekezdés 1. pont a)–e) és j) alpontjában meghatározott adatokat,
+
+b) 30 napon belül bejelenti a nemzeti kiberbiztonsági hatóság részére az elektronikus információs rendszer biztonságáért felelős személy adatait,
+
+c) 90 napon belül a 6. § (3) bekezdés 1. pontjában foglaltaknak megfelelően felméri a szervezet által használt elektronikus információs rendszereket,
+
+d) 120 napon belül – ha releváns – elvégzi a 9. § szerinti adatosztályozást,
+
+e) 180 napon belül megküldi a nemzeti kiberbiztonsági hatóság részére a szervezet információbiztonsági szabályzatát,
+
+f) 180 napon belül – a 6. § szerinti kockázatmenedzsment keretrendszer létrehozatalával együttesen – elvégzi a már meglévő elektronikus információs rendszereinek biztonsági osztályba sorolását és megteszi a Kormány rendeletében meghatározott tartalmú bejelentést a nemzeti kiberbiztonsági hatóságnak.
+
+(5) Az 1. § (1) bekezdés b) pontja hatálya alá tartozó, és egyidejűleg 2. és 3. melléklet szerinti szervezetnek minősülő szervezet, valamint az 1. § (1) bekezdés d) és e) pontja szerinti szervezet köteles a működése megkezdését követő vagy az e törvény hatálya alá kerülést követő 30 napon belül a 29. § (1) bekezdés a) pontjában meghatározott adatokat – a 29. § (1) bekezdés a) pont ab) alpontja szerinti adatok kivételével – megküldeni az SZTFH részére a nyilvántartásba vétel érdekében.
+
+(6) A (4) és (5) bekezdés alkalmazása szempontjából az e törvény hatálya alá kerülés időpontja
+
+a) új szervezet esetében a szervezet létesítésének,
+
+b) a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvényben foglalt, a középvállalkozásokra vonatkozó méretkorlátok elérése esetében a bekövetkezést követő év első,
+
+c) a hatály alá kerülést eredményező jogállást megalapozó jogi aktus hatálybalépésének
+
+napja.
+
+(7) A szervezet a kiberbiztonsági információk megosztása érdekében az informatikáért felelős miniszter rendeletében meghatározott együttműködések megvalósítása céljából – a honvédelmi célú elektronikus információs rendszerekre vonatkozó információk kivételével – kiberbiztonsági információmegosztási megállapodásokat köthet. A szervezet kiberbiztonsági információmegosztási megállapodás megkötéséről, ilyen megállapodásban való részvételéről vagy annak felmondásáról tájékoztatja a kiberbiztonsági hatóságot.

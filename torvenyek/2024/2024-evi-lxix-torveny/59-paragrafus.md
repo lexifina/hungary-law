@@ -1,0 +1,1 @@
+59. § A sérülékenységvizsgálat végzésére jogosult állami szerv saját kezdeményezésre is indíthat és lefolytathat sérülékenységvizsgálatot regisztrált felhasználói jogosultság birtokában, illetve annak hiányában is az 57. § (5) bekezdése szerinti szervezetek elektronikus információs rendszere vonatkozásában.

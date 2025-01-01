@@ -1,0 +1,1 @@
+114. § A minősített adat védelméről szóló 2009. évi CLV. törvény 10. § (4) bekezdés b) pontjában az „az elektronikus információbiztonságról szóló törvényben és végrehajtásukra” szövegrész helyébe az „a Magyarország kiberbiztonságáról szóló törvény végrehajtására” szöveg lép.

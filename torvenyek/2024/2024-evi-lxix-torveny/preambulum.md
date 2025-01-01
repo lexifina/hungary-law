@@ -1,0 +1,7 @@
+[1] A nemzet érdekében kiemelten fontos napjaink információs társadalmát érő fenyegetések miatt az elektronikus információs rendszerek fenyegetéseinek mérséklése és a kulcsfontosságú ágazatokban a szolgáltatások folyamatosságának biztosítása.
+
+[2] Társadalmi elvárás az állam és polgárai számára elengedhetetlen elektronikus információs rendszerekben kezelt adatok és információk bizalmassága, sértetlensége és rendelkezésre állása zárt, teljes körű, folytonos és a kockázatokkal arányos védelmének biztosítása, ezáltal a kibertér védelme, amely hozzájárul Magyarország és az Európai Unió biztonságához, ellenálló képességének és versenyképességének növeléséhez.
+
+[3] A társadalom gyors digitális átalakulásával és összekapcsolódásával az elektronikus információs rendszerek, valamint a digitális eszközök a mindennapi élet központi elemévé váltak. A fejlődés a digitális fenyegetettségek körének bővüléséhez is vezetett, ami akadályozhatja a gazdasági tevékenységek folytatását, pénzügyi veszteséget okozhat és alááshatja a felhasználók bizalmát, ezzel jelentős károkat okozva a gazdasági és társadalmi életben. Ezen túlmenően a kiberbiztonság kulcsfontosságú tényező számos kritikus ágazat számára a digitális átalakulás sikeres felkarolásához és a digitalizáció gazdasági, társadalmi és fenntartható előnyeinek teljes körű kiaknázásához.
+
+[4] Mindezekre, valamint az Európai Unió egész területén egységesen magas szintű kiberbiztonságot biztosító intézkedésekről szóló irányelvére figyelemmel az Országgyűlés a következő törvényt alkotja:

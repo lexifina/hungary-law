@@ -1,0 +1,3 @@
+35. § (1) A kiberbiztonsági hatóság 1 millió forinttól 5 millió forintig terjedő bírsággal sújthatja azt az elektronikus hírközlési szolgáltatót, amely az ezen alcím szerinti kötelezettségének nem tesz eleget. A bírság a kötelezettség teljesítésére megszabott határidő eredménytelen elteleltét követően – újabb határidő megjelölése mellett – ismételten is kiszabható.
+
+(2) A kiberbiztonsági hatóságot, az NMHH-t és az elektronikus hírközlési szolgáltatót nem terheli felelősség azért a kárért, amely abból származik, hogy a hozzáférhetetlenné tett elektronikus adat a 33. § (1) és (2) bekezdésében foglaltak mellett olyan egyéb tartalmat is magában foglal, amelynek technikai elválasztására nincs lehetőség, vagy az nem várható el a hozzáférhetetlenné tétel végrehajtása során.
