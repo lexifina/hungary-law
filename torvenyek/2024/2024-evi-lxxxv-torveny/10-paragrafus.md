@@ -1,0 +1,1 @@
+10. § Az Mvt. 16. §-ában az „a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerinti eljárási rendben” szövegrész helyébe az „az általános közigazgatási rendtartásról szóló törvény szerinti eljárási rendben” szöveg lép.
