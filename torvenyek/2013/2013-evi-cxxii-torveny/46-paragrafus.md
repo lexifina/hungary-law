@@ -38,6 +38,6 @@ a) családi mezőgazdasági társaság tagja vagy őstermelők családi gazdasá
 
 b) fiatal földműves,
 
-c) pályakezdő gazdálkodó.
+c)
 
 (5) Földre előhaszonbérleti jog szerződéssel nem alapítható. Az e rendelkezés megsértésével megkötött szerződés semmis.

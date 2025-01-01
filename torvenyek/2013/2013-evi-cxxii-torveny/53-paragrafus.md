@@ -10,11 +10,11 @@ d) a jegyzék szerinti rangsor alapján az első helyen álló előhaszonbérlet
 
 da) nem alkalmas a haszonbérleti szerződésben meghatározott kötelezettségvállalások teljesítésére,
 
-db) olyan jogi helyzetet nyer, amelynek révén a jövőben az előhaszonbérleti jogát visszaélésszerűen gyakorolhatja, vagy
+db) olyan jogi helyzetet nyer, amelynek révén a jövőben az előhaszonbérleti jogát visszaélésszerűen gyakorolhatja,
 
-dc) birtokában álló föld jogellenes más célú hasznosítása, vagy a hasznosítási kötelezettség megsértése miatt az ingatlanügyi hatóság – a haszonbérleti szerződés közlését megelőző 5 éven belül – véglegesen földvédelmi bírságot szabott ki;
+dc) birtokában álló föld jogellenes más célú hasznosítása, vagy a hasznosítási kötelezettség megsértése miatt az ingatlanügyi hatóság – a haszonbérleti szerződés közlését megelőző 5 éven belül – véglegesen földvédelmi bírságot szabott ki, vagy
 
-dd) tekintetében, a föld tulajdonjogának vagy használati jogosultságának megsértése miatt, a mezőgazdasági igazgatási szerv – a haszonbérleti szerződés közlését megelőző 5 éven belül – végleges döntésében a 63. § (2) bekezdése szerint bírságot szabott ki;
+dd) tekintetében, a föld tulajdonjogának vagy használati jogosultságának megsértése miatt, a mezőgazdasági igazgatási szerv – a haszonbérleti szerződés közlését megelőző 5 éven belül – végleges döntésében a 63. § (2) bekezdése vagy a Fétv. 95. § (8) bekezdése szerint bírságot szabott ki;
 
 e) a jegyzék szerinti rangsor alapján az első helyen álló előhaszonbérletre jogosult(ak)nak, illetve a soron következő előhaszonbérletre jogosult(ak)nak, vagy a haszonbérleti szerződés szerinti haszonbérlőnek jogerősen megállapított földhasználati díjtartozása áll fenn;
 

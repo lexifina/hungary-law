@@ -16,6 +16,8 @@ d) erdőnek minősülő föld haszonbérbe adása esetén az erdőbirtokossági 
 
 e) tanya haszonbérletére irányuló
 
+f) családi mezőgazdasági társaság mint földhasználó és annak tagja mint használatba adó közötti,
+
 haszonbérlet esetén.
 
 (2) Nem gyakorolhatja az előhaszonbérleti jogát az a mezőgazdasági termelőszervezet, amely csődeljárás, felszámolási eljárás vagy végelszámolási eljárás alatt áll.

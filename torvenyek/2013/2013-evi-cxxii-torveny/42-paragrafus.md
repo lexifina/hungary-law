@@ -18,10 +18,6 @@ c) vetőmagtermeléshez szükséges terület biztosítása céljából valamely 
 
 (3) A földhasználati jogosultság további feltétele, hogy a szerző fél a földhasználati jogosultság átengedéséről szóló szerződésben nyilatkozzon arról, hogy nincs jogerősen megállapított és fennálló földhasználati díjtartozása.
 
-(4) A pályakezdő gazdálkodónak az (1)–(3) bekezdésben meghatározottakon túl kötelezettséget kell vállalnia arra, hogy
-
-a) a földhasználati jogosultság megszerzésétől számított 1 éven belül a föld helye szerinti településen állandó bejelentett lakosként életvitelszerűen fog tartózkodni, vagy a földhasználati jogosultság megszerzésétől számított 1 éven belül a föld helye szerinti településen mezőgazdasági üzemközpontot létesít, és
-
-b) mező-, erdőgazdasági tevékenységet, illetve kiegészítő tevékenységet folytat.
+(4)
 
 (5) Újonnan alapított mezőgazdasági termelőszervezetnek az (1)–(3) bekezdésben meghatározottakon túl kötelezettséget kell vállalnia arra, hogy a földhasználati jogosultság megszerzésétől számított 1 éven belül a föld helye szerinti településen mezőgazdasági üzemközpontot létesít.

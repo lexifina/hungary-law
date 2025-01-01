@@ -1,0 +1,1 @@
+81. § E törvénynek a Módtv.4. 59. §-ával megállapított 13. § (3) bekezdés k) pontját a Módtv.4. hatálybalépésekor folyamatban lévő, és az egyes agrártárgyú törvények módosításáról szóló 2024. évi LXXX. törvény (a továbbiakban: Módtv.5.) hatálybalépésekor még le nem zárult eljárásokra is alkalmazni kell.

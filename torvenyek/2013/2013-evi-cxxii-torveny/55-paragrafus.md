@@ -1,4 +1,4 @@
-55. § (1) Ha az 53. §-ban foglaltak nem állnak fenn, és a mezőgazdasági igazgatási szerv jóváhagyja a haszonbérleti szerződést a jegyzék szerinti sorrend alapján első helyen álló vagy az 54. § szerint kijelölt előhaszonbérletre jogosulttal, akkor a haszonbérleti szerződés szerinti haszonbérlő helyébe az előhaszonbérletre jogosult lép be. A jóváhagyásról a mezőgazdasági igazgatási szerv – a jegyző által megküldött okiratok beérkezése napját követő naptól számított 60 napon belül – önálló határozatot hoz, és ezzel egyidejűleg a haszonbérleti szerződést záradékkal látja el. A haszonbérleti szerződést jóváhagyó záradéknak tartalmaznia kell:
+55. § (1) Ha az 53. §-ban foglaltak nem állnak fenn, és a mezőgazdasági igazgatási szerv jóváhagyja a haszonbérleti szerződést a jegyzék szerinti sorrend alapján első helyen álló vagy az 54. § szerint kijelölt előhaszonbérletre jogosulttal, akkor a haszonbérleti szerződés szerinti haszonbérlő helyébe az előhaszonbérletre jogosult lép be. A jóváhagyásról a mezőgazdasági igazgatási szerv – a jegyző által megküldött okiratok beérkezése napját követő naptól számított 30 napon belül – önálló határozatot hoz, és ezzel egyidejűleg a haszonbérleti szerződést záradékkal látja el. A haszonbérleti szerződést jóváhagyó záradéknak tartalmaznia kell:
 
 a) azt a tényt, hogy a haszonbérleti szerződés szerinti haszonbérlő helyébe az előhaszonbérletre jogosult lép;
 
@@ -12,7 +12,7 @@ e) a záradékolás dátumát és a mezőgazdasági igazgatási szerv bélyegző
 
 (2) Ha az 53. §-ban foglaltak nem állnak fenn, és a mezőgazdasági igazgatási szerv a haszonbérbeadó és a haszonbérlő között létrejött haszonbérleti szerződést az 51. § (6) bekezdésének a) vagy b) pontjában foglalt esetek fennállása alapján jóváhagyja, az (1) bekezdésben meghatározottak szerint jár el, azzal, hogy záradék nem tartalmazza az (1) bekezdés a) és b) pontjában foglaltakat.
 
-(3) Ha a mezőgazdasági igazgatási szerv az 53. §-ban foglaltak alapján a haszonbérleti szerződés jóváhagyását megtagadja, erről a jegyző által megküldött okiratok beérkezése napját követő naptól számított 60 napon belül döntést hoz.
+(3) Ha a mezőgazdasági igazgatási szerv az 53. §-ban foglaltak alapján a haszonbérleti szerződés jóváhagyását megtagadja, erről a jegyző által megküldött okiratok beérkezése napját követő naptól számított 30 napon belül döntést hoz.
 
 (4) A mezőgazdasági igazgatási szerv az (1)–(3) bekezdésben meghatározott döntését közli a haszonbérbeadóval, a haszonbérleti szerződés szerinti haszonbérlővel, valamint azokkal az előhaszonbérletre jogosultakkal, akik a haszonbérleti szerződésre elfogadó jognyilatkozatot tettek.
 

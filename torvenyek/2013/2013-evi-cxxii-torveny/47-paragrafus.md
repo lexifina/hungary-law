@@ -28,11 +28,13 @@ bejegyzett földhasználóként gyakorolta.
 
 (2d) Ha a volt haszonbérlő a föld használati jogosultságát gazdaságátadási szerződéssel szerezte, a 3 évbe beszámít azon időtartam is, amely alatt a földet a gazdaságátadó használta az (1)–(2a) bekezdésben foglaltaknak megfelelően.
 
-(2e) Ha a volt haszonbérlő a földhasználati jogviszonyba öröklés útján lépett be, a 3 évbe beszámít azon időtartam is, amely alatt a földet az örökhagyó használta az (1)–(2a) bekezdésben foglaltaknak megfelelően.
+(2e) Ha a volt haszonbérlő a földhasználati jogviszonyba öröklés vagy gazdaságátadás útján lépett be, a 3 évbe beszámít azon időtartam is, amely alatt a földet az örökhagyó vagy a gazdaságátadó használta az (1)–(2a) bekezdésben foglaltaknak megfelelően.
 
 (3) Az olyan föld haszonbérbe adása esetén, amely a 46. § (3) bekezdésben meghatározott művelési ágak mellett az ingatlan-nyilvántartásban más művelési ágban is nyilván van tartva, a 46. § (3) bekezdése szerinti előhaszonbérleti jog abban az esetben áll fenn, ha a 46. § (3) bekezdésében meghatározott művelési ágak valamelyikének, vagy mindegyikének a területnagysága meghaladja a más művelési ágú területnek vagy területeknek a nagyságát.
 
 (4) Az állattartó telep működtetését igazolni kell. Az igazolás céljára szolgáló hatósági bizonyítványt az üzemeltető kérelmére az élelmiszerlánc-felügyeleti szerv adja ki. A hatósági bizonyítványban a tényleges állattartást és a nyilvántartás szerinti állatlétszámot is igazolni kell.
+
+(4a) A 46. § (3) bekezdés e) pontjában foglaltakat kell alkalmazni abban az esetben is, ha az öntözésfejlesztési beruházást a földműves vagy mezőgazdasági termelőszervezet tagságával működő fenntartható vízgazdálkodási közösség hajtotta végre.
 
 (5) Több föld egybefoglalt haszonbér ellenében történő haszonbérbe adására akkor kerülhet sor, ha azok egymással szomszédosak. Egybefoglalt haszonbér ellenében történő haszonbérbe adásra akkor is sor kerülhet, ha a földek bejegyzett földhasználója legalább három éve ugyanaz a személy és a földek azonos vagy szomszédos járás területén fekszenek. A szerződésben egyértelműen utalni kell a haszonbér egybefoglaltságára.
 

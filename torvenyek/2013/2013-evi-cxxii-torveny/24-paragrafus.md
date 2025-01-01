@@ -1,6 +1,6 @@
 24. § (1) A helyi földbizottság a feladatkörébe tartozó ügyben a mezőgazdasági igazgatási szerv megkeresésének beérkezésétől számított 30 napon belül adja ki az állásfoglalását.
 
-(2) A helyi földbizottság az adás-vételi szerződést és a jegyzékben szereplő valamennyi elővásárlásra jogosult elfogadó jognyilatkozatát a köztudomású tények és legjobb ismeretei, valamint a (3) bekezdésben foglaltak szerint beszerzett információk együttes – kormányrendeletben meghatározott módon történő – mérlegelése alapján a 23/A. § (1) bekezdésében meghatározott szempontoknak való megfelelés vonatkozásában értékeli és támogatja vagy nem támogatja.
+(2) A helyi földbizottság az adás-vételi szerződést és a jegyzékben szereplő valamennyi elővásárlásra jogosult elfogadó jognyilatkozatát a köztudomású tények és legjobb ismeretei, valamint a (3) bekezdésben foglaltak szerint beszerzett információk – kormányrendeletben meghatározott módon történő – mérlegelése alapján a 23/A. § (1) bekezdésében meghatározott szempontoknak való megfelelés vonatkozásában értékeli és támogatja vagy nem támogatja.
 
 (3) Az adásvételi szerződésnek a 23/A. § (1) bekezdésében meghatározott szempontoknak való megfelelése értékelésének során figyelembe kell venni
 
@@ -12,7 +12,7 @@ c) a vevő vagy a jegyzékben szereplő elővásárlásra jogosult az adásvéte
 
 d) a vevő vagy a jegyzékben szereplő elővásárlásra jogosult az adásvételi szerződés megkötését megelőző öt évben tett-e a föld fekvése szerinti településen, vagy annak közigazgatási határától számított húsz kilométeres körzetén belül található földre elővásárlóként elfogadó nyilatkozatot, de a jogügylet a szerződésszegése miatt nem ment teljesedésbe;
 
-e) a föld adás-vétele mennyiben szolgálja a fiatal földműves, a pályakezdő gazdálkodó gazdaságátadással összefüggő tulajdonszerzését;
+e) a föld adás-vétele mennyiben szolgálja a fiatal földműves gazdaságátadással összefüggő tulajdonszerzését;
 
 f) az elővásárlásra jogosult rendszeresen elfogadó jognyilatkozatot tesz-e olyan földre, amelyre elővásárlási joga fennáll, anélkül, hogy annak megszerzését gazdaságának mérete indokolná;
 

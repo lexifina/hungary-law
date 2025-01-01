@@ -8,7 +8,7 @@ a) a föld használatát valamely érvényes jogcímen
 
 aa) földművesnek minősülő közeli hozzátartozója,
 
-ab) a legalább 25%-ban tulajdonában, vagy a közeli hozzátartozójának legalább 25%-ban tulajdonában álló mezőgazdasági termelőszervezet, vagy
+ab) a legalább egy éve legalább 25%-ban tulajdonában, vagy a közeli hozzátartozójának legalább egy éve legalább 25%-ban tulajdonában álló mezőgazdasági termelőszervezet, vagy
 
 ac) olyan családi mezőgazdasági társaság, amelyben tag
 
@@ -23,6 +23,18 @@ d) gazdaságátadási szerződés keretében engedi át a használatot;
 e) a gazdaságátadási szerződés keretében átengedett használat időtartamának lejártát követően, vagy a használati jogviszonynak a gazdaságátadási szerződésben rögzített időtartamot megelőző megszűnése esetén engedi át a használatot, vagy
 
 f) a rizstelephez tartozó föld használatát engedi át a rizstelep használója részére.
+
+(2a) A (2) bekezdés c) pontjában foglalt esetben a földhasználati szerződésnek tartalmaznia kell, hogy a használat átengedésére vetőmagtermeléshez szükséges terület biztosítása céljából került sor. A földhasználónak – ideértve az előhaszonbérletre jogosultat is –
+
+a) igazolnia kell, hogy a növénytermesztési hatóság földet használó és a vetőmagtáblát bejelentő szaporítóanyag-előállítóként nyilvántartásba vette, és
+
+b) a szerződésben vagy az elfogadó nyilatkozatban a jogutódra is kiterjedő hatállyal kötelezettséget kell vállalnia arra, hogy a földhasználat időtartama alatt a földhasználati szerződés hatálybalépését közvetlenül megelőző öt befejezett gazdasági év számtani átlagához képest legalább a szerződés tárgyát képező föld területével megegyező területnagysággal nagyobb területen a saját nevében szaporítóanyag-előállítási tevékenységet fog folytatni.
+
+(2b) A (2a) bekezdés megsértésével
+
+a) megkötött szerződés semmis,
+
+b) megtett elfogadó jognyilatkozat esetén az 51. § (5) bekezdése szerint kell eljárni.
 
 (3) A föld más célra hasznosítható a következő célokból:
 

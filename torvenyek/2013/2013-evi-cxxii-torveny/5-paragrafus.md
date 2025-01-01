@@ -8,7 +8,7 @@
 
 3. birtok: a jogosult tulajdonában, haszonélvezetében vagy bármely más érvényes jogcímen használatában álló valamennyi föld;
 
-4. életvitelszerű lakáshasználat helye: a személyiadat- és lakcímnyilvántartásba bejelentett tartózkodási hely, ennek hiányában ellenkező bizonyításig a személyiadat- és lakcímnyilvántartásba bejelentett lakóhely (a továbbiakban: bejelentett lakóhely);
+4. életvitelszerű lakáshasználat helye: ellenkező bizonyításig a személyiadat- és lakcímnyilvántartásba bejelentett tartózkodási hely, ennek hiányában a személyiadat- és lakcímnyilvántartásba bejelentett lakóhely (a továbbiakban: bejelentett lakóhely);
 
 5.
 
@@ -72,15 +72,7 @@ d) amely erdőgazdálkodásra jogosult erdészeti szakirányító vállalkozásn
 
 21. mezőgazdasági üzemközpont: a földműves vagy mezőgazdasági termelőszervezet tulajdonában, illetve használatában álló, a mező- és erdőgazdasági tevékenység vagy a mező- és erdőgazdasági tevékenység és a kiegészítő tevékenység célját szolgáló gazdasági, lakó, illetve iroda épülettel beépített ingatlan vagy a tanya, amely a gazdálkodás végzésének vagy megszervezésének a mezőgazdasági igazgatási szervnél bejelentett helyéül szolgál;
 
-22. pályakezdő gazdálkodó: az a 16. életévét betöltött belföldi természetes személy, illetve tagállami állampolgár, aki
-
-a) a föld tulajdonjogának megszerzésére vonatkozó jognyilatkozat megtételének időpontjában Magyarországon bejelentett lakóhelyén életvitelszerűen tartózkodik,
-
-b) nem rendelkezik az Európai Unió tagállamában, az Európai Gazdasági Térségről szóló megállapodásban részes államban, valamint a nemzetközi szerződés alapján velük egy tekintet alá eső államban fekvő föld tulajdonjogával,
-
-c) e törvény végrehajtására kiadott rendeletben meghatározott mezőgazdasági vagy erdészeti szakirányú szakképzettséggel vagy szakképesítéssel rendelkezik, és
-
-d) a mezőgazdasági és vidékfejlesztési támogatási szervnél pályakezdő mezőgazdasági termelőként nyilvántartásba vételre kerül;
+22.
 
 22a. rekreációs célú földszerzés: a földművesnek nem minősülő belföldi természetes személy vagy tagállami állampolgár által a települési önkormányzat, a fővárosban a fővárosi kerületi önkormányzat (a továbbiakban együtt: települési önkormányzat) tulajdonában álló és határozattal ilyen célú megszerzésre kijelölt, legfeljebb 1 hektár területnagyságú föld megszerzése abból a célból, hogy a szerző fél a földet a saját, valamint az együttélő családtagjai szükségleteit meg nem haladó mértékben használja és szedje annak hasznait;
 

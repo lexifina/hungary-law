@@ -1,3 +1,5 @@
 21/A. § (1) Ha az adásvételi szerződésben foglaltak alapján a vevő a kötelezettségvállalás megerősítéseként foglalót fizetett, akkor az elfogadó jognyilatkozatot tevő elővásárlásra jogosult köteles a foglaló összegét az eladó javára ügyvédi letétbe vagy közjegyzői okiratba foglalt szerződés esetén közjegyzői bizalmi őrzésbe (e § alkalmazásában a továbbiakban együtt: letét) helyezni és ennek igazolását az elfogadó jognyilatkozathoz csatolni.
 
 (2) Ha az elővásárlásra jogosult az adásvételi szerződésben a vevő helyébe lép, akkor a letétbe helyezett összeget az eladó részére kell megfizetni. Minden más esetben a letétbe helyezett összeg a letevő részére visszajár.
+
+(3) Az (1) és (2) bekezdésben foglaltakat kell alkalmazni abban az esetben is, ha a teljes vételárat vagy annak egy részét a vevő a szerződéskötéskor előlegként az eladó részére megfizette.

@@ -1,0 +1,1 @@
+83. § E törvénynek a Módtv.5.-tel megállapított 27. § (2) bekezdés b) pont bc) alpontját és 53. § (1) bekezdés d) pont dd) alpontját a Módtv.5. hatálybalépését követően kiszabott földhasználati bírság tekintetében kell alkalmazni.

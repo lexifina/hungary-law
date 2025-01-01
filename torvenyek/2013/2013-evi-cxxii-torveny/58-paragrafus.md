@@ -1,6 +1,8 @@
-58. § (1) A haszonbérleti szerződés módosítása esetén ebben az alcímben foglaltakat akkor kell alkalmazni, ha a módosítással a szerződés időtartama kerül meghosszabbításra, illetve ha a módosítás a haszonbér mértékének a csökkentésére irányul. A szerződés meghosszabbított időtartama nem lépheti túl a 44. §-ban meghatározott maximális időtartamot. Nem kell a mezőgazdasági igazgatási szerv jóváhagyása a haszonbér mértékének csökkentésére irányuló módosításra, ha a csökkentésre a bíróság ítélete alapján kerül sor.
+58. § (1) A haszonbérleti szerződés módosítása esetén ebben az alcímben foglaltakat akkor kell alkalmazni, ha a módosítással a szerződés időtartama kerül meghosszabbításra, illetve ha a módosítás a haszonbér mértékének a csökkentésére irányul. A szerződés meghosszabbított időtartama nem lépheti túl a 44. §-ban meghatározott maximális időtartamot. Nem kell a mezőgazdasági igazgatási szerv jóváhagyása a haszonbér mértékének csökkentésére irányuló módosításhoz, ha a csökkentésre a bíróság ítélete alapján kerül sor.
 
 (1a) A haszonbér mértékének csökkentése esetén – a bíróság ítélete alapján történő csökkentés kivételével – igazolni kell a piaci körülmények lényeges megváltozását.
+
+(1b) A haszonbérleti szerződés időtartama nem hosszabbítható meg, ha az adott földrészlet tulajdoni lapjára a föld tulajdonjogának átruházására irányuló szerződés ténye van feljegyezve.
 
 (2) A haszonbérleti szerződésnek az (1) bekezdésben meghatározott tartalmú módosításáról szóló szerződést, vagy a módosításokkal egységes szerkezetbe foglalt haszonbérleti szerződést (a továbbiakban együtt: módosított szerződés) – annak aláírásától számított 8 napon belül – a haszonbérlőnek kell a mezőgazdasági igazgatási szerv részére megküldeni jóváhagyás céljából.
 

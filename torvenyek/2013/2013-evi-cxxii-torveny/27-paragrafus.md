@@ -14,8 +14,10 @@ ba) a birtokában álló föld jogellenes más célú hasznosítása, vagy a has
 
 bb) jogerősen megállapított földhasználati díjtartozása áll fenn;
 
-bc) a földszerzéshez vállalt kötelezettség megsértése miatt a mezőgazdasági igazgatási szerv – az adás-vételi szerződés közlését megelőző 5 éven belül – végleges döntésében a 63. § (2) bekezdése szerinti bírságot szabott ki.
+bc) a földszerzéshez vállalt kötelezettség megsértése miatt a mezőgazdasági igazgatási szerv – az adás-vételi szerződés közlését megelőző 5 éven belül – végleges döntésében a 63. § (2) bekezdése vagy a Fétv. 95. § (8) bekezdése szerinti bírságot szabott ki.
 
-(3) Az (1) bekezdésben foglaltakon túl, a mezőgazdasági igazgatási szerv – az adás-vételi szerződés vagy a csereszerződés jóváhagyását támogató helyi földbizottsági állásfoglalás ellenére – a 24. § (3) bekezdésében meghatározott körülmények figyelembevétele alapján megtagadhatja az adásvételi szerződés jóváhagyását.
+(3) Az (1) bekezdésben foglaltakon túl, a mezőgazdasági igazgatási szerv – az adás-vételi szerződés vagy a csereszerződés jóváhagyását támogató helyi földbizottsági állásfoglalás ellenére – a 23/A. §-ban és a 24. § (3) bekezdésében meghatározott körülmények figyelembevétele alapján megtagadhatja az adásvételi szerződés jóváhagyását.
 
-(4) A mezőgazdasági igazgatási szerv a (3) bekezdés alkalmazása során a helyi földbizottság állásfoglalását az adás-vételi szerződést, csereszerződést jóváhagyó, vagy azt megtagadó határozata meghozatalakor mint ügyféli nyilatkozatot veszi figyelembe, és ennek megfelelő alkalmazásával dönt az abban foglaltak figyelembe vételéről.
+(4) A mezőgazdasági igazgatási szerv a (3) bekezdés alkalmazása során a helyi földbizottság állásfoglalását az adás-vételi szerződést, csereszerződést jóváhagyó, vagy azt megtagadó határozata meghozatalakor mint ügyféli nyilatkozatot veszi figyelembe, és ennek megfelelő alkalmazásával dönt az abban foglaltak figyelembevételéről.
+
+(5) A mezőgazdasági igazgatási szerv a helyi földbizottsággal rövid úton konzultációt folytat, ha az állásfoglalás értékelése vonatkozásában az abban foglaltaktól eltérő megállapításra jut.

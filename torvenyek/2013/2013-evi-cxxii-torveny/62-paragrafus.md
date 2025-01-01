@@ -2,7 +2,7 @@
 
 (2) Ha a mezőgazdasági igazgatási szerv az ellenőrzése során megállapítja, hogy a tulajdonos, illetve a földhasználó
 
-a) nem tartotta be a szerzéshez vállalt kötelezettségeket vagy a szerzéshez szükséges feltétellel nem rendelkezik
+a) nem tartotta be a szerzéshez vállalt kötelezettségeket vagy a szerzéshez szükséges feltétellel nem rendelkezik,
 
 b) a szerzés feltételeként az e törvényben előírt meghatározott célú földhasználattól, tevékenységtől tartósan eltért,
 
@@ -20,4 +20,4 @@ figyelmeztetésben részesíti, egyidejűleg felhívja a figyelmét a jogszabál
 
 (5) Az elővásárlási vagy előhaszonbérleti jog gyakorlásával összefüggésben vállalt kötelezettséget teljesítettnek kell tekinteni, ha az a használatnak a 13. § (2) bekezdése, a 42. § (2) bekezdése szerinti átengedése útján valósul meg.
 
-(6) Ha a haszonbérbe adásra a 48. § (1) bekezdés c) pontja és az 59. § (1) bekezdés e) pontja alkalmazásával került sor, és a mezőgazdasági igazgatási szerv megállapítja, hogy a használatba adónak vagy közeli hozzátartozójának a földet használó mezőgazdasági termelőszervezetben a használatba adás időpontjában fennálló tulajdonrésze a használatba adást követően 25% alá csökkent, akkor a (2) bekezdésben és a 63. §-ban foglaltak szerint jár el. E bekezdés alkalmazása során a föld kényszerhasznosításba adásának nincs helye.
+(6) Ha a haszonbérbe adásra a föld tulajdonjogával legalább három éve nem rendelkező haszonbérbe adó által a 48. § (1) bekezdés c) pontja és az 59. § (1) bekezdés e) pontja alkalmazásával került sor, és a mezőgazdasági igazgatási szerv megállapítja, hogy a használatba adónak vagy közeli hozzátartozójának a földet használó mezőgazdasági termelőszervezetben a használatba adás időpontjában fennálló tulajdonrésze a használatba adást követően 25% alá csökkent, akkor a (2) bekezdésben és a 63. §-ban foglaltak szerint jár el. E bekezdés alkalmazása során a föld kényszerhasznosításba adásának nincs helye.
