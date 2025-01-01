@@ -1,3 +1,3 @@
-1. melléklet a 423/2012. (XII. 29.) Korm. rendelethez[^256]
+1. melléklet a 423/2012. (XII. 29.) Korm. rendelethez[^257]
 
-[^256]: Az 1. mellékletet a 339/2022. (IX. 7.) Korm. rendelet 23. § 34. pontja hatályon kívül helyezte.
+[^257]: Az 1. mellékletet a 339/2022. (IX. 7.) Korm. rendelet 23. § 34. pontja hatályon kívül helyezte.
