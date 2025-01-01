@@ -16,4 +16,6 @@
 
 | 8. | Budapest Főváros XXIII. kerület Soroksár Önkormányzata | Informatikai fejlesztés; játszótér kialakítása | 230 540 027 |
 
-2. melléklet az 1640/2021. (IX. 21.) Korm. határozathoz
+2. melléklet az 1640/2021. (IX. 21.) Korm. határozathoz[^11]
+
+[^11]: A 2. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.

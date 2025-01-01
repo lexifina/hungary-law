@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-1640-30
 | 2022-01-20 | 2021-1640-30-22.4 | 1007/2022. (I. 20.) Korm. határozat |
 | 2022-11-30 | 2021-1640-30-22.5 | 1584/2022. (XI. 30.) Korm. határozat |
 | 2023-10-31 | 2021-1640-30-22.6 | 1584/2022. (XI. 30.) Korm. határozat |
+| 2025-01-01 | 2021-1640-30-22.7 | 2011: CXCV. törvény |
