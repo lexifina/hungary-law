@@ -1,0 +1,1 @@
+10/G. § Az önkormányzat közvetlen vagy közvetett többségi tulajdoni részesedésével működő, vagy az önkormányzat közvetlen vagy közvetett többségi befolyása alatt álló gazdasági társaság önkormányzattal szemben fennálló követelése átruházására irányuló szerződést érvényesen nem köthet.
