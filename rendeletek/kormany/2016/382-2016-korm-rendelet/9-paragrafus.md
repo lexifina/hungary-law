@@ -172,7 +172,7 @@ d) a polgári célú légiközlekedés földi létesítményeire és a polgári 
 
 73. építésügyi hatóságként eljár a repülőtér területén lévő, a repülőtér létesítésének, fejlesztésének és megszüntetésének szabályairól szóló kormányrendelet hatálya alá tartozó általános építményekkel kapcsolatos eljárásokban,
 
-74.[^139] a légiközlekedés alágazatba tartozó létfontosságú rendszerek és létesítmények azonosítása, kijelölése, kijelölésének visszavonása és védelme tekintetében ágazati kijelölő hatóságként és helyszíni ellenőrzést lefolytató szervként jár el,
+74.[^139]
 
 75.[^140] vízi repülőtéren hajózási szolgálatot teljesítő személy egészségügyi alkalmassága soron kívüli vizsgálatának előírása,
 
@@ -251,7 +251,7 @@ eljárás során az ügyfél a kérelmet hiányosan nyújtotta be, a légiközle
 [^136]: A 9. § (4) bekezdés 61. pontja a 76/2023. (III. 10.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^137]: A 9. § (4) bekezdés 70. pontja a 420/2021. (VII. 15.) Korm. rendelet 84. §-a szerint módosított szöveg.
 [^138]: A 9. § (4) bekezdés 71. pontja a 84/2024. (IV. 17.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^139]: A 9. § (4) bekezdés 74. pontját a 161/2019. (VII. 4.) Korm. rendelet 23. § (4) bekezdése iktatta be.
+[^139]: A 9. § (4) bekezdés 74. pontját a 161/2019. (VII. 4.) Korm. rendelet 23. § (4) bekezdése iktatta be, a 474/2024. (XII. 31.) Korm. rendelet 154. § d) pontja hatályon kívül helyezte.
 [^140]: A 9. § (4) bekezdés 75. pontját a 360/2019. (XII. 30.) Korm. rendelet 158. § (9) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 203. §-át.
 [^141]: A 9. § (4) bekezdés 76. pontját a 360/2019. (XII. 30.) Korm. rendelet 158. § (9) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 203. §-át.
 [^142]: A 9. § (4) bekezdés 77. pontját a 722/2020. (XII. 31.) Korm. rendelet 31. §-a iktatta be.

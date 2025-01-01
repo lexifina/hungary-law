@@ -152,7 +152,7 @@ kapcsolatos eljárásokban.
 
 (6)[^117] Budapest Főváros Kormányhivatala a tengeri hajókkal kapcsolatos, a lobogó szerinti állam kötelezettségein alapuló hatósági feladatai operatív ellátásával összefüggésben – a vonatkozó nemzetközi minőségügyi szabványok szerinti és tanúsítvánnyal igazolt – hatékony minőségbiztosítási rendszert hoz létre és működtet.
 
-(7)[^118] A Kormány hajózási hatóságként első fokon a minisztert jelöli ki a víziközlekedés alágazatba tartozó létfontosságú rendszerek és létesítmények azonosítása, kijelölése, kijelölésének visszavonása és védelme tekintetében ágazati kijelölő hatóságként és helyszíni ellenőrzést lefolytató szervként.
+(7)[^118]
 
 (8)[^119] A kizárólag edzésre és versenyzésre szolgáló vitorlás kishajók időközi üzemképességének megállapításával és tanúsításával kapcsolatos feladatokat a Magyar Vitorlás Szövetség látja el.
 
@@ -180,5 +180,5 @@ kapcsolatos eljárásokban.
 [^115]: A 8. § (4) bekezdés 34. pontját a 473/2016. (XII. 27.) Korm. rendelet 22. § (3) bekezdése iktatta be.
 [^116]: A 8. § (5) bekezdése a 267/2018. (XII. 20.) Korm. rendelet 3. §-a szerint módosított szöveg.
 [^117]: A 8. § (6) bekezdését a 267/2018. (XII. 20.) Korm. rendelet 1. §-a iktatta be.
-[^118]: A 8. § (7) bekezdését a 161/2019. (VII. 4.) Korm. rendelet 23. § (3) bekezdése iktatta be.
+[^118]: A 8. § (7) bekezdését a 161/2019. (VII. 4.) Korm. rendelet 23. § (3) bekezdése iktatta be, a 474/2024. (XII. 31.) Korm. rendelet 154. § c) pontja hatályon kívül helyezte.
 [^119]: A 8. § (8) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 158. § (8) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 203. §-át.

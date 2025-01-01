@@ -12,13 +12,7 @@
 
 (6) A vasútszakmai oktatók névjegyzékét a vasúti közlekedési hatóság vezeti.
 
-(7)[^91] A vasúti közlekedési hatóság jár el
-
-a) a vasúti közlekedés alágazatba és
-
-b) – a létfontosságú rendszerelem vasúti kapcsolata esetén – a logisztikai központok alágazatba
-
-tartozó létfontosságú rendszerek és létesítmények azonosítása, kijelölése, kijelölésének visszavonása és védelme tekintetében ágazati kijelölő hatóságként és helyszíni ellenőrzést lefolytató szervként.
+(7)[^91]
 
 (8)[^92] A vasúti közlekedési hatóság jár el az (EU) 2023/1695 bizottsági végrehajtási rendelet 3. cikk (2) bekezdés c) pontja, valamint 4. cikk (2) bekezdés c) pontja szerinti tagállami feladatok tekintetében.
 
@@ -26,6 +20,6 @@ tartozó létfontosságú rendszerek és létesítmények azonosítása, kijelö
 
 [^89]: A 6. § a 473/2016. (XII. 27.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
 [^90]: A 6. § (5) bekezdése a 420/2021. (VII. 15.) Korm. rendelet 84. §-a szerint módosított szöveg.
-[^91]: A 6. § (7) bekezdését a 161/2019. (VII. 4.) Korm. rendelet 23. § (2) bekezdése iktatta be.
+[^91]: A 6. § (7) bekezdését a 161/2019. (VII. 4.) Korm. rendelet 23. § (2) bekezdése iktatta be, a 474/2024. (XII. 31.) Korm. rendelet 154. § b) pontja hatályon kívül helyezte.
 [^92]: A 6. § (8) bekezdését a 91/2024. (IV. 23.) Korm. rendelet 1. §-a iktatta be.
 [^93]: A 6. § (9) bekezdését a 91/2024. (IV. 23.) Korm. rendelet 1. §-a iktatta be.
