@@ -26,17 +26,22 @@ d) a hallgatói hitel igénylésekor nincs érvényes, azonos hitelcélú felhas
 
 (3)[^25] Nem jogosult hallgatói hitelre az a hallgató,
 
-a) akinek korábban kötött hitel- vagy kölcsönszerződése megszűnt és hallgatói hiteltartozása van, vagy
+a)[^26] akinek korábban kötött hitel- vagy kölcsönszerződése megszűnt és hallgatói hiteltartozása van,
 
-b) aki a 19. § (1) bekezdés f) pontja szerint elengedett tartozással rendelkezik.
+b)[^27] aki a 19. § (1) bekezdés f) pontja szerint elengedett tartozással rendelkezik, vagy
 
-(4)[^26] Nem kezdeményezheti a szabad felhasználású hitelre vonatkozó hallgatói hitelszerződés megkötését az, akit a bíróság jogerősen végrehajtandó szabadságvesztésre ítélt és a szabadságvesztést még nem hajtották végre, vagy annak végrehajthatósága még nem szűnt meg, kivéve, ha a bíróság az elítéltet feltételes szabadságra bocsátotta.
+c)[^28] aki a 22. alcímben foglaltak szerint külföldön felvett hitelét kiváltotta.
 
-(5)[^27] A szabad felhasználású hitel folyósításának feltétele, hogy a hallgató kedvezményes fizetési számlát nyisson és tartson fenn a Diákhitel szervezet által lefolytatott nyílt pályázati eljárás keretében kiválasztott pénzforgalmi szolgáltatónál.
+(4)[^29] Nem kezdeményezheti a szabad felhasználású hitelre vonatkozó hallgatói hitelszerződés megkötését az, akit a bíróság jogerősen végrehajtandó szabadságvesztésre ítélt és a szabadságvesztést még nem hajtották végre, vagy annak végrehajthatósága még nem szűnt meg, kivéve, ha a bíróság az elítéltet feltételes szabadságra bocsátotta.
+
+(5)[^30] A szabad felhasználású hitel folyósításának feltétele, hogy a hallgató kedvezményes fizetési számlát nyisson és tartson fenn a Diákhitel szervezet által lefolytatott nyílt pályázati eljárás keretében kiválasztott pénzforgalmi szolgáltatónál.
 
 [^22]: A 3. § (1) bekezdés a) pontja a 35/2024. (II. 29.) Korm. rendelet 299. §-a szerint módosított szöveg.
 [^23]: A 3. § (1) bekezdés b) pont bc) alpontját a 156/2021. (III. 29.) Korm. rendelet 13. § b) pontja hatályon kívül helyezte.
 [^24]: A 3. § (2) bekezdés a) pontja a 156/2021. (III. 29.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
 [^25]: A 3. § (3) bekezdése a 468/2015. (XII. 29.) Korm. rendelet 17. §-ával megállapított szöveg.
-[^26]: A 3. § (4) bekezdését a 293/2014. (XI. 26.) Korm. rendelet 1. §-a iktatta be.
-[^27]: A 3. § (5) bekezdését a 435/2022. (XI. 2.) Korm. rendelet - az 51/2023. (II. 23.) Korm. rendelet 1. §-a szerint módosított - 1. §-a iktatta be.
+[^26]: A 3. § (3) bekezdés a) pontja a 360/2024. (XI. 25.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^27]: A 3. § (3) bekezdés b) pontja a 360/2024. (XI. 25.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^28]: A 3. § (3) bekezdés c) pontját a 360/2024. (XI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^29]: A 3. § (4) bekezdését a 293/2014. (XI. 26.) Korm. rendelet 1. §-a iktatta be.
+[^30]: A 3. § (5) bekezdését a 435/2022. (XI. 2.) Korm. rendelet - az 51/2023. (II. 23.) Korm. rendelet 1. §-a szerint módosított - 1. §-a iktatta be.

@@ -1,4 +1,4 @@
-18/B. § (1)[^93] Ha az igénylő több hallgatói hitellel is rendelkezik, akkor választása alapján csak az egyikre igényelheti a gyermektámogatást.
+18/B. § (1)[^96] Ha az igénylő több hallgatói hitellel is rendelkezik, akkor választása alapján csak az egyikre igényelheti a gyermektámogatást.
 
 (2) A gyermektámogatásra való jogosultság megállapításánál a hitelfelvevő nővel közös háztartásban élő gyermeket kell figyelembe venni, ha a gyermek még nem töltötte be a 18. életévét. Ha a gyermek már betöltötte a 18. életévét, nem feltétel, hogy közös háztartásban éljen az igénylővel.
 
@@ -12,4 +12,4 @@ a) a gyermek megszületésének, örökbe fogadásának vagy halva születésén
 
 b) a gyermektámogatási kérelem és az igazolások hiánytalan benyújtásakor fennálló nem lejárt tőke és nem lejárt ügyleti kamattartozás összege.
 
-[^93]: A 18/B. § (1) bekezdése a 316/2019. (XII. 18.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^96]: A 18/B. § (1) bekezdése a 316/2019. (XII. 18.) Korm. rendelet 14. §-ával megállapított szöveg.

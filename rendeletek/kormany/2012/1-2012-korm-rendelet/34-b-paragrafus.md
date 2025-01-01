@@ -1,6 +1,6 @@
-## 34/A. §[^171] A Mód R. 2. §-ával, 4. § (1) bekezdésével, 5. §-ával, 10 §-ával és 11. § b)–c) pontjával megállapított 4. § (1) és (3) bekezdését, 14. § (1) bekezdését, 14. § (5) bekezdés b) pontját, 14. § (8) bekezdését, 16. § (6), (7) és (9) bekezdését, 18. § (6) bekezdését a 2015. február 1-jét megelőzően megkötött és 2015. február 1-jén még meg nem szűnt szerződésekre is alkalmazni kell. E rendeletnek a Mód R. 11. § a) pontjával hatályon kívül helyezett 16. § (4) bekezdését a 2015. február 1-jét megelőzően megkötött és 2015. február 1-jén még meg nem szűnt szerződések esetén sem kell alkalmazni.
+## 34/A. §[^175] A Mód R. 2. §-ával, 4. § (1) bekezdésével, 5. §-ával, 10 §-ával és 11. § b)–c) pontjával megállapított 4. § (1) és (3) bekezdését, 14. § (1) bekezdését, 14. § (5) bekezdés b) pontját, 14. § (8) bekezdését, 16. § (6), (7) és (9) bekezdését, 18. § (6) bekezdését a 2015. február 1-jét megelőzően megkötött és 2015. február 1-jén még meg nem szűnt szerződésekre is alkalmazni kell. E rendeletnek a Mód R. 11. § a) pontjával hatályon kívül helyezett 16. § (4) bekezdését a 2015. február 1-jét megelőzően megkötött és 2015. február 1-jén még meg nem szűnt szerződések esetén sem kell alkalmazni.
 
-34/B. §[^172]
+34/B. §[^176]
 
-[^171]: A 34/A. §-t a 293/2014. (XI. 26.) Korm. rendelet 9. §-a iktatta be.
-[^172]: A 34/B. §-t a 468/2015. (XII. 29.) Korm. rendelet 24. §-a iktatta be, hatályon kívül helyezte a 156/2021. (III. 29.) Korm. rendelet 13. § h) pontja.
+[^175]: A 34/A. §-t a 293/2014. (XI. 26.) Korm. rendelet 9. §-a iktatta be.
+[^176]: A 34/B. §-t a 468/2015. (XII. 29.) Korm. rendelet 24. §-a iktatta be, hatályon kívül helyezte a 156/2021. (III. 29.) Korm. rendelet 13. § h) pontja.
