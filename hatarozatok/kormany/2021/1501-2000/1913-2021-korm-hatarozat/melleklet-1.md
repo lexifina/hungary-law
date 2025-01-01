@@ -1,19 +1,8 @@
 ## 1. egyetért az egyes településeket érintő, 1. mellékletben meghatározott beruházások megvalósításával;
 
-## 2. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 1. Gazdaság újraindítását szolgáló miniszterelnökségi fejezeti kezelésű előirányzatok alcím, 9. Kistelepülési fejlesztési támogatások jogcímcsoport terhére,
+## 2.[^1]
 
-## a) a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 18. Klebelsberg Központ cím javára 1 919 002 743 forint,
+1. melléklet az 1913/2021. (XII. 15.) Korm. határozathoz[^2]
 
-## b) a Kvtv. 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 8. Gazdaság újraindítását szolgáló emberi erőforrások fejezeti kezelésű előirányzatok alcím, 6. Köznevelési intézmények felújítása, beruházása jogcímcsoport javára 264 000 000 forint,
-
-## összesen 2 183 002 743 forint egyszeri átcsoportosítását rendeli el, a 2. melléklet szerint.
-
-## Felelős: pénzügyminiszter
-
-## emberi erőforrások minisztere
-
-## Határidő: azonnal
-
-1. melléklet az 1913/2021. (XII. 15.) Korm. határozathoz[^1]
-
-[^1]: Az 1. melléklet az 1953/2021. (XII. 22.) Korm. rendelet 19. pontja szerint módosított szöveg.
+[^1]: A 2. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: Az 1. melléklet az 1953/2021. (XII. 22.) Korm. rendelet 19. pontja szerint módosított szöveg.
