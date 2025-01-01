@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-1489-30
 | --- | --- | --- |
 | 2021-07-16 | 2021-1489-30-22.1 | 1489/2021. (VII. 16.) Korm. határozat |
 | 2021-07-17 | 2021-1489-30-22.2 | 2010: CXXX. törvény |
+| 2025-01-01 | 2021-1489-30-22.3 | 2011: CXCV. törvény |
