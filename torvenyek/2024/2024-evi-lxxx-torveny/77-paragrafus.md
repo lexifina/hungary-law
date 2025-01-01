@@ -1,0 +1,5 @@
+## 13. A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény módosítása
+
+77. § A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény (a továbbiakban: Fétv.) 17. §-a a következő (3) bekezdéssel egészül ki:
+
+„(3) A szerződés elektronikus regisztrációja hiányában az (1) bekezdésben foglaltaktól eltérően a szerződést négy eredeti példányban kell benyújtani a mezőgazdasági igazgatási szervhez, illetve a Földforgalmi törvény 21. § (1c) bekezdése szerinti esetben a föld fekvése szerint illetékes települési önkormányzat jegyzőjéhez, amelyek közül egy példánynak a Földforgalmi törvény 8. §-a szerinti, és a Földforgalmi törvény végrehajtására kiadott rendeletben meghatározott biztonsági kellékekkel rendelkező papíralapú okmányon (a továbbiakban: biztonsági okmány) kiállítottnak kell lennie.”

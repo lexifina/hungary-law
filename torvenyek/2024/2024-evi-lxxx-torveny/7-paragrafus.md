@@ -1,0 +1,3 @@
+7. § A vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló 1996. évi LV. törvény 83. § (4) bekezdése a következő h) ponttal egészül ki:
+
+[Az (1) bekezdés g) pontja szerint a vadgazdálkodási szabályok megsértésének minősül, ha a vadászatra jogosult:]
