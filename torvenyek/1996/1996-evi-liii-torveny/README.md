@@ -38,3 +38,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-53-00-00
 | 2023-07-01 | 2023. évi XLIV. törvény | 1996-53-00-00.56 |
 | 2024-01-01 | 2023. évi XCIII. törvény | 1996-53-00-00.57 |
 | 2024-10-01 | 2023. évi C. törvény | 1996-53-00-00.58 |
+| 2025-01-01 | 2024. évi LXXXV. törvény | 1996-53-00-00.60 |
