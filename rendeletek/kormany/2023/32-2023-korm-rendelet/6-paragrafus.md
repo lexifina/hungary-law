@@ -1,1 +1,0 @@
-6. § Ez a rendelet az épületek energiahatékonyságáról szóló 2010/31/EU irányelv és az energiahatékonyságról szóló 2012/27/EU irányelv módosításáról szóló, 2018. május 30-i (EU) 2018/844 európai parlamenti és tanácsi irányelv 1. cikk 7. pontjának való megfelelést szolgálja.

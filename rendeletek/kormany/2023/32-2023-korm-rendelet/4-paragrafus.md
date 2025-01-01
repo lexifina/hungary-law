@@ -1,1 +1,0 @@
-4. § Az Ehat. 43/C. § (2) bekezdésében foglaltaktól eltérően a felülvizsgálati jelentés kiállításához felhasznált adatok és a felülvizsgálati jelentésben feltüntetett eredmények, ajánlások szakmai ellenőrzését a Magyar Mérnöki Kamara látja el.
