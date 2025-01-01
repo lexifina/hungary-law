@@ -4,6 +4,6 @@
 
 (2) A 2. § és a 10. § 2023. március 1-jén lép hatályba.
 
-(3)[^11] A 4. § 2025. január 1-jén lép hatályba.
+(3)[^10] A 4. § 2025. január 1-jén lép hatályba.
 
-[^11]: A 11. § (3) bekezdése a 647/2023. (XII. 28.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^10]: A 11. § (3) bekezdése a 647/2023. (XII. 28.) Korm. rendelet 4. §-a szerint módosított szöveg.
