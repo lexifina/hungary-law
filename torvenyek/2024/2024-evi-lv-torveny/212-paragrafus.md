@@ -10,4 +10,4 @@ a)
 
 b)
 
-c)
+c) 21. § (3b) bekezdése.

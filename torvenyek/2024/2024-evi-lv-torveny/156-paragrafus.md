@@ -1,1 +1,5 @@
-### 156. §
+## „c) a halasztó hatály elrendelése iránti kérelemnek az adóhatóság tudomására jutása napját követő naptól a kérelem jogerős elbírálásáig, ha az adóhatósági döntés ellen indított közigazgatási per során az első alkalommal előterjesztett halasztó hatály elrendelése iránti kérelmet jogerősen még nem bírálták el, továbbá a bíróság által elrendelt halasztó hatály esetén annak tartama alatt;”
+
+156. § Az Avt. 41. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A munkáltató a letiltás kézbesítését követő 15 napon belül – ha a letiltás elektronikus úton érkezett, akkor elektronikus úton az e célra rendszeresített nyomtatványon – az adós egyidejű tájékoztatása mellett tájékoztatja az adóhatóságot a havonta letiltható jövedelem összegéről, valamint a letiltást befolyásoló körülményekről, különösen a folyósított jövedelem összegéről, valamint az azt terhelő egyéb végrehajtói letiltásokról. A letiltható jövedelem összegét befolyásoló körülményekről, illetve a letiltható jövedelem összegének a változásáról a munkáltató a letiltás teljes időtartama alatt, az ok bekövetkezésétől számított 15 napon belül – ha a letiltás elektronikus úton érkezett, akkor elektronikus úton az e célra rendszeresített nyomtatványon – tájékoztatja az adóhatóságot.”

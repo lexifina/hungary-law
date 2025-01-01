@@ -1,1 +1,3 @@
-### 126. §
+126. § Az Art. 37. §-a a következő (4a) bekezdéssel egészül ki:
+
+„(4a) Ha a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény szerinti külföldi munkavállaló adóazonosító jellel nem rendelkezik, akkor a természetes személy adóazonosító jelének megállapítását a munkáltató is kérheti az állami adó- és vámhatóságtól. A kérelmező az adóazonosító jel megállapítása érdekében bejelenti a természetes személy 32. § (1) bekezdése szerinti adatait és kérelméhez csatolja a 32. § (2) bekezdésben megjelölt iratot. A külföldi munkavállaló adóazonosító jeléről az adóhatóság a munkáltatót is tájékoztatja.”

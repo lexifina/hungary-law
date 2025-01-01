@@ -1,1 +1,3 @@
-### 150. §
+150. § Az Air. 124. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A fellebbezésben és a fellebbezés alapján indult eljárásban – semmisségi okon kívül – nem lehet olyan új tényt állítani, illetve olyan új bizonyítékra hivatkozni, amelyről a fellebbezésre jogosultnak az elsőfokú döntés meghozatala, ellenőrzés esetén az észrevétel benyújtására nyitva álló határidő letelte előtt tudomása volt, azonban a bizonyítékot az adóhatóság felhívása ellenére nem terjesztette elő, a tényre nem hivatkozott. Az e bekezdésben foglaltak nem alkalmazhatóak az Áfa tv. XVIII. Fejezete szerinti adó-visszatéríttetési eljárásokban.”
