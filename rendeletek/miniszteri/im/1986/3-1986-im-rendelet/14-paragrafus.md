@@ -1,3 +1,3 @@
-## 13. §[^66]
+14. §[^72]
 
-[^66]: A 13. §-t a 65/2007. (XII. 23.) IRM rendelet 12. § (4) bekezdésének f) pontja hatályon kívül helyezte.
+[^72]: A 14. §-t a 65/2007. (XII. 23.) IRM rendelet 12. § (4) bekezdésének g) pontja hatályon kívül helyezte.
