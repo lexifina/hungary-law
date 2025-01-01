@@ -6,11 +6,11 @@ b) ha a szálláshely-szolgáltató az a) pontban meghatározott határidő elte
 
 c) ha a szálláshely nem felel meg a 4. §-ban meghatározott követelményeknek, határidő kitűzésével felhívja a szálláshely-szolgáltatót a jogsértő állapot megszüntetésére és a jogszerű állapot helyreállítására, és a jogsértő állapot megszüntetéséig, illetve a jogszerű állapot helyreállításáig, de legfeljebb kilencven napig elrendeli a szálláshely ideiglenes bezárását,
 
-d)[^75] azonnali hatállyal megtiltja a szálláshely-nyilvántartásban nem szereplő és a Nemzeti Turisztikai Adatszolgáltató Központba nem regisztrált szálláshely üzemeltetését, és pénzbírságot szab ki,
+d)[^78] azonnali hatállyal megtiltja a szálláshely-nyilvántartásban nem szereplő és a Nemzeti Turisztikai Adatszolgáltató Központba nem regisztrált szálláshely üzemeltetését, és pénzbírságot szab ki,
 
-e)[^76] ha az ideiglenes bezárást követően a szálláshely-szolgáltató a megjelölt határidőn belül a jogsértő állapotot nem szünteti meg, vagy a szálláshely-szolgáltató egy éven belül ismételten olyan jogsértő magatartást tanúsít, amely miatt vele szemben a b) pont szerinti pénzbírságot kell kiszabni, elrendeli a szálláshely bezárását,, egyidejűleg törli a szolgáltatót a nyilvántartásból.
+e)[^79] ha az ideiglenes bezárást követően a szálláshely-szolgáltató a megjelölt határidőn belül a jogsértő állapotot nem szünteti meg, vagy a szálláshely-szolgáltató egy éven belül ismételten olyan jogsértő magatartást tanúsít, amely miatt vele szemben a b) pont szerinti pénzbírságot kell kiszabni, elrendeli a szálláshely bezárását,, egyidejűleg törli a szolgáltatót a nyilvántartásból.
 
-(2)[^77] Az (1) bekezdés b) pontja szerinti pénzbírság összege
+(2)[^80] Az (1) bekezdés b) pontja szerinti pénzbírság összege
 
 a) szálloda esetében
 
@@ -52,13 +52,13 @@ ga) legfeljebb 20 ágy befogadóképesség esetén 100 ezer Ft,
 
 gb) 21 ágy befogadóképesség felett 200 ezer Ft.
 
-h)[^78] nyaralóhajó esetében 100 ezer Ft.
+h)[^81] nyaralóhajó esetében 100 ezer Ft.
 
 (3) Az (1) bekezdés d) pontja szerinti pénzbírság összege a (2) bekezdésben meghatározott összegek kétszerese.
 
 (4) Az (1) bekezdés b) és d) pontja szerinti pénzbírság összege a központi költségvetést illeti meg.
 
-[^75]: A 14. § (1) bekezdés d) pontja az 501/2021. (VIII. 18.) Korm. rendelet 15. §-ával megállapított szöveg.
-[^76]: A 14. § (1) bekezdés e) pontja a 441/2015. (XII. 28.) Korm. rendelet 121. § e) pontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^77]: A 14. § (2) bekezdése a 155/2019. (VI. 27.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^78]: A 14. § (2) bekezdés h) pontját a 345/2020. (VII. 14.) Korm. rendelet 6. §-a iktatta be.
+[^78]: A 14. § (1) bekezdés d) pontja az 501/2021. (VIII. 18.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^79]: A 14. § (1) bekezdés e) pontja a 441/2015. (XII. 28.) Korm. rendelet 121. § e) pontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^80]: A 14. § (2) bekezdése a 155/2019. (VI. 27.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^81]: A 14. § (2) bekezdés h) pontját a 345/2020. (VII. 14.) Korm. rendelet 6. §-a iktatta be.

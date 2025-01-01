@@ -1,3 +1,3 @@
-9. §[^53]
+9. §[^58]
 
-[^53]: A 9. §-t a 463/2024. (XII. 30.) Korm. rendelet 43. §-a hatályon kívül helyezte.
+[^58]: A 9. §-t a 463/2024. (XII. 30.) Korm. rendelet 43. §-a hatályon kívül helyezte.

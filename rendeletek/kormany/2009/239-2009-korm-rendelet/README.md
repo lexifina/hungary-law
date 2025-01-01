@@ -39,3 +39,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-239-20-
 | 2022-11-22 | 2009-239-20-22.32 | 468/2022. (XI. 21.) Korm. rendelet |
 | 2022-12-30 | 2009-239-20-22.33 | 619/2022. (XII. 29.) Korm. rendelet |
 | 2024-12-31 | 2009-239-20-22.34 | 463/2024. (XII. 30.) Korm. rendelet |
+| 2025-01-01 | 2009-239-20-22.35 | 484/2024. (XII. 31.) Korm. rendelet |
