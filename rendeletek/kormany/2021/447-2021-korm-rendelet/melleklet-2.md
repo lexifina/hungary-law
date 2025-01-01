@@ -1,3 +1,3 @@
-2. melléklet a 447/2021. (VII. 26.) Korm. rendelethez[^7]
+2. melléklet a 447/2021. (VII. 26.) Korm. rendelethez[^12]
 
-[^7]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

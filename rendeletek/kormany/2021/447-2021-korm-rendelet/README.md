@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-447-20-
 | --- | --- | --- |
 | 2021-09-01 | 2021-447-20-22.1 | 447/2021. (VII. 26.) Korm. rendelet |
 | 2021-09-02 | 2021-447-20-22.2 | 2010: CXXX. törvény |
+| 2025-01-01 | 2021-447-20-22.3 | 364/2024. (XI. 28.) Korm. rendelet |
