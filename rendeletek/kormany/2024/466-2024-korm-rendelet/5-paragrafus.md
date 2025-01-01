@@ -1,3 +1,3 @@
-5. §[^3]
+5. § A Vet. Vhr. 5. § (5b) bekezdése helyébe a következő rendelkezés lép:
 
-[^3]: Az 5. § a 38. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+„(5b) A háztartási méretű kiserőmű esetén, amelynek üzemeltetőjével mint felhasználóval jogviszonyban álló villamosenergia-kereskedő, 2023. szeptember 7. napján nem éves szaldó elszámolást alkalmaz, vagy fennálló jogviszony hiányában nem éves szaldó elszámolást kellett volna alkalmaznia – a 14/B. § alapján felszerelt okosmérővel rendelkező felhasználó esetét kivéve, az (5) bekezdéstől eltérően – a villamosenergia-kereskedő az (5) bekezdés szerinti időszak végével érintett naptári hónap utolsó napjáig havi szaldó elszámolást alkalmaz.”

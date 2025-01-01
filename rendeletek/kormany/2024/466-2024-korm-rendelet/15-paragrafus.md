@@ -1,3 +1,7 @@
-15. §[^13]
+15. § A Vet. Vhr. 16. § (3) bekezdése helyébe a következő rendelkezés lép:
 
-[^13]: A 15. § a 38. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+„(3) Az elosztó saját költségén nem kötelezhető okosmérőnek nem minősülő távlehívható fogyasztásmérő felszerelésére a kisfeszültségű hálózatról ellátott azon felhasználási hely tekintetében,
+
+a) amely 3 × 80 A vagy az alatti csatlakozással rendelkezik, vagy
+
+b) amely esetében a vételezés közvilágítás vagy egyéb, a közvilágítási elosztó hálózatról ellátott vagy azzal együtt vezérelt világítás (telefonfülke, közlekedési jelzőtábla, reklámvilágítás stb.) céljára történik.”

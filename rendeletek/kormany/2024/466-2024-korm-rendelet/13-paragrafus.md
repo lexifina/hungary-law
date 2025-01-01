@@ -1,3 +1,3 @@
-13. §[^11]
+13. § A Vet. Vhr. 14. § (2) bekezdése helyébe a következő rendelkezés lép:
 
-[^11]: A 13. § a 38. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+„(2) A hálózati engedélyes távlehívható fogyasztásmérő esetén – amennyiben a kiegyenlítő energia elszámolása a távlehívható fogyasztásmérő mérési adatain alapszik – legalább naponta elvégzi a mérési adatok távlehívását.”

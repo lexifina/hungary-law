@@ -1,3 +1,3 @@
-20. §[^18]
+20. §[^7]
 
-[^18]: A 20. § a 38. § (5) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
+[^7]: A 20. § a 38. § (5) bekezdése alapján 2025. szeptember 1-jén lép hatályba.

@@ -1,3 +1,5 @@
-26. §[^24]
+## „e) a helyi önkormányzat álláspontja.”
 
-[^24]: A 26. § a 38. § (3) bekezdése alapján 2025. január 15-én lép hatályba.
+26. §[^8]
+
+[^8]: A 26. § a 38. § (3) bekezdése alapján 2025. január 15-én lép hatályba.

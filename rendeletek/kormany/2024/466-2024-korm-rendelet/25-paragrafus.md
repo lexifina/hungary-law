@@ -1,3 +1,3 @@
-25. §[^23]
+25. § A Vet. Vhr. 112/D. § (1) bekezdése a következő e) ponttal egészül ki:
 
-[^23]: A 25. § a 38. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+[Az elosztó a VET 119/B. § (2) bekezdése szerinti kábelcsere-ütemezési tervet az alábbi szempontok alapján állítja össze:]

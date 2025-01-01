@@ -1,9 +1,17 @@
-## „e) az (EU) 2018/2001 irányelvnek, az (EU) 2018/1999 rendeletnek és a 98/70/EK irányelvnek a megújuló energiaforrásokból előállított energia előmozdítása tekintetében történő módosításáról, valamint az (EU) 2015/652 tanácsi irányelv hatályon kívül helyezéséről szóló 2023/2413 irányelv 16f. cikkének”
-
-## (való megfelelést szolgálja)
-
 ## 2. A villamos energiáról szóló 2007. évi LXXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 273/2007. (X. 19.) Korm. rendelet módosítása
 
-3. §[^1]
+3. § (1) A villamos energiáról szóló 2007. évi LXXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 273/2007. (X. 19.) Korm. rendelet (a továbbiakban: Vet. Vhr.) 1. § (1) bekezdés 1. pontja helyébe a következő rendelkezés lép:
 
-[^1]: A 3. § a 38. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+(E rendelet alkalmazásában:)
+
+## „1. elszámoló számla: a felhasználó részére az adott elszámolási időszakra vonatkozóan kiállított számla;”
+
+(2) A Vet. Vhr. 1. § (1) bekezdés 14a. pontja helyébe a következő rendelkezés lép:
+
+(E rendelet alkalmazásában:)
+
+## „14a. részszámla: a felhasználó részére az elszámolási időszakon belüli időszakra vonatkozóan kiállított számla;”
+
+(3) A Vet. Vhr. 1. § (1) bekezdés 16a. pontja helyébe a következő rendelkezés lép:
+
+(E rendelet alkalmazásában:)

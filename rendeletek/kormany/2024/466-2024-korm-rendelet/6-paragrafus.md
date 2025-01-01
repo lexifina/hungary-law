@@ -1,3 +1,3 @@
-6. §[^4]
+6. § A Vet. Vhr. 5. § (8) bekezdése helyébe a következő rendelkezés lép:
 
-[^4]: A 6. § a 38. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+„(8) A háztartási méretű kiserőművek csatlakoztatásával és üzemeltetésével kapcsolatos további szabályokat e rendelet, az ellátási szabályzatok és a hálózati engedélyesek üzletszabályzatai, a villamos energia értékesítés elszámolásával kapcsolatos további szabályokat a kereskedők üzletszabályzatai tartalmazzák.”

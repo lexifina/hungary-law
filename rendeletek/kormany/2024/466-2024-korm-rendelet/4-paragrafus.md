@@ -1,3 +1,5 @@
-4. §[^2]
+## „16a. végszámla: a felhasználó részére a hálózathasználati vagy a villamosenergia-vásárlási szerződés megszűnésére tekintettel kiállított számla;”
 
-[^2]: A 4. § a 38. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+4. § A Vet. Vhr. a következő 1/B. §-sal egészül ki:
+
+„1/B. § Az egyetemes szolgáltatásban vételező felhasználó által üzemeltetett háztartási méretű kiserőmű által megújuló energiaforrásból termelt villamos energia vonatkozásában az egyetemes szolgáltató részére bejegyzett származási garanciát az egyetemes szolgáltató a szervezett villamosenergia-piacon értékesíti.”

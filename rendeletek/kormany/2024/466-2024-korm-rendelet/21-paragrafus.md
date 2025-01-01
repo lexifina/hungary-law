@@ -1,3 +1,3 @@
-21. §[^19]
+21. § A Vet. Vhr. 47. § (3) bekezdés c) pontja helyébe a következő rendelkezés lép:
 
-[^19]: A 21. § a 38. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+[Az Elosztói Szabályzat előírásai a 46. §-ban meghatározottakkal összhangban legalább az alábbiakra terjednek ki:]

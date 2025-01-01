@@ -1,3 +1,3 @@
-2. § A KHVR. 30. §-a a következő e) ponttal egészül ki:
+2. §[^2]
 
-(Ez a rendelet a Kvt.-vel együtt)
+[^2]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
