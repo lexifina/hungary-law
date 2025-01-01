@@ -4,7 +4,7 @@ a) a bejelentő családi és utónevét, születési családi és utónevét, an
 
 b) nyilatkozatot arról, hogy nem állnak fenn a 3. §-ban meghatározott kizáró okok,
 
-c) a főtevékenységet, és a folytatni kívánt egyéb tevékenységet (tevékenységeket) a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról szóló 1893/2006/EK európai parlamenti és tanácsi rendeleten alapuló TEÁOR-számokból képzett a mindenkor hatályos Önálló vállalkozók tevékenységi jegyzéke (ÖVTJ) szerinti ÖVTJ kód szerint megjelölve,
+c) a főtevékenységet, és a folytatni kívánt egyéb tevékenységet (tevékenységeket) a mindenkor hatályos Önálló vállalkozók tevékenységi jegyzéke (a továbbiakban: ÖVTJ) szerinti ÖVTJ kód szerint megjelölve,
 
 d) a székhely, valamint szükség szerint a telephely (telephelyek) és a fióktelep (fióktelepek) címét,
 
