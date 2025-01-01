@@ -38,7 +38,7 @@ i) ellátja az adatkormányzási rendeletben meghatározott, az adatközvetítő
 
 a) javaslatot tehet a személyes adatok kezelését, valamint a közérdekű adatok és a közérdekből nyilvános adatok megismerését érintő jogszabályok megalkotására, illetve módosítására, véleményezi a feladatkörét érintő jogszabályok tervezetét;
 
-b) tevékenységéről minden évben március 31-éig beszámolót hoz nyilvánosságra és a beszámolót benyújtja az Országgyűlésnek;
+b) tevékenységéről minden évben március 31-éig beszámolót hoz nyilvánosságra és a beszámolót tájékoztatásul megküldi az Országgyűlésnek;
 
 c) általános jelleggel vagy meghatározott adatkezelő részére ajánlást bocsát ki;
 

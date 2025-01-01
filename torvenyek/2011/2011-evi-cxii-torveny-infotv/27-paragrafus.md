@@ -30,7 +30,7 @@ korlátozhatja.
 
 (5) A közfeladatot ellátó szerv feladat- és hatáskörébe tartozó döntés meghozatalára irányuló eljárás során készített vagy rögzített, a döntés megalapozását szolgáló adat a keletkezésétől számított tíz évig nem nyilvános. Ezen adatok megismerését – az adat megismeréséhez és a megismerhetőség kizárásához fűződő közérdek súlyának mérlegelésével – az azt kezelő szerv vezetője engedélyezheti.
 
-(6) A döntés megalapozását szolgáló adat megismerésére irányuló igény – az (5) bekezdésben meghatározott időtartamon belül – a döntés meghozatalát követően akkor utasítható el, ha az adat további jövőbeli döntés megalapozását is szolgálja, vagy az adat megismerése a közfeladatot ellátó szerv törvényes működési rendjét vagy feladat- és hatáskörének illetéktelen külső befolyástól mentes ellátását, így különösen az adatot keletkeztető álláspontjának a döntések előkészítése során történő szabad kifejtését veszélyeztetné.
+(6) A döntés megalapozását szolgáló adat megismerésére irányuló igény – az (5) bekezdésben meghatározott időtartamon belül – a döntés meghozatalát követően akkor utasítható el, ha az adat további jövőbeli döntés megalapozását is szolgálja, vagy az adat megismerése a közfeladatot ellátó szerv törvényes működési rendjét vagy feladat- és hatáskörének illetéktelen külső befolyástól mentes ellátását, így különösen az adatot keletkeztető álláspontjának a döntések előkészítése, illetve egyes bírósági eljárásokban való részvétele során történő szabad kifejtését veszélyeztetné.
 
 (7) Jogszabály a döntés megalapozását szolgáló egyes adatok megismerhetőségének korlátozására az (5) bekezdésben meghatározottnál rövidebb időtartamot állapíthat meg.
 

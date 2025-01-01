@@ -6,7 +6,7 @@
 
 ## 20. A közérdekű adatok megismerésének általános szabályai
 
-26. § (1) Az állami vagy helyi önkormányzati feladatot, valamint jogszabályban meghatározott egyéb közfeladatot ellátó szervnek vagy személynek (a továbbiakban együtt: közfeladatot ellátó szerv) lehetővé kell tennie, hogy a kezelésében lévő közérdekű adatot és közérdekből nyilvános adatot – az e törvényben meghatározott kivételekkel – erre irányuló igény alapján bárki megismerhesse.
+26. § (1) A közfeladatot ellátó szervnek lehetővé kell tennie, hogy a kezelésében lévő közérdekű adatot és közérdekből nyilvános adatot – az e törvényben meghatározott kivételekkel – erre irányuló igény alapján bárki megismerhesse.
 
 (2) Közérdekből nyilvános adat a közfeladatot ellátó szerv feladat- és hatáskörében eljáró személy neve, feladatköre, munkaköre, vezetői megbízása, a közfeladat ellátásával összefüggő egyéb személyes adata, valamint azok a személyes adatai, amelyek megismerhetőségét törvény előírja. A közérdekből nyilvános személyes adatok a célhoz kötött adatkezelés elvének tiszteletben tartásával terjeszthetőek. A közérdekből nyilvános személyes adatok honlapon történő közzétételére az 1. melléklet és a közfeladatot ellátó személy jogállására vonatkozó külön törvény rendelkezései irányadóak.
 
