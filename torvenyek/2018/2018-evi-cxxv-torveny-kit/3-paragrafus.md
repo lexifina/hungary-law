@@ -64,6 +64,8 @@ e) a Nemzeti Fejlesztési Központon belül működő főigazgatóságot vezető
 
 f) a Belső Ellenőrzési és Integritási Igazgatóság vezetője.
 
+g) a 13/C. § (1) bekezdése szerinti igazgató.
+
 (8) Szakmai vezető:
 
 a) a kormányhivatal igazgatója,

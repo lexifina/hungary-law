@@ -16,6 +16,6 @@ b) figyelemmel kíséri a Kormány által meghatározott költségvetési szerve
 
 (6) A nemzetbiztonsági főtanácsadói kabinetben és az (5) bekezdés szerinti titkárságon szolgálatot teljesítő politikai főtanácsadó, politikai tanácsadó, kormánytisztviselő, munkavállaló és szakmai vezető felett a munkáltatói jogokat a miniszterelnök nemzetbiztonsági főtanácsadója gyakorolja. A Nemzetbiztonsági Irodán szolgálatot teljesítő politikai főtanácsadó, politikai tanácsadó, kormánytisztviselő, munkavállaló és szakmai vezető felett az alapvető munkáltatói jogokat a miniszterelnök nemzetbiztonsági főtanácsadója, az egyéb munkáltatói jogokat a miniszterelnök nemzetbiztonsági főtanácsadója által kijelölt személy gyakorolja.
 
-(7) A nemzetbiztonsági főtanácsadói kabinetet vezető kabinetfőnök felett a munkáltatói jogokat a miniszterelnök nemzetbiztonsági főtanácsadója gyakorolja.
+(7) A nemzetbiztonsági főtanácsadói kabinetet vezető kabinetfőnök, valamint a 13/C. § (1) bekezdése szerinti igazgató felett a munkáltatói jogokat a miniszterelnök nemzetbiztonsági főtanácsadója gyakorolja.
 
 (8) A miniszterelnök nemzetbiztonsági főtanácsadója e tisztsége betöltése során, illetve annak megszűnését követően a miniszterelnök politikai igazgatójára vonatkozó szabályok szerint nevezhető ki, illetve nem választható meg törvényben meghatározott tisztségre.

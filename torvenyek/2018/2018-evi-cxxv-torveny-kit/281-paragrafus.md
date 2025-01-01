@@ -66,7 +66,7 @@ c) az állásportálokkal való együttműködési megállapodás tartalmi eleme
 
 10. a kiválasztásra, a toborzási adatbázisra, továbbá az önéletrajz tartalmi elemeire vonatkozó részletes szabályokat;
 
-11. pártfogó felügyelői feladatokat ellátó kormánytisztviselőinek belépési igazolványához szükséges adatok körét;
+11.
 
 12. belföldi kiküldetésen lévő kormánytisztviselő többletköltségei fedezetére és a napidíjára vonatkozó részletes szabályokat;
 
@@ -151,3 +151,5 @@ c) az állásportálokkal való együttműködési megállapodás tartalmi eleme
 (14) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a 296. § (8) bekezdése szerinti jövedelem számításának módját.
 
 (15) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a hatóság egészeként kizárt járási (fővárosi kerületi) hivatal helyett eljáró másik járási (fővárosi kerületi) hivatalt, illetve a hatóság egészeként kizárt fővárosi és vármegyei kormányhivatal helyett eljáró másik fővárosi és vármegyei kormányhivatalt.
+
+(16) Felhatalmazást kap az igazságügyért felelős miniszter, hogy rendeletben határozza meg a pártfogó felügyelői feladatokat ellátó kormánytisztviselők igazolványa kiadására vonatkozó részletes szabályokat.
