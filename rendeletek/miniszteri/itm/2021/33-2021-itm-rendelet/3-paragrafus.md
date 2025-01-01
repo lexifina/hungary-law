@@ -1,5 +1,3 @@
-## minősül az Nbtv. 74. § i) pont in) alpontja szerinti jogviszonynak.
-
 ## 3. § A foglalkoztató szervezetnél
 
 a) a belső ellenőr és az ellenőrzési feladatokat ellátó szervezeti egységnél betöltött valamennyi,
@@ -17,3 +15,5 @@ f) a rendszeradminisztrátor,
 g) a titkos ügykezelő,
 
 h) a rejtjelfelügyelő és a rejtjelező
+
+munkakör, álláshely betöltése, feladat ellátása az Nbtv. 74. § i) pont in) alpontja szerinti jogviszonynak minősül.

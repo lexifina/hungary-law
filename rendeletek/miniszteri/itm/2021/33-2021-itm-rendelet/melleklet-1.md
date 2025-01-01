@@ -1,8 +1,6 @@
-## 7. §[^1]
-
 1. melléklet a 33/2021. (VII. 26.) ITM rendelethez
 
-## A nemzetbiztonsági ellenőrzés alá eső munkakörök, álláshelyek meghatározása
+A nemzetbiztonsági ellenőrzés alá eső munkakörök, álláshelyek meghatározása
 
 1. Az Innovációs és Technológiai Minisztérium hivatali szervezete
 
@@ -50,7 +48,7 @@
 
 2. Kormányzati főhivatalok
 
-2.1.[^2]
+2.1.[^3]
 
 2.1.1. a gazdasági és a humánpolitikai területért felelős vezető álláshelye,
 
@@ -74,7 +72,7 @@
 
 3. Központi hivatalok
 
-3.1.[^3]
+3.1.[^4]
 
 3.1.1. a gazdasági vezető álláshelye,
 
@@ -104,12 +102,8 @@
 
 4. Központi kormányzati igazgatási szervnek nem minősülő költségvetési szerv
 
-4.1. A Kormányzati Informatikai Fejlesztési Ügynökségnél
+4.1.[^5]
 
-4.1.1. az elnök és helyettesei vezetői beosztása,
-
-4.1.2. a gazdasági vezető beosztása.
-
-[^1]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 1. melléklet 2. pont 2.1. alpontját a 2/2022. (I. 7.) ITM rendelet 3. § a) pontja hatályon kívül helyezte.
-[^3]: Az 1. melléklet 3. pont 3.1. alpontját a 2/2022. (I. 7.) ITM rendelet 3. § b) pontja hatályon kívül helyezte.
+[^3]: Az 1. melléklet 2. pont 2.1. alpontját a 2/2022. (I. 7.) ITM rendelet 3. § a) pontja hatályon kívül helyezte.
+[^4]: Az 1. melléklet 3. pont 3.1. alpontját a 2/2022. (I. 7.) ITM rendelet 3. § b) pontja hatályon kívül helyezte.
+[^5]: Az 1. melléklet 4.1. pontját a 10/2024. (VIII. 8.) MK rendelet 3. §-a hatályon kívül helyezte.
