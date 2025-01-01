@@ -1,3 +1,1 @@
-31. § (1) Az MKH Központ, valamint az MKH kutatóintézetek munkavállalóinak jogviszonya a 28. § (3) bekezdés szerinti dátummal – a 29. § (2) bekezdésében foglaltaktól eltérően – a HUN-REN-nel megkötött munkaviszonnyá alakul át azzal, hogy a munkabér összege megegyezik az e törvény hatálybalépésekor az MKH Központtal, valamint az MKH kutatóintézettel meglévő munkaviszony szerinti munkabérrel, továbbá az MKH kutatóintézetek munkavállalóinak esetében a munkaszerződésben rögzíteni kell 29. § (2) bekezdése szerinti jogutód szervezeti egységet.
-
-(2) Ha az (1) bekezdésben foglalt munkajogviszony-átalakulással érintett munkavállaló munkajogviszonya a KFItv. 47/A. § (1) bekezdése alapján jött létre, akkor a munkavállalóra vonatkozóan a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény jubileumi jutalomra vonatkozó szabályait 2025. december 31-ig alkalmazni kell.
+### 31. §

@@ -1,6 +1,6 @@
 77. § Hatályát veszti a tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény
 
-1. 5. § (2) bekezdés nyitó szövegrészében az „és a HUN-REN elnöke” szövegrész,
+1.
 
 2. 5. § (2) bekezdés c)–e) pontja,
 
@@ -24,24 +24,24 @@
 
 12. 29/A. § (2) bekezdés 10. pontja,
 
-13. 30. §-ában az „a HUN-REN Központra,” szövegrész és az „a HUN-REN Központ,” szövegrész,
+13.
 
-14. 34. § (4) bekezdése,
+14.
 
-15. 13/A. alcíme,
+15.
 
-16. 42/B. § (1), (2) és (4) bekezdése,
+16.
 
-17. 42/B. § (3) bekezdésében az „a jelen fejezetben meghatározott intézményesített keretek között folytatott” szövegrész,
+17.
 
-18. 42/B. § (5) bekezdésében az „– és a 46. § (1) bekezdésben meghatározott vagyonelemek erejéig a Magyar Tudományos Akadémiáról szóló 1994. évi XL. törvény (a továbbiakban: MTA tv.) 3. § (1a) bekezdésben meghatározott feladata keretei között az MTA –” szövegrész,
+18.
 
-19. 42/B. § (6) és (7) bekezdése,
+19.
 
-20. 13/C. alcíme,
+20.
 
-21. 13/D. alcíme,
+21.
 
-22. 13/E. alcíme,
+22.
 
-23. 46. §-a.
+23.

@@ -1,3 +1,1 @@
-30. § (1) A Magyar Tudományos Akadémia és a Magyar Nemzeti Vagyonkezelő Zrt. által megkötött szerződés alapján állami tulajdonba kerülő, az MKH Központ és MKH kutatóintézetek működtetését szolgáló vagyonelemek ingyenes használatba bocsátását a magyar állam a HUN-REN részére biztosítja.
-
-(2) A Magyar Tudományos Akadémia és a Magyar Nemzeti Vagyonkezelő Zrt. között megkötött, az (1) bekezdésben hivatkozott szerződéssel állami tulajdonba kerülő ingó és ingatlan vagyonelemeket érintő vagyonjuttatást úgy kell tekinteni, hogy az az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 17. § (1) bekezdésében meghatározott feltételek szerinti juttatással esik egy tekintet alá.
+### 30. §

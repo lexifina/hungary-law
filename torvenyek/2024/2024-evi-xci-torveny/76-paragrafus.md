@@ -1,6 +1,6 @@
 76. § A tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény
 
-1. 5. § (1) bekezdésében a „Magyar Kutatási” szövegrész helyébe a „HUN-REN Magyar Kutatási” szöveg,
+1.
 
 2. 10/D. § (1) bekezdésében a „kutatási támogatási programokkal kapcsolatos” szövegrész helyébe az „ , az NKFI Alap Kutatási Alaprészének terhére nyújtott támogatásokkal összefüggő” szöveg,
 
