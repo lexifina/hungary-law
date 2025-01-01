@@ -4,4 +4,4 @@
 
 (2) Az ingóság foglalás hatálya alóli feloldása esetén az adóst fel kell hívni arra, hogy az ingóság foglalás hatálya alóli feloldásáról szóló tájékoztatás kézbesítésétől számított 30 napon belül intézkedjen az ingóság elszállítása iránt. Ha az adós a felhívásnak a megadott határidőn belül nem tesz eleget, a végrehajtó az ingóság további őrzését megszünteti, és intézkedik annak karitatív célú felhasználása, megsemmisítése vagy hulladékként való átadása iránt.
 
-(3) A (2) bekezdés szerinti intézkedések költségét az adóvégrehajtási eljárás során felmerült végrehajtási költségek és a végrehajtási költségátalány megállapításának és megfizetésének részletes szabályairól szóló miniszteri rendelet készkiadásra vonatkozó szabályai szerint számítja fel az adóhatóság.
+(3) A (2) bekezdés szerinti intézkedések költségét az adóhatóság által foganatosítandó végrehajtási eljárás során felmerült végrehajtási költségek és a végrehajtási költségátalány megállapításának és megfizetésének részletes szabályairól szóló miniszteri rendelet készkiadásra vonatkozó szabályai szerint számítja fel az adóhatóság.

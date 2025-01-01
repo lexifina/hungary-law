@@ -4,7 +4,7 @@
 
 (3) A büntetőeljárásban elrendelt zár alá vétel foganatosításakor fel kell hívni az adóst, hogy nem hozhat a zár alá vétel foganatosításával és céljával ellentétes döntést.
 
-(4) Ha a büntetőeljárásban az ingatlan zár alá vételére pénzfizetésre irányuló vagyonelkobzás vagy ilyen polgári jogi igény biztosítása érdekében került sor, az állami adó- és vámhatóság a bejegyzési kérelemben a biztosítandó pénzösszeget is feltünteti.
+(4) Ha a büntetőeljárásban az ingatlan zár alá vételére pénzösszegben kifejezett vagyonelkobzás vagy ilyen polgári jogi igény biztosítása érdekében került sor, az állami adó- és vámhatóság a bejegyzési kérelemben a biztosítandó pénzösszeget is feltünteti.
 
 (5) A büntetőeljárásban elrendelt zár alá vétel bejegyzéséről szóló ingatlan-nyilvántartási határozat kézhezvétele után az állami adó- és vámhatóság az ingatlant zárgondnok kezelésébe adja, ha
 

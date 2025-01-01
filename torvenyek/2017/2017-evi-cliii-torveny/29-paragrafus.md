@@ -70,7 +70,7 @@ a megállapításáról szóló értesítés esetén a behajtást kérő megkere
 
 24. a kisadózó vállalkozók tételes adójáról szóló törvény 7. § (11) bekezdés szerinti bejelentés.
 
-25. a csődeljárásról és a felszámolási eljárásról szóló törvény 33/A. §-a szerinti, az állami adó- és vámhatóság kérelmére meghozott, biztosíték nyújtásra kötelező jogerős végzés.
+25. a csődeljárásról és a felszámolási eljárásról szóló törvény 33/A. §-a szerinti, az állami adó- és vámhatóság kérelmére meghozott, biztosíték nyújtásra kötelező jogerős határozat.
 
 26. a nemzetközi adóegyezmények alapján indított adókövetelések behajtására irányuló megkeresés, valamint a határon átnyúló hitelezői igénybejelentések esetén a magyar adóhatóság követelését tartalmazó hátraléki kimutatás.
 

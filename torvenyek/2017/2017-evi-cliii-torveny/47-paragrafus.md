@@ -6,4 +6,4 @@
 
 (3) Ha a lefoglalt járművet az adós az adóhatóság felhívására nem adja át, és az adós lakóhelyén (tartózkodási helyén) vagy székhelyén, telephelyén, fióktelepén az nem fellelhető, az adóhatóság az ismeretlen helyen lévő jármű feltalálási helyének megállapítása érdekében végzéssel tárgykörözést rendelhet el. A tárgykörözést elrendelő végzés a közlés időpontjától kezdve fellebbezésre tekintet nélkül végrehajtható.
 
-(4) A (3) bekezdésben foglalt intézkedések költségét az adóvégrehajtási eljárás során felmerült végrehajtási költségek és a végrehajtási költségátalány megállapításának és megfizetésének részletes szabályairól szóló rendelet készkiadásra vonatkozó szabályai szerint számítja fel az adóhatóság.
+(4) A (3) bekezdésben foglalt intézkedések költségét az adóhatóság által foganatosítandó végrehajtási eljárás során felmerült végrehajtási költségek és a végrehajtási költségátalány megállapításának és megfizetésének részletes szabályairól szóló miniszteri rendelet készkiadásra vonatkozó szabályai szerint számítja fel az adóhatóság.

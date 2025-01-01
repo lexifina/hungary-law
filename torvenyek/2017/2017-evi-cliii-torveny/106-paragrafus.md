@@ -12,7 +12,7 @@ b) a fizetésre kötelezett nevét és adóazonosító számát, adóazonosító
 
 c) a tartozás jogcímét,
 
-d) a fizetési kötelezettséget elrendelő döntés számát, jogerőre emelkedésének napját, nem döntésen alapuló fizetési kötelezettséget meghatározó jogszabályhelyet,
+d) a fizetési kötelezettséget elrendelő döntés számát, nem döntésen alapuló fizetési kötelezettséget meghatározó jogszabályhelyet,
 
 e) a teljesítési határidőt,
 

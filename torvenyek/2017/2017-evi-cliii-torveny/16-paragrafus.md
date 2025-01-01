@@ -6,7 +6,7 @@ a) a fizetési kedvezmény iránti kérelem adóhatósághoz történő megérke
 
 b) a fizetési halasztást vagy részletfizetést engedélyező döntés véglegessé válásának napjától a tartozás döntésben foglalt teljesítéséig, ha az adós kérelmére fizetési halasztást vagy részletfizetést engedélyeztek;
 
-c) a halasztó hatály elrendelése iránti kérelemnek az adóhatóság tudomására jutása napját követő naptól a kérelem jogerős elbírálásáig, ha az adóhatósági döntés ellen indított közigazgatási per során az első alkalommal előterjesztett halasztó hatály elrendelése iránti kérelmet jogerősen még nem bírálták el;
+c) a halasztó hatály elrendelése iránti kérelemnek az adóhatóság tudomására jutása napját követő naptól a kérelem jogerős elbírálásáig, ha az adóhatósági döntés ellen indított közigazgatási per során az első alkalommal előterjesztett halasztó hatály elrendelése iránti kérelmet jogerősen még nem bírálták el, továbbá a bíróság által elrendelt halasztó hatály esetén annak tartama alatt;
 
 d) a felszámolás elrendelésétől a felszámolási eljárás jogerős befejezéséig, ha a gazdálkodó szervezet adótartozásának megfizetésére a helytállni köteles tag (részvényes), vezető tisztségviselő kötelezésére került sor, vagy
 

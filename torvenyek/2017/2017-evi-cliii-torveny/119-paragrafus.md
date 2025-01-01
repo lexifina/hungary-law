@@ -10,6 +10,6 @@
 
 (5) Nem kell késedelmi pótlékot fizetni arra az időszakra, amelyre az adós a késedelmét igazolta. Igazolásnak csak akkor van helye, ha a késedelmet elháríthatatlan külső ok idézte elő.
 
-(6) A késedelmi pótlék mértéke minden naptári nap után a késedelem időpontjában érvényes jegybanki alapkamat kétszeresének 365-öd része.
+(6) A késedelmi pótlék mértéke minden naptári nap után a késedelem időpontjában érvényes jegybanki alapkamat 5 százalékponttal növelt mértékének 365-öd része.
 
 (7) Az állami adó- és vámhatóság az 5 ezer forintot el nem érő késedelmi pótlékot nem írja elő.
