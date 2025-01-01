@@ -1,0 +1,1 @@
+2. § A 7/2020. (IV. 16.) KKM rendelet 12/C. § (1) bekezdés c) pontjában, 12/F. § (2) bekezdés g) pontjában, 12/K. § (1) bekezdés c) pontjában, 12/Q. § (2) bekezdés d) pontjában a „TEÁOR” szövegrész helyébe a „TEÁOR’25” szöveg lép.
