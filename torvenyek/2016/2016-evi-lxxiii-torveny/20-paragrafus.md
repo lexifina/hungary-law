@@ -12,9 +12,11 @@ e) a kihelyezett halálával.
 
 f) ha a külszolgálati álláshely a külképviselettől elvonásra kerül,
 
-g) az 58. § (23) bekezdés d) pontjában meghatározott fegyelmi büntetés esetén, valamint
+g) az 58. § (23) bekezdés d) pontjában meghatározott fegyelmi büntetés esetén,
 
-h) a 19. § (1) bekezdése, továbbá a 22. § (8) bekezdése szerinti esetben.
+h) a 19. § (1) bekezdése, továbbá a 22. § (8) bekezdése szerinti esetben, valamint
+
+i) ha a kihelyezett a kormányzati igazgatásról szóló törvény vagy e törvény szerinti adatváltozás-bejelentési kötelezettségét elmulasztja és azt az erre irányuló kihelyező vezetői felhívásban foglalt határidőn belül nem teljesíti, a határidő lejárta napját követő tizedik munkanapon.
 
 (2) A kihelyező vezető lehetőség szerint a kihelyezés (1) bekezdés a) pontja szerinti megszűnésének pontos dátumáról legkésőbb az azt megelőző két hónappal tájékoztatja a kihelyezettet.
 

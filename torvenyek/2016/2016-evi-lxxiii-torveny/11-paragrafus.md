@@ -20,13 +20,13 @@ napjával e törvény erejénél fogva a kihelyező szervnél megszűnik, azzal,
 
 (4) A (2) bekezdés szerinti felkészülés ideje alatt a felkészülő kormányzati igazgatásról szóló törvény szerinti illetménye helyett havonta
 
-a) az 1. melléklet szerinti technikai munkaköri osztályba tartozó tartós külszolgálati munkakörbe történő felkészülés esetén a 23. § (7) bekezdése szerinti deviza-illetményalap összegének 60%-ával, azzal, hogy az illetmény összegének a garantált bérminimum összegét el kell érnie,
+a) az 1. melléklet szerinti technikai munkaköri osztályba tartozó tartós külszolgálati munkakörbe történő felkészülés esetén a 23. § (7a) bekezdése szerinti felkészülési illetményalap összegének 60%-ával, azzal, hogy az illetmény összegének a garantált bérminimum összegét el kell érnie,
 
-b) az 1. melléklet szerinti adminisztratív munkaköri osztályba tartozó tartós külszolgálati munkakörbe történő felkészülés esetén a 23. § (7) bekezdése szerinti deviza-illetményalap összegének 90%-ával,
+b) az 1. melléklet szerinti adminisztratív munkaköri osztályba tartozó tartós külszolgálati munkakörbe történő felkészülés esetén a 23. § (7a) bekezdése szerinti felkészülési illetményalap összegének 90%-ával,
 
-c) az 1. melléklet szerinti diplomata munkaköri osztályba tartozó tartós külszolgálati munkakörbe történő felkészülés esetén a 23. § (7) bekezdése szerinti deviza-illetményalap összegének 100%-ával,
+c) az 1. melléklet szerinti diplomata munkaköri osztályba tartozó tartós külszolgálati munkakörbe történő felkészülés esetén a 23. § (7a) bekezdése szerinti felkészülési illetményalap összegének 100%-ával,
 
-d) az 1. melléklet szerinti vezetői munkaköri osztályba tartozó tartós külszolgálati munkakörbe történő felkészülés esetén a 23. § (7) bekezdése szerinti deviza-illetményalap összegének a 140%-ával
+d) az 1. melléklet szerinti vezetői munkaköri osztályba tartozó tartós külszolgálati munkakörbe történő felkészülés esetén a 23. § (7a) bekezdése szerinti felkészülési illetményalap összegének a 140%-ával
 
 megegyező összegű illetményre jogosult.
 

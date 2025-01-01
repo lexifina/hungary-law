@@ -50,7 +50,7 @@ b) hozzátartozója után a 24. § (7) bekezdésében, a 25. § (5)–(8) bekezd
 
 c) rangemelésben részesül,
 
-d) személyi vagy díjazási adatai módosulnak,
+d) személyi, álláshely nyilvántartási vagy díjazási adatai módosulnak,
 
 e) a kihelyező vezető egyoldalú döntése alapján, hivatali érdekből más állomáshelyre vagy más tartós külszolgálati munkakörbe kerül áthelyezésre, vagy tartós külszolgálati munkaköre kiegészítésre kerül további külszolgálati munkakörrel, illetve kiegészítő feladatkörrel.
 

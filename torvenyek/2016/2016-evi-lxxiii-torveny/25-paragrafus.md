@@ -1,6 +1,6 @@
 25. § (1) A kihelyezettet a devizailletményén túl a saját és hozzátartozói külföldi életvitelével kapcsolatos kiadásainak fedezésére, minden külképviselet vonatkozásában megállapított, a 23. § (1) bekezdés szerint választott devizanemben havonta folyósított átalány-költségtérítés (a továbbiakban: átalány-költségtérítés) illeti meg, kivéve, ha a 16. § (1) bekezdés a) pontja szerinti feltételnek nem felel meg és a kihelyező vezető e feltétel alól a 16. § (2) bekezdése alapján mentesítette. Házastársak egyazon külképviseletre, vagy egyazon állomáshely különböző külképviseleteire történő kihelyezése esetén az átalány-költségtérítés elemei csak – a nyilatkozatukban megjelölt – egyik fél részére számfejthetők.
 
-(1a) Ha a kihelyezett állandó lakóhelye a fogadó államban van és a 16. § (2) bekezdése szerinti mentesítést megkapta, a (2) bekezdés a) pontja szerinti lakhatási és a (2) bekezdés c) pontja szerinti gyermeknevelési költségtérítésre, valamint költségtérítés-kiegészítésekre nem jogosult.
+(1a) Ha a kihelyezett állandó lakóhelye a fogadó államban van és a 16. § (2) bekezdése szerinti mentesítést megkapta, valamint gyermeke után családi támogatást, vagy bármilyen ellátást kap másik államtól, a (2) bekezdés a) pontja szerinti lakhatási és a (2) bekezdés c) pontja szerinti gyermeknevelési költségtérítésre, valamint költségtérítés-kiegészítésekre nem jogosult.
 
 (2) Az átalány-költségtérítés
 
@@ -20,7 +20,7 @@ cb) az a) és b) pontokhoz kapcsolódó költségtérítés-kiegészítésekből
 
 (3a) A külképviselet-vezető a vegyes költségtérítés vonatkozásában megállapított költségtérítés-alap, valamint az adott állomáshely tekintetében megállapított költségtérítés-szorzó szorzata szerinti kétszeres vegyes költségtérítésre jogosult, ha az (1) bekezdés szerint az átalány-költségtérítés számfejtését a külképviselet-vezető önmaga számára igényli.
 
-(4) A (2) bekezdés a) és b) pontja, valamint c) pont ca) alpontja szerinti költségtérítéshez kapcsolódó költségtérítés-alapok összegét évente a központi költségvetésről szóló törvény állapítja meg úgy, hogy az nem lehet alacsonyabb, mint az előző évi költségtérítés-alap.
+(4) A (2) bekezdés a) és b) pontja, valamint c) pont ca) alpontja szerinti költségtérítéshez kapcsolódó költségtérítés-alapok összegét évente a központi költségvetésről szóló törvény állapítja meg amerikai dollárban úgy, hogy az nem lehet alacsonyabb, mint az előző évi költségtérítés-alap.
 
 (5) A kihelyezettet a kihelyezettel közös háztartásban, életvitelszerűen a tartós külszolgálat állomáshelyén vagy – kizárólag – lakhatási célból az annak közigazgatási, illetve agglomerációs körzetébe tartozó településen tartózkodó, a 2. § 8. pontja szerinti hozzátartozónak minősülő minden gyermek után
 
@@ -64,7 +64,7 @@ illeti meg.
 
 (16) Ha a kihelyezett jogosultsága a (15) bekezdés alapján a 24. § (7) bekezdés szerinti juttatásra három egymást követő hónapban megszűnik, a kihelyezett (15) bekezdés szerinti hozzátartozóját a kihelyező okiratból törölni kell.
 
-(17) Ha a kihelyezett házastársa a fogadó államban az jövedelemszerző tevékenységet folytat és a vele közös háztartásban élő gyermeke, gyermekei után pótlékot, költségtérítést, iskoláztatási támogatást kap vagy fogyatékossági támogatásban, illetve vakok személyi járadékában részesül, az (5)–(6) bekezdés szerinti költségtérítésre nem jogosult.
+(17) Ha a kihelyezett vagy a házastársa a kihelyezettel közös háztartásban élő gyermeke után a kihelyező szervtől eltérő kifizető szervtől pótlékot, költségtérítést, iskoláztatási támogatást kap vagy fogyatékossági támogatásban, illetve vakok személyi járadékában részesül vagy bármely ezen, a magyar állam által biztosítható, illetve igénybe vehető támogatási, segélyezési vagy juttatási formához hasonló, illetve ezzel megfeleltethető – más állam által biztosított vagy igénybe vehető – támogatásban, segélyben vagy juttatásban részesül, függetlenül a kifizető szerv illetékességétől, az (5)–(6) bekezdés szerinti költségtérítésre a kihelyezett nem jogosult.
 
 (18) Ha a kihelyezett a tartós külszolgálata megszűnése vagy megszüntetése esetén az állomáshelyet vagy – kizárólag – lakhatási célból az annak közigazgatási, illetve agglomerációs körzetébe tartozó települést a tartós külszolgálata megszűnését vagy megszüntetését megelőzően bármilyen távolléti jogcímen elhagyta, azaz az állomáshelyen történő életvitelszerű tartózkodása megszűnt, akkor költségtérítés nem jár részére.
 

@@ -4,7 +4,7 @@
 
 a) a szakdiplomata-álláshely létesítésére vonatkozó, Kormánynak benyújtandó előterjesztés, a szakdiplomata felkészítése és szakmai irányítása, továbbá a szakdiplomata és a szakminisztérium közötti kapcsolattartás,
 
-b) a tartós külszolgálathoz kapcsolódó felkészítés, illetve a tartós külszolgálatra kihelyezett kormánytisztviselőkre vonatkozó fegyelmi eljárás általánostól eltérő részletszabályai, valamint
+b) a tartós külszolgálathoz kapcsolódó felkészítés, illetve a külpolitikáért felelős miniszter által vezetett minisztériummal kormányzati vagy politikai szolgálati jogviszonyban álló foglalkoztatottra vonatkozó fegyelmi eljárás általánostól eltérő részletszabályai, valamint
 
 c) a külképviselet költségvetése tervezésének, pénzellátásának, előirányzat-felhasználásának, gazdálkodásának, igazgatásának és nyilvántartásának, valamint a költségvetési támogatásoknak, valamint a külképviseletek tekintetében az érvényesítésnek, a pénzügyi ellenjegyzésnek, továbbá az utalványozásnak az államháztartásról szóló törvény végrehajtására kiadott rendeletben meghatározott rendjétől, illetve az államháztartási számvitel általános előírásaitól eltérő,
 
@@ -13,6 +13,8 @@ d) az egységes külképviseleti rendszer adminisztratív-technikai működésé
 e) a vendégoktatói ösztöndíjprogram részletes szabályait, az ösztöndíj és költségtérítés megállapításának módját, az ösztöndíjban részesíthető személyek körét, az ösztöndíj nyújtásának módját és feltételeit, továbbá a jogosulatlanul kifizetett ösztöndíj visszafizetésének
 
 f) a kulturális intézetek működése és irányítása, a kulturális diplomaták, valamint adminisztratív vagy technikai külszolgálati munkakörbe kihelyezett kormánytisztviselők feladatellátási és a kulturális intézetek tekintetében a külpolitikáért felelős miniszter által vezetett minisztérium és a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter által vezetett minisztérium közötti feladatmegosztás és együttműködés, valamint az ehhez tartozó költségvetés tervezés, -végrehajtás és -beszámolás rendjének
+
+g) a külföldi kiküldetés során valamely külképviselet közreműködését igénybe vevő, a Kormány irányítása alá tartozó központi költségvetési szervek és az irányításuk, felügyeletük vagy tulajdonosi joggyakorlásuk alá tartozó egyéb szervezetek vonatkozásában a külföldi kiküldetéssel összefüggő közreműködéssel kapcsolatban felmerült költségek egymás közötti elszámolásának és megtérítésének
 
 részletes szabályait rendeletben állapítsa meg.
 
@@ -42,15 +44,15 @@ k) a költségvetésről szóló törvény kihirdetésétől számított 45 napo
 
 l) a kihelyezett munkarendjének, valamint a rendkívüli munkavégzés, az ügyelet és a készenlét elrendelésének, nyilvántartásának és elszámolásának, továbbá a szabadság kiadásának,
 
-m) kihelyezett részére nyújtható kamatmentes illetmény- és költségtérítés-előlegnek és nyújtásának,
+m) kihelyezett részére nyújtható kamatmentes illetmény- és költségtérítés-előlegnek és nyújtásának, folyósításának, törlesztésének,
 
-n) kizárólag gépkocsivásárlás céljára nyújtható kölcsön,
+n) kizárólag gépkocsivásárlás céljára nyújtható kölcsönnek és nyújtásának, folyósításának, törlesztésének,
 
 o) a külképviselet által foglalkoztatott házastárs foglalkoztatásának,
 
 p) a külügyi szakmai vizsga,
 
-q) a kihelyező szervnél működő foglalkozás-egészségügyi szolgálat által végzett, a kihelyezett és a külképviselet által foglalkoztatott házastárs alkalmassági vizsgálatának és a kihelyezett hozzátartozójának alkalmassági vizsgálatának, valamint a felülvizsgálat rendjének,
+q) a kihelyező szervnél működő foglalkozás-egészségügyi szolgálat által végzett, a kihelyezett és a külképviselet által foglalkoztatott házastárs alkalmassági vizsgálatának és a kihelyezett hozzátartozójának alkalmassági vizsgálatának, a felülvizsgálat, valamint a tartós külszolgálati kihelyezést megelőző szűrővizsgálat rendjének,
 
 r) az ösztöndíjprogram részletes szabályait, az ösztöndíj és költségtérítés megállapításának módját, az ösztöndíjban részesíthető személyek körét, az ösztöndíj nyújtásának módját és feltételeit, továbbá a jogosulatlanul kifizetett ösztöndíj visszafizetésének, valamint
 
@@ -83,6 +85,8 @@ j) a külképviselet által foglalkoztatott házastárs foglalkoztatásának
 k) a költözési költségtérítés,
 
 l) az árfolyam-kompenzáció feltételeinek és mértékének
+
+m) az európai uniós ügyek koordinációjáért felelős miniszter által vezetett minisztériumnál működő foglalkozás-egészségügyi szolgálat által végzett, a kihelyezett és a külképviselet által foglalkoztatott házastárs alkalmassági vizsgálatának és a kihelyezett hozzátartozójának alkalmassági vizsgálatának, valamint a felülvizsgálat rendjének
 
 részletes szabályait rendeletben állapítsa meg.
 

@@ -4,10 +4,10 @@ a) a rendkívüli és meghatalmazott nagykövet,
 
 b) a főkonzul,
 
-c) az állandó ügyvivő, valamint
+c) az állandó ügyvivő,
 
 d) a kereskedelmi képviselet-vezető
 
-e)
+e) az önálló konzuli képviselet-vezető
 
 (a továbbiakban együtt: külképviselet-vezető) látja el.

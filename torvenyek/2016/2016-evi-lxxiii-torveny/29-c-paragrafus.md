@@ -1,6 +1,6 @@
 29/C. § (1) Teljes munkaidőben történő foglalkoztatás esetén naptári évenként kettőszázötven óra rendkívüli munkaidő rendelhető el.
 
-(2) A tartós külszolgálat időtartama alatt heti pihenőnapon, illetve munkaszüneti napon végzett rendkívüli munka, készenlét, ügyelet ellenértékeként a kormánytisztviselőt a teljesített munkaidő időtartamával azonos mértékű szabadidő illeti meg, tekintet nélkül a heti pihenőnapra vagy munkaszüneti napra.
+(2) A tartós külszolgálat időtartama alatt heti pihenőnapon, illetve magyarországi munkaszüneti napon végzett rendkívüli munka, készenlét, ügyelet ellenértékeként a kormánytisztviselőt a teljesített munkaidő időtartamával azonos mértékű szabadidő illeti meg, tekintet nélkül a heti pihenőnapra vagy munkaszüneti napra.
 
 (3) A külképviseleten – amennyiben ügyelet adása szükséges – az ügyeleti rendet a külképviselet-vezető határozza meg, és legalább egy héttel korábban és egy hónapra előre közli a kijelölt kihelyezettekkel.
 

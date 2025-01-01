@@ -20,7 +20,7 @@ f) a 35/C. § tekintetében a 10. § (1) bekezdése szerinti pályázat benyújt
 
 g) az 58/C. § tekintetében a külpolitikáért felelős miniszter által vezetett minisztériummal jogviszonyban álló kormánytisztviselőkre,
 
-h) az 58. § (14) bekezdése a külügyi szakmai ösztöndíjas jogviszonyban álló személyekre
+h) az 58. § (14) bekezdése, valamint 58/C. § (3) bekezdés f) pontja a külügyi szakmai ösztöndíjas jogviszonyban álló személyekre
 
 i) a 25. § (21) bekezdése és az 57/B. § tekintetében a vendégoktatói ösztöndíjprogramban részt vevő személyekre,
 
