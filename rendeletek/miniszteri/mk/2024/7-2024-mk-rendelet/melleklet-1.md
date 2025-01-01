@@ -2,13 +2,13 @@
 
 Az elektronikus információs rendszerek biztonsági osztályba sorolása és a védelmi intézkedések bevezetésének támogatására szolgáló kockázatmenedzsment keretrendszer
 
-1. A KOCKÁZATMENEDZSMENT KERETRENDSZER
+1.[^5] A KOCKÁZATMENEDZSMENT KERETRENDSZER
 
-1.1. Az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény hatálya alá tartozó elektronikus információs rendszerrel rendelkező szervezet, valamint a kiberbiztonsági tanúsításról és a kiberbiztonsági felügyeletről szóló 2023. évi XXIII. törvény szerinti érintett szervezet (a továbbiakban együtt: szervezet) a biztonsági osztályba sorolás és a védelmi intézkedések bevezetésének támogatására kockázatmenedzsment keretrendszert működtet, amelynek keretében
+1.1. A szervezet a biztonsági osztályba sorolás és a védelmi intézkedések bevezetésének támogatására kockázatmenedzsment keretrendszert működtet, amelynek keretében
 
 1.1.1. a keretrendszer alkalmazására való felkészülésként
 
-1.1.1.1. a szervezetre vonatkozóan meghatározza és dokumentumban rögzíti:
+1.1.1.1. a szervezetre vonatkozóan meghatározza és dokumentumban rögzíti
 
 1.1.1.1.1. az elektronikus információs rendszerei védelmével kapcsolatos szerepköröket, felelősségeiket, feladataikat és az ehhez szükséges hatásköröket,
 
@@ -16,7 +16,7 @@ Az elektronikus információs rendszerek biztonsági osztályba sorolása és a 
 
 1.1.1.1.3. a védelmi intézkedések hatékonyságának folyamatos ellenőrzésére vonatkozó biztonságfelügyeleti stratégiát, amely magába foglalja a védelmi intézkedésekhez kapcsolódó tevékenységek ellenőrzésének gyakoriságát, felügyeletének módszereit és eszközeit,
 
-1.1.1.2. az elektronikus információs rendszerekre vonatkozóan meghatározza és dokumentumban rögzíti:
+1.1.1.2. az elektronikus információs rendszerekre vonatkozóan meghatározza és dokumentumban rögzíti
 
 1.1.1.2.1. a rendszer által támogatandó üzleti célokat, funkciókat és folyamatokat,
 
@@ -34,7 +34,7 @@ Az elektronikus információs rendszerek biztonsági osztályba sorolása és a 
 
 1.1.2. a 2. pontban meghatározott irányelvek szerint biztonsági osztályba sorolja az elektronikus információs rendszereit;
 
-1.1.3. a 2. melléklet szerint beazonosítja a biztonsági osztályhoz tartozó védelmi intézkedéseket. A beazonosított intézkedéseket kockázatelemzés alapján testre szabja. Amennyiben a kockázatelemzés indokolja, a szervezet a 3. pontban meghatározott módon eltérhet a rendszerre vonatkozó biztonsági követelményektől, illetve a 4. pont szerint alkalmazhat helyettesítő védelmi intézkedéseket. Fentiek végrehajtásával megállapítja az elektronikus információs rendszerre értelmezendő és alkalmazandó biztonsági követelményeket. A szervezet a biztonsági követelményeket a rendszerbiztonsági tervben dokumentálja, amelyet szervezet vezetője vagy az elektronikus információs rendszer biztonságáért felelős szerepkört betöltő személy hagy jóvá. A szervezet a folyamatos felügyeleti stratégiával összhangban kidolgozza a rendszerre vonatkozó védelmi intézkedések hatékonyságának folyamatos ellenőrzésére vonatkozó eljárásrendet;
+1.1.3. a 2. melléklet szerint beazonosítja a biztonsági osztályhoz tartozó védelmi intézkedéseket. A beazonosított intézkedéseket kockázatelemzés alapján testre szabja. Amennyiben a kockázatelemzés indokolja, a szervezet a 3. pontban meghatározott módon eltérhet a rendszerre vonatkozó biztonsági követelményektől, illetve a 4. pont szerint alkalmazhat helyettesítő védelmi intézkedéseket. Fentiek végrehajtásával megállapítja az elektronikus információs rendszerre értelmezendő és alkalmazandó biztonsági követelményeket. A szervezet a biztonsági követelményeket a rendszerbiztonsági tervben dokumentálja, amelyet a szervezet vezetője vagy az elektronikus információs rendszer biztonságáért felelős szerepkört betöltő személy hagy jóvá. A szervezet a folyamatos felügyeleti stratégiával összhangban kidolgozza a rendszerre vonatkozó védelmi intézkedések hatékonyságának folyamatos ellenőrzésére vonatkozó eljárásrendet;
 
 1.1.4. rangsorolja, majd végrehajtja a kiválasztott és a rendszerbiztonsági tervben dokumentált intézkedéseket. Az intézkedések végrehajtása során a szervezet a rendszerbiztonsági tervet a védelmi intézkedések tényleges megvalósítása, valamint a tervtől való esetleges eltérések alapján frissíti;
 
@@ -52,7 +52,7 @@ Az elektronikus információs rendszerek biztonsági osztályba sorolása és a 
 
 1.1.6. a szervezet a rendszer biztonsági állapotára vonatkozó dokumentumok (rendszerbiztonsági terv, értékelési jelentés, rendszer kockázatelemzés, intézkedési terv) alapján az üzembe helyezésére vagy üzemben tartására vonatkozó kockázatokat megvizsgálja, és a szervezet vezetője más személyre át nem ruházható feladatkörében eljárva – jegyzőkönyvben dokumentált módon – dönt a rendszer használatbavételéről vagy használatának folytatásáról;
 
-1.1.7. a védelmi intézkedések folyamatos felügyeletével az elektronikus információs rendszer teljes életciklusa alatt gondoskodik arról, hogy a bekövetkezett szervezeti, technológiai és biztonsági környezetének változása esetén a védelmi intézkedések a kockázatokkal arányosak maradjanak. Ennek keretében:
+1.1.7. a védelmi intézkedések folyamatos felügyeletével az elektronikus információs rendszer teljes életciklusa alatt gondoskodik arról, hogy a bekövetkezett szervezeti, technológiai és biztonsági környezetének változása esetén a védelmi intézkedések a kockázatokkal arányosak maradjanak. Ennek keretében
 
 1.1.7.1. figyelemmel kíséri az elektronikus információs rendszerben vagy a működési környezetében bekövetkezett, a rendszer biztonsági helyzetét befolyásoló változásokat, és ennek alapján frissíti a vonatkozó dokumentumokat,
 
@@ -203,3 +203,5 @@ Az elektronikus információs rendszerek biztonsági osztályba sorolása és a 
 5.1.2.4. Az 1.1.4–1.1.7. pont szerint végrehajtja, értékeli és felügyeli a kockázatcsökkentő védelmi intézkedéseket.
 
 5.1.3. A szervezet folyamatosan nyomon követi az elektronikus információs rendszerrel kapcsolatos kockázatok változásaihoz hozzájáruló tényezőket, és ennek alapján frissíti és naprakészen tartja a kockázatelemzési dokumentumait.
+
+[^5]: Az 1. melléklet 1. pontja a 18/2024. (XII. 30.) MK rendelet 4. § (1) bekezdésével megállapított szöveg.

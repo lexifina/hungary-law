@@ -1,5 +1,6 @@
 1. § (1)[^1]
 
-(2) A kiberbiztonsági tanúsításról és a kiberbiztonsági felügyeletről szóló 2023. évi XXIII. törvény (a továbbiakban: Kibertantv.) hatálya alá tartozó elektronikus információs rendszert a Kibertantv. szerinti érintett szervezet (a továbbiakban: érintett szervezet) az 1. mellékletben felsorolt szempontok szerint sorolja biztonsági osztályba.
+(2)[^2] A Magyarország kiberbiztonságáról szóló 2024. évi LXIX. törvény (a továbbiakban: Kiberbiztonsági tv.) 1. § (1) bekezdése szerinti szervezet (a továbbiakban: szervezet) a rendelkezésében lévő, a Kiberbiztonsági tv. hatálya alá tartozó elektronikus információs rendszerét az 1. mellékletben felsorolt szempontok szerint sorolja biztonsági osztályba.
 
-[^1]: Az 1. § (1) bekezdése a 4. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+[^1]: Az 1. § (1) bekezdése a 18/2024. (XII. 30.) MK rendelet 6. §-a alapján nem lép hatályba.
+[^2]: Az 1. § (2) bekezdése a 18/2024. (XII. 30.) MK rendelet 1. §-ával megállapított szöveg.

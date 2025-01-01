@@ -1,3 +1,1 @@
-6. §[^3]
-
-[^3]: A 6. § a 4. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+6. § Hatályát veszti az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvényben meghatározott technológiai biztonsági, valamint a biztonságos információs eszközökre, termékekre, továbbá a biztonsági osztályba és biztonsági szintbe sorolásra vonatkozó követelményekről szóló 41/2015. (VII. 15.) BM rendelet.
