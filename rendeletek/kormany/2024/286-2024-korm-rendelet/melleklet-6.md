@@ -1,3 +1,3 @@
-6. melléklet a 286/2024. (IX. 30.) Korm. rendelethez[^132]
+6. melléklet a 286/2024. (IX. 30.) Korm. rendelethez[^131]
 
-[^132]: A 6. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^131]: A 6. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -38,79 +38,79 @@
 
 19.[^87]
 
-20.[^88]
+20. 16. § (3) bekezdés c) pontjában az „az OTÉK előírásainak” szövegrész helyébe az „az általános településrendezési és építési követelményeknek” szöveg,
 
-21.[^89]
+21.[^88]
 
-22.[^90]
+22.[^89]
 
-23.[^91]
+23.[^90]
 
-24.[^92]
+24.[^91]
 
-25.[^93]
+25.[^92]
 
-26.[^94]
+26.[^93]
 
-27.[^95]
+27.[^94]
 
-28.[^96]
+28.[^95]
 
-29.[^97]
+29.[^96]
 
-30.[^98]
+30.[^97]
 
-31.[^99]
+31.[^98]
 
-32.[^100]
+32.[^99]
 
-33.[^101]
+33.[^100]
 
-34.[^102]
+34.[^101]
 
-35.[^103]
+35.[^102]
 
-36.[^104]
+36.[^103]
 
-37.[^105]
+37.[^104]
 
-38.[^106]
+38.[^105]
 
-39.[^107]
+39.[^106]
 
-40.[^108]
+40.[^107]
 
-41.[^109]
+41.[^108]
 
-42.[^110]
+42.[^109]
 
-43.[^111]
+43.[^110]
 
-44.[^112]
+44.[^111]
 
-45.[^113]
+45.[^112]
 
-46.[^114]
+46.[^113]
 
-47.[^115]
+47.[^114]
 
-48.[^116]
+48.[^115]
 
-49.[^117]
+49.[^116]
 
-50.[^118]
+50.[^117]
 
-51.[^119]
+51.[^118]
 
-52.[^120]
+52.[^119]
 
-53.[^121]
+53.[^120]
 
-54.[^122]
+54.[^121]
 
-55.[^123]
+55.[^122]
 
-56.[^124]
+56.[^123]
 
 lép.
 
@@ -133,40 +133,39 @@ lép.
 [^85]: A 69. § 17. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^86]: A 69. § 18. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^87]: A 69. § 19. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^88]: A 69. § 20. pontja a 72. § (3) bekezdése alapján 2025. január 1-jén lép hatályba.
-[^89]: A 69. § 21. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^90]: A 69. § 22. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^91]: A 69. § 23. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^92]: A 69. § 24. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^93]: A 69. § 25. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^94]: A 69. § 26. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^95]: A 69. § 27. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^96]: A 69. § 28. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^97]: A 69. § 29. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^98]: A 69. § 30. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^99]: A 69. § 31. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^100]: A 69. § 32. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^101]: A 69. § 33. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^102]: A 69. § 34. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^103]: A 69. § 35. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^104]: A 69. § 36. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^105]: A 69. § 37. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^106]: A 69. § 38. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^107]: A 69. § 39. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^108]: A 69. § 40. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^109]: A 69. § 41. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^110]: A 69. § 42. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^111]: A 69. § 43. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^112]: A 69. § 44. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^113]: A 69. § 45. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^114]: A 69. § 46. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^115]: A 69. § 47. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^116]: A 69. § 48. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^117]: A 69. § 49. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^118]: A 69. § 50. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^119]: A 69. § 51. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^120]: A 69. § 52. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^121]: A 69. § 53. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^122]: A 69. § 54. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^123]: A 69. § 55. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^124]: A 69. § 56. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^88]: A 69. § 21. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^89]: A 69. § 22. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^90]: A 69. § 23. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^91]: A 69. § 24. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^92]: A 69. § 25. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^93]: A 69. § 26. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^94]: A 69. § 27. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^95]: A 69. § 28. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^96]: A 69. § 29. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^97]: A 69. § 30. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^98]: A 69. § 31. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^99]: A 69. § 32. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^100]: A 69. § 33. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^101]: A 69. § 34. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^102]: A 69. § 35. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^103]: A 69. § 36. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^104]: A 69. § 37. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^105]: A 69. § 38. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^106]: A 69. § 39. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^107]: A 69. § 40. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^108]: A 69. § 41. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^109]: A 69. § 42. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^110]: A 69. § 43. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^111]: A 69. § 44. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^112]: A 69. § 45. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^113]: A 69. § 46. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^114]: A 69. § 47. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^115]: A 69. § 48. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^116]: A 69. § 49. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^117]: A 69. § 50. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^118]: A 69. § 51. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^119]: A 69. § 52. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^120]: A 69. § 53. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^121]: A 69. § 54. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^122]: A 69. § 55. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^123]: A 69. § 56. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
