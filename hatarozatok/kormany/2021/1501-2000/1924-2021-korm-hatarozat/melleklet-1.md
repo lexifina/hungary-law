@@ -14,15 +14,7 @@
 
 ## 3. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (2) bekezdésében biztosított jogkörében eljárva a Beruházás megvalósítása érdekében
 
-## a) 3 109 751 744 forint egyszeri átcsoportosítását rendeli el a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 1. Gazdaság újraindítását szolgáló miniszterelnökségi fejezeti kezelésű előirányzatok alcím, 2. Modern Városok Program jogcímcsoport terhére, a Kvtv. 1. melléklet XIV. Belügyminisztérium fejezet, 17. Vízügyi Igazgatóságok cím javára, az 1. melléklet szerint,
-
-## Felelős: pénzügyminiszter
-
-## Miniszterelnökséget vezető miniszter
-
-## belügyminiszter
-
-## Határidő: azonnal
+## a)[^1]
 
 ## b) 3 483 280 570 forint egyszeri átcsoportosítását rendeli el a Magyarország a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény (a továbbiakban: 2022. évi Kvtv.) 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 1. Gazdaság újraindítását szolgáló miniszterelnökségi fejezeti kezelésű előirányzatok alcím, 2. Modern Városok Program jogcímcsoport terhére, a 2022. évi Kvtv. 1. melléklet XIV. Belügyminisztérium fejezet, 17. Vízügyi Igazgatóságok cím javára, a 2. melléklet szerint;
 
@@ -50,4 +42,7 @@
 
 ## Határidő: a 2023. évi központi költségvetés végrehajtása során, legkésőbb 2023. február 15.
 
-1. melléklet az 1924/2021. (XII. 20.) Korm. határozathoz
+1. melléklet az 1924/2021. (XII. 20.) Korm. határozathoz[^2]
+
+[^1]: A 3. pont a) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
