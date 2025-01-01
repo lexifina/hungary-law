@@ -42,7 +42,7 @@ c) a külföldi állampolgár által, Magyarországon alapított – az egyéni 
 
 12.[^5] munkavállalási engedély meghosszabbítása: ha a harmadik országbeli állampolgár foglalkoztatására a mezőgazdasági szezonális munkavállalási engedély kivételével a munkavállalási engedély érvényességi időtartamának lejártát követően ugyanannál a foglalkoztatónál, ugyanabban a munkakörben és ugyanazon a munkavégzési helyen kerül sor, és a foglalkoztató a hosszabbítás iránti kérelmét a 9. § (1) bekezdés 16. pontjában meghatározott időben nyújtja be;
 
-13.[^6] országos átlagos személyi alapbér: a harmadik országbeli állampolgár által ellátandó tevékenységnek a Foglalkozások Egységes Osztályozási Rendszeréről szóló 7/2010. (IV. 23.) KSH közlemény mellékletében (a továbbiakban: FEOR) megfelelő foglalkozás gyakorlása során elért személyi alapbér – a foglalkoztatáspolitikáért felelős miniszter (a továbbiakban: miniszter) által meghatározott – országos átlaga;
+13.[^6] országos bruttó átlagkereset: a Központi Statisztikai Hivatal (a továbbiakban: KSH) által közzétett, teljes munkaidőben alkalmazásban állók, a Foglalkozások Egységes Osztályozási Rendszeréről szóló 7/2010. (IV. 23.) KSH közlemény mellékletében (a továbbiakban: FEOR) FEOR-kóddal megjelölt foglalkozások szerinti bruttó átlagkeresete;
 
 14.[^7] összevont kérelmezési eljárás: olyan eljárás, amely a harmadik országbeli állampolgárnak Magyarország területén való tartózkodása és meghatározott foglalkoztatóval foglalkoztatásra irányuló jogviszony létesítésének engedélyezésére irányul;
 
@@ -111,7 +111,7 @@ b) a Magyarország Kormánya és a Kínai Népköztársaság Kormánya között 
 [^3]: A 2. § 6. pontja a 35/2024. (II. 29.) Korm. rendelet 300. § (2) bekezdésével megállapított szöveg.
 [^4]: A 2. § 8. pontja a 113/2016. (V. 30.) Korm. rendelet 78. § (1) bekezdésével megállapított szöveg.
 [^5]: A 2. § 12. pontja a 89/2014. (III. 20.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^6]: A 2. § 13. pontja a 318/2014. (XII. 13.) Korm. rendelet 25. § a) pontja, a 238/2022. (VI. 30.) Korm. rendelet 136. § (2) bekezdés a) pontja, a 35/2024. (II. 29.) Korm. rendelet 311. § 1. pontja szerint módosított szöveg.
+[^6]: A 2. § 13. pontja a 482/2024. (XII. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^7]: A 2. § 14. pontja a 35/2024. (II. 29.) Korm. rendelet 300. § (3) bekezdésével megállapított szöveg.
 [^8]: A 2. § 15. pontja a 35/2024. (II. 29.) Korm. rendelet 300. § (3) bekezdésével megállapított szöveg.
 [^9]: A 2. § 16. pontját a 113/2016. (V. 30.) Korm. rendelet 78. § (2) bekezdése iktatta be, szövege a 35/2024. (II. 29.) Korm. rendelet 311. § 2. pontja szerint módosított szöveg.
