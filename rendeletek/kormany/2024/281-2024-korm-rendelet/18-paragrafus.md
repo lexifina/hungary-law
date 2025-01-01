@@ -14,7 +14,7 @@ b) a településképi szakmai konzultációról készített jegyzőkönyvet, ha 
 
 c) a 419/2021. (VII. 15.) Korm. rendeletben meghatározott esetekben a tervezett építési tevékenységet tudomásulvételre javasoló településképi véleményt, vagy az állami főépítész, területi építészeti tervtanács településképi vélemény elleni kifogás tárgyában hozott véleményét, valamint
 
-d)[^2]
+d) a településrendezési és építési követelmények alapszabályzatáról szóló kormányrendelet és a helyi építési szabályzat beépítési szabályaira vonatkozó előírásaitól történő egyedi eltérés esetén az eltérést engedélyező, az építészeti és településrendezési tervtanácsokról szóló kormányrendeletben meghatározott tervtanácsi véleményt.
 
 (3) Az egyszerű bejelentési eljárásban az építésügyi hatóság vizsgálja, hogy
 
@@ -65,5 +65,3 @@ c) az állami főépítésszel vagy a területi építészeti tervtanáccsal, ha
 d) a területi szakmai kamarával, ha az építési tevékenység megkezdését vagy folytatását az építésügyi hatóság azért tiltja meg, mert a tervező nem rendelkezik megfelelő jogosultsággal.
 
 (7) Az egyszerű bejelentés tudomásulvétele nélkül megkezdett építési tevékenység az építésügyi hatóság végleges fennmaradási és továbbépítési engedélye alapján folytatható.
-
-[^2]: A 18. § (2) bekezdés d) pontja a 61. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.

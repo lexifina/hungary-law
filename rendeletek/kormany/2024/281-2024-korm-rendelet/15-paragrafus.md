@@ -18,7 +18,7 @@ a) az építészeti tervtanács véleménye, ha azt a Méptv. 61. § (2) bekezd�
 
 b) az állami főépítész vagy a területi építészeti tervtanács véleménye az egyszerű bejelentési, az építési engedélyezési, az összevont telepítési, a fennmaradási és a bontási engedélyezési eljárásban, ha azt a települési önkormányzat településképi véleménye elleni kifogás elbírálása tárgyában hozta.
 
-(6)[^1]
+(6) Az építésügyi hatóságot a döntése meghozatalában köti az országos építészeti tervtanács, az állami főépítész vagy a területi építészeti tervtanács által a településrendezési és építési követelmények alapszabályzatáról szóló kormányrendelet szerinti egyedi eltérés tárgyában hozott vélemény.
 
 (7) Az építésügyi hatóság – a használatbavételi, valamint a továbbépítési engedélyt nem tartalmazó fennmaradási engedély kivételével – az egyszerű bejelentés és az építésügyi hatósági engedélyek tekintetében bejelentés alapján a jogutódlást hallgatással tudomásul veszi, amelyről a kilépő és a belépő építtetőt értesíti.
 
@@ -33,5 +33,3 @@ a) külső alaprajzi méretének 1%-a, de legfeljebb 2,00 m2,
 b) beépítési magasságának 1%-a, de legfeljebb 0,2 méter,
 
 c) helyszínrajzi elhelyezéséhez képest 0,1 méter.
-
-[^1]: A 15. § (6) bekezdése a 61. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.

@@ -30,7 +30,7 @@ j) új épület építése vagy meglévő épület – az ingatlan-nyilvántart�
 
 k) ha szakhatóság bevonása vagy szakkérdés vizsgálata szükséges, a 2. melléklet szerinti dokumentáció rendelkezésre áll-e,
 
-l)[^5]
+l)[^3]
 
 m) a 9/2023. (V. 25.) ÉKM rendelet hatálya alá tartozó
 
@@ -40,4 +40,4 @@ mb) meglévő épület bővítése esetén a 35. § (4) bekezdés e) pontjában 
 
 (3) Az építésügyi hatóság a használatbavételi eljárásban szakkérdést vizsgál, ha a 3. mellékletben meghatározott valamely szakkérdés tekintetében a vizsgálat feltételei fennállnak.
 
-[^5]: A 36. § (2) bekezdés l) pontja a 61. § (3) bekezdése alapján 2025. április 1-jén lép hatályba.
+[^3]: A 36. § (2) bekezdés l) pontja a 61. § (3) bekezdése alapján 2025. április 1-jén lép hatályba.
