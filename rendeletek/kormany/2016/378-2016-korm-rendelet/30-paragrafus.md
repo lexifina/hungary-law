@@ -4,13 +4,13 @@ a) azon együttműködési megállapodások tekintetében, amelyek valamely köz
 
 b) ingatlanra vonatkozó bérleti szerződések esetén az NKH helyébe jogutódként az a szerv lép, amely az érintett ingatlant továbbhasználja, abban az esetben, ha az érintett ingatlant az NFM használja tovább, a vonatkozó bérleti szerződésekbe az NKH helyébe a KEF lép;
 
-c)[^19] ingatlanra vonatkozó vagyonkezelési szerződések esetén az NKH helyébe jogutódként az a szerv lép, amely az érintett ingatlant továbbhasználja, abban az esetben, ha az érintett ingatlant az NFM használja tovább, a vonatkozó szerződésekbe az NKH helyébe a KEF lép;
+c)[^20] ingatlanra vonatkozó vagyonkezelési szerződések esetén az NKH helyébe jogutódként az a szerv lép, amely az érintett ingatlant továbbhasználja, abban az esetben, ha az érintett ingatlant az NFM használja tovább, a vonatkozó szerződésekbe az NKH helyébe a KEF lép;
 
 d) közüzemi vagy egy meghatározott ingatlanhoz kapcsolódó szerződések esetén az NKH helyébe jogutódként az a szerv lép, amely a közüzemi szerződéssel érintett ingatlant továbbhasználja, abban az esetben, ha az érintett ingatlant az NFM használja tovább, a vonatkozó közüzemi szerződésekben az NKH helyébe a KEF lép;
 
-e)[^20] a közlekedési hatósági tevékenységhez kapcsolódó országos nyilvántartások, informatikai rendszerek működtetéséhez és fejlesztéséhez a központosított informatikai és elektronikus hírközlési szolgáltatásokat egyedi szolgáltatási megállapodás útján igénybe vevő szervezetekről, valamint a központi szolgáltató által üzemeltetett vagy fejlesztett informatikai rendszerekről szóló 7/2013. (II. 26.) NFM rendelet 1. mellékletének 1. pont 1.30. alpontja és 2. pont 2.3. alpontja szerinti feladatokhoz kapcsolódó szerződések esetében az NKH helyébe az NFM lép;
+e)[^21] a közlekedési hatósági tevékenységhez kapcsolódó országos nyilvántartások, informatikai rendszerek működtetéséhez és fejlesztéséhez a központosított informatikai és elektronikus hírközlési szolgáltatásokat egyedi szolgáltatási megállapodás útján igénybe vevő szervezetekről, valamint a központi szolgáltató által üzemeltetett vagy fejlesztett informatikai rendszerekről szóló 7/2013. (II. 26.) NFM rendelet 1. mellékletének 1. pont 1.30. alpontja és 2. pont 2.3. alpontja szerinti feladatokhoz kapcsolódó szerződések esetében az NKH helyébe az NFM lép;
 
 f) azon megbízási szerződések esetén, ahol a másik fél képzőszerv, az NKH helyébe az NFM lép.
 
-[^19]: A 30. § c) pontja a 473/2016. (XII. 27.) Korm. rendelet 19. § (7) bekezdés a) pontja szerint módosított szöveg.
-[^20]: A 30. § e) pontja a 473/2016. (XII. 27.) Korm. rendelet 19. § (5) bekezdésével megállapított szöveg.
+[^20]: A 30. § c) pontja a 473/2016. (XII. 27.) Korm. rendelet 19. § (7) bekezdés a) pontja szerint módosított szöveg.
+[^21]: A 30. § e) pontja a 473/2016. (XII. 27.) Korm. rendelet 19. § (5) bekezdésével megállapított szöveg.
