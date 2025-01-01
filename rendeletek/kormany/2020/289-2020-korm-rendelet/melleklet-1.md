@@ -1,6 +1,4 @@
-## 2. § Ez a rendelet a veszélyhelyzet megszűnésével összefüggő átmeneti szabályokról és a járványügyi készültségről szóló 2020. évi LVIII. törvény hatálybalépésének napján lép hatályba.
-
-1. melléklet a 289/2020. (VI. 17.) Korm. rendelethez[^1]
+1. melléklet a 289/2020. (VI. 17.) Korm. rendelethez[^3]
 
 |  | A | B | C |
 
@@ -40,7 +38,7 @@
 
 | 25 | Fémfeldolgozási termék gyártása |
 
-| 5 | Védelmi ipar | 254 | Fegyver-, lőszergyártás |
+| 5 | Védelmi ipar | 25.3 | Fegyver-, lőszergyártás |
 
 | 304 | Katonai harcjármű gyártása |
 
@@ -126,8 +124,8 @@
 
 | 9 | Bányászati szolgáltatás |
 
-| 23 | Oktatás | 8542 | Felsőfokú oktatás |
+| 23 | Oktatás | 8540 | Felsőoktatás |
 
-| 8560 | Oktatást kiegészítő tevékenység |
+| 8569 | M.n.s. oktatást kiegészítő tevékenység |
 
-[^1]: Az 1. melléklet a 387/2020. (VIII. 7.) Korm. rendelet 1. §-a, a 188/2021. (IV. 21.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^3]: Az 1. melléklet a 387/2020. (VIII. 7.) Korm. rendelet 1. §-a, a 188/2021. (IV. 21.) Korm. rendelet 1. §-a, a 364/2024. (XI. 28.) Korm. rendelet 12–13. §-a szerint módosított szöveg.
