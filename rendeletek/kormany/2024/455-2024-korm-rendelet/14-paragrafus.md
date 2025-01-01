@@ -1,0 +1,1 @@
+14. § Hatályát veszti a Társadalmi Esélyteremtési Főigazgatóságról, valamint egyes kormányrendeleteknek a Szociális és Gyermekvédelmi Főigazgatóság egyes feladatainak átadásával kapcsolatos módosításáról szóló 180/2019. (VII. 26.) Korm. rendelet 3/A. §-a.
