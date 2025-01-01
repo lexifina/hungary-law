@@ -126,7 +126,7 @@ b) a nemesfémforgalommal és fémjelzéssel kapcsolatos ellenőrzési feladatok
 
 c) a vám-, a jövedéki, a szabálysértési, a Központi Bűnjelnyilvántartó Rendszer működtetése és egyéb eljárások során keletkezett, a feladat- és hatáskörébe tartozó adatok kezelését,
 
-d) a fémkereskedelmi hatósági feladatokat,
+d) üzemanyagtöltő állomáson forgalmazott folyékony motorhajtóanyagok esetében a piacfelügyeleti hatósági feladatokat.
 
 e) a környezetvédelmi termékdíjjal és a regisztrációs adóval kapcsolatos adóztatási és ellenőrzési feladatokat.
 
