@@ -1,0 +1,1 @@
+14. § Az ágazati minisztériumok, az önálló szabályozó szervek és az ágazati szakhatóságok biztosítják, hogy ha a kritikus szervezetek vezetői számára szerveznek ágazati rendezvényeket, akkor azon legalább évente egy alkalommal feldolgozzák a kritikus szervezetek ellenálló képességének témakörét.

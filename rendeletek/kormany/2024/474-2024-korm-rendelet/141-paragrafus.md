@@ -1,0 +1,1 @@
+141. § A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény egyes rendelkezéseinek végrehajtásáról szóló 58/2013. (II. 27.) Korm. rendelet 73. § (1) bekezdés nyitó szövegrészében a „gyermekintézmények” szövegrész helyébe a „gyermekintézmények, a kritikus infrastruktúrák, valamint az ország védelme és biztonsága szempontjából jelentős infrastruktúrák tekintetében” szöveg lép.

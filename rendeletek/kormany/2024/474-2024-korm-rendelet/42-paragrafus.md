@@ -1,0 +1,3 @@
+42. § (1) Takarmány előállítás, kereskedelem vonatkozásában kritikus szervezetként jelölhető ki az a kereskedelmi tevékenységet végző vállalkozás, amely takarmány tárolását és elosztását végzi, ha a vállalkozásnak az élelmiszerláncról és hatósági felügyeletéről szóló törvény szerinti élelmiszerlánc-felügyeleti díjköteles nettó árbevétele eléri vagy meghaladja a 60 milliárd forintot.
+
+(2) Takarmány előállítás, kereskedelem vonatkozásában kritikus infrastruktúraként jelölhető ki az olyan eszköz, létesítmény, építmény, berendezés, hálózat, rendszer, vagy ezek része, amely az alapvető szolgáltatás nyújtásához szükséges.

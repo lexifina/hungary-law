@@ -1,0 +1,3 @@
+66. § (1) Üzemanyagtöltő állomás üzemeltetés vonatkozásában kritikus szervezetként jelölhető ki az a tulajdonos, amely országos szinten legalább 5 db töltő állomás tulajdonjogával rendelkezik.
+
+(2) Üzemanyagtöltő állomás üzemeltetés vonatkozásában kritikus infrastruktúraként jelölhető ki az (1) bekezdésben megjelölt szervezet tulajdonában lévő töltő állomás üzemeltetéséhez szükséges olyan eszköz, létesítmény, építmény, berendezés, hálózat, rendszer, vagy ezek része, amely az alapvető szolgáltatás nyújtásához szükséges, azzal, hogy egy adott tulajdonos esetében a kijelölésre kerülő kritikus infrastruktúrák száma a tulajdonában lévő töltőállomások legalább 25%-a.

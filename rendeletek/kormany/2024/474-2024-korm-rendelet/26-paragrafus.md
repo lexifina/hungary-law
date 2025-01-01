@@ -1,0 +1,1 @@
+26. § Az általános kijelölő hatóság a védelmi és biztonsági helyzet értékelése alapján a védelmi és biztonsági tevékenységek összehangolásáról szóló törvény előírásaival összhangban soron kívüli ellenálló képességi gyakorlat, illetve stressz-teszt végrehajtását írhatja elő a kritikus szervezet számára.

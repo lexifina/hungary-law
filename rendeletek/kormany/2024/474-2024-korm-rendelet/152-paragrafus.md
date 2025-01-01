@@ -1,0 +1,1 @@
+152. § A villamosenergia-rendszer jelentős zavara és a villamosenergia-ellátási válsághelyzet esetén szükséges intézkedésekről szóló 280/2016. (IX. 21.) Korm. rendelet 2. melléklete a 4. melléklet szerint módosul.

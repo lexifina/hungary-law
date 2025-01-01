@@ -1,0 +1,3 @@
+38. § (1) Emberi fogyasztásra szánt ivóvíz palackozás, kereskedelem vonatkozásában kritikus szervezetként jelölhető ki az az üdítőital-, ásványvízgyártó, -forgalmazó, amely gazdasági célú vízhasználatot végez és lekötött éves vízmennyisége bármely telephelyén meghaladja a 100 000 m3/év mennyiséget, valamint a nettó árbevétele a vizsgálatot megelőző 10 év során bármely évben meghaladta a 10 milliárd forintot.
+
+(2) Emberi fogyasztásra szánt ivóvíz palackozás, kereskedelem vonatkozásában kritikus infrastruktúraként jelölhető ki az olyan eszköz, létesítmény, építmény, berendezés, hálózat, rendszer, vagy ezek része, amely az alapvető szolgáltatás nyújtásához szükséges.

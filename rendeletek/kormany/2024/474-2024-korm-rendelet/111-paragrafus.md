@@ -1,0 +1,13 @@
+## XIV. Fejezet
+
+## PÉNZÜGY ÁGAZAT
+
+## 43. Banki szolgáltatások alágazat kritériumai
+
+111. § (1) Mérlegfőösszeg alapon legalább 10%-os piaci részesedéssel rendelkező hitelintézeti pénzügyi szolgáltatás vonatkozásában kritikus szervezetként jelölhető ki
+
+a) az állam tulajdonában álló, a gazdaság finanszírozását elősegítő szakosított hitelintézet, valamint
+
+b) a Magyarország területén székhellyel rendelkező, a mérlegfőösszeg alapján legalább 10%-os piaci részesedéssel rendelkező hitelintézet.
+
+(2) Mérlegfőösszeg alapon legalább 10%-os piaci részesedéssel rendelkező hitelintézeti pénzügyi szolgáltatás vonatkozásában kritikus infrastruktúraként jelölhető ki az olyan eszköz, létesítmény, építmény, berendezés, hálózat, rendszer, vagy ezek része, amely az alapvető szolgáltatás nyújtásához szükséges.
