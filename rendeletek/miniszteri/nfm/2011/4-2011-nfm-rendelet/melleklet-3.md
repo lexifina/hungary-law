@@ -34,6 +34,6 @@
 
 | 17. | nem lakossági felhasználók esetében | 13,88 | 14,28 | 13,93 | 13,49 |
 
-3. melléklet a 4/2011. (I. 31.) NFM rendelethez[^29]
+3. melléklet a 4/2011. (I. 31.) NFM rendelethez[^30]
 
-[^29]: A 3. mellékletet a 4/2022. (VI. 30.) TIM rendelet 2. § c) pontja hatályon kívül helyezte.
+[^30]: A 3. mellékletet a 4/2022. (VI. 30.) TIM rendelet 2. § c) pontja hatályon kívül helyezte.

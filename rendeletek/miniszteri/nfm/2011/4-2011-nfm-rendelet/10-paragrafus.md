@@ -10,11 +10,11 @@ szerint kell elszámolni.
 
 (2) Ha az idősoros elszámolású közintézmény közszolgáltatás keretében vételez villamos energiát, de igénybejelentésében az e rendelet szerinti árszabások közötti választásra vonatkozóan nem nyilatkozott, akkor a villamosenergia-fogyasztását, az erre vonatkozó nyilatkozatának megtételéig, az „A3” árszabás szerint kell elszámolni.
 
-(3)[^25] A 2020. január 1-ig üzembe helyezett, legalább 3 szezonális fűtési jóságfokú hőszivattyú fogyasztását, az 5. § (4) bekezdésében foglaltak szerinti árszabások alkalmazásával kell elszámolni.
+(3)[^26] A 2020. január 1-ig üzembe helyezett, legalább 3 szezonális fűtési jóságfokú hőszivattyú fogyasztását, az 5. § (4) bekezdésében foglaltak szerinti árszabások alkalmazásával kell elszámolni.
 
-(3a)[^26]
+(3a)[^27]
 
 (4) Ez a rendelet nem érinti a hatálybalépését megelőzően a Hivatal által jóváhagyott olyan „B” árszabást, amelyre a 7. § (2) bekezdésében foglaltak nem vonatkoznak.
 
-[^25]: A 10. § (3) bekezdését a 36/2018. (XII. 21.) ITM rendelet 3. § c) pontja hatályon kívül helyezte, újonnan a 17/2019. (VI. 28.) ITM rendelet 5. §-a iktatta be.
-[^26]: A 10. § (3a) bekezdését a 64/2013. (X. 30.) NFM rendelet 11. § (2) bekezdése iktatta be, hatályon kívül helyezte a 4/2022. (VI. 30.) TIM rendelet 2. § b) pontja.
+[^26]: A 10. § (3) bekezdését a 36/2018. (XII. 21.) ITM rendelet 3. § c) pontja hatályon kívül helyezte, újonnan a 17/2019. (VI. 28.) ITM rendelet 5. §-a iktatta be.
+[^27]: A 10. § (3a) bekezdését a 64/2013. (X. 30.) NFM rendelet 11. § (2) bekezdése iktatta be, hatályon kívül helyezte a 4/2022. (VI. 30.) TIM rendelet 2. § b) pontja.

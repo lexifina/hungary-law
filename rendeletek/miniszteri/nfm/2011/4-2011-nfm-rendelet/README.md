@@ -30,3 +30,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-4-20-2W
 | 2022-07-01 | 2011-4-20-2W.22 | 4/2022. (VI. 30.) TIM rendelet |
 | 2023-05-01 | 2011-4-20-2W.23 | 5/2023. (IV. 28.) EM rendelet |
 | 2024-04-14 | 2011-4-20-2W.24 | 6/2024. (IV. 11.) EM rendelet |
+| 2025-01-01 | 2011-4-20-2W.25 | 40/2024. (XII. 30.) EM rendelet |
