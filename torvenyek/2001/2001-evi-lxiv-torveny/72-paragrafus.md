@@ -2,6 +2,8 @@
 
 (1a) A 71. § (1) bekezdés a) és c) pontja esetében a védettség tényére vonatkozó adatokhoz való hozzáférés nem korlátozható. A védettség tényére vonatkozó adatot nyilvánosan elérhető elektronikus felületen hozzáférhetővé kell tenni.
 
+(1b) A hatóság a 71. § (1) bekezdése szerinti védettség tényére vonatkozó adatok átadásához az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti automatikus információelérési felületet biztosít az építésügyi és építésfelügyeleti hatóságnak az építésfelügyeleti ellenőrzés, szabálytalan építési tevékenységgel kapcsolatos építésrendészeti eljárás lefolytatása céljából.
+
 (2) A nyilvántartás a kulturális örökség elemeinek azonosításához szükséges adatokat és tényeket tartalmazza.
 
 (3) A hatóság a nyilvántartással kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.

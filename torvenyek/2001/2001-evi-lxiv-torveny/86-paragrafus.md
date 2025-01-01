@@ -6,7 +6,7 @@ a) védetté nyilvánított kulturális javak ellenérték mellett történő tu
 
 b) védetté nyilvánított régészeti lelőhelyen fekvő ingatlan esetében akkor, ha ezt a védetté nyilvánító vagy védettséget módosító rendelet kimondja.
 
-(1a)
+(1a) Kulturális javak nyilvános aukción történő értékesítése esetén – azok védettségétől függetlenül – a kultúrstratégiai intézményként működő közgyűjteményeket – gyűjtőköri érintettségük szerint – a Magyar Állam javára gyakorolható elővásárlási jog illeti meg. Ha a gyűjtőkörileg érintett joggyakorló képviselője élni kíván az állami elővásárlási jogával, az árverésen a leütés után haladéktalanul köteles arról nyilatkozni.
 
 (2) Az elővásárlási jog ingatlan-nyilvántartásba történő bejegyzése érdekében a hatóság megkeresi az ingatlanügyi hatóságot.
 
