@@ -8,7 +8,7 @@
 
 (2)[^32] Ha jogszabály másképp nem rendelkezik, a működési engedély kiadására
 
-a)[^33] fekvőbeteg-szakellátást, mentést, betegszállítást, vérellátást, haemodialízist és sejt- és szövetbanki, biobanki, in vitro fertilizáció, klinikai genetikai, genetikai tanácsadási, molekuláris genetikai laboratóriumi diagnosztikai, valamint a fekvő- és járóbeteg-szakellátást – diagnosztikai szolgáltatást is ideértve – egyidejűleg nyújtó egészségügyi szolgáltató és ezen egészségügyi szolgáltató közreműködői esetén – függetlenül attól, hogy a szolgáltató hány telephelyen nyújtja szolgáltatásait – az országos tisztifőorvos,
+a)[^33] fekvőbeteg-szakellátást, mentést, betegszállítást, taktikai medicinát, vérellátást, haemodialízist és sejt- és szövetbanki, biobanki, in vitro fertilizáció, klinikai genetikai, genetikai tanácsadási, molekuláris genetikai laboratóriumi diagnosztikai, valamint a fekvő- és járóbeteg-szakellátást – diagnosztikai szolgáltatást is ideértve – egyidejűleg nyújtó egészségügyi szolgáltató és ezen egészségügyi szolgáltató közreműködői esetén – függetlenül attól, hogy a szolgáltató hány telephelyen nyújtja szolgáltatásait – az országos tisztifőorvos,
 
 b)[^34] alapellátást, otthoni szakápolást, otthoni hospice ellátást, gyógyászati segédeszközökkel kapcsolatos szolgáltatást, intézeten kívüli szülészeti és újszülött-ellátási tevékenységet,, bentlakásos szociális vagy gyermekvédelmi intézményben szervezett egészségügyi ellátást, önálló járóbeteg-szakellátást – ideértve az egynapos sebészeti és a kúraszerűen végezhető ellátásokat – és diagnosztikai szolgáltatást nyújtó egészségügyi szolgáltató és ezen egészségügyi szolgáltató közreműködői esetén a járási hivatal,
 
@@ -45,7 +45,7 @@ jogosult.
 [^30]: A 7. § (1) bekezdése a 325/2011. (XII. 28.) Korm. rendelet 48. § (1) bekezdése szerint módosított szöveg.
 [^31]: A 7. § (1a) bekezdését a 286/2023. (VI. 30.) Korm. rendelet 16. § (1) bekezdése iktatta be.
 [^32]: A 7. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 56. § (1) bekezdésével megállapított szöveg.
-[^33]: A 7. § (2) bekezdés a) pontja a 360/2019. (XII. 30.) Korm. rendelet 28. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^33]: A 7. § (2) bekezdés a) pontja a 360/2019. (XII. 30.) Korm. rendelet 28. § (1) bekezdésével megállapított, a 463/2024. (XII. 30.) Korm. rendelet 21. § a) pontja szerint módosított szöveg.
 [^34]: A 7. § (2) bekezdés b) pontja a 360/2019. (XII. 30.) Korm. rendelet 28. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^35]: A 7. § (2a) bekezdését a 106/2023. (III. 30.) Korm. rendelet 1. §-a iktatta be.
 [^36]: A 7. § (3) bekezdése a 286/2023. (VI. 30.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.

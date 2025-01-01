@@ -18,11 +18,11 @@ f) a bejelentő szolgáltató szünetelő szolgáltatása helyett az egészség�
 
 g) ha a szünetelést bejelentő egészségügyi szolgáltatónál nincs az adott szakmában más, helyettesítési feladatok ellátására alkalmas szervezeti egység, másik, helyettesítésre alkalmas egészségügyi szolgáltató megnevezése.
 
-(3) A (2) bekezdés g) pontjában foglalt, másik egészségügyi szolgáltató által ellátott helyettesítés esetén az egészségügyi szolgáltató megállapodik a helyette ellátást nyújtó helyettesítő egészségügyi szolgáltatóval. A megállapodásban fel kell tüntetni a helyettesítő szolgáltató nevét, helyettesítő szervezeti egység 9 jegyű azonosítóját, megnevezését, a helyettesítő szakmát. A szünetelésről szóló bejelentéshez elektronikus úton feltöltve csatolni kell ezen megállapodást.
+(3)[^151] A (2) bekezdés g) pontjában foglalt, másik egészségügyi szolgáltató által ellátott helyettesítés esetén az egészségügyi szolgáltató megállapodik a helyette ellátást nyújtó helyettesítő egészségügyi szolgáltatóval. A megállapodásban, vagy az ellátás átmeneti nyújtását vállaló egészségügyi szolgáltató erre vonatkozó nyilatkozatában fel kell tüntetni a helyettesítő szolgáltató nevét, helyettesítő szervezeti egység 9 jegyű azonosítóját, megnevezését, a helyettesítő szakmát. A szünetelésről szóló bejelentéshez elektronikus úton feltöltve csatolni kell ezen megállapodást vagy nyilatkozatot.
 
-(4) Az egészségügyi államigazgatási szerv megvizsgálja a (3) bekezdés szerinti megállapodásnak az adott egészségügyi szakmára vonatkozó jogszabályokban foglaltaknak való megfelelését, különös tekintettel arra, hogy az egészségügyi szolgáltatás nyújtását átmenetileg vállaló szolgáltató rendelkezik-e az adott szakma gyakorlására jogosító működési engedéllyel. Ha a (3) bekezdés szerinti megállapodás nem felel meg az adott egészségügyi szakmára vonatkozó jogszabályi előírásoknak, az egészségügyi államigazgatási szerv az (5) bekezdésben foglaltak szerint jár el.
+(4)[^152] Az egészségügyi államigazgatási szerv megvizsgálja a (3) bekezdés szerinti megállapodásnak vagy nyilatkozatnak az adott egészségügyi szakmára vonatkozó jogszabályokban foglaltaknak való megfelelését, különös tekintettel arra, hogy az egészségügyi szolgáltatás nyújtását átmenetileg vállaló szolgáltató rendelkezik-e az adott szakma gyakorlására jogosító működési engedéllyel. Ha a (3) bekezdés szerinti megállapodás vagy nyilatkozat nem felel meg az adott egészségügyi szakmára vonatkozó jogszabályi előírásoknak, az egészségügyi államigazgatási szerv az (5) bekezdésben foglaltak szerint jár el.
 
-(5) Ha a szünetelést bejelentő szolgáltató nem csatolja a szünetelés bejelentéséhez a (3) bekezdés szerinti megállapodást, az egészségügyi államigazgatási szerv dönt az egészségügyi szolgáltatás nyújtását átmenetileg ellátó szolgáltató kijelöléséről. A kijelölésről a kijelölésre kerülő egészségügyi szolgáltató működési engedélyét kiadó egészségügyi államigazgatási szerv dönt.
+(5)[^153] Ha a szünetelést bejelentő szolgáltató nem csatolja a szünetelés bejelentéséhez a (3) bekezdés szerinti megállapodást vagy nyilatkozatot, az egészségügyi államigazgatási szerv dönt az egészségügyi szolgáltatás nyújtását átmenetileg ellátó szolgáltató kijelöléséről. A kijelölésről a kijelölésre kerülő egészségügyi szolgáltató működési engedélyét kiadó egészségügyi államigazgatási szerv dönt.
 
 (6) Ha a szünetelést bejelentő egészségügyi szolgáltató működési engedélyének kiadására
 
@@ -50,3 +50,6 @@ akkor a szünetelést bejelentő szolgáltató tekintetében a működési enged
 
 [^149]: A 18. §-t megelőző alcím az 520/2013. (XII. 30.) Korm. rendelet 35. § g) pontja szerint módosított szöveg.
 [^150]: A 18. § a 286/2023. (VI. 30.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^151]: A 18. § (3) bekezdése a 463/2024. (XII. 30.) Korm. rendelet 21. § b) pontja szerint módosított szöveg.
+[^152]: A 18. § (4) bekezdése a 463/2024. (XII. 30.) Korm. rendelet 21. § c) pontja szerint módosított szöveg.
+[^153]: A 18. § (5) bekezdése a 463/2024. (XII. 30.) Korm. rendelet 21. § d) pontja szerint módosított szöveg.

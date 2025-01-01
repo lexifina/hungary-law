@@ -2,12 +2,12 @@
 
 15/A. §[^131] (1)[^132] Az egészségügyi államigazgatási szerv kérelemre módosítja az érintett egészségügyi szolgáltató működési engedélyét, amennyiben az az egészségügyi szakellátási kapacitások, illetve ellátási területek tárgyában hozott döntés miatt szükséges.
 
-(2)[^133] Az (1) bekezdés szerinti esetben a működési engedély módosítására irányuló eljárás megindítható a szakellátási kapacitás, illetve az ellátási terület tárgyában hozott döntés véglegessé válását megelőzően is, azzal, hogy a működési engedély módosítása tárgyában nem hozható döntés a szakellátási kapacitás, illetve az ellátási terület tárgyában hozott döntés véglegessé válását megelőzően.
+(2)[^133]
 
 (3)[^134] A működési engedély 14. §, 15. §, illetve e § szerinti módosításáról szóló határozatot közölni kell a 11. § (5) bekezdésében felsorolt szervekkel.
 
 [^130]: A 15/A. §-t megelőző alcímet a 107/2012. (VI. 1.) Korm. rendelet 3. §-a iktatta be.
 [^131]: A 15/A. §-t a 107/2012. (VI. 1.) Korm. rendelet 3. §-a iktatta be.
 [^132]: A 15/A. § (1) bekezdése a 286/2023. (VI. 30.) Korm. rendelet 26. § f) pontja szerint módosított szöveg.
-[^133]: A 15/A. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 117. § f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^133]: A 15/A. § (2) bekezdését a 463/2024. (XII. 30.) Korm. rendelet 22. §-a hatályon kívül helyezte.
 [^134]: A 15/A. § (3) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 54. §-a iktatta be.

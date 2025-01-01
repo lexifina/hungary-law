@@ -18,7 +18,7 @@
 
 ## Amennyiben az egészségügyi szolgáltatás nem orvosi vagy ápolási szakma végzésére, illetve kizárólag járóbeteg-szakellátás keretében végzett tevékenységre irányul, a szakmai program tartalmi elemeit a szolgáltatás jellege szerinti értelemszerű alkalmazással kell elkészíteni.
 
-3. melléklet a 96/2003. (VII. 15.) Korm. rendelethez[^187]
+3. melléklet a 96/2003. (VII. 15.) Korm. rendelethez[^190]
 
 Fekvőbeteg-szakellátás
 
@@ -26,7 +26,7 @@ Fekvőbeteg-szakellátás
 
 | .............. (egészségügyi szolgáltató megnevezése, egyedi azonosító száma) | ........... számú melléklet a ........... iktatószámú határozathoz |
 
-| telephely | osztály megnevezése | szervezeti egység azonosítója | szakma neve | szakma- kód | ágyszám | ellátási forma | progresz- szivitási szint | ügyelet/ készenlét | engedély státusza | ellátási körzet |
+| telephely | osztály megnevezése | szervezeti egység azonosítója | szakma neve | szakma- kód | ágyszám | ellátási forma | progresz- szivitási szint | ügyelet/ készenlét | engedély státusza | közfinanszírozott jelleg |
 
 | dátum |
 
@@ -38,7 +38,7 @@ Járóbeteg-szakellátás
 
 | .......... (egészségügyi szolgáltató megnevezése, egyedi azonosító száma) | ........... számú melléklet a ......... iktatószámú határozathoz |
 
-| telephely | szak- rendelés megne- vezése | szervezeti egység azonosító-ja | szakma neve | szakma- kód | szak- orvosi óra | nem szak- orvosi óra | ellátási forma | progresz- szivitási szint | engedély státusza | ellátási körzet |
+| telephely | szak- rendelés megne- vezése | szervezeti egység azonosító-ja | szakma neve | szakma- kód | szak- orvosi óra | nem szak- orvosi óra | ellátási forma | progresz- szivitási szint | engedély státusza | közfinanszírozott jelleg |
 
 | dátum |
 
@@ -50,10 +50,10 @@ Alapellátás
 
 | .......... (egészségügyi szolgáltató megnevezése, egyedi azonosító száma) | ........... számú melléklet a ........... iktatószámú határozathoz |
 
-| telephely | rendelés megne- vezése | szervezeti egység azonosító-ja | szakma neve | szakma-kód | ellátási forma | ügyelet/ készenlét | engedély státusza | ellátási körzet |
+| telephely | rendelés megne- vezése | szervezeti egység azonosító-ja | szakma neve | szakma-kód | ellátási forma | ügyelet/ készenlét | engedély státusza | közfinanszírozott jelleg |
 
 | dátum |
 
 | aláírás |
 
-[^187]: A 3. mellékletet a 325/2011. (XII. 28.) Korm. rendelet 47. (2) bekezdése iktatta be, szövege az 520/2013. (XII. 30.) Korm. rendelet 34. §-ával megállapított szöveg.
+[^190]: A 3. mellékletet a 325/2011. (XII. 28.) Korm. rendelet 47. (2) bekezdése iktatta be, szövege az 520/2013. (XII. 30.) Korm. rendelet 34. §-ával megállapított, a 463/2024. (XII. 30.) Korm. rendelet 21. § e) pontja szerint módosított szöveg.
