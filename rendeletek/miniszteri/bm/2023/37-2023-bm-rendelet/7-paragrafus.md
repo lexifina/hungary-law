@@ -1,1 +1,0 @@
-7. § A 2–5. § szerinti természetbeni ellátás, valamint az esetleges túlellátás fedezetére együttesen – azok együttes összegének mértékéig – a jóváírt 2024. évi ruházati utánpótlási ellátmány összegének legfeljebb 80%-a tartható vissza.
