@@ -1,3 +1,9 @@
-8. §[^9]
+8. § A Támogatási rendelet 1. melléklet 1. pontjában foglalt táblázat
 
-[^9]: A 8. § a 10. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+a) C:33 mezőjében a „424 395 304” szövegrész helyébe a „314 218 304” szöveg;
+
+b) C:53 mezőjében az „589 973 053” szövegrész helyébe a „471 911 053” szöveg;
+
+c) C:87 mezőjében a „14 722 562” szövegrész helyébe a „10 941 562” szöveg
+
+lép.
