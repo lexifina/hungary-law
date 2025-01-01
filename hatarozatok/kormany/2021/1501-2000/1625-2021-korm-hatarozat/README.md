@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-1625-30
 | 2021-12-15 | 2021-1625-30-22.3 | 1914/2021. (XII. 15.) Korm. határozat |
 | 2022-09-05 | 2021-1625-30-22.5 | 1914/2021. (XII. 15.) Korm. határozat |
 | 2022-12-08 | 2021-1625-30-22.6 | 1914/2021. (XII. 15.) Korm. határozat |
+| 2025-01-01 | 2021-1625-30-22.4 | 2011: CXCV. törvény |
