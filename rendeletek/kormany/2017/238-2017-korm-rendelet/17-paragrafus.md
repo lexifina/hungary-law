@@ -1,3 +1,3 @@
-17. §[^57] A képzések fejlesztéséhez, a külszolgálati felkészítő tanfolyamhoz, informatikai támogatáshoz szükséges forrás a 2017–2018. évben, valamint a 2019–2021. évben a KÖFOP-2.1.4-VEKOP-16 azonosító jelű, „A Külgazdasági és Külügyminisztérium humánerőforrás-gazdálkodásának és belső képzési rendszerének fejlesztése” című kiemelt projektből kerül biztosításra.
+17. §[^61] A képzések fejlesztéséhez, a külszolgálati felkészítő tanfolyamhoz, informatikai támogatáshoz szükséges forrás a 2017–2018. évben, valamint a 2019–2021. évben a KÖFOP-2.1.4-VEKOP-16 azonosító jelű, „A Külgazdasági és Külügyminisztérium humánerőforrás-gazdálkodásának és belső képzési rendszerének fejlesztése” című kiemelt projektből kerül biztosításra.
 
-[^57]: A 17. § a 127/2019. (V. 30.) Korm rendelet 10. § k) pontja, a 238/2021. (V. 6.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^61]: A 17. § a 127/2019. (V. 30.) Korm rendelet 10. § k) pontja, a 238/2021. (V. 6.) Korm. rendelet 4. §-a szerint módosított szöveg.

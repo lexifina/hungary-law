@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-238-20-
 | 2021-05-07 | 2017-238-20-22.10 | 238/2021. (V. 6.) Korm. rendelet |
 | 2021-12-10 | 2017-238-20-22.11 | 694/2021. (XII. 9.) Korm. rendelet |
 | 2023-12-06 | 2017-238-20-22.12 | 535/2023. (XII. 5.) Korm. rendelet |
+| 2025-01-01 | 2017-238-20-22.13 | 397/2024. (XII. 16.) Korm. rendelet |
