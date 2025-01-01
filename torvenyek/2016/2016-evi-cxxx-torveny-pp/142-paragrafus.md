@@ -12,6 +12,6 @@
 
 (5) Ha az iratot a (4) bekezdésben meghatározott okokból hirdetmény útján kell kézbesíteni, a hirdetményi kézbesítés szabályait azzal az eltéréssel kell alkalmazni, hogy
 
-a) a hirdetményt nem kell megküldeni kifüggesztés végett a fél utolsó ismert lakóhelye szerinti polgármesteri vagy közös önkormányzati hivatalnak,
+a) a hirdetményt nem kell megküldeni a honlapon való közzététel végett a fél utolsó ismert lakóhelye szerinti polgármesteri vagy közös önkormányzati hivatalnak,
 
 b) a hirdetményben a címzett utolsó ismert lakóhelyét, ennek hiányában tartózkodási helyét kell feltüntetni.

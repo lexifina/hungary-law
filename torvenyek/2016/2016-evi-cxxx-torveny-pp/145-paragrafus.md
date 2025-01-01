@@ -1,10 +1,10 @@
 ### 145. § [A hirdetményi kézbesítés módja, egyéb eljárási szabályok]
 
-(1) A hirdetményt tizenöt napra közzé kell tenni a bíróságok központi internetes honlapján (a továbbiakban: honlap), valamint tizenöt napra ki kell függeszteni a bíróság hirdetőtáblájára és a fél utolsó ismert belföldi lakóhelyén a polgármesteri vagy közös önkormányzati hivatal hirdetőtáblájára. Ha a bíróságnak a fél elektronikus levélcímét bejelentették, a hirdetményt a fél elektronikus levélcímére is meg kell küldeni.
+(1) A hirdetményt tizenöt napra közzé kell tenni a bíróságok központi internetes honlapján (a továbbiakban: honlap), valamint a fél utolsó ismert belföldi lakóhelyén a polgármesteri vagy közös önkormányzati hivatal honlapján. Ha a bíróságnak a fél elektronikus levélcímét bejelentették, a hirdetményt a fél elektronikus levélcímére is meg kell küldeni.
 
 (2) A hirdetmény tartalmazza
 
-a) a honlapon történő közzététel és a bírósági hirdetőtáblán történő kifüggesztés napját,
+a) a honlapon történő közzététel napját,
 
 b) az eljáró bíróság megnevezését,
 
