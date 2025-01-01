@@ -1,1 +1,1 @@
-150. § A Kormány a Nemzeti Adó- és Vámhivatal vezetője feladat- és hatáskörének gyakorlójaként a miniszter által vezetett minisztérium Nemzeti Adó- és Vámhivatal vezetéséért felelős államtitkárát jelöli ki.
+150. §

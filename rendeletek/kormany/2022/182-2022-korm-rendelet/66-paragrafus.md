@@ -1,6 +1,6 @@
 ## 7. A belügyminiszter feladat- és hatásköre
 
-66. § (1)[^50] A belügyminiszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány
+66. § (1)[^53] A belügyminiszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány
 
 1. bűncselekmények megelőzéséért,
 
@@ -10,9 +10,9 @@
 
 4. határrendészetért,
 
-5.[^51]
+5.[^54]
 
-6. idegenrendészetért és menekültügyért,
+6.[^55] a 119/A. §-ban foglalt kivétellel az idegenrendészetért és menekültügyért,
 
 7. katasztrófák elleni védekezésért,
 
@@ -30,23 +30,23 @@
 
 14. külföldiek társadalmi beilleszkedésének elősegítéséért,
 
-15.[^52]
+15.[^56]
 
 16. rendészetért,
 
 17. szabálysértési szabályozásért,
 
-18.[^53]
+18.[^57]
 
 19. terrorizmus elleni küzdelemért,
 
-20.[^54] kéményseprő-ipari tevékenységért,
+20.[^58] kéményseprő-ipari tevékenységért,
 
-21.[^55]
+21.[^59]
 
-22.[^56]
+22.[^60]
 
-23.[^57]
+23.[^61]
 
 24. társadalmi felzárkózásért,
 
@@ -80,11 +80,12 @@ tekintetében a roma nemzetiség vonatkozásában a Kormány nemzetiségpolitik�
 
 (3) A miniszter ellátja a Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvényben meghatározott feladatokat.
 
-[^50]: A 66. § (1) bekezdés nyitó szövegrésze a 238/2022. (VI. 30.) Korm. rendelet 221. § (3) bekezdés a) pontja szerint módosított szöveg.
-[^51]: A 66. § (1) bekezdés 5. pontját az 599/2023. (XII. 22.) Korm. rendelet 42. § j) pontja hatályon kívül helyezte.
-[^52]: A 66. § (1) bekezdés 15. pontját a 172/2024. (VII. 2.) Korm. rendelet 14. § a) pontja hatályon kívül helyezte.
-[^53]: A 66. § (1) bekezdés 18. pontját a 172/2024. (VII. 2.) Korm. rendelet 14. § a) pontja hatályon kívül helyezte.
-[^54]: A 66. § (1) bekezdés 20. pontja az 599/2023. (XII. 22.) Korm. rendelet 41. § a) pontjával megállapított szöveg.
-[^55]: A 66. § (1) bekezdés 21. pontját a 172/2024. (VII. 2.) Korm. rendelet 14. § b) pontja hatályon kívül helyezte.
-[^56]: A 66. § (1) bekezdés 22. pontját a 172/2024. (VII. 2.) Korm. rendelet 14. § b) pontja hatályon kívül helyezte.
-[^57]: A 66. § (1) bekezdés 23. pontját a 172/2024. (VII. 2.) Korm. rendelet 14. § b) pontja hatályon kívül helyezte.
+[^53]: A 66. § (1) bekezdés nyitó szövegrésze a 238/2022. (VI. 30.) Korm. rendelet 221. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^54]: A 66. § (1) bekezdés 5. pontját az 599/2023. (XII. 22.) Korm. rendelet 42. § j) pontja hatályon kívül helyezte.
+[^55]: A 66. § (1) bekezdés 6. pontja a 440/2024. (XII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^56]: A 66. § (1) bekezdés 15. pontját a 172/2024. (VII. 2.) Korm. rendelet 14. § a) pontja hatályon kívül helyezte.
+[^57]: A 66. § (1) bekezdés 18. pontját a 172/2024. (VII. 2.) Korm. rendelet 14. § a) pontja hatályon kívül helyezte.
+[^58]: A 66. § (1) bekezdés 20. pontja az 599/2023. (XII. 22.) Korm. rendelet 41. § a) pontjával megállapított szöveg.
+[^59]: A 66. § (1) bekezdés 21. pontját a 172/2024. (VII. 2.) Korm. rendelet 14. § b) pontja hatályon kívül helyezte.
+[^60]: A 66. § (1) bekezdés 22. pontját a 172/2024. (VII. 2.) Korm. rendelet 14. § b) pontja hatályon kívül helyezte.
+[^61]: A 66. § (1) bekezdés 23. pontját a 172/2024. (VII. 2.) Korm. rendelet 14. § b) pontja hatályon kívül helyezte.

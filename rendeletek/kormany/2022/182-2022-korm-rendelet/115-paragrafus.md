@@ -1,4 +1,4 @@
-115. §[^122] A miniszter a védelmi fejlesztésekért való felelőssége keretében
+115. §[^148] A miniszter a védelmi fejlesztésekért való felelőssége keretében
 
 a) ellátja a kormányközi koordinációt és nemzetközi képviseletet a védelmi és hadfelszerelési fejlesztésekkel kapcsolatos feladatokkal összefüggésben,
 
@@ -10,4 +10,4 @@ d) meghatározza a védelmi és hadfelszerelési fejlesztések irányait,
 
 e) előkészíti a kettős felhasználású termékek és technológiák külkereskedelmi forgalmának engedélyezésére, a haditechnikai eszközök és szolgáltatások kivitelének, behozatalának, transzferjének és tranzitjának engedélyezésére vonatkozó jogszabályokat.
 
-[^122]: A 115. § a 172/2024. (VII. 2.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^148]: A 115. § a 172/2024. (VII. 2.) Korm. rendelet 8. §-ával megállapított szöveg.

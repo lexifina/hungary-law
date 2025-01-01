@@ -18,7 +18,7 @@ h) tárgyalásokat folytat – a Kormány európai uniós források felhasznál�
 
 i) biztosítja az európai uniós fejlesztési programok összehangolt végrehajtását és a programokból nyújtott támogatások igénylésével és felhasználásával kapcsolatos eljárásrend egységes alkalmazását,
 
-j)[^180]
+j)[^203]
 
 k) ellátja a források felhasználásával kapcsolatos partnerségi és tájékoztatási feladatokat,
 
@@ -38,4 +38,4 @@ a) a kohéziós politika tekintetében összehangolja a 2020 utáni európai uni
 
 b) gondoskodik a 2020 utáni európai uniós programozási időszak legmagasabb szintű nemzeti tervezési dokumentumának (Partnerségi Megállapodás) kidolgozásáról.
 
-[^180]: A 182. § (1) bekezdés j) pontját az 599/2023. (XII. 22.) Korm. rendelet 42. § m) pontja hatályon kívül helyezte.
+[^203]: A 182. § (1) bekezdés j) pontját az 599/2023. (XII. 22.) Korm. rendelet 42. § m) pontja hatályon kívül helyezte.

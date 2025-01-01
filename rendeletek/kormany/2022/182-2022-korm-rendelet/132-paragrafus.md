@@ -36,8 +36,8 @@ d) felügyeli a hallgatói és képzési hitelrendszer működtetését,
 
 e) ellátja az „Ösztöndíjprogram Keresztény Fiataloknak” elnevezésű ösztöndíjprogrammal kapcsolatos, jogszabályban meghatározott feladatokat,
 
-f)[^134] együttműködik a Kormány feladatkörében érintett tagjával a köznevelést érintő feladatokban.
+f)[^162] együttműködik a Kormány feladatkörében érintett tagjával a köznevelést érintő feladatokban.
 
 (3) A miniszter a felsőoktatásért való felelőssége keretében a felsőoktatás irányítása vonatkozásában ellátja az 53. § (2) bekezdés e) és f) pontjában feladatokat.
 
-[^134]: A 132. § (2) bekezdés f) pontja a 467/2022. (XI. 21.) Korm. rendelet 16. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^162]: A 132. § (2) bekezdés f) pontja a 467/2022. (XI. 21.) Korm. rendelet 16. § (1) bekezdés b) pontja szerint módosított szöveg.

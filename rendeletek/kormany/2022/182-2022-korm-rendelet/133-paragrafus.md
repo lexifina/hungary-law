@@ -14,7 +14,7 @@ e) ellátja a családbarát közgondolkodás támogatásával kapcsolatos felada
 
 f) együttműködik az egészségügyért felelős miniszterrel a Kormány meddőségkezelési programja ügyében,
 
-g) közreműködik a Kormány otthonteremtési programjának alakításában, a lakáscélú állami támogatásokért felelős miniszterrel, valamint a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszterrel együttműködve,
+g)[^163] közreműködik a Kormány otthonteremtési programjának alakításában, a lakáscélú állami támogatásokért felelős miniszterrel együttműködve,
 
 h) közreműködik az emberkereskedelem elleni küzdelemről szóló stratégia végrehajtásában,
 
@@ -31,3 +31,5 @@ m) együttműködik az egészségügyért felelős miniszterrel a védőnői ell
 (3) A miniszter a 128. § 5. és 6. pontjában meghatározott feladatainak ellátásába bevonja a Családbarát Magyarország Központ Nonprofit Közhasznú Korlátolt Felelősségű Társaságot az állampolgárok számára aktív, kétirányú kommunikációt biztosító ügyfélpont működtetése, továbbá a (2) bekezdés a), b), d), e), j) pontjában meghatározott feladatok támogatása érdekében közreműködői szolgáltatások nyújtása, a család- és idősügyi, illetve nőpolitikai döntések megalapozása és azok hatásainak vizsgálata körében tudományos kutatási tevékenység végzése, képzések és továbbképzések szervezése, szakmai kiadványok kiadása, valamint ezekhez kapcsolódóan fejlesztési feladatok ellátása tekintetében.
 
 (4) A miniszter irányítása alatt álló Kopp Mária Intézet a Népesedésért és Családokért – kutatási és elemzési tevékenység ellátásával – részt vesz a miniszter a (2) bekezdés a), b), valamint d)–i) és k) pontjában meghatározott feladatainak ellátásában.
+
+[^163]: A 133. § (2) bekezdés g) pontja a 440/2024. (XII. 23.) Korm. rendelet 7. §-ával megállapított szöveg.

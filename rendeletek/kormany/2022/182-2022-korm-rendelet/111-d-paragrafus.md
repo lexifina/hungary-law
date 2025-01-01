@@ -1,4 +1,4 @@
-111/D. §[^113] A miniszter – a Kormány feladatkörében érintett tagjával együttműködve – a társadalmi párbeszédért való felelőssége keretében
+111/D. §[^131] A miniszter – a Kormány feladatkörében érintett tagjával együttműködve – a társadalmi párbeszédért való felelőssége keretében
 
 a) összehangolja – a makroszintű társadalmi párbeszéd vonatkozásában – a kormányzati szervek érdekegyeztetéssel kapcsolatos tevékenységét,
 
@@ -8,4 +8,4 @@ c) figyelemmel kíséri a munkaügyi kapcsolatok és az érdekegyeztetés folyam
 
 d) gondoskodik a civil szektorral való kapcsolattartás ágazati politikájának kialakításáról és megvalósításának összehangolásáról.
 
-[^113]: A 111/D. §-t a 467/2022. (XI. 21.) Korm. rendelet 6. §-a iktatta be.
+[^131]: A 111/D. §-t a 467/2022. (XI. 21.) Korm. rendelet 6. §-a iktatta be.

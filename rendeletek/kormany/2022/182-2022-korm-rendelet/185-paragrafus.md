@@ -1,4 +1,4 @@
-185. §[^199] A miniszterek helyettesítése a Kit. 21. § (3) bekezdése szerinti esetben, valamint a Kit. 21. § (4) bekezdése szerinti esetben – törvényben meghatározott kivétellel – a következő rend szerint történik:
+185. §[^223] A miniszterek helyettesítése a Kit. 21. § (3) bekezdése szerinti esetben, valamint a Kit. 21. § (4) bekezdése szerinti esetben – törvényben meghatározott kivétellel – a következő rend szerint történik:
 
 a) a miniszterelnök általános helyettesét a Miniszterelnökséget vezető miniszter,
 
@@ -6,13 +6,13 @@ b) a Miniszterelnökséget vezető minisztert a Miniszterelnöki Kabinetirodát 
 
 c) a Miniszterelnöki Kabinetirodát vezető minisztert a Miniszterelnökséget vezető miniszter,
 
-d) az agrárminisztert a pénzügyminiszter,
+d) az agrárminisztert a nemzetgazdasági miniszter,
 
 e) a belügyminisztert az igazságügyi miniszter,
 
 f) az építési és közlekedési minisztert a Miniszterelnökséget vezető miniszter,
 
-g) a nemzetgazdasági minisztert a pénzügyminiszter,
+g) a nemzetgazdasági minisztert a Miniszterelnöki Kabinetirodát vezető miniszter,
 
 h) a honvédelmi minisztert a külgazdasági és külügyminiszter,
 
@@ -22,14 +22,12 @@ j) a kultúráért és innovációért felelős minisztert a Miniszterelnökség
 
 k) a külgazdasági és külügyminisztert a honvédelmi miniszter,
 
-l) a pénzügyminisztert a nemzetgazdasági miniszter,
+l) az energiaügyi minisztert a közigazgatási és területfejlesztési miniszter,
 
-m) az energiaügyi minisztert a közigazgatási és területfejlesztési miniszter,
+m) a közigazgatási és területfejlesztési minisztert az energiaügyi miniszter,
 
-n) a közigazgatási és területfejlesztési minisztert az energiaügyi miniszter,
-
-o) az európai uniós ügyekért felelős minisztert a Miniszterelnökséget vezető miniszter
+n) az európai uniós ügyekért felelős minisztert a Miniszterelnökséget vezető miniszter
 
 helyettesíti.
 
-[^199]: A 185. § az 599/2023. (XII. 22.) Korm. rendelet 38. §-ával megállapított szöveg.
+[^223]: A 185. § a 440/2024. (XII. 23.) Korm. rendelet 8. §-ával megállapított szöveg.

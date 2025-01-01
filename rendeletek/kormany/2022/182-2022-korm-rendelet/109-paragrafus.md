@@ -2,8 +2,8 @@
 
 a) a versenyképesség feltételeinek megteremtése érdekében folyamatosan figyelemmel kíséri és elemzi a versenyképesség gazdasági és jogi feltételrendszerének működését, a Kormány részére javaslatot dolgoz ki a szükséges intézkedésre,
 
-b)[^107] a versenyképességi szempontok érvényesítése érdekében együttműködik az igazságügyi miniszterrel a gazdaság működését érintő jogszabályok előkészítésében,
+b)[^125] a versenyképességi szempontok érvényesítése érdekében együttműködik az igazságügyi miniszterrel a gazdaság működését érintő jogszabályok előkészítésében,
 
 c) javaslatot tesz a fizetésképtelenségi, reorganizációs és a végelszámolási eljárások egyes kérdéseinek szabályozására.
 
-[^107]: A 109. § b) pontja a 314/2023. (VII. 17.) Korm. rendelet 23. § b) pontja szerint módosított szöveg.
+[^125]: A 109. § b) pontja a 314/2023. (VII. 17.) Korm. rendelet 23. § b) pontja szerint módosított szöveg.

@@ -8,25 +8,25 @@ b) folyamatosan figyelemmel kíséri, elemzi a gazdaságpolitikai lépéseket é
 
 c) javaslatokat tesz a kormány részére a gazdaság versenyképességének és termelékenységének növelésére és gondoskodik ezen feltételek megteremtéséről,
 
-d)[^101] javaslatot készít a Kormány részére a támogatott vállalati hitelprogramok bevezetésére valamint azok módosítására,
+d)[^118] javaslatot készít a Kormány részére a támogatott vállalati hitelprogramok bevezetésére valamint azok módosítására,
 
 e) a gazdaság fenntartható felzárkózását támogató versenyképességi lépések kialakításában együttműködik az érintett minisztériumokkal és szakmai szervezetekkel,
 
 f) elvégzi az állami építőipari projektek minőségbiztosítását.
 
-g)[^102] együttműködik a Magyar Kereskedelmi és Iparkamarával, a Vállalkozók és Munkáltatók Országos Szövetségével, a Gyáriparosok Országos Szövetségével, a Magyar Bankszövetséggel, továbbá a feladatköréhez tartozó egyéb gazdasági kamarákkal.
+g)[^119] együttműködik a Magyar Kereskedelmi és Iparkamarával, a Vállalkozók és Munkáltatók Országos Szövetségével, a Gyáriparosok Országos Szövetségével, a Magyar Bankszövetséggel, továbbá a feladatköréhez tartozó egyéb gazdasági kamarákkal.
 
-h)[^103] makrogazdasági szintű elemzést és előrejelzést készít, amely a Kormány gazdaságpolitikáját támogatja,
+h)[^120] makrogazdasági szintű elemzést és előrejelzést készít, amely a Kormány gazdaságpolitikáját támogatja,
 
-i)[^104] hatástanulmányokat készít, melyek segítségével hozzájárul a Kormány nemzetgazdaságot érintő döntéseinek megalapozásához,
+i)[^121] hatástanulmányokat készít, melyek segítségével hozzájárul a Kormány nemzetgazdaságot érintő döntéseinek megalapozásához,
 
-j)[^105] nyomon követi a hazai makrogazdasági környezet és kilátások szempontjából releváns, a nemzetközi gazdaságpolitikai fórumokon felmerülő aktuális témákat.
+j)[^122] nyomon követi a hazai makrogazdasági környezet és kilátások szempontjából releváns, a nemzetközi gazdaságpolitikai fórumokon felmerülő aktuális témákat.
 
-k)[^106] a hazai tulajdonú vállalatok külföldön történő kifektetéseinek a Magyar Export-Import Bank Zártkörűen Működő Részvénytársaság és a Magyar Exporthitel Biztosító Zártkörűen Működő Részvénytársaság általi elősegítése érdekében stratégiát alkot, valamint finanszírozási feladatokat lát el.
+k)[^123] a hazai tulajdonú vállalatok külföldön történő kifektetéseinek a Magyar Export-Import Bank Zártkörűen Működő Részvénytársaság és a Magyar Exporthitel Biztosító Zártkörűen Működő Részvénytársaság általi elősegítése érdekében stratégiát alkot, valamint finanszírozási feladatokat lát el.
 
-[^101]: A 107. § (2) bekezdés d) pontja a 467/2022. (XI. 21.) Korm. rendelet 17. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^102]: A 107. § (2) bekezdés g) pontját a 467/2022. (XI. 21.) Korm. rendelet 5. §-a iktatta be.
-[^103]: A 107. § (2) bekezdés h) pontját az 599/2023. (XII. 22.) Korm. rendelet 24. §-a iktatta be.
-[^104]: A 107. § (2) bekezdés i) pontját az 599/2023. (XII. 22.) Korm. rendelet 24. §-a iktatta be.
-[^105]: A 107. § (2) bekezdés j) pontját az 599/2023. (XII. 22.) Korm. rendelet 24. §-a iktatta be.
-[^106]: A 107. § (2) bekezdés k) pontját a 172/2024. (VII. 2.) Korm. rendelet 7. § (3) bekezdése iktatta be.
+[^118]: A 107. § (2) bekezdés d) pontja a 467/2022. (XI. 21.) Korm. rendelet 17. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^119]: A 107. § (2) bekezdés g) pontját a 467/2022. (XI. 21.) Korm. rendelet 5. §-a iktatta be.
+[^120]: A 107. § (2) bekezdés h) pontját az 599/2023. (XII. 22.) Korm. rendelet 24. §-a iktatta be.
+[^121]: A 107. § (2) bekezdés i) pontját az 599/2023. (XII. 22.) Korm. rendelet 24. §-a iktatta be.
+[^122]: A 107. § (2) bekezdés j) pontját az 599/2023. (XII. 22.) Korm. rendelet 24. §-a iktatta be.
+[^123]: A 107. § (2) bekezdés k) pontját a 172/2024. (VII. 2.) Korm. rendelet 7. § (3) bekezdése iktatta be.
