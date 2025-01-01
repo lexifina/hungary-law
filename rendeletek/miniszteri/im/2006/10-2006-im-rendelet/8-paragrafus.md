@@ -2,11 +2,11 @@
 
 a) a Jogakadémia képzésszervezést támogató informatikai rendszere útján,
 
-b) postai úton,
+b)[^21]
 
-c)[^21] a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvényben szabályozott elektronikus úton, vagy
+c)[^22] a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvényben szabályozott elektronikus úton, vagy
 
-d) személyesen átadott irat útján
+d)[^23]
 
 nyújthatja be.
 
@@ -27,4 +27,6 @@ szerinti díj befizetését igazoló, a fizetési számla megterhelését tartal
 (6) A Jogakadémia a szakértői névjegyzékbe vétel tényét a szakértői névjegyzék interneten elérhető adatbázisából közvetlen adatlekérdezéssel ellenőrzi.
 
 [^20]: A 8. § a 14/2016. (VI. 29.) IM rendelet 11. §-ával megállapított szöveg.
-[^21]: A 8. § (1) bekezdés c) pontja a 34/2024. (XII. 30.) IM rendelet 1. §-a szerint módosított szöveg.
+[^21]: A 8. § (1) bekezdés b) pontját a 20/2024. (XII. 11.) IM rendelet 2. § b) pontja hatályon kívül helyezte.
+[^22]: A 8. § (1) bekezdés c) pontja a 34/2024. (XII. 30.) IM rendelet 1. §-a szerint módosított szöveg.
+[^23]: A 8. § (1) bekezdés d) pontját a 20/2024. (XII. 11.) IM rendelet 2. § b) pontja hatályon kívül helyezte.

@@ -34,6 +34,6 @@
 
 ## 5. Helyzetgyakorlat.
 
-2. számú melléklet a 10/2006. (III. 7.) IM rendelethez[^81]
+2. számú melléklet a 10/2006. (III. 7.) IM rendelethez[^88]
 
-[^81]: A 2. számú melléklet a 43/2015. (XII. 30.) IM rendelet 5. § (18) bekezdés b) pontjával megállapított szöveg.
+[^88]: A 2. számú melléklet a 43/2015. (XII. 30.) IM rendelet 5. § (18) bekezdés b) pontjával megállapított szöveg.
