@@ -34,9 +34,9 @@ i) a 72/A. § (3), (4), (8) vagy (9) bekezdése szerinti ok áll fenn.
 
 (2b) A (2) bekezdés g) pontja alapján az államigazgatási szerv a kormányzati szolgálati jogviszonyt a 25. § (1) bekezdése alapján azonnali hatállyal megszünteti és az érvénytelenség jogkövetkezményeit alkalmazza,
 
-a) ha a kormánytisztviselő a 42. § (4) bekezdésében foglalt kötelezettségének ismételt szabályszerű felhívásra sem tesz eleget és nem bizonyítja, hogy a kötelezettség elmulasztása menthető okból történt, vagy
+a)
 
-b) ha a foglalkoztatást kizáró és a 42. § (1)–(3) bekezdése alapján vizsgálandó követelményeknek való megfelelést a kormánytisztviselő a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvánnyal nem tudja igazolni vagy a foglalkoztatást kizáró ok egyéb módon a munkáltatói jogkör gyakorlójának a tudomására jut.
+b) ha a foglalkoztatást kizáró és a 42. § (1) és (2) bekezdése alapján vizsgálandó követelményeknek való megfelelést a bűnügyi nyilvántartás nem igazolja vagy a foglalkoztatást kizáró ok egyéb módon a munkáltatói jogkör gyakorlójának a tudomására jut.
 
 (2c) A kormányzati szolgálati jogviszonynak a (2a) bekezdésben meghatározott okból történő megszüntetése esetén a kormánytisztviselőt felmentési idő és végkielégítés nem illeti meg. A megszüntetés okát és jogkövetkezményeit közölni kell a kormánytisztviselővel.
 
