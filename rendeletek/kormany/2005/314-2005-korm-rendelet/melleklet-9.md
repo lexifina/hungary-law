@@ -6,9 +6,9 @@
 
 ## a) az engedélykérő azonosító adatai (KÜJ számmal),
 
-## b)[^347] a létesítmény, tevékenység telepítési helyének jellemzői (KTJ számmal és létesítmény azonosító számmal), állapota,
+## b)[^346] a létesítmény, tevékenység telepítési helyének jellemzői (KTJ számmal és létesítmény azonosító számmal), állapota,
 
-## c)[^348] a létesítmény által igénybe vett terület helyszínrajza a kibocsátó források bejelölésével, egységes országos vetületi rendszer (EOV) koordináták feltüntetésével,
+## c)[^347] a létesítmény által igénybe vett terület helyszínrajza a kibocsátó források bejelölésével, egységes országos vetületi rendszer (EOV) koordináták feltüntetésével,
 
 ## d) a létesítmény, illetve az ott folytatott tevékenység és annak jellemző termelési kapacitása, beleértve a telephelyen lévő műszakilag kapcsolódó létesítményeket,
 
@@ -16,29 +16,29 @@
 
 ## f) a létesítményben, illetve technológiában felhasznált, valamint az ott előállított anyagok, illetve energia jellemzői és mennyiségi adatai,
 
-## g)[^349] a létesítmény kibocsátásainak forrásai,
+## g)[^348] a létesítmény kibocsátásainak forrásai,
 
 ## h) a létesítményből származó kibocsátások minőségi és mennyiségi jellemzői, valamint várható környezeti hatásai a környezeti elemek összességére vonatkozóan,
 
 ## i) a létesítményben folytatott tevékenység hatásterületének meghatározása a szakterületi jogszabályok figyelembevételével, kiemelve az esetleges országhatáron átterjedő hatásokat,
 
-## j)[^350] a létesítményből származó kibocsátás megelőzésére, vagy ha a megelőzés nem lehetséges, a kibocsátás csökkentésére szolgáló technológiai eljárások és egyéb műszaki megoldások, valamint ezeknek a mindenkori elérhető legjobb technikának való megfelelése,
+## j)[^349] a létesítményből származó kibocsátás megelőzésére, vagy ha a megelőzés nem lehetséges, a kibocsátás csökkentésére szolgáló technológiai eljárások és egyéb műszaki megoldások, valamint ezeknek a mindenkori elérhető legjobb technikának való megfelelése,
 
-## k)[^351] a hulladék keletkezésének megelőzésére, valamint a keletkezett hulladék újrahasználatra való előkészítésére, újrafeldolgozására és újrahasznosítására, valamint a nem hasznosítható hulladék környezetszennyezést, illetve -károsítást kizáró módon történő ártalmatlanítására szolgáló megoldás,
+## k)[^350] a hulladék keletkezésének megelőzésére, valamint a keletkezett hulladék újrahasználatra való előkészítésére, újrafeldolgozására és újrahasznosítására, valamint a nem hasznosítható hulladék környezetszennyezést, illetve -károsítást kizáró módon történő ártalmatlanítására szolgáló megoldás,
 
 ## l) minden olyan intézkedést, amely az energiahatékonyságot, a biztonságot, a szennyezések megelőzését, illetve csökkentését szolgálják, különös tekintettel a 17. §-ban meghatározott követelmények teljesülésére,
 
 ## m) a létesítményből származó kibocsátások mérésére (monitoring), folyamatos ellenőrzésére szolgáló módszerek, intézkedések,
 
-## n)[^352] a technológiáknak, technikáknak és intézkedéseknek az engedélykérő által tanulmányozott főbb alternatíváira vonatkozó rövid leírása,
+## n)[^351] a technológiáknak, technikáknak és intézkedéseknek az engedélykérő által tanulmányozott főbb alternatíváira vonatkozó rövid leírása,
 
 ## o) biztosítékadási és céltartalék képzéssel kapcsolatos, külön jogszabályban meghatározott adatokat.
 
-## p)[^353] alapállapot-jelentés,
+## p)[^352] alapállapot-jelentés,
 
-## q)[^354] a 20. § (8) bekezdésében foglaltak esetén az eltérés indokolása.
+## q)[^353] a 20. § (8) bekezdésében foglaltak esetén az eltérés indokolása.
 
-## r)[^355] ha nem volt előzetes vizsgálati vagy környezeti hatásvizsgálati eljárás, a tevékenység helye és területigénye, az igénybe veendő terület használatának jelenlegi és a terület- és településrendezési tervekben rögzített módja.
+## r)[^354] ha nem volt előzetes vizsgálati vagy környezeti hatásvizsgálati eljárás, a tevékenység helye és területigénye, az igénybe veendő terület használatának jelenlegi és a terület- és településrendezési tervekben rögzített módja.
 
 ## B)
 
@@ -48,7 +48,7 @@
 
 ## A 20. § (3) bekezdés esetében a külön jogszabályokban meghatározott engedélyek iránti kérelem tartalmi követelményeit.
 
-## D)[^356]
+## D)[^355]
 
 ## Ha az egységes környezethasználati engedélyezései eljárásra erdő igénybevételével járó beruházáshoz vagy tevékenységhez kapcsolódóan kerül sor, és korábban az erdészeti hatóság igénybevételi vagy elvi igénybevételi eljárása nem került lefolytatásra, a kérelemhez csatolni kell
 
@@ -66,13 +66,13 @@
 
 Az elérhető legjobb technika meghatározásának szempontjai
 
-Az elérhető legjobb technika meghatározásánál különösen a következő szempontokat kell figyelembe venni:[^357]
+Az elérhető legjobb technika meghatározásánál különösen a következő szempontokat kell figyelembe venni:[^356]
 
 1. kevés hulladékot termelő technológia alkalmazása,
 
 2. kevésbé veszélyes anyagok használata,
 
-3.[^358] a folyamatban keletkező és felhasznált anyagok újrahasználatának, és a hulladékok újrafeldolgozásának elősegítése,
+3.[^357] a folyamatban keletkező és felhasznált anyagok újrahasználatának, és a hulladékok újrafeldolgozásának elősegítése,
 
 4. alternatív üzemeltetési folyamatok, berendezések vagy módszerek, amelyeket sikerrel próbáltak ki ipari méretekben,
 
@@ -92,15 +92,15 @@ Az elérhető legjobb technika meghatározásánál különösen a következő s
 
 12. a magyar környezetvédelmi közigazgatási szervek vagy a nemzetközi szervezetek által közzétett információk, továbbá az Európai Bizottság által a tagállamok és az érintett iparágak között az elérhető legjobb technikákról, a kapcsolódó monitoringról és a fejlődésről szervezett információcserének a Bizottság által közzétett tapasztalatai.
 
-[^347]: A 8. melléklet A) rész b) pontja a 480/2013. (XII. 17.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^348]: A 8. melléklet A) pont c) alpontja a 480/2013. (XII. 17.) Korm. rendelet 12. § g) pontja szerint módosított szöveg.
-[^349]: A 8. melléklet A) pont g) alpontja a 480/2013. (XII. 17.) Korm. rendelet 12. § h) pontja szerint módosított szöveg.
-[^350]: A 8. melléklet A) rész j) pontja a 480/2013. (XII. 17.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^351]: A 8. melléklet A) rész k) pontja a 480/2013. (XII. 17.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^352]: A 8. melléklet A) rész n) pontja a 480/2013. (XII. 17.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^353]: A 8. melléklet A) rész p) pontját a 480/2013. (XII. 17.) Korm. rendelet 11. § (2) bekezdése iktatta be.
-[^354]: A 8. melléklet A) rész q) pontját a 480/2013. (XII. 17.) Korm. rendelet 11. § (2) bekezdése iktatta be.
-[^355]: A 8. melléklet A) pont r) alpontját a 60/2023. (II. 28.) Korm. rendelet 10. § b) pontja iktatta be.
-[^356]: A 8. számú melléklet D) pontját a 221/2014. (IX. 4.) Korm. rendelet 310. § c) pontja iktatta be.
-[^357]: A 9. melléklet bevezető szövegrésze a 480/2013. (XII. 17.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg.
-[^358]: A 9. számú melléklet 3. pontja a 441/2012. (XII. 29.) Korm. rendelet 10. § (8) bekezdésével megállapított szöveg.
+[^346]: A 8. melléklet A) rész b) pontja a 480/2013. (XII. 17.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^347]: A 8. melléklet A) pont c) alpontja a 480/2013. (XII. 17.) Korm. rendelet 12. § g) pontja szerint módosított szöveg.
+[^348]: A 8. melléklet A) pont g) alpontja a 480/2013. (XII. 17.) Korm. rendelet 12. § h) pontja szerint módosított szöveg.
+[^349]: A 8. melléklet A) rész j) pontja a 480/2013. (XII. 17.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^350]: A 8. melléklet A) rész k) pontja a 480/2013. (XII. 17.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^351]: A 8. melléklet A) rész n) pontja a 480/2013. (XII. 17.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^352]: A 8. melléklet A) rész p) pontját a 480/2013. (XII. 17.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^353]: A 8. melléklet A) rész q) pontját a 480/2013. (XII. 17.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^354]: A 8. melléklet A) pont r) alpontját a 60/2023. (II. 28.) Korm. rendelet 10. § b) pontja iktatta be.
+[^355]: A 8. számú melléklet D) pontját a 221/2014. (IX. 4.) Korm. rendelet 310. § c) pontja iktatta be.
+[^356]: A 9. melléklet bevezető szövegrésze a 480/2013. (XII. 17.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg.
+[^357]: A 9. számú melléklet 3. pontja a 441/2012. (XII. 29.) Korm. rendelet 10. § (8) bekezdésével megállapított szöveg.

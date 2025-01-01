@@ -40,7 +40,7 @@
 
 | b) termőföldként való további hasznosítás esetében 30 ha-tól |
 
-| 8. | Faültetvény természetességi állapotú erdő telepítése | 30 ha-tól |
+| 8. | Erdő telepítése | Faültetvény természetességi állapotú erdő esetén, 30 ha-tól |
 
 | Halászat |
 
