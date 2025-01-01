@@ -1,6 +1,6 @@
 ## 6. A megfelelőségértékelő szervezetek engedélyezésével kapcsolatos eljárás
 
-12. § (1) A Kibertan.tv. 13. § (4) bekezdése szerinti esetben a megfelelőségértékelő szervezet engedélyezés iránti kérelmet nyújt be a tanúsító hatóságnál.
+12. § (1)[^6] A Kiberbiztonsági tv. 47. § (4) bekezdése szerinti esetben a megfelelőségértékelő szervezet engedélyezés iránti kérelmet nyújt be a tanúsító hatóságnál.
 
 (2) A megfelelőségértékelő szervezet által benyújtott engedélyezés iránti kérelem tartalmazza
 
@@ -18,4 +18,7 @@ b) a miniszteri rendeletben meghatározott igazgatási szolgáltatási díj megf
 
 c) arra vonatkozó nyilatkozatát, hogy a vonatkozó tanúsítási rendszer konkrét vagy kiegészítő követelményeket határozott-e meg, illetve
 
-d) a „magas” megbízhatósági szintű tanúsítványok kiadási jogkörének a kérelmező megfelelőségértékelő szervezet részére történő átruházására irányuló kezdeményezés esetén a nyilatkozatát, hogy a kérelmező, valamint igénybe venni kívánt közreműködője szerepel az Ibtv. szerinti, a sérülékenység vizsgálat lefolytatására jogosult gazdálkodó szervezetek nyilvántartásában.
+d)[^7] a „magas” megbízhatósági szintű tanúsítványok kiadási jogkörének a kérelmező megfelelőségértékelő szervezet részére történő átruházására irányuló kezdeményezés esetén a nyilatkozatát, hogy a kérelmező, valamint igénybe venni kívánt közreműködője szerepel a Kiberbiztonsági tv. szerinti, a sérülékenység vizsgálat lefolytatására jogosult gazdálkodó szervezetek nyilvántartásában.
+
+[^6]: A 12. § (1) bekezdése a 418/2024. (XII. 23.) Korm. rendelet 149. § c) pontja szerint módosított szöveg.
+[^7]: A 12. § (3) bekezdés d) pontja a 418/2024. (XII. 23.) Korm. rendelet 149. § d) pontja szerint módosított szöveg.
