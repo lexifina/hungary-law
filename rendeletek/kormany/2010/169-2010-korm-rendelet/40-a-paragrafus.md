@@ -50,7 +50,7 @@ f) a folyamatos működést szolgáló információ-feldolgozó, infokommunikác
 
 g) az összes funkció újrakezdése időpontjának az üzletmenet-folytonossági eljárás aktiválását követő meghatározásával kapcsolatos szabályokat.
 
-(10) Az eseménykezelési eljárás magában foglalja az előkészületet, az észlelést, a vizsgálatot, az elszigetelést, a megszüntetést és a helyreállítást, továbbá összehangolja az eseménykezelést az üzletmenet-folytonossági eljáráshoz tartozó tevékenységekkel.
+(10)[^197] A kiberbiztonsági incidenskezelési eljárás magában foglalja az előkészületet, az észlelést, a vizsgálatot, az elszigetelést, a megszüntetést és a helyreállítást, továbbá összehangolja a kiberbiztonsági incidenskezelést az üzletmenet-folytonossági eljáráshoz tartozó tevékenységekkel.
 
 (11) A biztonsági kockázatelemzés eredményének értékelése alapján a biztonsági kockázattal arányos módon gondoskodni kell legalább a következőkről:
 
@@ -76,7 +76,8 @@ j) a felderítő, megelőző és helyreállító intézkedések bevezetéséről
 
 (12) A légiközlekedési hatóság a (2)–(11) bekezdésben foglaltak végrehajtásához szükséges szakmai szabályokat a honlapján útmutatóban teszi közzé.
 
-(13)[^197] A légiközlekedési hatóság a kockázatelemzés keretében a kockázatok felmérésére útmutatót tesz közzé a honlapján.
+(13)[^198] A légiközlekedési hatóság a kockázatelemzés keretében a kockázatok felmérésére útmutatót tesz közzé a honlapján.
 
 [^196]: A 26/A. alcímet (40/A. §) a 789/2021. (XII. 27.) Korm. rendelet 42. §-a iktatta be.
-[^197]: A 40/A. § (13) bekezdését a 409/2023. (VIII. 30.) Korm. rendelet 22. §-a iktatta be.
+[^197]: A 40/A. § (10) bekezdése a 418/2024. (XII. 23.) Korm. rendelet 124. § a) pontja szerint módosított szöveg.
+[^198]: A 40/A. § (13) bekezdését a 409/2023. (VIII. 30.) Korm. rendelet 22. §-a iktatta be.
