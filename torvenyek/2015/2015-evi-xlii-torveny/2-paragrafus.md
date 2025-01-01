@@ -12,7 +12,7 @@
 
 4. állománytáblázat: a rendvédelmi szerv szervezeti egységénél rendszeresített szervezeti elemeket, a rendszeresített szolgálati beosztásokat, azok besorolását, az azokban rendszeresített rendfokozatokat, valamint az azok ellátásához szükséges képesítési, képzettségi, végzettségi és egyéb követelményeket meghatározó okmány; az állománytáblázat tartalmazhatja a rendvédelmi szerv által más foglalkoztatási jogviszonyban foglalkoztatott személyekkel betölthető munkakörökre vonatkozó adatokat is;
 
-5. átszervezés: a rendvédelmi szervnél végrehajtott minden olyan, az állománytáblázat módosításával járó szervezési intézkedés, amelynek következtében a hivatásos állomány tagja által betöltött szolgálati beosztás megszűnik, vagy lényeges tartalma – így különösen a szolgálati beosztás besorolása vagy az ahhoz rendelt képesítési, képzettségi, végzettségi követelmények –, vagy a szolgálatteljesítési hely megváltozik; nem minősül átszervezésnek, ha a rendvédelmi szerv egészét vagy érintett szervezeti egységét más rendvédelmi szervvel összevonják vagy annak alárendelik, és ennek következtében a hivatásos állomány tagja más rendvédelmi szerv állományába kerül, feltéve, hogy a szolgálati beosztás lényeges tartalma nem változik;
+5. átszervezés: a rendvédelmi szervnél végrehajtott minden olyan, az állománytáblázat módosításával járó szervezési intézkedés, amelynek következtében a hivatásos állomány tagja által betöltött szolgálati beosztás megszűnik, vagy lényeges tartalma – így különösen a szolgálati beosztás besorolása vagy az ahhoz rendelt képesítési, képzettségi, végzettségi követelmények –, vagy a szolgálatteljesítési hely megváltozik; nem minősül átszervezésnek, ha a rendvédelmi szerv egészét vagy érintett szervezeti egységét más rendvédelmi szervvel összevonják vagy annak alárendelik, és ennek következtében a hivatásos állomány tagja más rendvédelmi szerv állományába kerül, feltéve, hogy a szolgálati beosztás lényeges tartalma nem változik, nem minősül továbbá átszervezésnek – a szolgálati beosztás lényeges tartalmának módosítása nélkül – a szolgálati beosztás megnevezésének módosítása;
 
 6. azonos besorolású szolgálati beosztás: olyan szolgálati beosztás, amely a betöltött szolgálati beosztással azonos besorolási osztályba és besorolási kategóriába tartozik;
 
@@ -56,7 +56,7 @@
 
 24. szervezeti egység: a rendvédelmi szervnek a rendvédelmi szerv szervezeti rendszerében elhelyezkedő, különböző szervezeti elemekből álló, önálló feladatra és működésre létrehozott, meghatározott székhellyel vagy telephellyel rendelkező, az állományilletékes parancsnok által vezetett szervezete;
 
-24a. szerződéses határvadász: az általános rendőrségi feladatok ellátására létrehozott szerv tisztesi rendfokozati állománycsoportba tartozó személyi állományának tagja, aki három éves határozott időre szóló szerződésben vállalja a Rendőrségről szóló 1994. évi XXXIV. törvény 1. § (2) bekezdés 10., 11. és 13. pontjában meghatározott feladatokhoz kapcsolódó rendvédelmi feladatok (a továbbiakban együtt: határvadász feladat) ellátását;
+24a. szerződéses határvadász: az általános rendőrségi feladatok ellátására létrehozott szerv tisztesi rendfokozati állománycsoportba tartozó személyi állományának tagja, aki három éves határozott időre szóló szerződésben vállalja a Rendőrségről szóló 1994. évi XXXIV. törvény 6/A. §-ában meghatározott feladatokhoz kapcsolódó rendvédelmi feladatok (a továbbiakban együtt: határvadász feladat) ellátását;
 
 25. szolgálati beosztás: az állománytáblázatban rendszeresített, a hivatásos állomány tagjával betölthető munkakör;
 

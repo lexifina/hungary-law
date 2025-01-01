@@ -4,4 +4,4 @@
 
 (3) A 369. § 2025. január 1-jén lép hatályba.
 
-(4) A 370. § 2025. január 1-jén lép hatályba.
+(4)

@@ -22,7 +22,7 @@ I. Kiemelt vezetői szolgálati beosztások
 
 ## A) Központi szerv vezetője és központi szerv vezetőjének helyettese
 
-## | | A | B | C | 1. | besorolási kategória | illetmény (Ft) | rendfokozat | 2. | központi szerv vezetője | 1.500.000 – 1.900.000 | tábornok | 3. | központi szerv vezetőjének helyettese | 1.300.000 – 1.650.000 | tábornok
+## | | A | B | C | 1. | besorolási kategória | illetmény (Ft) | rendfokozat | 2. | központi szerv vezetője | 1.500.000–2.500.000 | tábornok | 3. | központi szerv vezetőjének helyettese | 1.300.000–2.100.000 | tábornok
 
 ## B) Területi szerv vezetője
 

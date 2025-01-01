@@ -6,7 +6,7 @@
 
 (4) A rendvédelmi szerv előzetesen írásban tájékoztatja a hivatásos állomány tagját annak a technikai eszköznek az alkalmazásáról, amely az ellenőrzésére szolgál.
 
-(5) A technikai ellenőrzés során rögzített adat csak a rögzítés helyszínén elkövetett bűncselekmény vagy szabálysértés miatt indult eljárás, egyéb jogsértés miatt indult közigazgatási eljárás, a kényszerítő eszköz alkalmazása vagy rendőri intézkedés jogszerűségének vizsgálata, a fegyelmi eljárás vagy a kártérítési eljárás lefolytatása céljából, valamint a hivatásos állomány tagja jogainak gyakorlása érdekében használható fel, és azt a rendvédelmi szerv kizárólag az ezen eljárás lefolytatására jogosult bíróságnak vagy hatóságnak adhatja át.
+(5) A technikai ellenőrzés során rögzített adat csak a rögzítés helyszínén elkövetett bűncselekmény vagy szabálysértés miatt indult eljárás, egyéb jogsértés miatt indult közigazgatási eljárás, a kényszerítő eszköz alkalmazása vagy rendőri intézkedés jogszerűségének vizsgálata, a fegyelmi eljárás vagy a kártérítési eljárás lefolytatása céljából, a megbízhatósági vizsgálat előkészítése vagy lefolytatása során, valamint a hivatásos állomány tagja jogainak gyakorlása érdekében használható fel, és azt a rendvédelmi szerv kizárólag az ezen eljárás lefolytatására jogosult bíróságnak vagy hatóságnak adhatja át.
 
 (6) A technikai ellenőrzés során rögzített adatok legfeljebb a rögzítést követő harminc napig kezelhetőek, ezt követően – ha nem indul azok felhasználásával az (5) bekezdésben meghatározott eljárás – azokat törölni kell. Ha a rögzített adatok alapján az (5) bekezdésben meghatározott eljárás indul, úgy azok kezelésére az alapul szolgáló eljárás szabályait kell alkalmazni.
 

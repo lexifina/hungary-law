@@ -20,7 +20,7 @@ munkanap.
 
 (4) A vezetői pótszabadság mértéke:
 
-a) beosztott vezetői munkakör esetében évente 10,
+a) beosztott vezetői munkakör esetében évente 12,
 
 b) középvezetői és kiemelt vezetői munkakör esetében évente 15
 
@@ -46,7 +46,7 @@ munkanap pótszabadság jár.
 
 (10) Gyermeke születése esetén apasági szabadságként tíz, ikergyermekek esetén tizenöt munkanap pótszabadság illeti meg az apát, amelyet
 
-a) legkésőbb a születést követő második hónap végéig,
+a) legkésőbb a születést követő negyedik hónap végéig,
 
 b) a kérésének megfelelő időpontban, és
 

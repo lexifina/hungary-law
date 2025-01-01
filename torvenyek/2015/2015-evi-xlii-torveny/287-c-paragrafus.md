@@ -34,7 +34,7 @@ c) végkielégítésre nem jogosult, azonban az új jogviszonyában a végkielé
 
 (11b) A terrorizmust elhárító szervnél foglalkoztatott munkavállaló munkaviszonyára a XXXI. Fejezet rendelkezései közül a 124/B. alcím rendelkezéseit alkalmazni kell.
 
-(12) Az általános rendőrségi feladatok ellátására létrehozott szerv az általa a nevelési-oktatási intézmények rendjének fenntartása érdekében foglalkoztatott munkavállalói (a továbbiakban: iskolaőr) vonatkozásában
+(12) Az általános rendőrségi feladatok ellátására létrehozott szerv az általa a nevelési-oktatási intézmény, a technikum, a szakképző iskola, a gyermekotthon, a napközbeni gyermekfelügyelet, a 18 év alatti személyek csoportos, többnapos táboroztatása, üdültetése és egyéb szabadidős foglalkoztatása (e § alkalmazásában a továbbiakban együtt: nevelési-oktatási intézmény) rendjének fenntartása érdekében foglalkoztatott munkavállalói (a továbbiakban: iskolaőr) vonatkozásában
 
 a) hivatalból kiállítja, visszavonja, ideiglenesen bevonja, és nyilvántartja a szolgálati igazolványt,
 
@@ -56,13 +56,27 @@ h) gondoskodik az iskolaőrök elméleti és gyakorlati képzéséről, továbbk
 
 (14) Iskolaőr az a cselekvőképes magyar állampolgár lehet, akinek a vonatkozásában nem áll fenn a (15) bekezdésben meghatározott foglalkoztatást kizáró ok.
 
-(15) Nem lehet iskolaőr, aki
+(15) Nem lehet iskolaőr,
 
-a) a munka törvénykönyvéről szóló 2012. évi I. törvény 24/A. alcímében meghatározott, a munkaviszony létesítésére vonatkozó különös feltételeknek nem felel meg,
+a) aki a munka törvénykönyvéről szóló 2012. évi I. törvény 24/A. alcímében meghatározott, a munkaviszony létesítésére vonatkozó különös feltételeknek nem felel meg,
 
-b) a rendvédelmi szerv hivatásos állománya tagjának foglalkoztatását kizáró foglalkozástól eltiltás hatálya alatt áll.
+b) aki a rendvédelmi szerv hivatásos állománya tagjának foglalkoztatását kizáró foglalkozástól eltiltás hatálya alatt áll,
 
-(16) A jogviszony létesítésekor a (15) bekezdés szerinti alkalmassági feltételeket az érintett igazolja.
+c) akinek az életvitele nem kifogástalan.
+
+(15a) Az iskolaőr foglalkoztatási jogviszonyára a 29. alcím rendelkezéseit alkalmazni kell azzal az eltéréssel, hogy
+
+a) hivatásos állományba jelentkezőn az iskolaőrnek jelentkezőt,
+
+b) szolgálati viszonyon munkaviszonyt,
+
+c) hivatásos állomány tagján az iskolaőrt,
+
+d) állományilletékes parancsnokon a munkáltatói jogkör gyakorlóját
+
+kell érteni.
+
+(16) A jogviszony létesítésekor a (15) bekezdés a) és b) pontja szerinti alkalmassági feltételeket az érintett igazolja.
 
 (17) A (12) bekezdés g) pontja szerinti ellenőrzés során az általános rendőrségi feladatok ellátására létrehozott szerv a bűntettesek nyilvántartásából, a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásából, valamint a büntetőeljárás hatálya alatt állók nyilvántartásából jogosult a (15) bekezdésben meghatározott feltételekre vonatkozó adatokat közvetlen hozzáféréssel átvenni és kezelni.
 
@@ -82,7 +96,7 @@ a) megfelel az e törvényben és a végrehajtására kiadott jogszabályban meg
 
 b) teljesíti a jogszabályban meghatározott pszichológiai alkalmassági és fizikai állóképességi követelményeket.
 
-(22) Az iskolaőr a nevelési, oktatási intézményben az iskolaőri feladatok ellátását akkor kezdheti meg, ha – a munkáltató által meghatározott határidőn, de legfeljebb a munkaviszony létesítésétől számított kilencven napon belül – sikeres iskolaőri vizsgát tett
+(22) Az iskolaőr a nevelési-oktatási intézményben az iskolaőri feladatok ellátását akkor kezdheti meg, ha – a munkáltató által meghatározott határidőn, de legfeljebb a munkaviszony létesítésétől számított kilencven napon belül – sikeres iskolaőri vizsgát tett
 
 a) a törvényben részére meghatározott intézkedések és kényszerítő eszközök alkalmazásával kapcsolatos elméleti ismeretekből, azok gyakorlati alkalmazásából,
 
@@ -97,6 +111,8 @@ c) alapvető pedagógiai és gyermekpszichológiai ismeretekből.
 (25) Az iskolaőr a (23) bekezdésben meghatározott képzés elvégzését követően ötévente kiegészítő képzésen és vizsgán köteles részt venni, amelyek során a jogszabályi változásokból és azok gyakorlati alkalmazhatóságából, valamint a kényszerítő eszközök alkalmazásával kapcsolatos elméleti és gyakorlati ismeretekből tesz vizsgát.
 
 (26) Az iskolaőr elméleti és gyakorlati felkészültségét, valamint fizikai állóképességét a rendőrség kétévente ellenőrzi.
+
+(26a) Az iskolaőr foglalkoztatási jogviszonyát a munkáltató haladéktalanul, azonnali hatállyal megszünteti, ha az iskolaőr életvitele nem kifogástalan. Ebben az esetben az iskolaőr végkielégítésre nem jogosult.
 
 (27) Az általános rendőrségi feladatok ellátására létrehozott szerv az iskolaőr szolgálati igazolványát haladéktalanul
 
@@ -114,7 +130,7 @@ b) bevonja, ha az iskolaőrt a szolgálatellátás alól ideiglenesen felfügges
 
 (28) Ha a (27) bekezdés b) pontjában foglalt esetben a szolgálatellátás felfüggesztésének oka megszűnt, az általános rendőrségi feladatok ellátására létrehozott szerv a szolgálati igazolványt visszaadja.
 
-(29) Az általános rendőrségi feladatok ellátására létrehozott szerv a szolgálati igazolvány visszavonásának vagy bevonásának tényéről a szolgálatteljesítés helyéül kijelölt oktatási-nevelési intézményt haladéktalanul tájékoztatja.
+(29) Az általános rendőrségi feladatok ellátására létrehozott szerv a szolgálati igazolvány visszavonásának vagy bevonásának tényéről a szolgálatteljesítés helyéül kijelölt nevelési-oktatási intézményt haladéktalanul tájékoztatja.
 
 (30) Az iskolaőröket formaruhával és szolgálati jelvénnyel kell ellátni.
 

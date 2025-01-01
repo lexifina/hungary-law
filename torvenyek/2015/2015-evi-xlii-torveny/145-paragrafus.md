@@ -1,6 +1,6 @@
 145. § (1) Gyermeke születése esetén apasági szabadságként tíz munkanap pótszabadság illeti meg az apát, amelyet
 
-a) legkésőbb a születést követő második hónap végéig,
+a) legkésőbb a születést követő negyedik hónap végéig,
 
 b) a kérésének megfelelő időpontban, és
 

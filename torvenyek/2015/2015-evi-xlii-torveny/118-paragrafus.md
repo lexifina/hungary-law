@@ -2,7 +2,7 @@
 
 (2) A fizetési fokozatban történő soros előresorolás esetén az új fizetési fokozatban a fizetési várakozási idő újraindul.
 
-(3) A nem vezetői beosztásból vezetői beosztásba első alkalommal történő kinevezéskor a hivatásos állomány tagját a vezetői besorolási kategória első fizetési fokozatába kell besorolni.
+(3) A nem vezetői beosztásból vezetői beosztásba első alkalommal történő kinevezéskor a hivatásos állomány tagját a vezetői besorolási kategória első fizetési fokozatába kell besorolni. Ha a besorolása a korábbi beosztásához képest alacsonyabb rendfokozatot vagy beosztási illetményt eredményezne, a hivatásos állomány tagját a második vezetői fizetési fokozatba kell besorolni és részére a korábbi rendfokozatának megfelelő rendfokozatot megállapítani, abban az esetben is, ha a 9. mellékletben az adott vezetői fizetési fokozathoz rendszeresített rendfokozat annál alacsonyabb.
 
 (4) A hivatásos állomány vezetői beosztást betöltő tagjának másik, alacsonyabb vagy azonos besorolású vezetői beosztásba helyezésekor fizetési fokozata nem változik, és az adott fizetési fokozatban már eltelt időtartamot továbbra is figyelembe kell venni.
 
