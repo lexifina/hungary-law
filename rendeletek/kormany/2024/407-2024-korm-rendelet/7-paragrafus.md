@@ -1,0 +1,1 @@
+7. § Ha az auditálást kezdeményező kérelmet nem az 5. §-ban meghatározott jogosult terjesztette elő, vagy az nem érinti a miniszter e rendelet szerinti hatáskörét, akkor a miniszter az auditálás mellőzésén túl erről értesíti a kérelem benyújtóját.

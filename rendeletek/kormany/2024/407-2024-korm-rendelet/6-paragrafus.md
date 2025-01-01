@@ -1,0 +1,1 @@
+6. § Az auditálás kezdeményezője a közhiteles nyilvántartást működtető nyilvántartó szervvel együttműködik az auditálás során. Az együttműködés keretében az auditálás kezdeményezője a nyilvántartó szervet bevonhatja az auditálás folyamatába, különösen ha az auditálást kezdeményező kérelemhez, hiánypótláshoz vagy egyeztetéshez szükséges információ miatt indokolt.

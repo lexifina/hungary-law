@@ -1,0 +1,1 @@
+15. § A miniszter gondoskodik az érvényét vesztett tanúsítvány visszavonásáról oly módon, hogy a közzétett tanúsítványra rávezeti az érvényesség megszűnésének időpontját és okát. A visszavont tanúsítvány nyilvánosságát a közzétételre szolgáló online felületen továbbra is biztosítani kell.
