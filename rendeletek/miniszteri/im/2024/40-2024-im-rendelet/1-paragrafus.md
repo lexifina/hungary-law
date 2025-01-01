@@ -1,1 +1,3 @@
-1. § A gondnokoltak és az előzetes jognyilatkozatok nyilvántartása részletes szabályainak megállapításáról szóló 16/2014. (III. 13.) KIM rendelet 12. §-ában az „az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól” szövegrész helyébe az „a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
