@@ -30,7 +30,7 @@ napon archiválni kell.
 
 a) a miniszter, a kereskedelemért felelős miniszter, a fogyasztóvédelemért felelős miniszter és az államháztartásért felelős miniszter,
 
-b) a bíróság, a 18. § (1) bekezdése szerinti fogyasztóvédelmi hatóság, valamint
+b)[^6] a bíróság, a Nemzeti Kereskedelmi és Fogyasztóvédelmi Hatóság, a 18. § (1) bekezdése szerinti fogyasztóvédelmi hatóság, valamint
 
 c) a Központi Statisztikai Hivatal
 
@@ -40,3 +40,4 @@ számára biztosít hozzáférést.
 
 [^4]: A 4. § (1) bekezdés b) pont bb) alpontja a 252/2023. (VI. 22.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^5]: A 4. § (2) bekezdése a 252/2023. (VI. 22.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^6]: A 4. § (5) bekezdés b) pontja a 329/2024. (XI. 14.) Korm. rendelet 1. §-ával megállapított szöveg.
