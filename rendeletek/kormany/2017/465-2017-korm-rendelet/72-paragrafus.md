@@ -1,4 +1,4 @@
-72. §[^76] A telefonos ügyféltájékoztató és ügyintéző rendszere útján az állami adó- és vámhatóság
+72. §[^85] A telefonos ügyféltájékoztató és ügyintéző rendszere útján az állami adó- és vámhatóság
 
 a) az ügyfél egyedi ügyintézés vagy tájékoztatás iránti telefonon előterjesztett kérelme alapján
 
@@ -40,4 +40,4 @@ a) az ügyfél egyedi ügyintézés vagy tájékoztatás iránti telefonon előt
 
 b) a jogszabály által hatáskörébe utalt körben általános adójogi tájékoztatást és informatikai segítséget nyújt.
 
-[^76]: A 72. § a 260/2019. (XI. 7.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^85]: A 72. § a 260/2019. (XI. 7.) Korm. rendelet 11. §-ával megállapított szöveg.
