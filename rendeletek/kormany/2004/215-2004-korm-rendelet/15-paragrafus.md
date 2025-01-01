@@ -10,6 +10,6 @@ a) a fővárosban rendezett sportrendezvényre a fővárosi vezető főorvostól
 
 b) a megyében rendezett sportrendezvényre az illetékes megyei vezető főorvostól
 
-## igényelhető sportegészségügyi ellátás biztosítása.
+igényelhető sportegészségügyi ellátás biztosítása.
 
 (3) A rendeletben foglaltak alapján a sportszövetség versenyszabályzatában vagy a versenykiírásban a sportág, illetőleg a sportrendezvény jellegének, valamint a nemzetközi sportszövetség előírásainak figyelembevételével szabályozza, hogy a sportág sportrendezvényein milyen szintű egészségügyi ellátás szükséges.

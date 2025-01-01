@@ -4,6 +4,6 @@
 
 (2) Versenyezni – a (3) bekezdésben foglaltak kivételével – csak érvényes sportorvosi engedéllyel lehet.
 
-(3)[^4] Biliárd, bridzs, darts, golf, modellezés, sakk, petanque sportágakban, valamint a rádióamatőr sportág gyorstávírász és rádióforgalmazás szakágaiban a versenyzéshez sportorvosi engedély nem szükséges. A versenyző ezen sportágakban és szakágakban sportorvosi vizsgálaton nem köteles részt venni.
+(3)[^6] Biliárd, bridzs, darts, golf, modellezés, sakk, petanque sportágakban, valamint a rádióamatőr sportág gyorstávírász és rádióforgalmazás szakágaiban a versenyzéshez sportorvosi engedély nem szükséges. A versenyző ezen sportágakban és szakágakban sportorvosi vizsgálaton nem köteles részt venni.
 
-[^4]: A 6. § (3) bekezdése a 475/2016. (XII. 27.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^6]: A 6. § (3) bekezdése a 475/2016. (XII. 27.) Korm. rendelet 10. §-ával megállapított szöveg.

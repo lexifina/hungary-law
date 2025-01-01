@@ -14,6 +14,7 @@ e) a nemzeti válogatottak keretorvosi hálózata szakmai tevékenységének ös
 
 f) edzőtáborok és az olimpiai központok sportorvosi ellátásának működtetése;
 
-g) doppingellenőrző laboratórium működtetése.
+g)[^3]
 
 [^2]: A 4. § (1) bekezdése a 475/2016. (XII. 27.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^3]: A 4. § (2) bekezdés g) pontját a 203/2024. (VII. 29.) Korm. rendelet 4. § a) pontja hatályon kívül helyezte.

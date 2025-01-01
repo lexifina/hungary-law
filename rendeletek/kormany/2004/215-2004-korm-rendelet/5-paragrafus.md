@@ -14,6 +14,8 @@ e) ellátja a sportrendezvényeken és szabadidősport eseményeken az előfordu
 
 f) a versenyző lehető legjobb teljesítménye elérése érdekében tájékozódik a tudományosan megalapozott és bizonyítékokon alapuló megengedett teljesítményfokozó módszerekről, és tanácsot ad azok gyakorlati alkalmazására vonatkozóan; továbbá közreműködik az edzéstervek kidolgozásában;
 
-g) a doppingellenes tevékenység keretében megelőző, felvilágosító, nevelő, ellenőrző munkát folytat;
+g)[^4] a doppingellenes tevékenység keretében megelőző, felvilágosító, nevelő munkát folytat;
 
 h) szaktanácsadást végez az egészséges életmód, a táplálkozás és a megfelelő testsúly kialakítása, valamint az emberi szervezet fizikai aktivitásának növelése vonatkozásában.
+
+[^4]: Az 5. § g) pontja a 203/2024. (VII. 29.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
