@@ -20,13 +20,13 @@
 
 10.
 
-11.
+11. 100. § (1) bekezdésében az „A fejezeti kezelésű előirányzatok” szövegrész helyébe az „Az európai uniós alapokból finanszírozott visszatérítendő támogatások folyósítására és a visszatérített támogatások fogadására szolgáló előirányzatok kivételével a fejezeti kezelésű előirányzatok” és az „MVH” szövegrész helyébe az „MNV Zrt.” szöveg,
 
-12.
+12. 100. § (2) és (3) bekezdésében az „MVH” szövegrész helyébe az „MNV Zrt.” szöveg,
 
-13.
+13. 103. § (7) bekezdésében az „a Kormány” szövegrész helyébe a „valamint a fejezeti kezelésű előirányzatok fejezetet irányító szerve a Kormány” szöveg,
 
-14.
+14. 109. § (1) bekezdés 15. pont a) alpontjában a „folyósításának” szövegrész helyébe a „folyósításának, a támogatási előleg összegének” szöveg,
 
 15.
 

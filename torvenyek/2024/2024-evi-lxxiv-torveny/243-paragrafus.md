@@ -1,1 +1,7 @@
-### 243. §
+243. § (1) A különleges gazdasági övezet területén található, a 24. mellékletben felsorolt, a különleges gazdasági övezetről szóló 2020. évi LIX. törvény (a továbbiakban: KGÖ tv.) 2. §-a alapján a vármegye vármegyei önkormányzata tulajdonába került – a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvényben, valamint törvényben meghatározott kötelező közfeladat ellátását szolgáló – közterület, közpark, közút tulajdonjogát 2025. január 1. napján a 24. mellékletben megjelölt települési önkormányzat szerzi meg.
+
+(2) A Göd város közigazgatási területén kijelölt különleges gazdasági övezet létrejöttével Pest Vármegye Önkormányzatának tulajdonába került, Göd város közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerint Göd, külterület 082/3 és 082/5 helyrajzi számú ingatlanok – mivel azok nem az (1) bekezdés szerinti közfeladatok ellátását szolgálják – 2025. január 1. napján az állam tulajdonába kerülnek vissza.
+
+(3) Az (1) bekezdés szerinti ingatlanok tulajdonjogát a települési önkormányzat, a (2) bekezdés szerinti ingatlanok tulajdonjogát az állam az ingatlanok terheivel, és az azokkal kapcsolatos egyéb kötelezettséggel együtt szerzi meg.
+
+(4) Az (1) bekezdés szerinti ingatlanok tulajdonjogát az ingatlan-nyilvántartásba a települési önkormányzat, a (2) bekezdés szerinti ingatlanok tulajdonjogát az állami tulajdonosi joggyakorló megkeresése alapján kell bejegyezni. A megkeresésben meg kell jelölni e törvény tulajdonátruházásra vonatkozó rendelkezéseit.

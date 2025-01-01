@@ -1,1 +1,3 @@
-### 42. §
+42. § A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény a következő 167. §-sal egészül ki:
+
+„167. § 2025. január 1-jétől a területi lefedettséget figyelembe vevő finanszírozási rendszerbe – a rendelkezésre álló kapacitástól függetlenül – törvény erejénél fogva befogadottnak minősül az a krízisközpont, titkos menedékház, valamint félutas ház szolgáltatás, amely után a fenntartó a 2024. október 1-jén hatályos finanszírozási szerződése alapján támogatásra jogosult. A 2025. január 1-jét megelőzően hatályos 145/C. §-a alapján nyújtott állami támogatásra 2024. december 31-ét követően is a 2025. január 1-jét megelőzően hatályos rendelkezéseket kell alkalmazni.”

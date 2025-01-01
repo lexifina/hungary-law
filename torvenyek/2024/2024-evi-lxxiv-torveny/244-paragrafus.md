@@ -1,1 +1,1 @@
-### 244. §
+244. § A Dunaújváros Megyei Jogú Város Önkormányzata tulajdonában álló, az ingatlan-nyilvántartás szerinti, Rácalmás külterület 053/2 és 053/8 helyrajzi számú ingatlanokon Rácalmás Város Önkormányzatának fennálló vagyonkezelői joga 2025. január 1. napján e törvény erejénél fogva megszűnik.
