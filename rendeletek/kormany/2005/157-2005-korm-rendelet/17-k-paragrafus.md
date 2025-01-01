@@ -1,10 +1,10 @@
-17/K. §[^92] (1) A közintézményi felhasználó a Tszt. 51/A. §-a szerinti moratórium (a továbbiakban: moratórium) biztosítását a moratóriummal érintett időszakot (a továbbiakban: moratóriumi időszak) legalább 15 nappal megelőzően kezdeményezi a távhőszolgáltatónál.
+17/K. §[^99] (1) A közintézményi felhasználó a Tszt. 51/A. §-a szerinti moratórium (a továbbiakban: moratórium) biztosítását a moratóriummal érintett időszakot (a továbbiakban: moratóriumi időszak) legalább 15 nappal megelőzően kezdeményezi a távhőszolgáltatónál.
 
 (2) A közintézményi felhasználó a moratórium biztosításának kezdeményezésével egyidejűleg az alábbi dokumentumokkal igazolja, hogy a Tszt. 51/A. §-ában és e rendelet 17/J. §-ában meghatározott feltételeknek megfelel:
 
 a) a 17/J. § a) pont aa) alpontja szerinti közintézményi felhasználó alapító okirattal vagy működési engedéllyel,
 
-b)[^93] a 17/J. § a) pont ab) alpontja szerinti közintézményi felhasználó alapító okirattal vagy működési engedéllyel és hatályos köznevelési szerződéssel, fenntartói megállapodással, illetve együttműködési megállapodással,
+b)[^100] a 17/J. § a) pont ab) alpontja szerinti közintézményi felhasználó alapító okirattal vagy működési engedéllyel és hatályos köznevelési szerződéssel, fenntartói megállapodással, illetve együttműködési megállapodással,
 
 c) a 17/J. § b) pont ba) alpontja szerinti közintézményi felhasználó alapító okirattal vagy működési engedéllyel,
 
@@ -18,5 +18,5 @@ g) a javítóintézet alapító okirattal, és
 
 h) a 17/J. § d) pontja szerinti közintézményi felhasználó hatályos közfinanszírozási szerződéssel.
 
-[^92]: A Vhr. 17/K. §-át a 378/2011. (XII. 31.) Korm. rendelet 81. § (3) bekezdése iktatta be.
-[^93]: A 17/K. § (2) bekezdés b) pontja a 13/2020. (II. 7.) Korm. rendelet 27. § 3. pontja szerint módosított szöveg.
+[^99]: A Vhr. 17/K. §-át a 378/2011. (XII. 31.) Korm. rendelet 81. § (3) bekezdése iktatta be.
+[^100]: A 17/K. § (2) bekezdés b) pontja a 13/2020. (II. 7.) Korm. rendelet 27. § 3. pontja szerint módosított szöveg.

@@ -1,3 +1,3 @@
-25. §[^113] Ez a rendelet a megújuló energiaforrásokból előállított energia használatának előmozdításáról szóló, 2018. december 11-i (EU) 2018/2001 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+25. §[^120] Ez a rendelet a megújuló energiaforrásokból előállított energia használatának előmozdításáról szóló, 2018. december 11-i (EU) 2018/2001 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
-[^113]: A Vhr. 25. §-át a 824/2021. (XII. 28.) Korm. rendelet 1. §-a iktatta be.
+[^120]: A Vhr. 25. §-át a 824/2021. (XII. 28.) Korm. rendelet 1. §-a iktatta be.

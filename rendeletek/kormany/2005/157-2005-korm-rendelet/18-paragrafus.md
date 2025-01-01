@@ -1,6 +1,6 @@
-## Záró rendelkezések[^96]
+## Záró rendelkezések[^103]
 
-18. §[^97]
+18. §[^104]
 
-[^96]: A Vhr. 18. § előtti alcím a 104/2011. (VI. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^97]: A Vhr. 18–19. §-át a 118/2008. (V. 8.) Korm. rendelet 1. § 495. pontja hatályon kívül helyezte.
+[^103]: A Vhr. 18. § előtti alcím a 104/2011. (VI. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^104]: A Vhr. 18–19. §-át a 118/2008. (V. 8.) Korm. rendelet 1. § 495. pontja hatályon kívül helyezte.
