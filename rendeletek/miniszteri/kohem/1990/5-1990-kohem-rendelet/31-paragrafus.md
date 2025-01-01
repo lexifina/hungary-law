@@ -1,14 +1,12 @@
-## 30/C. §[^349] A Muzeális Minősítő Bizottság által 2022. január 1-jét megelőzően kiadott igazolások érvényességét a közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet és a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának részletes szabályairól szóló 24/2005. (IV. 21.) GKM rendelet módosításáról szóló 42/2021. (IX. 8.) ITM rendelet szerinti módosítások hatálybalépése[^350] nem érinti, azok lejáratukig érvényesek.
-
 ## Az Európai Unió jogának való megfelelés[^351]
 
 31. §[^352] (1) Ez a rendelet
 
 1.[^353] a gépjárművek és pótkocsijaik, valamint az ilyen járművek rendszereinek, alkatrészeinek és önálló műszaki egységeinek jóváhagyásáról szóló, 2007. szeptember 5-i 2007/46/EK európai parlamenti és tanácsi irányelvnek, valamint az azt módosító 2010/19/EU bizottsági irányelvnek, 2013/15/EU tanácsi irányelvnek, az 1060/2008/EK, 385/2009/EK, 371/2010/EU, 183/2011/EU, 582/2011/EU, 678/2011/EU, 65/2012/EU, 1229/2012/EU, 1230/2012/EU, 143/2013/EU, 195/2013/EU, az (EU) 2017/1151, az (EU) 2017/1154 és az (EU) 2017/1347 bizottsági rendeletnek, továbbá a 78/2009/EK, 79/2009/EK és 595/2009/EK európai parlamenti és tanácsi rendeletnek, valamint az azt módosító 582/2011/EU bizottsági és a 64/2012/EU bizottsági rendeletnek,
 
-## 2.[^354]
+2.[^354]
 
-## 3.[^355]
+3.[^355]
 
 4.[^356] a gépjárművek és pótkocsijaik időszakos műszaki vizsgálatáról és a 2009/40/EK irányelv hatályon kívül helyezéséről szóló, 2004. április 3-i 2014/45/EU európai parlamenti és tanácsi irányelvnek és helyesbítésének,
 
@@ -50,7 +48,7 @@ való megfelelést szolgálja.
 
 11.[^371] a gumiabroncsok üzemanyag-hatékonyság és más paraméterek tekintetében történő címkézéséről, az (EU) 2017/1369 rendelet módosításáról és az 1222/2009/EK rendelet hatályon kívül helyezéséről szóló, 2020. május 25-i (EU) 2020/740 európai parlamenti és tanácsi rendelet,
 
-12.[^372] – a 15. cikk (2) bekezdése kivételével – a személygépkocsik és a könnyű haszongépjárművek szén-dioxid-kibocsátásával kapcsolatos adatok (EU) 2019/631 európai parlamenti és tanácsi rendelet szerinti nyomon követéséről és bejelentéséről, valamint az 1014/2010/EU, a 293/2012/EU, az (EU) 2017/1152 és az (EU) 2017/1153 bizottsági végrehajtási rendelet hatályon kívül helyezéséről szóló, 2021. március 4-i (EU) 2021/392 bizottsági végrehajtási rendelet,
+12.[^372] a személygépkocsik és a könnyű haszongépjárművek szén-dioxid-kibocsátásával kapcsolatos adatok (EU) 2019/631 európai parlamenti és tanácsi rendelet szerinti nyomon követéséről és bejelentéséről, valamint az 1014/2010/EU, a 293/2012/EU, az (EU) 2017/1152 és az (EU) 2017/1153 bizottsági végrehajtási rendelet hatályon kívül helyezéséről szóló, 2021. március 4-i (EU) 2021/392 bizottsági végrehajtási rendelet,
 
 13.[^373] a 661/2009/EK európai parlamenti és tanácsi rendeletnek az egyes gépjármű-kategóriákra a fejlett vészfékező rendszerek szempontjából vonatkozó típus-jóváhagyási előírások tekintetében történő végrehajtásáról szóló, 2012. április 16-i 347/2012/EU bizottsági rendelet,
 
@@ -118,7 +116,7 @@ való megfelelést szolgálja.
 
 45.[^405] a könnyű személygépjárművek és haszongépjárművek (Euro 5 és Euro 6) kibocsátás tekintetében történő típusjóváhagyásáról és a járműjavítási és -karbantartási információk elérhetőségéről szóló 715/2007/EK európai parlamenti és tanácsi rendelet kiegészítéséről, a 2007/46/EK európai parlamenti és tanácsi irányelv, a 692/2008/EK bizottsági rendelet és az 1230/2012/EU bizottsági rendelet módosításáról, valamint a 692/2008/EK bizottsági rendelet hatályon kívül helyezéséről szóló, 2017. június 1-i (EU) 2017/1151 bizottsági rendelet,
 
-46.[^406] a szabályozási vizsgálati eljárásnak a könnyű haszongépjárművek tekintetében történő változását tükröző megfeleltetési paraméterek meghatározására szolgáló módszertan megállapításáról és a 293/2012/EU végrehajtási rendelet módosításáról szóló 2017. június 2-i (EU) 2017/1152 bizottsági végrehajtási rendelet,
+46.[^406]
 
 47.[^407] a könnyű személygépjárművek és haszongépjárművek (Euro 5 és Euro 6) kibocsátás tekintetében történő típusjóváhagyásáról és a járműjavítási és -karbantartási információk elérhetőségéről szóló 715/2007/EK európai parlamenti és tanácsi rendelet kiegészítéséről, a 2007/46/EK európai parlamenti és tanácsi irányelv, a 692/2008/EK bizottsági rendelet és az 1230/2012/EU bizottsági rendelet módosításáról, valamint a 692/2008/EK rendelet hatályon kívül helyezéséről szóló (EU) 2017/1151 bizottsági rendeletnek és a 2007/46/EK európai parlamenti és tanácsi irányelvnek a könnyű személy- és haszongépjárművek valós vezetési feltételek melletti kibocsátásai (Euro 6) tekintetében történő módosításáról szóló, 2017. június 7-i (EU) 2017/1154 bizottsági rendelet,
 
@@ -148,8 +146,6 @@ való megfelelést szolgálja.
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^349]: A 30/C. §-t a 9/2022. (VIII. 1.) TIM rendelet 12. §-a iktatta be.
-[^350]: A hatálybalépés időpontja 2021. október 9.
 [^351]: A 31. § előtti címet a 125/2005. (XII. 29.) GKM rendelet 2. §-a iktatta be.
 [^352]: A 31. §-t a 12/1998. (V. 22.) KHVM rendelet 19. §-a iktatta be, szövege a 27/2010. (III. 31.) KHEM rendelet 6. §-ával megállapított szöveg.
 [^353]: A 31. § (1) bekezdés 1. pontja a 28/2018. (XI. 15.) ITM rendelet 6. § (1) bekezdésével megállapított szöveg.
@@ -171,7 +167,7 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 [^369]: A 31. § (2) bekezdés 9. pontját a 62/2011. (XI. 29.) NFM rendelet 13. § (3) bekezdése iktatta be, szövege a 30/2014. (VI. 27.) NFM rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^370]: A 31. § (2) bekezdés 10. pontját a 22/2012. (V. 8.) NFM rendelet 10. § (4) bekezdése iktatta be.
 [^371]: A 31. § (2) bekezdés 11. pontját a 65/2012. (XII. 10.) NFM rendelet 7. § (3) bekezdése iktatta be, szövege a 2/2021. (I. 14.) ITM rendelet 2. §-ával megállapított szöveg.
-[^372]: A 31. § (2) bekezdés 12. pontját a 65/2012. (XII. 10.) NFM rendelet 7. § (3) bekezdése iktatta be, szövege a 6/2023. (IV. 5.) ÉKM rendelet 2. §-ával megállapított szöveg.
+[^372]: A 31. § (2) bekezdés 12. pontját a 65/2012. (XII. 10.) NFM rendelet 7. § (3) bekezdése iktatta be, szövege a 26/2023. (XII. 29.) ÉKM rendelet 3. §-ával megállapított szöveg.
 [^373]: A 31. § (2) bekezdés 13. pontját a 65/2012. (XII. 10.) NFM rendelet 7. § (3) bekezdése iktatta be.
 [^374]: A 31. § (2) bekezdés 14. pontját a 65/2012. (XII. 10.) NFM rendelet 7. § (3) bekezdése iktatta be.
 [^375]: A 31. § (2) bekezdés 15. pontját a 65/2012. (XII. 10.) NFM rendelet 7. § (3) bekezdése iktatta be, a 6/2023. (IV. 5.) ÉKM rendelet 4. §-a hatályon kívül helyezte.
@@ -205,7 +201,7 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 [^403]: A 31. § (2) bekezdés 43. pontját az 58/2016. (XII. 23.) NFM rendelet 1. §-a iktatta be.
 [^404]: A 31. § (2) bekezdés 44. pontját az 53/2017. (XII. 22.) NFM rendelet 2. §-a iktatta be.
 [^405]: A 31. § (2) bekezdés 45. pontját a 28/2018. (XI. 15.) ITM rendelet 6. § (2) bekezdése iktatta be.
-[^406]: A 31. § (2) bekezdés 46. pontját a 28/2018. (XI. 15.) ITM rendelet 6. § (2) bekezdése iktatta be.
+[^406]: A 31. § (2) bekezdés 46. pontját a 28/2018. (XI. 15.) ITM rendelet 6. § (2) bekezdése iktatta be, a 26/2023. (XII. 29.) ÉKM rendelet 5. § b) pontja hatályon kívül helyezte.
 [^407]: A 31. § (2) bekezdés 47. pontját a 28/2018. (XI. 15.) ITM rendelet 6. § (2) bekezdése iktatta be.
 [^408]: A 31. § (2) bekezdés 48. pontját a 28/2018. (XI. 15.) ITM rendelet 6. § (2) bekezdése iktatta be.
 [^409]: A 31. § (2) bekezdés 49. pontját a 28/2018. (XI. 15.) ITM rendelet 6. § (2) bekezdése iktatta be.

@@ -1,6 +1,6 @@
 ## A vizsgáló állomásra vonatkozó feltételek[^190]
 
-## 12/B. §[^191] Vizsgáló állomási tevékenységet az a vállalkozás végezhet, amely a következő feltételeknek megfelel:
+12/B. §[^191] Vizsgáló állomási tevékenységet az a vállalkozás végezhet, amely a következő feltételeknek megfelel:
 
 a) a kérelmében meghatározott időtartamban és járműkategóriára (járműtípusra) vonatkozóan folyamatosan végez közlekedésbiztonsági és környezetvédelmi diagnosztikai átvizsgálást,
 

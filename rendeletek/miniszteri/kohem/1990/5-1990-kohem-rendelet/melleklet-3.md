@@ -2,11 +2,11 @@
 
 A jóváhagyási jel leírása
 
-A jóváhagyási jel körbe írt nyomtatott, álló, nagy E betű és a betű után indexként írt – a jóváhagyó államot meghatározó – egy vagy kétjegyű jelzőszám és a kiadásának alapjául szolgáló ENSZ–EGB előírás számjele, az előírás változatának számjele, továbbá egyéb jelzések.
+## A jóváhagyási jel körbe írt nyomtatott, álló, nagy E betű és a betű után indexként írt – a jóváhagyó államot meghatározó – egy vagy kétjegyű jelzőszám és a kiadásának alapjául szolgáló ENSZ–EGB előírás számjele, az előírás változatának számjele, továbbá egyéb jelzések.
 
-A jóváhagyási jel méretéről, a mellette feltüntetendő egyéb jelzésekről és adatokról a vonatkozó ENSZ–EGB előírás, illetőleg a jóváhagyási jel használatát engedélyező határozat rendelkezik.
+## A jóváhagyási jel méretéről, a mellette feltüntetendő egyéb jelzésekről és adatokról a vonatkozó ENSZ–EGB előírás, illetőleg a jóváhagyási jel használatát engedélyező határozat rendelkezik.
 
-Az egyezményben részes államok és jelzőszámaik a következők:
+## Az egyezményben részes államok és jelzőszámaik a következők:
 
 1. Németország
 

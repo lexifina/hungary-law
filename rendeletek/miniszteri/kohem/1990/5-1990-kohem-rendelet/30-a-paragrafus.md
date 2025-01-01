@@ -1,4 +1,4 @@
-## 30/A. §[^343] Az egyes közlekedési tárgyú miniszteri rendeletek módosításáról szóló 28/2018. (XI. 15.) ITM rendelet 3. mellékletével megállapított 11. számú melléklet
+30/A. §[^343] Az egyes közlekedési tárgyú miniszteri rendeletek módosításáról szóló 28/2018. (XI. 15.) ITM rendelet 3. mellékletével megállapított 11. számú melléklet
 
 a)[^344] I. fejezet 2.3.1. és 3.2.3. pontjában meghatározott feltételeket legkésőbb 2022. december 31-ig kell biztosítani,
 

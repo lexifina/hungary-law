@@ -1,5 +1,3 @@
-## 7. § A segédmotoros kerékpár típusvizsgálatára az 5. § (1) bekezdésének a) és b) pontjában foglalt rendelkezéseket kell megfelelően alkalmazni.
-
 ## Típusbizonyítvány érvényességének meghosszabbítása, újabb típusbizonyítvány kiadása
 
 8. §[^90] (1)[^91]

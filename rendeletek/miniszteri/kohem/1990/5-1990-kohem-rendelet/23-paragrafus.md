@@ -1,5 +1,3 @@
-## 22/A. §[^306] A Függelékek hatálya alá tartozó járműtulajdonságok, járműalkatrészek, önálló műszaki egységek és tartozékok jóváhagyására a 21. §, a 22. §, a 25. § és a 26. §-ban foglaltak helyett a Függelékek vonatkozó rendelkezéseit kell alkalmazni.
-
 ## IX. Fejezet
 
 ## EGYES PÓTALKATRÉSZEK ÉS TARTOZÉKOK MINŐSÍTŐ VIZSGÁLATA
@@ -40,7 +38,6 @@ c) a forgalmazónál a műbizonylatok és minőségi tanúsítványok kezelésé
 
 (11)[^315] A közlekedési hatóság által elfogadott intézmény folyamatosan érvényes tanúsítványa szerinti minőségbiztosítási rendszerben gyártott és/vagy forgalmazott pótalkatrészre és tartozékra kiadott minősítő jel használatára vonatkozó engedély visszavonásig érvényes. A minősítő jel használatára vonatkozó engedély egyéb esetben a kibocsátásától számított öt évig, illetve az 1998. január 1. napja előtt kibocsátott engedély 2002. december 31. napjáig érvényes.
 
-[^306]: A 22/A. §-t a 11/2000. (V. 24.) KHVM rendelet 8. §-a iktatta a szövegbe, e módosító rendelet 12. § (2) bekezdésének a) pontja alapján a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napján lép hatályba.
 [^307]: A 23. § a 12/1998. (V. 22.) KHVM rendelet 16. §-ával megállapított szöveg.
 [^308]: A 23. § (1) bekezdése a 28/2018. (XI. 15.) ITM rendelet 4. §-ával megállapított szöveg.
 [^309]: A 23. § (2) bekezdését a 66/2009. (XI. 27.) KHEM rendelet 24. § (3) bekezdés h) pontja hatályon kívül helyezte.
