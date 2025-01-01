@@ -2,7 +2,7 @@
 
 129. § A közjegyzői okiratnak tartalmaznia kell:
 
-a) az eljárás helyét – a közjegyző hivatali helyiségén kívüli eljárása esetén az eljárás helyének pontos megjelölését –, évét, hónapját és napját,
+a) az eljárás helyét – a közjegyzői hivatali helyiségben történő eljárás esetén a hivatali helyiségének (a 30. § szerinti irodájának) címét, a közjegyző hivatali helyiségén kívüli eljárása esetén az eljárás helye azonosításra alkalmas módon történő megjelölését –, évét, hónapját és napját,
 
 b) a közjegyző családi és utónevét, továbbá székhelyét,
 

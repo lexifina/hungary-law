@@ -27,3 +27,5 @@ k) a közjegyző okirat-szerkesztési, az okirat megőrzése iránti, a pénz, �
 l) a közjegyzői vizsga részletes szabályait.
 
 m) az állami kamattámogatással érintett lakáscélú fogyasztói hitel-, illetve kölcsönszerződés és az azt biztosító jelzálogszerződés alapján tett egyoldalú kötelezettségvállaló nyilatkozat közokiratba foglalása esetén alkalmazandó okiratmintát.
+
+n) a nyelvi jogosítvány kiadásának rendjét.

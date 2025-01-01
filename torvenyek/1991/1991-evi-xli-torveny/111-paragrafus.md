@@ -18,7 +18,7 @@
 
 a) legalább minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírással látja el,
 
-b) a Kormány rendeletében meghatározott azonosításra visszavezetett dokumentumhitelesítés szolgáltatással hitelesíti, vagy
+b)
 
 c) olyan aláírással látja el, amely olyan, törvényben vagy kormányrendeletben meghatározott szolgáltatás keretében jött létre, ahol a szolgáltató az okiratot a kiállító azonosításán keresztül a kiállító személyéhez rendeli és a személyhez rendelést a kiállító saját kezű aláírására egyértelműen visszavezethető adattal együtt vagy az alapján hitelesen igazolja; továbbá a szolgáltató az egyértelmű személyhez rendelésről kiállított igazolást elektronikus dokumentumba kapcsolt, elválaszthatatlan záradékba foglalja és azt az okirattal együtt legalább fokozott biztonságú elektronikus bélyegzővel és legalább fokozott biztonságú időbélyegzővel látja el.
 

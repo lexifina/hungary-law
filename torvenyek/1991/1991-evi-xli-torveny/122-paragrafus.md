@@ -1,6 +1,6 @@
 122. § (1) Ha a közjegyző a felet, képviselő útján történő eljárás esetén a képviselőt, illetve a segédszemélyt személyesen nem ismeri, személyazonosságáról és szükség esetén a személyi adatairól köteles meggyőződni
 
-a) saját kezű aláírással és fényképpel ellátott hivatalos igazolványból,
+a) a személyazonosság igazolására alkalmas hatósági igazolványból, vagy a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerint digitálisan kiállított hiteles igazolásból,
 
 b) a közjegyző által személyesen ismert vagy személyazonosságát az a) pont szerint igazoló két azonossági tanú közreműködésével.
 
