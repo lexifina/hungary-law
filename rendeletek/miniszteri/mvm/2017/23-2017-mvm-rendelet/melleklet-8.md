@@ -6,7 +6,7 @@
 
 ## b) az EAK-ban szereplő házassági bejegyzéshez házassági névviselési forma módosítására irányuló adatváltozás anyakönyvezésével,
 
-## c)[^29] anyakönyvi okirat kiállításával,
+## c)[^30] anyakönyvi okirat kiállításával,
 
 ## d) anyakönyvi kivonatokkal végezhető egyéb műveletekkel,
 
@@ -40,13 +40,13 @@
 
 ## 9. Az EAK rendszer működése (jellemzők, okirat-kiállítási funkciók, előállítható okiratok, megszemélyesítetlen anyakönyvi kivonat nyomtatvány igénylése, bevételezése, a nyomdai hibás vagy megrongálódott megszemélyesítetlen anyakönyvi kivonat nyomtatványok érvénytelenítése)
 
-## 10.[^30] A hazai anyakönyvezés története, a hazai anyakönyvezés és a honosítást követő hazai anyakönyvezés elhatárolása, a hazai anyakönyvezési kérelmek átvétele
+## 10.[^31] A hazai anyakönyvezés története, a hazai anyakönyvezés és a honosítást követő hazai anyakönyvezés elhatárolása, a hazai anyakönyvezési kérelmek átvétele
 
 ## 11. Helységnevek, külföldi helységnevek anyakönyvezése, az anyakönyvezés helye, ideje, nyelve
 
 ## 12. Születés hazai anyakönyvezése, születés hazai anyakönyvezése apa adatai nélkül, a külföldön történt örökbefogadás magyarországi elismerése és hazai anyakönyvezése, állampolgárság anyakönyvezése
 
-## 13.[^31] A házasság hazai anyakönyvezése, a házasság megszűnésének esetei, a külföldi bontóítéletek magyarországi elismerhetősége, a külföldön létesített bejegyzett élettársi kapcsolat hazai anyakönyvezése
+## 13.[^32] A házasság hazai anyakönyvezése, a házasság megszűnésének esetei, a külföldi bontóítéletek magyarországi elismerhetősége, a külföldön létesített bejegyzett élettársi kapcsolat hazai anyakönyvezése
 
 ## 14. Külföldön történt haláleset hazai anyakönyvezése, a személyazonosító igazolvány nyilvántartást és a személyiadat- és lakcímnyilvántartást kezelő szerv értesítése haláleset hazai anyakönyvezése esetén
 
@@ -56,9 +56,9 @@
 
 ## 17. A polgárok személyi adatainak és lakcímének nyilvántartása (a nyilvántartás személyi hatálya, adatforrások, a konzul feladatai a nyilvántartás vezetésével kapcsolatosan, a nyilvántartásba vételi eljáráshoz szükséges iratok továbbítása), személyes adatok védelme, közérdekű adatok nyilvánossága
 
-8. melléklet a 23/2017. (VIII. 7.) MvM rendelethez[^32]
+8. melléklet a 23/2017. (VIII. 7.) MvM rendelethez[^33]
 
-[^29]: A 7. melléklet A) pont c) alpontja a 11/2024. (X. 31.) KTM rendelet 4. § c) pontjával megállapított szöveg.
-[^30]: A 7. melléklet B) pont 10. alpontja a 11/2024. (X. 31.) KTM rendelet 5. § f) pontja szerint módosított szöveg.
-[^31]: A 7. melléklet B) pont 13. alpontja a 11/2024. (X. 31.) KTM rendelet 5. § g) pontja szerint módosított szöveg.
-[^32]: A 8. mellékletet a 13/2022. (VIII. 31.) MvM rendelet 8. §-a hatályon kívül helyezte.
+[^30]: A 7. melléklet A) pont c) alpontja a 11/2024. (X. 31.) KTM rendelet 4. § c) pontjával megállapított szöveg.
+[^31]: A 7. melléklet B) pont 10. alpontja a 11/2024. (X. 31.) KTM rendelet 5. § f) pontja szerint módosított szöveg.
+[^32]: A 7. melléklet B) pont 13. alpontja a 11/2024. (X. 31.) KTM rendelet 5. § g) pontja szerint módosított szöveg.
+[^33]: A 8. mellékletet a 13/2022. (VIII. 31.) MvM rendelet 8. §-a hatályon kívül helyezte.

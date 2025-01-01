@@ -28,7 +28,7 @@ b)[^5] az (1) bekezdés b) pontjában meghatározott esetben a külpolitikáért
 
 (8) A jelölt a vizsga napjától számított harmadik nap elteltével, de legfeljebb kilencven napon belül a sikertelen vizsgát megismételheti. Ha a megismételt vizsga is sikertelen, a jelölt további vizsgára nem bocsátható. Ez a rendelkezés nem akadálya újabb szakvizsgára történő jelentkezésnek.
 
-(8a)[^7] Az ismétlő vizsgát a sikertelen általános anyakönyvi szakvizsgát tett jelöltek számára az anyakönyvi ügyekért felelős miniszter által kijelölt Kormányhivatal, illetve a 2. § (1) bekezdés b) és c) pontjában meghatározott esetben a külpolitikáért felelős miniszter által vezetett minisztérium szervezi meg.
+(8a)[^7] Az ismétlő szóbeli vizsgát a sikertelen általános anyakönyvi szakvizsgát tett jelöltek számára az anyakönyvi ügyekért felelős miniszter által kijelölt Kormányhivatal szervezi meg.
 
 (9) A szakvizsga szabályzatát a 2. melléklet tartalmazza.
 
@@ -38,4 +38,4 @@ b)[^5] az (1) bekezdés b) pontjában meghatározott esetben a külpolitikáért
 [^4]: A 2. § (2) bekezdés a) pontja a 13/2022. (VIII. 31.) MvM rendelet 7. § b) pontja szerint módosított szöveg.
 [^5]: A 2. § (2) bekezdés b) pontja a 11/2024. (X. 31.) KTM rendelet 5. § b) pontja szerint módosított szöveg.
 [^6]: A 2. § (4) bekezdése a 13/2022. (VIII. 31.) MvM rendelet 7. § c) pontja szerint módosított szöveg.
-[^7]: A 2. § (8a) bekezdését a 13/2022. (VIII. 31.) MvM rendelet 1. §-a iktatta be.
+[^7]: A 2. § (8a) bekezdését a 13/2022. (VIII. 31.) MvM rendelet 1. §-a iktatta be, szövege a 11/2024. (X. 31.) KTM rendelet 1. §-ával megállapított szöveg.

@@ -20,6 +20,6 @@ d) munkáltatója
 
 5. A vizsga típusa
 
-6.[^21]
+6.[^22]
 
-[^21]: A 3. melléklet 6. pontját a 4/2023. (VIII. 7.) MvM rendelet 4. §-a hatályon kívül helyezte.
+[^22]: A 3. melléklet 6. pontját a 4/2023. (VIII. 7.) MvM rendelet 4. §-a hatályon kívül helyezte.

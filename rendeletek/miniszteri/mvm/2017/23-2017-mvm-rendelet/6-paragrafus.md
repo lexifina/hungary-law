@@ -1,4 +1,4 @@
-## 3.[^14] Konzuli anyakönyvi szakvizsga
+## 3.[^15] Konzuli anyakönyvi szakvizsga
 
 6. § (1) A felkészítő tanfolyam időtartama 40 óra, ezen belül 16 óra a gyakorlati foglalkozások, 24 óra az elméleti felkészítés időtartama. A jelölt a felkészítő tanfolyam alóli indokolt távollétet igazolni köteles.
 
@@ -12,4 +12,4 @@
 
 (6) A konzuli anyakönyvi szakvizsga bizonyítvány érvényességének megszűnésével egyidejűleg a szervező intézkedik a bizonyítvány bevonásáról és érvénytelenítéséről.
 
-[^14]: A 3. alcím (6. §) a 11/2024. (X. 31.) KTM rendelet 3. §-ával megállapított szöveg.
+[^15]: A 3. alcím (6. §) a 11/2024. (X. 31.) KTM rendelet 3. §-ával megállapított szöveg.

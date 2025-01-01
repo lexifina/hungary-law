@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-23-20-6
 | 2023-01-01 | 2017-23-20-6N.4 | 13/2022. (VIII. 31.) MvM rendelet |
 | 2023-08-08 | 2017-23-20-6N.5 | 4/2023. (VIII. 7.) MvM rendelet |
 | 2024-11-05 | 2017-23-20-6N.6 | 11/2024. (X. 31.) KTM rendelet |
+| 2025-01-01 | 2017-23-20-6N.7 | 13/2022. (VIII. 31.) MvM rendelet |
