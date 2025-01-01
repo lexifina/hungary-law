@@ -1,6 +1,6 @@
 ## 57. A politikai nyilatkozatra vonatkozó javaslat tárgyalása
 
-82. §[^182] (1) Politikai nyilatkozatra vonatkozó javaslatot a Kormány, országgyűlési bizottság vagy képviselő terjeszthet elő.
+82. §[^186] (1) Politikai nyilatkozatra vonatkozó javaslatot a Kormány, országgyűlési bizottság vagy képviselő terjeszthet elő.
 
 (2) A politikai nyilatkozat tárgyalása során a törvényjavaslat tárgyalásának általános szabályait kell alkalmazni az ezen alcímben foglalt eltérésekkel, valamint azzal, hogy a 34. § (1) bekezdésében foglalt határidőt nem kell alkalmazni és a 48. § (2) és (4) bekezdése szerinti szavazási kérésre nem kerülhet sor.
 
@@ -22,4 +22,4 @@ c) további módosításra irányuló szándékot fogalmazhat meg.
 
 (8) A részletes vitát a törvényalkotási bizottság lezárja, ezt követően összegző jelentést nyújt be, amelyben tájékoztatást ad a részletes vita lezárásának tényéről, valamint a 44. § (1) és (3) bekezdése szerinti megállapításairól. Ha a törvényalkotási bizottság összegző módosító javaslatot fogadott el, azt az összegző jelentéssel egyidejűleg benyújtja. Ezt követően a törvényalkotási bizottság további összegző módosító javaslatot nem nyújthat be.
 
-[^182]: A 82. § az 54/2019. (XII. 17.) OGY határozat 42. §-ával megállapított szöveg.
+[^186]: A 82. § az 54/2019. (XII. 17.) OGY határozat 42. §-ával megállapított szöveg.

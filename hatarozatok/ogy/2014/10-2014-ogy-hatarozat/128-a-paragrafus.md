@@ -1,4 +1,4 @@
-128/A. §[^229] (1) A 128. § szerinti kezdeményezést a házelnök kiadja az alkotmányügyi kérdésekkel foglalkozó bizottságnak (ezen alcím alkalmazásában a továbbiakban: bizottság).
+128/A. §[^235] (1) A 128. § szerinti kezdeményezést a házelnök kiadja az alkotmányügyi kérdésekkel foglalkozó bizottságnak (ezen alcím alkalmazásában a továbbiakban: bizottság).
 
 (2) A bizottság a kezdeményezés és a tényállás alapján megvizsgálja, hogy a kezdeményezés az Alaptörvényben, illetve a törvényben meghatározott feltételeknek megfelel-e.
 
@@ -18,4 +18,4 @@
 
 (10) A 128. § a)–c) pontja esetén az e § szerinti eljárást úgy kell lefolytatni, hogy a döntés a törvényben meghatározott határidőben meghozható legyen, azzal, hogy ennek érdekében – szükség esetén – rendkívüli ülésszakot vagy rendkívüli ülést kell összehívni.
 
-[^229]: A 128/A. §-t az 54/2019. (XII. 17.) OGY határozat 62. §-a iktatta be.
+[^235]: A 128/A. §-t az 54/2019. (XII. 17.) OGY határozat 62. §-a iktatta be.

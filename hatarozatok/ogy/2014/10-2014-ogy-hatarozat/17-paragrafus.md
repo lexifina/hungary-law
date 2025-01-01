@@ -12,6 +12,6 @@
 
 (4) A házelnök az alelnökök véleményének kikérésével határozza meg, hogy az alelnökök mikor és milyen sorrendben vezetik az Országgyűlés ülését.
 
-(5)[^30] A házelnök és az alelnökök képviselői felszólalásuk esetén a tárgysorozaton lévő ugyanazon önálló indítvány további tárgyalása során a szavazás lezárásáig az ülés vezetésével kapcsolatos feladatokat nem láthatják el, kivéve, ha az Országgyűlés ehhez hozzájárul. A hozzájárulásról az Országgyűlés vita nélkül, kézfelemeléssel határoz.
+(5)[^31]
 
-[^30]: A 17. § (5) bekezdése az 54/2019. (XII. 17.) OGY határozat 8. §-ával megállapított szöveg.
+[^31]: A 17. § (5) bekezdését a 27/2024. (XII. 20.) OGY határozat 14. § a) pontja hatályon kívül helyezte.

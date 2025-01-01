@@ -1,22 +1,12 @@
-## Az Országgyűlésről szóló 2012. évi XXXVI. törvény 49/A. § (1)–(5) bekezdése, valamint a határozati házszabályi rendelkezések 25/A. § (1) bekezdése szerint .................................................................................. képviselőt megbízom, hogy a 20..................................................................................-én elrendelt kitiltásom teljes időtartama alatt az Országgyűlés nyílt szavazásain a nevemben – szándékom szerint – szavazzon.
-
-## Budapest, 20.................................................
-
-## .................................................................................. ..................................................................................
-
-## megbízó megbízott
-
-## * A képviselőcsoporthoz tartozó kitiltott képviselő a szavazati jogának az Országgyűlés ülésén történő gyakorlása érdekében a kitiltása teljes időtartamára a képviselőcsoport vezetője részére adhat képviseleti megbízást [az Országgyűlésről szóló 2012. évi XXXVI. törvény 49/A. § (2) bekezdése alapján]. A kitiltott képviselőcsoport-vezető a szavazati jogának az Országgyűlés ülésén történő gyakorlása érdekében vezetőhelyettese részére adhat megbízást [az Országgyűlésről szóló 2012. évi XXXVI. törvény 49/A. § (3) bekezdése alapján]. A kitiltott független képviselő a szavazati jogának az Országgyűlés ülésén történő gyakorlása érdekében kitiltása teljes időtartamára egy képviselő részére adhat képviseleti megbízást [az Országgyűlésről szóló 2012. évi XXXVI. törvény 49/A. § (4) bekezdése alapján].
-
-## A kitiltott képviselő képviseleti megbízást csak a nyílt szavazás esetére adhat, a titkos szavazáson csak személyesen gyakorolhatja szavazati jogát [az Országgyűlésről szóló 2012. évi XXXVI. törvény 49/A. § (1) és (7) bekezdése alapján].
-
-2. melléklet a 10/2014. (II. 24.) OGY határozathoz[^305]
+2. melléklet a 10/2014. (II. 24.) OGY határozathoz[^295]
 
 Az Országgyűlés iromány-nyilvántartásában szereplő nem önálló indítványok
 
 1. Ajánlás a köztársasági elnök jelölésére vonatkozó ajánlás érvénytelenségének megállapítására /4. melléklet 1. pont 1.3. alpontja és az Országgyűlésről szóló törvény 11. § (1) bekezdés l) pontja/
 
 2. Alkotmánybíróság visszaküldő levele alaptörvény-ellenesség miatt /79. § (1) bekezdése/
+
+2a.[^296] Alkotmánybíróság levele Alaptörvénnyel való összhang megállapításáról /Alaptörvény 6. cikk (3) bekezdése/
 
 3. Állami Számvevőszék véleménye /91. § (1) bekezdése/
 
@@ -56,7 +46,7 @@ Az Országgyűlés iromány-nyilvántartásában szereplő nem önálló indítv
 
 21. Bizottsági jelentés részletes vitáról /45. § (6) bekezdése, 68. § (5) bekezdése/
 
-22.[^306] Bizottsági nyilatkozat részletes vita lefolytatásáról /84. § (7) és (7a) bekezdése, 102. § (6) bekezdése/
+22.[^297] Bizottsági nyilatkozat részletes vita lefolytatásáról /84. § (7) és (7a) bekezdése, 102. § (6) bekezdése/
 
 23. Bizottsági vélemény Országgyűlés által választott közjogi tisztségviselőre tett személyi javaslatról /az Országgyűlésről szóló törvény 44. § (3) bekezdése/
 
@@ -94,6 +84,8 @@ Az Országgyűlés iromány-nyilvántartásában szereplő nem önálló indítv
 
 40. Elfogadott és Alkotmánybírósághoz megküldött normakontroll-javaslat /76. § (15) bekezdése/
 
+40a.[^298] Elfogadott és az Alkotmánybíróságnak megküldött törvény /76. § (15) bekezdése/
+
 41. Előterjesztő nyilatkozata a 97. § (1) bekezdése szerinti zárószavazás előtti módosító javaslat benyújtásáról /96. § (2) bekezdése/
 
 42. Előterjesztői tájékoztató /46. § (1) bekezdése, 92. § (6) bekezdése/
@@ -126,7 +118,7 @@ Az Országgyűlés iromány-nyilvántartásában szereplő nem önálló indítv
 
 56. Kiegészítő előterjesztői tájékoztató /71. § (4) bekezdés b) pontja/
 
-57.[^307] Kiegészítő összegző jelentés /71. § (5) bekezdés b) pontja, 71. § (6) bekezdése/
+57.[^299] Kiegészítő összegző jelentés /71. § (5) bekezdés b) pontja, 71. § (6) bekezdése/
 
 58. Kiegészítő összegző módosító javaslat /71. § (5) bekezdés c) pontja/
 
@@ -144,7 +136,7 @@ Az Országgyűlés iromány-nyilvántartásában szereplő nem önálló indítv
 
 65. Költségvetési Tanács véleménye költségvetési törvényjavaslatról vagy egységes költségvetési törvényjavaslatról /96. § (1) bekezdés a) pontja/
 
-65a.[^308] Költségvetési Tanács véleményezésére nyitva álló határidő – Gst. 26. §-a szerinti – eredménytelen elteltének házelnöki megállapítása /96. § (1) bekezdés b) pontja/
+65a.[^300] Költségvetési Tanács véleményezésére nyitva álló határidő – Gst. 26. §-a szerinti – eredménytelen elteltének házelnöki megállapítása /96. § (1) bekezdés b) pontja/
 
 66. Költségvetési törvényjavaslatnak a 97. § szerinti eljárásban elfogadott módosító javaslattal egybeszerkesztett, a Költségvetési Tanácsnak megküldött szövege /98. § (1) bekezdés a) pontja/
 
@@ -155,6 +147,8 @@ Az Országgyűlés iromány-nyilvántartásában szereplő nem önálló indítv
 69. Költségvetési törvényjavaslatnak az összegző módosító javaslat elfogadott pontjaival módosított, a Költségvetési Tanácsnak megküldött szövege /95. § (2) bekezdés a) pontja/
 
 70. Költségvetési törvényjavaslatnak az összegző módosító javaslat elfogadott pontjaival módosított szövegének a 97. § szerinti eljárásban elfogadott módosító javaslattal egybeszerkesztett, a Költségvetési Tanácsnak megküldött szövege /98. § (1) bekezdés a) pontja/
+
+70a.[^301] Köztársasági elnök levele az Alaptörvénnyel való összhang Alkotmánybíróság általi megállapításáról /Alaptörvény 6. cikk (7) bekezdése/
 
 71. Köztársasági elnök megfontolásra visszaküldő levele /78. § (1) bekezdése/
 
@@ -204,9 +198,9 @@ Az Országgyűlés iromány-nyilvántartásában szereplő nem önálló indítv
 
 94. Országgyűlés döntésének megfelelő egységes javaslat /72. § (9) bekezdése/
 
-95.[^309] Összegző jelentés /46. § (7) bekezdése, 62. § (9) bekezdése, 82. § (8) bekezdése, 93. § (1) bekezdése/
+95.[^302] Összegző jelentés /46. § (7) bekezdése, 62. § (9) bekezdése, 82. § (8) bekezdése, 93. § (1) bekezdése/
 
-96.[^310] Összegző módosító javaslat /46. § (5) bekezdése, 48. § (7a) bekezdése, 62. § (8) bekezdése, 82. § (7) bekezdése, 93. § (1) bekezdése/
+96.[^303] Összegző módosító javaslat /46. § (5) bekezdése, 48. § (7a) bekezdése, 62. § (8) bekezdése, 82. § (7) bekezdése, 93. § (1) bekezdése/
 
 97. Részletes vitát lezáró bizottsági módosító javaslat /45. § (5) bekezdése, 92. § (6) bekezdése/
 
@@ -244,9 +238,12 @@ Az Országgyűlés iromány-nyilvántartásában szereplő nem önálló indítv
 
 114. Zárószavazást előkészítő módosító javaslat /52. §/
 
-[^305]: A 2. melléklet az 54/2019. (XII. 17.) OGY határozat 76. § (3) bekezdésével megállapított szöveg.
-[^306]: A 2. melléklet 22. pontja a 36/2022. (VII. 22.) OGY határozat 27. §-ával megállapított szöveg.
-[^307]: A 2. melléklet 57. pontja a 36/2022. (VII. 22.) OGY határozat 27. §-ával megállapított szöveg.
-[^308]: A 2. melléklet 65a. pontját a 36/2022. (VII. 22.) OGY határozat 27. §-a iktatta be.
-[^309]: A 2. melléklet 95. pontja a 36/2022. (VII. 22.) OGY határozat 27. §-ával megállapított szöveg.
-[^310]: A 2. melléklet 96. pontja a 36/2022. (VII. 22.) OGY határozat 27. §-ával megállapított szöveg.
+[^295]: A 2. melléklet az 54/2019. (XII. 17.) OGY határozat 76. § (3) bekezdésével megállapított szöveg.
+[^296]: A 2. melléklet 2a. pontját a 27/2024. (XII. 20.) OGY határozat 12. §-a iktatta be.
+[^297]: A 2. melléklet 22. pontja a 36/2022. (VII. 22.) OGY határozat 27. §-ával megállapított szöveg.
+[^298]: A 2. melléklet 40a. pontját a 27/2024. (XII. 20.) OGY határozat 12. §-a iktatta be.
+[^299]: A 2. melléklet 57. pontja a 36/2022. (VII. 22.) OGY határozat 27. §-ával megállapított szöveg.
+[^300]: A 2. melléklet 65a. pontját a 36/2022. (VII. 22.) OGY határozat 27. §-a iktatta be.
+[^301]: A 2. melléklet 70a. pontját a 27/2024. (XII. 20.) OGY határozat 12. §-a iktatta be.
+[^302]: A 2. melléklet 95. pontja a 36/2022. (VII. 22.) OGY határozat 27. §-ával megállapított szöveg.
+[^303]: A 2. melléklet 96. pontja a 36/2022. (VII. 22.) OGY határozat 27. §-ával megállapított szöveg.

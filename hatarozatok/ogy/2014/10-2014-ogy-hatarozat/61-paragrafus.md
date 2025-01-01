@@ -28,9 +28,9 @@ irányuló indítvány tárgyalásánál.
 
 (6) A kivételes eljárás során a törvényjavaslat tárgyalásának általános szabályait kell alkalmazni az ezen alcímben foglalt eltérésekkel és azzal, hogy a 48. § (2) és (4) bekezdése szerinti szavazási kérésre nem kerülhet sor.
 
-(7)[^149] Ha a miniszterelnök a Kormány által benyújtott előterjesztés kivételes eljárásban történő tárgyalása során indítványozza, hogy az előterjesztés feletti szavazás egyben bizalmi szavazás is legyen, az indítvány benyújtását követően a törvényjavaslat tárgyalását a törvényjavaslat tárgyalásának általános szabályai és a 129. § szerint újra meg kell kezdeni, erről a házelnök haladéktalanul tájékoztatja a képviselőket, a nemzetiségi szószólókat és az Országgyűlés ülésén tanácskozási joggal rendelkező személyeket. Ebben az esetben a 34. § (1) bekezdését nem lehet alkalmazni.
+(7)[^152] Ha a miniszterelnök a Kormány által benyújtott előterjesztés kivételes eljárásban történő tárgyalása során indítványozza, hogy az előterjesztés feletti szavazás egyben bizalmi szavazás is legyen, az indítvány benyújtását követően a törvényjavaslat tárgyalását a törvényjavaslat tárgyalásának általános szabályai és a 129. § szerint újra meg kell kezdeni, erről a házelnök haladéktalanul tájékoztatja a képviselőket, a nemzetiségi szószólókat és az Országgyűlés ülésén tanácskozási joggal rendelkező személyeket. Ebben az esetben a 34. § (1) bekezdését nem lehet alkalmazni.
 
-(8)[^150] Ha a kivételes eljárás során a törvényalkotási bizottság olyan összegző módosító javaslatot vagy túlterjeszkedő módosító javaslatot nyújt be, amely a (4) bekezdés b)–d) és g) pontjában foglaltak valamelyikére irányul, a további eljárásra a törvényjavaslat tárgyalásának általános szabályait – a g) pontban foglalt módosítás esetén a 100. § (4) bekezdése szerinti eltérésekkel – kell alkalmazni.
+(8)[^153] Ha a kivételes eljárás során a törvényalkotási bizottság olyan összegző módosító javaslatot vagy túlterjeszkedő módosító javaslatot nyújt be, amely a (4) bekezdés b)–d) és g) pontjában foglaltak valamelyikére irányul, a további eljárásra a törvényjavaslat tárgyalásának általános szabályait – a g) pontban foglalt módosítás esetén a 100. § (4) bekezdése szerinti eltérésekkel – kell alkalmazni.
 
-[^149]: A 61. § (7) bekezdése a 36/2022. (VII. 22.) OGY határozat 28. § 17. pontja szerint módosított szöveg.
-[^150]: A 61. § (8) bekezdése a 21/2014. (VI. 3.) OGY határozat 7. §-ával megállapított szöveg.
+[^152]: A 61. § (7) bekezdése a 36/2022. (VII. 22.) OGY határozat 28. § 17. pontja szerint módosított szöveg.
+[^153]: A 61. § (8) bekezdése a 21/2014. (VI. 3.) OGY határozat 7. §-ával megállapított szöveg.

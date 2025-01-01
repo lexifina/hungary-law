@@ -1,4 +1,4 @@
-30. §[^58] (1) Az irományokat a házelnökhöz címezve kell benyújtani.
+30. §[^61] (1) Az irományokat a házelnökhöz címezve kell benyújtani.
 
 (2) Az irományokat – eltérő határozati házszabályi rendelkezés hiányában –
 
@@ -20,4 +20,4 @@ b) a Házbizottság által az Országgyűlésről szóló törvény 11. § (1) b
 
 nyújtottak be, az előterjesztő kézjegyével, ellenjegyzésével ellátott irománynak minősül, amennyiben a benyújtáshoz alkalmazott elektronikus rendszer a benyújtót előterjesztőként azonosítja.
 
-[^58]: A 30. § az 54/2019. (XII. 17.) OGY határozat 16. §-ával megállapított szöveg.
+[^61]: A 30. § az 54/2019. (XII. 17.) OGY határozat 16. §-ával megállapított szöveg.

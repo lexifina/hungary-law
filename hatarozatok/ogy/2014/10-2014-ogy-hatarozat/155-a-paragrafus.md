@@ -1,4 +1,4 @@
-## 97/A. [^287] Az Országgyűlés és az országgyűlési bizottságok üléseiről való távolmaradás igazolásával kapcsolatos eljárás
+## 97/A. [^277] Az Országgyűlés és az országgyűlési bizottságok üléseiről való távolmaradás igazolásával kapcsolatos eljárás
 
 155/A. § (1) Ha a képviselőcsoporthoz tartozó képviselő az Országgyűlés adott hónapban tartott ülésének vagy – több ülés esetén – üléseinek napirendi javaslatban feltüntetett, szavazatszámláló gép alkalmazásával megtartott szavazásainak több mint egynegyedén nem vett részt, a képviselőcsoport vezetője dönt a távolmaradás igazolásáról, és döntéséről tájékoztatja a házelnököt.
 
@@ -20,4 +20,4 @@ d) amelynek okáról szóló tájékoztatást a független képviselő nem, vagy
 
 (6) Az (1)–(5) bekezdésben foglaltakat – figyelemmel az Országgyűlésről szóló törvény 107. § (7) bekezdésére – a házelnök, valamint az Országgyűlés alelnökei és jegyzői tekintetében nem kell alkalmazni.
 
-[^287]: A 97/A. alcímet (155/A–155/C. §) az 54/2019. (XII. 17.) OGY határozat 71. §-a iktatta be.
+[^277]: A 97/A. alcímet (155/A–155/C. §) az 54/2019. (XII. 17.) OGY határozat 71. §-a iktatta be.

@@ -1,4 +1,4 @@
-## 8/A. [^32] Az azonos létszámú képviselőcsoportok felszólalási sorrendje
+## 8/A. [^33] Az azonos létszámú képviselőcsoportok felszólalási sorrendje
 
 17/B. § (1) Ha határozati házszabályi rendelkezés a képviselői felszólalások sorrendjét a képviselőcsoport tagjainak száma alapján határozza meg, és egyidejűleg több azonos létszámú képviselőcsoport működik, a felszólalási sorrendjüket az e §-ban foglaltak szerint kell megállapítani.
 
@@ -10,4 +10,4 @@
 
 (5) A képviselőcsoportok tagjai számának egyezővé válása és a felszólalási sorrend (3) vagy (4) bekezdés szerinti megállapítása közötti időtartamban az ülést vezető elnök a felszólalásra jelentkezés sorrendjében ad szót.
 
-[^32]: A 8/A. alcímet (17/B. §) az 54/2019. (XII. 17.) OGY határozat 10. §-a iktatta be.
+[^33]: A 8/A. alcímet (17/B. §) az 54/2019. (XII. 17.) OGY határozat 10. §-a iktatta be.

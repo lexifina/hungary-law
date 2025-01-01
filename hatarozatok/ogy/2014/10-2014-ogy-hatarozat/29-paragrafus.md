@@ -4,7 +4,7 @@
 
 (2) A házelnök az irományra nézve formanyomtatvány alkalmazását rendelheti el.
 
-(3)[^55] A házelnök indokolt döntésével visszautasítja azt az irományt,
+(3)[^58] A házelnök indokolt döntésével visszautasítja azt az irományt,
 
 a) amelyet nem az (1)–(2) bekezdésnek megfelelően nyújtottak be, vagy
 
@@ -16,4 +16,4 @@ b) amely az Országgyűlés tekintélyét sérti.
 
 (6) A (4) bekezdés szerinti kérelem hiányában, vagy ha a házszabályi rendelkezések értelmezéséért felelős bizottság eseti jellegű állásfoglalásában, illetve az Országgyűlés az Országgyűlésről szóló törvény 61. § (5) bekezdése szerinti eljárásában megállapítja, hogy az iromány visszautasításának volt helye, a visszautasított iromány nem tárgyalható és lezártnak minősül.
 
-[^55]: A 29. § (3) bekezdés nyitó szövegrésze az 54/2019. (XII. 17.) OGY határozat 77. § 4. pontja szerint módosított szöveg.
+[^58]: A 29. § (3) bekezdés nyitó szövegrésze az 54/2019. (XII. 17.) OGY határozat 77. § 4. pontja szerint módosított szöveg.

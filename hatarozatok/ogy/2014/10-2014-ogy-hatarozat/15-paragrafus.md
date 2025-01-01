@@ -24,9 +24,12 @@ d) amely az Országgyűlés tekintélyét sérti.
 
 (6) A napirendi javaslat megváltoztatására tett javaslatról és a napirendi javaslatról az Országgyűlés vita nélkül, kézfelemeléssel határoz. Elfogadott napirend hiányában a napirendi javaslat egyetlen pontja sem tárgyalható.
 
-(7)[^29] Ha a házszabályi rendelkezésekben előírt feltételek nem teljesülnek, a napirendi pont tárgyalására vagy a napirendi pont szerinti döntéshozatalra nem kerül sor, és az külön döntés nélkül lekerül a napirendről. A hiányzó feltételeket és a napirend módosulását az ülést vezető elnök ismerteti, és kezdeményezi a (2) bekezdés szerint szükséges intézkedések megtételét.
+(6a)[^29] Az Országgyűlés nem határoz a napirendi javaslat kiegészítésére tett javaslatról, ha az tárgysorozatban nem lévő indítvány napirendre vételére irányul.
+
+(7)[^30] Ha a házszabályi rendelkezésekben előírt feltételek nem teljesülnek, a napirendi pont tárgyalására vagy a napirendi pont szerinti döntéshozatalra nem kerül sor, és az külön döntés nélkül lekerül a napirendről. A hiányzó feltételeket és a napirend módosulását az ülést vezető elnök ismerteti, és kezdeményezi a (2) bekezdés szerint szükséges intézkedések megtételét.
 
 [^26]: A 15. § (4) bekezdése az 54/2019. (XII. 17.) OGY határozat 77. § 3. pontja szerint módosított szöveg.
 [^27]: A 15. § (4a) bekezdését az 54/2019. (XII. 17.) OGY határozat 7. § (1) bekezdése iktatta be.
 [^28]: A 15. § (4b) bekezdését az 54/2019. (XII. 17.) OGY határozat 7. § (1) bekezdése iktatta be.
-[^29]: A 15. § (7) bekezdését az 54/2019. (XII. 17.) OGY határozat 7. § (2) bekezdése iktatta be.
+[^29]: A 15. § (6a) bekezdését a 27/2024. (XII. 20.) OGY határozat 1. §-a iktatta be.
+[^30]: A 15. § (7) bekezdését az 54/2019. (XII. 17.) OGY határozat 7. § (2) bekezdése iktatta be.

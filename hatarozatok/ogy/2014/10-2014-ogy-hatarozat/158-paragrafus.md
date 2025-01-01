@@ -24,7 +24,7 @@
 
 11. Jegyzőkönyv közszemlére tétele: az ülésről készült hitelesített jegyzőkönyvnek – az ülés résztvevői számára történő – határozott idejű hozzáférhetővé tétele.
 
-12.[^294] Kérdés: a képviselőnek az Alaptörvény 7. cikk (1) és (2) bekezdésén, a nemzetiségi szószólónak az Országgyűlésről szóló törvény 29. § (4) bekezdésén alapuló, a házszabályi rendelkezésekben meghatározott módon benyújtott és tárgyalt, az Országgyűlés döntését nem igénylő, felvilágosításkérés céljából feltett kérdése.
+12.[^284] Kérdés: a képviselőnek az Alaptörvény 7. cikk (1) és (2) bekezdésén, a nemzetiségi szószólónak az Országgyűlésről szóló törvény 29. § (4) bekezdésén alapuló, a házszabályi rendelkezésekben meghatározott módon benyújtott és tárgyalt, az Országgyűlés döntését nem igénylő, felvilágosításkérés céljából feltett kérdése.
 
 13. Kötött tárgyalási rendű vita: az időkeretes, valamint minden olyan további vita, amelyben a képviselői felszólalási jog nem gyakorolható korlátlanul.
 
@@ -40,7 +40,7 @@
 
 19. Nemzetiségek érdekeit, jogait érintő napirendi pont: olyan napirendi pont, amelyet a Házbizottság az Országgyűlésről szóló törvény 11. § (1) bekezdés b) pontja alapján ekként határozott meg.
 
-20.[^295] Nemzetiségi képviselő: az országgyűlési képviselők választásáról szóló 2011. évi CCIII. törvény alapján nemzetiségi listáról mandátumot szerző képviselő, akire – a nemzetiségek érdekeit, jogait érintő napirendi pont tárgyalásán kívül – a független képviselőre vonatkozó rendelkezéseket kell alkalmazni.
+20.[^285] Nemzetiségi képviselő: az országgyűlési képviselők választásáról szóló 2011. évi CCIII. törvény alapján nemzetiségi listáról mandátumot szerző képviselő, akire – a nemzetiségek érdekeit, jogait érintő napirendi pont tárgyalásán kívül – a független képviselőre vonatkozó rendelkezéseket kell alkalmazni.
 
 21. Országgyűlési Napló: az Országgyűlés nyilvános üléséről készült, a jegyzők által hitelesített és az Országgyűlés honlapján közzétett jegyzőkönyv.
 
@@ -56,5 +56,5 @@
 
 27. Ülésnap napirendje: egy adott ülésnapon tárgyalt napirendi pontok összessége.
 
-[^294]: A 158. § 12. pontja a 36/2022. (VII. 22.) OGY határozat 28. § 9. pontja szerint módosított szöveg.
-[^295]: A 158. § 20. pontja az 54/2019. (XII. 17.) OGY határozat 74. §-ával megállapított, a 36/2022. (VII. 22.) OGY határozat 28. § 28. pontja szerint módosított szöveg.
+[^284]: A 158. § 12. pontja a 36/2022. (VII. 22.) OGY határozat 28. § 9. pontja szerint módosított szöveg.
+[^285]: A 158. § 20. pontja az 54/2019. (XII. 17.) OGY határozat 74. §-ával megállapított, a 36/2022. (VII. 22.) OGY határozat 28. § 28. pontja szerint módosított szöveg.

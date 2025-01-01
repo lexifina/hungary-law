@@ -1,6 +1,6 @@
 ## 95. Az Országgyűlés kifogása
 
-144. §[^250] (1) Az európai uniós ügyekkel foglalkozó bizottság az Európai Tanácsnak az EUSz 48. cikk (7) bekezdése szerinti kezdeményezését, valamint az Európai Bizottságnak az EUMSz 81. cikk (3) bekezdése szerinti javaslatát megvizsgálja.
+144. §[^256] (1) Az európai uniós ügyekkel foglalkozó bizottság az Európai Tanácsnak az EUSz 48. cikk (7) bekezdése szerinti kezdeményezését, valamint az Európai Bizottságnak az EUMSz 81. cikk (3) bekezdése szerinti javaslatát megvizsgálja.
 
 (2) Ha az európai uniós ügyekkel foglalkozó bizottság álláspontja szerint a kezdeményezéssel, illetve a javaslattal szemben indokolt az EUSz 48. cikk (7) bekezdése, illetve az EUMSz 81. cikk (3) bekezdése szerinti kifogás megtétele, a kifogás megtétele feltételeinek fennállásáról jelentést, valamint a jelentés elfogadására vonatkozó határozati javaslatot nyújt be.
 
@@ -18,4 +18,4 @@ d) az Országgyűlés a jelentésről a határozati javaslat elfogadásával dö
 
 (5) A jelentés elfogadását követően a kifogást a házelnök haladéktalanul továbbítja az Európai Tanács elnökének, illetve az Európai Unió Tanácsának, és egyidejűleg erről a Kormányt is tájékoztatja.
 
-[^250]: A 144. § az 54/2019. (XII. 17.) OGY határozat 68. §-ával megállapított szöveg.
+[^256]: A 144. § az 54/2019. (XII. 17.) OGY határozat 68. §-ával megállapított szöveg.

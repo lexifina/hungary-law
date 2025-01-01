@@ -1,4 +1,4 @@
-## 86/A. [^233] Az Országgyűlés által megválasztott közjogi tisztségviselőkkel kapcsolatos eljárási szabályok
+## 86/A. [^239] Az Országgyűlés által megválasztott közjogi tisztségviselőkkel kapcsolatos eljárási szabályok
 
 129/A. § Az ezen alcímben foglaltakat az Alaptörvény vagy törvény alapján az Országgyűlés által megválasztott – az Országgyűlés tisztségviselőjének, bizottsági tisztségviselőjének vagy bizottsági tagjának nem minősülő – közjogi tisztségviselő tekintetében, az Országgyűlés következő hatásköreinek gyakorlására irányuló kezdeményezés benyújtása esetén – törvény eltérő rendelkezése hiányában – kell alkalmazni:
 
@@ -20,4 +20,4 @@ h) a megbízatás megszűnésének megállapítása, kimondása az a)–g) pontb
 
 azzal, hogy az e § szerinti kezdeményezésnek minősül az Alaptörvényben vagy törvényben az adott kezdeményezésre, indítványozásra vagy javaslattételre jogosultként megjelölt által a házelnökhöz előterjesztett kezdeményezés, indítvány vagy javaslat.
 
-[^233]: A 86/A. alcímet (129/A–129/B. §.) az 54/2019. (XII. 17.) OGY határozat 63. §-a iktatta be.
+[^239]: A 86/A. alcímet (129/A–129/B. §.) az 54/2019. (XII. 17.) OGY határozat 63. §-a iktatta be.
