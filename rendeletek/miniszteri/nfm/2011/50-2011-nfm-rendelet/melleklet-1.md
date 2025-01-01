@@ -76,7 +76,7 @@
 
 | 36. | Gyöngyös | Veolia Energia Magyarország Zrt. | Városgondozási Zrt. | 0 | 7 091 |
 
-| 37. | Győr | Arrabona Koncessziós Kft. | GYŐR-SZOL Zrt. | 289 215 000 | 957 |
+| 37. | Győr | Arrabona Koncessziós Kft. | GYŐR-SZOL Zrt. | 179 038 000[^30] | 957 |
 
 | 38. | Győr | ALTEO-Therm Kft. | GYŐR-SZOL Zrt. | 287 000 | 6 481 |
 
@@ -102,9 +102,9 @@
 
 | 49. | Mátészalka | Geotherm FIRE Kft. | SZALKATÁVHŐ Kft. | 0 | 7 094 |
 
-| 50. | Miskolc | Miskolci Geotermia Kft. | MIHŐ Kft. | 154 956 000 | 881 |
+| 50. | Miskolc | Miskolci Geotermia Kft. | MIHŐ Kft. | 95 925 000[^31] | 881 |
 
-| 51. | Miskolc | Kuala Kft. | MIHŐ Kft. | 154 956 000 | 881 |
+| 51. | Miskolc | Kuala Kft. | MIHŐ Kft. | 95 925 000[^32] | 881 |
 
 | 52. | Miskolc | MVM MIFŰ Kft. – Hold u. hrsz. 23358/9 és Tatár u. 29/a. hrsz. 23358/8 | MIHŐ Kft. | 92 714 000 | 8 760 |
 
@@ -156,7 +156,7 @@
 
 | 76. | Százhalombatta | Veolia Energia Magyarország Zrt. | “SZÁKOM” Nonprofit Kft. | 31 019 000 | 8 037 |
 
-| 77. | Szentlőrinc | Szentlőrinci Geotermia Kft. | Szentlőrinci Közüzemi Nonprofit Kft. | 9 925 000 | 304 |
+| 77. | Szentlőrinc | Szentlőrinci Geotermia Kft. | Szentlőrinci Közüzemi Nonprofit Kft. | 6 144 000[^33] | 304 |
 
 | 78. | Szeged | Geo Hőterm Kft. | Szegedi Távfűtő Kft. | 0 | 6 595 |
 
@@ -213,3 +213,7 @@
 | 8. | Egyéb | 3 000 |
 
 [^29]: Az 1. melléklet a 16/2024. (IX. 30.) EM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^30]: Az 1. melléklet 1. pontjában foglalt táblázat D:37 mezője a 16/2024. (IX. 30.) EM rendelet 5. § (2) bekezdés a) pontjával megállapított szöveg.
+[^31]: Az 1. melléklet 1. pontjában foglalt táblázat D:50 mezője a 16/2024. (IX. 30.) EM rendelet 5. § (2) bekezdés b) pontjával megállapított szöveg.
+[^32]: Az 1. melléklet 1. pontjában foglalt táblázat D:51 mezője a 16/2024. (IX. 30.) EM rendelet 5. § (2) bekezdés c) pontjával megállapított szöveg.
+[^33]: Az 1. melléklet 1. pontjában foglalt táblázat D:77 mezője a 16/2024. (IX. 30.) EM rendelet 5. § (2) bekezdés d) pontjával megállapított szöveg.
