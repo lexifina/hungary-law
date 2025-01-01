@@ -52,7 +52,7 @@ ca) megfelel a költségvetési támogatás igénybevételére vonatkozó, az á
 
 cb) az intézmény működésével összefüggésben, vagy a költségvetési támogatás jogosulatlan igénybevételével összefüggésben büntetőeljárás nem folyik ellene és a kérelem benyújtását megelőző öt évben ilyen eljárásban nem marasztalták el.
 
-(8)[^140]
+(8)[^140] Az (1), (2), (4) és (7) bekezdésben, valamint a 37/D. § (1) bekezdésében foglaltakat a pedagógusok és a pedagógus szakképesítéssel vagy szakképzettséggel rendelkező nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatottak minősítéséből eredő többletkiadás, a differenciált nemzetiségi pótlék és a diabétesz ellátási pótlék fedezetére szolgáló tárgyévi központi költségvetési törvény szerinti kiegészítő támogatás igénylésére is alkalmazni kell.
 
 [^124]: A 37/C. § (1) bekezdése a 260/2014. (X. 15.) Korm. rendelet 12. §-a, a 457/2017. (XII. 28.) Korm. rendelet 402. § c) pontja, a 616/2022. (XII. 29.) Korm. rendelet 141. § a) pontja szerint módosított szöveg.
 [^125]: A 37/C. § (2) bekezdése a 3/2015. (I. 28.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
@@ -70,4 +70,4 @@ cb) az intézmény működésével összefüggésben, vagy a költségvetési t�
 [^137]: A 37/C. § (7) bekezdését a 3/2015. (I. 28.) Korm. rendelet 3. §-a iktatta be.
 [^138]: A 37/C. § (7) bekezdés a) pontját a 196/2019. (VIII. 1.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
 [^139]: A 37/C. § (7) bekezdés b) pontját a 196/2019. (VIII. 1.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
-[^140]: A 37/C. § (8) bekezdését a 3/2015. (I. 28.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 196/2019. (VIII. 1.) Korm. rendelet 8. § b) pontja.
+[^140]: A 37/C. § (8) bekezdését újonnan a 201/2024. (VII. 29.) Korm. rendelet 6. §-a iktatta be.
