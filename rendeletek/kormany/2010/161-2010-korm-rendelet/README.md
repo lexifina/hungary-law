@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-161-20-
 | 2020-01-01 | 2010-161-20-22.8 | 340/2019. (XII. 23.) Korm. rendelet |
 | 2020-07-31 | 2010-161-20-22.9 | 375/2020. (VII. 30.) Korm. rendelet |
 | 2024-10-25 | 2010-161-20-22.10 | 303/2024. (X. 24.) Korm. rendelet |
+| 2025-01-01 | 2010-161-20-22.11 | 418/2024. (XII. 23.) Korm. rendelet |

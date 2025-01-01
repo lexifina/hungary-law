@@ -4,6 +4,6 @@
 
 54. § (1) A rejtjeltevékenység hatósági ellenőrzését az NBF végzi.
 
-(2)[^56] A rejtjeltevékenységgel kapcsolatos belső ellenőrzésre a minősített adatot elektronikus rendszeren kezelő szerv vezetője, a biztonsági vezető, rejtjelfelügyelő vagy a rejtjelfelügyelet vezetője és a szerv rejtjelszabályzatában meghatározott további személyek jogosultak.
+(2)[^57] A rejtjeltevékenységgel kapcsolatos belső ellenőrzésre a minősített adatot elektronikus rendszeren kezelő szerv vezetője, a biztonsági vezető, rejtjelfelügyelő vagy a rejtjelfelügyelet vezetője és a szerv rejtjelszabályzatában meghatározott további személyek jogosultak.
 
-[^56]: Az 54. § (2) bekezdése a 323/2018. (XII. 28.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^57]: Az 54. § (2) bekezdése a 323/2018. (XII. 28.) Korm. rendelet 18. §-ával megállapított szöveg.
