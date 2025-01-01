@@ -1,4 +1,4 @@
-78/G. §[^199] Ez a rendelet
+78/G. §[^200] Ez a rendelet
 
 a) a veszélyes anyagokkal kapcsolatos súlyos balesetek veszélyének kezeléséről, valamint a 96/82/EK tanácsi irányelv módosításáról és későbbi hatályon kívül helyezéséről szóló, 2012. július 4-i 2012/18/EU európai parlamenti és tanácsi irányelv 13. cikk (1) bekezdés a)–c) pontjának, valamint 13. cikk (2) és (3) bekezdésének,
 
@@ -6,4 +6,4 @@ b) az ionizáló sugárzás miatti sugárterhelésből származó veszélyekkel 
 
 való megfelelést szolgálja.
 
-[^199]: A 78/G. §-t a 285/2024. (IX. 30.) Korm. rendelet 185. §-a iktatta be.
+[^200]: A 78/G. §-t a 285/2024. (IX. 30.) Korm. rendelet 185. §-a iktatta be.

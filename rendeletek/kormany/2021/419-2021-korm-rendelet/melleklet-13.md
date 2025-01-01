@@ -40,7 +40,7 @@
 
 | 20 | Az egyszobás lakások aránya a lakott lakásokon belül |  |  |  |  |  |
 
-13. melléklet a 419/2021. (VII. 15.) Korm. rendelethez[^261]
+13. melléklet a 419/2021. (VII. 15.) Korm. rendelethez[^262]
 
 Településképi bejelentési eljáráshoz köthető építési tevékenységek, elhelyezések, területhasználatok
 
@@ -104,4 +104,4 @@ b) urnafülke, sírhely, sírjel építése, elhelyezése.
 
 28. Úszóműves vízi létesítmény, lakóhajó, úszóház létesítése, bővítése.
 
-[^261]: A 13. mellékletet a 285/2024. (IX. 30.) Korm. rendelet 186. § (9) bekezdése iktatta be.
+[^262]: A 13. mellékletet a 285/2024. (IX. 30.) Korm. rendelet 186. § (9) bekezdése iktatta be.

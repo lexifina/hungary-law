@@ -6,7 +6,7 @@ a) dönt az eljárás megindításáról, és erről 8 napon belül értesíti a
 
 b) elutasítja a kérelmet, és indokolt döntését 8 napon belül megküldi a kerületi önkormányzatnak.
 
-(1a)[^167] Ha a fővárosi önkormányzat az (1) bekezdés a) vagy b) pontja szerinti döntést nem hozza meg, azt úgy kell tekinteni, hogy a fővárosi önkormányzat egyetért a kerületi önkormányzat módosítási kezdeményezésével.
+(1a)[^168] Ha a fővárosi önkormányzat az (1) bekezdés a) vagy b) pontja szerinti döntést nem hozza meg, azt úgy kell tekinteni, hogy a fővárosi önkormányzat egyetért a kerületi önkormányzat módosítási kezdeményezésével.
 
 (2) Ha a kerületi önkormányzat az (1) bekezdés b) pontja szerinti döntéssel nem ért egyet, a döntés felülvizsgálatát kérheti a fővárosi önkormányzattól, amelyben részletesen ismerteti a kerületi önkormányzat, hogy miért nem ért egyet a főváros elutasító döntésével. A fővárosi önkormányzat álláspontját 30 napon belül megküldi a kerületi önkormányzatnak.
 
@@ -14,4 +14,4 @@ b) elutasítja a kérelmet, és indokolt döntését 8 napon belül megküldi a 
 
 (4) A fővárosi településterv elfogadására vonatkozó döntés meg kell, hogy előzze a kerületi településterv elfogadását.
 
-[^167]: A 71. § (1a) bekezdését a 285/2024. (IX. 30.) Korm. rendelet 181. §-a iktatta be.
+[^168]: A 71. § (1a) bekezdését a 285/2024. (IX. 30.) Korm. rendelet 181. §-a iktatta be.

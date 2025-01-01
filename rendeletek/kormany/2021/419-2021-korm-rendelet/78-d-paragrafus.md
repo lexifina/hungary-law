@@ -1,6 +1,6 @@
-78/D. §[^191] (1)[^192]
+78/D. §[^192] (1)[^193]
 
-(2)[^193]
+(2)[^194]
 
 (3) A Lechner Tudásközpont a településtervek, kézikönyvek és településképi rendeletek készítéséhez és módosításához, valamint a megalapozó vizsgálatok és az alátámasztó javaslatok készítéséhez az adatszolgáltatást az E-TÉR felületen keresztül biztosítja, azzal, hogy az 57. § a) pontja szerinti alaptérképet DAT- és shape-formátumban szolgáltatja az önkormányzatoknak.
 
@@ -10,12 +10,12 @@ a) az olyan építési övezetbe sorolás, amelyet a 2021. július 1-jét megel�
 
 b) ha a közút elhelyezése céljára szolgáló terület csökkentése miatt növekszik a beépíthető terület nagysága.
 
-(5)[^194] A főváros esetében, ha a fővárosi településterv készítése vagy módosítása során az új beépítésre szánt területekkel összefüggésben a főváros a 18. §-ban foglaltakat teljesítette, az ezzel összhangban álló kerületi építési szabályzat készítése vagy módosítása során a biológiai aktivitásérték fenntartására vonatkozó követelményeket a fővárosi kerületnek ismételten nem kell teljesítenie.
+(5)[^195] A főváros esetében, ha a fővárosi településterv készítése vagy módosítása során az új beépítésre szánt területekkel összefüggésben a főváros a 18. §-ban foglaltakat teljesítette, az ezzel összhangban álló kerületi építési szabályzat készítése vagy módosítása során a biológiai aktivitásérték fenntartására vonatkozó követelményeket a fővárosi kerületnek ismételten nem kell teljesítenie.
 
-78/D. §[^195]
+78/D. §[^196]
 
-[^191]: A 78/D. §-t a 253/2023. (VI. 23.) Korm. rendelet 11. §-a iktatta be.
-[^192]: A 78/D. § (1) bekezdését a 285/2024. (IX. 30.) Korm. rendelet 188. § 27. pontja hatályon kívül helyezte.
-[^193]: A 78/D. § (2) bekezdését a 285/2024. (IX. 30.) Korm. rendelet 188. § 27. pontja hatályon kívül helyezte.
-[^194]: A 78/D. § (5) bekezdését a 285/2024. (IX. 30.) Korm. rendelet 184. §-a iktatta be.
-[^195]: A második 78/D. §-t a 351/2023. (VII. 27.) Korm. rendelet 30. §-a iktatta be, a 285/2024. (IX. 30.) Korm. rendelet 188. § 28. pontja hatályon kívül helyezte.
+[^192]: A 78/D. §-t a 253/2023. (VI. 23.) Korm. rendelet 11. §-a iktatta be.
+[^193]: A 78/D. § (1) bekezdését a 285/2024. (IX. 30.) Korm. rendelet 188. § 27. pontja hatályon kívül helyezte.
+[^194]: A 78/D. § (2) bekezdését a 285/2024. (IX. 30.) Korm. rendelet 188. § 27. pontja hatályon kívül helyezte.
+[^195]: A 78/D. § (5) bekezdését a 285/2024. (IX. 30.) Korm. rendelet 184. §-a iktatta be.
+[^196]: A második 78/D. §-t a 351/2023. (VII. 27.) Korm. rendelet 30. §-a iktatta be, a 285/2024. (IX. 30.) Korm. rendelet 188. § 28. pontja hatályon kívül helyezte.

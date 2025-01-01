@@ -14,7 +14,8 @@ a) a településképi követelményeknek való megfelelést,
 
 b) településkép-védelmi szempontból a közterületről látható épület, épületrész kialakításának módját,
 
-c) közterületen folytatott építési tevékenység végzése esetén a közterület burkolatának, műtárgyainak, köztárgyainak, növényzetének, továbbá a díszvilágító berendezések és reklámhordozók kialakítását.
+c)[^66] közterületen folytatott építési tevékenység végzése esetén a közterület burkolatának, műtárgyainak, köztárgyainak, növényzetének, továbbá a díszvilágító berendezések kialakítását.
 
 [^64]: A 44. § (1) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 163. §-ával megállapított szöveg.
 [^65]: A 44. § (2) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 163. §-ával megállapított szöveg.
+[^66]: A 44. § (3) bekezdés c) pontja a 476/2024. (XII. 31.) Korm. rendelet 22. § (2) bekezdése szerint módosított szöveg.

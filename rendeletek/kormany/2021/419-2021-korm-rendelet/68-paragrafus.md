@@ -4,13 +4,13 @@
 
 a) készítése vagy módosítása esetén, ha
 
-aa)[^157] a Méptv. 23. §-a szerinti beruházás, vagy a Méptv. 193. §-a szerinti építési beruházás megvalósítása miatt indokolt,
+aa)[^158] a Méptv. 23. §-a szerinti beruházás, vagy a Méptv. 193. §-a szerinti építési beruházás megvalósítása miatt indokolt,
 
 ab) a Kormány által rendeletben kihirdetett veszélyhelyzet esetén, az érintett településen a veszélyhelyzet következményeinek a felszámolása vagy a további, közvetlenül fenyegető veszélyhelyzet megelőzése miatt indokolt, vagy
 
 b) módosítása esetén, ha
 
-ba)[^158] a képviselő-testület döntésével kiemelt fejlesztési területté nyilvánított területen, beruházás megvalósítása miatt indokolt, kivéve, ha az új beépítésre szánt terület kijelölésével jár,
+ba)[^159] a képviselő-testület döntésével kiemelt fejlesztési területté nyilvánított területen, beruházás megvalósítása miatt indokolt, kivéve, ha az új beépítésre szánt terület kijelölésével jár,
 
 bb) nem tartozik az a) pont aa) és ab) alpontja, valamint a ba) alpont szerinti esetkörbe, azonban az alábbi feltételek együttesen teljesülnek:
 
@@ -26,10 +26,10 @@ a) a véleményezési szakaszban csak a partner ad véleményt, a véleményezé
 
 b) a véleményezési szakaszban véleményeltérés esetén a polgármester 5 napon belül kezdeményezhet egyeztetést,
 
-c)[^159] a záró szakaszban kötelező egyeztető tárgyalást tartani a záró szakasz kezdeményezésétől vagy a véleményezési dokumentáció hiánytalanná válásától számított 15 napon belül, amelyre az állami főépítész meghívja a 64. § (1) bekezdése szerinti szerveket és fővárosi településterv esetében az érintett fővárosi kerületi önkormányzatot, és
+c)[^160] a záró szakaszban kötelező egyeztető tárgyalást tartani a záró szakasz kezdeményezésétől vagy a véleményezési dokumentáció hiánytalanná válásától számított 15 napon belül, amelyre az állami főépítész meghívja a 64. § (1) bekezdése szerinti szerveket és fővárosi településterv esetében az érintett fővárosi kerületi önkormányzatot, és
 
 d) a záró szakmai véleményt az állami főépítész az egyeztető tárgyalást – vagy amennyiben az egyeztető tárgyaláson elhangzottak alapján módosításra van szükség, a módosított tervezet feltöltését – követő 5 napon belül adja ki.
 
-[^157]: A 68. § (1) bekezdés a) pont aa) alpontja a 285/2024. (IX. 30.) Korm. rendelet 187. § 55. pontja szerint módosított szöveg.
-[^158]: A 68. § (1) bekezdés b) pont ba) alpontja a 285/2024. (IX. 30.) Korm. rendelet 179. § (1) bekezdésével megállapított szöveg.
-[^159]: A 68. § (2) bekezdés c) pontja a 285/2024. (IX. 30.) Korm. rendelet 179. § (2) bekezdésével megállapított szöveg.
+[^158]: A 68. § (1) bekezdés a) pont aa) alpontja a 285/2024. (IX. 30.) Korm. rendelet 187. § 55. pontja szerint módosított szöveg.
+[^159]: A 68. § (1) bekezdés b) pont ba) alpontja a 285/2024. (IX. 30.) Korm. rendelet 179. § (1) bekezdésével megállapított szöveg.
+[^160]: A 68. § (2) bekezdés c) pontja a 285/2024. (IX. 30.) Korm. rendelet 179. § (2) bekezdésével megállapított szöveg.
