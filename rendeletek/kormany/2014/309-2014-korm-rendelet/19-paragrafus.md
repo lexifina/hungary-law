@@ -1,3 +1,3 @@
-19. §[^49]
+19. §[^50]
 
-[^49]: A 19. §-t a 189/2017. (VII. 6.) Korm. rendelet 4. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^50]: A 19. §-t a 189/2017. (VII. 6.) Korm. rendelet 4. § (1) bekezdés b) pontja hatályon kívül helyezte.
