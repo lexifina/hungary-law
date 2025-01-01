@@ -12,7 +12,11 @@ c) az a 4. § (2) bekezdésének g) pontjában foglalt célok teljesítéséhez 
 
 (3) A társadalombiztosítási igazgatási szervek által lefolytatott ellenőrzés során a társadalombiztosítás szerveinek csak egészségügyi felsőfokú szakképesítéssel rendelkező alkalmazottja ismerheti meg az érintett összekapcsolt egészségügyi és személyazonosító adatait.
 
-(4)
+(4) Az Egészségügyi Tudományos Tanács részére abban az esetben is továbbítható egészségügyi és személyazonosító adat, ha az
+
+a) a 4. § (2) bekezdés u) pontjában foglalt szakhatósági állásfoglalás teljesítéséhez szükséges,
+
+b) az Ebtv. 18. § (8) bekezdésén, valamint ezzel összefüggésben az Ebtv. 70. § (1) bekezdés b) pontján alapuló megtérítésre irányuló eljárás lefolytatásához indokolt.
 
 (5) A társadalombiztosítási igazgatási szerv és a minisztérium – a 4. § (2) bekezdés g) pontjában meghatározott célból – kezelheti:
 
@@ -25,3 +29,9 @@ c) az egészségügyi szolgáltatást igénybe vevő diagnózisának, a részér
 (6) Az (5) bekezdés szerinti adatokat az egészségbiztosítási szerv az érintett halálát követő 10 évig, amennyiben az adatkezeléssel érintett ügyben bírósági eljárás indult, amely a 10 éves őrzési időn túlmutat, akkor az ügy lezárásának időpontjáig kezeli. Ezt követően az adatokat meg kell fosztani a személyes azonosítás lehetőségétől.
 
 (7) Az egészségbiztosítási szerv a 4. § (2) bekezdés g) pontja szerinti célból, törvényben meghatározott feladata ellátása során, az ehhez szükséges mértékű egészségügyi adathoz az EESZT útján is hozzáférhet.
+
+(8) Az Egészségügyi Tudományos Tanács a 4. § (2) bekezdés u) pontjában foglalt szakhatósági állásfoglalás elkészítése céljából
+
+a) kezeli az (5) bekezdésben meghatározott adatokat,
+
+b) a feladata ellátása során, az ehhez szükséges mértékű egészségügyi adathoz az EESZT útján is hozzáférhet.

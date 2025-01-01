@@ -15,3 +15,17 @@ d) az emberi vér és vérkomponensek gyűjtésére, vizsgálatára, feldolgozá
 (4) A (1) bekezdés szerinti nyilvántartást a véradási és plazmaferezis tevékenységet végző egészségügyi szolgáltató a miniszteri rendeletben kijelölt egészségügyi államigazgatási szerv által működtetett informatikai felület alkalmazásával vezeti.
 
 (5) A Donor Regiszter a nyilvántartott adatokat a donor plazmaferezis eljárásban részt vevő véradókról az utolsó teljes vér vagy plazma adásának időpontjától számított harminc évig kezelheti személyazonosításra alkalmas módon.
+
+(6) Az (1) bekezdés szerinti egészségügyi szolgáltató a véradásból véglegesen kizártság tényének megismerése, valamint a donor egészségi állapotának megőrzése és ellenőrizhetősége, továbbá a levett plazma minőségének biztosítása érdekében a véradást megelőzően
+
+a) a Donor Regiszterből ellenőrzi, hogy a donort bármely egészségügyi szolgáltató a véradásból véglegesen kizárta-e,
+
+b) a Donor Regiszterben foglalt, valamint a donor által átadott, illetve a donor vizsgálatával nyert egészségügyi adatok alapján ellenőrzi, hogy van-e a donor plazmaferezis eljárás megkezdését kizáró egészségügyi ok.
+
+(7) A (6) bekezdésben foglalt célból az (1) bekezdés szerinti egészségügyi szolgáltató
+
+a) a (6) bekezdés a) pontja szerinti adatot,
+
+b) a donorra vonatkozó (2) bekezdés szerinti, egy évnél nem régebbi adatokat
+
+a Donor Regiszterből lekérdezheti.

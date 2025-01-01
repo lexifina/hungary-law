@@ -60,7 +60,7 @@ s) az egészségügyi ellátásokra jogosultak részére vényen rendelt gyógys
 
 t) a munkabalesetek, foglalkozási megbetegedések – ideértve a fokozott expozíciós eseteket is – kivizsgálása, nyilvántartása és a szükséges munkavédelmi intézkedések megtétele,
 
-u) az egészségügyi dolgozókkal szemben lefolytatott etikai eljárás,
+u) az egészségügyi dolgozókkal szemben lefolytatott etikai eljárás, valamint a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény (a továbbiakban: Ebtv.) 18. § (8) bekezdés b) pontjában meghatározott összefüggés megállapításához szükséges szakhatósági állásfoglalás kialakítása,
 
 v) eredményesség alapú támogatásban részesülő gyógyszerek, gyógyászati segédeszközök eredményességének, támogatásának megállapítása, és ezen gyógyszerekkel kezelt kórképek finanszírozási eljárásrendjének alkotása,
 
