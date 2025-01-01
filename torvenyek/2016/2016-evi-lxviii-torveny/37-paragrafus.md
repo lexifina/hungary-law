@@ -8,7 +8,7 @@ b) az alkoholtermék előállítására alkalmas desztillálóberendezés,
 
 c) a sör előállítására alkalmas főzőüst és komlóforraló üst – a 133. § (1) bekezdésében meghatározott tevékenységhez használt berendezés kivételével –,
 
-d) a dohánygyártmány gyártására alkalmas gép és egyéb eszköz – a kizárólag emberi erővel, így különösen nem elemmel, akkumulátorral vagy elektromos áramforrásról működtethető olyan eszköz kivételével, amelyik egyszerre egy vagy több, de legfeljebb óránként 200 darab kézi töltésű cigaretta elkészítésére alkalmas –
+d) a dohánygyártmány gyártására alkalmas gép és egyéb eszköz – a kizárólag emberi erővel, így különösen nem elemmel, akkumulátorral vagy elektromos áramforrásról működtethető olyan eszköz kivételével, amelyik kézi töltésű cigaretta elkészítésére alkalmas –
 
 előállításához, értékesítéséhez és birtoklásához.
 

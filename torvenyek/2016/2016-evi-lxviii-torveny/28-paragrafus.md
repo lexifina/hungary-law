@@ -30,7 +30,7 @@ f) az a) és e) pont szerinti termékekkel folytatja, 6 millió forint,
 
 g) LPG-vel, egyéb ellenőrzött ásványolajjal és repülőgép-üzemanyaggal folytatja, 120 millió forint.
 
-(4) Az (1) bekezdéstől eltérően nem kell jövedéki biztosítékot nyújtani, ha a jövedéki engedélyes kereskedő a tevékenységét kizárólag csendes borral, a 129. § (2) bekezdés a) pontja szerinti termékkel és – ha a jövedéki engedélyes személy egyszerűsített adóraktári engedélyes vagy kisüzemi bortermelő, a saját előállítású csendes borából előállított – palackos erjesztésű habzóborral folytatja.
+(4) Az (1) bekezdéstől eltérően nem kell jövedéki biztosítékot nyújtani, ha a jövedéki engedélyes kereskedő a tevékenységét kizárólag csendes borral, a 129. § (2) bekezdés a) pontja szerinti termékkel és – ha a jövedéki engedélyes személy egyszerűsített adóraktári engedélyes vagy kisüzemi bortermelő, a saját szőlőből vagy saját előállítású csendes borból előállított – habzóborral folytatja.
 
 (5) Ha a jövedéki engedélyes kereskedő adóraktári engedéllyel vagy bejegyzett kereskedői engedéllyel is rendelkezik, jövedéki biztosítékot csak olyan összegben kell nyújtania, amennyivel meghaladja az (1)–(3) bekezdés alapján nyújtandó biztosíték összege az adóraktári engedélyhez vagy a bejegyzett kereskedői engedélyhez kapcsolódóan nyújtott jövedéki biztosíték összegét.
 

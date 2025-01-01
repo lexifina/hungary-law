@@ -10,7 +10,7 @@ c) a közvetlen fogyasztásra szánt italt, ha az összetevőkre megfizetett ad�
 
 d) az adófizetési kötelezettség alól mentesült, magánszemély által előállított sört, csendes bort, habzóbort, egyéb csendes és habzó erjesztett italt,
 
-e) a kisüzemi bortermelő által előállított csendes bort, valamint előállítható vagy tárolható palackos erjesztésű habzóbort,
+e) a kisüzemi bortermelő által előállított csendes bort, valamint előállítható vagy tárolható habzóbort,
 
 f) a tudományos és oktatási célra előállított és felhasznált alkoholterméket,
 

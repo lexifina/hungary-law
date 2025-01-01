@@ -18,21 +18,21 @@ ca) ha a kőolaj (3) bekezdés szerinti világpiaci ára meghaladja az 50 USD/ho
 
 cb) ha a kőolaj (3) bekezdés szerinti világpiaci ára nem haladja meg az 50 USD/hordó értéket, 152 900 Ft/ezer liter,
 
-d) a fűtőolajra tüzelő-, fűtőanyagkénti kínálás, értékesítés vagy felhasználás esetén 5375 Ft/ezer kilogramm, üzemanyagkénti kínálás, értékesítés vagy felhasználás esetén 116 000 Ft/ezer kilogramm,
+d) a fűtőolajra tüzelő-, fűtőanyagkénti kínálás, értékesítés vagy felhasználás esetén 5970 Ft/ezer kilogramm, üzemanyagkénti kínálás, értékesítés vagy felhasználás esetén 116 000 Ft/ezer kilogramm,
 
-e) az LPG-re közúti járművek üzemanyagakénti kínálás, értékesítés vagy felhasználás esetén 95 800 Ft/ezer kilogramm, egyéb motorikus célú kínálás, értékesítés vagy felhasználás esetén 14 685 Ft/ezer kilogramm, tüzelő-, fűtőanyagkénti kínálás, értékesítés vagy felhasználás esetén 0 Ft/ezer kilogramm,
+e) az LPG-re közúti járművek üzemanyagakénti kínálás, értékesítés vagy felhasználás esetén 95 800 Ft/ezer kilogramm, egyéb motorikus célú kínálás, értékesítés vagy felhasználás esetén 16 320 Ft/ezer kilogramm, tüzelő-, fűtőanyagkénti kínálás, értékesítés vagy felhasználás esetén 0 Ft/ezer kilogramm,
 
-f) földgázra közúti járművek üzemanyagakénti kínálás, értékesítés vagy felhasználás esetén 32 Ft/nm3, egyébként 0,3492 Ft/kWh,
+f) földgázra közúti járművek üzemanyagakénti kínálás, értékesítés vagy felhasználás esetén 36 Ft/nm3, egyébként 0,3879 Ft/kWh,
 
-g) a villamos energiára 358,50 Ft/megawattóra,
+g) a villamos energiára 398 Ft/megawattóra,
 
-h) a szénre 2905 Ft/ezer kilogramm,
+h) a szénre 3230 Ft/ezer kilogramm,
 
 i) – figyelemmel a 94. § (2) bekezdésére is – az E85 esetében a termék bioetanolon kívüli komponenseinek térfogatra számított mennyiségi részaránya és az a) pont szerinti adómérték szorzatának, valamint a termék bioetanol tartalmának térfogatra számított mennyiségi részaránya és 70 000 Ft/ezer liter szorzatának együttes összege,
 
 j) a 2207 10 00-2207 20 00 KN-kód szerinti alkoholtermék bioüzemanyag esetében a 132. § (2) bekezdés b) pontja szerinti adómérték,
 
-k) a tiszta növényi olajat előállító által a 117. § (1) bekezdésében meghatározott mennyiségben és célra felhasznált tiszta növényi olaj esetében a c) pont ca) alpontja szerinti adómérték alkalmazása esetén az adómérték 14%-a, a c) pont cb) alpontja szerinti adómérték alkalmazása esetén az adómérték 13%-a, egyébként a c) pont szerinti adómérték.
+k) a tiszta növényi olajat előállító által a 117. § (1) bekezdésében meghatározott mennyiségben és célra felhasznált tiszta növényi olaj esetében 14 290 Ft/ezer liter, egyébként a c) pont szerinti adómérték.
 
 (2) Az adó mértéke az (1) bekezdésben meg nem határozott energiatermékre
 

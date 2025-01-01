@@ -200,7 +200,7 @@ c) az uniós számítógépes rendszer használójának számítógépes rendsze
 
 5. E85: a 2207 20 00 KN-kód szerinti, üzemanyagcélra előállított, legalább 70%, legfeljebb 85% olyan bioetanolt tartalmazó termék, amelyet kizárólag az Európai Unióban termelt, mezőgazdasági eredetű alapanyagból gyártottak és amely fenntarthatósági bizonyítvány alapján fenntartható módon előállítottnak minősül;
 
-6. egyéb ellenőrzött ásványolaj: a 2707 10 00-2707 30 00, a 2707 50 00, a 2710 12 11-2710 12 25, a 2710 12 70-2710 19 15, a 2710 19 25, a 2710 19 29-2710 19 35, a 2710 19 51, a 2710 19 55, a 2901 10 00, a 2902 20 00-2902 44 00 KN-kód szerinti, valamint a 2710 19 43-2710 19 48 és a 2710 20 11-2710 20 19 KN-kód szerinti, nem üzemanyagként vagy tüzelő-, fűtőanyagként értékesített, beszerzett vagy importált ellenőrzött energiatermék;
+6. egyéb ellenőrzött ásványolaj: a 2707 10 00-2707 30 00, a 2707 50 00, a 2710 12 11-2710 12 25, a 2710 12 70-2710 19 15, a 2710 19 25, a 2710 19 29-2710 19 35, a 2710 19 51, a 2710 19 55, a 2901 10 00, a 2902 20 00-2902 44 00 KN-kód szerinti, valamint a 2710 19 44-2710 19 48 és a 2710 20 11-2710 20 19 KN-kód szerinti, nem üzemanyagként vagy tüzelő-, fűtőanyagként értékesített, beszerzett vagy importált ellenőrzött energiatermék;
 
 7. ellenőrzött energiatermék:
 
@@ -252,7 +252,7 @@ történő felhasználásra állítanak elő vagy ilyenként kínálnak, érték
 
 17. fűtőolaj: a 2710 19 62–2710 19 67 és a 2710 20 32–2710 20 38 KN-kód szerinti termék;
 
-18. gázolaj: a 2710 19 43-2710 19 48 és a 2710 20 11-2710 20 19 KN-kód szerinti termék;
+18. gázolaj: a 2710 19 42, a 2710 19 44-2710 19 48 és a 2710 20 11-2710 20 19 KN-kód szerinti termék;
 
 19. hálózati engedélyes: a villamos energiáról szóló törvény szerinti hálózati engedélyes és a földgázellátásról szóló törvény szerinti földgázelosztó és szállítási rendszerüzemeltető;
 
@@ -402,7 +402,7 @@ b) – a sör és az egyéb habzó erjesztett ital kivételével – a 2206 00 1
 
 a) saját előállítású csendes borának,
 
-b) saját előállítású csendes borból előállított palackos erjesztésű habzóborának és
+b) saját szőlőből vagy saját előállítású csendes borból előállított habzóborának és
 
 c) kedvezményes párlatának
 

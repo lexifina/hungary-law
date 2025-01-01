@@ -8,12 +8,12 @@
 
 (4) Az állami vagy helyi önkormányzati feladatot, valamint jogszabályban meghatározott egyéb közfeladatot ellátó szerv jogosult a közfeladat ellátásával közvetlen összefüggésben közlekedési célra felhasznált földgáz adójának visszaigénylésére.
 
-(5) A 3. § (2) bekezdés 21. pontja szerinti jármű üzembentartója vagy – bérelt jármű esetében – bérlője jogosult
+(5) A 3. § (2) bekezdés 21. pontja szerinti jármű üzembentartója vagy – bérelt jármű esetében – bérlője jogosult visszaigényelni
 
-a) az üzemanyagtöltő-állomáson üzemanyagkártyával megvásárolt, vagy
+a) az üzemanyagtöltő állomáson üzemanyagkártyával megvásárolt, vagy
 
 b) belföldi telephelyén üzemanyag-tárolásra rendszeresített üzemanyag-tankoló automatával ellátott tartályból elektronikus mérőeszközön keresztül betöltött
 
-kereskedelmi gázolaj után a 110. § (1) bekezdés c) pont ca) alpontja szerinti adómérték alkalmazása esetén literenként 10 Ft, a 110. § (1) bekezdés c) pont cb) alpontja szerinti adómérték alkalmazása esetén literenként 20 Ft visszaigénylésére.
+kereskedelmi gázolaj után literenként a gázolaj egy literre vetített adómértékének, valamint 0,33 és az Európai Unió Hivatalos Lapjában kihirdetett tárgyévet megelőző év október első munkanapján érvényes euró/forint árfolyam szorzatának különbségét, öttized forintra lefelé kerekítve. Az előbbiek szerint megállapított adó-visszaigénylés mértékét a tárgynegyedévet megelőző hónap 15. napját követő 5. munkanapig az állami adó- és vámhatóság internetes honlapján közzéteszi.
 
 (6) E § szerinti adó-visszaigénylés – a 112. § (1) bekezdés b) pontjától eltérően – a 3. § (2) bekezdés 20. pontja szerinti jelölőanyagot nem tartalmazó gázolaj után érvényesíthető.

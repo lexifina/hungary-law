@@ -4,7 +4,15 @@
 
 (2) Egyszerűsített adóraktárban nem állítható elő, nem tárolható, nem palackozható sör, a (3) bekezdés szerinti eseten túl habzóbor, a 129. § (2) bekezdés a) pontja szerinti termék kivételével egyéb csendes vagy habzó erjesztett ital, köztes alkoholtermék, a (3a) bekezdés szerinti eseten túl alkoholtermék.
 
-(3) Egyszerűsített adóraktárban a 129. § (2) bekezdés a) pontja szerinti adómértékkel adózó egyéb csendes erjesztett ital, valamint a saját szőlőből vagy saját előállítású csendes borból előállított, évente legfeljebb 50 000 liter palackos erjesztésű habzóbor is előállítható, átvehető, tárolható, utóbbi termékből az egyszerűsített adóraktár készlete nem haladhatja meg az 50 000 litert. Egyszerűsített adóraktárból nem adható fel palackos erjesztésű habzóbor másik egyszerűsített adóraktárnak és kisüzemi bortermelőnek.
+(3) Egyszerűsített adóraktárban
+
+a) a 129. § (2) bekezdés a) pontja szerinti adómértékkel adózó egyéb csendes erjesztett ital előállítható, átvehető, tárolható, forgalomba hozható,
+
+b) a saját szőlőből vagy saját előállítású csendes borból palackos erjesztéssel előállított habzóbor előállítható, átvehető, tárolható, forgalomba hozható,
+
+c) a saját szőlőből vagy saját előállítású csendes borból nem palackos erjesztéssel előállított, palackozott habzóbor átvehető, tárolható, forgalomba hozható,
+
+azzal, hogy a b) és c) pont szerinti előállított, átvett termék összmennyisége évente legfeljebb 50 000 liter lehet és a b) és c) pont szerinti termék együttes készlete nem haladhatja meg az 50 000 litert, valamint egyszerűsített adóraktárból nem adható fel habzóbor másik egyszerűsített adóraktárnak és kisüzemi bortermelőnek.
 
 (3a) Az egyszerűsített adóraktár engedélyese egyszerűsített adóraktárban a fogyasztó számára történő közvetlen értékesítés céljából egy borpiaci évben az általa vagy vele egy borgazdasági egységbe tartozó személy által az elmúlt három borpiaci évben művelt szőlőterület után hektáronként legfeljebb 0,7 hektoliter tiszta szesz, de legfeljebb összesen 1,5 hektoliter tiszta szesz mennyiségű kedvezményes párlatot vehet át. Az egyszerűsített adóraktár engedélyese egyidőben az általa vagy vele egy borgazdasági egységbe tartozó személy által az elmúlt három borpiaci évben művelt szőlőterület után hektáronként legfeljebb 0,7 hektoliter tiszta szesz, de összesen legfeljebb 1,5 hektoliter tiszta szesz mennyiségű kedvezményes párlatot tarthat készleten.
 

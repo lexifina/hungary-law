@@ -6,25 +6,27 @@
 
 145. § (1) A jövedéki adó mértéke
 
-a) a cigarettára 29 500 forint/ezer darab és a kiskereskedelmi eladási ár 24 százaléka, de legalább 41 800 forint/ezer darab,
+a) a cigarettára 32 300 forint/ezer darab és a kiskereskedelmi eladási ár 24 százaléka, de legalább 45 200 forint/ezer darab,
 
-b) a szivarra, a szivarkára a kiskereskedelmi eladási ár 14 százaléka, de legalább 4840 forint/ezer darab,
+b) a szivarra, a szivarkára a kiskereskedelmi eladási ár 14 százaléka, de legalább 5 230 forint/ezer darab,
 
-c) a finomra vágott fogyasztási dohányra és az egyéb fogyasztási dohányra 25 960 forint/kilogramm,
+c) a finomra vágott fogyasztási dohányra és az egyéb fogyasztási dohányra 28 060 forint/kilogramm,
 
-d) a töltőfolyadékra 33 forint/milliliter,
+d) a töltőfolyadékra 36 forint/milliliter,
 
-e) az új dohánytermék-kategóriák dohányt tartalmazó, vagy dohánnyal együtt fogyasztott
+e) az új dohánytermék-kategóriák dohányt tartalmazó vagy dohánnyal együtt fogyasztott
 
-ea) egyszer használatos termékeire 35 forint/darab (szál),
+ea) egyszer használatos termékeire 38 forint/darab (szál),
 
-eb) folyadékára 70 forint/milliliter,
+eb) folyadékára 76 forint/milliliter,
 
-f) a füst nélküli dohánytermékre 25 960 forint/kilogramm,
+f) a füst nélküli dohánytermékre 28 060 forint/kilogramm,
 
-g) a dohányzást helyettesítő nikotintartalmú termékre 25 960 forint/kilogramm,
+g) a dohányzást helyettesítő nikotintartalmú termékre 28 060 forint/kilogramm,
 
-h) a hevített termékre 35 forint darabonként (szálanként).
+h) a hevített termékre 38 forint/darab (szál).
+
+(1a) A 2025. évet követően az adó mértéke az (1) bekezdés szerinti esetekben a tárgyévet megelőző évi adó mértékének a tárgyévet megelőző év július hónapjára vonatkozó, a Központi Statisztikai Hivatal által közzétett fogyasztóiár-index előző év azonos időszakához viszonyított változásával valorizált összege. Az (1) bekezdés d)–e) és h) pontja szerinti adómértékeket 1 forintra, az (1) bekezdés a)–c) és f)–g) pontja szerinti adómértékeket 10 forintra kerekítve kell megállapítani. Az előbbiek szerint megállapított adómértékeket az állami adó- és vámhatóság internetes honlapján a tárgyévet megelőző év október 31-ig közzéteszi.
 
 (2) A jövedéki adó megállapítása szempontjából a cigaretta tételes adójának alapját kétszerezni kell, ha annak hossza – füstszűrő és szopóka nélkül – meghaladja a 8 centimétert, de nem hosszabb, mint 11 centiméter, háromszorozni kell, ha annak hossza – füstszűrő és szopóka nélkül – meghaladja a 11 centimétert, de nem hosszabb, mint 14 centiméter; az előzőek szerinti mérettartomány minden további 3 centiméterenkénti növekedése esetén a tételes adó alapjának szorzószámát eggyel növelni kell.
 

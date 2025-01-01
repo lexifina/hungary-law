@@ -1,16 +1,26 @@
 ## 91. Kisüzemi bortermelő
 
-137. § (1) A csendes bor és a kisüzemi bortermelőnél előállítható és tárolható palackos erjesztésű habzóbor kisüzemi bortermelőtől indított belföldi szállításakor az 54. § (1) bekezdésétől eltérően borkísérő okmány alkalmazandó vagy a szállítmány a Btv. végrehajtására kiadott jogszabályban meghatározott esetben mentesül a borkísérő okmány alkalmazása alól.
+137. § (1) A csendes bor és a kisüzemi bortermelőnél előállítható vagy tárolható habzóbor kisüzemi bortermelőtől indított belföldi szállításakor az 54. § (1) bekezdésétől eltérően borkísérő okmány alkalmazandó vagy a szállítmány a Btv. végrehajtására kiadott jogszabályban meghatározott esetben mentesül a borkísérő okmány alkalmazása alól.
 
-(2) A kisüzemi bortermelő a Btv. végrehajtására kiadott jogszabályban meghatározott tartalmú nyilvántartást vezet, amelyben a csendes bort 60 liternél nagyobb névleges térfogatú tárolóeszközben elhelyezett, valamint az ennél kisebb tárolóeszközben elhelyezett csendes bort és a palackos erjesztésű habzóbort kiszerelésenkénti bontásban, az adó alapjaként meghatározott mennyiségi egységben kimutatva szerepelteti.
+(2) A kisüzemi bortermelő a Btv. végrehajtására kiadott jogszabályban meghatározott tartalmú nyilvántartást vezet, amelyben a csendes bort 60 liternél nagyobb névleges térfogatú tárolóeszközben elhelyezett, valamint az ennél kisebb tárolóeszközben elhelyezett csendes bort és a habzóbort kiszerelésenkénti bontásban, az adó alapjaként meghatározott mennyiségi egységben kimutatva szerepelteti.
 
-(3) A kisüzemi bortermelő a vásárolt és a saját termésű szőlő, az előállított (kiszerelt), tárolt és feladott csendes bor, valamint palackos erjesztésű habzóbor, továbbá az átvett, tárolt és értékesített kedvezményes párlat mennyiségéről, készletváltozásokról és a borpiaci év tényleges zárókészletéről a (2) bekezdés szerinti nyilvántartás adatai alapján borpiaci évenként termékenkénti mennyiségi elszámolást készít, amelyet a borpiaci évet követő szeptember 10-ig nyújt be a hegybíróhoz. A hegybíró a hozzá benyújtott elszámolást 21 napon belül teszi hozzáférhetővé az állami adó- és vámhatóság számára. Az elektronikus adóbevallásra kötelezett kisüzemi bortermelő mennyiségi elszámolását is elektronikusan nyújtja be.
+(3) A kisüzemi bortermelő a vásárolt és a saját termésű szőlő, az előállított (kiszerelt), tárolt és feladott csendes bor, valamint habzóbor, továbbá az átvett, tárolt és értékesített kedvezményes párlat mennyiségéről, készletváltozásokról és a borpiaci év tényleges zárókészletéről a (2) bekezdés szerinti nyilvántartás adatai alapján borpiaci évenként termékenkénti mennyiségi elszámolást készít, amelyet a borpiaci évet követő szeptember 10-ig nyújt be a hegybíróhoz. A hegybíró a hozzá benyújtott elszámolást 21 napon belül teszi hozzáférhetővé az állami adó- és vámhatóság számára. Az elektronikus adóbevallásra kötelezett kisüzemi bortermelő mennyiségi elszámolását is elektronikusan nyújtja be.
 
-(4) Ha a családtagok közössége a saját művelésben lévő szőlőterületen termelt szőlőből a csendes bor és a palackos erjesztésű habzóbor előállítását, tárolását ugyanazon a közösen használt telephelyen végzi, e tevékenység kisüzemi bortermelőnek minősülve folytatható. Adóalanynak a családtagok közössége minősül. Az adóalanyisághoz fűződő kötelezettségeket és jogokat a családtagok közössége – a családtagok egyetemleges felelőssége mellett – az általa kijelölt képviselő útján gyakorolja.
+(4) Ha a családtagok közössége a saját művelésben lévő szőlőterületen termelt szőlőből a csendes bor és a habzóbor előállítását, tárolását ugyanazon a közösen használt telephelyen végzi, e tevékenység kisüzemi bortermelőnek minősülve folytatható. Adóalanynak a családtagok közössége minősül. Az adóalanyisághoz fűződő kötelezettségeket és jogokat a családtagok közössége – a családtagok egyetemleges felelőssége mellett – az általa kijelölt képviselő útján gyakorolja.
 
 (4a) A kisüzemi bortermelő szőlőt, valamint sűrített szőlőmust és finomított szőlőmustsűrítmény kivételével az 1308/2013/EU európai parlamenti és tanácsi rendelet VII. melléklet II. részében felsorolt terméket másik tagállamból vagy harmadik országból nem vesz át, a (4b) és (4c) bekezdés szerinti esetekben sem.
 
-(4b) A kisüzemi bortermelő csendes bort a (4c) bekezdésben foglaltak kivételével nem vesz át, és csendes boron kívül, valamint a saját szőlőből vagy saját előállítású csendes borból előállított, évente legfeljebb 50 000 liter palackos erjesztésű habzóbor előállításán, átvételén, tárolásán, forgalmazásán kívül, ha utóbbi termékből a kisüzemi bortermelő készlete nem haladja meg az 50 000 litert, más jövedéki terméket nem állít elő, továbbá a (4d) bekezdésben foglaltak kivételével nem vesz át, nem tárol és nem hoz forgalomba. Kisüzemi bortermelő nem adhat fel palackos erjesztésű habzóbort másik kisüzemi bortermelőnek és egyszerűsített adóraktárnak.
+(4b) A kisüzemi bortermelő
+
+a) csendes bort a (4c) bekezdésben foglaltak kivételével nem vesz át,
+
+b) saját szőlőből vagy saját előállítású csendes borból palackos erjesztéssel előállított habzóbort előállíthat, átvehet, tárolhat, forgalomba hozhat,
+
+c) saját szőlőből vagy saját előállítású csendes borból nem palackos erjesztéssel előállított, palackozott habzóbort átvehet, tárolhat, forgalomba hozhat,
+
+d) az a)–c) pont szerinti termékeken kívül – a (4d) bekezdésben foglaltak kivételével – más jövedéki terméket nem állít elő, nem tárol és nem hoz forgalomba,
+
+azzal, hogy a b) és c) pont szerinti előállított, átvett termék összmennyisége évente legfeljebb 50 000 liter lehet és a b) és c) pont szerinti termék együttes készlete nem haladhatja meg az 50 000 litert, valamint kisüzemi bortermelőtől nem adható fel habzóbor másik kisüzemi bortermelőnek és egyszerűsített adóraktárnak.
 
 (4c) Kisüzemi bortermelő csendes bort a következő esetekben vesz át:
 
@@ -28,11 +38,11 @@ d) az utolsó három lezárt borpiaci év átlagos előállításának legfeljeb
 
 (5) Ha a kisüzemi bortermelő törvényi meghatározásában foglalt feltételek közül valamelyik nem teljesül, a kisüzemi bortermelő a feltétel nem teljesülésének bekövetkezését követő hónap 15. napjáig egyszerűsített adóraktári engedély iránti kérelmet köteles előterjeszteni.
 
-(6) A kisüzemi bortermelőnek az általa előállítható és tárolható palackos erjesztésű habzóbor után nem kell jövedéki biztosítékot nyújtania. Ha a kisüzemi bortermelő az Art. szerinti kockázatos adózónak minősül, köteles haladéktalanul egyszerűsített adóraktári engedély iránti kérelmet előterjeszteni.
+(6) A kisüzemi bortermelőnek az általa előállítható vagy tárolható habzóbor után nem kell jövedéki biztosítékot nyújtania. Ha a kisüzemi bortermelő az Art. szerinti kockázatos adózónak minősül, köteles haladéktalanul egyszerűsített adóraktári engedély iránti kérelmet előterjeszteni.
 
-(7) A kisüzemi bortermelő az előállított, tárolt, feladott palackos erjesztésű habzóbor utáni adóbevallást a (3) bekezdés szerinti elszámolással egyidejűleg készíti el és küldi meg az állami adó- és vámhatóságnak, valamint fizeti meg az adót.
+(7) A kisüzemi bortermelő az előállított, tárolt, feladott habzóbor utáni adóbevallást a (3) bekezdés szerinti elszámolással egyidejűleg készíti el és küldi meg az állami adó- és vámhatóságnak, valamint fizeti meg az adót.
 
-(8) A csendes bor és a kisüzemi bortermelőnél előállítható és tárolható palackos erjesztésű habzóbor kisüzemi bortermelő által végzett értékesítésekor, exportálásakor és másik tagállamba a 62. § szerinti kereskedelmi céllal történő szállításakor nem kell alkalmazni a 67. § (1) bekezdésének rendelkezését.
+(8) A csendes bor és a kisüzemi bortermelőnél előállítható vagy tárolható habzóbor kisüzemi bortermelő által végzett értékesítésekor, exportálásakor és másik tagállamba a 62. § szerinti kereskedelmi céllal történő szállításakor nem kell alkalmazni a 67. § (1) bekezdésének rendelkezését.
 
 (9) Kisüzemi bortermelő csak abban az esetben vehet át és értékesíthet kedvezményes párlatot, ha
 
