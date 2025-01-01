@@ -1,3 +1,3 @@
-2. melléklet a 394/2022. (X. 19.) Korm. rendelethez[^27]
+2. melléklet a 394/2022. (X. 19.) Korm. rendelethez[^26]
 
-[^27]: A 2. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 2. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
