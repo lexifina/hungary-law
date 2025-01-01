@@ -56,11 +56,11 @@ b) – ha a közútfejlesztési gazdasági társaság vagy a közút 33. § (1) 
 
 (4e) Az építtető által a 100%-os állami tulajdonban álló gazdálkodó szervezet tulajdonában lévő ingatlanon állami beruházás keretében elvégzett értéknövelő beruházás az ingatlan tulajdonosának tulajdonaként jön létre.
 
-(4f) Ha a közútfejlesztési gazdasági társaság, illetve a közútkezelő gazdasági társaság különleges gazdasági övezet területén lát el építtetői feladatokat a területi önkormányzati tulajdonban álló ingatlanokon, a forgalomba helyezett vagy ideiglenesen forgalomba helyezett helyi közutak az ingatlantulajdonos területi önkormányzat tulajdonaként jönnek létre.
+(4f)
 
 (4g) A közútfejlesztési gazdasági társaság, illetve a közútkezelő gazdasági társaság a (4f) bekezdés szerinti eszközöket a végleges vagy ennek hiányában az ideiglenes forgalomba helyezést követően, ingyenesen, könyv szerinti értéken adja át a területi önkormányzat részére. A közútfejlesztési gazdasági társaság, illetve a közútkezelő gazdasági társaság a forgalomba helyezést követő 6 hónapon belül elszámolási kimutatást készít annak céljából, hogy a (4f) bekezdés szerinti eszközöket a forgalomba helyezés napján nyilvántartott könyv szerinti értéken a könyveiből kivezesse és az érintett területi önkormányzat könyveiben azokat nyilvántartásba vegye.
 
-(4h) Ha a közútfejlesztési gazdasági társaság, illetve a közútkezelő gazdasági társaság különleges gazdasági övezet területén lát el építtetői feladatokat a magyar állam tulajdonában álló ingatlanokon, a forgalomba helyezett vagy ideiglenesen forgalomba helyezett helyi közutak, továbbá az ezeket magukban foglaló, a magyar állam tulajdonában álló egyes ingatlanok tulajdonjogát a végleges vagy ennek hiányában az ideiglenes forgalomba helyezését követően a magyar állam képviseletében eljáró tulajdonosi joggyakorló – ingatlan-nyilvántartáson való átvezetésre is alkalmas – megállapodással ingyenesen, könyv szerinti értéken köteles átadni az érintett területi önkormányzat részére, amely köteles azokat átvenni.
+(4h)
 
 (5) A 32. § (6) bekezdésében meghatározott szervezet a beruházások befejezését – azaz a végleges vagy ennek hiányában ideiglenes forgalomba helyezést – követően ingyenesen veszi át az országos közúthoz tartozó értéknövelő beruházást vagy földrészletet.
 

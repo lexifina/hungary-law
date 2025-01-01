@@ -38,6 +38,24 @@ b) a vezetői engedélyét az eljáró hatóság kizárólag, a közúti közlek
 
 (8d) Amennyiben a középiskolás járművezető sikeres vizsgát tett, a középiskola a vizsgaközpont részére haladéktalanul átadja a középiskolás járművezető azon adatait, amelyeket a vizsgaközpont az engedély-nyilvántartásba történő bejegyzés érdekében kezel.
 
+(8e) A (8a) szerinti vizsga esetében a felnőttképzésről szóló 2013. évi LXXVII. törvény 1. § (2)–(2a) bekezdése szerinti kötelezettségeket
+
+a) az Nkt.-ben meghatározott oktatási központ feladatainak ellátásra kijelölt szerv,
+
+b) az Szkt.-ben meghatározott szakképzési információs rendszer működtetésére kijelölt szakképzési államigazgatási szerv, és
+
+c) a Magyar Honvédség
+
+teljesíti.
+
+(8f) A (8e) bekezdés szerinti adatszolgáltatáshoz szükséges adatokat elméleti képzés esetén
+
+a) a köznevelési intézmények a (8e) bekezdés a) pontjában,
+
+b) a szakképző intézmények a (8e) bekezdés b) pontjában
+
+meghatározott szerv felé – a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának általános szabályairól szóló kormányrendeletben meghatározott időben – teljesítik.
+
 (9) A közlekedési hatóság a (2) bekezdés szerinti iskolavezetői, szakoktatói, vizsgabiztosi és utánképzés-foglalkozásvezetői tevékenység végzésére jogosultakról névjegyzéket vezet. A névjegyzék – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl – tartalmazza a következő adatokat:
 
 a) természetes személyazonosító adatok,

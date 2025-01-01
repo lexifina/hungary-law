@@ -22,11 +22,7 @@ da) a fenntartási, fejlesztési és üzemeltetési feladatok ellátásával meg
 
 db) a külön jogszabályban meghatározott, kerékpározás céljára használt magánutak és útnak nem minősülő egyéb útvonalak mellett található kerékpáros útbaigazító táblák vonatkozásában a fenntartási, fejlesztési és üzemeltetési feladatok ellátásával megbízott 100%-os állami tulajdonú gazdálkodó szervezet;
 
-e) különleges gazdasági övezet területén lévő helyi közút tekintetében
-
-ea) a területi önkormányzat vagy a fenntartásra, a fejlesztésre és a fejlesztéssel összefüggő üzemeltetésre alapított költségvetési szerv, vagy olyan gazdálkodó szervezet, amelyben a területi önkormányzat 100%-os részesedéssel rendelkezik, vagy
-
-eb) az ea) alpont szerinti gazdálkodó szervezet 100%-os tulajdonában álló gazdálkodó szerve.
+e)
 
 (2) A közút kezelője, az út használatáért díjszedésre, valamint a díjfizetés ellenőrzésére jogosult szerv vagy szervezet és a 21. § (4) bekezdése szerint kijelölt hatóság a gépjárműről és annak hatósági jelzéséről felvételt készíthet annak érdekében, hogy a 21. § (5) bekezdése szerinti kormányrendeletben meghatározott szabályszegések elkövetését bizonyítani lehessen. A közút kezelője, az út használatáért díjszedésre, valamint a díjfizetés ellenőrzésére jogosult szerv vagy szervezet az általa készített felvételt haladéktalanul átadja a 21. § (4) bekezdése szerint kijelölt hatóságnak. A díjfizetés ellenőrzésére jogosult szervezet – amennyiben nem jogosult a pótdíjkövetelés behajtására – a felvételt köteles haladéktalanul átadni a pótdíj beszedésére jogosult szervezetnek.
 

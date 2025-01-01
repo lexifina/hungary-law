@@ -22,6 +22,8 @@ i) – az e törvény végrehajtására a 48. § (3) bekezdés b) pont 4., 28. �
 
 j) a gépjárművek és pótkocsijaik, valamint az ilyen járművek rendszereinek, alkotóelemeinek és önálló műszaki egységeinek jóváhagyásáról és piacfelügyeletéről, a 715/2007/EK és az 595/2009/EK rendelet módosításáról, valamint a 2007/46/EK irányelv hatályon kívül helyezéséről szóló, 2018. május 30-i (EU) 2018/858 európai parlamenti és tanácsi rendelet.
 
+k) az alternatív üzemanyagok infrastruktúrájának kiépítéséről, valamint a 2014/94/EU irányelv hatályon kívül helyezéséről szóló, 2023. szeptember 13-i 2023/1804/EU európai parlamenti és tanácsi rendelet.
+
 (2) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
 a) az Európai Parlament és a Tanács 1999/62/EK irányelve (1999. június 17.) a nehéz tehergépjárművekre egyes infrastruktúrák használatáért kivetett díjakról, 2. cikk b) és c) pontja, 7. cikk (2) bekezdésének a) pontja, (3)–(4) és (9)–(10) bekezdése, 9. cikk (2) bekezdése;

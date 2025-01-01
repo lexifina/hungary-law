@@ -68,7 +68,7 @@ a) a Kormány, hogy
 
 31. a reklámtábláknak, a reklámhordozóknak és egyéb reklámcélú berendezéseknek a közutak melletti elhelyezésére és eltávolítására vonatkozó részletes szabályokat,
 
-32. a közúti közlekedés tekintetében az európai és a nemzeti kritikus infrastruktúrák azonosítás kritériumrendszerének, kritikus infrastruktúrává történő kijelölésnek, érzékeny információ védelmének, kapcsolattartás és jelentéstételi kötelezettségek rendjének, valamint európai kritikus infrastruktúra kijelölése esetén annak védelmének, a kritikus infrastruktúrákra vonatkozó előírások ellenőrzési rendjének, az előírások megsértése esetén alkalmazható jogkövetkezmények részlet szabályait
+32.
 
 33. a kerékpárutak adatainak nyilvántartását végző szerv kijelölését, valamint a kerékpárutak nyilvántartásával összefüggő feladatok ellátásának részletes szakmai szabályait,
 
@@ -314,6 +314,12 @@ e) a díjfizetés alól mentesítettek, valamint a kedvezményes várakozásra j
 
 (5c) Felhatalmazást kap a helyi önkormányzat képviselő-testülete – fővárosban a fővárosi közgyűlés és a fővárosi kerületi képviselőtestület –, hogy rendeletében megállási és várakozási tilalommal érintett zöldfelületet jelöljön ki.
 
-(6) Felhatalmazást kap a Hivatal elnöke, hogy rendeletben állapítsa meg az elektromobilitás szolgáltató és az elektromos töltőberendezés üzemeltetője által rendszeres adatszolgáltatás keretében szolgáltatandó adatok körét, az adatszolgáltatás teljesítésének módjára és esedékességére vonatkozó követelmények, és az adatszolgáltatási kötelezettség teljesítése alól adható mentesség részletes szabályait, továbbá a rendkívüli adatszolgáltatással kapcsolatos szabályokat.
+(5d) Felhatalmazást kap a helyi önkormányzat képviselő-testülete – a fővárosban a fővárosi közgyűlés –, hogy rendeletben állapítsa meg a megengedett legnagyobb össztömeget meghaladó tehergépkocsi, vontató, mezőgazdasági vontató és lassú jármű esetében a korlátozott forgalmú övezetbe történő behajtási hozzájárulás kiadása érdekében a behajtási hozzájárulás regisztrációs díjait és a behajtási díjakat, megfizetésük módját, a díjmentességre jogosultak körét, valamint a díjkedvezményeket.
+
+(6) Felhatalmazást kap a Hivatal elnöke, hogy rendeletben állapítsa meg
+
+1. az elektromobilitás szolgáltató és az elektromos töltőberendezés üzemeltetője által rendszeres adatszolgáltatás keretében szolgáltatandó adatok körét, az adatszolgáltatás teljesítésének módjára és esedékességére vonatkozó követelmények, és az adatszolgáltatási kötelezettség teljesítése alól adható mentesség részletes szabályait, továbbá a rendkívüli adatszolgáltatással kapcsolatos szabályokat,
+
+2. az elektromos töltőpontok üzemeltetőinek és a mobilitási szolgáltatók azonosítására szolgáló nyilvántartás adattartamát és működésének részletes szabályait.
 
 (7) A 21. § (2) bekezdés szerinti közigazgatási bírság befizetési határidejének elmulasztását követő 8 napon belül az eljáró hatóság kezdeményezi a közlekedési igazgatási hatóságnál a szabályszegés elkövetéséhez használt jármű forgalomból történő kivonását.

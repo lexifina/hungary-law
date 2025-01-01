@@ -30,7 +30,7 @@ b) – ha a tárgyévet megelőző évben nem volt, vagy nem teljes évre vonatk
 
 meghatározott összegű felügyeleti díjat fizet.
 
-(5) A Hivatal a feladatai ellátásához szükséges mértékben rendszeres és rendkívüli adatszolgáltatásra kötelezheti az elektromobilitás szolgáltatót és az elektromos töltőberendezés üzemeltetőjét. A rendszeres és rendkívüli adatszolgáltatásra vonatkozó rendelkezéseket, az adatszolgáltatás alóli mentesülés szabályait a Hivatal e törvény végrehajtására kiadott rendeletében határozza meg.
+(5) A Hivatal a feladatai ellátásához szükséges mértékben rendszeres és rendkívüli adatszolgáltatásra kötelezheti az elektromobilitás szolgáltatót és az elektromos töltőberendezés üzemeltetőjét. A rendszeres és rendkívüli adatszolgáltatásra vonatkozó rendelkezéseket, az adatszolgáltatás alóli mentesülés szabályait a Hivatal elnöke e törvény végrehajtására kiadott rendeletében határozza meg.
 
 (6) A Hivatal véglegessé vált elektromobilitás szolgáltatásra vonatkozó határozatait – a személyes és védett adatok kivételével – a honlapján közzé teszi.
 
