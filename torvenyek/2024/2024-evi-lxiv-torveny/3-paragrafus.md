@@ -1,1 +1,1 @@
-3. § Az Nbjt. 16. § (2) bekezdésében a „ha a kiadatás feltételei” szövegrész helyébe a „ha a kiadatás feltételei, vagy – az Európai Unió tagállama által előterjesztett kiadatási kérelem esetén – az európai elfogatóparancs feltételei” szöveg lép.
+### 3. §

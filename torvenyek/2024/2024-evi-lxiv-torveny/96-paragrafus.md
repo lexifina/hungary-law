@@ -19,15 +19,3 @@ c) a vízügyi, energiaipari, közlekedési és postai szolgáltatási ágazatba
 való megfelelést szolgálja.
 
 (3) E törvény 21. alcíme az erdőirtáshoz és az erdőpusztuláshoz kapcsolódó egyes áruk és termékek uniós piacon történő forgalmazásáról és Unióból történő kiviteléről, valamint a 995/2010/EU rendelet hatályon kívül helyezéséről szóló, 2023 május 31-i (EU) 2023/1115 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
-
-|
-
-Dr. Sulyok Tamás s. k.,
-
-köztársasági elnök
-
-|
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke

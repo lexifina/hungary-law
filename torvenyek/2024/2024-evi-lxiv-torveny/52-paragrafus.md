@@ -1,3 +1,1 @@
-52. § A Kbt. 54. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az ajánlatkérő az eljárásban való részvételt ajánlati biztosíték adásához kötheti, amit az ajánlattevőnek az ajánlati kötöttség beálltáig a felhívásban meghatározott mértékben kell az ajánlatkérő rendelkezésére bocsátania. Amennyiben az ajánlatkérő a 87. § (6) bekezdése alapján úgy dönt, hogy nem tart tárgyalást, és az ajánlati kötöttség az erről szóló értesítés ajánlatkérő általi megküldésével áll be, az ajánlati biztosítékot ezen értesítés megküldésétől számított öt munkanapon belül kell rendelkezésre bocsátani. Az ajánlattevőnek igazolnia kell, hogy a biztosítékot az ajánlatkérő rendelkezésére bocsátotta. Az ajánlati biztosíték az ajánlati kötöttség megtartását biztosítja, az eljárás részvételi szakaszában a részvételt nem lehet biztosíték adásához kötni.”
+### 52. §

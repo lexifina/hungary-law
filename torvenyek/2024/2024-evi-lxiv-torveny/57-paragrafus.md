@@ -1,3 +1,1 @@
-57. § A Kbt. 117. § (9) bekezdése helyébe a következő rendelkezés lép:
-
-„(9) A (2) bekezdés szerinti önálló eljárási szabályok kialakításakor az ajánlatkérő a 73. § (1) bekezdés a)–d), g)–h) és k)–n) pontja szerinti érvénytelenségi okokat köteles, a 73. § (1) bekezdés e)–f) és i)–j) pontja szerinti okokat jogosult előírni azzal, hogy a 73. § (1) bekezdés c) pontja szerinti érvénytelenségi ok csak az ott felsorolt kizáró ok előírása esetén, a 73. § (1) bekezdés d) pontja szerinti érvénytelenségi ok csak alkalmassági követelmény előírása esetén alkalmazandó. A 75. § (6) bekezdésében foglaltakat a (2) bekezdés szerinti önálló eljárási szabályok kialakításakor alkalmazni kell.”
+### 57. §

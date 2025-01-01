@@ -1,5 +1,3 @@
-## 15. A Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény módosítása
+## 15.
 
-29. § A Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény 28. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A büntetőeljárásban történő lefoglalás vagy büntetőeljárásban történő bizonyítékként való felhasználás céljából körözött tárgyra elhelyezett figyelmeztető jelzés alapján elért találat esetén a megtalált tárgyat az általános rendőrségi feladatok ellátására létrehozott szerv vagy a Nemzeti Adó- és Vámhivatal nyomozó hatósági feladatot ellátó szervezeti egysége és vámszerve (e § alkalmazásában a továbbiakban együtt: hatóság) a büntetőeljárásról szóló törvény alapján lefoglalja. A lefoglalásra a továbbiakban a büntetőeljárásról szóló törvény lefoglalásra vonatkozó rendelkezéseit kell alkalmazni az e §-ban meghatározott eltérésekkel. Lefoglalás esetén a figyelmeztető jelzést a tárgy lefoglalására irányuló eljárási jogsegély iránti megkeresésnek kell tekinteni, és a lefoglalásról értesíteni kell a jogsegély teljesítésére jogosult ügyészséget.”
+### 29. §

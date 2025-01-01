@@ -1,5 +1,1 @@
-## „h) az ügyészségnek vagy a nyomozó hatóságnak a tárhelyszolgáltatás felfüggesztéséről hozott rendelkezése ellen.”
-
-77. § A Be. a következő 387/A. §-sal egészül ki:
-
-„387/A. § Ha a védő az értesítése, illetve a 387. § alapján tett intézkedések ellenére az eljárási cselekményen nem jelenik meg, a gyanúsítottat vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személyt tájékoztatni kell, hogy a védő távolmaradása az eljárási cselekmény megkezdésének nem akadálya, ugyanakkor a 185. § (1) bekezdés a) pontja alapján a vallomástételt arra figyelemmel is megtagadhatja, hogy a védője az eljárási cselekményen nem jelent meg. Ha terhelt a védő jelenlétének hiányára tekintettel nem kíván vallomást tenni, tájékoztatni kell, hogy a továbbiakban bármikor dönthet úgy, hogy a védő jelenlétében vagy a védő jelenléte nélkül vallomást tesz.”
+### 77. §

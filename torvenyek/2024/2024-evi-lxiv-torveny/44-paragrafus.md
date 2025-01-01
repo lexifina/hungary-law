@@ -1,9 +1,3 @@
-## 17. Az egyes fizetési szolgáltatókról szóló 2013. évi CCXXXV. törvény módosítása
+## 17.
 
-44. § (1) Az egyes fizetési szolgáltatókról szóló 2013. évi CCXXXV. törvény (a továbbiakban: Fszt.) 60. § (14) bekezdése helyébe a következő rendelkezés lép:
-
-„(14) A Rendőrségről szóló 1994. évi XXXIV. törvény 69. § (3) és (4) bekezdésében, a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 58. § (3) bekezdésében vagy a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 262. § (3)–(5) bekezdésében meghatározottak szerinti adatkérés esetén a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény az ügyészség engedélye nélkül is köteles az általa kezelt, fizetési titoknak minősülő adatokra vonatkozó adatkérést teljesíteni. A Be. 262/A. §-a szerinti adatkérés esetén a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény az ügyészségnek az ügyfélre vagy az általa vezetett fizetési számlára, elektronikuspénz-számlára vonatkozó külön engedélye nélkül is köteles az általa kezelt, fizetési titoknak minősülő adatokra vonatkozó adatkérést teljesíteni.”
-
-(2) Az Fszt. 13. alcíme a következő 64/B. §-sal egészül ki:
-
-„64/B. § A törvényben meghatározott feladatok hatékony teljesítése érdekében a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény a nyomozó hatósággal vagy az ügyészséggel együttműködési megállapodást köthet.”
+### 44. §
