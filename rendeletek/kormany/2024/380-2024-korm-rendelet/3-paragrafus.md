@@ -1,3 +1,3 @@
-3. §[^2]
+3. § (1) Az Egyezmény I. melléklete módosításának hivatalos magyar nyelvű fordítását az 1. melléklet tartalmazza.
 
-[^2]: A 3. § a 4. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+(2) Az Egyezmény I. melléklete módosításának hiteles angol nyelvű szövegét a 2. melléklet tartalmazza.

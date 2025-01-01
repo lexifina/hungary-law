@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-380-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2024-12-10 | 2024-380-20-22.1 | 380/2024. (XII. 9.) Korm. rendelet |
+| 2025-01-01 | 2024-380-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
