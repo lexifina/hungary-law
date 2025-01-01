@@ -6,9 +6,9 @@ b) a videómegosztóplatform-szolgáltató által a nyilvánossághoz eljuttatot
 
 c) a tartalom bűncselekményt vagy bűncselekmény elkövetésére való felhívást valósíthat meg, így különösen, ha a tartalom alkalmas terrorcselekmény elkövetésére való felhívásra, közösség elleni uszításra, a nemzetiszocialista vagy kommunista rendszerek bűneinek nyilvános tagadására, illetve, ha gyermekpornográf tartalom megosztását, terjesztését vagy továbbítását valósíthatja meg; vagy
 
-d) videómegosztóplatform-szolgáltatás igénybe vevője által közzétett kereskedelmi közlemény nem felel meg a sajtószabadságról és a médiatartalmak alapvető szabályairól szóló 2010. évi CIV. törvény (a továbbiakban: Smtv.) 20. § (1)–(7) bekezdése vagy az Mttv. 24. §-a szerinti előírásoknak.
+d) a videómegosztóplatform-szolgáltatás felhasználója által közzétett kereskedelmi közlemény nem felel meg a sajtószabadságról és a médiatartalmak alapvető szabályairól szóló 2010. évi CIV. törvény (a továbbiakban: Smtv.) 20. § (1)–(7) bekezdése vagy az Mttv. 24. §-a és 30. § (3) bekezdés b) pontja szerinti előírásoknak.
 
-(2) A videómegosztóplatform-szolgáltató által forgalmazott, értékesített, szervezett kereskedelmi közleménynek meg kell felelnie az Smtv. 20. § (1)–(7) bekezdése és az Mttv. 24. §-a szerinti követelményeknek.
+(2) A videómegosztóplatform-szolgáltató által forgalmazott, értékesített, szervezett kereskedelmi közleménynek meg kell felelnie az Smtv. 20. § (1)–(7) bekezdése, és az Mttv. 24. §-a, valamint 30. § (3) bekezdés b) pontja szerinti követelményeknek.
 
 (3) A videómegosztóplatform-szolgáltató köteles egyértelmű tájékoztatást adni az igénybe vevőnek a kereskedelmi közleményt tartalmazó műsorszámról és azon felhasználó által létrehozott videóról, amely vonatkozásában a 15/G. § b) pontja szerint nyilatkozatot tettek, vagy amely videó esetében a videómegosztóplatform-szolgáltatónak tudomása van arról, hogy kereskedelmi közleményt tartalmaz.
 

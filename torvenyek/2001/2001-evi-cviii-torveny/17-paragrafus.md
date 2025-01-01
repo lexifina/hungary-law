@@ -18,7 +18,7 @@ e)
 
 f)
 
-g) rendeletben határozza meg a közvetítő szolgáltatónak a biztonsági események kezelésével és kivizsgálásával kapcsolatos feladatait, valamint a 15/B. § (4) bekezdése szerint kiszabható bírság mértékét, a bírság megállapításának szempontrendszerét és a bírság megfizetése módjának részletszabályait.
+g) rendeletben határozza meg a közvetítő szolgáltatónak a kiberbiztonsági incidensek kezelésével és kivizsgálásával kapcsolatos feladatait, valamint a 15/B. § (4) bekezdése szerint kiszabható bírság mértékét, a bírság megállapításának szempontrendszerét és a bírság megfizetése módjának részletszabályait.
 
 h) rendeletben állapítsa meg az online szálláshely-közvetítők szálláshely-szolgáltatás értékesítési tevékenységéhez kapcsolódó részletes szabályokat,
 

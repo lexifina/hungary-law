@@ -10,4 +10,4 @@
 
 (6) A videómegosztóplatform-szolgáltató által a kiskorúak (1) és (2) bekezdés alkalmazása céljából gyűjtött vagy más módon generált személyes adatai kereskedelmi céllal – így például közvetlen üzletszerzés, profilalkotás és viselkedésalapú célzott reklámozás céljából – nem kezelhetők.
 
-(7) Az (1) és (2) bekezdésben foglalt követelményekre vonatkozó legjobb gyakorlatokról a Hivatal ajánlást tehet közzé. Az ajánlás kötőerővel nem rendelkezik.
+(7) Az (1) és (2) bekezdésben, valamint a 15/D. § (2) bekezdésében foglalt követelményekre vonatkozó legjobb gyakorlatokról a Hivatal ajánlást tehet közzé. Az ajánlás kötőerővel nem rendelkezik.
