@@ -47,3 +47,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-147-00-00
 | 2023-12-01 | 2023. évi LXXXIII. törvény | 2012-147-00-00.40 |
 | 2024-01-01 | 2023. évi LXXXIII. törvény | 2012-147-00-00.41 |
 | 2024-11-29 | 2024. évi LV. törvény | 2012-147-00-00.42 |
+| 2025-01-01 | 2024. évi LV. törvény | 2012-147-00-00.43 |
