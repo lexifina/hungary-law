@@ -1,4 +1,4 @@
-## Tájékoztatási formanyomtatvány a viszontértékesítési szerződésekhez
+## 4K02898O_0
 
 | 1. | A vállalkozás(ok)ra vonatkozó információk |
 
@@ -56,6 +56,8 @@
 
 ## Az egyéni vállalkozók esetében az egyéni vállalkozók nyilvántartásában szereplő családi és utónév.
 
-4. melléklet a 141/2011. (VII. 21.) Korm. rendelethez[^17]
+4. melléklet a 141/2011. (VII. 21.) Korm. rendelethez[^18]
 
-[^17]: A 4. melléklet a 44/2014. (II. 25.) Korm. rendelet 4. § (4) bekezdése szerint módosított szöveg.
+Tájékoztatási formanyomtatvány a csereszerződésekhez
+
+[^18]: A 4. melléklet a 44/2014. (II. 25.) Korm. rendelet 4. § (4) bekezdése szerint módosított szöveg.

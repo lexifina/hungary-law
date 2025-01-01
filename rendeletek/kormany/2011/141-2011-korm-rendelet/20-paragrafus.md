@@ -7,3 +7,5 @@
 a) a 2. mellékletben szereplő nyomtatványon vagy
 
 b) külön dokumentumban, e dokumentum elérhetőségének megjelölésével
+
+tájékoztatni.

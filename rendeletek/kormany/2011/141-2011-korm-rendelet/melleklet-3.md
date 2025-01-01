@@ -1,4 +1,4 @@
-## Tájékoztatási formanyomtatvány a hosszú távra szóló üdülési termékre vonatkozó szerződésekhez
+## 4K02898N_0
 
 | 1. | A vállalkozás(ok)ra vonatkozó információk |
 
@@ -84,6 +84,8 @@
 
 ## Az egyéni vállalkozók esetében az egyéni vállalkozók nyilvántartásában szereplő családi és utónév.
 
-3. melléklet a 141/2011. (VII. 21.) Korm. rendelethez[^16]
+3. melléklet a 141/2011. (VII. 21.) Korm. rendelethez[^17]
 
-[^16]: A 3. melléklet a 44/2014. (II. 25.) Korm. rendelet 4. § (3) bekezdése szerint módosított szöveg.
+Tájékoztatási formanyomtatvány a viszontértékesítési szerződésekhez
+
+[^17]: A 3. melléklet a 44/2014. (II. 25.) Korm. rendelet 4. § (3) bekezdése szerint módosított szöveg.

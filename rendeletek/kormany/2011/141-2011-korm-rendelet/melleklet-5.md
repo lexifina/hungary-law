@@ -1,4 +1,4 @@
-## Tájékoztatási formanyomtatvány a csereszerződésekhez
+## 4K02898P_0
 
 | 1. | A vállalkozás(ok)ra vonatkozó információk |
 
@@ -87,6 +87,8 @@
 5. melléklet a 141/2011. (VII. 21.) Korm. rendelethez
 
 Formanyomtatvány az elállási jog gyakorlásához
+
+1M25396_0
 
 |  | Értesítés az elállási jog gyakorlásáról Vállalkozás neve és címe*: Értesítem/értesítjük** arról, hogy a szerződéstől elállok/elállunk*** A szerződéskötés időpontja* A fogyasztó(k) neve(i) és címe(i)*** A fogyasztó(k) aláírása(i)*** Dátum*** * A vállalkozás tölti ki a formanyomtatványnak a fogyasztó részére történő átadása előtt. ** A nem kívánt rész törlendő. *** A fogyasztó tölti ki, ha ezt a formanyomtatványt használta az elállási jog gyakorlásához |
 

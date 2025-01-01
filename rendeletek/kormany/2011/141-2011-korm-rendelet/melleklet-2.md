@@ -1,4 +1,4 @@
-## Tájékoztatási formanyomtatvány a szállás időben megosztott használati jogára vonatkozó szerződésekhez
+## 4K02898M_0
 
 | 1. | A vállalkozás(ok)ra vonatkozó információk |
 
@@ -130,6 +130,8 @@
 
 ## Az egyéni vállalkozók esetében az egyéni vállalkozók nyilvántartásában szereplő családi és utónév.
 
-2. melléklet a 141/2011. (VII. 21.) Korm. rendelethez[^15]
+2. melléklet a 141/2011. (VII. 21.) Korm. rendelethez[^16]
 
-[^15]: A 2. melléklet a 44/2014. (II. 25.) Korm. rendelet 4. § (2) bekezdése szerint módosított szöveg.
+Tájékoztatási formanyomtatvány a hosszú távra szóló üdülési termékre vonatkozó szerződésekhez
+
+[^16]: A 2. melléklet a 44/2014. (II. 25.) Korm. rendelet 4. § (2) bekezdése szerint módosított szöveg.
