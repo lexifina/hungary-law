@@ -1,1 +1,3 @@
-3. § Hatályát veszti a 17/2024. (IV. 9.) AM rendelet 8. § (3) bekezdése.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
