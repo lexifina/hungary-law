@@ -1,10 +1,10 @@
-24. § (1) Ha a kormánytisztviselő számára kinevezésekor, vagy kinevezése módosításakor álláshelyen ellátandó feladatként kormányablak, vagy okmányirodai feladat került meghatározásra, kormányablak-ügyintézői vizsgát kell tennie.
+24. § (1)[^16] Ha a kormánytisztviselő számára kinevezésekor, vagy kinevezése módosításakor álláshelyen ellátandó feladatként kormányablak, vagy KOF ügyfélszolgálati feladat került meghatározásra, kormányablak-ügyintézői vizsgát kell tennie.
 
 (2) A kormányablak-ügyintézői vizsgát – a (3) bekezdésben foglaltak kivételével – a kinevezéstől vagy a kinevezés módosításától számított egy éven belül kell teljesíteni.
 
 (3) Ha a (2) bekezdés szerinti határidő a kormányablak-ügyintézői képzés indulásának hiánya miatt nem teljesíthető, a kormányablak-ügyintézői vizsgát a képzés indulásától számított egy éven belül kell teljesíteni.
 
-(4) Ha a kormánytisztviselő a kormányablak-ügyintézői vizsgát a (2) és (3) bekezdésben foglalt határidőben nem teljesíti, álláshelyi feladatként kormányablak vagy okmányirodai feladatot nem láthat el.
+(4)[^17] Ha a kormánytisztviselő a kormányablak-ügyintézői vizsgát a (2) és (3) bekezdésben foglalt határidőben nem teljesíti, álláshelyi feladatként kormányablak vagy KOF ügyfélszolgálati feladatot nem láthat el.
 
 (5) A kormányablak-ügyintézői vizsga letételére nyitva álló határidőbe nem számít bele a harminc napot meghaladó fizetés nélküli szabadság vagy keresőképtelenség, továbbá a harminc napot meghaladó kiküldetés időtartama.
 
@@ -15,3 +15,6 @@ a) a felsőfokú végzettséggel rendelkező kormányhivatalok kormánytisztvise
 b) a középfokú iskolai végzettséggel rendelkező kormányhivatalok kormánytisztviselői részére indított, az a) pont szerinti szakirányú továbbképzéssel megegyező időtartamú közszolgálati továbbképzést sikeresen teljesítették.
 
 (7) A kormányablak-ügyintézői képzés és a kormányablak-ügyintézői vizsga esetében nem kell alkalmazni a 15. § (1) bekezdésében foglaltakat.
+
+[^16]: A 24. § (1) bekezdése a 402/2024. (XII. 16.) Korm. rendelet 13. § c) pontja szerint módosított szöveg.
+[^17]: A 24. § (4) bekezdése a 402/2024. (XII. 16.) Korm. rendelet 13. § c) pontja szerint módosított szöveg.
