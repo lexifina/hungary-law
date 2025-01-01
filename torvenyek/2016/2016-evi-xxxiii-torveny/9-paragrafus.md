@@ -34,7 +34,7 @@ c) megszegte a keretszerződésben megállapított feltételeket,
 
 d) vonatkozásában lefolytatott ellenőrzés során összeférhetetlenség kerül megállapításra.
 
-e) vonatkozásában a nemzetbiztonsági ellenőrzés nemzetbiztonsági kockázatot állapított meg.
+e) vonatkozásában lefolytatott 4. § (3b) bekezdése szerinti vizsgálat eredményeképpen a munkáltató tudomására jut, hogy a 3. § (2) bekezdés a) pontja szerinti feltételeknek nem felel meg, az általa benyújtott végzettséget igazoló okiratok nem hitelesek, továbbá az érdekeltségi nyilatkozatban tett kijelentései nem felelnek meg a valóságnak, valamint az érdekeltségi nyilatkozatban foglalt bejelentési kötelezettségének nem tett eleget.
 
 (5a) Az (1) bekezdés c) pontja alapján a jogviszony nem szűnik meg, ha az értékelő alapjogviszonyának megszűnésétől számított harminc napon belül újabb alapjogviszonyt létesít. Nem szűnik meg továbbá a jogviszony az alapjogviszony nyugvása alatt sem, ha a nyugvás kezdő időpontját követő harminc napon belül az értékelő új beosztási okiratát a fogadó szerv kiállítja. Ezekben az esetekben az értékelő állami projektértékelői jogviszonya folyamatosnak tekintendő.
 
