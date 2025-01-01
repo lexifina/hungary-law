@@ -1,6 +1,6 @@
 ## 3. Pénzbírság, helyszíni bírság, illetve közérdekű munka helyébe lépő szabálysértési elzárás végrehajtása
 
-5. § (1)[^8] A szabálysértési hatóság a meg nem fizetett pénzbírságot, a meg nem fizetett helyszíni bírságot, valamint a nem teljesített közérdekű munkát szabálysértési elzárásra átváltoztató jogerős, végrehajtási záradékkal ellátott bírósági határozatot (a továbbiakban: átváltoztató bírósági határozat) megküldi az elkövetőnek, képviselőjének, fiatalkorú elkövető esetén a fiatalkorú törvényes képviselőjének és a fiatalkorú lakóhelye, tartózkodási helye szerint illetékes gyámhatóságnak, valamint a bv. intézetnek. Az átváltoztató bírósági határozat bv. intézetnek megküldött példányához csatolja a pénzbírságról rendelkező határozat, a helyszíni bírság kiszabásáról szóló nyomtatvány vagy a közérdekű munkáról rendelkező határozat hitelesített másolatát, valamint közli a felhívásban előírt megjelenési kötelezettség napját és végrehajthatósága elévülésének időpontját.
+5. § (1)[^9] A szabálysértési hatóság a meg nem fizetett pénzbírságot, a meg nem fizetett helyszíni bírságot, valamint a nem teljesített közérdekű munkát szabálysértési elzárásra átváltoztató jogerős, végrehajtási záradékkal ellátott bírósági határozatot (a továbbiakban: átváltoztató bírósági határozat) megküldi az elkövetőnek, képviselőjének, fiatalkorú elkövető esetén a fiatalkorú törvényes képviselőjének és a fiatalkorú lakóhelye, tartózkodási helye szerint illetékes gyámhatóságnak, valamint a bv. intézetnek. Az átváltoztató bírósági határozat bv. intézetnek megküldött példányához csatolja a pénzbírságról rendelkező határozat, a helyszíni bírság kiszabásáról szóló nyomtatvány vagy a közérdekű munkáról rendelkező határozat hitelesített másolatát, valamint közli a felhívásban előírt megjelenési kötelezettség napját és végrehajthatósága elévülésének időpontját.
 
 (2) Ha az elkövető a pénzbírságot, helyszíni bírságot az átváltoztató bírósági határozat bv. intézettel való közlést követően megfizeti, erről a szabálysértési hatóság a bv. intézetet haladéktalanul – rövid úton is – értesíti.
 
@@ -10,13 +10,17 @@ a) a pénzbírság, a helyszíni bírság, illetve a közérdekű munka helyébe
 
 b) azt a felhívást, hogy az elkövető melyik napon, melyik bv. intézetben jelentkezzék,
 
-c)[^9] a 3. § (3) és (4) bekezdésében meghatározott figyelemfelhívást, illetve tájékoztatást,
+c)[^10] a 3. § (3) és (4) bekezdésében meghatározott figyelemfelhívást, illetve tájékoztatást,
 
 d) azt a pénzbírság, helyszíni bírság megfizetésének módjait és az egyes fizetési módok esetén a befizető által a fizetéssel egyidejűleg kötelezően megadandó adatok körét is tartalmazó figyelmeztetést, hogy a pénzbírság, illetve helyszíni bírság a szabálysértési elzárás megkezdése előtt, illetve annak tartama alatt is megfizethető, és ez esetben az elkövető a szabálysértési elzárás végrehajtása, illetve további végrehajtása alól mentesül,
 
 e) a szabálysértési hatóság részéről eljáró személy aláírását és az eljáró szabálysértési hatóság körbélyegzőjének lenyomatát.
 
-(4)[^10] A közérdekű munka átváltoztatása, valamint az elektronikus és a hirdetményi kézbesítés esetét kivéve a felhíváshoz kitöltött készpénz-átutalási megbízást (a továbbiakban: csekkszelvény) kell mellékelni. A csekkszelvény tartalmazza
+(3a)[^11] A szabálysértési hatóság a felhívással egyidejűleg a tizennegyedik életévét betöltött kiskorú gyermekét egyedül nevelő szülővel, gyámmal szemben az egyéb büntetés helyébe lépő elzárásról értesíti a tizennegyedik életévét betöltött kiskorú lakóhelye, tartózkodási helye szerint illetékes gyámhatóságot.
+
+(3b)[^12] A (3a) bekezdésben foglalt esetben, ha az elzárás végrehajthatósága bármely okból megszűnik, erről a szabálysértési hatóság haladéktalanul értesíti a gyámhatóságot.
+
+(4)[^13] A közérdekű munka átváltoztatása, valamint az elektronikus és a hirdetményi kézbesítés esetét kivéve a felhíváshoz kitöltött készpénz-átutalási megbízást (a továbbiakban: csekkszelvény) kell mellékelni. A csekkszelvény tartalmazza
 
 a) a pénzbírságot kiszabó határozat vagy a helyszíni bírságoláshoz használt nyomtatvány egyedi azonosítására alkalmas ügyszámát vagy sorszámát,
 
@@ -26,11 +30,13 @@ c) a megfizetésre szolgáló számlaszámot, a nemzetközi fizetési számlasz�
 
 d) a pénzbírság, helyszíni bírság összegét.
 
-(4a)[^11]
+(4a)[^14]
 
 (5) A felhívást úgy kell kiadni, hogy azt az elkövető a bv. intézetben való jelentkezésre meghatározott időpont előtt legalább nyolc nappal megkapja.
 
-[^8]: Az 5. § (1) bekezdése a 81/2015. (XII. 23.) BM rendelet 27. § 2. pontja szerint módosított szöveg.
-[^9]: Az 5. § (3) bekezdés c) pontja a 81/2015. (XII. 23.) BM rendelet 23. §-ával megállapított szöveg.
-[^10]: Az 5. § (4) bekezdése a 60/2016. (XII. 29.) BM rendelet 14. § (1) bekezdésével megállapított, nyitó szövegrésze a 4/2022. (III. 25.) BM rendelet 10. §-a szerint módosított szöveg.
-[^11]: Az 5. § (4a) bekezdését a 60/2016. (XII. 29.) BM rendelet 14. § (2) bekezdése iktatta be, a 68/2022. (XII. 27.) BM rendelet 1. §-a hatályon kívül helyezte.
+[^9]: Az 5. § (1) bekezdése a 81/2015. (XII. 23.) BM rendelet 27. § 2. pontja szerint módosított szöveg.
+[^10]: Az 5. § (3) bekezdés c) pontja a 81/2015. (XII. 23.) BM rendelet 23. §-ával megállapított szöveg.
+[^11]: Az 5. § (3a) bekezdését a 62/2024. (XII. 30.) BM rendelet 30. §-a iktatta be.
+[^12]: Az 5. § (3b) bekezdését a 62/2024. (XII. 30.) BM rendelet 30. §-a iktatta be.
+[^13]: Az 5. § (4) bekezdése a 60/2016. (XII. 29.) BM rendelet 14. § (1) bekezdésével megállapított, nyitó szövegrésze a 4/2022. (III. 25.) BM rendelet 10. §-a szerint módosított szöveg.
+[^14]: Az 5. § (4a) bekezdését a 60/2016. (XII. 29.) BM rendelet 14. § (2) bekezdése iktatta be, a 68/2022. (XII. 27.) BM rendelet 1. §-a hatályon kívül helyezte.

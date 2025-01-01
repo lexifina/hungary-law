@@ -6,7 +6,7 @@
 
 a) felhívásra jelentkezett, vagy elővezették, a szabálysértési elzárást foganatosító szervnél történő befogadás napja,
 
-b)[^24] letartóztatásban volt, vagy szabadságvesztést, illetve elzárást töltött, a letartóztatás megszűnését vagy megszüntetését követő nap, az elzárás vagy a szabadságvesztés utolsó napját követő nap, illetve a feltételes szabadságra bocsátás napja,
+b)[^27] letartóztatásban volt, vagy szabadságvesztést, illetve elzárást töltött, a letartóztatás megszűnését vagy megszüntetését követő nap, az elzárás vagy a szabadságvesztés utolsó napját követő nap, illetve a feltételes szabadságra bocsátás napja,
 
 c) idegenrendészeti őrizet hatálya alatt áll, és szabálysértési elzárás végrehajtására érkezik bírósági határozat, az idegenrendészeti őrizet megszakítását követő nap,
 
@@ -24,4 +24,4 @@ f) menekültügyi őrizet hatálya alatt áll, és szabálysértési elzárás v
 
 (6) A végrehajtás folyamatosságának megszakadása esetén a szabálysértési elzárás utolsó napját ismételten meg kell állapítani. Az ezzel kapcsolatos tájékoztatásra az (5) bekezdést kell alkalmazni.
 
-[^24]: A 15. § (2) bekezdés b) pontja a 26/2019. (VI. 27.) BM rendelet 5. § b) és g) pontja szerint módosított szöveg.
+[^27]: A 15. § (2) bekezdés b) pontja a 26/2019. (VI. 27.) BM rendelet 5. § b) és g) pontja szerint módosított szöveg.

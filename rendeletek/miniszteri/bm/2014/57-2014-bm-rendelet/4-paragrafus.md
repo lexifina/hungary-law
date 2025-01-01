@@ -10,7 +10,7 @@ c) a fiatalkorú elkövető törvényes képviselőjének nevét, születési ne
 
 d) a szabálysértés megnevezését, a Szabs. tv. szerinti minősítését, valamint a kiszabott szabálysértési elzárás tartamát, a Szabs. tv. 9. § (3) bekezdésének figyelembevételével,
 
-e) annak a bv. intézetnek a megnevezését, ahová az elkövetőt elő kell vezetni, valamint azt, hogy az elkövetőt melyik napon kell a bv. intézetbe elővezetni, továbbá az arra való figyelmeztetést, hogy ha az elővezetés megkísérlését követő ismételt elővezetési kísérlet sem vezet eredményre, a körözését kell elrendelni,
+e)[^8] annak a bv. intézetnek a megnevezését, ahová az elkövetőt elő kell vezetni, valamint azt, hogy az elkövetőt melyik napon kell a bv. intézetbe elővezetni,
 
 f) a szabálysértési hatóság részéről eljáró személy aláírását, és az eljáró hatóság körbélyegzőjének lenyomatát.
 
@@ -19,3 +19,5 @@ f) a szabálysértési hatóság részéről eljáró személy aláírását, é
 (4) Az elővezetést foganatosító rendőr az elővezetési határozat egy példányát átadja az elkövetőnek. A rendőr az elkövetőt az elővezetési határozat két példányával adja át a bv. intézetnek. A határozat egy példányát a bv. intézet visszatartja, egy példányon az elkövető átvételét igazolja, és azt a rendőrnek visszaadja.
 
 (5) A megismételt elővezetés sikertelenségéről való tudomásszerzést követő öt napon belül a szabálysértési hatóság az elkövető körözését rendeli el.
+
+[^8]: A 4. § (2) bekezdés e) pontja a 62/2024. (XII. 30.) BM rendelet 29. §-ával megállapított szöveg.

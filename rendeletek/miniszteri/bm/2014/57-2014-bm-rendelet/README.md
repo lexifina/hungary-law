@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-57-20-0
 | 2019-06-28 | 2014-57-20-0A.8 | 26/2019. (VI. 27.) BM rendelet |
 | 2022-03-26 | 2014-57-20-0A.9 | 60/2016. (XII. 29.) BM rendelet |
 | 2023-01-01 | 2014-57-20-0A.10 | 60/2016. (XII. 29.) BM rendelet |
+| 2025-01-01 | 2014-57-20-0A.11 | 62/2024. (XII. 30.) BM rendelet |

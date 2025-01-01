@@ -14,10 +14,10 @@ c) a javítóintézetnek, ahol a javítóintézeti nevelést végrehajtják.
 
 (4)[^5] Ha az elkövetőt a letartóztatásból szabadlábra helyezték, illetve a szabadságvesztésből, az elzárásból vagy a szabálysértési elzárásból szabadították, illetve a javítóintézeti nevelésből elbocsátották, a bv. intézet, a javítóintézet, vagy a rendőrségi fogda a bírósági határozatot – a szabadulás napjának megjelölésével – haladéktalanul visszaküldi az azt megküldő szabálysértési hatóságnak.
 
-(5)[^6] A szabálysértési hatóság a tizennegyedik életévét betöltött kiskorú gyermekét egyedül nevelő szülővel, gyámmal szemben elrendelt elzárást kiszabó határozat kézhezvételét követően haladéktalanul értesíti a tizennegyedik életévét betöltött kiskorú lakóhelye, tartózkodási helye szerint illetékes gyámhatóságot.
+(5)[^6] A rendőrség a tizennegyedik életévét betöltött kiskorú gyermekét egyedül nevelő szülővel, gyámmal szemben hozott elzárást kiszabó határozat kézhezvételét követően haladéktalanul értesíti a tizennegyedik életévét betöltött kiskorú lakóhelye, tartózkodási helye szerint illetékes gyámhatóságot.
 
 [^2]: A 2. § (1) bekezdése a 81/2015. (XII. 23.) BM rendelet 27. § 1. pontja szerint módosított szöveg.
 [^3]: A 2. § (3) bekezdése a 11/2017. (VI. 2.) BM rendelet 4. § a) pontja, a 26/2019. (VI. 27.) BM rendelet 5. § b) pontja szerint módosított szöveg.
 [^4]: A 2. § (3) bekezdés a) pontja a 26/2019. (VI. 27.) BM rendelet 5. § c) pontja szerint módosított szöveg.
 [^5]: A 2. § (4) bekezdése a 26/2019. (VI. 27.) BM rendelet 5. § d) pontja szerint módosított szöveg.
-[^6]: A 2. § (5) bekezdését a 81/2015. (XII. 23.) BM rendelet 21. §-a iktatta be.
+[^6]: A 2. § (5) bekezdését a 81/2015. (XII. 23.) BM rendelet 21. §-a iktatta be, szövege a 62/2024. (XII. 30.) BM rendelet 28. §-ával megállapított szöveg.
