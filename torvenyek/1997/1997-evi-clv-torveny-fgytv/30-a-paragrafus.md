@@ -6,4 +6,4 @@ b) a személyazonosságának igazolására alkalmas hatósági igazolványának 
 
 történik.
 
-(2) A meghallgatás megkezdésekor az eljáró tanács elnöke tájékoztatja a meghallgatott személyt, hogy a meghallgatására online formában kerül sor.
+(2)

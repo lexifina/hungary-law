@@ -1,6 +1,6 @@
 ## Fogyasztóvédelmi referens
 
-17/D. § (1) A számvitelről szóló 2000. évi C. törvény (a továbbiakban: Szt.) hatálya alá tartozó, a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény hatálya alá nem tartozó vállalkozás köteles fogyasztóvédelmi referenst foglalkoztatni.
+17/D. § (1) Köteles fogyasztóvédelmi referenst foglalkoztatni a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Szt.) hatálya alá tartozó, a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény hatálya alá nem tartozó vállalkozás, ha az éves nettó (konszolidált) árbevétele meghaladja az 5 milliárd forintot.
 
 (2) A fogyasztóvédelmi referens feladata a vállalkozás fogyasztókat érintő tevékenységének figyelemmel kísérése, a vállalkozás alkalmazottai részére a fogyasztóvédelmi szemlélet erősítését, valamint a fogyasztóvédelmi szabályok ismeretének elmélyítését elősegítő fogyasztóvédelmi tárgyú oktatás, képzés rendszeres szervezése. A fogyasztóvédelmi referens kapcsolatot tart a fogyasztóvédelmi hatósággal, békéltető testületekkel, valamint egyéb, fogyasztóvédelmi feladatokat is ellátó állami szervekkel.
 
@@ -32,7 +32,7 @@ a) ellene sem csőd-, sem felszámolási eljárást nem indítottak, továbbá
 
 b) a képzési tevékenység bejelentését megelőző 5 évben nem szerepelt az adóhiányosok, hátralékosok vagy végrehajtási eljárás alatt álló adózók listáján, és adószáma nem került felfüggesztésre vagy törlésre.
 
-(9) Fogyasztóvédelmi referens foglalkoztatására köteles vállalkozás a (3) bekezdés b) pontja szerinti képzést nem szervezhet.
+(9)
 
 (10) A (8) bekezdés szerinti bejelentésnek tartalmaznia kell:
 
@@ -50,7 +50,7 @@ f) annak igazolását, hogy a szervező mind a négy szakirány oktatásához sz
 
 g) annak igazolását, mely szerint a szervező a fogyasztóvédelem vagy a fogyasztóvédelmi oktatás területén szerzett szakmai tapasztalattal rendelkezik,
 
-h) annak igazolását, hogy a szervező szerepel a köztartozásmentes adózói adatbázisban.
+h) a szervező nyilatkozatát arról, hogy szerepel a köztartozásmentes adózói adatbázisban.
 
 (10a)
 

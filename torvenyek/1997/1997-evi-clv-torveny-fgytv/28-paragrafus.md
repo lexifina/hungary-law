@@ -2,7 +2,7 @@
 
 (2) A kérelmet a békéltető testület elnökéhez kell írásban benyújtani. Az írásos formának a 17/C. § szerinti módokon is eleget lehet tenni. A kérelemnek tartalmaznia kell
 
-a) a fogyasztó nevét, lakóhelyét vagy tartózkodási helyét,
+a) a fogyasztó nevét, lakóhelyét vagy tartózkodási helyét, továbbá elektronikus elérhetőségét, amennyiben azzal rendelkezik,
 
 b) a fogyasztói jogvitával érintett vállalkozás nevét, székhelyét vagy érintett telephelyét,
 
@@ -16,7 +16,7 @@ f) a fogyasztó nyilatkozatát arra nézve, hogy az ügyben más békéltető te
 
 g) a testület döntésére irányuló indítványt,
 
-h) a fogyasztó aláírását.
+h) a fogyasztó aláírását, kivéve, ha a fogyasztó kérelmét és annak mellékleteit a 37/A. § (3) bekezdése szerinti online úton nyújtja be.
 
 (3) A kérelemhez csatolni kell azt az okiratot, illetve annak másolatát (kivonatát), amelynek tartalmára a fogyasztó bizonyítékként hivatkozik, így különösen a vállalkozás írásbeli nyilatkozatát a panasz elutasításáról, ennek hiányában a fogyasztó rendelkezésére álló egyéb írásos bizonyítékot a 27. §-ban előírt egyeztetés megkísérléséről.
 
