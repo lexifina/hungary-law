@@ -1,0 +1,1 @@
+1. § Menedékjogi kérelem benyújtására irányuló szándéknyilatkozatot Magyarországgal határos, nem európai uniós tagállam területén működő, a külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény 3. § (1) bekezdés a) pontjában meghatározott magyar diplomáciai képviselet területén lehet benyújtani.
