@@ -12,10 +12,10 @@
 
 (5) Az alaptevékenységhez, illetve a vállalkozási tevékenységhez is kapcsolódó ráfordításokat (költségeket), kiadásokat az egyéb szervezet, a közhasznú egyéb szervezet a tényleges használat (az igénybevétel) arányában, illetve ha ez nem állapítható meg, akkor a bevételek arányában köteles megosztani az alaptevékenység, illetve a vállalkozási tevékenység között.
 
-(6)[^30] A továbbutalási céllal kapott, bevételként elszámolt támogatás összegét az alaptevékenységhez, illetve a vállalkozási tevékenységhez egyaránt felmerült ráfordítások (költségek), kiadások megosztásánál, valamint a könyvvezetési rendszerek közötti áttérést meghatározó bevételnél figyelmen kívül kell hagyni.
+(6)[^31] A továbbutalási céllal kapott, bevételként elszámolt támogatás összegét az alaptevékenységhez, illetve a vállalkozási tevékenységhez egyaránt felmerült ráfordítások (költségek), kiadások megosztásánál, valamint a könyvvezetési rendszerek közötti áttérést meghatározó bevételnél figyelmen kívül kell hagyni.
 
 (7) Az eredménylevezetésben, az eredménykimutatásban az előző évi és a tárgyévi adatokat, valamint a jelentős összegű hibák elkülönített bemutatását alaptevékenység, vállalkozási tevékenység, összesen bontásban tovább kell részletezni.
 
 (8) Az egyszerűsített beszámolót készítő egyéb szervezetnek az eredménylevezetésben a bevételeit, valamint a ráfordításait (költségeit), kiadásait meg kell bontani aszerint is, hogy azokat a tényleges pénzügyi teljesítés alapján vagy pénzmozgás nélküli ügylet kapcsán számolták el.
 
-[^30]: A 12. § (6) bekezdése a 719/2021. (XII. 20.) Korm. rendelet 10. § 7. pontja szerint módosított szöveg.
+[^31]: A 12. § (6) bekezdése a 719/2021. (XII. 20.) Korm. rendelet 10. § 7. pontja szerint módosított szöveg.
