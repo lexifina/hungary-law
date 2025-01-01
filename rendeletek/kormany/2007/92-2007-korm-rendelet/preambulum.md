@@ -1,1 +1,0 @@
-A Kormány a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 36. §-ában és 110. §-a (7) bekezdésének f) pontjában kapott felhatalmazás alapján – a vízgazdálkodásról szóló 1995. évi LVII. törvénnyel összhangban – a következőket rendeli el:
