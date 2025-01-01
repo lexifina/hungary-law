@@ -32,4 +32,6 @@ b) az elrendelt eredeti állapot helyreállításának elfogadása esetén az 1.
 
 2.7. a 24. § (1) bekezdés g) pontjában foglalt esetekben a termőföld ingatlan-nyilvántartás szerinti AK értékének kétezer-hatszázszorosa;
 
-2.8. összegét, ha a terület AK értéke nem szerepel az ingatlan-nyilvántartásban, a településen levő szántók átlagos AK értéke alapján kell megállapítani.
+2.8. összege a 24. § (1) bekezdés h) pontjában foglalt esetben 50 000 Ft;
+
+2.9. összegét, ha a terület AK értéke nem szerepel az ingatlan-nyilvántartásban, a településen levő szántók átlagos AK értéke alapján kell megállapítani.

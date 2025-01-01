@@ -42,7 +42,7 @@
 
 10.10. egyéb;
 
-11. annak megjelölése, hogy a beruházást a Kormány nemzetgazdasági szempontból kiemelt beruházássá nyilvánította-e;
+11. annak megjelölése, hogy a beruházást a Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé vagy kiemelt beruházássá, és a kiemelt beruházással összefüggő földvédelmi eljárást kiemelt jelentőségű üggyé nyilvánította-e;
 
 12. annak megjelölése, hogy a területet a Kormány beruházási célterületté nyilvánította-e;
 

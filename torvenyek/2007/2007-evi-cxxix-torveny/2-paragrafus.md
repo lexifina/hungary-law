@@ -42,7 +42,7 @@
 
 18. talajvédelmi terv: a talajvédelmi hatósági eljárásokat megalapozó szakanyag;
 
-19. termőföld: az a földrészlet, amely a település külterületén fekszik, és az ingatlan-nyilvántartásban szántó, szőlő, gyümölcsös, kert, rét, legelő (gyep), nádas vagy fásított terület művelési ágban van nyilvántartva, kivéve, ha a földrészlet az Evt.-ben meghatározott erdőnek minősül;
+19. termőföld: az a földrészlet vagy alrészlet, amely a település külterületén fekszik, és az ingatlan-nyilvántartásban szántó, szőlő, gyümölcsös, kert, rét, legelő (gyep), nádas vagy fásított terület művelési ágban van nyilvántartva, kivéve, ha a földrészlet vagy alrészlet az Evt.-ben meghatározott erdőnek minősül;
 
 20. termőföld eredeti állapotának helyreállítása: a beruházási célterület céljára fel nem használt, valamint az időlegesen, illetve az engedély nélkül más célra hasznosított termőföldnek a más célú hasznosítását közvetlenül megelőző, az ingatlan-nyilvántartásban rögzített művelési ágnak és minőségi osztálynak megfelelő állapotába történő helyreállítása;
 

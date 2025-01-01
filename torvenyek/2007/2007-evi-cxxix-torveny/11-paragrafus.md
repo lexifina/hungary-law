@@ -2,7 +2,7 @@
 
 (1a) Olyan termőföld, melynek tulajdoni lapján fenntartható vízgazdálkodási közösség területe jogi jelleg került feljegyzésre, az igénybevevő személyétől függetlenül kizárólag a (3) bekezdés g) pontja, a 10. § (2) bekezdés a), b), d), f) és g) pontja, a 15/B. § (3) bekezdése, valamint a 21. § (3) bekezdés a), b) és f) pontja szerinti esetekben hasznosítható más célra.
 
-(2) Az átlagosnál jobb minőségű termőföldet más célra hasznosítani csak időlegesen, illetve helyhez kötött igénybevétel céljából lehet. A termőföldnek hulladéklerakó céljára történő igénybevétele esetén a környezetvédelmi és természetvédelmi követelmények betartása mellett, mezőgazdasági művelésre alkalmatlan vagy átlagosnál gyengébb minőségű termőföld más célú hasznosítása engedélyezhető. A nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházás esetében az átlagosnál jobb minőségű termőföld végleges más célú hasznosítása is engedélyezhető, ha annak megvalósítása más jogszabály rendelkezéseire figyelemmel más helyen vagy más nyomvonalon nem lehetséges.
+(2) Az átlagosnál jobb minőségű termőföldet más célra hasznosítani csak időlegesen, illetve helyhez kötött igénybevétel céljából lehet. A termőföldnek hulladéklerakó céljára történő igénybevétele esetén a környezetvédelmi és természetvédelmi követelmények betartása mellett, mezőgazdasági művelésre alkalmatlan vagy átlagosnál gyengébb minőségű termőföld más célú hasznosítása engedélyezhető. A nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházás és a kiemelt közlekedési infrastruktúra-beruházással összefüggő kiemelt jelentőségű ügy esetében az átlagosnál jobb minőségű termőföld végleges más célú hasznosítása is engedélyezhető, ha annak megvalósítása más jogszabály rendelkezéseire figyelemmel más helyen vagy más nyomvonalon nem lehetséges.
 
 (3) A (2) bekezdés alkalmazása szempontjából helyhez kötött igénybevételnek kell tekinteni különösen
 
@@ -18,7 +18,7 @@ e) a régészeti lelet feltárásához és megőrzéséhez szükséges területi
 
 f) a legfeljebb 1 hektár területű termőföldet érintő, a 21. § (3) bekezdés f) pontja szerinti más célú hasznosítást;
 
-g) a legfeljebb 1 hektár területű termőföldet érintő, nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházás megvalósítását, építését vagy üzemeltetését szolgáló létesítmény vagy tárolótér elhelyezését, annak közműkapcsolatainak kiépítését.
+g) a legfeljebb 1 hektár területű termőföldet érintő, nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházás vagy kiemelt beruházásnak minősülő közlekedési infrastruktúra-beruházás megvalósítását, építését vagy üzemeltetését szolgáló létesítmény vagy tárolótér elhelyezését, annak közműkapcsolatainak kiépítését.
 
 (3a) A helyhez kötöttséget megalapozó körülmény fennállását – a (3) bekezdés c) pontjában foglalt kivétellel – az igénybevevőnek kell igazolni a kérelem benyújtásakor. Az igénybevétel helyhez kötöttségét nem alapozza meg önmagában a létesítmény elhelyezésének célszerűsége, a településrendezési eszközök által szabályozott területfelhasználási mód, a termőföld tulajdonosainak együttműködési hajlandósága miatti beruházói könnyebbség, illetve ha az igénybevevőnek többletterhet jelentene a beruházás más ingatlanon történő megvalósítása.
 
