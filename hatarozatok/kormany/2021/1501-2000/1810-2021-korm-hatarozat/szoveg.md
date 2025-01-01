@@ -32,7 +32,7 @@ b) a szerződés csak olyan tartalommal köthető meg, amely biztosítja a külg
 
 7. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli
 
-a) a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet XVIII. Külgazdasági és Külügyminisztérium fejezet, 8. Központi kezelésű előirányzatok cím, 5. A HEPA Magyar Exportfejlesztési Ügynökség NZrt. tulajdonosi joggyakorlásával kapcsolatos bevételek és kiadások alcímmel, valamint azon belül az 1. A HEPA Magyar Exportfejlesztési Ügynökség NZrt. tulajdonosi joggyakorlásával kapcsolatos bevételek jogcímcsoporttal és a 2. A HEPA Magyar Exportfejlesztési Ügynökség NZrt. tulajdonosi joggyakorlásával kapcsolatos kiadások jogcímcsoporttal,
+a)[^1]
 
 b) a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény (a továbbiakban: Kvtv2.) 1. melléklet XVIII. Külgazdasági és Külügyminisztérium fejezet, 8. Központi kezelésű előirányzatok cím, 4. A HEPA Magyar Exportfejlesztési Ügynökség NZrt. tulajdonosi joggyakorlásával kapcsolatos bevételek és kiadások alcímmel, valamint azon belül az 1. A HEPA Magyar Exportfejlesztési Ügynökség NZrt. tulajdonosi joggyakorlásával kapcsolatos bevételek jogcímcsoporttal és a 2. A HEPA Magyar Exportfejlesztési Ügynökség NZrt. tulajdonosi joggyakorlásával kapcsolatos kiadások jogcímcsoporttal
 
@@ -61,3 +61,5 @@ Felelős: pénzügyminiszter
 külgazdasági és külügyminiszter
 
 Határidő: a felmerülés ütemében
+
+[^1]: A 7. pont a) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
