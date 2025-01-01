@@ -22,7 +22,7 @@ i) a határozott időtartamra megállapított honvédelmi egészségkárosodási
 
 j) az állomány volt tagja nem a foglalkoztató szervezetnél létesít foglalkoztatásra irányuló jogviszonyt,
 
-k)[^1]
+k) az ellátásra jogosult mezőgazdasági őstermelő, illetve egyéni vállalkozóként vagy társas vállalkozás tagjaként folytat tevékenységet, valamint megbízási szerződés alapján munkát végez, vagy
 
 l) az EKÁR járadékra jogosulttal szemben a jogosultság időtartama alatt szándékos bűncselekmény elkövetése miatt a bíróság jogerősen szabadságvesztést vagy elzárást szabott ki, vagy kényszergyógykezelését rendelte el.
 
@@ -35,5 +35,3 @@ l) az EKÁR járadékra jogosulttal szemben a jogosultság időtartama alatt sz�
 (5) Ha az EKÁR keresetkiegészítésre jogosult nem katonai munkaköre, foglalkoztató szervezete jogutódlásban érintett, és az átvevő munkáltató az ellátásra jogosultat átveszi, de az átvevő munkáltató nem azonos a 2. § 1. pontja szerinti foglalkoztató szervezettel vagy a (3) bekezdés szerinti foglalkoztatóval, az átvevő munkáltatónál az ellátásra jogosult EKÁR keresetkiegészítésre továbbra is jogosult marad. Ha az átvevő munkáltatónál az új illetménye vagy munkabére eltér az átvétel előtti illetményétől vagy munkabérétől, az EKÁR keresetkiegészítés mértékét – a 11. §-ban foglalt számítási szabályok alkalmazásával – ismét meg kell állapítani az átvétel napjától. Az illetmény vagy munkabér mértékének megváltozásáról az ellátásra jogosult köteles tájékoztatni a központi pénzügyi szervezetet, illetve arról a központi pénzügyi szervezet is kérhet tájékoztatást az átvevő munkáltatótól.
 
 (6) A honvédelmi egészségkárosodási ellátást az ellátásra jogosult elhalálozásának napját magában foglaló naptári hónap utolsó napjáig kell folyósítani.
-
-[^1]: A 23. § (1) bekezdés k) pontja a 26. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
