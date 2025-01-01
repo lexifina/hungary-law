@@ -38,6 +38,8 @@ i) a gyógyszerek biztonságos alkalmazhatóságát vizsgáló laboratóriumok f
 
 j) a 25. § (2b) és (2h) bekezdése alapján engedélyezett gyógyszer alkalmazásának további feltételeit
 
+k) a 13. § (1) bekezdés szerinti gyógyszerellátási tevékenység engedélyezésének eljárási szabályait
+
 rendeletben szabályozza.
 
 (5) Felhatalmazást kap az egészségügyért felelős miniszter, hogy
@@ -70,7 +72,7 @@ m) a Gyógyszerkönyvnek és a Vényminta Gyűjteménynek a gyógyszergyártók,
 
 n) a gyógyszerek címkéjére és a betegtájékoztatóra vonatkozó szabályokat,
 
-o) a gyógyszertár által történő gyógyszer kiszolgáltatás formáit és szakmai szabályait, illetve a gyógyszerészi gondozás szabályait,
+o) a gyógyszertár általi gyógyszer-kiszolgáltatás formáit és szakmai szabályait, a 13. § (1) bekezdése szerinti gyógyszerellátás keretében a gyógyszerátadás szakmai szabályait, illetve a gyógyszerészi gondozás szabályait,
 
 p) a gyógyszerek ártalmatlanításának módját és a követendő eljárás rendjét, a kábítószernek, illetve pszichotróp anyagnak minősülő gyógyszerek esetén alkalmazandó fokozott biztonsági rendszabályokat, valamint a környezetvédelmi előírások betartásának ellenőrzését,
 
@@ -88,7 +90,7 @@ v) a gyógyszerközvetítéssel kapcsolatos szabályokat,
 
 w) a hatóanyagokra vonatkozó helyes gyártási gyakorlat és helyes forgalmazási gyakorlat, valamint a segédanyagokra vonatkozó helyes gyártási gyakorlat szabályait,
 
-x)
+x) a 13. § (1) bekezdése szerinti gyógyszerellátási tevékenység végzésének személyi és tárgyi feltételeit, valamint szakmai szabályait,
 
 y) az engedélyezés, illetve a kereskedelmi forgalomba hozatal előtti gyógyszeralkalmazással kapcsolatos részletszabályokat
 

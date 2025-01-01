@@ -1,1 +1,11 @@
-### 13. §
+13. § (1) A gyógyszer beszerzését, raktározását, szállítását, forgalmazását, betegre szabott, automatizált gyógyszerosztását és a beteg részére történő átadását egyaránt magában foglaló, változó helyszínen végzett járóbeteg-szakellátáshoz és a személyes gondoskodás keretébe tartozó szakosított ellátáshoz kapcsolódó gyógyszerellátási tevékenységet végezni a gyógyszerészeti államigazgatási szerv által kiadott, e tevékenység végzésére jogosító engedély birtokában lehet.
+
+(2) Az (1) bekezdés szerinti tevékenységet végző – ha jogszabály másként nem rendelkezik – gyógyszert csak olyan gazdálkodó szervezettől szerezhet be, amely rendelkezik gyógyszer-nagykereskedelmi tevékenységre jogosító hatósági engedéllyel. Az (1) bekezdés szerinti tevékenységet végző gyógyszerellátást az egészségügyért felelős miniszter rendeletében meghatározott gyógyszerkörben nyújthat.
+
+(3) Az (1) bekezdés szerinti engedély iránti kérelmet a Kormány rendeletében meghatározott adattartalommal és mellékletekkel kell a gyógyszerészeti államigazgatási szervhez benyújtani.
+
+(4) Az (1) bekezdés szerinti engedélyt a gyógyszerészeti államigazgatási szerv akkor adja meg, ha a kérelmező megfelel az egészségügyért felelős miniszter rendeletében meghatározott követelményeknek. Az (1) bekezdésben meghatározott engedély kiadásának további feltétele, hogy a kérelmező rendelkezzen az (1) bekezdés szerinti tevékenysége során okozott kár megtérítésére vonatkozó felelősségbiztosítási szerződéssel. Az engedélyesnek teljesítenie kell a gyógyszerészeti államigazgatási szerv által az engedélyben előírt adatszolgáltatási, illetve mintabeküldési kötelezettséget.
+
+(5) A gyógyszerészeti államigazgatási szerv az (1) bekezdés szerinti engedély iránti kérelem tárgyában a kérelem beérkezéséről számított kilencven napon belül dönt. Az (1) bekezdés szerinti engedélyt a gyógyszerészeti államigazgatási szerv kormányrendeletben meghatározott határozott időre adja ki. Az e törvényben, az e törvény felhatalmazása alapján kiadott jogszabályokban előírt, valamint az (1) bekezdés szerinti engedélyben meghatározott követelmények betartását a gyógyszerészeti államigazgatási szerv ellenőrzi. Az ellenőrzésre a 20. §-ban foglaltakat kell alkalmazni.
+
+(6) Az (1) bekezdés szerinti engedéllyel kapcsolatos változásbejelentési kötelezettség, valamint az engedély módosításának szabályait a Kormány rendeletben határozza meg. Az engedély módosítása tárgyában a gyógyszerészeti államigazgatási szerv a kérelem beérkezésétől számított kilencven napon belül dönt.
