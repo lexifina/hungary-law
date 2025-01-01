@@ -4,7 +4,7 @@
 
 (1a)[^257] Az Ebtv. 26. § (1) bekezdés c)–e) pontja, valamint az Ebtv. 26. § (2a) és (2b) bekezdése szerinti kérelem a biztosított választása esetén elektronikus úton is benyújtható. Ezen kérelmekkel kapcsolatos eljárások során az elektronikus kapcsolattartás az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 35. § (1) bekezdés b) pontja szerinti ügyfélkapun keresztül valósul meg.
 
-(2)[^258] A kérelemnek tartalmaznia kell a biztosított nevét, lakcímét, TAJ-át, valamint – a b) pont bb) alpontját kivéve – a gyógyszer kiadására a beteg által megjelölt gyógyszertárnak, egyedi gyártású gyógyászati segédeszköz esetén a beteg által megjelölt gyógyászati segédeszköz gyártójának vagy forgalmazójának a megnevezését, és – a (3) bekezdés a) pontjában foglalt eset kivételével – a kérelemhez mellékelni kell:
+(2)[^258] A kérelemnek tartalmaznia kell a biztosított nevét, lakcímét, TAJ-át, valamint – a b) pont bb) alpontját kivéve – a gyógyszer kiadására a beteg által megjelölt gyógyszertárnak, támogatással nem rendelhető sorozatgyártású gyógyászati segédeszköz esetén a beteg által megjelölt gyógyszertárnak vagy forgalmazónak, egyedi gyártású gyógyászati segédeszköz esetén a beteg által megjelölt gyógyászati segédeszköz gyártójának vagy forgalmazójának a megnevezését, és – a (3) bekezdés a) pontjában foglalt eset kivételével – a kérelemhez mellékelni kell:
 
 a) három hónapnál nem régebbi kórtörténeti összefoglalót, amely igazolja, hogy a kérelmező kizárólag az igényelt termékkel, illetve ellátással kezelhető vagy látható el;
 
@@ -32,7 +32,7 @@ cg)[^265] az Ebtv. 26. § (2b) bekezdése szerinti esetben a biztosítottat keze
 
 d)[^266]
 
-e)[^267] az Ebtv. 26. § (2) bekezdése szerinti méltányossági kérelmeknél a rendelésre jogosult orvos által jogszabály szerint kiállított vényt.
+e)[^267]
 
 (3)[^268] Az indikáción túli gyógyszerrendelés szabályai alapján rendelt, továbbá a fekvőbeteg-ellátás során alkalmazott gyógyszer méltányossági kérelméhez – figyelemmel a (3b) bekezdésben foglaltakra is –
 
@@ -70,7 +70,7 @@ kell mellékelni.
 [^255]: A Vhr. 11/D. §-át a 130/2003. (VIII. 22.) Korm. rendelet 2. §-a iktatta be, e módosító rendelet 4. §-a alapján a rendelkezést a 2003. augusztus 30. napját követően benyújtott kérelmekre kell alkalmazni.
 [^256]: A Vhr. 11/D. § (1) bekezdése a 447/2012. (XII. 29.) Korm. rendelet 8. § (1) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés f) pontja szerint módosított szöveg.
 [^257]: A Vhr. 11/D. § (1a) bekezdését a 413/2015. (XII. 23.) Korm. rendelet 4. § (1) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 49. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^258]: A Vhr. 11/D. § (2) bekezdése a 336/2009. (XII. 29.) Korm. rendelet 5. § (1) bekezdésével megállapított, a 366/2010. (XII. 30.) Korm. rendelet 14. § 11. pontja, nyitó szövegrésze a 287/2018. (XII. 21.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
+[^258]: A Vhr. 11/D. § (2) bekezdése a 336/2009. (XII. 29.) Korm. rendelet 5. § (1) bekezdésével megállapított, nyitó szövegrésze a 366/2010. (XII. 30.) Korm. rendelet 14. § 11. pontja, a 287/2018. (XII. 21.) Korm. rendelet 8. § b) pontja, a 463/2024. (XII. 30.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
 [^259]: A Vhr. 11/D. § (2) bekezdés b) pontja a 30/2015. (II. 25.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^260]: A 11/D. § (2) bekezdés b) pont bb) alpontja a 334/2023. (VII. 20.) Korm. rendelet 3. § a) pontja, a 334/2023. (VII. 20.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
 [^261]: A Vhr. 11/D. § (2) bekezdés c) pont cb) alpontja a 447/2012. (XII. 29.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 172/2016. (VII. 1.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
@@ -79,7 +79,7 @@ kell mellékelni.
 [^264]: A Vhr. 11/D. § (2) bekezdés c) pont cf) alpontját az 520/2013. (XII. 30.) Korm. rendelet 5. § (1) bekezdése iktatta be.
 [^265]: A Vhr. 11/D. § (2) bekezdés c) pont cg) alpontját a 192/2015. (VII. 21.) Korm. rendelet 2. §-a iktatta be.
 [^266]: A Vhr. 11/D. § (2) bekezdés d) pontját a 447/2012. (XII. 29.) Korm. rendelet 18. § d) pontja hatályon kívül helyezte.
-[^267]: A Vhr. 11/D. § (2) bekezdés e) pontját a 325/2011. (XII. 28.) Korm. rendelet 9. §-a iktatta be, szövege a 413/2015. (XII. 23.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^267]: A Vhr. 11/D. § (2) bekezdés e) pontját a 325/2011. (XII. 28.) Korm. rendelet 9. §-a iktatta be, a 463/2024. (XII. 30.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
 [^268]: A Vhr. 11/D. § új (3) bekezdését a 234/2008. (IX. 23.) Korm. rendelet 1. § (3) bekezdése iktatta be, egyidejűleg az eredeti (3)–(4) bekezdés számozását (4)–(5) bekezdésre változtatva. A Vhr. 11/D. § (3) bekezdése a 71/2021. (II. 19.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^269]: A 11/D. § (3) bekezdés a) pont záró szövegrésze a 334/2023. (VII. 20.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
 [^270]: A Vhr. 11/D. § (3a) bekezdését a 447/2012. (XII. 29.) Korm. rendelet 8. § (3) bekezdése iktatta be.
