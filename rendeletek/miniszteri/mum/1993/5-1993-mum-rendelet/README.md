@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1993-5-20-39
 | 2020-11-18 | 1993-5-20-39.27 | 63/2013. (XII. 17.) NGM rendelet |
 | 2023-01-01 | 1993-5-20-39.28 | 3/2012. (II. 10.) NGM rendelet |
 | 2023-12-31 | 1993-5-20-39.29 | 56/2023. (XII. 28.) GFM rendelet |
+| 2025-01-01 | 1993-5-20-39.30 | 56/2024. (XII. 31.) NGM rendelet |

@@ -1,234 +1,228 @@
-2. számú melléklet az 5/1993. (XII. 26.) MüM rendelethez[^38]
+2. számú melléklet az 5/1993. (XII. 26.) MüM rendelethez[^40]
 
-Munkavédelmi (munkabiztonsági) szakmai képesítéssel rendelkező személy foglalkoztatásának feltételei
+Munkavédelmi szakmai képesítéssel rendelkező személy foglalkoztatásának feltételei
 
-1. A munkáltatók tevékenységük alapján a következő munkavédelmi szempontú veszélyességi osztályba tartoznak az EU tagországok számára kötelezően alkalmazandó, a gazdasági tevékenységek egységes ágazati osztályozási rendszere: TEÁOR ’08 alapján.
+1. A munkáltatók tevékenységük alapján a következő munkavédelmi szempontú veszélyességi osztályba tartoznak az EU tagországok számára kötelezően alkalmazandó, a Gazdasági Tevékenységek Egységes Ágazati Osztályozási Rendszere, a TEÁOR’25 alapján.
 
-| Ágazati számjel | Gazdasági tevékenység megnevezése |
+|  | A | B |
 
-| I. VESZÉLYESSÉGI OSZTÁLY |
+| 1. | TEÁOR’25 kód | Gazdasági tevékenység megnevezése |
 
-| 02 | Erdőgazdálkodás |
+| 2. | I. VESZÉLYESSÉGI OSZTÁLY |
 
-| Kivéve: |
+| 3. | 02 | Erdőgazdálkodás Kivéve: 02.3 Vadon termő erdei termény gyűjtése |
 
-| 02.3 Vadon termő egyéb erdei termék gyűjtése |
+| 4. | 05 | Szénbányászat |
 
-| 05 | Szénbányászat |
+| 5. | 06 | Kőolaj-, földgázkitermelés |
 
-| 06 | Kőolaj-, földgázkitermelés |
+| 6. | 07 | Fémtartalmú érc bányászata |
 
-| 07 | Fémtartalmú érc bányászata |
+| 7. | 08 | Egyéb bányászat |
 
-| 08 | Egyéb bányászat |
+| 8. | 09 | Bányászati szolgáltatás |
 
-| 09 | Bányászati szolgáltatás |
+| 9. | 10.1 | Húsfeldolgozás, -tartósítás, húskészítmény gyártása |
 
-| 10.1 | Húsfeldolgozás, -tartósítás, húskészítmény gyártása |
+| 10. | 10.2 | Hal, rákféle és puhatestű feldolgozása, tartósítása |
 
-| 10.2 | Halfeldolgozás, -tartósítás |
+| 11. | 16 | Fafeldolgozás, fa-, parafatermék (kivéve: bútor), fonott áru gyártása Kivéve: 16.28 Egyéb fa-, parafatermék, fonott áru gyártása |
 
-| 16 | Fafeldolgozás (kivéve: bútor), fonottáru gyártása Kivéve: 16.29 Egyéb fa-, parafatermék, fonottáru gyártása |
+| 12. | 17 | Papír, papírtermék gyártása |
 
-| 17 | Papír, papírtermék gyártása |
+| 13. | 19 | Kokszgyártás, kőolaj-feldolgozás |
 
-| 19 | Kokszgyártás, kőolaj-feldolgozás |
+| 14. | 20 | Vegyi anyag, termék gyártása |
 
-| 20 | Vegyi anyag, termék gyártása |
+| 15. | 21 | Gyógyszergyártás |
 
-| 21 | Gyógyszergyártás |
+| 16. | 22 | Gumi-, műanyag termék gyártása |
 
-| 22 | Gumi-, műanyag termék gyártása |
+| 17. | 23 | Nemfém ásványi termék gyártása |
 
-| 23 | Nem fém ásványi termék gyártása |
+| 18. | 24 | Fém alapanyag gyártása |
 
-| 24 | Fémalapanyag gyártása |
+| 19. | 25.2 | Központi fűtési kazán, gőzkazán, radiátor, fémtartály gyártása |
 
-| 25.2 | Fűtési kazán, radiátor, fémtartály gyártása |
+| 20. | 25.3 | Fegyver-, lőszergyártás |
 
-| 25.3 | Gőzkazán gyártása |
+| 21. | 25.4 | Fémalakítás, porkohászat |
 
-| 25.4 | Fegyver-, lőszergyártás |
+| 22. | 28 | Gép, gépi berendezés gyártása Kivéve: 28.23 Irodagép gyártása (kivéve: számítógép és perifériái) |
 
-| 25.5 | Fémalakítás, porkohászat |
+| 23. | 30.11 | Polgári hajó építése |
 
-| 28 | Gép, gépi berendezés gyártása Kivéve: 28.23 Irodagép gyártása (kivéve: számítógép és perifériái) |
+| 24. | 30.2 | Vasúti, kötöttpályás jármű gyártása |
 
-| 30.11 | Hajógyártás |
+| 25. | 31 | Bútorgyártás |
 
-| 30.2 | Vasúti, kötöttpályás jármű gyártása |
+| 26. | 35 | Villamosenergia-, gáz-, gőzellátás, légkondicionálás |
 
-| 31 | Bútorgyártás |
+| 27. | 37 | Szennyvíz gyűjtése, kezelése |
 
-| 35 | Villamosenergia-, gáz-, gőzellátás, légkondicionálás |
+| 28. | 38 | Hulladékgazdálkodás |
 
-| 37 | Szennyvíz gyűjtése, kezelése |
+| 29. | 39 | Szennyeződésmentesítés, egyéb hulladékkezelés |
 
-| 38 | Hulladékgazdálkodás |
+| 30. | 41.0 | Lakó- és nem lakóépület építése |
 
-| 39 | Szennyeződésmentesítés, egyéb hulladékkezelés |
+| 31. | 42 | Egyéb építmény építése |
 
-| 41.2 | Lakó- és nem lakóépület építése |
+| 32. | 43 | Speciális szaképítés |
 
-| 42 | Egyéb építmény építése |
+| 33. | 49 | Szárazföldi, csővezetékes szállítás |
 
-| 43 | Speciális szaképítés |
+| 34. | 50 | Vízi szállítás |
 
-| 49 | Szárazföldi, csővezetékes szállítás |
+| 35. | 51 | Légi szállítás |
 
-| 50 | Vízi szállítás |
+| 36. | 52 | Raktározás, tárolás, szállítást kiegészítő tevékenység |
 
-| 51 | Légi szállítás |
+| 37. | 72.1 | Természettudományi, műszaki kutatás, kísérleti fejlesztés |
 
-| 52 | Raktározás, szállítást kiegészítő tevékenység |
+| 38. | II. VESZÉLYESSÉGI OSZTÁLY |
 
-| 72.1 | Természettudományi, műszaki kutatás, fejlesztés |
+| 39. | 01 | Növénytermesztés, állattenyésztés, vadgazdálkodás és kapcsolódó szolgáltatások |
 
-| II. VESZÉLYESSÉGI OSZTÁLY |
+| 40. | 02.3 | Vadon termő erdei termény gyűjtése |
 
-| 01 | Növénytermesztés, állattenyésztés, vadgazdálkodás és kapcsolódó szolgáltatások |
+| 41. | 03 | Halászat, akvakultúra |
 
-| 02.3 | Vadon termő egyéb erdei termék gyűjtése |
+| 42. | 10 | Élelmiszergyártás Kivéve: 10.1 Húsfeldolgozás, -tartósítás, húskészítmény gyártása 10.2 Hal, rákféle és puhatestű feldolgozása, tartósítása |
 
-| 03 | Halászat, halgazdálkodás |
+| 43. | 11 | Italgyártás |
 
-| 10 | Élelmiszergyártás Kivéve: 10.1 Húsfeldolgozás, -tartósítás, húskészítmény gyártása 10.2 Halfeldolgozás, -tartósítás |
+| 44. | 12 | Dohánytermék gyártása |
 
-| 11 | Italgyártás |
+| 45. | 13 | Textília gyártása |
 
-| 12 | Dohánytermék gyártása |
+| 46. | 14 | Ruházati termék gyártása |
 
-| 13 | Textília gyártása |
+| 47. | 15 | Bőr, bőrtermék, más anyagból készült kapcsolódó termék, lábbeli gyártása |
 
-| 14 | Ruházati termék gyártása |
+| 48. | 16.28 | Egyéb fa-, parafatermék, fonott áru gyártása |
 
-| 15 | Bőr, bőrtermék, lábbeli gyártása |
+| 49. | 18 | Nyomdai és egyéb sokszorosítási tevékenység |
 
-| 16.29 | Egyéb fa-, parafatermék, fonottáru gyártása |
+| 50. | 25 | Fémfeldolgozási termék gyártása Kivéve: 25.2 Központi fűtési kazán, gőzkazán, radiátor, fémtartály gyártása |
 
-| 18 | Nyomdai és egyéb sokszorosítási tevékenység |
+| 51. | 26 | Számítógép, elektronikai, optikai termék gyártása |
 
-| 25 | Fémfeldolgozási termék gyártása Kivéve: 25.2 Fűtési kazán, radiátor, fémtartály gyártása 25.3 Gőzkazán gyártása 25.4 Fegyver-, lőszergyártás 25.5 Fémalakítás, porkohászat |
+| 52. | 27 | Villamos berendezés gyártása |
 
-| 26 | Számítógép, elektronikai, optikai termék gyártása |
+| 53. | 28.23 | Irodagép gyártása (kivéve: számítógép és perifériái) |
 
-| 27 | Villamos berendezés gyártása |
+| 54. | 29 | Közúti jármű gyártása |
 
-| 28.23 | Irodagép gyártása (kivéve: számítógép és perifériái) |
+| 55. | 30 | Egyéb jármű gyártása Kivéve: 30.11 Polgári hajó építése 30.2 Vasúti, kötöttpályás jármű gyártása |
 
-| 29 | Közúti jármű gyártása |
+| 56. | 32 | Egyéb feldolgozóipari tevékenység |
 
-| 30 | Egyéb jármű gyártása Kivéve: 30.11 Hajógyártás 30.2 Vasúti, kötött pályás jármű gyártása |
+| 57. | 33 | Ipari gép, berendezés, eszköz javítása, karbantartása, üzembe helyezése |
 
-| 32 | Egyéb feldolgozóipari tevékenység |
+| 58. | 36 | Víztermelés, -kezelés, -ellátás |
 
-| 33 | Ipari gép, berendezés, eszköz javítása |
+| 59. | 59 | Film, videó, televízióműsor, hangfelvétel készítése és kiadása |
 
-| 36 | Víztermelés, -kezelés, -ellátás |
+| 60. | 61 | Távközlés |
 
-| 41.10 | Épületépítési projekt szervezése |
+| 61. | 71.2 | Műszaki vizsgálat, elemzés |
 
-| 45.2 | Gépjárműjavítás, karbantartás |
+| 62. | 75 | Állategészségügyi ellátás |
 
-| 45.4 | Motorkerékpár, -alkatrész kereskedelme, javítása |
+| 63. | 80 | Nyomozói, biztonsági tevékenység |
 
-| 59 | Film, -videógyártás, televízióműsor gyártása, hangfelvétel kiadás |
+| 64. | 81 | Építményüzemeltetés, zöldterület-kezelés |
 
-| 61 | Távközlés |
+| 65. | 85.32 | Szakmai középfokú oktatás |
 
-| 71.2 | Műszaki vizsgálat, elemzés |
+| 66. | 85.4 | Felsőoktatás |
 
-| 75 | Állat-egészségügyi ellátás |
+| 67. | 85.5 | Egyéb oktatás |
 
-| 80 | Biztonsági, nyomozói tevékenység |
+| 68. | 86 | Humánegészségügyi ellátás |
 
-| 81 | Építményüzemeltetés, zöldterület-kezelés |
+| 69. | 87 | Bentlakásos ellátás |
 
-| 85.32 | Szakmai középfokú oktatás |
+| 70. | 95 | Számítógép, személyi, háztartási cikk, gépjármű, motorkerékpár javítása, karbantartása |
 
-| 85.41 | Felső szintű, nem felsőfokú oktatás |
+| 71. | 96.3 | Temetkezés, temetkezést kiegészítő szolgáltatás |
 
-| 85.42 | Felsőfokú oktatás |
+| 72. | 97 | Háztartási alkalmazottat foglalkoztató magánháztartás |
 
-| 85.5 | Egyéb oktatás |
+| 73. | III. VESZÉLYESSÉGI OSZÁLY |
 
-| 86 | Humán-egészségügyi ellátás |
+| 74. | 95.3 | Gépjármű, motorkerékpár javítása, karbantartása |
 
-| 87 | Bentlakásos, nem kórházi ápolás |
+| 75. | 95.31 | Gépjármű javítása, karbantartása |
 
-| 95 | Számítógép, személyi-, háztartási cikk javítása |
+| 76. | 95.32 | Motorkerékpár javítása, karbantartása |
 
-| 96.03 | Temetkezés, temetkezést kiegészítő szolgáltatás |
+| 77. | 46.7 46.73 47.8 47.83 | Gépjármű, motorkerékpár és ezekhez kapcsolódó alkatrész, tartozék nagykereskedelme Motorkerékpár, motorkerékpár-alkatrész és -tartozék nagykereskedelme Gépjármű, motorkerékpár és ezekhez kapcsolódó alkatrész, tartozék kiskereskedelme Motorkerékpár, motorkerékpár-alkatrész és -tartozék kiskereskedelme |
 
-| 97 | Háztartási alkalmazottat foglalkoztató magánháztartás |
+| 78. | 46 | Nagykereskedelem |
 
-| III. VESZÉLYESSÉGI OSZTÁLY |
+| 79. | 47 | Kiskereskedelem |
 
-| 45 | Gépjármű, motorkerékpár kereskedelme, javítása Kivéve: 45.2 Gépjárműjavítás, -karbantartás 45.4 Motorkerékpár, -alkatrész kereskedelme, javítása |
+| 80. | 53 | Postai, futárpostai tevékenység |
 
-| 46 | Nagykereskedelem (kivéve: jármű, motorkerékpár) |
+| 81. | 55 | Szálláshely-szolgáltatás |
 
-| 47 | Kiskereskedelem (kivéve: gépjármű, motorkerékpár) |
+| 82. | 56 | Vendéglátás |
 
-| 53 | Postai, futárpostai tevékenység |
+| 83. | 58 | Kiadói tevékenység |
 
-| 55 | Szálláshely-szolgáltatás |
+| 84. | 60 | Műsor-összeállítás, műsorszolgáltatás, hírügynökségi és egyéb tartalomterjesztési tevékenység |
 
-| 56 | Vendéglátás |
+| 85. | 62 | Információtechnológiai szolgáltatás |
 
-| 58 | Kiadói tevékenység |
+| 86. | 63 | Számítástechnikai infrastruktúra, adatfeldolgozás, tárhelyszolgáltatás és egyéb információs szolgáltatási tevékenységek |
 
-| 60 | Műsorösszeállítás, műsorszolgáltatás |
+| 87. | 64 | Pénzügyi közvetítés (kivéve: biztosítási, nyugdíjpénztári tevékenység) |
 
-| 62 | Információ-technológiai szolgáltatás |
+| 88. | 65 | Biztosítás, viszontbiztosítás, nyugdíjalapok (kivéve: kötelező társadalombiztosítás) |
 
-| 63 | Információs szolgáltatás |
+| 89. | 66 | Pénzügyi kiegészítő tevékenység |
 
-| 64 | Pénzügyi közvetítés, kivéve: biztosítási, nyugdíjpénztári tevékenység |
+| 90. | 68 | Ingatlanügyletek |
 
-| 65 | Biztosítás, viszontbiztosítás, nyugdíjalapok (kivéve: kötelező társadalombiztosítás) |
+| 91. | 69 | Jogi, számviteli tevékenység |
 
-| 66 | Egyéb pénzügyi tevékenység |
+| 92. | 70 | Üzletvezetés, üzletvezetési tanácsadás |
 
-| 68 | Ingatlanügyletek |
+| 93. | 71 | Építészmérnöki, mérnöki tevékenység, műszaki vizsgálat, elemzés Kivéve: 71.2 Műszaki vizsgálat, elemzés |
 
-| 69 | Jogi, számviteli, adószakértői tevékenység |
+| 94. | 72.2 | Társadalomtudományi, humán kutatás, kísérleti fejlesztés |
 
-| 70 | Üzletvezetési, vezetői tanácsadás |
+| 95. | 73 | Reklám, piackutatás, PR-tevékenység |
 
-| 71 | Építészmérnöki tevékenység; műszaki vizsgálat, elemzés Kivéve: 71.2 Műszaki vizsgálat, elemzés |
+| 96. | 74 | Egyéb szakmai, tudományos, műszaki tevékenység |
 
-| 72.2 | Társadalomtudományi, humán kutatás, fejlesztés |
+| 97. | 77 | Kölcsönzés, operatív lízing |
 
-| 73 | Reklám, piackutatás |
+| 98. | 78 | Munkaerőpiaci szolgáltatás |
 
-| 74 | Egyéb szakmai, tudományos, műszaki tevékenység |
+| 99. | 79 | Utazásközvetítés, utazásszervezés, egyéb foglalás |
 
-| 77 | Kölcsönzés, operatív lízing |
+| 100. | 82 | Adminisztratív, irodai és egyéb üzletmenetet támogató szolgáltatás |
 
-| 78 | Munkaerőpiaci szolgáltatás |
+| 101. | 84 | Közigazgatás, védelem; kötelező társadalombiztosítás |
 
-| 79 | Utazásközvetítés, utazásszervezés, egyéb foglalás |
+| 102. | 85 | Oktatás Kivéve: 85.32 Szakmai középfokú oktatás 85.4 Felsőoktatás 85.5 Egyéb oktatás |
 
-| 82 | Adminisztratív-, kiegészítő egyéb üzleti szolgáltatás |
+| 103. | 88 | Szociális ellátás, bentlakás nélkül |
 
-| 84 | Közigazgatás, védelem; kötelező társadalombiztosítás |
+| 104. | 90 | Alkotóművészet, előadó-művészet |
 
-| 85 | Oktatás Kivéve: 85.32 Szakmai középfokú oktatás 85.41 Felső szintű, nem felsőfokú oktatás 85.42 Felsőfokú oktatás 85.5 Egyéb oktatás |
+| 105. | 91 | Könyvtári, levéltári, múzeumi, egyéb kulturális tevékenység |
 
-| 88 | Szociális ellátás bentlakás nélkül |
+| 106. | 92 | Szerencsejáték, fogadás |
 
-| 90 | Alkotó-, művészeti, szórakoztató tevékenység |
+| 107. | 93 | Sport-, szórakoztató-, szabadidős tevékenység |
 
-| 91 | Könyvtári, levéltári, múzeumi, egyéb kulturális tevékenység |
+| 108. | 94 | Érdekképviselet |
 
-| 92 | Szerencsejáték, fogadás |
-
-| 93 | Sport-, szórakoztató-, szabadidős tevékenység |
-
-| 94 | Érdekképviselet |
-
-| 96 | Egyéb személyi szolgáltatás (kivéve: temetkezés, temetkezést kiegészítő szolgáltatás) |
+| 109. | 96 | Személyi szolgáltatás |
 
 2. A munkáltatókat a veszélyességi osztályon belül az általuk foglalkoztatott munkavállalók – beleértve a munkaerő-kölcsönzés keretében átengedett munkavállalókat is – állományi létszáma alapján kell csoportosítani:
 
@@ -292,4 +286,4 @@ Tanulókat, hallgatókat abban az arányban kell a munkavállalói létszámhoz 
 
 7. A munkáltató köteles a besorolását veszélyességi osztály vagy létszám kategória megváltozásakor módosítani és a besorolás megfelelősségét évenként felülvizsgálni, valamint mindezt írásban dokumentálni.
 
-[^38]: A Vhr. 2. számú melléklete az 5/2010. (III. 9.) SZMM rendelet 8. § (2) bekezdésével megállapított, a 41/2011. (X. 14.) NGM rendelet 9. §-a, 10. § (1) bekezdése, a 33/2016. (IX. 8.) NGM rendelet 2. § (1) bekezdése, a 62/2016. (XII. 29.) NGM rendelet 45. § (3) bekezdése, az 56/2023. (XII. 28.) GFM rendelet 3. §-a szerint módosított szöveg.
+[^40]: A Vhr. 2. számú melléklete az 5/2010. (III. 9.) SZMM rendelet 8. § (2) bekezdésével megállapított, a 41/2011. (X. 14.) NGM rendelet 9. §-a, 10. § (1) bekezdése, a 33/2016. (IX. 8.) NGM rendelet 2. § (1) bekezdése, a 62/2016. (XII. 29.) NGM rendelet 45. § (3) bekezdése, az 56/2023. (XII. 28.) GFM rendelet 3. §-a, az 56/2024. (XII. 31.) NGM rendelet 3. §-a szerint módosított szöveg.
