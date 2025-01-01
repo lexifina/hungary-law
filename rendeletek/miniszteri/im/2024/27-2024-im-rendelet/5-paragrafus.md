@@ -1,3 +1,5 @@
 ## 2. Az elektronikus cégbejegyzési eljárás és cégnyilvántartás egyes kérdéseiről szóló 24/2006. (V. 18.) IM rendelet módosítása
 
-5. § Az elektronikus cégbejegyzési eljárás és cégnyilvántartás egyes kérdéseiről szóló 24/2006. (V. 18.) IM rendelet 10/G. § (2) bekezdésében az „az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 14. §-a szerinti hivatalos elérhetőségére” szövegrész helyébe az „a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény szerinti hivatalos elérhetőségére” szöveg lép.
+5. §[^5]
+
+[^5]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

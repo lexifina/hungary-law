@@ -1,5 +1,5 @@
-## 5.[^4]
+## 5.[^8]
 
 8. §
 
-[^4]: Az 5. alcím a 10. § (2) bekezdése alapján 2025. január 15-én lép hatályba.
+[^8]: Az 5. alcím a 10. § (2) bekezdése alapján 2025. január 15-én lép hatályba.
