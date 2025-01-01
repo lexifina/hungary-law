@@ -14,4 +14,6 @@ c) elnöki letét vagy
 
 d) óvadék céljából
 
+van helye.
+
 [^1]: Az 1. § a) pontja a 21/2014. (III. 13.) KIM rendelet 13. § (1) bekezdésével megállapított szöveg.

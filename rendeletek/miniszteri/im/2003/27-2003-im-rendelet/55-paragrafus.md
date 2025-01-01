@@ -1,4 +1,4 @@
-55. §[^49] (1) Az új Ptk. hatálybalépése[^50] előtt 10 éven belül, valamint az új Ptk. hatálybalépését követően teljesítési letét céljából bírósági letétbe helyezett 2. § (1) bekezdés a)–d) pontjában meghatározottak tekintetében nem alkalmazható
+55. §[^50] (1) Az új Ptk. hatálybalépése[^51] előtt 10 éven belül, valamint az új Ptk. hatálybalépését követően teljesítési letét céljából bírósági letétbe helyezett 2. § (1) bekezdés a)–d) pontjában meghatározottak tekintetében nem alkalmazható
 
 a) a 37. § (4) bekezdésének az a rendelkezése, amely szerint, ha a letevő a maradványösszeget a megjelölt határnapot követően az elévülési időn belül nem veszi át, a letétkezelő az összeget a bíróság előirányzat-felhasználási keretszámlájára utalja át,
 
@@ -12,5 +12,5 @@ d) a 41. § (2) bekezdése.
 
 (3) Ha a 40. § (2) bekezdés b) pontjának ba) és bb) alpontjában meghatározott tárgyak őrzése aránytalan költséggel járna, a bíróság – amely tárgyak tekintetében az értékesítés megengedett – eljárhat a 40. § (2) bekezdés b) pontjának ba) és bb) alpontjában foglaltak szerint, azonban az értékesítésből befolyt összeget a bírói letéti számlán az őrzési letét szabályai szerint őrzi, amíg a letevő a letét helyébe lépett összeg visszaadását kéri.
 
-[^49]: Az 55. §-t a 21/2014. (III. 13.) KIM rendelet 13. § (7) bekezdése iktatta be.
-[^50]: 2014. március 15.
+[^50]: Az 55. §-t a 21/2014. (III. 13.) KIM rendelet 13. § (7) bekezdése iktatta be.
+[^51]: 2014. március 15.
