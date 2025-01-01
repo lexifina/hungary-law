@@ -6,6 +6,8 @@ a) a védett intézmény,
 
 b) a központosított informatikai és elektronikus hírközlési szolgáltató, valamint
 
-c) az Ibtv. 19. § (1) bekezdése szerinti eseménykezelő központ
+c)[^8] a Kiberbiztonsági tv. szerinti nemzeti kiberbiztonsági incidenskezelő központ
 
 részére hozzáférhetővé teszi.
+
+[^8]: A 9. § c) pontja a 418/2024. (XII. 23.) Korm. rendelet 140. § f) pontja szerint módosított szöveg.

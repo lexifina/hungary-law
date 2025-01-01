@@ -4,6 +4,8 @@ a) az alkalmazott szűrési szabályok szerint folyamatosan monitorozza, vizsgá
 
 b) detektálja a fenyegetés bekövetkezésére utaló jelzéseket, és
 
-c) biztonsági esemény észlelésekor haladéktalanul tájékoztatja az Ibtv. 19. § (1) bekezdése szerinti eseménykezelő központot, továbbá az ágazat érintettsége esetén értesíti az Ibtv. 19. § (2) bekezdése szerinti eseménykezelő központot is.
+c)[^5] kiberbiztonsági incidens észlelésekor haladéktalanul tájékoztatja a Kiberbiztonsági tv. szerinti nemzeti kiberbiztonsági incidenskezelő központot, továbbá az ágazat érintettsége esetén értesíti a Kiberbiztonsági tv. szerinti honvédelmi kiberbiztonsági incidenskezelő központot is.
 
 (2) A rendszer-üzemeltető a korai figyelmeztető szolgáltatás nyújtásának részletes szabályait szolgáltatási szabályzatba foglalja.
+
+[^5]: Az 5. § (1) bekezdés c) pontja a 418/2024. (XII. 23.) Korm. rendelet 140. § c) pontja szerint módosított szöveg.
