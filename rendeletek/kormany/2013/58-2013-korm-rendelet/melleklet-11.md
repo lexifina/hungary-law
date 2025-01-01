@@ -1,16 +1,14 @@
-## Kérelem fogyatékkal élő személyként a védendő felhasználók nyilvántartásába történő
-
-## felvétel / nyilvántartás meghosszabbítása iránt
+## 4X08345.docx
 
 ## A) A FELHASZNÁLÓ TÖLTI KI
 
-## A víziközmű-szolgáltató által kiállított számlán megjelölt felhasználási hely
+## 1. A víziközmű-szolgáltató által kiállított számlán megjelölt felhasználási hely
 
 ## a) egyértelmű meghatározására alkalmas, a víziközmű-szolgáltatónál nyilvántartott azonosító:
 
 ## b) címe (irányítószám, település, utca/út/tér, házszám, lépcsőház, emelet, ajtó):
 
-## A víziközmű-szolgáltató által kiállított számlán felhasználóként megjelölt személy
+## 2. A víziközmű-szolgáltató által kiállított számlán felhasználóként megjelölt személy
 
 ## a) családi és utóneve:
 
@@ -22,13 +20,13 @@
 
 ## e) lakóhelye (irányítószám, település, utca/út/tér, házszám, lépcsőház, emelet, ajtó):
 
-## ………………………………………………………………………………………………
+## ..........................................................................................................................................................................................
 
 ## f) víziközmű-szolgáltatás átmeneti üzemzavara (szolgáltatási szünet) esetén értesítendő személy családi és utóneve, értesítési címe (irányítószám, település, utca/út/tér, házszám, lépcsőház, emelet, ajtó), telefonszáma:
 
-## ……………………………………………………………………………………………...
+## ..........................................................................................................................................................................................
 
-## Ha a víziközmű-szolgáltató által kiállított számlán megjelölt személy nem saját jogán, hanem a vele egy háztartásban élő személyre tekintettel kéri védendő felhasználóként történő nyilvántartásba vételét (nyilvántartásba vételének meghosszabbítását), e személy
+## 3. Ha a víziközmű-szolgáltató által kiállított számlán megjelölt személy nem saját jogán, hanem a vele egy háztartásban élő személyre tekintettel kéri védendő felhasználóként történő nyilvántartásba vételét (nyilvántartásba vételének meghosszabbítását), e személy
 
 ## a) családi és utóneve:
 
@@ -40,13 +38,13 @@
 
 ## e) lakóhelye (irányítószám, település, utca/út/tér, házszám, lépcsőház, emelet, ajtó):
 
-## Az alábbi igazolások alapján kérem a víziközmű-szolgáltató
+## 4. A B) rész szerinti igazolás alapján kérem a víziközmű-szolgáltató
 
 ## a) nyilvántartásába fogyatékkal élő (védendő) felhasználóként történő felvételem,
 
 ## b) nyilvántartásában fogyatékkal élő (védendő) felhasználóként történő nyilvántartásom meghosszabbítását.
 
-## Nyilatkozom, hogy a fogyatékkal élő felhasználóként megjelölt személy háztartásában
+## 5. Nyilatkozom, hogy a fogyatékkal élő felhasználóként megjelölt személy háztartásában
 
 ## a) van
 
@@ -54,7 +52,7 @@
 
 ## olyan személy, aki nem minősül fogyatékkal élőnek.
 
-## Az alábbi típusú különleges bánásmód (bánásmódok) alkalmazását kérem a víziközmű-szolgáltatótól:
+## 6. Az alábbi típusú különleges bánásmód (bánásmódok) alkalmazását kérem a víziközmű-szolgáltatótól:
 
 ## a) havi (időközi) mérőleolvasás a felhasználási helyen,
 
@@ -66,15 +64,15 @@
 
 ## e) egyéb szolgáltatás, éspedig:
 
-## Kelt:
+## Kelt: ....................................................................................
 
-## ....................................................................
+## ...........................................................................................
 
-## felhasználó/ eltartó aláírása
+## felhasználó/eltartó aláírása
 
 ## B) AZ IGAZGATÁSI SZERV TÖLTI KI
 
-## Eljáró igazgatási szerv megnevezése:
+## 1. Eljáró igazgatási szerv megnevezése:
 
 ## Székhelye:
 
@@ -106,39 +104,51 @@
 
 ## személy
 
-## 1. a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény szerinti fogyatékossági támogatásban részesül,
+## i) a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény szerinti fogyatékossági támogatásban részesül,
 
-## 2. a vakok személyi járadékában részesül.
+## ii) a vakok személyi járadékában részesül.
 
-## Ugyanazon felhasználónak egyidejűleg csak egy felhasználási hely tekintetében adható ki igazolás.
+## 2. Ugyanazon felhasználónak egyidejűleg csak egy felhasználási hely tekintetében adható ki igazolás.
 
-## Ez az igazolás ……………………………………………….(cím) felhasználási helyen történő felhasználásra került kiadásra
+## 3. Ez az igazolás ......................................................................................... (cím) felhasználási helyen történő felhasználásra került kiadásra.
 
-## Kelt:
+## Kelt: ....................................................................................
 
 ## P. H.
 
-## ............................................................
+## ...........................................................................................
 
 ## eljáró igazgatási szerv
 
 ## C) A KEZELŐORVOS – ENNEK HIÁNYÁBAN A HÁZIORVOS – TÖLTI KI
 
-## Orvos neve (egészségügyi szolgáltató megnevezése):
+## 1. Orvos neve (egészségügyi szolgáltató megnevezése):
 
-## Orvos címe (egészségügyi szolgáltató székhelye):
+## 2. Orvos címe (egészségügyi szolgáltató székhelye):
 
-## Orvos pecsétszáma (egészségügyi szolgáltató működési engedélyének száma):
+## 3. Orvos pecsétszáma (egészségügyi szolgáltató működési engedélyének száma):
 
-## Igazolom, hogy a víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény egyes rendelkezéseinek végrehajtásáról szóló 58/2013. (II. 27.) Korm. rendelet (a továbbiakban: Rendelet) 88/D. § (3) bekezdésében foglaltak alapján az igénylő vagy a vele közös háztartásban élő személy adatai és fogyatékosságának jellege a következő:
+## 4. Igazolom, hogy a víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény egyes rendelkezéseinek végrehajtásáról szóló 58/2013. (II. 27.) Korm. rendelet (a továbbiakban: Rendelet) 88/D. § (3) bekezdésében foglaltak alapján az igénylő vagy a vele közös háztartásban élő személy adatai és fogyatékosságának jellege a következő:
 
-| Név (születési név) | Születési hely és idő | Lakóhely | Korlátozottság jellege* |
+|  | A | B | C | D |
+
+| 1 | Név (születési név) | Születési hely és idő | Lakóhely | Korlátozottság jellege* |
+
+| 2 |  |  |  |  |
+
+| 3 |  |  |  |  |
+
+| 4 |  |  |  |  |
+
+| 5 |  |  |  |  |
+
+| 6 |  |  |  |  |
 
 ## * Annak megjelölése, hogy a fogyatékkal élő felhasználó fogyatékossági támogatásban részesül-e, vagy a víziközmű-szolgáltatás felfüggesztése, korlátozása a lakossági felhasználó vagy a vele közös háztartásban élő személy életét vagy egészségét közvetlenül veszélyezteti-e.
 
-## A táblázatban fel kell tüntetni az igénylőt, akit a fogyatékossága okán különleges bánásmódban kell részesíteni a vízfelhasználás során.
+## 5. A táblázatban fel kell tüntetni az igénylőt, akit a fogyatékossága okán különleges bánásmódban kell részesíteni a vízfelhasználás során.
 
-## Álláspontom szerint a fogyasztó tekintetében az alábbi típusú különleges bánásmód (bánásmódok) alkalmazása lehet indokolt:
+## 6. Álláspontom szerint a fogyasztó tekintetében az alábbi típusú különleges bánásmód (bánásmódok) alkalmazása lehet indokolt:
 
 ## a) havi (időközi) mérőleolvasás a felhasználási helyen,
 
@@ -148,27 +158,27 @@
 
 ## d) egyéb szolgáltatás, éspedig:
 
-## ………………………………………………………………………..………………………………………………
+## ..........................................................................................................................................................................................
 
-## A fogyatékkal élő személy vonatkozásában a vízszolgáltatás felfüggesztésének, szünetelésének esetén értesítendő személy vagy szervezet neve, telefonszáma:
+## 7. A fogyatékkal élő személy vonatkozásában a vízszolgáltatás felfüggesztésének, szünetelésének esetén értesítendő személy vagy szervezet neve, telefonszáma:
 
-## Alulírott .................................................., mint a fent megjelölt személy orvosi ellátását végző orvos, kijelentem, hogy a fent megjelölt fogyatékossági állapotra vonatkozó adatok a valóságnak megfelelnek.
+## 8. Alulírott, .................................................. mint a fent megjelölt személy orvosi ellátását végző orvos, kijelentem, hogy a fent megjelölt fogyatékossági állapotra vonatkozó adatok a valóságnak megfelelnek.
 
-## Kelt:
+## Kelt: ....................................................................................
 
 ## P. H.
 
-## .....................................
+## ...........................................................................................
 
 ## orvos aláírása
 
-## KITÖLTÉSI ÚTMUTATÓ
+## D) KITÖLTÉSI ÚTMUTATÓ
 
-## Az űrlapot géppel vagy tollal, nyomtatott betűkkel kell kitölteni.
+## 1. Az űrlapot géppel vagy tollal, nyomtatott betűkkel kell kitölteni.
 
-## A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény 58/A. § (1) bekezdése és 61/A. § (1) bekezdése alapján a védendő felhasználók nyilvántartásába történő felvétel fogyatékkal élő felhasználóként és/vagy szociálisan rászoruló fogyasztóként kérelmezhető.
+## 2. A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény 58/A. § (1) bekezdése és 61/A. § (1) bekezdése alapján a védendő felhasználók nyilvántartásába történő felvétel fogyatékkal élő felhasználóként és/vagy szociálisan rászoruló fogyasztóként kérelmezhető.
 
-## A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény 2. § 30. pontja szerint fogyatékkal élő fogyasztó:
+## 3. A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény 2. § 30. pontja szerint fogyatékkal élő fogyasztó
 
 ## a) a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény szerinti fogyatékossági támogatásban részesülő személy,
 
@@ -176,49 +186,53 @@
 
 ## c) az a személy, akinek életét vagy egészségét a víziközmű-szolgáltatás felfüggesztése vagy annak korlátozása közvetlenül veszélyezteti.
 
-## A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény egyes rendelkezéseinek végrehajtásáról szóló 58/2013. (II. 27.) Korm. rendelet (a továbbiakban: Rendelet) 88/B. § (1) bekezdése alapján szociálisan rászoruló fogyasztónak azt a természetes személyt kell tekinteni, aki, vagy akinek háztartásában élő személy:
+## 4. A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény egyes rendelkezéseinek végrehajtásáról szóló 58/2013. (II. 27.) Korm. rendelet (a továbbiakban: Rendelet) 88/B. § (1) bekezdése alapján szociálisan rászoruló fogyasztónak azt a természetes személyt kell tekinteni, aki vagy akinek háztartásában élő személy
 
 ## a) a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szoctv.) 32/B. §-a szerinti időskorúak járadékában részesül,
 
 ## b) a Szoctv. 33. §-a szerinti aktív korúak ellátására jogosult,
 
-## c) a Szoctv. 45. § (1) bekezdés a) pontja szerinti települési támogatásban részesül,
+## c) a Szoctv. 45. § (1) bekezdés a) pontja szerint a lakhatáshoz kapcsolódó rendszeres kiadások viseléséhez nyújtott települési támogatásban részesül,
 
 ## d) a Szoctv. 40–44. §-a szerinti ápolási díjban részesül,
 
 ## e) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.) 19. §-a szerinti rendszeres gyermekvédelmi kedvezményben részesül,
 
-## f) a Gyvt. 25. §-a szerinti otthonteremtési támogatásban részesült, a támogatás megállapításától számított 3 éven keresztül, vagy
+## f) a Gyvt. 25. §-a szerinti otthonteremtési támogatásban részesült, a támogatás megállapításától számított 3 éven keresztül,
 
-## g) a Gyvt. 54. §-a szerinti nevelőszülő, aki saját háztartásában neveli a gondozásába helyezett nevelésbe vett gyermeket.
+## g) a Gyvt. 54. §-a szerinti nevelőszülő, aki saját háztartásában neveli a gondozásába helyezett nevelésbe vett gyermeket,
 
-## Az az igénylő, aki egyidejűleg mind fogyatékkal élő felhasználónak, mind szociálisan rászoruló felhasználónak minősül, mindkét jogcímen történő nyilvántartásba vételét kezdeményezheti, és egyaránt jogosulttá válhat a fogyatékkal élőket megillető különleges bánásmódra, valamint a szociálisan rászoruló felhasználóknak nyújtott kedvezményekre. Ebben az esetben külön-külön igazolni kell, hogy a felhasználó fogyatékkal élő felhasználónak, illetve szociálisan rászoruló felhasználónak minősül. A szociálisan rászoruló felhasználóként történő nyilvántartásba vétel iránti kérelemhez a 9. melléklet szerinti adatlapot kell benyújtani.
+## h) a Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításáról szóló 2018. évi CIII. törvény (a továbbiakban: 2018. évi CIII. törvény) szerinti Lebonyolítóval a 2018. évi CIII. törvény alapján bérleti jogviszonyban áll, vagy
 
-## Tekintettel arra, hogy a védendő felhasználó a védettséggel járó jogait csak egy felhasználási helyen gyakorolhatja, ugyanazon felhasználónak egyidejűleg csak egy felhasználási hely tekintetében adható ki igazolás.
+## i) a Szoctv. 38–39/C. §-a szerinti gyermekek otthongondozási díjában részesül.
 
-## Az A) részben szereplő adatokat az igénylő vagy eltartója tölti ki, és az adatok valódiságát aláírásával igazolja.
+## 5. Az az igénylő, aki egyidejűleg mind fogyatékkal élő felhasználónak, mind szociálisan rászoruló felhasználónak minősül, mindkét jogcímen történő nyilvántartásba vételét kezdeményezheti, és egyaránt jogosulttá válhat a fogyatékkal élőket megillető különleges bánásmódra, valamint a szociálisan rászoruló felhasználóknak nyújtott kedvezményekre. Ebben az esetben külön-külön igazolni kell, hogy a felhasználó fogyatékkal élő felhasználónak, illetve szociálisan rászoruló felhasználónak minősül. A szociálisan rászoruló felhasználóként történő nyilvántartásba vétel iránti kérelemhez a 9. melléklet szerinti adatlapot kell benyújtani.
 
-## A B) részben szereplő adatokat a fogyatékkal élő személyt megillető fenti támogatásokat megállapító vagy folyósító szerv tölti ki.
+## 6. Tekintettel arra, hogy a védendő felhasználó a védettséggel járó jogait csak egy felhasználási helyen gyakorolhatja, ugyanazon felhasználónak egyidejűleg csak egy felhasználási hely tekintetében adható ki igazolás.
 
-## A C) részt a fogyatékkal élő személyt kezelő orvos – ennek hiányában a háziorvos – tölti ki a következők szerint:
+## 7. Az A) részben szereplő adatokat az igénylő vagy eltartója tölti ki, és az adatok valódiságát aláírásával igazolja.
+
+## 8. A B) részben szereplő adatokat a fogyatékkal élő személyt megillető fenti támogatásokat megállapító vagy folyósító szerv tölti ki.
+
+## 9. A C) részt a fogyatékkal élő személyt kezelő orvos – ennek hiányában a háziorvos – tölti ki, a következők szerint:
 
 ## a) a Rendelet 88/D. § (1) bekezdés b) pont bb) alpontját kell megjelölni, ha a fogyatékkal élő személy fogyatékossági támogatásban részesül,
 
-## b) a Rendelet 88/D. § (1) bekezdése b) pont bc) alpontját kell megjelölni, ha a vízszolgáltatás felfüggesztése vagy korlátozása a lakossági felhasználó vagy a vele közös háztartásban élő személy életét vagy egészségét közvetlenül veszélyezteti.
+## b) a Rendelet 88/D. § (1) bekezdés b) pont bc) alpontját kell megjelölni, ha a vízszolgáltatás felfüggesztése vagy korlátozása a lakossági felhasználó vagy a vele közös háztartásban élő személy életét vagy egészségét közvetlenül veszélyezteti.
 
-## Az orvos által a fogyatékosság jellege alapján javasolt különleges bánásmódot a víziközmű-szolgáltató az üzletszabályzatában meghatározottakkal összhangban biztosítja.
+## 10. Az orvos által a fogyatékosság jellege alapján javasolt különleges bánásmódot a víziközmű-szolgáltató az üzletszabályzatában meghatározottakkal összhangban biztosítja.
 
-## Az értesítendő személy vagy szervezet neve, telefonszáma mezőbe annak a személynek a nevét, telefonszámát kell beírni, aki a szolgáltatás felfüggesztése, korlátozása vagy megszüntetése esetén érdemben tud egyeztetni az érintett víziközmű-szolgáltatóval a szükséges intézkedések megtételéről.
+## 11. Az értesítendő személy vagy szervezet neve, telefonszáma mezőbe annak a személynek a nevét, telefonszámát kell beírni, aki a szolgáltatás felfüggesztése, korlátozása vagy megszüntetése esetén érdemben tud egyeztetni az érintett víziközmű-szolgáltatóval a szükséges intézkedések megtételéről.
 
-## Az egészségi állapotra vonatkozó besorolás valódiságát az orvos aláírásával igazolja.
+## 12. Az egészségi állapotra vonatkozó besorolás valódiságát az orvos aláírásával igazolja.
 
-## A fogyatékosság jellegét igazoló orvos részére be kell mutatni a fogyatékkal élő személy fogyatékossága tekintetében a rehabilitációs szakértői szerv által kiállított szakvéleményt, szakhatósági állásfoglalást, határozatot, amennyiben ilyen készült.
+## 13. A fogyatékosság jellegét igazoló orvos részére be kell mutatni a fogyatékkal élő személy fogyatékossága tekintetében a rehabilitációs szakértői szerv által kiállított szakvéleményt, szakhatósági állásfoglalást, határozatot, amennyiben ilyen készült.
 
-## Az igazolást az igénylőnek kell benyújtania a víziközmű-szolgáltatóhoz az igazolás kiállításától számított 30 napon belül, a nyilvántartásba történő felvétel iránti igény bejelentésekor. A 30 nap elteltét követően az igénylőnek új igazolást kell kérnie.
+## 14. Az igazolást az igénylőnek kell benyújtania a víziközmű-szolgáltatóhoz az igazolás kiállításától számított 30 napon belül, a nyilvántartásba történő felvétel iránti igény bejelentésekor. A 30 nap elteltét követően az igénylőnek új igazolást kell kérnie.
 
-## A nyilvántartásba történő felvételt követő évtől a védendő felhasználó minden év március 31-ig köteles igazolni, hogy védettsége továbbra is fennáll. Nem kell évenkénti igazolást benyújtania a fogyatékkal élő felhasználók nyilvántartásában szereplő személynek, ha az állapotában, illetve a háztartásában lakó fogyatékkal élő személy állapotában – orvosi szakvéleménnyel igazolhatóan – nem várható jelentős javulás.
+## 15. A nyilvántartásba történő felvételt követő évtől a védendő felhasználó minden év március 31-ig köteles igazolni, hogy védettsége továbbra is fennáll. Nem kell évenkénti igazolást benyújtania a fogyatékkal élő felhasználók nyilvántartásában szereplő személynek, ha az állapotában, illetve a háztartásában lakó fogyatékkal élő személy állapotában – orvosi szakvéleménnyel igazolhatóan – nem várható jelentős javulás.
 
-11. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^404]
+11. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^451]
 
 ## A Vksztv. 6. § (6) bekezdésében meghatározott kérelemhez az üzemeltetés alatt álló vízilétesítmény esetén mellékelni kell:
 
@@ -258,4 +272,4 @@
 
 6. a vízilétesítményhez csatlakozott lakossági felhasználók számát.
 
-[^404]: A 11. mellékletet a 243/2023. (VI. 20.) Korm. rendelet 16. § (6) bekezdése iktatta be.
+[^451]: A 11. mellékletet a 243/2023. (VI. 20.) Korm. rendelet 16. § (6) bekezdése iktatta be.

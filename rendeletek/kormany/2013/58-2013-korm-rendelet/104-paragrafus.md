@@ -1,12 +1,7 @@
-104. §[^379] (1) E rendeletnek a víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény egyes rendelkezéseinek végrehajtásáról szóló 58/2013. (II. 27.) Korm. rendelet módosításáról szóló 602/2021. (X. 29.) Korm. rendelettel (a továbbiakban: Mód1.) módosított 31. § (3) bekezdés a) pont ab) alpontját a Mód1. hatálybalépésekor[^380] folyamatban lévő ügyekben is alkalmazni kell.
+104. §[^426] (1) E rendeletnek a víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény egyes rendelkezéseinek végrehajtásáról szóló 58/2013. (II. 27.) Korm. rendelet módosításáról szóló 602/2021. (X. 29.) Korm. rendelettel (a továbbiakban: Mód1.) módosított 31. § (3) bekezdés a) pont ab) alpontját a Mód1. hatálybalépésekor[^427] folyamatban lévő ügyekben is alkalmazni kell.
 
-(2) Ha a víziközmű-szolgáltatói engedély engedélyese a Mód1.-gyel megállapított feltételeket teljesíti,
+(2)[^428]
 
-a) a 11. alcím alapján a Mód1. hatálybalépése[^381] előtt kiadott engedély nem vonható vissza e rendeletnek a Mód1. hatálybalépését megelőzően hatályos 31. § (3) bekezdés a) pont ab) alpontjának való meg nem felelés miatt,
-
-b) vele szemben e rendeletnek a Mód1. hatálybalépését[^382] megelőzően hatályos 31. § (3) bekezdés a) pont ab) alpontjának való meg nem felelés miatt közigazgatási szankció nem alkalmazható, továbbá egyéb – a Mód1. hatálybalépését megelőzően hatályos 31. § (3) bekezdés a) pont ab) alpontjának való megfelelés előmozdítása iránti – intézkedés nem tehető.
-
-[^379]: A 104. §-t a 602/2021. (X. 29.) Korm. rendelet 1. §-a iktatta be.
-[^380]: A hatálybalépés időpontja 2021. október 30.
-[^381]: A hatálybalépés időpontja 2021. október 30.
-[^382]: A hatálybalépés időpontja 2021. október 30.
+[^426]: A 104. §-t a 602/2021. (X. 29.) Korm. rendelet 1. §-a iktatta be.
+[^427]: A hatálybalépés időpontja 2021. október 30.
+[^428]: A 104. § (2) bekezdését a 358/2024. (XI. 25.) Korm. rendelet 26. § 10. pontja hatályon kívül helyezte.

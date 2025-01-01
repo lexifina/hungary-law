@@ -2,7 +2,7 @@
 
 ## részletes szabályok
 
-73. § (1) Az egészségügyi és gyermekintézmények a Vksztv. 58. § (2) bekezdése szerinti kivételnek való megfelelőséget az alábbi dokumentumokkal igazolják:
+73. § (1)[^293] Az egészségügyi és gyermekintézmények, a kritikus infrastruktúrák, valamint az ország védelme és biztonsága szempontjából jelentős infrastruktúrák tekintetében a Vksztv. 58. § (2) bekezdése szerinti kivételnek való megfelelőséget az alábbi dokumentumokkal igazolják:
 
 a) az 1. § 8. pontja szerinti intézmény alapító okirattal vagy működési engedéllyel,
 
@@ -16,12 +16,16 @@ e) a javítóintézet kivételével az 1. § 14. pont b) pont bb) alpontja szeri
 
 f) a javítóintézet alapító okirattal.
 
+g)[^294] a kritikus szervezetek ellenálló képességéről szóló törvény szerinti kritikus szervezetek, kritikus infrastruktúrák, valamint az ország védelme és biztonsága szempontjából jelentős szervezetek, az ország védelme és biztonsága szempontjából jelentős infrastruktúrák adatait nyilvántartó hatóság igazolásával.
+
 (2) A víziközmű-szolgáltató a kivétel biztosítására irányuló kezdeményezés beérkezésétől számított 15 napon belül értesíti az intézményt, hogy az (1) bekezdésében hivatkozott feltételeknek
 
-a)[^263] megfelel, valamint arról, hogy a kivételt részére mely időtartamra biztosítja vagy
+a)[^295] megfelel, valamint arról, hogy a kivételt részére mely időtartamra biztosítja vagy
 
 b) nem felel meg, és tájékoztatást ad ennek indokáról is.
 
 (3) A (2) bekezdés b) pontja szerinti elutasítás nem akadálya a kivétel ismételt kezdeményezésének.
 
-[^263]: A 73. § (2) bekezdés a) pontja a 292/2014. (XI. 26.) Korm. rendelet 37. § 38. pontja szerint módosított szöveg.
+[^293]: A 73. § (1) bekezdés nyitó szövegrésze a 474/2024. (XII. 31.) Korm. rendelet 141. §-a szerint módosított szöveg.
+[^294]: A 73. § (1) bekezdés g) pontját a 474/2024. (XII. 31.) Korm. rendelet 139. §-a iktatta be.
+[^295]: A 73. § (2) bekezdés a) pontja a 292/2014. (XI. 26.) Korm. rendelet 37. § 38. pontja szerint módosított szöveg.

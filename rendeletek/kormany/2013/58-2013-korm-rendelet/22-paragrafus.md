@@ -1,9 +1,9 @@
-## 21. § Ha a víziközmű-szolgáltatói engedélyt a Hivatal módosítja, a módosításról szóló döntés a víziközmű-szolgáltató külön kérelmére egységes szerkezetben – a változatlan tartalom megjelölésével – tartalmazza a 20. § szerinti elemeket is.
+22. § (1)[^105] A Hivatal az engedélyt határozott időre is kiadhatja.
 
-22. § (1) A Hivatal a víziközmű-szolgáltatói engedélyt határozott időre is kiadhatja.
+(2)[^106]
 
-(2) A Hivatal a víziközmű-szolgáltatói engedélyt legalább a Vksztv. 5/A. § (3) bekezdése szerinti átfogó ellenőrzés során felülvizsgálja.
+(3)[^107]
 
-(3)[^92] Az e rendelet hatálya alá tartozó eljárásokban az ügyintézési határidő 25 nap.
-
-[^92]: A 22. § (3) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 436. §-a iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^105]: A 22. § (1) bekezdése a 358/2024. (XI. 25.) Korm. rendelet 25. § 16. pontja szerint módosított szöveg.
+[^106]: A 22. § (2) bekezdését a 358/2024. (XI. 25.) Korm. rendelet 26. § 2. pontja hatályon kívül helyezte.
+[^107]: A 22. § (3) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 436. §-a iktatta be, a 358/2024. (XI. 25.) Korm. rendelet 26. § 2. pontja hatályon kívül helyezte.

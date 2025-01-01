@@ -1,14 +1,14 @@
 ## 21. Szennyvízmennyiség-mérés
 
-63. § (1)[^210] A szennyvízelvezetési helyről a szennyvízelvezető műbe kerülő szennyvíz mennyisége méréssel, mérés hiányában pedig az adott helyen felhasznált vízmennyiség alapulvételével állapítható meg.
+63. § (1)[^234] A szennyvízelvezetési helyről a szennyvízelvezető műbe kerülő szennyvíz mennyisége méréssel, mérés hiányában pedig az adott helyen felhasznált vízmennyiség alapulvételével állapítható meg.
 
-(2)[^211] A nem víziközműből származó víz azon mennyiségének mérésére, amelyet a felhasználó közüzemi szennyvízhálózatba vezet be, telki vízmérőt kell beépítenie, és kérnie kell annak leszerelést megakadályozó zárral vagy plombával történő ellátását a víziközmű-szolgáltatótól.
+(2)[^235] A nem víziközműből származó víz azon mennyiségének mérésére, amelyet a felhasználó közüzemi szennyvízhálózatba vezet be, telki vízmérőt kell beépítenie, és kérnie kell annak leszerelést megakadályozó zárral vagy plombával történő ellátását a víziközmű-szolgáltatótól.
 
-(3)[^212] A víziközmű-szolgáltató az üzletszabályzatában foglalt műszaki feltételek fennállása esetén előírhatja a közműves szennyvízmennyiség-mérő beépítését és működtetését.
+(3)[^236] A víziközmű-szolgáltató az üzletszabályzatában foglalt műszaki feltételek fennállása esetén előírhatja a közműves szennyvízmennyiség-mérő beépítését és működtetését.
 
-(4)[^213] A (2) és (3) bekezdésben meghatározott fogyasztásmérő működtetéséről, karbantartásáról, kalibrálásáról a felhasználónak saját költségén kell gondoskodnia.
+(4)[^237] A (2) és (3) bekezdésben meghatározott fogyasztásmérő működtetéséről, karbantartásáról, kalibrálásáról a felhasználónak saját költségén kell gondoskodnia.
 
-(5)[^214] A szennyvíz mennyiségének mérésére csak olyan mérőeszköz alkalmazható, amely megfelel az e rendeletben foglaltaknak, és amelyhez a víziközmű-szolgáltató előzetesen hozzájárult. A méréssel történő szennyvízelvezetési és -tisztítási szolgáltatás elszámolásának feltételeit a közszolgáltatási szerződésben rögzíteni kell.
+(5)[^238] A szennyvíz mennyiségének mérésére csak olyan mérőeszköz alkalmazható, amely megfelel az e rendeletben foglaltaknak, és amelyhez a víziközmű-szolgáltató előzetesen hozzájárult. A méréssel történő szennyvízelvezetési és -tisztítási szolgáltatás elszámolásának feltételeit a közszolgáltatási szerződésben rögzíteni kell.
 
 (6) Nem vehető figyelembe a szennyvíz mennyiségének meghatározásánál:
 
@@ -16,23 +16,23 @@ a) az a szennyvízmennyiség, ami az illetékes vízügyi hatóság engedélye a
 
 b) az a szennyvízmennyiség, amelynek a közüzemi szennyvízhálózatba vezetését minőségi vagy egyéb okok miatt az illetékes vízügyi hatóság megtiltotta, és szakszerű, ártalommentes elhelyezését a felhasználó igazolta,
 
-c)[^215] az a vízmennyiség, amely a házi ivóvízhálózat, illetve a csatlakozó hálózat meghibásodása következtében a 67/A. § (5) bekezdésében meghatározott mennyiséget meghaladóan a környezetben elszivárgott,
+c)[^239] az a vízmennyiség, amely a házi ivóvízhálózat, illetve a csatlakozó hálózat meghibásodása következtében a 67/A. § (5) bekezdésében meghatározott mennyiséget meghaladóan a környezetben elszivárgott,
 
-d)[^216] elkülönített mérés hiányában a lakossági felhasználó által a házikert öntözéséhez május 1-jétől szeptember 30-ig terjedő időszakban az elszámolás alapjául szolgáló ivóvízfogyasztás 10 százaléka, valamint
+d)[^240] elkülönített mérés hiányában a lakossági felhasználó által a házikert öntözéséhez május 1-jétől szeptember 30-ig terjedő időszakban az elszámolás alapjául szolgáló ivóvízfogyasztás 10 százaléka, valamint
 
-e)[^217] a házi ivóvízhálózatra a 62. § (3) bekezdése szerint telepített locsolási vízmérőn mért elkülönített locsolási vízhasználat, ha a d) pont szerinti kedvezmény igénybevételére nem kerül sor.
+e)[^241] a házi ivóvízhálózatra a 62. § (3) bekezdése szerint telepített locsolási vízmérőn mért elkülönített locsolási vízhasználat, ha a d) pont szerinti kedvezmény igénybevételére nem kerül sor.
 
-(7)[^218] Ha a felhasználási helyen keletkezett szennyvizet saját célú szennyvíz-elhelyező műbe és közcsatornába egyidejűleg vezetik, a víziközmű-szolgáltató és a szennyvíz-elhelyező mű működését engedélyező hatóság jogosult a közműves ivóvízhálózatból és a saját célú vízkivételi műből származó víz, illetve az elvezetett szennyvíz mért mennyiségét ellenőrizni.
+(7)[^242] Ha a felhasználási helyen keletkezett szennyvizet saját célú szennyvíz-elhelyező műbe és közcsatornába egyidejűleg vezetik, a víziközmű-szolgáltató és a szennyvíz-elhelyező mű működését engedélyező hatóság jogosult a közműves ivóvízhálózatból és a saját célú vízkivételi műből származó víz, illetve az elvezetett szennyvíz mért mennyiségét ellenőrizni.
 
-(8)[^219] A víziközmű-szolgáltató a szennyvíz-törzshálózatba bocsátott szennyvíz mennyiségét és minőségét előzetes értesítés nélkül ellenőrizheti.
+(8)[^243] A víziközmű-szolgáltató a szennyvíz-törzshálózatba bocsátott szennyvíz mennyiségét és minőségét előzetes értesítés nélkül ellenőrizheti.
 
-[^210]: A 63. § (1) bekezdése a 292/2014. (XI. 26.) Korm. rendelet 37. § 23. pontja szerint módosított szöveg.
-[^211]: A 63. § (2) bekezdése a 292/2014. (XI. 26.) Korm. rendelet 13. § (1) bekezdésével megállapított, a 367/2015. (XII. 2.) Korm. rendelet 27. § 19. pontja szerint módosított szöveg.
-[^212]: A 63. § (3) bekezdése a 292/2014. (XI. 26.) Korm. rendelet 37. § 24. pontja, a 243/2023. (VI. 20.) Korm. rendelet 17. § 16. pontja szerint módosított szöveg.
-[^213]: A 63. § (4) bekezdése a 292/2014. (XI. 26.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
-[^214]: A 63. § (5) bekezdése az 53/2014. (III. 3.) Korm. rendelet 39. § (4) bekezdés a) pontja, a 367/2015. (XII. 2.) Korm. rendelet 27. § 20. pontja szerint módosított szöveg.
-[^215]: A 63. § (6) bekezdés c) pontja a 342/2016. (XI. 17.) Korm. rendelet 39. § 22. pontja szerint módosított szöveg.
-[^216]: A 63. § (6) bekezdés d) pontja a 367/2015. (XII. 2.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^217]: A 63. § (6) bekezdés e) pontja a 292/2014. (XI. 26.) Korm. rendelet 37. § 25. pontja szerint módosított szöveg.
-[^218]: A 63. § (7) bekezdése a 292/2014. (XI. 26.) Korm. rendelet 13. § (4) bekezdésével megállapított szöveg.
-[^219]: A 63. § (8) bekezdése a 292/2014. (XI. 26.) Korm. rendelet 13. § (4) bekezdésével megállapított szöveg.
+[^234]: A 63. § (1) bekezdése a 292/2014. (XI. 26.) Korm. rendelet 37. § 23. pontja szerint módosított szöveg.
+[^235]: A 63. § (2) bekezdése a 292/2014. (XI. 26.) Korm. rendelet 13. § (1) bekezdésével megállapított, a 367/2015. (XII. 2.) Korm. rendelet 27. § 19. pontja szerint módosított szöveg.
+[^236]: A 63. § (3) bekezdése a 292/2014. (XI. 26.) Korm. rendelet 37. § 24. pontja, a 243/2023. (VI. 20.) Korm. rendelet 17. § 16. pontja szerint módosított szöveg.
+[^237]: A 63. § (4) bekezdése a 292/2014. (XI. 26.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^238]: A 63. § (5) bekezdése az 53/2014. (III. 3.) Korm. rendelet 39. § (4) bekezdés a) pontja, a 367/2015. (XII. 2.) Korm. rendelet 27. § 20. pontja szerint módosított szöveg.
+[^239]: A 63. § (6) bekezdés c) pontja a 342/2016. (XI. 17.) Korm. rendelet 39. § 22. pontja szerint módosított szöveg.
+[^240]: A 63. § (6) bekezdés d) pontja a 367/2015. (XII. 2.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^241]: A 63. § (6) bekezdés e) pontja a 292/2014. (XI. 26.) Korm. rendelet 37. § 25. pontja szerint módosított szöveg.
+[^242]: A 63. § (7) bekezdése a 292/2014. (XI. 26.) Korm. rendelet 13. § (4) bekezdésével megállapított szöveg.
+[^243]: A 63. § (8) bekezdése a 292/2014. (XI. 26.) Korm. rendelet 13. § (4) bekezdésével megállapított szöveg.

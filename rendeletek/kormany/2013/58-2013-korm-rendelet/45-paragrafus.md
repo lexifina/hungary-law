@@ -1,4 +1,4 @@
-45. §[^128] (1) A Hivatal kiszervezési engedélyt a kérelemben foglalt, de legfeljebb 36 hónapos szerződéses időtartamra adhat.
+45. §[^144] (1) A Hivatal kiszervezési engedélyt a kérelemben foglalt, de legfeljebb 36 hónapos szerződéses időtartamra adhat.
 
 (2) A kiszervezési engedély módosítására irányuló eljárásra a kiszervezési engedélyezés szabályai az irányadóak.
 
@@ -16,7 +16,7 @@
 
 (9) Ha a kiszervezési engedéllyel összhangban a víziközmű-szolgáltató több kiszervezésre irányuló szerződést köt, az (1) bekezdésben meghatározott időtartamot az első szerződés hatálybalépésétől kell számítani.
 
-(10)[^129] Ha a kiszervezésre irányuló szerződést a víziközmű-szolgáltató a kiszervezési engedély véglegessé válásától számított 1 éven belül nem köti meg, vagy a létrejött szerződést az 1 éves határidő lejárta előtt nem küldi meg a Hivatal részére, a Hivatal az engedélyt visszavonja.
+(10)[^145] Ha a kiszervezésre irányuló szerződést a víziközmű-szolgáltató a kiszervezési engedély véglegessé válásától számított 1 éven belül nem köti meg, vagy a létrejött szerződést az 1 éves határidő lejárta előtt nem küldi meg a Hivatal részére, a Hivatal az engedélyt visszavonja.
 
-[^128]: A 45. § a 342/2016. (XI. 17.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^129]: A 45. § (10) bekezdése a 243/2023. (VI. 20.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^144]: A 45. § a 342/2016. (XI. 17.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^145]: A 45. § (10) bekezdése a 243/2023. (VI. 20.) Korm. rendelet 6. §-ával megállapított szöveg.

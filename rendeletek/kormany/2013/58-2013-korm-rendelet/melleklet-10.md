@@ -1,36 +1,20 @@
-## Kérelem szociálisan rászoruló személyként a védendő felhasználók nyilvántartásába történő
-
-## felvétel/nyilvántartás meghosszabbítása iránt
+## 4X08342.docx
 
 ## A)
 
 ## A FELHASZNÁLÓ TÖLTI KI
 
-## A víziközmű-szolgáltató által kiállított számlán megjelölt felhasználási hely
+## 1. A víziközmű-szolgáltató által kiállított számlán megjelölt felhasználási hely
 
 ## a) egyértelmű meghatározására alkalmas, a víziközmű-szolgáltatónál nyilvántartott azonosító:
 
-## ……………………………………..
+## ........................................................................................................................
 
 ## b) címe (irányítószám, település, utca/út/tér, házszám, lépcsőház, emelet, ajtó):
 
-## ………………………………………………………………………………….
+## ..........................................................................................................................................................................................
 
-## A víziközmű-szolgáltató által kiállított számlán felhasználóként megjelölt személy
-
-## a) családi és utóneve:
-
-## b) születési neve:
-
-## c) anyja neve:
-
-## d) születési helye és ideje:
-
-## e) lakóhelye (irányítószám, település, utca/út/tér, házszám, lépcsőház, emelet, ajtó):
-
-## …………………………………………………………………………………..
-
-## Ha a víziközmű-szolgáltató által kiállított számlán megjelölt személy nem saját jogán, hanem a vele egy háztartásban élő személyre tekintettel kéri védendő felhasználóként történő nyilvántartásba vételét (nyilvántartásba vételének meghosszabbítását), e személy
+## 2. A víziközmű-szolgáltató által kiállított számlán felhasználóként megjelölt személy
 
 ## a) családi és utóneve:
 
@@ -42,17 +26,31 @@
 
 ## e) lakóhelye (irányítószám, település, utca/út/tér, házszám, lépcsőház, emelet, ajtó):
 
-## ……………………………………………………………………………………
+## ..........................................................................................................................................................................................
 
-## Az alábbi igazolás alapján kérem a víziközmű-szolgáltató
+## 3. Ha a víziközmű-szolgáltató által kiállított számlán megjelölt személy nem saját jogán, hanem a vele egy háztartásban élő személyre tekintettel kéri védendő felhasználóként történő nyilvántartásba vételét (nyilvántartásba vételének meghosszabbítását), e személy
+
+## a) családi és utóneve:
+
+## b) születési neve:
+
+## c) anyja neve:
+
+## d) születési helye és ideje:
+
+## e) lakóhelye (irányítószám, település, utca/út/tér, házszám, lépcsőház, emelet, ajtó):
+
+## ..........................................................................................................................................................................................
+
+## 4. A B) rész szerinti igazolás alapján kérem a víziközmű-szolgáltató
 
 ## a) nyilvántartásába szociálisan rászoruló (védendő) felhasználóként történő felvételem.
 
 ## b) nyilvántartásában szociálisan rászoruló (védendő) felhasználóként történő nyilvántartásom meghosszabbítását.
 
-## Kelt:
+## Kelt: ....................................................................................
 
-## ............................................................
+## ...........................................................................................
 
 ## felhasználó aláírása
 
@@ -60,7 +58,9 @@
 
 ## AZ IGAZGATÁSI SZERV TÖLTI KI
 
-## Eljáró igazgatási szerv megnevezése:
+## 1. Eljáró igazgatási szerv
+
+## Megnevezése:
 
 ## Székhelye:
 
@@ -92,71 +92,83 @@
 
 ## (lakóhelye):
 
-## személyre tekintettel a víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény egyes rendelkezéseinek végrehajtásáról szóló 58/2013. (II. 27.) Korm. rendelet 88/B. § (1) bekezdésében foglaltak alapján szociálisan rászoruló felhasználónak minősül.
+## személyre tekintettel
 
-## A felhasználó / a vele közös háztartásban élő személy
+## a víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény egyes rendelkezéseinek végrehajtásáról szóló 58/2013. (II. 27.) Korm. rendelet 88/B. § (1) bekezdésében foglaltak alapján szociálisan rászoruló felhasználónak minősül.
 
-## a) a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szoctv.) 32/B. §-a szerinti időskorúak járadékában részesül,
-
-## b) a Szoctv. 33. §-a szerinti aktív korúak ellátására jogosult,
-
-## c) a Szoctv. 38. §-a szerinti lakásfenntartási támogatásban részesül,
-
-## d) a Szoctv. 40–44. §-a szerinti ápolási díjban részesül,
-
-## e) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.) 19. §-a szerinti rendszeres gyermekvédelmi kedvezményre jogosult,
-
-## f) a Gyvt. 25. §-a szerinti otthonteremtési támogatásban részesült, a támogatás megállapításától számított 3 éven keresztül, vagy
-
-## g) a Gyvt. 54. §-a szerinti nevelőszülő, aki saját háztartásában neveli a gondozásába helyezett nevelésbe vett gyermeket.
-
-## (A megfelelő rész aláhúzandó.)
-
-## A felhasználó szociális rászorultságának fennállását a(z)..........................…..számú határozat alapján igazolom.
-
-## A felhasználó szociális rászorultságát a fentiek szerint megalapozó körülmény
-
-## a) határozatlan ideig,
-
-## b) határozott ideig: ..........................................-ig
-
-## áll fenn.
-
-## Ugyanazon felhasználónak egyidejűleg csak egy felhasználási hely tekintetében adható ki igazolás.
-
-## Ez az igazolás ……………………………………………….(cím) felhasználási helyen történő felhasználásra került kiadásra
-
-## Kelt:
-
-## P. H.
-
-## ….........................................................
-
-## eljáró igazgatási szerv
-
-## KITÖLTÉSI ÚTMUTATÓ
-
-## Az űrlapot géppel vagy tollal, nyomtatott betűkkel kell kitölteni.
-
-## A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény 58/A. § (1) bekezdése alapján a védendő felhasználók nyilvántartásába történő felvétel szociálisan rászoruló felhasználóként és/vagy fogyatékkal élő felhasználóként kérelmezhető.
-
-## A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény egyes rendelkezéseinek végrehajtásáról szóló 58/2013. (II. 27.) Korm. rendelet 88/B. § (1) bekezdése értelmében szociálisan rászoruló felhasználónak azt a természetes személyt kell tekinteni, aki vagy akinek háztartásában élő személy:
+## 2. A felhasználó / a vele közös háztartásban élő személy
 
 ## a) a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szoctv.) 32/B. §-a szerinti időskorúak járadékában részesül,
 
 ## b) a Szoctv. 33. §-a szerinti aktív korúak ellátására jogosult,
 
-## c) az a személy, akinek életét vagy egészségét közvetlenül veszélyezteti a vízszolgáltatás felfüggesztése megszüntetése.
+## c) a Szoctv. 45. § (1) bekezdés a) pontja szerint a lakhatáshoz kapcsolódó rendszeres kiadások viseléséhez nyújtott települési támogatásban részesül,
 
 ## d) a Szoctv. 40–44. §-a szerinti ápolási díjban részesül,
 
 ## e) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.) 19. §-a szerinti rendszeres gyermekvédelmi kedvezményben részesül,
 
-## f) a Gyvt. 25. §-a szerinti otthonteremtési támogatásban részesült, a támogatás megállapításától számított 3 éven keresztül, vagy
+## f) a Gyvt. 25. §-a szerinti otthonteremtési támogatásban részesült, a támogatás megállapításától számított 3 éven keresztül,
 
-## g) a Gyvt. 54. §-a szerinti nevelőszülő, aki saját háztartásában neveli a gondozásába helyezett nevelésbe vett gyermeket.
+## g) a Gyvt. 54. §-a szerinti nevelőszülő, aki saját háztartásában neveli a gondozásába helyezett nevelésbe vett gyermeket,
 
-## A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény 2. § 30. pontja szerint fogyatékkal élő felhasználó:
+## h) a Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításáról szóló 2018. évi CIII. törvény (a továbbiakban: 2018. évi CIII. törvény) szerinti Lebonyolítóval a 2018. évi CIII. törvény alapján bérleti jogviszonyban áll, vagy
+
+## i) a Szoctv. 38–39/C. §-a szerinti gyermekek otthongondozási díjában részesül.
+
+## (A megfelelő rész aláhúzandó.)
+
+## 3. A felhasználó szociális rászorultságának fennállását a(z) .................................................. számú határozat alapján igazolom.
+
+## A felhasználó szociális rászorultságát a fentiek szerint megalapozó körülmény
+
+## a) határozatlan ideig,
+
+## b) határozott ideig: .........................................................................................-ig
+
+## áll fenn.
+
+## 4. Ugyanazon felhasználónak egyidejűleg csak egy felhasználási hely tekintetében adható ki igazolás.
+
+## 5. Ez az igazolás ......................................................................................... (cím) felhasználási helyen történő felhasználásra került kiadásra.
+
+## Kelt: ....................................................................................
+
+## P. H.
+
+## ...........................................................................................
+
+## eljáró igazgatási szerv
+
+## C)
+
+## KITÖLTÉSI ÚTMUTATÓ
+
+## 1. Az űrlapot géppel vagy tollal, nyomtatott betűkkel kell kitölteni.
+
+## 2. A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény 58/A. § (1) bekezdése alapján a védendő felhasználók nyilvántartásába történő felvétel szociálisan rászoruló felhasználóként és/vagy fogyatékkal élő felhasználóként kérelmezhető.
+
+## 3. A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény egyes rendelkezéseinek végrehajtásáról szóló 58/2013. (II. 27.) Korm. rendelet 88/B. § (1) bekezdése értelmében szociálisan rászoruló felhasználónak azt a természetes személyt kell tekinteni, aki vagy akinek háztartásában élő személy
+
+## a) a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szoctv.) 32/B. §-a szerinti időskorúak járadékában részesül,
+
+## b) a Szoctv. 33. §-a szerinti aktív korúak ellátására jogosult,
+
+## c) a Szoctv. 45. § (1) bekezdés a) pontja szerint a lakhatáshoz kapcsolódó rendszeres kiadások viseléséhez nyújtott települési támogatásban részesül,
+
+## d) a Szoctv. 40–44. §-a szerinti ápolási díjban részesül,
+
+## e) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.) 19. §-a szerinti rendszeres gyermekvédelmi kedvezményben részesül,
+
+## f) a Gyvt. 25. §-a szerinti otthonteremtési támogatásban részesült, a támogatás megállapításától számított 3 éven keresztül,
+
+## g) a Gyvt. 54. §-a szerinti nevelőszülő, aki saját háztartásában neveli a gondozásába helyezett nevelésbe vett gyermeket,
+
+## h) a Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításáról szóló 2018. évi CIII. törvény (a továbbiakban: 2018. évi CIII. törvény) szerinti Lebonyolítóval a 2018. évi CIII. törvény alapján bérleti jogviszonyban áll, vagy
+
+## i) a Szoctv. 38–39/C. §-a szerinti gyermekek otthongondozási díjában részesül.
+
+## 4. A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény 2. § 30. pontja szerint fogyatékkal élő felhasználó
 
 ## a) a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény szerinti fogyatékossági támogatásban részesülő személy,
 
@@ -164,18 +176,20 @@
 
 ## c) az a személy, akinek életét vagy egészségét a víziközmű-szolgáltatás felfüggesztése vagy annak korlátozása közvetlenül veszélyezteti.
 
-## Az az igénylő, aki egyidejűleg mind szociálisan rászoruló felhasználónak, mind fogyatékkal élő felhasználónak minősül, mindkét jogcímen történő nyilvántartásba vételét kezdeményezheti, és egyaránt jogosulttá válhat a szociálisan rászoruló felhasználóknak nyújtott kedvezményekre, valamint a fogyatékkal élőket megillető különleges bánásmódra. Ebben az esetben külön-külön igazolni kell, hogy a felhasználó szociálisan rászoruló felhasználónak, illetve fogyatékkal élő felhasználónak minősül. A fogyatékkal élő felhasználóként történő nyilvántartásba vétel iránti kérelemhez a 10. melléklet szerinti adatlapot kell benyújtani.
+## 5. Az az igénylő, aki egyidejűleg mind szociálisan rászoruló felhasználónak, mind fogyatékkal élő felhasználónak minősül, mindkét jogcímen történő nyilvántartásba vételét kezdeményezheti, és egyaránt jogosulttá válhat a szociálisan rászoruló felhasználóknak nyújtott kedvezményekre, valamint a fogyatékkal élőket megillető különleges bánásmódra. Ebben az esetben külön-külön igazolni kell, hogy a felhasználó szociálisan rászoruló felhasználónak, illetve fogyatékkal élő felhasználónak minősül. A fogyatékkal élő felhasználóként történő nyilvántartásba vétel iránti kérelemhez a 10. melléklet szerinti adatlapot kell benyújtani.
 
-## Az A) részben szereplő adatokat a felhasználó tölti ki és az adatok valódiságát aláírásával igazolja.
+## 6. Az A) részben szereplő adatokat a felhasználó tölti ki, és az adatok valódiságát aláírásával igazolja.
 
-## A B) részben szereplő adatokat az a szerv tölti ki, amelyik a szociális rászorultságot megalapozó jogosultságot, ellátást, tényt megállapította.
+## 7. A B) részben szereplő adatokat az a szerv tölti ki, amelyik a szociális rászorultságot megalapozó jogosultságot, ellátást, tényt megállapította.
 
-## Tekintettel arra, hogy a védendő felhasználó a védettséggel járó jogait csak egy felhasználási helyen gyakorolhatja, ugyanazon igénylőnek, felhasználónak egyidejűleg csak egy felhasználási hely tekintetében adható ki igazolás.
+## 8. Tekintettel arra, hogy a védendő felhasználó a védettséggel járó jogait csak egy felhasználási helyen gyakorolhatja, ugyanazon igénylőnek, felhasználónak egyidejűleg csak egy felhasználási hely tekintetében adható ki igazolás.
 
-## Az igazolást a lakossági felhasználónak kell benyújtania a víziközmű-szolgáltatóhoz az igazolás kiállításától számított 30 napon belül, a nyilvántartásba történő felvétel iránti igény bejelentésekor. A 30 nap elteltét követően az igénylőnek új igazolást kell kérnie.
+## 9. Az igazolást a lakossági felhasználónak kell benyújtania a víziközmű-szolgáltatóhoz az igazolás kiállításától számított 30 napon belül, a nyilvántartásba történő felvétel iránti igény bejelentésekor. A 30 nap elteltét követően az igénylőnek új igazolást kell kérnie.
 
-## A nyilvántartásba történő felvételt követő évtől a szociálisan rászoruló felhasználó minden év március 31-ig köteles igazolni, hogy védettsége továbbra is fennáll.
+## 10. A nyilvántartásba történő felvételt követő évtől a szociálisan rászoruló felhasználó minden év március 31-ig köteles igazolni, hogy védettsége továbbra is fennáll.
 
-10. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^403]
+10. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^450]
 
-[^403]: A 10. mellékletet a 292/2014. (XI. 26.) Korm. rendelet 36. § c) pontja iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 223. § (3) bekezdés b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 116. § (4) bekezdése, a 216/2023. (VI. 1.) Korm. rendelet 5. § (11) bekezdés b) pontja, az 598/2023. (XII. 21.) Korm. rendelet 7. § d) pontja szerint módosított szöveg.
+Kérelem fogyatékkal élő személyként a védendő felhasználók nyilvántartásába történő felvétel / nyilvántartás meghosszabbítása iránt
+
+[^450]: A 10. mellékletet a 292/2014. (XI. 26.) Korm. rendelet 36. § c) pontja iktatta be, szövege a 358/2024. (XI. 25.) Korm. rendelet 24. § (7) bekezdésével megállapított szöveg.

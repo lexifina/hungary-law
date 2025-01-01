@@ -35,3 +35,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-58-20-2
 | 2023-09-01 | 2013-58-20-22.26 | 216/2023. (VI. 1.) Korm. rendelet |
 | 2024-01-01 | 2013-58-20-22.28 | 598/2023. (XII. 21.) Korm. rendelet |
 | 2024-10-01 | 2013-58-20-22.29 | 527/2013. (XII. 30.) Korm. rendelet |
+| 2025-01-01 | 2013-58-20-22.30 | 358/2024. (XI. 25.) Korm. rendelet |

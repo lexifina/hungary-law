@@ -1,4 +1,4 @@
-## IX/A. Fejezet[^363]
+## IX/A. Fejezet[^409]
 
 ## A VÍZIKÖZMŰ-SZOLGÁLTATÓ KÖTELEZETTSÉGE TELJESÍTÉSÉVEL KAPCSOLATOS BESZERZÉSEINEK KÖVETELMÉNYEI
 
@@ -8,10 +8,10 @@
 
 (3) Az (1) bekezdésben meghatározott feladatok végrehajtása érdekében a víziközmű-szolgáltató a beszerzési szabályzatát (a továbbiakban: Szabályzat) úgy készíti el, hogy az a nem közbeszerzés útján megvalósuló beszerzéseit is tartalmazza.
 
-(4)[^364] A víziközmű-szolgáltató aláírásra jogosult vezető tisztségviselője vagy tisztségviselői által elektronikusan aláírt Szabályzatot elektronikus úton kell jóváhagyásra benyújtani. Ha víziközmű-szolgáltató a Szabályzat módosítását kéri, olyan példány benyújtása is szükséges, amelyből egyértelműen megállapíthatóak a tervezett módosítások.
+(4)[^410] A víziközmű-szolgáltató aláírásra jogosult vezető tisztségviselője vagy tisztségviselői által elektronikusan aláírt Szabályzatot elektronikus úton kell jóváhagyásra benyújtani. Ha víziközmű-szolgáltató a Szabályzat módosítását kéri, olyan példány benyújtása is szükséges, amelyből egyértelműen megállapíthatóak a tervezett módosítások.
 
-(5)[^365] A Szabályzat jóváhagyásra irányuló kérelemhez mellékelni kell a Szabályzat tervezetét, valamint az igazgatási szolgáltatási díj átutalását igazoló dokumentum egy másolati példányát.
+(5)[^411] A Szabályzat jóváhagyásra irányuló kérelemhez mellékelni kell a Szabályzat tervezetét, valamint az igazgatási szolgáltatási díj átutalását igazoló dokumentum egy másolati példányát.
 
-[^363]: A IX/A. fejezetet (94/A–94/E. §) a 292/2014. (XI. 26.) Korm. rendelet 32. §-a iktatta be.
-[^364]: A 94/A. § (4) bekezdését a 342/2016. (XI. 17.) Korm. rendelet 36. §-a iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 437. § g) pontja, a 243/2023. (VI. 20.) Korm. rendelet 17. § 30. pontja szerint módosított szöveg. Alkalmazására lásd a 457/2017. (XII. 28.) Korm. rendelet 618. §-át.
-[^365]: A 94/A. § (5) bekezdését a 342/2016. (XI. 17.) Korm. rendelet 36. §-a iktatta be.
+[^409]: A IX/A. fejezetet (94/A–94/E. §) a 292/2014. (XI. 26.) Korm. rendelet 32. §-a iktatta be.
+[^410]: A 94/A. § (4) bekezdését a 342/2016. (XI. 17.) Korm. rendelet 36. §-a iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 437. § g) pontja, a 243/2023. (VI. 20.) Korm. rendelet 17. § 30. pontja szerint módosított szöveg. Alkalmazására lásd a 457/2017. (XII. 28.) Korm. rendelet 618. §-át.
+[^411]: A 94/A. § (5) bekezdését a 342/2016. (XI. 17.) Korm. rendelet 36. §-a iktatta be.

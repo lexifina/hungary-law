@@ -1,6 +1,4 @@
-## 37. §[^116] A Hivatal a víziközmű-szolgáltató víziközmű-szolgáltatói engedélyét kérelemre vagy hivatalból módosítja.
-
-38. § (1)[^117] A víziközmű-szolgáltató a cégbírósági változásbejegyzést követő 30 napon belül köteles kérni a víziközmű-szolgáltatói engedélyének módosítását, amennyiben a változás az engedély tartalmát érinti.
+38. § (1)[^132] A víziközmű-szolgáltató a cégbírósági változásbejegyzést követő 30 napon belül köteles kérni az engedélyének módosítását, amennyiben a változás az engedély tartalmát érinti.
 
 (2) Az (1) bekezdés szerinti kérelemhez mellékelni kell:
 
@@ -10,5 +8,4 @@ b) az a) ponthoz kapcsolódó valamennyi olyan okiratot és igazolást, amelynek
 
 c) az arra vonatkozó nyilatkozatot, hogy az engedély kiadására irányuló eljárásban már elbírált és újból be nem nyújtott okiratok tartalmában az eredeti kérelem benyújtása óta változás nem következett be.
 
-[^116]: A 37. § a 342/2016. (XI. 17.) Korm. rendelet 39. § 16. pontja szerint módosított szöveg.
-[^117]: A 38. § (1) bekezdése a 342/2016. (XI. 17.) Korm. rendelet 39. § 17. pontja szerint módosított szöveg.
+[^132]: A 38. § (1) bekezdése a 342/2016. (XI. 17.) Korm. rendelet 39. § 17. pontja, a 358/2024. (XI. 25.) Korm. rendelet 25. § 28. pontja szerint módosított szöveg.
