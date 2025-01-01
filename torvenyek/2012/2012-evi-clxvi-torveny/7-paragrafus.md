@@ -1,1 +1,1 @@
-7. § Az európai létfontosságú rendszerelem vagy a nemzeti létfontosságú rendszerelem üzemeltetőjét terhelik az üzemeltetői biztonsági terv elkészítésének, módosításának és gyakoroltatásának, a biztonsági összekötő személy foglalkoztatásának költségei, valamint az üzemeltetői biztonsági tervben foglalt, a létfontosságú rendszerelemek védelmét szolgáló szervezeti és eszközrendszerrel kapcsolatban felmerült költségek.
+### 7. §

@@ -1,1 +1,1 @@
-9/E. § Az IHR működtetése, a hatósági eljáráshoz szükséges információk beszerzése, valamint az ügyfél hatékony és gyors ügyintézésének biztosítása céljából az IHR rendszer üzemeltetője jogosult továbbítani a csatlakozott szervek felé az ügyfél által megjelölt adatokat, valamint az ügyfél részére a csatlakozott szervek által visszaküldött információkat.
+### 9/E. §

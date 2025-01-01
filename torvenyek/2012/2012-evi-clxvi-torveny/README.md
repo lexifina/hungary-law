@@ -27,3 +27,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-166-00-00
 | 2023-07-01 | 2022. évi L. törvény | 2012-166-00-00.20 |
 | 2024-10-01 | 2024. évi XXIX. törvény | 2012-166-00-00.22 |
 | 2024-10-18 | 2023. évi XXIII. törvény | 2012-166-00-00.21 |
+| 2025-01-01 | 2024. évi LXXXIV. törvény | 2012-166-00-00.23 |

@@ -1,1 +1,1 @@
-9/D. § Az üzemeltető elektronikus azonosítását követően az IHR-be tölti fel az azonosítási jelentését, az üzemeltetői biztonsági tervet, a biztonsági összekötő személy adatközlő lapját, a rendkívüli események bejelentésére szolgáló űrlapot, valamint más, a Kormány rendeletében meghatározott esetekben a hivatásos katasztrófavédelmi szerv eljárásához szükséges dokumentumokat.
+### 9/D. §
