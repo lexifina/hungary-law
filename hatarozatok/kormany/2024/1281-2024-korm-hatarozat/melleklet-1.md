@@ -78,7 +78,7 @@
 
 ## 15.[^14]
 
-## 16.[^15]
+## 16. Az 1548/2023. (XII. 13.) Korm. határozat 1. melléklete a 4. melléklet szerint módosul.
 
 ## 17. Ez a határozat – a 18. pontban foglalt kivétellel – a közzétételét követő napon lép hatályba.
 
@@ -100,4 +100,3 @@
 [^12]: A 13. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^13]: A 14. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^14]: A 15. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^15]: A 16. pont a 18. pont alapján 2025. január 1-jén lép hatályba.
