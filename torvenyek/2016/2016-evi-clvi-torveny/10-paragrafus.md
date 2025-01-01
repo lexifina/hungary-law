@@ -28,7 +28,7 @@ j) turisztikai attrakció üzemeltetője által alkalmazandó jegykezelő szoftv
 
 k) Nemzeti Turisztikai Adatszolgáltató Központban adatszolgáltatásra kötelezett vendéglátó üzletek és a regisztrációra és adatszolgáltatásra kötelezett turisztikai attrakciók körét;
 
-l) turisztikai attrakció üzemeltetője a Nemzeti Turisztikai Adatszolgáltató Központtal kapcsolatos kötelezettségeinek ellenőrzésére jogosult szervet;
+l) turisztikai attrakció üzemeltetőjének a Nemzeti Turisztikai Adatszolgáltató Központtal kapcsolatos regisztrációs és adatszolgáltatási kötelezettségei ellenőrzésére jogosult szervet, a kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket;
 
 m) turisztikailag kiemelt jelentőségű településeket
 

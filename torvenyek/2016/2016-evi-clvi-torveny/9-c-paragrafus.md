@@ -1,4 +1,4 @@
-9/C. § (1) A szálláshely-szolgáltató, a vendéglátó üzlet üzemeltetője, valamint a turisztikai attrakció üzemeltetője a tevékenysége megkezdésétől számított 5 napon belül a Nemzeti Turisztikai Adatszolgáltató Központban elektronikus úton regisztrál.
+9/C. § (1) A szálláshely-szolgáltató, a vendéglátó üzlet üzemeltetője, valamint a turisztikai attrakció üzemeltetője a tevékenysége bejelentését megelőzően elektronikus úton regisztrál a Nemzeti Turisztikai Adatszolgáltató Központba.
 
 (2) A szálláshely-szolgáltató, a vendéglátó üzlet üzemeltetője, a turisztikai attrakció üzemeltetője regisztrációja, annak módosítása vagy törlése, valamint a nevében eljáró személy azonosítása és képviseleti jogosultságának ellenőrzése, a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény és végrehajtási rendeleteinek az elektronikus azonosításra, továbbá a Vhr.-ben megjelölt egyéb szabályozott és központi elektronikus ügyintézési szolgáltatásokra (a továbbiakban együtt: SZEÜSZ) vonatkozó szabályok megfelelő alkalmazásával, a Vhr.-ben meghatározott módon, elektronikus úton történik.
 
