@@ -1,17 +1,13 @@
-## „d) az adópolitikáért felelős miniszterrel egyetértésben a személyazonosító igazolvány, valamint a személyi azonosítót és lakcímet igazoló hatósági igazolvány kiállításáért, pótlásáért fizetendő igazgatási szolgáltatási díj összegét és megfizetésének részletes szabályait;”
-
 8. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény
 
-a) 7. § (1) bekezdés h) pontjában az „átadásáról” szövegrész helyébe az „átadásáról vagy kézbesítéséről” szöveg,
+a)
 
-b) 7. § (1) bekezdés i) pontjában a „kézbesítésével” szövegrész helyébe az „átadásával vagy kézbesítésével” szöveg,
+b)
 
-c) 7/A. § b) pontjában az „átadásáról;” szövegrész helyébe az „átadásáról vagy kézbesítéséről;” szöveg,
+c)
 
-d) 24/L. §-ában az „(a továbbiakban: Program)” szövegrész helyébe az „(a továbbiakban: Gondosóra program)” szöveg, a „Program” szövegrészek helyébe a „Gondosóra program” szöveg, a „Programban” szövegrész helyébe a „Gondosóra programban” szöveg,
+d)
 
-e) 29/G. § (2) bekezdésében a „polgárt” szövegrész helyébe a „polgárt kérelmére” szöveg,
+e)
 
-f) 36. § (5) bekezdésében a „Program” szövegrész helyébe a „Gondosóra program” szöveg
-
-lép.
+f)

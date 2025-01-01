@@ -1,35 +1,33 @@
 9. § Hatályát veszti a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény
 
-a) 6. § (2a) bekezdésében, 24. § (1) bekezdésében és 29. § (13a) bekezdésében az „és (4)” szövegrész,
+a)
 
-b) 7. § (4) bekezdése,
+b)
 
-c) 9. § (2) bekezdés m) pontja,
+c)
 
-d) 13. § (2a) bekezdésében a „4. § (1) bekezdés c) pontja szerinti külföldön élő polgár és a” szövegrész,
+d)
 
-e) 14. § s) pontja,
+e)
 
-f) 21. § y) pontja,
+f)
 
-g) 24/E. § (2) bekezdése
+g)
 
-h) 24/H. § (1) bekezdése,
+h)
 
-i) 29/A. § (7) bekezdése,
+i)
 
-j) 34. § (6) bekezdésében az „A nyilvántartást kezelő szerv ebben az esetben írásban tart kapcsolatot a polgárral.” szövegrész,
+j)
 
-k) 34. § (9a) bekezdése,
+k)
 
-l) 34/A. §-a,
+l)
 
-m) 36. § (6) bekezdésében az „és a születési vagy a házasságkötés előtt közvetlenül viselt nevétől eltérő házassági nevet felvevő, Magyarországon házasságot kötő magyar állampolgárok” szövegrész,
+m)
 
-n) 36/A. § (1) bekezdés k) pontja,
+n)
 
-o) 36/A. § (2) bekezdés f) pontja,
+o)
 
-p) 47. § (1) bekezdés a) pontjában az „az elektronikus ügyintézési ponton történő ügyintézés eltérő szabályait,”
-
-szövegrész.
+p)
