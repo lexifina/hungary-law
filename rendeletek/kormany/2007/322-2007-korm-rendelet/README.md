@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-322-20-
 | 2020-03-01 | 2007-322-20-22.18 | 473/2016. (XII. 27.) Korm. rendelet |
 | 2023-01-01 | 2007-322-20-22.19 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2024-10-01 | 2007-322-20-22.20 | 360/2019. (XII. 30.) Korm. rendelet |
+| 2025-01-01 | 2007-322-20-22.21 | 422/2024. (XII. 23.) Korm. rendelet |
