@@ -12,7 +12,7 @@ b) a bázislétszámot;
 
 c) a támogatási kérelem benyújtását megelőző utolsó lezárt üzleti évben elért árbevételét és bértömegét;
 
-d) a beruházás ismertetését (így különösen annak helyszínét, a beruházás méretét, kezdetének és befejezésének várható időpontját, TEÁOR kódját, gyártási termék vámtarifa számát) és szöveges bemutatását, valamint a tervezett beruházási költségeket költségnemenként;
+d)[^46] a beruházás ismertetését (így különösen annak helyszínét, a beruházás méretét, kezdetének és befejezésének várható időpontját, TEÁOR’25 kódját, gyártási termék vámtarifa számát) és szöveges bemutatását, valamint a tervezett beruházási költségeket költségnemenként;
 
 e) a kötelező üzemeltetési időszakhoz kapcsolódó új munkahelyek számát, valamint az árbevétel- és a bértömegnövekmény összegét.
 
@@ -49,3 +49,5 @@ a) előlegként történhet, forintban, amennyiben a pályázó garanciát is be
 b) utólag, forintban, a támogatási szerződésben meghatározott ütemezés alapján történik, azzal, hogy ebben az esetben a beruházás befejezése nem lehet későbbi, mint 2022. augusztus 31-e.
 
 (10) A támogatási szerződésben kell rendelkezni a pályázó rendeltetésszerű támogatásfelhasználásról szóló beszámolási és bejelentési kötelezettségeiről, valamint a beszámolók benyújtásának határidőiről.
+
+[^46]: A 12/Q. § (2) bekezdés d) pontja a 16/2024. (XII. 4.) KKM rendelet 2. §-a szerint módosított szöveg.

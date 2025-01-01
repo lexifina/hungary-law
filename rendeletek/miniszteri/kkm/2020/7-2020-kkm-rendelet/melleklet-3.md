@@ -1,8 +1,8 @@
-## A 2. § (1) bekezdés b) és c) pontja szerinti versenyképesség-növelő támogatás tekintetében vállalt beruházás keretében beszerzett tárgyi eszközökre és immateriális javakra vonatkozó szabályok[^54]
+## A 2. § (1) bekezdés b) és c) pontja szerinti versenyképesség-növelő támogatás tekintetében vállalt beruházás keretében beszerzett tárgyi eszközökre és immateriális javakra vonatkozó szabályok[^58]
 
 ## I. Kizárólag a támogatási kérelem befogadására vonatkozó értesítést követően felmerült költségek vehetők figyelembe a beruházás részeként, figyelemmel a támogatási szerződésben rögzített beruházás megkezdésének időpontjára és a kérelemhez mellékelt költségkategóriákra.
 
-## II.[^55] Beruházási érték meghatározása
+## II.[^59] Beruházási érték meghatározása
 
 ## 1. A 2. § (1) bekezdés b) pontja szerinti versenyképesség-növelő támogatás esetében a beszerzett eszközök értékének a beruházás befejezéséig el kell érnie az 1,6 millió eurónak megfelelő forintösszeget.
 
@@ -64,7 +64,7 @@
 
 ## 26. cégközi profit,
 
-## 27.[^56] energiatermeléshez kapcsolódó eszközök, a IX. pontban meghatározott kivételekkel,
+## 27.[^60] energiatermeléshez kapcsolódó eszközök, a IX. pontban meghatározott kivételekkel,
 
 ## 28. létesítmény felvásárlása, amennyiben arra nem piaci áron kerül sor,
 
@@ -124,7 +124,7 @@
 
 ## b) Ha a pályázó ÁFA-adóalany, vagy még nem ÁFA-adóalany, de a beruházással, illetve a beruházás hasznosításával azzá válik, és az ÁFA levonására egészben vagy részben jogosult, a támogatás alapja a beruházás ÁFA nélkül számított nettó összköltsége.
 
-## XI.[^57] Használt eszközök
+## XI.[^61] Használt eszközök
 
 ## 1. A 2. § (1) bekezdés b) pontja szerinti versenyképesség-növelő támogatás esetében
 
@@ -134,7 +134,7 @@
 
 ## 2. A 2. § (1) bekezdés c) pontja szerinti versenyképesség-növelő támogatás esetében a pályázó csak új eszközt számolhat el. Használt eszköz csak abban az esetben számolható el, amennyiben a használt eszköz egy bezárt létesítmény eszköze, és az eladója a pályázótól független harmadik fél (létesítményfelvásárlás).
 
-## XII.[^58] Ingatlanok
+## XII.[^62] Ingatlanok
 
 ## 1. A 2. § (1) bekezdés b) pontja szerinti versenyképesség-növelő támogatás esetében
 
@@ -152,113 +152,113 @@
 
 ## d) az ingatlanra aktivált, támogatott eszközöket folyamatosan, a teljes fenntartási időszak során az ingatlanon kell működtetnie a pályázónak.
 
-3. melléklet a 7/2020. (IV. 16.) KKM rendelethez[^59]
+3. melléklet a 7/2020. (IV. 16.) KKM rendelethez[^63]
 
 A 2. § (1) bekezdés c) pontja szerinti versenyképesség-növelő támogatásban részesíthető tevékenységek
 
 |  | A | B |
 
-|  | TEÁOR’08 kód szerint | Versenyképesség-növelő támogatásban részesíthető tevékenységek |
+| 1 | TEÁOR’25 kód | Versenyképesség-növelő támogatásban részesíthető tevékenységek |
 
-| 1. | 104 | Növényi, állati olaj gyártása |
+| 2 | 10.4 | Növényi, állati olaj gyártása |
 
-| 2. | 106 | Malomipari termék, keményítő gyártása |
+| 3 | 10.6 | Malomipari termék, keményítő gyártása |
 
-| 3. | 108 | Egyéb élelmiszer gyártása |
+| 4 | 10.8 | Egyéb élelmiszer gyártása |
 
-| 4. | 109 | Takarmány gyártása |
+| 5 | 10.9 | Takarmány gyártása |
 
-| 5. | 110 | Italgyártás |
+| 6 | 11.0 | Italgyártás |
 
-| 6. | 171 | Papíripari rostanyag, papír gyártása |
+| 7 | 17.1 | Papíripari rostanyag, papír gyártása |
 
-| 7. | 172 | Papírtermék gyártása |
+| 8 | 17.2 | Papírtermék gyártása |
 
-| 8. | 201 | Vegyi alapanyag gyártása |
+| 9 | 20.1 | Vegyi alapanyag gyártása |
 
-| 9. | 202 | Mezőgazdasági vegyi termék gyártása |
+| 10 | 20.2 | Mezőgazdasági vegyi termék gyártása |
 
-| 10. | 203 | Festék, bevonóanyag gyártása |
+| 11 | 20.3 | Festék, bevonóanyag gyártása |
 
-| 11. | 204 | Tisztítószer, testápolási cikk gyártása |
+| 12 | 20.4 | Tisztítószer, testápolási cikk gyártása |
 
-| 12. | 205 | Egyéb vegyi termék gyártása |
+| 13 | 20.5 | Egyéb vegyi termék gyártása |
 
-| 13. | 211 | Gyógyszeralapanyag-gyártás |
+| 14 | 21.1 | Gyógyszeralapanyag-gyártás |
 
-| 14. | 212 | Gyógyszerkészítmény gyártása |
+| 15 | 21.2 | Gyógyszerkészítmény gyártása |
 
-| 15. | 221 | Gumitermék gyártása |
+| 16 | 22.1 | Gumitermék gyártása |
 
-| 16. | 222 | Műanyag termék gyártása |
+| 17 | 22.2 | Műanyag termék gyártása |
 
-| 17. | 231 | Üveg, üvegtermék gyártása |
+| 18 | 23.1 | Üveg, üvegtermék gyártása |
 
-| 18. | 232 | Tűzálló termék gyártása |
+| 19 | 23.2 | Tűzálló termék gyártása |
 
-| 19. | 233 | Kerámia, agyag építőanyag gyártása |
+| 20 | 23.3 | Kerámia, agyag építőanyag gyártása |
 
-| 20. | 235 | Cement-, mész-, gipszgyártás |
+| 21 | 23.5 | Cement-, mész-, gipszgyártás |
 
-| 21. | 236 | Beton-, gipsz-, cementtermék gyártása |
+| 22 | 23.6 | Beton-, gipsz-, cementtermék gyártása |
 
-| 22. | 239 | Egyéb csiszolótermék és nemfém ásványi termék gyártása m.n.s. |
+| 23 | 23.9 | M.n.s. egyéb csiszolótermék és nemfém ásványi termék gyártása |
 
-| 23. | 241 | Vas-, acél-, vasötvözet-alapanyag gyártása |
+| 24 | 24.1 | Vas, acél, vasötvözet alapanyag gyártása |
 
-| 24. | 242 | Acélcsőgyártás |
+| 25 | 24.2 | Acélcsőgyártás |
 
-| 25. | 244 | Nem vas fém alapanyag gyártása |
+| 26 | 24.4 | Nemvasfém alapanyag gyártása |
 
-| 26. | 245 | Fémöntés |
+| 27 | 24.5 | Fémöntés |
 
-| 27. | 257 | Evőeszköz, szerszám, általános fémáru gyártása |
+| 28 | 25.6 | Evőeszköz, szerszám, általános fémáru gyártása |
 
-| 28. | 259 | Egyéb fémfeldolgozási termék gyártása |
+| 29 | 25.9 | Egyéb fémfeldolgozási termék gyártása |
 
-| 29. | 261 | Elektronikai alkatrész, áramköri kártya gyártása |
+| 30 | 26.1 | Elektronikai alkatrész, áramköri kártya gyártása |
 
-| 30. | 262 | Számítógép, perifériás egység gyártása |
+| 31 | 26.2 | Számítógép, perifériás egység gyártása |
 
-| 31. | 263 | Híradás-technikai berendezés gyártása |
+| 32 | 26.3 | Híradástechnikai berendezés gyártása |
 
-| 32. | 265 | Műszer-, óragyártás |
+| 33 | 26.5 | Műszer-, óragyártás |
 
-| 33. | 266 | Elektronikus orvosi berendezés gyártása |
+| 34 | 26.6 | Elektronikus orvosi berendezés gyártása |
 
-| 34. | 272 | Akkumulátor, szárazelem gyártása |
+| 35 | 27.2 | Akkumulátor, szárazelem gyártása |
 
-| 35. | 273 | Vezeték, kábel, szerelvény gyártása |
+| 36 | 27.3 | Vezeték, kábel, szerelvény gyártása |
 
-| 36. | 281 | Általános rendeltetésű gép gyártása |
+| 37 | 28.1 | Általános rendeltetésű gép gyártása |
 
-| 37. | 282 | Egyéb általános rendeltetésű gép gyártása |
+| 38 | 28.2 | Egyéb általános rendeltetésű gép gyártása |
 
-| 38. | 284 | Szerszámgépgyártás |
+| 39 | 28.4 | Szerszámgépgyártás |
 
-| 39. | 289 | Egyéb speciális rendeltetésű gép gyártása |
+| 40 | 28.9 | Egyéb speciális rendeltetésű gép gyártása |
 
-| 40. | 291 | Közúti gépjármű gyártása |
+| 41 | 29.1 | Közúti gépjármű gyártása |
 
-| 41. | 292 | Gépjármű-karosszéria, pótkocsi gyártása |
+| 42 | 29.2 | Gépjármű-karosszéria, pótkocsi gyártása |
 
-| 42. | 293 | Közúti jármű alkatrészeinek gyártása |
+| 43 | 29.3 | Gépjárműalkatrész és -tartozék gyártása |
 
-| 43. | 302 | Vasúti, kötöttpályás jármű gyártása |
+| 44 | 30.2 | Vasúti, kötöttpályás jármű gyártása |
 
-| 44. | 303 | Légi, űrjármű gyártása |
+| 45 | 30.3 | Légi, űrjármű gyártása |
 
-| 45. | 323 | Sportszergyártás |
+| 46 | 32.3 | Sportszergyártás |
 
-| 46. | 324 | Játékgyártás |
+| 47 | 32.4 | Játékgyártás |
 
-| 47. | 325 | Orvosi eszköz gyártása |
+| 48 | 32.5 | Orvosi eszköz gyártása |
 
-| 48. | 331 | Ipari gép, berendezés, eszköz javítása |
+| 49 | 33.1 | Ipari gép, berendezés, eszköz javítása, karbantartása |
 
-[^54]: A 2. melléklet címe a 11/2021. (V. 9.) KKM rendelet 11. §-ával megállapított szöveg.
-[^55]: A 2. melléklet II. pontja a 11/2021. (V. 9.) KKM rendelet 12. §-ával megállapított szöveg.
-[^56]: A 2. melléklet IV. pont 27. alpontja a 11/2021. (V. 9.) KKM rendelet 13. §-ával megállapított szöveg.
-[^57]: A 2. melléklet XI. pontja a 11/2021. (V. 9.) KKM rendelet 14. §-ával megállapított szöveg.
-[^58]: A 2. melléklet XII. pontja a 11/2021. (V. 9.) KKM rendelet 14. §-ával megállapított szöveg.
-[^59]: A 3. mellékletet a 11/2021. (V. 9.) KKM rendelet 15. §-a iktatta be.
+[^58]: A 2. melléklet címe a 11/2021. (V. 9.) KKM rendelet 11. §-ával megállapított szöveg.
+[^59]: A 2. melléklet II. pontja a 11/2021. (V. 9.) KKM rendelet 12. §-ával megállapított szöveg.
+[^60]: A 2. melléklet IV. pont 27. alpontja a 11/2021. (V. 9.) KKM rendelet 13. §-ával megállapított szöveg.
+[^61]: A 2. melléklet XI. pontja a 11/2021. (V. 9.) KKM rendelet 14. §-ával megállapított szöveg.
+[^62]: A 2. melléklet XII. pontja a 11/2021. (V. 9.) KKM rendelet 14. §-ával megállapított szöveg.
+[^63]: A 3. mellékletet a 11/2021. (V. 9.) KKM rendelet 15. §-a iktatta be, szövege a 16/2024. (XII. 4.) KKM rendelet 1. §-ával megállapított szöveg.

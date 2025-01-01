@@ -6,7 +6,7 @@ a) a tevékenységei között elsődleges mezőgazdasági termelési tevékenys�
 
 b) a tevékenységei között az 1379/2013/EU rendelet hatálya alá tartozó halászati és akvakultúra-ágazati tevékenység szerepel;
 
-c) a beruházása a 8. § (1) bekezdésében felsorolt tevékenységhez kapcsolódik a kérelemben feltüntetett TEÁOR kód alapján.
+c)[^42] a beruházása a 8. § (1) bekezdésében felsorolt tevékenységhez kapcsolódik a kérelemben feltüntetett TEÁOR’25 kód alapján.
 
 (2) E rendelet alapján nem nyújtható versenyképesség-növelő támogatás
 
@@ -19,3 +19,5 @@ c) olyan pályázónak vagy olyan vállalkozás kapcsolt vállalkozásának, ame
 (3) A mezőgazdasági termékek feldolgozásában és forgalmazásában tevékeny vállalkozások számára akkor nyújtható versenyképesség-növelő támogatás, ha a támogatás mértéke nem függ a támogatás mezőgazdasági termék elsődleges termelője részére történő teljes vagy részleges átadásától, és a támogatás mértékét nem az elsődleges termelőktől beszerzett vagy az érintett vállalkozások által forgalomba hozott termékek ára vagy mennyisége alapján határozzák meg.
 
 (4) A támogatás során beszerzett, 2. melléklet szerinti eszközökhöz más, vissza nem térítendő készpénz-támogatás nem nyújtható.
+
+[^42]: A 12/K. § (1) bekezdés c) pontja a 16/2024. (XII. 4.) KKM rendelet 2. §-a szerint módosított szöveg.

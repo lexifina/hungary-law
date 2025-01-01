@@ -16,7 +16,7 @@ e) a kár és az igényelt támogatás mértékét;
 
 f) a biztosító által, a peres eljárásból, a választottbírósági döntésből vagy bármely más forrásból származó, ugyanazon kárra vonatkozóan fizetett térítés összegét;
 
-g) a beruházás ismertetését (így különösen annak helyszínét, a beruházás méretét, kezdetének és befejezésének várható időpontját, TEÁOR kódját, gyártási termék vámtarifa számát) és szöveges bemutatását, valamint a tervezett beruházási költségeket költségnemenként;
+g)[^40] a beruházás ismertetését (így különösen annak helyszínét, a beruházás méretét, kezdetének és befejezésének várható időpontját, TEÁOR’25 kódját, gyártási termék vámtarifa számát) és szöveges bemutatását, valamint a tervezett beruházási költségeket költségnemenként;
 
 h) a bázislétszámot és
 
@@ -59,3 +59,5 @@ a) utólag, forintban, a támogatási szerződésben meghatározott ütemezés a
 b) előlegként, forintban történik, amennyiben a pályázó garanciát is benyújt a (8) bekezdésnek megfelelően.
 
 (10) A támogatási szerződésben kell rendelkezni a pályázó rendeltetésszerű támogatásfelhasználásról szóló beszámolási és bejelentési kötelezettségeiről, valamint a beszámolók benyújtásának határidőiről.
+
+[^40]: A 12/F. § (2) bekezdés g) pontja a 16/2024. (XII. 4.) KKM rendelet 2. §-a szerint módosított szöveg.
