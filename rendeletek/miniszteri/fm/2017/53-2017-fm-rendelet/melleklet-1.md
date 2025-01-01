@@ -1,6 +1,6 @@
-## 14. §[^10]
+## 14. §[^11]
 
-1. melléklet az 53/2017. (X. 18.) FM rendelethez[^11]
+1. melléklet az 53/2017. (X. 18.) FM rendelethez[^12]
 
 ## Az 1 MWth-nál kisebb névleges bemenő hőteljesítményű I. kategóriájú tüzelőberendezésekre vonatkozó kibocsátási határértékek
 
@@ -66,5 +66,5 @@
 
 3.4. A TOC-kibocsátási határérték az 5%-nál nagyobb etántartalmú földgázt használó gázmotorok esetében 95 mg/m3.
 
-[^10]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^11]: Az 1. melléklet az 51/2019. (X. 28.) AM rendelet 4. § (1) bekezdése szerint módosított szöveg.
+[^11]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: Az 1. melléklet az 51/2019. (X. 28.) AM rendelet 4. § (1) bekezdése szerint módosított szöveg.

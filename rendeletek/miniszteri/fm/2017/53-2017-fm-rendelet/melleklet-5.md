@@ -1,4 +1,4 @@
-5. melléklet az 53/2017. (X. 18.) FM rendelethez[^15]
+5. melléklet az 53/2017. (X. 18.) FM rendelethez[^16]
 
 ## Az 1 MWth és annál nagyobb teljes névleges bemenő hőteljesítményű II. kategóriájú tüzelőberendezésekre vonatkozó kibocsátási határértékek
 
@@ -94,4 +94,4 @@ d) 380 mg/Nm3 a gáz üzemmódban működő kettős üzemű motorok esetében.
 
 3.9. A TOC-kibocsátási határérték az 5%-nál nagyobb etántartalmú földgázt használó gázmotorok esetében 95 mg/m3.
 
-[^15]: Az 5. melléklet az 51/2019. (X. 28.) AM rendelet 4. § (5) bekezdése szerint módosított szöveg.
+[^16]: Az 5. melléklet az 51/2019. (X. 28.) AM rendelet 4. § (5) bekezdése szerint módosított szöveg.
