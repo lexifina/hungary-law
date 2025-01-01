@@ -1,7 +1,5 @@
-1. melléklet a 67/2016. (XII. 29.) NFM rendelethez[^57]
+1. melléklet a 67/2016. (XII. 29.) NFM rendelethez[^52]
 
-Az 1. § szerinti földgázforrás ára és mennyisége 2024. negyedik negyedévre, valamint a felek köre
+Az 1. § szerinti földgázforrás ára és mennyisége 2025. első negyedévre, valamint a felek köre
 
-Az MVM CEEnergy Zrt. mint egyetemes szolgáltatót ellátó földgázkereskedő által értékesítendő földgázforrás legmagasabb hatósági ára és mennyisége:
-
-[^57]: Az 1. melléklet a 17/2024. (IX. 30.) EM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^52]: Az 1. melléklet a 44/2024. (XII. 31.) EM rendelet 3. § (1) bekezdésével megállapított szöveg.
