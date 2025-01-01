@@ -14,7 +14,7 @@ f) dönt a 20. § (1) és (2) bekezdése, és a 21. § (2), (3), (3a) és (3d), 
 
 g)
 
-h) az MNV Zrt.-vel vagy – a Vtv. 42/A. § (1) bekezdése szerinti kivezetésre szánt állami vagyon vonatkozásában – az MVH-val közösen dönt a 3. § (3) bekezdés a) és b) pontjában meghatározott ingatlanok hasznosításának módjáról az e törvény végrehajtására kiadott jogszabály szerint;
+h) az MNV Zrt.-vel közösen dönt a 3. § (3) bekezdés a) és b) pontjában meghatározott ingatlanok hasznosításának módjáról az e törvény végrehajtására kiadott jogszabály szerint;
 
 i) javaslatot tesz a földrészletek hasznosításával kapcsolatos egyéb kérdésekben.
 

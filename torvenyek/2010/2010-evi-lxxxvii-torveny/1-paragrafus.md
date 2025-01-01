@@ -30,6 +30,8 @@ f) művelés alól kivett területként nyilvántartott, az öntözéses gazdál
 
 (2g) Nem képezi a Nemzeti Földalap részét az egyes otthonteremtési állami feladatok karitatív szervezetek általi átvállalásáról szóló 2021. évi LXXXVI. törvény alapján ingyenesen az MR Közösségi Lakásalap Közhasznú Nonprofit Korlátolt Felelősségű Társaság tulajdonába kerülő ingatlan.
 
+(2h) Nem képezi a Nemzeti Földalap részét a kisajátításról szóló törvény alapján kijelölt tulajdonosi joggyakorló tulajdonosi joggyakorlása alá kerülő, a kisajátításról szóló törvény szerinti fejlesztési befektetési területen fekvő ingatlan.
+
 (3) A Nemzeti Földalap rendeltetése:
 
 a) működőképes őstermelők családi gazdaságainak kialakításának elősegítése, a szakirányú végzettséggel rendelkező agrárvállalkozók földhözjutásának támogatása;

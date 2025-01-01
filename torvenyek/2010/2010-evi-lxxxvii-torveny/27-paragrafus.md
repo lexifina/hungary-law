@@ -1,1 +1,1 @@
-### 27. §
+27. § A Nemzeti Földalapba tartozó földrészlet elbirtoklására irányuló pert az NFK-val mint a tulajdonosi jogok gyakorlójával szemben kell megindítani akkor is, ha a földrészlet vagyonkezelésbe került.

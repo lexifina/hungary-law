@@ -36,6 +36,6 @@ b) nem haladja meg a 10 hektárt.
 
 (6) Az állam 100%-os tulajdonában álló erdőt, továbbá erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületet – az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény (a továbbiakban: Evt.) 8. § (4) és (5) bekezdése szerinti birtok-összevonási célú földcsere vagy csere, illetve átruházás esetének kivételével – csak vagyonkezelés formájában, a 20. § (2) bekezdésében meghatározottak számára lehet hasznosításra átengedni.
 
-(7) E § szerinti eladás, csere, haszonbérbe adás, vagy vagyonkezelésbe adás esetén a szerződéskötést követő 3 nappal nyilvánosságra kell hozni a megkötött szerződésnek a 30. § (1) bekezdésében meghatározott adatait.
+(7) A Nemzeti Földalapba tartozó védett természeti terület, Natura 2000 terület vagy a nemzetközi jelentőségű vadvizekről, különösen mint a vízimadarak tartózkodási helyéről szóló, Ramsarban, 1971. február 2-án elfogadott Egyezmény hatálya alá tartozó terület használati jogosultságára vagyonkezelés jogcímen a védett területek természetvédelmi kezeléséért felelős költségvetési szerv jogosult, ha a földrészlet használati jogosultságának átengedéséről szóló szerződés megszüntetésével kapcsolatban per van folyamatban, annak befejezéséig. A perben vagy a perindítást megelőzően ezzel ellentétes tartalmú ideiglenes intézkedés nem hozható.
 
-(8)
+(8) A (7) bekezdésben foglaltakat kell alkalmazni abban az esetben is, ha a perrel érintett szerződés több földrészletet – ideértve a művelés alól kivett területet is – érint, és a földrészletek területének többsége a (7) bekezdésben felsorolt védettséggel érintett.

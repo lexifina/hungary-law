@@ -12,10 +12,4 @@
 
 (6a) Ha a (6) bekezdés szerinti felszámolási eljárás során a 3. § (3) bekezdésében meghatározott ingatlan kerül állami tulajdonba, az ingatlannak csak az 1. § (1) bekezdésben foglalt területe kerül a Nemzeti Földalapba, és az NFK az erre a területre eső összeget fizeti meg a társadalombiztosítás pénzügyi alapjai részére a (6) bekezdésben foglaltak szerint.
 
-(7) Ha e törvény hatálya alá tartozó földrészlet felett az állam
-
-a) mint törvényes örökös szerez tulajdonjogot, akkor az MVH,
-
-b) végintézkedés alapján szerez tulajdonjogot, akkor az MNV Zrt.
-
-a hagyatékátadó végzés (öröklési bizonyítvány) jogerőre emelkedését követő 30 napon belül egyoldalú nyilatkozatával átadja a földrészletet az NFK-nak. A számviteli nyilvántartásba vételt az egyoldalú nyilatkozat szolgálja, külön megállapodás, jegyzőkönyv felvétele nélkül. E bekezdés szerinti, tulajdonosi joggyakorló személyében történő változás ingatlan-nyilvántartásban történő átvezetéséhez az átvevő tulajdonosi joggyakorló e bekezdésre való hivatkozását tartalmazó egyoldalú nyilatkozata és az átadó tulajdonosi joggyakorlónak a tulajdonosi joggyakorlás átadásával érintett vagyonelemeket tartalmazó, e bekezdés szerinti egyoldalú nyilatkozata képezi a bejegyzés alapjául szolgáló okiratot.
+(7) Ha az e törvény hatálya alá tartozó földrészlet felett az állam mint örökös tulajdonjogot szerez, az MNV Zrt. a hagyatékátadó végzés (öröklési bizonyítvány) jogerőre emelkedését követő 30 napon belül egyoldalú nyilatkozatával átadja a földrészletet az NFK-nak. A számviteli nyilvántartásba vétel alapja – külön megállapodás, jegyzőkönyv felvétele nélkül – az egyoldalú nyilatkozat. Az NFK tulajdonosi joggyakorlói minősége ingatlan-nyilvántartási bejegyzéséhez kizárólag az MNV Zrt. – település és helyrajzi szám megjelölést tartalmazó – e bekezdés szerinti egyoldalú nyilatkozata képezi a bejegyzés alapjául szolgáló okiratot.

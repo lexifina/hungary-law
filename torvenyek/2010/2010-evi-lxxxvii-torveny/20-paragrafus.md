@@ -6,7 +6,7 @@ b) többségi állami tulajdoni részesedéssel működő olyan gazdálkodó sze
 
 c) olyan gazdálkodó szervezettel, amely jogszabályban rögzített állami feladat ellátásához kívánja hasznosítani a földrészletet,
 
-d) olyan közérdekű vagyonkezelő alapítvánnyal, amelynek elsődleges feladata felsőoktatási intézmény alapítói, fenntartói jogainak gyakorlása, valamint működési feltételei, intézményfejlesztési céljai megvalósításának biztosítása.
+d) olyan közérdekű vagyonkezelő alapítvánnyal vagy annak 100%-os tulajdonában álló gazdasági társasággal, amelynek elsődleges feladata felsőoktatási intézmény alapítói, fenntartói jogainak gyakorlása, valamint működési feltételei, intézményfejlesztési céljai megvalósításának biztosítása.
 
 e) felsőoktatási intézménnyel az alapító okiratában vagy jogszabályban meghatározott, agrárágazathoz kapcsolódó oktatási vagy tudományos kutatási alapfeladatát szolgáló földrészletre.
 
