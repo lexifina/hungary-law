@@ -1,3 +1,3 @@
-56. §[^551]
+56. §[^553]
 
-[^551]: Az 56. §-t a 365/2010. (XII. 30.) Korm. rendelet 14. §-a iktatta be, hatályon kívül helyezte a 364/2014. (XII. 30.) Korm. rendelet 40. § f) pontja.
+[^553]: Az 56. §-t a 365/2010. (XII. 30.) Korm. rendelet 14. §-a iktatta be, hatályon kívül helyezte a 364/2014. (XII. 30.) Korm. rendelet 40. § f) pontja.
