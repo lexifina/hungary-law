@@ -33,7 +33,7 @@
 [^23]: A 4. § (5) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^24]: A 4. § (6) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^25]: A 4. § (7) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^26]: A 4. § (8) bekezdése a 7. § (2) bekezdés alapján 2025. január 1-jén lép hatályba.
+[^26]: A 4. § (8) bekezdése a 466/2024. (XII. 30.) Korm. rendelet 36. § b) pontja alapján nem lép hatályba.
 [^27]: A 4. § (9) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^28]: A 4. § (10) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^29]: A 4. § (11) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
