@@ -10,7 +10,7 @@ b) a digitális szolgáltatás nyújtásának tervezett kezdő időpontját.
 
 (3) A kérelemhez az önként vállaló jogalany az alábbi dokumentumokat köteles csatolni:
 
-a) a kiberbiztonsági tanúsításról és a kiberbiztonsági felügyeletről szóló törvényben foglalt kiberbiztonsági követelményeknek való megfelelést alátámasztó, valamint kiberbiztonsági audit lefolytatását igazoló dokumentumokat,
+a)[^4] Magyarország kiberbiztonságáról szóló törvényben foglalt kiberbiztonsági követelményeknek való megfelelést alátámasztó, valamint kiberbiztonsági audit lefolytatását igazoló dokumentumokat,
 
 b) digitális állampolgárság szolgáltató igazolását a Dáptv. 9. § (4) bekezdés b) pontja szerinti követelmények teljesítéséről,
 
@@ -32,8 +32,11 @@ b) köteles e szolgáltatásokhoz éles üzemben csatlakozni.
 
 (6) A vállaló szervezet az (5) bekezdés szerinti igénybe vett szolgáltatásokhoz éles üzemben történő csatlakozás tényét haladéktalanul bejelenti a Felügyelet részére.
 
-(7) A (3) bekezdés a) pontja szerinti dokumentumot a kiberbiztonsági tanúsításról és a kiberbiztonsági felügyeletről szóló törvény szerint kétévente elvégzendő kiberbiztonsági audit lefolytatását követően minden alkalommal be kell nyújtani a Felügyelet részére.
+(7)[^5] A (3) bekezdés a) pontja szerinti dokumentumot a Magyarország kiberbiztonságáról szóló törvény szerint kétévente elvégzendő kiberbiztonsági audit lefolytatását követően minden alkalommal be kell nyújtani a Felügyelet részére.
 
 (8) Ha a kérelem, illetve annak mellékleteiként benyújtott dokumentumok nem felelnek meg a jogszabályban meghatározott feltételeknek, a Felügyelet – a hiányosságok megjelölésével – a kérelmet elutasítja.
 
 (9) Ha a vállaló szervezet a digitális szolgáltatások nyújtását a továbbiakban nem vállalja, ennek tényét köteles legalább 90 nappal megelőzően bejelenteni a Felügyeletnek és azt az elektronikus tájékoztatás szabályai szerint közzétenni. A Felügyelet a vállaló szervezetet abban az esetben törli a nyilvántartásából, ha a digitális állampolgárság szolgáltató tájékoztatása alapján megtörtént a keretszolgáltatások és támogató szolgáltatások igénybevételének megszüntetése.
+
+[^4]: A 144. § (3) bekezdés a) pontja a 418/2024. (XII. 23.) Korm. rendelet 153. § a) pontja szerint módosított szöveg.
+[^5]: A 144. § (7) bekezdése a 418/2024. (XII. 23.) Korm. rendelet 153. § b) pontja szerint módosított szöveg.
