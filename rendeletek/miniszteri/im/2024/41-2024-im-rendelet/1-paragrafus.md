@@ -1,1 +1,3 @@
-1. § A bírósági peres és nemperes eljárásokra adott általános meghatalmazások közhiteles nyilvántartásának részletes szabályairól szóló 17/2017. (XII. 15.) IM rendelet 14. § (2) bekezdésében az „az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól” szövegrész helyébe az „a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
