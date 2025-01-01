@@ -1,3 +1,9 @@
-9. §[^9]
+9. § A területfejlesztésért felelős miniszter a Területfejlesztési Szolgálat feladatellátása kapcsán
 
-[^9]: A 9. § a 11. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+a) rendszeresen tájékoztatja az érintett minisztereket a Területfejlesztési Szolgálat fejlesztéspolitikai tapasztalatairól,
+
+b) szakmai-módszertani támogatást nyújt a területfejlesztési szolgálat feladatai vonatkozásában,
+
+c) szakpolitikai egyeztetési lehetőséget biztosít a Területfejlesztési Szolgálat kijelölt képviselői számára,
+
+d) jóváhagyja a területfejlesztési szolgálat egységes arculatát és annak alkalmazási gyakorlatát.

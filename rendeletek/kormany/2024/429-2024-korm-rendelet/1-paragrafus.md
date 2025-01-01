@@ -1,5 +1,3 @@
 ## 1. Általános rendelkezések
 
-1. §[^1]
-
-[^1]: Az 1. § a 11. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+1. § A területfejlesztés stratégiai tervezésének és programozásának támogatására, a területfejlesztési programok hatékony végrehajtására, valamint a térségi szereplőkkel való folyamatos kapcsolattartás biztosítására a területfejlesztésért felelős miniszter Területfejlesztési Szolgálatot működtet.

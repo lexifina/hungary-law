@@ -1,5 +1,13 @@
 ## 4. A területfejlesztésért felelős miniszter feladatai
 
-8. §[^8]
+8. § A területfejlesztésért felelős miniszter a Területfejlesztési Szolgálat feletti szakmai felügyeleti jogkörében
 
-[^8]: A 8. § a 11. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+a) jóváhagyja a Területfejlesztési Szolgálat feladatait ellátó gazdasági társaság feladatellátással kapcsolatos stratégiai döntéseit,
+
+b) beszámolót, jelentést, tájékoztatót kér a Területfejlesztési Szolgálat működésével kapcsolatban,
+
+c) intézkedést kezdeményez a Kormány döntéseinek végrehajtása érdekében,
+
+d) jóváhagyja a térségi szolgálatok kialakítását, és
+
+e) meghatározza a Területfejlesztési Szolgálat vezetője és – szükség szerint – a munkatársak szakmai alkalmazhatóságának feltételeit.

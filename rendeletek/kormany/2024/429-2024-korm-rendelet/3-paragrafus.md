@@ -1,3 +1,1 @@
-3. §[^3]
-
-[^3]: A 3. § a 11. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+3. § A Területfejlesztési Szolgálat feladatait a Kormány területpolitikai célkitűzéseihez igazítva, a területi közigazgatás, valamint a helyi és területi önkormányzatokkal együttműködésben látja el.

@@ -1,3 +1,3 @@
-5. §[^5]
+5. § (1) A központi szolgálat ellátja a szakpolitikai és ágazati koordinációs feladatokat, és koordinálja a területi feladatok ellátását, a térségi szolgálat működését.
 
-[^5]: Az 5. § a 11. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+(2) A térségi szolgálat látja el a Területfejlesztési Szolgálat területi feladatait, kapcsolatot tart a területfejlesztésről szóló 2023. évi CII. törvény (a továbbiakban: Tftv.) 5. § 19. pontja szerinti területi szereplőkkel, és a központi szolgálat irányában biztosítja mind a területi szereplők által jelzett, a területfejlesztési tervek és programok megvalósulását érintő vélemények, észrevételek és javaslatok eljutását, mind a tervek és programok megvalósulását befolyásoló térségi folyamatok alakulásáról szóló információkat.
