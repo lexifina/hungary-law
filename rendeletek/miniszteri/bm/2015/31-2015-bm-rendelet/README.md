@@ -26,3 +26,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-31-20-0
 | 2023-02-01 | 2015-31-20-0A.18 | 2/2023. (I. 30.) BM rendelet |
 | 2023-07-01 | 2015-31-20-0A.19 | 24/2023. (VI. 30.) BM rendelet |
 | 2024-12-31 | 2015-31-20-0A.20 | 62/2024. (XII. 30.) BM rendelet |
+| 2025-01-01 | 2015-31-20-0A.21 | 62/2024. (XII. 30.) BM rendelet |

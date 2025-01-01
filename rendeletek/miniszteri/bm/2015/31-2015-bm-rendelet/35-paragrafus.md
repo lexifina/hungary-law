@@ -6,16 +6,19 @@
 
 (2) A megbízás várható időtartamát a megbízást elrendelő állományparancsban meg kell határozni.
 
-(3) Ha a megbízás előreláthatólag az egy hónapot meghaladja, akkor az elrendeléskor, de legkésőbb a megbízás harmincadik napján a helyettesítéssel megbízottat a beleegyezéséről írásban nyilatkoztatni kell.
+(3)[^45] A helyettesítéssel megbízottat legkésőbb a megbízás elrendelésekor írásban nyilatkoztatni kell a megbízásba való beleegyezéséről.
 
-(4) Ha a helyettesítéssel való megbízás az eredeti szolgálati beosztás meghagyása mellett történik és annak tartama a harminc napot várhatóan meg fogja haladni, a helyettesítési díj mértékét az elrendeléskor meg kell határozni és azt a hivatásos állomány helyettesítéssel megbízott tagjával írásban közölni kell.
+(4)[^46] Ha a helyettesítéssel való megbízás az eredeti szolgálati beosztás meghagyása mellett történik, a helyettesítési díj mértékét az elrendeléskor meg kell határozni és azt a hivatásos állomány helyettesítéssel megbízott tagjával írásban közölni kell.
 
 (5) Az ideiglenesen megüresedett vagy betöltetlen szolgálati beosztás munkaköri feladatainak ellátásával – megosztva – a hivatásos állomány több tagja is megbízható. Ebben az esetben a helyettesítési díjat a feladatmegosztás arányában meg kell osztani.
 
-(6) A helyettesítési díj mértékét a többletfeladat nagysága, a megbízással járó többletterhek, a helyettesített szolgálati beosztás besorolása alapján a Hszt. 71. § (4) és (5) bekezdésében foglaltak figyelembevételével kell meghatározni.
+(6)[^47] A helyettesítési díj mértékét a megbízással járó többletterhek, a helyettesített szolgálati beosztás besorolása alapján a Hszt. 71. § (4) és (5) bekezdésében foglaltak figyelembevételével kell meghatározni.
 
 (7) A Hszt. 71. § (1) bekezdés b) pontjának alkalmazásában a szolgálati beosztás ellátásában tartósan akadályozott személynek különösen azt kell tekinteni, aki előreláthatólag három hónapig vagy azt meghaladó ideig nem tudja a szolgálati feladatait ellátni.
 
 (8) A Hszt. 185. § (1) bekezdés g) pontjában foglalt fegyelmi fenyítés alkalmazásakor a hivatásos állomány tagjának eredeti szolgálati beosztása a fenyítés időtartama alatt csak a Hszt. 71. §-a szerinti megbízással, esetlegesen határozott idejű szolgálati viszony létesítésével látható el.
 
 [^44]: A 34. § a 37/2016. (IX. 1.) BM rendelet 18. § (3) bekezdése szerint módosított szöveg.
+[^45]: A 35. § (3) bekezdése a 62/2024. (XII. 30.) BM rendelet 36. §-ával megállapított szöveg.
+[^46]: A 35. § (4) bekezdése a 62/2024. (XII. 30.) BM rendelet 36. §-ával megállapított szöveg.
+[^47]: A 35. § (6) bekezdése a 62/2024. (XII. 30.) BM rendelet 39. §-a szerint módosított szöveg.
