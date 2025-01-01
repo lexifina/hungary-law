@@ -28,7 +28,7 @@ eb)
 
 ec) a jármű forgalomba helyezés előtti és időszakos vizsgálata során, továbbá a jármű-honosítási eljárásban megállapított, a 9. § (2) bekezdés a), b), d) és g) pontjában meghatározott adatairól,
 
-ed)
+ed) a bontási átvételi igazolás adatairól,
 
 f) a biztosító elektronikus úton a külön jogszabályban meghatározott kötelező gépjármű-felelősségbiztosítási kötvény adatairól;
 

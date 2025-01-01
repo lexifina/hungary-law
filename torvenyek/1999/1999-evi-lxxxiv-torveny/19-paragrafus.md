@@ -86,6 +86,14 @@ f) a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény 1. m
 
 g) a vizsgaközpont a pályaalkalmassági, képzési, utánképzési, vizsgáztatási és okmánykiállítási, valamint a vezetői engedély automatikus kiállításával összefüggő feladatainak ellátásához a 8. §-ban meghatározott adatokat ingyenesen;
 
+h) a kereskedelmi hatóság az utazásszervezői tevékenységgel összefüggő eljárások és az azokkal kapcsolatos ellenőrzési feladatok ellátásához a 9. § (1) bekezdésében foglalt adatokat,
+
+i) a szociális hatóság a pénzbeli és természetbeni ellátások megállapításához a 9. § (1) bekezdésében foglalt adatokat,
+
+j) a Családi Csődvédelmi Szolgálat a természetes személyek adósságrendezési eljárásához a 9. § (1)–(1b) bekezdésében foglalt adatokat,
+
+k) a környezet- és természetvédelmi hatóság a környezetkárosítást végzők beazonosítása érdekében a 9. § (1) bekezdésében foglalt adatokat,
+
 l) a nyilvántartó által megbízott megszemélyesítést végző szervezet a vezetői engedély, törzskönyv és hivatalból kiállításra kerülő forgalmi engedély megszemélyesítéséhez, kiállításához és jogszabályban meghatározott adatok kezeléséhez a nyilvántartásból az okmányra kerülő adatokat ingyenesen.
 
 m) a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény szerinti szolgáltató automatikus információátvétel útján a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 66. §-a szerinti ügyfél-átvilágítás céljából térítésmentesen a 8. § (1) bekezdés ac) és ad) pontjában megjelölt adatokat, valamint az engedély típusát és okmányazonosító jelét.
