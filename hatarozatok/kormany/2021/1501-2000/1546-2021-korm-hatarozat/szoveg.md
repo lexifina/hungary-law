@@ -8,11 +8,7 @@ A Kormány Somogy megye és a térség demográfiai mutatóinak javítása, vala
 
 4. a Beruházásnak az állami magasépítési beruházásokról szóló 299/2018. (XII. 27.) Korm. rendelet 4. § a)–p) pontja szerinti előkészítési fázisai 2022. október 31. napjáig történő teljesítése érdekében, a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére, a Beruházási Ügynökség által vállalható kötelezettség összegét összesen 562 000 000 forintban határozza meg;
 
-5. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva, a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény (a továbbiakban: Kvtv.1) 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 3. Gazdaság-újraindítási Alap – Kiemelt Kormányzati Magasépítési Beruházások cím, 1. Egyedi magasépítési beruházások alcímet az 53. A Marcali kastély és környezetének felújítását és funkcióváltását célzó beruházás előkészítése jogcímcsoporttal egészíti ki;
-
-Felelős: pénzügyminiszter
-
-Határidő: azonnal
+5.[^1]
 
 6. felhívja a pénzügyminisztert, hogy – a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter bevonásával – gondoskodjon a Beruházás előkészítésének megvalósítása érdekében 45 000 000 forint forrás biztosításáról az 5. pont szerinti előirányzat javára;
 
@@ -51,3 +47,5 @@ Felelős: emberi erőforrások minisztere belügyminiszter
 pénzügyminiszter
 
 Határidő: 2022. január 1.
+
+[^1]: Az 5. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
