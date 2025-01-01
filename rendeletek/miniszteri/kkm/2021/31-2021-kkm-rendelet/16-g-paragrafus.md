@@ -1,4 +1,4 @@
-16/G. §[^92] (1) A támogatási intenzitás nem haladhatja meg
+16/G. §[^93] (1) A támogatási intenzitás nem haladhatja meg
 
 a) ipari kutatás esetén az elszámolható költségek 50%-át,
 
@@ -32,4 +32,4 @@ cb) a projekt legalább két – nagyvállalkozás esetén három – tagállamb
 
 cc) a b) pont bc) vagy bd) alpontja szerinti feltétel teljesül, azzal, hogy a bc) alpont esetén az eredmények széles körű terjesztésének legalább három tagállamban vagy az EGT-megállapodásban szerződő fél területén kell megvalósulnia.
 
-[^92]: A 16/G. §-t a 8/2024. (IV. 17.) KKM rendelet 14. §-a iktatta be.
+[^93]: A 16/G. §-t a 8/2024. (IV. 17.) KKM rendelet 14. §-a iktatta be.

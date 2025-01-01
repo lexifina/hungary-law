@@ -1,4 +1,4 @@
-16/E. §[^90] (1) A támogatás bruttó támogatási egyenértéke nem haladhatja meg
+16/E. §[^91] (1) A támogatás bruttó támogatási egyenértéke nem haladhatja meg
 
 a) a 0,5 millió eurót,
 
@@ -8,4 +8,4 @@ c) az EUMSz 107. cikk (3) bekezdés a) pontjában meghatározott feltételeknek 
 
 (2) Innovatív kisvállalkozás esetén az (1) bekezdésben meghatározott legmagasabb összegek megkétszerezhetőek.
 
-[^90]: A 16/E. §-t a 8/2024. (IV. 17.) KKM rendelet 14. §-a iktatta be.
+[^91]: A 16/E. §-t a 8/2024. (IV. 17.) KKM rendelet 14. §-a iktatta be.

@@ -2,7 +2,7 @@
 
 ## 17. Átmeneti rendelkezések
 
-31. §[^126] (1) A 2. § (1) bekezdés g) pontja szerinti támogatásokról támogatási döntés 2024. június 30. napjáig hozható.
+31. §[^127] (1) A 2. § (1) bekezdés g) pontja szerinti támogatásokról támogatási döntés 2024. június 30. napjáig hozható.
 
 (2) E rendelet alapján
 
@@ -12,4 +12,4 @@ b) a 2. § (1) bekezdés f) pontja szerinti támogatás esetén 2031. június 30
 
 lehet támogatási döntést hozni.
 
-[^126]: A 31. § a 8/2024. (IV. 17.) KKM rendelet 19. §-ával megállapított szöveg.
+[^127]: A 31. § a 8/2024. (IV. 17.) KKM rendelet 19. §-ával megállapított szöveg.

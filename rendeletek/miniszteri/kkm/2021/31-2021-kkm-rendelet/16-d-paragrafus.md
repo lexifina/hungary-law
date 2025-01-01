@@ -1,4 +1,4 @@
-16/D. §[^89] (1) A 2. § (1) bekezdés d) pontjában foglalt támogatás (a 16/D–16/E. § alkalmazásában a továbbiakban: támogatás) támogatási program keretében azon tőzsdén nem jegyzett kisvállalkozás (ezen alcím alkalmazásában a továbbiakban: kedvezményezett) részére nyújtható, amely
+16/D. §[^90] (1) A 2. § (1) bekezdés d) pontjában foglalt támogatás (a 16/D–16/E. § alkalmazásában a továbbiakban: támogatás) támogatási program keretében azon tőzsdén nem jegyzett kisvállalkozás (ezen alcím alkalmazásában a továbbiakban: kedvezményezett) részére nyújtható, amely
 
 a) legfeljebb öt éve került bejegyzésre,
 
@@ -18,4 +18,4 @@ eb) az összefonódásban részt vevő legrégebbi vállalkozás bejegyzésétő
 
 (3) A 2. § (1) bekezdés d) pontjában foglalt támogatás pénzügyi közvetítőn keresztül nem nyújtható.
 
-[^89]: A 16/D. §-t a 8/2024. (IV. 17.) KKM rendelet 14. §-a iktatta be.
+[^90]: A 16/D. §-t a 8/2024. (IV. 17.) KKM rendelet 14. §-a iktatta be.

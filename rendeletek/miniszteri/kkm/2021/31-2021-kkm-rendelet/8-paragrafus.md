@@ -1,4 +1,4 @@
-8. § (1)[^58] E rendelet alapján nem nyújtható támogatás
+8. § (1)[^59] E rendelet alapján nem nyújtható támogatás
 
 a) a 2. § (1) bekezdés b)–g) pontjában meghatározott támogatás kivételével
 
@@ -46,11 +46,11 @@ n) a 2. § (1) bekezdés f) pontjában meghatározott támogatás kivételével 
 
 o) olyan feltétellel, amely az európai uniós jog megsértését eredményezi.
 
-(1a)[^59] Amennyiben a kedvezményezett az (1) bekezdés b)–e) pontjában kizárt ágazatok bármelyikében és ezektől eltérő egy vagy több ágazatban egyaránt végez tevékenységet, a 2. § (1) bekezdés f) pontjában meghatározott támogatás akkor nyújtható a kedvezményezett részére ez utóbbi egyéb tevékenységhez, ha a kedvezményezett megfelelő eszközökkel – úgymint a tevékenységek szétválasztásával vagy számviteli elkülönítéssel – biztosítja, hogy az (1) bekezdés b)–e) pontjában említett kizárt ágazatokban végzett tevékenységek ne részesüljenek a 2. § (1) bekezdés f) pontjában meghatározott támogatásban.
+(1a)[^60] Amennyiben a kedvezményezett az (1) bekezdés b)–e) pontjában kizárt ágazatok bármelyikében és ezektől eltérő egy vagy több ágazatban egyaránt végez tevékenységet, a 2. § (1) bekezdés f) pontjában meghatározott támogatás akkor nyújtható a kedvezményezett részére ez utóbbi egyéb tevékenységhez, ha a kedvezményezett megfelelő eszközökkel – úgymint a tevékenységek szétválasztásával vagy számviteli elkülönítéssel – biztosítja, hogy az (1) bekezdés b)–e) pontjában említett kizárt ágazatokban végzett tevékenységek ne részesüljenek a 2. § (1) bekezdés f) pontjában meghatározott támogatásban.
 
 (2) E rendelet alapján nem nyújtható támogatás
 
-a)[^60] nehéz helyzetben lévő vállalkozás részére;
+a)[^61] nehéz helyzetben lévő vállalkozás részére;
 
 b) azon vállalkozás részére, amely nem szerepel a köztartozásmentes adózói adatbázisban legkésőbb a támogatási szerződés megkötésének napján;
 
@@ -68,6 +68,6 @@ f) olyan vállalkozásnak vagy olyan vállalkozás kapcsolt vállalkozásának, 
 
 g) olyan beruházáshoz, amely bármely más vissza nem térítendő költségvetési támogatásban részesül, kivéve, ha az adott támogatás nyújtásának feltétele az e rendelet alapján nyújtott támogatás.
 
-[^58]: A 8. § (1) bekezdése a 8/2024. (IV. 17.) KKM rendelet 5. §-ával megállapított szöveg.
-[^59]: A 8. § (1a) bekezdését a 8/2024. (IV. 17.) KKM rendelet 5. §-a iktatta be.
-[^60]: A 8. § (2) bekezdés a) pontja a 8/2024. (IV. 17.) KKM rendelet 6. §-ával megállapított szöveg.
+[^59]: A 8. § (1) bekezdése a 8/2024. (IV. 17.) KKM rendelet 5. §-ával megállapított szöveg.
+[^60]: A 8. § (1a) bekezdését a 8/2024. (IV. 17.) KKM rendelet 5. §-a iktatta be.
+[^61]: A 8. § (2) bekezdés a) pontja a 8/2024. (IV. 17.) KKM rendelet 6. §-ával megállapított szöveg.

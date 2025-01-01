@@ -46,15 +46,15 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 9.[^20] elsődleges mezőgazdasági termelés: az Európai Unió működéséről szóló szerződés (a továbbiakban: EUMSz) I. mellékletében felsorolt növények vagy állati eredetű termékek előállítása, ide nem értve bármely, az azok lényegi tulajdonságát megváltoztató tevékenységet;
 
-10. élelmiszerfeldolgozás: a Tevékenységek egységes ágazati osztályozási rendszere (a továbbiakban: TEÁOR'08) 10 „Élelmiszergyártás” és 11 „Italgyártás” kód alá tartozó tevékenység, ideértve az ugyanezen TEÁOR'08 kód alá tartozó mezőgazdasági termék feldolgozásának minősülő tevékenységet;
+10.[^21] élelmiszerfeldolgozás: a Tevékenységek egységes ágazati osztályozási rendszere (a továbbiakban: TEÁOR’25) 10 „Élelmiszergyártás” és 11 „Italgyártás” kód alá tartozó tevékenység, ideértve az ugyanezen TEÁOR’25 kód alá tartozó mezőgazdasági termék feldolgozásának minősülő tevékenységet;
 
 11. forrásgazda: a KNTP forrását tartalmazó központi költségvetési fejezetet irányító szerv vezetője;
 
-11a.[^21] halászati és akvakultúra-termékek: a halászati és akvakultúra-termékek piacának közös szervezéséről, az 1184/2006/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint a 104/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 11-i 1379/2013/EU európai parlamenti és tanácsi rendelet 5. cikk a) és b) pontjában meghatározott termékek;
+11a.[^22] halászati és akvakultúra-termékek: a halászati és akvakultúra-termékek piacának közös szervezéséről, az 1184/2006/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint a 104/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 11-i 1379/2013/EU európai parlamenti és tanácsi rendelet 5. cikk a) és b) pontjában meghatározott termékek;
 
-11b.[^22] hőszivattyú: az általános csoportmentességi rendelet 2. cikk 108b. pontja szerinti hőszivattyú;
+11b.[^23] hőszivattyú: az általános csoportmentességi rendelet 2. cikk 108b. pontja szerinti hőszivattyú;
 
-12.[^23] induló beruházás: az a tárgyi eszközök vagy immateriális javak beszerzésére irányuló beruházás, amely új létesítmény létrehozatalát, meglévő létesítmény kapacitásának bővítését, létesítmény termékkínálatának, szolgáltatásainak a létesítményben addig nem gyártott termékekkel, nem kínált szolgáltatásokkal történő bővítését vagy egy meglévő létesítmény teljes termelési folyamatának, átfogó szolgáltatásainak alapvető megváltoztatását eredményezi, valamint a részesedésszerzés kivételével olyan létesítmény eszközeinek felvásárlása, amely létesítmény bezárásra került vagy felvásárlás nélkül bezárásra került volna;
+12.[^24] induló beruházás: az a tárgyi eszközök vagy immateriális javak beszerzésére irányuló beruházás, amely új létesítmény létrehozatalát, meglévő létesítmény kapacitásának bővítését, létesítmény termékkínálatának, szolgáltatásainak a létesítményben addig nem gyártott termékekkel, nem kínált szolgáltatásokkal történő bővítését vagy egy meglévő létesítmény teljes termelési folyamatának, átfogó szolgáltatásainak alapvető megváltoztatását eredményezi, valamint a részesedésszerzés kivételével olyan létesítmény eszközeinek felvásárlása, amely létesítmény bezárásra került vagy felvásárlás nélkül bezárásra került volna;
 
 13. induló vállalkozás: az általános csoportmentességi rendelet 22. cikk (2) bekezdésében meghatározott azon támogatható vállalkozás, amely
 
@@ -62,15 +62,15 @@ a) a beruházás megkezdését megelőző utolsó lezárt üzleti évben 3 milli
 
 b) a beruházás megkezdését megelőzően lezárt üzleti évvel nem rendelkezett;
 
-13a.[^24] ipari kutatás: a 651/2014/EU bizottsági rendelet 2. cikk 85. pontja szerinti tervezett kutatás vagy kritikus vizsgálat;
+13a.[^25] ipari kutatás: a 651/2014/EU bizottsági rendelet 2. cikk 85. pontja szerinti tervezett kutatás vagy kritikus vizsgálat;
 
-13b.[^25] kapcsolt energiatermelés vagy kapcsolt hő- és villamosenergia-termelés: az általános csoportmentességi rendelet 2. cikk 108. pontja szerinti energiatermelés;
+13b.[^26] kapcsolt energiatermelés vagy kapcsolt hő- és villamosenergia-termelés: az általános csoportmentességi rendelet 2. cikk 108. pontja szerinti energiatermelés;
 
 14. kereskedelmi tevékenység: bármely termék értékesítési célú birtoklása, megvételre való felkínálása, leszállítása vagy egyéb módon történő forgalmazása, ha az üzletszerűen és a kifejezetten erre a célra szolgáló, elkülönített helyiségben vagy kifejezetten erre a célra szolgáló elektronikus rendszeren keresztül történik;
 
 15. kis- és középvállalkozás: az általános csoportmentességi rendelet I. mellékletében meghatározott, a kis- és középvállalkozásokra vonatkozó feltételeknek megfelelő vállalkozás;
 
-16.[^26] kísérleti fejlesztés: az általános csoportmentességi rendelet 2. cikk 86. pontja szerinti fejlesztés;
+16.[^27] kísérleti fejlesztés: az általános csoportmentességi rendelet 2. cikk 86. pontja szerinti fejlesztés;
 
 17. kötelező üzemeltetési időszak: a beruházás befejezését követő legalább öt üzleti év, kis- és középvállalkozás esetében legalább három üzleti év, amely megegyezik a fenntartási időszakkal, de eltér az üzleti tevékenység fenntartása szerinti időszaktól;
 
@@ -80,41 +80,41 @@ b) a beruházás megkezdését megelőzően lezárt üzleti évvel nem rendelkez
 
 20. kutató-fejlesztő: a KFItv. 3. § 15. pontjában meghatározott kutató-fejlesztő;
 
-20a.[^27] kutató-tudásközvetítő szervezet: az általános csoportmentességi rendelet 2. cikk 83. pontja szerinti entitás;
+20a.[^28] kutató-tudásközvetítő szervezet: az általános csoportmentességi rendelet 2. cikk 83. pontja szerinti entitás;
 
 21. létesítmény: funkcionálisan megbonthatatlan egészet képező termelő vagy szolgáltató egység;
 
-22.[^28] létesítmény felvásárlása: létesítményhez közvetlenül kapcsolódó tárgyi eszközök és immateriális javak piaci feltételek mellett történő megvásárlása, ha a felvásárló beruházó a létesítmény eladójától független harmadik fél – ide nem értve, ha egy kis- és középvállalkozást az eredeti tulajdonos családtagjai vagy korábbi munkavállalói vásárolják meg –;
+22.[^29] létesítmény felvásárlása: létesítményhez közvetlenül kapcsolódó tárgyi eszközök és immateriális javak piaci feltételek mellett történő megvásárlása, ha a felvásárló beruházó a létesítmény eladójától független harmadik fél – ide nem értve, ha egy kis- és középvállalkozást az eredeti tulajdonos családtagjai vagy korábbi munkavállalói vásárolják meg –;
 
-22a.[^29] lignit: a 651/2014/EU bizottsági rendelet 2. cikk 43a. pontja szerinti anyag;
+22a.[^30] lignit: a 651/2014/EU bizottsági rendelet 2. cikk 43a. pontja szerinti anyag;
 
-23.[^30] megújuló energia vagy megújuló energiaforrásból előállított energia: az általános csoportmentességi rendelet 2. cikk 109. pontja szerinti energia;
+23.[^31] megújuló energia vagy megújuló energiaforrásból előállított energia: az általános csoportmentességi rendelet 2. cikk 109. pontja szerinti energia;
 
-23a.[^31] megújuló energiaforrásokon alapuló kapcsolt energiatermelés: az általános csoportmentességi rendelet 2. cikk 108a. pontja szerinti kapcsolt energiatermelés;
+23a.[^32] megújuló energiaforrásokon alapuló kapcsolt energiatermelés: az általános csoportmentességi rendelet 2. cikk 108a. pontja szerinti kapcsolt energiatermelés;
 
-23b.[^32] megújuló hidrogén: az általános csoportmentességi rendelet 2. cikk 102c. pontja szerinti hidrogén;
+23b.[^33] megújuló hidrogén: az általános csoportmentességi rendelet 2. cikk 102c. pontja szerinti hidrogén;
 
-24.[^33] mezőgazdasági termék: az általános csoportmentességi rendelet 2. cikk 11. pontja szerinti termék;
+24.[^34] mezőgazdasági termék: az általános csoportmentességi rendelet 2. cikk 11. pontja szerinti termék;
 
-25.[^34] mezőgazdasági termék feldolgozása: az általános csoportmentességi rendelet 2. cikk 10. pontja szerinti tevékenység;
+25.[^35] mezőgazdasági termék feldolgozása: az általános csoportmentességi rendelet 2. cikk 10. pontja szerinti tevékenység;
 
 26. működési támogatás: valamely vállalkozás induló beruházástól független, működéshez kapcsolódó folyó kiadásaihoz nyújtott támogatás;
 
-26a.[^35] nagyberuházás: az az induló beruházás vagy új gazdasági tevékenység végzésére irányuló induló beruházás, amelyhez kapcsolódóan az elszámolható költségek összege az összeszámítási szabályt figyelembe véve jelenértéken meghaladja az 50 millió eurónak megfelelő forintösszeget;
+26a.[^36] nagyberuházás: az az induló beruházás vagy új gazdasági tevékenység végzésére irányuló induló beruházás, amelyhez kapcsolódóan az elszámolható költségek összege az összeszámítási szabályt figyelembe véve jelenértéken meghaladja az 50 millió eurónak megfelelő forintösszeget;
 
-27.[^36] nagyvállalkozás: az általános csoportmentességi rendelet 2. cikk 24. pontja szerinti vállalkozás;
+27.[^37] nagyvállalkozás: az általános csoportmentességi rendelet 2. cikk 24. pontja szerinti vállalkozás;
 
-27a.[^37] nagy hatásfokú kapcsolt energiatermelés: a 651/2014/EU bizottsági rendelet 2. cikk 107. pontja szerinti energiatermelés;
+27a.[^38] nagy hatásfokú kapcsolt energiatermelés: a 651/2014/EU bizottsági rendelet 2. cikk 107. pontja szerinti energiatermelés;
 
-28.[^38] nehéz helyzetben lévő vállalkozás: az Atr. 6. §-ában meghatározott vállalkozás;
+28.[^39] nehéz helyzetben lévő vállalkozás: az Atr. 6. §-ában meghatározott vállalkozás;
 
 29. nemzetgazdasági hatás: a beruházásnak a beruházó magyar vállalkozás értékén keresztül a magyar gazdaságra gyakorolt, a cégcsoport külgazdasági mérleget javító, új piacokra lépését elősegítő vagy az adott piacon a magyar jelenlét erősödését eredményező hatása;
 
-29a.[^39] NUTS 3 régió: a statisztikai célú területi egységek nómenklatúrájának (NUTS) létrehozásáról szóló, 2003. május 26-i 1059/2003/EK rendelet által meghatározott, 3. NUTS-szintű területi egység;
+29a.[^40] NUTS 3 régió: a statisztikai célú területi egységek nómenklatúrájának (NUTS) létrehozásáról szóló, 2003. május 26-i 1059/2003/EK rendelet által meghatározott, 3. NUTS-szintű területi egység;
 
-29b.[^40] összeszámítási szabály: a nagyberuházás elszámolható költségei kiszámításakor egyetlen beruházásnak kell tekinteni a kérelemben szereplő beruházást és a kérelmet benyújtó beruházó, valamint a kérelmet benyújtó beruházóval egy vállalatcsoportba tartozó beruházó által a kérelemben szereplő beruházás megkezdésétől számított háromszor háromszázhatvanöt napos időszakon belül a kérelemben szereplő beruházással azonos NUTS 3 régióban megkezdett, ugyanazon vagy hasonló tevékenységhez kapcsolódó, regionális beruházási támogatásban részesülő beruházást;
+29b.[^41] összeszámítási szabály: a nagyberuházás elszámolható költségei kiszámításakor egyetlen beruházásnak kell tekinteni a kérelemben szereplő beruházást és a kérelmet benyújtó beruházó, valamint a kérelmet benyújtó beruházóval egy vállalatcsoportba tartozó beruházó által a kérelemben szereplő beruházás megkezdésétől számított háromszor háromszázhatvanöt napos időszakon belül a kérelemben szereplő beruházással azonos NUTS 3 régióban megkezdett, ugyanazon vagy hasonló tevékenységhez kapcsolódó, regionális beruházási támogatásban részesülő beruházást;
 
-29c.[^41] projekt (beruházás) megkezdése:
+29c.[^42] projekt (beruházás) megkezdése:
 
 a) építési munka esetén az építési naplóba történő első bejegyzés vagy az építésre vonatkozó első visszavonhatatlan kötelezettségvállalás időpontja;
 
@@ -130,7 +130,7 @@ c) létesítmény felvásárlása esetén a felvásárlás időpontja;
 
 d) az a)–c) alpont közül több alpont együttes megvalósulása esetén a legkorábbi időpont, azzal, hogy nem tekinthető a projekt (beruházás) megkezdésének a földterület megvásárlása, ha az nem képezi a projekt (beruházás) elszámolható költségét, valamint az előkészítő munka költségének felmerülése;
 
-29d.[^42] primerenergia: az általános csoportmentességi rendelet 2. cikk 103a. pontja szerinti energia;
+29d.[^43] primerenergia: az általános csoportmentességi rendelet 2. cikk 103a. pontja szerinti energia;
 
 30. saját forrás: a beruházó által a beruházáshoz igénybe vett, állami forrásnak nem minősülő forrás;
 
@@ -138,27 +138,27 @@ d) az a)–c) alpont közül több alpont együttes megvalósulása esetén a le
 
 32. szállítási ágazat: az általános csoportmentességi rendelet 2. cikk 45. pontja szerinti szolgáltatás;
 
-33.[^43] szénipar: az általános csoportmentességi rendelet 2. cikk 13. pontja szerinti szén kitermelésével kapcsolatos tevékenység;
+33.[^44] szénipar: az általános csoportmentességi rendelet 2. cikk 13. pontja szerinti szén kitermelésével kapcsolatos tevékenység;
 
-34.[^44] szinten tartást szolgáló eszköz: olyan eszköz, amely a kedvezményezett által már használt tárgyi eszközt, immateriális javakat váltja ki anélkül, hogy a kiváltás az előállított termék, a nyújtott szolgáltatás, a termelési, illetve a szolgáltatási folyamat alapvető változását vagy bővülését eredményezné;
+34.[^45] szinten tartást szolgáló eszköz: olyan eszköz, amely a kedvezményezett által már használt tárgyi eszközt, immateriális javakat váltja ki anélkül, hogy a kiváltás az előállított termék, a nyújtott szolgáltatás, a termelési, illetve a szolgáltatási folyamat alapvető változását vagy bővülését eredményezné;
 
 35. támogatási intenzitás: az Atr. 2. § 15. pontjában meghatározott támogatás intenzitás;
 
-35a.[^45] támogatástartalom: az Atr. 2. § 19. pontja szerinti érték;
+35a.[^46] támogatástartalom: az Atr. 2. § 19. pontja szerinti érték;
 
-35b.[^46] támogatott terület: az általános csoportmentességi rendelet 2. cikk 27. pontja szerinti terület;
+35b.[^47] támogatott terület: az általános csoportmentességi rendelet 2. cikk 27. pontja szerinti terület;
 
-35c.[^47] tőzsdén nem jegyzett kis- és középvállalkozás: az általános csoportmentességi rendelet 2. cikk 76. pontja szerinti kis- és középvállalkozás;
+35c.[^48] tőzsdén nem jegyzett kis- és középvállalkozás: az általános csoportmentességi rendelet 2. cikk 76. pontja szerinti kis- és középvállalkozás;
 
-36.[^48] szakmai támogató szerv: a HEPA Magyar Exportfejlesztési Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: HEPA) a HEPA Magyar Exportfejlesztési Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság és a Közép-európai Gazdaságfejlesztési Hálózat Nonprofit Korlátolt Felelősségű Társaság feladatainak meghatározásáról, valamint a Digitális Jólét Program végrehajtásával összefüggő egyes feladatokról, valamint a Kormányzati Informatikai Fejlesztési Ügynökségről szóló 268/2010. (XII. 3.) Korm. rendelet módosításáról szóló 127/2017. (VI. 8.) Korm. rendelet módosításáról szóló 163/2018. (IX. 10.) Korm. rendelet (a továbbiakban: 163/2018. (IX. 10.) Korm. rendelet) 1. § (2) bekezdés 35. pontja szerint;
+36.[^49] szakmai támogató szerv: a HEPA Magyar Exportfejlesztési Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: HEPA) a HEPA Magyar Exportfejlesztési Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság és a Közép-európai Gazdaságfejlesztési Hálózat Nonprofit Korlátolt Felelősségű Társaság feladatainak meghatározásáról, valamint a Digitális Jólét Program végrehajtásával összefüggő egyes feladatokról, valamint a Kormányzati Informatikai Fejlesztési Ügynökségről szóló 268/2010. (XII. 3.) Korm. rendelet módosításáról szóló 127/2017. (VI. 8.) Korm. rendelet módosításáról szóló 163/2018. (IX. 10.) Korm. rendelet (a továbbiakban: 163/2018. (IX. 10.) Korm. rendelet) 1. § (2) bekezdés 35. pontja szerint;
 
-37.[^49] termékdiverzifikációt eredményező induló beruházás: olyan induló beruházás vagy új gazdasági tevékenység végzésére irányuló induló beruházás, amely létesítmény termékkínálatának vagy szolgáltatásainak a létesítményben addig nem gyártott termékkel, nem kínált szolgáltatással történő bővítését eredményezi;
+37.[^50] termékdiverzifikációt eredményező induló beruházás: olyan induló beruházás vagy új gazdasági tevékenység végzésére irányuló induló beruházás, amely létesítmény termékkínálatának vagy szolgáltatásainak a létesítményben addig nem gyártott termékkel, nem kínált szolgáltatással történő bővítését eredményezi;
 
 38. turisztikai tevékenység: az általános csoportmentességi rendelet 2. cikk 47. pontja szerinti turisztikai tevékenység, beleértve az egészségturizmust;
 
-39.[^50] új gazdasági tevékenység végzésére irányuló induló beruházás: az általános csoportmentességi rendelet 2. cikk 51. pontja szerinti beruházás;
+39.[^51] új gazdasági tevékenység végzésére irányuló induló beruházás: az általános csoportmentességi rendelet 2. cikk 51. pontja szerinti beruházás;
 
-40.[^51] versenyeztetéses ajánlattételi eljárás: a 651/2014/EU bizottsági rendelet 2. cikk 38. pontja szerinti eljárás.
+40.[^52] versenyeztetéses ajánlattételi eljárás: a 651/2014/EU bizottsági rendelet 2. cikk 38. pontja szerinti eljárás.
 
 [^7]: A 3. § 2. pontja a 8/2024. (IV. 17.) KKM rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^8]: A 3. § 2a. pontját a 8/2024. (IV. 17.) KKM rendelet 3. § (2) bekezdése iktatta be.
@@ -174,34 +174,35 @@ d) az a)–c) alpont közül több alpont együttes megvalósulása esetén a le
 [^18]: A 3. § 7c. pontját a 8/2024. (IV. 17.) KKM rendelet 3. § (5) bekezdése iktatta be.
 [^19]: A 3. § 7d. pontját a 8/2024. (IV. 17.) KKM rendelet 3. § (5) bekezdése iktatta be.
 [^20]: A 3. § 9. pontja a 8/2024. (IV. 17.) KKM rendelet 3. § (6) bekezdésével megállapított szöveg.
-[^21]: A 3. § 11a. pontját a 8/2024. (IV. 17.) KKM rendelet 3. § (7) bekezdése iktatta be.
-[^22]: A 3. § 11b. pontját a 8/2024. (IV. 17.) KKM rendelet 3. § (7) bekezdése iktatta be.
-[^23]: A 3. § 12. pontja a 8/2024. (IV. 17.) KKM rendelet 3. § (8) bekezdésével megállapított szöveg.
-[^24]: A 3. § 13a. pontját a 8/2024. (IV. 17.) KKM rendelet 3. § (9) bekezdése iktatta be.
-[^25]: A 3. § 13b. pontját a 8/2024. (IV. 17.) KKM rendelet 3. § (9) bekezdése iktatta be.
-[^26]: A 3. § 16. pontja a 8/2024. (IV. 17.) KKM rendelet 3. § (10) bekezdésével megállapított szöveg.
-[^27]: A 3. § 20a. pontját a 8/2024. (IV. 17.) KKM rendelet 3. § (11) bekezdése iktatta be.
-[^28]: A 3. § 22. pontja a 47/2021. (XII. 22.) KKM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^29]: A 3. § 22a. pontját a 8/2024. (IV. 17.) KKM rendelet 3. § (12) bekezdése iktatta be.
-[^30]: A 3. § 23. pontja a 8/2024. (IV. 17.) KKM rendelet 3. § (13) bekezdésével megállapított szöveg.
-[^31]: A 3. § 23a. pontját a 8/2024. (IV. 17.) KKM rendelet 3. § (14) bekezdése iktatta be.
-[^32]: A 3. § 23b. pontját a 8/2024. (IV. 17.) KKM rendelet 3. § (14) bekezdése iktatta be.
-[^33]: A 3. § 24. pontja a 8/2024. (IV. 17.) KKM rendelet 3. § (15) bekezdésével megállapított szöveg.
-[^34]: A 3. § 25. pontja a 8/2024. (IV. 17.) KKM rendelet 22. § b) pontja szerint módosított szöveg.
-[^35]: A 3. § 26a. pontját a 8/2024. (IV. 17.) KKM rendelet 3. § (16) bekezdése iktatta be.
-[^36]: A 3. § 27. pontja a 8/2024. (IV. 17.) KKM rendelet 3. § (17) bekezdésével megállapított szöveg.
-[^37]: A 3. § 27a. pontját a 8/2024. (IV. 17.) KKM rendelet 3. § (18) bekezdése iktatta be.
-[^38]: A 3. § 28. pontja a 8/2024. (IV. 17.) KKM rendelet 3. § (19) bekezdésével megállapított szöveg.
-[^39]: A 3. § 29a. pontját a 8/2024. (IV. 17.) KKM rendelet 3. § (20) bekezdése iktatta be.
-[^40]: A 3. § 29b. pontját a 8/2024. (IV. 17.) KKM rendelet 3. § (20) bekezdése iktatta be.
-[^41]: A 3. § 29c. pontját a 8/2024. (IV. 17.) KKM rendelet 3. § (20) bekezdése iktatta be.
-[^42]: A 3. § 29d. pontját a 8/2024. (IV. 17.) KKM rendelet 3. § (20) bekezdése iktatta be.
-[^43]: A 3. § 33. pontja a 8/2024. (IV. 17.) KKM rendelet 3. § (21) bekezdésével megállapított szöveg.
-[^44]: A 3. § 34. pontja a 8/2024. (IV. 17.) KKM rendelet 3. § (21) bekezdésével megállapított szöveg.
-[^45]: A 3. § 35a. pontját a 8/2024. (IV. 17.) KKM rendelet 3. § (22) bekezdése iktatta be.
-[^46]: A 3. § 35b. pontját a 8/2024. (IV. 17.) KKM rendelet 3. § (22) bekezdése iktatta be.
-[^47]: A 3. § 35c. pontját a 8/2024. (IV. 17.) KKM rendelet 3. § (22) bekezdése iktatta be.
-[^48]: A 3. § 36. pontja a 47/2021. (XII. 22.) KKM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^49]: A 3. § 37. pontja a 8/2024. (IV. 17.) KKM rendelet 3. § (23) bekezdésével megállapított szöveg.
-[^50]: A 3. § 39. pontja a 8/2024. (IV. 17.) KKM rendelet 3. § (24) bekezdésével megállapított szöveg.
-[^51]: A 3. § 40. pontja a 8/2024. (IV. 17.) KKM rendelet 3. § (25) bekezdésével megállapított szöveg.
+[^21]: A 3. § 10. pontja a 17/2024. (XII. 4.) KKM rendelet 1. §-a szerint módosított szöveg.
+[^22]: A 3. § 11a. pontját a 8/2024. (IV. 17.) KKM rendelet 3. § (7) bekezdése iktatta be.
+[^23]: A 3. § 11b. pontját a 8/2024. (IV. 17.) KKM rendelet 3. § (7) bekezdése iktatta be.
+[^24]: A 3. § 12. pontja a 8/2024. (IV. 17.) KKM rendelet 3. § (8) bekezdésével megállapított szöveg.
+[^25]: A 3. § 13a. pontját a 8/2024. (IV. 17.) KKM rendelet 3. § (9) bekezdése iktatta be.
+[^26]: A 3. § 13b. pontját a 8/2024. (IV. 17.) KKM rendelet 3. § (9) bekezdése iktatta be.
+[^27]: A 3. § 16. pontja a 8/2024. (IV. 17.) KKM rendelet 3. § (10) bekezdésével megállapított szöveg.
+[^28]: A 3. § 20a. pontját a 8/2024. (IV. 17.) KKM rendelet 3. § (11) bekezdése iktatta be.
+[^29]: A 3. § 22. pontja a 47/2021. (XII. 22.) KKM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^30]: A 3. § 22a. pontját a 8/2024. (IV. 17.) KKM rendelet 3. § (12) bekezdése iktatta be.
+[^31]: A 3. § 23. pontja a 8/2024. (IV. 17.) KKM rendelet 3. § (13) bekezdésével megállapított szöveg.
+[^32]: A 3. § 23a. pontját a 8/2024. (IV. 17.) KKM rendelet 3. § (14) bekezdése iktatta be.
+[^33]: A 3. § 23b. pontját a 8/2024. (IV. 17.) KKM rendelet 3. § (14) bekezdése iktatta be.
+[^34]: A 3. § 24. pontja a 8/2024. (IV. 17.) KKM rendelet 3. § (15) bekezdésével megállapított szöveg.
+[^35]: A 3. § 25. pontja a 8/2024. (IV. 17.) KKM rendelet 22. § b) pontja szerint módosított szöveg.
+[^36]: A 3. § 26a. pontját a 8/2024. (IV. 17.) KKM rendelet 3. § (16) bekezdése iktatta be.
+[^37]: A 3. § 27. pontja a 8/2024. (IV. 17.) KKM rendelet 3. § (17) bekezdésével megállapított szöveg.
+[^38]: A 3. § 27a. pontját a 8/2024. (IV. 17.) KKM rendelet 3. § (18) bekezdése iktatta be.
+[^39]: A 3. § 28. pontja a 8/2024. (IV. 17.) KKM rendelet 3. § (19) bekezdésével megállapított szöveg.
+[^40]: A 3. § 29a. pontját a 8/2024. (IV. 17.) KKM rendelet 3. § (20) bekezdése iktatta be.
+[^41]: A 3. § 29b. pontját a 8/2024. (IV. 17.) KKM rendelet 3. § (20) bekezdése iktatta be.
+[^42]: A 3. § 29c. pontját a 8/2024. (IV. 17.) KKM rendelet 3. § (20) bekezdése iktatta be.
+[^43]: A 3. § 29d. pontját a 8/2024. (IV. 17.) KKM rendelet 3. § (20) bekezdése iktatta be.
+[^44]: A 3. § 33. pontja a 8/2024. (IV. 17.) KKM rendelet 3. § (21) bekezdésével megállapított szöveg.
+[^45]: A 3. § 34. pontja a 8/2024. (IV. 17.) KKM rendelet 3. § (21) bekezdésével megállapított szöveg.
+[^46]: A 3. § 35a. pontját a 8/2024. (IV. 17.) KKM rendelet 3. § (22) bekezdése iktatta be.
+[^47]: A 3. § 35b. pontját a 8/2024. (IV. 17.) KKM rendelet 3. § (22) bekezdése iktatta be.
+[^48]: A 3. § 35c. pontját a 8/2024. (IV. 17.) KKM rendelet 3. § (22) bekezdése iktatta be.
+[^49]: A 3. § 36. pontja a 47/2021. (XII. 22.) KKM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^50]: A 3. § 37. pontja a 8/2024. (IV. 17.) KKM rendelet 3. § (23) bekezdésével megállapított szöveg.
+[^51]: A 3. § 39. pontja a 8/2024. (IV. 17.) KKM rendelet 3. § (24) bekezdésével megállapított szöveg.
+[^52]: A 3. § 40. pontja a 8/2024. (IV. 17.) KKM rendelet 3. § (25) bekezdésével megállapított szöveg.

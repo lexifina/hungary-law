@@ -1,4 +1,4 @@
-16/A. §[^86] (1) A 2. § (1) bekezdés g) pontjában foglalt támogatás további feltétele, hogy
+16/A. §[^87] (1) A 2. § (1) bekezdés g) pontjában foglalt támogatás további feltétele, hogy
 
 a) a támogatás támogatástartalma az ideiglenes válság- és átállási keretről szóló közlemény 2.1. szakasza alapján nyújtott egyéb támogatásokkal együtt vállalkozásonként – a vállalkozás kapcsolt vállalkozásait is figyelembe véve – annak összege ne haladja meg a 2 250 000 eurónak megfelelő forintösszeget;
 
@@ -10,4 +10,4 @@ b) a beruházó működését az Ukrajna ellen Oroszország által indított há
 
 (4) A 2. § (1) bekezdés g) pontjában foglalt támogatás nyújtásának nem lehet feltétele az, hogy a kedvezményezett a gazdasági tevékenységét áthelyezze az EGT-n belül egy másik országból Magyarország területére.
 
-[^86]: A 16/A. §-t a 8/2024. (IV. 17.) KKM rendelet 14. §-a iktatta be.
+[^87]: A 16/A. §-t a 8/2024. (IV. 17.) KKM rendelet 14. §-a iktatta be.

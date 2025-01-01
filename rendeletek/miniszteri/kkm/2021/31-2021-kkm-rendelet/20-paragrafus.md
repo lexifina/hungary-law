@@ -16,7 +16,7 @@
 
 7. olyan tárgyi eszköz bekerülési értéke, amelyet a beruházó csődeljárás vagy felszámolás alatt álló társaságtól vagy végrehajtási eljárás alatt álló magánszemélytől szerzett be,
 
-8.[^106] azon eszközök, berendezések, amelyek a támogatási kérelem benyújtása előtt bérleti vagy egyéb hasonló konstrukció keretében, továbbá tesztelési, próbaüzemi céllal a beruházónál bármely telephelyen már használatban voltak, továbbá a kétszázezer forint vagy annál kisebb számlaértékű tárgyi eszközök,
+8.[^107] azon eszközök, berendezések, amelyek a támogatási kérelem benyújtása előtt bérleti vagy egyéb hasonló konstrukció keretében, továbbá tesztelési, próbaüzemi céllal a beruházónál bármely telephelyen már használatban voltak, továbbá a kétszázezer forint vagy annál kisebb számlaértékű tárgyi eszközök,
 
 9. készletek beszerzésének költségei,
 
@@ -30,7 +30,7 @@
 
 14. az elhasználódott tárgyi eszköz eredeti állaga helyreállítását szolgáló, szinten tartó felújítási munka költségei és az üzemszerű működést szolgáló költségek,
 
-15.[^107] a szinten tartást szolgáló tárgyi eszközök és immateriális javak költsége,
+15.[^108] a szinten tartást szolgáló tárgyi eszközök és immateriális javak költsége,
 
 16. visszlízingelt eszközök költségei,
 
@@ -54,7 +54,7 @@
 
 26. cégközi profit,
 
-27.[^108] energiatermeléshez kapcsolódó eszközök,
+27.[^109] energiatermeléshez kapcsolódó eszközök,
 
 28. létesítmény felvásárlása, amennyiben arra nem piaci áron kerül sor,
 
@@ -76,7 +76,7 @@
 
 37. bérelt ingatlanon történő megvalósítás esetén a földterület, a telek és épületek bérleti díja.
 
-38.[^109] a támogatási kérelem benyújtásának napja előtt felmerült költségek.
+38.[^110] a támogatási kérelem benyújtásának napja előtt felmerült költségek.
 
 (3) A földterület, a telek, az épületek és az egyéb eszközök lízingbe vételével kapcsolatos költségek abban az esetben számolhatók el, ha a lízingügylet zártvégű pénzügyi lízing formájában valósul meg, és a lízingszerződés tartalmazza az eszköznek a lízing időtartam lejárta utáni megvásárlására vonatkozó kötelezettségét, amely határidő nem lehet későbbi, mint a beruházás befejezésének dátuma.
 
@@ -90,22 +90,22 @@ c) piaci feltételek mellett, a vevőtől független harmadik féltől kell megv
 
 d) a nagyvállalkozások részére nyújtott támogatás esetén legalább öt évig, kis- és középvállalkozások esetén legalább három évig a beruházó eszközei között kell szerepelniük, és ahhoz a beruházáshoz kell kapcsolódniuk, amelyre a támogatást nyújtották, és
 
-e)[^110] a beruházó a beruházás eredményeképpen létrejövő kapacitások révén történő termék-előállítás esetén az elszámolható költségek maximum 20%-áig, szolgáltatásnyújtás esetén annak maximum 50%-áig számolhatja el az immateriális javak költségeit.
+e)[^111] a beruházó a beruházás eredményeképpen létrejövő kapacitások révén történő termék-előállítás esetén az elszámolható költségek maximum 20%-áig, szolgáltatásnyújtás esetén annak maximum 50%-áig számolhatja el az immateriális javak költségeit.
 
 (5) A támogatható tárgyi eszközöknek az alábbi feltételeknek kell megfelelniük:
 
-a)[^111]
+a)[^112]
 
 b) a beszerzett tárgyi eszközöknek tartósan, legalább a fenntartási időszak végéig szolgálniuk kell a támogatott tevékenységet, és
 
 c) az egy vállalatcsoporton belülről beszerzett új eszközök esetén az elszámolható költség nem haladhatja meg az eladó könyveiben nyilvántartott összeget.
 
-(6)[^112]
+(6)[^113]
 
-[^106]: A 20. § (2) bekezdés 8. pontja a 8/2024. (IV. 17.) KKM rendelet 22. § f) pontja szerint módosított szöveg.
-[^107]: A 20. § (2) bekezdés 15. pontja a 8/2024. (IV. 17.) KKM rendelet 18. § (1) bekezdésével megállapított szöveg.
-[^108]: A 20. § (2) bekezdés 27. pontja a 8/2024. (IV. 17.) KKM rendelet 23. § g) pontja szerint módosított szöveg.
-[^109]: A 20. § (2) bekezdés 38. pontját a 8/2024. (IV. 17.) KKM rendelet 18. § (2) bekezdése iktatta be.
-[^110]: A 20. § (4) bekezdés e) pontja a 8/2024. (IV. 17.) KKM rendelet 18. § (3) bekezdésével megállapított szöveg.
-[^111]: A 20. § (5) bekezdés a) pontját a 8/2024. (IV. 17.) KKM rendelet 23. § h) pontja hatályon kívül helyezte.
-[^112]: A 20. § (6) bekezdését a 8/2024. (IV. 17.) KKM rendelet 23. § i) pontja hatályon kívül helyezte.
+[^107]: A 20. § (2) bekezdés 8. pontja a 8/2024. (IV. 17.) KKM rendelet 22. § f) pontja szerint módosított szöveg.
+[^108]: A 20. § (2) bekezdés 15. pontja a 8/2024. (IV. 17.) KKM rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^109]: A 20. § (2) bekezdés 27. pontja a 8/2024. (IV. 17.) KKM rendelet 23. § g) pontja szerint módosított szöveg.
+[^110]: A 20. § (2) bekezdés 38. pontját a 8/2024. (IV. 17.) KKM rendelet 18. § (2) bekezdése iktatta be.
+[^111]: A 20. § (4) bekezdés e) pontja a 8/2024. (IV. 17.) KKM rendelet 18. § (3) bekezdésével megállapított szöveg.
+[^112]: A 20. § (5) bekezdés a) pontját a 8/2024. (IV. 17.) KKM rendelet 23. § h) pontja hatályon kívül helyezte.
+[^113]: A 20. § (6) bekezdését a 8/2024. (IV. 17.) KKM rendelet 23. § i) pontja hatályon kívül helyezte.

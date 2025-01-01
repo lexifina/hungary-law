@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-31-20-6
 | 2021-12-23 | 2021-31-20-6Q.3 | 47/2021. (XII. 22.) KKM rendelet |
 | 2023-01-01 | 2021-31-20-6Q.4 | 27/2022. (XII. 28.) KKM rendelet |
 | 2024-04-18 | 2021-31-20-6Q.5 | 8/2024. (IV. 17.) KKM rendelet |
+| 2025-01-01 | 2021-31-20-6Q.6 | 17/2024. (XII. 4.) KKM rendelet |

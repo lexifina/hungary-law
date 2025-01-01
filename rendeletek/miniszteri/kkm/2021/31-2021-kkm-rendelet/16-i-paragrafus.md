@@ -1,4 +1,4 @@
-16/I. §[^94] (1) A támogatás keretében a teljes beruházási költség számolható el és a támogatás nem függhet a termelés eredményétől.
+16/I. §[^95] (1) A támogatás keretében a teljes beruházási költség számolható el és a támogatás nem függhet a termelés eredményétől.
 
 (2) A támogatási intenzitás nem haladhatja meg az elszámolható költségek
 
@@ -18,4 +18,4 @@ c) tilos bármely ajánlattételi eljárás eredményének utólagos kiigazítá
 
 d) az ajánlatok rangsorolásához – és végső soron a támogatásnak a versenyeztetéses ajánlattételi eljárás keretében történő elosztásához – használt összes kiválasztási kritérium legalább 70%-át a megújuló energiaforrásból vagy nagy hatásfokú kapcsolt energiatermeléssel előállított energiakapacitás egy egysége után igényelt támogatás alapján határozzák meg.
 
-[^94]: A 16/I. §-t a 8/2024. (IV. 17.) KKM rendelet 14. §-a iktatta be.
+[^95]: A 16/I. §-t a 8/2024. (IV. 17.) KKM rendelet 14. §-a iktatta be.

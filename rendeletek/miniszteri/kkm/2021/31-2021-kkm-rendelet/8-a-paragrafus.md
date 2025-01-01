@@ -1,4 +1,4 @@
-8/A. §[^61] Az Atr. 18. § (2) bekezdés a) pontja szerint előzetesen be kell jelenteni az Európai Bizottság részére az egyedi támogatást, ha a támogatás összege
+8/A. §[^62] Az Atr. 18. § (2) bekezdés a) pontja szerint előzetesen be kell jelenteni az Európai Bizottság részére az egyedi támogatást, ha a támogatás összege
 
 1. regionális beruházási támogatás esetén a beruházáshoz igényelt összes állami támogatással együtt – figyelembe véve a nagyberuházásokra vonatkozó rendelkezéseket – egy legalább 110 millió euró elszámolható költségű beruházási támogatás esetében vállalkozásonként és projektenként meghaladja
 
@@ -32,4 +32,4 @@ d) meghaladja az a)–c) alpont szerinti összeg 150%-át, ha a kutatás-fejlesz
 
 5. megújuló energia, megújuló hidrogén és nagy hatásfokú kapcsolt energiatermelés támogatására irányuló beruházási támogatás esetén vállalkozásonként és projektenként meghaladja a 30 millió eurónak megfelelő forintösszeget.
 
-[^61]: A 8/A. §-t a 8/2024. (IV. 17.) KKM rendelet 7. §-a iktatta be.
+[^62]: A 8/A. §-t a 8/2024. (IV. 17.) KKM rendelet 7. §-a iktatta be.
