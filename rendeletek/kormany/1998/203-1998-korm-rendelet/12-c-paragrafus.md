@@ -1,4 +1,4 @@
-12/C. §[^72] (1) A pályázati kiírásnak a nemzeti vagyonról szóló törvényben, valamint az állami vagyonról szóló törvényben foglaltakra is figyelemmel tartalmaznia kell legalább
+12/C. §[^73] (1) A pályázati kiírásnak a nemzeti vagyonról szóló törvényben, valamint az állami vagyonról szóló törvényben foglaltakra is figyelemmel tartalmaznia kell legalább
 
 a) a pályázatban meghirdetett bányászati jog meghatározását annak feltüntetésével, hogy a területen vagy a térrészben harmadik személy rendelkezik-e jogosultsággal bányászati tevékenység végzésére, geotermikus energia kinyerésére, hasznosítására vagy a Bt. hatálya alá tartozó egyéb tevékenység gyakorlására,
 
@@ -20,8 +20,9 @@ i) a pályázat benyújtásának helyét és módját, valamint
 
 j) az ajánlati kötöttség időtartamát.
 
-(2) A pályázat benyújtásának határideje nyilvános pályázat esetében a pályázati felhívás közzétételétől számított 15 nap, zárt körű pályázat esetében a pályázati felhívás kézhezvételétől számított 15 nap.
+(2)[^74] A pályázat benyújtásának határideje nyilvános pályázat esetében a pályázati felhívás közzétételétől számított 15 nap.
 
 (3) A pályázati kiírásnak és a jogszabályoknak nem megfelelő pályázatot az értékelés során érvénytelennek kell nyilvánítani, és az érvénytelen pályázatot benyújtott ajánlattevőt a pályázati eljárásból ki kell zárni.
 
-[^72]: A Vhr. 12/C. §-át a 648/2021. (XI. 30.) Korm. rendelet 2. §-a iktatta be.
+[^73]: A Vhr. 12/C. §-át a 648/2021. (XI. 30.) Korm. rendelet 2. §-a iktatta be.
+[^74]: A Vhr. 12/C. § (2) bekezdése a 471/2024. (XII. 30.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.

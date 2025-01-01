@@ -1,3 +1,3 @@
-8/A. §[^55]
+8/A. §[^56]
 
-[^55]: A Vhr. 8/A. §-át a 146/2012. (VII. 5.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 26/2022. (I. 28.) Korm. rendelet 3. § 5. pontja.
+[^56]: A Vhr. 8/A. §-át a 146/2012. (VII. 5.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 26/2022. (I. 28.) Korm. rendelet 3. § 5. pontja.

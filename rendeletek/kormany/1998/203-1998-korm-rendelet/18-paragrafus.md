@@ -1,5 +1,5 @@
 ## (A Bt. 31. §-ához)
 
-18. §[^84]
+18. §[^86]
 
-[^84]: A Vhr. 18. §-át a 26/2022. (I. 28.) Korm. rendelet 3. § 8. pontja hatályon kívül helyezte.
+[^86]: A Vhr. 18. §-át a 26/2022. (I. 28.) Korm. rendelet 3. § 8. pontja hatályon kívül helyezte.
