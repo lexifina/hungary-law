@@ -1,0 +1,1 @@
+5. § Az R2. 1. melléklet címében és 1. mellékletében az „a 2004/12/EK irányelvvel módosított 95/50/EK irányelv szerint” szövegrész helyébe az „a 2022/1999 európai parlamenti és tanácsi irányelv” szöveg lép.
