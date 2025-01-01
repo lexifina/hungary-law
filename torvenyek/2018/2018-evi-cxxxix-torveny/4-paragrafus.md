@@ -108,7 +108,7 @@
 
 52. történelmi sportterület: a BATrT. alkalmazásában az 1914. év előtt sportolási célra használt terület;
 
-53. veszélyeshulladék-égetőmű: olyan hulladékkezelő létesítmény, amelyben a hulladékégetés műszaki követelményei, működési feltételei és a hulladékégetés technológiai kibocsátási határértékei tárgyában kiadott miniszteri rendeletben meghatározott feltételek szerint veszélyes hulladékot égetnek;
+53. veszélyeshulladék-égetőmű: a hulladékról szóló 2012. évi CLXXXV. törvény 2. § (1) bekezdés 49. pontja szerinti létesítmény;
 
 54. veszélyeshulladék-lerakó: a hulladéklerakás, valamint a hulladéklerakóval kapcsolatos egyes szabályok és feltételek tárgyában kiadott miniszteri rendeletben meghatározott feltételek szerint veszélyes hulladék lerakással történő ártalmatlanítására szolgáló hulladékkezelő létesítmény;
 
