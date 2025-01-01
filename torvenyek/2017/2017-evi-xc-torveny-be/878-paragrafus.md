@@ -23,3 +23,7 @@
 10. az Európai Unió tagállamainak bűnüldöző hatóságai közötti, információ és bűnüldözési operatív információ cseréjének leegyszerűsítéséről szóló, 2006. december 18-i 2006/960/IB tanácsi kerethatározatnak,
 
 11. az Európai Unió más tagállamaiban hozott ítéleteknek egy új büntetőeljárásban való figyelembevételéről szóló, 2008. július 24-i 2008/675/IB kerethatározatnak,
+
+12. a szervezett bűnözés elleni küzdelemről szóló, 2008. október 24-i 2008/841/IB tanácsi kerethatározatnak,
+
+13. a kölcsönös elismerés elvének büntetőügyekben hozott, szabadságvesztés büntetéseket kiszabó vagy szabadságelvonással járó intézkedéseket alkalmazó ítéleteknek az Európai Unióban való végrehajtása céljából történő alkalmazásáról szóló, 2008. november 27-i 2008/909/IB tanácsi kerethatározatnak,
