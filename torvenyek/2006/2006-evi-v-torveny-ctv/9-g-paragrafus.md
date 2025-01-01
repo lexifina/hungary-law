@@ -4,11 +4,7 @@ a) a cégbejegyzési kérelemben megjelölt, a cégalapításhoz kapcsolódóan 
 
 b) jogszabály az eljáró jogi képviselő számára más azonosítási módról nem rendelkezik, az a) pont szerinti személyek azonosítására úgy került sor, hogy a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény szerinti elektronikus hírközlő eszköz útján történő ügyfél-átvilágítás és az ügyvédi tevékenységről szóló törvény szerinti azonosítás vagy a közjegyzőkről szóló törvény szerinti ellenőrzés együttesen elvégzésre került,
 
-c) az a) pont szerinti személy a cégbejegyzési kérelemhez csatolt jognyilatkozatát tartalmazó elektronikus okiratokat
-
-ca) minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírással, elektronikus bélyegzővel látta el, vagy
-
-cb) azonosításra visszavezetett dokumentumhitelesítés-szolgáltatással hitelesítette,
+c) az a) pont szerinti személy a cégbejegyzési kérelemhez csatolt jognyilatkozatát tartalmazó elektronikus okiratokat minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírással, elektronikus bélyegzővel látta el,
 
 d) a cégbejegyzési kérelem mellékletét képező valamennyi dokumentum elektronikus formában létrejött és a c) pont szerint elektronikusan hitelesített okirat, és
 

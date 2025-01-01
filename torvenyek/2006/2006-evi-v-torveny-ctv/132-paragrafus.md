@@ -24,6 +24,8 @@ k) az (EU) 2017/1132 irányelvnek a digitális eszközök és folyamatok társas
 
 (1a) E törvény – végrehajtási rendeleteivel és a Ptk.-val együtt – az (EU) 2017/1132 irányelv határokon átnyúló átalakulások, egyesülések és szétválások tekintetében történő módosításáról szóló, 2019. november 27-i 2019/2121 (EU) európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
+(1b) E törvény az Unió egész területén egységesen magas szintű kiberbiztonságot biztosító intézkedésekről, valamint a 910/2014/EU rendelet és az (EU) 2018/1972 irányelv módosításáról és az (EU) 2016/1148 irányelv hatályon kívül helyezéséről (NIS 2 irányelv) szóló, 2022. december 14-i (EU) 2022/2555 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
 (2) E törvény a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg:
 
 a) a Tanács 2137/85/EGK rendelete az európai gazdasági egyesülésről (az európai gazdasági egyesülésről, valamint a gazdasági társaságokról szóló 1997. évi CXLIV. törvény és a cégnyilvántartásról, a cégnyilvánosságról és a bírósági cégeljárásról szóló 1997. évi CXLV. törvény jogharmonizációs célú módosításáról szóló 2003. évi XLIX. törvénnyel együtt);
@@ -32,10 +34,14 @@ b) a Tanács 2157/2001/EK rendelete (2001. október 8.) az európai részvényt�
 
 c) A Tanács 1435/2003/EK rendelete (2003. július 22.) az európai szövetkezet (SCE) statútumáról;
 
-d) az Európai Parlament és a Tanács 1893/2006/EK rendelete (2006. december 20.) a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról;
+d) az Európai Parlament és a Tanács 1893/2006/EK rendelete (2006. december 20.) a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2.1. rendszerének létrehozásáról;
 
 e) az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet;
 
 f) a nyilvántartások összekapcsolására szolgáló 2009/101/EK európai parlamenti és tanácsi irányelvvel létrehozott rendszer céljából szükséges műszaki leírások és eljárások megállapításáról szóló, 2015. június 8-i (EU) 2015/884 bizottsági végrehajtási rendelet;
 
 g) az (EU) 2017/1132 európai parlamenti és tanácsi irányelvnek a nyilvántartások összekapcsolására szolgáló rendszerre vonatkozó műszaki leírások és eljárások tekintetében történő alkalmazására vonatkozó szabályok megállapításáról, valamint az (EU) 2020/2244 bizottsági végrehajtási rendelet hatályon kívül helyezéséről szóló, 2021. június 18-i (EU) 2021/1042 bizottsági végrehajtási rendelet.
+
+h) a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról szóló 1893/2006/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2022. október 10-i (EU) 2023/137 felhatalmazáson alapuló bizottsági rendelet;
+
+i) az (EU) 2020/1197, az (EU) 2022/918 és az (EU) 2022/1092 bizottsági végrehajtási rendeletnek a gazdasági tevékenységek statisztikai osztályozásának az 1893/2006/EK európai parlamenti és tanácsi rendelettel létrehozott NACE Rev. 2. rendszerére való hivatkozások tekintetében történő módosításáról szóló, 2024. június 27-i (EU) 2024/1840 bizottsági végrehajtási rendelet.
