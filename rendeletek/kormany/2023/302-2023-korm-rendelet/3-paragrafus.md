@@ -6,11 +6,17 @@
 
 (4) Ha az igénylő számára kedvezőbb, a (3) bekezdésben meghatározott számítási mód helyett a családi otthonteremtési kedvezmény összegét azon, az igénylés időpontjában meglévő gyermek figyelmen kívül hagyásával kell megállapítani, aki után az igénylő korábban a (3) bekezdés szerinti támogatást vagy megelőlegező kölcsönt vett igénybe.
 
-(5)[^2] Ha az igénylő a korszerűsíteni, illetve bővíteni kívánt lakás vásárlásához vagy építéséhez – a kérelem benyújtását megelőzően – családi otthonteremtési kedvezményt vagy családok otthonteremtési kedvezményét vett igénybe, a családi otthonteremtési kedvezmény összegének megállapításánál
+(5)[^2] Ha az igénylő a korszerűsíteni, illetve bővíteni kívánt lakás vásárlásához vagy építéséhez – a kérelem benyújtását megelőzően – családi otthonteremtési kedvezményt vagy családok otthonteremtési kedvezményét, illetve korszerűsítéséhez (felújításához) otthonfelújítási támogatást vett igénybe, akkor a családi otthonteremtési kedvezmény összegének megállapításánál
 
-a) nem kell alkalmazni az (1) és (4) bekezdésben, valamint a 20. § (1) bekezdésében foglaltakat, továbbá
+a) nem kell alkalmazni az (1) és (4) bekezdésben, valamint a 20. § (1) bekezdésében foglaltakat, valamint
 
-b) a (3) bekezdésben foglaltaktól eltérően nem kell figyelembe venni a lakás vásárlásához igénybe vett családi otthonteremtési kedvezmény vagy családok otthonteremtési kedvezménye összegét.
+b) a (3) bekezdésben foglaltaktól eltérően nem kell figyelembe venni a lakás
+
+ba) vásárlásához vagy építéséhez igénybe vett családi otthonteremtési kedvezmény vagy családok otthonteremtési kedvezménye,
+
+bb) korszerűsítéséhez (felújításához) igénybe vett otthonfelújítási támogatás
+
+összegét.
 
 (6) A (3) és (4) bekezdésben foglaltaktól eltérően a családi otthonteremtési kedvezmény összegének megállapításánál nem kell figyelembe venni az újabb támogatási kérelem benyújtásának időpontjáig – a (9) bekezdés szerinti nyilvántartás alapján, vagy a 2011. december 31. napját megelőzően benyújtott igénylések esetében közokirattal vagy hitelintézet által teljes bizonyító erejű magánokiratként kiállított dokumentummal igazolt módon – már visszafizetett vissza nem térítendő lakáscélú állami támogatás vagy ezt megelőlegező kölcsön összegét.
 
@@ -22,5 +28,5 @@ b) a (3) bekezdésben foglaltaktól eltérően nem kell figyelembe venni a laká
 
 (9) A hitelintézet a jogosultsági feltételek fennállásának vizsgálata érdekében a korábbi igénybevételt a Kincstár által üzemeltetett lakástámogatási szakmai informatikai rendszerben lévő adatok alapján és a számítógépes ingatlan-nyilvántartási rendszerből ellenőrzi.
 
-[^2]: A 3. § (5) bekezdés nyitó szövegrésze a 649/2023. (XII. 28.) Korm. rendelet 16. § 1. pontja szerint módosított szöveg.
+[^2]: A 3. § (5) bekezdése a 389/2024. (XII. 11.) Korm. rendelet 36. § (1) bekezdésével megállapított szöveg.
 [^3]: A 3. § (6a) bekezdését az 518/2023. (XI. 30.) Korm. rendelet 66. § (1) bekezdése iktatta be.

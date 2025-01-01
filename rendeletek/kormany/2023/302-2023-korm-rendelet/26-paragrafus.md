@@ -2,11 +2,11 @@
 
 a) lakás vásárlása esetén az adásvételi szerződés megkötését követő 180 napon belül,
 
-b)[^71] lakás építési engedélyhez vagy egyszerű bejelentéshez kötött bővítése esetén a használatbavételi engedély kiadását megelőzően,
+b)[^73] lakás építési engedélyhez vagy egyszerű bejelentéshez kötött bővítése esetén a használatbavételi engedély kiadását megelőzően,
 
-c)[^72]
+c)[^74]
 
-d)[^73] új lakás építése esetén a használatbavételi engedély kiállítását, valamint a 6. § (10) bekezdése szerinti esetben az építési tevékenység befejezését megelőzően
+d)[^75] új lakás építése esetén a használatbavételi engedély kiállítását, valamint a 6. § (10) bekezdése szerinti esetben az építési tevékenység befejezését megelőzően
 
 kell kérni a hitelintézettől.
 
@@ -32,7 +32,7 @@ bírálja el.
 
 (9) Ha az igénylő a lakás vásárlását, építését vagy bővítését a saját erőn és a családi otthonteremtési kedvezményen felül hitelintézeti kölcsön igénybevételével valósítja meg, és a családi otthonteremtési kedvezményt és a hitelintézeti kölcsönt két különböző hitelintézettől igényli, úgy az igénylő a családi otthonteremtési kedvezményt nyújtó hitelintézetnek bemutatja a kölcsönt nyújtó hitelintézet által kiadott, a kölcsönszerződés előre meghatározott jövőbeni időpontban vagy feltételek bekövetkezésekor történő megkötésére vonatkozó kötelezettségvállalását. A kölcsön folyósítása a családi otthonteremtési kedvezmény folyósítását megelőzően történik.
 
-(10)[^74] Építés, bővítés és korszerűsítés esetén a családi otthonteremtési kedvezmény a használatbavételi engedély kiállítását vagy a korszerűsítés esetén a korszerűsítési munkák befejezését megelőzően a már megkötött családi otthonteremtési kedvezmény igénybevételéről szóló támogatási szerződés szerinti támogatási összeget megalapozó gyermekszámon felül további – a támogatási kérelem benyújtását követően a 12. várandóssági hetet betöltött, megszületett vagy örökbefogadott meglévő vagy a 7. alcím szerint vállalt –, 11. § szerinti gyermekre is igényelhető.
+(10)[^76] Építés, bővítés és korszerűsítés esetén a családi otthonteremtési kedvezmény a használatbavételi engedély kiállítását vagy a korszerűsítés esetén a korszerűsítési munkák befejezését megelőzően a már megkötött családi otthonteremtési kedvezmény igénybevételéről szóló támogatási szerződés szerinti támogatási összeget megalapozó gyermekszámon felül további – a támogatási kérelem benyújtását követően a 12. várandóssági hetet betöltött, megszületett vagy örökbefogadott meglévő vagy a 7. alcím szerint vállalt –, 11. § szerinti gyermekre is igényelhető.
 
 (11) A (10) bekezdés szerinti igénylés esetén a családi otthonteremtési kedvezmény összege az (1) bekezdés szerinti további gyermekekkel együttesen igénybe vehető támogatási összeg és a már megkötött családi otthonteremtési kedvezmény igénybevételéről szóló támogatási szerződés szerinti támogatási összeg különbözete.
 
@@ -48,14 +48,14 @@ a) a kettőt, akkor a lakás hasznos alapterületének a 8. § (1) vagy (2) beke
 
 b) a hármat, akkor
 
-ba)[^75]
+ba)[^77]
 
 bb) a lakás hasznos alapterületének a 8. § (1) vagy (2) bekezdés c) pontjában foglaltaknak meg kell felelnie.
 
 (16) A (11)–(15) bekezdésben foglalt feltételek teljesülése esetén a hitelintézet és a támogatott személy a már megkötött támogatási szerződést a kiegészített támogatási kérelemnek megfelelően módosítja.
 
-[^71]: A 26. § (1) bekezdés b) pontja a 285/2024. (IX. 30.) Korm. rendelet 195. § g) pontja és 196. § 11. pontja szerint módosított szöveg.
-[^72]: A 26. § (1) bekezdés c) pontját a 285/2024. (IX. 30.) Korm. rendelet 196. § 12. pontja hatályon kívül helyezte.
-[^73]: A 26. § (1) bekezdés d) pontja a 649/2023. (XII. 28.) Korm. rendelet 16. § 31. pontja, a 285/2024. (IX. 30.) Korm. rendelet 195. § h) pontja szerint módosított szöveg.
-[^74]: A 26. § (10) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 195. § i) pontja szerint módosított szöveg.
-[^75]: A 26. § (15) bekezdés b) pont ba) alpontja a 649/2023. (XII. 28.) Korm. rendelet 17. § i) pontja alapján nem lép hatályba.
+[^73]: A 26. § (1) bekezdés b) pontja a 285/2024. (IX. 30.) Korm. rendelet 195. § g) pontja és 196. § 11. pontja szerint módosított szöveg.
+[^74]: A 26. § (1) bekezdés c) pontját a 285/2024. (IX. 30.) Korm. rendelet 196. § 12. pontja hatályon kívül helyezte.
+[^75]: A 26. § (1) bekezdés d) pontja a 649/2023. (XII. 28.) Korm. rendelet 16. § 31. pontja, a 285/2024. (IX. 30.) Korm. rendelet 195. § h) pontja szerint módosított szöveg.
+[^76]: A 26. § (10) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 195. § i) pontja szerint módosított szöveg.
+[^77]: A 26. § (15) bekezdés b) pont ba) alpontja a 649/2023. (XII. 28.) Korm. rendelet 17. § i) pontja alapján nem lép hatályba.

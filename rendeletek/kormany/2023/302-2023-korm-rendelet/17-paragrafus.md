@@ -1,4 +1,4 @@
-17. § (1)[^53] A családi otthonteremtési kedvezmény igénybevételével
+17. § (1)[^55] A családi otthonteremtési kedvezmény igénybevételével
 
 a) vásárolt lakásra a családi otthonteremtési kedvezmény igénybevételéről szóló szerződés megkötését,
 
@@ -6,11 +6,11 @@ b) bővített lakásra a munkálatok idejére és
 
 ba) a munkálatok befejezését, vagy
 
-bb)[^54] építési engedélyhez vagy egyszerű bejelentéshez kötött bővítés esetén a használatbavételi engedély kiadását,
+bb)[^56] építési engedélyhez vagy egyszerű bejelentéshez kötött bővítés esetén a használatbavételi engedély kiadását,
 
-bc)[^55]
+bc)[^57]
 
-c)[^56] épített új lakásra az építkezés idejére és a használatbavételi engedély kiadását,
+c)[^58] épített új lakásra az építkezés idejére és a használatbavételi engedély kiadását,
 
 d) a 23. § szerinti esetben a lakáscélú hitelintézeti kölcsönszerződésben meghatározott hitelcél tárgyát képező lakásra a családi otthonteremtési kedvezmény igénybevételéről szóló szerződés megkötésének időpontját
 
@@ -30,7 +30,7 @@ b) a lakásban öröklés révén harmadik személy tulajdonjogot vagy haszonél
 
 c) a lakásra közérdekű használati jogot alapítanak.
 
-[^53]: A 17. § (1) bekezdés záró szövegrésze a 649/2023. (XII. 28.) Korm. rendelet 16. § 22. pontja szerint módosított szöveg.
-[^54]: A 17. § (1) bekezdés b) pont bb) alpontja a 285/2024. (IX. 30.) Korm. rendelet 195. § d) pontja szerint módosított szöveg.
-[^55]: A 17. § (1) bekezdés b) pont bc) alpontját a 285/2024. (IX. 30.) Korm. rendelet 196. § 7. pontja hatályon kívül helyezte.
-[^56]: A 17. § (1) bekezdés c) pontja a 285/2024. (IX. 30.) Korm. rendelet 196. § 8. pontja szerint módosított szöveg.
+[^55]: A 17. § (1) bekezdés záró szövegrésze a 649/2023. (XII. 28.) Korm. rendelet 16. § 22. pontja szerint módosított szöveg.
+[^56]: A 17. § (1) bekezdés b) pont bb) alpontja a 285/2024. (IX. 30.) Korm. rendelet 195. § d) pontja szerint módosított szöveg.
+[^57]: A 17. § (1) bekezdés b) pont bc) alpontját a 285/2024. (IX. 30.) Korm. rendelet 196. § 7. pontja hatályon kívül helyezte.
+[^58]: A 17. § (1) bekezdés c) pontja a 285/2024. (IX. 30.) Korm. rendelet 196. § 8. pontja szerint módosított szöveg.
