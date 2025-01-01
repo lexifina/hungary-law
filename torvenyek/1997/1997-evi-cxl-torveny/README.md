@@ -48,3 +48,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-140-00-00
 | 2024-05-17 | 2024. évi XIII. törvény | 1997-140-00-00.62 |
 | 2024-07-01 | 2024. évi XIII. törvény | 1997-140-00-00.63 |
 | 2024-10-01 | 2024. évi XIII. törvény | 1997-140-00-00.64 |
+| 2025-01-01 | 2024. évi LXXVI. törvény | 1997-140-00-00.65 |

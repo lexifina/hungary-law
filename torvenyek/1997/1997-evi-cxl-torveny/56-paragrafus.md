@@ -20,4 +20,4 @@ d) információ a könyvtár és a könyvtári rendszer szolgáltatásairól.
 
 (5) A beiratkozott olvasó ingyenesen kölcsönözheti a nyomtatott és elektronikus könyvtári dokumentumokat.
 
-(6) A 16 éven aluliak és a 70 éven felüliek mentesülnek a beiratkozási díj megfizetése alól. A pedagógusok és a diákok más jogszabályban megállapítottak szerinti kedvezményekben részesülnek.
+(6) A 25 éven aluliak és a 70 éven felüliek mentesülnek a beiratkozási díj megfizetése alól. A pedagógusok és a diákok más jogszabályban megállapítottak szerinti kedvezményekben részesülnek.

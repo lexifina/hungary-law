@@ -6,7 +6,7 @@
 
 (2) A nyilvános könyvtári ellátásból adódó állami feladatokhoz a központi költségvetés hozzájárul:
 
-a) a nemzeti könyvtár, az állami egyetemi könyvtárak és az országos szakkönyvtárak esetében a fenntartó fejezeti költségvetésében, a Fővárosi Szabó Ervin Könyvtár esetében a helyi önkormányzatok költségvetési fejezetében,
+a) a nemzeti könyvtár, az államilag elismert felsőoktatási intézményi könyvtárak és az országos szakkönyvtárak esetében a fenntartó fejezeti költségvetésében, a Fővárosi Szabó Ervin Könyvtár esetében a helyi önkormányzatok költségvetési fejezetében,
 
 b) a vármegyei hatókörű városi könyvtári és a fővárosi könyvtári feladatok támogatásához a helyi önkormányzatok költségvetési fejezetében,
 

@@ -14,6 +14,6 @@ f) a területi szintű értéktárak összeállításának módszertani segíté
 
 g) a közművelődési tevékenységek szervezőinek, vezetőinek szakmai képzése és továbbképzése, szakkiadványok megjelentetése,
 
-h) a közművelődési minőségirányítási tevékenység koordinálása, képzések szervezése, a Minősített Közművelődési Intézmény Cím és a Közművelődési Minőségi Díj adományozásának szakmai előkészítése.
+h) a közművelődési minőségirányítási tevékenység koordinálása, képzések szervezése, a közművelődés minőségfejlesztésének alkalmazásával kiemelkedő teljesítményt nyújtó közművelődési szervezetek számára adományozandó miniszteri elismerések szakmai előkészítése.
 
 (2) A fővárosi közművelődési szakmai szolgáltató szervezet együttműködik az országos közművelődési szakmai szolgáltatást biztosító szervezettel.

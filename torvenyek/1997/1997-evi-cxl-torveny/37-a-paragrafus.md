@@ -65,3 +65,11 @@ b) állományában a nemzetiségi nyelvű vagy nemzetiségre vonatkozó kulturá
 (9) A nemzetiségi bázisintézmény címet a működési engedélyben kell feltüntetni.
 
 (10) A nemzetiségi bázisintézmény címmel rendelkező muzeális intézmény közművelődési programjaiban és állandó kiállításában a nemzetiségi kultúrát hangsúlyosan mutatja be.
+
+(11) Az állam, illetve a helyi önkormányzat által fenntartott muzeális intézmény
+
+a) költségvetési szervként, vagy
+
+b) az állam, illetve a helyi önkormányzat 100%-os tulajdonában álló nonprofit gazdasági társaságként
+
+működik.

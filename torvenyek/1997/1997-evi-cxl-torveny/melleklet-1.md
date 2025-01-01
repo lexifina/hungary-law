@@ -52,7 +52,7 @@ p) Gyűjteménygyarapítási és revíziós terv: A múzeumok gyűjteménygyarap
 
 q) Közművelődési szakember: a felsőfokú végzettségű népművelő (művelődésszervező, kulturális menedzser), valamint az e törvényben meghatározott közművelődési feladatok ellátásához szükséges felsőfokú végzettséggel vagy felső-, illetve középfokú szakképesítéssel rendelkező személy.
 
-r) Közművelődési tevékenység: a polgárok iskolán kívüli, öntevékeny, önművelő, megismerő, kultúraelsajátító, művelődő és alkotó célú cselekvése, amely jellemzően együttműködésben, közösségekben valósul meg.
+r) Közművelődési tevékenység: az állampolgárok iskolán kívüli, öntevékeny, önművelő, megismerő, kultúraelsajátító, művelődő és alkotó célú cselekvése, amely jellemzően együttműködésben, közösségekben valósul meg.
 
 s) Népművészet: valamely népművészeti ág (népköltészet, népzene, néptánc, díszítőművészet, népviselet, tárgyalkotó hagyományok) körébe tartozó olyan tudás, alkotás vagy kifejezési mód, amelyet a nép elsősorban a maga szükségletére hoz létre saját több nemzedéken átívelő hagyományai alapján.
 

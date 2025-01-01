@@ -1,4 +1,4 @@
-94. § (1) Az állami és önkormányzati fenntartású muzeális intézményekben, nyilvános könyvtárakban, közlevéltárakban, továbbá a közművelődési intézményben és a közösségi színtérben foglalkoztatott az lehet, aki
+94. § (1) Az állami és önkormányzati fenntartású muzeális intézményekben, nyilvános könyvtárakban, közlevéltárakban, továbbá a közművelődési szervezetben foglalkoztatott az lehet, aki
 
 a) cselekvőképes,
 
@@ -8,9 +8,11 @@ c) megfelel a miniszter rendeletében előírt képesítési és egyéb feltéte
 
 (2) Azt a tényt, hogy a foglalkoztatott vagy foglalkoztatni kívánt személy az (1) bekezdés b) pontjában meghatározott feltételnek megfelel, a tevékenység megkezdését megelőzően, illetve a tevékenységének gyakorlása alatt hatósági bizonyítvánnyal igazolja.
 
-(3) Az (1) bekezdés szerinti intézmény vezetői feladatainak ellátására a munkáltatói jogkör gyakorlója – a (3a) bekezdésben, valamint a 99/D. § (3) és (4) bekezdésében foglalt kivétellel – pályázatot ír ki. A pályázat kiírásának, benyújtásának és értékelésének rendjét a miniszter rendeletben határozza meg.
+(3) Az (1) bekezdés szerinti intézmény vezetői feladatainak ellátására a munkáltatói jogkör gyakorlója – a (3a) és (3b) bekezdésben, valamint a 99/D. § (3) és (4) bekezdésében foglalt kivétellel – pályázati, vagy a miniszter előzetes hozzájárulásával meghívásos eljárást alkalmaz. A pályázati, illetve meghívásos eljárás kiírásának, benyújtásának és értékelésének rendjét, valamint a meghívásos eljárás feltételeit a miniszter rendeletben határozza meg.
 
 (3a) A Magyar Nemzeti Múzeum Közgyűjteményi Központ (a továbbiakban: MNM KK) vezetőjét a miniszter nevezi ki, illetve menti fel.
+
+(3b) Az állami fenntartású, valamint bármely minisztérium tulajdonosi joggyakorlása alatt álló kulturális szervezet vezetőjét a fenntartói, illetve tulajdonosi jogokat gyakorló minisztérium minisztere nevezi ki, illetve menti fel.
 
 (4) Az e törvény hatálya alá tartozó intézményekben foglalkoztatott szakemberek szakmai tudásuk megújítása érdekében továbbképzésben vehetnek részt. A miniszter rendeletben szabályozza a továbbképzésnek minősülő képzési formák körét, valamint – az adópolitikáért felelős miniszterrel egyetértésben – a fizetendő igazgatási szolgáltatási díjak körét és azok mértékét. Az e törvény hatálya alá tartozó intézményekben foglalkoztatott szakemberek továbbképzésben való részvételéhez támogatás nyújtható.
 

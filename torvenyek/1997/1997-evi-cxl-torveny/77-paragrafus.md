@@ -16,6 +16,8 @@ e) alaptevékenysége körében nem gazdasági haszonszerzés céljából jön l
 
 f) részt vesz a kulturális alapellátás kiterjesztésében.
 
+g) feladatai ellátásában – fenntartójától függetlenül – együttműködik a többi közművelődési szervezettel, valamint a kulturális örökség más értékeit gondozó intézményekkel, így különösen a muzeális intézményekkel, a levéltárakkal és a könyvtárakkal, továbbá a tudományos köztestületekkel, a köznevelési intézményekkel, a szakképző intézményekkel és a felsőoktatási intézményekkel.
+
 (4) Az állam, a települési önkormányzat, a nemzetiségi önkormányzat vagy az önkormányzati társulás által fenntartott közművelődési intézmény az állam vagy az önkormányzat 100%-os tulajdonában álló nonprofit gazdasági társaságként vagy költségvetési szervként működik.
 
 (5) A közművelődési intézmény típusa – jogszabályban meghatározott szakmai, személyi és infrastrukturális feltételek megléte esetén – lehet:

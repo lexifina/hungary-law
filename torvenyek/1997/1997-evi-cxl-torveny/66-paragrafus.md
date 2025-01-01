@@ -18,7 +18,7 @@ h) megállapodás alapján biztosítja a települési önkormányzatok számára
 
 i) koordinálja a települési könyvtárak fejlesztését, ennek keretében javaslatot tesz a vármegyében működő városi könyvtárak és a települési nyilvános könyvtárak fenntartóinak a könyvtár fejlesztésére a miniszter rendeletében meghatározott szakmai követelmények érvényesítése érdekében,
 
-j) koordinálja a települési könyvtárak minősítésének előkészítését,
+j) koordinálja a vármegyében működő települési könyvtárak minősítésének előkészítését,
 
 k) ellátja az Országos Dokumentumellátási Rendszerről szóló kormányrendeletben a szolgáltató könyvtár számára meghatározott feladatokat,
 

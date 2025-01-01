@@ -2,7 +2,7 @@
 
 45. § (1) A vármegyei hatókörű városi múzeum feladata a kulturális javak helyi védelmének települési szintet meghaladó, egy vármegye közigazgatási területére kiterjedő biztosítása.
 
-(2) A vármegyei hatókörű városi múzeumi feladatok ellátásáról a vármegyeszékhely megyei jogú város önkormányzata – Pest megyében Szentendre Város Önkormányzata, Komárom-Esztergom vármegyében Tata Város Önkormányzata – költségvetési szervként működő vármegyei hatókörű városi múzeum fenntartásával gondoskodik.
+(2) A vármegyei hatókörű városi múzeumi feladatok ellátásáról a vármegyeszékhely megyei jogú város önkormányzata – Pest megyében Szentendre Város Önkormányzata, Komárom-Esztergom vármegyében Tata Város Önkormányzata – vármegyei hatókörű városi múzeum fenntartásával gondoskodik.
 
 (3) A vármegyei hatókörű városi múzeum fenntartója tagintézményeket működtethet.
 

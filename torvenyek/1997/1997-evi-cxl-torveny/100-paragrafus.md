@@ -54,7 +54,7 @@ b) a hűségprogramokra vonatkozó szabályokat.
 
 (3) Felhatalmazást kap a miniszter, hogy rendeletben szabályozza
 
-a) a közművelődési intézmények, a közösségi színterek, a könyvtárak és könyvtári tevékenységet folytató szervezetek, a muzeális intézmények és a levéltárak minősítési eljárását, a szakmai minősítő testület létrehozását és működését, a minősítési eljárásban szakértőként való közreműködés feltételeit, a minősítési eljárás során kiadható minősítést és a minőségi díjat, a minősítési eljárásért fizetendő díjra vonatkozó szabályokat és a befolyt összeg felhasználásának szabályait,
+a) a közművelődési intézmények, a közösségi színterek, a könyvtárak és könyvtári tevékenységet folytató szervezetek, a muzeális intézmények és a levéltárak minősítési eljárását, a szakmai minősítő testület létrehozását és működését, a minősítési eljárásban szakértőként való közreműködés feltételeit, a minősítési eljárás során kiadható minősítést és a minőségi díjat,
 
 b) a múzeum, valamint az országos szakkönyvtár és a vármegyei hatókörű városi könyvtár éves munkatervéhez szükséges szakmai mutatókat,
 
@@ -90,7 +90,7 @@ q) az Országos Idegennyelvű Könyvtár jogállását,
 
 r)
 
-s) a közművelődési intézmény és az állami vagy önkormányzati fenntartású muzeális intézmény, nyilvános könyvtár, közlevéltár vezetőjének megválasztására irányuló pályázat tartalmára és a pályázati eljárásra vonatkozó szabályokat, valamint a pályázatok elbírálásának rendjét, továbbá a közművelődési intézményben, a közösségi színtérben és az állami vagy önkormányzati fenntartású muzeális intézményben, nyilvános könyvtárban, közlevéltárban foglalkoztatottak munkaköreit, valamint a munkakörök és a vezető beosztás betöltéséhez szükséges képesítési és egyéb feltételeket,
+s) a közművelődési intézmény és az állami vagy önkormányzati fenntartású muzeális intézmény, nyilvános könyvtár, közlevéltár vezetőjének megválasztására irányuló pályázat tartalmára és a pályázati eljárásra, illetve meghívásos eljárásra vonatkozó szabályokat, valamint a pályázatok elbírálásának rendjét, továbbá a közművelődési intézményben, a közösségi színtérben és az állami vagy önkormányzati fenntartású muzeális intézményben, nyilvános könyvtárban, közlevéltárban foglalkoztatottak munkaköreit, valamint a munkakörök és a vezető beosztás betöltéséhez szükséges képesítési és egyéb feltételeket,
 
 t) az integrált kulturális intézmény működését,
 

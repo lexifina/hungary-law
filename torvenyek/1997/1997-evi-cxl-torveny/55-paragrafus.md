@@ -24,4 +24,6 @@ k) a szolgáltatásait a könyvtári minőségirányítás szempontjait figyelem
 
 (1a) A nyilvános könyvtár az általa üzemeltetett, kiskorúak által is használható, internet-hozzáféréssel rendelkező számítógépek használatát a kiskorúak védelmét lehetővé tevő, könnyen telepíthető és használható, magyar nyelvű szoftverrel ellátva biztosítja a kiskorúak lelki, testi és értelmi fejlődésének védelme érdekében.
 
+(1b) A nyilvános könyvtárak feladataik ellátásában – fenntartójuktól függetlenül – együttműködnek egymással, valamint a kulturális örökség más értékeit gondozó intézményekkel, így különösen a muzeális intézményekkel, a levéltárakkal és a közművelődési szervezetekkel, továbbá a tudományos köztestületekkel, a köznevelési intézményekkel, a szakképző intézményekkel és a felsőoktatási intézményekkel.
+
 (2) A fenntartó kiegészítő feladatokat is meghatározhat.
