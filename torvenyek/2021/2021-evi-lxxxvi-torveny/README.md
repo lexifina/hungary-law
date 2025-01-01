@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-86-00-00
 | 2022-01-01 | 2021. évi CXXXII. törvény | 2021-86-00-00.3 |
 | 2022-01-02 | 2010. évi CXXX. törvény | 2021-86-00-00.4 |
 | 2023-01-01 | 2022. évi LXVIII. törvény | 2021-86-00-00.5 |
+| 2025-01-01 | 2024. évi LVI. törvény | 2021-86-00-00.6 |
