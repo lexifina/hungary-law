@@ -74,11 +74,7 @@ Határidő: a 10. és 11. pont szerinti forrás biztosítását követő 30 napo
 
 16. a Fiatalokért Központ kialakítása beruházásnak az állami magasépítési beruházásokról szóló 299/2018. (XII. 27.) Korm. rendelet 4. § a), b), c), e), f), k), l) és n)–p) pontja szerinti előkészítési fázisai 2022. június 30. napjáig történő teljesítése érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 210 234 000 forintban határozza meg;
 
-17. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva a 2021. évi Kvtv. 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 3. Gazdaság-újraindítási Alap – Kiemelt Kormányzati Magasépítési Beruházások cím, 1. Egyedi magasépítési beruházások alcímet az 55. Fiatalokért Központ kialakítása beruházás előkészítése jogcímcsoporttal egészíti ki;
-
-Felelős: pénzügyminiszter
-
-Határidő: azonnal
+17.[^1]
 
 18. felhívja a pénzügyminisztert, hogy a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter kezdeményezése alapján gondoskodjon a 16. pont szerinti összeg 2021. évi részének finanszírozása érdekében 31 762 000 forint biztosításáról a 17. pont szerinti előirányzat javára;
 
@@ -126,16 +122,17 @@ innovációért és technológiáért felelős miniszter
 
 Határidő: a felmerülés ütemében
 
-24.[^1] egyetért azzal, hogy a 10. és 11. pont kapcsán további központi költségvetési többletforrás biztosítása nem szükséges.
+24.[^2] egyetért azzal, hogy a 10. és 11. pont kapcsán további központi költségvetési többletforrás biztosítása nem szükséges.
 
-25.[^2] felhívja a pénzügyminisztert, hogy – a kultúráért és innovációért felelős miniszter bevonásával – a 3. pont b) alpontja szerinti Fiatalokért Központ kialakítását érintő, az 1. pont szerinti egységes érintett fejlesztési területek összehangolt infrastrukturális szükségleteihez, valamint az infrastrukturális hálózatok elhelyezéséhez kapcsolódó előkészítő tevékenység megvalósulása érdekében gondoskodjon 2 000 000 000 forint forrás biztosításáról elszámolási és visszafizetési kötelezettség előírásával a Magyarország 2024. évi központi költségvetéséről szóló 2023. évi LV. törvény 1. melléklet XX. Kulturális és Innovációs Minisztérium fejezet, 20. Fejezeti Kezelésű Előirányzatok cím, 12. Felsőoktatási feladatok alcím, 2. Felsőoktatás speciális feladatai jogcímcsoport javára;
+25.[^3] felhívja a pénzügyminisztert, hogy – a kultúráért és innovációért felelős miniszter bevonásával – a 3. pont b) alpontja szerinti Fiatalokért Központ kialakítását érintő, az 1. pont szerinti egységes érintett fejlesztési területek összehangolt infrastrukturális szükségleteihez, valamint az infrastrukturális hálózatok elhelyezéséhez kapcsolódó előkészítő tevékenység megvalósulása érdekében gondoskodjon 2 000 000 000 forint forrás biztosításáról elszámolási és visszafizetési kötelezettség előírásával a Magyarország 2024. évi központi költségvetéséről szóló 2023. évi LV. törvény 1. melléklet XX. Kulturális és Innovációs Minisztérium fejezet, 20. Fejezeti Kezelésű Előirányzatok cím, 12. Felsőoktatási feladatok alcím, 2. Felsőoktatás speciális feladatai jogcímcsoport javára;
 
 | Felelős: | pénzügyminiszter kultúráért és innovációért felelős miniszter |
 
 | Határidő: | azonnal |
 
-26.[^3] egyetért azzal, hogy a 25. pontban foglalt feladatokat a Velencei-tó és Térsége, Váli-völgy, Vértes Térségi Fejlesztési Tanács valósítsa meg.
+26.[^4] egyetért azzal, hogy a 25. pontban foglalt feladatokat a Velencei-tó és Térsége, Váli-völgy, Vértes Térségi Fejlesztési Tanács valósítsa meg.
 
-[^1]: A 24. pontot az 1291/2024. (IX. 19.) Korm. határozat 85. pontja iktatta be.
-[^2]: A 25. pontot az 1453/2024. (XII. 31.) Korm. határozat iktatta be.
-[^3]: A 26. pontot az 1453/2024. (XII. 31.) Korm. határozat iktatta be.
+[^1]: A 17. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: A 24. pontot az 1291/2024. (IX. 19.) Korm. határozat 85. pontja iktatta be.
+[^3]: A 25. pontot az 1453/2024. (XII. 31.) Korm. határozat szövege iktatta be.
+[^4]: A 26. pontot az 1453/2024. (XII. 31.) Korm. határozat szövege iktatta be.
