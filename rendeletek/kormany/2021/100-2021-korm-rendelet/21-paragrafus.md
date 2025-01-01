@@ -24,9 +24,9 @@ j) a munkaerőpiaci programban foglalt támogatás jogcímét.
 
 (3) A munkaerőpiaci program a támogatás mellett szolgáltatást is tartalmazhat.
 
-(4)[^48] A munkaerőpiaci program – a munkaerőpiaci programban való részvétel objektív feltételeinek meghatározásán túl – tartalmazhat ütemezést is a programba való bevonások kapcsán.
+(4)[^49] A munkaerőpiaci program – a munkaerőpiaci programban való részvétel objektív feltételeinek meghatározásán túl – tartalmazhat ütemezést is a programba való bevonások kapcsán.
 
-(5)[^49] A munkaerőpiaci program tartalmazhat a támogatások nyújtásával kapcsolatos olyan mérlegelési szempontokat, mely alapján a kormányhivatal és a járási hivatal figyelembe veszi:
+(5)[^50] A munkaerőpiaci program tartalmazhat a támogatások nyújtásával kapcsolatos olyan mérlegelési szempontokat, mely alapján a kormányhivatal és a járási hivatal figyelembe veszi:
 
 a) a munkaerő-kereslet és -kínálat helyi jellemzőit,
 
@@ -40,5 +40,5 @@ e) az álláskeresők munkához jutási esélyeit, ezen túlmenően
 
 f) a megváltozott munkaképességű személyeket érintő támogatások esetében a foglalkoztatás körülményeit.
 
-[^48]: A 21. § (4) bekezdését a 687/2023. (XII. 29.) Korm. rendelet 13. §-a iktatta be.
-[^49]: A 21. § (5) bekezdését a 687/2023. (XII. 29.) Korm. rendelet 13. §-a iktatta be.
+[^49]: A 21. § (4) bekezdését a 687/2023. (XII. 29.) Korm. rendelet 13. §-a iktatta be.
+[^50]: A 21. § (5) bekezdését a 687/2023. (XII. 29.) Korm. rendelet 13. §-a iktatta be.

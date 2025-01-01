@@ -12,7 +12,7 @@ c) a foglalkoztató székhelye, telephelye vagy a munkavégzés helye
 
 szerint illetékes állami foglalkoztatási szerv jár el.
 
-(3)[^52] A (2) bekezdéstől eltérően, a munkaerőpiaci program keretében nyújtott támogatással kapcsolatos kérelemre induló hatósági ügyben – a munkaerőpiaci programban meghatározottak szerint –
+(3)[^53] A (2) bekezdéstől eltérően, a munkaerőpiaci program keretében nyújtott támogatással kapcsolatos kérelemre induló hatósági ügyben – a munkaerőpiaci programban meghatározottak szerint –
 
 a) az álláskereső vagy szolgáltatást kérő lakóhelye vagy tartózkodási helye,
 
@@ -24,4 +24,4 @@ d) az álláskereső vagy szolgáltatást kérő Flt. szerinti nyilvántartási 
 
 szerint illetékes állami foglalkoztatási szerv jár el.
 
-[^52]: A 25. § (3) bekezdését a 687/2023. (XII. 29.) Korm. rendelet 15. §-a iktatta be.
+[^53]: A 25. § (3) bekezdését a 687/2023. (XII. 29.) Korm. rendelet 15. §-a iktatta be.

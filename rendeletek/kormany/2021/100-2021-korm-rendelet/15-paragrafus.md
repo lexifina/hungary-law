@@ -8,11 +8,11 @@ b) a munkaközvetítést kéri, és
 
 c) vállalja, hogy
 
-ca)[^22] fogadja az állami foglalkoztatási szerv által kiállított közvetítő lappal vagy ajánlattételi lappal megjelenő személyeket, és a közvetítő lap esetén igazolja azon a munkaközvetítés eredményét, és
+ca)[^23] fogadja az állami foglalkoztatási szerv által kiállított közvetítő lappal vagy ajánlattételi lappal megjelenő személyeket, és a közvetítő lap esetén igazolja azon a munkaközvetítés eredményét, és
 
 cb) fogadja az állami foglalkoztatási szerv képviselőjét, valamint tájékoztatja őt a foglalkoztatás körülményeiről.
 
-(2)[^23] Az állami foglalkoztatási szerv a munkaközvetítés során csak olyan szolgáltatást kérő számára állít ki közvetítő lapot vagy ajánlattételi lapot, aki megfelel a munkaerőigényben rögzített feltételeknek.
+(2)[^24] Az állami foglalkoztatási szerv a munkaközvetítés során csak olyan szolgáltatást kérő számára állít ki közvetítő lapot vagy ajánlattételi lapot, aki megfelel a munkaerőigényben rögzített feltételeknek.
 
-[^22]: A 15. § (1) bekezdés c) pont ca) alpontja a 687/2023. (XII. 29.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^23]: A 15. § (2) bekezdése a 687/2023. (XII. 29.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^23]: A 15. § (1) bekezdés c) pont ca) alpontja a 687/2023. (XII. 29.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^24]: A 15. § (2) bekezdése a 687/2023. (XII. 29.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.

@@ -1,4 +1,4 @@
-## 14/E.[^83] Hátrányos helyzetű munkavállalók segítésének költségeit ellentételező támogatás
+## 14/E.[^84] Hátrányos helyzetű munkavállalók segítésének költségeit ellentételező támogatás
 
 30/E. § (1) A hátrányos helyzetű munkavállalók segítésének költségeit ellentételező támogatás e rendelet keretében a hátrányos helyzetű munkavállalót felvevő munkáltatónak nyújtható, beleértve a szakképzési munkaszerződéssel foglalkoztatott azon munkavállalót is, akinek a képzéséhez a járási hivatal támogatást nyújt a munkaerőpiaci programban foglaltak szerint.
 
@@ -16,4 +16,4 @@ b) megkönnyítik a munkáltatóval való kommunikációt és a konfliktusok kez
 
 (4) A támogatási intenzitás nem haladhatja meg az elszámolható költségek 50%-át.
 
-[^83]: A 14/E. alcímet (30/E. §-t) a 297/2024. (X. 14.) Korm. rendelet 18. §-a iktatta be.
+[^84]: A 14/E. alcímet (30/E. §-t) a 297/2024. (X. 14.) Korm. rendelet 18. §-a iktatta be.

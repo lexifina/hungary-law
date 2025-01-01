@@ -2,7 +2,7 @@
 
 ## Pszichológiai tanácsadás nyújtásának személyi feltétele: szakirányú végzettség.
 
-2. melléklet a 100/2021. (II. 27.) Korm. rendelethez[^113]
+2. melléklet a 100/2021. (II. 27.) Korm. rendelethez[^114]
 
 A 42/B. § (1) bekezdés a) pontja és a 42/B. § (2) bekezdés a) pontja szerinti támogatásként adható, költségtérítés szempontjából figyelembe vehető kiadások köre
 
@@ -26,4 +26,4 @@ A 42/B. § (1) bekezdés a) pontja és a 42/B. § (2) bekezdés a) pontja szerin
 
 10. A gyakorlati képzést bonyolító munkaadónak a gyakorlati képzésben részt vevő személy megváltozott munkaképességéből adódó többletköltségek.
 
-[^113]: A 2. mellékletet a 297/2024. (X. 14.) Korm. rendelet 23. §-a iktatta be.
+[^114]: A 2. mellékletet a 297/2024. (X. 14.) Korm. rendelet 23. §-a iktatta be.

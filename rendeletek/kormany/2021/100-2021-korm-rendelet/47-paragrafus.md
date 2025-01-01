@@ -8,19 +8,19 @@
 
 (3) E rendelet hatálybalépése előtt meghirdetett hazai vagy uniós támogatási program keretein belül indított munkaerőpiaci programok támogatásaira, valamint a meghirdetett támogatásokra a hatálybalépést megelőző szabályozást kell alkalmazni.
 
-(4)[^106]
+(4)[^107]
 
-(5)[^107]
+(5)[^108]
 
-(6)[^108] E rendelet alapján
+(6)[^109] E rendelet alapján
 
 a) a 14/A. alcím szerinti támogatás esetén 2031. június 30-ig és a 14/B. alcím szerinti támogatás esetén 2028. június 30-ig,
 
-b)[^109] a 14/C–14/E. alcím szerinti támogatás esetén 2027. június 30-ig
+b)[^110] a 14/C–14/E. alcím szerinti támogatás esetén 2027. június 30-ig
 
 lehet támogatási döntést hozni.
 
-[^106]: A 47. § (4) bekezdését a 297/2024. (X. 14.) Korm. rendelet 25. §-a hatályon kívül helyezte.
-[^107]: A 47. § (5) bekezdését a 297/2024. (X. 14.) Korm. rendelet 25. §-a hatályon kívül helyezte.
-[^108]: A 47. § (6) bekezdését a 687/2023. (XII. 29.) Korm. rendelet 26. §-a iktatta be.
-[^109]: A 47. § (6) bekezdés b) pontja a 297/2024. (X. 14.) Korm. rendelet 24. § m) pontja szerint módosított szöveg.
+[^107]: A 47. § (4) bekezdését a 297/2024. (X. 14.) Korm. rendelet 25. §-a hatályon kívül helyezte.
+[^108]: A 47. § (5) bekezdését a 297/2024. (X. 14.) Korm. rendelet 25. §-a hatályon kívül helyezte.
+[^109]: A 47. § (6) bekezdését a 687/2023. (XII. 29.) Korm. rendelet 26. §-a iktatta be.
+[^110]: A 47. § (6) bekezdés b) pontja a 297/2024. (X. 14.) Korm. rendelet 24. § m) pontja szerint módosított szöveg.

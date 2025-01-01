@@ -1,4 +1,4 @@
-42/B. §[^98] (1) Az álláskereső munkaerőpiaci képzéséhez ajánlott képzés esetén az állami foglalkoztatási szerv az álláskereső munkába állásának elősegítése érdekében az alábbi formában nyújthat támogatást:
+42/B. §[^99] (1) Az álláskereső munkaerőpiaci képzéséhez ajánlott képzés esetén az állami foglalkoztatási szerv az álláskereső munkába állásának elősegítése érdekében az alábbi formában nyújthat támogatást:
 
 a) a munkaerőpiaci képzés költségéhez nyújtott támogatás, amely magában foglalhatja a vizsgadíjat is, valamint a képzés ideje alatt biztosított gyermekfelügyelet megszervezésének költségét is, amennyiben azt a képző intézmény szervezi meg,
 
@@ -30,4 +30,4 @@ b) az (1) bekezdés c) pontjában meghatározott utazási költség.
 
 (8) A nyelvi képzésben történő részvétel akkor támogatható, ha az az álláskereső foglalkoztathatóságának javítását szolgálja.
 
-[^98]: A 42/B. §-t a 297/2024. (X. 14.) Korm. rendelet 22. §-a iktatta be.
+[^99]: A 42/B. §-t a 297/2024. (X. 14.) Korm. rendelet 22. §-a iktatta be.

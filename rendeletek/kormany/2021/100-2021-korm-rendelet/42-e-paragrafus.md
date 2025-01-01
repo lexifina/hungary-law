@@ -1,4 +1,4 @@
-42/E. §[^101] (1) A kormányhivatal a 42/D. § (1) bekezdése vagy a 42/G. § (4) bekezdése szerinti képző intézmények által nyújtott képzést szervező intézménnyel – ha van olyan személy, aki a képző intézmény által nyújtott képzésben részt fog venni, és ehhez a járási hivataltól támogatásban részesül – együttműködési megállapodást köt. Az együttműködési megállapodás tartalmazza
+42/E. §[^102] (1) A kormányhivatal a 42/D. § (1) bekezdése vagy a 42/G. § (4) bekezdése szerinti képző intézmények által nyújtott képzést szervező intézménnyel – ha van olyan személy, aki a képző intézmény által nyújtott képzésben részt fog venni, és ehhez a járási hivataltól támogatásban részesül – együttműködési megállapodást köt. Az együttműködési megállapodás tartalmazza
 
 a) az intézmény által nyújtott, a 42/D. § (2) bekezdése vagy a 42/G. § (2) és (3) bekezdése szerinti képzések időtartamát, a képzési költség átvállalt része átutalásának feltételeit és ütemezését,
 
@@ -26,4 +26,4 @@ e) egyéb, a felek által fontosnak tartott feltételeket.
 
 (2) A képzési költség megállapítása szempontjából a 2. mellékletben foglaltakat lehet figyelembe venni, további költségeket a képző intézmény sem az állami foglalkoztatási szervként eljáró kormányhivataltól, sem a képzésbe vont személytől nem követelhet.
 
-[^101]: A 42/E. §-t a 297/2024. (X. 14.) Korm. rendelet 22. §-a iktatta be.
+[^102]: A 42/E. §-t a 297/2024. (X. 14.) Korm. rendelet 22. §-a iktatta be.

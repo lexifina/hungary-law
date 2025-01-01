@@ -4,11 +4,11 @@
 
 a) megfelel a foglalkoztatás-felügyeleti hatóság tevékenységéről szóló kormányrendelet alapján a rendezett munkaügyi kapcsolatok követelményének,
 
-b)[^50] megfelel az állami foglalkoztatási szerv által nyújtott korábbi támogatás tekintetében a vállalt kötelezettségek teljesítése kapcsán lefolytatott ellenőrzésen, vagy a munkaerőpiaci ellenőrzés során megállapított kötelezettségeinek határidőben eleget tett, és
+b)[^51] megfelel az állami foglalkoztatási szerv által nyújtott korábbi támogatás tekintetében a vállalt kötelezettségek teljesítése kapcsán lefolytatott ellenőrzésen, vagy a munkaerőpiaci ellenőrzés során megállapított kötelezettségeinek határidőben eleget tett, és
 
-c)[^51]
+c)[^52]
 
 d) megfelel az e rendeletben, illetve a munkaerőpiaci programban foglalt feltételeknek.
 
-[^50]: A 23. § b) pontja a 687/2023. (XII. 29.) Korm. rendelet 14. §-ával megállapított szöveg.
-[^51]: A 23. § c) pontját a 408/2021. (VII. 8.) Korm. rendelet 1. §-a hatályon kívül helyezte.
+[^51]: A 23. § b) pontja a 687/2023. (XII. 29.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^52]: A 23. § c) pontját a 408/2021. (VII. 8.) Korm. rendelet 1. §-a hatályon kívül helyezte.

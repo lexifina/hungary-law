@@ -1,4 +1,4 @@
-## 14/D.[^82] Hátrányos helyzetű munkavállalók felvételéhez bértámogatás formájában nyújtott támogatás európai uniós pénzügyi szabályai
+## 14/D.[^83] Hátrányos helyzetű munkavállalók felvételéhez bértámogatás formájában nyújtott támogatás európai uniós pénzügyi szabályai
 
 30/D. § (1) A hátrányos helyzetű munkavállaló felvételéhez bértámogatás formájában nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) keretében a hátrányos helyzetű munkavállaló felvételét követő legfeljebb 12 hónap bérköltsége, súlyosan hátrányos helyzetű munkavállaló esetén a felvételt követő legfeljebb 24 hónap bérköltsége számolható el.
 
@@ -12,4 +12,4 @@
 
 (6) A támogatási intenzitás nem haladhatja meg az elszámolható költségek 50%-át.
 
-[^82]: A 14/D. alcímet (30/D. §-t) a 687/2023. (XII. 29.) Korm. rendelet 18. §-a iktatta be.
+[^83]: A 14/D. alcímet (30/D. §-t) a 687/2023. (XII. 29.) Korm. rendelet 18. §-a iktatta be.
