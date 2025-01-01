@@ -1,0 +1,1 @@
+1. § Hatályát veszti a levegőterheltségi szint és a helyhez kötött légszennyező források kibocsátásának vizsgálatával, ellenőrzésével, értékelésével kapcsolatos szabályokról szóló 6/2011. (I. 14.) VM rendelet 19. § (6) bekezdése.
