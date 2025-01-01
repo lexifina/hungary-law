@@ -1,14 +1,6 @@
 ## 1. támogatja a tatabányai egykori bányakórház katolikus gimnáziummá fejlesztéséhez szükséges beruházás II. ütemének megvalósítását (a továbbiakban: Beruházás);
 
-## 2. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (2) bekezdésében biztosított jogkörében eljárva, a Beruházás megvalósításához 1 084 550 001 forint egyszeri átcsoportosítását rendeli el a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény (a továbbiakban: Kvtv2021.) 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 1. Gazdaság újraindítását szolgáló miniszterelnökségi fejezeti kezelésű előirányzatok alcím, 2. Modern Városok Program jogcímcsoport terhére, a Kvtv2021. 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 1. Gazdaság újraindítását szolgáló miniszterelnökségi fejezeti kezelésű előirányzatok alcím, 3. Egyházi működési, program és fejlesztési támogatások jogcímcsoport javára, az 1. melléklet szerint;
-
-## Felelős: pénzügyminiszter
-
-## Miniszterelnökséget vezető miniszter
-
-## a miniszterelnök általános helyettese
-
-## Határidő: azonnal
+## 2.[^1]
 
 ## 3. felhívja a miniszterelnök általános helyettesét, hogy – a Miniszterelnökséget vezető miniszter bevonásával – a Beruházás megvalósításához a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény (a továbbiakban: Kvtv2022.) 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 1. Gazdaság újraindítását szolgáló miniszterelnökségi fejezeti kezelésű előirányzatok alcím, 2. Modern Városok Program jogcímcsoport terhére, a Kvtv2022. 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 1. Gazdaság újraindítását szolgáló miniszterelnökségi fejezeti kezelésű előirányzatok alcím, 3. Egyházi működési, program és fejlesztési támogatások jogcímcsoport javára 1 084 550 002 forint egyszeri átcsoportosítása céljából nyújtson be előterjesztést az Áht. 33. § (2) bekezdése szerinti döntés kezdeményezése érdekében;
 
@@ -30,70 +22,10 @@
 
 ## Határidő: a 3. pontban meghatározott forrás rendelkezésre állását követően azonnal
 
-## 6.[^1]
+## 6.[^2]
 
-1. melléklet az 1636/2021. (IX. 14.) Korm. határozathoz
+1. melléklet az 1636/2021. (IX. 14.) Korm. határozathoz[^3]
 
-| XLVII. Gazdaság-újraindítási Alap ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA Költségvetési év: 2021. forintban |
-
-| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | K I A D Á S O K | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XLVII. |  |  |  |  |  | Gazdaság-újraindítási Alap |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 2 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 1 |  |  |  |  |  | Gazdaság újraindítását szolgáló miniszterelnökségi fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 358951 |  |  |  | 2 |  |  |  |  |  | Modern Városok Program |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K8 |  |  |  |  |  | Egyéb felhalmozási célú kiadások |  |  |  |  |  |  |  |  | -1 084 550 001 |  |  |  |
-
-| 386728 |  |  |  | 3 |  |  |  |  |  | Egyházi működési, program és fejlesztési támogatások |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K3 |  |  |  |  |  | Dologi kiadások |  |  |  |  |  |  |  |  | 542 004 |  |  |  |
-
-|  |  |  |  |  |  | K8 |  |  |  |  |  | Egyéb felhalmozási célú kiadások |  |  |  |  |  |  |  |  | 1 084 007 997 |  |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | forintban |
-
-| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | B E V É T E L | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | forintban |
-
-| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | T Á M O G A T Á S | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XLVII. |  |  |  |  |  | Gazdaság-újraindítási Alap |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 2 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 1 |  |  |  |  |  | Gazdaság újraindítását szolgáló miniszterelnökségi fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 358951 |  |  |  | 2 |  |  |  |  |  | Modern Városok Program |  |  |  |  |  |  |  |  |  |  | -1 084 550 001 |  |  |  |
-
-| 386728 |  |  |  | 3 |  |  |  |  |  | Egyházi működési, program és fejlesztési támogatások |  |  |  |  |  |  |  |  | 1 084 550 001 |  |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  |  |  |  |  |  |  | Foglalkoztatottak létszáma (fő) - időszakra |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Az adatlap 1 eredeti példányban töltendő ki | A támogatás folyósítása/zárolása (módosítása +/-) |  |  | Összesen |  |  |  |  |  |  |  |  | I. n.év | II. n.év | III. n.év | IV. n.év |
-
-| Magyar Államkincstár 1 példány |  |  | időarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | teljesítésarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | egyéb: | azonnal |  |  | 1 084 550 001 |  |  |  |  |  |  |  |  |  |  | 1 084 550 001 |  |
-
-| * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 2. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
