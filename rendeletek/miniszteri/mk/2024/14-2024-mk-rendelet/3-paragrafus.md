@@ -1,0 +1,1 @@
+3. § A 36/2011. (XII. 23.) KIM rendelet 2. § a) pontjában az „a tevékenységek egységes osztályozási rendszere” szövegrész helyébe az „a Gazdasági tevékenységek egységes osztályozási rendszere” szöveg lép.
