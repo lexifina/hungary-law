@@ -1,0 +1,5 @@
+17. § (1) Amennyiben a 16. § szerinti automatikus kapcsolat fennáll a külföldi számlarendszerrel, a hazai és külföldi származási garancia automatikusan, a külföldi származási garancia Hivatal általi elismerése nélkül átruházható a hazai és külföldi számlarendszer által nyilvántartott forgalmi számlák között.
+
+(2) A Hivatal kérelem alapján ismeri el a külföldi származási garanciát, ha nem valósul meg a 16. § szerinti automatikus kapcsolat a számlarendszerek között. Ez esetben a külföldi származási garancia elismerésének minősül a külföldi származási garancia valamely felhasználó magyarországi felhasználási helyére történt, külföldi számlarendszerben végbement felhasználásának a Hivatal általi jóváhagyása.
+
+(3) Külföldi származási garancia elismerése iránti kérelem tartalmazza a felhasználó és a felhasználási hely azonosító adatait, valamint a villamosenergia-felhasználás időszaka kezdő és záró időpontjának megjelölését. A felhasználási időszak egy vagy több tárgyhónap lehet. A külföldi származási garancia elismerése iránti kérelem előterjesztése a származási garancia lejárata előtt legalább 40 nappal lehetséges.
