@@ -1,3 +1,5 @@
-9. §[^9]
+9. § (1) Ha jogszabály eltérően nem rendelkezik, a központi szolgáltató az e rendeletben meghatározott rendszerek, alkalmazások adatfeldolgozója.
 
-[^9]: A 9. § a 13. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+(2) A központi szolgáltató számára az e rendeletben meghatározott szolgáltatásai ellátását szolgáló felhasználási jogokat biztosítani szükséges.
+
+(3) Az e rendeletben meghatározott rendszerek, alkalmazások adatfeldolgozási és a szerzői jogi feltételeit a közszolgáltatási szerződés vagy a direktfinanszírozási szerződés szabályozza.

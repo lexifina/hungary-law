@@ -1,3 +1,1 @@
-11. §[^11]
-
-[^11]: A 11. § a 13. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+11. § A kormányzati célú hálózatokról szóló 346/2010. (XII. 28.) Korm. rendelet szerint a kormányzati célú elkülönült hírközlési tevékenység végzésére jogosult szervek az elkülönült hírközlő hálózattal összefüggő tevékenységek és szolgáltatások körében nem kötelesek a központosított informatikai és elektronikus hírközlési szolgáltatásokat igénybe venni.

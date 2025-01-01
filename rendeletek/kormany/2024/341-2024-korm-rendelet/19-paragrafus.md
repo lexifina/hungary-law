@@ -1,3 +1,3 @@
-19. §[^17]
+19. § (1) Ez a rendelet a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
-[^17]: A 19. § a 13. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+(2) E rendeletnek a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv szerinti előzetes bejelentése megtörtént.

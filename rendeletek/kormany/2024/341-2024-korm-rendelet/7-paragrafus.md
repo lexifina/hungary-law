@@ -1,3 +1,5 @@
-7. §[^7]
+7. § (1) Tárgyévben a norma szerinti alapszintű szolgáltatások esetében keletkező új igény esetén a nyújtandó szolgáltatás tárgyévre eső költségvetési fedezetét – költségvetési előirányzattal nem rendelkező igénybevevő esetén az ellentételezését – az igénybevevő biztosítja direktfinanszírozási szerződés keretében.
 
-[^7]: A 7. § a 13. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+(2) Az igénybevevő az (1) bekezdés szerinti szerződés központi szolgáltatóval történő megkötésének kezdeményezése előtt egyeztet a DMÜ-vel a szolgáltatási igénynek – a felmerülést követő költségvetési év első napjától, és amennyiben az adott szolgáltatás esetében értelmezhető – norma szerinti alapszintű szolgáltatásként a közszolgáltatási szerződés keretében történő biztosításáról. A norma szerinti alapszintű szolgáltatás körébe tartozó szolgáltatás ellentételezéséhez szükséges forrás költségvetési fedezetét az igény felmerülését követő költségvetési években a központi költségvetés tervezése során a miniszter által vezetett minisztérium fejezetében kell biztosítani, ennek hiányában az igénybevevő gondoskodik a költségvetési fedezetnek a miniszter által vezetett minisztérium fejezetébe történő átcsoportosításáról.
+
+(3) A (2) bekezdéstől eltérően a költségvetési előirányzattal nem rendelkező igénybevevő az igény felmerülését követő költségvetési évek vonatkozásában direktfinanszírozási szerződést is köthet a központi szolgáltatóval.

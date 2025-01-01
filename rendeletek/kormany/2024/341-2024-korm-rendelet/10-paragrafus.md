@@ -1,3 +1,13 @@
-10. §[^10]
+10. § (1) A központi szolgáltató az e rendelet szerinti közszolgáltatási szerződésben meghatározott közszolgáltatások teljesítése esetén, annak ellentételezéseként, a központosított közszolgáltatások nyújtásával összefüggésben felmerült nettó költségének (a továbbiakban: közszolgáltatás nettó költsége), valamint az e rendelet szerinti észszerű nyereségnek megtérítésére tarthat igényt.
 
-[^10]: A 10. § a 13. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+(2) A közszolgáltatások nettó költsége a központi szolgáltatónak a közszolgáltatások nyújtásával összefüggésben felmerült, objektív módon igazolható, az e rendeletben vagy más jogszabályban meghatározott szabályok szerint elszámolható, nettó módon számított közvetlen és közvetett költségeinek, továbbá ráfordításainak, beruházásainak és az állam javára jogszabály alapján fizetendő pénzbeli kötelezettségek összegének, és az azonos típusú szolgáltatások tárgyában megkötött, azonos időszakra vonatkozó direktfinanszírozási szerződések kapcsán – az e rendelet szerinti észszerű nyereség mértékén felül – esetlegesen keletkezett nyereség különbsége.
+
+(3) A közszolgáltatások nettó költségét a közszolgáltatási szerződésben meghatározott szolgáltatási időszak lezárulta után, közszolgáltatási szerződésenként utókalkulációval kell megállapítani.
+
+(4) A központi szolgáltató által a közszolgáltatási szerződés keretében felszámolható észszerű nyereség összege nem haladhatja meg az Európai Unió által közzétett, a közszolgáltatási szerződés megkötésének időpontjában érvényes releváns swapkamatláb 100 bázispontos felárral növelt mértéke és a vetítési alap szorzataként számított összeget. A közszolgáltatások ellentételezése részeként megtéríthető észszerű nyereség vetítési alapja a közszolgáltatás nettó költsége. A központi szolgáltató nem köteles a közszolgáltatási szerződésben észszerű nyereséget érvényesíteni.
+
+(5) A központi szolgáltató minden közszolgáltatási szerződés megkötése előtt az adott közszolgáltatási szerződés keretében nyújtott közszolgáltatások nettó költségére és az észszerű nyereségre vonatkozó előkalkulációt készít. A központi szolgáltató az (1) bekezdés rendelkezéseinek történő megfelelést az adott közszolgáltatási szerződésben szabályozott követelmények szerint benyújtott utókalkuláció alapján igazolja.
+
+(6) Az (1)–(5) bekezdésben foglaltaknak való megfelelésről a DMÜ gondoskodik.
+
+(7) A direktfinanszírozási szerződések esetében az észszerű nyereség vetítési alapja a direktfinanszírozási szerződés keretében nyújtott szolgáltatás nyújtásával kapcsolatban a központi szolgáltatónál felmerült, objektív módon igazolható, az e rendeletben vagy más jogszabályban meghatározott szabályok szerint elszámolható, nettó módon számított közvetlen és közvetett költségeinek, továbbá ráfordításainak, beruházásainak és az állam javára jogszabály alapján fizetendő pénzbeli kötelezettségek összege.

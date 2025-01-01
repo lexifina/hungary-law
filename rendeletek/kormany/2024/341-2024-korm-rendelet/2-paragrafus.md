@@ -1,3 +1,3 @@
-2. §[^2]
+2. § (1) A kötelezően a központi informatikai infrastruktúra és infokommunikációs szolgáltatótól igénybe veendő központosított informatikai és elektronikus hírközlési norma szerinti alapszintű közszolgáltatások, valamint norma feletti alapszintű és emelt szintű szolgáltatások köre a 3. § alapján a szolgáltatáskatalógusban kerül rögzítésre.
 
-[^2]: A 2. § a 13. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+(2) A központi alkalmazás szolgáltatótól kötelezően igénybe veendő, alkalmazáshoz kapcsolódó, norma szerinti alapszintű közszolgáltatások, valamint norma feletti alapszintű és emelt szintű szolgáltatások körét a 4. § alapján a digitális szolgáltatások felügyelete (a továbbiakban: Felügyelet) határozza meg.
