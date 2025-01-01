@@ -36,7 +36,7 @@
 
 18. lőfegyver-kereskedő: az a természetes személy, jogi személy, valamint jogi személyiséggel nem rendelkező gazdálkodó szervezet, aki (amely) kereskedelmi vagy egyéb üzleti tevékenységét teljes egészében vagy részben lőfegyver-, lőfegyverdarab-, lőszer-, illetve lőszerelem-gyártás, kereskedelem, közvetítő kereskedelem, csere, bérbeadás, javítás, hatástalanítás vagy átalakítás területén végzi;
 
-19. forgalmazás: lőfegyver, lőszer, illetve egyéb fegyver tulajdonjogának átruházása, bérbeadása, ideértve a kereskedelmi és közvetítő kereskedelmi tevékenységet is;
+19. forgalmazás: lőfegyver, – a lőszer ideiglenes átvétele, valamint a lőszer továbbadása kivételével – lőszer, illetve egyéb fegyver tulajdonjogának átruházása, bérbeadása, ideértve a kereskedelmi és közvetítő kereskedelmi tevékenységet is;
 
 20. lőfegyver- és lőszerkészítés (a továbbiakban: gyártás): lőfegyver, lőszer, lőfegyverdarab, flóberttöltény és lőszeralkatrész elkészítése, az elkészített alkatrészek készre szerelése, valamint a lőfegyver olyan megmunkálása, amely azt az eredetitől eltérő kaliberjelű lőszer használatára teszi alkalmassá;
 
@@ -127,3 +127,7 @@ cc) megfelel a 2. mellékletben meghatározott követelményeknek;
 51. működőképes lőfegyver: a 16. pontban meghatározott légfegyver, valamint a 29. pont b)–d) alpontjában meghatározott tűzfegyver kivételével a tűzfegyver.
 
 52. a lőfegyverhez (tűzfegyverhez) tartozó (használható) lőszer: kaliberjelére való tekintet nélkül a jogszerűen tartott lőfegyverhez (tűzfegyverhez) rendeltetésszerűen használható lőszer, ha annak a lőfegyverrel (tűzfegyverrel) – az engedélyezett célra – történő együttes használatát a jogszabály nem zárja ki.
+
+53. lőszer ideiglenes átvétele: az átadás és az átengedés esetét ide nem értve a lőszernek közvetlenül a tartására jogosulttól a továbbadás céljából megvalósuló, ellenérték nélküli megszerzése;
+
+54. lőszer továbbadása: az átadás és az átengedés esetét ide nem értve az ideiglenes átvétel keretében megszerzett lőszernek közvetlenül a tartására jogosult részére történő, ellenérték nélküli rendelkezésre bocsátása.
