@@ -14,7 +14,7 @@ e) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési
 
 f) a Nemzetközi Bűnügyi Együttműködési Központ a 84. § b) pontjában meghatározott feladatai ellátása céljából,
 
-g) a Nemzeti Információs Központ elemzés-értékelés, hírigény teljesítése, valamint az utasadatok kockázatelemzése céljából,
+g) a Nemzeti Információs Központ a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 8/A. § (1) bekezdés b) pontjában, valamint a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 8/A. § (2), (4) és (8) bekezdésében meghatározott feladatai ellátása céljából,
 
 h) az általános rendőri feladatok ellátására létrehozott szerv – jogszabályban meghatározott – személy- és létesítményvédelmi feladatainak ellátása céljából.
 
