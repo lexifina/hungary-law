@@ -5,15 +5,3 @@
 (3) A 30. § (2) bekezdése az Alaptörvény VI. cikk (4) bekezdése alapján sarkalatosnak minősül.
 
 (4) A 32. alcím az Alaptörvény 23. cikke alapján sarkalatosnak minősül.
-
-|
-
-Dr. Sulyok Tamás s. k.,
-
-köztársasági elnök
-
-|
-
-Dr. Latorcai János s. k.,
-
-az Országgyűlés alelnöke
