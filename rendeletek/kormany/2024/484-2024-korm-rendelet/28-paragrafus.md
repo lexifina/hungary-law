@@ -1,0 +1,7 @@
+## 5. Záró rendelkezések
+
+28. § (1) Ez a rendelet – a (2) és (3) bekezdésben foglalt kivétellel – 2025. január 1-jén lép hatályba.
+
+(2) A 14. § (2) bekezdése, a 20. §, a 21. §, a 24. § (1) bekezdés c) pontja, a 24. § (2) bekezdése, az 5. melléklet és a 7. melléklet 2025. július 1-jén lép hatályba,
+
+(3) A 24. § (1) bekezdés d) és e) pontja, a 6. melléklet és a 8. melléklet 2026. január 1-jén lép hatályba.
