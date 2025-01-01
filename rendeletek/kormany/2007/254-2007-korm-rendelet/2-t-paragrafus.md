@@ -1,28 +1,27 @@
-2/T. § (1) A kivezetésre szánt állami vagyon tulajdonjogának ingyenes átruházásakor alkalmazandó értékhatár
+2/T. § (1)[^110] A kivezetésre szánt állami vagyon tulajdonjogának ingyenes átruházásakor alkalmazandó értékhatár a Vtv. 42/O. § (2) bekezdés
 
-a) a Vtv. 42/O. § (2) bekezdés a)–c) pontja szerinti esetben
+a) a)–c) pontja szerinti esetben 10 000 000 forint egyedi nyilvántartási érték,
 
-aa)[^44] Budapesten, Pest vármegyében, vármegyeszékhelyen vagy megyei jogú városban fekvő ingatlan esetén 2 000 000 forint,
+b) d) pontja szerinti esetben 300 000 forint egyedi nyilvántartási érték,
 
-ab)[^45] az aa) alpontba nem tartozó egyéb ingatlan esetén 1 500 000 forint,
+c) e) és f) pontja szerinti esetben 300 000 forint nyilvántartási érték.
 
-b) a Vtv. 42/O. § (2) bekezdés d) pontja szerinti esetben 300 000 forint,
+(2)[^111] A Vtv. 42/O. § (2) bekezdése alapján a kivezetésre szánt állami vagyon tulajdonjogának ingyenes átruházását a törvényben megjelölt kedvezményezettek írásban kezdeményezhetik az MNV Zrt.-nél. Ha a kivezetésre szánt állami vagyon tulajdonjogának megszerzésére több személy is jogosult, az MNV Zrt. az átruházást megelőzően felhívást intéz a jogosultakhoz
 
-c) a Vtv. 42/O. § (2) bekezdés e) pontja szerinti esetben 100 000 forint
+a) a Vtv. 42/O. § (2) bekezdés a)–c) pontja szerinti esetben közvetlen felhívás megküldésével, ha a tulajdonostársak, tulajdonosok vagy jogosultak személye és elérhetősége egyszerűen megállapítható, és közvetlen megkeresésük nem jelent aránytalan terhet az MNV Zrt. részére, e feltételek teljesülése hiányában az MNV Zrt. honlapján közzétett és az érintett állami tulajdonú ingatlan fekvése szerinti települési önkormányzat hirdetőtáblájára, továbbá – ha annak fizikai feltételei fennállnak – az érintett ingatlanra is kifüggesztett felhívással;
 
-egyedi nyilvántartási érték.
+b) a Vtv. 42/O. § (2) bekezdés d) pontja szerinti esetben a társaságnak és – ha a társaság tagjainak személye és elérhetősége egyszerűen megállapítható, és közvetlen megkeresésük nem jelent aránytalan terhet az MNV Zrt. részére – a társaság tagjai részére küldött közvetlen felhívással, e feltételek teljesülése hiányában az MNV Zrt. honlapján közzétett felhívással;
 
-(2) A Vtv. 42/O. § (2) bekezdése alapján a kivezetésre szánt állami vagyon tulajdonjogának ingyenes átruházását a törvényben megjelölt kedvezményezettek írásban kezdeményezhetik az MVH-nál. Ha a kivezetésre szánt állami vagyon tulajdonjogának megszerzésére több személy is jogosult, az MVH az átruházást megelőzően felhívást intéz a jogosultakhoz
+c) a Vtv. 42/O. § (2) bekezdés e) pont ea) alpontja szerinti esetben az ingatlan címére megküldött írásbeli vagy az ingatlanban helyben megtett szóbeli felhívással;
 
-a) a Vtv. 42/O. § (2) bekezdés a)–c) pontja szerinti esetben közvetlen felhívás megküldésével, ha a tulajdonostársak, tulajdonosok vagy jogosultak személye és elérhetősége egyszerűen megállapítható és közvetlen megkeresésük nem jelent aránytalan terhet az MVH részére, e feltételek teljesülése hiányában az MVH honlapján közzétett és az érintett állami tulajdonú ingatlan fekvése szerinti települési önkormányzat polgármesteri hivatalának hirdetőtáblájára, továbbá – ha annak fizikai feltételei fennállnak – az érintett ingatlanra is kifüggesztett felhívással;
+d) a Vtv. 42/O. § (2) bekezdés eb) pontja szerinti esetben az ingatlan értékesítése során a vevő részére történő felajánlással;
 
-b) a Vtv. 42/O. § (2) bekezdés d) pontja szerinti esetben a társaságnak és – ha a társaság tagjainak személye és elérhetősége egyszerűen megállapítható és közvetlen megkeresésük nem jelent aránytalan terhet az MVH részére – a társaság tagjai részére küldött közvetlen felhívással, e feltételek teljesülése hiányában az MVH honlapján közzétett felhívással;
+e) a Vtv. 42/O. § (2) bekezdés f) pontja szerinti esetben az MNV Zrt. honlapján közzétett felhívással.
 
-c) a Vtv. 42/O. § (2) bekezdés e) pontja szerinti esetben az ingatlan címére megküldött írásbeli vagy az ingatlanban helyben megtett szóbeli felhívással.
-
-(3) Ha a Vtv. 42/O. § (2) bekezdése alapján a kivezetésre szánt állami vagyon tulajdonjogának ingyenes átadását a (2) bekezdés szerinti felhívás alapján az MVH-nál több, a tulajdonjog megszerzésére jogosult kezdeményezi, az MVH a tulajdonjogot arra az igényét önállóan bejelentő személyre vagy igényüket együttesen bejelentő személyekre ruházza át, akit a jogosultak közül az MVH sorsolással kiválaszt. A sorsoláson az érintett személyek közvetlenül vagy képviselőik útján vehetnek részt. A sorsolásról felvett jegyzőkönyvet a sorsolásban érintett személyek részére meg kell küldeni.
+(3)[^112] Ha a Vtv. 42/O. § (2) bekezdése alapján a kivezetésre szánt állami vagyon tulajdonjogának ingyenes átadását a (2) bekezdés szerinti felhívás alapján az MVH-nál több, a tulajdonjog megszerzésére jogosult kezdeményezi, az MNV Zrt. a tulajdonjogot arra az igényét önállóan bejelentő személyre vagy igényüket együttesen bejelentő személyekre ruházza át, akit a jogosultak közül az MNV Zrt. sorsolással kiválaszt. A sorsoláson az érintett személyek közvetlenül vagy képviselőik útján vehetnek részt. A sorsolásról felvett jegyzőkönyvet a sorsolásban érintett személyek részére meg kell küldeni.
 
 (4) Ha a Vtv. 42/O. § (2) bekezdése alapján a kivezetésre szánt állami vagyon tulajdonjogának ingyenes átadását több jogosult együttesen kezdeményezi, akkor a kivezetésre szánt állami vagyon a jogosultak megállapodása szerint közös tulajdonba adható.
 
-[^44]: A 2/T. § (1) bekezdés a) pont aa) alpontja a 410/2022. (X. 24.) Korm. rendelet 6. §-a, a 27/2024. (II. 22.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
-[^45]: A 2/T. § (1) bekezdés a) pont ab) alpontja a 27/2024. (II. 22.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^110]: A 2/T. § (1) bekezdése a 448/2024. (XII. 23.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^111]: A 2/T. § (2) bekezdése a 448/2024. (XII. 23.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^112]: A 2/T. § (3) bekezdése a 448/2024. (XII. 23.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.

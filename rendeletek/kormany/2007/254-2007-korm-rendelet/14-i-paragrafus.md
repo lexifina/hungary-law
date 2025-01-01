@@ -1,4 +1,4 @@
-## 14/I. §[^153] Az MNV Zrt. az egységes állami vagyonnyilvántartás adatai közül az Országleltár honlapján nem teszi elérhetővé
+## 14/I. §[^222] Az MNV Zrt. az egységes állami vagyonnyilvántartás adatai közül az Országleltár honlapján nem teszi elérhetővé
 
 a) a nemzetbiztonsági szolgálatok és a nemzetbiztonsági okból nem bemutatható szervezetek által külön jogszabály alapján szolgáltatott adatokat,
 
@@ -8,4 +8,4 @@ c) a tartós hitelviszonyt megtestesítő értékpapírokat és
 
 d) az állami vagyonba tartozó forgóeszközöket.
 
-[^153]: A 14/I. §-t az 592/2020. (XII. 17.) Korm. rendelet 5. §-a iktatta be.
+[^222]: A 14/I. §-t az 592/2020. (XII. 17.) Korm. rendelet 5. §-a iktatta be.

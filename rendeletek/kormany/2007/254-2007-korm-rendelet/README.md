@@ -54,3 +54,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-254-20-
 | 2023-08-22 | 2007-254-20-22.50 | 386/2023. (VIII. 14.) Korm. rendelet |
 | 2024-03-01 | 2007-254-20-22.51 | 27/2024. (II. 22.) Korm. rendelet |
 | 2024-06-01 | 2007-254-20-22.52 | 827/2021. (XII. 28.) Korm. rendelet |
+| 2025-01-01 | 2007-254-20-22.53 | 448/2024. (XII. 23.) Korm. rendelet |

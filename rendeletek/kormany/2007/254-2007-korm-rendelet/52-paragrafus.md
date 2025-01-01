@@ -2,7 +2,7 @@
 
 ## Az elhelyezési igények felmérése
 
-52. §[^311] (1) A Vtv. 28/A. § (1) bekezdése szerinti feladat ellátásához szükséges ingatlankapacitás és költségvetési források tervezése érdekében a központi költségvetési szerv irányítását vagy felügyeletét ellátó szerv vezetője a tárgyévet megelőző év június 30. napjáig, az MNV Zrt. által meghatározott tartalommal elhelyezési tervet (a továbbiakban: elhelyezési terv) küld az MNV Zrt. részére az 53/K. § szerinti elektronikus adatszolgáltatási felületen.
+52. §[^383] (1) A Vtv. 28/A. § (1) bekezdése szerinti feladat ellátásához szükséges ingatlankapacitás és költségvetési források tervezése érdekében a központi költségvetési szerv irányítását vagy felügyeletét ellátó szerv vezetője a tárgyévet megelőző év június 30. napjáig, az MNV Zrt. által meghatározott tartalommal elhelyezési tervet (a továbbiakban: elhelyezési terv) küld az MNV Zrt. részére az 53/K. § szerinti elektronikus adatszolgáltatási felületen.
 
 (2) Az elhelyezési terv legalább az elhelyezési igény kielégítéséhez szükséges alábbi információkat tartalmazza:
 
@@ -36,4 +36,4 @@ irodaterület álljon rendelkezésre minden ott elhelyezésre kerülő foglalkoz
 
 (8) Az elhelyezési terv benyújtási határidejét követően felmerült rendkívüli elhelyezési igény kielégítéséről az MNV Zrt. dönt.
 
-[^311]: Az 52. § a 191/2023. (V. 22.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^383]: Az 52. § a 191/2023. (V. 22.) Korm. rendelet 1. §-ával megállapított szöveg.

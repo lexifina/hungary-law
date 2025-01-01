@@ -1,5 +1,1 @@
-2/X. § (1) Az átadásra kerülő vagyonelemek birtokátruházására a Vtv. 42/D. §-a és 42/E. §-a szerinti esetben a tulajdonosi joggyakorlás átszállásának napjától számított 60 napon belül, a Vtv. 42/F. §-a szerinti esetben a tulajdonosi joggyakorlás átszállásának napjától számított 30 napon belül kerül sor. A kárveszély a birtokátruházás napján száll át.
-
-(2) Amennyiben jogszabály eltérően nem rendelkezik, az átadásra kerülő vagyonelemekkel kapcsolatban felmerülő költségek és kötelezettségek – a (3) bekezdés szerinti kivétellel – az (1) bekezdés szerinti birtokátruházás napjáig az átadó tulajdonosi joggyakorlót terhelik, a birtokátruházás napjától kezdődően a felmerülő költségeket és kötelezettségeket az átvevő tulajdonosi joggyakorló teljesíti. Az átadásra kerülő vagyonelemekhez kapcsolódó bevételek – a (3) bekezdés szerinti kivétellel – a tulajdonosi joggyakorlás átszállásának napjáig az átadó tulajdonosi joggyakorlót, ezt követően az átvevő tulajdonosi joggyakorlót illetik meg.
-
-(3) A kivezetésre szánt állami vagyonhoz kapcsolódó hagyatéki kiadások a tulajdonosi joggyakorlás átszállásának napjától az MVH-t terhelik, a hagyatéki bevételek a tulajdonosi joggyakorlás átszállásának napjától az MVH-t illetik meg.
+2/X. §

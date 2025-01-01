@@ -2,18 +2,18 @@
 
 ## AZ ÁLLAMI VAGYON NYILVÁNTARTÁSA
 
-13. § (1)[^129]
+13. § (1)[^198]
 
-(2)[^130] Az MNV Zrt. állami vagyont az adott vagyontárgy sajátosságainak megfelelő, az azonosítást lehetővé tevő – a Központi Statisztikai Hivatallal egyeztetett – módon, naturáliában (mennyiségben) és – az Nvtv. 10. § (1) bekezdésében meghatározott kivétellel – értékben, a keletkezés (aktiválás) időpontját is feltüntetve tartja nyilván.
+(2)[^199] Az MNV Zrt. állami vagyont az adott vagyontárgy sajátosságainak megfelelő, az azonosítást lehetővé tevő – a Központi Statisztikai Hivatallal egyeztetett – módon, naturáliában (mennyiségben) és – az Nvtv. 10. § (1) bekezdésében meghatározott kivétellel – értékben, a keletkezés (aktiválás) időpontját is feltüntetve tartja nyilván.
 
-(3)[^131]
+(3)[^200]
 
-(4)[^132] A tulajdonosi joggyakorlók a rábízott állami vagyonnal kapcsolatos könyvvezetési és beszámoló készítési kötelezettségüknek az államháztartás számviteléről szóló kormányrendelet szerint kötelesek eleget tenni.
+(4)[^201] A tulajdonosi joggyakorlók a rábízott állami vagyonnal kapcsolatos könyvvezetési és beszámoló készítési kötelezettségüknek az államháztartás számviteléről szóló kormányrendelet szerint kötelesek eleget tenni.
 
-(5)[^133] A tulajdonosi joggyakorlók a Vtv. 17. § (3) bekezdése szerinti tulajdonosi joggyakorlói adatszolgáltatást a rábízott vagyonuk december 31-i tárgyévi állományáról évente egyszer, a tárgyévet követő év június 30. napjáig, a 14/D. § (1) bekezdésében meghatározott adatszolgáltatási időszakban kötelesek teljesíteni az MNV Zrt. részére.
+(5)[^202] A tulajdonosi joggyakorlók a Vtv. 17. § (3) bekezdése szerinti tulajdonosi joggyakorlói adatszolgáltatást a rábízott vagyonuk december 31-i tárgyévi állományáról évente egyszer, a tárgyévet követő év június 30. napjáig, a 14/D. § (1) bekezdésében meghatározott adatszolgáltatási időszakban kötelesek teljesíteni az MNV Zrt. részére.
 
-[^129]: A 13. § (1) bekezdését az 592/2020. (XII. 17.) Korm. rendelet 11. § a) pontja hatályon kívül helyezte.
-[^130]: A 13. § (2) bekezdése a 77/2014. (III. 14.) Korm. rendelet 7. § (1) bekezdésével megállapított, az 592/2020. (XII. 17.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
-[^131]: A 13. § (3) bekezdését az 592/2020. (XII. 17.) Korm. rendelet 11. § a) pontja hatályon kívül helyezte.
-[^132]: A 13. § (4) bekezdését a 348/2010. (XII. 28.) Korm. rendelet 10. § (3) bekezdése iktatta be, szövege a 77/2014. (III. 14.) Korm. rendelet 7. § (1) bekezdésével megállapított, a 26/2015. (II. 25.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
-[^133]: A 13. § (5) bekezdését a 77/2014. (III. 14.) Korm. rendelet 7. § (2) bekezdése iktatta be, szövege a 244/2015. (IX. 8.) Korm. rendelet 5. § (3) bekezdésével megállapított, az 592/2020. (XII. 17.) Korm. rendelet 10. §-a szerint módosított szöveg.
+[^198]: A 13. § (1) bekezdését az 592/2020. (XII. 17.) Korm. rendelet 11. § a) pontja hatályon kívül helyezte.
+[^199]: A 13. § (2) bekezdése a 77/2014. (III. 14.) Korm. rendelet 7. § (1) bekezdésével megállapított, az 592/2020. (XII. 17.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
+[^200]: A 13. § (3) bekezdését az 592/2020. (XII. 17.) Korm. rendelet 11. § a) pontja hatályon kívül helyezte.
+[^201]: A 13. § (4) bekezdését a 348/2010. (XII. 28.) Korm. rendelet 10. § (3) bekezdése iktatta be, szövege a 77/2014. (III. 14.) Korm. rendelet 7. § (1) bekezdésével megállapított, a 26/2015. (II. 25.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^202]: A 13. § (5) bekezdését a 77/2014. (III. 14.) Korm. rendelet 7. § (2) bekezdése iktatta be, szövege a 244/2015. (IX. 8.) Korm. rendelet 5. § (3) bekezdésével megállapított, az 592/2020. (XII. 17.) Korm. rendelet 10. §-a szerint módosított szöveg.

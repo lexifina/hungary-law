@@ -1,18 +1,18 @@
-27. §[^201] (1)[^202] Ha törvény eltérően nem rendelkezik, állami vagyont – a Vtv. 33. § (3) bekezdése szerinti értékesítést, továbbá a 34. § (3) bekezdés a) és c) pontjában megjelölt, közvetett értékesítési módokat kivéve – nem lehet értékesíteni olyan személy részére, aki vagy amely
+27. §[^270] (1)[^271] Ha törvény eltérően nem rendelkezik, állami vagyont – a Vtv. 33. § (3) bekezdése szerinti értékesítést, továbbá a 34. § (3) bekezdés a) és c) pontjában megjelölt, közvetett értékesítési módokat kivéve – nem lehet értékesíteni olyan személy részére, aki vagy amely
 
-a)[^203] az adózás rendjéről szóló 2017. évi CL. törvény 7. § 34. pontja szerinti, lejárt esedékességű köztartozással rendelkezik, vagy
+a)[^272] az adózás rendjéről szóló 2017. évi CL. törvény 7. § 34. pontja szerinti, lejárt esedékességű köztartozással rendelkezik, vagy
 
 b) a tulajdonosi joggyakorlóval szemben fennálló, lejárt tartozással rendelkezik.
 
-(2)[^204] Az (1) bekezdés a) pontja szerinti kizáró ok fennállásának hiányát – a (3) bekezdésben meghatározott kivétellel – az érintett személy a szerződéskötés időpontját megelőző 30 napnál nem régebben kiállított közokirattal igazolja vagy nyilatkozik arról, hogy szerepel a köztartozásmentes adózói adatbázisban.
+(2)[^273] Az (1) bekezdés a) pontja szerinti kizáró ok fennállásának hiányát – a (3) bekezdésben meghatározott kivétellel – az érintett személy a szerződéskötés időpontját megelőző 30 napnál nem régebben kiállított közokirattal igazolja vagy nyilatkozik arról, hogy szerepel a köztartozásmentes adózói adatbázisban.
 
-(2a)[^205] Az (1) bekezdés szerinti kizáró okok fennállásának hiányát a tulajdonosi joggyakorló, illetve az értékesítést lebonyolító megbízott eredményes értékesítés esetén legkésőbb a szerződéskötéskor vizsgálni köteles.
+(2a)[^274] Az (1) bekezdés szerinti kizáró okok fennállásának hiányát a tulajdonosi joggyakorló, illetve az értékesítést lebonyolító megbízott eredményes értékesítés esetén legkésőbb a szerződéskötéskor vizsgálni köteles.
 
-(3)[^206] A százezer forint egyedi bruttó forgalmi érték alatti vagyontárgy értékesítése esetén az (1) bekezdés a) pontja szerinti feltételnek való megfelelésről az ajánlattevő személy írásban nyilatkozhat.
+(3)[^275] A százezer forint egyedi bruttó forgalmi érték alatti vagyontárgy értékesítése esetén az (1) bekezdés a) pontja szerinti feltételnek való megfelelésről az ajánlattevő személy írásban nyilatkozhat.
 
-[^201]: A 27. § a 163/2009. (VIII. 6.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^202]: A 27. § (1) bekezdése a 411/2015. (XII. 16.) Korm. rendelet 2. § (1) bekezdésével megállapított, nyitó szövegrésze a 315/2022. (VIII. 16.) Korm. rendelet 2. § (3) bekezdés b) pontja szerint módosított szöveg.
-[^203]: A 27. § (1) bekezdés a) pontja a 475/2017. (XII. 28.) Korm. rendelet 27. §-a szerint módosított szöveg.
-[^204]: A 27. § (2) bekezdése a 411/2015. (XII. 16.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^205]: A 27. § (2a) bekezdését a 411/2015. (XII. 16.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^206]: A 27. § (3) bekezdését a 244/2015. (IX. 8.) Korm. rendelet 8. §-a iktatta be.
+[^270]: A 27. § a 163/2009. (VIII. 6.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^271]: A 27. § (1) bekezdése a 411/2015. (XII. 16.) Korm. rendelet 2. § (1) bekezdésével megállapított, nyitó szövegrésze a 315/2022. (VIII. 16.) Korm. rendelet 2. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^272]: A 27. § (1) bekezdés a) pontja a 475/2017. (XII. 28.) Korm. rendelet 27. §-a szerint módosított szöveg.
+[^273]: A 27. § (2) bekezdése a 411/2015. (XII. 16.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^274]: A 27. § (2a) bekezdését a 411/2015. (XII. 16.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^275]: A 27. § (3) bekezdését a 244/2015. (IX. 8.) Korm. rendelet 8. §-a iktatta be.

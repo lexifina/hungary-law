@@ -1,6 +1,6 @@
-19. § (1)[^172] A vagyonkezelési szerződés lejárat előtti megszűnésekor a tulajdonosi joggyakorló a vagyonkezelési szerződésben rögzített módon megtéríti az egyéb vagyonkezelőnek a 17. § (3) bekezdése alapján kimutatott vagyonkezelői jog még le nem írt összegét és – szükség esetén – a 18. § (3b) bekezdése szerinti követelések összegét.
+19. § (1)[^241] A vagyonkezelési szerződés lejárat előtti megszűnésekor a tulajdonosi joggyakorló a vagyonkezelési szerződésben rögzített módon megtéríti az egyéb vagyonkezelőnek a 17. § (3) bekezdése alapján kimutatott vagyonkezelői jog még le nem írt összegét és – szükség esetén – a 18. § (3b) bekezdése szerinti követelések összegét.
 
-(2)[^173]
+(2)[^242]
 
-[^172]: A 19. § (1) bekezdése a 77/2014. (III. 14.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^173]: A 19. § (2) bekezdését a 77/2014. (III. 14.) Korm. rendelet 27. §-a hatályon kívül helyezte.
+[^241]: A 19. § (1) bekezdése a 77/2014. (III. 14.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^242]: A 19. § (2) bekezdését a 77/2014. (III. 14.) Korm. rendelet 27. §-a hatályon kívül helyezte.

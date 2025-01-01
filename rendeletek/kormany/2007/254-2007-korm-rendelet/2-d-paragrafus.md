@@ -4,7 +4,7 @@
 
 ## A kivezetésre szánt állami vagyon értékesítése és hasznosítása
 
-## 2/D. § A Maradványvagyon-hasznosító Zártkörűen Működő Részvénytársaság (a továbbiakban: MVH) a kivezetésre szánt állami vagyonba tartozó vagyonelem állami tulajdonból való kivezetése (a továbbiakban: kivezetés) érdekében az Nvtv. 7. § (3) bekezdésében, valamint a Vtv. 2. § (1a) bekezdésében és 42/H. § (1) bekezdésében foglaltak mérlegelésével – a vagyontárgy típusára figyelemmel – dönthet a vagyontárgy
+2/D. §[^42] Az MNV Zrt. a kivezetésre szánt állami vagyonba tartozó vagyonelem állami tulajdonból való kivezetése (a továbbiakban: kivezetés) érdekében az Nvtv. 7. § (3) bekezdésében, valamint a Vtv. 2. § (1a) bekezdésében és 42/H. § (1) bekezdésében foglaltak mérlegelésével – a vagyontárgy típusára figyelemmel – dönthet a vagyontárgy
 
 a) értékesítéséről,
 
@@ -15,3 +15,4 @@ c) hulladékgyűjtő helyen történő elhelyezéséről vagy hulladékként tö
 d) megsemmisítéséről vagy megszüntetéséről.
 
 [^41]: A II/A. fejezetet (2/D–2/Y. §) a 827/2021. (XII. 28.) Korm. rendelet 4. §-a iktatta be.
+[^42]: A 2/D. § nyitó szövegrésze a 448/2024. (XII. 23.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.

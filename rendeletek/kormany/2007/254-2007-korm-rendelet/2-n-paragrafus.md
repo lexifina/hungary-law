@@ -4,9 +4,9 @@
 
 (2) Ha a kikiáltási áron érvényes vételi ajánlatot nem tesznek, az árverést eredménytelennek kell nyilvánítani.
 
-(3) Árverési biztosíték kikötése esetén az árverési biztosítékot a nyertes árverezőt terhelő vételárba be kell számítani. A nem nyertes árverezők részére az árverési biztosíték összegét az MVH az árverés napját követő tizenöt napon belül visszafizeti.
+(3)[^83] Árverési biztosíték kikötése esetén az árverési biztosítékot a nyertes árverezőt terhelő vételárba be kell számítani. A nem nyertes árverezők részére az árverési biztosíték összegét az MNV Zrt. az árverés napját követő tizenöt napon belül visszafizeti.
 
-(4) Az árverési hirdetmény közzétételének legalább tizenöt nappal meg kell előznie a hirdetményben megjelölt árverési időpontot. A hirdetményt az MVH honlapján, az árverezésre kerülő ingatlanon történő kifüggesztéssel, valamint a helyben szokásos módon kell közzétenni. Az árverési hirdetmény közzététele időpontjának az MVH honlapján történő közzététel napját kell tekinteni.
+(4)[^84] Az árverési hirdetmény közzétételének legalább tizenöt nappal meg kell előznie a hirdetményben megjelölt árverési időpontot. A hirdetményt az MNV Zrt. honlapján, az árverezésre kerülő ingatlanon történő kifüggesztéssel, valamint a helyben szokásos módon kell közzétenni. Az árverési hirdetmény közzététele időpontjának az MNV Zrt. honlapján történő közzététel napját kell tekinteni.
 
 (5) A hirdetményben fel kell tüntetni
 
@@ -43,3 +43,6 @@ i) mindazon további információt, amit az árverés kiírója szükségesnek t
 (12) Ha a nyertes árverező a hirdetményben előírt határidő alatt a szerződést neki felróható okból nem köti meg, vagy a teljes vételárat nem fizeti meg, úgy kell tekinteni, hogy a jogügylettől visszalépett. Ilyen esetben a befizetett árverési biztosítékot elveszíti és felelős a szerződéskötés meghiúsulásából az árvereztetőt ért károkért, továbbá viseli az árvereztető ebből fakadó költségeit.
 
 (13) Az árverésen történő értékesítésre a 2/H. § (8) bekezdésében és a 2/K. § (5) bekezdésében foglaltakat alkalmazni kell.
+
+[^83]: A 2/N. § (3) bekezdése a 448/2024. (XII. 23.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
+[^84]: A 2/N. § (4) bekezdése a 448/2024. (XII. 23.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.

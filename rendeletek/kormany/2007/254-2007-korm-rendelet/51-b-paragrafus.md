@@ -1,4 +1,4 @@
-## IX. Fejezet[^306]
+## IX. Fejezet[^378]
 
 ## A KÖZPONTI KÖLTSÉGVETÉSI SZERVEK ELHELYEZÉSÉRE VONATKOZÓ ÁTMENETI SZABÁLYOK
 
@@ -22,4 +22,4 @@ g) kijelölő okirat: a Törvény 148. § (6) bekezdése szerint az MNV Zrt. ál
 
 h) rekreációs célú ingatlan: a Törvény 148. § (11) bekezdés c) pontja szerinti ingatlan.
 
-[^306]: A IX. fejezet (51/B–53/J. §) a 384/2020. (VIII. 7.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^378]: A IX. fejezet (51/B–53/J. §) a 384/2020. (VIII. 7.) Korm. rendelet 3. §-ával megállapított szöveg.

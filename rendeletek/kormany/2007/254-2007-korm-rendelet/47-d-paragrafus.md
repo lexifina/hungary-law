@@ -12,6 +12,6 @@ e) a felvilágosítás igénylésének és a panasz bejelentésének lehetőség
 
 (2) Az EAR nyilvános felületén bárki számára ingyenesen elérhető tájékoztatást kell közzétenni az árverési felhasználási szabályzatról, valamint az elektronikus árverezésre vonatkozó jogszabályi rendelkezésekről.
 
-(3)[^261] Az árverési felhasználási szabályzatot az MNV Zrt. Igazgatósága fogadja el.
+(3)[^330] Az árverési felhasználási szabályzatot az MNV Zrt. Igazgatósága fogadja el.
 
-[^261]: A 47/D. § (3) bekezdése a 191/2023. (V. 22.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^330]: A 47/D. § (3) bekezdése a 191/2023. (V. 22.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.

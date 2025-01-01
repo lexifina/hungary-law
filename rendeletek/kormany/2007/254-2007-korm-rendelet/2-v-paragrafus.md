@@ -1,9 +1,3 @@
-## 2/U. § Az MVH nem köteles a kivezetésre szánt állami vagyon egészére biztosítási szerződést kötni, de a kivezetésre szánt állami vagyonba tartozó egyes vagyonelemekre – a vagyonelemek sajátosságaira figyelemmel – köthet biztosítási szerződést.
+2/V. §[^114]
 
-## Az MNV Zrt. és az MVH közötti együttműködés
-
-2/V. § (1) Az MNV Zrt. és az MVH az állami tulajdonú vagyonelemeket érintő tulajdonosi jogok és kötelezettségek átadása kapcsán kölcsönösen együttműködik, egymást folyamatosan tájékoztatják. Az átadó az átadásra kerülő vagyonelemre vonatkozó rendelkezésre álló adatokat és az ahhoz kapcsolódó jogokra, terhekre és követelésekre vonatkozó információkat – a vagyonelemre vonatkozó tulajdonosi joggyakorlói intézkedést igénylő ügyek megjelölésével – az átadási felületen átadja. Az átadó a vagyonelem feletti tulajdonosi joggyakorlás átszállását követően is átadja a tudomására jutott, átadott vagyonelemmel összefüggő információkat az átvevő részére. Az átadó az átadással érintett vagyonelemekhez kapcsolódó rendelkezésre álló dokumentumok egyszerű másolatait bocsátja az átvevő rendelkezésére.
-
-(2) Az állami vagyongazdálkodási feladatok végrehajtása érdekében – az (1) bekezdésben foglaltakra tekintettel – az MNV Zrt. és az MVH jogosult a vagyonelemekkel összefüggésben átadóként kezelt személyes adatok egymás közötti átadására és átvevőként azok további, változatlan célból történő kezelésére.
-
-(3) Az MNV Zrt. és az MVH jogosult az átadás tárgyát képező vagyonelemekkel összefüggésben az átadást megelőző egy éven belül készült és az átadáskor is érvényes, független szakértő által készített vagyonértékelések, értékbecslések, tanulmányok, szakértői anyagok átadására, átvevőként azok megismerésére, valamint az elkészítéskor meghatározott célból történő felhasználására, ahhoz harmadik személy külön hozzájárulása nem szükséges.
+[^114]: Az „Az MNV Zrt. és az MVH közötti együttműködés” alcímet (2/V–2/Y. §-t) a 448/2024. (XII. 23.) Korm. rendelet 8. § e) pontja hatályon kívül helyezte.
