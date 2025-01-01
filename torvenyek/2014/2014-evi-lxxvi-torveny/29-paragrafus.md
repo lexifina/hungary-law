@@ -1,3 +1,9 @@
-29. § (1) Az NKFI Alap Innovációs Alaprésze terhére finanszírozott pályázatok kiírására, értékelésére, a támogatási döntés meghozatalára a 25. és a 27/A. §-ban meghatározott rendelkezéseket kell alkalmazni.
+29. § (1) Az NKFI Alap Innovációs Alaprésze terhére finanszírozott pályázat kiírásáról a tudománypolitika koordinációjáért felelős miniszter dönt. A pályázati kiírást a Kormány által kijelölt szerv teszi közzé, a pályázatokat a Kormány által kijelölt szervhez kell benyújtani.
 
-(2) Az NKFI Alap kezelését végző szervek az NKFI Alap Innovációs Alaprésze terhére finanszírozott pályázatok értékelésében közreműködő értékelő testületek elnökei és tagjai, a szakértői csoportok elnökei és tagjai, valamint az anonim szakértők e törvény szerinti feladatai ellátásával összefüggésben megismert személyes adatait az adatkezelés céljának megvalósulásáig, de legkésőbb az érintettel létrejött jogviszonnyal kapcsolatos ügyiratok selejtezéséig vagy levéltárba adásáig kezelik.
+(2) A pályázatokat formailag a Kormány által kijelölt szerv ellenőrzi, tartalmilag a Kormány által kijelölt szerv által felkért értékelő testületek értékelik. Az értékelésben, valamint a támogatásban részesült projektek esetében a megvalósítás szakmai nyomon követésében – a Kormány által kijelölt szerv vagy az értékelő testület felkérése alapján – közreműködhetnek anonim szakértők.
+
+(3) A pályázati felhívás rendelkezhet úgy, hogy a pályázatok a (2) bekezdésben meghatározott rendtől eltérően kerülnek értékelésre.
+
+(4) A Kormány által kijelölt szerv vezetője az NKFI Alap Innovációs Alaprészéből meghirdetett pályázatok és finanszírozott támogatások kezelésének eljárásrendjéről normatív utasításban határoz.
+
+(5) Az NKFI Alap Innovációs Alaprészéből meghirdetett pályázatra vonatkozó beszámolót a Kormány által kijelölt szerv által kiadott útmutató szerint kell ellenőrizni.

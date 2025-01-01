@@ -1,5 +1,1 @@
-26. § (1) Ha a kutatás feltételeit valamely szervezet biztosítja, az e törvény szerinti közfinanszírozású támogatás összegét a közszolgáltatások díjai, az üzemeltetési költségek és a szervezetnél az elnyert pályázat intézményi kezelésével összefüggő költség kivételével, a Kormány rendeletében meghatározottak szerint a kedvezményezett rendelkezési jogának biztosításával köteles a szervezet kezelni.
-
-(2) Az NKFI Alapból nyújtott támogatásra kiírt pályázat nyertese által a közfinanszírozású támogatásból beszerzett tárgyi eszközöket, készleteket a támogatási szerződés hatálya alatt a kutatás feltételeit biztosító szervezet eszköznyilvántartásába kell venni és tartani, a támogatási szerződés megszűnését követően az eszközök nyilvántartására az államháztartásról szóló törvény szabályai irányadók.
-
-(3) E törvény szerinti közfinanszírozású támogatás biztosítása érdekében kötött támogatási szerződés, kiadott támogatói okirat időtartamán belül az eredetileg jóváhagyott támogatás maradványa a következő évre átvihető.
+### 26. §

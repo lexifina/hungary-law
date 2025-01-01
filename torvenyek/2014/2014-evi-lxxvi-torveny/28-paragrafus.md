@@ -1,8 +1,8 @@
 ## 12. Az NKFI Alap Innovációs Alaprészének terhére nyújtott támogatások
 
-28. § Az NKFI Alap Innovációs Alaprésze terhére a következő célokra nyújtható támogatás:
+28. § Az NKFI Alap Innovációs Alaprészének elsődleges célja a hazai innováció ösztönzéséhez szükséges finanszírozási eszközök biztosítása. Az Innovációs Alaprész terhére a következő célokra nyújtható támogatás:
 
-a) országos kutatás-fejlesztési és innovációs programokra,
+a) kutatás-fejlesztési és innovációs programokra,
 
 b) a kutatás-fejlesztés és innováció eredményeinek hasznosításával kapcsolatos költségek fedezetének biztosítására,
 
@@ -24,8 +24,8 @@ j) a hazai és külföldi tudományos és technológiai ismeretek megszerzésér
 
 k) a szellemi tulajdon védelmére és hasznosítására,
 
-l) külföldi kutatási infrastruktúra szolgáltatásainak igénybevételére,
+l) a kutatás-fejlesztés területén nemzetközileg is elismert szervezetek, vállalkozások Magyarországra vonzására,
 
-m) külföldi kutatási infrastruktúra működtetésére, fejlesztésére, ha szerződés garantálja, hogy annak szolgáltatásait magyarországi kutatóhelyek és vállalkozások is igénybe vehetik,
+m) innovatív vállalkozások tőkeági finanszírozását biztosító kockázati tőkealapok létrehozására, valamint
 
-n) a Kormány döntése alapján nemzetközi együttműködés keretében kutatási infrastruktúra magyarországi létesítésére, valamint Magyarországon létrehozott kutatási infrastruktúra működtetésére, fejlesztésére.
+n) Tudományos és Innovációs Parkok fejlesztésére.

@@ -1,6 +1,6 @@
 1. melléklet a 2014. évi LXXVI. törvényhez
 
-A hazai közfinanszírozású támogatással megvalósuló kutatás-fejlesztési és innovációs projektek nyilvántartásába szolgáltatandó adatok köre
+A hazai közfinanszírozású támogatással, valamint a 23. § (1) bekezdés b) pontja szerinti támogatással megvalósuló kutatás-fejlesztési és innovációs projektek nyilvántartásába szolgáltatandó adatok köre
 
 1. a kutatás-fejlesztési projekt címe,
 
@@ -20,7 +20,7 @@ A hazai közfinanszírozású támogatással megvalósuló kutatás-fejlesztési
 
 9. a projekt megvalósításában foglalkoztatott kutató-fejlesztők száma teljesidő-egyenértékre (FTE) átszámolva,
 
-10. a projekt teljes költségvetése, ebből a pénzügyi támogatások összege és a támogatások források szerinti megoszlása,
+10. a projekt teljes költségvetése, ebből a pénzügyi támogatások összege és a támogatások források szerinti megoszlása, a támogatásokból részesülő személyek 23. § (4) bekezdés a) pont aa)–ad) alpontjai szerinti adatai, a támogatásokból részesülő szervezetek megnevezése, valamint e személyeknek és szervezeteknek a támogatásokból való részesülésének mértéke,
 
 11. a projekt lezárásakor az elért eredményekről készült, legfeljebb 800 leütésből álló tartalmi összefoglaló, ami a témavezető véleménye szerint nyilvánosságra hozható,
 

@@ -1,10 +1,10 @@
-## 12/A. Az NKFI Alap Nemzeti Laboratóriumok Alaprészének terhére nyújtott támogatások
+## 12/A. Az NKFI Alap Missziók Alaprészének terhére nyújtott támogatások
 
-29/A. § (1) Az NKFI Alap Nemzeti Laboratóriumok Alaprésze terhére nemzeti laboratórium létrehozatalára, fejlesztésére, tevékenységére, valamint működésére nyújtható támogatás.
+29/A. § (1)
 
-(2) Az NKFI Alap Nemzeti Laboratóriumok Alaprésze terhére a következő célokra nyújtható támogatás:
+(2) Az NKFI Alap Missziók Alaprészének elsődleges célja stratégiailag fontos területeken megvalósuló, nagy horderejű társadalmi vagy gazdasági hatás elérésére irányuló kutatás-fejlesztési programok megvalósítása. A Missziók Alaprész terhére a következő célokra nyújtható támogatás:
 
-1. több régiót érintő, stratégiailag fontos országos kutatás-fejlesztési, valamint innovációs programokra,
+1. több régiót érintő, stratégiailag fontos területeken megvalósuló országos kutatás-fejlesztési, valamint innovációs programokra, amelyek nagy horderejű társadalmi vagy gazdasági hatás elérésére irányulnak,
 
 2. ösztöndíjra, különös tekintettel fiatal kutatók tudományos tevékenységének elősegítésére,
 
@@ -12,7 +12,7 @@
 
 4. a kutatáshoz szükséges szellemi termékekre, nyomtatott vagy elektronikus folyóiratokra, könyvekre, adatbázisokra, azok előfizetési díjaira, tartalmak beszerzésére, licencdíjra, felhasználási vagy hozzáférési költségre – ideértve a tudományos közleményekhez való szabad hozzáférést is,
 
-5. a kutatás-fejlesztés, valamint innováció területén nemzetközileg is elismert szervezetek, vállalkozások Magyarországra vonzására,
+5. olyan programokra, amelyek stratégiailag jelentős tudományos és technológiai területeken hozzájárulnak a hazai kutatási és innovációs kapacitások erősítéséhez, együttműködésüknek és hálózatosodásuknak előmozdításához,
 
 6. a kutatás-fejlesztés és innováció eredményeinek hasznosításával kapcsolatos költségek fedezetének biztosítására,
 
@@ -22,7 +22,7 @@
 
 9. a tudományos kutatáshoz a szükséges műszerek, berendezések és más eszközök beszerzésére, bérlésére, hozzáférési díj biztosítására – ideértve a nemzetközi kutatási infrastruktúrákhoz való hozzáférés díját és költségeit is –, személyi kiadások és járulékaik, valamint dologi és felhalmozási kiadások finanszírozására,
 
-10. a kutatás-fejlesztést és innovációt erősítő szolgáltatások, innovációs hídképző és hálózatépítő tevékenységek, innovációs inkubátorházak létrehozásának támogatására,
+10.
 
 11. az innovációhoz kapcsolódó, az innovációt ösztönző kapcsolatok kialakulásának elősegítését célzó, az innovációs eredmények ismertetésére szolgáló konferenciák és rendezvények tartására, szakkiállítások rendezésére,
 
@@ -39,3 +39,9 @@
 17. külföldi kutatási infrastruktúra működtetésére, fejlesztésére, ha szerződés garantálja, hogy annak szolgáltatásait magyarországi kutatóhelyek és vállalkozások is igénybe vehetik, valamint külföldi kutatási infrastruktúra szolgáltatásainak igénybevételére,
 
 18. nemzetközi együttműködés keretében kutatási infrastruktúra magyarországi létesítésére, valamint Magyarországon létrehozott kutatási infrastruktúra működtetésére, fejlesztésére.
+
+19. Nemzeti Laboratórium létrehozatalára, fejlesztésére, tevékenységére és működtetésére,
+
+20. külföldi kutatási infrastruktúra szolgáltatásainak igénybevételére,
+
+21. a Kormány döntése alapján nemzetközi együttműködés keretében kutatási infrastruktúra magyarországi létesítésére, valamint Magyarországon létrehozott kutatási infrastruktúra működtetésére, fejlesztésére.

@@ -8,7 +8,7 @@ a) a Kkv. tv. szerint mikro- vagy kisvállalkozásnak minősülő gazdasági tá
 
 b) a Magyar Nemzeti Bank,
 
-c) a Magyar Nemzeti Vagyonkezelő Zrt. és a Maradványvagyon-hasznosító Zártkörűen Működő Részvénytársaság,
+c) a Magyar Nemzeti Vagyonkezelő Zrt.,
 
 d) a büntetés-végrehajtásért felelős miniszter felügyelete alá tartozó, a fogvatartottak kötelező foglalkoztatására létrehozott gazdasági társaság,
 

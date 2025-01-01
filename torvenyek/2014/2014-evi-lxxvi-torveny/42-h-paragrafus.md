@@ -6,6 +6,8 @@
 
 (2a) A kutatóhálózathoz tartozó központi költségvetési szervek vállalkozási tevékenységet is folytathatnak. Ha a tevékenység eredményét közfeladataik ellátására vagy azokat segítő beruházásokra a tárgyévet követő két éven belül felhasználják, ezt az összeget az Áht. 46. § (3) bekezdése szerinti befizetési kötelezettség nem terheli.
 
+(2b) A kutatóhelyek az igazságügyi szakértőkről szóló 2016. évi XXIX. törvény 2. § 8. pontjában meghatározott szervek eljárásában szakértő szervezetként kirendelhetők.
+
 (3) A kutatóhelyek a szakterületükön részt vesznek szakmai állásfoglalás és vélemény kidolgozásában, gondoskodnak kutatóik szakmai fejlődéséről és szakmai utánpótlás biztosításáról, továbbá a felsőoktatási intézményekkel kötött megállapodások szerint közreműködnek az oktatásban, kutatásban és doktori képzésekben.
 
 (4) A kutatóközpont, vagy kutatóintézet érintett szervezeti egysége legfőbb testületi döntéshozó szerve tagjai támogatásával, vagy ennek hiányában a szervezeti egység vezetőjének indokolt javaslatával az Irányító Testületnél kezdeményezheti a szervezeti egység szervezeti átalakítását, kiválását és másik kutatóközponthoz, vagy kutatóintézethez, felsőoktatási intézményhez való csatlakozását, illetve a kiválást követő önálló működtetését.

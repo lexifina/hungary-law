@@ -14,4 +14,4 @@
 
 (5) A (4) bekezdés szerinti lebonyolító szervvel a fejezetet irányító szerv nevében a Kormány által kijelölt szerv köti meg az államháztartásról szóló törvény végrehajtásáról szóló kormányrendelet szerinti megállapodást.
 
-(6) Az NKFI Alap Innovációs, Kutatási és Nemzeti Laboratóriumok Alaprészből áll.
+(6) Az NKFI Alap Innovációs, Kutatási és Missziók Alaprészből áll.
