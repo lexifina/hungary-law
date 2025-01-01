@@ -1,6 +1,6 @@
 2. melléklet a 64/2012. (XII. 12.) BM rendelethez
 
-## Az utánpótlási ruházati ellátmány terhére számla ellenében elszámolható polgári ruházati termékek
+Az utánpótlási ruházati ellátmány terhére számla ellenében elszámolható polgári ruházati termékek
 
 I. Férfi ruházati termékek
 

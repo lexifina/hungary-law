@@ -1,5 +1,3 @@
-## 38. §[^57] Az Országgyűlés Hivatala a használatra természetben kiadott munkaruházat mennyiségét, viselési idejét és bekerülési értékét, valamint a természetben kiadott egyéni védőruha, védőfelszerelés mennyiségét és bekerülési értékét a személyi leltárban tartja nyilván.
-
 ## V. Fejezet
 
 ## A RIADÓCSOMAGGAL VALÓ ELLÁTÁS RENDSZERE, SZABÁLYAI
@@ -8,7 +6,7 @@
 
 (2) A riadócsomag egyszeri ellátás, amit az illetményfolyósító szerv – az Országgyűlési Őrség költségvetésének terhére – pénzben bocsát az igényjogosult rendelkezésére. A kifizetett összeg elszámolás köteles. Az elszámolást a ruházati utánpótlási ellátmánnyal megegyező módon kell végrehajtani.
 
-(3) A riadócsomag értéke 6800 Ft.
+(3)[^104] A riadócsomag értéke 10 000 Ft.
 
 (4) A hivatásos állomány újonnan kinevezett tagja a riadócsomagot a kinevezését követő 30 napon belül köteles összeállítani.
 
@@ -16,10 +14,11 @@
 
 a) tisztálkodó felszerelés (törölköző, szappan, fogkefe, fogkrém, WC papír, fésű, borotválkozó felszerelés/intim csomag),
 
-b) kétnapi hidegélelem (legalább 2 db melegíthető 400 gr-os készételkonzerv, 2 db 65 gr-os és 2 db 150 gr-os húskészítmény konzerv), konzervnyitó,
+b)[^105] kétnapi hidegélelem (legalább 2 db melegíthető, legalább 400 gr-os készételkonzerv, 2 db legalább 60 gr-os és 2 db legalább 130 gr-os húskészítmény konzerv), konzervnyitó,
 
 c) tisztító, karbantartó felszerelés (lábbeli tisztító- és varrókészlet),
 
 d) füzet (A/5), íróeszköz.
 
-[^57]: A 38. § a 9/2018. (IV. 25.) BM rendelet 32. § m) pontja szerint módosított szöveg.
+[^104]: A 39. § (3) bekezdése a 60/2024. (XII. 23.) BM rendelet 74. § 14. pontja szerint módosított szöveg.
+[^105]: A 39. § (5) bekezdés b) pontja a 60/2024. (XII. 23.) BM rendelet 67. §-ával megállapított szöveg.

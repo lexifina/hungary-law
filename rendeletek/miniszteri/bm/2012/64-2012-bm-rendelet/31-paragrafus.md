@@ -1,17 +1,14 @@
-## 30. §[^52]
-
 ## 11. A készletek kialakítása
 
 31. § (1) A készleteket a különféle károsító hatásokat és közegészségügyi érdekeket meghatározó külön jogszabály alapján kell kialakítani. Az Országgyűlési Őrségnél kizárólag olyan egyéni védőfelszerelést lehet használni, amely a vonatkozó jogszabályban meghatározott megfelelőségi tanúsítvánnyal vagy tanúsítással, EK típustanúsítvánnyal, EK megfelelőségi nyilatkozattal vagy homologizációs típusbizonyítvánnyal rendelkezik.
 
-(2)[^53]
+(2)[^95]
 
-(3)[^54] A munkaruha-ellátást – több munkakör ellátása esetén – arra a munkakörre kell biztosítani, amelynek végzésével az igényjogosult a munkaidejének nagyobb részét tölti.
+(3)[^96] A munkaruha-ellátást – több munkakör ellátása esetén – arra a munkakörre kell biztosítani, amelynek végzésével az igényjogosult a munkaidejének nagyobb részét tölti.
 
 (4) Az egyéni védőfelszerelést a munkavégzés vagy más tevékenység egész időtartamára – függetlenül a tevékenység formájától és a munkaidőtől – a munka végzése során előforduló minden ártalomra biztosítani kell.
 
 (5) Ha az igényjogosult egészségének, testi épségének megóvása vagy a közegészségügyi érdek indokolttá teszi, az Országgyűlési Őrség – az Országgyűlés Hivatala útján – az állományparancsban meghatározott eseteken kívül is köteles a megfelelő egyéni védőfelszerelést biztosítani.
 
-[^52]: A 30. §-t a 46/2019. (XII. 18.) BM rendelet 14. §-a hatályon kívül helyezte.
-[^53]: A 31. § (2) bekezdését a 9/2018. (IV. 25.) BM rendelet 33. § e) pontja hatályon kívül helyezte.
-[^54]: A 31. § (3) bekezdése a 9/2018. (IV. 25.) BM rendelet 33. § f) pontja szerint módosított szöveg.
+[^95]: A 31. § (2) bekezdését a 9/2018. (IV. 25.) BM rendelet 33. § e) pontja hatályon kívül helyezte.
+[^96]: A 31. § (3) bekezdése a 9/2018. (IV. 25.) BM rendelet 33. § f) pontja szerint módosított szöveg.

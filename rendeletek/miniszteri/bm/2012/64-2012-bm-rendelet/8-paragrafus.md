@@ -4,14 +4,18 @@ a) gondoskodik az igényjogosultak egyenruházatának és felszerelési cikkeine
 
 b) véleményt ad az ellátás, gazdálkodás során felmerülő vitás ügyekben,
 
-c) az Országgyűlési Őrség igénye alapján ellátja a közbeszerzési törvényben, más jogszabályokban, valamint a közjogi szervezetszabályozó eszközökben foglaltak szerint a ruházati termékek és felszerelési cikkek beszerzését, tárolását, kiadását,
+c)[^28] az Országgyűlési Őrség igénye alapján ellátja a közbeszerzési törvényben és más jogszabályokban foglaltak szerint a ruházati termékek és felszerelési cikkek beszerzését, tárolását, kiadását,
 
-d) a beszerzések végrehajtása után tájékoztatja az Országgyűlési Őrséget az egyenruházati termékek és felszerelési cikkek nyilvántartási árairól,
+d)[^29] a 14. § (2) bekezdése szerint tájékoztatja az Országgyűlési Őrséget az egyenruházati termékek és felszerelési cikkek nyilvántartási értékéről,
 
-e) elkészíti a beszerzési körébe tartozó ruházati termékek és felszerelési cikkek részletes cikkjegyzékét,
+e)[^30]
 
 f) a hivatásos állomány alapfelszerelési és utánpótlási egyenruházati igényeinek kiszolgálása érdekében ruházati raktárt tart fent és készletgazdálkodást folytat, valamint nyilvántartja az igényjogosultak járandóságait,
 
 g) az Országgyűlési Őrséggel együttműködve ellátja a ruházati termékek és felszerelési cikkek reklamációs ügyintézését,
 
 h) végzi az elszámolás keretében visszavételezett ruházat tisztíttatását.
+
+[^28]: A 8. § c) pontja a 60/2024. (XII. 23.) BM rendelet 45. §-ával megállapított szöveg.
+[^29]: A 8. § d) pontja a 60/2024. (XII. 23.) BM rendelet 45. §-ával megállapított szöveg.
+[^30]: A 8. § e) pontját a 60/2024. (XII. 23.) BM rendelet 75. § 5. pontja hatályon kívül helyezte.

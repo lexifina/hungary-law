@@ -2,8 +2,11 @@
 
 (2) Az egyenruházati termékek és felszerelési cikkek megrongálódását, megsemmisülését, elvesztését az igényjogosultnak haladéktalanul írásban jelentenie kell a szolgálati elöljárójánál. A kártérítési felelősség megállapításától függetlenül intézkedni kell az egyenruházati termékek és felszerelési cikkek javításáról, pótlásáról, amelynek a költségét az Országgyűlés Hivatala megelőlegezi.
 
-(3) Ha a kár bekövetkeztében a használó vagy harmadik személy vétkessége nem állapítható meg, a kárt az Országgyűlési Őrség viseli. Az erre irányuló igényt a kártérítési felelősségre vonatkozó külön jogszabályban foglaltak szerint kell elbírálni.
+(3)[^69]
 
 (4) Ha a kárért harmadik személy felel, a kár megtérítése iránt az Országgyűlési Őrség parancsnoka intézkedik.
 
-(5) A kártérítés összegét a tisztítás, javítás címén teljesített tényleges kifizetés, pótlás szükségessége esetén a kár bekövetkezése előtti használhatósági foknak megfelelő érték alapján kell megállapítani, amelyhez értékbecslő vagy szakértő igénybe vehető.
+(5)[^70] A kártérítés összegét a tisztítás, javítás címén teljesített tényleges kifizetés, pótlás szükségessége esetén a tervezett viselési időt alapul véve kell megállapítani.
+
+[^69]: A 24. § (3) bekezdését a 60/2024. (XII. 23.) BM rendelet 75. § 14. pontja hatályon kívül helyezte.
+[^70]: A 24. § (5) bekezdése a 60/2024. (XII. 23.) BM rendelet 58. §-ával megállapított szöveg.

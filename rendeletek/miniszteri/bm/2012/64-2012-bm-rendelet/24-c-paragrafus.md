@@ -1,12 +1,5 @@
-24/C. § (1) A ruházati utánpótlási ellátmány összegéből a 24/A. § szerinti természetbeni ellátás, valamint az esetleges túlellátás fedezetére együttesen a ruházati utánpótlási ellátmány összegének
+24/C. §[^77] (1) Az egyenruhás és vegyes ruhás alapellátási normába sorolt állomány esetében a ruházati utánpótlási ellátmány összegéből a 24/A. § szerinti természetbeni ellátás, valamint az esetleges túlellátás fedezetére együttesen a ruházati utánpótlási ellátmány összegének 100%-a visszatartható.
 
-a) az egyenruhás alapellátási normába sorolt állomány esetében a 100%-a,
+(2) A természetbeni ellátás fedezetéül visszatartott összeg tárgyév október 31-ig fel nem használt részét tárgyév november 30-ig ki kell fizetni a hivatásos állomány részére.
 
-b)[^39] a vegyes ruhás és polgári ruhás alapellátási normába sorolt állomány esetében legfeljebb az 50%-a
-
-## tartható vissza.
-
-(2)[^40] A természetbeni ellátás fedezetéül visszatartott összeg tárgyév szeptember 30-ig fel nem használt részét tárgyév október 31-ig ki kell fizetni a hivatásos állomány részére.
-
-[^39]: A 24/C. § (1) bekezdés b) pontja a 9/2018. (IV. 25.) BM rendelet 32. § i) pontja szerint módosított szöveg.
-[^40]: A 24/C. § (2) bekezdése a 9/2018. (IV. 25.) BM rendelet 32. § j)–k) pontja szerint módosított szöveg.
+[^77]: A 24/C. § a 60/2024. (XII. 23.) BM rendelet 60. §-ával megállapított szöveg.
