@@ -1,3 +1,3 @@
-6. §[^6]
+6. § A kormányzati célú hálózatokról szóló 346/2010. (XII. 28.) Korm. rendelet 21. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-[^6]: A 6. § a 28. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+„(1) A nemzeti távközlési gerinchálózat (a továbbiakban: NTG) biztosítja az e rendelet alapján kormányzati célú hírközlési szolgáltatás igénybevételére kötelezett és jogosult felhasználók számára – a más kormányzati célú hálózat által ki nem elégített – elektronikus hírközlési szolgáltatásokat. Az NTG igénybevételét a kormányzati célú hírközlési szolgáltató biztosítja.”

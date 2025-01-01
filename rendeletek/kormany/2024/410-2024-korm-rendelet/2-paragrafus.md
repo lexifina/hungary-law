@@ -1,3 +1,3 @@
-2. §[^2]
+2. § A kormányzati célú hálózatokról szóló 346/2010. (XII. 28.) Korm. rendelet 6. § (7) bekezdése helyébe a következő rendelkezés lép:
 
-[^2]: A 2. § a 28. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+„(7) A (2) bekezdés e) pontjában foglalt kötelezettség az EDR vonatkozásában nem áll fenn.”

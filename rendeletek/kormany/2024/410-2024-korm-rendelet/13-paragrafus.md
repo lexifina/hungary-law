@@ -1,3 +1,1 @@
-13. §[^13]
-
-[^13]: A 13. § a 28. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+13. § Hatályát veszti a kormányzati célú hálózatokról szóló 346/2010. (XII. 28.) Korm. rendelet 4/A. § (2) bekezdése és 21. § (2) bekezdése.

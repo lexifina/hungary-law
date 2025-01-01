@@ -1,3 +1,1 @@
-27. §[^25]
-
-[^25]: A 27. § a 28. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+27. § Nem lép hatályba a 234/2024. (VIII. 8.) Korm. rendelet 12. §-a, 13. § (1) bekezdése.

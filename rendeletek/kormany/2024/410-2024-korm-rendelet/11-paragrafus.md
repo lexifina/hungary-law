@@ -1,3 +1,3 @@
-11. §[^11]
+11. § A kormányzati célú hálózatokról szóló 346/2010. (XII. 28.) Korm. rendelet a következő 37. §-sal egészül ki:
 
-[^11]: A 11. § a 28. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+„37. § A 2026. május 31. napjáig beszerzett, szélessávú forgalmazásra alkalmas készülékek esetén a készülék használatát – a 16. § (2) bekezdésében foglaltaktól eltérően – a kormányzati célú hírközlési szolgáltató lehetővé teheti abban az esetben is, amennyiben a készülék nem a kormányzati célú hírközlési szolgáltatón keresztül került beszerzésre, feltéve, hogy a 16. § (1) bekezdése szerinti vizsgálatot a kormányzati célú hírközlési szolgáltató lefolytatta és annak eredményeként biztonsági sebezhetőséget, fenyegetettséget nem állapított meg. Az e § szerinti készülékek használatához szükséges licencek tekintetében a 16. § (3) bekezdése nem alkalmazandó.”

@@ -1,3 +1,1 @@
-12. §[^12]
-
-[^12]: A 12. § a 28. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+12. § A kormányzati célú hálózatokról szóló 346/2010. (XII. 28.) Korm. rendelet 4/A. § (3) bekezdésében az „a miniszter” szövegrész helyébe az „az e-közigazgatásért felelős miniszter (a továbbiakban: miniszter)” szöveg lép.
