@@ -82,3 +82,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-2-00-00
 | 2024-07-01 | 2024. évi XXX. törvény | 2012-2-00-00.78 |
 | 2024-07-10 | 2024. évi XXV. törvény | 2012-2-00-00.77 |
 | 2024-09-01 | 2024. évi XII. törvény | 2012-2-00-00.75 |
+| 2025-01-01 | 2023. évi LXX. törvény | 2012-2-00-00.71 |

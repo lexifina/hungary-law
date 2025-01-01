@@ -12,8 +12,6 @@ d) az (5) bekezdésben meghatározott esetben hirdetményi úton,
 
 e) elektronikus úton a Dáptv. szerinti hivatalos elérhetőségre
 
-történhet.
-
 (2) Joghatás csak a szabályszerű kézbesítéshez kapcsolódik. A kézbesítés akkor szabályszerű, ha annak megtörténtét a jogszabályban jogosultként megjelölt személy aláírásával ellátott tértivevény, illetve jegyzőkönyv vagy határozatpéldány igazolja. A kézbesítés akkor is szabályszerű, ha az arra jogosult a jegyzőkönyv vagy határozatpéldány aláírását megtagadja és a szabálysértési hatóság, bíróság ennek tényét az iratra feljegyzi.
 
 (3) A postai úton kézbesítendő iratot szabályszerűen kézbesítettnek kell tekinteni
@@ -28,4 +26,4 @@ c) a kézbesítés megkísérlésének napját követő ötödik munkanapon, ha 
 
 (5) Az ismeretlen helyen tartózkodó eljárás alá vont személy, valamint az elkövető részére a hivatalos iratot hirdetményi úton is lehet kézbesíteni. Hirdetményi kézbesítés esetén a hirdetmény tartalmazza az ügy számát és tárgyát, az eljárás alá vont személy nevét és utolsó ismert lakcímét, a kifüggesztés napját, továbbá, hogy a címzett az iratot melyik szabálysértési hatóságnál vagy bíróságnál veheti át.
 
-(6) A hirdetményt tizenöt napra ki kell függeszteni az azt küldő szabálysértési hatóság vagy bíróság, valamint – ha ilyen van – a címzett utolsó ismert lakóhelye vagy tartózkodási helye szerinti helyi önkormányzat hirdetőtáblájára. A hirdetmény útján közölt hivatalos iratot a hirdetménynek az eljáró szabálysértési hatóságnál vagy a bíróságnál történt kifüggesztésétől számított tizenötödik napon kell kézbesítettnek tekinteni.
+(6) A hirdetményt tizenöt napra ki kell függeszteni az azt küldő szabálysértési hatóság vagy bíróság, valamint – ha ilyen van – a címzett utolsó ismert lakóhelye vagy tartózkodási helye szerinti helyi önkormányzat hirdetőtáblájára, továbbá közzé kell tenni az elektronikus tájékoztatásra szolgáló honlapon. A hirdetmény útján közölt hivatalos iratot a hirdetménynek az eljáró szabálysértési hatóságnál vagy a bíróságnál történt kifüggesztésétől számított tizenötödik napon kell kézbesítettnek tekinteni.
