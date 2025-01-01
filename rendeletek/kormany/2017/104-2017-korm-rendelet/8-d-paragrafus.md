@@ -1,3 +1,0 @@
-8/D. § (1) Ezen alcím alkalmazásában az 1. § 17. pontjában meghatározottakon túl reklámozónak minősül a központi költségvetésről szóló törvényben nevesített és támogatásban részesített költségvetési szerv és jogi személy, a központi költségvetési törvényben nevesített és támogatásban részesített jogi személytől támogatásban részesülő jogi személy, amennyiben a támogatásának összege az éves bevételeinek a felét eléri. Reklámozónak minősül továbbá akkor is, ha érdekében, illetve nevének, illetve jelképének felhasználásával vagy tevékenységének népszerűsítésével kerül reklám és plakát közzétételre.
-
-(2) Ezen alcím alkalmazásában reklámhordozónak minősül a közforgalmú személyszállítási szolgáltatásra használt jármű is.
