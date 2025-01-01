@@ -2,7 +2,7 @@
 
 ## a) M7 autópálya teljes hosszában,
 
-## b)[^11] 2. sz. főút Budapesttől a 2 sz. főút 39+150 km szelvényéig és az M2 autóút 2. és 12. sz. főúti csomópontjától a 2. sz. főút Parassapusztáig,
+## b)[^16] 2. sz. főút Budapesttől a 2 sz. főút 39+150 km szelvényéig és az M2 autóút 2. és 12. sz. főúti csomópontjától a 2. sz. főút Parassapusztáig,
 
 ## c) 2/A autóút teljes hosszában,
 
@@ -38,7 +38,7 @@
 
 ## s) 38. sz. főút 37. sz. főúttal alkotott csomópontja és Rakamaz között.
 
-4. melléklet a 190/2008. (VII. 29.) Korm. rendelethez[^12]
+4. melléklet a 190/2008. (VII. 29.) Korm. rendelethez[^17]
 
 .................... sorszám
 
@@ -80,5 +80,5 @@ ___________
 
 2. A nyilatkozatot a gépjármű vezetője köteles magánál tartani és az ellenőrzésre jogosult hatóság részére felmutatni.
 
-[^11]: A 3. melléklet b) pontja a 297/2014. (XII. 3.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
-[^12]: A 4. melléklet a 280/2010. (XII. 15.) Korm. rendelet 4. § (3) bekezdése, a 297/2014. (XII. 3.) Korm. rendelet 2. § (4) bekezdésével megállapított szöveg.
+[^16]: A 3. melléklet b) pontja a 297/2014. (XII. 3.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^17]: A 4. melléklet a 280/2010. (XII. 15.) Korm. rendelet 4. § (3) bekezdése, a 297/2014. (XII. 3.) Korm. rendelet 2. § (4) bekezdésével megállapított szöveg.

@@ -16,9 +16,13 @@
 
 8. a kulturális, gazdasági és sportrendezvényekhez berendezések és állatok szállításához használt, ideértve a rádió, televízió és a külső filmfelvételekkel összefüggő szállításokat is,
 
-9. a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának részletes szabályairól szóló miniszteri rendeletben meghatározott, a miniszteri rendelet szerinti gyakorlati oktatás vagy vizsgáztatás során használt, és
+9.[^6] a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának részletes szabályairól szóló miniszteri rendeletben meghatározott, a miniszteri rendelet szerinti gyakorlati oktatás vagy vizsgáztatás során használt
 
 10. az 1–7. pontban meghatározott szállítási cél érdekében – a fel- és lerakóhely között, továbbá azok és a telephely viszonylatában – üresen közlekedő
+
+11.[^7] a kritikus szervezetek ellenálló képességéről szóló törvény alapján kijelölt kritikus szervezet által nyújtott alapvető szolgáltatás működésének fenntartásához szükséges, a kritikus szervezet által igénybe vett, és
+
+12.[^8] a védelmi és biztonsági tevékenységek összehangolásáról szóló törvény alapján kijelölt, az ország védelme és biztonsága szempontjából jelentős szervezet által nyújtott alapvető szolgáltatás működésének fenntartásához szükséges, az ország védelme és biztonsága szempontjából jelentős szervezet által igénybe vett
 
 tehergépkocsira.
 
@@ -58,3 +62,6 @@ tehergépkocsira.
 
 [^4]: Az 5. § a 297/2014. (XII. 3.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^5]: Az 5. § (1) bekezdés 1. pontja az 516/2017. (XII. 29.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^6]: Az 5. § (1) bekezdés 9. pontja a 474/2024. (XII. 31.) Korm. rendelet 128. §-a szerint módosított szöveg.
+[^7]: Az 5. § (1) bekezdés 11. pontját a 474/2024. (XII. 31.) Korm. rendelet 125. §-a iktatta be.
+[^8]: Az 5. § (1) bekezdés 12. pontját a 474/2024. (XII. 31.) Korm. rendelet 125. §-a iktatta be.
