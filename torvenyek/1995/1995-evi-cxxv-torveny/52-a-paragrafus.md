@@ -1,6 +1,6 @@
 ## A Nemzeti Információs Központ adatkezelésére vonatkozó különös rendelkezések
 
-52/A. § (1) A Nemzeti Információs Központ az együttműködő szervtől adatokat az 52/B–52/G. §-ban meghatározottak szerint kizárólag a 8/A. § (1)–(3) bekezdésében meghatározott feladatok ellátása céljából szerezhet be.
+52/A. § (1) A Nemzeti Információs Központ az együttműködő szervtől adatokat az 52/B–52/G. §-ban meghatározottak szerint kizárólag a 8/A. § (1) bekezdésében meghatározott feladatok ellátása céljából szerezhet be.
 
 (2)
 

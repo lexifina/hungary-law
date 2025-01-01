@@ -1,4 +1,4 @@
-52/B. § (1) A Nemzeti Információs Központ az együttműködő szerv által kezelt, a Nemzeti Információs Központ 8/A. § (1)–(3) bekezdésében meghatározott feladat- és hatáskörének gyakorlásához szükséges adatot
+52/B. § (1) A Nemzeti Információs Központ az együttműködő szerv által kezelt, a Nemzeti Információs Központ 8/A. § (1) bekezdésében meghatározott feladat- és hatáskörének gyakorlásához szükséges adatot
 
 a) – e törvény eltérő rendelkezése hiányában – az azt tartalmazó adatkezelési rendszerből közvetlen elektronikus adatkapcsolat útján,
 

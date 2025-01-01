@@ -72,7 +72,7 @@ iu) az Országgyűlési Őrség személyi állománya;
 
 iv) a Nemzeti Emlékezet Bizottsága tagja;
 
-iw) a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló törvény (a továbbiakban: Lrtv.) szerinti közigazgatási hatósági eljárásban a hatóságok és a szakhatóságok részéről részt vevő személy, valamint – az Lrtv. szerinti üzemeltető kezdeményezésére – az európai létfontosságú rendszerelemekre vonatkozó, Lrtv. szerinti azonosítási eljárásban az üzemeltető által igénybe vett közreműködő személy;
+iw) a kritikus szervezetek ellenálló képességéről szóló törvény szerinti kritikus szervezetekkel, kritikus infrastruktúrákkal, valamint a védelmi és biztonsági tevékenységek összehangolásáról szóló törvény szerinti, az ország védelme és biztonsága szempontjából jelentős szervezetekkel, az ország védelme és biztonsága szempontjából jelentős infrastruktúrákkal kapcsolatos közigazgatási hatósági eljárásban a hatóságok és az ágazati szakhatóságok részéről eljáró személy;
 
 ix) a Szabályozott Tevékenységek Felügyeleti Hatósága foglalkoztatottja.
 

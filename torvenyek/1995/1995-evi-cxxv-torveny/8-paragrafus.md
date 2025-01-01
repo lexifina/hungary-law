@@ -32,24 +32,12 @@ k) saját állománya tekintetében ellátja a belső biztonsági és bűnmegel�
 
 (6) A titkos információgyűjtés folytatására, illetve a leplezett eszközök alkalmazására feljogosított szervek és a Nemzetbiztonsági Szakszolgálat közötti együttműködés rendjét a Kormány határozza meg.
 
-(7) A Nemzetbiztonsági Szakszolgálat – a 6. § g) pontjában foglaltak és a katonai kibertér műveletek kivételével – információbiztonsággal kapcsolatos feladatkörében
+(7)
 
-a) ellátja az állami és önkormányzati szervek elektronikus információbiztonságáról szóló törvény hatálya alá tartozó szervek tekintetében az ott meghatározott hatásköri szabályok szerint a kibertérből érkező fenyegetésekkel és támadásokkal szembeni védelmet,
+(8)
 
-b) a honvédelmi ágazat kivételével irányítja a kibertérből érkező fenyegetésekre történő felkészülést és a kapcsolódó biztonsági feladatokat,
+(9)
 
-c) ellenőrzi – az azon folytatott kommunikáció megismerése nélkül – az elektronikus hírközlési hálózatok forgalmát, észleli a kibertérből érkező fenyegetéseket és támadásokat,
-
-d) végrehajtja vagy kezdeményezi a kibertérből érkező támadás megszakításához szükséges intézkedéseket.
-
-(8) A (7) bekezdés d) pontja szerinti intézkedés végrehajtására a Kormány által kijelölt személy erre vonatkozó döntése alapján van lehetőség. A támadás megszakítását követően meg kell vizsgálni a védelem fokozásához szükséges további intézkedések lehetséges körét, illetve az ország védelmével összefüggő további döntések szükségességét.
-
-(9) A (7) bekezdés d) pontja szerinti intézkedésnek
-
-a) az okozott sérelemmel vagy közvetlen fenyegetéssel arányosnak és szükséges mértékűnek kell lennie, és törekedni kell arra, hogy a támadás megszakításán túli eredményre vagy sérelemre ne vezessen,
-
-b) biztosítani kell az összhangot a nemzetbiztonsági, honvédelmi, bűnüldözési és külpolitikai érdekekkel és törekvésekkel.
-
-(10) Külföldről érkező jelentős kibertámadás esetén a foganatosított intézkedésekről és azok okairól tájékoztatni kell a külpolitikáért felelős minisztert a további intézkedések megtétele céljából.
+(10)
 
 (11) A Nemzetbiztonsági Szakszolgálat a (3) bekezdés szerint, az (1) bekezdés f) és i) pontjában meghatározott feladatai ellátása érdekében saját kezdeményezésre végzett tevékenységből, illetve az (1) bekezdés f) és i) pontjában meghatározott feladatai érdekében a saját kezdeményezésre alkalmazott eszközök és módszerek által megszerzett, a Nemzeti Információs Központ 8/A. §-ban meghatározott feladat- és hatásköre gyakorlásához szükséges információkat haladéktalanul biztosítja a Nemzeti Információs Központnak.

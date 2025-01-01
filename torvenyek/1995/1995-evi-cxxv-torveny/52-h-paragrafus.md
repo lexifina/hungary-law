@@ -1,10 +1,10 @@
-52/H. § (1) A Nemzeti Információs Központ a 8/A. § (4) bekezdésében meghatározott feladatkörében a légiutas-adat szolgáltatójától átveszi és kezeli az utasadatokat.
+52/H. § (1) A Nemzeti Információs Központ a 8/A. § (1) bekezdés j) pontjában meghatározott feladatkörében a légiutas-adat szolgáltatójától átveszi és kezeli az utasadatokat.
 
 (2) A légiutas-adatok átvételének és kezelésének a célja a 3. számú mellékletben meghatározott bűncselekmények megelőzésének, felderítésének, nyomozásának és üldözésének elősegítése.
 
-(3) A légiutas-adat szolgáltatója a Nemzeti Információs Központ által meghatározott elektronikus formátumban és módon adja át a légiutas-adatot.
+(3) A Nemzeti Információs Központ és a légiutas-adat szolgáltatója közötti kapcsolattartás, valamint a légiutas-adat átadásának módját a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter rendeletben határozza meg.
 
-(4) A Nemzeti Információs Központ a 8/A. § (4) bekezdésében meghatározott feladatkörében
+(4) A Nemzeti Információs Központ a 8/A. § (1) bekezdés j) pontjában meghatározott feladatkörében
 
 a) a légiutas-adat szolgáltatója által szolgáltatott légiutas-adatokat összeveti az elemző-értékelő tevékenység céljából kezelt adatokkal,
 
@@ -16,7 +16,7 @@ c) az átvett légiutas-adatokról nyilvántartást vezet.
 
 (6) A Nemzeti Információs Központ a (4) bekezdés b) pontja szerinti kockázatelemzés ellátása során elsőként automatizált kockázatelemzést végez. Ha az automatizált kockázatelemzésből találat származik, a Nemzeti Információs Központ a találatot nem automatizált eszközökkel, emberi tényező bevonásával történő egyedi felülvizsgálat alá vonja.
 
-(7) Ha a Nemzeti Információs Központ az utasadat-információs feladatai során az elemző-értékelő tevékenység keretében a 3. számú mellékletben meghatározott bűncselekményre vonatkozó információt tár fel, a 8/A. § (3) bekezdés i) pontjában meghatározottak szerint jár el.
+(7) Ha a Nemzeti Információs Központ az utasadat-információs feladatai során az elemző-értékelő tevékenység keretében a 3. számú mellékletben meghatározott bűncselekményre vonatkozó információt tár fel, a 8/A. § (1) bekezdés f) pontjában meghatározottak szerint jár el.
 
 (8) A Nemzeti Információs Központ az átvett légiutas-adatot a Nemzeti Információs Központhoz érkezést követő öt évig kezeli.
 
