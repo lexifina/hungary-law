@@ -1,15 +1,15 @@
 ## Fejlesztési pályázat
 
-9. § (1)[^82] Az általános pályázat elbírálását követően ellátatlanul vagy részben ellátatlanul maradt területek ellátása, illetve kapacitásbővítés érdekében fejlesztési pályázat is kiírható. A fejlesztési pályázat keretében a működési támogatáson túl a kezelő szerv fejlesztési támogatást is nyújt.
+9. § (1)[^75] Az általános pályázat elbírálását követően ellátatlanul vagy részben ellátatlanul maradt területek ellátása, illetve kapacitásbővítés érdekében fejlesztési pályázat is kiírható. A fejlesztési pályázat keretében a működési támogatáson túl a kezelő szerv fejlesztési támogatást is nyújt.
 
 (2) A fejlesztési pályázat a 4. § (4) bekezdése szerinti nyílt pályázatként vagy meghívásos pályázatként írható ki.
 
-(3)[^83] Fejlesztési pályázat esetén a pályázatot olyan szolgáltató támogatására is be lehet nyújtani, amely nem felel meg az 5. § (2) bekezdése szerinti feltételeknek. Ebben az esetben a pályázathoz csatolni kell a fenntartó nyilatkozatát arról, hogy vállalja, hogy a szolgáltatónak a szolgáltatói nyilvántartásba történő bejegyzésére – a pályázati kiírásban meghatározott időpontig – a pályázatban foglaltaknak megfelelően sor kerül.
+(3)[^76] Fejlesztési pályázat esetén a pályázatot olyan szolgáltató támogatására is be lehet nyújtani, amely nem felel meg az 5. § (2) bekezdése szerinti feltételeknek. Ebben az esetben a pályázathoz csatolni kell a fenntartó nyilatkozatát arról, hogy vállalja, hogy a szolgáltatónak a szolgáltatói nyilvántartásba történő bejegyzésére – a pályázati kiírásban meghatározott időpontig – a pályázatban foglaltaknak megfelelően sor kerül.
 
 (4) A fejlesztési pályázatra egyebekben a 4–8. § szabályait kell megfelelően alkalmazni azzal, hogy a pályázati kiírásnak tartalmaznia kell a fejlesztési támogatás elnyerésének és felhasználásának feltételeit, a pályázaton elnyerhető fejlesztési támogatás legmagasabb összegét, továbbá a fejlesztési támogatással való elszámolás és az ellenőrzés szabályait.
 
-(5)[^84] A fejlesztési pályázaton nyertes fenntartóval a kezelő szerv a fejlesztési támogatásról támogatási szerződést köt. A támogatási szerződés megkötésére, módosítására és megszüntetésére, a fejlesztési támogatás folyósítására, az elszámolásra és az ellenőrzésre Biztos Kezdet Gyerekház és tanoda esetén a társadalmi felzárkózásért felelős miniszter, egyéb szolgáltatás esetén a szociálpolitikáért felelős miniszter felügyelete alá tartozó fejezeti kezelésű előirányzatok felhasználásáról szóló miniszteri rendeletben foglaltakat kell alkalmazni.
+(5)[^77] A fejlesztési pályázaton nyertes fenntartóval a kezelő szerv a fejlesztési támogatásról támogatási szerződést köt. A támogatási szerződés megkötésére, módosítására és megszüntetésére, a fejlesztési támogatás folyósítására, az elszámolásra és az ellenőrzésre Biztos Kezdet Gyerekház és tanoda esetén a társadalmi felzárkózásért felelős miniszter, fejlesztő foglalkoztatás esetén a szociálpolitikáért felelős miniszter felügyelete alá tartozó fejezeti kezelésű előirányzatok felhasználásáról szóló miniszteri rendeletben foglaltakat kell alkalmazni.
 
-[^82]: A 9. § (1) bekezdése a 140/2011. (VII. 21.) Korm. rendelet 14. § l) pontja, a 180/2019. (VII. 26.) Korm. rendelet 6. § (5) bekezdés b) pontja szerint módosított szöveg.
-[^83]: A 9. § (3) bekezdése a 369/2013. (X. 24.) Korm. rendelet 56. § (5) bekezdés d) pontja, a 419/2051. (XII. 23.) Korm. rendelet 23. § e) pontja szerint módosított szöveg.
-[^84]: A 9. § (5) bekezdése a 82/2019. (IV. 18.) Korm. rendelet 2. § (6) bekezdés d) pontja, a 180/2019. (VII. 26.) Korm. rendelet 6. § (5) bekezdés b) pontja, a 238/2022. (VI. 30.) Korm. rendelet 83. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^75]: A 9. § (1) bekezdése a 140/2011. (VII. 21.) Korm. rendelet 14. § l) pontja, a 180/2019. (VII. 26.) Korm. rendelet 6. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^76]: A 9. § (3) bekezdése a 369/2013. (X. 24.) Korm. rendelet 56. § (5) bekezdés d) pontja, a 419/2051. (XII. 23.) Korm. rendelet 23. § e) pontja szerint módosított szöveg.
+[^77]: A 9. § (5) bekezdése a 82/2019. (IV. 18.) Korm. rendelet 2. § (6) bekezdés d) pontja, a 180/2019. (VII. 26.) Korm. rendelet 6. § (5) bekezdés b) pontja, a 238/2022. (VI. 30.) Korm. rendelet 83. § (2) bekezdés c) pontja, a 455/2024. (XII. 30.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
