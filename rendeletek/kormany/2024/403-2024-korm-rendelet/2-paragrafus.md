@@ -1,0 +1,1 @@
+2. § A személyi jövedelemadóról szóló 1995. évi CXVII. törvény 71. § (1b) bekezdése szerinti munkáltatói juttatást a munkavállaló az e rendeletben meghatározottak szerint a lakhatási cél konkrét megjelölésével kérheti a munkáltatójától.
