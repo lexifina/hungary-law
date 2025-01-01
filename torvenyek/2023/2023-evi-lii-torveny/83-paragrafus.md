@@ -1,14 +1,12 @@
 ### 83. § [Rendkívüli munkavégzés]
 
-(1) A kötött munkaidőben foglalkoztatott számára a munkáltató rendkívüli munkaidőben történő munkavégzést rendelhet el. Rendkívüli munkaidő
+(1) A kötött munkarendben foglalkoztatott számára a munkáltató rendkívüli munkaidőben történő munkavégzést rendelhet el. Rendkívüli munkaidő
 
-a) a munkáltató által előírt munkaidő-beosztástól eltérő,
+a) a munkáltató által előírt munkaidő-beosztástól eltérő munkaidő,
 
-b) a munkaidőkereten felüli,
+b) a munkaidőkereten felüli munkaidő, továbbá
 
-c) az elszámolási időszak alkalmazása esetén az ennek alapjául szolgáló heti munkaidőt meghaladó munkaidő, továbbá
-
-d) az ügyelet tartama.
+c) az ügyelet tartama.
 
 (2) Naptári évenként kétszázötven óra rendkívüli munkaidő rendelhető el. Ennek időarányos részét lehet elrendelni, ha a köznevelési foglalkoztatotti jogviszony
 

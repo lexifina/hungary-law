@@ -38,6 +38,8 @@
 
 18. a gyermek, tanuló érdekében működjön együtt munkatársaival és más intézményekkel.
 
+19. a nevelő-oktató munka során az ismeretek átadását a tankönyvjegyzéken szereplő tankönyvek, továbbá az Alaptörvényben, valamint a Nemzeti Alaptantervben szereplő érvényes értékeknek megfelelő tansegédletek használatával közvetítse.
+
 (2) A nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatott az (1) bekezdés 1., 4., 5., 7., 8., 13–18. pontjaiban foglalt feladatokat köteles ellátni.
 
 (3) Az (1) és (2) bekezdésben foglaltak érdekében a köznevelési foglalkoztatotti jogviszonyban álló köteles

@@ -22,7 +22,7 @@ rendelhetők el.
 
 a) neveléssel-oktatással lekötött munkaidőre és
 
-b) a vezetői feladatok ellátására szolgáló időre
+b) a vezetői és pedagógus munkakörébe tartozó egyéb feladatok ellátására szolgáló időre
 
 oszlik, melynek mértékét a 2. melléklet határozza meg. Vezetői megbízással rendelkező pedagógus heti neveléssel-oktatással lekötött munkaidejétől a fenntartó döntése alapján lefelé el lehet térni.
 

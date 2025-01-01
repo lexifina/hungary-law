@@ -1,6 +1,6 @@
 ### 91. § [A szabadság kiadása]
 
-(1) A szabadságot természetben kell kiadni. Ettől eltérően, a köznevelési foglalkoztatotti jogviszony megszűnésekor, ha a munkáltató az arányos szabadságot nem adta ki, azt – az apasági szabadság és a szülői szabadság kivételével – meg kell váltani.
+(1) A szabadságot természetben kell kiadni. Ettől eltérően, a köznevelési foglalkoztatotti jogviszony megszűnésekor, ha a munkáltató az arányos szabadságot nem adta ki, azt – az áthelyezés esetét, az apasági szabadság és a szülői szabadság kivételével – meg kell váltani.
 
 (2) A szabadságot – a köznevelési foglalkoztatotti jogviszonyban álló előzetes meghallgatása után – a munkáltató az iskolai szünetben, óvodában július 1-jétől augusztus 31-éig tartó időszakban adja ki.
 
@@ -10,7 +10,7 @@
 
 (5) A (4) bekezdésben foglaltaktól eltérően
 
-a) az apasági szabadságot legkésőbb a gyermek születését követő, vagy gyermek örökbefogadása esetén legkésőbb az örökbefogadást engedélyező határozat véglegessé válását követő második hónap végéig a köznevelési foglalkoztatotti jogviszonyban álló kérésének megfelelő időpontban, legfeljebb két részletben kell kiadni,
+a) az apasági szabadságot legkésőbb a gyermek születését követő, vagy gyermek örökbefogadása esetén legkésőbb az örökbefogadást engedélyező határozat véglegessé válását követő negyedik hónap végéig a köznevelési foglalkoztatotti jogviszonyban álló kérésének megfelelő időpontban, legfeljebb két részletben kell kiadni,
 
 b) szülői szabadságot a köznevelési foglalkoztatotti jogviszonyban álló gyermeke hároméves koráig terjedő időszakban, kérésének megfelelő időpontban kell kiadni.
 

@@ -44,7 +44,7 @@ a) nevét,
 
 b) születési helyét, idejét,
 
-c) nemét, állampolgárságát, nem magyar állampolgár esetén a Magyarország területén való tartózkodás jogcímét és a tartózkodásra jogosító okirat megnevezését, számát,
+c) nemét, állampolgárságát, nem magyar állampolgár esetén a Magyarország területén való tartózkodás jogcímét és a tartózkodásra jogosító okirat, a szabad mozgás és tartózkodás jogával rendelkező személyek esetén a tartózkodási jogot igazoló okmány megnevezését, számát,
 
 d) lakóhelyét, tartózkodási helyét,
 

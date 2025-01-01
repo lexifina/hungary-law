@@ -42,11 +42,7 @@ a havi illetményének pótlék és egyes köznevelési feladatokért járó meg
 
 (6) A havi illetményt száz forintra kerekítve kell megállapítani.
 
-(7) Havi illetmény esetén az egy órára járó illetmény meghatározása során a havi illetmény összegét osztani kell
-
-a) általános teljes napi munkaidő esetén: százhetvennégy órával,
-
-b) általánostól eltérő teljes napi vagy részmunkaidő esetén: százhetvennégy óra időarányos részével.
+(7) Havi illetmény esetén az egy órára járó illetmény meghatározása során a havi illetmény összegét osztani kell a hónapban irányadó általános munkarend szerinti óraszámmal, általánostól eltérő teljes napi vagy részmunkaidő esetén annak időarányos részével.
 
 (8) Az egyházi és magán fenntartású köznevelési intézmény – a (2) bekezdésben foglaltaktól eltérően – a pedagógus havi illetményét az adott illetménysáv felső határánál magasabb összegben is megállapíthatja.
 

@@ -20,6 +20,12 @@ h) ha a munkáltató foglalkoztatási kötelezettségének – az elháríthatat
 
 i) a munkáltatói utasítás megtagadása esetén előírt rendelkezésre állási kötelezettség teljesítésének ideje alatt.
 
+j) a felmentési idő alatt a munkavégzés alóli mentesítés időtartamára,
+
+k) a jogszabály szerinti örökbefogadás előkészítése időszakában – az örökbe fogadható gyermekkel történő személyes találkozás céljából – járó munkavégzés alóli mentesülés időtartamára,
+
+l) minden olyan időre, amelyre az 5. § szerinti köznevelési foglalkoztatotti jogviszonyra vonatkozó szabály rendelkezésre állás vagy munkavégzés hiányában, annak mértéke meghatározása nélkül díjazás fizetését írja elő.
+
 (2) A betegszabadság tartamára, ideértve a munkaszüneti napon fennálló keresőképtelenséget is, a távolléti díj hetven százaléka jár. Nem illeti meg a betegszabadság idejére díjazás, ha a keresőképtelenségére tekintettel táppénzben vagy baleseti táppénzben részesül, vagy egyébként munkaköre ellátására egészségi okból alkalmatlan.
 
 (3) A köznevelési foglalkoztatotti jogviszonyban állót az apasági szabadság
@@ -36,7 +42,7 @@ illeti meg.
 
 (6) A távolléti díjat
 
-a) az esedékessége időpontjában érvényes, a 98. § alapján megállapított havi illetmény, tartós pótlék, ügyeleti, készenléti átalánydíj, egyes köznevelési feladatokért járó megbízási díj, ösztönzési keresetkiegészítés,
+a) az esedékessége időpontjában érvényes, a 98. § alapján megállapított havi illetmény, tartós pótlék, egyes köznevelési feladatokért járó megbízási díj, ösztönzési keresetkiegészítés,
 
 b) az esedékesség időpontját megelőző utolsó hat hónapra (a továbbiakban: irányadó időszak) kifizetett eseti pótlék, többlettanítási óradíj, készenléti és ügyeleti díj
 
@@ -50,7 +56,7 @@ b) a végkielégítés tekintetében a munkáltatói felmentés közlésének va
 
 c) kártérítési felelősség megállapítása esetén a kár bekövetkezésének időpontja, ha a köznevelési foglalkoztatotti jogviszony ezt megelőzően megszűnt, a megszűnés időpontja.
 
-(8) A (6) bekezdés a) pontjában meghatározott díjazást az esedékesség időpontja szerinti összegben, ha pedig a távollét tartama során annak összege módosul, a távollét módosítást követő tartamára a módosított összegben kell figyelembe venni. A (6) bekezdés a) pontjában meghatározott díjazás meghatározott időszakra járó részének számításánál a díjazásnak az így egy hónapra megállapított összegét osztani kell 174-gyel és szorozni kell a meghatározott időszakra eső általános munkarend szerinti teljesítendő órák számával.
+(8) A (6) bekezdés a) pontjában meghatározott díjazást az esedékesség időpontja szerinti összegben, ha pedig a távollét tartama során annak összege módosul, a távollét módosítást követő tartamára a módosított összegben kell figyelembe venni.
 
 (9) A (6) bekezdés b) pontjában meghatározott díjazás vonatkozásában
 
@@ -60,7 +66,7 @@ b) az éjszakai bérpótlékot a távolléti díj kiszámításánál akkor kell
 
 c) a rendkívüli munkavégzés pótlékát és a többlettanítási óradíjat minden esetben figyelembe kell venni.
 
-(10) A (6) bekezdés b) pontjában meghatározott díjazást az egy órára járó távolléti díj kiszámításánál úgy kell figyelembe venni, hogy az irányadó időszakra kifizetett díjazás összegét osztani kell az irányadó időszakban, a beosztás szerinti munkaidőben teljesített órák számával (osztószám).
+(10) A (6) bekezdésben meghatározott díjazást az egy órára járó távolléti díj kiszámításánál úgy kell figyelembe venni, hogy az irányadó időszakra kifizetett díjazás összegét osztani kell az irányadó időszakban, a beosztás szerinti munkaidőben teljesített órák számával (osztószám).
 
 (11) A távolléti díj megállapításakor a (6) bekezdés a) és b) pontja szerinti összegeket együttesen kell figyelembe venni.
 

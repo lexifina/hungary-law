@@ -16,7 +16,7 @@ a kifizetés esedékességekor érvényes, pótlék és megbízási díj nélkü
 
 (4) Ha a köznevelési foglalkoztatotti jogviszonyban álló köznevelési foglalkoztatotti jogviszonya
 
-a) áthelyezés vagy elbocsátás esete kivételével megszűnik és legkésőbb a megszűnés időpontjában nyugdíjasnak minősül, vagy
+a) áthelyezés, rendkívüli felmentés vagy elbocsátás esete kivételével megszűnik és legkésőbb a megszűnés időpontjában nyugdíjasnak minősül, vagy
 
 b) felmentésére nyugdíjjogosultság megszerzésének indokával kerül sor
 
@@ -26,7 +26,7 @@ b) felmentésére nyugdíjjogosultság megszerzésének indokával kerül sor
 
 (6) A szakmai gyakorlatot a Kormány rendeletében állapítja meg. A szakmai gyakorlati időbe bele kell számítani
 
-a) az e törvény hatálya alá tartozó munkáltatónál munkaviszonyban, közalkalmazotti jogviszonyban, egészségügyi szolgálati jogviszonyban,
+a) az e törvény hatálya alá tartozó munkáltatónál munkaviszonyban, közalkalmazotti jogviszonyban,
 
 b) a Kjt. hatálya alá tartozó szervnél munkaviszonyban, közalkalmazotti jogviszonyban,
 
@@ -52,8 +52,12 @@ l) a honvédek jogállásáról szóló kormányrendelet szerinti hivatásos vag
 
 m) az állami tisztviselőkről szóló törvény hatálya alá tartozó munkáltatónál állami szolgálati jogviszonyban, ösztöndíjas foglalkoztatási jogviszonyban, illetve munkaviszonyban
 
+n) egészségügyi szolgálati jogviszonyban
+
 töltött időt.
 
 (7) A szakmai gyakorlat munkavégzési kötelezettséggel nem járó szünetelésének időszaka – kormányrendeletben meghatározottak alapján – köznevelési foglalkoztatotti jutalomra jogosító időnek tekintendő.
 
 (8) A közalkalmazotti jogviszonyban töltött időként és szakmai gyakorlatként is figyelembe vehető időszak csak egyszer számítható be.
+
+(9) Ha a köznevelési foglalkoztatotti jogviszony megállapításakor azonos időtartamra több jogviszony vehető figyelembe, közülük erre az időre csak egy jogviszony számítható be.

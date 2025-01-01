@@ -14,6 +14,6 @@
 
 (5) Költségvetési intézmény által foglalkoztatott köznevelési dolgozó munkaviszonyára alkalmazni kell a Mt. köztulajdonban álló munkáltatóval fennálló munkaviszonyra vonatkozó szabályait.
 
-(6) A köznevelésben foglalkoztatott köznevelési dolgozóra nem alkalmazható az Mt. 71–76. §-a.
+(6) A köznevelésben foglalkoztatott köznevelési dolgozóra nem alkalmazható az Mt. 36–40. § és 71–76. §-a.
 
 (7) A köznevelési dolgozó részére járó végkielégítés összegének, szabadságának, jubileumi jutalmának és a felmentési idejének megállapítására a Kjt. 2023. december 31-én hatályos rendelkezéseit kell alkalmazni.

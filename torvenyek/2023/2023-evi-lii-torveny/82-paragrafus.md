@@ -6,11 +6,11 @@
 
 a) eseti helyettesítés, ha a betöltött munkakör feladatainak ellátása betegség, baleset vagy egyéb ok miatt váratlanul lehetetlenné vált,
 
-b) tartós helyettesítés, ha a munkakör nincs betöltve, a pályázati vagy álláshirdetési eljárás idejére, vagy sikertelen pályázati vagy álláshirdetési eljárás esetén.
+b) tartós helyettesítés, ha a munkakör nincs betöltve, a pályázati vagy álláshirdetési eljárás idejére, vagy sikertelen pályázati vagy álláshirdetési eljárás esetén, továbbá ha az eseti helyettesítés időtartama a (3) bekezdés szerinti két hetet meghaladja.
 
 (3) Eseti helyettesítés egy nevelési, tanítási évben több alkalommal is elrendelhető, egybefüggő két hét eseti helyettesítést követően azonban az ugyanazon munkakört érintő helyettesítési feladatok csak tartós helyettesítéssel láthatók el. A foglalkoztatott egy tanévben, nevelési évben teljes munkaidő esetén legfeljebb hatvan órában, részmunkaidő esetén ennek időarányos részéig végezhet eseti helyettesítést.
 
-(4) Ha a feladatellátás más munkaszervezési eszközökkel nem oldható meg, a pedagógus számára a munkáltató a munkakörére irányadó neveléssel-oktatással lekötött munkaidő mértékéig bármely okból, annak legfeljebb száztíz százalékáig kizárólag eseti helyettesítésre egyoldalúan rendelhet el többlettanítást.
+(4) Ha a feladatellátás más munkaszervezési eszközökkel nem oldható meg, a pedagógus számára a munkáltató a munkakörére irányadó neveléssel-oktatással lekötött munkaidő legfeljebb száztíz százalékáig kizárólag eseti helyettesítésre egyoldalúan rendelhet el többlettanítást.
 
 (5) Az eseti helyettesítés óraszáma az egyes tanítási hetek között havi szinten átcsoportosítható.
 
