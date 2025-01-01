@@ -14,7 +14,7 @@ b) a 86. § (3) bekezdésétől nem lehet eltérni.
 
 (2a) A felmondási időre, valamint a végkielégítésre való jogosultság megállapításánál – az (1) bekezdéstől eltérően – a korábbi munkáltatónál munkaviszonyban töltött időt is figyelembe kell venni, ha
 
-a) a jogviszony megszüntetésére közös megegyezéssel került sor,
+a) a jogviszony megszüntetésére közös megegyezéssel került sor, és a munkavállaló a munkaviszony megszüntetésére tekintettel kizárólag olyan munkabérben vagy egyéb juttatásban részesült, amely jogszabály alapján megilleti,
 
 b) a korábbi munkáltató a munkaviszony megszűnésekor köztulajdonban állónak minősült, és
 

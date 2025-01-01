@@ -14,7 +14,7 @@ végzett munka esetén.
 
 (4) A munkaidő-beosztás szerinti heti pihenőnapra (heti pihenőidőre) elrendelt rendkívüli munkaidőben történő munkavégzés esetén száz százalék bérpótlék jár. A bérpótlék mértéke ötven százalék, ha a munkáltató másik heti pihenőnapot (heti pihenőidőt) biztosít.
 
-(5) Munkaszüneti napra elrendelt rendkívüli munkaidőben történő munkavégzés esetén a munkavállalót a (4) bekezdés szerinti bérpótlék illeti meg.
+(5) Munkaszüneti napra elrendelt rendkívüli munkaidőben történő munkavégzés esetén a munkavállalót száz százalék bérpótlék illeti meg.
 
 (6) A szabadidőt vagy a (4) bekezdés szerinti heti pihenőnapot (heti pihenőidőt) legkésőbb az elrendelt rendkívüli munkaidőben történő munkavégzést követő hónapban, egyenlőtlen munkaidő-beosztás alkalmazása esetén legkésőbb a munkaidőkeret vagy az elszámolási időszak végéig kell kiadni. Ettől eltérően munkaidőkereten felül végzett munka esetén a szabadidőt legkésőbb a következő munkaidőkeret végéig kell kiadni.
 

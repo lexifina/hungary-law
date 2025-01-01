@@ -1,6 +1,6 @@
 210. § (1) Munkáltatói felmondás esetén
 
-a) a 65. § (3) bekezdés c) pontot,
+a)
 
 b) a 66. § (1)–(6) bekezdését és
 

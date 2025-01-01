@@ -14,6 +14,6 @@ d) a gyermek gondozása céljából igénybe vett fizetés nélküli szabadság 
 
 e) a tényleges önkéntes tartalékos katonai szolgálatteljesítés három hónapot meg nem haladó,
 
-f) a munkavégzés alóli mentesülésnek az 55. § (1) bekezdés a)–m) pontjában és (5) bekezdésében meghatározott
+f) a munkavégzés alóli mentesülésnek az 55. § (1) bekezdés a)–n) pontjában és (5) bekezdésében meghatározott
 
 tartama.

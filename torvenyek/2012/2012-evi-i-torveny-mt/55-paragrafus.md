@@ -26,7 +26,9 @@ k) a különös méltánylást érdemlő személyi, családi vagy elháríthatat
 
 l) a súlyos egészségi okból gondozásra szoruló hozzátartozójának, vagy a munkavállalóval közös háztartásban élő személynek nyújtott személyes gondozás céljából évente legfeljebb öt munkanapra, vagy
 
-m) munkaviszonyra vonatkozó szabályban meghatározott időre.
+m) az országgyűlési képviselők választásán, az Európai Parlament tagjainak választásán, a helyi önkormányzati képviselők és polgármesterek választásán, a nemzetiségi önkormányzati képviselők választásán, valamint a helyi vagy országos népszavazáson való részvétel céljából legfeljebb két óra időtartamra, amennyiben e napra beosztott rendes vagy elrendelt rendkívüli munkaidő tartama meghaladja a nyolc órát, vagy
+
+n) munkaviszonyra vonatkozó szabályban meghatározott időre.
 
 (2) Az (1) bekezdés j) pontja szerinti esetben a munkavállalót a kérésének megfelelő időpontban – az örökbefogadást elősegítő szervezet által kiállított igazolás alapján, a kiállításától számított kilencven napon belül – kell mentesíteni. Az igénybevételről a munkavállaló legalább öt munkanappal korábban tájékoztatja a munkáltatót.
 

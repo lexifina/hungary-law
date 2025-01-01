@@ -4,7 +4,7 @@
 
 a) a szabadság tartamára,
 
-b) az 55. § (1) bekezdés c)–g) és j) pontjában meghatározott esetben,
+b) az 55. § (1) bekezdés c)–g), j) és m) pontjában meghatározott esetben,
 
 c) az 55. § (1) bekezdés i) pontjában meghatározott esetben, ha tanúként hallgatják meg,
 

@@ -84,4 +84,6 @@ b) a megállapodást a munkavállaló a naptári hónap utolsó napjára, munkai
 
 (6) Kollektív szerződés a (4) bekezdés szerint foglalkoztatott munkavállaló esetében osztott munkaidőt állapíthat meg.
 
-(7) Kollektív szerződés rendelkezése alapján a 97. § (4) bekezdés szerint közölt munkaidő-beosztás a beosztás szerinti napi munkaidő kezdetét megelőzően legfeljebb negyvennyolc órával módosítható.
+(7) Kollektív szerződés rendelkezése alapján a 97. § (4) bekezdés szerint közölt munkaidő-beosztás a beosztás szerinti napi munkaidő kezdetét megelőzően legkésőbb negyvennyolc órával módosítható.
+
+(8) Kollektív szerződés a 99. § (3a) bekezdésben foglaltnál hosszabb, legfeljebb harmincnapos felmondási időt is megállapíthat.
