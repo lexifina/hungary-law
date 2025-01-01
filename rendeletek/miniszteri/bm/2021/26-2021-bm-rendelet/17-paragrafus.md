@@ -9,3 +9,7 @@
 17. § (1) A rendészeti vezetőkiválasztási eljárásban (a továbbiakban: vezetőkiválasztási eljárás) való részvételre a hivatásos állomány tagját az Országgyűlési Őrség parancsnoka jelölheti, a hivatásos állomány tagjának beleegyezésével.
 
 (2) A vezetőkiválasztási eljárásban való részvételre a hivatásos állomány azon tagja jelölhető, aki legalább 4 év hivatásos szolgálati jogviszonyban töltött idővel rendelkezik, és a legutolsó éves teljesítményértékelése kivételes vagy jó teljesítményfokozatú.
+
+(3)[^8] A hivatásos állomány tagja a rendészeti vezetőképzésbe a minisztérium által végzett vezetőkiválasztási eljárás útján kerülhet be. Az Országgyűlési Őrség együttműködik a minisztériummal a vezetőkiválasztási eljárás lebonyolításában.
+
+[^8]: A 17. § (3) bekezdését a 60/2024. (XII. 23.) BM rendelet 93. §-a iktatta be.

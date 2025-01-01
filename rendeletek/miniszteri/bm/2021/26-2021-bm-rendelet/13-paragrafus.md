@@ -12,6 +12,8 @@
 
 (6) A minisztérium a tárgyévet követően részletes kimutatást készít a megfizetett normatív hozzájárulás összegének felhasználásáról és az Országgyűlési Őrség hivatásos állományának tagjai által igénybe vett továbbképzésekről, valamint a következő évre – az Országgyűlési Őrség 4. § (4) bekezdés b) pontja szerinti adatszolgáltatása és az elszámolás alapján megállapított – előirányzat-átadás útján történő fizetési kötelezettségről, amelyet január 31-ig megküld az Országgyűlési Őrség részére.
 
-(7) A továbbképzés során felmerülő utazás, étkezés és szállás költségeit az Országgyűlési Őrség a költségvetéséből biztosítja.
+(7)[^6] A továbbképzés során felmerülő utazás és szállás költségeit az Országgyűlési Őrség a költségvetéséből biztosítja.
 
 (8) A 9. § (3) bekezdésében meghatározott vezetői továbbképzésre a minisztérium és a Nemzeti Közszolgálati Egyetem közötti megállapodás alapján kerül sor. Ha a vezetői továbbképzésre a Nemzeti Közszolgálati Egyetem bevonásával került sor, a teljesített továbbképzésekről a Nemzeti Közszolgálati Egyetem által kiadott igazolás alapján a minisztérium megtéríti a megállapodásban rögzített költségeket.
+
+[^6]: A 13. § (7) bekezdése a 60/2024. (XII. 23.) BM rendelet 97. § b) pontja szerint módosított szöveg.

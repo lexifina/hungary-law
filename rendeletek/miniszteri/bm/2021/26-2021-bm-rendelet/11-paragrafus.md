@@ -6,6 +6,8 @@
 
 (4) A továbbképzési időszak befejeződik, ha a továbbképzésre kötelezett hivatásos szolgálati jogviszonya megszűnik.
 
-(5) A hivatásos állomány tagjának a Hszt. 97. §-án alapuló, az Országgyűlési Őrséghez történő áthelyezése esetén az áthelyezés előtt megkezdett, az R. vagy a belügyminiszter irányítása alatt álló polgári nemzetbiztonsági szolgálatok hivatásos állományának továbbképzési és vezetőképzési rendszeréről, valamint a rendészeti utánpótlási és vezetői adatbankról szóló 35/2017. (XII. 20.) BM utasítás szabályai szerinti továbbképzési időszak nem szakad meg, és az áthelyezést megelőzően megszerzett továbbképzési pontokat az áthelyezést követően az Országgyűlési Őrségnél is figyelembe kell venni.
+(5)[^5] A hivatásos állomány tagjának a Hszt. 97. §-án alapuló, az Országgyűlési Őrséghez történő áthelyezése esetén az áthelyezés előtt megkezdett, az R. szabályai szerinti továbbképzési időszak nem szakad meg, és az áthelyezést megelőzően megszerzett továbbképzési pontokat az áthelyezést követően az Országgyűlési Őrségnél is figyelembe kell venni.
 
 (6) A hivatásos állomány tagjának megszűnik a továbbképzési kötelezettsége, ha a rá irányadó öregségi nyugdíjkorhatár eléréséig öt évnél rövidebb idő van hátra.
+
+[^5]: A 11. § (5) bekezdése a 60/2024. (XII. 23.) BM rendelet 98. § a) pontja szerint módosított szöveg.
