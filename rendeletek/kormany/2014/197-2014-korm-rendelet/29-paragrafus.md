@@ -1,3 +1,3 @@
-29. §[^83]
+29. §[^84]
 
-[^83]: A 29. §-t a 276/2023. (VI. 29.) Korm. rendelet 40. § l) pontja hatályon kívül helyezte.
+[^84]: A 29. §-t a 276/2023. (VI. 29.) Korm. rendelet 40. § l) pontja hatályon kívül helyezte.

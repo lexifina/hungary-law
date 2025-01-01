@@ -1,4 +1,4 @@
-1. melléklet a 197/2014. (VIII. 1.) Korm. rendelethez[^108]
+1. melléklet a 197/2014. (VIII. 1.) Korm. rendelethez[^110]
 
 Elektromos-, elektronikusberendezés-kategóriák
 
@@ -480,4 +480,4 @@ Elektromos-, elektronikusberendezés-kategóriák
 
 | 12 | 9504 | 50 | 00 | Videójáték-konzol és -gép, a 9504 30 alszám kivételével |  | 100 Ft |
 
-[^108]: Az 1. melléklet az 525/2017. (XII. 29.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^110]: Az 1. melléklet az 525/2017. (XII. 29.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.

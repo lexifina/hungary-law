@@ -28,8 +28,11 @@ d) a vásárlási utalvány összege nem áthárítható.
 
 (5) Ha a gyártó a (4) bekezdésben meghatározott eset valamelyikére hivatkozva a használt elektromos, elektronikus berendezés visszavételét megtagadja, a berendezést hulladéknak kell tekinteni. Ebben az esetben a Ht. 31. § (2) bekezdése alapján gondoskodni kell a hulladék kezeléséről.
 
+(6)[^16] A visszavett használt elektromos, elektronikus berendezést a gyártó a 3. melléklet szerinti minimumkövetelményekre figyelemmel megvizsgálja. Ha a gyártó nem állapítja meg, hogy a visszavett használt elektromos, elektronikus berendezés újrahasználatra alkalmas, a berendezést hulladéknak kell tekinteni és kezeléséről az 5. § és a Ht. 31. § (2) bekezdés a) pontja alapján kell gondoskodni.
+
 [^11]: A 2/B. §-t a 158/2021. (III. 31.) Korm. rendelet 16. §-a iktatta be.
 [^12]: A 3. alcím címe a 276/2023. (VI. 29.) Korm. rendelet 39. § a) pontja szerint módosított szöveg.
 [^13]: A 3. § (1a) bekezdését a 370/2014. (XII. 30.) Korm. rendelet 29. §-a iktatta be.
 [^14]: A 3. § (2) bekezdése a 276/2023. (VI. 29.) Korm. rendelet 39. § b) pontja szerint módosított szöveg.
 [^15]: A 3. § (4) bekezdése az 525/2017. (XII. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^16]: A 3. § (6) bekezdését a 465/2024. (XII. 30.) Korm. rendelet 16. §-a iktatta be.
