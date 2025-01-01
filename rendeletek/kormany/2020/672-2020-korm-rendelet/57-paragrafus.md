@@ -18,6 +18,8 @@ e)[^1] a kistelepüléseken nyújtható otthonteremtési támogatásokról szól
 
 f)[^2] a családok otthonteremtését támogató kedvezményes CSOK Plusz hitelprogramról szóló 518/2023. (XI. 30.) Korm. rendelet
 
+g)[^3] a Vidéki Otthonfelújítási Programról szóló 389/2024. (XII. 11.) Korm. rendelet
+
 szerinti kölcsön minősül.
 
 (2) Az állami kezességvállalás feltétele, hogy a foglalkoztatott a hitelcél szerinti ingatlanban legalább 50% tulajdoni hányaddal rendelkezzen.
@@ -34,3 +36,4 @@ alapján ellenőrzi.
 
 [^1]: Az 57. § (1) bekezdés e) pontját az 518/2023. (XI. 30.) Korm. rendelet 64. §-a iktatta be.
 [^2]: Az 57. § (1) bekezdés f) pontját az 518/2023. (XI. 30.) Korm. rendelet 64. §-a iktatta be.
+[^3]: Az 57. § (1) bekezdés g) pontját a 389/2024. (XII. 11.) Korm. rendelet 34. §-a iktatta be.
