@@ -4,11 +4,7 @@ A Kormány a családbarát kormányzati intézkedésekről szóló 1098/2018. (I
 
 2. a Fejlesztés megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 2 227 397 063 forintban határozza meg;
 
-3. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 3. Gazdaság-újraindítási Alap – Kiemelt Kormányzati Magasépítési Beruházások cím, 1. Egyedi magasépítési beruházások alcímének a 61. Pécsi Tudományegyetem Nemzeti Reprodukciós Módszertani Kutatóközpont és Családbarát Szülészet felújításának megvalósítása jogcímcsoporttal történő kiegészítését;
-
-Felelős: pénzügyminiszter
-
-Határidő: azonnal
+3.[^1]
 
 4. felhívja az innovációért és technológiáért felelős minisztert, az emberi erőforrások miniszterét és a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a 2. pont szerinti összeg részbeni finanszírozása céljából tegyék meg a szükséges intézkedéseket a Pécsi Tudományegyetemnél a Fejlesztésre rendelkezésre álló 1 420 253 460 forint Beruházási Ügynökség részére történő 2022–2023. évi rendelkezésre bocsátása érdekében;
 
@@ -27,3 +23,5 @@ Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 pénzügyminiszter
 
 Határidő: a 2023. évi központi költségvetés tervezése során
+
+[^1]: A 3. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
