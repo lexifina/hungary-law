@@ -1,8 +1,8 @@
 ## 6. [^79] A megváltozott munkaképességű személyek ellátásainak folyósítása és a folyósítás felfüggesztése
 
-14. § (1)[^80] A nyugdíjfolyósító szerv a megváltozott munkaképességű személyek ellátásának folyósításáról az azonosítás célját szolgáló folyósítási törzsszám alatt, – az (1a) bekezdésben meghatározott kivételekkel – a döntés vele való közlését követő tizenhárom napon belül gondoskodik.
+14. § (1)[^80] A nyugdíjfolyósító szerv a megváltozott munkaképességű személyek ellátásának folyósításáról az azonosítás célját szolgáló folyósítási törzsszám alatt, – az (1a) bekezdésben meghatározott kivételekkel – a döntés vele való közlését követő tíz munkanapon belül gondoskodik.
 
-(1a)[^81] A nyugdíjfolyósító szerv a megváltozott munkaképességű személyek ellátásának folyósításáról a folyósításhoz szükséges adatokat tartalmazó elektronikus adatállomány beérkezését követő tizenhárom napon belül gondoskodik
+(1a)[^81] A nyugdíjfolyósító szerv a megváltozott munkaképességű személyek ellátásának folyósításáról a folyósításhoz szükséges adatokat tartalmazó elektronikus adatállomány beérkezését követő tíz munkanapon belül gondoskodik
 
 a)[^82] a rehabilitációs és rokkantsági ellátást megállapító határozat,
 
@@ -19,8 +19,8 @@ esetében.
 (2)[^84] A nyugdíjfolyósító szerv a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény végrehajtásáról szóló 168/1997. (X. 6.) Korm. rendelet 75/B. §-a szerinti tájékoztatással egyidejűleg értesítést küld a megváltozott munkaképességű személyek ellátásában részesülő személynek az ellátás tárgyév január hónapban járó összegéről és az előző évben kiutalt ellátás összegéről.
 
 [^79]: A 6. alcím címe a 117/2016. (VI. 6.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^80]: A 14. § (1) bekezdése a 448/2016. (XII. 19.) Korm. rendelet 42. § (1) bekezdésével megállapított szöveg.
-[^81]: A 14. § (1a) bekezdését a 448/2016. (XII. 19.) Korm. rendelet 42. § (2) bekezdése iktatta be.
+[^80]: A 14. § (1) bekezdése a 448/2016. (XII. 19.) Korm. rendelet 42. § (1) bekezdésével megállapított, a 464/2024. (XII. 30.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^81]: A 14. § (1a) bekezdését a 448/2016. (XII. 19.) Korm. rendelet 42. § (2) bekezdése iktatta be, nyitó szövegrésze a 464/2024. (XII. 30.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
 [^82]: A 14. § (1a) bekezdés a) pontja a 349/2023. (VII. 27.) Korm. rendelet 10. §-a szerint módosított szöveg.
 [^83]: A 14. § (1b) bekezdését a 448/2016. (XII. 19.) Korm. rendelet 42. § (2) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 95. § (5) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^84]: A 14. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés b) pontja szerint módosított szöveg.
