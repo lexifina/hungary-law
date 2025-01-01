@@ -10,7 +10,7 @@ d) az ásványi nyersanyag, vagy a geotermikus energia 1. melléklet szerinti k�
 
 e) a bevallási időszakot,
 
-f)[^54] a kitermelt vagy kinyert mennyiséget az 1. melléklet szerinti mértékegységben,
+f)[^54] a kitermelt vagy kinyert mennyiséget, a 2007. július 1-jét megelőzően működésbe állított föld alatti gáztárolás kényszerű párnagáz lecseréléséből származó földgáz esetében a visszapótolt mennyiséget és a kitermelt és visszapótolt mennyiség különbözetét, az 1. melléklet szerinti mértékegységben,
 
 g) az 1. melléklet szerinti vagy az ott szereplő képlettel kiszámolt fajlagos értéket,
 
@@ -50,7 +50,7 @@ e) a 2. melléklet 2.2. pontja szerinti képlettel megállapított kinyert energ
 
 [^52]: A 8/A. §-t a 64/2013. (III. 4.) Korm. rendelet 8. §-a iktatta be.
 [^53]: A 8/A. § (1) bekezdés a) pontja a 825/2021. (XII. 28.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
-[^54]: A 8/A. § (1) bekezdés f) pontja a 141/2024. (VI. 28.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.
+[^54]: A 8/A. § (1) bekezdés f) pontja a 471/2024. (XII. 30.) Korm. rendelet 11. §-ával megállapított szöveg.
 [^55]: A 8/A. § (1) bekezdés h) pontja a 141/2024. (VI. 28.) Korm. rendelet 12. § g) pontja szerint módosított szöveg.
 [^56]: A 8/A. § (1) bekezdés j) pontja az 559/2013. (XII. 31.) Korm. rendelet 53. § 2. pontja, a 141/2024. (VI. 28.) Korm. rendelet 12. § h) pontja szerint módosított szöveg.
 [^57]: A 8/A. § (1) bekezdés k) pontja a 825/2021. (XII. 28.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.

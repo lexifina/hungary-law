@@ -1,4 +1,4 @@
-## 4X04415M.docx
+## 4X11231M.docx
 
 |  | A | B | C | D | E | F | G | H | I |
 
@@ -208,7 +208,7 @@
 
 | 103 | 12. Szénhidrogén tartalmú nyersanyagok A kőolaj és a szénhidrogén- földgáz. Összefoglaló elnevezése: szénhidrogén. | 2. Konvencionális eljárással termelhető szénhidrogén földgáz | A szénhidrogéntelep kezdeti nyomásán és hőmérsékletén gáz- és cseppfolyós halmazállapotú, szénhidrogén alapú gázok elegyének technikai normál állapoton (15 °C. 0,1 MPa) gáz halmazállapotú része. Idetartozik a földgáz technikai normál állapoton folyékony (állandósított) része (kondenzátum, gazolin), amelyet átszámítással kell a kútfejen termelt gázmennyiségben szerepeltetni. Összetételében könnyű paraffin szénhidrogénekből (főleg CH4) álló, gyakran CO2-t és N2-t, esetleg H2S-t, és nemes gázokat tartalmazó gáz. A konvencionális eljárással termelt szénhidrogén földgáz másodlagos migráció révén kerül a felhalmozódás helyére, ahol a sűrűség szerint elkülönült szénhidrogének (földgáz, kőolaj) normál porozitású és permeabilitású rezervoár-kőzetekben helyezkednek el, és hagyományos technológiával kitermelhetők. A földgáz összetételében a nem éghető gázok aránya nem éri el a 30 térfogat %-ot. |  |  | 2120 | E = p × d – K2 × I ahol E = a szénhidrogén földgáz – bányajáradék szempontjából figyelembe vett – értéke (Ft/MWh) p = a GTFTX00 szimbólumú Platts Dutch TTF Day ahead földgáz jegyzésár bevallási időszakra elérhető napi záró jegyzésárainak számtani átlaga (EUR/MWh) + 1,05 EUR/MWh d = az MNB devizaárfolyamainak bevallási időszakra (hónap) vonatkozó számtani átlaga Ft/EUR K2 = fajlagos előkészítési költség 260 Ft/MWh I = korrekciós tényező, amely évenként az előző évi ipari – élelmiszer nélküli – belföldi értékesítés árindexével változik. Az I értéke a 2008. évben 1,06. | Ft/MWh | 9020 Konvencionális eljárással termelt szénhidrogén földgáz |
 
-| 104 | 3. Nem konvencionális eljárással termelhető szénhidrogén földgáz (medence- központú gáz) | Olyan szénhidrogén földgáz, amelynek fizikai-kémiai paraméterei megegyeznek a konvencionális eljárással termelt szénhidrogén földgázéval (kód: 2120), de a keletkezés helyén, az anyakőzetben található, azaz (még) nem zajlottak le a migrációs folyamatok, és a fázisok hidrodinamikai törvények szabályozta szétválása sem történt meg. Ezért nevezik “folyamatos telítettségű” vagy “nem-hidrodinamikus” telepnek is. A rezervoár nagyon alacsony permeabilitású, hagyományos technológiával nem termelhető (hatékony stimuláció szükséges), illetve kinyerése növelt hatékonyságú eljárásokat igényel. |  |  | 2130 | 9030 Nem konvencionális eljárással termelt szénhidrogén földgáz |
+| 104 | 3. Nem konvencionális eljárással termelhető szénhidrogén földgáz | Olyan szénhidrogén földgáz, amely jelentős kiterjedésű, kőzettanilag homogénnek tekinthető, legfeljebb 0,1 mD áteresztőképességgel jellemezhető tároló térrészben helyezkedik el, és kizárólag repesztési műveletekkel mobilizálható. |  |  | 2130 | 9030 Nem konvencionális eljárással termelt szénhidrogén földgáz |
 
 | 104/a | 3/a. Kísérőgáz | A földkéregből kitermelt + 30 °C-ot meghaladó hőmérsékletű folyékony halmazállapotú anyagból kinyerhető éghető, oldott gázok. |  |  | 2131 |  |
 
@@ -216,7 +216,7 @@
 
 | 106 | 2. Széndioxid földgáz | Olyan inert földgáz, amely CO2 tartalma legalább 60%, és fűtőértéke nem éri el a 12 MJ/m3-t. | 2142 | 3 900 | Ft/Em3 | 9400 Széndioxid földgáz |
 
-| 107 | 13. Geotermikus energia A földkéreg belső energiája | 1. Geotermikus energia | A földkéreg belső hőenergiája, amely energetikai céllal hasznosítható, a geotermikus energiahordozók közvetlen földkéregből való kitermelésével vagy recirkuláltatásával. |  |  | 2211 | 2000 | Ft/GJ | 2100 Geotermikus energiahordozó kitermelésével nyert geotermikus energia 2200 Hőközvetítő anyag recirkulációjával nyert geotermikus energia |
+| 107 | 13. Geotermikus energia A földkéreg belső energiája | 1. Geotermikus energia | A földkéreg belső hőenergiája, amely energetikai céllal hasznosítható, a geotermikus energiahordozók közvetlen földkéregből való kitermelésével vagy hőközvetítő anyag recirkuláltatásával. |  |  | 2211 | 2000 | Ft/GJ | 2100 Geotermikus energiahordozó kitermelésével nyert geotermikus energia 2200 Hőközvetítő anyag recirkulációjával nyert geotermikus energia |
 
 | 108 |  |  |  |  |  |  |  |  |  |
 

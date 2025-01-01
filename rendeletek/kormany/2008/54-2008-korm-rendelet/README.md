@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-54-20-2
 | 2022-08-01 | 2008-54-20-22.18 | 64/2013. (III. 4.) Korm. rendelet |
 | 2024-01-01 | 2008-54-20-22.19 | 64/2013. (III. 4.) Korm. rendelet |
 | 2024-07-01 | 2008-54-20-22.20 | 141/2024. (VI. 28.) Korm. rendelet |
+| 2025-01-01 | 2008-54-20-22.21 | 471/2024. (XII. 30.) Korm. rendelet |
