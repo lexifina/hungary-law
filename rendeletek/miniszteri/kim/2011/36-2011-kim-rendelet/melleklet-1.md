@@ -2,7 +2,7 @@
 
 Önálló vállalkozók tevékenységi jegyzéke (ÖVTJ)
 
-| ÖVTJ-kód 2024 | ÖVTJ 2024 megnevezés |
+| ÖVTJ-kód 2025 | ÖVTJ 2025 megnevezés |
 
 | 01 | Növénytermesztés, állattenyésztés, vadgazdálkodás és kapcsolódó szolgáltatások |
 
@@ -52,7 +52,7 @@
 
 | 012101 | Borszőlő termesztés |
 
-| 012103 | Csemegeszőlő termesztés |
+| 012102 | Csemegeszőlő termesztés |
 
 | 0122 | Trópusi gyümölcs termesztése |
 
@@ -62,23 +62,23 @@
 
 | 012301 | Citrusfélék termesztése |
 
-| 0124 | Almatermésű, csonthéjas termesztése |
+| 0124 | Almatermésű és csonthéjas gyümölcs termesztése |
 
-| 012401 | Almatermésű, csonthéjas termesztése |
+| 012401 | Almatermésű és csonthéjas gyümölcs termesztése |
 
-| 0125 | Egyéb gyümölcs, héjastermésű termesztése |
+| 0125 | Egyéb gyümölcs és csonthéjas magvak termesztése |
 
-| 012501 | Egyéb gyümölcs, héjastermésű termesztése |
+| 012501 | Egyéb fán és bokron termő gyümölcs, héjas termésű gyümölcs termesztése |
 
 | 0126 | Olajtartalmú gyümölcs termesztése |
 
 | 012601 | Olajtartalmú gyümölcs termesztése |
 
-| 0127 | Italgyártási növény termesztése |
+| 0127 | Italgyártáshoz szükséges növény termesztése |
 
-| 012701 | Italgyártási növény termesztése |
+| 012701 | Italgyártáshoz szükséges növény termesztése |
 
-| 0128 | Fűszer-, aroma-, narkotikus, gyógynövény termesztése |
+| 0128 | Fűszer-, aroma-, narkotikus gyógynövény termesztése |
 
 | 012801 | Fűszer-, aromanövény termesztése m.n.s. |
 
@@ -138,17 +138,17 @@
 
 | 014701 | Baromfitenyésztés |
 
-| 0149 | Egyéb állat tenyésztése |
+| 0148 | Egyéb állat tenyésztése |
 
-| 014901 | Egyéb állat tenyésztése m.n.s. |
+| 014801 | Egyéb állat tenyésztése m.n.s. |
 
-| 014902 | Méhészet |
+| 014802 | Méhészet |
 
-| 014903 | Hobbiállat tenyésztése |
+| 014803 | Hobbiállat tenyésztése |
 
-| 014904 | Egyéb állati termékek termelése |
+| 014804 | Egyéb állati termékek termelése |
 
-| 014905 | Nyúl tenyésztése |
+| 014805 | Nyúl tenyésztése |
 
 | 015 | Vegyes gazdálkodás |
 
@@ -156,7 +156,7 @@
 
 | 015001 | Vegyes gazdálkodás (növénytermesztés állattenyésztéssel, egyik részaránya sem éri el a 66%-ot) |
 
-| 016 | Mezőgazdasági, betakarítást követő szolgáltatás |
+| 016 | Mezőgazdasági és betakarítást követő szolgáltatás |
 
 | 0161 | Növénytermesztési szolgáltatás |
 
@@ -172,7 +172,7 @@
 
 | 016201 | Állattenyésztési szolgáltatás |
 
-| 0163 | Betakarítást követő szolgáltatás |
+| 0163 | Betakarítást követő szolgáltatás és vetési célú magfeldolgozás |
 
 | 016301 | Betakarítást követő szolgáltatás m.n.s. |
 
@@ -180,15 +180,15 @@
 
 | 016303 | Gyógynövény előkészítés |
 
-| 0164 | Vetési célú magfeldolgozás |
-
-| 016401 | Vetési célú magfeldolgozás |
+| 016304 | Vetési célú magfeldolgozás |
 
 | 017 | Vadgazdálkodás, vadgazdálkodási szolgáltatás |
 
 | 0170 | Vadgazdálkodás, vadgazdálkodási szolgáltatás |
 
 | 017001 | Vadgazdálkodási szolgáltatás |
+
+| 017002 | Éti csiga gyűjtése |
 
 | 02 | Erdőgazdálkodás |
 
@@ -204,15 +204,13 @@
 
 | 022001 | Fakitermelés saját jogon |
 
-| 022003 | Faszéntermelés az erdőben (hagyományos módszerrel előállítva) |
+| 022002 | Faszéntermelés az erdőben (hagyományos módszerrel előállítva) |
 
-| 023 | Vadon termő egyéb erdei termék gyűjtése |
+| 023 | Vadon termő erdei termény gyűjtése |
 
-| 0230 | Vadon termő egyéb erdei termék gyűjtése |
+| 0230 | Vadon termő erdei termény gyűjtése |
 
-| 023001 | Erdőgazdálkodói haszonvételek gyakorlása (vadon termő egyéb erdei termék gyűjtése) |
-
-| 023002 | Éti csiga gyűjtése |
+| 023001 | Erdőgazdálkodói haszonvételek gyakorlása (vadon termő egyéb erdei termény gyűjtése) |
 
 | 024 | Erdészeti szolgáltatás |
 
@@ -226,7 +224,7 @@
 
 | 024004 | Erdőgazdálkodáshoz kapcsolódó szaktanácsadás |
 
-| 03 | Halászat, halgazdálkodás |
+| 03 | Halászat, akvakultúra |
 
 | 031 | Halászat |
 
@@ -238,15 +236,21 @@
 
 | 031201 | Édesvízi halászat |
 
-| 032 | Halgazdálkodás |
+| 032 | Akvakultúra |
 
-| 0321 | Tengerihal-gazdálkodás |
+| 0321 | Tengerihal-termelés, -akvakultúra |
 
-| 032101 | Tengerihal-gazdálkodás |
+| 032101 | Tengeri akvakultúra |
 
-| 0322 | Édesvízihal-gazdálkodás |
+| 0322 | Édesvízihal-termelés, -akvakultúra |
 
-| 032201 | Édesvízihal-gazdálkodás |
+| 032201 | Édesvízi akvakultúra |
+
+| 033 | Halászati és akvakultúra-szolgáltatás |
+
+| 0330 | Halászati és akvakultúra-szolgáltatás |
+
+| 033001 | Halászati és akvakultúra-szolgáltatás |
 
 | 05 | Szénbányászat |
 
@@ -284,15 +288,15 @@
 
 | 071001 | Vasércbányászat |
 
-| 072 | Egyéb fém érc bányászata |
+| 072 | Egyéb fémérc bányászata |
 
 | 0721 | Urán-, tóriumérc-bányászat |
 
 | 072101 | Urán-, tóriumérc-bányászat |
 
-| 0729 | Színesfém érc bányászata |
+| 0729 | Színesfémérc bányászata |
 
-| 072901 | Színesfém érc bányászata m.n.s. |
+| 072901 | Színesfémérc bányászata m.n.s. |
 
 | 072902 | Aranymosás kézi erővel |
 
@@ -300,7 +304,7 @@
 
 | 081 | Kőfejtés, homok-, agyagbányászat |
 
-| 0811 | Kőfejtés, gipsz, kréta bányászata |
+| 0811 | Díszkő, mészkő, gipsz, pala és egyéb kő bányászata |
 
 | 081101 | Mészkő, gipsz, kréta bányászata m.n.s. |
 
@@ -308,7 +312,7 @@
 
 | 081103 | Pala bányászata |
 
-| 0812 | Kavics-, homok-, agyagbányászat |
+| 0812 | Kavics-, homok-, agyag- és kaolinbányászat |
 
 | 081201 | Kavics-, homokbányászat |
 
@@ -334,11 +338,11 @@
 
 | 09 | Bányászati szolgáltatás |
 
-| 091 | Kőolaj-, földgáz-kitermelési szolgáltatás |
+| 091 | Kőolaj-, földgázkitermelési szolgáltatás |
 
-| 0910 | Kőolaj-, földgáz-kitermelési szolgáltatás |
+| 0910 | Kőolaj-, földgázkitermelési szolgáltatás |
 
-| 091001 | Kőolaj-, földgáz-kitermelési szolgáltatás |
+| 091001 | Kőolaj-, földgázkitermelési szolgáltatás |
 
 | 099 | Egyéb bányászati szolgáltatás |
 
@@ -350,7 +354,7 @@
 
 | 101 | Húsfeldolgozás, -tartósítás, húskészítmény gyártása |
 
-| 1011 | Húsfeldolgozás, -tartósítás |
+| 1011 | Húsfeldolgozás, -tartósítás, kivéve baromfi |
 
 | 101101 | Húsfeldolgozás, -tartósítás m.n.s. (nem saját termelésű alapanyagból) |
 
@@ -380,9 +384,9 @@
 
 | 101306 | Baromfihús-készítmény gyártása (saját termelésű alapanyagból) |
 
-| 102 | Halfeldolgozás, -tartósítás |
+| 102 | Hal, rákféle és puhatestű feldolgozása, tartósítása |
 
-| 1020 | Halfeldolgozás, -tartósítás |
+| 1020 | Hal, rákféle és puhatestű feldolgozása, tartósítása |
 
 | 102001 | Halfeldolgozás, -tartósítás (nem saját termelésű alapanyagból) |
 
@@ -396,7 +400,7 @@
 
 | 103102 | Burgonyafeldolgozás, -tartósítás (saját termelésű alapanyagból) |
 
-| 1032 | Gyümölcs-, zöldséglé gyártása |
+| 1032 | Gyümölcs-, zöldségital gyártása |
 
 | 103201 | Gyümölcs-, zöldséglé gyártása (nem saját termelésű alapanyagból) m.n.s. |
 
@@ -418,9 +422,9 @@
 
 | 103904 | Pattogatottkukorica-, pirított napraforgómag készítés (nem saját termelésű alapanyagból) |
 
-| 103905 | Pattogatottkukorica-, pirítottnapraforgómag-készítés (saját termelésű alapanyagból) |
+| 103905 | Pattogatottkukorica-, pirított napraforgómag készítés (saját termelésű alapanyagból) |
 
-| 103910 | Egyéb gyümölcs-, zöldségfeldolgozás, -tartósítás (saját termelésű alapanyagból) |
+| 103906 | Egyéb gyümölcs-, zöldségfeldolgozás, -tartósítás (saját termelésű alapanyagból) |
 
 | 104 | Növényi, állati olaj gyártása |
 
@@ -436,19 +440,19 @@
 
 | 104202 | Margarin gyártása (saját termelésű alapanyagból) |
 
-| 105 | Tejfeldolgozás |
+| 105 | Tejtermék, jégkrém gyártása |
 
-| 1051 | Tejtermék gyártása |
+| 1051 | Tejfeldolgozás |
 
 | 105101 | Tejtermék készítése (nem saját termelésű alapanyagból) m.n.s. |
 
-| 105102 | Tejtermék készítés (saját termelésű tehéntejből) |
+| 105102 | Tejtermék készítése (saját termelésű tehéntejből) |
 
-| 105103 | Tejtermék készítés (saját termelésű juh-, kecsketejből) |
+| 105103 | Tejtermék készítése (saját termelésű juh-, kecsketejből) |
 
-| 1052 | Jégkrém gyártása |
+| 1052 | Fagylalt, jégkrém gyártása |
 
-| 105201 | Jégkrém gyártása |
+| 105201 | Fagylalt, jégkrém gyártása |
 
 | 106 | Malomipari termék, keményítő gyártása |
 
@@ -464,7 +468,7 @@
 
 | 107 | Pékáru, tésztafélék gyártása |
 
-| 1071 | Kenyér; friss pékáru gyártása |
+| 1071 | Kenyér, friss pékáru gyártása |
 
 | 107101 | Kenyér, péksütemény és egyéb pékáru gyártása m.n.s. |
 
@@ -526,7 +530,7 @@
 
 | 1089 | M.n.s. egyéb élelmiszer gyártása |
 
-| 108901 | M.n.s. egyéb élelmiszer gyártása |
+| 108901 | Egyéb élelmiszer gyártása m.n.s. |
 
 | 108902 | Étrendkiegészítő gyártása |
 
@@ -556,7 +560,7 @@
 
 | 1102 | Szőlőbor termelése |
 
-| 110201 | Bortermelés (nem saját termelésű alapanyagól) m.n.s. |
+| 110201 | Bortermelés (nem saját termelésű alapanyagból) m.n.s. |
 
 | 110202 | Pezsgőtermelés (nem saját termelésű alapanyagból) |
 
@@ -564,11 +568,11 @@
 
 | 110204 | Pezsgőtermelés (saját termelésű alapanyagból) |
 
-| 1103 | Gyümölcsbor termelése |
+| 1103 | Almabor és egyéb erjesztett gyümölcsitalok gyártása |
 
-| 110301 | Gyümölcsbor termelése (nem saját termelésű alapanyagból) m.n.s. |
+| 110301 | Almabor és egyéb erjesztett gyümölcsitalok gyártása (nem saját termelésű alapanyagból) m.n.s. |
 
-| 110302 | Gyümölcsbortermelés (saját termelésű alapanyagból) |
+| 110302 | Almabor és egyéb erjesztett gyümölcsitalok gyártása (saját termelésű alapanyagból) |
 
 | 1104 | Egyéb nem desztillált, erjesztett ital gyártása |
 
@@ -616,7 +620,7 @@
 
 | 132001 | Textilszövés m.n.s. |
 
-| 132003 | Népi iparművészeti és iparművészeti textilszövet készítése |
+| 132002 | Népi iparművészeti és iparművészeti textilszövet készítése |
 
 | 133 | Textilkikészítés |
 
@@ -632,9 +636,9 @@
 
 | 139101 | Kötött, hurkolt kelme gyártása m.n.s. |
 
-| 1392 | Konfekcionált textiláru gyártása (kivéve: ruházat) |
+| 1392 | Háztartási textília és konfekcionált textiláru gyártása |
 
-| 139201 | Konfekcionált textiláru gyártása (kivéve: ruházat) m.n.s. |
+| 139201 | Háztartási textília és konfekcionált textiláru gyártása m.n.s. |
 
 | 139202 | Népi iparművészeti és iparművészeti lakberendezési textiltermék készítése |
 
@@ -650,17 +654,17 @@
 
 | 139401 | Kötéláru gyártása |
 
-| 1395 | Nem szőtt textília és termék gyártása (kivéve: ruházat) |
+| 1395 | Nem szőtt textília és termék gyártása |
 
-| 139501 | Nem szőtt textília és termék gyártása (kivéve: ruházat) |
+| 139501 | Nem szőtt textília és termék gyártása |
 
 | 1396 | Műszaki textiláru gyártása |
 
 | 139601 | Műszaki textiláru gyártása |
 
-| 1399 | Egyéb textiláru gyártása m.n.s. |
+| 1399 | M.n.s. egyéb textiláru gyártása |
 
-| 139901 | M.n.s. egyéb textiltermék gyártása |
+| 139901 | Egyéb textiltermék gyártása m.n.s. |
 
 | 139902 | Gombkötés és paszománytermék gyártása |
 
@@ -676,83 +680,85 @@
 
 | 14 | Ruházati termék gyártása |
 
-| 141 | Ruházat gyártása (kivéve: szőrmeruházat) |
+| 141 | Kötött, hurkolt ruházati termék gyártása |
 
-| 1411 | Bőrruházat gyártása |
+| 1410 | Kötött, hurkolt ruházati termék gyártása |
 
-| 141101 | Bőrruházat gyártása m.n.s. |
+| 141001 | Kötött, hurkolt ruházati termék gyártása m.n.s. |
 
-| 141102 | Bőrruházati termék összeállítása |
+| 141002 | Kötött, hurkolt felsőruházat gyártása (kivéve: munkaruházat) m.n.s. |
 
-| 1412 | Munkaruházat gyártása |
+| 141003 | Kötött, hurkolt felsőruházati termék összeállítása |
 
-| 141201 | Munkaruházat gyártása |
+| 141004 | Kötött, hurkolt népi iparművészeti és iparművészeti felsőruházat készítése |
 
-| 1413 | Felsőruházat gyártása (kivéve: munkaruházat) |
+| 141005 | Kötött, hurkolt alsóruházat gyártása m.n.s. |
 
-| 141301 | Felsőruházat gyártása (kivéve: munkaruházat) m.n.s. |
+| 141006 | Kötött, hurkolt alsóruházati termék összeállítása |
 
-| 141302 | Felsőruházati termék összeállítása |
+| 141007 | Kötött, hurkolt sport- és fürdőruha készítése |
 
-| 141303 | Egyenruházat gyártása |
+| 141008 | Kötött, hurkolt bébiruházat gyártása |
 
-| 141304 | Népi iparművészeti és iparművészeti felsőruházat készítése |
+| 141009 | Kötött, hurkolt harisnyafélék gyártása m.n.s. |
 
-| 1414 | Alsóruházat gyártása |
+| 141010 | Gépi kötött, hurkolt harisnyafélék összeállítása |
 
-| 141401 | Alsóruházat gyártása m.n.s. |
+| 141011 | Kézi kötésű, horgolású harisnyafélék gyártása |
 
-| 141402 | Alsóruházati termék összeállítása |
+| 141012 | Gépi kötött, hurkolt pulóverfélék gyártása m.n.s. |
 
-| 141403 | Népi iparművészeti és iparművészeti alsóruházat készítése |
+| 141013 | Kötött, hurkolt, horgolt pulóverfélék összeállítása |
 
-| 1419 | Egyéb ruházat, kiegészítők gyártása |
+| 141014 | Kézi kötésű, horgolású pulóverfélék gyártása |
 
-| 141901 | Öltözékkiegészítő gyártása m.n.s. |
+| 142 | Egyéb ruházati termék, ruházati kiegészítő gyártása |
 
-| 141902 | Fürdőruhakészítés |
+| 1421 | Felsőruházat gyártása |
 
-| 141903 | Bőr-, szőrmeruházati kiegészítők gyártása |
+| 142101 | Felsőruházat gyártása (kivéve: kötött, hurkolt és munkaruházat) m.n.s. |
 
-| 141904 | Textil alapanyagú lábbeli gyártása |
+| 142102 | Felsőruházati termék összeállítása (kivéve kötött, hurkolt) |
 
-| 141905 | Bébiruházat gyártása |
+| 142103 | Népi iparművészeti és iparművészeti felsőruházat készítése (kivéve: kötött, hurkolt) |
 
-| 141906 | Egyéb ruházati termékek összeállítása |
+| 1422 | Alsóruházat gyártása |
 
-| 141907 | Speciális versenysportruházat gyártása |
+| 142201 | Alsóruházat gyártása m.n.s. (kivéve: kötött, hurkolt) |
 
-| 141908 | Egyéb népi iparművészeti és iparművészeti ruházat készítése |
+| 142202 | Alsóruházati termék összeállítása (kivéve: kötött, hurkolt) |
 
-| 142 | Szőrmecikk gyártása |
+| 142203 | Fürdőruhakészítés (kivéve: kötött, hurkolt) |
 
-| 1420 | Szőrmecikk gyártása |
+| 1423 | Munkaruházat gyártása |
 
-| 142001 | Szőrme- és szűcsipari termékek gyártása m.n.s. |
+| 142301 | Munkaruházat, egyenruházat gyártása |
 
-| 142002 | Népi iparművészeti és iparművészeti szőrmecikk készítése |
+| 1424 | Bőrruházat, szőrmecikk gyártása |
 
-| 143 | Kötött, hurkolt cikk gyártása |
+| 142401 | Bőrruházat gyártása m.n.s. |
 
-| 1431 | Kötött, hurkolt harisnyafélék gyártása |
+| 142402 | Bőrruházati termék összeállítása |
 
-| 143101 | Kötött, hurkolt harisnyafélék gyártása m.n.s. |
+| 142403 | Szőrme- és szűcsipari termékek gyártása m.n.s. |
 
-| 143102 | Gépi kötött, hurkolt harisnyafélék összeállítása |
+| 142404 | Népi iparművészeti és iparművészeti szőrmecikk készítése |
 
-| 143103 | Kézi kötésű, horgolású harisnyafélék gyártása |
+| 1429 | M.n.s. egyéb ruházati termék, ruházati kiegészítő gyártása |
 
-| 1439 | Egyéb kötött, hurkolt ruházati termék gyártása |
+| 142901 | Öltözékkiegészítő gyártása m.n.s. (kivéve bőrből, szőrméből készült) |
 
-| 143901 | Gépi kötött, hurkolt pulóverfélék gyártása m.n.s. |
+| 142902 | Bőrruházati kiegészítők gyártása |
 
-| 143902 | Kötött, hurkolt, horgolt pulóverfélék összeállítása |
+| 142903 | Sportruházat, speciális versenysportruházat gyártása |
 
-| 143903 | Kézi kötésű, horgolású pulóverfélék gyártása |
+| 142904 | Egyéb ruházati termékek összeállítása |
 
-| 15 | Bőr, bőrtermék, lábbeli gyártása |
+| 142905 | Egyéb népi iparművészeti és iparművészeti ruházat készítése |
 
-| 151 | Bőr, szőrme kikészítése; táskafélék, szíjazat gyártása |
+| 15 | Bőr, bőrtermék, más anyagból készült kapcsolódó termék, lábbeli gyártása |
+
+| 151 | Bőr, szőrme kikészítése; táskafélék, nyerges áru, szíjazat gyártása |
 
 | 1511 | Bőr, szőrme kikészítése |
 
@@ -760,7 +766,7 @@
 
 | 151102 | Szőrmekikészítés és -festés |
 
-| 1512 | Táskafélék, szíjazat gyártása |
+| 1512 | Táskafélék, nyerges áru, szíjazat gyártása bármely anyagból |
 
 | 151201 | Bőr-, műbőr termékek gyártása (kivéve: bőrruházat, lábbeli) m.n.s. |
 
@@ -780,17 +786,21 @@
 
 | 152002 | Népi iparművészeti és iparművészeti lábbeli készítése |
 
-| 16 | Fafeldolgozás (kivéve: bútor), fonottáru gyártása |
+| 16 | Fafeldolgozás, fa-, parafatermék (kivéve: bútor), fonott áru gyártása |
 
-| 161 | Fűrészárugyártás |
+| 161 | Fűrészárugyártás, fa feldolgozása és felületkezelése |
 
-| 1610 | Fűrészárugyártás |
+| 1611 | Fűrészárugyártás |
 
-| 161001 | Fűrészárugyártás m.n.s. |
+| 161101 | Fűrészárugyártás m.n.s. |
 
-| 161002 | Táblába össze nem állított parketta-, hajópadló-készítés |
+| 161102 | Táblába össze nem állított parketta-, hajópadló-készítés |
 
-| 162 | Fa-, parafatermék, fonottáru gyártása |
+| 1612 | Fa feldolgozása és felületkezelése |
+
+| 161201 | Fa feldolgozása és felületkezelése |
+
+| 162 | Fa-, parafatermék, fonott áru gyártása |
 
 | 1621 | Falemezgyártás |
 
@@ -808,21 +818,31 @@
 
 | 162401 | Tároló fatermék gyártása |
 
-| 1629 | Egyéb fa-, parafatermék, fonottáru gyártása |
+| 1625 | Fa nyílászáró gyártása |
 
-| 162901 | Fatömegcikkgyártás m.n.s. |
+| 162501 | Fa nyílászáró gyártása |
 
-| 162902 | Faesztergályos, faszobrászati termékek gyártása |
+| 1626 | Szilárd tüzelőanyag gyártása növényi biomasszából |
 
-| 162903 | Népi iparművészeti és iparművészeti faműves termékek készítése |
+| 162601 | Szilárd tüzelőanyag gyártása növényi biomasszából |
 
-| 162904 | Fa alapanyagú dísztárgykészítés |
+| 1627 | Fatermék felületkezelése |
 
-| 162905 | Parafa-, fonottáru gyártása |
+| 162701 | Fatermék felületkezelése |
 
-| 162906 | Népi iparművészeti és iparművészeti fonottáru készítése |
+| 1628 | Egyéb fa-, parafatermék, fonott áru gyártása |
 
-| 162907 | Brikett, pellet gyártása |
+| 162801 | Fatömegcikkgyártás m.n.s. |
+
+| 162802 | Faesztergályos, faszobrászati termékek gyártása |
+
+| 162803 | Népi iparművészeti és iparművészeti faműves termékek készítése |
+
+| 162804 | Fa alapanyagú dísztárgykészítés |
+
+| 162805 | Parafa-, fonott áru gyártása |
+
+| 162806 | Népi iparművészeti és iparművészeti fonott áru készítése |
 
 | 17 | Papír, papírtermék gyártása |
 
@@ -854,13 +874,13 @@
 
 | 172401 | Tapétagyártás |
 
-| 1729 | Egyéb papír-, kartontermék gyártása |
+| 1725 | Egyéb papír-, kartontermék gyártása |
 
-| 172901 | Egyéb m.n.s. papírtermék gyártása |
+| 172501 | Egyéb m.n.s. papírtermék gyártása |
 
-| 172902 | Papíralapú dísztárgykészítés |
+| 172502 | Papíralapú dísztárgykészítés |
 
-| 172903 | Szívott rostanyagból készült papíráru gyártása |
+| 172503 | Szívott rostanyagból készült papíráru gyártása |
 
 | 18 | Nyomdai és egyéb sokszorosítási tevékenység |
 
@@ -880,9 +900,11 @@
 
 | 181204 | Nyomás közvetlenül textíliára, műanyagra, üvegre, fémre, fára és kerámiára |
 
+| 181205 | Fénymásolás, sokszorosítás |
+
 | 1813 | Nyomdai előkészítő tevékenység |
 
-| 181301 | M.n.s. nyomdai előkészítő tevékenység |
+| 181301 | Nyomdai előkészítő tevékenység m.n.s. |
 
 | 181302 | Kiegészítő nyomdai tevékenység |
 
@@ -890,7 +912,7 @@
 
 | 1814 | Könyvkötés, kapcsolódó szolgáltatás |
 
-| 181401 | M.n.s. könyvkötés, kapcsolódó szolgáltatás |
+| 181401 | Könyvkötés, kapcsolódó szolgáltatás m.n.s. |
 
 | 181402 | Egyéb nyomtatott papírtermék kötése |
 
@@ -912,9 +934,9 @@
 
 | 191001 | Kokszgyártás |
 
-| 192 | Kőolaj-feldolgozás |
+| 192 | Kőolaj-feldolgozás, fosszilis tüzelőanyag-termékek gyártása |
 
-| 1920 | Kőolaj-feldolgozás |
+| 1920 | Kőolaj-feldolgozás, fosszilis tüzelőanyag-termékek gyártása |
 
 | 192001 | Kőolaj-feldolgozás m.n.s. |
 
@@ -946,9 +968,9 @@
 
 | 201502 | Virágföld előállítása |
 
-| 2016 | Műanyag-alapanyag gyártása |
+| 2016 | Műanyag alapanyag gyártása |
 
-| 201601 | Műanyag-alapanyag gyártása |
+| 201601 | Műanyag alapanyag gyártása |
 
 | 2017 | Szintetikus kaucsuk alapanyag gyártása |
 
@@ -982,17 +1004,9 @@
 
 | 205 | Egyéb vegyi termék gyártása |
 
-| 2051 | Robbanóanyag gyártása |
+| 2051 | Folyékony bioüzemanyag gyártása |
 
-| 205101 | Robbanóanyag gyártása |
-
-| 2052 | Ragasztószergyártás |
-
-| 205201 | Ragasztószergyártás |
-
-| 2053 | Illóolajgyártás |
-
-| 205301 | Illóolajgyártás |
+| 205101 | Folyékony bioüzemanyag gyártása |
 
 | 2059 | M.n.s. egyéb vegyi termék gyártása |
 
@@ -1001,6 +1015,12 @@
 | 205902 | Fényképészeti vegyi anyag gyártása |
 
 | 205903 | Tinta-, tusgyártás |
+
+| 205904 | Robbanóanyag gyártása |
+
+| 205905 | Ragasztószergyártás |
+
+| 205906 | Illóolajgyártás |
 
 | 206 | Vegyi szál gyártása |
 
@@ -1026,7 +1046,7 @@
 
 | 212001 | Gyógyszergyártás |
 
-| 212003 | Gyógyászati felhasználású anyagok gyártása |
+| 212002 | Gyógyászati felhasználású anyagok gyártása |
 
 | 22 | Gumi-, műanyag termék gyártása |
 
@@ -1038,9 +1058,9 @@
 
 | 221102 | Gumiabroncs újrafutózása, felújítása |
 
-| 2219 | Egyéb gumitermék gyártása |
+| 2212 | Egyéb gumitermék gyártása |
 
-| 221901 | Egyéb gumitermék gyártása |
+| 221201 | Egyéb gumitermék gyártása |
 
 | 222 | Műanyag termék gyártása |
 
@@ -1048,21 +1068,29 @@
 
 | 222101 | Műanyag lap, lemez, fólia, cső, profil gyártása m.n.s. |
 
-| 222102 | Műanyagból készült lap, lemez, cső, profil gyártásával kapcsolatos szolgáltatások |
-
 | 2222 | Műanyag csomagolóeszköz gyártása |
 
 | 222201 | Műanyag csomagolóeszköz gyártása |
 
-| 2223 | Műanyag építőanyag gyártása |
+| 2223 | Műanyag nyílászáró gyártása |
 
-| 222301 | Műanyag építőanyag gyártása |
+| 222301 | Műanyag nyílászáró gyártása |
 
-| 2229 | Egyéb műanyag termék gyártása |
+| 2224 | Műanyag építőanyag gyártása |
 
-| 222901 | Egyéb műanyag termék gyártása m.n.s. |
+| 222401 | Műanyag építőanyag gyártása |
 
-| 222903 | Gravírozás, festés műanyagra bérmunkában |
+| 2225 | Műanyag termék feldolgozása és felületkezelése |
+
+| 222501 | Műanyag termék feldolgozása és felületkezelése |
+
+| 222502 | Gravírozás, festés műanyagra bérmunkában |
+
+| 222503 | Műanyagból készült lap, lemez, cső, profil gyártásával kapcsolatos szolgáltatások |
+
+| 2226 | Egyéb műanyag termék gyártása |
+
+| 222601 | Egyéb műanyag termék gyártása |
 
 | 23 | Nemfém ásványi termék gyártása |
 
@@ -1092,17 +1120,17 @@
 
 | 231401 | Üvegszálgyártás |
 
-| 2319 | Műszaki, egyéb üvegtermék gyártása |
+| 2315 | Műszaki, egyéb üvegtermék gyártása |
 
-| 231901 | Műszaki üvegtermék gyártása m.n.s. |
+| 231501 | Műszaki üvegtermék gyártása m.n.s. |
 
-| 231902 | Népi iparművészeti és iparművészeti díszüveg készítése |
+| 231502 | Népi iparművészeti és iparművészeti díszüveg készítése |
 
-| 231903 | Egyéb üvegtermék, -dísztárgy-készítés |
+| 231503 | Egyéb üvegtermék, -dísztárgy-készítés |
 
-| 231904 | Gravírozás, festés műszaki, egyéb üvegre |
+| 231504 | Gravírozás, festés műszaki, egyéb üvegre |
 
-| 231906 | Műszaki üveg csiszolása |
+| 231505 | Műszaki üveg csiszolása |
 
 | 232 | Tűzálló termék gyártása |
 
@@ -1144,11 +1172,11 @@
 
 | 234401 | Műszaki kerámia gyártása |
 
-| 2349 | Egyéb kerámiatermék gyártása |
+| 2345 | Egyéb kerámiatermék gyártása |
 
-| 234901 | Egyéb m.n.s. kerámiatermék gyártása |
+| 234501 | Egyéb kerámiatermék gyártása m.n.s. |
 
-| 234902 | Egyéb népi iparművészeti és iparművészeti kerámia- és fazekastermék készítése |
+| 234502 | Egyéb népi iparművészeti és iparművészeti kerámia- és fazekastermék készítése |
 
 | 235 | Cement-, mész-, gipszgyártás |
 
@@ -1188,9 +1216,9 @@
 
 | 236502 | Vályogvetés |
 
-| 2369 | Egyéb beton-, gipsz-, cementtermék gyártása |
+| 2366 | Egyéb beton-, gipsz-, cementtermék gyártása |
 
-| 236901 | Egyéb beton-, gipsz-, cementtermék gyártása |
+| 236601 | Egyéb beton-, gipsz-, cementtermék gyártása |
 
 | 237 | Kőmegmunkálás |
 
@@ -1198,7 +1226,7 @@
 
 | 237001 | Kőmegmunkálás |
 
-| 239 | Egyéb csiszolótermék és nemfém ásványi termék gyártása m.n.s. |
+| 239 | M.n.s. egyéb csiszolótermék és nemfém ásványi termék gyártása |
 
 | 2391 | Csiszolótermék gyártása |
 
@@ -1208,13 +1236,13 @@
 
 | 239901 | Egyéb nemfém ásványi termék gyártása m.n.s. |
 
-| 24 | Fémalapanyag gyártása |
+| 24 | Fém alapanyag gyártása |
 
-| 241 | Vas-, acél-, vasötvözet-alapanyag gyártása |
+| 241 | Vas, acél, vasötvözet alapanyag gyártása |
 
-| 2410 | Vas-, acél-, vasötvözet-alapanyag gyártása |
+| 2410 | Vas, acél, vasötvözet alapanyag gyártása |
 
-| 241001 | Vas-, acél-, vasötvözet-alapanyag gyártása |
+| 241001 | Vas, acél, vasötvözet alapanyag gyártása |
 
 | 242 | Acélcsőgyártás |
 
@@ -1240,7 +1268,7 @@
 
 | 243401 | Acélhuzalgyártás |
 
-| 244 | Nem vas fém alapanyag gyártása |
+| 244 | Nemvasfém alapanyag gyártása |
 
 | 2441 | Nemesfémgyártás |
 
@@ -1258,9 +1286,9 @@
 
 | 244401 | Rézgyártás |
 
-| 2445 | Egyéb nem vas fém gyártása |
+| 2445 | Egyéb nemvasfém gyártása |
 
-| 244501 | Egyéb nem vas fém gyártása |
+| 244501 | Egyéb nemvasfém gyártása |
 
 | 245 | Fémöntés |
 
@@ -1278,13 +1306,13 @@
 
 | 245301 | Könnyűfémöntés |
 
-| 2454 | Egyéb nem vas fém öntése |
+| 2454 | Egyéb nemvasfém öntése |
 
-| 245401 | Egyéb nem vas fém öntése |
+| 245401 | Egyéb nemvasfém öntése |
 
 | 25 | Fémfeldolgozási termék gyártása |
 
-| 251 | Fémszerkezet, -épületelem gyártása |
+| 251 | Fémszerkezet, épületelem gyártása |
 
 | 2511 | Fémszerkezet gyártása |
 
@@ -1294,71 +1322,71 @@
 
 | 251201 | Fém épületelem gyártása |
 
-| 252 | Fűtési kazán, radiátor, fémtartály gyártása |
+| 252 | Központi fűtési kazán, gőzkazán, radiátor, fémtartály gyártása |
 
-| 2521 | Központi fűtési kazán, radiátor gyártása |
+| 2521 | Központi fűtési kazán, gőzkazán, radiátor gyártása |
 
-| 252101 | Központi fűtési kazán, radiátor gyártása |
+| 252101 | Központi fűtési radiátor gyártása |
 
-| 2529 | Fémtartály gyártása |
+| 252102 | Gőzkazán, kazán gyártása |
 
-| 252901 | Fémtartály gyártása |
+| 2522 | Fémtartály gyártása |
 
-| 253 | Gőzkazán gyártása |
+| 252201 | Fémtartály gyártása |
 
-| 2530 | Gőzkazán gyártása |
+| 253 | Fegyver-, lőszergyártás |
 
-| 253001 | Gőzkazán gyártása |
+| 2530 | Fegyver-, lőszergyártás |
 
-| 254 | Fegyver-, lőszergyártás |
+| 253001 | Fegyver-, lőszergyártás |
 
-| 2540 | Fegyver-, lőszergyártás |
+| 254 | Fémalakítás, porkohászat |
 
-| 254001 | Fegyver-, lőszergyártás |
+| 2540 | Fémalakítás, porkohászat |
 
-| 255 | Fémalakítás, porkohászat |
+| 254001 | Fémnyomás, fémkovácsolás, sajtolás, préselés |
 
-| 2550 | Fémalakítás, porkohászat |
+| 254002 | Porkohászat |
 
-| 255001 | Fémnyomás, fémkovácsolás, sajtolás, préselés |
+| 255 | Fém felületkezelése, megmunkálása |
 
-| 255002 | Porkohászat |
+| 2551 | Fém felületkezelése |
 
-| 256 | Fém felületkezelése, megmunkálása |
+| 255101 | Fém felületkezelése |
 
-| 2561 | Fémfelület-kezelés |
+| 2552 | Fém hőkezelése |
 
-| 256101 | Fémfelület-kezelés |
+| 255201 | Fém hőkezelése |
 
-| 256102 | Gravírozás fémfelületre, bérmunkában |
+| 2553 | Fémmegmunkálás |
 
-| 2562 | Fémmegmunkálás |
+| 255301 | Fémmegmunkálás m.n.s. |
 
-| 256201 | Fémmegmunkálás m.n.s. |
+| 255302 | Fém hegesztése, forrasztása |
 
-| 256202 | Fém hegesztése, forrasztása |
+| 255303 | Fém esztergálása |
 
-| 256203 | Fém esztergálása |
+| 255304 | Gravírozás fémfelületre, bérmunkában |
 
-| 257 | Evőeszköz, szerszám, általános fémáru gyártása |
+| 256 | Evőeszköz, szerszám, általános fémáru gyártása |
 
-| 2571 | Evőeszköz gyártása |
+| 2561 | Evőeszköz gyártása |
 
-| 257101 | Evőeszköz gyártása |
+| 256101 | Evőeszköz gyártása |
 
-| 257102 | Népi iparművészeti és iparművészeti kés készítés |
+| 256102 | Népi iparművészeti és iparművészeti kés készítés |
 
-| 257103 | Egyéb vágóeszköz gyártása |
+| 256103 | Egyéb vágóeszköz gyártása |
 
-| 2572 | Lakat-, zárgyártás |
+| 2562 | Lakat-, zárgyártás |
 
-| 257201 | Lakat-, zárgyártás |
+| 256201 | Lakat-, zárgyártás |
 
-| 2573 | Szerszámgyártás |
+| 2563 | Szerszámgyártás |
 
-| 257301 | Kéziszerszámgyártás |
+| 256301 | Kéziszerszámgyártás |
 
-| 257302 | Gépszerszámgyártás |
+| 256302 | Gépszerszámgyártás |
 
 | 259 | Egyéb fémfeldolgozási termék gyártása |
 
@@ -1380,7 +1408,7 @@
 
 | 2599 | M.n.s. egyéb fémfeldolgozási termék gyártása |
 
-| 259901 | M.n.s. egyéb fémfeldolgozási termék gyártása |
+| 259901 | Egyéb fémfeldolgozási termék gyártása m.n.s. |
 
 | 259902 | Fém dísztárgy készítése |
 
@@ -1410,11 +1438,11 @@
 
 | 262002 | Számítógépmodulok összeszerelése |
 
-| 263 | Híradás-technikai berendezés gyártása |
+| 263 | Híradástechnikai berendezés gyártása |
 
-| 2630 | Híradás-technikai berendezés gyártása |
+| 2630 | Híradástechnikai berendezés gyártása |
 
-| 263001 | Híradás-technikai berendezés gyártása m.n.s. |
+| 263001 | Híradástechnikai berendezés gyártása m.n.s. |
 
 | 264 | Elektronikus fogyasztási cikk gyártása |
 
@@ -1438,17 +1466,13 @@
 
 | 266001 | Elektronikus orvosi berendezés gyártása |
 
-| 267 | Optikai eszköz gyártása |
+| 267 | Optikai eszköz, mágneses, optikai adathordozó, fényképészeti berendezés gyártása |
 
-| 2670 | Optikai eszköz gyártása |
+| 2670 | Optikai eszköz, mágneses, optikai adathordozó, fényképészeti berendezés gyártása |
 
 | 267001 | Optikai, fényképészeti eszköz gyártása |
 
-| 268 | Mágneses, optikai információhordozó gyártása |
-
-| 2680 | Mágneses, optikai információhordozó gyártása |
-
-| 268001 | Mágneses, optikai információhordozó gyártása |
+| 267002 | Mágneses, optikai információhordozó gyártása |
 
 | 27 | Villamos berendezés gyártása |
 
@@ -1482,11 +1506,11 @@
 
 | 273301 | Szerelvény gyártása |
 
-| 274 | Villamos világítóeszköz gyártása |
+| 274 | Világítóberendezés gyártása |
 
-| 2740 | Villamos világítóeszköz gyártása |
+| 2740 | Világítóberendezés gyártása |
 
-| 274001 | Villamos világítóeszköz gyártása |
+| 274001 | Világítóberendezés gyártása |
 
 | 275 | Háztartási készülék gyártása |
 
@@ -1499,8 +1523,6 @@
 | 2752 | Nem villamos háztartási készülék gyártása |
 
 | 275201 | Nem villamos háztartási készülék gyártása m.n.s. |
-
-| 275202 | M.n.s. fűtőberendezés gyártása |
 
 | 279 | Egyéb villamos berendezés gyártása |
 
@@ -1516,9 +1538,9 @@
 
 | 281 | Általános rendeltetésű gép gyártása |
 
-| 2811 | Motor, turbina gyártása (kivéve: légi, közútijármű-motor) |
+| 2811 | Motor, turbina gyártása (kivéve légi-, közútijármű-motor) |
 
-| 281101 | Motor, turbina gyártása (kivéve: légi, közútijármű-motor) |
+| 281101 | Motor, turbina gyártása (kivéve légi-, közútijármű-motor) |
 
 | 2812 | Hidraulikus, pneumatikus berendezés gyártása |
 
@@ -1538,11 +1560,11 @@
 
 | 282 | Egyéb általános rendeltetésű gép gyártása |
 
-| 2821 | Fűtőberendezés, kemence gyártása |
+| 2821 | Kályha, kemence és nem hordozható háztartási fűtőberendezés gyártása |
 
 | 282101 | Ipari kemence gyártása |
 
-| 282102 | Sütőipari villamos kemence gyártása |
+| 282102 | Nem hordozható háztartási fűtő-, hűtő- és szellőztetőberendezés gyártása m.n.s. |
 
 | 2822 | Emelő-, anyagmozgató gép gyártása |
 
@@ -1556,9 +1578,9 @@
 
 | 282401 | Gépi meghajtású hordozható kézi szerszámgép gyártása |
 
-| 2825 | Nem háztartási hűtő, légállapot-szabályozó gyártása |
+| 2825 | Nem háztartási légkondicionáló berendezés gyártása |
 
-| 282501 | Nem háztartási hűtő, légállapot-szabályozó gyártása |
+| 282501 | Nem háztartási légkondicionáló berendezés gyártása |
 
 | 2829 | M.n.s. egyéb általános rendeltetésű gép gyártása |
 
@@ -1568,19 +1590,19 @@
 
 | 2830 | Mezőgazdasági, erdészeti gép gyártása |
 
-| 283001 | M.n.s. mezőgazdasági, erdészeti gép gyártása |
+| 283001 | Mezőgazdasági, erdészeti gép gyártása m.n.s. |
 
 | 283002 | Mezőgazdasági traktor gyártása |
 
 | 284 | Szerszámgépgyártás |
 
-| 2841 | Fémmegmunkáló szerszámgép gyártása |
+| 2841 | Szerszámgépgyártás |
 
 | 284101 | Fémmegmunkáló szerszámgép gyártása |
 
-| 2849 | Egyéb szerszámgép gyártása |
+| 2842 | Egyéb szerszámgép gyártása |
 
-| 284901 | Egyéb szerszámgép gyártása |
+| 284201 | Egyéb szerszámgép gyártása |
 
 | 289 | Egyéb speciális rendeltetésű gép gyártása |
 
@@ -1594,7 +1616,9 @@
 
 | 2893 | Élelmiszer-, dohányipari gép gyártása |
 
-| 289301 | Élelmiszer-, dohányipari gép gyártása |
+| 289301 | Élelmiszer-, dohányipari gép gyártása m.n.s. |
+
+| 289302 | Sütőipari villamos kemence gyártása |
 
 | 2894 | Textil-, ruházati, bőripari gép gyártása |
 
@@ -1607,6 +1631,10 @@
 | 2896 | Műanyag-, gumifeldolgozó gép gyártása |
 
 | 289601 | Műanyag-, gumifeldolgozó gép gyártása |
+
+| 2897 | Additív gyártógép gyártása |
+
+| 289701 | Additív gyártógép gyártása |
 
 | 2899 | M.n.s. egyéb speciális gép gyártása |
 
@@ -1630,27 +1658,31 @@
 
 | 292003 | Lakókocsi, mobilotthon berendezésének kialakítása |
 
-| 293 | Közúti jármű alkatrészeinek gyártása |
+| 293 | Gépjárműalkatrész és -tartozék gyártása |
 
-| 2931 | Járművillamossági, -elektronikai készülékek gyártása |
+| 2931 | Gépjárművillamossági, -elektronikai készülékek gyártása |
 
-| 293101 | Járművillamossági, -elektronikai készülékek gyártása |
+| 293101 | Gépjárművillamossági, -elektronikai készülékek gyártása |
 
-| 2932 | Közúti jármű alkatrészeinek gyártása |
+| 2932 | Egyéb gépjárműalkatrész és -tartozék gyártása |
 
-| 293201 | Közúti gépjármű alkatrészeinek gyártása |
+| 293201 | Egyéb gépjárműalkatrész és -tartozék gyártása |
 
 | 30 | Egyéb jármű gyártása |
 
-| 301 | Hajó, csónak gyártása |
+| 301 | Hajó, csónak építése |
 
-| 3011 | Hajógyártás |
+| 3011 | Polgári hajó építése |
 
-| 301101 | Hajóépítés |
+| 301101 | Polgári hajó építése |
 
-| 3012 | Szabadidő-, sporthajó gyártása |
+| 3012 | Szabadidő-, sporthajó építése |
 
 | 301201 | Szabadidő-, sporthajó építése |
+
+| 3013 | Katonai hajó és vízi jármű építése |
+
+| 301301 | Katonai hajó és vízi jármű építése |
 
 | 302 | Vasúti, kötöttpályás jármű gyártása |
 
@@ -1660,15 +1692,19 @@
 
 | 303 | Légi, űrjármű gyártása |
 
-| 3030 | Légi, űrjármű gyártása |
+| 3031 | Polgári légi, űrjármű gyártása |
 
-| 303001 | Légi, űrjármű gyártása |
+| 303101 | Polgári légi, űrjármű gyártása |
 
-| 304 | Katonai harcjármű gyártása |
+| 3032 | Katonai légi, űrjármű gyártása |
 
-| 3040 | Katonai harcjármű gyártása |
+| 303201 | Katonai légi, űrjármű gyártása |
 
-| 304001 | Katonai harcjármű gyártása |
+| 304 | Katonai harci jármű gyártása |
+
+| 3040 | Katonai harci jármű gyártása |
+
+| 304001 | Katonai harci jármű gyártása |
 
 | 309 | Egyéb jármű gyártása |
 
@@ -1690,29 +1726,21 @@
 
 | 310 | Bútorgyártás |
 
-| 3101 | Irodabútor gyártása |
+| 3100 | Bútorgyártás |
 
-| 310101 | Irodabútor gyártása |
+| 310001 | Bútorgyártás m.n.s. |
 
-| 3102 | Konyhabútorgyártás |
+| 310002 | Irodabútor gyártása |
 
-| 310201 | Konyhabútorgyártás m.n.s. |
+| 310003 | Konyhabútorgyártás m.n.s. |
 
-| 310202 | Népi iparművészeti és iparművészeti konyhabútor készítése |
+| 310004 | Népi iparművészeti és iparművészeti konyhabútor készítése |
 
-| 3103 | Ágybetét gyártása |
+| 310005 | Ágybetét gyártása |
 
-| 310301 | Ágybetét gyártása |
+| 310006 | Egyéb népi iparművészeti és iparművészeti bútor készítése |
 
-| 3109 | Egyéb bútor gyártása |
-
-| 310901 | Egyéb m.n.s. bútor gyártása |
-
-| 310902 | Egyéb népi iparművészeti és iparművészeti bútor készítése |
-
-| 310904 | Bútorgyártás befejező műveletei |
-
-| 310905 | Népi iparművészeti és iparművészeti fonottbútor-készítés |
+| 310007 | Bútorgyártás befejező műveletei |
 
 | 32 | Egyéb feldolgozóipari tevékenység |
 
@@ -1720,11 +1748,11 @@
 
 | 3212 | Ékszergyártás |
 
-| 321201 | Ötvös, aranyműves termék gyártása, vésése |
+| 321201 | Ékszergyártás m.n.s. |
 
 | 321202 | Ékszer gyártása, átalakítása |
 
-| 321204 | M.n.s. ékszergyártás |
+| 321203 | Ötvös, aranyműves termék gyártása, vésése |
 
 | 3213 | Divatékszer gyártása |
 
@@ -1732,9 +1760,9 @@
 
 | 321302 | Tűzzománc dísztárgy, divatékszer készítése |
 
-| 321304 | Népi iparművészeti és iparművészeti divatékszer, díszműáru készítése |
+| 321303 | Fűzöttgyöngy-készítés |
 
-| 321305 | Fűzöttgyöngy-készítés |
+| 321304 | Népi iparművészeti és iparművészeti divatékszer, díszműáru készítése |
 
 | 322 | Hangszergyártás |
 
@@ -1749,8 +1777,6 @@
 | 3230 | Sportszergyártás |
 
 | 323001 | Sportszergyártás m.n.s. |
-
-| 323002 | Bőr sportkesztyű, -fejfedő gyártása |
 
 | 324 | Játékgyártás |
 
@@ -1776,15 +1802,15 @@
 
 | 325004 | Egyedi gyógyászati segédeszköz gyártása és értékesítése |
 
-| 329 | M.n.s. egyéb feldolgozóipari tevékenység |
+| 329 | M.n.s. feldolgozóipari tevékenység |
 
 | 3291 | Seprű-, kefegyártás |
 
 | 329101 | Seprű-, kefegyártás |
 
-| 3299 | Egyéb m.n.s feldolgozóipari tevékenység |
+| 3299 | Egyéb m.n.s. feldolgozóipari tevékenység |
 
-| 329901 | Egyéb m.n.s. feldolgozóipari tevékenység |
+| 329901 | Egyéb feldolgozóipari tevékenység m.n.s. |
 
 | 329902 | Koporsókészítés |
 
@@ -1812,153 +1838,155 @@
 
 | 329914 | Preparátori tevékenység (állatkitömés) |
 
+| 329915 | Címfestés |
+
 | 329916 | Termék gyártási folyamattól elkülönült dekorálása |
 
-| 329917 | Címfestés |
+| 33 | Ipari gép, berendezés, eszköz javítása, karbantartása, üzembe helyezése |
 
-| 33 | Ipari gép, berendezés, eszköz javítása, üzembe helyezése |
+| 331 | Ipari gép, berendezés, eszköz javítása, karbantartása |
 
-| 331 | Ipari gép, berendezés, eszköz javítása |
+| 3311 | Fémfeldolgozási termék javítása, karbantartása |
 
-| 3311 | Fémfeldolgozási termék javítása |
+| 331101 | Egyéb fémfeldolgozási termék javítása, karbantartása m.n.s. |
 
-| 331101 | Fémszerkezet javítása |
+| 331102 | Konténer javítása, karbantartása |
 
-| 331102 | Konténer javítása |
+| 331103 | Fegyver, fegyverrendszer javítása, karbantartása |
 
-| 331103 | Fegyver-, fegyverrendszer javítása |
+| 331104 | Zár, -szerkezet javítása, karbantartása |
 
-| 331104 | Zár, -szerkezet javítása |
+| 331105 | Vas, acél tárolóeszköz javítása, karbantartása |
 
-| 331105 | Vas, acél tárolóeszköz javítása |
+| 331106 | Fémtartály javítása, karbantartása |
 
-| 331106 | Fémtartály javítása |
+| 331107 | Fémszerkezet javítása, karbantartása |
 
-| 331110 | Fűtési kazán, radiátor javítása |
+| 331108 | Kéziszerszám javítása, karbantartása |
 
-| 331111 | Gőzkazán javítása |
+| 331109 | Kötőelem, csavar javítása, karbantartása |
 
-| 331113 | Könnyűfém csomagolóeszköz javítása |
+| 331110 | Radiátor javítása, karbantartása |
 
-| 331114 | Huzaltermék javítása |
+| 331111 | Gőzkazán javítása, karbantartása |
 
-| 331115 | Kötőelem, csavar javítása |
+| 331112 | Huzaltermék javítása, karbantartása |
 
-| 331116 | Máshová nem sorolt egyéb fémfeldolgozási termék javítása |
+| 331113 | Könnyűfém csomagolóeszköz javítása, karbantartása |
 
-| 331117 | Kéziszerszám javítás |
+| 3312 | Ipari gép, berendezés javítása, karbantartása |
 
-| 3312 | Ipari gép, berendezés javítása |
+| 331201 | M.n.s. egyéb általános gép, berendezés javítása, karbantartása |
 
-| 331201 | M.n.s. egyéb általános gép, berendezés javítása |
+| 331202 | Gépi meghajtású, hordozható kézi szerszámgép javítása, karbantartása |
 
-| 331202 | Gépi meghajtású, hordozható kézi szerszámgép javítása |
+| 331203 | Egyéb mezőgazdasági gép javítása, karbantartása |
 
-| 331203 | Egyéb mezőgazdasági gép javítása |
+| 331204 | Gépek elektromos javítása, karbantartása |
 
-| 331205 | Irodagép javítása (kivéve: számítógép és perifériái) |
+| 331205 | Irodagép javítása (kivéve: számítógép és perifériái), karbantartása |
 
-| 331206 | Textil-, ruházati, bőripari gép javítása |
+| 331206 | Textil-, ruházati, bőripari gép javítása, karbantartása |
 
-| 331207 | M.n.s. egyéb speciális gép javítása |
+| 331207 | M.n.s. egyéb speciális gép javítása, karbantartása |
 
-| 331208 | Papíripari gép javítása |
+| 331208 | Papíripari gép javítása, karbantartása |
 
-| 331209 | Élelmiszer-, dohányipari gép javítása |
+| 331209 | Élelmiszer-, dohányipari gép javítása, karbantartása |
 
-| 331210 | Bányászati, építőipari gép javítása |
+| 331210 | Bányászati, építőipari gép javítása, karbantartása |
 
-| 331211 | Kohászati gép javítása |
+| 331211 | Kohászati gép javítása, karbantartása |
 
-| 331212 | Egyéb m.n.s. szerszámgép javítása |
+| 331212 | Egyéb m.n.s. szerszámgép javítása, karbantartása |
 
-| 331213 | Egyéb fémmegmunkáló szerszámgép javítása |
+| 331213 | Egyéb fémmegmunkáló szerszámgép javítása, karbantartása |
 
-| 331214 | Mezőgazdasági traktor javítása |
+| 331214 | Mezőgazdasági traktor javítása, karbantartása |
 
-| 331215 | Ipari kemence javítása |
+| 331215 | Ipari kemence javítása, karbantartása |
 
-| 331216 | Ipari, technológiai csap, szelep javítása |
+| 331216 | Ipari, technológiai csap, szelep javítása, karbantartása |
 
-| 331217 | Szivattyú, kompresszor javítása |
+| 331217 | Szivattyú, kompresszor javítása, karbantartása |
 
-| 331220 | Motor, turbina javítása (légi, közúti járműmotor nélkül) |
+| 331218 | Műanyag-, gumifeldolgozó gép javítása, karbantartása |
 
-| 331221 | Nem háztartási hűtő, légállapot-szabályozó javítása |
+| 331219 | Csapágy, erőátviteli elem javítása, karbantartása |
 
-| 331222 | Emelő-, anyagmozgató gép javítása |
+| 331220 | Motor, turbina javítása (légi, közúti, vízi járműmotor nélkül), karbantartása |
 
-| 331223 | Csapágy, erőátviteli elem javítása |
+| 331221 | Nem háztartási hűtő, légkondicionáló berendezés javítása, karbantartása |
 
-| 331224 | Műanyag-, gumifeldolgozó gép javítása |
+| 331222 | Emelő-, anyagmozgató gép javítása, karbantartása |
 
-| 331225 | Gépek elektromos javítása |
+| 3313 | Elektronikus, optikai eszköz javítása, karbantartása |
 
-| 3313 | Elektronikus, optikai eszköz javítása |
+| 331301 | Elektronikus, optikai eszköz javítása, karbantartása m.n.s. |
 
-| 331301 | Elektronikus, optikai eszköz javítása m.n.s. |
+| 331302 | Orvosi, sebészeti berendezés javítása, karbantartása |
 
-| 331302 | Orvosi, sebészeti berendezés javítása |
+| 331303 | Professzionális optikai, fényképészeti eszköz javítása, karbantartása |
 
-| 331303 | Professzionális optikai, fényképészeti eszköz javítása |
+| 331304 | Ipari folyamatirányító rendszer javítása, karbantartása |
 
-| 331304 | Ipari folyamatirányító rendszer javítása |
+| 331305 | Professzionális időmérő műszer javítása, karbantartása |
 
-| 331305 | Professzionális időmérő műszer javítása |
+| 331306 | Professzionális híradástechnikai termék javítása, karbantartása |
 
-| 331306 | Professzionális híradás-technikai termék javítása |
+| 3314 | Ipari villamos gép, berendezés javítása, karbantartása |
 
-| 3314 | Ipari villamos gép, berendezés javítása |
-
-| 331401 | M.n.s. egyéb villamos iparigép, készülék javítása |
+| 331401 | M.n.s. egyéb villamos iparigép, készülék javítása, karbantartása |
 
 | 331402 | Villamos motor, áramfejlesztő javítása, újratekercselése |
 
-| 331403 | Transzformátor javítása |
+| 331403 | Transzformátor javítása, karbantartása |
 
-| 331404 | Áramelosztó, -szabályozó készülék javítása |
+| 331404 | Áramelosztó, -szabályozó készülék javítása, karbantartása |
 
-| 3315 | Hajó, csónak javítása |
+| 3315 | Polgári hajó, csónak javítása, karbantartása |
 
-| 331501 | Hajó, csónak javítása m.n.s. |
+| 331501 | Polgári hajó, csónak javítása, karbantartása m.n.s. |
 
-| 331502 | Szabadidő-, sporthajó javítása |
+| 331502 | Szabadidő-, sporthajó javítása, karbantartása |
 
-| 331503 | Halászhajó javítása |
+| 331503 | Halászhajó javítása, karbantartása |
 
-| 3316 | Repülőgép, űrhajó javítása |
+| 3316 | Polgári légi, űrjármű javítása, karbantartása |
 
-| 331601 | Légi-, űrjármű javítása |
+| 331601 | Polgári légi, űrjármű javítása, karbantartása |
 
-| 3317 | Egyéb közlekedési eszköz javítása |
+| 3317 | Egyéb polgári közlekedési eszköz javítása, karbantartása |
 
-| 331701 | Vasúti, kötöttpályás jármű javítása |
+| 331701 | Egyéb polgári közlekedési eszköz javítása, karbantartása m.n.s. |
 
-| 331702 | Kerekesszék javítása |
+| 331702 | Kerekesszék javítása, karbantartása |
 
-| 331703 | Nem gépi meghajtású egyéb jármű javítása |
+| 331703 | Nem gépi meghajtású egyéb jármű javítása, karbantartása |
 
-| 331704 | M.n.s. egyéb közlekedési eszköz javítása |
+| 331704 | Vasúti, kötöttpályás jármű javítása, karbantartása |
 
-| 3319 | Egyéb ipari eszköz javítása |
+| 3318 | Katonai harci jármű, hajó, csónak, légi és űrjármű javítása és karbantartása |
 
-| 331901 | Kötélzet, jutavászon és ponyva javítása |
+| 331801 | Katonai harci jármű, hajó, csónak, légi és űrjármű javítása és karbantartása |
 
-| 331902 | Orgona és más hangszer régiség javítása, restaurálása |
+| 3319 | Egyéb ipari eszköz javítása, karbantartása |
 
-| 331903 | Automata, vidámparki, vendéglátóhelyi asztali és egyéb társasjátékok javítása |
+| 331901 | Egyéb ipari eszköz javítása, karbantartása m.n.s. |
 
-| 331904 | Tároló fatermék, rakodólap javítása |
+| 331902 | Kötélzet, jutavászon és ponyva javítása, karbantartása |
 
-| 331905 | Egyéb gumitermék javítása (kivéve: gumiabroncs) |
+| 331903 | Automata, vidámparki, vendéglátóhelyi asztali és egyéb társasjátékok javítása, karbantartása |
 
-| 331906 | Műanyag termékek javítása |
+| 331904 | Tároló fatermék, rakodólap javítása, karbantartása |
 
-| 331908 | Csiszolótermék javítása |
+| 331905 | Egyéb gumitermék javítása, karbantartása (kivéve: gumiabroncs) |
 
-| 331910 | Műszaki üvegtermék javítása |
+| 331906 | Műanyag termékek javítása, karbantartása |
 
-| 331912 | M.n.s. egyéb ipari eszköz javítása |
+| 331907 | Műszaki üvegtermék javítása, karbantartása |
+
+| 331908 | Csiszolótermék javítása, karbantartása |
 
 | 332 | Ipari gép, berendezés üzembe helyezése |
 
@@ -1970,7 +1998,11 @@
 
 | 332003 | Kemence üzembe helyezése |
 
+| 332004 | Ipari időmérő műszer, készülék üzembe helyezése |
+
 | 332005 | Ipari folyamatirányító rendszer összeszerelése |
+
+| 332006 | Professzionális fényképészeti, filmtechnikai felszerelés, optikai műszer üzembe helyezése |
 
 | 332007 | Motor, turbina üzembe helyezése (légi, közúti járműmotor nélkül) |
 
@@ -1992,6 +2024,8 @@
 
 | 332016 | Kohászati gép üzembe helyezése |
 
+| 332017 | Hangszer üzembe helyezése |
+
 | 332018 | Élelmiszer-, dohányipari gép üzembe helyezése |
 
 | 332019 | Textil-, ruházati, bőripari gép üzembe helyezése |
@@ -2002,13 +2036,17 @@
 
 | 332022 | Áramelosztó, -szabályozó készülék üzembe helyezése |
 
-| 332023 | Ipari híradás-technikai termék üzembe helyezése |
+| 332023 | Ipari híradástechnikai termék üzembe helyezése |
 
 | 332024 | Mérőműszer üzembe helyezése (kivéve fogyasztásmérők) |
+
+| 332025 | Professzionális elektronikai berendezés üzembe helyezése |
 
 | 332026 | Fém tárolóeszköz üzembe helyezése |
 
 | 332027 | Zár, -szerkezet üzembe helyezése |
+
+| 332028 | Irodagép üzembe helyezése |
 
 | 332029 | Gépi meghajtású hordozható kézi szerszámgép üzembe helyezése |
 
@@ -2020,57 +2058,55 @@
 
 | 332033 | Gőzkazán üzembe helyezése |
 
+| 332034 | Automata tekepálya, vidámparki játékberendezés, vendéglátóhely asztali és egyéb társasjátékainak felszerelése, üzembe helyezése |
+
 | 332035 | Orvosi, sebészeti berendezés üzembe helyezése |
 
 | 332036 | M.n.s. egyéb fémfeldolgozási termék (kivéve: a gépek, gépi berendezések) üzembe helyezése |
 
 | 332037 | Fémtartály üzembe helyezése |
 
-| 332038 | Automata tekepálya, vidámparki játékberendezés, vendéglátóhely asztali és egyéb társasjátékainak felszerelése, üzembe helyezése |
-
-| 332039 | Irodagép üzembe helyezése |
-
-| 332040 | Professzionális elektronikai berendezés üzembe helyezése |
-
-| 332041 | Hangszer üzembe helyezése |
-
-| 332042 | Professzionális fényképészeti, filmtechnikai felszerelés, optikai műszer üzembe helyezése |
-
-| 332043 | Ipari időmérő műszer, készülék üzembe helyezése |
-
 | 35 | Villamosenergia-, gáz-, gőzellátás, légkondicionálás |
 
 | 351 | Villamosenergia-termelés, -ellátás |
 
-| 3511 | Villamosenergia-termelés |
+| 3511 | Villamosenergia-termelés nem megújuló forrásból |
 
-| 351101 | Engedélyhez nem kötött erőmű működtetése |
+| 351101 | Villamosenergia-termelés nem megújuló forrásból |
 
-| 351102 | Szélerőmű működtetése |
+| 3512 | Villamosenergia-termelés megújuló forrásból |
 
-| 3514 | Villamosenergia-kereskedelem |
+| 351201 | Villamosenergia-termelés egyéb megújuló forrásból |
 
-| 351401 | Ügyfélszerzés villamosenergia-szolgáltató részére |
+| 351202 | Szélerőmű működtetése |
 
-| 351402 | Villamosenergia ügynöki kiskereskedelme |
+| 3515 | Villamosenergia-kereskedelem |
 
-| 351403 | Elektromos járművek töltési szolgáltatása |
+| 351501 | Villamosenergia-kereskedelem m.n.s. |
+
+| 351502 | Elektromos járművek töltési szolgáltatása |
 
 | 352 | Gázellátás |
-
-| 3523 | Gázkereskedelem |
-
-| 352301 | Ügyfélszerzés gázszolgáltató részére |
-
-| 352302 | Gáz ügynöki kiskereskedelme |
 
 | 353 | Gőzellátás, légkondicionálás |
 
 | 3530 | Gőzellátás, légkondicionálás |
 
-| 353001 | Fogyasztói hőszolgáltatás |
+| 353001 | Gőzellátás, légkondicionálás m.n.s. |
 
 | 353002 | Képesítéshez kötött kazán-kezelés |
+
+| 354 | Villamos energiával és földgázzal foglalkozó brókerek és ügynökök tevékenysége |
+
+| 3540 | Villamos energiával és földgázzal foglalkozó brókerek és ügynökök tevékenysége |
+
+| 354001 | Ügyfélszerzés villamosenergia-szolgáltató részére |
+
+| 354002 | Villamosenergia ügynöki kiskereskedelme |
+
+| 354003 | Ügyfélszerzés gázszolgáltató részére |
+
+| 354004 | Gáz ügynöki kiskereskedelme |
 
 | 36 | Víztermelés, -kezelés, -ellátás |
 
@@ -2102,39 +2138,51 @@
 
 | 381201 | Veszélyes hulladék gyűjtése |
 
-| 382 | Hulladékkezelés, -ártalmatlanítás |
+| 382 | Hulladékhasznosítás |
 
-| 3821 | Nem veszélyes hulladék kezelése, ártalmatlanítása |
+| 3821 | Hulladékanyag-hasznosítás |
 
-| 382101 | Nem veszélyes hulladék kezelése, ártalmatlanítása |
+| 382101 | Gépjármű bontása |
 
-| 382103 | Biogáz gyártás hulladékból |
+| 382102 | Egyéb eszköz, berendezés bontása |
 
-| 382104 | Komposztálás |
+| 382103 | Elektromos és elektronikai berendezés bontása |
 
-| 382105 | Másodlagos tüzelőanyag előállítása hulladékból |
+| 382104 | Másodlagos nyersanyag előállítása fémhulladékból |
 
-| 3822 | Veszélyes hulladék kezelése, ártalmatlanítása |
+| 382105 | Másodlagos nyersanyag előállítása nemfémhulladékból |
 
-| 382201 | Veszélyes hulladék kezelése, ártalmatlanítása |
+| 382106 | Másodlagos nyersanyag előállítása építési-bontási hulladékból |
 
-| 383 | Hulladékanyag hasznosítása |
+| 382107 | Brikett, pellet gyártása ipari hulladékból |
 
-| 3831 | Használt eszköz bontása |
+| 382108 | Biogáz előállítása hulladékból |
 
-| 383103 | Gépjármű bontása |
+| 382109 | Komposztálás |
 
-| 383104 | Egyéb eszköz, berendezés bontása |
+| 3822 | Energetikai hasznosítás |
 
-| 383105 | Elektromos és elektronikai berendezés bontása |
+| 382201 | Hulladék energetikai hasznosítása m.n.s. |
 
-| 3832 | Hulladék újrahasznosítása |
+| 382202 | Másodlagos tüzelőanyag előállítása hulladékból |
 
-| 383205 | Másodlagos nyersanyag előállítása fém hulladékból |
+| 3823 | Egyéb hulladékhasznosítás |
 
-| 383206 | Másodlagos nyersanyag előállítása nemfém hulladékból |
+| 382301 | Egyéb hulladékhasznosítás |
 
-| 383207 | Brikett, pellet gyártása ipari hulladékból |
+| 383 | Hulladékártalmatlanítás hasznosítás nélkül |
+
+| 3831 | Hulladékégetés energetikai hasznosítás nélkül |
+
+| 383101 | Hulladékégetés energetikai hasznosítás nélkül |
+
+| 3832 | Hulladéklerakóban való elhelyezés, állandó tárolás |
+
+| 383201 | Hulladéklerakóban való elhelyezés, állandó tárolás |
+
+| 3833 | Egyéb hulladékártalmatlanítás |
+
+| 383301 | Egyéb hulladékártalmatlanítás |
 
 | 39 | Szennyeződésmentesítés, egyéb hulladékkezelés |
 
@@ -2142,35 +2190,27 @@
 
 | 3900 | Szennyeződésmentesítés, egyéb hulladékkezelés |
 
-| 390001 | Szennyeződésmentesítés, egyéb hulladékkezelés m.n.s |
+| 390001 | Szennyezésmentesítés, egyéb hulladékkezelés m.n.s. |
 
 | 390002 | Területtisztítás |
 
-| 41 | Épületek építése |
+| 41 | Lakó- és nem lakóépület építése |
 
-| 411 | Épületépítési projekt szervezése |
+| 410 | Lakó- és nem lakóépület építése |
 
-| 4110 | Épületépítési projekt szervezése |
+| 4100 | Lakó- és nem lakóépület építése |
 
-| 411001 | Épület építési beruházás szervezése |
+| 410001 | Épületszerkezet felújítás |
 
-| 412 | Lakó- és nem lakó épület építése |
+| 410002 | Lakó- és nem lakóépület kivitelezése |
 
-| 4120 | Lakó- és nem lakó épület építése |
+| 410003 | Előre gyártott (nem saját gyártású) épület helyszíni összeszerelése, felállítása kulcsra kész állapotban |
 
-| 412001 | Épületszerkezet felújítás |
+| 410004 | Saját gyártású faépület helyszíni összeszerelése, felállítása kulcsra kész állapotban |
 
-| 412002 | Lakó- és nem lakóépület kivitelezése |
+| 410005 | Saját gyártású műanyag épület helyszíni összeszerelése, felállítása kulcsra kész állapotban |
 
-| 412003 | Előre gyártott (nem saját gyártású) épület helyszíni összeszerelése, felállítása kulcsra kész állapotban |
-
-| 412004 | Műemlék építmény helyreállítása, restaurálása |
-
-| 412005 | Saját gyártású faépület helyszíni összeszerelése, felállítása kulcsra kész állapotban |
-
-| 412006 | Saját gyártású műanyag épület helyszíni összeszerelése, felállítása kulcsra kész állapotban |
-
-| 412007 | Saját gyártású fém épület helyszíni összeszerelése, felállítása kulcsra kész állapotban |
+| 410006 | Saját gyártású fém épület helyszíni összeszerelése, felállítása kulcsra kész állapotban |
 
 | 42 | Egyéb építmény építése |
 
@@ -2180,15 +2220,13 @@
 
 | 421101 | Útépítés |
 
-| 421103 | Útburkolati jelek festése |
+| 421102 | Repülőtéri kifutópálya-építés |
 
-| 421104 | Repülőtéri kifutópálya-építés |
-
-| 421105 | Útfelújítás, karbantartás |
+| 421103 | Útfelújítás, karbantartás |
 
 | 4212 | Vasút építése |
 
-| 421201 | Vasút építése |
+| 421201 | Vasút építése m.n.s. |
 
 | 421202 | Városi kötöttpályás vasút építése |
 
@@ -2214,25 +2252,25 @@
 
 | 422106 | Kútásás |
 
-| 4222 | Elektromos, híradás-technikai célú közmű építése |
+| 4222 | Elektromos, híradástechnikai célú közmű építése |
+
+| 422201 | Erőmű építése |
 
 | 422202 | Elektromos közmű építése |
 
 | 422203 | Távközlési, telekommunikációs hálózat építés |
 
-| 422204 | Erőmű építése |
-
-| 429 | M.n.s. egyéb építmény építése |
+| 429 | Egyéb építmény építése |
 
 | 4291 | Vízi létesítmény építése |
 
 | 429101 | Vízi létesítmény építése |
 
-| 4299 | Egyéb m.n.s. építés |
+| 4299 | M.n.s. egyéb építmény építése |
 
-| 429901 | Egyéb m.n.s. építés |
+| 429901 | Egyéb építmény építése m.n.s. |
 
-| 429904 | Sportpályák építése |
+| 429902 | Sportpályák építése |
 
 | 43 | Speciális szaképítés |
 
@@ -2284,7 +2322,7 @@
 
 | 432205 | Napkollektor szerelése |
 
-| 432206 | Gázkészülék szerelés |
+| 432206 | Gázkészülék szerelése |
 
 | 432207 | Beépített tűzoltóberendezés szerelése |
 
@@ -2292,21 +2330,29 @@
 
 | 432209 | Gázszállító rendszerek szerelése |
 
-| 4329 | Egyéb épületgépészeti szerelés |
+| 432210 | Cserépkályha- és kandallóépítés |
 
-| 432901 | Egyéb m.n.s. épületgépészeti szerelés |
+| 432211 | Kazán és kemence kőművesmunkái |
 
-| 432902 | Felvonó, mozgólépcső beépítése, üzembe helyezése |
+| 4323 | Szigetelés |
 
-| 432903 | Épületlakatos szerkezet szerelés, kerítés, rács felszerelése |
+| 432301 | Vízszigetelés |
 
-| 432904 | Felvonó, mozgólépcső karbantartás, -javítás |
+| 432302 | Hang- és hőszigetelés |
 
-| 432906 | Hang- és hőszigetelés |
+| 432303 | Épületszerkezetek tűzállóvá tétele |
 
-| 432907 | Árnyékoló, napellenző, ponyvatető, árnyékolástechnika felszerelése, javítása |
+| 4324 | Egyéb épületgépészeti szerelés |
 
-| 432908 | Épületszerkezetek tűzállóvá tétele |
+| 432401 | Egyéb épületgépészeti szerelés m.n.s. |
+
+| 432402 | Felvonó, mozgólépcső beépítése, üzembe helyezése |
+
+| 432403 | Épületlakatos szerkezet szerelés, kerítés, rács felszerelése |
+
+| 432404 | Felvonó, mozgólépcső karbantartás, -javítás |
+
+| 432405 | Árnyékoló, napellenző, ponyvatető, árnyékolástechnika felszerelése, javítása |
 
 | 433 | Befejező építés |
 
@@ -2320,17 +2366,17 @@
 
 | 4332 | Épületasztalos-szerkezet szerelése |
 
+| 433201 | Épületasztalos-szerkezet szerelése, javítása m.n.s. |
+
 | 433202 | Redőny, reluxa felszerelése, javítása |
 
 | 433203 | Nyílászáró beszerelése |
 
 | 433204 | Álmennyezet-, álpadló-szerelés |
 
-| 433206 | Beépített bútor beszerelése, javítása |
+| 433205 | Beépített bútor beszerelése, javítása |
 
-| 433207 | M.n.s. egyéb épületasztalos szerkezet szerelése, javítása |
-
-| 4333 | Padló-, falburkolás |
+| 4333 | Padló- és falburkolás |
 
 | 433301 | Épületburkoló-ipari munkák |
 
@@ -2338,13 +2384,13 @@
 
 | 433303 | Mozaik díszítés, márvány, gránit és palamunka |
 
+| 433304 | Térburkolás |
+
 | 433305 | Tapétázás |
 
-| 433307 | Térburkolás |
+| 433306 | Hidegburkolás |
 
-| 433308 | Hidegburkolás |
-
-| 4334 | Festés, üvegezés |
+| 4334 | Festés és üvegezés |
 
 | 433401 | Festés, mázolás |
 
@@ -2354,141 +2400,77 @@
 
 | 433404 | Acélszerkezetek korrózióvédelme |
 
-| 4339 | Egyéb befejező építés m.n.s. |
+| 4335 | Egyéb befejező építés |
 
-| 433901 | Egyéb befejező építés m.n.s. |
+| 433501 | Egyéb befejező építés m.n.s. |
 
-| 433902 | Sírkő felállítása, javítása, felújítása, bontása a helyszínen |
+| 433502 | Sírkő felállítása, javítása, felújítása, bontása a helyszínen |
 
-| 433903 | Betonfúrás és -vágás, szögbelövés |
+| 433503 | Betonfúrás és -vágás, szögbelövés |
+
+| 433504 | Épületszobrászat, kőfaragás (helyszínen) |
+
+| 434 | Speciális szaképítés épületek építésén |
+
+| 4341 | Tetőfedés, tetőszerkezet-építés |
+
+| 434101 | Tetőfedés, héjalás |
+
+| 434102 | Bádogozás |
+
+| 434103 | Tetőszerkezet-építés (ácsolás) |
+
+| 4342 | Egyéb speciális szaképítés épületek építésén |
+
+| 434201 | Egyéb speciális szaképítés épületek építésén m.n.s. |
+
+| 434202 | Gázkéményszerelés |
+
+| 434203 | Épület acélszerkezetének összeszerelése |
+
+| 434204 | Mélyalapozás |
+
+| 435 | Építőmérnöki szaktevékenység |
+
+| 4350 | Építőmérnöki szaktevékenység |
+
+| 435001 | Speciális szaképítés egyéb építmények építésén m.n.s. |
+
+| 435002 | Útburkolati jelek festése |
+
+| 435003 | Egyéb építmények acélszerkezetének összeszerelése |
+
+| 435004 | Előre gyártott építmények összeszerelése és felállítása |
+
+| 435005 | Saját gyártású fémszerkezet helyszíni szerelése |
+
+| 436 | Speciális építőipari szolgáltatás közvetítése |
+
+| 4360 | Speciális építőipari szolgáltatás közvetítése |
+
+| 436001 | Speciális építőipari szolgáltatás közvetítése |
 
 | 439 | Egyéb speciális szaképítés |
 
-| 4391 | Tetőfedés, tetőszerkezet-építés |
+| 4391 | Kőművesmunka |
 
-| 439101 | Tetőfedés, héjalás |
+| 439101 | Kőművesmunka |
 
-| 439102 | Bádogozás |
-
-| 439103 | Tetőszerkezet-építés (ácsolás) |
-
-| 4399 | Egyéb speciális szaképítés m.n.s. |
+| 4399 | M.n.s. egyéb speciális szaképítés |
 
 | 439901 | Egyéb speciális szaképítés m.n.s. |
 
-| 439902 | Vízszigetelés |
+| 439902 | Vasbetonszerelés |
 
 | 439903 | Állványozás |
 
-| 439904 | Kőművesmunka |
+| 439904 | Építményfelújítás, karbantartás ipari alpinista módszerrel |
 
-| 439905 | Cserépkályha- és kandallóépítés |
+| 439905 | Zsaluzás, dúcolás |
 
-| 439906 | Vasbetonszerelés |
+| 439906 | Műemlék építmény helyreállítása, restaurálása |
 
-| 439907 | Kazán és kemence kőművesmunkái |
-
-| 439908 | Gázkéményszerelés |
-
-| 439909 | Építményfelújítás, karbantartás ipari alpinista módszerrel |
-
-| 439910 | Zsaluzás, dúcolás |
-
-| 439911 | Saját gyártású fémszerkezet helyszíni szerelése |
-
-| 439913 | Épületszobrászat, kőfaragás (helyszínen) |
-
-| 439915 | Építmény acélszerkezetének összeszerelése |
-
-| 439916 | Előre gyártott építmények összeszerelése és felállítása |
-
-| 439918 | Mélyalapozás |
-
-| 45 | Gépjármű, motorkerékpár kereskedelme, javítása |
-
-| 451 | Gépjármű-kereskedelem |
-
-| 4511 | Személygépjármű-, könnyűgépjármű-kereskedelem |
-
-| 451101 | Személygépjármű-, könnyűgépjármű nagykereskedelme |
-
-| 451102 | Használt személygépjármű, könnyűgépjármű kiskereskedelme |
-
-| 451103 | Személygépjármű, könnyűgépjármű kiskereskedelme |
-
-| 451104 | Személygépjármű, könnyűgépjármű külkereskedelme |
-
-| 451105 | Személygépjármű, könnyűgépjármű ügynöki kereskedelme |
-
-| 4519 | Egyéb gépjármű-kereskedelem |
-
-| 451901 | Egyéb gépjármű nagykereskedelme |
-
-| 451902 | Használt egyéb gépjármű kiskereskedelme |
-
-| 451903 | Egyéb gépjármű kiskereskedelme |
-
-| 451904 | Egyéb gépjármű külkereskedelme |
-
-| 451905 | Egyéb gépjármű ügynöki kereskedelme |
-
-| 452 | Gépjárműjavítás, -karbantartás |
-
-| 4520 | Gépjárműjavítás, -karbantartás |
-
-| 452001 | Személygépkocsi általános karbantartás, -javítás |
-
-| 452002 | Gumiabroncs, -tömlő javítás, centírozás |
-
-| 452003 | Gépjárműkarosszéria-, tartozék-javítás |
-
-| 452004 | Egyéb gépjármű javítása és karbantartása |
-
-| 452005 | Gépjármű elektromos rendszerének javítása |
-
-| 452006 | Gépjárműmosás |
-
-| 452007 | Szélvédő helyszíni karcmentesítése, rendszám gravírozása a gépkocsi szélvédőjére vagy más részeire |
-
-| 452008 | Gépjármű részegység és alkatrész javítás |
-
-| 453 | Gépjárműalkatrész-kereskedelem |
-
-| 4531 | Gépjárműalkatrész-nagykereskedelem |
-
-| 453101 | Gépjárműalkatrész-nagykereskedelem m.n.s. |
-
-| 453102 | Gépjárműalkatrész-külkereskedelem |
-
-| 453103 | Gépjárműalkatrész ügynöki nagykereskedelem |
-
-| 4532 | Gépjárműalkatrész-kiskereskedelem |
-
-| 453201 | Gépjárműalkatrész-kiskereskedelem m.n.s. |
-
-| 453202 | Gépjárműalkatrész ügynöki kiskereskedelem |
-
-| 454 | Motorkerékpár, -alkatrész kereskedelme, javítása |
-
-| 4540 | Motorkerékpár, -alkatrész kereskedelme, javítása |
-
-| 454001 | Motorkerékpár nagykereskedelme |
-
-| 454002 | Motorkerékpár-külkereskedelem |
-
-| 454003 | Motorkerékpár ügynöki kereskedelme |
-
-| 454004 | Motorkerékpár kiskereskedelme (új) |
-
-| 454005 | Motorkerékpár kiskereskedelme (használt) |
-
-| 454006 | Motorkerékpár-javítás, -karbantartás |
-
-| 454007 | Motorkerékpár alkatrész kereskedelme |
-
-| 454008 | Motorkerékpár részegység és alkatrész javítása |
-
-| 46 | Nagykereskedelem (kivéve: jármű, motorkerékpár) |
+| 46 | Nagykereskedelem |
 
 | 461 | Ügynöki nagykereskedelem |
 
@@ -2504,19 +2486,19 @@
 
 | 4613 | Fa-, építési anyag ügynöki nagykereskedelme |
 
-| 461301 | Fa-, építési anyag ügynöki nagykereskedelme |
+| 461301 | Fa, építési anyag ügynöki nagykereskedelme |
 
-| 4614 | Gép, hajó, repülőgép ügynöki nagykereskedelme |
+| 4614 | Gép, ipari berendezés, hajó, repülőgép ügynöki nagykereskedelme |
 
-| 461401 | Gép, hajó, repülőgép ügynöki nagykereskedelme |
+| 461401 | Gép, ipari berendezés, hajó, repülőgép ügynöki nagykereskedelme |
 
-| 4615 | Bútor, háztartási áru, fémáru ügynöki nagykereskedelme |
+| 4615 | Bútor, háztartási cikk, fémáru ügynöki nagykereskedelme |
 
-| 461501 | Bútor, háztartási áru, fémáru ügynöki nagykereskedelme |
+| 461501 | Bútor, háztartási cikk, fémáru ügynöki nagykereskedelme |
 
-| 4616 | Textil, ruházat, lábbeli, bőráru ügynöki nagykereskedelme |
+| 4616 | Textil, ruházat, szőrme, lábbeli, bőráru ügynöki nagykereskedelme |
 
-| 461601 | Textil, ruházat, lábbeli, bőráru ügynöki nagykereskedelme |
+| 461601 | Textil, ruházat, szőrme, lábbeli, bőráru ügynöki nagykereskedelme |
 
 | 4617 | Élelmiszer, ital, dohányáru ügynöki nagykereskedelme |
 
@@ -2528,15 +2510,25 @@
 
 | 461802 | Gyógyszerközvetítés |
 
+| 461803 | Személygépjármű, könnyűgépjármű ügynöki nagykereskedelme |
+
+| 461804 | Egyéb gépjármű ügynöki nagykereskedelme |
+
+| 461805 | Gépjárműalkatrész ügynöki nagykereskedelem |
+
+| 461806 | Motorkerékpár ügynöki nagykereskedelme |
+
+| 461807 | Motorkerékpár alkatrész ügynöki nagykereskedelme |
+
 | 4619 | Vegyes termékkörű ügynöki nagykereskedelem |
 
 | 461901 | Vegyes termékkörű ügynöki nagykereskedelem m.n.s. |
 
 | 461902 | Anyagbeszerzés |
 
-| 462 | Mezőgazdasági nyersanyag, élőállat nagykereskedelme |
+| 462 | Mezőgazdasági nyersanyag, élő állat nagykereskedelme |
 
-| 4621 | Gabona, dohány, vetőmag, takarmány nagykereskedelme |
+| 4621 | Gabona, feldolgozatlan dohány, vetőmag, takarmány nagykereskedelme |
 
 | 462101 | Gabona-, vetőmag-, takarmány- és egyéb növényiszaporítóanyag-nagykereskedelem |
 
@@ -2548,21 +2540,21 @@
 
 | 462105 | Gabona, vetőmag, takarmány külkereskedelem |
 
-| 4622 | Dísznövény nagykereskedelme |
+| 4622 | Virág, növény nagykereskedelme |
 
-| 462201 | Dísznövény-nagykereskedelem |
+| 462201 | Virág, növény nagykereskedelme |
 
-| 462202 | Dísznövény-külkereskedelem |
+| 462202 | Virág, növény külkereskedelme |
 
-| 4623 | Élőállat nagykereskedelme |
+| 4623 | Élő állat nagykereskedelme |
 
-| 462301 | Élőállat nagykereskedelme m.n.s. |
+| 462301 | Élő állat nagykereskedelme m.n.s. |
 
 | 462302 | Mezőgazdasági állatfelvásárlás |
 
 | 462303 | Élőállat-külkereskedelem |
 
-| 4624 | Bőr nagykereskedelme |
+| 4624 | Bőr és irha nagykereskedelme |
 
 | 462401 | Bőr nagykereskedelme (új és használt) |
 
@@ -2578,11 +2570,11 @@
 
 | 463103 | Borszőlő nagykereskedelme |
 
-| 4632 | Hús-, húskészítmény nagykereskedelme |
+| 4632 | Hús, húskészítmény, hal, halkészítmény nagykereskedelme |
 
-| 463201 | Hús-, húskészítmény nagykereskedelme m.n.s. |
+| 463201 | Hús, húskészítmény, hal, halkészítmény nagykereskedelme m.n.s. |
 
-| 463202 | Hús-, húskészítmény külkereskedelme |
+| 463202 | Hús, húskészítmény, hal, halkészítmény külkereskedelme |
 
 | 4633 | Tejtermék, tojás, zsiradék nagykereskedelme |
 
@@ -2666,7 +2658,7 @@
 
 | 464404 | Porcelán, üvegáru külkereskedelem |
 
-| 4645 | Illatszer nagykereskedelme |
+| 4645 | Illatszer, kozmetikai cikk nagykereskedelme |
 
 | 464501 | Illatszer nagykereskedelme m.n.s. |
 
@@ -2692,33 +2684,35 @@
 
 | 464802 | Óra-, ékszer-külkereskedelem |
 
-| 4649 | Egyéb háztartási cikk nagykereskedelme m.n.s. |
+| 4649 | Egyéb háztartási cikk nagykereskedelme |
 
-| 464901 | Evőeszköz és fém háztartási cikk nagykereskedelem |
+| 464901 | Egyéb háztartási cikk nagykereskedelme m.n.s. |
 
-| 464902 | Egyéb háztartási cikk nagykereskedelme m.n.s. |
+| 464902 | Egyéb háztartási cikk külkereskedelme m.n.s. |
 
-| 464903 | Egyéb háztartási cikk külkereskedelme m.n.s. |
+| 464903 | Evőeszköz és fém háztartási cikk nagykereskedelem |
 
 | 464904 | Sportfelszerelés nagykereskedelme (ideértve a kerékpárt is) |
 
-| 465 | Információtechnológiai, híradás-technikai termék nagykereskedelme |
+| 465 | Információtechnológiai, híradástechnikai termék nagykereskedelme |
 
-| 4651 | Számítógép, periféria, szoftver nagykereskedelme |
+| 4650 | Információtechnológiai, híradástechnikai termék nagykereskedelme |
 
-| 465101 | Számítógép, periféria, szoftver nagykereskedelme m.n.s. |
+| 465001 | Számítógép, periféria, szoftver nagykereskedelme m.n.s. |
 
-| 465102 | Számítógép, periféria, szoftver külkereskedelme |
+| 465002 | Számítógép, periféria, szoftver külkereskedelme |
 
-| 4652 | Elektronikus, híradás-technikai berendezés, és alkatrészei nagykereskedelme |
+| 465003 | Elektronikus, híradástechnikai berendezés, és alkatrészei nagykereskedelme m.n.s. |
 
-| 465201 | Elektronikus, híradás-technikai berendezés, és alkatrészei nagykereskedelme m.n.s. |
+| 465004 | Elektronikus, híradástechnikai berendezés, és alkatrészei külkereskedelme |
 
-| 465202 | Elektronikus, híradás-technikai berendezés, és alkatrészei külkereskedelme |
+| 465005 | Egyéb irodagép, -berendezés nagykereskedelme m.n.s. |
+
+| 465006 | Egyéb irodagép, -berendezés külkereskedelme |
 
 | 466 | Egyéb gép, berendezés, tartozék nagykereskedelme |
 
-| 4661 | Mezőgazdasági gép, berendezés nagykereskedelme |
+| 4661 | Mezőgazdasági gép, berendezés, tartozék nagykereskedelme |
 
 | 466101 | Mezőgazdasági gép, berendezés nagykereskedelme m.n.s. |
 
@@ -2730,123 +2724,131 @@
 
 | 466202 | Szerszámgép-külkereskedelem |
 
-| 4663 | Bányászati-, építőipari gép nagykereskedelme |
+| 4663 | Bányászati, építőipari gép nagykereskedelme |
 
-| 466301 | Bányászati-, építőipari gép nagykereskedelme m.n.s. |
+| 466301 | Bányászati, építőipari gép nagykereskedelme m.n.s. |
 
-| 466302 | Bányászati-, építőipari gép külkereskedelme |
+| 466302 | Bányászati, építőipari gép külkereskedelme |
 
-| 4664 | Textilipari gép, varró-, kötőgép nagykereskedelme |
+| 4664 | Egyéb gép, berendezés nagykereskedelme |
 
-| 466401 | Textilipari gép, varró-, kötőgép nagykereskedelme m.n.s. |
+| 466401 | Egyéb m.n.s. gép-, berendezés nagykereskedelme |
 
-| 466402 | Textilipari gép, varró-, kötőgép külkereskedelme |
+| 466402 | Egyéb m.n.s. gép-, berendezés külkereskedelme |
 
-| 4665 | Irodabútor-nagykereskedelem |
+| 467 | Gépjármű, motorkerékpár és ezekhez kapcsolódó alkatrész, tartozék nagykereskedelme |
 
-| 466501 | Irodabútor-nagykereskedelem |
+| 4671 | Gépjármű nagykereskedelme |
 
-| 466502 | Irodabútor-külkereskedelem |
+| 467101 | Személygépjármű-, könnyűgépjármű nagykereskedelme |
 
-| 4666 | Egyéb irodagép, -berendezés nagykereskedelme |
+| 467102 | Személygépjármű, könnyűgépjármű külkereskedelme |
 
-| 466601 | Egyéb irodagép, -berendezés nagykereskedelme m.n.s. |
+| 467103 | Egyéb gépjármű nagykereskedelme |
 
-| 466602 | Egyéb irodagép, -berendezés külkereskedelme |
+| 467104 | Egyéb gépjármű külkereskedelme |
 
-| 4669 | Egyéb m.n.s. gép, berendezés nagykereskedelme |
+| 4672 | Gépjárműalkatrész és -tartozék nagykereskedelme |
 
-| 466901 | Egyéb m.n.s. gép, berendezés nagykereskedelme |
+| 467201 | Gépjárműalkatrész-nagykereskedelem m.n.s. |
 
-| 466902 | Egyéb ipari, kereskedelmi, navigációs gép nagykereskedelme |
+| 467202 | Gépjárműalkatrész-külkereskedelem |
 
-| 466903 | Egyéb m.n.s. gép, berendezés külkereskedelme |
+| 4673 | Motorkerékpár, motorkerékpár-alkatrész és -tartozék nagykereskedelme |
 
-| 466904 | Egyéb ipari, kereskedelmi, navigációs gép külkereskedelme |
+| 467301 | Motorkerékpár nagykereskedelme |
 
-| 467 | Egyéb szakosodott nagykereskedelem |
+| 467302 | Motorkerékpár-külkereskedelem |
 
-| 4671 | Üzem-, tüzelőanyag nagykereskedelme |
+| 467303 | Motorkerékpár alkatrész nagy- és külkereskedelme |
 
-| 467101 | Tüzelőanyag-nagykereskedelem |
+| 468 | Egyéb szakosodott nagykereskedelem |
 
-| 467102 | Gépjárműüzemanyag-nagykereskedelem |
+| 4681 | Üzem-, tüzelőanyag nagykereskedelme |
 
-| 467103 | Tüzelőanyag-külkereskedelem |
+| 468101 | Tüzelőanyag-nagykereskedelem |
 
-| 467104 | Gépjárműüzemanyag-külkereskedelem |
+| 468102 | Gépjárműüzemanyag-nagykereskedelem |
 
-| 4672 | Fém-, érc-nagykereskedelem |
+| 468103 | Tüzelőanyag-külkereskedelem |
 
-| 467201 | Fém-, érc-nagykereskedelem m.n.s. |
+| 468104 | Gépjárműüzemanyag-külkereskedelem |
 
-| 467202 | Fém-, érc-külkereskedelem |
+| 4682 | Fém-, érc-nagykereskedelem |
 
-| 467203 | Befektetési arany nagykereskedelme |
+| 468201 | Fém-, érc-nagykereskedelem m.n.s. |
 
-| 4673 | Fa-, építőanyag-, szaniteráru-nagykereskedelem |
+| 468202 | Fém-, érc-külkereskedelem |
 
-| 467301 | Fa-, építőanyag-, szaniteráru-nagykereskedelem m.n.s. |
+| 468203 | Befektetési arany nagykereskedelme |
 
-| 467302 | Fa-, építőanyag-, szaniteráru-külkereskedelem |
+| 4683 | Fa-, építőanyag-, szaniteráru-nagykereskedelem |
 
-| 467303 | Tapéta-nagykereskedelem |
+| 468301 | Fa-, építőanyag-, szaniteráru-nagykereskedelem m.n.s. |
 
-| 4674 | Fémáru, szerelvény, fűtési berendezés nagykereskedelme |
+| 468302 | Fa-, építőanyag-, szaniteráru-külkereskedelem |
 
-| 467401 | Fémáru-, szerelvény, fűtési berendezés nagykereskedelme m.n.s. |
+| 468303 | Tapéta-nagykereskedelem |
 
-| 467402 | Fémáru-, szerelvény, fűtési berendezés külkereskedelme |
+| 4684 | Fémáru-, szerelvény, fűtési berendezés nagykereskedelme |
 
-| 4675 | Vegyi áru nagykereskedelme |
+| 468401 | Fémáru-, szerelvény, fűtési berendezés nagykereskedelme m.n.s. |
 
-| 467501 | Vegyi áru külkereskedelme (kivéve: tisztítószer) |
+| 468402 | Fémáru-, szerelvény, fűtési berendezés külkereskedelme |
 
-| 467502 | Vegyi áru nagykereskedelme |
+| 4685 | Vegyi áru nagykereskedelme |
 
-| 467503 | Növényvédőszer-nagykereskedelem |
+| 468501 | Vegyi áru külkereskedelme (kivéve: tisztítószer) |
 
-| 467504 | Műtrágya nagykereskedelem |
+| 468502 | Vegyi áru nagykereskedelme |
 
-| 4676 | Egyéb termelési célú termék nagykereskedelme |
+| 468503 | Növényvédőszer-nagykereskedelem |
 
-| 467601 | Egyéb termelési célú termék nagykereskedelme m.n.s. |
+| 468504 | Műtrágya nagykereskedelem |
 
-| 467602 | Egyéb termelési célú termék külkereskedelme |
+| 4686 | Egyéb termelési célú termék nagykereskedelme |
 
-| 467603 | Műanyag és gumi alapanyag nagykereskedelme |
+| 468601 | Egyéb termelési célú termék nagykereskedelme m.n.s. |
 
-| 4677 | Hulladék-nagykereskedelem |
+| 468602 | Egyéb termelési célú termék külkereskedelme |
 
-| 467701 | Hulladék-nagykereskedelem m.n.s. |
+| 468603 | Műanyag és gumi alapanyag nagykereskedelme |
 
-| 467702 | Hulladék-külkereskedelem |
+| 4687 | Hulladék-nagykereskedelem |
 
-| 467703 | Üveg- és palackvisszagyűjtő (bolti tevékenységtől elkülönülten végezve) |
+| 468701 | Hulladék-nagykereskedelem m.n.s. |
 
-| 469 | Vegyestermékkörű nagykereskedelem |
+| 468702 | Hulladék-külkereskedelem |
 
-| 4690 | Vegyestermékkörű nagykereskedelem |
+| 468703 | Üveg- és palackvisszagyűjtő (bolti tevékenységtől elkülönülten végezve) |
 
-| 469001 | Vegyestermékkörű nagykereskedelem m.n.s. |
+| 4689 | M.n.s. egyéb szakosodott nagykereskedelem |
 
-| 469002 | Vegyestermékkörű külkereskedelem |
+| 468901 | M.n.s. egyéb szakosodott nagykereskedelem |
 
-| 47 | Kiskereskedelem (kivéve: gépjármű, motorkerékpár) |
+| 469 | Vegyes termékkörű nagykereskedelem |
 
-| 471 | Nem szakosodott bolti vegyes kiskereskedelem |
+| 4690 | Vegyes termékkörű nagykereskedelem |
 
-| 4711 | Élelmiszer jellegű bolti vegyes kiskereskedelem |
+| 469001 | Vegyes termékkörű nagykereskedelem m.n.s. |
+
+| 469002 | Vegyes termékkörű külkereskedelem |
+
+| 47 | Kiskereskedelem |
+
+| 471 | Vegyes termékkörű kiskereskedelem |
+
+| 4711 | Élelmiszer jellegű vegyes kiskereskedelem |
 
 | 471101 | Vegyes-kiskereskedelem élelmiszer jelleggel, élelmiszer diszkont |
 
-| 4719 | Iparcikk jellegű bolti vegyes kiskereskedelem |
+| 4712 | Iparcikk jellegű vegyes kiskereskedelem |
 
-| 471901 | Iparcikk jellegű vegyes kiskereskedelem m.n.s. |
+| 471201 | Iparcikk jellegű vegyes kiskereskedelem m.n.s. |
 
-| 471902 | Általános áruházi kiskereskedelem |
+| 471202 | Általános áruházi kiskereskedelem |
 
-| 472 | Élelmiszer-, ital-, dohányáru kiskereskedelme |
+| 472 | Élelmiszer, ital, dohányáru kiskereskedelme |
 
 | 4721 | Zöldség, gyümölcs kiskereskedelme |
 
@@ -2856,9 +2858,9 @@
 
 | 472103 | Savanyúság-kiskereskedelem |
 
-| 4722 | Hús-, húskészítmény kiskereskedelme |
+| 4722 | Hús, húskészítmény kiskereskedelme |
 
-| 472201 | Hús-, húskészítmény kiskereskedelme m.n.s. |
+| 472201 | Hús, húskészítmény kiskereskedelme m.n.s. |
 
 | 472202 | Vadhús kiskereskedelem |
 
@@ -2884,17 +2886,17 @@
 
 | 472601 | Dohányáru-kiskereskedelem m.n.s. |
 
-| 4729 | Egyéb élelmiszer-kiskereskedelem |
+| 4727 | Egyéb élelmiszer-kiskereskedelem |
 
-| 472901 | Egyéb élelmiszer-kiskereskedelem m.n.s. |
+| 472701 | Egyéb élelmiszer-kiskereskedelem m.n.s. |
 
-| 472902 | Tej- és tejtermék-kiskereskedelem |
+| 472702 | Tej- és tejtermék-kiskereskedelem |
 
-| 472903 | Kávé-, tea-kiskereskedelem |
+| 472703 | Kávé-, tea-kiskereskedelem |
 
-| 472904 | Tojás, zsiradék kiskereskedelem |
+| 472704 | Tojás, zsiradék kiskereskedelem |
 
-| 472905 | Gyógynövény-kiskereskedelem |
+| 472705 | Gyógynövény-kiskereskedelem |
 
 | 473 | Gépjárműüzemanyag-kiskereskedelem |
 
@@ -2904,19 +2906,15 @@
 
 | 473002 | Egyéb kőolajszármazék kiskereskedelem |
 
-| 474 | Információs, híradás-technikai termék kiskereskedelme |
+| 474 | Információs, híradástechnikai termék kiskereskedelme |
 
-| 4741 | Számítógép, periféria, szoftver kiskereskedelme |
+| 4740 | Információs, híradástechnikai termék kiskereskedelme |
 
-| 474101 | Számítógép, periféria, szoftver kiskereskedelme |
+| 474001 | Számítógép, periféria, szoftver kiskereskedelme |
 
-| 4742 | Telekommunikációs termék kiskereskedelme |
+| 474002 | Telekommunikációs termék kiskereskedelme |
 
-| 474201 | Telekommunikációs termék kiskereskedelme |
-
-| 4743 | Audio-, videoberendezés kiskereskedelme |
-
-| 474301 | Audio-, videoberendezés kiskereskedelme |
+| 474003 | Audio-, videoberendezés kiskereskedelme |
 
 | 475 | Egyéb háztartási cikk kiskereskedelme |
 
@@ -2932,7 +2930,7 @@
 
 | 475105 | Népi iparművészeti és iparművészeti, háziipari textil-kiskereskedelem |
 
-| 4752 | Vasáru-, festék-, üveg-kiskereskedelem |
+| 4752 | Vasáru-, építőanyag-, festék-, üveg-kiskereskedelem |
 
 | 475201 | Vasáru, szerszám, szerelvény, barkácsáru kiskereskedelem |
 
@@ -2940,9 +2938,9 @@
 
 | 475203 | Építőanyag és szaniteráru kiskereskedelme |
 
-| 475205 | Épületfa kiskereskedelme |
+| 475204 | Mezőgazdasági eszköz kiskereskedelme |
 
-| 475206 | Mezőgazdasági eszköz kiskereskedelme |
+| 475205 | Épületfa kiskereskedelme |
 
 | 4753 | Szőnyeg, fal-, padlóburkoló kiskereskedelme |
 
@@ -2950,75 +2948,87 @@
 
 | 475302 | Népművészeti szőnyeg, fal-, padlóburkoló kiskereskedelme |
 
-| 475303 | Tapéta-kiskereskedelem |
-
-| 475304 | Szőnyeg-kiskereskedelem |
+| 475303 | Szőnyeg, fal-, padlóburkoló kiskereskedelme |
 
 | 4754 | Villamos háztartási készülék kiskereskedelme |
 
 | 475401 | Villamos háztartási készülék kiskereskedelme |
 
-| 4759 | Bútor, világítási eszköz, egyéb háztartási cikk kiskereskedelme |
+| 4755 | Bútor, világítási eszköz, edény, evőeszköz és egyéb háztartási cikk kiskereskedelme |
 
-| 475901 | Egyéb háztartási termék kiskereskedelme m.n.s. |
+| 475501 | Egyéb háztartási termék kiskereskedelme m.n.s. |
 
-| 475902 | Finomacéláru kiskereskedelem |
+| 475502 | Finomacéláru kiskereskedelem |
 
-| 475903 | Lakásfelszerelési cikkek kiskereskedelme |
+| 475503 | Lakásfelszerelési cikkek kiskereskedelme |
 
-| 475904 | Háztartási üveg-, porcelán-kiskereskedelem |
+| 475504 | Háztartási üveg-, porcelán-kiskereskedelem |
 
-| 475905 | Műanyag-, háztartási cikk kiskereskedelme |
+| 475505 | Műanyag-, háztartási cikk kiskereskedelme |
 
-| 475906 | Nem elektromos műszaki cikkek kiskereskedelme |
+| 475506 | Nem elektromos műszaki cikkek kiskereskedelme |
 
-| 475907 | Világítástechnikai termékek kiskereskedelme |
+| 475507 | Világítástechnikai termékek kiskereskedelme |
 
-| 475908 | Egyéb bútor, lakberendezési tárgy kiskereskedelme |
+| 475508 | Egyéb bútor, lakberendezési tárgy kiskereskedelme |
 
-| 475909 | Hangszer-kiskereskedelem |
+| 475509 | Irodabútor kiskereskedelem |
 
-| 475910 | Zenemű (kotta)-kiskereskedelem |
+| 475510 | Népművészeti bútor és díszműáru kiskereskedelme |
 
-| 475911 | Irodabútor kiskereskedelem |
-
-| 475912 | Népművészeti bútor és díszműáru kiskereskedelme |
-
-| 476 | Kulturális, szabadidős cikk bolti kiskereskedelme |
+| 476 | Kulturális, szabadidős cikk kiskereskedelme |
 
 | 4761 | Könyv-kiskereskedelem |
 
 | 476101 | Könyv-kiskereskedelem |
 
-| 4762 | Újság-, papíráru-kiskereskedelem |
+| 4762 | Újság-, papíráru-, írószer-kiskereskedelem |
+
+| 476201 | Papír-, írószer-, irodaszer- és nyomtatvány-kiskereskedelem |
 
 | 476202 | Hírlap, folyóirat, időszaki kiadvány kiskereskedelme |
 
-| 476203 | Papír-, írószer-, irodaszer- és nyomtatvány-kiskereskedelem |
+| 4763 | Sportszer-kiskereskedelem |
 
-| 4763 | Zene-, videofelvétel kiskereskedelme |
+| 476301 | Sportáru-, sporthorgászati- és kempingcikk-kiskereskedelem |
 
-| 476301 | Zene-, videofelvétel kiskereskedelme |
+| 476302 | Vadászati cikkek kiskereskedelme |
 
-| 4764 | Sportszer-kiskereskedelem |
+| 476303 | Fegyver kiskereskedelem |
 
-| 476401 | Sportáru-, sporthorgászati- és kempingcikk-kiskereskedelem |
+| 4764 | Játék-kiskereskedelem |
 
-| 476402 | Vadászati cikkek kiskereskedelme |
+| 476401 | Játék-kiskereskedelem |
 
-| 4765 | Játék-kiskereskedelem |
+| 476402 | Mutatványoskellék-áru kiskereskedelme |
 
-| 476501 | Játék-kiskereskedelem |
+| 4769 | M.n.s. kulturális, szabadidős cikk kiskereskedelme |
 
-| 477 | Egyéb m.n.s. áru kiskereskedelme |
+| 476901 | Kulturális, szabadidős cikk kiskereskedelme m.n.s. |
 
-| 4771 | Ruházat kiskereskedelem |
+| 476902 | Zene-, videofelvétel kiskereskedelme |
+
+| 476903 | Hangszer-kiskereskedelem |
+
+| 476904 | Zenemű (kotta)-kiskereskedelem |
+
+| 476905 | Bélyegkereskedelem |
+
+| 476906 | Érmekereskedelem |
+
+| 476907 | Képző-, iparművészeti termék kiskereskedelme |
+
+| 477 | Egyéb áruk kiskereskedelme (kivéve: gépjármű, motorkerékpár) |
+
+| 4771 | Ruházat-kiskereskedelem |
 
 | 477101 | Egyéb ruházati kiskereskedelem |
 
 | 477102 | Felsőruházati, munkaruha-kiskereskedelem |
 
 | 477103 | Bőr-, szőrmeruházati-kiskereskedelem |
+
+| 477104 | Népművészeti ruházati kiskereskedelem |
 
 | 477105 | Kötöttáru-kiskereskedelem |
 
@@ -3027,8 +3037,6 @@
 | 477107 | Gyermekruházati kiskereskedelem |
 
 | 477108 | Ruházati kiegészítők kiskereskedelme |
-
-| 477109 | Népművészeti ruházati kiskereskedelem |
 
 | 4772 | Lábbeli-, bőráru-kiskereskedelem |
 
@@ -3046,19 +3054,21 @@
 
 | 477302 | Állatgyógyászati készítmény kiskereskedelme |
 
-| 4774 | Gyógyászati termék kiskereskedelme |
+| 4774 | Gyógyászati és ortopédiai termék kiskereskedelme |
 
 | 477401 | Gyógyászati segédeszköz kiskereskedelme (egészségügyi szolgáltatásként) |
 
 | 477402 | Egyéb gyógyászati termék kiskereskedelme |
 
-| 4775 | Illatszer-kiskereskedelem |
+| 477403 | Látszerészek tevékenysége |
 
-| 477501 | Egyéb illatszer-kiskereskedelem |
+| 4775 | Illatszer, kozmetikai cikk, tisztálkodószer kiskereskedelme |
 
-| 477503 | Fodrászati cikk kiskereskedelme |
+| 477501 | Egyéb illatszer, kozmetikai cikk, tisztálkodószer kiskereskedelme |
 
-| 4776 | Dísznövény, vetőmag, műtrágya, hobbiállat-eledel kiskereskedelme |
+| 477502 | Fodrászati cikk kiskereskedelme |
+
+| 4776 | Virág, növény, műtrágya, hobbiállat, hobbiállat-eledel kiskereskedelme |
 
 | 477601 | Virág-, koszorú-, dísznövény-kiskereskedelem |
 
@@ -3068,21 +3078,23 @@
 
 | 477604 | Műtrágya és agrokémiai termék kiskereskedelem |
 
-| 477607 | Díszállat- és díszhal-kiskereskedelem |
+| 477605 | Díszállat- és díszhal-kiskereskedelem |
 
 | 4777 | Óra-, ékszer-kiskereskedelem |
 
 | 477701 | Óra-, ékszer-kiskereskedelem |
 
-| 4778 | Egyéb m.n.s. új áru kiskereskedelme |
+| 4778 | Egyéb új áru kiskereskedelme |
 
 | 477801 | Egyéb m.n.s. iparcikk kiskereskedelme |
 
-| 477802 | Toll-kiskereskedelem |
+| 477802 | Termény-, takarmány-, egyéb mezőgazdasági termék kiskereskedelme |
 
 | 477803 | Népművészeti ajándéktárgy-kiskereskedelme |
 
 | 477804 | Háztartási vegyiáru kiskereskedelme |
+
+| 477805 | Pirotechnikai termékek kiskereskedelme |
 
 | 477806 | Pincegazdasági és felszerelési cikk kiskereskedelme |
 
@@ -3090,45 +3102,25 @@
 
 | 477808 | Fotó-, optikai cikk kiskereskedelme |
 
-| 477809 | Bélyegkereskedelem |
+| 477809 | Palackosgáz-kiskereskedelem |
 
-| 477810 | Zsák-, zsineg-, ponyva-kiskereskedelem |
+| 477810 | Szexuális áru kiskereskedelem |
 
-| 477811 | Képző-, iparművészeti termék kiskereskedelme |
+| 477811 | Tüzelőolaj-kiskereskedelem |
 
-| 477813 | Ajándéktárgy-kiskereskedelem |
+| 477812 | Tüzelőanyag-kiskereskedelem |
 
-| 477814 | Mutatványoskellék-áru kiskereskedelme |
+| 477813 | Ajándéktárgy-, bizsu-kiskereskedelem |
+
+| 477814 | Kegytárgy-kiskereskedelem |
 
 | 477815 | Művirág-kiskereskedelem |
 
-| 477817 | Kegytárgy-kiskereskedelem |
+| 477816 | Képkeretezés |
 
-| 477818 | Tüzelőanyag-kiskereskedelem |
+| 4779 | Használt cikk kiskereskedelme |
 
-| 477819 | Tüzelőolaj-kiskereskedelem |
-
-| 477820 | Érmekereskedelem |
-
-| 477821 | Szemléltetőeszköz kiskereskedelem |
-
-| 477822 | Szexuális áru kiskereskedelem |
-
-| 477823 | Termény-, takarmány-, egyéb mezőgazdasági termék kiskereskedelme |
-
-| 477824 | Palackosgáz-kiskereskedelem |
-
-| 477826 | Pirotechnikai termékek kiskereskedelme |
-
-| 477827 | Látszerészek tevékenysége |
-
-| 477828 | Fegyver kiskereskedelem |
-
-| 477829 | Képkeretezés |
-
-| 4779 | Használtcikk bolti kiskereskedelme |
-
-| 477901 | Egyéb használtcikk-kiskereskedelem |
+| 477901 | Egyéb használt cikk kiskereskedelem |
 
 | 477902 | Használtruha-, lábbeli-kiskereskedelem |
 
@@ -3140,77 +3132,91 @@
 
 | 477906 | Használtiparcikk-kiskereskedelem |
 
-| 477907 | Zálogtárgy-kereskedelem |
+| 478 | Gépjármű, motorkerékpár és ezekhez kapcsolódó alkatrész, tartozék kiskereskedelme |
 
-| 478 | Piaci kiskereskedelem |
+| 4781 | Gépjármű-kiskereskedelem |
 
-| 4781 | Élelmiszer, ital, dohányáru piaci kiskereskedelme |
+| 478101 | Használt személygépjármű, könnyűgépjármű kiskereskedelme |
 
-| 478101 | Élelmiszer, ital piaci kiskereskedelme |
+| 478102 | Személygépjármű, könnyűgépjármű kiskereskedelme |
 
-| 478102 | Élelmiszer, ital kiskereskedelmi értékesítése közterületen |
+| 478103 | Használt egyéb gépjármű kiskereskedelme |
 
-| 4782 | Textil, ruházat, lábbeli piaci kiskereskedelme |
+| 478104 | Egyéb gépjármű kiskereskedelme |
 
-| 478201 | Textil, ruházat, lábbeli piaci kiskereskedelme |
+| 4782 | Gépjárműalkatrész és -tartozék kiskereskedelme |
 
-| 4789 | Egyéb áruk piaci kiskereskedelme |
+| 478201 | Gépjárműalkatrész-kiskereskedelem m.n.s. |
 
-| 478901 | Egyéb áruk piaci kiskereskedelme |
+| 4783 | Motorkerékpár, motorkerékpár-alkatrész és -tartozék kiskereskedelme |
 
-| 478902 | Egyéb áruk értékesítése közterületen |
+| 478301 | Motorkerékpár kiskereskedelme (új) |
 
-| 479 | Nem bolti, piaci kiskereskedelem |
+| 478302 | Motorkerékpár kiskereskedelme (használt) |
 
-| 4791 | Csomagküldő, internetes kiskereskedelem |
+| 478303 | Motorkerékpár alkatrész kiskereskedelme |
 
-| 479102 | Csomagküldő, internetes kiskereskedelem |
+| 479 | Kiskereskedelem közvetítése |
 
-| 4799 | Egyéb nem bolti, piaci kiskereskedelem |
+| 4791 | Vegyes termékkörű kiskereskedelem közvetítése |
 
-| 479903 | Értékesítés automatán keresztül |
+| 479101 | Vegyes termékkörű kiskereskedelem közvetítése |
 
-| 479904 | Üzleten kívüli kiskereskedelem |
+| 4792 | Szakosodott kiskereskedelem közvetítése |
 
-| 479906 | Tüzelőanyag üzleten kívüli kiskereskedelme |
+| 479201 | Szakosodott kiskereskedelem közvetítése m.n.s. |
+
+| 479202 | Személygépjármű, könnyűgépjármű ügynöki kiskereskedelme |
+
+| 479203 | Egyéb gépjármű ügynöki kiskereskedelme |
+
+| 479204 | Gépjárműalkatrész ügynöki kiskereskedelem |
+
+| 479205 | Motorkerékpár ügynöki kiskereskedelme |
+
+| 479206 | Motorkerékpár alkatrész ügynöki kiskereskedelme |
 
 | 49 | Szárazföldi, csővezetékes szállítás |
 
 | 493 | Egyéb szárazföldi személyszállítás |
 
-| 4931 | Városi, elővárosi szárazföldi személyszállítás |
+| 4931 | Menetrend szerinti közúti személyszállítás |
 
 | 493101 | Autóbusszal végzett menetrend szerinti személyszállítás |
 
-| 4932 | Taxis személyszállítás |
+| 493102 | Autóbusszal végzett menetrend szerinti távolsági személyszállítás |
 
-| 493201 | Taxis személyszállítás |
+| 493103 | Különcélú menetrend szerinti közúti személyszállítás |
 
-| 493203 | Személygépkocsival nem menetrendszerű személyszállításként végzett taxis gépjárművezetői szolgáltatás engedélyes közúti közlekedési szolgáltató részére |
+| 4932 | Nem menetrend szerinti közúti személyszállítás |
 
-| 493205 | Személygépkocsis személyszállító szolgáltatás |
+| 493201 | Nem menetrend szerinti autóbuszos közúti személyszállítás |
 
-| 493206 | Önálló diszpécser szolgálat |
+| 493202 | Autóbusszal nem menetrendszerű személyszállításként végzett gépjárművezetői szolgáltatás engedélyes közúti közlekedési szolgáltató részére |
 
-| 493207 | Személygépkocsival nem menetrendszerű személyszállításként végzett személygépkocsis személyszállító gépjárművezetői szolgáltatás engedélyes közúti közlekedési szolgáltató részére |
+| 493203 | Autóbusszal nem menetrendszerű személyszállításként végzett gépjárművezetői szolgáltatás nem engedélyes közúti közlekedési szolgáltató részére |
+
+| 4933 | Igény szerinti személyszállítási szolgáltatás gépjárművezetővel |
+
+| 493301 | Taxis személyszállítás |
+
+| 493302 | Személygépkocsival nem menetrendszerű személyszállításként végzett taxis gépjárművezetői szolgáltatás engedélyes közúti közlekedési szolgáltató részére |
+
+| 493303 | Személygépkocsis személyszállító szolgáltatás |
+
+| 493304 | Személygépkocsival nem menetrendszerű személyszállításként végzett személygépkocsis személyszállító gépjárművezetői szolgáltatás engedélyes közúti közlekedési szolgáltató részére |
+
+| 493305 | Sofőrszolgálat |
+
+| 4934 | Személyszállítás kötélpályán, sífelvonóval |
+
+| 493401 | Személyszállítás kötélpályán, sífelvonóval |
 
 | 4939 | M.n.s. egyéb szárazföldi személyszállítás |
 
-| 493901 | Egyéb m.n.s. szárazföldi személyszállítás |
+| 493901 | Egyéb szárazföldi személyszállítás m.n.s. |
 
-| 493903 | Nem menetrend szerinti autóbuszos közúti személyszállítás |
-
-| 493904 | Személyszállítás emberi vagy állati vontatású járművel |
-
-| 493905 | Autóbusszal végzett menetrend szerinti távolsági személyszállítás |
-
-| 493906 | Autóbusszal nem menetrendszerű személyszállításként végzett gépjárművezetői szolgáltatás engedélyes közúti közlekedési szolgáltató részére |
-
-| 493907 | Autóbusszal nem menetrendszerű személyszállításként végzett gépjárművezetői szolgáltatás nem engedélyes közúti közlekedési szolgáltató részére |
-
-| 493909 | Sofőrszolgálat |
-
-| 493910 | Különcélú menetrend szerinti közúti személyszállítás |
+| 493902 | Személyszállítás emberi vagy állati vontatású járművel |
 
 | 494 | Közúti áruszállítás, költöztetés |
 
@@ -3220,15 +3226,15 @@
 
 | 494102 | Szekérfuvarozás (lófogatú) |
 
+| 494103 | Tehergépjárművel végzett teherszállító gépjárművezetői szolgáltatás nem engedélyes közúti közlekedési szolgáltató részére |
+
 | 494104 | Autómentés rakfelülettel rendelkező járművel |
+
+| 494105 | Tehergépjárművel végzett teherszállító gépjárművezetői szolgáltatás engedélyes közúti közlekedési szolgáltató részére |
 
 | 494106 | Személygépkocsival végzett kisteherszállító gépjárművezetői szolgáltatás engedélyes közúti közlekedési szolgáltató részére |
 
 | 494107 | Személygépkocsival végzett kisteherszállító gépjárművezetői szolgáltatás nem engedélyes közúti közlekedési szolgáltató részére |
-
-| 494108 | Tehergépjárművel végzett teherszállító gépjárművezetői szolgáltatás engedélyes közúti közlekedési szolgáltató részére |
-
-| 494109 | Tehergépjárművel végzett teherszállító gépjárművezetői szolgáltatás nem engedélyes közúti közlekedési szolgáltató részére |
 
 | 4942 | Költöztetés |
 
@@ -3248,11 +3254,11 @@
 
 | 501001 | Tengeri személyszállítás |
 
-| 502 | Tengeri áruszállítás |
+| 502 | Tengeri és part menti áruszállítás |
 
-| 5020 | Tengeri áruszállítás |
+| 5020 | Tengeri és part menti áruszállítás |
 
-| 502001 | Tengeri áruszállítás |
+| 502001 | Tengeri és part menti áruszállítás |
 
 | 503 | Belvízi személyszállítás |
 
@@ -3288,17 +3294,19 @@
 
 | 512102 | Nem menetrendszerű légi teherszállítás |
 
-| 52 | Raktározás, szállítást kiegészítő tevékenység |
+| 52 | Raktározás, tárolás, szállítást kiegészítő tevékenység |
 
 | 521 | Raktározás, tárolás |
 
 | 5210 | Raktározás, tárolás |
 
-| 521001 | Nem jövedéki termék tárolása, raktározása |
+| 521001 | Raktározás, tárolás m.n.s. |
 
-| 521002 | Jövedéki termék tárolása, raktározása |
+| 521002 | Nem jövedéki termék tárolása, raktározása |
 
-| 521003 | Hűtőházban történő tárolás, raktározás |
+| 521003 | Jövedéki termék tárolása, raktározása |
+
+| 521004 | Hűtőházban történő tárolás, raktározás |
 
 | 522 | Szállítást kiegészítő tevékenység |
 
@@ -3308,11 +3316,9 @@
 
 | 522102 | Parkolási szolgáltatás |
 
-| 522103 | Közlekedési vonaljegyek ügynöki árusítása |
+| 522103 | Autómentés (rakfelület nélküli járművel vagy vontatással) |
 
-| 522104 | Autómentés (rakfelület nélküli járművel vagy vontatással) |
-
-| 522105 | Túlméretes járművek szakkísérése |
+| 522104 | Túlméretes járművek szakkísérése |
 
 | 5222 | Vízi szállítást kiegészítő szolgáltatás |
 
@@ -3336,13 +3342,33 @@
 
 | 522405 | Anyagmozgatás géppel |
 
-| 5229 | Egyéb szállítást kiegészítő szolgáltatás |
+| 5225 | Logisztikai szolgáltatás |
 
-| 522901 | Szállítmányozás |
+| 522501 | Logisztikai szolgáltatás |
 
-| 522902 | Vámközreműködés |
+| 5226 | Egyéb, szállítást kiegészítő szolgáltatás |
 
-| 522903 | Egyéb szállítást kiegészítő szolgáltatás |
+| 522601 | Szállítmányozás |
+
+| 522602 | Vámközreműködés |
+
+| 522603 | Egyéb szállítást kiegészítő szolgáltatás |
+
+| 523 | Szállítási szolgáltatás közvetítése |
+
+| 5231 | Áruszállítási szolgáltatás közvetítése |
+
+| 523101 | Áruszállítási szolgáltatás közvetítése |
+
+| 5232 | Személyszállítási szolgáltatás közvetítése |
+
+| 523201 | Személyszállítási szolgáltatás közvetítése m.n.s. |
+
+| 523202 | Önálló diszpécser szolgálat |
+
+| 523203 | Menetjegy foglalása, ügynöki értékesítése |
+
+| 523204 | Egyéb közlekedési eszköz foglalása, ügynöki értékesítése |
 
 | 53 | Postai, futárpostai tevékenység |
 
@@ -3362,6 +3388,14 @@
 
 | 532006 | Újság, folyóirat terjesztése |
 
+| 532007 | Mosodai gyűjtőszolgálat |
+
+| 533 | Postai, futárpostai tevékenység közvetítése |
+
+| 5330 | Postai, futárpostai tevékenység közvetítése |
+
+| 533001 | Postai, futárpostai tevékenység közvetítése |
+
 | 55 | Szálláshely-szolgáltatás |
 
 | 551 | Szállodai szolgáltatás |
@@ -3372,29 +3406,31 @@
 
 | 551002 | Panzió szolgáltatás |
 
-| 552 | Üdülési, egyéb átmeneti szálláshely-szolgáltatás |
+| 552 | Üdülési célú és egyéb rövid távú szálláshely-szolgáltatás |
 
-| 5520 | Üdülési, egyéb átmeneti szálláshely-szolgáltatás |
+| 5520 | Üdülési célú és egyéb rövid távú szálláshely-szolgáltatás |
 
-| 552001 | Közösségi szálláshely-szolgáltatás |
+| 552001 | Üdülési célú és egyéb rövid távú szálláshely-szolgáltatás m.n.s. |
 
-| 552003 | Üdülőháztelep szolgáltatás |
+| 552002 | Magánszálláshely szolgáltatás |
 
-| 552006 | Szálláshely-szolgáltatás m.n.s. |
+| 552003 | Közösségi szálláshely-szolgáltatás |
 
-| 552007 | Közösségi, szabadidős szálláshely-szolgáltatás: üdülő |
+| 552004 | Üdülőháztelep szolgáltatás |
 
-| 552008 | Közösségi, szabadidős szálláshely-szolgáltatás: gyermek- és ifjúsági tábor |
+| 552005 | Közösségi, szabadidős szálláshely-szolgáltatás: üdülő |
 
-| 552009 | Közösségi, szabadidős szálláshely-szolgáltatás: hegyi menedékház |
+| 552006 | Közösségi, szabadidős szálláshely-szolgáltatás: gyermek- és ifjúsági tábor |
 
-| 552010 | Közösségi, szabadidős szálláshely-szolgáltatás: vendégszállás |
+| 552007 | Közösségi, szabadidős szálláshely-szolgáltatás: hegyi menedékház |
+
+| 552008 | Közösségi, szabadidős szálláshely-szolgáltatás: vendégszállás |
+
+| 552009 | Közösségi, szabadidős szálláshely-szolgáltatás: munkásszállás |
+
+| 552010 | Közösségi, szabadidős szálláshely-szolgáltatás: diákotthon, kollégium |
 
 | 552011 | Falusi szálláshely-szolgáltatás |
-
-| 552013 | Közösségi, szabadidős szálláshely-szolgáltatás: diákotthon, kollégium |
-
-| 552014 | Magánszálláshely szolgáltatás |
 
 | 553 | Kempingszolgáltatás |
 
@@ -3408,43 +3444,49 @@
 
 | 553004 | Szabadidős és nyaralótáboroztatás |
 
+| 554 | Szálláshely-szolgáltatás közvetítése |
+
+| 5540 | Szálláshely-szolgáltatás közvetítése |
+
+| 554001 | Szálláshely-szolgáltatás közvetítése |
+
 | 559 | Egyéb szálláshely-szolgáltatás |
 
 | 5590 | Egyéb szálláshely-szolgáltatás |
 
 | 559001 | Nem üdülési, nem turisztikai egyéb szálláshely-szolgáltatás |
 
-| 559007 | Szoba bérbeadása |
+| 559002 | Szoba bérbeadása |
 
 | 56 | Vendéglátás |
 
 | 561 | Éttermi, mozgó vendéglátás |
 
-| 5610 | Éttermi, mozgó vendéglátás |
+| 5611 | Éttermi vendéglátás |
 
-| 561002 | Pecsenye és más húsalapú készítmény sütése |
+| 561101 | Éttermi vendéglátás |
 
-| 561003 | Palacsinta-, lángos-, pizzasütés |
+| 561102 | Büfé működtetése |
 
-| 561004 | Egyéb üzlethez nem kötött vendéglátás |
+| 561103 | Cukrászdai vendéglátás |
 
-| 561005 | Falatozó (büfé), melegkonyhás büfé |
+| 561104 | Fagylaltozó működtetése |
 
-| 561006 | Falatozó (büfé), hidegkonyhás büfé szolgáltatás |
+| 561105 | Gyorséttermi vendéglátás |
 
-| 561007 | Sörözői vendéglátás (melegkonyhás) |
+| 561106 | Kürtőskalács sütés |
 
-| 561008 | Kávéház, teaház (melegkonyhás) |
+| 561107 | Főzőkonyha működtetése |
 
-| 561009 | Éttermi vendéglátás |
+| 5612 | Mozgó vendéglátás |
 
-| 561010 | Cukrászda, fagylaltozó |
+| 561201 | Folyamatos helyváltoztatású mozgó vendéglátás |
 
-| 561011 | Kürtőskalács sütés |
+| 561202 | Alkalmi/kitelepülő vendéglátás |
 
-| 561012 | Főzőkonyha működtetése / Főzőkonyha szolgáltatás |
+| 561203 | Egyéb üzlethez nem kötött vendéglátás |
 
-| 562 | Rendezvényi étkeztetés és egyéb vendéglátás |
+| 562 | Rendezvényi étkeztetés, szerződéses étkeztetés és egyéb vendéglátás |
 
 | 5621 | Rendezvényi étkeztetés |
 
@@ -3454,69 +3496,69 @@
 
 | 562103 | Falusi vendégasztal szolgáltatás |
 
-| 5629 | Egyéb vendéglátás |
+| 5622 | Szerződéses étkeztetés és egyéb vendéglátás |
 
-| 562901 | Munkahelyi étkeztetés |
+| 562201 | Egyéb vendéglátás |
 
-| 562902 | Nem melegkonyhás munkahelyi büfé, kantin |
+| 562202 | Munkahelyi étkeztetés |
 
-| 562903 | Közétkeztetés |
+| 562203 | Munkahelyi büfé működtetése |
 
-| 562904 | M.n.s. egyéb vendéglátás |
+| 562204 | Közétkeztetés |
 
-| 562905 | Szociális étkeztetés |
+| 562205 | Szociális étkeztetés |
 
 | 563 | Italszolgáltatás |
 
 | 5630 | Italszolgáltatás |
 
-| 563001 | Zenés szórakozóhely (mulató, varieté, bár, diszkó) működtetése |
+| 563001 | Egyéb italszolgáltatás |
 
-| 563002 | Kocsmai, italbolti vendéglátás |
+| 563002 | Kávézó, teázó, egyéb alkoholmentes italokra specializálódott vendéglátóhely működtetése |
 
-| 563003 | Sörbár (nem melegkonyhás) |
+| 563003 | Kocsma, borozó, bár, egyéb alkoholos italokra specializálódott vendéglátóhely működtetése |
 
-| 563004 | Borozó (nem melegkonyhás) |
+| 563004 | Zenés-táncos szórakozóhely (mulató, varieté, diszkó) működtetése |
 
-| 563006 | Kávézó, teázó (nem melegkonyhás) |
+| 564 | Étel és italszolgáltatás közvetítése |
 
-| 563007 | Egyéb italszolgáltatás |
+| 5640 | Étel és italszolgáltatás közvetítése |
+
+| 564001 | Étel- és italszolgáltatás közvetítése |
 
 | 58 | Kiadói tevékenység |
 
-| 581 | Kiadói tevékenység |
+| 581 | Könyv-, napilapkiadás, egyéb kiadói tevékenység (kivéve: szoftverkiadás) |
 
 | 5811 | Könyvkiadás |
 
 | 581101 | Könyv- és térképkiadás |
 
-| 581103 | Könyv kiadása lemezen, kazettán, más fizikai hordozón |
+| 581102 | Könyv online-kiadása |
 
-| 581104 | Könyv online-kiadása |
+| 581103 | Könyv kiadása fizikai hordozón |
 
-| 5812 | Címtárak, levelezőjegyzékek kiadása |
+| 5812 | Napilapkiadás |
 
-| 581201 | Címtárak, levelezőjegyzékek kiadása |
+| 581201 | Napilapkiadás m.n.s. |
 
-| 581202 | Címtárak, levelezőjegyzékek online-kiadása |
+| 581202 | Napilap online-kiadása |
 
-| 5813 | Napilapkiadás |
+| 5813 | Folyóirat, időszaki kiadvány kiadása |
 
-| 581301 | Napilapkiadás m.n.s. |
+| 581301 | Folyóirat, időszaki kiadvány kiadása m.n.s. |
 
-| 581302 | Napilap online-kiadása |
+| 581302 | Folyóirat, időszaki kiadvány online-kiadása |
 
-| 5814 | Folyóirat, időszaki kiadvány kiadása |
-
-| 581401 | Folyóirat, időszaki kiadvány kiadása m.n.s. |
-
-| 581402 | Folyóirat, időszaki kiadvány online-kiadása |
-
-| 5819 | Egyéb kiadói tevékenység |
+| 5819 | Egyéb kiadói tevékenység (kivéve: szoftverkiadás) |
 
 | 581901 | Egyéb kiadói tevékenység m.n.s. |
 
-| 581903 | Egyéb online-kiadói tevékenység |
+| 581902 | Egyéb online-kiadói tevékenység |
+
+| 581903 | Címtárak, levelezőjegyzékek kiadása |
+
+| 581904 | Címtárak, levelezőjegyzékek online-kiadása |
 
 | 582 | Szoftverkiadás |
 
@@ -3530,29 +3572,29 @@
 
 | 582901 | Egyéb szoftverkiadás |
 
-| 59 | Film, video, televízióműsor gyártása, hangfelvétel-kiadás |
+| 59 | Film, videó, televízióműsor, hangfelvétel készítése és kiadása |
 
-| 591 | Film-, video-, televízióműsor-gyártás |
+| 591 | Film, videó, televízióműsor készítése, terjesztése |
 
-| 5911 | Film-, video-, televízióműsor-gyártás |
+| 5911 | Film, videó, televízióműsor készítése |
 
-| 591101 | Film-, video-, televízióműsor-gyártás |
+| 591101 | Film, videó, televízióműsor készítése |
 
-| 5912 | Film-, videogyártás, televíziós műsorfelvétel utómunkálatai |
+| 5912 | Film, videó, televízióműsor készítésének utómunkálatai |
 
-| 591201 | Film-, videogyártás, televíziós műsorfelvétel utómunkálatai |
+| 591201 | Film-, videógyártás, televíziós műsorfelvétel utómunkálatai |
 
-| 5913 | Film-, video- és televízióprogram terjesztése |
+| 5913 | Film-, videóterjesztés |
 
-| 591301 | Film-, video- és televízióprogram terjesztése |
+| 591301 | Film-, videóterjesztés |
 
 | 5914 | Filmvetítés |
 
 | 591401 | Filmvetítés |
 
-| 592 | Hangfelvétel készítése, kiadása |
+| 592 | Hangfelvétel-készítés, -kiadás |
 
-| 5920 | Hangfelvétel készítése, kiadása |
+| 5920 | Hangfelvétel-készítés, -kiadás |
 
 | 592001 | Hangfelvétel-kiadás |
 
@@ -3562,43 +3604,51 @@
 
 | 592004 | Rádióműsor-készítés |
 
-| 60 | Műsorösszeállítás, műsorszolgáltatás |
+| 60 | Műsor-összeállítás, műsorszolgáltatás, hírügynökségi és egyéb tartalomterjesztési tevékenység |
 
-| 601 | Rádióműsor-szolgáltatás |
+| 601 | Rádióműsor-szolgáltatás, audiotartalom-terjesztés |
 
-| 6010 | Rádióműsor-szolgáltatás |
+| 6010 | Rádióműsor-szolgáltatás, audiotartalom-terjesztés |
 
 | 601001 | Rádióműsor-szolgáltatás m.n.s. |
 
 | 601002 | Közszolgálati rádióműsor-szolgáltatás |
 
-| 602 | Televízióműsor összeállítása, szolgáltatása |
+| 602 | Televízióműsor összeállítása, szolgáltatása, videótartalom-terjesztés |
 
-| 6020 | Televízióműsor összeállítása, szolgáltatása |
+| 6020 | Televízióműsor összeállítása, szolgáltatása, videótartalom-terjesztés |
 
 | 602001 | Televízióműsor összeállítása, szolgáltatása m.n.s. |
 
 | 602002 | Közszolgálati televízióműsor összeállítása, szolgáltatása |
 
+| 603 | Hírügynökségi és egyéb tartalomterjesztési tevékenység |
+
+| 6031 | Hírügynökségi tevékenység |
+
+| 603101 | Hírügynökségi tevékenység |
+
+| 6039 | Egyéb tartalomterjesztési tevékenység |
+
+| 603901 | Egyéb tartalomterjesztési tevékenység |
+
 | 61 | Távközlés |
 
-| 611 | Vezetékes távközlés |
+| 611 | Vezetékes, vezeték nélküli és műholdas távközlés |
 
-| 6110 | Vezetékes távközlés |
+| 6110 | Vezetékes, vezeték nélküli és műholdas távközlés |
 
 | 611001 | Vezetékes távközlés |
 
-| 612 | Vezeték nélküli távközlés |
+| 611002 | Vezeték nélküli távközlés |
 
-| 6120 | Vezeték nélküli távközlés |
+| 611003 | Műholdas távközlés |
 
-| 612001 | Vezeték nélküli távközlés |
+| 612 | Távközlés viszonteladása, közvetítése |
 
-| 613 | Műholdas távközlés |
+| 6120 | Távközlés viszonteladása, közvetítése |
 
-| 6130 | Műholdas távközlés |
-
-| 613001 | Műholdas távközlés |
+| 612001 | Távközlés viszonteladása, közvetítése |
 
 | 619 | Egyéb távközlés |
 
@@ -3606,67 +3656,65 @@
 
 | 619001 | Egyéb távközlés m.n.s. |
 
-| 619002 | Internet-hozzáférés biztosítása |
+| 62 | Információtechnológiai szolgáltatás |
 
-| 62 | Információ-technológiai szolgáltatás |
+| 621 | Számítógépes programozás |
 
-| 620 | Információ-technológiai szolgáltatás |
+| 6210 | Számítógépes programozás |
 
-| 6201 | Számítógépes programozás |
+| 621001 | Számítógépes programozás m.n.s. |
 
-| 620101 | Egyedi szoftverfejlesztés |
+| 621002 | Egyedi szoftverfejlesztés |
 
-| 620102 | Rendszerszervezési, -karbantartási tanácsadás |
+| 621003 | Rendszerszervezési, -karbantartási tanácsadás |
 
-| 620103 | Weblap tervezése (webdizájn) |
+| 621004 | Weblap tervezése (webdizájn) |
 
-| 620104 | Számítógépes programozás m.n.s. |
+| 622 | Információtechnológiai szaktanácsadás és számítástechnikai eszközök, rendszerek üzemeltetése |
 
-| 6202 | Információ-technológiai szaktanácsadás |
+| 6220 | Információtechnológiai szaktanácsadás és számítástechnikai eszközök, rendszerek üzemeltetése |
 
-| 620201 | Egyéb számítástechnikai szakértés, tanácsadás |
+| 622001 | Egyéb számítástechnikai szakértés, tanácsadás |
 
-| 620203 | Hardver-szaktanácsadás |
+| 622002 | Hardver-szaktanácsadás |
 
-| 6203 | Számítógép-üzemeltetés |
+| 622003 | Számítógép-üzemeltetés |
 
-| 620301 | Számítógép-üzemeltetés |
+| 629 | Egyéb információtechnológiai szolgáltatás |
 
-| 6209 | Egyéb információ-technológiai szolgáltatás |
+| 6290 | Egyéb információtechnológiai szolgáltatás |
 
-| 620901 | Egyéb számítástechnikai tevékenység |
+| 629001 | Egyéb számítástechnikai tevékenység |
 
-| 620902 | Számítógép üzembe helyezése |
+| 629002 | Számítógép üzembe helyezése |
 
-| 63 | Információs szolgáltatás |
+| 63 | Számítástechnikai infrastruktúra, adatfeldolgozás, tárhelyszolgáltatás és egyéb információs szolgáltatási tevékenységek |
 
-| 631 | Adatfeldolgozás, web-hoszting, világháló-portál szolgáltatás |
+| 631 | Számítástechnikai infrastruktúra, adatfeldolgozás, tárhelyszolgáltatás és kapcsolódó szolgáltatások |
 
-| 6311 | Adatfeldolgozás, web-hoszting szolgáltatás |
+| 6310 | Számítástechnikai infrastruktúra, adatfeldolgozás, tárhelyszolgáltatás és kapcsolódó szolgáltatások |
 
-| 631101 | Egyéb adatbázis-szolgáltatás |
+| 631001 | Egyéb adatbázis-szolgáltatás |
 
-| 631102 | Internetes hirdetési felület webgazda általi értékesítése |
+| 631002 | Internetes hirdetési felület webgazda általi értékesítése |
 
-| 631104 | Adatfeldolgozási szolgáltatás |
+| 631003 | Adatfeldolgozási szolgáltatás |
 
-| 631105 | Weboldal üzemeltetés (webhoszting) |
+| 631004 | Weboldal üzemeltetés (webhoszting) |
 
-| 6312 | Világháló-portál szolgáltatás |
+| 631005 | Számítástechnikai infrastruktúra biztosítása m.n.s. |
 
-| 631201 | Világháló-portál szolgáltatás |
+| 639 | Internetes keresőportállal kapcsolatos tevékenységek és egyéb információs szolgáltatás |
 
-| 639 | Egyéb információs szolgáltatás |
+| 6391 | Internetes keresőportállal kapcsolatos tevékenységek |
 
-| 6391 | Hírügynökségi tevékenység |
+| 639101 | Internetes keresőportállal kapcsolatos tevékenységek |
 
-| 639101 | Hírügynökségi tevékenység |
+| 6392 | Egyéb információs szolgáltatás |
 
-| 6399 | M.n.s. egyéb információs szolgáltatás |
+| 639201 | Egyéb információs szolgáltatás |
 
-| 639901 | Téma-, sajtófigyelés |
-
-| 66 | Egyéb pénzügyi tevékenység |
+| 66 | Pénzügyi kiegészítő tevékenység |
 
 | 661 | Pénzügyi kiegészítő tevékenység (kivéve: biztosítás, nyugdíjalap) |
 
@@ -3690,19 +3738,23 @@
 
 | 662202 | Pénztári tag szervezése, pénztári ügynöki tevékenység |
 
-| 6629 | Biztosítás, nyugdíjalap egyéb kiegészítő tevékenysége |
+| 6629 | M.n.s. biztosítást, nyugdíjalapot kiegészítő tevékenység |
 
 | 662901 | Biztosítási állomány kezelése, adminisztrációja |
 
 | 68 | Ingatlanügyletek |
 
-| 681 | Saját tulajdonú ingatlan adásvétele |
+| 681 | Ingatlanügylet saját tulajdonú ingatlannal, ingatlanfejlesztés |
 
-| 6810 | Saját tulajdonú ingatlan adásvétele |
+| 6811 | Saját tulajdonú ingatlan adásvétele |
 
-| 681001 | Egyéb ingatlan forgalmazása |
+| 681101 | Egyéb ingatlan forgalmazása |
 
-| 681002 | Lakóingatlan és földterület forgalmazása |
+| 681102 | Lakóingatlan és földterület forgalmazása |
+
+| 6812 | Ingatlanfejlesztés |
+
+| 681201 | Ingatlanfejlesztés |
 
 | 682 | Saját tulajdonú, bérelt ingatlan bérbeadása, üzemeltetése |
 
@@ -3724,25 +3776,25 @@
 
 | 682008 | Saját tulajdonú vagy bérelt ingatlan bérbeadása, üzemeltetése m.n.s. |
 
-| 683 | Ingatlanügynöki, -kezelési szolgáltatás |
+| 683 | Ingatlanügynöki, -kezelési szolgáltatás díjazásos vagy szerződéses alapon |
 
-| 6831 | Ingatlanügynöki tevékenység |
+| 6831 | Ingatlanügyletek közvetítése |
 
 | 683101 | Lakóingatlan, földterület közvetítése |
 
-| 683102 | Ingatlan-értékbecslés |
+| 683102 | Egyéb ingatlan közvetítése |
 
-| 683103 | Egyéb ingatlan közvetítése |
+| 6832 | Egyéb ingatlanügynöki, -kezelési szolgáltatás |
 
-| 683104 | Igazságügyi szakértés lakásügyi területen |
-
-| 6832 | Ingatlankezelés |
-
-| 683201 | Ingatlankezelés m.n.s. |
+| 683201 | Egyéb ingatlanügynöki, -kezelési szolgáltatás m.n.s. |
 
 | 683202 | Lakóingatlan kezelése |
 
-| 69 | Jogi, számviteli, adószakértői tevékenység |
+| 683203 | Ingatlan-értékbecslés |
+
+| 683204 | Igazságügyi szakértés lakásügyi területen |
+
+| 69 | Jogi, számviteli tevékenység |
 
 | 691 | Jogi tevékenység |
 
@@ -3766,55 +3818,53 @@
 
 | 6920 | Számviteli, könyvvizsgálói, adószakértői tevékenység |
 
-| 692001 | Adószakértés, adó-szaktanácsadás |
+| 692001 | Egyéb számviteli szolgáltatás |
 
 | 692002 | Könyvvizsgálat (audit) |
 
 | 692003 | Könyvelés |
 
+| 692004 | Adószakértés, adó-szaktanácsadás |
+
+| 692005 | Bérszámfejtés |
+
+| 692006 | Termékdíj ügyintézés |
+
 | 692007 | Pénzügyi ellenőr |
 
 | 692008 | Jövedéki ügyintézés |
 
-| 692009 | Termékdíj ügyintézés |
+| 70 | Üzletvezetés, üzletvezetési tanácsadás |
 
-| 692010 | Bérszámfejtés |
+| 702 | Üzletviteli, egyéb üzletvezetési tanácsadás |
 
-| 692011 | Egyéb számviteli szolgáltatás |
+| 7020 | Üzletviteli, egyéb üzletvezetési tanácsadás |
 
-| 70 | Üzletvezetési, vezetői tanácsadás |
+| 702001 | Üzletviteli tanácsadás, gazdasági szakmai szakértés m.n.s. |
 
-| 702 | Üzletviteli tanácsadás |
+| 702002 | Általános üzletviteli tanácsadás |
 
-| 7021 | PR, kommunikáció |
+| 702003 | Pénzügyi, társadalombiztosítási és marketing üzletviteli tanácsadás |
 
-| 702101 | PR, kommunikáció m.n.s. |
+| 702004 | Humánpolitikai üzletviteli tanácsadás |
 
-| 702102 | Lobbitevékenység |
+| 702005 | Projektvezetési szolgáltatás, kivéve építési projekt |
 
-| 7022 | Üzletviteli, egyéb vezetési tanácsadás |
+| 702006 | Közbeszerzési tanácsadás |
 
-| 702201 | Általános üzletviteli tanácsadás |
+| 702007 | Belső ellenőrzés |
 
-| 702202 | Pénzügyi, társadalombiztosítási és marketing üzletviteli tanácsadás |
+| 71 | Építészmérnöki, mérnöki tevékenység, műszaki vizsgálat, elemzés |
 
-| 702203 | Humánpolitikai üzletviteli tanácsadás |
-
-| 702204 | Egyéb üzletviteli tanácsadás, gazdasági szakmai szakértés |
-
-| 702205 | Egyéb projektvezetési szolgáltatás, kivéve építési projekt |
-
-| 702206 | Közbeszerzési tanácsadás |
-
-| 702207 | Belső ellenőrzés |
-
-| 71 | Mérnöki és építészmérnöki tevékenység; műszaki vizsgálat, elemzés |
-
-| 711 | Mérnöki és építészmérnöki tevékenység; műszaki tanácsadás |
+| 711 | Építészmérnöki, mérnöki tevékenység, műszaki tanácsadás |
 
 | 7111 | Építészmérnöki tevékenység |
 
 | 711101 | Építészeti tervezés |
+
+| 711102 | Igazságügyi szakértés településrendezési területen |
+
+| 711103 | Településrendezési szakértő |
 
 | 711104 | Táj- és kertépítészeti tervezés |
 
@@ -3830,19 +3880,17 @@
 
 | 711110 | Területrendezési tervezés |
 
-| 711111 | Településrendezési szakértő |
-
-| 711112 | Igazságügyi szakértés településrendezési területen |
-
 | 7112 | Mérnöki tevékenység, műszaki tanácsadás |
 
-| 711201 | Építészeti műszaki tervezés (kivéve: építészmérnökök) |
+| 711201 | Mérnöki tevékenység, műszaki tanácsadás m.n.s. |
 
 | 711202 | Ipari folyamatirányító rendszer tervezése |
 
 | 711203 | Geológiai, geofizikai szolgáltatás |
 
 | 711204 | Földmérés, térképészet |
+
+| 711205 | Környezetmérnöki tervezés, szakértés |
 
 | 711206 | Beruházás lebonyolítói tevékenység |
 
@@ -3853,6 +3901,8 @@
 | 711209 | Ipari tevékenységhez kapcsolódó mérnöki tervezés, szakértés |
 
 | 711210 | Technikusi tevékenység (kivéve építészet) |
+
+| 711211 | Távérzékelés |
 
 | 711212 | Építési műszaki ellenőrzés |
 
@@ -3868,7 +3918,7 @@
 
 | 711218 | Ipari tevékenységhez kapcsolódó technikusi tevékenység |
 
-| 711219 | Távérzékelés |
+| 711219 | Építészeti műszaki tervezés (kivéve: építészmérnökök) |
 
 | 712 | Műszaki vizsgálat, elemzés |
 
@@ -3880,29 +3930,27 @@
 
 | 712003 | Energetikai tanúsító tevékenység |
 
-| 712004 | Gáz csatlakozó vezeték és felhasználói berendezés műszaki-biztonsági felülvizsgálata |
+| 712004 | Gázcsatlakozó vezeték és felhasználói berendezés műszaki biztonsági felülvizsgálata |
 
 | 72 | Tudományos kutatás, fejlesztés |
 
-| 721 | Természettudományi, műszaki kutatás, fejlesztés |
+| 721 | Természettudományi, műszaki kutatás, kísérleti fejlesztés |
 
-| 7211 | Biotechnológiai kutatás, fejlesztés |
+| 7210 | Természettudományi, műszaki kutatás, kísérleti fejlesztés |
 
-| 721101 | Biotechnológiai kutatás, fejlesztés |
+| 721001 | Biotechnológiai kutatás, fejlesztés |
 
-| 7219 | Egyéb természettudományi, műszaki kutatás, fejlesztés |
+| 721002 | Egyéb természettudományi, műszaki kutatás, fejlesztés |
 
-| 721901 | Egyéb természettudományi, műszaki kutatás, fejlesztés |
+| 722 | Társadalomtudományi, humán kutatás, kísérleti fejlesztés |
 
-| 722 | Társadalomtudományi, humán kutatás, fejlesztés |
-
-| 7220 | Társadalomtudományi, humán kutatás, fejlesztés |
+| 7220 | Társadalomtudományi, humán kutatás, kísérleti fejlesztés |
 
 | 722001 | Társadalomtudományi kutatás, fejlesztés |
 
 | 722002 | Humán kutatás, fejlesztés |
 
-| 73 | Reklám, piackutatás |
+| 73 | Reklám, piackutatás, PR-tevékenység |
 
 | 731 | Reklám |
 
@@ -3912,7 +3960,7 @@
 
 | 7312 | Médiareklám |
 
-| 731202 | Reklámfelület ügynöki értékesítése |
+| 731201 | Reklámfelület ügynöki értékesítése |
 
 | 732 | Piac-, közvélemény-kutatás |
 
@@ -3920,19 +3968,39 @@
 
 | 732001 | Piac-, közvélemény-kutatás |
 
+| 733 | PR-tevékenység |
+
+| 7330 | PR-tevékenység |
+
+| 733001 | PR, kommunikáció m.n.s. |
+
+| 733002 | Lobbitevékenység |
+
 | 74 | Egyéb szakmai, tudományos, műszaki tevékenység |
 
-| 741 | Divat-, formatervezés |
+| 741 | Formatervezés |
 
-| 7410 | Divat-, formatervezés |
+| 7411 | Ipari terméktervezés, divattervezés |
 
-| 741001 | Divattervezés, formatervezés, grafika, kirakatrendezés |
+| 741101 | Ipari terméktervezés, divattervezés |
 
-| 741002 | Lakberendezés-tervezés, -tanácsadás |
+| 7412 | Grafikai tervezés, vizuális kommunikáció |
 
-| 741003 | Belsőépítészeti-tervezés, -tanácsadás |
+| 741201 | Grafikai tervezés, vizuális kommunikáció |
 
-| 741004 | Dekorációs falfestés |
+| 7413 | Belsőépítészet |
+
+| 741301 | Belsőépítészeti tervezés, -tanácsadás |
+
+| 741302 | Lakberendezés-tervezés, -tanácsadás |
+
+| 741303 | Kirakatrendezés |
+
+| 741304 | Dekorációs falfestés |
+
+| 7414 | Egyéb formatervezés |
+
+| 741401 | Egyéb formatervezés |
 
 | 742 | Fényképészet |
 
@@ -3956,119 +4024,127 @@
 
 | 743004 | Jeltolmácsolás |
 
+| 743005 | Műfordítás |
+
 | 749 | M.n.s. egyéb szakmai, tudományos, műszaki tevékenység |
 
-| 7490 | M.n.s. egyéb szakmai, tudományos, műszaki tevékenység |
+| 7491 | Szabadalmi ügynöki tevékenység, marketingszolgáltatás |
 
-| 749001 | M.n.s. egyéb szakmai, tudományos, műszaki tevékenység |
+| 749101 | Szabadalmi ügynöki tevékenység, marketingszolgáltatás |
 
-| 749002 | Közvetítési, ügynöki szolgáltatás |
+| 7499 | M.n.s. egyéb szakmai, tudományos, műszaki tevékenység |
 
-| 749003 | Értékbecslő igazságügyi szakértés |
+| 749901 | Egyéb szakmai, tudományos, műszaki tevékenység m.n.s. |
 
-| 749004 | Becsüs (kivéve: ingatlan-, biztosításikár-szakértés) |
+| 749902 | Cég adás-vételének közvetítése |
 
-| 749005 | Mezőgazdasági, vadgazdálkodási szakmai tervezés, szakértés |
+| 749903 | Értékbecslő igazságügyi szakértés |
 
-| 749007 | Kereskedelmi, szálláshely-szolgáltatási, vendéglátási, szállítási, raktározási, postai, távközlési szakmai tervezés, szakértés |
+| 749904 | Becsüs (kivéve: ingatlan-, biztosításikár-szakértés) |
 
-| 749008 | Kulturális és egyéb társadalmi szakmai tervezés, szakértés |
+| 749905 | Mezőgazdasági, vadgazdálkodási szakmai tervezés, szakértés |
 
-| 749009 | Egészségügyi tervezés, szakértés, módszertani feladatok végzése |
+| 749906 | Kereskedelmi, szálláshely-szolgáltatási, vendéglátási, szállítási, raktározási, postai, távközlési szakmai tervezés, szakértés |
 
-| 749010 | Környezetvédelmi szakmai tervezés, szaktanácsadás |
+| 749907 | Kulturális és egyéb társadalmi szakmai tervezés, szakértés |
 
-| 749011 | Egyéb, gazdasági, társadalmi tevékenységet segítő szakmai tervezés, szakértés |
+| 749908 | Egészségügyi tervezés, szakértés, módszertani feladatok végzése |
 
-| 749012 | Munka-, tűzvédelmi szakértés, szabályzat kidolgozása |
+| 749909 | Környezetvédelmi szaktanácsadás |
 
-| 749014 | Igazságügyi szakértés tűzvédelmi, személy- és vagyonvédelmi területeken |
+| 749910 | Egyéb, gazdasági, társadalmi tevékenységet segítő szakmai tervezés, szakértés |
 
-| 749015 | Minőségbiztosítási ügyintézés, tanácsadás |
+| 749911 | Munka-, tűzvédelmi szakértés, szabályzat kidolgozása |
 
-| 749016 | Igazságügyi szakértés környezetvédelmi, természetvédelmi és vízügyi területen |
+| 749912 | Igazságügyi szakértés tűzvédelmi, személy- és vagyonvédelmi területeken |
 
-| 749024 | Igazságügyi szakértés kulturális területen |
+| 749913 | Minőségbiztosítási ügyintézés, tanácsadás |
 
-| 749029 | Igazságügyi szakértés orvosi, egyes pszichológiai és biológiai területen |
+| 749914 | Igazságügyi szakértés környezetvédelmi, természetvédelmi és vízügyi területen |
 
-| 749031 | Haszonállatok törzskönyvezése |
+| 749915 | Igazságügyi szakértés kulturális területen |
 
-| 749032 | Igazságügyi szakértés kriminalisztikai területen |
+| 749916 | Igazságügyi szakértés orvosi, egyes pszichológiai és biológiai területen |
 
-| 749033 | M.n.s. egyéb igazságügyi szakértő |
+| 749917 | Haszonállatok törzskönyvezése |
 
-| 749035 | Műszaki tanácsadás |
+| 749918 | Igazságügyi szakértés kriminalisztikai területen |
 
-| 749036 | Hobbiállatok törzskönyvezése (kivéve: munkaeb pl. vakvezető eb, rendőreb) |
+| 749919 | M.n.s. egyéb igazságügyi szakértő |
 
-| 749037 | Lektorálás (nem nyelvi) |
+| 749920 | Műszaki tanácsadás |
 
-| 749038 | Meteorológiai szolgáltatás |
+| 749921 | Hobbiállatok törzskönyvezése (kivéve: munkaeb pl. vakvezető eb, rendőreb) |
 
-| 749039 | Igazságügyi állategészségügyi szakértés |
+| 749922 | Lektorálás (nem nyelvi) |
 
-| 749040 | Gombaszakértés |
+| 749923 | Meteorológiai szolgáltatás |
 
-| 749042 | Igazságügyi szakértés munkabiztonsági területen |
+| 749924 | Igazságügyi állategészségügyi szakértés |
 
-| 749043 | Igazságügyi szakértés közlekedési és ipari területeken (kivéve: élelmiszeripar) |
+| 749925 | Gombaszakértés |
 
-| 749044 | Igazságügyi szakértés informatikai és hírközlési területen |
+| 749926 | Igazságügyi szakértés munkabiztonsági területen |
 
-| 749045 | Igazságügyi szakértés gyógypedagógiai és egyes pszichológiai területen |
+| 749927 | Igazságügyi szakértés közlekedési és ipari területeken (kivéve: élelmiszeripar) |
 
-| 749046 | Igazságügyi szakértés közgazdaság, vám- és egyes pénzügyi területen |
+| 749928 | Igazságügyi szakértés informatikai és hírközlési területen |
 
-| 749047 | Igazságügyi idegenforgalmi szakértés |
+| 749929 | Igazságügyi szakértés gyógypedagógiai és egyes pszichológiai területen |
 
-| 749048 | Igazságügyi szakértés az audiovizuális média területén |
+| 749930 | Igazságügyi szakértés közgazdaság, vám- és egyes pénzügyi területen |
 
-| 749049 | Igazságügyi szakértés mező- és erdőgazdálkodási, élelmiszer-ipari területen |
+| 749931 | Igazságügyi idegenforgalmi szakértés |
 
-| 749054 | Ipari hűtőgép kezelés |
+| 749932 | Igazságügyi szakértés az audiovizuális média területén |
 
-| 749055 | Felvonó- és mozgólépcső ellenőri tevékenység |
+| 749933 | Igazságügyi szakértés mező- és erdőgazdálkodási, élelmiszer-ipari területen |
 
-| 749056 | Közlekedésbiztonsági vizsgálat |
+| 749934 | Ipari hűtőgép kezelés |
 
-| 749057 | Igazságügyi szakértés titokvédelmi területen |
+| 749935 | Felvonó- és mozgólépcső ellenőri tevékenység |
 
-| 749058 | Szociálpolitikai szakértés |
+| 749936 | Közlekedésbiztonsági vizsgálat |
 
-| 749059 | Gyermekvédelmi szakértés |
+| 749937 | Igazságügyi szakértés titokvédelmi területen |
 
-| 749060 | Növényvédelmi szakértés |
+| 749938 | Szociálpolitikai szakértés |
 
-| 749061 | Szántóföldi növénytermesztéshez kapcsolódó szaktanácsadás |
+| 749939 | Gyermekvédelmi szakértés |
 
-| 749062 | Kertészethez kapcsolódó szaktanácsadás |
+| 749940 | Növényvédelmi szakértés |
 
-| 749063 | Precíziós gazdálkodáshoz kapcsolódó szaktanácsadás |
+| 749941 | Szántóföldi növénytermesztéshez kapcsolódó szaktanácsadás |
 
-| 749064 | Ökológiai gazdálkodáshoz kapcsolódó szaktanácsadás |
+| 749942 | Kertészethez kapcsolódó szaktanácsadás |
 
-| 749065 | Öntözésfejlesztéshez kapcsolódó szaktanácsadás |
+| 749943 | Precíziós gazdálkodáshoz kapcsolódó szaktanácsadás |
 
-| 749066 | Állattenyésztéshez kapcsolódó szaktanácsadás |
+| 749944 | Ökológiai gazdálkodáshoz kapcsolódó szaktanácsadás |
 
-| 749067 | Állategészségügyhöz kapcsolódó szaktanácsadás |
+| 749945 | Öntözésfejlesztéshez kapcsolódó szaktanácsadás |
 
-| 749068 | Élelmiszer-előállításhoz, -feldolgozáshoz kapcsolódó szaktanácsadás |
+| 749946 | Állattenyésztéshez kapcsolódó szaktanácsadás |
 
-| 749069 | Takarmányozáshoz, takarmány-előállításhoz kapcsolódó szaktanácsadás |
+| 749947 | Állategészségügyhöz kapcsolódó szaktanácsadás |
 
-| 749070 | Földügyekhez kapcsolódó szaktanácsadás |
+| 749948 | Élelmiszer-előállításhoz, -feldolgozáshoz kapcsolódó szaktanácsadás |
 
-| 75 | Állat-egészségügyi ellátás |
+| 749949 | Takarmányozáshoz, takarmány-előállításhoz kapcsolódó szaktanácsadás |
 
-| 750 | Állat-egészségügyi ellátás |
+| 749950 | Földügyekhez kapcsolódó szaktanácsadás |
 
-| 7500 | Állat-egészségügyi ellátás |
+| 749951 | Gyógyszerészeti szakértői tevékenység, szaktanácsadás |
+
+| 75 | Állategészségügyi ellátás |
+
+| 750 | Állategészségügyi ellátás |
+
+| 7500 | Állategészségügyi ellátás |
 
 | 750001 | Állatorvosi tevékenység |
 
-| 750003 | Egyéb állategészségügyi ellátás |
+| 750002 | Egyéb állategészségügyi ellátás |
 
 | 77 | Kölcsönzés, operatív lízing |
 
@@ -4076,13 +4152,13 @@
 
 | 7711 | Személygépjármű kölcsönzése |
 
-| 771101 | Gépkocsikölcsönzés |
+| 771101 | M.n.s. személygépjármű kölcsönzése |
 
-| 771103 | M.n.s. személygépjármű kölcsönzése |
+| 771102 | Gépkocsikölcsönzés |
 
 | 7712 | Gépjárműkölcsönzés (3,5 tonna fölött) |
 
-| 771201 | Járműkölcsönzés |
+| 771201 | Gépjárműkölcsönzés (3,5 tonna fölött) |
 
 | 772 | Személyi használatú, háztartási cikk kölcsönzése |
 
@@ -4090,27 +4166,21 @@
 
 | 772101 | Szabadidős és sporteszköz kölcsönzése |
 
-| 7722 | Videokazetta, lemez kölcsönzése |
+| 7722 | Egyéb személyi használatú, háztartási cikk kölcsönzése |
 
-| 772201 | Videokazetta-, LD-, DVD-lemez kölcsönzése |
+| 772201 | Egyéb személyi használatú, háztartási cikk kölcsönzése m.n.s. |
 
-| 7729 | Egyéb személyi használatú, háztartási cikk kölcsönzése |
+| 772202 | Barkácseszköz kölcsönzése |
 
-| 772901 | Egyéb személyi használatú, háztartási cikk kölcsönzése m.n.s. |
+| 772203 | Esküvői ruha, jelmez, egyéb ruházati termék kölcsönzése |
 
-| 772902 | Barkácseszköz kölcsönzése |
+| 772204 | Oktatást szolgáló szemléltetőeszköz és bemutató taneszköz kölcsönzése |
 
-| 772903 | Esküvői ruha, jelmez, egyéb ruházati termék kölcsönzése |
+| 772205 | Háztartási eszköz, bútor kölcsönzése |
 
-| 772904 | Oktatást szolgáló szemléltetőeszköz és bemutató taneszköz kölcsönzése |
+| 772206 | Hangszerkölcsönzés |
 
-| 772905 | Televízió-, rádió-, videokészülék kölcsönzése |
-
-| 772906 | Háztartási eszköz, bútor kölcsönzése |
-
-| 772907 | Hangszerkölcsönzés |
-
-| 772908 | Gyógyászati segédeszköz kölcsönzése |
+| 772207 | Gyógyászati segédeszköz kölcsönzése |
 
 | 773 | Egyéb gép, tárgyi eszköz kölcsönzése |
 
@@ -4122,9 +4192,9 @@
 
 | 773201 | Építőipari gép, berendezés kölcsönzése |
 
-| 7733 | Irodagép kölcsönzése (beleértve: számítógép) |
+| 7733 | Irodai gép, berendezés, számítógép kölcsönzése |
 
-| 773301 | Irodagép-kölcsönzés |
+| 773301 | Irodai gép, berendezés kölcsönzése |
 
 | 773302 | Számítástechnikai berendezések kölcsönzése |
 
@@ -4144,11 +4214,21 @@
 
 | 773903 | Gazdasági haszonállatok kölcsönzése |
 
-| 774 | Immateriális javak kölcsönzése |
+| 774 | Immateriális javak kölcsönzése, kivéve a szerzői jogdíjban részesülő javakat |
 
-| 7740 | Immateriális javak kölcsönzése |
+| 7740 | Immateriális javak kölcsönzése, kivéve a szerzői jogdíjban részesülő javakat |
 
-| 774001 | Immateriális javak kölcsönzése |
+| 774001 | Immateriális javak kölcsönzése, kivéve a szerzői jogdíjban részesülő javakat |
+
+| 775 | Tárgyi eszközök, nem pénzügyi immateriális javak kölcsönzésével kapcsolatos közvetítés |
+
+| 7751 | Személygépjármű, lakóautó, pótkocsi kölcsönzésével kapcsolatos közvetítés |
+
+| 775101 | Személygépjármű, lakóautó, pótkocsi kölcsönzésével kapcsolatos közvetítés |
+
+| 7752 | Egyéb tárgyi eszközök, nem pénzügyi immateriális javak kölcsönzésével kapcsolatos közvetítés |
+
+| 775201 | Egyéb tárgyi eszközök, nem pénzügyi immateriális javak kölcsönzésével kapcsolatos közvetítés |
 
 | 78 | Munkaerőpiaci szolgáltatás |
 
@@ -4166,13 +4246,7 @@
 
 | 791101 | Utazásközvetítés |
 
-| 791102 | Menetjegy foglalása, ügynöki értékesítése |
-
-| 791103 | Egyéb közlekedési eszköz foglalása, ügynöki értékesítése |
-
-| 791104 | Szálláshely-foglalása, ügynöki értékesítése (nem utazási csomagban) |
-
-| 791105 | Utazás foglalása, ügynöki értékesítése (nem utazási csomagban) |
+| 791102 | Utazás foglalása, ügynöki értékesítése (nem utazási csomagban) |
 
 | 7912 | Utazásszervezés |
 
@@ -4182,33 +4256,25 @@
 
 | 7990 | Egyéb foglalás |
 
-| 799001 | Idegenvezetés |
+| 799001 | Egyéb foglalás |
 
-| 799002 | Jegyértékesítő ügynöki tevékenység |
+| 799002 | Idegenvezetés |
 
 | 799003 | Turistatájékoztatás |
 
-| 799005 | Egyéb foglalás m.n.s. |
+| 80 | Nyomozói, biztonsági tevékenység |
 
-| 80 | Biztonsági, nyomozói tevékenység |
+| 800 | Nyomozói, biztonsági tevékenység |
 
-| 801 | Személybiztonsági tevékenység |
+| 8001 | Nyomozói, személybiztonsági tevékenység |
 
-| 8010 | Személybiztonsági tevékenység |
+| 800101 | Személybiztonsági tevékenység |
 
-| 801001 | Személybiztonsági tevékenység |
+| 800102 | Magánnyomozás |
 
-| 802 | Biztonsági rendszer szolgáltatás |
+| 8009 | M.n.s. biztonsági tevékenység |
 
-| 8020 | Biztonsági rendszer szolgáltatás |
-
-| 802001 | Biztonsági rendszer szolgáltatás |
-
-| 803 | Nyomozás |
-
-| 8030 | Nyomozás |
-
-| 803001 | Magánnyomozás |
+| 800901 | M.n.s. biztonsági tevékenység |
 
 | 81 | Építményüzemeltetés, zöldterület-kezelés |
 
@@ -4238,15 +4304,15 @@
 
 | 812203 | Ablaktisztítás |
 
-| 8129 | Egyéb takarítás |
+| 8123 | Egyéb takarítás |
 
-| 812901 | Egyéb takarítás m.n.s. |
+| 812301 | Egyéb takarítás m.n.s. |
 
-| 812902 | Egyéb tisztítás |
+| 812302 | Egyéb tisztítás |
 
-| 812904 | Egészségügyi kártevők elleni védekezés (rovar- és rágcsálóirtás) |
+| 812303 | Egészségügyi kártevők elleni védekezés (rovar- és rágcsálóirtás) |
 
-| 812905 | Köz- és egyéb területek tisztítása, hó- és jégmentesítése |
+| 812304 | Köz- és egyéb területek tisztítása, hó- és jégmentesítése |
 
 | 813 | Zöldterület-kezelés |
 
@@ -4256,25 +4322,21 @@
 
 | 813002 | Házikertgondozás |
 
-| 82 | Adminisztratív, kiegészítő egyéb üzleti szolgáltatás |
+| 82 | Adminisztratív, irodai és egyéb üzletmenetet támogató szolgáltatás |
 
-| 821 | Adminisztratív, kiegészítő szolgáltatás |
+| 821 | Adminisztratív, üzletmenetet támogató szolgáltatás |
 
-| 8211 | Összetett adminisztratív szolgáltatás |
+| 8210 | Adminisztratív, üzletmenetet támogató szolgáltatás |
 
-| 821101 | Összetett adminisztratív szolgáltatás |
+| 821001 | Adminisztratív, üzletmenetet támogató szolgáltatás |
 
-| 8219 | Fénymásolás, egyéb irodai szolgáltatás |
+| 821002 | Fénymásológépek üzemeltetése önkiszolgáló fénymásoláshoz |
 
-| 821901 | Egyéb irodai szolgáltatás m.n.s. |
+| 822 | Telefonos ügyfélszolgálat |
 
-| 821902 | Fénymásolás, sokszorosítás |
+| 8220 | Telefonos ügyfélszolgálat |
 
-| 822 | Telefoninformáció |
-
-| 8220 | Telefoninformáció |
-
-| 822001 | Telefoninformáció |
+| 822001 | Telefonos ügyfélszolgálat |
 
 | 823 | Konferencia, kereskedelmi bemutató szervezése |
 
@@ -4282,11 +4344,19 @@
 
 | 823001 | Kereskedelmi bemutató, vásár szervezése |
 
+| 823002 | Konferencia-, kongresszusszervezés |
+
 | 823003 | Falusi rendezvények szervezése, szálláshely-szolgáltatás nélkül |
 
-| 823004 | Konferencia-, kongresszusszervezés |
+| 824 | Egyéb üzletmenetet támogató szolgáltatás közvetítése |
 
-| 829 | Egyéb kiegészítő gazdasági tevékenység |
+| 8240 | Egyéb üzletmenetet támogató szolgáltatás közvetítése |
+
+| 824001 | Egyéb üzletmenetet támogató szolgáltatás közvetítése |
+
+| 824002 | Jegyértékesítő ügynöki tevékenység |
+
+| 829 | Egyéb üzletmenetet támogató szolgáltatás |
 
 | 8291 | Követelésbehajtás |
 
@@ -4298,29 +4368,33 @@
 
 | 829201 | Csomagolás |
 
-| 8299 | M.n.s. egyéb kiegészítő üzleti szolgáltatás |
+| 8299 | M.n.s. egyéb üzletmenetet támogató szolgáltatás |
 
-| 829901 | Jegyzőkönyvi, gyorsírásos feljegyzés készítése |
+| 829901 | Egyéb üzletmenetet támogató szolgáltatás m.n.s. |
 
-| 829902 | M.n.s. egyéb gazdasági tevékenységet segítő szolgáltatás |
+| 829902 | Jegyzőkönyvi, gyorsírásos feljegyzés készítése |
 
-| 829903 | Aukció, árverés |
+| 829903 | Építésügyi igazgatási szakértő |
 
-| 829905 | Építésügyi igazgatási szakértő |
+| 84 | Közigazgatás, védelem, kötelező társadalombiztosítás |
 
-| 84 | Közigazgatás, védelem; kötelező társadalombiztosítás |
+| 842 | Társadalmi közszolgáltatás |
 
 | 8424 | Közbiztonság, közrend |
 
 | 842401 | Traffipax működtetése |
 
+| 8425 | Tűzvédelem |
+
+| 842501 | Vízimentés, uszodamesteri szolgáltatás |
+
 | 85 | Oktatás |
 
-| 851 | Iskolai előkészítő oktatás |
+| 851 | Iskoláskor előtti nevelés |
 
-| 8510 | Iskolai előkészítő oktatás |
+| 8510 | Iskoláskor előtti nevelés |
 
-| 851001 | Iskolai előkészítő oktatás |
+| 851001 | Iskoláskor előtti nevelés |
 
 | 852 | Alapfokú oktatás |
 
@@ -4332,7 +4406,7 @@
 
 | 852003 | Alapfokú felnőttoktatás |
 
-| 853 | Középfokú oktatás |
+| 853 | Középfokú oktatás és középfok utáni nem felsőfokú oktatás |
 
 | 8531 | Általános középfokú oktatás |
 
@@ -4342,33 +4416,33 @@
 
 | 8532 | Szakmai középfokú oktatás |
 
-| 853201 | Szakmai középfokú oktatás |
+| 853201 | Szakmai középfokú oktatás m.n.s. |
+
+| 853202 | Hivatásos járművezető oktatás |
 
 | 853203 | Szakmai középfokú felnőttképzés |
 
-| 853204 | Hivatásos járművezető oktatás |
+| 8533 | Középfok utáni, nem felsőfokú oktatás |
 
-| 854 | Felső szintű oktatás |
+| 853301 | Középfok utáni, nem felsőfokú oktatás m.n.s. |
 
-| 8541 | Felső szintű, nem felsőfokú oktatás |
+| 853302 | Érettségire épülő nem felsőfokú szakmai oktatás |
 
-| 854101 | Felső szintű, nem felsőfokú oktatás m.n.s. |
+| 853303 | Érettségire épülő szakmai felnőttképzés |
 
-| 854102 | Érettségire épülő szakmai felnőttképzés |
+| 854 | Felsőoktatás |
 
-| 854103 | Felső szintű, nem felsőfokú iskolarendszerű szakképzés |
+| 8540 | Felsőoktatás |
 
-| 8542 | Felsőfokú oktatás |
+| 854001 | Főiskolai és egyetemi oktatás, alapképzés, mesterképzés és doktori képzés |
 
-| 854201 | Főiskolai és egyetemi oktatás, alapképzés, mesterképzés és doktori képzés |
-
-| 854203 | Egyéb felsőfokú továbbképzés |
+| 854002 | Egyéb felsőfokú továbbképzés |
 
 | 855 | Egyéb oktatás |
 
-| 8551 | Sport, szabadidős képzés |
+| 8551 | Sport-, szabadidős képzés |
 
-| 855101 | Sport és szabadidős képzés |
+| 855101 | Sport- és szabadidős képzés |
 
 | 8552 | Kulturális képzés |
 
@@ -4380,39 +4454,43 @@
 
 | 8553 | Járművezető-oktatás |
 
-| 855301 | Járművezető-oktatás |
+| 855301 | Járművezető-képzés |
 
 | 8559 | M.n.s. egyéb oktatás |
 
-| 855901 | M.n.s. egyéb oktatás |
+| 855901 | Egyéb oktatás m.n.s. |
+
+| 855902 | Informatikai oktatás |
 
 | 855903 | Nyelvi magánoktatás |
 
-| 855907 | Általános képzési célú felnőttképzés |
+| 855904 | Általános és szaknyelvi felnőttképzés |
 
-| 855909 | Informatikai oktatás |
+| 855905 | Általános képzési célú felnőttképzés |
 
-| 855911 | Általános és szaknyelvi felnőttképzés |
-
-| 855912 | Házi korrepetálás |
+| 855906 | Házi korrepetálás |
 
 | 856 | Oktatást kiegészítő tevékenység |
 
-| 8560 | Oktatást kiegészítő tevékenység |
+| 8561 | Oktatási szolgáltatás közvetítése |
 
-| 856001 | Oktatási, nevelési, módszertani tanácsadás, szakmai tervezés, szakértés |
+| 856101 | Oktatási szolgáltatás közvetítése |
 
-| 856002 | Iskolarendszerű nevelési, oktatási és más köznevelési intézmény alapítása és fenntartása |
+| 8569 | M.n.s. oktatást kiegészítő tevékenység |
 
-| 856004 | Vizsgáztatás |
+| 856901 | Oktatást kiegészítő tevékenység m.n.s. |
 
-| 856005 | Iskolarendszeren kívüli tanulmányi verseny, tanfolyam szervezése |
+| 856902 | Oktatási, nevelési, módszertani tanácsadás, szakmai tervezés, szakértés |
 
-| 856006 | Gyógypedagógiai ellátás, konduktív pedagógia |
+| 856903 | Iskolarendszerű nevelési, oktatási és más köznevelési intézmény alapítása és fenntartása |
 
-| 856007 | Oktatást kiegészítő tevékenység m.n.s. |
+| 856904 | Vizsgáztatás |
 
-| 86 | Humán-egészségügyi ellátás |
+| 856905 | Iskolarendszeren kívüli tanulmányi verseny, tanfolyam szervezése |
+
+| 856906 | Gyógypedagógiai ellátás, konduktív pedagógia |
+
+| 86 | Humánegészségügyi ellátás |
 
 | 861 | Fekvőbeteg-ellátás |
 
@@ -4420,113 +4498,137 @@
 
 | 861001 | Szakorvosi tevékenység fekvőbeteg-ellátásban |
 
-| 861002 | Szabadfoglalkozású szakorvosi tevékenység fekvőbeteg-ellátásban |
-
-| 861005 | Hospice ellátás a fekvőbeteg gyógyintézeti szakellátásban |
-
-| 861006 | Szabadfoglalkozású szakdolgozói (nem orvosi) egészségügyi tevékenység fekvőbeteg-szakellátásban |
-
-| 861007 | Szakdolgozói fekvőbeteg szakellátás |
+| 861002 | Szakdolgozói tevékenység fekvőbeteg ellátásban |
 
 | 862 | Járóbeteg-ellátás, fogorvosi ellátás |
 
 | 8621 | Általános járóbeteg-ellátás |
 
-| 862101 | Egészségügyi alapellátás |
-
-| 862102 | Szabadfoglalkozású orvosi tevékenység alapellátásban |
+| 862101 | Háziorvosi ellátás |
 
 | 8622 | Szakorvosi járóbeteg-ellátás |
 
 | 862201 | Szakorvosi tevékenység járóbeteg-ellátásban |
 
-| 862202 | Szabadfoglalkozású szakorvosi tevékenység járóbeteg-ellátásban |
-
 | 8623 | Fogorvosi járóbeteg-ellátás |
 
-| 862301 | Fogorvosi járóbeteg-ellátás m.n.s. |
+| 862301 | Fogorvosi tevékenység járóbeteg-ellátásban m.n.s. |
 
-| 862302 | Szabadfoglalkozású egészségügyi tevékenység fogorvosi szakellátásban |
+| 869 | Egyéb humánegészségügyi ellátás |
 
-| 869 | Egyéb humán-egészségügyi ellátás |
+| 8691 | Diagnosztikai képalkotó szolgáltatás, orvosi laboratóriumi tevékenység |
 
-| 8690 | Egyéb humán-egészségügyi ellátás |
+| 869101 | Képalkotó diagnosztikai szolgáltatás, orvosi laboratóriumi tevékenység |
 
-| 869001 | Egyéb egészségügyi tevékenység (kivéve: orvosok, fogorvosok) |
+| 8692 | Betegszállítás mentőautóval |
 
-| 869002 | Gyógyszerész (nem saját gyógyszertárban) |
+| 869201 | Betegszállítás mentőszolgálattal |
 
-| 869003 | Szabadfoglalkozású egészségügyi tevékenység egyéb humán-egészségügyi ellátásban (kivéve: orvosok, fogorvosok) |
+| 8693 | Pszichológusi ellátás, pszichoterápia (kivéve: orvosok) |
 
-| 869004 | Védőnői és ápolói szolgáltatás |
+| 869301 | Mentál-egészségügyi ellátás, pszichoterápia |
 
-| 869005 | Természetgyógyászati ellátás |
+| 869302 | Pszichológusi ellátás |
 
-| 869006 | Mentál-egészségügyi ellátás |
+| 8694 | Ápolói, szülészi ellátás |
 
-| 869007 | Mentál-egészségügyi ellátás (nem egészségügyi szolgáltatásként) |
+| 869401 | Szülésznői szolgáltatás |
 
-| 869009 | Hospice ellátás a beteg otthonában |
+| 869402 | Ápolói szolgáltatás |
 
-| 869010 | Lovasterápia |
+| 869403 | Hospice ellátás a beteg otthonában |
 
-| 869011 | Humánkineziológiai szolgáltatás |
+| 8695 | Fizioterápiás ellátás |
 
-| 869012 | Dúlai szolgáltatás |
+| 869501 | Fizioterápiás ellátás m.n.s. |
 
-| 869013 | Doppingellenőrzési célú mintavételi tevékenység |
+| 869502 | Gyógytornász tevékenység |
 
-| 87 | Bentlakásos, nem kórházi ápolás |
+| 869503 | Gyógymasszőr tevékenység |
 
-| 871 | Bentlakásos, nem kórházi ápolás |
+| 8696 | Hagyományos, kiegészítő és alternatív gyógyászati ellátás |
 
-| 8710 | Bentlakásos, nem kórházi ápolás |
+| 869601 | Hagyományos, kiegészítő és alternatív gyógyászati ellátás |
 
-| 871001 | Bentlakásos, nem kórházi ápolás m.n.s. |
+| 8697 | Orvosi, fogorvosi és egyéb humánegészségügyi szolgáltatás közvetítése |
+
+| 869701 | Orvosi, fogorvosi és egyéb humánegészségügyi szolgáltatás közvetítése |
+
+| 8699 | M.n.s. egyéb humánegészségügyi ellátás |
+
+| 869901 | Egyéb humánegészségügyi ellátás m.n.s. |
+
+| 869902 | Gyógyszerészi tevékenység (nem saját gyógyszertárban) |
+
+| 869903 | Egyéb mentál-egészségügyi ellátás (nem egészségügyi szolgáltatásként) |
+
+| 869904 | Lovasterápia |
+
+| 869905 | Humánkineziológiai szolgáltatás |
+
+| 869906 | Dúlai szolgáltatás |
+
+| 869907 | Doppingellenőrzési célú mintavételi tevékenység |
+
+| 869908 | Gyógypedikűr |
+
+| 87 | Bentlakásos ellátás |
+
+| 871 | Bentlakásos ellátás, gondozás |
+
+| 8710 | Bentlakásos ellátás, gondozás |
+
+| 871001 | Bentlakásos ellátás, gondozás |
 
 | 872 | Mentális, szenvedélybeteg bentlakásos ellátása |
 
 | 8720 | Mentális, szenvedélybeteg bentlakásos ellátása |
 
-| 872001 | Mentális, szenvedélybeteg bentlakásos ellátása m.n.s. |
+| 872001 | Mentális, szenvedélybeteg bentlakásos ellátása |
 
-| 873 | Idősek, fogyatékosok bentlakásos ellátása |
+| 873 | Idősek, testi fogyatékossággal élők bentlakásos ellátása |
 
-| 8730 | Idősek, fogyatékosok bentlakásos ellátása |
+| 8730 | Idősek, testi fogyatékossággal élők bentlakásos ellátása |
 
-| 873001 | Idősek, fogyatékosok bentlakásos ellátása m.n.s. |
+| 873001 | Idősek, testi fogyatékossággal élők bentlakásos ellátása |
 
 | 879 | Egyéb bentlakásos ellátás |
 
-| 8790 | Egyéb bentlakásos ellátás |
+| 8791 | Bentlakásos ellátás közvetítése |
 
-| 879001 | Egyéb bentlakásos ellátás |
+| 879101 | Bentlakásos ellátás közvetítése |
 
-| 879007 | Önálló helyettes szülői tevékenység |
+| 8799 | M.n.s. egyéb bentlakásos ellátás |
 
-| 879008 | Helyettes szülői hálózat működtetése |
+| 879901 | Egyéb bentlakásos ellátás |
 
-| 879009 | Gyermekek átmeneti otthonának működtetése |
+| 879902 | Önálló helyettes szülői tevékenység |
 
-| 879010 | Családok átmeneti otthonának működtetése |
+| 879903 | Helyettes szülői hálózat működtetése |
 
-| 879011 | Nevelőszülői hálózat működtetése |
+| 879904 | Gyermekek átmeneti otthonának működtetése |
 
-| 879012 | Gyermek- és lakásotthon működtetése |
+| 879905 | Családok átmeneti otthonának működtetése |
 
-| 879013 | Különleges gyermek- és lakásotthon működtetése |
+| 879906 | Nevelőszülői hálózat működtetése |
 
-| 879014 | Speciális gyermek- és lakásotthon működtetése |
+| 879907 | Gyermek- és lakásotthon működtetése |
 
-| 879015 | Utógondozó otthon működtetése |
+| 879908 | Különleges gyermek- és lakásotthon működtetése |
 
-| 88 | Szociális ellátás bentlakás nélkül |
+| 879909 | Speciális gyermek- és lakásotthon működtetése |
 
-| 881 | Idősek, fogyatékosok szociális ellátása bentlakás nélkül |
+| 879910 | Utógondozó otthon működtetése |
 
-| 8810 | Idősek, fogyatékosok szociális ellátása bentlakás nélkül |
+| 88 | Szociális ellátás, bentlakás nélkül |
+
+| 881 | Idősek, fogyatékossággal élők szociális ellátása, bentlakás nélkül |
+
+| 8810 | Idősek, fogyatékossággal élők szociális ellátása, bentlakás nélkül |
 
 | 881001 | Idősek, fogyatékosok szociális ellátása bentlakás nélkül |
+
+| 881002 | Foglalkozási rehabilitációs szolgáltatás |
 
 | 881003 | Falugondnoki és tanyagondnoki szolgáltatás |
 
@@ -4534,113 +4636,139 @@
 
 | 881005 | Jelzőrendszeres házi segítségnyújtás |
 
-| 881006 | Foglalkozási rehabilitációs szolgáltatás |
-
-| 889 | Egyéb szociális ellátás bentlakás nélkül |
+| 889 | Egyéb szociális ellátás, bentlakás nélkül |
 
 | 8891 | Gyermekek napközbeni ellátása |
 
-| 889105 | Alternatív napközbeni ellátás |
+| 889101 | Alternatív napközbeni ellátás |
 
-| 889106 | Gyermekfelügyelet, a gyermekvédelmi törvény hatályán kívüli szolgáltatásként |
+| 889102 | Gyermekfelügyelet, a gyermekvédelmi törvény hatályán kívüli szolgáltatásként |
 
-| 889108 | Családi bölcsőde |
+| 889103 | Családi bölcsőde |
 
-| 889109 | Napközbeni gyermekfelügyelet |
+| 889104 | Napközbeni gyermekfelügyelet |
 
-| 8899 | M.n.s. egyéb szociális ellátás bentlakás nélkül |
+| 8899 | M.n.s. egyéb szociális ellátás, bentlakás nélkül |
 
-| 889901 | M.n.s. egyéb szociális ellátás bentlakás nélkül |
+| 889901 | Egyéb szociális ellátás, bentlakás nélkül m.n.s. |
 
-| 889907 | Utcai szociális munka |
+| 889902 | Utcai szociális munka |
 
-| 889909 | Családsegítés és gyermekjóléti szolgáltatás |
+| 889903 | Családsegítés és gyermekjóléti szolgáltatás |
 
-| 889910 | Közösségi ellátás |
+| 889904 | Közösségi ellátás |
 
-| 90 | Alkotó-, művészeti, szórakoztató tevékenység |
+| 90 | Alkotóművészet, előadó-művészet |
 
-| 900 | Alkotó-, művészeti, szórakoztató tevékenység |
+| 901 | Alkotóművészet |
 
-| 9001 | Előadó-művészet |
+| 9011 | Irodalmi, zenei alkotótevékenység |
 
-| 900101 | Előadó-művészeti tevékenység (prózai) |
+| 901101 | Egyéb irodalmi, zenei alkotótevékenység |
 
-| 900102 | Előadó-művészeti tevékenység (zenei) |
+| 901102 | Írói, költői tevékenység |
 
-| 900103 | Táncművészeti tevékenység |
+| 901103 | Független újságírói tevékenység |
 
-| 900104 | Amatőr előadóművész tevékenység |
+| 9012 | Képzőművészeti alkotótevékenység |
 
-| 900105 | Népzenei, magyarnóta-énekesi előadóművészet |
+| 901201 | Egyéb képzőművészeti alkotótevékenység |
 
-| 900106 | Statisztálás |
+| 901202 | Képzőművészeti tevékenység (képzőművészeti alkotások készítése) |
 
-| 900107 | Egyéb színpadi előadóművészeti tevékenység |
+| 901203 | Művészi tűzzománc képek készítése |
 
-| 900108 | Cirkuszi előadóművészeti tevékenység |
+| 9013 | Egyéb alkotóművészeti tevékenység |
 
-| 900110 | Vándorcirkuszi előadóművészeti tevékenység |
+| 901301 | Egyéb alkotóművészeti tevékenység |
 
-| 900111 | Előadó-művészet m.n.s. |
+| 902 | Előadó-művészet |
 
-| 9002 | Előadó-művészetet kiegészítő tevékenység |
+| 9020 | Előadó-művészet |
 
-| 900204 | Színpadi látványtechnika biztosítása |
+| 902001 | Előadó-művészet m.n.s. |
 
-| 900205 | Hangosítás |
+| 902002 | Előadó-művészeti tevékenység (prózai) |
 
-| 900206 | Színpadi rendezői, produceri tevékenység |
+| 902003 | Előadó-művészeti tevékenység (zenei) |
 
-| 900207 | Jelmez- és díszlettervezés |
+| 902004 | Táncművészeti tevékenység |
 
-| 900208 | M.n.s. előadó-művészetet kiegészítő tevékenység |
+| 902005 | Amatőr előadóművész tevékenység |
 
-| 9003 | Alkotóművészet |
+| 902006 | Népzenei, magyarnóta-énekesi előadóművészet |
 
-| 900301 | Egyéb alkotóművészeti tevékenység m.n.s. |
+| 902007 | Statisztálás |
 
-| 900302 | Írói, költői tevékenység |
+| 902008 | Egyéb színpadi előadóművészeti tevékenység |
 
-| 900303 | Művészi tűzzománc képek készítése |
+| 902009 | Cirkuszi előadóművészeti tevékenység |
 
-| 900304 | Képzőművészeti alkotások és védett kulturális javak restaurálása |
+| 902010 | Vándorcirkuszi előadóművészeti tevékenység |
 
-| 900305 | Független újságírói tevékenység |
+| 903 | Alkotó-, előadó-művészetet kiegészítő tevékenység |
 
-| 900306 | Képzőművészeti tevékenység (képzőművészeti alkotások készítése) |
+| 9031 | Művészeti létesítmények és helyszínek működtetése |
 
-| 900307 | Műfordítás |
+| 903101 | Művészeti létesítmények és helyszínek működtetése |
 
-| 9004 | Művészeti létesítmények működtetése |
+| 9039 | Egyéb alkotó-, előadó-művészetet kiegészítő tevékenység |
 
-| 900401 | Művészeti létesítmények működtetése |
+| 903901 | Egyéb alkotó-, előadó-művészetet kiegészítő tevékenység |
+
+| 903902 | Színpadi látványtechnika biztosítása |
+
+| 903903 | Hangosítás |
+
+| 903904 | Színpadi rendezői, produceri tevékenység |
+
+| 903905 | Jelmez- és díszlettervezés |
 
 | 91 | Könyvtári, levéltári, múzeumi, egyéb kulturális tevékenység |
 
-| 910 | Könyvtári, levéltári, múzeumi, egyéb kulturális tevékenység |
+| 911 | Könyvtári, levéltári tevékenység |
 
-| 9101 | Könyvtári, levéltári tevékenység |
+| 9111 | Könyvtári tevékenység |
 
-| 910101 | Könyvtári tevékenység |
+| 911101 | Könyvtári tevékenység |
 
-| 910102 | Levéltári tevékenység |
+| 9112 | Levéltári tevékenység |
 
-| 9102 | Múzeumi tevékenység |
+| 911201 | Levéltári tevékenység |
 
-| 910201 | Múzeumi tevékenység |
+| 912 | Múzeumi, gyűjteményi, történelmi helyszíni, műemléki tevékenységek |
 
-| 910202 | Múzeumi tárgyak és védett kulturális javak állagmegőrzése, konzerválása |
+| 9121 | Múzeumi, gyűjteményi tevékenység |
 
-| 9103 | Történelmi hely, építmény, egyéb látványosság működtetése |
+| 912101 | Múzeumi, gyűjteményi tevékenység m.n.s. |
 
-| 910301 | Történelmi hely, építmény, egyéb látványosság működtetése m.n.s. |
+| 912102 | Múzeumi tárgyak és védett kulturális javak állagmegőrzése, konzerválása |
 
-| 910302 | Helyi népművészeti, néprajzi, kézműves, építészeti és kulturális értékek, örökségek bemutatása |
+| 9122 | Történelmi helyszíni, műemléki tevékenység |
 
-| 9104 | Növény-, állatkert, természetvédelmi terület működtetése |
+| 912201 | Történelmi hely, építmény, egyéb látványosság működtetése m.n.s. |
 
-| 910401 | Növény-, állatkert, természetvédelmi terület működtetése |
+| 912202 | Helyi népművészeti, néprajzi, kézműves, építészeti és kulturális értékek, örökségek bemutatása |
+
+| 913 | Kulturális örökség megőrzését, helyreállítását támogató tevékenység |
+
+| 9130 | Kulturális örökség megőrzését, helyreállítását támogató tevékenység |
+
+| 913001 | Egyéb kulturális örökség megőrzését, helyreállítását támogató tevékenység |
+
+| 913002 | Orgona és más hangszer régiség javítása, restaurálása |
+
+| 913003 | Képzőművészeti alkotások és védett kulturális javak restaurálása |
+
+| 914 | Növény-, állatkert működtetése, természetvédelmi területtel kapcsolatos tevékenység |
+
+| 9141 | Növény-, állatkert működtetése |
+
+| 914101 | Növény-, állatkert működtetése |
+
+| 9142 | Természetvédelmi területtel kapcsolatos tevékenység |
+
+| 914201 | Természetvédelmi területtel kapcsolatos tevékenység |
 
 | 92 | Szerencsejáték, fogadás |
 
@@ -4664,13 +4792,13 @@
 
 | 9313 | Testedzési szolgáltatás |
 
-| 931302 | Fitneszklub, kondicionálóterem működtetése; aerobic |
+| 931301 | Edzőtermi szolgáltatás |
 
-| 9319 | Egyéb sporttevékenység |
+| 9319 | M.n.s. sporttevékenység |
 
-| 931901 | Sportrendezvény szervezése, lebonyolítása |
+| 931901 | Egyéb m.n.s. sporttevékenység |
 
-| 931902 | Egyéb m.n.s. sporttevékenység |
+| 931902 | Sportrendezvény szervezése, lebonyolítása |
 
 | 931903 | Sport- és szabadidős horgászat szervezése |
 
@@ -4682,15 +4810,13 @@
 
 | 932 | Egyéb szórakoztatás, szabadidős tevékenység |
 
-| 9321 | Vidámparki, szórakoztatóparki tevékenység |
+| 9321 | Vidámparki, tematikus parki tevékenység |
 
-| 932101 | Vásári, vidámparki szórakoztatás |
+| 932101 | Vidámparki, tematikus élményparki szolgáltatás |
 
-| 932102 | Vándor vidámparki szolgáltatás |
+| 9329 | M.n.s. szórakoztatás, szabadidős tevékenység |
 
-| 9329 | M.n.s. egyéb szórakoztatás, szabadidős tevékenység |
-
-| 932901 | Máshova nem sorolható, egyéb szabadidős tevékenység |
+| 932901 | M.n.s. egyéb szabadidős tevékenység |
 
 | 932902 | Játékautomata-üzemeltetés (nem pénznyerő) |
 
@@ -4706,189 +4832,225 @@
 
 | 932908 | Szabadidős közlekedési eszközhöz kapcsolódó létesítmények üzemeltetése (pl. sporthajókikötő) |
 
-| 95 | Számítógép, személyi, háztartási cikk javítása |
+| 95 | Számítógép, személyi, háztartási cikk, gépjármű, motorkerékpár javítása, karbantartása |
 
-| 951 | Számítógép, kommunikációs eszköz javítása |
+| 951 | Számítógép, kommunikációs eszköz javítása, karbantartása |
 
-| 9511 | Számítógép, -periféria javítása |
+| 9510 | Számítógép, kommunikációs eszköz javítása, karbantartása |
 
-| 951102 | Számítógép, -periféria javítása |
+| 951001 | Számítógép, -periféria javítása, karbantartása |
 
-| 9512 | Kommunikációs eszköz javítása |
+| 951002 | Mobiltelefon javítása, karbantartása |
 
-| 951201 | Mobiltelefon javítása |
+| 951003 | Kommunikációs eszközök javítása, karbantartása m.n.s. |
 
-| 951202 | Kommunikációs eszközök javítása m.n.s. |
+| 952 | Személyi, háztartási cikk javítása, karbantartása |
 
-| 952 | Személyi, háztartási cikk javítása |
+| 9521 | Szórakoztatóelektronikai cikk javítása, karbantartása |
 
-| 9521 | Szórakoztatóelektronikai cikk javítása |
+| 952101 | Szórakoztatóelektronikai cikk javítása, karbantartása |
 
-| 952101 | Szórakoztatóelektronikai cikk javítása |
-
-| 9522 | Háztartási gép, háztartási, kerti eszköz javítása |
+| 9522 | Háztartási gép, háztartási, kerti eszköz javítása, karbantartása |
 
 | 952201 | Háztartási villamos készülék üzembe helyezése |
 
-| 952202 | Mosógép javítása |
+| 952202 | Mosógép javítása, karbantartása |
 
-| 952203 | Hűtőgép javítása |
+| 952203 | Hűtőgép javítása, karbantartása |
 
-| 952204 | Egyéb háztartási villamos készülékek, cikkek javítása |
+| 952204 | Egyéb háztartási villamos készülékek, cikkek javítása, karbantartása |
 
-| 952205 | Nem villamos működtetésű háztartási, kerti eszköz javítása |
+| 952205 | Nem villamos működtetésű háztartási, kerti eszköz javítása, karbantartása |
 
-| 9523 | Lábbeli, egyéb bőráru javítása |
+| 9523 | Lábbeli, egyéb bőráru javítása, karbantartása |
 
-| 952301 | Lábbelijavítás |
+| 952301 | Lábbelijavítás, -karbantartás |
 
-| 952302 | Bőráru javítása |
+| 952302 | Bőráru javítása, karbantartása |
 
-| 9524 | Bútor, lakberendezési tárgy javítása |
+| 9524 | Bútor, lakberendezési tárgy javítása, karbantartása |
 
-| 952401 | Egyéb m.n.s. bútorjavítás |
+| 952401 | Egyéb m.n.s. bútorjavítás, -karbantartás |
 
-| 952402 | Konyhabútor-javítás |
+| 952402 | Konyhabútor-javítás, -karbantartás |
 
-| 952403 | Irodabútor-javítás |
+| 952403 | Irodabútor-javítás, -karbantartás |
 
 | 952404 | Ülőbútor újrakárpitozása |
 
-| 952405 | Ülőbútor-javítás |
+| 952405 | Ülőbútor-javítás, -karbantartás |
 
-| 9525 | Óra-, ékszerjavítás |
+| 9525 | Óra-, ékszerjavítás, -karbantartás |
 
-| 952501 | Órajavítás |
+| 952501 | Órajavítás, -karbantartás |
 
-| 952502 | Ékszerjavítás |
+| 952502 | Ékszerjavítás, -karbantartás |
 
-| 9529 | Egyéb személyi-, háztartási cikk javítása |
+| 9529 | M.n.s. személyi, háztartási cikk javítása, karbantartása |
 
-| 952901 | Egyéb háztartási és közszükségleti cikkek javítása |
+| 952901 | Egyéb háztartási és közszükségleti cikkek javítása, karbantartása |
 
 | 952902 | Gyártástól elkülönült gravírozási szolgáltatás |
 
 | 952903 | Kulcsmásolás |
 
+| 952904 | Professzionális sportberendezés javítása, karbantartása |
+
 | 952905 | Vegyes javítás |
 
 | 952906 | Késélezés, köszörülés, evőeszköz javítása |
 
-| 952907 | Mechanikus varrógép javítás |
+| 952907 | Mechanikus varrógép javítás, -karbantartás |
 
-| 952908 | Kerékpárjavítás |
+| 952908 | Kerékpárjavítás, -karbantartás |
 
-| 952910 | Hangszerjavítás |
+| 952909 | Háztartási célú fotó és optikai eszközök javítása, karbantartása |
+
+| 952910 | Hangszerjavítás, -karbantartás |
 
 | 952911 | Ruházati és egyéb konfekcionált termékek javítása |
 
-| 952912 | Töltőtolljavítás |
+| 952912 | Gyógyászati segédeszköz javítása, karbantartása |
 
-| 952913 | Öngyújtótöltés, javítás |
+| 952913 | Házaló javító szolgáltatás |
 
-| 952914 | Házaló javító szolgáltatás |
+| 952914 | Töltőtolljavítás |
 
-| 952915 | Patentozás, riglizés, szegecselés |
+| 953 | Gépjármű, motorkerékpár javítása, karbantartása |
 
-| 952917 | Háztartási célú fotó és optikai eszközök javítása |
+| 9531 | Gépjármű javítása, karbantartása |
 
-| 952918 | Professzionális sportberendezés javítása |
+| 953101 | Személygépkocsi általános karbantartása, -javítása |
 
-| 952919 | Kempingcikk, vitorlavászon javítása |
+| 953102 | Gumiabroncs, -tömlő javítása, centrírozása |
 
-| 952920 | Gyógyászati segédeszköz javítása |
+| 953103 | Gépjárműkarosszéria-, tartozék-javítás |
 
-| 96 | Egyéb személyi szolgáltatás |
+| 953104 | Egyéb gépjármű javítása és karbantartása |
 
-| 960 | Egyéb személyi szolgáltatás |
+| 953105 | Gépjármű elektromos rendszerének javítása |
 
-| 9601 | Textil, szőrme mosása, tisztítása |
+| 953106 | Gépjárműmosás |
 
-| 960101 | Mosás, vegytisztítás, vasalás |
+| 953107 | Szélvédő helyszíni karcmentesítése, rendszám gravírozása a gépkocsi szélvédőjére vagy más részeire |
 
-| 960102 | Ruhafestés, -színezés |
+| 953108 | Gépjármű részegység és alkatrész javítása |
 
-| 960103 | Mosodai gyűjtőszolgálat |
+| 9532 | Motorkerékpár javítása, karbantartása |
 
-| 960104 | Mosás, vasalás háztartásnál |
+| 953201 | Motorkerékpár-javítás, -karbantartás |
 
-| 9602 | Fodrászat, szépségápolás |
+| 953202 | Motorkerékpár részegység és alkatrész javítása |
 
-| 960201 | Férfifodrászat |
+| 954 | Számítógép, személyi, háztartási cikk, gépjármű, motorkerékpár javításának, karbantartásának közvetítése |
 
-| 960202 | Férfi-, női, gyermekfodrászat |
+| 9540 | Számítógép, személyi, háztartási cikk, gépjármű, motorkerékpár javításának, karbantartásának közvetítése |
 
-| 960203 | Kozmetika, szépségápolás |
+| 954001 | Számítógép, személyi, háztartási cikk, gépjármű, motorkerékpár javításának, karbantartásának közvetítése |
 
-| 960204 | Női fodrászat |
+| 96 | Személyi szolgáltatás |
 
-| 960205 | Hajmosás |
+| 961 | Textil, szőrme mosása, tisztítása |
 
-| 960207 | Fodrászat az ügyfél otthonában |
+| 9610 | Textil, szőrme mosása, tisztítása |
 
-| 960208 | Kozmetika, szépségápolás az ügyfél otthonában |
+| 961001 | Mosás, vegytisztítás, vasalás |
 
-| 960210 | Sminkelés, műszempilla-építés |
+| 961002 | Ruhafestés, -színezés |
 
-| 960211 | Sminkelés az ügyfél otthonában |
+| 961003 | Mosás, tisztítás, vasalás háztartásnál |
 
-| 960212 | Hajfonás, hajhosszabbítás |
+| 962 | Fodrászat, szépségápolás, fürdőszolgáltatás |
 
-| 960213 | Lábápolás |
+| 9621 | Fodrászat |
 
-| 960214 | Lábápolás az ügyfél otthonában |
+| 962101 | Női fodrászat |
 
-| 960215 | Speciális lábápolás |
+| 962102 | Férfifodrászat |
 
-| 960216 | Speciális lábápolás az ügyfél otthonában |
+| 962103 | Férfi-, női, gyermekfodrászat |
 
-| 960217 | Kéz ápolás, műkörömépítés |
+| 962104 | Fodrászat az ügyfél otthonában |
 
-| 960218 | Kézápolás és műkörömépítés az ügyfél otthonában |
+| 962105 | Hajmosás |
 
-| 960219 | Tartós smink készítése (sminktetoválás) |
+| 962106 | Hajfonás, hajhosszabbítás |
 
-| 9603 | Temetkezés, temetkezést kiegészítő szolgáltatás |
+| 9622 | Szépségápolás |
 
-| 960301 | A temető fenntartása, üzemeltetése |
+| 962201 | Kozmetika, szépségápolás |
 
-| 960302 | A temetés előkészítése, temetés, hamvasztás |
+| 962202 | Kozmetika, szépségápolás az ügyfél otthonában |
 
-| 9604 | Fizikai közérzetet javító szolgáltatás |
+| 962203 | Sminkelés, műszempilla-építés |
 
-| 960401 | Frissítő, relaxáló masszázs |
+| 962204 | Sminkelés az ügyfél otthonában |
 
-| 960402 | Szoláriumkezelés |
+| 962205 | Tartós smink készítése (sminktetoválás) |
 
-| 960403 | Fürdő szolgáltatás |
+| 962206 | Kézápolás, műkörömépítés |
 
-| 960404 | Fizikai közérzetet javító szolgáltatás m.n.s. |
+| 962207 | Kézápolás és műkörömépítés az ügyfél otthonában |
 
-| 9609 | M.n.s. egyéb személyi szolgáltatás |
+| 962208 | Lábápolás |
 
-| 960901 | M.n.s. egyéb személyi szolgáltatás |
+| 962209 | Lábápolás az ügyfél otthonában |
 
-| 960902 | Illemhely üzemeltetése |
+| 9623 | Fürdő-, szauna-, gőzfürdő-szolgáltatás |
 
-| 960903 | Partnerközvetítés, társkeresés |
+| 962301 | Fürdő szolgáltatás |
 
-| 960904 | Grafológus szolgáltatás |
+| 962302 | Szoláriumkezelés |
 
-| 960905 | Ruhatáros, csomagmegőrző, kabinos szolgáltatás |
+| 962303 | Frissítő, relaxáló masszázs |
 
-| 960906 | Asztrológiai, spiritiszta szolgáltatás |
+| 962304 | Fizikai közérzetet javító szolgáltatás m.n.s. |
 
-| 960908 | Hordár szolgáltatás |
+| 963 | Temetkezés, temetkezést kiegészítő szolgáltatás |
 
-| 960909 | Hobbiállat-gondozás, -idomítás |
+| 9630 | Temetkezés, temetkezést kiegészítő szolgáltatás |
 
-| 960910 | Kutyakiképzés biztonsági célra |
+| 963001 | Temetkezés, temetkezést kiegészítő szolgáltatás |
 
-| 960911 | Állatkozmetika |
+| 964 | Személyi szolgáltatás közvetítése |
 
-| 960912 | Tetoválás, testékszer-felhelyezés |
+| 9640 | Személyi szolgáltatás közvetítése |
 
-| 960913 | Hosztesz szolgáltatás |
+| 964001 | Személyi szolgáltatás közvetítése |
+
+| 969 | Egyéb személyi szolgáltatás |
+
+| 9691 | Háztartásban nyújtott személyi szolgáltatás |
+
+| 969101 | Háztartásban nyújtott személyi szolgáltatás |
+
+| 9699 | M.n.s. egyéb személyi szolgáltatás |
+
+| 969901 | Egyéb személyi szolgáltatás m.n.s. |
+
+| 969902 | Esküvőszervezői szolgáltatás |
+
+| 969903 | Partnerközvetítés, társkeresés |
+
+| 969904 | Grafológus szolgáltatás |
+
+| 969905 | Ruhatáros, csomagmegőrző, kabinos szolgáltatás |
+
+| 969906 | Asztrológiai, spiritiszta szolgáltatás |
+
+| 969907 | Hordár szolgáltatás |
+
+| 969908 | Hobbiállat-gondozás, -idomítás |
+
+| 969909 | Kutyakiképzés biztonsági célra |
+
+| 969910 | Állatkozmetika |
+
+| 969911 | Tetoválás, testékszer-felhelyezés |
+
+| 969912 | Hosztesz szolgáltatás |
+
+| 969913 | Nyilvános illemhely üzemeltetése |
 
 | 97 | Háztartási alkalmazottat foglalkoztató magánháztartás |
 
@@ -4906,4 +5068,4 @@
 
 | 990001 | Külföldi képviseletet ellátó személy |
 
-[^6]: Az 1. melléklet az 1/2024. (II. 29.) MK rendelet 1. §-ával megállapított szöveg.
+[^6]: Az 1. melléklet a 14/2024. (XI. 28.) MK rendelet 2. §-ával megállapított szöveg.
