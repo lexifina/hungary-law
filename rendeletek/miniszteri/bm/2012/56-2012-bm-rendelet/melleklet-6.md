@@ -12,9 +12,9 @@
 
 | 6. | biztonsági gépkocsivezető | + | + | + | + | + |
 
-| 7. | objektumőr |  | + |  |  |  |
+| 7. | objektumőr I., objektumőr II.[^405] |  | + |  |  |  |
 
-6. melléklet az 56/2012. (XI. 22.) BM rendelethez[^306]
+6. melléklet az 56/2012. (XI. 22.) BM rendelethez[^406]
 
 Az Országgyűlési Őrség hivatásos állományú tagjai szolgálati jelvényének leírása:
 
@@ -24,9 +24,10 @@ Az Országgyűlési Őrség hivatásos állományú tagjai szolgálati jelvény�
 
 ## A kör alakú jelvény mezőben – amelyet a nemzeti színek szegélyeznek – az Országház sziluettje, az „Országgyűlési Őrség” felirat, valamint a négy számjegyű egyedi azonosító olvasható és látható arany és bordó színnel megjelenítve.
 
-6. melléklet az 56/2012. (XI. 22.) BM rendelethez[^307]
+6. melléklet az 56/2012. (XI. 22.) BM rendelethez[^407]
 
 A 2015. június 30-án szolgálati viszonyban álló, nem vezetői beosztást betöltő hivatásos állomány vonatkozásában az illetményemelkedés szempontjából az Országgyűlési Őrség alapfeladatába tartozó szolgálati beosztások
 
-[^306]: A 6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 36/2015. (VI. 16.) BM rendelet 10. §-a iktatta be.
-[^307]: A újabb 6. mellékletet a 38/2015. (VI. 18.) BM rendelet 15. §-a iktatta be.
+[^405]: Az 5. mellékletben foglalt táblázat A:7 mezője a 60/2024. (XII. 23.) BM rendelet 38. § (5) bekezdésével megállapított szöveg.
+[^406]: A 6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 36/2015. (VI. 16.) BM rendelet 10. §-a iktatta be.
+[^407]: A újabb 6. mellékletet a 38/2015. (VI. 18.) BM rendelet 15. §-a iktatta be.

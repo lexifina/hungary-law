@@ -40,7 +40,7 @@
 
 | 20. | IV. | beosztott tűzoltó |
 
-7. melléklet az 56/2012. (XI. 22.) BM rendelethez[^308]
+7. melléklet az 56/2012. (XI. 22.) BM rendelethez[^408]
 
 A Szolgálati Jel leírása
 
@@ -48,6 +48,7 @@ A Szolgálati Jel leírása
 
 2. A Szolgálati Jel szalagja parlamenti bordó színű, közepén egy 16×8 milliméteres, ezüstözött, Országházat mintázó díszítéssel.
 
-3. A Szolgálati Jel eredeti formában csak dísz- és társasági öltözeten viselhető. A kitüntetést a bal felső zubbonyzseb fölé úgy kell elhelyezni, hogy az alsó széle a zsebtakaró felső varrását érintse. A kitüntetést úgy kell viselni, hogy a zsebtakaró középvonalával egybeessen. A kitűzőváltozat a köznapi, a szolgálati és a megengedett öltözeten is viselhető a fentiek szerint.
+3.[^409]
 
-[^308]: A 7. mellékletet a 38/2020. (X. 14.) BM rendelet 17. §-a iktatta be.
+[^408]: A 7. mellékletet a 38/2020. (X. 14.) BM rendelet 17. §-a iktatta be.
+[^409]: A 7. melléklet 3. pontját a 60/2024. (XII. 23.) BM rendelet 40. § 22. pontja hatályon kívül helyezte.

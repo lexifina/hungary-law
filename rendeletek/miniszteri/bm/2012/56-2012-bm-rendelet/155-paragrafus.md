@@ -1,3 +1,3 @@
-## 154/A. §[^285] E rendeletnek az egyes belügyminiszteri rendeletek humánigazgatási és egyéb belügyi tárgyú módosításáról szóló 4/2022. (III. 25.) BM rendelettel megállapított 11/A. alcímét a 2022. augusztus 1-jét követően létrejött szolgálati viszonyra kell alkalmazni. Az Országgyűlési Őrségnél 2022. július 31-én szolgálati viszonyban állók esetében a Hszt. 361/A. §-a alapján kell eljárni.
+## 154/A. §[^360] E rendeletnek az egyes belügyminiszteri rendeletek humánigazgatási és egyéb belügyi tárgyú módosításáról szóló 4/2022. (III. 25.) BM rendelettel megállapított 11/A. alcímét a 2022. augusztus 1-jét követően létrejött szolgálati viszonyra kell alkalmazni. Az Országgyűlési Őrségnél 2022. július 31-én szolgálati viszonyban állók esetében a Hszt. 361/A. §-a alapján kell eljárni.
 
-[^285]: A 154/A. §-t a 4/2022. (III. 25.) BM rendelet 8. §-a iktatta be.
+[^360]: A 154/A. §-t a 4/2022. (III. 25.) BM rendelet 8. §-a iktatta be.

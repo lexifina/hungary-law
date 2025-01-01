@@ -1,23 +1,48 @@
-5. § (1)[^16] A felvételi eljárás során beszerzett adatok alapján az Országgyűlési Őrség parancsnoka dönt a hivatásos állományba vételről. Ha a kinevezésre nem az Országgyűlési Őrség parancsnoka jogosult, a felvételi eljárásban keletkezett iratokat – amennyiben kizáró ok nem merült fel és a szolgálati beosztás betöltéséhez szükséges illetmény fedezete rendelkezésre áll – a kinevezési javaslatával az Országgyűlés elnökéhez – a köztársasági elnökhöz történő előterjesztésnek a miniszterelnöknél történő kezdeményezése érdekében – felterjeszti.
+5. § (1)[^12] A felvételi eljárás során beszerzett adatok alapján az Országgyűlési Őrség parancsnoka dönt a hivatásos állományba vételről. Ha a kinevezésre nem az Országgyűlési Őrség parancsnoka jogosult, a felvételi eljárásban keletkezett iratokat – amennyiben kizáró ok nem merült fel, a jelentkező a szolgálati viszony létesítéséhez szükséges feltételeknek megfelel és a szolgálati beosztás betöltéséhez szükséges illetmény fedezete rendelkezésre áll – a kinevezési javaslatával az Országgyűlés elnökéhez – a köztársasági elnökhöz történő előterjesztésnek a miniszterelnöknél történő kezdeményezése érdekében – felterjeszti.
 
-(2)[^17] A kinevezési javaslathoz csatolni kell a humánigazgatási szakszolgálat által elkészített
+(2)[^13] A kinevezési javaslathoz csatolni kell
 
-a) kinevezési okmány-tervezetet (állományparancs vagy határozat),
+a) a humánigazgatási szakszolgálat által előkészített kinevezési okmány – amely lehet állományparancs vagy határozat – tervezetét,
 
-b) esküokmányt,
+b) a kinevezés feltételeként meghatározott egészségi, pszichológiai és fizikai alkalmasságot igazoló okiratok másolatát,
 
-c) a betöltendő szolgálati beosztáshoz tartozó szolgálati feladatok vagy a betöltendő munkakör munkaköri leírását, valamint
+c) a betöltendő szolgálati beosztás ellátásához szükséges iskolai végzettséget, szakképzettséget és szakképesítést igazoló okiratok másolatát,
 
-d) az illetmény fedezetének rendelkezésre állására vonatkozó nyilatkozatot.
+d) a humánigazgatási szakszolgálat által előkészített esküokmányt,
 
-(3)[^18] Az Országgyűlési Őrség parancsnoka a hivatásos szolgálatba kinevezésről szóló kiadmányozott állományparancsot az esküokmánnyal együtt – a humánigazgatási szakszolgálat munkatársa és a kinevezett szolgálati elöljárója jelenlétében – a jelentkezőnek átadja, aki a jelenlévők előtt az eskü szövegét hangosan felolvasva az esküt leteszi, majd azt aláírja a kinevezést elfogadó nyilatkozattal együtt.
+e) a betöltendő szolgálati beosztáshoz tartozó szolgálati feladatok vagy a betöltendő munkakör munkaköri leírásának tervezetét, valamint
 
-(4)[^19] A humánigazgatási szakszolgálat az aláírt esküokmányt az állományparancs vagy határozat mellékleteként a személyi anyagban helyezi el és kezeli.
+f) az illetmény fedezetének rendelkezésre állására vonatkozó nyilatkozatot.
 
-(5)[^20] A szolgálati viszony létesítésére vonatkozó eljárási szabályokat a hivatásos állományba visszavétellel, más rendvédelmi szervtől áthelyezéssel vagy köztisztviselői állományból áthelyezéssel történő szolgálati viszony létesítésekor is alkalmazni kell. Az Országgyűlési Őrség parancsnokának munkáltatói jogkörébe nem tartozó esetben a munkáltatói intézkedés meghozatalára irányuló javaslatot az Országgyűlési Őrség parancsnoka az Országgyűlés elnökéhez – a munkáltatói jogkörébe tartozó intézkedés meghozatala vagy a köztársasági elnökhöz történő előterjesztésnek a miniszterelnöknél történő kezdeményezése érdekében – felterjeszti.
+(3)[^14] Az Országgyűlési Őrség parancsnoka a hivatásos szolgálatba kinevezésről szóló kiadmányozott állományparancsot az esküokmánnyal együtt – a humánigazgatási szakszolgálat munkatársa és a kinevezett szolgálati elöljárója jelenlétében – a jelentkezőnek átadja, aki a jelenlévők előtt az eskü szövegét hangosan felolvasva az esküt leteszi, majd azt aláírja a kinevezést elfogadó nyilatkozattal együtt.
 
-[^16]: Az 5. § (1) bekezdése a 38/2015. (VI. 18.) BM rendelet 17. § 8. pontja szerint módosított szöveg.
-[^17]: Az 5. § (2) bekezdés nyitó szövegrésze a 38/2020. (X. 14.) BM rendelet 19. § b) pontja szerint módosított szöveg.
-[^18]: Az 5. § (3) bekezdése a 38/2020. (X. 14.) BM rendelet 19. § c) pontja szerint módosított szöveg.
-[^19]: Az 5. § (4) bekezdése a 38/2020. (X. 14.) BM rendelet 19. § b) pontja szerint módosított szöveg.
-[^20]: Az 5. § (5) bekezdése a 38/2015. (VI. 18.) BM rendelet 17. § 9. pontja szerint módosított szöveg.
+(4)[^15] A humánigazgatási szakszolgálat az aláírt esküokmányt az állományparancs vagy határozat mellékleteként a személyi anyagban helyezi el és kezeli.
+
+(5)[^16] A szolgálati viszony létesítésére vonatkozó eljárási szabályokat megfelelően alkalmazni kell akkor is, ha a szolgálati viszony létesítése
+
+a) más rendvédelmi szervtől történő áthelyezéssel,
+
+b) a Magyar Honvédség hivatásos katonai állományából vagy a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti adó- és vámhatósági szolgálati jogviszonyból történő áthelyezéssel,
+
+c) kormányzati szolgálati jogviszonyból, közszolgálati jogviszonyból, közalkalmazotti jogviszonyból, rendvédelmi igazgatási szolgálati jogviszonyból, egészségügyi szolgálati jogviszonyból vagy igazságügyi alkalmazotti jogviszonyból áthelyezéssel,
+
+d) szerződéses határvadász jogviszonyból áthelyezéssel vagy
+
+e) a hivatásos állományba visszavétellel
+
+történik.
+
+(6)[^17] Az (5) bekezdés szerinti, az Országgyűlési Őrség parancsnokának munkáltatói jogkörébe nem tartozó esetben a munkáltatói intézkedés meghozatalára irányuló javaslatot az Országgyűlési Őrség parancsnoka az Országgyűlés elnökéhez – a munkáltatói jogkörébe tartozó intézkedés meghozatala vagy a köztársasági elnökhöz történő előterjesztésnek a miniszterelnöknél történő kezdeményezése érdekében – felterjeszti.
+
+(7)[^18] Az (5) bekezdés a)–d) pontja szerinti áthelyezés esetén az átvevő szerv az áthelyezésről szóló megállapodás megkötését megelőzően megállapítja, hogy az áthelyezéssel érintett megfelel-e a tervezett szolgálati beosztáshoz előírt alkalmassági feltételeknek.
+
+(8)[^19] Az Országgyűlési Őrségnél köztisztviselőként foglalkoztatott személy áthelyezéssel történő hivatásos állományba vételekor csak olyan adatra nézve lehet az érintettől nyilatkozatot vagy okmány bemutatását, csatolását megkövetelni, amely a személyi anyagában vagy a személyügyi nyilvántartásban nem szerepel.
+
+[^12]: Az 5. § (1) bekezdése a 38/2015. (VI. 18.) BM rendelet 17. § 8. pontja, a 60/2024. (XII. 23.) BM rendelet 39. § 2. pontja szerint módosított szöveg.
+[^13]: Az 5. § (2) bekezdése a 60/2024. (XII. 23.) BM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^14]: Az 5. § (3) bekezdése a 38/2020. (X. 14.) BM rendelet 19. § c) pontja szerint módosított szöveg.
+[^15]: Az 5. § (4) bekezdése a 38/2020. (X. 14.) BM rendelet 19. § b) pontja szerint módosított szöveg.
+[^16]: Az 5. § (5) bekezdése a 60/2024. (XII. 23.) BM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^17]: Az 5. § (6) bekezdését a 60/2024. (XII. 23.) BM rendelet 4. § (3) bekezdése iktatta be.
+[^18]: Az 5. § (7) bekezdését a 60/2024. (XII. 23.) BM rendelet 4. § (3) bekezdése iktatta be.
+[^19]: Az 5. § (8) bekezdését a 60/2024. (XII. 23.) BM rendelet 4. § (3) bekezdése iktatta be.

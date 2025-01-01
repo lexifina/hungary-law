@@ -78,29 +78,29 @@
 
 | 3. | szolgálat- parancsnok | érettségi végzettség | rendőr tiszthelyettes szakképzettség | nem szükséges | beosztáshoz előírt szaktanfolyam |
 
-| 4. | szakreferens | érettségi végzettség | rendőr tiszthelyettes szakképzettség | nem szükséges | beosztáshoz előírt szaktanfolyam |
+| 4. | szakreferens | érettségi végzettség | rendőr tiszthelyettes szakképzettség | nem szükséges, illetve az informatikai, híradó- és biztonságtechnikai feladatokra rendszeresített szolgálati beosztásoknál a beosztásnak megfelelő szakképesítés szükséges[^383] | beosztáshoz előírt szaktanfolyam |
 
-| 5. | szolgálat- parancsnok- helyettes | érettségi végzettség | rendőr tiszthelyettes szakképzettség | nem szükséges | beosztáshoz előírt szaktanfolyam |
+| 5. | szolgálat- parancsnok- helyettes | érettségi végzettség | rendőr tiszthelyettes szakképzettség, közbiztonsági rendőrjárőr szakképesítés[^384] | nem szükséges | beosztáshoz előírt szaktanfolyam |
 
 | 6. | ügyeletes | érettségi végzettség | rendőr tiszthelyettes szakképzettség | nem szükséges | beosztáshoz előírt szaktanfolyam |
 
-| 7. | főreferens | érettségi végzettség | rendőr tiszthelyettes szakképzettség | nem szükséges | beosztáshoz előírt szaktanfolyam |
+| 7. | főreferens | érettségi végzettség | rendőr tiszthelyettes szakképzettség, közbiztonsági rendőrjárőr szakképesítés[^385] | nem szükséges | beosztáshoz előírt szaktanfolyam |
 
-| 8. | technikus | érettségi végzettség | rendőr tiszthelyettes szakképzettség | nem szükséges | beosztáshoz előírt szaktanfolyam |
+| 8. | technikus | érettségi végzettség | rendőr tiszthelyettes szakképzettség, közbiztonsági rendőrjárőr szakképesítés[^386] | nem szükséges | beosztáshoz előírt szaktanfolyam |
 
-| 9. | helyszínbiztosító | érettségi végzettség | rendőr tiszthelyettes szakképzettség | nem szükséges | beosztáshoz előírt szaktanfolyam |
+| 9. | helyszínbiztosító | érettségi végzettség | rendőr tiszthelyettes szakképzettség, közbiztonsági rendőrjárőr szakképesítés[^387] | nem szükséges | beosztáshoz előírt szaktanfolyam |
 
-| 10. | lakásbiztosító | érettségi végzettség | rendőr tiszthelyettes szakképzettség | nem szükséges | beosztáshoz előírt szaktanfolyam |
+| 10. | lakásbiztosító | érettségi végzettség | rendőr tiszthelyettes szakképzettség, közbiztonsági rendőrjárőr szakképesítés[^388] | nem szükséges | beosztáshoz előírt szaktanfolyam |
 
-| 11. | biztonsági gépkocsivezető | érettségi végzettség | rendőr tiszthelyettes szakképzettség | nem szükséges | beosztáshoz előírt szaktanfolyam |
+| 11. | biztonsági gépkocsivezető | érettségi végzettség | rendőr tiszthelyettes szakképzettség, közbiztonsági rendőrjárőr szakképesítés[^389] | nem szükséges | beosztáshoz előírt szaktanfolyam |
 
-| 12. | objektumőr I. | érettségi végzettség | rendőr tiszthelyettes szakképzettség | nem szükséges | beosztáshoz előírt szaktanfolyam |
+| 12. | objektumőr I. | érettségi végzettség | rendőr tiszthelyettes szakképzettség, közbiztonsági rendőrjárőr szakképesítés[^390] | nem szükséges | beosztáshoz előírt szaktanfolyam |
 
-| 13. | objektumőr II. | érettségi végzettség | rendőr tiszthelyettes szakképzettség | nem szükséges | beosztáshoz előírt szaktanfolyam |
+| 13. | objektumőr II. | érettségi végzettség | rendőr tiszthelyettes szakképzettség, közbiztonsági rendőrjárőr szakképesítés[^391] | nem szükséges | beosztáshoz előírt szaktanfolyam |
 
-| 14. | járőr I. | érettségi végzettség | rendőr tiszthelyettes szakképzettség | nem szükséges | beosztáshoz előírt szaktanfolyam |
+| 14. | járőr I. | érettségi végzettség | rendőr tiszthelyettes szakképzettség, közbiztonsági rendőrjárőr szakképesítés[^392] | nem szükséges | beosztáshoz előírt szaktanfolyam |
 
-| 15. | járőr II. | érettségi végzettség | rendőr tiszthelyettes szakképzettség | nem szükséges | beosztáshoz előírt szaktanfolyam |
+| 15. | járőr II. | érettségi végzettség | rendőr tiszthelyettes szakképzettség, közbiztonsági rendőrjárőr szakképesítés[^393] | nem szükséges | beosztáshoz előírt szaktanfolyam |
 
 ## 5. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások képesítési követelményei a nem alapfeladatokat ellátók esetében
 
@@ -124,7 +124,7 @@
 
 ## 6.1.2.1. Legalább főiskolai végzettség vagy felsőoktatásban alapképzési szakon szerzett végzettség (BSc, BA).
 
-## 6.1.2.2. Az informatikai, híradó- és biztonságtechnikai feladatokra rendszeresített kiemelt főreferens, főmérnök, mérnök szolgálati beosztásokban felsőfokú végzettségként kizárólag felsőoktatásban szerzett egyetemi vagy főiskolai villamos-, biztonságtechnikai mérnök, mérnök-informatikus felsőfokú végzettség fogadható el.
+## 6.1.2.2.[^394] Az informatikai, híradó- és biztonságtechnikai feladatokra rendszeresített osztályvezető-helyettes, kiemelt főreferens, főmérnök, mérnök szolgálati beosztásokban felsőfokú végzettségként kizárólag felsőoktatásban szerzett egyetemi vagy főiskolai villamos-, biztonságtechnikai mérnök, mérnök-informatikus, telekommunikációs mérnök felsőfokú végzettség fogadható el.
 
 ## 6.1.3. Szakirányú felsőfokú végzettség a felsőoktatásban szerezhető egyes pedagógusképesítések jegyzékéről és egyes, a felsőoktatást érintő kormányrendeletek módosításáról szóló 830/2021. (XII. 29.) Korm. rendeletben és a felsőoktatásban szerezhető képesítések jegyzékéről és az új képzések létesítéséről szóló 65/2021. (XII. 29.) ITM rendeletben szereplő felsőfokú képzettségek valamelyike
 
@@ -158,7 +158,7 @@
 
 ## 6.3.2.1. A szakképzésről szóló 2019. évi LXXX. törvény 15. § (1) bekezdésében foglaltakra figyelemmel, a szakképzésről szóló 2019. évi LXXX. törvény 10. §-a szerinti szakmajegyzékben vagy más jogszabályban a szolgálati beosztás ellátására vonatkozó, szakterületének megfelelő legalább középfokú szakképzettség, egyéb képesítés.
 
-## 6.3.2.2. Az informatikai, híradó- és biztonságtechnikai feladatokra rendszeresített technikus szolgálati beosztásban egyéb szakképzettségként középfokú informatikai vagy műszaki végzettség fogadható el.
+## 6.3.2.2.[^395] Az informatikai, híradó- és biztonságtechnikai feladatokra rendszeresített szakreferens szolgálati beosztásban egyéb szakképzettségként középfokú informatikai vagy műszaki végzettség fogadható el.
 
 ## 6.4. Egyéb rendészeti képesítési követelmény
 
@@ -362,7 +362,7 @@
 
 ## 7.7. Ha a tűzoltás vezetői jogosultság megszerzése a 7.6.1. pont szerint történt, akkor a beosztást betöltő személynek a tűzoltás vezetői jogosultság megszerzésétől számított 5 éven belül meg kell szereznie a legalább középszintű (tűzoltó szerparancsnok) szakmai képesítést. Ha a szakmai képesítés megszerzésére határidőben nem kerül sor, a beosztást betöltő személy a továbbiakban a tűzoltás, műszaki mentés vezetési jogosultsághoz kötött beosztást nem töltheti be.”
 
-3. melléklet az 56/2012. (XI. 22.) BM rendelethez[^301]
+3. melléklet az 56/2012. (XI. 22.) BM rendelethez[^396]
 
 Az Országgyűlési Őrségnél idegennyelv-tudási pótlékra jogosító szolgálati beosztások
 
@@ -378,4 +378,17 @@ Az Országgyűlési Őrségnél idegennyelv-tudási pótlékra jogosító szolg�
 
 6. az Országgyűlési Őrség parancsnoka által meghatározott egyéb szolgálati beosztások, ahol az idegen nyelv használata a szolgálat ellátásához szükséges
 
-[^301]: A 3. melléklet a 9/2018. (IV. 25.) BM rendelet 17. § (3) bekezdésével megállapított szöveg.
+[^383]: A 2. melléklet 4. pontjában foglalt táblázat D:4 mezője a 60/2024. (XII. 23.) BM rendelet 38. § (2) bekezdése szerint módosított szöveg.
+[^384]: A 2. melléklet 4. pontjában foglalt táblázat C:5 mezője a 60/2024. (XII. 23.) BM rendelet 38. § (2) bekezdése szerint módosított szöveg.
+[^385]: A 2. melléklet 4. pontjában foglalt táblázat C:7 mezője a 60/2024. (XII. 23.) BM rendelet 38. § (2) bekezdése szerint módosított szöveg.
+[^386]: A 2. melléklet 4. pontjában foglalt táblázat C:8 mezője a 60/2024. (XII. 23.) BM rendelet 38. § (2) bekezdése szerint módosított szöveg.
+[^387]: A 2. melléklet 4. pontjában foglalt táblázat C:9 mezője a 60/2024. (XII. 23.) BM rendelet 38. § (2) bekezdése szerint módosított szöveg.
+[^388]: A 2. melléklet 4. pontjában foglalt táblázat C:10 mezője a 60/2024. (XII. 23.) BM rendelet 38. § (2) bekezdése szerint módosított szöveg.
+[^389]: A 2. melléklet 4. pontjában foglalt táblázat C:11 mezője a 60/2024. (XII. 23.) BM rendelet 38. § (2) bekezdése szerint módosított szöveg.
+[^390]: A 2. melléklet 4. pontjában foglalt táblázat C:12 mezője a 60/2024. (XII. 23.) BM rendelet 38. § (2) bekezdése szerint módosított szöveg.
+[^391]: A 2. melléklet 4. pontjában foglalt táblázat C:13 mezője a 60/2024. (XII. 23.) BM rendelet 38. § (2) bekezdése szerint módosított szöveg.
+[^392]: A 2. melléklet 4. pontjában foglalt táblázat C:14 mezője a 60/2024. (XII. 23.) BM rendelet 38. § (2) bekezdése szerint módosított szöveg.
+[^393]: A 2. melléklet 4. pontjában foglalt táblázat C:15 mezője a 60/2024. (XII. 23.) BM rendelet 38. § (2) bekezdése szerint módosított szöveg.
+[^394]: A 2. melléklet 6.1.2.2. pontja a 60/2024. (XII. 23.) BM rendelet 38. § (2) bekezdésével megállapított szöveg.
+[^395]: A 2. melléklet 6.3.2.2. pontja a 60/2024. (XII. 23.) BM rendelet 39. § 56. pontja szerint módosított szöveg.
+[^396]: A 3. melléklet a 9/2018. (IV. 25.) BM rendelet 17. § (3) bekezdésével megállapított szöveg.

@@ -1,4 +1,4 @@
-3/A. melléklet az 56/2012. (XI. 22.) BM rendelethez[^302]
+3/A. melléklet az 56/2012. (XI. 22.) BM rendelethez[^397]
 
 Az Országgyűlési Őrség őrszolgálati, folyamatos ügyeleti szolgálat ellátására szervezett és készenléti jellegű szolgálati beosztásai
 
@@ -26,6 +26,8 @@ Az Objektumvédelmi Igazgatóság Objektumvédelmi Készenléti Főosztály Ügy
 
 2.3. ügyeletes.
 
+2.4.[^398] osztályvezető-helyettes.
+
 3. Készenléti jellegű szolgálati beosztások
 
 3.1. Az Objektumvédelmi Igazgatóság Objektumvédelmi Készenléti Főosztály Tűzbiztonsági Osztályon betöltött következő szolgálati beosztások:
@@ -38,6 +40,8 @@ Az Objektumvédelmi Igazgatóság Objektumvédelmi Készenléti Főosztály Ügy
 
 3.1.4. szolgálatparancsok-helyettes.
 
-3.2. A Személyvédelmi Igazgatóság Személybiztosító Osztály valamennyi szolgálati beosztása, az osztályvezető szolgálati beosztás kivételével.
+3.2.[^399] A Személyvédelmi Igazgatóság valamennyi szolgálati beosztása, az igazgató, a főosztályvezető és az osztályvezető szolgálati beosztás kivételével.
 
-[^302]: A 3/A. mellékletet a 9/2018. (IV. 25.) BM rendelet 17. § (4) bekezdése iktatta be, szövege a 3/2022. (III. 11.) BM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^397]: A 3/A. mellékletet a 9/2018. (IV. 25.) BM rendelet 17. § (4) bekezdése iktatta be, szövege a 3/2022. (III. 11.) BM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^398]: A 3/A. melléklet 2.4. pontját a 60/2024. (XII. 23.) BM rendelet 38. § (3) bekezdése iktatta be.
+[^399]: A 3/A. melléklet 3.2. pontja a 60/2024. (XII. 23.) BM rendelet 38. § (3) bekezdésével megállapított szöveg.

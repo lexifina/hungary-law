@@ -1,6 +1,6 @@
 ## 18. A fegyveres szerv kártérítési felelősségének megállapítására irányuló kártérítési eljárás
 
-130. § (1)[^277]
+130. § (1)[^350]
 
 (2) A szolgálati hely sajátosságai figyelembevételével az Országgyűlési Őrség parancsnoka külön előírhatja a szolgálati helyre bevitt dolgok megőrzőben való elhelyezését, illetve a bevitel bejelentését. Az engedély alapján bevitt dolgot csak az engedélyező által meghatározott helyen lehet használni, illetve tartani.
 
@@ -8,4 +8,4 @@
 
 (4) A károsult vétkes közrehatása esetén kármegosztásnak van helye.
 
-[^277]: A 130. § (1) bekezdését a 36/2015. (VI. 16.) BM rendelet 11. § (2) bekezdés g) pontja hatályon kívül helyezte.
+[^350]: A 130. § (1) bekezdését a 36/2015. (VI. 16.) BM rendelet 11. § (2) bekezdés g) pontja hatályon kívül helyezte.

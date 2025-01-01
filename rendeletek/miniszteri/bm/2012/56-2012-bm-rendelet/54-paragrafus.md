@@ -1,8 +1,8 @@
 ## 12. Rendszeresített hivatásos beosztások és a betöltésükhöz szükséges követelmények
 
-54. § (1)[^142]
+54. § (1)[^174]
 
-(2)[^143] Az Országgyűlési Őrség állománytáblázata tartalmazza:
+(2)[^175] Az Országgyűlési Őrség állománytáblázata tartalmazza:
 
 a) az Országgyűlési Őrség megnevezését, jogállását, szervkódját (munkáltatói számát),
 
@@ -28,26 +28,27 @@ bi) a szolgálati beosztáshoz előírt idegennyelv-tudást,
 
 bj) a ruházati ellátási normát,
 
-bk)[^144] a szolgálati beosztás alkalmasságvizsgálati kategóriájának megjelölését,
+bk)[^176] a szolgálati beosztás alkalmasságvizsgálati kategóriájának megjelölését,
 
 bl) a nemzetbiztonsági ellenőrzésre, valamint a vagyonnyilatkozat-tételre vonatkozó kötelezést,
 
-bm) a könnyített szolgálatban foglalkoztatottakkal betölthető szolgálati beosztásokat,
+bm)[^177]
 
 c) az állománytáblázat adatainak statisztikai összegzését, rendszerezését.
 
-(3)[^145] Az állománytáblázatban fel kell tüntetni a hatálybalépésének dátumát, módosítás esetén a módosítás hatálybalépésének dátumát.
+(3)[^178] Az állománytáblázatban fel kell tüntetni a hatálybalépésének dátumát, módosítás esetén a módosítás hatálybalépésének dátumát.
 
-(4)[^146] Az Országgyűlési Őrség állománytáblázatát a humánigazgatási szakszolgálat készíti és kezeli, valamint az adatokat és az állománytáblázat eredeti példányát az iratkezelési szabályoknak megfelelően tárolja.
+(4)[^179] Az Országgyűlési Őrség állománytáblázatát a humánigazgatási szakszolgálat készíti és kezeli, valamint az adatokat és az állománytáblázat eredeti példányát az iratkezelési szabályoknak megfelelően tárolja.
 
-(5)[^147] A jóváhagyott állománytáblázat egy példányát a humánigazgatási szakszolgálat az Országgyűlés Hivatala személyügyi szervének megküldi. Az Országgyűlés Hivatalának személyügyi szerve az állománytáblázatot nyilvántartásba veszi és hatályon kívül helyezését követő 50 évig archív nyilvántartásként kezeli.
+(5)[^180] A jóváhagyott állománytáblázat egy példányát a humánigazgatási szakszolgálat az Országgyűlés Hivatala személyügyi szervének megküldi. Az Országgyűlés Hivatalának személyügyi szerve az állománytáblázatot nyilvántartásba veszi és hatályon kívül helyezését követő 50 évig archív nyilvántartásként kezeli.
 
-(6)[^148] Az állománytáblázat hatályos adatait a számítógépes személyügyi, munkaügyi és szervezési nyilvántartó rendszerben is folyamatosan vezetni kell.
+(6)[^181] Az állománytáblázat hatályos adatait a számítógépes személyügyi, munkaügyi és szervezési nyilvántartó rendszerben is folyamatosan vezetni kell.
 
-[^142]: Az 54. § (1) bekezdését a 34/2015. (VI. 16.) BM rendelet 4. §-a hatályon kívül helyezte.
-[^143]: Az 54. § (2) bekezdése a 34/2015. (VI. 16.) BM rendelet 1. §-ával megállapított szöveg.
-[^144]: Az 54. § (2) bekezdés b) pont bk) alpontja a 43/2022. (XII. 19.) BM rendelet 122. §-ával megállapított szöveg.
-[^145]: Az 54. § (3) bekezdése a 81/2012. (XII. 28.) BM rendelet 43. § (1) bekezdés l) pontja szerint módosított szöveg.
-[^146]: Az 54. § (4) bekezdése a 81/2012. (XII. 28.) BM rendelet 43. § (1) bekezdés m) és n) pontja, a 38/2020. (X. 14.) BM rendelet 19. § f) pontja szerint módosított szöveg.
-[^147]: Az 54. § (5) bekezdése a 81/2012. (XII. 28.) BM rendelet 43. § (1) bekezdés m) és o) pontja, a 38/2020. (X. 14.) BM rendelet 19. § g) pontja szerint módosított szöveg.
-[^148]: Az 54. § (6) bekezdése a 81/2012. (XII. 28.) BM rendelet 43. § (1) bekezdés l) pontja szerint módosított szöveg.
+[^174]: Az 54. § (1) bekezdését a 34/2015. (VI. 16.) BM rendelet 4. §-a hatályon kívül helyezte.
+[^175]: Az 54. § (2) bekezdése a 34/2015. (VI. 16.) BM rendelet 1. §-ával megállapított szöveg.
+[^176]: Az 54. § (2) bekezdés b) pont bk) alpontja a 43/2022. (XII. 19.) BM rendelet 122. §-ával megállapított szöveg.
+[^177]: Az 54. § (2) bekezdés b) pont bm) alpontját a 60/2024. (XII. 23.) BM rendelet 40. § 14. pontja hatályon kívül helyezte.
+[^178]: Az 54. § (3) bekezdése a 81/2012. (XII. 28.) BM rendelet 43. § (1) bekezdés l) pontja szerint módosított szöveg.
+[^179]: Az 54. § (4) bekezdése a 81/2012. (XII. 28.) BM rendelet 43. § (1) bekezdés m) és n) pontja, a 38/2020. (X. 14.) BM rendelet 19. § f) pontja szerint módosított szöveg.
+[^180]: Az 54. § (5) bekezdése a 81/2012. (XII. 28.) BM rendelet 43. § (1) bekezdés m) és o) pontja, a 38/2020. (X. 14.) BM rendelet 19. § g) pontja szerint módosított szöveg.
+[^181]: Az 54. § (6) bekezdése a 81/2012. (XII. 28.) BM rendelet 43. § (1) bekezdés l) pontja szerint módosított szöveg.

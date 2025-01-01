@@ -14,8 +14,11 @@ b) az a) pont szerinti körülmény változása belátható időn belül nem vá
 
 (4) A (3) bekezdés szerinti kérelemhez csatolni kell a mentesítés indokoltságát alátámasztó orvosi szakvéleményt.
 
-(5) A hivatásos állomány tagja a 145. § (1) bekezdésében meghatározottak alapján elrendelt védőoltás beadásáig a biológiai kóroki tényező kockázatának kitett munkakörben ideiglenesen sem foglalkoztatható, valamint ilyen tevékenységet nem végezhet. Az érintett személy szolgálati elöljárója intézkedik a veszély megszüntetéséről vagy az érintett más munkakörbe való áthelyezéséről.
+(5)[^356] A hivatásos állomány tagja a 145. § (1) bekezdésében meghatározottak alapján elrendelt védőoltás beadásáig a biológiai kóroki tényező kockázatának kitett munkakörben ideiglenesen sem foglalkoztatható, valamint ilyen tevékenységet nem végezhet. Az érintett személy szolgálati elöljárója javaslatot tesz az Országgyűlési Őrség parancsnokának a veszély megszüntetésére vagy az érintett más szolgálati beosztásba való áthelyezésére.
 
 (6) Ha az Országgyűlési Őrség parancsnoka a védőoltásra kötelezett által benyújtott szolgálati panasznak helyt ad, az érintett személyt egészségügyi ok miatt határozatban mentesíti a védőoltás alól.
 
-(7) E § alkalmazásában alapellátó orvos az Országgyűlési Őrség hivatásos állományának egészségi alkalmasságára vonatkozó miniszteri rendeletben az Országgyűlési Őrség vonatkozásában meghatározott alapellátó orvos.
+(7)[^357] Ezen alcím alkalmazásában alapellátó orvos: az Országgyűlési Őrségnél foglalkoztatott hivatásos állomány alkalmasságvizsgálatáról, valamint egészségügyi és pszichológiai ellátásáról szóló miniszteri rendeletben az Országgyűlési Őrség vonatkozásában meghatározott rendvédelmi alapellátó orvos.
+
+[^356]: A 148. § (5) bekezdése a 60/2024. (XII. 23.) BM rendelet 37. § (1) bekezdésével megállapított szöveg.
+[^357]: A 148. § (7) bekezdése a 60/2024. (XII. 23.) BM rendelet 37. § (2) bekezdésével megállapított szöveg.

@@ -1,8 +1,7 @@
-64. § (1)[^169] A humánigazgatási szakszolgálat a visszavont szolgálati igazolványokat évente selejtezi.
+64. §[^209] (1) A humánigazgatási szakszolgálat a bevont szolgálati igazolványok selejtezését évente kezdeményezi az Országgyűlés Hivatalánál.
 
-(2) A selejtezésről jegyzőkönyvet kell felvenni, amelynek adatait a személyügyi alapnyilvántartásban kell rögzíteni. A selejtezési jegyzőkönyv egy példányát a selejtezéstől számított tíz évig meg kell őrizni. A személyügyi alapnyilvántartásban a szolgálati igazolvány visszavonásának okát, a selejtezés tényét, a selejtezési jegyzőkönyv nyilvántartási számát és a szolgálati igazolvány adataihoz tartozó tételszámot kell rögzíteni.
+(2) A szolgálati igazolvány bevonásának okát és a selejtezés kezdeményezésének tényét a személyügyi alapnyilvántartásban kell rögzíteni.
 
-(3)[^170] A selejtezett szolgálati igazolványok megsemmisítéséről a humánigazgatási szakszolgálat gondoskodik a veszélyes hulladékok kezelésére, valamint a szigorú számadási kötelezettség alá tartozó okiratok selejtezésére vonatkozó szabályok szerint.
+(3) A selejtezésre átadott szolgálati igazolványok megsemmisítéséről az Országgyűlés Hivatala mint megszemélyesítést végző szerv gondoskodik.
 
-[^169]: A 64. § (1) bekezdése a 38/2020. (X. 14.) BM rendelet 19. § b) pontja szerint módosított szöveg.
-[^170]: A 64. § (3) bekezdése a 38/2020. (X. 14.) BM rendelet 19. § b) pontja szerint módosított szöveg.
+[^209]: A 64. § a 60/2024. (XII. 23.) BM rendelet 27. §-ával megállapított szöveg.

@@ -1,17 +1,24 @@
-## 9. [^129] A szolgálati panasz elbírálása
+## 9. [^152] A szolgálati panasz elbírálása
 
-47. § (1)–(2)[^130]
+47. §[^153] (1) A hivatásos állomány tagja szolgálati panaszt a szolgálati viszonyát érintő, azzal összefüggő munkáltatói jogkörben hozott döntéssel, intézkedéssel vagy ezek elmulasztásával kapcsolatban a szolgálati út betartásával nyújthat be.
 
-(3) A hivatásos állomány tagja szolgálati panaszt a szolgálati viszonyát érintő, azzal összefüggő munkáltatói jogkörben hozott döntéssel, intézkedéssel vagy ezek elmulasztásával kapcsolatban a szolgálati út betartásával nyújthat be.
+(2) Ha a sérelmezett munkáltatói intézkedést hozó vagy azt elmulasztó elöljáró a szolgálati panaszban foglaltakkal egyetért, a munkáltatói intézkedés megváltoztatása vagy a mulasztás pótlása érdekében haladéktalanul intézkedik.
 
-(4)[^131] A szolgálati panaszban sérelmezett munkáltatói intézkedést hozó vagy azt elmulasztó elöljáró, ha a szolgálati panasszal nem ért egyet, a keletkezett iratokat az elbírálásra jogosult elöljáróhoz az írásba foglalt véleményével kiegészítve terjeszti fel.
+(3) A szolgálati panaszban sérelmezett munkáltatói intézkedést hozó vagy azt elmulasztó elöljáró, ha a szolgálati panasszal nem ért egyet, a keletkezett iratokat az elbírálásra jogosult elöljáróhoz az írásba foglalt véleményével kiegészítve terjeszti fel.
 
-(5) Az elbírálásra jogosult elöljáró, ha a panasznak részben vagy egészében helyt adott, a sérelmezett munkáltatói intézkedést hatályon kívül helyezi és új intézkedés kiadására kötelezi a munkáltatói jogkör gyakorlóját, vagy az intézkedés tartalmát megváltoztatja, vagy kötelezi az intézkedést elmulasztó elöljárót a munkáltatói intézkedés meghozatalára. A határozat rendelkezésének megfelelően a munkáltatói intézkedésről szóló állományparancsot módosítani kell vagy új intézkedést kell kiadni.
+(4) Az elöljáró parancsnok, ha a panasznak részben vagy egészében helyt ad
 
-(6) Az Országgyűlési Őrség állományába tartozó szolgálati viszonnyal összefüggő kérelmét vagy szolgálati panaszát a szolgálati út betartásával kell benyújtani és továbbítani, valamint az érdemi döntésről a kérelmezőt, panaszost tájékoztatni.
+a) a sérelmezett munkáltatói intézkedést hatályon kívül helyezi, és új intézkedés kiadására kötelezi a munkáltatói jogkör gyakorlóját,
 
-(7) Ha a panasz nem szolgálati viszonnyal függ össze vagy külön eljárás alapján kell elbírálni, erről a panaszost és a jogi képviselőjét tájékoztatni kell, és a panaszt a hatáskörrel rendelkező illetékes vezetőhöz kell áttenni.
+b) a sérelmezett munkáltatói intézkedés tartalmát megváltoztatja, vagy
 
-[^129]: A 9. alcím címe a 38/2015. (VI. 18.) BM rendelet 17. § 44. pontja szerint módosított szöveg.
-[^130]: A 47. § (1)–(2) bekezdését a 38/2015. (VI. 18.) BM rendelet 18. § 9. pontja hatályon kívül helyezte.
-[^131]: A 47. § (4) bekezdése a 38/2015. (VI. 18.) BM rendelet 11. §-ával megállapított szöveg.
+c) kötelezi az intézkedést elmulasztó elöljárót a munkáltatói intézkedés meghozatalára.
+
+(5) A (4) bekezdés szerinti határozat rendelkezésének megfelelően a munkáltatói intézkedésről szóló állományparancsot módosítani kell vagy új intézkedést kell kiadni.
+
+(6) A szolgálati panasz tárgyában hozott érdemi döntést a szolgálati panasz elbírálója megküldi a sérelmezett munkáltatói intézkedést hozó vagy az intézkedést elmulasztó elöljáróhoz vagy vezetőhöz, aki intézkedik annak a panaszos részére történő közléséről, illetve a jogi képviselőjének történő megküldéséről.
+
+(7) Ha a szolgálati panaszként benyújtott jognyilatkozat nem szolgálati viszonnyal függ össze, erről a jognyilatkozatot benyújtót és a jogi képviselőjét tájékoztatni kell. Ha a szolgálati panaszként benyújtott jognyilatkozatot külön eljárás alapján kell az Országgyűlési Őrségen belül elbírálni, erről a jognyilatkozatot benyújtót és a jogi képviselőjét tájékoztatni kell, és a jognyilatkozatot a külön eljárás szabályai szerint kell elbírálni.
+
+[^152]: A 9. alcím címe a 38/2015. (VI. 18.) BM rendelet 17. § 44. pontja szerint módosított szöveg.
+[^153]: A 47. § a 60/2024. (XII. 23.) BM rendelet 21. §-ával megállapított szöveg.
