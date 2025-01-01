@@ -854,7 +854,7 @@ A. A jurisdiction must have rules and administrative procedures in place to ensu
 
 4. administrative procedures to ensure that the Entities and accounts defined in domestic law as Non-Reporting Financial Institutions and Excluded Accounts continue to have a low risk of being used to evade tax; and
 
-5. effective enforcement provisions to address non-compliance.”
+5. effective enforcement provisions to address non-compliance.
 
 „KÖZÖS JELENTÉSTÉTELI ELŐÍRÁS
 

@@ -124,6 +124,8 @@
 
 40. Kajmán-szigetek
 
+40a. Kamerun
+
 41. Kanada
 
 41a. Katar
@@ -196,11 +198,13 @@
 
 58b. Orosz Föderáció
 
-58c. Pakisztán
+58c. Örményország
 
-58d. Panama
+58d. Pakisztán
 
-58e. Peru
+58e. Panama
+
+58f. Peru
 
 59. Portugália
 
@@ -230,7 +234,9 @@
 
 69a. Szaúd-Arábia
 
-69b. Szingapúr
+69b. Szenegál
+
+69c. Szingapúr
 
 70. Szlovák Köztársaság
 
