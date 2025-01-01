@@ -1,0 +1,5 @@
+## „5c. műanyag: a vegyi anyagok regisztrálásáról, értékeléséről, engedélyezéséről és korlátozásáról (REACH), az Európai Vegyianyag-ügynökség létrehozásáról, az 1999/45/EK irányelv módosításáról, valamint a 793/93/EGK tanácsi rendelet, az 1488/94/EK bizottsági rendelet, a 76/769/EGK tanácsi irányelv, a 91/155/EGK, a 93/67/EGK, a 93/105/EK és a 2000/21/EK bizottsági irányelv hatályon kívül helyezéséről szóló, 2006. december 18-i 1907/2006/EK európai parlamenti és tanácsi rendelet 3. cikk 5. pontja értelmében vett polimer, amelyhez esetleg adalékanyagokat vagy egyéb anyagokat adtak, és amely alkalmas a hordtasakok fő szerkezeti alkotóelemeként való felhasználásra;”
+
+10. § A 442/2012. Korm. rendelet 11. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A csomagolást újrahasználó gyártó nyilvántartást vezet az újrahasználható csomagolás és újrahasználható fogyasztói csomagolás éves forgási ciklusának anyagkategória és típus szerinti számáról (db), valamint az újrahasználható csomagolás és újrahasználható fogyasztói csomagolás egységnyi tömegéről anyagkategória és típus szerint (kg).”
