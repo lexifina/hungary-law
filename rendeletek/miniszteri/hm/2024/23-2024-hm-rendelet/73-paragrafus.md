@@ -1,5 +1,3 @@
-## 45.[^2]
+## 45. Módosító rendelkezések
 
-73. §
-
-[^2]: A 45. alcím a 70. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+73. § A 4. melléklet helyébe az 5. melléklet lép.
