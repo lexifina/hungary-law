@@ -16,12 +16,14 @@ b) a pedagógus munkakörökhöz, illetve a köznevelési intézmények egészé
 
 c) pedagógiai és pszichológiai általános és elméleti ismeretek, képességek bővítését, illetve megszerzését szolgáló ismeretkörök;
 
-d) nevelési-oktatási intézményvezetői ismeretek;
+d)[^114]
 
 e) a tanár, tanító, konduktor, óvodapedagógus vagy gyógypedagógus szak szakmai gyakorlatának vezetéséhez szükséges gyakorlatvezető mentori ismeretek.
 
-(4) A nemzeti köznevelésről szóló 2011. évi CXC. törvény 67. § (1) bekezdés b) pontja szerinti, pedagógus-szakvizsga keretében szerzett intézményvezetői szakképzettség csak olyan szakirányú továbbképzésben szerezhető, amelyben a (2) bekezdés szerinti kötelező ismeretkörök mellett a választott ismeretkör a nevelési-oktatási intézményvezetői ismeretek, legalább további 55 kredit értékben.
+(4)[^115]
 
 (5) Pedagógus-szakvizsga keretében gyakorlatvezető mentori szakképzettség csak olyan szakirányú továbbképzésben szerezhető, amelyben a (2) bekezdés szerinti kötelező ismeretkörök mellett a választott ismeretkör a (3) bekezdés e) pontja szerinti adott pedagógus szakképzettséghez kapcsolódó gyakorlatvezető mentori ismeret, legalább további 55 kredit értékben.
 
 [^113]: A 21/B. §-t a 407/2017. (XII. 15.) Korm. rendelet 34. §-a iktatta be.
+[^114]: A 21/B. § (3) bekezdés d) pontját a 419/2024. (XII. 23.) Korm. rendelet 20. § (2) bekezdése hatályon kívül helyezte.
+[^115]: A 21/B. § (4) bekezdését a 419/2024. (XII. 23.) Korm. rendelet 20. § (2) bekezdése hatályon kívül helyezte.

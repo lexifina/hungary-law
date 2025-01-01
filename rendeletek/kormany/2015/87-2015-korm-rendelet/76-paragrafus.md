@@ -1,8 +1,8 @@
 ## 76. § Hatályát veszti
 
-a)–e)[^290]
+a)–e)[^292]
 
-f)[^291]
+f)[^293]
 
-[^290]: A 76. § a)–e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^291]: A 76. § f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^292]: A 76. § a)–e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^293]: A 76. § f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
