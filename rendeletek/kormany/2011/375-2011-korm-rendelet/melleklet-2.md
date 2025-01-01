@@ -18,7 +18,7 @@
 
 ## 4. a munkavállaló, és munkáltató alapjogait és kötelezettségeit;
 
-## 5. a közigazgatási hatósági eljárás és szolgáltatás, valamint a tűzvédelmi hatósági, szakhatósági eljárások általános szabályait (az első fokú eljárás megindítása, kérelem és mellékletei, a tényállás tisztázása, az egyes szakmagyakorlási tevékenységek közötti kapcsolatrendszer, a határozat tartalma és közlése, jogorvoslati lehetőségek, ügyfél fogalma);
+## 5.[^16] a közigazgatási hatósági eljárás és szolgáltatás, valamint a tűzvédelmi hatósági, szakhatósági eljárások általános szabályait (az eljárás megindítása, kérelem és mellékletei, a tényállás tisztázása, az egyes szakmagyakorlási tevékenységek közötti kapcsolatrendszer, a határozat tartalma és közlése, jogorvoslati lehetőségek, ügyfél fogalma);
 
 ## 6.
 
@@ -34,7 +34,7 @@
 
 ## 7.1. az Országos Tűzvédelmi Szabályzat szerkezetét,
 
-## 7.2.[^16] a kockázati osztályba, valamint az anyagok tűzveszélyességi osztályba sorolására vonatkozó előírásokat,
+## 7.2.[^17] a kockázati osztályba, valamint az anyagok tűzveszélyességi osztályba sorolására vonatkozó előírásokat,
 
 ## 7.3. a tűzállósági fokozatokat, és a telepítési,- tűztávolságokra vonatkozó előírásokat,
 
@@ -66,7 +66,7 @@
 
 ## 1. Az építésügyi tűzvédelmi tervező ismerje a szakterületén
 
-## a)[^17] a Méptv.
+## a)[^18] a Méptv.
 
 ## aa) szerkezetét,
 
@@ -76,7 +76,7 @@
 
 ## ad) az építésügyi hatósági engedélyezésre vonatkozó előírásait,
 
-## ae)[^18]
+## ae)[^19]
 
 ## b) az építésügyi hatóság szervezeti rendszerét (ideértve a sajátos építményfajtákat és a műemlékvédelmet is);
 
@@ -116,7 +116,7 @@
 
 ## A vizsgázótól számon kérhető követelményekre vonatkozó jogszabályok, jogszabályrészek, szabványok és segédanyagok jegyzéke a szakmai kamarák honlapján találhatók. A listát a szakmai kamarák évente aktualizálják a jogszabályok és szabványok változásainak megfelelően.
 
-2. melléklet a 375/2011. (XII. 31.) Korm. rendelethez[^19]
+2. melléklet a 375/2011. (XII. 31.) Korm. rendelethez[^20]
 
 I. A MÉRNÖKI KAMARÁK HATÁSKÖRÉBE TARTOZÓ TŰZVÉDELMI SZAKTERÜLETEK
 
@@ -134,7 +134,7 @@ d) építmények tűzgátló szerkezeteinek tervezése;
 
 e) építmények telepítési-, tűztávolságának tervezése;
 
-f)[^20] a kockázati osztály és az anyagok tűzveszélyességi osztályának megállapítása;
+f)[^21] a kockázati osztály és az anyagok tűzveszélyességi osztályának megállapítása;
 
 g) építmények tűzterhelésének, tűzidőtartamának tervezése;
 
@@ -190,7 +190,7 @@ d) építmények tűzgátló szerkezeteinek tervezése;
 
 e) építmények telepítési-, tűztávolságának tervezése;
 
-f)[^21] a kockázati osztály és az anyagok tűzveszélyességi osztályának megállapítása;
+f)[^22] a kockázati osztály és az anyagok tűzveszélyességi osztályának megállapítása;
 
 g) építmények tűzterhelésének, tűzidőtartamának tervezése;
 
@@ -205,9 +205,10 @@ k) építmények elektromos, villámvédelmi és gépészeti rendszerei tűzvéd
 l) építmények tűzoltásának tűzoltási feltételeinek tervezése.
 
 [^15]: Az 1. melléklet címe az 522/2013. (XII. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^16]: Az 1. melléklet 1. pont 7.2. alpontja a 300/2014. (XII. 5.) Korm. rendelet 15. §-ával megállapított szöveg.
-[^17]: Az 1. melléklet 2. Különös követelmények 1. pont a) alpontja a 285/2024. (IX. 30.) Korm. rendelet 70. § c) pontja szerint módosított szöveg.
-[^18]: Az 1. melléklet 2. Különös követelmények 1. pont a) alpont ae) pontját a 285/2024. (IX. 30.) Korm. rendelet 71. §-a hatályon kívül helyezte.
-[^19]: A 2. melléklet a 74/2012. (IV. 13.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
-[^20]: A 2. melléklet I. pont 1. pont f) alpontja a 300/2014. (XII. 5.) Korm. rendelet 15. §-ával megállapított szöveg.
-[^21]: A 2. melléklet II. pont 1. pont f) alpontja a 300/2014. (XII. 5.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^16]: Az 1. melléklet 1. pont 5. alpontja a 340/2024. (XI. 14.) Korm. rendelet 14. §-a szerint módosított szöveg.
+[^17]: Az 1. melléklet 1. pont 7.2. alpontja a 300/2014. (XII. 5.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^18]: Az 1. melléklet 2. Különös követelmények 1. pont a) alpontja a 285/2024. (IX. 30.) Korm. rendelet 70. § c) pontja szerint módosított szöveg.
+[^19]: Az 1. melléklet 2. Különös követelmények 1. pont a) alpont ae) pontját a 285/2024. (IX. 30.) Korm. rendelet 71. §-a hatályon kívül helyezte.
+[^20]: A 2. melléklet a 74/2012. (IV. 13.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
+[^21]: A 2. melléklet I. pont 1. pont f) alpontja a 300/2014. (XII. 5.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^22]: A 2. melléklet II. pont 1. pont f) alpontja a 300/2014. (XII. 5.) Korm. rendelet 15. §-ával megállapított szöveg.
