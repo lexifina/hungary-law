@@ -62,6 +62,6 @@
 
 ## Ezen adatlap aláírásával hozzájárulok, hogy személyes adataimat, illetve a fenti ingatlanra vonatkozó adatokat az illetékes helyi önkormányzat, a területi védelmi bizottság, a BM Országos Katasztrófavédelmi Főigazgatóság és alárendelt szervei, valamint a kárfelmérésben és kárenyhítésben részt vevő további szervek kezeljék és továbbítsák a……………………………..……………………következtében keletkezett károk felmérése céljából.
 
-9. melléklet a 234/2011. (XI. 10.) Korm. rendelethez[^138]
+9. melléklet a 234/2011. (XI. 10.) Korm. rendelethez[^156]
 
-[^138]: A 9. melléklet szövege a 408/2022. (X. 24.) Korm. rendelet 9. § e) pontja szerint módosított szöveg.
+[^156]: A 9. melléklet szövege a 408/2022. (X. 24.) Korm. rendelet 9. § e) pontja szerint módosított szöveg.

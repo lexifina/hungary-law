@@ -8,16 +8,16 @@ aa) a polgármester,
 
 ab) a hivatásos katasztrófavédelmi szerv területi szervének vezetője által kijelölt személy, aki veszélyhelyzetben a településen a helyi katasztrófavédelmi tevékenység irányítását a polgármestertől átvette,
 
-ac)[^74] a területi védelmi bizottság elnöke,
+ac)[^89] a területi védelmi bizottság elnöke,
 
 b) halasztást nem tűrő esetben az illetékességi területére vonatkozóan
 
 ba) a polgármester,
 
-bb)[^75] a területi védelmi bizottság elnöke.
+bb)[^90] a területi védelmi bizottság elnöke.
 
-(2)[^76] A visszatelepítés elrendelésére a területi védelmi bizottság elnöke jogosult.
+(2)[^91] A visszatelepítés elrendelésére a területi védelmi bizottság elnöke jogosult.
 
-[^74]: A 46. § (1) bekezdés a) pont ac) alpontja a 408/2022. (X. 24.) Korm. rendelet 10. § 4. pontja szerint módosított szöveg.
-[^75]: A 46. § (1) bekezdés b) pont bb) alpontja a 408/2022. (X. 24.) Korm. rendelet 10. § 17. pontja szerint módosított szöveg.
-[^76]: A 46. § (2) bekezdése a 408/2022. (X. 24.) Korm. rendelet 10. § 4. pontja szerint módosított szöveg.
+[^89]: A 46. § (1) bekezdés a) pont ac) alpontja a 408/2022. (X. 24.) Korm. rendelet 10. § 4. pontja szerint módosított szöveg.
+[^90]: A 46. § (1) bekezdés b) pont bb) alpontja a 408/2022. (X. 24.) Korm. rendelet 10. § 17. pontja szerint módosított szöveg.
+[^91]: A 46. § (2) bekezdése a 408/2022. (X. 24.) Korm. rendelet 10. § 4. pontja szerint módosított szöveg.

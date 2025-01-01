@@ -1,4 +1,4 @@
-5. melléklet a 234/2011. (XI. 10.) Korm. rendelethez[^134]
+5. melléklet a 234/2011. (XI. 10.) Korm. rendelethez[^152]
 
 MEGÁLLAPODÁS
 
@@ -108,4 +108,4 @@ A természeti és civilizációs katasztrófák elleni védekezés érdekében c
 
 igazgatóság Önkéntes mentőszervezet
 
-[^134]: Az 5. melléklet a 13/2020. (II. 7.) Korm. rendelet 56. § 2. pontja, a 408/2022. (X. 24.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
+[^152]: Az 5. melléklet a 13/2020. (II. 7.) Korm. rendelet 56. § 2. pontja, a 408/2022. (X. 24.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.

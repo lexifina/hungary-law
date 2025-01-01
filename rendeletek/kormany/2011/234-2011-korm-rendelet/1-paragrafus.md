@@ -22,7 +22,7 @@
 
 8. Értesítés: a felkészülés vagy a beavatkozás végrehajtására irányuló felhívás.
 
-9. Európai Kritikus Infrastruktúra Védelmi Kapcsolattartási Pont: az európai kritikus infrastruktúrák védelmével kapcsolatos információk kezelésével megbízott központi államigazgatási szerv kijelölt szervezeti egysége.
+9.[^2]
 
 10. Földmérési és térképészeti termék: a földmérési és térképészeti állami alapadatok felhasználásával, a földmérési és térképészeti állami alapadatok kezelője által előállított földmérési, térképészeti, ingatlan-nyilvántartási térképi, távérzékelési adat és egyéb digitális térinformatikai vonatkozású adatbázis, valamint ezek sokszorosított, kinyomtatott változata.
 
@@ -54,13 +54,13 @@
 
 24. Korrekciós tényező: az az adminisztratív vagy fizikai jellegű kockázatcsökkentő intézkedés, amely a vizsgált település vonatkozásában a katasztrófavédelmi osztály besorolásának mértékét megváltoztathatja.
 
-25. Kritikus infrastruktúra: Magyarországon található azon eszközök, rendszerek vagy ezek részei, amelyek elengedhetetlenek a létfontosságú társadalmi feladatok ellátásához, az egészségügyhöz, a biztonsághoz, az emberek gazdasági és szociális jólétéhez, valamint amelyek megzavarása vagy megsemmisítése, e feladatok folyamatos ellátásának hiánya miatt jelentős következményekkel járna.
+25.[^3] Létfenntartáshoz szükséges infrastruktúra: Magyarországon található azon eszközök, rendszerek vagy ezek részei, amelyek elengedhetetlenek a létfontosságú társadalmi feladatok ellátásához, az egészségügyhöz, a biztonsághoz, az emberek gazdasági és szociális jólétéhez, valamint amelyek megzavarása vagy megsemmisítése, e feladatok folyamatos ellátásának hiánya miatt jelentős következményekkel járna.
 
 26. Lakosság alapvető ellátása: azon tevékenységek összessége, melyek az ország lakosságának alapvető életfeltételei és mindennapi életvitele folytonosságának biztosításához kapcsolódnak.
 
 27. Létfenntartáshoz szükséges anyagi javak: a lakosság alapvető ellátását és életfeltételeit biztosító anyagok, eszközök, rendszerek és készletek összessége, különösen az ivóvíz-, az élelmiszer-, a takarmány-, a gyógyszerkészletek és a haszonállatok.
 
-27a.[^2] Polgári védelmi egység: a területi, a települési és a munkahelyi polgári védelmi szervezet eleme.
+27a.[^4] Polgári védelmi egység: a területi, a települési és a munkahelyi polgári védelmi szervezet eleme.
 
 28. Szükség-védőeszköz: a kimenekítés, kitelepítés során alkalmazható, rövid idejű védelemre szolgáló egyéni védőeszköz.
 
@@ -81,4 +81,6 @@
 36. Visszatelepítés: a veszély elmúltával a kimenekített, kitelepített lakosság és a létfenntartáshoz szükséges anyagi javak lakóhelyre történő visszajuttatása.
 
 [^1]: Az 1. § 2. pontja a 408/2022. (X. 24.) Korm. rendelet 10. § 1. pontja szerint módosított szöveg.
-[^2]: Az 1. § 27a. pontját a 408/2022. (X. 24.) Korm. rendelet 4. §-a iktatta be.
+[^2]: Az 1. § 9. pontját a 474/2024. (XII. 31.) Korm. rendelet 136. § a) pontja hatályon kívül helyezte.
+[^3]: Az 1. § 25. pontja a 474/2024. (XII. 31.) Korm. rendelet 135. § a) pontja szerint módosított szöveg.
+[^4]: Az 1. § 27a. pontját a 408/2022. (X. 24.) Korm. rendelet 4. §-a iktatta be.

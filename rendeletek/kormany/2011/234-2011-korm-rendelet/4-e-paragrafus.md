@@ -1,8 +1,8 @@
-## I/A. Fejezet[^16]
+## I/A. Fejezet[^18]
 
 ## AZ ELEKTRONIKUS ÜGYINTÉZÉSRE VONATKOZÓ ÁLTALÁNOS RENDELKEZÉSEK
 
-4/E. § (1) Az Integrált Hatósági Rendszert (a továbbiakban: IHR) a hivatásos katasztrófavédelmi szerv központi szerve működteti. Az IHR biztosítja a hatósági eljárás kezdeményezését, lefolytatását és a végrehajtási eljárás lefolytatását és a hatósági eljárás lefolytatása során benyújtott, illetve keletkezett dokumentumok tárolását.
+4/E. § (1)[^19] Az Integrált Hatósági Rendszert (a továbbiakban: IHR) a hivatásos katasztrófavédelmi szerv központi szerve működteti. A hivatásos katasztrófavédelmi szerv, illetve az iparbiztonsági hatóság hatáskörébe utalt, törvényben meghatározott hatósági eljárásaiban az ügyfél – az elektronikus azonosítását követően – a kérelmét és egyéb beadványait az IHR-en keresztül nyújtja be a hivatásos katasztrófavédelmi szerv, illetve az iparbiztonsági hatóság részére, illetve a hivatásos katasztrófavédelmi szerv, valamint az iparbiztonsági hatóság az általa kiállított dokumentumokat az IHR-be tölti fel.
 
 (2) Az IHR ügyfélportálja az ügyfél által tervezett hatósági eljáráshoz szükséges dokumentumok és adatok összegyűjtésére szolgál.
 
@@ -28,7 +28,8 @@ bd) az ügyfél részére értesítéseket, dokumentumokat küldhet, és közöl
 
 (4) Az IHR az ügyfelet elektronikus azonosítást követően nyilvántartásba veszi.
 
-(5)[^17] Az ügyfél a hatósági eljárás hivatalbóli megindításáról és benyújtott kérelmének fogadásáról a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti elektronikus kapcsolattartásra szolgáló hivatalos elérhetőségén visszaigazolást kap.
+(5)[^20] Az ügyfél a hatósági eljárás hivatalbóli megindításáról és benyújtott kérelmének fogadásáról a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti elektronikus kapcsolattartásra szolgáló hivatalos elérhetőségén visszaigazolást kap.
 
-[^16]: Az I/A. fejezetet (4/E–4/F. §) a 375/2021. (VI. 30.) Korm. rendelet 10. §-a iktatta be.
-[^17]: A 4/E. § (5) bekezdése a 257/2024. (VIII. 29.) Korm. rendelet 42. §-a szerint módosított szöveg.
+[^18]: Az I/A. fejezetet (4/E–4/F. §) a 375/2021. (VI. 30.) Korm. rendelet 10. §-a iktatta be.
+[^19]: A 4/E. § (1) bekezdése a 340/2024. (XI. 14.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^20]: A 4/E. § (5) bekezdése a 257/2024. (VIII. 29.) Korm. rendelet 42. §-a szerint módosított szöveg.

@@ -52,7 +52,7 @@
 
 ## c) a riasztási küszöböt elérő mértékű légszennyezettség
 
-## 4. kritikus infrastruktúrákkal kapcsolatos kockázatok
+## 4. létfenntartáshoz szükséges infrastruktúrákkal kapcsolatos kockázatok
 
 ## a) a lakosság alapvető ellátását biztosító infrastruktúrák sérülékenysége
 
@@ -150,7 +150,7 @@
 
 ## g) a halálos áldozatokkal kapcsolatos halaszthatatlan intézkedéseket,
 
-## 3. a kritikus infrastruktúra elemek és létfenntartáshoz szükséges anyagi javak katasztrófák elleni védelmét,
+## 3. a létfenntartáshoz szükséges infrastruktúra elemek és létfenntartáshoz szükséges anyagi javak katasztrófák elleni védelmét,
 
 ## 4. a kárterületen hátrahagyott anyagi javak védelméről való gondoskodás rendjét,
 
@@ -170,8 +170,6 @@
 
 ## c) a katasztrófakockázat-kezelési válaszok feltételeinek, végrehajtási rendjének és ellenőrzése módjának meghatározását.
 
-## d) azon intézkedések meghatározását, amelyek elősegítik a nemzeti ellenállóképesség különböző kockázatok közvetlen, közvetett hatásaival szembeni fokozását, összhangban a megelőzési és felkészültségi intézkedésekkel.[^133]
+## d) azon intézkedések meghatározását, amelyek elősegítik a nemzeti ellenállóképesség különböző kockázatok közvetlen, közvetett hatásaival szembeni fokozását, összhangban a megelőzési és felkészültségi intézkedésekkel.
 
 3. melléklet a 234/2011. (XI. 10.) Korm. rendelethez
-
-[^133]: A 2. melléklet d) pont 9. alpontját a 408/2022. (X. 24.) Korm. rendelet 9. § a) pontja iktatta be.

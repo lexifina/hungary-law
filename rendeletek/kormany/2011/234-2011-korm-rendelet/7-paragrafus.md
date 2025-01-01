@@ -1,6 +1,6 @@
 ## 4. A katasztrófavédelemben részt vevő központi államigazgatási szerv vezetőjének feladatai
 
-7. § (1) A katasztrófavédelemben részt vevő központi államigazgatási szerv vezetője:
+7. §[^40] (1) A katasztrófavédelemben részt vevő központi államigazgatási szerv vezetője:
 
 a) meghatározza szakterületén, illetve az alárendeltségébe tartozó szerv vonatkozásában a megelőzéssel kapcsolatos feladatokat,
 
@@ -15,3 +15,5 @@ e) kidolgozza a szakterületén a lakosság és az anyagi javak műszaki-technik
 (2) A katasztrófák elleni védekezésben részt vevő központi államigazgatási szervek vezetőinek a tevékenységet úgy kell megszervezni, hogy a szervek a váratlan helyzetekben munkaidőn belül haladéktalanul, munkaidőn kívül három órán belül legalább az azonnal foganatosítható rendszabályok bevezetésére, hat órán belül a teljes működésre legyenek képesek. Munkaszüneti napon, illetve heti pihenőnapon ez az idő kettő órával növekedhet.
 
 (3) Az (1) és (2) bekezdés rendelkezéseit az autonóm államigazgatási szervekre és az önálló szabályozó szervekre nem kell alkalmazni.
+
+[^40]: [A 7. §-ban a 340/2024. (XI. 14.) Korm. rendelet 12. § (3) bekezdése által elrendelt módosítás, amely újraszabályozta a 7. § d) pontját, nem vezethető át.]

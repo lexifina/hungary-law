@@ -4,13 +4,14 @@
 
 ## 38. Általános elvek
 
-57. § (1)[^96] Az országban működő önkéntes mentőszervezet (a továbbiakban: mentőszervezet) a hazai katasztrófák, veszélyhelyzetek és kiterjedt káresemények hatásai elleni védekezésben akkor vehet részt, ha a Nemzeti Minősítési Rendszerben meghatározott képzettségi, felkészültségi alapkövetelményeknek eleget téve a hivatásos katasztrófavédelmi szerv területi szerve által lefolytatott, e Fejezetben szabályozott eljárásban a minősítést megszerezte. A Nemzeti Minősítési Rendszert a hivatásos katasztrófavédelmi szerv központi szerve minden év január 31-ig közzéteszi a honlapján.
+57. § (1)[^111] Az országban működő önkéntes mentőszervezet (a továbbiakban: mentőszervezet) a hazai katasztrófák, veszélyhelyzetek és kiterjedt káresemények hatásai elleni védekezésben akkor vehet részt, ha a Nemzeti Minősítési Rendszerben meghatározott képzettségi, felkészültségi alapkövetelményeknek eleget téve a hivatásos katasztrófavédelmi szerv területi szerve által lefolytatott, e Fejezetben szabályozott eljárásban a minősítést megszerezte. A Nemzeti Minősítési Rendszert a hivatásos katasztrófavédelmi szerv központi szerve minden év január 31-ig közzéteszi a honlapján.
 
-(2) A minősítés megszerzéséhez a mentőszervezet a nyilvántartásba vétel helye szerint illetékes hivatásos katasztrófavédelmi szerv területi szervénél kérelmet nyújt be, melynek tartalmát a 4. melléklet határozza meg.
+(2)[^112] A minősítés megszerzéséhez a mentőszervezet a nyilvántartásba vétel helye szerint illetékes hivatásos katasztrófavédelmi szerv területi szervénél kérelmet nyújt be, melynek tartalmát a 4. melléklet határozza meg. A minősítési kérelemhez csatolni kell az önkéntes mentőszervezet tagjának a Kat. 18/A. § (8) bekezdése szerinti adatait, valamint az adatok kezelésére vonatkozó hozzájáruló nyilatkozatát.
 
-(3)[^97] A minősítésnek megfelelt és a hivatásos katasztrófavédelmi szerv területi szerve által nyilvántartásba vett mentőszervezet értesítés alapján vesz részt a hazai katasztrófák, veszélyhelyzetek és kiterjedt káresemények hatásai elleni védekezésben (a továbbiakban: védekezésben), valamint a nemzetközi segítségnyújtásban.
+(3)[^113] A minősítésnek megfelelt és a hivatásos katasztrófavédelmi szerv területi szerve által nyilvántartásba vett mentőszervezet értesítés alapján vesz részt a hazai katasztrófák, veszélyhelyzetek és kiterjedt káresemények hatásai elleni védekezésben (a továbbiakban: védekezésben), valamint a nemzetközi segítségnyújtásban.
 
 (4) A minősítésnek megfelelt mentőszervezet az 5. mellékletben szereplő megállapodás aláírásával elfogadja a hivatásos katasztrófavédelmi szerv központi szerve koordinációs és – beavatkozás esetében – irányítási jogát, és ezzel a hivatásos katasztrófavédelmi szerv területi szervénél vezetett nyilvántartásba bekerül.
 
-[^96]: Az 57. § (1) bekezdése a 408/2022. (X. 24.) Korm. rendelet 10. § 1. pontja szerint módosított szöveg.
-[^97]: Az 57. § (3) bekezdése a 408/2022. (X. 24.) Korm. rendelet 10. § 1. pontja szerint módosított szöveg.
+[^111]: Az 57. § (1) bekezdése a 408/2022. (X. 24.) Korm. rendelet 10. § 1. pontja szerint módosított szöveg.
+[^112]: Az 57. § (2) bekezdése a 340/2024. (XI. 14.) Korm. rendelet 12. § (7) bekezdésével megállapított szöveg.
+[^113]: Az 57. § (3) bekezdése a 408/2022. (X. 24.) Korm. rendelet 10. § 1. pontja szerint módosított szöveg.
