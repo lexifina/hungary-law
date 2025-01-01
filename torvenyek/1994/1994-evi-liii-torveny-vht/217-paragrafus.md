@@ -12,7 +12,7 @@
 
 (4) A végrehajtó intézkedése ellen bármilyen címen előterjesztett megtámadást kifogásnak kell tekinteni. A kifogásban meg kell jelölni a kifogásolt végrehajtói intézkedést, és azt, hogy a kifogást előterjesztő az intézkedés megsemmisítését vagy megváltoztatását milyen okból, mennyiben kívánja. A végrehajtó intézkedésével szembeni ismételt kifogásban új tény állítására, új bizonyíték előadására akkor kerülhet sor, ha az a kifogásolt intézkedésről való tudomásszerzést követően jutott az előterjesztő tudomására, feltéve, hogy az – elbírálása esetén – reá kedvezőbb döntést eredményezett volna, vagy ha az az intézkedés jogszabálysértő voltának alátámasztására irányul.
 
-(5) Ha a kifogás elkésett, nem tartalmazza a miniszteri rendeletben meghatározott szakértői díjelőleg letétbe helyezéséről szóló igazolást, vagy olyan intézkedés ellen irányul, amely nyilvánvalóan nem lényegesen jogszabálysértő, továbbá ha a kifogást az előterjesztő felhívás ellenére hiányosan adja be, a bíróság a kifogást hivatalból elutasítja. Azt, aki a kifogást elutasító végzés ellen nyilvánvalóan alaptalan fellebbezéssel él, a másodfokú bíróság pénzbírsággal (Pp. 166. §) sújthatja.
+(5) Ha a kifogás elkésett vagy nem tartalmazza a miniszteri rendeletben meghatározott szakértői díjelőleg letétbe helyezéséről szóló igazolást, a bíróság a kifogást visszautasítja. Azt, aki a kifogást elutasító végzés ellen nyilvánvalóan alaptalan fellebbezéssel él, a másodfokú bíróság a Pp. 166. §-a szerinti pénzbírsággal sújthatja.
 
 (6) A végrehajtó intézkedésének elmulasztása miatt kifogás különösen akkor terjeszthető elő, ha
 

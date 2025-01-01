@@ -1,12 +1,12 @@
-145. § (1) Az árverési hirdetményt ki kell függeszteni:
+145. § (1) Az árverési hirdetményt közzé kell tenni
 
-a) a bíróság hirdetőtábláján,
+a) a bíróságok központi internetes honlapján,
 
-b) az ingatlan fekvése szerinti községi, városi, fővárosi kerületi polgármesteri hivatal, a főpolgármesteri hivatal hirdetőtábláján,
+b) az ingatlan fekvése szerinti községi, városi, fővárosi kerületi polgármesteri hivatal, a főpolgármesteri hivatal honlapján,
 
-c) az ingatlanügyi hatóság hirdetőtábláján.
+c) az ingatlanügyi hatóság honlapján.
 
-(2) Az árverési hirdetményt az árverésnek a hirdetményben feltüntetett időtartamára kell a hirdetőtáblán kifüggesztve tartani.
+(2) Az árverési hirdetményt az árverésnek a hirdetményben feltüntetett időtartamára kell az (1) bekezdésben meghatározott honlapon hozzáférhetővé tenni.
 
 (3)
 

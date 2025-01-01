@@ -1,12 +1,12 @@
-122. § (1) Az árverési hirdetményt ki kell függeszteni:
+122. § (1) Az árverési hirdetményt közzé kell tenni
 
-a) a bíróság hirdetőtábláján,
+a) a bíróságok központi internetes honlapján,
 
 b) a bírósági árverési csarnok hirdetőtábláján,
 
-c) az árverés helye szerinti községi, városi, fővárosi kerületi polgármesteri hivatal, a főpolgármesteri hivatal hirdetőtábláján.
+c) az árverés helye szerinti községi, városi, fővárosi kerületi polgármesteri hivatal, a főpolgármesteri hivatal honlapján.
 
-(2) Az árverési hirdetményt az árverést megelőzően legalább 15 napon át és legalább az árverést megelőző 5. napig kell a hirdetőtáblán kifüggesztve tartani.
+(2) Az árverési hirdetményt az árverést megelőzően legalább 15 napon át és legalább az árverést megelőző 5. napig kell a bírósági árverési csarnok hirdetőtábláján kifüggesztve tartani és a 122. § (1) bekezdés a) és c) pontjában megjelölt honlapokon hozzáférhetővé tenni.
 
 (3)
 
