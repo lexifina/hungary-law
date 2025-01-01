@@ -1,4 +1,4 @@
-37/D. § (1) Nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházással összefüggő kisajátítás esetén az ezen alcímben foglaltakat az e §-ban foglalt eltérésekkel kell alkalmazni.
+37/D. § (1) Kiemelt közlekedési infrastruktúra-beruházással összefüggő kisajátítás esetén az ezen alcímben foglaltakat az e §-ban foglalt eltérésekkel kell alkalmazni.
 
 (2) A kisajátítást kérő köteles kérni szakértő előzetes kirendelését, valamint a kisajátítási eljárásban az előzetes szakvélemény felhasználását.
 

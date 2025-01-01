@@ -6,14 +6,22 @@
 
 (3) Felhatalmazást kap a Kormány, hogy
 
-a) a kisajátítási terv kötelező elemeire, elkészítésére, felülvizsgálására, záradékolására és a kisajátítási hatóság részére történő benyújtására,
+a) a kisajátítási terv kötelező elemeire, elkészítésére, felülvizsgálására, záradékolására és a kisajátítási hatóság részére történő benyújtására vonatkozó szabályokat,
 
-b) a kártalanítás megfizetésének egyéb előírásaira, valamint az értékkülönbözet megfizetése tekintetében fizetési kedvezmény megadására
+b) a kártalanítás megfizetésének egyéb előírásaira, valamint az értékkülönbözet megfizetése tekintetében fizetési kedvezmény megadására vonatkozó szabályokat,
 
-vonatkozó szabályokat rendeletben állapítsa meg.
+c) a fejlesztési befektetési területet és a fejlesztési beruházás célját
 
-(3a) Felhatalmazást kap a Kormány, hogy a kisajátítási hatóságot rendeletben jelölje ki.
+rendeletben állapítsa meg.
 
-(3b) Felhatalmazást kap az igazságügyért felelős miniszter, hogy a nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházás kapcsán a szakértő előzetes kirendelése során a kisajátítást kérő által előzetesen letétbe helyezendő szakértői költségek összegét, vagy az összeg számításának módját rendeletben határozza meg.
+(3a) Felhatalmazást kap a Kormány, hogy
+
+a) a kisajátítási hatóságot,
+
+b) a Társaságot
+
+rendeletben jelölje ki.
+
+(3b) Felhatalmazást kap az igazságügyért felelős miniszter, hogy a kiemelt közlekedési infrastruktúra-beruházás kapcsán a szakértő előzetes kirendelése során a kisajátítást kérő által előzetesen letétbe helyezendő szakértői költségek összegét, vagy az összeg számításának módját rendeletben határozza meg.
 
 (4) Azok a nem igazságügyi szakértők, akik e törvény hatálybalépésének időpontjában, jogszabályi rendelkezés alapján kisajátítási eljárásban szakértőként való eljárásra jogosultak, e törvény hatálybalépését követő egy évig szakértőként kirendelhetők, eljárásukra az e törvény hatálybalépését megelőzően hatályos rendelkezéseket kell alkalmazni.

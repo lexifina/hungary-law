@@ -1,4 +1,4 @@
-32/A. § (1) A nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházással összefüggésben hozott kisajátítási döntéssel szemben indított közigazgatási perre a 32. §-ban foglaltakat az e §-ban foglalt eltérésekkel kell alkalmazni.
+32/A. § (1) A kiemelt közlekedési infrastruktúra-beruházással összefüggésben hozott kisajátítási döntéssel szemben indított közigazgatási perre a 32. §-ban foglaltakat az e §-ban foglalt eltérésekkel kell alkalmazni.
 
 (2) A kisajátítási hatóság a keresetlevelet az ügy irataival együtt 3 napon belül továbbítja a bírósághoz.
 

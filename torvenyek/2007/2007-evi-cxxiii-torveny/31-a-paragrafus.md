@@ -1,8 +1,8 @@
-31/A. § (1) Nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházással összefüggő kisajátítás esetében e törvény kisajátítási eljárásra vonatkozó rendelkezéseit az e §-ban foglalt eltérésekkel kell alkalmazni.
+31/A. § (1) Kiemelt közlekedési infrastruktúra-beruházással összefüggő kisajátítás esetében e törvény kisajátítási eljárásra vonatkozó rendelkezéseit az e §-ban foglalt eltérésekkel kell alkalmazni.
 
 (2) Az ügyintézési határidő meghosszabbításának nincs helye.
 
-(3) Ha jogszabály nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházással összefüggésben az általános illetékességű területtől eltérő illetékességi terület meghatározásával jelöli ki az eljáró kisajátítási hatóságot (a továbbiakban: kijelölt kisajátítási hatóság), és ennek folytán a kisajátítási tárgyalásra nem az általános illetékességű kisajátítási hatóság hivatali helyiségében kerülne sor, a kijelölt kisajátítási hatóság a tárgyalást az általános illetékességű kisajátítási hatóság hivatali helyiségében tartja meg, kivéve, ha ez ellen valamennyi ügyfél – a kisajátítást kérőt ide nem értve – tiltakozik.
+(3) Ha jogszabály kiemelt közlekedési infrastruktúra-beruházással összefüggésben az általános illetékességű területtől eltérő illetékességi terület meghatározásával jelöli ki az eljáró kisajátítási hatóságot (a továbbiakban: kijelölt kisajátítási hatóság), és ennek folytán a kisajátítási tárgyalásra nem az általános illetékességű kisajátítási hatóság hivatali helyiségében kerülne sor, a kijelölt kisajátítási hatóság a tárgyalást az általános illetékességű kisajátítási hatóság hivatali helyiségében tartja meg, kivéve, ha ez ellen valamennyi ügyfél – a kisajátítást kérőt ide nem értve – tiltakozik.
 
 (4)
 

@@ -18,7 +18,7 @@ dd) híd vagy alagút építése, fejlesztése érdekében szükséges, amennyib
 
 de) közforgalmú kikötő, úszóműves kikötőhely, komp- és révátkelőhely, valamint más hajózási létesítmény, továbbá a víziközlekedés irányítására és a hajóút kitűzésére szolgáló jelek elhelyezése a parti ingatlan rendeltetésszerű használatát megszünteti vagy jelentős mértékben akadályozza,
 
-df) a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló törvényben meghatározott intermodális csomópont megvalósítása érdekében szükséges;
+df) a vasúti közlekedésről szóló törvényben meghatározott intermodális csomópont megvalósítása érdekében szükséges;
 
 e) energiatermelés céljából, ha
 
@@ -114,9 +114,11 @@ p) kulturális infrastruktúra fejlesztése keretében a muzeális intézmények
 
 q) optimális birtokszerkezet kialakítása céljából, ha a Nemzeti Földalap kezeléséért felelős szerv – a földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló törvény szerint – kezdeményezi.
 
+r) fejlesztési befektetési területen olyan beruházás – az ipari parkot is ideértve – megvalósítása céljából, amely a 40/Y. § (2) bekezdése alapján közcélú kiemelt fejlesztési beruházás megvalósítását szolgálja.
+
 (2) Nem kell alkalmazni
 
-a) a 3. § (1) bekezdés d) pontját, az (1) bekezdés d) pont da), db) és df) alpontja, k) pont ka) alpontja, o) pontja, valamint nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánító törvényben vagy kormányrendeletben meghatározott beruházások (a továbbiakban: nemzetgazdasági szempontból kiemelt jelentőségű beruházás) esetében,
+a) a 3. § (1) bekezdés d) pontját, az (1) bekezdés d) pont da), db) és df) alpontja, k) pont ka) alpontja, o) pontja, valamint a magyar építészetről szóló 2023. évi C. törvény (a továbbiakban: Méptv.) szerinti kiemelt beruházás (a továbbiakban: kiemelt beruházás) esetében,
 
 b) a 3. § (1) bekezdés c) pontját e paragrafus (1) bekezdés i) pont ia) alpontja, j) pontja, l) pont la) alpontja és m) pont ma) és mc) alpontja esetében.
 

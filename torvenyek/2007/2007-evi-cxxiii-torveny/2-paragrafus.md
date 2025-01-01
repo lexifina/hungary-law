@@ -41,3 +41,5 @@ r) az Országgyűlés munkáját segítő hivatali szervezet elhelyezése;
 s) kulturális infrastruktúra fejlesztése;
 
 t) optimális birtokszerkezet kialakítása céljából.
+
+u) fejlesztési befektetési területen beruházás megvalósítása céljából.
