@@ -120,7 +120,7 @@ h) egészségügyi szolgáltatással kapcsolatos megállapodáskötéssel kapcso
 
 i) a kötelező egészségbiztosítás ellátásairól szóló törvényben meghatározott bejelentési, nyilvántartási, adatszolgáltatási kötelezettséget nem, vagy késedelmesen teljesítő természetes személy, foglalkoztató bírságolásával kapcsolatos feladatokat,
 
-j)[^26] a hatósági bizonyítvány kiállítását a családi otthonteremtési kedvezmény, illetve otthonteremtési kamattámogatás, valamint a családok otthonteremtési kamattámogatásával érintett kölcsön igénybevételéhez,
+j)[^26] a hatósági bizonyítvány kiállítását a családi otthonteremtési kedvezmény, illetve otthonteremtési kamattámogatás, valamint a családok otthonteremtési kamattámogatásával érintett kölcsön, továbbá otthonfelújítási kölcsön igénybevételéhez,
 
 k) a hatósági bizonyítvány kiállítását a fennálló tartozásról,
 
@@ -151,7 +151,7 @@ m) mindazon további feladatot, amelyet jogszabály vagy az alapító okirat a h
 [^23]: A 7. § (5) bekezdés a) pontja a 807/2021. (XII. 28.) Korm. rendelet 6. §-a szerint módosított szöveg.
 [^24]: A 7. § (5) bekezdés d) pontja a 20/2017. (II. 2.) Korm. rendelet 18. § (2) bekezdésével megállapított szöveg.
 [^25]: A 7. § (5) bekezdés d) pont de) alpontja a 155/2018. (IX. 3.) Korm. rendelet 6. § b) pontja, a 316/2020. (VII. 1.) Korm. rendelet 10. §-a szerint módosított szöveg.
-[^26]: A 7. § (5) bekezdés j) pontja az 518/2023. (XI. 30.) Korm. rendelet 60. § a) és b) pontja szerint módosított szöveg.
+[^26]: A 7. § (5) bekezdés j) pontja az 518/2023. (XI. 30.) Korm. rendelet 60. § a) és b) pontja, a 389/2024. (XII. 11.) Korm. rendelet 31. §-a szerint módosított szöveg.
 [^27]: A 7. § (5a) bekezdését a 20/2017. (II. 2.) Korm. rendelet 18. § (3) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 162. § (1) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^28]: A 7. § (6) bekezdése a 311/2017. (X. 31.) Korm. rendelet 30. § b) pontja szerint módosított szöveg.
 [^29]: A 7. § (7) bekezdése a 147/2019. (VI. 25.) Korm. rendelet 5. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 162. § (1) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.

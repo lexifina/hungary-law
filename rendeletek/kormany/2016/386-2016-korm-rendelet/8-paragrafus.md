@@ -1,4 +1,4 @@
-8. § (1)[^32] Az E. Alap javára elszámolandó, a kötelezett által nem teljesített befizetéseken alapuló követelések fejében gazdasági társaságban való érdekeltséget megtestesítő részvény vagy üzletrész, ingatlan, egyéb vagyon értékesítését és az értékesítésig történő hasznosítást – a működést közvetlenül szolgáló vagyonelemek kivételével – megállapodás alapján kizárólag a Maradványvagyon-hasznosító Zártkörűen Működő Részvénytársaság végezheti.
+8. § (1)[^32] Az E. Alap javára elszámolandó, a kötelezett által nem teljesített befizetéseken alapuló követelések fejében gazdasági társaságban való érdekeltséget megtestesítő részvény vagy üzletrész, ingatlan, egyéb vagyon értékesítését és az értékesítésig történő hasznosítást – a működést közvetlenül szolgáló vagyonelemek kivételével – megállapodás alapján kizárólag a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság végezheti.
 
 (2) A Kormány egészségbiztosítási szervként – ha kormányrendelet eltérően nem rendelkezik – a NEAK-ot jelöli ki.
 
@@ -72,7 +72,7 @@ kapcsolatos feladatok ellátására.
 
 (8)[^41] A Kormány egészségbiztosítóként a Központot jelöli ki a társadalombiztosítás pénzügyi alapjainak és a társadalombiztosítás szerveinek állami felügyeletéről szóló 1998. évi XXXIX. törvény 9. § (11) és (13) bekezdésében foglalt feladatok ellátására.
 
-[^32]: A 8. § (1) bekezdése a 827/2021. (XII. 28.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^32]: A 8. § (1) bekezdése a 827/2021. (XII. 28.) Korm. rendelet 29. §-ával megállapított, a 448/2024. (XII. 23.) Korm. rendelet 15. §-a szerint módosított szöveg.
 [^33]: A 8. § (3) bekezdés nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 162. § (1) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^34]: A 8. § (3) bekezdés c) pontja a 316/2020. (VII. 1.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
 [^35]: A 8. § (4) bekezdés nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 162. § (2) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
