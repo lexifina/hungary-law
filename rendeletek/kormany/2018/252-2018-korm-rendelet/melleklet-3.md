@@ -1,5 +1,3 @@
-## Az okos város központi platformszolgáltatáshoz kapcsolódó helyi érdekű fejlesztések (rendszerkatalógus)
-
 |  | A |
 
 | 1. | Szolgáltatáselem |
@@ -20,6 +18,6 @@
 
 3. melléklet a 252/2018. (XII. 17.) Korm. rendelethez
 
-## Az okos város központi platformszolgáltatáshoz csatlakozott önkormányzatok
+Az okos város központi platformszolgáltatáshoz csatlakozott önkormányzatok
 
 1. Monor Város Önkormányzata

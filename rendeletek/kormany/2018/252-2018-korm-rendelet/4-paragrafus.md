@@ -1,5 +1,3 @@
-## bízza meg.
-
 ## 3. Az okos város központi platformszolgáltatáshoz való csatlakozás
 
 4. § (1) Az okos város központi platformszolgáltatást a helyi önkormányzat vagy a helyi önkormányzat jóváhagyásával az önkormányzati társulás, a helyi önkormányzat vagy önkormányzati társulás által alapított költségvetési szerv, valamint a helyi önkormányzat 100%-os tulajdonában álló gazdálkodó szervezet (a továbbiakban együtt: a helyi önkormányzat) veheti igénybe.
