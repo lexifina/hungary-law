@@ -20,12 +20,12 @@ kell alkalmazni.
 
 (4) Az Mr1. által megállapított 20/B. § (4) és (5) bekezdését 2014. január 1-jétől kell alkalmazni.
 
-(5)[^196] A 29. § (1) bekezdésében foglaltaktól eltérően a 2024. évre kiírt pályázaton nyertes munkáltatóval a Kormányhivatal 1 évre köt keretszerződést.
+(5)[^196] A 29. § (1) bekezdésében foglaltaktól eltérően a 2025. évre kiírt pályázaton nyertes munkáltatóval a Kormányhivatal 1 évre köt keretszerződést.
 
 (6)[^197]
 
 [^193]: A 48. § a 335/2013. (IX. 20.) Korm. rendelet 25. §-ával megállapított szöveg.
 [^194]: A 48. § (1) bekezdését a 402/2017. (XII. 15.) Korm. rendelet 23. § f) pontja hatályon kívül helyezte.
 [^195]: A hatálybalépés időpontja 2013. szeptember 23.
-[^196]: A 48. § (5) bekezdése a 313/2019. (XII. 18.) Korm. rendelet 10. §-ával megállapított, a 659/2023. (XII. 28.) Korm. rendelet 32. §-a szerint módosított szöveg.
+[^196]: A 48. § (5) bekezdése a 313/2019. (XII. 18.) Korm. rendelet 10. §-ával megállapított, a 463/2024. (XII. 30.) Korm. rendelet 56. §-a szerint módosított szöveg.
 [^197]: A 48. § (6) bekezdését a 332/2014. (XII. 18.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 402/2017. (XII. 15.) Korm. rendelet 23. § f) pontja.
