@@ -10,7 +10,7 @@ c) az országos szakmai gazdasági érdek-képviseleti szervezetekkel együttmű
 
 d) országos jégkármegelőző rendszert működtet;
 
-e) ellátja az élelmiszerlánc-felügyeletért, illetve az erdőgazdálkodásért felelős miniszter által rendeletben meghatározott, a mezőgazdasági és az erdészeti gépkezelői jogosítvány megszerzésével összefüggő feladatokat;
+e)
 
 f) ellátja a Digitális Agrárakadémia működtetésével összefüggő feladatokat,
 

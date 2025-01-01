@@ -34,7 +34,7 @@ aj) az őstermelők családi gazdaságának alapításáról szóló szerződés
 
 ak) az őstermelők családi gazdaságában szereplő tagok aa), ab), ac), ae), af), ag), al), ar) alpontok szerinti adatait,
 
-al) a mezőgazdasági és vidékfejlesztési támogatási szervnél nyilvántartott ügyfél azonosító számát, technikai azonosítóját,
+al) a Nemzeti Kifizető Ügynökségnél nyilvántartott ügyfél azonosító számát, technikai azonosítóját,
 
 am) az agrárkamarai nyilvántartási számát,
 
@@ -64,7 +64,7 @@ be) a bejelentett törvényes képviselője nevét, anyja nevét és lakcímét,
 
 bf) a statisztikai azonosítóját,
 
-bg) a mezőgazdasági és vidékfejlesztési támogatási szervnél nyilvántartott ügyfél azonosító számát, technikai azonosítóját,
+bg) a Nemzeti Kifizető Ügynökségnél nyilvántartott ügyfél azonosító számát, technikai azonosítóját,
 
 bh) az agrárkamarai nyilvántartási számát,
 

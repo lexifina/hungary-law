@@ -12,7 +12,7 @@
 
 (3a) Az agrárkamara által ellátott közfeladat finanszírozása az ellátott feladattal arányos pénzügyi fedezet részben vagy egészben történő, az e törvényben foglaltaknak megfelelő biztosításával valósul meg. A pénzügyi fedezetet elsődlegesen az államháztartás működési rendjére vonatkozó szabályok szerint a központi költségvetésből nyújtott támogatásból, ennek hiánya esetén – ha a közfeladat jellege alapján egyébként igazgatási szolgáltatási díj állapítható meg – az agrárkamara részére fizetendő igazgatási szolgáltatási díjból kell biztosítani. Az agrárkamara által ellátandó közfeladat költségvetési támogatással, vagy igazgatási szolgáltatási díjjal, továbbá közfeladat vonatkozásában költségvetési szerv és az agrárkamara között létrejött szerződés alapján az agrárkamara számára járó díjjal nem fedezett részének finanszírozásáról való döntés az országos küldöttgyűlés kizárólagos hatáskörébe tartozik.
 
-(4) Az agrárkamara a jogszabályban meghatározottak, valamint a mezőgazdasági támogatási szervvel kötött megállapodásban foglaltak szerint átruházott illetve, együttműködői feladatokat lát el.
+(4) Az agrárkamara a jogszabályban meghatározottak, valamint a Nemzeti Kifizető Ügynökséggel kötött megállapodásban foglaltak szerint átruházott illetve, együttműködői feladatokat lát el.
 
 (5) Az agrárkamara a földről szóló törvényben meghatározottak szerint eljár a közös tulajdonban álló föld használati rendjének hatósági úton történő megállapítására irányuló eljárásban.
 

@@ -30,6 +30,6 @@ g) szakmai kamara: meghatározott szakmát gyakorló személyek törvény által
 
 h) ÖVTJ: az önálló vállalkozók tevékenységi jegyzéke bevezetéséről és alkalmazásáról szóló mindenkor hatályos jogszabályban meghatározott tevékenységek jegyzéke;
 
-i) TEÁOR: a mindenkor hatályos gazdasági tevékenységek egységes ágazati osztályozási rendszere, amely a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról szóló 1893/2006/EK európai parlamenti és tanácsi rendeletnek felel meg;
+i) TEÁOR: a gazdasági tevékenységek egységes ágazati osztályozási rendszere, amely a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról szóló 1893/2006/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2022. október 10-i (EU) 2023/137 felhatalmazáson alapuló bizottsági rendeletnek (a továbbiakban: TEÁOR’25) felel meg;
 
 j)

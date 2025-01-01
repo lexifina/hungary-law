@@ -16,13 +16,13 @@ ea) a tárgyévben megfizetendő és vissza nem térített, illetve meg nem tér
 
 eb) a tárgyévben fizetendő népegészségügyi termékadó összegéről,
 
-f) amennyiben rendelkezésre áll az a)–b) pontban foglalt személyek vonatkozásában – a 11. §-ban foglaltak céljából – a tárgyévben a támogatási szerv által folyósított támogatások összegéről.
+f) amennyiben rendelkezésre áll az a)–b) pontban foglalt személyek vonatkozásában – a 11. §-ban foglaltak céljából – a tárgyévben a Nemzeti Kifizető Ügynökség által folyósított támogatások összegéről.
 
 (2a) Az állami adóhatóság a tárgyévet követő év július 1. napjáig köteles adatot szolgáltatni az agrárkamara részére a tárgyévben elhunyt őstermelő, az agrárkamarai tag egyéni vállalkozó adóazonosító jeléről és adószámáról, valamint megszűnt agrárkamarai tag egyéni cég nevéről és adószámáról. Az állami adóhatóságnak az e bekezdés szerint nyújtott adatokat úgy kell átadnia, hogy az agrárkamara számára megállapítható legyen az elhunyt őstermelő, egyéni vállalkozó, illetve egyéni cég tagja elhalálozásának időpontja.
 
 (2b) Az állami adóhatóság a Ctv. 24. § (4a) bekezdése szerinti értesülésével és a Ctv. 24. § (4b) bekezdése szerinti értesítésével egyidejűleg értesíti az agrárkamarát a cég agrárgazdasági tevékenységnek minősülő fő- és további tevékenységi köreiről és az azokat érintő változásokról. Az értesítésben az adóhatóság megjelöli a tevékenységi kör megváltozására vonatkozó bejelentés megtételének napját.
 
-(2c) Az élelmiszerlánc-felügyeleti szerv az agrárkamara számára az élelmiszerláncról és hatósági felügyeletéről szóló törvény szerinti élelmiszerlánc-felügyeleti információs rendszerhez folyamatos hozzáférést biztosít.
+(2c) Az élelmiszerlánc-felügyeleti szerv az agrárkamara számára az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény (a továbbiakban: Éltv) szerinti élelmiszerlánc-felügyeleti információs rendszerhez folyamatos hozzáférést biztosít.
 
 (2d) A földművesekről, a mezőgazdasági termelőszervezetekről vezetett nyilvántartásból adatszolgáltatásra jogosult szerv az adat keletkezésével, illetve a változás átvezetésével egyidejűleg köteles adatot szolgáltatni az agrárkamara részére
 
@@ -46,9 +46,9 @@ bc) székhelyéről (telephelyéről, fióktelepéről).
 
 (2f) Az agrárkamara jogosult – a megjelölt kötelező adatszolgáltatási időponton kívül is – újabb adatszolgáltatást kérni az állami adóhatóságtól a (2)–(2a) bekezdésekben foglalt adatokra.
 
-(3) A mezőgazdasági és vidékfejlesztési támogatási szerv az általa kezelt adatok közül a tárgyévet követő év június 1. napjáig köteles adatot szolgáltatni a kamara részére a tárgyévben a központi költségvetésből, illetve az Európai Mezőgazdasági Vidékfejlesztési Alapból (a továbbiakban: EMVA), az Európai Mezőgazdasági Garancia Alapból (a továbbiakban: EMGA), továbbá az Európai Halászati Alapból (a továbbiakban: EHA) – ideértve ezen pénzügyi alapok helyébe lépő közösségi pénzügyi forrásokat is – finanszírozott támogatásban részesülő kamarai tagra vonatkozóan a következő adattartalommal:
+(3) A Nemzeti Kifizető Ügynökség az általa kezelt adatok közül a tárgyévet követő év június 1. napjáig köteles adatot szolgáltatni a kamara részére a tárgyévben a központi költségvetésből, illetve az Európai Mezőgazdasági Vidékfejlesztési Alapból (a továbbiakban: EMVA), az Európai Mezőgazdasági Garancia Alapból (a továbbiakban: EMGA), továbbá az Európai Halászati Alapból (a továbbiakban: EHA) – ideértve ezen pénzügyi alapok helyébe lépő közösségi pénzügyi forrásokat is – finanszírozott támogatásban részesülő kamarai tagra vonatkozóan a következő adattartalommal:
 
-a) ügyfélazonosító száma;
+a) a Közös Agrárpolitikából és a nemzeti költségvetésből biztosított agrártámogatások eljárási rendjéről szóló 2022. évi LXV. törvény 10. § (2) bekezdés b) pontja szerinti támogatási azonosító (a továbbiakban: támogatási azonosító) száma;
 
 b) családi és utóneve (elnevezése), lakóhelye, székhelye, telephelye;
 
@@ -68,9 +68,9 @@ f) az EMVA-ból és az EHA-ból finanszírozott, beruházási jellegű intézked
 
 g) adóazonosító jele, adószáma.
 
-(3a) A mezőgazdasági és vidékfejlesztési támogatási szerv az általa kezelt adatok közül havonta, a tárgyhót követő hónap 15. napjáig köteles adatot szolgáltatni a kamara részére a kamara közreműködésével – ideértve a jogszabályban meghatározott kamarai meghatalmazott útján – benyújtott agrártámogatásokra vonatkozó következő adatokról:
+(3a) A Nemzeti Kifizető Ügynökség az általa kezelt adatok közül havonta, a tárgyhót követő hónap 15. napjáig köteles adatot szolgáltatni a kamara részére a kamara közreműködésével – ideértve a jogszabályban meghatározott kamarai meghatalmazott útján – benyújtott agrártámogatásokra vonatkozó következő adatokról:
 
-a) a kérelmező ügyfélazonosító száma,
+a) a kérelmező támogatási azonosító száma,
 
 b) a kérelmező adóazonosító jele, adószáma,
 
@@ -80,11 +80,11 @@ d) a kérelmező lakóhelye, székhelye, telephelye,
 
 e) a kérelem jogcíme,
 
-f) a kérelmet benyújtó kamarai alkalmazott ügyfélazonosító száma,
+f) a kérelmet benyújtó kamarai alkalmazott támogatási azonosító száma,
 
 g) a kérelem benyújtásának időpontja.
 
-(4) Az 5. § (9) bekezdése szerinti szervezetek az egyéni vállalkozók nyilvántartását vezető szerv, az állami és önkormányzati adóhatóság, a mezőgazdasági és vidékfejlesztési támogatási szerv, az agrárkár-enyhítési szerv, az élelmiszerlánc-felügyeleti szerv, a fogyasztóvédelmi hatóság, az ingatlanügyi hatóság, a foglalkoztatás-felügyeleti hatóság, a kereskedelmi hatóság, a Gazdasági Versenyhivatal, a polgárok személyi, lakcím- és értesítési cím adatait tartalmazó nyilvántartást kezelő szerv és a mezőgazdasági igazgatási szerv az e törvényben meghatározott agrárkamarai nyilvántartások vezetéséhez szükséges, az e törvényben meghatározott adatokat, továbbá az agrárkamarai közfeladatok ellátásához szükséges nyilvános adatokat átadja az agrárkamara számára.
+(4) Az 5. § (9) bekezdése szerinti szervezetek az egyéni vállalkozók nyilvántartását vezető szerv, az állami és önkormányzati adóhatóság, a Nemzeti Kifizető Ügynökség az agrárkár-enyhítési szerv, az élelmiszerlánc-felügyeleti szerv, a fogyasztóvédelmi hatóság, az ingatlanügyi hatóság, a foglalkoztatás-felügyeleti hatóság, a kereskedelmi hatóság, a Gazdasági Versenyhivatal, a polgárok személyi, lakcím- és értesítési cím adatait tartalmazó nyilvántartást kezelő szerv és a mezőgazdasági igazgatási szerv az e törvényben meghatározott agrárkamarai nyilvántartások vezetéséhez szükséges, az e törvényben meghatározott adatokat, továbbá az agrárkamarai közfeladatok ellátásához szükséges nyilvános adatokat átadja az agrárkamara számára.
 
 (4a) A céginformációs és az elektronikus cégeljárásban közreműködő szolgálat az e törvényben meghatározott agrárkamarai nyilvántartás vezetéséhez és az agrárkamarai közfeladatok ellátásához szükséges nyilvános adatokat tovább feldolgozásra alkalmas módon, elektronikus úton, díj- és térítésmentesen – a cégnyilvántartás elektronikus hálózata használatával az átadónál felmerülő költség megtérítésével – és a szükséges időben átadja az agrárkamara számára. Az adatszolgáltatás lebonyolításának részletes szabályait a kamara és a céginformációs és az elektronikus cégeljárásban közreműködő szolgálat közti megállapodásban kell meghatározni.
 
