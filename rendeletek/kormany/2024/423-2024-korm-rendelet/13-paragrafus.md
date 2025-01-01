@@ -1,3 +1,1 @@
-13. §[^13]
-
-[^13]: A 13. § a 19. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+13. § Az Ekr. 10. § (2) bekezdésében a „300 millió forintot” szövegrész helyébe a „600 millió forintot” szöveg lép.
