@@ -4,7 +4,7 @@
 
 a) az első kettő szakma megszerzését – ideértve az ahhoz kapcsolódó előkészítő évfolyamban, illetve a műhelyiskolában való részvételt is – az első szakmai vizsga befejezéséig, a második szakma esetén legfeljebb három tanéven keresztül,
 
-b) a szakmai képzéshez kapcsolódó első szakképesítés megszerzését az első képesítő vizsga befejezéséig és
+b) a szakmai képzéshez kapcsolódó első szakképesítés megszerzését – ideértve a 607/2023. (XII. 22.) Korm. rendelet szerinti mérlegképes könyvelői, adótanácsadói hatósági képesítéseket is – az első képesítő vizsga befejezéséig és
 
 c) a technikumban tanulói jogviszony, illetve felnőttképzési jogviszony keretében az érettségi bizonyítvány megszerzését
 
