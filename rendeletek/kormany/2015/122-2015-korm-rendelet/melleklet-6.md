@@ -1,4 +1,4 @@
-6. melléklet a 122/2015. (V. 26.) Korm. rendelethez[^111]
+6. melléklet a 122/2015. (V. 26.) Korm. rendelethez[^116]
 
 Átváltási tényezők
 
@@ -62,4 +62,4 @@
 
 (***) Akkor alkalmazandó, ha az energiamegtakarítást a primer energia viszonylatában számítják ki a végsőenergia- fogyasztáson alapuló, alulról építkező módszer alkalmazásával. A kWh-ban kifejezett villamosenergia-megtakarítás esetében alapértelmezett 2,1-es együttható alkalmazható.
 
-[^111]: A 6. melléklet a 715/2020. (XII. 30.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.
+[^116]: A 6. melléklet a 715/2020. (XII. 30.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.

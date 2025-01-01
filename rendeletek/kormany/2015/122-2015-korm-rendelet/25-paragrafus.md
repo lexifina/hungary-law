@@ -1,4 +1,4 @@
-25. §[^75] (1) A közreműködő szervezetnek rendelkeznie kell a közreműködői tevékenységgel kapcsolatos feladatok megfelelő ellátásához szükséges személyzettel és felszereltséggel.
+25. §[^76] (1) A közreműködő szervezetnek rendelkeznie kell a közreműködői tevékenységgel kapcsolatos feladatok megfelelő ellátásához szükséges személyzettel és felszereltséggel.
 
 (2) A közreműködő szervezetnek rendelkeznie kell:
 
@@ -16,4 +16,4 @@ c) Informatikai Biztonsági Szabályzattal.
 
 (3) A közreműködő szervezetnek alkalmasnak kell lennie arra, hogy biztosítsa a felhasználók számára az elektronikus ügyintézés lehetőségét.
 
-[^75]: A 25. § a 393/2016. (XII. 5.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^76]: A 25. § a 393/2016. (XII. 5.) Korm. rendelet 13. §-ával megállapított szöveg.
