@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-530-20-
 | --- | --- | --- |
 | 2023-06-25 | 2022-530-20-22.1 | 530/2022. (XII. 19.) Korm. rendelet |
 | 2023-06-26 | 2022-530-20-22.2 | 2010. évi CXXX. törvény |
+| 2025-01-01 | 2022-530-20-22.3 | 416/2024. (XII. 20.) Korm. rendelet |

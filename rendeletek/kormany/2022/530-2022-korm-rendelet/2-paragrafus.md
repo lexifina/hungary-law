@@ -14,6 +14,10 @@ d) a további feltételek tekintetében a szervezet képviselőjének a nyilatko
 
 igazolja.
 
+(3a)[^1] A kérelemben megjelölteket – a (3) bekezdés a)–c) pontjában foglalt dokumentumok hiánya esetén – az Fgytv. 38. § (1) bekezdés a)–d) pontjában foglaltaknak való megfelelés vonatkozásában a miniszter a civil szervezetek bírósági nyilvántartása, valamint a cégnyilvántartás adatai alapján hivatalból is ellenőrzi, és jogosult a nyilvántartást vezető szerv megkeresésére is.
+
 (4) A kérelemben meg kell jelölni, hogy a szervezet mely tevékenységi köre irányul a fogyasztói érdekek védelmére.
 
 (5) A kérelemben meg kell jelölni, hogy a fogyasztóvédelmi szervezet határon átnyúló képviseleti kereset vagy belföldi képviseleti kereset vagy mindkét típusú képviseleti kereset tekintetében kéri a feljogosított szervezetként való kijelölését.
+
+[^1]: A 2. § (3a) bekezdését a 416/2024. (XII. 20.) Korm. rendelet 29. §-a iktatta be.
