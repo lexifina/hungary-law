@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2018-103-00-00
 | 2020-10-28 | 2020. évi CIV. törvény | 2018-103-00-00.6 |
 | 2022-01-01 | 2021. évi LXXXVI. törvény | 2018-103-00-00.7 |
 | 2024-01-01 | 2023. évi XC. törvény | 2018-103-00-00.8 |
+| 2025-01-01 | 2024. évi LVI. törvény | 2018-103-00-00.9 |
