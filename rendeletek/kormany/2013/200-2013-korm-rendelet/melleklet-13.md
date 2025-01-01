@@ -1,4 +1,4 @@
-13. melléklet a 200/2013. (VI. 13.) Korm. rendelethez[^65]
+13. melléklet a 200/2013. (VI. 13.) Korm. rendelethez[^69]
 
 Az eredményességi támogatásra jogosult utánpótlás korosztály
 
@@ -120,4 +120,4 @@ Az eredményességi támogatásra jogosult utánpótlás korosztály
 
 | 58. | Vízilabda | U19 | U20 |  |
 
-[^65]: A 13. mellékletet a 151/2024. (VI. 28.) Korm. rendelet 16. § (2) bekezdése iktatta be.
+[^69]: A 13. mellékletet a 151/2024. (VI. 28.) Korm. rendelet 16. § (2) bekezdése iktatta be.

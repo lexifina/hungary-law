@@ -18,8 +18,8 @@
 
 | 9. | VIII. helyezés | 1 000 000 |
 
-4. melléklet a 200/2013. (VI. 13.) Korm. rendelethez[^56]
+4. melléklet a 200/2013. (VI. 13.) Korm. rendelethez[^60]
 
 A versenyzői pénzjutalom a FIDE által szervezett Sakkolimpia esetén(nettó összegben, forintban, 100%)
 
-[^56]: A 4. mellékletet a 234/2016. (VII. 29.) Korm. rendelet 4. §-a iktatta be, szövege a 151/2024. (VI. 28.) Korm. rendelet 16. § (1) bekezdés d) pontjával megállapított szöveg.
+[^60]: A 4. mellékletet a 234/2016. (VII. 29.) Korm. rendelet 4. §-a iktatta be, szövege a 151/2024. (VI. 28.) Korm. rendelet 16. § (1) bekezdés d) pontjával megállapított szöveg.

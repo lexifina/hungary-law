@@ -1,4 +1,4 @@
-11. melléklet a 200/2013. (VI. 13.) Korm. rendelethez[^63]
+11. melléklet a 200/2013. (VI. 13.) Korm. rendelethez[^67]
 
 A versenyzői eredményességi támogatás mértéke világ- és Európa-bajnokság esetében paralimpiai versenyszámban(nettó összegben, forintban, 100%)
 
@@ -44,4 +44,4 @@ A versenyzői eredményességi támogatás mértéke világ- és Európa-bajnoks
 
 | 5. | III. | 375 000 | 750 000 |
 
-[^63]: A 11. mellékletet a 151/2024. (VI. 28.) Korm. rendelet 16. § (2) bekezdése iktatta be.
+[^67]: A 11. mellékletet a 151/2024. (VI. 28.) Korm. rendelet 16. § (2) bekezdése iktatta be.

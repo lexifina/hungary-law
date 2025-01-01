@@ -32,15 +32,17 @@ a) a MOB-ban tagsággal rendelkező országos sportági szakszövetségbe tartoz
 
 b) a (6) bekezdés szerinti javaslatban meghatározott
 
-ba) a versenyzőt felkészítő edző; valamint
+ba)[^30] a versenyzőt felkészítő edző, nevelőedző, valamint
 
 bb) a felkészítésben közreműködő sportszakember
 
 részesülhet.
 
-(5)[^30] Edző, sportszakember nem részesülhet magasabb összegű támogatásban, mint a legeredményesebb versenyzőjének járó összeg. Csapatsportág esetében a szövetségi kapitány eredményességi támogatásának mértéke nem lehet több, mint a versenyző részére a 10. melléklet vagy a 11. melléklet szerint járó pénzjutalom 150 százaléka.
+(5)[^31] Edző, nevelőedző, sportszakember nem részesülhet magasabb összegű támogatásban, mint a legeredményesebb versenyzőjének járó összeg. Csapatsportág esetében a szövetségi kapitány eredményességi támogatásának mértéke nem lehet több, mint a versenyző részére a 10. melléklet vagy a 11. melléklet szerint járó pénzjutalom 150 százaléka.
 
-(6)[^31] Az eredményességi támogatásban részesítendő személyekre és a támogatás összegére
+(5a)[^32] A versenyző sportáganként egy vagy több edzőt, nevelőedzőt nevezhet meg írásban versenyzői javaslatában olimpiai versenyszám esetén az országos sportági szakszövetség részére, paralimpiai versenyszám esetén az országos sportági szakszövetség, sportági szövetség, fogyatékosok országos sportszövetsége, illetve ha a sportágban nem működik országos sportági szakszövetség, sportági szövetség, fogyatékosok országos sportszövetsége, az MPB részére az eredményességi támogatásra jogosító helyezést megalapozó sport világesemény hivatalos időszakát legalább harminc nappal megelőzően. A versenyző a versenyzői javaslatot korlátozott cselekvőképessége, cselekvőképtelensége esetén a törvényes képviselője, gondnoka jóváhagyásával teszi meg.
+
+(6)[^33] Az eredményességi támogatásban részesítendő személyekre és a támogatás összegére
 
 a) olimpiai versenyszám esetén az országos sportági szakszövetség tesz javaslatot a MOB-nak,
 
@@ -48,17 +50,20 @@ b) paralimpiai versenyszám esetén az országos sportági szakszövetség, spor
 
 c) a sakk világbajnokságon és Európa-bajnokságon klasszikus (sztenderd) versenyszám esetén az országos sportági szakszövetség tesz javaslatot az NVESZ-nek
 
-az (1)–(5), a (7) és (8) bekezdés, a 13. melléklet, valamint a 6. § alapján a sporteseményt követő harminc napon belül. A javaslathoz elektronikus adathordozón csatolni kell a világbajnokságon, Európa-bajnokságon elért, eredményességi támogatásra jogosító eredmény versenyszámainak versenykiírását, rajtlistáját és az eredményeket tartalmazó hivatalos jegyzőkönyvet, valamint az edző és a sportszakember esetében a felkészítésben való részvételről szóló sportszakmai beszámolót és az eredményességi támogatást alátámasztó indoklást. A javaslatot a sportköztestület ügyintéző-képviseleti szerve hagyja jóvá és a 12. melléklet szerint továbbítja a sportpolitikáért felelős miniszter részére a jóváhagyást követő tizenöt napon belül. A sportpolitikáért felelős miniszter a sportköztestület által jóváhagyott javaslat alapján határozza meg a támogatandók névsorát és az eredményességi támogatás összegét.
+az (1)–(5a) és a (8) bekezdés, a 13. melléklet, valamint a 6. § alapján a sporteseményt követő harminc napon belül. A javaslathoz elektronikus adathordozón csatolni kell a világbajnokságon, Európa-bajnokságon elért, eredményességi támogatásra jogosító eredmény versenyszámainak versenykiírását, rajtlistáját és az eredményeket tartalmazó hivatalos jegyzőkönyvet, valamint az edző, nevelőedző és a sportszakember esetében a felkészítésben való részvételről szóló sportszakmai beszámolót és az eredményességi támogatást alátámasztó indokolást. A javaslatban az edző és a nevelőedző személyét a versenyzői javaslat alapján kell meghatározni. Ha a versenyzői javaslatban a nevelőedző személye megjelölésre került, őt az a)–c) pont szerinti javaslatban szerepeltetni kell. A versenyzői javaslatot az a)–c) pont szerinti javaslathoz csatolni kell, ennek hiányában a javaslat érvénytelen. A javaslatról a sportköztestület ügyintéző-képviseleti szerve dönt, és az alapján tizenöt napon belül a 12. melléklet szerint tesz javaslatot a sportpolitikáért felelős miniszter részére, amelyhez csatolni kell a versenyzői javaslatokat is. A sportpolitikáért felelős miniszter a sportköztestület javaslata alapján dönt a támogatandók névsoráról és az eredményességi támogatás összegéről.
 
-(7)[^32]
+(7)[^34]
 
-(8) Egy világbajnokságon, Európa-bajnokságon egy személy egy jogcímen – versenyzőként, edzőként vagy sportszakemberként – részesülhet támogatásban.
+(8)[^35] Egy világbajnokságon, Európa-bajnokságon egy személy egy jogcímen – versenyzőként, edzőként, nevelőedzőként vagy sportszakemberként – részesülhet támogatásban.
 
 [^25]: Az 5. § (1) bekezdése a 151/2024. (VI. 28.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
 [^26]: Az 5. § (2) bekezdése a 294/2015. (X. 8.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^27]: Az 5. § (2) bekezdés a) pont nyitó szövegrésze a 151/2024. (VI. 28.) Korm. rendelet 17. § c) pontja szerint módosított szöveg.
 [^28]: Az 5. § (2) bekezdés b) pont nyitó szövegrésze a 151/2024. (VI. 28.) Korm. rendelet 17. § c) pontja szerint módosított szöveg.
 [^29]: Az 5. § (3) bekezdése az 566/2020. (XII. 8.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 151/2024. (VI. 28.) Korm. rendelet 17. § d) pontja szerint módosított szöveg.
-[^30]: Az 5. § (5) bekezdése az 566/2020. (XII. 8.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 151/2024. (VI. 28.) Korm. rendelet 17. § g) pontja szerint módosított szöveg.
-[^31]: Az 5. § (6) bekezdése a 475/2016. (XII. 27.) Korm. rendelet 23. §-ával megállapított, záró szövegrésze a 151/2024. (VI. 28.) Korm. rendelet 17. § h) pontja szerint módosított szöveg.
-[^32]: Az 5. § (7) bekezdését a 151/2024. (VI. 28.) Korm. rendelet 18. § d) pontja hatályon kívül helyezte.
+[^30]: Az 5. § (4) bekezdés b) pont ba) alpontja a 151/2024. (VI. 28.) Korm. rendelet 17. § e) pontja szerint módosított szöveg.
+[^31]: Az 5. § (5) bekezdése az 566/2020. (XII. 8.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 151/2024. (VI. 28.) Korm. rendelet 17. § g) és f) pontja szerint módosított szöveg.
+[^32]: Az 5. § (5a) bekezdését a 151/2024. (VI. 28.) Korm. rendelet 14. § (2) bekezdése iktatta be.
+[^33]: Az 5. § (6) bekezdése a 151/2024. (VI. 28.) Korm. rendelet 14. § (3) bekezdésével megállapított szöveg.
+[^34]: Az 5. § (7) bekezdését a 151/2024. (VI. 28.) Korm. rendelet 18. § d) pontja hatályon kívül helyezte.
+[^35]: Az 5. § (8) bekezdése a 151/2024. (VI. 28.) Korm. rendelet 17. § i) pontja szerint módosított szöveg.

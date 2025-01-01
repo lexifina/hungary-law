@@ -18,7 +18,7 @@
 
 | 9. | VIII. helyezés | 77 000 |
 
-10. melléklet a 200/2013. (VI. 13.) Korm. rendelethez[^62]
+10. melléklet a 200/2013. (VI. 13.) Korm. rendelethez[^66]
 
 A versenyzői eredményességi támogatás mértéke világ- és Európa-bajnokság esetében olimpiai versenyszámban(nettó összegben, forintban, 100%)
 
@@ -82,4 +82,4 @@ A versenyzői eredményességi támogatás mértéke világ- és Európa-bajnoks
 
 | 8. | III. | 225 000 | 450 000 |
 
-[^62]: A 10. mellékletet a 151/2024. (VI. 28.) Korm. rendelet 16. § (2) bekezdése iktatta be.
+[^66]: A 10. mellékletet a 151/2024. (VI. 28.) Korm. rendelet 16. § (2) bekezdése iktatta be.
