@@ -8,7 +8,7 @@
 
 (4) A fegyelmi tanács tagjai a kormánytisztviselővel legalább azonos besorolási (előmeneteli) kategóriájú álláshelyen foglalkoztatott személyek lehetnek.
 
-(5)[^33] Ha a kormányzati igazgatási szervnél a (4) bekezdésben foglalt feltételeknek megfelelő személy nincs, a kormányzati igazgatási szerv irányítását, illetve felügyeletét ellátó kormányzati igazgatási szerv vezetője – ilyen szerv hiányában a személyügyi központ vezetője – a (4) bekezdésben foglalt feltételeknek megfelelő kormánytisztviselőjét jelöli ki a fegyelmi tanács tagjának.
+(5)[^34] Ha a kormányzati igazgatási szervnél a (4) bekezdésben foglalt feltételeknek megfelelő személy nincs, a kormányzati igazgatási szerv irányítását, illetve felügyeletét ellátó kormányzati igazgatási szerv vezetője – ilyen szerv hiányában a személyügyi központ vezetője – a (4) bekezdésben foglalt feltételeknek megfelelő kormánytisztviselőjét jelöli ki a fegyelmi tanács tagjának.
 
 (6) A fegyelmi tanácsban elnökként, tagként, valamint jegyzőkönyvvezetőként nem vehet részt:
 
@@ -20,7 +20,7 @@ c) akit a vizsgálat során tanúként vagy szakértőként hallgattak meg, vala
 
 d) akitől egyébként az ügy elfogulatlan elbírálása nem várható el.
 
-(7)[^34] Ha a fegyelmi jogkör gyakorlójával szemben áll fenn a (6) bekezdés szerinti valamely kizárási ok, a kormányzati igazgatási szerv irányítását, illetve felügyeletét ellátó kormányzati igazgatási szerv vezetője – ilyen szerv hiányában a személyügyi központ vezetője – vezetői álláshelyen foglalkoztatott kormánytisztviselőjét jelöli ki a fegyelmi tanács elnökének.
+(7)[^35] Ha a fegyelmi jogkör gyakorlójával szemben áll fenn a (6) bekezdés szerinti valamely kizárási ok, a kormányzati igazgatási szerv irányítását, illetve felügyeletét ellátó kormányzati igazgatási szerv vezetője – ilyen szerv hiányában a személyügyi központ vezetője – vezetői álláshelyen foglalkoztatott kormánytisztviselőjét jelöli ki a fegyelmi tanács elnökének.
 
-[^33]: A 103. § (5) bekezdése a 243/2022. (VII. 4.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
-[^34]: A 103. § (7) bekezdése a 243/2022. (VII. 4.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
+[^34]: A 103. § (5) bekezdése a 243/2022. (VII. 4.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
+[^35]: A 103. § (7) bekezdése a 243/2022. (VII. 4.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.

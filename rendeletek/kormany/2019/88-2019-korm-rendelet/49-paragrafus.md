@@ -20,7 +20,7 @@ c) hozzájárul ahhoz, hogy a kamatmentes kölcsön visszafizetésének biztosí
 
 d) vállalja, hogy a kormányzati szolgálati jogviszonyát a kamatmentes kölcsön visszafizetéséig fenntartja,
 
-e)[^18] a lakás megvásárlásához, építéséhez, bővítéséhez, korszerűsítéséhez – a teljes vételárhoz, az építési vagy korszerűsítési költséghez viszonyítva – legalább 30%-os mértékű önrésszel rendelkezik (kivéve, ha a lakás építéséhez, vásárlásához felvett kölcsönre az állam készfizető kezességet vállal), ideértve az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú támogatásról szóló kormányrendelet, valamint a használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló kormányrendelet, továbbá a kistelepüléseken nyújtható otthonteremtési támogatásokról szóló kormányrendelet szerinti családi otthonteremtési kedvezményt is,
+e)[^18] a lakás megvásárlásához, építéséhez, bővítéséhez, korszerűsítéséhez – a teljes vételárhoz, az építési vagy korszerűsítési költséghez viszonyítva – legalább 30%-os mértékű önrésszel rendelkezik (kivéve, ha a lakás építéséhez, vásárlásához felvett kölcsönre az állam készfizető kezességet vállal), ideértve az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú támogatásról szóló kormányrendelet, valamint a használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló kormányrendelet, továbbá a kistelepüléseken nyújtható otthonteremtési támogatásokról szóló kormányrendelet szerinti családi otthonteremtési kedvezményt, valamint a Vidéki Otthonfelújítási Programról szóló kormányrendelet szerinti otthonfelújítási támogatást vagy otthonfelújítási kölcsönt is,
 
 f) vállalja, hogy a kamatmentes kölcsön jelzálogjog biztosítékául szolgáló ingatlanra – ha azzal még nem rendelkezik – lakásbiztosítást köt,
 
@@ -70,4 +70,4 @@ c) a kormánytisztviselő öröklés vagy ajándékozás útján haszonélvezett
 [^15]: A 49. § (1a) bekezdését a 676/2021. (XII. 3.) Korm. rendelet 1. §-a iktatta be.
 [^16]: A 49. § (1b) bekezdését a 676/2021. (XII. 3.) Korm. rendelet 1. §-a iktatta be.
 [^17]: A 49. § (1c) bekezdését a 676/2021. (XII. 3.) Korm. rendelet 1. §-a iktatta be.
-[^18]: A 49. § (2) bekezdés e) pontja az 518/2023. (XI. 30.) Korm. rendelet 63. § (2) bekezdése szerint módosított szöveg.
+[^18]: A 49. § (2) bekezdés e) pontja az 518/2023. (XI. 30.) Korm. rendelet 63. § (2) bekezdése, a 389/2024. (XII. 11.) Korm. rendelet 33. § (2) bekezdése szerint módosított szöveg.
