@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-65-20-2
 | 2022-09-02 | 2021-65-20-22.5 | 2010: CXXX. törvény |
 | 2024-01-01 | 2021-65-20-22.6 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2024-01-02 | 2021-65-20-22.7 | 2010: CXXX. törvény |
+| 2025-01-01 | 2021-65-20-22.8 | Nemzeti Jogszabálytár (egységes szerkezet) |
