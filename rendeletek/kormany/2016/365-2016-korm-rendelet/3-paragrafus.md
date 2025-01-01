@@ -22,7 +22,7 @@ h) a kábítószer-prekurzorokkal kapcsolatos egyes hatósági feladatokban,
 
 i)[^24] az egyes festékek, lakkok és járművek javító fényezésére szolgáló termékek illékony szerves oldószer tartalmának szabályozásáról szóló külön jogszabályban kötelezett forgalmazók nyilvántartásba vételére irányuló eljárásban.
 
-(2a)[^25] A kereskedelmi hatóság az engedélyezési eljárásában – az adott eljárásra vonatkozó különös szabályokban meghatározott szempontok mellett – a 7. mellékletben foglalt táblázat szerinti feltételek esetén vizsgálja a táblázatban meghatározott szakkérdést.
+(2a)[^25]
 
 (3)[^26] Budapest Főváros Kormányhivatala országos illetékességgel eljár a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény (a továbbiakban: Pmtv.) 5. § e) pontja szerinti felügyeletet ellátó szerv feladatkörében a Pmtv.
 
@@ -50,6 +50,6 @@ b) az idegenvezetői szolgáltatást ténylegesen végző személy nyelvismeret�
 [^22]: A 3. § (2) bekezdés a) pontja a 198/2019. (VIII. 1.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
 [^23]: A 3. § (2) bekezdés f) pontját a 198/2019. (VIII. 1.) Korm. rendelet 22. § b) pontja hatályon kívül helyezte, újonnan a 37/2021. (II. 2.) Korm. rendelet 11. §-a iktatta be.
 [^24]: A 3. § (2) bekezdés i) pontja a 360/2019. (XII. 30.) Korm. rendelet 157. § (10) bekezdés c) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
-[^25]: A 3. § (2a) bekezdését a 258/2024. (VIII. 29.) Korm. rendelet 12. §-a iktatta be.
+[^25]: A 3. § (2a) bekezdését a 258/2024. (VIII. 29.) Korm. rendelet 12. §-a iktatta be, a 474/2024. (XII. 31.) Korm. rendelet 153. § a) pontja hatályon kívül helyezte.
 [^26]: A 3. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 157. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
 [^27]: A 3. § (3a) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 157. § (3) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 203. §-át.
