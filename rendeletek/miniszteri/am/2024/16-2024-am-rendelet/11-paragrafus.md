@@ -1,5 +1,3 @@
 ## 7. Vizes élőhelyek és tőzeglápok megőrzése – HMKÁ 2. előírás
 
-11. §[^7]
-
-[^7]: A 11. § a 40. § (2) bekezdés alapján 2025. január 1-jén lép hatályba.
+11. § A MePAR-ban vizes élőhelyként lehatárolt elem fenntartása kötelező.
