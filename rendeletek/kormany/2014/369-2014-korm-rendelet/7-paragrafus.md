@@ -1,4 +1,4 @@
-7. §[^16] (1) A koncessziós társaság a 4. § (2) bekezdése szerinti átvevő- és kezelőhálózat kialakítását az országos hulladékgazdálkodási hatóság részére bejelenti.
+7. §[^18] (1) A koncessziós társaság a 4. § (2) bekezdése szerinti átvevő- és kezelőhálózat kialakítását az országos hulladékgazdálkodási hatóság részére bejelenti.
 
 (2) A koncessziós társaság az (1) bekezdésben meghatározott bejelentéshez az alábbi adatokat adja meg:
 
@@ -14,4 +14,4 @@ c) az átvételt, a kezelést szerződés alapján teljesítő forgalmazók, bon
 
 (5) Ha a gyártó a 4. és az 5. §-ban meghatározott kötelezettségeit szerződés alapján a forgalmazón keresztül vagy közvetlenül a bontónál teljesíti, a forgalmazóval, illetve a bontóval megkötött megállapodásának másolatát az országos hulladékgazdálkodási hatóságnak jóváhagyásra megküldi.
 
-[^16]: A 7. § a 276/2023. (VI. 29.) Korm. rendelet 44. §-ával megállapított szöveg.
+[^18]: A 7. § a 276/2023. (VI. 29.) Korm. rendelet 44. §-ával megállapított szöveg.

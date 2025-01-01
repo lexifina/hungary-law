@@ -2,7 +2,7 @@
 
 A bontó adatszolgáltatási kötelezettségének teljesítéséhez szükséges adatok
 
-1.[^61] A bontóra vonatkozó adatok:
+1.[^63] A bontóra vonatkozó adatok:
 
 1.1. A bontó azonosítására szolgáló adatok:
 
@@ -34,7 +34,7 @@ c) telefon, illetve fax;
 
 d) e-mail.
 
-2.[^62] A gyűjtött és a kezelt gépjárművekre vonatkozó adatok:
+2.[^64] A gyűjtött és a kezelt gépjárművekre vonatkozó adatok:
 
 a) a gépjárművek gyártmányának megnevezése;
 
@@ -46,7 +46,7 @@ d) a gépjárművek össztömege.
 
 3. A hulladékká vált gépjárművek kezeléséből származó hulladékra és az újrahasználatra előkészített gépjármű alkatrészre vonatkozó adatok:
 
-3.1.[^63] A hulladékká vált gépjármű bontásából származó hulladék mennyisége, amelyet a hulladékjegyzékről szóló miniszteri rendeletben meghatározott azonosító kód szerint kell megadni, kilogrammban kifejezve:
+3.1.[^65] A hulladékká vált gépjármű bontásából származó hulladék mennyisége, amelyet a hulladékjegyzékről szóló miniszteri rendeletben meghatározott azonosító kód szerint kell megadni, kilogrammban kifejezve:
 
 a) a 16 06 01* azonosító kóddal ellátott ólomakkumulátor;
 
@@ -76,7 +76,7 @@ c) energetikailag hasznosított mennyiség;
 
 d) ártalmatlanított mennyiség.
 
-4.[^64] A hulladékká vált gépjárművek kezeléséből származó hulladék és az újrahasználatra előkészített gépjármű alkatrész exportjára vonatkozó adatok:
+4.[^66] A hulladékká vált gépjárművek kezeléséből származó hulladék és az újrahasználatra előkészített gépjármű alkatrész exportjára vonatkozó adatok:
 
 4.1. A hulladékká vált gépjármű kezeléséből származó hulladék és az újrahasználatra előkészített gépjármű alkatrész exportjára vonatkozó adatokat a hulladékjegyzékről szóló miniszteri rendeletben meghatározott azonosító kód szerint kell megadni, kilogrammban kifejezve:
 
@@ -108,7 +108,7 @@ c) exportált hulladékká vált gépjárművek (ideértve annak hulladékká v�
 
 d) exportált hulladékká vált gépjárművek (ideértve annak hulladékká vált részeit is) teljes ártalmatlanítása.
 
-[^61]: A 4. melléklet 1. pont nyitó szövegrésze a 158/2021. (III. 31.) Korm. rendelet 34. § i) pontja szerint módosított szöveg.
-[^62]: A 4. melléklet 2. pont nyitó szövegrésze a 158/2021. (III. 31.) Korm. rendelet 34. § j) pontja szerint módosított szöveg.
-[^63]: A 4. melléklet 3. pont 3.1. alpont nyitó szövegrésze a 158/2021. (III. 31.) Korm. rendelet 34. § k) pontja szerint módosított szöveg.
-[^64]: A 4. melléklet 4. pont nyitó szövegrésze a 158/2021. (III. 31.) Korm. rendelet 34. § l) pontja szerint módosított szöveg.
+[^63]: A 4. melléklet 1. pont nyitó szövegrésze a 158/2021. (III. 31.) Korm. rendelet 34. § i) pontja szerint módosított szöveg.
+[^64]: A 4. melléklet 2. pont nyitó szövegrésze a 158/2021. (III. 31.) Korm. rendelet 34. § j) pontja szerint módosított szöveg.
+[^65]: A 4. melléklet 3. pont 3.1. alpont nyitó szövegrésze a 158/2021. (III. 31.) Korm. rendelet 34. § k) pontja szerint módosított szöveg.
+[^66]: A 4. melléklet 4. pont nyitó szövegrésze a 158/2021. (III. 31.) Korm. rendelet 34. § l) pontja szerint módosított szöveg.
