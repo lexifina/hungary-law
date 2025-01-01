@@ -276,7 +276,7 @@
 
 ## 4.3.5 A vezeték nyomvonalát jelölni kell.
 
-## 5. Víz és vízilétesítmény keresztezése és megközelítése földgáz-, kőolaj- és kőolajtermék szállító (elosztó- és csatlakozó) vezetékkel
+## 5. Víz és vízilétesítmény keresztezése és megközelítése földgáz-, egyéb gáz-, kőolaj- és kőolajtermék szállító (elosztó- és csatlakozó) vezetékkel
 
 ## 5.1 Általános előírás
 
@@ -444,6 +444,6 @@
 
 ## 9.3.6 Száraz talajban vezetett ivóvizet szállító nyomóvezeték esetén, ha az előírt távolságok betartása valamilyen ok miatt nem lehetséges, a távolság csökkenthető, de az egyéb vezetéket az érintett szakaszon védőcsőben kell vezetni.
 
-2. melléklet a 147/2010. (IV. 29.) Korm. rendelethez[^121]
+2. melléklet a 147/2010. (IV. 29.) Korm. rendelethez[^123]
 
-[^121]: A 2. mellékletet a 83. § (1) bekezdése hatályon kívül helyezte.
+[^123]: A 2. mellékletet a 83. § (1) bekezdése hatályon kívül helyezte.

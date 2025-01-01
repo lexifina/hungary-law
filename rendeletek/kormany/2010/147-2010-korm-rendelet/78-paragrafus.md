@@ -1,4 +1,4 @@
-## 77/A. §[^101] E rendelet hatálybalépése előtt indult eljárásokban kiadott, a mezőgazdasági termelés területén a kizárólag energiahasznosítás céljából, visszatáplálási kötelezettség nélkül történő termálvíz-kitermelésre irányuló vízjogi üzemeltetési engedélyek 2015. június 30. napjáig hatályosak.
+## 77/A. §[^102] E rendelet hatálybalépése előtt indult eljárásokban kiadott, a mezőgazdasági termelés területén a kizárólag energiahasznosítás céljából, visszatáplálási kötelezettség nélkül történő termálvíz-kitermelésre irányuló vízjogi üzemeltetési engedélyek 2015. június 30. napjáig hatályosak.
 
 78. § (1) E rendeletet – figyelemmel a (2)–(5) bekezdésben foglaltakra – a hatálybalépést követően indult eljárásokban kell alkalmazni, kivéve
 
@@ -10,14 +10,14 @@ b) azt a vízjogi üzemeltetési engedélyezési eljárást, amely tárgyában v
 
 (3) A szennyvíztisztító telepek e rendelet hatálybalépése előtt kiadott üzemeltetési engedélyének meghosszabbítása vagy módosítása iránt indult eljárásban nem alkalmazandó a 19. § (5) bekezdés.
 
-(4)[^102] A vízügyi hatóság kérelemre a visszatáplálásra vonatkozó vízjogi létesítési engedély hatályát meghosszabbítja, ha a vízjogi engedélyes e rendeletnek az egyes vízügyi tárgyú kormányrendeletek módosításáról szóló 156/2012. (VII. 13.) Korm. rendelettel megállapított rendelkezéseinek hatálybalépésekor[^103] a visszatáplálásra vízjogi létesítési engedéllyel rendelkezik.
+(4)[^103] A vízügyi hatóság kérelemre a visszatáplálásra vonatkozó vízjogi létesítési engedély hatályát meghosszabbítja, ha a vízjogi engedélyes e rendeletnek az egyes vízügyi tárgyú kormányrendeletek módosításáról szóló 156/2012. (VII. 13.) Korm. rendelettel megállapított rendelkezéseinek hatálybalépésekor[^104] a visszatáplálásra vízjogi létesítési engedéllyel rendelkezik.
 
-(4a)[^104]
+(4a)[^105]
 
-(5)–(6)[^105]
+(5)–(6)[^106]
 
-[^101]: A 77/A. §-t a 156/2012. (VII. 13.) Korm. rendelet 6. §-a iktatta be, szövege az 558/2013. (XII. 31.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^102]: A 78. § (4) bekezdése a 182/2013. (VI. 7.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^103]: A hatálybalépés napja: 2012. július 28.
-[^104]: A 78. § (4a) bekezdését a 156/2012. (VII. 13.) Korm. rendelet 8. §-a iktatta be, hatályon kívül helyezte a 182/2013. (VI. 7.) Korm. rendelet 9. §-a.
-[^105]: A 78. § (5)–(6) bekezdését a 182/2013. (VI. 7.) Korm. rendelet 9. §-a hatályon kívül helyezte.
+[^102]: A 77/A. §-t a 156/2012. (VII. 13.) Korm. rendelet 6. §-a iktatta be, szövege az 558/2013. (XII. 31.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^103]: A 78. § (4) bekezdése a 182/2013. (VI. 7.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^104]: A hatálybalépés napja: 2012. július 28.
+[^105]: A 78. § (4a) bekezdését a 156/2012. (VII. 13.) Korm. rendelet 8. §-a iktatta be, hatályon kívül helyezte a 182/2013. (VI. 7.) Korm. rendelet 9. §-a.
+[^106]: A 78. § (5)–(6) bekezdését a 182/2013. (VI. 7.) Korm. rendelet 9. §-a hatályon kívül helyezte.

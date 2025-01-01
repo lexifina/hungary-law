@@ -1,4 +1,4 @@
-16/B. §[^34] (1) A saját célú ivóvízműből a közvetlen emberi fogyasztásra kerülő víz minőségének meg kell felelnie az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló kormányrendeletben meghatározott, az ivóvíz minőségének értékelésére szolgáló parametrikus értékeknek és határértékeknek.
+16/B. §[^35] (1) A saját célú ivóvízműből a közvetlen emberi fogyasztásra kerülő víz minőségének meg kell felelnie az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló kormányrendeletben meghatározott, az ivóvíz minőségének értékelésére szolgáló parametrikus értékeknek és határértékeknek.
 
 (2) A magán ivóvízellátást biztosító saját célú ivóvízmű üzemeltetője a kitermelt ivóvíz minőségét háromévente legalább egy alkalommal ellenőrzi vagy ellenőrizteti legalább az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló kormányrendeletben meghatározott, a magán ivóvízellátást biztosító saját célú ivóvízművek esetén vizsgálandó vízminőségi paraméterek tekintetében. A járási hivatal a helyben fennálló kockázatok figyelembevételével további vizsgálatot írhat elő, amelyet a 16/A. § (5) bekezdése szerinti ellenőrzés után tizenkét hónapon belül kell elvégezni.
 
@@ -20,4 +20,4 @@
 
 (11) A közösségi ivóvízellátást biztosító saját célú ivóvízmű üzemeltetője köteles a közcélú ivóvízművek, valamint a közcélú szennyvízelvezető és -tisztító művek üzemeltetése során a vízügyi és vízvédelmi szakmai követelményekről, vizsgálatok köréről, valamint adatszolgáltatás tartalmáról szóló miniszteri rendeletben foglalt előírásokat – a karbantartás és a létfontosságú rendszerelem védelmével kapcsolatos feladatok ellátása, az e-közmű rendszerből rendelkezésre álló közművek egységes hálózati térképeihez történő hozzáférés biztosítása, valamint a vízkivételi műnél az ellenőrző vizsgálatokra vonatkozó szabályok kivételével – teljesíteni.
 
-[^34]: A 16/B. § a 6/2023. (I. 12.) Korm. rendelet 20. § (3) bekezdésével megállapított szöveg.
+[^35]: A 16/B. § a 6/2023. (I. 12.) Korm. rendelet 20. § (3) bekezdésével megállapított szöveg.

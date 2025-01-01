@@ -68,7 +68,9 @@ ab) ismeretlen módon biztosított az ivóvíz,
 
 23. nyersvízvezeték: az ivóvízellátás céljára kitermelt, az elosztóhálózatba táplálást megelőzően kezelést igénylő vizet szállító vezeték,
 
-24.[^11] öntözés: a természetes csapadék mesterséges pótlása érdekében, a vízügyi hatóság által engedélyezett mező- vagy erdőgazdasági művelés alatt álló területen történő vagy a jogszabály alapján öntözhető gyepterület fenntartását biztosító vízhasználat,
+23a.[^11] ökológiai célú vízpótlás: felszíni víztöbbletből vagy szabad vízkészletből árterekre vagy mélyfekvésű területekre, vízmegtartás vagy más természeti célból történő vízkivezetés a fenntartható vízkészlet-gazdálkodás biztosítása érdekében.
+
+24.[^12] öntözés: az ökológiai vízpótlás kivételével a természetes csapadék mesterséges pótlása érdekében, a vízügyi hatóság által engedélyezett mező- vagy erdőgazdasági művelés alatt álló területen történő vagy a jogszabály alapján öntözhető gyepterület fenntartását biztosító vízhasználat.
 
 25. pangó víz: áramlás hiányában vízminőség romlásnak fokozottan kitett víztest,
 
@@ -78,7 +80,7 @@ ab) ismeretlen módon biztosított az ivóvíz,
 
 28. rétegvíz: üledékes-törmelékes képződményekben a talajvíz alatt elhelyezkedő felszín alatti víz,
 
-28a.[^12] saját célú ivóvízmű: víztermelő létesítmény, a hozzá tartozó gépészet és a csatlakozó-, házi ivóvízhálózat, valamint víztisztítás szükségessége esetén a hozzá csatlakozó, a víztisztítási feladatokat ellátó vízilétesítmény vagy víztisztító berendezés, amely a víziközmű-szolgáltatásról szóló törvény szerint nem minősül víziközműnek, és amely lehet
+28a.[^13] saját célú ivóvízmű: víztermelő létesítmény, a hozzá tartozó gépészet és a csatlakozó-, házi ivóvízhálózat, valamint víztisztítás szükségessége esetén a hozzá csatlakozó, a víztisztítási feladatokat ellátó vízilétesítmény vagy víztisztító berendezés, amely a víziközmű-szolgáltatásról szóló törvény szerint nem minősül víziközműnek, és amely lehet
 
 a) magán ivóvízellátást biztosító saját célú ivóvízmű: házi ivóvízigényt kiszolgáló vízilétesítmény, amely egy háztartás ingatlanon belüli legfeljebb 500 m3/év ivóvízigényét fedezi,
 
@@ -88,7 +90,7 @@ b) közösségi ivóvízellátást biztosító saját célú ivóvízmű: közö
 
 30. szennyvizek ártalommentes elhelyezése: a szennyvizek – jogszabálynak megfelelő mértékű tisztítást követő – bevezetése a természeti környezetbe,
 
-30a.[^13] szennyvíziszap-kezelés: fizikai, biológiai, kémiai, hőkezeléses vagy egyéb olyan megfelelő eljárás – beleértve a biogáz-előállítást, komposztálást is – vagy eljárások sora, melynek célja a szennyvíziszap hasznosíthatóságának, ártalmatlanításának a biztosítása, valamint fertőzőképességének a megszüntetése, hogy minősége a hatósági előírásoknak megfeleljen.
+30a.[^14] szennyvíziszap-kezelés: fizikai, biológiai, kémiai, hőkezeléses vagy egyéb olyan megfelelő eljárás – beleértve a biogáz-előállítást, komposztálást is – vagy eljárások sora, melynek célja a szennyvíziszap hasznosíthatóságának, ártalmatlanításának a biztosítása, valamint fertőzőképességének a megszüntetése, hogy minősége a hatósági előírásoknak megfeleljen.
 
 31. talajvíz: laza törmelékes, üledékes felszínközeli képződmények telített zónájában az első vízzáró vagy félig áteresztő réteg mélységéig, legfeljebb a vízgyűjtő gazdálkodási tervben meghatározott sekély porózus, vagy sekély hegyvidéki víztest alsó határáig elhelyezkedő felszín alatti víz,
 
@@ -96,7 +98,7 @@ b) közösségi ivóvízellátást biztosító saját célú ivóvízmű: közö
 
 33. természetközeli szennyvíztisztítás: olyan biológiai szennyvíztisztítási eljárás, amely során a szennyezőanyagok lebomlását a hordozó talajhoz, homokhoz, kavicshoz, növények gyökerének felületéhez kapcsolódó mikroorganizmusok végzik aerob vagy anaerob módon, valamint a tavas szennyvíztisztítási megoldások,
 
-34.[^14] tisztítómezővel ellátott oldómedencés létesítmény: olyan oldómedencéből és tisztítómezőből álló vízilétesítmény, amely a települési szennyvizek nem közműves elvezetésére és elhelyezésére szolgál, és amely a szennyezőanyagok lebontását energiabevitel nélkül végzi,
+34.[^15] tisztítómezővel ellátott oldómedencés létesítmény: olyan oldómedencéből és tisztítómezőből álló vízilétesítmény, amely a települési szennyvizek nem közműves elvezetésére és elhelyezésére szolgál, és amely a szennyezőanyagok lebontását energiabevitel nélkül végzi,
 
 35. tó: természetes tó, mesterséges tó, tározó, holtág,
 
@@ -120,7 +122,8 @@ b) közösségi ivóvízellátást biztosító saját célú ivóvízmű: közö
 [^8]: A 2. § 20. pontja a 286/2019. (XII. 4.) Korm. rendelet 19. § (8) bekezdés b) pontja szerint módosított szöveg.
 [^9]: A 2. § 22. pontja az 518/2017. (XII. 29.) Korm. rendelet 30. § (1) bekezdésével megállapított szöveg.
 [^10]: A 2. § 22a. pontját a 6/2023. (I. 12.) Korm. rendelet 19. § (2) bekezdése iktatta be.
-[^11]: A 2. § 24. pontja a 286/2019. (XII. 4.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.
-[^12]: A 2. § 28a. pontját a 100/2016. (V. 13.) Korm. rendelet 13. § (2) bekezdése iktatta be, szövege a 6/2023. (I. 12.) Korm. rendelet 19. § (3) bekezdésével megállapított, nyitó szövegrésze a 463/2024. (XII. 30.) Korm. rendelet 44. §-a szerint módosított szöveg.
-[^13]: A 2. § 30a. pontját a 100/2016. (V. 13.) Korm. rendelet 13. § (3) bekezdése iktatta be.
-[^14]: A 2. § 34. pontja a 100/2016. (V. 13.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^11]: A 2. § 23a. pontját a 422/2024. (XII. 23.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^12]: A 2. § 24. pontja a 422/2024. (XII. 23.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^13]: A 2. § 28a. pontját a 100/2016. (V. 13.) Korm. rendelet 13. § (2) bekezdése iktatta be, szövege a 6/2023. (I. 12.) Korm. rendelet 19. § (3) bekezdésével megállapított, nyitó szövegrésze a 463/2024. (XII. 30.) Korm. rendelet 44. §-a szerint módosított szöveg.
+[^14]: A 2. § 30a. pontját a 100/2016. (V. 13.) Korm. rendelet 13. § (3) bekezdése iktatta be.
+[^15]: A 2. § 34. pontja a 100/2016. (V. 13.) Korm. rendelet 19. §-a szerint módosított szöveg.
