@@ -1,6 +1,6 @@
-## 6.[^28] A környezetvédelmi hatósági ügyekért felelős helyettes államtitkár, valamint a területi környezetvédelmi hatóság igazgatási feladatai
+## 6.[^29] A környezetvédelmi hatósági ügyekért felelős helyettes államtitkár, valamint a területi környezetvédelmi hatóság igazgatási feladatai
 
-13. §[^29] A környezetvédelmi hatósági ügyekért felelős helyettes államtitkár állami alaptevékenysége körében
+13. §[^30] A környezetvédelmi hatósági ügyekért felelős helyettes államtitkár állami alaptevékenysége körében
 
 a) szolgáltatja a miniszter által kért, a kormányzati munka ellátásához szükséges, tevékenysége során keletkezett adatokat;
 
@@ -16,5 +16,5 @@ f) összegyűjti és az Országos Környezetvédelmi Információs Rendszer rend
 
 g) vezeti és – a területi környezetvédelmi, természetvédelmi, valamint a területi vízügyi és a területi vízvédelmi hatóságok adatszolgáltatásával összhangban – aktualizálja a környezetkárosodás megelőzésének és elhárításának rendjéről szóló 90/2007. (IV. 26.) Korm. rendelet 12. § (3) bekezdése szerinti nyilvántartást, valamint a hozzá tartozó térinformatikai ábrázolást.
 
-[^28]: A 6. alcím címe a 119/2024. (VI. 10.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
-[^29]: A 13. § a 119/2024. (VI. 10.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.
+[^29]: A 6. alcím címe a 119/2024. (VI. 10.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^30]: A 13. § a 119/2024. (VI. 10.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.
