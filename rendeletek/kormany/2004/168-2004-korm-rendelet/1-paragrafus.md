@@ -16,7 +16,7 @@ d) – a nemzetbiztonsági szolgálatok, a külpolitikáért felelős miniszter,
 
 az e rendelet előírásai szerint kötelesek eljárni.
 
-(1a)[^2]
+(1a)[^2] E rendelet hatálya nem terjed ki az egységes intézeti gyógyszertári szolgáltatásról szóló 33/2024. (II. 22.) Korm. rendelet 1. § (1) bekezdés c) pontja szerinti gyógyszerek beszerzésére.
 
 (2)[^3] E rendelet hatálya nem terjed ki a vagyonkezelő alapítványokról szóló 2019. évi XIII. törvény szerint a Kormány által alapított vagyonkezelő alapítványokra, a tulajdonukban álló gazdálkodó szervezetekre, gazdasági társaságokra, valamint a tulajdonukban álló, illetve fenntartói joggyakorlásuk alá tartozó intézményekre. Nem kell alkalmazni e rendelet előírásait az állami felsőoktatási intézmény nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 108. § 4a. pontja szerinti felsőoktatási kutatás-fejlesztési vállalkozási tevékenységének keretében megvalósított közbeszerzései tekintetében.
 
@@ -63,7 +63,7 @@ kötelesek e rendelet szerint eljárni. Az 1. számú melléklet 8. pont 8.1. é
 (4)[^19] A központosított közbeszerzési rendszerbe regisztrált szervezetek jogaik gyakorlása, kötelezettségeik teljesítése során e rendelet előírásai szerint kötelesek eljárni.
 
 [^1]: Az 1. § (1) bekezdése az 539/2023. (XII. 6.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^2]: Az 1. § (1a) bekezdését a 41/2021. (II. 2.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 771/2021. (XII. 23.) Korm. rendelet 11. § a) pontja.
+[^2]: Az 1. § (1a) bekezdését újonnan a 33/2024. (II. 22.) Korm. rendelet 11. §-a iktatta be.
 [^3]: Az 1. § (2) bekezdését újonnan a 473/2015. (XII. 29.) Korm. rendelet 1. §-a iktatta be, szövege a 41/2021. (II. 2.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^4]: Az 1. § (2a) bekezdését a 182/2019. (VII. 26.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 771/2021. (XII. 23.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
 [^5]: Az 1. § (2b) bekezdését a 182/2019. (VII. 26.) Korm. rendelet 1. § (1) bekezdése iktatta be.
