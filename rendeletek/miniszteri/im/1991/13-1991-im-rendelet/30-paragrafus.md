@@ -1,5 +1,5 @@
 ## Ügyvitel a bizalmi őrzési ügyekben
 
-30. §[^96]
+30. §[^95]
 
-[^96]: A Vhr. 30. §-át a 29/2019. (XII. 20.) IM rendelet 100. § a) pontja hatályon kívül helyezte.
+[^95]: A Vhr. 30. §-át a 29/2019. (XII. 20.) IM rendelet 100. § a) pontja hatályon kívül helyezte.

@@ -36,15 +36,11 @@ h) a közjegyzői tevékenység megkezdésével járó kiadások fedezésére, v
 
 (3)[^11] A (2) bekezdésben foglaltakon túl a pályázó hatósági erkölcsi bizonyítvánnyal igazolja, hogy vele szemben a Ktv. 17. § (3) bekezdés a)–d) pontjában meghatározott körülmény nem áll fenn, a pályázó kérheti, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a pályáztató területi elnökség részére – annak a közjegyzői kinevezés feltételeinek vizsgálata céljából benyújtott adatigénylése alapján – továbbítsa.
 
-(4)[^12] A pályázó – választása szerint – a pályázatot és annak mellékleteit papír alapon vagy elektronikus úton nyújthatja be. A pályázat elektronikus úton történő benyújtása esetén a pályázati eljárás során az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési törvény) elektronikus ügyintézéssel kapcsolatos rendelkezéseinek alkalmazásával kell a pályázóval kapcsolatot tartani.
+(4)[^12] A pályázó a pályázatot és annak mellékleteit elektronikus úton nyújtja be. A pályázati eljárás során a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) elektronikus ügyintézéssel kapcsolatos rendelkezéseinek alkalmazásával kell a pályázóval kapcsolatot tartani.
 
-(4a)[^13] Ha a pályázat melléklete elektronikus iratként nem áll rendelkezésre, az papír alapon is benyújtható, erre az elektronikusan benyújtott pályázatban utalni kell.
+(4a)[^13]
 
-(4b)[^14] Határidőben beérkezettnek kell tekintetni
-
-a) papíralapú benyújtás esetén a pályázati határidő utolsó napján ajánlott küldeményként a pályáztató területi elnökség címére postára adott a pályázatot, illetve a (4a) bekezdése szerinti mellékletet, vagy
-
-b) elektronikus benyújtás esetén legkésőbb a pályázati határidő utolsó napján elektronikus úton az E-ügyintézési törvénynek és végrehajtási rendeleteinek megfelelően benyújtott pályázatot.
+(4b)[^14] Határidőben beérkezettnek kell tekinteni legkésőbb a pályázati határidő utolsó napján elektronikus úton a Dáptv.-nek és végrehajtási rendeleteinek megfelelően benyújtott pályázatot.
 
 (5)[^15] Ha a pályázó a pályáztató területi elnökségnél bűnügyi személyes adatainak igazolására adatigénylést kezdeményez, az adatigénylést haladéktalanul meg kell küldeni a bűnügyi nyilvántartó szervhez.
 
@@ -58,9 +54,9 @@ b) elektronikus benyújtás esetén legkésőbb a pályázati határidő utolsó
 [^9]: A Vhr. 3. § (1b) bekezdését a 8/2021. (IX. 17.) IM rendelet 1. § (2) bekezdése iktatta be.
 [^10]: A Vhr. 3. § (2) bekezdése a 8/2021. (IX. 17.) IM rendelet 1. § (3) bekezdésével megállapított szöveg.
 [^11]: A Vhr. 3. § (3) bekezdése a 20/2017. (XII. 21.) IM rendelet 4. § (1) bekezdésével megállapított, a 8/2021. (IX. 17.) IM rendelet 6. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^12]: A Vhr. 3. § (4) bekezdése a 8/2021. (IX. 17.) IM rendelet 1. § (4) bekezdésével megállapított szöveg.
-[^13]: A Vhr. 3. § (4a) bekezdését a 8/2021. (IX. 17.) IM rendelet 1. § (5) bekezdése iktatta be.
-[^14]: A Vhr. 3. § (4b) bekezdését a 8/2021. (IX. 17.) IM rendelet 1. § (5) bekezdése iktatta be.
+[^12]: A Vhr. 3. § (4) bekezdése a 29/2024. (XII. 30.) IM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^13]: A Vhr. 3. § (4a) bekezdését a 8/2021. (IX. 17.) IM rendelet 1. § (5) bekezdése iktatta be, a 29/2024. (XII. 30.) IM rendelet 3. § a) pontja hatályon kívül helyezte.
+[^14]: A Vhr. 3. § (4b) bekezdését a 8/2021. (IX. 17.) IM rendelet 1. § (5) bekezdése iktatta be, szövege a 29/2024. (XII. 30.) IM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^15]: A Vhr. 3. § (5) bekezdése a 8/2021. (IX. 17.) IM rendelet 6. § (1) bekezdés b) pontja szerint módosított szöveg.
 [^16]: A Vhr. 3. § (6) bekezdése a 8/2021. (IX. 17.) IM rendelet 6. § (1) bekezdés c) pontja szerint módosított szöveg.
 [^17]: A Vhr. 3. § (7) bekezdését a 8/2021. (IX. 17.) IM rendelet 1. § (6) bekezdése iktatta be.
