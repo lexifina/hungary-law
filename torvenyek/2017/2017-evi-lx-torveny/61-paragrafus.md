@@ -6,7 +6,7 @@
 
 (3) Az alelnöki tisztséget a Magyar Energetikai és Közmű-szabályozási Hivatal, a Budapesti Értéktőzsde Zrt., a Magyar Bankszövetség, valamint a Magyar Ügyvédi Kamara által delegált tag tölti be. Az alelnöki tisztségben a Magyar Energetikai és Közmű-szabályozási Hivatal, a Budapesti Értéktőzsde Zrt., a Magyar Bankszövetség, valamint a Magyar Ügyvédi Kamara által delegált tagok – ebben a sorrendben – évente váltják egymást.
 
-(4) Az elnökség tagja olyan személy lehet, aki jogász munkakörben eltöltött, legalább 10 év szakmai gyakorlattal rendelkezik, valamint a jogi szakvizsgát, vagy a hazai joga szerint annak megfelelő szakvizsgát letette, és jelentős tapasztalattal rendelkezik a választottbíráskodásra vonatkozó szabályok alkalmazásával kapcsolatban.
+(4) Az elnökség tagja olyan személy lehet, aki jogász munkakörben eltöltött, legalább 10 év szakmai gyakorlattal rendelkezik, valamint a jogi szakvizsgát, vagy a hazai joga szerint annak megfelelő szakvizsgát letette, és gyakorlati tapasztalattal rendelkezik választottbíráskodásra vagy egyéb mediáción alapuló eljárásra vonatkozó szabályok alkalmazásával kapcsolatban. A Magyar Kereskedelmi és Iparkamara elnöke visszautasítja annak a személynek az elnökségbe delegálását, aki nem felel meg az elnökségbe delegálhatóság e törvényben meghatározott feltételeinek.
 
 (5) Az elnökségi tagok megbízatása három évre szól, és egyszer delegálhatók újra.
 

@@ -24,6 +24,6 @@ b) gondoskodik arról, hogy a Kereskedelmi Választottbíróság keretében elj�
 
 (3) Az elnökség tagja havi tiszteletdíjra jogosult, amelynek mértékéről és a megfizetésével összefüggésben felmerülő terhek viseléséről az elnökségbe tagot delegáló jogi személyek állapodnak meg.
 
-(4) A 61. § (4) bekezdése szerinti jelentős tapasztalattal az a személy rendelkezik, akinek a neve legalább öt éve fel van tüntetve valamely belföldi vagy külföldi állandó választottbíróság választottbírói listáján (névjegyzékén), vagy legalább öt éve rendszeresen jogi képviseletet lát el választottbírósági ügyekben. A Magyar Kereskedelmi és Iparkamara elnöke visszautasítja annak a személynek az elnökségbe delegálását, aki nem felel meg az elnökségbe delegálhatóság e törvényben meghatározott feltételeinek.
+(4)
 
 (5) Ha a felek által meg nem térítendő díjak és költségek fedezése céljából képzett elkülönített tartalékalap nem nyújt fedezetet a szükséges kifizetések teljesítéséhez, a fedezet rendelkezésre állásáról a Kereskedelmi Választottbíróságot működtető Magyar Kereskedelmi és Iparkamara gondoskodik.
