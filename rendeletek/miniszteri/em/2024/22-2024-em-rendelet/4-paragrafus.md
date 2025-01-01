@@ -1,0 +1,5 @@
+4. § (1) A gyártó által a visszaváltási díj megállapításának és alkalmazásának, valamint a visszaváltási díjas termék forgalmazásának részletes szabályairól szóló 450/2023. (X. 4.) Korm. rendeletben (a továbbiakban: 450/2023. Korm. rendelet) meghatározottak szerint fizetendő csatlakozási díj egy egységre vetített mértékét a 450/2023. Korm. rendelet 3. melléklete szerinti kötelezően visszaváltási díjas termékek díjkódjai szerinti bontásban a 3. melléklet 1. pontjában foglalt táblázat C oszlopa tartalmazza.
+
+(2) A gyártó által a 450/2023. Korm. rendeletben meghatározottak szerint fizetendő szolgáltatási díj egy egységre vetített mértékét a 450/2023. Korm. rendelet 3. melléklete szerinti kötelezően visszaváltási díjas termékek díjkódjai szerinti bontásban a 3. melléklet 2. pontjában foglalt táblázat E oszlopa tartalmazza.
+
+(3) A csatlakozási díj és a szolgáltatási díj mértékének meghatározása során a kötelezően visszaváltási díjas termék részét képező záróelem és címke esetén a kötelezően visszaváltási díjas termék palack vagy doboz anyaga szerinti díjkódot kell figyelembe venni.
