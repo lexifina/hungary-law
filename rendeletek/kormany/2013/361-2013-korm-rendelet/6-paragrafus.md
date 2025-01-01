@@ -2,8 +2,12 @@
 
 ## 5. A segélyhívások fajtái
 
-6. § (1) Ha a segélyhívás alapján készenléti szerv intézkedése szükséges, a híváskezelő továbbítja az elektronikus adatlapot, valamint szükség esetén haladéktalanul továbbkapcsolja a segélyhívást a hatáskörrel rendelkező készenléti szervnek.
+6. § (1)[^18] Ha a segélyhívás alapján készenléti szerv intézkedése szükséges, a hívásfogadó továbbítja az elektronikus adatlapot, valamint szükség esetén haladéktalanul továbbkapcsolja a segélyhívást a hatáskörrel rendelkező készenléti szervnek.
 
-(2) Ha a segélyhívás alapján a közmű üzemeltető vagy a készenléti szerveken kívüli hatóság, hivatalos szerv vagy szervezet helyszíni intézkedése szükséges, a híváskezelő gondoskodik e szervek értesítéséről.
+(2)[^19]
 
-(3) Ha a jelzés alapján az (1) és (2) bekezdés szerinti intézkedés nem szükséges, a híváskezelő a bejelentő részére megadja a szükséges felvilágosítást, és ezt, illetve az 1. § 13. pont b)–d) alpontja szerinti zavaró hívás esetében ennek tényét rögzíti az elektronikus adatlapon.
+(3)[^20] Ha a jelzés alapján az (1) és (2) bekezdés szerinti intézkedés nem szükséges, a hívásfogadó a bejelentő részére megadja a szükséges felvilágosítást, és ezt, illetve az 1. § 13. pont b)–d) alpontja szerinti zavaró hívás esetében ennek tényét rögzíti az elektronikus adatlapon.
+
+[^18]: A 6. § (1) bekezdése a 479/2024. (XII. 31.) Korm. rendelet 60. § d) pontja szerint módosított szöveg.
+[^19]: A 6. § (2) bekezdését a 479/2024. (XII. 31.) Korm. rendelet 61. § b) pontja hatályon kívül helyezte.
+[^20]: A 6. § (3) bekezdése a 479/2024. (XII. 31.) Korm. rendelet 60. § d) pontja szerint módosított szöveg.

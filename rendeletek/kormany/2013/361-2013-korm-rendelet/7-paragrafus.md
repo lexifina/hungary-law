@@ -1,5 +1,5 @@
-## 6. A közmű üzemeltető és – a készenléti szerveken kívüli – hatóság vagy hivatalos szerv és a hívásfogadó központ vagy a készenléti szerv közötti együttműködés
+## 6.[^24]
 
-7. § (1) Az 1. mellékletben meghatározott szerv, szervezet vagy gazdasági társaság köteles egy olyan telefonszámot fenntartani, amelyen a hívásfogadó központ vagy a készenléti szervek felől érkező hívást napi 24 órában folyamatosan fogadja.
+7. §
 
-(2) Az 1. mellékletben meghatározott szerv, szervezet vagy gazdasági társaság az (1) bekezdés szerinti hívószámról és annak várható változásáról – a változást megelőző 15. napig – hivatalosan, írásban tájékoztatja a NISZ Zrt.-t. A hívószám átadásáért, annak megváltozása esetén a változás bejelentéséért a bejelentésre kötelezett szerv, szervezet vagy gazdasági társaság tartozik felelősséggel.
+[^24]: A 6. alcímet (7. §-t) a 479/2024. (XII. 31.) Korm. rendelet 61. § c) pontja hatályon kívül helyezte.

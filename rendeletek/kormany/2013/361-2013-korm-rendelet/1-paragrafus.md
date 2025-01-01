@@ -8,13 +8,13 @@
 
 2. egyéb veszélyes körülmény: ember, állat, műszaki hiba, elemi erő, természeti esemény, baleset, betegség vagy élettani körülmény okozta olyan helyzet, ami az életben, testi épségben, anyagi javakban okozott kárral, illetve a természetes és mesterséges környezet fokozott megrongálásával vagy ezek veszélyeztetésével jár, és amelyet a segélyt kérő természetes személy, illetve a környezetében lévők nem képesek önállóan a közmű üzemeltetők vagy – a készenléti szerveken kívüli – hatóság, hivatalos szerv helyszíni segítsége nélkül megoldani;
 
-3. elektronikus adatlap: a segélyhívásról a híváskezelő által készített elektronikus jegyzőkönyv, amely tartalmazza a hívásfogadó rendszer által automatikusan létrehozott, valamint a híváskezelő által rögzített adatokat;
+3.[^3] elektronikus adatlap: a segélyhívásról a hívásfogadó által készített elektronikus jegyzőkönyv, amely tartalmazza a hívásfogadó rendszer által automatikusan létrehozott, valamint a hívásfogadó által rögzített adatokat;
 
-4. hívásfogadó központ: az általános rendőrségi feladatok ellátására létrehozott szerv azon szervezeti egysége, amelynek feladata a segélyhívások fogadása, előszűrése, feldolgozása, a szükséges híváskezelési, hívástovábbítási feladatok ellátása;
+4.[^4] hívásfogadó központ: az általános rendőrségi feladatok ellátására létrehozott szerv azon szervezeti eleme, amelynek feladata a segélyhívások fogadása, előszűrése, feldolgozása, a szükséges híváskezelési, hívástovábbítási feladatok ellátása;
 
 5. hívásfogadó rendszer: a hívásfogadó központban használt informatikai és információ-technológiai rendszer, amely alkalmas a segélykérővonalon érkező bejelentések, jelzések, információk fogadására, rögzítésére és továbbítására, valamint a bejelentő földrajzi helyzetének behatárolására;
 
-6. híváskezelő: a segélyhívásokat fogadó központban a hívásokat fogadó természetes személy;
+6.[^5] hívásfogadó: a segélyhívásokat fogadó központban a hívásokat fogadó természetes személy;
 
 7. készenléti szervek: a mentők, a hivatásos katasztrófavédelmi szerv és az általános rendőrségi feladatok ellátására létrehozott szerv;
 
@@ -40,3 +40,6 @@ d) SIM kártya nélküli mobiltelefonról kezdeményezett, nem segélyhívásra 
 
 [^1]: Az 1. § 1. pontja a 252/2022. (VII. 13.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § 1a. pontját a 252/2022. (VII. 13.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^3]: Az 1. § 3. pontja a 479/2024. (XII. 31.) Korm. rendelet 60. § a) pontja szerint módosított szöveg.
+[^4]: Az 1. § 4. pontja a 479/2024. (XII. 31.) Korm. rendelet 60. § b) pontja szerint módosított szöveg.
+[^5]: Az 1. § 6. pontja a 479/2024. (XII. 31.) Korm. rendelet 56. §-ával megállapított szöveg.

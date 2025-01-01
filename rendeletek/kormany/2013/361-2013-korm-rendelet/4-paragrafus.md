@@ -20,7 +20,7 @@ b) a segélyhívás kezdeményezésének földrajzi helyét és
 
 c) a segélyhívás időpontját.
 
-(3) A hívásfogadó rendszer által automatikusan fogadott segélyhívás alapján a híváskezelő kikérdezi a bejelentőt és a kapott információkat az elektronikus adatlapon rögzíti. A híváskezelő – amennyiben ez lehetséges – rögzíti
+(3)[^15] A hívásfogadó rendszer által automatikusan fogadott segélyhívás kezelésekor a hívásfogadó kikérdezi a bejelentőt és a kapott információkat az elektronikus adatlapon rögzíti. A hívásfogadó – amennyiben ez lehetséges – rögzíti
 
 a) a bejelentőnek az Rtv. 81/A. §-ában és 82. § (1) bekezdés d) pontjában meghatározott személyes adatait,
 
@@ -30,16 +30,16 @@ c) a segélyhívás alapjául szolgáló vészhelyzet vagy esemény leírását 
 
 d) a kikérdezés során ismertté vált egyéb szükséges információkat és adatokat.
 
-(4)[^3] A hívásfogadó rendszer a segélyhívás helyére vonatkozó – az elektronikus hírközlésről szóló 2003. évi C. törvény 188. § 103. pontjában meghatározott, nyilvánosan elérhető belföldi telefonszolgáltatást nyújtó elektronikus hírközlési szolgáltató rendszeréből átvett, valamint a segélykérő mobiltelefon készülékébe beépített helymeghatározó rendszer által megállapított és automatikusan továbbított – helymeghatározási adatokat rögzíti.
+(4)[^16] A hívásfogadó rendszer a segélyhívás helyére vonatkozó – az elektronikus hírközlésről szóló 2003. évi C. törvény 188. § 103. pontjában meghatározott, nyilvánosan elérhető belföldi telefonszolgáltatást nyújtó elektronikus hírközlési szolgáltató rendszeréből átvett, valamint a segélykérő mobiltelefon készülékébe beépített helymeghatározó rendszer által megállapított és automatikusan továbbított – helymeghatározási adatokat rögzíti.
 
-(5) A híváskezelő a segélyhívás alapján
+(5)[^17] A hívásfogadó a segélyhívás tartalma alapján
 
-a) új eseményt definiál,
+a) a segélyhívást egy már létező eseményhez csatolja, vagy
 
-b) a segélyhívást egy már létező eseményhez csatolja vagy
-
-c) a segélyhívást önállóan kezeli és rögzíti eljárásának indokolását.
+b) a segélyhívást önállóan kezeli és rögzíti eljárásának indokolását.
 
 (6) A hívásfogadó központ a hívásfogadó rendszer útján hangfelvételt készít a segélyhívásokról, amelyről az Rtv.-ben meghatározott szabályok szerint adatot szolgáltat.
 
-[^3]: A 4. § (4) bekezdése a 6/2020. (I. 31.) Korm. rendelet 10. §-ával megállapított, az 572/2020. (XII. 9.) Korm. rendelet 64. §-a szerint módosított szöveg.
+[^15]: A 4. § (3) bekezdése a 479/2024. (XII. 31.) Korm. rendelet 58. § (1) bekezdésével megállapított szöveg.
+[^16]: A 4. § (4) bekezdése a 6/2020. (I. 31.) Korm. rendelet 10. §-ával megállapított, az 572/2020. (XII. 9.) Korm. rendelet 64. §-a szerint módosított szöveg.
+[^17]: A 4. § (5) bekezdése a 479/2024. (XII. 31.) Korm. rendelet 58. § (2) bekezdésével megállapított szöveg.
