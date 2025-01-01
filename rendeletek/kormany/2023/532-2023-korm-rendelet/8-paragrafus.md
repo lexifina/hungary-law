@@ -1,6 +1,5 @@
-8. § (1)[^8]
+8. § (1)[^7]
 
-(2)[^9]
+(2) A Hr. 2. § (2) bekezdésében a „Nemzeti Humán Reprodukciós Regisztert” szövegrész helyébe a „Nemzeti Szülészeti, Perinatális és Humán Reprodukciós Regisztert” szöveg lép.
 
-[^8]: A 8. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^9]: A 8. § (2) bekezdése a 9. § (2) bekezdés alapján 2025. január 1-jén lép hatályba.
+[^7]: A 8. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
