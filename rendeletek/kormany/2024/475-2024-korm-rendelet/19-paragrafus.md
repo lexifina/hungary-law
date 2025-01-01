@@ -1,0 +1,3 @@
+19. § (1) Elektronikai alkatrész és egyéb villamos berendezés gyártás, -kereskedelem vonatkozásában az ország védelme és biztonsága szempontjából jelentős szervezetként jelölhető ki az a szervezet, amely elektronikai alkatrész gyártása (TEÁOR’08 26.11) vagy egyéb villamos berendezés gyártása (TEÁOR’08 27.90) tevékenységet végez, vagy ilyen terméket forgalmaz és nettó árbevétele a vizsgálatot megelőző 10 év során bármely évben meghaladta a 10 milliárd forintot.
+
+(2) Elektronikai alkatrész gyártás, kereskedelem vonatkozásában az ország védelme és biztonsága szempontjából jelentős infrastruktúraként jelölhető ki az olyan eszköz, létesítmény, építmény, berendezés, hálózat, rendszer, vagy ezek része, amely az alapvető szolgáltatás nyújtásához szükséges.

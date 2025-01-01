@@ -1,0 +1,3 @@
+9. § (1) Az ország védelme és biztonsága szempontjából jelentős honvédelmi ágazaton belüli szervezetek esetében az ellenálló képességért felelős vezető által alkalmazott módszertanok, iratminták megfelelőségét a honvédelmi ágazati kijelölő hatóság ellenőrzi.
+
+(2) Az ellenálló képességért felelős vezetőnek az ország védelme és biztonsága szempontjából jelentős honvédelmi ágazaton belüli szervezet, az ország védelme és biztonsága szempontjából jelentős honvédelmi ágazaton belüli infrastruktúra ellenálló képességének értékeléséről, fejlesztési lehetőségeiről készített összefoglaló jelentését a honvédelmi ágazati kijelölő hatóság dolgozza fel és értékeli.

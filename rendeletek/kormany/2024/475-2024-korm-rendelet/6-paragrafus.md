@@ -1,0 +1,1 @@
+6. § Egy, az ország védelme és biztonsága szempontjából jelentős infrastruktúra több ágazatban vagy alágazatban való kijelölésének (a továbbiakban: kettős kijelölés) csak akkor van helye, ha az infrastruktúrát a honvédelmi ágazati kijelölő hatóság is kijelöli.

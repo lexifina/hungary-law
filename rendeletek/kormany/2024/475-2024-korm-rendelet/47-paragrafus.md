@@ -1,0 +1,3 @@
+47. § (1) Katasztrófavédelmi műveletirányítás vonatkozásában az ország védelme és biztonsága szempontjából jelentős szervezetként jelölhető ki az a szervezet, amely a hivatásos katasztrófavédelmi szerv műveletirányítási központját üzemelteti, továbbá az, amely ellátja a katasztrófavédelem operatív törzsének működését.
+
+(2) Katasztrófavédelmi műveletirányítás vonatkozásában az ország védelme és biztonsága szempontjából jelentős infrastruktúraként jelölhető ki az olyan eszköz, létesítmény, építmény, berendezés, hálózat, rendszer, vagy ezek része, amely az alapvető szolgáltatás nyújtásához szükséges.

@@ -1,0 +1,3 @@
+27. § (1) Polgári robbanóanyag gyártás, -kereskedelem vonatkozásában az ország védelme és biztonsága szempontjából jelentős szervezetként jelölhető ki az a szervezet, amely robbanóanyag gyártása (TEÁOR’08 20.51) tevékenységet végez, vagy ilyen terméket forgalmaz és nettó árbevétele a vizsgálatot megelőző 10 év során bármely évben meghaladta a 10 milliárd forintot.
+
+(2) Polgári robbanóanyag gyártás, -kereskedelem vonatkozásában az ország védelme és biztonsága szempontjából jelentős infrastruktúraként jelölhető ki az olyan eszköz, létesítmény, építmény, berendezés, hálózat, rendszer, vagy ezek része, amely az alapvető szolgáltatás nyújtásához szükséges.

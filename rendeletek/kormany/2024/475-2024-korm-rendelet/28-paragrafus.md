@@ -1,0 +1,5 @@
+## 15. Máshova nem sorolt gyártói tevékenység alágazat kritériumai
+
+28. § (1) Máshova nem sorolt gépek és gépi berendezések gyártása, kereskedelme vonatkozásában az ország védelme és biztonsága szempontjából jelentős szervezetként jelölhető ki az a szervezet, amely máshova nem sorolt egyéb általános rendeltetésű gép gyártása (TEÁOR’08 28.29), kohászati gép gyártása (TEÁOR’08 28.91), élelmiszer-, dohányipari gép gyártása (TEÁOR’08 28.93), textil-, ruházati, bőripari gép gyártása (TEÁOR’08 28.94), papíripari gép gyártása (TEÁOR’08 28.95), műanyag-, gumifeldolgozó gép gyártása (TEÁOR’08 28.96), vagy máshova nem sorolt egyéb speciális gép gyártása (TEÁOR’08 28.99) tevékenységet végez vagy ilyen terméket forgalmaz, és nettó árbevétele a vizsgálatot megelőző 10 év során bármely évben meghaladta a 10 milliárd forintot.
+
+(2) Máshova nem sorolt gépek és gépi berendezések gyártása, kereskedelme vonatkozásában az ország védelme és biztonsága szempontjából jelentős infrastruktúraként jelölhető ki az olyan eszköz, létesítmény, építmény, berendezés, hálózat, rendszer, vagy ezek része, amely az alapvető szolgáltatás nyújtásához szükséges.
