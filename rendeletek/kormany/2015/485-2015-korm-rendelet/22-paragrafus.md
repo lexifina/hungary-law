@@ -36,7 +36,7 @@ o)[^70] az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: 
 
 (1a)[^71] A NAV bármelyik vármegyei igazgatósága, illetve a KAVIG is eljárhat az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény 3/A. § (2) bekezdésében és 13. § (4) bekezdésében meghatározott feladatok ellátása során.
 
-(1b)[^72] Az elektronikus, illetve az elektronikus ügyintézés részletszabályairól szóló kormányrendelet szerint digitalizált, papíralapú dokumentumokra vonatkozó iratbetekintés ügyében – a 63. § (1) bekezdés a), b) és d)–j) pontjában, valamint a 64. §-ban megjelölt adózók kivételével – a NAV bármelyik vármegyei igazgatósága, illetve a KAVIG is eljárhat, kivéve, ha az iratbetekintési kérelem benyújtására folyamatban lévő ügyben kerül sor. Ez utóbbi esetben az az igazgatóság az illetékes, amelyiknél az eljárás folyamatban van.
+(1b)[^72] Az elektronikus, illetve a digitális állampolgárság egyes szabályairól szóló kormányrendelet szerint digitalizált, papíralapú dokumentumokra vonatkozó iratbetekintés ügyében – a 63. § (1) bekezdés a), b) és d)–j) pontjában, valamint a 64. §-ban megjelölt adózók kivételével – a NAV bármelyik vármegyei igazgatósága, illetve a KAVIG is eljárhat, kivéve, ha az iratbetekintési kérelem benyújtására folyamatban lévő ügyben kerül sor. Ez utóbbi esetben az az igazgatóság az illetékes, amelyiknél az eljárás folyamatban van.
 
 (2)[^73] Az (1) és (1a) bekezdésében meghatározott ügyekben a 63. § (1) bekezdés e) és h) pontjában megjelölt adózó – a NAV elnöke által kijelölt ügyfélszolgálatokon személyesen benyújtott – beadványa alapján bármelyik vármegyei igazgatóság eljárhat.
 
@@ -52,6 +52,6 @@ o)[^70] az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: 
 [^69]: A 22. § (1) bekezdés n) pontját a 214/2017. (VII. 25.) Korm. rendelet 15. § a) pontja hatályon kívül helyezte, újonnan a 611/2023. (XII. 22.) Korm. rendelet 5. § (1) bekezdése iktatta be.
 [^70]: A 22. § (1) bekezdés o) pontja a 611/2023. (XII. 22.) Korm. rendelet 20. § 6. pontja szerint módosított szöveg.
 [^71]: A 22. § (1a) bekezdését a 439/2020. (IX. 23.) Korm. rendelet 9. §-a iktatta be, szövege a 616/2022. (XII. 29.) Korm. rendelet 228. § b) pontja szerint módosított szöveg.
-[^72]: A 22. § (1b) bekezdését a 611/2023. (XII. 22.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^72]: A 22. § (1b) bekezdését a 611/2023. (XII. 22.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 462/2024. (XII. 30.) Korm. rendelet 24. §-ával megállapított szöveg.
 [^73]: A 22. § (2) bekezdése a 439/2020. (IX. 23.) Korm. rendelet 13. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 228. § b) pontja, a 611/2023. (XII. 22.) Korm. rendelet 20. § 4. pontja szerint módosított szöveg.
 [^74]: A 22. § (3) bekezdését a 214/2017. (VII. 25.) Korm. rendelet 4. §-a iktatta be, szövege a 611/2023. (XII. 22.) Korm. rendelet 20. § 5. pontja szerint módosított szöveg.
