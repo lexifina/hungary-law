@@ -1,6 +1,6 @@
-## 6/M. §[^167] A 2. mellékletben foglalt táblázat 34. sora szerinti beruházással összefüggésben a tereprendezést és mélyalapozást a megvalósuló építési tevékenység ütemeként is engedélyezheti az 1. melléklet 1. pontja szerinti engedélyezési eljárásban az eljáró hatóság.
+## 6/M. §[^171] A 2. mellékletben foglalt táblázat 34. sora szerinti beruházással összefüggésben a tereprendezést és mélyalapozást a megvalósuló építési tevékenység ütemeként is engedélyezheti az 1. melléklet 1. pontja szerinti engedélyezési eljárásban az eljáró hatóság.
 
-6/N. §[^168] (1) A 2. mellékletben foglalt táblázat 59. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:59 mezőjében megjelölt telkekre a beépítés szabályait és az egyedi építési követelményeket a (2) bekezdés állapítja meg, azzal, hogy
+6/N. §[^172] (1) A 2. mellékletben foglalt táblázat 59. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:59 mezőjében megjelölt telkekre a beépítés szabályait és az egyedi építési követelményeket a (2) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos OTÉK előírásait a (2) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
@@ -38,5 +38,5 @@ l) magánút korlátozás nélkül létesíthető.
 
 (5) A 2. mellékletben foglalt táblázat 59. sora szerinti beruházással összefüggésben megvalósuló építési tevékenységet ütemenként is engedélyezheti az 1. melléklet 1. pontja szerinti engedélyezési eljárásban az eljáró hatóság. Az egyes ütemek használatbavétele akkor is engedélyezhető, ha az építmény rendeltetésszerű és biztonságos használhatóságához szükséges járulékos építményei telken belül ideiglenesen vagy a meglévő szomszédos, illetve a telephelyi telkeken helyezkednek el.
 
-[^167]: A 6/M. §-t a 47/2021. (II. 5.) Korm. rendelet 7. §-a iktatta be.
-[^168]: A 6/N. §-t a 174/2021. (IV. 9.) Korm. rendelet 3. §-a iktatta be.
+[^171]: A 6/M. §-t a 47/2021. (II. 5.) Korm. rendelet 7. §-a iktatta be.
+[^172]: A 6/N. §-t a 174/2021. (IV. 9.) Korm. rendelet 3. §-a iktatta be.

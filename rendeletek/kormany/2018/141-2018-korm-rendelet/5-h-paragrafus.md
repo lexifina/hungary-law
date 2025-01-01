@@ -1,4 +1,4 @@
-5/H. §[^47] (1) A 2. mellékletben foglalt táblázat 99. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:99 mezőjében megjelölt telkekre a beépítés szabályait és az egyedi építési követelményeket a (2) bekezdés állapítja meg, azzal, hogy
+5/H. §[^50] (1) A 2. mellékletben foglalt táblázat 99. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:99 mezőjében megjelölt telkekre a beépítés szabályait és az egyedi építési követelményeket a (2) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési terv és az OTÉK előírásait a (2) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
@@ -14,4 +14,4 @@ c) az épület legmagasabb pontja nem haladhatja meg a 39,00 métert,
 
 d) a zöldfelület megengedett legkisebb mértéke az e § hatálybalépése napján fennálló állapothoz képest a beruházás során nem csökkenhet, továbbá a zöldfelület mértékének 5%-os növelésére vonatkozó előírást nem kell alkalmazni.
 
-[^47]: Az 5/H. §-t a 192/2022. (V. 26.) Korm. rendelet 1. §-a iktatta be.
+[^50]: Az 5/H. §-t a 192/2022. (V. 26.) Korm. rendelet 1. §-a iktatta be.

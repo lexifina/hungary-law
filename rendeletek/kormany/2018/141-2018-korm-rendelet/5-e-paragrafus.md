@@ -1,6 +1,6 @@
-## 5/D. §[^42] A Kormány a 2. mellékletben foglalt táblázat 90. sora szerinti beruházás esetében az 1. melléklet 1. pontja szerinti közigazgatási hatósági ügyekben eljáró hatóságként Budapest Főváros Kormányhivatalát jelöli ki.
+## 5/D. §[^45] A Kormány a 2. mellékletben foglalt táblázat 90. sora szerinti beruházás esetében az 1. melléklet 1. pontja szerinti közigazgatási hatósági ügyekben eljáró hatóságként Budapest Főváros Kormányhivatalát jelöli ki.
 
-5/E. §[^43] (1) A 2. mellékletben foglalt táblázat 92. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:92 mezőjében megjelölt telkekre és az azokból telekalakítással kialakításra kerülő telkekre a beépítés szabályait és az egyedi építési követelményeket a (2) bekezdés állapítja meg, azzal, hogy
+5/E. §[^46] (1) A 2. mellékletben foglalt táblázat 92. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:92 mezőjében megjelölt telkekre és az azokból telekalakítással kialakításra kerülő telkekre a beépítés szabályait és az egyedi építési követelményeket a (2) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési terv és az OTÉK előírásait a (2) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
@@ -16,5 +16,5 @@ c) a terepszint alatti beépítés megengedett legnagyobb mértéke 45%,
 
 d) a hatályos településrendezési terv szerinti szabályozási vonalat nem kell alkalmazni.
 
-[^42]: Az 5/D. §-t a 73/2022. (III. 2.) Korm. rendelet 5. §-a iktatta be.
-[^43]: Az 5/E. §-t a 140/2022. (IV. 7.) Korm. rendelet 1. §-a iktatta be.
+[^45]: Az 5/D. §-t a 73/2022. (III. 2.) Korm. rendelet 5. §-a iktatta be.
+[^46]: Az 5/E. §-t a 140/2022. (IV. 7.) Korm. rendelet 1. §-a iktatta be.

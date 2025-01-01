@@ -1,4 +1,4 @@
-5/X. §[^104] (1) A 2. mellékletben foglalt táblázat B:126 mezőjében megjelölt ingatlanokon a környezetre jelentős hatást nem gyakorló ipari és gazdasági tevékenységi célú építmények, különleges nagy kiterjedésű szállítmányozási, raktározási és logisztikai célú építmények, irodaépületek és azok kiszolgáló építményei elhelyezhetők. A 2. mellékletben foglalt táblázat 126. sora szerinti beruházással érintett ingatlanok telkére a beépítés egyedi szabályait és egyedi építési követelményeket a (2)–(10) bekezdés állapítja meg, azzal, hogy
+5/X. §[^107] (1) A 2. mellékletben foglalt táblázat B:126 mezőjében megjelölt ingatlanokon a környezetre jelentős hatást nem gyakorló ipari és gazdasági tevékenységi célú építmények, különleges nagy kiterjedésű szállítmányozási, raktározási és logisztikai célú építmények, irodaépületek és azok kiszolgáló építményei elhelyezhetők. A 2. mellékletben foglalt táblázat 126. sora szerinti beruházással érintett ingatlanok telkére a beépítés egyedi szabályait és egyedi építési követelményeket a (2)–(10) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési terv és az OTÉK előírásait a (2)–(10) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
@@ -12,7 +12,7 @@ b) amennyiben a hatályos településrendezési terv és az OTÉK a beépítés,
 
 3. a kialakítható telek legkisebb mélysége 20 méter,
 
-4.[^105] a terepszint feletti beépítés legnagyobb mértéke 50%,
+4.[^108] a terepszint feletti beépítés legnagyobb mértéke 50%,
 
 5. a szintterületi mutató megengedett legnagyobb mértéke 2 m2/m2, ebből parkolásra fordítható 0,0 m2/m2,
 
@@ -40,7 +40,7 @@ b) amennyiben a hatályos településrendezési terv és az OTÉK a beépítés,
 
 (3) A 2. mellékletben foglalt táblázat 126. sora szerinti beruházással érintett ingatlanok közül az Érd, külterület 024/20 helyrajzi számú és a Budapest, külterület 0238025/8 helyrajzi számú ingatlanok esetében az épületmagasság megengedett legnagyobb mértéke 30 méter.
 
-(3a)[^106] A 2. mellékletben foglalt táblázat 126. sora szerinti beruházással érintett ingatlanok közül az ingatlan-nyilvántartás szerinti Érd külterület 024/8, 024/21, 024/22, 025 és 026 helyrajzi számú ingatlanok esetében az épületmagasság megengedett legnagyobb mértéke 15 méter.
+(3a)[^109] A 2. mellékletben foglalt táblázat 126. sora szerinti beruházással érintett ingatlanok közül az ingatlan-nyilvántartás szerinti Érd külterület 024/8, 024/21, 024/22, 025 és 026 helyrajzi számú ingatlanok esetében az épületmagasság megengedett legnagyobb mértéke 15 méter.
 
 (4) A 2. mellékletben foglalt táblázat 126. sora szerinti beruházással érintett ingatlanok közül a beruházáshoz közvetlenül kapcsolódó utak a Budapest, külterület 0238025/8 helyrajzi számú, valamint az Érd, külterület 024/8 és 024/20 helyrajzi számú ingatlanok területén korlátozás nélkül létesíthetőek.
 
@@ -78,6 +78,6 @@ rendeltetésű épületek önállóan és vegyesen is elhelyezhetőek.
 
 (10) A 2. mellékletben foglalt táblázat B:126 mezőjében megjelölt ingatlanok esetében kerítés, valamint közlekedési és közműcélú építmények korlátozás nélkül helyezhetőek el, azzal, hogy a tereprendezés mértéke nem korlátozott.
 
-[^104]: Az 5/X. §-t az 502/2023. (XI. 13.) Korm. rendelet 1. §-a iktatta be.
-[^105]: Az 5/X. § (2) bekezdés 4. pontja a 2/2024. (I. 9.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
-[^106]: Az 5/X. § (3a) bekezdését a 2/2024. (I. 9.) Korm. rendelet 2. §-a iktatta be.
+[^107]: Az 5/X. §-t az 502/2023. (XI. 13.) Korm. rendelet 1. §-a iktatta be.
+[^108]: Az 5/X. § (2) bekezdés 4. pontja a 2/2024. (I. 9.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^109]: Az 5/X. § (3a) bekezdését a 2/2024. (I. 9.) Korm. rendelet 2. §-a iktatta be.
