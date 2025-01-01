@@ -8,7 +8,7 @@ b) ellátja az Alappal kapcsolatos azon feladatokat, amelyeket törvény nem uta
 
 c) az Alap terhére finanszírozott kutatás-fejlesztési és innovációs pályázatokat kezelő szerv minőségében ellátott feladatai keretében
 
-ca)[^2] közzéteszi a tudománypolitika koordinációjáért felelős miniszter által jóváhagyott pályázati kiírást, és megszervezi a döntéshozatal előkészítésével kapcsolatos feladatokat,
+ca)[^3] közzéteszi a tudománypolitika koordinációjáért felelős miniszter által jóváhagyott pályázati kiírást, és megszervezi a döntéshozatal előkészítésével kapcsolatos feladatokat,
 
 cb) támogatói okiratot ad ki, támogatási szerződést köt,
 
@@ -16,7 +16,7 @@ cc) nyomon követi és ellenőrzi a nyertes pályázatokat,
 
 d) előkészíti a tudománypolitika koordinációjáért felelős miniszter támogatási döntését a törvény, kormányrendelet, kormányhatározat, nemzetközi szerződés és egyedi támogatási kérelem alapján az Alap terhére nyújtott hazai közfinanszírozású támogatások tekintetében,
 
-e)[^3] részt vesz az uniós társfinanszírozásban megvalósuló Gazdaságfejlesztési és Innovációs Operatív Program, valamint a Gazdaságfejlesztési és Innovációs Operatív Program Plusz kutatás-fejlesztésre és innovációra fordított forrásai tekintetében felmerülő egyes feladatok – különösen projektfejlesztési szolgáltatások nyújtása – ellátásában,
+e)[^4] részt vesz az uniós társfinanszírozásban megvalósuló Gazdaságfejlesztési és Innovációs Operatív Program, valamint a Gazdaságfejlesztési és Innovációs Operatív Program Plusz kutatás-fejlesztésre és innovációra fordított forrásai tekintetében felmerülő egyes feladatok – különösen projektfejlesztési szolgáltatások nyújtása – ellátásában,
 
 f) ellátja az operatív programok innovációval összefüggő célkitűzéseit szolgáló költségvetési támogatásokkal kapcsolatos, a szakpolitikai felelős hatáskörébe tartozó azon feladatokat, amelyeket a tudománypolitika koordinációjáért felelős miniszter mint szakpolitikai felelős ráruház,
 
@@ -24,33 +24,33 @@ g) ellátja a kutatás-fejlesztés és az innováció területén folyó nemzetk
 
 h) részt vesz a Magyarországnak nyújtott külföldi támogatások kutatás-fejlesztési és innovációs célú felhasználásában és koordinálásában,
 
-i)[^4] közreműködik az Európai Unió kutatás-fejlesztési és innovációs céljainak elérésében, így különösen a kutatás-fejlesztési és innovációs keretprogram hazai feladatainak ellátásában, és ellátja az Európai Unió kutatás-fejlesztési és innovációs keretprogrammal kapcsolatos nemzeti kapcsolattartói feladatait,
+i)[^5] közreműködik az Európai Unió kutatás-fejlesztési és innovációs céljainak elérésében, így különösen a kutatás-fejlesztési és innovációs keretprogram hazai feladatainak ellátásában, és ellátja az Európai Unió kutatás-fejlesztési és innovációs keretprogrammal kapcsolatos nemzeti kapcsolattartói feladatait,
 
 j) jogszabály vagy nemzetközi megállapodás alapján ellátja a nemzetközi tudományos és technológiai együttműködésből adódó feladatokat,
 
-k)[^5] országos kutatás-fejlesztési és innovációs támogatási programok – ideértve az Alapot is – programstratégiájának és tervezésének megalapozását szolgáló elemzéseket, értékeléseket, koncepciókat készít, nyomon követi és értékeli a támogatási programokat,
+k)[^6] országos kutatás-fejlesztési és innovációs támogatási programok – ideértve az Alapot is – programstratégiájának és tervezésének megalapozását szolgáló elemzéseket, értékeléseket, koncepciókat készít, nyomon követi és értékeli a támogatási programokat,
 
-l)[^6] támogatja az elektronikus információs adatbázisok és könyvtárak fejlesztését,
+l)[^7] támogatja az elektronikus információs adatbázisok és könyvtárak fejlesztését,
 
-m)[^7] közreműködik a hallgatói kiválóság, a tehetséggondozás, valamint az oktatói és kutatói kiválóság támogatása és ösztönzése kormányzati feladatainak ellátásában,
+m)[^8] közreműködik a hallgatói kiválóság, a tehetséggondozás, valamint az oktatói és kutatói kiválóság támogatása és ösztönzése kormányzati feladatainak ellátásában,
 
-n)[^8] ellátja a Nemzeti Tudománypolitikai Tanács titkárságának feladatait,
+n)[^9] ellátja a Nemzeti Tudománypolitikai Tanács titkárságának feladatait,
 
-o)[^9] ellátja a mindenkori hazai intelligens szakosodási stratégia kidolgozásával, végrehajtásának nyomon követésével és értékelésével kapcsolatos szakmai feladatokat, ennek keretében nyomon követi és értékeli a közfinanszírozással megvalósuló tudományos, kutatás-fejlesztési és innovációs programokat, biztosítja a kapcsolódó vállalkozói tényfeltárás folyamatát, és ellátja az ezzel összefüggő disszeminációs feladatokat,
+o)[^10] ellátja a mindenkori hazai intelligens szakosodási stratégia kidolgozásával, végrehajtásának nyomon követésével és értékelésével kapcsolatos szakmai feladatokat, ennek keretében nyomon követi és értékeli a közfinanszírozással megvalósuló tudományos, kutatás-fejlesztési és innovációs programokat, biztosítja a kapcsolódó vállalkozói tényfeltárás folyamatát, és ellátja az ezzel összefüggő disszeminációs feladatokat,
 
-p)[^10] ellátja a kutatási és technológiai infrastruktúrák monitorozási feladatait, továbbá minősítési rendszert biztosít a Magyarország területén működő, nemzetközi szinten jelentős kutatási infrastruktúrák számára, amely minősítés a vonatkozó támogatási felhívások esetében a minősítés meghatározott időszaka alatt felhasználható,
+p)[^11] ellátja a kutatási és technológiai infrastruktúrák monitorozási feladatait, továbbá minősítési rendszert biztosít a Magyarország területén működő, nemzetközi szinten jelentős kutatási infrastruktúrák számára, amely minősítés a vonatkozó támogatási felhívások esetében a minősítés meghatározott időszaka alatt felhasználható,
 
-q)[^11] előmozdítja a nyílt tudomány kezdeményezéseket.
+q)[^12] előmozdítja a nyílt tudomány kezdeményezéseket.
 
-r)[^12] ellátja a kutatási-fejlesztési tevékenység minősítésével kapcsolatos szakértői feladatokat,
+r)[^13] ellátja a kutatási-fejlesztési tevékenység minősítésével kapcsolatos szakértői feladatokat,
 
-s)[^13]
+s)[^14]
 
-t)[^14] ellátja a Kutatási Kiválósági Tanács titkárságának feladatait, valamint a KFI tv. 10/F. §-a szerinti feladatokat.
+t)[^15] ellátja a Kutatási Kiválósági Tanács titkárságának feladatait, valamint a KFI tv. 10/F. §-a szerinti feladatokat.
 
-u)[^15] ellátja a KFI tv. 42/J. §-a szerinti nyilvántartás vezetésével kapcsolatos feladatokat,
+u)[^16] ellátja a KFI tv. 42/J. §-a szerinti nyilvántartás vezetésével kapcsolatos feladatokat,
 
-v)[^16] ellátja az Egyetemi Kutatói Ösztöndíj Program Tanács titkárságának feladatait.
+v)[^17] ellátja az Egyetemi Kutatói Ösztöndíj Program Tanács titkárságának feladatait.
 
 (2) A Hivatal a hazai közfinanszírozású támogatások tekintetében
 
@@ -86,26 +86,26 @@ g) feladatkörében együttműködik Magyarország külképviseleteivel, kapcsol
 
 (4) A Hivatal elnöke a (3) bekezdésben meghatározott feladatok végrehajtásának részletes szabályairól a Kormány feladatkörében érintett tagjával kötött megállapodásban rendelkezhet.
 
-(5)[^17] Feladatai ellátása során a Hivatal együttműködik az ágazati kutatás-fejlesztési és innovációs tevékenységet illetően a feladatkörében eljáró államigazgatási szervvel, a Magyar Tudományos Akadémiával, a HUN-REN Központtal és más kutatás-fejlesztéssel és innovációval foglalkozó szervezetekkel és intézményekkel.
+(5)[^18] Feladatai ellátása során a Hivatal együttműködik az ágazati kutatás-fejlesztési és innovációs tevékenységet illetően a feladatkörében eljáró államigazgatási szervvel, a Magyar Tudományos Akadémiával, a HUN-REN Központtal és más kutatás-fejlesztéssel és innovációval foglalkozó szervezetekkel és intézményekkel.
 
 (6) A Hivatal elnöke a Hivatal feladatkörét érintően a tudománypolitika koordinációjáért felelős miniszteren keresztül jogszabály megalkotását és módosítását kezdeményezheti.
 
-(7)[^18] A Hivatal együttműködik az NKFI Alap kezelésében a KFI tv. 11. § (3) bekezdése szerint közreműködő gazdasági társasággal.
+(7)[^19] A Hivatal együttműködik az NKFI Alap kezelésében a KFI tv. 11. § (3) bekezdése szerint közreműködő gazdasági társasággal.
 
-[^2]: Az 5. § (1) bekezdés c) pont ca) alpontja a 246/2023. (VI. 22.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
-[^3]: Az 5. § (1) bekezdés e) pontja a 246/2023. (VI. 22.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
-[^4]: Az 5. § (1) bekezdés i) pontja a 246/2023. (VI. 22.) Korm. rendelet 15. § (3) bekezdésével megállapított szöveg.
-[^5]: Az 5. § (1) bekezdés k) pontja a 246/2023. (VI. 22.) Korm. rendelet 15. § (4) bekezdésével megállapított szöveg.
-[^6]: Az 5. § (1) bekezdés l) pontja a 246/2023. (VI. 22.) Korm. rendelet 15. § (4) bekezdésével megállapított szöveg.
-[^7]: Az 5. § (1) bekezdés m) pontja a 246/2023. (VI. 22.) Korm. rendelet 15. § (4) bekezdésével megállapított szöveg.
-[^8]: Az 5. § (1) bekezdés n) pontja a 246/2023. (VI. 22.) Korm. rendelet 15. § (4) bekezdésével megállapított szöveg.
-[^9]: Az 5. § (1) bekezdés o) pontja a 246/2023. (VI. 22.) Korm. rendelet 15. § (4) bekezdésével megállapított szöveg.
-[^10]: Az 5. § (1) bekezdés p) pontját az 543/2020. (XII. 2.) Korm. rendelet 2. §-a iktatta be, szövege a 246/2023. (VI. 22.) Korm. rendelet 15. § (4) bekezdésével megállapított szöveg.
-[^11]: Az 5. § (1) bekezdés q) pontját a 746/2021. (XII. 21.) Korm. rendelet 17. §-a iktatta be, szövege a 246/2023. (VI. 22.) Korm. rendelet 15. § (4) bekezdésével megállapított szöveg.
-[^12]: Az 5. § (1) bekezdés r) pontját a 246/2023. (VI. 22.) Korm. rendelet 15. § (5) bekezdése iktatta be.
-[^13]: Az 5. § (1) bekezdés s) pontját a 246/2023. (VI. 22.) Korm. rendelet 15. § (5) bekezdése iktatta be, a 248/2024. (VIII. 15.) Korm. rendelet 4. § 3. pont a) alpontja hatályon kívül helyezte.
-[^14]: Az 5. § (1) bekezdés t) pontját a 246/2023. (VI. 22.) Korm. rendelet 15. § (6) bekezdése iktatta be.
-[^15]: Az 5. § (1) bekezdés u) pontját a 673/2023. (XII. 29.) Korm. rendelet 23. §-a iktatta be.
-[^16]: Az 5. § (1) bekezdés v) pontját a 673/2023. (XII. 29.) Korm. rendelet 23. §-a iktatta be.
-[^17]: Az 5. § (5) bekezdése a 246/2023. (VI. 22.) Korm. rendelet 17. § a) és b) pontja, a 673/2023. (XII. 29.) Korm. rendelet 25. §-a szerint módosított szöveg.
-[^18]: Az 5. § (7) bekezdését a 246/2023. (VI. 22.) Korm. rendelet 15. § (7) bekezdése iktatta be.
+[^3]: Az 5. § (1) bekezdés c) pont ca) alpontja a 246/2023. (VI. 22.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^4]: Az 5. § (1) bekezdés e) pontja a 246/2023. (VI. 22.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^5]: Az 5. § (1) bekezdés i) pontja a 246/2023. (VI. 22.) Korm. rendelet 15. § (3) bekezdésével megállapított szöveg.
+[^6]: Az 5. § (1) bekezdés k) pontja a 246/2023. (VI. 22.) Korm. rendelet 15. § (4) bekezdésével megállapított szöveg.
+[^7]: Az 5. § (1) bekezdés l) pontja a 246/2023. (VI. 22.) Korm. rendelet 15. § (4) bekezdésével megállapított szöveg.
+[^8]: Az 5. § (1) bekezdés m) pontja a 246/2023. (VI. 22.) Korm. rendelet 15. § (4) bekezdésével megállapított szöveg.
+[^9]: Az 5. § (1) bekezdés n) pontja a 246/2023. (VI. 22.) Korm. rendelet 15. § (4) bekezdésével megállapított szöveg.
+[^10]: Az 5. § (1) bekezdés o) pontja a 246/2023. (VI. 22.) Korm. rendelet 15. § (4) bekezdésével megállapított szöveg.
+[^11]: Az 5. § (1) bekezdés p) pontját az 543/2020. (XII. 2.) Korm. rendelet 2. §-a iktatta be, szövege a 246/2023. (VI. 22.) Korm. rendelet 15. § (4) bekezdésével megállapított szöveg.
+[^12]: Az 5. § (1) bekezdés q) pontját a 746/2021. (XII. 21.) Korm. rendelet 17. §-a iktatta be, szövege a 246/2023. (VI. 22.) Korm. rendelet 15. § (4) bekezdésével megállapított szöveg.
+[^13]: Az 5. § (1) bekezdés r) pontját a 246/2023. (VI. 22.) Korm. rendelet 15. § (5) bekezdése iktatta be.
+[^14]: Az 5. § (1) bekezdés s) pontját a 246/2023. (VI. 22.) Korm. rendelet 15. § (5) bekezdése iktatta be, a 248/2024. (VIII. 15.) Korm. rendelet 4. § 3. pont a) alpontja hatályon kívül helyezte.
+[^15]: Az 5. § (1) bekezdés t) pontját a 246/2023. (VI. 22.) Korm. rendelet 15. § (6) bekezdése iktatta be.
+[^16]: Az 5. § (1) bekezdés u) pontját a 673/2023. (XII. 29.) Korm. rendelet 23. §-a iktatta be.
+[^17]: Az 5. § (1) bekezdés v) pontját a 673/2023. (XII. 29.) Korm. rendelet 23. §-a iktatta be.
+[^18]: Az 5. § (5) bekezdése a 246/2023. (VI. 22.) Korm. rendelet 17. § a) és b) pontja, a 673/2023. (XII. 29.) Korm. rendelet 25. §-a szerint módosított szöveg.
+[^19]: Az 5. § (7) bekezdését a 246/2023. (VI. 22.) Korm. rendelet 15. § (7) bekezdése iktatta be.
