@@ -14,7 +14,7 @@ b) – ha a tanuló, illetve a képzésben részt vevő személy sikeres szakmai
 
 c) hallgatónként az Nftv. szerinti duális képzés és gyakorlatigényes alapképzési szak arányosított alapnormatívája alapján az egy munkanapra vetített mérték és a tárgyhónapban ténylegesen teljesített képzési napok számának szorzataként számított összege.
 
-(2)
+(2) Az (1) bekezdés a) pontja szerinti adókedvezményt ugyanazon munkáltató ugyanazon munkavállalója tekintetében legfeljebb 12 hónapig érvényesítheti azon képzésben részt vevő személy tekintetében, aki a szakirányú oktatást az Szkt. 90/A. §-a szerint saját foglalkoztatónál teljesíti és legkésőbb a szakirányú oktatás befejezését követő második vizsgaidőszakban szakmai vizsgát tesz.
 
 (3) Az önköltség és az alapnormatíva mértékét a központi költségvetésről szóló törvény, az önköltség szakmánként alkalmazandó és az alapnormatíva képzési területenként alkalmazandó súlyszorzóját a Kormány rendeletben határozza meg.
 

@@ -40,7 +40,7 @@ e) az Szja tv. 1/B. § hatálya alá tartozó természetes személy e tevékenys
 
 f) az ingatlanalap befektetési jegyéből származó kamatjövedelem kivételével a természetes személy kamatjövedelme (Szja tv. 65. §)
 
-g)
+g) az Szja tv. 67/B. § (5) bekezdés c) pont szerinti lekötési hozam
 
 Magyarországon adóztatható része után.
 
