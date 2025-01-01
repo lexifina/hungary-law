@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-418-20-
 | 2023-01-01 | 2017-418-20-22.7 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2023-08-27 | 2017-418-20-22.8 | 350/2023. (VII. 27.) Korm. rendelet |
 | 2024-10-01 | 2017-418-20-22.9 | 360/2019. (XII. 30.) Korm. rendelet |
+| 2025-01-01 | 2017-418-20-22.10 | 331/2024. (XI. 14.) Korm. rendelet |
