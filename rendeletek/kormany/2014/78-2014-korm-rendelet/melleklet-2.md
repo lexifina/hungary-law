@@ -24,7 +24,7 @@
 
 | 12. | Tőkeáttétel maximális mértéke alapesetben | 2-szeres | 2-szeres | kezelési szabályzattól függő |
 
-| 13.[^33] |  |  |  |  |
+| 13.[^34] |  |  |  |  |
 
 2. melléklet a 78/2014. (III. 14.) Korm. rendelethez
 
@@ -32,7 +32,7 @@ A származtatott alap nettó pozíciójának számításához alkalmazott szorz�
 
 |  | A. | B. |
 
-| 1. | A nettó pozíciót képező pénzeszköz, pénzügyi eszköz[^34] | Szorzószám |
+| 1. | A nettó pozíciót képező pénzeszköz, pénzügyi eszköz[^35] | Szorzószám |
 
 | 2. | a) Deviza | 0,25 |
 
@@ -42,8 +42,8 @@ A származtatott alap nettó pozíciójának számításához alkalmazott szorz�
 
 | 5. | d) 1 évnél rövidebb hátralévő futamidejű kötvény, kamatláb pozíció, a befektetési alap alapdevizájában fennálló számlapénz vagy egyéb követelések | 0,10 |
 
-| 6. | e) A b)–d) pontba nem tartozó pénzügyi eszköz[^35] | 1,00 |
+| 6. | e) A b)–d) pontba nem tartozó pénzügyi eszköz[^36] | 1,00 |
 
-[^33]: Az 1. mellékletben foglalt táblázat 13. sorát az 55/2024. (III. 7.) Korm. rendelet 10. §-a hatályon kívül helyezte.
-[^34]: A 2. mellékletben foglalt táblázat A:1 mezője az 55/2024. (III. 7.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^35]: A 2. mellékletben foglalt táblázat A:6 mezője az 55/2024. (III. 7.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^34]: Az 1. mellékletben foglalt táblázat 13. sorát az 55/2024. (III. 7.) Korm. rendelet 10. §-a hatályon kívül helyezte.
+[^35]: A 2. mellékletben foglalt táblázat A:1 mezője az 55/2024. (III. 7.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^36]: A 2. mellékletben foglalt táblázat A:6 mezője az 55/2024. (III. 7.) Korm. rendelet 8. §-ával megállapított szöveg.
