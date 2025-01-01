@@ -8,7 +8,7 @@ a) az az adóalany, aki (amely) kizárólag a 85. § (1) bekezdése, 86. § (1) 
 
 b) az az adóalany, aki (amely) ilyen minőségében
 
-ba) alanyi adómentességben részesül;
+ba) a XIII. Fejezet 1., illetve 3. alcíme szerinti alanyi adómentességben részesül;
 
 bb) mezőgazdasági tevékenységet folytatóként jár el.
 
@@ -23,3 +23,5 @@ c) kizárólag adóraktározási eljárás hatálya alatt álló terméket ért�
 (4) Mentesül az Art. szerinti bejelentkezési kötelezettség alól a belföldön gazdasági céllal nem letelepedett, belföldön lakóhellyel vagy szokásos tartózkodási hellyel nem rendelkező adóalany harmadik államból importált termék távértékesítése, termék Közösségen belüli távértékesítése, ideértve azt az az esetet is, ha a 12/C. § (2) bekezdése szerint jár el, valamint nem adóalany részére nyújtott szolgáltatása tekintetében, feltéve, hogy adófizetési kötelezettségét a Közösség másik tagállamában teljesíti azon tagállami szabályozás alapján, amely tartalmában megfelel a Héa-irányelv XII. cím 6. fejezet 2–4. szakaszában foglaltaknak.
 
 (5) Mentesül az Art. szerinti bejelentkezési kötelezettség alól az az egyéni vállalkozónak nem minősülő természetes személy adóalany, aki kizárólag a 86. § (1) bekezdés l) pontja szerinti adómentes szolgáltatást nyújt, feltéve, hogy nem él a 88. § (1) bekezdés b) pont szerinti választási jogával és a 257/B. § szerint közösségi adószám kiváltására nem kötelezett.
+
+(6) Mentesül az Art. szerinti bejelentkezési kötelezettség alól a Közösség más tagállamában székhellyel, ennek hiányában lakóhellyel rendelkező adóalany a XIII. Fejezet 3. alcíme szerint alanyi adómentes tevékenysége tekintetében.

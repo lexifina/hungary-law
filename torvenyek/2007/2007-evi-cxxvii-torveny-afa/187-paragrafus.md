@@ -6,7 +6,9 @@
 
 ## ALANYI ADÓMENTESSÉG
 
-187. § (1) Az az adóalany, aki (amely) gazdasági céllal belföldön telepedett le, gazdasági célú letelepedés hiányában pedig lakóhelye vagy szokásos tartózkodási helye van belföldön, jogosult az e fejezetben meghatározottak szerint alanyi adómentességet választani.
+## 1. Az alanyi adómentességnek a belföldön letelepedett adóalanyok által belföldön történő alkalmazására vonatkozó szabályok
+
+187. § (1) Az az adóalany, akinek (amelynek) gazdasági tevékenységének székhelye, ennek hiányában pedig lakóhelye belföldön van, jogosult az ezen alcímben meghatározottak szerint belföldön alanyi adómentességet választani.
 
 (2) Abban az esetben, ha az adóalany él az (1) bekezdésben említett választási jogával, az alanyi adómentesség időszakában az adóalany alanyi adómentes minőségében
 

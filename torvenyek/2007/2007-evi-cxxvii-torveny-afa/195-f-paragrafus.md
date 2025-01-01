@@ -1,0 +1,1 @@
+195/F. § Ha a 195/A. § (1) bekezdése szerinti adómentesség alkalmazása során az adóalany tárgyévi göngyölített uniós árbevétele meghaladta a 195/A. § (3) bekezdésében említett értékhatárt, az adóalany az értékhatár túllépésének évét követő naptári év végéig nem élhet újra a 195/A. § (1) bekezdése szerinti választási joggal.

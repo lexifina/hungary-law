@@ -10,10 +10,14 @@ c) a számlakibocsátásra jogalapot teremtő ügylet a 159. § (2) bekezdésén
 
 d) a számla adóval növelt végösszege nem haladja meg a 100 eurónak megfelelő pénzösszeget, feltéve, hogy a számlakibocsátásra jogalapot teremtő ügylet a 29. § vagy a 89. § szerinti termékértékesítéstől eltérő ügylet, továbbá a számlakibocsátásra a 159. § (2) bekezdés c) és d) pontjában említett esetektől eltérő esetben kerül sor.
 
+e) a számlakibocsátásra jogalapot teremtő ügyletet a 187. § (1) bekezdése vagy a 195/G. § (1) bekezdése szerinti alanyi adómentesség hatálya alá tartozó adóalany e minőségében teljesíti.
+
 (2) A számla egyszerűsített adattartalma azt jelenti, hogy
 
 a) az (1) bekezdés a), b) és d) pontjában említett esetben a 169. §-ban felsorolt adatok közül az i) pontban megjelölt helyett az ellenérték adót is tartalmazó összege, valamint a j) pontban megjelölt helyett az alkalmazott adómértéknek megfelelő, a 83. § szerint meghatározott százalékérték feltüntetése kötelező azzal, hogy egyúttal a k) pontban megjelölt adat nem tüntethető fel;
 
 b) az (1) bekezdés c) pontjában említett esetben a 169. §-ban felsorolt adatok közül csak az a)–g) és n) pontban megjelöltek kitöltése, továbbá az i) pontban megjelölt helyett az ellenérték pénzben kifejezett összegének feltüntetése kötelező.
+
+c) az (1) bekezdés e) pontjában említett esetben a 169. §-ban felsorolt adatok közül csak az a)–g) és m) pontban megjelöltek kitöltése, továbbá az i) pontban megjelölt helyett az ellenérték pénzben kifejezett összegének feltüntetése kötelező.
 
 (3) Az egyszerűsített adattartalmú számlára a számla adattartalmára vonatkozó egyéb rendelkezéseket e §-sal összhangban kell alkalmazni.

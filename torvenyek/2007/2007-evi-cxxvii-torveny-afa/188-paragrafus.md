@@ -16,7 +16,7 @@ aa) tárgyi eszközként használt termék értékesítése,
 
 ab) immateriális jószágként használt, egyéb módon hasznosított vagyoni értékű jog végleges átengedése,
 
-b) az aa) alpont alá nem tartozó új közlekedési eszköz 89. § (1) és (2) bekezdés szerinti értékesítése,
+b)
 
 c) az aa) alpont alá nem tartozó beépített ingatlan (ingatlanrész) és ehhez tartozó földrészlet értékesítése, amelynek
 

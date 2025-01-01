@@ -1,0 +1,1 @@
+195/D. § A 195/A. § (4) bekezdés szerinti nyilatkozatot, illetve annak (6) bekezdés szerinti módosítását, valamint a 195/B. § (1)–(2) és (4) bekezdése szerinti adatokat elektronikus úton, az állami adó- és vámhatóság által ezen célra kialakított elektronikus felületen kell benyújtani az állami adó- és vámhatósághoz.
