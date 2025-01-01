@@ -17,7 +17,3 @@
 (9) A médiaszolgáltatásban közzétett, támogatott médiatartalom nem ösztönözhet, és nem hívhat fel a támogató vagy az általa meghatározott harmadik személy termékének beszerzésére vagy szolgáltatásának igénybevételére, illetve az attól való tartózkodásra.
 
 (10) A támogató a médiatartalom-szolgáltató felelősségét, illetve szerkesztői szabadságát érintő módon a médiatartalmat vagy annak közzétételét nem befolyásolhatja.
-
-VII. CÍM
-
-FELELŐSSÉGI KÉRDÉSEK
