@@ -1,0 +1,5 @@
+1. § A földgázpiaci egyetemes szolgáltatáshoz kapcsolódó hatósági árak képzésének keretszabályairól szóló 70/2016. (XII. 29.) NFM rendelet (a továbbiakban: ESZ rendelet) 3. §-a a következő (7) és (8) bekezdéssel egészül ki:
+
+„(7) Az (1) bekezdés f) pontjában meghatározott egyetemes szolgáltatói árrés megállapítása során a miniszter figyelembe veszi az energiahatékonyságról szóló 2015. évi LVII. törvény (a továbbiakban: Ehat.) szerinti energiahatékonysági kötelezettségi rendszerben megállapított kötelezettségek teljesítése érdekében az egyetemes szolgáltatónál felmerülő költségeket. Az energiahatékonysági kötelezettségi rendszerben megállapított kötelezettségek teljesítése érdekében felmerülő, külön kimutatott költségek legfeljebb az Ehat. 15/E. § (1) bekezdése szerinti energiahatékonysági járulék fajlagos értékének 33%-áig vehetők figyelembe, mely százalékos mértéket a miniszter évente felülvizsgál.
+
+(8) A (7) bekezdés szerint figyelembe vett költség egyetemes szolgáltatói árrésen keresztüli realizálásával kapcsolatos utólagos korrekciót a miniszter a tárgyévi gázévet követő második gázév árrésének meghatározása során biztosítja.”
