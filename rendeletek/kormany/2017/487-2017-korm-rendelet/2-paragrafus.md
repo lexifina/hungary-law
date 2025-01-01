@@ -1,6 +1,6 @@
 ## 2. A kérelem
 
-2. § (1) A személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló 2005. évi CXXXIII. törvény (a továbbiakban: Szvmt.) 5. § (1) bekezdésében meghatározott működési engedély (a továbbiakban: működési engedély) iránti kérelemnek tartalmaznia kell
+2. § (1)[^2] Az Szvmt. 5. § (1) bekezdésében meghatározott működési engedély (a továbbiakban: működési engedély) iránti kérelemnek tartalmaznia kell
 
 a) a folytatni kívánt tevékenység Szvmt. szerinti megnevezését,
 
@@ -10,11 +10,11 @@ c) a vállalkozás cégbírósághoz bejelentett vezető tisztségviselőinek sz
 
 d) a vállalkozás cégjegyzék szerinti nevét és rövidített nevét, formáját, székhelyét, telephelyét, fióktelepét, levelezési címét, az Szvmt. 74. § 18. pontjában meghatározott EGT-államban – ide nem értve Magyarországot – (a továbbiakban: más EGT-állam) alapított vállalkozás esetén annak cégbíróságnál bejelentett magyarországi fióktelepét, illetve a tevékenység végzésének helyét, a Magyarországon lakóhellyel nem rendelkező természetes személy vagy külföldi jogi személy képviselőnek a cégbíróságnál bejelentett kézbesítési meghatalmazottja nevét és címét,
 
-e)[^2] a cégjegyzékszámot, nem Magyarországon alapított vállalkozás esetében a nyilvántartási számot, egyéni vállalkozás esetén a vállalkozó nyilvántartási számát,
+e)[^3] a cégjegyzékszámot, nem Magyarországon alapított vállalkozás esetében a nyilvántartási számot, egyéni vállalkozás esetén a vállalkozó nyilvántartási számát,
 
 f) a tevékenységet szakmailag szervező vagy irányító személy személyazonosító adatait, az Szvmt. 5. § (1) bekezdés a) pontja vagy 5/A. § (1) bekezdés a) pontja szerinti igazolványának (a továbbiakban együtt: igazolvány) számát,
 
-g) az ügyfél cégszerű aláírását,
+g)[^4]
 
 h) az Szvmt. 5. § (1) bekezdés a) pontjában felsorolt, az Szvmt. hatálya alá eső tevékenységet végző személyazonosító adatait, valamint igazolványának vagy az Szvmt. 70. § (1) bekezdése szerinti határozatnak a számát.
 
@@ -30,4 +30,6 @@ b) a vállalkozás vezető tisztségviselői, tulajdonosai, tagjai, illetve a te
 
 (5) A más EGT-államban alapított vállalkozás által benyújtott engedély iránti kérelemnek az (1) bekezdés a), b), d), e) és g) pontjában meghatározott adatokat, valamint az igazolvány vagy az Szvmt. 70. § (1) bekezdése szerinti határozat számát kell tartalmaznia, a kérelem során továbbá a más EGT-államban kiállított, hitelesen lefordított formában igazolni kell a vállalkozással kapcsolatos adatokat.
 
-[^2]: A 2. § (1) bekezdés e) pontja a 360/2019. (XII. 30.) Korm. rendelet 187. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^2]: A 2. § (1) bekezdés nyitó szövegrésze a 479/2024. (XII. 31.) Korm. rendelet 65. §-a szerint módosított szöveg.
+[^3]: A 2. § (1) bekezdés e) pontja a 360/2019. (XII. 30.) Korm. rendelet 187. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^4]: A 2. § (1) bekezdés g) pontját a 479/2024. (XII. 31.) Korm. rendelet 66. §-a hatályon kívül helyezte.
