@@ -14,7 +14,7 @@ a) pénz esetében az a nap, amelyen azt a magánszemély vagy javára más szem
 
 b) dolog, értékpapír, váltó, csekk és más okirat esetében a tulajdonjog megszerzésének napja vagy – ha ez a korábbi időpont – az a nap, amelyen azt a magánszemély vagy javára más személy birtokba vette, míg dematerializált értékpapír esetében az értékpapírszámlán való jóváírás napja, ha azonban az említett vagyoni értékkel összefüggésben a magánszemélyt sem a használat, a hasznok szedésének joga, sem a rendelkezési jog nem illeti meg, akkor a bevétel ezen jogok közül legalább egynek a megnyílásáig nem tekinthető megszerzettnek;
 
-c) igénybe vett szolgáltatás esetében az a nap, amelyen a szolgáltatásról szóló bizonylat rendelkezésre áll, ha azonban a szolgáltatás juttatója nem azonos a szolgáltatás nyújtójával, a szolgáltatás igénybevételére való jogosultság megszerzésének napja;
+c) igénybe vett szolgáltatás esetében az a nap, amelyen a szolgáltatás nyújtójának az általános forgalmi adóról szóló törvény rendelkezései szerinti teljesítési időponttal adófizetési kötelezettsége keletkezik vagy keletkezne (függetlenül attól, hogy a szolgáltatás nyújtója az általános forgalmi adó fizetésére kötelezett vagy sem), ha azonban a szolgáltatás juttatója nem azonos a szolgáltatás nyújtójával, az a nap, amelyen a szolgáltatásról szóló bizonylat rendelkezésre áll;
 
 d) forgalomképes vagy egyébként értékkel bíró jog esetében az a nap, amelytől kezdődően a magánszemély a jog gyakorlására, átruházására, megszüntetésére vagy a jog(gyakorlás) átengedésére jogosult;
 

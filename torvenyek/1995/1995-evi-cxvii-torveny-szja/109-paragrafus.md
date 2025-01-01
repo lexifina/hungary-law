@@ -1,0 +1,1 @@
+109. § Az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel megállapított 52. § (1) bekezdés b) pontja, 53. § (1) bekezdés c) pontja és (2) bekezdés m) pontja a 2024. évre vonatkozóan is alkalmazható.

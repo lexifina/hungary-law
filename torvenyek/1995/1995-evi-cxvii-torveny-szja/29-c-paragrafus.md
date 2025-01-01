@@ -11,3 +11,5 @@
 (5) A kedvezményt a házastársak – döntésük szerint – az összeg megosztásával közösen érvényesítik, ideértve azt az esetet is, ha a kedvezményt kizárólag egyikük veszi igénybe. A kedvezmény közös igénybevétele az adóbevallásban független attól, hogy az adóelőleg megállapításánál mely házastársnál történt annak figyelembevétele.
 
 (6) Az igénybevétel feltétele a házastársak – adóbevallásban közösen tett, egymás adóazonosító jelét is feltüntető – nyilatkozata, amely tartalmazza, hogy a kedvezményt melyikük veszi igénybe, vagy a kedvezmény összegének megosztására vonatkozó döntésüket.
+
+(7) A kedvezményt az EGT-államok és a Magyarországgal határos, nem EGT-államok állampolgára érvényesítheti.

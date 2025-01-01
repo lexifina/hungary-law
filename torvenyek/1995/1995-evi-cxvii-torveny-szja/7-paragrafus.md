@@ -68,7 +68,7 @@ r) a kiküldetési rendelvény alapján hivatali, üzleti utazás költségtér�
 
 s) a reprezentációt és az üzleti ajándékot, ha a juttatót az adott juttatás tekintetében a belföldi jogszabály alapján nem terheli adókötelezettség;
 
-t) az egyéni vállalkozónak, őstermelőnek minősülő földműves gazdaságátadási támogatása jogosultsága feltételeként megvalósuló termőföld értékesítéséből származó bevételt;
+t) az egyéni vállalkozónak, őstermelőnek minősülő földműves gazdaságátadási szerződésből származó bevételét;
 
 u) a szomszédos államokban élő magyarokról szóló törvény alapján a hatálya alá tartozó személyt a művelődés, a kultúra, a tudomány területén ingyenesen megillető alapszolgáltatást és külön jogszabályban meghatározott további kedvezményt, az említett személyt külön jogszabály szerint megillető utazási kedvezményt és a diákigazolványához kapcsolódó kedvezményt, valamint a törvény alapján a határon túli magyar pedagógust megillető kedvezményt, továbbá a törvény hatálya alá tartozó személy részére a törvény rendelkezései szerint a határon túli kihelyezett képzés vagy a szülőföldön nyújtható oktatási támogatás keretében juttatott vagyoni értéket;
 
@@ -81,6 +81,8 @@ x) azt az összeget, amelyet a belföldi jogszabályok szerint bejegyzésre nem 
 y) a közérdekű önkéntes tevékenységről szóló törvény alapján az önkéntesnek nyújtott, ellenszolgáltatásnak nem minősülő juttatást;
 
 z) a Tbj. szerinti biztosítási kötelezettséggel járó jogviszonyra tekintettel a magánszemélynek a Tbj. szerint nem a foglalkoztatójától származó vagyoni értékkel összefüggésben – a foglalkoztató és a magánszemély egybehangzó nyilatkozata alapján – a foglalkoztató által átvállalt (ide értve az utólagos megtérítést is) szociális hozzájárulási adó összegét, amennyiben a magánszemély nyilatkozik arról, hogy a kötelezettség teljesítéséhez szükséges valamennyi adatot a foglalkoztató rendelkezésére bocsátja.
+
+zs) szellemi termék gazdasági társaság részére nem vagyoni hozzájárulásként történő szolgáltatása esetén a vagyoni hozzájárulásnak a létesítő okiratban meghatározott értéke a vagyoni hozzájárulást teljesítő, a szellemi terméket létrehozó (eredeti jogosult) magánszemélynél.
 
 (1a) A 3. § 89. pontjától eltérően nem szerez bevételt a díjfizetés időpontjában a biztosított magánszemély, ha a biztosító teljesítésére korlátozások nélkül a díjat fizető más személy jogosult. Ha a kockázati biztosítás kedvezményezettje nem a díjat fizető más személy, akkor a megtakarítási díjrész erejéig nem szerez bevételt a magánszemély, feltéve, hogy a megtakarítási díj alapján járó biztosítói teljesítésre korlátozások nélkül a díjat fizető más személy jogosult.
 

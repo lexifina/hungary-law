@@ -4,7 +4,7 @@ a) az egyéni vállalkozó 40 százalék,
 
 b) az adóév egészében kizárólag a (2) bekezdésben, vagy kizárólag a (2) bekezdésben meghatározott és a c) pont szerinti tevékenységből bevételt szerző egyéni vállalkozó 80 százalék,
 
-c) az adóév egészében kizárólag a kereskedelmi tevékenységek végzésének feltételeiről szóló kormányrendelet alapján kiskereskedelmi tevékenységből bevételt szerző egyéni vállalkozó 90 százalék,
+c) az adóév egészében kizárólag a kereskedelmi tevékenységek végzésének feltételeiről szóló kormányrendelet alapján kiskereskedelmi tevékenységből – ide nem értve a (2) bekezdés k) pontja szerinti vendéglátó tevékenységet –, vagy a kiskereskedelmi tevékenység mellett legfeljebb az egyetemes postai szolgáltató megbízása alapján elvégzett postai közreműködői és egyéb tevékenységből bevételt szerző egyéni vállalkozó 90 százalék,
 
 d) a mezőgazdasági őstermelő 90 százalék
 
@@ -12,29 +12,31 @@ költséghányad levonásával állapítja meg (átalányban megállapított jö
 
 (2) Az (1) bekezdés b) pontja szerinti tevékenységek a következők:
 
-a) mezőgazdasági, erdőgazdálkodási (TESZOR 01, 02), bányászati (TESZOR 05-től 09-ig) és feldolgozóipari (TESZOR 10-től 32-ig) termék-előállítás, építőipari kivitelezés (TESZOR 41, 42);
+a) mezőgazdasági, erdőgazdálkodási, (ÖVTJ’24 01, 02) bányászati (ÖVTJ’24 05-től 09-ig) tevékenység, építőipari kivitelezés (ÖVTJ’24 41-től 42-ig);
 
-b) mezőgazdasági, betakarítást követő szolgáltatás (TESZOR 01.6), vadgazdálkodáshoz kapcsolódó szolgáltatás (TESZOR 01.70.10), erdészeti szolgáltatás (TESZOR 02.40.10) és zöldterület-kezelés (TESZOR 81.30.10);
+b) mezőgazdasági, betakarítást követő szolgáltatás (ÖVTJ’24 016), vadgazdálkodáshoz kapcsolódó szolgáltatás (ÖVTJ’24 017001), erdészeti szolgáltatás (ÖVTJ’24 0240) és zöldterület-kezelés (ÖVTJ’24 8130);
 
-c) halászati szolgáltatás (TESZOR 03.00.71), halgazdálkodási szolgáltatás (TESZOR 03.00.72);
+c) halászati tevékenység (ÖVTJ’24 031), halgazdálkodási tevékenység (ÖVTJ’24 032);
 
-d) feldolgozóipari szolgáltatás (TESZOR 10-től 32-ig) a bérmunkában végzett szolgáltatás és az egyéb sokszorosítás (TESZOR 18.20) kivételével;
+d) feldolgozóipari termék-előállítás és szolgáltatás (ÖVTJ’24 10-től 32-ig) a bérmunkában végzett szolgáltatások és az egyéb sokszorosítás (ÖVTJ’24 1820) kivételével;
 
-e) építőipari szolgáltatás (TESZOR 43);
+e) speciális szaképítés (ideértve az épületgépészeti berendezések javítását is) (ÖVTJ’24 43);
 
-f) ipari gép, berendezés, eszköz javítása (TESZOR 33.1), gépjárműjavítás (TESZOR 45.20), személyi, háztartási cikk javítása (TESZOR 95.2), épületgépészeti berendezések javítása (TESZOR 43.21, 43.22, 43.29);
+f) ipari gép, berendezés, eszköz javítása (ÖVTJ’24 331), gépjárműjavítás (ÖVTJ’24 4520), személyi, háztartási cikk javítása (ÖVTJ’24 952);
 
-g) a taxis személyszállítás (TESZOR 49.32.11) személygépjármű kölcsönzése vezetővel (TESZOR 49.32.12), egyéb máshová nem sorolt szárazföldi személyszállítás (TESZOR 49.39.39), közúti áruszállítás (TESZOR 49.41.1);
+g) a taxis személyszállítás (ÖVTJ’24 4932), egyéb máshová nem sorolt szárazföldi személyszállítás (ÖVTJ’24 493901), sofőrszolgálat (ÖVTJ’24 493909), közúti áruszállítás (ÖVTJ’24 4941);
 
-h) számítógép, kommunikációs eszköz javítása (TESZOR 95.1);
+h) számítógép, kommunikációs eszköz javítása (ÖVTJ’24 951);
 
-i) fényképészet (TESZOR 74.20);
+i) fényképészet (ÖVTJ’24 7420);
 
-j) textil, szőrme mosása, tisztítása (TESZOR 96.01), fodrászat, szépségápolás (TESZOR 96.02), hobbiállat-gondozás (TESZOR 96.09.11);
+j) textil, szőrme mosása, tisztítása (ÖVTJ’24 9601), fodrászat, szépségápolás (ÖVTJ’24 9602), hobbiállat-gondozás (ÖVTJ’24 960909-től 960911-ig);
 
-k) a kereskedelmi tevékenységek végzésének feltételeiről szóló kormányrendelet alapján folytatott vendéglátó tevékenység (TESZOR 56).
+k) a kereskedelmi tevékenységek végzésének feltételeiről szóló kormányrendelet alapján folytatott vendéglátó tevékenység (ÖVTJ’24 56);
 
-l) személygépjármű-vezető képzés tevékenység (TESZOR’08 85.53.11).
+l) járművezető-oktatás (ÖVTJ’24 855301);
+
+m) az egyetemes postai szolgáltató megbízása alapján elvégzett postai közreműködői (ÖVTJ’24 532003) és egyéb tevékenység (ÖVTJ’24 821101, 829902, 661901, 662201 és 920003).
 
 (3) Abban az esetben, ha az egyéni vállalkozó tevékenysége év közben oly módon változik, hogy a korábban alkalmazott költséghányad alkalmazására már nem jogosult, a változás időpontjában az év első napjára visszamenőlegesen át kell térnie a tevékenységének megfelelő alacsonyabb költséghányad alkalmazására.
 

@@ -56,6 +56,8 @@ növelve a magánszemély által az értékpapír átruházásáig teljesített,
 
 al) az aa)–ak) alpontban nem említett jogcímen vagy módon megszerzett értékpapír esetében a megszerzés érdekében, az értékpapír átruházásáig a magánszemély által teljesített, igazolt rész;
 
+am) a 7. § (1) bekezdés zs) pont alapján megszerzett értékpapír esetében a szellemi termék megalkotása érdekében az eredeti jogosult magánszemély által a hozzájárulás szolgáltatásáig teljesített, igazolt kiadás.
+
 b) az értékpapírhoz kapcsolódó járulékos költség:
 
 ba) az értékpapír megszerzésekor fizetett illeték,

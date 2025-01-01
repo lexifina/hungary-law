@@ -50,7 +50,7 @@ g) előadói, művészeti és sporttevékenységre, bemutatóra (kiállításra)
 
 h) a szellemi alkotáshoz fűződő törvényi védelem alatt álló jog (így különösen szabadalom, ipari minta, védjegy, védett eljárás, szerzői jog) révén megszerzett jövedelem (jogdíj) esetében – az a) és d) alpontban foglaltaktól függetlenül – a jogdíj fizetésére kötelezett személy illetősége szerinti állam – amennyiben a jogdíj fizetésére belföldi telephelye (állandó bázisa), fióktelepe, kereskedelmi képviselete útján kötelezett, akkor belföld –, ha azonban a jogdíjfizetés alapjául szolgáló jog ténylegesen a jogosult magánszemély belföldi telephelyéhez (állandó bázisához) tartozik, akkor belföld;
 
-i) kamat, értékpapír-kölcsönzésből származó jövedelem esetében a kamat, illetve a díj fizetésére kötelezett személy illetősége szerinti állam – amennyiben a kamat, a díj fizetésére belföldi telephelye (állandó bázisa), fióktelepe, kereskedelmi képviselete útján kötelezett, akkor belföld –, ha azonban a kamat, a díj fizetésének alapjául szolgáló követelés (jog), értékpapír ténylegesen a jogosult magánszemély belföldi telephelyéhez (állandó bázisához) tartozik, akkor belföld;
+i) kamat, kamatjövedelem, értékpapír-kölcsönzésből származó jövedelem esetében a kamat, a kamatjövedelem, illetve a díj fizetésére kötelezett személy illetősége szerinti állam – amennyiben a kamat, a kamatjövedelem, a díj fizetésére az említett személy belföldi telephelye (állandó bázisa), fióktelepe, kereskedelmi képviselete útján kötelezett, akkor belföld –, ha azonban a kamat, a kamatjövedelem, a díj fizetésének alapjául szolgáló követelés (jog), értékpapír ténylegesen a jogosult magánszemély belföldi telephelyéhez (állandó bázisához) tartozik, akkor belföld;
 
 j) osztalék esetében az osztalék fizetésére kötelezett jogi személy, egyéb szervezet illetősége szerinti állam, ha azonban az osztalék fizetésének alapjául szolgáló értékpapír (jog) ténylegesen a jogosult magánszemély belföldi telephelyéhez (állandó bázisához) tartozik, akkor belföld;
 
@@ -258,7 +258,7 @@ azzal, hogy az a)–c) pontokban foglalt feltételek fennállása szempontjábó
 
 51. Termőföld: a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott mező-, erdőgazdasági hasznosítású föld.
 
-52.
+52. Szellemi termék: a találmány, az iparjogvédelemben részesülő javak közül a szabadalom és az ipari minta, a védjegy, a szerzői jogvédelemben részesülő dolog, a szoftvertermék, az egyéb szellemi alkotás (újítás, műszaki, gazdasági, szellemi szolgáltatás stb.), a jogvédelemben nem részesülő, de titkosság révén monopolizált javak közül a know-how és a gyártási eljárás.
 
 53. Termőföld haszonbérbe adása: a termőföld, illetve halastó magánszemély tulajdonosa vagy haszonélvezője által egy vagy több évre, írásban kötött megállapodás alapján, ellenérték fejében a föld használati jogosultságának mező-, erdőgazdasági, illetve halászati hasznosításra történő átengedése.
 

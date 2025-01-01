@@ -36,7 +36,7 @@ b) jövedelempótló kártérítési járadék, feltéve, hogy a rá irányadó 
 
 2.1. a lakáscélú támogatás, ha az
 
-2.1.1. a lakáscélú állami támogatásokról szóló kormányrendelet alapján nyújtott támogatás, ideértve a 2006. december 31-éig kihirdetett, a lakáscélú állami támogatásokról szóló kormányrendelet szerint megalkotott helyi önkormányzati rendelet alapján nyújtott lakáscélú támogatást is, továbbá az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú támogatásról szóló kormányrendelet, a használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló kormányrendelet, a kistelepüléseken nyújtható otthonteremtési támogatásokról szóló kormányrendelet, a családok otthonteremtését támogató kedvezményes CSOK Plusz hitelprogramról szóló kormányrendelet, a három- vagy többgyermekes családok lakáscélú jelzáloghitel-tartozásainak csökkentéséről szóló kormányrendelet, a fiatalok, valamint a többgyermekes családok lakáscélú kölcsöneinek állami támogatásáról szóló kormányrendelet, az otthonteremtési kamattámogatásról szóló kormányrendelet, a gyermeket nevelő családok otthonfelújítási támogatásáról szóló kormányrendelet, valamint a rozsdaövezeti akcióterületen létesített lakóingatlanban kialakított lakások vásárlásához kapcsolódó adó-visszatérítési támogatásról szóló kormányrendelet szerinti támogatás,
+2.1.1. a lakáscélú állami támogatásokról szóló kormányrendelet alapján nyújtott támogatás, ideértve a 2006. december 31-éig kihirdetett, a lakáscélú állami támogatásokról szóló kormányrendelet szerint megalkotott helyi önkormányzati rendelet alapján nyújtott lakáscélú támogatást is, továbbá az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú támogatásról szóló kormányrendelet, a használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló kormányrendelet, a kistelepüléseken nyújtható otthonteremtési támogatásokról szóló kormányrendelet, a családok otthonteremtését támogató kedvezményes CSOK Plusz hitelprogramról szóló kormányrendelet, a három- vagy többgyermekes családok lakáscélú jelzáloghitel-tartozásainak csökkentéséről szóló kormányrendelet, a fiatalok, valamint a többgyermekes családok lakáscélú kölcsöneinek állami támogatásáról szóló kormányrendelet, az otthonteremtési kamattámogatásról szóló kormányrendelet, gyermeket nevelő családok otthonfelújítási támogatásáról szóló kormányrendelet, a Vidéki Otthonfelújítási Programról szóló kormányrendelet, valamint a rozsdaövezeti akcióterületen létesített lakóingatlanban kialakított lakások vásárlásához kapcsolódó adó-visszatérítési támogatásról szóló kormányrendelet szerinti támogatás,
 
 2.1.2. a lakáscélra nyújtott hitel törvény vagy törvény felhatalmazása alapján kiadott más jogszabály alapján elengedett része,
 
@@ -98,7 +98,9 @@ kap;
 
 nyújt.
 
-3.3. a jótékony célú közadakozásból, a közérdekű kötelezettségvállalásból, a közhasznú egyesületből, alapítványból, közalapítványból annak létesítő okiratában rögzített közhasznú céljával összhangban a közhasznú cél szerint címzett magánszemélynek, valamint munkavállalói-érdekképviseleti szervezet által magánszemélynek nem pénzben adott juttatás értéke (ide nem értve az e törvény szerint béren kívüli juttatásnak minősülő juttatásokat), pénzben történő juttatás esetén legfeljebb a minimálbér 50 százalékát meg nem haladó összegben havonta adott támogatás, továbbá a 2008. január 1-je előtt alapított, a magyar kultúra, tudomány, művészet és sport érdekében kiemelkedő tevékenységet folytató és kimagasló eredményt elérő magánszemélynek nyilvános jelölés alapján odaítélt és nyilvánosan átadott szakmai díj (ideértve a Bethlen Gábor Alapítvány által adományozott Bethlen Gábor Díjat is);
+## 3.2.7. a sportról szóló törvény szerinti amatőr vagy hivatásos sportoló a sportról szóló törvény szerinti sportköztestülettől annak alapszabályban rögzített közhasznú céljával összhangban a versenyzésre való felkészülésre, versenyzésre kap;
+
+3.3. a jótékony célú közadakozásból, a közérdekű kötelezettségvállalásból, a közhasznú egyesületből, a sportról szóló törvény szerinti sportköztestületből, alapítványból, közalapítványból annak létesítő okiratában rögzített közhasznú céljával összhangban a közhasznú cél szerint címzett magánszemélynek, valamint munkavállalói-érdekképviseleti szervezet által magánszemélynek nem pénzben adott juttatás értéke (ide nem értve az e törvény szerint béren kívüli juttatásnak minősülő juttatásokat), pénzben történő juttatás esetén legfeljebb a minimálbér 50 százalékát meg nem haladó összegben havonta adott támogatás, továbbá a 2008. január 1-je előtt alapított, a magyar kultúra, tudomány, művészet és sport érdekében kiemelkedő tevékenységet folytató és kimagasló eredményt elérő magánszemélynek nyilvános jelölés alapján odaítélt és nyilvánosan átadott szakmai díj (ideértve a Bethlen Gábor Alapítvány által adományozott Bethlen Gábor Díjat is);
 
 3.4. a 3.1–3.3. pontokban foglaltak esetében sem adómentes az a kifizetés (juttatás)
 
@@ -220,7 +222,7 @@ d) a nemzetiségi pedagógusképzésben való részvételre tekintettel pályáz
 
 4.20. az egyéni vállalkozónak, őstermelőnek minősülő földműves, annak alkalmazottja részére külön jogszabály alapján juttatott gazdaságátadási támogatás egy hónapra eső összegének a havi minimálbért meg nem haladó része;
 
-4.21. a magánszemély által külön jogszabály szerint felszolgálási díj címen megszerzett bevétel, valamint a vendéglátó üzlet felszolgálójaként a fogyasztótól közvetlenül kapott borravaló.
+4.21. a magánszemély által külön jogszabály szerint felszolgálási díj címen megszerzett bevétel, valamint a vendéglátó üzlet felszolgálójaként a fogyasztótól közvetlenül kapott borravaló, ideértve a vendéglátó üzlet üzemeltetője által vezetett nyilvántartással igazolható módon a vendéglátó üzlet munkavállalója számára juttatott borravalót is;
 
 4.22. a Rezidens Támogatási Program keretében folyósított ösztöndíj, továbbá az egészségügyi felsőfokú szakirányú szakképzési rendszerről szóló kormányrendelet, valamint az egészségügyi felsőfokú szakirányú szakképzési rendszerről, a Rezidens Támogatási Program ösztöndíjairól, valamint a fiatal szakorvosok támogatásáról szóló kormányrendelet alapján az első szakképesítés megszerzésére irányuló képzésben történő részvétel során a támogatott jelöltnek a szakképzéssel kapcsolatos kiadások, dologi költségek megtérítésére az adott évre vonatkozó költségvetési törvényben meghatározott mértékű, utólagosan folyósított támogatás;
 
@@ -364,10 +366,4 @@ azzal, hogy amennyiben az őstermelői bevétel az adóévben az átalányadóz�
 
 4.48. az átalányadózást alkalmazó egyéni vállalkozó e tevékenységéből származó jövedelmének az éves minimálbér felét meg nem haladó rész;
 
-4.49. a magánszemély által nem egyéni vállalkozói tevékenység keretében a villamos energiáról szóló törvény szerinti
-
-a) aktív felhasználóként,
-
-b) energiaközösség tagjaként
-
-megszerzett, villamos energia értékesítésből származó bevétele – figyelemmel a 9. pont 9.9 alpont rendelkezésére – legfeljebb évi 12 000 kWh értékesített villamos energia mennyiségig.
+4.49. a magánszemély által nem egyéni vállalkozói tevékenység keretében a villamos energiáról szóló törvény szerinti aktív felhasználóként, energiaközösség tagjaként megszerzett
