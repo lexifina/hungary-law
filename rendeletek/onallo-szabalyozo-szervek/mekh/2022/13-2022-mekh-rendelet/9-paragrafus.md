@@ -1,3 +1,3 @@
-9. §[^10]
+9. §[^11]
 
-[^10]: A 9. § a 17. § (2) bekezdés alapján 2025. január 1-jén lép hatályba.
+[^11]: A 9. § a 10/2024. (XI. 14.) MEKH rendelet 41. § a) pontja alapján nem lép hatályba.

@@ -1,3 +1,3 @@
-15. §[^16]
+15. §[^17]
 
-[^16]: A 15. § a 17. § (2) bekezdés alapján 2025. január 1-jén lép hatályba.
+[^17]: A 15. § a 10/2024. (XI. 14.) MEKH rendelet 41. § a) pontja alapján nem lép hatályba.

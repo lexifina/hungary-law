@@ -1,3 +1,3 @@
-7. §[^8]
+7. §[^9]
 
-[^8]: A 7. § a 17. § (2) bekezdés alapján 2025. január 1-jén lép hatályba.
+[^9]: A 7. § a 10/2024. (XI. 14.) MEKH rendelet 41. § a) pontja alapján nem lép hatályba.
