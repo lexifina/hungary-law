@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-14-20-2
 | 2022-01-01 | 2010-14-20-22.9 | 789/2021. (XII. 27.) Korm. rendelet |
 | 2024-07-01 | 2010-14-20-22.10 | 104/2024. (V. 9.) Korm. rendelet |
 | 2024-10-01 | 2010-14-20-22.11 | 285/2024. (IX. 30.) Korm. rendelet |
+| 2025-01-01 | 2010-14-20-22.12 | 331/2024. (XI. 14.) Korm. rendelet |

@@ -42,7 +42,7 @@
 
 | 21. forgószárnyú repülőgép műszaki tervezési, építési (teljes, hajtómű, sárkány, avionika) | a) szakirányú okleveles gépészmérnök vagy b) szakirányú okleveles közlekedésmérnök vagy c) szakirányú gépészmérnök vagy d) szakirányú közlekedésmérnök vagy e) gépészmérnök alapképzési szakon vagy f) gépészmérnök mesterképzési szakon vagy g) közlekedésmérnök alapképzési szakon vagy h) közlekedésmérnök mesterképzési szakon | Egyetemi végzettség és mesterfokozat esetén 5 év, főiskolai végzettség és alapfokozat esetén 8 év |
 
-2. melléklet a 14/2010. (II. 5.) Korm. rendelethez[^12]
+2. melléklet a 14/2010. (II. 5.) Korm. rendelethez[^13]
 
 A honvédelemért, valamint a közlekedésért felelős miniszter által vezetett nyilvántartásban szereplő szakértői szakterületek
 
@@ -126,4 +126,4 @@ A honvédelemért, valamint a közlekedésért felelős miniszter által vezetet
 
 | 39. légiközlekedési jogi | jogász | 10 év |
 
-[^12]: A 2. melléklet a 431/2017. (XII. 20.) Korm. rendelet 51. § f) pontja, a 789/2021. (XII. 27.) Korm. rendelet 32. §-a szerint módosított szöveg.
+[^13]: A 2. melléklet a 431/2017. (XII. 20.) Korm. rendelet 51. § f) pontja, a 789/2021. (XII. 27.) Korm. rendelet 32. §-a szerint módosított szöveg.
