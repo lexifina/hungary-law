@@ -16,6 +16,9 @@ d)[^10] a műszaki átadás-átvételi eljárás befejezésének időpontját.
 
 (5) A jótállási jegy szabálytalan kiállítása vagy a jogosult részére történő átadásának elmaradása nem érinti a jótállási kötelezettségvállalás érvényességét.
 
+(6)[^12] A vállalkozó – a fogyasztó eltérő kérése hiányában – a jótállási jegyet elektronikus úton is átadhatja a fogyasztó részére.
+
 [^9]: A 4. § (2) bekezdése a 97/2014. (III. 25.) Korm. rendelet 2. § (7) bekezdés a) pontja szerint módosított szöveg. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
 [^10]: A 4. § (3) bekezdés d) pontja a 97/2014. (III. 25.) Korm. rendelet 2. § (7) bekezdés a) pontja szerint módosított szöveg. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
 [^11]: A 4. § (4) bekezdése a 97/2014. (III. 25.) Korm. rendelet 2. § (7) bekezdés b) pontja szerint módosított szöveg. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
+[^12]: A 4. § (6) bekezdését a 416/2024. (XII. 20.) Korm. rendelet 6. §-a iktatta be.
