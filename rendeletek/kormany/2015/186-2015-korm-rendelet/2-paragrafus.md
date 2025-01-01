@@ -1,6 +1,6 @@
 ## 2. A központi szolgáltató feladatai
 
-## 2. § Az Ibtv. 11. § (2) és (3) bekezdése szerinti szolgáltatási tevékenysége keretében a központi szolgáltató
+2. §[^2] (1) Az Ibtv. 11. § (2) és (3) bekezdése szerinti szolgáltatási tevékenysége keretében a központi szolgáltató
 
 a) kialakítja a szolgáltatások esetében az informatikai biztonsági irányítási rendszerét, aminek keretében
 
@@ -62,7 +62,7 @@ fa) intézkedik a biztonsági események megelőzéséről, a bekövetkezett biz
 
 fb) az e) pont eb) alpontja szerinti elemzések alapján biztonságnövelő megelőző intézkedéseket vezet be;
 
-g)[^1] az elektronikus információs rendszereket érintő biztonsági események kezelése során
+g)[^3] az elektronikus információs rendszereket érintő biztonsági események kezelése során
 
 ga) tájékoztatja az Ibtv. 19. § (1)–(3) bekezdése szerinti, feladat- és hatáskörrel rendelkező eseménykezelő központot az azonosított biztonsági eseményekről és fenyegetettségekről,
 
@@ -70,4 +70,11 @@ gb) biztosítja a biztonsági események azonosításához, elemzéséhez és ke
 
 gc) közreműködik az Ibtv. 19. § (1)–(3) bekezdése szerinti eseménykezelő központok által végzett informatikai biztonsági eseménykezelésben a biztonsági eseményről szóló adatszolgáltatással, vizsgálat elvégzésével, illetve az Ibtv. 19. § (1)–(3) bekezdése szerinti eseménykezelő központok által elrendelt biztonságnövelő intézkedések végrehajtásával.
 
-[^1]: A 2. § g) pontja a 323/2018. (XII. 28.) Korm. rendelet 40. §-ával megállapított szöveg.
+(2)[^4] A központi szolgáltató (1) bekezdés szerinti tevékenysége keretében igénybe vehető norma szerinti alapszintű, norma feletti alapszintű és emelt szintű szolgáltatások körének meghatározása a központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló 341/2024. (XI. 14.) Korm. rendeletben foglaltak szerint történik.
+
+(3)[^5] A központi szolgáltató által e rendelet alapján nyújtott norma szerinti alapszintű, norma feletti alapszintű és emelt szintű szolgáltatások finanszírozására a központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló 341/2024. (XI. 14.) Korm. rendeletben meghatározottak irányadók.
+
+[^2]: [A 2. §-ban a 418/2024. (XII. 23.) Korm. rendelet 130. § b)–f) pontjával elrendelt módosítás nem vezethető át.]
+[^3]: A 2. § g) pontja a 323/2018. (XII. 28.) Korm. rendelet 40. §-ával megállapított szöveg.
+[^4]: A 2. § (2) bekezdését a 342/2024. (XI. 14.) Korm. rendelet 1. §-a iktatta be.
+[^5]: A 2. § (3) bekezdését a 342/2024. (XI. 14.) Korm. rendelet 1. §-a iktatta be.

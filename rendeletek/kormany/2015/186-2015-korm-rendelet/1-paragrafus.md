@@ -4,4 +4,6 @@
 
 a) központi szolgáltató: a jogszabály által kijelölt központosított informatikai és elektronikus hírközlési szolgáltató;
 
-b) szolgáltatások: jogszabályban meghatározott, az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény (a továbbiakban: Ibtv.) hatálya alá tartozó elektronikus információs rendszerek felhasználói számára a központi szolgáltató által kötelezően vagy egyedi igény alapján biztosítandó központosított informatikai és elektronikus hírközlési szolgáltatások.
+b)[^1] szolgáltatások: jogszabályban meghatározott, a Magyarország kiberbiztonságáról szóló 2024. évi LXIX. törvény (a továbbiakban: Kiberbiztonsági tv.) hatálya alá tartozó elektronikus információs rendszerek felhasználói számára a központi szolgáltató által kötelezően vagy egyedi igény alapján biztosítandó központosított informatikai és elektronikus hírközlési szolgáltatások.
+
+[^1]: Az 1. § b) pontja a 418/2024. (XII. 23.) Korm. rendelet 130. § a) pontja szerint módosított szöveg.
