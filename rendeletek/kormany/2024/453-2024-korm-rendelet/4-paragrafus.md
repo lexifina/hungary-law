@@ -1,0 +1,1 @@
+4. § A fenntartó a kiegészítő támogatást a 3. §-ban meghatározottak szerint 2025. december 31-ig használhatja fel. Ha a fenntartó a ténylegesen foglalkoztatott tanár esetén a 3. §-ban foglaltakat maradéktalanul nem teljesítette, az adott tanárra eső kiegészítő támogatás összegét a központi költségvetés részére visszatéríti.

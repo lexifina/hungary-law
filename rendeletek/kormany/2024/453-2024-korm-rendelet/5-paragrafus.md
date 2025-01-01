@@ -1,0 +1,1 @@
+5. § A 2025. január 1-je és 2025. december 31. között létrejövő új köznevelési vagy gyermekjóléti, gyermekvédelmi intézmény fenntartója biztosítja, hogy az intézményben foglalkoztatott tanárok átlagos tanárbére elérje a Központi Statisztikai Hivatal által 2025. évre közölt diplomás havi átlagbér 80%-át.

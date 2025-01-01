@@ -1,0 +1,1 @@
+A Kormány a pedagógusok új életpályájáról szóló 2023. évi LII. törvény 155. § (1) bekezdés 15. és 24. pontjában, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
