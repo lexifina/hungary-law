@@ -1,1 +1,3 @@
-2. § Hatályát veszti a pártfogó felügyelői, jogi segítségnyújtó és áldozatsegítő szolgálatként, valamint kárpótlási hatóságként kijelölt szervnél működő pártfogó felügyelők és kormánytisztviselők ügyviteli vizsgájáról szóló 9/2023. (VII. 20.) IM rendelet 1. § (3) bekezdése.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

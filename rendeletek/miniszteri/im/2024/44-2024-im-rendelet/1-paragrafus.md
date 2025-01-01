@@ -1,1 +1,3 @@
-1. § A pártfogó felügyelői, jogi segítségnyújtó és áldozatsegítő szolgálatként, valamint kárpótlási hatóságként kijelölt szervnél működő pártfogó felügyelők és kormánytisztviselők ügyviteli vizsgájáról szóló 9/2023. (VII. 20.) IM rendelet 2. § (1) bekezdésében az „az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól” szövegrész helyébe az „a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
