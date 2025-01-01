@@ -1,4 +1,4 @@
-5. melléklet a 329/2007. (XII. 13.) Korm. rendelethez[^235]
+5. melléklet a 329/2007. (XII. 13.) Korm. rendelethez[^239]
 
 1. A Készenléti Rendőrség
 
@@ -26,4 +26,4 @@
 
 1.4.8. a 2013. évi VIII. törvénnyel kihirdetett, a Magyarország Kormánya és Georgia Kormánya között a bűnözés megelőzésében és leküzdésében történő együttműködésről szóló Megállapodás 8. és 10. cikke.
 
-[^235]: Az 5. mellékletet újonnan a 276/2021. (V. 26.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^239]: Az 5. mellékletet újonnan a 276/2021. (V. 26.) Korm. rendelet 6. § (2) bekezdése iktatta be.

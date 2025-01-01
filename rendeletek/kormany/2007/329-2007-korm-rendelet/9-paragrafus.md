@@ -62,5 +62,11 @@ d) gondoskodik a külön jogszabályban meghatározott gépjármű-szolgáltatá
 
 27. gazdálkodik az általános rendőri szerv titkos információgyűjtésre és leplezett eszköz alkalmazására feljogosított szervei speciális működési kiadásait biztosító elkülönített előirányzattal.
 
+28.[^68] közreműködik a büntetőeljárásokhoz kapcsolódó adatmentési feladatokban a szabad kapacitások terhére;
+
+29.[^69] ellátja a poligráfos szaktanácsadói tevékenységet.
+
 [^66]: A 9. § a 37/2023. (II. 15.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^67]: A 9. § 21. pontja a 280/2023. (VI. 29.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^68]: A 9. § 28. pontját a 479/2024. (XII. 31.) Korm. rendelet 22. §-a iktatta be.
+[^69]: A 9. § 29. pontját a 479/2024. (XII. 31.) Korm. rendelet 22. §-a iktatta be.

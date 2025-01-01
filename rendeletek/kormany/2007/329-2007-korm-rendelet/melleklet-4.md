@@ -1,16 +1,14 @@
 ## A határrendészeti kirendeltségek elnevezése és székhelye
 
-## 1. Bács-Kiskun vármegye[^228]
+## 1.[^232] Bács-Kiskun vármegye
 
 ## 1.1. Határrendészeti Kirendeltség Hercegszántó, Hercegszántó
 
-## 1.2. Határrendészeti Kirendeltség Bácsbokod, Bácsbokod
+## 1.2. Határrendészeti Kirendeltség Bácsalmás, Bácsalmás
 
-## 1.3. Határrendészeti Kirendeltség Bácsalmás, Bácsalmás
+## 1.3. Határrendészeti Kirendeltség Kelebia, Kelebia
 
-## 1.4. Határrendészeti Kirendeltség Kelebia, Kelebia
-
-## 2. Békés vármegye[^229]
+## 2. Békés vármegye[^233]
 
 ## 2.1. Határrendészeti Kirendeltség Battonya, Battonya
 
@@ -22,7 +20,7 @@
 
 ## 2.5. Határrendészeti Kirendeltség Biharugra, Biharugra
 
-## 3.[^230] Csongrád-Csanád vármegye[^231]
+## 3.[^234] Csongrád-Csanád vármegye[^235]
 
 ## 3.1. Határrendészeti Kirendeltség Szeged, Szeged
 
@@ -30,7 +28,7 @@
 
 ## 3.3. Határrendészeti Kirendeltség Nagylak, Nagylak
 
-## 4. Hajdú-Bihar vármegye[^232]
+## 4. Hajdú-Bihar vármegye[^236]
 
 ## 4.1. Határrendészeti Kirendeltség Biharkeresztes, Biharkeresztes
 
@@ -38,7 +36,7 @@
 
 ## 4.3. Határrendészeti Kirendeltség Nyírábrány, Nyírábrány
 
-## 5. Szabolcs-Szatmár-Bereg vármegye[^233]
+## 5. Szabolcs-Szatmár-Bereg vármegye[^237]
 
 ## 5.1. Határrendészeti Kirendeltség Nyírbátor, Nyírbátor
 
@@ -52,7 +50,7 @@
 
 ## 5.6. Határrendészeti Kirendeltség Záhony, Záhony
 
-4. melléklet a 329/2007. (XII. 13.) Korm. rendelethez[^234]
+4. melléklet a 329/2007. (XII. 13.) Korm. rendelethez[^238]
 
 1. Az ORFK
 
@@ -76,10 +74,10 @@
 
 1.8. ellenőrző hatóságként jár el a harmadik országbeli állampolgár, vagy hontalan személy által a tagállamok egyikében benyújtott nemzetközi védelem iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló 604/2013/EU rendelet hatékony alkalmazása érdekében az ujjlenyomatok összehasonlítását szolgáló Eurodac létrehozásáról, továbbá a tagállamok bűnüldöző hatóságai és az Europol által az Eurodac-adatokkal való, bűnüldözési célú összehasonlítások kérelmezéséről, valamint a szabadságon, a biztonságon és a jog érvényesülésén alapuló térség nagyméretű IT-rendszereinek üzemeltetési igazgatását végző ügynökség létrehozásáról szóló 1077/2011/EU rendelet módosításáról szóló, 2013. június 26-i 603/2013/EU európai parlamenti és tanácsi rendelet alapján.
 
-[^228]: A 3. melléklet 1. pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § b) pontja szerint módosított szöveg.
-[^229]: A 3. melléklet 2. pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § b) pontja szerint módosított szöveg.
-[^230]: A 3. melléklet 3. pont nyitó szövegrésze a 371/2020. (VII. 30.) Korm. rendelet 13. § c) pontjával megállapított szöveg, szövege a 616/2022. (XII. 29.) Korm. rendelet 86. § b) pontja szerint módosított szöveg..
-[^231]: A 3. melléklet szövege a 616/2022. (XII. 29.) Korm. rendelet 86. § b) pontja szerint módosított szöveg.
-[^232]: A 3. melléklet 4. pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § b) pontja szerint módosított szöveg.
-[^233]: A 3. melléklet 5. pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § b) pontja szerint módosított szöveg.
-[^234]: A 4. mellékletet újonnan a 276/2021. (V. 26.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^232]: A 3. melléklet 1. pontja a 479/2024. (XII. 31.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^233]: A 3. melléklet 2. pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § b) pontja szerint módosított szöveg.
+[^234]: A 3. melléklet 3. pont nyitó szövegrésze a 371/2020. (VII. 30.) Korm. rendelet 13. § c) pontjával megállapított szöveg, szövege a 616/2022. (XII. 29.) Korm. rendelet 86. § b) pontja szerint módosított szöveg..
+[^235]: A 3. melléklet szövege a 616/2022. (XII. 29.) Korm. rendelet 86. § b) pontja szerint módosított szöveg.
+[^236]: A 3. melléklet 4. pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § b) pontja szerint módosított szöveg.
+[^237]: A 3. melléklet 5. pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § b) pontja szerint módosított szöveg.
+[^238]: A 4. mellékletet újonnan a 276/2021. (V. 26.) Korm. rendelet 6. § (1) bekezdése iktatta be.
