@@ -1,90 +1,18 @@
 ## 1. A Kormány
 
-## 1.1. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet
+## 1.1.[^1]
 
-## a) XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 36. Ágazati szakmai és társadalmi szervezetek feladatai alcím, 2. Nemzetközi vadászati, természeti és lovas rendezvények támogatása jogcímcsoportnak a 2. Nemzetközi vadászati, természeti és lovas rendezvények, valamint a Nemzetközi Eucharisztikus Kongresszus megrendezésével összefüggő szervezési és lebonyolítási feladatok támogatása jogcímcsoportra,
+## 1.2.[^2]
 
-## b) XXI. Miniszterelnöki Kabinetiroda fejezet, 20. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 27. Alapítványok, köztestületek támogatása jogcímcsoportnak a 27. Nonprofit, társadalmi, civil szervezetek és köztestületek támogatása jogcímcsoportra,
+## 1.3.[^3]
 
-## c) XIX. Uniós fejlesztések fejezet, 2. Fejezeti kezelésű előirányzatok cím, 7. Szakmai fejezeti kezelésű előirányzatok alcím, 2. Európai uniós programokhoz kapcsolódó tartalék jogcímcsoportnak a 2. Fejezeti általános tartalék jogcímcsoportra
+## 1.4.[^4]
 
-## történő módosítását;
+## 1.5.[^5]
 
-## Felelős: pénzügyminiszter
+## 1.6.[^6]
 
-## innovációért és technológiáért felelős miniszter
-
-## a miniszterelnök kabinetfőnöke
-
-## Miniszterelnökséget vezető miniszter
-
-## Határidő: azonnal
-
-## 1.2. az Áht. 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet címrendjének a 13. Karcag Város Önkormányzata épülete felújításának támogatása címmel történő kiegészítését;
-
-## Felelős: pénzügyminiszter
-
-## belügyminiszter
-
-## Határidő: azonnal
-
-## 1.3.[^1] az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 2 613 886 496 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XXII. Miniszterelnöki Kormányiroda fejezet, 21. Központi kezelésű előirányzatok cím, 4. Központi tartalékok alcím, 1. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, az 1. melléklet szerint;
-
-## Az átcsoportosítás tekintetében
-
-## Felelős: pénzügyminiszter
-
-## Határidő: azonnal
-
-## Az elszámolás és a visszatérítési kötelezettség tekintetében
-
-## Felelős: agrárminiszter
-
-## külgazdasági és külügyminiszter
-
-## emberi erőforrások minisztere
-
-## Magyar Művészeti Akadémia elnöke
-
-## Határidő: 2021. december 31., a Magyar Művészeti Akadémia fejezet, MMA műemlékvédelmi beruházásai alcím javára biztosított forrás tekintetében 2023. november 30.
-
-## 1.4. az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva összesen 6 751 748 722 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet XLVII. Gazdaságvédelmi Alap fejezet, 1. Központi kezelésű előirányzatok cím, 1. Központi tartalékok alcím, 1. Gazdaságvédelmi programok jogcímcsoport terhére, a 2. melléklet szerint;
-
-## Felelős: pénzügyminiszter
-
-## Határidő: azonnal
-
-## 1.5. az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 20 949 435 692 forint egyszeri átcsoportosítását rendeli el, a 3. melléklet szerint;
-
-## Felelős: pénzügyminiszter
-
-## Miniszterelnökséget vezető miniszter
-
-## agrárminiszter
-
-## külgazdasági és külügyminiszter
-
-## emberi erőforrások minisztere
-
-## a miniszterelnök kabinetfőnöke
-
-## nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
-
-## Határidő: azonnal
-
-## 1.6. az Áht. 33. § (2) bekezdésében, valamint az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 153. §-ában biztosított jogkörében eljárva 6 868 500 000 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 43. Központi Maradványelszámolási Alap cím terhére, a 4. melléklet szerint;
-
-## Felelős: pénzügyminiszter
-
-## Határidő: azonnal
-
-## 1.7. az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva összesen 9 998 791 401 forint egyszeri átcsoportosítását rendeli el, az 5. melléklet szerint;
-
-## Felelős: pénzügyminiszter
-
-## innovációért és technológiáért felelős miniszter
-
-## Határidő: azonnal
+## 1.7.[^7]
 
 ## 1.8. felhívja a pénzügyminisztert, hogy – az innovációért és technológiáért felelős miniszter bevonásával – gondoskodjon az 1.7. alpont szerint átcsoportosított forrás a Kvtv. 1. melléklet XLVII. Gazdaságvédelmi Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 6. Gazdaságvédelmet szolgáló innovációs és technológiai fejezeti kezelésű előirányzatok alcím, 1. Közlekedési fejlesztések jogcímcsoport, 2. Vasúti fejlesztések jogcím javára történő visszapótlásáról;
 
@@ -102,9 +30,16 @@
 
 ## 1.12. egyetért azzal, hogy a belügyminiszter az 1.11. alpont szerinti egyedi költségvetési támogatást a támogatói okirat kiadását követően folyósítsa Karcag Város Önkormányzata számára.
 
-## 2.[^2]
+## 2.[^8]
 
-1. melléklet az 1146/2021. (III. 31.) Korm. határozathoz
+1. melléklet az 1146/2021. (III. 31.) Korm. határozathoz[^9]
 
-[^1]: Az 1. pont 1.3. alpontja az 1302/2022. (VI. 22.) Korm. határozat 20. pontja, az 1588/2022. (XI. 30.) Korm. határozat 2. pontja szerint módosított szöveg.
-[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont 1.1. alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: Az 1. pont 1.2. alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^3]: Az 1. pont 1.3. alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^4]: Az 1. pont 1.4. alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^5]: Az 1. pont 1.5. alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^6]: Az 1. pont 1.6. alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^7]: Az 1. pont 1.7. alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^8]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
