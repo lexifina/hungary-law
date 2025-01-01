@@ -28,3 +28,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-333-20-
 | 2020-03-01 | 2011-333-20-22.20 | 90/2014. (III. 20.) Korm. rendelet |
 | 2021-07-01 | 2011-333-20-22.21 | 376/2021. (VI. 30.) Korm. rendelet |
 | 2023-08-01 | 2011-333-20-22.22 | 352/2023. (VII. 27.) Korm. rendelet |
+| 2025-01-01 | 2011-333-20-22.23 | 464/2024. (XII. 30.) Korm. rendelet |
