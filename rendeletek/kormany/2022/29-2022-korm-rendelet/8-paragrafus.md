@@ -6,11 +6,11 @@
 
 (3) Az (1) bekezdésben foglalt időpontig a (2) bekezdés szerinti kötelezettség kizárólag a Szolgáltatóközpont által nyújtott kórházi információs rendszer igénybevételére vonatkozik.
 
-(4)[^10]
+(4)[^11] A Szolgáltatóközpont az egyes egészségbiztosítási tárgyú kormányrendeletek módosításáról szóló 293/2024. (X. 9.) Korm. rendelettel megállapított 2/A. § szerinti közszolgáltatást a rendelkezésre álló kapacitások függvényében ütemezetten, legkésőbb 2026. január 1-jétől biztosítja azon igénybevevők részére, akik 2024. december 31-én nem a Szolgáltatóközpont által biztosított kórházi információs rendszert használják. Az egyes igénybevevőket az igénybevétel megkezdését megelőző legalább 60 nappal korábban az egészségügyért felelős miniszter a honlapján közzéteszi.
 
-(5)[^11] Az 1. melléklet szerinti egészséginformatikai szolgáltatásokhoz szükséges vagyoni elemekre vonatkozó, a Kormány irányítása vagy felügyelete alatt álló költségvetési szervnél lévő vagyonkezelési jogok és kötelezettségek, valamint a 2. melléklet szerinti egészséginformatikai szolgáltatásokhoz szükséges vagyoni elemekre vonatkozó, az OKFŐ-nél lévő vagyonkezelési jogok és kötelezettségek 2022. február 1-jén a Szolgáltatóközpontra szállnak át. Az érintett költségvetési szerv és a Szolgáltatóközpont e rendelet hatálybalépését követő 30 napon belül jegyzőkönyvben rögzítik az érintett vagyonkezelési jogok és kötelezettségek körét, valamint a vagyonelemek értékét.
+(5)[^12] Az 1. melléklet szerinti egészséginformatikai szolgáltatásokhoz szükséges vagyoni elemekre vonatkozó, a Kormány irányítása vagy felügyelete alatt álló költségvetési szervnél lévő vagyonkezelési jogok és kötelezettségek, valamint a 2. melléklet szerinti egészséginformatikai szolgáltatásokhoz szükséges vagyoni elemekre vonatkozó, az OKFŐ-nél lévő vagyonkezelési jogok és kötelezettségek 2022. február 1-jén a Szolgáltatóközpontra szállnak át. Az érintett költségvetési szerv és a Szolgáltatóközpont e rendelet hatálybalépését követő 30 napon belül jegyzőkönyvben rögzítik az érintett vagyonkezelési jogok és kötelezettségek körét, valamint a vagyonelemek értékét.
 
 (6) Az OKFŐ által az 1. melléklet szerinti egészséginformatikai szolgáltatások esetében, azok igénybevételére kötött szerződéseiből származó jogok és kötelezettségek 2022. február 1-jén a Szolgáltatóközpontra szállnak át, az ilyen szerződések esetében a Szolgáltatóközpont az igénybevételre kötelezett szervezet jogutódjaként helyébe lép.
 
-[^10]: A 8. § (4) bekezdését az 59/2024. (III. 13.) Korm. rendelet 3. §-a hatályon kívül helyezte.
-[^11]: A 8. § (5) bekezdése a 659/2023. (XII. 28.) Korm. rendelet 60. §-a szerint módosított szöveg.
+[^11]: A 8. § (4) bekezdését az 59/2024. (III. 13.) Korm. rendelet 3. §-a hatályon kívül helyezte, újonnan a 293/2024. (X. 9.) Korm. rendelet 5. §-a iktatta be.
+[^12]: A 8. § (5) bekezdése a 659/2023. (XII. 28.) Korm. rendelet 60. §-a szerint módosított szöveg.
