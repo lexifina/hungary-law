@@ -1,1 +1,3 @@
-1. § Az árvíz- és a belvízvédekezésről szóló 10/1997. (VII. 17.) KHVM rendelet 7. § (1) bekezdés c) pontjában az „Országos Műszaki” szövegrész helyébe az „Országos Vízügyi” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
