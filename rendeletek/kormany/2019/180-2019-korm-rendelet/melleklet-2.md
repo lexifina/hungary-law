@@ -8,6 +8,6 @@
 
 | 4. | Dél-Dunántúli Társadalmi Esélyteremtési Igazgatóság | Pécs | Baranya vármegye, Tolna vármegye, Somogy vármegye |
 
-| 5. | Észak és Nyugat Dunántúli Társadalmi Esélyteremtési Igazgatóság | Székesfehérvár | Zala vármegye, Vas vármegye, Veszprém vármegye, Győr-Moson-Sopron vármegye, Komárom-Esztergom vármegye, Fejér vármegye |
+| 5. | Nyugat-Dunántúli Társadalmi Esélyteremtési Igazgatóság | Székesfehérvár | Zala vármegye, Vas vármegye, Veszprém vármegye, Győr-Moson-Sopron vármegye, Komárom-Esztergom vármegye, Fejér vármegye |
 
 2. melléklet a 180/2019. (VII. 26.) Korm. rendelethez

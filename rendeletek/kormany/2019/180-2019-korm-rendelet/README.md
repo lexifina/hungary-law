@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-180-20-
 | 2021-09-18 | 2019-180-20-22.10 | 610/2020. (XII. 18.) Korm. rendelet |
 | 2022-08-06 | 2019-180-20-22.11 | 284/2022. (VIII. 1.) Korm. rendelet |
 | 2023-01-01 | 2019-180-20-22.12 | 371/2020. (VII. 30.) Korm. rendelet |
+| 2025-01-01 | 2019-180-20-22.13 | 455/2024. (XII. 30.) Korm. rendelet |

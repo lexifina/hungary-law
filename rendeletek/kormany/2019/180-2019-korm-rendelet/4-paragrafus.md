@@ -1,5 +1,3 @@
-## 3/A. §[^1] A roma kapcsolatokért felelős kormánybiztos kinevezéséről és feladatairól szóló 1297/2022. (VI. 17.) Korm. határozattal kinevezett kormánybiztos gyakorolja a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 2. § (1) bekezdés g) és h) pontjában meghatározott hatásköröket a Főigazgatóság 4. § (1), (2), (4) és (6) bekezdésében meghatározott feladatai tekintetében.
-
 ## 2. A Főigazgatóság feladatai
 
 4. § (1) A Főigazgatóság az Alaptörvény XV. cikk (4) bekezdésében, valamint az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvényben foglaltak érvényre juttatása céljából a Magyar Nemzeti Társadalmi Felzárkózási Stratégiával összhangban ellátja a társadalmi felzárkózás képzési, szervezési, területi módszertani és kutatási feladatait. Ennek keretében
@@ -56,5 +54,20 @@ g) határon túli magyarlakta területeken felzárkózási modellprogramok átv�
 
 (6) A Főigazgatóság közreműködik a roma nemzetiséghez kapcsolódó feladatok ellátásában.
 
-[^1]: A 3/A. §-t a 284/2022. (VIII. 1.) Korm. rendelet 1. §-a iktatta be.
+(7)[^3] A Kormány a Főigazgatóságot továbbadott támogatást kihelyező szervként jelöli ki az Emberi Erőforrás Fejlesztési Operatív Program Plusz éves fejlesztési keretében meghatározott egyes pályázati felhívásaihoz kapcsolódó, kedvezményezettként és támogatást igénylőként ellátandó feladatai kapcsán.
+
+(8)[^4] A Főigazgatóság a (7) bekezdés szerinti feladata keretében dönt a támogatás odaítéléséről, valamint ellátja
+
+a) a támogatások odaítélése és a kifizetések előtt a kérelmek jogszabályoknak való megfelelésének ellenőrzésével,
+
+b) a kifizetések engedélyezésével, teljesítésével és könyvelésével,
+
+c) a támogatások felhasználásának ellenőrzésével, a támogatással kapcsolatos – jogszabályban előírt – adatgyűjtési és adatszolgáltatási kötelezettséggel, valamint a jogosulatlanul igénybe vett támogatások visszakövetelésével és
+
+d) a támogatások odaítélésével és felhasználásával kapcsolatban meghozott döntésekkel szemben benyújtott jogorvoslati kérelmekkel
+
+összefüggő feladatokat.
+
 [^2]: A 4. § (2) bekezdése a 610/2020. (XII. 18.) Korm. rendelet 26. § a) pontja, a 448/2021. (VII. 26.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^3]: A 4. § (7) bekezdését a 455/2024. (XII. 30.) Korm. rendelet 12. §-a iktatta be.
+[^4]: A 4. § (8) bekezdését a 455/2024. (XII. 30.) Korm. rendelet 12. §-a iktatta be.
