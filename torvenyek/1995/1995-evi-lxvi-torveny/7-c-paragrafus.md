@@ -16,4 +16,6 @@ e) esetleges vételárát.
 
 (4) A közirat tulajdonosa az (1) bekezdés szerinti nyilvántartásban szereplő közirat tulajdonjogának átruházására irányuló szándékát köteles a Hatóság részére bejelenteni.
 
+(4a) A Hatóság ellenőrizheti a tulajdonosnak a köziratra vonatkozó – e törvényben foglaltak szerint biztosított – épségben és használható állapotban történő megőrzési kötelezettsége teljesítését.
+
 (5) Ha a Hatóság él az elővásárlási jogával, a közirat az illetékes közlevéltár levéltári anyaga részévé válik, és azt az (1) bekezdés szerinti nyilvántartásból törölni kell.
