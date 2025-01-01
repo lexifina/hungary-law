@@ -1,1 +1,0 @@
-## Építmények bontása

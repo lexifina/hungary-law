@@ -1,1 +1,0 @@
-A Kormány az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény (a továbbiakban: Étv.) 62. §-a (1) bekezdésének g) pontjában foglalt felhatalmazás alapján meghatározza az országos településrendezési és építési követelményeket (a továbbiakban: OTÉK), és elrendeli azok kötelező alkalmazását.
