@@ -1,0 +1,5 @@
+5. § Az ajánlatkérő köteles a beltéri takarítási szolgáltatás megrendelésére irányuló közbeszerzési eljárásban a következő környezetvédelmi követelmények valamelyikét előírni a műszaki leírásban vagy a szerződés teljesítésére vonatkozó feltételként:
+
+a) a szerződéshez kapcsolódó feladatok ellátásához használandó összes tisztítószer legalább 70%-a megfelel a kemény felületekre szánt tisztítószerek uniós ökocímkéjének odaítélésére vonatkozó kritériumok megállapításáról szóló 2017/1217/EU bizottsági határozat melléklete szerinti 1. (vízben lévő élő szervezetekre gyakorolt mérgező hatás) és 4. (kizárt és korlátozás hatálya alá eső anyagok) kritériumnak vagy a Környezetbarát Termék védjegy ugyanilyen tartalmú kritériumainak és a szerződéshez kapcsolódó feladatok ellátásához használandó, textilanyagból készült összes takarítóeszköz legalább 50%-a mikroszálas anyagból készül, vagy
+
+b) a beltéri takarítási szolgáltatás teljesítése során a takarítási területre vonatkozóan az I. típusú ökocímke megszerzése a teljesítés megkezdését követő hat hónapon belül, amennyiben a teljesítés időtartama a hat hónapot meghaladja.
