@@ -1,0 +1,1 @@
+3. § A pedagógusnak az igazgatói kinevezéséhez az 1. § (2) bekezdésében meghatározottak mellett olyan, e rendeletben meghatározott képzésen kell részt vennie, amely hozzájárul a vezetői ismeretek megszerzéséhez, a vezetői jártasságok elsajátításához (a továbbiakban: köznevelési igazgatóképzés).

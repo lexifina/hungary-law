@@ -1,0 +1,7 @@
+16. § (1) A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény egyes rendelkezéseinek végrehajtásáról szóló 87/2015. (IV. 9.) Korm. rendelet (a továbbiakban: Nftv. vhr.) által meghatározott, új nevelési-oktatási intézményvezetői ismeretek megszerzésére irányuló pedagógus-szakvizsga képzés 2024. december 31-ét követően nem kezdhető meg.
+
+(2) A pedagógus a pedagógus-továbbképzési kötelezettséget 2025. szeptember 1-jétől az e rendelet szerinti ötéves pedagógus-továbbképzési ciklus keretében teljesíti. A 2025. szeptember 1-jét megelőzően folyamatban lévő pedagógus-továbbképzési kötelezettséget teljesítettnek kell tekinteni.
+
+(3) Az a pedagógus, aki 2023. szeptember 1. és 2025. augusztus 31. között a pedagógus-továbbképzésről, a pedagógus-szakvizsgáról, valamint a továbbképzésben részt vevők juttatásairól és kedvezményeiről szóló 277/1997. (XII. 22.) Korm. rendelet [a továbbiakban: 277/1997. (XII. 22.) Korm. rendelet] szerinti pedagógus-továbbképzési programot teljesített, a teljesített továbbképzési program meghatározott tanórai foglalkozásainak óraszámát az e rendelet szerinti, választható képzés keretében teljesített kreditként kell elismerni. A köznevelési intézmény igazgatója ezen továbbképzésekről 2025. október 31-ig adatot szolgáltat a Hivatal által vezetett nyilvántartásba.
+
+(4) A köznevelési intézmény igazgatója első alkalommal a 2025/2026. tanévre, nevelési évre vonatkozóan az e rendeletben foglaltak szerint készíti el a pedagógus-továbbképzési intézményi programot.
