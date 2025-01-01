@@ -1,3 +1,3 @@
-3. §[^3]
+3. § Az R1. 31. § (2) bekezdés 12. pontja helyébe a következő rendelkezés lép:
 
-[^3]: A 3. § a 7. § (2) bekezdés alapján 2025. január 1-jén lép hatályba.
+(Ez a rendelet)
