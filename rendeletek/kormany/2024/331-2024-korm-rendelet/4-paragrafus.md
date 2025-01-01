@@ -1,3 +1,1 @@
-4. §[^4]
-
-[^4]: A 4. § a 14. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+4. § Hatályát veszti az R1. 3. § (2) bekezdése.

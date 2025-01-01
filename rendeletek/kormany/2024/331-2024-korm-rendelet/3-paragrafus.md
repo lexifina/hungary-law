@@ -1,3 +1,3 @@
-3. §[^3]
+3. § (1) Az R1. 2. számú melléklete az 1. melléklet szerint módosul.
 
-[^3]: A 3. § a 14. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+(2) Az R1. 4. számú melléklete helyébe a 2. melléklet lép.

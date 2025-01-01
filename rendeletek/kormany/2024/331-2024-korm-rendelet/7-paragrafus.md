@@ -1,3 +1,7 @@
-7. §[^7]
+7. § Hatályát veszti az R2.
 
-[^7]: A 7. § a 14. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+a) 9. § (1) bekezdésében az „ , illetve a (2a) bekezdésben meghatározott esetben díjazás és kiegészítés” szövegrész,
+
+b) 9. § (2a) bekezdése,
+
+c) 9. § (4) és (5) bekezdésében az „ , illetve a (2a) bekezdésben meghatározott esetben a díjazás és kiegészítés” szövegrész.
