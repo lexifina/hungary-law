@@ -1,3 +1,3 @@
-2. melléklet a 12/2022. (I. 28.) SZTFH rendelethez[^36]
+2. melléklet a 12/2022. (I. 28.) SZTFH rendelethez[^38]
 
-[^36]: A 2. mellékletet a 40/2022. (XII. 19.) SZTFH rendelet 28. § e) pontja hatályon kívül helyezte.
+[^38]: A 2. mellékletet a 40/2022. (XII. 19.) SZTFH rendelet 28. § e) pontja hatályon kívül helyezte.

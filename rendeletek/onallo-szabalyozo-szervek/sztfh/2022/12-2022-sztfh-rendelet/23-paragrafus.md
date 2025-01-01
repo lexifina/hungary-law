@@ -1,4 +1,4 @@
-23. §[^18] A használatbavételi engedély tartalmazza:
+23. §[^20] A használatbavételi engedély tartalmazza:
 
 a) az építési engedély számát és keltét,
 
@@ -16,4 +16,4 @@ g) szállítóvezeték esetében a szolgalom alapításának határidejét, és
 
 h) robbanóanyag-raktár esetében a robbanóanyag-tárolás feltételeit.
 
-[^18]: A 23. § nyitó szövegrésze a 17/2023. (VII. 31.) SZTFH rendelet 6. § b) pontja szerint módosított szöveg.
+[^20]: A 23. § nyitó szövegrésze a 17/2023. (VII. 31.) SZTFH rendelet 6. § b) pontja szerint módosított szöveg.

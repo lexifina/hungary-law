@@ -1,6 +1,6 @@
 17. §[^16] Az építési engedély tartalmazza:
 
-a) a sajátos építmény helyét, helyrajzi számát, megnevezését és rendeltetését, mélyműveléses bánya esetében a bányatelek védnevét, a bányamező megnevezését és a vágat elnevezését, továbbá a sajátos építmény biztonsági övezetének mértékét,
+a)[^17] a sajátos építmény helyét, helyrajzi számát, megnevezését és rendeltetését, mélyműveléses bánya esetében a bányatelek védnevét, a bányamező megnevezését és a vágat elnevezését, továbbá a sajátos építmény biztonsági övezetének, valamint az építési terület, illetve építési sáv mértékét,
 
 b) az építési tevékenység megkezdésének bejelentésére vonatkozó kötelezettség előírását,
 
@@ -11,3 +11,4 @@ d) a sajátos építményre vonatkozó használatbavételi engedély iránti ké
 e) az építőipari kivitelezési tevékenységről szóló kormányrendeletben meghatározottak szerint az arra vonatkozó tájékoztatást, hogy az építőipari kivitelezési tevékenység folytatása során építtetői fedezetkezelő közreműködése kötelező-e.
 
 [^16]: A 17. § nyitó szövegrésze a 17/2023. (VII. 31.) SZTFH rendelet 6. § b) pontja szerint módosított szöveg.
+[^17]: A 17. § a) pontja a 19/2024. (XII. 30.) SZTFH rendelet 5. §-a szerint módosított szöveg.

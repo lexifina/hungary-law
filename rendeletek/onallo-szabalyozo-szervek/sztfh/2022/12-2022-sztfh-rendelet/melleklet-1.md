@@ -36,7 +36,7 @@ A bányafelügyelet építésügyi hatósági engedélyéhez kötött sajátos �
 
 3. Gázipari sajátos építmények:
 
-3.1.[^33] földgáz-célvezeték és a zártkerti ingatlanokon kívüli 500 métert meghaladó külterületi földgáz-elosztóvezeték, valamint tartozékai, az egy külterületi ingatlant ellátó leágazó vezeték kivételével,
+3.1.[^35] földgáz-célvezeték és a zártkerti ingatlanokon kívüli 500 métert meghaladó külterületi földgáz-elosztóvezeték, valamint tartozékai, az egy külterületi ingatlant ellátó leágazó vezeték kivételével,
 
 3.2. propán-bután töltő és tároló telep technológiai egységeivel,
 
@@ -52,7 +52,7 @@ A bányafelügyelet építésügyi hatósági engedélyéhez kötött sajátos �
 
 4.1.3. nukleáris létesítmény telephely vizsgálati és értékelési programjának végrehajtásához szükséges, és amelynek telephely vizsgálati és értékelési programját jóváhagyták, vagy ahhoz a feladat- és hatáskörrel rendelkező hatóság a földtani, műszaki biztonsági és bányászati szakkérdések tekintetében előzetes szakhatósági állásfoglalást adott,
 
-4.2.[^34] A kitermelt felszín alatti vízben oldott állapotban lévő ásványi nyersanyag kinyerésére szolgáló létesítmény.
+4.2.[^36] A kitermelt felszín alatti vízben oldott állapotban lévő ásványi nyersanyag kinyerésére szolgáló létesítmény.
 
 4.3. polgári felhasználású robbanóanyag raktára,
 
@@ -60,12 +60,12 @@ A bányafelügyelet építésügyi hatósági engedélyéhez kötött sajátos �
 
 4.5. szén-dioxidnak a tárolóhelyre történő eljuttatását lehetővé tevő csővezeték-hálózat és ennek tartozékai,
 
-4.6.[^35] a geotermikus energia kutatásának, kinyerésének és energetikai célú hasznosításának építményei az erőművi berendezések kivételével,
+4.6.[^37] a geotermikus energia kutatásának, kinyerésének és energetikai célú hasznosításának építményei az erőművi berendezések kivételével,
 
 4.7. a föld alatti szénelgázosításhoz szükséges létesítmények,
 
 4.8. bányaüzemi egyéb gáztechnológiák.
 
-[^33]: Az 1. melléklet 3. pont 3.1. alpontja a 17/2024. (X. 28.) SZTFH rendelet 3. §-a szerint módosított szöveg.
-[^34]: Az 1. melléklet 4. pont 4.2. alpontját a 6/2023. (II. 28.) SZTFH rendelet 2. § c) pontja hatályon kívül helyezte, újonnan a 4/2024. (V. 31.) SZTFH rendelet 2. §-a iktatta be.
-[^35]: Az 1. melléklet 4. pont 4.6. alpontja a 6/2023. (II. 28.) SZTFH rendelet 2. § d) pontja, a 4/2024. (V. 31.) SZTFH rendelet 3. §-a szerint módosított szöveg.
+[^35]: Az 1. melléklet 3. pont 3.1. alpontja a 17/2024. (X. 28.) SZTFH rendelet 3. §-a szerint módosított szöveg.
+[^36]: Az 1. melléklet 4. pont 4.2. alpontját a 6/2023. (II. 28.) SZTFH rendelet 2. § c) pontja hatályon kívül helyezte, újonnan a 4/2024. (V. 31.) SZTFH rendelet 2. §-a iktatta be.
+[^37]: Az 1. melléklet 4. pont 4.6. alpontja a 6/2023. (II. 28.) SZTFH rendelet 2. § d) pontja, a 4/2024. (V. 31.) SZTFH rendelet 3. §-a szerint módosított szöveg.

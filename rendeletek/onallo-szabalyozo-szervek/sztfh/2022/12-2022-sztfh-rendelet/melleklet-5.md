@@ -20,7 +20,7 @@
 
 ## 9. Az építés elvégzésének tervezett időtartama.
 
-## 10. [^42]
+## 10. [^44]
 
 ## 11. Keltezés, az építtető (cégszerű) aláírása.
 
@@ -56,7 +56,7 @@
 
 ## 7. Keltezés, a tulajdonos (cégszerű) aláírása.
 
-## 8. [^43]
+## 8. [^45]
 
 ## IV. Fennmaradási engedély iránti kérelem esetében:
 
@@ -74,7 +74,7 @@
 
 ## 7. A benyújtott mellékletek felsorolása.
 
-## 8. [^44]
+## 8. [^46]
 
 ## 9. Keltezés, az építtető (cégszerű) aláírása.
 
@@ -98,14 +98,14 @@
 
 ## 9. Az építés elvégzésének tervezett időtartama.
 
-## 10. [^45]
+## 10. [^47]
 
 ## 11. Keltezés, az építtető (cégszerű) aláírása.
 
-5. melléklet a 12/2022. (I. 28.) SZTFH rendelethez[^46]
+5. melléklet a 12/2022. (I. 28.) SZTFH rendelethez[^48]
 
-[^42]: A 4. melléklet I. pont 10. alpontját a 25/2023. (XII. 22.) SZTFH rendelet 5. § b) pontja hatályon kívül helyezte.
-[^43]: A 4. melléklet III. pont 8. alpontját a 25/2023. (XII. 22.) SZTFH rendelet 5. § c) pontja hatályon kívül helyezte.
-[^44]: A 4. melléklet IV. pont 8. alpontját a 25/2023. (XII. 22.) SZTFH rendelet 5. § d) pontja hatályon kívül helyezte.
-[^45]: A 4. melléklet V. pont 10. alpontját a 25/2023. (XII. 22.) SZTFH rendelet 5. § e) pontja hatályon kívül helyezte.
-[^46]: Az 5. mellékletet a 17/2023. (VII. 31.) SZTFH rendelet 7. § g) pontja hatályon kívül helyezte.
+[^44]: A 4. melléklet I. pont 10. alpontját a 25/2023. (XII. 22.) SZTFH rendelet 5. § b) pontja hatályon kívül helyezte.
+[^45]: A 4. melléklet III. pont 8. alpontját a 25/2023. (XII. 22.) SZTFH rendelet 5. § c) pontja hatályon kívül helyezte.
+[^46]: A 4. melléklet IV. pont 8. alpontját a 25/2023. (XII. 22.) SZTFH rendelet 5. § d) pontja hatályon kívül helyezte.
+[^47]: A 4. melléklet V. pont 10. alpontját a 25/2023. (XII. 22.) SZTFH rendelet 5. § e) pontja hatályon kívül helyezte.
+[^48]: Az 5. mellékletet a 17/2023. (VII. 31.) SZTFH rendelet 7. § g) pontja hatályon kívül helyezte.

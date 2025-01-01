@@ -2,8 +2,11 @@
 
 ## 13. A használatbavételi engedélyezési eljárás
 
-20. § (1)[^17] Az építési engedélyhez kötött sajátos építmény – az 1. melléklet 1. pont 1.1. alpontjában felsorolt sajátos építmények kivételével – csak használatbavételi engedély alapján vehető használatba és üzemeltethető.
+20. § (1)[^18] Az építési engedélyhez kötött sajátos építmény – az 1. melléklet 1. pont 1.1. alpontjában felsorolt sajátos építmények kivételével – csak használatbavételi engedély alapján vehető használatba és üzemeltethető.
 
 (2) Több megvalósulási szakaszra bontott építkezés esetében az építési engedély szerinti egyes megvalósulási szakaszokban megépített sajátos építményekre vagy a rendeltetésszerű és biztonságos használatra önmagukban alkalmas sajátos építményrészekre önállóan is lehet használatbavételi engedélyt kérelmezni, illetve bejelentést tenni.
 
-[^17]: A 20. § (1) bekezdése a 6/2023. (II. 28.) SZTFH rendelet 2. § b) pontja szerint módosított szöveg.
+(3)[^19] A külön építési engedély alapján megépült, de az üzemelésük során egymással összefüggő építményekre együttesen is lehet használatbavételi engedélyt kérelmezni.
+
+[^18]: A 20. § (1) bekezdése a 6/2023. (II. 28.) SZTFH rendelet 2. § b) pontja szerint módosított szöveg.
+[^19]: A 20. § (3) bekezdését a 19/2024. (XII. 30.) SZTFH rendelet 4. §-a iktatta be.

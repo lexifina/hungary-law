@@ -14,10 +14,10 @@ a) a módosított rendeltetésű sajátos építmény megfelel a biztonsági kö
 
 b) a rendeltetés módosításával létrejövő sajátos építmény az érintett területen engedélyezhető.
 
-(3)[^23] A rendeltetés megváltoztatására irányuló engedély tartalmazza
+(3)[^25] A rendeltetés megváltoztatására irányuló engedély tartalmazza
 
 a) a létesítménnyel rendelkezni jogosultak nevét, címét, és
 
 b) a rendeltetés megváltoztatásával érintett sajátos építmény vagy földrészlet azonosításra alkalmas adatait, a sajátos építmény eredeti és új rendeltetésének megjelölését.
 
-[^23]: A 28. § (3) bekezdés nyitó szövegrésze a 17/2023. (VII. 31.) SZTFH rendelet 6. § b) pontja szerint módosított szöveg.
+[^25]: A 28. § (3) bekezdés nyitó szövegrésze a 17/2023. (VII. 31.) SZTFH rendelet 6. § b) pontja szerint módosított szöveg.

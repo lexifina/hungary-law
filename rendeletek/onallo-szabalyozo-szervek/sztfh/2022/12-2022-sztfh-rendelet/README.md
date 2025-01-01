@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-12-20-8
 | 2024-01-01 | 2022-12-20-8K.7 | 25/2023. (XII. 22.) SZTFH rendelet |
 | 2024-06-01 | 2022-12-20-8K.8 | 6/2023. (II. 28.) SZTFH rendelet |
 | 2024-10-31 | 2022-12-20-8K.9 | 17/2024. (X. 28.) SZTFH rendelet |
+| 2025-01-01 | 2022-12-20-8K.10 | 19/2024. (XII. 30.) SZTFH rendelet |
