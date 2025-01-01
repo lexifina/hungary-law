@@ -1,17 +1,17 @@
 13. § Hatályát veszti az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet
 
-1.[^27]
+1. 1/D. § (1) bekezdés c) pontja,
 
-2. 9. § (2a) bekezdése,
+2.[^9]
 
-3.[^28]
+3. 55. § (2) bekezdés b) pont bc) alpontja,
 
-4. 61/A. § (4) bekezdése,
+4.[^10]
 
-5.[^29]
+5. 172/A. § (3a) bekezdése és
 
-6. 6. melléklet 16–19. és 21. sora.
+6.[^11]
 
-[^27]: A 13. § 1. pontja a 41. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
-[^28]: A 13. § 3. pontja a 41. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
-[^29]: A 13. § 5. pontja a 41. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+[^9]: A 13. § 2. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 13. § 4. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 13. § 6. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

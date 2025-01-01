@@ -1,5 +1,5 @@
 ## 3. Az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendelet módosítása
 
-17. §[^30]
+17. § Az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendelet 21. § (10) bekezdése helyébe a következő rendelkezés lép:
 
-[^30]: A 17. § a 41. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+„(10) A külföldi pénzértékre szóló részesedések, értékpapírok, a valutapénztárban lévő valutakészlet, a devizaszámlán lévő deviza, a követelések és kötelezettségek, az egyéb sajátos elszámolások, valamint az időbeli elhatárolások mérlegben szereplő értékét a mérleg fordulónapjára vonatkozó, a 20. § (3) és (4) bekezdése szerinti devizaárfolyamon átszámított forintértéken kell meghatározni, a 43. § (1) és (5) bekezdésébe tartozó követelések és kötelezettségek esetében egyezően a költségvetési számvitelben meghatározott értékkel. Az értékelés során a könyv szerinti érték és az értékeléskori forintérték közötti különbözetet az Szt. 60. § (3) bekezdése szerint összevontan kell elszámolni azzal az eltéréssel, hogy a lekötött bankbetétek, az egyéb pénzeszközök, valamint az egyéb eszközök, a kötelezettségek, és a passzív időbeli elhatárolások esetén külön-külön ki kell számolni az összevont árfolyam-különbözetet, és az egyes különbözetek előjelétől függően kell azt elszámolni.”

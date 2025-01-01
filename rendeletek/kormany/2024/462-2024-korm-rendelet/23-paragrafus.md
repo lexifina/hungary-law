@@ -1,13 +1,17 @@
-23. § (1) Az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendelet
+23. § (1)[^15]
 
-1. 1. melléklete az 5. melléklet,
+(2) Az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendelet
 
-2. 2. melléklete a 7. melléklet és
+1. 1. melléklete a 6. melléklet,
 
-3. 17. melléklete a 12. melléklet
+2. 2. melléklete a 8. melléklet,
+
+3. 3. melléklete a 9. melléklet,
+
+4. 12. melléklete a 10. melléklet és
+
+5. 15. melléklete a 11. melléklet
 
 szerint módosul.
 
-(2)[^36]
-
-[^36]: A 23. § (2) bekezdése a 41. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+[^15]: A 23. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-38. § A köztulajdonban álló gazdasági társaságok belső kontrollrendszeréről szóló 339/2019. (XII. 23.) Korm. rendelet 19. §-ában a „november 30.” szövegrész helyébe a „december 31.” szöveg lép.
+38. §[^21]
+
+[^21]: A 38. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

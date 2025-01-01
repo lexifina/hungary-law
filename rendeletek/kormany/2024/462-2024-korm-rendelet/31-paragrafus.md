@@ -1,3 +1,3 @@
-31. §[^42]
+31. § Az adóigazgatási eljárás részletszabályairól szóló 465/2017. (XII. 28.) Korm. rendelet 66/A. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-[^42]: A 31. § a 41. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+„(1) Ezen alcím szerinti elektronikus fizetési szolgáltatás tekintetében nem kell alkalmazni a 24. alcím rendelkezéseit. A 322/2024. (XI. 6.) Korm. rendelet szabályait az ezen alcímben foglalt eltérésekkel kell alkalmazni.”

@@ -1,5 +1,5 @@
 ## 2. A költségvetési szervek belső kontrollrendszeréről és belső ellenőrzéséről szóló 370/2011. (XII. 31.) Korm. rendelet módosítása
 
-14. § A költségvetési szervek belső kontrollrendszeréről és belső ellenőrzéséről szóló 370/2011. (XII. 31.) Korm. rendelet 51. §-a a következő (4) bekezdéssel egészül ki:
+14. §[^12]
 
-„(4) A (3) bekezdésben felsorolt adatszolgáltatásokat – a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti hivatalos elérhetőségre, elektronikus aláírással ellátva – elektronikus úton kell megküldeni az államháztartásért felelős miniszter részére.”
+[^12]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

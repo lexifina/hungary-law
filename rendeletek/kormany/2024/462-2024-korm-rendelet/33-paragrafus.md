@@ -1,3 +1,1 @@
-33. §[^44]
-
-[^44]: A 33. § a 41. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+33. § Az adóigazgatási eljárás részletszabályairól szóló 465/2017. (XII. 28.) Korm. rendelet 24/B. § (2) bekezdésében az „Art. 33/A. § a) pontja” szövegrész helyébe az „Art. 33/A. §-a” szöveg lép.

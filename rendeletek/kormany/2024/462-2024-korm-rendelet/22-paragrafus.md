@@ -1,3 +1,1 @@
-22. §[^35]
-
-[^35]: A 22. § a 41. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+22. § Hatályát veszti az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendelet 15. melléklet B351. pont b) pontja.

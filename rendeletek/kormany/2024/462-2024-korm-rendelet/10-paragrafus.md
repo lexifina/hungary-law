@@ -1,3 +1,3 @@
-10. §[^6]
+10. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 176. §-a a következő (32) bekezdéssel egészül ki:
 
-[^6]: A 10. § a 41. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+„(32) A 172/A. § szerinti felhasználási tervet 2025. év január hónapra vonatkozóan 2025. január 25-éig kell benyújtani.”

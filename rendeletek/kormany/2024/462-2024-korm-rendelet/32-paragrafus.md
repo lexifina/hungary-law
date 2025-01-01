@@ -1,3 +1,3 @@
-32. §[^43]
+32. § Az adóigazgatási eljárás részletszabályairól szóló 465/2017. (XII. 28.) Korm. rendelet 71. § (3) bekezdése helyébe a következő rendelkezés lép:
 
-[^43]: A 32. § a 41. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+„(3) Az állami adó- és vámhatóság az ügyfél-azonosító szám és a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti digitális állampolgár azonosító mellett az ügyfél állami adó- és vámhatóságnál nyilvántartott természetes személyazonosító adatait és lakcímét is felhasználhatja az azonosításhoz.”

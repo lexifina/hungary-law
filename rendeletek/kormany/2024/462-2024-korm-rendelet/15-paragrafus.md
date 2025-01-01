@@ -1,1 +1,3 @@
-15. § A költségvetési szervek belső kontrollrendszeréről és belső ellenőrzéséről szóló 370/2011. (XII. 31.) Korm. rendelet 1. melléklete helyébe a 4. melléklet lép.
+15. §[^13]
+
+[^13]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

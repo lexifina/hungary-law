@@ -1,3 +1,3 @@
-18. §[^31]
+18. § Az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendelet 41. § (3) bekezdése helyébe a következő rendelkezés lép:
 
-[^31]: A 18. § a 41. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+„(3) Az (1) és (2) bekezdés szerinti nyilvántartási számlákat a költségvetési szerv, a helyi önkormányzat, nemzetiségi önkormányzat, társulás, térségi fejlesztési tanács könyvvezetési és beszámolási feladatait ellátó szerv a központi alrendszerben az elemi költségvetés, az önkormányzati alrendszerben a költségvetési rendelet vagy határozat egészére, a központi kezelésű előirányzat, a fejezeti kezelésű előirányzat, az elkülönített állami pénzalap és a társadalombiztosítás pénzügyi alapja kezelő szerve a központi költségvetésről szóló törvényben megjelenő előirányzatonként vezeti.”
