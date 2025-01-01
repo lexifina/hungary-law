@@ -1,0 +1,1 @@
+64/D. § A levegőtisztaság-védelmi ügyben eljáró járási környezetvédelmi hatóság jogszabályban meghatározott feladatai ellátása céljából az ingatlan tulajdonosának azonosítása érdekében a jogosulti adatokkal kiegészített földkönyvben foglalt adatokat kezeli.
