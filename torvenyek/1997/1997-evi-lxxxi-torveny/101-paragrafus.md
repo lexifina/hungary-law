@@ -56,7 +56,7 @@ a)
 
 b) hozzátartozói nyugellátásban – ide nem értve az ideiglenes özvegyi nyugdíjat – részesül, vagy
 
-c) a b) pontban nem említett nyugellátásban – ide nem értve a rehabilitációs járadékot – részesül, és a 18. § (1) bekezdése szerinti életkort a tárgyévet megelőzően betöltötte.
+c) a b) pontban nem említett nyugellátásban részesül, és a 18. § (1) bekezdése szerinti életkort a tárgyévet megelőzően betöltötte.
 
 (6) A nyugdíjprémium összege a következő két szám szorzata:
 

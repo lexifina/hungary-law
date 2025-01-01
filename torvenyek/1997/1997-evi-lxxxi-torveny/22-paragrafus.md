@@ -16,7 +16,7 @@ g) azon egyszerűsített közteherviselési hozzájárulás (ekho) alap 50 száz
 
 h) a 2020. augusztus 31-ét követő időszakra a Tbj. 27. § (2) bekezdése szerinti járulékfizetési alsó határ alkalmazása esetén a minimálbér 30 százalékát,
 
-i) a Tbj. 41. § (2) bekezdésében meghatározott mezőgazdasági őstermelő esetében az éves bevételének 6 százalékát,
+i)
 
 j) a főállású kisadózó társadalombiztosítási ellátásainak alapjául szolgáló, törvényben meghatározott összeget.
 

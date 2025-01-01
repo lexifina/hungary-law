@@ -2,7 +2,7 @@
 
 79. § (1) A saját jogú és a hozzátartozói nyugellátást, továbbá a nyugdíjbiztosítási igazgatási szervek hatáskörébe utalt nem társadalombiztosítási ellátást a nyugdíjfolyósító szerv a nyugdíjfolyósítási törzsszám mint azonosító szám alatt folyósítja. A nyugdíjfolyósító szerv az ellátás folyósításának kezdetekor a nyugdíjfolyósítási törzsszám igazolására – az e célra rendszeresített nyomtatványon – az érintett személy részére díjmentesen igazolást ad ki.
 
-(2) A nyugdíjfolyósító szerv a megállapított nyugellátás folyósítását – a kormányrendeletben meghatározott esetekben a határozat vele való közlését követő tizenhárom napon belül, egyéb esetben a folyósításhoz szükséges adatokat tartalmazó elektronikus adatállomány beérkezését követő tizenhárom napon belül –
+(2) A nyugdíjfolyósító szerv a megállapított nyugellátás folyósítását – a kormányrendeletben meghatározott esetekben a határozat vele való közlését követő tíz munkanapon belül, egyéb esetben a folyósításhoz szükséges adatokat tartalmazó elektronikus adatállomány beérkezését követő tíz munkanapon belül –
 
 a) pénzforgalmi számláról történő készpénzkifizetés kézbesítése útján vagy a jogosult által megjelölt belföldi pénzforgalmi szolgáltatónál vezetett fizetési számlára,
 
@@ -20,7 +20,13 @@ A nyugellátást havonta, forintban kell folyósítani, legkorábban attól a na
 
 (3) A nyugdíjfolyósító szerv által folyósított ellátásokból történő levonásra a bírósági végrehajtásról szóló törvény rendelkezéseit kell alkalmazni.
 
-(3a) A (2) bekezdéstől eltérően a külföldön élő vagy tartózkodó jogosult kérelmére a nyugellátást negyedévente, félévente vagy évente utólag kell folyósítani, ha a nyugellátás havi összege nem haladja meg az öregségi nyugdíj jogszabályban meghatározott legkisebb összegét.
+(3a) A (2) bekezdésben meghatározottaktól eltérően a külföldön élő vagy tartózkodó jogosult
+
+a) havi 10 000 forintot meg nem haladó összegű nyugellátását kérelmére félévente vagy évente, kérelem hiányában negyedévente,
+
+b) havi 10 000 forintot meghaladó összegű nyugellátását kérelmére negyedévente, félévente vagy évente,
+
+utólag kell folyósítani.
 
 (4) A szociálpolitikai, szociális biztonsági egyezményt kötött államban, pénzforgalmi szolgáltatónál vezetett fizetési számlára történő folyósítás költségét az ellátásra jogosult viseli.
 

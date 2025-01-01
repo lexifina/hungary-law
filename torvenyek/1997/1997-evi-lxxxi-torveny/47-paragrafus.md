@@ -16,4 +16,4 @@ a) a házastárs 1993. március 1-je előtt bekövetkezett halála esetén az el
 
 b) a házastárs 1993. február 28-a után bekövetkezett halála esetén az elhalálozástól számított tíz éven belül
 
-következik be.
+következik be azzal, hogy az özvegyre irányadó öregségi nyugdíjkorhatárt a jogszerző halálakor hatályos jogszabályok alapján kell megállapítani.

@@ -50,41 +50,31 @@ tarthatók nyilván.
 
 (3) A (2) bekezdés alapján nyilvántartásba vett adatokból
 
-a) az állami adóhatóság, valamint a vámhatóság az ellenőrzési feladatok érdekében a (2) bekezdés a) és d) pontja,
+a) az állami adó- és vámhatóság, valamint az önkormányzati adóhatóság ellenőrzési és végrehajtási eljárás lefolytatása, továbbá támogatás megállapítása céljából a (2) bekezdés a) és h) pontja,
 
-b) az állami adóhatóság, valamint az önkormányzati adóhatóság az adókötelezettség ellenőrzése és az adóvégrehajtási eljárás lefolytatása érdekében, továbbá a támogatás megállapítása és ellenőrzése érdekében a (2) bekezdés a)–d) pontja szerinti adatok, a (2) bekezdés e) pontjából a rokkantság fokára vonatkozó adatok, valamint a (2) bekezdés f) és h) pontja,
+b) a foglalkoztatás-felügyeleti hatóság, a munkavédelmi hatóság, a családtámogatási ügyben eljáró hatóság, a rehabilitációs hatóság, a szociális, gyermekvédelmi és gyámügyi igazgatás szerve, valamint az állami foglalkoztatási szerv a foglalkoztatás-felügyeleti hatósági ellenőrzés, a munkavédelmi ellenőrzés, továbbá ellátás megállapítása, folyósítása és ellenőrzése céljából a (2) bekezdés a) és h) pontja,
 
-c) az egészségügyi ellátást nyújtó szerv vagy személy az egészségügyi szolgáltatói feladatai ellátása érdekében a (2) bekezdés a)–e) pontja,
+c) az egészségügyi ellátást nyújtó szerv vagy személy az egészségügyi szolgáltatói feladatai ellátása céljából a (2) bekezdés a) és h) pontja,
 
-d) a cégbíróság törvény,
+d) a menekültügyi hatóság az ellátások és támogatások megállapítása, folyósítása és a jogosultság ellenőrzése, valamint a menekültügyi eljárás során az ügyfél által előadottak, illetve a jogszabályban foglalt feltételek fennállásának ellenőrzése céljából a (2) bekezdés a) és h) pontja,
 
-e) a menekültügyi hatóság az ellátások és támogatások megállapítása, folyósítása és a jogosultság ellenőrzése, valamint a menekültügyi eljárás során az ügyfél által előadottak, illetve a jogszabályban foglalt feltételek fennállásának ellenőrzése céljából a (2) bekezdés a), d) és f) pontja,
+e) a személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény 35/A. §-ában meghatározott szervezet a közforgalmú személyszállítási utazási kedvezmények ellenőrzése céljából a nyugdíjfolyósító szerv által kibocsátott utazási utalványban részesülő személyekre vonatkozóan a (2) bekezdés a) és h) pontja,
 
-f) a honvédelemért felelős miniszter által vezetett minisztérium központi pénzügyi szerve tervezési és érdekvédelmi feladatok, ellátás megállapítása, folyósítása és ellenőrzése, valamint statisztikai célú adatfeldolgozás érdekében a Magyar Honvédség szociális gondoskodási körébe tartozók, valamint a volt honvédelmi alkalmazottak árvái esetében a (2) bekezdés a), c), g) és h) pontja,
+f) a Magyar Művészeti Akadémiáról szóló törvény szerinti művészjáradékkal kapcsolatos ügyekben eljáró szerv a művészjáradék folyósítása és a jogosultság ellenőrzése céljából a (2) bekezdés a) és h) pontja,
 
-g) a mezőgazdasági és vidékfejlesztési támogatási szerv a támogatás megállapítása céljából a (2) bekezdés a)–d) és f) pontja,
+g) a honvédelemért felelős miniszter által vezetett minisztérium központi pénzügyi szerve tervezési és érdekvédelmi feladatok, ellátás megállapítása, folyósítása és ellenőrzése, valamint statisztikai célú adatfeldolgozás érdekében a Magyar Honvédség szociális gondoskodási körébe tartozók esetében a (2) bekezdés a), g) és h) pontja,
 
-h) az egészségügyi államigazgatási szerv szervei egészségfejlesztési tevékenységük ellátása céljából a (2) bekezdés a)–e) pontja,
-
-i) az oktatási nyilvántartás működéséért felelős szerv a pályakövetési rendszer működtetése céljából a (2) bekezdés d) pontja,
-
-j) a személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény 35/A. §-ában meghatározott szervezet a közforgalmú személyszállítási utazási kedvezmények ellenőrzése céljából a nyugdíjfolyósító szerv által kibocsátott utazási utalványban részesülő személyekre vonatkozóan a (2) bekezdés a) és h) pontja
-
-k) a Magyar Művészeti Akadémiáról szóló törvény szerinti művészjáradékkal kapcsolatos ügyekben eljáró szerv a művészjáradék folyósítása és a jogosultság ellenőrzése érdekében a (2) bekezdés a), c) és h) pontja
-
-l) a foglalkoztatás-felügyeleti hatóság, a munkavédelmi hatóság, a családtámogatási ügyben eljáró hatóság, a rehabilitációs hatóság, a szociális, gyermekvédelmi és gyámügyi igazgatás szerve, valamint az állami foglalkoztatási szerv, foglalkoztatás-felügyeleti hatósági ellenőrzés és munkavédelmi ellenőrzés, továbbá az ellátás megállapítása, folyósítása és ellenőrzése céljából a (2) bekezdés a)–f) és h) pontja,
-
-m) a rendvédelmi feladatokat ellátó szerv a kiegészítő hozzátartozói támogatásra, illetve az árvák kiegészítő támogatására való jogosultság megállapításához és ellenőrzéséhez a (2) bekezdés a) és h) pontja
+h) a rendvédelmi feladatokat ellátó szerv a kiegészítő hozzátartozói támogatásra, illetve az árvák kiegészítő támogatására való jogosultság megállapítása és ellenőrzése céljából a (2) bekezdés a), g) és h) pontja
 
 szerinti adatok igénylésére jogosult.
 
 (3a) A (2) bekezdés alapján nyilvántartásba vett adatokból a Dáptv. szerinti automatikus információelérési felületen keresztüli hozzáféréssel
 
-a) a munkaügyi és munkavédelmi, a családtámogatási, a rehabilitációs, a szociális és a gyámügyi igazgatás szerve, valamint az állami foglalkoztatási szerv az ellátás megállapítása, folyósítása és ellenőrzése, illetve munkaügyi és munkavédelmi ellenőrzés céljából a (2) bekezdés a)–f) és h) pontja,
+a) a munkaügyi és munkavédelmi, a családtámogatási, a rehabilitációs, a szociális és a gyámügyi igazgatás szerve, valamint az állami foglalkoztatási szerv az ellátás megállapítása, folyósítása és ellenőrzése, illetve munkaügyi és munkavédelmi ellenőrzés céljából a (2) bekezdés a) és h) pontja,
 
-b) a Családi Csődvédelmi Szolgálat a természetes személyek adósságrendezési eljárása céljából a (2) bekezdés a)–f) és h) pontja,
+b) a Családi Csődvédelmi Szolgálat a természetes személyek adósságrendezési eljárása céljából a (2) bekezdés a) és h) pontja,
 
-c) az egészségbiztosítási szerv a jogszabályban meghatározott feladatai ellátásához a (2) bekezdés a)–e) és h) pontja
+c) az egészségbiztosítási szerv a jogszabályban meghatározott feladatai ellátásához a (2) bekezdés a) és h) pontja
 
 szerinti adatok lekérdezésére jogosult.
 
@@ -100,7 +90,7 @@ szerinti adatok lekérdezésére jogosult.
 
 (8) Az érintett személy vagy képviselője a nyugdíjbiztosítási igazgatási szervek által vezetett nyilvántartásba betekinthet, kérelmére a róla nyilvántartott adatokról a nyugdíjbiztosítási igazgatási szerv kivonatot állít ki.
 
-(9) A központi nyugdíjbiztosítási szerv a szociális hatáskörben, valamint gyermekvédelmi és gyámügyi hatáskörben eljáró járási hivatal, valamint a települési önkormányzat jegyzője mint gyámhatóság részére a pénzbeli és természetbeni szociális és a gyermekvédelmi ellátások megállapítása céljából közvetlen hozzáférést biztosít a (2) bekezdés a) és h) pontja alapján nyilvántartott adatokat tartalmazó – külön e célra kialakított – adatbázishoz.
+(9)
 
 (10) Az e törvény szerinti eljárások során az uniós rendeletek szerinti hozzáférési pontot működtető egészségügyért felelős miniszter az uniós rendeletek szerinti célból, az ahhoz szükséges mértékben és ideig kezeli az elektronikus adatcserével érintett, a nyugdíjbiztosítási igazgatási szervek által e törvény szerint kezelt személyes és különleges adatokat.
 

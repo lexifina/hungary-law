@@ -38,4 +38,4 @@ b) a (3) bekezdés b) pontja szerinti esetben a felszámolást, a kényszertörl
 
 a) baleseti hozzátartozói nyugellátásra vonatkozó rendelkezéseit a baleseti járadék megtérítésére vonatkozóan azzal az eltéréssel kell alkalmazni, hogy a megtérítés összegének meghatározásánál az Eb. 58. §-a (1) bekezdésének a) pontjában említett baleseti járadék esetében az Eb. 57. §-ának (2) bekezdése szerinti kétévi időtartamot kell alapul venni,
 
-b) rendelkezéseit a rehabilitációs járadékra azzal az eltéréssel kell alkalmazni, hogy a megtérítés összegének meghatározásánál azt az időtartamot kell alapul venni, amelyre a rehabilitációs járadékot megállapították.
+b)
