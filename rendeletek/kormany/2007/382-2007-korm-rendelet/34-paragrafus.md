@@ -18,13 +18,15 @@ c) a nem építési engedélyköteles építmény megépítése a jogszabályi e
 
 d)[^123] a belső kezelőterű átalakító vagy kapcsoló berendezés építménye már nem tölti be a sajátos építményfajta eredeti funkcióját.
 
+(4a)[^124] Amennyiben a VET 136. § (1a) bekezdésében foglalt kérelem alapos, a Hatóság hivatalból intézkedik a külterületet érintő és használaton kívüli légvezeték megszüntetése érdekében.
+
 (5) A (4) bekezdés c) pontjában meghatározott esetben a Hatóság az építmény tulajdonosát az építmény bontására kötelezi, amennyiben az építmény tulajdonosa nem vállalja az építmény jogszabályoknak megfelelő átalakítását.
 
-(5a)[^124] A (4) bekezdés d) pontjában meghatározott esetben indult eljárásban a Hatóság elrendeli az építmény bontását, amennyiben az építmény tulajdonosa a Hatóság felhívására az építmény új funkciójáról nem nyilatkozik. Amennyiben az építmény tulajdonosa nyilatkozik az építmény új funkciójáról, és az építmény nem tartja meg a villamosenergia-ipari rendeltetését, akkor a Hatóság továbbítja a tulajdonos nyilatkozatát az új funkciójú építményfajta tekintetében hatáskörrel és illetékességgel rendelkező építésügyi hatóság részére. Amennyiben a megváltoztatni tervezett rendeltetésű építmény nem a villamosenergia-ipari építésügyi hatóság hatáskörébe tartozik, akkor az építményre vonatkozó jókarbantartási kötelezettség teljesítésének ellenőrzése a továbbiakban a fentiek szerint értesített építésügyi hatóság hatáskörébe tartozik.
+(5a)[^125] A (4) bekezdés d) pontjában meghatározott esetben indult eljárásban a Hatóság elrendeli az építmény bontását, amennyiben az építmény tulajdonosa a Hatóság felhívására az építmény új funkciójáról nem nyilatkozik. Amennyiben az építmény tulajdonosa nyilatkozik az építmény új funkciójáról, és az építmény nem tartja meg a villamosenergia-ipari rendeltetését, akkor a Hatóság továbbítja a tulajdonos nyilatkozatát az új funkciójú építményfajta tekintetében hatáskörrel és illetékességgel rendelkező építésügyi hatóság részére. Amennyiben a megváltoztatni tervezett rendeltetésű építmény nem a villamosenergia-ipari építésügyi hatóság hatáskörébe tartozik, akkor az építményre vonatkozó jókarbantartási kötelezettség teljesítésének ellenőrzése a továbbiakban a fentiek szerint értesített építésügyi hatóság hatáskörébe tartozik.
 
 (6) A megszüntetés során az ingatlanról az (1) bekezdésben felsorolt építményeket – tartozékaival együtt – az engedélyben meghatározottak szerint a bontási engedélyes köteles eltávolítani és az ingatlan eredeti állapotát, vagy ha ez nem megállapítható, művelési ágának megfelelő állapotát helyreállítani, illetve ha ez utóbbi sem lehetséges, kártalanítást nyújtani.
 
-(7)[^125] Az engedélyes a megszüntetést követően köteles haladéktalanul kérni az ingatlan-nyilvántartásba bejegyzett jogainak törlését. Hivatalból indult eljárás esetében a Hatóság keresi meg a végleges határozattal az ingatlanügyi hatóságot a bejegyzett jogok törlése iránt.
+(7)[^126] Az engedélyes a megszüntetést követően köteles haladéktalanul kérni az ingatlan-nyilvántartásba bejegyzett jogainak törlését. Hivatalból indult eljárás esetében a Hatóság keresi meg a végleges határozattal az ingatlanügyi hatóságot a bejegyzett jogok törlése iránt.
 
 [^117]: A 33. § a 457/2017. (XII. 28.) Korm. rendelet 211. § (21) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^118]: A 34. § a 245/2012. (VIII. 31.) Korm. rendelet 9. §-ával megállapított szöveg.
@@ -33,5 +35,6 @@ d)[^123] a belső kezelőterű átalakító vagy kapcsoló berendezés építmé
 [^121]: A 34. § (3) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 211. § (22) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^122]: A 34. § (4) bekezdés a) pontja a 190/2020. (V. 7.) Korm. rendelet 4. §-a szerint módosított szöveg.
 [^123]: A 34. § (4) bekezdés d) pontját a 190/2020. (V. 7.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^124]: A 34. § (5a) bekezdését a 190/2020. (V. 7.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^125]: A 34. § (7) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 212. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^124]: A 34. § (4a) bekezdését a 466/2024. (XII. 30.) Korm. rendelet 35. §-a iktatta be.
+[^125]: A 34. § (5a) bekezdését a 190/2020. (V. 7.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^126]: A 34. § (7) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 212. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

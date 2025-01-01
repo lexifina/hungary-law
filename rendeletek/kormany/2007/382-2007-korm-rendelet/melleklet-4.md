@@ -1,4 +1,4 @@
-4. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^182]
+4. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^183]
 
 1. A villamosenergia-ipari építésügyi hatósági engedélyezési eljárásokban érintettségüktől függően közreműködő közművek, kezelők és üzemeltetők
 
@@ -76,4 +76,4 @@
 
 | 4. | Integrált építési és környezetvédelmi eljárás. | Az ipari baleseti kockázatok tekintetében a veszélyes anyagokkal kapcsolatos súlyos baleseteknek való kitettségből eredő várható hatások elbírálása. A természeti katasztrófáknak való kitettség tekintetében annak elbírálása, hogy a kérelem megfelelően tartalmazza-e a telepítési hely környezetében feltárt kockázatokat és azok várható hatásait. |
 
-[^182]: A 4. számú melléklet a 360/2019. (XII. 30.) Korm. rendelet 58. § (2) bekezdés a) pontjával megállapított, a 677/2020. (XII. 28.) Korm. rendelet 21. §-a, a 26/2022. (I. 28.) Korm. rendelet 6. §-a, a 650/2023. (XII. 28.) Korm. rendelet 4. § (2) bekezdése, a 258/2024. (VIII. 29.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^183]: A 4. számú melléklet a 360/2019. (XII. 30.) Korm. rendelet 58. § (2) bekezdés a) pontjával megállapított, a 677/2020. (XII. 28.) Korm. rendelet 21. §-a, a 26/2022. (I. 28.) Korm. rendelet 6. §-a, a 650/2023. (XII. 28.) Korm. rendelet 4. § (2) bekezdése, a 258/2024. (VIII. 29.) Korm. rendelet 4. §-a szerint módosított szöveg.
