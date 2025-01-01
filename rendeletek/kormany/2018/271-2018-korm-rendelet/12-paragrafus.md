@@ -1,3 +1,0 @@
-12. § (1) A Központ – a 9. § (1) bekezdése és a 10. §-a szerinti bejelentések alapján – vizsgálja az alapvető szolgáltatást nyújtók, valamint a bejelentés-köteles szolgáltatást nyújtók szolgáltatásaira jelentős hatást gyakorló biztonsági események határon átnyúló hatását, és közvetlenül vagy az egyedüli kapcsolattartó pont útján indokolt esetben tájékoztatja a jelentős hatást gyakorló biztonsági eseményekről a többi érintett tagállamot.
-
-(2) A Központnak az (1) bekezdés szerinti tájékoztatás során biztosítania kell a szolgáltatók biztonságát, gondoskodnia kell arról, hogy ne sérüljenek a kereskedelmi érdekei és a bejelentésben foglalt információk bizalmassága.
