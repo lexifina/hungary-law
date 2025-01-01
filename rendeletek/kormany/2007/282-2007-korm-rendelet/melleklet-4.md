@@ -58,104 +58,116 @@
 
 | 16. | Büntetőeljárás során orvosszakértői vizsgálat | NSZKK, egyetemi intézetek |
 
-4. számú melléklet a 282/2007. (X. 26.) Korm. rendelethez[^9]
+4. számú melléklet a 282/2007. (X. 26.) Korm. rendelethez[^11]
 
 Szakvélemény adására feljogosított szervek
 
-| A szakterület és az ahhoz kapcsolódó szakkérdés (vizsgálat) megjelölése | A szakvélemény adására feljogosított szervezet |
+|  | A | B | C |
 
-| 1. | Büntetőügyekben szükséges kriminalisztikai és egyéb szakkérdések esetén felmerülő vizsgálatok: |  |
+| 1 | A szakterület és az ahhoz kapcsolódó szakkérdés (vizsgálat) megjelölése | A szakvélemény adására feljogosított szervezet |
 
-|  | a) az alkotmányos rendet sértő nyomdai és sajtótermékek vizsgálata | Nemzetbiztonsági Szakszolgálat Szakértői Intézete |
+| 2 | 1. | Büntetőügyekben szükséges kriminalisztikai és egyéb szakkérdések esetén felmerülő vizsgálatok: |  |
 
-|  | b) értékpapír, értékcikk, egyéb okmány vagy nyomtatvány eredetiségével, illetve hamisításával kapcsolatos vizsgálat | Nemzetbiztonsági Szakszolgálat Szakértői Intézete |
+| 3 |  | a) az alkotmányos rendet sértő nyomdai és sajtótermékek vizsgálata | Nemzetbiztonsági Szakszolgálat Szakértői Intézete |
 
-|  | c) nyelvészeti vizsgálat | Nemzetbiztonsági Szakszolgálat Szakértői Intézete |
+| 4 |  | b) értékpapír, értékcikk, egyéb okmány vagy nyomtatvány eredetiségével, illetve hamisításával kapcsolatos vizsgálat | Nemzetbiztonsági Szakszolgálat Szakértői Intézete |
 
-|  | d) hangtechnikai vizsgálat, beszéd- és hangazonosítás | Nemzetbiztonsági Szakszolgálat Szakértői Intézete NSZKK |
+| 5 |  | c) nyelvészeti vizsgálat | Nemzetbiztonsági Szakszolgálat Szakértői Intézete, HUN-REN Nyelvtudományi Kutatóközpont |
 
-|  | e) írásszakértői vizsgálat | Nemzetbiztonsági Szakszolgálat Szakértői Intézete |
+| 6 |  | d) hangtechnikai vizsgálat, beszéd- és hangazonosítás | Nemzetbiztonsági Szakszolgálat Szakértői Intézete, NSZKK |
 
-|  | f) fotó- és videotechnikai vizsgálat | Nemzetbiztonsági Szakszolgálat Szakértői Intézete |
+| 7 |  | e) írásszakértői vizsgálat | Nemzetbiztonsági Szakszolgálat Szakértői Intézete |
 
-|  | g) kémiai anyagok analitikai vizsgálata | Nemzetbiztonsági Szakszolgálat Szakértői Intézete NSZKK |
+| 8 |  | f) fotó- és videotechnikai vizsgálat | Nemzetbiztonsági Szakszolgálat Szakértői Intézete |
 
-|  | h) informatikai szakkérdések vizsgálata | Nemzetbiztonsági Szakszolgálat SzakértőiIntézete NSZKK |
+| 9 |  | g) kémiai anyagok analitikai vizsgálata | Nemzetbiztonsági Szakszolgálat Szakértői Intézete, NSZKK, HUN-REN Természettudományi Kutatóközpont |
 
-|  | i) forenzikus fizikai vizsgálat | NSZKK |
+| 10 |  | h) informatikai szakkérdések vizsgálata | Nemzetbiztonsági Szakszolgálat Szakértői Intézete, NSZKK, HUN-REN Számítástechnikai és Automatizálási Kutatóintézet |
 
-|  | j) forenzikus vegyészeti vizsgálat, ideértve (a toxikológiai és az áruminőségi vizsgálatok kivételével) az öngyulladással és egyéb tűzesettel kapcsolatos vegyelemzést | NSZKK |
+| 11 |  | i) forenzikus fizikai vizsgálat | NSZKK, UN-REN Wigner Fizikai Kutatóközpont |
 
-|  | k) fegyver- és lőszerszakértői vizsgálat | NSZKK |
+| 12 |  | j) forenzikus vegyészeti vizsgálat, ideértve (a toxikológiai és az áruminőségi vizsgálatok kivételével) az öngyulladással és egyéb tűzesettel kapcsolatos vegyelemzést | NSZKK, HUN-REN Természettudományi Kutatóközpont |
 
-|  | l) nyomszakértői vizsgálat | NSZKK |
+| 13 |  | k) fegyver- és lőszerszakértői vizsgálat | NSZKK |
 
-|  | m) tárgy fénykép alapján történő azonosítása | NSZKK |
+| 14 |  | l) nyomszakértői vizsgálat | NSZKK |
 
-|  | n) mikromaradványok vizsgálata | NSZKK |
+| 15 |  | m) tárgy fénykép alapján történő azonosítása | NSZKK |
 
-|  | o) a Nemzetbiztonsági Szakszolgálat Szakértői Intézete kizárólagos hatáskörébe nem tartozó iratok okmányszakértői vizsgálata | NSZKK Nemzetbiztonsági Szakszolgálat Szakértői Intézete |
+| 16 |  | n) mikromaradványok vizsgálata | NSZKK, HUN-REN Természettudományi Kutatóközpont |
 
-|  | p) személy fénykép alapján történő azonosítása | NSZKK |
+| 17 |  | o) a Nemzetbiztonsági Szakszolgálat Szakértői Intézete kizárólagos hatáskörébe nem tartozó iratok okmányszakértői vizsgálata | NSZKK, Nemzetbiztonsági Szakszolgálat Szakértői Intézete |
 
-|  | q) vegyészeti vizsgálat, termékhamisítási ügyekben fizikai-kémiai vizsgálatok, ideértve az eredetiség vizsgálatát is | Nemzeti Adó- és Vámhivatal Szakértői Intézete |
+| 18 |  | p) személy fénykép alapján történő azonosítása | NSZKK |
 
-|  | r) gépjármű balesetek vizsgálata és a közlekedési bűncselekmények szakértése | NSZKK |
+| 19 |  | q) vegyészeti vizsgálat, termékhamisítási ügyekben fizikai-kémiai vizsgálatok, ideértve az eredetiség vizsgálatát is | Nemzeti Adó- és Vámhivatal Szakértői Intézete |
 
-|  | s) pszichológiai vizsgálat | NSZKK |
+| 20 |  | r) gépjárműbalesetek vizsgálata és a közlekedési bűncselekmények szakértése | NSZKK |
 
-|  | t) forenzikus geológiai vizsgálat | NSZKK |
+| 21 |  | s) pszichológiai vizsgálat | NSZKK, HUN-REN Természettudományi Kutatóközpont, egyetemi intézetek |
 
-|  | u) forenzikus botanikai vizsgálat | NSZKK |
+| 22 |  | t) forenzikus geológiai vizsgálat | NSZKK, HUN-REN Csillagászati és Földtudományi Kutatóközpont |
 
-| 2. | Tűzvédelemmel kapcsolatos szakkérdés | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság és Katasztrófavédelmi Igazgatóságok |
+| 23 |  | u) forenzikus botanikai vizsgálat | NSZKK, HUN-REN Szegedi Biológiai Kutatóközpont, HUN-REN Ökológiai Kutatóközpont |
 
-| 3. | A levegőkörnyezettel, illetve annak múltbeli és jövőbeni állapotával összefüggő szakkérdés | HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zártkörűen Működő Részvénytársaság |
+| 24 |  | v) kriminalisztikai digitális nyomszakértői vizsgálat | Nemzetbiztonsági Szakszolgálat Szakértői Intézete |
 
-| 4. | A katasztrófák elleni védekezés irányításáról, szervezetéről és a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésről szóló 1999. évi LXXIV. törvény IV. fejezetében meghatározott kérdések vonatkozásában (ipari baleset-megelőzés) | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 25 | 2. | Tűzvédelemmel kapcsolatos szakkérdés | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság és katasztrófavédelmi igazgatóságok |
 
-| 5. | Kulturális szakterületek: |  |
+| 26 | 3. | A levegőkörnyezettel, illetve annak múltbeli és jövőbeni állapotával összefüggő szakkérdés | HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zártkörűen Működő Részvénytársaság, HUN-REN Ökológiai Kutatóközpont |
 
-|  | 1. Kulturális javakkal összefüggő szakkérdések |  |
+| 27 | 4. | A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény IV. fejezetében meghatározott kérdések (ipari baleset-megelőzés) | a veszélyes anyagokkal foglalkozó üzem és a küszöbérték alatti üzem telephelye szerint illetékes fővárosi és vármegyei kormányhivatal |
 
-|  | a) régészeti leletek, történeti emlékek és fotótörténeti emlékek vizsgálata, numizmatika | Magyar Nemzeti Múzeum Közgyűjteményi Központ |
+| 28 | 5. | Kulturális szakterületek: |  |
 
-|  | b) természettudományi emlékek vizsgálata | Magyar Nemzeti Múzeum Közgyűjteményi Központ |
+| 29 |  | 1. Kulturális javakkal összefüggő szakkérdések |  |
 
-|  | c) műszaki és technikatörténeti tárgyak vizsgálata | Magyar Műszaki és Közlekedési Múzeum |
+| 30 |  | a) régészeti leletek, történeti emlékek és fotótörténeti emlékek vizsgálata, numizmatika | Magyar Nemzeti Múzeum Közgyűjteményi Központ Magyar Nemzeti Múzeum, HUN-REN Bölcsészettudományi Kutatóközpont |
 
-|  | d) képző- és iparművészeti emlékek vizsgálata | Magyar Nemzeti Galéria Szépművészeti Múzeum Magyar Nemzeti Múzeum Közgyűjteményi Központ |
+| 31 |  | b) természettudományi emlékek vizsgálata | Magyar Nemzeti Múzeum Közgyűjteményi Központ Magyar Természettudományi Múzeum, HUN-REN Bölcsészettudományi Kutatóközpont |
 
-|  | e) néprajzi emlékek vizsgálata | Néprajzi Múzeum |
+| 32 |  | c) műszaki és technikatörténeti tárgyak vizsgálata | Magyar Műszaki és Közlekedési Múzeum, HUN-REN Bölcsészettudományi Kutatóközpont |
 
-|  | f) irodalom- és színháztörténeti emlékek vizsgálata | Magyar Nemzeti Múzeum Közgyűjteményi Központ Országos Színháztörténeti Múzeum és Intézet |
+| 33 |  | d) képző- és iparművészeti emlékek vizsgálata | Magyar Nemzeti Galéria, Szépművészeti Múzeum, Magyar Nemzeti Múzeum Közgyűjteményi Központ Iparművészeti Múzeum, HUN-REN Bölcsészettudományi Kutatóközpont |
 
-|  | g) zene- és hangszertörténeti emlékek vizsgálata | Bölcsészettudományi Kutatóközpont Zenetudományi Intézete Zenetörténeti Múzeuma Magyar Nemzeti Múzeum Közgyűjteményi Központ |
+| 34 |  | e) néprajzi emlékek vizsgálata | Néprajzi Múzeum, HUN-REN Bölcsészettudományi Kutatóközpont |
 
-|  | h) könyvtári dokumentumok vizsgálata | Magyar Nemzeti Múzeum Közgyűjteményi Központ |
+| 35 |  | f) irodalom- és színháztörténeti emlékek vizsgálata | Magyar Nemzeti Múzeum Közgyűjteményi Központ Petőfi Irodalmi Múzeum, Országos Színháztörténeti Múzeum és Intézet, HUN-REN Bölcsészettudományi Kutatóközpont |
 
-|  | i) levéltári dokumentumok vizsgálata | Magyar Nemzeti Levéltár |
+| 36 |  | g) zene- és hangszertörténeti emlékek vizsgálata | HUN-REN Bölcsészettudományi Kutatóközpont Zenetudományi Intézet Zenetörténeti Múzeum, Magyar Nemzeti Múzeum Közgyűjteményi Központ Iparművészeti Múzeum |
 
-|  | 2. Az 1. pontban megjelölt kulturális javak állagvédelme, restaurálása, preparálása | Magyar Nemzeti Múzeum Közgyűjteményi Központ Magyar Műszaki és Közlekedési Múzeum Magyar Nemzeti Galéria Szépművészeti Múzeum Képzőművészeti Egyetem Restaurátorképző Intézet Magyar Nemzeti Levéltár |
+| 37 |  | h) könyvtári dokumentumok vizsgálata | Magyar Nemzeti Múzeum Közgyűjteményi Központ Országos Széchényi Könyvtár, HUN-REN Bölcsészettudományi Kutatóközpont |
 
-|  | 3. Mozgóképekkel összefüggő szakkérdések |  |
+| 38 |  | i) levéltári dokumentumok vizsgálata | Magyar Nemzeti Levéltár, HUN-REN Bölcsészettudományi Kutatóközpont |
 
-|  | a) mozgóképgyártás | Színház és Filmművészeti Egyetem |
+| 39 |  | 2. Az 1. pontban megjelölt kulturális javak állagvédelme, restaurálása, preparálása | Magyar Nemzeti Múzeum Közgyűjteményi Központ Magyar Nemzeti Múzeum, Magyar Nemzeti Múzeum Közgyűjteményi Központ Magyar Természettudományi Múzeum, Magyar Nemzeti Múzeum Közgyűjteményi Központ Országos Széchényi Könyvtár, Magyar Műszaki és Közlekedési Múzeum, Magyar Nemzeti Galéria, Szépművészeti Múzeum, Képzőművészeti Egyetem Restaurátorképző Intézet, Magyar Nemzeti Levéltár, HUN-REN Bölcsészettudományi Kutatóközpont |
 
-|  | b) mozgókép-terjesztés, állagvédelem | Nemzeti Filmintézet Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság |
+| 40 |  | 3. Mozgóképekkel összefüggő szakkérdések |  |
 
-| 6. | Foglalkozási megbetegedés vizsgálata, foglalkozási eredet véleményezése | Nemzeti Népegészségügyi és Gyógyszerészeti Központ Magyar Honvédség Dr. Radó György Honvéd Egészségügyi Központ |
+| 41 |  | a) mozgóképgyártás | Színház és Filmművészeti Egyetem |
 
-| 7. | Jövedéki termékek adójogi minősítése, termékek áruosztályozása | Nemzeti Adó- és Vámhivatal Szakértői Intézete |
+| 42 |  | b) mozgóképterjesztés, állagvédelem | Nemzeti Filmintézet Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság |
 
-| 8. | Zenei és irodalmi művek műfaji elhatárolási és átdolgozási kérdései | ARTISJUS Magyar Szerzői Jogvédő Iroda Egyesület |
+| 43 | 6. | Foglalkozási megbetegedés vizsgálata, foglalkozási eredet véleményezése | Nemzeti Népegészségügyi és Gyógyszerészeti Központ, Magyar Honvédség Egészségügyi Központ |
 
-| 9. | A felszíni és a felszín alatti vizek mennyiségi és minőségi állapotával összefüggő, illetve vízügyi igazgatási szakkérdés | Országos Vízügyi Főigazgatóság |
+| 44 | 7. | Jövedéki termékek adójogi minősítése, termékek áruosztályozása | Nemzeti Adó- és Vámhivatal Szakértői Intézete |
 
-| 10. | Pszichiátriai és igazságügyi elmeszakértői vizsgálatok | NSZKK, Nyírő Gyula Országos Pszichiátriai és Addiktológiai Intézet |
+| 45 | 8. | Zenei és irodalmi művek műfaji elhatárolási és átdolgozási kérdései | ARTISJUS Magyar Szerzői Jogvédő Iroda Egyesület, HUN-REN Bölcsészettudományi Kutatóközpont |
 
-| 11. | Adó- és könyvszakértői (adószakértői, járulékszakértői, könyvszakértői, pénz- és tőkepiaci szakértői) vizsgálatok | NSZKK |
+| 46 | 9. | A felszíni és a felszín alatti vizek mennyiségi és minőségi állapotával összefüggő, illetve vízügyi igazgatási szakkérdés | Országos Vízügyi Főigazgatóság, HUN-REN Ökológiai Kutatóközpont, Magyar Mérnöki Kamara |
 
-| 12. | Építésügyi szakértői vizsgálatok | NSZKK |
+| 47 | 10. | Pszichiátriai és igazságügyi elmeszakértői vizsgálatok | NSZKK, Nyírő Gyula Országos Pszichiátriai és Addiktológiai Intézet, egyetemi intézetek, HUN-REN Kísérleti Orvostudományi Kutatóintézet |
 
-[^9]: A 4. számú melléklet a 379/2016. (XII. 2.) Korm. rendelet 105. § (1) bekezdés b) pontjával megállapított, ugyanezen módosító rendelet 105. § (2) bekezdés b) pontja, a 250/2017. (IX. 5.) Korm. rendelet 15. §-a, a 162/2018. (IX. 10.) Korm. rendelet 7. § b) pontja, a 350/2019. (XII. 23.) Korm. rendelet 1. §-a, a 345/2019. (XII. 23.) Korm. rendelet 1. §-a, a 737/2021. (XII. 21.) Korm. rendelet 4. § a) és b) pontja, a 334/2023. (VII. 20.) Korm. rendelet 14. § e) pontja, a 350/2023. (VII. 27.) Korm. rendelet 3. §-a, az 591/2023. (XII. 20.) Korm. rendelet 5. §-a, a 106/2024. (V. 9.) Korm. rendelet 2. § a)–e) pontja és 3. §-a, a 165/2024. (VI. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.
+| 48 | 11. | Adó- és könyvszakértői (adószakértői, járulékszakértői, könyvszakértői, pénz- és tőkepiaci szakértői) vizsgálatok | NSZKK, HUN-REN Közgazdaság- és Regionális Tudományi Kutatóközpont |
+
+| 49 | 12. | Építésügyi szakértői vizsgálatok | NSZKK, Magyar Mérnöki Kamara Magyar Építész Kamara |
+
+| 50 | 13. | Takarmánygazdálkodás | HUN-REN Agrártudományi Kutatóközpont Állatorvostudományi Egyetem |
+
+| 51 | 14. | Termőföld talajvédelme | HUN-REN Agrártudományi Kutatóközpont |
+
+| 52 | 15. | Állategészségügy | HUN-REN Állatorvostudományi Kutatóintézet |
+
+| 53 | 16. | Környezeti víz- és talajvédelem | HUN-REN Balatoni Limnológiai Kutatóintézet, Magyar Mérnöki Kamara, Országos Vízügyi Főigazgatóság |
+
+[^11]: A 4. számú melléklet a 331/2024. (XI. 14.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
