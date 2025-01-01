@@ -4,7 +4,7 @@
 
 együttes rendelethez
 
-## Az üzemanyag-gazdaságossági címke leírása
+Az üzemanyag-gazdaságossági címke leírása
 
 ## Mérete: 297 mm x 210 mm
 
@@ -28,7 +28,7 @@ d) hivatalos fajlagos CO2-kibocsátása:
 
 3. Az üzemanyag-gazdaságossági ismertetőre vonatkozó tájékoztatás:
 
-## ,,Minden eladási helyen a fogyasztók rendelkezésére áll betekintésre díjmentesen egy olyan üzemanyag-gazdaságossági ismertető kiadvány, amely az összes új személygépkocsi üzemanyag-fogyasztási és CO2-kibocsátási adatát tartalmazza.''
+## „,,Minden eladási helyen a fogyasztók rendelkezésére áll betekintésre díjmentesen egy olyan üzemanyag-gazdaságossági ismertető kiadvány, amely az összes új személygépkocsi üzemanyag-fogyasztási és CO2-kibocsátási adatát tartalmazza.''”
 
 4. Az általános tájékoztatás:
 

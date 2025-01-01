@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-12-20-8
 | --- | --- | --- |
 | 2007-01-19 | 2002-12-20-83.4 | 12/2002. (III. 14.) GM–KöViM–KöM együttes rendelet |
 | 2017-01-01 | 2002-12-20-83.5 | 45/2003. (VII. 18.) GKM–KvVM együttes rendelet |
+| 2025-01-01 | 2002-12-20-83.6 | 55/2024. (XII. 30.) ÉKM rendelet |

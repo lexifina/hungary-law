@@ -1,10 +1,10 @@
-## ,,A gépkocsi üzemanyag-gazdaságossági jellemzői mellett a vezető magatartása, valamint további nem műszaki tényezők is szerepet játszanak a gépkocsi üzemanyag-fogyasztásában és CO2-kibocsátásában. A CO2 a globális felmelegedést okozó legfontosabb üvegház hatású gáz.''
+## „,,A gépkocsi üzemanyag-gazdaságossági jellemzői mellett a vezető magatartása, valamint további nem műszaki tényezők is szerepet játszanak a gépkocsi üzemanyag-fogyasztásában és CO2-kibocsátásában. A CO2 a globális felmelegedést okozó legfontosabb üvegház hatású gáz.''”
 
 2. számú melléklet a 12/2002. (III. 14.) GM–KöViM–KöM
 
 együttes rendelethez
 
-## Az üzemanyag-gazdaságossági ismertető kiadvány minimális tartalmi követelményei
+Az üzemanyag-gazdaságossági ismertető kiadvány minimális tartalmi követelményei
 
 ## Az üzemanyag-gazdaságossági ismertető kiadványnak tartalmaznia kell a következő információkat:
 
