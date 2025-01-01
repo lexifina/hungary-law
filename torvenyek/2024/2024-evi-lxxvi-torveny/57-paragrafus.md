@@ -1,1 +1,9 @@
-### 57. §
+## „h) a nemzeti filmvagyonba tartozó, a moziban megrendezésre kerülő, szakmai vagy civil szervezet, kulturális intézmény által szervezett filmnap, filmhét vagy filmfesztivál programjába tartozó, vagy az e törvényben meghatározott alternatív tartalmak közül a Hatóság honlapján jegyzékben közzétett, magas művészi színvonalú nemzetközi intézmények által létrehozott dramatizált alkotásnak minősülő, az NFI-től kölcsönzött, vagy nemzetközileg elismert, a mozgóképszakmai hatóság által közzétett jegyzékben meghatározott nemzetközi filmfesztivál verseny- vagy versenyen kívüli valamely programjában szereplő filmalkotással kapcsolatos egyéb jellemzőkről.”
+
+57. § (1) A mozgóképről szóló 2004. évi II. törvény 25/C. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Az (1) bekezdés esetén újabb „art” besorolásra vonatkozó ismételt kérelem csak a visszavonást megállapító határozat közlését követő negyedévben terjeszthető elő.”
+
+(2) A mozgóképről szóló 2004. évi II. törvény 25/C. §-a a következő (4) bekezdéssel egészül ki:
+
+„(4) Amennyiben a Hatóság az „art” mozikra vonatkozó, jogszabályban meghatározott követelmények teljesítésének vizsgálata érdekében általános hatósági felügyeleti eljárást indít, abban az esetben a Hatóság a nyilvántartásba egyidejűleg bejegyzi a felfüggesztve jelzést az „art” mozihoz az általános felügyeleti eljárás befejezéséig vagy a megfelelő adatszolgáltatás teljesítéséig. Az (1) bekezdés alapján történő visszavonás tényét a Hatóság a nyilvántartásba bejegyzi, a visszavonás dátumaként az „art” mozi által utolsóként teljesített negyedévet követő első napját jegyzi be, kivéve, ha az „art” mozinak egyetlen teljesített negyedéve sem volt, mert akkor a visszavonás dátuma a mozik vagy mozitermek „art” besorolásra vonatkozó határozat véglegessé válásának a dátuma.”

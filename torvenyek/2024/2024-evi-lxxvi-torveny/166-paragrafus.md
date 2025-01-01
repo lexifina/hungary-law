@@ -1,1 +1,1 @@
-### 166. §
+166. § Nem lép hatályba az egyes felsőoktatással, szakképzéssel és felnőttképzéssel összefüggő törvények módosításáról szóló 2022. évi LIX. törvény 86. §-a, 89. § (2) bekezdése, 90. §-a és 4. melléklete.

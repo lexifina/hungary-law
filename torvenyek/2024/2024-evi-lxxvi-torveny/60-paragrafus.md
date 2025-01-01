@@ -1,1 +1,3 @@
-### 60. §
+60. § A mozgóképről szóló 2004. évi II. törvény 26/B. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A közvetlen támogatás nyújtásának feltétele a filmalkotások magyar részvételi arányok szerinti besorolása. Az (1) bekezdés szerinti besorolási eljárást lezáró hatósági határozat véglegessé válását követően a Hatóság haladéktalanul bejegyzi – hivatalból indított eljárásban – a besorolt filmalkotást és a hatósági döntés alapjául szolgáló adatokat, illetve tényeket az e törvény támogatási szabályainak hatálya alá tartozó filmalkotásokról vezetett hatósági nyilvántartásba. Amennyiben a filmalkotás a nyilvántartásban már szerepel, a Hatóság az (1) bekezdés szerinti besorolási eljárást lezáró véglegessé vált hatósági határozatban megállapított adatokkal és tényekkel egészíti ki a nyilvántartás adatait.”

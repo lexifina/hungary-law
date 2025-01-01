@@ -1,1 +1,3 @@
-### 70. §
+70. § A mozgóképről szóló 2004. évi II. törvény 31/H. §-a helyébe a következő rendelkezés lép:
+
+„31/H. § A támogatási jogosultság kiadása esetén a Hatóság az e tárgyban folytatott hatósági eljárást lezáró határozat véglegessé válását követően, hivatalból indított eljárásában haladéktalanul bejegyzi a filmalkotást és a hatósági döntés alapjául szolgáló adatokat, illetve tényeket az e törvény szerinti támogatásra jogosult filmalkotásokról vezetett nyilvántartásába. Amennyiben a filmalkotás a nyilvántartásban már szerepel, a Hatóság a támogatási igazolás kiállítására vagy a költségellenőrzésre irányuló eljárást lezáró véglegessé vált hatósági határozatban megállapított adatokkal egészíti ki a nyilvántartás adatait.”
