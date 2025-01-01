@@ -1,0 +1,3 @@
+6. § (1) E rendelet az (EU) 2018/2001 európai parlamenti és tanácsi irányelv IX. mellékletének a bioüzemanyagok és biogázok előállításához szükséges alapanyagok hozzáadása tekintetében történő módosításáról szóló, 2024. március 14-i (EU) 2024/1405 felhatalmazáson alapuló bizottsági irányelvnek való megfelelést szolgálja.
+
+(2) E rendelet a fenntarthatósági és üvegházhatásúgázkibocsátás-megtakarítási kritériumok, valamint a közvetett földhasználat-változás szempontjából vett alacsony kockázatra irányadó kritériumok ellenőrzésére vonatkozó szabályokról szóló, 2022. június 14-i (EU) 2022/996 számú bizottsági végrehajtási rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
