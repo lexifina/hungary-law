@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-110-20-
 | 2022-10-11 | 2006-110-20-22.23 | 384/2022. (X. 11.) Korm. rendelet |
 | 2023-10-27 | 2006-110-20-22.24 | 473/2023. (X. 26.) Korm. rendelet |
 | 2024-07-08 | 2006-110-20-22.25 | 537/2013. (XII. 30.) Korm. rendelet |
+| 2025-01-01 | 2006-110-20-22.26 | 372/2024. (XI. 29.) Korm. rendelet |
