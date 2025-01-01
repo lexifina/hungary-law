@@ -1,1 +1,3 @@
-1. § Az áldozatsegítő támogatások engedélyezése iránti kérelem tartalmára és kitöltésére, valamint a szolgáltatások nyújtásával kapcsolatos egyes nem hatósági eljárási kérdésekre vonatkozó szabályokról szóló 29/2017. (XII. 27.) IM rendelet 3. melléklete az 1. melléklet szerint módosul.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
