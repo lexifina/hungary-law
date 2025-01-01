@@ -4,26 +4,26 @@
 
 (2) A törzskönyv a jármű közúti forgalomban való részvételének nem feltétele.
 
-(3)[^386] A jármű átírásakor továbbá a jármű vagy a tulajdonos adatainak, valamint a törzskönyvben feltüntetett bármely más adat változásakor új törzskönyvet kell kiállítani, a korábbi törzskönyvet a közlekedési igazgatási hatóság visszavonja, érvényteleníti, selejtezi és az erre feljogosított adatfeldolgozónak megsemmisítésre megküldi.
+(3)[^387] A jármű átírásakor továbbá a jármű vagy a tulajdonos adatainak, valamint a törzskönyvben feltüntetett bármely más adat változásakor új törzskönyvet kell kiállítani, a korábbi törzskönyvet a közlekedési igazgatási hatóság visszavonja, érvényteleníti, selejtezi és az erre feljogosított adatfeldolgozónak megsemmisítésre megküldi.
 
-(3a)[^387] Ha a törzskönyv cseréjére automatikus kiállítás útján hivatalból kerül sor, az ügyfél az elkészült új törzskönyv:
+(3a)[^388] Ha a törzskönyv cseréjére automatikus kiállítás útján hivatalból kerül sor, az ügyfél az elkészült új törzskönyv:
 
 a) személyes átvétele esetén az előző törzskönyvet az új törzskönyv átvételével egyidejűleg leadja,
 
-b)[^388] postai úton történő átvétele esetén az előző törzskönyvet az új törzskönyv kézhezvételétől számított 15 napon belül, a járási (fővárosi kerületi) hivatalhoz visszaküldi, vagy ott személyesen leadja.
+b)[^389] postai úton történő átvétele esetén az előző törzskönyvet az új törzskönyv kézhezvételétől számított 15 napon belül, a járási (fővárosi kerületi) hivatalhoz visszaküldi, vagy ott személyesen leadja.
 
-(3b)[^389] Ha a törzskönyv (3) bekezdés szerinti kiállítására automatikus eljárásban kérelemre kerül sor, az ügyfél az elkészült új törzskönyv
+(3b)[^390] Ha a törzskönyv (3) bekezdés szerinti kiállítására automatikus eljárásban kérelemre kerül sor, az ügyfél az elkészült új törzskönyv
 
 a) személyes átvétele esetén az előző törzskönyvet az új törzskönyv átvételével egyidejűleg leadja,
 
 b) postai úton történő átvétele esetén az előző törzskönyvet az új törzskönyv kézhezvételétől számított 15 napon belül, bármely közlekedési igazgatási hatósághoz visszaküldi, vagy ott személyesen leadja.
 
-(3c)[^390] Ha az ügyfél az előző törzskönyv leadására vonatkozó kötelezettségének határidőn belül nem tesz eleget, a közlekedési igazgatási hatóság határozatban elrendeli az okmány visszavonását, és kötelezi az ügyfelet annak leadására.
+(3c)[^391] Ha az ügyfél az előző törzskönyv leadására vonatkozó kötelezettségének határidőn belül nem tesz eleget, a közlekedési igazgatási hatóság határozatban elrendeli az okmány visszavonását, és kötelezi az ügyfelet annak leadására.
 
 (4) Az ellenkező bizonyításáig a törzskönyvet birtokló ügyfelet jogszerű tulajdonosnak kell tekinteni.
 
-[^386]: A 81. § (3) bekezdése a 789/2021. (XII. 27.) Korm. rendelet 48. §-ával megállapított szöveg.
-[^387]: A 81. § (3a) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 36. §-a iktatta be, nyitó szövegrésze a 409/2023. (VIII. 30.) Korm. rendelet 26. § a) pontja szerint módosított szöveg.
-[^388]: A 81. § (3a) bekezdés b) pontja az 561/2023. (XII. 14.) Korm. rendelet 24. § a) pontja szerint módosított szöveg.
-[^389]: A 81. § (3b) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 36. §-a iktatta be, nyitó szövegrésze a 409/2023. (VIII. 30.) Korm. rendelet 26. § a) pontja szerint módosított szöveg.
-[^390]: A 81. § (3c) bekezdését a 628/2022. (XII. 30.) Korm. rendelet 29. § (2) bekezdése iktatta be.
+[^387]: A 81. § (3) bekezdése a 789/2021. (XII. 27.) Korm. rendelet 48. §-ával megállapított szöveg.
+[^388]: A 81. § (3a) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 36. §-a iktatta be, nyitó szövegrésze a 409/2023. (VIII. 30.) Korm. rendelet 26. § a) pontja szerint módosított szöveg.
+[^389]: A 81. § (3a) bekezdés b) pontja az 561/2023. (XII. 14.) Korm. rendelet 24. § a) pontja szerint módosított szöveg.
+[^390]: A 81. § (3b) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 36. §-a iktatta be, nyitó szövegrésze a 409/2023. (VIII. 30.) Korm. rendelet 26. § a) pontja szerint módosított szöveg.
+[^391]: A 81. § (3c) bekezdését a 628/2022. (XII. 30.) Korm. rendelet 29. § (2) bekezdése iktatta be.

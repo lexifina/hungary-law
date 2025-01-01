@@ -226,6 +226,6 @@
 
 ## A biztonsági gyártóműi jelzés ne legyen eltávolítható a rendszámtábla megsértése nélkül.
 
-11/A. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^628]
+11/A. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^629]
 
-[^628]: A 11/A. mellékletet a 303/2021. (VI. 1.) Korm. rendelet 27. § (1) bekezdése iktatta be.
+[^629]: A 11/A. mellékletet a 303/2021. (VI. 1.) Korm. rendelet 27. § (1) bekezdése iktatta be.
