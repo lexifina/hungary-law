@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-5-20-22
 | 2017-01-01 | 2011-5-20-22.12 | 486/2016. (XII. 28.) Korm. rendelet |
 | 2020-02-15 | 2011-5-20-22.13 | 13/2020. (II. 7.) Korm. rendelet |
 | 2022-07-01 | 2011-5-20-22.14 | 238/2022. (VI. 30.) Korm. rendelet |
+| 2025-01-01 | 2011-5-20-22.15 | 234/2024. (VIII. 8.) Korm. rendelet |
