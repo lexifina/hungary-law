@@ -154,9 +154,9 @@
 
 | 73. | Bezárás engedélyezése | 152 000 | A1760 |
 
-| 74. | Nemzeti és európai létfontosságú rendszerekkel és létesítményekkel kapcsolatos eljárások | Létfontosságú rendszerelemmé kijelölés | 170 000 | A1810 |
+| 74. |  |  |  |  |
 
-| 75. | Létfontosságú rendszerelem kijelölésének visszavonása | 170 000 | A1820 |
+| 75. |  |  |  |
 
 2. A bányafelügyelet hatáskörébe tartozó hatósági engedélyezési eljárások
 
@@ -260,4 +260,4 @@
 
 4. Polgári robbantási, robbanóanyag-forgalmazási tevékenység engedélyezésének díjai, egyes robbanóanyagok és tárgyak, illetve egyes anyagok besorolásának jóváhagyása
 
-[^5]: Az 1. melléklet a 33/2022. (VII. 29.) SZTFH rendelet 4. §-a és 5. §-a, a 40/2022. (XII. 19.) SZTFH rendelet 22. §-a, 23. § a)–d) pontja és 24. § a) és b) pontja, a 17/2023. (VII. 31.) SZTFH rendelet 1. és 2. §-a, a 22/2023. (XI. 21.) SZTFH rendelet 1. §-a, a 16/2024. (IX. 19.) SZTFH rendelet 17. § (1) bekezdése szerint szerint módosított szöveg.
+[^5]: Az 1. melléklet a 33/2022. (VII. 29.) SZTFH rendelet 4. §-a és 5. §-a, a 40/2022. (XII. 19.) SZTFH rendelet 22. §-a, 23. § a)–d) pontja és 24. § a) és b) pontja, a 17/2023. (VII. 31.) SZTFH rendelet 1. és 2. §-a, a 22/2023. (XI. 21.) SZTFH rendelet 1. §-a, a 16/2024. (IX. 19.) SZTFH rendelet 17. § (1) bekezdése, a 19/2024. (XII. 30.) SZTFH rendelet 1. § a) pontja szerint szerint módosított szöveg.
