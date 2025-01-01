@@ -1,4 +1,4 @@
-2/c. melléklet a 20/2021. (X. 29.) SZTFH rendelethez[^60]
+2/c. melléklet a 20/2021. (X. 29.) SZTFH rendelethez[^61]
 
 A játékosvédelmi cselekvési terv kötelező tartalmi elemei
 
@@ -12,4 +12,4 @@ A játékosvédelmi cselekvési terv kötelező tartalmi elemei
 
 5. A felelős játékszervezés elve érvényesülésének, a játékosvédelmi intézkedések gyakorlati alkalmazásának továbbfejlesztési lehetőségei.
 
-[^60]: A 2/c. mellékletet a 40/2022. (XII. 19.) SZTFH rendelet 17. § c) pontja iktatta be.
+[^61]: A 2/c. mellékletet a 40/2022. (XII. 19.) SZTFH rendelet 17. § c) pontja iktatta be.
