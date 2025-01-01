@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-29-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2024-07-01 | 2024-29-20-2C.1 | 29/2024. (VI. 24.) MNB rendelet |
+| 2025-01-01 | 2024-29-20-2C.2 | Nemzeti Jogszabálytár (egységes szerkezet) |

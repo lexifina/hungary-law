@@ -1,1 +1,3 @@
-8. §
+8. § (1) A szolgáltató Pmt. 63. § (5) bekezdése szerint kijelölt megfelelési vezetője – az ügyfél-átvilágítási követelményeknek való megfelelést szolgáló szabályzatok és eljárásrendek kidolgozására vonatkozó általános feladata részeként – gondoskodik arról, hogy a szolgáltató az elektronikus ügyfél-átvilágítási szabályzatot hatékonyan hajtsa végre, rendszeresen, jogszabályi, belső szabályozási vagy alkalmazási környezetben, a technológiában vagy munkafolyamatban bekövetkező lényegi változás esetén, de legalább évente, felülvizsgálja és aktualizálja.
+
+(2) A szolgáltató irányítási funkciót betöltő testülete jóváhagyja az elektronikus ügyfél-átvilágítási szabályzatot, a kijelölt felelős vezető útján pedig felügyeli annak végrehajtását.
