@@ -4,6 +4,6 @@
 
 (2) Egészségügyi, nevelési-oktatási intézmény, szociális otthon, pihenő, alkotó célú intézmény céljára szolgáló intézményépület a zajgátló védőövezetben nem létesíthető.
 
-(3)[^24] Ha a településen belül az intézmények elhelyezése másként nem oldható meg, a D és az E jelű – kivételesen a C jelű – övezetben a (2) bekezdés előírásaitól el lehet térni.
+(3)[^25] Ha a településen belül az intézmények elhelyezése másként nem oldható meg, a D és az E jelű – kivételesen a C jelű – övezetben a (2) bekezdés előírásaitól el lehet térni.
 
-[^24]: A 10. § (3) bekezdése a 324/2006. (XII. 23.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^25]: A 10. § (3) bekezdése a 324/2006. (XII. 23.) Korm. rendelet 4. §-ával megállapított szöveg.
