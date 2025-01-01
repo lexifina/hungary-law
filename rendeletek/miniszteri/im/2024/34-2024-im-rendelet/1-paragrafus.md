@@ -1,1 +1,3 @@
-1. § Az igazságügyi szakértői tevékenység folytatásához szükséges jogi oktatásról és vizsgáról szóló 10/2006. (III. 7.) IM rendelet 8. § (1) bekezdés c) pontjában, 9. § (2) bekezdésében, valamint 11. § (1) bekezdésében az „az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól” szövegrész helyébe az „a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
