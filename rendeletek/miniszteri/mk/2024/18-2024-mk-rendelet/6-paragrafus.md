@@ -1,0 +1,1 @@
+6. § Nem lép hatályba a biztonsági osztályba sorolás követelményeiről, valamint az egyes biztonsági osztályok esetében alkalmazandó konkrét védelmi intézkedésekről szóló 7/2024. (VI. 24.) MK rendelet 1. § (1) bekezdése.
