@@ -50,6 +50,4 @@
 
 ## „52b. Rugalmas hálózati csatlakozási szerződés: olyan korlátozott csatlakozási kapacitásról vagy korlátozott üzemeléssel biztosított csatlakozásról szóló megállapodás, amely esetében a rendszerhasználó pénzügyi ellentételezés nélkül vállalja a hálózati csatlakozási szerződésben előre rögzített feltételek szerint betáplálásának, vagy vételezésének korlátozását;”
 
-(7) A villamos energiáról szóló 2007. évi LXXXVI. törvény 3. §-a a következő 69b. ponttal egészül ki:
-
-(E törvény alkalmazásában)
+(7)

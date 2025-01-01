@@ -2,7 +2,7 @@
 
 1. 3. § 1d. pontjában a „vonatkozó, Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal)” szövegrész helyébe a „vonatkozó, a Hivatal” szöveg,
 
-2. 3. § 54b. pontjában a „gáznak minősül” szövegrész helyébe a „vagy alacsony szén-dioxid-kibocsátású gáz” szöveg,
+2.
 
 3. 16. § (1) bekezdés f) pontjában a „kapacitáslekötési” szövegrész helyébe a „rendszerhasználati” szöveg,
 

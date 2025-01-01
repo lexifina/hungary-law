@@ -21,15 +21,3 @@ való megfelelést szolgálja.
 (8) A 164. § b) pontja a hulladékokról és egyes irányelvek hatályon kívül helyezéséről szóló, 2008. november 19-ei 2008/98/EK európai parlamenti és tanácsi irányelvnek és a hulladékokról szóló 2008/98/EK irányelv módosításáról szóló, 2018. május 30-i (EU) 2018/851 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
 (9) E törvény 52. §-ának a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti előzetes bejelentése megtörtént.
-
-|
-
-Dr. Sulyok Tamás s. k.,
-
-köztársasági elnök
-
-|
-
-Dr. Latorcai János s. k.,
-
-az Országgyűlés alelnöke

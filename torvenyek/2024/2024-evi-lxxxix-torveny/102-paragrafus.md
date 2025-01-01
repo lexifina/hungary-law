@@ -1,9 +1,3 @@
-## „III/A. Fejezet
-
-## A NAGYKERESKEDELMI ENERGIAPIACOK INTEGRITÁSÁVAL ÉS ÁTLÁTHATÓSÁGÁVAL ÖSSZEFÜGGŐ FELADATOK
-
-## Általános szabályok”
-
 102. § A földgázellátásról szóló 2008. évi XL. törvény a következő 57/A. és 57/B. §-sal egészül ki:
 
 „57/A. § (1) A Hivatal a 1227/2011/EU európai parlamenti és tanácsi rendeletben (a továbbiakban: REMIT) és az EU 2024/1106 európai parlamenti és tanácsi rendeletben (a továbbiakban: REMIT módosítás) foglaltak szerint, a nagykereskedelmi energiapiacok felügyeletével kapcsolatos hatáskörében

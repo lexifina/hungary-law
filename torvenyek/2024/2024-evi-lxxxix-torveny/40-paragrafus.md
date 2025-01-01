@@ -1,5 +1,3 @@
-## „n) az átviteli hálózathoz történő csatlakozás és hozzáférés, valamint az ezekkel kapcsolatos információk biztosítása – a csatlakozás földrajzi elhelyezkedését, a csatlakozási díj hozzávetőleges mértékét, a rugalmas hálózati csatlakozási szerződés lehetőségét is ideértve –, beleértve az erőművi hálózati hozzáférés érdekében átviteli hálózaton kiadható csatlakozási kapacitás mértékének a meghatározását is,”
-
 40. § (1) A villamos energiáról szóló 2007. évi LXXXVI. törvény 21. § (2) bekezdése helyébe a következő rendelkezés lép:
 
 „(2) A termelő, a villamosenergia-kereskedő, az egyetemes szolgáltató, a felhasználó, az aggregátor, az energiaközösség, és az elosztó köteles mérlegkört alakítani, vagy az érintettek megállapodása esetén – jogszabály eltérő rendelkezése hiányában – bármely mérlegkörhöz, vagy almérlegkörhöz csatlakozni. A mérlegkört és az almérlegkört az átviteli rendszerirányító irányába a mérlegkörfelelős képviseli.”
