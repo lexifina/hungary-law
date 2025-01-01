@@ -8,7 +8,7 @@
 
 2. külföldi: az a természetes személy, akinek állandó lakóhelye külföldön van és nem tartózkodik Magyarországon 183 napnál hosszabb időtartamban; továbbá az a jogi személy, gazdálkodó szervezet vagy más személyi egyesülés, amelynek székhelye (központja) külföldön van, ide nem értve a Magyarországon működő telepeit, fiókjait, képviseleteit,
 
-3. vagyoni értékű jog: a kezelői jog, a vagyonkezelői jog, a tartós földhasználat, a haszonélvezet, a használat joga – ideértve a külföldiek ingatlanhasználati jogát is –, a földhasználat és a lakásbérlet,
+3. vagyoni értékű jog: az építményi jog, a kezelői jog, a vagyonkezelői jog, a tartós földhasználat, a haszonélvezet, a használat joga – ideértve a külföldiek ingatlanhasználati jogát is –, a földhasználat és a lakásbérlet;
 
 4. külterület: a település közigazgatási határának belterületén kívül eső földrészlete, ideértve a zártkertet is,
 
@@ -100,7 +100,7 @@ j) gyártó, forgalmazó esetén: az a) és e)–i) alpontok szerinti nettó ár
 
 23. háziorvos, védőnő vállalkozó: az a vállalkozó, aki/amely – gazdálkodó szervezetként vagy egyéni vállalkozóként – külön jogszabály alapján háziorvosi, házi gyermekorvosi, fogorvosi alapellátási vagy védőnői tevékenységet végez és nettó árbevételének legalább 80%-a e tevékenység (tevékenységek) végzésére vonatkozó, az egészségbiztosítási szervvel kötött finanszírozási szerződés alapján az Egészségbiztosítási Alapból származik;
 
-24. építőipari tevékenység: a Gazdasági Tevékenységek Egységes Osztályozási Rendszere 2008. január 1-jétől hatályos (TEÁOR'08) besorolása szerint a 41–43. ágazatokba sorolt tevékenységek összessége;
+24. építőipari tevékenység: a Gazdasági Tevékenységek Egységes Osztályozási Rendszere 2025. január 1-jétől hatályos TEÁOR ’25 besorolása szerint a 41–43. ágazatokba sorolt tevékenységek összessége;
 
 25. alapkutatás, alkalmazott kutatás, kísérleti fejlesztés közvetlen költsége: a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 7. § (1) bekezdés t) pontja szerint az adózás előtti eredményt csökkentő összeg, azzal, hogy a helyi iparűzési adóalap megállapítása során a felmerült költséget csak egyszer lehet figyelembe venni;
 
@@ -126,13 +126,13 @@ d) egyéni cég, egyéb szervezet, ideértve azt is, ha azok felszámolás, kén
 
 b) azon távközlési tevékenységet végző vállalkozó esetén, amelynek
 
-ba) az adóévben a számviteli törvény szerinti nettó árbevétele legalább 75%-ban vezeték nélküli távközlési tevékenységből [TEÁOR'08 61.2] származik (vezeték nélküli távközlési tevékenységet végző vállalkozó)
+ba) az adóévben a számviteli törvény szerinti nettó árbevétele legalább 75%-ban vezeték nélküli távközlési tevékenységből TEÁOR ’25 61.1 származik (vezeték nélküli távközlési tevékenységet végző vállalkozó)
 
 baa) az a) pont szerinti telephely és
 
 bab) azon önkormányzat illetékességi területe, ahol az adóév első napján utólag fizetett díjú vezeték nélküli távközlési szolgáltatást igénybe vevő előfizetőjének (vezeték nélküli távközlési szolgáltatást igénybe vevő előfizető) számlázási címe található,
 
-bb) az adóévben a számviteli törvény szerinti nettó árbevételének kevesebb, mint 75%-a származik vezeték nélküli távközlési tevékenységből [TEÁOR'08 61.2] (vezetékes távközlési tevékenységet végző vállalkozó), azon önkormányzat illetékességi területe, ahol az adóév első napján előfizetőjének távközlési szolgáltatást nyújt (vezetékes távközlési szolgáltatást igénybe vevő előfizető), valamint – ha a vállalkozó vezeték nélküli távközlési tevékenységet is végez – azon önkormányzat illetékességi területe, ahol a vezeték nélküli távközlési szolgáltatást igénybe vevő előfizetőjének adóév első napján a számlázási címe található,
+bb) az adóévben a számviteli törvény szerinti nettó árbevételének kevesebb, mint 75%-a származik vezeték nélküli távközlési tevékenységből TEÁOR '25 61.1 (vezetékes távközlési tevékenységet végző vállalkozó), azon önkormányzat illetékességi területe, ahol az adóév első napján előfizetőjének távközlési szolgáltatást nyújt (vezetékes távközlési szolgáltatást igénybe vevő előfizető), valamint – ha a vállalkozó vezeték nélküli távközlési tevékenységet is végez – azon önkormányzat illetékességi területe, ahol a vezeték nélküli távközlési szolgáltatást igénybe vevő előfizetőjének adóév első napján a számlázási címe található,
 
 c) a villamos energiáról szóló törvény szerinti egyetemes szolgáltató, villamosenergia-kereskedő és villamos energia elosztó hálózati engedélyes, továbbá a földgázellátásról szóló törvény szerinti egyetemes szolgáltató, földgázkereskedő és földgázelosztói engedélyes esetén azon önkormányzat illetékességi területe, ahol villamos energia vagy földgáz értékesítése, illetve a villamos energia vagy földgáz elosztása a végső fogyasztó, a végső felhasználó (a továbbiakban együttesen: a végső fogyasztó) részére történik, feltéve, hogy a villamosenergia-kereskedő, a földgázkereskedő, a villamos energia egyetemes szolgáltató, a földgáz egyetemes szolgáltató, illetve a villamosenergia elosztó hálózati engedélyes, a földgázelosztói engedélyes adóévet megelőző adóévi számviteli törvény szerinti nettó árbevételének legalább 75%-a közvetlenül a végső fogyasztónak történő értékesítésből, illetve a végső fogyasztó számára történő elosztásból származik;
 
@@ -190,7 +190,7 @@ b) az a) pontban említett kizárólagos jogok értékesítéséből
 
 származó ellenérték (bevétel);
 
-52. sportvállalkozás: főtevékenységként sporttevékenységet [TEÁOR '08 93.1] végző, a sportról szóló törvény szerinti azon sportvállalkozás, amely az adóévben indult mindazon sportág sportszövetsége által kiírt, szervezett, rendezett vagy engedélyezett versenyrendszerben, amely sportágban versenyző játékjogának használati jogával rendelkezik;
+52. sportvállalkozás: főtevékenységként sporttevékenységet TEÁOR ’25 93.1 végző, a sportról szóló törvény szerinti azon sportvállalkozás, amely az adóévben indult mindazon sportág sportszövetsége által kiírt, szervezett, rendezett vagy engedélyezett versenyrendszerben, amely sportágban versenyző játékjogának használati jogával rendelkezik;
 
 53. közszolgálati kötelezettség:
 
@@ -230,11 +230,11 @@ keretében végzett kötelezettség;
 
 55. alapítvány: az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény (a továbbiakban: Civil törvény) szerinti közhasznú jogállású alapítvány, továbbá a más EGT-államban nyilvántartásba vett alapítvány, ha igazolja, hogy teljesíti a Civil törvény szerinti közhasznú szervezetté történő minősítés feltételeit, ide nem értve a magyarországi nyilvántartásba vételt;
 
-56. különleges gazdasági övezet: a különleges gazdasági övezetről és a hozzá kapcsolódó egyes törvények módosításáról szóló törvény felhatalmazása alapján alkotott kormányrendeletek szerinti különleges gazdasági övezet;
+56.
 
-57. települési önkormányzat illetékességi területe: az önkormányzat közigazgatási határa által behatárolt – bel- és külterületet magában foglaló – térség, amelyre az önkormányzati hatáskör kiterjed, ide nem értve a különleges gazdasági övezet területét;
+57. települési önkormányzat illetékességi területe: az önkormányzat közigazgatási határa által behatárolt – bel- és külterületet magában foglaló – térség, amelyre az önkormányzati hatáskör kiterjed;
 
-58. vármegyei önkormányzat illetékességi területe: a vármegyei önkormányzat közigazgatási határa által behatárolt – bel- és külterületet magában foglaló – térségben lévő különleges gazdasági övezet területe;
+58.
 
 59. légi személyszállítást végző vállalkozó: az a vállalkozó, amely nettó árbevételének legalább 75%-a az adóévben légi személyszállítási szolgáltatásból és azzal együtt nyújtott szolgáltatásokból származik.
 
@@ -244,7 +244,7 @@ keretében végzett kötelezettség;
 
 62. építőipari tevékenységet folytató vállalkozó: az a vállalkozó, akinek (amelynek) az adóévben a számviteli törvény szerinti értékesítés nettó árbevétele és az adóév utolsó napján készletre vett befejezetlen termelés, félkésztermék, késztermék értékének együttes összege legalább 75%-ban építőipari tevékenységből [52. § 24. pont] származik,
 
-63. távközlési tevékenységet végző vállalkozó: a TEÁOR'08 szerint a 61. ágazatba sorolt tevékenységet (távközlési tevékenység) végző azon vállalkozó, amelynek az adóévet megelőző adóévi számviteli törvény szerinti nettó árbevételéből legalább 75% távközlési tevékenységből származik,
+63. távközlési tevékenységet végző vállalkozó: a TEÁOR ’25 szerint a 61. ágazatba sorolt tevékenységet (távközlési tevékenység) végző azon vállalkozó, amelynek az adóévet megelőző adóévi számviteli törvény szerinti nettó árbevételéből legalább 75% távközlési tevékenységből származik,
 
 64. előfizető: az elektronikus hírközlésről szóló törvény szerinti előfizető.
 

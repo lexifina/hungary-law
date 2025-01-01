@@ -14,7 +14,7 @@ e) a helyi adónem, a települési adónem pénzforgalmi jelzőszámáról,
 
 f) határozott időszakra megállapított adómérték, adómentesség, adókedvezmény esetén a határozott időszak lejártának időpontjáról.
 
-(2) A kincstár a hozzá beérkezett adatokat és elérhetőségi információkat feldolgozza és a honlapján – települések (a fővárosban a fővárosi, illetve kerületi önkormányzatok), illetve különleges gazdasági övezetek szerinti bontásban – elektronikus úton feldolgozható és letölthető formátumban is közzéteszi. A kincstár a honlapján közzétett adatokat és elérhetőségi információkat az (1) bekezdés szerint beérkezett adatokkal havonta, a jegyző, főjegyző adatszolgáltatását követő hónap 5. napjáig módosítja.
+(2) A kincstár a hozzá beérkezett adatokat és elérhetőségi információkat feldolgozza és a honlapján – települések (a fővárosban a fővárosi, illetve kerületi önkormányzatok) szerinti bontásban – elektronikus úton feldolgozható és letölthető formátumban is közzéteszi. A kincstár a honlapján közzétett adatokat és elérhetőségi információkat az (1) bekezdés szerint beérkezett adatokkal havonta, a jegyző, főjegyző adatszolgáltatását követő hónap 5. napjáig módosítja.
 
 (3) A jegyző, főjegyző (1) bekezdés szerinti adatszolgáltatása teljesítésével egyidejűleg az önkormányzat honlapján közzéteszi az adórendelet szövegét, az adórendelet módosításokkal egységes szerkezetbe foglalt szövegét, valamint a rendszeresített bevallási, adatbejelentési, bejelentkezési nyomtatványokat, az elérhetőségi információkat, feltéve, hogy az önkormányzat honlapot üzemeltet.
 
