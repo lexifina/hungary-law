@@ -18,6 +18,8 @@ c) az Áfa tv. szerinti összesítő jelentés benyújtására köteles, vagy
 
 d) a Dáptv. alapján elektronikus ügyintézésre köteles.
 
+e) az Áfa tv. 195/A. § (1) bekezdése szerinti adómentességet választ.
+
 (5) Az elektronikus kapcsolattartásra kötelezett adózó meghatalmazottjával az adóhatóság elektronikus úton tart kapcsolatot. Ha a meghatalmazott a (4) bekezdés szerint elektronikus kapcsolattartásra kötelezett, – függetlenül a képviselt adózóra vonatkozó kapcsolattartási szabályoktól – az állami adó- és vámhatóság elektronikus úton tart vele kapcsolatot.
 
 (6) Az adóhatóság akkor is elektronikus úton tart kapcsolatot az egyéni vállalkozóval, valamint a Dáptv. szerinti jogi képviselővel, ha az nem egyéni vállalkozói tevékenységével összefüggésben, illetve nem jogi képviselői minőségében jár el.

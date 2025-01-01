@@ -4,7 +4,7 @@
 
 (2) A fellebbezést a megtámadott döntést hozó adóhatóságnál kell előterjeszteni. A fellebbezési határidőt megtartottnak kell tekinteni, ha a határidőben benyújtott fellebbezés iránti kérelmet nem a hatáskörrel és illetékességgel rendelkező szervnél terjesztették elő.
 
-(3) A fellebbezésben és a fellebbezés alapján indult eljárásban – semmisségi okon kívül – nem lehet olyan új tényt állítani, illetve olyan új bizonyítékra hivatkozni, amelyről a fellebbezésre jogosultnak az elsőfokú döntés meghozatala, ellenőrzés esetén az észrevétel benyújtására nyitva álló határidő letelte előtt tudomása volt, azonban a bizonyítékot az adóhatóság felhívása ellenére nem terjesztette elő, a tényre nem hivatkozott.
+(3) A fellebbezésben és a fellebbezés alapján indult eljárásban – semmisségi okon kívül – nem lehet olyan új tényt állítani, illetve olyan új bizonyítékra hivatkozni, amelyről a fellebbezésre jogosultnak az elsőfokú döntés meghozatala, ellenőrzés esetén az észrevétel benyújtására nyitva álló határidő letelte előtt tudomása volt, azonban a bizonyítékot az adóhatóság felhívása ellenére nem terjesztette elő, a tényre nem hivatkozott. Az e bekezdésben foglaltak nem alkalmazhatóak az Áfa tv. XVIII. Fejezete szerinti adó-visszatéríttetési eljárásokban.
 
 (4) A (3) bekezdés szerinti felhívásnak tartalmaznia kell azoknak a megállapításoknak és körülményeknek a bemutatását, amelyekkel összefüggésben az adóhatóság az adózót a bizonyítékok előterjesztésére felhívja, valamint tartalmaznia kell a jogkövetkezményekre történő figyelmeztetést.
 

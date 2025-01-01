@@ -10,4 +10,6 @@ c) vizsgálhatja a gazdasági események valódiságát;
 
 d) adatokat gyűjthet az ellenőrzési tevékenysége támogatása érdekében, így különösen becslési adatbázis létrehozásához, karbantartásához.
 
+e) ellenőrizheti, hogy az adózó eleget tett-e a szokásos piaci ár meghatározásával összefüggő nyilvántartási és adatszolgáltatási kötelezettségének, illetve e nyilvántartással összefüggő iratmegőrzési kötelezettségének, továbbá ellenőrizheti az adózó e nyilvántartásában szereplő adatok, tények, körülmények valóságtartalmát, illetve ezek hitelességét.
+
 (2) Az adóhatóság az állami adó- és vámhatóság nyomozó hatósági hatáskörrel felruházott szerve által feltárt adatok és bizonyítékok alapján bűncselekmény elkövetési értékének megállapítása céljából is vizsgálhatja gazdasági események valódiságát jogkövetési vizsgálat keretében.

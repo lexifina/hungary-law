@@ -30,4 +30,6 @@ a) a hiánypótlásra és a tényállás tisztázásához szükséges adatok kö
 
 b) a próbagyártás időtartama.
 
+c) az e-pénztárgép és a vevői alkalmazás forgalmazásának engedélyezésére irányuló eljárásban a típusvizsgálat időtartama.
+
 (6) Ha jogszabály valamely eljárási cselekmény teljesítésének határidejéről nem rendelkezik, az adóhatóság, az adózó és az eljárás egyéb résztvevője azonnal, de legkésőbb nyolc napon belül gondoskodik arról, hogy az eljárási cselekményt teljesítse, vagy a végzést meghozza.
