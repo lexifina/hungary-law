@@ -32,4 +32,6 @@
 
 16.
 
-17.
+17. 1. melléklet 1. pont 1.3. alpontjában az „adóazonosító számát” szövegrész helyébe az „adóazonosító számát, és a közös hozzáadottértékadó-rendszerről szóló, 2006. november 28-i 2006/112/EK tanácsi irányelv 284. cikk (3) bekezdésének megfelelően megállapított egyedi azonosítószámát, ha ilyennel rendelkezik” szöveg
+
+lép.
