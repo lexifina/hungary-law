@@ -4,7 +4,7 @@
 
 a) a szolgálati beosztásuk alól mentesítettek, vagy a hivatásos állományba vételt megelőzően nappali képzésben résztvevők esetében a tanulmányok idejére folyósított illetmény, külön juttatás,
 
-b) a szolgálati beosztásuk ellátása mellett levelező vagy esti tagozaton tanulók esetében a tanulmányi munkaidő-kedvezmény tartamára járó távolléti díj,
+b)[^30] a szolgálati beosztásuk ellátása mellett levelező vagy esti tagozaton tanulók, illetve a felnőttképzésben résztvevők esetében a tanulmányi munkaidő-kedvezmény tartamára járó távolléti díj,
 
 c) a külföldi tanulmányokat folytatók esetében az a) pontban meghatározott juttatások, valamint a külföldi napidíjat illetően a devizaellátmánynak a visszafizetés esedékessé válásának napján érvényes MNB középárfolyamon forintra átszámított összege,
 
@@ -21,3 +21,5 @@ e) a tanulmányi szerződésben vagy megállapodásban rögzített egyéb pénzb
 (5) A tanulmányi támogatás pénzbeni értékéről a hivatásos állomány tagját terhelő megtérítési kötelezettség összegének megállapíthatósága érdekében a gazdasági szerv nyilvántartást vezet. A nyilvántartást a képzést végén, a felsőoktatásban folytatott tanulmányok esetén minden tanulmányi félév végén le kell zárni, és a hivatásos állomány tagjával dokumentált módon közölni kell.
 
 (6) A tanulmányi támogatás visszatérítésére az állományilletékes parancsnoknak írásban kell a hivatásos állomány tagját felszólítania. Az igény érvényesítésére a kártérítésre vonatkozó szabályok szerint kell eljárni.
+
+[^30]: A 39. § (1) bekezdés b) pontja a 62/2024. (XII. 30.) BM rendelet 42. §-ával megállapított szöveg.
