@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-49-20-5
 | 2023-08-11 | 2018-49-20-5H.5 | 28/2023. (VIII. 10.) BM rendelet |
 | 2024-01-01 | 2018-49-20-5H.6 | 70/2023. (XII. 23.) BM rendelet |
 | 2024-09-06 | 2018-49-20-5H.8 | 41/2024. (IX. 5.) BM rendelet |
+| 2025-01-01 | 2018-49-20-5H.7 | 70/2023. (XII. 23.) BM rendelet |
