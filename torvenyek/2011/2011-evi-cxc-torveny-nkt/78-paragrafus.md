@@ -54,4 +54,4 @@ ha bebizonyosodik, hogy a vizsgát jogellenesen szervezték meg, bonyolították
 
 (11) Az érvénytelenné nyilvánított bizonyítványt be kell vonni és meg kell semmisíteni. A köznevelésért felelős miniszter határozatát – indokolás nélkül – a Magyarország hivatalos lapja mellékleteként megjelenő Hivatalos Értesítőben közzéteszi.
 
-(12) A köznevelésért felelős miniszter az Alaptörvényben meghatározott rendkívüli állapot, szükségállapot esetén határozatban írja elő a köznevelési intézmények működésével, működtetésével, a nevelési év, tanítási év megszervezésével kapcsolatos feladatokat. A miniszter elrendelheti a határozat azonnali végrehajtását. A határozat közlése elektronikus úton is történhet.
+(12) A köznevelésért felelős miniszter az Alaptörvényben meghatározott különleges jogrend esetén határozatban írja elő a köznevelési intézmények működésével, működtetésével, a nevelési év, tanítási év megszervezésével kapcsolatos feladatokat. A miniszter elrendelheti a határozat azonnali végrehajtását. A határozat közlése elektronikus úton is történhet.

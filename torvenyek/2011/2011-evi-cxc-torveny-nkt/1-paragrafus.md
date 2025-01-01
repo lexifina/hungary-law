@@ -6,4 +6,4 @@
 
 (3) A nevelési-oktatási intézmények pedagógiai kultúráját az egyéni bánásmódra való törekvés, a gyermek, a tanuló elfogadása, a bizalom, a szeretet, az empátia, az életkornak megfelelő követelmények támasztása, a feladatok elvégzésének ellenőrzése és a gyermek, tanuló fejlődését biztosító sokoldalú, a követelményekhez igazodó értékelés jellemzi.
 
-(4) Az állam – az általános rendőrségi feladatok ellátására létrehozott szerv közreműködésével – biztosítja, hogy a pedagógus és a nevelő-oktató munkát közvetlenül segítő munkakörben alkalmazott személy munkáját biztonságos, emberi méltóságát, személyhez fűződő jogait tiszteletben tartó, nyugodt körülmények között végezhesse.
+(4) Az állam – az általános rendőrségi feladatok ellátására létrehozott szerv közreműködésével – biztosítja, hogy a pedagógus és a nevelő-oktató munkát közvetlenül segítő munkakörben alkalmazott személy a munkáját, a tanuló a nevelési-oktatási intézményben és a nevelési-oktatási intézmény által szervezett foglalkozás helyszínén a tanulmányait biztonságos, az emberi méltóságát, személyhez fűződő jogait tiszteletben tartó, nyugodt körülmények között végezhesse.

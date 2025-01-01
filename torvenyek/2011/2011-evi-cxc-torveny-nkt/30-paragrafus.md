@@ -16,6 +16,8 @@ c) a vármegyére, fővárosra kiterjedő veszélyhelyzet esetében a hivatal
 
 rendkívüli szünetet rendel el.
 
+(5a) Ha az (5) bekezdés szerint elrendelt rendkívüli szünet időtartama előreláthatólag meghaladja a 3 tanítási napot, akkor e körülményről a rendkívüli szünetet elrendelő személy vagy szerv elektronikus úton haladéktalanul értesíti a köznevelésért felelős minisztert, aki a 3 tanítási napot meghaladó rendkívüli szünetet követően, azt felváltva tantermen kívüli, digitális munkarendben történő oktatást rendelhet el. A miniszter a tantermen kívüli, digitális munkarendben történő oktatásról szóló döntés azonnali végrehajtását rendelheti el. A döntés közlése elektronikus úton is történhet.
+
 (6) Ha előre nem látható és el nem hárítható okból a tanítási évben a tantárgyi követelmények átadása nem biztosítható, a köznevelésért felelős miniszter rendeletében az elmaradt tanítási napok pótlása céljából a tanítási évet legfeljebb július 15-ig meghosszabbítja. Ebben az esetben a 30. § (1) bekezdése szerinti, a nyári szünet legkisebb mértékét meghatározó rendelkezés nem alkalmazandó.
 
 (7) A (6) bekezdés szerinti rendeletet legkésőbb tárgyév április 30-ig kell kihirdetni.

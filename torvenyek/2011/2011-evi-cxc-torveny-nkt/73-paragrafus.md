@@ -6,7 +6,7 @@
 
 (3) Az iskolában a helyi közösségek érdekeinek képviseletére a szülők, a tanulók, a nevelőtestület, az intézmény székhelye szerinti települési önkormányzat, egyházi jogi személyek azonos számú képviselőjéből és a fenntartó delegáltjából álló intézményi tanács hozható létre.
 
-(4) Amennyiben a (3) bekezdésben meghatározott feltételek nem teljesülnek, abban az esetben az intézményi tanácsot a szülők, a nevelőtestület és az intézmény székhelye szerinti települési önkormányzat azonos számú delegáltjából kell létrehozni.
+(4) Amennyiben a (3) bekezdésben meghatározott feltételek nem teljesülnek, abban az esetben az intézményi tanácsot a szülők, a nevelőtestület és az intézmény székhelye szerinti települési önkormányzat azonos számú delegáltjából lehet létrehozni.
 
 (4a) Ha az iskola nemzetiségi nevelési-oktatási feladatot is ellát, de nem nemzetiségi önkormányzat tartja fenn, az intézményi tanácsba az egyes delegálók által delegált személyekkel azonos létszámú tagot delegál az érintett települési nemzetiségi önkormányzat, annak hiányában a településen működő érintett nemzetiségi civil szervezet.
 

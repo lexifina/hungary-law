@@ -38,6 +38,12 @@ kapcsolatban.
 
 (8) A köznevelési intézmény fenntartója az intézkedés tervezett végrehajtása éve februárjának utolsó munkanapjáig kezdeményezheti egy másik köznevelési intézmény fenntartójánál, hogy az általa fenntartott intézmény fenntartói jogait és kötelezettségeit a következő tanévtől adja át.
 
+(8a) Az egyházi jogi személy, nemzetiségi önkormányzati és a magánfenntartó a (8) bekezdés szerinti kezdeményezés elfogadása, valamint az alapítói és tulajdonosi joggyakorlásban történő változásra vonatkozó megállapodás alapján március utolsó napjáig kérheti a köznevelésért felelős minisztertől a fenntartóváltás, valamint a fenntartó alapítói és tulajdonosi joggyakorlásában bekövetkező változtatás engedélyezését. A kérelemről a köznevelésért felelős miniszter április utolsó munkanapjáig dönt. A miniszteri engedély hiányában a változtatásra nem kerülhet sor.
+
+(8b) Az egyházi jogi személy vagy nemzetiségi önkormányzati fenntartót érintő kérelem esetén a köznevelésért felelős miniszter az egyházpolitikáért és nemzetiségpolitikáért felelős miniszter előzetes véleményének kikérésével és figyelembevételével hozza meg e döntését. A vélemény hiányában a döntés nem hozható meg.
+
+(8c) Belső egyházi jogi személy vallási közösségen belüli fenntartóváltására a (8a) bekezdésben foglaltakat nem kell alkalmazni.
+
 (9) A települési önkormányzat, az állami fenntartó a nemzetiségek jogairól szóló törvény szerinti nemzetiségi köznevelési intézmény
 
 a) létesítésével, megszüntetésével, átszervezésével, nevének megállapításával,

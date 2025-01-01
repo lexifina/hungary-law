@@ -8,7 +8,7 @@ a) a gyermek, tanuló neve, születési helye és ideje, anyja születési csal�
 
 b) a gyermek, tanuló szülőjének, értesítendő hozzátartozójának, a rá tekintettel családi pótlékra jogosult személynek neve, születési helye és ideje, anyja születési családi és utóneve, lakóhelye, tartózkodási helye, telefonszáma, elektronikus levelezési címe,
 
-c) a gyermek óvodai fejlődésével kapcsolatos adatok,
+c) a gyermek óvodai fejlődésével kapcsolatos adatok, ennek keretében az, hogy a gyermek igénybe vette-e és milyen időtartamban a Biztos Kezdet Gyerekházak szolgáltatásait,
 
 d) a gyermek óvodai jogviszonyával, a tanuló tanulói jogviszonyával kapcsolatos adatok:
 
@@ -51,6 +51,8 @@ f) az országos mérés-értékelés adatai,
 g) azt, hogy a tanuló hányadik évfolyamon, mely országban vett részt a 9. § (4) bekezdése alapján szervezett határon túli kiránduláson,
 
 h) azt, hogy a tanuló hányadik évfolyamon, mely országban vett részt külföldi tanulmányúton,
+
+i) azt, hogy a tanuló igénybe vette vagy veszi a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény szerinti tanoda szolgáltatásait, és milyen időtartamban.
 
 (3) A pedagógiai szakszolgálati intézmény – az integrált nyomon követő rendszer (a továbbiakban: INYR) működtetése érdekében – a (2) bekezdésben meghatározott adatokon kívül
 
