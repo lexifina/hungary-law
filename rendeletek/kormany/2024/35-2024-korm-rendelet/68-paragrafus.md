@@ -18,6 +18,4 @@ c) az egészségügyi biztosítotti jogviszonyt igazoló okiratot.
 
 (2) A nemzeti tartózkodási kártya iránti kérelem benyújtásakor a kérelmezőnek mellékelnie kell a Magyarországra történő beutazását megelőző állandó vagy szokásos tartózkodási helye szerinti ország hatósága által kiállított, büntetlen előéletet igazoló, hat hónapnál nem régebbi okiratot. A tizennegyedik életévét be nem töltött kiskorú kérelmező mentesül a büntetlen előéletet igazoló okirat benyújtásának kötelezettsége alól.
 
-(3)[^13]
-
-[^13]: A 68. § (3) bekezdése a 259. § (2) bekezdés alapján 2025. január 1-jén lép hatályba.
+(3) Ha a nemzeti tartózkodási kártya vagy az EU tartózkodási kártya iránti kérelem esetén e rendelet szerint társadalmi együttélési feltételeket kell teljesíteni, a kérelmező a 81. § (8) bekezdése szerinti jegyzőkönyv másolatával igazolja a kulturális ismereti vizsga sikeres teljesítésének tényét.

@@ -50,4 +50,6 @@ d) 92. alcímét
 
 (9) A 2024. március 1. és 2024. április 1. között lejáró tartózkodási engedélyre vonatkozó, a Tv. 287. §-a szerinti kérelmet legkésőbb a tartózkodási engedély érvényességi idejének utolsó napján kell benyújtani.
 
-(10) A 17. § (1) bekezdés b) pontja és a 19. § (1) bekezdés b) pontja szerinti visszafogadási egyezmény megkötésére irányuló szándékot 2024. december 31-ig kell kinyilvánítani.
+(10)[^30]
+
+[^30]: A 260. § (10) bekezdését a 450/2024. (XII. 23.) Korm. rendelet 5. § c) pontja hatályon kívül helyezte.

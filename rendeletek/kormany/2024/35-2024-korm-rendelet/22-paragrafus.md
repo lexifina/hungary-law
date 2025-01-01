@@ -20,6 +20,8 @@ a) jogutód nélkül megszűnt,
 
 b) a foglalkoztató azt kéri,
 
-c) a foglalkoztató nem felel meg a Tv. 30. § (2) bekezdésében foglaltaknak.
+c)[^8] a foglalkoztató nem felel meg a Tv. 30. § (2) és (3) bekezdésében foglaltaknak.
 
 (10) A foglalkoztató nyilvántartásból törlése nem mentesít a kiszabott díj megfizetése alól.
+
+[^8]: A 22. § (9) bekezdés c) pontja a 479/2024. (XII. 31.) Korm. rendelet 81. § a) pontja szerint módosított szöveg.

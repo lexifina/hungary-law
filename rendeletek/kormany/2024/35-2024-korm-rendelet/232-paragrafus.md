@@ -16,6 +16,6 @@ g) jogosultja meghalt,
 
 h) jogosultja magyar állampolgárságot szerzett, vagy
 
-i)[^24] a Tv.-ben meghatározott esetek valamelyike fennáll.
+i)[^21] a Tv.-ben meghatározott esetek valamelyike fennáll.
 
-[^24]: A 232. § i) pontja a 166/2024. (VI. 28.) Korm. rendelet 23. § g) pontja szerint módosított szöveg.
+[^21]: A 232. § i) pontja a 166/2024. (VI. 28.) Korm. rendelet 23. § g) pontja szerint módosított szöveg.
