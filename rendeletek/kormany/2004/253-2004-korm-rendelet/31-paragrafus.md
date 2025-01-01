@@ -1,4 +1,4 @@
-31. §[^137] (1) A lőfegyver színházi és hagyományőrző használati célú tartására jogosító engedély kizárólag színház, színpadi és egyéb előadások megtartásával foglalkozó vagy filmforgatásban közreműködő gazdálkodó szervezet, illetve hagyományőrző egyesület számára adható meg.
+31. §[^138] (1) A lőfegyver színházi és hagyományőrző használati célú tartására jogosító engedély kizárólag színház, színpadi és egyéb előadások megtartásával foglalkozó vagy filmforgatásban közreműködő gazdálkodó szervezet, illetve hagyományőrző egyesület számára adható meg.
 
 (2) Színházi és hagyományőrző használati célra kizárólag
 
@@ -8,4 +8,4 @@ b) az egyes törvényeknek a fegyverek megszerzésének és tartásának ellenő
 
 tartása engedélyezhető.
 
-[^137]: A 31. § a 326/2020. (VII. 1.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^138]: A 31. § a 326/2020. (VII. 1.) Korm. rendelet 12. §-ával megállapított szöveg.

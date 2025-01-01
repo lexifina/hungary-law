@@ -1,4 +1,4 @@
-22. §[^102] Lőfegyver, lőszer tartása munkavégzési célra engedélyezhető
+22. §[^103] Lőfegyver, lőszer tartása munkavégzési célra engedélyezhető
 
 a) lőfegyver-kereskedő egyéni vállalkozónak, lőszerpróbára,
 
@@ -10,4 +10,4 @@ d) annak a személynek, akinek a foglalkozása gyakorlásához a szolgálati lő
 
 e) a vadon élő állat gyérítésére jogosultnak a gyérítéshez jogszerűen használható lőfegyverre és az ahhoz tartozó lőszerre vonatkozóan.
 
-[^102]: A 22. § az 569/2022. (XII. 23.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^103]: A 22. § az 569/2022. (XII. 23.) Korm. rendelet 14. §-ával megállapított szöveg.

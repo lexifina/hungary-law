@@ -8,7 +8,7 @@ c)[^97] az Ftv. 2. § 44. pontjában meghatározott tevékenység végzésére.
 
 (2)[^98] A házilagos lőszerszerelésre és -újratöltésre jogosító engedély birtokában kizárólag az engedélyes lőfegyvertartási engedélyébe bejegyzett lőfegyverhez tartozó (használható) – a (3) bekezdés a) pontjának hatálya alá nem tartozó – lőszer házilagos szerelése és újratöltése végezhető.
 
-(3) A lőszer házilagos szerelése és újratöltése jogosító engedély birtokában sem engedélyezett
+(3)[^99] A lőszer házilagos szerelésére és -újratöltésére jogosító engedély birtokában sem engedélyezett
 
 a) peremgyújtású lőszer házilagos szerelése és újratöltése,
 
@@ -22,3 +22,4 @@ c) a lőpor és a csappantyú közforgalmú közlekedési eszközön történő 
 [^96]: A 20/B. § (1) bekezdés b) pontja a 371/2016. (XI. 29.) Korm. rendelet 22. § b) pontja szerint módosított szöveg.
 [^97]: A 20/B. § (1) bekezdés c) pontja a 102/2012. (V. 18.) Korm. rendelet 14. §-a szerint módosított szöveg.
 [^98]: A 20/B. § (2) bekezdése a 295/2024. (X. 9.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^99]: A 20/B. § (3) bekezdés nyitó szövegrésze a 479/2024. (XII. 31.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
