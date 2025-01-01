@@ -1,1 +1,3 @@
-1. § A Vásárhelyi-terv keretében megvalósuló Szamos-Krasznaközi árvízi tározó területével érintett földrészletek jegyzékéről, valamint az egyszeri térítés, az igénybevétel és a kártalanítás részletes szabályairól szóló 13/2010. (V. 6.) KvVM–FVM együttes rendelet 4. §-ában a „Műszaki Irányító Törzs (a továbbiakban: OMIT)” szövegrész helyébe a „Vízügyi Irányító Törzs (a továbbiakban: OVIT)” szöveg, az „az OMIT” szövegrész helyébe az „az OVIT” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
