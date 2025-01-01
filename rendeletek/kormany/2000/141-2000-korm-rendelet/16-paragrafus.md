@@ -1,8 +1,8 @@
-## 15. §[^75] A kormányhivatal soron kívüli felülvizsgálatot indít, ha tudomására jut, hogy a fogyatékossági támogatásban részesülő személy a támogatást jogalap nélkül veszi igénybe. Az eljárásra a felülvizsgálat szabályait kell megfelelően alkalmazni.
+## 15. §[^74] A kormányhivatal soron kívüli felülvizsgálatot indít, ha tudomására jut, hogy a fogyatékossági támogatásban részesülő személy a támogatást jogalap nélkül veszi igénybe. Az eljárásra a felülvizsgálat szabályait kell megfelelően alkalmazni.
 
 ## Egyéb eljárási szabályok
 
-16. §[^76]
+16. §[^75]
 
-[^75]: A 15. § a 360/2019. (XII. 30.) Korm. rendelet 17. § (4) bekezdés a) pontja szerint módosított szöveg. Alkalmazásra lásd e módosító rendelet 203. §-át.
-[^76]: A 16. §-t a 379/2016. (XII. 2.) Korm. rendelet 39. § (7) bekezdés b) pontja hatályon kívül helyezte.
+[^74]: A 15. § a 360/2019. (XII. 30.) Korm. rendelet 17. § (4) bekezdés a) pontja szerint módosított szöveg. Alkalmazásra lásd e módosító rendelet 203. §-át.
+[^75]: A 16. §-t a 379/2016. (XII. 2.) Korm. rendelet 39. § (7) bekezdés b) pontja hatályon kívül helyezte.

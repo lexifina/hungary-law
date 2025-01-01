@@ -25,3 +25,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-141-20-
 | 2023-01-01 | 2000-141-20-22.30 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2024-01-01 | 2000-141-20-22.31 | 616/2023. (XII. 22.) Korm. rendelet |
 | 2024-03-01 | 2000-141-20-22.32 | 95/2013. (III. 29.) Korm. rendelet |
+| 2025-01-01 | 2000-141-20-22.33 | 104/2024. (V. 9.) Korm. rendelet |
