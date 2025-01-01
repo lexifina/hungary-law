@@ -34,23 +34,23 @@ b) a munkavállalónak az optimálisnál nagyobb vagy kisebb igénybevételének
 
 2/A. Megelőzés: a munkáltató által megtett vagy tervezett intézkedések a munkáltatói tevékenység bármely fázisában, amelyeknek célja a munkával összefüggő kockázatok megelőzése vagy csökkentése.
 
-3. Munkabaleset: az a baleset, amely a munkavállalót a szervezett munkavégzés során vagy azzal összefüggésben éri, annak helyétől és időpontjától és a munkavállaló (sérült) közrehatásának mértékétől függetlenül.
+3. Munkabaleset: az a baleset, amely a munkavállalót a szervezett munkavégzés során vagy azzal összefüggésben éri, annak helyétől, időpontjától és a sérült munkavállaló közrehatásának mértékétől függetlenül. A munkavégzéssel összefüggésben következik be a baleset, ha a munkavállalót a foglalkozás körében végzett munkához kapcsolódó közlekedés, anyagvételezés, anyagmozgatás, tisztálkodás, szervezett üzemi étkeztetés, foglalkozás-egészségügyi szolgáltatás és a munkáltató által nyújtott egyéb szolgáltatás igénybevétele során éri. Nem tekinthető munkavégzéssel összefüggésben bekövetkező balesetnek az a baleset
 
-A munkavégzéssel összefüggésben következik be a baleset, ha a munkavállalót a foglalkozás körében végzett munkához kapcsolódó közlekedés, anyagvételezés, anyagmozgatás, tisztálkodás, szervezett üzemi étkeztetés, foglalkozás-egészségügyi szolgáltatás és a munkáltató által nyújtott egyéb szolgáltatás stb. igénybevétele során éri.
+a) amely a munkavállalót a lakásáról vagy szállásáról a munkahelyére, illetve a munkahelyéről a lakására vagy szállására menet közben éri, kivéve, ha a baleset a munkáltató saját tulajdonában álló, bérleti vagy más szerződés alapján, továbbá egyéb megállapodás alapján biztosított járművel történt;
 
-Nem tekinthető munkavégzéssel összefüggésben bekövetkező balesetnek (munkabalesetnek) az a baleset, amely a sérültet a lakásáról (szállásáról) a munkahelyére, illetve a munkahelyéről a lakására (szállására) menet közben éri, kivéve, ha a baleset a munkáltató saját tulajdonában álló, bérleti vagy más szerződés alapján, továbbá egyéb megállapodás alapján biztosított járművel történt.
+b) amely a szakképzésről szóló 2019. évi LXXX. törvény szerint tanulóbalesetnek minősül.
 
-Bányászati munkabaleset: az a munkabaleset, amely a bányafelügyelet hatósági felügyelete alá tartozó tevékenységek végzése során bármely munkáltatónál következett be.
+3/A. Bányászati munkabaleset: az a munkabaleset, amely a bányafelügyelet hatósági felügyelete alá tartozó tevékenységek végzése során bármely munkáltatónál következett be.
 
-Súlyos az a munkabaleset (bányászati munkabaleset), amely
+3/B. Súlyos munkabaleset vagy bányászati munkabaleset: az a munkabaleset vagy bányászati munkabaleset, amely
 
-a) a sérült halálát (halálos munkabaleset az a baleset is, amelynek bekövetkezésétől számított egy éven belül a sérült orvosi szakvélemény szerint a balesettel összefüggésben életét vesztette), magzata vagy újszülöttje halálát, önálló életvezetését gátló maradandó károsodását;
+a) a sérült halálát – beleértve azt a munkabalesetet is, amelynek bekövetkezésétől számított egy éven belül a sérült orvosi szakvélemény szerint a balesettel összefüggésben vesztette életét –, magzata vagy újszülöttje halálát, önálló életvezetését gátló maradandó károsodását;
 
 b) valamely érzékszerv, érzékelőképesség, illetve a reprodukciós képesség elvesztését vagy jelentős mértékű károsodását okozta;
 
 c) orvosi vélemény szerint életveszélyes sérülést, egészségkárosodást;
 
-d) hüvelykujj vagy kéz, láb két vagy több ujja nagyobb részének elvesztését, továbbá ennél súlyosabb csonkulást okozott, illetve;
+d) hüvelykujj vagy kéz, láb két vagy több ujja nagyobb részének elvesztését, továbbá ennél súlyosabb csonkulást okozott, vagy
 
 e) beszélőképesség elvesztését vagy feltűnő eltorzulást, bénulást, illetőleg elmezavart okozott.
 
@@ -68,7 +68,19 @@ e) beszélőképesség elvesztését vagy feltűnő eltorzulást, bénulást, il
 
 7. Munkavédelmi üzembe helyezés: az a munkavédelmi eljárás, amelynek során az üzemeltető meggyőződik arról, hogy az adott létesítmény, munkahely, technológia, munkaeszköz a munkavédelmi követelményeket kielégíti, és üzemeltetését elrendeli.
 
-8. Munkáltató: a munkavállalót szervezett munkavégzés keretében foglalkoztató. Munkáltatónak kell tekinteni a munkaerő-kölcsönzés keretében átengedett munkavállalót kölcsönvevőként foglalkoztatót, a kirendelt munkavállalót foglalkoztatót, a szakképzés keretében gyakorlati oktatást folytatót, valamint a mást nem foglalkoztató, a munkáját kizárólag személyesen végző egyéni vállalkozót (akkor is, ha egyéni céget alapított) a munkavégzés hatókörében tartózkodók védelmére vonatkozó rendelkezések [9. § (2) bekezdés] tekintetében. A társadalmi munka esetén munkáltató a társadalmi munka szervezője. Magyar adószámmal nem rendelkező külföldi munkáltató esetén munkáltató az a személy vagy szervezet, aki, illetve amely a tényleges irányítást gyakorolja, vagy a munkahelyért a fő felelősséget viseli, ennek hiányában az, akinek a területén a munkavégzés folyik.
+8. Munkáltató: a munkavállalót szervezett munkavégzés keretében foglalkoztató. Munkáltatónak kell tekinteni:
+
+a) a munkaerő-kölcsönzés keretében átengedett munkavállalót kölcsönvevőként foglalkoztatót,
+
+b) a kirendelt munkavállalót foglalkoztatót,
+
+c) a duális képzőhelyet,
+
+d) a munkavégzés hatókörében tartózkodók védelmére vonatkozó rendelkezések tekintetében a mást nem foglalkoztató, a munkáját kizárólag személyesen végző önfoglalkoztatót, gazdasági társaságok tagjait, illetve vezető tisztségviselőit személyes közreműködéssel történő munkavégzés esetén,
+
+e) társadalmi munka esetén a társadalmi munka szervezőjét, valamint
+
+f) magyar adószámmal nem rendelkező külföldi munkáltató esetén azt a személyt vagy szervezetet, aki, illetve amely a tényleges irányítást gyakorolja, vagy a munkahelyért a fő felelősséget viseli, ennek hiányában azt, akinek a területén a munkavégzés folyik.
 
 8/A. Sérülékeny csoport: az a munkavállalói kategória, amelybe tartozó munkavállalókat testi, lelki adottságaik, állapotuk következtében a munkavégzéssel összefüggő kockázatok fokozottan fenyegetnek, illetve akik maguk is fokozott kockázatot jelenthetnek munkavégzésük során (pl. fiatalkorúak, terhes, nemrégen szült, anyatejet adó nők és szoptató anyák, idősödők, megváltozott munkaképességűek).
 

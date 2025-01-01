@@ -16,6 +16,6 @@
 
 (7) Ha a veszélyes munkaeszközt, technológiát próba- vagy kísérleti jelleggel üzemeltetik, úgy az üzembe helyezési eljárás során figyelemmel kell lenni a próba- vagy kísérleti üzemeltetés kockázataira is. A veszélyes munkaeszköz, technológia próba- vagy kísérleti jelleggel történő üzemeltetésére kizárólag a (3) bekezdés szerinti próba- vagy kísérleti jelleggel történő üzemeltetéstől független előzetes vizsgálatok lefolytatását követően kerülhet sor. Az ilyen jellegű üzemeltetés a 180 napot nem haladhatja meg.
 
-(8) A munkavédelmi szempontú előzetes vizsgálatot – kivéve a veszélyes technológia esetét – szakirányú képzettséggel és munkavédelmi szakmai képesítéssel rendelkező személy, vagy jogszabályban erre feljogosított személy, vagy erre akkreditált intézmény végezheti. A veszélyes technológia vizsgálatát szakirányú munkabiztonsági szakértői engedéllyel rendelkező személy végezheti.
+(8) A munkavédelmi szempontú előzetes vizsgálatot – kivéve a veszélyes technológia esetét – szakirányú képzettséggel és munkavédelmi szakmai képesítéssel rendelkező személy, vagy szakirányú munkabiztonsági szakértő, vagy jogszabályban erre feljogosított személy, vagy erre akkreditált intézmény végezheti. A veszélyes technológia vizsgálatát szakirányú munkabiztonsági szakértői engedéllyel rendelkező személy végezheti.
 
 (9) A (8) bekezdés és a 23. § (1) bekezdése szerinti veszélyes technológia vizsgálata munkaegészségügyi szaktevékenység is.

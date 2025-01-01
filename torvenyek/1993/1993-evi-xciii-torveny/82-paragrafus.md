@@ -47,3 +47,7 @@ e) a határértékkel jellemzett kóroki tényezőkre megadott határérték tú
 f) a bírság kiszabására okot adó veszélyeztetés kialakulásához vezető egyéb mulasztás személyi és tárgyi körülményeit.
 
 (6) Az (1) bekezdés alapján kiszabott pénzbírságot a munkavédelmi hatóság kincstári előirányzat-felhasználási keretszámlájára kell befizetni.
+
+(7) A munkavédelmi hatóság a munkavédelmi bírság megfizetésére nyitva álló határidőben előterjesztett kérelemre engedélyezheti a munkavédelmi bírság részletekben történő megfizetését.
+
+(8) Részletfizetés engedélyezése esetén bármely részlet megfizetésének elmulasztásakor az egész munkavédelmi bírság, vagy az abból még fennmaradó összeg egésze azonnal esedékessé válik.

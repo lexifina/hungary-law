@@ -1,4 +1,4 @@
-16. § Az állam hatósági tevékenység keretében, a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerinti eljárási rendben – a VII. Fejezetben meghatározottak szerint –
+16. § Az állam hatósági tevékenység keretében, az általános közigazgatási rendtartásról szóló törvény szerinti eljárási rendben – a VII. Fejezetben meghatározottak szerint –
 
 a) elősegíti és ellenőrzi a munkavédelemre vonatkozó szabályok végrehajtását,
 

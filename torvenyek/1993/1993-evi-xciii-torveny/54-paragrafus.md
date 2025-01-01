@@ -26,15 +26,17 @@ i) a munkavállalók megfelelő utasításokkal történő ellátása.
 
 (2a) A foglalkoztatáspolitikáért felelős miniszter rendelete szerinti III. veszélyességi osztályba sorolt, 1–9 főt foglalkoztatók esetében a kockázatértékelés munkaegészségügyi tartalmával kapcsolatos feladatokat a foglalkozás-egészségügyi alapszolgáltatást biztosító szolgálat orvosának jóváhagyásával közegegészségügyi-járványügyi ellenőri vagy felügyelői, vagy népegészségügyi ellenőri vagy felügyelői szakképzettséggel rendelkező személy is elláthatja.
 
-(3) A munkáltató a kockázatértékelést, a kockázatkezelést és a megelőző intézkedések meghatározását – eltérő jogszabályi rendelkezés hiányában – a tevékenység megkezdése előtt, azt követően indokolt esetben, de legalább 3 évente köteles elvégezni. Az 56. §-ban meghatározottak a kockázatértékelésben rögzítésre kerülhetnek. Indokolt esetnek kell tekinteni
+(3) A munkáltató a kockázatértékelést, annak részeként a kockázatkezelést és a megelőző intézkedések meghatározását – eltérő jogszabályi rendelkezés hiányában – a tevékenység megkezdése előtt, azt követően indokolt esetben, de legalább 5 évente köteles elvégezni. Az 56. §-ban meghatározottak a kockázatértékelésben kerülnek rögzítésre. Indokolt esetnek kell tekinteni
 
-a) az alkalmazott tevékenység, technológia, munkaeszköz, munkavégzés módjának megváltozását,
+a) az alkalmazott tevékenység, technológia, munkaeszköz, munkavégzés módjának megváltozását, valamint a munkáltató tevékenységi körének változását,
 
-b) minden olyan, az eredeti tevékenységgel összefüggő változtatást, amelynek eredményeképpen a munkavállalók egészségét, biztonságát meghatározó munkakörülményi tényezők megváltozhattak – ideértve a munkaklíma-, zaj-, rezgésterhelést, légállapotokat (gázállapotú, por, rost légszennyezők minőségi, illetve mennyiségi változást),
+b) minden olyan, az eredeti tevékenységgel összefüggő változtatást, amelynek eredményeképpen a munkavállalók egészségét, biztonságát meghatározó munkakörülményi tényezők megváltozhattak – ideértve a munkaklíma-, zaj-, rezgésterhelést, légállapotokat (gázállapotú, por, rost légszennyezők minőségi, illetve mennyiségi változását),
 
 c) az alkalmazott tevékenység, technológia, munkaeszköz, munkavégzés módjának hiányosságával összefüggésben bekövetkezett munkabaleset, fokozott expozíció, illetve foglalkozási megbetegedés előfordulását, továbbá
 
-d) ha a kockázatértékelés a külön jogszabályban meghatározott szempontra nem terjedt ki.
+d) ha a kockázatértékelés jogszabályban meghatározott szempontra nem terjedt ki.
+
+(3a) Az (1) bekezdés g) pontjában, valamint az 56. §-ban meghatározottak a kockázatértékelésben is rögzítésre kerülhetnek.
 
 (4) A munkavédelmi hatósági ellenőrzés során a munkáltatónak kell bizonyítania a tevékenység megkezdésének tényét, időpontját.
 
@@ -60,7 +62,7 @@ A kockázatértékelés dokumentumát a munkáltató köteles a külön jogszab�
 
 (6) Az (1) bekezdés g) pontjában meghatározott megelőzési stratégia munkabiztonsági és munkaegészségügyi tartalmának kialakítása munkabiztonsági és munkaegészségügyi szaktevékenységnek minősül.
 
-(6a) A megelőzési stratégia a foglalkoztatáspolitikáért felelős miniszter rendelete szerinti III. veszélyességi osztályba sorolt 1–9 főt foglalkoztatók esetében a kockázatértékelés részét is képezheti.
+(6a)
 
 (6b) A megelőzési stratégia munkaegészségügyi tartalmának kialakítása a foglalkoztatáspolitikáért felelős miniszter rendelete szerinti III. veszélyességi osztályba sorolt, 1–9 főt foglalkoztatók esetében a foglalkozás-egészségügyi alapszolgáltatást biztosító szolgálat orvosának jóváhagyásával közegegészségügyi-járványügyi ellenőri vagy felügyelői, vagy népegészségügyi ellenőri vagy felügyelői szakképzettséggel is ellátható.
 
