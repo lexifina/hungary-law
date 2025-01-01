@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-1366-30
 | --- | --- | --- |
 | 2021-06-09 | 2021-1366-30-22.1 | 1366/2021. (VI. 9.) Korm. határozat |
 | 2023-05-25 | 2021-1366-30-22.3 | 1207/2023. (V. 25.) Korm. határozat |
+| 2025-01-01 | 2021-1366-30-22.2 | 2011: CXCV. törvény |
