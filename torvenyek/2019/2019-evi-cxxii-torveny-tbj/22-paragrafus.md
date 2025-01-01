@@ -34,7 +34,7 @@ k) az öregségi nyugdíjkorhatárt betöltötte és jövedelme nem éri el a mi
 
 l) kiskorú, magyar állampolgársággal, menekült vagy oltalmazott jogállással és Magyarország területén lakóhellyel vagy tartózkodási hellyel rendelkezik, továbbá az a nem magyar állampolgárságú kiskorú, aki Magyarország területén lakóhellyel rendelkezik,
 
-m) személyes gondoskodást nyújtó bentlakásos szociális intézményben elhelyezett személy (ide nem értve a külföldi állampolgárt), a gyermekvédelmi rendszerben utógondozási ellátásban részesülő 18–24 éves fiatal felnőtt, továbbá magyar hatóság által a Gyvt. alapján ideiglenes hatállyal elhelyezett vagy nevelésbe vett külföldi kiskorú személy,
+m) személyes gondoskodást nyújtó bentlakásos szociális intézményben elhelyezett személy (ide nem értve a külföldi állampolgárt), a gyermekvédelmi rendszerben utógondozási ellátásban részesülő 18–24 éves fiatal felnőtt, továbbá magyar hatóság által a Gyvt. alapján ideiglenes hatállyal elhelyezett vagy nevelésbe vett külföldi vagy ismeretlen állampolgárságú kiskorú személy,
 
 n) fogvatartott,
 
@@ -66,7 +66,7 @@ v) a 43. § (1) bekezdése szerinti egészségügyi szolgáltatási járulékfiz
 
 (7) Belföldi
 
-a) – a (3) bekezdés alkalmazásában – az a Magyarországon élő magyar állampolgár is,
+a) – az (1) bekezdés l) pontja és a (3) bekezdés alkalmazásában – az a Magyarországon élő magyar állampolgár is,
 
 b) – a 43. § (1) bekezdés a) pontja alkalmazásában – az a legalább egy éve Magyarországon élő magyar állampolgár is,
 

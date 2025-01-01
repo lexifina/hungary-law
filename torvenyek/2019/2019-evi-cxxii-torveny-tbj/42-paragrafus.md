@@ -2,7 +2,7 @@
 
 42. § (1) Több biztosítási kötelezettséggel járó jogviszony egyidejű fennállása esetén a járulékalap után mindegyik jogviszonyban meg kell fizetni a társadalombiztosítási járulékot.
 
-(2) A társadalombiztosítási járulék alapja a ténylegesen elért járulékalapot képező jövedelem, átalányadózó egyéni vállalkozó esetében a Tbj. 40. § (2) bekezdése szerint megállapított járulékalap, ha
+(2) A társadalombiztosítási járulék alapja a ténylegesen elért járulékalapot képező jövedelem, átalányadózó egyéni vállalkozó esetében a 40. § (2) bekezdése szerint megállapított járulékalap, ha
 
 a) az egyéni vállalkozó, a társas vállalkozó legalább heti 36 órás foglalkoztatással járó munkaviszonyban is áll, vagy
 

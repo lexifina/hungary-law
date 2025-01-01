@@ -10,7 +10,7 @@ c) anyja születési neve,
 
 d) születési hely (születés országa, születési hely),
 
-e) születési idő (élveszületés esetén annak bejegyzési folyószáma és éve),
+e) születési idő,
 
 f) állampolgárság,
 
@@ -26,7 +26,7 @@ k) külföldön történő letelepedés időpontja, időpontjai,
 
 l) nyilvántartásba vételi adatok (személyes dokumentum típusa, száma, nyilvántartásba vétel dátuma, jogcíme, adatforrás, BM és ÖNY kapcsolati kód),
 
-m) a nyilvántartásba bekerülés és az abból történő kikerülés oka (passziválási jogcím),
+m) a nyilvántartásba történő bekerülés oka,
 
 n) kiadott TAJ számot tartalmazó hatósági igazolvány lejáratának dátuma,
 
@@ -36,7 +36,7 @@ p) érvényesség kezdeti dátuma,
 
 q) érvénytelenítés dátuma, oka, dokumentum típusa, azonosítója,
 
-r) érvényváltozás és a változás bejegyzés időpontja, időpontjai (jogcím, passziválás, viselt név, születési név, anyja neve, családi állapot, állampolgárság adatkörök esetén),
+r) a b)–q) pontban felsorolt adatok változásbejegyzésének időpontja,
 
 s) elhalálozás időpontja és helye,
 

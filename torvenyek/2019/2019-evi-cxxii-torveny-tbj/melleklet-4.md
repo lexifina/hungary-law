@@ -4,7 +4,7 @@
 
 ## b) a kiküldött munkavállaló természetes személyazonosító adatai, állampolgársága, lakcíme, TAJ száma, a kérelmet benyújtó munkáltatóval fennálló munkaviszony kezdete,
 
-## c) a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról szóló, 2006. december 20-i 1893/2006/EK európai parlamenti és tanácsi rendeleten alapuló TEÁOR-szám (egyéni vállalkozó esetén a mindenkor hatályos Önálló vállalkozók tevékenységi jegyzéke szerinti ÖVTJ kód), amelynek megfelelő tevékenységre a kiküldött munkavállalót a kiküldetés ideje alatt foglalkoztatja,
+## c) a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról szóló, 2006. december 20-i 1893/2006/EK európai parlamenti és tanácsi rendeleten és az (EU) 2024/1840 bizottsági végrehajtási rendeleten alapuló TEÁOR-szám (egyéni vállalkozó esetén a mindenkor hatályos Önálló vállalkozók tevékenységi jegyzéke szerinti ÖVTJ kód), amelynek megfelelő tevékenységre a kiküldött munkavállalót a kiküldetés ideje alatt foglalkoztatja.
 
 ## d) a külföldi vállalkozás (személy) neve és címe, amelynél a kiküldött munkát végez, vagy ennek hiányában a külföldi foglalkoztatás helye (címe), és
 
@@ -40,7 +40,7 @@
 
 ## a) természetes személyazonosító adatai, állampolgársága, lakcíme, TAJ száma, vállalkozásának nyilvántartási száma,
 
-## b) a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról szóló, 2006. december 20-i 1893/2006/EK európai parlamenti és tanácsi rendeleten alapuló TEÁOR-számokból képzett, a mindenkor hatályos Önálló vállalkozók tevékenységi jegyzéke szerinti ÖVTJ kód, amelynek megfelelő tevékenységet a másik államban folytat,
+## b) a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról szóló, 2006. december 20-i 1893/2006/EK európai parlamenti és tanácsi rendeleten és az (EU) 2020/1197, az (EU) 2024/1840 bizottsági végrehajtási rendeleten alapuló TEÁOR-számokból képzett, a mindenkor hatályos Önálló vállalkozók tevékenységi jegyzéke szerinti ÖVTJ kód, amelynek megfelelő tevékenységet a másik államban folytat.
 
 ## c) annak a külföldi vállalkozásnak (személynek) a neve és címe, amelynél munkát végez, vagy ennek hiányában a külföldön folytatott tevékenység helye (címe), és
 
@@ -52,7 +52,7 @@
 
 ## b) a munkáltató(k) neve (elnevezése), székhelye (lakóhelye), adóazonosító száma,
 
-## c) a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról szóló, 2006. december 20-i 1893/2006/EK európai parlamenti és tanácsi rendeleten alapuló TEÁOR-szám vagy a mindenkor hatályos Önálló vállalkozók tevékenységi jegyzéke szerinti ÖVTJ kód, amelynek megfelelő tevékenységet végez a munkavállaló a külföldi munkáltató részére, illetve amelynek megfelelő tevékenységet végez az önálló vállalkozó a másik államban,
+## c) a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról szóló, 2006. december 20-i 1893/2006/EK európai parlamenti és tanácsi rendeleten és az (EU) 2020/1197, az (EU) 2024/1840 bizottsági végrehajtási rendeleten alapuló TEÁOR-szám vagy a mindenkor hatályos Önálló vállalkozók tevékenységi jegyzéke szerinti ÖVTJ kód, amelynek megfelelő tevékenységet végez a munkavállaló a külföldi munkáltató részére, illetve amelynek megfelelő tevékenységet végez az önálló vállalkozó a másik államban.
 
 ## d) ha a munkavállaló belföldön és a másik államban is munkavállaló, a belföldi és külföldi munkaviszonyához kapcsolódó munkaidő mértéke és munkabér (egyéb díjazás) összege, és azok egymáshoz viszonyított aránya, és
 
