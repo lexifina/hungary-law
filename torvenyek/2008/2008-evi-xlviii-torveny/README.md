@@ -29,3 +29,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-48-00-00
 | 2021-10-01 | 2021. évi XXXII. törvény | 2008-48-00-00.30 |
 | 2022-12-27 | 2022. évi LXI. törvény | 2008-48-00-00.31 |
 | 2023-02-01 | 2022. évi LXIV. törvény | 2008-48-00-00.32 |
+| 2025-01-01 | 2024. évi XLIX. törvény | 2008-48-00-00.33 |
