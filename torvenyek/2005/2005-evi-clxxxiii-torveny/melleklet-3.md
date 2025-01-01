@@ -39,5 +39,3 @@ j) a nagyobb üzemszünetek és vészhelyzetek kezelésére vonatkozó szabályo
 k) az abban az esetben meghozandó rendelkezéseket, ha bármely fél megszegi szerződéses kötelezettségeit;
 
 l) arra vonatkozó rendelkezéseket, ha rendkívüli körülmények befolyásolják a pályaműködtetés állami finanszírozását;
-
-m) a szerződés módosítására, újratárgyalására, vitarendezésre és idő előtti felbontására vonatkozó feltételeket és eljárásokat.
