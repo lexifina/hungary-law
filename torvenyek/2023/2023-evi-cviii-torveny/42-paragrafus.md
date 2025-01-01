@@ -10,7 +10,7 @@ c) a gyártó adószámát, cégjegyzékszámát,
 
 d) a gyártó székhelyének címét,
 
-e) a Kibertantv. alapján kiállított nemzeti vagy európai kiberbiztonsági tanúsítvány vagy megfelelőségi nyilatkozat meglétét igazoló dokumentumot,
+e) a Kiberbiztonsági tv. alapján kiállított nemzeti vagy európai kiberbiztonsági tanúsítvány vagy megfelelőségi nyilatkozat meglétét igazoló dokumentumot,
 
 f) a Hatóság elnökének rendeletében előírt további, személyes adatnak nem minősülő adatokat.
 
