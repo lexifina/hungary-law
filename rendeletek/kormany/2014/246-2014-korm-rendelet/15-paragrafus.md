@@ -8,10 +8,11 @@
 
 (5) Üzemi gyűjtőhelyen a hulladék az üzemeltetési szabályzatban meghatározott ideig, de legfeljebb 1 évig gyűjthető.
 
-(6)[^32] Ha az üzemi gyűjtőhelyen gyűjtött hulladék olyan tevékenységből származik, amely a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló kormányrendelet szerinti egységes környezethasználati engedély birtokában végezhető, az üzemi gyűjtőhelyen egy időben gyűjthető hulladék maximális mennyiségét, elszállításának gyakoriságát és az elszállítás egyéb feltételeit a környezetvédelmi hatóság az egységes környezethasználati engedélyben írja elő.
+(6)[^33] Ha az üzemi gyűjtőhelyen gyűjtött hulladék olyan tevékenységből származik, amely a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló kormányrendelet szerinti egységes környezethasználati engedély birtokában végezhető, az üzemi gyűjtőhelyen egy időben gyűjthető hulladék maximális mennyiségét, elszállításának gyakoriságát és az elszállítás egyéb feltételeit a környezetvédelmi hatóság az egységes környezethasználati engedélyben írja elő.
 
-(7) Üzemi gyűjtőhelyen a telephely vagy a telephelyek területén belül képződő hulladékon, az üzemeltetéséhez szükséges eszközökön, berendezéseken kívül mást gyűjteni, elhelyezni vagy tárolni nem lehet. A gyűjtés során a hulladékhoz történő szabad és akadálymentes hozzáférést folyamatosan biztosítani kell.
+(7)[^34] Üzemi gyűjtőhelyen a külső munkavégzési helyszínen képződő hulladék is gyűjthető, amennyiben a hulladék jellege és mennyisége az üzemi gyűjtőhelyen való gyűjtést műszakilag lehetővé teszi.
 
 (8) Az üzemeltető gondoskodik az üzemi gyűjtőhely őrzéséről és az illetéktelen személyek behatolása elleni védelemről.
 
-[^32]: A 15. § (6) bekezdése a 70/2015. (III. 30.) Korm. rendelet 255. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^33]: A 15. § (6) bekezdése a 70/2015. (III. 30.) Korm. rendelet 255. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^34]: A 15. § (7) bekezdése a 416/2024. (XII. 20.) Korm. rendelet 20. §-ával megállapított szöveg.

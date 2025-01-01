@@ -16,7 +16,7 @@ b) illemhelyiséggel, mosdóval, zuhanyzóval, öltözővel, munkaruha- és kéz
 
 c) gyűjtő- és felhordó szalagok, válogatószalag;
 
-d)[^48]
+d)[^51]
 
 e) kármentesítési anyagok;
 
@@ -50,4 +50,4 @@ h) egyéb – fajsúly, méret vagy a hasznosítható anyagok megkülönböztet�
 
 i) utóaprító berendezés.
 
-[^48]: A 3. melléklet 2. pont d) alpontját a 374/2016. (XI. 29.) Korm. rendelet 1. §-a hatályon kívül helyezte.
+[^51]: A 3. melléklet 2. pont d) alpontját a 374/2016. (XI. 29.) Korm. rendelet 1. §-a hatályon kívül helyezte.

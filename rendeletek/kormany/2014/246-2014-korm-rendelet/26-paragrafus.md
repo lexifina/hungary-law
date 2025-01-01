@@ -14,7 +14,7 @@ d) a végrehajtott karbantartások (javítások) ideje és időtartama; valamint
 
 e) a hatósági ellenőrzések megállapításai és az ezek hatására tett intézkedések.
 
-(4)[^43] Az átrakóállomás üzemeltetője az átrakóállomás részletes működési és ellenőrzési szabályait üzemeltetési szabályzatban rögzíti. Az üzemeltető az üzemeltetési szabályzat 1 példányát a hulladékgazdálkodási engedélyezési eljárás iránti kérelemhez csatolva a hulladékgazdálkodási hatóságnak megküldi. Az átrakóállomás csak az üzemeltetési szabályzat hulladékgazdálkodási hatóság általi jóváhagyását követően üzemeltethető.
+(4)[^45] Az átrakóállomás üzemeltetője az átrakóállomás részletes működési és ellenőrzési szabályait üzemeltetési szabályzatban rögzíti. Az üzemeltető az üzemeltetési szabályzat 1 példányát a hulladékgazdálkodási engedélyezési eljárás iránti kérelemhez csatolva a hulladékgazdálkodási hatóságnak megküldi. Az átrakóállomás csak az üzemeltetési szabályzat hulladékgazdálkodási hatóság általi jóváhagyását követően üzemeltethető.
 
 (5) Az átrakóállomás üzemeltetési szabályzatában legalább
 
@@ -42,4 +42,4 @@ vonatkozó előírásokat kell meghatározni.
 
 (8) Az átrakóállomásra beszállított hulladék legfeljebb a hulladékgazdálkodási engedélyben meghatározott ideig tárolható.
 
-[^43]: A 26. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 255. § (3) bekezdés b) és e) pontja, a 312/2021. (VI. 7.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.
+[^45]: A 26. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 255. § (3) bekezdés b) és e) pontja, a 312/2021. (VI. 7.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.

@@ -16,8 +16,8 @@
 
 (8) Veszélyes hulladék gyűjtése esetén gyűjtőedényként, konténerként csak olyan műszaki védelemmel ellátott gyűjtőedény, konténer (így különösen ütésálló, bélelt vagy kettős falú zárható gyűjtőedény vagy zárható konténer) használható, amely a hulladék környezetbe történő kijutását megakadályozza, és megfelel a veszélyes hulladékkal kapcsolatos tevékenységek részletes szabályairól szóló kormányrendeletben foglalt, a gyűjtésre vonatkozó követelményeknek. Ha a veszélyes hulladékot nem gyűjtőedényben vagy konténerben gyűjtik, a hulladék gyűjtését lehetővé tevő helyiséget vagy területet a hulladék fizikai és kémiai tulajdonságainak ellenálló, teherbíró, folyadékzáró és – szükség szerint – kármentő aljzattal kell kialakítani.
 
-(9)[^30] Ha a munkahelyi gyűjtőhelyen gyűjtött hulladék olyan tevékenységből származik, amely a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló kormányrendelet szerinti egységes környezethasználati engedély birtokában végezhető, a munkahelyi gyűjtőhelyen egy időben gyűjthető hulladék maximális mennyiségét, elszállításának gyakoriságát és az elszállítás egyéb feltételeit a környezetvédelmi hatóság az egységes környezethasználati engedélyben írja elő.
+(9)[^31] Ha a munkahelyi gyűjtőhelyen gyűjtött hulladék olyan tevékenységből származik, amely a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló kormányrendelet szerinti egységes környezethasználati engedély birtokában végezhető, a munkahelyi gyűjtőhelyen egy időben gyűjthető hulladék maximális mennyiségét, elszállításának gyakoriságát és az elszállítás egyéb feltételeit a környezetvédelmi hatóság az egységes környezethasználati engedélyben írja elő.
 
 (10) Munkahelyi gyűjtőhelyen hulladék a hulladék képződésétől számított legfeljebb 6 hónapig gyűjthető, kivéve az egészségügyi hulladékot.
 
-[^30]: A 13. § (9) bekezdése a 70/2015. (III. 30.) Korm. rendelet 255. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^31]: A 13. § (9) bekezdése a 70/2015. (III. 30.) Korm. rendelet 255. § (3) bekezdés b) pontja szerint módosított szöveg.

@@ -24,7 +24,7 @@
 
 11. munkahelyi gyűjtőhely: a természetes személynek nem minősülő hulladéktermelő által a telephelyén végzett munka során képződő hulladék elkülönített gyűjtésére szolgáló, a telephelyen kialakított hely, ahol a hulladéktermelő a hulladékot gyűjtőedényben, konténerben, továbbá a hulladék biztonságos gyűjtését lehetővé tevő helyiségben vagy szilárd burkolattal ellátott, elkerített területen gyűjti;
 
-12. speciális gyűjtőhely: a környezetre fokozott veszélyt jelentő, valamint a háztartásban képződő veszélyes hulladék elkülönített gyűjtésére szolgáló, jól látható és a lakosság számára könnyen megközelíthető helyen, környezetvédelmi és közegészségügyi érdekből kialakított hulladékgyűjtő pont, ahol kormányrendeletben vagy miniszteri rendeletben meghatározott hulladékfajta (így különösen elem- és akkumulátorhulladék, elektromos, elektronikus berendezés háztartásban képződő hulladéka, hulladékolaj, növényvédőszer vagy ezek csomagolása) a hulladékgyűjtő pontra telepített – az időjárás hatásainak ellenálló – gyűjtőedényben vagy konténerben térítésmentesen elhelyezhető;
+12.[^4] speciális gyűjtőhely: a háztartásban képződő, a környezetre fokozott veszélyt jelentő nem veszélyes, továbbá veszélyes hulladék elkülönített gyűjtésére szolgáló, jól látható és a lakosság számára könnyen megközelíthető helyen, környezetvédelmi és közegészségügyi érdekből kialakított hulladékgyűjtő pont, ahol kormányrendeletben vagy miniszteri rendeletben meghatározott hulladékfajta (így különösen használt sütőolaj, valamint elem- és akkumulátorhulladék, elektromos, elektronikus berendezés háztartásban képződő hulladéka, hulladékolaj, növényvédő szer vagy ezek csomagolása) a hulladékgyűjtő pontra telepített – az időjárás hatásainak ellenálló – gyűjtőedényben vagy konténerben térítésmentesen elhelyezhető.
 
 13. üzemi gyűjtőhely: a gazdálkodó szervezet hulladéktermelő telephelyén létesített olyan, e rendeletben meghatározott műszaki kialakítással rendelkező építmény, amely a hulladéktermelő tevékenységével összefüggésben képződött és munkahelyi gyűjtőhelyen gyűjtött hulladék munkahelyi gyűjtést követő, elszállításig történő elkülönített gyűjtésére szolgál;
 
@@ -37,3 +37,4 @@
 [^1]: A 2. § (1) bekezdés 5. pontja a 675/2023. (XII. 29.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.
 [^2]: A 2. § (1) bekezdés 6. pontja a 675/2023. (XII. 29.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
 [^3]: A 2. § (1) bekezdés 8. pontja a 196/2016. (VII. 13.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^4]: A 2. § (1) bekezdés 12. pontja a 465/2024. (XII. 30.) Korm. rendelet 20. §-ával megállapított szöveg.
