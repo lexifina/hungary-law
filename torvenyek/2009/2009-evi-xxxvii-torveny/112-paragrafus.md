@@ -32,7 +32,7 @@ l) határozza meg az erdészeti hatóság által alkalmazható közigazgatási s
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben határozza meg
 
-1. az erdészeti gépkezelői jogosítvánnyal üzemeltethető erdészeti gépek körét, valamint az erdészeti gépkezelői jogosítvány megszerzésének és kiadásának részletes szabályait;
+1.
 
 2. az erdészeti hatósági eljárásokhoz kapcsolódó bejelentés, kérelem, valamint adatszolgáltatás tartalmának részletes szabályait;
 

@@ -36,4 +36,4 @@ c) erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület
 
 (10a) A (10) bekezdés alkalmazásában az 1. mellékletben meghatározott gazdasági társaságokat kell az erdőt vagyonkezelő 100%-os állami tulajdonú gazdasági társaságnak tekinteni.
 
-(11) Az (5) bekezdés rendelkezéseit nem kell alkalmazni az állam tulajdonában és a Maradványvagyon-hasznosító Zártkörűen Működő Részvénytársaság vagyonkezelésében lévő ingatlanoknak az egyes otthonteremtési feladatok karitatív szervezetek általi átvállalásáról szóló 2021. évi LXXXVI. törvény alapján az MR Közösségi Lakásalap Közhasznú Nonprofit Korlátolt Felelősségű Társaság részére ingyenesen történő tulajdonba adására.
+(11)

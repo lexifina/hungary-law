@@ -20,6 +20,8 @@ g) az erdészeti tudományos kutatással foglalkozó költségvetési szerv rés
 
 h) a mezőgazdasági igazgatási szerv részére a jogügylet hatósági jóváhagyása iránti eljárásban, az e feladatkörébe tartozó ügy elbírálása érdekében, valamint a Földforgalmi törvényben meghatározott szerzési feltételek, korlátozások és tilalmak betartásának ellenőrzése céljából az erdők és szabad rendelkezésű erdők
 
+i) a környezet- és természetvédelmi hatóság részére az erdészeti hatósági eljárásban természetvédelmi szakkérdés vizsgálata, valamint az erdőgazdálkodási tevékenységek természetvédelmi szempontú korlátozása érdekében szükséges erdők
+
 Adattárban nyilvántartott adataihoz.
 
 (4) Az ingatlanügyi hatóság, a földmérési és térinformatikai államigazgatási szerv, a mezőgazdasági igazgatási szerv, valamint a honvédelem térképészeti támogatásáért felelős szerv részére az Adattárból díj-, költség- és térítésmentesen kell szolgáltatni az alapfeladataik ellátásához, valamint az Európai Unió Közös Agrárpolitikájának végrehajtásával kapcsolatos feladatok ellátásához igényelt adatokat.
