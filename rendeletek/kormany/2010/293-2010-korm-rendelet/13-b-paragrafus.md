@@ -1,6 +1,6 @@
-## 5/B.[^15] Az előzetes véleményalkotás
+## 5/B.[^14] Az előzetes véleményalkotás
 
-13/B. §[^16] (1) Az NVSZ
+13/B. §[^15] (1) Az NVSZ
 
 a) a vezetői beosztásba kinevezést megelőzően – a miniszteri rendeletben meghatározott eljárásrendben a kinevezésre jogosult vezető kezdeményezése esetén – vagy
 
@@ -10,5 +10,5 @@ a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgála
 
 (2) A kinevezésre vagy vezénylésre jogosultat az NVSZ (1) bekezdés szerinti tájékoztatása nem köti.
 
-[^15]: Az 5/B. alcím címe a 280/2023. (VI. 29.) Korm. rendelet 25. §-ával megállapított szöveg.
-[^16]: A 13/B. § a 280/2023. (VI. 29.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^14]: Az 5/B. alcím címe a 280/2023. (VI. 29.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^15]: A 13/B. § a 280/2023. (VI. 29.) Korm. rendelet 26. §-ával megállapított szöveg.

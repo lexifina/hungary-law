@@ -14,7 +14,11 @@ ad) katonai bűncselekmények (az 1978. évi IV. törvény XX. fejezet, illetve 
 
 b) a védett állományba nem tartozó személy által elkövetett, az a) pontban felsorolt bűncselekmények, ha azt a védett állományba nem tartozó személy a védett állományba tartozó személlyel közösen, vagy annak segítségével követi el;
 
-c)[^7] a védett állomány tagjával szemben hivatali kötelességének teljesítése miatt vagy reá tekintettel elkövetett bűncselekmények, továbbá a védett állomány közeli hozzátartozójával vagy a védett állomány tagjával kapcsolatban álló más személlyel szemben elkövetett emberölés, kényszerítés, személyi szabadság megsértése, emberrablás, zsarolás, testi sértés, magánlaksértés, zaklatás, rablás, rongálás vagy lopás feltéve, hogy e bűncselekményeket a védett állomány tagjának hivatali kötelessége teljesítése miatt vagy reá tekintettel követték el.
+c)[^7] ha a bűncselekmény felderítése nem tartozik a nemzetbiztonsági szolgálatok vagy a terrorizmust elhárító szerv hatáskörébe,
+
+ca) a védett állomány tagjával szemben elkövetett bűncselekmények esetén, továbbá
+
+cb) a védett állomány tagjának hivatali vagy munkaköri kötelessége teljesítése miatt a védett állomány közeli hozzátartozójával vagy a védett állomány tagjával kapcsolatban álló más személlyel szemben elkövetett bűncselekmények esetén.
 
 (1a)[^8] Az NVSZ a Rendőrségről szóló 1994. évi XXXIV. törvény 7. § (1) bekezdés b) pont be) alpontja szerinti személyek esetében
 
@@ -33,5 +37,5 @@ b) az ügyészség vagy a nyomozó hatóság felkérésére, illetve az ügyész
 [^4]: A 3. alcím címe a 77/2018. (IV. 20.) Korm. rendelet 12. §-ával megállapított szöveg.
 [^5]: A 6. § a 77/2018. (IV. 20.) Korm. rendelet 13. §-ával megállapított szöveg.
 [^6]: A 6. § (1) bekezdés a) pont ac) alpontja a 718/2020. (XII. 30.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
-[^7]: A 6. § (1) bekezdés c) pontja a 272/2018. (XII. 20.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^7]: A 6. § (1) bekezdés c) pontja a 479/2024. (XII. 31.) Korm. rendelet 32. §-ával megállapított szöveg.
 [^8]: A 6. § (1a) bekezdését a 193/2024. (VII. 8.) Korm. rendelet 1. §-a iktatta be.
