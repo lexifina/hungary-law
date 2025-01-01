@@ -6,9 +6,9 @@ a) a nyilvántartott szervezet nevét, szervezeti formáját, székhelyét, tele
 
 b) az előadó-művészeti szervezet
 
-ba) művészeti tevékenységének jellege szerinti megjelölését: színház, zenekar, énekkar, balettegyüttes, táncegyüttes,
+ba) művészeti tevékenységének jellege szerinti megjelölését: színház, zenekar, énekkar, balettegyüttes, táncegyüttes, cirkusz,
 
-bb) művészeti tevékenységének sajátos jellege szerinti típusmegjelölését: többtagozatos színház, bábszínház, gyermek- és ifjúsági színház, kamarazenekar, kamara-szimfonikus zenekar, szimfonikus zenekar, népi koncertzenekar, fúvószenekar big band, kamarakórus,
+bb) művészeti tevékenységének sajátos jellege szerinti típusmegjelölését: többtagozatos színház, bábszínház, gyermek- és ifjúsági színház, cirkusz, kamarazenekar, kamara-szimfonikus zenekar, szimfonikus zenekar, népi koncertzenekar, fúvószenekar big band, kamarakórus,
 
 bc) működése szerinti típusmegjelölését: független színház, produkciós színház, befogadó színház, szabadtéri színház, nemzetiségi színház, valamint
 

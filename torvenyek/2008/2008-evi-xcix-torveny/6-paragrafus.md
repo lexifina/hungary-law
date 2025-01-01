@@ -22,4 +22,4 @@ f) ellátja a törvényben vagy törvény felhatalmazása alapján más jogszab�
 
 1. CÍM
 
-Az előadó-művészeti szervezetek nyilvántartása
+Az előadó-művészeti szervezetek hatósági nyilvántartása

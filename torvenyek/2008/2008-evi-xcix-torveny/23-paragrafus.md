@@ -6,7 +6,7 @@
 
 (4) A beszámoló központi költségvetési támogatásra vonatkozó, valamint külön jogszabályban meghatározott adatait a kijelölt szerv a honlapján bárki számára ingyenesen, korlátozás nélkül hozzáférhető és kereshető módon közzéteszi.
 
-(5) A kijelölt szerv a beszámolókat összegzi, és azt megküldi a miniszternek, valamint az érintett bizottság tagjainak.
+(5) A kijelölt szerv a beszámolókat összegzi, és azt megküldi a miniszternek.
 
 (6)
 
