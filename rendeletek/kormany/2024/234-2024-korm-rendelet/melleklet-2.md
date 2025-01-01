@@ -20,9 +20,9 @@ A Pro-M Professzionális Mobilszolgáltató Zártkörűen Működő Részvényt�
 
 9. az 101100680 azonosító számú „GN5-1” projekt
 
-10.[^20] a GINOP-3.3.1-16-2016-00001 azonosító számú „Közösségi internet hozzáférési pontok fejlesztése, szolgáltatási portfóliójuk bővítése” projekt, kivéve a GINOP-3.3.1-16-2016-00001 projekt keretében beszerzett vagy létrehozott nem hálózati eszközöket, amelyek vonatkozásában a KIFÜ helyébe jogutódként 2025. január 1-jétől a NISZ Zrt. lép
+10.[^10] a GINOP-3.3.1-16-2016-00001 azonosító számú „Közösségi internet hozzáférési pontok fejlesztése, szolgáltatási portfóliójuk bővítése” projekt, kivéve a GINOP-3.3.1-16-2016-00001 projekt keretében beszerzett vagy létrehozott nem hálózati eszközöket, amelyek vonatkozásában a KIFÜ helyébe jogutódként 2025. január 1-jétől a NISZ Zrt. lép
 
-11.[^21] a 101131237 azonosító számú „Authentication and Authorisation for Research Collaboration Technical Revision to Enhance Effectiveness” (AARC TREE) projekt
+11.[^11] a 101131237 azonosító számú „Authentication and Authorisation for Research Collaboration Technical Revision to Enhance Effectiveness” (AARC TREE) projekt
 
-[^20]: A 2. melléklet 10. pontját a 410/2024. (XII. 20.) Korm. rendelet 24. § b) pontja iktatta be.
-[^21]: A 2. melléklet 11. pontját a 410/2024. (XII. 20.) Korm. rendelet 24. § b) pontja iktatta be.
+[^10]: A 2. melléklet 10. pontját a 410/2024. (XII. 20.) Korm. rendelet 24. § b) pontja iktatta be.
+[^11]: A 2. melléklet 11. pontját a 410/2024. (XII. 20.) Korm. rendelet 24. § b) pontja iktatta be.

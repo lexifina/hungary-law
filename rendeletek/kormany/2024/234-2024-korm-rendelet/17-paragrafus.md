@@ -1,3 +1,3 @@
-17. §[^14]
+17. § A közszférabeli szervezetek honlapjainak és mobilalkalmazásainak akadálymentesítéséről szóló 2018. évi LXXV. törvényben foglalt kötelezettségek teljesítése ellenőrzésének részletes szabályairól szóló 162/2019. (VII. 5.) Korm. rendelet 1. §-a helyébe a következő rendelkezés lép:
 
-[^14]: A 17. § a 9. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+„1. § A Kormány a közszférabeli szervezetek honlapjainak és mobilalkalmazásainak akadálymentesítéséről szóló 2018. évi LXXV. törvény (a továbbiakban: Törvény) 5. §-a szerinti ellenőrzési és végrehajtási feladatokat a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti digitális szolgáltatások felügyelete (a továbbiakban: ellenőrző szervezet) látja el, amely a feladatainak ellátásába bevonhatja az IdomSoft Informatikai Zártkörűen Működő Részvénytársaságot.”
