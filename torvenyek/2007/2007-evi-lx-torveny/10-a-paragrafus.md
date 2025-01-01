@@ -1,3 +1,5 @@
+## A fluortartalmú üvegházhatású gázokra vonatkozó általános szabályok
+
 10/A. § (1) Valamennyi fluortartalmú üvegházhatású gázzal kapcsolatos tevékenység végzése során törekedni kell a fluortartalmú üvegházhatású gázok minél hatékonyabban történő használatára és a fluortartalmú üvegházhatású gázok mennyiségének csökkentésére.
 
 (2) Valamennyi fluortartalmú üvegházhatású gázzal kapcsolatos tevékenység végzése során törekedni kell megfelelő alternatív megoldások alkalmazására, amennyiben azok rendelkezésre állnak, műszakilag és biztonságilag alkalmazhatóak és alkalmazásuk nem jár aránytalan költségekkel.

@@ -6,6 +6,6 @@
 
 (3) A kiotói egységek átruházásához a forgalmi jegyzékben vezetett számlán történő nyilvántartásba vétel is szükséges.
 
-(4) A forgalmi jegyzékben számlával rendelkezők az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában való részvételről szóló törvény végrehajtásának egyes szabályairól szóló kormányrendeletben meghatározott számlavezetési díjat kötelesek fizetni.
+(4)
 
-(5) A számlanyitást kérelmező köteles legalább két meghatalmazott képviselőt megnevezni. A meghatalmazott képviselő olyan személy lehet, aki büntetlen előéletű és nem áll a közügyektől eltiltás hatálya alatt. E tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a klímavédelemért felelős hatóság részére – annak a számlanyitási kérelem vizsgálata céljából benyújtott megkeresése alapján – továbbítja. Az adatkezelés az (EU) 2019/1122 felhatalmazáson alapuló bizottsági rendelet szerint történik.
+(5)

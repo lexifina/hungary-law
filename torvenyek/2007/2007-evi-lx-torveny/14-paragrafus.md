@@ -18,7 +18,7 @@ c)
 
 d) a forgalmi jegyzék működésének szabályait;
 
-e) a forgalmi jegyzékhez kapcsolódó számlavezetési díj mértékét és fizetésének szabályait;
+e)
 
 f) a nemzetközi jelentések tartalmának és elkészítésének módját;
 
