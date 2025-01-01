@@ -6,12 +6,7 @@ Felelős: területfejlesztési miniszter
 
 Határidő: a nemzeti RRP Európai Bizottság és Európai Unió Tanácsa általi elfogadását követően azonnal
 
-2. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva létrehozza a Nemzeti Helyreállítási Alapot a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet XIX. Gazdaság-újraindítási Alap uniós fejlesztései fejezet, 3. Központi kezelésű előirányzatok cím, 10. Helyreállítási és Ellenállóképességi Eszköz (RRF) alcím, 10. Nemzeti Helyreállítási Alap alcímre történő módosításával.
-
-Felelős: pénzügyminiszter
-
-Miniszterelnökséget vezető miniszter
-
-Határidő: azonnal
+2.[^2]
 
 [^1]: Az 1. pont az 1402/2022. (VIII. 16.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^2]: A 2. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
