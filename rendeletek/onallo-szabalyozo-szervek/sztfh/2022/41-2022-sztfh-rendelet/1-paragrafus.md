@@ -8,6 +8,8 @@
 
 (2) A Szát. 24. § (1) bekezdés b) pontja szerinti természetes személy (a továbbiakban: képzésre kötelezett) – a Cstv. 27/C. § (4) bekezdés h) pontja szerinti tény felszámolói névjegyzékben történő feltüntetése feltételeként – a szerkezetátalakítási szakértői tevékenység megkezdéséhez szükséges szerkezetátalakítási alapképzésen (a továbbiakban: alapképzés) vesz részt, és az alapképzés eredményes elvégzését igazoló tanúsítványt az alapképzési kötelezettség teljesítését követő 30 napon belül bemutatja az őt foglalkoztató szerkezetátalakítási szakértőnek.
 
-(3) A képzésre kötelezett – az alapképzést követően – a szerkezetátalakítási szakértői tevékenység folytatásához szükséges ismeretei frissítése érdekében rendszeres továbbképzésben vesz részt, és a továbbképzés eredményes elvégzését igazoló tanúsítványt a továbbképzési kötelezettség teljesítését követő 30 napon belül bemutatja az őt foglalkoztató szerkezetátalakítási szakértőnek.
+(3)[^1] A képzésre kötelezett – az alapképzést követően – a szerkezetátalakítási szakértői tevékenység folytatásához szükséges ismeretei frissítése érdekében kétévente továbbképzésben vesz részt, és a továbbképzés eredményes elvégzését igazoló tanúsítványt a továbbképzési kötelezettség teljesítését követő 30 napon belül bemutatja az őt foglalkoztató szerkezetátalakítási szakértőnek.
 
 (4) A szerkezetátalakítási szakértőt nyilvántartó Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: Hatóság) az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény szerinti hatósági ellenőrzés keretében vizsgálja a szerkezetátalakítási szakértőnél a (2) és (3) bekezdés szerinti kötelezettség teljesítését.
+
+[^1]: Az 1. § (3) bekezdése a 18/2024. (XII. 30.) SZTFH rendelet 23. § a) pontja szerint módosított szöveg.
