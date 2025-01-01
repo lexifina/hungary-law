@@ -34,6 +34,12 @@
 
 14. a szociális diagnózis elkészítése
 
+15.[^419] a fogyatékos személyek nappali ellátása,
+
+16.[^420] az idősek otthona
+
 szakmai módszereit.
 
 [^418]: A 111. § a 30/2024. (VII. 23.) BM rendelet 20. § (1) bekezdésével megállapított szöveg.
+[^419]: A 111. § (2) bekezdés 15. pontját a 30/2024. (VII. 23.) BM rendelet 20. § (2) bekezdése iktatta be.
+[^420]: A 111. § (2) bekezdés 16. pontját a 30/2024. (VII. 23.) BM rendelet 20. § (2) bekezdése iktatta be.

@@ -1,3 +1,3 @@
-2. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^467]
+2. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^469]
 
-[^467]: A 2. számú melléklet a 4/2020. (II. 6.) EMMI rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^469]: A 2. számú melléklet a 4/2020. (II. 6.) EMMI rendelet 14. § (1) bekezdésével megállapított szöveg.
