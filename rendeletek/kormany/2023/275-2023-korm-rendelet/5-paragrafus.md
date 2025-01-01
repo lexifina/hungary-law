@@ -1,6 +1,6 @@
 ## 4. A koncessziós társaság jogai és kötelezettségei
 
-5. § (1)[^1]
+5. § (1) A koncessziós társaság a textiltermék hulladékának elkülönített gyűjtéséről országos lefedettséggel gondoskodik.
 
 (2) A textiltermék hulladékának gyűjtése érdekében a koncessziós társaság az egyenlő bánásmód követelményeire, valamint a gyűjtésre szolgáló hely kialakításához szükséges feltételekre figyelemmel választja ki a gyűjtésbe bevont szervezeteket. A textiltermék hulladékának gyűjtésébe bevonható szervezetek számát a koncessziós társaság határozza meg a rendelkezésére álló gyűjtőedények számára, illetve a gyűjtés országosan kiegyensúlyozott mértékű elhelyezkedésére és indokoltságára figyelemmel.
 
@@ -17,5 +17,3 @@ a) természetes személy textiltermék hulladékának gyűjtésére szolgáló g
 b) a hulladéktermelő gazdálkodó szervezet esetében a gazdálkodó szervezeteknél képződő, a hulladékgazdálkodási intézményi résztevékenység körébe tartozó, elkülönítetten gyűjtött hulladék képződésének megelőzésével, valamint e hulladékkal kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályairól szóló kormányrendelet alapján
 
 átveszi.
-
-[^1]: Az 5. § (1) bekezdése a 6. § (2) bekezdés alapján 2025. január 1-jén lép hatályba.
