@@ -1,4 +1,4 @@
-1. melléklet a 173/2011. (VIII. 24.) Korm. rendelethez[^153]
+1. melléklet a 173/2011. (VIII. 24.) Korm. rendelethez[^181]
 
 1. A telepítési távolság meghatározása
 
@@ -87,12 +87,6 @@
 4. Pirotechnikai termékekben használatos robbanóképes anyagok TNT-egyenértéke
 
 4.1. A pirotechnikai termékekben használatos robbanóképes anyagok TNT-egyenértékét („E”) az alábbi módon kell kiszámítani:
-
-## ahol:
-
-4.1.1. „Qrobbanóanyag”: a robbanóképes pirotechnikai anyag fajlagos égéshője (kJ/kg)
-
-4.1.2. „QTNT”: a TNT fajlagos robbanáshője (4187 kJ/kg)
 
 4.2. A pirotechnikai anyagok TNT-egyenértékének számításánál a fajlagos robbanáshő helyett a fajlagos égéshőt kell figyelembe venni.
 
@@ -220,4 +214,4 @@
 
 |  | 20 | 1 | a kifúvófal és kifúvó födém esetében. |
 
-[^153]: Az 1. melléklet a 300/2014. (XII. 5.) Korm. rendelet 9. §-a, a 100/2015. (IV. 20.) Korm. rendelet 26. § (1) bekezdés 18–22. pontja, a 6/2020. (I. 31.) Korm. rendelet 7. § d) pontja szerint módosított szöveg.
+[^181]: Az 1. melléklet a 300/2014. (XII. 5.) Korm. rendelet 9. §-a, a 100/2015. (IV. 20.) Korm. rendelet 26. § (1) bekezdés 18–22. pontja, a 6/2020. (I. 31.) Korm. rendelet 7. § d) pontja, a 479/2024. (XII. 31.) Korm. rendelet 53. § (1) bekezdése szerint módosított szöveg.

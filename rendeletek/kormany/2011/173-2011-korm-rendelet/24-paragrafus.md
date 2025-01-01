@@ -10,4 +10,8 @@
 
 (5) A konténert folyamatosan őrizni kell, ha abban pirotechnikai terméket tárolnak. Az őrzést helyszíni élőerős őrzéssel vagy helyszíni reagálást kiváltó távfelügyelettel kell biztosítani.
 
+(5a)[^46] A helyszíni reagálást kiváltó távfelügyelet minimumfeltételeit a 9. melléklet határozza meg.
+
 (6) Gondoskodni kell a kézi tárolóhelyként telepített konténer villámvédelméről, valamint elektrosztatikus feltöltődés elleni védelméről.
+
+[^46]: A 24. § (5a) bekezdését a 479/2024. (XII. 31.) Korm. rendelet 37. §-a iktatta be.

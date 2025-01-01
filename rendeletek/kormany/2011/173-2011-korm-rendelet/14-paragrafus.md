@@ -20,19 +20,19 @@ g) a pirotechnikai termék eredeti szerelési formája nem bontható meg, a piro
 
 h) a közvetlen, kézi gyújtással szerelt termék csak a gyújtóhelyet borító védősapkával mozgatható, és az akaratlan gyújtástól védve szállítható,
 
-i) egy lakóegységen belül csak egy magánszemély tárolhat pirotechnikai terméket.
+i)[^36] egy lakóegységen belül összesen csak az egy magánszemély által birtokolható mennyiségű pirotechnikai termék tárolható.
 
 (3) A járművekhez használt pirotechnikai termék kivételével a belföldi forgalmazásra szánt pirotechnikai terméket vagy – ha azon nincs elegendő hely – a termék legkisebb egységcsomagját magyar nyelvű, illetve a felhasználó által kért nyelven közérthető és jól olvasható címkével kell a terméktől elválaszthatatlan módon ellátni.
 
 (4) A (3) bekezdés szerinti címke tartalmazza:
 
-a)[^33] a gyártó nevét, bejegyzett kereskedelmi nevét vagy bejegyzett védjegyét és a postai címét, ha a gyártó az Európai Unióban vagy valamely EGT-államban nem letelepedett, akkor a gyártó neve mellett az importőr nevét, bejegyzett kereskedelmi nevét vagy bejegyzett védjegyét és a postai címét,
+a)[^37] a gyártó nevét, bejegyzett kereskedelmi nevét vagy bejegyzett védjegyét és a postai címét, ha a gyártó az Európai Unióban vagy valamely EGT-államban nem letelepedett, akkor a gyártó neve mellett az importőr nevét, bejegyzett kereskedelmi nevét vagy bejegyzett védjegyét és a postai címét,
 
-b)[^34] a pirotechnikai termék nevét, típusát, pirotechnikai osztályát, a tanúsítási regisztrációs számát és a 7/A. § szerinti nyilvántartási számát,
+b)[^38] a pirotechnikai termék nevét, típusát, pirotechnikai osztályát, a tanúsítási regisztrációs számát és a 7/A. § szerinti nyilvántartási számát,
 
 c) a nettó hatóanyag-tartalmát,
 
-d)[^35] a felhasználhatósági időt, valamint a 3. és 4. pirotechnikai osztályba tartozó tűzijáték termékek esetében a gyártás évét,
+d)[^39] a felhasználhatósági időt, valamint a 3. és 4. pirotechnikai osztályba tartozó tűzijáték termékek esetében a gyártás évét,
 
 e) a pirotechnikai termék felhasználásához szükséges – e rendelet szerinti – alsó korhatárt,
 
@@ -54,6 +54,7 @@ k) a 3. pirotechnikai osztályba tartozó tűzijáték termék esetében a term�
 
 (7) A gyártó köteles a pirotechnikai terméket jól látható és olvasható kitörölhetetlen címkével ellátni az értékesítés helye szerinti ország hivatalos nyelvén, amelyben a terméket a fogyasztó számára értékesítik.
 
-[^33]: A 14. § (4) bekezdés a) pontja a 100/2015. (IV. 20.) Korm. rendelet 26. § (1) bekezdés 2. pontja szerint módosított szöveg.
-[^34]: A 14. § (4) bekezdés b) pontja a 100/2015. (IV. 20.) Korm. rendelet 26. § (1) bekezdés 3. pontja szerint módosított szöveg.
-[^35]: A 14. § (4) bekezdés d) pontja a 100/2015. (IV. 20.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^36]: A 14. § (2) bekezdés i) pontja a 479/2024. (XII. 31.) Korm. rendelet 35. §-ával megállapított szöveg.
+[^37]: A 14. § (4) bekezdés a) pontja a 100/2015. (IV. 20.) Korm. rendelet 26. § (1) bekezdés 2. pontja szerint módosított szöveg.
+[^38]: A 14. § (4) bekezdés b) pontja a 100/2015. (IV. 20.) Korm. rendelet 26. § (1) bekezdés 3. pontja szerint módosított szöveg.
+[^39]: A 14. § (4) bekezdés d) pontja a 100/2015. (IV. 20.) Korm. rendelet 7. §-ával megállapított szöveg.

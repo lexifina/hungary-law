@@ -4,15 +4,15 @@
 
 75. § (1) A rendőrség kezdeményezi a pirotechnikai termék forgalomból való kivonását, vagy megtiltja a pirotechnikai termék forgalmazását, ha
 
-a)[^65] tudomására jut, hogy a CE-jelöléssel és EU-megfelelőségi nyilatkozattal ellátott, rendeltetésszerűen használt pirotechnikai termék veszélyezteti természetes személyek életét, testi épségét, egészségét, vagyonát vagy ezek biztonságát,
+a)[^73] tudomására jut, hogy a CE-jelöléssel és EU-megfelelőségi nyilatkozattal ellátott, rendeltetésszerűen használt pirotechnikai termék veszélyezteti természetes személyek életét, testi épségét, egészségét, vagyonát vagy ezek biztonságát,
 
 b) a bejelentett szervezet tájékoztatja, hogy visszavonta a pirotechnikai termék tanúsítványát, vagy egy gyártási tételt nem megfelelőnek minősített, vagy
 
-c)[^66] az Európai Bizottság (a továbbiakban: Bizottság) tájékoztatja Magyarországot egy pirotechnikai termék vagy gyártási tétel más részes államban történt forgalomból való kivonásáról vagy forgalomba hozatalának megtiltásáról,
+c)[^74] az Európai Bizottság (a továbbiakban: Bizottság) tájékoztatja Magyarországot egy pirotechnikai termék vagy gyártási tétel más részes államban történt forgalomból való kivonásáról vagy forgalomba hozatalának megtiltásáról,
 
-d)[^67] az (1a) bekezdés szerinti hiányosságok pótlására a gazdasági szereplőt felszólította, és a felszólításnak a gazdasági szereplő nem tett eleget.
+d)[^75] az (1a) bekezdés szerinti hiányosságok pótlására a gazdasági szereplőt felszólította, és a felszólításnak a gazdasági szereplő nem tett eleget.
 
-(1a)[^68] Ha a gazdasági szereplő megállapítja, hogy
+(1a)[^76] Ha a gazdasági szereplő megállapítja, hogy
 
 a) a CE-jelölés nem került feltüntetésre,
 
@@ -34,10 +34,10 @@ köteles soron kívül, de legkésőbb a rendőrség felszólítására intézke
 
 (4) Ha egy nem megfelelő pirotechnikai termék CE-jelöléssel van ellátva, a rendőrség a jelölés elhelyezője elleni intézkedése megtételéről haladéktalanul tájékoztatja a Bizottságot.
 
-(5)[^69] A piacfelügyeleti hatóság a harmonizált szabványokkal szembeni kifogásáról az európai szabványosításról, a 89/686/EGK és a 93/15/EGK tanácsi irányelv, a 94/9/EK, a 94/25/EK, a 95/16/EK, a 97/23/EK, a 98/34/EK, a 2004/22/EK, a 2007/23/EK, a 2009/23/EK és a 2009/105/EK európai parlamenti és tanácsi irányelv módosításáról, valamint a 87/95/EGK tanácsi határozat és az 1673/2006/EK európai parlamenti és tanácsi határozat hatályon kívül helyezéséről szóló, 2012. október 25-i 1025/2012/EU európai parlamenti és tanácsi rendelet 11. cikke alapján értesíteni köteles az Európai Bizottságot.
+(5)[^77] A piacfelügyeleti hatóság a harmonizált szabványokkal szembeni kifogásáról az európai szabványosításról, a 89/686/EGK és a 93/15/EGK tanácsi irányelv, a 94/9/EK, a 94/25/EK, a 95/16/EK, a 97/23/EK, a 98/34/EK, a 2004/22/EK, a 2007/23/EK, a 2009/23/EK és a 2009/105/EK európai parlamenti és tanácsi irányelv módosításáról, valamint a 87/95/EGK tanácsi határozat és az 1673/2006/EK európai parlamenti és tanácsi határozat hatályon kívül helyezéséről szóló, 2012. október 25-i 1025/2012/EU európai parlamenti és tanácsi rendelet 11. cikke alapján értesíteni köteles az Európai Bizottságot.
 
-[^65]: A 75. § (1) bekezdés a) pontja a 100/2015. (IV. 20.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^66]: A 75. § (1) bekezdés c) pontja a 276/2011. (XII. 20.) Korm. rendelet 20. § (4) bekezdése szerint módosított szöveg.
-[^67]: A 75. § (1) bekezdés d) pontját a 100/2015. (IV. 20.) Korm. rendelet 13. § (2) bekezdése iktatta be.
-[^68]: A 75. § (1a) bekezdését a 100/2015. (IV. 20.) Korm. rendelet 13. § (3) bekezdése iktatta be.
-[^69]: A 75. § (5) bekezdése a 78/2013. (III. 13.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^73]: A 75. § (1) bekezdés a) pontja a 100/2015. (IV. 20.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^74]: A 75. § (1) bekezdés c) pontja a 276/2011. (XII. 20.) Korm. rendelet 20. § (4) bekezdése szerint módosított szöveg.
+[^75]: A 75. § (1) bekezdés d) pontját a 100/2015. (IV. 20.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^76]: A 75. § (1a) bekezdését a 100/2015. (IV. 20.) Korm. rendelet 13. § (3) bekezdése iktatta be.
+[^77]: A 75. § (5) bekezdése a 78/2013. (III. 13.) Korm. rendelet 23. §-ával megállapított szöveg.

@@ -4,6 +4,6 @@
 
 61. § (1) A bejelentett szervezet a pirotechnikai termék vizsgálatát a honosított harmonizált szabványokban meghatározott vagy ezekkel egyenértékű vizsgálati eljárás szerint végzi annak megállapítása érdekében, hogy a termék megfelel-e az e rendelet által megállapított alapvető biztonsági követelményeknek.
 
-(2)[^55] A bejelentett szervezet elhelyezi vagy elhelyezteti saját azonosító jelét minden egyes jóváhagyott pirotechnikai terméken, és az elvégzett vizsgálatok alapján EU-megfelelőségi nyilatkozatot állít ki.
+(2)[^62] A bejelentett szervezet elhelyezi vagy elhelyezteti saját azonosító jelét minden egyes jóváhagyott pirotechnikai terméken, és az elvégzett vizsgálatok alapján EU-megfelelőségi nyilatkozatot állít ki.
 
-[^55]: A 61. § (2) bekezdése a 100/2015. (IV. 20.) Korm. rendelet 26. § (1) bekezdés 14. pontja szerint módosított szöveg.
+[^62]: A 61. § (2) bekezdése a 100/2015. (IV. 20.) Korm. rendelet 26. § (1) bekezdés 14. pontja szerint módosított szöveg.

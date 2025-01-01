@@ -2,7 +2,7 @@
 
 6. § (1) A talált pirotechnikai terméket haladéktalanul be kell jelenteni a rendőrségnek, kivéve a magánszemély által birtokolható pirotechnikai terméket, ha a birtoklás – e rendelet szerinti – feltételei rá nézve fennállnak.
 
-(2)[^26] A pirotechnikai tevékenységre irányuló hatósági engedély (a továbbiakban: engedély) iránti kérelmet benyújtó vállalkozás (a továbbiakban: engedélyes), továbbá a forgalmazás vagy felhasználás bejelentéséről szóló rendőrségi igazolással rendelkező vállalkozás a pirotechnikai termék elvesztését haladéktalanul bejelenti az engedélyt vagy az igazolást kiadó hatóságnál.
+(2)[^29] A pirotechnikai tevékenységre irányuló hatósági engedély (a továbbiakban: engedély) iránti kérelmet benyújtó vállalkozás (a továbbiakban: engedélyes), továbbá a forgalmazás vagy felhasználás bejelentéséről szóló rendőrségi igazolással rendelkező vállalkozás a pirotechnikai termék elvesztését haladéktalanul bejelenti az engedélyt vagy az igazolást kiadó hatóságnál.
 
 (3) A rendőrség a talált, valamint a zárolt pirotechnikai termék megsemmisítéséről gondoskodik, ha
 
@@ -12,4 +12,4 @@ b) a jogosult annak elszállításáról, értékesítéséről vagy megsemmisí
 
 (4) A zárolás, és az ahhoz kapcsolódó megsemmisítés költségeit az érintett, valamint az örökös vagy a jogutód téríti meg.
 
-[^26]: A 6. § (2) bekezdése a 100/2015. (IV. 20.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^29]: A 6. § (2) bekezdése a 100/2015. (IV. 20.) Korm. rendelet 2. §-ával megállapított szöveg.

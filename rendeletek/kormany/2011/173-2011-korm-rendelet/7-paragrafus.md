@@ -1,6 +1,6 @@
 ## 4. A pirotechnikai termékre vonatkozó alapvető biztonsági követelmények
 
-7. §[^27] (1) A gyártó köteles biztosítani, hogy a pirotechnikai termék megfelel a rá vonatkozó alapvető biztonsági követelményeknek, és kiállítja a 8. melléklet szerinti EU-megfelelőségi nyilatkozatot.
+7. §[^30] (1) A gyártó köteles biztosítani, hogy a pirotechnikai termék megfelel a rá vonatkozó alapvető biztonsági követelményeknek, és kiállítja a 8. melléklet szerinti EU-megfelelőségi nyilatkozatot.
 
 (2) A gyártó és az importőr az általa gyártott vagy importált valamennyi pirotechnikai termékről nyilvántartást vezet, amely tartalmazza a pirotechnikai termék
 
@@ -18,4 +18,4 @@ e) forgalomba hozatalának időpontját.
 
 (4) A gyártói vagy importőri tevékenység befejezését követően a gyártó vagy importőr soron kívül átadja a (2) bekezdés szerinti teljes nyilvántartást a rendőrségnek, amely a (2) és (3) bekezdés szerinti szabályoknak megfelelően kezeli tovább a nyilvántartást.
 
-[^27]: A 7. § a 100/2015. (IV. 20.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^30]: A 7. § a 100/2015. (IV. 20.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.

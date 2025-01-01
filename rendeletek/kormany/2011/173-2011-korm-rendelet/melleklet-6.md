@@ -54,6 +54,6 @@
 
 | Csapadékvíz elleni szigetelések | D |
 
-6. melléklet a 173/2011. (VIII. 24.) Korm. rendelethez[^187]
+6. melléklet a 173/2011. (VIII. 24.) Korm. rendelethez[^227]
 
-[^187]: A 6. mellékletet a 137/2017. (VI. 9.) Korm. rendelet 8. §-a hatályon kívül helyezte.
+[^227]: A 6. mellékletet a 137/2017. (VI. 9.) Korm. rendelet 8. §-a hatályon kívül helyezte.

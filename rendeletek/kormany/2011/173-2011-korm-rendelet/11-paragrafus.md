@@ -14,10 +14,10 @@ c) a 3. és 4. pirotechnikai osztályba tartozó tűzijáték termék esetében 
 
 (5) A tűzijáték termék a felhasználás során nem mozdulhat el kiszámíthatatlan vagy előre nem látható módon.
 
-(6)[^31] A tűzijáték termékre vonatkozó minimális védőterület átmérője
+(6)[^34] A tűzijáték termékre vonatkozó minimális védőterület átmérője
 
 a) a gyártó által – a bejelentett szervezet által kiadott EU típusvizsgálati tanúsítvánnyal összhangban – megállapított érték, vagy
 
 b) ha az a) pontban megállapított érték nem áll rendelkezésre, a tűzijáték termék kaliberének ezerszerese, szikraszökőkút esetében a termék működési magassága.
 
-[^31]: A 11. § (6) bekezdését a 100/2015. (IV. 20.) Korm. rendelet 5. §-a iktatta be.
+[^34]: A 11. § (6) bekezdését a 100/2015. (IV. 20.) Korm. rendelet 5. §-a iktatta be.

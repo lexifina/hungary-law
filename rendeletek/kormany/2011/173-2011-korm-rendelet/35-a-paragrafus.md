@@ -1,4 +1,4 @@
-35/A. §[^44] (1) A bejelentett szervezet nyilvántartást vezet mindazokról a pirotechnikai termékekről, amelyekhez EU-típusvizsgálati tanúsítványt, egyedi termék-hitelesítési eljárás keretében megfelelőségi nyilatkozatot, vagy termék teljes minőségbiztosítási eljárása keretében a minőségbiztosítási rendszerre vonatkozó jóváhagyást állít ki.
+35/A. §[^51] (1) A bejelentett szervezet nyilvántartást vezet mindazokról a pirotechnikai termékekről, amelyekhez EU-típusvizsgálati tanúsítványt, egyedi termék-hitelesítési eljárás keretében megfelelőségi nyilatkozatot, vagy termék teljes minőségbiztosítási eljárása keretében a minőségbiztosítási rendszerre vonatkozó jóváhagyást állít ki.
 
 (2) Az (1) bekezdés szerinti nyilvántartás – a 7. melléklet szerinti formátumban – 10 évig tartalmazza
 
@@ -20,4 +20,4 @@ g) a megjegyzéseket.
 
 (4) Ha nincsen másik működési engedéllyel rendelkező bejelentett szervezet, amely részére az (1) bekezdés szerinti nyilvántartás átadható, az (1) bekezdés szerinti nyilvántartást a rendőrség számára kell átadni az adatszolgáltatási kötelezettség esedékességétől számított 10 napon belül. A rendőrség ebben az esetben az (1) és (2) bekezdés szerinti szabályoknak megfelelően kezeli tovább a nyilvántartást.
 
-[^44]: A 35/A. §-t a 100/2015. (IV. 20.) Korm. rendelet 10. §-a iktatta be.
+[^51]: A 35/A. §-t a 100/2015. (IV. 20.) Korm. rendelet 10. §-a iktatta be.
