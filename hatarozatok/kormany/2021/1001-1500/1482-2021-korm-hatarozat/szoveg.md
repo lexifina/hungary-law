@@ -8,11 +8,7 @@ A Kormány
 
 4. a Beruházásnak az állami magasépítési beruházásokról szóló 299/2018. (XII. 27.) Korm. rendelet 4. § c), d), f), h) és l)–p) pontja szerinti előkészítési fázisai 2021. december 31. napjáig történő teljesítése érdekében, a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 74 899 571 forintban határozza meg;
 
-5. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 3. Gazdaság-újraindítási Alap – Kiemelt Kormányzati Magasépítési Beruházások cím, 1. Egyedi magasépítési beruházások alcímének az 52. Új Szent János Kórház és Szakrendelő ifjúságpszichiátriai beruházásának előkészítése jogcímcsoporttal történő kiegészítését;
-
-Felelős: pénzügyminiszter
-
-Határidő: azonnal
+5.[^1]
 
 6. felhívja a pénzügyminisztert, hogy a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter kezdeményezése alapján gondoskodjon 74 899 571 forint forrás biztosításáról az 5. pont szerinti előirányzaton;
 
@@ -29,3 +25,5 @@ Határidő: a felmerülés ütemében
 Felelős: pénzügyminiszter
 
 Határidő: a felmerülés ütemében
+
+[^1]: Az 5. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
