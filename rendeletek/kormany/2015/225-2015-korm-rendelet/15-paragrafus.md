@@ -1,6 +1,6 @@
 ## 8. A hulladék minősítésére vonatkozó szabályok
 
-15. § (1)[^8] Aki olyan hulladékkal végez hulladékgazdálkodási tevékenységet, vagy olyan hulladéknak a tulajdonosa,
+15. § (1)[^11] Aki olyan hulladékkal végez hulladékgazdálkodási tevékenységet, vagy olyan hulladéknak a tulajdonosa,
 
 a) amelynek összetétele és származása ismeretlen,
 
@@ -8,15 +8,15 @@ b) amely a hulladékjegyzékről szóló miniszteri rendeletben meghatározott h
 
 c) amely a hulladékjegyzékről szóló miniszteri rendeletben meghatározott hulladékjegyzékben veszélyes hulladékként szerepel, de a Ht. 1. mellékletben meghatározott veszélyességi jellemzők egyikével sem rendelkezik, vagy
 
-d)[^9] amelynek adott hulladéktípusként történő, a hulladékgazdálkodási hatóság által elvégzett besorolását a hulladékbirtokos vitatja,
+d)[^12] amelynek adott hulladéktípusként történő, a hulladékgazdálkodási hatóság által elvégzett besorolását a hulladékbirtokos vitatja,
 
 a hulladékbirtokos az országos illetékességgel hulladékgazdálkodási feladatkörében eljáró Pest Vármegyei Kormányhivatalnál (a továbbiakban: országos hulladékgazdálkodási hatóság) a Ht. 55. § (2) és (3) bekezdésében foglaltakra figyelemmel kérelmezi a hulladék minősítését.
 
-(2)[^10]
+(2)[^13]
 
 (3) A kérelemnek legalább a következőket kell tartalmaznia:
 
-a) a kérelmező neve, címe, székhelye, telephelye, statisztikai azonosító jele;
+a)[^14] a kérelmező KÜJ azonosítója;
 
 b) a hulladék mennyisége (a képződött hulladék éves mennyisége, ha az adat rendelkezésre áll);
 
@@ -26,8 +26,10 @@ d) a hulladék külső megjelenési formája, halmazállapota (folyékony, szil�
 
 e) akkreditált laboratórium által végzett mintavizsgálat eredményeit tartalmazó dokumentumot és a mintavételről készített jegyzőkönyvet.
 
-(4) A kérelemhez az igazgatási szolgáltatási díj befizetéséről szóló igazolást csatolni kell.
+(4)[^15] Az igazgatási szolgáltatási díj befizetését az országos hulladékgazdálkodási hatóság ellenőrzi.
 
-[^8]: A 15. § (1) bekezdés záró szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 301. § (2) bekezdés a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 217. §-a, a 107/2023. (III. 30.) Korm. rendelet 7. §-a, a 675/2023. (XII. 29.) Korm. rendelet 16. §-a szerint módosított szöveg.
-[^9]: A 15. § (1) bekezdés d) pontja a 312/2021. (VI. 7.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
-[^10]: A 15. § (2) bekezdését a 477/2016. (XII. 27.) Korm. rendelet 82. § (2) bekezdés b) pontja hatályon kívül helyezte.
+[^11]: A 15. § (1) bekezdés záró szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 301. § (2) bekezdés a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 217. §-a, a 107/2023. (III. 30.) Korm. rendelet 7. §-a, a 675/2023. (XII. 29.) Korm. rendelet 16. §-a szerint módosított szöveg.
+[^12]: A 15. § (1) bekezdés d) pontja a 312/2021. (VI. 7.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
+[^13]: A 15. § (2) bekezdését a 477/2016. (XII. 27.) Korm. rendelet 82. § (2) bekezdés b) pontja hatályon kívül helyezte.
+[^14]: A 15. § (3) bekezdés a) pontja a 340/2024. (XI. 14.) Korm. rendelet 19. § (4) bekezdésével megállapított szöveg.
+[^15]: A 15. § (4) bekezdése a 340/2024. (XI. 14.) Korm. rendelet 19. § (5) bekezdésével megállapított szöveg.

@@ -8,21 +8,12 @@
 
 a) név,
 
-b) székhely címe,
+b) KÜJ és
 
-c) telephely címe, ha van,
-
-d)[^4] a hulladékgazdálkodási engedély vagy nyilvántartásba vétel száma, ha van,
-
-e) a hulladékgazdálkodási engedély érvényességi ideje,
-
-f) KÜJ, és
-
-g) Környezetvédelmi Területi Jel (a továbbiakban: KTJ), ha van.
+c) Környezetvédelmi Területi Jel (a továbbiakban: KTJ), ha van.
 
 (4) Minden igénylő csak egy sorszámtartománnyal rendelkezhet. A sorszámtartomány részét képező azonosítótól kötőjellel elválasztott sorszámot (a továbbiakban együtt: sorszám) a szállítási lap minden példányán fel kell tüntetni. A szállítási lap példányait – lehetőség szerint – folyamatosan növekvő sorszámozással kell ellátni.
 
 [^1]: Az 5. § (1) bekezdése a 440/2016. (XII. 16.) Korm. rendelet 35. § a) pontja szerint módosított szöveg.
 [^2]: Az 5. § (2) bekezdése a 132/2018. (VII. 23.) Korm. rendelet 16. §-a szerint módosított szöveg.
-[^3]: Az 5. § (3) bekezdés nyitó szövegrésze a 477/2016. (XII. 27.) Korm. rendelet 82. § (2) bekezdés a) pontja, a 132/2018. (VII. 23.) Korm. rendelet 16. §-a szerint módosított szöveg.
-[^4]: Az 5. § (3) bekezdés d) potnja a 440/2016. (XII. 16.) Korm. rendelet 35. § b) pontja szerint módosított szöveg.
+[^3]: Az 5. § (3) bekezdése a 340/2024. (XI. 14.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.

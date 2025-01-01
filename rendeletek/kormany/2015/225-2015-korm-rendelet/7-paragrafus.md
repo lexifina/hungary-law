@@ -6,10 +6,15 @@
 
 (4) A veszélyes hulladék hulladékkezelőhöz vagy kereskedőhöz történő szállítását követően az átvétel előtt a hulladékkezelő, a kereskedő ellenőrzi, hogy a veszélyes hulladék megegyezik-e a szállítási lapon, illetve a hulladék átadójával kötött szerződésben rögzített adatokkal. A hulladékkezelő, a kereskedő a veszélyes hulladékot a szállítótól csak abban az esetben veheti át, ha a veszélyes hulladékot a szállítási lapon feltüntetettel megegyező hulladékként azonosította.
 
-(5) A veszélyes hulladék szállítója a szállítmány hulladékkezelőnek, kereskedőnek történő átadását követően az átadás tényét a szállítónál lévő valamennyi szállítási lap példányán igazoltatja. A hulladékkezelő vagy a kereskedő a szállítási lap egy példányát a szállítónak visszaadja, amelyet a szállító igazolásként megőriz. A hulladékkezelő vagy a kereskedő a szállítási lap rá vonatkozó egy példányát bizonylatként megőrzi, a másik példányt a veszélyes hulladék átvételét követő 30 napon belül a hulladék átadójának visszajuttatja.
+(5)[^5] A veszélyes hulladék szállítója a szállítmány hulladékkezelőnek, kereskedőnek történő átadását követően az átadás tényét a szállítónál lévő valamennyi szállítási lap példányán igazoltatja. A hulladékkezelő vagy a kereskedő a szállítási lap egy példányát a szállítónak visszaadja, amelyet a szállító igazolásként megőriz. A hulladékkezelő vagy a kereskedő a szállítási lap rá vonatkozó egy példányát bizonylatként megőrzi, s annak másolati példányát elektronikus úton a veszélyes hulladék átvételét követő 30 napon belül a hulladék átadójának megküldi.
 
-(6)[^5] Ha a szállítási lap hulladék átadója részére visszajuttatandó példányát a hulladékkezelő, a kereskedő a veszélyes hulladék átvételét követő 30 napon belül a hulladék átadója részére nem juttatja vissza, a hulladék átadója a hulladékkezelőt, a kereskedőt e kötelezettségének teljesítésére haladéktalanul felszólítja. Ha a felszólítást követő 8 napon belül a szállítási lap e példányát a hulladékkezelő, a kereskedő a hulladék átadója részére nem juttatja vissza, a hulladék átadója erről a hulladék képződésének helye szerint illetékes hulladékgazdálkodási hatóság részére haladéktalanul bejelentést tesz.
+(6)[^6] Nem köteles a hulladékkezelő, illetve a kereskedő a szállítási lap másolati példányát a hulladék átadójának megküldeni abban az esetben, ha a szállító és a hulladék átadó személye megegyezik.
 
-(7) A kitöltött szállítási lapot a hulladék átadójának, a szállítónak, a kereskedőnek, a hulladékkezelőnek 10 évig meg kell őriznie.
+(7)[^7] Ha a hulladék átadója részére a hulladékkezelő, a kereskedő a veszélyes hulladék átvételét követő 30 napon belül a hulladék átadója részére a szállítási lap másolati példányát elektronikus úton nem küldi meg, a hulladék átadója a hulladékkezelőt, a kereskedőt e kötelezettségének teljesítésére haladéktalanul felszólítja. Ha a hulladékkezelő, a kereskedő e kötelezettségét a felszólítást követő 8 napon belül sem teljesíti, a hulladék átadója erről a hulladék képződésének helye szerint illetékes hulladékgazdálkodási hatóság részére haladéktalanul bejelentést tesz.
 
-[^5]: A 7. § (6) bekezdése a 312/2021. (VI. 7.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
+(8)[^8] A kitöltött szállítási lapot a hulladék átadójának, a szállítónak, a kereskedőnek, a hulladékkezelőnek 5 évig meg kell őriznie.
+
+[^5]: A 7. § (5) bekezdése a 340/2024. (XI. 14.) Korm. rendelet 19. § (3) bekezdésével megállapított szöveg.
+[^6]: A 7. § (6) bekezdése a 340/2024. (XI. 14.) Korm. rendelet 19. § (3) bekezdésével megállapított szöveg.
+[^7]: A 7. § (7) bekezdése a 340/2024. (XI. 14.) Korm. rendelet 19. § (3) bekezdésével megállapított szöveg.
+[^8]: A 7. § (8) bekezdését a 340/2024. (XI. 14.) Korm. rendelet 19. § (3) bekezdése iktatta be.

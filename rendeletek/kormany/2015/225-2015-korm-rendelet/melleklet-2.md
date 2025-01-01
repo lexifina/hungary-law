@@ -36,31 +36,7 @@ n) a minősítést megalapozó vizsgálatokat végző akkreditált laboratórium
 
 o) a mintavételnél jelenlevők aláírása, a mintavételnél jelen lévő személyek neve, beosztása, a képviselt szervezet neve.
 
-2. A Hulladékminősítő Bizottság szakértői véleménye:
-
-A Hulladékminősítő Bizottság szakértői véleményének legalább a következő tartalmi elemekkel kell rendelkeznie:
-
-a) a kérelmet előterjesztő hulladékbirtokos neve, címe, székhelye, telephelye;
-
-b) az akkreditált mintavételre, illetve az akkreditált mintavizsgálatra felkért laboratórium neve, címe és akkreditálási dokumentációjának másolata;
-
-c) a minősítendő hulladék származási helye; annak átfogó ismertetése, hogy a hulladék milyen tevékenység során képződött;
-
-d) a minta előkészítésének ismertetése;
-
-e) a minősítésre használt vizsgálati módszerek ismertetése:
-
-ea) szabvány alapján végzett vizsgálatok esetében a szabvány száma, címe,
-
-eb) más vizsgálati módszer vagy műszaki megoldás esetében a választott módszer vagy műszaki megoldás ismertetése és annak indokolása;
-
-f) a vizsgálatok eredményeinek értékelése;
-
-g) a hulladék javasolt minősítése a lefolytatott vizsgálatok alapján;
-
-h) a hulladékkal kapcsolatos egyéb információ és ajánlás ismertetése (hasznosításra és ártalmatlanításra vonatkozó javaslatok);
-
-i) a vélemény kiállításának dátuma és a véleményt készítő aláírása.
+2.[^28]
 
 3. A hulladék veszélyességének megállapítása:
 
@@ -117,3 +93,5 @@ b) azt a fertőző hulladékot, amely Salmonellát, illetve életképes parazita
 c) a környezet élő szervezeteit károsító hulladékot, amelynek desztillált vizes kivonata a Daphnia- és a csíranövény-tesztben >10-szeres, a baktériumtesztben, a hal- és algatesztben >25-szörös hígításban károsító hatású;
 
 d) azt a hulladékot, amelynek mutagenitási tesztje közepes mutagén hatást (500 revertáns/g) jelez.
+
+[^28]: A 2. melléklet 2. pontját a 340/2024. (XI. 14.) Korm. rendelet 20. § e) pontja hatályon kívül helyezte.
