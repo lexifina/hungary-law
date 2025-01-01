@@ -20,6 +20,6 @@ f) a gyártó vagy az importőr nevét és elérhetőségét egyáltalán nem, h
 
 g) az R5. által a gyártó vagy az importőr kötelezettségei tekintetében előírt, bármely egyéb adminisztratív követelmény nem teljesül.
 
-4/G.[^30] A felvonókkal és a felvonókhoz készült biztonsági berendezésekkel kapcsolatos piacfelügyeleti tevékenységre vonatkozó különös szabályok
+4/G.[^31] A felvonókkal és a felvonókhoz készült biztonsági berendezésekkel kapcsolatos piacfelügyeleti tevékenységre vonatkozó különös szabályok
 
-[^30]: A 4/G. alcímet (6/L–6/M. §) a 198/2019. (VIII. 1.) Korm. rendelet 6. §-a iktatta be.
+[^31]: A 4/G. alcímet (6/L–6/M. §) a 198/2019. (VIII. 1.) Korm. rendelet 6. §-a iktatta be.

@@ -1,4 +1,4 @@
-## 4/J. [^34] A nyomástartó berendezésekkel és rendszerekkel kapcsolatos piacfelügyeleti tevékenységre vonatkozó különös szabályok
+## 4/J. [^35] A nyomástartó berendezésekkel és rendszerekkel kapcsolatos piacfelügyeleti tevékenységre vonatkozó különös szabályok
 
 6/R. § (1) Ha a piacfelügyeleti hatóságnak megalapozott indoka van azt feltételezni, hogy a nyomástartó berendezések és rendszerek biztonsági követelményeiről és megfelelőség tanúsításáról szóló miniszteri rendelet (a továbbiakban: R9.) hatálya alá tartozó termék kockázatot jelent az emberek és állatok életére, egészségére vagy anyagi javak biztonságára, akkor elvégzi a termék értékelését, amely kiterjed az R9.-ben meghatározott összes követelménynek való megfelelőségre. Az érintett gazdasági szereplők e célból együttműködnek a piacfelügyeleti hatósággal.
 
@@ -24,4 +24,4 @@ b) hiányosak a megfelelőség vélelmezését megalapozó harmonizált szabván
 
 (10) Ha a (7) bekezdés szerinti tájékoztatás kézhezvételétől számított három hónapon belül egyik tagállam és az Európai Bizottság sem emel kifogást az átmeneti intézkedéssel szemben, a piacfelügyeleti hatóság intézkedése indokoltnak tekintendő.
 
-[^34]: A 4/J. alcímet (6/R–6/S. §) a 198/2019. (VIII. 1.) Korm. rendelet 6. §-a iktatta be.
+[^35]: A 4/J. alcímet (6/R–6/S. §) a 198/2019. (VIII. 1.) Korm. rendelet 6. §-a iktatta be.
