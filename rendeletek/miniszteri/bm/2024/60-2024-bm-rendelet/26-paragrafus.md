@@ -1,0 +1,3 @@
+26. § Az Országgyűlési Őrség hivatásos állományát érintő humánigazgatási tárgyú szabályokról szóló 56/2012. (XI. 22.) BM rendelet 62. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Az Országgyűlési Őrség parancsnoka a közvetlen szolgálati elöljáró vagy az ügyeleti feladatokat ellátó személy jelentését követően azonnal intézkedik az elvesztés, eltulajdonítás, megrongálódás, megsemmisülés tényének a személyügyi nyilvántartásba történő bejegyeztetése, valamint a szolgálati igazolványhoz kapcsolódó jogosultságok letiltatása iránt. Az Országgyűlési Őrség parancsnoka a humánigazgatási szakszolgálaton keresztül az Országgyűlés Hivatalánál kezdeményezi a szolgálati igazolvány érvénytelenítését és pótlását.”

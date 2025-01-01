@@ -1,0 +1,3 @@
+13. § Az Országgyűlési Őrség hivatásos állományát érintő humánigazgatási tárgyú szabályokról szóló 56/2012. (XI. 22.) BM rendelet 19/A. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az azonnali hatályú lemondást az állományilletékes parancsnoknak címezve, szolgálati úton, írásban, az ok pontos és részletes megjelölésével kell bejelenteni. A Hszt. 85. § (1) bekezdése vonatkozásában az azonnali hatályú lemondás bejelentésének napja az a nap, amikor a hivatásos állomány tagjának szolgálati elöljárója az arra irányuló írásbeli nyilatkozatot átvette. A szolgálati elöljáró a nyilatkozatot haladéktalanul köteles az állományilletékes parancsnok részére továbbítani.”

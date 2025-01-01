@@ -1,0 +1,5 @@
+78. § Az Országgyűlési Őrség által alkalmazott kényszerítő eszközök rendszeresítésének szakmai követelményeiről és eljárási szabályairól, valamint az Országgyűlési Őrségnél rendszeresíthető kényszerítő eszközök típusairól, fajtáiról szóló 33/2014. (IV. 24.) BM rendelet 7. §-a helyébe a következő rendelkezés lép:
+
+„7. § (1) Az Országgyűlési Őrség parancsnoka a nem rendszeresített kényszerítő eszköz vagy a rendszeresített kényszerítő eszköz rendszeresítettől eltérő típusváltozata beszerzésének szükségességéről a beszerzési eljárás vagy a vagyonátadásra irányuló eljárás megindítását megelőzően írásban tájékoztatja az Országgyűlés elnökét, valamint beszerzési eljárás esetén értesítést küldhet a társszervek részére.
+
+(2) Ha nem rendszeresített kényszerítő eszköz vagy rendszeresített kényszerítő eszköz rendszeresítettől eltérő típusváltozatának beszerzése vagy vagyonátadással történő átvétele válik szükségessé, a rendszerbe vételi vagy az alkalmazásba vételi eljárás megindítását követően, annak lefolytatásával párhuzamosan a beszerzési eljárás vagy a vagyonátadásra irányuló eljárás lefolytatását is meg kell kezdeni.”

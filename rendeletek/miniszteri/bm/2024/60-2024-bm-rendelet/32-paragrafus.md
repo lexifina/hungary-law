@@ -1,0 +1,3 @@
+32. § Az Országgyűlési Őrség hivatásos állományát érintő humánigazgatási tárgyú szabályokról szóló 56/2012. (XI. 22.) BM rendelet 108. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A kijelölt fegyelmi tiszt köteles gondoskodni arról, hogy a fegyelmi eljárás megindulásától annak jogerős befejezéséig a fegyelmi eljárásra vonatkozó adatok vagy a fegyelmi eljárás elrendelésének mellőzésével alkalmazott figyelmeztetés esetén az ezzel kapcsolatos adatok, a személyügyi számítógépes nyilvántartó rendszerbe felvitelre kerüljenek, és a fegyelmi eljárás elrendeléséről, a beosztásból felfüggesztés elrendeléséről és megszüntetéséről, valamint az érdemi határozatról a humánigazgatási szakszolgálat tájékoztatást kapjon.”

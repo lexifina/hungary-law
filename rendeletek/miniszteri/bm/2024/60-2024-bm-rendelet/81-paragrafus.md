@@ -1,0 +1,3 @@
+81. § Az Országgyűlési Őrség által alkalmazott kényszerítő eszközök rendszeresítésének szakmai követelményeiről és eljárási szabályairól, valamint az Országgyűlési Őrségnél rendszeresíthető kényszerítő eszközök típusairól, fajtáiról szóló 33/2014. (IV. 24.) BM rendelet 12. §-a a következő (4) bekezdéssel egészül ki:
+
+„(4) A kényszerítő eszköz vagyonátadással történő átvétele esetén a beszerzést végző költségvetési szerv által elvégzett próbahasználatot az Országgyűlési Őrség elfogadhatja, ha az erről készült iratokat az Országgyűlési Őrség rendelkezésére bocsátják, és azok alapján a kényszerítő eszköz alkalmazhatósága megítélhető, ennek hiányában a próbahasználat feltételeiről a beszerzést tervező költségvetési szervvel előzetesen meg kell állapodni.”

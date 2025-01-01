@@ -1,0 +1,3 @@
+2. § Az Országgyűlési Őrség hivatásos állományát érintő humánigazgatási tárgyú szabályokról szóló 56/2012. (XI. 22.) BM rendelet 3. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A felvételi eljárás keretében a humánigazgatási szakszolgálat intézkedik az egészségi, pszichológiai és fizikai alkalmassági feltételek meglétének vizsgálatára, továbbá – ha a vizsgálatok során szolgálati viszony létesítését kizáró ok nem merül fel – az annak kezdeményezésére jogosultnál a nemzetbiztonsági ellenőrzés kezdeményezésére. Ha a felvételi eljárás során a jelentkező a humánigazgatási szakszolgálat felhívása ellenére a nemzetbiztonsági ellenőrzéshez szükséges kérdőívet a megjelölt határidőre nem tölti ki, a kérelmet el kell utasítani.”
