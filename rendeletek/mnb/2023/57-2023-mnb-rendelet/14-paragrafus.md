@@ -1,1 +1,0 @@
-14. § A NAV a kettős könyvvitelt vezető vállalkozások hozzá benyújtott társasági adóbevallásainak adataiból összeállított adatállományt a 21. mellékletben foglaltaknak megfelelő tartalommal, formában és határidőre bocsátja az MNB rendelkezésére.

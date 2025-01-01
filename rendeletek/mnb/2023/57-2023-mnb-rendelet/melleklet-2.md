@@ -1,9 +1,0 @@
-## Egyes adatszolgáltatások forint, euro, illetve egyéb deviza, valamint összesen oszlopokat, illetve forint, deviza, valamint összesen táblákat tartalmaznak. Az egyes adatszolgáltatásokban a külföldi pénznemben fennálló vagy külföldi pénznemen alapuló követelések, illetve kötelezettségek forintra átszámított összegét kell a megfelelő devizaoszlopokban, illetve devizatáblákban szerepeltetni.
-
-## Az állományi típusú jelentéseknél a valutakészletek, valamint a külföldi pénznemre szóló követelések és kötelezettségek (devizák) forintra történő átszámítását magyar számvitelt alkalmazó adatszolgáltató esetében a Hitkr. 9. § (4) bekezdése, az IFRS-eket alkalmazó adatszolgáltató esetében a Számv. tv. 114/H. § (2) bekezdése alapján megállapított devizaárfolyamon kell elvégezni. Az MNB által nem jegyzett külföldi pénznemre szóló követeléseket és kötelezettségeket, illetve deviza- és valutakészleteket országos napilapnak a világ valutáinak árfolyamaira vonatkozó tájékoztatójában közzétett, a hónap utolsó napján és az év utolsó napján érvényes középárfolyamon, ennek hiányában pedig az adatszolgáltató által az értékelést megelőző legutolsó hónapban alkalmazott átlagos középárfolyamon kell értékelni.
-
-## A forgalmi típusú jelentéseknél az adott tábla kitöltési előírásainak eltérő rendelkezése hiányában a forintra átszámítás az ügylet napján érvényes árfolyammal történik, az intézmény számviteli politikájában lefektetetteknek megfelelően.
-
-## Ha az adatszolgáltató az éves beszámolóját forinttól eltérő pénznemben (pl. euróban) állítja össze, akkor a forintra történtő átszámítás során az éves beszámoló pénznemében (pl. euróban) nyilvántartott állományi és forgalmi típusú értékeket kell forintra átszámítania az MNB által közzétett, az adatszolgáltatás vonatkozási időpontjában érvényes hivatalos devizaárfolyamon.
-
-2. melléklet az 57/2023. (XI. 24.) MNB rendelethez
