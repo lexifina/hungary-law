@@ -12,12 +12,12 @@ d) az árujegyzéket vagy utalást a 3/A. § (2) bekezdése szerint mellékelt �
 
 e) uniós, kiállítási vagy belső elsőbbség igénylése esetén az erre irányuló nyilatkozatot, feltüntetve uniós elsőbbségnél a külföldi bejelentés napját, országát és számát, kiállítási elsőbbségnél a kiállítás napját és megnevezését, belső elsőbbségnél pedig a folyamatban lévő bejelentés ügyszámát.
 
-f)[^2] a kérelmezőnek a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény 3. § (1) bekezdése szerinti mikro-, kis- és középvállalkozásnak, azaz KKV-nak minősülésére vonatkozó – az elektronikus űrlap szerinti – nyilatkozatát;
+f)[^2] a kérelmezőnek a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény 3. § (1) bekezdése szerinti mikro-, kis- és középvállalkozásnak, azaz KKV-nak minősülésére vonatkozó nyilatkozatát;
 
-g)[^3] a kérelmező vállalkozás arra vonatkozó – az elektronikus űrlap szerinti – nyilatkozatát, hogy a tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény szerinti költségvetési kutatóhelynek vagy nonprofit közhasznú kutatóhelynek minősül.
+g)[^3] a kérelmező vállalkozás arra vonatkozó nyilatkozatát, hogy a tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény szerinti költségvetési kutatóhelynek vagy nonprofit közhasznú kutatóhelynek minősül.
 
 (2) A védjegybejelentési kérelem a Szellemi Tulajdon Nemzeti Hivatalában díjtalanul elérhető formanyomtatvány vagy a Szellemi Tulajdon Nemzeti Hivatala honlapjáról letölthető elektronikus űrlap kitöltésével is elkészíthető.
 
 [^1]: A 2. § a 30/2018. (XII. 12.) IM rendelet 10. §-ával megállapított szöveg.
-[^2]: A 2. § (1) bekezdés f) pontját a 16/2023. (X. 30.) IM rendelet 4. §-a iktatta be.
-[^3]: A 2. § (1) bekezdés g) pontját a 16/2023. (X. 30.) IM rendelet 4. §-a iktatta be.
+[^2]: A 2. § (1) bekezdés f) pontját a 16/2023. (X. 30.) IM rendelet 4. §-a iktatta be, szövege a 48/2024. (XII. 31.) IM rendelet 1. §-ával megállapított szöveg.
+[^3]: A 2. § (1) bekezdés g) pontját a 16/2023. (X. 30.) IM rendelet 4. §-a iktatta be, szövege a 48/2024. (XII. 31.) IM rendelet 1. §-ával megállapított szöveg.

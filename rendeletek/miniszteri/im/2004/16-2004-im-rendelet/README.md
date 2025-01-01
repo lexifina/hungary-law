@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-16-20-0
 | 2012-01-01 | 2004-16-20-06.4 | 35/2011. (XII. 22.) KIM rendelet |
 | 2019-01-01 | 2004-16-20-06.5 | 30/2018. (XII. 12.) IM rendelet |
 | 2024-07-01 | 2004-16-20-06.6 | 16/2023. (X. 30.) IM rendelet |
+| 2025-01-01 | 2004-16-20-06.7 | 16/2023. (X. 30.) IM rendelet |
