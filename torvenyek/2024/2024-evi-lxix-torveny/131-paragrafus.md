@@ -5,15 +5,3 @@ a) 37. §-ában a „kiberbiztonsági tanúsításról és a kiberbiztonsági fe
 b) 42. § (1) bekezdés e) pontjában a „Kibertantv.” szövegrész helyébe a „Kiberbiztonsági tv.” szöveg
 
 lép.
-
-|
-
-Dr. Sulyok Tamás s. k.,
-
-köztársasági elnök
-
-|
-
-Dr. Latorcai János s. k.,
-
-az Országgyűlés alelnöke
