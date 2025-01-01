@@ -63,3 +63,7 @@ p) a vizsgálat súlyának vagy összetettségének indokoltsága esetén ellát
 q) ellátja a jogszabályban részére meghatározott további feladatokat.
 
 (9) A szakfelügyelő tevékenysége során véleményt nyilvánít a megbízási szerződésben rögzített, a vizsgált szakterületet érintő azon kérdésben, amelynek véleményezésére az országos tisztifőorvos, a kormányhivatal, illetve a járási hivatal megbízta.
+
+(10)[^2] A taktikai medicina engedéllyel rendelkező egészségügyi szolgáltatók szakmai felügyeletét az országos tisztifőorvos a rendvédelmi tisztifőorvos útján látja el.
+
+[^2]: A 4. § (10) bekezdését az 58/2024. (XII. 23.) BM rendelet 15. §-a iktatta be.
