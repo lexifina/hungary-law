@@ -1,3 +1,1 @@
-3. §[^3]
-
-[^3]: A 3. § az 5. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+3. § Hatályát veszti a Rendelet 1. melléklet II. pontjában foglalt táblázat 1. sora.

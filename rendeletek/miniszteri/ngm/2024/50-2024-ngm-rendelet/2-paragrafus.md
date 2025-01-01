@@ -1,3 +1,1 @@
-2. §[^2]
-
-[^2]: A 2. § az 5. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+2. § A Rendelet 3. melléklete a 2. melléklet szerint módosul.
