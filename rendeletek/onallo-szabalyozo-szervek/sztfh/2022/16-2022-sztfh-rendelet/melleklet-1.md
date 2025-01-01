@@ -1,6 +1,6 @@
 ## 57. § Az e rendelet tartalmával megegyező rendelkezések tervezetének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént a 2009/487/HU bejelentés keretében.
 
-1. melléklet a 16/2022. (I. 28.) SZTFH rendelethez[^47]
+1. melléklet a 16/2022. (I. 28.) SZTFH rendelethez[^48]
 
 A vezetékek minimális biztonsági övezetének terjedelme
 
@@ -16,4 +16,4 @@ A vezetékek minimális biztonsági övezetének terjedelme
 
 | 5. | Egyéb területen | 1,3 | 1,4 | 15 |
 
-[^47]: Az 1. melléklet a 18/2023. (VII. 31.) SZTFH rendelet 25. §-a szerint módosított szöveg.
+[^48]: Az 1. melléklet a 18/2023. (VII. 31.) SZTFH rendelet 25. §-a szerint módosított szöveg.

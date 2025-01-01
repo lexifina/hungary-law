@@ -22,8 +22,8 @@ j) a nyomáspróba alatt észlelt rendellenes jelenségeket és megszüntetésü
 
 k) a nyomáspróba eredményét sikeres vagy sikertelen megjelöléssel, valamint
 
-l)[^43] a nyomáspróbán részt vevő személyek aláírását.
+l)[^44] a nyomáspróbán részt vevő személyek aláírását.
 
 (2) A nyomáspróbáról készített jegyzőkönyv megőrzéséről – a műszaki dokumentáció részeként – az üzemeltető gondoskodik.
 
-[^43]: Az 51. § (1) bekezdés l) pontja a 18/2023. (VII. 31.) SZTFH rendelet 26. § j) pontja szerint módosított szöveg.
+[^44]: Az 51. § (1) bekezdés l) pontja a 18/2023. (VII. 31.) SZTFH rendelet 26. § j) pontja szerint módosított szöveg.
