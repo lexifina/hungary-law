@@ -18,8 +18,8 @@
 
 | 9. | Minőségirányítási vezető | Felsőoktatásban szerzett szakképzettség és minőségbiztosítási, illetve minőségirányítási felsőfokú szakképesítés vagy felsőfokú – a szakterületnek megfelelő – minőségbiztosítási auditori és minőségirányítási kockázatkezelői bizonyítvány |
 
-3. melléklet az 53/2016. (XII. 16.) BM rendelethez[^8]
+3. melléklet az 53/2016. (XII. 16.) BM rendelethez[^55]
 
 Az igazságügyi szakértői intézmény fizikai dolgozóira vonatkozó képesítési követelmények
 
-[^8]: A 3. melléklet a 31/2024. (VII. 31.) BM rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^55]: A 3. melléklet a 31/2024. (VII. 31.) BM rendelet 1. § (4) bekezdésével megállapított szöveg.
