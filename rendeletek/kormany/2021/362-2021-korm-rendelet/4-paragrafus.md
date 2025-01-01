@@ -1,1 +1,0 @@
-## 3. § Az Iváncsa község közigazgatási területén létrejövő, a különleges gazdasági övezetben található, önkormányzati tulajdonban álló, forgalomképtelen törzsvagyonba tartozó, 2. mellékletben megjelölt közterület tulajdonjogát a Fejér Megyei Önkormányzat szerzi meg.
