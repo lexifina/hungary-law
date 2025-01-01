@@ -1,3 +1,1 @@
-4. §[^1]
-
-[^1]: A 4. § a 2. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+4. § Hatályát veszti a villamos energiáról szóló 2007. évi LXXXVI. törvény veszélyhelyzet ideje alatt történő további eltérő alkalmazásáról és a villamos energiáról szóló 2007. évi LXXXVI. törvény veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 450/2022. (XI. 9.) Korm. rendelet módosításáról szóló 484/2022. (XI. 29.) Korm. rendelet.
