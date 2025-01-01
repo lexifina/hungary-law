@@ -1,7 +1,9 @@
 7. § Az egyes vasúti utazási kedvezményekről szóló 57/2009. (X. 20.) KHEM rendelet
 
-a) 2. § (1) bekezdés nyitó szövegrészében a „vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény (a továbbiakban: Vtv.) 68. §-ának (2)” szövegrész helyébe a „személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény 37. § (1)” szöveg,
+a)[^3]
 
-b)[^5]
+b) 10. § (2) bekezdésében az „egyéb szervezet, és a vasútegészségügyi szervezet” szövegrész helyébe az „egyéb szervezet, a vasútegészségügyi szervezet és a személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény 5. § (6) bekezdése szerinti szervezet” szöveg
 
-[^5]: A 7. § b) pontja a 8. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+lép.
+
+[^3]: A 7. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
