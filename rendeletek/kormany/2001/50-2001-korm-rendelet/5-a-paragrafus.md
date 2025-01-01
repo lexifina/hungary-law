@@ -1,4 +1,4 @@
-5/A. §[^30] (1) A visszanyert víz előállítását, mint a víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény alapján folytatható másodlagos, és az (EU) 2020/741 európai parlamenti és tanácsi rendelet szerinti tevékenységet a települési szennyvíztisztító telep üzemeltetésére vízjogi engedéllyel rendelkező víziközmű-szolgáltató az illetékes vízügyi és vízvédelmi hatósághoz a tevékenység megkezdése előtt legalább harminc nappal, majd a tevékenység megkezdését követően ötévente jelenti be a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvényben (a továbbiakban: Szolgtv.) meghatározottak szerint.
+5/A. §[^31] (1) A visszanyert víz előállítását, mint a víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény alapján folytatható másodlagos, és az (EU) 2020/741 európai parlamenti és tanácsi rendelet szerinti tevékenységet a települési szennyvíztisztító telep üzemeltetésére vízjogi engedéllyel rendelkező víziközmű-szolgáltató az illetékes vízügyi és vízvédelmi hatósághoz a tevékenység megkezdése előtt legalább harminc nappal, majd a tevékenység megkezdését követően ötévente jelenti be a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvényben (a továbbiakban: Szolgtv.) meghatározottak szerint.
 
 (2) A bejelentésről szóló igazolást az (EU) 2020/741 európai parlamenti és tanácsi rendelet szerinti 3. cikk 3. pontja szerinti írásbeli felhatalmazásnak kell tekinteni. A tevékenység – a bejelentés hatósághoz történő beérkezéstől számított – öt évig folytatható, azzal, hogy a tevékenység gyakorlásának meg kell felelnie az (EU) 2020/741 európai parlamenti és tanácsi rendeletben és annak alkalmazására vonatkozó jogszabályban meghatározott követelményeknek.
 
@@ -34,4 +34,4 @@ i) a kockázatkezelési tervet.
 
 (9) Az illetékes vízügyi és vízvédelmi hatóság az 5/A. § szerinti szolgáltatókról – a Szolgtv. 27. §-a alapján – nyilvántartást vezet.
 
-[^30]: Az 5/A. §-t a 7/2023. (I. 12.) Korm. rendelet 4. §-a iktatta be.
+[^31]: Az 5/A. §-t a 7/2023. (I. 12.) Korm. rendelet 4. §-a iktatta be.

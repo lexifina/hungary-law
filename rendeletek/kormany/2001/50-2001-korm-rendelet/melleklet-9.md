@@ -16,7 +16,7 @@
 
 | A bizonylat egy-egy példányát kapja és tíz évig megőrzi: 1. Szennyvíztisztító mű üzemeltetője 2. Szennyvíziszap komposzt előállító |
 
-9. melléklet[^94]
+9. melléklet[^95]
 
 A visszanyert víz felhasználási szerződés kötelező tartalmi elemei
 
@@ -62,4 +62,4 @@ A felek a szerződésből fakadó esetleges jogvitáikat tárgyalás útján kö
 
 A szerződés példányszáma, a szerződéskötés helye, ideje, a szerződő felek (cégszerű) aláírása.
 
-[^94]: A 9. mellékletet a 7/2023. (I. 12.) Korm. rendelet 13. §-a iktatta be.
+[^95]: A 9. mellékletet a 7/2023. (I. 12.) Korm. rendelet 13. §-a iktatta be.

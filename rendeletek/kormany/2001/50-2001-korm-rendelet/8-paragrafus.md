@@ -2,9 +2,9 @@
 
 (2) Termőföldön szennyvíziszap nem tárolható. A felhasználásra kijelölt mezőgazdasági területre csak az azonnal felhasználható és bedolgozható szennyvíziszap mennyiség szállítható ki. Amennyiben a szennyvíziszap mezőgazdasági felhasználásával összefüggő munkafolyamatok szervezése ezt indokolja, a 3. § f) pontja szerinti, hatóságilag engedélyezett gyűjtőtároló létesíthető.
 
-(3)[^39] A felhasználandó szennyvíziszap komposzt a felhasználásra engedélyezett mezőgazdasági tábla szélén legfeljebb 2 hónapig tárolható. A tárolás céljára minden évben más helyszínt kell kijelölni.
+(3)[^40] A felhasználandó szennyvíziszap komposzt a felhasználásra engedélyezett mezőgazdasági tábla szélén legfeljebb 2 hónapig tárolható. A tárolás céljára minden évben más helyszínt kell kijelölni.
 
-(4)[^40] A szennyvíziszapot a talaj felszíne alá kell juttatni, vagy felszíni kijuttatás esetén szikkadás után haladéktalanul be kell dolgozni. A szennyvíziszap komposztot felszínre történő kijuttatás után azonnal be kell dolgozni.
+(4)[^41] A szennyvíziszapot a talaj felszíne alá kell juttatni, vagy felszíni kijuttatás esetén szikkadás után haladéktalanul be kell dolgozni. A szennyvíziszap komposztot felszínre történő kijuttatás után azonnal be kell dolgozni.
 
-[^39]: A 8. § (3) bekezdése a 40/2008. (II. 26.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^40]: A 8. § (4) bekezdését a 40/2008. (II. 26.) Korm. rendelet 8. §-a iktatta be.
+[^40]: A 8. § (3) bekezdése a 40/2008. (II. 26.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^41]: A 8. § (4) bekezdését a 40/2008. (II. 26.) Korm. rendelet 8. §-a iktatta be.
