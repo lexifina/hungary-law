@@ -8,23 +8,23 @@
 
 (3) A 24. § (2)–(6) bekezdése és a 25. § 2014. július 1-jén lép hatályba.
 
-(4)[^210] A 2014. január 1-jét megelőzően engedélyezett és névjegyzékbe vett, vagy bejelentés alapján névjegyzékbe vett 1–3. melléklet szerinti szakmagyakorlási tevékenység a továbbképzési kötelezettségek teljesítése mellett folytatható.
+(4)[^212] A 2014. január 1-jét megelőzően engedélyezett és névjegyzékbe vett, vagy bejelentés alapján névjegyzékbe vett 1–3. melléklet szerinti szakmagyakorlási tevékenység a továbbképzési kötelezettségek teljesítése mellett folytatható.
 
-(5)[^211]
+(5)[^213]
 
-(6)[^212]
+(6)[^214]
 
-(7)[^213]
+(7)[^215]
 
-(8)[^214]
+(8)[^216]
 
-(9)[^215] Az 1. mellékletben meghatározott képesítési követelménytől eltérően az igazságügyi szakértői szakterületnek megfelelő építésügyi műszaki szakértői tevékenység engedélyezhető annak az igazságügyi szakértőnek is, aki műszaki felsőoktatás keretében szerzett szakirányú főiskolai szakképzettséggel rendelkezik, és akit 2006. január 1-jét megelőzően az igazságügyi szakértői névjegyzékbe jogszabály alapján az építésügyi szakterületre felvettek, és az igazságügyi szakértői névjegyzékben építésügyi szakterületen jelenleg is szerepel, továbbá rendelkezik 2006. január 1-jét megelőző tízéves szakmai gyakorlattal.
+(9)[^217] Az 1. mellékletben meghatározott képesítési követelménytől eltérően az igazságügyi szakértői szakterületnek megfelelő építésügyi műszaki szakértői tevékenység engedélyezhető annak az igazságügyi szakértőnek is, aki műszaki felsőoktatás keretében szerzett szakirányú főiskolai szakképzettséggel rendelkezik, és akit 2006. január 1-jét megelőzően az igazságügyi szakértői névjegyzékbe jogszabály alapján az építésügyi szakterületre felvettek, és az igazságügyi szakértői névjegyzékben építésügyi szakterületen jelenleg is szerepel, továbbá rendelkezik 2006. január 1-jét megelőző tízéves szakmai gyakorlattal.
 
-(10)[^216]
+(10)[^218]
 
-(11)[^217]
+(11)[^219]
 
-(12)[^218] Ez a rendelet
+(12)[^220] Ez a rendelet
 
 a) a szakmai képesítések elismeréséről szóló, 2005. szeptember 7-i 2005/36/EK európai parlamenti és tanácsi irányelvnek,
 
@@ -34,15 +34,15 @@ c) a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK 
 
 való megfelelést szolgálja.
 
-(13)[^219] E rendelet gyakorlati idő számítására vonatkozó szabályait a felelős műszaki vezetői tevékenységek engedélyezése során az építési szakterület részszakterülete, az építménygépészeti szakterület részszakterülete, az építményvillamossági szakterület részszakterülete, valamint a villamosság szakterület részszakterülete esetében úgy kell alkalmazni, hogy az eljárás során szakmai gyakorlati időként az előírt végzettséget megelőzően, a végzettséggel megegyező szakterületen szerzett mestervizsgát követően teljesített szakmai gyakorlat is figyelembe vehető.
+(13)[^221] E rendelet gyakorlati idő számítására vonatkozó szabályait a felelős műszaki vezetői tevékenységek engedélyezése során az építési szakterület részszakterülete, az építménygépészeti szakterület részszakterülete, az építményvillamossági szakterület részszakterülete, valamint a villamosság szakterület részszakterülete esetében úgy kell alkalmazni, hogy az eljárás során szakmai gyakorlati időként az előírt végzettséget megelőzően, a végzettséggel megegyező szakterületen szerzett mestervizsgát követően teljesített szakmai gyakorlat is figyelembe vehető.
 
-[^210]: A 47. § (4) bekezdése a 62/2014. (III. 6.) Korm. rendelet 47. § 23. pontja szerint módosított szöveg.
-[^211]: A 47. § (5) bekezdését a 286/2024. (IX. 30.) Korm. rendelet 70. § 9. pontja hatályon kívül helyezte.
-[^212]: A 47. § (6) bekezdését a 286/2024. (IX. 30.) Korm. rendelet 70. § 9. pontja hatályon kívül helyezte.
-[^213]: A 47. § (7) bekezdését a 286/2024. (IX. 30.) Korm. rendelet 70. § 9. pontja hatályon kívül helyezte.
-[^214]: A 47. § (8) bekezdését a 286/2024. (IX. 30.) Korm. rendelet 70. § 9. pontja hatályon kívül helyezte.
-[^215]: A 47. § (9) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 741. §-ával megállapított szöveg.
-[^216]: A 47. § (10) bekezdését a 286/2024. (IX. 30.) Korm. rendelet 70. § 9. pontja hatályon kívül helyezte.
-[^217]: A 47. § (11) bekezdését a 286/2024. (IX. 30.) Korm. rendelet 70. § 9. pontja hatályon kívül helyezte.
-[^218]: A 47. § (12) bekezdése a 290/2019. (XII. 5.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^219]: A 47. § (13) bekezdését a 618/2021. (XI. 8.) Korm. rendelet 13. §-a iktatta be.
+[^212]: A 47. § (4) bekezdése a 62/2014. (III. 6.) Korm. rendelet 47. § 23. pontja szerint módosított szöveg.
+[^213]: A 47. § (5) bekezdését a 286/2024. (IX. 30.) Korm. rendelet 70. § 9. pontja hatályon kívül helyezte.
+[^214]: A 47. § (6) bekezdését a 286/2024. (IX. 30.) Korm. rendelet 70. § 9. pontja hatályon kívül helyezte.
+[^215]: A 47. § (7) bekezdését a 286/2024. (IX. 30.) Korm. rendelet 70. § 9. pontja hatályon kívül helyezte.
+[^216]: A 47. § (8) bekezdését a 286/2024. (IX. 30.) Korm. rendelet 70. § 9. pontja hatályon kívül helyezte.
+[^217]: A 47. § (9) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 741. §-ával megállapított szöveg.
+[^218]: A 47. § (10) bekezdését a 286/2024. (IX. 30.) Korm. rendelet 70. § 9. pontja hatályon kívül helyezte.
+[^219]: A 47. § (11) bekezdését a 286/2024. (IX. 30.) Korm. rendelet 70. § 9. pontja hatályon kívül helyezte.
+[^220]: A 47. § (12) bekezdése a 290/2019. (XII. 5.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^221]: A 47. § (13) bekezdését a 618/2021. (XI. 8.) Korm. rendelet 13. §-a iktatta be.

@@ -1,6 +1,6 @@
-## 23/A. §[^108] Műemlék épület esetén az energetikai tanúsítónak az R1. szerinti energetikai minőségtanúsítvány javaslattételének kidolgozásához szakági építésügyi műszaki szakértői szakterület műemléki részszakterület jogosultsággal bíró szakértőt vagy „műemlékek területén gyakorlott” címmel rendelkező szakmagyakorlót kell bevonnia, ha az energetikai tanúsító nem rendelkezik a „műemlékek területén gyakorlott” címmel.
+## 23/A. §[^109] Műemlék épület esetén az energetikai tanúsítónak az R1. szerinti energetikai minőségtanúsítvány javaslattételének kidolgozásához szakági építésügyi műszaki szakértői szakterület műemléki részszakterület jogosultsággal bíró szakértőt vagy „műemlékek területén gyakorlott” címmel rendelkező szakmagyakorlót kell bevonnia, ha az energetikai tanúsító nem rendelkezik a „műemlékek területén gyakorlott” címmel.
 
-23/B. §[^109] (1) A zöldfelületi tanúsító a települési zöldinfrastruktúráról, a zöldfelületi tanúsítványról és a zöld védjegyről szóló kormányrendeletben foglalt feladatokat látja el.
+23/B. §[^110] (1) A zöldfelületi tanúsító a települési zöldinfrastruktúráról, a zöldfelületi tanúsítványról és a zöld védjegyről szóló kormányrendeletben foglalt feladatokat látja el.
 
 (2) A zöldfelületi tanúsítvány hitelesítése az OÉNY működését elősegítő elektronikus alkalmazás segítségével történik.
 
@@ -44,5 +44,5 @@ d) akitől nem várható el az ügy tárgyilagos megítélése.
 
 (12) A kizárás tárgyában a Magyar Építész Kamara elnöke dönt, szükség esetén más ellenőrző személyt jelöl ki, továbbá arról is dönt, hogy meg kell-e ismételni azokat az eljárási cselekményeket, amelyekben a kizárt ellenőrző személy járt el. A kizárás tárgyában hozott elnöki döntést az érintett felekkel közölni kell.
 
-[^108]: A 23/A. §-t a 38/2015. (III. 11.) Korm. rendelet 22. § (3) bekezdése iktatta be, szövege a 168/2015. (VI. 30.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
-[^109]: A 23/B. §-t a 286/2024. (IX. 30.) Korm. rendelet 61. §-a iktatta be.
+[^109]: A 23/A. §-t a 38/2015. (III. 11.) Korm. rendelet 22. § (3) bekezdése iktatta be, szövege a 168/2015. (VI. 30.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
+[^110]: A 23/B. §-t a 286/2024. (IX. 30.) Korm. rendelet 61. §-a iktatta be.

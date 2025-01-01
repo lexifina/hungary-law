@@ -1,3 +1,3 @@
-54. §[^226]
+54. §[^228]
 
-[^226]: Az 54. §-t a 286/2024. (IX. 30.) Korm. rendelet 70. § 12. pontja újból hatályon kívül helyezte.
+[^228]: Az 54. §-t a 286/2024. (IX. 30.) Korm. rendelet 70. § 12. pontja újból hatályon kívül helyezte.

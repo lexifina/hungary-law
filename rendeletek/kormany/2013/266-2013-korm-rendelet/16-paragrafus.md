@@ -10,7 +10,7 @@ a) tervezési feladat részletes leírását, az építési tevékenység megnev
 
 b) a tervezés előzményeit – előkészítő dokumentációk, tanulmánytervek adatait,
 
-c) az elvárt – az OTÉK előírásainak megfelelő vagy attól szigorúbb – követelményeket, beleértve az élettartalmi igényeket,
+c)[^83] az elvárt – az általános településrendezési és építési követelményeknek megfelelő vagy attól szigorúbb – követelményeket, beleértve az élettartalmi igényeket,
 
 d) az elvárt követelményeknek való megfelelőség igazolásának módját, az alkalmazandó szabványok vagy azokkal egyenértékű számítási-méretezési eljárások és hivatkozások, jogszabályok, előírások, szabályzatok körét,
 
@@ -28,20 +28,21 @@ j) a közmű és energia ellátási igényeket, módokat,
 
 k) az akadálymentesítésre vonatkozó információkat,
 
-l)[^83] műemlék esetén az értékleltár és az építéstörténeti tudományos dokumentáció alapján rögzített műemlékvédelmi szempontokat,
+l)[^84] műemlék esetén az értékleltár és az építéstörténeti tudományos dokumentáció alapján rögzített műemlékvédelmi szempontokat,
 
-m)[^84] a szükséges szakági tervezői és szakértői feladatok körét,
+m)[^85] a szükséges szakági tervezői és szakértői feladatok körét,
 
 n) az egyéb meghatározó követelmények általános szempontjait,
 
-o)[^85] a tervezendő építmény használatának, üzemeltetésének, karbantartásának feltételeit,
+o)[^86] a tervezendő építmény használatának, üzemeltetésének, karbantartásának feltételeit,
 
-p)[^86] a helyszínen fennálló régészeti érintettség vagy védelem tényét a közhiteles örökségvédelmi nyilvántartástól lekért adatok alapján.
+p)[^87] a helyszínen fennálló régészeti érintettség vagy védelem tényét a közhiteles örökségvédelmi nyilvántartástól lekért adatok alapján.
 
 [^80]: A 16. § (1) bekezdése a 286/2024. (IX. 30.) Korm. rendelet 56. §-ával megállapított szöveg.
 [^81]: A 16. § (2) bekezdése a 286/2024. (IX. 30.) Korm. rendelet 56. §-ával megállapított szöveg.
 [^82]: A 16. § (3) bekezdése a 156/2016. (VI. 13.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
-[^83]: A 16. § (3) bekezdés l) pontja a 677/2020. (XII. 28.) Korm. rendelet 34. §-a szerint módosított szöveg.
-[^84]: A 16. § (3) bekezdés m) pontja a 618/2021. (XI. 8.) Korm. rendelet 16. § 13. pontja szerint módosított szöveg.
-[^85]: A 16. § (3) bekezdés o) pontja a 306/2016. (X. 13.) Korm. rendelet 17. §-a szerint módosított szöveg.
-[^86]: A 16. § (3) bekezdés p) pontját a 306/2016. (X. 13.) Korm. rendelet 16. §-a iktatta be.
+[^83]: A 16. § (3) bekezdés c) pontja a 286/2024. (IX. 30.) Korm. rendelet 69. § 20. pontja szerint módosított szöveg.
+[^84]: A 16. § (3) bekezdés l) pontja a 677/2020. (XII. 28.) Korm. rendelet 34. §-a szerint módosított szöveg.
+[^85]: A 16. § (3) bekezdés m) pontja a 618/2021. (XI. 8.) Korm. rendelet 16. § 13. pontja szerint módosított szöveg.
+[^86]: A 16. § (3) bekezdés o) pontja a 306/2016. (X. 13.) Korm. rendelet 17. §-a szerint módosított szöveg.
+[^87]: A 16. § (3) bekezdés p) pontját a 306/2016. (X. 13.) Korm. rendelet 16. §-a iktatta be.
