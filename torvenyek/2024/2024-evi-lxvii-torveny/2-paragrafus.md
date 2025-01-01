@@ -1,0 +1,3 @@
+## 2. A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény módosítása
+
+2. § A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 11. § (1) bekezdésében az „Ügyésszé azt az egyetemi jogi végzettséggel és jogi szakvizsgával rendelkező magyar állampolgárt lehet kinevezni” szövegrész helyébe az „Ügyésszé kinevezni, illetve legfőbb ügyésszé megválasztani azt az egyetemi jogi végzettséggel és jogi szakvizsgával rendelkező magyar állampolgárt lehet” szöveg lép.
