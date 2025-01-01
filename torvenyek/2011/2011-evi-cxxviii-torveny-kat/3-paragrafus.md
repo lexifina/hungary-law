@@ -4,11 +4,11 @@
 
 1. Belső védelmi terv: a veszélyes anyagokkal kapcsolatos súlyos balesetek kialakulásának megelőzését, a balesetek elhárítását, következményeinek mérséklését szolgáló intézkedések megtételét, az értesítési, riasztási, felkészítési feladatok veszélyes anyagokkal foglalkozó üzemen, veszélyes anyagokkal foglalkozó létesítményen belüli végrehajtásának rendjét, feltételeit szabályozó üzemeltetői okmány.
 
-2. Biztonsági elemzés: az üzemeltető által készített dokumentum, amely tartalmazza a veszélyes anyagokkal foglalkozó üzem üzemeltetőjének a veszélyes anyagokkal kapcsolatos súlyos balesetek megelőzésére vonatkozó általános célkitűzéseit, továbbá annak az irányítási, vezetési és műszaki eszközrendszernek a bemutatását, amely biztosítja mind az ember, mind a környezet magas szintű védelmét, valamint annak bizonyítását, hogy az üzemeltető a veszélyes anyagokkal kapcsolatos súlyos baleseti veszélyeket azonosította, és a veszélyes anyagokkal kapcsolatos súlyos balesetek kockázatát elemezte és értékelte. A dokumentumnak elegendő információt kell szolgáltatnia a hatósági döntés kialakításához. A biztonsági elemzésben rögzített feladatoknak és intézkedéseknek arányosnak kell lenniük a biztonsági elemzésben leírt veszélyeztetéssel.
+2. Biztonsági elemzés: az üzemeltető által készített dokumentum, amely tartalmazza a veszélyes anyagokkal foglalkozó üzem üzemeltetőjének a veszélyes anyagokkal kapcsolatos súlyos balesetek megelőzésére vonatkozó általános célkitűzéseit, továbbá annak az irányítási, vezetési és műszaki eszközrendszernek a bemutatását, amely biztosítja mind az ember, mind a környezet magas szintű védelmét, valamint annak bizonyítását, hogy az üzemeltető a veszélyes anyagokkal kapcsolatos súlyos baleseti veszélyeket azonosította, és a veszélyes anyagokkal kapcsolatos súlyos balesetek kockázatát elemezte és értékelte. A dokumentumnak elegendő információt kell szolgáltatnia a hatósági döntés kialakításához. A biztonsági elemzésben rögzített feladatoknak és intézkedéseknek arányosnak kell lenniük a biztonsági elemzésben leírt veszélyeztetéssel. A biztonsági elemzés az egészség és a környezet magas fokú védelmét szolgálja.
 
-3. Biztonsági jelentés: az üzemeltető által készített dokumentum, amely annak bizonyítására szolgál, hogy rendelkezik a veszélyes anyagokkal kapcsolatos súlyos baleseteket megelőző politikával és az annak végrehajtását szolgáló biztonsági irányítási rendszerrel, működőképes belső védelmi tervvel, a veszélyes anyagokkal kapcsolatos súlyos baleseti veszélyeket azonosította, és a veszélyes anyagokkal kapcsolatos súlyos balesetek kockázatát elemezte és értékelte, a megelőzésükre a szükséges intézkedéseket megtette, kellő mértékű a létesítményeinek biztonsága, megbízhatósága. A jelentésnek elegendő információt kell szolgáltatnia a külső védelmi tervek elkészítéséhez és a hatósági döntés kialakításához.
+3. Biztonsági jelentés: az üzemeltető által készített dokumentum, amely annak bizonyítására szolgál, hogy rendelkezik a veszélyes anyagokkal kapcsolatos súlyos baleseteket megelőző politikával és az annak végrehajtását szolgáló biztonsági irányítási rendszerrel, működőképes belső védelmi tervvel, a veszélyes anyagokkal kapcsolatos súlyos baleseti veszélyeket azonosította, és a veszélyes anyagokkal kapcsolatos súlyos balesetek kockázatát elemezte és értékelte, a megelőzésükre a szükséges intézkedéseket megtette, kellő mértékű a létesítményeinek biztonsága, megbízhatósága. A jelentésnek elegendő információt kell szolgáltatnia a külső védelmi tervek elkészítéséhez és a hatósági döntés kialakításához. A biztonsági jelentés az egészség és a környezet magas fokú védelmét szolgálja.
 
-4. Dominóhatás: a veszélyes anyagokkal foglalkozó létesítményben bekövetkező olyan baleset, amely a közelben lévő más, veszélyes anyagokkal foglalkozó üzemre átterjedve a veszélyes anyagokkal kapcsolatos súlyos balesetek valószínűségét és lehetőségét megnöveli vagy a bekövetkezett veszélyes anyagokkal kapcsolatos súlyos baleset következményeit súlyosbítja.
+4.
 
 4a. Gazdálkodó szervezet: a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezet.
 
@@ -72,9 +72,9 @@ d) speciális végpont: minden olyan eszköz, berendezés, amely az a)–c) pont
 
 30. Veszélyes anyagokkal kapcsolatos esemény: veszélyes anyagokkal foglalkozó üzemben, küszöbérték alatti üzemben a rendeltetésszerű működés során vagy a technológiai folyamatokban bekövetkező olyan nem várt esemény, amely nem minősül veszélyes anyagokkal kapcsolatos súlyos balesetnek, de azonnali beavatkozást igényel és az alábbi következmények egyikével jár:
 
-a) veszélyes anyaggal kapcsolatos tűz,
+a) veszélyes anyaggal kapcsolatos tűz, amennyiben személyi sérüléssel nem jár, de a tűzkár a 300 000 Ft-os értékhatárt meghaladja,
 
-b) veszélyes anyaggal kapcsolatos robbanás,
+b) veszélyes anyaggal kapcsolatos robbanás, amennyiben kizárólag az üzem, létesítmény telephelyét, székhelyét érinti, személyi sérüléssel nem jár, de az anyagi kár a 300 000 Ft-os értékhatárt meghaladja,
 
 c) mérgező, rákkeltő tulajdonságú veszélyes anyag kibocsátása,
 

@@ -1,1 +1,1 @@
-36. § Az iparbiztonsági hatóság a veszélyes anyagokkal kapcsolatos súlyos balesetek és események megelőzése, kivizsgálása, valamint a jogszabályban, illetve hatósági határozatban foglalt kötelezettségek teljesülése érdekében az e törvény végrehajtását szolgáló kormányrendeletben meghatározott gyakorisággal hatósági ellenőrzést tart.
+### 36. §

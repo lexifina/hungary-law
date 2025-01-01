@@ -2,7 +2,9 @@
 
 ## VESZÉLYES ANYAGOKKAL KAPCSOLATOS SÚLYOS BALESETEK ELLENI VÉDEKEZÉS
 
-25. § (1) Veszélyes anyagokkal foglalkozó üzemre, veszélyes anyagokkal foglalkozó létesítményre építési engedély csak az iparbiztonsági hatóság engedélye alapján adható. Veszélyes tevékenység kizárólag az iparbiztonsági hatóság engedélyével végezhető. Az építési engedélyezéshez és a veszélyes tevékenység végzéséhez szükséges iparbiztonsági engedély iránti kérelemhez az üzemeltetőnek csatolni kell a biztonsági jelentést vagy biztonsági elemzést.
+25. § (1) Veszélyes anyagokkal foglalkozó üzemre, veszélyes anyagokkal foglalkozó létesítményre építési engedély csak az iparbiztonsági hatóság engedélye alapján adható. Az engedélyt az ügyfél kérésére jogszabályban meghatározott integrált hatósági eljárás keretein belül jogszabályban meghatározott közreműködő szerv szerzi be.
+
+(1a) Veszélyes tevékenység kizárólag az iparbiztonsági hatóság engedélyével végezhető. Az építési engedélyezéshez és a veszélyes tevékenység végzéséhez szükséges engedély iránti kérelemhez az üzemeltetőnek csatolni kell a biztonsági jelentést vagy biztonsági elemzést.
 
 (2) Amennyiben a biztonsági jelentés vagy biztonsági elemzés védendő adatot tartalmaz, az üzemeltető egyidejűleg a nyilvánosságra hozható, védendő adatot nem tartalmazó biztonsági jelentést vagy biztonsági elemzést is köteles az iparbiztonsági hatóság részére benyújtani.
 
@@ -10,6 +12,6 @@
 
 (3) Az iparbiztonsági hatóság által az e jogszabály IV. fejezete alapján lefolytatott közigazgatási eljárásokért igazgatási szolgáltatási díjat kell fizetni.
 
-(4) Az iparbiztonsági hatóság a IV. fejezet hatálya alá tartozás megállapítása céljából bármely gazdálkodó szervezetet adatszolgáltatásra kötelezhet és annak telephelyén hatósági ellenőrzést tarthat.
+(4)
 
 (5)

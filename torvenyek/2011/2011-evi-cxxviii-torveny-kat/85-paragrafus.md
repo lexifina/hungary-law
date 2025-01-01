@@ -1,1 +1,1 @@
-85. § A lakossági riasztórendszer végpontjainak listáját az áramszolgáltatók részére a hivatásos katasztrófavédelmi szerv központi szerve, illetve területi szervei 2012. március 1-jéig megküldik. A lakossági riasztó rendszer végpontjaiban bekövetkezett változást, az azt követő 72 órán belül kell megküldeni az áramszolgáltatók részére.
+### 85. §

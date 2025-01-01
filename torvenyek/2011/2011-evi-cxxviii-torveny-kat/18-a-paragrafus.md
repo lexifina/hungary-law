@@ -4,19 +4,13 @@
 
 (3) A minősített önkéntes mentőszervezetek a hivatásos katasztrófavédelmi szervek szakmai irányítása mellett vesznek részt a katasztrófák hatásai elleni védekezésben és a kárelhárításban.
 
-(4) A minősített önkéntes mentőszervezet tagjai részére – a minősített önkéntes mentőszervezet tagjának azonosítása, a lezárt kárterületre történő belépési jogosultság ellenőrzése érdekében – a hivatásos katasztrófavédelmi szerv visszavonásig érvényes egységes mentési igazolványt ad ki, valamint adatváltozás esetén a mentési igazolvány cseréjéről gondoskodik.
+(4) A minősített önkéntes mentőszervezet tagjai részére a hivatásos katasztrófavédelmi szerv a (8) bekezdés szerinti nyilvántartás alapján – a minősített önkéntes mentőszervezet tagjának azonosítása, a lezárt kárterületre történő belépési jogosultság ellenőrzése érdekében – visszavonásig érvényes egységes mentési igazolványt ad ki, valamint adatváltozás esetén a mentési igazolvány cseréjéről gondoskodik.
 
-(5) A minősített önkéntes mentőszervezet tagja a kárhelyszínen intézkedésre jogosult személy felszólítására köteles a mentési igazolványát felmutatni.
+(5)
 
-(6) A mentési igazolvány adattartalma:
+(6)
 
-a) a minősített önkéntes mentőszervezet megnevezése,
-
-b) a minősített önkéntes mentőszervezet tagja arcfényképe,
-
-c) a minősített önkéntes mentőszervezet tagja neve.
-
-(7) A mentési igazolványt a hivatásos katasztrófavédelmi szerv a (8) bekezdés alapján vezetett nyilvántartás alapján állítja ki.
+(7)
 
 (8) A hivatásos katasztrófavédelmi szerv a minősített önkéntes mentőszervezetek védekezésbe történő bevonásának elrendelése, az önkéntes mentőszervezet tagja nyilvántartási számmal történő azonosítása, a lezárt kárterületre történő belépési jogosultság ellenőrzése, felkészítések és gyakorlatok megszervezése érdekében a minősített önkéntes mentőszervezetekről és azok tagjairól vezetett nyilvántartásban (a továbbiakban: nyilvántartás) kezeli a tag
 
@@ -42,7 +36,7 @@ j) vezetői engedélye kategóriáját.
 
 (9) A (8) bekezdés szerinti adatokban bekövetkezett változás esetén az adatokat a minősített önkéntes mentőszervezet tagja – a mentőszervezet vezetője útján – az adatváltozás időpontjától számított 15 napon belül szolgáltatja.
 
-(10) A mentési igazolványt a hivatásos katasztrófavédelmi szerv a minősített önkéntes mentőszervezet megszűnésekor, a minősített önkéntes mentőszervezeti tagság megszűnésekor, a minősített önkéntes mentőszervezet tagjának halála esetén, a minősített önkéntes mentőszervezet tagjának adataiban bekövetkezett változás esetén vagy a hivatásos katasztrófavédelmi szervvel kötött együttműködési megállapodás megszűnésekor visszavonja és érvényteleníti.
+(10)
 
 (11) A (8) bekezdés alapján nyilvántartott adat – ha törvény eltérően nem rendelkezik – más szerv részére nem továbbítható.
 

@@ -10,33 +10,17 @@ a) javaslatot tesz a hivatásos katasztrófavédelmi szerv központi szerve veze
 
 b) gyakorolja a munkáltatói jogokat a hivatásos katasztrófavédelmi szerv központi szerve állományába tartozó személyek felett.
 
-(4) A hivatásos katasztrófavédelmi szerv központi szerve vezetője a katasztrófaelhárítás irányításával és koordinálásával kapcsolatos jogkörében:
+(4) A hivatásos katasztrófavédelmi szerv központi szerve vezetője a katasztrófaelhárítás irányításával és koordinálásával kapcsolatos jogkörében
 
-a) biztosítja a hivatásos katasztrófavédelmi szervezetek működési feltételeit, tervezi és felügyeli a katasztrófák elleni védekezéssel összefüggő jóváhagyott fejlesztéseket,
+a) felelős a polgári védelmi kötelezettségen alapuló központi polgári védelmi szervezet létrehozásáért és a központi veszélyelhárítási terv elkészítéséért,
 
-b) javaslatot tesz a katasztrófák elleni védekezésért felelős miniszter részére a katasztrófavédelem működését, a hivatásos katasztrófavédelmi szerv feladatkörét érintő jogszabályoknak és a közjogi szervezetszabályozó eszközöknek megalkotására,
+b) ellátja a polgári védelmi szervezetek létrehozásával és felkészítésével, ellátásával és alkalmazásával, valamint a lakosság és az anyagi javak mentésével összefüggő tervezési és szervezési feladatokat,
 
-c) kidolgozza a katasztrófavédelemmel összefüggő tervezési, szervezési, felkészítési szakmai elveket és követelményeket, végzi a lakosság mentésével kapcsolatos tervező, szervező feladatokat, irányítja az alárendelt szerveknek a bekövetkezett események következményeinek felszámolására irányuló tevékenységét,
+c) biztosítja a védelmi igazgatás szerveinek működéséhez szükséges szakértőket, és részt vesz a védelmi igazgatás tervezési feladataiban,
 
-d) a katasztrófák elleni védekezésért felelős miniszter irányításával közreműködik a katasztrófák várható következményeinek megelőzésére és elhárítására vonatkozó tervezésben,
+d) feladatai ellátásához az ingatlanügyi hatóságtól a számítógépes ingatlan-nyilvántartási rendszerből, a polgárok személyi adatainak és lakcímének nyilvántartását kezelő szervtől adatot, a földmérési és térképészeti állami alapadatok kezelésére jogosult szervtől földmérési és térképészeti állami alapadatokat, termékeket kér,
 
-e) felelős a polgári védelmi kötelezettségen alapuló központi polgári védelmi szervezet létrehozásáért és a központi veszélyelhárítási terv elkészítéséért,
-
-f) meghatározza a tűzvédelmi és műszaki mentési, a katasztrófavédelmi feladatok végrehajtásának szakmai követelményeit, irányítja és ellenőrzi az alárendelt szervek szakmai munkáját és tevékenységét,
-
-g) ellátja a polgári védelmi szervezetek létrehozásával és felkészítésével, ellátásával és alkalmazásával, valamint a lakosság és az anyagi javak mentésével összefüggő tervezési és szervezési feladatokat,
-
-h) biztosítja a védelmi igazgatás szerveinek működéséhez szükséges szakértőket, és részt vesz a védelmi igazgatás tervezési feladataiban,
-
-i) együttműködik az országos illetékességgel eljáró szervek ágazati katasztrófaelhárítási szervezeteivel,
-
-j) feladatai ellátásához az ingatlanügyi hatóságtól a számítógépes ingatlan-nyilvántartási rendszerből, a polgárok személyi adatainak és lakcímének nyilvántartását kezelő szervtől adatot, a földmérési és térképészeti állami alapadatok kezelésére jogosult szervtől földmérési és térképészeti állami alapadatokat, termékeket kér,
-
-k) gondoskodik a közfoglalkoztatás feltételeinek rendelkezésre állásáról a katasztrófák elleni védekezésre való felkészüléssel, a védekezéssel és a helyreállítással összefüggő katasztrófavédelmi feladatok hatékonyabb ellátása érdekében,
-
-l) irányítja a veszélyes áruk szállításának ellenőrzésével kapcsolatos, a hivatásos katasztrófavédelmi szerv hatáskörébe tartozó hatósági feladatok ellátását.
-
-m) ellátja a veszélyes áruk szállítására használt nem nyomástartó csomagoló- és szállítóeszközök gyártási típus jóváhagyási engedélyezésével, a gyártás ellenőrzésével és azzal összefüggő szankcionálással kapcsolatos hatósági feladatok irányítását.
+e) ellátja az e törvény végrehajtására kiadott kormányrendeletben meghatározott feladatokat.
 
 (5) A hivatásos katasztrófavédelmi szerv központi szerve vezetője a nemzetközi együttműködéssel kapcsolatos jogkörében:
 
@@ -64,4 +48,4 @@ k) szükség esetén – a külpolitikáért felelős miniszterrel együttműkö
 
 l) végzi az Európai Unió kötelező jogi aktusából vagy nemzetközi szerződésből eredő katasztrófavédelmi feladatokat.
 
-(6) A hivatásos katasztrófavédelmi szerv központi szerve vezetője irányítja az országos szúnyoggyérítési program keretében a szúnyoggyérítéssel kapcsolatos feladatok ellátását.
+(6)

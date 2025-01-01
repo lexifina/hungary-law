@@ -20,7 +20,7 @@ c) a személyi adat- és lakcímnyilvántartás,
 
 d)
 
-(4) A (3) bekezdésben meghatározott adatszolgáltató az adatszolgáltatást 15 napon belül térítésmentesen teljesíti.
+(4) A (3) bekezdésben meghatározott adatszolgáltató az adatszolgáltatást 8 napon belül térítésmentesen teljesíti.
 
 (5) A hadkiegészítő parancsnokság a polgármester kiválasztási szempontokat is tartalmazó megkeresésére adja át a beosztható személyeknek az (1) bekezdésben meghatározott adatait.
 

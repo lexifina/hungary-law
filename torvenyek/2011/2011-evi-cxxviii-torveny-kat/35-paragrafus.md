@@ -26,11 +26,11 @@ b) a IV. fejezetben és a végrehajtási rendeletekben, vagy az azok alapján me
 
 c) a veszélyes tevékenységgel kapcsolatos súlyos balesettel, vagy eseménnyel összefüggésben megelőző, elhárító és helyreállító intézkedésekre vonatkozó kötelezettség be nem tartása esetén.
 
-(6) A katasztrófavédelmi bírság legkisebb összege háromszázezer forint, legmagasabb összege hárommillió forint. A bírság összegét a törvényi keretek között a jogsértésnek az emberi életre és egészségre, az anyagi javakra és a környezetre való veszélyességével arányos mértékben, igazodva a jogsértés súlyához és ismétlődéséhez kell meghatározni.
+(6)
 
 (7) A bírság egy eljárásban ugyanazon kötelezettség ismételt megszegése vagy más kötelezettségszegés esetén ismételten is kiszabható.
 
-(8) A bírság megfizetése nem mentesít a büntetőjogi, illetve a polgári jogi felelősség, valamint az elmulasztott kötelezettség teljesítése alól.
+(8)
 
 (9) A katasztrófavédelmi bírság a központi költségvetés központosított bevételét képezi.
 

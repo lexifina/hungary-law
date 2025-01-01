@@ -1,8 +1,8 @@
 ## 13. A katasztrófák elleni védekezésben közreműködő önkéntes szervezetek feladatai
 
-18. § (1) Az önkéntesen segítséget nyújtó személyek, az önkéntesen közreműködő társadalmi és karitatív szervezetek részt vehetnek a katasztrófák elleni védekezéssel összefüggő feladatok ellátásában.
+18. § (1) Az önkéntesen segítséget nyújtó személyek részt vehetnek a katasztrófák elleni védekezéssel összefüggő feladatok ellátásában. Az önként jelentkező társadalmi és karitatív szervezetek a katasztrófák elleni védekezéssel összefüggő feladatok ellátásában a hivatásos katasztrófavédelmi szervekkel kötött megállapodás alapján vehetnek részt.
 
-(2) Az önként jelentkező társadalmi és karitatív szervezetek a katasztrófák elleni védekezéssel összefüggő feladatok ellátásában a hivatásos katasztrófavédelmi szervekkel kötött megállapodás alapján vehetnek részt.
+(2)
 
 (3) Az önkéntesen segítséget nyújtó személyek a katasztrófák elleni védekezéssel összefüggő feladat végrehajtásáért felelős személy irányításával látják el a számukra meghatározott feladatot.
 

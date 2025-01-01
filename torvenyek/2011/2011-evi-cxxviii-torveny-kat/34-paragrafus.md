@@ -1,3 +1,1 @@
-34. § (1) Az iparbiztonsági hatóság a 25. § (1) bekezdése szerinti végleges határozatát a veszélyeztetett települések polgármestereivel, az üzem telephelye szerint illetékes környezetvédelmi, valamint természetvédelmi hatósággal, a fővárosban a főpolgármesterrel, valamint a veszélyes anyagokkal foglalkozó üzem telephelye szerint illetékes helyi, területi védelmi bizottság elnökével közli.
-
-(2) Az iparbiztonsági hatóság a veszélyes tevékenység végzésére vonatkozó határozatának kiadását követően a veszélyes tevékenységet végzőkről és a veszélyes anyagokkal kapcsolatos súlyos baleseti veszélyekről tájékoztatja a veszélyes anyaggal foglalkozó üzem telephelye szerint illetékes vármegyei (budapesti) rendőr-főkapitányságot, az egészségügyi államigazgatási szervet, a környezetvédelmi hatóságot, valamint az állami mentőszolgálatot.
+### 34. §

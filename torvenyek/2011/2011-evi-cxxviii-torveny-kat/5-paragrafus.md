@@ -6,9 +6,9 @@
 
 5. § A Kormány a katasztrófavédelem megszervezése és irányítása körében:
 
-a) meghatározza a Kormány tagjainak és a védekezésben érintett állami szerveknek a katasztrófavédelemmel kapcsolatos feladatait,
+a) meghatározza a védekezésben érintett állami szerveknek a katasztrófavédelemmel kapcsolatos feladatait,
 
-b) megköti a katasztrófákkal kapcsolatos kölcsönös tájékoztatásra és segítségnyújtásra, valamint a megelőzés területén történő együttműködésre irányuló nemzetközi egyezményeket,
+b)
 
 c) összehangolja a katasztrófavédelemmel összefüggő oktatási, képzési, tudományos kutatási és műszaki fejlesztési tevékenységet,
 
@@ -16,9 +16,9 @@ d) létrehozza az országos katasztrófavédelmi információs rendszert,
 
 e)
 
-f) az éves költségvetésben tervezi a hazai és a nemzetközi segítségnyújtásra fordítható előirányzat mértékét,
+f)
 
-g) gondoskodik a központi költségvetési tervezés keretében a katasztrófavédelem működésének és fejlesztésének pénzügyi feltételeiről,
+g)
 
 h) meghatározza a nemzeti kockázatelemzési, -értékelési és feltérképezési követelményeket,
 

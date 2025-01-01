@@ -20,7 +20,7 @@ g) gondoskodik az EU polgári védelmi tevékenységének hazai koordinálásár
 
 h) a külpolitikáért felelős miniszterrel együttműködve részt vesz a nemzetközi segítségnyújtásban,
 
-i) felelős a kritikus infrastruktúrák védelméért a katasztrófák elleni védekezés területén,
+i) felelős a kritikus szervezetek és a kritikus infrastruktúrák ellenálló képességéért, az ágazatokért felelős miniszterekkel együttműködve,
 
 j) jóváhagyja a központi veszélyelhárítási tervet.
 
