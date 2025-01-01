@@ -54,7 +54,7 @@
 
 | 25. | 24 | 62,5 | 62,5 | 62,5 | 62,5 | 62,5 | 62,5 |
 
-4. számú melléklet a 168/1997. (X. 6.) Korm. rendelethez[^369]
+4. számú melléklet a 168/1997. (X. 6.) Korm. rendelethez[^359]
 
 A nyugellátás iránti igény bejelentésére szolgáló nyomtatvány és elektronikus űrlap adattartalma
 
@@ -76,11 +76,11 @@ A nyugellátás iránti igény bejelentésére szolgáló nyomtatvány és elekt
 
 4.5. a jogviszony igazolásának módja.
 
-5.[^370] Az arra vonatkozó adatok, hogy az igénylő részesül-e családtámogatási, munkanélküli vagy szociális ellátásban, jogosult-e aktív korúak ellátására, illetve áll-e biztosítással járó jogviszonyban.
+5.[^360] Az arra vonatkozó adatok, hogy az igénylő részesül-e családtámogatási, munkanélküli vagy szociális ellátásban, jogosult-e aktív korúak ellátására, illetve áll-e biztosítással járó jogviszonyban.
 
 6. A Tny. 18. § (2a)–(2d) bekezdése szerinti esetben a gyermekek neve, születési ideje és a Tny. 18. § (2b) bekezdése szerinti ellátásokra vonatkozó adatok.
 
 7. A folyósítási cím, illetve pénzforgalmi számla azonosításához szükséges adatok.
 
-[^369]: A 4. számú mellékletet újonnan a 425/2012. (XII. 29.) Korm. rendelet 10. §-a iktatta be.
-[^370]: A 4. számú melléklet 5. pontja a 104/2024. (V. 9.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^359]: A 4. számú mellékletet újonnan a 425/2012. (XII. 29.) Korm. rendelet 10. §-a iktatta be.
+[^360]: A 4. számú melléklet 5. pontja a 104/2024. (V. 9.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.

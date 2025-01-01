@@ -1,3 +1,3 @@
-11/C. §[^45]
+11/C. §[^37]
 
-[^45]: A 11/C. §-t a 201/1999. (XII. 26.) Korm. rendelet 3. §-a iktatta be, majd a 248/2003. (XII. 23.) Korm. rendelet 25. § (9) bekezdésének b) pontja hatályon kívül helyezte.
+[^37]: A 11/C. §-t a 201/1999. (XII. 26.) Korm. rendelet 3. §-a iktatta be, majd a 248/2003. (XII. 23.) Korm. rendelet 25. § (9) bekezdésének b) pontja hatályon kívül helyezte.

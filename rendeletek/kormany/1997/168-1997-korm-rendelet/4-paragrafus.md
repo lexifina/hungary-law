@@ -1,6 +1,3 @@
-## A tizenharmadik havi nyugdíj[^30]
+4. §[^23]
 
-4. §[^31] A tizenharmadik havi nyugdíjat a nyugdíjfolyósító szerv február hónapban folyósítja.
-
-[^30]: A 4. §-t megelőző A tizenharmadik havi nyugdíj alcím címet a 707/2020. (XII. 30.) Korm. rendelet 1. §-a iktatta be.
-[^31]: A 4. §-t a 327/2006. (XII. 23.) Korm. rendelet 12. § (3) bekezdésének a) pontja hatályon kívül helyezte, újonnan a 707/2020. (XII. 30.) Korm. rendelet 2. §-a iktatta be.
+[^23]: A 4. §-t újonnan a 707/2020. (XII. 30.) Korm. rendelet 2. §-a iktatta be, a 464/2024. (XII. 30.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte. A 4. §-t megelőző „A tizenharmadik havi nyugdíj” alcím címet a 707/2020. (XII. 30.) Korm. rendelet 1. §-a iktatta be, a 464/2024. (XII. 30.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.

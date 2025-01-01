@@ -1,3 +1,3 @@
-99. §[^365]
+99. §[^355]
 
-[^365]: A 99. §-t a 461/2020. (X. 21.) Korm. rendelet 10. §-a iktatta be, a 352/2023. (VII. 27.) Korm. rendelet 8. § k) pontja hatályon kívül helyezte.
+[^355]: A 99. §-t a 461/2020. (X. 21.) Korm. rendelet 10. §-a iktatta be, a 352/2023. (VII. 27.) Korm. rendelet 8. § k) pontja hatályon kívül helyezte.

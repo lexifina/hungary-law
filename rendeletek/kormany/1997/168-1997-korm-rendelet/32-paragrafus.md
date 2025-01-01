@@ -14,7 +14,7 @@ a) szülése esetén a szülése napját magában foglaló hónap első napját�
 
 b) halála esetén a hónap első napjától az elhalálozás napjáig eltelt időt,ha ezt megelőző naptári hónapban szolgálati időt szerzett, illetőleg ezt megelőzően társadalombiztosítási járulékot fizetett vagy a házastárs után társadalombiztosítási járulékot fizettek.
 
-(4)[^97] Szolgálati időként kell figyelembe venni az átképzési támogatás, a munkanélküli segély és az átmeneti munkanélküli járadék folyósításának idejét, továbbá azt az időt, amely alatt a nyugdíjigénylő ápolási díjban részesült, illetőleg gyermeknevelési támogatást kapott, feltéve, hogy a díj vagy támogatás után nyugdíjjárulékot fizetett. 1991. március 1-jétől szolgálati időnek számít a munkanélküli járadék, a képzési támogatás és pályakezdők munkanélküli segélye folyósításának ideje, valamint az az időtartam is, amelyre a Szolidaritási Alapból, illetőleg a Munkaerőpiaci Alapból nyugdíjjárulékot fizettek. Az ápolási díj folyósításának 1993. január 1. és február 28. közötti tartamát járulékfizetésre tekintet nélkül szolgálati időként kell figyelembe venni.
+(4)[^90] Szolgálati időként kell figyelembe venni az átképzési támogatás, a munkanélküli segély és az átmeneti munkanélküli járadék folyósításának idejét, továbbá azt az időt, amely alatt a nyugdíjigénylő ápolási díjban részesült, illetőleg gyermeknevelési támogatást kapott, feltéve, hogy a díj vagy támogatás után nyugdíjjárulékot fizetett. 1991. március 1-jétől szolgálati időnek számít a munkanélküli járadék, a képzési támogatás és pályakezdők munkanélküli segélye folyósításának ideje, valamint az az időtartam is, amelyre a Szolidaritási Alapból, illetőleg a Munkaerőpiaci Alapból nyugdíjjárulékot fizettek. Az ápolási díj folyósításának 1993. január 1. és február 28. közötti tartamát járulékfizetésre tekintet nélkül szolgálati időként kell figyelembe venni.
 
 (5) Az egységes anyasági segélyben részesült nőnél szülési szabadság címén
 
@@ -26,4 +26,4 @@ kell figyelembe venni.
 
 (6) A munkaterápiás intézetben kezelt alkoholistának ezt az idejét szolgálati időként kell figyelembe venni, ha intézeti kezelésének a kezdetekor biztosított volt.
 
-[^97]: A 32. § (4) bekezdése a 425/2012. (XII. 29.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^90]: A 32. § (4) bekezdése a 425/2012. (XII. 29.) Korm. rendelet 4. §-a szerint módosított szöveg.
