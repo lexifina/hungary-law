@@ -29,3 +29,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-58-00-00
 | 2023-12-30 | 2023. évi XCI. törvény | 2020-58-00-00.23 |
 | 2024-01-01 | 2023. évi LXX. törvény | 2020-58-00-00.21 |
 | 2024-10-29 | 2024. évi XXXIX. törvény | 2020-58-00-00.25 |
+| 2025-01-01 | 2020. évi CLXII. törvény | 2020-58-00-00.24 |

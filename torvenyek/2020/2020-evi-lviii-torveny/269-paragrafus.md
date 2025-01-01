@@ -1,1 +1,1 @@
-269. § A menekültügyi hatóság 268. § (4) bekezdése szerinti tájékoztatása alapján Magyarország nagykövetsége 30 napig érvényes utazási okmányt állít ki, ha a külföldi Magyarországra történő belépésre jogosító engedéllyel nem rendelkezik.
+### 269. §
