@@ -16,8 +16,10 @@ c) a hulladéklerakó típusát.
 
 (5) A hulladékgazdálkodási hatóság nyilvántartást vezet a céltartalék képzésére kötelezettekről és a képzett céltartalék mértékéről.
 
-(6) A hulladékgazdálkodási közszolgáltatási tevékenység végzésére jogosult koncessziós társaság a Ht. 41. § (4) bekezdése szerinti választása alapján 10 millió forint éves aggregált összegű céltartalékot képez.
+(6)[^1]
 
 (7) A céltartalék képzésére kötelezett – a (8) bekezdésben foglaltak kivételével – a tárgyévben képzett céltartalék összegéről cégszerűen aláírt nyilatkozattal tájékoztatja a hulladékgazdálkodási hatóságot minden év március 31-ig.
 
 (8) Az állami felelősségi körbe tartozó kármentesítési vagy környezetvédelmi feladatok lebonyolításáért felelős, a feladat ellátására jogszabályban kijelölt, a feladatok végrehajtását a központi költségvetésből származó források alapján ellátó, kizárólagos állami tulajdonú gazdasági társaság a Ht. 72. § (3) bekezdése szerinti kötelezettsége teljesítéséről cégszerűen aláírt nyilatkozattal vagy a tulajdonosi joggyakorló részéről kiállított, annak mögöttes felelősségvállalását tartalmazó nyilatkozat továbbításával tájékoztatja a hulladékgazdálkodási hatóságot minden év március 31-ig.
+
+[^1]: Az 5. § (6) bekezdését a 465/2024. (XII. 30.) Korm. rendelet 54. § a) pontja hatályon kívül helyezte.

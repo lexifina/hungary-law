@@ -26,6 +26,8 @@ b) a környezetvédelmi biztosítás kötésére kötelezett szervezet igazolja 
 
 (12) A környezetvédelmi biztosításkötési kötelezettség megszűnését a hulladékgazdálkodási hatóság állapítja meg.
 
-(13) A hulladékgazdálkodási közszolgáltatási tevékenység végzésére jogosult koncessziós társaság a Ht. 41. § (4) bekezdése szerinti választása alapján 10 millió forint éves aggregált limittel rendelkező környezetvédelmi biztosítást köt.
+(13)[^2] A hulladékgazdálkodási közszolgáltatási tevékenység végzésére jogosult koncessziós társaság a Ht. 41. § (4) bekezdése alapján 10 millió forint éves aggregált limittel rendelkező környezetvédelmi biztosítást köt.
 
 (14) A biztosító a környezetvédelmi biztosítási szerződés megszűnését követő 15 napon belül elektronikus úton tájékoztatja az illetékes hulladékgazdálkodási hatóságot a biztosítási szerződés megszűnéséről.
+
+[^2]: A 7. § (13) bekezdése a 465/2024. (XII. 30.) Korm. rendelet 54. § b) pontja szerint módosított szöveg.
