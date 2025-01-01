@@ -2,11 +2,11 @@
 
 Az állami érdekű alkalmazásfejlesztések tervezése, beszerzése és lebonyolítása során kötelezően érvényesítendő szakmapolitikai alapkövetelmények
 
-1.[^101] Alkalmazásfejlesztések csak az állam által támogatott – és a 4. § (1) bekezdés a) pont af) alpontjában rögzített módszertan szerint meghatározott, szakmailag indokolt mértékű kapacitásig közszolgáltatási szerződés alapján igénybe vehető – fejlesztői környezetben végezhetők el.
+1.[^119] Alkalmazásfejlesztések csak az állam által támogatott – és a 4. § (1) bekezdés a) pont af) alpontjában rögzített módszertan szerint meghatározott, szakmailag indokolt mértékű kapacitásig közszolgáltatási szerződés alapján igénybe vehető – fejlesztői környezetben végezhetők el.
 
-2.[^102] A fejlesztésekbe be kell építeni az ÁAFK által biztosított szabályozott és a központi elektronikus ügyintézési szolgáltatás (a továbbiakban együtt: KEÜSZ-ök és SZEÜSZ-ök), valamint a digitális állampolgárság szolgáltatások (keretszolgáltatások, támogató szolgáltatások) komponensek használatát.
+2.[^120] A fejlesztésekbe be kell építeni az ÁAFK által biztosított szabályozott és a központi elektronikus ügyintézési szolgáltatás (a továbbiakban együtt: KEÜSZ-ök és SZEÜSZ-ök), valamint a digitális állampolgárság szolgáltatások (keretszolgáltatások, támogató szolgáltatások) komponensek használatát.
 
-3.[^103] A fejlesztések eredménytermékeiben kötelezően biztosítani kell a KEÜSZ-ök és SZEÜSZ-ök, valamint a digitális állampolgárság szolgáltatások (keretszolgáltatások, támogató szolgáltatások) igénybevételét, az általuk lefedett szolgáltatási elemekre és funkciókra egyéb megoldások nem alakíthatóak ki a fejlesztett alkalmazásokban.
+3.[^121] A fejlesztések eredménytermékeiben kötelezően biztosítani kell a KEÜSZ-ök és SZEÜSZ-ök, valamint a digitális állampolgárság szolgáltatások (keretszolgáltatások, támogató szolgáltatások) igénybevételét, az általuk lefedett szolgáltatási elemekre és funkciókra egyéb megoldások nem alakíthatóak ki a fejlesztett alkalmazásokban.
 
 4. Biztosítani kell az ÁAFK-ban létrehozott alkalmazások, forráskódok, dokumentációk és kapcsolódó egyéb eredménytermékek (a továbbiakban: alkalmazáselem) vonatkozásában, hogy az állam azok tekintetében megszerezzen minden olyan jogot, amely az állam számára – a hátrányos, külső fejlesztőtől való függőség kizárásával – biztosítja azok korlátlan felhasználását, beleértve a korlátlan továbbfejlesztést, átalakítást, módosítást, továbbértékesítés is.
 
@@ -30,15 +30,15 @@ Az állami érdekű alkalmazásfejlesztések tervezése, beszerzése és lebonyo
 
 14. Amennyiben az adott alkalmazás elektronikus dokumentumot állít elő, biztosítani kell, hogy a készített elektronikus dokumentum más szoftverrel is olvasható, illetve szerkeszthető legyen, legalább az elektronikus ügyintézés részletszabályairól szóló 451/2016. (XII. 19.) Korm. rendelet 1. mellékletében meghatározott és a szoftver felhasználása szempontjából értelmezhető, az elektronikus ügyintézést biztosító szervek által kötelezően elfogadott elektronikus dokumentumformátumok használatának a lehetővé tételével.
 
-15.[^104] Az alkalmazás-fejlesztések során nem alkalmazható olyan technológiai megoldás vagy rendszer, amely az adatkezelő kifejezett hozzájárulása nélkül lehetővé teszi a harmadik fél általi hozzáférést, továbbá nem alkalmazható olyan technológiai elem vagy rendszer komponens, amelynek felhasználási feltételei egyoldalú szerződésmódosítást tesznek lehetővé, és ezáltal lehetségessé válhat a harmadik fél általi adathozzáférés.
+15.[^122] Az alkalmazás-fejlesztések során nem alkalmazható olyan technológiai megoldás vagy rendszer, amely az adatkezelő kifejezett hozzájárulása nélkül lehetővé teszi a harmadik fél általi hozzáférést, továbbá nem alkalmazható olyan technológiai elem vagy rendszer komponens, amelynek felhasználási feltételei egyoldalú szerződésmódosítást tesznek lehetővé, és ezáltal lehetségessé válhat a harmadik fél általi adathozzáférés.
 
-16.[^105] Az éles üzembe állításnál az adott alkalmazás rendelkezik az informatikai elektronikus információbiztonsági, illetve adatvédelmi, valamint a jogszabályokban vagy szerződésben meghatározott tanúsítvánnyal.
+16.[^123] Az éles üzembe állításnál az adott alkalmazás rendelkezik az informatikai elektronikus információbiztonsági, illetve adatvédelmi, valamint a jogszabályokban vagy szerződésben meghatározott tanúsítvánnyal.
 
-17.[^106] Az állami érdekű alkalmazásfejlesztések tervezése, illetve a fejlesztési feladatok megvalósítása során figyelemmel kell lenni arra, hogy az elektronikus ügyintézés lehetőségét a megvalósult alkalmazás elősegítse, illetve biztosítsa.
+17.[^124] Az állami érdekű alkalmazásfejlesztések tervezése, illetve a fejlesztési feladatok megvalósítása során figyelemmel kell lenni arra, hogy az elektronikus ügyintézés lehetőségét a megvalósult alkalmazás elősegítse, illetve biztosítsa.
 
-[^101]: Az 1. melléklet 1. pontja a 717/2021. (XII. 20.) Korm. rendelet 27. § d) pontja szerint módosított szöveg.
-[^102]: Az 1. melléklet 2. pontja a 342/2024. (XI. 14.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^103]: Az 1. melléklet 3. pontja a 342/2024. (XI. 14.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^104]: Az 1. melléklet 15. pontját a 476/2021. (VIII. 9.) Korm. rendelet 2. §-a iktatta be.
-[^105]: Az 1. melléklet 16. pontját a 476/2021. (VIII. 9.) Korm. rendelet 2. §-a iktatta be.
-[^106]: Az 1. melléklet 17. pontját a 476/2021. (VIII. 9.) Korm. rendelet 2. §-a iktatta be.
+[^119]: Az 1. melléklet 1. pontja a 717/2021. (XII. 20.) Korm. rendelet 27. § d) pontja szerint módosított szöveg.
+[^120]: Az 1. melléklet 2. pontja a 342/2024. (XI. 14.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^121]: Az 1. melléklet 3. pontja a 342/2024. (XI. 14.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^122]: Az 1. melléklet 15. pontját a 476/2021. (VIII. 9.) Korm. rendelet 2. §-a iktatta be.
+[^123]: Az 1. melléklet 16. pontját a 476/2021. (VIII. 9.) Korm. rendelet 2. §-a iktatta be.
+[^124]: Az 1. melléklet 17. pontját a 476/2021. (VIII. 9.) Korm. rendelet 2. §-a iktatta be.

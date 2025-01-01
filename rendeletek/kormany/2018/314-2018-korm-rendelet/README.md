@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-314-20-
 | 2023-01-01 | 2018-314-20-22.7 | 618/2022. (XII. 29.) Korm. rendelet |
 | 2023-10-01 | 2018-314-20-22.8 | 338/2023. (VII. 25.) Korm. rendelet |
 | 2024-11-15 | 2018-314-20-22.9 | 342/2024. (XI. 14.) Korm. rendelet |
+| 2025-01-01 | 2018-314-20-22.10 | 342/2024. (XI. 14.) Korm. rendelet |
