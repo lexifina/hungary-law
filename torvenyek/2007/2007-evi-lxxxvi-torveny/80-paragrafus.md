@@ -23,3 +23,5 @@ tájékoztatni.
 (8) Amennyiben az ügyfél a Hivatal hatáskörébe tartozó, a Tszt. szerint engedélyköteles tevékenységet is folytatni kíván, akkor a kiserőművi összevont engedély iránti kérelmével egyidejűleg köteles kérelmezni a Tszt. szerinti engedélyeket is.
 
 (9) A (8) bekezdés szerinti esetben a Hivatal a kiserőművi összevont engedélyt és a Tszt. szerinti engedélyeket egy engedélyben adja ki.
+
+(10) A kiserőművi összevont engedély jogosultja jogosult – az illetékes hatóság előzetes értesítése mellett – a létesítményen belüli berendezéseknek jogszabályban előírt próbaüzem elrendelésére vonatkozó hatósági döntésének kiadását követően a kiserőmű sikeres próbaüzemét igazoló jegyzőkönyv aláírásáig a kiserőműben villamos energiát termelni a területileg illetékes hálózati engedélyessel kötött hálózathasználati szerződésben és a Hivatal engedélyében foglaltaknak megfelelően.

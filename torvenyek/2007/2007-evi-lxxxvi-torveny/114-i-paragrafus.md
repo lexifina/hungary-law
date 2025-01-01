@@ -2,6 +2,8 @@
 
 ## ENERGETIKAI INNOVÁCIÓK TÁMOGATÁSÁVAL ÖSSZEFÜGGŐ FELADATOK
 
+## Energetikai szabályozási tesztkörnyezet
+
 114/I. § (1) A Hivatal energetikai szabályozási tesztkörnyezetet működtethet, amelynek célja, hogy ösztönözze és támogassa olyan energetikai innovációs teljesítmények elterjedését, piacra lépését, amelyek elősegíthetik a villamosenergia-rendszer fenntarthatóságának, költséghatékony működtetésének, a fogyasztói igények megfelelő ellátásának vagy az ellátásbiztonság növelését.
 
 (2) Energetikai innovációs teljesítmény bármely olyan, műszakilag és üzletileg megalapozott termék, szolgáltatás, technológia, üzleti modell vagy más újítás létrehozása, vagy hazai átvétele, ami Magyarországon még nem terjedt el.

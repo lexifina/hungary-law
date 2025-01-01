@@ -8,4 +8,4 @@ c) minden olyan, az árszabályozás feltételei szerint indokolt költség-korr
 
 ennek érvényesítendő hatását az elosztó hálózati engedélyesek éves beszámolójuk mérlegében időbeli elhatárolásként szerepeltetik.
 
-(2) Az (1) bekezdésben foglaltaknak megfelelően készített beszámoló a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 1. § (5) bekezdése alkalmazásában az Szt. rendelkezéseire figyelemmel megállapítottnak, azokkal összhangban állónak minősül.
+(2) Az (1) bekezdésben foglaltaknak megfelelően készített beszámoló a Tao tv. 1. § (5) bekezdése alkalmazásában az Szt. rendelkezéseire figyelemmel megállapítottnak, azokkal összhangban állónak minősül.

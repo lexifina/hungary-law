@@ -6,4 +6,4 @@
 
 (3) Ha a kérelmező egyetemes szolgáltatásra vonatkozó engedély iránti kérelmet és a 88. § (1) bekezdése szerinti villamosenergia-kereskedelemre vonatkozó engedély iránti kérelmet is benyújt, a Hivatal az egyetemes szolgáltatásra vonatkozó engedélyt a villamosenergia-kereskedelemre vonatkozó engedély kiadásakor is kiadhatja.
 
-(4) Az egyetemes szolgáltató villamosenergia-kereskedelemre vonatkozó engedély alapján folytatott tevékenysége az egyetemes szolgáltatás ellátását nem veszélyeztetheti.
+(4) Az engedélyes villamosenergia-kereskedelemre vonatkozó engedély alapján folytatott tevékenysége az egyetemes szolgáltatásra vonatkozó engedélye alapján végzett tevékenységét nem veszélyeztetheti.

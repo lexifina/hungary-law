@@ -1,19 +1,11 @@
-## A közös termelői vezeték használata
+## A termelői vezeték és csatlakozási pont közös használata
 
-39/G. § (1) Ha a termelői vezetékre több olyan erőmű, vagy több villamosenergia-tároló csatlakozik, amelyeknek nem ugyanaz a természetes vagy jogi személy a tulajdonosa, az erőművek, vagy villamosenergia-tárolók a termelői vezeték használatára vonatkozóan megállapodást kötnek.
+39/G. § (1) Ha a termelői vezetékre több olyan, legalább 0,5 MW névleges teljesítményű erőmű – ide nem értve a háztartási méretű kiserőművet –, vagy több villamosenergia-tároló csatlakozik, amelyeknek nem ugyanaz a természetes vagy jogi személy a tulajdonosa, az erőművek vagy villamosenergia-tárolók a termelői vezeték és csatlakozási pont használatára vonatkozóan megállapodást kötnek.
 
-(2) Az (1) bekezdésben foglalt megállapodás tartalmazza legalább
+(2) A termelői vezeték és csatlakozási pont közös használatára vonatkozóan megállapodást a felek a megállapodás megküldésével a Hivatalnak bejelentik.
 
-a) a termelői vezeték tulajdonjogával kapcsolatos rendelkezéseket,
+(3) A termelői vezeték használatára vonatkozó megállapodás minimális tartalmi elemeit a Kormány e törvény végrehajtására kiadott rendeletben állapítja meg.
 
-b) a termelői vezeték használatának ellenértékét,
+(4) Azokról a termelői vezetékekről és azok üzemeltetőiről, ahol az (1) bekezdés szerinti erőmű vagy tároló közül legalább egy 0,5 MW vagy ezt meghaladó névleges teljesítőképességgel rendelkezik, a hálózati engedélyes három havonta tájékoztatja a Hivatalt.
 
-c) a termelői vezeték tulajdonosának a rendelkezésre állási kötelezettségével kapcsolatos és a hozzáférés korlátozására vonatkozó szabályokat,
-
-d) a közös használat szabályait,
-
-e) a felelősségi kérdéseket,
-
-f) a fogyasztásmérés tekintetében irányadó szabályokat és
-
-g) a vitarendezésre vonatkozó szabályokat.
+(5) A hálózati engedélyes a tájékoztatásban első alkalommal valamennyi (1) bekezdés szerinti vezetékről, majd ezt követően mindig csak az újonnan létesült vezetékről tájékoztatja a Hivatalt. Ha a soron következő adatszolgáltatási időszakban nem létesült a feltételeknek megfelelő termelői vezeték, akkor erről az elosztói engedélyes tájékoztatja a Hivatalt.

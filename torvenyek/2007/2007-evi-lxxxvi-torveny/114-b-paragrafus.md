@@ -1,9 +1,23 @@
-114/B. § (1) A Hivatal a 114/E. § szerinti ellenőrzési eljárás és a 114/F–114/H. § szerinti nagykereskedelmi piacfelügyeleti eljárás keretében ellenőrzi az 1227/2011/EU európai parlamenti és tanácsi rendelet 3–5., 8–9. és 15. cikke szerinti kötelezettség teljesítését.
+## Algoritmikus kereskedéssel és a közvetlen elektronikus hozzáféréssel kapcsolatos kötelezettségek
 
-(2) A Hivatal az (1) bekezdés szerinti eljárás során jogosult bármilyen adathordozóról fizikai tükörmásolatot készíteni és a tükörmásolat felhasználásával az adathordozón tárolt adatokat átvizsgálni.
+114/B. § (1) Az a piaci szereplő, amelyet a REMIT 9. cikk (1) bekezdése alapján a Hivatal vesz nyilvántartásba és algoritmikus kereskedést folytat, kétévente március 31-ig megküldi a Hivatal részére a soron következő 2 évre vonatkozóan
 
-(3) A Hivatal – a 114/A. § (1) bekezdésében meghatározott cselekmény ellenőrzési vagy nagykereskedelmi piacfelügyeleti eljárás során történő vizsgálata, valamint a 114/A. § (1) bekezdésében meghatározott cselekménnyel összefüggő vagy ezt megalapozó cselekmények vizsgálata céljából – jogosult az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) szerinti védett adat megismerésére és kezeli a cselekménnyel közvetlenül összefüggő személyes adatokat.
+a) az algoritmikus kereskedési stratégiájára,
 
-(4) A Hivatal a személyes adatot az (5) bekezdésben meghatározott időtartam elteltéig, az eljárás megindítása esetén az eljárást lezáró döntés véglegessé válásától számított 5 évig kezeli.
+b) a kereskedési rendszerre érvényes kereskedési paraméterekre vagy limitekre,
 
-(5) A Hivatal e fejezetben szabályozott eljárása a tilalom megszegésétől, illetve a kötelezettség elmulasztásától számított 5 éven belül indítható meg.
+c) a REMIT 5a. cikk (1) bekezdésében megállapított követelmények teljesítésének biztosítására bevezetett alapvető megfelelési és kockázat-ellenőrzési mechanizmusokra, valamint
+
+d) a kereskedési rendszereinek a tesztelésére
+
+vonatkozó adatokat, illetve az ezzel kapcsolatosan a piaci szereplőnél keletkezett dokumentumokat.
+
+(2) A Hivatal bármikor további információkat kérhet a piaci szereplőtől az algoritmikus kereskedési tevékenységéről és az algoritmikus kereskedés céljára használt rendszeréről.
+
+(3) Az a piaci szereplő, amelyet a REMIT 9. cikk (1) bekezdése alapján a Hivatal vesz nyilvántartásba és a piaci szereplő valamely szervezett kereskedési helyhez közvetlen elektronikus hozzáférést biztosít, kétévente március 31-ig megküldi a Hivatal részére a REMIT 5a. cikk (1) bekezdésében meghatározott rendszerekről és kockázatellenőrzési mechanizmusokról szóló leírását, illetve azokat a dokumentumokat, amelyek alkalmasak arra, hogy bizonyítsák, hogy a piaci szereplő alkalmazza ezeket a mechanizmusokat.
+
+(4) A (3) bekezdésben foglaltakon túl a Hivatal bármikor, eseti jelleggel is kérhet a piaci szereplőtől további információkat a közvetlen elektronikus hozzáférés biztosításával összefüggő tevékenységéről, valamint a REMIT 5a. cikkének (1) bekezdésében említett rendszerekről és kockázatellenőrzési mechanizmusokról.
+
+(5) Ha az algoritmikus kereskedést folytató piaci szereplő a szervezett villamosenergia-piaci engedélyessel árjegyzői- vagy likviditást biztosítói megállapodást kötött, a megállapodás tényéről a megállapodás megkötésétől számított nyolc napon belül értesíti a Hivatalt. A megállapodás megszűnése esetében a piaci szereplő a megszűnés tényéről a megállapodás megszűnését követő nyolc napon belül tájékoztatja a Hivatalt.
+
+(6) Az (5) bekezdés szerinti piaci szereplő biztosítja, hogy az árjegyzői, illetve likviditást biztosító kereskedési tevékenysége keretében az algoritmikus kereskedéssel érintett vételi vagy eladási megbízások, valamint ügyletek a kereskedési nyilvántartásaiban egyértelműen azonosíthatók és elkülöníthetők az árjegyzői, illetve likviditást biztosító kereskedési tevékenységgel nem érintett kereskedési tevékenységtől.

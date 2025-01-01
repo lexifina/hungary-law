@@ -2,7 +2,7 @@
 
 56/A. § (1) Az engedélyes köteles a Hivatal által a 72. § rendelkezései szerint jóváhagyott üzletszabályzatot – a mindenkor hatályos, egységes szerkezetbe fogalt szöveggel – az ügyfélszolgálatán, illetve a honlapján a felhasználók részére hozzáférhetővé tenni.
 
-(1a) Az engedélyes az e törvényben és az e törvény végrehajtására kiadott kormányrendeletben előírt, az ügyfélszolgálatán teljesítendő közzétételi, tájékoztatási kötelezettségét elektronikus eszköz útján is teljesítheti.
+(1a) Az engedélyes az e törvényben és az e törvény végrehajtására kiadott jogszabályban előírt, az ügyfélszolgálatán teljesítendő közzétételi, tájékoztatási kötelezettségét elektronikus eszköz útján is teljesítheti.
 
 (2) A felhasználót megilleti az a jog, hogy fogyasztási adataira vonatkozóan térítésmentesen tájékoztatást kapjon az őt ellátó villamosenergia-kereskedőtől.
 

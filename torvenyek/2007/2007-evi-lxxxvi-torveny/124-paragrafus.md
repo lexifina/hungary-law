@@ -22,4 +22,4 @@ c) az a) és b) pontban meghatározott tevékenységek elvégzése céljából a
 
 (5) A hálózati engedélyes az (1) és (2) bekezdésben meghatározott tevékenységek elvégzése céljából a vezetékjoggal érintett ingatlanra beléphet. A hálózati engedélyes a bejutás biztosítása iránt a 137. § (4) bekezdés szerinti nemperes eljárást kezdeményezhet.
 
-(6) Ha a (2) bekezdés a) pontja szerinti hálózatátalakítás, felújítás, fejlesztés során új hálózati elem, berendezés kerül a vezetékjoggal rendelkező hálózat nyomvonalán elhelyezésre, ezek vonatkozásában új vezetékjogi eljárást nem kell lefolytatni, azok a meglévő vezetékjogi engedély birtokában üzemeltethetőek.
+(6) Ha a (2) bekezdés a) pontja szerinti hálózatátalakítás, felújítás, fejlesztés során új hálózati elem, berendezés kerül a vezetékjoggal rendelkező hálózat nyomvonalán vagy oly módon kerül elhelyezésre, hogy az új hálózati elem vagy berendezés létesítése az eddig fennálló biztonsági övezet méretét nem növeli, az új hálózati elem vagy berendezés vonatkozásában új vezetékjogi eljárást nem kell lefolytatni, azok a meglévő vezetékjogi engedély birtokában üzemeltethetőek.

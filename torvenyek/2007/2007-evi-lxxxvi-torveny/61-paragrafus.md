@@ -4,4 +4,12 @@
 
 (2) A villamosenergia-kereskedő köteles igazolható módon a villamosenergia-vásárlási szerződés megkötése előtt tájékoztatni a felhasználót a villamosenergia-vásárlási szerződés lényeges tartalmi elemeiről, és a felhasználó rendelkezésére bocsátani a szerződéses feltételek összefoglalóját. A tájékoztatásnak egyértelműnek, közérthetőnek és világosnak kell lennie.
 
+(2a) A villamosenergia-kereskedő a (2) bekezdés szerinti tájékoztatás körében a 45. § (2) és (3) bekezdésben meghatározott villamosenergia-vásárlási szerződéssel kapcsolatban tájékoztatja a felhasználót
+
+a) az adott szerződésre vonatkozó költségekről és kockázatokról,
+
+b) az adott szerződéssel kapcsolatban azonosítható előnyökről, valamint
+
+c) arról, ha valamely villamosenergia-vásárlási szerződés megkötéséhez meghatározott fogyasztásmérő berendezés felszerelése szükséges.
+
 (3) A villamosenergia-kereskedő a vele szerződő egyetemes szolgáltatásra jogosult felhasználóknak díjmentesen biztosítja a mérlegköri tagságot.

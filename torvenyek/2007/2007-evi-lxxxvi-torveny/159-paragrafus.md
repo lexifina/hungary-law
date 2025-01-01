@@ -40,6 +40,8 @@
 
 19. jogosult ellenőrzési feladatainak ellátása érdekében a szükséges mértékig a 152. § (1) bekezdése szerinti adatszolgáltatásra kötelezettek tényleges tulajdonosi hátterét megismerni és ennek érdekében eseti és rendszeres adatszolgáltatást előírni.
 
+20. ellátja a közép- és nagyfeszültségű hálózaton elérhető szabad kapacitások kiosztására irányuló pályázati eljárásra vonatkozóan e törvényben meghatározott feladatokat az e törvény végrehajtására kiadott kormányrendelet és miniszteri rendelet alapján.
+
 (2) A Hivatal az egyenlő bánásmód követelményének érvényesítésével kapcsolatos feladatai körében meghatározza a rendszerhasználók közcélú hálózathoz való hozzáférésének általános szabályait.
 
 (3) A Hivatal a hatékony verseny elősegítésével kapcsolatos feladatai körében:
@@ -58,7 +60,7 @@
 
 7. meghatározza a kötelező átvétel és prémium típusú támogatás időtartamát, valamint a támogatás alá eső villamos energia mennyiségét, továbbá a biomassza vagy biogáz felhasználásával történő villamosenergia-termelés fenntartásának ösztönzésére szolgáló prémium mértékét,
 
-8. ellátja a villamosenergia-piacot érintően az 1227/2011/EU európai parlamenti és tanácsi rendeletben meghatározott, a nemzeti szabályozó hatóságra vonatkozó feladatokat, illetve ezzel összefüggésben ellenőrzési-, nagykereskedelmi piacfelügyeleti eljárást végez,
+8. ellátja a villamosenergia-piacot érintően a REMIT-ben és a REMIT módosításában meghatározott, a nemzeti szabályozó hatóságra vonatkozó feladatokat, illetve ezzel összefüggésben ellenőrzési-, nagykereskedelmi piacfelügyeleti eljárást végez,
 
 9. végrehajtja az általános hatályú, közvetlenül alkalmazandó uniós jogi aktusokban, uniós jogi rendelkezésekben, valamint az ACER döntésében meghatározott, a nemzeti szabályozó hatóságra vonatkozó, továbbá e törvény szerint ellátandó feladatokat,
 
@@ -109,3 +111,9 @@
 (7) A Hivatal egyéb feladatai körében ellátja az energiapolitikáért felelős miniszter szabályozási feladatkörébe tartozó forgalmazási követelmények tekintetében eljáró megfelelőségértékelő szervezetek kijelölésével kapcsolatos feladatokat.
 
 (8) A Hivatal a villamosenergia-ellátással, a villamosenergia-ellátás biztonságának és a villamosenergia-piac hatékony működésének felügyeletével, a felhasználók érdekeinek védelmével kapcsolatos feladatai körében, továbbá az energiapolitikai célkitűzések, valamint a fenntartható fejlődés követelményeinek érvényesítésével összefüggő feladatainak a támogatására energetikai szabályozási tesztkörnyezetet működtethet.
+
+(9) A Hivatal a villamosenergia-ellátással, a villamosenergia-ellátás biztonságának és a villamosenergia-piac hatékony működésének felügyeletével, a felhasználók érdekeinek védelmével kapcsolatos feladatai, továbbá az energiapolitikai célkitűzések érvényesítésével összefüggő feladatai körében ellátja
+
+a) a villamosenergia-ágazati kockázatokra való felkészülésről és a 2005/89/EK irányelv hatályon kívül helyezéséről szóló, 2019. június 5-i 2019/941/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 2019/941/EU európai parlamenti és tanácsi rendelet) 4. cikke, 6. cikke, 7. cikk (1) és (2) bekezdése, 10. cikke, 12. cikk (3) bekezdése, 13. cikke, valamint 17. cikke szerinti feladatokat,
+
+b) az (EU) 2019/943 európai parlamenti és tanácsi rendeletnek a határkeresztező villamosenergia-áramlás kiberbiztonsági szempontjaira vonatkozó ágazatspecifikus szabályokról szóló üzemi és kereskedelmi szabályzat létrehozása révén történő kiegészítéséről szóló, 2024. március 11-i (EU) 2024/1366 felhatalmazáson alapuló bizottsági rendelet (a továbbiakban: NCCS) 4. cikk (1) bekezdése szerinti illetékes hatóság feladatait.

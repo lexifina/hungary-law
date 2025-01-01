@@ -8,7 +8,7 @@
 
 a) a gazdaság versenyképességének segítése a hatékonyan működő villamosenergia-versenypiac kialakításán keresztül,
 
-b) a fenntartható fejlődés érdekében az energiahatékonyság, az energiatakarékosság elveinek érvényesítése,
+b) a fenntartható fejlődés érdekében az első az energiahatékonyság és az energiatakarékosság elveinek érvényesítése,
 
 c) a villamosenergia-hálózatokhoz – az objektív, átlátható és az egyenlő bánásmód követelményeinek megfelelő – hozzáférés biztosítása,
 

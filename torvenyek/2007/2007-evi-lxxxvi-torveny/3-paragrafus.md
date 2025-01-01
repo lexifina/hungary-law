@@ -46,7 +46,7 @@
 
 13. Engedélyes: aki e törvény szerint engedélyköteles tevékenység végzésére a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) által kiadott hatályos engedéllyel rendelkezik;
 
-13a. Származási garancia: olyan elektronikus okirat, amely objektív, átlátható és megkülönböztetéstől mentes kritériumok alapján igazolja a felhasználó felé, hogy az elfogyasztott villamos energia megtermeléséhez megújuló vagy nukleáris energiaforrás került felhasználásra, vagy azt, hogy az elfogyasztott villamos energia nagy hatékonyságú kapcsolt energiatermelésből származik;
+13a. Származási garancia: olyan elektronikus tanúsítvány, amely objektív, átlátható és megkülönböztetéstől mentes kritériumok alapján igazolja a felhasználó felé, hogy az elfogyasztott villamos energia megtermeléséhez megújuló vagy nukleáris energiaforrás került felhasználásra, vagy azt, hogy az elfogyasztott villamos energia nagy hatékonyságú kapcsolt energiatermelésből származik;
 
 14. Erőmű: egy telephelyen lévő olyan energia-átalakító létesítmény, amely elsődleges energiaforrás felhasználásával villamos energiát termel;
 
@@ -56,7 +56,7 @@
 
 17. Felhasználó: aki villamos energiát a saját felhasználási helyén történő felhasználás céljából közcélú hálózatról vagy magánvezetéken keresztül nem továbbadás útján vételez;
 
-17a. Aktív felhasználó: olyan felhasználó, aki maga által termelt vagy tárolt villamos energiát a hálózathasználati szerződés szerinti csatlakozási pontján felhasználja vagy tárolja, a közcélú hálózatba betáplálja, magánvezetéken továbbadja vagy megosztja vagy fogyasztásának vagy betáplálásának rugalmasságát felajánlja, úgy, hogy az nem minősül önálló foglalkozása vagy elsődleges gazdasági tevékenysége céljából kifejtett tevékenységnek;
+17a. Aktív felhasználó: olyan felhasználó, aki maga által termelt vagy megosztott villamos energiát a hálózathasználati szerződés szerinti csatlakozási pontján felhasználja vagy tárolja, a közcélú hálózatba betáplálja, magánvezetéken továbbadja vagy megosztja vagy fogyasztásának vagy betáplálásának rugalmasságát felajánlja, úgy, hogy az nem minősül önálló foglalkozása vagy elsődleges gazdasági tevékenysége céljából kifejtett tevékenységnek;
 
 17b. Együttesen tevékenykedő aktív felhasználók: olyan felhasználók, akik közös csatlakozási ponton keresztül csatlakoznak a közcélú hálózatra, és az általuk vagy az együttesen tevékenykedő csoport valamely aktív felhasználó tagja által termelt vagy tárolt villamos energiát a közös csatlakozási ponton felhasználják, a közcélú hálózatra betáplálják, vagy fogyasztásuk vagy betáplálásuk rugalmasságát felajánlják, úgy, hogy az nem minősül önálló foglalkozásuk vagy elsődleges gazdasági tevékenységük céljából kifejtett tevékenységnek;
 
@@ -78,7 +78,23 @@
 
 23. Hasznos hő: a kapcsoltan termelt energia előállítása során valamely, gazdaságilag indokolt hő- vagy hűtési igény kielégítése érdekében megtermelt hő;
 
+23a. Határozott idejű, fix árat tartalmazó villamosenergia-vásárlási szerződés: a villamosenergia-kereskedő és a felhasználó között egy meghatározott időszakra vonatkozóan létrejött olyan villamosenergia-vásárlási szerződés, amelyben a lényeges szerződéses feltételek – az árat is ideértve – a szerződés időtartama alatt a felek által egyoldalúan nem változtathatók, miközben az ár tartalmazhat rugalmas árelemet is, így különösen csúcsidőszaki és völgyidőszaki ártípusokat;
+
 24. Háztartási méretű kiserőmű: olyan, a kisfeszültségű hálózatra csatlakozó kiserőmű, melynek csatlakozási teljesítménye egy csatlakozási ponton nem haladja meg az 50 kVA-t;
+
+24a. Háztartási méretű kiserőmű nem elszámolási célú termelési és üzemeltetési adatai: a háztartási méretű kiserőmű invertere által előállított minden olyan adat, ami nem, vagy nem kizárólag az aktív felhasználóval történő elszámolást szolgálja, így különösen
+
+a) a háztartási méretű kiserőmű termelési teljesítménye (kVA),
+
+b) a háztartási méretű kiserőmű által termelt villamos energia mennyisége (kWh),
+
+c) a termelt villamos energia mennyiségből a felhasználási helyen saját célra felhasznált energia mennyisége (kWh),
+
+d) a feszültség- és áramerősség értékei fázisonként,
+
+e) a teljesítmény tényező, valamint
+
+f) az inverter azonosító adatai;
 
 25. Horizontálisan integrált villamosenergia-ipari vállalkozás: olyan villamosenergia-ipari vállalkozás, amely e törvény rendelkezései szerint engedélyköteles tevékenységek közül legalább egy tevékenység végzésére rendelkezik engedéllyel és más tevékenységet is folytat;
 
@@ -98,7 +114,7 @@
 
 27a. Irányítás: a vállalkozások közötti összefonódások ellenőrzéséről szóló, 2004. január 20-i 139/2004/EK tanácsi rendelet 3. cikk (2) bekezdésében meghatározott kapcsolat;
 
-27b. Kapcsolódási pont: a magán- és a közvetlen vezeték azon pontja, amelyet a vezetéket üzemeltető és a vételező vagy felhasználó közötti szerződésben a felek tulajdoni vagy üzemeltetési határként megjelölnek, továbbá a magánvezeték azon pontja, amelyhez a magánvezetékhez kapcsolódó felhasználói berendezés vagy a termelői vezeték kapcsolódik;
+27b. Kapcsolódási pont: a magán-, termelői és a közvetlen vezeték azon pontja, amelyet a vezetéket üzemeltető és a vételező, erőmű vagy felhasználó közötti szerződésben a felek tulajdoni vagy üzemeltetési határként megjelölnek, továbbá a magánvezeték azon pontja, amelyhez a magánvezetékhez kapcsolódó felhasználói berendezés vagy a termelői vezeték kapcsolódik;
 
 28.
 
@@ -156,7 +172,13 @@ d) a közvilágítás ki- és bekapcsolását, továbbá szabályozását biztos
 
 45b. Megújulóenergia-támogatási rendszer: jogszabállyal létrehozott olyan intézkedés, eszköz, rendszer vagy mechanizmus, amely a megújuló energiaforrásokból előállított energia felhasználására ösztönöz ezen energia költségének csökkentésével, az ezen energiát előállítók bevételének emelésével, vagy a megújuló energiaforrásokból előállított energia megvásárolt mennyiségének – a megújuló energiával kapcsolatos kötelezettség bevezetése révén vagy egyéb módon való – növelésével, ideértve a közvetlenül vagy közvetve nyújtott beruházási és működési támogatásokat, valamint a megújuló energiaforrások alkalmazását elősegítő közvetlen ártámogatásokat, adókedvezményeket, adó-visszatérítéseket, megújuló energiaforrások alkalmazására, annak kötelező átvételére vonatkozó előírásokat is;
 
+45c. Megújulóenergia-adásvételi megállapodás: olyan szerződés, amely alapján egy természetes vagy jogi személy kötelezettséget vállal megújuló energiaforrásból előállított villamos energia vásárlására közvetlenül annak termelőjétől;
+
+45d. Megújuló energiapiaci szereplők közötti adásvétel: megújuló energiaforrásból előállított energia piaci szereplők közötti adásvétele olyan szerződés keretében, mely előre meghatározott feltételekkel szabályozza az ügylet automatizált teljesítését és kiegyenlítését közvetlenül a piaci szereplők között, illetve valamely hitelesített harmadik félen keresztül. A megújuló energiapiaci szereplők közötti kereskedelemhez való jog nem érinti az érintett feleket végső fogyasztóként, termelőként, villamosenergia-kereskedőként vagy aggregátorként megillető jogokat, sem a rájuk e minőségükben háruló kötelezettségeket;
+
 46. Mérlegkör: a kiegyenlítő energia igénybevételének okozathelyes megállapítására és elszámolására és a kapcsolódó feladatok végrehajtására a vonatkozó felelősségi viszonyok szabályozása érdekében létrehozott, egy vagy több tagból álló elszámolási szerveződés;
+
+46a. Almérlegkör: legalább két elszámolási pontból álló elszámolási szerveződés, amely egy mérlegkörön belül működik;
 
 47. Nemzeti Cselekvési Terv: a közlekedésben, a villamosenergia-fogyasztásban, a fűtésben és hűtésben felhasznált, megújuló energiaforrásokból előállított energia 2020-as részarányaira vonatkozó – az energiahatékonysággal kapcsolatos egyéb intézkedéseknek a végső energiafogyasztásra gyakorolt hatásait figyelembe vevő – a Magyarországra érvényes célértékeket, és az e célértékek elérésére alkalmas, foganatosítandó intézkedéseket tartalmazó terv;
 
@@ -182,6 +204,8 @@ d) a közvilágítás ki- és bekapcsolását, továbbá szabályozását biztos
 
 52a. rugalmas árszabást tartalmazó szerződés: a villamosenergia-kereskedő és a felhasználó között létrejött olyan villamosenergia-vásárlási szerződés, amely tükrözi az azonnali piacokon – ideértve a másnapi és a napon belüli piacokat is – jelentkező árváltozást legalább a piaci elszámolás gyakoriságával azonos időközönként;
 
+52b. Rugalmas hálózati csatlakozási szerződés: olyan korlátozott csatlakozási kapacitásról vagy korlátozott üzemeléssel biztosított csatlakozásról szóló megállapodás, amely esetében a rendszerhasználó pénzügyi ellentételezés nélkül vállalja a hálózati csatlakozási szerződésben előre rögzített feltételek szerint betáplálásának, vagy vételezésének korlátozását;
+
 53. Rendszerszintű szolgáltatás: az átviteli rendszerirányító által a villamosenergia-rendszer mindenkori egyensúlyának és az átvitel megfelelő minőségének fenntartása érdekében – különösen a 2019/943/EU rendelet 2. cikk 10. pontja szerinti kiegyenlítő szabályozás és a nem frekvenciavonatkozású kisegítő szolgáltatások útján – biztosított szolgáltatások összessége;
 
 53a. Elosztói rugalmassági szolgáltatás: az elosztóhálózat zavartalan és biztonságos működtetése és üzemvitele folyamatos biztosítása és hatékonyabbá tétele, valamint a villamosenergia-ellátás minőségének fenntartása érdekében az elosztó által piaci alapú eljárások keretében igénybe vett szolgáltatások összessége, ideértve a 2019/943/EU rendelet 2. cikk 26. pontja szerinti teher-újraelosztást és a nem-frekvenciavonatkozású kisegítő szolgáltatásokat, valamint egyéb az elosztó hálózati szűk keresztmetszet kezelésére irányuló szolgáltatásokat és az elosztói üzemirányítást támogató szolgáltatásokat;
@@ -202,19 +226,19 @@ d) a közvilágítás ki- és bekapcsolását, továbbá szabályozását biztos
 
 58. Termelő: aki villamos energiát termel;
 
-58a. Önellátó termelő egység: olyan termelő egység, amelynek csatlakozási teljesítménye meghaladja az 5 MW-ot, közcélú hálózatra felhasználó csatlakozási pontján csatlakozik betáplálási teljesítmény nélkül, és a termelő berendezése által termelt villamos energiát ugyanazon csatlakozási ponton csatlakozó felhasználóval vagy a felhasználóval azonos vállalatcsoportban lévő más felhasználóval vagy vételezővel megosztja;
+58a. Önellátó termelő egység: olyan termelő egység, amelynek csatlakozási teljesítménye meghaladja az 0,5 MW-ot, közcélú hálózatra felhasználó csatlakozási pontján csatlakozik betáplálási teljesítmény nélkül, és a termelő berendezése által termelt villamos energiát ugyanazon csatlakozási ponton csatlakozó felhasználóval vagy más felhasználóval vagy vételezővel megosztja vagy értékesíti;
 
 59. Termelői engedélyes: aki villamos energia termelői működési engedéllyel vagy kiserőművi összevont engedéllyel rendelkezik;
 
 59a. Önellátó termelői engedélyes: aki önellátó termelő egységre vonatkozó engedéllyel rendelkezik;
 
-60. Termelői vezeték: közcélúnak, magán- és közvetlen vezetéknek nem minősülő vezeték, hálózati elem, vagy átalakító- és kapcsolóberendezés, amelyre felhasználó nem csatlakozik vagy vételező nem kapcsolódik, és amely
+60. Termelői vezeték: közcélúnak, magán- és közvetlen vezetéknek nem minősülő, termelői tulajdonban lévő vezeték, hálózati elem, vagy átalakító- és kapcsolóberendezés, amelyre felhasználó nem csatlakozik vagy vételező nem kapcsolódik, és amely
 
-a) az erőmű vagy villamosenergia-tároló által termelt villamos energiát a közcélú hálózat csatlakozási pontjára juttatja el, vagy
+a) az erőmű által termelt vagy villamosenergia-tároló által tárolt villamos energiát a közcélú hálózat csatlakozási pontjára juttatja el, vagy
 
 b) a magánvezetékhez felhasználási helyen kívülről kapcsolódó, a közcélú hálózatra magánvezetéken keresztül csatlakozó erőmű által termelt vagy villamosenergia-tároló által tárolt villamos energiát a magánvezeték kapcsolódási pontjára juttatja el;
 
-61. Továbbadás: a felhasználó által megvásárolt villamos energia egy felhasználási helyen belül, mért magánvezetéken keresztül történő értékesítése vételezők részére;
+61. Továbbadás: a felhasználó által a közcélú hálózaton keresztül megvásárolt villamos energia egy felhasználási helyen belül, mért magánvezetéken keresztül történő értékesítése vételezők részére;
 
 61a. Teljes mértékben integrált villamosenergia-tároló: az átviteli vagy az elosztóhálózatba integrált villamosenergia-tároló, amely használatának célja az átviteli vagy az elosztóhálózat biztonságos és megbízható működésének biztosítása, ide nem értve a kiegyenlítő szabályozást és a szűk keresztmetszet kezelését;
 
@@ -258,7 +282,7 @@ történő értékesítése vagy ellenérték nélküli átadása;
 
 72. Villamosenergia-piac: az energiával, kapacitással, valamint az átviteli vagy elosztó rendszer üzemeltetéséhez szükséges szolgáltatásokkal bármilyen időszakban történő kereskedésre szolgáló platform, a határidős, a másnapi és a napon belüli piacokat, a tőzsdén kívüli piacokat és a szervezett villamosenergia-piacot is ideértve;
 
-74. Külön kezelt intézmény: központi költségvetési szerv, központi költségvetési szerv költségvetési intézménye, helyi önkormányzat, helyi önkormányzat költségvetési intézménye, valamint normatív állami támogatásban részesülő, közfeladatot ellátó, nem nyereség- és vagyonszerzési célt szolgáló egyéb intézmény;
+74.
 
 75. Prémium típusú támogatás: a prémium típusú támogatási rendszer keretében nyújtott ártámogatás;
 

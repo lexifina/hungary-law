@@ -28,7 +28,7 @@ a) a lakossági fogyasztó fizetési kötelezettségével 60 napot meghaladó k�
 
 b) a lakossági fogyasztó által a fizetési haladék adásáról vagy részletfizetési lehetőségről kezdeményezett egyeztetés esetén az egyeztetés a villamosenergia-kereskedővel nem vezetett eredményre, és
 
-c) a villamosenergia-kereskedő a tartozásról és a kikapcsolás lehetőségéről a lakossági fogyasztót legalább kétszer írásban értesítette, és az első értesítésben a lakossági fogyasztó figyelmét felhívta a szociálisan rászoruló fogyasztókat az e törvény és a Vhr. alapján megillető kedvezményekre, valamint az előrefizetős mérő felszerelésének a lehetőségére.
+c) a villamosenergia-kereskedő a tartozásról és a kikapcsolás lehetőségéről a lakossági fogyasztót legalább kétszer írásban értesítette, és az első értesítésben a lakossági fogyasztó figyelmét felhívta a szociálisan rászoruló fogyasztókat az e törvény és a Vhr. alapján megillető kedvezményekre, valamint az előre fizetős mérő felszerelésének a lehetőségére.
 
 (7a) A (7) bekezdés c) pontjában meghatározott esetben a lakossági fogyasztó értesítése írásban történik azzal, hogy a kikapcsolás lehetőségére és az azzal járó szolgáltatásszüneteltetésre vonatkozó második értesítése tértivevényes levélben vagy a lakossági fogyasztó általi átvétel igazolására alkalmas más módon történik.
 

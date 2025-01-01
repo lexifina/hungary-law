@@ -1,6 +1,6 @@
 39/H. § (1) A 39. § (1c) és (1d) bekezdésétől eltérően magánvezetékhez közép- vagy nagyfeszültségű termelői vezetéken a magánvezeték engedélyesének felhasználási helyével nem szomszédos ingatlanon létesített erőmű vagy villamosenergia-tároló is csatlakozhat, ha
 
-a) az erőmű vagy a villamosenergia-tároló beépített teljesítménye legalább 5 MW,
+a) az erőmű vagy a villamosenergia-tároló beépített teljesítménye legalább 0,5 MW,
 
 b) az erőmű vagy a villamosenergia-tároló által termelt vagy tárolt villamos energia miatt a magánvezeték közcélú hálózati csatlakozási pontján a betáplálási teljesítmény nem kerül módosításra, és
 

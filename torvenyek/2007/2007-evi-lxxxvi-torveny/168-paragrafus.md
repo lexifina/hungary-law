@@ -4,7 +4,7 @@
 
 (2) Az ügyintézési határidő
 
-a) korlátozott villamosenergia-kereskedelmi engedélyezési ügyekben 30 nap,
+a)
 
 b) jelentős piaci erő eljárásban 8 hónap,
 
