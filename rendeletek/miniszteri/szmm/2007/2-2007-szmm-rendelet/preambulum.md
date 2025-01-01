@@ -1,1 +1,0 @@
-A munkavédelemről szóló 1993. évi XCIII. törvényben kapott felhatalmazás alapján – az érintett munkáltatói és munkavállalói érdekképviseleti szervezetekkel egyetértésben – a következőket rendeljük el:
