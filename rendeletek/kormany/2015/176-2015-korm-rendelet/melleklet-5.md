@@ -42,7 +42,7 @@ Sikertelen a vizsga, ha a vizsgázó a kihúzott tételen szereplő kérdésekbe
 
 1.2.2. Gyakorlati vizsgatárgyak és vizsgaidők: vezetési gyakorlat (40 perc),
 
-1.2.2.1.[^90] Követelmények:
+1.2.2.1.[^91] Követelmények:
 
 A gyakorlati vizsga keretében, személyszállítási fuvarfeladatot szimulálva a jármű szabályos, biztonságos vezetéséről, a taxi tartozékok szakszerű kezeléséről, valamint a vizsgabiztos által meghatározott úti cél megtalálásából kell számot adnia. A vizsgázónak jelentkezéskor jeleznie kell, hogy mely vármegye vagy a főváros területére szeretne vizsgát tenni. A vizsga a megjelölt vármegye vagy a főváros területén tehető le. A vizsga pontos helyét a közlekedési hatóság jelöli ki, a 3. mellékletben meghatározott feltételeknek megfelelő vizsgajárművet a képzőszerv biztosítja.
 
@@ -144,11 +144,11 @@ b) személyszállító szerződési feltételek, valamint a személyszállító 
 
 A közlekedési, hibaelhárítási és vezetéstechnikai ismeretek, vezetéselmélet vizsgatárgyból 50 tesztkérdésre kell válaszolni, az elérhető maximális pontszám 70. A vizsgázó megfelelt, ha a hibapontok száma 7, vagy annál kevesebb. A személyszállító szerződési feltételek, valamint a személyszállítói szolgáltató tevékenységre vonatkozó hatósági előírások, utas-kommunikáció vizsgatárgyból 25 tesztkérdésre kell válaszolni, az elérhető maximális pontszám 25. A vizsgázó megfelelt, ha a hibapontok száma 5, vagy annál kevesebb.
 
-5.[^91] Amennyiben a személytaxis személyszállító szolgáltatói vizsgával rendelkező személy más vármegyében is szolgáltatást kíván végezni, akkor a következő tárgyakból kell vizsgát tennie:
+5.[^92] Amennyiben a személytaxis személyszállító szolgáltatói vizsgával rendelkező személy más vármegyében is szolgáltatást kíván végezni, akkor a következő tárgyakból kell vizsgát tennie:
 
 5.1. Gyakorlati vizsgatárgyak és vizsgaidők: vezetési gyakorlat (40 perc)
 
-5.1.1.[^92] Követelmények:
+5.1.1.[^93] Követelmények:
 
 A gyakorlati vizsga keretében, személyszállítási fuvarfeladatot szimulálva a jármű szabályos, biztonságos vezetéséről, a taxi tartozékok szakszerű kezeléséről, valamint a vizsgabiztos által meghatározott úti cél megtalálásából kell számot adnia. A vizsgázónak jelentkezéskor jeleznie kell, hogy mely vármegye vagy a főváros területére szeretne vizsgát tenni. A vizsga a megjelölt vármegye vagy a főváros területén tehető le. A vizsga pontos helyét a közlekedési hatóság jelöli ki, a 3. mellékletben meghatározott feltételeknek megfelelő vizsgajárművet a képzőszerv biztosítja.
 
@@ -174,7 +174,7 @@ Sikertelen a vizsga, ha a vizsgázó a kihúzott tételen szereplő kérdésekbe
 
 7.1. Gyakorlati vizsgatárgyak és vizsgaidők: speciális járművezetési és utas-kiszolgálási gyakorlat (40 perc),
 
-7.1.1.[^93] Követelmények:
+7.1.1.[^94] Követelmények:
 
 A gyakorlati vizsga keretében, személyszállítási fuvarfeladatot szimulálva a jármű szabályos, biztonságos vezetéséről, a taxi tartozékok szakszerű kezeléséről, valamint a vizsgabiztos által meghatározott úti cél megtalálásából kell számot adnia. A vizsgázónak jelentkezéskor jeleznie kell, hogy mely vármegye vagy a főváros területére szeretne vizsgát tenni. A vizsga a megjelölt vármegye vagy a főváros területén tehető le. A vizsga pontos helyét a közlekedési hatóság jelöli ki, a 3. mellékletben meghatározott feltételeknek megfelelő vizsgajárművet a képzőszerv biztosítja.
 
@@ -186,7 +186,7 @@ b) tájékozatlanságot mutat a taxi tartozékok kezelését, vagy utas-kiszolg�
 
 c) a vizsgabiztos által meghatározott úti célt nem tudja megtalálni, eltéved.
 
-[^90]: Az 5. melléklet 1.2.2.1. pontja a 394/2022. (X. 19.) Korm. rendelet 25. § e) pontja, a 616/2022. (XII. 29.) Korm. rendelet 215. § b) pontja szerint módosított szöveg.
-[^91]: Az 5. melléklet 5. pont nyitó szövegrésze a 616/2022. (XII. 29.) Korm. rendelet 215. § c) pontja szerint módosított szöveg.
-[^92]: Az 5. melléklet 5.1.1. pontja a 394/2022. (X. 19.) Korm. rendelet 25. § e) pontja, a 616/2022. (XII. 29.) Korm. rendelet 215. § b) pontja szerint módosított szöveg.
-[^93]: Az 5. melléklet 7.1.1. pontja a 394/2022. (X. 19.) Korm. rendelet 25. § e) pontja, a 616/2022. (XII. 29.) Korm. rendelet 215. § b) pontja szerint módosított szöveg.
+[^91]: Az 5. melléklet 1.2.2.1. pontja a 394/2022. (X. 19.) Korm. rendelet 25. § e) pontja, a 616/2022. (XII. 29.) Korm. rendelet 215. § b) pontja szerint módosított szöveg.
+[^92]: Az 5. melléklet 5. pont nyitó szövegrésze a 616/2022. (XII. 29.) Korm. rendelet 215. § c) pontja szerint módosított szöveg.
+[^93]: Az 5. melléklet 5.1.1. pontja a 394/2022. (X. 19.) Korm. rendelet 25. § e) pontja, a 616/2022. (XII. 29.) Korm. rendelet 215. § b) pontja szerint módosított szöveg.
+[^94]: Az 5. melléklet 7.1.1. pontja a 394/2022. (X. 19.) Korm. rendelet 25. § e) pontja, a 616/2022. (XII. 29.) Korm. rendelet 215. § b) pontja szerint módosított szöveg.

@@ -22,7 +22,7 @@ a) diszpécserszolgálati engedéllyel rendelkező vállalkozás a Módr. hatál
 
 b) határozatlan időre szóló diszpécserszolgálati engedély a Módr. hatálybalépésétől számított 5. év december 31-én hatályát veszti, azzal, hogy az engedély a 17. § (1b) bekezdése alapján meghosszabbítható.
 
-(9)[^76] A 3. melléklet 1. pont 1.1.2. alpontjában foglaltaktól eltérően, a 2022. november 3. napján hatályos személytaxi engedélykivonattal rendelkező személygépkocsi életkora nem haladhatja meg a forgalmi engedélybe bejegyzett első nyilvántartásba vétel időpontjától számított 13 évet.
+(9)[^76] A 3. melléklet 1. pont 1.1. alpontjában foglaltaktól eltérően, a (10) bekezdésben meghatározott feltételek fennállása esetén, a 2022. november 3. napján hatályos személytaxi vagy személygépkocsis személyszállító engedélykivonattal rendelkező személygépkocsi életkora nem haladhatja meg a forgalmi engedélybe bejegyzett első nyilvántartásba vétel időpontjától számított 13 évet.
 
 (10)[^77] A (9) bekezdést azon vállalkozás által üzemben tartott azon személygépkocsi tekintetében kell alkalmazni, amely vállalkozás 2022. november 3. napján hatályos tevékenységi engedéllyel, valamint az általa üzemben tartott személygépkocsira kiadott, hatályos engedélykivonattal rendelkezik és a forgalmi engedély alapján 2017. január 1. előtt vették a járművet első alkalommal nyilvántartásba. A (9) bekezdés nem alkalmazható a vállalkozás tevékenységi engedélye vagy a személygépkocsi engedélykivonata időbeli hatályának lejártát követően, kivéve, ha a közlekedési hatóság az adott járművet 2022. november 3. napján üzemben tartó vállalkozás kérelme alapján, az engedélykivonat időbeli hatályát meghosszabbította.
 
@@ -34,11 +34,11 @@ b) határozatlan időre szóló diszpécserszolgálati engedély a Módr. hatál
 
 [^70]: A 26. § (1) bekezdése az 516/2017. (XII. 29.) Korm. rendelet 34. § a) pontja szerint módosított szöveg.
 [^71]: A 26. § (2) bekezdése az 516/2017. (XII. 29.) Korm. rendelet 34. § b) pontja szerint módosított szöveg.
-[^72]: A 26. § (6) bekezdése a 394/2022. (X. 19.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^72]: A 26. § (6) bekezdése a 394/2022. (X. 19.) Korm. rendelet 20. §-ával megállapított szöveg.
 [^73]: A 26. § (7) bekezdését a 481/2020. (XI. 4.) Korm. rendelet 1. §-a iktatta be, szövege a 394/2022. (X. 19.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
 [^74]: A 26. § (8) bekezdését a 431/2022. (X. 28.) Korm. rendelet 1. §-a iktatta be.
 [^75]: A hatálybalépés időpontja 2022. november 3.
-[^76]: A 26. § (9) bekezdését a 431/2022. (X. 28.) Korm. rendelet 1. §-a iktatta be.
+[^76]: A 26. § (9) bekezdését a 431/2022. (X. 28.) Korm. rendelet 1. §-a iktatta be, szövege e módosító rendelet 2. §-ával megállapított szöveg.
 [^77]: A 26. § (10) bekezdését a 431/2022. (X. 28.) Korm. rendelet 1. §-a iktatta be.
 [^78]: A 26. § (11) bekezdését a 431/2022. (X. 28.) Korm. rendelet 1. §-a iktatta be.
 [^79]: A 26. § (12) bekezdését a 431/2022. (X. 28.) Korm. rendelet 1. §-a iktatta be.

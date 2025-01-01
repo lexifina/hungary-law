@@ -4,11 +4,7 @@ A személyszállító szolgáltatáshoz használt személygépkocsira vonatkozó
 
 1. A személyszállító szolgáltatáshoz használt személygépkocsira vonatkozó általános követelmények:
 
-1.1. légszennyezési követelmények:
-
-1.1.1. a személygépkocsis személyszállító szolgáltatáshoz használt személygépkocsi forgalmi engedélybe bejegyzett első nyilvántartásba vétel időpontjától számítva hét naptári évnél több nem telt el vagy a jármű környezetvédelmi osztályba sorolása megfelel a legalább az Euro IV. forgalomba helyezési követelményeknek,
-
-1.1.2. a személytaxi-szolgáltatáshoz használt személygépkocsi forgalmi engedélyébe bejegyzett első nyilvántartásba vétel időpontjától tíz naptári évnél több nem telt el,
+1.1.[^89] a személygépkocsi forgalmi engedélyébe bejegyzett első nyilvántartásba vétel időpontjától tíz naptári évnél több nem telt el,
 
 1.2. a gumiabroncsainak teljes futófelületén a mintázat magassága a három millimétert eléri,
 
@@ -33,3 +29,4 @@ A személyszállító szolgáltatáshoz használt személygépkocsira vonatkozó
 2.3. a személygépkocsi tetején rögzített, TAXI szót tartalmazó taxi szabadjelző, amelynek megvilágítása – eltérő színű vészvillogtatást kivéve – a viteldíjjelző készülék „foglalt” állásában nem működtethető.
 
 [^88]: A 3. melléklet a 394/2022. (X. 19.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^89]: A 3. melléklet 1.1. pontja a 394/2022. (X. 19.) Korm. rendelet 23. §-ával megállapított szöveg.
