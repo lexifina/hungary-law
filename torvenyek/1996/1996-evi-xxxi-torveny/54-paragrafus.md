@@ -1,0 +1,1 @@
+54. § Az egyes iparbiztonsági, tűzvédelmi és hulladékgazdálkodási hatósági eljárások egyszerűsítéséről szóló 2024. évi LXXXIII. törvénnyel (a továbbiakban: 2024. évi LXXXIII. törvény) megállapított 20/A. §-t a 2024. évi LXXXIII. törvény hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.

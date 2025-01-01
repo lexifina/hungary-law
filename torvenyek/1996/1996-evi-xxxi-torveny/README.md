@@ -33,3 +33,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-31-00-00
 | 2023-10-01 | 2022. évi L. törvény | 1996-31-00-00.43 |
 | 2024-01-01 | 2023. évi LXX. törvény | 1996-31-00-00.44 |
 | 2024-10-01 | 2024. évi XXIX. törvény | 1996-31-00-00.45 |
+| 2025-01-01 | 2024. évi LXXXIII. törvény | 1996-31-00-00.48 |
