@@ -1,3 +1,3 @@
-1. melléklet a 62/2024. (XII. 30.) BM rendelethez
+1. melléklet a 62/2024. (XII. 30.) BM rendelethez[^33]
 
-A fegyveres biztonsági őrség Működési és Szolgálati Szabályzatának kiadásáról szóló 27/1998. (VI. 10.) BM rendelet Melléklet 76. §-a a következő (1a) bekezdéssel egészül ki:
+[^33]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

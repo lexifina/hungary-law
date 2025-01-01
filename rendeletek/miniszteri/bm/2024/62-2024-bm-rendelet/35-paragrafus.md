@@ -1,1 +1,3 @@
-35. § Hatályát veszti a belügyminiszter irányítása alatt álló rendvédelmi feladatokat ellátó szerveknél a hivatásos szolgálati beosztásokról és a betöltésükhöz szükséges követelményekről szóló 30/2015. (VI. 16.) BM rendelet 2. melléklet 9.2.5. pontjában az „a Bácsbokodi,” szövegrész.
+35. §[^21]
+
+[^21]: A 35. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

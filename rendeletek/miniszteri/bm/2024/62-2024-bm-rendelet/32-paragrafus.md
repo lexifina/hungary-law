@@ -1,1 +1,3 @@
-32. § A belügyminiszter feladat- és hatáskörét érintően a nemzetbiztonsági ellenőrzés alá eső személyek meghatározásáról szóló 15/2015. (IV. 10.) BM rendelet 1. melléklete a 3. melléklet szerint módosul.
+32. §[^18]
+
+[^18]: A 32. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-38. § A belügyminiszter irányítása alá tartozó rendvédelmi feladatokat ellátó szervek hivatásos állományát érintő személyügyi igazgatás rendjéről szóló 31/2015. (VI. 16.) BM rendelet 68. § (1) bekezdésében a „Hszt. 5–9. mellékletében” szövegrész helyébe a „Hszt.-ben meghatározott kivételekkel a Hszt. 5–9. mellékletében” szöveg lép.
+38. §[^23]
+
+[^23]: A 38. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

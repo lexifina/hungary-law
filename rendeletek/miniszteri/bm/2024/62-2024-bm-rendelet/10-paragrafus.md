@@ -1,9 +1,11 @@
 ## 7. Az Országgyűlési Őrség hivatásos állományát érintő humánigazgatási tárgyú szabályokról szóló 56/2012. (XI. 22.) BM rendelet módosítása
 
-10. § (1)[^5]
+10. § (1) Az Országgyűlési Őrség hivatásos állományát érintő humánigazgatási tárgyú szabályokról szóló 56/2012. (XI. 22.) BM rendelet 11. § (2) és (3) bekezdése helyébe a következő rendelkezések lépnek:
 
-(2) Az Országgyűlési Őrség hivatásos állományát érintő humánigazgatási tárgyú szabályokról szóló 56/2012. (XI. 22.) BM rendelet 11. §-a a következő (7) bekezdéssel egészül ki:
+„(2) A helyettesítéssel megbízottat legkésőbb a megbízás elrendelésekor írásban nyilatkoztatni kell a megbízásba való beleegyezéséről.
 
-„(7) A Hszt. 72. §-a szerinti céljuttatás kifizethetőségét és annak összegét a célfeladat eredményes teljesüléséről szóló munkáltatói igazolás kiállítását követő tizenöt napon belül állományparancsban kell meghatározni.”
+(3) Ha a helyettesítéssel való megbízás az eredeti szolgálati beosztás meghagyása mellett történik, a helyettesítési díj mértékét az elrendeléskor meg kell határozni, és azt a hivatásos állomány helyettesítéssel megbízott tagjával írásban közölni kell.”
 
-[^5]: A 10. § (1) bekezdése az 50. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+(2)[^6]
+
+[^6]: A 10. § (2) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

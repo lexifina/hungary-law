@@ -1,6 +1,3 @@
-## 4.[^2]
+## 4. A Rendőrség szervei illetékességi területének megállapításáról szóló 67/2007. (XII. 28.) IRM rendelet módosítása
 
-6. §[^3]
-
-[^2]: A 4. alcím az 50. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
-[^3]: A 6. § az 50. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+6. § A Rendőrség szervei illetékességi területének megállapításáról szóló 67/2007. (XII. 28.) IRM rendelet 1. melléklete a 2. melléklet szerint módosul.

@@ -1,7 +1,5 @@
-43. § A belügyminiszter irányítása alá tartozó rendvédelmi feladatokat ellátó szervek hivatásos szolgálati viszonyban álló tagjai illetményének és egyéb juttatásainak megállapításáról, valamint a folyósítás szabályairól szóló 33/2015. (VI. 16.) BM rendelet
+## „b) a szolgálati beosztásuk ellátása mellett levelező vagy esti tagozaton tanulók, illetve a felnőttképzésben résztvevők esetében a tanulmányi munkaidő-kedvezmény tartamára járó távolléti díj,”
 
-a) 7. § (2) bekezdésében az „ , e) és k)” szövegrész helyébe az „és e)” szöveg,
+43. §[^26]
 
-b) 10. § (3) bekezdésében a „közalkalmazottat, kormányzati ügykezelőt, vagy kormánytisztviselőt” szövegrész helyébe a „rendvédelmi igazgatási alkalmazottat vagy munkavállalót” szöveg
-
-lép.
+[^26]: A 43. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

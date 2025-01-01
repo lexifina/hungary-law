@@ -1,1 +1,3 @@
-11. § Az Országgyűlési Őrség hivatásos állományát érintő humánigazgatási tárgyú szabályokról szóló 56/2012. (XI. 22.) BM rendelet 37. § (1) bekezdésében a „Hszt. 7–9. mellékletében” szövegrész helyébe a „Hszt.-ben meghatározott kivételekkel a Hszt. 7–9. mellékletében” szöveg lép.
+11. §[^7]
+
+[^7]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

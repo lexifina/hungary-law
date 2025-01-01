@@ -1,3 +1,3 @@
-23. § A Rendőrség nyomozó hatóságainak hatásköréről és illetékességéről szóló 25/2013. (VI. 24.) BM rendelet 10. § (1) bekezdése helyébe a következő rendelkezés lép:
+23. §[^14]
 
-„(1) Ha az 1. § (2) bekezdésében megjelölt valamely nyomozó hatóság – kivéve az ORFK-t és a KR-t – az adott bűncselekmény nyomozására hatáskörrel rendelkező nyomozó hatóságtól a bűncselekmény nyomozását hatáskörébe utaltatja vagy vonja, továbbá a nyomozást a 6–9. §-ban foglalt szabályok alapján kezdi meg, úgy a nyomozás az arra eredetileg hatáskörrel rendelkező nyomozó hatóságnak nem adható vissza. A KR NNI vezetője a nyomozást az arra eredetileg hatáskörrel rendelkező nyomozó hatóságnak a bűnügyi országos rendőrfőkapitány-helyettes engedélyével adhatja vissza.”
+[^14]: A 23. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

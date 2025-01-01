@@ -1,3 +1,1 @@
-39. §[^13]
-
-[^13]: A 39. § az 50. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+39. § Hatályát veszti a belügyminiszter irányítása alá tartozó rendvédelmi feladatokat ellátó szervek hivatásos állományát érintő személyügyi igazgatás rendjéről szóló 31/2015. (VI. 16.) BM rendelet 35. § (6) bekezdésében az „a többletfeladat nagysága,” szövegrész.

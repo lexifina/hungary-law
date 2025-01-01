@@ -1,5 +1,3 @@
-## „e) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.) 62. § (1) bekezdése szerint más szervhez vezényelt hivatásos állomány, a Hszt. 67. §-a szerint az ügyészi szervezethez vezényelt hivatásos állomány, valamint a Hszt. 79/A. §-a szerinti hatósági vezényelt hivatásos állomány,”
-
 ## 23. Záró rendelkezések
 
 50. § (1) Ez a rendelet – a (2)–(4) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.

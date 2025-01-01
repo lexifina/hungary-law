@@ -1,7 +1,7 @@
 12. § Hatályát veszti az Országgyűlési Őrség hivatásos állományát érintő humánigazgatási tárgyú szabályokról szóló 56/2012. (XI. 22.) BM rendelet
 
-a)[^6]
+a) 11. § (5) bekezdésében az „a többletfeladat nagysága,” szövegrész, valamint
 
-b) 46/E. § (3) bekezdése.
+b)[^8]
 
-[^6]: A 12. § a) pontja az 50. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+[^8]: A 12. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
