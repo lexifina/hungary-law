@@ -1,6 +1,6 @@
-## A minősítő eljárás, a védjegyhasználati szerződés, valamint az Értékelő és Minősítő Bizottság
+## A minősítő eljárás, a védjegyhasználati szerződés, valamint a Bizottság[^7]
 
-3. §[^6] (1) Termékcsoportra vonatkozó minősítési feltételek meghatározását – a Szervezethez benyújtott indoklással ellátott javaslattal – bárki kezdeményezheti. A kezdeményezés alapján a Szervezet javaslatot készít az Értékelő és Minősítő Bizottság (a továbbiakban: Bizottság) részére. A Szervezet javaslata alapján a minősítési feltételek kidolgozásáról a Bizottság dönt.
+3. §[^8] (1)[^9] Termékcsoportra vonatkozó minősítési feltételek meghatározását – a Szervezethez benyújtott indoklással ellátott javaslattal – bárki kezdeményezheti. A kezdeményezés alapján a Szervezet javaslatot készít a Bizottság (a továbbiakban: Bizottság) részére. A Szervezet javaslata alapján a minősítési feltételek kidolgozásáról a Bizottság dönt.
 
 (2) A Bizottság döntése alapján a Szervezet szakértők bevonásával az adott termékcsoportra – az Európai Közösségben már elfogadott kritériumok figyelembevételével – kidolgozza a minősítési feltételek tervezetét, valamint biztosítja a szakmai szövetségek számára a véleménynyilvánítás lehetőségét. A Szervezet a javaslatot – a miniszter egyetértésével – a Bizottság elé terjeszti. A Bizottság dönt a minősítési feltételek elfogadásáról.
 
@@ -20,7 +20,7 @@
 
 (10) Amennyiben a minősítési feltételek érvényességi idejét a Bizottság – a (3) bekezdésben foglalt felülvizsgálat során – módosítás nélkül meghosszabbítja, a Szervezet az adott termékcsoportban érvényes védjegyhasználati szerződések új eljárás nélküli meghosszabbítását kezdeményezi a védjegyhasználónál. A szerződés a minősítési feltételek új érvényességi idejéig hosszabbítható meg.
 
-(11)[^7] A Bizottság tagjai:
+(11)[^10] A Bizottság tagjai:
 
 a) a miniszter felkérése alapján
 
@@ -36,7 +36,7 @@ ae) az állami vagyonnal való gazdálkodás szabályozásáért és az állami 
 
 af) a környezetvédelemért felelős miniszter által vezetett minisztérium környezetvédelemért felelős képviselője,
 
-ag)[^8] a fogyasztóvédelemért felelős miniszter által vezetett minisztérium képviselője,
+ag)[^11] a fogyasztóvédelemért felelős miniszter által vezetett minisztérium képviselője,
 
 ah) a Szervezet képviselője,
 
@@ -58,9 +58,11 @@ bg) a környezet- és természetvédő civil szervezetek országos találkozója
 
 (12) A Bizottság az ügyrendjét maga állapítja meg.
 
-(13) A Bizottság külön jogszabály alapján[^9] közreműködik a közösségi öko-címkével kapcsolatos feladatok ellátásában.
+(13) A Bizottság külön jogszabály alapján[^12] közreműködik a közösségi öko-címkével kapcsolatos feladatok ellátásában.
 
-[^6]: A 3. § és az azt megelőző alcím a 9/2004. (V. 25.) KvVM rendelet 3. §-ával megállapított szöveg.
-[^7]: A 3. § (11) bekezdése a 31/2014. (IV. 3.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^8]: A 3. § (11) bekezdés a) pont ag) alpontja a 89/2016. (XII. 29.) FM rendelet 2. § b) pontja szerint módosított szöveg.
-[^9]: A közösségi öko-címke odaítélését ellátó szerv kijelöléséről szóló 83/2003. (VI. 7.) Korm. rendelet.
+[^7]: Az „A minősítő eljárás, a védjegyhasználati szerződés, valamint a Bizottság” alcím címe a 24/2024. (XII. 18.) EM rendelet 2. § a) pontja szerint módosított szöveg.
+[^8]: A 3. § és az azt megelőző alcím a 9/2004. (V. 25.) KvVM rendelet 3. §-ával megállapított szöveg.
+[^9]: A 3. § (1) bekezdése a 24/2024. (XII. 18.) EM rendelet 2. § b) pontja szerint módosított szöveg.
+[^10]: A 3. § (11) bekezdése a 31/2014. (IV. 3.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^11]: A 3. § (11) bekezdés a) pont ag) alpontja a 89/2016. (XII. 29.) FM rendelet 2. § b) pontja szerint módosított szöveg.
+[^12]: A közösségi öko-címke odaítélését ellátó szerv kijelöléséről szóló 83/2003. (VI. 7.) Korm. rendelet.

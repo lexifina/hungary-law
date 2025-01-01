@@ -2,7 +2,7 @@
 
 4. § (1) A Szervezet a minősítő-tanúsító rendszer működtetése érdekében gazdasági tevékenységet folytat.
 
-(2)[^10] Az (1) bekezdésben meghatározott gazdasági tevékenység körében a Szervezet feladata:
+(2)[^13] Az (1) bekezdésben meghatározott gazdasági tevékenység körében a Szervezet feladata:
 
 a) a minősítő-tanúsító rendszer működésének szervezése;
 
@@ -20,24 +20,24 @@ g) a nyertes pályázóval a védjegyhasználati szerződés megkötése;
 
 h) a védjegyhasználatra kötött szerződés teljesítésének ellenőrzése;
 
-i)[^11] a minősítő-tanúsító rendszerrel kapcsolatos információk rendszeres közzététele a környezetvédelemért felelős miniszter által vezetett minisztérium hivatalos lapjában;
+i)[^14] a minősítő-tanúsító rendszerrel kapcsolatos információk rendszeres közzététele a környezetvédelemért felelős miniszter által vezetett minisztérium hivatalos lapjában;
 
 j) nyilvántartás vezetése a védjegyjogosultakról;
 
 k) a környezetbarát termékminősítő rendszerrel kapcsolatos reklám tevékenység szervezése.
 
-(3)[^12] A Szervezet képviselője látja el a Bizottság elnöki feladatait. E minőségében
+(3)[^15] A Szervezet képviselője látja el a Bizottság elnöki feladatait. E minőségében
 
 a) előkészíti a Bizottság számára a javaslatot;
 
 b) szervezi, összehívja és levezeti a Bizottság üléseit.
 
-c)[^13]
+c)[^16]
 
-(4)[^14]
+(4)[^17]
 
-[^10]: A 4. § (2) bekezdése a 9/2004. (V. 25.) KvVM rendelet 4. §-ával megállapított szöveg.
-[^11]: A 4. § (2) bekezdés i) pontja a 89/2016. (XII. 29.) FM rendelet 2. § a) pontja szerint módosított szöveg.
-[^12]: A 4. § (3) bekezdése a 9/2004. (V. 25.) KvVM rendelet 6. §-ának b) pontja szerint módosított szöveg.
-[^13]: A 4. § (3) bekezdésének c) pontját a 9/2004. (V. 25.) KvVM rendelet 6. §-ának a) pontja hatályon kívül helyezte.
-[^14]: A 4. § (4) bekezdését a 9/2004. (V. 25.) KvVM rendelet 6. §-ának a) pontja hatályon kívül helyezte.
+[^13]: A 4. § (2) bekezdése a 9/2004. (V. 25.) KvVM rendelet 4. §-ával megállapított szöveg.
+[^14]: A 4. § (2) bekezdés i) pontja a 89/2016. (XII. 29.) FM rendelet 2. § a) pontja szerint módosított szöveg.
+[^15]: A 4. § (3) bekezdése a 9/2004. (V. 25.) KvVM rendelet 6. §-ának b) pontja szerint módosított szöveg.
+[^16]: A 4. § (3) bekezdésének c) pontját a 9/2004. (V. 25.) KvVM rendelet 6. §-ának a) pontja hatályon kívül helyezte.
+[^17]: A 4. § (4) bekezdését a 9/2004. (V. 25.) KvVM rendelet 6. §-ának a) pontja hatályon kívül helyezte.
