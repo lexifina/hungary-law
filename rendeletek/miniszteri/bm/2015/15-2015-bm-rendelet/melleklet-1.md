@@ -190,17 +190,17 @@ B) Rendvédelmi szervek
 
 3.9. a BM OKF Gazdasági Ellátó Központ osztályvezetői
 
-3.10. a BM OKF-en, valamint a hivatásos katasztrófavédelmi szerv területi és helyi szerveinél a nukleáris baleset-elhárítással kapcsolatos feladatokat, a létfontosságú rendszerelemek védelmével kapcsolatos feladatokat, továbbá a veszélyes katonai objektumokkal kapcsolatos feladatokat ellátó munkakörök
+3.10.[^47] a BM OKF-en, valamint a hivatásos katasztrófavédelmi szerv területi és helyi szerveinél a nukleáris baleset-elhárítással kapcsolatos feladatokat, a kritikus szervezetek és a kritikus infrastruktúrák, valamint az ország védelme és biztonsága szempontjából jelentős szervezetek és az az ország védelme és biztonsága szempontjából jelentős infrastruktúrák védelmével kapcsolatos feladatokat, továbbá a veszélyes katonai objektumokkal kapcsolatos feladatokat ellátó munkakörök
 
-3.11.[^47] a területi védelmi bizottságok titkárai és titkár-helyettesei
+3.11.[^48] a területi védelmi bizottságok titkárai és titkár-helyettesei
 
 3.12. a vezető főügyeletesek és főügyeletesek
 
 3.13. a más önálló belügyi szerv térinformatikai adatait használó térinformatikus
 
-3.14.[^48] a BM OKF-en információbiztonsággal kapcsolatos feladatokat ellátó személyek
+3.14.[^49] a BM OKF-en információbiztonsággal kapcsolatos feladatokat ellátó személyek
 
-4.[^49] Az idegenrendészeti szerv
+4.[^50] Az idegenrendészeti szerv
 
 4.1. a főigazgató és a főigazgató-helyettes
 
@@ -214,7 +214,7 @@ B) Rendvédelmi szervek
 
 4.6. a központi ügyeleten ügyeletes munkakört, szolgálati beosztást betöltő személy
 
-C)[^50] Központi hivatalok
+C)[^51] Központi hivatalok
 
 1. Társadalmi Esélyteremtési Főigazgatóság
 
@@ -230,7 +230,7 @@ C)[^50] Központi hivatalok
 
 1.6. a közbeszerzési és EU pályázati eljárásban részt vevő foglalkoztatottak
 
-2.[^51] Országos Kórházi Főigazgatóság
+2.[^52] Országos Kórházi Főigazgatóság
 
 2.1. a Főigazgatói Hivatal vezetője
 
@@ -242,7 +242,7 @@ C)[^50] Központi hivatalok
 
 2.5. a biztonsági vezető és védelmi referensi feladat ellátását szolgáló álláshely
 
-3.[^52] Oktatási Hivatalnál
+3.[^53] Oktatási Hivatalnál
 
 3.1. a minősített érettségi vizsgadokumentumok kezelését ellátó álláshely
 
@@ -252,7 +252,7 @@ C)[^50] Központi hivatalok
 
 3.4. a biztonságszervezési, védelmi feladatokat ellátó, valamint az elektronikus információs rendszer biztonsági, üzemeltetési és fejlesztési feladatainak ellátását szolgáló álláshely
 
-4.[^53] A Klebelsberg Központnál
+4.[^54] A Klebelsberg Központnál
 
 4.1. az elnöki kabinet valamennyi álláshelye
 
@@ -266,7 +266,7 @@ C)[^50] Központi hivatalok
 
 4.6. a biztonságszervezési, védelmi feladatokat ellátó, valamint az elektronikus információs rendszer biztonsági, üzemeltetési és fejlesztési feladatainak ellátását szolgáló álláshely
 
-5.[^54] A Nemzeti Népegészségügyi és Gyógyszerészeti Központnál
+5.[^55] A Nemzeti Népegészségügyi és Gyógyszerészeti Központnál
 
 5.1. a gyorsreagálási, a humánpolitikai, az igazgatási és a járványügyi feladatokat ellátó szervezeti egység vezetője
 
@@ -278,7 +278,7 @@ C)[^50] Központi hivatalok
 
 5.5. a biztonsági vezető, valamint az elektronikus információs rendszer biztonsági, üzemeltetési és fejlesztési feladatainak ellátását szolgáló álláshely
 
-6.[^55] A Nemzeti Egészségbiztosítási Alapkezelőnél
+6.[^56] A Nemzeti Egészségbiztosítási Alapkezelőnél
 
 6.1. a főosztályvezető
 
@@ -288,13 +288,13 @@ C)[^50] Központi hivatalok
 
 D) Központi államigazgatási szervnek nem minősülő költségvetési szervek
 
-1.[^56]
+1.[^57]
 
-2.[^57] A rendvédelmi technikumok
+2.[^58] A rendvédelmi technikumok
 
 2.1. az igazgató
 
-3.[^58] Nemzeti Szakértői és Kutató Központ
+3.[^59] Nemzeti Szakértői és Kutató Központ
 
 3.1. a főigazgató és a főigazgató-helyettesek
 
@@ -302,15 +302,15 @@ D) Központi államigazgatási szervnek nem minősülő költségvetési szervek
 
 3.3. az osztályvezetők, intézetvezetők
 
-3.4.[^59] közbeszerzési eljárás során a bíráló bizottsági feladatok ellátására kijelölt, továbbá az EU pályázati eljárásban részt vevő munkakörök
+3.4.[^60] közbeszerzési eljárás során a bíráló bizottsági feladatok ellátására kijelölt, továbbá az EU pályázati eljárásban részt vevő munkakörök
 
 3.5. a nemzetbiztonsági ellenőrzéssel kapcsolatos feladatokat ellátó ügyintézői, adminisztratív feladatokat ellátó munkakörök
 
 3.6. elektronikus információs rendszer biztonságáért, üzemeltetéséért és fejlesztéséért felelős munkakörben dolgozók
 
-3.7.[^60] az arcképelemző tevékenységet végző munkakörök
+3.7.[^61] az arcképelemző tevékenységet végző munkakörök
 
-4.[^61] Az Országos Mentőszolgálatnál
+4.[^62] Az Országos Mentőszolgálatnál
 
 4.1. a főigazgató
 
@@ -366,18 +366,19 @@ D) Központi államigazgatási szervnek nem minősülő költségvetési szervek
 [^44]: Az 1. melléklet B) rész 1.8. pontja a 36/2022. (X. 19.) BM rendelet 3. §-ával megállapított szöveg.
 [^45]: Az 1. melléklet B) pont 1.8.1. pontja az 51/2022. (XII. 27.) BM rendelet 3. § a) pontja szerint módosított szöveg.
 [^46]: Az 1. melléklet B) Rendvédelmi szervek 2.4. pontja a 48/2015. (VIII. 31.) BM rendelet 1. §-ával megállapított szöveg.
-[^47]: Az 1. melléklet B) pont 3.11. pontja az 51/2022. (XII. 27.) BM rendelet 3. § b) pontja szerint módosított szöveg.
-[^48]: Az 1. melléklet B) rész 3. pont 3.14. alpontját a 40/2017. (XII. 29.) BM rendelet 10. §-a iktatta be.
-[^49]: Az 1. melléklet B) pont 4. alpontját a 20/2019. (V. 15.) BM rendelet 5. §-a iktatta be.
-[^50]: Az 1. melléklet C) része a 40/2019. (XI. 19.) BM rendelet 3. §-ával megállapított szöveg.
-[^51]: Az 1. melléklet C) rész 2. pontját újonnan a 36/2022. (X. 19.) BM rendelet 3. §-a iktatta be.
-[^52]: Az 1. melléklet C) rész 3. pontját a 36/2022. (X. 19.) BM rendelet 3. §-a iktatta be.
-[^53]: Az 1. melléklet C) rész 4. pontját a 36/2022. (X. 19.) BM rendelet 3. §-a iktatta be.
-[^54]: Az 1. melléklet C) rész 5. pontját a 36/2022. (X. 19.) BM rendelet 3. §-a iktatta be, szövege a 28/2023. (VIII. 10.) BM rendelet 73. §-ával megállapított szöveg.
-[^55]: Az 1. melléklet C) rész 6. pontját a 36/2022. (X. 19.) BM rendelet 3. §-a iktatta be.
-[^56]: Az 1. melléklet D) pont 1. alpontját a 48/2024. (IX. 30.) BM rendelet 1. § b) pontja hatályon kívül helyezte.
-[^57]: Az 1. melléklet d) pont 2. alpontja a 18/2020. (VI. 30.) BM rendelet 9. §-a szerint módosított szöveg.
-[^58]: Az 1. melléklet D) rész 3. pontját a 37/2016. (IX. 1.) BM rendelet 15. §-a hatályon kívül helyezte, újonnan az 58/2016. (XII. 22.) BM rendelet 49. §-a iktatta be.
-[^59]: Az 1. melléklet D) rész 3. pont 3.4. alpontja a 31/2019. (VII. 30.) BM rendelet 2. §-ával megállapított szöveg.
-[^60]: Az 1. melléklet D) rész 3. pont 3.7. alpontja a 31/2019. (VII. 30.) BM rendelet 2. §-a szerint módosított szöveg.
-[^61]: Az 1. melléklet D) rész 4. pontját a 37/2016. (IX. 1.) BM rendelet 15. §-a hatályon kívül helyezte, újonnan a 36/2022. (X. 19.) BM rendelet 3. §-a iktatta be.
+[^47]: Az 1. melléklet B) pont 3.10. alpontja az 59/2024. (XII. 23.) BM rendelet 15. §-a szerint módosított szöveg.
+[^48]: Az 1. melléklet B) pont 3.11. pontja az 51/2022. (XII. 27.) BM rendelet 3. § b) pontja szerint módosított szöveg.
+[^49]: Az 1. melléklet B) rész 3. pont 3.14. alpontját a 40/2017. (XII. 29.) BM rendelet 10. §-a iktatta be.
+[^50]: Az 1. melléklet B) pont 4. alpontját a 20/2019. (V. 15.) BM rendelet 5. §-a iktatta be.
+[^51]: Az 1. melléklet C) része a 40/2019. (XI. 19.) BM rendelet 3. §-ával megállapított szöveg.
+[^52]: Az 1. melléklet C) rész 2. pontját újonnan a 36/2022. (X. 19.) BM rendelet 3. §-a iktatta be.
+[^53]: Az 1. melléklet C) rész 3. pontját a 36/2022. (X. 19.) BM rendelet 3. §-a iktatta be.
+[^54]: Az 1. melléklet C) rész 4. pontját a 36/2022. (X. 19.) BM rendelet 3. §-a iktatta be.
+[^55]: Az 1. melléklet C) rész 5. pontját a 36/2022. (X. 19.) BM rendelet 3. §-a iktatta be, szövege a 28/2023. (VIII. 10.) BM rendelet 73. §-ával megállapított szöveg.
+[^56]: Az 1. melléklet C) rész 6. pontját a 36/2022. (X. 19.) BM rendelet 3. §-a iktatta be.
+[^57]: Az 1. melléklet D) pont 1. alpontját a 48/2024. (IX. 30.) BM rendelet 1. § b) pontja hatályon kívül helyezte.
+[^58]: Az 1. melléklet d) pont 2. alpontja a 18/2020. (VI. 30.) BM rendelet 9. §-a szerint módosított szöveg.
+[^59]: Az 1. melléklet D) rész 3. pontját a 37/2016. (IX. 1.) BM rendelet 15. §-a hatályon kívül helyezte, újonnan az 58/2016. (XII. 22.) BM rendelet 49. §-a iktatta be.
+[^60]: Az 1. melléklet D) rész 3. pont 3.4. alpontja a 31/2019. (VII. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^61]: Az 1. melléklet D) rész 3. pont 3.7. alpontja a 31/2019. (VII. 30.) BM rendelet 2. §-a szerint módosított szöveg.
+[^62]: Az 1. melléklet D) rész 4. pontját a 37/2016. (IX. 1.) BM rendelet 15. §-a hatályon kívül helyezte, újonnan a 36/2022. (X. 19.) BM rendelet 3. §-a iktatta be.
