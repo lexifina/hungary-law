@@ -1,5 +1,3 @@
-## a kötelező szakmai továbbképzésben közreműködő szervezet részére az Éves Továbbképzési Tájékoztatóban közzétett központi költségvetési támogatás összegét utólag megfizeti.
-
 14. § (1) Az ÁBPE-továbbképzés I. – belső ellenőrök részére képzéshez vizsga kapcsolódik. Az ÁBPE-továbbképzés I. – belső ellenőrök részére képzés programzáró vizsgájára az bocsátható, aki a képzés tananyagát teljes terjedelmében feldolgozta. A képzés tananyaga akkor tekinthető teljes terjedelmében feldolgozottnak, ha a továbbképzésre kötelezett
 
 a) kontakt képzés esetén részt vett a képzéshez kapcsolódó előadások óráin és aláírta a jelenléti ívet,
@@ -20,4 +18,6 @@ b) – e-learning képzési forma esetében – a programzáró önellenőrző t
 
 c) – tréning képzési forma esetében – a képzésen való részvétel.
 
-(6) A 17. § (5) bekezdésében meghatározott más képző intézmény által szervezett képzésen való részvételt a továbbképzésre kötelezett belső ellenőr közvetlenül a miniszter felé igazolja a részvételt igazoló dokumentum megküldésével.
+(6)[^28] A 17. § (5) bekezdésében meghatározott más képző intézmény által szervezett képzésen való részvételt a továbbképzésre kötelezett belső ellenőr közvetlenül a miniszter felé igazolja a részvételt igazoló tanúsítvány megküldésével.
+
+[^28]: A 14. § (6) bekezdése a 7/2024. (XII. 31.) PM rendelet 12. § 14. pontja szerint módosított szöveg.

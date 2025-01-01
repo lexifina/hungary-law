@@ -8,7 +8,7 @@ b) a kérelemre történő törlési eljárás díja 4600 forint,
 
 c) a bejegyzett adatok módosítására irányuló bejelentés eljárása díjmentes.
 
-(2) Az (1) bekezdés szerinti díjakat a 10032000-01460658-00000000 számú, Pénzügyminisztérium, Budapest elnevezésű számlára kell befizetni.
+(2)[^19] Az (1) bekezdés szerinti díjakat átutalással, postai készpénz átutalási megbízással vagy az egyes iForm űrlapokhoz társított elektronikus fizetési és elszámolási rendszeren (EFER) keresztül kell befizetni.
 
 (3) Az (1) bekezdés szerinti díj a Pénzügyminisztérium működési bevétele.
 
@@ -20,6 +20,7 @@ c) a bejegyzett adatok módosítására irányuló bejelentés eljárása díjme
 
 (7) A díjfizetés vonatkozásában az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: Itv.) 28. § (2) és (3) bekezdésében foglaltakat, valamint az Itv. 73/A. §-ában foglaltakat, a mulasztási bírságra az Itv. 82. §-ában foglaltakat kell alkalmazni azzal az eltéréssel, hogy az ott nevesített illeték helyett díj értendő.
 
-(8)[^3] A 4. § (3) bekezdése szerinti kérelemre induló eljárásban a munkáltatót vagy a megbízót az (1) bekezdés b) pontja szerinti díjfizetési kötelezettség nem terheli.
+(8)[^20] A 4. § (3) bekezdése szerinti kérelemre induló eljárásban a munkáltatót vagy a megbízót az (1) bekezdés b) pontja szerinti díjfizetési kötelezettség nem terheli.
 
-[^3]: Az 5. § (8) bekezdését a 20/2021. (XII. 28.) PM rendelet 2. §-a iktatta be.
+[^19]: Az 5. § (2) bekezdése a 7/2024. (XII. 31.) PM rendelet 7. §-ával megállapított szöveg.
+[^20]: Az 5. § (8) bekezdését a 20/2021. (XII. 28.) PM rendelet 2. §-a iktatta be.
