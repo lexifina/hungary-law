@@ -1,3 +1,3 @@
-1. melléklet a 85/2012. (XII. 28.) BM rendelethez[^147]
+1. melléklet a 85/2012. (XII. 28.) BM rendelethez[^149]
 
-[^147]: Az 1. mellékletet a 35/2015. (VI. 16.) BM rendelet 9. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^149]: Az 1. mellékletet a 35/2015. (VI. 16.) BM rendelet 9. § (1) bekezdés b) pontja hatályon kívül helyezte.
