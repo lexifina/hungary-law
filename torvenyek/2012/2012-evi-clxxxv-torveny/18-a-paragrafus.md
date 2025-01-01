@@ -2,6 +2,6 @@
 
 (2) A koncesszor, a koncessziós társaság vagy a koncesszori alvállalkozó kérésére a hulladékgazdálkodási hatóság az érintett (1) bekezdés szerinti B3 alkategóriájú hulladéklerakó vagy a hulladékégető mű szabad kapacitásáról tájékoztatást ad.
 
-(3) Ha az üzemeltető a szabad kapacitás ellenére az (1) bekezdés szerinti B3 alkategóriájú lerakóban vagy a hulladékégető műben kezelhető hulladék átvételét legkésőbb az 53/H. § (1) bekezdésében meghatározott időpontot megelőző egy hónappal szerződés megkötésével nem teszi lehetővé, a koncesszor, a koncessziós társaság vagy a koncesszori alvállalkozó kérelmére a hulladékgazdálkodási hatóság kötelezi arra az üzemeltetőt.
+(3) Ha az üzemeltető a szabad kapacitás ellenére az (1) bekezdés szerinti B3 alkategóriájú lerakóban vagy a hulladékégető műben kezelhető hulladék átvételét szerződés megkötésével nem teszi lehetővé, a koncesszor, a koncessziós társaság vagy a koncesszori alvállalkozó kérelmére a hulladékgazdálkodási hatóság kötelezi arra az üzemeltetőt.
 
 (4)

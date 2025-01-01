@@ -12,9 +12,11 @@
 
 a) legalább
 
-aa) a települési papír-, üveg-, műanyag, fém- és zöldhulladék, és
+aa) a települési papír-, üveg-, műanyag, fém- és zöldhulladék,
 
-ab) a háztartásokban képződő biohulladék
+ab) a háztartásokban képződő biohulladék, és
+
+ac) a háztartásokban képződő veszélyes hulladék és a textilhulladék
 
 elkülönített gyűjtése biztosított legyen;
 

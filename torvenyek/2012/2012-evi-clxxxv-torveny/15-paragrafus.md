@@ -6,6 +6,14 @@
 
 (2) Hasznosítási művelet – ha törvény vagy kormányrendelet eltérően nem rendelkezik, valamint ha törvény vagy kormányrendelet az engedély kiadását más hatóság hatáskörébe nem utalja – a hulladékgazdálkodási hatóság által kiadott hulladékgazdálkodási engedéllyel végezhető.
 
+(2a) A hulladékgazdálkodási hatóság nyilvántartásba vételével végezhető
+
+a) környezetvédelmi célú oktatási-nevelési tevékenység körében arra alkalmas nem veszélyes hulladékból használati tárgyak, ajándéktárgyak készítése,
+
+b) arra alkalmas hulladék művészeti célú felhasználása, amennyiben a műalkotás a közönség számára szervezett rendezvény keretében ténylegesen bemutatásra kerül,
+
+ha a tevékenység nem veszélyezteti a környezetet, és az emberi egészséget, valamint a felhasznált nem veszélyes hulladék mennyisége nem haladja meg az évi egy tonnát.
+
 (3) Ha a hasznosítási művelet elvégzéséhez a hulladék más hulladékkal vagy eltérő tulajdonságokkal rendelkező más anyagokkal való összekeverése szükséges, a hulladékkezelő a hasznosítandó hulladékot csak abban az esetben keverheti össze más hulladékkal vagy eltérő tulajdonságokkal rendelkező más anyagokkal, ha az összességében legjobb környezeti eredmény másképp nem biztosítható. Ilyen művelet csak kezelésre vonatkozó hulladékgazdálkodási engedéllyel végezhető.
 
 (3a) A 12. § (4) bekezdése szerint elkülönítetten gyűjtött hulladék nem égethető el, kivéve, ha a hulladékhierarchiára figyelemmel ez biztosítja a legjobb környezeti eredményt.

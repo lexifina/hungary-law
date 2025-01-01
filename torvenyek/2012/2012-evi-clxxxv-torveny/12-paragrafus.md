@@ -6,7 +6,7 @@
 
 12. § (1) A hulladéktermelő az ingatlanon képződött hulladék gyűjtését az ingatlan területén hulladékgazdálkodási engedély nélkül legfeljebb 1 évig végezheti.
 
-(1a) Természetes személy tulajdonában vagy használatában álló ingatlanon legfeljebb 3 m3, egyértelműen az ingatlanon képződő, a hulladékgazdálkodási közszolgáltatási résztevékenység körébe nem tartozó és nem építési-bontási hulladék, valamint legfeljebb 10 m3, egyértelműen az ingatlanon képződő építési-bontási hulladék gyűjthető.
+(1a) Természetes személy tulajdonában vagy használatában álló ingatlanon legfeljebb 3 m3, a vízgazdálkodásról szóló 1995. évi LVII. törvény 1. melléklet 1. pontjában meghatározott ártér (a továbbiakban: ártér) területén álló ingatlanon legfeljebb 1 m3, egyértelműen az ingatlanon képződő, a hulladékgazdálkodási közszolgáltatási résztevékenység körébe nem tartozó és nem építési-bontási hulladék, valamint legfeljebb 10 m3, ártér területén legfeljebb 3 m3, egyértelműen az ingatlanon képződő építési-bontási hulladék gyűjthető.
 
 (1b) Az (1a) bekezdésben foglalt rendelkezések megsértése miatt indult hulladékgazdálkodási hatósági eljárásban az ügyintézési határidő kilencven nap.
 

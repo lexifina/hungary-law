@@ -134,7 +134,7 @@ e) nem kell lefolytatni vízjogi vagy vízvédelmi hatósági (engedélyezési) 
 
 38b. kritikus fontosságú nyersanyag: a biztonságos, fenntartható és megfizethető ellátás biztosítása és az újrafeldolgozása elősegítése céljából, a gazdasági jelentőség és az ellátási kockázat szempontjából stratégiai jelentőségű, az Európai Unió által a kritikus fontosságú nyersanyagok rendszeresen felülvizsgált jegyzékéről szóló bizottsági közleményben meghatározott nyersanyag;
 
-39. lomhulladék: az ingatlanhasználótól a hulladékgazdálkodási közszolgáltatási résztevékenységet ellátó koncessziós társaság által a lomtalanítás során átvett olyan háztartási hulladék, amely a közszolgáltatási résztevékenység keretében rendszeresített gyűjtőedény méreteit meghaladja;
+39. lomhulladék: az ingatlanhasználótól a koncessziós társaság által a lomtalanítás során átvett olyan háztartási, vagy háztartási hulladékhoz hasonló hulladék, amely a közszolgáltatási résztevékenység keretében rendszeresített, vegyes települési hulladék gyűjtésére szolgáló gyűjtőedény méreteit meghaladja;
 
 40. megelőzés: az anyag vagy termék hulladékká válását megelőzően hozott olyan intézkedés, amely csökkenti
 

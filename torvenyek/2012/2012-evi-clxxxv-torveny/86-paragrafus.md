@@ -12,7 +12,13 @@ d) terméket a hulladékképződés megelőzésével kapcsolatos jogszabály, k�
 
 a hulladékgazdálkodási hatóság az e törvény végrehajtására kiadott kormányrendelet szerint hulladékgazdálkodási bírság megfizetésére kötelezi.
 
-(2) Az (1) bekezdés szerinti jogsértést elkövető – a tízezer forintot el nem érő hulladékgazdálkodási bírság kiszabása helyett az elhagyott hulladék felszámolása mellett – a hulladékgazdálkodási hatóság által szervezett hulladékgazdálkodással összefüggő képzésen (a továbbiakban: hulladékgazdálkodási képzés) való részvételre kötelezhető.
+(2) Az (1) bekezdés szerinti jogsértést elkövető – a tízezer forintot el nem érő hulladékgazdálkodási bírság esetén –
+
+a) jogsértés első alkalommal történő elkövetése esetén a bírság kiszabása helyett az elhagyott hulladék felszámolása mellett a hulladékgazdálkodási hatóság által szervezett hulladékgazdálkodással összefüggő képzésen (a továbbiakban: hulladékgazdálkodási képzés) való részvételre, vagy
+
+b) jogsértés ismételten történő elkövetése esetén az elhagyott hulladék felszámolása mellett tízezer forint hulladékgazdálkodási bírság megfizetésére
+
+kötelezhető.
 
 (3) Az (1) bekezdés szerinti jogsértést elkövető a tízezer forintot elérő vagy azt meghaladó bírság esetén e törvény végrehajtására kiadott miniszteri rendeletben meghatározott hulladékgazdálkodási képzésen való részvételre kötelezhető.
 
@@ -74,7 +80,7 @@ k) az élelmiszer-rendész
 
 (16) A hulladék mennyiségének meghatározása különösen méréssel, számítással, valamint műszaki becsléssel történhet.
 
-(17) A hulladékgazdálkodási bírság megfizetésére a területi hulladékgazdálkodási hatóság a végrehajtás elrendelése előtt – kérelemre – legfeljebb 3 évig terjedő részletfizetést engedélyezhet.
+(17) A hulladékgazdálkodási bírság megfizetésére a területi hulladékgazdálkodási hatóság a végrehajtás elrendelése előtt – kérelemre – legfeljebb 3 évig terjedő részletfizetést engedélyezhet. A részletfizetés engedélyezése esetén a kiszabott bírság (4) bekezdés szerinti mérséklésének nincs helye.
 
 (18) Az e törvény szerinti helyszíni bírság kiszabására jogosult hatóság a hulladékgazdálkodási bírság, valamint a helyszíni bírság mértékéről, kiszabásának és megállapításának módjáról kormányrendeletben meghatározott feladata ellátása érdekében intézkedése során a (19) bekezdés e) pontjában meghatározott személyes adatokat kezeli.
 

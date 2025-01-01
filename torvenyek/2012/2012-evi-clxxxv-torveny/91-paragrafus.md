@@ -22,7 +22,7 @@ b) ha a települési önkormányzati rendelet díjat nem állapított meg, akkor
 
 (5a) A hulladékgazdálkodási közszolgáltatási résztevékenységet ellátó koncessziós társaság a kibocsátott számlán köteles jól láthatóan, színes mezőben kiemelve feltüntetni a rezsicsökkentés eredményeképpen jelentkező megtakarítás összegét az elszámolt időszak vonatkozásában, valamint a 2013. július 1-je óta eltelt időszakban. A hulladékgazdálkodási közszolgáltatási résztevékenységet ellátó koncessziós társaság személyében bekövetkező változás esetében a korábbi hulladékgazdálkodási közszolgáltatási résztevékenységet ellátó koncessziós társaság rezsicsökkentéssel kapcsolatos adatait továbbítani kell az új hulladékgazdálkodási közszolgáltatási résztevékenységet ellátó koncessziós társaság részére.
 
-(5b) Az (5) bekezdésben foglalt rendelkezés a fogyasztóvédelemről szóló törvény alkalmazásában fogyasztóvédelmi rendelkezés.
+(5b) A (2a), (5) és (5a) bekezdésben foglalt rendelkezés a fogyasztóvédelemről szóló törvény alkalmazásában fogyasztóvédelmi rendelkezés.
 
 (6) E § vonatkozásában a költségvetési szervre és a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény szerinti ápolást, gondozást nyújtó intézményre a természetes személy ingatlanhasználóra irányadó szabályokat kell alkalmazni.
 

@@ -16,7 +16,7 @@ b) a hulladéklerakóban elhelyezett hulladék mennyiségére, jellegére és t�
 
 vonatkozó adatokat.
 
-(6) A járulékfizetésre kötelezett a bejelentésen és a hulladéklerakási járulék befizetésén túlmenően az (5) bekezdésben meghatározott tartalommal a hulladékgazdálkodási hatóság részére negyedévente, a tárgynegyedévet követő hónap 20. napjáig adatot szolgáltat (ezen alcím alkalmazásában a továbbiakban: adatszolgáltatás). Az adatokat igazoló dokumentumokhoz csatolja a járulék megfizetését igazoló okiratok másolatát.
+(6) A járulékfizetésre kötelezett a bejelentésen és a hulladéklerakási járulék befizetésén túlmenően az (5) bekezdésben meghatározott tartalommal a hulladékgazdálkodási hatóság részére negyedévente, a tárgynegyedévet követő hónap 20. napjáig adatot szolgáltat (ezen alcím alkalmazásában a továbbiakban: adatszolgáltatás).
 
 (7)
 

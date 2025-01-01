@@ -70,7 +70,7 @@ c) a jogi személy, jogi személyiséggel nem rendelkező szervezet elkövető n
 
 d) annak a költségvetési évnek a megjelölését, amely esetében a kiemelt hulladékjogi szabályszegés ténye megállapításra került,
 
-e) a d) pontban foglalt bírság vonatkozásában
+e) a d) pontban foglalt, költségvetési évben kiszabott bírság vonatkozásában
 
 ea) a bírságot kiszabó hatóság megnevezését,
 
@@ -92,4 +92,4 @@ ei)
 
 (10a) A nyilvántartás (10) bekezdés c) és e) pontjában meghatározott adata a jogi személy és a jogi személyiséggel nem rendelkező szervezet esetében nyilvánosan hozzáférhető.
 
-(11) A nyilvántartás archív állományában lévő adatokat az archív állományba kerüléstől számított öt év elteltével a hatóság törli a nyilvántartásból.
+(11)

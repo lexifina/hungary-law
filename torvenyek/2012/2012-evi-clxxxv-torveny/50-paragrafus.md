@@ -20,9 +20,9 @@ b) a B3 alkategóriájú hulladéklerakó, valamint a 18/A. § (1) bekezdése sz
 
 szerinti felosztást tartalmazza.
 
-(4) A kötelezett a (3) bekezdés szerinti tevékenységeket éves beszámolója kiegészítő mellékletében oly módon mutatja be, mintha azokat önálló vállalkozás keretében végezte volna. A tevékenység elkülönült bemutatása legalább önálló mérleget és eredménykimutatást jelent.
+(4) A kötelezett az Szt. szerinti beszámolási kötelezettsége teljesítése során kiegészítő melléklet készítésére köteles, amelyben a (3) bekezdés szerinti tevékenységeket oly módon mutatja be, mintha azokat önálló vállalkozás keretében végezte volna. A tevékenységek elkülönült bemutatása legalább önálló mérlegeket és eredménykimutatásokat jelent.
 
-(5) A kötelezett az auditált éves beszámolóját a tárgyévre készített üzleti jelentéssel és a könyvvizsgálói jelentéssel együtt az Szt. szerinti letétbe helyezéssel egyidejűleg megküldi a Hivatalnak.
+(5) Az Szt. szerint könyvvizsgálatra kötelezett a számviteli beszámolóját a könyvvizsgálói jelentéssel együtt, továbbá éves beszámoló esetén a tárgyévre készített üzleti jelentéssel együtt az Szt. szerinti letétbe helyezéssel egyidejűleg megküldi a Hivatalnak.
 
 (6) A kötelezett a Hivatal számára biztosítja, hogy a Hivatal a kötelezett (3) bekezdés szerinti tevékenységével kapcsolatos pénzügyi-számviteli kimutatásaiba, valamint az azokhoz kapcsolódó bizonylatokba betekinthessen és az azokkal összefüggő információkat – ideértve az üzleti titkot is – megismerhesse.
 

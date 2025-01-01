@@ -4,7 +4,7 @@ a) az ingatlanhasználók által a hulladékgazdálkodási közszolgáltatási r
 
 b) – ha e törvény felhatalmazása alapján jogszabály eltérően nem rendelkezik – a vegyes hulladék összegyűjtéséről és elszállításáról hetente legalább egy alkalommal gondoskodik,
 
-c) a lomtalanítás körébe tartozó lomhulladékot az ingatlanhasználóktól összegyűjti, átveszi és elszállítja,
+c) a lomtalanítás körébe tartozó lomhulladékot összegyűjti, átveszi és elszállítja,
 
 d) az általa üzemeltetett hulladékgyűjtő ponton, hulladékgyűjtő udvaron gyűjtött vagy átvételi helyen átvett hulladékot összegyűjti és elszállítja,
 

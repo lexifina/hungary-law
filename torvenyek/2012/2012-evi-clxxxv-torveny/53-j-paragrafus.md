@@ -4,4 +4,4 @@
 
 (3) A miniszter a benyújtott beszámolóval vagy tájékoztatóval összefüggésben további felvilágosítást és adatszolgáltatást kérhet a koncessziós társaságtól.
 
-(4) Az (1)–(3) bekezdésben meghatározott, a koncessziós társaságra vonatkozó kötelezettségek kiterjednek a koncesszorra és a koncesszori alvállalkozóra is.
+(4) Az (1)–(3) bekezdésben meghatározott, a koncessziós társaságra vonatkozó kötelezettségek teljesítésében való együttműködési kötelezettség kiterjed a koncesszorra és a koncesszori alvállalkozóra is.

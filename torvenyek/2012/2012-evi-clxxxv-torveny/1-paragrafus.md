@@ -42,4 +42,4 @@ f) a fekáliára – ha arra a (2) bekezdés c) pontja nem terjed ki –, a szal
 
 g) a vizek és vízi utak kezelése, árvízmentesítés, vízkárelhárítás vagy talajfeltöltés (a talaj minőségének javítása) céljából a felszíni vizekben áthelyezett azon üledékre és mederiszapra, amely az 1. mellékletben meghatározott veszélyességi jellemzők egyikével sem rendelkezik.
 
-(4) E törvény rendelkezéseit a különleges gazdasági övezetről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2020. évi LIX. törvényben foglalt eltérésekkel kell alkalmazni.
+(4)

@@ -6,7 +6,7 @@
 
 (3) A hulladékgazdálkodási közszolgáltatás 2023. június 30. napjáig történő igénybevételéért az ingatlanhasználót terhelő díjhátralék és az azzal összefüggésben megállapított késedelmi kamat, valamint a behajtás egyéb költségeinek végrehajtására az e törvénynek az egyes energetikai és közlekedési tárgyú, valamint kapcsolódó törvények módosításáról szóló 2021. évi CXXXVI. törvénnyel hatályon kívül helyezett 52. §-ában foglaltakat kell alkalmazni.
 
-(4)
+(4) E törvénynek az egyes energetikai törvények módosításáról szóló 2024. évi LXXXIX. törvénnyel megállapított 70. § (1a) bekezdését az e rendelkezés hatálybalépésekor már megkötött koncessziós szerződésre is alkalmazni kell.
 
 (5)
 

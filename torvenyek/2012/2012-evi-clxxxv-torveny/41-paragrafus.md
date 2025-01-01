@@ -10,4 +10,4 @@
 
 (3a)
 
-(4) A hulladékgazdálkodási közszolgáltatási résztevékenység végzésére jogosult koncessziós társaság külön kormányrendeletben meghatározott összegben környezetvédelmi biztosítást köt vagy céltartalékot képez, és ennek tényét a hulladékgazdálkodási hatóságnak igazolja.
+(4) A hulladékgazdálkodási közszolgáltatási résztevékenység végzésére jogosult koncessziós társaság külön kormányrendeletben meghatározott összegben környezetvédelmi biztosítást köt, és ennek tényét a hulladékgazdálkodási hatóságnak igazolja.

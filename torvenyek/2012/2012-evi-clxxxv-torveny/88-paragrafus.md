@@ -16,7 +16,7 @@
 
 6. az Országos Hulladékgazdálkodási Terv és az Országos Megelőzési Program előkészítésének részletes szabályait, továbbá tartalmi követelményeit és az Országos Hulladékgazdálkodási Tervet és az Országos Megelőzési Programot;
 
-7. a hulladékgazdálkodási bírság mértékét, megállapításának szempontrendszerét, a helyszíni bírság kiszabásának és a bírság megfizetése módjának részletes szabályait;
+7. a hulladékgazdálkodási bírság és a helyszíni bírság mértékét, megállapításának szempontrendszerét, kiszabásának részletes szabályait, valamint a tevékenység végzésétől történő eltiltás, az elkobzás megállapításainak szempontrendszerét és alkalmazásának részletes szabályait;
 
 8. a hulladék külföldről történő behozatalát, az országból történő kivitelét és az ország területén történő átszállítását;
 
@@ -178,7 +178,7 @@ rendeletben állapítsa meg.
 
 (4) Felhatalmazást kap a települési önkormányzat képviselő-testülete, hogy rendeletben állapítsa meg:
 
-a)
+a) az elhagyott hulladék felszámolásához szükséges helyi intézkedések körét;
 
 b)
 

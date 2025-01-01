@@ -20,7 +20,7 @@ a) ha a hulladékgazdálkodási tevékenységet engedély vagy nyilvántartásba
 
 b) ha a hulladékkal kapcsolatos tájékoztatási, nyilvántartási, adatszolgáltatási vagy bejelentési kötelezettséget egymást követő két naptári évben is megsértik,
 
-c) hulladék jogellenes elhelyezése, illetve elhagyása esetén, vagy
+c) hulladék jogellenes elhelyezése, illetve elhagyása esetén – a 86. § (2) bekezdésben meghatározottakat kivéve –, vagy
 
 d) a hulladék országhatárt átlépő jogellenes szállítása esetén, kivéve a nemzetközi hulladékszállítás során rendszeresített, szállítmányt kísérő dokumentum hibás vagy hiányos kitöltését, valamint a zöldlistás hulladékok behozatalához és kiviteléhez kapcsolódó adatszolgáltatást.
 
