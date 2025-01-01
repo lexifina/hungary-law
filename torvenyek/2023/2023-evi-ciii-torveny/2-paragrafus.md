@@ -26,6 +26,6 @@ b) a digitális keretalkalmazás, a digitális keretszolgáltatások és az éle
 
 a) az információs önrendelkezési jogról és az információszabadságról,
 
-b) az állami és önkormányzati szervek elektronikus információbiztonságáról, és
+b) a Magyarország kiberbiztonságáról, és
 
 c) a nemzeti adatvagyon hasznosításának rendszeréről és az egyes szolgáltatásokról.

@@ -32,7 +32,7 @@ j) a törvénnyel vagy kormányrendelettel az e törvény szerinti digitális sz
 
 (4) A digitális szolgáltatás nyújtását önként vállaló jogalany meghatározott digitális szolgáltatások biztosítását a digitális szolgáltatások felügyeletének engedélyével önkéntesen vállalhatja. Az engedély kiadásának feltétele
 
-a) a kiberbiztonsági tanúsításról és a kiberbiztonsági felügyeletről szóló törvényben foglalt kiberbiztonsági követelményeknek való megfelelés biztosítása, valamint kiberbiztonsági audit lefolytatása,
+a) a Magyarország kiberbiztonságáról szóló törvényben foglalt kiberbiztonsági követelményeknek való megfelelés biztosítása, valamint kiberbiztonsági audit lefolytatása,
 
 b) a digitális állampolgárság szolgáltató
 
