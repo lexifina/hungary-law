@@ -1,4 +1,4 @@
-8. § (1) A nyilvános pályázati felhívást legalább két országos napilapban, illetőleg az önkormányzati pályázatot a helyi napilapban is meg kell hirdetni a pályázatok benyújtására nyitva álló időtartam kezdő napját legalább harminc nappal megelőzően. Zártkörű pályázat esetén az érdekelteket egyidejűleg, közvetlenül kell a pályázatra felhívni.
+8. § (1) A nyilvános pályázati felhívást az 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv és a Hatóság honlapján, valamint az önkormányzati pályázatot a helyi önkormányzat honlapján kell meghirdetni a pályázatok benyújtására nyitva álló időtartam kezdő napja előtt legalább harminc nappal. Zártkörű pályázat esetén az érdekelteket egyidejűleg, közvetlenül kell a pályázatra felhívni.
 
 (2) A pályázati kiírásnak tartalmaznia kell a pályázat elbírálásának szempontjait, továbbá a koncesszió-köteles tevékenység
 
@@ -33,3 +33,5 @@ f) a koncesszióba adott tevékenység árképzési szabályait, ideértve az á
 g) egyéb, a pályázat kiírója által szükségesnek tartott információkat.
 
 (4) Az állam nevében lefolytatandó koncessziós szerződés megkötésére irányuló eljárás során a pályázati kiírásban, ajánlattételi felhívásban előírható, hogy a koncessziós pályázatot, ajánlatot benyújtó jogi személynek a pályázathoz, ajánlathoz teljes bizonyító erejű magánokiratban vagy közokiratban csatolnia kell a jogi személy döntéshozó szervének határozatát arról, hogy a koncessziós pályázaton, ajánlattételi eljárásban való részvételhez a tagok, vagy alapítók összességének pályázati kiírásban, ajánlattételi felhívásban meghatározott mértékű minősített többsége hozzájárult. Az önkormányzat nevében lefolytatandó koncessziós eljárásokban a minősített többségre vonatkozó követelmény nem írható elő.
+
+(5) A 10/C. § szerinti esetben az állam nevében lefolytatandó koncessziós szerződés megkötésére irányuló eljárás során a pályázati kiírásban, ajánlattételi felhívásban előírható, hogy a megbízható szerencsejáték-szervezőnek a pályázathoz, ajánlathoz teljes bizonyító erejű magánokiratban vagy közokiratban csatolnia kell a koncesszióba vevő, illetve annak koncessziós társasága közvetlen tulajdonosai összességének ajánlattételi felhívásban meghatározott mértékű minősített többségének hozzájárulását a koncessziós pályázaton, ajánlattételi eljárásban való részvételhez.

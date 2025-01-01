@@ -1,6 +1,6 @@
-5. § (1) Az állam nevében pályázat kiírására, elbírálására, ajánlattételi felhívásra, ajánlattételi eljárás, valamint a 10/A. § szerinti eljárás lefolytatására és a koncessziós szerződés megkötésére a kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv jogosult.
+5. § (1) Az állam nevében pályázat kiírására, ajánlattételi felhívás kiadására, a pályázati, ajánlattételi vagy a 10/A. § szerinti eljárás lefolytatására, valamint a koncessziós szerződés megkötésére, módosítására és megszüntetésére a kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv jogosult.
 
-(1a) Az állam nevében pályázat kiírására, ajánlattételi felhívásra, ajánlattételi eljárás, valamint a 10/A. § szerinti eljárás lefolytatására és a koncessziós szerződés megkötésére a Szabályozott Tevékenységek Felügyeleti Hatóságának (a továbbiakban: Hatóság) előzetes egyetértésével kerülhet sor.
+(1a) Az állam nevében pályázat – ideértve a 10/A. § szerinti pályázatot is – kiírására, ajánlattételi felhívás kiadására, valamint a koncessziós szerződés megkötésére, módosítására és megszüntetésére a Szabályozott Tevékenységek Felügyeleti Hatóságának (a továbbiakban: Hatóság) előzetes egyetértésével kerülhet sor.
 
 (2) Az e törvény szerinti koncessziós pályázatok, ajánlattételi eljárások és a 10/A. § szerinti eljárások elbírálására bíráló bizottság kerül létrehozásra. A bíráló bizottság javaslatot készít a koncessziós pályázat odaítéléséről, az ajánlat elfogadásáról szóló döntésről, az értékesítésre vonatkozó döntésről, valamint a koncessziós szerződés megkötéséről.
 
