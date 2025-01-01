@@ -1,4 +1,4 @@
-4. melléklet a 442/2012. (XII. 29.) Korm. rendelethez[^63]
+4. melléklet a 442/2012. (XII. 29.) Korm. rendelethez[^68]
 
 A célértéknek való megfelelés számítási szabályai
 
@@ -30,4 +30,4 @@ le kell vonni.
 
 11. A 9. § (2a) bekezdésében meghatározott célértékek elérésének kiszámítása során a tárgyévben országosan képződő hulladékká vált csomagolás teljes tömegére vonatkozó újrafeldolgozási célértékekbe, továbbá a fa anyagáramra előírt célértékbe az újrahasználat céljából megjavított facsomagolás mennyisége beszámítható.
 
-[^63]: A 4. mellékletet újonnan a 158/2021. (III. 31.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^68]: A 4. mellékletet újonnan a 158/2021. (III. 31.) Korm. rendelet 6. § (2) bekezdése iktatta be.

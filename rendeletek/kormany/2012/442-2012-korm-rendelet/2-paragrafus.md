@@ -18,17 +18,23 @@ c) a szállítási vagy harmadlagos csomagolás, amely megkönnyíti a fogyaszt�
 
 4a.[^2] csomagolások újrahasználatát célzó rendszer: olyan szervezési, műszaki vagy pénzügyi jellegű intézkedések, amelyek biztosítják, hogy az újrahasználható csomagolás több forgási ciklust teljesítsen;
 
-5. csomagolószer: a környezetvédelmi termékdíjról szóló 2011. évi LXXXV. törvény (a továbbiakban: Ktdt.) 2. § 8–10. pontjában meghatározott csomagolóanyag, csomagolóeszköz és a csomagolási segédanyag;
+4b.[^3] csomagolóanyag: a csomagolóeszközök előállítására, illetve az ideiglenes védőburkolat kialakítására közvetlenül alkalmazható szerkezeti anyagok gyűjtőfogalma;
 
-5a.[^3] forgási ciklus: az újrahasználható csomagolás útja attól az időponttól, amikor forgalomba hozzák azon áruval együtt, amelynek tárolására, védelmére, kezelésére, szállítására vagy prezentálására szánják, addig az időpontig, amikor olyan csomagolások újrahasználatát célzó rendszerbe kerül, amelynek célja újra forgalomba hozni a csomagolást az áruval együtt;
+4c.[^4] csomagolóeszköz: a termék vagy a kisebb csomagolás befogadására, egységbe fogására kialakított, meghatározott anyagú, szerkezetű – általában ipari, vagy szolgáltató jellegű tevékenység keretében előállított – ideiglenes védőburkolat, továbbá a raklap;
 
-5b.[^4] könnyű műanyag hordtasak: a Ktdt. szerinti fogalom;
+4d.[^5] csomagolási segédanyag: a csomagolás kiegészítő vagy járulékos részeként felhasználható – így különösen záró, rögzítő, párnázó, díszítő – elemek, valamint kellékek, így különösen címke, páralekötő anyag, hordfogantyú, ragasztó gyűjtőfogalma;
 
-5c.[^5] műanyag: a Ktdt. szerinti fogalom;
+5.[^6] csomagolószer: a csomagolóanyag, a csomagolóeszköz és a csomagolási segédanyag;
 
-5d.[^6] műanyag hordtasak: olyan, műanyagból készült, fogófüllel ellátott vagy fogófül nélküli, hordtasak, amelyet az áruk vagy termékek értékesítési pontján biztosítanak a fogyasztók részére;
+5a.[^7] forgási ciklus: az újrahasználható csomagolás útja attól az időponttól, amikor forgalomba hozzák azon áruval együtt, amelynek tárolására, védelmére, kezelésére, szállítására vagy prezentálására szánják, addig az időpontig, amikor olyan csomagolások újrahasználatát célzó rendszerbe kerül, amelynek célja újra forgalomba hozni a csomagolást az áruval együtt;
 
-5e.[^7] nagyon könnyű műanyag hordtasak: a Ktdt. szerinti fogalom;
+5b.[^8] könnyű műanyag hordtasak: a Ktdt. szerinti fogalom;
+
+5c.[^9] műanyag: a vegyi anyagok regisztrálásáról, értékeléséről, engedélyezéséről és korlátozásáról (REACH), az Európai Vegyianyag-ügynökség létrehozásáról, az 1999/45/EK irányelv módosításáról, valamint a 793/93/EGK tanácsi rendelet, az 1488/94/EK bizottsági rendelet, a 76/769/EGK tanácsi irányelv, a 91/155/EGK, a 93/67/EGK, a 93/105/EK és a 2000/21/EK bizottsági irányelv hatályon kívül helyezéséről szóló, 2006. december 18-i 1907/2006/EK európai parlamenti és tanácsi rendelet 3. cikk 5. pontja értelmében vett polimer, amelyhez esetleg adalékanyagokat vagy egyéb anyagokat adtak, és amely alkalmas a hordtasakok fő szerkezeti alkotóelemeként való felhasználásra;
+
+5d.[^10] műanyag hordtasak: olyan, műanyagból készült, fogófüllel ellátott vagy fogófül nélküli, hordtasak, amelyet az áruk vagy termékek értékesítési pontján biztosítanak a fogyasztók részére;
+
+5e.[^11] nagyon könnyű műanyag hordtasak: a Ktdt. szerinti fogalom;
 
 6. nehézfém: az ólom, a kadmium, a higany és a hat vegyértékű króm;
 
@@ -36,38 +42,42 @@ c) a szállítási vagy harmadlagos csomagolás, amely megkönnyíti a fogyaszt�
 
 8. nehézfém véletlen jelenléte: a nehézfém csomagolásban vagy annak összetevőjében nem szándékos hozzáadás következtében való jelenléte;
 
-9.[^8] oxidatív úton aprózódó műanyag hordtasak: olyan, az áruk vagy termékek értékesítési pontján a fogyasztók részére biztosított, adalékanyagokat tartalmazó, műanyagból készült hordtasak, amely elősegíti a műanyag mikroméretű műanyagrészecskékre történő széttöredezését.
+9.[^12] oxidatív úton aprózódó műanyag hordtasak: olyan, az áruk vagy termékek értékesítési pontján a fogyasztók részére biztosított, adalékanyagokat tartalmazó, műanyagból készült hordtasak, amely elősegíti a műanyag mikroméretű műanyagrészecskékre történő széttöredezését.
 
-9a.[^9] társított (kompozit) csomagolás: olyan csomagolás, amely különböző anyagok kézi erővel szét nem választható két vagy több rétegéből áll, egyetlen integrált egységet képezve, amely egy belső tartályból és egy külső burkolatból áll, amelyet ennek megfelelően töltenek meg, tárolnak, szállítanak és ürítenek ki;
+9a.[^13] társított (kompozit) csomagolás: olyan csomagolás, amely különböző anyagok kézi erővel szét nem választható két vagy több rétegéből áll, egyetlen integrált egységet képezve, amely egy belső tartályból és egy külső burkolatból áll, amelyet ennek megfelelően töltenek meg, tárolnak, szállítanak és ürítenek ki;
 
-10.[^10] újrahasználható csomagolás: olyan csomagolás, amelyet arra szántak, úgy terveztek és azzal a céllal helyeztek forgalomba, hogy életciklusa alatt több utat vagy forgási ciklust teljesítsen azáltal, hogy az eredeti célra újratöltik vagy újrafelhasználják.
+10.[^14] újrahasználható csomagolás: olyan csomagolás, amelyet arra szántak, úgy terveztek és azzal a céllal helyeztek forgalomba, hogy életciklusa alatt több utat vagy forgási ciklust teljesítsen azáltal, hogy az eredeti célra újratöltik vagy újrafelhasználják.
 
-(2)[^11] Csomagolásnak kell tekinteni továbbá
+(2)[^15] Csomagolásnak kell tekinteni továbbá
 
 a) az árucikket, ha a 2. § (1) bekezdés 1. pontja szerinti fogalom-meghatározásnak a csomagolás által még biztosított egyéb funkciók sérelme nélkül megfelel, kivéve, ha az adott árucikk a termék szerves részét képezi, és erre az árucikkre a termék tartásához vagy megőrzéséhez a termék teljes élettartama alatt szükség van, valamint az egyes alkotóelemeket együttes felhasználásra, fogyasztásra vagy értékesítésre szánták, és
 
 b) az értékesítés helyén történő megtöltésre tervezett és szánt árucikkeket, továbbá az értékesítés helyén eladott, megtöltött vagy az értékesítés helyén történő megtöltésre tervezett és szánt egyszer használatos (eldobható) árucikkeket, ha azok csomagolási funkciót látnak el.
 
-(3)[^12] A csomagolásba beépülő egyes alkotóelemeket és kiegészítő elemeket azon csomagolás részének kell tekinteni, amelybe azokat beépítették. Az egy termékre közvetlenül ráakasztott vagy ahhoz rögzített, csomagolási funkciót ellátó kiegészítő elemeket csomagolásnak kell tekinteni, kivéve, ha azok a termék szerves részét képezik, és minden alkotóelemet együttes fogyasztásra vagy értékesítésre szántak.
+(3)[^16] A csomagolásba beépülő egyes alkotóelemeket és kiegészítő elemeket azon csomagolás részének kell tekinteni, amelybe azokat beépítették. Az egy termékre közvetlenül ráakasztott vagy ahhoz rögzített, csomagolási funkciót ellátó kiegészítő elemeket csomagolásnak kell tekinteni, kivéve, ha azok a termék szerves részét képezik, és minden alkotóelemet együttes fogyasztásra vagy értékesítésre szántak.
 
-(4)[^13] A csomagolásnak minősülő, illetve a csomagolásnak nem minősülő tételeket (szemléltető példákat) az 1. melléklet tartalmazza.
+(4)[^17] A csomagolásnak minősülő, illetve a csomagolásnak nem minősülő tételeket (szemléltető példákat) az 1. melléklet tartalmazza.
 
-(5)[^14]
+(5)[^18]
 
-(6)[^15]
+(6)[^19]
 
 [^1]: A 2. § (1) bekezdés 1. pont nyitó szövegrésze az 534/2013. (XII. 30.) Korm. rendelet 4. §-a szerint módosított szöveg.
 [^2]: A 2. § (1) bekezdés 4a. pontját a 724/2020. (XII. 31.) Korm. rendelet 7. § (1) bekezdése iktatta be.
-[^3]: A 2. § (1) bekezdés 5a. pontját a 30/2017. (II. 13.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 724/2020. (XII. 31.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^4]: A 2. § (1) bekezdés 5b. pontját a 30/2017. (II. 13.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 724/2020. (XII. 31.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^5]: A 2. § (1) bekezdés 5c. pontját a 30/2017. (II. 13.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 724/2020. (XII. 31.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^6]: A 2. § (1) bekezdés 5d. pontját a 30/2017. (II. 13.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 724/2020. (XII. 31.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^7]: A 2. § 5e. pontját a 724/2020. (XII. 31.) Korm. rendelet 7. § (2) bekezdése iktatta be, szövege ugyanezen módosító rendelet 8. §-ával megállapított szöveg.
-[^8]: A 2. § (1) bekezdés 9. pontját a 30/2017. (II. 13.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 724/2020. (XII. 31.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
-[^9]: A 2. § (1) bekezdés 9a. pontját a 158/2021. (III. 31.) Korm. rendelet 2. §-a iktatta be.
-[^10]: A 2. § (1) bekezdés 10. pontját a 724/2020. (XII. 31.) Korm. rendelet 7. § (3) bekezdése iktatta be.
-[^11]: A 2. § (2) bekezdése az 534/2013. (XII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^12]: A 2. § (3) bekezdését az 534/2013. (XII. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^13]: A 2. § (4) bekezdését az 534/2013. (XII. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^14]: A 2. § (5) bekezdését a 30/2017. (II. 13.) Korm. rendelet 1. § (3) bekezdése iktatta be, hatályon kívül helyezte a 724/2020. (XII. 31.) Korm. rendelet 13. § a) pontja.
-[^15]: A 2. § (6) bekezdését a 30/2017. (II. 13.) Korm. rendelet 1. § (3) bekezdése iktatta be, hatályon kívül helyezte a 724/2020. (XII. 31.) Korm. rendelet 13. § a) pontja.
+[^3]: A 2. § (1) bekezdés 4b. pontját a 465/2024. (XII. 30.) Korm. rendelet 9. § (1) bekezdése iktatta be.
+[^4]: A 2. § (1) bekezdés 4c. pontját a 465/2024. (XII. 30.) Korm. rendelet 9. § (1) bekezdése iktatta be.
+[^5]: A 2. § (1) bekezdés 4d. pontját a 465/2024. (XII. 30.) Korm. rendelet 9. § (1) bekezdése iktatta be.
+[^6]: A 2. § (1) bekezdés 5. pontja a 465/2024. (XII. 30.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^7]: A 2. § (1) bekezdés 5a. pontját a 30/2017. (II. 13.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 724/2020. (XII. 31.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^8]: A 2. § (1) bekezdés 5b. pontját a 30/2017. (II. 13.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 724/2020. (XII. 31.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^9]: A 2. § (1) bekezdés 5c. pontját a 30/2017. (II. 13.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 465/2024. (XII. 30.) Korm. rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^10]: A 2. § (1) bekezdés 5d. pontját a 30/2017. (II. 13.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 724/2020. (XII. 31.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^11]: A 2. § 5e. pontját a 724/2020. (XII. 31.) Korm. rendelet 7. § (2) bekezdése iktatta be, szövege ugyanezen módosító rendelet 8. §-ával megállapított szöveg.
+[^12]: A 2. § (1) bekezdés 9. pontját a 30/2017. (II. 13.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 724/2020. (XII. 31.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^13]: A 2. § (1) bekezdés 9a. pontját a 158/2021. (III. 31.) Korm. rendelet 2. §-a iktatta be.
+[^14]: A 2. § (1) bekezdés 10. pontját a 724/2020. (XII. 31.) Korm. rendelet 7. § (3) bekezdése iktatta be.
+[^15]: A 2. § (2) bekezdése az 534/2013. (XII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^16]: A 2. § (3) bekezdését az 534/2013. (XII. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^17]: A 2. § (4) bekezdését az 534/2013. (XII. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^18]: A 2. § (5) bekezdését a 30/2017. (II. 13.) Korm. rendelet 1. § (3) bekezdése iktatta be, hatályon kívül helyezte a 724/2020. (XII. 31.) Korm. rendelet 13. § a) pontja.
+[^19]: A 2. § (6) bekezdését a 30/2017. (II. 13.) Korm. rendelet 1. § (3) bekezdése iktatta be, hatályon kívül helyezte a 724/2020. (XII. 31.) Korm. rendelet 13. § a) pontja.

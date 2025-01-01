@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-442-20-
 | 2021-06-22 | 2012-442-20-22.13 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2021-07-01 | 2012-442-20-22.14 | 30/2017. (II. 13.) Korm. rendelet |
 | 2023-07-01 | 2012-442-20-22.15 | 276/2023. (VI. 29.) Korm. rendelet |
+| 2025-01-01 | 2012-442-20-22.16 | 465/2024. (XII. 30.) Korm. rendelet |

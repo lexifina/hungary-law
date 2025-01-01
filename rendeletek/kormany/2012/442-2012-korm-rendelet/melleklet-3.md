@@ -100,7 +100,7 @@
 
 ## * Társított anyagok (kompozitok) esetében a következő jelölést kell alkalmazni: C/a jellemző anyag megnevezésének rövidítése.
 
-3. melléklet a 442/2012. (XII. 29.) Korm. rendelethez[^62]
+3. melléklet a 442/2012. (XII. 29.) Korm. rendelethez[^67]
 
 A csomagolás összetételére, újrahasználhatóságra, továbbá a csomagolási hulladék hasznosíthatóságra vonatkozó lényegi követelmények
 
@@ -136,7 +136,7 @@ A komposztálás céljából feldolgozott csomagolási hulladéknak olyan bioló
 
 3.4. Biológiai úton lebontható csomagolás:
 
-A biológiai úton lebontható csomagolásnak olyan összetétellel kell rendelkeznie, hogy képes legyen fizikai, kémiai, termikus vagy biológiai lebomlásra úgy, hogy a levegő jelenlétében végső soron szén-dioxiddá, biomasszává, vízzé vagy levegő kizárása mellett elsősorban metánná bomoljon.
+## A biológiai úton lebontható csomagolásnak olyan összetétellel kell rendelkeznie, hogy képes legyen fizikai, kémiai, termikus vagy biológiai lebomlásra úgy, hogy a levegő jelenlétében végső soron szén-dioxiddá, biomasszává, vízzé vagy levegő kizárása mellett elsősorban metánná bomoljon. Az oxidatív úton lebomló műanyag csomagolás nem tekinthető biológiailag lebomlónak.
 
 4. Az egyes követelményekre vonatkozó, referenciaként szolgáló szabványok a következők:
 
@@ -198,4 +198,4 @@ g) ha szükséges, az adatminőség javítására irányuló intézkedések megh
 
 9/B. § A 9. § (2a) bekezdésében meghatározott célérték elérésének számítását – a 2005/270/EK bizottsági határozat előírásainak megfelelően – a 4. melléklet szerint kell végezni.
 
-[^62]: A 3. melléklet a 158/2021. (III. 31.) Korm. rendelet 6. § (1) bekezdése szerint módosított szöveg.
+[^67]: A 3. melléklet a 158/2021. (III. 31.) Korm. rendelet 6. § (1) bekezdése, a 465/2024. (XII. 30.) Korm. rendelet 11. §-a szerint módosított szöveg.

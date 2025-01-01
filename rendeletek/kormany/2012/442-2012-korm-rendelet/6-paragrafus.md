@@ -1,6 +1,6 @@
-## 4.[^20] Hasznosítási kötelezettség
+## 4.[^24] Hasznosítási kötelezettség
 
-6. §[^21]
+6. §[^25]
 
-[^20]: A 4. alcím címe a 276/2023. (VI. 29.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^21]: A 6. §-t a 276/2023. (VI. 29.) Korm. rendelet 12. § a) pontja hatályon kívül helyezte.
+[^24]: A 4. alcím címe a 276/2023. (VI. 29.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^25]: A 6. §-t a 276/2023. (VI. 29.) Korm. rendelet 12. § a) pontja hatályon kívül helyezte.
