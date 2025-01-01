@@ -7,3 +7,5 @@
 (3) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv megbízhatósági vizsgálat során keletkezett adataiba betekinthet, felvilágosítást vagy értesítést kérhet – a 91/D. §-ban meghatározottakon túl – a vizsgálattal érintett foglalkoztatását végző szerv vezetője a munkáltatói jogkörébe tartozó feladatai ellátása céljából.
 
 (4) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a 7. § (5) bekezdése szerinti előzetes véleményalkotási eljárás során a személyügyi alapnyilvántartásba és az annak alapjául szolgáló iratokba tekinthet be. Az előzetes véleményalkotási eljárás lefolytatását követően a keletkezett adatokat törölni kell.
+
+(5) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv hivatásos állományának tagja a megbízhatósági vizsgálat során – a feladatai ellátása, a vizsgálat előkészítése és lefolytatása céljából – betekinthet a védett állomány tagját foglalkoztató szervnek az általa üzemeltetett járművekre vonatkozó adataiba, valamint a járművek menetleveleibe. A vizsgálat lefolytatását követően a keletkezett adatokat törölni kell.

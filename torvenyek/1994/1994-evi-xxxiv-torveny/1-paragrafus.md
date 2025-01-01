@@ -54,7 +54,7 @@ c) megakadályozza, hogy magánszemélyek, csoportok, szervezetek terrorszerveze
 
 17. részt vesz az Egyesült Nemzetek Szervezete, az Európai Unió, az Európai Biztonsági és Együttműködési Szervezet, az Észak-atlanti Szerződés Szervezete keretében szervezett, vagy nemzetközi szerződés alapján a béketámogató és polgári válságkezelési feladatokban,
 
-18. a fenntartó kezdeményezésére közreműködik az általános és középiskola rendjének fenntartásában,
+18. a fenntartó kezdeményezésére közreműködik a nevelési-oktatási intézmény, a technikum, szakképző iskola, a gyermekotthon, a 10/A. § (1) bekezdés d) pontja szerinti napközbeni gyermekfelügyelet, a nevelési-oktatási intézmény, technikum vagy szakképző iskola által szervezett foglalkozás, valamint 18 év alatti személyek csoportos, többnapos táboroztatása, üdültetése és egyéb szabadidős foglalkoztatása rendjének fenntartásában,
 
 19. ellátja a segélyhívó számokra érkező hívások, illetve egyéb jelzések fogadásából eredő feladatokat,
 

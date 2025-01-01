@@ -1,4 +1,4 @@
-10/B. § Az általános rendőrségi feladatok ellátására létrehozott szerv a nevelési-oktatási intézménnyel együttműködési megállapodást köt, amely tartalmazza különösen
+10/B. § Az általános rendőrségi feladatok ellátására létrehozott szerv a nevelési-oktatási intézménnyel, a gyermekotthonnal, a napközbeni gyermekfelügyelet szolgáltatásnyújtójával, a táboroztatóval együttműködési megállapodást köt, amely tartalmazza különösen
 
 a) az iskolaőr részére a feladatai ellátáshoz szükséges, térítés nélkül átadásra kerülő tárgyi eszközök, valamint a biztosított helyiségek használatára és visszavételére vonatkozó rendelkezéseket,
 
@@ -8,4 +8,4 @@ c) a kapcsolattartás módját, az együttműködéssel kapcsolatban eljárásra
 
 d) az együttműködést segítő további rendelkezéseket, valamint
 
-e) a nevelési-oktatási intézmény elkötelezettségét tartalmazó nyilatkozatot az együttműködési megállapodásban foglaltak betartására vonatkozóan.
+e) a nevelési-oktatási intézmény, a gyermekotthon, a napközbeni gyermekfelügyelet szolgáltatásnyújtója, a táboroztató elkötelezettségét tartalmazó nyilatkozatot az együttműködési megállapodásban foglaltak betartására vonatkozóan.

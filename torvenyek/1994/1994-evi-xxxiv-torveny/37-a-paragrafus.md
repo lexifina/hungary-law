@@ -1,6 +1,6 @@
 ## Kiemelt biztonsági intézkedés
 
-37/A. § (1) Magyarország területén olyan terrorcselekmény elkövetése vagy előkészülete esetén, amely alkalmas a közrend és a nemzetgazdaság vagy a létfontosságú rendszerelem működésének súlyos megzavarására, és a lakosság élet- és vagyonbiztonságát közvetlenül és súlyosan veszélyezteti, a rendőrség a terrorcselekmény megelőzése, félbeszakítása, következményeinek elhárítása és az elkövetők elfogása érdekében külön-külön és együttesen is alkalmazhatja a következő intézkedéseket a terrorcselekmény hatásterületén:
+37/A. § (1) Magyarország területén olyan terrorcselekmény elkövetése vagy előkészülete esetén, amely alkalmas a közrend és a nemzetgazdaság vagy a kritikus infrastruktúra működésének vagy az alapvető szolgáltatás nyújtásának súlyos megzavarására, és a lakosság élet- és vagyonbiztonságát közvetlenül és súlyosan veszélyezteti, a rendőrség a terrorcselekmény megelőzése, félbeszakítása, következményeinek elhárítása és az elkövetők elfogása érdekében külön-külön és együttesen is alkalmazhatja a következő intézkedéseket a terrorcselekmény hatásterületén:
 
 a) az oda belépőket vagy az ott tartózkodókat igazoltathatja,
 

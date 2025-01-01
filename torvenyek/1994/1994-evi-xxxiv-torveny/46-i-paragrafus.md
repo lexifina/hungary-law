@@ -6,6 +6,6 @@
 
 (3) A rendőr az intézkedésről haladéktalanul értesíti a figyelmeztető jelzés elhelyezését elrendelő szervet, külföldi figyelmeztető jelzés esetén a SIRENE Irodát.
 
-(4) A rendőr megakadályozza, hogy Magyarország területét elhagyja az a személy, akivel szemben az (EU) 2018/1862 európai parlamenti és tanácsi rendelet 32. cikk (1) bekezdés d) vagy e) pontja alapján áldozattá válás kockázata miatt utazás megakadályozásával járó külföldi figyelmeztető jelzés van érvényben.
+(4) A rendőr megakadályozza, hogy Magyarország területét elhagyja az a személy, akivel szemben az (EU) 2018/1862 európai parlamenti és tanácsi rendelet 32. cikk (1) bekezdés d) vagy e) pontja alapján áldozattá válás kockázata miatt utazás megakadályozásával járó figyelmeztető jelzés van érvényben.
 
 (5) A rendőr a (4) bekezdés szerinti intézkedésről haladéktalanul értesíti a SIRENE Irodát, szükség esetén intézkedik az érintett személy védelem alá helyezéséről.

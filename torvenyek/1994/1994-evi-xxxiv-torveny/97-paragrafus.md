@@ -36,4 +36,6 @@ p) légifuvarozó: az, aki a légiközlekedésről szóló törvényben meghatá
 
 q) információs rendszer: az adatok automatikus feldolgozását, kezelését, tárolását, továbbítását biztosító berendezés, vagy az egymással kapcsolatban lévő ilyen berendezések összessége.
 
+t) különleges bánásmódot igénylő nagykorú személy: a fogyatékos, a gondokság alatt álló vagy olyan nagykorú személy, aki korábban emberkereskedelem vagy nemi erkölcs elleni bűncselekmény sértettjévé vált.
+
 (2)

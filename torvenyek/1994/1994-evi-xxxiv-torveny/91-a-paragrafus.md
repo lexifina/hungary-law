@@ -8,7 +8,7 @@ c) a szándékos bűncselekmény megalapozott gyanúja miatt kihallgatott szemé
 
 d) a rendőrségen fogvatartott, a Be. szerinti személyi szabadságot érintő bírói engedélyes kényszerintézkedés hatálya alatt álló személyek adatait az adatok bűnüldözési adatállományba történt bekerülésétől számított huszonöt évig, életfogytig tartó szabadságvesztéssel is büntethető bűncselekmény esetén harminc évig, ha a büntethetőség elévülése kizárt, az adatok bűnüldözési adatállományba történt bekerülésétől számított ötven évig;
 
-e) súlyos bűncselekmény esetén, vagy ha a bűncselekmény
+e) a bűncselekmény elkövetésével gyanúsított személyek és kapcsolataik adatait, valamint banktitoknak minősülő adatait, kriminalisztikai szempontból fontos jellemzőit az adatok bűnüldözési adatállományba történt bekerülésétől számított huszonöt évig, életfogytig tartó szabadságvesztéssel is büntethető bűncselekmény esetén harminc évig vagy a nemzetközi kötelezettségvállalásban meghatározott ideig, ha a büntethetőség elévülése kizárt, az adatok bűnüldözési adatállományba történt bekerülésétől számított ötven évig súlyos bűncselekmény esetén, vagy ha a bűncselekmény
 
 ea) élet, testi épség, emberi szabadság vagy vagyon elleni erőszakos bűntett, illetve az embercsempészés három évig terjedő szabadságvesztéssel büntetendő alakzata,
 
@@ -20,9 +20,7 @@ ed) üzletszerűen vagy bűnszövetségben elkövetett, három évig terjedő sz
 
 ee) kábítószer-kereskedelem, kábítószer birtoklása, kóros szenvedélykeltés, kábítószer készítésének elősegítése, kábítószer-prekurzorral visszaélés, új pszichoaktív anyaggal visszaélés, radioaktív anyaggal visszaélés, nukleáris létesítmény üzemeltetésével visszaélés, atomenergia alkalmazásával visszaélés,
 
-ef) pénzhamisítás elősegítése, készpénz-helyettesítő fizetési eszköz hamisítása, készpénz-helyettesítő fizetési eszközzel visszaélés, pénzmosás, információs rendszer felhasználásával elkövetett csalás, a korrupciós bűncselekmények öt évet el nem érő szabadságvesztéssel büntetendő alakzata,
-
-a bűncselekmény elkövetésével gyanúsított személyek és kapcsolataik adatait, kriminalisztikai szempontból fontos jellemzőit az adatok bűnüldözési adatállományba történt bekerülésétől számított huszonöt évig, életfogytig tartó szabadságvesztéssel is büntethető bűncselekmény esetén harminc évig vagy a nemzetközi kötelezettségvállalásban meghatározott ideig, ha a büntethetőség elévülése kizárt, az adatok bűnüldözési adatállományba történt bekerülésétől számított ötven évig;
+ef) pénzhamisítás elősegítése, készpénz-helyettesítő fizetési eszköz hamisítása, készpénz-helyettesítő fizetési eszközzel visszaélés, pénzmosás, információs rendszer felhasználásával elkövetett csalás, információs rendszer vagy adat megsértése, online hálózaton elkövetett csalás, információs rendszer védelmét biztosító technikai intézkedés kijátszása, a korrupciós bűncselekmények öt évet el nem érő szabadságvesztéssel büntetendő alakzata,
 
 f) a nemzetközi kötelezettségvállalás alapján mindazon személyek, cselekményeik, valamint kapcsolataik adatait, akikkel szemben nemzetközi bűnügyi együttműködés keretében intézkedéseket kell foganatosítani, az adatok bűnüldözési adatállományba történt bekerülésétől számított húsz évig vagy a nemzetközi kötelezettségvállalásban meghatározott ideig, ha a büntethetőség elévülése kizárt, az adatok bűnüldözési adatállományba történt bekerülésétől számított ötven évig;
 

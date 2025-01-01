@@ -16,7 +16,7 @@ eb) intézkedni az önmagát vagy mást veszélyeztető állapotban lévő szem�
 
 ec) intézkedni az öngyilkosság lehetőség szerinti megakadályozására,
 
-ed) a nevelési, oktatási intézmény területét lezárni, és megakadályozni, hogy oda bárki belépjen, vagy onnan távozzék.
+ed) a nevelési-oktatási intézmény, a gyermekotthon, a napközbeni gyermekfelügyelet, a táboroztatás területét lezárni, és megakadályozni, hogy oda bárki belépjen, vagy onnan távozzék.
 
 (2) Az iskolaőr a biztonságot sértő vagy veszélyeztető tevékenység megszakítása érdekében, az azt elkövető személlyel szemben, illetve tettenérés esetén az arányosság követelményének betartásával:
 
