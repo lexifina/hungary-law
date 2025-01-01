@@ -1,4 +1,4 @@
-48. §[^112] (1) E rendeletnek a csatlakozási díjakra vonatkozó rendelkezéseit a csatlakozási díjak megállapításáról szóló, a Hivatal által kiadott határozathoz (a továbbiakban: Határozat) kapcsolódóan, a villamos energiáról szóló 2007. évi LXXXVI. törvény veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 526/2022. (XII. 16.) Korm. rendelet 11. § (10) bekezdése szerinti második közzétételi eljárás igénybejelentésre nyitva álló időtartama alatt benyújtott, villamosenergia-tárolóra is kiterjedő csatlakozási igények esetén a (2)–(8) bekezdésben meghatározott eltérésekkel kell alkalmazni.
+48. §[^93] (1) E rendeletnek a csatlakozási díjakra vonatkozó rendelkezéseit a csatlakozási díjak megállapításáról szóló, a Hivatal által kiadott határozathoz (a továbbiakban: Határozat) kapcsolódóan, a villamos energiáról szóló 2007. évi LXXXVI. törvény veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 526/2022. (XII. 16.) Korm. rendelet 11. § (10) bekezdése szerinti második közzétételi eljárás igénybejelentésre nyitva álló időtartama alatt benyújtott, villamosenergia-tárolóra is kiterjedő csatlakozási igények esetén a (2)–(8) bekezdésben meghatározott eltérésekkel kell alkalmazni.
 
 (2) Nagyfeszültségű hálózatra csatlakozás esetén, ha a csatlakozást igénylő
 
@@ -66,4 +66,4 @@ bb) a tároló vételezési teljesítménye után a 31. §-ban meghatározott cs
 
 (8) Ha a hálózati csatlakozási szerződés megkötését követő 5 éven belül a (2) és a (6) bekezdés szerint fizetett csatlakozási díj megállapításakor figyelembe vett villamosenergia-tárolói kapacitás megszüntetésére vagy csökkentésére vonatkozó igénybejelentést nyújtanak be, akkor az igénybejelentő a (2)–(6) bekezdés figyelembevételével, illetve anélkül számított csatlakozási díj különbözetét köteles utólag megfizetni a hálózati engedélyes részére.
 
-[^112]: A 48. §-t a 20/2023. (XII. 1.) MEKH rendelet 10. §-a iktatta be.
+[^93]: A 48. §-t a 20/2023. (XII. 1.) MEKH rendelet 10. §-a iktatta be.

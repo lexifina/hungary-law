@@ -1,9 +1,3 @@
-## 7. § A rendszerhasználati díjak a hálózathasználati szerződés részét képezik.
+8. §[^18]
 
-## 8. § A rendszerhasználati díjak és azok alkalmazási feltételei
-
-a) belföldi villamosenergia-forgalom esetében a csatlakozási pontra vagy
-
-b) villamos energia határon keresztül történő ki- és beszállítása esetében a határkeresztezés elszámolási pontjára
-
-vonatkoznak.
+[^18]: A 8. §-t a 10/2024. (XI. 14.) MEKH rendelet 40. § (1) bekezdése hatályon kívül helyezte.

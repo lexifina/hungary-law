@@ -2,19 +2,19 @@
 
 ## 2. § E rendelet alkalmazásában:
 
-1.[^2] befogadó hálózati engedélyes: az a hálózati engedélyes, akinek a hálózatához az adott csatlakozást igénylő csatlakozik;
+1.[^3] befogadó hálózati engedélyes: az a hálózati engedélyes, akinek a hálózatához az adott csatlakozást igénylő csatlakozik;
 
-1a.[^3] csatlakozást igénylő: a villamos energiáról szóló 2007. évi LXXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 273/2007. (X. 19.) Korm. rendelet (a továbbiakban: Vhr.) 2. számú melléklete szerint igénybejelentést benyújtó, így
+1a.[^4] csatlakozást igénylő: a villamos energiáról szóló 2007. évi LXXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 273/2007. (X. 19.) Korm. rendelet (a továbbiakban: Vhr.) 2. számú melléklete szerint igénybejelentést benyújtó, így
 
 a) a közcélú hálózatra való új csatlakozást igénylő, leendő rendszerhasználó (a továbbiakban: új csatlakozást igénylő) és
 
 b) a közcélú hálózaton már rendelkezésre álló teljesítményen felül többletteljesítményt igénylő rendszerhasználó (a továbbiakban: többletteljesítményt igénylő);
 
-2. csatlakozóvezeték: a csatlakozóberendezés részét képező vezetékrendszer, amely a kisfeszültségű közcélú hálózat leágazási pontját a csatlakozóberendezés valamely elemével vagy a csatlakozási ponttal köti össze;
+2.[^5]
 
-2a.[^4] egyéb érintett hálózati engedélyes: a befogadó hálózati engedélyesen kívüli azon hálózati engedélyes, akinek a hálózatán az adott csatlakozási igény kielégítése érdekében beruházást kell végezni;
+2a.[^6] egyéb érintett hálózati engedélyes: a befogadó hálózati engedélyesen kívüli azon hálózati engedélyes, akinek a hálózatán az adott csatlakozási igény kielégítése érdekében beruházást kell végezni;
 
-2b.[^5] elosztói tápponti körzet: az elosztó hálózatnak átviteli alállomások, átviteli alállomásokat közvetlenül összekötő nagyfeszültségű (kuplung) vezetékek, valamint a normál kapcsolási állapot szerinti körzethatárok által határolt – az üzemi szabályzatban rögzített – része, amely egymással összefüggő nagy-, közép- és kisfeszültségű hálózati elemeket tartalmaz;
+2b.[^7] elosztói tápponti körzet: az elosztó hálózatnak átviteli alállomások, átviteli alállomásokat közvetlenül összekötő nagyfeszültségű (kuplung) vezetékek, valamint a normál kapcsolási állapot szerinti körzethatárok által határolt – az üzemi szabályzatban rögzített – része, amely egymással összefüggő nagy-, közép- és kisfeszültségű hálózati elemeket tartalmaz;
 
 3. ideiglenes csatlakozást kérő: az a leendő rendszerhasználó, aki ideiglenes csatlakozás megvalósítására határozott idejű, legfeljebb 12 hónapos időtartamra vonatkozó hálózathasználati szerződést kíván kötni;
 
@@ -22,7 +22,7 @@ b) a közcélú hálózaton már rendelkezésre álló teljesítményen felül t
 
 5. háztartási méretű kiserőmű névleges hatásos teljesítménye: a háztartási méretű kiserőmű hálózathasználati szerződésben kVA-ben rögzített névleges teljesítőképességének értékével megegyező, kW-ban értelmezett érték;
 
-6.[^6] kiindulási pont: a Vhr. 1. § (1) bekezdés 2c. pontja szerinti kiindulási pont;
+6.[^8] kiindulási pont: a Vhr. 1. § (1) bekezdés 2c. pontja szerinti kiindulási pont;
 
 7. kisfeszültségű csatlakozás: az a közcélú hálózatra való csatlakozás, amelyiknél a csatlakozási pont 1 kV-ot meg nem haladó névleges feszültségen van, de nem minősül közép/kisfeszültségű csatlakozásnak;
 
@@ -38,9 +38,9 @@ található;
 
 9. középfeszültségű csatlakozás: az a közcélú hálózatra való csatlakozás, amelyiknél a csatlakozási pont 1 kV-nál nagyobb, de 35 kV-ot meg nem haladó névleges feszültségen van, de nem minősül nagy/középfeszültségű csatlakozásnak;
 
-9a.[^7] közvetlen csatlakozási beruházás: a közcélú hálózaton megvalósított beruházás azon része, amely az üzemi és elosztói szabályzatban rögzített minimális műszaki követelmények figyelembevételével kizárólag az adott csatlakozást igénylő csatlakozását teszi lehetővé;
+9a.[^9] közvetlen csatlakozási beruházás: a közcélú hálózaton megvalósított beruházás azon része, amely az üzemi és elosztói szabályzatban rögzített minimális műszaki követelmények figyelembevételével kizárólag az adott csatlakozást igénylő csatlakozását teszi lehetővé;
 
-9b.[^8] közvetett csatlakozási beruházás: a közcélú hálózaton megvalósított beruházás azon része, amely az üzemi és elosztói szabályzatban rögzített minimális műszaki követelmények figyelembevételével nem kizárólag az adott csatlakozást igénylő csatlakozását teszi lehetővé;
+9b.[^10] közvetett csatlakozási beruházás: a közcélú hálózaton megvalósított beruházás azon része, amely az üzemi és elosztói szabályzatban rögzített minimális műszaki követelmények figyelembevételével nem kizárólag az adott csatlakozást igénylő csatlakozását teszi lehetővé;
 
 10. nagy/középfeszültségű csatlakozás: az a csatlakozás, amelyiknél az 1 kV-nál nagyobb, de 35 kV-ot meg nem haladó névleges feszültségű csatlakozási pont a nagy/középfeszültségű transzformátorállomásban a transzformátorkapcsokon, vagy a kapcsokról közvetlenül ellátott kapcsoló- vagy elosztóberendezésben található;
 
@@ -56,18 +56,19 @@ b) az adott elszámolási időszakban (de legfeljebb 12 hónap alatt) a háztart
 
 az aránya, két tizedesjegyre kerekítve;
 
-13a.[^9] teljesítményarány: az igényelt, betáplálásra és vételezésre irányonként külön-külön figyelembe vett csatlakozási teljesítmény és a csatlakozási beruházással létrejött hálózati eszközök névleges teljesítménynövekményének százalékos (három tizedesjegyre kerekített) aránya, amelynek figyelembe vehető mértéke nem haladhatja meg a 100,000%-ot;
+13a.[^11] teljesítményarány: az igényelt, betáplálásra és vételezésre irányonként külön-külön figyelembe vett csatlakozási teljesítmény és a csatlakozási beruházással létrejött hálózati eszközök névleges teljesítménynövekményének százalékos (három tizedesjegyre kerekített) aránya, amelynek figyelembe vehető mértéke nem haladhatja meg a 100,000%-ot;
 
 14. túláramvédelmi készülék: kismegszakító, olvadóbiztosító, túláram-korlátozóval rendelkező megszakító.
 
-15.[^10] alállomás: olyan villamos hálózati csomópont, amely transzformátort is tartalmaz.
+15.[^12] alállomás: olyan villamos hálózati csomópont, amely transzformátort is tartalmaz.
 
-[^2]: A 2. § 1. pontja az 1/2021. (II. 10.) MEKH rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^3]: A 2. § 1a. pontját az 1/2021. (II. 10.) MEKH rendelet 1. § (2) bekezdése iktatta be.
-[^4]: A 2. § 2a. pontját az 1/2021. (II. 10.) MEKH rendelet 1. § (3) bekezdése iktatta be.
-[^5]: A 2. § 2b. pontját az 1/2021. (II. 10.) MEKH rendelet 1. § (3) bekezdése iktatta be, szövege a 20/2023. (XII. 1.) MEKH rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^6]: A 2. § 6. pontja az 1/2021. (II. 10.) MEKH rendelet 1. § (4) bekezdésével megállapított szöveg.
-[^7]: A 2. § 9a. pontját az 1/2021. (II. 10.) MEKH rendelet 1. § (5) bekezdése iktatta be.
-[^8]: A 2. § 9b. pontját az 1/2021. (II. 10.) MEKH rendelet 1. § (5) bekezdése iktatta be.
-[^9]: A 2. § 13a. pontját az 1/2021. (II. 10.) MEKH rendelet 1. § (6) bekezdése iktatta be, szövege a 20/2023. (XII. 1.) MEKH rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^10]: A 2. § 15. pontját a 20/2023. (XII. 1.) MEKH rendelet 1. § (3) bekezdése iktatta be.
+[^3]: A 2. § 1. pontja az 1/2021. (II. 10.) MEKH rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^4]: A 2. § 1a. pontját az 1/2021. (II. 10.) MEKH rendelet 1. § (2) bekezdése iktatta be.
+[^5]: A 2. § 2. pontját a 10/2024. (XI. 14.) MEKH rendelet 40. § (1) bekezdése hatályon kívül helyezte.
+[^6]: A 2. § 2a. pontját az 1/2021. (II. 10.) MEKH rendelet 1. § (3) bekezdése iktatta be.
+[^7]: A 2. § 2b. pontját az 1/2021. (II. 10.) MEKH rendelet 1. § (3) bekezdése iktatta be, szövege a 20/2023. (XII. 1.) MEKH rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^8]: A 2. § 6. pontja az 1/2021. (II. 10.) MEKH rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^9]: A 2. § 9a. pontját az 1/2021. (II. 10.) MEKH rendelet 1. § (5) bekezdése iktatta be.
+[^10]: A 2. § 9b. pontját az 1/2021. (II. 10.) MEKH rendelet 1. § (5) bekezdése iktatta be.
+[^11]: A 2. § 13a. pontját az 1/2021. (II. 10.) MEKH rendelet 1. § (6) bekezdése iktatta be, szövege a 20/2023. (XII. 1.) MEKH rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^12]: A 2. § 15. pontját a 20/2023. (XII. 1.) MEKH rendelet 1. § (3) bekezdése iktatta be.

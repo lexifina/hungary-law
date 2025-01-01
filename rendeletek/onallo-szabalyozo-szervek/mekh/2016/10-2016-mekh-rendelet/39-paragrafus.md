@@ -1,3 +1,3 @@
-39. § (1) Ha jogerősen megállapítást nyer, hogy a felhasználó nem követett el szerződésszegést, akkor az érintett engedélyes köteles a 35. § (1) bekezdés 4. pontja szerinti, valamint a 38. § szerinti esetekben felszámított külön díjat a Polgári Törvénykönyvről szóló törvény szerinti kamattal együtt 8 napon belül a felhasználónak vagy a fizetőnek visszatéríteni.
+39. §[^81]
 
-(2) Az érintett engedélyes a felhasználó kérésének megfelelő fizetési mód szerint – ennek hiányában a felhasználó számlafizetési módja szerinti módon – köteles teljesíteni az (1) bekezdés szerinti visszatérítést a felhasználó vagy a fizető számára.
+[^81]: A 39. §-t a 10/2024. (XI. 14.) MEKH rendelet 40. § (1) bekezdése hatályon kívül helyezte.

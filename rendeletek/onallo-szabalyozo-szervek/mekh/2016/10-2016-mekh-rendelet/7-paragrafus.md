@@ -1,5 +1,7 @@
-## 6. § Az elosztó részére a közvilágítási elosztási díjat az elosztó hálózatra a közvilágítási elosztó hálózaton keresztül csatlakozó felhasználó fizeti meg.
-
 ## II. Fejezet
 
 ## A RENDSZERHASZNÁLATI DÍJAK ALKALMAZÁSÁNAK ÉS MEGFIZETÉSÉNEK ÁLTALÁNOS SZABÁLYAI
+
+7. §[^17]
+
+[^17]: A 7. §-t a 10/2024. (XI. 14.) MEKH rendelet 40. § (1) bekezdése hatályon kívül helyezte.

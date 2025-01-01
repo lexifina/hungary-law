@@ -2,7 +2,7 @@
 
 ## ÁLTALÁNOS RENDELKEZÉSEK
 
-## 1. §[^1] E rendeletet kell alkalmazni
+## 1. §[^2] E rendeletet kell alkalmazni
 
 a) a villamosenergia-rendszer használatáért fizetendő díjak (a továbbiakban: rendszerhasználati díjak),
 
@@ -12,4 +12,4 @@ c) az elosztó által a felhasználó vagy engedélyes igénye alapján, illetve
 
 (a továbbiakban együtt: díjak) alkalmazása során.
 
-[^1]: Az 1. § nyitó szövegrésze a 2/2021. (III. 24.) MEKH rendelet 2. §-a szerint módosított szöveg.
+[^2]: Az 1. § nyitó szövegrésze a 2/2021. (III. 24.) MEKH rendelet 2. §-a szerint módosított szöveg.

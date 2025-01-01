@@ -1,5 +1,3 @@
-22. § (1) Az átviteli rendszerirányító a tárgyhavi kiegyenlítő befizetés elosztónkénti összegéről a 21. § szerinti, átviteli díjról szóló számla kiállításával megegyező időpontban számviteli bizonylatot állít ki az egyes elosztók részére, amelyhez kapcsolódóan az ellenőrzéséhez szükséges összesített villamosenergia-forgalmi adatokról is tájékoztatja az egyes elosztókat.
+22. §[^36]
 
-(2) Az átviteli rendszerirányító által kiállított számviteli bizonylat alapján az elosztók legkésőbb a 21. § szerinti számla fizetési határidejével megegyező banki napon teljesítik a kiegyenlítő befizetést az elkülönített számlára.
-
-(3) Az átviteli rendszerirányító a tárgyhavi kiegyenlítő kifizetések elosztónkénti összegéről a számviteli bizonylat kiállításával egy időben tájékoztatja az egyes elosztókat, amely tájékoztatás alapján az elosztók számviteli bizonylatot állítanak ki. Az átviteli rendszerirányító az adott elosztó részére a kiegyenlítő kifizetést az (1) bekezdés szerinti kiegyenlítő befizetés adott elosztó általi teljesítése, valamint az adott elosztó eredeti számviteli bizonylatának beérkezésének együttes megtörténtét követő harmadik banki napig teljesíti. A kiegyenlítő kifizetéseket az elosztók – tájékoztatási kötelezettségük során – a Hivatal számára elkülönülten is kötelesek kimutatni.
+[^36]: A 22. §-t a 10/2024. (XI. 14.) MEKH rendelet 40. § (1) bekezdése hatályon kívül helyezte.

@@ -1,11 +1,5 @@
 ## 12. Az elosztó által kibocsátott számlák
 
-23. § (1) Az elosztó havonta egy, a villamosenergia-ellátási szabályzatokkal összhangban álló rész- vagy elszámoló számlát állíthat ki, és nyújthat be a díjfizetésre kötelezetteknek.
+23. §[^37]
 
-(2) A számlák tartalmazzák feszültségszintenként
-
-a) a rendszerhasználati díjakat, díjanként és díjelemenként,
-
-b) a rendszerhasználati díjfizetés alapjául szolgáló mennyiségeket (a csatlakozási pontok számát, a teljesítményt, a villamos energia mennyiségét),
-
-c) a kötelezett által fizetendő rendszerhasználati díjösszegeket díjelemenként.
+[^37]: A 23. §-t a 10/2024. (XI. 14.) MEKH rendelet 40. § (1) bekezdése hatályon kívül helyezte.
