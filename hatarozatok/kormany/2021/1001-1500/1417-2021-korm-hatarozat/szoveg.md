@@ -8,11 +8,7 @@ A Kormány a nyíradonyi Harangi Imre Rendezvénycsarnok és Uszoda felújítás
 
 4. a Felújításnak az állami magasépítési beruházásokról szóló 299/2018. (XII. 27.) Korm. rendelet 4. § c), e), k), l), n), o) és p) pontja szerinti előkészítési fázisai 2022. március 31. napjáig történő teljesítése érdekében, a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 71 200 000 forintban határozza meg;
 
-5. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva, a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 3. Gazdaság-újraindítási Alap – Kiemelt Kormányzati Magasépítési Beruházások cím, 1. Egyedi magasépítési beruházások alcímet a 49. A nyíradonyi Harangi Imre Rendezvénycsarnok és Uszoda felújításának előkészítése jogcímcsoporttal egészíti ki;
-
-Felelős: pénzügyminiszter
-
-Határidő: azonnal
+5.[^1]
 
 6. felhívja a pénzügyminisztert, hogy a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter kezdeményezése alapján gondoskodjon 30 200 000 forint rendelkezésre állásáról az 5. pont szerinti előirányzaton;
 
@@ -37,3 +33,5 @@ Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 emberi erőforrások minisztere
 
 Határidő: a Felújítás megvalósítására vonatkozó feltételes közbeszerzési eljárás lefolytatását követően
+
+[^1]: Az 5. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
