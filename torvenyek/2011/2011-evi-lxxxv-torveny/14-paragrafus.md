@@ -22,41 +22,19 @@ az 5. § (1) bekezdésében meghatározott időpontban száll át az átvállal�
 
 (5) Szerződés alapján a termékdíj-kötelezettséget a kötelezettől
 
-a) a termékdíjköteles termék
-
-aa) első belföldi vevője, vagy
-
-ab) a d) pont szerinti értékesítés belföldi vevője,
-
-ha az átvállalt kötelezettséggel megvásárolt termékdíjköteles termék legalább hatvan százalékát változatlan formában vagy más termékbe beépítve külföldre értékesíti, vagy az általános forgalmi adóról szóló törvény szerinti adóraktárba tárolja be,
+a) a termékdíjköteles termék első belföldi vevője, ha az átvállalt kötelezettséggel megvásárolt termékdíjköteles termék legalább hatvan százalékát változatlan formában vagy más termékbe beépítve külföldre értékesíti, vagy az általános forgalmi adóról szóló törvény szerinti adóraktárba tárolja be,
 
 b) a bérgyártó,
 
-c) a 1234/2007/EK rendelet szerinti mezőgazdasági termelői szerveződésen keresztül forgalomba hozott termékdíjköteles termék esetén a termelői szerveződés,
+c)
 
-d) csomagolószer esetében – ide nem értve a csomagolást alkotó csomagolószert– az azt változatlan formában és állapotban vagy más kiszerelésben továbbértékesítő vagy saját célra felhasználó első belföldi vevő,
+d)
 
-e) a csomagolószer
+e)
 
-ea) első belföldi vevője vagy
+f)
 
-eb) a d) pont szerinti értékesítés belföldi vevője,
-
-ha csomagolást hoz vagy bércsomagoltatás keretében csomagolást hozat létre a csomagolószerből, továbbá ha az újrahasználható csomagolószer engedélyezett bérleti rendszerének szabályai szerint az újrahasználható csomagolószert bérbe adja,
-
-f) csomagolóanyag esetében az azt anyagában, méretében, megjelenésében továbbfeldolgozott csomagolóanyag, csomagolóeszköz, illetve csomagolási segédanyag előállítására felhasználó
-
-fa) első belföldi vevő vagy
-
-fb) a d) pont szerinti értékesítés belföldi vevője,
-
-g) a 3920 vámtarifaszám alá tartozó csomagolóanyag esetében az azt változatlan formában és állapotban, vagy más kiszerelésben, kiskereskedelmi értékesítés keretében továbbértékesítő
-
-ga) első belföldi vevő vagy
-
-gb) a d) pont szerinti értékesítés belföldi vevője
-
-átvállalhatja.
+g)
 
 (6) Átvállalás esetén a termékdíj-kötelezettség az átvállaló általi belföldi forgalomba hozatalkor, saját célú felhasználáskor, vagy készletre vételkor keletkezik.
 

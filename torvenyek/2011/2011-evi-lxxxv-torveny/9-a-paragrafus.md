@@ -28,7 +28,7 @@ bűncselekmény elkövetése miatt nem áll jogerős ügydöntő határozat hat�
 
 (4) A termékdíj raktár üzemeltetésének feltételeit – az e törvényben és a végrehajtására kiadott rendeletben foglaltak alapján – az engedélyben kell meghatározni.
 
-(5) A termékdíj raktár engedélyesére e törvényben foglalt rendelkezések figyelembevételével a kötelezettre vonatkozó szabályokat kell alkalmazni. A termékdíj raktár engedélyese felelős a termékdíj raktárba beszállított termékdíjköteles termékkel kapcsolatos kötelezettségek és az engedélyben meghatározott feltételek teljesítéséért.
+(5) A termékdíj raktár engedélyesére e törvényben foglalt rendelkezések figyelembevételével a kötelezettre vonatkozó szabályokat kell alkalmazni. A termékdíj raktár engedélyese felelős a termékdíj raktárba betárolt termékdíjköteles termékkel kapcsolatos kötelezettségek és az engedélyben meghatározott feltételek teljesítéséért.
 
 (6) A termékdíj raktárban
 
@@ -44,7 +44,7 @@ a) a termékdíj raktár engedélyese az ellenőrzés során megállapított hi�
 
 b) a termékdíj raktár engedélyes vezetőjét, vezető tisztségviselőjét, egyéni vállalkozó esetében az egyéni vállalkozót
 
-ba) a 2013. június 30-ig hatályban volt, 1978. évi IV. törvény szerinti gazdasági vagy a közélet tisztasága elleni,
+ba) az 1978. évi IV. törvény szerinti gazdasági vagy a közélet tisztasága elleni,
 
 bb) a Btk. XXVII. vagy XXXVIII–XLIII. Fejezetében meghatározott
 
@@ -52,8 +52,6 @@ bűncselekmény elkövetése miatt jogerősen elítélték vagy még nem mentes�
 
 c) a termékdíj raktár engedélyezésének feltételei már nem állnak fenn.
 
-(8)–(10)
+(8) Az engedélyesnek az engedély visszavonását követő napon saját célú felhasználással termékdíj-kötelezettsége keletkezik azon raktárkészlet után, amely esetében a termékdíj nem került megfizetésre vagy korábban visszatérítésre került.
 
-(11) Az engedélyesnek az engedély visszavonását követő napon saját célú felhasználással termékdíj-kötelezettsége keletkezik azon raktárkészlet után, amely esetében a termékdíj nem került megfizetésre vagy korábban visszatérítésre került.
-
-(12) A termékdíj raktárban kiskereskedelmi értékesítés – a 3920 vámtarifaszám alá tartozó csomagolóanyag nem csomagolási célú felhasználója, továbbá a nemzetközi közforgalmú repülőtéren a repülésre nyilvántartásba vett induló utasok tartózkodására szolgáló tranzit területen kialakított, kizárólag nem helyben fogyasztásra értékesítést végző üzletben, végső úti céllal külföldre utazó utas részére történő értékesítés kivételével -, továbbá bizományosi értékesítés nem végezhető.
+(9) A termékdíj raktárban kiskereskedelmi értékesítés – a nemzetközi közforgalmú repülőtéren a repülésre nyilvántartásba vett induló utasok tartózkodására szolgáló tranzit területen kialakított, kizárólag nem helyben fogyasztásra értékesítést végző üzletben, végső úti céllal külföldre utazó utas részére történő értékesítés kivételével –, továbbá bizományosi értékesítés nem végezhető.

@@ -1,7 +1,7 @@
-## 5. A termékdíj alapja, összetevői, mértéke
+## 5. A termékdíj alapja, mértéke
 
-7. § (1) A termékdíj alapja a termékdíjköteles termék – ideértve a belföldi előállítású csomagolást alkotó csomagolóeszközt is – tömege.
+7. § (1) A termékdíj alapja a termékdíjköteles termék tömege.
 
-(2) A termékdíj tételeit és kiszámításának módját a 2. melléklet tartalmazza.
+(2) A termékdíj tételeit a 2. melléklet tartalmazza.
 
-(3)
+(3) A fizetendő termékdíj mértéke a termékdíjköteles termék tömege és a 2. melléklet szerinti termékdíjtétel szorzata.

@@ -10,24 +10,24 @@
 
 (3) E törvény alkalmazásában termékdíjköteles termék:
 
-a) az akkumulátor;
+a)
 
-b) a csomagolószer;
+b)
 
 c) az egyéb kőolajtermék;
 
-d) az elektromos, elektronikus berendezés;
+d)
 
-e) a gumiabroncs;
+e)
 
-f) a reklámhordozó papír;
+f)
 
 g) az egyéb műanyag termék;
 
 h) az egyéb vegyipari termék;
 
-i) az irodai papír.
+i)
 
 (4) A (3) bekezdés szerinti termékdíjköteles termékek vámtarifaszámok alá osztályozott körét az 1. melléklet határozza meg. A termékdíjköteles termékek az e törvény végrehajtására kiadott kormányrendeletben szereplő kódszámokkal kerülnek azonosításra.
 
-(5) Új termékdíjköteles termék jön létre, ha a feldolgozás, megmunkálás vagy a felhasználás következtében a termék 1. mellékletben meghatározott vámtarifaszáma, az e törvény végrehajtására kiadott kormányrendeletben meghatározott környezetvédelmi termékdíjkódjának vagy csomagolószer esetében a csomagolószer-katalógus szerinti kódszámának első három jegye megváltozik.
+(5) Új termékdíjköteles termék jön létre, ha a feldolgozás, megmunkálás vagy a felhasználás következtében a termék 1. mellékletben meghatározott vámtarifaszáma, az e törvény végrehajtására kiadott kormányrendeletben meghatározott környezetvédelmi termékdíjkódjának első három jegye megváltozik.

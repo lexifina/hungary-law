@@ -1,4 +1,4 @@
-3/B. § A gépjármű termékdíjköteles alkotórészei termékdíjának vagy a termékdíjátalány összegének
+3/B. § A gépjármű termékdíjköteles alkotórésze termékdíjának vagy a termékdíjátalány összegének
 
 a) hetven százalékát kell megfizetni a hajtómotorként elektromos motorral is működő vagy
 

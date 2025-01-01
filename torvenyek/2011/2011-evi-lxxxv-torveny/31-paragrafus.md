@@ -22,7 +22,7 @@ b) az (1) bekezdés b) pontja esetén a visszaigényléssel vagy visszatéríté
 
 c)
 
-(3) Csomagolószerrel kapcsolatosan megállapított termékdíjhiány esetén az egyéb anyagok díjtételének alapulvételével szabja ki az állami adóhatóság a termékdíjbírságot, ha a kötelezett nyilvántartásaiból a csomagolószer anyagárama tételesen nem állapítható meg.
+(3)
 
 (4) Az (1)–(3) bekezdésben foglaltakra az Air. és az Art, adóbírságra vonatkozó szabályait a jelen §-ban meghatározott eltérésekkel kell alkalmazni.
 

@@ -14,28 +14,22 @@ nem minősül forgalomba hozatalnak.
 
 (2) Nem keletkezik termékdíj-kötelezettség
 
-a) a termékdíjköteles termék igazolt külföldre kiszállítása esetén, ideértve a termékdíjköteles termék változatlan állapotban más termék alkotórészeként, tartozékaként, illetve a csomagolást alkotó csomagolószer igazolt külföldre kiszállítását is;
+a) a termékdíjköteles termék igazolt külföldre kiszállítása esetén, ideértve a termékdíjköteles termék változatlan állapotban más termék alkotórészeként, tartozékaként, igazolt külföldre kiszállítását is;
 
 b) természetes személy esetén a termékdíjköteles termék személyes szükséglet kielégítését meg nem haladó mennyiségű saját célú felhasználása során;
 
 c) a technológiai folyamatba visszavezetett maradék anyag vagy a selejt felhasználása esetén;
 
-d) a külföldről behozott csomagolás részét képező újrahasználható csomagolószer saját célú felhasználása során, ha a kötelezett nyilvántartásával, bizonylatokkal alá tudja támasztani, hogy az újrahasználható csomagolószert a kötelezettség keletkezésének időpontját követő 365 napon belül közvetlenül külföldre vagy ipari termékdíj raktárba visszaszállították;
+d)
 
-e) a csomagolószer csomagolás részeként történő első belföldi forgalomba hozatala vagy első saját célú felhasználása esetén, ha a csomagolószert visszaváltási díjas rendszerben használják fel;
+e)
 
-f) az újrahasználható csomagolószerek nyilvántartásába a felhasználó kérelmére felvett újrahasználható raklapnak a beszerzéstől számított legalább 365 napig újrahasználható csomagolóeszközként csomagolás létrehozására céljából történő felhasználása esetén;
+f)
 
 g) a termékdíjköteles termék nemzetközi közforgalmú repülőtéren a repülésre nyilvántartásba vett induló utasok tartózkodására szolgáló tranzit területen kialakított, kizárólag nem helyben fogyasztásra történő értékesítést végző üzletben, végső úti céllal külföldre utazó utasok részére történő értékesítése esetén; vagy
 
 h) belföldön lévő termékdíjköteles termék tulajdonjogának belföldön gazdasági céllal letelepedett, vagy belföldön nyilvántartásba vett gazdálkodó szervezet részére első alkalommal történő átruházása esetén, ha külföldi rendeletetési helyre fuvarozásra vagy küldeményként feladott termékdíjköteles termék igazolt módon külföldre kiszállításra került.
 
-(2a) A 4. § (2) bekezdés d) pontjában meghatározott feltételek teljesítésének hiányában a 366. napon saját célú felhasználással termékdíj kötelezettség keletkezik.
+(2a)
 
-(3) Az állami adóhatóság és a hulladékgazdálkodási hatóság
-
-a) a (2) bekezdés d) pontja szerinti felhasználónál a termékdíjköteles termék külföldre történő kiszállítására,
-
-b) a (2) bekezdés e) pontja szerinti felhasználónál és a 3. § (6) bekezdés b) pontja szerinti nyilatkozónál a visszaváltási díjas rendszerben kezelt csomagolószer felhasználására
-
-vonatkozó szabályok megtartását ellenőrizheti.
+(3)

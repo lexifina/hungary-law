@@ -12,15 +12,15 @@ b)
 
 c)
 
-d) a veszélyes hulladéknak minősülő csomagolási hulladékok hulladékkezelési rendszerében a közvetítői feladatok ellátására jogosult szervet és a közvetítői feladatok ellátásának rendjét,
+d)
 
-e) a csomagolószerként is felhasználható áruk katalógusát (csomagolószer-katalógus) és a besorolás és alkalmazás részletes szabályait,
+e)
 
 f)
 
 g)
 
-h) az újrahasználható csomagolószer bérleti rendszerének részletes szabályait,
+h)
 
 i)
 

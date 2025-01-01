@@ -10,17 +10,13 @@ b) belföldi előállítású egyéb kőolajtermék esetében az első belföldi
 
 c) bérgyártás esetén a bérgyártatót,
 
-d) a külföldi előállítású csomagolást alkotó termékdíjköteles csomagolószer első belföldi forgalomba hozóját vagy a lebontott csomagolásból képződő csomagolási hulladék első belföldi birtokosát,
-
-e) a 6. § (1) bekezdés alapján készletre vételt végzőt [a továbbiakban a)–e) pontok együtt: kötelezett]
+d) a 6. § (1) bekezdése alapján készletre vételt végzőt [a továbbiakban a)–d) pontok együtt: kötelezett]
 
 terheli.
 
-Reklámhordozó papír esetében az a) pont szerinti első belföldi forgalomba hozatalnak – belföldi előállítás esetén – a nyomdai szolgáltatás teljesítése (nyomtatás és átadás) minősül.
-
 (2a) A (2) bekezdésben foglaltaktól eltérően a termékdíj megfizetése nélkül vagy a termékdíj visszatérítését követően a termékdíj raktárban tárolt, feldolgozott, előállított, újbóli felhasználásra előkészített termékdíjköteles termék, termékdíj raktárból belföldre – a tulajdonjog átruházásával – történő kitárolása, első belföldi forgalomba hozatalnak minősül.
 
-(3) Saját célú felhasználásnak minősül a termékdíjköteles termék, ideértve más termék tartozékaként vagy alkotórészeként, továbbá a csomagolószer esetében a csomagolás részeként:
+(3) Saját célú felhasználásnak minősül a termékdíjköteles termék, ideértve más termék tartozékaként vagy alkotórészeként,:
 
 a) a kötelezett saját vagy alkalmazottja magánszükséglete kielégítésére való felhasználása;
 
@@ -44,9 +40,9 @@ d) minden más, az a)–c) pontokban nem említett használata, ideértve a szol
 
 (3a) A termékdíjköteles termék alapanyagként történő felhasználása esetében a gyártási folyamat során keletkező gyártási selejt, hulladék nem minősül saját célú felhasználásnak. A gyártási selejt, hulladék a hulladékkezelési teljesítményben nem számolható el.
 
-(3b) Nem minősül a (3) bekezdés d) pontja szerinti saját célú felhasználásnak, ha az újrahasználható raklapot a tulajdonos a 3/A. § szerinti engedéllyel bíró bérleti rendszer üzemeltetője számára – az engedélyezett bérleti rendszer keretén belül történő használat céljából – rendelkezésre bocsátja.
+(3b)
 
-(4) A csomagolószer saját célú felhasználásának minősül a csomagolás végleges elválasztása a terméktől – kivéve a belföldi gazdálkodó szervezet tulajdonában lévő külföldről visszahozott újrahasználható csomagolószer elválasztását –, amennyiben a csomagolást alkotó csomagolószer után a termékdíj-kötelezettség nem került korábban teljesítésre vagy a csomagolószer termékdíja visszatérítésre került.
+(4)
 
 (5) Saját célú felhasználás címén keletkezik termékdíj-kötelezettség:
 
@@ -68,33 +64,21 @@ b) a termékdíjköteles termék éves kibocsátási mennyiségéből 0,5%-ot me
 
 a)
 
-b) az alkalmazott
+b)
 
-ba) csomagolószert visszaváltási díjas rendszerben, vagy
-
-bb) újrahasználható csomagolószerek nyilvántartásába a felhasználó kérelmére felvett raklapot a beszerzéstől számított legalább 365 napig újrahasználható csomagolóeszközként csomagolás létrehozására
-
-használja fel,
-
-c) a csomagolóanyagot vagy a csomagolási segédanyagot
-
-ca) mint annak végfelhasználója nem csomagolás előállítására, vagy
-
-cb) más termék előállításához közvetlen anyagként (alapanyagként)
-
-használja fel,
+c)
 
 d) a termékdíjköteles terméket termékdíj raktárba szállítja be,
 
-e) a raklapot a 3/A. § szerinti engedéllyel bíró bérleti rendszer üzemeltetőjeként – a 3/A. § szerinti engedélyezett bérleti rendszer keretében történő használat céljából – vásárolja meg,
+e)
 
-f) a raklapot a 3/A. § szerinti engedéllyel bíró bérleti rendszer üzemeltetője számára a 3/A. § szerinti engedélyezett bérleti rendszer keretében történő használatra átadja,
+f)
 
-g) az irodai papírt ISBN-számmal ellátott könyv, a tankönyvjegyzékbe felvett tankönyv, vagy ISSN-azonosítószámmal rendelkező időszaki kiadvány előállításához közvetlen anyagként (alapanyagként) használja fel.
+g)
 
 (7) A (6) bekezdés szerinti nyilatkozó kötelezettnek minősül, ha a nyilatkozatával ellentétesen jár el, egyébként a kötelezett ellenőrzésére vonatkozó szabályokat kell rá alkalmazni.
 
-(8) Amennyiben a (6) bekezdés szerinti nyilatkozó nem, vagy nem a nyilatkozat tartalma szerint jár el vagy ezt nem tudja igazolni, a termékdíjköteles termék termékdíját és a termékdíj-kötelezettség keletkezésének 5. § (1) bekezdésben meghatározott időpontjától számított késedelmi pótlékot a nyilatkozó köteles megfizetni. E bekezdés szerinti jogkövetkezmény a hulladékhasznosítási teljesítménybe el nem számolható gyártási selejt vagy hulladék esetén nem alkalmazható.
+(8) Amennyiben a (6) bekezdés szerinti nyilatkozó nem, vagy nem a nyilatkozat tartalma szerint jár el vagy ezt nem tudja igazolni, a termékdíjköteles termék termékdíját és a termékdíj-kötelezettség keletkezésének 5. § (1) bekezdésben meghatározott időpontjától számított késedelmi pótlékot a nyilatkozó köteles megfizetni.
 
 (9) A termékdíjköteles termék termékdíját nem kell megfizetni, ha a kötelezett
 
@@ -104,18 +88,14 @@ b) a Magyarországon hulladékká vált egyéb kőolajtermékből újrafinomít�
 
 c) a belföldön hulladékká vált termék az újrafelhasználásra előkészítését vagy a használt termék újbóli felhasználásra történő előkészítését követően létrejött terméket belföldön forgalomba hozza, saját célra felhasználja vagy készletre veszi, a termékbe beépített új termékdíjköteles alkotórészek, tartozékok kivételével;
 
-d) az elkülönített hulladék gyűjtésére szolgáló műanyag zsákot belföldön forgalomba hozza, saját célra felhasználja vagy készletre veszi;
+d)
 
 e)
 
-f) olyan reklámhordozó papírt hoz belföldön forgalomba, használ fel saját célra vagy vesz készletre,
+f)
 
-fa) amely teljes nyomtatott felületére vetítve legfeljebb ötven százalékában gazdasági reklám terjesztésére szolgál, vagy
+(10)
 
-fb) amelyet közhasznú szervezet, állami, önkormányzati szerv alapfeladata körében ad ki.
+(11)
 
-(10) A reklámhordozó papír forgalomba hozatala során a (9) bekezdés f) pontja alapján a termékdíjat abban az esetben nem kell megfizetni, ha a kötelezett megrendelője a megrendelésével egyidejűleg írásban nyilatkozik a (9) bekezdés f) pont alpontjaiban meghatározott feltétel fennállásáról.
-
-(11) Ha a közhasznú szervezet, állami, önkormányzati szerv szerződéses partnere a nyomda megrendelője, abban az esetben a megrendelőnek a (10) bekezdés szerinti nyilatkozata megtétele előtt be kell szereznie a közhasznú szervezet, állami, önkormányzati szerv nyilatkozatát arra vonatkozóan, hogy a megrendelt áru a (9) bekezdés f) pont fb) alpontjában meghatározott feltételeknek megfelel.
-
-(12) A (10) bekezdés szerinti megrendelő kötelezettnek minősül, ha nem a nyilatkozat tartalma szerint jár el, és a termékdíjköteles termék termékdíját, valamint a termékdíj-kötelezettség keletkezésének 5. § (1) bekezdésben meghatározott időpontjától számított késedelmi pótlékot fizeti meg, egyebekben a kötelezett ellenőrzésére vonatkozó szabályokat kell rá alkalmazni.
+(12)

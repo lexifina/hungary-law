@@ -1,5 +1,3 @@
 ## 8/A. Nyilvántartás-vezetési kötelezettség
 
-10/A. § (1) A kötelezett – e törvényben, a Ht.-ben, valamint ezek felhatalmazása alapján kiadott jogszabályokban meghatározottak szerint – a termékdíjköteles termékekkel, hulladékaikkal, továbbá a nem csomagolószerként forgalomba hozott, e törvény végrehajtási rendeletében meghatározott csomagolószer-katalógusban szereplő árukkal kapcsolatos kötelezettségek teljesítésének ellenőrizhetősége céljából a valóságot (tényhelyzetet) tükröző nyilvántartást vezet.
-
-(2)
+10/A. § A kötelezett – az e törvényben, valamint az e törvény végrehajtásáról szóló kormányrendeletben meghatározottak szerint – a termékdíjköteles termékekkel kapcsolatos kötelezettségek teljesítésének ellenőrizhetősége céljából a valóságot (tényhelyzetet) tükröző nyilvántartást vezet.

@@ -14,17 +14,17 @@ d) az Észak-atlanti Szerződés Szervezete Biztonsági Beruházási Programja m
 
 e) a termékdíjköteles termék gyártásához közvetlen anyagként (alapanyag) felhasznált termékdíjköteles termék felhasználása;
 
-f) a 4. § (2) bekezdés d) pontjában meghatározott csomagolószer termékdíj-megállapítási időszakon túli külföldre történő igazolt visszaszállítása;
+f)
 
-g) a csomagolóanyag vagy csomagolási segédanyag esetében, annak – a továbbforgalmazás kivételével – nem csomagolás előállítására való felhasználása;
+g)
 
-h) a csomagolás alkotórészeként forgalomba hozott záróelem kereskedelmi csomagolószerként vagy fém ital-csomagolószerként megfizetett termékdíja
+h)
 
 esetén visszaigényelhető.
 
 (2) A kötelezett az általa befizetett egyéb kőolajtermék termékdíját visszaigényelheti, amelyre vonatkozóan a használt vagy hulladékká vált, a kötelezettnél termékdíjköteles egyéb kőolajtermék anyagában történő hasznosításra történő átadás-átvételének tényét és a hasznosítás tényét igazolja.
 
-(2a) Visszaigényelhető a növényvédőszerrel közvetlenül érintkező, a növényvédőszer csomagolását képező csomagolószerek után megfizetett termékdíjnak azon része, amelyet a visszaigénylő a hulladékkezelés szervezését ellátó non-profit szervezet részére szolgáltatási díjként – a hulladékká vált csomagolást alkotó csomagolószer tömegére vonatkozóan – igazoltan megfizetett.
+(2a)
 
 (2b)
 
