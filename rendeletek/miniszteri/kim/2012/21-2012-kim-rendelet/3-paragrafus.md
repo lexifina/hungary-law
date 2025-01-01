@@ -1,1 +1,3 @@
-## 2. § A statisztikai számjel első eleme (1–8. számjegy) a törzsszám, a gazdasági szervezetek egyedi azonosítója, amely megegyezik az adószám első nyolc számjegyével.
+3. §[^2] A statisztikai számjel második eleme (9–12. számjegy) a főtevékenység szakágazati kódja, amelyet mindig az aktuális, hatályban lévő TEÁOR szerint kell meghatározni, jelen esetben a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról szóló 1893/2006/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2022. október 10-i (EU) 2023/137 felhatalmazáson alapuló bizottsági rendelet szerint. Az aktuális gazdasági tevékenységek statisztikai osztályozása NACE Rev.2.1 rendszerének magyar megnevezése: gazdasági tevékenységek egységes ágazati osztályozási rendszere, rövidítve: TEÁOR’25.
+
+[^2]: A 3. § a 14/2024. (XI. 28.) MK rendelet 4. § (1) bekezdésével megállapított szöveg.

@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-21-20-2
 | 2021-06-01 | 2012-21-20-2T.12 | 22/2014. (III. 13.) KIM rendelet |
 | 2021-07-01 | 2012-21-20-2T.13 | 22/2014. (III. 13.) KIM rendelet |
 | 2023-01-01 | 2012-21-20-2T.14 | 23/2022. (XII. 28.) MK rendelet |
+| 2025-01-01 | 2012-21-20-2T.15 | 14/2024. (XI. 28.) MK rendelet |

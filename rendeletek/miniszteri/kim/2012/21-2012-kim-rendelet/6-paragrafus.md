@@ -1,3 +1,3 @@
-6. §[^2]
+6. §[^4]
 
-[^2]: A 6. §-t a 23/2013. (IX. 30.) KIM rendelet 5. § (2) bekezdése hatályon kívül helyezte.
+[^4]: A 6. §-t a 23/2013. (IX. 30.) KIM rendelet 5. § (2) bekezdése hatályon kívül helyezte.

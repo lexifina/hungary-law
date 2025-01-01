@@ -342,8 +342,6 @@
 
 |  |  | 961 | Háztartás |
 
-3. melléklet a 21/2012. (IV. 16.) KIM rendelethez[^7]
+3. melléklet a 21/2012. (IV. 16.) KIM rendelethez[^9]
 
-A gazdasági szervezetek székhelye szerinti vármegyét kifejező nómenklatúra
-
-[^7]: A 3. melléklet a 23/2022. (XII. 28.) MK rendelet 2. §-ával megállapított szöveg.
+[^9]: A 3. mellékletet a 14/2024. (XI. 28.) MK rendelet 5. §-a hatályon kívül helyezte.
