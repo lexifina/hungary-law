@@ -1,0 +1,1 @@
+4. § A kritikus szervezetek és a kritikus infrastruktúrák hatósági nyilvántartásában (a továbbiakban: hatósági nyilvántartás) szereplő kritikus szervezet ellenálló képességéért felelős vezető a KOK által szervezett továbbképzéseken legalább évente egy alkalommal köteles részt venni. A teljes óraszám 10%-ánál magasabb arányú hiányzás esetén a továbbképzést meg kell ismételni.
