@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2024-61-00-00
 | --- | --- | --- |
 | 2024-12-05 | 2024. évi LXI. törvény | 2024-61-00-00.0 (közlönyállapot) |
 | 2024-12-05 | Nemzeti Jogszabálytár (egységes szerkezet) | 2024-61-00-00.1 |
+| 2025-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2024-61-00-00.2 |
