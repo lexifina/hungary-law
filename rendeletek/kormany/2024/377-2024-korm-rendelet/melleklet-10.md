@@ -1,3 +1,7 @@
-10. melléklet a 377/2024. (XII. 6.) Korm. rendelethez[^13]
+## „8. melléklet a 388/2017. (XII. 13.) Korm. rendelethez
 
-[^13]: A 10. melléklet a 4. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+## 4X08888.pdf
+
+## ”
+
+10. melléklet a 377/2024. (XII. 6.) Korm. rendelethez
