@@ -20,7 +20,7 @@
 
 a) a szabályozott ingatlanbefektetési társaságokról szóló törvény hatálya alá nem tartozó kapcsolt vállalkozásával kötött ügyletből származó, a bevétellel arányos adóalapra,
 
-b) a főtevékenységként épületépítési projekt szervezésével (TEÁOR 4110) foglalkozó gazdasági társaságban fennálló, 10%-ot meghaladó részesedése
+b) a főtevékenységként ingatlanfejlesztéssel (TEÁOR’25 6812) foglalkozó gazdasági társaságban fennálló, 10%-ot meghaladó részesedése
 
 ba) értékesítésének adóévi árfolyamnyereségére, és
 

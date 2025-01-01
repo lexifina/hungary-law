@@ -12,7 +12,7 @@ A társasági adóalanynak nem minősülő szervezetek
 
 5. a Közlekedési, Hírközlési és Vízügyi Tartalékgazdálkodási Közhasznú Társaság, illetve a tevékenységét folytató nonprofit gazdasági társaság,
 
-6. a Magyar Nemzeti Vagyonkezelő Zrt., a Maradványvagyon-hasznosító Zártkörűen Működő Részvénytársaság,
+6. a Magyar Nemzeti Vagyonkezelő Zrt.,
 
 7. a jogszabályban meghatározott közszolgálati médiaszolgáltatók,
 
@@ -31,7 +31,3 @@ A társasági adóalanynak nem minősülő szervezetek
 14. a Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításáról szóló 2018. évi CIII. törvény szerinti Lebonyolító,
 
 15. az az adózó, aki az adóévben a kisvállalati adó alanya.
-
-16. az Országos Betétbiztosítási Alap, a pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló törvényben meghatározott Szanálási Alap, a Befektető-védelmi Alap és a tőkepiac stabilitásának erősítése érdekében tett egyes kárrendezési intézkedésekről szóló 2015. évi CCXIV. törvény szerinti Kárrendezési Alap.
-
-17. a nemzeti otthonteremtési közösségek.
