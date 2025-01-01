@@ -1,4 +1,4 @@
-1. melléklet a 308/2010. (XII. 23.) Korm. rendelethez
+1. melléklet a 308/2010. (XII. 23.) Korm. rendelethez[^29]
 
 A szervezet
 
@@ -34,6 +34,8 @@ P. H.
 
 .................................................
 
-Főigazgató
+főispán
 
-General Director
+capital and county government commissioner
+
+[^29]: Az 1. melléklet a 416/2024. (XII. 20.) Korm. rendelet 15. §-a szerint módosított szöveg.

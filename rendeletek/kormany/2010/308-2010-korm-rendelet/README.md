@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-308-20-
 | 2016-01-01 | 2010-308-20-22.7 | 527/2013. (XII. 30.) Korm. rendelet |
 | 2017-01-01 | 2010-308-20-22.8 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2018-01-01 | 2010-308-20-22.9 | 70/2015. (III. 30.) Korm. rendelet |
+| 2025-01-01 | 2010-308-20-22.10 | 416/2024. (XII. 20.) Korm. rendelet |
