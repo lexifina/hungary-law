@@ -248,7 +248,9 @@ A kormányzati funkciók rendje
 
 042170 Élelmiszerlánc-biztonság igazgatása
 
-042180 Állat-egészségügy
+042180 Állat-egészségügy (kivéve: kóbor állatokkal kapcsolatos feladatok)
+
+042181 Kóbor állatokkal kapcsolatos feladatok
 
 0422 Erdőgazdálkodás
 
@@ -908,7 +910,7 @@ A kormányzati funkciók rendje
 
 098062 Fejlesztő nevelés-oktatás működtetési feladatai
 
-10. Szociális védelem
+10.[^5] Szociális védelem
 
 1011 Betegség
 
@@ -1030,9 +1032,11 @@ A kormányzati funkciók rendje
 
 104052 Családtámogatások
 
-104060 A gyermekek, fiatalok és családok életminőségét javító programok
+104060 A gyermekek, fiatalok és családok életminőségét javító programok (kivéve: tanoda)
 
 104070 A gyermeki jogok érvényre juttatásával összefüggő feladatok
+
+104080 Tanoda
 
 1050 Munkanélküliség
 
@@ -1113,4 +1117,5 @@ A kormányzati funkciók rendje
 900090 Vállalkozási tevékenységek kiadásai és bevételei
 
 [^3]: Az 1. melléklet 2. pontja az 1/2023. (III. 6.) PM rendelet 2. § 1. pontja szerint módosított szöveg.
-[^4]: Az 1. melléklet 4. pontja az 1/2023. (III. 6.) PM rendelet 4. § 1. pontja szerint módosított szöveg.
+[^4]: Az 1. melléklet 4. pontja a 7/2024. (XII. 31.) PM rendelet 2. § (1) bekezdés 1. pontjával megállapított szöveg.
+[^5]: Az 1. melléklet 10. pontja a 7/2024. (XII. 31.) PM rendelet 2. § (1) bekezdés 1. pontjával megállapított szöveg.

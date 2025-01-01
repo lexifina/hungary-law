@@ -162,11 +162,11 @@ Tartalmi meghatározások a kormányzati funkciókhoz
 
 | 78 |  | 018020 Központi költségvetési befizetések |
 
-| 79[^5] |  |  | Ide tartozik: – a helyi önkormányzatok törvényi előíráson alapuló befizetése (különösen a helyi önkormányzatok szolidaritási hozzájárulás jogcímen teljesített befizetése), illetve a központi költségvetés részére történő, funkcióhoz nem köthető befizetés, visszafizetés teljesítése. Technikai-pénzforgalmi funkció, alapító okiratban nem szerepeltethető. Nem ebbe a funkcióba tartozik: – az önkormányzatok funkcióhoz nem köthető elszámolása a központi költségvetéssel. |
+| 79[^6] |  |  | Ide tartozik: – a helyi önkormányzatok törvényi előíráson alapuló befizetése (különösen a helyi önkormányzatok szolidaritási hozzájárulás jogcímen teljesített befizetése), illetve a központi költségvetés részére történő, funkcióhoz nem köthető befizetés, visszafizetés teljesítése. Technikai-pénzforgalmi funkció, alapító okiratban nem szerepeltethető. Nem ebbe a funkcióba tartozik: – az önkormányzatok funkcióhoz nem köthető elszámolása a központi költségvetéssel. |
 
 | 80 |  | 018030 Támogatási célú finanszírozási műveletek |
 
-| 81[^6] |  |  | Ide tartozik: – a költségvetési maradvány igénybevétele, a vállalkozási maradvány igénybevétele alaptevékenységre, – az államháztartás központi alrendszerében a központi támogatás, az önkormányzati alrendszerében az irányító szerv által nyújtott támogatás, – az egészségügyről szóló 1997. évi CLIV. törvény 155. § (10) bekezdésében meghatározott városi intézmény és az irányító vármegyei intézmény közötti feladatmegosztáshoz kapcsolódó pénzeszköz átadás-átvétel. A kormányzati funkciót a felsőoktatási intézmények nem használhatják, finanszírozási bevételeiket a felhasználás célja szerinti kormányzati funkción kell elszámolniuk. Technikai-pénzforgalmi funkció, alapító okiratban nem szerepeltethető. Ezen a kormányzati funkción kell kimutatni az államháztartás önkormányzati alrendszerében azokat a transzferjellegű pénzeszközátadásokat, amelyeket finanszírozási céllal teljesítenek egymás között az államháztartási szervek. |
+| 81[^7] |  |  | Ide tartozik: – a költségvetési maradvány igénybevétele, a vállalkozási maradvány igénybevétele alaptevékenységre, – az államháztartás központi alrendszerében a központi támogatás, az önkormányzati alrendszerében az irányító szerv által nyújtott támogatás, – az egészségügyről szóló 1997. évi CLIV. törvény 155. § (10) bekezdésében meghatározott városi intézmény és az irányító vármegyei intézmény közötti feladatmegosztáshoz kapcsolódó pénzeszköz átadás-átvétel. A kormányzati funkciót a felsőoktatási intézmények nem használhatják, finanszírozási bevételeiket a felhasználás célja szerinti kormányzati funkción kell elszámolniuk. Technikai-pénzforgalmi funkció, alapító okiratban nem szerepeltethető. Ezen a kormányzati funkción kell kimutatni az államháztartás önkormányzati alrendszerében azokat a transzferjellegű pénzeszközátadásokat, amelyeket finanszírozási céllal teljesítenek egymás között az államháztartási szervek. |
 
 | 82 |  | 018040 Elkülönített állami pénzalapok bevételei államháztartáson belülről |
 
@@ -218,17 +218,17 @@ Tartalmi meghatározások a kormányzati funkciókhoz
 
 | 17 | 0250 Egyéb védelmi ügyek |
 
-| 18[^7] |  | 025010 Védelmi és biztonsági feladatok igazgatása és szabályozása |
+| 18[^8] |  | 025010 Védelmi és biztonsági feladatok igazgatása és szabályozása |
 
-| 19[^8] |  |  | Ide tartozik: – a honvédelmi és katonai vezetés-irányítási feladatok keretében a kormányzati döntések végrehajtásával, valamint az ellenőrzési, szabályozási, hatósági, szakhatósági tevékenységekkel és a hadisírgondozási tevékenységgel összefüggő feladatok ellátása, – védelmi és biztonsági feladatok összehangolásával kapcsolatos feladatok ellátása. |
+| 19[^9] |  |  | Ide tartozik: – a honvédelmi és katonai vezetés-irányítási feladatok keretében a kormányzati döntések végrehajtásával, valamint az ellenőrzési, szabályozási, hatósági, szakhatósági tevékenységekkel és a hadisírgondozási tevékenységgel összefüggő feladatok ellátása, – védelmi és biztonsági feladatok összehangolásával kapcsolatos feladatok ellátása. |
 
 | 20 |  | 025020 Védelmi célú stratégiai tartalékok tárolása, kezelése |
 
-| 21[^9] |  |  | Ide tartozik: – a védelmi feladatok békeidőbeli zavartalan ellátásának biztosítása, illetve katasztrófa vagy különleges jogrend esetére, a védelmi és biztonsági, a polgári, valamint a honvédelmi feladatok ellátása céljából a védelmi célú stratégiai tartalék fenntartásával, a készletekkel és a készletek tárolására szolgáló ingatlanokkal összefüggő feladatok ellátása. |
+| 21[^10] |  |  | Ide tartozik: – a védelmi feladatok békeidőbeli zavartalan ellátásának biztosítása, illetve katasztrófa vagy különleges jogrend esetére, a védelmi és biztonsági, a polgári, valamint a honvédelmi feladatok ellátása céljából a védelmi célú stratégiai tartalék fenntartásával, a készletekkel és a készletek tárolására szolgáló ingatlanokkal összefüggő feladatok ellátása. |
 
 | 22 |  | 025090 Egyéb védelmi ügyek |
 
-| 23[^10] |  |  | Ide tartozik: – a más funkcióba nem sorolható egyéb védelmi és biztonsági ügyekkel összefüggő feladatok ellátása. |
+| 23[^11] |  |  | Ide tartozik: – a más funkcióba nem sorolható egyéb védelmi és biztonsági ügyekkel összefüggő feladatok ellátása. |
 
 3. Közrend és közbiztonság
 
@@ -386,9 +386,9 @@ Tartalmi meghatározások a kormányzati funkciókhoz
 
 | 22 |  |  | Ide tartozik: - az egészséget nem veszélyeztető és biztonságos munkavégzés céljainak támogatásával, valamint a közcélú állami Munkavédelmi Információs Rendszer (a továbbiakban: MIR) folyamatos működtetésével, ennek keretében a Munkavédelmi Tanácsadó Szolgálat által a munkavédelmi szabályok munkáltatók általi betartásának, a munkahelyi balesetek megelőzésének érdekében tájékoztató, felvilágosító tevékenység végzésével összefüggő feladatok ellátása. |
 
-| 23[^11] |  |
+| 23[^12] |  |
 
-| 24[^12] |  |
+| 24[^13] |  |
 
 | 25 |  | 041232 Start-munka program – Téli közfoglalkoztatás |
 
@@ -442,7 +442,11 @@ Tartalmi meghatározások a kormányzati funkciókhoz
 
 | 50 |  | 042180 Állat-egészségügy |
 
-| 51 |  |  | Ide tartozik: - a mezőgazdasági haszonállatokkal, hobbiállatokkal és egyéb állatokkal kapcsolatos állatgyógyászati és betegségmegelőző tevékenységgel összefüggő feladatok ellátása. |
+| 51 |  |  | Ide tartozik: - a mezőgazdasági haszonállatokkal, hobbiállatokkal és egyéb állatokkal kapcsolatos állatgyógyászati és betegségmegelőző tevékenységgel összefüggő feladatok ellátása. Nem ebbe a funkcióba tartozik: – a település belterületén a kóbor állatok befogásával, ideiglenes és végleges elhelyezésével kapcsolatos feladatok ellátása (042181)[^14] |
+
+| 51a[^15] |  | 042181 Kóbor állatokkal kapcsolatos feladatok |
+
+| 51b[^16] |  |  | Ide tartozik: a település belterületén a kóbor állatok befogásával, ideiglenes és végleges elhelyezésével kapcsolatos feladatok ellátása |
 
 | 52 | 0422 Erdőgazdálkodás |
 
@@ -1190,7 +1194,7 @@ Tartalmi meghatározások a kormányzati funkciókhoz
 
 | 24 |  | 081071 Üdülői szálláshely-szolgáltatás és étkeztetés |
 
-| 25 |  |  | Ide tartozik: - a jellemzően napi vagy heti, elsősorban rövid időtartamú tartózkodás céljára nyújtott szálláshely-szolgáltatással és étkeztetéssel, illetve működtetésük vagy igénybevételük támogatásával összefüggő feladatok ellátása, kifizetések teljesítése. (Ezek a szálláshelyek különböző formában működhetnek, egyáltalán nem vagy minimális kiegészítő szolgáltatásokat nyújtanak. Jellemzően ilyenek: gyermeküdülő, egyéb üdülőház, vendégház és bungaló, falusi ház és faház háztartási szolgáltatások nélkül, ifjúsági szálló, turistaszálló, hegyi menedékhely, bivakszállás, szabadtéri terület biztosítása sátrak, hálózsákok elhelyezésére.)[^13] |
+| 25 |  |  | Ide tartozik: - a jellemzően napi vagy heti, elsősorban rövid időtartamú tartózkodás céljára nyújtott szálláshely-szolgáltatással és étkeztetéssel, illetve működtetésük vagy igénybevételük támogatásával összefüggő feladatok ellátása, kifizetések teljesítése. (Ezek a szálláshelyek különböző formában működhetnek, egyáltalán nem vagy minimális kiegészítő szolgáltatásokat nyújtanak. Jellemzően ilyenek: gyermeküdülő, egyéb üdülőház, vendégház és bungaló, falusi ház és faház háztartási szolgáltatások nélkül, ifjúsági szálló, turistaszálló, hegyi menedékhely, bivakszállás, szabadtéri terület biztosítása sátrak, hálózsákok elhelyezésére.)[^17] |
 
 | 26 | 0820 Kulturális szolgáltatások |
 
@@ -1220,7 +1224,7 @@ Tartalmi meghatározások a kormányzati funkciókhoz
 
 | 39 |  | 082044 Könyvtári szolgáltatások |
 
-| 40 |  |  | Ide tartozik: - a rendelkezésre bocsátással (a könyvtárak gyűjteményének használókhoz való eljuttatása helyben használat, kölcsönzés és könyvtárközi kölcsönzés útján), a könyvtári tájékoztatással (a használóknak szóló információ-szolgáltatás, amelynek speciális feladata az adott könyvtár és a könyvtári rendszer dokumentumairól és szolgáltatásairól való tájékoztatás), - a megrendelhető könyvtári szolgáltatásokkal (a vármegyei és nagyobb városi könyvtárak által nyújtott könyvtári szolgáltatások, olyan kistelepülések számára, ahol az önkormányzat nem tart fenn könyvtárat), valamint - a könyvtárak közönségkapcsolati és egyéb tevékenységével összefüggő feladatok ellátása.[^14] |
+| 40 |  |  | Ide tartozik: - a rendelkezésre bocsátással (a könyvtárak gyűjteményének használókhoz való eljuttatása helyben használat, kölcsönzés és könyvtárközi kölcsönzés útján), a könyvtári tájékoztatással (a használóknak szóló információ-szolgáltatás, amelynek speciális feladata az adott könyvtár és a könyvtári rendszer dokumentumairól és szolgáltatásairól való tájékoztatás), - a megrendelhető könyvtári szolgáltatásokkal (a vármegyei és nagyobb városi könyvtárak által nyújtott könyvtári szolgáltatások, olyan kistelepülések számára, ahol az önkormányzat nem tart fenn könyvtárat), valamint - a könyvtárak közönségkapcsolati és egyéb tevékenységével összefüggő feladatok ellátása.[^18] |
 
 | 41 |  | 082051 Levéltári állomány gyarapítása, kezelése és védelme |
 
@@ -1804,7 +1808,7 @@ Tartalmi meghatározások a kormányzati funkciókhoz
 
 | 94 |  | 104030 Gyermekek napközbeni ellátása családi bölcsőde, munkahelyi bölcsőde, napközbeni gyermekfelügyelet vagy alternatív napközbeni ellátás útján |
 
-| 95 |  |  | Ide tartozik: - a bölcsődei ellátások közül a családi bölcsődével és a munkahelyi bölcsődével, a napközbeni gyermekfelügyeletben részesülők ellátásával, valamint a Gyvt. hatálya alá tartozó alternatív napközbeni ellátásokkal összefüggő feladatok ellátása, kifizetések teljesítése. Nem itt kell elszámolni: - a bölcsődei ellátások közül a bölcsőde és mini bölcsőde szervezeti keretei között megvalósuló feladatok ellátását (104031), - a gyermekétkeztetéssel kapcsolatos feladatok bevételeit és kiadásait. Feladatmutató: ellátottak száma a tárgyévben (fő) |
+| 95[^19] |  |  | Ide tartozik: - a bölcsődei ellátások közül a családi bölcsődével és a munkahelyi bölcsődével, a napközbeni gyermekfelügyeletben részesülők ellátásával, valamint a Gyvt. hatálya alá tartozó alternatív napközbeni ellátásokkal összefüggő feladatok ellátása, kifizetések teljesítése. Nem itt kell elszámolni: - a bölcsődei ellátások közül a bölcsőde és mini bölcsőde szervezeti keretei között megvalósuló feladatok ellátását (104031). |
 
 | 96 |  | 104031 Gyermekek bölcsődében és mini bölcsődében történő ellátása |
 
@@ -1846,13 +1850,17 @@ Tartalmi meghatározások a kormányzati funkciókhoz
 
 | 115 |  |  | Ide tartozik: - a családi pótlék, anyasági támogatás, gyermekgondozást segítő ellátás, gyermeknevelési támogatás, gyermek születésével kapcsolatos szabadság megtérítése, csecsemőgondozási díj, a gyermekgondozási díj és egyéb, a családok támogatásával összefüggő kifizetések teljesítése. Támogatási típusú funkció, az alapító okiratban alaptevékenységként nem szerepelhet. |
 
-| 116 |  | 104060 A gyermekek, fiatalok és családok életminőségét javító programok |
+| 116 |  | 104060 A gyermekek, fiatalok és családok életminőségét javító programok (kivéve: tanoda)[^20] |
 
-| 117 |  |  | Ide tartozik: - a hátrányos helyzetű gyermekek, fiatalok és családok életminőségét javító programokkal, - a hátrányos helyzetű gyermekek, fiatalok részére nyújtott speciális tehetséggondozó programokkal összefüggő feladatok ellátása, kifizetések teljesítése. |
+| 117 |  |  | Ide tartozik: - a hátrányos helyzetű gyermekek, fiatalok és családok életminőségét javító programokkal, - a hátrányos helyzetű gyermekek, fiatalok részére nyújtott speciális tehetséggondozó programokkal összefüggő feladatok ellátása, kifizetések teljesítése. Nem ebbe a funkcióba tartozik: – tanoda (104080).[^21] |
 
 | 118 |  | 104070 A gyermeki jogok érvényre juttatásával összefüggő feladatok |
 
 | 119 |  |  | Ide tartozik: - a gyermekek jogairól szóló ENSZ egyezményben rögzített feladatokkal, - az európai uniós és Európa tanácsi dokumentumokban foglalt jelentési és együttműködési kötelezettséggel összefüggő feladatok ellátása. |
+
+| 119a[^22] |  | 104080 Tanoda |
+
+| 119b[^23] |  |  | Ide tartozik: Elsősorban rendszeres gyermekvédelmi kedvezményben részesülő, vagy hátrányos helyzetű vagy halmozottan hátrányos helyzetű gyermekek és kivételesen fiatal felnőttek számára nyújtott, önkéntesen igénybe vehető társadalmi felzárkózást segítő, a személyiségfejlődés egészét szem előtt tartó, prevenciós szolgáltatást nyújtó tanoda működtetésével összefüggő feladatok ellátása. Feladatmutató: ellátottak száma a tárgyévben (fő) |
 
 | 120 | 1050 Munkanélküliség |
 
@@ -1898,7 +1906,7 @@ Tartalmi meghatározások a kormányzati funkciókhoz
 
 | 141 |  | 107020 Családon belüli erőszak sértettjeinek bentlakásos ellátása |
 
-| 142 |  |  | Ide tartozik: - a Regionális Kríziskezelő Központok és a Félutas Kiléptető Házak működtetésével, annak támogatásával összefüggő feladatok ellátása, kifizetések teljesítése. Feladatmutató: ellátottak száma a tárgyévben (fő) |
+| 142 |  |  | Ide tartozik: - a krízisközpont, a titkos menedékház és a félutasház-szolgáltatás működtetésével, annak támogatásával összefüggő feladatok ellátása, kifizetések teljesítése. Feladatmutató: ellátottak száma a tárgyévben (fő)[^24] |
 
 | 143 |  | 107030 Szociális foglalkoztatás, fejlesztő foglalkoztatás |
 
@@ -1998,13 +2006,22 @@ Tartalmi meghatározások a kormányzati funkciókhoz
 
 | 15 |  |  | Ide tartozik: - a vállalkozási maradvány igénybevétele vállalkozási tevékenységre, - a vállalkozási tevékenységek kiadásainak és bevételeinek összesített elszámolása. Technikai-pénzforgalmi funkció, alapító okiratban nem szerepeltethető. |
 
-[^5]: A 2. melléklet 1. pontjában foglalt táblázat 79. sora az 1/2023. (III. 6.) PM rendelet 2. § 2. pontjával megállapított szöveg.
-[^6]: A 2. melléklet 1. pontjában foglalt táblázat 81. sora az 1/2023. (III. 6.) PM rendelet 2. § 2. pontjával megállapított szöveg.
-[^7]: A 2. melléklet 2. pontjában foglalt táblázat 18. sora az 1/2023. (III. 6.) PM rendelet 2. § 2. pontjával megállapított szöveg.
-[^8]: A 2. melléklet 2. pontjában foglalt táblázat 19. sora az 1/2023. (III. 6.) PM rendelet 2. § 2. pontjával megállapított szöveg.
-[^9]: A 2. melléklet 2. pontjában foglalt táblázat 21. sora az 1/2023. (III. 6.) PM rendelet 2. § 2. pontjával megállapított szöveg.
-[^10]: A 2. melléklet 2. pontjában foglalt táblázat 23. sora az 1/2023. (III. 6.) PM rendelet 2. § 2. pontjával megállapított szöveg.
-[^11]: A 2. melléklet 4. pontjában foglalt táblázat 23. sorát az 1/2023. (III. 6.) PM rendelet 4. § 2. pontja hatályon kívül helyezte.
-[^12]: A 2. melléklet 4. pontjában foglalt táblázat 24. sorát az 1/2023. (III. 6.) PM rendelet 4. § 2. pontja hatályon kívül helyezte.
-[^13]: [A 2. melléklet 8. pontjában foglalt táblázat C:25 mezőben az 1/2023. (III. 6.) PM rendelet 3. § 1. pontja által elrendelt módosítás, amely szerint a „szálláshelyszolgáltatással” szövegrész helyébe a „szálláshely-szolgáltatással” szöveg, nem vezethető át.]
-[^14]: A 2. melléklet 8. pontjában foglalt táblázat C:40 mezője az 1/2023. (III. 6.) PM rendelet 3. § 2. pontja szerint módosított szöveg.
+[^6]: A 2. melléklet 1. pontjában foglalt táblázat 79. sora az 1/2023. (III. 6.) PM rendelet 2. § 2. pontjával megállapított szöveg.
+[^7]: A 2. melléklet 1. pontjában foglalt táblázat 81. sora az 1/2023. (III. 6.) PM rendelet 2. § 2. pontjával megállapított szöveg.
+[^8]: A 2. melléklet 2. pontjában foglalt táblázat 18. sora az 1/2023. (III. 6.) PM rendelet 2. § 2. pontjával megállapított szöveg.
+[^9]: A 2. melléklet 2. pontjában foglalt táblázat 19. sora az 1/2023. (III. 6.) PM rendelet 2. § 2. pontjával megállapított szöveg.
+[^10]: A 2. melléklet 2. pontjában foglalt táblázat 21. sora az 1/2023. (III. 6.) PM rendelet 2. § 2. pontjával megállapított szöveg.
+[^11]: A 2. melléklet 2. pontjában foglalt táblázat 23. sora az 1/2023. (III. 6.) PM rendelet 2. § 2. pontjával megállapított szöveg.
+[^12]: A 2. melléklet 4. pontjában foglalt táblázat 23. sorát az 1/2023. (III. 6.) PM rendelet 4. § 2. pontja hatályon kívül helyezte.
+[^13]: A 2. melléklet 4. pontjában foglalt táblázat 24. sorát az 1/2023. (III. 6.) PM rendelet 4. § 2. pontja hatályon kívül helyezte.
+[^14]: A 2. melléklet 4. pontjában foglalt táblázat C:51 mezője a 7/2024. (XII. 31.) PM rendelet 3. § 1. pontja szerint módosított szöveg.
+[^15]: A 2. melléklet 4. pontjában foglalt táblázat 51a. sorát a 7/2024. (XII. 31.) PM rendelet 2. § (1) bekezdés 2. pontja iktatta be.
+[^16]: A 2. melléklet 4. pontjában foglalt táblázat 51b. sorát a 7/2024. (XII. 31.) PM rendelet 2. § (1) bekezdés 2. pontja iktatta be.
+[^17]: [A 2. melléklet 8. pontjában foglalt táblázat C:25 mezőben az 1/2023. (III. 6.) PM rendelet 3. § 1. pontja által elrendelt módosítás, amely szerint a „szálláshelyszolgáltatással” szövegrész helyébe a „szálláshely-szolgáltatással” szöveg, nem vezethető át.]
+[^18]: A 2. melléklet 8. pontjában foglalt táblázat C:40 mezője az 1/2023. (III. 6.) PM rendelet 3. § 2. pontja szerint módosított szöveg.
+[^19]: A 2. melléklet 10. pontjában foglalt táblázat 95. sora a 7/2024. (XII. 31.) PM rendelet 2. § (1) bekezdés 2. pontjával megállapított szöveg.
+[^20]: A 2. melléklet 10. pontjában foglalt táblázat B:116-C:116 mezője a 7/2024. (XII. 31.) PM rendelet 3. § 2. pontja szerint módosított szöveg.
+[^21]: A 2. melléklet 10. pontjában foglalt táblázat C:117 mezője a 7/2024. (XII. 31.) PM rendelet 3. § 3. pontja szerint módosított szöveg.
+[^22]: A 2. melléklet 10. pontjában foglalt táblázat 119a. sorát a 7/2024. (XII. 31.) PM rendelet 2. § (1) bekezdés 2. pontja iktatta be.
+[^23]: A 2. melléklet 10. pontjában foglalt táblázat 119b. sorát a 7/2024. (XII. 31.) PM rendelet 2. § (1) bekezdés 2. pontja iktatta be.
+[^24]: A 2. melléklet 10. pontjában foglalt táblázat C:142 mezője a 7/2024. (XII. 31.) PM rendelet 3. § 4. pontja szerint módosított szöveg.
