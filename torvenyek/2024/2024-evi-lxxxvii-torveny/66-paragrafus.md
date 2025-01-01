@@ -4,33 +4,33 @@
 
 2. 15. § (3) bekezdésében az „a 13” szövegrész helyébe az „a (4a) bekezdés szerinti esetben a 13” szöveg,
 
-3. 22. § (1) bekezdésében az „A nagyvállalat” szövegrész helyébe az „Az energetikai auditálásra kötelezett gazdálkodó szervezet” szöveg,
+3.
 
-4. 22. § (5) bekezdésében az „a nagyvállalatnak” szövegrész helyébe az „az energetikai auditálásra kötelezett gazdálkodó szervezetnek” szöveg és a „nagyvállalatra” szövegrész helyébe az „energetikai auditálásra kötelezett gazdálkodó szervezetre” szöveg,
+4.
 
-5. 22/A. § (1) bekezdésében az „A nagyvállalatnak” szövegrész helyébe az „Az energetikai auditálásra kötelezett gazdálkodó szervezetnek” szöveg,
+5.
 
-6. 22/A. § (2) bekezdésében az „A nagyvállalatnak” szövegrész helyébe az „Az energetikai auditálásra kötelezett gazdálkodó szervezetnek” szöveg,
+6.
 
-7. 22/A. § (3) bekezdésében az „a nagyvállalatnak” szövegrész helyébe az „az energetikai auditálásra kötelezett gazdálkodó szervezetnek” szöveg és a „nagyvállalatnak” szövegrész helyébe az „az energetikai auditálásra kötelezett gazdálkodó szervezetnek” szöveg,
+7.
 
-8. 22/B. § (2) bekezdés a) pontjában az „a nagyvállalatot” szövegrész helyébe az „az energetikai auditálásra kötelezett gazdálkodó szervezetet” szöveg,
+8.
 
-9. 22/B. § (4) bekezdésében a „nagyvállalat” szövegrész helyébe az „energetikai auditálásra kötelezett gazdálkodó szervezet” szöveg,
+9.
 
-10. 22/B. § (5) bekezdésében a „nagyvállalatokról” szövegrész helyébe az „energetikai auditálásra kötelezett gazdálkodó szervezetekről” szöveg és az „a nagyvállalat” szövegrész helyébe az „az energetikai auditálásra kötelezett gazdálkodó szervezet” szöveg,
+10.
 
-11. 22/C. § (1) bekezdésében az „A nagyvállalat” szövegrész helyébe az „Az energetikai auditálásra kötelezett gazdálkodó szervezet” szöveg és a „nagyvállalatnak” szövegrész helyébe az „energetikai auditálásra kötelezett gazdálkodó szervezetnek” szöveg,
+11.
 
-12. 22/C. § (3) bekezdés a) pontjában az „a nagyvállalatot” szövegrész helyébe az „az energetikai auditálásra kötelezett gazdálkodó szervezetet” szöveg,
+12.
 
-13. 24. § (6) bekezdésében az „a nagyvállalattól” szövegrész helyébe az „az energetikai auditálásra kötelezett gazdálkodó szervezettől” szöveg,
+13.
 
-14. 25. § (1) bekezdés a) pontjában az „a nagyvállalatot” szövegrész helyébe az „az energetikai auditálásra kötelezett gazdálkodó szervezetet” szöveg,
+14.
 
-15. 26. § (5) bekezdésében az „a nagyvállalatot értesíti. A nagyvállalatnak” szövegrész helyébe az „az energetikai auditálásra kötelezett gazdálkodó szervezetet értesíti. Az energetikai auditálásra kötelezett gazdálkodó szervezetnek” szöveg,
+15.
 
-16. 26. § (7) bekezdésében az „a nagyvállalat” szövegrész helyébe az „az energetikai auditálásra kötelezett gazdálkodó szervezet” szöveg,
+16.
 
 17. 25. alcím címében a „szabályai” szövegrész helyébe a „szabályai, tanúsítási, képesítési rendszerek értékelése” szöveg,
 

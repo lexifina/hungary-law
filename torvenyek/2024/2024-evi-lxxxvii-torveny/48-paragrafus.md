@@ -12,11 +12,7 @@
 
 ## „1a. effektív névleges teljesítmény: a gyártó által előírt és garantált maximális leadott hőteljesítmény (kW-ban kifejezve), amely a folyamatos működés során átadható, ugyanakkor megfelel a gyártó által megjelölt hasznos teljesítménynek;”
 
-(3) Az energiahatékonyságról szóló 2015. évi LVII. törvény 1. §-a a következő 2c. ponttal egészül ki:
-
-(E törvény alkalmazásában:)
-
-## „2c. energetikai auditálásra kötelezett gazdálkodó szervezet: az a gazdálkodó szervezet, amelynek a tárgyévet megelőző három évben az éves energiafogyasztásának átlaga az összes energiahordozót együttvéve meghaladja a 10 TJ-t, azzal, hogy a mérés nélkül továbbadott energia a továbbadó fogyasztásának számít;”
+(3)
 
 (4) Az energiahatékonyságról szóló 2015. évi LVII. törvény 1. § 3. pontja helyébe a következő rendelkezés lép:
 

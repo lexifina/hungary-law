@@ -1,6 +1,6 @@
 47. § Hatályát veszti az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény
 
-1. 1. § (2a) bekezdése,
+1.
 
 2. 2. § 9. pontja,
 
@@ -12,7 +12,7 @@
 
 6. 2. § 29. pont a) alpontja,
 
-7. 2. § 32. pontja,
+7.
 
 8. 2. § 39–41. pontja,
 

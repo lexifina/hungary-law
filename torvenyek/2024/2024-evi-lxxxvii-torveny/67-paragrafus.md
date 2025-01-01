@@ -2,18 +2,6 @@
 
 a) 15. § (1) bekezdés e)–g) pontja,
 
-b) 22. § (4) és (4a) bekezdése,
+b)
 
-c) 22. § (6) bekezdése,
-
-|
-
-Dr. Sulyok Tamás s. k.,
-
-köztársasági elnök
-
-|
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
+c)
