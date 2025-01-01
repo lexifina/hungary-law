@@ -24,7 +24,7 @@ d) felügyeli a pilot működését, és értékeli a működés tapasztalatait,
 
 e) a pilot működésének felügyelete által és a működési tapasztalatok alapján javaslatot tesz az EMAP kiterjesztéséhez szükséges intézkedésekre az informatikai fejlesztések, a jogszabályi feltételek és az intézményi struktúra vonatkozásában.
 
-4b.[^5] A kormánybiztos tevékenységét a 4a. pont szerinti feladatkörében a pénzügyminiszter irányítja.
+4b.[^5] A kormánybiztos tevékenységét a 4a. pont szerinti feladatkörében a nemzetgazdasági miniszter irányítja.
 
 5. A kormánybiztos tevékenységét titkárság nem segíti.
 
@@ -36,4 +36,4 @@ e) a pilot működésének felügyelete által és a működési tapasztalatok a
 [^2]: A 3. pont az 1055/2023. (II. 27.) Korm. határozat 1. pontjával megállapított szöveg.
 [^3]: A 4. pont az 1055/2023. (II. 27.) Korm. határozat 2. pontjával megállapított szöveg.
 [^4]: A 4a. pontot az 1055/2023. (II. 27.) Korm. határozat 3. pontja iktatta be.
-[^5]: A 4b. pontot az 1055/2023. (II. 27.) Korm. határozat 3. pontja iktatta be.
+[^5]: A 4b. pontot az 1055/2023. (II. 27.) Korm. határozat 3. pontja iktatta be, szövege az 1433/2024. (XII. 23.) Korm. határozat 2. pontja szerint módosított szöveg.
