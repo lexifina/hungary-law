@@ -1,11 +1,18 @@
-37. § (1) A Visszaváltási Fórum és a Visszaváltási Díjtanács a miniszter konzultációs szervei, amelyek önálló döntési jogkörrel nem rendelkeznek.
+37. § (1)[^24] A Visszaváltási Díjtanács a Hivatal elnökének konzultációs szerve, amely önálló döntési jogkörrel nem rendelkezik.
 
-(2) A Visszaváltási Fórum és a Visszaváltási Díjtanács a jelen lévő tagok egyszerű többségével nem kötelező erejű ajánlásokat fogalmazhat meg a Hivatal és a miniszter számára. Szavazategyenlőség esetén az elnök szavazata dönt.
+(2)[^25] A Visszaváltási Díjtanács a jelen lévő tagok egyszerű többségével nem kötelező erejű ajánlásokat fogalmazhat meg a Hivatal számára. Szavazategyenlőség esetén az elnök szavazata dönt.
 
-(3) A Visszaváltási Fórum és a Visszaváltási Díjtanács évente legalább egy alkalommal tart ülést. A Visszaváltási Díjtanács ülését olyan időpontban kell megszervezni, hogy a Visszaváltási Díjtanács (2) bekezdés szerinti ajánlásait a Hivatal a csatlakozási és szolgáltatási díj előkészítési tevékenysége során figyelembe vehesse.
+(3)[^26] A Visszaváltási Díjtanács évente legalább egy alkalommal tart ülést. A Visszaváltási Díjtanács ülését olyan időpontban kell megszervezni, hogy a Visszaváltási Díjtanács (2) bekezdés szerinti ajánlásait a Hivatal a csatlakozási és szolgáltatási díj előkészítési tevékenysége során figyelembe vehesse.
 
-(4) A Visszaváltási Fórum és a Visszaváltási Díjtanács ülését a miniszter hívja össze. A szervezési feladatokat a miniszter hivatali szervezete útján látja el.
+(4)[^27] A Visszaváltási Díjtanács ülését a Hivatal elnöke hívja össze. A szervezési feladatokat a Hivatal látja el.
 
-(5) A Visszaváltási Fórum és a Visszaváltási Díjtanács ülését a tagok egyharmadának kezdeményezésére a miniszter 15 napon belül összehívja.
+(5)[^28] A Visszaváltási Díjtanács ülését a tagok egyharmadának kezdeményezésére a Hivatal elnöke 15 napon belül összehívja.
 
-(6) A Visszaváltási Fórum és a Visszaváltási Díjtanács ügyrendjét maga állapítja meg, amelyet a miniszter hagy jóvá.
+(6)[^29] A Visszaváltási Díjtanács ügyrendjét maga állapítja meg, amelyet a Hivatal elnöke hagy jóvá.
+
+[^24]: A 37. § (1) bekezdése a 465/2024. (XII. 30.) Korm. rendelet 50. § (1) bekezdésével megállapított szöveg.
+[^25]: A 37. § (2) bekezdése a 465/2024. (XII. 30.) Korm. rendelet 53. § a) pontja szerint módosított szöveg.
+[^26]: A 37. § (3) bekezdése a 465/2024. (XII. 30.) Korm. rendelet 53. § b) pontja szerint módosított szöveg.
+[^27]: A 37. § (4) bekezdése a 465/2024. (XII. 30.) Korm. rendelet 50. § (2) bekezdésével megállapított szöveg.
+[^28]: A 37. § (5) bekezdése a 465/2024. (XII. 30.) Korm. rendelet 52. § e) pontja és 53. § c) pontja szerint módosított szöveg.
+[^29]: A 37. § (6) bekezdése a 465/2024. (XII. 30.) Korm. rendelet 52. § f) pontja és 53. § d) pontja szerint módosított szöveg.

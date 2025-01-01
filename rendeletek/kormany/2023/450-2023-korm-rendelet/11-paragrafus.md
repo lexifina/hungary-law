@@ -6,4 +6,6 @@
 
 (3) A forgalmazó a kötelezően visszaváltási díjas, nem újrahasználható termék visszaváltását a (2) bekezdés szerinti szerződés alapján végzi.
 
-(4) A forgalmazó a kötelezően visszaváltási díjas, újrahasználható termék visszaváltását a gyártóval kötött megállapodás alapján, az abban foglaltak szerint biztosítja.
+(4)[^9] A forgalmazó az általa forgalmazottal jellegében és funkciójában azonos kötelezően visszaváltási díjas, újrahasználható termék visszaváltását a gyártóval kötött megállapodás alapján, az abban foglaltak szerint biztosítja.
+
+[^9]: A 11. § (4) bekezdése a 465/2024. (XII. 30.) Korm. rendelet 52. § a) pontja szerint módosított szöveg.
