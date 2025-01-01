@@ -6,11 +6,11 @@
 
 ## E) Alaptevékenység szabad maradványa (A–D)
 
-## F) Vállalkozási tevékenységet terhelő befizetési kötelezettség (B*0,09)
+## F) VÁLLALKOZÁSI TEVÉKENYSÉGET TERHELŐ BEFIZETÉSI KÖTELEZETTSÉG (B*0,09 vagy B*0,5)
 
 ## G) Vállalkozási tevékenység felhasználható maradványa (B–F)
 
-4. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^346]
+4. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^354]
 
 ADATSZOLGÁLTATÁS A TÁRSADALOMBIZTOSÍTÁS PÉNZÜGYI ALAPJAIBÓL FOLYÓSÍTOTT EGYES ELLÁTÁSOK ÉS TÁMOGATÁSOK TERVEZETT ÖSSZEGEIRŐL ÉS TELJESÍTÉSÉRŐL
 
@@ -64,7 +64,7 @@ ADATSZOLGÁLTATÁS A TÁRSADALOMBIZTOSÍTÁS PÉNZÜGYI ALAPJAIBÓL FOLYÓSÍTOT
 
 – árvaellátás jogcímhez kapcsolódó 13. havi nyugdíj.
 
-5.[^347] A LXXII. Egészségbiztosítási Alap, 2. Egészségbiztosítási ellátások kiadásai cím, 4. Kártérítési és baleseti járadék alcím tekintetében a kifizetett ellátásokon belül:
+5.[^355] A LXXII. Egészségbiztosítási Alap, 2. Egészségbiztosítási ellátások kiadásai cím, 4. Kártérítési és baleseti járadék alcím tekintetében a kifizetett ellátásokon belül:
 
 – kártérítési járadék,
 
@@ -74,12 +74,12 @@ ADATSZOLGÁLTATÁS A TÁRSADALOMBIZTOSÍTÁS PÉNZÜGYI ALAPJAIBÓL FOLYÓSÍTOT
 
 – ebből: 13. havi ellátás.
 
-6.[^348] A LXXII. Egészségbiztosítási Alap, 2. Egészségbiztosítási ellátások kiadásai cím, 6. Rokkantsági, rehabilitációs ellátások alcím tekintetében a kifizetéseken belül:
+6.[^356] A LXXII. Egészségbiztosítási Alap, 2. Egészségbiztosítási ellátások kiadásai cím, 6. Rokkantsági, rehabilitációs ellátások alcím tekintetében a kifizetéseken belül:
 
 – egyszeri juttatás,
 
 – 13. havi ellátás.
 
-[^346]: A 4. melléklet a 482/2021. (VIII. 13.) Korm. rendelet 15. § (1) bekezdés 5. pontjával megállapított szöveg.
-[^347]: A 4. melléklet 5. pontja a 480/2022. (XI. 28.) Korm. rendelet 18. § (2) bekezdés 1. pontjával megállapított szöveg.
-[^348]: A 4. melléklet 6. pontja a 480/2022. (XI. 28.) Korm. rendelet 18. § (2) bekezdés 1. pontjával megállapított szöveg.
+[^354]: A 4. melléklet a 482/2021. (VIII. 13.) Korm. rendelet 15. § (1) bekezdés 5. pontjával megállapított szöveg.
+[^355]: A 4. melléklet 5. pontja a 480/2022. (XI. 28.) Korm. rendelet 18. § (2) bekezdés 1. pontjával megállapított szöveg.
+[^356]: A 4. melléklet 6. pontja a 480/2022. (XI. 28.) Korm. rendelet 18. § (2) bekezdés 1. pontjával megállapított szöveg.
