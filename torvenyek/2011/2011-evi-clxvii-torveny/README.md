@@ -34,3 +34,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-167-00-00
 | 2023-08-01 | 2023. évi LIII. törvény | 2011-167-00-00.27 |
 | 2024-11-01 | 2024. évi XLI. törvény | 2011-167-00-00.28 |
 | 2024-12-21 | 2024. évi LXXIV. törvény | 2011-167-00-00.29 |
+| 2025-01-01 | 2024. évi LXXIV. törvény | 2011-167-00-00.30 |
