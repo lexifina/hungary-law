@@ -1,4 +1,4 @@
-1. § (1) Az építési és közlekedési miniszter állami feladatellátás keretében, a MÁV Szolgáltató Központ Zártkörűen Működő Részvénytársaság útján biztosítja a (2) bekezdésben meghatározott, az egyes állami tulajdonban álló gazdasági társaságok felett az államot megillető tulajdonosi jogok és kötelezettségek összességét gyakorló személyek kijelöléséről szóló miniszteri rendelet szerint tulajdonosi joggyakorlása alatt álló gazdasági társaságok, valamint azok egyes többségi befolyása alatt álló gazdasági társaságok részére a (3) bekezdés szerinti szolgáltatásokat.
+1. § (1)[^1] Az építési és közlekedési miniszter állami feladatellátás keretében, a MÁV Szolgáltató Központ Zártkörűen Működő Részvénytársaság útján biztosítja a (2) bekezdésben meghatározott, az egyes állami tulajdonban álló gazdasági társaságok felett az államot megillető tulajdonosi jogok és kötelezettségek összességét gyakorló személyek kijelöléséről szóló miniszteri rendelet szerint tulajdonosi joggyakorlása alatt álló gazdasági társaságok, valamint azok egyes többségi befolyása alatt álló gazdasági társaságok, továbbá az Építési és Közlekedési Minisztérium irányítása alá tartozó költségvetési szervek részére a (3) bekezdés szerinti szolgáltatásokat.
 
 (2) A (3) bekezdés szerinti szolgáltatásokat
 
@@ -12,9 +12,13 @@ d) a MAHART Magyar Hajózási Zártkörűen Működő Részvénytársaság,
 
 e) a MAHART-Szabadkikötő Zrt.,
 
-f) a NÖF Nemzeti Örökségvédelmi Fejlesztési Nonprofit Korlátolt Felelősségű Társaság és
+f)[^2] a NÖF Nemzeti Örökségvédelmi Fejlesztési Nonprofit Korlátolt Felelősségű Társaság,
 
 g) az Eszterháza Kulturális, Kutató- és Fesztiválközpont Közhasznú Nonprofit Korlátolt Felelősségű Társaság
+
+h)[^3] az ÉMI Építésügyi és Minőségellenőrző Innovációs Nonprofit Korlátolt Felelősségű Társaság és
+
+i)[^4] – a (3) bekezdés b) és c) pontja kivételével – a Magyar Műszaki és Közlekedési Múzeum
 
 az (1) bekezdés szerint köteles igénybe venni.
 
@@ -33,3 +37,8 @@ e) beszerzés, közbeszerzés lebonyolítása; eszközgazdálkodás; cikkszám- 
 f) általános és szakanyagellátáshoz szükséges raktárak működtetése és az optimális készletek biztosításához szükséges készletgazdálkodási tevékenység ellátása; idegen tulajdonú készletek kezelése és
 
 g) ügykezelési és dokumentációs szolgáltatások nyújtása; különösen a bejövő küldemények kezelése, átvétele, érkeztetése, szkennelése, a kimenő küldemények kezelése, átvétele, egyetemes postai szolgáltatón keresztüli feladása, a cégkapun beérkező küldemények továbbítása; iratanyagok irattározása; közreműködés az iratanyagokkal kapcsolatos selejtezési eljárásban; dokumentum-menedzsment rendszerek szakmai felügyelete.
+
+[^1]: Az 1. § (1) bekezdése a 382/2024. (XII. 9.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § (2) bekezdés f) pontja a 382/2024. (XII. 9.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^3]: Az 1. § (2) bekezdés h) pontját a 382/2024. (XII. 9.) Korm. rendelet 2. §-a iktatta be.
+[^4]: Az 1. § (2) bekezdés i) pontját a 382/2024. (XII. 9.) Korm. rendelet 2. §-a iktatta be.
