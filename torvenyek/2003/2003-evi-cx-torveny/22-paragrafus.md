@@ -280,11 +280,7 @@ Otto-motoros személygépkocsi
 
 |
 
-A 6/1990. (IV. 12.) KöHÉM rendelet szerinti környezetkímélő gépkocsi (környezet-
-
-védelmi osztályba sorolása:
-
-5E, 5P, 5N, 5Z)
+A 6/1990. (IV. 12.) KöHÉM rendelet szerinti környezetkímélő gépkocsi (környezetvédelmi osztályba sorolása: 5E, 5Z)
 
 |
 
@@ -296,11 +292,7 @@ védelmi osztályba sorolása:
 
 |
 
-A 6/1990. (IV. 12.) KöHÉM rendelet szerinti hibrid (elektromos és Ottó-, vagy elektromos és dízelmotoros) hajtású, vagy az 1.–8. kategória alá nem tartozó más személygépkocsi.
-
 |
-
-76 000 Ft/db
 
 2. Az adó összege motorkerékpárok esetén
 
