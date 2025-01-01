@@ -1,3 +1,3 @@
-## 27. Az egyes ingatlan-nyilvántartási, földmérési és térképészeti tárgyú törvények módosításáról szóló 2023. évi CXVI. törvény módosítása
+## 27.
 
-142. § Nem lép hatályba az egyes ingatlan-nyilvántartási, földmérési és térképészeti tárgyú törvények módosításáról szóló 2023. évi CXVI. törvény 14. §-a.
+### 142. §

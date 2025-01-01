@@ -4,7 +4,7 @@ a) 22. § (3) bekezdésében a „kivonását és” szövegrész helyébe a „
 
 b) 32. § (1) bekezdés k) pontjában az „ellát” szövegrész helyébe az „ellátja” szöveg,
 
-c) 59. § (7) bekezdés d) pontjában az „aa)–al) alpontjában” szövegrész helyébe az „aa)–al) valamint aq) alpontjában” szöveg,
+c)
 
 d) 71. § (4) bekezdés a) pontjában az „élelmiszer-hamisítás, engedély” szövegrész helyébe az „élelmiszer-hamisítás, engedélyezési kötelezettség elmulasztása, a 14/B. §-ban foglalt rendelkezés megsértése, engedély” szöveg,
 

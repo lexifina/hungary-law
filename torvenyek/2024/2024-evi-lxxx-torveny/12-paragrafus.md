@@ -1,3 +1,1 @@
-12. § A Növényvédő kamarai tv. 3. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az Alapszabályban meghatározott területen és székhelyen képviseleti és ügyintéző szervekkel rendelkező területi szervezetek működhetnek, ha létszámuk a 20 főt eléri. A területi szervezet területe összefüggő, legalább egy vármegye (vagy a főváros) területére terjedhet ki. Egy vármegye területén kizárólag egy területi szervezet működhet. A Kamara küldöttközgyűlése négyötödös szavazattöbbséggel meghozott határozatával jogosult területi szervezeteket megszüntetni, összevonni, amennyiben a kamarai szervezet működése azt indokolja.”
+### 12. §

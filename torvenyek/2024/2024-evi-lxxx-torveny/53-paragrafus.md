@@ -26,8 +26,6 @@
 
 13. 53. § (1) bekezdés a) pontjában a „mezőgazdasági és vidékfejlesztési támogatási szerv” szövegrész helyébe a „Nemzeti Kifizető Ügynökség” szöveg,
 
-14. 61. § (1) bekezdésében a „kódra való” szövegrész helyébe a „kódra, és annak megfelelő szakágazaton belüli ÖVTJ kódra való” szöveg,
+14.
 
-15. 61. § (2) bekezdésében a „TEÁOR’08 szerinti” szövegrész helyébe a „TEÁOR’08 szerinti és az annak megfelelő szakágazaton belüli ÖVTJ kódú” szöveg
-
-lép.
+15.

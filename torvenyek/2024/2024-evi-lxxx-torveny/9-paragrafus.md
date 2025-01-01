@@ -1,5 +1,3 @@
-## „40. az elektronikus vadászati napló és teríték-nyilvántartásból történő adatszolgáltatásra vonatkozó szabályokat.”
-
 9. § A vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló 1996. évi LV. törvény
 
 a) 16. § (1a) bekezdés nyitó szövegrészében a „Vadaskert” szövegrész helyébe az „Az (1) bekezdésben foglaltaktól eltérően vadaskert” szöveg,

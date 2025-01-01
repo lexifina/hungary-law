@@ -1,5 +1,3 @@
-## „i) az öntözéses gazdálkodásról szóló 2019. évi CXIII. törvény (a továbbiakban: Ötv.) 11/A. § (3) bekezdése alapján létrejött szerződés esetén az Ötv. 11/A. § (11) bekezdése szerinti esetben.”
-
 81. § A Fétv. 65. § (1) bekezdése helyébe a következő rendelkezés lép:
 
 „(1) Ha a haszonbérelt földön megtermelendő termény vetésforgó, illetve túlnyomó részben élőmunka ráfordítás alkalmazását igényli – ideértve a vetőmag előállítást is –, a haszonbérlő a haszonbérbeadó hozzájárulásával megállapodhat más földművessel vagy mezőgazdasági termelőszervezettel, hogy a részére a föld használatát egyes, a vetésforgó alkalmazásához szükséges vagy túlnyomó részben élőmunka ráfordítást igénylő mezőgazdasági munkák elvégzésével érintett legfeljebb egy gazdasági évre, de a haszonbérleti szerződés lejártát meg nem haladó időtartamra átengedi. Az adott föld öt egymást követő gazdasági évben legfeljebb két gazdasági évet érintően adható alhaszonbérbe. E bekezdés szerinti alhaszonbérleti szerződést önálló, egységes okiratba kell foglalni.”

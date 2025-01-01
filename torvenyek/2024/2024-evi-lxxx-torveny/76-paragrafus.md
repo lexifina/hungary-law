@@ -4,7 +4,7 @@ a) 3. § (2) bekezdése,
 
 b) 5. § 22. pontja,
 
-c) 8. § (3) bekezdése,
+c)
 
 d) 14/A. §-ában az „és a 15. §-ban” szövegrész,
 
@@ -20,7 +20,7 @@ i) 24. § (2) bekezdésében az „együttes” szövegrész,
 
 j) 24. § (3) bekezdés e) pontjában az „ , a pályakezdő gazdálkodó” szövegrész,
 
-k) 30. § (4) bekezdésében a „Ha az eladó az adásvételi szerződésben megadta a vevő javára szóló bejegyzési engedélyt, a mezőgazdasági igazgatási szerv a (2) bekezdésben meghatározott döntését közli az ingatlanügyi hatósággal is.” szövegrész,
+k)
 
 l) 35. § (3) bekezdésében a „ , legfeljebb 20 km-es távolságra vonatkozó” szövegrész és az „és a 15. §-ban” szövegrész,
 

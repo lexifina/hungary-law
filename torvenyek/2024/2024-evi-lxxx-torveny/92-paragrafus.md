@@ -1,11 +1,11 @@
 92. § Hatályát veszti a Fétv.
 
-a) 17. § (3) bekezdése,
+a)
 
-b) 37. § (3a) bekezdése,
+b)
 
-c) 37. § (5) bekezdése,
+c)
 
 d) 91. § (9) bekezdés d) pontja.
 
-e) 100. § (7) bekezdése.
+e)

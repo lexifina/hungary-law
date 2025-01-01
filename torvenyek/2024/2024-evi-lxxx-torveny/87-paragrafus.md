@@ -1,5 +1,1 @@
-87. § A Fétv. a következő 97/A. §-sal egészül ki:
-
-„97/A. § (1) A földhasználati-nyilvántartás informatikai fejlesztésével összefüggő adatmigráció során a nyilvántartás tartalmában keletkezett hibát (a továbbiakban: adatmigrációs hiba) – a hiba bármely módon történő észlelése esetén – az ingatlanügyi hatóság a bejegyzés helyesbítésével megszünteti. A bejegyzés helyesbítése történhet a bejegyzés kijavításával vagy kiegészítésével.
-
-(2) Ha az adatmigrációs hiba keletkezése és észlelése közötti időszakban az adatmigrációs hibával érintett ingatlanra vagy annak egy részére vonatkozóan harmadik személy földhasználatát bejegyezték, a helyesbítésnek akkor van helye, ha ehhez a harmadik személy hozzájárul vagy a harmadik személy földhasználata bejegyzésének alapjául szolgáló okirat érvénytelenségét a polgári ügyekben eljáró bíróság megállapította.”
+### 87. §
