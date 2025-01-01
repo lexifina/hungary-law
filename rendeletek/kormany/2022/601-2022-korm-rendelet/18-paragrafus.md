@@ -12,17 +12,17 @@ d) a gyakorlati tapasztalatokat és elméleti ismereteket magában foglaló köz
 
 e) a környezeti monitoringhoz szükséges mérések elvégzése, az eredmények és a javaslatok bemutatása;
 
-f)[^28]
+f)[^31]
 
-g)[^29]
+g)[^32]
 
-(3)[^30] A miniszter a NAK útján látja el a KAP Alapokból finanszírozott, valamint a nemzeti agrártámogatásokhoz szükséges szaktanácsadással kapcsolatos következő feladatokat:
+(3)[^33] A miniszter a NAK útján látja el a KAP Alapokból finanszírozott, valamint a nemzeti agrártámogatásokhoz szükséges szaktanácsadással kapcsolatos következő feladatokat:
 
 a) a szaktanácsadásra, képzésre, bemutató üzemi programra (a továbbiakban együtt: tudásátadási szolgáltatás) vonatkozó igény felmérése; és
 
 b) a tudásátadási szolgáltatást nyújtó szolgáltatók akkreditálása, képzése.
 
-(4)[^31] A miniszter a NAK útján látja el a KAP Alapokból finanszírozott, valamint a nemzeti agrártámogatásokhoz szükséges általános tanácsadással kapcsolatos következő feladatokat:
+(4)[^34] A miniszter a NAK útján látja el a KAP Alapokból finanszírozott, valamint a nemzeti agrártámogatásokhoz szükséges általános tanácsadással kapcsolatos következő feladatokat:
 
 a) a kedvezményezetteknek szóló egyes, e rendelet hatálya alá tartozó intézkedésekhez kapcsolódóan személyre szabott tanácsadás;
 
@@ -30,7 +30,7 @@ b) gazdaságirányítási és adminisztratív adatok és jelentéstétel megszer
 
 c) más, a (3) bekezdés a) pontban foglaltakon kívüli tudásátadásra irányuló intézkedésekben való részvételhez kapcsolódó tanácsadás.
 
-[^28]: A 18. § (2) bekezdés f) pontját a 668/2023. (XII. 29.) Korm. rendelet 9. § c) pontja hatályon kívül helyezte.
-[^29]: A 18. § (2) bekezdés g) pontját a 668/2023. (XII. 29.) Korm. rendelet 9. § c) pontja hatályon kívül helyezte.
-[^30]: A 18. § (3) bekezdését a 668/2023. (XII. 29.) Korm. rendelet 8. §-a iktatta be.
-[^31]: A 18. § (4) bekezdését a 668/2023. (XII. 29.) Korm. rendelet 8. §-a iktatta be.
+[^31]: A 18. § (2) bekezdés f) pontját a 668/2023. (XII. 29.) Korm. rendelet 9. § c) pontja hatályon kívül helyezte.
+[^32]: A 18. § (2) bekezdés g) pontját a 668/2023. (XII. 29.) Korm. rendelet 9. § c) pontja hatályon kívül helyezte.
+[^33]: A 18. § (3) bekezdését a 668/2023. (XII. 29.) Korm. rendelet 8. §-a iktatta be.
+[^34]: A 18. § (4) bekezdését a 668/2023. (XII. 29.) Korm. rendelet 8. §-a iktatta be.

@@ -1,4 +1,4 @@
-5/B. §[^19] (1) A támogató az 5. § (3a) bekezdés szerinti nyilatkozatokat öt évig megőrzi és az abban szereplő adatokat az Európai Unió és Magyarország pénzügyi érdekeinek védelme, valamint az összeférhetetlenségi helyzetek megelőzése, feltárása és megszüntetése érdekében a nyilatkozattétel időpontjától számított öt évig kezeli a Kit. 29/B. § (3) és (3a) bekezdése alapján, továbbá az Igazgatóság rendelkezésére bocsátja, annak 5/A. § szerinti feladatai ellátásához.
+5/B. §[^20] (1) A támogató az 5. § (3a) bekezdés szerinti nyilatkozatokat öt évig megőrzi és az abban szereplő adatokat az Európai Unió és Magyarország pénzügyi érdekeinek védelme, valamint az összeférhetetlenségi helyzetek megelőzése, feltárása és megszüntetése érdekében a nyilatkozattétel időpontjától számított öt évig kezeli a Kit. 29/B. § (3) és (3a) bekezdése alapján, továbbá az Igazgatóság rendelkezésére bocsátja, annak 5/A. § szerinti feladatai ellátásához.
 
 (2) Az Igazgatóság az 5. § (3a) bekezdés szerinti nyilatkozatok valóságtartalmát két évre szóló ellenőrzési terv alapján mintavételesen, évente az összeférhetetlenségi nyilatkozat benyújtására kötelezettek számának legalább 5%-ára kiterjedően ellenőrzi, különösen a közhiteles nyilvántartásokban elérhető adatok figyelembevételével. Ha a közhiteles nyilvántartásokban nem vagy csak korlátozottan érhető el adat, akkor önbevallást kell alkalmazni, amelyet az Igazgatóság bármilyen nyilvános forrásból rendelkezésére álló információkkal vet össze.
 
@@ -6,4 +6,4 @@
 
 (4) Az Igazgatóság a (2) bekezdés szerint ellenőrzött nyilatkozatokat és az ellenőrzések dokumentumait az ellenőrzések lezárásától számított öt évig megőrzi és az abban szereplő adatokat az Európai Unió és Magyarország pénzügyi érdekeinek védelme, valamint az összeférhetetlenségi helyzetek megelőzése, feltárása és megszüntetése érdekében az ellenőrzések lezárásától számított öt évig kezeli a Kit. 29/B. § (3) és (3a) bekezdése alapján.
 
-[^19]: Az 5/B. §-t a 668/2023. (XII. 29.) Korm. rendelet 6. §-a iktatta be.
+[^20]: Az 5/B. §-t a 668/2023. (XII. 29.) Korm. rendelet 6. §-a iktatta be.
