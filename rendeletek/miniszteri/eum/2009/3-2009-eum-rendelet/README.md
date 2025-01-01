@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-3-20-0B
 | 2022-07-31 | 2009-3-20-0B.14 | 24/2022. (VII. 29.) BM rendelet |
 | 2023-08-11 | 2009-3-20-0B.15 | 38/2009. (XI. 6.) EüM rendelet |
 | 2024-12-21 | 2009-3-20-0B.16 | 38/2009. (XI. 6.) EüM rendelet |
+| 2025-01-01 | 2009-3-20-0B.17 | 63/2024. (XII. 30.) BM rendelet |
