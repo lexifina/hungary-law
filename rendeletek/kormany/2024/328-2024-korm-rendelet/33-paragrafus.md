@@ -1,0 +1,1 @@
+33. § Az élelmiszerlánc-felügyeleti díj bevallásának és megfizetésének szabályairól szóló 40/2012. (IV. 27.) VM rendeletet a hatályvesztését megelőzően teljesítendő felügyeleti díj bevallási kötelezettség tekintetében a hatályvesztését követően is alkalmazni kell.

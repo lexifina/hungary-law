@@ -1,0 +1,9 @@
+16. § (1) Az R9. 2. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A vármegyei kormányhivatalok agrárkár-megállapító, állatvédelmi, borászati, erdészeti, az élelmiszerlánc-felügyeleti, földművelésügyi igazgatási, halgazdálkodási, mezőgazdasági igazgatási, növénytermesztési, pálinkaellenőrzési, talajvédelmi, telepítési, tenyésztési és vadászati, valamint a vármegyei kormányhivatalok járási hivatalainak állatvédelmi, az élelmiszerlánc-felügyeleti feladat- és hatáskörének gyakorlásával összefüggésben a központi államigazgatási szervekről, valamint a kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény (a továbbiakban: Ksztv.) 2. § (1) bekezdés e)–h) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket a (2a) és (2b) bekezdésben foglaltak kivételével szakmai irányító miniszterként az agrárminiszter (a továbbiakban: miniszter) gyakorolja.”
+
+(2) Az R9. 2. §-a a következő (2a) és (2b) bekezdéssel egészül ki:
+
+„(2a) A vármegyei kormányhivatalok élelmiszer-kereskedelemmel kapcsolatos élelmiszerlánc-felügyeleti feladat- és hatáskörének gyakorlásával összefüggő feladat- és hatásköre tekintetében a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) 40. § (2) bekezdése szerinti szakmai irányító miniszterként, valamint – a (2b) bekezdésben meghatározott kivétellel – a Kit. 40. § (4) bekezdés a) pontja szerinti hatáskörök gyakorlására a Kormány a kereskedelemért felelős minisztert jelöli ki.
+
+(2b) A vármegyei kormányhivatalok élelmiszer-kereskedelemmel kapcsolatos élelmiszerlánc-felügyeleti feladat- és hatáskörének gyakorlásával összefüggő közigazgatási hatósági ügyekben a Kit. 40. § (4) bekezdés c) pontja szerinti hatáskörök gyakorlására a Kormány a Nemzeti Kereskedelmi és Fogyasztóvédelmi Hatóságot (a továbbiakban: NKFH) jelöli ki.”
