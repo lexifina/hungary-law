@@ -1,3 +1,3 @@
-6. §[^6]
+6. § A nemzeti köznevelési törvény végrehajtásáról szóló 229/2012. (VIII. 28.) Korm. rendelet 37/C. §-a a következő (8) bekezdéssel egészül ki:
 
-[^6]: A 6. § a 17. § (4) bekezdése alapján 2025. január 1-jén lép hatályba.
+„(8) Az (1), (2), (4) és (7) bekezdésben, valamint a 37/D. § (1) bekezdésében foglaltakat a pedagógusok és a pedagógus szakképesítéssel vagy szakképzettséggel rendelkező nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatottak minősítéséből eredő többletkiadás, a differenciált nemzetiségi pótlék és a diabétesz ellátási pótlék fedezetére szolgáló tárgyévi központi költségvetési törvény szerinti kiegészítő támogatás igénylésére is alkalmazni kell.”
