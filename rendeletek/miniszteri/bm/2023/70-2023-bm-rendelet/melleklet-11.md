@@ -1,3 +1,13 @@
-11. melléklet a 70/2023. (XII. 23.) BM rendelethez[^29]
+11. melléklet a 70/2023. (XII. 23.) BM rendelethez
 
-[^29]: A 11. melléklet a 19. § (2) bekezdés alapján 2025. január 1-jén lép hatályba.
+Az R9. 1. mellékletében foglalt táblázat 15. sora helyébe a következő rendelkezés lép:
+
+|  | (A | B |
+
+|  | Regiszter | Működtető) |
+
+„
+
+| 15. | Nemzeti Szülészeti, Perinatális és Humán Reprodukciós Regiszter | Országos Kórházi Főigazgatóság |
+
+”
