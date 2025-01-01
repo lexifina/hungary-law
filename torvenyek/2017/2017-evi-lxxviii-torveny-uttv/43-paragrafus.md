@@ -16,7 +16,7 @@ d) az ellenjegyző ügyvédnek a neve, a kamarai azonosító száma, az ellenjeg
 
 a) a fél minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírásának elhelyezésével,
 
-b) a fél által azonosításra visszavezetett dokumentumhitelesítés szolgáltatással való hitelesítéssel, vagy
+b)
 
 c) a polgári perrendtartásról szóló 2016. évi CXXX. törvény 325. § (1) bekezdés h) pontja szerinti szolgáltatással.
 

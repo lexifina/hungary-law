@@ -14,7 +14,7 @@ f) bírósági, hatósági, illetve más közhatalmi eljáráson kívüli képvi
 
 g) pénzügyi és egyéb üzletviteli tanácsadás,
 
-h) felelős akkreditált közbeszerzési szaktanácsadói tevékenység,
+h) a közbeszerzésekről szóló 2015. évi CXLIII. törvény 3. § 24a. pontja szerinti közbeszerzési szolgáltatói tevékenység,
 
 i) bizalmi vagyonkezelési tevékenység,
 
