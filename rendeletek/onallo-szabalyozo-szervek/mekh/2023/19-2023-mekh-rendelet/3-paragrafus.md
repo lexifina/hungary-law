@@ -1,1 +1,0 @@
-3. § A koncesszori alvállalkozók indokolt költségeinek mértékét az 1. melléklet tartalmazza, az érintett hulladékgazdálkodási tevékenységet ellátó koncesszori alvállalkozók indokolt költségeinek összegeként, hulladékgazdálkodási alrendszerekhez kapcsolódó hulladékgazdálkodási tevékenységenként.
