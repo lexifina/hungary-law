@@ -16,7 +16,7 @@ e) egy fő takarító – technikai munkaköri osztályba tartozó – külszolg
 
 a KKM mint kihelyező szerv által tartós külszolgálatra kihelyezett kormánytisztviselői útján látja el.
 
-(3)[^2] Az Európai Unió Tanácsa 2024. második félévi magyar elnökségi feladatai ellátásának ideje alatt az (1) bekezdés szerinti feladatokat a KKM hivatali szervezetének vezetője – mint a külpolitikáért felelős miniszter által vezetett kihelyező szervnek a Külszoltv. szerinti kihelyező vezetője – döntése alapján, ideiglenesen, a (2) bekezdés szerinti munkakörökön túl további diplomata, adminisztratív vagy technikai munkaköri osztályba tartozó munkakörökkel is elláthatja.
+(3)[^2]
 
 [^1]: Az 1. § (2) bekezdése a 25/2022. (XII. 22.) KKM rendelet 1. §-ával megállapított szöveg.
-[^2]: Az 1. § (3) bekezdését az 5/2023. (IX. 21.) KKM rendelet 1. §-a iktatta be.
+[^2]: Az 1. § (3) bekezdését az 5/2023. (IX. 21.) KKM rendelet 1. §-a iktatta be. Az 1. § (3) bekezdését az 5/2023. (IX. 21.) KKM rendelet 3. §-a hatályon kívül helyezte.
