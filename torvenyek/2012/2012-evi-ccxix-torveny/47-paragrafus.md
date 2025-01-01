@@ -16,7 +16,7 @@ f) pályázatból származó bevétel,
 
 g) egyéb, az alapszabályban meghatározott bevételek.
 
-(2) A hegyközségi tag, valamint a nyilvántartott adatszolgáltató hegyközségi járulékot fizet azon hegyközségi szervezet részére, amelynek működési területén a termelő-, illetve a felvásárló tevékenységét végzi. A hegyközségi járulék mértékét és felhasználásának célját a választmány javaslata alapján minden év május 31. napjáig a közgyűlés határozza meg. A hegyközség a kivetett járulékot és annak esedékességét a járulékfizetésre kötelezettel számviteli bizonylatban közli.
+(2) A hegyközségi tag, valamint a nyilvántartott adatszolgáltató hegyközségi járulékot fizet azon hegyközségi szervezet részére, amelynek működési területén a termelő-, illetve a felvásárló tevékenységét végzi. E törvény eltérő rendelkezése hiányában a hegyközségi járulék mértékét és felhasználásának célját a választmány javaslata alapján minden év május 31. napjáig a közgyűlés határozza meg. A hegyközség a kivetett járulékot és annak esedékességét a járulékfizetésre kötelezettel számviteli bizonylatban közli.
 
 (3) A közgyűlés a járulék mértékét a következők szerint állapítja meg:
 

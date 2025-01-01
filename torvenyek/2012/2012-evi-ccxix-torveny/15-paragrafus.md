@@ -4,7 +4,11 @@
 
 ## 12. A hegyközség tagjai
 
-15. § (1) Hegyközségi tagságra kötelezett – lakóhelyétől (telephelyétől, székhelyétől) függetlenül – az a szőlészeti és borászati termelő, aki tevékenységét a hegyközség működési területén végzi.
+15. § (1) Hegyközségi tagságra kötelezett – lakóhelyétől (telephelyétől, székhelyétől) függetlenül –
+
+a) a szőlő-szaporítóanyagot előállító, illetve forgalmazó szőlészeti termelő kivételével az a szőlészeti és borászati termelő, aki tevékenységét a hegyközség működési területén végzi, valamint
+
+b) a szőlő-szaporítóanyagot előállító, illetve forgalmazó szőlészeti termelő, aki tevékenységét a hegyközség működési területén vagy azon kívül eső területen végzi.
 
 (2) A szőlészeti és borászati termelő minden olyan hegyközségnek tagja, amelynek területén termel.
 

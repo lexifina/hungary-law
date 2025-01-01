@@ -6,9 +6,11 @@ b) jogszabályban, illetve az állammal kötött szerződésekben rögzített, v
 
 c) adományokból,
 
-d) rendezvények bevételeiből, és
+d) rendezvények bevételeiből,
 
-e) egyéb, az alapszabályban meghatározott bevételekből
+e) egyéb, az alapszabályban meghatározott bevételekből, valamint
+
+f) a bevételét képező hegyközségi járulékból
 
 kell fedezni.
 
@@ -20,7 +22,7 @@ kell fedezni.
 
 (5)
 
-(6) Az (5) bekezdés szerinti hegyközségi járulék mértéke nem lehet több a szőlészeti, illetve a borászati termelők számára az adott évre megállapított hegyközségi járulék mértékének a hegyközségek területének nagyságával súlyozott országos átlagánál.
+(6) A szőlő-szaporítóanyagot előállító, illetve forgalmazó szőlészeti termelő esetében a hegyközségi járulék mértékét a főtitkárnak – a szőlő-szaporítóanyag előállítás sajátosságaira figyelemmel tett – javaslata alapján a Hegyközségek Nemzeti Tanácsa határozza meg. A hegyközségi járulék 50%-a a 47. § (2) bekezdése szerinti hegyközségi szervezet és 50%-a a Hegyközségek Nemzeti Tanácsának bevétele.
 
 (7) Az Európai Gazdasági Térség valamely szerződő államából továbbfeldolgozási célból behozott borászati termék mennyisége után a Hegyközségek Nemzeti Tanácsa által megállapított mértékű hegyközségi járulékot kell fizetni, amelynek 50%-a a feldolgozás helye szerint illetékes hegyközséget és 50%-a a Hegyközségek Nemzeti Tanácsát illeti meg.
 

@@ -12,7 +12,7 @@ c) a hegyközség tisztségviselőinek megválasztása,
 
 d) a hegyközségi tanács szőlészeti és borászati szekciójába tartozó azonos számú küldöttek megválasztása,
 
-e) a hegyközségi járulék mértékének meghatározása.
+e) e törvény eltérő rendelkezése hiányában a hegyközségi járulék mértékének meghatározása.
 
 (3) A közgyűlést az alapszabályban meghatározott időközönként, de évente legalább egy alkalommal össze kell hívni.
 
