@@ -2,7 +2,7 @@
 
 4. § (1) A kölcsönszerződés megkötését a házaspár – együttes igénylőként – akkor igényelheti, ha a kölcsönkérelem benyújtásának időpontjában
 
-a)[^14] a feleség betöltötte a 18. életévét, de még nem töltötte be a 30. életévét,
+a)[^14] a feleség betöltötte a 18. életévét, de még nem töltötte be a 35. életévét,
 
 b) mindkét házasfél rendelkezik magyarországi lakcímmel,
 
@@ -84,7 +84,7 @@ a) ha a korábban már megkötött kölcsönszerződés ellenére a kölcsönös
 
 b) a 16. § (6) bekezdése szerinti újabb házasságkötés esetét, ha a támogatott személy korábbi babaváró kölcsöne és a 16. § (2) bekezdése szerinti kötelezettség fennállása esetén az igénybe vett kamattámogatása – az előző házassága felbontása vagy érvénytelenségének megállapítása miatt – teljes egészében visszafizetésre került.
 
-[^14]: A 4. § (1) bekezdés a) pontja a 303/2023. (VII. 11.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^14]: A 4. § (1) bekezdés a) pontja a 437/2024. (XII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^15]: A 4. § (1) bekezdés c) pontja a 252/2020. (V. 29.) Korm. rendelet 18. § (1) bekezdésével megállapított, nyitó szövegrésze a 262/2024. (VIII. 29.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
 [^16]: A 4. § (1) bekezdés c) pont ca) alpontja a 252/2020. (V. 29.) Korm. rendelet 32. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^17]: A 4. § (1) bekezdés c) pont cb) alpontja az 530/2021. (IX. 14.) Korm. rendelet 29. § a) pont aa) alpontja szerint módosított szöveg.
