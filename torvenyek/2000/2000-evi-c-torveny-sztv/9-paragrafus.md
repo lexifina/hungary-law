@@ -2,9 +2,9 @@
 
 (2) Egyszerűsített éves beszámolót készíthet a kettős könyvvitelt vezető vállalkozó, ha két egymást követő üzleti évben a mérleg fordulónapján a következő, a nagyságot jelző három mutatóérték közül bármelyik kettő nem haladja meg az alábbi határértéket:
 
-a) a mérlegfőösszeg az 1200 millió forintot,
+a) a mérlegfőösszeg a 2000 millió forintot,
 
-b) az éves nettó árbevétel a 2400 millió forintot,
+b) az éves nettó árbevétel a 4000 millió forintot,
 
 c) az üzleti évben átlagosan foglalkoztatottak száma az 50 főt.
 

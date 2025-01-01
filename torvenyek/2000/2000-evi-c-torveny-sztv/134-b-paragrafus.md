@@ -2,9 +2,9 @@
 
 a) két egymást követő üzleti évben a mérleg fordulónapján a következő három mutatóérték közül bármelyik kettő meghaladja az alábbi határértéket:
 
-aa) a mérlegfőösszeg a 6000 millió forintot,
+aa) a mérlegfőösszeg a 10 000 millió forintot,
 
-ab) az éves nettó árbevétel a 12 000 millió forintot,
+ab) az éves nettó árbevétel a 20 000 millió forintot,
 
 ac) az üzleti évben átlagosan foglalkoztatottak száma a 250 főt, vagy
 

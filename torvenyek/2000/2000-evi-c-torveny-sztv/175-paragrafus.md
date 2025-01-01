@@ -20,4 +20,6 @@ g) a 2013/34/EU irányelvnek a társaságiadó-információk egyes vállalkozás
 
 h) az 537/2014/EU rendeletnek, a 2004/109/EK irányelvnek, a 2006/43/EK irányelvnek és 2013/34/EU irányelvnek a fenntarthatósággal kapcsolatos vállalati beszámolás tekintetében történő módosításáról szóló, 2022. december 14-i (EU) 2022/2464 európai parlamenti és tanácsi irányelv.
 
+i) a 2013/34/EU európai parlamenti és tanácsi irányelvnek a mikro-, kis-, közép- és nagyvállalkozásokra vagy csoportokra vonatkozó méretkritériumok kiigazítása tekintetében történő módosításáról szóló, 2023. október 17-i (EU) 2023/2775 felhatalmazáson alapuló bizottsági irányelv.
+
 (3) E törvény a 2004/109/EK európai parlamenti és tanácsi irányelvnek az egységes elektronikus beszámolási formátumot meghatározó szabályozástechnikai standardok tekintetében történő kiegészítéséről szóló 2018. december 17-i 2019/815 bizottsági felhatalmazáson alapuló rendeletének végrehajtásához szükséges rendelkezéseket állapít meg.

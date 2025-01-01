@@ -2,9 +2,9 @@
 
 a) két egymást követő üzleti évben a mérleg fordulónapján a következő, a nagyságot jelző három mutatóérték közül bármelyik kettő meghaladja az alábbi határértéket:
 
-aa) a mérlegfőösszeg a 6000 millió forintot,
+aa) a mérlegfőösszeg a 10 000 millió forintot,
 
-ab) az éves nettó árbevétel a 12 000 millió forintot,
+ab) az éves nettó árbevétel a 20 000 millió forintot,
 
 ac) az üzleti évben átlagosan foglalkoztatottak száma a 250 főt, vagy
 
@@ -16,9 +16,9 @@ b) közérdeklődésre számot tartó gazdálkodónak minősül.
 
 (4) Mentesül az (1) bekezdés szerinti kötelezettség alól az az anyavállalatnak minősülő vállalkozás, amelynek összevont (konszolidált) adatai két egymást követő üzleti évben a mérleg fordulónapján a következő, a nagyságot jelző három mutatóérték közül bármelyik kettő nem haladja meg az alábbi határértéket:
 
-a) a mérlegfőösszeg a 6000 millió forintot,
+a) a mérlegfőösszeg a 10 000 millió forintot,
 
-b) az éves nettó árbevétel a 12 000 millió forintot,
+b) az éves nettó árbevétel a 20 000 millió forintot,
 
 c) az üzleti évben átlagosan foglalkoztatottak száma a 250 főt
 

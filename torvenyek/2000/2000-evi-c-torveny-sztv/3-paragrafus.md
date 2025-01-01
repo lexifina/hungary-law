@@ -70,7 +70,7 @@ d) a tulajdonosokkal (a részvényesekkel) kötött szerződés (vagy a létesí
 
 7. kapcsolt vállalkozás: az 1. pont szerinti anyavállalat és a 2–3. pont szerinti vállalkozások (fölérendelt anyavállalat esetében a minősítést a fölérendelt anyavállalat szempontjából kell elvégezni).
 
-8. kapcsolt fél: az 1606/2002/EK európai parlamenti és tanácsi rendelettel összhangban egyes nemzetközi számviteli standardok elfogadásáról szóló 1126/2008/EK bizottsági rendeletben meghatározott fogalom;
+8. kapcsolt fél: az 1606/2002/EK európai parlamenti és tanácsi rendelettel összhangban egyes nemzetközi számviteli standardok elfogadásáról szóló, 2023. augusztus 13-i (EU) 2023/1803 bizottsági rendeletben meghatározott fogalom;
 
 9. jelentős tulajdoni részesedés: más vállalkozások tőkéjében való, értékpapírban megtestesülő vagy más módon meghatározott jog, amelynek célja az említett vállalkozással való tartós kapcsolat kialakítása révén hozzájárulás annak a vállalkozásnak a tevékenységéhez, amelyik e jogok birtokosa; és amely részesedés mértéke a 20 százalékot meghaladja.
 

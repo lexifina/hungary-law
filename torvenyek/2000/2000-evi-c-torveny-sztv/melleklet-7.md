@@ -49,13 +49,3 @@ II. Befektetési cash flow
 15. Befektetett eszközök eladása +
 
 16. Hosszú lejáratra nyújtott kölcsönök és elhelyezett bankbetétek törlesztése, megszüntetése, beváltása +
-
-17. Hosszú lejáratra nyújtott kölcsönök és elhelyezett bankbetétek –
-
-18. Kapott osztalék, részesedés +
-
-III. Finanszírozási cash flow
-
-(19–26. sorok)
-
-19. Részvénykibocsátás, tőkebevonás (tőkeemelés) bevétele +
