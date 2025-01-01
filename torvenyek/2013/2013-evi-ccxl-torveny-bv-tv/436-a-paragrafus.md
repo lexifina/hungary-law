@@ -19,5 +19,3 @@ a) 75/E. §-ában,
 b) 75/O. § (1) bekezdés a) és b) pontjában és
 
 c) 75/O. § (2)–(4) bekezdésében
-
-meghatározott határidők a Mód. tv. 17. §-ának a hatálybalépését követő napon kezdődnek.
