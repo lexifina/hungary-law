@@ -1,3 +1,3 @@
-5. §[^11]
+5. §[^15]
 
-[^11]: Az 5. §-t a 310/2023. (VII. 14.) Korm. rendelet 14. § d) pontja hatályon kívül helyezte.
+[^15]: Az 5. §-t a 310/2023. (VII. 14.) Korm. rendelet 14. § d) pontja hatályon kívül helyezte.

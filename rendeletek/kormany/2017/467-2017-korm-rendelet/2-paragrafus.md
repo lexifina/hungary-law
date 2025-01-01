@@ -6,8 +6,10 @@ b) Kormányzati Felhő: az EKOP-2.2.1-2012-2012-0001 „Kormányzati Felhő – 
 
 c) KÖFOP projektek: a 2014–2020. évekre kiterjedő időszakra elfogadott Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program alapján kormányhatározatban nevesített projekt alapján európai uniós finanszírozással végrehajtott projektek;
 
-d) forrás: a központi költségvetésből közvetlenül a közszolgáltatási szerződés finanszírozását biztosító fejezeti kezelésű előirányzaton rendelkezésre bocsátott forrás;
+d)[^7] forrás: norma szerinti alapszintű közszolgáltatások esetén a DMÜ-vel kötött közszolgáltatási szerződés keretében biztosított forrás; költségvetési előirányzattal nem rendelkező, az e rendelet hatálya alá tartozó gazdálkodó szervezet felhasználó esetén, valamint norma feletti alapszintű és emelt szintű szolgáltatások esetén a felhasználó által biztosított forrás;
 
 e) szolgáltatási tartalék: az az üzemi tartalékot meghaladó, folytatólagosan fenntartandó kapacitás tartalék, amely lehetővé teszi a szolgáltatási igények kiszolgálását, illetve a szolgáltatások időszakosságából adódó többletterhelésekhez szükséges kapacitás átmeneti biztosítását;
 
 f) üzemi tartalék: a Kormányzati Adatközpont felhő szolgáltatás és az azt biztosító informatikai eszközök műszaki, technikai sajátosságaiból adódó, szolgáltatás nyújtására közvetlenül fel nem használható erőforrás biztosítására szolgáló kapacitás tartalék, amelynek célja az IT eszközök saját működéséhez szükséges minimális kapacitás folyamatos biztosítása.
+
+[^7]: A 2. § d) pontja a 342/2024. (XI. 14.) Korm. rendelet 5. §-ával megállapított szöveg.

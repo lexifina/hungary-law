@@ -1,3 +1,3 @@
-7. §[^27]
+7. §[^33]
 
-[^27]: A 7. §-t a 618/2022. (XII. 29.) Korm. rendelet 19. § d) pontja hatályon kívül helyezte.
+[^33]: A 7. §-t a 618/2022. (XII. 29.) Korm. rendelet 19. § d) pontja hatályon kívül helyezte.
