@@ -18,7 +18,7 @@ h) lakóhely,
 
 i) iskolai végzettség,
 
-j) az egyes alkalmasságvizsgálatok rész-, összesített és végeredményei, valamint az alkalmassági minősítéseket tartalmazó dokumentumok.
+j)[^4] az egyes alkalmasság- és kompetenciavizsgálatok rész-, összesített és végeredményei, valamint az alkalmassági minősítéseket tartalmazó dokumentumok.
 
 (2) A KOMP-rendszer
 
@@ -31,3 +31,5 @@ c) lehetőséget ad egyéni és összesített vélemények, jelentések és elem
 (3) A KOMP-rendszerben a hivatásos állomány személyi és szolgálati alapadatai a személyügyi alapnyilvántartás alapján, a Hszt. 107. §-a figyelembevételével kerülnek felhasználásra.
 
 (4) A KOMP-rendszerben folyamatosan, de legkésőbb az alkalmasságvizsgálati minősítés dátumát követő negyedév első hónapjának 15-éig rögzíteni kell az elvégzett alkalmasságvizsgálatokra vonatkozó minősítéseket.
+
+[^4]: A 8. § (1) bekezdés j) pontja a 60/2024. (XII. 23.) BM rendelet 109. § 4. pontja szerint módosított szöveg.

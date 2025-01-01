@@ -1,1 +1,3 @@
-114. § Az Országgyűlési Őrség parancsnoka legkésőbb e rendelet kihirdetését követő tíz napon belül kiadja a Hszt. 106/A. §-a szerinti belső szabályzatot.
+114. §[^44]
+
+[^44]: A 114. §-t a 60/2024. (XII. 23.) BM rendelet 110. § g) pontja hatályon kívül helyezte.

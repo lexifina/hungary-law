@@ -1,4 +1,4 @@
-111. §[^15] A FÜV bizottság határozatának közlését követően
+111. §[^42] A FÜV bizottság határozatának közlését követően
 
 a) „Hivatásos szolgálatra alkalmas” minősítés esetén az Országgyűlési Őrség parancsnoka a FÜV határozat közlésétől számított harminc napon belül intézkedik arra, hogy a hivatásos állomány tagja számára kezdeményezze a 100. § (2) bekezdése szerinti egészségi minimumfeltételeknek megfelelő szolgálati beosztás biztosítását,
 
@@ -10,4 +10,4 @@ bb) a Hszt. 86. § (2) bekezdés a) pontjában és 86. § (5) és (6) bekezdés�
 
 c) „Szolgálati beosztásának ellátására alkalmatlan” minősítés esetén a b) pont ba) vagy bb) alpontjában foglaltakon túl az Országgyűlési Őrség parancsnoka a FÜV határozat közlésétől számított tizenöt napon belül, amennyiben a minősítés időpontjában már rendelkezésre állt olyan szolgálati beosztás, amelyet a hivatásos állományú tagja elláthat, abban az esetben az Országgyűlési Őrség parancsnoka ezen szolgálati beosztásra vonatkozóan intézkedhet az alkalmasságvizsgálati eljárás újbóli elrendelésére.
 
-[^15]: A 111. § a 24/2023. (VI. 30.) BM rendelet 62. §-ával megállapított szöveg.
+[^42]: A 111. § a 24/2023. (VI. 30.) BM rendelet 62. §-ával megállapított szöveg.

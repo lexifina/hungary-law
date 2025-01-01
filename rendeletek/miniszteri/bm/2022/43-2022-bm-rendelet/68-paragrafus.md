@@ -10,10 +10,6 @@ c) a IX–XII. alkalmasságvizsgálati kategória esetében vezetői kompetencia
 
 kerül sor.
 
-(3) A kompetenciavizsgálat végrehajtása
+(3)[^17] A kompetenciavizsgálat végrehajtása a rendvédelmi alapellátó pszichológus feladata.
 
-a) a (2) bekezdés a) és b) pontja esetében a rendvédelmi alapellátó pszichológus,
-
-b) a (2) bekezdés c) pontja esetében az Országgyűlési Őrség parancsnokának közvetlen kezdeményezése alapján a minisztérium
-
-feladata.
+[^17]: A 68. § (3) bekezdése a 60/2024. (XII. 23.) BM rendelet 103. §-ával megállapított szöveg.

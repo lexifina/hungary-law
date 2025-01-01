@@ -14,10 +14,12 @@ cc) az elsőfokú, a másodfokú, illetve a háromfős bizottsági eljárás vag
 
 d) az alkalmasság minősítését és a minősítés érvényességét,
 
-e) „Korlátozással alkalmas” minősítés esetén a korlátozás fajtáját – így a gondozással vagy kategóriaváltással kapcsolatos, illetve egyéb megjelölést –, valamint az alkalmasság visszanyerését célzó támogató intézkedések meghatározását,
+e)[^7] „Korlátozással alkalmas” minősítés esetén a korlátozás fajtáját – így a gondozással kapcsolatos, illetve egyéb megjelölést –, valamint az alkalmasság visszanyerését célzó támogató intézkedések meghatározását,
 
 f) „Korlátozással alkalmas” és „Ideiglenesen alkalmatlan” minősítés esetén azt az időpontot, ameddig a következő alkalmasságvizsgálatot el kell végezni,
 
 g) a jogorvoslat lehetőségéről szóló tájékoztatást, illetve a minősítést követő hivatalból alkalmazott másodfokú, háromfős bizottsági eljárás vagy felülvizsgálati eljárás esetén ennek tényét,
 
 h) az alkalmasságvizsgálatot végző személy szervezeti eleme szerinti bélyegzőjének lenyomatát, a minősítő nevét és aláírását, egészségi alkalmasságvizsgálat esetén a vizsgálatot végző orvos bélyegzőjének lenyomatát.
+
+[^7]: A 22. § e) pontja a 60/2024. (XII. 23.) BM rendelet 109. § 7. pontja szerint módosított szöveg.

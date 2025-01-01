@@ -1,3 +1,3 @@
-129. §[^26]
+129. §[^56]
 
-[^26]: A 129. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^56]: A 129. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-132. §[^29]
+132. §[^59]
 
-[^29]: A 132. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^59]: A 132. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
