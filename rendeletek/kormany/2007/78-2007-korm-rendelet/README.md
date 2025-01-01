@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-78-20-2
 | 2015-04-01 | 2007-78-20-22.8 | 310/2014. (XII. 11.) Korm. rendelet |
 | 2020-01-01 | 2007-78-20-22.9 | 324/2019. (XII. 19.) Korm. rendelet |
 | 2020-03-01 | 2007-78-20-22.10 | 310/2014. (XII. 11.) Korm. rendelet |
+| 2025-01-01 | 2007-78-20-22.11 | 416/2024. (XII. 20.) Korm. rendelet |
