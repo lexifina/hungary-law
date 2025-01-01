@@ -16,21 +16,27 @@ e) az MNV Zrt.,
 
 f) a Diákhitel Központ Zártkörűen Működő Részvénytársaság,
 
-g) a Maradványvagyon-hasznosító Zártkörűen Működő Részvénytársaság (a továbbiakban: MVH),
+g) az Országgyűlés által, a Kormány által és a vármegyei önkormányzat által alapított közalapítványok,
 
-h) az Országgyűlés által, a Kormány által és a vármegyei önkormányzat által alapított közalapítványok,
+h) az olyan nonprofit gazdasági társaságok, amelyekben az állam legalább az Nvt. szerinti többségi befolyással rendelkezik,
 
-i) az olyan nonprofit gazdasági társaságok, amelyekben az állam legalább az Nvt. szerinti többségi befolyással rendelkezik,
+i) a 6/B. § (3) bekezdése szerinti, jogszabály által kijelölt, a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerint hitelintézetnek nem minősülő nem költségvetési szervi formában működő kezelő szerv, ide nem értve a Nemzeti Útdíjfizetési Szolgáltató Zártkörűen Működő Részvénytársaság tulajdonosi joggyakorlásával kapcsolatos kiadások alcím kezelő szerveként kijelölt gazdasági társaságot,
 
-j) a 6/B. § (3) bekezdése szerinti, jogszabály által kijelölt, a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerint hitelintézetnek nem minősülő nem költségvetési szervi formában működő kezelő szerv, ide nem értve a Nemzeti Útdíjfizetési Szolgáltató Zártkörűen Működő Részvénytársaság tulajdonosi joggyakorlásával kapcsolatos kiadások alcím kezelő szerveként kijelölt gazdasági társaságot,
+j) a Nemzeti Útdíjfizetési Szolgáltató Zártkörűen Működő Részvénytársaság,
 
-k) a Nemzeti Útdíjfizetési Szolgáltató Zártkörűen Működő Részvénytársaság,
+k) az adósságrendezési eljárás alatt álló önkormányzatok, az adósságrendezési eljárás során és az adósságrendezési eljárás jogerős befejezését követő két évig,
 
-l) az adósságrendezési eljárás alatt álló önkormányzatok, az adósságrendezési eljárás során és az adósságrendezési eljárás jogerős befejezését követő két évig
+l) az államháztartásért felelős miniszter döntése szerint a közfeladatot ellátó, központi kormányzati alszektorba tartozó kormányzati szektorba besorolt többségi állami tulajdonú gazdasági társaság
 
 [az a)–l) pont a továbbiakban együtt: kincstári körön kívüli számlatulajdonosok].
 
 (2a) A kincstári körön kívüli számlatulajdonos kérelmére a (2) bekezdésben meghatározott kötelezettség teljesítése alól az államháztartásért felelős miniszter teljeskörűen vagy meghatározott feladatok ellátásához kapcsolódóan felmentést adhat. A felmentés nem terjedhet ki az 51. § (4) bekezdése szerinti előírások alapján kizárólag a kincstárnál vezethető fizetési számlára.
+
+(2b) Az államháztartásért felelős miniszter a (2a) bekezdés szerint biztosított felmentést háromévente felülvizsgálja és a (2a) bekezdés szerinti
+
+a) teljeskörű felmentést meghatározott feladatok ellátásához kapcsolódó felmentésre módosítja, vagy visszavonja, vagy
+
+b) a meghatározott feladatok ellátásához kapcsolódó felmentést teljeskörű felmentésre módosítja, vagy visszavonja.
 
 (3) A kincstári körön kívüli számlatulajdonosok – a Médiaszolgáltatás-támogató és Vagyonkezelő Alap, valamint a (2a) bekezdés szerinti felmentéssel rendelkező kincstári körön kívüli számlatulajdonos kivételével – hitelintézetnél forintban vezetett fizetési számlával – az általuk foglalkoztatott személyek lakásépítésének, lakásvásárlásának munkáltatói támogatására szolgáló számla kivételével –, valamint – a (2a) bekezdés szerinti felmentés ez irányú rendelkezésének hiányában – értékpapírszámlával nem rendelkezhetnek, értékpapírt nem vásárolhatnak.
 

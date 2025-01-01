@@ -70,4 +70,6 @@ d) a belső ellenőrzés körébe tartozó tevékenység vonatkozásában a fogl
 
 nem végezhet a (7) bekezdés szerinti tevékenységet.
 
+(7c) A (7) bekezdés szerinti közigazgatási szankciót a Közigazgatási Szankciók Nyilvántartásába nem kell bejegyezni.
+
 (8) A belső ellenőri tevékenység bejelentésére a nyilvántartásba bejegyzett adatok módosítására és törlésére irányuló eljárásért az államháztartásért felelős miniszter rendeletében meghatározott igazgatási szolgáltatási díjat kell fizetni.

@@ -18,7 +18,7 @@ gyűjtő, nyilvántartó, feldolgozó és szolgáltató információs rendszer.
 
 (6) A KKVTR rendszer nyilvántartja a központi költségvetés végrehajtása szempontjából az előirányzat-módosítást, az előirányzat-módosítási kötelezettség nélkül túlteljesíthető előirányzatokhoz kapcsolódó keretnövelés, a 36. § (2) bekezdése szerinti kormányhatározatokban meghatározott kötelezettségvállalások, valamint a kiadások és bevételek teljesítésének adatait.
 
-(7) Az államháztartás központi alrendszerébe tartozó költségvetési szerv – a polgári nemzetbiztonsági szolgálatokra és a Katonai Nemzetbiztonsági Szolgálatra vonatkozó adatok kivételével – a Kormány rendeletében meghatározottak szerint a KKVTR rendszerbe adatot szolgáltat a követelések, kötelezettségvállalások és más fizetési kötelezettségek adatairól.
+(7) Az államháztartás központi alrendszerébe tartozó költségvetési szerv – a polgári nemzetbiztonsági szolgálatokra és a Katonai Nemzetbiztonsági Szolgálatra vonatkozó adatok kivételével – valamint a fejezeti kezelésű előirányzatok fejezetet irányító szerve a Kormány rendeletében meghatározottak szerint a KKVTR rendszerbe adatot szolgáltat a követelések, kötelezettségvállalások és más fizetési kötelezettségek adatairól.
 
 (8) A KKVTR rendszer – a polgári nemzetbiztonsági szolgálatokra és a Katonai Nemzetbiztonsági Szolgálatra vonatkozó adatok kivételével – a követelések, kötelezettségvállalások és más fizetési kötelezettségek tekintetében legalább az alábbi adatokat tartalmazza:
 

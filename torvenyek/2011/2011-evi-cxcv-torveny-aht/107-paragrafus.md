@@ -4,7 +4,7 @@
 
 (1a) Az államháztartásért felelős miniszter a Kormány rendeletében meghatározott adatszolgáltatásra hívhatja fel a kincstárnál vezetett fizetési számlával rendelkező helyi önkormányzatot, helyi nemzetiségi önkormányzatot, társulást, térségi fejlesztési tanácsot a számlaállományára vonatkozó adatszolgáltatás teljesítése érdekében.
 
-(1b) A különleges gazdasági övezet fekvése szerinti vármegye vármegyei önkormányzata a kincstár közreműködésével a Kormány rendeletében meghatározott határidő lejártáig az ott meghatározott teljes adatkörre vonatkozóan adatot szolgáltat a tárgyévet megelőző évben realizált helyi adók összegéről a helyi önkormányzatokért felelős miniszter által vezetett minisztérium és az államháztartásért felelős miniszter által vezetett minisztérium részére, valamint a helyi adóbevételből – a vármegyei önkormányzat támogatásával – részesült települési önkormányzatok számára az adott önkormányzatot érintő adatkörre vonatkozóan.
+(1b)
 
 (1c) A tárgyévet megelőző év július 1-jén hatályos helyi iparűzési adórendelettel rendelkező települési önkormányzat a Kormány rendeletében meghatározott határidő lejártáig a kincstár közreműködésével adatot szolgáltat az iparűzési adóerő-képességet meghatározó iparűzési adóalap összegéről az államháztartásért felelős miniszter által vezetett minisztérium részére.
 

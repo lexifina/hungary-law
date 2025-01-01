@@ -1,6 +1,6 @@
 21. § (1) A központi költségvetésről szóló törvényben rendkívüli kormányzati intézkedésekre szolgáló tartalékot kell képezni az év közben meghozott kormányzati döntésekből következő feladatok finanszírozására és az előirányzott, de elháríthatatlan ok miatt elmaradó költségvetési bevételek pótlására. A rendkívüli kormányzati intézkedésekre szolgáló tartalék felhasználásáról a Kormány a 33. § (2) bekezdése szerint, egyedi határozatban rendelkezik.
 
-(2) A rendkívüli kormányzati intézkedésekre szolgáló tartalék előirányzata nem lehet több a központi költségvetésről szóló törvény kiadási főösszegének 2%-ánál, és nem lehet kevesebb 0,5%-ánál.
+(2)
 
 (3) A rendkívüli kormányzati intézkedésekre szolgáló tartaléknak – az éves hatást tekintve – legfeljebb 40%-a használható fel az első félévben. E mértéktől nagyobb felhasználáshoz az Országgyűlés jóváhagyása szükséges.
 

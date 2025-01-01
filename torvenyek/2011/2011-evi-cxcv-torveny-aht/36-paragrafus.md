@@ -16,7 +16,7 @@ ba) a személyi juttatások, a munkaadókat terhelő járulékok és szociális 
 
 bb) az egyéb működési célú kiadások és a felhalmozási kiadások előirányzatai terhére azoknak a költségvetési évben jóváhagyott eredeti előirányzatának ötven százalékáig,
 
-c) a XIII. Honvédelmi Minisztérium fejezet 1–8. címe és az LI. Honvédelmi Alap fejezet 1–4. címe tekintetében a költségvetési évben jóváhagyott eredeti kiadási előirányzat száz százalékáig
+c) a XIII. Honvédelmi Minisztérium fejezet 1–8. címe tekintetében a költségvetési évben jóváhagyott eredeti kiadási előirányzat száz százalékáig
 
 vállalható.
 

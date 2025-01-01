@@ -36,7 +36,7 @@
 
 15. a költségvetési támogatások tekintetében
 
-a) a támogatási igények benyújtásának, elbírálásának, folyósításának – ideértve a köztartozás-mentesség vizsgálatát is –, felhasználásának, a költségvetési támogatás felhasználására vonatkozó beszámolásnak, a felhasználás ellenőrzésének és a jogosulatlanul igénybe vett költségvetési támogatás visszakövetelésének, a támogatási szerződés módosításának,
+a) a támogatási igények benyújtásának, elbírálásának, folyósításának, a támogatási előleg összegének – ideértve a köztartozás-mentesség vizsgálatát is –, felhasználásának, a költségvetési támogatás felhasználására vonatkozó beszámolásnak, a felhasználás ellenőrzésének és a jogosulatlanul igénybe vett költségvetési támogatás visszakövetelésének, a támogatási szerződés módosításának,
 
 b) a költségvetési támogatások biztosításának e törvény előírásain felüli további feltételeit,
 
