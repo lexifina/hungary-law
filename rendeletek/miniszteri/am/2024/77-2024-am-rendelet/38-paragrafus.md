@@ -1,0 +1,1 @@
+38. § Tenyészkosok és -bakok hús-tej célú üzemi ivadékvizsgálata végzésére támogatást igényelhet a tenyésztőszervezet, ha a vizsgálatok a tenyésztési program által előírt módszerrel és egyedszámmal kerültek elvégzésre és kiértékelésre.

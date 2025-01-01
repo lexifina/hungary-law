@@ -1,0 +1,3 @@
+13. § (1) Hústermelés-ellenőrzés tevékenységre támogatást igényelhet a tenyésztőszervezet, a hús- és kettőshasznú fajta esetében a hústermelés-ellenőrzésben tartott tehénállománya után. A támogatás a Termékenyítési Rendszerben regisztrált, húshasznú és kettőshasznú fajta esetében húshasznú apaságú és az Egységes Nyilvántartási és Azonosítási Rendszerben regisztrált, a 8. § (2) bekezdés b) pontja szerinti időszakban leellett elsőborjas üszők és tehenek után igényelhető.
+
+(2) A támogatás igénybevételének feltétele, hogy a tenyésztőszervezet a tenyésztési programjában meghatározott, elvégzett teljesítményvizsgálatra vonatkozó egyedi mért és számított adatokat a tenyésztési hatósággal kötött megállapodásban foglaltak szerint a tenyésztési hatóságnak benyújtsa.

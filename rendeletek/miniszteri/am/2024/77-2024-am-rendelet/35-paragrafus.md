@@ -1,0 +1,1 @@
+35. § Növendék kosok és bakok üzemi sajátteljesítmény-vizsgálatára támogatást igényelhet a tenyésztőszervezet, ha a vizsgálatok a tenyésztési program előírásai szerint kerülnek elvégzésre és kiértékelésre, egységes számítógépes feldolgozás mellett.

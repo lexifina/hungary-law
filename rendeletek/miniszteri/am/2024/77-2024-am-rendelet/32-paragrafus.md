@@ -1,0 +1,1 @@
+32. § Minősített anyák bárányozási teljesítményvizsgálatának, minősített anyakecskék – született gidák után történő – szaporasági teljesítményvizsgálatának végzésére támogatást igényelhet a tenyésztőszervezet, ha a vizsgálatok a tenyésztési program előírásai szerint kerülnek elvégzésre és kiértékelésre, egységes számítógépes feldolgozás mellett.

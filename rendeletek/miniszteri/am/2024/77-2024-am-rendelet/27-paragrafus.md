@@ -1,0 +1,1 @@
+27. § HVT végzésére támogatást igényelhet a tenyésztőszervezet a tenyésztési program előírásainak megfelelően végzett egyedi, vagy csoportos vizsgálatok végzése alapján, a vizsgálati eredménynek a központi adatbankba történő átadását követően.

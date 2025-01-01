@@ -1,0 +1,3 @@
+22. § (1) Az egyedek genotípusának megállapítására vonatkozó tevékenységre támogatást igényelhet a tenyésztőszervezet a törzskönyvében regisztrált tenyészbikajelöltek, nőivarú egyedek genomikus vizsgálata után.
+
+(2) A támogatás feltétele, hogy a tenyészérték becsléssel kapcsolatos feladatokat a NÉBIH a tenyésztőszervezettel kötött megállapodásban elfogadta, továbbá az adott egyed egypontos nukleotid polimorfizmus információja (a továbbiakban: SNP információ) elismert genetikai laboratóriumból származzon, és azokat a tenyésztőszervezet a NÉBIH részére, a NÉBIH-hel kötött megállapodásban foglaltak szerint átadta a hazai referencia adatbázis felépítése céljából.

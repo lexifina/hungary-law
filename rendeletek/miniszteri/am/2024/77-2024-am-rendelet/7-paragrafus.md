@@ -1,0 +1,3 @@
+7. § (1) A NÉBIH ellenőrzi, hogy a kérelem megfelel-e a 6. § (1) bekezdésében foglaltaknak, és az erre vonatkozó megállapítását a kérelemre rájegyzett – az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 95. § (1) bekezdésében foglaltak szerinti – hatósági bizonyítványban rögzíti, továbbá nyilvántartásba vétel céljából a hatósági bizonyítvánnyal ellátott kérelem egy másolati példányát megküldi az abban megnevezett tenyésztőszervezet részére. A tenyésztőszervezet a NÉBIH döntéséről tájékoztatja a kedvezményezettet.
+
+(2) A tenyésztőszervezet a 2. § (2) bekezdés b) és c) pontja szerinti szolgáltatás nyújtását a kedvezményezett kérelmének hatósági bizonyítvánnyal történő ellátását követően kezdheti meg.

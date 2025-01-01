@@ -1,0 +1,1 @@
+34. § Növendék jerkék és gödölyék üzemi sajátteljesítmény-vizsgálata végzésére támogatást igényelhet a tenyésztőszervezet az ismert származású egyed után, ha a vizsgálatok a tenyésztési program előírásai szerint kerülnek elvégzésre és kiértékelésre, egységes számítógépes feldolgozás mellett.

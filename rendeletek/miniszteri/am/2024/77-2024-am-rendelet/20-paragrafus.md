@@ -1,0 +1,3 @@
+20. § (1) Ultrahanggal végzett vágóérték vizsgálatokra – így például a rostélyos keresztmetszet, márványozottság, háti és fari bőr alatti faggyúvastagság vizsgálatra – támogatást igényelhet a hús- és kettőshasznú fajta tenyésztőszervezete. A támogatás ismert származású, 2 éves kort be nem töltött, főtörzskönyves, hím- és nőivarú egyedek tenyésztési programban előírt mérési eredményei után igényelhető.
+
+(2) A támogatás feltétele, hogy a tenyésztőszervezet az általa elkészített vizsgálati tervet a tenyésztési hatóság számára megküldte, és a mért adatokat a tenyésztési hatóság részére a tenyésztési hatósággal kötött megállapodásban foglaltak szerint átadta.

@@ -1,0 +1,1 @@
+26. § ÜSTV végzésére támogatást igényelhet a tenyésztőszervezet, ha a tenyésztési program előírásainak megfelelően végzett vizsgálati eredményeit a törzskönyvben rögzíti és az ÜSTV rekordok számának megfelelő adatokat a tenyésztési hatóságnak átadja.

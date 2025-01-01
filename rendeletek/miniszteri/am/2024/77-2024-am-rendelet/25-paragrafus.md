@@ -1,0 +1,1 @@
+25. § Intramuszkuláris zsírvizsgálat végzésére támogatást igényelhet a tenyésztőszervezet a HVT vagy a hízékonysági és vágási végtermékteszt vizsgálatba vont sertések intramuszkuláris zsírszázalék megállapítása céljából.
