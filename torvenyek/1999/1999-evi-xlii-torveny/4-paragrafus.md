@@ -2,7 +2,7 @@
 
 (2)
 
-(3) A 2. § (2) bekezdés c) pontjában nem szereplő közforgalmú, valamint a magánforgalomban közlekedő közösségi közlekedési eszközökön a dohányzóhely kijelöléséről az üzembentartó dönt. A kijelölés tűzvédelmi szabályokat vagy közlekedésbiztonsági érdeket nem sérthet.
+(3)
 
 (4)–(5)
 

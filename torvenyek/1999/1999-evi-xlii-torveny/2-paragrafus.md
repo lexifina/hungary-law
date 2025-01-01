@@ -22,7 +22,7 @@ a) közforgalmú intézmények zárt légterű helyiségeiben,
 
 b) munkahelyek zárt légterű helyiségeiben,
 
-c) helyi közforgalomban közlekedő közösségi közlekedési eszközön, helyiérdekű vasúton, menetrend alapján belföldi helyközi közforgalomban közlekedő autóbuszon, valamint menetrend szerint közlekedő személyszállító vonaton.
+c) helyi és helyközi közforgalomban közlekedő közforgalmú, valamint magánforgalomban közlekedő közösségi közlekedési eszközökön.
 
 (3) Az (1) bekezdés a) pontjában foglaltaktól eltérően dohányzóhely kijelölése nélkül is lehet dohányozni
 
