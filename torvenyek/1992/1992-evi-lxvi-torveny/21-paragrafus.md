@@ -12,7 +12,7 @@ d) a szociális igazgatás szervei a szociális gondoskodás körében felmerül
 
 e) a díjköteles országos közutak díjfizetés ellenében történő használatának ellenőrzésére jogosult szervezetek törvényben meghatározott feladataik ellátásához.
 
-f)
+f) lakcímadatok, állampolgárság, családi állapot, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helye, a nem, valamint a nyilvántartásból való, az elhalálozáson kívüli kikerülés okára vonatkozó adatok kivételével a házassági és az élettársi vagyonjogi szerződések országos nyilvántartásában szereplő személy halálának a házassági és az élettársi vagyonjogi szerződések országos nyilvántartásában való feltüntetése érdekében a Magyar Országos Közjegyzői Kamara;
 
 g) a legfőbb ügyész, illetve az igazságügyért felelős miniszter a kegyelmi eljárás, valamint az igazságügyért felelős miniszter a bűnügyi költség és rendbírság mérséklése, elengedése iránti kérelmek elbírálása során;
 
@@ -36,7 +36,7 @@ mb)
 
 mc) a bejegyzett élettársi kapcsolat megszüntetésére irányuló, valamint az Élettársi Nyilatkozatok Nyilvántartásának vezetésére irányuló polgári nemperes eljáráshoz, továbbá az állampolgárságra, a családi állapotra, a házasságkötés vagy a bejegyzett élettársi kapcsolat létesítésének helyére vonatkozó adatok, a nemre, és a nyilvántartásból való, az elhalálozáson kívüli kikerülés okára, helyére és idejére vonatkozó adatok kivételével az egyéb közjegyzői nemperes eljárásokhoz;
 
-n) az Élettársi Nyilatkozatok Nyilvántartásában szereplő személy házasságkötésének, bejegyzett élettársi kapcsolata létesítésének és halálának az Élettársi Nyilatkozatok Nyilvántartásában való feltüntetése érdekében a Magyar Országos Közjegyzői Kamara;
+n) lakcímadatok, a nem, valamint a nyilvántartásból való, az elhalálozáson kívüli kikerülés okára vonatkozó adatok kivételével az Élettársi Nyilatkozatok Nyilvántartásában szereplő személy házasságkötésének, bejegyzett élettársi kapcsolata létesítésének és halálának az Élettársi Nyilatkozatok Nyilvántartásában való feltüntetése érdekében a Magyar Országos Közjegyzői Kamara;
 
 o) az állampolgárság, a családi állapot, a házasságkötés helye, a nem, valamint a nyilvántartásból való kikerülés okára, helyére és idejére vonatkozó adatok kivételével a kártörténeti nyilvántartást kezelő szerv a kártörténeti nyilvántartásban szereplő üzemben tartó személyazonosító adatai nyilvántartásának naprakészen tartásához,
 

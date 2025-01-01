@@ -105,3 +105,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1992-66-00-00
 | 2024-10-31 | 2024. évi XII. törvény | 1992-66-00-00.139 |
 | 2024-11-01 | 2024. évi XLI. törvény | 1992-66-00-00.142 |
 | 2024-12-23 | 2024. évi LXXXI. törvény | 1992-66-00-00.148 |
+| 2025-01-01 | 2024. évi LXXXV. törvény | 1992-66-00-00.141 |

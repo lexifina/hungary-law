@@ -1,0 +1,1 @@
+19/M. § A hulladékgazdálkodási hatóság a hulladékgazdálkodási tevékenységek felügyelete, az elhagyott hulladék felszámolása, a hulladékgazdálkodási kötelezettségek teljesítésének ellenőrzése érdekében e feladatainak ellátásához a természetes személy ingatlanhasználó 17. § (2) bekezdés f) pontja szerinti adatait jogosult igényelni.
