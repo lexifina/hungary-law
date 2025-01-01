@@ -20,11 +20,11 @@ h) gondoskodik az Állat-egészségügyi és Állatvédelmi Kódex összeállít
 
 i) gondoskodik a Növényvédelmi Módszertani Gyűjtemény összeállításáról és közzétételéről;
 
-j) meghatározza a nemzetközi kötelezettségekkel, valamint az ország agrárgazdaságának céljaival összhangban az élelmiszerlánc-ellenőrzés feladatait;
+j) meghatározza a nemzetközi kötelezettségekkel, valamint az ország agrárgazdaságának céljaival összhangban az élelmiszerlánc-ellenőrzés feladatait az általa irányított élelmiszerlánc-felügyeleti szerv vonatkozásában;;
 
 k) kinevezi, illetve felmenti a közvetlen irányítása alá tartozó országos főállatorvost és annak helyettesét;
 
-l) az országos főállatorvos útján ellátja az élelmiszerlánc-felügyeleti szerv szakmai irányítását, amelynek keretében közvetlen szakmai utasítást adhat az élelmiszerlánc-felügyeleti szervek részére hatósági eljárás lefolytatására
+l) az országos főállatorvos útján ellátja – a kereskedelemért felelős miniszter által irányított, élelmiszerlánc-felügyeleti szervként kijelölt hatóság kivételével – az élelmiszerlánc-felügyeleti szerv szakmai irányítását, amelynek keretében közvetlen szakmai utasítást adhat az élelmiszerlánc-felügyeleti szervek részére hatósági eljárás lefolytatására
 
 la) járványos állat- vagy növénybetegség megjelenése, valamint
 

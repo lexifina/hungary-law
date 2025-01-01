@@ -38,7 +38,7 @@
 
 19. a gombaszakellenőrökről, a 853/2004/EK európai parlamenti és tanácsi rendelet III. melléklet IV. szakasz I. fejezet 2. pontja szerinti képzett személynek minősülő személyekről (a továbbiakban: vadhúsvizsgáló) és a hatósági állatorvos méhegészségüggyel kapcsolatos munkáját segítő, e törvény végrehajtására kiadott rendeletben meghatározott méhészeti ismeretekkel rendelkező személyekről (a továbbiakban: méhegészségügyi felelős);
 
-20. élelmiszerlánc-felügyeleti díj bevallására, illetve fizetésére kötelezettekről;
+20.
 
 21. a légi permetezés iránti kérelmekről és az ezzel kapcsolatos döntésekről;
 
@@ -96,13 +96,7 @@ d) jogi személy, valamint jogi személyiséggel nem rendelkező szervezet eset�
 
 (5) A vámhatóság az országos vámadatbázishoz hozzáférést biztosít az élelmiszerlánc-felügyeleti szerv részére, annak hatósági eljárásához szükséges mértékben, melynek során a személyes adatok körébe tartozó adatok közül az érintett nevét, címét is hozzáférhetővé teszi.
 
-(6) Az állami adóhatóság megkeresésre adatot szolgáltat az élelmiszerlánc-felügyeleti szervnek elektronikus úton a felügyeleti díj bevallásának és megfizetésének ellenőrzésével, továbbá a felügyeleti díj bevallására kötelezettek nyilvántartása céljából, a felügyeleti díj bevallására kötelezett adózó
-
-a) nevéről (cégnevéről), lakcíméről (székhelyéről, telephelyéről, fióktelepéről), adóazonosító jeléről (adószámáról), születési helyéről és idejéről,
-
-b) társasági adóbevallás szerinti éves nettó árbevételének összegéről, az egyszerűsített vállalkozási adó alapját képező bevételének összegéről, magánszemélyek esetében az önálló tevékenységből származó jövedelem és árbevétel összegéről az egyéni vállalkozói tevékenységből, illetve a mezőgazdasági őstermelői tevékenységből származó jövedelem és árbevétel vonatkozásában,
-
-c) által végzett tevékenységekről.
+(6)
 
 (7) Az állami adó- és vámhatóság megkeresésre tájékoztatja az élelmiszerlánc-felügyeleti szervet az adó- és vámtitkot képező adatról vagy információról, ha az az ügyfél személyének azonosításához vagy az élelmiszerlánc-felügyeleti szerv hatósági feladatának ellátásához szükséges. Az állami adó- és vámhatóság az adózás rendjéről szóló törvényben meghatározott, az állami adó- és vámhatóság által működtetett EKAER-ben a 4. § szerint az élelmiszerlánc-felügyeleti szerv felügyeleti hatáskörébe tartozó termékekkel összefüggésben rögzített adatokat a rögzítést követően haladéktalanul, elektronikus úton továbbítja az élelmiszerlánc-felügyeleti szerv részére az ügyfél személyének azonosítása és az élelmiszerlánc-felügyeleti szerv hatósági feladatának ellátása céljából.
 

@@ -22,7 +22,7 @@ i) feladatai ellátására ügyeleti és készenléti szolgálatot szervez, az e
 
 j) az integrált többéves nemzeti ellenőrzési terv alapján kidolgozza az élelmiszerlánc valamennyi elemére kiterjedő, kockázat alapú, területi éves ellenőrzési tervet, irányítja, szervezi és ellenőrzi annak végrehajtását;
 
-k) ellát az egyes élelmiszerlánc-felügyeleti feladatok végrehajtását segítő hazai és nemzetközi informatikai rendszerek használatával és működtetésével kapcsolatos feladatokat;
+k) ellátja az egyes élelmiszerlánc-felügyeleti feladatok végrehajtását segítő hazai és nemzetközi informatikai rendszerek használatával és működtetésével kapcsolatos feladatokat;
 
 l) feladatainak ellátása során folyamatosan kapcsolatot tart és együttműködik a települési önkormányzatokkal, a társhatóságokkal, valamint a civil szervezetekkel;
 
@@ -72,9 +72,9 @@ d) működteti a növényvédelem, továbbá a talaj- és agrárkörnyezet-véde
 
 e) biztosítja a növényvédelmi gépek műszaki felülvizsgálatára vonatkozó tevékenység szakmai felügyeletét.
 
-(4a) A 17. § (4) bekezdésében foglalt kötelezettséggel összefüggésben tett közérdekű bejelentés esetében 5 napon belül kell a helyszíni ellenőrzést lefolytatni és a közérdekű bejelentést elbírálni az 50. § (4) és (5) bekezdésében foglaltak szerint.
+(4a) A 17. § (4) bekezdésében foglalt kötelezettség elmulasztásával összefüggésben tett bejelentés esetében 5 napon belül e törvény végrehajtására kiadott rendeletben foglaltak szerint helyszíni ellenőrzést kell lefolytatni és a helyszíni ellenőrzésről készült jegyzőkönyvet haladéktalanul továbbítani kell az élelmiszerlánc-felügyeleti szerv részére a parlagfű elleni közérdekű védekezés elrendelése érdekében.
 
-(5) Az élelmiszerlánc-felügyeleti szerv országos hatáskörben a több vármegyét érintő vagy nemzetközi vonatkozásokkal bíró, a nagy gazdasági kárral járó, a fogyasztók széles körét veszélyeztető, élelmiszerlánc-események kivizsgálása, valamint az élelmiszerlánc-felügyeleti díj megfizetésének ellenőrzése során
+(5) Az élelmiszerlánc-felügyeleti szerv országos hatáskörben a több vármegyét érintő vagy nemzetközi vonatkozásokkal bíró, a nagy gazdasági kárral járó, a fogyasztók széles körét veszélyeztető, élelmiszerlánc-események kivizsgálása során
 
 a) ellenőrzi a kockázatbecslés alapján kiemelten kockázatosnak minősített, élelmiszerláncot érintő tevékenységet végzőket, és azok létesítményeit;
 

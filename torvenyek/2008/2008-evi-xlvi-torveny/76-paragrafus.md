@@ -48,7 +48,7 @@ o) állapítsa meg az élelmiszermentéssel kapcsolatos részletes szabályokat.
 
 1–2.
 
-3. az élelmiszerlánc területén alkalmazható intézkedések részletes szabályait;
+3.
 
 4. a kártalanítás összegének megállapítására, a kártalanítási eljárásra és a kártalanításból való kizárásra vonatkozó részletes szabályokat;
 
@@ -68,7 +68,7 @@ o) állapítsa meg az élelmiszermentéssel kapcsolatos részletes szabályokat.
 
 12. a termésnövelő anyagok engedélyezésének, nyilvántartásba vételének, tárolásának, jelölésének, forgalomba hozatalának, felhasználásának és ezek ellenőrzésének részletes szabályait;
 
-13. a zöldség és gyümölcs ellenőrzésére vonatkozó részletes szabályokat;
+13.
 
 14. a takarmányok előállításának, tárolásának, szállításának, forgalomba hozatalának, felhasználásának, csomagolásának, jelölésének, a megengedettnél több nemkívánatos anyagot tartalmazó takarmány felhasználásának feltételeit és rendjét;
 
@@ -78,7 +78,7 @@ o) állapítsa meg az élelmiszermentéssel kapcsolatos részletes szabályokat.
 
 17. a bejelentendő állatbetegségek körét és azok leküzdésének részletes szabályait;
 
-18. az élelmiszer-ellenőrzés rendjét;
+18.
 
 19. az állat tartásának, tenyésztésének, szaporításának, forgalomba hozatalának, levágásának, leölésének, az állatvásár, az állatkiállítás, az állatbemutató, az állatverseny tartásának állat-egészségügyi szabályait;
 
@@ -94,31 +94,31 @@ o) állapítsa meg az élelmiszermentéssel kapcsolatos részletes szabályokat.
 
 25. a nem állami laboratóriumok engedélyezésének, nyilvántartásba vételének és működésének részletes szabályait;
 
-26. az élelmiszer-előállítás, -jelölés, -tárolás, továbbá -szállítás szabályait;
+26. az élelmiszer-előállítás, szabályait;
 
 27. az élelmiszer-adalékanyagok, enzimek, aromák felhasználásának egyes szabályait;
 
-28. az élelmiszer-előállítás és forgalomba hozatal élelmiszer-higiéniai feltételeit;
+28.
 
 29. a kistermelői élelmiszer-előállítás és forgalmazás élelmiszer-higiéniai feltételeit;
 
 30. a vendéglátó-ipari termékek előállításának feltételeit;
 
-31. az élelmiszer-ipari gépek, berendezések élelmiszer-higiéniai engedélyezésének feltételeit;
+31.
 
-32. az ivóvíz, az ásványvíz, a forrásvíz és az ízesített víz palackozásának és forgalomba hozatalának szabályait;
+32.
 
 33. a mezőgazdasági termékek és élelmiszerek ökológiai termelési és integrált gazdálkodási követelmények szerinti tanúsításának, előállításának, forgalomba hozatalának és jelölésének egyes szabályait, valamint a tanúsító szervezet elismerésére, működésére, adatszolgáltatására, felügyeletére, az elismerés felfüggesztésére, visszavonására vonatkozó szabályokat;
 
-34. az élelmiszerekkel érintkezésbe kerülő anyagok felhasználásának szabályait;
+34.
 
 35. az e törvény hatálya alá tartozó eljárásokért fizetendő igazgatási szolgáltatási díjak megfizetésével kapcsolatos eljárási szabályokat, valamint az igazgatási szolgáltatási díjak felhasználásának szabályait;
 
 36. az állat- és növény-egészségügyi határállomásokra vonatkozó részletes szabályokat;
 
-37. a gyógy- és fűszernövények gyűjtésére, termesztésére, feldolgozására, gyógynövénytermékek és fűszernövények előállítására, forgalomba hozatalára, valamint ezen tevékenységek ellenőrzésére vonatkozó részletes szabályokat;
+37.
 
-38. az étkezési célra kerülő vadon termett gombák gyűjtésére, feldolgozására, forgalomba hozatalára vonatkozó minőségi, élelmiszerbiztonsági és ellenőrzési szabályokat;
+38.
 
 39. a gombaszakellenőri tevékenység folytatásának részletes feltételeit, a gombaszakellenőri tevékenység bejelentésére és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a gombaszakellenőri tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket.
 
@@ -128,7 +128,7 @@ o) állapítsa meg az élelmiszermentéssel kapcsolatos részletes szabályokat.
 
 42. az élelmiszerek ionizáló energiával való kezelésének feltételeit és szabályait;
 
-43. a felügyeleti díj bevallásának és megfizetésének részletes szabályait;
+43.
 
 44. a méhek tartásának és a méz előállításának részletes szabályait;
 
@@ -138,25 +138,25 @@ o) állapítsa meg az élelmiszermentéssel kapcsolatos részletes szabályokat.
 
 47. az e törvény hatálya alá tartozó termékekkel kapcsolatos tanúsítványokra vonatkozó hatósági felügyelet szabályait;
 
-48. az élelmiszerlánc-felügyeleti szerv által lefolytatott eljárás eljárási költségének mértékét és kiszámításának részletes szabályait;
+48.
 
 49. a géntechnológiával módosított szervezettől mentes élelmiszer és takarmány előállításának, jelölésének, forgalomba hozatalának és ellenőrzésének szabályait;
 
 50. az ízesített borászati termékek meghatározásának, megnevezésének és kiszerelésének szabályait;
 
-51. a vendéglátó-ipari létesítmények minősítési rendszerének, a higiéniai, élelmiszer-biztonsági és élelmiszer-minőségi szempontok szerinti vizsgálatának, értékelésének részletes szabályait, valamint a minősített vendéglátó-ipari létesítmények működésére vonatkozó követelményeket;
+51.
 
 52. a növényvédelmi szolgáltatás nyújtására irányuló szerződés élelmiszerlánc-felügyeleti szervnek történő bejelentésének részletes szabályait;
 
 53. a növényvédelmi gépek típusminősítésének és műszaki felülvizsgálatának részletes szabályait;
 
-54. a mezőgazdasági gépkezelői jogosítvány megszerzésének és kiadásának részletes szabályait;
+54.
 
 55. a szolgáltató állatorvosok által ellátandó állategészségügyi állami feladatok végzésének szakmai szabályait;
 
 56. a diagnosztikai kilövés során használható eszközök körét.
 
-57. az (EU) 2017/625 európai parlamenti és tanácsi rendelet 35. cikke szerinti ellenminta vételével, valamint második szakvélemény és másik hatósági laboratóriumi vizsgálat kezdeményezésével és elvégzésével kapcsolatos részletes szabályokat;
+57.
 
 58. rendkívüli élelmiszerlánc-esemény esetén az állattartó létesítmények között alkalmazandó védőtávolságot;
 
@@ -186,7 +186,23 @@ c) a kereskedelemért felelős miniszterrel egyetértésben az élelmiszerek for
 
 d) a vendéglátásért, valamint a kereskedelemért felelős miniszterrel egyetértésben a vendéglátó-ipari termékek forgalomba hozatalának szabályait;
 
-e)
+e) a kereskedelemért felelős miniszterrel egyetértésben
+
+ea) az élelmiszerlánc területén alkalmazható intézkedések részletes szabályait,
+
+eb) az élelmiszer-jelölés, -tárolás, továbbá -szállítás szabályait,
+
+ec) az ivóvíz, az ásványvíz, a forrásvíz és az ízesített víz palackozásának és forgalomba hozatalának szabályait,
+
+ed) az élelmiszerekkel érintkezésbe kerülő anyagok felhasználásának szabályait,
+
+ee) a gyógy- és fűszernövények gyűjtésére, termesztésére, feldolgozására, gyógynövénytermékek és fűszernövények előállítására, forgalomba hozatalára, valamint ezen tevékenységek ellenőrzésére vonatkozó részletes szabályokat,
+
+ef) az étkezési célra kerülő vadon termett gombák gyűjtésére, feldolgozására, forgalomba hozatalára vonatkozó minőségi, élelmiszerbiztonsági és ellenőrzési szabályokat,
+
+eg) az élelmiszerlánc-felügyeleti szerv által lefolytatott eljárás eljárási költségének mértékét és kiszámításának részletes szabályait, és
+
+eh) a vendéglátó-ipari létesítmények minősítési rendszerének, a higiéniai, élelmiszer-biztonsági és élelmiszer-minőségi szempontok szerinti vizsgálatának, értékelésének részletes szabályait, valamint a minősített vendéglátó-ipari létesítmények működésére vonatkozó követelményeket.
 
 f) a hulladékgazdálkodásért felelős miniszterrel egyetértésben a növényvédő szerrel érintkezésbe került csomagolóeszközök kezelésére vonatkozó részletes szabályokat;
 
@@ -194,19 +210,33 @@ g) a környezetvédelemért felelős miniszterrel egyetértésben a növényvéd
 
 h) a környezetvédelemért felelős miniszterrel egyetértésben az állati melléktermékből készített komposztok mezőgazdasági területen történő felhasználásának feltételeit;
 
-i) az adópolitikáért felelős miniszterrel egyetértésben az e törvény hatálya alá tartozó eljárásokért fizetendő igazgatási szolgáltatási díjak mértékét;
+i) az adópolitikáért felelős miniszterrel, valamint a kereskedelemért felelős miniszterrel egyetértésben az e törvény hatálya alá tartozó eljárásokért fizetendő igazgatási szolgáltatási díjak mértékét;
 
 j) az adópolitikáért felelős miniszterrel egyetértésben az áruk behozatala, illetve kivitele során a vámhatóságra vonatkozó, e törvény hatálya alá tartozó eljárásokkal kapcsolatos rendelkezéseket;
 
 k) a rendészetért felelős miniszterrel egyetértésben az élelmiszer-rendészek feladatellátásának és nyilvántartásba vételének részletes szabályait.
 
+(5a) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg
+
+a) az élelmiszer-előállítás, és
+
+b) – a kereskedelemért felelős miniszterrel egyetértésben – az élelmiszer forgalomba hozatal
+
+élelmiszer-higiéniai feltételeit.
+
 (6) Felhatalmazást kap az egészségügyért felelős miniszter, hogy a miniszter egyetértésével kiadott rendeletben szabályozza az élelmiszerekkel kapcsolatos tápanyag-összetételre és egészségre vonatkozó állításokra, továbbá a tápértékjelölésre vonatkozó részletes szabályokat.
 
-(7) Felhatalmazást kap a kereskedelemért felelős miniszter, hogy a miniszter egyetértésével kiadott rendeletben szabályozza az előrecsomagolt élelmiszerek megengedett tömeg- és térfogatértékeit és azok ellenőrzési módszereit.
+(7) Felhatalmazást kap a kereskedelemért felelős miniszter, hogy a miniszter egyetértésével kiadott rendeletben szabályozza
+
+a) az előrecsomagolt élelmiszerek megengedett tömeg- és térfogatértékeit és azok ellenőrzési módszereit,
+
+b) a zöldség és gyümölcs ellenőrzésére vonatkozó részletes szabályokat, valamint
+
+c) az élelmiszer-ellenőrzés rendjét.
 
 (8) Felhatalmazást kap a honvédelemért felelős miniszter, hogy a miniszter egyetértésével kiadott rendeletben szabályozza a Magyar Honvédség élelmiszer-biztonsággal kapcsolatos feladatait.
 
-(9) Felhatalmazást kap az egészségügyért felelős miniszter, hogy a miniszterrel egyetértésben rendeletben szabályozza
+(9) Felhatalmazást kap az egészségügyért felelős miniszter, hogy a miniszterrel és a kereskedelemért felelős miniszterrel egyetértésben rendeletben szabályozza
 
 a) a különleges táplálkozási célú élelmiszerek előállítására és forgalomba hozatalára;
 

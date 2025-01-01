@@ -12,7 +12,7 @@ e) eljárásához szükséges vizsgálatok elvégzése céljából térítésmen
 
 f)
 
-g) élelmiszerlánc-esemény alapos gyanúja esetén továbbá élelmiszerlánc-esemény elhárítása, illetve a felügyeleti díj bevallási és fizetési kötelezettség ellenőrzése érdekében a lezárt terület, épület, helyiség felnyitásával, az ott tartózkodó személyek akarata ellenére, illetve a jogosult távollétében is a lezárt ingatlanok területére, üzlethelyiségbe, üzemi helyiségbe belépni és ott az ellenőrzést lefolytatni akkor is, ha azok egyidejűleg lakás céljára szolgálnak, továbbá szállítóeszközöket, dokumentációt, számviteli bizonylatokat ellenőrizni.
+g) élelmiszerlánc-esemény alapos gyanúja esetén továbbá élelmiszerlánc-esemény elhárítása érdekében a lezárt terület, épület, helyiség felnyitásával, az ott tartózkodó személyek akarata ellenére, illetve a jogosult távollétében is a lezárt ingatlanok területére, üzlethelyiségbe, üzemi helyiségbe belépni és ott az ellenőrzést lefolytatni akkor is, ha azok egyidejűleg lakás céljára szolgálnak, továbbá szállítóeszközöket, dokumentációt, számviteli bizonylatokat ellenőrizni.
 
 (1a) Az átruházott feladatok ellátására jogosult élelmiszerlánc-felügyelő az e törvény végrehajtására kiadott jogszabályban meghatározott feladatok végzése során, valamint az ÉBC által megbízott, átruházott feladatok ellátására jogosult élelmiszerlánc-felügyelő, továbbá az ÉBC helyszíni ellenőrzésre feljogosított, megfelelő szakképzettséggel rendelkező munkavállalója az ÉBC hatáskörébe utalt hatósági feladatok végzése során jogosult az (1) bekezdés a)–e) pontjában meghatározott cselekmények végzésére
 

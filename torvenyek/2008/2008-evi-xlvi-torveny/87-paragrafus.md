@@ -46,7 +46,7 @@ E törvény alkalmazásában:
 
 11. élelmiszer-biztonság: az élelmiszer emberi egészségre ártalmatlansága és emberi fogyasztásra alkalmassága a 178/2002/EK rendeletnek megfelelő fogalom;
 
-12. élelmiszer-higiénia: a 852/2004/EK rendelet 2. cikkének a) pontja szerinti fogalom;
+12. élelmiszer-higiénia: a 852/2004/EK rendelet 2. cikk (1) bekezdés a) pontja szerinti fogalom;
 
 13. élelmiszer-jelölés: az 1169/2011/EU rendelet 2. cikk (2) bekezdés j) pontja szerinti fogalom továbbá távértékesítés esetén ezen kívül a távértékesítést elősegítő anyagban, vagy más megfelelő, az élelmiszer-vállalkozó által egyértelműen meghatározott eszközökön szereplő, az élelmiszerre vonatkozó bármilyen szöveg, adat, védjegy, márkanév, ábra vagy szimbólum;
 
@@ -60,7 +60,7 @@ E törvény alkalmazásában:
 
 16. élelmiszer-vállalkozás: a 178/2002/EK rendelet 3. cikkének 2. pontjában meghatározott fogalom;
 
-17. élelmiszer-vállalkozási létesítmény: a 852/2004/EK rendelet 2. cikkének c) pontja szerinti fogalom;
+17.
 
 18. élelmiszer-vállalkozó: a 178/2002/EK rendelet 3. cikkének 3. pontjában meghatározott fogalom;
 
@@ -68,9 +68,9 @@ E törvény alkalmazásában:
 
 20. élelmiszer-minőség: az élelmiszer azon tulajdonságainak összessége, hogy az megfelel a rá vonatkozó, e törvény végrehajtására kiadott jogszabályban vagy közvetlenül alkalmazandó európai uniós jogi aktusban meghatározott, az élelmiszer-biztonságra vonatkozó követelményektől eltérő előírásoknak, valamint az előállító 22. § (2) bekezdése szerinti írásos dokumentációjában feltüntetett jellemzőknek;
 
-21. élelmiszerlánc: azon folyamatok összessége, melyek szereplői közvetlen vagy közvetett hatással vannak az élelmiszerre a talajvédelem, agrár-környezetvédelem, növénytermesztés, növény-egészségügy, növényvédelem, az engedélyköteles termék és az állatgyógyászati termék előállítása, forgalomba hozatala és felhasználása, az élelmiszer- és takarmány-előállítás, szállítás, tárolás és forgalomba hozatal, felhasználás, az állat tartása, szállítása, forgalomba hozatala, az állat-egészségügy, a növényi és állati eredetű melléktermék kezelés, tárolás, szállítás, forgalomba hozatal és felhasználás során;
+21. élelmiszerlánc: azon folyamatok összessége, melyek szereplői közvetlen vagy közvetett hatással vannak az élelmiszerre a talajvédelem, agrár-környezetvédelem, növénytermesztés, növény-egészségügy, növényvédelem, az engedélyköteles termék és az állatgyógyászati termék előállítása, laboratóriumi vizsgálata, forgalomba hozatala és felhasználása, az élelmiszer- és takarmány-előállítás, laboratóriumi vizsgálat, szállítás, tárolás és forgalomba hozatal, felhasználás, az állat tartása, szállítása, forgalomba hozatala, az állat-egészségügy, a növényi és állati eredetű melléktermék laboratóriumi vizsgálat, kezelés, tárolás, szállítás, forgalomba hozatal és felhasználás során;
 
-21/A. élelmiszerlánc szereplő: az e jogszabály által meghatározott személy, továbbá bármely más személy vagy szervezet, aki/amely az élelmiszerláncban termeléssel, előállítással, feldolgozással, tárolással, szállítással, forgalomba hozatallal vagy felhasználással összefüggő tevékenységet folytat.
+21/A. élelmiszerlánc szereplő: az e jogszabály által meghatározott személy, továbbá bármely más személy vagy szervezet, aki/amely az élelmiszerláncban termeléssel, előállítással, feldolgozással, laboratóriumi vizsgálattal, tárolással, szállítással, forgalomba hozatallal vagy felhasználással összefüggő tevékenységet folytat.
 
 22. élelmiszerlánc-esemény: az élelmiszerláncban bekövetkező olyan e törvény hatálya alá tartozó esemény, mely az élelmiszerlánc-felügyeleti szerv hatósági intézkedését teszi szükségessé;
 
@@ -86,11 +86,11 @@ E törvény alkalmazásában:
 
 24. engedélyköteles termék: a növényvédő szer, növényvédőszer-adalékanyag, -segédanyag, a növényvédelmi hatású termék, a növényvédelmi célú eszköz és anyag (a műszerek kivételével), valamint a termésnövelő anyag, amelynek forgalomba hozatala és felhasználása engedélyhez vagy nyilvántartásba vételhez kötött;
 
-25. feldolgozás: a 852/2004/EK rendelet 2. cikkének m) pontja szerinti fogalom;
+25. feldolgozás: a 852/2004/EK rendelet 2. cikk (1) bekezdés m) pontja szerinti fogalom;
 
-26. feldolgozatlan termékek: a 852/2004/EK rendelet 2. cikkének n) pontja szerinti fogalom;
+26. feldolgozatlan termékek: a 852/2004/EK rendelet 2. cikk (1) bekezdés n) pontja szerinti fogalom;
 
-27. feldolgozott termék: a 852/2004/EK rendelet 2. cikkének o) pontja szerinti fogalom;
+27. feldolgozott termék: a 852/2004/EK rendelet 2. cikk (1) bekezdés o) pontja szerinti fogalom;
 
 28. felhasználó: a végső fogyasztó, valamint az élelmiszert tevékenységéhez felhasználó élelmiszer-vállalkozás;
 
@@ -98,7 +98,13 @@ E törvény alkalmazásában:
 
 29. forgalomba hozatal: az élelmiszerek vagy takarmányok tekintetében a 178/2002/EK rendelet 3. cikkének 8. pontja szerinti fogalom, egyéb esetben a termék készentartása eladás céljára, beleértve az eladásra való felkínálását vagy ingyenes vagy ellenérték fejében történő átadásának bármely egyéb formáját, valamint az eladását, forgalmazását vagy átadásának egyéb módját;
 
-30. földhasználó: földdel rendelkezik, illetve azt használja, vagy a föld hasznosítására kötelezett, vagy olyan dologgal (eszközzel, berendezéssel, tárggyal) rendelkezik, illetve azt használja, amelyben növény fenntartható;
+30. földhasználó:
+
+a) a földhasználati nyilvántartásba bejegyzett földhasználó, ennek hiányában
+
+b) az ingatlan-nyilvántartásba bejegyzett haszonélvezeti jog jogosultja, ennek hiányában
+
+c) a tulajdonos;
 
 30/A. géntechnológiával módosított szervezet: a géntechnológiai tevékenységről szóló 1998. évi XXVII. törvény 2. §-ának b) pontja szerinti fogalom;
 
@@ -120,7 +126,7 @@ E törvény alkalmazásában:
 
 34/A. integrált gazdálkodás: olyan komplex növénytermesztési technológia, amely a növénytermesztéshez közvetlenül vagy közvetve kapcsolódó minden munkafolyamatot úgy foglal rendszerbe, hogy az egyes munkafolyamatok növényvédelmi hatásait veszi alapul, és ezzel a lehető legmagasabb fokon valósítja meg az integrált növényvédelem követelményeit a környezetvédelmi szempontok maximális figyelembevételével;
 
-35. ivóvíz: a 852/2004/EK rendelet 2. cikkének g) pontja szerinti fogalom;
+35. ivóvíz: a 852/2004/EK rendelet 2. cikk (1) bekezdés g) pontja szerinti fogalom;
 
 36. járványos állatbetegség: állatról állatra terjedő fertőző állatbetegség;
 
@@ -136,7 +142,7 @@ E törvény alkalmazásában:
 
 40/A. létesítmény: a 852/2004/EK rendelet 2. cikk (1) bekezdés c) pontja szerinti fogalom;
 
-40/B. nem állam által működtetett laboratórium: olyan laboratórium, amely a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) kijelölése hiányában hatósági intézkedést megalapozó vizsgálatot nem végez;
+40/B. nem állami laboratórium: olyan laboratórium, amely az élelmiszerlánc-felügyeleti szerv kijelölése hiányában hatósági intézkedést megalapozó vizsgálatot nem végez;
 
 40/C. szolgáltató laboratórium: olyan nem állami laboratórium, amely vizsgálati eredményeit ingyenes vagy térítéses formában egyéb, azonos csoportos adószám alá nem tartozó vállalkozás számára készíti el;
 

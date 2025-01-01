@@ -1,10 +1,10 @@
-27. § (1) E törvény szerinti élelmiszerlánc-felügyeleti állami feladatokat látnak el
+27. § (1) E törvény szerinti élelmiszerlánc-felügyeleti állami feladatokat lát el
 
 a) a miniszter,
 
-b) az élelmiszerlánc-felügyelettel kapcsolatos vizsgálatot végző állami laboratóriumok,
+b) a kereskedelemért felelős miniszter,
 
-c)
+c) az élelmiszerlánc-felügyelettel kapcsolatos vizsgálatot végző állami laboratóriumok,
 
 d) az élelmiszerlánc-felügyeleti szerv,
 

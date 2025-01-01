@@ -64,7 +64,7 @@ m) a faanyag kereskedelmi lánc hatósági felügyeletével kapcsolatos nyilván
 
 n) vállalkozók által az élelmiszerlánc-felügyeleti szervhez beküldött önellenőrzési adatokat;
 
-o) a 47/B. § (12) bekezdés szerinti rendszert;
+o) a 38/B. § (1) bekezdés szerinti rendszert;
 
 p) FELIR felhasználók természetes személyazonosító adatait.
 
@@ -135,6 +135,10 @@ való folyamatos hozzáférést.
 (9) Az élelmiszerlánc-felügyeleti szerv részére e törvényben meghatározott feladatai ellátása – különösen az e törvény hatálya alá tartozó termékek nyomonkövethetősége – érdekében az elektronikus útdíjszolgáltatók nyilvántartásából folyamatosan, elektronikus úton adatokat kell átadni.
 
 (10) Az élelmiszerlánc-felügyeleti szervtől a FELIR-ben nyilvántartott adatok, illetve az adatok meghatározott szempontú csoportosításban történő továbbítása rendszeres vagy eseti jelleggel is igényelhető.
+
+(10a) Az élelmiszerlánc-felügyeleti szerv a kereskedelemért felelős miniszter által irányított élelmiszerlánc-felügyeleti szerv részére az e törvényben meghatározott feladatai ellátása érdekében közvetlen hozzáférést biztosít a FELIR-ben tárolt egyedi és személyes adatokhoz.
+
+(10b) Az élelmiszerlánc-felügyeleti szerv az állami adó- és vámhatóság részére a felügyeleti díjjal kapcsolatos hatósági feladatai ellátása érdekében közvetlen hozzáférést biztosít a FELIR-ben tárolt egyedi és személyes adatokhoz.
 
 (11) Az élelmiszerlánc-felügyeleti szerv az agrárgazdasági elemzésekkel foglalkozó intézménnyel kötött megállapodásban rögzített ütemterv szerint ingyenes hozzáférést biztosít az agrárgazdasági elemzésekkel foglalkozó intézmény részére a FELIR-ben tárolt egyedi és személyes adatokhoz. Az agrárgazdasági elemzésekkel foglalkozó intézmény a lekérdezett adatokat kizárólag szakpolitikai, gazdaságelemzési, valamint statisztikai célra használhatja fel.
 

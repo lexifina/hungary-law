@@ -8,7 +8,7 @@ c) az élelmiszerlánc-felügyelet alá tartozó tevékenységét, továbbá
 
 d) a tevékenység végzésének helyét
 
-az élelmiszerlánc-felügyeleti szervhez nyilvántartásba vétel céljából bejelenteni.
+az élelmiszerlánc-felügyeleti szervhez nyilvántartásba vétel céljából bejelenteni, amelyet az élelmiszerlánc-felügyeleti szerv erre a célra kialakított központi elektronikus rendszerének használatával kell teljesíteni.
 
 (2) Az élelmiszerlánc-felügyeleti szerv az ügyfél bejelentése alapján nyilvántartásba veszi az (1) bekezdés szerinti adatokat, és egyidejűleg FELIR azonosító számot (a továbbiakban: FELIR azonosító) állapít meg számára a nyilvántartásba vétel igazolására.
 

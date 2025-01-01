@@ -4,7 +4,7 @@ a) 35. cikk (1) bekezdése szerinti második szakvéleményhez, és
 
 b) 35. cikk (3) bekezdése szerinti másik hatósági laboratórium által végzett újabb analízis, teszt vagy diagnosztika elvégzéséhez
 
-ellenmintát biztosít az e törvény végrehajtására kiadott rendeletben foglaltak szerint.
+ellenmintát biztosít.
 
 (2) Az (1) bekezdés szerinti ellenminta biztosítási kötelezettség nem áll fenn, ha
 
