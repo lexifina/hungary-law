@@ -1,0 +1,1 @@
+5/A. § Az 1. mellékletben meghatározott, Magyarországon államilag elismert felsőoktatási intézmény az igazságügyi szakértőkről szóló 2016. évi XXIX. törvény 2. § 8. pontjában meghatározott szervek eljárásában eseti szakértőként kirendelhető.
