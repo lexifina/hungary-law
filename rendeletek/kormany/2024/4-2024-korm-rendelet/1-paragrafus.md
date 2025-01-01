@@ -6,4 +6,12 @@ b) a Púétv. 98. § (1) és (3) bekezdésében, valamint 155. § (1) bekezdés 
 
 c) a Magyarország 2024. évi központi költségvetéséről szóló 2023. évi LV. törvény kapcsán a tanárbéremeléshez szükséges – a köznevelési intézményekre és a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény hatálya alá tartozó intézményekre vonatkozó – központi költségvetési támogatások szabályait kiegészítő szabályokat
 
+d)[^1] az Európai Unió által biztosított forrásokból történő béremeléshez biztosított központi költségvetési többletforrások felhasználásának céljából valamennyi nem állami fenntartású köznevelési intézmény fenntartója számára, valamint a pedagógus munkakörben dolgozó személyeket foglalkoztató, a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény hatálya alá tartozó egyházi, nem állami fenntartású köznevelési intézmény számára a Magyarország 2025. évi központi költségvetéséről szóló 2024. évi XC. törvény (a továbbiakban: Kvtv2.) kapcsán
+
+da) a támogatás igénylési feltételeire, az igény bejelentésére, megállapítására, a többlettámogatás folyósításának, lemondásának, pótigénylésének, elszámolásának és ellenőrzésének részletes szabályaira vonatkozó eltérő szabályokat,
+
+db) az átlagbéralapú támogatás felhasználásának feltételei vonatkozásában a Kvtv2. 2., 7. és 8. mellékletétől eltérő szabályokat
+
 is meghatározhat.
+
+[^1]: Az 1. § d) pontját a 454/2024. (XII. 30.) Korm. rendelet 1. §-a iktatta be.
