@@ -4,7 +4,7 @@
 
 ### 220. § [Általános bírságszabály]
 
-(1) Ha jogszabály eltérően nem rendelkezik, az adóhatóság az e törvényben, adókötelezettséget előíró törvényben, illetve e törvények felhatalmazásán alapuló más jogszabályban megállapított kötelezettségnek a megszegése miatt a természetes személy adózót kettőszázezer forintig, nem természetes személy adózót ötszázezer forintig terjedő mulasztási bírsággal sújthatja.
+(1) Ha jogszabály eltérően nem rendelkezik, az adóhatóság az e törvényben, adókötelezettséget előíró törvényben, illetve e törvények felhatalmazásán alapuló más jogszabályban megállapított kötelezettségnek a megszegése miatt a természetes személy adózót négyszázezer forintig, nem természetes személy adózót egymillió forintig terjedő mulasztási bírsággal sújthatja.
 
 (2) A kötelezettség megszegésének minősül a kötelezettség hibás, hiányos, valótlan adattartalommal történő, vagy késedelmes teljesítése, illetve teljesítésének elmulasztása.
 

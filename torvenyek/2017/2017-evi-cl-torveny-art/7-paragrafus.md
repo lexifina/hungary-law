@@ -122,7 +122,7 @@ c) az államháztartás alrendszereinek költségvetése terhére jogosulatlanul
 
 36. kutatás-fejlesztési tevékenység: a tudományos kutatásról, fejlesztésről és innovációról szóló törvényben meghatározott kutatás-fejlesztés,
 
-36a. különleges gazdasági övezet: a különleges gazdasági övezetről és a hozzá kapcsolódó egyes törvények módosításáról szóló törvény felhatalmazása alapján alkotott kormányrendeletek szerinti különleges gazdasági övezet,
+36a.
 
 37. lakóhely: a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti lakóhely,
 
@@ -156,7 +156,7 @@ c) ha nemzetközi szerződés az adóügyi illetőséget az üzletvezetés helye
 
 44. szokásos tartózkodási hely: a természetes személynek akkor van Magyarország területén szokásos tartózkodási helye, ha az adott naptári évben – a ki- és beutazás napját is egész napnak tekintve – legalább száznyolcvanhárom napot belföldön tartózkodott,
 
-45. tartózkodási hely: a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti tartózkodási hely,
+45. tartózkodási hely: a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti tartózkodási hely, valamint a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény szerint az idegenrendészeti hatósághoz bejelentett szálláshely,
 
 46. tárhely: a gazdálkodó szervezet hivatalos elérhetősége vagy a természetes személynek az elektronikus azonosítási szolgáltatáshoz tartozó, a Dáptv. 25. §-ának megfelelő tárhelye,
 

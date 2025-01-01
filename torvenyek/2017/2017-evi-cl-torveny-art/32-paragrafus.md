@@ -8,9 +8,9 @@ b) lakcímét,
 
 c) szokásos tartózkodási helyét, valamint
 
-d) a nem magyar állampolgárságú természetes személy állampolgárságát.
+d) a nem magyar állampolgárságú természetes személy állampolgárságát, valamint az idegenrendészeti hatósághoz bejelentett szálláshely címét.
 
-(2) A nem magyar állampolgárságú természetes személy az (1) bekezdés a) és b) pontja szerinti adatai és állampolgársága bejelentése mellett csatolja érvényes útlevelének, személyazonosító igazolványának vagy egyéb személyazonosításra alkalmas okiratának másolatát is.
+(2) A nem magyar állampolgárságú természetes személy az (1) bekezdés szerinti adatai és állampolgársága bejelentése mellett csatolja érvényes útlevelének, személyazonosító igazolványának vagy egyéb személyazonosításra alkalmas okiratának másolatát is.
 
 (3) Az állami adó- és vámhatóság az adózó által bejelentett természetes személyazonosító adatokat, lakcímet a polgárok személyi adatainak és lakcímének nyilvántartását kezelő szerv nyilvántartásában szereplő adatokkal, nem magyar állampolgárok esetén a csatolt okiratok tartalmával egybeveti, és az okmányok érvényességét ellenőrzi.
 

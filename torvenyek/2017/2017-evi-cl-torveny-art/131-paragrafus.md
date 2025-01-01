@@ -72,7 +72,7 @@ i) a központi költségvetésből vagy európai uniós forrásból támogatást
 
 j) a helyi önkormányzatok törvényességi felügyeletéért felelős szervet, valamint a helyi és nemzetiségi önkormányzatot a Magyarország helyi önkormányzatairól szóló törvényben, valamint a nemzetiségek jogairól szóló törvényben meghatározott fennálló köztartozás, illetve annak az előírt határidőben történő meg nem fizetése mint méltatlansági eset, illetve a köztartozásmentes adózói adatbázisban való szereplés vizsgálatához szükséges körben, ideértve a köztartozásmentes adózói adatbázisból való törlés okát, amennyiben a törlésre köztartozás fennállása miatt került sor;
 
-k) az élelmiszerlánc-felügyeleti szervet a felügyeleti díj bevallásának és megfizetésének ellenőrzésével, továbbá a felügyeleti díj fizetésére kötelezettek nyilvántartásával összefüggésben;
+k)
 
 l) a Gazdasági Versenyhivatalt, ha a tájékoztatás törvényben meghatározott feladata ellátásához szükséges;
 
@@ -83,6 +83,8 @@ n) a közbeszerzési hatóságot, ha a tájékoztatás a törvényben meghatáro
 o) a hulladékgazdálkodási hatóságot, ha a tájékoztatás törvényben meghatározott feladata ellátásához szükséges.
 
 p) a Szuverenitásvédelmi Hivatalt, ha a tájékoztatás a törvényben meghatározott feladata ellátásához szükséges.
+
+q) a Magyar Energetikai és Közmű-szabályozási Hivatalt, ha a tájékoztatás a törvényben meghatározott feladata ellátásához szükséges.
 
 (14a) A (14) bekezdés e) pontja szerinti szervek részére csak abban az esetben adható tájékoztatás az adótitokról, ha az ügyészség az adatkérést engedélyezte. A Rendőrségről szóló 1994. évi XXXIV. törvény 69. § (3) bekezdése vagy a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 58. § (3) bekezdése szerinti adatkérés esetén az adóhatóság az ügyészség engedélye nélkül is köteles az általa kezelt, adótitoknak minősülő adatokra vonatkozó adatkérést teljesíteni. Ilyen esetben az adatkérő az engedélyt utólag, haladéktalanul beszerzi, és megküldi az adóhatóságnak.
 
@@ -119,3 +121,5 @@ p) a Szuverenitásvédelmi Hivatalt, ha a tájékoztatás a törvényben meghat�
 (30) Az állami adó- és vámhatóság hivatalból – a számla kiállítója, önszámlázás esetén a vevő egyidejű értesítése mellett – elektronikus úton tájékoztatja az online számlaadat-szolgáltatásra használt számlázó programnak az adatszolgáltatásban rögzített adószám alapján beazonosítható fejlesztőjét a hibás adatszolgáltatások okainak feltárásához és javításához szükséges, üzleti adatokat nem tartalmazó műszaki-informatikai információkról, valamint a számla kiállítójának nevéről és adószámáról, önszámlázás esetén a vevő nevéről és adószámáról.
 
 (31) Az állami adó- és vámhatóság az adóazonosító jelet adatkérésre, elektronikus úton átadja az ingatlanügyi hatóságnak az ingatlan-nyilvántartással, a földhasználati nyilvántartással, a földmérési és térképészeti állami alapfeladatokkal és alapmunkákkal – ide nem értve a honvédelmi célú földmérési és térképészeti tevékenységet – a földméréssel, térképészettel, a földminősítéssel, a földvédelemmel, a földhasznosítási előírások érvényesülésével, a földtulajdoni és a földhasználati előírások érvényesülésével kapcsolatos eljárásokban, a telekalakítási hatóságnak telekalakítási engedélyezési eljárásban, valamint a mezőgazdasági igazgatási szervnek a földforgalmi eljárásokban és a földművesekről, a mezőgazdasági termelőszervezetekről és a mezőgazdasági üzemközpontokról vezetett nyilvántartással kapcsolatos eljárásokban az Országos Cégnyilvántartó és Céginformációs Rendszerben nyilvántartott cég képviseletére jogosult személy cégképviseleti jogosultságának megállapítása céljából.
+
+(32) Az állami adó- és vámhatóság képviselőjének állandó tagságával vagy vezetésével működő döntés-előkészítő, javaslattevő, véleményező vagy tanácsadói tevékenységet végző, a Kormány által létrehozott testület tagja az állami adó- és vámhatósággal kötött megállapodás alapján megismerheti az adótitkot, ha az a testületnek az állami adó- és vámhatóság által kezelt adatokkal összefüggő feladatai ellátásához szükséges. A tag kizárólag e tevékenységével összefüggésben, a feladatellátáshoz szükséges mértékben és ideig kezelheti az adatokat.

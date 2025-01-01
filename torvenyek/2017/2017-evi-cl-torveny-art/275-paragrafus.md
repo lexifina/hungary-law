@@ -33,3 +33,15 @@ b) az (EU) 2017/2455 és az (EU) 2019/1995 irányelvnek a Covid19-világjárván
 (9) E törvénynek a Módtv.12.-vel megállapított 50. § (2) bekezdés 37. és 38. pontja az adózás területén történő közigazgatási együttműködésről szóló 2011/16/EU irányelv módosításáról szóló, 2021. március 22-i (EU) 2021/514 tanácsi irányelvnek való megfelelést szolgálja.
 
 (10) A Szolg. törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező adózó Magyarország területén, e törvény 106/A. § és 106/B. § szerinti forgalmazói tevékenység határon átnyúló szolgáltatás keretében történő folytatására irányuló szándékát köteles az engedélyező hatóságnak bejelenteni.
+
+(11) E törvénynek a Módtv.12.-vel megállapított 37. § (2a) bekezdése a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK irányelvnek a kisvállalkozásokra vonatkozó különös szabályozás tekintetében történő módosításáról és a 904/2010/EU rendeletnek a kisvállalkozásokra vonatkozó különös szabályozás megfelelő alkalmazásának nyomon követését célzó közigazgatási együttműködés és információcsere tekintetében történő módosításáról szóló, 2020. február 18-i 2020/285 tanácsi irányelvnek való megfelelést szolgálja.
+
+(12) E törvény 106/A. § (1)–(3) bekezdése és a 106/B. § (1) és (3) bekezdése tervezetének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.
+
+(13) Ez a törvény
+
+a) a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról szóló 1893/2006/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2022. október 10-i (EU) 2023/137 felhatalmazáson alapuló bizottsági rendelet, és
+
+b) az (EU) 2020/1197, az (EU) 2022/918 és az (EU) 2022/1092 bizottsági végrehajtási rendeletnek a gazdasági tevékenységek statisztikai osztályozásának az 1893/2006/EK európai parlamenti és tanácsi rendelettel létrehozott NACE Rev. 2. rendszerére való hivatkozások tekintetében történő módosításáról szóló, 2024. június 27-i (EU) 2024/1840 bizottsági végrehajtási rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg.

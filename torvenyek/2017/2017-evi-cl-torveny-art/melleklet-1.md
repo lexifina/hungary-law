@@ -8,7 +8,7 @@ Az állami adó- és vámhatósághoz bejelentendő adatok
 
 1.2. természetes személy adóazonosító jelét,
 
-1.3. külföldi vállalkozás esetén az illetősége szerinti állam hatósága által megállapított adóazonosító számát,
+1.3. külföldi vállalkozás esetén az illetősége szerinti állam hatósága által megállapított adóazonosító számát, és a közös hozzáadottértékadó-rendszerről szóló, 2006. november 28-i 2006/112/EK tanácsi irányelv 284. cikk (3) bekezdésének megfelelően megállapított egyedi azonosítószámát, ha ilyennel rendelkezik,
 
 1.4. címét, székhelyét, a cég székhelyétől különböző központi ügyintézés helyét, telephelyét vagy telephelyeit,
 

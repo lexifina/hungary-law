@@ -18,7 +18,7 @@ g) az adózó az Európai Unió más tagállamában illetőséggel bíró gazdas
 
 (1a) Nem terheli az (1) bekezdés e) pontja alapján az egyéni vállalkozót soron kívüli általános-forgalmiadó-bevallási kötelezettség, ha egyéni vállalkozói tevékenységének megszüntetése nem eredményezi általános forgalmi adó alanyiságának megszűnését.
 
-(2) A soron kívüli adóbevallást az éves elszámolású adókról – az általános forgalmi adó kivételével – az (1) bekezdés a) és b) pontjában meghatározott esetekben a Számv. tv.-ben a beszámoló készítésére előírt határidőn belül, az (1) bekezdés c)–g) pontjában meghatározott esetekben pedig a soron kívüli bevallási kötelezettséget kiváltó eseményt követő harminc napon belül kell benyújtani.
+(2) A soron kívüli adóbevallást az éves elszámolású adókról – az általános forgalmi adó kivételével – az (1) bekezdés a) és b) pontjában meghatározott esetekben a Számv. tv.-ben a beszámoló készítésére előírt határidőn belül, az (1) bekezdés c)–g) pontjában meghatározott esetekben a soron kívüli bevallási kötelezettséget kiváltó eseményt követő harminc napon – csoportos társasági adóalany megszűnése esetén kilencven napon – belül kell benyújtani.
 
 (3) Az általános forgalmi adóról, valamint azokról az adókról, amelyeknél az adómegállapítási időszak egy hónap, egy negyedév, a bevallással még le nem fedett időszakról a soron kívüli adóbevallási kötelezettséget kiváltó eseményt követő harminc napon belül kell a bevallást benyújtani.
 

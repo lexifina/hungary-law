@@ -1,6 +1,6 @@
 ### 221. § [Hiánypótlásra felhívás kötelező alkalmazása]
 
-(1) Az adóhatóság a bejelentkezési kötelezettség, a foglalkoztatotti bejelentés, a gépjármű, pótkocsi tulajdonjogának, vagyoni értékű jogának megszerzésével kapcsolatos bejelentési, valamint az EKAER bejelentési kötelezettség kivételével
+(1) Az adóhatóság az adategyeztetési eljárás során történő adatszolgáltatási, a bejelentkezési kötelezettség, a foglalkoztatotti bejelentés, a gépjármű, pótkocsi tulajdonjogának, vagyoni értékű jogának megszerzésével kapcsolatos bejelentési, valamint az EKAER bejelentési kötelezettség kivételével
 
 a) a bejelentési, változásbejelentési, a bevallási, adatbejelentési, adatszolgáltatási, pénzforgalmi számlanyitási kötelezettségének, regisztrációs kötelezettségének nem teljesítése,
 

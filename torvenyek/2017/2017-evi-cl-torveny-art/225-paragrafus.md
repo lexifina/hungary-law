@@ -1,6 +1,6 @@
 ### 225. § [A foglalkoztatott bejelentésére vonatkozó szabályok megsértése]
 
-(1) Az adózót egymillió forintig terjedő mulasztási bírsággal kell sújtani, ha be nem jelentett foglalkoztatottat alkalmaz vagy alkalmazott.
+(1) Az adózót kétmillió forintig terjedő mulasztási bírsággal kell sújtani, ha be nem jelentett foglalkoztatottat alkalmaz vagy alkalmazott.
 
 (2) Ha az adózó a biztosított bejelentésére vonatkozó bejelentési kötelezettségét késedelmesen, de az ellenőrzés megkezdéséig a tényleges foglalkoztatás teljes időtartamára vonatkozóan teljesítette, az adóhatóság csak késedelmes bejelentés miatt szankcionálhat. A bírság kiszabása ebben az esetben mellőzhető.
 

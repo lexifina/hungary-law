@@ -1,6 +1,6 @@
 ### 228. § [Számla-, nyugtakibocsátási kötelezettség, valamint iratmegőrzési kötelezettség szabályainak megsértése]
 
-(1) Az adóhatóság az adózót egymillió forintig terjedő mulasztási bírsággal sújthatja, ha
+(1) Az adóhatóság az adózót kétmillió forintig terjedő mulasztási bírsággal sújthatja, ha
 
 a) a számla-, egyszerűsített számla-, nyugtakibocsátási kötelezettségét elmulasztja, vagy a számlát, egyszerűsített számlát, nyugtát nem a tényleges ellenértékről bocsátja ki, vagy
 

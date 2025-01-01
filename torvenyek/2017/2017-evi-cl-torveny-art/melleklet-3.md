@@ -164,7 +164,7 @@
 
 ## 3. Az adózó az 53. § (3) bekezdésében meghatározott bevallási kötelezettség teljesítésének határidejéig az adót is köteles megfizetni.
 
-## 4. Az állami adó- és vámhatóságnál nyilvántartott adót, vagy egyéb fizetési kötelezettséget – a természetes személy által fizetett jövedelemadót, különadót, egyszerűsített közteherviselési hozzájárulást, szociális hozzájárulási adót járulékot, egészségügyi szolgáltatási járulékot, az illetéket, a cégautóadót, a belföldi gépjárművek adóját, az egyszerűsített foglalkoztatással összefüggésben fizetendő összeget, valamint a vámhatóság által kiszabott vámokat és a vámmal együtt kiszabott nem közösségi adókat és díjakat kivéve –, és a költségvetési támogatást ezer forintra kerekítve kell megfizetni. Az adózónak – személyétől függetlenül – a cégautóadót és a belföldi gépjárművek adóját kerekítés nélkül forintban kell megfizetnie. A Tbj. és az Efo tv. alapján fizetendő közterhek kivételével az adózónak az ezer forintot el nem érő adóját nem kell megfizetnie, és az adóhatóság az ezer forintot el nem érő adó-visszatérítést, -visszaigénylést nem utalja ki és nem tartja nyilván.
+## 4. Az állami adó- és vámhatóságnál nyilvántartott adót, vagy egyéb fizetési kötelezettséget – a természetes személy által fizetett jövedelemadót, különadót, egyszerűsített közteherviselési hozzájárulást, szociális hozzájárulási adót járulékot, egészségügyi szolgáltatási járulékot, az illetéket, a cégautóadót, a belföldi gépjárművek adóját, az egyszerűsített foglalkoztatással összefüggésben fizetendő összeget, valamint a vámhatóság által kiszabott vámokat és a vámmal együtt kiszabott nem közösségi adókat és díjakat kivéve –, és a költségvetési támogatást ezer forintra kerekítve kell megfizetni. Az adózónak – személyétől függetlenül – a cégautóadót és a belföldi gépjárművek adóját, az állami adó- és vámhatóságnál az adószámlán nyilvántartott adó, vagy egyéb fizetési kötelezettség, illetve jogosulatlanul igénybe vett költségvetési támogatás után felszámított késedelmi pótlékot kerekítés nélkül forintban kell megfizetnie. A Tbj. és az Efo tv. alapján fizetendő közterhek kivételével az adózónak az ezer forintot el nem érő adóját nem kell megfizetnie, és az adóhatóság az ezer forintot el nem érő adó-visszatérítést, -visszaigénylést nem utalja ki és nem tartja nyilván.
 
 ## Határidők
 
@@ -257,3 +257,39 @@
 ## 5.2. A játékautomata éves adóját az adózó az erre vonatkozó bevallás benyújtásával egyidejűleg fizeti meg.
 
 ## 6. Rehabilitációs hozzájárulás
+
+## 6.1. Az adózó a rehabilitációs célú hozzájárulásra a jogszabályban előírt módon számított előleget az I–III. negyedévben a negyedévet követő hó huszadik napjáig fizeti meg.
+
+## 6.2. A befizetett előlegek és az éves hozzájárulás különbözetét az adóévet követő év február huszonötödik napjáig kell megfizetni.
+
+## 7. Külön fel nem sorolt befizetések
+
+## Az előzőekben fel nem sorolt adókat a jogszabályban megállapított módon és határidőben kell megfizetni. Ennek hiányában, ha törvény előlegfizetést ír elő, azt a tárgyhó huszonnyolcadik napjáig, az adót a tárgyhót követő hó huszadik napjáig, az adóévre megállapított adót az éves adóbevallással egyidejűleg kell megfizetni. A hatályon kívül helyezett jogszabályok alapján teljesítendő önellenőrzés során feltárt, helyesbített, illetve az adóhatóság által megállapított adót egyéb befizetés címén kell megfizetni, a költségvetési támogatást egyéb támogatás címén lehet visszaigényelni.
+
+## 8. Belföldi gépjárművek adója
+
+## Az adózó – az évközi adókötelezettség keletkezésének (változásának) kivételével – az adót a naptári évben egy alkalommal – végrehajtható okirat alapján – április hónap tizenötödik napjáig fizeti meg.
+
+## II.
+
+## AZ ÖNKORMÁNYZATI ADÓHATÓSÁGHOZ TELJESÍTENDŐ BEFIZETÉSEK
+
+## Általános rendelkezések
+
+## Ha a helyi adóban az esedékes adó összege az ezer forintot nem éri el, akkor azt az adózónak kizárólag akkor kell megfizetnie, amikor a meg nem fizetett és a jövőben esedékessé váló adó együttes összege az ezer forintot eléri. Az ezer forintot el nem érő, korábban esedékessé vált adó után – az adónemben ezer forintot elérő adófizetési kötelezettség esedékességéig – késedelmi pótlék nem számítható fel.
+
+## Az önkormányzati adóhatóság az adónemben túlfizetésként fennálló, ezer forintot el nem érő adót nem téríti vissza, azt a jövőben esedékes – az önkormányzati adóhatóságnál nyilvántartott – adóra, egyéb közteherre számolja el.
+
+## A) Helyi adók
+
+## 1. Az adózó az állandó jellegű helyi iparűzési tevékenység utáni adóban
+
+## a) az adóelőlegét az adóév harmadik hónapjának tizenötödik napjáig, valamint kilencedik hónapjának tizenötödik napjáig fizeti meg;
+
+## b)
+
+## c) a megfizetett adóelőleg, valamint az adóévre megállapított adó pozitív különbözetét az adóévet követő év ötödik hónapjának utolsó napjáig fizeti meg, illetve a túlfizetést ettől az időponttól igényelheti vissza.
+
+## 2.
+
+## 3. Az adóbeszedésre kötelezett az általa beszedett, vagy beszedni elmulasztott idegenforgalmi adót az adóbevallás benyújtására nyitva álló határnapig fizeti meg.

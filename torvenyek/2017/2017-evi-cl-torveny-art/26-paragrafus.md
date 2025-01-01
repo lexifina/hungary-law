@@ -29,3 +29,5 @@ tehet eleget. A biztosíték befizetését vagy a bankgarancialevél benyújtás
 (10) Az a vezető tisztségviselő, cégvezető, tag vagy részvényes, akire tekintettel az állami adó- és vámhatóság az adófizetési biztosítékot előírta, a határozat közlésétől számított nyolcnapos jogvesztő határidőn belül a 20. § (1) bekezdése szerinti kimentési kérelmet terjeszthet elő. A kérelem elbírálására 20. § (2)–(7) bekezdésében foglalt rendelkezéseket kell megfelelően alkalmazni.
 
 (11) Az adófizetési biztosíték kötelezettsége abban az esetben is fennáll, ha a biztosíték véglegessé vált megállapítását követően a vezető tisztségviselő, cégvezető, tag, vagy részvényes személyében történt változás következtében az adófizetési biztosíték előírásának (2) bekezdésben meghatározott valamely oka már nem állapítható meg.
+
+(12) Az állami adó- és vámhatóság az adófizetési biztosíték letétele tárgyában hozott határozatot visszavonja, ha annak véglegessé válásáig a vezető tisztségviselő, cégvezető, tag vagy részvényes személyében történt változás következtében az adófizetési biztosíték előírásának (2) bekezdésben meghatározott valamely oka már nem állapítható meg.
