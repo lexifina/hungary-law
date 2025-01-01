@@ -1,0 +1,3 @@
+## 21. Egyes központi hivatalok és költségvetési szervi formában működő minisztériumi háttérintézmények felülvizsgálatával összefüggő jogutódlásáról, valamint egyes közfeladatok átvételéről szóló 378/2016. (XII. 2.) Korm. rendelet módosítása
+
+25. § Hatályát veszti az egyes központi hivatalok és költségvetési szervi formában működő minisztériumi háttérintézmények felülvizsgálatával összefüggő jogutódlásáról, valamint egyes közfeladatok átvételéről szóló 378/2016. (XII. 2.) Korm. rendelet 23. (2) bekezdésében „a mezőgazdasági és erdészeti gépkezelői jogosítvány bevezetéséről és kiadásának szabályairól szóló 83/2003. (VII. 16.) FVM rendeletben, valamint” szövegrész.
