@@ -4,7 +4,7 @@ A Magyar Posta Zrt. által ellátandó feladatok[^68]
 
 1. Az ingatlanokra és azok használóira (bérlők, jogcím nélküli lakáshasználók) vonatkozó adatoknak a követelések nyilvántartására alkalmas számítógépes rendszerbe történő feltöltése és karbantartása.
 
-2. A lakásbérleti jogviszonyban állókkal, az ingatlanokat jogcím nélkül használókkal, továbbá az MVH Zrt.-vel a Törvény szerint létrejött részletvételi jogviszonyban álló részletvevőkkel szembeni követelésekre vonatkozó számlák és vételárrészlet-értesítők, csekkes számlalevelek, valamint egyéb megszemélyesített iratok, értesítők, felszólító levelek, bizonylatok, egyenlegközlő levelek előállítása.
+2.[^69] A lakásbérleti jogviszonyban állókkal, az ingatlanokat jogcím nélkül használókkal, továbbá a Lebonyolítóval a Törvény szerint létrejött részletvételi jogviszonyban álló részletvevőkkel szembeni követelésekre vonatkozó számlák és vételárrészlet-értesítők, csekkes számlalevelek, valamint egyéb megszemélyesített iratok, értesítők, felszólító levelek, bizonylatok, egyenlegközlő levelek előállítása.
 
 3. Az elkészített értesítők, számlák, vételárrészlet-értesítők, csekkes számlalevelek, felszólító levelek, bizonylatok, egyenlegközlő levelek, egyéb megszemélyesített iratok borítékolása, valamint a postai előírásoknak megfelelően előkészített küldemények postai feladása.
 
@@ -16,3 +16,4 @@ A Magyar Posta Zrt. által ellátandó feladatok[^68]
 
 [^67]: A 3. melléklet a 386/2023. (VIII. 14.) Korm. rendelet 7. §-ával megállapított szöveg.
 [^68]: A 3. melléklet címe a 159/2024. (VI. 28.) Korm. rendelet 7. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^69]: A 3. melléklet 2. pontja a 448/2024. (XII. 23.) Korm. rendelet 16. §-a szerint módosított szöveg.
