@@ -1,3 +1,7 @@
-18. §[^18]
+18. § Nem lép hatályba a TÉKA
 
-[^18]: A 18. § a 21. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+a) 92. § (1) bekezdése,
+
+b) 95. § (4) bekezdésében az „építési termékként forgalomba hozott égéstermék-elvezető alkalmazásával” szövegrész,
+
+c) 98. § (5) bekezdése.
