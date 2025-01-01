@@ -1,3 +1,3 @@
-3/A. §[^4] Az 1. §-ban meghatározott keresetpótló baleseti kártérítési járadékok, valamint a költségpótló baleseti kártérítési járadékok 2024. január 1-jétől kezdődő jogosultsági időszakokra esedékes összegei – a 2023. december hónapra esedékes járadékösszeghez képest – 6,0 százalékkal emelkednek.
+3/A. §[^4] Az 1. §-ban meghatározott keresetpótló baleseti kártérítési járadékok, valamint a költségpótló baleseti kártérítési járadékok 2025. január 1-jétől kezdődő jogosultsági időszakokra esedékes összegei – a 2024. december hónapra esedékes járadékösszeghez képest – 3,2 százalékkal emelkednek.
 
-[^4]: A 3/A. §-t a 40/2012. (XII. 20.) NGM rendelet 2. §-a iktatta be, szövege a 11/2023. (XII. 23.) PM rendelet 2. §-ával megállapított szöveg.
+[^4]: A 3/A. §-t a 40/2012. (XII. 20.) NGM rendelet 2. §-a iktatta be, szövege a 8/2024. (XII. 31.) PM rendelet 2. §-ával megállapított szöveg.
