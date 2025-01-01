@@ -1,6 +1,6 @@
-## Az eseti légtér igénybevétele[^75]
+## Az eseti légtér igénybevétele[^76]
 
-5/A. §[^76] (1) Az eseti légtér igénybevételének megkezdését – a határozatban engedélyezett kezdő időpontja, illetve a b) pont esetében a szüneteltetés időpontja előtt legalább 30 perccel – az 5. § (1) bekezdés e) pontjában vagy ha ilyet megbíztak, akkor az f) pontjában meghatározott személy köteles a Budapest ATS Központnak megadni a következő információkkal:
+5/A. §[^77] (1) Az eseti légtér igénybevételének megkezdését – a határozatban engedélyezett kezdő időpontja, illetve a b) pont esetében a szüneteltetés időpontja előtt legalább 30 perccel – az 5. § (1) bekezdés e) pontjában vagy ha ilyet megbíztak, akkor az f) pontjában meghatározott személy köteles a Budapest ATS Központnak megadni a következő információkkal:
 
 a) az igénybevétel valós kezdésének időpontja (a továbbiakban: aktiválás), és a tervezett befejezés időpontja,
 
@@ -30,17 +30,17 @@ b) a határozatban engedélyezett időponton vagy ha az (1) bekezdés d) pontja 
 
 (6) Az 5. § (1) bekezdés e) pontjában vagy ha ilyet megbíztak, akkor az f) pontjában meghatározott személy az 1. § (4) bekezdés a) pontjában meghatározott feladatát oly módon látja el, hogy a légvédelmi készenléti valós repülést végrehajtó légijármű, a kényszerhelyzetben lévő légijármű, a kutató-mentő repülést végző légijármű, a mentőrepülést, a rendészeti vagy bűnüldözési célú repülést végző légijármű, valamint a honvédelmi vagy nemzetbiztonsági érdekből repülést végrehajtó légijármű eseti légtérbe történő belépése haladéktalanul biztosított legyen.
 
-(7)[^77] Az eseti légtérbe való belépésre és átrepülésre kizárólag a kijelölés céljaként meghatározott tevékenységgel vagy eseménnyel érintett légijárművek, valamint a (6) és (7a) bekezdésben foglalt légijárművek jogosultak.
+(7)[^78] Az eseti légtérbe való belépésre és átrepülésre kizárólag a kijelölés céljaként meghatározott tevékenységgel vagy eseménnyel érintett légijárművek, valamint a (6) és (7a) bekezdésben foglalt légijárművek jogosultak.
 
-(7a)[^78] Az 5. § (6a) bekezdés b) pontjában meghatározott esetben – amennyiben az eseti légteret ellenőrzött légtérben jelölik ki, egyidejűleg, ha az 5. § (1) bekezdés e) pontjában vagy – ha ilyet megbíztak – f) pontjában meghatározott személy feladatait az állami repülések céljára kijelölt légterekben illetékes légvédelmi irányító egység (a továbbiakban: légvédelmi irányító egység) látja el – az eseti légtérbe a (7b)–(7e) bekezdésben található kiegészítő szabályok alkalmazásával a légvédelmi irányító egység a kijelölés céljaként meghatározott tevékenységgel vagy eseménnyel érintett légijárműveken kívül más légijármű berepülését is engedélyezheti.
+(7a)[^79] Az 5. § (6a) bekezdés b) pontjában meghatározott esetben – amennyiben az eseti légteret ellenőrzött légtérben jelölik ki, egyidejűleg, ha az 5. § (1) bekezdés e) pontjában vagy – ha ilyet megbíztak – f) pontjában meghatározott személy feladatait az állami repülések céljára kijelölt légterekben illetékes légvédelmi irányító egység (a továbbiakban: légvédelmi irányító egység) látja el – az eseti légtérbe a (7b)–(7e) bekezdésben található kiegészítő szabályok alkalmazásával a légvédelmi irányító egység a kijelölés céljaként meghatározott tevékenységgel vagy eseménnyel érintett légijárműveken kívül más légijármű berepülését is engedélyezheti.
 
-(7b)[^79] A légvédelmi irányító egység az irányítása alatt álló állami légijárműveket elkülöníti az eseti légteret engedéllyel átrepülő, GAT-szabályok szerint működő légijárművektől. Az elkülönítést úgy hozza létre, hogy az irányítása alatt álló állami légijárműveknek azok repülési irányára és magasságára vonatkozóan olyan utasításokat, engedélyeket ad, amelyek biztosítják, hogy az engedéllyel átrepülő, GAT-szabályok szerint működő légijárművekhez az állami légijárművek legalább 2000 láb (600 m) függőleges vagy 5 NM (9,3 km) oldalirányú távolságnál közelebb ne kerülhessenek.
+(7b)[^80] A légvédelmi irányító egység az irányítása alatt álló állami légijárműveket elkülöníti az eseti légteret engedéllyel átrepülő, GAT-szabályok szerint működő légijárművektől. Az elkülönítést úgy hozza létre, hogy az irányítása alatt álló állami légijárműveknek azok repülési irányára és magasságára vonatkozóan olyan utasításokat, engedélyeket ad, amelyek biztosítják, hogy az engedéllyel átrepülő, GAT-szabályok szerint működő légijárművekhez az állami légijárművek legalább 2000 láb (600 m) függőleges vagy 5 NM (9,3 km) oldalirányú távolságnál közelebb ne kerülhessenek.
 
-(7c)[^80] Az illetékes belföldi polgári légiforgalmi irányító egységnek és az eseti légtérben illetékes légvédelmi irányító egységnek utasításokkal vagy engedélyekkel biztosítania kell, hogy az irányításuk alatt álló légijárművek – a légtéren engedéllyel átrepülő légijárművek kivételével – az eseti légtér oldalhatárához 2,5 NM-nél (4,6 km) közelebb ne kerüljenek, kivéve, ha külön koordinálással biztosítják a szomszédos légterekben működő légijárművek megfelelő elkülönítését.
+(7c)[^81] Az illetékes belföldi polgári légiforgalmi irányító egységnek és az eseti légtérben illetékes légvédelmi irányító egységnek utasításokkal vagy engedélyekkel biztosítania kell, hogy az irányításuk alatt álló légijárművek – a légtéren engedéllyel átrepülő légijárművek kivételével – az eseti légtér oldalhatárához 2,5 NM-nél (4,6 km) közelebb ne kerüljenek, kivéve, ha külön koordinálással biztosítják a szomszédos légterekben működő légijárművek megfelelő elkülönítését.
 
-(7d)[^81] A légvédelmi irányító egység feladata az eseti légtér magassági határain kívül eső első IFR utazómagasságot használó polgári légijárműtől a megfelelő magassági elkülönítés biztosítása.
+(7d)[^82] A légvédelmi irányító egység feladata az eseti légtér magassági határain kívül eső első IFR utazómagasságot használó polgári légijárműtől a megfelelő magassági elkülönítés biztosítása.
 
-(7e)[^82] A légvédelmi irányító egység és az eseti légtérrel határos légtérben illetékes belföldi polgári légiforgalmi irányító egység között együttműködési megállapodást kell kötni az 5. § (6a) bekezdés b) pontjában meghatározott esetben ellenőrzött légtérben kijelölt eseti légterek igénybevételét biztosító eljárások előzetes, általános meghatározása érdekében. Az együttműködési megállapodás az adatcsere módjára és a GAT-szabályok szerint működő légijárműveknek a működő eseti légtéren engedéllyel történő áthaladásával kapcsolatos eljárásokra terjed ki.
+(7e)[^83] A légvédelmi irányító egység és az eseti légtérrel határos légtérben illetékes belföldi polgári légiforgalmi irányító egység között együttműködési megállapodást kell kötni az 5. § (6a) bekezdés b) pontjában meghatározott esetben ellenőrzött légtérben kijelölt eseti légterek igénybevételét biztosító eljárások előzetes, általános meghatározása érdekében. Az együttműködési megállapodás az adatcsere módjára és a GAT-szabályok szerint működő légijárműveknek a működő eseti légtéren engedéllyel történő áthaladásával kapcsolatos eljárásokra terjed ki.
 
 (8) Az eseti légtérben üzemelő légijármű legfeljebb 500 láb (150 m) távolságra közelítheti meg
 
@@ -48,27 +48,27 @@ a) az ellenőrzött légtérben kijelölt eseti légtér felső magasságát,
 
 b) az eseti légtér alsó határát, ha az nem a földfelszín, és az eseti légteret olyan ellenőrzött légtérben jelölték ki, amelynek alsó határa nem a földfelszín.
 
-(8a)[^83] A (8) bekezdés a) pontját nem kell alkalmazni, ha
+(8a)[^84] A (8) bekezdés a) pontját nem kell alkalmazni, ha
 
 a) az eseti légteret pilóta nélküli légijármű vagy pilóta nélküli állami légijármű UAS művelete érdekében Budapest CTR-ben, Szolnok MCTR-ben, Kecskemét MCTR-ben vagy Pápa MCTR-ben jelölték ki, és
 
 b) nem lapol át az Együttes rendelet 3. melléklet 5. táblázatában meghatározott LHBP No Drone Zone, Budapest CTR No Drone Zone, LHSN No Drone Zone, Szolnok MCTR No Drone Zone, LHKE No Drone Zone, Kecskemét MCTR No Drone Zone, LHPA No Drone Zone vagy Pápa MCTR No Drone Zone légtérrel.
 
-(9)[^84] Ha az eseti légteret vagy annak egy részét az Együttes rendelet 3. mellékletében meghatározott, a légiközlekedési hatóság engedélyével igénybe vehető korlátozott légtérben jelölik ki, akkor az eseti légtérnek a korlátozott légtérrel átlapolásban kijelölt része a kijelölésre irányuló határozatban jogosított által kizárólag a légiközlekedési hatóságnak a korlátozott légtér igénybevételére vonatkozó engedélye mellett vehető igénybe.
+(9)[^85] Ha az eseti légteret vagy annak egy részét az Együttes rendelet 3. mellékletében meghatározott, a légiközlekedési hatóság engedélyével igénybe vehető korlátozott légtérben jelölik ki, akkor az eseti légtérnek a korlátozott légtérrel átlapolásban kijelölt része a kijelölésre irányuló határozatban jogosított által kizárólag a légiközlekedési hatóságnak a korlátozott légtér igénybevételére vonatkozó engedélye mellett vehető igénybe.
 
-(10)[^85] Budapest CTR-ben az Együttes rendelet 3. melléklet 5. táblázatában meghatározott No Drone Zone légtérben a pilóta nélküli légijármű vagy pilóta nélküli állami légijármű működése céljából kijelölt eseti légtér tekintetében Budapest ATS Központ az eseti légtér igénybevételére vonatkozó igényt a forgalmi helyzet által indokolt esetben elutasíthatja, az eseti légtér működését korlátozhatja vagy megtilthatja.
+(10)[^86] Budapest CTR-ben az Együttes rendelet 3. melléklet 5. táblázatában meghatározott No Drone Zone légtérben a pilóta nélküli légijármű vagy pilóta nélküli állami légijármű működése céljából kijelölt eseti légtér tekintetében Budapest ATS Központ az eseti légtér igénybevételére vonatkozó igényt a forgalmi helyzet által indokolt esetben elutasíthatja, az eseti légtér működését korlátozhatja vagy megtilthatja.
 
-(11)[^86] Szolnok MCTR-ben, Kecskemét MCTR-ben és Pápa MCTR-ben az Együttes rendeletben meghatározott, pilóta nélküli légijárművek és pilóta nélküli állami légijárművek számára korlátozott légtérben a légteret érintő forgalmi helyzet által indokolt esetben az illetékes katonai légiforgalmi szolgálat kérésére Budapest ATS Központ az eseti légtér igénybevételére vonatkozó igényt elutasíthatja, az eseti légtér használatát korlátozhatja vagy megtilthatja.
+(11)[^87] Szolnok MCTR-ben, Kecskemét MCTR-ben és Pápa MCTR-ben az Együttes rendeletben meghatározott, pilóta nélküli légijárművek és pilóta nélküli állami légijárművek számára korlátozott légtérben a légteret érintő forgalmi helyzet által indokolt esetben az illetékes katonai légiforgalmi szolgálat kérésére Budapest ATS Központ az eseti légtér igénybevételére vonatkozó igényt elutasíthatja, az eseti légtér használatát korlátozhatja vagy megtilthatja.
 
-[^75]: Az 5/A. §-t megelőző alcímet a 457/2017. (XII. 28.) Korm. rendelet 55. § (5) bekezdése iktatta be.
-[^76]: Az 5/A. §-t a 457/2017. (XII. 28.) Korm. rendelet 55. § (5) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^77]: Az 5/A. § (7) bekezdése a 251/2024. (VIII. 22.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^78]: Az 5/A. § (7a) bekezdését a 251/2024. (VIII. 22.) Korm. rendelet 11. § (2) bekezdése iktatta be.
-[^79]: Az 5/A. § (7b) bekezdését a 251/2024. (VIII. 22.) Korm. rendelet 11. § (2) bekezdése iktatta be.
-[^80]: Az 5/A. § (7c) bekezdését a 251/2024. (VIII. 22.) Korm. rendelet 11. § (2) bekezdése iktatta be.
-[^81]: Az 5/A. § (7d) bekezdését a 251/2024. (VIII. 22.) Korm. rendelet 11. § (2) bekezdése iktatta be.
-[^82]: Az 5/A. § (7e) bekezdését a 251/2024. (VIII. 22.) Korm. rendelet 11. § (2) bekezdése iktatta be.
-[^83]: Az 5/A. § (8a) bekezdését a 251/2024. (VIII. 22.) Korm. rendelet 11. § (3) bekezdése iktatta be.
-[^84]: Az 5/A. § (9) bekezdése a 39/2021. (II. 2.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
-[^85]: Az 5/A. § (10) bekezdését a 39/2021. (II. 2.) Korm. rendelet 4. § (7) bekezdése iktatta be.
-[^86]: Az 5/A. § (11) bekezdését a 39/2021. (II. 2.) Korm. rendelet 4. § (7) bekezdése iktatta be.
+[^76]: Az 5/A. §-t megelőző alcímet a 457/2017. (XII. 28.) Korm. rendelet 55. § (5) bekezdése iktatta be.
+[^77]: Az 5/A. §-t a 457/2017. (XII. 28.) Korm. rendelet 55. § (5) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^78]: Az 5/A. § (7) bekezdése a 251/2024. (VIII. 22.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^79]: Az 5/A. § (7a) bekezdését a 251/2024. (VIII. 22.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^80]: Az 5/A. § (7b) bekezdését a 251/2024. (VIII. 22.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^81]: Az 5/A. § (7c) bekezdését a 251/2024. (VIII. 22.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^82]: Az 5/A. § (7d) bekezdését a 251/2024. (VIII. 22.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^83]: Az 5/A. § (7e) bekezdését a 251/2024. (VIII. 22.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^84]: Az 5/A. § (8a) bekezdését a 251/2024. (VIII. 22.) Korm. rendelet 11. § (3) bekezdése iktatta be.
+[^85]: Az 5/A. § (9) bekezdése a 39/2021. (II. 2.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
+[^86]: Az 5/A. § (10) bekezdését a 39/2021. (II. 2.) Korm. rendelet 4. § (7) bekezdése iktatta be.
+[^87]: Az 5/A. § (11) bekezdését a 39/2021. (II. 2.) Korm. rendelet 4. § (7) bekezdése iktatta be.
