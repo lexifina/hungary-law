@@ -49,3 +49,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-18-00-00
 | 2024-01-01 | 2023. évi XCIX. törvény | 2005-18-00-00.57 |
 | 2024-09-01 | 2024. évi XII. törvény | 2005-18-00-00.58 |
 | 2024-10-01 | 2023. évi C. törvény | 2005-18-00-00.59 |
+| 2025-01-01 | 2024. évi LXXXIX. törvény | 2005-18-00-00.62 |

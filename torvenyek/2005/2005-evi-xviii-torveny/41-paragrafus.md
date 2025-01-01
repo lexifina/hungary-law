@@ -1,6 +1,6 @@
-41. § (1) A távhőszolgáltató jogosult az önkormányzat rendeletében foglaltak szerint
+41. § (1) A távhőszolgáltató jogosult az önkormányzat rendeletében vagy a földgázellátás biztonságának megőrzését szolgáló intézkedésekről szóló kormányrendeletben foglaltak szerint
 
-a) az országos tüzelőanyag-hiány miatt nála vagy a vele szerződéses jogviszonyban álló távhőtermelőnél fellépő termeléskiesés esetén, vagy
+a) az országos tüzelőanyag-hiány vagy földgázellátási válsághelyzet miatt nála vagy a vele szerződéses jogviszonyban álló távhőtermelőnél fellépő termeléskiesés esetén, vagy
 
 b) környezetvédelmi érdekből
 
