@@ -12,33 +12,55 @@ Az üzemanyag-forgalmazó jelentésének minimális adattartalma
 
 2. Forgalomba hozott üzemanyag mennyisége (literben és MJ-ban kifejezve), ide nem értve annak az üzemanyagnak a mennyiségét, amelyet a bioüzemanyag-részarány számításánál figyelmen kívül kell hagyni:
 
-2.1. Motorbenzin;
+2.1.[^58] Motorbenzin:
+
+2.1.1. 95-ös kísérleti oktánszámú motorbenzin;
+
+2.1.2. más motorbenzin;
 
 2.2. Dízelgázolaj;
 
 2.3. E85.
 
-3.[^47] A forgalomba hozott bioüzemanyag mennyisége az 1. melléklet 3–15. és 17–32. sorában meghatározott fajtánkénti bontásban, és összesen (literben és MJ-ban kifejezve), ide nem értve annak a bioüzemanyagnak a mennyiségét, melyet a bioüzemanyag-részarány számításánál figyelmen kívül kell hagyni, valamint a forgalomba hozott bioüzemanyag előállításának módjáról.
+3.[^59] A forgalomba hozott bioüzemanyag mennyisége az 1. melléklet 3–15. és 17–32. sorában meghatározott fajtánkénti bontásban, és összesen (literben és MJ-ban kifejezve), ide nem értve annak a bioüzemanyagnak a mennyiségét, melyet a bioüzemanyag-részarány számításánál figyelmen kívül kell hagyni, valamint a forgalomba hozott bioüzemanyag előállításának módjáról.
 
-4. A forgalomba hozott bioüzemanyag alapanyagainak előállítása kapcsán a földhasználat közvetett megváltozásából eredő kibocsátás előzetesen becsült középértéke, amennyiben az az alábbi alapanyag kategóriákba tartozik:
+4.[^60] A forgalomba hozott bioüzemanyag alapanyagainak besorolása
 
-4.1. gabonafélék és egyéb, keményítőben gazdag növény,
+4.1. A forgalomba hozott bioüzemanyag alapanyagainak előállítása kapcsán a földhasználat közvetett megváltozásából eredő kibocsátás előzetesen becsült középértéke, amennyiben az az alábbi alapanyag kategóriákba tartozik:
 
-4.2. cukornövény,
+4.1.1. gabonafélék és egyéb, keményítőben gazdag növény,
 
-4.3. olajnövény.
+4.1.2. cukornövény,
+
+4.1.3. olajnövény,
+
+4.2. Amennyiben a forgalomba hozott bioüzemanyag esetében a kétszeres energiaértéken történő beszámítást alkalmazzák, annak megjelölését, hogy az alapanyag az alábbiak közül melyik kategóriákba tartozik:
+
+4.2.1. a 2. melléklet 1. pontjában meghatározott alapanyag,
+
+4.2.2. a 2. melléklet 2. pontjában meghatározott alapanyag.
 
 5. A naptári évet megelőző évben a kötelező bioüzemanyag-részarány mértéket meghaladóan teljesített, és a tárgyévben elszámolni kért bioüzemanyag-mennyisége (MJ-ban kifejezve).
 
 6. A forgalomba hozott üzemanyag energiatartalmára a kötelező bioüzemanyag-részarány alapján eső bioüzemanyag-mennyiség energiatartalmának levezetése (literben és MJ-ban kifejezve)
 
-6.1. Motorbenzin;
+6.1.[^61] Motorbenzin:
+
+6.1.1. 95-ös kísérleti oktánszámú motorbenzin;
+
+6.1.2. más motorbenzin;
 
 6.2. Dízelgázolaj;
 
 6.3. E85.
 
-7. A kötelező bioüzemanyag-részaránynak megfelelő mennyiség (kötelező bioüzemanyag-részaránnyal meghatározott bioüzemanyag-mennyiség energiatartalmának) és a tárgyévben ténylegesen forgalomba hozott bioüzemanyag-mennyiség energiatartalmának különbsége (literben és MJ-ban kifejezve).
+7.[^62] A kötelező bioüzemanyag-részaránynak megfelelő mennyiség (kötelező bioüzemanyag-részaránnyal meghatározott bioüzemanyag-mennyiség energiatartalmának) és a tárgyévben ténylegesen forgalomba hozott bioüzemanyag-mennyiség energiatartalmának különbsége (literben és MJ-ban kifejezve):
+
+7.1. A 95-ös kísérleti oktánszámú motorbenzinnél meghatározott mértékű bioetanol-részaránynak megfelelő mennyiség (kötelező bioetanol-részaránnyal meghatározott bioetanol-mennyiség energiatartalmának) és a tárgyévben a 95-ös kísérleti oktánszámú benzinhez ténylegesen forgalomba hozott bioetanol-mennyiség energiatartalmának különbsége.
+
+7.2. A dízelgázolajnál meghatározott mértékű hidrogénnel kezelt növényi olajok részarányának megfelelő mennyiség (kötelező részaránnyal meghatározott hidrogénnel kezelt növényi olaj-mennyiség energiatartalmának) és a tárgyévben a dízelgázolajhoz ténylegesen forgalomba hozott hidrogénnel kezelt növényi olaj-mennyiség (hidrogénnel kezelt növényi olaj, a Rendelet 1. melléklet 8. és 12. pontjában felsorolt termékek) energiatartalmának különbsége.
+
+7.3. A fejlett bioüzemanyagok esetében meghatározott mértékű részaránynak megfelelő mennyiség (kötelező részaránnyal meghatározott fejlett bioüzemanyag energiatartalmának) és a tárgyévben ténylegesen forgalomba hozott fejlett bioüzemanyag-mennyiség energiatartalmának különbsége.
 
 8. A bioüzemanyagra vonatkozó fenntarthatósági nyilatkozat adatai:
 
@@ -64,11 +86,19 @@ Az üzemanyag-forgalmazó jelentésének minimális adattartalma
 
 10.5. a 2. melléklet 2. pontjában meghatározott alapanyag,
 
-10.6. a 2. melléklet 3. pontjában meghatározott alapanyag,
+10.6.[^63]
 
 10.7. egyéb (alapanyag megnevezésével).
 
-11.[^48] Biomasszából előállított gáz halmazállapotú, a közlekedésben használt üzemanyag esetén, amennyiben ahhoz a megújuló gázok származásának igazolásáról szóló kormányrendeletben meghatározott származási garancia kiállítására került sor, annak igazolása, hogy a származási garancia felhasználásra került-e a számlarendszerben.
+11.[^64] Biomasszából előállított gáz halmazállapotú, a közlekedésben használt üzemanyag esetén, amennyiben ahhoz a megújuló gázok származásának igazolásáról szóló kormányrendeletben meghatározott származási garancia kiállítására került sor, annak igazolása, hogy a származási garancia felhasználásra került-e a számlarendszerben.
 
-[^47]: A 6. melléklet 3. pontja a 620/2022. (XII. 29.) Korm. rendelet 19. § c) pontja szerint módosított szöveg.
-[^48]: A 6. melléklet 11. pontját a 215/2024. (VII. 29.) Korm. rendelet 20. § (2) bekezdése iktatta be.
+12.[^65] Az ILUC-kockázatot jelentő anyagok azon mennyisége, amelyet a kötelező bioüzemanyag-részarány teljesítésben nem lehet beszámítani, energiatartalomban (MJ-ban).
+
+[^58]: A 6. melléklet 2. pont 2.1. alpontja a 457/2024. (XII. 30.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^59]: A 6. melléklet 3. pontja a 620/2022. (XII. 29.) Korm. rendelet 19. § c) pontja szerint módosított szöveg.
+[^60]: A 6. melléklet 4. pontja a 457/2024. (XII. 30.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^61]: A 6. melléklet 6. pont 6.1. alpontja a 457/2024. (XII. 30.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^62]: A 6. melléklet 7. pontja a 457/2024. (XII. 30.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^63]: A 6. melléklet 10. pont 10.6. alpontját a 457/2024. (XII. 30.) Korm. rendelet 4. § h) pontja hatályon kívül helyezte.
+[^64]: A 6. melléklet 11. pontját a 215/2024. (VII. 29.) Korm. rendelet 20. § (2) bekezdése iktatta be.
+[^65]: A 6. melléklet 12. pontját a 457/2024. (XII. 30.) Korm. rendelet 2. § (2) bekezdése iktatta be.

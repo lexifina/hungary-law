@@ -70,8 +70,10 @@ A biomassza igazolás minimális adattartalma
 
 2.10.2. a 2. melléklet 2. pontjában meghatározott alapanyag,
 
-2.10.3. a 2. melléklet 3. pontjában meghatározott alapanyag,
+2.10.3.[^50]
 
 2.10.4. egyéb (alapanyag megnevezéssel);
 
 2.11. az erdőtől eltérő mezőgazdasági területről származó hulladék esetében nyilatkozat arról, hogy a biomassza igazolással érintett biomassza előállításával érintett területekre vonatkozóan rendelkezésre áll-e külön jogszabályban meghatározott tápanyaggazdálkodási terv.
+
+[^50]: A 4. melléklet 2. pont 2.10.3. alpontját a 457/2024. (XII. 30.) Korm. rendelet 4. § c) pontja hatályon kívül helyezte.

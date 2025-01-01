@@ -1,6 +1,6 @@
 ## 3. Biomassza fenntartható termelésének követelményei és igazolása
 
-4. §[^7] (1) A bioüzemanyagok, folyékony bio-energiahordozók és a biomasszából előállított tüzelőanyagok előállításához felhasznált termesztett biomassza akkor minősül fenntarthatóan előállítottnak, ha a termesztés helye alapján
+4. §[^8] (1) A bioüzemanyagok, folyékony bio-energiahordozók és a biomasszából előállított tüzelőanyagok előállításához felhasznált termesztett biomassza akkor minősül fenntarthatóan előállítottnak, ha a termesztés helye alapján
 
 a) alapértelmezett területről származik vagy
 
@@ -54,4 +54,4 @@ b) pontos, naprakész és ellenőrizhető bizonyítékot szolgáltat a bizottsá
 
 (10) A külföldi erdei biomassza eredetének, előállítása fenntarthatóságának, nyomon követhetőségének, valamint az (EU) 2018/2001 parlamenti és tanácsi irányelv 29. cikk (1) bekezdés első albekezdés a)–c) pontjában meghatározott célokra való alkalmasságának vizsgálatát, a megfelelés igazolását, az ezekre irányuló hatósági ellenőrzést, jogsértés esetén a szankcionálást – a Büat. vagy e rendelet eltérő rendelkezése hiányában – a Magyarországon előállított erdei biomasszára és fásszárú biomasszára vonatkozó rendelkezések megfelelő alkalmazásával kell végrehajtani.
 
-[^7]: A 4. § a 164/2024. (VI. 28.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^8]: A 4. § a 164/2024. (VI. 28.) Korm. rendelet 3. §-ával megállapított szöveg.

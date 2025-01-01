@@ -1,6 +1,6 @@
 ## 12. A fenntarthatósági kritériumok teljesítése
 
-19. §[^39] (1) A fenntarthatósági követelmények teljesítése igazolható:
+19. §[^42] (1) A fenntarthatósági követelmények teljesítése igazolható:
 
 a) biomassza igazolással, szállítójeggyel, fenntarthatósági igazolással vagy fenntarthatósági bizonyítvánnyal,
 
@@ -20,4 +20,4 @@ b) az adatszolgáltatásra kötelezett ügyfél nem kötelezhető arra, hogy az 
 
 (3) Az (1) bekezdés szerint igazolt bioüzemanyagok és folyékony bioenergiahordozók figyelembe vétele más fenntarthatósági indokok alapján nem utasítható el az (EU) 2018/2001 parlamenti és tanácsi irányelv 29. cikk (1) bekezdés első albekezdés a)–c) pontjában meghatározott célok teljesítésénél.
 
-[^39]: A 19. § a 164/2024. (VI. 28.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^42]: A 19. § a 164/2024. (VI. 28.) Korm. rendelet 4. §-ával megállapított szöveg.

@@ -10,6 +10,8 @@ c) a benzin és a dízelüzemanyagok minőségéről szóló 98/70/EK irányelv 
 
 d) a megújuló energiaforrásokból előállított energia használatának előmozdításáról szóló, 2018. december 11-i (EU) 2018/2001 európai parlamenti és tanácsi irányelvnek
 
+e)[^44] az (EU) 2018/2001 európai parlamenti és tanácsi irányelv IX. mellékletének a bioüzemanyagok és biogázok előállításához szükséges alapanyagok hozzáadása tekintetében történő módosításáról szóló, 2024. március 14-i (EU) 2024/1405 felhatalmazáson alapuló bizottsági irányelvnek
+
 való megfelelést szolgálja.
 
 (2) Ez a rendelet
@@ -18,8 +20,12 @@ a) a közös agrárpolitika finanszírozásáról, irányításáról és monito
 
 b) a bioüzemanyagokra és a folyékony bio-energiahordozókra vonatkozó, a gazdasági szereplők által a tagállamokhoz eljuttatandó bizonyos típusú információkról szóló, 2011. január 12-i 2011/13/EU bizottsági határozat 1. cikk c) és d) pontja
 
-c)[^41] az (EU) 2018/2001 európai parlamenti és tanácsi irányelv 29. cikkében megállapított, erdei biomasszára vonatkozó fenntarthatósági kritériumok teljesülését igazoló bizonyítékok összeállítására vonatkozó gyakorlati iránymutatás meghatározásáról szóló, 2022. december 13-i (EU) 2022/2448 bizottsági végrehajtási rendelet
+c)[^45] az (EU) 2018/2001 európai parlamenti és tanácsi irányelv 29. cikkében megállapított, erdei biomasszára vonatkozó fenntarthatósági kritériumok teljesülését igazoló bizonyítékok összeállítására vonatkozó gyakorlati iránymutatás meghatározásáról szóló, 2022. december 13-i (EU) 2022/2448 bizottsági végrehajtási rendelet
+
+d)[^46] a fenntarthatósági és üvegházhatásúgázkibocsátás-megtakarítási kritériumok, valamint a közvetett földhasználat-változás szempontjából vett alacsony kockázatra irányadó kritériumok ellenőrzésére vonatkozó szabályokról szóló, 2022. június 14-i (EU) 2022/996 számú bizottsági végrehajtási rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^41]: A 27. § (2) bekezdés c) pontját a 164/2024. (VI. 28.) Korm. rendelet 5. §-a iktatta be.
+[^44]: A 27. § (1) bekezdés e) pontját a 457/2024. (XII. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^45]: A 27. § (2) bekezdés c) pontját a 164/2024. (VI. 28.) Korm. rendelet 5. §-a iktatta be.
+[^46]: A 27. § (2) bekezdés d) pontját a 457/2024. (XII. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be.

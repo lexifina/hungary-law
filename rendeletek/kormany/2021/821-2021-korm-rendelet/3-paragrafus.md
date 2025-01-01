@@ -16,7 +16,7 @@ e) a 2026. január 1-jét követően üzembe helyezett létesítményekben bioma
 
 (3) Az (1) bekezdésben meghatározott ÜHG elkerülés mértékét a 21. §-ban rögzített fosszilis komparátorhoz kell viszonyítani.
 
-(4) A hulladékból és – a mezőgazdasági, akvakultúrából származó, halászati és erdészeti maradványanyagoktól eltérő – maradványanyagokból előállított bioüzemanyagoknak, folyékony bio-energiahordozóknak és biomasszából előállított tüzelőanyagoknak csak az (1) bekezdésben meghatározott üvegházhatásúgázkibocsátás-megtakarítási kritériumnak kell megfelelniük ahhoz, hogy azokat az (EU) 2018/2001 európai parlamenti és tanácsi irányelv 29. cikk (1) bekezdés a), b) és c) pontjaiban említett célokhoz figyelembe vegyék. Ez a rendelkezés azon hulladékokra és maradványanyagokra is vonatkozik, amelyeket a bioüzemanyaggá, folyékony bio-energiahordozóvá vagy biomasszából előállított tüzelőanyaggá való további átalakítás előtt valamilyen egyéb termékké dolgoznak fel.
+(4)[^6] A hulladékból és – a mezőgazdasági, akvakultúrából származó, halgazdálkodási és erdészeti maradványanyagoktól eltérő – maradványanyagokból előállított bioüzemanyagoknak, folyékony bio-energiahordozóknak és biomasszából előállított tüzelőanyagoknak csak az (1) bekezdésben meghatározott üvegházhatásúgázkibocsátás-megtakarítási kritériumnak kell megfelelniük ahhoz, hogy azokat az (EU) 2018/2001 európai parlamenti és tanácsi irányelv 29. cikk (1) bekezdés a), b) és c) pontjaiban említett célokhoz figyelembe vegyék. Ez a rendelkezés azon hulladékokra és maradványanyagokra is vonatkozik, amelyeket a bioüzemanyaggá, folyékony bio-energiahordozóvá vagy biomasszából előállított tüzelőanyaggá való további átalakítás előtt valamilyen egyéb termékké dolgoznak fel.
 
 (5) Egy létesítmény üzemel, ha már ténylegesen megkezdte a bioüzemanyagok, a folyékony bio-energiahordozók, vagy a biomasszából előállított tüzelőanyagok előállítását.
 
@@ -30,6 +30,7 @@ b) azok az (EU) 2018/2001 európai parlamenti és tanácsi irányelv 29. cikk 1.
 
 (8) A Büat. 2. §-ában meghatározott tagállami cél teljesítésének a közlekedési szektorban történő meghatározásához a 3. mellékletben meghatározott számítási szabályok alkalmazandóak.
 
-(9)[^6] A települési hulladékból előállított villamos energiára, fűtőenergiára és hűtőenergiára nem vonatkoznak az (1) bekezdésben meghatározott üvegházhatású gázkibocsátás-megtakarítási kritériumok.
+(9)[^7] A települési hulladékból előállított villamos energiára, fűtőenergiára és hűtőenergiára nem vonatkoznak az (1) bekezdésben meghatározott üvegházhatású gázkibocsátás-megtakarítási kritériumok.
 
-[^6]: A 3. § (9) bekezdését a 620/2022. (XII. 29.) Korm. rendelet 13. §-a iktatta be.
+[^6]: A 3. § (4) bekezdése a 457/2024. (XII. 30.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^7]: A 3. § (9) bekezdését a 620/2022. (XII. 29.) Korm. rendelet 13. §-a iktatta be.
