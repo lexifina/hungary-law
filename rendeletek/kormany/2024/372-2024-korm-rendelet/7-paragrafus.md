@@ -1,0 +1,1 @@
+7. § A hitelintézet – kamattámogatás megszűnése esetén az ügyleti kamaton kívül – a kölcsönkérelem elbírálásáért és a kölcsön folyósításáért az igénylő felé díjat, költséget vagy egyéb ellenszolgáltatást nem számíthat fel.

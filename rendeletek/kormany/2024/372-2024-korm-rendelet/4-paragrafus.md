@@ -1,0 +1,1 @@
+4. § A Kincstár, az állami adó- és vámhivatal és az Oktatási Hivatal a kölcsön igénylésekor tett nyilatkozatok valóságtartalmát a támogatott személyeknél – a kölcsönszerződés megkötésétől a futamidő végéig – hatósági ellenőrzés keretében vizsgálhatja.

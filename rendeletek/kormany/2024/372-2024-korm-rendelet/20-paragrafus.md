@@ -1,0 +1,3 @@
+20. § (1) A hitelintézet felelős az állammal szemben minden olyan kárért, amely az e rendelet alapján őt terhelő kötelezettség megsértésével keletkezett. A hitelintézet felelőssége kiterjed a függő közvetítőjére is, aki a kölcsönre való jogosultságot bírál el, valamint a kölcsön nyújtásához kapcsolódó tevékenységet végez. Mentesül a hitelintézet a felelősség alól, ha bizonyítja, hogy maga vagy függő közvetítője úgy járt el, ahogy az az adott helyzetben elvárható.
+
+(2) A hitelintézet a neki felróható okból eredő kár esetén a támogatottakkal szemben köteles helytállni, e kötelezettségét az államra nem háríthatja át.
