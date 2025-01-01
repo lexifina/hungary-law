@@ -1,0 +1,3 @@
+8. § (1) Az NKFH a Nemzetgazdasági Minisztériumból történő kiválással jön létre 2025. január 1-jén.
+
+(2) Az (1) bekezdés szerinti jogutódlással érintett álláshelyen foglalkoztatott beosztási okiratának a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) 90/A. § (3) bekezdése szerinti kiállítása során az NKFH a foglalkoztatott Kit. 1. melléklet II. táblázata szerinti álláshelyi besorolását úgy állapítja meg, hogy a foglalkoztatottat a Kit. 128. § (1) bekezdése szerint megillető szabadság, valamint a foglalkoztatott illetménye nem lehet kevesebb annál, mint amire a foglalkoztatott a beosztási okirata alapján a kiválás napján jogosult volt.

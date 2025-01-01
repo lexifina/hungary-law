@@ -1,0 +1,5 @@
+9. § (1) A Nemzeti Kereskedelmi és Fogyasztóvédelmi Hatóság létrehozásával összefüggő kormányrendeletek módosításáról szóló 328/2024. (XI. 14.) Korm. rendelet alapján a NÉBIH-től az NKFH-hoz átkerülő feladat- és hatáskörök tekintetében a NÉBIH jogutódja 2025. január 1-jével az NKFH.
+
+(2) Az Élelmiszerlánc-biztonsági Centrum Nonprofit Kft. (a továbbiakban: ÉBC) által 2024. december 31. napjáig végzett, az (1) bekezdés szerinti jogutódlás alapján az NKFH-hoz átkerülő feladatok ellátásában érintett szervezeti egységeinél vagy tevékenysége keretében foglalkoztatott munkavállalókat az NKFH foglalkoztatja tovább.
+
+(3) Az ÉBC (2) bekezdés szerinti munkavállalóinak foglalkoztatási jogviszonya 2025. január 1-jétől az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 11/F. § (1) bekezdése alapján a Kit. szerinti kormányzati szolgálati jogviszonnyá alakul át az Áht. 11/F. §-ának megfelelően, kivéve, ha az NKFH az érintett munkavállalóval a Kit. 279. §-a szerinti, munkaviszony keretében történő foglalkoztatásban állapodik meg.
