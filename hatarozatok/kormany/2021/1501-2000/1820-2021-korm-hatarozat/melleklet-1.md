@@ -38,11 +38,7 @@
 
 ## 4. A Kormány a komplex közútfelújítási feladatok végrehajtása érdekében
 
-## a) az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 6. Gazdaság újraindítását szolgáló innovációs és technológiai fejezeti kezelésű előirányzatok alcím, 1. Közlekedési fejlesztések jogcímcsoportjának a 7. Országos közúthálózat felújítása jogcímmel történő kiegészítését;
-
-## Felelős: pénzügyminiszter
-
-## Határidő: azonnal
+## a)[^1]
 
 ## b) felhívja a pénzügyminisztert, hogy – az innovációért és technológiáért felelős miniszter bevonásával – a komplex útfelújítási feladatok megvalósítási feladatainak finanszírozása érdekében gondoskodjon 8 005 142 665 forint többletforrás rendelkezésre állásáról, az alábbi ütemezéssel:
 
@@ -64,24 +60,25 @@
 
 ## Határidő: az a) alpont szerinti előirányzat megnyitását követően azonnal
 
-## d)[^1]
+## d)[^2]
 
-## 5.[^2] A Kormány egyetért azzal, hogy a 4. pont b) alpont ba) pontja kapcsán további központi költségvetési többletforrás biztosítása nem szükséges.
+## 5.[^3] A Kormány egyetért azzal, hogy a 4. pont b) alpont ba) pontja kapcsán további központi költségvetési többletforrás biztosítása nem szükséges.
 
-## 6.[^3]
+## 6.[^4]
 
-## 7.[^4]
+## 7.[^5]
 
-## 8.[^5]
+## 8.[^6]
 
-## 9.[^6]
+## 9.[^7]
 
-1. melléklet az 1820/2021. (XI. 25.) Korm. határozathoz[^7]
+1. melléklet az 1820/2021. (XI. 25.) Korm. határozathoz[^8]
 
-[^1]: A 4. pont d) alpontját az 1940/2021. (XII. 21.) Korm. határozat 3. pont c) pontja visszavonta.
-[^2]: Az 5. pontot az 1940/2021. (XII. 21.) Korm. határozat 3. pont c) pontja visszavonta, újonnan az 1291/2024. (IX. 19.) Korm. határozat 83. pontja iktatta be.
-[^3]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 4. pont a) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: A 4. pont d) alpontját az 1940/2021. (XII. 21.) Korm. határozat 3. pont c) pontja visszavonta.
+[^3]: Az 5. pontot az 1940/2021. (XII. 21.) Korm. határozat 3. pont c) pontja visszavonta, újonnan az 1291/2024. (IX. 19.) Korm. határozat 83. pontja iktatta be.
+[^4]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
