@@ -51,3 +51,21 @@ q) a 1370/2007/EK rendelet 4. cikk (5) bekezdésében foglaltak bekövetkezése 
 (7) Amennyiben a közszolgáltatási szerződés a szolgáltatónak kizárólagos jogot biztosít valamely területen, a beleegyezése nélkül csak a 29. § (3) bekezdésében foglaltak alapján, valamint abban az esetben korlátozható, ha arról a szerződés kifejezetten rendelkezik. A szerződés csak az abban foglalt esetekben és feltételekkel mondható fel. A szerződésben rögzített közszolgáltatási tevékenység gyakorlásának joga más, az e törvényben meghatározott feltételeknek megfelelő személyre – kivételesen indokolt esetben – az ellátásért felelős hozzájárulásával ruházható át.
 
 (8) A személyszállítási közszolgáltatások teljesítésébe – az 1370/2007/EK rendelet 4. cikk (7) bekezdés 3. mondatában meghatározott feltételek teljesülésének kivételével – a szolgáltató a közszolgáltatási szerződésben meghatározott mértékben, de legfeljebb 49%-ban vonhat be alvállalkozót. Alvállalkozóként kizárólag csak a nemzeti vagyonról szóló törvény szerint átlátható szervezetnek minősülő közlekedési szolgáltató vonható be.
+
+(9) Országos, regionális és elővárosi személyszállítási közszolgáltatások esetében a szolgáltató a közszolgáltatási szerződés teljesítésébe a személyszállítási közszolgáltatásokra vonatkozó
+
+a) stratégiai tervezési,
+
+b) nyomonkövetési,
+
+c) fejlesztés és működés összehangolási,
+
+d) az infrastrukturális feltételek összehangolási,
+
+e) utastájékoztatási – ideértve a haváriahelyzetben történő utastájékoztatást is – összehangolási, és
+
+f) haváriahelyzetben történő közlekedésirányítás összehangolási
+
+közfeladatainak egységes ellátására – az ellátásért felelős előzetes jóváhagyásával – kiemelt közszolgáltatói közreműködőt vonhat be azzal, hogy a kiemelt közszolgáltatói közreműködő a közszolgáltatási szerződés keretében nem láthat el a közszolgáltatási szerződés tárgya szerinti tevékenységi engedélyhez kötött tevékenységet.
+
+(10) Kiemelt közszolgáltatói közreműködőként kizárólag a nemzeti vagyonról szóló törvény szerint átlátható szervezetnek minősülő szervezet vonható be.

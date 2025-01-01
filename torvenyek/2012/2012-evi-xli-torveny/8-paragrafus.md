@@ -12,7 +12,7 @@ a) a szolgáltató az (5) bekezdésben meghatározott helyeken, valamint
 
 b) az (1) bekezdés a) és b) pontjában meghatározott szolgáltató – az a) ponton túlmenően – a jármű közlekedése során, a jármű közlekedésével közvetlenül érintett területen
 
-elektronikus biztonságtechnikai rendszeren keresztül, a (6)–(15) bekezdésben foglalt feltételekkel folytathat megfigyelést, készíthet rögzített képfelvételt, és kezelheti a rögzített képfelvételeket.
+elektronikus biztonságtechnikai rendszeren keresztül, a (6)–(15) bekezdésben foglalt feltételekkel folytathat megfigyelést, készíthet rögzített képfelvételt vagy kép- és hangfelvételt, és kezelheti a rögzített képfelvételeket vagy kép- és hangfelvételeket.
 
 (3) A szolgáltató – az utasok, valamint a szolgáltató munkavállalói és megbízottai élete, személye, testi épsége, vagyontárgyai ellen irányuló jogsértő cselekmény felderítése, bizonyítása, továbbá a járművei, berendezései, eszközei, egyéb vagyontárgyai és a nemzeti vagyonba tartozó vagyontárgyak védelme érdekében – elektronikus biztonságtechnikai rendszeren keresztül működtetett testkamerán, valamint a gépjárműben elhelyezett, a jegyértékesítési terület megfigyelésére alkalmazott fedélzeti kamerán az (5)–(15) bekezdésben foglalt feltételekkel folytathat megfigyelést. A szolgáltató a megfigyelés során képfelvételt vagy kép- és hangfelvételt készít, valamint kezeli a rögzített képfelvételt vagy kép- és hangfelvételt. Testkamera esetében a szolgáltató biztosítja a testkamera viselője általi rögzítés indításának és befejezésének technikai lehetőségét.
 

@@ -46,7 +46,7 @@ d) különleges személyszállító szolgáltatást nyújtó jármű: személysz
 
 e) vízi jármű: a Vkt.-ban meghatározott, vízen való személyszállításra szolgáló gépi hajtású vízi jármű, valamint a komp;
 
-13.
+13. kiemelt közszolgáltatói közreműködő: az országos, regionális és elővárosi személyszállítási közszolgáltatások teljesítésébe – stratégiai tervezési és ellenőrzési, valamint összehangolási feladatok ellátása érdekében – bevont, a személyszállítási közszolgáltatási szerződésben ekként nevesített szervezet;
 
 14. közforgalmú személyszállítási szolgáltatás: az a személyszállítási szolgáltatás, amelyet – a közzétett feltételek alkalmazásával, díj ellenében – bárki igénybe vehet;
 

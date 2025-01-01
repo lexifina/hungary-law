@@ -36,7 +36,7 @@ rendeletben állapítsa meg.
 
 a) a vasúti személyszállítási szolgáltatások végzésének és engedélyezésének részletes szabályait,
 
-b) a vasúti dolgozók menetkedvezményre jogosultságának és igénybevételének részletes szabályait,
+b) a vasúti dolgozók menetkedvezményre való jogosultságának és igénybevételének részletes szabályait,
 
 c) az országos, regionális és elővárosi személyszállítási közszolgáltatásokra vonatkozó közforgalmú menetrend készítésére, az egységes egyeztetési eljárásra vonatkozó, és az országos, regionális és elővárosi személyszállítási közszolgáltatások keretében nyújtandó alapellátás meghatározására vonatkozó részletes szabályokat,
 
