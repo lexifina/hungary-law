@@ -10,7 +10,7 @@ irányulhat.
 
 (2)
 
-(3) Az egészségbiztosítási szerv az egyes forgalomba hozatalra engedélyezett gyógyszerek vagy a tápszerek társadalombiztosítási támogatásba való befogadásáról, a támogatás kategóriájáról, módszeréről, mértékéről vagy összegéről, valamint az árához nyújtott társadalombiztosítási támogatás igénybevételének kezdőnapjáról (a továbbiakban: finanszírozás kezdőnapja), a társadalombiztosítási támogatásból való kizárásról, valamint a 29. § (4) bekezdésben jelölt adatok változásáról 90 napon belül dönt.
+(3) Az egészségbiztosítási szerv az egyes forgalomba hozatalra engedélyezett gyógyszerek vagy a tápszerek társadalombiztosítási támogatásba való befogadásáról, a támogatás kategóriájáról, módszeréről, mértékéről vagy összegéről, valamint az árához nyújtott társadalombiztosítási támogatás igénybevételének kezdőnapjáról (a továbbiakban: finanszírozás kezdőnapja), a társadalombiztosítási támogatásból való kizárásról, valamint a 29. § (4) bekezdésben jelölt adatok változásáról a kérelem hiánytalan beérkezését követő 90 napon belül dönt.
 
 (4) A határozatokban a (3) bekezdés szerinti finanszírozás kezdőnapját úgy kell megállapítani, hogy az a határozat véglegessé válását követő 5 évnél későbbi időpont nem lehet.
 
