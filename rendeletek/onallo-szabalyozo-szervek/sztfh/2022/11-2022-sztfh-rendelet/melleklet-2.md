@@ -1,6 +1,6 @@
 ## A nyomástartó berendezések veszélyességi osztályba sorolása a hatósági eljárások szempontjából
 
-## 1. [^27]
+## 1. [^29]
 
 ## 2. A besorolás a berendezés fajtája, töltetének veszélyessége, a legnagyobb megengedhető nyomás (PS) és a belső térfogat (V) szorzata, valamint e szorzat egy az 5. pont ábráiban megadott, vastag vonallal jelzett határértéke figyelembevétele alapján történik.
 
@@ -90,4 +90,4 @@ e) a kezelésre, a vizsgálatok elvégzésére rendelkezésre álló terület.
 
 2.3. A korrózió, az erózió és a belső vizsgálhatóság figyelembevételével a falvastagságmérési helyeket (ultrahangos falvastagságmérési térkép).
 
-[^27]: Az 1. melléklet 1. pontját a 16/2023. (VII. 31.) SZTFH rendelet 8. § k) pontja hatályon kívül helyezte.
+[^29]: Az 1. melléklet 1. pontját a 16/2023. (VII. 31.) SZTFH rendelet 8. § k) pontja hatályon kívül helyezte.
