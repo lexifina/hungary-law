@@ -6,23 +6,9 @@
 
 ## c) egyetért azzal, hogy a Beruházások előkészítője a Nemzeti Sportközpontok, megvalósítója a Beruházási Ügynökség legyen;
 
-## d) a Beruházásoknak a Beruházás Előkészítési Alap felhasználásáról szóló 233/2018. (XII. 6.) Korm. rendelet 2. § (2) bekezdés n), o) és p) pontja szerinti előkészítési fázisaira 1 183 198 180 forint forrást biztosít a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XLVII. Gazdaságvédelmi Alap fejezet, 1. Központi kezelésű előirányzatok cím, 1. Központi tartalékok alcím, 2. Beruházás Előkészítési Alap jogcímcsoport terhére, azzal, hogy az előkészítési fázisokat legkésőbb 2021. december 31. napjáig kell megvalósítani;
+## d)[^1]
 
-## e) az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva a Beruházások d) alpont szerinti előkészítési fázisainak finanszírozása érdekében 1 183 198 180 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet XLVII. Gazdaságvédelmi Alap fejezet, 1. Központi kezelésű előirányzatok cím, 1. Központi tartalékok alcím, 2. Beruházás Előkészítési Alap jogcímcsoport terhére, a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 3. Nemzeti Sportközpontok cím javára elszámolási, a fel nem használt és a nem rendeltetésszerűen felhasznált rész tekintetében visszafizetési kötelezettséggel, az 1. melléklet szerint;
-
-## Az átcsoportosítás tekintetében
-
-## Felelős: pénzügyminiszter
-
-## emberi erőforrások minisztere
-
-## Határidő: azonnal
-
-## Az elszámolás és a fel nem használt, valamint a nem rendeltetésszerűen felhasznált rész visszafizetése tekintetében
-
-## Felelős: emberi erőforrások minisztere
-
-## Határidő: 2022. június 30.
+## e)[^2]
 
 ## f) felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a Beruházások megvalósítására lefolytatott feltételes közbeszerzési eljárás eredménye alapján készítsen előterjesztést a Kormány részére a Beruházások megvalósításáról, a kivitelezéshez kapcsolódó kötelezettségvállalási összeg és a kifizetések ütemezésének, valamint az emberi erőforrások minisztere bevonásával a létrejövő vagyonelemek tulajdoni viszonyaira és vagyonkezelőjére vonatkozó javaslatának bemutatásával.
 
@@ -32,8 +18,11 @@
 
 ## Határidő: a Beruházások megvalósítását célzó feltételes közbeszerzési eljárást követő 60 napon belül
 
-## 2.[^1]
+## 2.[^3]
 
-1. melléklet az 1176/2021. (IV. 14.) Korm. határozathoz
+1. melléklet az 1176/2021. (IV. 14.) Korm. határozathoz[^4]
 
-[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont d) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: Az 1. pont e) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^3]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
