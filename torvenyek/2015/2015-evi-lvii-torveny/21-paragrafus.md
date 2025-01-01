@@ -17,3 +17,7 @@ c) a lakosság számára ingyenes energetikai tanácsadást biztosít, valamint 
 d) tájékoztatást nyújt az elérhető energiahatékonysági pályázatokról.
 
 e) tájékoztatást nyújt az épületek energetikai jellemzőinek tanúsításáról szóló kormányrendelet szerinti energiahatékonysági tanúsítványokról, ezek rendeltetéséről és céljáról, a megújuló energiahasználatot, és a rendkívül energiahatékony megoldásokat is ösztönző költséghatékony intézkedésekről, felújítási tanácsadás keretében az épület energiahatékonyságának javítását és a megújuló energiahasználat növelését szolgáló pénzügyi eszközökről, valamint a fosszilis tüzelőanyaggal működő kazánok fenntarthatóbb – pl. megújuló energián, hulladékhőn vagy hulladék hűtőenergián alapuló – alternatívával való helyettesítéséről.
+
+(5) A Magyar Mérnöki Kamara az energetikai tanácsadással összefüggő tájékoztató és nyomonkövetési tevékenysége ellátása érdekében kezeli a tanácsadásra jelentkező ügyfelek adatait és a végrehajtó hatósági tevékenysége ellátása keretében adatot szolgáltat az erre kijelölt szerveknek.
+
+(6) A Magyar Mérnöki Kamara tájékoztatási feladatai ellátásának fedezetét a központi költségvetés az energiapolitikáért felelős minisztérium fejezeti kezelésű előirányzata keretében biztosítja.

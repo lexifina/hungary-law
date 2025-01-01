@@ -12,6 +12,10 @@
 
 (6) Első alkalommal 2017. július 1-jétől kell az energetikai auditornak és az energetikai szakreferensnek éves továbbképzést teljesíteni, valamint a közreműködő szervezetnek a továbbképzést megszervezni.
 
+(6a) A nemzeti tanúsítási vagy az azzal egyenértékű képesítési rendszerek értékelésének 42/A. § (3) bekezdés szerinti benyújtására első alkalommal 2025. június 30-ig kerül sor.
+
+(6b) A 10/A. § szerinti jelentés benyújtására első alkalommal 2025. március 15-ig kerül sor.
+
 (7) A Hivatal 2017. június 30-ig nem szab ki bírságot az energetikai szakreferens igénybevételéről szóló bejelentés elmulasztása miatt.
 
 (8) A Hivatal 2017. június 30-ig nem szab ki bírságot a kötelező energetikai auditálás teljesítésének elmaradása miatt.
@@ -41,3 +45,9 @@
 (20) E törvénynek az állam működésének további egyszerűsítésével összefüggő rendelkezésekről szóló 2023. évi LXX. törvénnyel (a továbbiakban: Módtv.) megállapított 37. § (1) bekezdését a hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
 
 (21) A Módtv. hatálybalépése előtt határozott időtartamra kiadott és a Módtv. hatálybalépésekor hatályos engedély határozatlan időtartamúvá válik.
+
+(22) E törvénynek a klímagázokról szóló 2024. évi LXXXVII. törvénnyel (a továbbiakban: Klímagáz tv.) megállapított 15. § (4a) bekezdését nem kell alkalmazni a Klímagáz tv. hatálybalépését megelőzően megindult alternatív szakpolitikai intézkedésekre.
+
+(23) E törvénynek a Klímagáz tv.-vel megállapított 15. § (5a) bekezdését nem kell alkalmazni a Klímagáz tv. hatálybalépését megelőzően megkezdett intézkedésekre, amennyiben az intézkedésből származó energiamegtakarítást 2025. március 31-ig felvezetik a hitelesített energiamegtakarítások nyilvántartásába.
+
+(24) E törvénynek a Klímagáz tv.-vel megállapított 15/D. § (2a) bekezdését nem kell alkalmazni a Klímagáz tv. hatálybalépését megelőzően megkezdett intézkedésekre, amennyiben az intézkedésből származó energiamegtakarítást 2025. március 31-ig felvezetik a hitelesített energiamegtakarítások nyilvántartásába.

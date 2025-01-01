@@ -8,13 +8,13 @@ b) a 2022. évben az általa 2020-ban végső felhasználók részére Magyarors
 
 c) a 2023. évben az általa 2021-ben végső felhasználók részére Magyarországon értékesített, kötelezettség alá vont energiamennyiség 0,3%-ának,
 
-d) a 2024–2027. években az egyes éveket megelőző második évben általa végső felhasználók részére Magyarországon értékesített, szállított, kötelezettség alá vont energiamennyiség 0,5%-ának,
+d) a 2024–2030. években az egyes éveket megelőző második évben általa végső felhasználók részére Magyarországon értékesített, szállított, kötelezettség alá vont energiamennyiség 0,5%-ának
 
-e) a 2028. évben az általa 2026-ban végső felhasználók részére Magyarországon értékesített, szállított, kötelezettség alá vont energiamennyiség 0,35%-ának,
+e)
 
-f) a 2029. évben az általa 2027-ben végső felhasználók részére Magyarországon értékesített, szállított, kötelezettség alá vont energiamennyiség 0,15%-ának,
+f)
 
-g) a 2030. évben az általa 2028-ban végső felhasználók részére Magyarországon értékesített, szállított, kötelezettség alá vont energiamennyiség 0,05%-ának
+g)
 
 megfelelő mértékű éves energiamegtakarítást köteles elérni a végső felhasználók körében (a továbbiakban: energiamegtakarítási kötelezettség).
 
@@ -24,14 +24,30 @@ megfelelő mértékű éves energiamegtakarítást köteles elérni a végső fe
 
 (2b) A saját jogon eljáró felhasználó részére szerződés keretében földgázt szállíttató fél és a közlekedési célú üzemanyagot végső felhasználók részére értékesítő egyesület először a 2024. évben köteles energiamegtakarítási kötelezettséget teljesíteni.
 
-(3) A kötelezett fél az energiamegtakarítási kötelezettség teljesítését a 13. § (1) bekezdés b)–g) pontja szerinti olyan alternatív szakpolitikai intézkedésekkel is kombinálhatja, amelyekhez a kötelezett fél – vagy hitelesített energiamegtakarítás átruházása esetén bármely személy – részéről lényeges hozzájárulás történt. Ha a kötelezett fél az elért energiamegtakarítást ilyen alternatív szakpolitikai intézkedések igénybevételével éri el, az elért energiamegtakarításból a kötelezett félnek és a végső felhasználónak nyújtott vissza nem térítendő állami támogatás és adókedvezmény részaránya – a (4) bekezdésben meghatározott kivétellel – az alternatív szakpolitikai intézkedés keretében, az egyéni fellépés további elszámolható költségének részaránya pedig kötelezetti energiamegtakarításként számolható el. Oktatási, képzési, tanácsadási és szemléletformálási programok kötelezetti igénybevétele esetén a kötelezetti elszámolhatóság részarányát az e törvény végrehajtására kiadott kormányrendelet állapítja meg.
+(3) A kötelezett fél az energiamegtakarítási kötelezettség teljesítését a (4a) bekezdés szerinti esetben a 13. § (1) bekezdés b)–g) pontja szerinti olyan alternatív szakpolitikai intézkedésekkel is kombinálhatja, amelyekhez a kötelezett fél – vagy hitelesített energiamegtakarítás átruházása esetén bármely személy – részéről lényeges hozzájárulás történt. Ha a kötelezett fél az elért energiamegtakarítást ilyen alternatív szakpolitikai intézkedések igénybevételével éri el, az elért energiamegtakarításból a kötelezett félnek és a végső felhasználónak nyújtott vissza nem térítendő állami támogatás és adókedvezmény részaránya – a (4) bekezdésben meghatározott kivétellel – az alternatív szakpolitikai intézkedés keretében, az egyéni fellépés további elszámolható költségének részaránya pedig kötelezetti energiamegtakarításként számolható el. Oktatási, képzési, tanácsadási és szemléletformálási programok kötelezetti igénybevétele esetén a kötelezetti elszámolhatóság részarányát az e törvény végrehajtására kiadott kormányrendelet állapítja meg.
 
 (4) Lakóépületek energiahatékonyságát javító egyéni fellépés megvalósítása során a kötelezett félnek és a végső felhasználónak nyújtott vissza nem térítendő állami támogatás, adókedvezmény vagy ezek együttes igénybevétele esetén a kötelezett az energiamegtakarítás 70%-át akkor is elszámolhatja kötelezetti energiamegtakarításként, ha a (3) bekezdés alapján ennél kevesebbre lenne jogosult. A Hivatal az így keletkező megtakarítást a 13. § (5) bekezdése szerinti adatszolgáltatásában külön feltünteti.
 
-(4a) Az alternatív szakpolitikai intézkedés végrehajtó hatósága az adott alternatív szakpolitikai intézkedés igénybevételére vonatkozó feltételek meghatározásával egyező formában meghatározhatja, hogy az adott alternatív szakpolitikai intézkedés mely feltételek fennállása esetén vehető igénybe energiamegtakarítási kötelezettség teljesítésére.
+(4a) Az alternatív szakpolitikai intézkedés végrehajtó hatósága az energiapolitikáért felelős miniszter bevonásával az adott alternatív szakpolitikai intézkedés igénybevételére vonatkozó feltételek meghatározásával egyező formában meghatározza, hogy az adott alternatív szakpolitikai intézkedés mely feltételek fennállása esetén vehető igénybe energiamegtakarítási kötelezettség teljesítésére, amely esetben az elszámolásra a (3) és (4) bekezdés szerinti arány alkalmazandó. Ha az alternatív szakpolitikai intézkedés végrehajtó hatósága az adott alternatív szakpolitikai intézkedés igénybevételére vonatkozó feltételeket nem határoz meg, az adott alternatív szakpolitikai intézkedés nem vehető igénybe energiamegtakarítási kötelezettség teljesítésére.
+
+(4b) A (4a) bekezdés szerint keletkező megtakarítást a végrehajtó hatóság a 14. § (1) bekezdés b) pont bb) alpontja, a Hivatal a 13. § (5) bekezdése szerinti adatszolgáltatásában külön feltünteti.
+
+(4c) Az alternatív szakpolitikai intézkedés igénybevételére vonatkozó feltételek (4a) bekezdés szerinti meghatározása esetén az adott alternatív szakpolitikai intézkedésből származó energiamegtakarítást kizárólag az igénybevételi feltételek végrehajtó hatóság általi igazolt teljesítése esetén lehet hitelesíteni.
 
 (5) Nem számolható el az energiamegtakarítási kötelezettség teljesítéseként olyan egyéni fellépésből származó energiamegtakarítás, amely 2020. január 16. előtt megkezdődött.
+
+(5a) Nem számolható el az Energiahatékonysági Kötelezettségi Rendszerben az alábbi intézkedésekből származó energiamegtakarítás:
+
+a) üzemanyag adalékolásából származó energiamegtakarítás,
+
+b) gépjármű abroncsnyomás korrekciójával elért energiamegtakarítás,
+
+c) perlátor felszereléséből vagy cseréjéből származó energiamegtakarítás,
+
+d) világításkorszerűsítés esetén az egyes veszélyes anyagok elektromos és elektronikus berendezésekben való alkalmazásának korlátozásáról szóló kormányrendeletben foglaltaknak nem megfelelő világítótestekkel végrehajtott világításkorszerűsítésből származó energiamegtakarítás.
 
 (6) A villamos energia és földgáz kereskedelmi és egyetemes szolgáltatói engedélyes a Vet. vagy a Get. szerinti engedélye időbeli hatályának megszűnéséig terjedő időtartamra vonatkozóan vagy az engedély visszavonásáról szóló határozatban megjelölt időpontig, ennek hiányában a visszavonást elrendelő határozat véglegessé válásának napjáig terjedő időtartamra vonatkozóan időarányosan teljesíti az energiamegtakarítási kötelezettségét. A közlekedési célú üzemanyagot végső felhasználók számára értékesítő gazdálkodó szervezet az értékesítési tevékenységének megszűnése esetén a tevékenység befejezéséig időarányosan teljesíti az energiamegtakarítási kötelezettségét.
 
 (7) A kötelezett fél az energiamegtakarítási kötelezettsége teljesítésével összefüggésben nem akadályozhatja, hogy a végső felhasználó más energiaszolgáltatóval kössön energia vásárlására irányuló szerződést. Ha az energiahatékonyság-alapú szerződés egyben a Vet. hatálya alá tartozó villamosenergia-vásárlásra vagy a Get. hatálya alá tartozó földgáz-kereskedelemre is irányul, a megállapodásban rögzíteni kell az energiahatékonysági intézkedésekhez kapcsolódó jogok és kötelezettségek kereskedőváltás esetén alkalmazandó szabályait. Az ilyen megállapodások nem lehetnek ellentétesek a Vet. és a Get. kereskedőváltásra vonatkozó előírásaival.
+
+(8) A (7) bekezdésben foglaltakat a Hivatal piacfelügyeleti jogkörében eljárva érvényesíti.

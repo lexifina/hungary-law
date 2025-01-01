@@ -1,6 +1,6 @@
 43/C. § (1) A Hatóság az e törvényben és végrehajtására kiadott kormányrendeletben meghatározottak szerint ellenőrzi a kötelező energetikai felülvizsgálat teljesítését.
 
-(2) A felülvizsgálati jelentés kiállításához felhasznált adatok és a felülvizsgálati jelentésben feltüntetett eredmények, ajánlások szakmai ellenőrzéséről a Hatóság a Magyar Mérnöki Kamara útján, megállapodás keretében gondoskodik.
+(2) A felülvizsgálati jelentés kiállításához felhasznált adatok és a felülvizsgálati jelentésben feltüntetett eredmények, ajánlások szakmai ellenőrzését a Magyar Mérnöki Kamara látja el.
 
 (3) A Magyar Mérnöki Kamara az ellenőrzése során a 43. § (1) bekezdésben meghatározott rendszer rendszerüzemeltetőjétől bekérhet a kötelezettség teljesítésével kapcsolatos bármely adatot, kapcsolódó dokumentációt, ideértve valamely mentesülési lehetőség igénybevételét igazoló iratot.
 

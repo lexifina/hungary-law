@@ -1,4 +1,4 @@
-43/A. § (1) A Hatóság a 43. § (1) bekezdésben meghatározott rendszerekről inspekciós szám alkalmazásával, a (2) bekezdésben meghatározott adatokkal nyilvántartást vezet a 43. § (3) és (4) bekezdésben meghatározott mentességi feltétel igazolásának időpontjáig az alábbi célok érdekében:
+43/A. § (1) A Hatóság a 43. § (1) bekezdésben meghatározott rendszerekről inspekciós szám alkalmazásával, a (2) bekezdésben meghatározott adatokkal nyilvántartást vezet a 43. § (3)–(4b) bekezdésében meghatározott mentességi feltétel igazolásának időpontjáig az alábbi célok érdekében:
 
 a) az épületek energiahatékonyságának, különösen a fűtési és hűtési rendszerek szükségleteknek megfelelő, leginkább költséghatékony javításának előmozdítása;
 

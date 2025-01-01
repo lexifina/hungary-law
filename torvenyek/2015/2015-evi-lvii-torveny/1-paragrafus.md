@@ -6,7 +6,9 @@
 
 1. § E törvény alkalmazásában:
 
-1. effektív névleges teljesítmény: a gyártó által előírt és garantált maximális leadott hőteljesítmény (kW-ban kifejezve), amely a folyamatos működés során átadható, ugyanakkor megfelel a gyártó által megjelölt hasznos teljesítménynek;
+1. adatközpont: az 1099/2008/EK európai parlamenti és tanácsi rendelet A. melléklet 2.6.3.1.16. pontjában meghatározott adatközpont;
+
+1a. effektív névleges teljesítmény: a gyártó által előírt és garantált maximális leadott hőteljesítmény (kW-ban kifejezve), amely a folyamatos működés során átadható, ugyanakkor megfelel a gyártó által megjelölt hasznos teljesítménynek;
 
 2. egyéni fellépés: olyan energiahatékonysági beruházás, energiahatékonyságot javító intézkedés vagy ezek kombinációja, amely ellenőrizhető és mérhető vagy megbecsülhető energiahatékonysági javulást eredményez, és arra egy szakpolitikai intézkedés szerinti lényeges hozzájárulás nyomán került sor;
 
@@ -14,9 +16,9 @@
 
 2b. egyéni fellépés kezdete: a beruházás, vagy intézkedés célját szolgáló termékek, szolgáltatások megrendelésének a napja, vagy bármely olyan kötelezettségvállalás, amely a beruházást visszafordíthatatlanná teszi;
 
-3. energia: az energiastatisztikáról szóló, 2008. október 22-i 1099/2008/EK európai parlamenti és tanácsi rendelet 2. cikk d) pontja szerinti energiatermékek minden formája, éghető üzemanyagok, hő, megújuló energiák, villamos energia vagy az energia bármely más formája;
+3. energia: az 1099/2008/EK európai parlamenti és tanácsi rendelet 2. cikk d) pontja szerinti energiatermékek;
 
-4. energiagazdálkodási rendszer: az energiahatékonysági célkitűzést, valamint az annak elérését célzó stratégiát meghatározó terv egymással összefüggő vagy kölcsönhatásban lévő elemeinek összessége;
+4. energiagazdálkodási rendszer: az energiahatékonysági célkitűzést, valamint az annak elérését célzó tervet meghatározó stratégia egymással összefüggő vagy kölcsönhatásban lévő elemeinek összessége, ideértve a tényleges energiafogyasztás nyomon követését, az energiahatékonyság növelésére hozott intézkedéseket és a haladás mérését is;
 
 5. energiahatékony beszerzéssel kapcsolatos dokumentáció: az energiahatékony beszerzések lefolytatására köteles szervezet ezen beszerzései során keletkezett olyan irat, amely rögzíti a beszerzés energiahatékonysági jellemzőit, valamint azt a tényt, hogy régi termék, épület cseréje vagy új beszerzés történt, továbbá a beszerzéssel elérhető éves energiamegtakarítás mértékét;
 
@@ -36,7 +38,7 @@
 
 12. energetikai audit: az energetikai auditálás eredményeit tartalmazó, jogszabályban meghatározott tartalmi és formai követelményeknek megfelelő irat;
 
-13. energetikai auditálás: olyan, meghatározott módszerrel végzett eljárás, amelynek célja megfelelő ismeretek gyűjtése valamely épület vagy épületcsoport, ipari vagy kereskedelmi művelet vagy létesítmény, magán- vagy közszolgáltatás aktuális energiafogyasztási profiljára vonatkozóan, továbbá amely meghatározza és számszerűsíti a költséghatékony energiamegtakarítási lehetőségeket és beszámol az eredményekről;
+13. energetikai auditálás: olyan, meghatározott módszerrel végzett eljárás, amelynek célja megfelelő ismeretek gyűjtése valamely épület vagy épületcsoport, ipari vagy kereskedelmi művelet vagy létesítmény, magán- vagy közszolgáltatás aktuális energiafogyasztási profiljára vonatkozóan, továbbá amely meghatározza és számszerűsíti a költséghatékony energiamegtakarítási lehetőségeket, azonosítja a megújuló energia költséghatékony felhasználásának vagy előállításának potenciálját és beszámol az eredményekről;
 
 14. energetikai auditáló szervezet: energetikai auditálást végző gazdálkodó szervezet;
 
@@ -66,7 +68,11 @@
 
 22. komplex korszerűsítés: az épülethatároló szerkezetek és az épületgépészeti rendszerek többségét érintő korszerűsítés, amely a korszerűsítés előtti szinthez képest jelentős energiahatékonyság-javulást eredményez;
 
-23. közintézmény: a közbeszerzésekről szóló törvényben meghatározott ajánlatkérő szervezet;
+22a. környezeti energia: az (EU) 2018/2001 európai parlamenti és tanácsi irányelv 2. cikk 2. pontja szerinti környezeti energia;
+
+22b. középület: a közintézményi tulajdonban és használatban álló, közfeladat ellátását szolgáló épület vagy épületrész;
+
+23. közintézmény: állami vagy önkormányzati feladatot ellátó szerv, valamint a többségben ezen szervek által finanszírozott és igazgatott olyan jogi személy és a jogi személyiséggel nem rendelkező szervezet, amely nem ipari vagy kereskedelmi jellegű tevékenységet folytat;
 
 23a. közlekedési célú üzemanyag: a jövedéki adóról szóló törvény szerinti üzemanyag a repülőgép-üzemanyag kivételével;
 
@@ -84,11 +90,13 @@
 
 27. névleges bemenő hőteljesítmény: az adott energiaátalakító berendezésre vonatkozó hatósági határozatban vagy a berendezés gépkönyvében vagy gyártói nyilatkozatában rögzített névleges teljesítményen történő üzemeltetéséhez szükséges, az energiaátalakító berendezésbe bevitt hőteljesítmény megawattban (MWth) kifejezve;
 
-28. primerenergia-fogyasztás: a nem energiacélú felhasználással csökkentett bruttó belföldi energiafogyasztás;
+28. primerenergia-fogyasztás: a bruttó rendelkezésre álló energia, a nemzetközi vízi közlekedés fogyasztása, a végső nem energetikai célú fogyasztás és a környezeti energia kivételével;
 
 28a. szellőzőrendszer: a 2009/125/EK európai parlamenti és tanácsi irányelvnek a szellőztetőberendezések környezettudatos tervezésére vonatkozó követelmények tekintetében történő végrehajtásáról szóló, 2014. július 7-i 1253/2014/EU bizottsági rendelet szerinti szellőztetőberendezés;
 
 28b. támogatandó háztartás: az a kiszolgáltatott helyzetben lévő háztartás, amely által használt lakóépületben a lakóépület 20 °C fokra való fűtéséhez és melegvíz készítéshez kapcsolódó, a háztartásra jutó éves energiaköltség meghaladja a háztartás éves jövedelmének 25%-át, ahol az éves energiaköltség és a háztartás éves jövedelme a 2020-tól kezdődő, a számítás időpontjában lezárt naptári évek energiaköltségének, illetve átlagjövedelmének számtani átlaga;
+
+28c. telepített információtechnológiai teljesítményigény: az adatközpont gépterem alapterületén telepített hálózatok, szerverek és tárolóberendezések kW-ban kifejezett névleges teljesítményigényének összege;
 
 29. teljes bemenő hőteljesítmény: az összes olyan műszaki egység névleges bemenő hőteljesítményének összege, amely a létesítmény részét képezi;
 
@@ -96,6 +104,6 @@
 
 31. végső felhasználó: az a természetes személy vagy szervezet, aki vagy amely saját felhasználására vásárol energiát; távhűtéssel ellátott épület esetében, ha a távhűtési szolgáltatás a több személy tulajdonában lévő épület valamennyi épületrészében – a közös használatú épületrészek kivételével – mérhető, végső felhasználónak kell tekinteni az egyes épületrészek tulajdonosát is.
 
-32. végsőenergia-fogyasztás: az ipar, a közlekedés, a háztartások, a szolgáltatások és a mezőgazdaság számára szolgáltatott energia, az energiaátalakítási ágazatnak és az energetikai iparnak szolgáltatott energiaszállítás kivételével;
+32. végsőenergia-fogyasztás: az ipar, a közlekedés – ideértve a nemzetközi légi közlekedés energiafogyasztását is –, a háztartások, a köz- és magánszolgáltatások, a mezőgazdaság, az erdészet, a halászat és egyéb végfelhasználói ágazatok számára szolgáltatott energia összessége, amely nem foglalja magában a nemzetközi vízi közlekedés energiafogyasztását, a környezeti energiát, az energiaátalakítási ágazatnak és az energiaágazatnak történő szállítást, valamint a szállítási és elosztási veszteségeket az 1099/2008/EK európai parlamenti és tanácsi rendelet A. mellékletében meghatározottak szerint;
 
 33. vállalkozáscsoport: azon vállalkozások összessége, amelyek egymással a Kkvtv. szerinti kapcsolódó vállalkozási vagy partnervállalkozási kapcsolatban állnak.

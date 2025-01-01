@@ -26,4 +26,6 @@ l) a hitelesített energiamegtakarításról, valamint az energiamegtakarítás 
 
 m) a közintézmények energiamegtakarítási adatainak nyomon követéséhez szükséges adatszolgáltatás adattartalmát és részletszabályait
 
+n) a 15/D. § (1h) bekezdésében meghatározott esetben a hitelesített energiamegtakarítások bejelentésének felfüggesztésével kapcsolatos technikai részletszabályokat
+
 rendeletben állapítsa meg.

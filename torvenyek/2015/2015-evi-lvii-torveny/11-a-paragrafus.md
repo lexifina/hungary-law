@@ -19,3 +19,5 @@ g) együttműködik a villamos energiáról szóló 2007. évi LXXXVI. törvény
 h) mentesül az a), b) és d) pont szerinti feladatok alól, ha a közintézmény nagyvállalatnak vagy energetikai szakreferens igénybevételére köteles gazdálkodó szervezetnek minősül.
 
 i) energetikai felelőst jelöl ki a Nemzeti Energetikusi Hálózattal történő kapcsolattartás és e §-ban meghatározott feladatok közvetlen ellátása céljából.
+
+j) teljesíti a 9. § szerinti nyilvántartás vezetésével összefüggő adatszolgáltatási kötelezettséget.

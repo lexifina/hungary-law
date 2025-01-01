@@ -56,4 +56,6 @@ x) az energetikai felülvizsgáló képzésére vonatkozó részletszabályokat,
 
 y) az energetikai felülvizsgálatra vonatkozó egyéb részletszabályokat
 
+z) az adatközpontok által az adatközpontok európai adatbázisába történő adatszolgáltatási kötelezettség keretében történő – személyes adatnak nem minősülő – adatszolgáltatás kötelező tartalmi elemeit
+
 rendeletben állapítsa meg.
