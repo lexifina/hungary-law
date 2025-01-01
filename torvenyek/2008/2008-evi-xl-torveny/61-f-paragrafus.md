@@ -1,23 +1,29 @@
-## Az ellenőrzési eljárás
+## Együttműködés az ACER-rel és más tagállam nemzeti szabályozó hatóságával
 
-61/F. § (1) A Hivatal ellenőrzi az 1227/2011/EU európai parlamenti és tanácsi rendelet
+61/F. § (1) Ha a Hivatal számára az ACER-rel, vagy más tagállam nemzeti szabályozó hatóságával kötött együttműködési megállapodás lehetővé teszi, vagy annak hiányában viszonossági gyakorlat áll fenn, adatszolgáltatás vagy eljárási cselekmény foganatosítása érdekében a Hivatal az ACER-t, vagy más tagállam nemzeti szabályozó hatóságát az e fejezet szerinti eljárásokban megkeresheti, illetve a külföldi megkeresést az e fejezetben foglaltak szerint teljesíti.
 
-a) 3. cikk (4) bekezdésének b) pontja szerinti jelentéstételi kötelezettség,
+(2) A külföldi megkeresés teljesítésére az e fejezetben a hatósági eljárásra megállapított szabályokat alkalmazni kell.
 
-b) 8. cikk (1)–(4) bekezdése szerinti, nagykereskedelmi energiapiacokon megvalósuló ügyletekre vonatkozó jelentéstételi kötelezettség,
+(3) Ha a Hivatal a külföldi megkeresés alapján helyszíni vizsgálatot, szemlét végez, vagy tanúmeghallgatást tart, a külföldi szerv kijelölt tisztviselője személyesen jelen lehet az eljárási cselekmény foganatosításakor.
 
-c) 8. cikk (5) bekezdése szerinti információ-szolgáltatási kötelezettség,
+(4) A Hivatal megtagadja a külföldi megkeresés teljesítését, ha az
 
-d) 9. cikk (1)–(2) és (4)–(5) bekezdése szerinti nyilvántartásba vétel,
+a) sérti Magyarország nemzetbiztonsági érdekeit, a közbiztonságot, vagy az ellátásbiztonságot,
 
-e) 15. cikke szerinti értesítési kötelezettség, valamint a piaci visszaélések azonosítására vonatkozó eredményes intézkedések és eljárások kialakítására és fenntartására vonatkozó kötelezettség és
+b) sérti az ügyben érintett alapvető jogát, vagy
 
-f) 4. cikk (2) bekezdés szerinti információátadási kötelezettség
+c) jogszabályba ütközik.
 
-teljesítését.
+(5) A külföldi megkeresés teljesítésének megtagadásáról, és annak okáról a megkeresőt a Hivatal tájékoztatja.
 
-(2) Ha a Hivatal az ellenőrzési eljárás hatálya alá tartozó előírás megsértését a 61/G–61/I. § szerinti nagykereskedelmi piacfelügyeleti eljárása során észleli, az eljárás lefolytatására és az alkalmazható intézkedésekre az ellenőrzési eljárás szabályai irányadóak.
+(6) Az ACER vagy más tagállam szabályozó hatósága nem kötelezhető a külföldi megkeresés teljesítése kapcsán felmerült költségek viselésére, kivéve, ha a külföldi megkeresés teljesítése a Hivatal számára aránytalan nehézséget jelent.
 
-(3) Ha az ellenőrzési eljárás hatálya alá tartozó a kötelezettségét a bírság kiszabása ellenére továbbra sem teljesíti, a bírság ismételten kiszabható. Bírság ismételt kiszabása esetén a 61/D. § (2) bekezdése alkalmazandó.
+(7) Amennyiben az ACER a REMIT 13a. cikkében foglalt hatáskörét Magyarország joghatóságán belül gyakorolja, a helyszíni vizsgálatra e fejezetben meghatározott szabályokat a REMIT-ben és REMIT módosításában foglalt előírások sérelme nélkül kell alkalmazni.
 
-(4) A piaci szereplő vagy a nevében eljáró, az 1227/2011/EU európai parlamenti és tanácsi rendelet 8. cikk (4) bekezdés b)–f) pontja szerinti személy vagy hatóság az 1227/2011/EU európai parlamenti és tanácsi rendelet 8. cikk (1) bekezdésében foglalt, a nagykereskedelmi energiapiacokon megvalósuló ügyletekkel kapcsolatos információkat a Hivatal részére is megküldi.
+(8) Ha az ACER a REMIT 13b. cikkében foglalt hatáskörét Magyarország joghatóságán belül gyakorolja, a tanúra, valamint a helyszíni vizsgálatra az e fejezetben foglalt rendelkezéseket a REMIT-ben és REMIT módosításában foglalt előírások sérelme nélkül alkalmazni kell.
+
+(9) Ha az ACER a REMIT 13b. cikk (4) bekezdése alapján a Hivatal segítségét kéri, a Hivatal az ACER által eljárás alá vont személlyel szemben hatósági eljárást indít, és amennyiben megállapítja a REMIT 13b. cikk (1)–(3) bekezdésében foglalt rendelkezések megsértését, a 61/E. § szerinti jogkövetkezményeket alkalmazza.
+
+(10) Ha az ACER a REMIT 13c. cikkében foglalt hatáskörét Magyarország joghatóságán belül gyakorolja, a tanúra, valamint a helyszíni vizsgálatra az e fejezetben foglalt rendelkezéseket a REMIT-ben és REMIT módosításában foglalt előírások sérelme nélkül alkalmazni kell.
+
+(11) Az ACER (7)–(10) bekezdés szerinti eljárásában Magyarország joghatóságán belül az eljárás hivatalos nyelve a magyar.

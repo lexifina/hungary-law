@@ -1,1 +1,1 @@
-61/I. § Ha az ellenőrzési eljárás keretében megállapított tényállás alapján a 61/G. § (1) bekezdése szerinti tilalmak megsértése is megvalósult, a Hivatal valamennyi jogsértésre egységes intézkedést is alkalmazhat.
+### 61/I. §

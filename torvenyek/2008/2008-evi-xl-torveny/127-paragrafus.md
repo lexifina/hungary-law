@@ -18,7 +18,7 @@ gy) rendeletben határozza meg a rendszerhasználati, a csatlakozási és a kül
 
 h) javaslatot tesz az egyetemes szolgáltató által a felhasználó igénye vagy szerződésszegése esetén külön díj ellenében végzett szolgáltatások körére, díjaira és a díjak alkalmazásának szabályaira;
 
-i) ellenőrzi a rendszerhasználati díjakra és a csatlakozási díjakra, valamint az egyetemes szolgáltatás áraira, az egyetemes szolgáltatás keretében értékesített mennyiségekre, a hatósági árral érintett földgázforrás felhasználására vonatkozó előírások teljesülését, és a tárgyalásos tárolói hozzáférés alkalmazására vonatkozó előírások betartását, ellenőrzi továbbá az egyetemes szolgáltatás keretében földgázt vételező felhasználók ellátására termelt hazai földgáz árképzésére vonatkozó szabályok betartását, valamint előkészíti az egyetemes szolgáltatás árképzésére vonatkozó szabályokat;
+i) ellenőrzi a rendszerhasználati díjakra és a csatlakozási díjakra, valamint az egyetemes szolgáltatás áraira, az egyetemes szolgáltatás keretében értékesített mennyiségekre, a hatósági árral érintett földgázforrás felhasználására vonatkozó előírások teljesülését, és a tárgyalásos tárolói hozzáférés alkalmazására vonatkozó előírások betartását, valamint előkészíti az egyetemes szolgáltatás árképzésére vonatkozó szabályokat;
 
 í) a külön jogszabályban az együttműködő földgázrendszer használatáért fizetendő díjakkal együtt kihirdetett számítási módszer szerint meghatározza a földgázelosztóknak a 105. § (4) bekezdés alapján teljesítendő kiegyenlítő fizetések összegét;
 
@@ -46,7 +46,7 @@ m) dönt a rendszerüzemeltetővel, illetve a telephelyi engedélyessel szemben 
 
 n) dönt az engedélyesekkel szemben felmerülő panaszok – ideértve a szerződés nélküli vételezéssel, a szabálytalan vételezéssel, valamint ezek jogkövetkezményeivel kapcsolatos panaszok – ügyében, kivéve a 64. § (1) bekezdése szerinti lakossági fogyasztói panaszokat;
 
-ny) ellátja a földgázpiacot érintően az 1227/2011/EU európai parlamenti és tanácsi rendeletben meghatározott, a nemzeti szabályozó hatóságra vonatkozó feladatokat, illetve ezzel összefüggésben ellenőrzési-, nagykereskedelmi piacfelügyeleti eljárást végez;
+ny) ellátja a földgázpiacot érintően a REMIT-ben meghatározott, a nemzeti szabályozó hatóságra vonatkozó feladatokat;
 
 o) a folyamatos és biztonságos földgázellátás fenntartása érdekében folyamatosan ellenőrzi
 

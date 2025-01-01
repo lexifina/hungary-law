@@ -1,6 +1,6 @@
 89. § (1) A csatlakozóvezeték és a felhasználói berendezés kiviteli tervét a gázfogyasztó készülékcsere kivételével – a kivitelezés megkezdése előtt – műszaki-biztonsági szempontok szerinti felülvizsgálatra be kell nyújtani a földgázelosztóhoz. A felülvizsgálathoz szükséges engedélyek rendelkezésre állása esetén a földgázelosztó a felülvizsgálatot 8 munkanapon belül köteles elvégezni. A felülvizsgálat díjmentes.
 
-(1a) A 108. § (7) bekezdése alapján díjmentes csatlakozásra jogosult igénybejelentő esetében, ha a földgázelosztó az igénybejelentést követő, az (1) bekezdésben foglalt határidő lejártát követő napig nem nyilatkozik, a kiviteli terv alkalmasságát megállapító nyilatkozat megadottnak tekintendő és a csatlakozóvezeték, illetve az ahhoz szükséges felhasználói berendezés a benyújtott kiviteli terv alapján kivitelezhető.
+(1a) A 108. § (7) bekezdése szerinti igénybejelentő esetében, ha a földgázelosztó az igénybejelentést követő, az (1) bekezdésben foglalt határidő lejártát követő napig nem nyilatkozik, a kiviteli terv alkalmasságát megállapító nyilatkozat megadottnak tekintendő és a csatlakozóvezeték, illetve az ahhoz szükséges felhasználói berendezés a benyújtott kiviteli terv alapján kivitelezhető.
 
 (1b) A földgázelosztó – az igénybejelentő egyidejű tájékoztatása mellett – az (1a) bekezdés szerinti kivitelezés megtiltását kérelmezheti a műszaki biztonsági hatóságnál, ha a terv kivitelezésre alkalmatlan. A műszaki biztonsági hatóság a kérelem alapján dönt
 
@@ -40,7 +40,7 @@ b) szükség szerint meghatározza azokat a műszaki biztonsági feltételeket, 
 
 (6g)
 
-(7) A fogyasztói főelzáró ellenőrzése, szükség szerinti karbantartása, javítása, cseréje a földgázelosztó feladata saját költségén. A fogyasztásmérő berendezés hitelesítési cseréjével egyidejűleg – de nem sűrűbben, mint 10 évenként – a csatlakozóvezetéknek és a fogyasztói vezetéknek a csatlakozási nyomás névleges értékén szivárgás-ellenőrzéssel végzett gáztömörségi felülvizsgálata a földgázelosztó feladata saját költségén. Ha a felhasználási helyen nincs fogyasztásmérő berendezés, a felülvizsgálat 10 évenként esedékes. Az ingatlan tulajdonosa köteles tűrni és biztosítani a földgázelosztó számára a feladatok akadálytalan elvégzését.
+(7) A fogyasztói főelzáró ellenőrzése, szükség szerinti karbantartása, javítása, cseréje a földgázelosztó feladata saját költségén. A fogyasztásmérő berendezés hitelesítési cseréjével egyidejűleg – de nem sűrűbben, mint 10 évenként – a csatlakozóvezetéknek és a fogyasztói vezetéknek a csatlakozási nyomás névleges értékén szivárgás-ellenőrzéssel végzett gáztömörségi felülvizsgálata a lakossági fogyasztóknál a földgázelosztó feladata saját költségén. Ha a felhasználási helyen nincs fogyasztásmérő berendezés, a felülvizsgálat 10 évenként esedékes. Az ingatlan tulajdonosa köteles tűrni és biztosítani a földgázelosztó számára a feladatok akadálytalan elvégzését.
 
 (7a) A (7) bekezdés szerinti gáztömörségi felülvizsgálat kiszervezhető tevékenységnek minősül.
 

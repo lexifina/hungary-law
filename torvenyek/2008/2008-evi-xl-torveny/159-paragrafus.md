@@ -16,6 +16,28 @@ f) a villamos energia belső piacára vonatkozó közös szabályokról és a 20
 
 g) a megújuló energiaforrásokból előállított energia használatának előmozdításáról szóló (EU) 2018/2001 európai parlamenti és tanácsi irányelv 20. cikke.
 
+h) a megújuló gáz és a földgáz, valamint a hidrogén belső piacára vonatkozó közös szabályokról, az (EU) 2023/1791 irányelv módosításáról, valamint a 2009/73/EK irányelv hatályon kívül helyezéséről szóló, 2024. június 13-i (EU) 2024/1788 európai parlamenti és tanácsi irányelv.
+
 (2) Ez a törvény a földgázszállító-hálózatokhoz való hozzáférés feltételeiről és az 1775/2003/EK rendelet hatályon kívül helyezéséről szóló 2009. július 13-i 715/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
 
 (3) Ez a törvény a földgázellátás biztonságának megőrzését szolgáló intézkedésekről és a 994/2010/EU rendelet hatályon kívül helyezéséről szóló, 2017. október 25-i (EU) 2017/1938 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+
+(4) Ez a törvény a nagykereskedelmi energiapiacok integritásáról és átláthatóságáról szóló, 2011. október 25-i 1227/2011/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+
+(5) Ez a törvény a tagállamok és harmadik országok által kötött kormányközi energiaügyi megállapodásokra és nem kötelező erejű jogi eszközökre vonatkozó információcsere-mechanizmus létrehozásáról és a 994/2012/EU határozat hatályon kívül helyezéséről szóló, 2017. április 5-i 2017/684/EU európai parlamenti és tanácsi határozat végrehajtásához szükséges rendelkezéseket állapítja meg.
+
+(6) Ez a törvény a földgázszállító rendszerekben alkalmazott kapacitásallokációs mechanizmusokat szabályozó üzemi és kereskedelmi szabályzat létrehozásáról és a 984/2013/EU rendelet hatályon kívül helyezéséről szóló, 2017. március 16-i 2017/459/EU bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+
+(7) Ez a törvény a gázszállításirendszer-üzemeltetők közötti rendszeregyensúlyozásra vonatkozó üzemi és kereskedelmi szabályzat létrehozásáról szóló, 2014. március 26-i 312/2014/EU bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+
+(8) Ez a törvény az Energiaszabályozók Európai Uniós Együttműködési Ügynökségének létrehozásáról szóló, 2019. június 5-i 2019/942/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+
+(9) Ez a törvény az összehangolt földgázszállítási tarifaszerkezetekre vonatkozó üzemi és kereskedelmi szabályzat létrehozásáról szóló, 2017. március 16-i (EU) 2017/460 bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+(10) Ez a törvény az (EU) 2017/1938 és a 715/2009/EK rendeletnek a földgáztárolás tekintetében történő módosításáról szóló, 2022. június 29-i (EU) 2022/1032 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+
+(11) Ez a törvény a koordinált gázkereslet-csökkentési intézkedésekről szóló, 2022. augusztus 5-i (EU) 2022/1369 tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+
+(12) Ez a törvény az (EU) 2022/1369 rendeletnek a gázra vonatkozó keresletcsökkentési intézkedésekkel kapcsolatos keresletcsökkentési időszak meghosszabbítása, valamint az intézkedések végrehajtására vonatkozó jelentéstétel és nyomon követés megerősítése tekintetében történő módosításáról szóló, 2023. március 30-i (EU) 2023/706 tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+
+(12a) E törvény az 1227/2011/EU és az (EU) 2019/942 rendeletnek a nagykereskedelmi energiapiacon az Unió piaci manipulációval szembeni védelmének javítása tekintetében történő módosításáról szóló, 2024. április 11-i (EU) 2024/1106 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.

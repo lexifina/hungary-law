@@ -1,9 +1,25 @@
-61/C. § (1) A Hivatal a 61/F. § szerinti ellenőrzési eljárás és a 61/G–61/I. § szerinti nagykereskedelmi piacfelügyeleti eljárás keretében ellenőrzi az 1227/2011/EU európai parlamenti és tanácsi rendelet 3–5., 8–9. és 15. cikke szerinti kötelezettség teljesítését.
+61/C. § (1) Ha az e fejezet szerinti eljárásban a bizonyítási eljárás lezárását követően, a vizsgálati jelentés alapján, a feltárt tényállásra és az azt alátámasztó bizonyítékokra figyelemmel a Hivatal az eljárás gyors és eredményes befejezése szempontjából azt célszerűnek tartja, az ügyfelet felhívhatja, hogy tizenöt napon belül írásban jelezze, kíván-e egyezségi eljárásban részt venni.
 
-(2) A Hivatal az (1) bekezdés szerinti eljárás során jogosult bármilyen adathordozóról fizikai tükörmásolatot készíteni és a tükörmásolat felhasználásával az adathordozón tárolt adatokat átvizsgálni.
+(2) Ha az ügyfél az előírt határidőben írásban jelzi, hogy kész egyezségi eljárásban részt venni, a Hivatal az ügyfelet meghallgatja, ennek során közli az ügyféllel, hogy vele szemben mely magatartás miatt, milyen bizonyítékok alapján, várhatóan milyen jogsértést állapítana meg, és milyen szempontok alapján, milyen összeghatárok között szabna ki bírságot. Ha az ügyfél és a Hivatal az eljárás gyors és eredményes befejezését nem veszélyeztető időn belül e tényezők tekintetében közös álláspontra jut, a Hivatal – legfeljebb tizenöt napos határidő tűzésével – felhívja az ügyfelet arra, hogy nyújtsa be az egyezségi nyilatkozatát.
 
-(3) A Hivatal – a 61/B. § (1) bekezdésében meghatározott cselekmény ellenőrzési vagy nagykereskedelmi piacfelügyeleti eljárás során történő vizsgálata, valamint a 61/B. § (1) bekezdésében meghatározott cselekménnyel összefüggő vagy ezt megalapozó cselekmények vizsgálata céljából – jogosult az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) szerinti védett adat megismerésére és és kezeli a cselekménnyel közvetlenül összefüggő személyes adatokat.
+(3) Az egyezségi nyilatkozatnak tartalmaznia kell,
 
-(4) A Hivatal a személyes adatot az (5) bekezdésben meghatározott időtartam elteltéig, az eljárás megindítása esetén az eljárást lezáró határozat véglegessé válásától számított 5 évig kezeli.
+a) az ügyfélnek a jogsértő magatartásban való részvételét elismerő egyértelmű nyilatkozatát,
 
-(5) A Hivatal e fejezetben szabályozott eljárása a tilalom megszegésétől, illetve a kötelezettség elmulasztásától számított 5 éven belül indítható meg.
+b) a magatartásnak és jogi megítélésének, a magatartás céljának, megvalósítása módjának, időtartamának, valamint az ügyfél abban való részvétele módjának és mértékének tényszerű és tömör leírását,
+
+c) az ügyfél által elfogadhatónak ítélt legmagasabb bírságösszeget,
+
+d) az ügyfél nyilatkozatát arról, hogy a Hivatal a (2) bekezdésben előírtakról megfelelően tájékoztatta és lehetőséget adott azzal kapcsolatos álláspontjának megfelelő kifejtésére,
+
+e) az ügyfél nyilatkozatát arról, további eljárási cselekményt nem kezdeményez, valamint
+
+f) az ügyfél nyilatkozatát arról, hogy előzetesen lemond a határozattal szembeni jogorvoslat jogáról.
+
+(4) Egyezségi eljárás alapján a Hivatal a határozatát az egyezségi nyilatkozat figyelembevételével hozza meg, a jogkövetkezményt az egyezségi nyilatkozat figyelembevételével állapítja meg, a jogkövetkezmény megállapítására vonatkozó e fejezetben meghatározott szabályok szerint.
+
+(5) Az egyezségi nyilatkozat a határozattal szembeni jogorvoslati határidő leteltéig, és kizárólag akkor vonható vissza, ha a Hivatal határozatának tartalma az egyezségi nyilatkozatban foglaltaktól érdemben eltér, ideértve azt az esetet is, ha a kiszabott bírság összege a (3) bekezdés c) pontja szerinti összeget meghaladja. Ebben az esetben a (3) bekezdés a) pontja szerinti elismerő nyilatkozat bizonyítékként nem vehető figyelembe.
+
+(6) Az egyezségi eljárásban részt vevő ügyfél köteles ezt a tényt, valamint az egyezségi eljárás során megismert bármilyen információt az eljárás lezárásáig titokban tartani.
+
+(7) Az egyezségi nyilatkozatba csak az ügyfél tekinthet be. Az egyezségi nyilatkozat visszavonása esetén a nyilatkozatot az arról készült másolatokkal együtt vissza kell szolgáltatni a nyilatkozatot tevő ügyfélnek.

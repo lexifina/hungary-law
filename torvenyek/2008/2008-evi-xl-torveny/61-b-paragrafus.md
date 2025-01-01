@@ -1,15 +1,5 @@
 ## III/A. Fejezet
 
-## A NAGYKERESKEDELMI ENERGIAPIACOK INTEGRITÁSÁVAL ÉS ÁTLÁTHATÓSÁGÁVAL ÖSSZEFÜGGŐ FELADATOK
+61/B. § (1) A magyarországi lakcímmel vagy székhellyel nem rendelkező ügyfél kézbesítési meghatalmazottat köteles megnevezni, ha nincs magyarországi lakcímmel vagy székhellyel rendelkező kézbesítési megbízottja vagy képviselője. Ha a felhívás ellenére határidőben nem jelöl meg magyarországi lakcímmel vagy székhellyel rendelkező képviselőt vagy kézbesítési meghatalmazottat, a továbbiakban vele szemben hirdetményi közlésnek van helye mindaddig, amíg magyarországi lakcímmel vagy székhellyel rendelkező képviselőt vagy kézbesítési meghatalmazottat nem jelöl meg. Erről az első kapcsolatfelvétel alkalmával tájékoztatni kell az ügyfelet.
 
-## Általános szabályok
-
-61/B. § (1) E fejezet rendelkezéseit kell alkalmazni minden olyan, az 1227/2011/EU európai parlamenti és tanácsi rendelet szerinti nagykereskedelmi energiatermékkel összefüggő, az 1227/2011/EU európai parlamenti és tanácsi rendeletben szabályozott cselekményre, amely
-
-a) Magyarország területén valósul meg, vagy
-
-b) külföldön valósul meg, de hatása Magyarország területén érvényesülhet.
-
-(2) Az e fejezetben használt fogalmakat a 3. §, az 1227/2011/EU európai parlamenti és tanácsi rendelet, valamint az 1227/2011/EU európai parlamenti és tanácsi rendelet alapján kiadott általános hatályú közvetlenül alkalmazandó európai uniós jogi aktusok, európai uniós jogi rendelkezések és a 2019/942/EU európai parlamenti és tanácsi rendelet alapján létrehozott Energiaszabályozók Európai Uniós Együttműködési Ügynöksége (a továbbiakban: ACER) által kiadott kötelező erejű rendelkezések szerint kell értelmezni.
-
-(3) Az e fejezet alapján lefolytatott eljárások nem érintik a XII. Fejezet szerinti eljárásokat.
+(2) A külföldön teljesített postai úton való kézbesítést szabályszerűnek kell tekinteni, ha az a hivatalos irat kézbesítésére vonatkozó belföldi jogszabályok rendelkezéseinek vagy a kézbesítés helyén irányadó jogszabályok rendelkezéseinek megfelel.

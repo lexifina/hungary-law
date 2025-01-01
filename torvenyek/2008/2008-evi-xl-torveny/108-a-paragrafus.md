@@ -12,6 +12,6 @@
 
 (7) A vezetékes PB-gáz szolgáltató a tárgyhónapot követő hónap 15. napjáig köteles írásban igazolni a fogyasztóvédelmi hatóságnak az (1) bekezdésben foglalt előírások teljesülését.
 
-(8) A hatósági árat és az áralkalmazási feltételeket a GET. szerinti engedélyesek esetén az engedélyesek üzletszabályzatának függeléke tartalmazza.
+(8)
 
 (9) Az (5) bekezdés szerinti rendelkezés a fogyasztóvédelemről szóló törvény alkalmazásában fogyasztóvédelmi rendelkezés.

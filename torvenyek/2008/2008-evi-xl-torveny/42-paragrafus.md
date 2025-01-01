@@ -1,1 +1,1 @@
-42. § Annak érdekében, hogy a végső menedékes szolgáltatás időben biztosítható legyen, a Hivatal folyamatosan figyelemmel kíséri a földgázkereskedők földgázpiaci tevékenységét. A földgázkereskedők kötelesek az ehhez szükséges – a Hivatal által előírt – adatokat szolgáltatni.
+42. § Annak érdekében, hogy a végső menedékes szolgáltatás időben biztosítható legyen, a Hivatal folyamatosan figyelemmel kíséri a földgázkereskedők földgázpiaci tevékenységét. A földgázkereskedők kötelesek az ehhez szükséges – a Hivatal által előírt – adatokat szolgáltatni, nyilatkozatokat megtenni.

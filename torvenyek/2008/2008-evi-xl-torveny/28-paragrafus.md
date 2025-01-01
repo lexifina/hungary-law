@@ -14,7 +14,7 @@
 
 (3) Földgáz-kereskedelemre vonatkozó működési engedélyt kaphat
 
-a) az egyéni vállalkozóról és az egyéni cégről szóló törvény szerinti egyéni cég, Ptk. szerinti gazdasági társaság, a külföldi székhelyű vállalkozások magyarországi fióktelepeiről és kereskedelmi képviseleteiről szóló törvény szerinti fióktelep, a szövetkezet, az európai részvénytársaság, továbbá
+a) az egyéni vállalkozóról és az egyéni cégről szóló törvény szerinti egyéni cég, Ptk. szerinti gazdasági társaság, a külföldi székhelyű vállalkozások magyarországi fióktelepeiről és kereskedelmi képviseleteiről szóló törvény szerinti fióktelep, a szövetkezet, az európai részvénytársaság, vagy
 
 b) az Európai Unió tagállamának vagy az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államnak állampolgára, aki ezen országok egyikében földgázkereskedelmi tevékenységet folytat, vagy az ezen államokban jogszerűen nyilvántartásba vett vállalkozás, amely ezen országok egyikében földgázkereskedelmi tevékenységet folytat, ha megfelel az e törvény végrehajtására kiadott kormányrendeletben foglalt feltételeknek, a feltételek fennállását hitelt érdemlően igazolja, valamint Magyarországon történő elérhetőségét a 63. § (1) bekezdése szerint folyamatosan biztosítja. Az elérhetőség kézbesítési megbízott útján is biztosítható.
 

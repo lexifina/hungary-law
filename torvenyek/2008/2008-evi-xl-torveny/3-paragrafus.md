@@ -10,7 +10,11 @@
 
 1c. Adatcsere: a jogszabályban, valamint az Adatcsere Szabályzatban kötelezettségként előírt adatszolgáltatások egységes keretek között történő, diszkriminációmentes lebonyolítása az Adatcsere Szabályzatban rögzítettek szerint, a rendszerhasználati szerződések betartása mellett.
 
-1d. Adatcsere Szabályzat: az adatcsere működésére, folyamataira vonatkozó, Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) által jóváhagyott szabályzat.
+1d. Adatcsere Szabályzat: az adatcsere működésére, folyamataira vonatkozó, a Hivatal által jóváhagyott szabályzat.
+
+1e. Alacsony szén-dioxid-kibocsátású gáz: a gáz-halmazállapotú tüzelőanyagoknak az (EU) 2018/2001 irányelv 2. cikkének 35. pontjában meghatározott, széntartalom újrahasznosításával nyert üzemanyagban, az alacsony szén-dioxid-kibocsátású hidrogénben és a szintetikus gáz-halmazállapotú tüzelőanyagokban lévő azon része, amelynek energiatartalma alacsony szén-dioxid-kibocsátású hidrogénből származik, és amely eléri a 70%-os üvegházhatásúgázkibocsátás-csökkentési küszöbértéket összehasonlítva az (EU) 2018/2001 irányelv 29a. cikkének (3) bekezdése alapján elfogadott módszertanban megállapított, a nem biológiai eredetű megújuló tüzelőanyagokra alkalmazandó fosszilisüzemanyag-komparátorral.
+
+1f. Alacsony szén-dioxid-kibocsátású hidrogén: olyan hidrogén, amelynek energiatartalma nem megújuló forrásokból származik, és amely eléri a 70%-os üvegházhatásúgázkibocsátás-csökkentési küszöbértéket, összehasonlítva az (EU) 2018/2001 irányelv 29a. cikkének (3) bekezdése alapján elfogadott, a nem biológiai eredetű megújuló tüzelőanyagok és a széntartalom újrahasznosításával nyert üzemanyagok használatából eredő üvegházhatásúgázkibocsátás-megtakarítás értékelésére szolgáló módszertanban megállapított, a nem biológiai eredetű megújuló tüzelőanyagokra alkalmazandó fosszilisüzemanyag-komparátorral.
 
 2. Célvezeték: a földgáztermelőhöz, határon túli földgázrendszerhez, a szállító-, elosztóvezetékhez vagy a tárolóhoz közvetlenül csatlakozó olyan földgázvezeték, amely kizárólag egy felhasználó egy felhasználási helyének ellátására szolgál.
 

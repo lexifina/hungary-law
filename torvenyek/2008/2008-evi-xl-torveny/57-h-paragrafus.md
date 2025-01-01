@@ -1,0 +1,1 @@
+57/H. § A Hivatal a tanú kérelmére engedélyezheti, hogy a tanú teljes bizonyító erejű magánokiratban vagy közokiratban tegyen tanúvallomást. Az írásbeli tanúvallomás megtétele nem zárja ki a tanú meghallgatás céljából való idézését.

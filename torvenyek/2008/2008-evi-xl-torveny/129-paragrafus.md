@@ -16,14 +16,16 @@ b) a 128. § (1) bekezdés a)–c) és e) pontja, valamint a 128/A. § (5) bekez
 
 c) a 128/A. § (6) bekezdése szerinti eljárásban két hónap,
 
-d) az e törvény hatálya alá tartozó panaszeljárásban 55 nap,
+d)
 
-e) a III/A. Fejezetben szabályozott eljárásokban 15 hónap,
+e)
 
 f) a jelentős piaci erő eljárásban 8 hónap.
 
 g) az energetikai szabályozási tesztkörnyezethez kapcsolódó eljárásban 152 nap.
 
-(3)
+h) bővített kapacitással kapcsolatos projekt jóváhagyási eljárás során hat hónap.
+
+(3) A Hivatal az általános hatályú közvetlenül alkalmazandó uniós jogi aktusban és az uniós jogi rendelkezésben meghatározott jóváhagyási eljárások során az Ákr.-ben és a Magyar Energetikai és Közmű-szabályozási Hivatalról szóló törvényben meghatározottak szerint tényállást tisztázhat, hiánypótlásra szólíthat fel.
 
 (4) A 127. § b), c), l) és ly) pontjában közvetlenül érintett az engedélyes.

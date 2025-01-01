@@ -1,4 +1,4 @@
-89/A. § (1) A 108. § (7) bekezdése alapján díjmentes csatlakozásra jogosult igénybejelentőnek a földgázelosztó megtéríti a csatlakozással kapcsolatos, igazolt költségeit, ha
+89/A. § (1) A 108. § (7) bekezdése szerinti igénybejelentőnek a földgázelosztó megtéríti a csatlakozással kapcsolatos, igazolt költségeit, ha
 
 a) a kiviteli terv alapján a csatlakozóvezeték és a felhasználói berendezés kivitelezése a 89. § alapján megkezdhető,
 

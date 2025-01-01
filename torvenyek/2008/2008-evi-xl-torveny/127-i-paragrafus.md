@@ -1,0 +1,1 @@
+127/I. § A Hivatal hatósági eljárási cselekményeihez szolgáltatott adatok, számítások, levezetések, dokumentációk megfelelőségére irányuló hatósági eljárás lefolytatása nem bír halasztó hatállyal a Hivatal eljárási cselekményének végrehajtására vonatkozóan.

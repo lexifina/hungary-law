@@ -14,6 +14,16 @@ d) eltilthatja a tevékenység folytatásától,
 
 e) a működési engedélyt felfüggesztheti vagy visszavonhatja.
 
+(1a) Ha a Hivatal a földgázipari tevékenység végzésének ellenőrzése során megállapítja, hogy
+
+a) a földgázipari tevékenység végzése a Hivatal felhívását követően a jogszabályi előírásoknak továbbra sem felel meg,
+
+b) a regisztrációköteles vagy bejelentésköteles földgázipari tevékenységet regisztráció vagy bejelentés nélkül ténylegesen folytatják, vagy
+
+c) a végzett tevékenység engedélyköteles tevékenységnek minősül és a földgázipari vállalkozás a szükséges engedéllyel nem rendelkezik
+
+a tevékenységet végzőt eltilthatja a tevékenység folytatásától és bírságot szabhat ki. Ezzel egyidejűleg a Hivatal – határidő tűzésével – kötelezi a tevékenységet végzőt a jogsértés megszüntetésére, amelynek ismételt elmulasztása esetén a Hivatal a működési engedélyt vagy regisztrációt felfüggesztheti.
+
 (2) Ha a rendszerüzemeltetők vagy a telephelyi szolgáltató működési zavarai, vagy a működésükre vonatkozó információk alapján a felhasználók folyamatos földgázellátása várhatóan veszélyeztetetté válik, valamint a szállító- és az elosztóvezeték, valamint a tároló tulajdonosa nem tesz eleget kötelezettségeinek, a Hivatal megteszi a szükséges intézkedéseket, így különösen
 
 a) felhívja a tulajdonos és az üzemeltető figyelmét a jogszabályban foglalt kötelezettségei teljesítésére, és határidő tűzésével kötelezi a megfelelő működés helyreállítására,
@@ -51,3 +61,5 @@ a) felhasználók egyetemes szolgáltatás keretében történő folyamatos ell�
 b) folyamatos és biztonságos földgázszállításhoz, földgázelosztáshoz, földgáztároláshoz, LNG-létesítmény üzemeltetéséhez és a telephelyi szolgáltatáshoz
 
 szükséges eszközeit a kijelölt engedélyesnek üzemeltetésre adja át, továbbá a rendszerüzemeltetői és kereskedelmi tevékenység gyakorlásához szükséges nyilvántartásokat, adatokat bocsássa rendelkezésére. A Hivatal határozatában meghatározza az eszközök használatának ellenértékét, továbbá az iratok és az adatok felhasználásának rendjét.
+
+(8) A (2) bekezdés c) pontja, a (3a) bekezdés és a (6) bekezdés szerinti új engedélyes kijelölésével kapcsolatos részletszabályokat a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendelet tartalmazza. A Hivatal, ha a felhasználók ellátásának biztonságát veszélyeztetve látja, a felfüggesztő, az engedélyt visszavonó és a kijelölő határozatát hirdetményi úton is közli, a döntését tájékoztatásul elektronikus úton is megküldi.
