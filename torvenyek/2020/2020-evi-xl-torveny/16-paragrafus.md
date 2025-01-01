@@ -6,4 +6,4 @@
 
 (3)
 
-(4)
+(4) Hatályát veszti a Vszt.
