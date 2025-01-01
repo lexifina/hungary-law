@@ -30,7 +30,7 @@
 
 12. az osztályfőnöki, kollégiumi tanulócsoport-vezetői munkával összefüggő tevékenység heti két órát meghaladó része,
 
-13.[^10] gyakornok szakmai segítése, mentorálása heti egy órát meghaladó része,
+13.[^12] gyakornok szakmai segítése, mentorálása heti egy órát meghaladó része,
 
 14. pedagógusjelölt szakmai segítése, mentorálása heti egy órát meghaladó része,
 
@@ -56,9 +56,9 @@
 
 rendelhető el.
 
-(2)[^11]
+(2)[^13]
 
-(3)[^12] Pedagógiai szakszolgálati intézményben a pedagógus számára a kötött munkaidőnek neveléssel-oktatással le nem kötött részében
+(3)[^14] Pedagógiai szakszolgálati intézményben a pedagógus számára a kötött munkaidőnek neveléssel-oktatással le nem kötött részében
 
 1. foglalkozások, vizsgálatok, szűrések, egyéb közvetlen foglalkozások előkészítése,
 
@@ -78,7 +78,7 @@ rendelhető el.
 
 9. külső és belső kapcsolattartás,
 
-10.[^13] gyakornok szakmai segítése, mentorálása heti egy órát meghaladó része,
+10.[^15] gyakornok szakmai segítése, mentorálása heti egy órát meghaladó része,
 
 11. pedagógusjelölt szakmai segítése, mentorálása heti egy órát meghaladó része,
 
@@ -108,10 +108,10 @@ rendelhető el.
 
 (7) Az eseti helyettesítés óraszámát havi bontásban kell megállapítani és ellenőrizni.
 
-(8)[^14] A Púétv. 80. § (2) bekezdés e) pontja szerinti pedagógusjelölti mentorálásnak az egy félévben szervezett, legalább hathetes gyakorlat során igénybe vett szakvezetés minősül.
+(8)[^16] A Púétv. 80. § (2) bekezdés e) pontja szerinti pedagógusjelölti mentorálásnak az egy félévben szervezett, legalább hathetes gyakorlat során igénybe vett szakvezetés minősül.
 
-[^10]: A 28. § (1) bekezdés 13. pontja a 201/2024. (VII. 29.) Korm. rendelet 15. § d) pontja szerint módosított szöveg.
-[^11]: A 28. § (2) bekezdése a 661/2023. (XII. 29.) Korm. rendelet 20. § a) pontja alapján nem lép hatályba.
-[^12]: A 28. § (3) bekezdése a 661/2023. (XII. 29.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^13]: A 28. § (3) bekezdés 10. pontja a 201/2024. (VII. 29.) Korm. rendelet 15. § d) pontja szerint módosított szöveg.
-[^14]: A 28. § (8) bekezdését a 661/2023. (XII. 29.) Korm. rendelet 8. § (2) bekezdése iktatta be.
+[^12]: A 28. § (1) bekezdés 13. pontja a 201/2024. (VII. 29.) Korm. rendelet 15. § d) pontja szerint módosított szöveg.
+[^13]: A 28. § (2) bekezdése a 661/2023. (XII. 29.) Korm. rendelet 20. § a) pontja alapján nem lép hatályba.
+[^14]: A 28. § (3) bekezdése a 661/2023. (XII. 29.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^15]: A 28. § (3) bekezdés 10. pontja a 201/2024. (VII. 29.) Korm. rendelet 15. § d) pontja szerint módosított szöveg.
+[^16]: A 28. § (8) bekezdését a 661/2023. (XII. 29.) Korm. rendelet 8. § (2) bekezdése iktatta be.
