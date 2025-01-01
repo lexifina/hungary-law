@@ -9,15 +9,3 @@ c) 6. §-a és 7. §-a a mezőgazdasági és élelmiszer-ellátási láncban a v
 d) 20. § (1) bekezdése a hulladékokról szóló 2008/98/EK irányelv 25. cikk (3) bekezdésének
 
 való megfelelést szolgálja.
-
-|
-
-Dr. Sulyok Tamás s. k.,
-
-köztársasági elnök
-
-|
-
-Dr. Latorcai János s. k.,
-
-az Országgyűlés alelnöke
