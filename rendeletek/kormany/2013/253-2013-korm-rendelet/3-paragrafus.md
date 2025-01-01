@@ -14,7 +14,7 @@ e)[^6] a vármegyei és fővárosi kormányhivatalok, valamint azok járási és
 
 f) a Nemzeti Élelmiszerlánc-biztonsági Hivatal,
 
-g)[^7] a fogyasztóvédelemért felelős miniszter,
+g)[^7] a Nemzeti Kereskedelmi és Fogyasztóvédelmi Hatóság,
 
 h) a Nemzeti Adó- és Vámhivatal,
 
@@ -36,5 +36,5 @@ l)[^8]
 [^4]: A 3. § (1) bekezdés b) pontja a 410/2022. (X. 24.) Korm. rendelet 8. §-a és 9. § a) pontja szerint módosított szöveg.
 [^5]: A 3. § (1) bekezdés c) pontja a 126/2019. (V. 30.) Korm. rendelet 21. §-ával megállapított szöveg.
 [^6]: A 3. § (1) bekezdés e) pontja a 70/2015. (III. 30.) Korm. rendelet 227. § a) pontja, a 410/2022. (X. 24.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
-[^7]: A 3. § (1) bekezdés g) pontja a 379/2016. (XII. 2.) Korm. rendelet 237. § (4) bekezdés c) pontja szerint módosított szöveg.
+[^7]: A 3. § (1) bekezdés g) pontja a 328/2024. (XI. 14.) Korm. rendelet 14. §-ával megállapított szöveg.
 [^8]: A 3. § (1) bekezdés l) pontját a 379/2016. (XII. 2.) Korm. rendelet 237. § (2) bekezdése iktatta be, hatályon kívül helyezte a 162/2018. (IX. 10.) Korm. rendelet 25. § a) pontja.
