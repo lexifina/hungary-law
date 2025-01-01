@@ -2,9 +2,9 @@
 
 Az egészségügyi szolgáltatóknál képződő hulladék éves mennyiségéről, valamint a hulladék gyűjtésével, szállításával és kezelésével kapcsolatos közegészségügyi feltételek megvalósulásáról vezetett nyilvántartás adattartalma
 
-1. táblázat
+1. táblázat[^7]
 
-7K08716_0
+4X10950M.docx
 
 |  | A | B |
 
@@ -12,7 +12,7 @@ Az egészségügyi szolgáltatóknál képződő hulladék éves mennyiségérő
 
 | 1.1. | Az egészségügyi szolgáltató neve, címe, telephelye: |
 
-| 1.2. | Illetékes járási hivatal: |
+| 1.2. | Illetékes vármegyei kormányhivatal: |
 
 | 1.3. | A szolgáltató tulajdonosa: | állami=1, önkormányzat=2, vállalkozás=3, egyéb=4 |  |
 
@@ -76,7 +76,7 @@ Az egészségügyi szolgáltatóknál képződő hulladék éves mennyiségérő
 
 | 2.6.3. | A hulladék tulajdonosának neve és címe: | van=1, nincs=2 |  |
 
-| 2.7. | A hulladék átadásának/átvételének bizonylatolása: | számla=1, szállítólevél=2, veszélyes hulladék elszállítására vonatkozó „SZ” kísérőjegy=3, egyéb=4 |  |
+| 2.7. | A hulladék átadásának/átvételének bizonylatolása: | számla=1, szállítólevél=2, veszélyes hulladék elszállítására vonatkozó “SZ” kísérőjegy=3, egyéb=4 |  |
 
 | 2.8. | A hulladék ártalmatlanításának módja: | veszélyes hulladék égetőműben történő, elsődleges energiakinyeréssel nem járó égetés=1 fertőtlenítés utáni, elsődleges energiakinyeréssel nem járó égetés=2 fertőtlenítés utáni lerakás=3 |  |
 
@@ -169,3 +169,5 @@ Az egészségügyi szolgáltatóknál képződő hulladék éves mennyiségérő
 4.2. A 3. táblázat 3.4.2. sorában a szerződés időtartamánál a szerződés időbeli hatálya megszűnésének időpontját is meg kell adni.
 
 4.3. A 3. táblázat 3.6. sorában a hulladék átadásának, illetve átvételének dokumentálásánál a veszélyes hulladékkal kapcsolatos tevékenységek részletes szabályairól szóló kormányrendeletben foglaltak szerint kell eljárni.
+
+[^7]: A 4. mellékletében foglalt 1. táblázat 1.2. sora a 63/2024. (XII. 30.) BM rendelet 12. § c) pontja szerint módosított szöveg.

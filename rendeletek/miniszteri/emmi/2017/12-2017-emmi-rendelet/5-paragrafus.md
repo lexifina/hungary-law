@@ -32,8 +32,8 @@ h) évente közreműködjön a 6. § (1) bekezdése szerinti hulladékgazdálkod
 
 i) tartsa meg az egészségügyi hulladékkal és a gyógyszerhulladékkal végzett hulladékgazdálkodási tevékenységekkel kapcsolatos munkavédelmi, környezetvédelmi és veszélyes áruszállítást érintő oktatásokat, és
 
-j)[^1] gondoskodjon az egészségügyi szolgáltató telephelyén képződő egészségügyi hulladékkal és gyógyszerhulladékkal kapcsolatos, a 9. § szerinti nyilvántartás vezetéséről és az adatszolgáltatási kötelezettségek teljesítéséről a fővárosi és vármegyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal) felé.
+j)[^1] gondoskodjon az egészségügyi szolgáltató telephelyén képződő egészségügyi hulladékkal és gyógyszerhulladékkal kapcsolatos, a 9. § szerinti nyilvántartás vezetéséről és az adatszolgáltatási kötelezettségek teljesítéséről a népegészségügyi feladatkörében eljáró fővárosi és vármegyei kormányhivatal (a továbbiakban: vármegyei kormányhivatal) felé.
 
 (4) Az egészségügyi szolgáltató telephelyén üzemi gyűjtőhelyet kell kialakítani, ha az egészségügyi hulladék, illetve a gyógyszerhulladék munkahelyi gyűjtőhelyről történő közvetlen elszállítása nem biztosított.
 
-[^1]: Az 5. § (3) bekezdés j) pontja a 49/2022. (XII. 27.) BM rendelet 2. § a) pontja szerint módosított szöveg.
+[^1]: Az 5. § (3) bekezdés j) pontja a 49/2022. (XII. 27.) BM rendelet 2. § a) pontja, a 63/2024. (XII. 30.) BM rendelet 12. § a) pontja szerint módosított szöveg.
