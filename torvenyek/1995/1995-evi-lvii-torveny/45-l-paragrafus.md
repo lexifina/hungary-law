@@ -2,7 +2,7 @@
 
 (2) A vezető – az alsó és felső határ közötti – illetményét úgy kell megállapítani, hogy annak havi összege nem lehet kevesebb a magasabb vezető vagy vezető 2017. december 31-én megállapított illetményénél. Az illetmény megállapítása során figyelembe kell venni a magasabb vezetőt vagy vezetőt 2017. december 31-én megillető pótlékok összegét.
 
-(3) A közalkalmazott és a vezető 2018. január 1-jétől cafetériajuttatásra nem jogosult.
+(3)
 
 (4) A közalkalmazott és a vezető Vgtv. mód.-dal megállapított 13/G. § rendelkezései szerinti szabadságát úgy kell megállapítani, hogy az nem lehet kevesebb a közalkalmazott 2017. évre járó szabadságánál.
 

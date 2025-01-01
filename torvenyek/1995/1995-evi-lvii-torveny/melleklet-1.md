@@ -125,3 +125,5 @@ b) személyes és a háztartás vezetésével összefüggő vízszükségleténe
 43. árvízi lefolyási sáv: a nagyvízi meder azon része, amely az árvíz és a jég elvezetésében részt vesz, mely lehet elsődleges, másodlagos és átmeneti lefolyási sáv.
 
 44. ökológiai vízhasználat: a természeti rendszerek fennmaradásához, megóvásához szükséges vízmennyiség igénybevétele.
+
+45. különleges vízkészlet-gazdálkodási körzet: az e törvény felhatalmazása alapján kiadott kormányrendeletben kijelölt terület, amelyen a fenntartható vízhasználat megőrzése, valamint a nemzetgazdasági jelentőségű fejlesztések vízigényének kielégítése céljából különleges intézkedések határozhatóak meg.

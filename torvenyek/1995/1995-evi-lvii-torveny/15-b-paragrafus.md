@@ -1,10 +1,10 @@
 15/B. § (1) A vízhasználónak a vízkészletjárulékot
 
-a) 4,50 forint/m3 alapjárulék,
+a) 9,00 forint/m3 alapjárulék,
 
-b) ha a vízjogi engedélyben, bányafelügyeleti szerződésben meghatározott vízmennyiséget – az egyes külön megjelölt időszakra is tekintettel – 10%-nál nagyobb mértékben túllépi, a teljes többletmennyiség után 9,00 forint/m3 alapjárulék,
+b) ha a vízjogi engedélyben, bányafelügyeleti szerződésben meghatározott vízmennyiséget – az egyes külön megjelölt időszakra is tekintettel – 10%-nál nagyobb mértékben túllépi, a teljes többletmennyiség után 18,00 forint/m3 alapjárulék,
 
-c) ha tevékenységét bányafelügyeleti szerződés nélkül vagy a vízjogi engedélyköteles a tevékenységet engedély nélkül folytatja (a továbbiakban: engedély nélküli vízhasználat), 28,90 forint/m3 alapjárulék figyelembevételével, a befizetés összegét meghatározó, külön jogszabályban előírt – az igénybe vett vízmennyiség meghatározásának módjától, a vízhasznosítás és a vízkészlet jellegétől, továbbá az adott térség vízkészlet-gazdálkodási helyzetétől függő – szorzószámok alkalmazásával, a ténylegesen igénybe vett vízmennyiség
+c) ha tevékenységét bányafelügyeleti szerződés nélkül vagy a vízjogi engedélyköteles a tevékenységet engedély nélkül folytatja (a továbbiakban: engedély nélküli vízhasználat), 60,00 forint/m3 alapjárulék figyelembevételével, a befizetés összegét meghatározó, e törvény végrehajtására kiadott jogszabályban előírt – az igénybe vett vízmennyiség meghatározásának módjától, a vízhasznosítás és a vízkészlet jellegétől, továbbá az adott térség vízkészlet-gazdálkodási helyzetétől függő – szorzószámok alkalmazásával, a ténylegesen igénybe vett vízmennyiség
 
 alapján kell kiszámítania.
 

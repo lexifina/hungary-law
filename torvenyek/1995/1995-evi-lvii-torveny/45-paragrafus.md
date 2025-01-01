@@ -104,6 +104,8 @@ b) a VIZEK rendszer üzemeltetőjét és a rendszerhez csatlakozó szerveket.
 
 (7h) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza egyes hatósági eljárásokban a vízvédelmi hatóság által vizsgált szakkérdésekkel kapcsolatos eljárási költségeket.
 
+(7h) Felhatalmazást kap a Kormány, hogy a különleges vízkészlet-gazdálkodási körzet lehatárolását, valamint a fenntartható vízhasználat megőrzését és a nemzetgazdasági jelentőségű fejlesztések vízigényének felszín alatti vízkészletekből történő kielégítését szolgáló különleges intézkedések végrehajtása érdekében szükséges, a vízügyi igazgatási szervek által ellátandó feladatokat, illetve a felszín alatti vízkészletekből történő vízigény kielégítését célzó vízjogi engedély iránti kérelmek vízügyi hatósági elbírálásának, valamint a vízügyi hatósági ellenőrzésnek részletszabályait rendeletben állapítsa meg.
+
 (8) Felhatalmazást kap a vízgazdálkodásért felelős miniszter
 
 a) a vízgazdálkodás általános szakmai követelményeinek, képesítési előírásainak, a vízrajzi feladatoknak és a vízkészletekbe történő beavatkozás szabályainak;

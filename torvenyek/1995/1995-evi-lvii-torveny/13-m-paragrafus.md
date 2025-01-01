@@ -10,7 +10,7 @@
 
 a) alacsonyabb vezetői munkakört tölt be, illetményét az új vezetői munkaköre szerint,
 
-b) nem vezetői munkakört tölt be, illetményét új munkaköre szerint, a kormányrendeletben meghatározott illetménytábla megfelelő alkalmazásával, a közalkalmazotti jogviszonyban eltöltött idejének megfelelő fizetési fokozata alapján
+b) nem vezetői munkakört tölt be, illetményét új munkaköre szerint, a kormányrendeletben meghatározott illetménytábla alkalmazásával
 
 kell megállapítani.
 

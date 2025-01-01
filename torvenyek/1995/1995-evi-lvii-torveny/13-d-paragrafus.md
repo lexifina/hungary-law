@@ -2,7 +2,7 @@
 
 a) a jogszabályban előírt képzési és továbbképzési kötelezettség teljesítése,
 
-b) a következő fizetési fokozathoz jogszabályban meghatározott feltételek teljesítése,
+b)
 
 c) a munkakör ellátásához szükséges gyakorlati tapasztalat, készségek és kompetenciák,
 

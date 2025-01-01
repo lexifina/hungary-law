@@ -2,6 +2,8 @@
 
 (2) A vízigények a felhasználható vízkészlet mennyiségi és minőségi védelmére is tekintettel elsősorban a vízhasználat céljára még le nem kötött vízkészletből elégíthetők ki.
 
+(2a) A különleges vízkészlet-gazdálkodási körzetben vízigény a 14/A. § (1) bekezdésében meghatározott állapotértékelés alapján is kielégíthető, ha a vízkészlet mennyiségi és minőségi védelme biztosított.
+
 (3) Az ásvány-, gyógy- és termálvizek felhasználásánál előnyben kell részesíteni a gyógyászati, illetve a gyógyüdülési használatot.
 
 (3a)
