@@ -1,0 +1,9 @@
+# 55/2024. (XII. 3.) MNB rendelet
+
+a jegybanki információs rendszerhez elsődlegesen a Magyar Nemzeti Bank pénz- és hitelpiaci szervezetek feletti felügyeleti feladatai ellátása érdekében teljesítendő adatszolgáltatási kötelezettségekről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-55-20-2C
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2025-01-01 | 2024-55-20-2C.1 | 55/2024. (XII. 3.) MNB rendelet |
