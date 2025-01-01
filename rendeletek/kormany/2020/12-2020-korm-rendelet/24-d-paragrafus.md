@@ -1,0 +1,3 @@
+24/D. § (1) A szakmai és képesítő vizsgáztatási tevékenység engedélyezéséről, az engedély módosításáról, valamint kiegészítéséről a szakképzési államigazgatási szerv dönt.
+
+(2) Az (1) bekezdés szerinti eljáráshoz kapcsolódóan az akkreditált szakképzési vizsgaközpontok hálózatán alapuló vizsgáztatási rendszer kialakításának az észszerű és átlátható vizsgáztatói hálózat fenntartása, valamint a költséghatékony működés és a területi elven történő egyenlő esélyű hozzáférés biztosítása szempontoknak való megfelelés érdekében a szakképzési államigazgatási szerv negyedévente közzéteszi azoknak a képzési területeknek a képzési területek egységes osztályozási rendszere szerinti kódját, amelyekre engedélykérelem adható be.

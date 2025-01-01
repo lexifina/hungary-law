@@ -1,4 +1,4 @@
-263. § (1)[^375] A tanuló, illetve a képzésben részt vevő személy az általa tanult szakma szakmai vizsgájára a jelentkezési lapot az akkreditált szakképzési vizsgaközponthoz nyújtja be az akkreditált szakképzési vizsgaközpont által meghatározott formában. A jelentkezési laphoz csatolni kell a szakmai vizsgával kapcsolatos kérelmeket és az ilyen kérelem alapjául szolgáló okiratok másolatát.
+263. § (1)[^378] A tanuló, illetve a képzésben részt vevő személy az általa tanult szakma szakmai vizsgájára a jelentkezési lapot az akkreditált szakképzési vizsgaközponthoz nyújtja be az akkreditált szakképzési vizsgaközpont által meghatározott formában. A jelentkezési laphoz csatolni kell a szakmai vizsgával kapcsolatos kérelmeket és az ilyen kérelem alapjául szolgáló okiratok másolatát.
 
 (2) A jelentkezési lap benyújtásának határideje
 
@@ -10,4 +10,4 @@ c) az október–novemberi vizsgaidőszak esetén a vizsgaidőszak éve augusztu
 
 (3) A jelentkező a szakmai vizsga megkezdéséig igazolja, hogy a szakmai vizsgára bocsátáshoz szükséges, a képzési és kimeneti követelményekben meghatározott feltételekkel rendelkezik. Ha a jelentkező a szakmai vizsga megkezdéséig nem teljesíti vagy nem igazolja, hogy megfelel a szakmai vizsgára bocsátás képzési és kimeneti követelményekben meghatározott feltételeinek, a jelentkezését törölni kell.
 
-[^375]: A 263. § (1) bekezdése a 380/2021. (VI. 30.) Korm. rendelet 58. § 72. pontja, a 129/2024. (VI. 17.) Korm. rendelet 18. § 24. pontja szerint módosított szöveg.
+[^378]: A 263. § (1) bekezdése a 380/2021. (VI. 30.) Korm. rendelet 58. § 72. pontja, a 129/2024. (VI. 17.) Korm. rendelet 18. § 24. pontja szerint módosított szöveg.

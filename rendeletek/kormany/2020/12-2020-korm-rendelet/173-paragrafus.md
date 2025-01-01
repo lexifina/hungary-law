@@ -1,4 +1,4 @@
-173. §[^274] (1)[^275] Az Szkt. 59. § (1) bekezdés b) pontjában meghatározott támogatásra az olyan tanuló pályázhat, aki
+173. §[^277] (1)[^278] Az Szkt. 59. § (1) bekezdés b) pontjában meghatározott támogatásra az olyan tanuló pályázhat, aki
 
 a) a szakmai oktatásban ingyenesen vesz részt,
 
@@ -10,15 +10,15 @@ c) a pályázat benyújtását megelőző tanév év végi minősítésében kap
 
 a) rendelkezik, a támogatás alapjának
 
-aa)[^276] tizenhat százaléka, ha a megelőző tanév év végi minősítésében kapott osztályzatok átlaga 3,50–3,99 között van,
+aa)[^279] tizenhat százaléka, ha a megelőző tanév év végi minősítésében kapott osztályzatok átlaga 3,50–3,99 között van,
 
-ab)[^277] huszonöt százaléka, ha a megelőző tanév év végi minősítésében kapott osztályzatok átlaga 4,00–4,49 között van,
+ab)[^280] huszonöt százaléka, ha a megelőző tanév év végi minősítésében kapott osztályzatok átlaga 4,00–4,49 között van,
 
-ac)[^278] harmincnégy százaléka, ha a megelőző tanév év végi minősítésében kapott osztályzatok átlaga 4,49 fölött van,
+ac)[^281] harmincnégy százaléka, ha a megelőző tanév év végi minősítésében kapott osztályzatok átlaga 4,49 fölött van,
 
 b) nem rendelkezik, a 171. § (1a) és (2) bekezdése szerinti mértékének a támogatás alapjára vetítve megállapított összege.
 
-(2a)[^279] Ha a tanuló az Apáczai ösztöndíjprogram keretében támogatásban részesül, a technikum kilencedik és tizedik évfolyamán a (2) bekezdés szerinti támogatáson felül további támogatásra jogosult, melynek havonkénti mértéke a támogatás alapjának nyolc százaléka.
+(2a)[^282] Ha a tanuló az Apáczai ösztöndíjprogram keretében támogatásban részesül, a technikum kilencedik és tizedik évfolyamán a (2) bekezdés szerinti támogatáson felül további támogatásra jogosult, melynek havonkénti mértéke a támogatás alapjának nyolc százaléka.
 
 (3) A pályázati kiírást a Nemzeti Szakképzési és Felnőttképzési Hivatal a szakképzési tájékoztatási és információs központ keretében működtetett honlapon teszi közzé. A támogatásról a Nemzeti Szakképzési és Felnőttképzési Hivatal dönt.
 
@@ -26,9 +26,9 @@ b) nem rendelkezik, a 171. § (1a) és (2) bekezdése szerinti mértékének a t
 
 (5) A támogatásra a tanuló az adott szakmára vonatkozóan a szakmai oktatásnak a szakmajegyzékben meghatározott időtartamáig a (2) bekezdésben meghatározott mértékben jogosult, ha az (1) bekezdésben meghatározott feltételeknek megfelel.
 
-[^274]: A 173. § a 380/2021. (VI. 30.) Korm. rendelet – 461/2021. (VIII. 5.) Korm. rendelet 4. § b) pontja szerint módosított – 29. §-ával megállapított szöveg.
-[^275]: A 173. § (1) bekezdése a 292/2023. (VII. 6.) Korm. rendelet 24. § (1) bekezdésével megállapított szöveg.
-[^276]: A 173. § (2) bekezdés a) pont aa) alpontja a 800/2021. (XII. 28.) Korm. rendelet 13. § 16. pontja szerint módosított szöveg.
-[^277]: A 173. § (2) bekezdés a) pont ab) alpontja a 800/2021. (XII. 28.) Korm. rendelet 13. § 17. pontja szerint módosított szöveg.
-[^278]: A 173. § (2) bekezdés a) pont ac) alpontja a 800/2021. (XII. 28.) Korm. rendelet 13. § 18. pontja szerint módosított szöveg.
-[^279]: A 173. § (2a) bekezdését a 292/2023. (VII. 6.) Korm. rendelet 24. § (2) bekezdése iktatta be.
+[^277]: A 173. § a 380/2021. (VI. 30.) Korm. rendelet – 461/2021. (VIII. 5.) Korm. rendelet 4. § b) pontja szerint módosított – 29. §-ával megállapított szöveg.
+[^278]: A 173. § (1) bekezdése a 292/2023. (VII. 6.) Korm. rendelet 24. § (1) bekezdésével megállapított szöveg.
+[^279]: A 173. § (2) bekezdés a) pont aa) alpontja a 800/2021. (XII. 28.) Korm. rendelet 13. § 16. pontja szerint módosított szöveg.
+[^280]: A 173. § (2) bekezdés a) pont ab) alpontja a 800/2021. (XII. 28.) Korm. rendelet 13. § 17. pontja szerint módosított szöveg.
+[^281]: A 173. § (2) bekezdés a) pont ac) alpontja a 800/2021. (XII. 28.) Korm. rendelet 13. § 18. pontja szerint módosított szöveg.
+[^282]: A 173. § (2a) bekezdését a 292/2023. (VII. 6.) Korm. rendelet 24. § (2) bekezdése iktatta be.

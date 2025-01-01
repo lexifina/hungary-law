@@ -4,7 +4,7 @@
 
 ## 76. Az Szkt. 74. §-ához
 
-222. §[^317] Az ágazati alapoktatást
+222. §[^320] Az ágazati alapoktatást
 
 a) tanulói jogviszonyban
 
@@ -16,4 +16,4 @@ b) felnőttképzési jogviszonyban a szakmai programban meghatározott ütemezé
 
 kell megszervezni.
 
-[^317]: A 222. § a 292/2023. (VII. 6.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^320]: A 222. § a 292/2023. (VII. 6.) Korm. rendelet 25. §-ával megállapított szöveg.

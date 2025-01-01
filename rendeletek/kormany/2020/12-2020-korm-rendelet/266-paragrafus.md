@@ -1,4 +1,4 @@
-266. § (1)[^378] Az akkreditált szakképzési vizsgaközpont a vizsgaidőszakra történő jelentkezési határidőt követő tizenöt napon belül a szakmai vizsgát vizsgacsoportonként elektronikus vizsgarendszeren keresztül jelenti be.
+266. § (1)[^381] Az akkreditált szakképzési vizsgaközpont a vizsgaidőszakra történő jelentkezési határidőt követő tizenöt napon belül a szakmai vizsgát vizsgacsoportonként elektronikus vizsgarendszeren keresztül jelenti be.
 
 (2) A vizsgabejelentés vizsgacsoportonként tartalmazza
 
@@ -10,7 +10,7 @@ c) a vizsgatevékenységek helyszínét és időpontját,
 
 d) a szakmai vizsga nyelvét.
 
-(3)[^379] Az elektronikus vizsgarendszer működtetéséről a szakképzési államigazgatási szerv gondoskodik és ahhoz egyedi hozzáférési jogosultságot biztosít az akkreditált szakképzési vizsgaközpont és – a vizsgabizottság ellenőrzési feladatokat ellátó tagja delegálásával összefüggésben – a gazdasági kamara részére.
+(3)[^382] Az elektronikus vizsgarendszer működtetéséről a szakképzési államigazgatási szerv gondoskodik és ahhoz egyedi hozzáférési jogosultságot biztosít az akkreditált szakképzési vizsgaközpont és – a vizsgabizottság ellenőrzési feladatokat ellátó tagja delegálásával összefüggésben – a gazdasági kamara részére.
 
-[^378]: A 266. § (1) bekezdése a 129/2024. (VI. 17.) Korm. rendelet 18. § 26. pontja szerint módosított szöveg.
-[^379]: A 266. § (3) bekezdése a 380/2021. (VI. 30.) Korm. rendelet 58. § 74. pontja, a 129/2024. (VI. 17.) Korm. rendelet 18. § 27. pontja szerint módosított szöveg.
+[^381]: A 266. § (1) bekezdése a 129/2024. (VI. 17.) Korm. rendelet 18. § 26. pontja szerint módosított szöveg.
+[^382]: A 266. § (3) bekezdése a 380/2021. (VI. 30.) Korm. rendelet 58. § 74. pontja, a 129/2024. (VI. 17.) Korm. rendelet 18. § 27. pontja szerint módosított szöveg.

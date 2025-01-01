@@ -1,0 +1,3 @@
+24/H. § (1) A szakértő vagy több szakértő bevonása esetén a vezető szakértő a szakértői vizsgálat megállapításairól – több szakértő esetén az eltérő szakértői különvéleményt mellékelve valamennyi szakértő által aláírt – jegyzőkönyvet készít, amelyet a szakképzési államigazgatási szerv részére a szakértői vizsgálat befejezését követő öt napon belül megküld.
+
+(2) A szakképzési államigazgatási szerv a jegyzőkönyvet továbbítja a vizsgált akkreditált szakképzési vizsgaközpont vezetője részére, aki a hatóságtól megkapott jegyzőkönyv kézhezvételét követő öt napon belül a szakértői vizsgálatról készült jegyzőkönyvre észrevételt tehet.

@@ -1,1 +1,0 @@
-315. § Az ágazati készségtanács elnökét és tagjait tiszteletdíj nem illeti meg. Az elnök és a tagok utazási költségtérítésre jogosultak a munkába járással kapcsolatos utazási költségtérítésről szóló kormányrendeletben meghatározott mértékben és feltételekkel.
