@@ -18,7 +18,7 @@
 
 (9) Erdőkezelés esetén az erdészeti hatóság az erdőgazdálkodói nyilvántartásba erdőgazdálkodóként az erdőkezelőt jegyzi be.
 
-(10) Az erdőkezelésre irányuló szerződést írásba kell foglalni. Közös tulajdonban álló önálló erdőgazdálkodási egység esetén a szerződés létrejöttéhez az érintett tulajdonostársak tulajdoni hányad alapján – a 72. § (5) bekezdésében foglaltak alkalmazásával – számított többségének döntése szükséges.
+(10) Az erdőkezelésre irányuló szerződést írásba kell foglalni. Közös tulajdonban álló önálló erdőgazdálkodási egység esetén a szerződés létrejöttéhez az érintett tulajdonostársak tulajdoni hányad alapján – a 72. § (5) bekezdésében foglaltak alkalmazásával – számított egyszerű többségének döntése szükséges.
 
 (11) A tulajdonos azonnali hatállyal felmondhatja az erdőkezelési szerződést, ha az erdőkezelő
 

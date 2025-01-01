@@ -1,4 +1,4 @@
-13. § (1) A föld tulajdonjogának a megszerzésére irányuló szerződésnek – a Földforgalmi törvény 13–15. §-ában meghatározottakon túl – tartalmaznia kell a szerződő felek, illetve a szerző fél (a továbbiakban együtt: szerződő fél) következő adatait:
+13. § (1) A föld tulajdonjogának a megszerzésére irányuló szerződésnek – a Földforgalmi törvény 13. és 14. §-ában meghatározottakon túl – tartalmaznia kell a szerződő felek, illetve a szerző fél (a továbbiakban együtt: szerződő fél) következő adatait:
 
 a) természetes személy szerződő fél
 

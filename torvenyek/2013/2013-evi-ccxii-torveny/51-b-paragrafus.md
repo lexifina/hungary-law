@@ -2,4 +2,4 @@
 
 (2) Az (1) bekezdésbe ütköző szerződés semmis.
 
-(3) Ha a haszonbérleti szerződés a gazdasági év végével megszűnik, a haszonbérlő az adott gazdasági évhez kapcsolódó betakarításra a szerződés megszűnését követően is jogosult. A felek ezzel ellentétes megállapodása – a haszonbérleti szerződés közös megegyezéssel történő megszüntetése kivételével – semmis.
+(3) Ha a haszonbérleti szerződés a gazdasági év végével megszűnik, a haszonbérlő az ugyanazon gazdasági évhez kapcsolódó betakarításra a szerződés megszűnését követően is jogosult. A felek ezzel ellentétes megállapodása – a haszonbérleti szerződés közös megegyezéssel történő megszüntetése kivételével – semmis.

@@ -38,7 +38,7 @@ b) az őstermelők családi gazdaságának tagja,
 
 c) fiatal földműves,
 
-d) pályakezdő gazdálkodó.
+d)
 
 (10) Ha több, azonos ranghelyen álló nyilvántartott kérelmezőt lehetne kényszerhasznosítóként kijelölni, a mezőgazdasági igazgatási szerv a helyi földbizottság javaslatának figyelembevételével választja ki az azonos ranghelyen álló nyilvántartott kérelmezők közül a föld kényszerhasznosítóját.
 

@@ -4,7 +4,7 @@
 
 (2) A föld tulajdonjogának a Földforgalmi törvény 67/A. §-a alapján vételi jog érvényesítésével történő megszerzésének jóváhagyására vonatkozó eljárást a mezőgazdasági igazgatási szerv hivatalból indítja meg a vételi jog gyakorlására irányuló nyilatkozat mezőgazdasági igazgatási szervhez történő beérkezését követő napon.
 
-(3) A vételi jog gyakorlására irányuló nyilatkozatnak tartalmaznia kell a Földforgalmi törvény 13–15. §-ában foglalt nyilatkozatokat. A vételi jog jogosultjának adatai tekintetében a vételi jog gyakorlására irányuló nyilatkozatnak tartalmaznia kell a 13. § (1) és (2) bekezdésében foglaltakat.
+(3) A vételi jog gyakorlására irányuló nyilatkozatnak tartalmaznia kell a Földforgalmi törvény 13. és 14. §-ában foglalt nyilatkozatokat. A vételi jog jogosultjának adatai tekintetében a vételi jog gyakorlására irányuló nyilatkozatnak tartalmaznia kell a 13. § (1) és (2) bekezdésében foglaltakat.
 
 (4) A jogügylet jóváhagyása esetén a mezőgazdasági igazgatási szerv a vételi jog gyakorlására irányuló nyilatkozat két eredeti példányát látja el jóváhagyó záradékkal.
 
