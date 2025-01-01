@@ -6,11 +6,11 @@
 
 (4) A pénztár likviditási helyzetének ellenőrzése érdekében a Felügyelet a pénztárat év közben is beszámoltathatja.
 
-(5) Az internetes honlappal rendelkező pénztár köteles éves beszámolóját a könyvvizsgálói záradékot vagy a záradék megadásának elutasítását is tartalmazó független könyvvizsgálói jelentéssel együtt internetes honlapján évente, a tárgyévet követő év június 30-áig közzétenni.
+(5) A pénztár az éves beszámolóját a könyvvizsgálói záradékot vagy a záradék megadásának elutasítását is tartalmazó független könyvvizsgálói jelentéssel együtt internetes honlapján évente, a tárgyévet követő év június 30-áig közzéteszi.
 
 (6) A pénztár a pénztári beszámoló részét képező mérleget, eredménykimutatást, kiegészítő mellékletet a tárgyévet követő év június 30-áig a beszámoló könyvvizsgálói záradékával együtt a Felügyelet által üzemeltetett közzétételi helyen köteles közzétenni.
 
-(7) Az internetes honlappal rendelkező pénztár köteles alapszabályának, ezen belül a bevételek tartalékok közötti megosztásának változását a változtatásról hozott döntést követő 2 munkanapon belül – a változások kiemelésével – honlapján közzétenni.
+(7) A pénztár az alapszabályának, ezen belül a bevételek tartalékok közötti megosztásának változását a változtatásról hozott döntést követő 2 munkanapon belül – a változások kiemelésével – honlapján közzéteszi.
 
 (8) Az elszámolóegységekre épülő nyilvántartási rendszert működtető pénztár az elszámolóegységek árfolyamát (amennyiben választható portfóliós rendszert működtet, akkor választható portfóliónként) honlapján naponta közzéteszi. A pénztárnak honlapján jelezni kell, hogy a Felügyelet honlapján az elszámolóegységek árfolyamára vonatkozóan összehasonlító adatok találhatók. A közzététellel egyidőben a pénztárnak az elszámolóegységek árfolyamát be kell jelentenie és azt a Felügyelet a honlapján közzéteszi.
 

@@ -46,4 +46,4 @@ u) mindazt, amit a törvény vagy a törvény felhatalmazása alapján kiadott j
 
 (3) A módosított alapszabályt – a módosítások megjelölésével – a közgyűlés időpontját követő 30 napon belül meg kell küldeni a bíróságnak és a Felügyeletnek.
 
-(4) Internetes honlappal rendelkező pénztár az alapszabályát honlapján közzéteszi.
+(4) A pénztár az alapszabályát honlapján közzéteszi.
