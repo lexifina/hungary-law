@@ -1,6 +1,6 @@
 ## 13. A vállalkozások F-ÜHG-val kapcsolatos egyéb adatszolgáltatási és jelentéstételi kötelezettsége
 
-19. §[^96] (1) Az üzemeltető a 17. §-ban rögzített tevékenység végzése esetében nyilvántartási kötelezettségét a Hatóság adatbázisába való üzemeltetői és hűtőköri regisztrációval, valamint a hűtőkörhöz képesített vállalkozás hozzárendelésével teljesíti. Az üzemeltető ellenőrzi a fenti dokumentumok vezetését.
+19. §[^98] (1) Az üzemeltető a 17. §-ban rögzített tevékenység végzése esetében nyilvántartási kötelezettségét a Hatóság adatbázisába való üzemeltetői és hűtőköri regisztrációval, valamint a hűtőkörhöz képesített vállalkozás hozzárendelésével teljesíti. Az üzemeltető ellenőrzi a fenti dokumentumok vezetését.
 
 (2) A képesített vállalkozás képesített alkalmazottja az adatbázisban az elektronikus jegyzőkönyv kitöltésével rögzíti az üzemeltető alkalmazásán végzett vagy azt érintő, képesítést igénylő tevékenységet. A tevékenység akkor minősül elvégzettnek, amikor az elektronikus jegyzőkönyvet az adatbázisban rögzítik.
 
@@ -16,4 +16,4 @@
 
 (8) A felmentvénynek tartalmaznia kell a Hatóság adatbázisába való, az adott alkalmazáshoz kapcsolódó regisztrációs, jelentéstételi és adatszolgáltatási kötelezettség alóli felmentést. Ez a felmentvény azonban nem mentesíti a honvédségi alkalmazás tulajdonosát, üzemeltetőjét az 517/2014/EU európai parlamenti és tanácsi rendelet szerinti kötelezettségek teljesítése alól. Kizárólag eseti jellegű felmentvény adható.
 
-[^96]: A 19. § a 24/2019. (II. 27.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^98]: A 19. § a 24/2019. (II. 27.) Korm. rendelet 14. §-ával megállapított szöveg.
