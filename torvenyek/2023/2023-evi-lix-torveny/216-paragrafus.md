@@ -2,7 +2,7 @@
 
 1.
 
-2.
+2. 33. § (4) bekezdésében a „p) és q) pontjában” szövegrész helyébe a „p), q) és t) pontjában” szöveg,
 
 3.
 
