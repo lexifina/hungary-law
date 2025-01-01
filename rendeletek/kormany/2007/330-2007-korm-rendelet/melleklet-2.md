@@ -616,7 +616,7 @@
 
 ## 6.9. Bezi
 
-## 6.10. Böres
+## 6.10. Börcs
 
 ## 6.11. Bőny
 
@@ -1792,6 +1792,6 @@
 
 ## 14.77. Zalaszombatfa
 
-2. melléklet a 330/2007. (XII. 13.) Korm. rendelethez[^14]
+2. melléklet a 330/2007. (XII. 13.) Korm. rendelethez[^16]
 
-[^14]: A 2. mellékletet a 182/2009. (IX. 10.) Korm. rendelet 595. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^16]: A 2. mellékletet a 182/2009. (IX. 10.) Korm. rendelet 595. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
