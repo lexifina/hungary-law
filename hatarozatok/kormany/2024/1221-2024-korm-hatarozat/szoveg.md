@@ -18,12 +18,15 @@ b) a feladatellátásához kapcsolódó dokumentumokba – a vonatkozó jogszab�
 
 c) az érintett állami szervek vezetői részére intézkedés megtételét javasolhatja.
 
-4. A kormánybiztos tevékenységét a miniszterelnök a pénzügyminiszter útján irányítja.
+4.[^2] A kormánybiztos tevékenységét a miniszterelnök a nemzetgazdasági miniszter útján irányítja.
 
 5. A kormánybiztos tevékenységének ellátásáért a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 31. § (2) bekezdése szerinti díjazásra és juttatásokra jogosult.
 
-6. A kormánybiztos tevékenységét a Pénzügyminisztérium szervezetében működő 5 fős titkárság segíti.
+6.[^3] A kormánybiztos tevékenységét a Nemzetgazdasági Minisztérium szervezetében működő 5 fős titkárság segíti.
 
 7. A Kormány felhívja az irányítása alatt álló szerveket és intézményeket, továbbá felkéri az egyéb érintett szerveket, hogy a kormánybiztos feladatának ellátásához szükséges – személyes adatnak nem minősülő – adatokat, információkat és elemzéseket bocsássák a kormánybiztos rendelkezésére.
 
 8. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^2]: A 4. pont az 1433/2024. (XII. 23.) Korm. határozat 1. pont a) alpontja szerint módosított szöveg.
+[^3]: A 6. pont az 1433/2024. (XII. 23.) Korm. határozat 1. pont b) alpontja szerint módosított szöveg.
