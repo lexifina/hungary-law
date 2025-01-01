@@ -42,7 +42,9 @@ q)[^43] a Közbeszerzési és Ellátási Főigazgatóság kormányzati logisztik
 
 r)[^44] a Nemzeti Szakértői és Kutató Központ szakértői tevékenységének ellátása során használt gépjárműveire.
 
-(2)[^45] az (1) bekezdés e), f), h) pontja, j) pont jb) alpontja, p) és r) pontja esetében csak mozgatható üzemmódú (mobil) figyelmeztető jelzést adó készüléket lehet használni, amelyet az adott feladat végrehajtásához szükséges időtartamra lehet a járműre felszerelni.
+s)[^45] állati eredetű melléktermék összegyűjtése és szállítása során, kritikus szervezet által használt járművekre.
+
+(2)[^46] az (1) bekezdés e), f), h) pontja, j) pont jb) alpontja, p) és r) pontja esetében csak mozgatható üzemmódú (mobil) figyelmeztető jelzést adó készüléket lehet használni, amelyet az adott feladat végrehajtásához szükséges időtartamra lehet a járműre felszerelni.
 
 [^32]: A 9. § (1) bekezdés b) pontja a 4/2010. (II. 23.) IRM rendelet 17. § (1) bekezdésével megállapított szöveg.
 [^33]: A 9. § (1) bekezdés g) pontját a 4/2010. (II. 23.) IRM rendelet 17. § (2) bekezdése iktatta be.
@@ -57,4 +59,5 @@ r)[^44] a Nemzeti Szakértői és Kutató Központ szakértői tevékenységéne
 [^42]: A 9. § (1) bekezdés p) pontját a 16/2019. (V. 3.) BM rendelet 4. §-a iktatta be.
 [^43]: A 9. § (1) bekezdés q) pontját a 16/2019. (V. 3.) BM rendelet 4. §-a iktatta be.
 [^44]: A 9. § (1) bekezdés r) pontját a 13/2023. (V. 25.) BM rendelet 2. § (2) bekezdése iktatta be.
-[^45]: A 9. § (2) bekezdése a 13/2023. (V. 25.) BM rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^45]: A 9. § (1) bekezdés s) pontját az 59/2024. (XII. 23.) BM rendelet 12. §-a iktatta be.
+[^46]: A 9. § (2) bekezdése a 13/2023. (V. 25.) BM rendelet 2. § (3) bekezdésével megállapított szöveg.
