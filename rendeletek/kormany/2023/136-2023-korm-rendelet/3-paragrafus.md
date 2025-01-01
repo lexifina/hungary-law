@@ -18,6 +18,12 @@ g) összehangolja az elektronikus hírközlés védelmi és biztonsági célú f
 
 h) megtervezi az elektronikus hírközlés védelmi és biztonsági célú felkészítését szolgáló tervezési, fenntartási, fejlesztési és gyakoroltatási feladat ellátásának éves költségét,
 
-i) figyelemmel kíséri, támogatja és ellenőrzi a kijelölt elektronikus hírközlési szolgáltató védelmi és biztonsági célú felkészítési tervének összeállítását, és
+i)[^1] figyelemmel kíséri, támogatja és ellenőrzi a kijelölt elektronikus hírközlési szolgáltató védelmi és biztonsági célú felkészítési tervének összeállítását,
 
-j) részt vesz a NATO Reziliencia Bizottság munkájában, és ellátja a részvétellel összefüggő feladatot.
+j)[^2] részt vesz a NATO Reziliencia Bizottság munkájában, és ellátja a részvétellel összefüggő feladatot, és
+
+k)[^3] összehangolja az alapvető szolgáltatások folyamatosságának biztosításával, valamint a kritikus szervezetek, kritikus infrastruktúrák, és az ország védelme és biztonsága szempontjából jelentős szervezetek, az ország védelme és biztonsága szempontjából jelentős infrastruktúrák ellenálló képességével összefüggő kommunikációs igény kiszolgálását.
+
+[^1]: A 3. § i) pontja a 474/2024. (XII. 31.) Korm. rendelet 169. § a) pontja szerint módosított szöveg.
+[^2]: A 3. § j) pontja a 474/2024. (XII. 31.) Korm. rendelet 169. § b) pontja szerint módosított szöveg.
+[^3]: A 3. § k) pontját a 474/2024. (XII. 31.) Korm. rendelet 168. §-a iktatta be.
