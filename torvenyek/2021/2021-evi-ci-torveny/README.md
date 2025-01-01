@@ -46,3 +46,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-101-00-00
 | 2024-07-01 | 2024. évi XIII. törvény | 2021-101-00-00.40 |
 | 2024-12-06 | 2024. évi LVI. törvény | 2021-101-00-00.41 |
 | 2024-12-21 | 2024. évi LXXIV. törvény | 2021-101-00-00.42 |
+| 2025-01-01 | 2024. évi LXXIV. törvény | 2021-101-00-00.43 |
