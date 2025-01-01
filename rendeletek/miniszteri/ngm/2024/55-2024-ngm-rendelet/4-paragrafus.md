@@ -1,1 +1,3 @@
-4. § Hatályát veszti az egyetemes postai szolgáltatás keretében küldeményenkénti díjszabás szerint feladott, 50 grammot meg nem haladó tömegű, belföldi levélküldemények, valamint a hivatalos iratokra vonatkozó belföldi postai szolgáltatás díjának meghatározási módszeréről szóló 67/2012. (XII. 15.) NFM rendelet.
+4. §[^1]
+
+[^1]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

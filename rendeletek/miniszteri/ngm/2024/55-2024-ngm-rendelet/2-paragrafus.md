@@ -1,3 +1,1 @@
-2. §[^2]
-
-[^2]: A 2. § a 3. § (2) bekezdése alapján 2025. január 1-jén lép hatályba.
+2. § Ha az állam a Nemzeti Földalapba kerülő földrészletet örököl, akkor a hagyatéki tartozásokkal kapcsolatban az örököst terhelő kötelezettségek teljesítésének elősegítése érdekében a földrészlet feletti tulajdonosi jogokat gyakorló az MNV Zrt.-vel megkötött külön megállapodásban foglaltak szerint félévente – minden év január 31. és július 31. napjáig – adatot szolgáltat az MNV Zrt.-nek az öröklés jogcímén az állam tulajdonába került földrészlet hasznosításából származó bevételekről.
