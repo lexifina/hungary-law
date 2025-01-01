@@ -1,10 +1,10 @@
-23/B. §[^60] (1)[^61] A telekalakítási engedélyezési eljárásokban vizsgálni kell – a (2) bekezdésben meghatározott esetet kivéve –, hogy a telekalakítás
+23/B. §[^61] (1)[^62] A telekalakítási engedélyezési eljárásokban vizsgálni kell – a (2) bekezdésben meghatározott esetet kivéve –, hogy a telekalakítás
 
-a)[^62] a Méptv. valamint a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló törvény telekalakításra és telekméretre vonatkozó előírásainak,
+a)[^63] a Méptv. valamint a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló törvény telekalakításra és telekméretre vonatkozó előírásainak,
 
-b)[^63] a településrendezési és építési követelményekről szóló kormányrendeletben és a 23/E–23/J. §-ban foglaltaknak, valamint
+b)[^64] a településrendezési és építési követelményekről szóló kormányrendeletben és a 23/E–23/J. §-ban foglaltaknak, valamint
 
-c)[^64] a telekméretre, telekmélységre, telekszélességre, telek megengedett legnagyobb beépítettségére, a telken elhelyezhető épületek számára, valamint az épületek tervezett telekhatártól való távolságára vonatkozó helyi településrendezési és építési követelményeknek
+c)[^65] a telekméretre, telekmélységre, telekszélességre, telek megengedett legnagyobb beépítettségére, a telken elhelyezhető épületek számára, valamint az épületek tervezett telekhatártól való távolságára vonatkozó helyi településrendezési és építési követelményeknek
 
 megfelel-e.
 
@@ -12,8 +12,8 @@ megfelel-e.
 
 (3) A telekalakítási engedély iránti kérelmet el kell utasítani, ha a tervezett telekalakítás az (1) és (2) bekezdésben foglaltaknak nem felel meg.
 
-[^60]: A 23/B. §-t a 735/2021. (XII. 21.) Korm. rendelet 5. §-a iktatta be.
-[^61]: A 23/B. § (1) bekezdése a 253/2023. (VI. 23.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^62]: A 23/B. § (1) bekezdés a) pontja a 285/2024. (IX. 30.) Korm. rendelet 127. §-ával megállapított szöveg.
-[^63]: A 23/B. § (1) bekezdés b) pontja a 285/2024. (IX. 30.) Korm. rendelet 127. §-ával megállapított szöveg.
-[^64]: A 23/B. § (1) bekezdés c) pontja a 285/2024. (IX. 30.) Korm. rendelet 127. §-ával megállapított szöveg.
+[^61]: A 23/B. §-t a 735/2021. (XII. 21.) Korm. rendelet 5. §-a iktatta be.
+[^62]: A 23/B. § (1) bekezdése a 253/2023. (VI. 23.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^63]: A 23/B. § (1) bekezdés a) pontja a 285/2024. (IX. 30.) Korm. rendelet 127. §-ával megállapított szöveg.
+[^64]: A 23/B. § (1) bekezdés b) pontja a 285/2024. (IX. 30.) Korm. rendelet 127. §-ával megállapított szöveg.
+[^65]: A 23/B. § (1) bekezdés c) pontja a 285/2024. (IX. 30.) Korm. rendelet 127. §-ával megállapított szöveg.
