@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-1569-30
 | 2022-01-20 | 2021-1569-30-22.3 | 1007/2022. (I. 20.) Korm. határozat |
 | 2022-12-08 | 2021-1569-30-22.5 | 1007/2022. (I. 20.) Korm. határozat |
 | 2023-10-31 | 2021-1569-30-22.6 | 1608/2022. (XII. 8.) Korm. határozat |
+| 2025-01-01 | 2021-1569-30-22.4 | 2011: CXCV. törvény |
