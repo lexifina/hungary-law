@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-208-20-
 | 2018-01-01 | 2015-208-20-22.5 | 458/2017. (XII. 28.) Korm. rendelet |
 | 2023-01-01 | 2015-208-20-22.6 | 546/2022. (XII. 22.) Korm. rendelet |
 | 2024-08-15 | 2015-208-20-22.7 | 224/2024. (VII. 31.) Korm. rendelet |
+| 2025-01-01 | 2015-208-20-22.8 | 488/2024. (XII. 31.) Korm. rendelet |
