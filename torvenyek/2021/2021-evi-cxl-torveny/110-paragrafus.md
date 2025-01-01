@@ -30,7 +30,7 @@
 
 14.
 
-15. a honvédelmi létfontosságú rendszerelemek azonosításának, kijelölésének és védelmének szabályait,
+15.
 
 16. a fegyveres összeütközések időszakában végrehajtandó polgári védelmi feladatokra történő felkészítés követelményeit,
 

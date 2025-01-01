@@ -14,7 +14,7 @@ c) a hadkötelezett a katonai igazolványát vagy a hadköteles a behívóparanc
 
 d) a honvédelemben közreműködő szerv vagy szervezet a 11. § (3) és (4) bekezdésében foglalt kötelezettségének nem tesz eleget,
 
-e) a honvédelmi létfontosságú és a honvédelmi célból kijelölt létfontosságú rendszerelem üzemeltetője a kijelölő hatóság által előírt intézkedéseket nem, vagy nem megfelelően hajtja végre.
+e)
 
 (2) A kormányhivatal a honvédelmi bírság kiszabásával kapcsolatos eljárást a honvédelmi adatkezelés szervének, a központi katonai igazgatási szervnek vagy a területi védelmi bizottság honvédelmi elnökhelyettesének a kezdeményezése alapján, a minősített adatok védelmére vonatkozó szabályok figyelembevételével folytatja le.
 

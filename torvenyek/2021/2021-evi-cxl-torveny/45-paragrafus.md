@@ -24,7 +24,7 @@ j) a szükségelszállásolás és -ellátás,
 
 k) a szükségintézkedések összessége a hadműveletek által sújtott területek rendjének helyreállítására és fenntartására,
 
-l) a közreműködés a létfontosságú, vagy a lakosság ellátásához nélkülözhetetlen termelői kapacitásokat biztosító, illetve szolgáltatásokat nyújtó infrastruktúrák működőképességének fenntartásában, működési feltételeinek gyors helyreállításában,
+l) a közreműködés az alapvető szolgáltatások folyamatosságának biztosításában, a kritikus szervezetek és a kritikus infrastruktúrák, valamint az ország védelme és biztonsága szempontjából jelentős szervezetek és az ország védelme és biztonsága szempontjából jelentős infrastruktúrák ellenálló képességének biztosításában, működőképességének fenntartásában, működési feltételeinek gyors helyreállításában,
 
 m) a járvány- és közegészségügyi, továbbá a kegyeleti és a halaszthatatlan adminisztrációs feladatok ellátása,
 

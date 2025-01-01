@@ -8,7 +8,7 @@ c) váratlan támadás esetén a felkészített erőkkel arányos ellentevékeny
 
 d) a szövetségi és nemzetközi szerződésből eredő egyéb katonai kötelezettségek – különösen a kollektív védelmi, békefenntartó, válságkezelési és humanitárius feladatok – teljesítése,
 
-e) a honvédelem szempontjából létfontosságúnak kijelölt rendszerelemek, illetve a honvédelem szempontjából fokozott védelmet igénylő létesítmények, valamint a Kormány által kijelölt egyéb létesítmények és rendezvények őrzése és védelme,
+e) az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű infrastruktúrák, illetve a honvédelem szempontjából fokozott védelmet igénylő létesítmények, valamint a Kormány által kijelölt egyéb létesítmények és rendezvények őrzése és védelme,
 
 f) a felkészített erőkkel védett személyek személykísérésében való részvétel,
 
@@ -34,7 +34,7 @@ a) közreműködés az (1) bekezdés m) pontjába nem tartozó, katasztrófavéd
 
 b) közreműködés a katonai szakértelmet és speciális eszközöket igénylő feladatokban,
 
-c) közreműködés a honvédelem szempontjából létfontosságúnak kijelölt rendszerelemek működtetésében,
+c) közreműködés az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű infrastruktúra működtetésében,
 
 d) részvétel az állami protokolláris feladatok teljesítésében,
 
