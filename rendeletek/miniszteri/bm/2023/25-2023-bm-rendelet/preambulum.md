@@ -1,1 +1,0 @@
-A létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012. évi CLXVI. törvény 14/A. §-ában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 66. § (1) bekezdés 7. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
