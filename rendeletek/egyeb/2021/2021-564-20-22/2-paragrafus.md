@@ -8,7 +8,7 @@
 
 2. álnévvel rendelkező személy: az a személy, aki hamis vagy fiktív adatokat használ;
 
-2a.[^1] áldozattá válás kockázatának kitett személy: az a személy, akivel szemben az (EU) 2018/1862 európai parlamenti és tanácsi rendelet 32. cikk (1) bekezdés d) vagy e) pontja alapján külföldi figyelmeztető jelzés van érvényben;
+2a.[^1] áldozattá válás kockázatának kitett személy: az a személy, akivel szemben az (EU) 2018/1862 európai parlamenti és tanácsi rendelet 32. cikk (1) bekezdés d) vagy e) pontja alapján figyelmeztető jelzés van érvényben;
 
 3. CS.ICD: a CS.SIS és az NS.CP közötti kommunikációt leíró dokumentum;
 
@@ -72,4 +72,4 @@ e) tenyérnyom;
 
 22. ujj- és tenyérnyomat: ellenőrzött körülmények között rögzített daktiloszkópiai adat egy ismert személyről.
 
-[^1]: A 2. § 2a. pontját a 628/2022. (XII. 30.) Korm. rendelet 42. §-a iktatta be.
+[^1]: A 2. § 2a. pontját a 628/2022. (XII. 30.) Korm. rendelet 42. §-a iktatta be, szövege a 479/2024. (XII. 31.) Korm. rendelet 69. §-a szerint módosított szöveg.

@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-564-20-
 | --- | --- | --- |
 | 2023-03-07 | 2021-564-20-22.1 | 564/2021. (X. 4.) Korm. rendelete |
 | 2023-03-08 | 2021-564-20-22.2 | 2010: CXXX. törvény |
+| 2025-01-01 | 2021-564-20-22.3 | 628/2022. (XII. 30.) Korm. rendelet |

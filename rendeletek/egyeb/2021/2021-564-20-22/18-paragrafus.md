@@ -22,5 +22,12 @@ c) – ha védelem alá helyezésre nincs szükség – az eltűnt személy megt
 
 (8) Azon kiskorú eltűnt személyek esetében, akik négy hónapon belül betöltik a 18. életévüket, a CS.SIS által megküldött automatikus értesítésről az N.SIS Hivatal a körözési nyilvántartási rendszer útján értesíti a körözést elrendelő szervet. A körözést elrendelő szerv a figyelmeztető jelzés felülvizsgálata során a SIS tv. 8. § (5) bekezdése szerint jár el.
 
+(9)[^4] Az (EU) 2018/1862 európai parlamenti és tanácsi rendelet 32. cikk (1) bekezdés d) vagy e) pontja szerinti figyelmeztető jelzés elhelyezésével egyidejűleg a jelzéskezelőnek elektronikus úton a SIRENE Iroda rendelkezésére kell bocsátania
+
+a) azon személy nevét és adatait, akinek kíséretében az áldozattá válás kockázatának kitett személy elhagyhatja Magyarország területét, valamint
+
+b) azon személy nevét, adatait és elérhetőségét, akit az áldozattá válás kockázatának kitett személy feltartóztatása esetén értesíteni kell.
+
 [^2]: A 14. alcím címe a 628/2022. (XII. 30.) Korm. rendelet 43. § a) pontja szerint módosított szöveg.
 [^3]: A 18. § (7) bekezdése a 628/2022. (XII. 30.) Korm. rendelet 43. § b) pontja szerint módosított szöveg.
+[^4]: A 18. § (9) bekezdését a 479/2024. (XII. 31.) Korm. rendelet 68. §-a iktatta be.
