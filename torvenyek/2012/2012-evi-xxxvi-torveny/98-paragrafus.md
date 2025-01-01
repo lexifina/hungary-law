@@ -16,4 +16,4 @@ c) a külügyekkel foglalkozó állandó bizottság tagja – a bizottság dönt
 
 d) ha a vizsgálóbizottság létrehozásáról szóló országgyűlési határozat minősített adatok megismerésére felhatalmazást adott, a vizsgálóbizottság tagja – a vizsgálóbizottság döntése alapján – a vizsgálóbizottság feladatának ellátásához elengedhetetlenül szükséges minősített adat felhasználására
 
-felhasználói engedély és titoktartási nyilatkozat nélkül, a minősített adat védelmére vonatkozó követelmények megtartásával jogosult.
+titoktartási nyilatkozat nélkül, a minősített adat védelmére vonatkozó követelmények megtartásával jogosult.

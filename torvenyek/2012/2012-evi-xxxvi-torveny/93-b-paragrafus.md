@@ -1,0 +1,1 @@
+93/B. § A 86. § (2) és (3) bekezdése, valamint a 87. § (1) bekezdése szerinti esetekben a 92. és 93. §-t kell megfelelően alkalmazni azzal, hogy ezekben az esetekben az összeférhetetlenséget nem lehet kimondani, a Mentelmi Bizottság, illetve az Országgyűlés csak a jogsértés tényét állapítja meg.

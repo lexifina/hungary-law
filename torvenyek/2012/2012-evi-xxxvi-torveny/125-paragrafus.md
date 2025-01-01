@@ -22,9 +22,11 @@ e) ellátja a tárgyalási rend fenntartásával kapcsolatos, e törvényben meg
 
 f) a kiemelt nemzeti emlékhely méltóságának megőrzése, valamint a kiemelt nemzeti emlékhely részét képező közterület rendjének fenntartása érdekében járőr- és őrszolgálatot lát el,
 
-g) protokolláris díszelgési feladatokat lát el, és
+g) protokolláris díszelgési feladatokat lát el,
 
-h) elvégzi a részére törvényben előírt, valamint az Európai Unió kötelező jogi aktusából vagy nemzetközi szerződésből eredő egyéb feladatokat.
+h) elvégzi a részére törvényben előírt, valamint az Európai Unió kötelező jogi aktusából vagy nemzetközi szerződésből eredő egyéb feladatokat,
+
+i) közreműködik az Országgyűlés Hivatala kiemelt nemzeti emlékhely és környezete megóvásával kapcsolatos, jogszabályban meghatározott feladatainak ellátása során.
 
 (3) A (2) bekezdés a) és b) pontjában meghatározott feladatokat az Országgyűlési Őrség kizárólagos hatáskörrel és országos illetékességgel látja el, a feladatok végrehajtásába azonban – együttműködési megállapodás vagy felkérés alapján – más szerveket is bevonhat.
 

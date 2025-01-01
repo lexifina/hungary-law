@@ -14,6 +14,6 @@
 
 (6) A Házbizottság a döntéseit valamennyi – szavazati joggal rendelkező – tagjának egyhangú szavazatával hozza meg, ennek hiányában a 11. § (1) bekezdés a) pontjában foglaltakról az Országgyűlés vita nélkül, egyéb kérdésekben a házelnök dönt.
 
-(7)
+(7) A 11. § (1) bekezdés j) pontjától eltérően a házelnök dönt az Országgyűlés által tartandó megemlékezésről, ha az arra okot adó rendkívüli esemény a Házbizottság ülését követően következett be vagy vált ismertté.
 
 (8) A Házbizottság a működési rendjét – a házszabályi rendelkezésekre tekintettel – maga határozza meg.

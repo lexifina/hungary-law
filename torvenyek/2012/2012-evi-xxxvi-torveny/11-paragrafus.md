@@ -22,7 +22,7 @@ h) megállapítja azokat az eseteket, amelyekben a házszabályi rendelkezések 
 
 i) a házelnök felkérésére megvitatja az Országgyűléshez, illetve annak tisztségviselőihez érkezett jelentősebb beadványokat, petíciókat, felhívásokat, nyílt leveleket, valamint véleményezi az ezekkel kapcsolatos esetleges intézkedéseket,
 
-j)
+j) dönt az Országgyűlés által tartandó megemlékezésről,
 
 k) állást foglal a miniszteri tisztségre javasolt személyek kinevezés előtti bizottsági meghallgatásának rendjéről,
 

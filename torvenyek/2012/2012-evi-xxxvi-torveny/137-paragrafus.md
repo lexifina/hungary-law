@@ -4,6 +4,14 @@
 
 (2) Az Országgyűlési Őrség – az (1) bekezdésben meghatározott személyes adatok kezelésén túl – a 125. § (2) bekezdés a), b), c), e) és f) pontjában meghatározott feladatai ellátása során az intézkedéssel érintett személyről, a környezetéről, továbbá az intézkedés szempontjából lényeges körülményről, tárgyról képfelvételt, hangfelvételt, kép- és hangfelvételt (a továbbiakban együtt: felvétel) készít.
 
+(2a) Az Országgyűlési Őrség
+
+a) a 125. § (2) bekezdés d) pontjában meghatározott feladata ellátása céljából az Országházról, továbbá az Országgyűlés Hivatala és az Országgyűlési Őrség elhelyezésére szolgáló épületekről, és
+
+b) a 125. § (2) bekezdés i) pontjában meghatározott feladata ellátása céljából az Országgyűlés Hivatala vagyonkezelésébe tartozó, a kiemelt nemzeti emlékhely részét képező ingatlanokról és azok környezetéről
+
+pilóta nélküli állami légijárművel felvételt készít.
+
 (3) Az Országgyűlési Őrség a 125. § (2) bekezdés a) pontjában meghatározott feladata ellátása során a házelnök szállítására használt gépjármű külső környezete megfigyelésére képfelvevő eszközt alkalmaz és képfelvételt készít.
 
 (4) Az Országgyűlési Őrség elektronikus megfigyelőrendszer működtetése útján képfelvételt a 125. § (2) bekezdés a), b), c), e) és f) pontjában meghatározott feladatai ellátásának támogatása, az Országház, az Országgyűlés Hivatala és az Országgyűlési Őrség elhelyezésére szolgáló épületek, valamint a házelnök tartózkodási helye biztosítása, a létesítményekben tartózkodók biztonsága, az őrzésbiztonsági feltételek ellenőrzése, a rendkívüli események megelőzése, következményeinek elhárítása és kivizsgálásának elősegítése, a jogsértések észlelése és megelőzése, az elkövető tettenérése céljából készít, illetve kezel.
@@ -16,7 +24,7 @@ b) az Országgyűlés illetéktelen befolyástól mentes, zavartalan működés�
 
 (6) Az Országgyűlési Őrség az ügyeleti szolgálatához beérkezett hívásokat az elsődleges intézkedések foganatosításának biztosítása érdekében rögzíti.
 
-(7) Az Országgyűlési Őrség a (2)–(4) bekezdés alapján készített felvételt, illetve az abban szereplő személyes adatot
+(7) Az Országgyűlési Őrség a (2), (3) és (4) bekezdés alapján készített felvételt, illetve az abban szereplő személyes adatot
 
 a) büntetőeljárás, szabálysértési eljárás vagy közigazgatási hatósági eljárás kezdeményezése, vagy
 
@@ -26,7 +34,7 @@ céljából használhatja fel.
 
 (8) A (6) bekezdés alapján készített hangfelvétel, illetve az abban szereplő személyes adat a hívással elkövetett, vagy a hívás során említett bűncselekmény vagy szabálysértés miatt indult büntető- vagy szabálysértési eljárás kezdeményezése során, vagy a hívást követő intézkedés jogszerűségének közigazgatási hatósági eljárás kezdeményezése céljából használható fel.
 
-(9) A (2)–(4) bekezdés alapján készített felvétel, illetve az abban szereplő személyes adat
+(9) A (2), (3) és (4) bekezdés alapján készített felvétel, illetve az abban szereplő személyes adat
 
 a) bűncselekmény, szabálysértés vagy a közlekedés szabályainak megsértése miatt indult büntető-, szabálysértési vagy más hatósági eljárás során,
 
@@ -42,7 +50,9 @@ továbbítható a megkereső, illetve adatszolgáltatást kérő, az eljárásra
 
 (11) A (6) bekezdés alapján készített hangfelvétel, illetve az abban szereplő személyes adat a hívással elkövetett, vagy a hívás során említett bűncselekmény vagy szabálysértés miatt indult büntető- vagy szabálysértési eljárás során, vagy a hívást követő intézkedés jogszerűségének közigazgatási eljárásban történő vizsgálata céljából, illetve az érintett személy jogainak gyakorlása érdekében a megkereső, illetve adatszolgáltatást kérő, az eljárásra feladat- és hatáskörrel rendelkező nyomozó hatóság, szabálysértési hatóság, ügyészség, bíróság vagy más közigazgatási hatósági eljárást lefolytató szerv, továbbá az érintett személy részére továbbítható.
 
-(12) A (2)–(4) és (6) bekezdés alapján rögzített felvételt – ha a (7)–(11) bekezdésben megjelölt eljárás lefolytatásához vagy az ott meghatározott egyéb célból azokra nincs szükség – a rögzítést követő harminc nap elteltével törölni kell.
+(11a) A (2a) bekezdés b) pontja alapján készített felvétel az abban szereplő személyes adat felismerhetetlenné tételét követően továbbítható az Országgyűlés Hivatala részére, a kiemelt nemzeti emlékhely és környezete megóvásával kapcsolatos feladatok ellátása céljából.
+
+(12) A (2)–(4) és (6) bekezdés alapján rögzített felvételt – ha a (7)–(11a) bekezdésben megjelölt eljárás lefolytatásához vagy az ott meghatározott egyéb célból azokra nincs szükség – a rögzítést követő harminc nap elteltével törölni kell.
 
 (13) Az, akinek jogát vagy jogos érdekét a felvétel rögzítése érinti, a felvétel rögzítésétől számított harminc napon belül – a jog vagy jogos érdek valószínűsítésével – kérheti, hogy a (7)–(11) bekezdésben megjelölt eljárás lefolytatásához vagy az ott meghatározott egyéb cél érdekében az adatot annak kezelője a (12) bekezdés szerinti határidőben ne törölje. Bíróság vagy más hatóság megkeresésére a rögzített felvételt haladéktalanul meg kell küldeni. Ha a kérelem beérkezésétől számított harminc napon belül nem kerül sor a megkeresésre, a rögzített felvételt törölni kell.
 
