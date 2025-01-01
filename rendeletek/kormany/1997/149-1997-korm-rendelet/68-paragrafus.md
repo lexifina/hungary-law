@@ -1,8 +1,8 @@
-## Pénzbeli támogatás[^530]
+## Pénzbeli támogatás[^531]
 
-68. §[^531] (1)[^532] A Gyvt. 20/A. §-ában meghatározott pénzbeli támogatás (e § alkalmazásában a továbbiakban: támogatás) nyújtásáról nem kell döntést hozni.
+68. §[^532] (1)[^533] A Gyvt. 20/A. §-ában meghatározott pénzbeli támogatás (e § alkalmazásában a továbbiakban: támogatás) nyújtásáról nem kell döntést hozni.
 
-(2)[^533] A jegyző
+(2)[^534] A jegyző
 
 a) a tárgyév augusztus hónapjára tekintettel járó támogatás folyósításához tárgyév augusztus 5-éig,
 
@@ -10,7 +10,7 @@ b) a tárgyév november hónapjára tekintettel járó támogatás folyósítás
 
 a Magyar Államkincstár által üzemeltetett elektronikus rendszeren keresztül – a Magyar Államkincstár által e célra rendszeresített adatlapot elektronikusan hitelesített formában is megküldve – értesíti a Magyar Államkincstár területi szervét (a továbbiakban: Igazgatóság) a támogatás összegéről. Az értesítésben külön kell feltüntetni a Gyvt. 20/A. § (1) bekezdése szerinti alapösszegű támogatásban részesülő kiskorúak és nagykorúak számát, valamint a Gyvt. 20/A. § (2) bekezdése szerinti emelt összegű támogatásban részesülő kiskorúak és nagykorúak számát, továbbá a támogatás összegét.
 
-(3)[^534] Az Igazgatóság a beérkezett adatokat feldolgozza, és a Magyar Államkincstár az adatok alapján
+(3)[^535] Az Igazgatóság a beérkezett adatokat feldolgozza, és a Magyar Államkincstár az adatok alapján
 
 a) a tárgyév augusztus hónapjára tekintettel járó támogatás folyósításához tárgyév augusztus 15-éig,
 
@@ -18,9 +18,9 @@ b) a tárgyév november hónapjára tekintettel járó támogatás folyósítás
 
 rendelkezik a (2) bekezdés szerint igényelt támogatási összegnek a települési önkormányzatok részére történő átutalásáról, valamint ezzel egyidejűleg az adatokat vármegyénkénti, települési önkormányzatonkénti és támogatási összegenkénti bontásban, számítógépes hálózaton megküldi a gyermekek és az ifjúság védelméért felelős miniszter által vezetett minisztériumnak.
 
-(4)[^535]
+(4)[^536]
 
-(5)[^536] A jegyző
+(5)[^537] A jegyző
 
 a) a tárgyév augusztus hónapjára tekintettel járó támogatás tekintetében tárgyév augusztus 25-éig,
 
@@ -28,11 +28,11 @@ b) a tárgyév november hónapjára tekintettel járó támogatás tekintetében
 
 – igazolható módon – gondoskodik a támogatásnak a jogosultak részére történő folyósításáról, vagy házipénztár útján történő kifizetéséről.
 
-(6)[^537]
+(6)[^538]
 
-(7)[^538]
+(7)[^539]
 
-(8)[^539] A jegyző
+(8)[^540] A jegyző
 
 a) a tárgyév augusztus hónapjára tekintettel járó támogatás nyújtásához tárgyév szeptember 5-éig,
 
@@ -40,7 +40,7 @@ b) a tárgyév november hónapjára tekintettel járó támogatás nyújtásáho
 
 pótigényt nyújthat be azzal, hogy pótigény különösen azon jogosult tekintetében nyújtható be, akinek a Gyvt. 20/A. § (1) és (2) bekezdésében meghatározott időpontban fennálló jogosultságát véglegessé vált döntéssel a (2) bekezdés szerinti időpontot követően állapították meg, illetve akinek tekintetében a támogatás nyújtására a jegyző a (2) bekezdés szerinti időpontot követően vált illetékessé.
 
-(8a)[^540] A jegyző a (8) bekezdés szerinti pótigénylés keretében igényli meg a Gyvt. 20/A. § (1) bekezdése szerinti alapösszegű és a Gyvt. 20/A. § (2) bekezdése szerinti emelt összegű támogatás különbözeti összegének megfelelő támogatást, ha a jogosultnak
+(8a)[^541] A jegyző a (8) bekezdés szerinti pótigénylés keretében igényli meg a Gyvt. 20/A. § (1) bekezdése szerinti alapösszegű és a Gyvt. 20/A. § (2) bekezdése szerinti emelt összegű támogatás különbözeti összegének megfelelő támogatást, ha a jogosultnak
 
 a) a (2) bekezdés szerinti időpontban a rendszeres gyermekvédelmi kedvezményre való jogosultsága fennállt, de a hátrányos, halmozottan hátrányos helyzet tényének fennállása iránti eljárás még folyamatban volt, és
 
@@ -50,11 +50,11 @@ b) a hátrányos, halmozottan hátrányos helyzetét a tárgyév augusztus 1-jei
 
 (10) A pótigény teljesítésére irányadó határidők a (3) és (5) bekezdésben meghatározott hónapot követő hónap azonos napján járnak le.
 
-(11)[^541]
+(11)[^542]
 
-(12)[^542]
+(12)[^543]
 
-(13)[^543] Ha az igényelt támogatást a jogosult részére nem lehet folyósítani, mert
+(13)[^544] Ha az igényelt támogatást a jogosult részére nem lehet folyósítani, mert
 
 a) a jogosultságot a folyósítást megelőzően – a Gyvt. 20/A. § (1) és (2) bekezdése szerinti időpontra visszamenőlegesen – meg kellett szüntetni,
 
@@ -64,29 +64,29 @@ c) a jogosult a támogatást – a folyósítás megkísérlését követő 2 h�
 
 a jegyző a (14) bekezdésben foglaltak szerint gondoskodik a folyósításra nem került támogatás központi költségvetésbe történő visszafizetéséről.
 
-(14)[^544] A jegyző a tárgyévben igényelt támogatásról tárgyévet követő év február 28-áig a Magyar Államkincstár által üzemeltetett elektronikus rendszeren keresztül – az adatközlő lapot elektronikusan hitelesített formában is megküldve – elszámolási adatközlést teljesít az Igazgatóság felé, melyben nyilatkozik a (13) bekezdésben foglaltak alapján visszafizetendő összegről is. Az adatközlésben – visszafizetendő támogatás esetén – külön fel kell tüntetni a Gyvt. 20/A. § (1) bekezdése szerinti alapösszegű támogatás összegét és a Gyvt. 20/A. § (2) bekezdése szerint emelt összegű támogatás összegét, valamint a (8a) bekezdés szerint igényelt támogatás összegét. A jegyző az adatközlési határidő leteltét követő 8 napon belül gondoskodik a folyósításra nem került támogatás központi költségvetésbe történő visszafizetéséről.
+(14)[^545] A jegyző a tárgyévben igényelt támogatásról tárgyévet követő év február 28-áig a Magyar Államkincstár által üzemeltetett elektronikus rendszeren keresztül – az adatközlő lapot elektronikusan hitelesített formában is megküldve – elszámolási adatközlést teljesít az Igazgatóság felé, melyben nyilatkozik a (13) bekezdésben foglaltak alapján visszafizetendő összegről is. Az adatközlésben – visszafizetendő támogatás esetén – külön fel kell tüntetni a Gyvt. 20/A. § (1) bekezdése szerinti alapösszegű támogatás összegét és a Gyvt. 20/A. § (2) bekezdése szerint emelt összegű támogatás összegét, valamint a (8a) bekezdés szerint igényelt támogatás összegét. A jegyző az adatközlési határidő leteltét követő 8 napon belül gondoskodik a folyósításra nem került támogatás központi költségvetésbe történő visszafizetéséről.
 
-(15)[^545]
+(15)[^546]
 
-(16)[^546] A Magyar Államkincstár a (14) bekezdés szerinti adatközlési határidő lejártát követő 15 napon belül – vármegyénkénti, települési önkormányzatonkénti bontásban – tájékoztatja a gyermekek és az ifjúság védelméért felelős miniszter által vezetett minisztériumot a (14) bekezdés szerint visszafizetendő támogatás mértékéről, külön feltüntetve a Gyvt. 20/A. § (1) bekezdése szerinti alapösszegű támogatás összegét és a Gyvt. 20/A. § (2) bekezdése szerint emelt összegű támogatás összegét, valamint a (8a) bekezdés szerint igényelt támogatás összegét.
+(16)[^547] A Magyar Államkincstár a (14) bekezdés szerinti adatközlési határidő lejártát követő 15 napon belül – vármegyénkénti, települési önkormányzatonkénti bontásban – tájékoztatja a gyermekek és az ifjúság védelméért felelős miniszter által vezetett minisztériumot a (14) bekezdés szerint visszafizetendő támogatás mértékéről, külön feltüntetve a Gyvt. 20/A. § (1) bekezdése szerinti alapösszegű támogatás összegét és a Gyvt. 20/A. § (2) bekezdése szerint emelt összegű támogatás összegét, valamint a (8a) bekezdés szerint igényelt támogatás összegét.
 
-(17)[^547] A Magyar Államkincstár a (14) bekezdés szerinti elszámolás jogszerűségét és a visszafizetési kötelezettség teljesítését ellenőrizheti. A támogatás visszafizetésére – a kamatszámításra vonatkozó szabályok kivételével – a költségvetési támogatásokra vonatkozó rendelkezéseket kell alkalmazni.
+(17)[^548] A Magyar Államkincstár a (14) bekezdés szerinti elszámolás jogszerűségét és a visszafizetési kötelezettség teljesítését ellenőrizheti. A támogatás visszafizetésére – a kamatszámításra vonatkozó szabályok kivételével – a költségvetési támogatásokra vonatkozó rendelkezéseket kell alkalmazni.
 
-[^530]: A 68. §-t megelőző alcím a 236/2012. (VIII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 179/2019. (VII. 18.) Korm. rendelet 4. § e) pontja szerint módosított szöveg.
-[^531]: A 68. § a 148/2017. (VI. 12.) Kor. rendelet 1. §-ával megállapított szöveg.
-[^532]: A 68. § (1) bekezdése a 179/2019. (VII. 18.) Korm. rendelet 4. § f) pontja szerint módosított szöveg.
-[^533]: A 68. § (2) bekezdése a 205/2021. (IV. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^534]: A 68. § (3) bekezdése a 179/2019. (VII. 18.) Korm. rendelet 1. § (1) bekezdésével megállapított, záró szövegrésze a 205/2021. (IV. 29.) Korm. rendelet 10. § e) pontja, a 238/2022. (VI. 30.) Korm. rendelet 11. § 8. pontja, a 616/2022. (XII. 29.) Korm. rendelet 22. § b) pontja szerint módosított szöveg.
-[^535]: A 68. § (4) bekezdését a 179/2019. (VII. 18.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte.
-[^536]: A 68. § (5) bekezdése a 179/2019. (VII. 18.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^537]: A 68. § (6) bekezdését a 179/2019. (VII. 18.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte.
-[^538]: A 68. § (7) bekezdését a 179/2019. (VII. 18.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte.
-[^539]: A 68. § (8) bekezdés záró szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 41. § 12. pontja, a 179/2019. (VII. 18.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
-[^540]: A 68. § (8a) bekezdését a 384/2017. (XII. 12.) Korm. rendelet 1. §-a iktatta be.
-[^541]: A 68. § (11) bekezdését a 179/2019. (VII. 18.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte.
-[^542]: A 68. § (12) bekezdését a 179/2019. (VII. 18.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte.
-[^543]: A 68. § (13) bekezdése a 179/2019. (VII. 18.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^544]: A 68. § (14) bekezdése a 179/2019. (VII. 18.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^545]: A 68. § (15) bekezdését a 179/2019. (VII. 18.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte.
-[^546]: A 68. § (16) bekezdése a 179/2019. (VII. 18.) Korm. rendelet 1. § (4) bekezdésével megállapított, a 238/2022. (VI. 30.) Korm. rendelet 11. § 9. pontja, a 616/2022. (XII. 29.) Korm. rendelet 22. § b) pontja szerint módosított szöveg.
-[^547]: A 68. § (17) bekezdése a 179/2019. (VII. 18.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^531]: A 68. §-t megelőző alcím a 236/2012. (VIII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 179/2019. (VII. 18.) Korm. rendelet 4. § e) pontja szerint módosított szöveg.
+[^532]: A 68. § a 148/2017. (VI. 12.) Kor. rendelet 1. §-ával megállapított szöveg.
+[^533]: A 68. § (1) bekezdése a 179/2019. (VII. 18.) Korm. rendelet 4. § f) pontja szerint módosított szöveg.
+[^534]: A 68. § (2) bekezdése a 205/2021. (IV. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^535]: A 68. § (3) bekezdése a 179/2019. (VII. 18.) Korm. rendelet 1. § (1) bekezdésével megállapított, záró szövegrésze a 205/2021. (IV. 29.) Korm. rendelet 10. § e) pontja, a 238/2022. (VI. 30.) Korm. rendelet 11. § 8. pontja, a 616/2022. (XII. 29.) Korm. rendelet 22. § b) pontja szerint módosított szöveg.
+[^536]: A 68. § (4) bekezdését a 179/2019. (VII. 18.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte.
+[^537]: A 68. § (5) bekezdése a 179/2019. (VII. 18.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^538]: A 68. § (6) bekezdését a 179/2019. (VII. 18.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte.
+[^539]: A 68. § (7) bekezdését a 179/2019. (VII. 18.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte.
+[^540]: A 68. § (8) bekezdés záró szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 41. § 12. pontja, a 179/2019. (VII. 18.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^541]: A 68. § (8a) bekezdését a 384/2017. (XII. 12.) Korm. rendelet 1. §-a iktatta be.
+[^542]: A 68. § (11) bekezdését a 179/2019. (VII. 18.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte.
+[^543]: A 68. § (12) bekezdését a 179/2019. (VII. 18.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte.
+[^544]: A 68. § (13) bekezdése a 179/2019. (VII. 18.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^545]: A 68. § (14) bekezdése a 179/2019. (VII. 18.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^546]: A 68. § (15) bekezdését a 179/2019. (VII. 18.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte.
+[^547]: A 68. § (16) bekezdése a 179/2019. (VII. 18.) Korm. rendelet 1. § (4) bekezdésével megállapított, a 238/2022. (VI. 30.) Korm. rendelet 11. § 9. pontja, a 616/2022. (XII. 29.) Korm. rendelet 22. § b) pontja szerint módosított szöveg.
+[^548]: A 68. § (17) bekezdése a 179/2019. (VII. 18.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.

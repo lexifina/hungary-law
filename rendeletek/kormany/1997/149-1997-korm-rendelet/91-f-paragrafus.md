@@ -1,6 +1,6 @@
-## Az igazolatlan óvodai és iskolai hiányzásokkal összefüggő gyámhatósági eljárás[^762]
+## Az igazolatlan óvodai és iskolai hiányzásokkal összefüggő gyámhatósági eljárás[^763]
 
-## 91/F. §[^763] Ha az óvodai nevelésben való részvételre kötelezett gyermek igazolatlanul mulasztott óvodai nevelési napjainak száma az adott nevelési évben elérte az ötöt, vagy a gyermek (fiatal felnőtt) igazolatlanul mulasztott kötelező tanórai foglalkozásainak száma az adott tanítási évben elérte a tízet, a nevelési-oktatási intézmény vezetője
+## 91/F. §[^764] Ha az óvodai nevelésben való részvételre kötelezett gyermek igazolatlanul mulasztott óvodai nevelési napjainak száma az adott nevelési évben elérte az ötöt, vagy a gyermek (fiatal felnőtt) igazolatlanul mulasztott kötelező tanórai foglalkozásainak száma az adott tanítási évben elérte a tízet, a nevelési-oktatási intézmény vezetője
 
 a) nevelőszülőnél vagy gyermekotthonban elhelyezett gyermek esetén megküldi a jelzést a gyermekvédelmi szakszolgálat számára a gyám tájékoztatása és a gyámi tevékenység szakmai segítése, ellenőrzése érdekében,
 
@@ -8,5 +8,5 @@ b) az a) pont alá nem tartozó esetben, feltéve, hogy a családi pótlék jogo
 
 c) értesíti a b) pont szerinti tájékoztatás megtörténtéről a család- és gyermekjóléti szolgálatot.
 
-[^762]: A 91/F. §-t megelőző alcímet a 237/2010. (IX. 13.) Korm. rendelet 8. §-a iktatta be, szövege a 236/2012. (VIII. 30.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 448/2016. (XII. 19.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.
-[^763]: A 91/F. §-t a 237/2010. (IX. 13.) Korm. rendelet 8. §-a iktatta be, szövege a 31/2020. (II. 29.) Korm. rendelet 1. § (6) bekezdésével megállapított szöveg.
+[^763]: A 91/F. §-t megelőző alcímet a 237/2010. (IX. 13.) Korm. rendelet 8. §-a iktatta be, szövege a 236/2012. (VIII. 30.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 448/2016. (XII. 19.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.
+[^764]: A 91/F. §-t a 237/2010. (IX. 13.) Korm. rendelet 8. §-a iktatta be, szövege a 31/2020. (II. 29.) Korm. rendelet 1. § (6) bekezdésével megállapított szöveg.

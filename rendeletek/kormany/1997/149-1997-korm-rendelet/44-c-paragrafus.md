@@ -1,4 +1,4 @@
-## Közvetlenül a születését követően az egészségügyi intézményben hagyott gyermek[^321]
+## Közvetlenül a születését követően az egészségügyi intézményben hagyott gyermek[^322]
 
 44/C. § (1) Az egészségügyi intézmény azt az anyát, aki a gyermekét hátrahagyva távozik az egészségügyi intézményből, a zárójelentésben tájékoztatja
 
@@ -44,4 +44,4 @@ b) nincs a gyermek örökbefogadására jelentkező személy.
 
 (9) Az (1)–(8) bekezdés nem alkalmazható, ha a gyermek további egészségügyi intézményben tartózkodását az egészségi állapota indokolja, és az anya az egészségügyi intézménnyel egyeztetve távozik onnan.
 
-[^321]: A „Közvetlenül a születését követően az egészségügyi intézményben hagyott gyermek” alcímet (44/C. §-t) a 192/2024. (VII. 8.) Korm. rendelet 3. §-a iktatta be.
+[^322]: A „Közvetlenül a születését követően az egészségügyi intézményben hagyott gyermek” alcímet (44/C. §-t) a 192/2024. (VII. 8.) Korm. rendelet 3. §-a iktatta be.
