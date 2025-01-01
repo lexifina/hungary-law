@@ -12,7 +12,7 @@
 
 (7) Az újszülöttek első ellátását követő kórházi ellátások során használható fődiagnózisok listáját a 7. melléklet tartalmazza.
 
-(8) Az emberi felhasználásra kerülő gyógyszerek rendeléséről és kiadásáról szóló 44/2004. (IV. 28.) ESZCSM rendelet 2/A. § (6) bekezdése szerinti egyszerűsített eljárás értelmében indikáción túl alkalmazható gyógyszerek listáját a 8. melléklet tartalmazza.
+(8)[^12] Az emberi felhasználásra kerülő gyógyszerek egyedi rendelésének és felhasználásának engedélyezéséről szóló 448/2017. (XII. 27.) Korm. rendelet 2. § (4) bekezdése szerinti egyszerűsített eljárás alapján indikáción túl alkalmazható protokollok listáját a 8. melléklet tartalmazza.
 
 (9) Az FNO kódokat a 9. melléklet tartalmazza.
 
@@ -30,6 +30,7 @@
 
 (16) A rehabilitációs ellátási program szerinti nappali ellátás keretében végezhető rehabilitációs tevékenységek besorolási szabályait a 16. melléklet tartalmazza.
 
-(17)[^12] A fődiagnózisként kódolható diagnózisok főcsoport szerinti listáját a 17. melléklet tartalmazza.
+(17)[^13] A fődiagnózisként kódolható diagnózisok főcsoport szerinti listáját a 17. melléklet tartalmazza.
 
-[^12]: A 22. § (17) bekezdését a 32/2016. (X. 27.) EMMI rendelet 7. §-a iktatta be.
+[^12]: A 22. § (8) bekezdése az 55/2024. (XII. 11.) BM rendelet 6. §-ával megállapított szöveg.
+[^13]: A 22. § (17) bekezdését a 32/2016. (X. 27.) EMMI rendelet 7. §-a iktatta be.
