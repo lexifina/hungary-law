@@ -6,7 +6,7 @@
 
 a)[^111] vízszennyezési bírság fizetése esetében a bírság 70%-át az illetékes vízvédelmi hatóság és a bírság 30%-át a határozatban kedvezményezettként megjelölt önkormányzat,
 
-b)[^112] csatornabírság fizetése esetében a bírság 97%-át a határozatban kedvezményezettként megjelölt szolgáltató és a bírság 3%-át, de legfeljebb 300 000 Ft-ot az elsőfokú határozatot meghozó vízvédelmi hatóság
+b)[^112] csatornabírság fizetése esetében a bírság 97%-át a határozatban kedvezményezettként megjelölt szolgáltató és a bírság 3%-át, de legfeljebb 300 000 Ft-ot a határozatot meghozó vízvédelmi hatóság
 
 részére.
 
@@ -19,7 +19,7 @@ részére.
 [^109]: A 34. § (1) bekezdése a 310/2014. (XII. 11.) Korm. rendelet 4. § (5) bekezdésével megállapított szöveg.
 [^110]: A 34. § (3) bekezdés bevezető szövegrésze a 314/2009. (XII. 28.) Korm. rendelet 28. §-a, a 457/2017. (XII. 28.) Korm. rendelet 136. § d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^111]: A 34. § (3) bekezdés a) pontja az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
-[^112]: A 34. § (3) bekezdésének b) pontja a 312/2005. (XII. 25.) Korm. rendelet 2. §-ával megállapított, az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^112]: A 34. § (3) bekezdés b) pontja a 312/2005. (XII. 25.) Korm. rendelet 2. §-ával megállapított, az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése, a 340/2024. (XI. 14.) Korm. rendelet 6. §-a szerint módosított szöveg.
 [^113]: A 34. § (4) bekezdését a 312/2005. (XII. 25.) Korm. rendelet 5. § b) pontja hatályon kívül helyezte.
 [^114]: A 34. § (5) bekezdését a 208/2006. (X. 16.) Korm. rendelet 6. §-a iktatta be.
 [^115]: A 34. § (6) bekezdését a 100/2016. (V. 13.) Korm. rendelet 11. §-a iktatta be, szövege a 368/2020. (VII. 28.) Korm. rendelet 4. §-a szerint módosított szöveg.
