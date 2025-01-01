@@ -1,6 +1,6 @@
 ## 6. A hirdetmény nélküli tárgyalásos eljárásra vonatkozó sajátos szabályok
 
-15. §[^21] (1) Az ajánlatkérő a hirdetmény közzététele nélküli tárgyalásos eljárás esetén az adott hatóanyagra, gyógyszerre vagy indikációra – a gyógyszerészeti államigazgatási szerv vagy az Európai Bizottság által kiadott forgalomba hozatali engedély szerinti – valamennyi szervezet részére azonos tartalommal és azonos időben ajánlattételi felhívást küld, egyben ajánlattételi határidőként az ajánlat megtételére elegendő, egységes időtartamot határoz meg. Amennyiben az ajánlattételi felhíváshoz a hirdetmény közzététele nélküli tárgyalásos eljárásban az ajánlatkérő közbeszerzési dokumentumokat csatol, akkor – a Kbt. 98. § (2) bekezdés e) pontja szerinti esetet kivéve – az ajánlattételi határidő nem lehet rövidebb az ajánlattételi felhívás megküldésének napjától számított 10 napnál.
+15. §[^22] (1) Az ajánlatkérő a hirdetmény közzététele nélküli tárgyalásos eljárás esetén az adott hatóanyagra, gyógyszerre vagy indikációra – a gyógyszerészeti államigazgatási szerv vagy az Európai Bizottság által kiadott forgalomba hozatali engedély szerinti – valamennyi szervezet részére azonos tartalommal és azonos időben ajánlattételi felhívást küld, egyben ajánlattételi határidőként az ajánlat megtételére elegendő, egységes időtartamot határoz meg. Amennyiben az ajánlattételi felhíváshoz a hirdetmény közzététele nélküli tárgyalásos eljárásban az ajánlatkérő közbeszerzési dokumentumokat csatol, akkor – a Kbt. 98. § (2) bekezdés e) pontja szerinti esetet kivéve – az ajánlattételi határidő nem lehet rövidebb az ajánlattételi felhívás megküldésének napjától számított 10 napnál.
 
 (2) Hirdetmény közzététele nélkül induló tárgyalásos eljárás alkalmazható az egészségügyi szakmai kollégium állásfoglalása szerinti termék esetében, amennyiben
 
@@ -14,12 +14,14 @@ A jogalap igazolásához
 
 a) orvostechnikai eszköz közbeszerzésekor, ha a közbeszerzést
 
-aa)[^22] a NEAK folytatja le, az illetékes egészségügyi szakmai kollégium vezetőjének,
+aa)[^23] a NEAK folytatja le, az illetékes egészségügyi szakmai kollégium vezetőjének,
 
-ab)[^23] nem a NEAK folytatja le, a fekvőbeteg-gyógyintézet orvos igazgatójának,
+ab)[^24] nem a NEAK folytatja le, a fekvőbeteg-gyógyintézet orvos igazgatójának,
 
 b) gyógyszer közbeszerzésekor a gyógyszerészeti államigazgatási szerv
 
-[^21]: A 15. § a 323/2015. (X. 30.) Korm. rendelet 8. § (8) bekezdésével megállapított szöveg.
-[^22]: A 15. § (3) bekezdés a) pont aa) alpontja a 379/2016. (XII. 2.) Korm. rendelet 193. § c) pontja szerint módosított szöveg.
-[^23]: A 15. § (3) bekezdés a) pont ab) alpontja a 379/2016. (XII. 2.) Korm. rendelet 193. § c) pontja szerint módosított szöveg.
+egyetértő állásfoglalása szükséges. Az indokolásban ki kell térni annak igazolására, hogy a rendkívüli sürgősség nem az ajánlatkérő hibájából ered.
+
+[^22]: A 15. § a 323/2015. (X. 30.) Korm. rendelet 8. § (8) bekezdésével megállapított szöveg.
+[^23]: A 15. § (3) bekezdés a) pont aa) alpontja a 379/2016. (XII. 2.) Korm. rendelet 193. § c) pontja szerint módosított szöveg.
+[^24]: A 15. § (3) bekezdés a) pont ab) alpontja a 379/2016. (XII. 2.) Korm. rendelet 193. § c) pontja szerint módosított szöveg.

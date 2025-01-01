@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-16-20-2
 | 2017-06-01 | 2012-16-20-22.8 | 115/2017. (V. 19.) Korm. rendelet |
 | 2021-05-26 | 2012-16-20-22.9 | 164/2020. (IV. 30.) Korm. rendelet |
 | 2022-05-26 | 2012-16-20-22.10 | 135/2022. (IV. 7.) Korm. rendelet |
+| 2025-01-01 | 2012-16-20-22.11 | 33/2024. (II. 22.) Korm. rendelet |
