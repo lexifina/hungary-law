@@ -1,1 +1,0 @@
-3. § Az adatszolgáltató e rendelet szerinti felügyeleti jelentés teljesítésére vonatkozó kötelezettsége az MNB által kiadott tevékenységi engedélyről szóló határozat véglegessé válása napjától a tevékenységi engedély visszavonásáról szóló határozat véglegessé válása napjáig áll fenn.

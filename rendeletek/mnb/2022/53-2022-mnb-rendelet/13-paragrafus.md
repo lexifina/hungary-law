@@ -1,3 +1,0 @@
-13. § (1) Ez a rendelet – a (2) bekezdésben foglaltak kivételével – a kihirdetését követő napon lép hatályba.
-
-(2) A 4. és 5. §, a 6. § (3)–(5) bekezdése, a 7., 8. és 10. §, a 2–5. melléklet, a 6. melléklet „ÖSSZEFOGLALÓ TÁBLA” megnevezésű táblázat 1–17., 19., 20., 22., 24–27. és 30–57. sora, az ott meghatározott felügyeleti jelentések táblái, a 7. melléklet I., II.1–18., II.20., II.21., II.23., II.25–28. és III–VII. pontja, a 8–12. melléklet, a 13. melléklet „ÖSSZEFOGLALÓ TÁBLA” megnevezésű táblázat 1. és 5–14. sora, az ott meghatározott felügyeleti jelentések táblái, a 14. melléklet I., II.1., II.5–12. és III. pontja, valamint a 15. és a 16. melléklet 2023. január 1-jén lép hatályba.
