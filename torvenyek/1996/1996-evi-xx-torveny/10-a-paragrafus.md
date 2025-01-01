@@ -92,6 +92,6 @@ b) az összerendelési nyilvántartás vezetője.
 
 (13) A (2) bekezdésben meghatározott nyilvántartás adatkezelője kapcsolati kód állományát legalább félévente köteles cserélni.
 
-(14) A titkosított összerendelési kapcsolatikód-állományt soron kívül cserélni kell, ha az összerendelési nyilvántartás vagy a (2) bekezdés szerinti nyilvántartások működtetése során az összerendelési kapcsolatikód-állományt érintő, az állami és önkormányzati szervek elektronikus információbiztonságáról szóló törvény szerinti biztonsági esemény következett be. A kódcsere végrehajtásának módját és időpontját a kódcserével érintett, (2) bekezdés szerinti nyilvántartások adatkezelői és az összerendelési nyilvántartást vezető szerv összehangoltan, előre egyeztetett módon hajtja végre.
+(14) A titkosított összerendelési kapcsolatikód-állományt soron kívül cserélni kell, ha az összerendelési nyilvántartás vagy a (2) bekezdés szerinti nyilvántartások működtetése során az összerendelési kapcsolatikód-állományt érintő, Magyarország kiberbiztonságáról szóló törvény szerinti kiberbiztonsági incidens következett be. A kódcsere végrehajtásának módját és időpontját a kódcserével érintett, (2) bekezdés szerinti nyilvántartások adatkezelői és az összerendelési nyilvántartást vezető szerv összehangoltan, előre egyeztetett módon hajtja végre.
 
 (15) A kapcsolatikód-állomány gyakoribb cseréjét vagy meghatározott feltételek szerinti lecserélését jogszabály kötelezővé teheti.

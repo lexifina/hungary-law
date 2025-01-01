@@ -18,7 +18,7 @@ e) a nemzetbiztonsági szolgálatok, a rájuk vonatkozó törvényekben meghatá
 
 f) az egyéni vállalkozók nyilvántartását vezető szerv, az egyéni vállalkozói tevékenységgel kapcsolatos ügyekben eljáró, az egyéni vállalkozóról és az egyéni cégről szóló törvény szerinti szerv az egyéni vállalkozóról és az egyéni cégről szóló törvényben meghatározott hatósági feladatai ellátásához;
 
-g) a kincstár az önkormányzatokat és a nem állami humánszolgáltatókat megillető normatív hozzájárulásokkal, támogatásokkal, továbbá a lakástámogatásokkal kapcsolatos feladatai teljesítéséhez, valamint a családtámogatások és a bányászati keresetkiegészítések ügyében eljáró szerv a családtámogatási ellátásokkal és a bányászati keresetkiegészítéssel kapcsolatos feladatai teljesítéséhez, az ellátások megállapításával, a jogszerű igénybevétel ellenőrzésével és a jogosulatlanul igénybe vett összeg visszakövetelésével összefüggésben;
+g) a kincstár az önkormányzatokat és a nem állami humánszolgáltatókat megillető normatív hozzájárulásokkal, támogatásokkal, továbbá a lakástámogatásokkal és a munkáshitelhez kapcsolódó támogatásokkal kapcsolatos feladatai teljesítéséhez, valamint a családtámogatások és a bányászati keresetkiegészítések ügyében eljáró szerv a családtámogatási ellátásokkal és a bányászati keresetkiegészítéssel kapcsolatos feladatai teljesítéséhez, az ellátások megállapításával, a jogszerű igénybevétel ellenőrzésével és a jogosulatlanul igénybe vett összeg visszakövetelésével összefüggésben;
 
 h) a lakáscélú támogatási hatáskörében eljáró hatóság a lakástámogatásokkal kapcsolatos feladatai teljesítéséhez a hozzájárulások, támogatások megállapításával, érvényesítésével, a jogszerű igénybevétel ellenőrzésével és a jogosulatlanul igénybe vett összeg visszakövetelésével összefüggésben;
 
@@ -41,3 +41,5 @@ p) a Központi Statisztikai Hivatal statisztikai célra;
 q) a köznevelésért felelős miniszter köznevelési feladatkörébe tartozó egyes feladatainak ellátására a Kormány rendeletében kijelölt szerv, a szakképzési államigazgatási szerv és a felsőoktatási intézmények nyilvántartását vezető szerv (a továbbiakban együtt: oktatási hivatal) az oktatással kapcsolatos hatáskörei gyakorlásához, a nemzetgazdasági szintű tervezéshez, továbbá az oktatásban résztvevők jogainak gyakorlásához és kötelezettségeinek teljesítéséhez szükséges feladatainak ellátásával összefüggésben;
 
 r) a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal az általa finanszírozott hazai közfinanszírozású támogatásban részesített projekttel összefüggésben.
+
+s) a munkáshitel nyújtása során a hitelintézet a munkáshitelre való jogosultság megállapításával, illetve az ezen adatnak a kincstárnak való továbbításával kapcsolatos kötelezettségeivel összefüggésben.

@@ -46,7 +46,11 @@ n) az Nytv. 24/L. §-a szerinti, a Magyarország Helyreállítási és Ellenáll
 
 o) a közigazgatási szankciót kiszabó hatóságoknak a közigazgatási szabályszegések szankcióiról szóló 2017. évi CXXV. törvény 3. §-a szerinti nyilvántartásban nyilvántartott polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, továbbá állampolgárságának változásáról.
 
-p) a digitális állampolgárság nyilvántartást vezető szervnek a kezelt adatok naprakészségének biztosítása és az elektronikus azonosításhoz szükséges adatellenőrzés érdekében a nyilvántartásában szereplő polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, állampolgárságának változásáról, az érintett nyilvántartásból való kikerülése okáról és idejéről.
+p) a digitális állampolgárság nyilvántartást vezető szervnek a kezelt adatok naprakészségének biztosítása és az elektronikus azonosításhoz szükséges adatellenőrzés érdekében a nyilvántartásában szereplő polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, állampolgárságának, nemének változásáról, az érintett nyilvántartásból való kikerülése okáról és idejéről.
+
+q) a Magyar Országos Közjegyzői Kamarának a házassági és élettársi vagyonjogi szerződések országos nyilvántartásában szereplő polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának változásáról, az érintett elhalálozása tényéről;
+
+r) a Magyar Országos Közjegyzői Kamarának az Élettársi Nyilatkozatok Nyilvántartásában szereplő polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, állampolgárságának, családi állapotának változásáról, az érintett elhalálozása tényéről.
 
 (1a) A személyiadat- és lakcímnyilvántartás szerve – kapcsolati kód alkalmazásával – adatszolgáltatási engedély alapján rendszeres adatátadást teljesít a hallgatói hitelrendszert működtető szervezet részére a hallgatói hitelt felvett polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, lakóhelyének, tartózkodási helyének változásáról, a külföldön történő letelepedésről, valamint az érintett elhalálozásáról.
 
