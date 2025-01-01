@@ -2,13 +2,13 @@
 
 (2) Az Alapítvány alapítása során az állam képviseletében az egészségbiztosításért felelős miniszter jár el.
 
-(3) Az Alapítvány – a 26. § (1) bekezdés c) pontjában foglaltak kivételével – a Magyarországon szakmailag elfogadott, de társadalombiztosítási támogatással nem rendelhető gyógyszerek, gyógyászati segédeszközök árához méltányosságból a biztosított kérelmére támogatást nyújthat. Az Alapítvány méltányossági jogköre nem terjed ki a 26. § (3) és (4) bekezdésében foglaltakra. Az Alapítvány a méltányossági jogkörében eljárva, az emberi élet és egészség védelme, valamint a társadalmi és gazdasági felelősségvállalás szellemében, nem hatósági eljárás keretében dönt a támogatás nyújtásáról vagy annak megtagadásáról.
+(3) Az Alapítvány méltányosságból támogatást nyújthat – a 26. § (1) bekezdés c) pontjában foglaltak kivételével – a Magyarországon szakmailag elfogadott, de társadalombiztosítási támogatással nem rendelhető gyógyszerek térítési díjához, valamint a Magyarországon társadalombiztosítási támogatással nem rendelhető azon gyógyászati segédeszközök árhoz, amelyek árajánlatban szereplő egy mennyiségi egységre vetített bruttó ára meghaladja a mindenkori bruttó minimálbér havi összegének kétszeresét. Az Alapítvány jogköre nem terjed ki a 26. § (3) és (4) bekezdésében foglaltakra. Az Alapítvány döntéseit az emberi élet és egészség védelme, valamint a társadalmi és gazdasági felelősségvállalás szellemében hozza meg.
 
 (4) Az Alapítvány vagyonának biztosításáról a Kormány gondoskodik, és működéséhez 2025-től kezdődően évente támogatást nyújt.
 
-(5) Az Alapítvány kezeli a mindenkori költségvetési törvényben a (3) bekezdés szerinti feladatra rendelkezésre álló előirányzatot.
+(5) Az Alapítvány (3) bekezdés szerinti feladatára rendelt vagyon a központi költségvetésből az Alapítvány céljainak finanszírozására elkülönített összeg, amelyet az Alapítvány a (3) bekezdés szerinti célból továbbadhat. Az Alapítvány az ezen forráson túl egyéb bevételeit is a (3) bekezdés szerinti célra fordítja.
 
-(6) Az Alapítvány az (5) bekezdés szerinti előirányzaton rendelkezésre álló forráson túl egyéb bevételeit is a (3) bekezdés szerinti feladatra fordítja.
+(6) A támogatás elszámolása során, a Kormány rendeletében meghatározott feltételeknek megfelelő elszámoló szervezet igénybevétele esetén az Alapítvány (3) bekezdés szerinti célja teljesítése során az általa megítélt támogatást az elszámoló szervezet felé a vele kötött megállapodásban és a Kormány rendeletében meghatározottak szerint megtéríti. Az Alapítványnak az általa megítélt támogatásról szóló döntése közokirat, amelynek tartalmát – a felhasználáshoz, elszámoláshoz szükséges mértékben és ideig – a biztosított mellett az elszámoló szervezet, valamint az Alapítvány méltányossági döntésével érintett gyógyszertár és egészségügyi szolgáltató ismerheti meg
 
 (7) Az Alapítvány közhasznú jogállással rendelkezik.
 

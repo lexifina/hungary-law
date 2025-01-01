@@ -28,9 +28,15 @@ köthető finanszírozási szerződés.
 
 a) erre külön jogszabályban foglaltak szerint jogosult, valamint
 
-b) megfelel a külön jogszabályban meghatározott személyi és tárgyi feltételeknek, így különösen a finanszírozással kapcsolatos adatkezeléssel, adatellenőrzéssel és a társadalombiztosítási támogatás elszámolásával kapcsolatos személyi és tárgyi feltételeknek, és
+b) megfelel a külön jogszabályban meghatározott személyi és tárgyi feltételeknek, így különösen a finanszírozással kapcsolatos adatkezeléssel, adatellenőrzéssel és a társadalombiztosítási támogatás elszámolásával kapcsolatos személyi és tárgyi feltételeknek,
 
 c) nem rendelkezik olyan köztartozással vagy az E. Alap felé fennálló tartozással, amely esedékességének időpontja 60 napnál régebben lejárt.
+
+d) nem áll semmilyen, egészségügyi tevékenység végzésére irányuló jogviszonyban olyan orvossal, aki a szolgáltatót működtető társaságban vezető tisztségviselő vagy abban ötven százalékot meghaladó tulajdoni hányaddal rendelkezik, és
+
+e) nem rendelkezik járóbeteg-szakellátás nyújtására vonatkozó érvényes működési engedéllyel.
+
+(2a) A (2) bekezdés szerinti szerződés nem köthető olyan szolgáltatóval, amelynek ugyanazon szolgáltatás árhoz nyújtott támogatással történő nyújtására korábban kötött szerződése legalább két alkalommal, a szolgáltató súlyos szerződésszegése miatt az egészségbiztosító által felmondásra került, a második alkalommal történő felmondástól számított 10 évig.
 
 (3) Az egészségbiztosító külön jogszabályban meghatározott esetben külön jogszabály szerinti hatósági bizonyítvánnyal rendelkező nem egészségügyi szolgáltatóval is köthet szerződést gyógyászati segédeszköz egyedi méretvétel alapján társadalombiztosítási támogatással történő gyártására, illetve ezen eszközök társadalombiztosítási támogatással történő javítására.
 

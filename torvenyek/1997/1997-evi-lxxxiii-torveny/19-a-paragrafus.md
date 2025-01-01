@@ -6,6 +6,8 @@
 
 (1c) A gyógyító-megelőző eljárások során alkalmazott egészségügyi technológiák egészségbiztosítási finanszírozásba történő előzetes befogadása iránti kérelmek esetén az egészségügyi technológiák egészségbiztosítási finanszírozásba történő befogadásának alapelveiről, feltételrendszeréről és részletes szabályairól, valamint a már befogadott technológiák körének felülvizsgálatáról és módosításáról szóló kormányrendelet alapján véleményezésre jogosult szervek az egészségbiztosító által részükre megküldött kérelmekhez kapcsolódó véleményeiket a kérelem kézhezvételétől számított 30 napon belül küldik meg a véleményt kérő egészségbiztosító részére.
 
+(1d) Az egészségbiztosító az (1) bekezdés szerinti eljárását az (1c) bekezdés szerinti vélemények beérkezéséig, legfeljebb azonban a kérelem beérkezésétől – ha hiánypótlásra került sor, a hiánypótlás teljesítésétől – számított 60 napig felfüggeszti.
+
 (2) A gyógyító-megelőző eljárások során alkalmazott egészségügyi technológiák egészségbiztosítási finanszírozásba történő befogadásához kapcsolódó egyes eljárásokért – az egészségbiztosításért felelős miniszternek az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott – igazgatási szolgáltatási díjat kell fizetni.
 
 (3)

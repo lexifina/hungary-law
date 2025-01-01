@@ -1,6 +1,6 @@
 5/C. § (1) E törvény alkalmazásában
 
-a) jövedelem: az egészségbiztosítás pénzbeli ellátásai és a baleseti táppénz összegének kiszámításánál az e törvényben meghatározott időszakra adóelőleg megállapításához az állami adóhatóságnál bevallott, társadalombiztosítási járulékalapot képező jövedelem;
+a) jövedelem: az egészségbiztosítás pénzbeli ellátásai és a baleseti táppénz összegének kiszámításánál az e törvényben meghatározott időszakra személyi jövedelemadó-előleg (a továbbiakban: adóelőleg) megállapításához az állami adóhatósághoz bevallott, társadalombiztosítási járulékalapot képező jövedelem;
 
 b) szerződés szerinti havi jövedelem:
 
@@ -19,6 +19,8 @@ c) az egészségbiztosítás pénzbeli ellátásai: a csecsemőgondozási díj, 
 d) kereset: a Tbj. 6. §-ában meghatározott jogviszonyban személyes munkavégzésért járó társadalombiztosítási járulékalapot képező jövedelem.
 
 e) egyedülálló: az, aki hajadon, nőtlen, özvegy, elvált vagy házastársától külön él, kivéve, ha élettársa van.
+
+f) hiánypótló állami szolgáltatást nyújtó magántulajdonú egészségügyi szolgáltató: olyan magántulajdonban álló egészségügyi szolgáltató, amely olyan közfinanszírozott ellátást nyújt a biztosítottak széles köre számára, amelyet állami, önkormányzati, egyházi tulajdonban vagy fenntartásban álló egészségügyi szolgáltató, vagy az egységes egészségügyi állami irányítás részét képező, a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló törvény szerinti klinikai központ nem, vagy olyan kis mértékben végez, amely nem képes az ellátást igénybe vevő biztosítottak széles körű ellátására.
 
 (2) Az 5/B. §-ban és az (1) bekezdésben meg nem határozott fogalmak tekintetében az egészségügyről szóló 1997. évi CLIV. törvény 3. §-ában foglaltakat kell alkalmazni.
 

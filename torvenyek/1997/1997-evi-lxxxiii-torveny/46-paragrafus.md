@@ -12,6 +12,8 @@ e) hatéves vagy annál idősebb, de tizenkét évesnél fiatalabb gyermek ottho
 
 (1a) Ha a biztosított szülő a gyermek ápolása címén igényel táppénzt, előzményként a gyermek előző születésnapjától a gyermek következő születésnapját megelőző napig eltöltött táppénzes napokat kell figyelembe venni.
 
+(1b) Ha az egyik szülőt egyedülállónak kell tekinteni, ugyanazon gyermekre tekintettel a másik szülő nem jogosult gyermekápolási táppénzre, kivéve azon szülőt, aki a maga vagy házastársa (élettársa) egészségi állapotára tekintettel e törvény végrehajtására kiadott kormányrendeletben foglaltak alapján egyedülállónak minősül.
+
 (2) Az (1) bekezdésben foglaltaktól eltérően a biztosított, ha részére külön törvény rendelkezése szerint betegszabadság jár, a 44. § a) és f) pontjában említett keresőképtelenség esetében táppénzre legkorábban a betegszabadságra való jogosultság lejártát követő naptól jogosult.
 
 (3)

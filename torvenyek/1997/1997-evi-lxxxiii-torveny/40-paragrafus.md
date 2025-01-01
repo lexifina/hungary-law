@@ -2,9 +2,9 @@
 
 40. § (1) Csecsemőgondozási díjra jogosult az a nő, aki a gyermeke születését megelőző két éven belül 365 napon át biztosított volt, és akinek a gyermeke
 
-a) a biztosítás tartama alatt vagy a biztosítás megszűnését követő negyvenkét napon belül születik, vagy
+a) a biztosítás tartama alatt, vagy a biztosítás megszűnését, a szünetelés kezdetét követő negyvenkét napon belül születik, vagy
 
-b) a biztosítás megszűnését követően negyvenkét napon túl baleseti táppénz folyósításának az ideje alatt vagy a folyósítás megszűnését követő huszonnyolc napon belül születik.
+b) a biztosítás megszűnését, a szünetelés kezdetét követően negyvenkét napon túl baleseti táppénz folyósításának az ideje alatt vagy a folyósítás megszűnését követő huszonnyolc napon belül születik.
 
 (1a) A szülő nő csecsemőgondozási díjra való jogosultsága legkésőbb a gyermek születésének napjával, koraszülött gyermekre tekintettel a szülési szabadság első napjával nyílik meg.
 
@@ -16,7 +16,7 @@ b) köznevelési intézmény, a szakképző intézmény vagy a felsőoktatási i
 
 c) a rehabilitációs ellátás folyósításának idejét.
 
-(3) A csecsemőgondozási díj a szülési szabadságnak megfelelő időtartamra jár. A csecsemőgondozási díj legfeljebb a gyermek születését követő 168. napig jár, kivéve a jogszabály szerint a koraszülött gyermekek esetében a szülési szabadságra vonatkozó rendelkezés alkalmazásakor. Ha a csecsemőgondozási díj iránti kérelem a szülés várható időpontját megelőző 28 napnál korábban kerül benyújtásra, akkor a kérelem elbírálására vonatkozó határidő a szülés várható időpontját megelőző 28. napon kezdődik.
+(3) A csecsemőgondozási díj a szülési szabadságnak megfelelő időtartamra jár. A csecsemőgondozási díj legfeljebb a gyermek születésének napjától számított 168 napig jár, kivéve a jogszabály szerint a koraszülött gyermekek esetében a szülési szabadságra vonatkozó rendelkezés alkalmazásakor. Ha a csecsemőgondozási díj iránti kérelem a szülés várható időpontját megelőző 28 napnál korábban kerül benyújtásra, akkor a kérelem elbírálására vonatkozó határidő a szülés várható időpontját megelőző 28. napon kezdődik.
 
 (4) Az (1) bekezdésben foglaltakon túl csecsemőgondozási díjra – az (5) bekezdésben foglaltak figyelembevételével – jogosult
 

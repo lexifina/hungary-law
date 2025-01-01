@@ -12,6 +12,14 @@
 
 (2) Az (1) bekezdésben meghatározott idő elteltével a jogalap nélkül felvett ellátást attól lehet visszakövetelni, akinek az ellátás felvétele felróható.
 
+(2a) A jogalap nélkül igénybe vett egészségügyi szolgáltatás költségét köteles megtéríteni
+
+a) a foglalkoztató és egyéb bejelentésre kötelezett szerv, ha az egészségügyi szolgáltatás jogalap nélküli igénybevétele, a biztosítási jogviszony megszűnésére, szünetelésére vonatkozóan az egészségbiztosítás jogviszony-nyilvántartásába történő bejelentés elmulasztásának, késedelmes teljesítésének, vagy a valóságtól eltérő adatszolgáltatásának a következménye,
+
+b) az egészségügyi szolgáltatást igénybe vett magánszemély, ha a magánszemély vagy törvényes képviselője valótlan nyilatkozata alapján szerez jogosultságot térítésmentes egészségügyi szolgáltatásokra, és utólag megállapítják, hogy nem Magyarországon volt jogosult térítésmentes egészségügyi szolgáltatásra.
+
+(2b) A (2a) bekezdés szerinti esetben az érintett szerv vagy személy a (2a) bekezdésben meghatározott körülménynek az egészségbiztosítási szerv általi tudomásszerzésétől számított öt éven belül kötelezhető az egészségügyi szolgáltatás költségének megtérítésére. Nincs helye megtérítésnek, ha az érintett egészségügyi szolgáltatás nyújtásától számított 15 év már eltelt.
+
 (3) A foglalkoztató és egyéb szerv, valamint az egészségügyi szolgáltató köteles megtéríteni a jogalap nélkül felvett ellátást, ha az ellátás jogalap nélküli megállapítása, illetőleg folyósítása mulasztásának vagy a valóságtól eltérő adatszolgáltatásának a következménye és az ellátást az (1) bekezdés alapján visszakövetelni nem lehet.
 
 (4) Ha az ellátás jogalap nélküli megállapításáért, illetőleg felvételéért a foglalkoztatót vagy egyéb szervet vagy egészségügyi szolgáltatót és az ellátásban részesülőt is felelősség terheli, a jogalap nélkül felvett ellátást közrehatásuk arányában kötelesek megtéríteni, illetőleg visszafizetni. Ha a közrehatások aránya nem állapítható meg, a felelősöket egyenlő arányban kell megtérítésre, illetőleg visszafizetésre kötelezni.

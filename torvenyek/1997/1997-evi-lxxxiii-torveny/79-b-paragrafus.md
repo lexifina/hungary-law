@@ -63,3 +63,5 @@ g) tárgyhónapra összesítve a korábban már elszámolt ellátásokkal össze
 (8) A (4)–(7) bekezdéstől eltérően a polgári nemzetbiztonsági szolgálatok az egészségbiztosító részére az általuk megállapított és folyósított pénzbeli egészségbiztosítási ellátásokról és baleseti táppénzről kizárólag összesített elszámolási adatokra vonatkozó adatszolgáltatást teljesítenek. Az adatszolgáltatást a polgári nemzetbiztonsági szolgálatok papíralapon, minden hónap 20. napjáig kötelesek teljesíteni.
 
 (9) Az (1) bekezdés szerinti nyilvántartásba felvett adatok igénylésére alkalmazni kell a 79. § (3)–(6) bekezdését.
+
+(10) A (4) bekezdés szerinti kifizetőhellyel rendelkező foglalkoztató alatt a Magyar Honvédség vonatkozásában a Magyar Honvédség központi pénzügyi és számviteli feladatokat ellátó szervét kell érteni.

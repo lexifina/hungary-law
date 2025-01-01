@@ -6,11 +6,13 @@ a) a 66. § szerinti visszafizetésre kötelező határozattal, illetve megtér�
 
 b) a 67–68. § szerinti megtérítésre kötelező fizetési meghagyással,
 
-c) a 68/B. § szerinti megtérítésre kötelező határozattal
+c) a 68/B. § szerinti megtérítésre kötelező határozattal,
+
+d) a 68/C. § szerinti megtérítésre kötelező fizetési meghagyással
 
 érvényesíti. A fizetési meghagyás hatósági határozat.
 
-(2) A 66–68. §-on alapuló követelés a felvett ellátás kifizetésétől, illetőleg az egészségügyi vagy baleseti egészségügyi szolgáltatás igénybevételétől számított öt éven belül, míg a 68/B. §-on alapuló követelés a gyógyszerhez, gyógyászati segédeszközhöz vagy gyógyászati ellátáshoz nyújtott támogatás igénybevételétől számított öt éven belül érvényesíthető. Ha a követelésre alapot adó magatartás a bíróság jogerős ítélete szerint bűncselekmény, a 66–68. §-on alapuló követelés öt éven túl, a 68/B. §-on alapuló követelés pedig öt éven túl is érvényesíthető mindaddig, amíg a büntethetőség el nem évül.
+(2) A 66–68. §-on alapuló követelés a felvett ellátás kifizetésétől, illetőleg az egészségügyi vagy baleseti egészségügyi szolgáltatás igénybevételétől számított öt éven belül, míg a 68/B. §-on alapuló követelés a gyógyszerhez, gyógyászati segédeszközhöz vagy gyógyászati ellátáshoz nyújtott támogatás igénybevételétől, valamint a 68/C. §-on alapuló követelés az egészségügyről szóló 1997. évi CLIV. törvény 3. § i) pontja szerinti sürgős szükség fennállása miatt igénybe vett egészségügyi szolgáltatástól számított öt éven belül érvényesíthető. Ha a követelésre alapot adó magatartás a bíróság jogerős ítélete szerint bűncselekmény, a 66–68. §-on alapuló követelés öt éven túl, a 68/B. §-on alapuló követelés pedig öt éven túl is érvényesíthető mindaddig, amíg a büntethetőség el nem évül.
 
 (3) A jogalap nélkül felvett pénzbeli ellátás és baleseti táppénz visszafizetésére kötelező határozatot az a szerv hozza, amely az ellátást megállapította. A 66. §-on alapuló megtérítésre kötelező fizetési meghagyást az egészségbiztosító, vagy a vasutas egészségbiztosítási szerv hozza. Ez utóbb említett igazgatási szerv rendelkezik hatáskörrel a visszafizetésre kötelező határozat meghozatalára is, ha a visszafizetési kötelezettség mellett a foglalkoztató vagy egyéb szerv (személy) megtérítési kötelezettsége is megállapítható.
 
