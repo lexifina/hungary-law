@@ -1,5 +1,5 @@
 ## 26. A babaváró támogatásról szóló 44/2019. (III. 12.) Korm. rendelet módosítása
 
-34. §[^36]
+34. §[^38]
 
-[^36]: A 34. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^38]: A 34. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
