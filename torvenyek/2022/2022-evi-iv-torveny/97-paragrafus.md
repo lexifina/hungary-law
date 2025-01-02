@@ -4,6 +4,4 @@
 
 (2)
 
-(3) A Bnytv. 68. § (1) bekezdés g) pontja helyébe a következő rendelkezés lép:
-
-[Elektronikus úton, egyedi informatikai alkalmazás igénybevételével közvetlen adathozzáféréssel (a továbbiakban: közvetlen hozzáférés) a bűnügyi nyilvántartási rendszerben kezelt adatok teljes körét jogosult átvenni]
+(3)
