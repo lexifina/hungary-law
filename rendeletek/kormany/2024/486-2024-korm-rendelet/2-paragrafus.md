@@ -1,1 +1,3 @@
-2. § A helyi esélyegyenlőségi programok elkészítésének szabályairól és az esélyegyenlőségi mentorokról szóló 321/2011. (XII. 27.) Korm. rendelet 5. § (1) bekezdés a) pontjában a „kirekesztődés felszámolása” szövegrész helyébe a „kirekesztődés megelőzése, felszámolása” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
