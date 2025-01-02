@@ -1,1 +1,3 @@
-16. § Hatályát veszti a kormányablakok személyi és technikai feltételeiről szóló 39/2013. (XII. 30.) KIM rendelet.
+16. §[^1]
+
+[^1]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
