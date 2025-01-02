@@ -1,3 +1,3 @@
-6. § A HHSZ 87. § (1a) bekezdése helyébe a következő rendelkezés lép:
+6. §[^7]
 
-„(1a) Az Országgyűlés tisztségviselőjének, valamint az állandó bizottság és a törvényalkotási bizottság elnökének, alelnökének és tagjának megválasztására, a személyükre vonatkozó változásra, illetve a megüresedett hely betöltésére irányuló képviselőcsoport-vezetői indítványokat, továbbá a nemzetiségeket képviselő bizottság elnökének és alelnökének megválasztására, a személyükre vonatkozó változásra, illetve a megüresedett hely betöltésére irányuló nemzetiségi képviselői és nemzetiségi szószólói indítványokat – az alakuló ülésen történő megválasztás kivételével – legkésőbb azon ülésnap megnyitása előtt egy órával kell megküldeni a házelnöknek, amely ülésnap tervezett vagy elfogadott napirendjén az (1) bekezdés szerinti határozati javaslat szerepel.”
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

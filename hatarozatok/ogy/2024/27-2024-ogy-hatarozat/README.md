@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-27-30-4
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2025-01-01 | 2024-27-30-41.1 | 27/2024. (XII. 20.) OGY határozat |
+| 2025-01-02 | 2024-27-30-41.2 | 2010. évi CXXX. törvény |

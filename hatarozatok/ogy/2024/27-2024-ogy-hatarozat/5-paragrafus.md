@@ -1,3 +1,3 @@
-5. § A HHSZ 76. § (14) bekezdése helyébe a következő rendelkezés lép:
+5. §[^6]
 
-„(14) A normakontroll-javaslat előterjesztője az elfogadott normakontroll-javaslatban foglalt szövegszerű indítványt – kézjegyével ellátva – legkésőbb az elfogadását követő napon megküldi a házelnöknek.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
