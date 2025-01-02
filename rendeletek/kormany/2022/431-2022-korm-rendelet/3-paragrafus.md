@@ -1,1 +1,3 @@
-3. § Nem lép hatályba az egyes közlekedési tárgyú kormányrendeletek módosításáról szóló 394/2022. (X. 19.) Korm. rendelet 19. §-a és 20. §-a.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
