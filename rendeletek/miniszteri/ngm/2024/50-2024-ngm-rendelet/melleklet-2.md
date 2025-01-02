@@ -1,11 +1,3 @@
-2. melléklet az 50/2024. (XII. 23.) NGM rendelethez
+2. melléklet az 50/2024. (XII. 23.) NGM rendelethez[^7]
 
-A Rendelet 3. melléklete a következő VIII. ponttal egészül ki:
-
-„VIII. Tulajdonosi joggyakorló: IdomSoft Informatikai Zártkörűen Működő Részvénytársaság
-
-|  | A | B | C |
-
-|  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
-
-| 1. | Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság | 01-09-996479 | 2026. december 31. |
+[^7]: A 2. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
