@@ -1,3 +1,3 @@
-2. § A Rendelet 3. §-a a következő (1c) bekezdéssel egészül ki:
+2. §[^3]
 
-„(1c) Az (1) bekezdéstől eltérően, az ingatlanra alapított jelzálogjog fedezete mellett nyújtott forinthitelnél és pénzügyi lízingnél a kitettség hitelkérelem elbíráláskori értéke nem haladhatja meg az ingatlan forgalmi értékének 90%-át, amennyiben a hitelcél a fedezetként szolgáló energetikailag hatékony lakás vásárlása, építése vagy a fedezetként szolgáló lakás energiamegtakarítási célú felújítása.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

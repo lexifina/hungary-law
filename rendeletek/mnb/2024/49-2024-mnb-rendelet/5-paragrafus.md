@@ -1,7 +1,3 @@
-5. § A Rendelet
+5. §[^6]
 
-a) 6. § (5) bekezdés nyitó szövegrészében a „(3) és a (4)” szövegrész helyébe a „(3)–(4a)” szöveg,
-
-b) 6. § (5) bekezdés a) pontjában az „alkalmazza valamely alpontot” szövegrész helyébe az „állapítja meg a JTM maximális értékét” szöveg
-
-lép.
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
