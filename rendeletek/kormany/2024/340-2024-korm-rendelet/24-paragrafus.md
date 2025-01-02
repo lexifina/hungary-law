@@ -1,1 +1,3 @@
-24. § Az R8. 6. § d) pontjában a „24/E. § (4) bekezdése” szövegrész helyébe a „24/E. §-a” szöveg lép.
+24. §[^25]
+
+[^25]: A 24. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

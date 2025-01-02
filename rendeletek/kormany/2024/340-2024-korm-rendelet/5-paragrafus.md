@@ -1,1 +1,3 @@
-5. § Az R2. 1. melléklet címében és 1. mellékletében az „a 2004/12/EK irányelvvel módosított 95/50/EK irányelv szerint” szövegrész helyébe az „a 2022/1999 európai parlamenti és tanácsi irányelv” szöveg lép.
+5. §[^6]
+
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

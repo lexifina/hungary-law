@@ -1,7 +1,3 @@
-2. § Az R.
+2. §[^3]
 
-a) 3. § (7b) bekezdésében az „öt évig” szövegrész helyébe a „hét évig” szöveg,
-
-b) 5. § (12) bekezdésében az „öt” szövegrész helyébe a „tíz” szöveg
-
-lép.
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

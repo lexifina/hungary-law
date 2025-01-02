@@ -1,1 +1,3 @@
-3. § Hatályát veszti az R. 5. § (17) bekezdésében és 6. § (5) bekezdés a) pontjában az „első fokon eljáró” szövegrész.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

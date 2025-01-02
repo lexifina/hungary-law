@@ -1,3 +1,5 @@
 ## 3. A felszíni vizek minősége védelmének szabályairól szóló 220/2004. (VII. 21.) Korm. rendelet módosítása
 
-6. § A felszíni vizek minősége védelmének szabályairól szóló 220/2004. (VII. 21.) Korm. rendelet 34. § (3) bekezdés b) pontjában az „az elsőfokú” szövegrész helyébe az „a” szöveg lép.
+6. §[^7]
+
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
