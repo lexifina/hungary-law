@@ -1,5 +1,5 @@
 ## 2. A magyarországi gazdasági társaságok gazdasági célú védelméhez szükséges egyes rendelkezések veszélyhelyzet ideje alatti eltérő alkalmazásáról szóló 561/2022. (XII. 23.) Korm. rendelet módosítása
 
-2. § A magyarországi gazdasági társaságok gazdasági célú védelméhez szükséges egyes rendelkezések veszélyhelyzet ideje alatti eltérő alkalmazásáról szóló 561/2022. (XII. 23.) Korm. rendelet [a továbbiakban: 561/2022. (XII. 23.) Korm. rendelet] 10/A. § (1) bekezdése helyébe a következő rendelkezés lép:
+2. §[^3]
 
-„(1) Amennyiben a 3. § (1) bekezdés a) pontja szerinti, valamint a 3. § (2) és (3) bekezdésében foglalt eredménnyel járó adásvételi jogügylet az 1. mellékletben foglalt táblázat 21. sorában meghatározott ágazaton belül a 35.12 Villamosenergia-termelés megújuló forrásból TEÁOR’25 kódú – fő vagy további tevékenységi körként – bejegyzett, naperőműre vonatkozó tevékenységgel rendelkező stratégiai társaság tekintetében jött létre, a jogügylet tudomásulvétele iránti bejelentés elbírálására a (2)–(8) bekezdésben foglalt rendelkezéseket is alkalmazni kell.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
