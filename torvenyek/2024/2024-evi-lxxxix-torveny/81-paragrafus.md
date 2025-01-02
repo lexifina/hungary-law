@@ -1,3 +1,1 @@
-81. § A villamos energiáról szóló 2007. évi LXXXVI. törvény 119/F. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) Az (1) bekezdésben meghatározottak mellett a miniszter az e törvény végrehajtására kiadott rendeletében meghatározott feltételek teljesülése esetén a megújuló energiát hasznosító erőművi beépített kapacitás növelése érdekében könnyített térséget jelölhet ki új hálózati infrastruktúra és villamosenergia-tároló létesítése céljából. A hálózati infrastruktúra és a villamosenergia-tároló létesítése céljából kijelölt könnyített térségben a hálózati infrastruktúra és a villamosenergia-tároló környezetvédelmi, természetvédelmi és építési engedélyezési eljárása során az e törvény végrehajtására kiadott rendeletben meghatározott szabályokat kell alkalmazni.”
+### 81. §

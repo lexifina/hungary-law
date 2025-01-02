@@ -1,9 +1,1 @@
-45. § A villamos energiáról szóló 2007. évi LXXXVI. törvény „Közvilágítás” alcíme a következő 34/D. §-sal egészül ki:
-
-„34/D. § (1) Az elosztó és a közvilágításra kötelezett vagy az e kötelezettséget átvállaló személy, valamint a közvilágítási berendezés tulajdonosa együttműködnek az elosztó hálózat tartószerkezetein és létesítményeiben elhelyezett közvilágítási berendezésnek a közvilágításra kötelezett vagy az e kötelezettséget átvállaló személy által korszerűsítés céljából kezdeményezett cseréje esetén.
-
-(2) Az elosztó és a közvilágítási berendezés tulajdonosa az elosztó hálózat tartószerkezetein és létesítményeiben elhelyezett, saját tulajdonú közvilágítási berendezés a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao tv.) szerinti számított nyilvántartási értékét a közvilágításra kötelezett vagy az e kötelezettséget átvállaló személy kérésére megadja. Ha a közvilágításra kötelezett vagy az e kötelezettséget átvállaló személy a megadott értéket vitatja, akkor az elosztó vagy a közvilágítási berendezés tulajdonosa a Tao tv. szerinti számított nyilvántartási értéket könyvvizsgálói hitelesítéssel alátámasztva adja meg.
-
-(3) Az elosztó és a közvilágítási berendezés tulajdonosa a cserélni tervezett berendezést a közvilágításra kötelezett vagy az e kötelezettséget átvállaló személy az elosztó hálózat tartószerkezetein és létesítményeiben elhelyezett közvilágítási berendezésnek a korszerűsítés céljából kezdeményezett cseréje esetén a (2) bekezdés szerinti értéken adja át.
-
-(4) A közvilágítási berendezések átruházása vagy cseréje esetén a közvilágításra kötelezett és az elosztó együttműködésének és a vagyon nyilvántartásának és elszámolásának szabályaira vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg.”
+### 45. §

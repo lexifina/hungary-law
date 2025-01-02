@@ -1,3 +1,1 @@
-8. § A bányászatról szóló 1993. évi XLVIII. törvény 12. §-a a következő (2a) bekezdéssel egészül ki:
-
-„(2a) Nem szükséges a koncessziós szerződéssel megállapított kutatási munkaprogram módosítása, ha a koncesszió jogosultja a kutatási munkaprogramban foglalt kutatási feladatokat meghaladó, többlet kutatási tevékenységet vállal a kutatási időszak hosszabbítása nélkül, és a bányafelügyelet a többlet kutatási feladatok végrehajtását a kutatási műszaki üzemi terv módosításával jóváhagyja. A bányafelügyelet határozatának véglegessé válásával a többlet kutatási feladatok automatikusan, a koncesszióba adó külön jóváhagyása nélkül a kutatási munkaprogram részévé válnak.”
+### 8. §

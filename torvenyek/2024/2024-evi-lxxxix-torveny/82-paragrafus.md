@@ -1,11 +1,1 @@
-82. § (1) A villamos energiáról szóló 2007. évi LXXXVI. törvény 123. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A közcélú hálózat idegen ingatlanon történő elhelyezésére a hálózati engedélyes javára a Hatóság vezetékjogot engedélyezhet, ha az a közcélú hálózat szükséges fejlesztése érdekében indokolt és az ingatlan használatát lényegesen nem akadályozza. A Hatóság az engedélyezési eljárást a hálózati engedélyes kérelmére felfüggeszti a kérelemben jelzett körülmény fennállásáig, de legfeljebb a kérelem benyújtásától számított 6 hónapig. Ha a közcélú hálózat létesítése termőföld időleges vagy végleges más célú hasznosításával valósítható meg, a vezetékjogot engedélyező, vagy a hálózat közcélúságát megállapító hatósági határozat pótolja a tulajdonos, illetve haszonélvezet fennállása esetén a haszonélvező termőföld más célú hasznosításához hozzájáruló nyilatkozatát.”
-
-(2) A villamos energiáról szóló 2007. évi LXXXVI. törvény 123. § (3b) bekezdése helyébe a következő rendelkezés lép:
-
-„(3b) A hatósági vezetékjogi engedélyezési eljárást megelőző előkészítő eljárás során a nyomvonal-kijelölési dokumentációt az érintett hatóságok, szakhatóságok, valamint a nyomvonallal és a biztonsági övezettel érintett közművek, kezelők, üzemeltetők, ingatlantulajdonosok és vagyonkezelők részére kell megküldeni. A nyomvonallal és a biztonsági övezettel érintett közművek, kezelők, üzemeltetők, ingatlantulajdonosok és vagyonkezelők a megküldött nyomvonal-kijelölési dokumentációval és a tervezett közcélú hálózat létesítésével kapcsolatos nyilatkozatuk, hozzájárulásuk kiadása kapcsán ügyintézési vagy egyéb díj, illetve költség megfizetését nem kérhetik.”
-
-(3) A villamos energiáról szóló 2007. évi LXXXVI. törvény 123. §-a következő (6) bekezdéssel egészül ki:
-
-„(6) Ha a 116. § (3) bekezdés d) pontja szerinti villamosmű és annak biztonsági övezete kizárólag közterületet, illetve a csatlakozó berendezéssel ellátott ingatlant érinti, a csatlakozó berendezéssel ellátott magánterületi ingatlan vonatkozásában a (2) bekezdés szerinti hozzájárulással keletkező vezetékjog létrejöttét nem kell a Hatóságnak megállapítania, és ezt a vezetékjogot nem kell az ingatlan-nyilvántartásba bejegyezni. A vezetékjog a tulajdonosi hozzájárulás kiadásától az ingatlan-nyilvántartási bejegyzés nélkül is létrejöttnek és fennállónak minősül, és a csatlakozó berendezéssel ellátott ingatlan mindenkori tulajdonosát terheli, aki a vezetékjog hálózati engedélyes általi gyakorlását az ingatlan-nyilvántartási bejegyzés hiányában is tűrni köteles.”
+### 82. §
