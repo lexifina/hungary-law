@@ -1,1 +1,3 @@
-22. § Hatályát veszti az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendelet 15. melléklet B351. pont b) pontja.
+22. §[^23]
+
+[^23]: A 22. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

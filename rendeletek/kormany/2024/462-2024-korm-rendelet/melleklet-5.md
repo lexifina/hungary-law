@@ -1,3 +1,3 @@
-5. melléklet a 462/2024. (XII. 30.) Korm. rendelethez[^23]
+5. melléklet a 462/2024. (XII. 30.) Korm. rendelethez[^46]
 
-[^23]: Az 5. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^46]: Az 5. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

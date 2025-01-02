@@ -1,5 +1,5 @@
 ## 6. A Magyar Államkincstárról szóló 310/2017. (X. 31.) Korm. rendelet módosítása
 
-26. §[^17]
+26. §[^27]
 
-[^17]: A 26. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 26. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

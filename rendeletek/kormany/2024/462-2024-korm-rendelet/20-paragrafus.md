@@ -1,3 +1,3 @@
-20. § Az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendelet 54. § (3) bekezdése helyébe a következő rendelkezés lép:
+20. §[^21]
 
-„(3) A bevételi és kiadási előirányzatok nyilvántartási számláit a központi alrendszerben az elemi költségvetés jóváhagyását, az önkormányzati alrendszerben a költségvetési rendelet vagy határozat elfogadását követően kell megnyitni.”
+[^21]: A 20. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

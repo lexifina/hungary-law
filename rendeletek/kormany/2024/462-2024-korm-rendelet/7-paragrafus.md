@@ -1,3 +1,3 @@
-7. §[^4]
+7. §[^8]
 
-[^4]: A 7. § a 41. § (3) bekezdése alapján 2026. január 1-jén lép hatályba.
+[^8]: A 7. § a 210/2025. (VII. 17.) Korm. rendelet 8. §-a alapján nem lép hatályba.
