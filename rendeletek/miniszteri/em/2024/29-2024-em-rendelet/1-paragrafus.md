@@ -1,1 +1,3 @@
-1. § Hatályát veszti a légszennyezettségi agglomerációk és zónák kijelöléséről szóló 4/2002. (X. 7.) KvVM rendelet módosításáról szóló 8/2010. (III. 31.) KvVM rendelet.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
