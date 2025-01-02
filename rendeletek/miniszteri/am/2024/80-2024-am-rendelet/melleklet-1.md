@@ -1,7 +1,3 @@
-1. melléklet a 80/2024. (XII. 31.) AM rendelethez
+1. melléklet a 80/2024. (XII. 31.) AM rendelethez[^7]
 
-A Vhr. 12. melléklete a következő 4a. ponttal egészül ki:
-
-(Horgászati, halászati tevékenységekhez kapcsolódó díjak)
-
-„4a. Az elektronikus fogási napló igénylése díjmentes”
+[^7]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

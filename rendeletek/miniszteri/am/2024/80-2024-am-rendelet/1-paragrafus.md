@@ -1,3 +1,3 @@
-1. § A halgazdálkodás és a halvédelem egyes szabályainak megállapításáról szóló 133/2013. (XII. 29.) VM rendelet (a továbbiakban: Vhr.) 17. § (18) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(18) A fogási tanúsítvány 12. melléklet szerinti díját negyedévente, a tárgynegyedévet követő hónap 20. napjáig a 13. melléklet 2. pontjában meghatározott, a halgazdálkodási hatóság illetékességi területe szerinti vármegyei kormányhivatal számlájára kell befizetni. Az illetékes vármegyei kormányhivatal a díjat negyedévente, a tárgynegyedévet követő hónap 20. napjáig átutalja a 13. melléklet 1. pontjában meghatározott fizetési számlaszámra.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
