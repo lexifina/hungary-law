@@ -1,3 +1,3 @@
-3. § A Vhr. 2/P. § (4) bekezdése helyébe a következő rendelkezés lép:
+3. §[^3]
 
-„(4) A kivezetésre szánt állami vagyon értékesítésével összefüggő további szabályokat az MNV Zrt. az értékesítési szabályzatában állapítja meg. Az értékesítési szabályzatot az MNV Zrt. Igazgatósága fogadja el.”
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

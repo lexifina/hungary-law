@@ -1,7 +1,5 @@
 ## 5. Az egyes földügyi eljárások részletes szabályairól szóló 384/2016. (XII. 2.) Korm. rendelet módosítása
 
-13. § Hatályát veszti az egyes földügyi eljárások részletes szabályairól szóló 384/2016. (XII. 2.) Korm. rendelet
+13. §[^13]
 
-a) 15. § (1) bekezdés d) pontja és
-
-b) 15. § (5) bekezdésében az „és az MVH” szövegrész.
+[^13]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
