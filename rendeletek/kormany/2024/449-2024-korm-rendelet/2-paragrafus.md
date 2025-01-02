@@ -1,3 +1,3 @@
-2. § A 76/2018. (IV. 20.) Korm. rendelet 4. § (2) bekezdése helyébe a következő rendelkezés lép:
+2. §[^3]
 
-„(2) A társkártyával rendelkező közeli hozzátartozót – az Aktív Magyarok keretösszegre felhasználható alszámla kivételével – a munkavállalóval megegyező jogosultságok illetik meg a Széchenyi Pihenő Kártya juttatásként utalt pénzeszköz felett.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

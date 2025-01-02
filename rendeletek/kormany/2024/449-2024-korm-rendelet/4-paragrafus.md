@@ -1,7 +1,3 @@
-4. § A 76/2018. (IV. 20.) Korm. rendelet
+4. §[^5]
 
-a) 2. § (1) bekezdésében az „(1) bekezdése” szövegrész helyébe az „(1) és (1a) bekezdése” szöveg,
-
-b) 8. § (1) bekezdésében az „egyenlegének internetes” szövegrész helyébe az „egyenlegének számlánkénti internetes” szöveg
-
-lép.
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

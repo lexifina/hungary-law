@@ -1,5 +1,3 @@
-1. § A Széchenyi Pihenő Kártya kibocsátásának és felhasználásának szabályairól szóló 76/2018. (IV. 20.) Korm. rendelet [a továbbiakban: 76/2018. (IV. 20.) Korm. rendelet] 3. §-a a következő (2) és (2a) bekezdéssel egészül ki:
+1. §[^2]
 
-„(2) A korlátozott rendeltetésű fizetési számlához kapcsolódóan külön alszámlán kell nyilvántartani az Szja tv. 71. § (1a) bekezdése szerinti Aktív Magyarok keretösszegre felhasználható juttatást, azzal, hogy az alszámlára utalt pénzeszköz az 5. § (1) bekezdésében meghatározott szolgáltatások felhasználását biztosító számlára, valamint ezen utóbbi számlára utalt pénzeszköz az alszámlára nem utalható át, azokat kizárólag a munkáltató általi utalásban megjelölt számlán lehet nyilvántartani, és csak a számlának megfelelő szolgáltatás ellenértékének megfizetésére lehet felhasználni.
-
-(2a) A munkáltató – az Szja tv. 71. § (1a) bekezdése szerinti juttatásként – az Aktív Magyarok alszámlára naptári félévenként legfeljebb 60 ezer forint összegű juttatást utalhat a munkavállaló részére. Az esedékes félévi juttatás további feltétele, hogy a munkavállaló nyilatkozik a munkáltatója számára arról, hogy az Aktív Magyarok alszámlájára az Szja. tv. 71. § (1a) bekezdése alapján előző naptári félévben utalt pénzösszeg nyolcvan százalékát már elköltötte.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
