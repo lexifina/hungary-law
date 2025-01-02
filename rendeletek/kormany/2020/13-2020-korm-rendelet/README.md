@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-13-20-2
 | 2021-03-01 | 2020-13-20-22.8 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2021-03-02 | 2020-13-20-22.9 | 2010: CXXX. törvény |
 | 2025-01-01 | 2020-13-20-22.10 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2025-01-02 | 2020-13-20-22.11 | 2010: CXXX. törvény |

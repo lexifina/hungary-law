@@ -1,5 +1,5 @@
-## 41. §[^41]
+## 41. §[^42]
 
 ## 36. A Magyar Népköztársaság Kormánya és az Iraki Köztársaság Kormánya között Budapesten, 1959. évi április hó 11. napján aláírt kulturális egyezmény kihirdetéséről szóló 110/2008. (IV. 30.) Korm. rendelet módosítása
 
-[^41]: A 41. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^42]: A 41. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
