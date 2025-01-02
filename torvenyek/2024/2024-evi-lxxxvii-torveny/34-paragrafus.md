@@ -1,3 +1,1 @@
-34. § Az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény 28. §-a helyébe a következő rendelkezés lép:
-
-„28. § A kibocsátási egység, mint forgalomképes vagyoni értékű jog az állami vagyonból történő kikerülést követően szabadon átruházható az EGT-megállapodásban részes államokban lakóhellyel rendelkező természetes személyek, székhellyel rendelkező jogi személyek, jogi személyiséggel nem rendelkező szervezetek között, illetve olyan, harmadik állambeli természetes és jogi személyek, jogi személyiséggel nem rendelkező szervezetek között, amelyek harmadik állama elismeri az e törvénynek megfelelően létrejött kibocsátási egységeket.”
+### 34. §

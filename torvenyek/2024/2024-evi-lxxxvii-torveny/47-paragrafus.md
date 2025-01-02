@@ -2,46 +2,46 @@
 
 1.
 
-2. 2. § 9. pontja,
+2.
 
-3. 2. § 12. és 13. pontja,
+3.
 
-4. 2. § 21. pontja,
+4.
 
-5. 2. § 28. pontja,
+5.
 
-6. 2. § 29. pont a) alpontja,
+6.
 
 7.
 
-8. 2. § 39–41. pontja,
+8.
 
-9. 2. § 44. és 45. pontja,
+9.
 
-10. 9. § (3) bekezdésében az „új létesítményrész jelentéssel,” szövegrész,
+10.
 
-11. 18. §-a,
+11.
 
-12. 6/A. alcíme,
+12.
 
-13. 6/B. alcíme,
+13.
 
-14. 19. §-a,
+14.
 
-15. 25. § (3) bekezdése,
+15.
 
-16. 10. alcíme,
+16.
 
-17. 33. § (1) bekezdésében a „légiközlekedési” szövegrész,
+17.
 
-18. 33. § (4) bekezdés a) pontjában az „és tonnakilométer-adatokat tartalmazó jelentést” szövegrész,
+18.
 
-19. 36. § (3) bekezdése,
+19.
 
-20. 16. alcím címében a „2020-ig tartó” szövegrész,
+20.
 
-21. 38. §-a,
+21.
 
-22. 39. § (1) bekezdés 5. pontja,
+22.
 
-23. 39. § (1) bekezdés 31. pontja.
+23.

@@ -1,3 +1,1 @@
-33. § Az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény 26. §-a helyébe a következő rendelkezés lép:
-
-„26. § A miniszter a kibocsátási egységek állam általi, árverés útján történő értékesítéséből származó, a 2003/87/EK európai parlamenti és tanácsi irányelv 10. cikk (3) bekezdésében meghatározott céloknak megfelelő felhasználásáról a Kormány által meghatározott prioritások alapján, az Energia- és klímapolitikai modernizációs rendszer előirányzat keretében, a fejezeti kezelésű előirányzatok felhasználásának szabályairól szóló miniszteri rendelet szerint gondoskodik.”
+### 33. §

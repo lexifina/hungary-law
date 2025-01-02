@@ -1,5 +1,1 @@
-## „32. végsőenergia-fogyasztás: az ipar, a közlekedés – ideértve a nemzetközi légi közlekedés energiafogyasztását is –, a háztartások, a köz- és magánszolgáltatások, a mezőgazdaság, az erdészet, a halászat és egyéb végfelhasználói ágazatok számára szolgáltatott energia összessége, amely nem foglalja magában a nemzetközi vízi közlekedés energiafogyasztását, a környezeti energiát, az energiaátalakítási ágazatnak és az energiaágazatnak történő szállítást, valamint a szállítási és elosztási veszteségeket az 1099/2008/EK európai parlamenti és tanácsi rendelet A. mellékletében meghatározottak szerint;”
-
-49. § Az energiahatékonyságról szóló 2015. évi LVII. törvény 9. §-a helyébe a következő rendelkezés lép:
-
-„9. § A felújítási kötelezettség alá eső kormányzati épületekről nyilvántartást kell vezetni, amely tartalmazza az épületek négyzetméterben kifejezett alapterületét, energetikai tanúsítványát, valamint ha ezen adatok rendelkezésre állnak, a fűtés, a hűtés, a villamos energia és a meleg víz mért éves energiafogyasztását. A nyilvántartást közzé kell tenni az energiapolitikáért felelős miniszter által vezetett minisztérium honlapján.”
+### 49. §

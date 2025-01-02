@@ -2,15 +2,15 @@
 
 22. § Hatályát veszti az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve végrehajtási keretrendszeréről szóló 2007. évi LX. törvény
 
-a) 5. § (4) és (5) bekezdése,
+a)
 
-b) 8. §-a,
+b)
 
-c) 9. § (4) bekezdése,
+c)
 
-d) 9. § (7) és (8) bekezdése,
+d)
 
-e) 10. §-a,
+e)
 
 f)
 
@@ -20,7 +20,7 @@ h)
 
 i)
 
-j) 14. § (5) bekezdés e) pontja,
+j)
 
 k)
 

@@ -1,3 +1,1 @@
-35. § Az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény 30/A. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az állam tulajdonában lévő kibocsátási egységek és a 38/A. § (1) bekezdésben meghatározott ESR-egységek nyilvántartására szolgáló számlák kivételével nem lehet a forgalmi jegyzékben vezetett számla tulajdonosa, meghatalmazott képviselője, illetve további meghatalmazott képviselője olyan személy, aki munkakörének ellátása során a forgalmi jegyzék kezeléséhez kapcsolódó feladatokat lát el.”
+### 35. §
