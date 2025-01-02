@@ -92,3 +92,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-31-00-00
 | 2024-09-01 | 2024. évi XXX. törvény | 1997-31-00-00.124 |
 | 2024-12-21 | 2024. évi LXXIV. törvény | 1997-31-00-00.128 |
 | 2025-01-01 | 2024. évi LXXVI. törvény | 1997-31-00-00.127 |
+| 2025-01-02 | 2024. évi LXXIV. törvény | 1997-31-00-00.129 |
