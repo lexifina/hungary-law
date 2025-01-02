@@ -1,3 +1,3 @@
-5. § Az R2. 8. §-a a következő (4) bekezdéssel egészül ki:
+5. §[^6]
 
-„(4) A Szolgáltatóközpont az egyes egészségbiztosítási tárgyú kormányrendeletek módosításáról szóló 293/2024. (X. 9.) Korm. rendelettel megállapított 2/A. § szerinti közszolgáltatást a rendelkezésre álló kapacitások függvényében ütemezetten, legkésőbb 2026. január 1-jétől biztosítja azon igénybevevők részére, akik 2024. december 31-én nem a Szolgáltatóközpont által biztosított kórházi információs rendszert használják. Az egyes igénybevevőket az igénybevétel megkezdését megelőző legalább 60 nappal korábban az egészségügyért felelős miniszter a honlapján közzéteszi.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
