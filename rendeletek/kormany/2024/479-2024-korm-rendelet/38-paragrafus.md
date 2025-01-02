@@ -1,3 +1,3 @@
-38. § A polgári célú pirotechnikai tevékenységekről szóló 173/2011. (VIII. 24.) Korm. rendelet 79. § (2) bekezdése helyébe a következő rendelkezés lép:
+38. §[^24]
 
-„(2) A bírságfizetési kötelezettség az eljáró hatóság végleges határozatában megjelölt, a Magyar Államkincstár által e célra létrehozott központosított beszedési számlaszámra történő átutalás vagy az Elektronikus Fizetési és Elszámolási Rendszer (EFER) felhasználásával történő internetes bankkártyás fizetés (VPOS) útján teljesíthető, a bírságot kiszabó határozat véglegessé válásától számított 30 napon belül. Az átutalás közlemény rovatában a „bírság” szó feltüntetése mellett a kötelezett nevére és a határozat számára kell hivatkozni.”
+[^24]: A 38. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

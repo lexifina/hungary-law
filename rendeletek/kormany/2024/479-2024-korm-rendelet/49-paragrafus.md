@@ -1,9 +1,3 @@
-49. § A polgári célú pirotechnikai tevékenységekről szóló 173/2011. (VIII. 24.) Korm. rendelet 108. § (4) bekezdése helyébe a következő rendelkezés lép:
+49. §[^35]
 
-„(4) Nem kell engedély a nagykorú személynek a 3. pirotechnikai osztályba tartozó
-
-a) – a 3 kg összes nettó hatóanyag-tartalmat meg nem haladó mennyiségű – tűzijáték terméknek, illetve
-
-b) egy darab összefűzött pirotechnikai terméknek
-
-a (3) bekezdésben meghatározott időpontig történő birtoklásához, tárolásához.”
+[^35]: A 49. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

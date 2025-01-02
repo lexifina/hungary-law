@@ -1,3 +1,3 @@
-24. § A Rendőrség szerveiről és a Rendőrség szerveinek feladat- és hatásköréről szóló 329/2007. (XII. 13.) Korm. rendelet a következő 15/F. §-sal egészül ki:
+24. §[^10]
 
-„15/F. § A Határrendészeti Kirendeltség Bácsbokod elnevezésű szervezeti egység – a közfeladatok hatékony ellátása érdekében – megszűnik. A Határrendészeti Kirendeltség Bácsbokod által ellátott feladatok, valamint a Határrendészeti Kirendeltség Bácsbokoddal bármely foglalkoztatási jogviszonyban álló személyek tekintetében a foglalkoztatási jogviszonyból származó, munkáltatót megillető jogok és terhelő kötelezettségek vonatkozásában a jogutód a Határrendészeti Kirendeltség Bácsalmás.”
+[^10]: A 24. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

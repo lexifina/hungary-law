@@ -1,1 +1,3 @@
-65. § A személy- és vagyonőr, a magánnyomozó, az egyes rendészeti feladatokat ellátó személyek tevékenységével, valamint a fegyveres biztonsági őrséggel kapcsolatos közigazgatási hatósági eljárások eltérő és kiegészítő szabályairól szóló 487/2017. (XII. 29.) Korm. rendelet 2. § (1) bekezdésében az „A személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló 2005. évi CXXXIII. törvény (a továbbiakban: Szvmt.)” szövegrész helyébe az „Az Szvmt.” szöveg lép.
+65. §[^51]
+
+[^51]: A 65. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

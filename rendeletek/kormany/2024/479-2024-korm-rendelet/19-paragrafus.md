@@ -1,1 +1,3 @@
-19. § Hatályát veszti a fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 42. § (2a) bekezdés a) pontjában az „illetve” szövegrész.
+19. §[^6]
+
+[^6]: A 19. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

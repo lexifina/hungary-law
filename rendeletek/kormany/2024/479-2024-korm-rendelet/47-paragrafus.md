@@ -1,3 +1,3 @@
-47. § A polgári célú pirotechnikai tevékenységekről szóló 173/2011. (VIII. 24.) Korm. rendelet 104. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+47. §[^33]
 
-(1. és 2. pirotechnikai osztályba tartozó tűzijáték termék)
+[^33]: A 47. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

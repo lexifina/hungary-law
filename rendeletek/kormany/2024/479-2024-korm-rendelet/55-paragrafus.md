@@ -1,7 +1,3 @@
-55. § Hatályát veszti a polgári célú pirotechnikai tevékenységekről szóló 173/2011. (VIII. 24.) Korm. rendelet
+55. §[^41]
 
-a) 16. § (1) bekezdés d) pontjában a „vagy” szövegrész,
-
-b) 95. § (1) bekezdés a) pontja, valamint
-
-c) 105. § (3a) bekezdése.
+[^41]: Az 55. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

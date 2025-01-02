@@ -1,3 +1,3 @@
-76. § A harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény végrehajtásáról szóló 35/2024. (II. 29.) Korm. rendelet 21. § (1) bekezdése a következő c) ponttal egészül ki:
+76. §[^62]
 
-(A BFKH által vezetett nyilvántartás az alábbi adatokat tartalmazza:)
+[^62]: A 76. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

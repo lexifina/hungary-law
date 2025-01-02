@@ -1,1 +1,3 @@
-72. § Hatályát veszti a fővárosi és vármegyei kormányhivatalokról, valamint a járási (fővárosi kerületi) hivatalokról szóló 568/2022. (XII. 23.) Korm. rendelet 39. § (5) bekezdése.
+72. §[^58]
+
+[^58]: A 72. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

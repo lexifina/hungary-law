@@ -1,1 +1,3 @@
-25. § A Rendőrség szerveiről és a Rendőrség szerveinek feladat- és hatásköréről szóló 329/2007. (XII. 13.) Korm. rendelet 3. melléklete az 1. melléklet szerint módosul.
+25. §[^11]
+
+[^11]: A 25. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

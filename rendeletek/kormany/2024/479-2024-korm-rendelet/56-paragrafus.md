@@ -1,5 +1,5 @@
 ## 11. A segélyhívásokat fogadó szerv hatásköréről, feladatairól, továbbá feladatai ellátásának részletes szabályairól szóló 361/2013. (X. 11.) Korm. rendelet módosítása
 
-56. § A segélyhívásokat fogadó szerv hatásköréről, feladatairól, továbbá feladatai ellátásának részletes szabályairól szóló 361/2013. (X. 11.) Korm. rendelet 1. § 6. pontja helyébe a következő rendelkezés lép:
+56. §[^42]
 
-(E rendelet alkalmazásában)
+[^42]: Az 56. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

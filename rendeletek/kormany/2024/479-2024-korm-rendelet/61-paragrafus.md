@@ -1,11 +1,3 @@
-61. § Hatályát veszti a segélyhívásokat fogadó szerv hatásköréről, feladatairól, továbbá feladatai ellátásának részletes szabályairól szóló 361/2013. (X. 11.) Korm. rendelet
+61. §[^47]
 
-a) 3. § (2)–(7) bekezdése,
-
-b) 6. § (2) bekezdése,
-
-c) 6. alcíme,
-
-d) 9. §-a, valamint
-
-e) 1. melléklete.
+[^47]: A 61. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

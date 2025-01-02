@@ -1,7 +1,3 @@
-18. § A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet
+18. §[^5]
 
-a) 20/B. § (3) bekezdés nyitó szövegrészében a „szerelése és újratöltése” szövegrész helyébe a „szerelésére és -újratöltésére” szöveg,
-
-b) 42. § (2a) bekezdés b) pontjában a „négyszázszorosát.” szövegrész helyébe a „négyszázszorosát, illetve” szöveg
-
-lép.
+[^5]: A 18. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
