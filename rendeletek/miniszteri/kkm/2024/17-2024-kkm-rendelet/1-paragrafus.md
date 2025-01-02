@@ -1,1 +1,3 @@
-1. § A Külpiaci Növekedési Támogatási Program szerinti támogatások szabályairól szóló 31/2021. (VIII. 31.) KKM rendelet 3. § 10. pontjában a „továbbiakban: TEÁOR’08” szövegrész helyébe a „továbbiakban: TEÁOR’25” szöveg és a „TEÁOR’08 kód” szövegrész helyébe a „TEÁOR’25 kód” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
