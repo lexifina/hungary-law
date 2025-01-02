@@ -8,7 +8,7 @@ c)
 
 d)
 
-e) 174. § (6) bekezdésében az „elítélt a” szövegrész helyébe az „elítélt a technikai feltételek rendelkezésre állása esetén, a” szöveg,
+e)
 
 f)
 
