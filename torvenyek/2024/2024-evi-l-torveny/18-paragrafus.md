@@ -1,3 +1,3 @@
 ## 4. A mezőgazdasági és élelmiszeripari termékek vonatkozásában a beszállítókkal szemben alkalmazott tisztességtelen forgalmazói magatartás tilalmáról szóló 2009. évi XCV. törvény módosítása
 
-18. § A mezőgazdasági és élelmiszeripari termékek vonatkozásában a beszállítókkal szemben alkalmazott tisztességtelen forgalmazói magatartás tilalmáról szóló 2009. évi XCV. törvény (a továbbiakban: 2009. évi XCV. törvény) 6. § (8) bekezdésében az „az agrárpolitikáért” szövegrész helyébe az „a kereskedelemért” szöveg lép.
+### 18. §
