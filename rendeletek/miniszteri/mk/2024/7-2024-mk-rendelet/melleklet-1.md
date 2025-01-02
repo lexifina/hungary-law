@@ -2,7 +2,7 @@
 
 Az elektronikus információs rendszerek biztonsági osztályba sorolása és a védelmi intézkedések bevezetésének támogatására szolgáló kockázatmenedzsment keretrendszer
 
-1.[^5] A KOCKÁZATMENEDZSMENT KERETRENDSZER
+1.[^6] A KOCKÁZATMENEDZSMENT KERETRENDSZER
 
 1.1. A szervezet a biztonsági osztályba sorolás és a védelmi intézkedések bevezetésének támogatására kockázatmenedzsment keretrendszert működtet, amelynek keretében
 
@@ -204,4 +204,4 @@ Az elektronikus információs rendszerek biztonsági osztályba sorolása és a 
 
 5.1.3. A szervezet folyamatosan nyomon követi az elektronikus információs rendszerrel kapcsolatos kockázatok változásaihoz hozzájáruló tényezőket, és ennek alapján frissíti és naprakészen tartja a kockázatelemzési dokumentumait.
 
-[^5]: Az 1. melléklet 1. pontja a 18/2024. (XII. 30.) MK rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^6]: Az 1. melléklet 1. pontja a 18/2024. (XII. 30.) MK rendelet 4. § (1) bekezdésével megállapított szöveg.
