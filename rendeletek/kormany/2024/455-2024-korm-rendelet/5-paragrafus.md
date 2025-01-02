@@ -1,5 +1,3 @@
-## „l) a fenntartó bejelentési kötelezettségét,”
+5. §[^6]
 
-5. § A Tkr. 16. § (8) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(A működési támogatás folyósítását a kezelő szerv felfüggeszti, ha)
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
