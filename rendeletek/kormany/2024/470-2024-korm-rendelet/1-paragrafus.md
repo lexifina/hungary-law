@@ -1,5 +1,3 @@
-1. § A Nemzeti Kutatási, Fejlesztési és Innovációs Hivatalról, valamint a Nemzeti Kutatási, Fejlesztési és Innovációs Alap kezelő szervének kijelöléséről szóló 344/2019. (XII. 23.) Korm. rendelet (a továbbiakban: NKFIH Kr.) 3. §-a helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„3. § (1) A Hivatalt elnök vezeti, aki a kutatás-fejlesztési és innovációs ügyekben ellátja a tudománypolitika koordinációjáért felelős miniszter által ráruházott képviseleti és egyéb feladatokat, valamint gyakorolja a jogszabályban a költségvetési szerv vezetője részére meghatározott jogköröket. Az elnök tevékenységét tudományos társelnök, valamint elnökhelyettesek segítik.
-
-(2) A tudománypolitika koordinációjáért felelős miniszter nevezi ki és menti fel a Hivatal elnökét, – a 4. § (1) bekezdésére figyelemmel – tudományos társelnökét, valamint – a Hivatal elnökének javaslatára – az elnökhelyetteseit. A kinevezés időtartama az elnök, valamint az elnökhelyettesek esetében öt év, a tudományos társelnök esetében a társelnök Kutatási Kiválósági Tanács elnöki kinevezésével megegyező időszak. Ugyanaz a személy a Hivatal elnökévé, elnökhelyettesévé legfeljebb két alkalommal nevezhető ki.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
