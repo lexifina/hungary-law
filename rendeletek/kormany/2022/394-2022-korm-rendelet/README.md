@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-394-20-
 | 2023-01-01 | 2022-394-20-22.5 | 431/2022. (X. 28.) Korm. rendelet |
 | 2023-01-02 | 2022-394-20-22.6 | 431/2022. (X. 28.) Korm. rendelet |
 | 2025-01-01 | 2022-394-20-22.7 | 431/2022. (X. 28.) Korm. rendelet |
+| 2025-01-02 | 2022-394-20-22.8 | 2010. évi CXXX. törvény |
