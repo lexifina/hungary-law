@@ -1,3 +1,1 @@
-137. § A harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény 37. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Az EU Kék Kártyát legalább kettő évre, ha az úti okmány ennél hamarabb veszíti érvényességét, akkor az úti okmány érvényességi időtartamára kell kiállítani. Ha a foglalkoztatásra irányuló szerződés kettő évnél rövidebb időtartamra szól, az EU Kék Kártyát a foglalkoztatásra irányuló szerződés szerinti jogviszony időtartamát három hónappal meghaladó, de az úti okmány érvényességét meg nem haladó időtartamra kell kiállítani, amely esetben az EU Kék Kártya érvényessége nem haladhatja meg a két évet.”
+### 137. §

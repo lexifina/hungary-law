@@ -1,1 +1,1 @@
-114. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 2. § 24a. pontjában az „1. § (2) bekezdés 10., 11. és 13. pontjában” szövegrész helyébe a „6/A. §-ában” szöveg lép.
+### 114. §
