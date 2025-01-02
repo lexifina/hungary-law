@@ -1,3 +1,3 @@
-5. § A 601/2022. (XII. 28.) Korm. rendelet 6. § (1) bekezdése a következő h) ponttal egészül ki:
+5. §[^6]
 
-(A KAP Stratégiai Terv végrehajtását a Nemzeti KAP Monitoring Bizottság követi nyomon, amelynek elnökét a miniszter nevezi ki, egyenlő szavazati joggal rendelkező egy-egy tagját a miniszter felkérésére)
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

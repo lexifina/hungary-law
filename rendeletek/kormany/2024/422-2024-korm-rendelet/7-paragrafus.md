@@ -1,1 +1,3 @@
-7. § A 601/2022. (XII. 28.) Korm. rendelet 6. § (2) bekezdésében a „tagot” szövegrész helyébe a „szakértőt” szöveg lép.
+7. §[^8]
+
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
