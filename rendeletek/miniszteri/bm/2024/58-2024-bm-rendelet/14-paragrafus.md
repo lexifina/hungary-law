@@ -1,1 +1,3 @@
-14. § Az egészségügyi szolgáltatók és működési engedélyük nyilvántartásáról, valamint az egészségügyi szakmai jegyzékről szóló 2/2004. (XI. 17.) EüM rendelet 2. számú melléklete a 7. melléklet szerint módosul.
+14. §[^1]
+
+[^1]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
