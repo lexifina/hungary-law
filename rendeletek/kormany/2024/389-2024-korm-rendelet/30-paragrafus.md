@@ -1,1 +1,3 @@
-30. § A természetes személyek adósságrendezési eljárásában a méltányolható lakásigény, továbbá lakásbérleti vagy lakáshasználati díj meghatározásáról szóló 241/2015. (IX. 8.) Korm. rendelet 3. § (4) bekezdésében a „vagy a családok otthonteremtési kamattámogatásával érintett kölcsönnel” szövegrész helyébe az „ , a családok otthonteremtési kamattámogatásával érintett kölcsönnel, otthonfelújítási támogatással vagy otthonfelújítási kölcsönnel” szöveg lép.
+30. §[^2]
+
+[^2]: A 30. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

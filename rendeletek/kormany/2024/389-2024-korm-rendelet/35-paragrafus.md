@@ -1,5 +1,3 @@
-## „g) a Vidéki Otthonfelújítási Programról szóló 389/2024. (XII. 11.) Korm. rendelet”
+35. §[^7]
 
-## [szerinti kölcsön minősül.]
-
-35. § A fővárosi és vármegyei kormányhivatalokról, valamint a járási (fővárosi kerületi) hivatalokról szóló 568/2022. (XII. 23.) Korm. rendelet 13. melléklet 27. pontjában a „kölcsönhöz” szövegrész helyébe a „kölcsönhöz, otthonfelújítási kölcsönhöz” szöveg lép.
+[^7]: A 35. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

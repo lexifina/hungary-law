@@ -1,1 +1,3 @@
-32. § A Magyar Államkincstárról szóló 310/2017. (X. 31.) Korm. rendelet 14. § c) pontjában a „gyermeket nevelő családok otthonfelújítási támogatását” szövegrész helyébe a „gyermeket nevelő családok otthonfelújítási támogatását, a gyermekes családok részére nyújtható vidéki otthonfelújítási támogatást” szöveg lép.
+32. §[^4]
+
+[^4]: A 32. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
