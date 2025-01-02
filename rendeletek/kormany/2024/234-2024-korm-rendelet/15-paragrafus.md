@@ -1,9 +1,3 @@
-15. § Hatályát veszti az 5/2011. (II. 3.) Korm. rendelet
+15. §[^13]
 
-a) 5/A. § (3) bekezdése,
-
-b) 5/B. § (1) és (2) bekezdése,
-
-c) 6. §-a,
-
-d) 7. § (2), (3a), (4) és (6) bekezdése.
+[^13]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

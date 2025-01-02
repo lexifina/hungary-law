@@ -1,1 +1,3 @@
-10. § Hatályát veszti a Kormányzati Informatikai Fejlesztési Ügynökségről szóló 268/2010. (XII. 3.) Korm. rendelet.
+10. §[^7]
+
+[^7]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
