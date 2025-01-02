@@ -1,5 +1,3 @@
-4. § Hatályát veszti az R.
+4. §[^5]
 
-a) 4. § (2) bekezdés g) pontja,
-
-b) 5. § g) pontjában az „ , ellenőrző” szövegrész.
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
