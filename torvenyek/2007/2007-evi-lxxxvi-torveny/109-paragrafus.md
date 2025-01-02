@@ -1,3 +1,9 @@
+## XIII/A. Fejezet
+
+## A NAGYKERESKEDELMI ENERGIAPIACOK INTEGRITÁSÁVAL ÉS ÁTLÁTHATÓSÁGÁVAL ÖSSZEFÜGGŐ FELADATOK
+
+## Általános szabályok
+
 109. § (1) A Hivatal a nagykereskedelmi energiapiacok integritásáról és átláthatóságáról szóló, 2011. október 25-i 1227/2011/EU európai parlamenti és tanácsi rendeletben (a továbbiakban: REMIT) és az 1227/2011/EU és az (EU) 2019/942 rendeletnek a nagykereskedelmi energiapiacon az Unió piaci manipulációval szembeni védelmének javítása tekintetében történő módosításáról szóló, 2024. április 11-i (EU) 2024/1106 európai parlamenti és tanácsi rendeletben (a továbbiakban: REMIT módosítása) foglaltak szerint, a nagykereskedelmi energiapiacok felügyeletével kapcsolatos hatáskörében
 
 a) nyomon követi a nagykereskedelmi energiatermékek kereskedelmét,
