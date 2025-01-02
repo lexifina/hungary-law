@@ -1,1 +1,3 @@
-2. § A 36/2011. (XII. 23.) KIM rendelet 1. melléklete helyébe az 1. melléklet lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

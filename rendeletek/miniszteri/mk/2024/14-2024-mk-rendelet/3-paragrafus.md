@@ -1,1 +1,3 @@
-3. § A 36/2011. (XII. 23.) KIM rendelet 2. § a) pontjában az „a tevékenységek egységes osztályozási rendszere” szövegrész helyébe az „a Gazdasági tevékenységek egységes osztályozási rendszere” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
