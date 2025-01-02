@@ -9,3 +9,5 @@
 (5) Az állami adó- és vámhatóság a kérelmet elutasítja, ha az adóalany gazdasági tevékenységének székhelye a Közösség területén kívül van és őt a Közösség valamely más tagállamában ilyen minőségében már nyilvántartásba vették, vagy erre irányuló kérelmét a Közösség más tagállamában már benyújtotta és annak elbírálása véglegesen még nem zárult le.
 
 (6) Az (1) bekezdés szerinti adóalany közvetítővel is eljárhat az (1) bekezdés szerinti kötelezettség teljesítése során.
+
+(7) Az (1) bekezdés szerinti választási jog nem illeti meg azt az adóalanyt, aki (amely) a XIII. Fejezet 1., illetve 2. alcíme szerinti adómentességet alkalmaz.

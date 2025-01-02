@@ -11,3 +11,5 @@ b) olyan harmadik országban telepedett le gazdasági céllal, amely harmadik or
 (4) A (3) bekezdés szerinti adóalany a harmadik államból importált termék távértékesítése Közösség területén történő megkezdését megelőzően kérelmezheti, hogy őt az állami adó- és vámhatóság ilyen minőségében nyilvántartásba vegye.
 
 (5) Az állami adó- és vámhatóság a kérelmet elutasítja, ha az adóalanyt a Közösség valamely más tagállamában ilyen minőségében már nyilvántartásba vették, vagy erre irányuló kérelmét a Közösség valamely más tagállamában már benyújtotta és annak elbírálása véglegesen még nem zárult le.
+
+(6) A (3) bekezdés szerinti választási jog nem illeti meg azt az adóalanyt, aki (amely) a XIII. Fejezet 3. alcíme szerinti vagy a Közösség belföldtől eltérő tagállama tekintetében a Héa-irányelv 284. cikkének megfelelő adómentességet alkalmaz.
