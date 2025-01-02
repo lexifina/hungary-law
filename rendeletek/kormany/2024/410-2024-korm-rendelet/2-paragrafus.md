@@ -1,3 +1,3 @@
-2. § A kormányzati célú hálózatokról szóló 346/2010. (XII. 28.) Korm. rendelet 6. § (7) bekezdése helyébe a következő rendelkezés lép:
+2. §[^3]
 
-„(7) A (2) bekezdés e) pontjában foglalt kötelezettség az EDR vonatkozásában nem áll fenn.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

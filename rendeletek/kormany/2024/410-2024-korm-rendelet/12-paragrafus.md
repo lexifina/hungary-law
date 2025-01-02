@@ -1,1 +1,3 @@
-12. § A kormányzati célú hálózatokról szóló 346/2010. (XII. 28.) Korm. rendelet 4/A. § (3) bekezdésében az „a miniszter” szövegrész helyébe az „az e-közigazgatásért felelős miniszter (a továbbiakban: miniszter)” szöveg lép.
+12. §[^13]
+
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

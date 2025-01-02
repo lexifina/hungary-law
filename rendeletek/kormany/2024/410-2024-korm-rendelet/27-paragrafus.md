@@ -1,1 +1,3 @@
-27. § Nem lép hatályba a 234/2024. (VIII. 8.) Korm. rendelet 12. §-a, 13. § (1) bekezdése.
+27. §[^28]
+
+[^28]: A 27. § a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.

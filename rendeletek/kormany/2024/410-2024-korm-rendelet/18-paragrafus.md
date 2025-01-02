@@ -1,5 +1,5 @@
-## 4.[^3]
+## 4.[^19]
 
 18. §
 
-[^3]: A 4. alcím a 28. § (3) bekezdése alapján 2025. augusztus 1-jén lép hatályba.
+[^19]: A 4. alcím a 230/2025. (VII. 31.) Korm. rendelet 10. §-a alapján nem lép hatályba.

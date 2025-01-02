@@ -1,3 +1,3 @@
-3. § A kormányzati célú hálózatokról szóló 346/2010. (XII. 28.) Korm. rendelet 9. § (6) bekezdése helyébe a következő rendelkezés lép:
+3. §[^4]
 
-„(6) Ha az elkülönült hírközlési tevékenység végzésére jogosult, a kormányzati célú hírközlési szolgáltató, illetve a számára hálózatot biztosító nyilvános hírközlési szolgáltató a tulajdonában lévő, de ezt követően valamely elektronikus hírközlési szolgáltatónak átadott tulajdonú elektronikus hírközlő eszköz közös eszközhasználata tárgyában eltérő megállapodást nem kötöttek, az elkülönült hírközlési tevékenység végzésére jogosult, illetve a kormányzati célú hírközlési szolgáltató az alépítményben lévő kábelek után a fenntartási költséggel arányos mértékű csőfoglalási, azaz kábelhely bérleti díjat fizet.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

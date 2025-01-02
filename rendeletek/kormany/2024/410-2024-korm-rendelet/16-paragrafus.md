@@ -1,7 +1,3 @@
-16. § Az 5/2011. (II. 3.) Korm. rendelet
+16. §[^17]
 
-a) 5/C. § (1) bekezdésében a „KIFÜ-nek” szövegrész helyébe a „Pro-M Zrt.-nek” szöveg,
-
-b) 5/C. § (5) bekezdésében a „KIFÜ-vel” szövegrész helyébe a „Pro-M Zrt.-vel” szöveg
-
-lép.
+[^17]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

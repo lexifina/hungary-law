@@ -1,7 +1,3 @@
-4. § A kormányzati célú hálózatokról szóló 346/2010. (XII. 28.) Korm. rendelet 10. § (3) és (4) bekezdése helyébe a következő rendelkezések lépnek, egyidejűleg a 10. § a következő (5) bekezdéssel egészül ki:
+4. §[^5]
 
-„(3) A tartós állami tulajdonú társasági részesedésekkel működő társaságokat a tulajdonukban lévő és az általuk kezelt, állami vagyonnak minősülő elektronikus hírközlési építményekkel és elektronikus hírközlő eszközökkel kapcsolatos közös eszközhasználatra szerződéskötési kötelezettség terheli a kormányzati célú hírközlési szolgáltatóval. A szerződéskötési kötelezettség a társaságokat csak a kormányzati célú hírközlési szolgáltató igényének bejelentésekor szerződés alapján más célra nem használt vagy más számára le nem kötött kapacitás erejéig terheli.
-
-(4) A (3) bekezdés szerinti társaságokat a tulajdonukban lévő és az általuk kezelt, állami vagyonnak minősülő, elektronikus hírközlési építménynek nem minősülő építmények és ingatlanok vonatkozásában a kormányzati célú hírközlési szolgáltatóval és az elkülönült hírközlési tevékenység végzésére jogosulttal szemben, ez utóbbiak javára az adott építmény vagy ingatlan elektronikus hírközlési célú használatának biztosítására használati jog alapítására irányuló szerződéskötési kötelezettség terheli.
-
-(5) A (3) bekezdés szerinti elektronikus hírközlési építmény-hozzáférési szerződés, illetve a (4) bekezdés szerinti elektronikus hírközlési építménynek nem minősülő építmények és ingatlanok vonatkozásában az adott építmény vagy ingatlan elektronikus hírközlési célú használatának biztosítására, használati jog alapítására irányuló szerződés megkötésekor a szerződés szerint fizetett díjat a (3) bekezdés szerinti társaságoknak a fenntartási önköltségből számított módon az igénybe vett kapacitásokkal arányosan kell megállapítani.”
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
