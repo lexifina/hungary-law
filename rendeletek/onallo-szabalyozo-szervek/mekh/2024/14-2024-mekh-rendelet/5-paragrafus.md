@@ -1,1 +1,3 @@
-5. § Hatályát veszti a koncesszori alvállalkozók 2024. évre vonatkozó indokolt költségei mértékének megállapításáról szóló 19/2023. (XI. 30.) MEKH rendelet.
+5. §[^2]
+
+[^2]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
