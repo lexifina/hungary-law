@@ -1,3 +1,3 @@
-## „d) ha a településnek az adott évi központi költségvetésről szóló törvény 2. melléklete szerinti feltételek alapján számított egy lakosra jutó iparűzési adóerő-képessége a 10 000 forintot nem haladja meg.”
+3. §[^4]
 
-3. § Az R. 5. melléklete helyébe az 1. melléklet lép.
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

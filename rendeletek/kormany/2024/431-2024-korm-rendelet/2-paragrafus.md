@@ -1,3 +1,3 @@
-2. § Az R. 5. § (4) bekezdése a következő d) ponttal egészül ki:
+2. §[^3]
 
-(Az igényelhető és megítélhető támogatás maximális mértéke az elismerhető költségek 100%-a)
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
