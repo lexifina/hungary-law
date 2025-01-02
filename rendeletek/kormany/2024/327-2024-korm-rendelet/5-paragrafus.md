@@ -1,1 +1,3 @@
-5. § Hatályát veszti a fogyasztóvédelmi hatóság által kiszabott egyes bírságokról szóló 307/2012. (X. 29.) Korm. rendelet.
+5. §[^1]
+
+[^1]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
