@@ -1,3 +1,3 @@
-5. § Az Ehat Vhr. 29. §-a a következő e) és f) ponttal egészül ki:
+5. §[^5]
 
-(Ez a rendelet)
+[^5]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

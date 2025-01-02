@@ -1,17 +1,15 @@
-## „e) az energiahatékonyságról és az (EU) 2023/955 rendelet módosításáról szóló, 2023. szeptember 13-i 2023/1791 európai parlamenti és a tanács irányelvnek,
+6. § (1)[^6]
 
-## f) az épületek energiahatékonyságáról szóló, 2024. április 24-i (EU) 2024/1275 európai parlamenti és a tanácsi irányelvnek”
+(2)[^7]
 
-## (való megfelelést szolgálja.)
+(3)[^8]
 
-6. § (1) Az Ehat Vhr. 7. melléklete az 1. melléklet szerint módosul.
+(4)[^9]
 
-(2) Az Ehat Vhr. 8. melléklete a 2. melléklet szerint módosul.
+(5)[^10]
 
-(3) Az Ehat Vhr. 9. melléklete helyébe a 3. melléklet lép.
-
-(4) Az Ehat Vhr. 11. melléklete helyébe a 4. melléklet lép.
-
-(5)[^3]
-
-[^3]: A 6. § (5) bekezdése a 9. § (2) bekezdése alapján 2025. január 16-án lép hatályba.
+[^6]: A 6. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 6. § (2) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 6. § (3) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 6. § (4) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 6. § (5) bekezdése a 9. § (2) bekezdése alapján 2025. január 16-án lép hatályba.

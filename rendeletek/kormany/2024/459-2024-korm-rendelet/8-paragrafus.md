@@ -1,5 +1,3 @@
-8. § Hatályát veszti az Ehat Vhr.
+8. §[^12]
 
-a) 7/B. § (1) bekezdésében és 7/E. § (1) bekezdésében a „vagy azzal egyenértékű képesítéssel” szövegrész,
-
-b) 22. § (1) bekezdésében a „vagy azzal egyenértékű” szövegrész.
+[^12]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

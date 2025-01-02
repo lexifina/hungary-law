@@ -1,3 +1,3 @@
-3. § Az Ehat Vhr. 27/A. § (1) bekezdése helyébe a következő rendelkezés lép:
+3. §[^3]
 
-„(1) A hitelesített energiamegtakarítások szervezett piacán (a továbbiakban: szervezett piac) a hitelesített energiamegtakarítások átruházására vonatkozóan ügyletet az köthet, aki megfelel a szervezett piaci szabályzatban előírt feltételeknek (a továbbiakban: piaci szereplő).”
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
