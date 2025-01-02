@@ -35,3 +35,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-32-00-00
 | 2024-07-01 | 2024. évi IX. törvény | 2021-32-00-00.28 |
 | 2024-10-18 | 2023. évi XXIII. törvény | 2021-32-00-00.24 |
 | 2025-01-01 | 2024. évi LXIX. törvény | 2021-32-00-00.30 |
+| 2025-01-02 | 2024. évi LXIX. törvény | 2021-32-00-00.31 |
