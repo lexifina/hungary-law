@@ -1,1 +1,3 @@
-17. § Hatályát veszti az 53/2022. (XII. 2.) MNB rendelet.
+17. §[^2]
+
+[^2]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
