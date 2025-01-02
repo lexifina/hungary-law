@@ -1,5 +1,1 @@
-## „s) kidolgozza az Smtv. 20/A. § szerinti szabályzatra és hatékony megoldások követelményeire vonatkozó ajánlást.”
-
-3. § Az Mttv. „A Hatóságra és eljárására vonatkozó átmeneti szabályok” alcíme a következő 218/F. §-sal egészül ki:
-
-„218/F. § A Médiatanács az Smtv. 20/A. § szerinti szabályzatra és a hatékony megoldások követelményeire vonatkozó ajánlását 2025. február 28-ig teszi közzé. Az Smtv. 20/A. § (1) bekezdésében foglalt kötelezettségeknek az internetes sajtótermék kiadója 2025. április 1-jétől köteles eleget tenni. Az internetes sajtótermék kiadójával szemben e kötelezettségek megsértése miatt hatósági eljárás csak ezen időpont után elkövetett jogsértés miatt indítható.”
+### 3. §
