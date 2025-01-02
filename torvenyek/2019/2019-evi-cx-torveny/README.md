@@ -24,3 +24,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2019-110-00-00
 | 2022-12-01 | 2022. évi XLVIII. törvény | 2019-110-00-00.19 |
 | 2023-01-01 | 2021. évi CXXXV. törvény | 2019-110-00-00.20 |
 | 2025-01-01 | 2023. évi XXVIII. törvény | 2019-110-00-00.21 |
+| 2025-01-02 | 2010. évi CXXX. törvény | 2019-110-00-00.18 |
