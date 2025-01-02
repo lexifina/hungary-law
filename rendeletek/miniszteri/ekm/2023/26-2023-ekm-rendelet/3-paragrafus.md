@@ -1,3 +1,3 @@
-3. § Az R1. 31. § (2) bekezdés 12. pontja helyébe a következő rendelkezés lép:
+3. §[^4]
 
-(Ez a rendelet)
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
