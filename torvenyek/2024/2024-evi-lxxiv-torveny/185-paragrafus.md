@@ -2,8 +2,8 @@
 
 1.
 
-2. 87. § (1) bekezdés b) pont ba) alpontjában az „ , a különleges gazdasági övezet esetében a vármegyei önkormányzat képviselő-testületének” szövegrész,
+2.
 
-3. 87. § (2) bekezdésében az „ , illetve a különleges gazdasági övezet esetében a vármegyei önkormányzat képviselő-testülete” szövegrész,
+3.
 
-4. 93. § (1) bekezdés a) pontjában az „a különleges gazdasági övezet esetében a vármegyei önkormányzat képviselő-testülete,” szövegrész.
+4.

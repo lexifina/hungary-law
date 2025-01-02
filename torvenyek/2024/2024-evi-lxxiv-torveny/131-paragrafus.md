@@ -1,3 +1,3 @@
 ## 39. A megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény módosítása
 
-131. § A megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 20/A. § (1) bekezdésében az „örökös veheti fel a halál napjától vagy a hagyatéki végzés” szövegrész helyébe az „örökösök egyenlő arányban – kérelemre – vehetik fel a halál napjától, illetve a teljes hatályú hagyatékátadó végzés, az ideiglenes hatályú hagyatékátadó végzés teljes hatályúvá válását megállapító végzés, az öröklési bizonyítvány vagy az öröklési perben hozott bírósági ítélet” szöveg lép.
+### 131. §

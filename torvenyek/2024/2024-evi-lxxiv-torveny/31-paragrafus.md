@@ -1,11 +1,11 @@
 31. § Hatályát veszti a vízgazdálkodásról szóló 1995. évi LVII. törvény
 
-1. 13/C. § (1) bekezdésében az „a munkaköri kategóriához tartozó munkakörön belüli fizetési fokozatban, valamint” szövegrész,
+1.
 
-2. 13/D. § b) pontja,
+2.
 
-3. 13/E. § (5) bekezdésében az „előmeneteli fokozathoz tartozó” szövegrész,
+3.
 
 4.
 
-5. 45/L. § (3) bekezdése.
+5.

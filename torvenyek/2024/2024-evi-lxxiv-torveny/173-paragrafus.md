@@ -1,3 +1,1 @@
-173. § A külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény 25. § (17) bekezdés helyébe a következő rendelkezés lép:
-
-„(17) Ha a kihelyezett vagy a házastársa a kihelyezettel közös háztartásban élő gyermeke után a kihelyező szervtől eltérő kifizető szervtől pótlékot, költségtérítést, iskoláztatási támogatást kap vagy fogyatékossági támogatásban, illetve vakok személyi járadékában részesül vagy bármely ezen, a magyar állam által biztosítható, illetve igénybe vehető támogatási, segélyezési vagy juttatási formához hasonló, illetve ezzel megfeleltethető – más állam által biztosított vagy igénybe vehető – támogatásban, segélyben vagy juttatásban részesül, függetlenül a kifizető szerv illetékességétől, az (5)–(6) bekezdés szerinti költségtérítésre a kihelyezett nem jogosult.”
+### 173. §
