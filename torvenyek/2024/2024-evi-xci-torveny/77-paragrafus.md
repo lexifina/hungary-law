@@ -2,27 +2,27 @@
 
 1.
 
-2. 5. § (2) bekezdés c)–e) pontja,
+2.
 
-3. 10/E. és 10/F. §-a,
+3.
 
-4. 24. § (1) bekezdés f) pontjában a „témapályázat,” szövegrész,
+4.
 
-5. 24. § (1) bekezdés i) pontja,
+5.
 
-6. 25. § (5) és (6) bekezdése,
+6.
 
-7. 25. § (8) bekezdése,
+7.
 
-8. 26. §-a,
+8.
 
-9. 27/A. §-a,
+9.
 
-10. 28. § a) pontjában az „országos” szövegrész,
+10.
 
-11. 29/A. § (1) bekezdése,
+11.
 
-12. 29/A. § (2) bekezdés 10. pontja,
+12.
 
 13.
 
