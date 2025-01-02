@@ -4,6 +4,6 @@
 
 ## 50. A magyar légtér igénybevételéről szóló 4/1998. (I. 16.) Korm. rendelet módosítása
 
-123. § A magyar légtér igénybevételéről szóló 4/1998. (I. 16.) Korm. rendelet 4/A. § o) pontja helyébe a következő rendelkezés lép:
+123. §[^4]
 
-(UAS művelet nem végezhető)
+[^4]: A 123. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

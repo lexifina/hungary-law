@@ -1,5 +1,5 @@
 ## 54. A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény egyes rendelkezéseinek végrehajtásáról szóló 58/2013. (II. 27.) Korm. rendelet módosítása
 
-137. § A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény egyes rendelkezéseinek végrehajtásáról szóló 58/2013. (II. 27.) Korm. rendelet 34. § (2) bekezdés e) pontja helyébe a következő rendelkezés lép:
+137. §[^18]
 
-[Az (1) bekezdés szerinti körbe tartoznak különösen:]
+[^18]: A 137. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

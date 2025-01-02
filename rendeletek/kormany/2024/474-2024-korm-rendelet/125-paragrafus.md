@@ -1,5 +1,5 @@
 ## 51. A nehéz tehergépkocsik közlekedésének korlátozásáról szóló 190/2008. (VII. 29.) Korm. rendelet módosítása
 
-125. § A nehéz tehergépkocsik közlekedésének korlátozásáról szóló 190/2008. (VII. 29.) Korm. rendelet 5. § (1) bekezdése a következő 11. és 12. ponttal egészül ki:
+125. §[^6]
 
-(A 2. §-ban meghatározott közlekedési korlátozás nem vonatkozik:)
+[^6]: A 125. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

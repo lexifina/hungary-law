@@ -1,5 +1,5 @@
 ## 75. A földgázellátás biztonságának megőrzését szolgáló intézkedésekről szóló 399/2023. (VIII. 24.) Korm. rendelet módosítása
 
-170. § A földgázellátás biztonságának megőrzését szolgáló intézkedésekről szóló 399/2023. (VIII. 24.) Korm. rendelet 1. § (5) bekezdés a) pontja helyébe a következő rendelkezés lép:
+170. §[^51]
 
-(E rendelet alkalmazásában nemzetgazdasági szempontból stratégiai jelentőségű felhasználói teljesítmény)
+[^51]: A 170. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

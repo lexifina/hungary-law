@@ -1,5 +1,3 @@
-## „e) a kritikus szervezetekkel és kritikus infrastruktúrákkal, valamint az ország védelme és biztonsága szempontjából jelentős szervezetekkel, az ország védelme és biztonsága szempontjából jelentős infrastruktúrákkal kapcsolatos feladatokra”
+165. §[^46]
 
-## (vonatkozó jogszabályokat.)
-
-165. § Hatályát veszti a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 102/A. § (1) bekezdés f) pontja.
+[^46]: A 165. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

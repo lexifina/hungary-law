@@ -1,5 +1,5 @@
 ## 70. Az elektronikus információbiztonsági korai figyelmeztető rendszerről szóló 214/2020. (V. 18.) Korm. rendelet módosítása
 
-161. § Az elektronikus információbiztonsági korai figyelmeztető rendszerről szóló 214/2020. (V. 18.) Korm. rendelet 3. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
+161. §[^42]
 
-(A korai figyelmeztető szolgáltatás igénybevételére jogosultak:)
+[^42]: A 161. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-128. § A nehéz tehergépkocsik közlekedésének korlátozásáról szóló 190/2008. (VII. 29.) Korm. rendelet 5. § (1) bekezdés 9. pontjában a „használt, és” szövegrész helyébe a „használt” szöveg lép.
+128. §[^9]
+
+[^9]: A 128. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,5 @@
 ## 72. A Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet módosítása
 
-164. § A Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 72. § (1) bekezdés e) pontja helyébe a következő rendelkezés lép:
+164. §[^45]
 
-(A miniszter a katasztrófák elleni védekezésért való felelőssége keretében előkészíti)
+[^45]: A 164. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
