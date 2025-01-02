@@ -1,31 +1,31 @@
 76. § Hatályát veszti a Földforgalmi tv.
 
-a) 3. § (2) bekezdése,
+a)
 
-b) 5. § 22. pontja,
+b)
 
 c)
 
-d) 14/A. §-ában az „és a 15. §-ban” szövegrész,
+d)
 
-e) 15. §-a,
+e)
 
-f) 17. § (1) bekezdés b) pontja,
+f)
 
-g) 18. § (4) bekezdés c) pontja,
+g)
 
-h) 21. § (5) bekezdésében az „és a 15. §-ban” szövegrész,
+h)
 
-i) 24. § (2) bekezdésében az „együttes” szövegrész,
+i)
 
-j) 24. § (3) bekezdés e) pontjában az „ , a pályakezdő gazdálkodó” szövegrész,
+j)
 
 k)
 
-l) 35. § (3) bekezdésében a „ , legfeljebb 20 km-es távolságra vonatkozó” szövegrész és az „és a 15. §-ban” szövegrész,
+l)
 
-m) 42. § (4) bekezdése,
+m)
 
-n) 46. § (4) bekezdés c) pontja,
+n)
 
-o) 53. § (1) bekezdés d) pont db) alpontjában a „vagy” szövegrész.
+o)

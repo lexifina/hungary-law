@@ -6,6 +6,6 @@ b)
 
 c)
 
-d) 91. § (9) bekezdés d) pontja.
+d)
 
 e)

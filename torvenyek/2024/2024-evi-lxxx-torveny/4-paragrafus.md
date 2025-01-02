@@ -1,3 +1,1 @@
-4. § A Vgtv. 45. §-a a következő (7h) bekezdéssel egészül ki:
-
-„(7h) Felhatalmazást kap a Kormány, hogy a különleges vízkészlet-gazdálkodási körzet lehatárolását, valamint a fenntartható vízhasználat megőrzését és a nemzetgazdasági jelentőségű fejlesztések vízigényének felszín alatti vízkészletekből történő kielégítését szolgáló különleges intézkedések végrehajtása érdekében szükséges, a vízügyi igazgatási szervek által ellátandó feladatokat, illetve a felszín alatti vízkészletekből történő vízigény kielégítését célzó vízjogi engedély iránti kérelmek vízügyi hatósági elbírálásának, valamint a vízügyi hatósági ellenőrzésnek részletszabályait rendeletben állapítsa meg.”
+### 4. §
