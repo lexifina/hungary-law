@@ -26,4 +26,6 @@ f) együttműködik és kapcsolatot tart a Türk Államok Szervezete, valamint a
 
 8. Ez a határozat 2025. január 1. napján lép hatályba.
 
-9. Hatályát veszti a magyar–török közös kulturális évad 2024. évi megrendezésének előkészítéséért és lebonyolításáért felelős kormánybiztos kinevezéséről és feladatairól szóló 1417/2023. (IX. 27.) Korm. határozat.
+9.[^1]
+
+[^1]: A 9. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
