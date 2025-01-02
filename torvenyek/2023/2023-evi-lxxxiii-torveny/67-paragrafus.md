@@ -2,6 +2,6 @@
 
 a)
 
-b) 188. § (3) bekezdés b) pontja,
+b)
 
-c) 196. §-a.
+c)
