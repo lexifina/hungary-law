@@ -1,14 +1,17 @@
 14. § Hatályát veszti a Rendelet
 
-a)[^1]
+a)[^14]
 
-b)[^2]
+b)[^15]
 
-c) 23. § (3) bekezdésében a „közigazgatási minőségpolitikáért és személyzetpolitikáért felelős” szövegrész,
+c)[^16]
 
-d) 23. § (5) bekezdésében a „közigazgatási minőségpolitikáért és személyzetpolitikáért felelős” szövegrész,
+d)[^17]
 
-e) 23. § (6) bekezdésében a „közigazgatási minőségpolitikáért és személyzetpolitikáért felelős” szövegrész.
+e)[^18]
 
-[^1]: A 14. § a) pontja a 15. § (2) bekezdése alapján 2025. március 31-én lép hatályba.
-[^2]: A 14. § b) pontja a 15. § (2) bekezdése alapján 2025. március 31-én lép hatályba.
+[^14]: A 14. § a) pontja a 15. § (2) bekezdése alapján 2025. március 31-én lép hatályba.
+[^15]: A 14. § b) pontja a 15. § (2) bekezdése alapján 2025. március 31-én lép hatályba.
+[^16]: A 14. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 14. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 14. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-11. § A Rendelet a 6. melléklet szerinti 17. melléklettel egészül ki.
+11. §[^11]
+
+[^11]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

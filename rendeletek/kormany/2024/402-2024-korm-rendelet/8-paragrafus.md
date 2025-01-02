@@ -1,1 +1,3 @@
-8. § A Rendelet 13. melléklete a 3. melléklet szerint módosul.
+8. §[^8]
+
+[^8]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

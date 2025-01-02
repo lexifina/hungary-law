@@ -1,1 +1,3 @@
-10. § A Rendelet az 5. melléklet szerinti 16. melléklettel egészül ki.
+10. §[^10]
+
+[^10]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

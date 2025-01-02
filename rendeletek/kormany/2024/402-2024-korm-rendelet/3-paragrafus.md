@@ -1,9 +1,3 @@
-3. § A Rendelet 23. §-a a következő (7) bekezdéssel egészül ki:
+3. §[^3]
 
-„(7) A kormányablak-ügyintézői képzés Munkába Illesztő Képzés rész
-
-a) adott tananyagrészének és az ahhoz kapcsolódó vizsgakérdések felülvizsgálatáért és hatályosításáért a szakmai irányító miniszter,
-
-b) tananyagának és a vizsgakérdések teljes körű naprakészen tartásáért a miniszter
-
-felelős.”
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

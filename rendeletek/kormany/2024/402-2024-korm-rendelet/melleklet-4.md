@@ -1,5 +1,3 @@
-## A Rendelet 13. melléklet 1. pontja helyébe a következő pont lép:
+4. melléklet a 402/2024. (XII. 16.) Korm. rendelethez[^22]
 
-## „1. Emelt szintű kétfaktoros azonosítást biztosító ügyfélkapu-regisztráció”
-
-4. melléklet a 402/2024. (XII. 16.) Korm. rendelethez
+[^22]: A 4. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

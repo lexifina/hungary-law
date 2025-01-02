@@ -1,1 +1,3 @@
-12. § A Rendelet a 7. melléklet szerinti 18. melléklettel egészül ki.
+12. §[^12]
+
+[^12]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
