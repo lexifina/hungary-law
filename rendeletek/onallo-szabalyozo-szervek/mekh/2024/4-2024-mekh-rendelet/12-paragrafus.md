@@ -1,1 +1,3 @@
-12. § Hatályát veszti a villamos energia rendszerhasználati díjak, csatlakozási díjak és külön díjak meghatározásának a 2021. április 1. napjával induló árszabályozási ciklusra vonatkozó keretszabályairól szóló 12/2020. (XII. 14.) MEKH rendelet.
+12. §[^1]
+
+[^1]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
