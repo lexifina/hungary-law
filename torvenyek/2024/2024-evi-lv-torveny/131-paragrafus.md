@@ -1,3 +1,1 @@
-131. § Az Art. 131. §-a a következő (32) bekezdéssel egészül ki:
-
-„(32) Az állami adó- és vámhatóság képviselőjének állandó tagságával vagy vezetésével működő döntés-előkészítő, javaslattevő, véleményező vagy tanácsadói tevékenységet végző, a Kormány által létrehozott testület tagja az állami adó- és vámhatósággal kötött megállapodás alapján megismerheti az adótitkot, ha az a testületnek az állami adó- és vámhatóság által kezelt adatokkal összefüggő feladatai ellátásához szükséges. A tag kizárólag e tevékenységével összefüggésben, a feladatellátáshoz szükséges mértékben és ideig kezelheti az adatokat.”
+### 131. §
