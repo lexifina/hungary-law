@@ -1,5 +1,3 @@
-1. § A környezetbarát, környezetkímélő megkülönböztető jelzés használatának feltételrendszeréről szóló 29/1997. (VIII. 29.) KTM rendelet (a továbbiakban: R1.) 1. § (4) bekezdése helyébe a következő rendelkezés lép, és a § a következő (4a) bekezdéssel egészül ki:
+1. §[^2]
 
-„(4) A forgalomba vagy használatba kerülő termékek és szolgáltatások (a továbbiakban együtt: termékek) környezetbarát vagy környezetkímélő (a továbbiakban együtt: környezetbarát) minőségét igazoló megkülönböztető tanúsító rendszerrel kapcsolatos feladatokat a környezetvédelemért felelős miniszter által erre kijelölt szervezet, a HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: Szervezet) látja el.
-
-(4a) A Szervezet által, valamint az Értékelő és Minősítő Bizottság (a továbbiakban: Bizottság) közreműködésével minősített termékek környezetbarát voltát a Szervezet javára a Szellemi Tulajdon Nemzeti Hivatalánál lajstromozott – az 1. számú melléklet szerinti – védjegy mint megkülönböztető jelzés (a továbbiakban: védjegy) tanúsítja.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
