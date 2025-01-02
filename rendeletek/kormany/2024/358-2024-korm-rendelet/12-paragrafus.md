@@ -1,3 +1,3 @@
-12. § Az R. a következő 40. §-sal egészül ki:
+12. §[^13]
 
-„40. § A Hivatal kérelemre a módosításról szóló döntést egységes szerkezetben adja ki, amely tartalmazza a 20. § (1) és (2) bekezdése szerinti, módosítással nem érintett tartalmi elemeket is.”
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

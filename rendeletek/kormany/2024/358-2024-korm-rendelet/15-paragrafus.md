@@ -1,3 +1,3 @@
-15. § Az R. 61. § (9) bekezdése helyébe a következő rendelkezés lép:
+15. §[^16]
 
-„(9) Ha a víziközmű-szolgáltató az üzletszabályzatában meghatározott időszak alapulvételével történő leolvasás alkalmával olyan fogyasztást észlel, amely az utolsó mérőleolvasás során rögzített fogyasztást a víziközmű-szolgáltató üzletszabályzatában meghatározott mértékkel meghaladja, abban az esetben a lakossági felhasználót a víziközmű-szolgáltató jelen lévő képviselője a leolvasással egyidejűleg vagy az azt követő 15 napon belül a víziközmű-szolgáltató írásban, elektronikus úton vagy rögzített telefonbeszélgetés keretében tájékoztatja. A tájékoztatás megtörténtét kétség esetén a víziközmű-szolgáltató bizonyítja.”
+[^16]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

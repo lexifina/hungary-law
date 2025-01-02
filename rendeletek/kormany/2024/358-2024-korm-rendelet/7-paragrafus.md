@@ -1,3 +1,3 @@
-7. § Az R. 18. § (1) bekezdése a következő 9. ponttal egészül ki:
+7. §[^8]
 
-(A közérdekű üzemeltetőt kijelölő határozat tartalmazza:)
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

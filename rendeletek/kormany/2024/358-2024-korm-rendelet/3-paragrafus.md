@@ -1,5 +1,3 @@
-## „44. víziközmű-szolgáltató: a Vksztv. szerinti víziközmű-szolgáltatói működési engedéllyel (a továbbiakban: engedély) rendelkező gazdasági társaság;”
+3. §[^4]
 
-3. § Az R. 3. § (5) bekezdés 6. pontja helyébe a következő rendelkezés lép:
-
-(A pályázati kiírási dokumentációnak tartalmaznia kell:)
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

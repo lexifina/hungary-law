@@ -1,3 +1,3 @@
-17. § Az R. 85/A. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
+17. §[^18]
 
-(A szennyvíz beemelő működtetéséhez a felhasználó biztosítja:)
+[^18]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

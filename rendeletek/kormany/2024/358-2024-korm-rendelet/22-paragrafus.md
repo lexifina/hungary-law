@@ -1,3 +1,3 @@
-22. § Az R. 90/B. §-a helyébe a következő rendelkezés lép:
+22. §[^23]
 
-„90/B. § A Terv készítésének költségét a víziközmű-szolgáltató viseli.”
+[^23]: A 22. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
