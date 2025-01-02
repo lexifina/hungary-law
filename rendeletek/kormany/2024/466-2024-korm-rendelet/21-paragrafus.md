@@ -1,3 +1,3 @@
-21. § A Vet. Vhr. 47. § (3) bekezdés c) pontja helyébe a következő rendelkezés lép:
+21. §[^21]
 
-[Az Elosztói Szabályzat előírásai a 46. §-ban meghatározottakkal összhangban legalább az alábbiakra terjednek ki:]
+[^21]: A 21. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

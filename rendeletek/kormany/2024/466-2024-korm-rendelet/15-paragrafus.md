@@ -1,7 +1,3 @@
-15. § A Vet. Vhr. 16. § (3) bekezdése helyébe a következő rendelkezés lép:
+15. §[^15]
 
-„(3) Az elosztó saját költségén nem kötelezhető okosmérőnek nem minősülő távlehívható fogyasztásmérő felszerelésére a kisfeszültségű hálózatról ellátott azon felhasználási hely tekintetében,
-
-a) amely 3 × 80 A vagy az alatti csatlakozással rendelkezik, vagy
-
-b) amely esetében a vételezés közvilágítás vagy egyéb, a közvilágítási elosztó hálózatról ellátott vagy azzal együtt vezérelt világítás (telefonfülke, közlekedési jelzőtábla, reklámvilágítás stb.) céljára történik.”
+[^15]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

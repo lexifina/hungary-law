@@ -1,3 +1,3 @@
-23. § A Vet. Vhr. 87. § (1) bekezdése helyébe a következő rendelkezés lép:
+23. §[^23]
 
-„(1) Ha a közreműködő az engedélyes kapcsolt vállalkozása, a kiszervezett tevékenység teljesítéséhez a közreműködő a Hivatal előzetes engedélyével vehet igénybe más gazdasági szereplőt (a továbbiakban: alvállalkozó), ha az alvállalkozó igénybevételének a közreműködőnél felmerülő éves költsége meghaladja a vonatkozó kiszervezett tevékenységből eredően az engedélyesnél az utolsó lezárt üzleti évben felmerült összes költség 25%-át. Az alvállalkozó adatszolgáltatására a 85. § (2) bekezdésében foglaltakat kell alkalmazni. Az alvállalkozó az adatszolgáltatás teljesítése érdekében olyan, a kiszervezett tevékenységre vonatkozó elkülönült nyilvántartást vezet, amely biztosítja az engedélyes kiszervezett tevékenységének átláthatóságát, és kizárja a VET 105. § (2) bekezdés szerinti engedélyes egyes tevékenységei közötti keresztfinanszírozást.”
+[^23]: A 23. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
