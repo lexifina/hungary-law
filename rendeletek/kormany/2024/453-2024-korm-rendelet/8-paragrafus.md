@@ -1,1 +1,3 @@
-8. § A Púévhr. 95/A. § (2) bekezdésében a „4%-kal” szövegrész helyébe a „7%-kal” szöveg lép.
+8. §[^3]
+
+[^3]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
