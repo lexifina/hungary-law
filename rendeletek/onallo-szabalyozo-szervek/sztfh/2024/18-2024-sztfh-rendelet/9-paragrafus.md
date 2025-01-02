@@ -1,3 +1,3 @@
-9. § Az R2. 5. § (1) bekezdése helyébe a következő rendelkezés lép:
+9. §[^5]
 
-„(1) A továbbképzésre kötelezett személy a szakmai továbbképzésre, pótnapra vagy szakmai rendezvényre történő jelentkezését a Jogakadémia képzésszervezést támogató informatikai rendszere útján vagy a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvényben szabályozott elektronikus úton nyújthatja be.”
+[^5]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

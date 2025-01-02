@@ -1,5 +1,3 @@
-16. § Hatályát veszti az R2.
+16. §[^12]
 
-a) 1. § (3) bekezdése,
-
-b) 1. melléklete.
+[^12]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,7 +1,3 @@
-23. § Az R4.
+23. §[^18]
 
-a) 1. § (3) bekezdésében a „rendszeres” szövegrész helyébe a „kétévente” szöveg,
-
-b) 4. § nyitó szövegrészében a „45.” szövegrész helyébe a „30.” szöveg
-
-lép.
+[^18]: A 23. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
