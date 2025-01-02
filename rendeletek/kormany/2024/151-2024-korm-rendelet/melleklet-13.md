@@ -1,3 +1,3 @@
-13. melléklet a 151/2024. (VI. 28.) Korm. rendelethez[^36]
+13. melléklet a 151/2024. (VI. 28.) Korm. rendelethez[^32]
 
-[^36]: A 13. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^32]: A 13. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

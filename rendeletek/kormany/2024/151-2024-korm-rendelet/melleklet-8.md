@@ -1,3 +1,3 @@
-8. melléklet a 151/2024. (VI. 28.) Korm. rendelethez[^31]
+8. melléklet a 151/2024. (VI. 28.) Korm. rendelethez[^27]
 
-[^31]: A 8. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 8. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
