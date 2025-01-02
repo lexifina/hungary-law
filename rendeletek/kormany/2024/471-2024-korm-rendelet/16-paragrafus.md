@@ -1,1 +1,3 @@
-16. § A Korm.rend3 1. számú melléklet 5. pontjában a „földgáz-, kőolaj- és kőolajtermék” szövegrész helyébe a „földgáz-, egyéb gáz-, kőolaj- és kőolajtermék” szöveg lép.
+16. §[^17]
+
+[^17]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

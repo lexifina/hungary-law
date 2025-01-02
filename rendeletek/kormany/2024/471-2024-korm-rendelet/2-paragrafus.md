@@ -1,1 +1,3 @@
-2. § A Korm. rendelet 25. § (8) bekezdésében a „felelős műszaki szakértőt” szövegrész helyébe a „bányaüzemi felelős műszaki vezetőt” szöveg lép.
+2. §[^2]
+
+[^2]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

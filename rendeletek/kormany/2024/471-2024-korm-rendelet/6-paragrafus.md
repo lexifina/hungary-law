@@ -1,3 +1,3 @@
-6. § A Tszt. Vhr. 17/A. § 9. pontja helyébe a következő rendelkezés lép:
+6. §[^6]
 
-(E rendelet 17/B–17/H. §-ának alkalmazásában:)
+[^6]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

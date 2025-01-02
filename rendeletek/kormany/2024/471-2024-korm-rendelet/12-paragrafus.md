@@ -1,3 +1,3 @@
-## „f) a kitermelt vagy kinyert mennyiséget, a 2007. július 1-jét megelőzően működésbe állított föld alatti gáztárolás kényszerű párnagáz lecseréléséből származó földgáz esetében a visszapótolt mennyiséget és a kitermelt és visszapótolt mennyiség különbözetét, az 1. melléklet szerinti mértékegységben,”
+12. §[^13]
 
-12. § A Korm.rend1. 1. melléklete az 1. melléklet szerint módosul.
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

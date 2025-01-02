@@ -1,1 +1,3 @@
-14. § Hatályát veszti a Korm.rend1. 1. mellékletében foglalt táblázat B:104 mezőjében a „(medenceközpontú gáz)” szövegrész.
+14. §[^15]
+
+[^15]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
