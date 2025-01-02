@@ -1,9 +1,3 @@
 ## 14. A biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény módosítása
 
-19. § (1) A biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény (a továbbiakban: Gyftv.) 14. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Ismertetési tevékenységet folytató által gyógyszerek, tápszerek és gyógyászati segédeszközök rendelésére, használatának betanítására és forgalmazására jogosult egészségügyi szakképesítéssel rendelkezők számára szervezett rendezvények olyan ismertetést segítő rendezvények, amelyek kizárólag szakmai, tudományos vagy oktatási céllal szervezhetők. Az ismertetési tevékenységet folytató és az ismertető személy által a rendezvény keretében biztosított vendéglátás költségének általános forgalmi adó nélkül számított egy napra és egy főre eső összege nem haladhatja meg a mindenkori minimálbér havi összegének 15%-át, és a rendezvény fő céljához képest másodlagosnak kell lennie. A rendezvényre az egészségügyben, illetve a gyógyszerellátásban vagy a gyógyászatisegédeszköz-ellátásban közreműködő szakembereken kívül más személy csak indokolt esetben hívható meg.”
-
-(2) A Gyftv. 37. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) A gyógyszerészeti államigazgatási szerv a 12. § (3) bekezdésében meghatározott bejelentésről, a tevékenység megszüntetésének bejelentéséről és az ismertetési tevékenység folytatásának megtiltásáról elektronikus úton haladéktalanul adatszolgáltatást teljesít az állami adóhatósághoz. Az állami adóhatóság a (4) bekezdésben meghatározott befizetés teljesítéséről haladéktalanul adatszolgáltatást teljesít a gyógyszerészeti államigazgatási szerv részére.”
+### 19. §

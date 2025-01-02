@@ -1,1 +1,1 @@
-31. § Hatályát veszti az Infotv. 1. melléklet II. pontjában foglalt táblázat 6. sorában az „ , az adatvédelmi nyilvántartásba bejelentendő nyilvántartásoknak az e törvény szerinti azonosító adatai” szövegrész.
+### 31. §
