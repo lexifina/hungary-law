@@ -1,3 +1,3 @@
-7. melléklet a 218/2024. (VII. 31.) Korm. rendelethez[^102]
+7. melléklet a 218/2024. (VII. 31.) Korm. rendelethez[^104]
 
-[^102]: A 7. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^104]: A 7. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
