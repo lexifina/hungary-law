@@ -2,6 +2,7 @@
 
 a)[^1]
 
-b) 10–12. §-a, 16. § (5) bekezdése és 5. melléklete.
+b)[^2]
 
 [^1]: Az 1. § a) pontja a 2. § (2) bekezdése alapján 2025. március 1-jén lép hatályba.
+[^2]: Az 1. § b) pontja a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
