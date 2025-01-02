@@ -1,1 +1,3 @@
-15. § A belügyminiszter feladat- és hatáskörét érintően a nemzetbiztonsági ellenőrzés alá eső személyek meghatározásáról szóló 15/2015. (IV. 10.) BM rendelet 1. melléklet B. pont 3.10. alpontjában a „létfontosságú rendszerelemek” szövegrész helyébe a „kritikus szervezetek és a kritikus infrastruktúrák, valamint az ország védelme és biztonsága szempontjából jelentős szervezetek és az az ország védelme és biztonsága szempontjából jelentős infrastruktúrák” szöveg lép.
+15. §[^4]
+
+[^4]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

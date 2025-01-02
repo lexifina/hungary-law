@@ -1,1 +1,3 @@
-16. § Hatályát veszti a biztonsági összekötő személy rendszeres szakmai képzésére, továbbképzésére vonatkozó szabályokról szóló 25/2023. (VII. 4.) BM rendelet.
+16. §[^5]
+
+[^5]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

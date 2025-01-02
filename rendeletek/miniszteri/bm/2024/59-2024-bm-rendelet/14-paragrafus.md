@@ -1,3 +1,3 @@
-## „f) az egészségügy ágazatban kijelölt kritikus szervezetek, valamint az egészségügy ágazatban kijelölt az ország védelme és biztonsága szempontjából jelentős szervezetek.”
+14. §[^3]
 
-14. § Hatályát veszti a belügyminiszter feladatkörét érintő ágazati honvédelmi feladatokról szóló 16/2013. (V. 9.) BM rendelet 8/A. § (4) bekezdése.
+[^3]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

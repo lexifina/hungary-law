@@ -1,3 +1,3 @@
-12. § A megkülönböztető és figyelmeztető jelzést adó készülékek felszerelésének és használatának szabályairól szóló 12/2007. (III. 13.) IRM rendelet 9. § (1) bekezdése a következő s) ponttal egészül ki:
+12. §[^1]
 
-(Nem kell hatósági engedély a figyelmeztető jelzést adó készülék felszereléséhez)
+[^1]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
