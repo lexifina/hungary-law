@@ -1,3 +1,3 @@
-19. § A 20/2022. (I. 31.) SZTFH rendelet 40. § (1) bekezdése helyébe a következő rendelkezés lép:
+19. §[^20]
 
-„(1) A 29. § (1) bekezdése szerinti műszaki üzemi tervben a tájrendezési feladatokat a bányatelek megállapítása tárgyában hozott határozat előírásaival összhangban kell megtervezni.”
+[^20]: A 19. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

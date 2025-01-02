@@ -1,9 +1,3 @@
-27. § Hatályát veszti a 28/2022. (I. 31.) SZTFH rendelet
+27. §[^28]
 
-a) 4. § (6) bekezdés c) pontjában az „a robbantásvezető és” szövegrész,
-
-b) 2. melléklet 4. pont 4.1. alpont d) alpontjában az „időpontját, időtartamát,” szövegrész,
-
-c) 2. melléklet 4. pont 4.1. alpont e) alpontjában a „továbbá – ha a felelős személy nem azonos a robbantásvezetővel – a robbantásvezető nevét, lakcímét és engedélyének számát,” szövegrész,
-
-d) 2. melléklet 4. pont 4.3. alpontja.
+[^28]: A 27. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

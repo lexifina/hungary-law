@@ -1,7 +1,3 @@
-26. § A 28/2022. (I. 31.) SZTFH rendelet
+26. §[^27]
 
-a) 4. § (1a) bekezdésében a „robbantáshoz.” szövegrész helyébe a „robbantáshoz. A nyilatkozatot a robbanóanyag-felhasználási engedély iránti kérelemben szereplő időtartamra vonatkozóan kell megadni.” szöveg,
-
-b) 2. melléklet 4. pont 4.1. alpont j) pontjában a „bányában,” szövegrész helyébe a „bányában a kőolaj- és földgázbányászatban, a víz kitermelése céljából fúrólyukban” szöveg
-
-lép.
+[^27]: A 26. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

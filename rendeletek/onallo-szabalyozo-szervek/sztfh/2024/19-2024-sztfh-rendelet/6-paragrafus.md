@@ -1,5 +1,5 @@
 ## 4. A Kőolaj- és Földgázbányászati Biztonsági Szabályzatról szóló 16/2022. (I. 28.) SZTFH rendelet módosítása
 
-6. § A Kőolaj- és Földgázbányászati Biztonsági Szabályzatról szóló 16/2022. (I. 28.) SZTFH rendelet 18. §-a a következő (4) bekezdéssel egészül ki:
+6. §[^7]
 
-„(4) A fúrási telephelyre – az oda beosztott és ott munkát végző, valamint a bányafelügyelet részéről ellenőrzésre jogosult személyek kivételével – kísérő nélkül belépni és ott tartózkodni tilos.”
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,3 @@
-3. § Hatályát veszti a 11/2022. (I. 28.) SZTFH rendelet
+3. §[^4]
 
-a) 9. § (7) bekezdés a) pontja,
-
-b) 9. § (10) bekezdésében a „legfeljebb 180 napos időtartamra” szövegrész.
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

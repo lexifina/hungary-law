@@ -1,3 +1,3 @@
-9. § A 20/2022. (I. 31.) SZTFH rendelet 15/D. §-a a következő (3) bekezdéssel egészül ki:
+9. §[^10]
 
-„(3) A bányavállalkozó az (1) bekezdés szerinti kérelemhez mellékeli a biztosítékadásra vonatkozó ajánlatát, és az ajánlatát alátámasztó költségtervet a 41. § (3) bekezdése szerinti tartalommal.”
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

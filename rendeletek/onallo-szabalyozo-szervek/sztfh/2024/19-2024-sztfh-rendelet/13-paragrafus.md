@@ -1,3 +1,3 @@
-13. § A 20/2022. (I. 31.) SZTFH rendelet 30. § (2) bekezdés e) pontja helyébe a következő rendelkezés lép:
+13. §[^14]
 
-(A műszaki üzemi tervet jóváhagyó határozat – az általános közigazgatási rendtartásról szóló törvényben előírtakon túl – tartalmazza)
+[^14]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

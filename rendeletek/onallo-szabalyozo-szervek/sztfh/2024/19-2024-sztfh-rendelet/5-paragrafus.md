@@ -1,1 +1,3 @@
-5. § A 12/2022. (I. 28.) SZTFH rendelet 17. § a) pontjában az „övezetének” szövegrész helyébe az „övezetének, valamint az építési terület, illetve építési sáv” szöveg lép.
+5. §[^6]
+
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
