@@ -1,9 +1,3 @@
-17. § A TÉKA
+17. §[^17]
 
-a) 91. § (1) bekezdése a „biztonsági üvegezéssel” szövegrész helyett a „ragasztott biztonsági üvegezéssel” szöveggel,
-
-b) 109. § (1) bekezdése az „Építési termékként forgalomba hozott égéstermék-elvezető alkalmazásával homlokzati” szövegrész helyett a „Homlokzati” szöveggel,
-
-c) 109. § (2) bekezdése az „Építési termékként forgalomba hozott égéstermék-elvezetőhöz homlokzati” szövegrész helyett a „Homlokzati” szöveggel
-
-lép hatályba.
+[^17]: A 17. § a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
