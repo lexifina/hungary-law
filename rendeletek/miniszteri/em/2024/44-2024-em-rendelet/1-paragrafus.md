@@ -1,5 +1,3 @@
-1. § Az egyetemes szolgáltatók részére vételre felajánlott földgázforrás és a hazai termelésű földgáz mennyiségéről és áráról, valamint az igénybevételre jogosultak és kötelezettek köréről szóló 67/2016. (XII. 29.) NFM rendelet (a továbbiakban: Felajánlási rendelet) 7. § (3) és (4) bekezdése helyébe a következő rendelkezések lépnek:
+1. §[^2]
 
-„(3) Amennyiben az adott negyedévben az egyetemes szolgáltató az 1. és a 2. mellékletekben meghatározott földgáz mennyiséget közvetve vagy közvetlenül nem az egyetemes szolgáltatásra jogosult felhasználók ellátására használja, és így az egyetemes szolgáltatót ellátó földgázkereskedőnek vesztesége keletkezik, az árszabályozás során a felajánlási ár megállapításakor ez a veszteség kamattal (tárgyidőszakra vonatkozó BUBOR) növelt összege figyelembevételre kerül.
-
-(4) Amennyiben az adott negyedévben az egyetemes szolgáltató az 1. és a 2. mellékletekben meghatározott földgáz mennyiséget közvetve vagy közvetlenül nem az egyetemes szolgáltatásra jogosult felhasználók ellátására használja, a Hivatal az egyetemes szolgáltatóval szemben a GET 119. § (1) bekezdésében foglalt jogkövetkezményeket alkalmazhatja.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

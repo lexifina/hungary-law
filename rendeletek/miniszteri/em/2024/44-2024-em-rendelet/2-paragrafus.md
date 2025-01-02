@@ -1,3 +1,3 @@
-2. § A Felajánlási rendelet 8. §-a helyébe a következő rendelkezés lép:
+2. §[^3]
 
-„8. § A kapcsolt termelésszerkezet átalakítási hozzájárulás és a kiegyenlítő hozzájárulás GET 141/B. § (15) bekezdés b) pontja szerinti mértékét a 6. melléklet tartalmazza.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
