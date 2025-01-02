@@ -1,5 +1,5 @@
 ## 1. Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet módosítása
 
-1. § Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet 5/C. §-a a következő (4) bekezdéssel egészül ki:
+1. §[^2]
 
-„(4) A (3) bekezdésben foglaltakon túlmenően, ha a finanszírozó az emberi reprodukcióra irányuló különleges eljárások végzésére vonatkozó, valamint az ivarsejtekkel és embriókkal való rendelkezésre és azok fagyasztva tárolására vonatkozó részletes szabályokról szóló miniszteri rendeletben meghatározott asszisztált reprodukciós beavatkozások esetén megállapítja, hogy a finanszírozásra jelentett ellátási esemény nem szerepel a Nemzeti Szülészeti, Perinatális és Humán Reprodukciós Regiszterben, vagy az EESZT-be vagy a Nemzeti Szülészeti, Perinatális és Humán Reprodukciós Regiszterbe jelentett adatok hiányosak, az ellátási eseményre vonatkozó finanszírozási díjat visszavonja.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
