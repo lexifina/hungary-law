@@ -1,5 +1,3 @@
-2. § Hatályát veszti az R.
+2. §[^3]
 
-a) 4. § (2) bekezdésében az „írásban, postai vagy külön törvényben szabályozott” szövegrész,
-
-b) 8. § (1) bekezdés b) és d) pontja.
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
