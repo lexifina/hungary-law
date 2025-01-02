@@ -100,3 +100,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-40-00-00
 | 2024-01-01 | 2023. évi XCIX. törvény | 2008-40-00-00.99 |
 | 2024-04-01 | 2023. évi XCIX. törvény | 2008-40-00-00.100 |
 | 2025-01-01 | 2024. évi LXXXIX. törvény | 2008-40-00-00.101 |
+| 2025-01-02 | 2024. évi LXXXIX. törvény | 2008-40-00-00.103 |

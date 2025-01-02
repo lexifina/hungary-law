@@ -39,5 +39,3 @@ h) a megújuló gáz és a földgáz, valamint a hidrogén belső piacára vonat
 (11) Ez a törvény a koordinált gázkereslet-csökkentési intézkedésekről szóló, 2022. augusztus 5-i (EU) 2022/1369 tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
 
 (12) Ez a törvény az (EU) 2022/1369 rendeletnek a gázra vonatkozó keresletcsökkentési intézkedésekkel kapcsolatos keresletcsökkentési időszak meghosszabbítása, valamint az intézkedések végrehajtására vonatkozó jelentéstétel és nyomon követés megerősítése tekintetében történő módosításáról szóló, 2023. március 30-i (EU) 2023/706 tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
-
-(12a) E törvény az 1227/2011/EU és az (EU) 2019/942 rendeletnek a nagykereskedelmi energiapiacon az Unió piaci manipulációval szembeni védelmének javítása tekintetében történő módosításáról szóló, 2024. április 11-i (EU) 2024/1106 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
