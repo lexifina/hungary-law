@@ -1,5 +1,5 @@
 ## 4. Az Oktatási Hivatalról szóló 121/2013. (IV. 26.) Korm. rendelet módosítása
 
-29. §[^38]
+29. §[^42]
 
-[^38]: A 29. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^42]: A 29. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

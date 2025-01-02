@@ -1,5 +1,5 @@
 ## 8. A közneveléssel összefüggő egyes kormányrendeletek módosításáról szóló 417/2020. (VIII. 30.) Korm. rendelet módosítása
 
-36. §[^45]
+36. §[^49]
 
-[^45]: A 36. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^49]: A 36. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
