@@ -1,5 +1,3 @@
-41. § Nem lép hatályba
+41. §[^5]
 
-a) a villamos energia rendszerhasználati díjak, csatlakozási díjak és külön díjak alkalmazási szabályairól szóló 10/2016. (XI. 14.) MEKH rendelet és a villamos energia rendszerhasználati díjak, csatlakozási díjak és külön díjak meghatározásának a 2021. április 1. napjával induló árszabályozási ciklusra vonatkozó keretszabályairól szóló 12/2020. (XII. 14.) MEKH rendelet módosításáról szóló 13/2022. (XI. 18.) MEKH rendelet 1. §-a, 2. § (2) bekezdése, 4–11. §-a, 14. §-a és 15. §-a,
-
-b) a villamos energia rendszerhasználati díjak, csatlakozási díjak és külön díjak alkalmazási szabályairól szóló 10/2016. (XI. 14.) MEKH rendelet és a villamos energia rendszerhasználati díjak, csatlakozási díjak és külön díjak meghatározásának a 2021. április 1. napjával induló árszabályozási ciklusra vonatkozó keretszabályairól szóló 12/2020. (XII. 14.) MEKH rendelet módosításáról szóló 13/2022. (XI. 18.) MEKH rendelet egyes rendelkezéseinek eltérő szöveggel történő hatálybalépéséről szóló 9/2024. (X. 31.) MEKH rendelet.
+[^5]: A 41. § a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
