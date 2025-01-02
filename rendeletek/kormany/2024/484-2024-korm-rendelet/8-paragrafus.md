@@ -1,3 +1,3 @@
-8. § Az R2. 6. § (2) bekezdése a következő f) ponttal egészül ki:
+8. §[^8]
 
-(A bejelentéshez mellékelni kell)
+[^8]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

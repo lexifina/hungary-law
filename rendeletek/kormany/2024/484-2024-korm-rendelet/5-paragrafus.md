@@ -1,7 +1,3 @@
-5. § Az R1.
+5. §[^5]
 
-a) 27. § (5) bekezdésében az „adatszolgáltatási kötelezettségének” szövegrész helyébe a „regisztrációs és adatszolgáltatási kötelezettségének” szöveg,
-
-b) 27. § (6) bekezdésében a „történő adatszolgáltatási” szövegrészek helyébe a „történő regisztrációs és adatszolgáltatási” szöveg
-
-lép.
+[^5]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

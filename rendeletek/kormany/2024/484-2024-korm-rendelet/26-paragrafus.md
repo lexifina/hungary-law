@@ -1,1 +1,3 @@
-26. § Hatályát veszti az R3. 7. § (9) bekezdése.
+26. §[^32]
+
+[^32]: A 26. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

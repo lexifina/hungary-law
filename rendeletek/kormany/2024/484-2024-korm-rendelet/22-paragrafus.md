@@ -1,3 +1,3 @@
-22. § Az R3. a következő 16/A. §-sal egészül ki:
+22. §[^23]
 
-„16/A. § A 2024. december 31. napján regisztrációs számmal nem rendelkező magánszálláshely és egyéb szálláshely 2026. december 31. napjáig nem kaphat regisztrációs számot Budapest főváros közigazgatási területén.”
+[^23]: A 22. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

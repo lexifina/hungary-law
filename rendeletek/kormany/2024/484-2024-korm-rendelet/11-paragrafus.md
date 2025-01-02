@@ -1,3 +1,3 @@
-11. § Az R2. 12. § (1) bekezdése a következő i) ponttal egészül ki:
+11. §[^11]
 
-[A szálláshely-szolgáltatási tevékenységet folytatókról vezetett nyilvántartás (a továbbiakban: szálláshely-nyilvántartás) – a Szolgtv. 26. § (2) bekezdés a)–d) pontjaiban meghatározott adatokon túl – tartalmazza:]
+[^11]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

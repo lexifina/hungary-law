@@ -1,3 +1,3 @@
-6. melléklet a 484/2024. (XII. 31.) Korm. rendelethez[^9]
+6. melléklet a 484/2024. (XII. 31.) Korm. rendelethez[^39]
 
-[^9]: A 6. melléklet a 28. § (3) bekezdése alapján 2026. január 1-jén lép hatályba.
+[^39]: A 6. melléklet a 28. § (3) bekezdése alapján 2026. január 1-jén lép hatályba.

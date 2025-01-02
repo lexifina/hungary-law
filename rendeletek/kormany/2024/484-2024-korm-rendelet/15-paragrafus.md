@@ -1,3 +1,3 @@
-15. § Az R3. 6/A. § (5) bekezdése helyébe a következő rendelkezés lép:
+15. §[^16]
 
-„(5) A regisztrációs eljárás során a regisztrációt végző természetes személy megadja a vendéglátó üzlet üzemeltetőjére vonatkozó, a 2. melléklet I. pontjában meghatározott adatokat, amelyeket a Nemzeti Turisztikai Adatszolgáltató Központ a regisztráció véglegesítéséhez az elektronikusan rendelkezésre álló, a Turizmus tv.-ben meghatározott nyilvántartásokban ellenőriz.”
+[^16]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

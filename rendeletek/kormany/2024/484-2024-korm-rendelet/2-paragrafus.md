@@ -1,3 +1,3 @@
-2. § Az R1. 10. §-a a következő (6) bekezdéssel egészül ki:
+2. §[^2]
 
-„(6) A jegyző a 4. melléklet szerinti vendéglátó üzlettípusok nyilvántartásból való törléséről szóló dokumentumokat az ASP keretrendszer Nemzeti Turisztikai Adatszolgáltató Központ szakrendszerben a vendéglátó üzlethez feltölti.”
+[^2]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

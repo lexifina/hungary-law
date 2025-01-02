@@ -1,3 +1,3 @@
-16. § Az R3. 6/C. § (5) bekezdése helyébe a következő rendelkezés lép:
+16. §[^17]
 
-„(5) A regisztrációs eljárás során a regisztrációt végző természetes személy megadja a turisztikai attrakció üzemeltetőre vonatkozó, a 2. melléklet I. pontjában meghatározott adatokat, amelyeket a Nemzeti Turisztikai Adatszolgáltató Központ a regisztráció véglegesítéséhez az elektronikusan rendelkezésre álló, a Turizmus tv.-ben meghatározott nyilvántartásokban ellenőriz.”
+[^17]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
