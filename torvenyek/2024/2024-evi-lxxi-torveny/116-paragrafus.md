@@ -2,7 +2,7 @@
 
 a)
 
-b) 13/B. § (7) bekezdésében a „kabinetfőnök” szövegrész helyébe a „kabinetfőnök, valamint a 13/C. § (1) bekezdése szerinti igazgató” szöveg,
+b)
 
 c)
 
@@ -14,7 +14,7 @@ f)
 
 g)
 
-h) 155. § (4) és (4a) bekezdésében a „második hónap” szövegrész helyébe a „negyedik hónap” szöveg,
+h)
 
 i)
 

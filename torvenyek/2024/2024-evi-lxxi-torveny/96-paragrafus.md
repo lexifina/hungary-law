@@ -8,11 +8,11 @@ c)
 
 d)
 
-e) 145. § (1) bekezdés a) pontjában a „második hónap” szövegrész helyébe a „negyedik hónap” szöveg,
+e)
 
 f)
 
-g) 289/P. § (10) bekezdés a) pontjában a „második hónap” szövegrész helyébe a „negyedik hónap” szöveg,
+g)
 
 h)
 

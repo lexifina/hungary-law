@@ -28,19 +28,19 @@
 
 14.
 
-15. 52/A. § (1) bekezdésében a „8/A. § (1)–(3) bekezdésében” szövegrész helyébe a „8/A. § (1) bekezdésében” szöveg,
+15.
 
-16. 52/B. § (1) bekezdés nyitó szövegrészében a „8/A. § (1)–(3) bekezdésében” szövegrész helyébe a „8/A. § (1) bekezdésében” szöveg,
+16.
 
-17. 52/E. § (1) bekezdésében a „8/A. § (3) bekezdésében” szövegrész helyébe a „8/A. § (1) bekezdésében” szöveg,
+17.
 
-18. 52/H. § (1) bekezdésében a „8/A. § (4) bekezdésében” szövegrész helyébe a „8/A. § (1) bekezdés j) pontjában” szöveg,
+18.
 
 19.
 
 20.
 
-21. 52/H. § (4) bekezdés nyitó szövegrészében a „8/A. § (4) bekezdésében” szövegrész helyébe a „8/A. § (1) bekezdés j) pontjában” szöveg,
+21.
 
 22.
 
@@ -48,7 +48,7 @@
 
 24.
 
-25. 52/H. § (7) bekezdésében a „(3) bekezdés i) pontjában” szövegrész helyébe a „(1) bekezdés f) pontjában” szöveg,
+25.
 
 26.
 
@@ -96,7 +96,7 @@
 
 48.
 
-49. 52/N. § (1) bekezdésében a „8/A. § (4) bekezdésében” szövegrész helyébe a „8/A. § (1) bekezdés j) pontjában” szöveg,
+49.
 
 50.
 
