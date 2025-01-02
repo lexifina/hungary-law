@@ -1,3 +1,1 @@
-111. § Az Afad. 15. alcíme a következő 26/B. §-sal egészül ki:
-
-„26/B. § Azon zártkörű befektetési alapok vonatkozásában, amelyek felügyeleti nyilvántartásba történő bejegyzése az egyes pénzügyi és vagyongazdálkodási tárgyú törvények módosításáról szóló 2024. évi LVI. törvénnyel megállapított 1. § (1) bekezdés 30. pontja hatálybalépésének napjáig megtörtént, a 7. § szerinti adattovábbítást először a 2026. július hónapra vonatkozó adatszolgáltatás keretében kell elvégezni.”
+### 111. §
