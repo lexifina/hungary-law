@@ -1,13 +1,3 @@
-1. melléklet a 47/2024. (XII. 18.) NGM rendelethez
+1. melléklet a 47/2024. (XII. 18.) NGM rendelethez[^5]
 
-A Rendelet 1. melléklet X. pontjában foglalt táblázat a következő 6. sorral egészül ki:
-
-|  | (A | B | C |
-
-|  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége) |
-
-„
-
-| 6. | Comitatus Üzletviteli és Tanácsadó Korlátolt Felelősségű Társaság | 01-09-291461 | 2026. december 31. |
-
-”
+[^5]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
