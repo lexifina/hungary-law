@@ -1,3 +1,3 @@
-5. § Az R2. 16/A. § (3b) bekezdése helyébe a következő rendelkezés lép:
+5. §[^6]
 
-„(3b) A járási hivatal a térség munkaerőpiaci helyzetét mérlegelve, a foglalkoztató munkaerőigényének befogadását megtagadhatja, ha a foglalkoztató az ellátandó tevékenységért az erre a tevékenységre vonatkozó országos bruttó átlagkeresetnél alacsonyabb munkabért – ideértve az illetményt és a díjazást – jelölt meg. A munkaerőigényben az ellátandó tevékenységért megjelölt munkabér – ideértve az illetményt és a díjazást – az erre a tevékenységre vonatkozó országos bruttó átlagkeresetnél akkor minősül lényegesen alacsonyabbnak, ha nem haladja meg annak nyolcvan százalékát.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
