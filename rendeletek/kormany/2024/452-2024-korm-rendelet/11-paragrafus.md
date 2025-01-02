@@ -1,5 +1,3 @@
-11. § Hatályát veszti
+11. §[^7]
 
-a) a nyugellátások és egyes más ellátások 2023. január havi emeléséről szóló 506/2022. (XII. 13.) Korm. rendelet,
-
-b) a nyugellátások és egyes más ellátások 2023. november havi kiegészítő emeléséről szóló 463/2023. (X. 6.) Korm. rendelet.
+[^7]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
