@@ -1,1 +1,3 @@
-1. § Hatályát veszti a légszennyezettségi határértékekről, a helyhez kötött légszennyező pontforrások kibocsátási határértékeiről szóló 14/2001. (V. 9.) KöM–EüM–FVM együttes rendelet módosításáról szóló 4/2004. (IV. 7.) KvVM–ESZCSM–FVM együttes rendelet.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
