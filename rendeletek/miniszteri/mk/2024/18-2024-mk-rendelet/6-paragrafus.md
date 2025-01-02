@@ -1,1 +1,3 @@
-6. § Nem lép hatályba a biztonsági osztályba sorolás követelményeiről, valamint az egyes biztonsági osztályok esetében alkalmazandó konkrét védelmi intézkedésekről szóló 7/2024. (VI. 24.) MK rendelet 1. § (1) bekezdése.
+6. §[^6]
+
+[^6]: A 6. § a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
