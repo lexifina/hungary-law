@@ -1,4 +1,4 @@
-8. § Hatályát veszti az igazságügyi szakértők statisztikai adatszolgáltatásáról, a kamarai költségátalány bevallásának és megfizetésének szabályairól, valamint az igazságügyi szakértő által vezetett adattovábbítási nyilvántartásról szóló 13/2016. (VI. 29.) IM rendelet.
+8. §[^1]
 
 Melléklet a 16/2024. (XII. 6.) IM rendelethez
 
@@ -149,3 +149,5 @@ Melléklet a 16/2024. (XII. 6.) IM rendelethez
 4.6.7.1. a 4.6.1–4.6.6. pont szerinti megfizetett szakértői díjak összesített összege forintban
 
 4.6.7.2. a 4.6.7.1. pont szerinti összesített összegből azon ügyekre vonatkozóan megfizetett szakértői díjak összege forintban, melyekben a szakértő díját a Szakértői törvény 49. § (1) bekezdése alapján kell számítani
+
+[^1]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
