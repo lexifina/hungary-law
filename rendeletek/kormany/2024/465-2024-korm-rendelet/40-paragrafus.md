@@ -1,7 +1,3 @@
-40. § Hatályát veszti a 273/2023. Korm. rendelet
+40. §[^42]
 
-a) 2. § (1) bekezdés 1. pontja,
-
-b) 2. § (1) bekezdés 5. pontjában a „vagy üzemanyag-töltőállomás”,
-
-c) 4. § (1) bekezdésében a „legalább nyitvatartási időben” szövegrész.
+[^42]: A 40. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

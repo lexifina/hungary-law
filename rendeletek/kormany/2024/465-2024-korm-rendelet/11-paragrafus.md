@@ -1,1 +1,3 @@
-11. § A 442/2012. Korm. rendelet 3. melléklete a 2. melléklet szerint módosul.
+11. §[^13]
+
+[^13]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

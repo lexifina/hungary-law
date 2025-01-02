@@ -1,7 +1,5 @@
 ## 12. A kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló 80/2023. (III. 14.) Korm. rendelet módosítása
 
-26. § A kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló 80/2023. (III. 14.) Korm. rendelet (a továbbiakban: 80/2023. Korm. rendelet) 16. § (4) bekezdés a) pontja a következő ag) alponttal egészül ki:
+26. §[^28]
 
-(Nem minősül forgalomba hozatalnak a körforgásos termék tulajdonjogának)
-
-„ag) a jövedéki adóról szóló törvény szerinti szabadforgalomba bocsátást megelőző átruházása,”
+[^28]: A 26. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

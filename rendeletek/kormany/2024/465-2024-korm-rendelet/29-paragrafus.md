@@ -1,3 +1,3 @@
-29. § A 80/2023. Korm. rendelet 20. § (1) bekezdése helyébe a következő rendelkezés lép:
+29. §[^31]
 
-„(1) A gyártó által fizetendő kiterjesztett gyártói felelősségi díj mértéke kollektív teljesítés esetén a gyártó által forgalomba hozott, a tárgynegyedévre vonatkozó adatszolgáltatásában szereplő körforgásostermék-mennyiség és a 19. § (1) bekezdése szerint az adott termékáramra megállapított egységnyi díjtétel szorzata. A 26. § (1b) bekezdése szerinti esetben a gyártó által fizetendő kiterjesztett gyártói felelősségi díj mértéke a gyártó által forgalomba hozott, a tárgyévre vonatkozó adatszolgáltatásában szereplő körforgásostermék-mennyiség és a 19. § (1) bekezdése szerint az adott termékáramra megállapított egységnyi díjtétel szorzata.”
+[^31]: A 29. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

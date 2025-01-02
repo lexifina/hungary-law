@@ -1,3 +1,5 @@
 ## 1. A szennyvizek és szennyvíziszapok mezőgazdasági felhasználásának és kezelésének szabályairól szóló 50/2001. (IV. 3.) Korm. rendelet módosítása
 
-1. § A szennyvizek és szennyvíziszapok mezőgazdasági felhasználásának és kezelésének szabályairól szóló 50/2001. (IV. 3.) Korm. rendelet 4. § (4) bekezdésében a „biohulladék kezeléséről és a komposztálás műszaki követelményeiről szóló 23/2003. (XII. 29.) KvVM rendelet” szövegrész helyébe a „biológiailag lebomló hulladék képződésének megelőzésére vonatkozó tevékenységekről, a biológiailag lebomló hulladékkal kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályairól és a biohulladékból előállított komposzt osztályozásának szabályairól szóló kormányrendelet” szöveg lép.
+1. §[^1]
+
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

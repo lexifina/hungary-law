@@ -1,5 +1,3 @@
-43. § Hatályát veszti a 275/2023. Korm. rendelet
+43. §[^45]
 
-a) 2. § (1) bekezdés 1. pontja,
-
-b) 4. § (1) bekezdésében a „legalább nyitvatartási időben” szövegrész.
+[^45]: A 43. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

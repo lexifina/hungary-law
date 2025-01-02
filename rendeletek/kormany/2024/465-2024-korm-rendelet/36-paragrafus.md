@@ -1,5 +1,3 @@
-36. § (1) A 80/2023. Korm. rendelet 1. melléklete a 6. melléklet szerint módosul.
+36. §[^38]
 
-(2) A 80/2023. Korm. rendelet 2. melléklete a 7. melléklet szerint módosul.
-
-(3) A 80/2023. Korm. rendelet 4. melléklete a 8. melléklet szerint módosul.
+[^38]: A 36. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

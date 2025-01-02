@@ -1,9 +1,3 @@
-13. § Hatályát veszti a 442/2012. Korm. rendelet
+13. §[^15]
 
-a) 9. § (3) bekezdésében az „egyéni teljesítés esetén a gyártónak, kollektív teljesítés esetén” szövegrész,
-
-b) 9. § (4) bekezdésében az „egyéni teljesítés esetén a gyártót, kollektív teljesítés esetén” szövegrész,
-
-c) 11. § (5) bekezdés d)–f) pontja,
-
-d) 12. § (1) bekezdése.
+[^15]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

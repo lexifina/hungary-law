@@ -1,5 +1,5 @@
 ## 8. Az egyes hulladékgazdálkodási létesítmények kialakításának és üzemeltetésének szabályairól szóló 246/2014. (IX. 29.) Korm. rendelet módosítása
 
-20. § Az egyes hulladékgazdálkodási létesítmények kialakításának és üzemeltetésének szabályairól szóló 246/2014. (IX. 29.) Korm. rendelet (a továbbiakban: 246/2014. Korm. rendelet) 2. § (1) bekezdés 12. pontja helyébe a következő rendelkezés lép:
+20. §[^22]
 
-(E rendelet alkalmazásában:)
+[^22]: A 20. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

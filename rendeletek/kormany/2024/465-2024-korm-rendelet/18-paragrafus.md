@@ -1,7 +1,3 @@
-18. § A 197/2014. Korm. rendelet
+18. §[^20]
 
-a) 5. § (1) bekezdésében az „a gyártó vagy a koncessziós társaság az átvétel helyén” szövegrész helyébe az „egyéni teljesítés esetén a gyártó, kollektív teljesítés esetén a koncessziós társaság” szöveg, az „a gyártó, a” szövegrész helyébe az „egyéni teljesítés esetén a gyártó, kollektív teljesítés esetén a” szöveg,
-
-b) 17. § (2) bekezdésében a „2. pont a)–c) alpontjában” szövegrész helyébe az „1.1–1.3. pontjában” szöveg
-
-lép.
+[^20]: A 18. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

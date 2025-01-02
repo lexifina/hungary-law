@@ -1,3 +1,3 @@
-27. § A 80/2023. Korm. rendelet 16. §-a a következő (6) bekezdéssel egészül ki:
+27. §[^29]
 
-„(6) A (4) bekezdés d) pontja szerinti esetben a külföldre történő kiszállítás szállítólevéllel vagy fuvarokmánnyal igazolható.”
+[^29]: A 27. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

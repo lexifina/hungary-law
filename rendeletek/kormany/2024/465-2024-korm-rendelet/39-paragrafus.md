@@ -1,3 +1,5 @@
 ## 13. A használt sütőolajjal kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályairól szóló 273/2023. (VI. 29.) Korm. rendelet módosítása
 
-39. § A használt sütőolajjal kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályairól szóló 273/2023. (VI. 29.) Korm. rendelet (a továbbiakban: 273/2023. Korm. rendelet) 2. § (1) bekezdés 5. pontjában a „forgalmazó” szövegrész helyébe a „gazdálkodó szervezet” szöveg, és az „intézmény,” szövegrész helyébe az „intézmény vagy” szöveg lép.
+39. §[^41]
+
+[^41]: A 39. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
