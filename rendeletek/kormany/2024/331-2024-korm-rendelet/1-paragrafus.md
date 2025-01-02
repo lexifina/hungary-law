@@ -26,14 +26,6 @@
 
 ## 1. Az igazságügyi szakértői névjegyzék vezetéséről szóló 210/2005. (X. 5.) Korm. rendelet módosítása
 
-1. § Hatályát veszti az igazságügyi szakértői névjegyzék vezetéséről szóló 210/2005. (X. 5.) Korm. rendelet 1. melléklet
+1. §[^2]
 
-a) 2.1.5. pontjában a „3. vagy” szövegrész,
-
-b) 2.1.7–2.1.9. pontja,
-
-c) 3. pontja,
-
-d) 4. pontjában az „a szakmai gyakorlati időt nem szakértőjelöltként megszerző kérelmező” szövegrész,
-
-e) 5. pontja.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
