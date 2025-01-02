@@ -1,1 +1,3 @@
-4. § Hatályát veszti a villamos energiáról szóló 2007. évi LXXXVI. törvény veszélyhelyzet ideje alatt történő további eltérő alkalmazásáról és a villamos energiáról szóló 2007. évi LXXXVI. törvény veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 450/2022. (XI. 9.) Korm. rendelet módosításáról szóló 484/2022. (XI. 29.) Korm. rendelet.
+4. §[^2]
+
+[^2]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
