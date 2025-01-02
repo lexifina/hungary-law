@@ -1,23 +1,31 @@
 4. § A 11/2020. (II. 7.) Korm. rendelet
 
-a) 15. § (1) bekezdésében a „történő felvételétől” szövegrész helyébe a „történő felvétel alapjául szolgáló szakértői alapképzés teljesítésétől” szöveg,
+a)[^4]
 
-b) 15. § (2a) bekezdésében a „két továbbképzési időszakot szervez. Az egyes továbbképzési időszakok” szövegrész helyébe a „két képzési időszakot szervez. Az éves képzési időszakban szervezi meg a felnőttképzési szakértők alap- és továbbképzését (a továbbiakban együtt: továbbképzés) és vizsgáit. Az egyes képzési időszakok” szöveg,
+b)[^5]
 
-c) 18. § (6) bekezdésében a „képzés program” szövegrész helyébe a „képzési program” szöveg,
+c)[^6]
 
-d) 20. § (2) bekezdés a) pontjában a „Központ Zártkörűen” szövegrész helyébe a „Központ Nonprofit Zártkörűen” szöveg,
+d)[^7]
 
-e) 22. § (3a) bekezdésében az „A felnőttképző a” szövegrész helyébe a „Ha a felnőttképző a felnőttképzési tevékenység folytatását engedély alapján végzi, illetve amennyiben a szakképző intézmény az Fktv. 2/A. § (2) bekezdés a) pontja szerinti képzést folytat, akkor a” szöveg,
+e)[^8]
 
-f)[^1]
+f)[^9]
 
-g) 31. § c) pontjában az „egyhavi összegének ötvenszerese” szövegrész helyébe az „egyhavi összegének harmincszorosa, súlyosabban minősülő jogszabálysértés esetén ötvenszerese” szöveg,
+g)[^10]
 
-h) 36. §-ában a „Pest Megyei” szövegrész helyébe a „Pest Vármegyei” szöveg,
+h)[^11]
 
-i) 37. § (3) bekezdésében a „Pest Megyei” szövegrész helyébe a „Pest Vármegyei” szöveg
+i)[^12]
 
 lép.
 
-[^1]: A 4. § f) pontja a 6. § (2) bekezdése alapján 2025. január 16-án lép hatályba.
+[^4]: A 4. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 4. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 4. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 4. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 4. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 4. § f) pontja a 6. § (2) bekezdése alapján 2025. január 16-án lép hatályba.
+[^10]: A 4. § g) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 4. § h) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 4. § i) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

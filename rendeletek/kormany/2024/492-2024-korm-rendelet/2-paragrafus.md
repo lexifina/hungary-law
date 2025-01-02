@@ -1,3 +1,3 @@
-2. § A 11/2020. (II. 7.) Korm. rendelet 22. §-a a következő (4) bekezdéssel egészül ki:
+2. §[^2]
 
-„(4) A mikrotanúsítvány kiállítására a (2) és (3a) bekezdést nem kell alkalmazni.”
+[^2]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
