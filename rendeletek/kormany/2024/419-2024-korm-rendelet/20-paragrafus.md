@@ -1,5 +1,3 @@
-## „b) a köznevelési igazgatóképzés teljesítése,”
+20. §[^2]
 
-20. § (1) Hatályát veszti a 277/1997. (XII. 22.) Korm. rendelet.
-
-(2) Hatályát veszti az Nftv. vhr. 21/B. § (3) bekezdés d) pontja, valamint (4) bekezdése.
+[^2]: A 20. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
