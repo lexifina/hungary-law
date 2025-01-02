@@ -1,3 +1,3 @@
-4. melléklet a 93/2024. (IV. 23.) Korm. rendelethez[^52]
+4. melléklet a 93/2024. (IV. 23.) Korm. rendelethez[^48]
 
-[^52]: A 4. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^48]: A 4. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
