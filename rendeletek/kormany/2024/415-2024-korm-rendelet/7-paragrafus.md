@@ -1,1 +1,3 @@
-7. § Hatályát veszti a Paks város közigazgatási területén különleges gazdasági övezet kijelöléséről szóló 223/2024. (VII. 31.) Korm. rendelet.
+7. §[^2]
+
+[^2]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
