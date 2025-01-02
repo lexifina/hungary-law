@@ -2,4 +2,6 @@
 
 2. Ez a határozat 2025. január 1-jén lép hatályba.
 
-3. Hatályát veszti az Északnyugat-magyarországi Gazdaságfejlesztési Zóna komplex fejlesztéséért felelős kormánybiztos kinevezéséről és feladatairól szóló 1275/2022. (V. 27.) Korm. határozat.
+3.[^1]
+
+[^1]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
