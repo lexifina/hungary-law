@@ -1,31 +1,3 @@
-1. melléklet a 489/2024. (XII. 31.) Korm. rendelethez
+1. melléklet a 489/2024. (XII. 31.) Korm. rendelethez[^10]
 
-1. Az R. 2. mellékletében foglalt táblázat 7a. sora helyébe következő rendelkezés lép:
-
-|  | (A | B | C |
-
-| 1 | A beruházás megnevezése | A beruházás megvalósításának helyszíne | Koordinációra kijelölt főispán) |
-
-## „
-
-| 7a. | Ipari-innovációs fejlesztési terület kialakítás, valamint a területen megvalósítandó feldolgozóipari beruházások megvalósításához szükséges közlekedési és egyéb infrastruktúra-beruházások és véderdő telepítések Göd városterületén | Göd közigazgatási területén elhelyezkedő, a 2024. december 9. napi állapot szerint az ingatlan-nyilvántartás szerinti külterület 038, 039/59, 039/60, 039/75, 039/92, 039/93, 039/99, 039/100, 039/108, 039/262, 039/263, 039/264, 039/110, 039/119, 039/126, 039/127, 039/135, 039/269, 039/268, 039/265, 039/266, 039/267, 039/273, 039/275, 039/274, 039/277, 039/159, 039/167, 039/219, 039/220, 039/221, 039/222, 039/223, 039/224, 039/225, 039/226, 039/227, 039/228, 039/229, 039/230, 039/231, 039/232, 039/233, 039/234, 039/235, 039/236, 039/237, 039/238, 039/278, 039/279, 039/280, 039/281, 042/5, 042/6, 042/7, 046, 047/5, 047/9, 047/10, 048/3, 048/5, 048/7, 048/10, 0404, 049/4, 049/5, 049/6, 049/7, 049/8, 049/2, 050/18, 051, 053/7, 053/8, 053/9, 053/28, 053/29, 053/30, 053/31, 053/32, 053/33, 053/34, 053/35, 053/36, 053/37, 053/38, 053/39, 053/40, 053/41, 053/42, 053/43, 053/44, 053/45, 053/46, 053/47, 053/48, 053/49, 054, 056/1, 056/2, 057/51, 057/54, 057/56, 057/58, 057/59, 058/2, 058/4, 059/4, 059/6, 059/10, 059/14, 059/15, 060/3, 060/5, 062/62, 062/63, 062/1, 062/2, 062/5 062/7, 062/36, 062/39, 062/44, 062/45, 062/5, 062/36, 062/48, 062/64, 062/65, 062/48, 063/1, 063/3, 063/4, 063/5, 064/1, 064/2, 064/3, 064/4, 075, 079/2, 079/3, 079/4, 079/5, 080/1, 080/2, 081/3, 081/4, 081/5, 081/6, 081/8, 081/13, 081/14 081/11, 081/12, 082/2, 082/3, 099/4, 099/45, 099/46, 099/47, 099/48 099/49, 099/50, 099/51, 099/52, 0101/3, 0101/4, 0102/2, 0102/4, 0102/6, 0102/8, 0102/9, 0102/17, 0102/19, 0102/21, 0102/27, 0102/28, 0102/29, 0102/30, 0102/31, 0102/32, 0102/33, 0102/34, 0102/35, 0102/36, 0104/51, 0104/52, 0104/53, 0104/140, 0104/141, 0104/142, 0104/55, 0104/56, 0104/150, 0104/151, 0104/59, 0104/60, 0104/127, 0104/128, 6422, 6423, 0400 0401, 063/1, 0410, 8301/1, 8301/2, 8301/3, 8301/4, 8301/5, 8301/6 helyrajzi számú ingatlanok. | Pest Vármegyei Kormányhivatalt vezető főispán |
-
-## ”
-
-2. Az R. 2. mellékletében foglalt táblázat a következő 7b. sorral egészül ki:
-
-|  | (A | B | C |
-
-| 1 | A beruházás megnevezése | A beruházás megvalósításának helyszíne | Koordinációra kijelölt főispán) |
-
-## „
-
-| 7b. | Ipari-innovációs fejlesztési terület kialakítás, valamint a területen megvalósítandó feldolgozóipari beruházások megvalósításához szükséges megújuló energia termelését szolgáló projektek és véderdő telepítések Göd város területén | Göd közigazgatási területén elhelyezkedő, a 2024. december 9. napi állapot szerint az ingatlan-nyilvántartás szerinti külterület 039/67, 039/68, 039/69, 039/70, 039/71, 039/72, 039/73, 039/74, 039/76, 039/77, 039/78, 039/79, 039/80, 039/81, 039/82, 039/83, 039/84, 039/101, 039/102, 039/103, 039/104, 039/105, 039/106, 039/256, 039/257, 039/110, 039/111, 039/112, 039/113, 039/114, 039/115, 039/116, 039/117, 039/118, 039/136, 039/137, 039/138, 039/139, 039/140, 039/141, 039/142, 039/143, 039/144, 039/147 039/150, 039/151, 039/152, 039/153, 039/154, 039/155, 039/156, 039/157, 039/158, 039/233, 039/234, 039/235, 039/236, 039/237, 039/238, 039/262, 039/263, 039/265, 039/266, 039/267, 039/268, 039/269, 039/273, 039/274, 039/275, 039/276, 039/277, 039/278, 039/279, 039/280, 039/281, 050/20, 050/21, 050/22, 050/23, 053/9, 053/45, 053/47, 053/49, 099/27, 099/28, 099/29, 099/30, 099/31, 099/32, 099/46, 099/48 helyrajzi számú ingatlanok. | Pest Vármegyei Kormányhivatalt vezető főispán |
-
-## ”
-
-3. Az R. 2. mellékletében foglalt táblázat a következő 134. sorral egészül ki:
-
-|  | (A | B | C |
-
-| 1 | A beruházás megnevezése | A beruházás megvalósításának helyszíne | Koordinációra kijelölt főispán) |
+[^10]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

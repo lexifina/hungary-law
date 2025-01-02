@@ -1,3 +1,3 @@
-6. § (1) Az R. 2. melléklete az 1. melléklet szerint módosul.
+6. §[^7]
 
-(2) Az R. 7. melléklete helyébe a 2. melléklet lép.
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

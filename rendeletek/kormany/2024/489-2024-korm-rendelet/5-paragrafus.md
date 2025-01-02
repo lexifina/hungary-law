@@ -1,3 +1,3 @@
-5. § Az R. a következő 156. §-sal egészül ki:
+5. §[^6]
 
-„156. § E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 489/2024. (XII. 31.) Korm. rendelettel (a továbbiakban: Módr148.) megállapított 4/E. §-át és 6. § (2a) és (2b) bekezdését, valamint 2. mellékletében foglalt táblázat 7b. és 134. sorát, továbbá módosított 3. § (2a) bekezdését, 6. § (1), (3) és (9) bekezdését, 2. mellékletében foglalt táblázat 7a. sorát, valamint 7. mellékletét a Módr148. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
