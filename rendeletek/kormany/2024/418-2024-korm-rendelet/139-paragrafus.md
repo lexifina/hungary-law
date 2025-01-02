@@ -1,3 +1,3 @@
-139. § Az elektronikus információbiztonsági korai figyelmeztető rendszerről szóló 214/2020. (V. 18.) Korm. rendelet 3. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+139. §[^24]
 
-(A korai figyelmeztető szolgáltatás igénybevételére jogosultak:)
+[^24]: A 139. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

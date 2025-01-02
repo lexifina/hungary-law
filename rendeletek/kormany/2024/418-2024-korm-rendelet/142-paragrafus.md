@@ -1,1 +1,3 @@
-142. § A Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 191. §-ában a „nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 8. § (8) bekezdésében” szövegrész helyébe a „Magyarország kiberbiztonságáról szóló 2024. évi LXIX. törvény 69. § (1) bekezdésében” szöveg lép.
+142. §[^27]
+
+[^27]: A 142. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

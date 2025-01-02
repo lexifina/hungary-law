@@ -1,1 +1,3 @@
-150. § Hatályát veszti a hadiipari kutatással, fejlesztéssel, gyártással és kereskedelemmel összefüggő kiberbiztonsági tanúsításról szóló 608/2023. (XII. 22.) Korm. rendelet 2. §-a.
+150. §[^35]
+
+[^35]: A 150. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

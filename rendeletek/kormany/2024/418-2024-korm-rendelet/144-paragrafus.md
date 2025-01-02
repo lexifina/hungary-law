@@ -1,3 +1,3 @@
-144. §[^6]
+144. §[^29]
 
-[^6]: A 144. § a 118. § (2) bekezdése alapján 2025. január 8-án lép hatályba.
+[^29]: A 144. § a 118. § (2) bekezdése alapján 2025. január 8-án lép hatályba.

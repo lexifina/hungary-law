@@ -1,3 +1,3 @@
-145. § A honvédelmi célú elektronikus információs rendszerek korai figyelmeztető rendszeréről szóló 578/2023. (XII. 19.) Korm. rendelet 2. § 14. pontja helyébe a következő rendelkezés lép:
+145. §[^30]
 
-(E rendelet alkalmazásában)
+[^30]: A 145. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

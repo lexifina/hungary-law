@@ -1,1 +1,3 @@
-122. § A minősített adat elektronikus biztonságának, valamint a rejtjeltevékenység engedélyezésének és hatósági felügyeletének részletes szabályairól szóló 161/2010. (V. 6.) Korm. rendelet 34/A. § (2) bekezdésében az „az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény 19. § (1)–(3) bekezdése szerinti eseménykezelő” szövegrész helyébe a „Magyarország kiberbiztonságáról szóló törvény szerinti kiberbiztonsági incidenskezelő” szöveg lép.
+122. §[^7]
+
+[^7]: A 122. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-143. § A honvédelemről és a Magyar Honvédségről szóló törvény egyes rendelkezéseinek végrehajtásáról szóló 614/2022. (XII. 29.) Korm. rendelet 44. §-ában az „az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény 19. § (1) bekezdésében meghatározott eseménykezelő” szövegrész helyébe az „a Magyarország kiberbiztonságáról szóló törvény szerinti honvédelmi kiberbiztonsági incidenskezelő” szöveg lép.
+143. §[^28]
+
+[^28]: A 143. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

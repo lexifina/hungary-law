@@ -1,1 +1,3 @@
-134. § A Magyarország biztonsági érdekét sértő külföldi befektetések ellenőrzéséről szóló 2018. évi LVII. törvény végrehajtásáról szóló 246/2018. (XII. 17.) Korm. rendelet 1. melléklet 9. alcíme helyébe a következő alcím lép:
+134. §[^19]
+
+[^19]: A 134. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

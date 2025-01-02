@@ -18,6 +18,6 @@
 
 | 4 | B4 | F4 | F4 |
 
-2. melléklet a 418/2024. (XII. 23.) Korm. rendelethez[^7]
+2. melléklet a 418/2024. (XII. 23.) Korm. rendelethez[^39]
 
-[^7]: A 2. melléklet a 118. § (2) bekezdése alapján 2025. január 8-án lép hatályba.
+[^39]: A 2. melléklet a 118. § (2) bekezdése alapján 2025. január 8-án lép hatályba.

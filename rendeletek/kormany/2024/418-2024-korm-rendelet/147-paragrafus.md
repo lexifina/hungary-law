@@ -1,3 +1,3 @@
-147. § A hadiipari kutatással, fejlesztéssel, gyártással és kereskedelemmel összefüggő kiberbiztonsági tanúsításról szóló 608/2023. (XII. 22.) Korm. rendelet 1. § 1. pontja helyébe a következő rendelkezés lép:
+147. §[^32]
 
-(E rendelet alkalmazásában)
+[^32]: A 147. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

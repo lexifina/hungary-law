@@ -1,7 +1,3 @@
-## „9. Magyarország kiberbiztonságáról szóló 2024. évi LXIX. törvény 1. § (1) bekezdés a)–c) pontja szerinti szervezet, a Kszetv. alapján kritikus szervezetként kijelölt szervezet, valamint a védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény alapján az ország védelme és biztonsága szempontjából jelentős szervezetként kijelölt szervezet elektronikus információs rendszere vonatkozásában bejelentési kötelezettség alá tartozó tevékenységek
+135. §[^20]
 
-## 1. A Magyarország kiberbiztonságáról szóló 2024. évi LXIX. törvény (a továbbiakban: Kiberbiztonsági tv.) 1. § (1) bekezdés a)–c) pontja szerinti szervezet, a Kszetv. alapján kritikus szervezetként kijelölt szervezet, valamint a védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény (a továbbiakban: Vbö.) alapján az ország védelme és biztonsága szempontjából jelentős szervezetként kijelölt szervezet elektronikus információs rendszere vonatkozásában a Kiberbiztonsági tv. 6. § (5) bekezdés d) pontja szerinti tevékenység végzése vagy az abban való közreműködés.
-
-## 2. A Kiberbiztonsági tv. 1. § (1) bekezdés a)–c) pontja szerinti szervezet, a Kszetv. alapján kritikus szervezetként kijelölt szervezet, valamint a Vbö. alapján az ország védelme és biztonsága szempontjából jelentős szervezetként kijelölt szervezet elektronikus információs rendszere vonatkozásában a Kiberbiztonsági tv. szerinti sérülékenységvizsgálat elvégzése.”
-
-135. § Hatályát veszti az információs társadalommal összefüggő szolgáltatások elektronikus információbiztonságának felügyeletéről és a biztonsági eseményekkel kapcsolatos eljárásrendről szóló 270/2018. (XII. 20.) Korm. rendelet.
+[^20]: A 135. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

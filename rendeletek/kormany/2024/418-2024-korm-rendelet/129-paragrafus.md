@@ -1,1 +1,3 @@
-129. § A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény egyes rendelkezéseinek végrehajtásáról szóló 87/2015. (IV. 9.) Korm. rendelet 2. melléklet 4. pont l) alpontjában az „az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvényben meghatározott technológiai biztonsági, valamint a biztonságos információs eszközökre, termékekre, továbbá a biztonsági osztályba és biztonsági szintbe sorolásra vonatkozó követelményekről” szövegrész helyébe az „a biztonsági osztályba sorolás követelményeiről, valamint az egyes biztonsági osztályok esetében alkalmazandó konkrét védelmi intézkedésekről” szöveg és a „3.” szövegrész helyébe a „jelentős” szöveg lép.
+129. §[^14]
+
+[^14]: A 129. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

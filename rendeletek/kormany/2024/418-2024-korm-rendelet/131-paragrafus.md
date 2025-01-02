@@ -1,1 +1,3 @@
-131. § Hatályát veszti a 187/2015. (VII. 13.) Korm. rendelet.
+131. §[^16]
+
+[^16]: A 131. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
