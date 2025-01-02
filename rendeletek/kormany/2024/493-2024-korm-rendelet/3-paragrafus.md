@@ -1,1 +1,3 @@
-3. § A 83/2021. (II. 23.) Korm. rendelet 2. melléklet B:61 mezőjében a „021/13” szövegrész helyébe a „021/5, 021/13” szöveg, a „022/8” szövegrész helyébe a „022/8, 022/9” szöveg, a „022/14” szövegrész helyébe a „022/14, 023” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

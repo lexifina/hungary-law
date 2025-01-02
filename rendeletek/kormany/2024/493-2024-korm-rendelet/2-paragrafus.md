@@ -1,3 +1,3 @@
-2. § A 83/2021. (II. 23.) Korm. rendelet a következő 74. §-sal egészül ki:
+2. §[^3]
 
-„74. § E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet módosításáról szóló 493/2024. (XII. 31.) Korm. rendelettel (a továbbiakban: Módr66.) megállapított 5/C. §-át és módosított 2. melléklet B:61 mezőjét a Módr66. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
