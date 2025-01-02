@@ -1,5 +1,3 @@
-3. § Hatályát veszti
+3. §[^2]
 
-a) a Magyarországon egyidejűleg foglalkoztatható harmadik országbeli állampolgárok legmagasabb létszámáról szóló 19/2015. (VII. 3.) NGM rendelet,
-
-b) a Magyarországon évente összesen kiadható foglalkoztatási célú tartózkodási engedélyek és vendégmunkás-tartózkodási engedélyek számáról szóló 8/2024. (II. 29.) NGM rendelet.
+[^2]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
