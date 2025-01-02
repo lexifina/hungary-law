@@ -1,7 +1,3 @@
-3. § Hatályát veszti a 391/2017. (XII. 13.) Korm. rendelet
+3. §[^4]
 
-a) 5. § (1) bekezdésében az „a fizetési fokozat és” szövegrész, valamint az „együttes” szövegrész,
-
-b) 6. §- a, valamint
-
-c) 47. §-a.
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

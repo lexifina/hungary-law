@@ -1,7 +1,3 @@
-2. § A 391/2017. (XII. 13.) Korm. rendelet
+2. §[^3]
 
-a) 5. § (2) bekezdésében a „fizetési fokozatait és az azokhoz tartozó” szövegrész helyébe a „munkaköre és iskolai végzettsége szerinti” szöveg,
-
-b) 7. § (5) bekezdésében az „a rá irányadó illetménytábla szerinti fizetési fokozat szerint” szövegrész helyébe az „ennek megfelelően” szöveg
-
-lép.
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
