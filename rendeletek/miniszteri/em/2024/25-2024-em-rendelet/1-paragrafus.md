@@ -1,1 +1,3 @@
-1. § Hatályát veszti a hulladékok égetésének műszaki követelményeiről, működési feltételeiről és a hulladékégetés technológiai kibocsátási határértékeiről szóló 3/2002. (II. 22.) KöM rendelet módosításáról szóló 19/2003. (XII. 10.) KvVM rendelet.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
