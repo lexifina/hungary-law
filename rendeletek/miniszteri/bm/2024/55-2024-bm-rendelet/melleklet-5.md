@@ -1,3 +1,3 @@
-5. melléklet az 55/2024. (XII. 11.) BM rendelethez
+5. melléklet az 55/2024. (XII. 11.) BM rendelethez[^16]
 
-1. Az R1. 8. számú melléklete a következő 21. ponttal egészül ki:
+[^16]: Az 5. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
