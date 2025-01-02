@@ -1,1 +1,3 @@
-13. § Az Ekr. 10. § (2) bekezdésében a „300 millió forintot” szövegrész helyébe a „600 millió forintot” szöveg lép.
+13. §[^14]
+
+[^14]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
