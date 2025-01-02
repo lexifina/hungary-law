@@ -1,5 +1,3 @@
-2. § Hatályát veszti az R.
+2. §[^3]
 
-a) „Szakértőjelölti jelölti idő és a szakértőjelöltként kötelező szakmai közreműködőként elvégzett ügyszám” alcíme,
-
-b) 15. számú melléklete.
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
