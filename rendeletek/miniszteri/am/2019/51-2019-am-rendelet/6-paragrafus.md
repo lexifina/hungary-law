@@ -1,4 +1,4 @@
-## 5. §[^9]
+## 5. §[^12]
 
 6. § (1) Ez a rendelet – a (2) és (3) bekezdésekben meghatározott kivétellel – a kihirdetését követő 15. napon lép hatályba.
 
@@ -6,4 +6,4 @@
 
 (3) A 4. § (2) bekezdése és a 2. melléklet 2030. január 1-jén lép hatályba.
 
-[^9]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
