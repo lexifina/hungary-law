@@ -8,6 +8,6 @@
 
 | 4. | RRF-1.1.1-22-2022-00001 „Tudásmegosztás a bölcsődei nevelés kapacitásfejlesztésében” | Családbarát Magyarország Központ Nonprofit Közhasznú Korlátolt Felelősségű Társaság |
 
-2. melléklet a 485/2024. (XII. 31.) Korm. rendelethez[^4]
+2. melléklet a 485/2024. (XII. 31.) Korm. rendelethez[^5]
 
-[^4]: A 2. melléklet a 10. § (2) bekezdése alapján 2025. március 1-jén lép hatályba.
+[^5]: A 2. melléklet a 10. § (2) bekezdése alapján 2025. március 1-jén lép hatályba.
