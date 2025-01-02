@@ -1,1 +1,3 @@
-1. § A honvédelmi szervezetek működésének az államháztartás működési rendjétől eltérő szabályairól szóló 346/2009. (XII. 30.) Korm. rendelet [a továbbiakban: 346/2009. (XII. 30.) Korm. rendelet] 7/C. § (2) bekezdésében az „Az MH PK, továbbá a szervezetszerű helyettese” szövegrész helyébe az „A HVKF vagy az általa kijelölt helyettese” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

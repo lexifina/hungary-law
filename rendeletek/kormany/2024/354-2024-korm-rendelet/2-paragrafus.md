@@ -1,1 +1,3 @@
-2. § Hatályát veszti a 346/2009. (XII. 30.) Korm. rendelet 2. § (4) bekezdés a) pontjában az „– a KNBSZ kivételével – a közbeszerzésekről szóló törvény és az annak felhatalmazása alapján kiadott kormányrendeletek, valamint a védelmi és biztonsági célú beszerzésekről szóló törvény szerinti eltérő szabályok alapján végrehajtott beszerzések kötelezettségvállalásainak ellenjegyzését,” szövegrész.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
