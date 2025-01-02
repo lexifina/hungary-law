@@ -1,5 +1,5 @@
-## 5.[^1]
+## 5.[^10]
 
 9. §
 
-[^1]: Az 5. alcím a 484/2024. (XII. 31.) Korm. rendelet 27. §-a alapján nem lép hatályba.
+[^10]: Az 5. alcím a 484/2024. (XII. 31.) Korm. rendelet 27. §-a alapján nem lép hatályba.
