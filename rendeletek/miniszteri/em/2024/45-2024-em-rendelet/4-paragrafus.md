@@ -1,1 +1,3 @@
-4. § Az ESZ rendelet 3. § (5) bekezdésében a „miniszter” szövegrész helyébe a „miniszter (a továbbiakban: miniszter)” szöveg lép.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

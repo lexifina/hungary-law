@@ -1,3 +1,3 @@
-3. § (1) Az ESZ rendelet 1. melléklete az 1. melléklet szerint módosul.
+3. §[^4]
 
-(2) Az ESZ rendelet 3. melléklete helyébe a 2. melléklet lép.
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
