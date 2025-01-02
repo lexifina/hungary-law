@@ -1,7 +1,3 @@
-5. § Hatályát veszti a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény végrehajtásáról szóló 35/2024. (II. 29.) Korm. rendelet
+5. §[^2]
 
-a) 17. §-a,
-
-b) 19. §-a, valamint
-
-c) 260. § (10) bekezdése.
+[^2]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
