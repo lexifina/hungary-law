@@ -1,7 +1,3 @@
-## „4. melléklet a 388/2017. (XII. 13.) Korm. rendelethez
+6. melléklet a 377/2024. (XII. 6.) Korm. rendelethez[^10]
 
-## 4X08880.pdf
-
-## ”
-
-6. melléklet a 377/2024. (XII. 6.) Korm. rendelethez
+[^10]: A 6. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

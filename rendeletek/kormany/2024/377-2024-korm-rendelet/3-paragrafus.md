@@ -1,1 +1,3 @@
-3. § Az R. 2. § (1) bekezdésében az „1–12. melléklet” szövegrész helyébe az „1–10. melléklet és a 12. melléklet” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
