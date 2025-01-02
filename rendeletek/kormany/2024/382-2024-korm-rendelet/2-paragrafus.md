@@ -1,3 +1,3 @@
-2. § Az 562/2023. (XII. 14.) Korm. rendelet 1. § (2) bekezdése a következő h) és i) ponttal egészül ki:
+2. §[^3]
 
-[A (3) bekezdés szerinti szolgáltatásokat]
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

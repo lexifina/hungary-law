@@ -1,3 +1,3 @@
-1. § Az építési és közlekedési miniszter tulajdonosi joggyakorlása alatt álló gazdasági társaságokhoz kapcsolódó szolgáltatási feladatok ellátásáról szóló 562/2023. (XII. 14.) Korm. rendelet [a továbbiakban: 562/2023. (XII. 14.) Korm. rendelet] 1. § (1) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(1) Az építési és közlekedési miniszter állami feladatellátás keretében, a MÁV Szolgáltató Központ Zártkörűen Működő Részvénytársaság útján biztosítja a (2) bekezdésben meghatározott, az egyes állami tulajdonban álló gazdasági társaságok felett az államot megillető tulajdonosi jogok és kötelezettségek összességét gyakorló személyek kijelöléséről szóló miniszteri rendelet szerint tulajdonosi joggyakorlása alatt álló gazdasági társaságok, valamint azok egyes többségi befolyása alatt álló gazdasági társaságok, továbbá az Építési és Közlekedési Minisztérium irányítása alá tartozó költségvetési szervek részére a (3) bekezdés szerinti szolgáltatásokat.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
