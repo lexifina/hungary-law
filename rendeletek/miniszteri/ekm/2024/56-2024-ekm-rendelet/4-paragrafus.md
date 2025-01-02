@@ -1,3 +1,3 @@
-4. § Az egyes vasúti utazási kedvezményekről szóló 57/2009. (X. 20.) KHEM rendelet 9. § (1) bekezdése helyébe a következő rendelkezés lép:
+4. §[^5]
 
-„(1) A 2. § (1) bekezdés a), e) vagy h) pontjában meghatározott munkavállaló, közalkalmazott, a 2. § (1) bekezdés d) vagy f) pontja alapján jogosult a kérelmét a munkáltató kedvezményezett vasúti társasághoz, a közigazgatási szervhez, az egyéb szervezethez, vasútegészségügyi szervezethez, a személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény 5. § (6) bekezdése szerinti szervezethez nyújtja be, amely azt az igényjogosultság fennállása esetén továbbítja a szolgáltató vasúti társaság felé. Az igazolvány újraérvényesítéséhez szükséges, 10. § (1) bekezdés a), b) és c) pontja szerinti adatokat az igényjogosultság fennállása esetén a munkáltató kedvezményezett vasúti társaság, közigazgatási szerv, egyéb szervezet, vasútegészségügyi szervezet, a személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény 5. § (6) bekezdése szerinti szervezet továbbítja a szolgáltató vasúti társaság felé.”
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
