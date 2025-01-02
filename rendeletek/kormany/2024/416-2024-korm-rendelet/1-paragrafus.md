@@ -84,6 +84,6 @@
 
 ## 1. A repülőterek környezetében létesítendő zajgátló védőövezetek kijelölésének, hasznosításának és megszüntetésének szabályairól szóló 176/1997. (X. 11.) Korm. rendelet módosítása
 
-1. § A repülőterek környezetében létesítendő zajgátló védőövezetek kijelölésének, hasznosításának és megszüntetésének szabályairól szóló 176/1997. (X. 11.) Korm. rendelet 5. § (5) bekezdése helyébe a következő rendelkezés lép:
+1. §[^1]
 
-„(5) A zajgátló védőövezetet kijelölő határozat számát a környezetvédelmi hatósági engedélyezési eljárásokban meg kell adni, valamint az előírt tanulmányokat, illetve engedélyezési terveket mellékelni kell. A zajgátló védőövezetet kijelölő határozat beszerzése iránt a környezetvédelmi hatósági engedélyezési eljárásokban a hatóság hivatalból gondoskodik.”
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

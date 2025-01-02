@@ -1,5 +1,5 @@
 ## 20. A fluortartalmú üvegházhatású gázokkal és az ózonréteget lebontó anyagokkal kapcsolatos tevékenységek végzésének feltételeiről szóló 14/2015. (II. 10.) Korm. rendelet módosítása
 
-24. § A fluortartalmú üvegházhatású gázokkal és az ózonréteget lebontó anyagokkal kapcsolatos tevékenységek végzésének feltételeiről szóló 14/2015. (II. 10.) Korm. rendelet 5/E. § (1) bekezdése helyébe a következő rendelkezés lép:
+24. §[^24]
 
-„(1) A képesített vállalkozás adott kategóriához kapcsolódó, klímagázokkal kapcsolatos tevékenységet nem folytathat, ha a vállalkozás nem felel meg az 5/D. § szerinti követelményeknek. Amennyiben az 5/D. § szerinti követelményeket a képesített vállalkozás 2 éven keresztül folyamatosan nem teljesíti, a Hatóság felhívja a képesített vállalkozást az 5/D. § szerinti követelmények teljesítésére. A Hatóság a felhívás eredménytelensége esetén a vállalkozás érintett képesítési kategóriáját a felhívást követő félév első napjával kezdődő hatállyal, január 1-jétől vagy július 1-jétől törli.”
+[^24]: A 24. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

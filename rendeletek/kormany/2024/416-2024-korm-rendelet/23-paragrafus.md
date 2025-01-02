@@ -1,1 +1,3 @@
-23. § A hulladékká vált gépjárművekről szóló 369/2014. (XII. 30.) Korm. rendelet 6. § (3) bekezdésében a „váltómű” szövegrész helyébe a „váltómű, az akkumulátor” szöveg lép.
+23. §[^23]
+
+[^23]: A 23. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

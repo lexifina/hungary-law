@@ -1,5 +1,5 @@
 ## 12. A levegő védelméről szóló 306/2010. (XII. 23.) Korm. rendelet módosítása
 
-14. § A levegő védelméről szóló 306/2010. (XII. 23.) Korm. rendelet 32. § (2) bekezdés helyébe a következő rendelkezés lép:
+14. §[^14]
 
-„(2) Az adatszolgáltatás során közölt adatok teljeskörűségéért, a bejelentésre kötelezettre érvényes számviteli szabályokkal, statisztikai rendszerrel, valamint egyéb nyilvántartási rendszereivel, mérési, megfigyelési adataival való egyezéséért a bejelentésre kötelezett a felelős.”
+[^14]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-9. § Az R3. 5. § (6) bekezdésében a „nyolcadik” szövegrész helyébe a „harmadik” szöveg lép.
+9. §[^9]
+
+[^9]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
