@@ -1,1 +1,1 @@
-94. § A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény 10/A. § (14) bekezdésében az „az állami és önkormányzati szervek elektronikus információbiztonságáról” szövegrész helyébe a „Magyarország kiberbiztonságáról” szöveg és a „biztonsági esemény” szövegrész helyébe a „kiberbiztonsági incidens” szöveg lép.
+### 94. §

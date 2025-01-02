@@ -1,1 +1,1 @@
-129. § A nemzeti adatvagyon hasznosításának rendszeréről és az egyes szolgáltatásokról szóló 2023. évi CI. törvény 98. § (5) bekezdésében az „az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény (a továbbiakban: Ibtv.)” szövegrész helyébe az „a Magyarország kiberbiztonságáról szóló törvény” szöveg és az „Ibtv.” szövegrész helyébe az „a Magyarország kiberbiztonságáról szóló törvény” szöveg lép.
+### 129. §

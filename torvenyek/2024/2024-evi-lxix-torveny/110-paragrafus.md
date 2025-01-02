@@ -1,3 +1,1 @@
-110. § A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 9/B. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) A cégbíróság hivatalból – a Magyarország kiberbiztonságáról szóló törvény szerinti kiberbiztonsági hatóság (a továbbiakban: kiberbiztonsági hatóság) végleges határozata alapján – a kiberbiztonsági hatóság határozatában foglalt időtartamra, de legfeljebb öt évre eltiltja a kiberbiztonsági hatóság által megjelölt szervezet vonatkozásában a vezető tisztségviselői feladatok ellátásától azt a személyt, akinek felelősségét a kiberbiztonsági hatóság végleges határozatával megállapította a tekintetben, hogy a szervezet határidőn belül nem tett eleget a szervezet elektronikus információs rendszereinek kiberbiztonságára vonatkozó hatósági kötelezésnek.”
+### 110. §
