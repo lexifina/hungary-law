@@ -1,3 +1,3 @@
-7. § Az R. 133. § (2) bekezdés g) pontja helyébe a következő rendelkezés lép:
+7. §[^8]
 
-(A miniszter a családpolitikáért való felelőssége keretében)
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

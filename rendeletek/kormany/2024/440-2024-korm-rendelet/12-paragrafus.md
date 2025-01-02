@@ -1,1 +1,3 @@
-12. § Nem lép hatályba a Nemzeti Kereskedelmi és Fogyasztóvédelmi Hatóság létrehozásával összefüggő kormányrendeletek módosításáról szóló 328/2024. (XI. 14.) Korm. rendelet 28. §-a és 2. melléklete.
+12. §[^13]
+
+[^13]: A 12. § a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.

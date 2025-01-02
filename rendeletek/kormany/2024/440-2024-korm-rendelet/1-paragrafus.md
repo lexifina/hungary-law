@@ -1,3 +1,3 @@
-1. § A Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet (a továbbiakban: R.) 66. § (1) bekezdés 6. pontja helyébe a következő rendelkezés lép:
+1. §[^2]
 
-[A belügyminiszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány]
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-6. § Az R. a következő 119/A. §-sal egészül ki:
+6. §[^7]
 
-„119/A. § A miniszter a menedékjogról szóló 2007. évi LXXX. törvény 7. § (4) bekezdése tekintetében a Kormány idegenrendészetért és menekültügyért felelős tagja.”
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

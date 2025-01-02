@@ -1,3 +1,3 @@
-4. § Az R. 108. § c) pontja helyébe a következő rendelkezés lép:
+4. §[^5]
 
-(A miniszter a lakáspolitikáért való felelőssége körében)
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

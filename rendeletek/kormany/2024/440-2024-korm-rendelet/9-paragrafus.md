@@ -1,3 +1,3 @@
-9. § Az R. a következő 203. §-sal egészül ki:
+9. §[^10]
 
-„203. § A 2024. augusztus 1-jén megszűnt űrkutatási feladatkör tekintetében az űrkutatásért felelős miniszter által vezetett minisztérium jogutódja az űriparfejlesztésért és űrtechnológiákért felelős miniszter által vezetett minisztérium.”
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
