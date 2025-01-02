@@ -1,1 +1,3 @@
-1. § Az anyatej társadalombiztosítási támogatás alapját képező áráról, valamint a támogatás elszámolásának módjáról szóló 8/2002. (X. 4.) ESZCSM rendelet 1. § (1) bekezdésében a „3500 Ft” szövegrész helyébe az „5400 Ft” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
