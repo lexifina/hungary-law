@@ -1,1 +1,3 @@
-5. § Hatályát veszti a közjegyzői ügyvitel szabályairól szóló 29/2019. (XII. 20.) IM rendelet 14. § (8) bekezdése.
+5. §[^5]
+
+[^5]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
