@@ -1,3 +1,3 @@
-7. melléklet a 70/2023. (XII. 23.) BM rendelethez[^23]
+7. melléklet a 70/2023. (XII. 23.) BM rendelethez[^26]
 
-[^23]: A 7. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 7. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

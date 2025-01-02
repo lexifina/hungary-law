@@ -1,1 +1,3 @@
-17. § Az R9. 1. melléklete a 11. melléklet szerint módosul.
+17. §[^18]
+
+[^18]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
