@@ -1,5 +1,3 @@
-12. § Hatályát veszti a Kenyr.
+12. §[^13]
 
-a) 1. § (2) bekezdés b) pont bb) alpontja,
-
-b) 5. § (2) bekezdésében az „és a szakmai, ágazati érdekképviselet, szakszervezet központi szerve” szövegrész.
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

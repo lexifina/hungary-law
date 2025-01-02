@@ -1,3 +1,3 @@
-6. § A TnyR. 94. §-a helyébe a következő rendelkezés lép:
+6. §[^7]
 
-„94. § A nyugdíjfolyósító szerv a külföldön élő vagy tartózkodó személy nyugellátását, baleseti járadékát a 2024. december 31-éig bejelentett belföldi meghatalmazott részére 2024. december 31-ét követően is folyósítja.”
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

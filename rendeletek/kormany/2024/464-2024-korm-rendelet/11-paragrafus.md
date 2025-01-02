@@ -1,1 +1,3 @@
-11. § A Kenyr. 9. § (8) bekezdésében a „tizenhárom napon” szövegrész helyébe a „tíz munkanapon” szöveg lép.
+11. §[^12]
+
+[^12]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

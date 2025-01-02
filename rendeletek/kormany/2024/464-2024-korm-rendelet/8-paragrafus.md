@@ -1,11 +1,3 @@
-8. § Hatályát veszti a TnyR.
+8. §[^9]
 
-a) 4. §-a és az azt megelőző alcím cím,
-
-b) 14. § (5) bekezdése,
-
-c) 75. § (3) bekezdés nyitó szövegrészében az „a) pontja” szövegrész,
-
-d) 75. § (5) bekezdése,
-
-e) 86. § (6) bekezdésében a „vagy rehabilitációs járadékban” szövegrész.
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

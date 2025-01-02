@@ -1,9 +1,3 @@
-7. § A TnyR.
+7. §[^8]
 
-a) 72/B. § (9) bekezdésében a „120 000” szövegrész helyébe a „140 000” szöveg,
-
-b) 72/B. § (20) bekezdés a) pontjában a „140 000” szövegrész helyébe a „150 000” szöveg,
-
-c) 75/A. § (2) bekezdés nyitó szövegrészében a „tizenhárom napon” szövegrész helyébe a „tíz munkanapon” szöveg
-
-lép.
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
