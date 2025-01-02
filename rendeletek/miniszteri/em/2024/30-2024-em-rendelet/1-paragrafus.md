@@ -1,1 +1,3 @@
-1. § Hatályát veszti az egyes miniszteri rendeletek levegővédelemmel összefüggő módosításáról szóló 5/2011. (I. 14.) VM rendelet.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
