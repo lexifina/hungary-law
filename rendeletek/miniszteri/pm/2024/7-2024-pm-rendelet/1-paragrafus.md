@@ -1,3 +1,5 @@
 ## 1. A személyi jövedelemadó meghatározott részében az adózó rendelkezése szerint részesített kedvezményezetteknek átutalt összeg felhasználásáról szóló közlemény formai és tartalmi követelményeiről szóló 9/2008. (IV. 10.) PM–SZMM együttes rendelet módosítása
 
-1. § A személyi jövedelemadó meghatározott részében az adózó rendelkezése szerint részesített kedvezményezetteknek átutalt összeg felhasználásáról szóló közlemény formai és tartalmi követelményeiről szóló 9/2008. (IV. 10.) PM–SZMM együttes rendelet 1. §-ában az „az adóügyek elektronikus intézésének szabályairól szóló 34/2007. (XII. 29.) PM rendeletben foglaltak figyelembevételével az ügyfélkapun keresztül kell” szövegrész helyébe az „a digitális állampolgárság egyes szabályairól szóló kormányrendeletben foglaltak figyelembevételével kell” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

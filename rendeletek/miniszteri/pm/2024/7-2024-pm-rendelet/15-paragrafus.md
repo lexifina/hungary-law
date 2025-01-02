@@ -1,3 +1,3 @@
-15. § A Nemzeti Adó- és Vámhivatalnál adó- és vámhatósági szolgálati jogviszonyban állók és tisztjelöltek alkalmassági vizsgálatáról, a gyógyító-megelőző egészségügyi ellátásról, valamint a pénzügyőrök szolgálatképtelenségének megállapításáról szóló 15/2020. (XII. 29.) PM rendelet 10. § (3) bekezdése helyébe a következő rendelkezés lép:
+15. §[^16]
 
-„(3) A vizsgálat megkezdése előtt ellenőrizni kell a vizsgálatra rendelt személy személyazonosságát, továbbá pénzügyőr, tisztjelölt esetében az alkalmassági kategóriába, illetve csoportba sorolását, jelölt esetében a TAJ-számát, és tájékoztatást kell adni részére a vizsgálat céljáról, menetéről, várható időtartamáról. A foglalkoztatott, a tisztjelölt személyazonosságát a 3. § (2) bekezdése szerint, a jelentkező a személyazonosságát a személyazonosságot igazoló érvényes arcképes okmánnyal, a TAJ-számát az Ebtv. 29. § (4) bekezdésében meghatározott módon igazolja.”
+[^16]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

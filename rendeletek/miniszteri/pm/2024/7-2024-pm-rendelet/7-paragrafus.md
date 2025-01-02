@@ -1,3 +1,3 @@
-7. § A költségvetési szervnél és köztulajdonban álló gazdasági társaságnál belső ellenőrzési tevékenységet végzők nyilvántartásáról és kötelező szakmai továbbképzéséről, valamint a költségvetési szervek vezetőinek és gazdasági vezetőinek belső kontrollrendszer témájú kötelező továbbképzéséről szóló 22/2019. (XII. 23.) PM rendelet 5. § (2) bekezdése helyébe a következő rendelkezés lép:
+7. §[^8]
 
-„(2) Az (1) bekezdés szerinti díjakat átutalással, postai készpénz átutalási megbízással vagy az egyes iForm űrlapokhoz társított elektronikus fizetési és elszámolási rendszeren (EFER) keresztül kell befizetni.”
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
