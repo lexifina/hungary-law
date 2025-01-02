@@ -1,1 +1,3 @@
-138. § Hatályát veszti az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet.
+138. §[^12]
+
+[^12]: A 138. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
