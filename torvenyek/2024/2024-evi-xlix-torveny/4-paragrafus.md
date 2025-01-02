@@ -1,3 +1,1 @@
-4. § Az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény 18. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) E törvény 2. §-a, 3/B. §-a, 15/D. § (1) bekezdés d) pontja, 15/D. § (2) bekezdése, 15/E. § (2) és (3) bekezdése, 15/F. § (7) bekezdése tervezetének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.”
+### 4. §
