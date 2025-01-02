@@ -1,5 +1,3 @@
-14. § Az R. VI. Fejezete a következő 32. alcímmel egészül ki:
+14. §[^15]
 
-„32. Közlevéltárakra vonatkozó általános követelmények
-
-56/A. § A közlevéltár saját iratkezelése során köteles iratkezelési szoftvert alkalmazni.”
+[^15]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
