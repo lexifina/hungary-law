@@ -1,3 +1,1 @@
-61. § A nemzeti köznevelésről szóló 2011. évi CXC. törvény 30. §-a a következő (5a) bekezdéssel egészül ki:
-
-„(5a) Ha az (5) bekezdés szerint elrendelt rendkívüli szünet időtartama előreláthatólag meghaladja a 3 tanítási napot, akkor e körülményről a rendkívüli szünetet elrendelő személy vagy szerv elektronikus úton haladéktalanul értesíti a köznevelésért felelős minisztert, aki a 3 tanítási napot meghaladó rendkívüli szünetet követően, azt felváltva tantermen kívüli, digitális munkarendben történő oktatást rendelhet el. A miniszter a tantermen kívüli, digitális munkarendben történő oktatásról szóló döntés azonnali végrehajtását rendelheti el. A döntés közlése elektronikus úton is történhet.”
+### 61. §
