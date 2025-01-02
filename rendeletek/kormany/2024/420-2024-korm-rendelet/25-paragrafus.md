@@ -1,3 +1,5 @@
 ## 15. Hatályon kívül helyező rendelkezések
 
-25. § Hatályát veszti a megújuló energiaforrásból és a nagy hatásfokú kapcsolt energiatermelésből nyert villamos energia származásának igazolásáról szóló 309/2013. (VIII. 16.) Korm. rendelet.
+25. §[^1]
+
+[^1]: A 25. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
