@@ -1,7 +1,3 @@
-25. § Hatályát veszti az R9.
+25. §[^25]
 
-a) 17. § (1) bekezdés e) pontja,
-
-b) 27/A. §-a és
-
-c) 42. § (1) bekezdés a) pontja.
+[^25]: A 25. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

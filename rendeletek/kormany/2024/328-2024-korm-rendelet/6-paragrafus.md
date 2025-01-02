@@ -1,1 +1,3 @@
-6. § Hatályát veszti az R3. 3. § (1) bekezdése.
+6. §[^6]
+
+[^6]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

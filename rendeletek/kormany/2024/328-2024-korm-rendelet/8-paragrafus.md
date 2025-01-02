@@ -1,5 +1,5 @@
 ## 5. A Nemzeti Élelmiszerlánc-biztonsági Hivatalról szóló 22/2012. (II. 29.) Korm. rendelet módosítása
 
-8. § A Nemzeti Élelmiszerlánc-biztonsági Hivatalról szóló 22/2012. (II. 29.) Korm. rendelet (a továbbiakban: R5.) 2. § (3) bekezdése helyébe a következő rendelkezés lép:
+8. §[^8]
 
-„(3) Az élelmiszerlánc-biztonsági és állategészségügyi hatáskörében, valamint a növény- és talajvédelmi feladatkörében eljáró vármegyei kormányhivatal hatáskörébe tartozó közigazgatási hatósági ügyekben – az általános közigazgatási rendtartásról szóló törvényben a felügyeleti szervre ruházott jogkörök kivételével – a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) 40. § (4) bekezdés c) pontja szerinti hatáskörök gyakorlására a Kormány – a Nemzeti Kereskedelmi és Fogyasztóvédelmi Hatóság (a továbbiakban: NKFH) földművelésügyi hatósági és igazgatási feladatokat ellátó szervek kijelöléséről szóló kormányrendelet szerinti, az élelmiszer-kereskedelemmel összefüggő hatásköre kivételével – a NÉBIH-et jelöli ki.”
+[^8]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,7 +1,3 @@
-5. § Az R3.
+5. §[^5]
 
-a) 3. § (2) bekezdésében az „A fogyasztóvédelemért felelős miniszter által vezetett minisztérium” szövegrész helyébe az „Az NKFH” szöveg,
-
-b) 3. § (3) és (4) bekezdésében az „a fogyasztóvédelemért felelős miniszter által vezetett minisztérium” szövegrész helyébe az „az NKFH” szöveg
-
-lép.
+[^5]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

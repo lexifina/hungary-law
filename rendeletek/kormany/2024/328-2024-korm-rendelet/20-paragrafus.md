@@ -1,3 +1,3 @@
-20. § Az R9. 17. § (1) bekezdés d) pontja helyébe a következő rendelkezés lép:
+20. §[^20]
 
-(A kijelölt élelmiszerlánc-felügyeleti szerv a NÉBIH)
+[^20]: A 20. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

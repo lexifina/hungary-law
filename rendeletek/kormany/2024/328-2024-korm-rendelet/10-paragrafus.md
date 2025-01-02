@@ -1,7 +1,3 @@
-10. § Hatályát veszti az R5.
+10. §[^10]
 
-a) 4/D. §-a,
-
-b) 8. § (14) és (15) bekezdése,
-
-c) 33. §-a.
+[^10]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

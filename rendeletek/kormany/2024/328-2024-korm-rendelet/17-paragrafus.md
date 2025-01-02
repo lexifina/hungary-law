@@ -1,3 +1,3 @@
-17. § Az R9. 9. § (3) bekezdés b) pontja helyébe a következő rendelkezés lép:
+17. §[^17]
 
-(A NÉBIH)
+[^17]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
