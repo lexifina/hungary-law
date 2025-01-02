@@ -1,5 +1,5 @@
 ## 15. Az intézeten kívüli szülés szakmai szabályairól, feltételeiről és kizáró okairól szóló 35/2011. (III. 21.) Korm. rendelet módosítása
 
-45. §[^40]
+45. §[^45]
 
-[^40]: A 45. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^45]: A 45. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

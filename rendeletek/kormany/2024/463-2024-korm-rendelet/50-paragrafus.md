@@ -1,1 +1,3 @@
-50. § A 368/2011. (XII. 31.) Korm. rendelet 52/A. § (7) bekezdésében az „a 15 000 000 forintot” szövegrész helyébe az „a 15 000 000 forintot – városi intézmény esetében az 1 000 000 forintot –” szöveg lép.
+50. §[^50]
+
+[^50]: Az 50. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

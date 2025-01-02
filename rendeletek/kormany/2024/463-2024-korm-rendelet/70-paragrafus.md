@@ -1,3 +1,3 @@
-70. §[^59]
+70. §[^68]
 
-[^59]: A 70. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^68]: A 70. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

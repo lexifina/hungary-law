@@ -1,3 +1,3 @@
-4. § A 217/1997. (XII. 1.) Korm. rendelet 49. § (5) bekezdése a következő c) ponttal egészül ki:
+4. §[^4]
 
-(Az Ebtv. 70. §)
+[^4]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

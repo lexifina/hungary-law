@@ -1,3 +1,3 @@
-11. melléklet a 463/2024. (XII. 30.) Korm. rendelethez[^83]
+11. melléklet a 463/2024. (XII. 30.) Korm. rendelethez[^95]
 
-[^83]: A 11. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^95]: A 11. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
