@@ -2,6 +2,6 @@
 
 12. § (1) Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-(2)[^16]
+(2)[^18]
 
-[^16]: A 12. § (2) bekezdését a 2/2022. (I. 27.) KKM rendelet 21. § c) pontja hatályon kívül helyezte.
+[^18]: A 12. § (2) bekezdését a 2/2022. (I. 27.) KKM rendelet 21. § c) pontja hatályon kívül helyezte.
