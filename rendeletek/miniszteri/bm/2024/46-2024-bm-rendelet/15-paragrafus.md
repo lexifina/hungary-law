@@ -1,1 +1,3 @@
-15. § Hatályát veszti a belügyminiszter irányítása alá tartozó rendvédelmi feladatokat ellátó szervek hivatásos állományának 2024. évi ruházati utánpótlási ellátmánya terhére kiadandó természetbeni ellátásról szóló 37/2023. (IX. 12.) BM rendelet.
+15. §[^5]
+
+[^5]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
