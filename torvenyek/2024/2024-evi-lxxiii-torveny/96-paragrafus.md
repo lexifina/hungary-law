@@ -2,7 +2,7 @@
 
 96. § Nem lép hatályba a digitális állam megvalósítása érdekében egyes törvények módosításáról szóló 2024. évi XII. törvény
 
-a) 157. §-a,
+a)
 
 b)
 

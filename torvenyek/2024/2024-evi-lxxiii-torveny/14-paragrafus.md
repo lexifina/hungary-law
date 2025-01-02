@@ -2,6 +2,6 @@
 
 a)
 
-b) 37. § (1) bekezdés p) pontjában az „állampolgárságának” szövegrész helyébe az „állampolgárságának, nemének” szöveg,
+b)
 
 c)
