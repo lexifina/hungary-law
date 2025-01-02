@@ -1,7 +1,3 @@
-3. § A Rendelet 3. § (3) bekezdés
+3. §[^4]
 
-a) a) pontjában a „van, vagy” szövegrész helyébe a „van,” szöveg,
-
-b) b) pontjában a „rendelkezik.” szövegrész helyébe a „rendelkezik, vagy” szöveg
-
-lép.
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

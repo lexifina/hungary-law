@@ -1,3 +1,3 @@
-1. § A hallgatói hitelrendszerről szóló 1/2012. (I. 20.) Korm. rendelet (a továbbiakban: Rendelet) 3. § (3) bekezdése a következő c) ponttal egészül ki:
+1. §[^2]
 
-(Nem jogosult hitelre az a hallgató,)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
