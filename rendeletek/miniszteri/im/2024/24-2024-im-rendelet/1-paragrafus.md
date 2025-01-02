@@ -10,34 +10,6 @@
 
 ## 1. Az igazságügyi szakértők díjazásáról szóló 3/1986. (II. 21.) IM rendelet módosítása
 
-1. § (1) Az igazságügyi szakértők díjazásáról szóló 3/1986. (II. 21.) IM rendelet (a továbbiakban: R1.) 1. § (1) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(1) Az igazságügyi szakértőnek, az igazságügyi szakértői intézménynek, az orvostudományi képzést folytató egyetem igazságügyi orvostani intézetének (a továbbiakban: egyetemi intézet), a költségvetési kutatóhelynek, a szakértői vélemény végett megkeresett egyéb szervnek, az igazságügyi szakértői testületnek, továbbá a szakértőként alkalmazott más személynek, valamint a büntetőeljárásról szóló törvény szerinti szaktanácsadónak (a továbbiakban együtt: szakértő) szakértői tevékenységéért munkadíj és költségtérítés (a továbbiakban együtt: szakértői díj) jár.”
-
-(2) Az R1. 1. §-a a következő (9a) és (9b) bekezdéssel egészül ki:
-
-„(9a) A kirendelő a (9) bekezdésben előírt ellenőrzési kötelezettsége körében a szakértői díj mérséklésére akkor jogosult, ha a szakértő
-
-a) a szakértői vélemény összeállításához szükséges vizsgálatok elvégzéséért és a szakvélemény előterjesztéséért külön-külön díjat,
-
-b) az I. számú melléklet szerinti szakértői vélemény összeállításához szükséges vizsgálatra felszámítható önálló díjtételen felül egyéb szakértői tevékenységének ellenértékeként az elvégzett tevékenységéhez mérten feltűnően aránytalan díjat,
-
-c) a szakértői vélemény elkészítésére felszámított munkaórákon kívül a szakértői vélemény összeállítására (megírása, lediktálása, gépelés ellenőrzése) külön munkaórákat,
-
-d) az olyan ismeretek elsajátításához szükséges tevékenységéért, amelyekkel szakértői mivoltánál fogva rendelkeznie kell, külön díjat
-
-számított fel.
-
-(9b) Nem jogosult a kirendelő a (9a) bekezdés a) pontja szerinti szakértői díj mérséklésére, ha az I. számú melléklet a szakértői vélemény összeállításához szükséges vizsgálatra önálló díjtételt határoz meg.”
-
-(3) Az R1. 8. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A szakértőt díj illeti meg abban az esetben is, ha újabb adatok alapján kiegészítő szakvéleményt ad. Amennyiben a kirendelő által kért felvilágosítás a szakvélemény homályosságának, hiányosságának, ellentmondásosságának kiküszöbölésére irányul, az arra adott válasz a szakértői díjazás szempontjából nem minősül kiegészítő szakvéleménynek.”
-
-(4) Az R1. 9. § (9) bekezdése helyébe a következő rendelkezés lép:
-
-„(9) A bíróság a szakértői díjról szóló véglegessé vált vagy jogerős határozatot, illetve utalványt – kifizetés céljából – a díjjegyzék egy példányával együtt 5 napon belül megküldi az illetékes BGH-nak, illetve a szakértőnek. A szakértő a számlát, illetve részszámlát a határozat és utalvány megküldését követően nyújthatja be. A BGH a megállapított szakértői díjat (költségelőleg fizetése esetén a szakértői díj kifizetett költségelőleggel csökkentett összegét) a számla – illetve a részszámla – benyújtásától számított 5 napon belül kiutalja. Ha a szakértő a díjat 30 napon belül nem veszi át, részére azt postán kell megküldeni, a postaköltségek levonásával.”
-
-(5) Az R1. I. számú melléklete helyébe az 1. melléklet lép.
-
-(6) Az R1. II. számú melléklete helyébe a 2. melléklet lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

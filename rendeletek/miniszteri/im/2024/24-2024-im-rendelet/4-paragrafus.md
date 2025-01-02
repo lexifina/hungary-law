@@ -1,11 +1,5 @@
 ## 2. Az igazságügyi szakértői kamara által lefolytatott egyes közigazgatási hatósági eljárásokért fizetendő igazgatási szolgáltatási díjról szóló 58/2009. (X. 30.) IRM rendelet módosítása
 
-4. § Hatályát veszti az igazságügyi szakértői kamara által lefolytatott egyes közigazgatási hatósági eljárásokért fizetendő igazgatási szolgáltatási díjról szóló 58/2009. (X. 30.) IRM rendelet
+4. §[^5]
 
-a) 1. § b) pontja,
-
-b) 2. § (2) bekezdése,
-
-c) 3. § (2) bekezdés b) pontja,
-
-d) 4. § (1) bekezdésében a „vagy a szakértőjelölt” szövegrész.
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
