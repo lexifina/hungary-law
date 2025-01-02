@@ -1,5 +1,3 @@
-5. § Hatályát veszti az R2.
+5. §[^5]
 
-a) 8. § (6) bekezdése, valamint
-
-b) 10. § (2) bekezdése.
+[^5]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

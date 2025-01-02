@@ -1,5 +1,5 @@
 ## 3. Az emberi felhasználásra kerülő gyógyszer, illetve gyógyászati segédeszköz ismertetésére, az ismertetői tevékenységet végző személyek nyilvántartására, és a gyógyszerrel, gyógyászati segédeszközzel kapcsolatos, fogyasztókkal szembeni kereskedelmi gyakorlatra vonatkozó részletes szabályokról szóló 3/2009. (II. 25.) EüM rendelet módosítása
 
-4. § Az emberi felhasználásra kerülő gyógyszer, illetve gyógyászati segédeszköz ismertetésére, az ismertetői tevékenységet végző személyek nyilvántartására, és a gyógyszerrel, gyógyászati segédeszközzel kapcsolatos, fogyasztókkal szembeni kereskedelmi gyakorlatra vonatkozó részletes szabályokról szóló 3/2009. (II. 25.) EüM rendelet (a továbbiakban: R2.) 10. § (3) bekezdése helyébe a következő rendelkezés lép:
+4. §[^4]
 
-„(3) Az ismertetési tevékenységet folytató a 7. § (3) bekezdésében, illetve a 9. § (2) bekezdésében meghatározott jegyzőkönyvek elektronikus másolatát – társadalombiztosítási támogatásba befogadott gyógyszer, illetve társadalombiztosítási támogatással rendelhető gyógyászati segédeszköz esetén – negyedévente megküldi az NNGYK-nak.”
+[^4]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

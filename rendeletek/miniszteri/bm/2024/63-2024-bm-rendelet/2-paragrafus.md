@@ -1,1 +1,3 @@
-2. § Az R. 16/A. § (4) bekezdésében az „egy” szövegrész helyébe a „kettő” szöveg lép.
+2. §[^2]
+
+[^2]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
