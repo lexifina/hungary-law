@@ -1,3 +1,3 @@
-85. § Az Országgyűlési Őrség által alkalmazott kényszerítő eszközök rendszeresítésének szakmai követelményeiről és eljárási szabályairól, valamint az Országgyűlési Őrségnél rendszeresíthető kényszerítő eszközök típusairól, fajtáiról szóló 33/2014. (IV. 24.) BM rendelet 26. § (1) bekezdése helyébe a következő rendelkezés lép:
+85. §[^85]
 
-„(1) Alkalmazásba vétellel kerül az Országgyűlési Őrség rendszerébe a már rendszeresített kényszerítő eszköz azon típusváltozata, amelynek paramétereiben – így különösen méretére, tömegére, színére, űrtartalmára, anyagminőségére vagy a kényszerítő hatás kiváltására vonatkozóan – legfeljebb kismértékű eltérést mutat a már rendszeresített kényszerítő eszköz típusához képest, azonban alkalmazástaktikájában nincs változás.”
+[^85]: A 85. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

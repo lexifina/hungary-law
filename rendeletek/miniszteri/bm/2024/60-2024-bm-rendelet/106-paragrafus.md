@@ -1,5 +1,3 @@
-106. § Az Országgyűlési Őrségnél foglalkoztatott hivatásos állomány alkalmasságvizsgálatáról, valamint egészségügyi és pszichológiai ellátásáról szóló 43/2022. (XII. 19.) BM rendelet 84. § (3) és (4) bekezdése helyébe a következő rendelkezések lépnek:
+106. §[^110]
 
-„(3) Az alkalmasságvizsgálattal érintett személy az elsőfokú döntés ellen írásban, a fellebbezés indokainak megjelölésével a döntés kézhezvételét követő tizenöt napon belül – véglegesítés előtti alkalmasságvizsgálat esetén nyolc napon belül – fellebbezést nyújthat be az első fokon eljárt alkalmasságvizsgálatot végző személy döntése ellen, az alkalmasságvizsgálat elrendelését előkészítő személyügyi szervhez.
-
-(4) Az alkalmasságvizsgálat elrendelését előkészítő személyügyi szerv a rendelkezésre álló iratokat, valamint a (3) bekezdés szerinti esetben a fellebbezést az elsőfokú vizsgálat során keletkezett leletekkel, dokumentumokkal és az alkalmassági minősítést tartalmazó értesítéssel együtt haladéktalanul megküldi a másodfokú eljárást megállapodás alapján végző általános rendőrségi feladatok ellátására létrehozott szervnek.”
+[^110]: A 106. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

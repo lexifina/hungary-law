@@ -1,3 +1,3 @@
-51. § Az Országgyűlési Őrség egyenruha-ellátásra jogosult hivatásos állományának ruházati és öltözködési szabályzatáról szóló 64/2012. (XII. 12.) BM rendelet 17. § (2) bekezdése helyébe a következő rendelkezés lép:
+51. §[^51]
 
-„(2) Az alapfelszerelési és alapfelszerelés-kiegészítési ellátmány az igényjogosult részére – az e rendeletben meghatározott kivétellel – kizárólag természetben biztosítható.”
+[^51]: Az 51. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

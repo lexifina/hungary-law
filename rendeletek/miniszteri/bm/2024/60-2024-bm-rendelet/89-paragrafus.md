@@ -1,1 +1,3 @@
-89. § Az Országgyűlési Őrségnél alkalmazható rendvédelmi egészségkárosodási ellátásról szóló 56/2016. (XII. 22.) BM rendelet 8. § (2) bekezdésében az „alapellátó” szövegrész helyébe a „rendvédelmi alapellátó” szöveg lép.
+89. §[^89]
+
+[^89]: A 89. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

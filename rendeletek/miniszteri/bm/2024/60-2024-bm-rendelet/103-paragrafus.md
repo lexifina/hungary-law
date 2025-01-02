@@ -1,3 +1,3 @@
-103. § Az Országgyűlési Őrségnél foglalkoztatott hivatásos állomány alkalmasságvizsgálatáról, valamint egészségügyi és pszichológiai ellátásáról szóló 43/2022. (XII. 19.) BM rendelet 68. § (3) bekezdése helyébe a következő rendelkezés lép:
+103. §[^107]
 
-„(3) A kompetenciavizsgálat végrehajtása a rendvédelmi alapellátó pszichológus feladata.”
+[^107]: A 103. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

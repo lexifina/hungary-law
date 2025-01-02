@@ -1,11 +1,3 @@
-10. § Az Országgyűlési Őrség hivatásos állományát érintő humánigazgatási tárgyú szabályokról szóló 56/2012. (XI. 22.) BM rendelet 13. § (2) bekezdése helyébe a következő rendelkezés lép:
+10. §[^10]
 
-„(2) A nemzetközi szervezet által kiírt pályázat elnyerésére figyelemmel illetmény nélküli szabadság engedélyezésére vonatkozó állományparancsban vagy határozatban rögzíteni kell különösen
-
-a) a hivatásos állomány nemzetközi szervezetnél jogviszonyt létesítő tagjának természetes személyazonosító adatait,
-
-b) az illetmény nélküli szabadság kezdetét, várható időtartamát,
-
-c) az illetmény nélküli szabadság tartamának társadalombiztosítási szempontból történő beszámíthatóságát, valamint
-
-d) a nemzetközi szervezet nevét és az érintett munkavégzésének helyét.”
+[^10]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

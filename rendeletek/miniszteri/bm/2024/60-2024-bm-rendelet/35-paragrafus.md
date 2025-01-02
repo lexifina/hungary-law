@@ -1,3 +1,3 @@
-35. § Az Országgyűlési Őrség hivatásos állományát érintő humánigazgatási tárgyú szabályokról szóló 56/2012. (XI. 22.) BM rendelet 113. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
+35. §[^35]
 
-(A jegyzőkönyvnek tartalmaznia kell)
+[^35]: A 35. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-54. § Az Országgyűlési Őrség egyenruha-ellátásra jogosult hivatásos állományának ruházati és öltözködési szabályzatáról szóló 64/2012. (XII. 12.) BM rendelet 20. § (1) bekezdése helyébe a következő rendelkezés lép:
+54. §[^54]
 
-„(1) Alapfelszerelés-kiegészítésre jogosult a hivatásos állomány tagja, ha alapellátási normájának változása ezt szükségessé teszi.”
+[^54]: Az 54. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

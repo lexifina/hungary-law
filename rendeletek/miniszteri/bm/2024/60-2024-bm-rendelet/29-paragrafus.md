@@ -1,3 +1,3 @@
-29. § Az Országgyűlési Őrség hivatásos állományát érintő humánigazgatási tárgyú szabályokról szóló 56/2012. (XI. 22.) BM rendelet 70. § (3) bekezdése helyébe a következő rendelkezés lép:
+29. §[^29]
 
-„(3) Az elismerésről szóló okmánnyal egyidejűleg igazolást kell kiadni a hivatásos állomány elismerésben részesített tagjának, amelyben az érintett tájékoztatást kap a pénz- vagy tárgyjutalom összegéről, értékéről, a levont jövedelemadó-előlegről, társadalombiztosítási és egyéb levonásról. Az igazolás kiállításához szükséges adatokat a humánigazgatási szakszolgálat és az Országgyűlési Őrség pénzügyi feladatokat ellátó szervezeti eleme biztosítja.”
+[^29]: A 29. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

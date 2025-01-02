@@ -1,5 +1,3 @@
-## „b) a döntések előkészítésébe be kell vonni a közvetlen szolgálati elöljárót, valamint jogszabályi kötelezettség vagy az érintett kérelme esetén a hatáskörrel rendelkező érdekképviseleti szervet, a Hszt. által meghatározott esetekben az érintett személyt, és bármelyik fél által kinyilvánított eltérő vélemény esetében a döntésre jogosult munkáltatói jogkört gyakorló elöljáró köteles szolgálati elöljárójának állásfoglalását kérni,”
+23. §[^23]
 
-23. § Az Országgyűlési Őrség hivatásos állományát érintő humánigazgatási tárgyú szabályokról szóló 56/2012. (XI. 22.) BM rendelet 53. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A szolgálati viszony keletkezésével, módosításával, megszüntetésével kapcsolatos és a szolgálati viszony fennállása alatt tett munkáltatói intézkedéseket – ha jogszabály eltérően nem rendelkezik – az Országgyűlési Őrség parancsnokának munkáltatói jogkörébe tartozó esetekben állományparancsban, az Országgyűlés elnökének munkáltatói jogkörébe tartozó esetekben határozatban kell elrendelni.”
+[^23]: A 23. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,17 +1,23 @@
 110. § Hatályát veszti az Országgyűlési Őrségnél foglalkoztatott hivatásos állomány alkalmasságvizsgálatáról, valamint egészségügyi és pszichológiai ellátásáról szóló 43/2022. (XII. 19.) BM rendelet
 
-a)[^7]
+a)[^127]
 
-b) 45. § (2) bekezdése,
+b)[^128]
 
-c) 80. § (1) bekezdés c) pontja,
+c)[^129]
 
-d) 80. § (2) bekezdése,
+d)[^130]
 
-e) 82. § (2) bekezdése,
+e)[^131]
 
-f) 83. § (3) bekezdése,
+f)[^132]
 
-g) 113–115. §-a.
+g)[^133]
 
-[^7]: A 110. § a) pontja a 111. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+[^127]: A 110. § a) pontja a 111. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+[^128]: A 110. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^129]: A 110. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^130]: A 110. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^131]: A 110. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^132]: A 110. § f) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^133]: A 110. § g) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

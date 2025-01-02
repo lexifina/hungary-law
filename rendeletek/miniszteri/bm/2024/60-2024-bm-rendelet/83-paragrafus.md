@@ -1,3 +1,3 @@
-83. § Az Országgyűlési Őrség által alkalmazott kényszerítő eszközök rendszeresítésének szakmai követelményeiről és eljárási szabályairól, valamint az Országgyűlési Őrségnél rendszeresíthető kényszerítő eszközök típusairól, fajtáiról szóló 33/2014. (IV. 24.) BM rendelet 22. § (2) bekezdése helyébe a következő rendelkezés lép:
+83. §[^83]
 
-„(2) A rendszerbe vételi javaslatban szerepeltetni kell a beszerzéshez vagy a vagyonátadáshoz szükséges költségeket, annak tervezett forrásait, a beszerzési eljárásra vagy a vagyonátadásra vonatkozó információkat, továbbá indokolt esetben a pótlásra vagy a mennyiségi bővítésre vonatkozó feladatokat, a rendszerben tartás tervezett idejét, a kényszerítő eszközt használó állomány kiképzésére vonatkozó javaslatokat.”
+[^83]: A 83. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

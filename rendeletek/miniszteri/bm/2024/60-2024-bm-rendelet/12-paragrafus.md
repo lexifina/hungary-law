@@ -1,3 +1,3 @@
-12. § Az Országgyűlési Őrség hivatásos állományát érintő humánigazgatási tárgyú szabályokról szóló 56/2012. (XI. 22.) BM rendelet 16/A. § (2) bekezdése helyébe a következő rendelkezés lép:
+12. §[^12]
 
-„(2) A személyzeti megbeszélést a szolgálati viszonynak az Országgyűlési Őrség által kezdeményezett megszüntetése esetén – a közös megegyezés, a próbaidő alatti azonnali hatályú, a vezetői kinevezés visszavonása miatti, az egészségi, pszichológiai, fizikai alkalmatlanság miatti, a fegyelmi ok miatti, a nemzetbiztonsági szempontból való alkalmatlanság és a méltatlanság miatti megszüntetés kivételével – a szolgálati viszony tervezett megszüntetése vagy a felmentési idő kezdete előtt legalább harminc nappal kell végrehajtani.”
+[^12]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

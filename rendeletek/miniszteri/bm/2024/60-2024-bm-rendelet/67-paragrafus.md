@@ -1,3 +1,3 @@
-67. § Az Országgyűlési Őrség egyenruha-ellátásra jogosult hivatásos állományának ruházati és öltözködési szabályzatáról szóló 64/2012. (XII. 12.) BM rendelet 39. § (5) bekezdés b) pontja helyébe a következő rendelkezés lép:
+67. §[^67]
 
-(A riadócsomag összetétele:)
+[^67]: A 67. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

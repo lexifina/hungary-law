@@ -1,3 +1,3 @@
-96. § Az Országgyűlési Őrség hivatásos állományának továbbképzési és vezetőképzési rendszeréről, rendészeti utánpótlási és vezetői adatbankjáról, valamint rendfokozati vizsgájáról szóló 26/2021. (VIII. 9.) BM rendelet 34. § (6) bekezdése helyébe a következő rendelkezés lép:
+96. §[^96]
 
-„(6) Az általános részi és különös részi követelményrendszert, a felkészítő tananyagot és a vizsgakérdéssort az Országgyűlési Őrség a hivatásos állomány tájékoztatására szolgáló belső hálózaton teszi közzé.”
+[^96]: A 96. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

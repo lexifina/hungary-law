@@ -1,33 +1,46 @@
 109. § Az Országgyűlési Őrségnél foglalkoztatott hivatásos állomány alkalmasságvizsgálatáról, valamint egészségügyi és pszichológiai ellátásáról szóló 43/2022. (XII. 19.) BM rendelet
 
-1. 2. § 9. pontjában a „felülvizsgálati egység vezetője” szövegrész helyébe a „rendvédelmi tisztifőorvos” szöveg,
+1.[^113]
 
-2.[^6]
+2.[^114]
 
-3. 7. § (2) bekezdésében a „keretrendszer igénybevételét” szövegrész helyébe a „keretrendszer, valamint az informatikai keretrendszeren keresztül használható mérőeszközök (kompetenciavizsgálati és alkalmasságvizsgálati teszteszközök) igénybevételét” szöveg,
+3.[^115]
 
-4. 8. § (1) bekezdés j) pontjában az „alkalmasságvizsgálatok” szövegrész helyébe az „alkalmasság- és kompetenciavizsgálatok” szöveg,
+4.[^116]
 
-5. 18. § (3) bekezdés i) pontjában a „nevét” szövegrész helyébe a „nevét, bélyegzőjének lenyomatát” szöveg,
+5.[^117]
 
-6. 19. § (3) bekezdés nyitó szövegrészében az „alkalmasságával” szövegrész helyébe az „egészségi alkalmasságával” szöveg,
+6.[^118]
 
-7. 22. § e) pontjában a „gondozással vagy kategóriaváltással” szövegrész helyébe a „gondozással” szöveg,
+7.[^119]
 
-8. 31. § (1) bekezdés nyitó szövegrészében a „magyar” szövegrész helyébe a „magyar populációra nézve” szöveg,
+8.[^120]
 
-9. 51. § (3) bekezdésében az „A hivatásos” szövegrész helyébe az „Az „Alkalmatlan a tervezett szolgálati beosztásra” minősítés esetén a hivatásos” szöveg,
+9.[^121]
 
-10. 56. § (3) bekezdésében az „A hivatásos” szövegrész helyébe az „Az „Alkalmatlan a tervezett vezetői szolgálati beosztásra” minősítés esetén a hivatásos” szöveg,
+10.[^122]
 
-11. 59. § (2) bekezdésében az „alapellátását végző” szövegrész helyébe az „alapellátó” szöveg,
+11.[^123]
 
-12. 91. § (2) bekezdésében a „szolgálatképtelenségről” szövegrész helyébe a „keresőképtelenségről” szöveg,
+12.[^124]
 
-13. 4. mellékletében foglalt táblázat A:5. mezőjében a „c) feladat: 12 perces kerékpározás” szövegrész helyébe a „c) feladat: 12 perces kerékpározás közepes ellenállási fokozatra állított kerékpár-ergométerrel” szöveg,
+13.[^125]
 
-14. 4. mellékletében foglalt táblázat A:6. mezőjében a „c) feladat: 12 perces evezés” szövegrész helyébe a „c) feladat: 12 perces evezés legmagasabb ellenállási fokozatra állított evezős ergométerrel” szöveg
+14.[^126]
 
 lép.
 
-[^6]: A 109. § 2. pontja a 111. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+[^113]: A 109. § 1. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^114]: A 109. § 2. pontja a 111. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+[^115]: A 109. § 3. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^116]: A 109. § 4. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^117]: A 109. § 5. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^118]: A 109. § 6. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^119]: A 109. § 7. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^120]: A 109. § 8. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^121]: A 109. § 9. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^122]: A 109. § 10. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^123]: A 109. § 11. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^124]: A 109. § 12. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^125]: A 109. § 13. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^126]: A 109. § 14. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

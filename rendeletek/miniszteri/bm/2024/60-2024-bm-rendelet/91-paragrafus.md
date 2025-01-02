@@ -1,3 +1,3 @@
-91. §[^1]
+91. §[^91]
 
-[^1]: A 91. § a 111. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+[^91]: A 91. § a 111. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.

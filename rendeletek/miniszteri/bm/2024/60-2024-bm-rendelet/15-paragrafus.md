@@ -1,3 +1,3 @@
-15. § Az Országgyűlési Őrség hivatásos állományát érintő humánigazgatási tárgyú szabályokról szóló 56/2012. (XI. 22.) BM rendelet 27. §-a helyébe a következő rendelkezés lép:
+15. §[^15]
 
-„27. § Ha a szolgálati viszony megszüntetésére átszervezés miatt kerül sor, az Országgyűlési Őrséget a szolgálati viszony megszüntetését megelőzően szolgálati beosztás-felajánlási kötelezettség terheli.”
+[^15]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-28. § Az Országgyűlési Őrség hivatásos állományát érintő humánigazgatási tárgyú szabályokról szóló 56/2012. (XI. 22.) BM rendelet 65/D. §-a helyébe a következő rendelkezés lép:
+28. §[^28]
 
-„65/D. § A megrongálódott szolgálati jelvényt meg kell semmisíteni és új szolgálati jelvényre kell kicserélni.”
+[^28]: A 28. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

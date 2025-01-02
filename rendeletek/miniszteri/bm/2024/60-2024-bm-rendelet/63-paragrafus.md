@@ -1,3 +1,3 @@
-63. § Az Országgyűlési Őrség egyenruha-ellátásra jogosult hivatásos állományának ruházati és öltözködési szabályzatáról szóló 64/2012. (XII. 12.) BM rendelet 27. § (3) bekezdése helyébe a következő rendelkezés lép:
+63. §[^63]
 
-„(3) A rendszeres évi záráskor keletkezett, az utánpótlási ellátmány mértékét meghaladó, természetben kiadott termékek nyilvántartási értékét túlellátásként kell a következő évre átvinni.”
+[^63]: A 63. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

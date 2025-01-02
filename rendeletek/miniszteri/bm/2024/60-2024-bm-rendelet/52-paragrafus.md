@@ -1,5 +1,3 @@
-52. § Az Országgyűlési Őrség egyenruha-ellátásra jogosult hivatásos állományának ruházati és öltözködési szabályzatáról szóló 64/2012. (XII. 12.) BM rendelet 18. § (2) és (3) bekezdése helyébe a következő rendelkezések lépnek:
+52. §[^52]
 
-„(2) Alapfelszerelésként vagy alapfelszerelés-kiegészítésként kiadott II. osztályú ruházati termék, felszerelési cikk esetén az osztályozási értékkülönbözetet – a ruházati termék nyilvántartási értékének 50%-át – az igényjogosult javára jóvá kell írni, a ruházati utánpótlási ellátmány felhasználása során kiadott II. osztályú ruházati termék, felszerelési cikk 50%-os nyilvántartási értékével kell a ruházati utánpótlási ellátmányt megterhelni. A jóváírt összeget a ruházati utánpótlási ellátmány kifizetésével együtt kell folyósítani, elszámolását a 15. §-ban foglaltaknak megfelelően kell végrehajtani.
-
-(3) Alapfelszereléskor és alapfelszerelés-kiegészítés során az igényjogosultak részére konfekcionált – a társasági és a társasági köznapi egyenruházati termék esetében méretes – termékeket kell biztosítani. Az igényjogosult az Országgyűlési Őrség által rendelkezésre bocsátott termékleírás alapján, az Országgyűlési Őrség parancsnokának külön engedélyével önállóan is gondoskodhat a társasági lábbeli beszerzéséről. A társasági lábbeli beszerzésével kapcsolatos költségtérítés összegéről és az elszámolás rendjéről az igényjogosultat előzetesen tájékoztatni kell.”
+[^52]: Az 52. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
