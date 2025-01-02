@@ -1,3 +1,3 @@
-3. § A lőterekről, a lőfegyverek, lőszerek hatósági tárolásáról, a fegyvertartáshoz szükséges elméleti és jártassági követelményekről szóló 49/2004. (VIII. 31.) BM rendelet 15. §-a a következő (5) bekezdéssel egészül ki:
+3. §[^3]
 
-„(5) A Kr. 37/A. § (2) bekezdése alapján leadott lőszer átvételéről a Rendőrség jegyzőkönyvet vesz fel és – saját döntése alapján – megteszi a 14. § (2) bekezdés a) vagy b) pontja vagy a 16. § (1) bekezdése szerinti intézkedéseket azzal, hogy a lőszer lőfegyver-kereskedő általi értékesítése esetén a 14. § (3) bekezdésében, illetve megsemmisítése esetén a 16. § (2) bekezdésében foglalt rendelkezés nem alkalmazható.”
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

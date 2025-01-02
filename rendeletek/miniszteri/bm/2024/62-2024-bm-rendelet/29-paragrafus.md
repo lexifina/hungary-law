@@ -1,3 +1,3 @@
-29. § A szabálysértési elzárás végrehajtásának részletes szabályairól szóló 57/2014. (XII. 5.) BM rendelet 4. § (2) bekezdés e) pontja helyébe a következő rendelkezés lép:
+29. §[^24]
 
-(Az elővezetést elrendelő határozat tartalmazza:)
+[^24]: A 29. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

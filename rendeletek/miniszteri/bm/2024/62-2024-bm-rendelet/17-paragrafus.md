@@ -1,5 +1,5 @@
-## 9.[^11]
+## 9.[^17]
 
 17. §
 
-[^11]: A 9. alcím az 50. § (3) bekezdése alapján 2025. február 1-jén lép hatályba.
+[^17]: A 9. alcím az 50. § (3) bekezdése alapján 2025. február 1-jén lép hatályba.

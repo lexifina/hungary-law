@@ -1,1 +1,3 @@
-39. § Hatályát veszti a belügyminiszter irányítása alá tartozó rendvédelmi feladatokat ellátó szervek hivatásos állományát érintő személyügyi igazgatás rendjéről szóló 31/2015. (VI. 16.) BM rendelet 35. § (6) bekezdésében az „a többletfeladat nagysága,” szövegrész.
+39. §[^34]
+
+[^34]: A 39. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,5 @@
 ## 14. A belügyminiszter feladat- és hatáskörét érintően a nemzetbiztonsági ellenőrzés alá eső személyek meghatározásáról szóló 15/2015. (IV. 10.) BM rendelet módosítása
 
-31. §[^17]
+31. §[^26]
 
-[^17]: A 31. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 31. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
