@@ -1,1 +1,0 @@
-15. § Ez a határozat az Országgyűlésről szóló 2012. évi XXXVI. törvény és a Nemzeti Emlékezet Bizottságáról szóló 2013. évi CCXLI. törvény módosításáról szóló 2024. évi LXXV. törvény hatálybalépése napján lép hatályba.
