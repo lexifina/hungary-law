@@ -1,7 +1,3 @@
-2. § A KKM rendelet
+2. §[^3]
 
-a) 4. § (3) bekezdésében a „45” szövegrész helyébe a „negyvenöt” szöveg,
-
-b) 10. § (1) bekezdésében a „15.” szövegrész helyébe a „tizenötödik” szöveg
-
-lép.
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
