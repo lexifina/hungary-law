@@ -1,1 +1,0 @@
-A Kormány a szakképzésről szóló 2019. évi LXXX. törvény 123. § (1) bekezdés 1. pontjában és (2) bekezdés 3., 6–23., 25–29. és 31–49. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
