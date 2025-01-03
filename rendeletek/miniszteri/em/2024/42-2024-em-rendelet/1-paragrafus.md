@@ -1,3 +1,3 @@
-1. § A veszélyhelyzet idején a villamos energia és földgáz egyetemes szolgáltatás változatlan feltételek szerinti nyújtását biztosító rezsivédelmi szolgáltatásról szóló 289/2022. (VIII. 5.) Korm. rendelet alapján a villamos energia szolgáltató részére járó ellentételezés kiszámításának módszertanáról szóló 12/2022. (VIII. 11.) TIM rendelet (a továbbiakban: R.) 2. § (5) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(5) Az ellentételezés kiszámítása során a (3) bekezdés szerinti mennyiségen belül az éven belüli villamosenergia-beszerzéssel érintett villamos energia (4) bekezdés szerint nem fedezett része vagy többlete a szervezett villamosenergia-piacon határidős, másnapi, vagy napon belüli termékek vásárlásával vagy értékesítésével, a szervezett villamosenergia-piac elszámolási módja szerinti időegységre vonatkozó elszámoló árakon elszámolva kerül figyelembevételre.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
