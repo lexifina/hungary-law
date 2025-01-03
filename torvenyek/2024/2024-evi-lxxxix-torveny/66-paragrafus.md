@@ -1,7 +1,1 @@
-## „XIII/A. Fejezet
-
-## A NAGYKERESKEDELMI ENERGIAPIACOK INTEGRITÁSÁVAL ÉS ÁTLÁTHATÓSÁGÁVAL ÖSSZEFÜGGŐ FELADATOK
-
-## Általános szabályok”
-
 ### 66. §

@@ -1,7 +1,1 @@
-## „III/A. Fejezet
-
-## A NAGYKERESKEDELMI ENERGIAPIACOK INTEGRITÁSÁVAL ÉS ÁTLÁTHATÓSÁGÁVAL ÖSSZEFÜGGŐ FELADATOK
-
-## Általános szabályok”
-
 ### 102. §
