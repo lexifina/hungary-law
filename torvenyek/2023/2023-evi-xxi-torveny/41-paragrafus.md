@@ -1,3 +1,0 @@
-## 8. A turisztikai térségek fejlesztésének állami feladatairól szóló 2016. évi CLVI. törvény módosítása
-
-### 41. §
