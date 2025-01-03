@@ -1,4 +1,4 @@
-1. melléklet a 10/2017. (VIII. 7.) KKM rendelethez[^19]
+1. melléklet a 10/2017. (VIII. 7.) KKM rendelethez[^26]
 
 |  | A | B | C |
 
@@ -10,4 +10,4 @@
 
 | 4. | Recepciós, portás, hivatali kisegítő, külképviseleti takarító, karbantartó, kertész, konyhai kisegítő | 1,3 | 1,5 |
 
-[^19]: Az 1. mellékletet a 2/2022. (I. 27.) KKM rendelet 19. §-a iktatta be.
+[^26]: Az 1. mellékletet a 2/2022. (I. 27.) KKM rendelet 19. §-a iktatta be.
