@@ -1,5 +1,0 @@
-## 33. §[^34]
-
-## 28. A Magyar Köztársaság és a Portugál Köztársaság között az oktatás, a tudomány, a felsőoktatás, a kultúra, az ifjúság, a sport és a társadalmi kommunikáció területén történő együttműködésről szóló egyezmény kihirdetéséről szóló 162/2007. (VI. 27.) Korm. rendelet módosítása
-
-[^34]: A 33. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
