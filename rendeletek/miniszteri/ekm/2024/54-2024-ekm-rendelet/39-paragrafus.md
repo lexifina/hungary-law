@@ -1,0 +1,1 @@
+39. § Ez a rendelet a légi járművek és repüléstechnikai termékek, alkatrészek és berendezések folyamatos légi alkalmasságának biztosításáról és az ezzel összefüggő feladatokban részt vevő szervezetek és személyek jóváhagyásáról szóló, 2014. november 26-i 1321/2014/EU bizottsági rendeletnek a végrehajtásához szükséges rendelkezéseket állapít meg.

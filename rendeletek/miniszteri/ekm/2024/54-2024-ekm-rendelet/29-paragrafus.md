@@ -1,0 +1,3 @@
+29. § Az 53/2016. (XII. 16.) NFM rendelet 10. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A 9. § (2) bekezdésében meghatározott betétlapra bejegyezhető típusjogosítás megszerzésére az 1178/2011/EU bizottsági rendelet I. Melléklet H. Alrészében foglalt követelményeket, a típusjogosításhoz kapcsolódó oktatói és vizsgáztatói tanúsítások megszerzésére az 1178/2011/EU bizottsági rendelet I. Melléklet J. és K. Alrészében foglalt követelményeket kell megfelelően alkalmazni. A típusjogosítás bejegyzéséhez, továbbá a típusjogosításhoz kapcsolódó oktatói és vizsgáztatói tanúsítások kiadásához szükséges képzést az e rendelet szerinti képző szervezet tartja.”
