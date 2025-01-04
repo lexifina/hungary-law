@@ -1168,7 +1168,7 @@ t) Menekítősáv: legalább 30 m hosszúságú és egy forgalmi sáv (FMSZ 1.2 
 
 u)[^169] Számított kapacitás (Ej/óra): megfelelő forgalom * [1 – zárvatartási idő (perc)*csúcsórai vasúti forgalom (vonat/óra)/60], ahol a megfelelő forgalom lakott területen kívül 1400 Ej/óra, lakott területen belül 1500 Ej/óra.
 
-v)[^170]
+v)[^170] Emelt sebességű vasúti pálya: olyan vasúti pálya, amelyen a megengedett legnagyobb sebesség 120 km/óránál nagyobb.
 
 z) Folyamatos szolgálatot ellátó állomás: ahol a vonatközlekedés idején szolgálatot tartanak.
 
@@ -1294,5 +1294,5 @@ A fénysorompó villogó piros fényre váltásától a – vasúti pályára en
 [^167]: A II. számú függelék i) pontja a 2/1999. (I. 18.) KHVM rendelet 10. § (5) bekezdésével megállapított szöveg.
 [^168]: A II. számú függelék s) pontja a 2/1999. (I. 18.) KHVM rendelet 10. § (5) bekezdése szerint módosított szöveg.
 [^169]: A II. számú függelék u) pontját a 4/2008. (VI. 3.) KHEM rendelet 7. § (2) bekezdése hatályon kívül helyezte, újonnan az 55/2011. (X. 24.) NFM rendelet 9. §-a iktatta be.
-[^170]: A II. számú függelék v) pontját a 4/2008. (VI. 3.) KHEM rendelet 7. § (2) bekezdése hatályon kívül helyezte.
+[^170]: A II. függelék v) pontját a 4/2008. (VI. 3.) KHEM rendelet 7. § (2) bekezdése hatályon kívül helyezte, újonnan az 54/2024. (XII. 30.) ÉKM rendelet 1. §-a iktatta be.
 [^171]: A II. számú függelék y) pontját a 2/1999. (I. 18.) KHVM rendelet 10. § (5) bekezdése iktatta be.
