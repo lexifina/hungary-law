@@ -8,4 +8,6 @@
 
 (4) Tévesen teljesített felügyeleti díjfizetés esetén a közlekedési hatóság a téves fizetésről történő tudomásszerzést követő 30 napon belül intézkedik a visszafizetésről azon pénzforgalmi szolgáltatónál vezetett fizetési számla javára, amelyről a téves fizetés a közlekedési hatósághoz érkezett.
 
-(5) Az (1) bekezdés szerinti felügyeleti díjból a KAV Közlekedési Alkalmassági és Vizsgaközpont Nonprofit Kft.-t (a továbbiakban: vizsgaközpont) megillető összeg elszámolásáról havi rendszerességgel, a tárgyhónapot követő hónap utolsó napjáig, elsőként 2024. január 31. napjáig az Építési és Közlekedési Minisztérium gondoskodik az összegnek a vizsgaközpont OTP Bank Nyrt.-nél vezetett, 11711003-21463062 számú számlájára történő átutalással, illetve az átutaláshoz kapcsolódó részletes analitika vizsgaközpont részére történő megküldésével.
+(5)[^1] Az (1) bekezdés szerinti felügyeleti díjból a KAV Közlekedési Alkalmassági és Vizsgaközpont Nonprofit Kft.-t (a továbbiakban: vizsgaközpont) megillető összeg elszámolásáról negyedévente, az adott negyedévet követő második hónap 15. napjáig az Építési és Közlekedési Minisztérium gondoskodik az összegnek a vizsgaközpont OTP Bank Nyrt.-nél vezetett, 11711003-21463062 számú számlájára történő átutalással, illetve az átutaláshoz kapcsolódó részletes analitika vizsgaközpont részére történő megküldésével.
+
+[^1]: Az 1. § (5) bekezdése az 54/2024. (XII. 30.) ÉKM rendelet 36. §-ával megállapított szöveg.
