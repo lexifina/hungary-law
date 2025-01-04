@@ -22,7 +22,7 @@ e) szabványos, illetőleg járműtípushoz rendszeresített vonószerkezet fels
 
 f) a gyártómű által rendszeresített oldalkocsinak motorkerékpárra történő felszerelése, amennyiben a motorkerékpár oldalkocsi csatlakoztatására alkalmas;
 
-g)[^10] a külön jogszabályban[^11] meghatározott feltételek szerint a gépkocsira megkülönböztető fény- és hangjelző berendezés felszerelése, amennyiben az megfelel MR.-ben foglalt követelményeknek,
+g)[^10] a megkülönböztető és figyelmeztető jelzést adó készülékek felszerelésének és használatának szabályairól szóló rendeletben[^11] meghatározott feltételek szerint a gépkocsira megkülönböztető fény- és hangjelző berendezés felszerelése, amennyiben az megfelel MR.-ben foglalt követelményeknek,
 
 h)[^12] a jármű olyan módon vagy mértékben történő megváltoztatása, amelyre a közlekedési hatóság alkalmazási engedélyt ad, illetőleg amelyet engedély nélkül megvalósíthatónak minősít,
 
@@ -209,7 +209,7 @@ n) „összehangolt közúti műszaki ellenőrzés”: két vagy több tagállam
 [^7]: A 2. § (2) bekezdése a 12/1998. (V. 22.) KHVM rendelet 1. §-ának (1) bekezdésével megállapított szöveg.
 [^8]: A 2. § (3) bekezdés a) pontja a 18/2013. (V. 9.) NFM rendelet 14. § a) pontja szerint módosított szöveg.
 [^9]: A 2. § (3) bekezdésének b) pontja a 12/1998. (V. 22.) KHVM rendelet 1. §-ának (2) bekezdésével megállapított szöveg.
-[^10]: A 2. § (3) bekezdésének g) pontja a 39/2002. (XII. 28.) GKM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^10]: A 2. § (3) bekezdés g) pontja a 39/2002. (XII. 28.) GKM rendelet 1. § (1) bekezdésével megállapított, az 54/2024. (XII. 30.) ÉKM rendelet 5. § a) pontja szerint módosított szöveg.
 [^11]: Lásd a megkülönböztető és figyelmeztető jelzést adó készülékek felszerelésének és használatának szabályairól szóló 33/2000. (XI. 29.) BM rendeletet.
 [^12]: A 2. § (3) bekezdésének h) pontját a 39/2002. (XII. 28.) GKM rendelet 1. § (1) bekezdése iktatta be, szövege a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés a) pontja szerint módosított szöveg.
 [^13]: A 2. § (3) bekezdés i) pontját a 22/2012. (V. 8.) NFM rendelet 1. § (1) bekezdése iktatta be.

@@ -1,6 +1,6 @@
 ## Az időszakos vizsgálat eredményén alapuló intézkedések
 
-13. § (1)[^193] Az időszakos vizsgálat eredményéről a közlekedési hatóság elektronikus úton a Nyilvántartót értesíti, továbbá a következő időszakos vizsgálat határidejét (műszaki érvényességi idejét) is tartalmazó – az 5/A. mellékletben meghatározott tartalmú – Műszaki vizsgálati bizonyítványt ad ki. Ha a közlekedési hatóság megállapítja, hogy a jármű az időszakos vizsgálat követelményeinek megfelel:
+13. § (1)[^196] Az időszakos vizsgálat eredményéről a közlekedési hatóság elektronikus úton a Nyilvántartót értesíti, továbbá a következő időszakos vizsgálat határidejét (műszaki érvényességi idejét) is tartalmazó – az 5/A. mellékletben meghatározott tartalmú – Műszaki vizsgálati bizonyítványt ad ki. Ha a közlekedési hatóság megállapítja, hogy a jármű az időszakos vizsgálat követelményeinek megfelel:
 
 a) a 11. §-ban meghatározottak szerint megállapítja a következő időszakos vizsgálat időpontját,
 
@@ -10,31 +10,31 @@ c) a rendszámtáblán korábban rögzített rendszám érvényesítő körcímk
 
 d) az időszakos vizsgálat elvégzését, a kiadott Műszaki vizsgálati bizonyítványt azonosító adatokat, az időszakos vizsgálatkor rögzített kilométer-számláló állást, továbbá a forgalmi engedélybe bejegyzett műszaki érvényességi időt elektronikus úton közli a Nyilvántartóval.
 
-(1a)[^194] A jármű átalakítását, alkalmazási engedély alapján történő megváltoztatását, vagy egyéb okból bekövetkezett műszaki adatváltozását követő időszakos vizsgálata esetén Műszaki adatlapot is ki kell adni. A Műszaki adatlapon – az (1) bekezdésben foglaltakon túl – fel kell tüntetni az átalakításra, utaló záradékot és a megváltozott műszaki adatokat. A Műszaki adatlap adattartalmáról a Nyilvántartót elektronikus úton is értesíteni kell.
+(1a)[^197] A jármű átalakítását, alkalmazási engedély alapján történő megváltoztatását, vagy egyéb okból bekövetkezett műszaki adatváltozását követő időszakos vizsgálata esetén Műszaki adatlapot is ki kell adni. A Műszaki adatlapon – az (1) bekezdésben foglaltakon túl – fel kell tüntetni az átalakításra, utaló záradékot és a megváltozott műszaki adatokat. A Műszaki adatlap adattartalmáról a Nyilvántartót elektronikus úton is értesíteni kell.
 
-(1b)[^195] Ha a jármű az időszakos vizsgálat követelményeinek komoly hiba miatt az 5. számú melléklet 5.2. pontja szerint nem felel meg, a közlekedési hatóság a forgalmi engedély érvényességét legfeljebb két hónappal hosszabbítja meg, és ezt elektronikus úton közli a Nyilvántartóval.
+(1b)[^198] Ha a jármű az időszakos vizsgálat követelményeinek komoly hiba miatt az 5. számú melléklet 5.2. pontja szerint nem felel meg, a közlekedési hatóság a forgalmi engedély érvényességét legfeljebb két hónappal hosszabbítja meg, és ezt elektronikus úton közli a Nyilvántartóval.
 
-(2)[^196] Ha a jármű az időszakos vizsgálat követelményeinek nem felel meg, a közlekedési hatóság a forgalmi engedélyt érvényteleníti, a rendszámtábláról az érvényesítő címkét és a környezetvédelmi plakettet eltávolítja és ezt elektronikus úton közli a Nyilvántartóval.
+(2)[^199] Ha a jármű az időszakos vizsgálat követelményeinek nem felel meg, a közlekedési hatóság a forgalmi engedélyt érvényteleníti, a rendszámtábláról az érvényesítő címkét és a környezetvédelmi plakettet eltávolítja és ezt elektronikus úton közli a Nyilvántartóval.
 
-(3)[^197] Ha a jármű az időszakos vizsgálat követelményeinek megfelel, azonban
+(3)[^200] Ha a jármű az időszakos vizsgálat követelményeinek megfelel, azonban
 
 a) forgalmi engedéllyel nem rendelkezik, illetőleg
 
 b) a forgalmi engedély adataitól a tényleges adatai eltérnek, vagy
 
-c) a külön jogszabály[^198] szerint vagy egyéb okból a forgalmi engedély cseréje szükséges,
+c)[^201] a megkülönböztető és figyelmeztető jelzést adó készülékek felszerelésének és használatának szabályairól szóló rendelet szerint vagy egyéb okból a forgalmi engedély cseréje szükséges,
 
 a jármű adatait, valamint a következő időszakos vizsgálat határidejét tartalmazó „Műszaki adatlap”-ot kell kiadni.
 
-(4)[^199] A 11. §-ban, valamint a (3) bekezdésben meghatározott „Műszaki adatlap” kiadását helyettesítheti a jármű adatainak elektronikus úton történő átadása a Nyilvántartó részére.
+(4)[^202] A 11. §-ban, valamint a (3) bekezdésben meghatározott „Műszaki adatlap” kiadását helyettesítheti a jármű adatainak elektronikus úton történő átadása a Nyilvántartó részére.
 
-(5)[^200] A járművet vizsgálatra bemutató személyt tájékoztatják arról, ha olyan hiányosságokat állapítottak meg a járművel kapcsolatban, amelyeket ki kell javítani.
+(5)[^203] A járművet vizsgálatra bemutató személyt tájékoztatják arról, ha olyan hiányosságokat állapítottak meg a járművel kapcsolatban, amelyeket ki kell javítani.
 
-[^193]: A 13. § (1) bekezdése a 72/2015. (XII. 29.) NFM rendelet 3. §-ával megállapított szöveg.
-[^194]: A 13. § (1a) bekezdését a 62/2011. (XI. 29.) NFM rendelet 8. §-a iktatta be, szövege a 72/2015. (XII. 29.) NFM rendelet 3. §-ával megállapított, a 26/2016. (VII. 22.) NFM rendelet 7. § a) pontja szerint módosított szöveg.
-[^195]: A 13. § (1b) bekezdését a 2/2018. (II. 5.) NFM rendelet 7. § (1) bekezdése iktatta be.
-[^196]: A 13. § (2) bekezdése a 72/2015. (XII. 29.) NFM rendelet 3. §-ával megállapított szöveg.
-[^197]: A 13. § (3) bekezdése a 83/2005. (X. 11.) GKM rendelet 6. §-ával megállapított szöveg.
-[^198]: A közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 35/2000. (XI. 30.) BM rendelet 103. § (1) bekezdés.
-[^199]: A 13. § (4) bekezdését az 1/2001. (I. 10.) KöViM rendelet 4. §-ának (2) bekezdése iktatta be, szövegét a 83/2005. (X. 11.) GKM rendelet 6. §-a állapította meg.
-[^200]: A 13. § (5) bekezdését a 2/2018. (II. 5.) NFM rendelet 7. § (2) bekezdése iktatta be.
+[^196]: A 13. § (1) bekezdése a 72/2015. (XII. 29.) NFM rendelet 3. §-ával megállapított szöveg.
+[^197]: A 13. § (1a) bekezdését a 62/2011. (XI. 29.) NFM rendelet 8. §-a iktatta be, szövege a 72/2015. (XII. 29.) NFM rendelet 3. §-ával megállapított, a 26/2016. (VII. 22.) NFM rendelet 7. § a) pontja szerint módosított szöveg.
+[^198]: A 13. § (1b) bekezdését a 2/2018. (II. 5.) NFM rendelet 7. § (1) bekezdése iktatta be.
+[^199]: A 13. § (2) bekezdése a 72/2015. (XII. 29.) NFM rendelet 3. §-ával megállapított szöveg.
+[^200]: A 13. § (3) bekezdése a 83/2005. (X. 11.) GKM rendelet 6. §-ával megállapított szöveg.
+[^201]: A 13. § (3) bekezdés c) pontja az 54/2024. (XII. 30.) ÉKM rendelet 5. § d) pontja szerint módosított szöveg.
+[^202]: A 13. § (4) bekezdését az 1/2001. (I. 10.) KöViM rendelet 4. §-ának (2) bekezdése iktatta be, szövegét a 83/2005. (X. 11.) GKM rendelet 6. §-a állapította meg.
+[^203]: A 13. § (5) bekezdését a 2/2018. (II. 5.) NFM rendelet 7. § (2) bekezdése iktatta be.

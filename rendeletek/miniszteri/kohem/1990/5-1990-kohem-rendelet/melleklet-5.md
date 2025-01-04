@@ -2,7 +2,7 @@
 
 ## A minősítő jel négyzetbe írt, nyomtatott, álló nagy H betű. A négyzet és a betű mérete arányos a jelzéssel ellátott pótalkatrész, illetőleg tartozék méretével, de a négyzet oldalhosszúsága 6 mm-nél kevesebb nem lehet. A minősítő jel mellett feltüntetendő a minősítő vizsgálatot végző intézmény megfelelőséget tanúsító vizsgálati jelentésének száma.
 
-5. számú melléklet az 5/1990. (IV. 12.) KöHÉM rendelethez[^423]
+5. számú melléklet az 5/1990. (IV. 12.) KöHÉM rendelethez[^426]
 
 A forgalomba helyezés előtti és az időszakos vizsgálat tárgyi feltételei, technológiája és ügyrendje
 
@@ -106,11 +106,11 @@ A légfékes, 3,5 tonna megengedett legnagyobb össztömeget meghaladó, nemzetk
 
 1.8. A tengelyfelfüggesztést a tengely megemelése nélkül vizsgáló készülék (Futómű-mozgató pad), amely megfelel az alábbi követelményeknek:
 
-a) a készüléknek rendelkeznie kell legalább két, hosszanti és keresztirányban oda-vissza mozgatható, gépi meghajtású, a felületén csúszásgátló kivitelű lappal, ezzel egyenértékűnek elfogadható, ha az egyik oldal hosszanti és keresztirányban oda-vissza mozgatható, a másik oldal pedig forgatásra alkalmas;
+a) a készüléknek rendelkeznie kell legalább két, hosszanti és keresztirányban oda-vissza mozgatható, gépi meghajtású, a felületén csúszásgátló kivitelű lappal, ezzel egyenértékűnek elfogadható, ha az egyik oldal hosszanti és keresztirányban oda-vissza mozgatható, a másik oldal pedig forgatásra alkalmas, vagy a keresztirányú mozgás egyik vagy mindkét oldalon íves pályán valósul meg;
 
 b) a lapok mozgását a kezelő vizsgálóállásból irányíthatja;
 
-c) A 3,5 tonnát meghaladó össztömegű járművek esetében a lemezeknek az alábbi műszaki előírásoknak kell megfelelniük:
+c) a 3,5 tonnát meghaladó össztömegű járművek esetében a lemezeknek az alábbi műszaki előírásoknak kell megfelelniük:
 
 ca) hosszanti és keresztirányú mozgás: legalább 95 mm,
 
@@ -188,9 +188,7 @@ k) a DOT 3, DOT 4, DOT 4 Plus és DOT 5.1. fékfolyadék pontos forráspontját 
 
 l) a hibrid és elektromos jármű villamos biztonságának vizsgálatára alkalmas készülék, azokon a vizsgáló állomásokon, ahol hibrid vagy elektromos jármű forgalomba helyezés előtti műszaki vizsgálatát (is) végez a vizsgáló állomás,
 
-1.19. Mérésügyi előírások
-
-Az 1.1–1.6., 1.8. és 1.10–1.16. pontban meghatározott egyes eszközök mérésügyi szempontból akkor tekinthető megfelelőnek, ha a legutóbbi ellenőrzés óta nem telt el több idő, mint a gépjárműfenntartó tevékenység személyi és dologi feltételeiről szóló miniszteri rendelet a 7. számú mellékletében meghatározott időszak.
+1.19. Az 1.1–1.6. és 1.10–1.16. pontban meghatározott egyes eszközök mérésügyi szempontból akkor tekinthetőek megfelelőnek, ha a legutóbbi ellenőrzés óta nem telt el több idő, mint a gépjárműfenntartó tevékenység személyi és dologi feltételeiről szóló 1/1990. (IX. 29.) KHVM rendelet 7. számú mellékletében meghatározott időszak.
 
 Az ellenőrzési periódus az 1.9. pontban meghatározott zajszintmérő készülék esetében 24 hónap.
 
@@ -352,4 +350,4 @@ c) Veszélyes hiba: a közúti biztonságra közvetlen és azonnali veszélyt je
 
 5.2. A vizsgálatok tartalmára és módszereire, a járművek hiányosságának értékelésére vonatkozó táblázat
 
-[^423]: Az 5. számú mellékletet a 14/1999. (IV. 28.) KHVM rendelet 3. §-a iktatta be, szövege a 2/2018. (II. 5.) NFM rendelet 10. § (1) bekezdésével megállapított, a 28/2018. (XI. 15.) ITM rendelet 7. § (1) bekezdése, 8. § j) pontja, 9. § b) pontja, a 29/2020. (VII. 17.) ITM rendelet 3. § (1) bekezdése és 4. § b)–c) pontja, a 42/2021. (IX. 8.) ITM rendelet 4. § d) pontja, az 1/2023. (I. 19.) ÉKM rendelet 3. § (1) bekezdése, a 6/2023. (IV. 5.) ÉKM rendelet 3. §-a, a 10/2023. (VI. 2.) ÉKM rendelet 2. §-a, a 26/2023. (XII. 29.) ÉKM rendelet 6. § (1) bekezdése szerint módosított szöveg.
+[^426]: Az 5. számú mellékletet a 14/1999. (IV. 28.) KHVM rendelet 3. §-a iktatta be, szövege a 2/2018. (II. 5.) NFM rendelet 10. § (1) bekezdésével megállapított, a 28/2018. (XI. 15.) ITM rendelet 7. § (1) bekezdése, 8. § j) pontja és 9. § b) pontja, a 29/2020. (VII. 17.) ITM rendelet 3. § (1) bekezdése és 4. § b)–c) pontja, a 42/2021. (IX. 8.) ITM rendelet 4. § d) pontja, az 1/2023. (I. 19.) ÉKM rendelet 3. § (1) bekezdése, a 6/2023. (IV. 5.) ÉKM rendelet 3. §-a, a 10/2023. (VI. 2.) ÉKM rendelet 2. §-a, a 26/2023. (XII. 29.) ÉKM rendelet 6. § (1) bekezdése, az 54/2024. (XII. 30.) ÉKM rendelet 4. §-a szerint módosított szöveg.
