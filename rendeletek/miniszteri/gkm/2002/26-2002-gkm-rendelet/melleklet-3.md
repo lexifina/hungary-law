@@ -172,6 +172,6 @@
 
 ## (This book contains 64 numerated pages)
 
-3. számú melléklet a 26/2002. (XI. 29.) GKM rendelethez[^41]
+3. számú melléklet a 26/2002. (XI. 29.) GKM rendelethez[^42]
 
-[^41]: A 3. számú mellékletet a 21/2023. (XI. 23.) ÉKM rendelet 17. § e) pontja hatályon kívül helyezte.
+[^42]: A 3. számú mellékletet a 21/2023. (XI. 23.) ÉKM rendelet 17. § e) pontja hatályon kívül helyezte.
