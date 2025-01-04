@@ -160,7 +160,7 @@
 
 3. melléklet a 75/2016. (XII. 29.) NFM rendelethez
 
-## AUDITÁLÁSI JEGYZŐKÖNYV
+AUDITÁLÁSI JEGYZŐKÖNYV
 
 1. MŰHELY ADATAI
 

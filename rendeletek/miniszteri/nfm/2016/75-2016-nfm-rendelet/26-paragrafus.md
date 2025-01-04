@@ -1,3 +1,3 @@
-## 24–25. §[^12]
+26. §[^15]
 
-[^12]: A 24–25. § az 55/2017. (XII. 27.) NFM rendelet 110. § i) pontja hatályon kívül helyezte.
+[^15]: A 26. §-t a 12/2021. (III. 5.) ITM rendelet 24. § c) pontja hatályon kívül helyezte.

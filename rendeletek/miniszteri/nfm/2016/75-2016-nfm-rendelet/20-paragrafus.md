@@ -1,5 +1,3 @@
-## 19. §
-
 ## 8. Menetíró szerelőműhelyek auditálási tanúsítványa
 
 20. § (1) A menetíró szerelőműhelyek auditálását a közlekedési hatóság végzi.

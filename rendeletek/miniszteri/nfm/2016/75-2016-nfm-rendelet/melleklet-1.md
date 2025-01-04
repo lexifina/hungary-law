@@ -1,8 +1,6 @@
-## 40. §[^21]
-
 1. melléklet a 75/2016. (XII. 29.) NFM rendelethez
 
-## A menetíró szerelőre és a menetíró ellenőrre vonatkozó képesítési követelmények
+A menetíró szerelőre és a menetíró ellenőrre vonatkozó képesítési követelmények
 
 1. Az Analóg menetíró szerelő alapképesítés
 
@@ -367,5 +365,3 @@ b) menetíró ellenőrző szoftverek, letöltő kulcs (kulcsok),
 c) menetíró szerelői és menetíró ellenőri képzésnek megfelelő menetíróval szerelt jármű
 
 rendelkezésre állása.
-
-[^21]: A 40. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

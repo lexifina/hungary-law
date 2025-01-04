@@ -1,5 +1,3 @@
-## 6. §[^2]
-
 7. § (1) A közlekedési hatóság a műhelyengedélyt kiadja a kérelmezőnek, ha az teljesíti
 
 a) a menetíró készülék szerelését végző menetíró szerelőműhelyekre vonatkozó személyi és tárgyi feltételeket, valamint
@@ -28,5 +26,4 @@ d) a műhely által alkalmazott jeleket és elektronikus biztonsági adatokat.
 
 (3)–(6)[^3]
 
-[^2]: A 6. §-t az 55/2017. (XII. 27.) NFM rendelet 110. § a) pontja hatályon kívül helyezte.
 [^3]: A 7. § (3)–(6) bekezdését az 55/2017. (XII. 27.) NFM rendelet 110. § b) pontja hatályon kívül helyezte.
