@@ -2,7 +2,7 @@
 
 ## fedélzeti szolgálatban
 
-## A.[^306]
+## A.[^310]
 
 ## Belvízi hajózás
 
@@ -30,7 +30,7 @@
 
 ## 2. Az 1. pont 1.1–1.4 alpontban felsorolt képesítésekkel:
 
-## 2.1[^307]
+## 2.1[^311]
 
 ## 2.2 az úszómunkagép-vezető,
 
@@ -62,7 +62,7 @@
 
 ## szolgálatok elláthatók, valamint a 3. pont 3.1–3.5 alpontban meghatározott sorszámú képesítésekkel ellátható szolgálatok közül az alacsonyabb sorszámú képesítésekkel a magasabb sorszámú szolgálatok elláthatók.
 
-## 4.[^308] A gépkezelő és géptiszt képesítésekkel a 3. pont 3.3-3.5 alpontjában meghatározott sorszámú szolgálatok (egészségi alkalmasság igazolása esetén) elláthatók.
+## 4.[^312] A gépkezelő és géptiszt képesítésekkel a 3. pont 3.3-3.5 alpontjában meghatározott sorszámú szolgálatok (egészségi alkalmasság igazolása esetén) elláthatók.
 
 ## 5. Belvízi vitorlás képesítések:
 
@@ -98,9 +98,9 @@
 
 ## 5. 500 BT vagy annál nagyobb hajóra képesített navigációs őrszolgálatért felelős fedélzeti tiszt
 
-6. számú melléklet a 15/2001. (IV. 27.) KöViM rendelethez[^309]
+6. számú melléklet a 15/2001. (IV. 27.) KöViM rendelethez[^313]
 
-[^306]: Az 5. számú melléklet A. része a 9/2009. (III. 6.) KHEM rendelet 6. §-ával megállapított szöveg.
-[^307]: Az 5. számú melléklet A. rész 2. pont 2.1 alpontját a 13/2022. (IV. 14.) ITM rendelet 12. § i) pontja hatályon kívül helyezte.
-[^308]: Az 5. számú melléklet A. Belvízi hajózás alcím 4. pontja a 29/2014. (V. 5.) NFM rendelet 18. § (4) bekezdésével megállapított szöveg.
-[^309]: A 6. számú melléklet a 15/2021. (IV. 9.) ITM rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^310]: Az 5. számú melléklet A. része a 9/2009. (III. 6.) KHEM rendelet 6. §-ával megállapított szöveg.
+[^311]: Az 5. számú melléklet A. rész 2. pont 2.1 alpontját a 13/2022. (IV. 14.) ITM rendelet 12. § i) pontja hatályon kívül helyezte.
+[^312]: Az 5. számú melléklet A. Belvízi hajózás alcím 4. pontja a 29/2014. (V. 5.) NFM rendelet 18. § (4) bekezdésével megállapított szöveg.
+[^313]: A 6. számú melléklet a 15/2021. (IV. 9.) ITM rendelet 7. § (2) bekezdésével megállapított szöveg.

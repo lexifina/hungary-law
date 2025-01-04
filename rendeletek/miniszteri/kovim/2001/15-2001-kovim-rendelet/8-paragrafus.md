@@ -8,13 +8,17 @@
 
 (3)[^61] A nemzetközi kedvtelési célú hajóvezetői bizonyítvány igénylésekor a vizsgaközpont által a kérelmező számára kiadott és egyedi azonosítóval ellátott adatlap Magyarország területén a kiállítástól számított 60 napig helyettesíti a kérelmezett képesítő okmányt.
 
-(4)[^62] A nemzetközi kedvtelési célú hajóvezetői bizonyítvány és a tengeri kedvtelési célú hajóvezetői bizonyítvány a kiállításától számított tíz évig érvényes az egészségi alkalmasság vizsgaközpontnál igazolása esetén.
+(3a)[^62] A „Bizonyítvány hajós képesítésről” megnevezésű képesítő okmány igénylésekor a vizsgaközpont által a kérelmező számára kiadott és egyedi azonosítóval ellátott adatlap Magyarország területén a kiállítástól számított 60 napig helyettesíti a kérelmezett képesítő okmányt.
 
-(5)[^63] Az előírt, a képesítésnek megfelelő, külön jogszabály szerinti vagy EGT államban kiállított egészségi alkalmasságot bizonyító orvosi igazolás eredeti példányát az okmány kiállítás kérelmezésekor be kell mutatni.
+(4)[^63] A nemzetközi kedvtelési célú hajóvezetői bizonyítvány és a tengeri kedvtelési célú hajóvezetői bizonyítvány a kiállításától számított tíz évig érvényes az egészségi alkalmasság vizsgaközpontnál igazolása esetén.
 
-(6)[^64] Az STCW Egyezményben szereplő tengerész képesítő okmányok kiadásával kapcsolatos, a lobogó szerinti állam kötelezettségein alapuló feladatai operatív ellátásával összefüggésben a vizsgaközpont – a vonatkozó nemzetközi minőségügyi szabványok szerinti és tanúsítvánnyal igazolt – hatékony minőségbiztosítási rendszert hoz létre és működtet.
+(4a)[^64] A belvízi hivatásos képesítés igazolására kiállított „Bizonyítvány hajós képesítésről” megnevezésű képesítő okmány a kiállításától számított tíz évig, de legfeljebb az egészségi alkalmasság orvosi igazolásának lejáratáig érvényes, amely lejárati dátumot az okmányon fel kell tüntetni.
 
-(7)[^65] Az STCW Egyezmény II/1, II/2, II/3, III/1, III/2, III/3 és III/6 szabályai alapján megszerzett tengerész fedélzeti és gépüzemi tiszti képesítések érvényességének meghosszabbítása során az alábbi feltételek ellenőrzése szükséges:
+(5)[^65] Az előírt, a képesítésnek megfelelő, külön jogszabály szerinti vagy EGT államban kiállított egészségi alkalmasságot bizonyító orvosi igazolás eredeti példányát az okmány kiállítás kérelmezésekor be kell mutatni.
+
+(6)[^66] Az STCW Egyezményben szereplő tengerész képesítő okmányok kiadásával kapcsolatos, a lobogó szerinti állam kötelezettségein alapuló feladatai operatív ellátásával összefüggésben a vizsgaközpont – a vonatkozó nemzetközi minőségügyi szabványok szerinti és tanúsítvánnyal igazolt – hatékony minőségbiztosítási rendszert hoz létre és működtet.
+
+(7)[^67] Az STCW Egyezmény II/1, II/2, II/3, III/1, III/2, III/3 és III/6 szabályai alapján megszerzett tengerész fedélzeti és gépüzemi tiszti képesítések érvényességének meghosszabbítása során az alábbi feltételek ellenőrzése szükséges:
 
 a) érvényes tengerész szolgálati könyv megléte,
 
@@ -44,14 +48,16 @@ de) emelt szintű tűzvédelmi ismeretek,
 
 e) a fedélzeti tiszti képesítések érvényességének meghosszabbítása esetén a fedélzeti tiszti képesítésnek megfelelő és érvényes GMDSS rádiótelefon kezelő képesítés és bizonyítvány megléte.
 
-(8)[^66] A (7) bekezdésben foglaltakra vonatkozóan a meghosszabbított érvényesség az eredeti érvényesség lejáratától számított 5. évforduló napja.
+(8)[^68] A (7) bekezdésben foglaltakra vonatkozóan a meghosszabbított érvényesség az eredeti érvényesség lejáratától számított 5. évforduló napja.
 
 [^58]: A 8. § (1) bekezdése a 15/2021. (IV. 9.) ITM rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^59]: A 8. § (2) bekezdése a 46/2021. (IX. 13.) ITM rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^60]: A 8. § (2a) bekezdését a 46/2021. (IX. 13.) ITM rendelet 6. § (2) bekezdése iktatta be.
 [^61]: A 8. § (3) bekezdését újonnan a 45/2019. (XII. 20.) ITM rendelet 8. § (1) bekezdése iktatta be, szövege a 15/2021. (IV. 9.) ITM rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^62]: A 8. § (4) bekezdését a 29/2014. (V. 5.) NFM rendelet 16. § (2) bekezdése iktatta be, szövege a 23/2015. (V. 8.) NFM rendelet 6. § a) pontja, a 15/2021. (IV. 9.) ITM rendelet 6. § d) pontja szerint módosított szöveg.
-[^63]: A 8. § (5) bekezdését a 45/2019. (XII. 20.) ITM rendelet 8. § (2) bekezdése iktatta be.
-[^64]: A 8. § (6) bekezdését a 46/2021. (IX. 13.) ITM rendelet 6. § (3) bekezdése iktatta be.
-[^65]: A 8. § (7) bekezdését a 46/2021. (IX. 13.) ITM rendelet 6. § (3) bekezdése iktatta be.
-[^66]: A 8. § (8) bekezdését a 46/2021. (IX. 13.) ITM rendelet 6. § (3) bekezdése iktatta be.
+[^62]: A 8. § (3a) bekezdését az 54/2024. (XII. 30.) ÉKM rendelet 9. §-a iktatta be.
+[^63]: A 8. § (4) bekezdését a 29/2014. (V. 5.) NFM rendelet 16. § (2) bekezdése iktatta be, szövege a 23/2015. (V. 8.) NFM rendelet 6. § a) pontja, a 15/2021. (IV. 9.) ITM rendelet 6. § d) pontja szerint módosított szöveg.
+[^64]: A 8. § (4a) bekezdését az 54/2024. (XII. 30.) ÉKM rendelet 10. §-a iktatta be.
+[^65]: A 8. § (5) bekezdését a 45/2019. (XII. 20.) ITM rendelet 8. § (2) bekezdése iktatta be.
+[^66]: A 8. § (6) bekezdését a 46/2021. (IX. 13.) ITM rendelet 6. § (3) bekezdése iktatta be.
+[^67]: A 8. § (7) bekezdését a 46/2021. (IX. 13.) ITM rendelet 6. § (3) bekezdése iktatta be.
+[^68]: A 8. § (8) bekezdését a 46/2021. (IX. 13.) ITM rendelet 6. § (3) bekezdése iktatta be.

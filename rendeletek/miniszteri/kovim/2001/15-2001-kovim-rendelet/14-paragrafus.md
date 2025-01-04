@@ -1,10 +1,10 @@
-## Az Európai Unió jogának való megfelelés[^106]
+## Az Európai Unió jogának való megfelelés[^109]
 
-14. §[^107] (1) Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
+14. §[^110] (1) Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
-a)[^108] a tengerészek képzésének minimumszintjéről szóló, 2022. június 8-i (EU) 2022/993/EK európai parlamenti és tanácsi irányelv,
+a)[^111] a tengerészek képzésének minimumszintjéről szóló, 2022. június 8-i (EU) 2022/993/EK európai parlamenti és tanácsi irányelv,
 
-b)[^109]
+b)[^112]
 
 c) az Európai Közösség Hajótulajdonosainak Szövetsége (ECSA) és az Európai Közlekedési és Szállítási Dolgozók Szövetsége (ETF) között létrejött, a 2006. évi tengerészeti munkaügyi egyezmény alapján kötött megállapodás végrehajtásáról, valamint az 1999/63/EK irányelv módosításáról szóló, 2009. február 16-i 2009/13/EK tanácsi irányelv,
 
@@ -14,7 +14,7 @@ e) a belvízi hajózásban szükséges szakmai képesítések elismeréséről, 
 
 (2) Ez a rendelet a belvízi hajózási szakmai képesítések tekintetében alkalmazott mintákról szóló, 2020. január 14-i (EU) 2020/182 bizottsági végrehajtási rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^106]: A 14. §-t megelőző alcím a 9/2009. (III. 6.) KHEM rendelet 10. § (17) bekezdésének b) pontjával megállapított szöveg.
-[^107]: A 14. § a 13/2022. (IV. 14.) ITM rendelet 10. §-ával megállapított szöveg.
-[^108]: A 14. § (1) bekezdés a) pontja a 21/2023. (XI. 23.) ÉKM rendelet 7. §-ával megállapított szöveg.
-[^109]: A 14. § (1) bekezdés b) pontját a 21/2023. (XI. 23.) ÉKM rendelet 9. § d) pontja hatályon kívül helyezte.
+[^109]: A 14. §-t megelőző alcím a 9/2009. (III. 6.) KHEM rendelet 10. § (17) bekezdésének b) pontjával megállapított szöveg.
+[^110]: A 14. § a 13/2022. (IV. 14.) ITM rendelet 10. §-ával megállapított szöveg.
+[^111]: A 14. § (1) bekezdés a) pontja a 21/2023. (XI. 23.) ÉKM rendelet 7. §-ával megállapított szöveg.
+[^112]: A 14. § (1) bekezdés b) pontját a 21/2023. (XI. 23.) ÉKM rendelet 9. § d) pontja hatályon kívül helyezte.
