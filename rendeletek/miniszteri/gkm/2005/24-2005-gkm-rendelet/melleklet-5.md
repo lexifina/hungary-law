@@ -1,4 +1,4 @@
-5. melléklet a 24/2005. (IV. 21.) GKM rendelethez[^323]
+5. melléklet a 24/2005. (IV. 21.) GKM rendelethez[^324]
 
 A 2003. év december 1-jét követően oktatásba bevont járművekre vonatkozó előírások
 
@@ -110,11 +110,11 @@ ad) azonos légtérben legalább 3 személy befogadására alkalmas kialakítás
 
 ae) a vezetőfülke szélességével és magasságával legalább azonos szélességű és magasságú, zárt, de nem különleges felépítmény,
 
-af) vezető által működtetett kézi sebességváltó karral rendelkezik;
+af) olyan sebességváltó rendszerrel van felszerelve, amely lehetővé teszi a vezető által a sebességfokozat kézi kiválasztását;
 
 b) kötelező felszerelések és tartozékok:
 
-ba) legalább 8 előremeneti fokozatú nyomatékváltó (sebességváltó),
+ba)
 
 bb) valamennyi fékezett kerékre ható blokkolásgátló (ABS),
 
@@ -342,4 +342,4 @@ Az oktatásra használt valamennyi járművet – kétkerekű járműveket kivé
 
 Az „AM” és „A” kategóriás, továbbá az „A1” és „A2” kategóriás gyakorlati képzés főoktatási szakaszában a kísérő szakoktatót szállító személygépkocsi tetőtartóján el kell helyezni a motorosok oktatására figyelmeztető feliratot tartalmazó táblát.
 
-[^323]: Az 5. melléklet a 14/2015. (III. 31.) NFM rendelet 9. § (2) bekezdésével megállapított, a 15/2021. (IV. 9.) ITM rendelet 26. §-a, a 9/2022. (VIII. 1.) TIM rendelet 50. § b) pontja szerint módosított szöveg.
+[^324]: Az 5. melléklet a 14/2015. (III. 31.) NFM rendelet 9. § (2) bekezdésével megállapított, a 15/2021. (IV. 9.) ITM rendelet 26. §-a, a 9/2022. (VIII. 1.) TIM rendelet 50. § b) pontja, az 54/2024. (XII. 30.) ÉKM rendelet 17. §-a szerint módosított szöveg.
