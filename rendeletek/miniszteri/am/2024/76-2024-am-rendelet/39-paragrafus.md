@@ -1,0 +1,1 @@
+39. § Ha a Nemzeti Irányító Hatóság felülvizsgálati eljárását lezáró döntése jogszabálysértő, a támogatási döntésbe vagy a vonatkozó pályázati felhívásba ütközik, a kedvezményezett a döntés ellen egy alkalommal a KAP vhr. 29. alcíme szerinti jogorvoslattal élhet.

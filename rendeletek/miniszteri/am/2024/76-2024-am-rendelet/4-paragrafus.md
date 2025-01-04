@@ -1,0 +1,1 @@
+4. § A kedvezményezett az ellenőrzésre benyújtott dokumentumokkal együtt a Kbt. 19. §-ában foglaltaknak való megfelelés vizsgálatára vonatkozó nyilatkozatát, valamint ennek alátámasztására a vizsgált eljárások listáját is benyújtja.
