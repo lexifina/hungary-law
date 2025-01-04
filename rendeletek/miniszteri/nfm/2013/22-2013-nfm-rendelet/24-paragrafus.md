@@ -12,7 +12,7 @@ a) egy adott terület vagy légiközlekedés védelmében közreműködő szerve
 
 b) légiközlekedés védelmi felülvizsgálat vagy légiközlekedés védelmi vizsgálat során annak részeként az ellenőrzött védelmi terület rendszerszerű működésének
 
-## ellenőrzése.
+ellenőrzése.
 
 (5) A légiközlekedés védelmi tesztelésnek nem célja vétkesség vagy személyi felelősség megállapítása.
 

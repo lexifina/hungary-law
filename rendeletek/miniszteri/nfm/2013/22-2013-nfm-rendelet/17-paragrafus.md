@@ -1,6 +1,6 @@
 ## 7. Légiközlekedés védelmi felülvizsgálat
 
-17. § (1)[^6]
+17. § (1)[^7]
 
 (2) A légiközlekedés védelmi felülvizsgálat végrehajtására ki kell jelölni a felülvizsgálatot végrehajtó ellenőröket. Az ellenőrök közül a felülvizsgálat vezetésére vezető ellenőrt kell kijelölni. Amennyiben a felülvizsgálandó szervezet nagysága, vagy az általa végzett tevékenysége alapján a felülvizsgálat elvégzéséhez elégséges egy ellenőr, ebben az esetben az ellenőr végrehajtja a vezető ellenőri feladatokat is.
 
@@ -48,9 +48,9 @@ g) szükség esetén részvétel a visszaellenőrzésben,
 
 h) emlékeztető készítése.
 
-(6)[^7]
+(6)[^8]
 
 (7) A (4) bekezdés j) pontjában és az (5) bekezdés g) pontjában lévő visszaellenőrzés megszervezése és abban történő részvétel nem a légiközlekedési hatóság alkalmazásában lévő kormányzati szolgálati viszonyban álló nemzeti minőségbiztosítási ellenőrrel csak előzetes egyeztetés alapján történhet.
 
-[^6]: A 17. § (1) bekezdését az 55/2017. (XII. 27.) NFM rendelet 69. § d) pontja hatályon kívül helyezte.
-[^7]: A 17. § (6) bekezdését az 55/2017. (XII. 27.) NFM rendelet 69. § d) pontja hatályon kívül helyezte.
+[^7]: A 17. § (1) bekezdését az 55/2017. (XII. 27.) NFM rendelet 69. § d) pontja hatályon kívül helyezte.
+[^8]: A 17. § (6) bekezdését az 55/2017. (XII. 27.) NFM rendelet 69. § d) pontja hatályon kívül helyezte.

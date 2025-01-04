@@ -2,16 +2,22 @@
 
 ## 2. Értelmező rendelkezések
 
-## 2. § E rendelet alkalmazásában
+2. §[^1] E rendelet alkalmazásában
 
 1. belső minőségbiztosítás: egy szervezet saját eszközeivel és erőforrásaival, a saját belső minőségbiztosítási programja szerint végrehajtott légiközlekedés védelmi minőségbiztosítási ellenőrzés, amelynek célja annak megállapítása, hogy az érintett szervezet milyen mértékben felel meg a nemzetközi, az európai uniós és a hazai légiközlekedés védelmi előírásoknak és belső légiközlekedés védelmi eljárásoknak;
 
 2. éves minőségbiztosítási ellenőrzési program: egy adott naptári évben végrehajtani tervezett légiközlekedés védelmi minőségbiztosítási ellenőrzéseket tartalmazó dokumentum;
 
-3. külső minőségbiztosítás: a légiközlekedés védelmében közreműködő szervezetnek külső eszközökkel és erőforrásokkal, a jelen rendelet szerint végrehajtott légiközlekedés védelmi minőségbiztosítási ellenőrzése, amelynek célja annak megállapítása, hogy az érintett szervezet milyen mértékben felel meg a nemzetközi, az európai uniós és a hazai légiközlekedés védelmi előírásoknak és eljárásoknak;
+3. külső minőségbiztosítási ellenőrzés: a légiközlekedés védelmében közreműködő szervezetnek külső eszközökkel és erőforrásokkal, e rendelet szerint végrehajtott légiközlekedés védelmi minőségbiztosítási ellenőrzése, amelynek célja annak megállapítása, hogy az érintett szervezet milyen mértékben felel meg a nemzetközi, az európai uniós és a hazai légiközlekedés védelmi előírásoknak és eljárásoknak;
 
-4. légiközlekedés védelmi felmérés (értékelés és elemzés): a légiközlekedés védelmi rendszer működésének értékelése a biztonsági szükségletek meghatározása céljából, amely tartalmazza a légiközlekedés védelmi intézkedések és eljárások végrehajtása ellenére fennmaradt jogellenes beavatkozásokra kihasználható gyenge pontok meghatározását, valamint rendelkezésre állása esetén bármely ismert kockázat kezelésére alkalmas, a fenyegetéssel arányban lévő légiközlekedés védelmi intézkedéssel kapcsolatos ajánlást;
+4. légiközlekedés védelmi felülvizsgálat: a védelmi intézkedések és eljárások alapos vizsgálatára, azok végrehajtásának teljeskörűségére és folyamatosságára irányuló audit, amely kiterjed annak vizsgálatára, hogy van-e rendszer a jogszabályokban meghatározott követelményekre;
 
-5. minőségbiztosítási ellenőrzési terv: meghatározott légiközlekedés védelmi minőségbiztosítási ellenőrzés végrehajtásának terve, amely tartalmazza a minőségbiztosítási ellenőrzés időtervét, szempont-rendszerét, valamint a végrehajtás erőforrásait;
+5. légiközlekedés védelmi teszt: a légiközlekedés-védelmi intézkedések próbája, amelynek során jogellenes beavatkozási kísérlet szimulálásával ellenőrzik a meglévő védelmi intézkedések hatékonyságát;
 
-6. vezető ellenőr: nemzeti minőségbiztosítási ellenőr, aki e rendelet előírásainak megfelelően felkészült, képzett és minőségbiztosítási ellenőrzés vezetésére megbízást kapott a felelős hatóságtól.
+6. légiközlekedés védelmi vizsgálat: a védelmi intézkedések és eljárások végrehajtásának megvizsgálására, a hibák megállapítására irányuló ellenőrzés, annak felmérése céljából, hogy az említett intézkedéseket és eljárásokat hatékonyan és a kívánt színvonalon végezték-e;
+
+7. minőségbiztosítási ellenőrzési terv: a minőségbiztosítási ellenőrzés időtervét, szempont-rendszerét, valamint a végrehajtás erőforrásait meghatározó légiközlekedés védelmi minőségbiztosítási ellenőrzés végrehajtásának terv;
+
+8. vezető ellenőr: nemzeti minőségbiztosítási ellenőr, aki e rendelet előírásainak megfelelően felkészült, képzett és minőségbiztosítási ellenőrzés vezetésére megbízást kapott a felelős hatóságtól.
+
+[^1]: A 2. § az 54/2024. (XII. 30.) ÉKM rendelet 26. §-ával megállapított szöveg.

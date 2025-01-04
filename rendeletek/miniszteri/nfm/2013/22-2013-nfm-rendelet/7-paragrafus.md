@@ -1,4 +1,4 @@
-## 6. §[^2] A légiközlekedési hatóság az éves monitoring terv szerint végrehajtja a minőségbiztosítási ellenőrzéseket. Az ellenőrzésekbe a légiközlekedés védelemben együttműködő hatóságok auditori képzettséggel rendelkező tagjai bevonhatók. A légiközlekedési hatóság szervezi és hajtja végre a monitoring tevékenységeket. Az együttműködő hatóságok auditori képzettséggel rendelkező tagjai is betölthetnek vezető védelmi ellenőri feladatokat. Az ellenőrzéseken a légiközlekedési hatóság döntése alapján további megfigyelők is részt vehetnek.
+## 6. §[^3] A légiközlekedési hatóság az éves monitoring terv szerint végrehajtja a minőségbiztosítási ellenőrzéseket. Az ellenőrzésekbe a légiközlekedés védelemben együttműködő hatóságok auditori képzettséggel rendelkező tagjai bevonhatók. A légiközlekedési hatóság szervezi és hajtja végre a monitoring tevékenységeket. Az együttműködő hatóságok auditori képzettséggel rendelkező tagjai is betölthetnek vezető védelmi ellenőri feladatokat. Az ellenőrzéseken a légiközlekedési hatóság döntése alapján további megfigyelők is részt vehetnek.
 
 ## 5. Az ellenőrre vonatkozó követelmények és feladatkörei leírása
 
@@ -24,4 +24,4 @@ b) nem lehet az ellenőrzött szervezet légiközlekedés védeleméért felelő
 
 (5) Az ellenőr az ellenőrzés során tudomására jutott információkat nem adhatja át jogosulatlan személy számára.
 
-[^2]: A 6. §-t újonnan a 15/2021. (IV. 9.) ITM rendelet 46. §-a iktatta be.
+[^3]: A 6. §-t újonnan a 15/2021. (IV. 9.) ITM rendelet 46. §-a iktatta be.

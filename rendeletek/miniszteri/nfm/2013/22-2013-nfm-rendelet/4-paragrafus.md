@@ -13,3 +13,5 @@ a) eljárások,
 b) intézkedések, valamint
 
 c) az alkalmazott gyakorlat
+
+minőségbiztosítási ellenőrzését szolgálja.

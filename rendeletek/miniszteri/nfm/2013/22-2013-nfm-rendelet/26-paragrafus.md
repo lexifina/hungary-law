@@ -28,6 +28,6 @@ j) ellenőrök és a vezető ellenőr aláírása.
 
 (3) A jelentéshez csatolni kell a hibákat felsoroló minőségbiztosítási ellenőrzés eltérési lapot, amely tartalmazza a vonatkozó előírást, az attól való eltérés megnevezését (hibát), a javító intézkedés határidejét, amennyiben a hiba kijavítására nincs azonnal lehetőség, a hiba kijavításáig alkalmazandó korrekciós intézkedéseket. Az eltérési lap tartalmazza továbbá a lezárás dátumának jelzésére szolgáló részt is.
 
-(4)[^9]
+(4)[^10]
 
-[^9]: A 26. § (4) bekezdését az 55/2017. (XII. 27.) NFM rendelet 69. § e) pontja hatályon kívül helyezte.
+[^10]: A 26. § (4) bekezdését az 55/2017. (XII. 27.) NFM rendelet 69. § e) pontja hatályon kívül helyezte.

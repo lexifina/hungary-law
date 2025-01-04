@@ -1,4 +1,4 @@
-27. § (1)[^10]
+27. § (1)[^11]
 
 (2) A javító intézkedéseket a következő határidőkkel kell végrehajtani:
 
@@ -8,7 +8,7 @@ b) „Nem felel meg” (Not compliant – D): a javító intézkedés befejezés
 
 c) „Súlyos hibák miatt nem felel meg” (Not compliant, with serious deficiencies – SD): a javító intézkedést haladéktalanul meg kell kezdeni, a befejezésének végső határideje a minőségbiztosítási ellenőrzésről szóló jelentés átvételének napjától számított 30 nap, a korrekciós intézkedések azonnali alkalmazása mellett.
 
-(3)–(6)[^11]
+(3)–(6)[^12]
 
-[^10]: A 27. § (1) bekezdését az 55/2017. (XII. 27.) NFM rendelet 69. § f) pontja hatályon kívül helyezte.
-[^11]: A 27. § (3)–(6) bekezdését az 55/2017. (XII. 27.) NFM rendelet 69. § g) pontja hatályon kívül helyezte.
+[^11]: A 27. § (1) bekezdését az 55/2017. (XII. 27.) NFM rendelet 69. § f) pontja hatályon kívül helyezte.
+[^12]: A 27. § (3)–(6) bekezdését az 55/2017. (XII. 27.) NFM rendelet 69. § g) pontja hatályon kívül helyezte.

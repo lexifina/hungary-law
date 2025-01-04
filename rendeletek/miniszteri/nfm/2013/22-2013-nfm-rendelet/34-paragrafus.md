@@ -12,6 +12,6 @@ c) a Nemzetközi Polgári Repülési Szervezetnek a polgári légiközlekedés e
 
 d) a légközlekedési hatóság által a Minőségbiztosítási Programmal kapcsolatban készített éves összefoglaló jelentés.
 
-(3)[^16]
+(3)[^19]
 
-[^16]: A 34. § (3) bekezdését az 55/2017. (XII. 27.) NFM rendelet 69. § k) pontja hatályon kívül helyezte.
+[^19]: A 34. § (3) bekezdését az 55/2017. (XII. 27.) NFM rendelet 69. § k) pontja hatályon kívül helyezte.

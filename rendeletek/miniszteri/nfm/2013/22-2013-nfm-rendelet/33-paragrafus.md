@@ -1,8 +1,6 @@
-## 32. §[^14]
-
 ## 13. Belső minőségbiztosítási eljárások
 
-33. §[^15] (1) A légiközlekedési hatóság által a légiközlekedési hatóság kiegészítő eljárásjogi szabályairól szóló kormányrendeletben foglaltak szerint jóváhagyott belső minőségbiztosítási program alapján a védelmi tiszt feladata a belső minőségbiztosítási ellenőrzés végrehajtásának megszervezése. A védelmi tiszt monitoring tevékenységének bizonyos részeit átadhatja a szervezeten belüli dolgozónak vagy az erre a célra létrehozott önálló szervezeti egységnek. A védelmi tiszt minden év december 31-ig elkészíti a következő évre vonatkozó minőségbiztosítási ellenőrzési tervet, amelyben meghatározza a minőségbiztosítási tevékenységgel ellenőrizendő területeket, a minőségbiztosítási ellenőrző tevékenység hozzávetőleges időpontját és azok gyakoriságát.
+33. §[^18] (1) A légiközlekedési hatóság által a légiközlekedési hatóság kiegészítő eljárásjogi szabályairól szóló kormányrendeletben foglaltak szerint jóváhagyott belső minőségbiztosítási program alapján a védelmi tiszt feladata a belső minőségbiztosítási ellenőrzés végrehajtásának megszervezése. A védelmi tiszt monitoring tevékenységének bizonyos részeit átadhatja a szervezeten belüli dolgozónak vagy az erre a célra létrehozott önálló szervezeti egységnek. A védelmi tiszt minden év december 31-ig elkészíti a következő évre vonatkozó minőségbiztosítási ellenőrzési tervet, amelyben meghatározza a minőségbiztosítási tevékenységgel ellenőrizendő területeket, a minőségbiztosítási ellenőrző tevékenység hozzávetőleges időpontját és azok gyakoriságát.
 
 (2) A belső minőségbiztosítási tevékenység kiadható az (EU) 2015/1998 bizottsági végrehajtási rendelet Melléklete 11.2.5. pontja szerinti képzéssel és védelmi háttérellenőrzéssel rendelkező harmadik félnek. A légiközlekedés védelmében érintett szervezet ellenőrizheti az alvállalkozó légiközlekedés védelmi tevékenységét, amennyiben alvállalkozásba adott ki bizonyos területeket.
 
@@ -40,5 +38,4 @@ c) teszt.
 
 9. jelentések.
 
-[^14]: A 32. §-t az 55/2017. (XII. 27.) NFM rendelet 69. § i) pontja hatályon kívül helyezte.
-[^15]: A 33. § a 15/2021. (IV. 9.) ITM rendelet 48. §-ával megállapított szöveg.
+[^18]: A 33. § a 15/2021. (IV. 9.) ITM rendelet 48. §-ával megállapított szöveg.
