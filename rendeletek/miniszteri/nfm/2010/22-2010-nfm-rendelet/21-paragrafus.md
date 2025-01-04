@@ -6,11 +6,11 @@
 
 (3) Azok a vasúti járművezetők, akik e rendelet hatálybalépését megelőzően szereztek vasúti jármű vezetésére vonatkozó jogosultságot és az e rendeletben foglaltaknak nem felelnek meg, e tevékenységüket 2018. október 29-éig folytathatják.
 
-(4)[^22] A közlekedési hatóság a vasúti járművezetői engedély kiállításakor, valamint a vasúti társaság vagy a vasúti vizsgaközpont a tanúsítvány kiállításakor figyelembe veszi a vasúti járművezető által már megszerzett valamennyi szakmai kompetenciát.
+(4)[^26] A közlekedési hatóság a vasúti járművezetői engedély kiállításakor, valamint a vasúti társaság vagy a vasúti vizsgaközpont a tanúsítvány kiállításakor figyelembe veszi a vasúti járművezető által már megszerzett valamennyi szakmai kompetenciát.
 
 (5) Az e rendelet 16. § (1) bekezdésében meghatározott egyeztetésre vonatkozóan 2011. október 10-éig a vasúti járművezetőket foglalkoztató vasúti társaságok – a reprezentatív szakszervezetekkel egyeztetett – szabályzatot kötelesek készíteni.
 
-(6)[^23] Az e rendelet hatálybalépését megelőzően kiadott vasúti járművezetésre jogosító igazolványt az e rendelet szerinti vasúti járművezetői engedély kiadásakor a közlekedési hatóság bevonja.
+(6)[^27] Az e rendelet hatálybalépését megelőzően kiadott vasúti járművezetésre jogosító igazolványt az e rendelet szerinti vasúti járművezetői engedély kiadásakor a közlekedési hatóság bevonja.
 
-[^22]: A 21. § (4) bekezdése a 22/2015. (V. 6.) NFM rendelet 3. § g) pontja szerint módosított szöveg.
-[^23]: A 21. § (6) bekezdését a 7/2012. (II. 15.) NFM rendelet 4. §-a iktatta be.
+[^26]: A 21. § (4) bekezdése a 22/2015. (V. 6.) NFM rendelet 3. § g) pontja szerint módosított szöveg.
+[^27]: A 21. § (6) bekezdését a 7/2012. (II. 15.) NFM rendelet 4. §-a iktatta be.

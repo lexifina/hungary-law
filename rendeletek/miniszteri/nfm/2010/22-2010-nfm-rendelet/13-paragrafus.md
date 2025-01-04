@@ -1,4 +1,4 @@
-13. §[^13] (1) A vasúti társaság a vele munkaviszonyban álló vasúti járművezető részére tanúsítványt állít ki, ha
+13. §[^13] (1)[^14] A vasúti társaság – a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény 68/F. § (1) bekezdése szerinti jogviszonyban álló – vasúti járművezető részére tanúsítványt állít ki, ha
 
 a) a munkavállaló a KR.-ben meghatározottak szerint a tanúsítványhoz szükséges alapvizsgát letette,
 
@@ -10,10 +10,14 @@ c) a munkavállaló a KR. 6. mellékletében meghatározott magyar nyelvismerett
 
 (3) A tanúsítvány tulajdonosa a kiállító vasúti társaság. A vasúti társaság a vasúti járművezető kérelmére a részére a tanúsítványból hitelesített másolatot ad.
 
-(4) Az (1)–(3) bekezdés rendelkezéseitől eltérően a munkáltató megbízásából a vasúti vizsgaközpont is jogosult kiállítani a tanúsítványt. A vasúti vizsgaközpont a munkáltató kérelmére a részére a tanúsítványból hitelesített másolatot ad.
+(4)[^15]
 
-(5) A tanúsítványt a vasúti vizsgaközpont a (2) bekezdésben meghatározott formai előírásoknak és a biztonsági okmányokra vonatkozó szabályoknak megfelelően az alap- és időszakos vizsga adatai alapján állítja ki.
+(5)[^16]
 
-(6) A vasúti vizsgaközpont által kiállított tanúsítvány egy tekintet alá esik a vasúti társaság által kiállított tanúsítvánnyal.
+(6)[^17]
 
 [^13]: A 13. § a 22/2015. (V. 6.) NFM rendelet 2. §-ával megállapított szöveg.
+[^14]: A 13. § (1) bekezdése az 54/2024. (XII. 30.) ÉKM rendelet 22. §-ával megállapított szöveg.
+[^15]: A 13. § (4) bekezdését az 54/2024. (XII. 30.) ÉKM rendelet 23. § a) pontja hatályon kívül helyezte.
+[^16]: A 13. § (5) bekezdését az 54/2024. (XII. 30.) ÉKM rendelet 23. § a) pontja hatályon kívül helyezte.
+[^17]: A 13. § (6) bekezdését az 54/2024. (XII. 30.) ÉKM rendelet 23. § a) pontja hatályon kívül helyezte.

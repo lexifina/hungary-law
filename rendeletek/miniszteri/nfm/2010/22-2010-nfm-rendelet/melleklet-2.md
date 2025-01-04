@@ -1,6 +1,6 @@
 2. melléklet a 22/2010. (XII. 20.) NFM rendelethez
 
-## A vasúti járművezetői tanúsítvány tartalma
+A vasúti járművezetői tanúsítvány tartalma
 
 1. A tanúsítvány a következőket tartalmazza:
 
