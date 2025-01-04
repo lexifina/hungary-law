@@ -16,6 +16,9 @@ f) a légiközlekedés biztonságának javításával összefüggésben, a légi
 
 g)[^3] a légiközlekedéssel összefüggő informatikai rendszerek üzemeltetése, informatikai fejlesztések előkészítése, koordinálása, megvalósítása, az ahhoz szükséges informatikai környezet biztosítása.
 
+h)[^4] a légiközlekedés biztonságának növelése és a légiközlekedés fejlesztése érdekében szakértői támogatást nyújt a légiiparban működő szakmai és képzési szervezetek, intézmények együttműködését, innovációs és kutatás-fejlesztési tevékenységét, valamint a nemzetközi kapcsolatok kiépítését segítő fórumok, iparági klaszterek működéséhez.
+
 [^1]: Az 1. § (1) bekezdése a 45/2023. (XII. 29.) ÉKM rendelet 1. §-a szerint módosított szöveg.
 [^2]: Az 1. § (2) bekezdés b) pontja a 43/2021. (IX. 8.) ITM rendelet 30. § (1) bekezdésével megállapított szöveg.
 [^3]: Az 1. § (2) bekezdés g) pontja a 43/2021. (IX. 8.) ITM rendelet 30. § (2) bekezdésével megállapított szöveg.
+[^4]: Az 1. § (2) bekezdés h) pontját az 54/2024. (XII. 30.) ÉKM rendelet 32. §-a iktatta be.

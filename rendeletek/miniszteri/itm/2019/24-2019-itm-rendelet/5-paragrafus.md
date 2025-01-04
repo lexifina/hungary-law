@@ -1,5 +1,5 @@
 ## 4. § Ez a rendelet a kihirdetését követő harmadik napon lép hatályba.
 
-5. §[^12]
+5. §[^13]
 
-[^12]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
