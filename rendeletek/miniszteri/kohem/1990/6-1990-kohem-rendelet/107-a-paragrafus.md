@@ -1,6 +1,6 @@
-## A 112-es hívószámú fedélzeti e-segélyhívó rendszerre vonatkozó további műszaki feltételek[^232]
+## A 112-es hívószámú fedélzeti e-segélyhívó rendszerre vonatkozó további műszaki feltételek[^236]
 
-107/A. §[^233] (1) A 2015/758 európai parlamenti és tanácsi rendelet hatálya alá tartozó M1, N1 kategóriába tartozó járművet – a (2) bekezdésben meghatározott kivételekkel – 112-es hívószámú fedélzeti e-segélyhívó rendszerrel kell felszerelni.
+107/A. §[^237] (1) A 2015/758 európai parlamenti és tanácsi rendelet hatálya alá tartozó M1, N1 kategóriába tartozó járművet – a (2) bekezdésben meghatározott kivételekkel – 112-es hívószámú fedélzeti e-segélyhívó rendszerrel kell felszerelni.
 
 (2) Nem kell a 112-es hívószámú fedélzeti e-segélyhívó rendszerrel felszerelni
 
@@ -10,5 +10,5 @@ b) a kis sorozatban gyártott és a 2007/46/EK európai parlamenti és tanácsi 
 
 c) a 2007/46/EK európai parlamenti és tanácsi irányelv 24. cikke alapján jóváhagyott járműveket.
 
-[^232]: A 107/A. §-t megelőző alcímet az 53/2017. (XII. 22.) NFM rendelet 5. §-a iktatta be.
-[^233]: A 107/A. §-t az 53/2017. (XII. 22.) NFM rendelet 5. §-a iktatta be.
+[^236]: A 107/A. §-t megelőző alcímet az 53/2017. (XII. 22.) NFM rendelet 5. §-a iktatta be.
+[^237]: A 107/A. §-t az 53/2017. (XII. 22.) NFM rendelet 5. §-a iktatta be.

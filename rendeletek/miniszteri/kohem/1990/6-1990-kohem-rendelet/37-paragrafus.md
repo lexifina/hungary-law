@@ -8,19 +8,20 @@
 
 (3)[^155] A gépkocsira felszerelt három féklámpának egyszerre kell működnie és közülük kettő darab féklámpának ki kell elégítenie a (2) bekezdésben meghatározott feltételeket. A harmadik féklámpa (a továbbiakban: középső féklámpa) színére és működésére vonatkozóan a (2) bekezdés rendelkezéseit értelemszerűen alkalmazni kell.
 
-(4) A világító és a fényjelző berendezésekben csak a berendezés típusára előírt műszaki jellemzőkkel rendelkező izzólámpát szabad használni.
+(4)[^156] A világító és a fényjelző berendezésekben csak a berendezés típusára előírt műszaki jellemzőkkel rendelkező izzólámpát, tompított és távolsági fényszóró esetében minősítő jellel rendelkező helyettesítő LED fényforrást is szabad használni.
 
 (5) Előre piros, hátra fehér fényt — a hátrameneti lámpa, a munkahelymegvilágító lámpa, taxi vészjelző lámpája, továbbá a jármű belső világítására szolgáló lámpa kivételével — világító és fényjelző berendezés nem bocsáthat ki és nem verhet vissza.
 
-(6)[^156] Villogó fényt a világító, illetőleg fényjelző berendezés – az irányjelző, a megkülönböztető lámpa, a figyelmeztető lámpa, a taxi vészjelző lámpája, továbbá a visszajelző lámpák kivételével – nem bocsáthat ki. A villogó fényű lámpa villogásának egyenletesnek, jól érzékelhetőnek, a villogások számának percenként 90±30-nak kell lennie. Az első felvillanásnak a bekapcsolást követően legfeljebb 1 másodpercen belül kell bekövetkeznie.
+(6)[^157] Villogó fényt a világító, illetőleg fényjelző berendezés – az irányjelző, a megkülönböztető lámpa, a figyelmeztető lámpa, a taxi vészjelző lámpája, továbbá a visszajelző lámpák kivételével – nem bocsáthat ki. A villogó fényű lámpa villogásának egyenletesnek, jól érzékelhetőnek, a villogások számának percenként 90±30-nak kell lennie. Az első felvillanásnak a bekapcsolást követően legfeljebb 1 másodpercen belül kell bekövetkeznie.
 
 (7) Az olyan vontatott munkagépet, amely nem elégíti ki a pótkocsik világító és fényjelző berendezéseire vonatkozó rendelkezéseket, a közúti forgalomban való részvétel idejére kitűzhető fényjelző berendezésekkel kell felszerelni. Az így elhelyezett fényjelző berendezések rögzítőszerkezetének biztosítania kell a rendelet világító és fényjelző berendezések elhelyezésére vonatkozó előírásainak a teljesülését.
 
-(8)[^157] A gépkocsi hátsó világító és fényjelző berendezéseit meg kell ismételni kitűzhető világító és fényjelző berendezés alkalmazásával, ha a gépkocsi hátsó részén hátra túlnyúlóan – a közúti közlekedés szabályairól szóló rendeletben megengedett módon – szállított rakomány akadályozza a gyárilag felszerelt berendezések észlelését. A kitűzhető világító és fényjelző berendezéseknek és azok elhelyezésének meg kell felelniük az e rendeletben meghatározott követelményeknek.
+(8)[^158] A gépkocsi hátsó világító és fényjelző berendezéseit meg kell ismételni kitűzhető világító és fényjelző berendezés alkalmazásával, ha a gépkocsi hátsó részén hátra túlnyúlóan – a közúti közlekedés szabályairól szóló rendeletben megengedett módon – szállított rakomány akadályozza a gyárilag felszerelt berendezések észlelését. A kitűzhető világító és fényjelző berendezéseknek és azok elhelyezésének meg kell felelniük az e rendeletben meghatározott követelményeknek.
 
 [^152]: A 36/A. §-t valamint alcímet a 12/1995. (VII. 12.) KHVM rendelet 2. §-a iktatta a szövegbe.
 [^153]: A 37. § (1) bekezdése a 40/2002. (XII. 28.) GKM rendelet 8. §-ával megállapított szöveg.
 [^154]: Lásd: az A. Függelék A/20. számú mellékletét.
 [^155]: A 37. § (3) bekezdését a 12/1995. (VII. 12.) KHVM rendelet 3. §-a iktatta be, mely egyidejűleg az eredeti (3)–(6) bekezdés számozását (4)–(7) bekezdésre változtatta.
-[^156]: A 37. § (6) bekezdésének első mondata a 44/2001. (XII. 28.) KöViM rendelet 8. §-ával megállapított szöveg.
-[^157]: A 37. § (8) bekezdését a 72/2013. (XII. 2.) NFM rendelet 7. §-a iktatta be.
+[^156]: A 37. § (4) bekezdése az 54/2024. (XII. 30.) ÉKM rendelet 8. § a) pontja szerint módosított szöveg.
+[^157]: A 37. § (6) bekezdésének első mondata a 44/2001. (XII. 28.) KöViM rendelet 8. §-ával megállapított szöveg.
+[^158]: A 37. § (8) bekezdését a 72/2013. (XII. 2.) NFM rendelet 7. §-a iktatta be.
