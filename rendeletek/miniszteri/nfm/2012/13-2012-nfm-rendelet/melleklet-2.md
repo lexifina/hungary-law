@@ -1,5 +1,3 @@
-## A szakszolgálati engedély tartalma
-
 ## A szakszolgálati engedély legalább a következő adatokat tartalmazza:
 
 | I | Kiállító állam |
@@ -64,7 +62,7 @@
 
 2. melléklet a 13/2012. (III. 6.) NFM rendelethez
 
-## A szakszolgálati engedélybe bejegyezhető típuscsoport jogosítások
+A szakszolgálati engedélybe bejegyezhető típuscsoport jogosítások
 
 1. B1 kategóriájú szakszolgálati engedélybe bejegyezhető típuscsoport jogosítások
 

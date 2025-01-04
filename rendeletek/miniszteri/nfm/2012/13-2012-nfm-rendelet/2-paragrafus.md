@@ -1,5 +1,3 @@
-## üzemképesség tanúsításához szükséges személyi jogosításokra, azok megszerzésére, az ezekkel kapcsolatos képzésre, vizsgáztatásra, valamint az ezen képzések és vizsgák engedélyezésének feltételeire terjed ki.
-
 ## 2. Értelmező rendelkezések
 
 ## 2. § E rendelet alkalmazásában

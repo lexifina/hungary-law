@@ -10,6 +10,8 @@ a)[^2] a polgári légi közlekedés területén alkalmazandó közös szabályo
 
 b)[^3] az 1321/2014/EU bizottsági rendelet által nemzeti hatáskörbe utalt légijármű komponensek üzemképesség tanúsításához szükséges személyi jogosításokra, azok megszerzésére, az ezekkel kapcsolatos képzésre, vizsgáztatásra, valamint az ezen képzések és vizsgák engedélyezésének feltételeire terjed ki.
 
+üzemképesség tanúsításához szükséges személyi jogosításokra, azok megszerzésére, az ezekkel kapcsolatos képzésre, vizsgáztatásra, valamint az ezen képzések és vizsgák engedélyezésének feltételeire terjed ki.
+
 [^1]: Az 1. § a 41/2012. (VII. 13.) NFM rendelet 1. §-ával megállapított szöveg.
 [^2]: Az 1. § a) pontja a 47/2019. (XII. 23.) ITM rendelet 9. §-ával megállapított szöveg.
 [^3]: Az 1. § b) pontja a 15/2021. (IV. 9.) ITM rendelet 42. §-ával megállapított szöveg.
