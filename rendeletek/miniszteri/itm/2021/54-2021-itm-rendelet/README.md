@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-54-20-7
 | 2022-02-04 | 2021-54-20-7Q.5 | 2010: CXXX. törvény |
 | 2022-08-06 | 2021-54-20-7Q.6 | 9/2022. (VIII. 1.) TIM rendelet |
 | 2024-01-03 | 2021-54-20-7Q.7 | 48/2023. (XII. 29.) ÉKM rendelet |
+| 2025-01-04 | 2021-54-20-7Q.8 | 54/2024. (XII. 30.) ÉKM rendelet |

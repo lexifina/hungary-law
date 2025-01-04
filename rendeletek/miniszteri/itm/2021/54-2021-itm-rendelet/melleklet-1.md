@@ -1,227 +1,231 @@
 ## 12. § Ez a rendelet a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
-1. melléklet az 54/2021. (XI. 5.) ITM rendelethez[^6]
+1. melléklet az 54/2021. (XI. 5.) ITM rendelethez[^7]
 
-Gépkezelői jogosítvány alapján kezelhető gépek
+Gépkezelői jogosítvánnyal kezelhető gépek
 
 |  | A | B | C | D |
 
-| 1. | Kódszám | Gépkategória | Gépfőcsoport | Gépcsoport |
+| 1 | Kódszám | Gépkategória | Gépfőcsoport | Gépcsoport |
 
-| 2. | 1 | Földmunkagépek |
+| 2 | 1 | Földmunkagépek |
 
-| 3. | 11 |  | Univerzális földmunkagépek |
+| 3 | 11 |  | Univerzális földmunkagépek |
 
-| 4. | 1111 |  |  | 1 Traktor alapú univerzális földmunkagép |
+| 4 | 1111 |  |  | Traktoralapú univerzális földmunkagépek |
 
-| 5. | 12 |  | Kotrógépek |
+| 5 | 12 |  | Kotrógépek |
 
-| 6. | 1212 |  |  | Gumikerekes kotró |
+| 6 | 1212 |  |  | Gumikerekes kotrók |
 
-| 7. | 1222 |  |  | Lánctalpas kotró |
+| 7 | 1222 |  |  | Lánctalpas kotrók |
 
-| 8. | 1223 |  |  | Teleszkópos kotró |
+| 8 | 1223 |  |  | Teleszkópos kotrók |
 
-| 9. | 1311 |  |  | Vedersoros kotró és árokásó |
+| 9 | 1311 |  |  | Vedersoros kotrók és árokásók |
 
-| 10. | 14 |  | Földtolók (dózerek) |
+| 10 | 14 |  | Földtolók (dózerek) |
 
-| 11. | 1412 |  |  | Földtoló |
+| 11 | 1412 |  |  | Földtolók |
 
-| 12. | 15 |  | Földgyaluk (gréderek) |
+| 12 | 15 |  | Földgyaluk (gréderek) |
 
-| 13. | 1522 |  |  | Földgyalu |
+| 13 | 1522 |  |  | Földgyaluk |
 
-| 14. | 16 |  | Földnyesők (szkréperek) |
+| 14 | 16 |  | Földnyesők (szkréperek) |
 
-| 15. | 1612 |  |  | Földnyeső |
+| 15 | 1612 |  |  | Földnyesők |
 
-| 16. | 17 |  | Tömörítőgépek |
+| 16 | 17 |  | Tömörítőgépek |
 
-| 17. | 1712 |  |  | Statikus henger |
+| 17 | 1712 |  |  | Statikus hengerek |
 
-| 18. | 1722 |  |  | Vibrációs henger |
+| 18 | 1722 |  |  | Vibrációs hengerek |
 
-| 19. | 1732 |  |  | Gumihenger |
+| 19 | 1732 |  |  | Gumihengerek |
 
-| 20. | 2 | Alapozás, közmű- és fenntartási gépek |
+| 20 | 2 | Alapozás, közmű- és fenntartási gépek |
 
-| 21. | 21 |  | Alapozás gépei |
+| 21 | 21 |  | Alapozás gépei |
 
-| 22. | 2131 |  |  | Kőzet- és talajfúró berendezés |
+| 22 | 2131 |  |  | Kőzet- és talajfúró berendezések |
 
-| 23. | 2132 |  |  | Cölöp és szádfal verő berendezés |
+| 23 | 2132 |  |  | Cölöp- és szádfalverő berendezések |
 
-| 24. | 22 |  | Közműépítés gépei |
+| 24 | 22 |  | Közműépítés gépei |
 
-| 25. | 2218 |  |  | Talajvízszint süllyesztő aggregát |
+| 25 | 2218 |  |  | Talajvízszint-süllyesztő aggregátok |
 
-| 26. | 2222 |  |  | Dréncső, kábel és komplett csőfektető berendezés |
+| 26 | 2222 |  |  | Dréncső, kábel- és komplett csőfektető berendezések |
 
-| 27. | 2243 |  |  | Csősajtoló berendezés |
+| 27 | 2243 |  |  | Csősajtoló berendezések |
 
-| 28. | 2244 |  |  | Alagcsövező gép |
+| 28 | 2244 |  |  | Alagcsövező gépek |
 
-| 29. | 26 |  | Fenntartás gépei |
+| 29 | 26 |  | Fenntartás gépei |
 
-| 30. | 2632 |  |  | Földmű fenntartó gép |
+| 30 | 2632 |  |  | Földműfenntartó gépek |
 
-| 31. | 2655 |  |  | Nyesedékaprító berendezés |
+| 31 | 2654 |  |  | Önjáró fűnyírók és fűkaszák |
 
-| 32. | 2654 |  |  | Önjáró fűnyíró és fűkasza |
+| 32 | 2655 |  |  | Nyesedékaprító berendezések |
 
-| 33. | 2684 |  |  | Csatornavizsgáló és tisztító berendezés |
+| 33 | 2684 |  |  | Csatornavizsgáló és -tisztító berendezések |
 
-| 34. | 3 | Targoncák és szállítógépek |
+| 34 | 3 | Targoncák és szállítógépek |
 
-| 35. | 33 |  | Targoncák |
+| 35 | 33 |  | Targoncák |
 
-| 36. | 3312 |  |  | Gyalogkíséretű targoncák |
+| 36 | 3312 |  |  | Gyalogkíséretű targoncák |
 
-| 37. | 3313 |  |  | Vezetőállásos targoncák |
+| 37 | 3313 |  |  | Vezetőállásos targoncák |
 
-| 38. | 3324 |  |  | Vezetőüléses targoncák |
+| 38 | 3324 |  |  | Vezetőüléses targoncák |
 
-| 39. | 3327 |  |  | Vontató targoncák |
+| 39 | 3327 |  |  | Vontató és szállító targoncák |
 
-| 40. | 3336 |  |  | Autonóm komissiózó targoncák |
+| 40 | 3336 |  |  | Autonóm komissiózó targoncák |
 
-| 41. | 34 |  | Dömperek |
+| 41 | 34 |  | Dömperek |
 
-| 42. | 3411 |  |  | Dömper (kerekes anyagszállító) |
+| 42 | 3411 |  |  | Dömperek (kerekes anyagszállító) |
 
-| 43. | 3412 |  |  | Önrakodó dömperek |
+| 43 | 3412 |  |  | Önrakodó dömperek |
 
-| 44. | 36 |  | Szivattyúk és folyadékszállító gépek |
+| 44 | 36 |  | Szivattyúk és folyadékszállító gépek |
 
-| 45. | 3624 |  |  | Betonszállító mixer gépkocsi |
+| 45 | 3624 |  |  | Betonszállító mixer gépkocsik |
 
-| 46. | 3626 |  |  | Betonszállító mixer gépkocsi betonszivattyúval |
+| 46 | 3626 |  |  | Betonszállító mixer gépkocsik betonszivattyúval |
 
-| 47. | 3627 |  |  | Kényszertömörítésű szilárd hulladékgyűjtő és szállító gépek |
+| 47 | 3627 |  |  | Kényszertömörítésű szilárdhulladék-gyűjtő és -szállító gépek |
 
-| 48. | 3628 |  |  | Szennyvízszállító és szippantó járművek |
+| 48 | 3628 |  |  | Szennyvízszállító és szippantó járművek |
 
-| 49. | 3652 |  |  | Víz-, szennyvíz, zagy- és iszapszivattyú |
+| 49 | 3652 |  |  | Víz-, szennyvíz-, zagy- és iszapszivattyúk |
 
-| 50. | 3681 |  |  | Beton-, bitumen, habarcsszivattyú és szivattyú aggregát |
+| 50 | 3681 |  |  | Beton-, bitumen-, habarcsszivattyúk és szivattyú aggregátok |
 
-| 51. | 4 | Emelő- és rakodógépek (kivéve targonca) |
+| 51 | 4 | Emelő- és rakodógépek |
 
-| 52. | 41 |  | Emelőszerkezetek |
+| 52 | 41 |  | Emelőszerkezetek |
 
-| 53. | 4111 |  |  | Járműemelő |
+| 53 | 4111 |  |  | Járműemelők |
 
-| 54. | 4121 |  |  | Emelő asztal és felrakógép |
+| 54 | 4121 |  |  | Emelőasztalok és felrakógépek |
 
-| 55. | 4141 |  |  | Parkoló emelő |
+| 55 | 4131 |  |  | Gépi hajtású csörlők és villamos emelődobok |
 
-| 56. | 4191 |  |  | Szintkülönbség kiegyenlítő |
+| 56 | 4141 |  |  | Parkoló emelők |
 
-| 57. | 42 |  | Személyemelők és szerelőállványok |
+| 57 | 4171 |  |  | Színpadtechnikai emelő-berendezések |
 
-| 58. | 4211 |  |  | Ollós emelőállvány |
+| 58 | 4191 |  |  | Szintkülönbség kiegyenlítők |
 
-| 59. | 4213 |  |  | Gépjármű emelő-hátfalak |
+| 59 | 42 |  | Személyemelők és szerelőállványok |
 
-| 60. | 4221 |  |  | Mobil szerelő állvány |
+| 60 | 4211 |  |  | Ollós emelőállványok |
 
-| 61. | 4223 |  |  | Mobil szerelő kosár |
+| 61 | 4221 |  |  | Mobil szerelő állványok |
 
-| 62. | 4224 |  |  | Hidraulikus szerelőkosaras gépjármű és utánfutó |
+| 62 | 4223 |  |  | Mobil szerelő kosarak |
 
-| 63. | 4225 |  |  | Hídvizsgáló |
+| 63 | 4224 |  |  | Hidraulikus szerelőkosaras gépjárművek és utánfutók |
 
-| 64. | 4226 |  |  | Építési személy- és teherfelvonók |
+| 64 | 4225 |  |  | Hídvizsgálók |
 
-| 65. | 4227 |  |  | Függesztett rendszerű, mozgó munkahíd |
+| 65 | 4226 |  |  | Építési személy- és teherfelvonók |
 
-| 66. | 4228 |  |  | Emelőállvány, oszlopos kúszó munkaállvány |
+| 66 | 4227 |  |  | Függesztett rendszerű, mozgó munkahidak |
 
-| 67. | 43 |  | Járműves emelőszerkezetek, berendezések |
+| 67 | 4228 |  |  | Emelőállványok, oszlopos kúszó munkaállványok |
 
-| 68. | 4329 |  |  | Reptéri catering jármű |
+| 68 | 43 |  | Járműves emelőszerkezetek, berendezések |
 
-| 69. | 4374 |  |  | Konténer emelő |
+| 69 | 4213 |  |  | Gépjármű emelő-hátfalak |
 
-| 70. | 44 |  | Járműves daruk |
+| 70 | 4329 |  |  | Reptéri catering járművek |
 
-| 71. | 4411 |  |  | Autódaru |
+| 71 | 4374 |  |  | Konténer emelők |
 
-| 72. | 4412 |  |  | Emelve szállító gépjárművek |
+| 72 | 44 |  | Járműves daruk |
 
-| 73. | 4431 |  |  | Lánctalpas daru |
+| 73 | 4411 |  |  | Autódaruk |
 
-| 74. | 4451 |  |  | Járműre szerelt daru |
+| 74 | 4412 |  |  | Emelve szállító gépjárművek |
 
-| 75. | 43 |  | Toronydaruk és kötöttpályás daruk |
+| 75 | 4431 |  |  | Lánctalpas daruk |
 
-| 76. | 4341 |  |  | Toronydaru |
+| 76 | 4451 |  |  | Járműre szerelt daruk |
 
-| 77. | 4351 |  |  | Árbócdaru |
+| 77 | 43 |  | Toronydaruk és kötöttpályás daruk |
 
-| 78. | 4371 |  |  | Bakdaru |
+| 78 | 4341 |  |  | Toronydaruk |
 
-| 79. | 4372 |  |  | Forgódaru |
+| 79 | 4351 |  |  | Árbocdaruk |
 
-| 80. | 4391 |  |  | Födémdaru |
+| 80 | 4361 |  |  | Híddaruk, futódaruk |
 
-| 81. | 4361 |  |  | Híddaru, futódaru |
+| 81 | 4362 |  |  | Portáldaruk |
 
-| 82. | 4362 |  |  | Portáldaru |
+| 82 | 4371 |  |  | Bakdaruk |
 
-| 83. | 4373 |  |  | Ablakdaru |
+| 83 | 4372 |  |  | Forgódaruk |
 
-| 84. | 4375 |  |  | Konzoldaru |
+| 84 | 4373 |  |  | Ablakdaruk |
 
-| 85. | 45 |  | Rakodógépek |
+| 85 | 4375 |  |  | Konzoldaruk |
 
-| 86. | 4511 |  |  | Hidraulikus rakodók, homlokrakodók, forgórakodók, teleszkópos rakodó |
+| 86 | 4391 |  |  | Födémdaruk |
 
-| 87. | 4572 |  |  | Kompaktor |
+| 87 | 45 |  | Rakodógépek |
 
-| 88. | 4593 |  |  | Vagonkirakó |
+| 88 | 4511 |  |  | Hidraulikus rakodók, homlokrakodók, forgórakodók, teleszkópos rakodók |
 
-| 89. | 5 | Útépítő- és karbantartógép |
+| 89 | 4572 |  |  | Kompaktorok |
 
-| 90. | 53 |  | Útépítő gépek |
+| 90 | 4593 |  |  | Vagonkirakók |
 
-| 91. | 5316 |  |  | Talajstabilizátor |
+| 91 | 5 | Útépítő- és karbantartógépek |
 
-| 92. | 5323 |  |  | Betonbedolgozó finischer |
+| 92 | 53 |  | Útépítő gépek |
 
-| 93. | 5339 |  |  | Aszfalt újrahasznosító berendezés |
+| 93 | 5316 |  |  | Talajstabilizátorok |
 
-| 94. | 5341 |  |  | Aszfaltbedolgozó finischer |
+| 94 | 5323 |  |  | Betonbedolgozó finischerek |
 
-| 95. | 5344 |  |  | Aszfaltburkolat maró |
+| 95 | 5339 |  |  | Aszfalt újrahasznosító berendezések |
 
-| 96. | 5361 |  |  | Emulziószóró berendezés |
+| 96 | 5341 |  |  | Aszfaltbedolgozó finischerek |
 
-| 97. | 55 |  | Alagútépítés gépei |
+| 97 | 5344 |  |  | Aszfaltburkolat marók |
 
-| 98. | 5599 |  |  | Alagútépítő gépek |
+| 98 | 5361 |  |  | Emulziószóró berendezések |
 
-| 99. | 56 |  | Útburkolat javító gépek és karbantartó gépek |
+| 99 | 55 |  | Alagútépítés gépei |
 
-| 100. | 5623 |  |  | Hómaró és hótoló gépek |
+| 100 | 5599 |  |  | Alagútépítő gépek |
 
-| 101. | 5625 |  |  | Só- és homokszóró gép |
+| 101 | 56 |  | Útburkolat javító gépek és karbantartó gépek |
 
-| 102. | 5631 |  |  | Útfenntartó- és karbantartó gépek |
+| 102 | 5623 |  |  | Hómaró és hótoló gépek |
 
-| 103. | 5633 |  |  | Önjáró útburkolati jelfestő |
+| 103 | 5625 |  |  | Só- és homokszóró gépek |
 
-| 104. | 5636 |  |  | Kátyúzó gép |
+| 104 | 5631 |  |  | Útfenntartó- és karbantartó gépek |
 
-| 105. | 5643 |  |  | Szalagkorlát-, oszlop-, táblamosó gép |
+| 105 | 5632 |  |  | Önjáró útburkolati jelfestők |
 
-| 106. | 5652 |  |  | Ároktisztító-maró munkagép |
+| 106 | 5636 |  |  | Kátyúzó gépek |
 
-| 107. | 5672 |  |  | Önjáró seprőgép |
+| 107 | 5643 |  |  | Szalagkorlát-, oszlop-, táblamosó gépek |
 
-| 108. | 5680 |  |  | Aszfalt- és betonburkolat bontó és vágó gép |
+| 108 | 5652 |  |  | Ároktisztító-maró munkagépek |
 
-| 109. | 5681 |  |  | Útkorona átfúró berendezés |
+| 109 | 5672 |  |  | Önjáró seprőgépek |
 
-[^6]: Az 1. melléklet a 9/2022. (VIII. 1.) TIM rendelet 71. §-a szerint módosított szöveg.
+| 110 | 5680 |  |  | Aszfalt- és betonburkolat bontó- és vágógépek |
+
+| 111 | 5681 |  |  | Útkorona átfúró berendezések |
+
+[^7]: Az 1. melléklet az 54/2024. (XII. 30.) ÉKM rendelet 34. §-ával megállapított szöveg.
