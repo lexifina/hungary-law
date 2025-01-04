@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-45-20-0
 | 2021-04-14 | 2006-45-20-0L.15 | 15/2021. (IV. 9.) ITM rendelet |
 | 2022-08-06 | 2006-45-20-0L.16 | 9/2022. (VIII. 1.) TIM rendelet |
 | 2024-01-03 | 2006-45-20-0L.17 | 38/2023. (XII. 29.) ÉKM rendelet |
+| 2025-01-04 | 2006-45-20-0L.18 | 8/2008. (VI. 30.) KHEM rendelet |
