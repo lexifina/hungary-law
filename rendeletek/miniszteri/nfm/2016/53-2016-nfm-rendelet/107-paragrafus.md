@@ -2,6 +2,6 @@
 
 ## 44. A képzési engedély kiadása, felfüggesztése és visszavonása
 
-107. §[^43]
+107. §[^44]
 
-[^43]: A 107. §-t az 55/2017. (XII. 27.) NFM rendelet 101. § p) pontja hatályon kívül helyezte.
+[^44]: A 107. §-t az 55/2017. (XII. 27.) NFM rendelet 101. § p) pontja hatályon kívül helyezte.

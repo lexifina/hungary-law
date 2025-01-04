@@ -16,4 +16,6 @@ tartalmazza.
 
 (2) A 9. § (2) bekezdésében meghatározott betétlapra bejegyezhető, repülőgép és helikopter vezetésére jogosító szakszolgálati engedélyekhez kiadható mezőgazdasági és tűzoltó jogosítások a VIII. Fejezetben és a 6. mellékletben meghatározott követelmények teljesítése esetén adhatóak meg.
 
-(3) A 9. § (2) bekezdésében meghatározott betétlapra bejegyezhető típusjogosítás megszerzésére az 1178/2011/EU bizottsági rendelet I. Melléklet H. Alrészében foglalt követelményeket kell megfelelően alkalmazni. A típusjogosítás bejegyzéséhez szükséges képzést az e rendelet szerinti képző szervezet tartja.
+(3)[^10] A 9. § (2) bekezdésében meghatározott betétlapra bejegyezhető típusjogosítás megszerzésére az 1178/2011/EU bizottsági rendelet I. Melléklet H. Alrészében foglalt követelményeket, a típusjogosításhoz kapcsolódó oktatói és vizsgáztatói tanúsítások megszerzésére az 1178/2011/EU bizottsági rendelet I. Melléklet J. és K. Alrészében foglalt követelményeket kell megfelelően alkalmazni. A típusjogosítás bejegyzéséhez, továbbá a típusjogosításhoz kapcsolódó oktatói és vizsgáztatói tanúsítások kiadásához szükséges képzést az e rendelet szerinti képző szervezet tartja.
+
+[^10]: A 10. § (3) bekezdése az 54/2024. (XII. 30.) ÉKM rendelet 29. §-ával megállapított szöveg.

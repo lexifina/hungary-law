@@ -1,5 +1,5 @@
 ## 34. A tűzoltó jogosítás időbeli hatálya
 
-83. §[^39]
+83. §[^40]
 
-[^39]: A 83–85. §-t az 55/2017. (XII. 27.) NFM rendelet 101. § n) pontja hatályon kívül helyezte.
+[^40]: A 83–85. §-t az 55/2017. (XII. 27.) NFM rendelet 101. § n) pontja hatályon kívül helyezte.

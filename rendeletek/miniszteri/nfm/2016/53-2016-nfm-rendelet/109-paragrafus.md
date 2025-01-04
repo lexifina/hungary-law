@@ -2,6 +2,6 @@
 
 109. § (1) A képzési engedély kiadásához szükséges feltételeket érintő változást – a (2) és a (3) bekezdésben meghatározott esetek kivételével – a 11. mellékletben meghatározott képző szervezet az üzemeltetési kézikönyvében, a 12. mellékletben meghatározott képző szervezet a kézikönyvében meghatározott eljárásnak megfelelően vezeti be és a légiközlekedési hatóságnak – a kézikönyvei módosítással érintett cserelapjainak megküldésével – a változás bevezetését követő öt munkanapon belül bejelenti. A légiközlekedési hatóság a bejelentést tudomásul veszi.
 
-(2)–(4)[^45]
+(2)–(4)[^46]
 
-[^45]: A 109. § (2)–(4) bekezdését az 55/2017. (XII. 27.) NFM rendelet 101. § r) pontja hatályon kívül helyezte.
+[^46]: A 109. § (2)–(4) bekezdését az 55/2017. (XII. 27.) NFM rendelet 101. § r) pontja hatályon kívül helyezte.

@@ -2,7 +2,7 @@
 
 ## A KÉPZÉS ÉS A VIZSGA IGAZOLÁSA
 
-133. § (1)[^55] A légiközlekedési vizsgaközpont által a lefolytatott sikeres elméleti vizsgát követően kiállított tanúsítvány kötelező tartalmi elemei a következőek:
+133. § (1)[^57] A légiközlekedési vizsgaközpont által a lefolytatott sikeres elméleti vizsgát követően kiállított tanúsítvány kötelező tartalmi elemei a következőek:
 
 a) a kiállító légiközlekedési vizsgaközpont neve, címe,
 
@@ -18,7 +18,7 @@ f) a légiközlekedési vizsgaközpont nevében eljáró azon személy neve és 
 
 g) a tanúsítvány azonosítószáma.
 
-(2)[^56]
+(2)[^58]
 
-[^55]: A 133. § (1) bekezdése a 9/2022. (VIII. 1.) TIM rendelet 63. §-ával megállapított szöveg.
-[^56]: A 133. § (2) bekezdését az 55/2017. (XII. 27.) NFM rendelet 101. § x) pontja hatályon kívül helyezte.
+[^57]: A 133. § (1) bekezdése a 9/2022. (VIII. 1.) TIM rendelet 63. §-ával megállapított szöveg.
+[^58]: A 133. § (2) bekezdését az 55/2017. (XII. 27.) NFM rendelet 101. § x) pontja hatályon kívül helyezte.

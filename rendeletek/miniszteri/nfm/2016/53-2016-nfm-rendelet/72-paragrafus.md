@@ -2,6 +2,6 @@
 
 ## 30. A repülésüzemi tiszt szakszolgálati engedély időbeli hatálya
 
-72. §[^33]
+72. §[^34]
 
-[^33]: A 72–73. §-t az 55/2017. (XII. 27.) NFM rendelet 101. § k) pontja hatályon kívül helyezte.
+[^34]: A 72–73. §-t az 55/2017. (XII. 27.) NFM rendelet 101. § k) pontja hatályon kívül helyezte.
