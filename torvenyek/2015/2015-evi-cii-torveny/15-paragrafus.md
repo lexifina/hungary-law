@@ -2,7 +2,7 @@
 
 ## 12. A közlekedési hatóság feladat- és hatásköre
 
-15. § (1) A közlekedési hatóság feladat- és hatáskörébe tartozik:
+15. § (1) A közlekedési hatóság feladat- és hatáskörébe tartozik
 
 a) a műszaki engedély kiadása,
 
@@ -14,9 +14,11 @@ d) az egyéb kötöttpályás közlekedési rendszerek műszaki-biztonsági, val
 
 e) az egészségi alkalmasság megállapítása és ellenőrzése, valamint a vizsgáló szervezet 12/A. § szerinti tevékenységének ellenőrzése,
 
-f) jogszabály külön rendelkezésének hiányában a képzést és vizsgáztatást, valamint az egészségi alkalmasság vizsgálatát és véleményezését végző személyek nyilvántartásának vezetése,
+f) jogszabály eltérő rendelkezésének hiányában a képzést és vizsgáztatást, valamint az egészségi alkalmasság vizsgálatát és véleményezését végző személyek nyilvántartásának vezetése,
 
-g) mindazon feladatok ellátása, amelyeket kormány- vagy miniszteri rendelet feladatkörébe utal.
+g) egyéb kötöttpályás tevékenységet végző személyek és szervezetek kötelező baleseti kárfedezeti képessége biztosításának részletes szabályairól szóló kormányrendeletben foglaltaknak való folyamatos megfelelés ellenőrzése, a feltételek nem teljesítése esetén az érintett tevékenység megtiltása,
+
+h) mindazon feladatok ellátása, amelyeket kormány- vagy miniszteri rendelet feladatkörébe utal.
 
 (2) A közlekedési hatóság kérelemre induló eljárásáért igazgatási szolgáltatási díjat kell fizetni.
 

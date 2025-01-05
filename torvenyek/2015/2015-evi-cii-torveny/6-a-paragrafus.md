@@ -1,6 +1,16 @@
-6/A. § (1) A jelen alcím szerinti bejelentést tevő a vasúti igazgatási szervnek és a közlekedési hatóságnak rendelkezésére bocsátja a miniszteri rendeletben meghatározott információkat.
+6/A. § (1) A jelen alcím szerinti bejelentést tevő a közlekedési hatóság rendelkezésére bocsátja a vasútnak nem minősülő egyéb kötöttpályás közlekedési rendszerekkel kapcsolatos építésügyi hatósági engedélyezési eljárások lefolytatásának részletes szabályairól és egyes kapcsolódó kormányrendeletek módosításáról szóló kormányrendeletben meghatározott információkat.
 
-(2) A közlekedési hatóság és a vasúti igazgatási szerv a (1) bekezdés alapján megismert személyes adatokat nyilvántartásba veszi és a tevékenység felhagyását követő 12 hónapig kezeli.
+(2) A közlekedési hatóság az (1) bekezdés alapján nyilvántartásba veszi
+
+a) a tevékenységet végző személy nevét, a szervezet cégnevét,
+
+b) a személy vagy szervezet címét, székhelyét, levelezési címét, telefonszámát,
+
+c) a kapcsolattartó személy nevét, levelezési címét és telefonszámát, és
+
+d) az egyéb kötöttpályás közlekedés biztonságával összefüggő munkakört betöltő munkavállalók és egyéb foglalkoztatott személyek nevét és munkakörét.
+
+(2a) A (2) bekezdés alapján nyilvántartásba vett adatokat a közlekedési hatóság a tevékenység felhagyását követő 12 hónapig kezeli.
 
 (3) A képzési rendelet szerinti alapképzés és időszakos oktatás végzésére irányuló szándékot a szolgáltató köteles a közlekedési hatóságnak a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint bejelenteni.
 
@@ -8,4 +18,4 @@
 
 (5) Egyéb kötöttpályás közlekedési szakmai oktatóként az foglalkoztatható, aki büntetlen előéletű, és nem áll az e tevékenység folytatását kizáró foglalkoztatástól eltiltás hatálya alatt.
 
-(6) Ha a bejelentést a bejelentő a jogszabályi követelményeknek megfelelően nyújtotta be, a vasúti igazgatási szerv és a közlekedési hatóság a bejelentőt ennek tényéről értesíti.
+(6) Ha a bejelentést a bejelentő a jogszabályi követelményeknek megfelelően nyújtotta be, a közlekedési hatóság a bejelentőt ennek tényéről értesíti.
