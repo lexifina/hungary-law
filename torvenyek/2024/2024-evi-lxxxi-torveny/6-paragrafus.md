@@ -1,1 +1,3 @@
-### 6. §
+6. § A közúti közlekedésről szóló 1988. évi I. törvény 24/A. § (5a) bekezdése helyébe a következő rendelkezés lép:
+
+„(5a) A vizsgáló állomás által a közúti járművek időszakos vizsgálatával és rendszeres környezetvédelmi felülvizsgálatával kapcsolatos rendelkezések megsértése esetén a közlekedési hatóság a vizsgáló állomással szemben 130 000 forinttól 1 300 000 forintig terjedő bírságot szabhat ki. Az egyes rendelkezések megsértése esetén kiszabandó bírságok, valamint több jogsértő cselekmény vagy mulasztás esetén az ugyanabban az eljárásban kiszabható bírság maximális összegét a közúti árufuvarozáshoz, személyszállításhoz és a közúti közlekedéshez kapcsolódó egyes rendelkezések megsértése esetén kiszabható bírságok összegéről, valamint a bírságolással összefüggő hatósági feladatokról szóló kormányrendelet állapítja meg.”
