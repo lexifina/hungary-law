@@ -88,7 +88,9 @@ c) bírságot szabhat ki.
 
 (13) A közlekedési hatóság az ellenőrzés alá vont vasúti jármű túlterhelésének gyanúja esetén elrendelheti a vasúti jármű ellenőrző mérlegelését, és ennek érdekében – amennyiben szükséges menetvonal igénylésével is – a vasúti járművet (járműszerelvényt) a legközelebbi, a Hálózati Üzletszabályzatban meghirdetett vasúti járműmérleghez irányíttathatja. A túlterhelés tényének megállapítása esetén a mérlegelés költségét az ellenőrzés alá vont vasúti társaság viseli.
 
-(14) A közlekedési hatóság az e § alapján mérlegelési jogkörben hozott döntése során figyelembe veszi:
+(14) Az e §-ban foglalt jogsértések esetén a közlekedési hatóság által kiszabható bírság mértéke 50 000 000 forintig terjedhet.
+
+(15) A közigazgatási bírság összegének meghatározása során a közlekedési hatóság figyelembe veszi
 
 a) a jogsértés súlyát, a vasúti közlekedés biztonságára gyakorolt hatását,
 
@@ -98,24 +100,10 @@ c) a jogsértő magatartás felróhatóságát,
 
 d) a korábbi jogsértő magatartást, valamint
 
-e) a jogsértő állapot megszüntetésére hozott intézkedéseket segítő magatartást, illetőleg a jogsértő állapot megszüntetésére tett, a közlekedési hatóság eljárását megelőző, attól független tevékenységet.
-
-(15) Az e § szerinti közigazgatási bírság ismételten is kiszabható.
+e) a jogsértő állapot megszüntetésére hozott intézkedéseket segítő magatartást, valamint a jogsértő állapot megszüntetésére tett, a közlekedési hatóság eljárását megelőző, attól független tevékenységet.
 
 (16) Az e törvényben vagy a végrehajtására kiadott rendeletben meghatározott adatszolgáltatási kötelezettség elmulasztása esetén a közlekedési hatóság bírságot szab ki.
 
-(16a) Ha a jogsértés
-
-a) a vasúti pályahálózat vonatkozásában merül fel, a bírság 50 millió forintig,
-
-b) vasúti járművek és gépészeti berendezések vonatkozásában merül fel, a bírság 15 millió forintig,
-
-c) egységes biztonsági tanúsítvány és engedély vonatkozásában merül fel, a bírság 15 millió forintig,
-
-d) a vasúti közlekedés biztonságával összefüggő munkakört betöltő munkavállalók képzése és vizsgáztatása vonatkozásában merül fel, a bírság 3 millió forintig,
-
-e) a vasúti közlekedés biztonságával összefüggő munkakört betöltő munkavállalók egészségi alkalmassága vonatkozásában merül fel, a bírság 3 millió forintig
-
-terjedhet jogsértésenként.
+(16a) Az e § szerinti közigazgatási bírság ismételten is kiszabható.
 
 (17) A vasúti közlekedési hatóság a feladatai ellátásához szükséges információk és adatok –beleértve az üzleti titkot is – szolgáltatására, iratok bemutatására kötelezheti indítványra, vagy hivatalból a vasúti társaságot, a megfelelőségértékelő szervezetet, a kockázatértékelő szervezetet, a karbantartást végző szervezetet, valamint a VPSZ-t.

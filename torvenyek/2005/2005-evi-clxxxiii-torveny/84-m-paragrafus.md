@@ -6,14 +6,16 @@ b) felszólítja az üzemeltetőt a különleges közlekedési rendszer leállí
 
 (2) Az e törvényben vagy a végrehajtására kiadott jogszabályokban meghatározott adatszolgáltatási kötelezettség elmulasztása esetén a közlekedési hatóság bírságot szab ki.
 
-(3) Ha a jogsértés
+(3) A közlekedési hatóság a különleges kötöttpályás közlekedés biztonságával és a különleges kötöttpályás forgalom lebonyolításával kapcsolatos jogsértések esetén a közlekedési hatóság által kiszabható bírság mértéke 5 000 000 forintig terjedhet.
 
-a) a pályahálózat vonatkozásában merül fel, a bírság 1 millió forintig,
+(4) A közigazgatási bírság összegének meghatározása során a közlekedési hatóság figyelembe veszi
 
-b) járművek és gépészeti berendezések vonatkozásában merül fel, a bírság 500 ezer forintig,
+a) a jogsértés súlyát, a vasúti közlekedés biztonságára gyakorolt hatását,
 
-c) a különleges kötöttpályás közlekedés biztonságával összefüggő munkakört betöltő munkavállalókés egyéb foglalkoztatottak képzése és vizsgáztatása vonatkozásában merül fel, a bírság 50 ezer forintig,
+b) a jogsértő állapot fennállásának időtartamát,
 
-d) a különleges kötöttpályás közlekedés biztonságával összefüggő munkakört betöltő munkavállalók és egyéb foglalkoztatottak egészségi alkalmassága vonatkozásában merül fel, a bírság 50 ezer forintig
+c) a jogsértő magatartás felróhatóságát,
 
-terjedhet jogsértésenként.
+d) a korábbi jogsértő magatartást, valamint
+
+e) a jogsértő állapot megszüntetésére hozott intézkedéseket segítő magatartást, valamint a jogsértő állapot megszüntetésére tett, a közlekedési hatóság eljárását megelőző, attól független tevékenységet.
