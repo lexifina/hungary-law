@@ -24,6 +24,10 @@ k) úszólétesítmény rendeltetésszerű üzemeltetéséhez előírt személyz
 
 l) úszólétesítményen a munkarendre, a munkavállaló munkaidő-beosztására, valamint munkaidejére és pihenőidejére
 
+m) hajózási képzési, oktatási, vizsgáztatási tevékenységre,
+
+n) tengerész-munkaközvetítői és munkaerő-kölcsönzői tevékenységre
+
 vonatkozó rendelkezések megsértőit a hajózási hatóság bírság megfizetésére kötelezheti.
 
 (2)
