@@ -52,7 +52,7 @@ q) a járművezető által végzett közúti szállítás kiküldetési előír�
 
 vonatkozó rendelkezések megsértői bírság fizetésére kötelezhetők.
 
-(1a) Nem alkalmazható közigazgatási szankcióként figyelmeztetés – az (1c) bekezdésben meghatározott kivételre is figyelemmel – az (1) bekezdés a)–d), f)–j), l), n) és q) pontjában foglalt rendelkezések megsértése miatt indult közigazgatási hatósági eljárásban, ha a jogsértés az e törvény végrehajtására kiadott kormányrendeletben meghatározottak szerint rendkívül súlyos vagy nagyon súlyos fokúnak minősül.
+(1a) Nem alkalmazható közigazgatási szankcióként figyelmeztetés – az (1c) bekezdésben meghatározott kivételre is figyelemmel – az (1) bekezdés a)–d), f)–j), l), n) és q) pontjában foglalt rendelkezések megsértése miatt indult közigazgatási hatósági eljárásban, ha a jogsértés az e törvény végrehajtására kiadott kormányrendeletben meghatározottak szerint súlyos, rendkívül súlyos vagy nagyon súlyos fokúnak minősül.
 
 (1b) Nem alkalmazható közigazgatási szankcióként figyelmeztetés az (1) bekezdés e) pontjában foglalt rendelkezések megsértése miatt indult közigazgatási hatósági eljárásban, ha a jogsértés az e törvény végrehajtására kiadott kormányrendeletben meghatározott I., II. vagy III. kockázati kategóriába tartozó cselekmény vagy mulasztás.
 
