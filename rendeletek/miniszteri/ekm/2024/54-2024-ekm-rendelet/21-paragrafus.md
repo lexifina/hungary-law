@@ -1,3 +1,5 @@
 ## 9. Az egyes vasúti utazási kedvezményekről szóló 57/2009. (X. 20.) KHEM rendelet módosítása
 
-21. § Az egyes vasúti utazási kedvezményekről szóló 57/2009. (X. 20.) KHEM rendelet a 16. §-át követően a következő alcím címmel és 17. §-sal egészül ki:
+21. §[^22]
+
+[^22]: A 21. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

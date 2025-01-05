@@ -1,1 +1,3 @@
-4. § Az 5/1990. (IV. 12.) KöHÉM rendelet 5. számú melléklete a 2. melléklet szerint módosul.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

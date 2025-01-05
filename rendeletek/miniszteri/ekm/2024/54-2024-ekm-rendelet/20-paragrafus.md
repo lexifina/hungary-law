@@ -1,1 +1,3 @@
-20. § A vasúti társaságok működésének engedélyezéséről szóló 45/2006. (VII. 11.) GKM rendelet 2. § (2) bekezdés e) pontjában a „véglegesen visszavonta” szövegrész helyébe a „hivatalból indult eljárás keretében véglegesen visszavonta” szöveg lép.
+20. §[^21]
+
+[^21]: A 20. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

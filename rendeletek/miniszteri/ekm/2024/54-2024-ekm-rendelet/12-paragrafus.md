@@ -1,1 +1,3 @@
-12. § A 15/2001. (IV. 27.) KöViM rendelet 2. számú melléklete a 3. melléklet szerint módosul.
+12. §[^13]
+
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

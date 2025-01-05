@@ -1,5 +1,3 @@
-6. § Hatályát veszti az 5/1990. (IV. 12.) KöHÉM rendelet
+6. §[^7]
 
-a) 12. § (11) bekezdésében a „vagy hatósági szerződéssel” szövegrész,
-
-b) 14. § (4a) bekezdése.
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

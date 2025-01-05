@@ -1,1 +1,3 @@
-25. § Hatályát veszti a 13/2012. (III. 6.) NFM rendelet 38. § (1) bekezdés b) és c) pontja.
+25. §[^26]
+
+[^26]: A 25. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
