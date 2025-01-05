@@ -25,3 +25,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-184-00-00
 | 2021-01-01 | 2020. évi CLXVIII. törvény | 2005-184-00-00.25 |
 | 2024-05-13 | 2024. évi XXVI. törvény | 2005-184-00-00.26 |
 | 2024-12-23 | 2024. évi LXXXI. törvény | 2005-184-00-00.27 |
+| 2025-01-05 | 2024. évi LXXXI. törvény | 2005-184-00-00.28 |
