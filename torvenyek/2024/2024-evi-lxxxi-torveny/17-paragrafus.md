@@ -12,7 +12,7 @@
 
 6.
 
-7. 20. § (1a) bekezdésében a „szerint rendkívül” szövegrész helyébe a „szerint súlyos, rendkívül” szöveg,
+7.
 
 8.
 
