@@ -1,0 +1,1 @@
+A vasútnak nem minősülő egyéb kötöttpályás közlekedésről szóló 2015. évi CII. törvény 24. § (2) bekezdés b) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 95. § 8. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
