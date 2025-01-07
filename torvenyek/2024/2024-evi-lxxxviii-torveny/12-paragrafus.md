@@ -4,7 +4,7 @@ a) 17. § (2) bekezdés 31. pontja,
 
 b) 17/A. § (1) bekezdés 9–11. pontja,
 
-c) 34. § (3) bekezdésében a „ , valamint a kártalanításra vonatkozó részletes szabályokat” szövegrész,
+c)
 
 d) 63. § (2) bekezdés c) pontjában a „valamint” szövegrész,
 
