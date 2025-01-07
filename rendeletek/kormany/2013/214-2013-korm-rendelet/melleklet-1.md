@@ -12,7 +12,7 @@ ahol Ci az i-dik társulásnak jutó támogatás és Pi / ∑ Pi az egyes tárol
 
 Pi= Aix Ti/ hi
 
-1. táblázat: a radioaktív hulladék és a tároló jellemzőitől függő paraméterek:
+1. táblázat: a radioaktív anyag és a tároló jellemzőitől függő paraméterek:
 
 |  | A | B | C |
 
@@ -34,4 +34,4 @@ Pi= Aix Ti/ hi
 
 | felszín alatti tároló | 1,5 |
 
-[^11]: Az 1. melléklet a 70/2018. (IV. 9.) Korm. rendelet 4. §-a, a 68/2024. (III. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^11]: Az 1. melléklet a 70/2018. (IV. 9.) Korm. rendelet 4. §-a, a 68/2024. (III. 28.) Korm. rendelet 2. §-a, a 456/2024. (XII. 30.) Korm. rendelet 2. §-a szerint módosított szöveg.
