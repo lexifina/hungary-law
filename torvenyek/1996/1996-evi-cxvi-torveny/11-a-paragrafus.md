@@ -6,7 +6,7 @@
 
 11/A. § (1) A nukleáris létesítménnyel, radioaktívhulladék-tárolóval kapcsolatos hatósági eljárásban ügyfélnek kizárólag az alábbi személyek minősülnek:
 
-a) nukleáris létesítményre vonatkozó engedélynél (a nukleáris létesítmény telephelyének vizsgálatához és értékeléséhez, telephelye jellemzőinek és alkalmasságának megállapításához, létesítéséhez, bővítéséhez, üzembe helyezéséhez, üzemeltetéséhez, tervezett üzemidején túli üzemeltetéséhez, átalakításához, végleges üzemen kívül helyezéséhez vagy megszüntetéséhez szükséges engedély esetében): az engedélyesen kívül a hatásterületen levő valamennyi ingatlan tulajdonosa és az, akinek az ingatlanra vonatkozó jogát az ingatlan-nyilvántartásba bejegyezték,
+a) nukleáris létesítményre vonatkozó engedélynél (a nukleáris létesítmény telephelyének vizsgálatához és értékeléséhez, telephelye jellemzőinek és alkalmasságának megállapításához, létesítéséhez, bővítéséhez, üzembe helyezéséhez, üzemeltetéséhez, tervezett üzemidején túli üzemeltetéséhez, átalakításához, tervezett üzemidőn túli üzemeltetést követő további üzemeltetéséhez, átalakításához, végleges üzemen kívül helyezéséhez vagy megszüntetéséhez szükséges engedély esetében): az engedélyesen kívül a hatásterületen levő valamennyi ingatlan tulajdonosa és az, akinek az ingatlanra vonatkozó jogát az ingatlan-nyilvántartásba bejegyezték,
 
 b) rendszerelemre vonatkozó engedély esetében: kizárólag az engedélyes,
 

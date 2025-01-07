@@ -108,7 +108,7 @@ l) a természetben előforduló radioaktív anyagok felhasználásával végzett
 
 m) a sugárterhelésnek kitett munkavállalók kategóriákba sorolása szabályait;
 
-n) a sugárzás elleni védőeszköz forgalomba hozatalának engedélyezési és sugárvédelmi minősítési rendjét;
+n)
 
 o) a j) és k) alpontok szerinti létesítmény, berendezés alkalmazásának vagy üzemeltetésének megkezdésére, alkalmazásának vagy üzemeltetésének megszüntetésére, tulajdonjoga megszerzésére, illetve használata bármilyen jogcímen történő átengedésére irányuló bejelentés tudomásulvételének szabályait;
 

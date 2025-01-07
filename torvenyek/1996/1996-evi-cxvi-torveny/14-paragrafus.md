@@ -1,6 +1,6 @@
 14. § (1) Az atomenergia-felügyeleti szerv jogszabályban meghatározott esetekben és feltételek szerint az engedélyes kérelmére összevont engedélyt, előzetes típusengedélyt, valamint atomerőmű esetén az eltérő fűtőelemkötegek alkalmazását célzó átalakításhoz előzetes elvi átalakítási engedélyt, vagy átalakítási engedélyt adhat ki.
 
-(1a) Engedély határozott vagy határozatlan időre, valamint bizonyos feltételekhez kötötten adható. A határozott időre adott engedély kérelemre meghosszabbítható.
+(1a) Engedély határozott vagy határozatlan időre, valamint feltételhez kötötten adható. A határozott időre adott engedély időbeli hatálya – ha jogszabály eltérően nem rendelkezik – kérelemre meghosszabbítható.
 
 (1b) Az eltérő fűtőelemkötegek alkalmazásával összefüggésben kiadott elvi engedély határozott időre szól és az engedélyben foglaltak az atomenergia-felügyeleti szervet is kötik.
 
@@ -32,11 +32,11 @@ e) a szabályszegő vagy mulasztó tanúsított-e az általa okozott állapot me
 
 (4b) A (4) és (4a) bekezdés szerinti határozat, valamint az atomerőmű tervezett üzemidején túli üzemeltetéséhez kiadott engedélyt tartalmazó határozat tekintetében a keresetlevél halasztó hatályának bíróság általi elrendelésének nincs helye.
 
-(5) Az engedélyes mindaddig felelős a nukleáris létesítmény vagy a radioaktívhulladék-tárolók nukleáris biztonságáért, amíg ez a felelősség az atomenergia-felügyeleti szerv által kiadott 17. § (2) bekezdés 1. pont b) alpontja szerinti határozata alapján nem szűnt meg, vagy más engedélyesre át nem szállt. A felelősség a nukleáris létesítmény és radioaktívhulladék-tároló telephelye jellemzőinek és alkalmasságának megállapításához, létesítéséhez, bővítéséhez, üzembe helyezéséhez, üzemeltetéséhez, tervezett üzemidején túli üzemeltetéséhez, átalakításához, végleges üzemen kívül helyezéséhez, megszüntetéséhez megszerzett engedélyek hatályának megszűnése esetén is fennáll.
+(5) Az engedélyes mindaddig felelős a nukleáris létesítmény vagy a radioaktívhulladék-tárolók nukleáris biztonságáért, amíg ez a felelősség az atomenergia-felügyeleti szerv által kiadott 17. § (2) bekezdés 1. pont b) alpontja szerinti határozata alapján nem szűnt meg, vagy más engedélyesre át nem szállt. A felelősség a nukleáris létesítmény és radioaktívhulladék-tároló telephelye jellemzőinek és alkalmasságának megállapításához, létesítéséhez, bővítéséhez, üzembe helyezéséhez, üzemeltetéséhez, tervezett üzemidején túli üzemeltetéséhez, tervezett üzemidőn túli üzemeltetést követő további üzemeltetéséhez, átalakításához, végleges üzemen kívül helyezéséhez, megszüntetéséhez megszerzett engedélyek hatályának megszűnése esetén is fennáll.
 
 (5a) Az engedélyes felelőssége az (5) bekezdésben foglaltaktól függetlenül
 
-a) a nukleáris létesítmény telephelyének vizsgálatához és értékeléséhez, telephelye jellemzőinek és alkalmasságának megállapításához, létesítéséhez, bővítéséhez, üzembe helyezéséhez, üzemeltetéséhez, tervezett üzemidején túli üzemeltetéséhez, átalakításához, végleges üzemen kívül helyezéséhez és megszüntetéséhez,
+a) a nukleáris létesítmény telephelyének vizsgálatához és értékeléséhez, telephelye jellemzőinek és alkalmasságának megállapításához, létesítéséhez, bővítéséhez, üzembe helyezéséhez, üzemeltetéséhez, tervezett üzemidején túli üzemeltetéséhez, tervezett üzemidőn túli üzemeltetést követő további üzemeltetéséhez, átalakításához, végleges üzemen kívül helyezéséhez és megszüntetéséhez,
 
 b) a radioaktívhulladék-tároló telephely vizsgálatához és értékeléséhez, telepítéséhez, létesítéséhez, üzemeltetéséhez, átalakításához, lezárásához és aktív intézményes ellenőrzéséhez
 

@@ -26,7 +26,7 @@ szükséges nukleáris biztonsági engedélyezés;
 
 8. a nukleáris létesítmény és a radioaktívhulladék-tároló nukleárisbaleset-elhárítási intézkedési tervének az első alkalommal történő, illetve módosítását követő érvénybe léptetéséhez szükséges nukleáris biztonsági engedélyezése;
 
-9. jogszabályban meghatározott szerelési, kivitelezési technológiák, mérési, számítási, műszaki vizsgálati és értékelési módszerek leírásának, továbbá a biztonság szempontjából meghatározó munkakörök betöltésének jóváhagyása;
+9. a jogszabályban meghatározott technológiák, mérési, számítási, műszaki vizsgálati és értékelési módszerek leírásának, az anyagvizsgálati dokumentumoknak, elemzési eredményeknek, továbbá a biztonság szempontjából meghatározó munkakörök betöltésének jóváhagyása;
 
 10. az Időszakos Biztonsági Felülvizsgálat végrehajtása, a további üzemeltetés feltételeinek meghatározása, és a szükséges intézkedések végrehajtásának elrendelése a felülvizsgálat eredménye alapján, illetve az Időszakos Biztonsági Jelentés által, valamint az Időszakos Biztonsági Felülvizsgálat keretében azonosított eltérés jóváhagyása;
 
@@ -70,7 +70,7 @@ szükséges nukleáris biztonsági engedélyezés;
 
 30. a 26–29. pont szerinti anyag, berendezés és létesítmény tulajdonjoga megszerzésére, átadására, a használat bármilyen jogcímen való átengedésére irányuló bejelentés tudomásulvétele;
 
-31. az ionizáló sugárzás elleni védőeszköz forgalomba hozatalának engedélyezése és sugárvédelmi minősítése;
+31.
 
 32. a 26–29. pont szerinti anyag, tevékenység, létesítmény és berendezés ellenőrzése és a szükséges adatszolgáltatás meghatározása;
 
@@ -102,6 +102,10 @@ szükséges nukleáris biztonsági engedélyezés;
 
 46. a jogszabály alapján feljogosított független ellenőrző szervezet nyilvántartásba vétele, nyilvántartásának felfüggesztése és a nyilvántartásból való törlése, valamint az akkreditálás során érvényesítendő követelmények megállapítása.
 
+47. az atomerőművi rendszerek, rendszerelemek, építmények és épületszerkezetek tervektől eltérő állapotban tartásának engedélyezése;
+
+48. a tervezett üzemidőn túli üzemeltetést követő további üzemeltetés végrehajtási programjának jóváhagyása.
+
 (2a) A nukleáris létesítmény, valamint a radioaktívhulladék-tároló telephelyének vizsgálatához és értékeléséhez szükséges földtani kutatás célját szolgáló kutatólétesítményekkel kapcsolatos engedélyezési eljárásokra a bányászatról szóló törvényt és annak végrehajtására kiadott elnöki rendeletet kell alkalmazni.
 
 (2b) A nukleáris létesítménnyel és a radioaktívhulladék-tárolóval összefüggő építési engedélyezési eljárásokban építésügyi hatóságként az atomenergia-felügyeleti szerv jár el, eljárására a magyar építészetről szóló törvény, valamint a végrehajtására kiadott jogszabály és önkormányzati rendelet rendelkezéseit az e törvényben, valamint a végrehajtására kiadott jogszabályban foglalt eltérésekkel kell alkalmazni.
@@ -116,13 +120,13 @@ szükséges nukleáris biztonsági engedélyezés;
 
 (6) Jogszabályban meghatározott átalakítások esetén kérelmezni kell az atomenergia-felügyeleti szervnél a nukleáris létesítmény és a radioaktív-hulladék tároló üzemeltetési engedélyének módosítását.
 
-(7) A (2) bekezdés 1., 3–10., 12. és 15. pontja szerinti engedélyezési eljárás – a nukleáris létesítmény telephelyének vizsgálatához és értékeléséhez szükséges eljárást kivéve –, a létesítmény engedélyesének kérelmére indul. A kérelmet és az azt megalapozó dokumentációt írásban, elektronikus úton kell benyújtani.
+(7) A (2) bekezdés 1., 3–10., 12., 15. és 47. pontja szerinti engedélyezési eljárás – a nukleáris létesítmény telephelyének vizsgálatához és értékeléséhez szükséges eljárást kivéve –, a létesítmény engedélyesének kérelmére indul. A kérelmet és az azt megalapozó dokumentációt írásban, elektronikus úton kell benyújtani.
 
 (8) A nukleáris létesítmény létesítési engedélyezési eljárásának tervezett megindítását megelőzően, a nukleáris létesítmény engedélyese elnöki rendeletben foglaltak szerint előzetes biztonsági tájékoztató benyújtásával tájékoztathatja az atomenergia-felügyeleti szervet a tervezett nukleáris létesítmény biztonsági követelményeknek való előzetes megfeleléséről (előzetes biztonsági tájékoztató).
 
 (8a) A létesítés alatt álló nukleáris létesítmény vagy radioaktívhulladék-tároló hatósági engedélyeit az atomenergia-felügyeleti szerv módosíthatja, amennyiben a módosítási kérelem tartalma megfelel az NBSZ. R.-ben vagy TBSZ. R.-ben meghatározott követelményeknek.
 
-(9) A nukleáris létesítménnyel, valamint annak építményeivel összefüggő valamennyi, az engedélyezési eljárásban felmerült adat nyilvánosságra hozatalát az eljáró hatóság megtagadhatja, amennyiben az adat nyilvánosságra hozatala nemzetbiztonsági vagy honvédelmi érdeket, a közbiztonságot, Magyarország külügyi tevékenységét, külügyi kapcsolatait, nemzetközi szervezetekkel való kapcsolatait sérti vagy veszélyezteti, szellemi tulajdonhoz való jogot sért, vagy ha az adat nyilvánosságra hozatala a hatásterületet érintően a környezet védelmi szintjének csökkenésével járna. A nyilvánosságra hozatal megtagadható továbbá abban az esetben is, ha az bírósági, illetve más hatósági eljárás lefolytatását veszélyezteti, kivéve, ha az eljáró bíróság, hatóság engedélyezi az adat nyilvánosságra hozatalát.
+(9) A nukleáris létesítménnyel, a radioaktívhulladék-tárolóval, valamint azok építményeivel összefüggő valamennyi, az engedélyezési eljárásban felmerült adat nyilvánosságra hozatalát az eljáró hatóság megtagadhatja, amennyiben az adat nyilvánosságra hozatala nemzetbiztonsági vagy honvédelmi érdeket, a közbiztonságot, Magyarország külügyi tevékenységét, külügyi kapcsolatait, nemzetközi szervezetekkel való kapcsolatait sérti vagy veszélyezteti, szellemi tulajdonhoz való jogot sért, vagy ha az adat nyilvánosságra hozatala a hatásterületet érintően a környezet védelmi szintjének csökkenésével járna. A nyilvánosságra hozatal megtagadható továbbá abban az esetben is, ha az bírósági, illetve más hatósági eljárás lefolytatását veszélyezteti, kivéve, ha az eljáró bíróság, hatóság engedélyezi az adat nyilvánosságra hozatalát.
 
 (10) Üzleti titok megismerésére az engedélyesen és az eljáró bíróságon, hatóságon, szakhatóságon, adatmegismerésre jogosult egyéb hatóságon, továbbá a nukleáris létesítmények és radioaktívhulladék-tárolók biztonsági övezetén belül folytatott engedélyköteles tevékenység esetén az érintett nukleáris létesítmények és radioaktívhulladék-tárolók engedélyesén kívül más nem jogosult.
 

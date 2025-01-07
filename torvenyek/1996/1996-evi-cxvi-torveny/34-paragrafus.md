@@ -1,6 +1,6 @@
 ## Idegen ingatlannal kapcsolatos jogok és kötelezettségek, biztonsági övezet, kutatási védőidom
 
-34. § (1) A nukleáris létesítménynek és a radioaktívhulladék-tárolónak a környezete – ideértve annak felszín alatti részét is – biztonsági övezetté jelölhető ki a létesítmény, illetve annak környezete és az ott élő lakosság védelme érdekében.
+34. § (1) A nukleáris létesítmény és a radioaktívhulladék-tároló környezete – ideértve annak felszín alatti részét is – biztonsági övezetté jelölhető ki a létesítmény, illetve annak környezete és az ott élő lakosság védelme érdekében.
 
 (1a) A tervezett radioaktívhulladék-tároló földtani kutatási területére vagy annak egy részére – ideértve a felszín alatti geológiai térrészt is – kutatási védőidom jelölhető ki a biztonsági funkciót ellátó földtani gát épségének megóvása érdekében.
 

@@ -4,7 +4,7 @@
 
 ## Az atomenergia-felügyeleti szerv
 
-6. § (1) Az e törvényben foglalt feladatok végrehajtásáról az Országos Atomenergia Hivatal (a továbbiakban: atomenergia-felügyeleti szerv), valamint a 20. §-ban, a 22–26. §-ban és a 28. §-ban meghatározott miniszterek gondoskodnak.
+6. § (1) Az e törvényben foglalt feladatok végrehajtásáról az Országos Atomenergia Hivatal (a továbbiakban: atomenergia-felügyeleti szerv), a miniszter, valamint a 20. §-ban, a 22–26. §-ban és a 28. §-ban meghatározott miniszterek gondoskodnak.
 
 (2) Az atomenergia-felügyeleti szerv önálló szabályozó szerv, amely ellátja az e törvényben és más jogszabályban meghatározott feladatokat.
 

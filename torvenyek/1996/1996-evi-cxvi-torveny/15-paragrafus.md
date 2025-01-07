@@ -1,4 +1,4 @@
-15. § (1) Az engedély, a jogszabályok, a nukleáris biztonsági szabályzatok és a radioaktívhulladék-tárolóra vonatkozó biztonsági szabályzatok előírásainak megtartását, és az atomenergia alkalmazásának biztonságosságát az atomenergia-felügyeleti szerv köteles rendszeresen ellenőrizni, és az észlelt rendellenességek megszüntetése érdekében haladéktalanul intézkedni, vagy intézkedést kezdeményezni.
+15. § (1) Az atomenergia-felügyeleti szerv határozata, a jogszabályok, a nukleáris biztonsági szabályzatok és a radioaktívhulladék-tárolóra vonatkozó biztonsági szabályzatok előírásainak megtartását, és az atomenergia alkalmazásának biztonságosságát az atomenergia-felügyeleti szerv köteles rendszeresen ellenőrizni, és az észlelt rendellenességek megszüntetése érdekében haladéktalanul intézkedni, vagy intézkedést kezdeményezni.
 
 (1a) Az atomenergia alkalmazási körébe tartozó hatósági eljárások során megállapított jogszabálysértések esetén nem alkalmazható figyelmeztetés, ha
 

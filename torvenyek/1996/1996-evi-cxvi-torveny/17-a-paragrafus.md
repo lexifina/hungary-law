@@ -30,11 +30,11 @@ f) az atomkárért való felelősséggel
 
 8. gondoskodik a nukleáris létesítmények nukleáris biztonságát szolgáló jogszabályoknak és a hatáskörrel rendelkező hatóságoknak a 2009/71/Euratom tanácsi irányelv szerinti tagállami önellenőrzéséről;
 
-9. bejelenti az Európai Bizottságnak a nemzeti programot és annak jelentős módosítását;
+9.
 
-10. megadja az Európai Bizottság részére a nemzeti programmal kapcsolatban kért pontosítást, illetve tájékoztatást;
+10.
 
-11. tájékoztatja az Európai Bizottságot a nemzeti program felülvizsgálatáról;
+11.
 
 12. gondoskodik a kiégett üzemanyagok és a radioaktív hulladékok felelősségteljes és biztonságos kezelését szolgáló jogszabályok és hatáskörrel rendelkező hatóságok, valamint a nemzeti program és annak végrehajtása során a 2011/70/Euratom tanácsi irányelv szerinti tagállami önellenőrzéséről;
 

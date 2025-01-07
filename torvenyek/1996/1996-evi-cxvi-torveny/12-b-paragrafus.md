@@ -10,7 +10,7 @@ amely eljárások indokolt esetben, legfeljebb három hónappal hosszabbítható
 
 (3) Az ügyintézési határidő tizenegy hónap:
 
-a) a 17. § (2) bekezdés 1. pont b) alpontja szerinti, a nukleáris létesítmény üzembe helyezéséhez, üzemeltetéséhez, tervezett üzemidején túli üzemeltetéséhez, üzemen kívül helyezéséhez, megszüntetéséhez szükséges engedélyezés esetében,
+a) a 17. § (2) bekezdés 1. pont b) alpontja szerinti, a nukleáris létesítmény üzembe helyezéséhez, üzemeltetéséhez, tervezett üzemidején túli üzemeltetéséhez, a tervezett üzemidőn túli üzemeltetést követő további üzemeltetéséhez, üzemen kívül helyezéséhez, megszüntetéséhez szükséges engedélyezés esetében,
 
 b) a 17. § (2) bekezdés 10. pontja szerinti ügyben,
 
@@ -28,7 +28,7 @@ b) nukleáris létesítményekre vonatkozó első biztosítéki nyilvántartásb
 
 (6) Az ügyintézési határidő százhúsz nap
 
-a) a 17. § (2) bekezdés 1. pont a) alpontjában, 3. pontjában az (5) bekezdésben meghatározott kivétellel, 4. pontjában az (5) bekezdésben meghatározott kivétellel, 6., 7., 9. és 44. pontjában és a 17. § (8a) bekezdésében meghatározott engedélyezési eljárásokban,
+a) a 17. § (2) bekezdés 1. pont a) alpontjában, 3. pontjában az (5) bekezdésben meghatározott kivétellel, 4. pontjában az (5) bekezdésben meghatározott kivétellel, 6., 7., 9., 44. és 47. pontjában és a 17. § (8a) bekezdésében meghatározott engedélyezési eljárásokban,
 
 b) a (3) bekezdés c) pontjában meghatározott kivétellel a 17. § (2) bekezdés 5. pontjában meghatározott engedélyezési eljárásban,
 
@@ -46,6 +46,8 @@ h) az atomenergia-felügyeleti szerv által kiadott engedélyben előírt felté
 
 i) a hivatalból indított eljárásban.
 
+j) a 17. § (2) bekezdés 48. pontja szerinti jóváhagyási eljárásban.
+
 (7) Az ügyintézési határidő kilencven nap a 17. § (2) bekezdés 18. pontjában meghatározott engedélyezési eljárásban – a (4) bekezdés a) pontjában meghatározott kivétellel – a nukleáris anyag, radioaktív sugárforrás és radioaktív hulladék alkalmazására, tárolására, illetve a szabotázs és a jogtalan eltulajdonítás megakadályozását, a szabotázs és a jogtalan eltulajdonítás lehetőségének csökkentését, vagy a jogtalan eltulajdonítás lehetőségének csökkentését biztosító védelmet igénylő szállítására vonatkozó fizikai védelmi rendszer fizikai védelmi terv alapján történő engedélyezése esetében.
 
 (8) Az ügyintézési határidő
@@ -56,6 +58,10 @@ b) negyvenkét nap a nukleáris biztonság szempontjából sajátos olyan épít
 
 c) hatvan nap az a) és b) pont kivételével a 17. § (2) bekezdés 3. pontjában meghatározott egyéb hatósági engedélyezési eljárásokban,
 
-ha ezeket a közigazgatási hatósági ügyeket az Ngtv. felhatalmazása alapján a Kormány rendeletben kiemelt jelentőségű üggyé nyilvánította.
+ha ezeket a közigazgatási hatósági ügyeket az Ngtv. vagy a magyar építészetről szóló törvény felhatalmazása alapján a Kormány rendeletben kiemelt jelentőségű üggyé nyilvánította.
 
 (9) A (8) bekezdés c) pontjában meghatározott ügyintézési határidő indokolt esetben 30 nappal meghosszabbítható.
+
+(10) A (3) bekezdés a) pontja szerinti, a tervezett üzemidőn túli üzemeltetést követő további üzemeltetéséhez szükséges engedélyezési eljárás ügyintézési határideje indokolt esetben 60 nappal meghosszabbítható.
+
+(11) Az atomenergia-felügyeleti szerv e törvény végrehajtására kiadott elnöki rendeletben meghatározott esetben soron kívül jár el.

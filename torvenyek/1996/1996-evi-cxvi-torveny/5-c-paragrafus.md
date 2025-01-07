@@ -31,3 +31,11 @@ k) az átláthatóságot, tájékoztatást szolgáló eszközökre, eljárásokr
 l) más tagállammal vagy harmadik országgal kötött, a kiégett üzemanyag és a radioaktív hulladék kezeléséről, többek között a végleges elhelyezésre szolgáló létesítmények használatáról szóló megállapodásra.
 
 (5) A (4) bekezdés c) pontjában meghatározott leltárban a radioaktív hulladékok osztályozásával összhangban fel kell tüntetni a radioaktív hulladékok és a kiégett üzemanyag helyét és mennyiségét.
+
+(6) A miniszter
+
+a) tájékoztatja az Európai Bizottságot a nemzeti program felülvizsgálatáról;
+
+b) bejelenti az Európai Bizottságnak a nemzeti programot és annak jelentős módosítását;
+
+c) megadja az Európai Bizottság részére a nemzeti programmal kapcsolatban kért pontosítást, illetve tájékoztatást.
