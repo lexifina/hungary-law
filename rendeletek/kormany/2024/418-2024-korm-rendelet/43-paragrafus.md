@@ -1,3 +1,1 @@
-43. §[^2]
-
-[^2]: A 43. § a 118. § (2) bekezdése alapján 2025. január 8-án lép hatályba.
+43. § Az Ekertv. 15/B. § (4) bekezdése alapján a közvetítő szolgáltatóval szemben a kiberbiztonsági incidensek kezelésével és kivizsgálásával kapcsolatosan az e rendeletben meghatározott feladatainak nem teljesítése esetén a nemzeti kiberbiztonsági hatóság 15 millió forintig terjedő kiberbiztonsági bírságot szabhat ki.

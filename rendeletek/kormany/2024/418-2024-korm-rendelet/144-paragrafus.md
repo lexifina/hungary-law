@@ -1,3 +1,1 @@
-144. §[^29]
-
-[^29]: A 144. § a 118. § (2) bekezdése alapján 2025. január 8-án lép hatályba.
+144. § Hatályát veszti a kiberbiztonsági bírságok mértékéről, a bírság kiszabásának és befizetésének részletes eljárási szabályairól szóló 305/2023. (VII. 11.) Korm. rendelet.

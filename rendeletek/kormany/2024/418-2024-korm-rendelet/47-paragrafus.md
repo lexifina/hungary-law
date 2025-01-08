@@ -1,3 +1,1 @@
-47. §[^5]
-
-[^5]: A 47. § a 118. § (2) bekezdése alapján 2025. január 8-án lép hatályba.
+47. § Az IKT-termék biztonságát érintő sebezhetőségről vagy rendellenességről szóló tájékoztatást a tanúsító hatóság továbbítja a Központ részére.

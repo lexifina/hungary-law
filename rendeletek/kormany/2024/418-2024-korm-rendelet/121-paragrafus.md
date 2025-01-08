@@ -1,5 +1,5 @@
 ## 49. Módosító rendelkezések
 
-121. §[^6]
+121. §[^1]
 
-[^6]: A 121. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 121. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

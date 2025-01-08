@@ -1,3 +1,3 @@
-143. §[^28]
+143. §[^23]
 
-[^28]: A 143. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 143. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
