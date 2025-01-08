@@ -25,3 +25,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-191-20-
 | 2020-09-01 | 2001-191-20-22.20 | 367/2020. (VII. 28.) Korm. rendelet |
 | 2021-01-13 | 2001-191-20-22.21 | 677/2020. (XII. 28.) Korm. rendelet |
 | 2023-09-01 | 2001-191-20-22.22 | 385/2023. (VIII. 14.) Korm. rendelet |
+| 2025-01-08 | 2001-191-20-22.23 | 421/2024. (XII. 23.) Korm. rendelet |
