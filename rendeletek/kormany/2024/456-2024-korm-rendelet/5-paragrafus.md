@@ -1,5 +1,3 @@
-5. § Hatályát veszti a 215/2013. Korm. rendelet
+5. §[^6]
 
-a) 2. § b) pont bc) alpontjában a „valamint” szövegrész,
-
-b) 2. § b) pont cc) alpontjában a „valamint” szövegrész.
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

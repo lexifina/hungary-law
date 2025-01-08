@@ -1,1 +1,3 @@
-4. § A 215/2013. Korm. rendelet 2. § c) pont cd) alpontjában a „kis” szövegrész helyébe a „nagyon kis, kis” szöveg, a „tárolóba” szövegrész helyébe a „tárolóba, valamint” szöveg lép.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
