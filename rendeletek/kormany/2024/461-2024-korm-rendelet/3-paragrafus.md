@@ -1,3 +1,5 @@
 3. § (1) Ez a rendelet a kihirdetését követő nyolcadik napon lép hatályba.
 
-(2) Hatályát veszti a Magyar Védelmi Exportügynökség Zártkörűen Működő Részvénytársaság feladatairól és a honvédelmi célra feleslegessé nyilvánított hadfelszerelések, haditechnikai eszközök és szakanyagok értékesítéséről szóló 62/2022. (II. 28.) Korm. rendelet.
+(2)[^2]
+
+[^2]: A 3. § (2) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
