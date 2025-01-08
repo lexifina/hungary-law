@@ -1,0 +1,1 @@
+3. § A bírság megfizetése nem mentesít a bírsággal sújtott tevékenység korlátozására, felfüggesztésére, tiltására, illetve a műemlék megóvása érdekében a megfelelő intézkedés megtételére, a védettségi állapot vagy környezet helyreállítására vonatkozó kötelezettség teljesítése, továbbá a más hatóság által megállapított kötelezettségek teljesítése alól.

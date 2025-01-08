@@ -1,0 +1,1 @@
+A Kormány a magyar építészetről szóló 2023. évi C. törvény 225. § (1) bekezdés 42. pontjában, valamint a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 93. § (1) bekezdés 5. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
