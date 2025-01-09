@@ -1,3 +1,3 @@
-152. §[^31]
+152. §[^32]
 
-[^31]: A 152. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^32]: A 152. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

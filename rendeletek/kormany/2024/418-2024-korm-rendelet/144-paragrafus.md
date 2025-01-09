@@ -1,1 +1,3 @@
-144. § Hatályát veszti a kiberbiztonsági bírságok mértékéről, a bírság kiszabásának és befizetésének részletes eljárási szabályairól szóló 305/2023. (VII. 11.) Korm. rendelet.
+144. §[^24]
+
+[^24]: A 144. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

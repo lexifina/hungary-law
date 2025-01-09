@@ -1,3 +1,3 @@
-146. §[^25]
+146. §[^26]
 
-[^25]: A 146. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 146. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
