@@ -1,3 +1,3 @@
-8. §[^5]
+8. § A 365/2016. (XI. 29.) Korm. rendelet 24. §-a a következő i) ponttal egészül ki:
 
-[^5]: A 8. § a 17. § (2) bekezdése alapján 2025. január 9-én lép hatályba.
+(Budapest Főváros Kormányhivatala)
