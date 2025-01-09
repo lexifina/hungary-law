@@ -1,1 +1,3 @@
-17. § Az örökségvédelmi bírságról szóló 191/2001. (X. 18.) Korm. rendelet 5. § (1) bekezdésében a „tárgy- vagy műemlékegyüttes” szövegrész helyébe a „tárgyegyüttes” szöveg, a „tárgy- vagy műemlékegyüttesre” szövegrész helyébe a „tárgyegyüttesre” szöveg lép.
+17. §[^1]
+
+[^1]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
