@@ -74,9 +74,9 @@ a) a szervezet rendelkezzen a tevékenységi területre vonatkozó szabványokka
 
 b) a szervezetnek legyen belső szabályzata az egyes hegesztett szerkezetek gyártását végző gazdálkodó szervezetek alkalmasságának vizsgálatára és értékelésére;
 
-c)[^160] a szervezet rendelkezzen az irányítási rendszerek auditját és tanúsítását végző testületekre vonatkozó szabvány vagy a szolgáltatásokat tanúsító testületekre vonatkozó szabvány szerint akkreditációval;
+c)[^161] a szervezet rendelkezzen az irányítási rendszerek auditját és tanúsítását végző testületekre vonatkozó szabvány vagy a szolgáltatásokat tanúsító testületekre vonatkozó szabvány szerint akkreditációval;
 
-d)[^161]
+d)[^162]
 
-[^160]: A 2. melléklet II. pont c) alpontja a 414/2023. (VIII. 30.) Korm. rendelet 10. § (1) bekezdés f) pontja szerint módosított szöveg.
-[^161]: A 2. melléklet II. pont d) alpontját a 385/2024. (XII. 9.) Korm. rendelet 12. § f) pontja hatályon kívül helyezte.
+[^161]: A 2. melléklet II. pont c) alpontja a 414/2023. (VIII. 30.) Korm. rendelet 10. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^162]: A 2. melléklet II. pont d) alpontját a 385/2024. (XII. 9.) Korm. rendelet 12. § f) pontja hatályon kívül helyezte.

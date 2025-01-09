@@ -24,7 +24,10 @@ g) kezeli a hatósági jogkörének gyakorlásához szükséges adatokat, valami
 
 h)[^91] ellátja – országos illetékességgel – az elektromágneses összeférhetőség vonatkozásában megfelelőségértékelési tevékenységet végző szervek kijelölésével és bejelentésével kapcsolatos feladatokat.
 
+i)[^92] ellátja országos illetékességgel az elemekről, illetve akkumulátorokról és a hulladékelemekről, illetve -akkumulátorokról, a 2008/98/EK irányelv és az (EU) 2019/1020 rendelet módosításáról, valamint a 2006/66/EK irányelv hatályon kívül helyezéséről szóló, 2023. július 12-i (EU) 2023/1542 európai parlament és tanácsi rendelet [a továbbiakban: (EU) 2023/1542 rendelet] szerinti megfelelőségértékelési tevékenységet végző szervek kijelölésével és bejelentésével kapcsolatos feladatokat.
+
 [^88]: A 24. § d) pontja a 80/2018. (IV. 20.) Korm. rendelet 19. § (17) bekezdésével megállapított, a 198/2019. (VIII. 1.) Korm. rendelet 21. § f) pontja szerint módosított szöveg.
 [^89]: A 24. § e) pontja a 80/2018. (IV. 20.) Korm. rendelet 19. § (17) bekezdésével megállapított szöveg.
 [^90]: A 24. § f) pontja a 80/2018. (IV. 20.) Korm. rendelet 19. § (17) bekezdésével megállapított szöveg.
 [^91]: A 24. § h) pontját újonnan a 414/2023. (VIII. 30.) Korm. rendelet 3. §-a iktatta be.
+[^92]: A 24. § i) pontját a 385/2024. (XII. 9.) Korm. rendelet 8. §-a iktatta be.
