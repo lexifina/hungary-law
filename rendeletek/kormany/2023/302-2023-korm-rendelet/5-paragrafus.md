@@ -2,7 +2,7 @@
 
 5. § (1) E rendelet alkalmazásában
 
-1. [^5] bekerülési költség: a következő kiadásoknak, telekárat és a beépített vagy szabadon álló berendezési tárgyakat nem tartalmazó hányada:
+1. [^8] bekerülési költség: a következő kiadásoknak, telekárat és a beépített vagy szabadon álló berendezési tárgyakat nem tartalmazó hányada:
 
 a) az új lakás
 
@@ -42,9 +42,9 @@ a) olyan szabadon álló, oldalhatáron álló, zártsorú beépítési móddal 
 
 b) – használt lakás esetében – olyan ikerház, sorház vagy láncház, amelyben a családi otthonteremtési kedvezménnyel érintett lakás önálló tető- és épületszerkezettel és a terepszintről közvetlen bejárattal rendelkezik;
 
-4. [^6] életvitelszerű bentlakás: a támogatással érintett lakásnak a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti bejelentett lakóhelyként – hontalan esetén a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény szerinti szálláshelyként – történő életvitelszerű használata;
+4. [^9] életvitelszerű bentlakás: a támogatással érintett lakásnak a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti bejelentett lakóhelyként – hontalan esetén a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény szerinti szálláshelyként – történő életvitelszerű használata;
 
-5. [^7] fiatal házaspár: házastársak, akik közül a feleség a családi otthonteremtési kedvezmény iránti kérelem benyújtásának időpontjában még nem töltötte be a 41. életévét;
+5. [^10] fiatal házaspár: házastársak, akik közül a feleség a családi otthonteremtési kedvezmény iránti kérelem benyújtásának időpontjában még nem töltötte be a 41. életévét;
 
 6. gyermek:
 
@@ -54,7 +54,7 @@ b) aki az igénylő vér szerinti vagy örökbefogadott eltartott gyermeke, és 
 
 7. használt lakás: olyan lakóingatlan, amely nem minősül a 14. pont szerinti új lakásnak;
 
-8. [^8] hasznos alapterület: a lakáson belül közvetlenül megközelíthető, következő helyiségek – a magyar építészetről szóló 2023. évi C. törvény (a továbbiakban: Méptv.) 16. § 56. pontja szerint számított – hasznos alapterületének összege:
+8. [^11] hasznos alapterület: a lakáson belül közvetlenül megközelíthető, következő helyiségek – a magyar építészetről szóló 2023. évi C. törvény (a továbbiakban: Méptv.) 16. § 56. pontja szerint számított – hasznos alapterületének összege:
 
 a) előszoba, közlekedő,
 
@@ -86,9 +86,9 @@ a) a magyarországi székhellyel vagy fiókteleppel rendelkező hitelintézet, v
 
 b) a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvényben (a továbbiakban: Hpt.) foglaltaknak megfelelően a hitelintézettel egyenértékű prudenciális szabályozásnak megfelelő pénzügyi vállalkozás;
 
-10. külterületi lakás: a település külterületén, az ingatlan-nyilvántartásban tanya vagy birtokközpont megnevezéssel nyilvántartott ingatlan, ha azon a 11. pontnak megfelelő lakóingatlan van;
+10. [^12] külterületi lakás: a település külterületén, az ingatlan-nyilvántartásban már tanya vagy birtokközpont jogi jelleggel nyilvántartott ingatlan, ha azon a 11. pontnak megfelelő lakóépület van vagy épül;
 
-11. [^9] lakás: a lakhatás feltételeinek megfelelő, az ingatlan-nyilvántartásban lakóház vagy lakás fő rendeltetés szerinti jelleggel nyilvántartott ingatlan, valamint tanya, vagy birtokközpont jogi jelleggel nyilvántartott ingatlan lakáscélú épületei a hozzá tartozó földrészlettel, amely rendelkezik legalább:
+11. [^13] lakás: a lakhatás feltételeinek megfelelő, az ingatlan-nyilvántartásban lakóház vagy lakás fő rendeltetés szerinti jelleggel nyilvántartott vagy ilyenként feltüntetésre váró ingatlan, valamint tanya, vagy birtokközpont jogi jelleggel nyilvántartott ingatlan lakóépülete a hozzá tartozó földrészlettel, amely rendelkezik legalább:
 
 a) 12 négyzetmétert meghaladó alapterületű lakószobával és főzőhelyiséggel – ennek hiányában további, legalább 4 négyzetméter alapterületű, a főzést lehetővé tevő, önálló szellőzésű lakótérrel, térbővülettel –, továbbá fürdőhelyiséggel és WC-vel,
 
@@ -100,13 +100,13 @@ d) közműves szennyvízelvezetéssel, vagy ha nincs a településen (települé
 
 e) közműves ivóvíz-szolgáltatással, vagy ha a településen (településrészen) nincs közműves ivóvíz-szolgáltatás, akkor a telken ivóvíz minőségű vizet szolgáltató kút van;
 
-12. megváltozott munkaképességű személy: akinek a rehabilitációs hatóság komplex minősítése alapján egészségi állapota legfeljebb 50 százalékos mértékű, vagy a rehabilitációs hatóság jogelődjei által végzett hatályos minősítés alapján egészségkárosodása legalább 50 százalékos mértékű, vagy 2008. január 1-jét megelőzően kiállított hatályos szakvéleménye szerint a munkaképességét legalább 67 százalékban elvesztette, vagy aki után az igénylő gyermekek otthongondozási díjában részesül;
+12. [^14] megváltozott munkaképességű személy: akinek a rehabilitációs hatóság komplex minősítése alapján egészségi állapota legfeljebb 50 százalékos mértékű, vagy a rehabilitációs hatóság jogelődjei által végzett hatályos minősítés alapján egészségkárosodása legalább 50 százalékos mértékű, vagy 2008. január 1-jét megelőzően kiállított hatályos szakvéleménye szerint a munkaképességét legalább 67 százalékban elvesztette, vagy aki után az igénylő gyermekek otthongondozási díjában vagy ápolási díjban részesül;
 
 13. preferált kistelepülés: a 2. melléklet szerinti település;
 
-14. [^10] új lakás: a meglévő épület vagy épületrész átalakítása kivételével az alapozási munkáktól kezdődően – kivéve, ha a meglévő alap szakértői vélemény alapján felhasználható – újonnan épített egylakásos lakóépület, amelynek az elkészülte használatbavételi engedéllyel igazolható, ideértve a tanyán vagy birtokközpontban található lakóépületet is.
+14. [^15] új lakás: a meglévő épület vagy épületrész átalakítása kivételével az alapozási munkáktól kezdődően – kivéve, ha a meglévő alap szakértői vélemény alapján felhasználható – újonnan épített egylakásos lakóépület, amelynek az elkészülte használatbavételi engedéllyel igazolható, ideértve a tanyán vagy birtokközpontban található lakóépületet is.
 
-(2) [^11] Az e rendeletben meg nem határozott fogalmakat a Polgári Törvénykönyvről szóló 2013. évi V. törvényben (a továbbiakban: Ptk.), a Hpt.-ben, a Méptv.-ben, valamint a településrendezési és építési követelményekről szóló kormányrendeletben meghatározottak szerint kell értelmezni.
+(2) [^16] Az e rendeletben meg nem határozott fogalmakat a Polgári Törvénykönyvről szóló 2013. évi V. törvényben (a továbbiakban: Ptk.), a Hpt.-ben, a Méptv.-ben, valamint a településrendezési és építési követelményekről szóló kormányrendeletben meghatározottak szerint kell értelmezni.
 
 (3) Ha az igénylő lakás korszerűsítésére családi otthonteremtési kedvezményt igényel, a lakásnak a kérelem benyújtása időpontjában az (1) bekezdés 11. pontja szerinti feltételek közül elegendő az (1) bekezdés 11. pont a) alpontja szerinti feltételnek – a fürdőhelyiség és a WC kivételével – megfelelnie.
 
@@ -114,13 +114,15 @@ e) közműves ivóvíz-szolgáltatással, vagy ha a településen (településr�
 
 (5) A (3) és (4) bekezdés rendelkezéseit a 6. § (2) bekezdése szerinti kérelem esetén is alkalmazni kell, azzal, hogy építési engedélyköteles vagy egyszerű bejelentéshez kötött építési tevékenység esetén az építési engedélyt vagy a 30. § (1) bekezdés 9. pontja szerinti dokumentumokat a korszerűsítési, illetve bővítési munkálatokhoz kapcsolódó első részfolyósítást megelőzően kell benyújtani.
 
-(6) [^12] E rendelet alkalmazásában használatbavételi engedély: a használatbavételi engedély, a használatbavétel tudomásulvételéről az építésügyi hatóság által kiállított dokumentum, vagy a felépítés megtörténtét tanúsító hatósági bizonyítvány.
+(6) [^17] E rendelet alkalmazásában használatbavételi engedély: a használatbavételi engedély, a használatbavétel tudomásulvételéről az építésügyi hatóság által kiállított dokumentum, vagy a felépítés megtörténtét tanúsító hatósági bizonyítvány.
 
-[^5]: Az 5. § (1) bekezdés 1. pont nyitó szövegrésze a 649/2023. (XII. 28.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
-[^6]: Az 5. § (1) bekezdés 4. pontja a 35/2024. (II. 29.) Korm. rendelet 344. §-a szerint módosított szöveg.
-[^7]: Az 5. § (1) bekezdés 5. pontja a 649/2023. (XII. 28.) Korm. rendelet 16. § 2. pontja szerint módosított szöveg.
-[^8]: Az 5. § (1) bekezdés 8. pont nyitó szövegrésze a 285/2024. (IX. 30.) Korm. rendelet 195. § a) pontja szerint módosított szöveg.
-[^9]: Az 5. § (1) bekezdés 11. pont nyitó szövegrésze a 649/2023. (XII. 28.) Korm. rendelet 16. § 3. pontja szerint módosított szöveg.
-[^10]: Az 5. § (1) bekezdés 14. pontja a 649/2023. (XII. 28.) Korm. rendelet 16. § 4. pontja, a 285/2024. (IX. 30.) Korm. rendelet 196. § 1. pontja szerint módosított szöveg.
-[^11]: Az 5. § (2) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 195. § b) pontja szerint módosított szöveg.
-[^12]: Az 5. § (6) bekezdését a 285/2024. (IX. 30.) Korm. rendelet 193. §-a iktatta be.
+[^8]: Az 5. § (1) bekezdés 1. pont nyitó szövegrésze a 649/2023. (XII. 28.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
+[^9]: Az 5. § (1) bekezdés 4. pontja a 35/2024. (II. 29.) Korm. rendelet 344. §-a szerint módosított szöveg.
+[^10]: Az 5. § (1) bekezdés 5. pontja a 649/2023. (XII. 28.) Korm. rendelet 16. § 2. pontja szerint módosított szöveg.
+[^11]: Az 5. § (1) bekezdés 8. pont nyitó szövegrésze a 285/2024. (IX. 30.) Korm. rendelet 195. § a) pontja szerint módosított szöveg.
+[^12]: Az 5. § (1) bekezdés 10. pontja a 388/2024. (XII. 11.) Korm. rendelet 32. § 5. pontja szerint módosított szöveg.
+[^13]: Az 5. § (1) bekezdés 11. pont nyitó szövegrésze a 649/2023. (XII. 28.) Korm. rendelet 16. § 3. pontja, a 388/2024. (XII. 11.) Korm. rendelet 32. § 6. pontja szerint módosított szöveg.
+[^14]: Az 5. § (1) bekezdés 12. pontja a 388/2024. (XII. 11.) Korm. rendelet 32. § 7. pontja szerint módosított szöveg.
+[^15]: Az 5. § (1) bekezdés 14. pontja a 649/2023. (XII. 28.) Korm. rendelet 16. § 4. pontja, a 285/2024. (IX. 30.) Korm. rendelet 196. § 1. pontja szerint módosított szöveg.
+[^16]: Az 5. § (2) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 195. § b) pontja szerint módosított szöveg. [Az 5. § (2) bekezdésben a 388/2024. (XII. 11.) Korm. rendelet 32. § 8. pontja által elrendelt módosítás, amely szerint a „LXXVII.” szövegrész helyébe a „LXXVIII.” szöveg lép, nem vezethető át.]
+[^17]: Az 5. § (6) bekezdését a 285/2024. (IX. 30.) Korm. rendelet 193. §-a iktatta be.

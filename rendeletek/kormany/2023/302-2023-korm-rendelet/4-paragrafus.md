@@ -6,7 +6,7 @@
 
 (4) A kormányhivatal e rendeletben szabályozott hatósági eljárásai során
 
-a)[^4] az ügyfelet hiánypótlásra két alkalommal is felhívhatja,
+a)[^7] az ügyfelet hiánypótlásra két alkalommal is felhívhatja,
 
 b) az ügyfél az eljárás szünetelését nem kérheti,
 
@@ -16,4 +16,4 @@ c) az ügyintézési határidő 30 nap.
 
 (6) A miniszter szakmai képzéseket, vizsgákat, valamint szakmai, koordinációs értekezleteket szervez a kormányhivatal lakástámogatásokkal foglalkozó munkatársai részére.
 
-[^4]: A 4. § (4) bekezdés a) pontja a 649/2023. (XII. 28.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
+[^7]: A 4. § (4) bekezdés a) pontja a 649/2023. (XII. 28.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.

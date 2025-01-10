@@ -20,8 +20,8 @@ b) egygyermekes fiatal házaspárnál legfeljebb kettő,
 
 c) kétgyermekes fiatal házaspárnál egy
 
-gyermek vállalása esetén igényelhető.
+gyermek közös vállalása esetén igényelhető.
 
 (4) Az igénylő a hitelintézetnél benyújtott kérelme alapján igényelheti a családi otthonteremtési kedvezményt, amelyet a megkötött támogatási szerződés alapján a Magyar Államkincstár (a továbbiakban: Kincstár) a hitelintézeten keresztül folyósít. Az igénylő a hitelintézettel kötött támogatási szerződésben vállalja, hogy megfelel az e rendeletben támasztott feltételeknek. Az igénylő a támogatási szerződés megkötésétől kezdődően támogatott személynek minősül. A támogatás igénylésekor valótlan adatok szolgáltatása, valamint a támogatás jogosulatlan igénybevétele esetén a családi otthonteremtési kedvezményt az e rendeletben foglaltak szerint vissza kell fizetni.
 
-[^1]: Az 1. § (3) bekezdése a 649/2023. (XII. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^1]: Az 1. § (3) bekezdése a 649/2023. (XII. 28.) Korm. rendelet 1. §-ával megállapított, záró szövegrésze a 388/2024. (XII. 11.) Korm. rendelet 32. § 1. pontja szerint módosított szöveg.

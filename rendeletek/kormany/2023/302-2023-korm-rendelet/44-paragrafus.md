@@ -1,8 +1,8 @@
 44. § (1) Az ingatlan-nyilvántartási eljárásban a családi otthonteremtési kedvezmény visszafizetésének kötelezettsége esetén a 36. § (1) bekezdés a) pontja szerinti elidegenítésről szóló szerződést csatolni kell.
 
-(2)[^118] Ha – a kisajátítás esete kivételével – a támogatott személy eladó a családi otthonteremtési kedvezménnyel felépített, bővített vagy megvásárolt új lakás elidegenítéséből származó – a (7) bekezdésben foglaltakkal csökkentett – bevételnek csak egy részét fordította a 43. § (3) bekezdés d) pontja szerinti újabb lakás megszerzésére, vagy az újabb lakás hasznos alapterülete nem éri el az elidegenített – a családi otthonteremtési kedvezménnyel érintett – lakás hasznos alapterületét, úgy a családi otthonteremtési kedvezmény a lakás elidegenítéséből származó – a (7) bekezdés szerint csökkentett – bevétel és a vételár vagy bekerülési költség különbözetével arányos részét kell visszafizetni. A kormányhivatal a határozatával a visszafizetési kötelezettség alá nem eső családi otthonteremtési kedvezmény hányadára jutó jelzálogjogot, továbbá annak biztosítására az elidegenítési és terhelési tilalmat az újabb ingatlanra az állam javára bejegyezteti.
+(2)[^158] Ha – a kisajátítás esete kivételével – a támogatott személy eladó a családi otthonteremtési kedvezménnyel felépített, bővített vagy megvásárolt új lakás elidegenítéséből származó – a (7) bekezdésben foglaltakkal csökkentett – bevételnek csak egy részét fordította a 43. § (3) bekezdés d) pontja szerinti újabb lakás megszerzésére, vagy az újabb lakás hasznos alapterülete nem éri el az elidegenített – a családi otthonteremtési kedvezménnyel érintett – lakás hasznos alapterületét, úgy a családi otthonteremtési kedvezmény a lakás elidegenítéséből származó – a (7) bekezdés szerint csökkentett – bevétel és a vételár vagy bekerülési költség különbözetével arányos részét kell visszafizetni. A kormányhivatal a határozatával a visszafizetési kötelezettség alá nem eső családi otthonteremtési kedvezmény hányadára jutó jelzálogjogot, továbbá annak biztosítására az elidegenítési és terhelési tilalmat az újabb ingatlanra az állam javára bejegyezteti.
 
-(3)[^119] A (2) bekezdés esetén a visszafizetési kötelezettség alá nem eső családi otthonteremtési kedvezmény összegének megfelelő jelzálogjog, valamint elidegenítési és terhelési tilalom újabb lakásra való átjegyzésének feltétele, hogy a támogatott személy a családi otthonteremtési kedvezmény összegének a – (7) bekezdés szerint csökkentett – eladási ár és a vételár vagy építési költség különbözetével arányos részét visszafizesse.
+(3)[^159] A (2) bekezdés esetén a visszafizetési kötelezettség alá nem eső családi otthonteremtési kedvezmény összegének megfelelő jelzálogjog, valamint elidegenítési és terhelési tilalom újabb lakásra való átjegyzésének feltétele, hogy a támogatott személy a családi otthonteremtési kedvezmény összegének a – (7) bekezdés szerint csökkentett – eladási ár és a vételár vagy építési költség különbözetével arányos részét visszafizesse.
 
 (4) A támogatott személy
 
@@ -26,5 +26,5 @@ b) azzal az összeggel, amelyet az adós az elidegenítésből származó bevét
 
 de legfeljebb akkora összeggel, hogy az így csökkentett bevétel összege elérje az igénybe vett családi otthonteremtési kedvezmény összegének kétszeresét.
 
-[^118]: A 44. § (2) bekezdése a 649/2023. (XII. 28.) Korm. rendelet 16. § 54. pontja szerint módosított szöveg.
-[^119]: A 44. § (3) bekezdése a 649/2023. (XII. 28.) Korm. rendelet 16. § 55. pontja szerint módosított szöveg.
+[^158]: A 44. § (2) bekezdése a 649/2023. (XII. 28.) Korm. rendelet 16. § 54. pontja szerint módosított szöveg.
+[^159]: A 44. § (3) bekezdése a 649/2023. (XII. 28.) Korm. rendelet 16. § 55. pontja szerint módosított szöveg.
