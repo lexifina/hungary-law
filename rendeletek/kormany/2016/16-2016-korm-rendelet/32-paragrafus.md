@@ -1,3 +1,3 @@
-## 31/B. §[^124] Ha a fiatal házaspár korábban megelőlegezett családi otthonteremtési kedvezményt vett igénybe, megelőlegezett családi otthonteremtési kedvezményre irányuló újabb támogatási szerződést csak akkor köthetnek, ha a korábbi szerződésben foglalt gyermekvállalás maradéktalanul teljesült, vagy a korábbi támogatási összegnek legalább a nem teljesült gyermekvállalásra jutó hányadát visszafizették.
+## 31/B. §[^126] Ha a fiatal házaspár korábban megelőlegezett családi otthonteremtési kedvezményt vett igénybe, megelőlegezett családi otthonteremtési kedvezményre irányuló újabb támogatási szerződést csak akkor köthetnek, ha a korábbi szerződésben foglalt gyermekvállalás maradéktalanul teljesült, vagy a korábbi támogatási összegnek legalább a nem teljesült gyermekvállalásra jutó hányadát visszafizették.
 
-[^124]: A 31/B. §-t a 786/2021. (XII. 27.) Korm. rendelet 2. §-a iktatta be.
+[^126]: A 31/B. §-t a 786/2021. (XII. 27.) Korm. rendelet 2. §-a iktatta be.

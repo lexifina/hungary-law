@@ -1,4 +1,4 @@
-9/A. §[^29] (1) A családi otthonteremtési kedvezmény során figyelembe nem vett, utóbb született gyermek után – a használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló 17/2016. (II. 10.) Korm. rendelet 23. §-a alkalmazásával az e rendelet szerinti családi otthonteremtési kedvezménnyel érintett új lakásra is – igényelhető családi otthonteremtési kedvezmény, melynek összege gyermekenként 1 000 000 forint.
+9/A. §[^29] (1)[^30] A családi otthonteremtési kedvezmény során figyelembe nem vett, utóbb született vagy örökbefogadott gyermek után – a használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló 17/2016. (II. 10.) Korm. rendelet 23. §-a alkalmazásával az e rendelet szerinti családi otthonteremtési kedvezménnyel érintett új lakásra is – igényelhető családi otthonteremtési kedvezmény, melynek összege gyermekenként 1 000 000 forint.
 
 (2) Az (1) bekezdés szerinti családi otthonteremtési kedvezményre
 
@@ -13,3 +13,4 @@ ac) 45. § (2) bekezdése – az a) pont aa), ab) alpontja, valamint b) és c) p
 b) nem alkalmazandó a 37. § (1) bekezdése.
 
 [^29]: A 9/A. §-t a 649/2023. (XII. 28.) Korm. rendelet 19. § (1) bekezdése iktatta be.
+[^30]: A 9/A. § (1) bekezdése a 388/2024. (XII. 11.) Korm. rendelet 8. § 1. pontja szerint módosított szöveg.
