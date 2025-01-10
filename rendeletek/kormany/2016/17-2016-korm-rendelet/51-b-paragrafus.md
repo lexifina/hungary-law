@@ -22,10 +22,12 @@ a) a lakás-takarékpénztárakról szóló törvény szerint megkötött lakás
 
 b) a meglévő kölcsöntartozás kiegyenlítésére szolgáló kölcsönre és
 
-c) lejárt tőketartozás esetén.
+c)[^313] lejárt tőketartozás esetén a kölcsönre.
 
 (9) Az otthonteremtési kamattámogatásra megszerzett jogosultság a kamattámogatás időtartama alatt változatlan feltételekkel fennmarad, függetlenül attól, hogy a kölcsön fedezetét képező lakás helyett fedezetül másik lakás kerül bevonásra.
 
 (10) A hitelintézet az igénybe vett kamattámogatás éves összegét évente egyszer, az éves elszámolás keretében közli a támogatott személlyel.
 
 (11) Az otthonteremtési kamattámogatás akkor igényelhető, ha az igénylőnek az otthonteremtési kamattámogatás igénylésének időpontjában nincs a központi hitelinformációs rendszerről szóló 2011. évi CXXII. törvény 11. § (1) bekezdése szerinti nyilvántartott tartozása a központi hitelinformációs rendszerben (a továbbiakban: KHR), vagy az igénylő a KHR-ben szereplő tartozását már legalább 1 éve teljesítette.
+
+[^313]: Az 51/B. § (8) bekezdés c) pontja a 388/2024. (XII. 11.) Korm. rendelet 13. § 14. pontja szerint módosított szöveg.

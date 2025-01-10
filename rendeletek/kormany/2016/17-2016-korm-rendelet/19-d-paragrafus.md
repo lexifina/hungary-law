@@ -18,19 +18,19 @@ b) két gyermek esetén legfeljebb 1 300 000 Ft,
 
 c) három vagy több gyermek esetén legfeljebb 5 000 000 Ft.
 
-(5)[^117] Ha az igénylő a korszerűsíteni, illetve bővíteni kívánt lakás építéséhez vagy vásárlásához – a kérelem benyújtását megelőzően – családi otthonteremtési kedvezményt vagy családok otthonteremtési kedvezményét illetve korszerűsítéséhez (felújításához) a gyermeket nevelő családok otthonfelújítási támogatását vette igénybe, a családi otthonteremtési kedvezmény (4) bekezdés szerinti összegének megállapításánál
+(5)[^118] Ha az igénylő a korszerűsíteni, illetve bővíteni kívánt lakás építéséhez vagy vásárlásához – a kérelem benyújtását megelőzően – családi otthonteremtési kedvezményt vagy családok otthonteremtési kedvezményét illetve korszerűsítéséhez (felújításához) a gyermeket nevelő családok otthonfelújítási támogatását vette igénybe, a családi otthonteremtési kedvezmény (4) bekezdés szerinti összegének megállapításánál
 
-a)[^118] nem kell alkalmazni a 3. § (1) és (2a) bekezdésében, valamint a 19/J. §-ban foglaltakat, valamint
+a)[^119] nem kell alkalmazni a 3. § (1) és (2a) bekezdésében, valamint a 19/J. §-ban foglaltakat, valamint
 
-b)[^119] a 3. § (2) bekezdésében foglaltaktól eltérően nem kell figyelembe venni a lakás
+b)[^120] a 3. § (2) bekezdésében foglaltaktól eltérően nem kell figyelembe venni a lakás
 
-ba)[^120] építéséhez vagy vásárlásához igénybe vett családi otthonteremtési kedvezmény vagy családok otthonteremtési kedvezménye,
+ba)[^121] építéséhez vagy vásárlásához igénybe vett családi otthonteremtési kedvezmény vagy családok otthonteremtési kedvezménye,
 
 bb) korszerűsítéséhez (felújításához) igénybe vett, a gyermeket nevelő családok otthonfelújítási támogatásáról szóló kormányrendelet szerinti támogatás
 
 összegét.
 
-[^117]: A 19/D. § (5) bekezdés nyitó szövegrésze a 406/2023. (VIII. 30.) Korm. rendelet 26. § 11. és 12. pontja szerint módosított szöveg.
-[^118]: A 19/D. § (5) bekezdés a) pontja a 786/2021. (XII. 27.) Korm. rendelet 11. § d) pontja szerint módosított szöveg.
-[^119]: A 19/D. § (5) bekezdés b) pontja az 518/2020. (XI. 25.) Korm. rendelet 16. § (3) bekezdésével megállapított szöveg.
-[^120]: A 19/D. § (5) bekezdés b) pont ba) alpontja a 406/2023. (VIII. 30.) Korm. rendelet 26. § 11. pontja szerint módosított szöveg.
+[^118]: A 19/D. § (5) bekezdés nyitó szövegrésze a 406/2023. (VIII. 30.) Korm. rendelet 26. § 11. és 12. pontja szerint módosított szöveg.
+[^119]: A 19/D. § (5) bekezdés a) pontja a 786/2021. (XII. 27.) Korm. rendelet 11. § d) pontja szerint módosított szöveg.
+[^120]: A 19/D. § (5) bekezdés b) pontja az 518/2020. (XI. 25.) Korm. rendelet 16. § (3) bekezdésével megállapított szöveg.
+[^121]: A 19/D. § (5) bekezdés b) pont ba) alpontja a 406/2023. (VIII. 30.) Korm. rendelet 26. § 11. pontja szerint módosított szöveg.

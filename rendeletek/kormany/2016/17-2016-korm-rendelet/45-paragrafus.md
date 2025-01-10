@@ -1,8 +1,8 @@
-## 13. [^292] A családi otthonteremtési kedvezmény központi költségvetéssel való elszámolásának szabályai
+## 13. [^300] A családi otthonteremtési kedvezmény központi költségvetéssel való elszámolásának szabályai
 
 45. § (1) A családi otthonteremtési kedvezményt az állam nevében a Kincstár nyújtja.
 
-(2)[^293] A hitelintézetet az általa jogszerűen folyósított
+(2)[^301] A hitelintézetet az általa jogszerűen folyósított
 
 a) családi otthonteremtési kedvezmény összege után
 
@@ -10,7 +10,7 @@ aa) új lakás építése, bővítés vagy a 19/A. § (4) vagy (6) bekezdése sz
 
 ab) használt lakás vásárlása esetén 40 ezer forint,
 
-ac)[^294] a 23. § szerinti igénybevétel esetén 10 000 forint,
+ac)[^302] a 23. § szerinti igénybevétel esetén 10 000 forint,
 
 b) 19/I. § szerinti adó-visszatérítési támogatás összege után 80 ezer forint, és
 
@@ -32,13 +32,13 @@ egyszeri költségtérítés illeti meg, amelyet az a) pont esetén a családi o
 
 (9) Ha a Kincstár a hitelintézet ellenőrzése során a hitelintézet terhére jogosulatlan támogatáslehívást állapít meg, a hitelintézet azt a Kincstár megállapításait tartalmazó dokumentum kézhezvételét követően a Ptk. szerinti, vállalkozások közötti fizetési késedelem esetére meghatározott késedelmi kamattal növelt összegben köteles a Kincstár által vezetett, 10032000-01034004 számú „Különleges bevételek” számlára megfizetni.
 
-(10)[^295] A Kincstár az (5) bekezdés és a 47. § szerinti ellenőrzése során a hitelintézetnél helyszíni ellenőrzést végezhet, és a szükséges információk, dokumentumok bekérésére vagy azokba a helyszínen történő betekintésre jogosult.
+(10)[^303] A Kincstár az (5) bekezdés és a 47. § szerinti ellenőrzése során a hitelintézetnél helyszíni ellenőrzést végezhet, és a szükséges információk, dokumentumok bekérésére vagy azokba a helyszínen történő betekintésre jogosult.
 
 (11) Ha a Kincstár az (5) bekezdés szerinti ellenőrzés során a hitelintézet elszámolásában szabálytalanságot tár fel, az elszámolással kapcsolatos követelést a hitelintézettel szemben a polgári jog szabályai szerint érvényesíti.
 
 (12) A hitelintézet a támogatásokat az eAdaton elérhető tájékoztató szerinti formában tartja nyilván.
 
-[^292]: A 13. alcím (45–46. §) a 101/2019. (V. 2.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^293]: A 45. § (2) bekezdése a 150/2022. (IV. 14.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 649/2023. (XII. 28.) Korm. rendelet 20. § (7) bekezdés r) pontja szerint módosított szöveg.
-[^294]: A 45. § (2) bekezdés a) pont ac) alpontját a 649/2023. (XII. 28.) Korm. rendelet 20. § (4) bekezdése iktatta be.
-[^295]: A 45. § (10) bekezdése a 649/2023. (XII. 28.) Korm. rendelet 20. § (7) bekezdés s) pontja szerint módosított szöveg.
+[^300]: A 13. alcím (45–46. §) a 101/2019. (V. 2.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^301]: A 45. § (2) bekezdése a 150/2022. (IV. 14.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 649/2023. (XII. 28.) Korm. rendelet 20. § (7) bekezdés r) pontja szerint módosított szöveg.
+[^302]: A 45. § (2) bekezdés a) pont ac) alpontját a 649/2023. (XII. 28.) Korm. rendelet 20. § (4) bekezdése iktatta be.
+[^303]: A 45. § (10) bekezdése a 649/2023. (XII. 28.) Korm. rendelet 20. § (7) bekezdés s) pontja szerint módosított szöveg.

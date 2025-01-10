@@ -1,6 +1,6 @@
-19/I. §[^131] (1)[^132] Preferált kistelepülésen a 19/A. § (4) vagy (6) bekezdése szerinti célokra a természetes személy tulajdonos a hitelintézet által elfogadott költségvetésben szereplő bekerülési költséghez adó-visszatérítési támogatást igényelhet.
+19/I. §[^132] (1)[^133] Preferált kistelepülésen a 19/A. § (4) vagy (6) bekezdése szerinti célokra a természetes személy tulajdonos a hitelintézet által elfogadott költségvetésben szereplő bekerülési költséghez adó-visszatérítési támogatást igényelhet.
 
-(2)[^133] Az adó-visszatérítési támogatás az (1) bekezdés szerinti költségekre egyidejűleg és legfeljebb egy alkalommal, 2018. január 1-jén vagy azt követően kiállított számla alapján vehető igénybe.
+(2)[^134] Az adó-visszatérítési támogatás az (1) bekezdés szerinti költségekre egyidejűleg és legfeljebb egy alkalommal, 2018. január 1-jén vagy azt követően kiállított számla alapján vehető igénybe.
 
 (3) Az adó-visszatérítési támogatás összege megegyezik a bővítéshez, illetve a korszerűsítéshez megvásárolt anyagok és igénybe vett szolgáltatások számlájában feltüntetett és a kiállított számla szerint megfizetett általános forgalmi adó összegével, de legfeljebb 5 000 000 forint.
 
@@ -10,18 +10,18 @@
 
 (6) Az adó-visszatérítési támogatást az öregségi nyugdíjban, korhatár előtti ellátásban vagy szolgálati járandóságban részesülő személyek is igényelhetik. Az e bekezdés szerinti ellátások esetén az adó-visszatérítési támogatás vonatkozásában a társadalombiztosítási jogviszony 14. § (1) bekezdés c) pontja szerinti igazolását nem kell benyújtani. Az e bekezdés szerinti ellátások igénybevételét az igénylő – együttes igénylők esetén legalább az egyik fél – az ellátás folyósítását megállapító hatósági határozat hitelintézetnél történő bemutatásával igazolja.
 
-(7)[^134] Az igénylő az adó-visszatérítési támogatás iránti kérelem benyújtásakor teljes bizonyító erejű magánokiratba foglalt nyilatkozatban hozzájárul ahhoz, hogy a 14. § (3) bekezdés a) pontjában foglalt adatait, valamint az adó-visszatérítési támogatásra vonatkozó információkat az adó-visszatérítési támogatás szabályszerű igénybevételének ellenőrzése céljából a hitelintézet felhasználja és továbbítsa a kormányhivatal, a Kincstár vagy az állami adóhatóság részére.
+(7)[^135] Az igénylő az adó-visszatérítési támogatás iránti kérelem benyújtásakor teljes bizonyító erejű magánokiratba foglalt nyilatkozatban hozzájárul ahhoz, hogy a 14. § (3) bekezdés a) pontjában foglalt adatait, valamint az adó-visszatérítési támogatásra vonatkozó információkat az adó-visszatérítési támogatás szabályszerű igénybevételének ellenőrzése céljából a hitelintézet felhasználja és továbbítsa a kormányhivatal, a Kincstár vagy az állami adóhatóság részére.
 
-(8)[^135] A támogatott személy az adó-visszatérítési támogatásra – ideértve a visszafizetéshez kapcsolódó kamatfizetési kötelezettséget is – vonatkozó visszafizetési kötelezettség kapcsán részletfizetési kérelemmel fordulhat a kormányhivatalhoz. A kormányhivatal eljárására a 39. § (4) bekezdésében foglaltakat kell megfelelően alkalmazni.
+(8)[^136] A támogatott személy az adó-visszatérítési támogatásra – ideértve a visszafizetéshez kapcsolódó kamatfizetési kötelezettséget is – vonatkozó visszafizetési kötelezettség kapcsán részletfizetési kérelemmel fordulhat a kormányhivatalhoz. A kormányhivatal eljárására a 39. § (4) bekezdésében foglaltakat kell megfelelően alkalmazni.
 
-(9)[^136] A támogatott személy az adó-visszatérítési támogatásra – ideértve a visszafizetéshez kapcsolódó kamatfizetési kötelezettséget is – vonatkozó visszafizetési kötelezettség halasztott teljesítése, mérséklése vagy elengedése iránti kérelemmel fordulhat a kormányhivatalhoz. A kormányhivatal eljárására a 39. § (5) és (7) bekezdésében foglaltakat kell megfelelően alkalmazni.
+(9)[^137] A támogatott személy az adó-visszatérítési támogatásra – ideértve a visszafizetéshez kapcsolódó kamatfizetési kötelezettséget is – vonatkozó visszafizetési kötelezettség halasztott teljesítése, mérséklése vagy elengedése iránti kérelemmel fordulhat a kormányhivatalhoz. A kormányhivatal eljárására a 39. § (5) és (7) bekezdésében foglaltakat kell megfelelően alkalmazni.
 
-(10)[^137] Az adó-visszatérítési támogatásra az 1. § (4) bekezdésében, a 2. § (1)–(3) bekezdésében, a 3. § (1), (2c) és (5) bekezdésében, a 4. §-ban, az 5. §-ban, a 6. § c) pontjában, a 7. §-ban, a 9. §-ban, a 12. §-ban, a 13. §-ban, a 14. § (1), (2), (2a) és (2b) bekezdésében, a 14. § (3) bekezdés a), c), e)–k) és o) pontjában, valamint a 14. § (5), (6), (8)–(11) bekezdésében, a 15–19/C. §-ban, a 19/E. § (4)–(11) bekezdésében, a 19/G. §-ban, a 19/H. §-ban, a 24–33. §-ban, a 34. § (2)–(5) bekezdésében, a 35–38. §-ban, a 39. § (13) bekezdésében, valamint a 40–51. §-ban foglaltakat is megfelelően alkalmazni kell.
+(10)[^138] Az adó-visszatérítési támogatásra az 1. § (4) bekezdésében, a 2. § (1)–(3) bekezdésében, a 3. § (1), (2c) és (5) bekezdésében, a 4. §-ban, az 5. §-ban, a 6. § c) pontjában, a 7. §-ban, a 9. §-ban, a 12. §-ban, a 13. §-ban, a 14. § (1), (2), (2a) és (2b) bekezdésében, a 14. § (3) bekezdés a), c), e)–k) és o) pontjában, valamint a 14. § (5), (6), (8)–(11) bekezdésében, a 15–19/C. §-ban, a 19/E. § (4)–(11) bekezdésében, a 19/G. §-ban, a 19/H. §-ban, a 24–33. §-ban, a 34. § (2)–(5) bekezdésében, a 35–38. §-ban, valamint a 40–51. §-ban foglaltakat is megfelelően alkalmazni kell.
 
-[^131]: A 19/I. §-t a 276/2019. (XI. 21.) Korm. rendelet 3. §-a iktatta be.
-[^132]: A 19/I. § (1) bekezdése a 406/2023. (VIII. 30.) Korm. rendelet 26. § 14. pontja szerint módosított szöveg.
-[^133]: A 19/I. § (2) bekezdése a 406/2023. (VIII. 30.) Korm. rendelet 26. § 15. pontja szerint módosított szöveg.
-[^134]: A 19/I. § (7) bekezdése a 30/2020. (II. 29.) Korm. rendelet 27. § c) pontja szerint módosított szöveg.
-[^135]: A 19/I. § (8) bekezdése a 30/2020. (II. 29.) Korm. rendelet 27. § d)–e) pontja szerint módosított szöveg.
-[^136]: A 19/I. § (9) bekezdése a 30/2020. (II. 29.) Korm. rendelet 27. § d)–e) pontja szerint módosított szöveg.
-[^137]: A 19/I. § (10) bekezdése az 530/2021. (IX. 14.) Korm. rendelet 16. § f) pontja szerint módosított szöveg.
+[^132]: A 19/I. §-t a 276/2019. (XI. 21.) Korm. rendelet 3. §-a iktatta be.
+[^133]: A 19/I. § (1) bekezdése a 406/2023. (VIII. 30.) Korm. rendelet 26. § 14. pontja szerint módosított szöveg.
+[^134]: A 19/I. § (2) bekezdése a 406/2023. (VIII. 30.) Korm. rendelet 26. § 15. pontja szerint módosított szöveg.
+[^135]: A 19/I. § (7) bekezdése a 30/2020. (II. 29.) Korm. rendelet 27. § c) pontja szerint módosított szöveg.
+[^136]: A 19/I. § (8) bekezdése a 30/2020. (II. 29.) Korm. rendelet 27. § d)–e) pontja szerint módosított szöveg.
+[^137]: A 19/I. § (9) bekezdése a 30/2020. (II. 29.) Korm. rendelet 27. § d)–e) pontja szerint módosított szöveg.
+[^138]: A 19/I. § (10) bekezdése az 530/2021. (IX. 14.) Korm. rendelet 16. § f) pontja, a 388/2024. (XII. 11.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
