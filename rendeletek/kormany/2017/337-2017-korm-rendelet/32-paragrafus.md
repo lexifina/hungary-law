@@ -1,4 +1,4 @@
-32. §[^92] (1) Ha
+32. §[^95] (1) Ha
 
 a) a 6. § (8) bekezdésében vagy
 
@@ -10,4 +10,4 @@ foglalt határidő a veszélyhelyzet kihirdetéséről szóló 40/2020. (III. 11
 
 (3) Az (1) bekezdés a) pontját a veszélyhelyzet megszűnését megelőzően benyújtott, de még el nem bírált támogatás iránti kérelmekre, meghozott támogatási határozatokra, folyósított támogatásokra, folyamatban lévő eljárásokra, valamint megkezdett eljárási cselekményekre kell alkalmazni.
 
-[^92]: A 32. §-t a 284/2020. (VI. 17.) Korm. rendelet 85. §-a iktatta be.
+[^95]: A 32. §-t a 284/2020. (VI. 17.) Korm. rendelet 85. §-a iktatta be.

@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-337-20-
 | 2023-09-01 | 2017-337-20-22.15 | 406/2023. (VIII. 30.) Korm. rendelet |
 | 2024-01-01 | 2017-337-20-22.16 | 649/2023. (XII. 28.) Korm. rendelet |
 | 2024-03-01 | 2017-337-20-22.17 | 35/2024. (II. 29.) Korm. rendelet |
+| 2025-01-10 | 2017-337-20-22.18 | 388/2024. (XII. 11.) Korm. rendelet |
