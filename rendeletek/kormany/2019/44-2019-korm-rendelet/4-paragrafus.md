@@ -50,7 +50,7 @@ ab) a kölcsönkérelem korábban együttes igénylőkként történő benyújt�
 
 b) a túlélő férj a kölcsönkérelem korábban együttes igénylőkként történő benyújtását követően a kölcsönszerződést a gyermeke megszületése vagy az elhunyt feleségével közös magzat elhalása után egyedüli támogatott személyként is megkötheti,
 
-c) ha a kormányhivatal korábban már az örökbefogadásra való alkalmasságot megállapító határozat hozott, akkor a túlélő házastárs
+c)[^24] ha a kormányhivatal korábban már az örökbefogadásra való alkalmasságot megállapító határozatot hozott, akkor a túlélő házastárs
 
 ca) a kölcsönkérelmet az örökbefogadást engedélyező határozat véglegessé válását megelőzően egyedülállóként is benyújthatja,
 
@@ -58,31 +58,31 @@ cb) a kölcsönkérelem korábban együttes igénylőkként történő benyújt�
 
 azzal, hogy ebben az esetben az e rendeletben szereplő igénylőkre, illetve támogatott személyekre vonatkozó rendelkezéseket az egyedülálló igénylőre, illetve támogatott személyre kell alkalmazni.
 
-(2)[^24] Az (1) bekezdés c) pontja szerinti 3 éves, illetve 1 éves időszak számítása során
+(2)[^25] Az (1) bekezdés c) pontja szerinti 3 éves, illetve 1 éves időszak számítása során
 
-a)[^25] az (1) bekezdés c) pontja szerinti egymást követő időszakokat össze kell számítani,
+a)[^26] az (1) bekezdés c) pontja szerinti egymást követő időszakokat össze kell számítani,
 
-b)[^26] folyamatosnak kell tekinteni az időszakot, ha abban egybefüggően legfeljebb 30 nap megszakítás van, illetve a felsőoktatási intézménynél fennálló hallgatói jogviszony megszűnését követően a következő, babaváró támogatásra jogosító jogviszony megkezdéséig egybefüggően hat hónapnál hosszabb megszakítás nincs, amelynek időtartama az (1) bekezdés c) pontja szerint teljesítendő 3 éves, illetve 1 éves jogosultsági időszakba nem számít bele
+b)[^27] folyamatosnak kell tekinteni az időszakot, ha abban egybefüggően legfeljebb 30 nap megszakítás van, illetve a felsőoktatási intézménynél fennálló hallgatói jogviszony megszűnését követően a következő, babaváró támogatásra jogosító jogviszony megkezdéséig egybefüggően hat hónapnál hosszabb megszakítás nincs, amelynek időtartama az (1) bekezdés c) pontja szerint teljesítendő 3 éves, illetve 1 éves jogosultsági időszakba nem számít bele
 
-c)[^27] a kölcsönkérelem benyújtása napjának és az azt megelőző 180 napos időtartamnak a Tbj. 6. § (1) bekezdés a), b) vagy d)–i) pontja szerinti jogviszonyban töltött időszaknak kell minősülnie, vagy olyan időszaknak kell minősülnie, amely alatt az (1) bekezdés f) pont fa) alpontja szerinti igénylő Magyarország területén valamely más állam vagy nemzetközi szerződéssel létrehozott nemzetközi szervezet számára végzett kereső tevékenysége alapján e más állam vagy nemzetközi szervezet társadalombiztosítási rendszerének hatálya alá tartozik, az a) és b) pont alkalmazása mellett, és
+c)[^28] a kölcsönkérelem benyújtása napjának és az azt megelőző 180 napos időtartamnak a Tbj. 6. § (1) bekezdés a), b) vagy d)–i) pontja szerinti jogviszonyban töltött időszaknak kell minősülnie, vagy olyan időszaknak kell minősülnie, amely alatt az (1) bekezdés f) pont fa) alpontja szerinti igénylő Magyarország területén valamely más állam vagy nemzetközi szerződéssel létrehozott nemzetközi szervezet számára végzett kereső tevékenysége alapján e más állam vagy nemzetközi szervezet társadalombiztosítási rendszerének hatálya alá tartozik, az a) és b) pont alkalmazása mellett, és
 
 d) a közfoglalkoztatási jogviszonyban töltött idő egy évet meghaladó része nem számítható be.
 
-(2a)[^28] Ha az igénylő a kölcsönkérelem benyújtásának időpontját megelőző 180 napon belül az (1) bekezdés c) pont cc) alpontja szerinti jogviszonyban áll, akkor a (2) bekezdés c) pontjában foglalt feltételnek csak a kölcsönkérelem benyújtása napjára és az azt megelőző 90 napos időtartamra nézve kell fennállnia.
+(2a)[^29] Ha az igénylő a kölcsönkérelem benyújtásának időpontját megelőző 180 napon belül az (1) bekezdés c) pont cc) alpontja szerinti jogviszonyban áll, akkor a (2) bekezdés c) pontjában foglalt feltételnek csak a kölcsönkérelem benyújtása napjára és az azt megelőző 90 napos időtartamra nézve kell fennállnia.
 
-(2b)[^29] Ha az (1a) bekezdés a) pont aa) alpontjában vagy c) pont ca) alpontjában foglalt esetben a túlélő házastársnál az (1) bekezdés c) pontja, a (2) bekezdés, illetve a (2a) bekezdés szerinti feltételek nem állnak fenn, a kölcsönkérelmet benyújthatja, ha az (1) bekezdés c) pontja és a (2) bekezdés, illetve a (2a) bekezdés szerinti feltétel a volt házastárs tekintetében a halála napján vagy az azt megelőző 3 hónapos időszakon belül bármely időpontban teljesült.
+(2b)[^30] Ha az (1a) bekezdés a) pont aa) alpontjában vagy c) pont ca) alpontjában foglalt esetben a túlélő házastársnál az (1) bekezdés c) pontja, a (2) bekezdés, illetve a (2a) bekezdés szerinti feltételek nem állnak fenn, a kölcsönkérelmet benyújthatja, ha az (1) bekezdés c) pontja és a (2) bekezdés, illetve a (2a) bekezdés szerinti feltétel a volt házastárs tekintetében a halála napján vagy az azt megelőző 3 hónapos időszakon belül bármely időpontban teljesült.
 
-(2c)[^30] Az (1) bekezdés c) pont ca) vagy cb) alpontja szerinti jogviszony szünetelése nem minősül a jogviszony megszakításának, de annak időtartama az (1) bekezdés c) pontja szerinti 3 éves, illetve 1 éves, valamint a (2) bekezdés c) pontja szerinti folyamatos 180 napos időszakba nem számít be.
+(2c)[^31] Az (1) bekezdés c) pont ca) vagy cb) alpontja szerinti jogviszony szünetelése nem minősül a jogviszony megszakításának, de annak időtartama az (1) bekezdés c) pontja szerinti 3 éves, illetve 1 éves, valamint a (2) bekezdés c) pontja szerinti folyamatos 180 napos időszakba nem számít be.
 
 (3) Nem magyar állampolgár támogatott személlyel kölcsönszerződés a három hónapot meghaladó tartózkodási jogosultság fennállásának időtartama alatt köthető.
 
 (4) Kölcsönszerződés csak olyan igénylőkkel köthető, akiket a hitelintézet az általános belső szabályai szerint az igényelt kölcsön felvételéhez hitelképesnek minősít.
 
-(5)[^31] Ugyanazon igénylővel kölcsönszerződés csak egy alkalommal köthető, kivéve
+(5)[^32] Ugyanazon igénylővel kölcsönszerződés csak egy alkalommal köthető, kivéve
 
 a) ha a korábban már megkötött kölcsönszerződés ellenére a kölcsönösszeg folyósítására nem került sor, vagy
 
-b) a 16. § (6) bekezdése szerinti újabb házasságkötés esetét, ha a támogatott személy korábbi babaváró kölcsöne és a 16. § (2) bekezdése szerinti kötelezettség fennállása esetén az igénybe vett kamattámogatása – az előző házassága felbontása vagy érvénytelenségének megállapítása miatt – teljes egészében visszafizetésre került.
+b)[^33] a 16. § (6) bekezdése szerinti újabb házasságkötés esetét, ha a támogatott személy korábbi babaváró kölcsöne és a 16. § (2) bekezdése szerinti kötelezettség fennállása esetén az ott írt kamat vagy az igénybe vett kamattámogatása – az előző házassága felbontása vagy érvénytelenségének megállapítása miatt – teljes egészében meg-, illetve visszafizetésre került.
 
 [^14]: A 4. § (1) bekezdés a) pontja a 437/2024. (XII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^15]: A 4. § (1) bekezdés c) pontja a 252/2020. (V. 29.) Korm. rendelet 18. § (1) bekezdésével megállapított, nyitó szövegrésze a 262/2024. (VIII. 29.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
@@ -94,11 +94,13 @@ b) a 16. § (6) bekezdése szerinti újabb házasságkötés esetét, ha a támo
 [^21]: A 4. § (1) bekezdés h) pontja a 151/2019. (VI. 26.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^22]: A 4. § (1) bekezdés j) pontja a 151/2019. (VI. 26.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
 [^23]: A 4. § (1a) bekezdését az 530/2021. (IX. 14.) Korm. rendelet 25. § (2) bekezdése iktatta be.
-[^24]: A 4. § (2) bekezdés nyitó szövegrésze a 262/2024. (VIII. 29.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
-[^25]: A 4. § (2) bekezdés a) pontja a 252/2020. (V. 29.) Korm. rendelet 18. § (2) bekezdésével megállapított szöveg.
-[^26]: A 4. § (2) bekezdés b) pontja a 252/2020. (V. 29.) Korm. rendelet 18. § (2) bekezdésével megállapított, az 530/2021. (IX. 14.) Korm. rendelet 29. § b) pontja, a 786/2021. (XII. 27.) Korm. rendelet 13. §-a, a 262/2024. (VIII. 29.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
-[^27]: A 4. § (2) bekezdés c) pontja a 406/2023. (VIII. 30.) Korm. rendelet 40. § (1) bekezdésével megállapított, a 649/2023. (XII. 28.) Korm. rendelet 22. § (3) bekezdés a) pontja szerint módosított szöveg.
-[^28]: A 4. § (2a) bekezdését a 252/2020. (V. 29.) Korm. rendelet 18. § (3) bekezdése iktatta be, szövege a 649/2023. (XII. 28.) Korm. rendelet 22. § (3) bekezdés b) pontja szerint módosított szöveg.
-[^29]: A 4. § (2b) bekezdését az 530/2021. (IX. 14.) Korm. rendelet 25. § (3) bekezdése iktatta be.
-[^30]: A 4. § (2c) bekezdését a 406/2023. (VIII. 30.) Korm. rendelet 40. § (2) bekezdése iktatta be, szövege a 262/2024. (VIII. 29.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
-[^31]: A 4. § (5) bekezdése a 406/2023. (VIII. 30.) Korm. rendelet 40. § (3) bekezdésével megállapított szöveg.
+[^24]: A 4. § (1a) bekezdés c) pont nyitó szövegrésze a 388/2024. (XII. 11.) Korm. rendelet 23. § 2. pontja szerint módosított szöveg.
+[^25]: A 4. § (2) bekezdés nyitó szövegrésze a 262/2024. (VIII. 29.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^26]: A 4. § (2) bekezdés a) pontja a 252/2020. (V. 29.) Korm. rendelet 18. § (2) bekezdésével megállapított szöveg.
+[^27]: A 4. § (2) bekezdés b) pontja a 252/2020. (V. 29.) Korm. rendelet 18. § (2) bekezdésével megállapított, az 530/2021. (IX. 14.) Korm. rendelet 29. § b) pontja, a 786/2021. (XII. 27.) Korm. rendelet 13. §-a, a 262/2024. (VIII. 29.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^28]: A 4. § (2) bekezdés c) pontja a 406/2023. (VIII. 30.) Korm. rendelet 40. § (1) bekezdésével megállapított, a 649/2023. (XII. 28.) Korm. rendelet 22. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^29]: A 4. § (2a) bekezdését a 252/2020. (V. 29.) Korm. rendelet 18. § (3) bekezdése iktatta be, szövege a 649/2023. (XII. 28.) Korm. rendelet 22. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^30]: A 4. § (2b) bekezdését az 530/2021. (IX. 14.) Korm. rendelet 25. § (3) bekezdése iktatta be.
+[^31]: A 4. § (2c) bekezdését a 406/2023. (VIII. 30.) Korm. rendelet 40. § (2) bekezdése iktatta be, szövege a 262/2024. (VIII. 29.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^32]: A 4. § (5) bekezdése a 406/2023. (VIII. 30.) Korm. rendelet 40. § (3) bekezdésével megállapított szöveg.
+[^33]: A 4. § (5) bekezdés b) pontja a 388/2024. (XII. 11.) Korm. rendelet 23. § 3. pontja szerint módosított szöveg.

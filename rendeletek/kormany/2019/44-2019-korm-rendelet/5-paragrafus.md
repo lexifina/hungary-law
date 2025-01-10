@@ -4,7 +4,7 @@
 
 (2) A kölcsönkérelem benyújtásakor az igénylők teljes bizonyító erejű magánokiratba foglalt nyilatkozatban hozzájárulnak ahhoz, hogy
 
-a)[^32] a kölcsönre és a babaváró támogatásra vonatkozó adatokat, valamint a saját és a kölcsönkérelem benyújtását követően született vagy örökbefogadott gyermekeik
+a)[^34] a kölcsönre és a babaváró támogatásra vonatkozó adatokat, valamint a saját és a kölcsönkérelem benyújtását követően született vagy örökbefogadott gyermekeik
 
 aa) nevét,
 
@@ -22,17 +22,17 @@ ag) értesítési címüket,
 
 ah) személyazonosító igazolványuk, úti okmányuk vagy kártyaformátumú vezetői engedélyük számát,
 
-ai)[^33]
+ai)[^35]
 
 aj) adóazonosító jelüket
 
 a kölcsönkérelem elbírálása, a kölcsönszerződés megkötése, a kölcsön folyósítása és a jogszerű igénybevétel ellenőrzése céljából a hitelintézet kezelje, és továbbítsa a kincstár, az állami adóhatóság, a kormányhivatal részére, és
 
-b)[^34] az a) pont szerinti adataikat a kincstár, az állami adóhatóság, a kormányhivatal az e rendeletben meghatározott feladataik ellátása céljából kezelje, továbbá a kincstár a babaváró támogatás folyósításához nyilvántartsa.
+b)[^36] az a) pont szerinti adataikat a kincstár, az állami adóhatóság, a kormányhivatal az e rendeletben meghatározott feladataik ellátása céljából kezelje, továbbá a kincstár a babaváró támogatás folyósításához nyilvántartsa.
 
 (3) A kölcsönkérelem benyújtásakor az igénylők büntetőjogi felelősség vállalásával teljes bizonyító erejű magánokiratban nyilatkoznak
 
-a)[^35] a fennálló házasságról,
+a)[^37] a fennálló házasságról,
 
 b) a 4. § szerinti egyéb jogosultsági feltételek fennállásáról, és
 
@@ -40,9 +40,9 @@ c) arról, hogy az általuk közölt adatok a valóságnak megfelelnek, és hozz
 
 (4) A (3) bekezdés szerinti nyilatkozat tartalmazza
 
-a)[^36] a házastársak nevét, születési helyüket és idejüket, valamint a házasságkötés helyét és idejét,
+a)[^38] a házastársak nevét, születési helyüket és idejüket, valamint a házasságkötés helyét és idejét,
 
-b)[^37] a 4. § (1) bekezdés d) pontja szerinti feltétel esetében az igénylők írásbeli hozzájárulását ahhoz, hogy a nyilatkozatban foglalt személyes adatokat a hitelintézet, a kincstár, az állami adóhatóság, a kormányhivatal a kölcsönre való jogosultsága megállapításának és az igénybevétel jogszerűsége ellenőrzésének céljából és időtartamára kezelje.
+b)[^39] a 4. § (1) bekezdés d) pontja szerinti feltétel esetében az igénylők írásbeli hozzájárulását ahhoz, hogy a nyilatkozatban foglalt személyes adatokat a hitelintézet, a kincstár, az állami adóhatóság, a kormányhivatal a kölcsönre való jogosultsága megállapításának és az igénybevétel jogszerűsége ellenőrzésének céljából és időtartamára kezelje.
 
 (5) A kölcsönszerződés megkötésére való jogosultsághoz a (2)–(4) bekezdésben foglaltakon túl
 
@@ -50,42 +50,42 @@ a) a személyazonosságot és az életkort személyazonosító igazolvánnyal, �
 
 b) a bejelentett lakcímet az azt igazoló hatósági igazolvánnyal,
 
-c)[^38]
+c)[^40]
 
-d)[^39] a Tbj. szerinti biztosítási jogviszonyra vonatkozó feltételeknek – ideértve a 4. § (2b) bekezdése szerinti esetet is – való megfelelést az egészségbiztosítási pénztári feladatokat ellátó fővárosi és vármegyei kormányhivatal által 30 napnál nem régebben, a tanúsítani kívánt, 4. § (1) bekezdés c) pontja szerinti időtartam feltüntetésével kiállított igazolással; valamely más állam vagy nemzetközi szervezet társadalombiztosítási rendszerének hatálya alá tartozást az illetékes külföldi hatóság vagy a nemzetközi szerződéssel létrehozott nemzetközi szervezet által 30 napnál nem régebben kiállított igazolással és annak hiteles magyar nyelvű fordításával; a hallgatói jogviszony fennállását a felsőoktatási intézmény által kiadott igazolással, a külföldi tanulmányokat az annak időtartamáról szóló, a külföldi felsőoktatási intézmény által kiadott igazolással és annak hiteles magyar nyelvű fordításával, valamint a külföldi bizonyítványok és oklevelek elismeréséért felelős hatóság egyenértékűségről szóló állásfoglalásával,
+d)[^41] a Tbj. szerinti biztosítási jogviszonyra vonatkozó feltételeknek – ideértve a 4. § (2b) bekezdése szerinti esetet is – való megfelelést az egészségbiztosítási pénztári feladatokat ellátó fővárosi és vármegyei kormányhivatal által 30 napnál nem régebben, a tanúsítani kívánt, 4. § (1) bekezdés c) pontja szerinti időtartam feltüntetésével kiállított igazolással; valamely más állam vagy nemzetközi szervezet társadalombiztosítási rendszerének hatálya alá tartozást az illetékes külföldi hatóság vagy a nemzetközi szerződéssel létrehozott nemzetközi szervezet által 30 napnál nem régebben kiállított igazolással és annak hiteles magyar nyelvű fordításával, a Magyarországon végzett keresőtevékenységet az azt létesítő okirat erre vonatkozó részével vagy a munkavégzés helyéről szóló munkáltatói igazolással; a hallgatói jogviszony fennállását a felsőoktatási intézmény által kiadott igazolással, a külföldi tanulmányokat az annak időtartamáról szóló, a külföldi felsőoktatási intézmény által kiadott igazolással és annak hiteles magyar nyelvű fordításával, valamint a külföldi bizonyítványok és oklevelek elismeréséért felelős hatóság egyenértékűségről szóló állásfoglalásával,
 
-e)[^40] az adóazonosító jelet adóigazolvánnyal, ideiglenes adóigazolvánnyal vagy az adóazonosító jel igazolására szolgáló hatósági bizonyítvánnyal,
+e)[^42] az adóazonosító jelet adóigazolvánnyal, ideiglenes adóigazolvánnyal vagy az adóazonosító jel igazolására szolgáló hatósági bizonyítvánnyal,
 
 f) a három hónapot meghaladó tartózkodás jogát a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény szerinti regisztrációs igazolással, érvényes tartózkodási kártyával vagy állandó tartózkodási kártyával,
 
-g)[^41] a hontalan jogállást a hontalankénti elismerésről szóló határozattal vagy a jogállást igazoló hatósági igazolással, a huzamos tartózkodási jogosultságot bevándorlási engedéllyel, letelepedési engedéllyel, ideiglenes letelepedési engedéllyel, nemzeti letelepedési engedéllyel, EK letelepedési engedéllyel, ideiglenes tartózkodási kártyával, nemzeti tartózkodási kártyával vagy EU tartózkodási kártyával,
+g)[^43] a hontalan jogállást a hontalankénti elismerésről szóló határozattal vagy a jogállást igazoló hatósági igazolással, a huzamos tartózkodási jogosultságot bevándorlási engedéllyel, letelepedési engedéllyel, ideiglenes letelepedési engedéllyel, nemzeti letelepedési engedéllyel, EK letelepedési engedéllyel, ideiglenes tartózkodási kártyával, nemzeti tartózkodási kártyával vagy EU tartózkodási kártyával,
 
-h)[^42] az Ebtv. 42/E. §-a alapján megállapított gyermekgondozási díj folyósításának időtartamát az ellátást megállapító szerv által kiállított igazolással
+h)[^44] az Ebtv. 42/E. §-a alapján megállapított gyermekgondozási díj folyósításának időtartamát az ellátást megállapító szerv által kiállított igazolással
 
-i)[^43] a 4. § (1a), illetve (2b) bekezdése szerinti feltételek fennállását házassági anyakönyvi kivonattal, valamint halotti anyakönyvi kivonattal
+i)[^45] a 4. § (1a), illetve (2b) bekezdése szerinti feltételek fennállását házassági anyakönyvi kivonattal, valamint halotti anyakönyvi kivonattal
 
-j)[^44] a 4. § (5) bekezdés b) pontja szerinti visszafizetés tényét – ha az az e rendelet szerinti kölcsönkérelem szerinti hitelintézettől eltérő hitelintézetnél történt – közokirattal vagy a másik hitelintézet által kiállított legalább teljes bizonyító erejű magánokirattal, és a házasság felbontása vagy érvénytelenségének megállapítása miatt történt visszafizetést a házassági perben a visszafizetést megelőzően meghozott bírósági határozattal, ennek hiányában a per visszafizetést megelőző megindítását igazoló közokirattal vagy teljes bizonyító erejű magánokirattal
+j)[^46] a 4. § (5) bekezdés b) pontja szerinti visszafizetés tényét – ha az az e rendelet szerinti kölcsönkérelem szerinti hitelintézettől eltérő hitelintézetnél történt – közokirattal vagy a másik hitelintézet által kiállított legalább teljes bizonyító erejű magánokirattal, és a házasság felbontása vagy érvénytelenségének megállapítása miatt történt visszafizetést a házassági perben a visszafizetést megelőzően meghozott bírósági határozattal, ennek hiányában a per visszafizetést megelőző megindítását igazoló közokirattal vagy teljes bizonyító erejű magánokiratba foglalt – a bírósági ügyszámot is tartalmazó – nyilatkozattal
 
 kell igazolni.
 
 (6) Az igénylők által benyújtott nyilatkozatok, okiratok valódiságát – ha a hitelintézettől elvárható gondosság tanúsítása mellett azok hamis vagy hamisított volta nem ismerhető fel – vélelmezni kell.
 
-(7)[^45] A hitelintézet az igénylők erre irányuló kérelme és hozzájáruló nyilatkozata esetén beszerzi az egészségbiztosítási pénztári feladatokat ellátó fővárosi és vármegyei kormányhivataltól a Tbj. szerinti biztosítási jogviszonyra vonatkozó adatokat.
+(7)[^47] A hitelintézet az igénylők erre irányuló kérelme és hozzájáruló nyilatkozata esetén beszerzi az egészségbiztosítási pénztári feladatokat ellátó fővárosi és vármegyei kormányhivataltól a Tbj. szerinti biztosítási jogviszonyra vonatkozó adatokat.
 
-(8)[^46] Amennyiben az igénylők személyazonossága a benyújtott okiratok adatai alapján megállapítható, az igénylők által benyújtott okiratokban feltüntetett adatok névviseléssel kapcsolatos esetleges változásai, eltérései az okiratok elfogadhatóságát nem akadályozzák.
+(8)[^48] Amennyiben az igénylők személyazonossága a benyújtott okiratok adatai alapján megállapítható, az igénylők által benyújtott okiratokban feltüntetett adatok névviseléssel kapcsolatos esetleges változásai, eltérései az okiratok elfogadhatóságát nem akadályozzák.
 
-[^32]: Az 5. § (2) bekezdés a) pont nyitó szövegrésze a 252/2020. (V. 29.) Korm. rendelet 32. § (1) bekezdés a) pontja, záró szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 198. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^33]: Az 5. § (2) bekezdés a) pont ai) alpontját a 252/2020. (V. 29.) Korm. rendelet 33. § b) pontja hatályon kívül helyezte.
-[^34]: Az 5. § (2) bekezdés b) pontja a 360/2019. (XII. 30.) Korm. rendelet 198. § (2) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^35]: Az 5. § (3) bekezdés a) pontja az 530/2021. (IX. 14.) Korm. rendelet 30. §-a szerint módosított szöveg.
-[^36]: Az 5. § (4) bekezdés a) pontja a 252/2020. (V. 29.) Korm. rendelet 33. § c) pontja szerint módosított szöveg.
-[^37]: Az 5. § (4) bekezdés b) pontja a 151/2019. (VI. 26.) Korm. rendelet 5. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 198. § (2) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
-[^38]: Az 5. § (5) bekezdés c) pontját a 252/2020. (V. 29.) Korm. rendelet 33. § d) pontja hatályon kívül helyezte.
-[^39]: Az 5. § (5) bekezdés d) pontja a 252/2020. (V. 29.) Korm. rendelet 19. § (1) bekezdésével megállapított, az 530/2021. (IX. 14.) Korm. rendelet 29. § d) pontja, a 616/2022. (XII. 29.) Korm. rendelet 292. § b) pontja, a 406/2023. (VIII. 30.) Korm. rendelet 43. § 2. pontja, a 262/2024. (VIII. 29.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
-[^40]: Az 5. § (5) bekezdés e) pontja a 252/2020. (V. 29.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
-[^41]: Az 5. § (5) bekezdés g) pontja a 35/2024. (II. 29.) Korm. rendelet 330. §-ával megállapított szöveg.
-[^42]: Az 5. § (5) bekezdés h) pontját a 252/2020. (V. 29.) Korm. rendelet 19. § (2) bekezdése iktatta be.
-[^43]: Az 5. § (5) bekezdés i) pontját az 530/2021. (IX. 14.) Korm. rendelet 26. § (2) bekezdése iktatta be.
-[^44]: Az 5. § (5) bekezdés j) pontját a 649/2023. (XII. 28.) Korm. rendelet 22. § (1) bekezdése iktatta be.
-[^45]: Az 5. § (7) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 198. § (2) bekezdés c) pontja, a 616/2022. (XII. 29.) Korm. rendelet 292. § b) pontja szerint módosított szöveg.
-[^46]: Az 5. § (8) bekezdését a 252/2020. (V. 29.) Korm. rendelet 19. § (3) bekezdése iktatta be.
+[^34]: Az 5. § (2) bekezdés a) pont nyitó szövegrésze a 252/2020. (V. 29.) Korm. rendelet 32. § (1) bekezdés a) pontja, záró szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 198. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^35]: Az 5. § (2) bekezdés a) pont ai) alpontját a 252/2020. (V. 29.) Korm. rendelet 33. § b) pontja hatályon kívül helyezte.
+[^36]: Az 5. § (2) bekezdés b) pontja a 360/2019. (XII. 30.) Korm. rendelet 198. § (2) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^37]: Az 5. § (3) bekezdés a) pontja az 530/2021. (IX. 14.) Korm. rendelet 30. §-a szerint módosított szöveg.
+[^38]: Az 5. § (4) bekezdés a) pontja a 252/2020. (V. 29.) Korm. rendelet 33. § c) pontja szerint módosított szöveg.
+[^39]: Az 5. § (4) bekezdés b) pontja a 151/2019. (VI. 26.) Korm. rendelet 5. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 198. § (2) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^40]: Az 5. § (5) bekezdés c) pontját a 252/2020. (V. 29.) Korm. rendelet 33. § d) pontja hatályon kívül helyezte.
+[^41]: Az 5. § (5) bekezdés d) pontja a 252/2020. (V. 29.) Korm. rendelet 19. § (1) bekezdésével megállapított, az 530/2021. (IX. 14.) Korm. rendelet 29. § d) pontja, a 616/2022. (XII. 29.) Korm. rendelet 292. § b) pontja, a 406/2023. (VIII. 30.) Korm. rendelet 43. § 2. pontja, a 262/2024. (VIII. 29.) Korm. rendelet 1. § c) pontja, a 388/2024. (XII. 11.) Korm. rendelet 23. § 4. pontja szerint módosított szöveg.
+[^42]: Az 5. § (5) bekezdés e) pontja a 252/2020. (V. 29.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^43]: Az 5. § (5) bekezdés g) pontja a 35/2024. (II. 29.) Korm. rendelet 330. §-ával megállapított szöveg.
+[^44]: Az 5. § (5) bekezdés h) pontját a 252/2020. (V. 29.) Korm. rendelet 19. § (2) bekezdése iktatta be.
+[^45]: Az 5. § (5) bekezdés i) pontját az 530/2021. (IX. 14.) Korm. rendelet 26. § (2) bekezdése iktatta be.
+[^46]: Az 5. § (5) bekezdés j) pontját a 649/2023. (XII. 28.) Korm. rendelet 22. § (1) bekezdése iktatta be, szövege a 388/2024. (XII. 11.) Korm. rendelet 23. § 5. pontja szerint módosított szöveg.
+[^47]: Az 5. § (7) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 198. § (2) bekezdés c) pontja, a 616/2022. (XII. 29.) Korm. rendelet 292. § b) pontja szerint módosított szöveg.
+[^48]: Az 5. § (8) bekezdését a 252/2020. (V. 29.) Korm. rendelet 19. § (3) bekezdése iktatta be.

@@ -1,4 +1,4 @@
-3. melléklet a 44/2019. (III. 12.) Korm. rendelethez[^161]
+3. melléklet a 44/2019. (III. 12.) Korm. rendelethez[^174]
 
 Igazolás a magzat elhalásáról a babaváró támogatásról szóló 44/2019. (III. 12.) Korm. rendelet szerinti kedvezmények és támogatások igénybevételéhez
 
@@ -28,4 +28,4 @@ III. Az igazolást kiállító szülész-nőgyógyász szakorvos adatai
 
 4. szakorvos aláírása és bélyegzője
 
-[^161]: A 3. mellékletet a 252/2020. (V. 29.) Korm. rendelet 31. § b) pontja iktatta be.
+[^174]: A 3. mellékletet a 252/2020. (V. 29.) Korm. rendelet 31. § b) pontja iktatta be.

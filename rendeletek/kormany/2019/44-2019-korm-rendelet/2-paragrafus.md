@@ -1,6 +1,6 @@
 2. § (1) E rendelet alkalmazásában:
 
-1.[^2] gyermek: az igénylők, illetve a támogatott személyek vér szerinti és velük közös háztartásban – a várandósság 12. hete utáni időszakban elhalt magzat, valamint a halva született és az elhunyt gyermek kivételével – élő gyermeke, ideértve a magzatot a várandósság betöltött 12. hetétől (a továbbiakban: magzat), valamint az igénylők által közösen örökbefogadott gyermek,
+1.[^2] gyermek: az igénylők, illetve a támogatott személyek vér szerinti és velük közös háztartásban – a várandósság 12. hete utáni időszakban elhalt magzat, valamint a halva született magzat és az elhunyt gyermek kivételével – élő gyermeke, ideértve a magzatot a várandósság betöltött 12. hetétől (a továbbiakban: magzat), valamint az igénylők által közösen örökbefogadott gyermek,
 
 2. hitelintézet: magyarországi székhellyel vagy fiókteleppel rendelkező hitelintézet,
 
@@ -18,7 +18,7 @@
 
 (3)[^7] E rendelet alkalmazásában az iratok vagy azok másolatának megküldése alatt a papíralapú és az elektronikus úton történő küldést egyaránt érteni kell.
 
-[^2]: A 2. § (1) bekezdés 1. pontja a 252/2020. (V. 29.) Korm. rendelet 32. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdés 1. pontja a 252/2020. (V. 29.) Korm. rendelet 32. § (1) bekezdés a) pontja, a 388/2024. (XII. 11.) Korm. rendelet 23. § 1. pontja szerint módosított szöveg.
 [^3]: A 2. § (1) bekezdés 3. pontja a 406/2023. (VIII. 30.) Korm. rendelet 43. § 1. pontja, a 303/2023. (VII. 11.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
 [^4]: A 2. § (1) bekezdés 5. pontja a 406/2023. (VIII. 30.) Korm. rendelet 38. §-ával megállapított szöveg.
 [^5]: A 2. § (1a) bekezdését a 252/2020. (V. 29.) Korm. rendelet 16. § (1) bekezdése iktatta be.

@@ -1,4 +1,4 @@
-26. § (1)[^124] A hitelintézet – az eAdaton található útmutató szerinti formában, haladéktalanul – ellenőrzési célból megküldi a kincstár részére
+26. § (1)[^135] A hitelintézet – az eAdaton található útmutató szerinti formában, haladéktalanul – ellenőrzési célból megküldi a kincstár részére
 
 a) a kölcsönszerződés megkötésének, módosításának vagy megszűnésének adatait,
 
@@ -18,13 +18,13 @@ c) azon gyermekek
 
 ca) nevét,
 
-cb)[^125]
+cb)[^136]
 
 cc) adóazonosító jelét,
 
 akikre tekintettel a babaváró támogatásokat igénybe veszik.
 
-(2)[^126] A hitelintézet negyedévente – a negyedév utolsó hónapjának elszámolásával egyidejűleg – elektronikus úton személyes adatokat nem tartalmazó adatszolgáltatást teljesít a miniszter, valamint a családpolitikáért felelős miniszter részére. Az adatszolgáltatás kiterjed a hitelintézet által megkötött támogatási szerződések számára, összegére, fennálló állományára és a hitelintézet által benyújtott elszámolás keretében lehívott babaváró támogatások összegeire.
+(2)[^137] A hitelintézet negyedévente – a negyedév utolsó hónapjának elszámolásával egyidejűleg – elektronikus úton személyes adatokat nem tartalmazó adatszolgáltatást teljesít a miniszter, valamint a családpolitikáért felelős miniszter részére. Az adatszolgáltatás kiterjed a hitelintézet által megkötött támogatási szerződések számára, összegére, fennálló állományára és a hitelintézet által benyújtott elszámolás keretében lehívott babaváró támogatások összegeire.
 
 (3) A hitelintézet az adatszolgáltatását az (1) bekezdés szerinti esetben a kincstár, a (2) bekezdés szerinti esetben a miniszter kérésére felülvizsgálja, és szükség esetén a javított adatszolgáltatást ismételten megküldi.
 
@@ -42,6 +42,6 @@ a hitelintézet részére történő folyósítását felfüggesztheti.
 
 (7) Az adatszolgáltatási kötelezettséget a hitelintézet megbízásából másik hitelintézet is teljesítheti. A megbízási szerződésnek ki kell terjednie a megbízott hitelintézet felelősségére.
 
-[^124]: A 26. § (1) bekezdés nyitó szövegrésze a 252/2020. (V. 29.) Korm. rendelet 32. § (1) bekezdés n) pontja szerint módosított szöveg.
-[^125]: A 26. § (1) bekezdés c) pont cb) alpontját a 252/2020. (V. 29.) Korm. rendelet 33. § f) pontja hatályon kívül helyezte.
-[^126]: A 26. § (2) bekezdése a 406/2023. (VIII. 30.) Korm. rendelet 43. § 16. pontja szerint módosított szöveg.
+[^135]: A 26. § (1) bekezdés nyitó szövegrésze a 252/2020. (V. 29.) Korm. rendelet 32. § (1) bekezdés n) pontja szerint módosított szöveg.
+[^136]: A 26. § (1) bekezdés c) pont cb) alpontját a 252/2020. (V. 29.) Korm. rendelet 33. § f) pontja hatályon kívül helyezte.
+[^137]: A 26. § (2) bekezdése a 406/2023. (VIII. 30.) Korm. rendelet 43. § 16. pontja szerint módosított szöveg.
