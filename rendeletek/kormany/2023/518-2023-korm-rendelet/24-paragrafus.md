@@ -2,11 +2,11 @@
 
 a) lakás vásárlása esetén az adásvételi szerződés megkötését követő 180 napon belül,
 
-b)[^24] lakás építési engedélyhez vagy egyszerű bejelentéshez kötött bővítése esetén a használatbavételi engedély kiadását megelőzően,
+b)[^42] lakás építési engedélyhez vagy egyszerű bejelentéshez kötött bővítése esetén a használatbavételi engedély kiadását megelőzően,
 
-c)[^25]
+c)[^43]
 
-d)[^26] lakás építése esetén a használatbavételi engedély kiállítását, valamint a 6. § (7) bekezdése szerinti esetben az építési tevékenység befejezését megelőzően
+d)[^44] lakás építése esetén a használatbavételi engedély kiállítását, valamint a 6. § (7) bekezdése szerinti esetben az építési tevékenység befejezését megelőzően
 
 lehet kérni a hitelintézettől.
 
@@ -28,6 +28,6 @@ bírálja el.
 
 (7) Ha a lakás vásárlását, építését vagy bővítését az igénylők kamattámogatással nem érintett kölcsön igénybevételével tudják megvalósítani, a kamattámogatott kölcsön abban az esetben igényelhető, ha a hitelintézet az igénylőket a kamattámogatással nem érintett kölcsön felvételéhez is hitelképesnek minősíti.
 
-[^24]: A 24. § (1) bekezdés b) pontja a 285/2024. (IX. 30.) Korm. rendelet 198. § h) pontja és 199. § 14. pontja szerint módosított szöveg.
-[^25]: A 24. § (1) bekezdés c) pontját a 285/2024. (IX. 30.) Korm. rendelet 199. § 15. pontja hatályon kívül helyezte.
-[^26]: A 24. § (1) bekezdés d) pontja a 285/2024. (IX. 30.) Korm. rendelet 198. § i) pontja szerint módosított szöveg.
+[^42]: A 24. § (1) bekezdés b) pontja a 285/2024. (IX. 30.) Korm. rendelet 198. § h) pontja és 199. § 14. pontja szerint módosított szöveg.
+[^43]: A 24. § (1) bekezdés c) pontját a 285/2024. (IX. 30.) Korm. rendelet 199. § 15. pontja hatályon kívül helyezte.
+[^44]: A 24. § (1) bekezdés d) pontja a 285/2024. (IX. 30.) Korm. rendelet 198. § i) pontja szerint módosított szöveg.

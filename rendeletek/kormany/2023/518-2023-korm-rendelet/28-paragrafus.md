@@ -6,13 +6,13 @@
 
 3. a három hónapot meghaladó tartózkodás jogát a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény szerinti regisztrációs igazolással, érvényes tartózkodási kártyával vagy állandó tartózkodási kártyával,
 
-4.[^27] a huzamos tartózkodási jogosultságot bevándorlási engedéllyel, letelepedési engedéllyel, ideiglenes letelepedési engedéllyel, nemzeti letelepedési engedéllyel, EK letelepedési engedéllyel, ideiglenes tartózkodási kártyával, nemzeti tartózkodási kártyával, EU tartózkodási kártyával, a hontalan jogállást a hontalankénti elismerésről szóló határozattal vagy a jogállást igazoló hatósági igazolással,
+4.[^47] a huzamos tartózkodási jogosultságot bevándorlási engedéllyel, letelepedési engedéllyel, ideiglenes letelepedési engedéllyel, nemzeti letelepedési engedéllyel, EK letelepedési engedéllyel, ideiglenes tartózkodási kártyával, nemzeti tartózkodási kártyával, EU tartózkodási kártyával, a hontalan jogállást a hontalankénti elismerésről szóló határozattal vagy a jogállást igazoló hatósági igazolással,
 
 5. a saját adóazonosító jelüket adóigazolvánnyal, ideiglenes adóigazolvánnyal vagy az adóazonosító jel igazolására szolgáló hatósági bizonyítvánnyal,
 
 6. a várandósság betöltött 12. hetét a várandósgondozásban részt vevő szülész-nőgyógyász szakorvos által kiállított, a várandósság tényéről és annak 12. hete betöltésének napjáról, a szülés várható időpontjáról és a magzatok számáról szóló igazolással,
 
-7.[^28] a 15. § (1) bekezdés c) pontjában, a 15. § (3) bekezdésében, valamint a (2) és (3) bekezdésben foglaltakat az egészségbiztosítási pénztári feladatkörében eljáró fővárosi és vármegyei kormányhivatal által a tanúsítani kívánt, 15. § (1) bekezdés c) pontja szerinti időtartam feltüntetésével kiállított igazolással, illetve az illetékes külföldi hatóság vagy a nemzetközi szervezet által kiállított, 30 napnál nem régebbi igazolással és annak hiteles magyar nyelvű fordításával, a Magyarországon végzett keresőtevékenységet az azt létesítő szerződéssel, a kiegészítő tevékenységet folytató személynek minősülést a Tbj. 4. § 17. pontja szerinti ellátás vagy az özvegyi nyugdíj megállapításáról rendelkező okirattal, valamint a keresőtevékenységre irányuló jogviszonyról a foglalkoztató által teljes bizonyító erejű magánokiratként kiállított igazolással, vagy egyéni vállalkozó esetén a Tbj. 4. § 2. pontja szerinti hatósági nyilvántartásból kiállított hatósági bizonyítvánnyal, illetve igazolvánnyal, engedéllyel vagy kamara, kar által kiállított igazolással, a 15. § (1) bekezdés c) pont cb) alpontja szerinti külföldi tanulmányokat az azok időtartamáról szóló, a külföldi felsőoktatási intézmény által kiadott igazolással és annak hiteles magyar nyelvű fordításával, valamint a külföldi bizonyítványok és oklevelek elismeréséért felelős hatóság egyenértékűségről szóló állásfoglalásával,
+7.[^48] a 15. § (1) bekezdés c) pontjában, a 15. § (3) bekezdésében, valamint a (2) és (3) bekezdésben foglaltakat az egészségbiztosítási pénztári feladatkörében eljáró fővárosi és vármegyei kormányhivatal által a tanúsítani kívánt, 15. § (1) bekezdés c) pontja szerinti időtartam feltüntetésével kiállított igazolással, illetve az illetékes külföldi hatóság vagy a nemzetközi szervezet által kiállított, 30 napnál nem régebbi igazolással és annak hiteles magyar nyelvű fordításával, a Magyarországon végzett keresőtevékenységet az azt létesítő okirattal, a kiegészítő tevékenységet folytató személynek minősülést a Tbj. 4. § 17. pontja szerinti ellátás vagy az özvegyi nyugdíj megállapításáról rendelkező okirattal, valamint a keresőtevékenységre irányuló jogviszonyról a foglalkoztató által teljes bizonyító erejű magánokiratként kiállított igazolással, vagy egyéni vállalkozó esetén a Tbj. 4. § 2. pontja szerinti hatósági nyilvántartásból kiállított hatósági bizonyítvánnyal, illetve igazolvánnyal, engedéllyel vagy kamara, kar által kiállított igazolással, a 15. § (1) bekezdés c) pont cb) alpontja szerinti külföldi tanulmányokat az azok időtartamáról szóló, a külföldi felsőoktatási intézmény által kiadott igazolással és annak hiteles magyar nyelvű fordításával, valamint a külföldi bizonyítványok és oklevelek elismeréséért felelős hatóság egyenértékűségről szóló állásfoglalásával,
 
 8. a tulajdonjog megszerzésére irányuló szándékot adásvételi szerződéssel,
 
@@ -32,7 +32,11 @@ b) a tervezési díjról szóló számlával és
 
 c) az elektronikus építési naplóval,
 
-11. a 6. § (8) bekezdése szerinti, korábban elidegenített lakás eladási árát tulajdoni lappal, illetve adásvételi szerződéssel, a meglévő lakás forgalmi értékét tulajdoni lappal, valamint ingatlanforgalmi értékbecslés keretében kiállított szakvéleménnyel.
+11.[^49] a 6. § (8) bekezdése szerinti, korábban elidegenített lakás eladási árát tulajdoni lappal, illetve adásvételi szerződéssel, a meglévő, az ingyenesen átruházott vagy a lebontott lakás forgalmi értékét tulajdoni lappal, valamint ingatlanforgalmi értékbecslés keretében – ingyenesen átruházott vagy lebontott lakás esetén az átruházást vagy a bontást megelőzően – kiállított szakvéleménnyel.
+
+12.[^50] az igénylő építőközösségi tagságát építőközösségi szerződéssel,
+
+13.[^51] az 5. § (1) bekezdés 2. pontja szerinti önálló tető- és épületszerkezettel rendelkezés tényét – amennyiben az a 8. § szerinti helyszíni szemle során nem állapítható meg – az épület építészeti-műszaki dokumentációjával vagy építésügyi műszaki szakértő által készített szakvéleménnyel.
 
 (2) Nagy-Britannia és Észak-Írország Egyesült Királysága esetében – amennyiben az (1) bekezdés 7. pontja szerinti igazolás nem megfelelő volta vagy hiánya miatt a hitelintézet a kölcsönkérelmet elutasítja – a kormányhivatal a 27. § (1) bekezdése szerinti hatósági eljárás során, az igénylők külön kérelmére, méltányosság keretében
 
@@ -86,7 +90,11 @@ ic) bírósági határozattal,
 
 j) a gyámság vagy gondnokság fennállását és a törvényes képviseletre való jogosultságot a gyámhatóság által kiállított tanúsítvánnyal.
 
-(8) A 6. § (7) bekezdése szerinti esetben az abban foglaltakat, valamint a 15. § (5) bekezdés d) pont df) és dg) alpontja, a 19. § (4) bekezdése, a 24. § (1) bekezdés b)–d) pontja, valamint a 31. § (1) és (2) bekezdése szerinti tényeket a hitelintézet a 8. § (1) bekezdése szerinti helyszíni szemle útján ellenőrzi.
+(8)[^52] A 6. § (7) bekezdése szerinti esetben az abban foglaltakat, valamint a 15. § (5) bekezdés d) pont df) és dg) alpontja, valamint e) pontja, a 19. § (4) bekezdése, a 24. § (1) bekezdés b)–d) pontja, valamint a 31. § (1) és (2) bekezdése szerinti tényeket a hitelintézet a 8. § (1) bekezdése szerinti helyszíni szemle útján ellenőrzi.
 
-[^27]: A 28. § (1) bekezdés 4. pontja a 35/2024. (II. 29.) Korm. rendelet 346. §-ával megállapított szöveg.
-[^28]: A 28. § (1) bekezdés 7. pontja a 262/2024. (VIII. 29.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^47]: A 28. § (1) bekezdés 4. pontja a 35/2024. (II. 29.) Korm. rendelet 346. §-ával megállapított szöveg.
+[^48]: A 28. § (1) bekezdés 7. pontja a 262/2024. (VIII. 29.) Korm. rendelet 3. § b) pontja, a 388/2024. (XII. 11.) Korm. rendelet 48. § 18. pontja szerint módosított szöveg.
+[^49]: A 28. § (1) bekezdés 11. pontja a 388/2024. (XII. 11.) Korm. rendelet 48. § 19. pontja szerint módosított szöveg.
+[^50]: A 28. § (1) bekezdés 12. pontját a 388/2024. (XII. 11.) Korm. rendelet 37. §-a iktatta be.
+[^51]: A 28. § (1) bekezdés 13. pontját a 388/2024. (XII. 11.) Korm. rendelet 37. §-a iktatta be.
+[^52]: A 28. § (8) bekezdése a 388/2024. (XII. 11.) Korm. rendelet 48. § 20. pontja szerint módosított szöveg.

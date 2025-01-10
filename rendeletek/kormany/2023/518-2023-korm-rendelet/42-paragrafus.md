@@ -2,7 +2,7 @@
 
 (2) Ha – a kisajátítás esete kivételével – a támogatott személy eladók a kölcsönnel érintett lakás elidegenítéséből származó – a (7) bekezdésben foglaltakkal csökkentett – bevételnek csak egy részét fordították a 41. § (2) bekezdés d) pontja szerinti újabb lakás megszerzésére, úgy a kamattámogatásnak, illetve gyermekvállalási támogatásnak a lakás elidegenítéséből származó – a (7) bekezdés szerint csökkentett – bevétel és a vételár vagy bekerülési költség különbözetével arányos részét kell visszafizetniük. A kormányhivatal a határozatával a visszafizetési kötelezettség alá nem eső kamattámogatás, illetve gyermekvállalási támogatás hányadára jutó jelzálogjogot, továbbá annak biztosítására az elidegenítési és terhelési tilalmat az újabb ingatlanra az állam javára bejegyezteti.
 
-(3) A (2) bekezdés esetén a visszafizetési kötelezettség alá nem eső kamattámogatás, illetve gyermekvállalási támogatás összegének megfelelő jelzálogjog, valamint elidegenítési és terhelési tilalom újabb lakásra való átjegyzésének feltétele, hogy a támogatott személyek a kamattámogatás, illetve gyermekvállalási támogatás összegének – a (7) bekezdés szerint csökkentett – eladási ár, valamint a vételár vagy bekerülési költség különbözetével arányos részét visszafizessék, és a kölcsön végtörlesztését hitelt érdemlően igazolják.
+(3)[^97] A (2) bekezdés esetén a visszafizetési kötelezettség alá nem eső kamattámogatás, illetve gyermekvállalási támogatás összegének megfelelő jelzálogjog, valamint elidegenítési és terhelési tilalom újabb lakásra való átjegyzésének feltétele, hogy a támogatott személyek a kamattámogatás, illetve gyermekvállalási támogatás összegének – a (7) bekezdés szerint csökkentett – eladási ár, valamint a vételár vagy bekerülési költség különbözetével arányos részét visszafizessék.
 
 (4) A támogatott személyek
 
@@ -18,10 +18,14 @@ számított 30 napon belül kötelesek a kormányhivatalnak bejelenteni az ezekr
 
 (6) Ha a támogatott személyek a (4) bekezdésben foglalt bejelentési kötelezettségüknek késve, vagy egyáltalán nem tesznek eleget, akkor őket a visszafizetési kötelezettség a bontás, a lakáscéltól eltérő hasznosítás megkezdésének, az életvitelszerű bentlakását is magában foglaló lakóhely vagy hontalan esetén szálláshely megváltoztatásának, a lakáshasználat átengedésének, illetve a lakás elidegenítésére vonatkozó szerződés megkötésének napjától számított, a jegybanki alapkamat 5 százalékponttal megemelt mértékének megfelelő kamattal növelten terheli, és a kamattámogatás is a jövőre nézve megszűnik.
 
-(7) A korábbi lakás elidegenítéséből származó bevétel csökkenthető
+(7)[^98] A korábbi lakás elidegenítéséből származó bevétel csökkenthető
 
 a) a lakás átruházásából származó jövedelem után az állami adóhatóság által igazoltan megfizetett személyi jövedelemadó összegével,
 
-b) azzal az összeggel, amelyet az adós az elidegenítésből származó bevételből az értékesített lakás építését vagy vásárlását szolgáló lakáscélú hitelintézeti kölcsön egyösszegű előtörlesztésére és annak díjára fordított,
+b)[^99] azzal az összeggel, amelyet az adós az elidegenítésből származó bevételből az értékesített lakás építését, bővítését, korszerűsítését vagy vásárlását szolgáló lakáscélú hitelintézeti kölcsön egyösszegű előtörlesztésére és annak díjára fordított,
 
-de legfeljebb akkora összeggel, hogy az így csökkentett bevétel összege elérje az igénybe vett kölcsön összegének kétszeresét.
+de legfeljebb akkora összeggel, hogy az így csökkentett bevétel összege elérje az igénybe vett kamattámogatás és gyermekvállalási támogatás összegének kétszeresét.
+
+[^97]: A 42. § (3) bekezdése a 388/2024. (XII. 11.) Korm. rendelet 49. § g) pontja szerint módosított szöveg.
+[^98]: A 42. § (7) bekezdés záró szövegrésze a 388/2024. (XII. 11.) Korm. rendelet 48. § 35. pontja szerint módosított szöveg.
+[^99]: A 42. § (7) bekezdés b) pontja a 388/2024. (XII. 11.) Korm. rendelet 48. § 36. pontja szerint módosított szöveg.

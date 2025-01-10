@@ -2,6 +2,8 @@
 
 (2) A kormányhivatal a támogatott személyeknél a kölcsön igénybevételének jogszerűségét hatósági ellenőrzés keretében vizsgálja.
 
-(3) Ha az állami adóhatóság az (1) bekezdés szerinti, vagy a kormányhivatal a (2) bekezdés szerinti hatósági ellenőrzés során megállapítja, hogy a támogatott személyek jogosulatlanul vették igénybe a kölcsönt, határozatban intézkedik a kamattámogatás – az e rendeletben meghatározott esetekben kamattal növelt összegének – visszatérítése iránt.
+(3)[^56] Ha az állami adóhatóság az (1) bekezdés szerinti, vagy a kormányhivatal a (2) bekezdés szerinti hatósági ellenőrzés során megállapítja, hogy a támogatott személyek jogosulatlanul vették igénybe a kölcsönt, határozatban intézkedik a kamattámogatás – az e rendeletben meghatározott esetekben kamattal növelt összegének – visszatérítése iránt, és a kamattámogatás a jövőre nézve megszűnik.
 
 (4) Az állami adóhatóság az (1) bekezdésben foglalt, a kormányhivatal a (2) bekezdésben foglalt ellenőrzést követő eljárás eredményéről a folyósító hitelintézetet írásban tájékoztatja.
+
+[^56]: A 30. § (3) bekezdése a 388/2024. (XII. 11.) Korm. rendelet 48. § 21. pontja szerint módosított szöveg.

@@ -44,7 +44,7 @@ b) olyan ikerház, sorház vagy láncház, amelyben a kölcsönnel érintett lak
 
 3. első közös lakásszerzők: azok a házastársak, akik a lakás építésére vagy vásárlására irányuló kölcsönkérelmük benyújtásakor vagy azt megelőzően Magyarország területén nem rendelkeztek ugyanabban a lakásban mindketten tulajdonjoggal, és erről nyilatkozatot tesznek;
 
-4.[^1] életvitelszerű bentlakás: a kölcsönnel érintett lakásnak a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti bejelentett lakóhelyként – hontalan esetén a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény szerinti szálláshelyként – történő életvitelszerű használata;
+4.[^2] életvitelszerű bentlakás: a kölcsönnel érintett lakásnak a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti bejelentett lakóhelyként – hontalan esetén a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény szerinti szálláshelyként – történő életvitelszerű használata;
 
 5. házaspár: házastársak, akik közül a feleség a kölcsön iránti kérelem benyújtásának időpontjában még nem töltötte be a 41. életévét;
 
@@ -54,9 +54,9 @@ a) a magzat a várandósság betöltött 12. hetét követően, valamint
 
 b) aki az igénylő vér szerinti vagy örökbefogadott eltartott gyermeke, és a 25. életévét még nem töltötte be, vagy betöltötte, de megváltozott munkaképességű személynek minősül;
 
-6a.[^2] használatbavételi engedély: a használatbavételi engedély, a használatbavétel tudomásulvételéről az építésügyi hatóság által kiállított dokumentum, vagy a felépítés megtörténtét tanúsító hatósági bizonyítvány;
+6a.[^3] használatbavételi engedély: a használatbavételi engedély, a használatbavétel tudomásulvételéről az építésügyi hatóság által kiállított dokumentum, vagy a felépítés megtörténtét tanúsító hatósági bizonyítvány;
 
-7.[^3] hasznos alapterület: a lakáson belül közvetlenül megközelíthető, következő helyiségek – a magyar építészetről szóló 2023. évi C. törvény (a továbbiakban: Méptv.) 16. § 56. pontja szerint számított – hasznos alapterületének összege:
+7.[^4] hasznos alapterület: a lakáson belül közvetlenül megközelíthető, következő helyiségek – a magyar építészetről szóló 2023. évi C. törvény (a továbbiakban: Méptv.) 16. § 56. pontja szerint számított – hasznos alapterületének összege:
 
 a) előszoba, közlekedő,
 
@@ -102,18 +102,19 @@ e) közműves ivóvíz-szolgáltatással, vagy ha a településen (településr�
 
 10. lejárt tőketartozás: a kölcsönszerződés felmondása miatt esedékessé vált tőketartozás, valamint a fel nem mondott kölcsönszerződésből eredő lejárt tőketartozás, amelynek törlesztési késedelme a 30 napot meghaladja;
 
-11. megváltozott munkaképességű személy: akinek a rehabilitációs hatóság komplex minősítése alapján egészségi állapota legfeljebb 50 százalékos mértékű, vagy a rehabilitációs hatóság jogelődjei által végzett hatályos minősítés alapján egészségkárosodása legalább 50 százalékos mértékű, vagy 2008. január 1-jét megelőzően kiállított hatályos szakvéleménye szerint a munkaképességét legalább 67 százalékban elvesztette, vagy aki után az igénylő gyermekek otthongondozási díjában részesül;
+11.[^5] megváltozott munkaképességű személy: akinek a rehabilitációs hatóság komplex minősítése alapján egészségi állapota legfeljebb 50 százalékos mértékű, vagy a rehabilitációs hatóság jogelődjei által végzett hatályos minősítés alapján egészségkárosodása legalább 50 százalékos mértékű, vagy 2008. január 1-jét megelőzően kiállított hatályos szakvéleménye szerint a munkaképességét legalább 67 százalékban elvesztette, vagy aki után az igénylő gyermekek otthongondozási díjában vagy ápolási díjban részesül;
 
 12. támogatott személy: akivel a hitelintézet a CSOK Plusz hitelprogram keretében elérhető kölcsön igénybevételére kölcsönszerződést köt;
 
-13.[^4] új lakás: a meglévő épület vagy épületrész átalakítása kivételével az alapozási munkáktól kezdődően – kivéve, ha a meglévő alap szakértői vélemény alapján felhasználható – újonnan épített lakás, amelynek az elkészülte használatbavételi engedéllyel igazolható, ideértve a tanyán vagy birtokközpontban található lakóépületet is;
+13.[^6] új lakás: a meglévő épület vagy épületrész átalakítása kivételével az alapozási munkáktól kezdődően – kivéve, ha a meglévő alap szakértői vélemény alapján felhasználható – újonnan épített lakás, amelynek az elkészülte használatbavételi engedéllyel igazolható, ideértve a tanyán vagy birtokközpontban található lakóépületet is;
 
 14. ügyleti kamat: a kölcsön szerződésszerű törlesztése során a hitelező által érvényesített, a kölcsönösszeg éves százalékos mértékében meghatározott ellenszolgáltatás.
 
-(2)[^5] Az e rendeletben meg nem határozott fogalmakat a Polgári Törvénykönyvről szóló 2013. évi V. törvényben (a továbbiakban: Ptk.), a Hpt.-ben, a Méptv.-ben, valamint a településrendezési és építési követelményekről szóló kormányrendeletben meghatározottak szerint kell értelmezni.
+(2)[^7] Az e rendeletben meg nem határozott fogalmakat a Polgári Törvénykönyvről szóló 2013. évi V. törvényben (a továbbiakban: Ptk.), a Hpt.-ben, a Méptv.-ben, valamint a településrendezési és építési követelményekről szóló kormányrendeletben meghatározottak szerint kell értelmezni.
 
-[^1]: Az 5. § (1) bekezdés 4. pontja a 35/2024. (II. 29.) Korm. rendelet 347. §-a szerint módosított szöveg.
-[^2]: Az 5. § (1) bekezdés 6a. pontját a 285/2024. (IX. 30.) Korm. rendelet 197. §-a iktatta be.
-[^3]: Az 5. § (1) bekezdés 7. pont nyitó szövegrésze a 285/2024. (IX. 30.) Korm. rendelet 198. § a) pontja szerint módosított szöveg.
-[^4]: Az 5. § (1) bekezdés 13. pontja a 285/2024. (IX. 30.) Korm. rendelet 199. § 1. pontja szerint módosított szöveg.
-[^5]: Az 5. § (2) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 198. § b) pontja szerint módosított szöveg.
+[^2]: Az 5. § (1) bekezdés 4. pontja a 35/2024. (II. 29.) Korm. rendelet 347. §-a szerint módosított szöveg.
+[^3]: Az 5. § (1) bekezdés 6a. pontját a 285/2024. (IX. 30.) Korm. rendelet 197. §-a iktatta be.
+[^4]: Az 5. § (1) bekezdés 7. pont nyitó szövegrésze a 285/2024. (IX. 30.) Korm. rendelet 198. § a) pontja szerint módosított szöveg.
+[^5]: Az 5. § (1) bekezdés 11. pontja a 388/2024. (XII. 11.) Korm. rendelet 48. § 2. pontja szerint módosított szöveg.
+[^6]: Az 5. § (1) bekezdés 13. pontja a 285/2024. (IX. 30.) Korm. rendelet 199. § 1. pontja szerint módosított szöveg.
+[^7]: Az 5. § (2) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 198. § b) pontja szerint módosított szöveg.

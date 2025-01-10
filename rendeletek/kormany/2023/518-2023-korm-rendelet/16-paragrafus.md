@@ -8,4 +8,6 @@ b) és a kölcsönkérelem benyújtásakor a 15. § (1) bekezdés c) pontjában 
 
 (3) Az (1) és (2) bekezdés szerinti esetben a 15. § (5) bekezdés d) pont dh) alpontja szerint vállalt kötelezettséget a kölcsönszerződés megszüntetését kezdeményező adósnak legalább a kölcsönszerződés személyére vonatkozóan való megszüntetése céljából történő módosításának időpontjáig kell teljesítenie. Ha a kölcsönnel érintett lakás vonatkozásában a támogatott személyek valamelyike a kölcsönszerződés módosításának időpontjáig a 15. § (5) bekezdés d) pont dh) alpontja szerint vállalt kötelezettséget nem teljesíti, a támogatott személyeket a támogatás igénybevételétől esedékes – az e rendelet szerinti kamatfizetési kötelezettséggel növelt – visszafizetési kötelezettség terheli, és a kötelemben maradó adós a kamattámogatásra nem jogosult.
 
-(4) Ha a gyermekvállalás teljesítését megelőzően a kölcsönszerződést az egyik támogatott személyre vonatkozóan megszüntetik, akkor a 37. § (1) bekezdése szerint kell eljárni.
+(4)[^29] Ha a gyermekvállalás teljesítését megelőzően a kölcsönszerződés legalább az egyik támogatott személyre vonatkozóan bármilyen módon megszűnik, akkor a 37. § (1) bekezdése szerint kell eljárni, akként, mintha a gyermekvállalási határidő lejárt volna.
+
+[^29]: A 16. § (4) bekezdése a 388/2024. (XII. 11.) Korm. rendelet 35. §-ával megállapított szöveg.
