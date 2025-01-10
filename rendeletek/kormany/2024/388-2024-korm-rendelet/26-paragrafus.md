@@ -1,3 +1,3 @@
-26. §[^47]
+26. § Az R7. 30. § (1) bekezdése a következő 12. és 13. ponttal egészül ki:
 
-[^47]: A 26. § az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+(A családi otthonteremtési kedvezményre való jogosultság feltételeinek meglétét az igénylő a következők szerint igazolja:)

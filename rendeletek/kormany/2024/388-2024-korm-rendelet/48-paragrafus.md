@@ -1,146 +1,101 @@
 48. § Az R8.
 
-1.[^111]
+1. 2. § (1) bekezdésében az „igényelhető.” szövegrész helyébe az „igényelhető, azzal, hogy e bekezdés alkalmazásában az 5. § (1) bekezdés 6. pont a) alpontja szerinti gyermeket is vállalt gyermeknek kell tekinteni.” szöveg,
 
-2.[^112]
+2. 5. § (1) bekezdés 11. pontjában a „díjában” szövegrész helyébe a „díjában vagy ápolási díjban” szöveg,
 
-3.[^113]
+3. 8. § (1) bekezdésében a „műszaki” szövegrészek helyébe az „építésügyi műszaki” szöveg,
 
-4.[^114]
+4. 12. § (7) bekezdésében a „költségek” szövegrész helyébe a „költségek – ideértve a gyermekvállalási támogatás költségvetéssel való elszámolását is –” szöveg,
 
-5.[^115]
+5. 12. § (9) bekezdés a) pontjában a „kölcsön folyósítása” szövegrész helyébe a „kölcsön – vagy részfolyósítás esetén annak első részlete – folyósításának” szöveg,
 
-6.[^116]
+6. 15. § (1) bekezdés c) pontjában a „ha abban egybefüggően legfeljebb 30 nap megszakítás van,” szövegrész helyébe a „ha abban egybefüggően legfeljebb 30 nap – illetve a cb) alpont szerinti hallgatói jogviszony megszűnését követően legfeljebb 6 hónap – megszakítás van,” szöveg,
 
-7.[^117]
+7. 15. § (5) bekezdés a) pontjában a „hitelprogram feltételeinek teljesítésére irányuló nyilatkozatukban foglalt adatokra” szövegrész helyébe a „hitelprogram elemeire” szöveg,
 
-8.[^118]
+8. 15. § (5) bekezdés b) pont bc) alpontjában a „gyermekvállalásukról” szövegrész helyébe a „közös gyermekvállalásukról” szöveg,
 
-9.[^119]
+9. 15. § (5) bekezdés d) pont dh) alpontjában a „számított 10 évig” szövegrész helyébe az „a 18. § (1) bekezdésével megegyezően számított 10 évig” szöveg,
 
-10.[^120]
+10. 15. § (5) bekezdés e) pontjában az „építési, bővítési” szövegrész helyébe az „építési” szöveg,
 
-11.[^121]
+11.[^12]
 
-12.[^122]
+12. 18. § (1) bekezdésében a „követően a kölcsön futamidejének végéig” szövegrész helyébe a „követően 10 évig” szöveg,
 
-13.[^123]
+13. 18. § (6) bekezdésében az „az (1) bekezdés szerinti időtartamra” szövegrész helyébe az „a kölcsön futamidejének időtartamára” szöveg,
 
-14.[^124]
+14. 19. § (7) bekezdésében a „gyermekvállalást örökbefogadással” szövegrész helyébe a „közös gyermekvállalást közös örökbefogadással” szöveg,
 
-15.[^125]
+15. 19. § (8) bekezdésében az „örökbefogadott” szövegrész helyébe a „közösen örökbefogadott” szöveg,
 
-16.[^126]
+16. 26. § (1) bekezdésében a „kölcsönkérelem benyújtásakor – illetve hiánypótlással, kiegészítéssel érintett feltétel esetén a hiánypótlás vagy kiegészítés határidőn belüli teljesítésekor – hatályos jogszabályok” szövegrész helyébe a „kölcsönkérelem benyújtásakor – illetve hiánypótlással, kiegészítéssel érintett feltétel esetén vagylagosan az igénylők számára kedvezőbb módon a hiánypótlás vagy kiegészítés határidőn belüli teljesítésekor – hatályos jogszabályok, fennálló személyi és egyéb körülmények” szöveg,
 
-17.[^127]
+17. 26. § (2) bekezdésében a „kölcsönszerződést köt.” szövegrész helyébe a „kölcsönszerződés megkötésének lehetőségét legkésőbb a 24. § szerinti elbírálást követő 10. naptól biztosítja.” szöveg,
 
-18.[^128]
+18. 28. § (1) bekezdés 7. pontjában a „létesítő szerződéssel” szövegrész helyébe a „létesítő okirattal” szöveg,
 
-19.[^129]
+19. 28. § (1) bekezdés 11. pontjában a „meglévő lakás” szövegrész helyébe a „meglévő, az ingyenesen átruházott vagy a lebontott lakás” szöveg és a „kiállított” szövegrész helyébe az „– ingyenesen átruházott vagy lebontott lakás esetén az átruházást vagy a bontást megelőzően – kiállított” szöveg,
 
-20.[^130]
+20. 28. § (8) bekezdésében a „dg) alpontja” szövegrész helyébe a „dg) alpontja, valamint e) pontja” szöveg,
 
-21.[^131]
+21. 30. § (3) és 33. § (2) bekezdésében az „iránt.” szövegrész helyébe az „iránt, és a kamattámogatás a jövőre nézve megszűnik.” szöveg,
 
-22.[^132]
+22. 31. § (2) bekezdésében a „(3) bekezdésében” szövegrész helyébe a „(2a) bekezdésében” szöveg,
 
-23.[^133]
+23. 32. § (3) bekezdésében a „szerint meghatározott” szövegrész helyébe a „szerinti legmagasabb” szöveg,
 
-24.[^134]
+24. 32. § (8) bekezdésében a „keretében” szövegrész helyébe a „keretében, valamint a teljes összegét a 41. § szerinti esetben kérelmükre” szöveg,
 
-25.[^135]
+25. 33. § (3) bekezdésében a „visszatérítését.” szövegrész helyébe a „visszatérítését, és a kamattámogatás a jövőre nézve megszűnik.” szöveg,
 
-26.[^136]
+26. 35. § (3) bekezdésében a „nem terheli.” szövegrész helyébe a „nem terheli, és a kamattámogatás a jövőre nézve sem szűnik meg.” szöveg,
 
-27.[^137]
+27. 35. § (5) bekezdésében a „visszafizetni.” szövegrész helyébe a „visszafizetni, és a kamattámogatás is a jövőre nézve csak ilyen arányos részben szűnik meg.” szöveg,
 
-28.[^138]
+28. 37. § (1) bekezdésében a „megszűnik” szövegrész helyébe a „– nemteljesítés esetén a teljes, részbeni teljesítés esetén a nem teljesült gyermekre eső kölcsönösszeg tekintetében – megszűnik” szöveg és a „csökkentve” szövegrész helyébe a „részbeni teljesítés esetén csökkentve” szöveg, valamint a „meglévő” szövegrész helyébe a „meglévő és a gyermekvállalásból már teljesített” szöveg,
 
-29.[^139]
+29. 37. § (2) bekezdésében a „csökkentve” szövegrész helyébe a „részbeni teljesítés esetén csökkentve” szöveg és a „megszűnik.” szövegrész helyébe a „– nemteljesítés esetén a teljes, részbeni teljesítés esetén a nem teljesült gyermekre eső kölcsönösszeg tekintetében – megszűnik.” szöveg,
 
-30.[^140]
+30. 38. § (3) bekezdésében a „visszafizetési” szövegrész helyébe a „visszafizetési, illetve kamatfizetési” szöveg,
 
-31.[^141]
+31. 39. § (1) bekezdés b) pontjában a „30 napon belül” szövegrész helyébe az „a kölcsönszerződés megkötését követő 1 éven belül” szöveg,
 
-32.[^142]
+32. 41. § (2) bekezdés a) pontjában a „korlátozásokat” szövegrész helyébe a „korlátozásokat és a d) pont dh) alpontjában foglaltakat” szöveg,
 
-33.[^143]
+33. 41. § (5) bekezdésében a „megszűnik.” szövegrész helyébe a „megszűnik; továbbá a felfüggesztés időtartama alatt igénybe vett további kamattámogatást, és az az után, valamint a már visszafizetettnek minősülő kamattámogatás után a 34. § (1) bekezdése szerint felszámítandó kamatokat a támogatott személyek a felfüggesztés megszűnését követő 120 napon belül egy összegben megfizetik.” szöveg,
 
-34.[^144]
+34. 41. § (6) bekezdés záró szövegrészében az „állnak fenn.” szövegrész helyébe az „állnak fenn az újabb lakásban.” szöveg,
 
-35.[^145]
+35. 42. § (7) bekezdés záró szövegrészében a „kölcsön” szövegrész helyébe a „kamattámogatás és gyermekvállalási támogatás” szöveg,
 
-36.[^146]
+36. 42. § (7) bekezdés b) pontjában az „építését” szövegrész helyébe az „építését, bővítését, korszerűsítését” szöveg,
 
-37.[^147]
+37. 47. § (2) bekezdés záró szövegrészében a „180 napig” szövegrész helyébe az „1 évig” szöveg,
 
-38.[^148]
+38. 48. § (2) bekezdésében a „3. munkanapon” szövegrész helyébe az „– az (5) bekezdésben foglalt kivétellel – 10. munkanapon” szöveg,
 
-39.[^149]
+39. 49. § (4) bekezdésében az „a 18. § (1) bekezdése szerinti” szövegrész helyébe a „10 évig terjedő” szöveg és az „alkalmazandó.” szövegrész helyébe az „alkalmazandó. E jelzálogjog fennállása időszaka alatt a támogatott személyek és azon gyermekük, akire tekintettel a támogatás folyósításra került, a lakásban életvitelszerűen kötelesek bent lakni, azzal, hogy a gyermeket legfeljebb nagykorúvá válásáig terheli a bentlakási kötelezettség.” szöveg,
 
-40.[^150]
+40. 49. § (5) bekezdésében az „értesíti erről a Kincstárat. Ha a gyermekre vonatkozóan a családok támogatásáról szóló törvény szerinti egységes szociális nyilvántartásban nem található adat, a Kincstár erről haladéktalanul értesíti a hitelintézetet, és az a 36. § (3) bekezdése szerint jár el.” szövegrész helyébe a „felszólítja a támogatott személyeket az adatok igazolására, amelynek elmulasztása esetén értesíti a kormányhivatalt.” szöveg,
 
-41.[^151]
+41. 49. § (6) bekezdésében az „A 10. alcím eljárási rendelkezései e visszafizetési kötelezettségre is alkalmazandók.” szövegrész helyébe az „A 10. alcím eljárási rendelkezései – a 37. § (7) bekezdése kivételével – e visszafizetési kötelezettségre is alkalmazandók.” szöveg és a „30. §” szövegrész helyébe a „30., 34. és 35. §, valamint a 42. § (4)–(6) bekezdése” szöveg,
 
-42.[^152]
+42. 51. § (1) bekezdésében a „folyósított kölcsön összege után” szövegrész helyébe a „folyósított kölcsön, illetve gyermekvállalási támogatás összege után együttesen” szöveg,
 
-43.[^153]
+43. 51. § (2) bekezdésében a „gyermekvállalási támogatással” szövegrész helyébe a „kamattámogatással, valamint gyermekvállalási támogatással” szöveg,
 
-44.[^154]
+44. 53. § (1) bekezdésében a „kölcsönszerződés” szövegrész helyébe a „kölcsönszerződés és a gyermekvállalási támogatásra vonatkozó támogatási szerződés” szöveg, valamint a „kölcsön” szövegrész helyébe a „kölcsön és a gyermekvállalási támogatás” szöveg,
 
-45.[^155]
+45. 53. § (2) bekezdés nyitó szövegrészében a „formában” szövegrész helyébe az „adattartalommal és formában” szöveg,
 
-46.[^156]
+46. 53. § (2) bekezdés a) pontjában a „tárgyhónapot megelőző hónapban megkötött kölcsönszerződések,” szövegrész helyébe a „tárgyhónapban megkötött kölcsönszerződések, gyermekvállalási támogatásra vonatkozó támogatási szerződések,” szöveg,
 
-47.[^157]
+47. 53. § (2) bekezdés b) pontjában az „a tárgyhónapot követő hónap” szövegrész helyébe az „a hónap” szöveg,
 
-48.[^158]
+48. 57. § (2) bekezdésében a „kölcsön tekintetében.” szövegrész helyébe a „kölcsön tekintetében, a 11. § (2) bekezdés b) pontja és a 11. alcím alkalmazása során.” szöveg
 
-[^111]: A 48. § 1. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^112]: A 48. § 2. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^113]: A 48. § 3. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^114]: A 48. § 4. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^115]: A 48. § 5. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^116]: A 48. § 6. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^117]: A 48. § 7. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^118]: A 48. § 8. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^119]: A 48. § 9. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^120]: A 48. § 10. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^121]: A 48. § 11. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^122]: A 48. § 12. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^123]: A 48. § 13. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^124]: A 48. § 14. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^125]: A 48. § 15. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^126]: A 48. § 16. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^127]: A 48. § 17. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^128]: A 48. § 18. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^129]: A 48. § 19. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^130]: A 48. § 20. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^131]: A 48. § 21. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^132]: A 48. § 22. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^133]: A 48. § 23. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^134]: A 48. § 24. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^135]: A 48. § 25. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^136]: A 48. § 26. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^137]: A 48. § 27. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^138]: A 48. § 28. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^139]: A 48. § 29. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^140]: A 48. § 30. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^141]: A 48. § 31. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^142]: A 48. § 32. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^143]: A 48. § 33. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^144]: A 48. § 34. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^145]: A 48. § 35. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^146]: A 48. § 36. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^147]: A 48. § 37. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^148]: A 48. § 38. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^149]: A 48. § 39. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^150]: A 48. § 40. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^151]: A 48. § 41. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^152]: A 48. § 42. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^153]: A 48. § 43. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^154]: A 48. § 44. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^155]: A 48. § 45. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^156]: A 48. § 46. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^157]: A 48. § 47. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
-[^158]: A 48. § 48. pontja az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+lép.
+
+[^12]: A 48. § 11. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-37. §[^99]
+37. § Az R8. 28. § (1) bekezdése a következő 12. és 13. ponttal egészül ki:
 
-[^99]: A 37. § az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+(A kölcsönre való jogosultság feltételeinek meglétét az igénylők a következők szerint igazolják:)

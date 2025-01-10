@@ -1,3 +1,3 @@
-44. §[^106]
+44. § Az R8. 46. §-a a következő (4) bekezdéssel egészül ki:
 
-[^106]: A 44. § az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+„(4) Ha a gyermekvállalási támogatás iránti kérelem benyújtásának időpontjában a támogatott személyek kölcsöntőke-tartozása és kamatai együttes összege alacsonyabb az igénybe vehető gyermekvállalási támogatás összegénél, akkor legfeljebb a tőketartozás és kamatai együttes összegének megfelelő támogatásra jogosultak. Ha a kérelem benyújtása időpontjában a támogatott személyek már folyósított kölcsöntőke-tartozása és kamatai együttes összege – különösen építési célú kölcsön szakaszos folyósítása miatt – még alacsonyabb, mint a velük megkötött kölcsönszerződésben meghatározott teljes kölcsönösszeg, akkor a támogatott személyek a kölcsönszerződésük szerinti teljes kölcsönösszeg tekintetében jogosultak az (1) bekezdés szerinti támogatási összegre, a 48. § (5) bekezdése szerinti folyósítási szabály alkalmazásával.”

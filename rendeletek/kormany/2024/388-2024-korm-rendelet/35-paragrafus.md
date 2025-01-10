@@ -1,3 +1,3 @@
-35. §[^97]
+35. § Az R8. 16. § (4) bekezdése helyébe a következő rendelkezés lép:
 
-[^97]: A 35. § az 50. § (2) bekezdése alapján 2025. január 10-én lép hatályba.
+„(4) Ha a gyermekvállalás teljesítését megelőzően a kölcsönszerződés legalább az egyik támogatott személyre vonatkozóan bármilyen módon megszűnik, akkor a 37. § (1) bekezdése szerint kell eljárni, akként, mintha a gyermekvállalási határidő lejárt volna.”
