@@ -1,3 +1,3 @@
-8. § A 365/2016. (XI. 29.) Korm. rendelet 24. §-a a következő i) ponttal egészül ki:
+8. §[^5]
 
-(Budapest Főváros Kormányhivatala)
+[^5]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
