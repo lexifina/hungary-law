@@ -1,3 +1,3 @@
-9. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^285]
+9. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^287]
 
-[^285]: A 9. számú mellékletet a 340/2008. (XII. 30.) Korm. rendelet 9. § (2) bekezdése iktatta be, a 212/2023. (VI. 1.) Korm. rendelet 7. § b) pontja hatályon kívül helyezte.
+[^287]: A 9. számú mellékletet a 340/2008. (XII. 30.) Korm. rendelet 9. § (2) bekezdése iktatta be, a 212/2023. (VI. 1.) Korm. rendelet 7. § b) pontja hatályon kívül helyezte.
