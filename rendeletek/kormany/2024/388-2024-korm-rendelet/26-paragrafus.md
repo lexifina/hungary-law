@@ -1,3 +1,3 @@
-26. § Az R7. 30. § (1) bekezdése a következő 12. és 13. ponttal egészül ki:
+26. §[^27]
 
-(A családi otthonteremtési kedvezményre való jogosultság feltételeinek meglétét az igénylő a következők szerint igazolja:)
+[^27]: A 26. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

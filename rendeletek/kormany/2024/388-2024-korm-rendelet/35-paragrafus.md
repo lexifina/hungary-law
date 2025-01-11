@@ -1,3 +1,3 @@
-35. § Az R8. 16. § (4) bekezdése helyébe a következő rendelkezés lép:
+35. §[^36]
 
-„(4) Ha a gyermekvállalás teljesítését megelőzően a kölcsönszerződés legalább az egyik támogatott személyre vonatkozóan bármilyen módon megszűnik, akkor a 37. § (1) bekezdése szerint kell eljárni, akként, mintha a gyermekvállalási határidő lejárt volna.”
+[^36]: A 35. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

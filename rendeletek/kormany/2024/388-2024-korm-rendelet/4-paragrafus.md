@@ -1,5 +1,5 @@
 ## 4. A Nemzeti Tehetség Program finanszírozásáról szóló 104/2015. (IV. 23.) Korm. rendelet módosítása
 
-4. §[^3]
+4. §[^5]
 
-[^3]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

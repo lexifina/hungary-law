@@ -1,3 +1,3 @@
-21. § Az R6. 22. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+21. §[^22]
 
-(A jogosulatlanul igénybe vett)
+[^22]: A 21. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-19. § Az R6. 16. §-a a következő (6b) bekezdéssel egészül ki:
+19. §[^20]
 
-„(6b) Ha a támogatott személy a házasságának felbontását vagy érvénytelenné nyilvánítását követően, a kölcsön folyósításától számított 5 éven túl újabb házasságot köt, és az új házastársa megfelel a 4. § (1) bekezdés a), b) és d)–f) pontjában foglalt feltételeknek, továbbá a 14. § (1) bekezdésében foglalt jogosultsági feltételek is teljesülnek, akkor a várandósság 12. hetének betöltését vagy az örökbefogadást engedélyező határozat véglegessé válását követően újból kérelmezhető a kamattámogatás és az a kérelmezést követő hónap törlesztési esedékességének napjától újból érvényesíthető, illetve a 14. § eljárási szabályai szerint igényelhető a törlesztés szüneteltetése.”
+[^20]: A 19. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

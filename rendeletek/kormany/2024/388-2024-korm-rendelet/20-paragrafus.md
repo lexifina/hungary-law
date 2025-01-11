@@ -1,13 +1,3 @@
-20. § Az R6. 17. § (1) bekezdése helyébe a következő rendelkezés lép:
+20. §[^21]
 
-„(1) A támogatott személy – a kölcsön folyósításától a kamattámogatás megszűnését követő 90. napig a kormányhivatalhoz benyújtott – kérelme alapján a 15. § (1), illetve (6) bekezdése vagy a 16. § (2) bekezdése szerinti kamat megfizetése vagy a korábban igénybe vett kamattámogatásnak és a Ptk. szerinti kamatának a 15. § (1a), illetve (6) bekezdése vagy 16. § (2) bekezdése szerinti vissza-, illetve megfizetése és a kamattámogatás 15. § (1) bekezdése vagy 16. § (1) bekezdése szerinti jövőbeni megszűnése alól – a 15. § szerinti esetekben, a kölcsönszerződés mindkét támogatott személyre vonatkozó teljes megszűnése esete kivételével, kizárólag együttesen – a kormányhivatal hatósági eljárásban, méltányosságból felmentést engedélyezhet, ha
-
-a) a támogatott személyek egyike vagy a 15. § (3) bekezdése és a 16. § (6) bekezdése szerinti esetben a támogatott személy új házastársa a kölcsönszerződés megkötését követően megváltozott munkaképességűvé vált, és emiatt a gyermek megszületését nem vállalták,
-
-b) az emberi reprodukcióra irányuló különleges eljárások végzésére vonatkozó, valamint az ivarsejtekkel és embriókkal való rendelkezésre és azok fagyasztva tárolására vonatkozó részletes szabályokról szóló 30/1998. (VI. 24.) NM rendelet [a továbbiakban: 30/1998. (VI. 24.) NM rendelet] szerinti, az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló 9/1993. (IV. 2.) NM rendelet 4. számú melléklet 13. főcsoportjában megjelölt egészségügyi szolgáltató igazolja, hogy a támogatott személyek vagy a 15. § (3) bekezdése és 16. § (6) bekezdése szerinti esetben a támogatott személy és új házastársa
-
-ba) a kötelező egészségbiztosítás keretében igénybe vehető meddőségkezelési eljárásokról szóló 49/1997. (XII. 17.) NM rendelet [a továbbiakban: 49/1997. (XII. 17.) NM rendelet] 2. § (1) bekezdés c) pontja szerinti emberi reprodukcióra irányuló különleges eljárásban (a továbbiakban: reprodukciós eljárás) legalább 4 alkalommal – a kötelező egészségbiztosítás keretében vagy azon kívül – részt vettek, vagy
-
-bb) a gyermekvállalást azért nem tudták teljesíteni, mert velük szemben a reprodukciós eljárás megkezdése előtt vagy a reprodukciós eljárás közben a 30/1998. (VI. 24.) NM rendelet 1. § (2) bekezdése szerinti kizáró egészségügyi ok merült fel, a 30/1998. (VI. 24.) NM rendelet 1. § (5) bekezdés a) pontjában foglalt feltétel nem teljesül, vagy a férj spermiogramja alapján a 49/1997. (XII. 17.) NM rendelet 2. § (1) bekezdés c) pontja szerinti egyik reprodukciós eljárásra sem alkalmas, vagy
-
-c) a támogatott személyek vagy a 15. § (3) bekezdése és a 16. § (6) bekezdése szerinti esetben a támogatott személy és új házastársa számára a gyermekvállalás egészségügyi dokumentációval igazoltan ellenjavallt.”
+[^21]: A 20. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

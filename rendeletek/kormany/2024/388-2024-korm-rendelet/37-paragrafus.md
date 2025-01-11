@@ -1,3 +1,3 @@
-37. § Az R8. 28. § (1) bekezdése a következő 12. és 13. ponttal egészül ki:
+37. §[^38]
 
-(A kölcsönre való jogosultság feltételeinek meglétét az igénylők a következők szerint igazolják:)
+[^38]: A 37. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
