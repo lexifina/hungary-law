@@ -8,7 +8,7 @@
 
 (3a)[^15] Amennyiben a befogadási kérelem több tagozatot is érint, úgy a NEAK a kérelmet az (1a) bekezdés alapján az egészségügyi szakmai kollégium elnökének küldi meg véleményezésre, amely alapján az egészségügyi szakmai kollégium elnöke a (2) bekezdésben foglaltak szerint jár el.
 
-(4)[^16] Az NNGYK a kérelmező által benyújtott költséghatékonysági elemzés és a releváns szakirodalmi adatok segítségével kritikai értékelést készít és értékeli a kérelmet.
+(4)[^16] Az NNGYK a kérelmező által benyújtott költséghatékonysági elemzés és a releváns szakirodalmi adatok segítségével kritikai értékelést készít, és értékeli a kérelmet. Az NNGYK a (2) bekezdés szerinti szakvéleményét az (EU) 2021/2282 európai parlamenti és tanácsi rendelet alapján elkészített közös klinikai értékelés figyelembevételével alakítja ki, amennyiben az a kérelmezett technológia tekintetében a kérelem szerinti indikációban és összevetésben rendelkezésre áll.
 
 (4a)[^17] Az Egészségügyi Tudományos Tanács – az (1a) bekezdés alapján történő megkeresése esetén – szakértőként véleményt nyilvánít arról, hogy
 
@@ -25,6 +25,6 @@ c) a technológia alkalmas-e a kérelemben foglalt célok megvalósítására.
 [^13]: A 6. § (2) bekezdése a 254/2013. (VII. 5.) Korm. rendelet 42. § (3) bekezdésével megállapított, a 30/2015. (II. 25.) Korm. rendelet 46. § b) pontja, a 379/2016. (XII. 2.) Korm. rendelet 159. § (2) bekezdés f) pontja, a 457/2017. (XII. 28.) Korm. rendelet 307. § a) pontja, a 334/2023. (VII. 20.) Korm. rendelet 21. § c) pontja szerint módosított szöveg.
 [^14]: A 6. § (3) bekezdése a 254/2013. (VII. 5.) Korm. rendelet 44. § a) pontja, a 457/2017. (XII. 28.) Korm. rendelet 307. § b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^15]: A 6. § (3a) bekezdését a 254/2013. (VII. 5.) Korm. rendelet 42. § (4) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 159. § (2) bekezdés f) pontja szerint módosított szöveg.
-[^16]: A 6. § (4) bekezdése a 30/2015. (II. 25.) Korm. rendelet 46. § b) pontja, a 334/2023. (VII. 20.) Korm. rendelet 21. § c) pontja szerint módosított szöveg.
+[^16]: A 6. § (4) bekezdése a 128/2024. (VI. 17.) Korm. rendelet 8. §-ával megállapított szöveg.
 [^17]: A 6. § (4a) bekezdését a 254/2013. (VII. 5.) Korm. rendelet 42. § (5) bekezdése iktatta be, nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 307. § c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^18]: A 6. § (5) bekezdése a 254/2013. (VII. 5.) Korm. rendelet 42. § (6) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 159. § (2) bekezdés f)–g) pontja szerint módosított szöveg.
