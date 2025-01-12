@@ -2,6 +2,8 @@
 
 72. § (1) A digitális szolgáltatások felügyeletének (a továbbiakban: Felügyelet) feladata a digitális állampolgársághoz, a digitális szolgáltatások igénybevételéhez való jog érvényesülésének, továbbá a digitális szolgáltatások biztosításának ellenőrzése, összehangolása és elősegítése. A Felügyeletet a Kormány rendeletben jelöli ki.
 
+(1a) A Felügyelet az (EU) 2024/903 európai parlamenti és tanácsi rendelet alkalmazásáért felelős illetékes nemzeti hatóság és egyedüli kapcsolattartó pontként ellátja (EU) 2024/903 európai parlamenti és tanácsi rendelet 17. cikk (2) bekezdése szerinti feladatokat.
+
 (2) A Felügyelet az (1) bekezdés szerinti feladatkörében ellenőrzi különösen:
 
 a) a digitális szolgáltatást biztosító szervezet által biztosított digitális szolgáltatásokat,
@@ -27,6 +29,8 @@ e) ellátja a digitális szolgáltatások nyújtásának alapjául szolgáló á
 f) kérelemre vagy hivatalból koordinációs eljárást folytat le.
 
 g) ellátja a támogató szolgáltatások és a digitális állampolgárság szolgáltatások tekintetében e szolgáltatásoknak a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti hatósági felügyeletét.
+
+(3a) A Felügyelet az (1a) bekezdés szerinti feladatkörében az e törvényben és e törvény végrehajtására kiadott jogszabályban meghatározottak szerint különösen a közszférabeli szervezet által elvégzendő, az (EU) 2024/903 európai parlamenti és tanácsi rendelet 3. cikke szerinti értékelési eljárást támogatja.
 
 (4) A Felügyelet az e törvény és a végrehajtására kiadott jogszabályokba foglalt követelmények megtartását hatósági ellenőrzés keretében vizsgálja.
 

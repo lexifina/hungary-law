@@ -56,6 +56,8 @@
 
 25. a bizalmi felügyelet által vezetett nyilvántartás tartalmával és a bizalmi szolgáltatás nyújtásával összefüggő bejelentésekkel kapcsolatos követelményeket.
 
+26. az (EU) 2024/903 európai parlamenti és tanácsi rendelet 2. cikk 14. pontja szerinti ellenőrzött környezet fejlesztésével, létrehozásával és üzemeltetésével kapcsolatos szabályokat, valamint az ahhoz való csatlakozás szabályait.
+
 (2) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg:
 
 1. a 7. § (3) bekezdés szerinti időpontot,
