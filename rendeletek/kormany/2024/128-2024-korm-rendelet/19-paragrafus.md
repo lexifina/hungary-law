@@ -1,3 +1,3 @@
-19. §[^22]
+19. § A 451/2017. (XII. 27.) Korm. rendelet a következő 16. §-sal egészül ki:
 
-[^22]: A 19. § a 35. § (2) bekezdése alapján 2025. január 12-én lép hatályba.
+„16. § Ez a rendelet az egészségügyi technológiaértékelésről és a 2011/24/EU irányelv módosításáról szóló, 2021. december 15-i (EU) 2021/2282 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.”
