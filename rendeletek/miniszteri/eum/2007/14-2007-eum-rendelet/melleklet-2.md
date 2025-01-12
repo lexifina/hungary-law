@@ -60,6 +60,8 @@
 
 ## 4.8. Nyilatkozat arról, hogy az eszköz sorozatgyártású vagy adaptív-e
 
+## 4.9. Az eszköz gyártó által meghatározott élettartama (hónap)
+
 ## 5. Az eszköz ismertetése
 
 ## 5.1. Az eszköz (és tartozékai) anyagának, több anyag esetén az összetevők nevének és százalékos összetételének leírása (beleértve a bevonó és színező anyagok pontos leírását is) (vagy az ide vonatkozó adatok helyének megjelölése a beadott műszaki dokumentációban)
@@ -130,7 +132,7 @@
 
 ## 9.1. Árajánlat (nettó fogyasztói ár Ft/mennyiségi egység)
 
-## Nyilatkozat arról – az alkalmazott számítások egyidejű bemutatásával –, hogy az árajánlat kialakítása során figyelembe vette, hogy a fajlagos költségeket és az üzleti kockázatot csökkenti a támogatással történő értékesítés;
+## Az árajánlat kialakítása során figyelembe vett tényezők bemutatása: tervezett db/év forgalom, betegszám, kapcsolódó költségek, fajlagos költségek, a támogatással történő értékesítés fajlagos költségeket és az üzleti kockázatot csökkentő hatása.
 
 ## 9.2. A kérelmezett társadalombiztosítási támogatás mértéke és módszere
 
@@ -138,13 +140,13 @@
 
 ## 9.4. A gyártó által forgalmazott – esetleg eltérő elnevezésű – eszköz termelői ára az Európai Közösség országaiban
 
-## 10. Az eszköz hatékonyságát alátámasztó tudományos bizonyítékok bemutatása
+## 10. Az eszköz hatékonyságát alátámasztó tudományos bizonyítékok bemutatása abban az esetben, ha a kérelmezett eszköz tekintetében a kérelem szerinti indikációban és összevetésben nem áll rendelkezésre az egészségügyi technológiaértékelésről és a 2011/24/EU irányelv módosításáról szóló, 2021. december 15-i (EU) 2021/2282 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2021/2282 európai parlamenti és tanácsi rendelet] alapján elkészített közös klinikai értékelés.
 
-## 10.1. Nyilatkozat arról, hogy készült-e átfogó technológia-elemzési tanulmány az eszközzel kapcsolatban (gyógyszer-GYSE, vagy kórházi ellátás, műtét - GYSE összehasonlító, GYSE-GYSE műszaki, funkcionális összehasonlítás minőség, garancia, értékállóság alapján) (Egészségügyi Minisztérium szakmai irányelve az egészség-gazdaságtani elemzések készítéséhez módszertani irányelv figyelembevételével)
+## 10.1. Nyilatkozat arról, hogy készült-e átfogó technológia-elemzési tanulmány az eszközzel kapcsolatban (gyógyszer-GYSE, vagy kórházi ellátás, műtét – GYSE összehasonlító, GYSE-GYSE műszaki, funkcionális összehasonlítás minőség, garancia, értékállóság alapján) (az egészségügyért felelős miniszter által vezetett minisztérium egészség-gazdaságtani elemzések készítéséről és értékeléséről szóló szakmai irányelvének figyelembevételével)
 
 ## 11. Szakorvosi vélemény
 
-## 11.1. Nyilatkozat arról, hogy országos gyógyintézet, a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 97. § (1) bekezdése szerinti klinika (a továbbiakban: klinika) vagy korábbi vármegyei kórház által kiállított, öt évnél nem régebbi szakorvosi vélemény rendelkezésre áll-e
+## 11.1. Országos gyógyintézet, a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 97. § (1) bekezdése szerinti klinika (a továbbiakban: klinika) vagy korábbi vármegyei kórház által kiállított, öt évnél nem régebbi szakorvosi vélemény, amelyen szerepel a kiadás kelte, a véleményező orvos neve, szakképzettségei, beosztása, munkahelye.
 
 ## 11.2. Az eszköz pontos megnevezése, meghatározása
 
@@ -170,6 +172,6 @@
 
 ## 11.13.
 
-2. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^177]
+2. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^178]
 
-[^177]: A 2. számú melléklet a 34/2010. (V. 14.) EüM rendelet 12. § (2) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 84. § h) pontja, a 7/2016. (III. 30.) EMMI rendelet 15. § (2) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 53. § (1) bekezdés e) pontja, a 8/2018. (II. 13.) EMMI rendelet 42. § e) pontja, a 32/2021. (VII. 29.) EMMI rendelet 9. § (2) bekezdése, a 13/2022. (IV. 29.) EMMI rendelet 33. §-a, 34. § d)–e) pontja és 35. § a)–b) pontja, a 48/2022. (XII. 27.) BM rendelet 4. §-a, az 57/2024. (XII. 20.) BM rendelet 18. § (2) bekezdése és 19. § b) pontja szerint módosított szöveg.
+[^178]: A 2. számú melléklet a 34/2010. (V. 14.) EüM rendelet 12. § (2) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 84. § h) pontja, a 7/2016. (III. 30.) EMMI rendelet 15. § (2) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 53. § (1) bekezdés e) pontja, a 8/2018. (II. 13.) EMMI rendelet 42. § e) pontja, a 32/2021. (VII. 29.) EMMI rendelet 9. § (2) bekezdése, a 13/2022. (IV. 29.) EMMI rendelet 33. §-a, 34. § d)–e) pontja és 35. § a)–b) pontja, a 48/2022. (XII. 27.) BM rendelet 4. §-a, az 57/2024. (XII. 20.) BM rendelet 18. § (2) és (3) bekezdése és 19. § b) pontja szerint módosított szöveg.

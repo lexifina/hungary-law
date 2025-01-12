@@ -124,9 +124,9 @@
 
 ## 9.4. A gyártó által forgalmazott – esetleg eltérő elnevezésű – eszköz termelői ára az Európai Közösség országaiban
 
-## 10. Az eszköz hatékonyságát alátámasztó tudományos bizonyítékok bemutatása
+## 10. Az eszköz hatékonyságát alátámasztó tudományos bizonyítékok bemutatása abban az esetben, ha a kérelmezett eszköz tekintetében a kérelem szerinti indikációban és összevetésben nem áll rendelkezésre (EU) 2021/2282 európai parlamenti és tanácsi rendelet alapján elkészített közös klinikai értékelés.
 
-## 10.1. Nyilatkozat arról, hogy készült-e átfogó technológia-elemzési tanulmány az eszközzel kapcsolatban (gyógyszer-GYSE, kórházi ellátás, műtét - GYSE összehasonlító, GYSE-GYSE műszaki, funkcionális összehasonlítás minőség, garancia, értékállóság alapján) (Egészségügyi Minisztérium szakmai irányelve az egészség-gazdaságtani elemzések készítéséhez módszertani irányelv figyelembevételével)
+## 10.1. Nyilatkozat arról, hogy készült-e átfogó technológia-elemzési tanulmány az eszközzel kapcsolatban (gyógyszer-GYSE, vagy kórházi ellátás, műtét – GYSE összehasonlító, GYSE-GYSE műszaki, funkcionális összehasonlítás minőség, garancia, értékállóság alapján) (az egészségügyért felelős miniszter által vezetett minisztérium egészség-gazdaságtani elemzések készítéséről és értékeléséről szóló szakmai irányelvének figyelembevételével)
 
 ## 11. Szakorvosi vélemény
 
@@ -156,6 +156,6 @@
 
 ## 11.13.
 
-3. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^178]
+3. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^179]
 
-[^178]: A 3. számú melléklet a 34/2010. (V. 14.) EüM rendelet 12. § (3) bekezdésével megállapított, a 7/2016. (III. 30.) EMMI rendelet 15. § (3) bekezdése, a 8/2018. (II. 13.) EMMI rendelet 42. § e) pontja, a 32/2021. (VII. 29.) EMMI rendelet 9. § (3) bekezdése, a 48/2022. (XII. 27.) BM rendelet 4. §-a, az 57/2024. (XII. 20.) BM rendelet 18. § (4) bekezdése és 19. § c) pontja szerint módosított szöveg.
+[^179]: A 3. számú melléklet a 34/2010. (V. 14.) EüM rendelet 12. § (3) bekezdésével megállapított, a 7/2016. (III. 30.) EMMI rendelet 15. § (3) bekezdése, a 8/2018. (II. 13.) EMMI rendelet 42. § e) pontja, a 32/2021. (VII. 29.) EMMI rendelet 9. § (3) bekezdése, a 48/2022. (XII. 27.) BM rendelet 4. §-a, az 57/2024. (XII. 20.) BM rendelet 18. § (4) bekezdése és 19. § c) pontja szerint módosított szöveg.
