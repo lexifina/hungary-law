@@ -1,5 +1,5 @@
 ## 6. Az egészségügyi technológiák egészségbiztosítási finanszírozásba történő befogadásának alapelveiről, feltételrendszeréről és részletes szabályairól, valamint a már befogadott technológiák körének felülvizsgálatáról és módosításáról szóló 180/2010. (V. 13.) Korm. rendelet módosítása
 
-8. § Az egészségügyi technológiák egészségbiztosítási finanszírozásba történő befogadásának alapelveiről, feltételrendszeréről és részletes szabályairól, valamint a már befogadott technológiák körének felülvizsgálatáról és módosításáról szóló 180/2010. (V. 13.) Korm. rendelet [a továbbiakban: 180/2010. (V. 13.) Korm. rendelet] 6. § (4) bekezdése helyébe a következő rendelkezés lép:
+8. §[^9]
 
-„(4) Az NNGYK a kérelmező által benyújtott költséghatékonysági elemzés és a releváns szakirodalmi adatok segítségével kritikai értékelést készít, és értékeli a kérelmet. Az NNGYK a (2) bekezdés szerinti szakvéleményét az (EU) 2021/2282 európai parlamenti és tanácsi rendelet alapján elkészített közös klinikai értékelés figyelembevételével alakítja ki, amennyiben az a kérelmezett technológia tekintetében a kérelem szerinti indikációban és összevetésben rendelkezésre áll.”
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

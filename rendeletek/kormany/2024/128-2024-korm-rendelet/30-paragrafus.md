@@ -1,5 +1,5 @@
 ## 15. A „Fényes Okos Intézmények Program” keretében egyes intézményekben történő világításkorszerűsítési feladatok elvégzésére vonatkozó kijelölésről szóló 192/2020. (V. 8.) Korm. rendelet módosítása
 
-30. §[^30]
+30. §[^31]
 
-[^30]: A 30. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^31]: A 30. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

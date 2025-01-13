@@ -1,3 +1,3 @@
-19. § A 451/2017. (XII. 27.) Korm. rendelet a következő 16. §-sal egészül ki:
+19. §[^20]
 
-„16. § Ez a rendelet az egészségügyi technológiaértékelésről és a 2011/24/EU irányelv módosításáról szóló, 2021. december 15-i (EU) 2021/2282 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.”
+[^20]: A 19. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
