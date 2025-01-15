@@ -1,4 +1,4 @@
-53. § (1) Az egységes okiratba foglalt haszonbérleti szerződésnek az előhaszonbérletre jogosultakkal történő közlése érdekében a szerződést három eredeti példányban kell benyújtani a mezőgazdasági igazgatási szervhez, illetve a Földforgalmi törvény 49. § (1c) bekezdése szerinti esetben a föld fekvése szerint illetékes jegyzőhöz.
+53. § (1) Az egységes okiratba foglalt haszonbérleti szerződést az e törvény végrehajtására kiadott rendeletben foglaltak szerint kell benyújtani a mezőgazdasági igazgatási szervhez, illetve a Földforgalmi törvény 49. § (1c) bekezdése szerinti esetben a föld fekvése szerint illetékes jegyzőhöz.
 
 (2) A haszonbérleti szerződéshez csatolni kell az előhaszonbérleti jogosultságot igazoló okiratokat, kivéve, amelyet közhiteles nyilvántartásnak tartalmaznia kell.
 

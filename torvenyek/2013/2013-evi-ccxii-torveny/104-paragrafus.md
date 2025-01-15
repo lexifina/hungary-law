@@ -14,7 +14,7 @@ d) a földművelésügyi igazgatási szerv kijelölését,
 
 e) az ingatlanügyi hatóság vagy hatóságok illetékességi területét,
 
-f) a biztonsági okmányért fizetendő díj mértékét, valamint a biztonsági okmány kezelésével, felhasználásával, visszaszolgáltatásával összefüggésben kiszabható bírság mértékét és megfizetésének szabályait
+f)
 
 rendeletben állapítsa meg.
 

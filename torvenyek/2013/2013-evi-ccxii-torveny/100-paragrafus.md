@@ -52,6 +52,8 @@ bf) újonnan alapított mezőgazdasági termelőszervezet-jellege esetén az err
 
 bg) kényszerhasznosítóként való jelentkezésének tényét;
 
+bh) adószámát;
+
 c) a mezőgazdasági üzemközpont esetén
 
 ca) az üzemközpont fekvése szerinti ingatlan helyrajzi számát, a fekvése szerinti településnek, és az ingatlan fekvésének a megjelölését,
@@ -64,14 +66,26 @@ cc)
 
 a) a természetes személy ügyfélnek a (3) bekezdés a) pont aa)–ad) alpontjában, a b) pont be) alpontja 1–4. alpontjaiban meghatározott adatait,
 
-b) a gazdálkodó szervezet ügyfélnek a (3) bekezdés b) pont ba)–bd) alpontjában meghatározott adatait.
+b) a gazdálkodó szervezet ügyfélnek a (3) bekezdés b) pont ba)–bd) és bh) alpontjában meghatározott adatait.
 
-(4a) A (3) bekezdés a) pont ad) alpontjában, valamint a b) pont bb)–bc) alpontjában és a be) alpont 4. alpontjában foglalt adatok a nyilvántartásból szolgáltatható másolaton, továbbá a nyilvántartás okirattárából kiadott másolatokon nem tüntethető fel.
+(4a) A (3) bekezdés a) pont ad) alpontjában, valamint b) pont bb), bc) alpontjában, be) alpont 4. alpontjában és bh) alpontjában foglalt adatok a nyilvántartásból szolgáltatható másolaton, továbbá a nyilvántartás okirattárából kiadott másolatokon nem tüntethető fel.
 
 (4b) A mezőgazdasági igazgatási szerv a nyilvántartás vezetésével kapcsolatos eljárásban kezeli az eljárással érintett, az Országos Cégnyilvántartó és Céginformációs Rendszerben nyilvántartott cég képviseletére jogosult személy adóazonosító jelét cégképviseleti jogosultságának megállapítása céljából.
 
-(5) A mezőgazdasági igazgatási szerv a nyilvántartás számítógépes adatbázisából papír alapú vagy elektronikus másolattal díj- és illetékmentesen szolgáltat adatot. Elektronikus másolat a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásaira az ingatlan-nyilvántartásról szóló törvényben meghatározott jogosultak részére, adatátviteli vonalon keresztül szolgáltatható. Ez esetben a jogosultnak a szolgáltatás igénybevételekor meg kell jelölni a feladata ellátására vonatkozó pontos jogszabályhelyet és annak az ügyiratnak a számát, amely elintézéséhez az adatszolgáltatást kéri.
+(4c) A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény hatálya alá tartozó természetes személyek esetében a nyilvántartás
+
+a) a természetes személyazonosító adatok vagy
+
+b) 2026. december 31-ig a születési név és a személyi azonosító
+
+alapján azonosítja a jogosultat.
+
+(4d) A cégjegyzékbe bejegyzett jogi személy esetében a nyilvántartás a megnevezés és a cégjegyzékszám vagy az adószám alapján azonosítja a jogosultat.
+
+(4e) A mezőgazdasági igazgatási szerv a személyiadat- és lakcímnyilvántartás szerveitől természetes személyazonosító adatok vagy 2026. december 31-ig személyi azonosító alapján igényelhet adatot.
+
+(5) A mezőgazdasági igazgatási szerv a nyilvántartás számítógépes adatbázisából papíralapú vagy elektronikus másolattal díj- és illetékmentesen szolgáltat adatot.
 
 (6) A mezőgazdasági igazgatási szerv a (4) bekezdés szerinti adatokat a nyilvántartásból való törlés évét követő ötödik év végéig jogosult kezelni.
 
-(7) A mezőgazdasági igazgatási szerv az (1) bekezdés szerinti nyilvántartásban lévő adatokat a földhivatali információs rendszerben kezeli.
+(7)

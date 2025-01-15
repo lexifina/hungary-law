@@ -1,4 +1,4 @@
-99. § (1) Az ingatlanügyi hatóság az általa vezetett földhasználati nyilvántartásból e törvény végrehajtására kiadott rendeletben meghatározott,
+99. § (1) Az ingatlanügyi hatóság a földhasználati nyilvántartásból e törvény végrehajtására kiadott rendeletben meghatározott,
 
 a) a 94. § (1) bekezdésében foglalt adatokat is tartalmazó földhasználati lap másolatot,
 
@@ -20,13 +20,13 @@ elektronikus dokumentumként elektronikusan feldolgozható formában adatot szol
 
 (1b) Az (1a) bekezdés c) és d) pontja szerinti célból bárki igényelhet adatszolgáltatást, ha a kérelmében igazolja, hogy az adatok megismerése jogszabályban meghatározott feladata ellátásának teljesítéséhez szükséges.
 
-(1c) Az (1a) bekezdésben meghatározott elektronikus dokumentum az (1a) bekezdésben meghatározott adatszolgáltatás iránti igény célhozkötöttségétől függően a földhasználati lap másolaton megjeleníthető adatokat tartalmazhatja. Az elektronikus dokumentum nem tartalmazhatja a 94. § (1) bekezdés b) pont bc) és bd) alpontjában, valamint c) pont cc) és cd) alpontjában foglalt adatokat.
+(1c) Az (1a) bekezdésben meghatározott elektronikus dokumentum az (1a) bekezdésben meghatározott adatszolgáltatás iránti igény célhozkötöttségétől függően a földhasználati lap másolaton megjeleníthető adatokat tartalmazhatja. Az elektronikus dokumentum nem tartalmazhatja a 94. § (1) bekezdés b) pont bc) és bd) alpontjában, valamint c) pont cc–cf) alpontjában foglalt adatokat.
 
 (1d) Az egyedi megállapodásnak tartalmaznia kell az adatfeldolgozási tevékenység meghatározását, az elektronikus dokumentum adattartalmát, formátumát, valamint az adatszolgáltatás teljesítésének a határidejét és az ellenszolgáltatás mértékét, illetve az ingyenességét.
 
 (1e) A földmérési és térinformatikai államigazgatási szerv az általa üzemeltetett földhasználati nyilvántartás adatbázisából – egyedi megállapodás alapján – a földhasználó részére az általa használt földterületekre vonatkozóan elektronikus dokumentumként elektronikusan feldolgozható formában adatot szolgáltat. Az egyedi megállapodásnak tartalmaznia kell az elektronikus dokumentum adattartalmát, formátumát, valamint az adatszolgáltatás teljesítésének a határidejét és az ellenszolgáltatás mértékét, illetve annak ingyenességét.
 
-(2) A földhasználati nyilvántartás adatbázisából a földhasználó által az ország területén használt valamennyi földterület területnagyságát és AK-értékét, valamint a földhasználat jogcímét tartalmazó földhasználati összesítő állítható ki a nyilvántartásnak a 94. § (1) bekezdés b) pont ba), bd) és be) alpontjában, valamint c) pont ca), cc) és cd) alpontjában foglalt azonosító adatai alapján.
+(2) A földhasználati nyilvántartás adatbázisából a földhasználó által az ország területén használt valamennyi földterület területnagyságát és AK-értékét, valamint a földhasználat jogcímét tartalmazó földhasználati összesítő állítható ki a nyilvántartásnak a 94. § (1) bekezdés b) pont ba) és bd) alpontjában, valamint c) pont ca), cc), cd) és cf) alpontjában foglalt azonosító adatai alapján.
 
 (3) A földhasználati lap másolat szolgáltatását bárki igényelheti.
 

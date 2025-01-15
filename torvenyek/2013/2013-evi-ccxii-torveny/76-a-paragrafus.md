@@ -22,7 +22,7 @@ db) lakóhelyét vagy székhelyét,
 
 e) kódszámát.
 
-(4) Az élelmiszerlánc-felügyeleti szerv a (3) bekezdés szerinti döntés véglegessé válását követően haladéktalanul kezdeményezi az ingatlanügyi hatóságnál a rizstelep jogi jelleg ingatlan-nyilvántartási térképen való feltüntetését kódszámának megjelölésével együtt, továbbá annak a rizstelephez tartozó ingatlanok tulajdoni lapján történő feljegyzését.
+(4) Az élelmiszerlánc-felügyeleti szerv a (3) bekezdés szerinti döntés véglegessé válását követően haladéktalanul kezdeményezi az ingatlanügyi hatóságnál a rizstelep jogi jelleg ingatlan-nyilvántartási térképen való feltüntetését kódszámának megjelölésével együtt, továbbá annak a rizstelephez tartozó ingatlanok tulajdoni lapján történő bejegyzését.
 
 (5) A (3) bekezdés a), c) és d) pontja szerinti adat változását a földhasználó köteles 8 napon belül bejelenteni az élelmiszerlánc-felügyeleti szervnek.
 

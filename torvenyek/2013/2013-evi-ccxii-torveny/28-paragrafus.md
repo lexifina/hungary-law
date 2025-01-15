@@ -26,7 +26,7 @@ bd) cégjegyzékszámát a cégnyilvánosságról, a bírósági cégeljárásr�
 
 be) adószámát,
 
-bf) vezető tisztségviselőjének, cégvezetőjének természetes személyazonosító adatait, lakcímét és adóazonosító jelét.
+bf) vezető tisztségviselőjének, cégvezetőjének természetes személyazonosító adatait , lakcímét és adóazonosító jelét.
 
 (2) A mezőgazdasági igazgatási szerv az (1) bekezdésben meghatározott adatokat a jogügylet hatósági jóváhagyásával és a szerzési korlátozások hatósági ellenőrzésével kapcsolatos feladatai ellátásával összefüggésben jogosult kezelni.
 

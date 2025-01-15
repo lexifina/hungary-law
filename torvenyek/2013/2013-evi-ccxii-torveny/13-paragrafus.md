@@ -1,34 +1,42 @@
 13. § (1) A föld tulajdonjogának a megszerzésére irányuló szerződésnek – a Földforgalmi törvény 13. és 14. §-ában meghatározottakon túl – tartalmaznia kell a szerződő felek, illetve a szerző fél (a továbbiakban együtt: szerződő fél) következő adatait:
 
-a) természetes személy szerződő fél
+a) a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény hatálya alá tartozó természetes személy szerződő fél
 
 aa) természetes személyazonosító adatait,
 
-ab) személyi azonosítóját a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény hatálya alá tartozó természetes személyek esetében,
+ab) személyi azonosítóját,
 
-ac) a személyi azonosítóval nem rendelkező személy esetében a 2/A. §-ban meghatározott belső egyedi azonosító számot, feltéve, ha arról tájékoztatást kapott,
+ac) állampolgárságát,
 
-ad) állampolgárságát,
+ad) lakcímét, értesítési címét,
 
-ae) lakcímét;
+b) a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény hatálya alá nem tartozó természetes személy szerződő fél
 
-b) a gazdálkodó szervezet szerződő fél
+ba) állampolgársága szerinti úti okmányában feltüntetett természetes személyazonosító adatait,
 
-ba) megnevezését,
+bb) állampolgárságát,
 
-bb) statisztikai azonosítóját,
+bc) lakcímét,
 
-bc) cégjegyzékszámát, ha a gazdálkodó szervezet a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény hatálya alá tartozik,
+bd) értesítési címét,
 
-bd) a statisztikai azonosítóval, cégjegyzékszámmal nem rendelkező tagállami vagy külföldi székhelyű gazdálkodó szervezet esetében a 2/B. §-ban meghatározott belső egyedi azonosító számot, feltéve, ha arról tájékoztatást kapott,
+c) a gazdálkodó szervezet szerződő fél
 
-be) székhelyét (telephelyét),
+ca) megnevezését,
 
-bf) vezető tisztségviselő vagy cégvezető családi és utónevét, lakcímét, illetve a törvényes képviselő családi és utónevét, tisztségét,
+cb) statisztikai azonosítóját,
 
-bg) részéről eljáró meghatalmazott természetes személy családi és utónevét, lakcímét,
+cc) cégjegyzékszámát, ha a gazdálkodó szervezet a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény hatálya alá tartozik,
 
-bh) bélyegzőjének lenyomatát.
+cd) a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény hatálya alá nem tartozó gazdálkodó szervezet nyilvántartását vezető szervet és a nyilvántartási számát,
+
+ce) székhelyét (telephelyét),
+
+cf) vezető tisztségviselő vagy cégvezető családi és utónevét, lakcímét, illetve a törvényes képviselő családi és utónevét, tisztségét,
+
+cg) a képviseletében eljáró meghatalmazott természetes személy családi és utónevét, lakcímét,
+
+ch) bélyegzőjének lenyomatát.
 
 (2) Ha a szerző fél tagja a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamarának (a továbbiakban: Kamara), akkor az (1) bekezdésben foglaltakon túl az agrárkamarai nyilvántartási számát is tartalmaznia kell a szerződésnek.
 

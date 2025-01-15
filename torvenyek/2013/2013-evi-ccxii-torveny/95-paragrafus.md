@@ -35,3 +35,9 @@ c) közös tulajdonban álló föld használata esetén a 71. §-ban meghatároz
 (13) Ha a közös tulajdonban álló föld esetében a 76. §-ban meghatározott sorsolás útján kerül megállapításra a használati rend, földhasználati bejelentés hiányában a sorsolásról szóló jegyzőkönyvben szereplő tulajdonostársat vagy tulajdonostársakat – ideértve a haszonélvezőt is – kell földhasználónak tekinteni.
 
 (14) A (11)–(13) bekezdésben meghatározottak alapján nincs helye a földhasználat hivatalból történő bejegyzésének.
+
+(15) Az ingatlanügyi hatóság felfüggeszti a földhasználat változásának vagy törlésének átvezetésére irányuló eljárást, ha a földhasználati nyilvántartásban szereplő, a bejelentéssel érintett természetes személy vagy szervezet beazonosításához szükséges adat a nyilvántartásban hiányzik vagy tévesen került feltüntetésre.
+
+(16) A felfüggesztéssel egyidejűleg az ingatlanügyi hatóság hivatalból megindítja a hiányzó vagy tévesen feltüntetett adat pótlására vagy kijavítására irányuló, e törvény végrehajtására kiadott rendelet szerinti eljárást.
+
+(17) A (16) bekezdés szerinti eljárást lezáró döntés véglegessé válásával egyidejűleg az ingatlanügyi hatóság a földhasználat változásának vagy törlésének átvezetésére irányuló eljárást folytatja.
