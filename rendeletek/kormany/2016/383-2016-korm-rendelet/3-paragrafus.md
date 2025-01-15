@@ -10,7 +10,11 @@
 
 a) földmérési és térinformatikai államigazgatási szerv illetékességi területe a hatáskörébe tartózó ügyekben az ország területére,
 
-b)[^12] fővárosi és vármegyei kormányhivatal illetékességi területe a hatáskörébe tartozó ügyekben az adott vármegye (főváros) területére,
+b)[^12] fővárosi és vármegyei kormányhivatal illetékességi területe
+
+ba) a hatáskörébe tartozó ügyekben az adott vármegye (főváros) területére,
+
+bb) a ba) alponttól eltérően, a földhasználati nyilvántartásból és a földművesekről, a mezőgazdasági termelőszervezetekről, valamint a mezőgazdasági üzemközpontokról vezetett nyilvántartásból történő adatszolgáltatás iránti ügyekben az ország területére
 
 c)[^13]
 
@@ -26,7 +30,7 @@ terjed ki.
 
 [^10]: A 3. § (1) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 242. § c) és d) pontja szerint módosított szöveg.
 [^11]: A 3. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 159. § (2) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 242. § a) és c)-d) pontja szerint módosított szöveg.
-[^12]: A 3. § (3) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 242. § b)-c) pontja szerint módosított szöveg.
+[^12]: A 3. § (3) bekezdés b) pontja a 481/2024. (XII. 31.) Korm. rendelet 57. §-ával megállapított szöveg.
 [^13]: A 3. § (3) bekezdés c) pontját a 360/2019. (XII. 30.) Korm. rendelet 159. § (45) bekezdés 1. pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 203. §-át.
 [^14]: A 3. § (4) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 159. § (45) bekezdés 2. pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 203. §-át.
 [^15]: A 3. § (5) bekezdését a 20/2017. (II. 2.) Korm. rendelet 17. § (1) bekezdése iktatta be, hatályon kívül helyezte a 360/2019. (XII. 30.) Korm. rendelet 159. § (45) bekezdés 2. pontja, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.

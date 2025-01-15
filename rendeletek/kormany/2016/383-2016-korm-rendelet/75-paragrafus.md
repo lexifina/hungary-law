@@ -1,12 +1,12 @@
 ## 31. A talajvédelmi hatósági eljárásokban vizsgálandó szakkérdések
 
-75. § (1)[^313] A szennyvíz és szennyvíziszap mezőgazdasági felhasználásának engedélyezése továbbá a nem mezőgazdasági eredetű nem veszélyes hulladék mezőgazdasági felhasználásának engedélyezési és az engedély meghosszabbítása iránti eljárásban szakkérdésként kell vizsgálni
+75. § (1)[^307] A szennyvíz és szennyvíziszap mezőgazdasági felhasználásának engedélyezése továbbá a nem mezőgazdasági eredetű nem veszélyes hulladék mezőgazdasági felhasználásának engedélyezési és az engedély meghosszabbítása iránti eljárásban szakkérdésként kell vizsgálni
 
 a) a vizek minőségét, egészségkárosítás nélküli fogyaszthatóságát, valamint a vizek felhasználhatóságát befolyásoló körülményeket, tényezőket,
 
 b) a tevékenységnek a környezet és a természet védelmére vonatkozó nemzeti és európai uniós jogi követelményeknek való megfelelőségét.
 
-(1a)[^314] A talajvédelmi hatóságként eljáró vármegyei kormányhivatal az engedélyezési eljárásában – az adott eljárásra vonatkozó különös szabályokban meghatározott szempontok mellett – a 6/A. mellékletben foglalt táblázat szerinti feltételek esetén vizsgálja a táblázatban meghatározott szakkérdést.
+(1a)[^308] A talajvédelmi hatóságként eljáró vármegyei kormányhivatal az engedélyezési eljárásában – az adott eljárásra vonatkozó különös szabályokban meghatározott szempontok mellett – a 6/A. mellékletben foglalt táblázat szerinti feltételek esetén vizsgálja a táblázatban meghatározott szakkérdést.
 
 (2) A mezőgazdasági célú tereprendezés engedélyezésére irányuló eljárásban, ha a tereprendezés
 
@@ -14,8 +14,8 @@ a) nyomvonaljellegű kőolaj- és földgázbányászati létesítmény, szállí
 
 b) ásványi nyersanyag kitermeléssel jár, szakkérdésként kell vizsgálni a kitermelni tervezett ásványi nyersanyag mennyiségét, fajtáját, felhasználását, a hasznosítás módjának meghatározását, az ásványvagyon-védelmi szempontok érvényesítését, valamint a bányajáradék-fizetési kötelezettséget.
 
-(3)[^315] A mezőgazdasági célú tereprendezés engedélyezésére irányuló eljárásban a bányászati hatáskörben eljáró vármegyei kormányhivatalt kell szakértőként kirendelni.
+(3)[^309] A mezőgazdasági célú tereprendezés engedélyezésére irányuló eljárásban a bányászati hatáskörben eljáró vármegyei kormányhivatalt kell szakértőként kirendelni.
 
-[^313]: A 75. § (1) bekezdés nyitó szövegrésze az 561/2023. (XII. 14.) Korm. rendelet 37. § b) pontja szerint módosított szöveg.
-[^314]: A 75. § (1a) bekezdését a 258/2024. (VIII. 29.) Korm. rendelet 17. §-a iktatta be.
-[^315]: A 75. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 159. § (42) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 242. § b) pontja szerint módosított szöveg.
+[^307]: A 75. § (1) bekezdés nyitó szövegrésze az 561/2023. (XII. 14.) Korm. rendelet 37. § b) pontja szerint módosított szöveg.
+[^308]: A 75. § (1a) bekezdését a 258/2024. (VIII. 29.) Korm. rendelet 17. §-a iktatta be.
+[^309]: A 75. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 159. § (42) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 242. § b) pontja szerint módosított szöveg.

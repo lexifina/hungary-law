@@ -2,8 +2,8 @@
 
 ## SZAKHATÓSÁGOK KIJELÖLÉSE
 
-## 21.[^298]
+## 21.[^292]
 
 63. §
 
-[^298]: A 21. alcímet (63–64. §) a 433/2017. (XII. 21.) Korm. rendelet 29. § (7) bekezdése hatályon kívül helyezte.
+[^292]: A 21. alcímet (63–64. §) a 433/2017. (XII. 21.) Korm. rendelet 29. § (7) bekezdése hatályon kívül helyezte.

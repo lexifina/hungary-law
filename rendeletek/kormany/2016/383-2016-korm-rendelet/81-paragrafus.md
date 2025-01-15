@@ -12,9 +12,9 @@ e) a nem emberi fogyasztásra szánt állati melléktermékekre és a belőlük 
 
 f) a növényvédő szerek forgalomba hozataláról, valamint a 79/117/EGK és a 91/414/EGK tanácsi irányelvek hatályon kívül helyezéséről szóló, 2009. október 21-i 1107/2009/EK európai parlamenti és tanácsi rendelet
 
-g)[^326] az uniós termésnövelő anyagok forgalmazására vonatkozó szabályok megállapításáról, az 1069/2009/EK és az 1107/2009/EK rendelet módosításáról, valamint a 2003/2003/EK rendelet hatályon kívül helyezéséről szóló, 2019. június 5-i (EU) 2019/1009 európai parlamenti és tanácsi rendelet 21. cikkének
+g)[^320] az uniós termésnövelő anyagok forgalmazására vonatkozó szabályok megállapításáról, az 1069/2009/EK és az 1107/2009/EK rendelet módosításáról, valamint a 2003/2003/EK rendelet hatályon kívül helyezéséről szóló, 2019. június 5-i (EU) 2019/1009 európai parlamenti és tanácsi rendelet 21. cikkének
 
-h)[^327] az erdőirtáshoz és az erdőpusztuláshoz kapcsolódó egyes áruk és termékek uniós piacon történő forgalmazásáról és Unióból történő kiviteléről, valamint a 995/2010/EU rendelet hatályon kívül helyezéséről szóló, 2023. május 31-i (EU) 2023/1115 európai parlamenti és tanácsi rendelet 14. cikkének
+h)[^321] az erdőirtáshoz és az erdőpusztuláshoz kapcsolódó egyes áruk és termékek uniós piacon történő forgalmazásáról és Unióból történő kiviteléről, valamint a 995/2010/EU rendelet hatályon kívül helyezéséről szóló, 2023. május 31-i (EU) 2023/1115 európai parlamenti és tanácsi rendelet 14. cikkének
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
@@ -26,5 +26,5 @@ b) a tudományos célokra felhasznált állatok védelméről szóló, 2010. sze
 
 való megfelelést szolgálja.
 
-[^326]: A 81. § (1) bekezdés g) pontját az 564/2020. (XII. 8.) Korm. rendelet 2. §-a iktatta be.
-[^327]: A 81. § (1) bekezdés h) pontját a 351/2024. (XI. 21.) Korm. rendelet 2. §-a iktatta be.
+[^320]: A 81. § (1) bekezdés g) pontját az 564/2020. (XII. 8.) Korm. rendelet 2. §-a iktatta be.
+[^321]: A 81. § (1) bekezdés h) pontját a 351/2024. (XI. 21.) Korm. rendelet 2. §-a iktatta be.
