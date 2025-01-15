@@ -15,3 +15,5 @@ d) a felszámolási eljárás megszüntetéséről szóló végzés közzététe
 (4) Az (1)–(3) bekezdésben foglaltakat nem lehet alkalmazni a Ctv. 116. § (5) bekezdése szerinti esetekben.
 
 (5) Az adósnak a (2) bekezdés szerinti felszámolási eljárás megszüntetése iránti kérelmét elutasító végzés ellen fellebbezésnek van helye.
+
+(6) A felszámolás megszüntetése esetén a bíróság elrendeli, hogy az ingatlanügyi hatóság a felszámolási eljárásra vonatkozó adatot az ingatlan-nyilvántartásból törölje, valamint a civil szervezetek nyilvántartásába bejegyzett adós esetén az adós nevére vonatkozó adatváltozást vezesse át.

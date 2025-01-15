@@ -8,7 +8,9 @@
 
 (4) Ha a felszámoló által benyújtott jelentést és vagyonfelosztási javaslatot – a kifogás elbírálásának eredményeként – nem kell átdolgozásra visszaadni a felszámolónak, a bíróság végzéssel elrendeli az adós vagyonának, illetve be nem hajtott követeléseinek a hitelezők közötti felosztását az 57. § (1) bekezdése alapján, valamint az adós jogutód nélküli megszüntetését és a felszámolási eljárás befejezését. Ha a jelentésre kifogást nem nyújtottak be, a végzést a felszámoló által benyújtott jelentés és vagyonfelosztási javaslat beérkezésétől számított 90 napon belül kell meghozni. Amennyiben kifogást nyújtottak be, ennek tárgyában a bíróság a (2) bekezdés szerinti észrevételezésre nyitva álló határidő elteltét követő 15 napon belül dönt. Az adós jogutód nélküli megszüntetéséről és a felszámolási eljárás befejezéséről hozott végzés ellen nincs helye felülvizsgálatnak.
 
-(5) A bíróság elrendeli a (4) bekezdés szerinti jogerős végzés kivonatának a Cégközlönyben való közzétételét, és azt megküldi a 29. §-ban foglalt szerveknek. A felszámoló a közzétételtől számított 15 napon belül köteles a közhiteles nyilvántartásoknál, hatósági nyilvántartásoknál eljárni annak érdekében, hogy abból törlésre kerüljenek azok az adatok, amelyeknél az adós tulajdonosként vagy más jogosultként van feltüntetve.
+(5) A bíróság elrendeli a (4) bekezdés szerinti jogerős végzés kivonatának a Cégközlönyben való közzétételét, és azt megküldi a 29. §-ban foglalt szerveknek. A felszámoló a közzétételtől számított 15 napon belül köteles a közhiteles járműnyilvántartásnál eljárni annak érdekében, hogy abból törlésre kerüljenek azok az adatok, amelyeknél az adós tulajdonosként vagy más jogosultként van feltüntetve.
+
+(5a) A bíróság a (4) bekezdés szerinti végzésben elrendeli, hogy az ingatlanügyi hatóság törölje az ingatlan-nyilvántartásból azokat a jogokat és adatokat, amelyeknél az adós jogosultként van feltüntetve.
 
 (6) A bíróság a (4) bekezdés szerinti végzésben az adós gazdálkodó szervezet vezetőjét
 

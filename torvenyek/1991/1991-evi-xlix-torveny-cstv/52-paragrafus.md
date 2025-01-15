@@ -30,6 +30,8 @@ e) a fel nem osztható vagyont,
 
 f) a felosztható vagyont.
 
+g) azoknak az ingatlanoknak és egyéb vagyontárgyaknak az adatait, ahol az adós jogosultként vagy kötelezettként van bejegyezve, valamint a nyilvántartást vezető bíróság (hatóság) megnevezését.
+
 (4) A bevételek és költségek alakulásáról készített kimutatás tartalmazza:
 
 a) a tevékenység folytatásával kapcsolatos árbevételeket és költségeket,

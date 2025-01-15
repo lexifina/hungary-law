@@ -1,10 +1,12 @@
 60. § (1) A bíróság a felszámolási zárómérleg és a vagyonfelosztási javaslat alapján végzéssel határoz a költségek viseléséről, a felszámoló díjazásáról, a hitelezők követelésének kielégítéséről, a pénzforgalmi számlák megszüntetéséről és a központi értéktár megkeresésével az adós által kibocsátott értékpapírok érvénytelenítéséről, valamint kötelezi a felszámolót a még szükséges intézkedések megtételére. Ezzel egyidejűleg dönt a felszámolás befejezéséről s az adós jogutód nélküli megszüntetéséről, továbbá rendelkezik az adós leányvállalatának, illetve tröszt esetén a tröszti vállalatnak a megszüntetéséről is.
 
+(1a) A bíróság elrendeli, hogy az ingatlanügyi hatóság törölje az ingatlan-nyilvántartásból azokat a jogokat és tényeket, amelyeknél az adós jogosultként van feltüntetve.
+
 (2) Ha a felek egyezséget kötöttek, a bíróság az egyezséget jóváhagyó végzésben dönt a felszámolási eljárás befejezéséről, a felszámoló díjazásáról, a költségek viseléséről és az egyezségi megállapodásból kizárt hitelezők követeléseinek kielégítéséről.
 
-(3) A bíróság elrendeli az (1)—(2) bekezdés szerinti jogerős végzéseknek a Cégközlönyben való közzétételét, és azokat megküldi a 29. §-ban felsorolt szerveknek.
+(3) A bíróság elrendeli az (1) és (2) bekezdés szerinti jogerős végzéseknek a Cégközlönyben való közzétételét, és azokat megküldi a 29. §-ban felsorolt szerveknek, továbbá a jóváhagyott vagyonfelosztási javaslatnak megfelelően és az ingatlan-nyilvántartásról szóló jogszabályokban meghatározott módon és feltételekkel rendeli el jog vagy adat keletkezésének, változásának vagy megszűnésének bejegyzését.
 
-(3a) A felszámoló az (1) bekezdés szerinti jogerős végzés közzétételétől számított 15 napon belül köteles a közhiteles nyilvántartásoknál, hatósági nyilvántartásoknál eljárni annak érdekében, hogy törlésre kerüljenek azok a jogok és tények, amelyeknél az adós jogosultként van feltüntetve.
+(3a) A felszámoló az (1) bekezdés szerinti jogerős végzés közzétételétől számított 15 napon belül köteles a közhiteles járműnyilvántartásnál eljárni annak érdekében, hogy törlésre kerüljenek azok a jogok és adatok, amelyeknél az adós jogosultként van feltüntetve.
 
 (4) A felszámolónak az 59. § (1) bekezdése szerint megállapított díját – megnövelve az általános forgalmi adó fizetéséhez szükséges arányos összeggel – elsősorban a Gazdasági Hivatal által kezelt elkülönített számlán rendelkezésre álló összegből kell megfizetni. Ha az elkülönített számlán a díj megfizetésére szolgáló összeg kevesebb, mint az 59. § (1) bekezdése alapján megállapítható díj, a felszámoló a különbözetet felszámolási költségként [57. § (2) bek. g) pont] érvényesítheti, kiegészítve az általános forgalmi adó fizetéséhez szükséges arányos összeggel.
 
