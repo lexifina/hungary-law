@@ -1,1 +1,3 @@
-1. § A települések katasztrófavédelmi besorolásáról szóló 44/2021. (XII. 16.) BM rendelet (a továbbiakban: R.) 1. melléklete az 1. melléklet szerint módosul.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
