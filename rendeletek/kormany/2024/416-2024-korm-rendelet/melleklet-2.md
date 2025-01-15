@@ -1,3 +1,3 @@
-2. melléklet a 416/2024. (XII. 20.) Korm. rendelethez[^35]
+2. melléklet a 416/2024. (XII. 20.) Korm. rendelethez[^34]
 
-[^35]: A 2. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^34]: A 2. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
