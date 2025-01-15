@@ -1,1 +1,1 @@
-### 85. §
+85. § E törvényben meghatározott eseteken túl földkönyv nem szolgáltatható, ha abból egy természetes személy tulajdonában álló valamennyi ingatlanról, valamint a javára vagy terhére bejegyzett valamennyi jogról, illetve tényről harmadik személy tudomást szerezhet.

@@ -1,1 +1,1 @@
-### 43. §
+43. § A kérelemhez csatolni kell a bejegyzés alapjául szolgáló okiratot, közjegyzői okirat esetén a közjegyzői okirat elektronikus hiteles kiadmányát, amelynek tartalmaznia kell jogszabályban meghatározott esetekben az okiratra vezetett záradékot. A kérelemhez csatolni kell továbbá a bejegyzéshez szükséges egyéb iratokat is.

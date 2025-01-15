@@ -1,1 +1,3 @@
-### 37. §
+37. § (1) A bejegyzés alapjául szolgáló jogerős bírósági, hatósági határozat vagy végleges közigazgatási hatósági döntés (e § alkalmazásában a továbbiakban együtt: határozat) tartalmára a 35. § (1) bekezdésében foglaltak az irányadók azzal az eltéréssel, hogy a határozatban a felek megállapodását – ideértve a bejegyzési engedélyt is – a bíróság, hatóság rendelkezése pótolja. Ez utóbbi rendelkezés bíróság által okiratba foglalt jognyilatkozatra nem vonatkozik.
+
+(2) Az állami szervek által vezetett, jogszabály által rendszeresített nyilvántartásokból készített kivonatnak csak a bejegyzéshez szükséges adatokat kell tartalmaznia.
