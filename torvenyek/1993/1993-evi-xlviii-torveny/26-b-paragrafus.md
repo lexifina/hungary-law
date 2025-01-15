@@ -34,10 +34,10 @@ be) a bányatelket törlő határozat számát, véglegessé válásának napjá
 
 (3b) A (3a) bekezdés szerinti nyilvántartás – a jogosítottjának neve és lakóhelye, illetve megnevezése és székhelye kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
-(4) A bányafelügyelet a bányatelket kérelemre vagy hivatalból módosíthatja. Ha a módosítás az ingatlan-nyilvántartásba bejegyzett bányatelket érint, a módosításról rendelkező véglegessé vált határozattal megkeresi az ingatlanügyi hatóságot a bányatelekben bekövetkezett módosulás ingatlan-nyilvántartási bejegyzése végett.
+(4) A bányafelügyelet a bányatelket kérelemre vagy hivatalból módosíthatja. Ha a módosítás az ingatlan-nyilvántartásba bejegyzett bányatelket érint, a módosításról rendelkező véglegessé vált határozata alapján felhívja az ingatlanügyi hatóságot a bányatelekben bekövetkezett módosulás ingatlan-nyilvántartási bejegyzése végett.
 
 (4a) A bányatelek módosítására a bányatelek megállapítására vonatkozó szabályokat kell megfelelően alkalmazni. Nem kell alkalmazni a 26/A. § (3) bekezdés b) pontjában és (3a) bekezdésében foglaltakat abban az esetben, ha a módosítás a bányatelek megosztására vagy bányatelkek egyesítésére irányul, és a módosítással megállapított bányatelek nem érint új térrészt a megosztott, illetve egyesített bányatelkek EOV rendszer szerinti koordinátái, alap- és fedőlapja által körülhatárolt térrészhez képest.
 
-(5) Ha a bányafelügyelet törli a bányatelket, a törlés tényét a nyilvántartásában átvezeti és a véglegessé vált törlő határozattal megkeresi az ingatlanügyi hatóságot a bányatelek-bejegyzés ingatlan-nyilvántartásból történő törlése végett. A bányatelek volt jogosultjának kötelezettségei a bányakárok megtérítése, a tájrendezés és a biztonság, valamint a környezet- és természetvédelem tekintetében a bányatelek törlését követően is fennállnak.
+(5) Ha a bányafelügyelet törli a bányatelket, a törlés tényét a nyilvántartásában átvezeti és a véglegessé vált törlő határozata alapján felhívja az ingatlanügyi hatóságot a bányatelek-bejegyzés ingatlan-nyilvántartásból történő törlése végett. A bányatelek volt jogosultjának kötelezettségei a bányakárok megtérítése, a tájrendezés és a biztonság, valamint a környezet- és természetvédelem tekintetében a bányatelek törlését követően is fennállnak.
 
 (6)

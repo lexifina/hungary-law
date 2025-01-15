@@ -36,7 +36,7 @@ okozott kárt az engedélyes az ingatlan tulajdonosának, használójának (a to
 
 (5e)
 
-(5f) A hatóság a vezetékjogi rendelkezést tartalmazó jogerős határozatával megkeresi az ingatlanügyi hatóságot a vezetékjog ingatlan-nyilvántartásba történő bejegyzése iránt. Ha a vezetékjog nem az egész földterületet, hanem annak csak egy részletét érinti, akkor a hatósági határozathoz mellékelni szükséges az ingatlannak a vezetékjoggal érintett részét ábrázoló, az ingatlanügyi hatóság által záradékolt vázrajzot is.
+(5f) A hatóság a vezetékjogi rendelkezést tartalmazó véglegessé vált határozata alapján felhívja az ingatlanügyi hatóságot a vezetékjog ingatlan-nyilvántartásba történő bejegyzése iránt. Ha a vezetékjog nem az egész földterületet, hanem annak csak egy részletét érinti, akkor a hatósági határozathoz mellékelni szükséges az ingatlannak a vezetékjoggal érintett részét ábrázoló, az ingatlanügyi hatóság által záradékolt vázrajzot is.
 
 (6) A felszíni ingatlan korlátozására vonatkozó jogok tartalmával, engedélyezésével, megszűnésével és a kártalanítással kapcsolatos részletes szabályokat a Kormány rendeletben állapítja meg.
 
