@@ -1,5 +1,3 @@
-## Műszaki biztonsági szempontból jelentős gázipari munkakörök jegyzéke II.
-
 |  | A | B | C | D |
 
 | 1. | Munkakör | Szakma/szakmai képesítés/végzettség | Munkakör betöltéséhez szükséges szakirányú szakmai gyakorlat | Továbbképzés gyakorisága |
@@ -8,11 +6,11 @@
 
 | 3. | Gáz- és hőtermelő berendezés-szerelő; gázszerelés | a) az egyes ipari és kereskedelmi tevékenységek gyakorlásához szükséges képesítésekről, valamint egyes műszaki szabályozási tárgyú miniszteri rendeletek módosításáról szóló ITM rendelet szerint; b) a gázszerelők és gázkészülék-javítók tevékenysége folytatásának részletes feltételeiről, az e tevékenységek bejelentésének és nyilvántartásának rendjéről, valamint az e tevékenységekre vonatkozó kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményekről szóló ITM rendelet szerint | – | 5 évenként |
 
-| 4. | Csatlakozó vezeték és felhasználói berendezések műszaki-biztonsági ellenőre | gázipari felsőfokú vagy középfokú végzettség | – | 5 évenként |
+| 4.[^12] |  |  |  |  |
 
 3. melléklet a 16/2018. (IX. 11.) ITM rendelethez
 
-## A továbbképzési programmal szemben támasztott alapkövetelmények
+A továbbképzési programmal szemben támasztott alapkövetelmények
 
 1. A képzési programnak a 2. pontban meghatározott szakmai követelményekkel összhangban tartalmaznia kell:
 
@@ -61,3 +59,5 @@
 3.4. információs és kommunikációs technológiák ismerete, az oktatás során való felhasználása.
 
 4. A képzésre jelentkezőkkel szemben támasztott felvételi követelmény: az 1. és 2. mellékletben az adott munkakörre előírt szakmai képesítés vagy végzettség megléte.
+
+[^12]: A 2. mellékletben foglalt táblázat 4. sorát az 59/2024. (XII. 31.) NGM rendelet 3. § d) pontja hatályon kívül helyezte.
