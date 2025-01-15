@@ -154,12 +154,14 @@ d) az állami ingatlan-nyilvántartási térképi adatbázisból előállított,
 
 díj-, költség- és térítésmentesen hozzáférhet.
 
-(33) Az öntözési igazgatási szerv az öntözési célú beruházásokhoz szükséges térképmásolatokhoz díj-, költség- és térítésmentesen hozzáférhet.
+(33)
 
 (34) A földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló törvényben meghatározott osztatlan közös tulajdon megszüntetésére irányuló eljárás lefolytatásához szükséges, a 3. § (1) bekezdés d)–f) pontjában foglalt adatbázisokhoz az ingatlanok megosztása céljából létrehozott és a Nemzeti Földalap kezeléséért felelős szerv által üzemeltetett informatikai program számára a hozzáférést díj-, költség- és térítésmentesen kell biztosítani.
 
 (35) A hulladékgazdálkodási hatóság – az elhagyott hulladék felszámolása érdekében – az elektronikus formában szolgáltatott térképmásolatok tekintetében teljes személyes díjmentességben részesül.
 
 (36) Az adatszolgáltató a Nemzeti Adatvagyon Ügynökség (a továbbiakban: NAVÜ) részére adatelemzési feladatainak ellátása érdekében az általa kért – a 3. § (1) bekezdése szerinti – adatokat átadja. A NAVÜ az átadott adatokat kizárólag adatelemzési célra használhatja fel, és kizárólag az adatelemzés eredményét jogosult továbbítani.
+
+(37) Bíróság, ügyészség és hatóság részére, ha jogszabályban meghatározott eljárásához szükséges, az ingatlan-nyilvántartási térképi adatbázishoz díjmentes elektronikus hozzáférést kell biztosítani. A térképi adatokhoz történő hozzáférést a bíróság, ügyészség vagy hatóság megkeresésére a földmérési és térinformatikai államigazgatási szerv biztosítja.
 
 (38) A Magyar Nemzeti Vagyonkezelő Zrt. – a jogszabályban meghatározott állami vagyon nyilvántartása teljeskörű és naprakész rendelkezésre állásának biztosítása érdekében – önköltséggel megegyező összegű díj megfizetése ellenében hozzáférhet a 3. § (1) bekezdés d)–f) pontjában foglalt adatbázisokhoz.

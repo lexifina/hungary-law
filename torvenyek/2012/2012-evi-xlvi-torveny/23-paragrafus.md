@@ -18,7 +18,7 @@ f) a földvédelmi, földminősítési tevékenységgel kapcsolatos földmérés
 
 g) a felmérési, térképezési vagy területszámítási hibák kiigazítására irányuló munkák,
 
-h) jogok ingatlan-nyilvántartási bejegyzéséhez, valamint tények feljegyzéséhez szükséges földmérési munkák, valamint
+h) jogok és tények ingatlan-nyilvántartási bejegyzéséhez szükséges földmérési munkák, valamint
 
 i) a földrendező és földkiadó bizottságokról szóló törvény, illetve a földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló 2020. évi LXXI. törvény 15. alcíme szerinti közös tulajdon megszüntetésével kapcsolatos földmérési munkák.
 
@@ -26,7 +26,7 @@ i) a földrendező és földkiadó bizottságokról szóló törvény, illetve a
 
 (2) Ingatlan-nyilvántartási célú földmérési tevékenységnek minősül az (1) bekezdésben foglaltakon kívül a földrészlethatárok kitűzésével és a földrészleten belüli használati megosztással kapcsolatos munka.
 
-(2a) Az (1) bekezdésben felsorolt munkák során előállított munkarészek szerinti változások az ingatlan-nyilvántartási átvezetéssel válnak az állami ingatlan-nyilvántartási térképi alapadatbázis részévé.
+(2a) Az (1) bekezdésben felsorolt munkák során előállított munkarészek szerinti változások az ingatlan-nyilvántartási bejegyzéssel válnak az állami ingatlan-nyilvántartási térképi alapadatbázis részévé.
 
 (3) Egyéb célú földmérési tevékenységnek minősülnek az állami alapfeladatok és alapmunkák körébe, valamint az ingatlan-nyilvántartási célú földmérési tevékenységek körébe nem tartozó földmérési munkák. Az egyéb célú földmérési tevékenység végzésének jogosultsági feltételrendszerét és a munkavégzés részletes szabályait a Kormány rendeletben határozza meg.
 

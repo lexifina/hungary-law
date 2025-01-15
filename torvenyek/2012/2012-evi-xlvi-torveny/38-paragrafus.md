@@ -12,7 +12,7 @@ b) állapítsa meg az a) pont szerinti hatóságok hatáskörébe tartozó ható
 
 c) határozza meg a nemzeti téradat-infrastruktúra működésének részletes szabályait, különös tekintettel az abban kezelt adatok körére, az adatszolgáltatás és adatkezelés rendjére, az adatok felhasználásának részletes szabályaira, valamint jelölje ki ezen feladatok központi irányításáért felelős szervezetet,
 
-d) állapítsa meg az államhatár vonalát rögzítő okmányok nyilvántartási példányai kezelésének, tárolásának rendjét és a változások átvezetésének szabályait,
+d) állapítsa meg az államhatár vonalát rögzítő okmányok nyilvántartási példányai kezelésének, tárolásának rendjét és a változások bejegyzésének szabályait,
 
 e) állapítsa meg a levegőből végzett távérzékelés engedélyezésének és a távérzékelési adatok használatának rendjét,
 

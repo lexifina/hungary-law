@@ -42,7 +42,7 @@ a) helyi térképtárban vagy adattárban tárolt állami alapadatok esetében a
 
 b) ingatlan-nyilvántartási célú földmérési és térképészeti tevékenység végzéséhez szükséges állami alapadatok tekintetében az ingatlanügyi hatóságként eljáró területileg illetékes kormányhivatal,
 
-c) az a) és b) pont alá nem tartozó állami alapadatok esetében az ingatlanügyi hatóságként eljáró földmérési és térinformatikai államigazgatási szerv, illetve fővárosi vagy vármegyei kormányhivatal,
+c) az a) és b) pont alá nem tartozó állami alapadatok esetében az ingatlanügyi hatóságként eljáró földmérési és térinformatikai államigazgatási szerv,
 
 d) a honvédelemért felelős miniszter felelősségi körébe tartozó földmérési és térképészeti tevékenység végzése során előállított állami alapadatok esetében a honvédelem térképészeti támogatásáért felelős szerv
 
