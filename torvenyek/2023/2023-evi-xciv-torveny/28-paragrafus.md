@@ -2,7 +2,7 @@
 
 a)
 
-b)
+b) 11. § (1a) bekezdésében a „feljegyzésre” szövegrész helyébe a „bejegyzésre” szöveg,
 
 c)
 
