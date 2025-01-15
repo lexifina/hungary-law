@@ -4,7 +4,7 @@
 
 ## Egyesület, Sportegyesület
 
-## Nyilatkozat[^135]
+## Nyilatkozat[^136]
 
 ## (Vezető tisztségviselő)
 
@@ -12,15 +12,15 @@
 
 Név: ...........................................................................................................................
 
-Lakóhely:[^136]...........................................................................................................................
+Lakóhely:[^137]...........................................................................................................................
 
-Anyja születési neve:[^137]………………………………………………………………………
+Anyja születési neve:[^138]………………………………………………………………………
 
-Cégjegyzékszám (nyilvántartási szám):[^138]......................................................................
+Cégjegyzékszám (nyilvántartási szám):[^139]......................................................................
 
-Székhely:[^139] .........................................................................................................................
+Székhely:[^140] .........................................................................................................................
 
-Jogi személy vezető tisztségviselő nevében vezető tisztségviselői feladatok ellátásra kijelölt természetes személy[^140]
+Jogi személy vezető tisztségviselő nevében vezető tisztségviselői feladatok ellátásra kijelölt természetes személy[^141]
 
 neve:…………………………………………………………………………………………
 
@@ -46,19 +46,19 @@ Kijelentem, hogy a Büntető Törvénykönyvről szóló 2012. évi C. törvény
 
 Az egyesület/sportegyesület alapszabályát teljes egészében megismertem, és velem szemben az alapszabály szerinti esetleges további összeférhetetlenségi, illetve kizáró okok sem állnak fenn.
 
-Kijelentem, hogy az egyesületnek/sportegyesületnek[^141]
+Kijelentem, hogy az egyesületnek/sportegyesületnek[^142]
 
 a) tagja vagyok.
 
-b)[^142] nem vagyok tagja.
+b)[^143] nem vagyok tagja.
 
 Kelt: ………………………………….., ………… év …………. hó ………. nap
 
 ……………………………………………………………
 
-aláírás[^143]
+aláírás[^144]
 
-Előttünk, mint tanúk előtt:[^144]
+Előttünk, mint tanúk előtt:[^145]
 
 Tanú neve: Tanú neve:
 
@@ -68,16 +68,16 @@ Személyi igazolvány száma: Személyi igazolvány száma:
 
 Aláírása: Aláírása:
 
-Ellenjegyezte:[^145]
+Ellenjegyezte:[^146]
 
-[^135]: A mintaokirat szövege csak ott és annyiban bővíthető vagy változtatható, amennyiben a mintaokirat azt kifejezetten megengedi. A szükség szerint kitöltendő szövegrészek abban az esetben is a mintaokirat részét képezik, ha ezen részek kitöltésére az adott egyesület/sportegyesület esetében nem volt szükség.
-[^136]: Természetes személy esetén kell kitölteni.
+[^136]: A mintaokirat szövege csak ott és annyiban bővíthető vagy változtatható, amennyiben a mintaokirat azt kifejezetten megengedi. A szükség szerint kitöltendő szövegrészek abban az esetben is a mintaokirat részét képezik, ha ezen részek kitöltésére az adott egyesület/sportegyesület esetében nem volt szükség.
 [^137]: Természetes személy esetén kell kitölteni.
-[^138]: Jogi személy esetén kell kitölteni. Cégjegyzékszám vagy egyéb nyilvántartási szám.
-[^139]: Jogi személy esetén kell kitölteni.
+[^138]: Természetes személy esetén kell kitölteni.
+[^139]: Jogi személy esetén kell kitölteni. Cégjegyzékszám vagy egyéb nyilvántartási szám.
 [^140]: Jogi személy esetén kell kitölteni.
-[^141]: Csak egy lehetőség választható.
-[^142]: Csak akkor választható, ha az alapszabály lehetővé teszi, hogy a vezető tisztségviselők legfeljebb egyharmada választható az egyesület tagjain kívüli személyekből.
-[^143]: A nyilatkozatot tevő természetes személy, vagy jogi személy képviselőjének aláírása.
-[^144]: Kitöltendő az aláírás/aláírások valódiságának tanúk általi igazolása esetén.
-[^145]: Szükség esetén kitöltendő.
+[^141]: Jogi személy esetén kell kitölteni.
+[^142]: Csak egy lehetőség választható.
+[^143]: Csak akkor választható, ha az alapszabály lehetővé teszi, hogy a vezető tisztségviselők legfeljebb egyharmada választható az egyesület tagjain kívüli személyekből.
+[^144]: A nyilatkozatot tevő természetes személy, vagy jogi személy képviselőjének aláírása.
+[^145]: Kitöltendő az aláírás/aláírások valódiságának tanúk általi igazolása esetén.
+[^146]: Szükség esetén kitöltendő.

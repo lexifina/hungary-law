@@ -2,7 +2,7 @@
 
 ## Egyesület, Sportegyesület
 
-## Jegyzőkönyv[^179]
+## Jegyzőkönyv[^180]
 
 ## 1. Egyesület/Sportegyesület neve:
 
@@ -16,7 +16,7 @@
 
 ## 3. A közgyűlés időpontja: …………..év …………….. hó………… nap ………óra ……..perc
 
-## 4. A közgyűlés típusa:[^180]
+## 4. A közgyűlés típusa:[^181]
 
 ## a) közgyűlés
 
@@ -34,33 +34,33 @@
 
 ## A levezető elnök feladata a szavazások eredményének megállapítása is.
 
-## 7.[^181] A levezető elnök az ülést megnyitja és a jelenléti ív alapján megállapítja, hogy az ülés
+## 7.[^182] A levezető elnök az ülést megnyitja és a jelenléti ív alapján megállapítja, hogy az ülés
 
 ## a) határozatképes.
 
 ## b) nem határozatképes.
 
-## 8.[^182] A levezető elnök megállapítja, hogy az ülés összehívása
+## 8.[^183] A levezető elnök megállapítja, hogy az ülés összehívása
 
 ## a) szabályszerű.
 
 ## b) nem szabályszerű.
 
-## 9.[^183] Amennyiben az ülést nem szabályszerűen hívták össze, a közgyűlés határoz az ülés megtarthatósága tekintetében.
+## 9.[^184] Amennyiben az ülést nem szabályszerűen hívták össze, a közgyűlés határoz az ülés megtarthatósága tekintetében.
 
-## 9.1.[^184] A levezető elnök megállapítja, hogy a részvételre jogosultak legalább háromnegyede
+## 9.1.[^185] A levezető elnök megállapítja, hogy a részvételre jogosultak legalább háromnegyede
 
 ## a) jelen van.
 
 ## b) nincs jelen.
 
-## 9.2.[^185] A szavazás módja
+## 9.2.[^186] A szavazás módja
 
 ## a) nyílt.
 
 ## b) titkos.
 
-## 9.3.[^186] A szavazás eredménye:
+## 9.3.[^187] A szavazás eredménye:
 
 ## Támogató szavazatok száma:……
 
@@ -70,13 +70,13 @@
 
 ## Nem szavazók száma:………
 
-## 9.4.[^187] A levezető elnök a 9.1., 9.2. és 9.3. pontokban foglaltak alapján megállapítja, hogy az ülés
+## 9.4.[^188] A levezető elnök a 9.1., 9.2. és 9.3. pontokban foglaltak alapján megállapítja, hogy az ülés
 
 ## a) megtartható.
 
 ## b) nem tartható meg.
 
-## 10.[^188] A levezető elnök javaslatot tesz a napirendi pontokra:
+## 10.[^189] A levezető elnök javaslatot tesz a napirendi pontokra:
 
 ## 10.1.…………………………………………………………………………………………………….
 
@@ -86,27 +86,27 @@
 
 ## 10.4.……………………………………………………………………………………………………
 
-## 11.1.[^189] A levezető elnök megállapítja, hogy az alábbi napirendi pontok szabályszerűen kerültek közlésre:
+## 11.1.[^190] A levezető elnök megállapítja, hogy az alábbi napirendi pontok szabályszerűen kerültek közlésre:
 
 ## ……………………………………………………………………………………………………………
 
-## 11.2.[^190] A levezető elnök megállapítja, hogy az alábbi napirendi pontok közlése nem volt szabályszerű:
+## 11.2.[^191] A levezető elnök megállapítja, hogy az alábbi napirendi pontok közlése nem volt szabályszerű:
 
 ## ……………………………………………………………………………………………………………
 
-## 11.3.[^191] Szavazás a nem szabályszerűen közölt napirendi pontról[^192]
+## 11.3.[^192] Szavazás a nem szabályszerűen közölt napirendi pontról[^193]
 
 ## 11.3.1. Napirendi pont száma és tárgya:
 
 ## ……………………………………………………………………………………………………………
 
-## A részvételre jogosultak legalább háromnegyede[^193]
+## A részvételre jogosultak legalább háromnegyede[^194]
 
 ## a) jelen van.
 
 ## b) nincs jelen.
 
-## A szavazás eredménye:[^194]
+## A szavazás eredménye:[^195]
 
 ## Támogató szavazatok száma:……
 
@@ -116,29 +116,29 @@
 
 ## Nem szavazók száma:………
 
-## A közgyűlés a napirendi pont megtárgyalásához egyhangúlag[^195]
+## A közgyűlés a napirendi pont megtárgyalásához egyhangúlag[^196]
 
 ## a) hozzájárult.
 
 ## b) nem járult hozzá.
 
-## A levezető elnök megállapítja, hogy a napirendi pont[^196]
+## A levezető elnök megállapítja, hogy a napirendi pont[^197]
 
 ## a) tárgyalható.
 
 ## b) nem tárgyalható.
 
-## 11.4.[^197] Napirend kiegészítése
+## 11.4.[^198] Napirend kiegészítése
 
-## 11.4.1.[^198] A napirend alábbi napirendi ponttal történő kiegészítésére érkezett javaslat:
+## 11.4.1.[^199] A napirend alábbi napirendi ponttal történő kiegészítésére érkezett javaslat:
 
-## A levezető elnök tájékoztatja a közgyűlést, hogy a közgyűlést összehívó szerv vagy személy[^199]
+## A levezető elnök tájékoztatja a közgyűlést, hogy a közgyűlést összehívó szerv vagy személy[^200]
 
 ## a) a kérelmet elutasította.
 
 ## b) a kérelemről nem döntött.
 
-## A szavazás eredménye:[^200]
+## A szavazás eredménye:[^201]
 
 ## Támogató szavazatok száma:……
 
@@ -148,7 +148,7 @@
 
 ## Nem szavazók száma:………
 
-## A közgyűlés a napirendi pont megtárgyalásához egyhangúlag [^201]
+## A közgyűlés a napirendi pont megtárgyalásához egyhangúlag [^202]
 
 ## a) hozzájárult.
 
@@ -156,7 +156,7 @@
 
 ## 12. A levezető elnök a 10. pontban megjelölt napirendi pontok, a szabályszerűen nem közölt napirendi pontok, valamint a napirend kiegészítése iránti kérelmek tárgyában hozott közgyűlési döntések alapján szavazásra bocsátja közgyűlés napirendjét.
 
-## A szavazás eredménye:[^202]
+## A szavazás eredménye:[^203]
 
 ## Támogató szavazatok száma:……
 
@@ -170,29 +170,29 @@
 
 ## 13. Határozathozatal az egyes napirendi pontok tárgyában
 
-## 13.1.[^203]
+## 13.1.[^204]
 
 ## Napirendi pont száma és tárgya:
 
 ## ……………………………………………………………………………………………………………
 
-## Elhangzott indítványok:[^204]
+## Elhangzott indítványok:[^205]
 
 ## ……………………………………………………………………………………………………………
 
-## Közgyűlésen lezajlott fontosabb események:[^205]
+## Közgyűlésen lezajlott fontosabb események:[^206]
 
 ## ……………………………………………………………………………………………………………
 
-## Határozati javaslat:[^206]
+## Határozati javaslat:[^207]
 
 ## ……………………………………………………………………………………………………………
 
 ## Határozatképesség megállapítása:………………………………………………………………………..
 
-## Határozathozatal módja: nyílt/titkos.[^207]
+## Határozathozatal módja: nyílt/titkos.[^208]
 
-## A szavazás eredménye:[^208]
+## A szavazás eredménye:[^209]
 
 ## Támogató szavazatok száma:……
 
@@ -202,7 +202,7 @@
 
 ## Nem szavazók száma:………
 
-## A határozat száma és pontos szövege:[^209] ……………………………………………………………..
+## A határozat száma és pontos szövege:[^210] ……………………………………………………………..
 
 ## ……………………………………………………………………………………………………….
 
@@ -226,7 +226,7 @@
 
 ## Egyesület, Sportegyesület
 
-## Közgyűlés jelenléti íve[^210]
+## Közgyűlés jelenléti íve[^211]
 
 1. Egyesület/Sportegyesület neve:
 
@@ -238,35 +238,35 @@
 
 3. A közgyűlés időpontja: …………év ……………. hó……… nap ……óra …. perc
 
-4.[^211] A közgyűlés típusa:
+4.[^212] A közgyűlés típusa:
 
 a) közgyűlés
 
 b) megismételt közgyűlés
 
-5.[^212] Jelenlévők:
+5.[^213] Jelenlévők:
 
 5.1.
 
 Név: .............................................................................................................................................
 
-tagként; meghívottként; tanácskozási joggal rendelkező résztvevőként[^213]
+tagként; meghívottként; tanácskozási joggal rendelkező résztvevőként[^214]
 
 Tagot megillető szavazatok száma:……………………………………………………………
 
-Lakóhely:[^214] .....................................................................................................................................
+Lakóhely:[^215] .....................................................................................................................................
 
-Székhely:[^215] ......................................................................................................................................
+Székhely:[^216] ......................................................................................................................................
 
-Cégjegyzékszám, nyilvántartási szám:[^216] ………………………………………………………………
+Cégjegyzékszám, nyilvántartási szám:[^217] ………………………………………………………………
 
-Képviselő neve, képviseleti minőségének megjelölése:[^217]
+Képviselő neve, képviseleti minőségének megjelölése:[^218]
 
 .......................................................................................................................................................
 
-Képviselő lakóhelye vagy székhelye:[^218] ………………………………………………………………
+Képviselő lakóhelye vagy székhelye:[^219] ………………………………………………………………
 
-Aláírás:[^219]………………………………………………………………………………………………..
+Aláírás:[^220]………………………………………………………………………………………………..
 
 5.2.
 
@@ -444,7 +444,7 @@ Képviselő lakóhelye vagy székhelye:9 …………………………………
 
 Aláírás:10 ………………………………………………………………………………………………..
 
-5.10.[^220]
+5.10.[^221]
 
 Név: .............................................................................................................................................
 
@@ -474,45 +474,45 @@ A jelenléti ív hiteléül:
 
 közgyűlés levezető elnökének aláírása jegyzőkönyvvezető aláírása
 
-[^179]: A mintaokirat szövege csak ott és annyiban bővíthető vagy változtatható, amennyiben a mintaokirat azt kifejezetten megengedi. A szükség szerint kitöltendő szövegrészek abban az esetben is a mintaokirat részét képezik, ha ezen részek kitöltésére az adott egyesület/sportegyesület esetében nem volt szükség.
-[^180]: Csak egy lehetőség választható.
+[^180]: A mintaokirat szövege csak ott és annyiban bővíthető vagy változtatható, amennyiben a mintaokirat azt kifejezetten megengedi. A szükség szerint kitöltendő szövegrészek abban az esetben is a mintaokirat részét képezik, ha ezen részek kitöltésére az adott egyesület/sportegyesület esetében nem volt szükség.
 [^181]: Csak egy lehetőség választható.
 [^182]: Csak egy lehetőség választható.
-[^183]: 8. b) pont választása esetén alkalmazandó.
-[^184]: Csak egy lehetőség választható.
-[^185]: 9.1. a) pont választása esetén alkalmazandó. Csak egy lehetőség választható.
-[^186]: 9.1. a) pont választása esetén alkalmazandó, számmal kitöltendő.
-[^187]: Csak egy lehetőség választható.
-[^188]: Szükség esetén 10.5. sorszámozástól folyamatos számozással bővíthető.
-[^189]: A napirendi pontok számával jelölendő, szükség esetén bővíthető.
+[^183]: Csak egy lehetőség választható.
+[^184]: 8. b) pont választása esetén alkalmazandó.
+[^185]: Csak egy lehetőség választható.
+[^186]: 9.1. a) pont választása esetén alkalmazandó. Csak egy lehetőség választható.
+[^187]: 9.1. a) pont választása esetén alkalmazandó, számmal kitöltendő.
+[^188]: Csak egy lehetőség választható.
+[^189]: Szükség esetén 10.5. sorszámozástól folyamatos számozással bővíthető.
 [^190]: A napirendi pontok számával jelölendő, szükség esetén bővíthető.
-[^191]: Akkor kell szavazásra bocsátani, ha valamelyik napirendi pont közlése nem volt szabályszerű.
-[^192]: Szükség esetén 11.3.2. sorszámozástól folyamatos számozással bővíthető.
-[^193]: Csak egy lehetőség választható.
-[^194]: Számmal kitöltendő.
-[^195]: Csak egy lehetőség választható.
+[^191]: A napirendi pontok számával jelölendő, szükség esetén bővíthető.
+[^192]: Akkor kell szavazásra bocsátani, ha valamelyik napirendi pont közlése nem volt szabályszerű.
+[^193]: Szükség esetén 11.3.2. sorszámozástól folyamatos számozással bővíthető.
+[^194]: Csak egy lehetőség választható.
+[^195]: Számmal kitöltendő.
 [^196]: Csak egy lehetőség választható.
-[^197]: Akkor kell szavazásra bocsátani, ha kérelem érkezett napirend kiegészítése tárgyában a közgyűlést összehívó szervhez vagy személyhez, és a közgyűlést összehívó szerv vagy személy a napirend kiegészítése iránti kérelmet elutasította, vagy a kérelem tárgyában nem döntött. (Ptk. 3:73. § (1) és (2) bekezdés).
-[^198]: Szükség esetén 11.4.2. sorszámozástól folyamatos számozással bővíthető.
-[^199]: Csak egy lehetőség választható.
-[^200]: Számmal kitöltendő.
-[^201]: Csak egy lehetőség választható.
-[^202]: Számmal kitöltendő.
-[^203]: Szükség esetén 13.2. sorszámozástól folyamatos számozással bővíthető.
-[^204]: Szükség esetén bővíthető.
-[^205]: Szükség esetén kitöltendő. Bővíthető.
-[^206]: Szükség esetén bővíthető.
-[^207]: Csak egy lehetőség választható.
-[^208]: Számmal kitöltendő. Több javaslat esetén akként bővíthető, hogy a szavazás eredményét javaslatonként kell feltüntetni.
-[^209]: Szükség esetén bővíthető.
-[^210]: A mintaokirat szövege csak ott és annyiban bővíthető vagy változtatható, amennyiben a mintaokirat azt kifejezetten megengedi. A szükség szerint kitöltendő szövegrészek abban az esetben is a mintaokirat részét képezik, ha ezen részek kitöltésére az adott egyesület/sportegyesület esetében nem volt szükség.
-[^211]: Csak egy lehetőség választható.
-[^212]: Szükség esetén 5.11. sorszámtól folyamatos számozással bővíthető.
-[^213]: Csak egy lehetőség választható.
-[^214]: Természetes személy esetén kell kitölteni.
-[^215]: Jogi személy vagy jogi személyiséggel nem rendelkező szervezet esetén kell kitölteni.
-[^216]: Jogi személy vagy jogi személyiséggel nem rendelkező szervezet esetén kell kitölteni. Cégjegyzékszám, egyéb nyilvántartási szám.
-[^217]: Akkor kell kitölteni, ha a jelen lévő jogi személy vagy jogi személyiséggel nem rendelkező szervezet, vagy olyan természetes személy, aki gyámság, szülői felügyelet, cselekvőképességet teljesen korlátozó gondnokság, vagy cselekvőképességet részlegesen, egyesületi közgyűlésen történő részvétel körében korlátozó gondokság alatt áll. A jognyilatkozat megtételekor figyelemmel kell lenni a Ptk. 2:15. § és 2:23. §-ában foglaltakra. Több képviselő esetén bővíthető.
-[^218]: Több képviselő esetén bővíthető.
-[^219]: Jelenlévő vagy képviselője aláírása.
-[^220]: Szükség esetén 5.11. sorszámtól folyamatos számozással bővíthető.
+[^197]: Csak egy lehetőség választható.
+[^198]: Akkor kell szavazásra bocsátani, ha kérelem érkezett napirend kiegészítése tárgyában a közgyűlést összehívó szervhez vagy személyhez, és a közgyűlést összehívó szerv vagy személy a napirend kiegészítése iránti kérelmet elutasította, vagy a kérelem tárgyában nem döntött. (Ptk. 3:73. § (1) és (2) bekezdés).
+[^199]: Szükség esetén 11.4.2. sorszámozástól folyamatos számozással bővíthető.
+[^200]: Csak egy lehetőség választható.
+[^201]: Számmal kitöltendő.
+[^202]: Csak egy lehetőség választható.
+[^203]: Számmal kitöltendő.
+[^204]: Szükség esetén 13.2. sorszámozástól folyamatos számozással bővíthető.
+[^205]: Szükség esetén bővíthető.
+[^206]: Szükség esetén kitöltendő. Bővíthető.
+[^207]: Szükség esetén bővíthető.
+[^208]: Csak egy lehetőség választható.
+[^209]: Számmal kitöltendő. Több javaslat esetén akként bővíthető, hogy a szavazás eredményét javaslatonként kell feltüntetni.
+[^210]: Szükség esetén bővíthető.
+[^211]: A mintaokirat szövege csak ott és annyiban bővíthető vagy változtatható, amennyiben a mintaokirat azt kifejezetten megengedi. A szükség szerint kitöltendő szövegrészek abban az esetben is a mintaokirat részét képezik, ha ezen részek kitöltésére az adott egyesület/sportegyesület esetében nem volt szükség.
+[^212]: Csak egy lehetőség választható.
+[^213]: Szükség esetén 5.11. sorszámtól folyamatos számozással bővíthető.
+[^214]: Csak egy lehetőség választható.
+[^215]: Természetes személy esetén kell kitölteni.
+[^216]: Jogi személy vagy jogi személyiséggel nem rendelkező szervezet esetén kell kitölteni.
+[^217]: Jogi személy vagy jogi személyiséggel nem rendelkező szervezet esetén kell kitölteni. Cégjegyzékszám, egyéb nyilvántartási szám.
+[^218]: Akkor kell kitölteni, ha a jelen lévő jogi személy vagy jogi személyiséggel nem rendelkező szervezet, vagy olyan természetes személy, aki gyámság, szülői felügyelet, cselekvőképességet teljesen korlátozó gondnokság, vagy cselekvőképességet részlegesen, egyesületi közgyűlésen történő részvétel körében korlátozó gondokság alatt áll. A jognyilatkozat megtételekor figyelemmel kell lenni a Ptk. 2:15. § és 2:23. §-ában foglaltakra. Több képviselő esetén bővíthető.
+[^219]: Több képviselő esetén bővíthető.
+[^220]: Jelenlévő vagy képviselője aláírása.
+[^221]: Szükség esetén 5.11. sorszámtól folyamatos számozással bővíthető.

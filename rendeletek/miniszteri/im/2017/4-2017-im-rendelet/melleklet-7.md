@@ -4,7 +4,7 @@
 
 ## Egyesület, Sportegyesület
 
-## Nyilatkozat székhelyhasználat engedélyezéséről[^149]
+## Nyilatkozat székhelyhasználat engedélyezéséről[^150]
 
 1. Az egyesület/sportegyesület neve:
 
@@ -12,27 +12,27 @@
 
 2. A székhelyhasználatot engedélyező személy
 
-2.1.[^150]
+2.1.[^151]
 
 Név: ...........................................................................................................................................
 
-Lakóhely:[^151]...................................................................................................................................
+Lakóhely:[^152]...................................................................................................................................
 
-Anyja születési neve:[^152]………………………………………………………………………………..
+Anyja születési neve:[^153]………………………………………………………………………………..
 
-Székhely:[^153] ......................................................................................................................................
+Székhely:[^154] ......................................................................................................................................
 
-Nyilvántartási szám, cégjegyzékszám:[^154] ………………………………………………………...
+Nyilvántartási szám, cégjegyzékszám:[^155] ………………………………………………………...
 
-Képviselő neve, képviseleti minőségének megjelölése:[^155]
+Képviselő neve, képviseleti minőségének megjelölése:[^156]
 
 .......................................................................................................................................................
 
-Képviselő lakóhelye vagy székhelye:[^156] ………………………………………………………………
+Képviselő lakóhelye vagy székhelye:[^157] ………………………………………………………………
 
 Az engedélyezéssel érintett tulajdoni hányad:……………………………………………………….
 
-A székhelyhasználatot engedélyező személy ingatlan feletti rendelkezési jogát megalapozó jogcím:[^157]
+A székhelyhasználatot engedélyező személy ingatlan feletti rendelkezési jogát megalapozó jogcím:[^158]
 
 a) tulajdonos
 
@@ -40,7 +40,7 @@ b) haszonélvező
 
 c) bérlő
 
-d) egyéb:[^158]……………………………………………………………………………………………….
+d) egyéb:[^159]……………………………………………………………………………………………….
 
 3. Az ingatlan adatai
 
@@ -62,13 +62,13 @@ ajtószám: …………………
 
 helyrajzi szám:………………………………………………………………………….
 
-4.[^159] A székhelyhasználat jogcímének megnevezése:
+4.[^160] A székhelyhasználat jogcímének megnevezése:
 
 a) bérlet
 
 b) szívességi használat
 
-c) egyéb:[^160]………………………………………………………………………………………………
+c) egyéb:[^161]………………………………………………………………………………………………
 
 5. A székhelyhasználatot engedélyező személy/személyek nyilatkozata
 
@@ -78,9 +78,9 @@ Kelt: ………………………………….., ………………év ………
 
 ……………………………………………………………………………………..
 
-aláírás[^161]
+aláírás[^162]
 
-Előttünk, mint tanúk előtt:[^162]
+Előttünk, mint tanúk előtt:[^163]
 
 Tanú neve: Tanú neve:
 
@@ -90,20 +90,20 @@ Személyi igazolvány száma: Személyi igazolvány száma:
 
 Aláírása: Aláírása:
 
-Ellenjegyezte:[^163]
+Ellenjegyezte:[^164]
 
-[^149]: Kitöltendő, amennyiben nem az egyesület/sportegyesület a székhelyül szolgáló ingatlan tulajdonosa. Ha az egyesület/sportegyesület a székhelyül szolgáló ingatlan tulajdonosa, a tulajdonjogát igazoló okirat másolatát kell a nyilvántartásba vétel/változásbejegyzés iránti kérelemhez csatolnia. (A civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény 21. § (1a) bekezdés). A mintaokirat szövege csak ott és annyiban bővíthető vagy változtatható, amennyiben a mintaokirat azt kifejezetten megengedi. A szükség szerint kitöltendő szövegrészek abban az esetben is a mintaokirat részét képezik, ha ezen részek kitöltésére az adott egyesület/sportegyesület esetében nem volt szükség.
-[^150]: Szükség esetén 2.2. sorszámozástól folyamatos számozással bővíthető.
-[^151]: Természetes személy esetén kell kitölteni.
+[^150]: Kitöltendő, amennyiben nem az egyesület/sportegyesület a székhelyül szolgáló ingatlan tulajdonosa. Ha az egyesület/sportegyesület a székhelyül szolgáló ingatlan tulajdonosa, a tulajdonjogát igazoló okirat másolatát kell a nyilvántartásba vétel/változásbejegyzés iránti kérelemhez csatolnia. (A civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény 21. § (1a) bekezdés). A mintaokirat szövege csak ott és annyiban bővíthető vagy változtatható, amennyiben a mintaokirat azt kifejezetten megengedi. A szükség szerint kitöltendő szövegrészek abban az esetben is a mintaokirat részét képezik, ha ezen részek kitöltésére az adott egyesület/sportegyesület esetében nem volt szükség.
+[^151]: Szükség esetén 2.2. sorszámozástól folyamatos számozással bővíthető.
 [^152]: Természetes személy esetén kell kitölteni.
-[^153]: Jogi személy vagy jogi személyiséggel nem rendelkező szervezet esetén kell kitölteni.
+[^153]: Természetes személy esetén kell kitölteni.
 [^154]: Jogi személy vagy jogi személyiséggel nem rendelkező szervezet esetén kell kitölteni.
-[^155]: Akkor kell kitölteni, ha a székhelyhasználatot engedélyező személy jogi személy vagy jogi személyiséggel nem rendelkező szervezet, vagy olyan természetes személy, aki gyámság, szülői felügyelet, cselekvőképességet teljesen korlátozó gondnokság, vagy cselekvőképességet részlegesen, az ingatlannal való rendelkezés körében korlátozó gondokság alatt áll. A jognyilatkozat megtételekor figyelemmel kell lenni a Ptk. 2:15. § és 2:23. §-ában foglaltakra. Több képviselő esetén bővíthető.
-[^156]: Több képviselő esetén bővíthető.
-[^157]: Csak egy lehetőség választható.
-[^158]: Választása esetén kitöltendő.
-[^159]: Csak egy lehetőség választható.
-[^160]: Választása esetén kitöltendő.
-[^161]: A székhelyhasználatot engedélyező személy/személyek vagy képviselő/képviselők aláírása. Szükség esetén bővíthető.
-[^162]: Kitöltendő az aláírás/aláírások valódiságának tanúk általi igazolása esetén.
-[^163]: Szükség esetén kitöltendő.
+[^155]: Jogi személy vagy jogi személyiséggel nem rendelkező szervezet esetén kell kitölteni.
+[^156]: Akkor kell kitölteni, ha a székhelyhasználatot engedélyező személy jogi személy vagy jogi személyiséggel nem rendelkező szervezet, vagy olyan természetes személy, aki gyámság, szülői felügyelet, cselekvőképességet teljesen korlátozó gondnokság, vagy cselekvőképességet részlegesen, az ingatlannal való rendelkezés körében korlátozó gondokság alatt áll. A jognyilatkozat megtételekor figyelemmel kell lenni a Ptk. 2:15. § és 2:23. §-ában foglaltakra. Több képviselő esetén bővíthető.
+[^157]: Több képviselő esetén bővíthető.
+[^158]: Csak egy lehetőség választható.
+[^159]: Választása esetén kitöltendő.
+[^160]: Csak egy lehetőség választható.
+[^161]: Választása esetén kitöltendő.
+[^162]: A székhelyhasználatot engedélyező személy/személyek vagy képviselő/képviselők aláírása. Szükség esetén bővíthető.
+[^163]: Kitöltendő az aláírás/aláírások valódiságának tanúk általi igazolása esetén.
+[^164]: Szükség esetén kitöltendő.

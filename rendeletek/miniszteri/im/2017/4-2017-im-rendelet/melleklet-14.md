@@ -4,7 +4,7 @@
 
 ## Alapítvány
 
-## Nyilatkozat[^424]
+## Nyilatkozat[^425]
 
 ## (Felügyelőbizottsági tag)
 
@@ -34,7 +34,7 @@ Kijelentem, hogy sem én, sem hozzátartozóm nem vezető tisztségviselője az 
 
 Kijelentem, hogy nem vagyok az alapítvány kedvezményezettje, sem annak közeli hozzátartozója.
 
-Kijelentem, hogy[^425]
+Kijelentem, hogy[^426]
 
 a) az alapítvány alapítója vagyok.
 
@@ -50,7 +50,7 @@ Kelt: ………………………………….., ………… év …………. 
 
 a nyilatkozó személy aláírása
 
-Előttünk, mint tanúk előtt:[^426]
+Előttünk, mint tanúk előtt:[^427]
 
 Tanú neve: Tanú neve:
 
@@ -60,9 +60,9 @@ Személyi igazolvány száma: Személyi igazolvány száma:
 
 Aláírása: Aláírása:
 
-Ellenjegyezte:[^427]
+Ellenjegyezte:[^428]
 
-[^424]: Kitöltése kötelező, amennyiben az alapító okirat mintaokirattal alapított alapítványnál felügyelőbizottság működik. A mintaokirat szövege csak ott és annyiban bővíthető vagy változtatható, amennyiben a mintaokirat azt kifejezetten megengedi. A szükség szerint kitöltendő szövegrészek abban az esetben is a mintaokirat részét képezik, ha ezen részek kitöltésére az adott alapítvány esetében nem volt szükség.
-[^425]: Csak egy lehetőség választható.
-[^426]: Kitöltendő az aláírás valódiságának tanúk általi igazolása esetén.
-[^427]: Szükség esetén kitöltendő.
+[^425]: Kitöltése kötelező, amennyiben az alapító okirat mintaokirattal alapított alapítványnál felügyelőbizottság működik. A mintaokirat szövege csak ott és annyiban bővíthető vagy változtatható, amennyiben a mintaokirat azt kifejezetten megengedi. A szükség szerint kitöltendő szövegrészek abban az esetben is a mintaokirat részét képezik, ha ezen részek kitöltésére az adott alapítvány esetében nem volt szükség.
+[^426]: Csak egy lehetőség választható.
+[^427]: Kitöltendő az aláírás valódiságának tanúk általi igazolása esetén.
+[^428]: Szükség esetén kitöltendő.

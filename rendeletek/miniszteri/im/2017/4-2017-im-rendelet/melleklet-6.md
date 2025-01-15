@@ -4,7 +4,7 @@
 
 ## Egyesület, Sportegyesület
 
-## Nyilatkozat[^146]
+## Nyilatkozat[^147]
 
 ## (Felügyelőbizottsági tag)
 
@@ -34,7 +34,7 @@ Kijelentem, hogy sem én, sem hozzátartozóm nem vezető tisztségviselője a 2
 
 Kijelentem, hogy a Büntető Törvénykönyvről szóló 2012. évi C. törvény 61. § (2) bekezdés i) pontja alapján nem állok közügyektől eltiltás hatálya alatt.
 
-Kijelentem, hogy az egyesületnek/sportegyesületnek[^147]
+Kijelentem, hogy az egyesületnek/sportegyesületnek[^148]
 
 a) tagja vagyok.
 
@@ -48,7 +48,7 @@ Kelt: ………………………………….., ………… év …………. 
 
 a nyilatkozó személy aláírása
 
-Előttünk, mint tanúk előtt:[^148]
+Előttünk, mint tanúk előtt:[^149]
 
 Tanú neve: Tanú neve:
 
@@ -60,6 +60,6 @@ Aláírása: Aláírása:
 
 Ellenjegyezte:
 
-[^146]: Kitöltése kötelező, amennyiben az alapszabály mintaokirattal létrehozott egyesületnél/sportegyesületnél felügyelőbizottság működik. A mintaokirat szövege csak ott és annyiban bővíthető vagy változtatható, amennyiben a mintaokirat azt kifejezetten megengedi. A szükség szerint kitöltendő szövegrészek abban az esetben is a mintaokirat részét képezik, amennyiben ezen részek kitöltésére az adott egyesület/sportegyesület esetében nem volt szükség.
-[^147]: Csak egy lehetőség választható.
-[^148]: Kitöltendő az aláírás valódiságának tanúk általi igazolása esetén.
+[^147]: Kitöltése kötelező, amennyiben az alapszabály mintaokirattal létrehozott egyesületnél/sportegyesületnél felügyelőbizottság működik. A mintaokirat szövege csak ott és annyiban bővíthető vagy változtatható, amennyiben a mintaokirat azt kifejezetten megengedi. A szükség szerint kitöltendő szövegrészek abban az esetben is a mintaokirat részét képezik, amennyiben ezen részek kitöltésére az adott egyesület/sportegyesület esetében nem volt szükség.
+[^148]: Csak egy lehetőség választható.
+[^149]: Kitöltendő az aláírás valódiságának tanúk általi igazolása esetén.

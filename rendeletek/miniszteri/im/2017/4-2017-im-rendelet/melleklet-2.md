@@ -2,7 +2,7 @@
 
 ## ALAPSZABÁLY
 
-## Alulírott tagok a Polgári Törvénykönyvről szóló 2013. évi V. törvény (Ptk.) és az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény (Ectv.) rendelkezései alapján mintaokirat[^1] alkalmazásával a következő tartalommal fogadják el az alábbi egyesület[^2]
+## Alulírott tagok a Polgári Törvénykönyvről szóló 2013. évi V. törvény (Ptk.) és az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény (Ectv.) rendelkezései alapján mintaokirat[^2] alkalmazásával a következő tartalommal fogadják el az alábbi egyesület[^3]
 
 ## a) alapszabályát.
 
@@ -14,9 +14,9 @@
 
 ## ………………………………………………………………………………………………………...
 
-## 1.2.[^3] Az egyesület rövidített neve: ……………………………………………………………………
+## 1.2.[^4] Az egyesület rövidített neve: ……………………………………………………………………
 
-## 1.3.[^4] Az egyesület magyar nyelvű elnevezésének megfelelő idegen nyelvű elnevezése: ………………..…………………………………………………………………………………………
+## 1.3.[^5] Az egyesület magyar nyelvű elnevezésének megfelelő idegen nyelvű elnevezése: ………………..…………………………………………………………………………………………
 
 ## 2. Az egyesület székhelye:
 
@@ -40,11 +40,11 @@
 
 ## 3. Az egyesület alapító tagjainak nevét, lakóhelyét (székhelyét), aláírását tartalmazó tagjegyzék az alapszabály nem nyilvános részeként elkülönítetten kezelt mellékletét képezi.
 
-## 4.[^5] Az egyesület honlapjának címe: ………………………………………………………………….
+## 4.[^6] Az egyesület honlapjának címe: ………………………………………………………………….
 
 ## II. Az egyesület célja, tevékenysége
 
-## 1.[^6] Az egyesület célja:
+## 1.[^7] Az egyesület célja:
 
 ## ……………………………………………………………………………………………………………
 
@@ -54,7 +54,7 @@
 
 ## ……………………………………………………………………………………………………………
 
-## 2.[^7] Az egyesület tevékenysége:
+## 2.[^8] Az egyesület tevékenysége:
 
 ## ……………………………………………………………………………………………………………
 
@@ -66,23 +66,23 @@
 
 ## III. Az egyesület működésének időtartama
 
-## 1.[^8] Az egyesület működésének időtartama:
+## 1.[^9] Az egyesület működésének időtartama:
 
 ## a) határozatlan.
 
-## b)[^9] határozott: …..…………. év ……..………………. hó …….... napjáig.
+## b)[^10] határozott: …..…………. év ……..………………. hó …….... napjáig.
 
 ## IV. Vagyoni hozzájárulás
 
-## 1.[^10] Az egyesület tagja az egyesület alapításakor vagy a tagsági jogok keletkezésének más eseteiben az egyesület részére pénzbeli vagyoni hozzájárulást
+## 1.[^11] Az egyesület tagja az egyesület alapításakor vagy a tagsági jogok keletkezésének más eseteiben az egyesület részére pénzbeli vagyoni hozzájárulást
 
 ## a) nem teljesít.
 
 ## b) köteles teljesíteni.
 
-## 2.[^11] A pénzbeli vagyoni hozzájárulás értéke, rendelkezésre bocsátásának módja, ideje
+## 2.[^12] A pénzbeli vagyoni hozzájárulás értéke, rendelkezésre bocsátásának módja, ideje
 
-## 2.1. A pénzbeli vagyoni hozzájárulás minden tag részéről ……………………………….[^12] Ft, azaz ……………………………………………………………………………….[^13] forint.
+## 2.1. A pénzbeli vagyoni hozzájárulás minden tag részéről ……………………………….[^13] Ft, azaz ……………………………………………………………………………….[^14] forint.
 
 ## 2.2. Amennyiben az egyesület pénzforgalmi számlával rendelkezik, a pénzbeli vagyoni hozzájárulás az egyesület házipénztárába történő befizetésen kívül az egyesület pénzforgalmi számlájára történő befizetéssel is teljesíthető.
 
@@ -90,17 +90,17 @@
 
 ## 2.4. A pénzbeli vagyoni hozzájárulás rendelkezésre bocsátásának ideje alapítást követően, újonnan belépő tag tagsági jogviszonya keletkezése esetén: a tagsági jogviszony keletkezésétől számított 8 napon belül egy összegben.
 
-## 3.[^14] Az egyesület rendelkezésére bocsátott vagyon (induló tőke) kezelésére vonatkozó rendelkezéseket a közgyűlés (alakuló közgyűlés) állapítja meg.
+## 3.[^15] Az egyesület rendelkezésére bocsátott vagyon (induló tőke) kezelésére vonatkozó rendelkezéseket a közgyűlés (alakuló közgyűlés) állapítja meg.
 
 ## V. Tagdíj
 
-## 1. [^15] Az egyesület tagjai tagdíj fizetésére
+## 1. [^16] Az egyesület tagjai tagdíj fizetésére
 
 ## a) kötelesek.
 
 ## b) nem kötelesek.
 
-## 2.[^16] A tagdíj összege, esedékessége, megfizetésének módja
+## 2.[^17] A tagdíj összege, esedékessége, megfizetésének módja
 
 ## 2.1. A tagdíj összegének, esedékességének, tagdíjfizetés módjának meghatározása a közgyűlés (alakuló közgyűlés) hatásköre.
 
@@ -120,13 +120,13 @@
 
 ## 1.4. amennyiben az alapszabály a tagsági jogviszony keletkezését a VI. 1.1., 1.2., 1.3. pontban foglaltakon túlmenően feltétel(ek)hez köti, a feltétel(ek)nek megfelel.
 
-## 2.[^17] Az alapszabály a tagsági jogviszony keletkezését a VI. 1.1., 1.2., 1.3. pontban foglaltakon túlmenően
+## 2.[^18] Az alapszabály a tagsági jogviszony keletkezését a VI. 1.1., 1.2., 1.3. pontban foglaltakon túlmenően
 
 ## a) feltétel(ek)hez nem köti.
 
 ## b) feltétel(ek)hez köti.
 
-## 3.[^18] Az alapszabály a tagsági jogviszony keletkezését a VI. 1.1., 1.2., 1.3. pontban foglaltakon túlmenően az alábbi feltétel(ek)hez köti:
+## 3.[^19] Az alapszabály a tagsági jogviszony keletkezését a VI. 1.1., 1.2., 1.3. pontban foglaltakon túlmenően az alábbi feltétel(ek)hez köti:
 
 ## …………………………………………………………………………………………………...
 
@@ -150,29 +150,29 @@
 
 ## 1. A tagsági jogviszony
 
-## a)[^19] a Ptk.-ban meghatározott eseteken túl megszűnik a vagyoni hozzájárulás teljesítésének elmulasztása esetén.
+## a)[^20] a Ptk.-ban meghatározott eseteken túl megszűnik a vagyoni hozzájárulás teljesítésének elmulasztása esetén.
 
-## b)[^20] a Ptk.-ban meghatározott eseteken túl megszűnik a tagdíj megfizetésének elmulasztása esetén.
+## b)[^21] a Ptk.-ban meghatározott eseteken túl megszűnik a tagdíj megfizetésének elmulasztása esetén.
 
-## c)[^21] a Ptk.-ban meghatározott esetekben szűnik meg.
+## c)[^22] a Ptk.-ban meghatározott esetekben szűnik meg.
 
-## 2.[^22] Ha a tag az alapszabályban vállalt vagyoni hozzájárulását az előírt időpontig nem szolgáltatja, az ügyvezetés harmincnapos határidő tűzésével és a jogkövetkezmények feltüntetésével írásban, a tag részére igazolható módon küldött figyelmeztetésben felszólítja a tagot a teljesítésre.
+## 2.[^23] Ha a tag az alapszabályban vállalt vagyoni hozzájárulását az előírt időpontig nem szolgáltatja, az ügyvezetés harmincnapos határidő tűzésével és a jogkövetkezmények feltüntetésével írásban, a tag részére igazolható módon küldött figyelmeztetésben felszólítja a tagot a teljesítésre.
 
 ## A harmincnapos határidő eredménytelen elteltével a vagyoni hozzájárulását nem teljesítő tag tagsági jogviszonya a határidő lejáratát követő nappal megszűnik. A tagsági jogviszony megszűnését az ügyvezetésnek a volt taggal igazolható módon közölnie kell. A vagyoni hozzájárulás teljesítésének elmulasztásával az egyesületnek okozott kárért a volt tag a szerződésszegéssel okozott károkért való felelősség szabályai szerint felel.
 
-## 3.[^23] Amennyiben a tag tagdíj fizetésére köteles és tagdíjfizetési kötelezettségének az előírt időpontig nem tesz eleget, az ügyvezetés harmincnapos határidő tűzésével és a jogkövetkezmények feltüntetésével írásban, a tag részére igazolható módon küldött figyelmeztetésben felszólítja a tagot a tagdíj megfizetésére.
+## 3.[^24] Amennyiben a tag tagdíj fizetésére köteles és tagdíjfizetési kötelezettségének az előírt időpontig nem tesz eleget, az ügyvezetés harmincnapos határidő tűzésével és a jogkövetkezmények feltüntetésével írásban, a tag részére igazolható módon küldött figyelmeztetésben felszólítja a tagot a tagdíj megfizetésére.
 
 ## A harmincnapos határidő eredménytelen elteltével a tagdíjfizetési kötelezettségét nem teljesítő tag tagsági jogviszonya a határidő lejáratát követő nappal megszűnik. A tagsági jogviszony megszűnését az ügyvezetésnek a volt taggal igazolható módon közölnie kell.
 
 ## IX. A tagok jogaival összefüggő egyes rendelkezések
 
-## 1.[^24] A tag a közgyűlésen a szavazati jogát
+## 1.[^25] A tag a közgyűlésen a szavazati jogát
 
 ## a) meghatalmazott képviselője útján is gyakorolhatja.
 
 ## b) kizárólag személyesen gyakorolhatja.
 
-## 2.[^25]Amennyiben a tag a közgyűlésen szavazati jogát képviselő útján gyakorolja, a képviselő részére adott meghatalmazást legalább teljes bizonyító erejű magánokirati formában írásba kell foglalni és azt a közgyűlés levezető elnökének a közgyűlés kezdetén átadni.
+## 2.[^26]Amennyiben a tag a közgyűlésen szavazati jogát képviselő útján gyakorolja, a képviselő részére adott meghatalmazást legalább teljes bizonyító erejű magánokirati formában írásba kell foglalni és azt a közgyűlés levezető elnökének a közgyűlés kezdetén átadni.
 
 ## X. Az egyesület döntéshozó szerve
 
@@ -188,7 +188,7 @@
 
 ## 4. A közgyűlés a hatáskörébe tartozó ügyekben döntéseit ülés tartása nélkül is hozhatja.
 
-## 5.[^26] A közgyűlés szükség szerint, de
+## 5.[^27] A közgyűlés szükség szerint, de
 
 ## a) évente legalább egy alkalommal ülésezik.
 
@@ -204,7 +204,7 @@
 
 ## XI. Az egyesület ügyvezetése, képviselete
 
-## 1.[^27] Az egyesület ügyvezetését
+## 1.[^28] Az egyesület ügyvezetését
 
 ## a) az egyesület ügyvezetője
 
@@ -212,9 +212,9 @@
 
 ## látja el.
 
-## 2.1.[^28] A vezető tisztségviselő(k) megbízatása ………………… évre szól.
+## 2.1.[^29] A vezető tisztségviselő(k) megbízatása ………………… évre szól.
 
-## 2.2.[^29] A vezető tisztségviselők
+## 2.2.[^30] A vezető tisztségviselők
 
 ## a) kizárólag az egyesület tagjai közül választhatók.
 
@@ -222,9 +222,9 @@
 
 ## 2.3. A vezető tisztségviselőket a közgyűlés választja. A vezető tisztségviselői megbízás a tisztség megválasztott személy általi elfogadásával jön létre.
 
-## 3.1.[^30] Az egyesület törvényes képviseletét az ügyvezető látja el.
+## 3.1.[^31] Az egyesület törvényes képviseletét az ügyvezető látja el.
 
-## 3.2.[^31] Az egyesület törvényes képviseletét
+## 3.2.[^32] Az egyesület törvényes képviseletét
 
 ## a) az elnökség elnöke
 
@@ -236,7 +236,7 @@
 
 ## 4. Az egyesület vezető tisztségviselői és képviseleti jogosultságuk gyakorlásának módja, terjedelme
 
-## 4.1.[^32] Az egyesület ügyvezetője:
+## 4.1.[^33] Az egyesület ügyvezetője:
 
 ## Név:...........................................................................................................................
 
@@ -244,11 +244,11 @@
 
 ## Anyja születési neve: ………………………………………………………………………
 
-## Cégjegyzékszám (nyilvántartási szám):[^33] ......................................................................
+## Cégjegyzékszám (nyilvántartási szám):[^34] ......................................................................
 
-## Székhely:[^34] .........................................................................................................................
+## Székhely:[^35] .........................................................................................................................
 
-## Jogi személy vezető tisztségviselő nevében vezető tisztségviselői feladatok ellátásra kijelölt természetes személy:[^35]
+## Jogi személy vezető tisztségviselő nevében vezető tisztségviselői feladatok ellátásra kijelölt természetes személy:[^36]
 
 ## neve:……………………………………………………………………………………………
 
@@ -256,15 +256,15 @@
 
 ## anyja születési neve: ...................................................................................................................
 
-## Az ügyvezetői megbízatás kezdő időpontja: ……….……év ……………... hó …… nap[^36]
+## Az ügyvezetői megbízatás kezdő időpontja: ……….……év ……………... hó …… nap[^37]
 
-## Az ügyvezetői megbízatás lejárta: …………………..év …………………. hó …… nap[^37]
+## Az ügyvezetői megbízatás lejárta: …………………..év …………………. hó …… nap[^38]
 
 ## Az ügyvezető képviseleti jog gyakorlásának terjedelme: általános.
 
 ## A képviseleti jog gyakorlásának módja: önálló.
 
-## 4.2.[^38] Az egyesület elnöksége[^39]
+## 4.2.[^39] Az egyesület elnöksége[^40]
 
 ## 4.2.1. Az elnökség elnöke:
 
@@ -274,11 +274,11 @@
 
 ## Anyja születési neve :………………………………………………………………………
 
-## Cégjegyzékszám (nyilvántartási szám):[^40] ......................................................................
+## Cégjegyzékszám (nyilvántartási szám):[^41] ......................................................................
 
-## Székhely[^41]: .........................................................................................................................
+## Székhely[^42]: .........................................................................................................................
 
-## Jogi személy vezető tisztségviselő nevében vezető tisztségviselői feladatok ellátásra kijelölt természetes személy[^42]
+## Jogi személy vezető tisztségviselő nevében vezető tisztségviselői feladatok ellátásra kijelölt természetes személy[^43]
 
 ## neve:……………………………………………………………………………………………
 
@@ -286,13 +286,13 @@
 
 ## anyja születési neve: ...................................................................................................................
 
-## A megbízatás kezdő időpontja: ……….……év ……………... hó …… nap[^43]
+## A megbízatás kezdő időpontja: ……….……év ……………... hó …… nap[^44]
 
-## A megbízatás lejárta: …………………..év …………………. hó …… nap[^44]
+## A megbízatás lejárta: …………………..év …………………. hó …… nap[^45]
 
-## A képviseleti jog terjedelme: általános.[^45]
+## A képviseleti jog terjedelme: általános.[^46]
 
-## Képviseleti jog gyakorlásának módja: önálló.[^46]
+## Képviseleti jog gyakorlásának módja: önálló.[^47]
 
 ## 4.2.2. Az elnökség tagja:
 
@@ -300,13 +300,13 @@
 
 ## Lakóhely: ...........................................................................................................................
 
-## Anyja születési neve:[^47]……………………………………………………………………………
+## Anyja születési neve:[^48]……………………………………………………………………………
 
-## Cégjegyzékszám (nyilvántartási szám):[^48] ......................................................................
+## Cégjegyzékszám (nyilvántartási szám):[^49] ......................................................................
 
-## Székhely[^49]: .........................................................................................................................
+## Székhely[^50]: .........................................................................................................................
 
-## Jogi személy vezető tisztségviselő nevében vezető tisztségviselői feladatok ellátásra kijelölt természetes személy:[^50]
+## Jogi személy vezető tisztségviselő nevében vezető tisztségviselői feladatok ellátásra kijelölt természetes személy:[^51]
 
 ## neve:……………………………………………………………………………………………
 
@@ -314,23 +314,23 @@
 
 ## anyja születési neve: ...................................................................................................................
 
-## A megbízatás kezdő időpontja: ……….……év ……………... hó …… nap[^51]
+## A megbízatás kezdő időpontja: ……….……év ……………... hó …… nap[^52]
 
-## A megbízatás lejárta: …………………..év …………………. hó …… nap[^52]
+## A megbízatás lejárta: …………………..év …………………. hó …… nap[^53]
 
-## 4.2.3.[^53] Az elnökség tagja:
+## 4.2.3.[^54] Az elnökség tagja:
 
 ## Név: ...........................................................................................................................
 
 ## Lakóhely: ...........................................................................................................................
 
-## Anyja születési neve:[^54]……………………………………………………………………………
+## Anyja születési neve:[^55]……………………………………………………………………………
 
-## Cégjegyzékszám (nyilvántartási szám):[^55] ......................................................................
+## Cégjegyzékszám (nyilvántartási szám):[^56] ......................................................................
 
-## Székhely[^56]: .........................................................................................................................
+## Székhely[^57]: .........................................................................................................................
 
-## Jogi személy vezető tisztségviselő nevében vezető tisztségviselői feladatok ellátásra kijelölt természetes személy:[^57]
+## Jogi személy vezető tisztségviselő nevében vezető tisztségviselői feladatok ellátásra kijelölt természetes személy:[^58]
 
 ## neve:……………………………………………………………………………………………
 
@@ -338,15 +338,15 @@
 
 ## anyja születési neve: ...................................................................................................................
 
-## A megbízatás kezdő időpontja: ……….……év ……………... hó …… nap[^58]
+## A megbízatás kezdő időpontja: ……….……év ……………... hó …… nap[^59]
 
-## A megbízatás lejárta: …………………..év …………………. hó …… nap[^59]
+## A megbízatás lejárta: …………………..év …………………. hó …… nap[^60]
 
 ## 4.3. Az elnökségi tagok képviseleti jogosultsága gyakorlásának terjedelme, módja
 
-## 4.3.1.[^60] A törvényes képviseleti joggal felruházott elnökségi tag képviseleti joga gyakorlásának terjedelme: általános.
+## 4.3.1.[^61] A törvényes képviseleti joggal felruházott elnökségi tag képviseleti joga gyakorlásának terjedelme: általános.
 
-## 4.3.2.[^61] A törvényes képviseleti joggal felruházott elnökségi tag képviseleti joga gyakorlásának módja
+## 4.3.2.[^62] A törvényes képviseleti joggal felruházott elnökségi tag képviseleti joga gyakorlásának módja
 
 ## 4.3.2.1. Az önálló képviseletre jogosult elnökségi tag/tagok:
 
@@ -354,15 +354,15 @@
 
 ## Név: .................................................................................................................................
 
-## Név:[^62] …………………………………………………………………………………….
+## Név:[^63] …………………………………………………………………………………….
 
-## 4.3.2.2. Az együttes képviseleti joggal rendelkező elnökségi tagok:[^63]
+## 4.3.2.2. Az együttes képviseleti joggal rendelkező elnökségi tagok:[^64]
 
 ## a) Név: .............................................................................................................................
 
 ## és
 
-## Név: [^64] ..................................................................................................................................
+## Név: [^65] ..................................................................................................................................
 
 ## együttesen jogosultak az egyesület törvényes képviseletére.
 
@@ -370,7 +370,7 @@
 
 ## és
 
-## Név:[^65] ..................................................................................................................................
+## Név:[^66] ..................................................................................................................................
 
 ## együttesen jogosultak az egyesület törvényes képviseletére.
 
@@ -408,19 +408,19 @@
 
 ## XII. Felügyelőbizottság
 
-## 1.[^66] Az egyesületnél felügyelőbizottság létrehozására
+## 1.[^67] Az egyesületnél felügyelőbizottság létrehozására
 
 ## a) sor kerül.
 
 ## b) nem kerül sor.
 
-## 2.[^67] A felügyelőbizottság tagjai:
+## 2.[^68] A felügyelőbizottság tagjai:
 
 ## Név: ..............................................................................................................................
 
 ## Lakóhely: .........................................................................................................................
 
-## A megbízatás[^68]
+## A megbízatás[^69]
 
 ## a) határozott időre
 
@@ -430,13 +430,13 @@
 
 ## A megbízatás kezdő időpontja: ……….……év ……………... hó …… nap
 
-## A megbízatás lejárta:[^69] ……….……év ……………... hó …… nap
+## A megbízatás lejárta:[^70] ……….……év ……………... hó …… nap
 
 ## Név: ...............................................................................................................................
 
 ## Lakóhely: ..........................................................................................................................
 
-## A megbízatás[^70]
+## A megbízatás[^71]
 
 ## a) határozott időre
 
@@ -446,13 +446,13 @@
 
 ## A megbízatás kezdő időpontja:……….……év ……………... hó …… nap
 
-## A megbízatás lejárta:[^71] ……….……év ……………... hó …… nap
+## A megbízatás lejárta:[^72] ……….……év ……………... hó …… nap
 
-## Név:[^72] .............................................................................................................................
+## Név:[^73] .............................................................................................................................
 
 ## Lakóhely: ............................................................................................................................
 
-## A megbízatás[^73]
+## A megbízatás[^74]
 
 ## a) határozott időre
 
@@ -462,7 +462,7 @@
 
 ## A megbízatás kezdő időpontja: ……….……év ……………... hó …… nap
 
-## A megbízatás lejárta:[^74] ……….……év ……………... hó …… nap
+## A megbízatás lejárta:[^75] ……….……év ……………... hó …… nap
 
 ## XIII. Záró rendelkezések
 
@@ -470,23 +470,23 @@
 
 ## 1.1. Az egyesülettel kapcsolatos jognyilatkozatot – ha a Ptk.-ból más nem következik – írásban lehet megtenni, és igazolható módon lehet közölni. Ezt a rendelkezést alkalmazni kell az egyesület határozatára, valamint jognyilatkozatnak és határozatnak a címzettel való közlésére.
 
-## 1.2.[^75] Az írásbeli nyilatkozat közlése történhet az írásba foglalt nyilatkozat
+## 1.2.[^76] Az írásbeli nyilatkozat közlése történhet az írásba foglalt nyilatkozat
 
 ## a) postai úton történő elküldésével.
 
 ## b) elektronikus levélben történő elküldésével.
 
-## c)[^76] érintett által vagy képviselője által történő személyes átvételével.
+## c)[^77] érintett által vagy képviselője által történő személyes átvételével.
 
 ## 1.3. Igazolható módon történő közlés
 
-## 1.3.1.[^77] Az írásbeli nyilatkozat postai úton történő elküldése esetén igazolható módon történő közlésnek minősül a küldemény ajánlottan vagy tértivevénnyel történő továbbítása. Ha az írásbeli jognyilatkozatot postán küldik el, azt az ellenkező bizonyításáig a tértivevényen feltüntetett átvételi időpontban, ajánlott küldemény esetén a feladástól számított ötödik munkanapon a belföldi címzetthez megérkezettnek kell tekinteni.
+## 1.3.1.[^78] Az írásbeli nyilatkozat postai úton történő elküldése esetén igazolható módon történő közlésnek minősül a küldemény ajánlottan vagy tértivevénnyel történő továbbítása. Ha az írásbeli jognyilatkozatot postán küldik el, azt az ellenkező bizonyításáig a tértivevényen feltüntetett átvételi időpontban, ajánlott küldemény esetén a feladástól számított ötödik munkanapon a belföldi címzetthez megérkezettnek kell tekinteni.
 
-## 1.3.2.[^78] Az írásbeli nyilatkozat elektronikus levélben történő elküldése esetén igazolható módon történő közlésnek minősül az elektronikus levél kézbesítés eredményének visszaigazolása iránti kérelemmel történő továbbítása. Ha az írásbeli jognyilatkozatot elektronikus levél útján küldik el, azt az ellenkező bizonyításáig az a kézbesítés eredményéről érkező elektronikus visszaigazoláson feltüntetett átvételi időpontban a címzetthez megérkezettnek kell tekinteni.
+## 1.3.2.[^79] Az írásbeli nyilatkozat elektronikus levélben történő elküldése esetén igazolható módon történő közlésnek minősül az elektronikus levél kézbesítés eredményének visszaigazolása iránti kérelemmel történő továbbítása. Ha az írásbeli jognyilatkozatot elektronikus levél útján küldik el, azt az ellenkező bizonyításáig az a kézbesítés eredményéről érkező elektronikus visszaigazoláson feltüntetett átvételi időpontban a címzetthez megérkezettnek kell tekinteni.
 
-## 1.3.3.[^79] Az írásbeli nyilatkozatnak az érintett által vagy képviselője által történő személyes átvétele esetén igazolható módon történő közlésnek minősül, ha az érintett személy vagy képviselője a jognyilatkozat másodpéldányán aláírásával és az átvétel időpontjának megjelölésével elismeri az átvétel tényét.
+## 1.3.3.[^80] Az írásbeli nyilatkozatnak az érintett által vagy képviselője által történő személyes átvétele esetén igazolható módon történő közlésnek minősül, ha az érintett személy vagy képviselője a jognyilatkozat másodpéldányán aláírásával és az átvétel időpontjának megjelölésével elismeri az átvétel tényét.
 
-## 2.[^80] Az egyesület jogutód nélküli megszűnése esetén a hitelezők követeléseinek kiegyenlítése után fennmaradó vagyont az alábbi közhasznú szervezetnek kell átadni:
+## 2.[^81] Az egyesület jogutód nélküli megszűnése esetén a hitelezők követeléseinek kiegyenlítése után fennmaradó vagyont az alábbi közhasznú szervezetnek kell átadni:
 
 ## Név:………………………………………………………………………………………………………
 
@@ -500,9 +500,9 @@
 
 ## …………………………………………………………………………………………………………
 
-## az egyesület képviselőjének vagy képviselőinek aláírása[^81]
+## az egyesület képviselőjének vagy képviselőinek aláírása[^82]
 
-## A tagjegyzék 2.1. sorszáma alatt megjelölt tag aláírása [^82]……………………………………………….
+## A tagjegyzék 2.1. sorszáma alatt megjelölt tag aláírása [^83]……………………………………………….
 
 ## A tagjegyzék 2.2. sorszáma alatt megjelölt tag aláírása………………………………………………….
 
@@ -522,7 +522,7 @@
 
 ## A tagjegyzék 2.10. sorszáma alatt megjelölt tag aláírása…………………………………………………
 
-## Előttünk, mint tanúk előtt:[^83]
+## Előttünk, mint tanúk előtt:[^84]
 
 ## Tanú neve:
 
@@ -540,13 +540,13 @@
 
 ## Aláírása:
 
-## Ellenjegyezte:[^84]
+## Ellenjegyezte:[^85]
 
 2. melléklet a 4/2017. (IV. 3.) IM rendelethez
 
 ## Egyesület, Sportegyesület tagjegyzék mintaokirata
 
-## Tagjegyzék[^85]
+## Tagjegyzék[^86]
 
 1. Egyesület/Sportegyesület neve:
 
@@ -558,19 +558,19 @@
 
 Név: .............................................................................................................................................
 
-Lakóhely:[^86] .....................................................................................................................................
+Lakóhely:[^87] .....................................................................................................................................
 
-Székhely:[^87] ......................................................................................................................................
+Székhely:[^88] ......................................................................................................................................
 
-Cégjegyzékszám, nyilvántartási szám:[^88] ………………………………………………………………
+Cégjegyzékszám, nyilvántartási szám:[^89] ………………………………………………………………
 
-Képviselő neve, képviseleti minőségének megjelölése:[^89]
+Képviselő neve, képviseleti minőségének megjelölése:[^90]
 
 .......................................................................................................................................................
 
-Képviselő lakóhelye vagy székhelye:[^90] ………………………………………………………………
+Képviselő lakóhelye vagy székhelye:[^91] ………………………………………………………………
 
-Aláírás:[^91]………………………………………………………………………………………………..
+Aláírás:[^92]………………………………………………………………………………………………..
 
 2.2.
 
@@ -716,7 +716,7 @@ Képviselő lakóhelye vagy székhelye:6 …………………………………
 
 Aláírás:7 ………………………………………………………………………………………………..
 
-2.10.[^92]
+2.10.[^93]
 
 Név: .............................................................................................................................................
 
@@ -736,95 +736,95 @@ Aláírás:7 …………………………………………………………�
 
 Kelt: ………………………………., ……………év ………….. hó ……………. nap
 
-[^1]: Az alapszabály szövege csak ott és annyiban bővíthető vagy változtatható, amennyiben a mintaokirat azt kifejezetten megengedi. A szükség szerint kitöltendő szövegrészek abban az esetben is a mintaokirat részét képezik, ha ezen részek kitöltésére az adott egyesület esetében nem volt szükség.
-[^2]: Csak egy lehetőség választható.
-[^3]: Szükség esetén kitöltendő.
+[^2]: Az alapszabály szövege csak ott és annyiban bővíthető vagy változtatható, amennyiben a mintaokirat azt kifejezetten megengedi. A szükség szerint kitöltendő szövegrészek abban az esetben is a mintaokirat részét képezik, ha ezen részek kitöltésére az adott egyesület esetében nem volt szükség.
+[^3]: Csak egy lehetőség választható.
 [^4]: Szükség esetén kitöltendő.
 [^5]: Szükség esetén kitöltendő.
-[^6]: Szükség esetén bővíthető.
+[^6]: Szükség esetén kitöltendő.
 [^7]: Szükség esetén bővíthető.
-[^8]: Csak egy lehetőség választható.
-[^9]: Választása esetén kitöltése kötelező.
-[^10]: Csak egy lehetőség választható.
-[^11]: IV.1. b) pont választása esetén kötelezően alkalmazandó, kitöltendő.
-[^12]: Számmal jelölendő.
-[^13]: Betűvel jelölendő.
-[^14]: IV.1. b) pont választása esetén kötelezően alkalmazandó.
-[^15]: Csak egy lehetőség választható.
-[^16]: V.1. a) pont választása esetén alkalmazása kötelező.
-[^17]: Csak egy lehetőség választható.
-[^18]: VI.2. b) pont választása esetén kitöltendő. Bővíthető.
-[^19]: A IV.1. b) pont választása esetén a VIII.1. a) pont önmagában, és az V.1. a) pont választása esetén a VIII.1. b) pont mellett is választható. A VIII.1. c) pont választása esetén nem választható.
-[^20]: V.1. a) pont választása esetén a VIII.1. b) pont önmagában, és a IV.1. b) pont választása esetén a VIII.1. a) pont mellett is választható. A VIII.1. c) pont választása esetén nem választható.
-[^21]: VIII.1. a) vagy b) pont választása esetén nem választható.
-[^22]: VIII.1. a) pont választása esetén kötelezően alkalmazandó.
-[^23]: VIII.1. b) pont választása esetén kötelezően alkalmazandó.
-[^24]: Csak egy lehetőség választható.
-[^25]: IX.1. a) pont választása esetén kötelezően alkalmazandó.
-[^26]: Csak egy lehetőség választható.
+[^8]: Szükség esetén bővíthető.
+[^9]: Csak egy lehetőség választható.
+[^10]: Választása esetén kitöltése kötelező.
+[^11]: Csak egy lehetőség választható.
+[^12]: IV.1. b) pont választása esetén kötelezően alkalmazandó, kitöltendő.
+[^13]: Számmal jelölendő.
+[^14]: Betűvel jelölendő.
+[^15]: IV.1. b) pont választása esetén kötelezően alkalmazandó.
+[^16]: Csak egy lehetőség választható.
+[^17]: V.1. a) pont választása esetén alkalmazása kötelező.
+[^18]: Csak egy lehetőség választható.
+[^19]: VI.2. b) pont választása esetén kitöltendő. Bővíthető.
+[^20]: A IV.1. b) pont választása esetén a VIII.1. a) pont önmagában, és az V.1. a) pont választása esetén a VIII.1. b) pont mellett is választható. A VIII.1. c) pont választása esetén nem választható.
+[^21]: V.1. a) pont választása esetén a VIII.1. b) pont önmagában, és a IV.1. b) pont választása esetén a VIII.1. a) pont mellett is választható. A VIII.1. c) pont választása esetén nem választható.
+[^22]: VIII.1. a) vagy b) pont választása esetén nem választható.
+[^23]: VIII.1. a) pont választása esetén kötelezően alkalmazandó.
+[^24]: VIII.1. b) pont választása esetén kötelezően alkalmazandó.
+[^25]: Csak egy lehetőség választható.
+[^26]: IX.1. a) pont választása esetén kötelezően alkalmazandó.
 [^27]: Csak egy lehetőség választható.
-[^28]: Számmal kitöltendő.
-[^29]: Csak egy lehetőség választható.
-[^30]: XI.1. a) pont választása esetén alkalmazása kötelező.
-[^31]: XI.1. b) pont választása esetén alkalmazandó, csak egy lehetőség választható.
-[^32]: XI.1. a) pont választása esetén kitöltése kötelező.
-[^33]: Jogi személy esetén kell kitölteni. Cégjegyzékszám vagy egyéb nyilvántartási szám.
-[^34]: Jogi személy esetén kell kitölteni.
+[^28]: Csak egy lehetőség választható.
+[^29]: Számmal kitöltendő.
+[^30]: Csak egy lehetőség választható.
+[^31]: XI.1. a) pont választása esetén alkalmazása kötelező.
+[^32]: XI.1. b) pont választása esetén alkalmazandó, csak egy lehetőség választható.
+[^33]: XI.1. a) pont választása esetén kitöltése kötelező.
+[^34]: Jogi személy esetén kell kitölteni. Cégjegyzékszám vagy egyéb nyilvántartási szám.
 [^35]: Jogi személy esetén kell kitölteni.
-[^36]: XI.2.1. pontnak megfelelően kitöltendő.
+[^36]: Jogi személy esetén kell kitölteni.
 [^37]: XI.2.1. pontnak megfelelően kitöltendő.
-[^38]: XI.1. b) pont választása esetén kitöltése kötelező.
-[^39]: Ptk. 3:78. § (1) Semmis az alapszabály olyan rendelkezése, amely háromnál kevesebb tagú elnökség felállítását írja elo.
-[^40]: Jogi személy esetén kell kitölteni. Cégjegyzékszám vagy egyéb nyilvántartási szám.
-[^41]: Jogi személy esetén kell kitölteni.
+[^38]: XI.2.1. pontnak megfelelően kitöltendő.
+[^39]: XI.1. b) pont választása esetén kitöltése kötelező.
+[^40]: Ptk. 3:78. § (1) Semmis az alapszabály olyan rendelkezése, amely háromnál kevesebb tagú elnökség felállítását írja elo.
+[^41]: Jogi személy esetén kell kitölteni. Cégjegyzékszám vagy egyéb nyilvántartási szám.
 [^42]: Jogi személy esetén kell kitölteni.
-[^43]: XI.2.1. pontnak megfelelően kitöltendő.
+[^43]: Jogi személy esetén kell kitölteni.
 [^44]: XI.2.1. pontnak megfelelően kitöltendő.
-[^45]: XI.3.2. a) pont választása esetén kötelezően alkalmazandó.
+[^45]: XI.2.1. pontnak megfelelően kitöltendő.
 [^46]: XI.3.2. a) pont választása esetén kötelezően alkalmazandó.
-[^47]: Akkor kell kitölteni, ha az elnökség tagja az egyesület képviseletére jogosult.
-[^48]: Jogi személy esetén kell kitölteni. Cégjegyzékszám vagy egyéb nyilvántartási szám.
-[^49]: Jogi személy esetén kell kitölteni.
+[^47]: XI.3.2. a) pont választása esetén kötelezően alkalmazandó.
+[^48]: Akkor kell kitölteni, ha az elnökség tagja az egyesület képviseletére jogosult.
+[^49]: Jogi személy esetén kell kitölteni. Cégjegyzékszám vagy egyéb nyilvántartási szám.
 [^50]: Jogi személy esetén kell kitölteni.
-[^51]: XI.2.1. pontnak megfelelően kitöltendő.
+[^51]: Jogi személy esetén kell kitölteni.
 [^52]: XI.2.1. pontnak megfelelően kitöltendő.
-[^53]: Háromnál több tagú elnökség esetén 4.2.4. sorszámozástól folyamatos számozással bővíthető.
-[^54]: Akkor kell kitölteni, ha az elnökség tagja az egyesület képviseletére jogosult.
-[^55]: Jogi személy esetén kell kitölteni. Cégjegyzékszám vagy egyéb nyilvántartási szám.
-[^56]: Jogi személy esetén kell kitölteni.
+[^53]: XI.2.1. pontnak megfelelően kitöltendő.
+[^54]: Háromnál több tagú elnökség esetén 4.2.4. sorszámozástól folyamatos számozással bővíthető.
+[^55]: Akkor kell kitölteni, ha az elnökség tagja az egyesület képviseletére jogosult.
+[^56]: Jogi személy esetén kell kitölteni. Cégjegyzékszám vagy egyéb nyilvántartási szám.
 [^57]: Jogi személy esetén kell kitölteni.
-[^58]: XI.2.1. pontnak megfelelően kitöltendő.
+[^58]: Jogi személy esetén kell kitölteni.
 [^59]: XI.2.1. pontnak megfelelően kitöltendő.
-[^60]: XI.3.2. b) vagy XI.3.2. c) pont választása esetén kötelezően alkalmazandó.
-[^61]: XI.3.2. b) vagy XI.3.2. c) pont választása esetén kitöltendő a képviseleti jog gyakorlásának legalább egy módja.
-[^62]: Szükség esetén bővíthető.
+[^60]: XI.2.1. pontnak megfelelően kitöltendő.
+[^61]: XI.3.2. b) vagy XI.3.2. c) pont választása esetén kötelezően alkalmazandó.
+[^62]: XI.3.2. b) vagy XI.3.2. c) pont választása esetén kitöltendő a képviseleti jog gyakorlásának legalább egy módja.
 [^63]: Szükség esetén bővíthető.
 [^64]: Szükség esetén bővíthető.
 [^65]: Szükség esetén bővíthető.
-[^66]: Csak egy lehetőség választható. Ptk. 3:82. (1) bekezdés: Kötelező felügyelobizottságot létrehozni, ha a tagok több mint fele nem természetes személy, vagy ha a tagság létszáma a száz fot meghaladja. Az alapszabály ettol eltéro rendelkezése semmis.
-[^67]: XII.1. a) pont választása esetén kitöltése kötelező.
-[^68]: Csak egy lehetőség választható.
-[^69]: Az a) pont választása esetén kitöltendő.
-[^70]: Csak egy lehetőség választható.
-[^71]: Az a) pont választása esetén kitöltendő.
-[^72]: Háromnál több tagú felügyelobizottság esetén bővíthető.
-[^73]: Csak egy lehetőség választható.
-[^74]: Az a) pont választása esetén kitöltendő.
-[^75]: Több lehetőség választható azzal, hogy a c) pont önmagában nem választható.
-[^76]: Önmagában nem választható. Választása esetén XIII. 1.2. a) és b) pontok közül legalább az egyiket meg kell jelölni.
-[^77]: XIII.1.2. a) pont választása esetén kötelezően alkalmazandó.
-[^78]: XIII.1.2. b) pont választása esetén kötelezően alkalmazandó.
-[^79]: XIII.1.2. c) pont választása esetén kötelezően alkalmazandó.
-[^80]: Szükség esetén kitöltendő.
-[^81]: Alakuló ülés tartása esetén az alapszabályban kijelölt képviselő(k) írja alá az alapszabályt, a képviseleti jog gyakorlásának módjához igazodóan önállóan vagy képviselőtársával együttesen. Szükség esetén bővíthető.
-[^82]: Ha alakuló ülés tartására nem került sor, akkor valamennyi alapító tagnak alá kell írnia az alapszabályt, mert az egységes akaratelhatározás ebben nyilvánul meg. Szükség esetén bővíthető a tagjegyzék sorszámának megjelölése mellett.
-[^83]: Kitöltendő az aláírások valódiságának tanúk általi igazolása esetén.
-[^84]: Szükség esetén kitöltendő.
-[^85]: A mintaokirat szövege csak ott és annyiban bővíthető vagy változtatható, amennyiben a mintaokirat azt kifejezetten megengedi. A szükség szerint kitöltendő szövegrészek abban az esetben is a mintaokirat részét képezik, ha ezen részek kitöltésére az adott egyesület/sportegyesület esetében nem volt szükség.
-[^86]: Természetes személy tag esetén kell kitölteni.
-[^87]: Jogi személy vagy jogi személyiséggel nem rendelkező szervezet tag esetén kell kitölteni.
-[^88]: Jogi személy vagy jogi személyiséggel nem rendelkező szervezet tag esetén kell kitölteni. Cégjegyzékszám, egyéb nyilvántartási szám.
-[^89]: Akkor kell kitölteni, ha a tag jogi személy vagy jogi személyiséggel nem rendelkező szervezet, vagy olyan természetes személy, aki gyámság, szülői felügyelet, cselekvőképességet teljesen korlátozó gondnokság, vagy cselekvőképességet részlegesen, egyesületben tagként történő részvétel körében korlátozó gondokság alatt áll. A jognyilatkozat megtételekor figyelemmel kell lenni a Ptk. 2:15. § és 2:23. §-ában foglaltakra. Több képviselő esetén bővíthető.
-[^90]: Több képviselő esetén bővíthető.
-[^91]: Alapító tag vagy képviselője aláírása. Több képviselő esetén bővíthető.
-[^92]: Szükség esetén 2.11. sorszámtól folyamatos számozással bővíthető.
+[^66]: Szükség esetén bővíthető.
+[^67]: Csak egy lehetőség választható. Ptk. 3:82. (1) bekezdés: Kötelező felügyelobizottságot létrehozni, ha a tagok több mint fele nem természetes személy, vagy ha a tagság létszáma a száz fot meghaladja. Az alapszabály ettol eltéro rendelkezése semmis.
+[^68]: XII.1. a) pont választása esetén kitöltése kötelező.
+[^69]: Csak egy lehetőség választható.
+[^70]: Az a) pont választása esetén kitöltendő.
+[^71]: Csak egy lehetőség választható.
+[^72]: Az a) pont választása esetén kitöltendő.
+[^73]: Háromnál több tagú felügyelobizottság esetén bővíthető.
+[^74]: Csak egy lehetőség választható.
+[^75]: Az a) pont választása esetén kitöltendő.
+[^76]: Több lehetőség választható azzal, hogy a c) pont önmagában nem választható.
+[^77]: Önmagában nem választható. Választása esetén XIII. 1.2. a) és b) pontok közül legalább az egyiket meg kell jelölni.
+[^78]: XIII.1.2. a) pont választása esetén kötelezően alkalmazandó.
+[^79]: XIII.1.2. b) pont választása esetén kötelezően alkalmazandó.
+[^80]: XIII.1.2. c) pont választása esetén kötelezően alkalmazandó.
+[^81]: Szükség esetén kitöltendő.
+[^82]: Alakuló ülés tartása esetén az alapszabályban kijelölt képviselő(k) írja alá az alapszabályt, a képviseleti jog gyakorlásának módjához igazodóan önállóan vagy képviselőtársával együttesen. Szükség esetén bővíthető.
+[^83]: Ha alakuló ülés tartására nem került sor, akkor valamennyi alapító tagnak alá kell írnia az alapszabályt, mert az egységes akaratelhatározás ebben nyilvánul meg. Szükség esetén bővíthető a tagjegyzék sorszámának megjelölése mellett.
+[^84]: Kitöltendő az aláírások valódiságának tanúk általi igazolása esetén.
+[^85]: Szükség esetén kitöltendő.
+[^86]: A mintaokirat szövege csak ott és annyiban bővíthető vagy változtatható, amennyiben a mintaokirat azt kifejezetten megengedi. A szükség szerint kitöltendő szövegrészek abban az esetben is a mintaokirat részét képezik, ha ezen részek kitöltésére az adott egyesület/sportegyesület esetében nem volt szükség.
+[^87]: Természetes személy tag esetén kell kitölteni.
+[^88]: Jogi személy vagy jogi személyiséggel nem rendelkező szervezet tag esetén kell kitölteni.
+[^89]: Jogi személy vagy jogi személyiséggel nem rendelkező szervezet tag esetén kell kitölteni. Cégjegyzékszám, egyéb nyilvántartási szám.
+[^90]: Akkor kell kitölteni, ha a tag jogi személy vagy jogi személyiséggel nem rendelkező szervezet, vagy olyan természetes személy, aki gyámság, szülői felügyelet, cselekvőképességet teljesen korlátozó gondnokság, vagy cselekvőképességet részlegesen, egyesületben tagként történő részvétel körében korlátozó gondokság alatt áll. A jognyilatkozat megtételekor figyelemmel kell lenni a Ptk. 2:15. § és 2:23. §-ában foglaltakra. Több képviselő esetén bővíthető.
+[^91]: Több képviselő esetén bővíthető.
+[^92]: Alapító tag vagy képviselője aláírása. Több képviselő esetén bővíthető.
+[^93]: Szükség esetén 2.11. sorszámtól folyamatos számozással bővíthető.

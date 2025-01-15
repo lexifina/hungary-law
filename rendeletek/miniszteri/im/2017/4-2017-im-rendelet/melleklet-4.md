@@ -4,7 +4,7 @@
 
 ## Jegyzőkönyv
 
-## Közgyűlés alakuló üléséről[^93]
+## Közgyűlés alakuló üléséről[^94]
 
 ## 1. Az alakuló közgyűlés helye:………………………………………………………………………
 
@@ -16,7 +16,7 @@
 
 ## 4. Az alakuló közgyűlés ülésén megjelent személyek nevét, további adatait a jelenléti ív tartalmazza.
 
-## 5. Az ülésen jelen lévők által ………..[^94] számú „igen” szavazattal, egyhangúlag, nyílt szavazással megválasztott
+## 5. Az ülésen jelen lévők által ………..[^95] számú „igen” szavazattal, egyhangúlag, nyílt szavazással megválasztott
 
 ## Levezető elnök neve: …………………………………………………………………………….
 
@@ -44,13 +44,13 @@
 
 ## VIII. Döntés az egyesület/sportegyesület rendelkezésére bocsátott vagyon kezelésére vonatkozó rendelkezésekről, amennyiben a tagok pénzbeli vagyoni hozzájárulást teljesítenek.
 
-## A napirendi pontokat a jelenlévők ……….[^95] számú „igen” szavazattal, egyhangúlag, nyílt szavazással elfogadták.
+## A napirendi pontokat a jelenlévők ……….[^96] számú „igen” szavazattal, egyhangúlag, nyílt szavazással elfogadták.
 
 ## I. napirendi pont
 
 ## A levezető elnök javasolja az alakuló közgyűlésnek az egyesület/sportegyesület létrehozásának kimondását, egyben tájékoztatja a jelenlévőket, hogy az egyesület/sportegyesület létrehozásához alapszabály elfogadása, az alapszabály elfogadásához pedig legalább tíz személy egybehangzó akaratnyilatkozata szükséges. Aki az egyesület/sportegyesület létrehozását nem támogatja, nem vesz részt az egyesület/sportegyesület létrehozásában.
 
-## Az ülésen jelen lévők ……….[^96] számú „igen” szavazattal, egyhangúlag, nyílt szavazással elhatározzák a/az
+## Az ülésen jelen lévők ……….[^97] számú „igen” szavazattal, egyhangúlag, nyílt szavazással elhatározzák a/az
 
 ## ………………………………………………………………………………………………………….
 
@@ -60,11 +60,11 @@
 
 ## A levezető elnök javasolja az alakuló közgyűlésnek az egyesület/sportegyesület mintaokirat alkalmazásával történő alapítását.
 
-## Az ülésen jelen lévők ……….[^97] számú „igen” szavazattal, egyhangúlag, nyílt szavazással elfogadják, hogy az egyesület/sportegyesület alapítására mintaokirat alkalmazásával kerüljön sor.
+## Az ülésen jelen lévők ……….[^98] számú „igen” szavazattal, egyhangúlag, nyílt szavazással elfogadják, hogy az egyesület/sportegyesület alapítására mintaokirat alkalmazásával kerüljön sor.
 
 ## III. napirendi pont
 
-## 1. A levezető elnök javasolja az alakuló közgyűlésnek, hogy[^98]
+## 1. A levezető elnök javasolja az alakuló közgyűlésnek, hogy[^99]
 
 ## a) személyi kérdésekben és az alapszabály mintaokirat szerint választható elemeiről nyílt szavazással
 
@@ -72,13 +72,13 @@
 
 ## döntsön az alakuló közgyűlés.
 
-## A szavazás eredménye:[^99]
+## A szavazás eredménye:[^100]
 
 ## Támogató szavazatok száma:…………
 
 ## Ellenszavazatok száma:……………..
 
-## Az alakuló közgyűlés döntése alapján az alakuló közgyűlés[^100]
+## Az alakuló közgyűlés döntése alapján az alakuló közgyűlés[^101]
 
 ## a) személyi kérdésekben és az alapszabály mintaokirat szerint választható elemeiről nyílt szavazással
 
@@ -90,69 +90,69 @@
 
 ## IV. napirendi pont
 
-## 1. [^101] Ügyvezető megválasztása
+## 1. [^102] Ügyvezető megválasztása
 
-## Javaslat az ügyvezető személyére:[^102]
+## Javaslat az ügyvezető személyére:[^103]
 
 ## …………………………………………………………………………………………………………
 
-## A szavazás eredménye:[^103]
+## A szavazás eredménye:[^104]
 
 ## Támogató szavazatok száma:…………
 
 ## Ellenszavazatok száma:……………..
 
-## Az alakuló közgyűlés döntése alapján az egyesület/sportegyesület ügyvezetője:[^104]................................................................................................................................
+## Az alakuló közgyűlés döntése alapján az egyesület/sportegyesület ügyvezetője:[^105]................................................................................................................................
 
-## 2. [^105] Elnökség megválasztása
+## 2. [^106] Elnökség megválasztása
 
-## 2.1. Javaslat az elnökség elnökének személyére:[^106]
+## 2.1. Javaslat az elnökség elnökének személyére:[^107]
 
 ## ……………………………………………………………………………………………………….
 
-## A szavazás eredménye:[^107]
+## A szavazás eredménye:[^108]
 
 ## Támogató szavazatok száma:…………
 
 ## Ellenszavazatok száma:……………..
 
-## Az alakuló közgyűlés döntése alapján az elnökség elnöke:[^108]..........................................................................................................................
+## Az alakuló közgyűlés döntése alapján az elnökség elnöke:[^109]..........................................................................................................................
 
-## 2.2. Javaslat az elnökség tagjainak személyére:[^109]
+## 2.2. Javaslat az elnökség tagjainak személyére:[^110]
 
 ## ……………………………………………………………………………………………..
 
 ## ……………………………………………………………………………………………...
 
-## A szavazás eredménye:[^110]
+## A szavazás eredménye:[^111]
 
 ## Támogató szavazatok száma:…………
 
 ## Ellenszavazatok száma:……………..
 
-## Az alakuló közgyűlés döntése alapján az elnökség tagjai:[^111]
+## Az alakuló közgyűlés döntése alapján az elnökség tagjai:[^112]
 
 ## ................................................................................................................................................
 
 ## ……………………………………………………………………………………………………..
 
-## V. napirendi pont[^112]
+## V. napirendi pont[^113]
 
-## Javaslat a felügyelőbizottság tagjának személyére:[^113]
-
-## ……………………………………………………………………………………………………..
+## Javaslat a felügyelőbizottság tagjának személyére:[^114]
 
 ## ……………………………………………………………………………………………………..
 
 ## ……………………………………………………………………………………………………..
 
-## A szavazás eredménye:[^114]
+## ……………………………………………………………………………………………………..
+
+## A szavazás eredménye:[^115]
 
 ## Támogató szavazatok száma:…………
 
 ## Ellenszavazatok száma:……………..
 
-## Az alakuló közgyűlés döntése alapján a felügyelőbizottság tagjai:[^115]
+## Az alakuló közgyűlés döntése alapján a felügyelőbizottság tagjai:[^116]
 
 ## ……………………………………………………………………………………………………..
 
@@ -164,17 +164,17 @@
 
 ## A levezető elnök javasolja a tagok előtt ismertetett tartalommal az egyesület/sportegyesület alapszabályának elfogadását.
 
-## Ezt követően az ülésen jelen lévők ……….[^116] számú „igen” szavazattal, egyhangúlag, nyílt szavazással elfogadták az egyesület/sportegyesület alapszabályát.
+## Ezt követően az ülésen jelen lévők ……….[^117] számú „igen” szavazattal, egyhangúlag, nyílt szavazással elfogadták az egyesület/sportegyesület alapszabályát.
 
-## VII. napirendi pont[^117]
+## VII. napirendi pont[^118]
 
-## Javaslat a tagdíj összegére:[^118]…………………………………………………………………………….
+## Javaslat a tagdíj összegére:[^119]…………………………………………………………………………….
 
-## Javaslat a tagdíj esedékességére: [^119] ………………………………………………………………………
+## Javaslat a tagdíj esedékességére: [^120] ………………………………………………………………………
 
-## Javaslat a tagdíj megfizetésének módjára: [^120] …………………………………………………………….
+## Javaslat a tagdíj megfizetésének módjára: [^121] …………………………………………………………….
 
-## A szavazás eredménye:[^121]
+## A szavazás eredménye:[^122]
 
 ## Támogató szavazatok száma:…………
 
@@ -188,19 +188,19 @@
 
 ## A tagdíj megfizetésének módja:………………………………………………………………………..
 
-## VIII. napirendi pont[^122]
+## VIII. napirendi pont[^123]
 
-## Javaslat az egyesület/sportegyesület rendelkezésére bocsátott vagyon kezelésére vonatkozó rendelkezésekre:[^123] ……………………………………………………………………………………..
+## Javaslat az egyesület/sportegyesület rendelkezésére bocsátott vagyon kezelésére vonatkozó rendelkezésekre:[^124] ……………………………………………………………………………………..
 
 ## ………………………………………………………………………………………………………….
 
-## A szavazás eredménye:[^124]
+## A szavazás eredménye:[^125]
 
 ## Támogató szavazatok száma:…………
 
 ## Ellenszavazatok száma:……………..
 
-## Az alakuló közgyűlés döntése alapján az egyesület/sportegyesület rendelkezésére bocsátott vagyon kezelésére vonatkozó rendelkezések:[^125]
+## Az alakuló közgyűlés döntése alapján az egyesület/sportegyesület rendelkezésére bocsátott vagyon kezelésére vonatkozó rendelkezések:[^126]
 
 ## ………………………………………………………………………………………………………….
 
@@ -224,7 +224,7 @@
 
 ## Egyesület, Sportegyesület
 
-## Alakuló közgyűlés jelenléti íve[^126]
+## Alakuló közgyűlés jelenléti íve[^127]
 
 1. Egyesület/sportegyesület neve:
 
@@ -238,25 +238,25 @@
 
 4. A közgyűlés típusa: alakuló ülés
 
-5.[^127] Jelen lévő alapító tagok:
+5.[^128] Jelen lévő alapító tagok:
 
 5.1.
 
 Név: .............................................................................................................................................
 
-Lakóhely:[^128] .....................................................................................................................................
+Lakóhely:[^129] .....................................................................................................................................
 
-Székhely:[^129] ......................................................................................................................................
+Székhely:[^130] ......................................................................................................................................
 
-Cégjegyzékszám, nyilvántartási szám:[^130] ………………………………………………………………
+Cégjegyzékszám, nyilvántartási szám:[^131] ………………………………………………………………
 
-Képviselő neve, képviseleti minőségének megjelölése:[^131]
+Képviselő neve, képviseleti minőségének megjelölése:[^132]
 
 .......................................................................................................................................................
 
-Képviselő lakóhelye vagy székhelye:[^132] ………………………………………………………………
+Képviselő lakóhelye vagy székhelye:[^133] ………………………………………………………………
 
-Aláírás:[^133]………………………………………………………………………………………………..
+Aláírás:[^134]………………………………………………………………………………………………..
 
 5.2.
 
@@ -402,7 +402,7 @@ Képviselő lakóhelye vagy székhelye:7 …………………………………
 
 Aláírás:8 ………………………………………………………………………………………………..
 
-5.10.[^134]
+5.10.[^135]
 
 Név: .............................................................................................................................................
 
@@ -428,45 +428,45 @@ A jelenléti ív hiteléül:
 
 közgyűlés levezető elnökének aláírása jegyzőkönyvvezető aláírása
 
-[^93]: Kitöltendő, amennyiben a mintaokirat alkalmazásával alapítandó egyesület/sportegyesület alakuló ülést tart. (A civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény 63. § a) pont). A mintaokirat szövege csak ott és annyiban bővíthető vagy változtatható, amennyiben a mintaokirat azt kifejezetten megengedi. A szükség szerint kitöltendő szövegrészek abban az esetben is a mintaokirat részét képezik, ha ezen részek kitöltésére az adott egyesület/sportegyesület esetében nem volt szükség.
-[^94]: Számmal kitöltendő.
+[^94]: Kitöltendő, amennyiben a mintaokirat alkalmazásával alapítandó egyesület/sportegyesület alakuló ülést tart. (A civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény 63. § a) pont). A mintaokirat szövege csak ott és annyiban bővíthető vagy változtatható, amennyiben a mintaokirat azt kifejezetten megengedi. A szükség szerint kitöltendő szövegrészek abban az esetben is a mintaokirat részét képezik, ha ezen részek kitöltésére az adott egyesület/sportegyesület esetében nem volt szükség.
 [^95]: Számmal kitöltendő.
 [^96]: Számmal kitöltendő.
 [^97]: Számmal kitöltendő.
-[^98]: Csak egy lehetőség választható.
-[^99]: Számmal kitöltendő.
-[^100]: Csak egy lehetőség választható.
-[^101]: Akkor kell szavazásra bocsátani, ha az egyesület/sportegyesület ügyvezetését ügyvezető látja el.
-[^102]: Szükség esetén bővíthető. Az ügyvezetőnek jelölt személy/személyek nevét kell feltüntetni.
-[^103]: Több ügyvezetőnek jelölt személy esetén akként bővíthető, hogy a szavazás eredményét jelöltenként kell feltüntetni.
-[^104]: Az ügyvezető nevét kell feltüntetni.
-[^105]: Akkor kell szavazásra bocsátani, ha az egyesület/sportegyesület ügyvezetését elnökség látja el.
-[^106]: Szükség esetén bővíthető. Az elnöknek jelölt személy/személyek nevét kell feltüntetni.
-[^107]: Több elnöknek jelölt személy esetén akként bővíthető, hogy a szavazás eredményét jelöltenként kell feltüntetni.
-[^108]: Az elnök nevét kell feltüntetni.
-[^109]: Szükség esetén bővíthető. Az elnökségi tagoknak jelölt személyek nevét kell feltüntetni.
-[^110]: Bővíthető. A szavazás eredményét jelöltenként kell feltüntetni.
-[^111]: Az elnökségi tagok nevét kell feltüntetni. Bővíthető.
-[^112]: Akkor kell szavazásra bocsátani, ha az egyesület/sportegyesület felügyelőbizottságot hoz létre.
-[^113]: Szükség esetén bővíthető. A felügyelőbizottsági tagnak jelölt személyek nevét kell feltüntetni.
-[^114]: Bővíthető. A szavazás eredményét jelöltenként kell feltüntetni.
-[^115]: A felügyelőbizottsági tag nevét kell feltüntetni. Bővíthető.
-[^116]: Számmal kitöltendő.
-[^117]: Akkor kell szavazásra bocsátani, ha az egyesület/sportegyesület tagjai az alapszabály rendelkezése alapján tagdíj fizetésére kötelesek.
-[^118]: Szükség esetén bővíthető.
+[^98]: Számmal kitöltendő.
+[^99]: Csak egy lehetőség választható.
+[^100]: Számmal kitöltendő.
+[^101]: Csak egy lehetőség választható.
+[^102]: Akkor kell szavazásra bocsátani, ha az egyesület/sportegyesület ügyvezetését ügyvezető látja el.
+[^103]: Szükség esetén bővíthető. Az ügyvezetőnek jelölt személy/személyek nevét kell feltüntetni.
+[^104]: Több ügyvezetőnek jelölt személy esetén akként bővíthető, hogy a szavazás eredményét jelöltenként kell feltüntetni.
+[^105]: Az ügyvezető nevét kell feltüntetni.
+[^106]: Akkor kell szavazásra bocsátani, ha az egyesület/sportegyesület ügyvezetését elnökség látja el.
+[^107]: Szükség esetén bővíthető. Az elnöknek jelölt személy/személyek nevét kell feltüntetni.
+[^108]: Több elnöknek jelölt személy esetén akként bővíthető, hogy a szavazás eredményét jelöltenként kell feltüntetni.
+[^109]: Az elnök nevét kell feltüntetni.
+[^110]: Szükség esetén bővíthető. Az elnökségi tagoknak jelölt személyek nevét kell feltüntetni.
+[^111]: Bővíthető. A szavazás eredményét jelöltenként kell feltüntetni.
+[^112]: Az elnökségi tagok nevét kell feltüntetni. Bővíthető.
+[^113]: Akkor kell szavazásra bocsátani, ha az egyesület/sportegyesület felügyelőbizottságot hoz létre.
+[^114]: Szükség esetén bővíthető. A felügyelőbizottsági tagnak jelölt személyek nevét kell feltüntetni.
+[^115]: Bővíthető. A szavazás eredményét jelöltenként kell feltüntetni.
+[^116]: A felügyelőbizottsági tag nevét kell feltüntetni. Bővíthető.
+[^117]: Számmal kitöltendő.
+[^118]: Akkor kell szavazásra bocsátani, ha az egyesület/sportegyesület tagjai az alapszabály rendelkezése alapján tagdíj fizetésére kötelesek.
 [^119]: Szükség esetén bővíthető.
 [^120]: Szükség esetén bővíthető.
-[^121]: Bővíthető. A szavazás eredményét javaslatonként kell feltüntetni.
-[^122]: Akkor kell szavazásra bocsátani, ha az egyesület/sportegyesület tagjai az alapszabály rendelkezése alapján az alapításkor vagy a tagsági jogok keletkezésének más eseteiben pénzbeli vagyoni hozzájárulást teljesítenek az egyesület/sportegyesület részére.
-[^123]: Szükség esetén bővíthető.
-[^124]: Bővíthető. A szavazás eredményét javaslatonként kell feltüntetni.
-[^125]: Bővíthető.
-[^126]: A mintaokirat szövege csak ott és annyiban bővíthető vagy változtatható, amennyiben a mintaokirat azt kifejezetten megengedi. A szükség szerint kitöltendő szövegrészek abban az esetben is a mintaokirat részét képezik, amennyiben ezen részek kitöltésére az adott egyesület/sportegyesület esetében nem volt szükség.
-[^127]: Szükség esetén 5.11. sorszámtól folyamatos számozással bővíthető.
-[^128]: Természetes személy alapító tag esetén kell kitölteni.
-[^129]: Jogi személy vagy jogi személyiséggel nem rendelkező szervezet alapító tag esetén kell kitölteni.
-[^130]: Jogi személy vagy jogi személyiséggel nem rendelkező szervezet alapító tag esetén kell kitölteni. Cégjegyzékszám, egyéb nyilvántartási szám.
-[^131]: Akkor kell kitölteni, ha az alapító tag jogi személy vagy jogi személyiséggel nem rendelkező szervezet, vagy olyan természetes személy, aki gyámság, szülői felügyelet, cselekvőképességet teljesen korlátozó gondnokság, vagy cselekvőképességet részlegesen, egyesületi közgyűlésen történő részvétel körében korlátozó gondokság alatt áll. A jognyilatkozat megtételekor figyelemmel kell lenni a Ptk. 2:15. § és 2:23. §-ában foglaltakra. Több képviselő esetén bővíthető.
-[^132]: Több képviselő esetén bővíthető.
-[^133]: Alapító tag vagy képviselője aláírása.
-[^134]: Szükség esetén 5.11. sorszámtól folyamatos számozással bővíthető.
+[^121]: Szükség esetén bővíthető.
+[^122]: Bővíthető. A szavazás eredményét javaslatonként kell feltüntetni.
+[^123]: Akkor kell szavazásra bocsátani, ha az egyesület/sportegyesület tagjai az alapszabály rendelkezése alapján az alapításkor vagy a tagsági jogok keletkezésének más eseteiben pénzbeli vagyoni hozzájárulást teljesítenek az egyesület/sportegyesület részére.
+[^124]: Szükség esetén bővíthető.
+[^125]: Bővíthető. A szavazás eredményét javaslatonként kell feltüntetni.
+[^126]: Bővíthető.
+[^127]: A mintaokirat szövege csak ott és annyiban bővíthető vagy változtatható, amennyiben a mintaokirat azt kifejezetten megengedi. A szükség szerint kitöltendő szövegrészek abban az esetben is a mintaokirat részét képezik, amennyiben ezen részek kitöltésére az adott egyesület/sportegyesület esetében nem volt szükség.
+[^128]: Szükség esetén 5.11. sorszámtól folyamatos számozással bővíthető.
+[^129]: Természetes személy alapító tag esetén kell kitölteni.
+[^130]: Jogi személy vagy jogi személyiséggel nem rendelkező szervezet alapító tag esetén kell kitölteni.
+[^131]: Jogi személy vagy jogi személyiséggel nem rendelkező szervezet alapító tag esetén kell kitölteni. Cégjegyzékszám, egyéb nyilvántartási szám.
+[^132]: Akkor kell kitölteni, ha az alapító tag jogi személy vagy jogi személyiséggel nem rendelkező szervezet, vagy olyan természetes személy, aki gyámság, szülői felügyelet, cselekvőképességet teljesen korlátozó gondnokság, vagy cselekvőképességet részlegesen, egyesületi közgyűlésen történő részvétel körében korlátozó gondokság alatt áll. A jognyilatkozat megtételekor figyelemmel kell lenni a Ptk. 2:15. § és 2:23. §-ában foglaltakra. Több képviselő esetén bővíthető.
+[^133]: Több képviselő esetén bővíthető.
+[^134]: Alapító tag vagy képviselője aláírása.
+[^135]: Szükség esetén 5.11. sorszámtól folyamatos számozással bővíthető.
