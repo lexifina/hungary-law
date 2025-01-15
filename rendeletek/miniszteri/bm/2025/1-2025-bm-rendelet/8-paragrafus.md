@@ -1,1 +1,3 @@
-8. § Hatályát veszti a menedékjogi kérelem benyújtására irányuló szándéknyilatkozattal kapcsolatos eljárásról szóló 16/2020. (VI. 17.) BM rendelet.
+8. §[^2]
+
+[^2]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
