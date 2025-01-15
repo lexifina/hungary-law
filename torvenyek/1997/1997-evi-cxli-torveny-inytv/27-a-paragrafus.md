@@ -1,1 +1,0 @@
-27/A. § Az eljárás megindításáról az ingatlanügyi hatóság azt az ügyfelet értesíti, akinek az ingatlan-nyilvántartásba bejegyzett tulajdonjogának törlését, illetve akivel szemben vételi jog bejegyzését kérik. Az értesítés mellőzhető, ha a tulajdonjog törlése jogerős hatósági határozaton vagy bírósági döntésen alapul.

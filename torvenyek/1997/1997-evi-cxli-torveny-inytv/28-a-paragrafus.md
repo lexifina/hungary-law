@@ -1,3 +1,0 @@
-28/A. § (1) Ha a bejelentésre, megkeresésre vagy hivatalból indult művelésiág-változás átvezetésére irányuló, illetve földminősítési eljárásban a tényállás tisztázása során az ingatlanügyi hatóság megállapítja, hogy a földrészlet nyilvántartott és természetbeni művelési ága, illetve minőségi osztálya eltér egymástól, ugyanakkor az adatváltozás átvezetéséhez változási vázrajz szükséges, hiánypótlásra hívja fel a 27. § (2) bekezdés a) pontja szerint a változás bejelentésére kötelezettet, vagy a 27. § (5) bekezdése szerinti megkeresőt.
-
-(2) A hiánypótlási felhívásban foglaltak nem teljesítése esetén az ingatlanügyi hatóság az eljárást a 39. § (3) bekezdés h) pontjában foglaltak alapján nem szünteti meg, hanem azt hivatalból folytatja.

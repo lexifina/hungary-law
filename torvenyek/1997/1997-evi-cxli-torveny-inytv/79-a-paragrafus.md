@@ -1,1 +1,0 @@
-79/A. § Tulajdonilap-másolatnak az érte fizetendő igazgatási szolgáltatási díj összegét meghaladó ellenérték fejében történő továbbadása vagy erre vonatkozó szolgáltatás felkínálása tilos. A jogszabálysértés megállapítása esetén közigazgatási bírság kiszabásának van helye.

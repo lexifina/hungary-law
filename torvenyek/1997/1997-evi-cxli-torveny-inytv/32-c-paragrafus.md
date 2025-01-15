@@ -1,3 +1,0 @@
-32/C. § (1) Ha az alzálogjogosult az elzálogosított követelést biztosító zálogjog jogosultjának helyébe lép, az alzálogjogosultnak a helyébe lépés tényét, az ingatlan helyrajzi számát, az érintett jogok, tények megjelölését, valamint a jelzálog jogosultjának hozzájáruló nyilatkozatát tartalmazó okirattal kell kérnie az ingatlanügyi hatóságtól az érintett jogok módosítását.
-
-(2) Az ingatlanügyi hatóság a kérelem alapján az elzálogosított követelést biztosító zálogjog bejegyzését módosítva az alzálogjog jogosultját tünteti fel jogosultként – az alzálogjog bejegyzésének egyidejű törlésével – az ingatlan-nyilvántartásban.

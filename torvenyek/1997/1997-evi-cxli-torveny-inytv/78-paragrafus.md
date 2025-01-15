@@ -1,1 +1,0 @@
-78. § Az ingatlan-nyilvántartásból adatátviteli eszközzel, illetve számítástechnikai adathordozón személyes adat csak egyedi esetekben, az annak kezelésére törvény által felhatalmazott részére szolgáltatható.

@@ -1,1 +1,0 @@
-69. § A hitelesítési záradékban fel kell tüntetni, hogy a másolat a kiadást megelőző napig az eredetivel megegyezik. A hiteles tulajdonilap-másolat az ingatlan-nyilvántartásba bejegyzett jogokat, feljegyzett tényeket, illetve az ingatlan adatait hitelesen tanúsítja.
