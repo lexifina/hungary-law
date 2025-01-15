@@ -1,0 +1,3 @@
+47. § A 38/2014. (II. 24.) Korm. rendelet 20. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Ha az adatlap lekérdezése a lekérdező által megadott azonosító adatok alapján eredménytelen volt, erről a lekérdezéshez felhasznált adatokat és a lekérdezés eredményét tartalmazó, „A megadott azonosító adatok alapján adatlap-másolat kiállítása eredménytelen volt” szövegű záradékkal ellátott igazolást kell kiadni. Ennek az igazolásnak tartalmaznia kell a nyilvántartás számítógépes rendszerének üzemeltetését ellátó földmérési és térinformatikai államigazgatási szerv megnevezését és címét is.”
