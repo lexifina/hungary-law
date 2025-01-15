@@ -12,7 +12,7 @@
 
 5. a külképviseleti hatóság, olyan ügy intézéséhez, amelyben a személyi azonosító kezelésére az eljárás lefolytatására hatáskörrel rendelkező hazai hatóság jogosult;
 
-6. az ingatlan-nyilvántartás és földhasználati nyilvántartás szerve, belső azonosítóként, a törvényben meghatározottak szerint, az ingatlantulajdonosok és a földhasználók, illetve az ingatlannal kapcsolatos bármely joggal és kötelezettséggel összefüggésben, a nyilvántartásba bejegyzett polgár azonosításához;
+6. az ingatlan-nyilvántartás, 2026. december 31-ig a földhasználati nyilvántartás, a földművesekről, a mezőgazdasági termelőszervezetekről és a mezőgazdasági üzemközpontokról vezetett nyilvántartás és a földvédelmi nyilvántartás szerve törvényben meghatározottak szerint;
 
 7. a Magyar Honvédség központi nyilvántartó szerve és a területi katonai igazgatási szervek, valamint a Magyar Honvédség központi irattárazási feladatait ellátó honvédelmi szervezet kijelölt szerve, továbbá a katonai szolgálat teljesítésének időtartama alatt a tényleges állomány vonatkozásában az állományilletékes honvédelmi szervezet a törvény szerinti hadköteles nyilvántartás vezetéséhez, az önkéntes tartalékos és kiképzett hadköteles állomány katonai szolgálata tervezése érdekében, a háborús veszteség-nyilvántartással kapcsolatban, nemzetközi megállapodásban rögzített kötelezettségek teljesítéséhez, valamint a honvédelmi ágazatban használt okmányok kezelésével kapcsolatban;
 
