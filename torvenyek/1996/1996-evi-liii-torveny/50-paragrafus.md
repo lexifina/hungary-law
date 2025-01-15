@@ -4,7 +4,7 @@
 
 (3) A barlang bejáratának biztonságáról, ha szükséges szakszerű lezárásáról az igazgatóság gondoskodik.
 
-(4) Az (1) bekezdésben foglaltak biztosítására az igazgatóságot szolgalmi jog illeti meg, illetve annak az ingatlannak a tulajdonosát (vagyonkezelőjét, használóját), amelyről a barlang nyílik, szolgalmi jog terheli (szolgáló telek). Ennek tényét az ingatlan-nyilvántartásba – az igazgatóság kezdeményezésére – be kell jegyezni.
+(4) Az (1) bekezdésben foglaltak biztosítására az igazgatóságot szolgalmi jog illeti meg, illetve azt az ingatlant, amelyről a barlang nyílik, szolgalmi jog terheli (szolgáló telek). Ennek tényét az ingatlan-nyilvántartásba – az igazgatóság felhívására – az ingatlanügyi hatóság jegyzi be.
 
 (5) Bármilyen ingatlanon végzett tevékenység következtében feltárult barlangok esetén, a (3) bekezdés szerinti barlangbiztosítási munkák költségeit annak kell fedeznie, akinek érdekében, ennek hiányában beavatkozása nyomán a barlangkiépítési munkák elvégzése szükségessé vált.
 

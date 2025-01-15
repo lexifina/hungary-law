@@ -10,4 +10,4 @@ c) a mező- és erdőgazdasági hasznosításra alkalmatlan földterület.
 
 (2) Az (1) bekezdés hatálya alá tartozó természeti területek jegyzékét a miniszter az agrárpolitikáért felelős miniszterrel együtt közzéteszi.
 
-(3) A (2) bekezdés szerint közzétett természeti terület kijelölésének tényét az ingatlan-nyilvántartásba fel kell jegyezni, a kijelölés feloldását követően a feljegyzést törölni kell. A feljegyzést, illetve annak törlését a természetvédelmi hatóság hivatalból kezdeményezi.
+(3) A (2) bekezdés szerint közzétett természeti terület kijelölésére vonatkozó adatot az ingatlan-nyilvántartásba be kell jegyezni, a kijelölés feloldását követően a bejegyzést törölni kell. A bejegyzés soron kívüli teljesítésére, illetve annak soron kívüli törlésére a természetvédelmi hatóság hívja fel az ingatlanügyi hatóságot.
