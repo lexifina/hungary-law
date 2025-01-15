@@ -1,3 +1,1 @@
-2. §[^2]
-
-[^2]: A 2. § a 10. § (2) bekezdése alapján 2025. január 15-én lép hatályba.
+2. § A cégbejegyzési eljárás és a cégnyilvántartás egyes kérdéseiről szóló 21/2006. (V. 18.) IM rendelet az 1. melléklet szerinti 19. számú melléklettel egészül ki.

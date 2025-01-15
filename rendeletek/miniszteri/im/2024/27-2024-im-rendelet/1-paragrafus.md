@@ -18,6 +18,6 @@
 
 ## 1. A cégbejegyzési eljárás és a cégnyilvántartás egyes kérdéseiről szóló 21/2006. (V. 18.) IM rendelet módosítása
 
-1. §[^1]
+1. § A cégbejegyzési eljárás és a cégnyilvántartás egyes kérdéseiről szóló 21/2006. (V. 18.) IM rendelet a következő 8/B. §-sal egészül ki:
 
-[^1]: Az 1. § a 10. § (2) bekezdése alapján 2025. január 15-én lép hatályba.
+„8/B. § Ha cégbíróságnak a Ctv. szerinti eljárásában az ügy érdemében hozott jogerős végzése, vagy a cégbejegyzési (változásbejegyzési) eljárásban hozott bejegyzést elrendelő végzése alapján ingatlan-nyilvántartási bejegyzésnek van helye, a jogi képviselő – vagy ha az ügyben nem jogi képviselő jár el, a kérelmező – a 19. számú melléklet szerint tartalommal mellékletként csatolja a kérelemhez az ingatlan-nyilvántartási bejegyzéshez szükséges adatokat.”
