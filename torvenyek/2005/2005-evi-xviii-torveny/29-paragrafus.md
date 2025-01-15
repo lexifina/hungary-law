@@ -2,4 +2,4 @@
 
 (2) Megszűnik a használati jog, ha az engedélyes a használati joggal terhelt ingatlanon a szolgáltatói hőközpontot a használati jog keletkezésétől számított öt éven belül nem építi meg vagy azt véglegesen eltávolítja. Megszűnik a használati jog a felek megállapodásával is.
 
-(3) A használati jog megszűnése esetén az engedélyes a használati jog megszűnésével egyidejűleg köteles kérni az ingatlan-nyilvántartásból történő törlést. Ennek elmulasztása esetén – az engedélyes költségére – az ingatlan tulajdonosa is kérheti a használati jog törlését. Az ehhez szükséges nyilatkozatot az engedélyes köteles az ingatlantulajdonosnak kiadni, és a törléssel összefüggésben felmerült kiadásait megtéríteni.
+(3) A használati jog megszűnése esetén az engedélyes kéri a használati jog ingatlan-nyilvántartásból történő törlését. Ennek elmulasztása esetén – az engedélyes költségére – az ingatlan tulajdonosa is kérheti a használati jog törlését. Az ehhez szükséges nyilatkozatot az engedélyes köteles az ingatlantulajdonosnak kiadni, és a törléssel összefüggésben felmerült kiadásait megtéríteni.
