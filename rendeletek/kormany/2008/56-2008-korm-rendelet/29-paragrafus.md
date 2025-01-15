@@ -1,4 +1,4 @@
-## 29. §[^70] A bírósági ügyintéző a perújítási eljárásban jogosult
+## 29. §[^71] A bírósági ügyintéző a perújítási eljárásban jogosult
 
 a) az alapügy ügyiratainak beszerzése iránt intézkedni, ha az ügyészség az ügyiratokat nem csatolta a perújítási indítványhoz a Be. 643. § (3) bekezdése szerint,
 
@@ -6,4 +6,4 @@ b) az ügyészségnek észrevételezésre megküldeni a perújítási indítván
 
 c) az indítvány előterjesztőjének kézbesíteni az ügyészség perújítási indítványra tett nyilatkozatát, valamint a terheltnek és a védőnek kézbesíteni a más által előterjesztett perújítási indítványt és az arra tett ügyészségi nyilatkozatot a Be. 643. § (5) bekezdése szerint.
 
-[^70]: A 29. § a 109/2018. (VI. 25.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^71]: A 29. § a 109/2018. (VI. 25.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.

@@ -1,4 +1,4 @@
-35. §[^76] (1) A bírósági ügyintéző jogosult az ismeretlen helyen tartózkodó elítélt, illetve kényszergyógykezelt tényleges tartózkodási helyének felkutatása iránt intézkedni a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény (a továbbiakban: Bv. tv.) 19. § (1) bekezdése szerint azzal, hogy a bírósági ügyintéző a körözés elrendelésére és az elfogatóparancs kibocsátására nem jogosult.
+35. §[^77] (1) A bírósági ügyintéző jogosult az ismeretlen helyen tartózkodó elítélt, illetve kényszergyógykezelt tényleges tartózkodási helyének felkutatása iránt intézkedni a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény (a továbbiakban: Bv. tv.) 19. § (1) bekezdése szerint azzal, hogy a bírósági ügyintéző a körözés elrendelésére és az elfogatóparancs kibocsátására nem jogosult.
 
 (2) A bírósági ügyintéző jogosult a szabadságvesztés végrehajtásának elhalasztására irányuló eljárásban a Büntetés-végrehajtás Országos Parancsnoksága egészségügyi szakterület vezetőjének – az elítélt egészségügyi állapotának büntetés-végrehajtás keretei között való kezelhetőségére vonatkozó – nyilatkozatának beszerzése iránt intézkedni a Bv. tv. 39. § (4) bekezdése szerint.
 
@@ -8,4 +8,4 @@
 
 (5) A bírósági ügyintéző a végleges hatályú foglalkozástól és járművezetéstől eltiltás, valamint a végleges hatályú kiutasítás alóli mentesítésre irányuló eljárásban a Bv. tv. 69/C. § (3) bekezdése szerint az ügyészség és az idegenrendészeti hatóság nyilatkozatának beszerzése iránt intézkedhet.
 
-[^76]: A 35. § a 109/2018. (VI. 25.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^77]: A 35. § a 109/2018. (VI. 25.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.

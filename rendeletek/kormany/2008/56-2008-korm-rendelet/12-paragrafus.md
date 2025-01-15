@@ -1,8 +1,8 @@
 ## 11. § A bírósági ügyintéző a 7. § (1) bekezdésében és a 10. § (1) bekezdésében meghatározott végzéseket abban az esetben hozhatja meg, ha a bírói utasítás a döntés valamennyi tartalmi elemére kiterjed.
 
-## A polgári, a gazdasági, a végrehajtási, a közigazgatási és a munkaügyi nemperes eljárás során ellátható feladatok[^30]
+## A polgári, a gazdasági, a végrehajtási, a közigazgatási és a munkaügyi nemperes eljárás során ellátható feladatok[^31]
 
-12. § (1)[^31] A bírósági ügyintéző nemperes eljárásban – ha jogszabály eltérően nem rendelkezik – első fokon eljárhat, és az ügy érdemében végzés meghozatalára jogosult
+12. § (1)[^32] A bírósági ügyintéző nemperes eljárásban – ha jogszabály eltérően nem rendelkezik – első fokon eljárhat, és az ügy érdemében végzés meghozatalára jogosult
 
 a) az előzetes jognyilatkozatok nyilvántartásba vételével kapcsolatos eljárásban,
 
@@ -10,13 +10,13 @@ b) a bírósági letéti eljárásban,
 
 c) az eltűntnek nyilvánítási eljárásban,
 
-d)[^32] a bírósági peres és nemperes eljárásokra adott általános meghatalmazásokkal kapcsolatos bírósági nyilvántartási eljárásban,
+d)[^33] a bírósági peres és nemperes eljárásokra adott általános meghatalmazásokkal kapcsolatos bírósági nyilvántartási eljárásban,
 
 e) a gondnokoltak névjegyzékének vezetésével kapcsolatos eljárásban,
 
 f) a választottbírósági határozatok jegyzékének vezetésével kapcsolatos eljárásban.
 
-(2)[^33] A bírósági ügyintéző nemperes eljárásban – ha jogszabály eltérően nem rendelkezik – első fokon eljárhat, de az ügy érdemében végzés meghozatalára nem jogosult
+(2)[^34] A bírósági ügyintéző nemperes eljárásban – ha jogszabály eltérően nem rendelkezik – első fokon eljárhat, de az ügy érdemében végzés meghozatalára nem jogosult
 
 a) a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény hatálya alá tartozó szervezetek nyilvántartásba vételével, változásbejegyzésével és törlésével kapcsolatos eljárásban,
 
@@ -26,13 +26,13 @@ c) apaság vélelmének megdöntése iránti nemperes eljárásban,
 
 d) az európai területi együttműködési csoportosulás nyilvántartásba vételével, változásbejegyzésével, törlésével kapcsolatos eljárásban,
 
-e)[^34]
+e)[^35]
 
 f) önkényesen elfoglalt lakás kiürítésével kapcsolatos eljárásban.
 
 (3) A bírósági ügyintéző a holtnak nyilvánítási eljárásban, a holtnak nyilvánító végzés módosítása vagy hatályon kívül helyezése iránti eljárásban, továbbá a halál tényének megállapítására irányuló eljárásban első fokon eljárhat – kivéve, ha bizonyítás felvételére vagy az érdekeltek meghallgatására kerül sor –, de az ügy érdemében végzés meghozatalára nem jogosult.
 
-(4)[^35] A bírósági ügyintéző végrehajtási eljárásban első fokon jogosult
+(4)[^36] A bírósági ügyintéző végrehajtási eljárásban első fokon jogosult
 
 a) megkeresés kiadására és iratok beszerzésére a végrehajtótól, más bíróságtól, vagy hatóságtól,
 
@@ -46,9 +46,9 @@ e) jogerő megállapítására,
 
 f) kérelemtől elállás esetén peren kívüli eljárás megszüntetésére,
 
-g)[^36] Pp. 144. §-a alapján hirdetményi kézbesítést elrendelő végzés meghozatalára,
+g)[^37] Pp. 144. §-a alapján hirdetményi kézbesítést elrendelő végzés meghozatalára,
 
-h)[^37] Pp. 147. §-a alapján határidő hosszabbítás engedélyezésére,
+h)[^38] Pp. 147. §-a alapján határidő hosszabbítás engedélyezésére,
 
 i) fellebbezés észrevételezésre történő kiadására,
 
@@ -56,11 +56,11 @@ j) általa hozott végzések kijavítására, kiegészítésére,
 
 k) végrehajtási kifogás visszavonása esetén a kifogás tárgyában indult eljárás megszüntetésére.
 
-[^30]: A 12. §-t megelőző alcím a 62/2017. (III. 20.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^31]: A 12. § (1) bekezdése a 62/2017. (III. 20.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^32]: A 12. § (1) bekezdés d) pontja a 393/2017. (XII. 13.) Korm. rendelet 26. § (9) bekezdésével megállapított szöveg.
-[^33]: A 12. § (2) bekezdése a 62/2017. (III. 20.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^34]: A 12. § (2) bekezdés e) pontját a 393/2017. (XII. 13.) Korm. rendelet 28. §-a hatályon kívül helyezte.
-[^35]: A 12. § (4) bekezdését a 62/2017. (III. 20.) Korm. rendelet 7. § (2) bekezdése iktatta be.
-[^36]: A 12. § (4) bekezdés g) pontja a 393/2017. (XII. 13.) Korm. rendelet 27. § g) pontja szerint módosított szöveg.
-[^37]: A 12. § (4) bekezdés h) pontja a 393/2017. (XII. 13.) Korm. rendelet 27. § h) pontja szerint módosított szöveg.
+[^31]: A 12. §-t megelőző alcím a 62/2017. (III. 20.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^32]: A 12. § (1) bekezdése a 62/2017. (III. 20.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^33]: A 12. § (1) bekezdés d) pontja a 393/2017. (XII. 13.) Korm. rendelet 26. § (9) bekezdésével megállapított szöveg.
+[^34]: A 12. § (2) bekezdése a 62/2017. (III. 20.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^35]: A 12. § (2) bekezdés e) pontját a 393/2017. (XII. 13.) Korm. rendelet 28. §-a hatályon kívül helyezte.
+[^36]: A 12. § (4) bekezdését a 62/2017. (III. 20.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^37]: A 12. § (4) bekezdés g) pontja a 393/2017. (XII. 13.) Korm. rendelet 27. § g) pontja szerint módosított szöveg.
+[^38]: A 12. § (4) bekezdés h) pontja a 393/2017. (XII. 13.) Korm. rendelet 27. § h) pontja szerint módosított szöveg.

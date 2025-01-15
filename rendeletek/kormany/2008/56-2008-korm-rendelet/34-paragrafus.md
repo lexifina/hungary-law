@@ -1,4 +1,4 @@
-34. §[^75] (1) A bírósági ügyintéző a kártalanítási eljárásban jogosult
+34. §[^76] (1) A bírósági ügyintéző a kártalanítási eljárásban jogosult
 
 a) beszerezni a terhelttel szemben alkalmazott szabadságkorlátozásra vonatkozó adatokat és iratokat, amelyek a kártalanítási igény elbírálásához szükségesek,
 
@@ -18,4 +18,4 @@ a) beszerezni azokat a fizetésre kötelezettre vonatkozó adatokat és iratokat
 
 b) az államot megillető bűnügyi költség és a rendbírság mérséklése vagy elengedése tárgyában hozandó döntéshez szükséges adatokat tartalmazó ügyiratokat és az e célból beszerzett egyéb iratokat, valamint a fizetésre kötelezett kérelmét az igazságügyért felelős miniszterhez felterjeszteni a Be. 864. § (3) bekezdése szerint.
 
-[^75]: A 34. § a 109/2018. (VI. 25.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^76]: A 34. § a 109/2018. (VI. 25.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
