@@ -22,9 +22,9 @@ c) az újrahasznosítás megvalósításának tervezett időpontját.
 
 a) az (5) bekezdés szerinti újrahasznosítási tervet,
 
-b) az 50. § (2) bekezdés d) pontjában előírt, a mezőgazdasági célú hasznosítást lehetővé tevő újrahasznosítást megalapozó talajvédelmi tervet, kivéve, ha a tervezett újrahasznosításra oszlophelyek vagy vonalas létesítmény megszüntetésével kerül sor, és az nem jár a talajfelszín megbontásával, illetve roncsolásával;
+b) az 50. § (2) bekezdés e) pontjában előírt, a mezőgazdasági célú hasznosítást lehetővé tevő újrahasznosítást megalapozó talajvédelmi tervet, kivéve, ha a tervezett újrahasznosításra oszlophelyek vagy vonalas létesítmény megszüntetésével kerül sor, és az nem jár a talajfelszín megbontásával, illetve roncsolásával;
 
-c) a tervezett újrahasznosítással kialakítandó terület adatait ábrázoló ingatlan-nyilvántartási térképi adatbázisból nyomtatott olyan méretarányú térképmásolatot, amelynek tartalma áttekinthető és tartalmazza a méretarány tényezőt.
+c) a tervezett újrahasznosítással kialakítandó terület adatait ábrázoló ingatlan-nyilvántartási térképi adatbázisból szolgáltatott olyan méretarányú térképmásolatot, amelynek tartalma áttekinthető és tartalmazza a méretarány tényezőt.
 
 (4a)
 

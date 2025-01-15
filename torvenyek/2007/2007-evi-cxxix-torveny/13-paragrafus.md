@@ -4,4 +4,4 @@
 
 (3) A honvédelmi vagy rendészeti feladatok ellátásával kapcsolatos más célú hasznosításra e törvény rendelkezéseit akkor kell alkalmazni, ha törvény eltérően nem rendelkezik.
 
-(4) Az ingatlanügyi hatóság a végleges más célú hasznosítás engedélyezéséről szóló véglegessé vált határozatát tájékoztatás céljából közli az illetékes települési – a fővárosban a kerületi – önkormányzattal (a továbbiakban: önkormányzat).
+(4) Az ingatlanügyi hatóság a végleges más célú hasznosítás engedélyezéséről a véglegessé vált határozat másolatának megküldésével tájékoztatja az illetékes települési – a fővárosban a kerületi – önkormányzatot (a továbbiakban: önkormányzat).

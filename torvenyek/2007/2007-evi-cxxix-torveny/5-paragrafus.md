@@ -16,4 +16,4 @@
 
 (5c) Az ingatlanügyi hatóság által az (1)–(4) bekezdésben foglalt kötelezettség elmulasztása miatt indított eljárásban a kötelezettnek nyilatkoznia kell az (5b) bekezdésben foglaltak fennállásáról.
 
-(6) Az ingatlanügyi hatóság az (1)–(4) bekezdésben foglalt kötelezettségek elmulasztása miatt a földvédelmi bírság megfizetésére kötelező véglegessé vált határozatának egy példányát közli a mezőgazdasági igazgatási szervvel.
+(6) Az ingatlanügyi hatóság az (1)–(4) bekezdésben foglalt kötelezettségek elmulasztása miatt a földvédelmi bírság megfizetésére kötelező véglegessé vált határozatának megküldésével értesíti a mezőgazdasági igazgatási szervet.

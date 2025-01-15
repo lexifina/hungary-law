@@ -14,7 +14,7 @@ d) a c) pontban foglaltaktól eltérően, ha a bejelentésig az eredeti állapot
 
 (4) A bejelentéshez csatolni kell:
 
-a) az (1) bekezdésben meghatározott megállapodás vagy véglegessé vált hatósági engedély hiteles másolatát,
+a) az (1) bekezdésben meghatározott megállapodás vagy véglegessé vált hatósági engedély másolatát,
 
 b) ha a bejelentésig az eredeti állapot helyreállítása megtörtént, akkor az elvégzett munkák leírását, és az azt tartalmazó jegyzéket.
 

@@ -24,7 +24,7 @@ c) ha a kérelemben és a képviselő-testületi döntésben megjelölt földré
 
 (8) A (7) bekezdésben foglalt esetben az ingatlan természetes személy tulajdonosának saját, illetve közeli hozzátartozóinak lakhatása szempontjából az építésügyi tárgyú jogszabályokban foglaltakat kell alkalmazni.
 
-(9) A belterületbe vonás (7) bekezdésben rögzített esetében az önkormányzatnak – a (2) bekezdésben foglaltakon túl – csatolnia a kell az ingatlan természetes személy tulajdonosának közokiratba, vagy teljes bizonyító erejű magánokiratba foglalt nyilatkozatát arra vonatkozóan, hogy az érintett ingatlan a saját tulajdonában áll, és azon saját, illetve közeli hozzátartozói lakhatására kíván lakóépületet létesíteni.
+(9) A belterületbe vonás (7) bekezdésben rögzített esetében az önkormányzatnak – a (2) bekezdésben foglaltakon túl – csatolnia a kell az ingatlan természetes személy tulajdonosának közokiratba, vagy teljes bizonyító erejű magánokiratba foglalt hozzájáruló nyilatkozatát vagy annak másolatát arra vonatkozóan, hogy az érintett ingatlan a saját tulajdonában áll, és azon saját, illetve közeli hozzátartozói lakhatására kíván lakóépületet létesíteni.
 
 (10) Ha az ingatlan természetes személy tulajdonosa nem tesz eleget a (9) bekezdés szerinti nyilatkozatában foglaltaknak, vele szemben a 24. § (1) bekezdés f) pontja szerinti földvédelmi bírság kiszabásának van helye.
 

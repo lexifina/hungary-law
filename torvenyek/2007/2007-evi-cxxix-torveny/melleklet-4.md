@@ -53,3 +53,9 @@
 15. az engedély véglegessé válásának időpontja;
 
 16. az engedély hatályon kívül helyezésének időpontja.
+
+17. az igénybevevő
+
+17.1. természetes személy természetes személyazonosító adatai, lakcíme és 2026. december 31-ig a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény hatálya alá tartozó természetes személy személyi azonosítója,
+
+17.2. nem természetes személy megnevezése, adószáma, statisztikai azonosítója, székhelye, valamint a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény hatálya alá tartozó cég cégjegyzékszáma.

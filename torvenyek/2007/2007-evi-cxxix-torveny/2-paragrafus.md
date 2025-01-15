@@ -2,7 +2,7 @@
 
 2. § E törvény alkalmazásában
 
-1. átlagos minőségű termőföld: az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvényben (a továbbiakban: Inytv.) meghatározott törzskönyvben szereplő, az adott település – ideértve a fővárosi kerületet és az Inytv. 10. § (1) bekezdésében megjelölt városok esetében a kerületet – azonos művelési ágú termőföldjei 1 hektárra vetített aranykorona-értékeinek területtel súlyozott átlagának megfelelő, de hektáronként szántó esetében legfeljebb 22 aranykorona (a továbbiakban: AK) értékű, rét esetében legfeljebb 16 AK értékű, legelő esetében legfeljebb 6 AK értékű termőföld;
+1. átlagos minőségű termőföld: az adott település azonos művelési ágú termőföldjei 1 hektárra vetített aranykorona-értékeinek területtel súlyozott átlagának megfelelő, de hektáronként szántó esetében legfeljebb 22 AK értékű, rét esetében legfeljebb 16 AK értékű, legelő esetében legfeljebb 6 AK értékű termőföld;
 
 1a. bányaüzem: az ásványi nyersanyag kutatására, valamint feltárására és kitermelésére meghatározott terület;
 

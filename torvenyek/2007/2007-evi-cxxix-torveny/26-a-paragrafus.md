@@ -4,9 +4,9 @@
 
 a) a járulékmentességet élvező, valamint a járulék és bírság megfizetésére kötelezett igénybevevő (ezen alcím alkalmazásában a továbbiakban együtt: igénybevevő)
 
-aa) természetes személy esetén a természetes személyazonosító adatait és lakcímét,
+aa) természetes személy természetes személyazonosító adatait, lakcímét, és 2026. december 31-ig a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény hatálya alá tartozó természetes személy személyi azonosítóját,
 
-ab) nem természetes személy esetén megnevezését, statisztikai azonosítóját és székhelyét;
+ab) nem természetes személy megnevezését, adószámát, statisztikai azonosítóját, székhelyét, és a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény hatálya alá tartozó cég cégjegyzékszámát;
 
 b) az érintett földrészlet(ek) megjelölését (település, fekvés, helyrajzi szám);
 
@@ -48,7 +48,9 @@ b) a földhasználati nyilvántartásból a földhasználatilap-másolat adatain
 
 felhasználására.
 
-(5) Az ingatlanügyi hatóság a személyiadat- és lakcímnyilvántartás szerveitől természetes személyazonosító adatok, illetve lakcím alapján a természetes személy igénybevevő azonosításához díjmentesen igényelheti a (2) bekezdés a) pont aa) alpontjában foglalt adatokat.
+(5) Az ingatlanügyi hatóság a személyiadat- és lakcímnyilvántartás szerveitől természetes személyazonosító adatok, 2026. december 31-ig személyi azonosító és lakcím alapján a természetes személy igénybevevő azonosításához díjmentesen igényelheti a (2) bekezdés a) pont aa) alpontjában foglalt adatokat.
+
+(5a) Az ingatlanügyi hatóság a cégnyilvántartásból a cég megnevezése, adószáma, statisztikai azonosítója és cégjegyzékszáma alapján a nem természetes személy igénybevevő azonosításához díjmentesen igényelheti a (2) bekezdés a) pont ab) alpontjában foglalt adatokat.
 
 (6) Az ingatlanügyi hatóság a (4) bekezdésben meghatározott nyilvántartásokból átvett, illetve lekérdezett adatokat kizárólag az e törvényben meghatározott feladatának ellátásához használhatja fel.
 
