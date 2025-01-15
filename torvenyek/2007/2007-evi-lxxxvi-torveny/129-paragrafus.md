@@ -2,4 +2,4 @@
 
 (2) A Hatóság az építési engedély hatályát a hálózati engedélyes által a hatály lejárta előtt benyújtott kérelem alapján, külön jogszabályban meghatározott esetben, legfeljebb két évvel meghosszabbíthatja, amennyiben az engedély a meghosszabbítás idején hatályban lévő jogszabályi előírásoknak megfelel.
 
-(3) A megállapodáson alapuló használati jog ingatlan-nyilvántartásból való törlését az engedélyes a megállapodás benyújtásával egyidejűleg köteles kérni. A határozaton alapuló használati jog esetén a Hatóság a használati jog megszűnését megállapító véglegessé vált határozattal keresi meg az ingatlanügyi hatóságot a használati jog törlése iránt.
+(3) A megállapodáson alapuló használati jog ingatlan-nyilvántartásból való törlését az engedélyes a megállapodás benyújtásával egyidejűleg köteles kérni. A határozaton alapuló használati jog esetén a Hatóság a használati jog megszűnését megállapító véglegessé vált határozata alapján felhívja az ingatlanügyi hatóságot a használati jog ingatlan-nyilvántartásból történő törlésére.

@@ -2,7 +2,7 @@
 
 127. § (1) A hálózati engedélyes idegen ingatlanon közcélú hálózathoz tartozó, nem tartószerkezeten elhelyezett, külön jogszabályban meghatározott átalakító- és kapcsolóberendezés építésére a használati jog birtokában kérheti a Hatóságtól az építési engedély megadását.
 
-(2) A használati jog az idegen ingatlan tulajdonosával kötött megállapodás alapján keletkezik. Ha az építése helyéül szolgáló ingatlan közös tulajdonban áll, a megállapodáshoz az érintett személyek tulajdoni hányad alapján számított többségi döntése szükséges. A használati jog alapítására egyebekben a Ptk. rendelkezései az irányadók.
+(2) A használati jog az idegen ingatlan tulajdonosával kötött megállapodás és annak ingatlan-nyilvántartási bejegyzése alapján keletkezik. Ha az építése helyéül szolgáló ingatlan közös tulajdonban áll, a megállapodáshoz az érintett személyek tulajdoni hányad alapján számított többségi döntése szükséges. A használati jog alapítására egyebekben a Ptk. rendelkezései az irányadók.
 
 (2a) A (2) bekezdés szerinti megállapodás megkötéséhez való hozzájárulást megadottnak kell tekinteni az olyan tulajdonos, tulajdonostárs esetében, akinek a részére a megállapodás tervezetének közlése
 

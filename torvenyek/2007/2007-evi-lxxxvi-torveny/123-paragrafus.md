@@ -2,7 +2,7 @@
 
 123. § (1) A közcélú hálózat nyomvonalát belterületen úgy kell kijelölni és megtervezni, hogy az közterületen haladjon és nem köztulajdonban lévő ingatlant csak akkor érintsen, ha a beruházás műszaki okokból máshol nem, vagy csak aránytalan költséggel lenne megvalósítható.
 
-(2) A 116. § (3) bekezdés d) és f) pontja szerinti villamosmű az építésére szolgáló és a biztonsági övezetével érintett ingatlan tulajdonosának hozzájárulása alapján is építhető. Ha az ingatlan közös tulajdonban áll, a hozzájáruláshoz az érintett személyek tulajdoni hányad alapján számított többségi döntése szükséges. Amennyiben az építés termőföldet érint, ahhoz a termőföld más célú hasznosításának engedélyezéséről szóló ingatlanügyi hatósági határozat szükséges.
+(2) A 116. § (3) bekezdés d) és f) pontja szerinti villamosmű az építésére szolgáló és a biztonsági övezetével érintett ingatlan tulajdonosának hozzájárulása alapján is építhető. Ha az ingatlan közös tulajdonban áll, a hozzájáruláshoz az érintett személyek tulajdoni hányad alapján számított többségi döntése szükséges. Ha az építés termőföldet érint, ahhoz a termőföld más célú hasznosításának engedélyezéséről szóló ingatlanügyi hatósági határozat szükséges. A vezetékjog létrejöttét a Hatóság állapítja meg.
 
 (2a) A (2) bekezdés szerinti hozzájárulást megadottnak, valamint a (3b) bekezdése szerint megküldött nyomvonal-kijelölési dokumentációt közöltnek kell tekinteni az olyan tulajdonos, tulajdonostárs, kezelő, vagyonkezelő esetében, akinek a részére a hozzájárulás kérésének vagy a nyomvonal-kijelölési dokumentációnak közlése a hálózati engedélyes részéről
 
@@ -32,7 +32,7 @@ b) természetes személy esetén örököse, gazdálkodó szervezet esetén jogu
 
 (3b) A hatósági vezetékjogi engedélyezési eljárást megelőző előkészítő eljárás során a nyomvonal-kijelölési dokumentációt az érintett hatóságok, szakhatóságok, valamint a nyomvonallal és a biztonsági övezettel érintett közművek, kezelők, üzemeltetők, ingatlantulajdonosok és vagyonkezelők részére kell megküldeni. A nyomvonallal és a biztonsági övezettel érintett közművek, kezelők, üzemeltetők, ingatlantulajdonosok és vagyonkezelők a megküldött nyomvonal-kijelölési dokumentációval és a tervezett közcélú hálózat létesítésével kapcsolatos nyilatkozatuk, hozzájárulásuk kiadása kapcsán ügyintézési vagy egyéb díj, illetve költség megfizetését nem kérhetik.
 
-(4) A (2) bekezdés szerinti hozzájárulás az e törvény szerint a vezetékjog alapján fennálló jogokkal és kötelezettségekkel azonos – az ingatlan-nyilvántartásba az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 16. § e) pontja szerint bejegyzendő – jogokat és kötelezettségeket keletkeztet. A tulajdonosi hozzájárulás nem vonható vissza.
+(4) A (2) bekezdés szerinti hozzájáruláson alapuló vezetékjog a 124–126. §-ban meghatározott jogokat és kötelezettségeket foglalja magában. A tulajdonosi hozzájárulás nem vonható vissza.
 
 (5) A rendszerhasználónak a hálózati engedélyes részére a hálózati csatlakozásra vonatkozóan tett igénybejelentését a rendszerhasználó tulajdonában lévő ingatlan esetén a csatlakozó berendezés építésére vonatkozó hozzájárulásnak kell tekinteni.
 
