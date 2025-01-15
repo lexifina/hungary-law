@@ -1,0 +1,1 @@
+7. § A Gtv. 7. § c) pontja szerinti, államilag támogatott hitel esetében nem kell vizsgálni a gazdaságátvevő tekintetében a Gtv. 15. § (2) bekezdése szerint a támogathatóság jogosultsági és tartalmi feltételeinek fennállását.

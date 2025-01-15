@@ -1,0 +1,1 @@
+A Kormány az agrárgazdaságok átadásáról szóló 2021. évi CXLIII. törvény 16. § (1) bekezdés a) és b) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
