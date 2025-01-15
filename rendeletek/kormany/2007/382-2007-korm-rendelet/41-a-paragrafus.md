@@ -1,4 +1,4 @@
-## 41. §[^145] E rendeletnek a környezeti hatások jelentőségének vizsgálatával összefüggésben egyes kormányrendeletek módosításáról szóló 82/2011. (V. 18.) Korm. rendelettel (a továbbiakban: Mód. Kr.) megállapított rendelkezéseit a Mód. Kr. hatálybalépését[^146] követően indult vagy megismételt ügyekben (eljárásokban) kell alkalmazni.
+## 41. §[^147] E rendeletnek a környezeti hatások jelentőségének vizsgálatával összefüggésben egyes kormányrendeletek módosításáról szóló 82/2011. (V. 18.) Korm. rendelettel (a továbbiakban: Mód. Kr.) megállapított rendelkezéseit a Mód. Kr. hatálybalépését[^148] követően indult vagy megismételt ügyekben (eljárásokban) kell alkalmazni.
 
-[^145]: A 41. §-t a 82/2011. (V. 18.) Korm. rendelet 44. §-a iktatta be.
-[^146]: A hatálybalépés napja: 2011. szeptember 15.
+[^147]: A 41. §-t a 82/2011. (V. 18.) Korm. rendelet 44. §-a iktatta be.
+[^148]: A hatálybalépés napja: 2011. szeptember 15.

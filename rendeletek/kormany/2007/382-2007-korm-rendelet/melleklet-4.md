@@ -1,4 +1,4 @@
-4. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^183]
+4. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^186]
 
 1. A villamosenergia-ipari építésügyi hatósági engedélyezési eljárásokban érintettségüktől függően közreműködő közművek, kezelők és üzemeltetők
 
@@ -64,6 +64,8 @@
 
 | 8. | Építési, használatbavételi és fennmaradási eljárás. | Az építménnyel, létesítménnyel összefüggő tűzvédelmi követelmények érvényre juttatása az 1 MW teljesítményt meghaladó, de 50 MW alatti teljesítményű erőművek esetében. |
 
+| 9. | Ha a sajátos építmény emberi tartózkodás céljára szolgáló építményt is magába foglal, a bontási engedélyezési eljárás kivételével. | A higiénés és egészségvédelmi, az ivóvízminőségi, a települési hulladékkal és nem közművel összegyűjtött háztartási szennyvízzel kapcsolatos közegészségügyi, járványügyi vonatkozású követelményeknek való megfelelés. Munkavégzés céljára szolgáló építmények esetében a kémiai biztonságra és a dohányzóhelyek kijelölésére vonatkozó jogszabályi előírásoknak való megfelelés. |
+
 3. Az integrált építési és környezetvédelmi eljárásban a Hatóság által vizsgált szakkérdések
 
 |  | A | B |
@@ -76,4 +78,4 @@
 
 | 4. | Integrált építési és környezetvédelmi eljárás. | Az ipari baleseti kockázatok tekintetében a veszélyes anyagokkal kapcsolatos súlyos baleseteknek való kitettségből eredő várható hatások elbírálása. A természeti katasztrófáknak való kitettség tekintetében annak elbírálása, hogy a kérelem megfelelően tartalmazza-e a telepítési hely környezetében feltárt kockázatokat és azok várható hatásait. |
 
-[^183]: A 4. számú melléklet a 360/2019. (XII. 30.) Korm. rendelet 58. § (2) bekezdés a) pontjával megállapított, a 677/2020. (XII. 28.) Korm. rendelet 21. §-a, a 26/2022. (I. 28.) Korm. rendelet 6. §-a, a 650/2023. (XII. 28.) Korm. rendelet 4. § (2) bekezdése, a 258/2024. (VIII. 29.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^186]: A 4. számú melléklet a 360/2019. (XII. 30.) Korm. rendelet 58. § (2) bekezdés a) pontjával megállapított, a 677/2020. (XII. 28.) Korm. rendelet 21. §-a, a 26/2022. (I. 28.) Korm. rendelet 6. §-a, a 650/2023. (XII. 28.) Korm. rendelet 4. § (2) bekezdése, a 258/2024. (VIII. 29.) Korm. rendelet 4. §-a, a 385/2024. (XII. 9.) Korm. rendelet 3. § (2) bekezdése szerint módosított szöveg.
