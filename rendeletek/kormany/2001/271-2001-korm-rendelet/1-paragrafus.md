@@ -1,6 +1,6 @@
 ## A bírság mértéke
 
-1. § (1)[^1] A bírság mértéke – a 2. § (4)–(8) és a 3. § (4) bekezdésében foglaltak kivételével – az e rendeletben meghatározott alapbírságok és az azt módosító tényezőkhöz hozzárendelt szorzószámok szorzataként, a mellékletben foglaltak szerint számított összeg.
+1. § (1)[^1] A bírság mértéke – a 2. § (5)–(11) és a 3. § (4) bekezdésében foglaltak kivételével – az e rendeletben meghatározott alapbírságok és az azt módosító tényezőkhöz hozzárendelt szorzószámok szorzataként, a mellékletben foglaltak szerint számított összeg.
 
 (2) A bírság megállapítása során figyelembe kell venni:
 
@@ -38,7 +38,7 @@ i)[^10]
 
 (5)[^11] Az alapbírság összege az e § (3)–(4) bekezdéseiben meghatározott összegek 25 és 100%-a között állapítható meg – az e § (3) bekezdés e) pontja szerinti esetek kivételével, – ha az elkövető a következményeket felszámolta és a jogellenes állapotot megszüntette a bírságot megállapító határozat kiadásáig.
 
-[^1]: Az 1. § (1) bekezdése a 286/2006. (XII. 23.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^1]: Az 1. § (1) bekezdése a 286/2006. (XII. 23.) Korm. rendelet 11. § (1) bekezdésével megállapított, a 465/2024. (XII. 30.) Korm. rendelet 3. § (1) bekezdése szerint módosított szöveg.
 [^2]: Az 1. § (3) bekezdésének a) pontja a 192/2003. (XI. 26.) Korm. rendelet 11. §-ának (4) bekezdésével megállapított, a 313/2005. (XII. 25.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
 [^3]: Az 1. § (3) bekezdésének b) pontját a 313/2005. (XII. 25.) Korm. rendelet 16. § b) pontja hatályon kívül helyezte.
 [^4]: Az 1. § (3) bekezdésének c) pontja a 267/2004. (IX. 23.) Korm. rendelet 13. §-ával megállapított szöveg. Alkalmazására lásd a 19/2009. (XII. 22.) KvVM rendeletet.

@@ -44,6 +44,8 @@ b) ha a gyártó nem teljesíti a Hkr. 3. § (2) bekezdés a)–b) pontjában el
 
 (10)[^23] A területi hulladékgazdálkodási hatóság által kiszabandó bírság, alapbírság és szorzószám megállapítása nélkül az (EU) 2019/1021 európai parlamenti és tanácsi rendelet 7. cikkében meghatározott hulladékkezelési feladatok nem vagy nem megfelelő teljesítése esetén: 500 000 forint.
 
+(11)[^24] A hulladékgazdálkodási hatóság a bírság mértékét alapbírság és szorzószám megállapítása nélkül, 500 000 forintban állapítja meg, ha a koncessziós társaság a visszaváltási díj megállapításának és alkalmazásának, valamint a visszaváltási díjas termék forgalmazásának részletes szabályairól szóló kormányrendelet szerinti kötelezően visszaváltási díjas termékre vonatkozó regisztrációs kötelezettségét nem határidőben teljesíti.
+
 [^12]: A 2. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 244. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 47. §-a, az 1/2022. (I. 3.) Korm. rendelet 1. § a) pontja, a 675/2023. (XII. 29.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
 [^13]: A 2. § (2) bekezdését a 675/2023. (XII. 29.) Korm. rendelet 2. § c) pontja hatályon kívül helyezte.
 [^14]: A 2. § (3) bekezdését a 675/2023. (XII. 29.) Korm. rendelet 2. § c) pontja hatályon kívül helyezte.
@@ -56,3 +58,4 @@ b) ha a gyártó nem teljesíti a Hkr. 3. § (2) bekezdés a)–b) pontjában el
 [^21]: A 2. § (8) bekezdését a 286/2006. (XII. 23.) Korm. rendelet 11. § (2) bekezdése iktatta be, nyitó szövegrésze az 1/2022. (I. 3.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
 [^22]: A 2. § (9) bekezdését a 72/2010. (III. 19.) Korm. rendelet 1. §-a iktatta be, szövege az 1/2022. (I. 3.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
 [^23]: A 2. § (10) bekezdését a 376/2020. (VII. 30.) Korm. rendelet 13. §-a iktatta be, szövege az 1/2022. (I. 3.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
+[^24]: A 2. § (11) bekezdését a 465/2024. (XII. 30.) Korm. rendelet 2. § (1) bekezdése iktatta be.

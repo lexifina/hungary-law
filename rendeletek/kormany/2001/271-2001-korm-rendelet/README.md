@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-271-20-
 | 2020-08-15 | 2001-271-20-22.18 | 376/2020. (VII. 30.) Korm. rendelet |
 | 2022-01-04 | 2001-271-20-22.19 | 313/2005. (XII. 25.) Korm. rendelet |
 | 2023-12-31 | 2001-271-20-22.20 | 675/2023. (XII. 29.) Korm. rendelet |
+| 2025-01-15 | 2001-271-20-22.21 | 286/2006. (XII. 23.) Korm. rendelet |
