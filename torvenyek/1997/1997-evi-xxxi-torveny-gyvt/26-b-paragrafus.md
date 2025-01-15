@@ -14,7 +14,7 @@ c) a fiatal felnőttnek a kiutalás igénybevételére irányuló, a felhasznál
 
 (5) Ha a hitelintézet igazolása szerint a lakás-előtakarékossági szerződés alapján a hitelintézet által kifizetett, állami támogatással és kamattal növelt betétösszeget a fiatal felnőtt
 
-a) teljes mértékben az Ltv.-ben meghatározott lakáscélra használta fel, a gyámhatóság elfogadja az otthonteremtési támogatás felhasználását, és intézkedik a (3) bekezdés alapján kirendelt utógondozó intézmény felmentése, valamint a 26/C. § (2) bekezdésében foglalt elidegenítési tilalom tényének feljegyzése iránt,
+a) teljes mértékben az Ltv.-ben meghatározott lakáscélra használta fel, a gyámhatóság elfogadja az otthonteremtési támogatás felhasználását, és intézkedik a (3) bekezdés alapján kirendelt utógondozó intézmény felmentése, valamint a 26/C. § (2) bekezdésében foglalt elidegenítési tilalom bejegyzése iránt,
 
 b) nem vagy nem teljes mértékben az Ltv.-ben meghatározott lakáscélra használta fel, a gyámhatóság – a lakáscélra fordított összeg felhasználásának elfogadása mellett – a nem cél szerint felhasznált otthonteremtési támogatás visszafizetésére kötelezi a fiatal felnőttet, egyidejűleg intézkedik a (3) bekezdés alapján kirendelt utógondozó intézmény felmentése iránt.
 
