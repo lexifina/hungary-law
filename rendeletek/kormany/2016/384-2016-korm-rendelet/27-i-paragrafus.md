@@ -1,0 +1,3 @@
+## 14. Föld tulajdonjogának átruházásáról szóló szerződés és a föld használatának átengedéséről szóló szerződés hatósági jóváhagyás alóli mentessége igazolására, valamint a szerzési feltételek igazolására szolgáló hatósági bizonyítvány kiadására irányuló eljárás szabályai
+
+27/I. § A Földforgalmi tv. 36. § (2) bekezdése szerinti igazolás kiállítására irányuló kérelem adattartalmát az 5. melléklet tartalmazza. A kérelemhez csatolni kell az egységes okiratba foglalt, a 17/B. §-ban foglaltak szerint regisztrált szerződés másolatát, valamint a hatósági jóváhagyás alóli mentességet igazoló okirat másolatát, kivéve, ha azt közhiteles nyilvántartás tartalmazza.

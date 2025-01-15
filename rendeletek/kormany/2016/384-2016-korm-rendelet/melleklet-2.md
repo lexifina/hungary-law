@@ -4,7 +4,7 @@ A telekalakítási eljárás iránti kérelemhez mellékelt telekalakítási dok
 
 1. A telekalakítási dokumentáció tartalma:
 
-1.1. az ingatlan-nyilvántartási célú földmérési és térképészeti tevékenység részletes szabályairól szóló miniszteri rendeletben meghatározott záradékolt változási vázrajz,
+1.1.[^86]
 
 1.2. a telekalakítási helyszínrajz,
 
@@ -26,13 +26,12 @@ A telekalakítási eljárás iránti kérelemhez mellékelt telekalakítási dok
 
 2.7. a telekalakítással érintett földrészleten lévő összes építmény távolságát a tervezett földrészlet határtól,
 
-2.8.[^100] a létrejövő földrészlet méreteit, nyúlványos telek esetén a földrészlet nyúlvány nélküli méretét,
+2.8.[^87] a létrejövő földrészlet méreteit, nyúlványos telek esetén a földrészlet nyúlvány nélküli méretét,
 
 2.9. a beépített földrészlet esetén a földrészlet eredeti és a telekalakítás utáni beépítési százalékát.
 
-3.[^101] A telekalakítási záradék:
+3.[^88]
 
-A kormányhivatal a telekalakítás engedélyezése esetén a változási vázrajzot az »A telekalakítást a .../..../20... számú határozatomban foglaltak szerint engedélyeztem. Az engedély a hozzá tartozó változási vázrajzzal együtt a határozat véglegessé válásától számított egy évig hatályos.« záradékszöveggel látja el.
-
-[^100]: A 2. melléklet 2.8. pontja a 285/2024. (IX. 30.) Korm. rendelet 131. § h) pontja szerint módosított szöveg.
-[^101]: A 2. melléklet 3. pontja a 457/2017. (XII. 28.) Korm. rendelet 594. § h) pontja, a 360/2019. (XII. 30.) Korm. rendelet 160. § (3) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^86]: A 2. melléklet 1.1. pontját a 179/2023. (V. 15.) Korm. rendelet 179. § 17. pontja hatályon kívül helyezte.
+[^87]: A 2. melléklet 2.8. pontja a 285/2024. (IX. 30.) Korm. rendelet 131. § h) pontja szerint módosított szöveg.
+[^88]: A 2. melléklet 3. pontját a 179/2023. (V. 15.) Korm. rendelet 179. § 18. pontja hatályon kívül helyezte.

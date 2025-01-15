@@ -1,7 +1,9 @@
-26. § (1) A Kormány által rendeletben nemzetgazdasági szempontból kiemelt jelentőségűvé nyilvánított ügy tárgyát képező építési beruházás tervezett megvalósítása érdekében lefolytatott egyesített telekalakítási eljárás telekalakítási engedélyezési eljárási szakaszának ügyintézési határideje 15 nap, a változásátvezetési eljárási szakasz ügyintézési határideje 5 nap.
+26. § (1)[^69]
 
-(2)[^87]
+(2)[^70]
 
-(3) A Kormány által rendeletben nemzetgazdasági szempontból kiemelt jelentőségűvé nyilvánított ügy tárgyát képező építési beruházás megvalósulását követően a beruházónak gondoskodnia kell a megvalósult állapotot rögzítő térképi adatváltozás ingatlan-nyilvántartásba történő átvezetéséről.
+(3)[^71]
 
-[^87]: A 26. § (2) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 595. § d) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 618. §-át.
+[^69]: A 26. § (1) bekezdését a 179/2023. (V. 15.) Korm. rendelet 179. § 15. pontja hatályon kívül helyezte.
+[^70]: A 26. § (2) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 595. § d) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 618. §-át.
+[^71]: A 26. § (3) bekezdését a 179/2023. (V. 15.) Korm. rendelet 179. § 16. pontja hatályon kívül helyezte.

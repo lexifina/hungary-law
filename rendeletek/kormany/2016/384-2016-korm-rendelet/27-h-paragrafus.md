@@ -1,0 +1,1 @@
+27/H. § A mezőgazdasági igazgatási szerv a Földforgalmi tv. 55. § (1) bekezdése szerinti jóváhagyó záradékot külön dokumentumként állítja ki. A záradékszöveget tartalmazó dokumentum a szerződés elválaszthatatlan részét képezi.

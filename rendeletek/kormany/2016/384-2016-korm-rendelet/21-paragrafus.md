@@ -4,19 +4,9 @@
 
 ## TELEKALAKÍTÁSI ELJÁRÁS
 
-21. § (1) A telekalakítási eljárás kérelemre induló eljárás. A kérelem tartalma szerint a telekalakítási eljárás típusai a következők:
+21. § (1)[^29] A telekalakítási engedélyezési eljárás kérelemre induló eljárás.
 
-a) telekalakítási engedélyezési eljárás, és
-
-b) egyesített telekalakítási eljárás.
-
-(2) Az egyesített telekalakítási eljárás lefolytatására vonatkozó kérelem alapján
-
-a) a telekalakítás engedélyezésére, és
-
-b)[^36] a telekalakítási engedély véglegessé válását követően a földrészlet adataiban, továbbá a bejegyzett jogok és feljegyzett tények vonatkozásában a telekalakítással bekövetkező változásnak az ingatlan-nyilvántartásban történő átvezetésére (e fejezet alkalmazásában a továbbiakban: változásátvezetési eljárás)
-
-irányuló eljárás indul meg.
+(2)[^30]
 
 (3) A telekalakítás engedélyezése iránti kérelmet benyújthat:
 
@@ -26,15 +16,15 @@ b) közös tulajdonban álló földrészlet esetén bármelyik tulajdonostárs,
 
 c) aki a telekalakítással érintett földrészlet tekintetében tulajdoni igényt érvényesít,
 
-d) az elbirtoklás megállapítása iránt polgári peres eljárást kezdeményező,
+d)[^31]
 
 e) a tulajdonostársaknak a földrészlet területnagyság szerinti többsége, ha a telekalakítás során legalább nyolc új építési telek keletkezik, valamint
 
 f) az a személy, aki a telekalakításról a tulajdonossal írásban megállapodott.
 
-(4) Egyesített telekalakítási eljárás iránti kérelmet az – a (3) bekezdés szerinti kérelem benyújtására jogosult – nyújthat be, aki az ingatlan-nyilvántartásról szóló törvényben foglaltak szerint az ingatlan-nyilvántartási eljárás megindítására egyébként jogosult.
+(4)[^32]
 
-(5)[^37] A telekalakítási eljárás megindítása iránti kérelemnek az általános közigazgatási rendtartásról szóló 2016. évi CL. törvényben (a továbbiakban: Ákr.) meghatározottakon túl a következő adatokat kell tartalmaznia:
+(5)[^33] A telekalakítási eljárás megindítása iránti kérelmet papír alapon írásban, vagy az ingatlan-nyilvántartás vezetését támogató informatikai rendszerben kitöltendő elektronikus űrlapon lehet előterjeszteni az E-ügyintézési tv. 10. §-ának megfelelően. A kérelemnek (a továbbiakban: telekalakítási kérelem) a következő adatokat kell tartalmaznia:
 
 a) természetes személy kérelmező esetén a természetes személyazonosító adatokat;
 
@@ -44,15 +34,23 @@ c) a telekalakítással érintett földrészlet vagy földrészletek helyrajzi s
 
 d) a kérelmezett telekalakítási eljárás típusának (telekalakítási engedélyezési eljárás vagy egyesített telekalakítási eljárás) megjelölését;
 
-e)[^38] a telekalakításnak a magyar építészetről szóló 2023. évi C. törvény (a továbbiakban: Méptv.) 89. § (1) bekezdésében meghatározott célját,
+e) a telekalakítás célját, amely lehet
+
+ea) telekcsoport újraosztása,
+
+eb) telekfelosztás,
+
+ec) telekegyesítés,
+
+ed) telekhatár-rendezés;
 
 f) az igazgatási szolgáltatási díj befizetésének igazolását.
 
-(6) Az egyesített telekalakítási eljárás megindítására irányuló kérelemnek az (5) bekezdésben foglaltakon túl meg kell felelnie az ingatlan-nyilvántartásról szóló törvény szerinti előírásoknak is.
+(6)[^34]
 
-(6a)[^39] Az ingatlan-nyilvántartás szerint a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében álló földrészlet (a továbbiakban: honvédelmi és katonai célú ingatlan) esetén egyesített telekalakítási eljárásnak nincs helye.
+(6a)[^35] Az ingatlan-nyilvántartás szerint a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében álló földrészlet (a továbbiakban: honvédelmi és katonai célú ingatlan) esetén egyesített telekalakítási eljárásnak nincs helye.
 
-(7)[^40] A telekalakítási eljárás megindítása iránti kérelmet a miniszter által rendszeresített, az általa irányított minisztérium, valamint a földügyi szakigazgatás hivatalos honlapján közzétett formanyomtatványon kell benyújtani. A telekalakítási eljárás megindítása iránti kérelemhez mellékelni kell a telekalakítási dokumentációt, mely a 2. melléklet 1. pontjában felsorolt munkarészeket tartalmazza, a telekalakítás céljának függvényében, továbbá a települési önkormányzatnak a Méptv. 81. § (10) bekezdése szerinti tájékoztatását az érintett ingatlanokkal kapcsolatos helyi településrendezési követelményekről.
+(7)[^36] A telekalakítási kérelemhez mellékelni kell a telekalakítási dokumentációt, amely a 2. melléklet 1. pontjában felsorolt munkarészeket tartalmazza, a telekalakítás céljának függvényében.
 
 (8) Telekalakítási dokumentációt
 
@@ -62,15 +60,20 @@ b) az a) pont hatálya alá nem tartozó, de a földmérési és térképészeti
 
 készíthet.
 
-(9) Ha a telekalakítási dokumentációt a (8) bekezdés b) pontja szerinti szakképzettséggel rendelkező személy készíti, a dokumentáció minőségét, valamint a tartalmi és pontossági előírásoknak való megfelelőségét a (8) bekezdés a) pontja szerinti jogosultsággal rendelkező szakember tanúsítja a változási vázrajzon és a telekalakítási helyszínrajzon.
+(9)[^37] Ha a telekalakítási dokumentációt a (8) bekezdés b) pontja szerinti szakképzettséggel rendelkező személy készíti, a dokumentáció minőségét, valamint a tartalmi és pontossági előírásoknak való megfelelőségét a (8) bekezdés a) pontja szerinti jogosultsággal rendelkező szakember tanúsítja.
 
-(10) Azokra az ingatlanokra, amelyek a kisajátítást kérő tulajdonában vannak és a kisajátítási tervben szerepelnek, az (1) bekezdés szerinti telekalakítási eljárás helyett a kisajátítási terv elkészítéséről, felülvizsgálatáról, záradékolásáról, valamint a kisajátítással kapcsolatos értékkülönbözet megfizetésének egyes kérdéseiről szóló kormányrendeletben meghatározott eljárásrendet kell alkalmazni és e kormányrendelet szerint záradékolt változási vázrajz alapján kerül sor a változás ingatlan-nyilvántartási átvezetésére.
+(10)[^38] Azokra az ingatlanokra, amelyek a kisajátítási hatóság határozata alapján a kisajátítást kérő tulajdonába kerülnek és a kisajátítási tervben szerepelnek, az (1) bekezdés szerinti telekalakítási eljárás helyett a kisajátítási terv elkészítéséről, felülvizsgálatáról, záradékolásáról, valamint a kisajátítással kapcsolatos értékkülönbözet megfizetésének egyes kérdéseiről szóló kormányrendeletben meghatározott eljárásrendet kell alkalmazni.
 
-(11)[^41] Egy vagy több mező- és erdőgazdasági hasznosítású földnek minősülő, önálló helyrajzi számú ingatlant érintő telekalakítás ingatlan-nyilvántartási átvezetésekor, ha a telekalakítás következtében valamelyik tulajdonos tulajdoni hányadát képező földterület nagysága meghaladja az ingatlan-nyilvántartásban a kiinduló állapot szerinti tulajdoni hányadból számítható területnagyságot, igazolni kell, hogy a többlet terület megszerzésére vonatkozóan a Földforgalmi tv. szerinti hatósági jóváhagyás megtörtént.
+(11)[^39]
 
-[^36]: A 21. § (2) bekezdés b) pontja a 457/2017. (XII. 28.) Korm. rendelet 594. § e) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
-[^37]: A 21. § (5) bekezdés nyitó szövegrésze a 315/2020. (VII. 1.) Korm. rendelet 7. § (1) bekezdése szerint módosított szöveg.
-[^38]: A 21. § (5) bekezdés e) pontja a 285/2024. (IX. 30.) Korm. rendelet 125. § (1) bekezdésével megállapított szöveg.
-[^39]: A 21. § (6a) bekezdését a 285/2024. (IX. 30.) Korm. rendelet 125. § (2) bekezdése iktatta be.
-[^40]: A 21. § (7) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 131. § a) pontja szerint módosított szöveg.
-[^41]: A 21. § (11) bekezdését a 103/2018. (VI. 11.) Korm. rendelet 25. §-a iktatta be, szövege az 560/2020. (XII. 7.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^29]: A 21. § (1) bekezdése a 179/2023. (V. 15.) Korm. rendelet 175. § (1) bekezdésével megállapított szöveg.
+[^30]: A 21. § (2) bekezdését a 179/2023. (V. 15.) Korm. rendelet 179. § 9. pontja hatályon kívül helyezte.
+[^31]: A 21. § (3) bekezdés d) pontját a 179/2023. (V. 15.) Korm. rendelet 179. § 10. pontja hatályon kívül helyezte.
+[^32]: A 21. § (4) bekezdését a 179/2023. (V. 15.) Korm. rendelet 179. § 11. pontja hatályon kívül helyezte.
+[^33]: A 21. § (5) bekezdése a 179/2023. (V. 15.) Korm. rendelet 175. § (2) bekezdésével megállapított szöveg.
+[^34]: A 21. § (6) bekezdését a 179/2023. (V. 15.) Korm. rendelet 179. § 12. pontja hatályon kívül helyezte.
+[^35]: A 21. § (6a) bekezdését a 285/2024. (IX. 30.) Korm. rendelet 125. § (2) bekezdése iktatta be.
+[^36]: A 21. § (7) bekezdése a 179/2023. (V. 15.) Korm. rendelet 175. § (3) bekezdésével megállapított szöveg.
+[^37]: A 21. § (9) bekezdése a 179/2023. (V. 15.) Korm. rendelet 175. § (4) bekezdésével megállapított szöveg.
+[^38]: A 21. § (10) bekezdése a 179/2023. (V. 15.) Korm. rendelet 175. § (4) bekezdésével megállapított szöveg.
+[^39]: A 21. § (11) bekezdését a 103/2018. (VI. 11.) Korm. rendelet 25. §-a iktatta be, a 179/2023. (V. 15.) Korm. rendelet 179. § 13. pontja hatályon kívül helyezte.

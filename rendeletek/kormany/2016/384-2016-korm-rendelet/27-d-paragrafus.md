@@ -1,0 +1,1 @@
+27/D. § A mezőgazdasági igazgatási szerv a Földforgalmi tv. 30. § (1) bekezdése szerinti jóváhagyó záradékot külön dokumentumként állítja ki. A záradékszöveget tartalmazó dokumentum a szerződés elválaszthatatlan részét képezi.

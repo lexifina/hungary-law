@@ -1,0 +1,115 @@
+7. melléklet a 384/2016. (XII. 2.) Korm. rendelethez[^93]
+
+A szerzési feltételek igazolására szolgáló hatósági bizonyítvány kiállítására irányuló kérelem tartalma
+
+1. A kérelmet benyújtó természetes személy
+
+1.1. természetes személyazonosító adatai,
+
+1.2. személyi azonosítója,
+
+1.3. állampolgársága,
+
+1.4. lakóhelye,
+
+1.5. értesítési adatai (megegyezik a lakcímmel, vagy értesítési cím vagy kézbesítési megbízott megadása),
+
+1.6. okmány adatai.
+
+2. Annak jelölése, hogy a benyújtó saját nevében, meghatalmazással vagy törvényes képviselőként jár el, és amennyiben nem saját nevében jár el, a törvényes képviselet jogcímének megadása vagy nyilatkozat arról, hogy rendelkezik meghatalmazással a kérelmezőtől.
+
+3. A kérelmező adatai:
+
+3.1. a természetes személy kérelmező
+
+3.1.1. természetes személyazonosító adatai,
+
+3.1.2. személyi azonosítója,
+
+3.1.3. állampolgársága,
+
+3.1.4. lakóhelye,
+
+3.1.5. értesítési adatai (megegyezik a lakcímmel, vagy értesítési cím vagy kézbesítési megbízott megadása),
+
+3.1.6. okmány adatai;
+
+3.2. a jogi személy vagy szervezet kérelmező
+
+3.2.1. teljes és rövidített megnevezése,
+
+3.2.2. honossága,
+
+3.2.3. nyilvántartó hatóságának típusa és megnevezése,
+
+3.2.4. nyilvántartási száma,
+
+3.2.5. adószáma,
+
+3.2.6. statisztikai azonosítója,
+
+3.2.7. székhelye (telephelye, fióktelepe),
+
+3.2.8. értesítési adatai (megegyezik a székhely címmel, vagy értesítési cím vagy kézbesítési megbízott megadása), hivatali kapus értesítés esetén a hivatali kapu megnevezése.
+
+4. A hatósági bizonyítvány kiállításának célja.
+
+5. A tulajdonszerzés tárgyát képező földre vonatkozó következő adatok, földrészletenkénti bontásban:
+
+5.1. a település neve,
+
+5.2. a földrészlet helyrajzi száma,
+
+5.3. az átruházással érintett tulajdoni hányad.
+
+6. A tulajdonjogot szerző személy adatai:
+
+6.1. a természetes személy tulajdonszerző
+
+6.1.1. ingatlanon fennálló jogosultsága,
+
+6.1.2. természetes személyazonosító adatai,
+
+6.1.3. személyi azonosítója,
+
+6.1.4. állampolgársága,
+
+6.1.5. lakóhelye,
+
+6.1.6. földművesnek minősülő természetes személy esetén a földműves nyilvántartásba vétel száma;
+
+6.2. a jogi személy vagy egyéb szervezet
+
+6.2.1. ingatlanon fennálló jogosultsága,
+
+6.2.2. teljes és rövidített megnevezése,
+
+6.2.3. honossága,
+
+6.2.4. nyilvántartó hatóságának típusa és megnevezése,
+
+6.2.5. nyilvántartási száma,
+
+6.2.6. adószáma,
+
+6.2.7. statisztikai azonosítója,
+
+6.2.8. székhelye (telephelye, fióktelepe),
+
+6.2.9. értesítési adatai (megegyezik a székhely címmel, vagy értesítési cím vagy kézbesítési megbízott megadása), hivatali kapus értesítés esetén a hivatali kapu megnevezése,
+
+6.2.10. képviseletében aláíró személy neve, képviseletének típusa, lakcíme.
+
+7. A kérelem mellékleteként csatolt okiratokra vonatkozó adatok:
+
+7.1. a kérelemhez csatolt okiratok típusa, neve, kelte,
+
+7.2. nyilatkozat arról, hogy eredeti okirat papír alapon vagy elektronikusan készült.
+
+8. A benyújtó nyilatkozata arról, hogy tudomásul veszi, hogy a kérelemben szereplő adatok valódiságáért a kérelmező felel, továbbá a kérelemben szereplő adatok a valóságnak megfelelnek és teljes körűek.
+
+9. A benyújtó nyilatkozata arról, hogy amennyiben a kérelem benyújtásához szükséges okiratot csatolt, akkor annak elektronikus másolata megegyezik a papír alapú okirattal és tudomásul veszi, hogy a hatóság felhívására a papír alapú okiratot – az elektronikus okirattal való egyezőség megállapítása érdekében – kötelessége bemutatni.
+
+10. A kérelmet benyújtó aláírása és az aláírás dátuma.
+
+[^93]: A 7. mellékletet a 481/2024. (XII. 31.) Korm. rendelet 63. § f) pontja iktatta be.

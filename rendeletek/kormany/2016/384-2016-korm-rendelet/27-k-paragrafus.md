@@ -1,0 +1,1 @@
+27/K. § A szerzési feltételek igazolására szolgáló hatósági bizonyítvány kiadására irányuló kérelem adattartalmát a 7. melléklet tartalmazza. A kérelemhez a hatósági bizonyítvány kiállításának célja szerinti okiratok másolatát kell csatolni.
