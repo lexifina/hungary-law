@@ -6,7 +6,7 @@ b) társasház esetén a társasházi közösséget, lakásszövetkezeti ház es
 
 c) ingatlan-nyilvántartásba bejegyzett vagyonkezelői jog esetében a vagyonkezelőt is.
 
-(2) Az (1) bekezdés szerinti ingatlan jogi jellegeként az ingatlan-nyilvántartásban fel kell jegyezni, hogy annak területe felszín alatti közúttal érintett. A feljegyzés érdekében az építtető köteles intézkedni.
+(2) Az (1) bekezdés szerinti ingatlan jogi jellegeként az ingatlan-nyilvántartásba be kell jegyezni, hogy annak területe felszín alatti közúttal érintett. A bejegyzés érdekében az építtető köteles intézkedni.
 
 (3) Ha a felszín alatti közútépítési jog alapján történő igénybevétel a felszín alatti közútépítési joggal terhelt ingatlan rendeltetésszerű használatát korlátozza vagy akadályozza – ideértve a felszíni ingatlan 35/A. § szerinti használatát is –, a tulajdonos a használat korlátozásának, akadályozásának megfelelő, illetve ezzel összefüggésben bekövetkező forgalmi értékcsökkenésnek megfelelő mértékű egyösszegű kártalanításra jogosult. A kártalanítás módjáról és mértékéről az építtetőnek az ingatlan tulajdonosával kártalanítási ajánlat írásban történő megküldésével kell egyezség létrehozását megkísérelnie.
 
