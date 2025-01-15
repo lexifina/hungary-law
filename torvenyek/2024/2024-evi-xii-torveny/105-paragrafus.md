@@ -1,1 +1,1 @@
-### 105. §
+105. § A köztulajdonban álló gazdasági társaságok takarékosabb működéséről szóló 2009. évi CXXII. törvény 8. § (7) bekezdésében az „5–7. §-át” szövegrész helyébe az „5–7. §-át, valamint 7/M. §-át” szöveg lép.
