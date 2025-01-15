@@ -1,0 +1,3 @@
+5. § Az Inyvhr. 69. § (3) bekezdése a következő szöveggel lép hatályba:
+
+„(3) Elidegenítési és terhelési tilalom bejegyzése esetén szerződésen alapuló további jogokat, elidegenítési tilalom bejegyzése esetén a szerződéses átruházáson alapuló tulajdonjogot, terhelési tilalom bejegyzése esetén pedig a tulajdonjog kivételével szerződésen alapuló további jogokat csak a tilalom jogosultjának hozzájárulásával lehet bejegyezni. Elidegenítési és terhelési tilalom, valamint terhelési tilalom esetén a hozzájárulást megadottnak kell tekinteni, ha a szerződésen alapuló további jog jogosultja azonos az elidegenítési és terhelési tilalom, illetve terhelési tilalom jogosultjával.”
