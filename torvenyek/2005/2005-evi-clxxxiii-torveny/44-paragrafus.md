@@ -14,7 +14,7 @@ b) a GSM-R rendszerhálózat létesítését az a) pontban meghatározottakon k�
 
 (4) A vasúti társaság a tulajdonosi jogkörében, vagyonkezelésében vagy vagyonműködtetésében álló területen megvalósuló vasútfejlesztés esetén a beruházás végleges döntés alapján történő használatbavételéig a beruházás megvalósításához szükséges beavatkozásokat tűrni köteles.
 
-(5) Az e §-ban valamint a 44/A. §-ban szabályozott vagyonkezelői, vagyonműködtetési jog ingatlan-nyilvántartásban történő bejegyzésére, törlésére, egyéb módon történő átvezetésére irányuló eljárások mentesek az igazgatási szolgáltatási díj fizetése alól.
+(5) Az e §-ban valamint a 44/A. §-ban szabályozott vagyonkezelői, vagyonműködtetési joggal kapcsolatos ingatlan-nyilvántartási eljárások mentesek az igazgatási szolgáltatási díj fizetése alól.
 
 (6) A (2)–(4) bekezdésben meghatározott rendelkezéseket alkalmazni kell azon önkormányzati fejlesztésekre is, amelyek során fejlesztési közreműködő jár el.
 

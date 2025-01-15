@@ -4,6 +4,6 @@
 
 a) a vasúti telekalakítás engedélyezésére, és
 
-b) a vasúti telekalakítási engedély véglegessé válását követően a földrészlet adataiban, továbbá a bejegyzett jogok és feljegyzett tények vonatkozásában a vasúti telekalakítással bekövetkező változásnak az ingatlan-nyilvántartásban történő átvezetésére
+b) a vasúti telekalakítási engedély véglegessé válását követően a földrészlet adataiban, továbbá a bejegyzett jogok és tények vonatkozásában a vasúti telekalakítással bekövetkező változásnak az ingatlan-nyilvántartásban történő átvezetésére
 
 irányul.
