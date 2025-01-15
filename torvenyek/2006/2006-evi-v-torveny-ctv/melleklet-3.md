@@ -90,6 +90,8 @@
 
 ## eb) a tag (zálogkötelezett) által benyújtott törlési kérelem esetén a zálogjogosult teljes bizonyító erejű magánokiratba foglalt– szükség szerint az elidegenítési és terhelési tilalomra, illetve az elidegenítési tilalomra is kiterjedő – törlési engedélye,
 
+## eb) a tag (zálogkötelezett) által benyújtott törlési kérelem esetén a zálogjogosult teljes bizonyító erejű magánokiratba foglalt törlési engedélye,
+
 ## ec) zálogjogosulti bizományos bejegyzése (törlése) esetén a zálogjogosulti bizományost kijelölő (kijelölést megszüntető) okirat, ha az üzletrészen alapított zálogjog feltüntetésére a zálogjogosulti bizományos bejegyzésével együtt kerül sor, az ea) pont szerinti okiratok is;
 
 ## ed) alzálogjog bejegyzése esetén a zálogkötelezett bejegyzési engedélye, vagy az egyes közjegyzői nemperes eljárásokról szóló 2008. évi XLV. törvény 27/E. § (9) bekezdése szerinti jogerős bizonyítvány;

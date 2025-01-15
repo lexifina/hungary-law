@@ -4,4 +4,4 @@
 
 (3) Az e § szerinti eljárásban vagyonrendező kijelölésére és vagyontárgy értékesítésére nem kerül sor.
 
-(4) Ha a kérelem és kérelemhez csatolt iratok megfelelnek a jogszabályi előírásoknak, a bíróság a vagyonfelosztási javaslatot végzésével jóváhagyja.
+(4) Ha a kérelem és kérelemhez csatolt iratok megfelelnek a jogszabályi előírásoknak, a bíróság a vagyonfelosztási javaslatot végzésével jóváhagyja, és a bíróság szükség szerint a 123. § (4a) bekezdése szerint jár el.

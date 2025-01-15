@@ -4,7 +4,7 @@
 
 (3) A 111. §-ban felsorolt iratok jóváhagyása és a vagyonfelosztási határozat elfogadása után a legfőbb szerv dönt a felosztott vagyon kiadásának időpontjáról, amelynek lebonyolítására a végelszámoló köteles. A vagyon kiadására nem kerülhet sor a cég törlésére vonatkozó végzés meghozatalát megelőzően.
 
-(4) A végelszámoló által benyújtott, a cég törlésére irányuló kérelem illetékmentes, és a cég törlését tartalmazó végzés közzétételéért közzétételi költségtérítést nem kell fizetni. A kérelemhez az arra vonatkozó határozatot, a 111. § (1) bekezdésének b)–d) pontjaiban felsorolt iratokat, valamint a 111. § (3) bekezdésében megjelölt határozatot kell csatolni.
+(4) A végelszámoló által benyújtott, a cég törlésére irányuló kérelem illetékmentes, és a cég törlését tartalmazó végzés közzétételéért közzétételi költségtérítést nem kell fizetni. A kérelemhez az arra vonatkozó határozatot, a 111. § (1) bekezdés b) és c) pontjában felsorolt iratokat, valamint a 111. § (3) bekezdésében megjelölt határozatot kell csatolni. Ingatlant érintő vagyonfelosztási határozat esetén a törlési kérelmet az 1. § (1b) bekezdésének alkalmazásával kell előterjeszteni. A cég törlésére irányuló kérelemnek helyt adó végzés esetén a cégbíróság szükség szerint az 1. § (1a) bekezdése szerint jár el.
 
 (5) A végelszámolást nem lehet addig befejezni, amíg a cégnek olyan ismert követelése vagy tartozása áll fenn, amelyről a vagyonfelosztási határozatban nem rendelkeztek.
 

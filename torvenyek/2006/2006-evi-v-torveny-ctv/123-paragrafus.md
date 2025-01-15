@@ -6,6 +6,8 @@
 
 (4) A tulajdonjognak a közhiteles vagy közérdekvédelmi célból vezetett nyilvántartásba történő bejegyzésére, illetve a vagyontárgy birtokba adására csak akkor kerülhet sor, ha a jogosultak a vagyonrendező bíróság által megállapított költségeit és munkadíját – amennyiben azok levonására az (1) bekezdés szerint nem került sor – megfizették.
 
+(4a) Ha a bíróság (2) vagy (3) bekezdés szerinti jogerős végzése alapján az ingatlan-nyilvántartásba bejegyzett jog vagy tény keletkezését, változását vagy megszűnését kell átvezetni, a bíróság jogszabályban meghatározott módon és feltételekkel intézkedik az ingatlan-nyilvántartásban feltüntetett jog vagy tény keletkezésének, változásának vagy megszűnésének bejegyzése iránt.
+
 (5) Ha a vagyonrendezési eljárás lefolytatására hivatalból került sor, a vagyonrendező az (1) bekezdésben meghatározott költségeinek és díjának a vagyonfelosztási javaslat alapján nem fedezett részét az állam viseli.
 
 (6) A vagyonfelosztásról döntő végzés ellen fellebbezésnek van helye. Az eljárás jogerős befejezésének tényét a bíróság a Cégközlönyben közzéteszi.

@@ -30,7 +30,7 @@
 
 ## 8. ha a könyvvizsgáló szervezet, a könyvvizsgálatot ellátó személynek a megválasztást elfogadó, az összeférhetetlenségre is kiterjedő nyilatkozata;
 
-## 9. ingatlan nem pénzbeli hozzájárulásként történő szolgáltatása esetén az ingatlan – három hónapnál nem régebbi – tulajdoni lapja, melyből az ingatlannal való rendelkezés jogcíme legalább széljegy formájában megállapítható; a tulajdoni lapon a következő bejegyzésre váró széljegy jogosultjaként csak a nem pénzbeli hozzájárulást szolgáltató személy vagy szervezet szerepelhet;
+## 9.
 
 ## 10. a jogszabályban meghatározott mértékű illeték és közzétételi költségtérítés megfizetésének igazolása;
 

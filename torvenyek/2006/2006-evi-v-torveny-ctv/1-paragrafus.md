@@ -16,6 +16,12 @@ g) azoknak az egyéb ügyeknek az elbírálása, amelyeket törvény a cégbír�
 
 h) a tőkeegyesítő társaságok határokon átnyúló átalakulásáról, egyesüléséről és szétválásáról szóló törvényben foglalt feladatok ellátása.
 
+(1a) A cégbíróság jogszabályban meghatározott módon és feltételekkel elrendeli és intézkedik az ingatlan-nyilvántartásban feltüntetett jog vagy tény keletkezésének, változásának vagy megszűnésének bejegyzése (a továbbiakban együtt: ingatlan-nyilvántartási bejegyzés) iránt, ha az e törvény szerinti eljárásában az ügy érdemében hozott jogerős végzése, vagy a cégbejegyzési (változásbejegyzési) eljárásban hozott bejegyzést elrendelő végzése alapján ingatlan-nyilvántartási bejegyzésnek van helye.
+
+(1b) Ingatlan nem pénzbeli vagyoni hozzájárulásként történő szolgáltatása esetén a cég a bejegyzési (változásbejegyzési) kérelmében – jogszabályban előírt okiratok csatolása mellett – kérelmezi az (1a) bekezdés szerinti döntés meghozatalát is. Ingatlannak mint nem pénzbeli vagyoni hozzájárulásnak a cégbejegyzést vagy a változásbejegyzést követően való szolgáltatása esetén a szolgáltatás teljesítését jogi képviselő útján kell bejelenteni, és ezzel egyidejűleg kérelmezni kell az (1a) bekezdés szerinti döntés meghozatalát is.
+
+(1c) Ingatlan nem pénzbeli vagyoni hozzájárulásként történő szolgáltatása esetén csak olyan ingatlan jelölhető meg, amelynek tulajdoni lapjából az ingatlannal való rendelkezés jogcíme legalább széljegy formájában megállapítható.
+
 (2) A céginformációs és az elektronikus cégeljárásban közreműködő szolgálat (a továbbiakban: céginformációs szolgálat) feladatai a következők:
 
 a) az e törvényben szabályozott módon hozzájárul a cégnyilvánosság követelményének megvalósításához, a cégjegyzékben szereplő adatok és cégiratok megismeréséhez;
