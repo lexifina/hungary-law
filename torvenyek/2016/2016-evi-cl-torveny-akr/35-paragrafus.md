@@ -10,6 +10,6 @@
 
 (2) Ha törvény vagy kormányrendelet másként nem rendelkezik, a kérelmet a hatósághoz írásban vagy személyesen lehet előterjeszteni.
 
-(3) Az ügyfél kérelmével a tárgyában hozott döntés véglegessé válásáig rendelkezhet.
+(3) Ha törvény vagy kormányrendelet későbbi időpontot nem állapít meg, az ügyfél kérelmével addig az időpontig rendelkezhet, amíg a tárgyában hozott döntés közlése iránt a hatóság nem intézkedik.
 
 (4) E § rendelkezéseit az eljárás megindítására irányuló kérelmen kívüli egyéb, az eljárás valamennyi résztvevőjének az eljárással összefüggő kérelmeire is megfelelően alkalmazni kell.

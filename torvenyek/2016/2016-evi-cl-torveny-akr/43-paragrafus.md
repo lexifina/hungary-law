@@ -4,7 +4,7 @@
 
 a) a kérelmet visszautasítja, az eljárást megszünteti vagy érdemben dönt,
 
-b) a beadvány elintézését függőben tartja, vagy az eljárás felfüggesztése vagy szünetelése iránt intézkedik, vagy
+b) az eljárás felfüggesztése vagy szünetelése iránt intézkedik, vagy
 
 c) – szükség esetén – szakhatóságot keres meg, rendelkezik a tényállás tisztázásához szükséges előre látható eljárási cselekményekről, hiánypótlásra hív fel.
 
