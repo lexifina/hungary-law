@@ -1,3 +1,3 @@
-55/F. § (1) A véglegessé vált határozatot a kormányhivatal az ingatlanügyi hatóság részére megküldi.
+55/F. § (1) A véglegessé vált határozatban foglaltak bejegyzésére a kormányhivatal felhívja az ingatlanügyi hatóságot.
 
-(2) A szolgalmi jogot az ingatlanügyi hatóság a véglegessé vált határozat alapján a záradékolt vázrajz szerint vezeti át az ingatlan-nyilvántartáson.
+(2)

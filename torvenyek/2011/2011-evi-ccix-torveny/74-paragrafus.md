@@ -52,7 +52,7 @@
 
 23. az ideiglenes szolgáltatásra vonatkozó átmeneti díjkérelem tartalmi és formai követelményeit, az átmeneti díj meghatározásánál figyelembe vehető ráfordítások körét
 
-24. a közhiteles víziközmű-térképi nyilvántartást vezető hatóságot, a hatóság hatáskörére és illetékességére vonatkozó részletes szabályokat, továbbá közhiteles hatósági nyilvántartás tartalmát, az abba történő bejegyzés, valamint az onnan való törlés során alkalmazható bizonyítási eszközök körét;
+24. a víziközmű-térképi nyilvántartást vezető hatóságot, a hatóság hatáskörére és illetékességére vonatkozó részletes szabályokat, továbbá hatósági nyilvántartás tartalmát, az abba történő bejegyzés, valamint az onnan való törlés során alkalmazható bizonyítási eszközök körét;
 
 25. a víziközmű-üzemeltetési tevékenységek kiszervezésére vonatkozó részletes szabályokat
 
@@ -100,10 +100,10 @@ rendeletben állapítsa meg.
 
 4. a víziközmű-fejlesztési hozzájárulás mértékét
 
+rendeletben állapítsa meg.
+
 5. a 31/A. § (4) bekezdés szerinti átmeneti díj meghatározására irányuló kérelemhez benyújtandó adatok körét,
 
 6. a 18. § (5) bekezdés szerinti elszámoló jelentés tartalmi követelményeit
-
-rendeletben állapítsa meg.
 
 (5) Felhatalmazást kap a helyi önkormányzat képviselő-testülete, hogy a Hivatal határozatában megállapított átmeneti díjra vonatkozóan – akár a rezsicsökkentésről szóló törvényekben meghatározott kedvezményen felül további – díjkedvezményt, az arra jogosultak körét, valamint a díjkedvezmény mértékét rendeletben állapítsa meg.
