@@ -1,1 +1,5 @@
-### 20. §
+20. § Az Üttv. 91. alcíme a következő 208/D. §-sal egészül ki:
+
+„208/D. § (1) A kamarai jogtanácsos és a jogi előadó az ügyvédi kamarai nyilvántartásba nem bejelentett munkáltatója vagy annak az ügyvédi kamarai nyilvántartásba nem bejelentett kapcsolt vállalkozása vagy a munkáltatójával irányítási vagy fenntartói viszonyban álló az ügyvédi kamarai nyilvántartásba nem bejelentett szerv számára – az ingatlan-nyilvántartási ügyben való eljárási jogosultsághoz kötött ügyek kivételével – ügyvédi tevékenységet 2025. május 1-jéig gyakorolhat.
+
+(2) Az ügyvédi kamarai nyilvántartásban szereplő kamarai jogtanácsos és jogi előadó 2025. május 1-jéig bejelenti az 1. mellékletben foglalt táblázat 24a., 24b. és 26–26b. sora szerinti adatot.”
