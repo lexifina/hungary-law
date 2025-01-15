@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2022-48-00-00
 | 2023-07-02 | 2010. évi CXXX. törvény | 2022-48-00-00.6 |
 | 2023-09-28 | 2023. évi LXI. törvény | 2022-48-00-00.9 |
 | 2024-06-19 | 2024. évi XXIX. törvény | 2022-48-00-00.10 |
+| 2025-01-15 | 2024. évi XXVII. törvény | 2022-48-00-00.7 |
