@@ -18,4 +18,4 @@ c) elkövetésével összefüggésben előnyt szerző szervezet vagyontárgyát
 
 (4) A (2) és (3) bekezdésben meghatározott esetben az ügyész keresetében a szerződések sértettekkel szembeni hatálytalanságának megállapítását is kérheti.
 
-(5) Ha az ügyészi keresettel érintett vagyontárgy ingatlan, az ügyész a (2) és (3) bekezdés szerinti szerződésekkel kapcsolatos széljegyzett beadványok elintézésének függőben tartása érdekében kérheti az ingatlanügyi hatóság megkeresését. A bíróság e kérelem tárgyában a tárgyalás előkészítésére irányuló intézkedések körében dönt. A bíróság megkeresése alapján az ingatlanügyi hatóság a megkereséssel érintett beadványok elintézését a bíróság jogerős döntéséig függőben tartja.
+(5) Ha az ügyészi keresettel érintett vagyontárgy ingatlan, az ügyész a (2) és (3) bekezdés szerinti szerződésekkel kapcsolatos széljegyzett beadványok alapján indult bejegyzési eljárások felfüggesztése érdekében a bíróság intézkedését kérheti. A bíróság az ügyészi kérelem tárgyában előzetesen végrehajtható végzéssel dönt. A bíróság végzése alapján az ingatlanügyi hatóság az érintett beadványok intézésére irányuló eljárását a bíróság jogerős döntéséig felfüggeszti.
