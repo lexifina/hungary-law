@@ -42,12 +42,12 @@ d) kezdeményezheti a vagyonkezelői szerződés felülvizsgálatát, illetve a 
 
 (6) A (4) bekezdés szerinti határozatával a hatóság megkeresi
 
-a) az ingatlanügyi hatóságot a jelzálogjog bejegyzése és a terhelési tilalom ingatlan-nyilvántartásba történő feljegyzése,
+a) az ingatlanügyi hatóságot a jelzálogjog és a terhelési tilalom ingatlan-nyilvántartásba történő bejegyzése,
 
 b) az illetékes állami adóhatóságot – amennyiben a kötelezettség teljesítése határidőre nem történt meg – a követelés végrehajtása
 
 iránt.
 
-(7) A követelés kielégítése vagy megszűnése esetén a hatóság 15 napon belül megkeresi az ingatlanügyi hatóságot a bejegyzett jog és a feljegyzett tény törlése iránt.
+(7) A követelés kielégítése vagy megszűnése esetén a hatóság 15 napon belül megkeresi az ingatlanügyi hatóságot a bejegyzett jog és a bejegyzett tény törlése iránt.
 
-(8) Abban az esetben, ha a (4) bekezdés szerinti jelzálogjogot olyan ingatlanra kell bejegyezni és a terhelési tilalom tényét feljegyezni, amelyre a 74. § (1) bekezdése szerinti jogi jelleg az ingatlan-nyilvántartásban ezt megelőzően még nem került feljegyzésre, az eljáró hatóság köteles a jogi jelleg ingatlan-nyilvántartási feljegyeztetéséről gondoskodni. A jelzálogjog bejegyzése és a terhelési tilalom tényének feljegyzése csak a jogi jelleg feljegyzését követően kezdeményezhető.
+(8) Abban az esetben, ha a (4) bekezdés szerinti jelzálogjogot és a terhelési tilalmat olyan ingatlanra kell bejegyezni, amelyre a 74. § (1) bekezdése szerinti jogi jelleg az ingatlan-nyilvántartásban ezt megelőzően még nem került bejegyzésre, az eljáró hatóság köteles a jogi jelleg ingatlan-nyilvántartási bejegyeztetéséről gondoskodni. A jelzálogjog és a terhelési tilalom bejegyzése csak a jogi jelleg bejegyzését követően kezdeményezhető.

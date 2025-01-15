@@ -12,4 +12,4 @@
 
 (5) A (4) bekezdés szerinti igazgatási szolgáltatási díj megfizetése alól mentességet kap a világörökségi gondnokság, valamint a nyilvántartási adatokat jogszabályban meghatározott feladatellátásához igénylő, feltárásra jogosult intézmény vagy a jogszabályban kijelölt örökségvédelmi szerv, amely ezt az adatszolgáltatás iránti kérelmében igazolja.
 
-(6) A 71. § (2) bekezdés a) pontja szerinti kulturális javak körébe tartozó tartozékok, alkotórészek esetében a védettség tényének ingatlan-nyilvántartásba történő feljegyzése iránt a hatóság intézkedik.
+(6) A 71. § (2) bekezdés a) pontja szerinti kulturális javak körébe tartozó tartozékok, alkotórészek esetében a védettség tényének ingatlan-nyilvántartásba történő bejegyzése iránt a hatóság intézkedik.
