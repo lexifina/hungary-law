@@ -2,6 +2,6 @@
 
 (2) Ha a megosztási eljárás tárgya zártkerti földnek minősülő ingatlan, az osztatlan közös tulajdon megszüntetése eredményeként kialakításra kerülő ingatlan nem lehet 1000 m2-nél kisebb területnagyságú.
 
-(3) Az (1) bekezdésben az erdő művelési ágra vonatkozó területi minimumot kell alkalmazni az olyan ingatlanra is, amely az ingatlan-nyilvántartásban művelés alól kivett területként van nyilvántartva és amelyre az ingatlan-nyilvántartásban Országos Erdőállomány Adattárban erdőként nyilvántartott terület jogi jelleg van feljegyezve.
+(3) Az (1) bekezdésben az erdő művelési ágra vonatkozó területi minimumot kell alkalmazni az olyan ingatlanra is, amely az ingatlan-nyilvántartásban művelés alól kivett területként van nyilvántartva és amelyre az ingatlan-nyilvántartásban Országos Erdőállomány Adattárban erdőként nyilvántartott terület jogi jelleg van bejegyezve.
 
 (4) Az e § szerinti területi minimumnak való megfelelést az osztóprogram alkalmazásával kialakítandó ingatlan vonatkozásában kell vizsgálni.

@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-71-00-00
 | 2024-05-17 | 2024. évi XIX. törvény | 2020-71-00-00.10 |
 | 2024-07-09 | 2024. évi XIX. törvény | 2020-71-00-00.11 |
 | 2025-01-01 | 2024. évi LXXX. törvény | 2020-71-00-00.12 |
+| 2025-01-15 | 2024. évi LXXX. törvény | 2020-71-00-00.6 |

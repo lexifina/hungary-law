@@ -28,7 +28,7 @@
 
 (7d) A kialakítandó földrészletek megközelíthetősége érdekében önálló földrészletként kialakított közút a települési önkormányzat, a fővárosban a Fővárosi Önkormányzat tulajdonába kerül. A földrészletek megközelítésére szolgáló közutak kialakításához szükséges terület aranykorona értékével a kialakítandó földrészleteket kártalanítás nélkül arányosan csökkenteni kell.
 
-(7e) A földrészlet megosztását követően az egyes tulajdoni hányadokra vonatkozó, illetve azokat terhelő, az ingatlan-nyilvántartásba bejegyzett jogok és feljegyzett tények – a keletkező önálló földrészletekre történő – visszajegyzéséről az ingatlanügyi hatóság gondoskodik.
+(7e) A földrészlet megosztását követően az egyes tulajdoni hányadokra vonatkozó, illetve azokat terhelő, az ingatlan-nyilvántartásba bejegyzett jogok és bejegyzett tények – a keletkező önálló földrészletekre történő – visszajegyzéséről az ingatlanügyi hatóság gondoskodik.
 
 (7f) Ha törvény úgy rendelkezik, a megosztási vázrajzot – határidő kitűzésével – ellenjegyzésre közölni kell az ingatlan-nyilvántartásba bejegyzett jog jogosultjával. Ha a jogosult az ellenjegyzést határidőben nem teljesíti, úgy azt megadottnak kell tekinteni.
 

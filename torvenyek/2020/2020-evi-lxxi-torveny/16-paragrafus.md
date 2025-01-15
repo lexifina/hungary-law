@@ -16,7 +16,7 @@
 
 (6) Az e § szerinti bekebelezés esetén a tulajdonszerzés jogcíme közös tulajdon megszüntetése.
 
-(7) A tulajdonjog ingatlan-nyilvántartási bejegyzésének alapjául szolgáló okiratnak az Inytv. 32. § (1) bekezdés a) és b) pontja szerinti adatokat csak a bekebelező, valamint a bekebelezés tárgyában létrejött szerződés esetén a szerződést aláíró tulajdonostársak esetében kell tartalmaznia. Egyoldalú jognyilatkozat esetén az okiratnak a tulajdonostársak tulajdoni lapon szereplő adatait kell tartalmaznia.
+(7) A tulajdonjog ingatlan-nyilvántartási bejegyzésének alapjául szolgáló okiratnak az Inytv. 35. § (1) bekezdés a) és b) pontja szerinti adatokat csak a bekebelező, valamint a bekebelezés tárgyában létrejött szerződés esetén a szerződést aláíró tulajdonostársak esetében kell tartalmaznia. Egyoldalú jognyilatkozat esetén az okiratnak a tulajdonostársak tulajdoni lapon szereplő adatait kell tartalmaznia.
 
 (8) Az e § szerinti bekebelezés útján történő tulajdonszerzéssel érintett tulajdoni illetőségeket a megosztást követően létrejövő ingatlan tulajdoni lapján külön kell nyilvántartani.
 

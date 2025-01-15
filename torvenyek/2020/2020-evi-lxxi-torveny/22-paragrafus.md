@@ -28,4 +28,4 @@ a) a (3) bekezdésben meghatározott határidő eredménytelenül telt el, vagy
 
 b) az adatfeltárással beazonosított, valamint az adatfeltárással nem érintett természetes személy halálának időpontja a (3) bekezdésben meghatározott határidő elteltét követően sem vált ismertté.
 
-(7) Az ingatlanügyi hatóság a (6) bekezdésben foglalt intézkedésével egyidejűleg feljegyzi az ingatlan tulajdoni lapjára a tulajdoni helyzet rendezetlenségének a tényét. Több tulajdonos esetén a feljegyzésben utalni kell arra a tulajdoni hányadra, amelynek tulajdonosa nem beazonosítható.
+(7) Az ingatlanügyi hatóság a (6) bekezdésben foglalt intézkedésével egyidejűleg bejegyzi az ingatlan tulajdoni lapjára a tulajdoni helyzet rendezetlenségének a tényét. Több tulajdonos esetén a bejegyzésben utalni kell arra a tulajdoni hányadra, amelynek tulajdonosa nem beazonosítható.

@@ -12,4 +12,4 @@ c) a figyelemfelhívást arra vonatkozóan, hogy akinek tudomása van a tulajdon
 
 (4) Ha az adategyeztetés nem vezetett eredményre, az ingatlanügyi hatóság hivatalból megállapítja, hogy az ingatlan-nyilvántartásba bejegyzett személy nem beazonosítható, ezáltal az ingatlan tulajdoni helyzete rendezetlen.
 
-(5) Az ingatlanügyi hatóság a (4) bekezdésben foglalt intézkedésével egyidejűleg feljegyzi az ingatlan tulajdoni lapjára a tulajdoni helyzet rendezetlenségének a tényét. Több tulajdonos esetén a feljegyzésben utalni kell arra a tulajdoni hányadra, amelynek tulajdonosa nem beazonosítható.
+(5) Az ingatlanügyi hatóság a (4) bekezdésben foglalt intézkedésével egyidejűleg bejegyzi az ingatlan tulajdoni lapjára a tulajdoni helyzet rendezetlenségének a tényét. Több tulajdonos esetén a bejegyzésben utalni kell arra a tulajdoni hányadra, amelynek tulajdonosa nem beazonosítható.
