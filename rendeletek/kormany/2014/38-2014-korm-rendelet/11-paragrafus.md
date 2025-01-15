@@ -1,9 +1,9 @@
-11. § (1)[^26] A mezőgazdasági igazgatási szerv a nyilvántartásba vétel megtörténtét és időpontját a kérelmen feltünteti.
+11. § (1)[^34] A mezőgazdasági igazgatási szerv a nyilvántartásba vétel megtörténtéről és időpontjáról egyszerűsített határozatot hoz.
 
-(2)[^27] A nyilvántartásba vétel megtörténtét a mezőgazdasági igazgatási szerv az adatlap másolatának megküldésével közli a kérelmezővel.
+(2)[^35] A nyilvántartásba vétel megtörténtét a mezőgazdasági igazgatási szerv egyszerűsített határozat megküldésével közli a kérelmezővel.
 
-(3)[^28] A bejegyzéshez, törléshez, változás átvezetéséhez fűződő joghatály a bejegyzés, a törlés, illetve a változás átvezetése megtörténtének időpontjában áll be.
+(3)[^36] A bejegyzéshez, törléshez, változás átvezetéséhez fűződő joghatály a bejegyzés, a törlés, illetve a változás átvezetése megtörténtének időpontjában áll be.
 
-[^26]: A 11. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 131. § (1) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^27]: A 11. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 131. § (1) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^28]: A 11. § (3) bekezdését a 188/2014. (VII. 25.) Korm. rendelet 3. §-a iktatta be, szövege a 103/2018. (VI. 11.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^34]: A 11. § (1) bekezdése a 481/2024. (XII. 31.) Korm. rendelet 38. §-ával megállapított szöveg.
+[^35]: A 11. § (2) bekezdése a 481/2024. (XII. 31.) Korm. rendelet 38. §-ával megállapított szöveg.
+[^36]: A 11. § (3) bekezdését a 188/2014. (VII. 25.) Korm. rendelet 3. §-a iktatta be, szövege a 103/2018. (VI. 11.) Korm. rendelet 13. §-ával megállapított szöveg.

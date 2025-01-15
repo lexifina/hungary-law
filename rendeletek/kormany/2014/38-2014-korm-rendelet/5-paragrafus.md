@@ -1,4 +1,4 @@
-5. §[^9] (1) A természetes személy földművesként való nyilvántartásba vétele iránti kérelmében
+5. §[^10] (1)[^11] A természetes személy földművesként való nyilvántartásba vétele iránti kérelmében az okiratok papíralapú vagy elektronikus másolatának csatolásával
 
 a) igazolja a mezőgazdasági vagy erdészeti szakirányú képzettségekről szóló 504/2013. (XII. 29.) Korm. rendeletben (a továbbiakban: Kr.) meghatározott mezőgazdasági vagy erdészeti szakirányú képzettséget igazoló okirat meglétét, vagy igazolja, hogy a külföldön megszerzett szakképesítés a Kr.-ben meghatározott valamely szakképesítésnek megfelelő szakképesítés;
 
@@ -14,6 +14,22 @@ bc) a ba) és bb) pontban meghatározottak hiányában igazolja, hogy a kérelme
 
 (3) Az (1) bekezdés a) pontja szerinti esetben nem fogadható el a végzettség megszerzéséhez szükséges nyelvvizsga bizonyítvány hiányában kiállított igazolás.
 
-(4) Ha a kérelmező természetes személy nem felel meg az (1) bekezdésben foglalt feltételeknek, azonban a nyilvántartásba már bejegyzett mezőgazdasági termelőszervezet olyan tagjának minősül, amelyben a kérelmező legalább három éve legalább 25%-os tulajdonosi részesedéssel rendelkezik, és a mezőgazdasági termelőszervezetben személyes közreműködésként végzi a mezőgazdasági tevékenységet, úgy a földművesként való nyilvántartásba vétele iránti kérelmében igazolja azt, hogy a nyilvántartásba már bejegyzett mezőgazdasági termelőszervezetben legalább három éve legalább 25%-os tulajdonosi részesedéssel rendelkezik, és a mezőgazdasági termelőszervezetben személyes közreműködésként végzi a mezőgazdasági tevékenységet.
+(4)[^12] Ha a kérelmező természetes személy nem felel meg az (1) bekezdésben foglalt feltételeknek, azonban a nyilvántartásba már bejegyzett mezőgazdasági termelőszervezet olyan tagjának minősül, amelyben a kérelmező legalább három éve legalább 25%-os tulajdonosi részesedéssel rendelkezik, és a mezőgazdasági termelőszervezetben személyes közreműködésként végzi a mezőgazdasági tevékenységet, úgy a földművesként való nyilvántartásba vétele iránti kérelemhez csatolni kell
 
-[^9]: Az 5. § a 457/2017. (XII. 28.) Korm. rendelet 487. § (4) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+a) az alapító okirat másolatát, mellyel igazolja, hogy a nyilvántartásba már bejegyzett mezőgazdasági termelőszervezetben legalább három éve legalább 25%-os tulajdonosi részesedéssel rendelkezik, és
+
+b) a mezőgazdasági termelőszervezet igazolását arról, hogy a mezőgazdasági termelőszervezetben személyes közreműködésként végzi a mezőgazdasági tevékenységet.
+
+(5)[^13] A természetes személy földművesként való nyilvántartásba vétele iránti kérelmében nyilatkozik, hogy
+
+a) a kérelemben szereplő adatok valódiságáért a kérelmező felel, és a kérelemben szereplő adatok valósak és teljes körűek; valamint
+
+b) ha a csatolt okiratok elektronikus vagy egyszerű papír alapú másolatok, azok megegyeznek az eredeti okiratokkal, és a kérelmező vállalja, hogy az eredeti papír alapú okiratot felhívásra bemutatja a mezőgazdasági igazgatási szerv részére.
+
+(6)[^14] Ha a kérelmet nem a földhasználó, hanem nevében meghatalmazott képviselője nyújtja be, a meghatalmazásnak ki kell terjednie az (5) bekezdés szerinti nyilatkozatok megtételére is.
+
+[^10]: Az 5. § a 457/2017. (XII. 28.) Korm. rendelet 487. § (4) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^11]: Az 5. § (1) bekezdés nyitó szövegrésze a 481/2024. (XII. 31.) Korm. rendelet 52. § b) pontja szerint módosított szöveg.
+[^12]: Az 5. § (4) bekezdése a 481/2024. (XII. 31.) Korm. rendelet 32. §-ával megállapított szöveg.
+[^13]: Az 5. § (5) bekezdését a 481/2024. (XII. 31.) Korm. rendelet 32. §-a iktatta be.
+[^14]: Az 5. § (6) bekezdését a 481/2024. (XII. 31.) Korm. rendelet 32. §-a iktatta be.

@@ -1,48 +1,59 @@
-## Adatváltozás átvezetésére / nyilvántartásból történő törlésre irányuló bejelentés adattartalma
+6. melléklet a 38/2014. (II. 24.) Korm. rendelethez[^95]
 
-## 1. A bejelentés indoka:
+Kényszerhasznosítóként jelentkezés tényének törlésre irányuló bejelentés adattartalma
 
-## a) adatváltozás bejelentése,
+1. A kérelmet benyújtó természetes személy
 
-## b) nyilvántartásból történő törlés.
+1.1. természetes személyazonosító adatai,
 
-## 2. A bejelentő adatai változás előtt:
+1.2. személyi azonosítója,
 
-## 2.1. A földműves
+1.3. állampolgársága,
 
-## a) természetes személyazonosító adatai,
+1.4. lakóhelye,
 
-## b) személyi azonosítója,
+1.5. értesítési adatai (megegyezik a lakcímmel, vagy értesítési cím vagy kézbesítési megbízott megadása).
 
-## c) állampolgársága,
+2. Annak jelölése, hogy a benyújtó saját nevében, meghatalmazással vagy törvényes képviselőként jár el, és amennyiben nem saját nevében jár el, a törvényes képviselet formájának megadása vagy nyilatkozat arról, hogy rendelkezik meghatalmazással a kérelmezőtől, és rendelkezik hozzájárulással a képviselt adatainak megismeréséhez.
 
-## d) lakóhelye.
+3. A kérelmező adatai:
 
-## 2.2. A mezőgazdasági termelőszervezet/újonnan alapított mezőgazdasági termelőszervezet
+3.1. A természetes személy földműves
 
-## a) megnevezése,
+3.1.1. természetes személyazonosító adatai,
 
-## b) statisztikai azonosítója (törzsszám),
+3.1.2. személyi azonosítója,
 
-## c) cég esetében a cégjegyzékszáma,
+3.1.3. állampolgársága,
 
-## d)[^83] székhelye (telephelye, fióktelepe).
+3.1.4. lakóhelye,
 
-## 2.3. A szervezet vezető tisztségviselőjének vagy cégvezetőjének
+3.1.5. értesítési adatai (megegyezik a lakcímmel, vagy értesítési cím vagy kézbesítési megbízott megadása).
 
-## a) természetes személyazonosító adatai,
+3.2. A mezőgazdasági termelőszervezet/újonnan alapított mezőgazdasági termelőszervezet
 
-## b) személyi azonosítója,
+3.2.1. teljes és rövidített megnevezése,
 
-## c) állampolgársága,
+3.2.2. honossága,
 
-## d) lakóhelye.
+3.2.3. nyilvántartó hatóság megnevezése,
 
-## 2.4. Az ingatlan adatai (település, fekvés, helyrajzi szám), az ingatlanon fennálló jogosultság (tulajdonjog, haszonélvezeti jog, vagyonkezelői jog, használati jog) megjelölése.
+3.2.4. nyilvántartási száma,
 
-## 3. Adatváltozással érintett adat megjelölése és az adatváltozás megnevezése.
+3.2.5. adószáma,
 
-6. számú melléklet a 38/2014. (II. 24.) Korm. rendelethez[^84]
+3.2.6. statisztikai azonosítója,
 
-[^83]: Az 5. melléklet 2.2. pont d) alpontja a 301/2024. (X. 22.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
-[^84]: A 6. mellékletet a 341/2016. (XI. 17.) Korm. rendelet 21. § b) pontja iktatta be, a 457/2017. (XII. 28.) Korm. rendelet 490. § h) pontja hatályon kívül helyezte. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+3.2.7. székhelye (telephelye, fióktelepe),
+
+3.2.8. telefonszáma,
+
+3.2.9. értesítési adatai (megegyezik a székhely címmel, vagy értesítési cím vagy kézbesítési megbízott megadása).
+
+4. Kényszerhasznosítóként kijelölhető státusz törlése iránti kifejezett kérelem.
+
+5. A benyújtó nyilatkozata arról, hogy a kérelemben szereplő adatok valódiságáért a kérelmező felel, és a kérelemben szereplő adatok valósak és teljes körűek.
+
+6. Kérelmet benyújtó aláírása és az aláírás dátuma.
+
+[^95]: A 6. mellékletet a 457/2017. (XII. 28.) Korm. rendelet 490. § h) pontja hatályon kívül helyezte, újonnan a 481/2024. (XII. 31.) Korm. rendelet 51. § (6) bekezdése iktatta be.

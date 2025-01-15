@@ -10,10 +10,13 @@ b) a nyilvántartásba történő bejegyzés és a nyilvántartásból való tö
 
 c) a nyilvántartásban szereplő egyes adatok módosítása (ide értve a kiegészítést, kijavítást is) átvezetése iránti bejelentés iktatásának időpontját, és a nyilvántartásban végzett módosításról szóló döntés számát és meghozatalának időpontját.
 
-(3)[^6] Az újonnan alapított mezőgazdasági termelőszervezet esetében az adatlap nem tartalmazza a mezőgazdasági üzemközpontra vonatkozó adatokat, ha a szervezet az újonnan alapított mezőgazdasági termelőszervezetként való nyilvántartásba vétele iránti kérelmében a mezőgazdasági üzemközpont hiányát tünteti fel, de a kérelmében nyilatkozik arról, hogy Földforgalmi tv. 42. § (5) bekezdésében meghatározott, a mezőgazdasági üzemközpont létesítésére vonatkozó kötelezettségét az ott meghatározott időn belül teljesíti, és a mezőgazdasági üzemközpont adatait e rendeletben meghatározottak szerint bejelenti a mezőgazdasági igazgatási szervhez.
+d)[^6] a nyilvántartás számítógépes rendszerének üzemeltetését ellátó földmérési és térinformatikai államigazgatási szerv megnevezését és címét.
 
-(4)[^7] Ha a nyilvántartásba vételi kérelemben a természetes személy, illetve a szervezet azt jelöli meg, hogy a mezőgazdasági üzemközpontja azonos a lakóhelyével, illetve a székhelyével, telephelyével vagy fióktelepével, akkor ezen ingatlanok adatait kell mezőgazdasági üzemközpontként nyilvántartásba venni. E rendelkezést nem lehet alkalmazni a (3) bekezdésben meghatározott esetben.
+(3)[^7] Az újonnan alapított mezőgazdasági termelőszervezet esetében az adatlap nem tartalmazza a mezőgazdasági üzemközpontra vonatkozó adatokat, ha a szervezet az újonnan alapított mezőgazdasági termelőszervezetként való nyilvántartásba vétele iránti kérelmében a mezőgazdasági üzemközpont hiányát tünteti fel, de a kérelmében nyilatkozik arról, hogy Földforgalmi tv. 42. § (5) bekezdésében meghatározott, a mezőgazdasági üzemközpont létesítésére vonatkozó kötelezettségét az ott meghatározott időn belül teljesíti, és a mezőgazdasági üzemközpont adatait e rendeletben meghatározottak szerint bejelenti a mezőgazdasági igazgatási szervhez.
+
+(4)[^8] Ha a nyilvántartásba vételi kérelemben a természetes személy, illetve a szervezet azt jelöli meg, hogy a mezőgazdasági üzemközpontja azonos a lakóhelyével, illetve a székhelyével, telephelyével vagy fióktelepével, akkor ezen ingatlanok adatait kell mezőgazdasági üzemközpontként nyilvántartásba venni. E rendelkezést nem lehet alkalmazni a (3) bekezdésben meghatározott esetben.
 
 [^5]: A 3. § (2) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 244. § a) pontja, a 360/2019. (XII. 30.) Korm. rendelet 131. § (1) bekezdés a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 179. §-a szerint módosított szöveg.
-[^6]: A 3. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 131. § (1) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^7]: A 3. § (4) bekezdése a 301/2024. (X. 22.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^6]: A 3. § (2) bekezdés d) pontját a 481/2024. (XII. 31.) Korm. rendelet 30. §-a iktatta be.
+[^7]: A 3. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 131. § (1) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^8]: A 3. § (4) bekezdése a 301/2024. (X. 22.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
