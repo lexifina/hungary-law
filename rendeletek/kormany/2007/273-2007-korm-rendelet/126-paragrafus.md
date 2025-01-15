@@ -1,3 +1,3 @@
-126. §[^513]
+126. §[^510]
 
-[^513]: A Vhr. 126. §-át a 378/2011. (XII. 31.) Korm. rendelet 33. § (1) bekezdése hatályon kívül helyezte.
+[^510]: A Vhr. 126. §-át a 378/2011. (XII. 31.) Korm. rendelet 33. § (1) bekezdése hatályon kívül helyezte.

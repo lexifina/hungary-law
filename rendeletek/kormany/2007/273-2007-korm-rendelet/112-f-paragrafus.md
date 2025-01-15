@@ -1,16 +1,11 @@
-112/F. §[^464] (1) A nagykereskedelmi piacfelügyeleti eljárás során kiszabható bírság mértéke
+112/F. §[^464] (1) A nem természetes személynek a 112/E. § (1) bekezdése szerint közigazgatási bírsággal sújtott tevékenységében érdemben közreműködő természetes személlyel szemben a VET-ben megállapított szempontok mérlegelésével kiszabható közigazgatási bírság összege – a piaci szereplővel szembeni közigazgatási bírság alkalmazásán felül – legalább százezer, de legfeljebb kétszázmillió forint.
 
-a)[^465] a bennfentes kereskedelemre, a piaci manipulációra és a piaci manipuláció megkísérlésére vonatkozó tilalom megsértése esetén százezer forinttól kettőmilliárd forintig,
+(2) A nem természetes személynek a 112/E. § (2) bekezdése szerinti közigazgatási bírsággal sújtott tevékenységében érdemben közreműködő természetes személlyel szemben a VET-ben megállapított szempontok mérlegelésével kiszabható közigazgatási bírság összege – a piaci szereplővel szembeni közigazgatási bírság alkalmazásán felül –legalább százezer, de legfeljebb négyszázmillió forint.
 
-b) a bennfentes információ közzétételére vonatkozó kötelezettség megsértése esetén százezer forinttól tízmillió forintig
+(3) A nem természetes személynek a 112/E. § (3) bekezdése szerinti közigazgatási bírsággal sújtott tevékenységében érdemben közreműködő természetes személlyel szemben a VET-ben megállapított szempontok mérlegelésével kiszabható bírság összege – a piaci szereplővel szembeni közigazgatási bírság alkalmazásán felül – legalább százezer, de legfeljebb kétmilliárd forint.
 
-terjedhet.
+(4) A természetes személyekkel szemben kiszabható közigazgatási bírság összege nem lehet több, mint az érintett természetes személy a jogsértés évét mint tárgyévet megelőző, személyi jövedelemadó-bevallással igazolt bruttó jövedelmének 20%-a. Kivételt képez, ha az érintett természetes személy közvetve vagy közvetlenül pénzügyi előnyhöz jutott a jogsértésből, és az számszerűsíthető. Ebben az esetben a bírság összege az elért pénzügyi előnnyel megegyező mértékű.
 
-(2)[^466] A kiszabható bírság felső határa az (1) bekezdés a) pontjától eltérően az elért árfolyamnyereség vagy elkerült árfolyamveszteség négyszáz százaléka, ha az árfolyam-különbözet mértéke tételesen kimutatható és az magasabb, mint az (1) bekezdés a) pontjában meghatározott bírságtétel felső határa.
+(5) Számszerűsíthető, igazolt, megelőző évi bruttó jövedelem hiányában a bírság összege minimum százezer, maximum kétmilliárd forint.
 
-(3)[^467] A nem természetes személynek az (1) bekezdés a) pontja szerinti bírsággal sújtott tevékenységében érdemben közreműködő természetes személlyel szemben a VET 98. § (1) bekezdésében megállapított szempontok mérlegelésével kiszabható bírság összege – a piaci szereplővel szemben az (1) bekezdés a) pontjában meghatározott bírság alkalmazásán felül – százezer forinttól százmillió forintig terjedhet.
-
-[^464]: A Vhr. 112/F. §-át a 344/2013. (IX. 27.) Korm. rendelet 2. §-a iktatta be.
-[^465]: A Vhr. 112/F. § (1) bekezdés a) pontja a 275/2017. (IX. 21.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
-[^466]: A Vhr. 112/F. § (2) bekezdése a 275/2017. (IX. 21.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.
-[^467]: A Vhr. 112/F. § (3) bekezdését a 275/2017. (IX. 21.) Korm. rendelet 6. §-a iktatta be.
+[^464]: A Vhr. 112/F. §-át a 344/2013. (IX. 27.) Korm. rendelet 2. §-a iktatta be, szövege a 466/2024. (XII. 30.) Korm. rendelet 26. §-ával megállapított szöveg.

@@ -1,3 +1,9 @@
-112/G. §[^468] A kiszabott bírság az árképzésnél költségnövelő tényezőként nem vehető figyelembe.
+112/G. §[^465] (1) Eljárási bírság VET 112. §-a szerinti megállapítása esetén, az eljárási bírság napi összege jogi személyek esetében legfeljebb az eljárási bírságot kiszabó végzés meghozatalát megelőző üzleti évben elért bruttó árbevétel egy napra jutó összegének három százaléka, természetes személy esetében legfeljebb az előző évben személyi jövedelemadó-bevallással igazolt bruttó jövedelem egy napra jutó összegének két százaléka.
 
-[^468]: A Vhr. 112/G. §-át a 80/2019. (IV. 15.) Korm. rendelet 14. §-a iktatta be.
+(2) Megállapítható árbevétel hiányában az eljárási bírság legkisebb összege nem természetes személy esetében ötvenezer forint, természetes személy esetében tízezer forint, legmagasabb összege nem természetes személy esetében tízmillió forint, természetes személy esetében ötmillió forint.
+
+(3) A bírságok összegének meghatározásakor a bruttó árbevételt a határozat meghozatalát megelőző üzleti évre vonatkozó éves beszámoló vagy egyszerűsített éves beszámoló alapján kell meghatározni. Ha a vállalkozás működési ideje az adott évben egy évnél rövidebb, az adatokat éves szintre kell vetíteni. Ha a döntés meghozatalát megelőző üzleti évben elért bruttó árbevételéről nem áll rendelkezésre hiteles adat, az utolsó hitelesen lezárt üzleti év bruttó árbevétele az irányadó. Beszámolóval nem rendelkező, újonnan alapított jogi személy esetében az eljárás megindításának évére vonatkozó üzleti tervet, ennek hiányában a jogi személy által a Hivatal felhívására közölt, a számvitelről szóló törvénynek a közbenső mérleg készítésére vonatkozó szabályai szerint az eljárás megindításának napjával mint fordulónappal kiszámított bruttó árbevételt kell figyelembe venni.
+
+(4) A bírságok az árképzésnél költségnövelő tényezőként nem vehetőek figyelembe.
+
+[^465]: A Vhr. 112/G. §-át a 80/2019. (IV. 15.) Korm. rendelet 14. §-a iktatta be, szövege a 466/2024. (XII. 30.) Korm. rendelet 27. §-ával megállapított szöveg.

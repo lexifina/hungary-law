@@ -46,7 +46,7 @@ A kiserőművi összevont engedély iránti kérelemhez benyújtandó dokumentum
 
 1. Az e rendelet 54. §-ában meghatározott adatok,
 
-2.[^608] A kérelmező nevére szóló,
+2.[^605] A kérelmező nevére szóló,
 
 2.1. a hálózati engedélyessel kötött hálózati csatlakozási szerződés egyszerű másolati példánya, vagy
 
@@ -58,21 +58,21 @@ a villamos energia szabályzatokban meghatározott műszaki adatokat.
 
 3. A telephely adatai,
 
-4.[^609] Az erőmű élettartamának időtartamára szóló független gazdasági szakértő által, a 18. számú melléklet szerint ellenőrzött üzleti terv,
+4.[^606] Az erőmű élettartamának időtartamára szóló független gazdasági szakértő által, a 18. számú melléklet szerint ellenőrzött üzleti terv,
 
-5.[^610] A létesítés kezdetének várható időpontja és a kivitelezés tervezett határideje.
+5.[^607] A létesítés kezdetének várható időpontja és a kivitelezés tervezett határideje.
 
 6. Az üzembe helyezés várható időpontja,
 
 7. Kereskedelmi üzem kezdetének tervezett időpontja,
 
-8.[^611] Annak igazolása, hogy
+8.[^608] Annak igazolása, hogy
 
-8.1.[^612] a kérelmező rendelkezik a tevékenység gyakorlásához szükséges, a kérelmező nevére szóló végleges építési engedéllyel és
+8.1.[^609] a kérelmező rendelkezik a tevékenység gyakorlásához szükséges, a kérelmező nevére szóló végleges építési engedéllyel és
 
-8.2.[^613] a kérelmező rendelkezik a tevékenység gyakorlásához szükséges, a kérelmező nevére szóló végleges környezetvédelmi engedéllyel vagy az illetékes környezetvédelmi hatóság által kiállított igazolással arról, hogy a tevékenység környezetvédelmi engedélyhez nem kötött.
+8.2.[^610] a kérelmező rendelkezik a tevékenység gyakorlásához szükséges, a kérelmező nevére szóló végleges környezetvédelmi engedéllyel vagy az illetékes környezetvédelmi hatóság által kiállított igazolással arról, hogy a tevékenység környezetvédelmi engedélyhez nem kötött.
 
-9.[^614] Műszaki adatok:
+9.[^611] Műszaki adatok:
 
 9.1. Egyvonalas villamos kapcsolási rajz,
 
@@ -88,13 +88,13 @@ a villamos energia szabályzatokban meghatározott műszaki adatokat.
 
 9.7. csatlakozási pontok megnevezése, és
 
-9.8.[^615] mérésponti azonosító(k), több mérési pont esetében egyértelműen összerendelve a gépegységekkel.
+9.8.[^612] mérésponti azonosító(k), több mérési pont esetében egyértelműen összerendelve a gépegységekkel.
 
-[^608]: A Vhr. 4. számú melléklet 2. pontja a 787/2021. (XII. 27.) Korm. rendelet 22. § b) pontjával megállapított szöveg.
-[^609]: A Vhr. 4. számú melléklet 4. pontja a 401/2020. (VIII. 17.) Korm. rendelet 15. § g) pontja, a 787/2021. (XII. 7.) Korm. rendelet 21. § 18. pontja szerint módosított szöveg.
-[^610]: A Vhr. 4. számú melléklet 5. pontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (3) bekezdésével megállapított szöveg.
-[^611]: A Vhr. 4. számú melléklet 8. pontja a 457/2017. (XII. 28.) Korm. rendelet 197. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^612]: A Vhr. 4. számú melléklet 8.1. pontja a 787/2021. (XII. 27.) Korm. rendelet 22. § b) pontjával megállapított szöveg.
-[^613]: A Vhr. 4. számú melléklet 8.2. alpontja a 466/2024. (XII. 30.) Korm. rendelet 32. § (3) bekezdésével megállapított szöveg.
-[^614]: A Vhr. 4. számú melléklet 9. pontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (3) bekezdésével megállapított szöveg.
-[^615]: A Vhr. 4. számú melléklet 9.8. pontja a 787/2021. (XII. 27.) Korm. rendelet 22. § b) pontjával megállapított szöveg.
+[^605]: A Vhr. 4. számú melléklet 2. pontja a 787/2021. (XII. 27.) Korm. rendelet 22. § b) pontjával megállapított szöveg.
+[^606]: A Vhr. 4. számú melléklet 4. pontja a 401/2020. (VIII. 17.) Korm. rendelet 15. § g) pontja, a 787/2021. (XII. 7.) Korm. rendelet 21. § 18. pontja szerint módosított szöveg.
+[^607]: A Vhr. 4. számú melléklet 5. pontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (3) bekezdésével megállapított szöveg.
+[^608]: A Vhr. 4. számú melléklet 8. pontja a 457/2017. (XII. 28.) Korm. rendelet 197. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^609]: A Vhr. 4. számú melléklet 8.1. pontja a 787/2021. (XII. 27.) Korm. rendelet 22. § b) pontjával megállapított szöveg.
+[^610]: A Vhr. 4. számú melléklet 8.2. alpontja a 466/2024. (XII. 30.) Korm. rendelet 32. § (3) bekezdésével megállapított szöveg.
+[^611]: A Vhr. 4. számú melléklet 9. pontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (3) bekezdésével megállapított szöveg.
+[^612]: A Vhr. 4. számú melléklet 9.8. pontja a 787/2021. (XII. 27.) Korm. rendelet 22. § b) pontjával megállapított szöveg.
