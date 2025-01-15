@@ -172,7 +172,7 @@
 
 ## Okirati ellenjegyzés/közjegyzői okirat elemei
 
-11. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^88]
+11. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^89]
 
 [^1.]: Az alapító okiratszövege csak ott és annyiban bővíthető vagy változtatható, amennyiben a minta azt kifejezetten megengedi. A szükség szerinti kitöltendő szövegrészek abban az esetben is a szerződésminta részét képezik, amennyiben ezen részek kitöltésére az adott cég esetében nem volt szükség.
 [^2.]: Szükség esetén kitöltendő.
@@ -194,4 +194,4 @@
 [^19.]: A Ptk. 3:38. § és 3:129-131 § esetén.
 [^20.]: Természetes személy esetén kell kitölteni.
 [^21.]: Szervezet esetén kell kitölteni.
-[^88]: A 11. számú mellékletet a 39/2015. (XII. 21.) IM rendelet 1. § (9) bekezdése iktatta be, szövege a 11/2023. (VII. 20.) IM rendelet 2. § (3) bekezdésével megállapított, a 19/2023. (XII. 12.) IM rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^89]: A 11. számú mellékletet a 39/2015. (XII. 21.) IM rendelet 1. § (9) bekezdése iktatta be, szövege a 11/2023. (VII. 20.) IM rendelet 2. § (3) bekezdésével megállapított, a 19/2023. (XII. 12.) IM rendelet 2. § (2) bekezdése szerint módosított szöveg.
