@@ -26,3 +26,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-191-20-
 | 2024-02-25 | 2014-191-20-22.18 | 31/2024. (II. 22.) Korm. rendelet |
 | 2024-06-01 | 2014-191-20-22.20 | 107/2024. (V. 9.) Korm. rendelet |
 | 2024-07-01 | 2014-191-20-22.19 | 104/2024. (V. 9.) Korm. rendelet |
+| 2025-01-15 | 2014-191-20-22.21 | 481/2024. (XII. 31.) Korm. rendelet |

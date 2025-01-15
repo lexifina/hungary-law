@@ -1,6 +1,9 @@
-12. § (1)[^40]
+12. §[^40] (1) Az árveréssel történő tulajdonszerzés hatósági jóváhagyására irányuló eljárást a mezőgazdasági igazgatási szerv a földforgalmi hatósági eljárásokat támogató informatikai rendszerben kitöltendő elektronikus űrlapon (a továbbiakban: elektronikus űrlap) létrehozott beadvánnyal kezdeményezi.
 
-(2)[^41] A földszerzést jóváhagyó hatósági hatáskörében eljáró fővárosi és vármegyei kormányhivatal a Földforgalmi törvény 35. § (5) bekezdése szerinti döntését a végleges árverési jegyzőkönyv, valamint az 5. § (1) bekezdés c)–d) pontja és a 8. § (3) bekezdése szerinti okiratok alapján hozza meg.
+(2) A beadványhoz csatolni kell a végleges árverési jegyzőkönyv, a Földforgalmi törvény 13–15. §-a szerinti – az ott előírt alakszerűségi előírásoknak megfelelő – nyilatkozatok, valamint a 8. § (3) bekezdése szerinti okiratok elektronikus másolatát.
 
-[^40]: A 12. § (1) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 133. § (3) bekezdés b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^41]: A 12. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 250. § (1) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 501. § b) pontja, az 523/2017. (XII. 29.) Korm. rendelet 13. § c) pontja, a 616/2022. (XII. 29.) Korm. rendelet 187. §-a szerint módosított szöveg.
+(3) A földszerzést jóváhagyó hatósági hatáskörében eljáró fővárosi és vármegyei kormányhivatal a Földforgalmi törvény 35. § (5) bekezdése szerinti döntését a végleges árverési jegyzőkönyv, valamint az 5. § (1) bekezdés c)–d) pontja és a 8. § (3) bekezdése szerinti okiratok alapján hozza meg.
+
+(4) A földszerzést jóváhagyó hatósági hatáskörében eljáró fővárosi és vármegyei kormányhivatal a Földforgalmi törvény 35. § (5) bekezdése szerinti záradékot külön dokumentumként állítja ki. A záradékszöveget tartalmazó dokumentum az árverési jegyzőkönyv elválaszthatatlan részét képezi.
+
+[^40]: A 12. § a 481/2024. (XII. 31.) Korm. rendelet 56. §-ával megállapított szöveg.
