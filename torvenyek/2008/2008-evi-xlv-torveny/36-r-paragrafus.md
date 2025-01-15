@@ -1,0 +1,7 @@
+## Ingatlan-nyilvántartási eljárásban felhasználandó, külföldön kiállított ügyleti meghatalmazás, jogi képviselet ellátására adott meghatalmazás vagy a közjegyzőkről szóló 1991. évi XLI. törvény (a továbbiakban: Kjtv.) 174/A. §-a szerinti felhatalmazás, illetve az ingatlan-nyilvántartás informatikai rendszerében tehető nyilatkozat rögzítése
+
+36/R. § (1) Az ingatlan-nyilvántartási eljárásban felhasználandó, külföldön kiállított ügyleti meghatalmazás, jogi képviselet ellátására adott meghatalmazás vagy a Kjtv. 174/A. §-a szerinti felhatalmazás, illetve az ingatlan-nyilvántartás informatikai rendszerében tehető nyilatkozat rögzítésére irányuló kérelemhez csatolni kell az ügyleti meghatalmazás, jogi képviselet ellátására adott meghatalmazás vagy a Kjtv. 174/A. §-a szerinti felhatalmazás, illetve az ingatlan-nyilvántartás informatikai rendszerében tehető nyilatkozat eredeti példányát vagy annak közjegyző által hitelesített másolatát.
+
+(2) Az eljárásra az a közjegyző illetékes, amelynek az illetékességi területén a meghatalmazott lakóhelye vagy tartózkodási helye van.
+
+(3) A külföldön kiállított ügyleti meghatalmazást, jogi képviselet ellátására adott meghatalmazást vagy a Kjtv. 174/A. §-a szerinti felhatalmazást, illetve az ingatlan-nyilvántartás informatikai rendszerében tehető nyilatkozatot a közjegyző akkor rögzíti az ingatlanügyi hatóság informatikai rendszerében, ha az okirat megfelel az ingatlan-nyilvántartásról szóló törvény külföldön kiállított okiratokra vonatkozó követelményeinek.
