@@ -36,7 +36,7 @@ c) családi vagyonfelügyelő megbízatásának megszűnését,
 
 d) a családi vagyonfelügyelő felhívását arra, hogy – az adós bevonásával, illetve a rendelkezésére álló adatok, iratok szerint – az adósságrendezési eljárást megszüntető végzés jogerőre emelkedésétől számított 30 napon belül készítsen záró beszámolót az adós vagyonának, jogainak, kötelezettségeinek az adósságrendezési eljárás alatti változásáról,
 
-e) a családi vagyonfelügyelő felhívását arra, hogy az adósságrendezési eljárást megszüntető végzés jogerőre emelkedésétől számított 8 napon belül a bírósági adósságrendezési eljárásra utaló bejegyzés törlését kezdeményezze azokból a hatósági nyilvántartásokból, ahová ez a külön törvények alapján bejegyzésre került, továbbá az eljárás megszüntetéséről értesítse az állami és az önkormányzati adóhatóságot, és az adós, adóstárs lakóhelye szerinti települési önkormányzat jegyzőjét,
+e) a Családi Csődvédelmi Szolgálat felhívását arra, hogy az adósságrendezési eljárást megszüntető végzés jogerőre emelkedésétől számított 8 napon belül a bírósági adósságrendezési eljárásra utaló adat törlését kezdeményezze azokból a hatósági nyilvántartásokból, ahová e törvény alapján bejegyzésre került, hatósági felhívással rendelje el az adósságrendezési eljárásra vonatkozó adat törlését az ingatlan-nyilvántartásból, továbbá az adósságrendezési eljárás megszüntetéséről értesítse az állami és az önkormányzati adóhatóságot, és az adós, adóstárs lakóhelye szerinti települési önkormányzat jegyzőjét,
 
 f) a Családi Csődvédelmi Szolgálat felhívását arra, hogy a bírósági adósságrendezési eljárást megszüntető végzés jogerőre emelkedésétől számított 5 napon – mint referenciaadat-szolgáltató – jelentse be a KHR-be az adósságrendezési eljárás megszüntetését,
 
