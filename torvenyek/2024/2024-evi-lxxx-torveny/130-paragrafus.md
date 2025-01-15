@@ -1,1 +1,1 @@
-### 130. §
+130. § Az egyes agrártárgyú törvények módosításáról szóló 2021. évi CL. törvény 100. §-ának a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény 13. § (1) bekezdését megállapító rendelkezése a „13–15. §-ában” szövegrész helyett a „13. és 14. §-ában” szöveggel lép hatályba.

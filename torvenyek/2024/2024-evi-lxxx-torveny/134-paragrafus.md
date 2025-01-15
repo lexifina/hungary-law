@@ -1,3 +1,3 @@
-## 23.
+## 23. A Magyarország biztonságát szolgáló egyes törvények módosításáról szóló 2022. évi L. törvény eltérő szöveggel történő hatályba léptetése
 
-### 134. §
+134. § A Magyarország biztonságát szolgáló egyes törvények módosításáról szóló 2022. évi L. törvény 41. §-ának a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény 32. § 6. pontját megállapító rendelkezése az „ingatlan-nyilvántartás és a földhasználati nyilvántartás” szövegrész helyett az „ingatlan-nyilvántartás, 2026. december 31-ig a földhasználati nyilvántartás, a földművesekről, a mezőgazdasági termelőszervezetekről és a mezőgazdasági üzemközpontokról vezetett nyilvántartás és a földvédelmi nyilvántartás” szöveggel lép hatályba.

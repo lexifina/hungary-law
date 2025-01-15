@@ -1,1 +1,3 @@
-### 89. §
+89. § A Fétv. XIV. Fejezete a következő 100/B. §-sal egészül ki:
+
+„100/B. § A földművesek, a mezőgazdasági termelőszervezetek és a mezőgazdasági üzemközpontok nyilvántartása informatikai fejlesztésével összefüggő adatmigráció során a nyilvántartás tartalmában keletkezett hibát – a hiba bármely módon történő észlelése esetén – a mezőgazdasági igazgatási szerv a bejegyzés helyesbítésével megszünteti. A bejegyzés helyesbítése történhet a bejegyzés kijavításával vagy kiegészítésével.”
