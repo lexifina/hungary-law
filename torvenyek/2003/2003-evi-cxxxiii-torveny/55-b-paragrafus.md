@@ -12,4 +12,4 @@ ad) jogi személy vagy jogi személyiséggel nem rendelkező szervezet esetén �
 
 b) a társasházközösség nevét.
 
-(2) A közös képviselő vagy az intézőbizottság elnöke a közgyűlés által elfogadott számviteli szabályok szerinti beszámolót benyújtja az ingatlanügyi hatósághoz. A beszámoló benyújtásának tényét az ingatlanügyi hatóság a társasház törzslapra feljegyzi.
+(2) A közös képviselő vagy az intézőbizottság elnöke a közgyűlés által elfogadott számviteli szabályok szerinti beszámolót benyújtja az ingatlanügyi hatósághoz. A beszámoló benyújtásának tényét az ingatlanügyi hatóság a társasház törzslapra bejegyzi.

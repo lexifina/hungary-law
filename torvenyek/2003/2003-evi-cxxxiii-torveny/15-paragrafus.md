@@ -1,1 +1,1 @@
-15. § A közösség – a 14. §-ban meghatározottak szerint – a szervezeti-működési szabályzatot bármikor módosíthatja. A szervezeti-működési szabályzatot, illetőleg annak módosítását az ingatlan-nyilvántartási iratokhoz kell csatolni.
+15. § A közösség – a 14. §-ban meghatározottak szerint – a szervezeti-működési szabályzatot bármikor módosíthatja. A szervezeti-működési szabályzatot, illetve annak módosítását a közösség 15 napon belül az ingatlanügyi hatóságnak annak okirattárba helyezése céljából benyújtja.
