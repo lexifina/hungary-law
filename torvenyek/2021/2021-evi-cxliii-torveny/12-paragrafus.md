@@ -1,6 +1,6 @@
 ## 8. A gazdaságátadási szerződés jóváhagyása
 
-12. § (1) A gazdaságátadásról szóló szerződést a megkötését követő hatvan napon belül jóváhagyás céljából be kell nyújtani a mezőgazdasági igazgatási szervhez. A hatósági jóváhagyásra vonatkozó eljárásra az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell alkalmazni. A mezőgazdasági igazgatási szerv eljárása során azt vizsgálja, hogy
+12. § (1) A gazdaságátadásról szóló szerződést a megkötését követő hatvan napon belül jóváhagyás céljából be kell nyújtani a mezőgazdasági igazgatási szervhez. A hatósági jóváhagyásra vonatkozó eljárásra az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell alkalmazni. A mezőgazdasági igazgatási szerv eljárása során – az (1a) bekezdésben foglaltak kivételével – azt vizsgálja, hogy
 
 a) a gazdaságátadó és a gazdaságátvevő megfelelnek-e az e törvényben előírt feltételeknek,
 
@@ -11,6 +11,8 @@ c) a 3. § (3) bekezdésében meghatározott esetben a mező- és erdőgazdaság
 d) a felek a Földforgalmi törvény 13. §-a és 42. §-a szerinti nyilatkozatokat a szerződésbe foglalták-e, valamint
 
 e) a felek megállapodása megfelel-e a jogszabályban előírt azon feltételeknek, amelyektől a felek nem térhetnek el.
+
+(1a) A 6. § (6) bekezdésében foglaltakat a tulajdonjognak az ingatlan-nyilvántartásba való bejegyzése, illetve a földhasználatnak a földhasználati nyilvántartásba vétele során az ingatlanügyi hatóság vizsgálja.
 
 (2) A gazdaságátadási szerződés jóváhagyása iránti eljárásban sommás eljárásnak nincs helye.
 

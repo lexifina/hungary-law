@@ -2,7 +2,7 @@
 
 2. § E törvény alkalmazásában:
 
-a) gazdaság: a gazdaság működtetését szolgáló,
+a) gazdaság: minden, a gazdaság működtetését szolgáló,
 
 aa) a gazdaságátadó tulajdonában vagy használatában álló mező-, erdőgazdasági hasznosítású föld – ideértve a tanyát is – a 3. § (3) bekezdésének figyelembevételével,
 
@@ -20,7 +20,7 @@ b) gazdaságátadó: az az öregségi nyugdíjkorhatárt elért vagy a szerződ�
 
 ba) saját vagy jogelődjének tevékenységi idejével egybeszámítva legalább 10 évig saját nevében és saját kockázatára mező-, erdőgazdasági tevékenységet, illetve kiegészítő tevékenységet folytatott, és ebből igazoltan árbevétele származott, valamint
 
-bb) a gazdaságátadási szerződésben meghatározott mező-, erdőgazdasági hasznosítású föld területe több mint háromnegyedének a gazdaságátadás időpontját megelőzően legalább 5 éve tulajdonosi földhasználója – az 5 éven belül szerzett mező-, erdőgazdasági hasznosítású föld kivételével –, vagy más jogcímen a földhasználati nyilvántartásba legalább 5 éve bejegyzett földhasználója, erdőgazdálkodói nyilvántartásba legalább 5 éve bejegyzett erdőgazdálkodója, ezen személy közeli hozzátartozója vagy a földhasználóként vagy erdőgazdálkodóként bejegyzett mezőgazdasági termelőszervezet legalább 25%-ban tulajdonosa.
+bb) a gazdaságátadási szerződésben meghatározott mező-, erdőgazdasági hasznosítású föld területe több mint háromnegyedének a gazdaságátadási szerződés megkötését megelőzően legalább 5 éve tulajdonosi földhasználója – az 5 éven belül szerzett mező-, erdőgazdasági hasznosítású föld kivételével –, vagy más jogcímen a földhasználati nyilvántartásba legalább 5 éve bejegyzett földhasználója, erdőgazdálkodói nyilvántartásba legalább 5 éve bejegyzett erdőgazdálkodója;
 
 c) gazdaságátvevő: az a gazdaságátadónál legalább tíz évvel fiatalabb, az 50. életévét el nem érő mezőgazdasági őstermelő vagy mező-, erdőgazdasági tevékenységet folytató egyéni vállalkozó, aki az átvenni kívánt gazdaság működtetésére a jogszabályban előírt feltételeknek megfelel és aki
 
@@ -29,3 +29,7 @@ ca) a gazdaságátadóval a családi gazdaságokról szóló törvényben meghat
 cb) a gazdaságátadóval legalább 7 éve munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban áll;
 
 d) munkavégzésre irányuló egyéb jogviszony: a bedolgozói munkaviszony, valamint a személyes közreműködéssel járó gazdasági társasági tevékenység.
+
+e) mező-, erdőgazdasági tevékenység: növénytermesztés, kertészet, állattartás, állattenyésztés, halgazdálkodás, szaporítóanyag-termesztés, vadgazdálkodás, erdőgazdálkodás, valamint a kiegészítő tevékenységgel vegyesen végzett gazdálkodás;
+
+f) kiegészítő tevékenység: a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény (a továbbiakban: Földforgalmi törvény) 5. § 14. pontja szerinti fogalom.

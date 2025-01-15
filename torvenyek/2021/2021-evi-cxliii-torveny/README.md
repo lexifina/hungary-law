@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-143-00-00
 | 2023-01-02 | 2010. évi CXXX. törvény | 2021-143-00-00.2 |
 | 2023-07-01 | 2023. évi XLIV. törvény | 2021-143-00-00.3 |
 | 2024-07-01 | 2024. évi XIX. törvény | 2021-143-00-00.4 |
+| 2025-01-15 | 2024. évi LXXX. törvény | 2021-143-00-00.5 |

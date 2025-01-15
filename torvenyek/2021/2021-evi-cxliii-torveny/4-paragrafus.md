@@ -4,7 +4,7 @@
 
 a) a gazdaságátadó mezőgazdasági üzemközpontja vagy lakóhelye szerint illetékes mezőgazdasági igazgatási szerv a földművesekről, a mezőgazdasági termelőszervezetekről, valamint a mezőgazdasági üzemközpontokról vezetett nyilvántartásból,
 
-b) a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara a mezőgazdasági őstermelői nyilvántartásból,
+b) a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara (a továbbiakban: Agrárkamara) a mezőgazdasági őstermelői nyilvántartásból,
 
 c) az élelmiszerlánc-felügyeleti szerv a gazdaságátadással érintett tevékenység vonatkozásában az élelmiszerlánc-felügyeleti információs rendszerből és
 

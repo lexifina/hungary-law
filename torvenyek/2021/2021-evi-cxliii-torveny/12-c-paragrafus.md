@@ -16,7 +16,17 @@ af) KAP tv. 10. § (2) bekezdés b) pontja szerinti támogatási azonosítója,
 
 ag) FELIR azonosítója,
 
-ah) kamarai tagsági azonosító száma,
+ah) Agrárkamara által adott tagsági azonosító száma,
+
+ai) egyéni vállalkozói nyilvántartási száma,
+
+aj) gazdaságátadási szerződés megkötésekor fennálló mezőgazdasági őstermelői státusza,
+
+ak) földművesnek minősülő természetes személyekről vezetett nyilvántartásba történő bejegyzéséről szóló döntés száma,
+
+al) erdőgazdálkodói kódja,
+
+am) statisztikai számjele,
 
 b) a gazdaságátvevő legmagasabb mezőgazdasági képzettsége,
 
@@ -34,7 +44,7 @@ h) a szerződés létrejöttének és módosításának dátuma,
 
 i) a gazdaság tulajdonjoga átruházásának időpontja,
 
-j) a gazdaság főtevékenysége (ÖVTJ besorolási főszámmal).
+j)
 
 (2) A mezőgazdasági igazgatási szerv a gazdaságátadó és a gazdaságátvevő (1) bekezdés a) és b) pontja szerinti adatait agrárpolitikai intézkedések tervezése és nyomon követése céljából jogosult kezelni.
 

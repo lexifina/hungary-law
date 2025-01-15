@@ -4,9 +4,9 @@
 
 a) a gazdaságátadási szerződés 3. § (1) bekezdése szerinti jellege alapján a feleket megillető jogokat és kötelezettségeket,
 
-b) a gazdaság egyes elemeinek pontos meghatározását, mező- és erdőgazdasági hasznosítású föld tulajdonjogának vagy használatának átengedése esetén a gazdaságátadó és a gazdaságátvevő Fétv. 13. § (1) és (2) bekezdésében meghatározott adatait, valamint erdőnek minősülő föld tulajdonjogának vagy használatának átengedése esetén az Evt. 19. § (2) bekezdés a) pontjában meghatározott adatait,
+b) a gazdaság egyes elemeinek pontos meghatározását, a gazdaságátadó és a gazdaságátvevő 12/C. § (1) bekezdés a) pont aa)–ae) alpontjában és b) pontjában, valamint, amennyiben rendelkezik vele, a 12/C. § (1) bekezdés a) pont af)–am) alpontjában meghatározott adatait,
 
-c) a gazdaság egyes elemeihez kapcsolódó hitel- és kölcsönszerződések, földhasználatra irányuló szerződések, egyéb polgári jogi szerződések, valamint a vagyonelemekhez kapcsolódó jogok és kötelezettségek felsorolását, és annak az igazolását, hogy a gazdaságátvevő megismerte az azokból fakadó jogokat és kötelezettségeket,
+c) a gazdaság egyes elemeihez kapcsolódó hitel- és kölcsönszerződések (ideértve a folyószámlához kapcsolódó hitelszerződéseket is), földhasználatra irányuló szerződések, egyéb polgári jogi szerződések, valamint a vagyonelemekhez kapcsolódó jogok és kötelezettségek felsorolását, és annak az igazolását, hogy a gazdaságátvevő megismerte az azokból fakadó jogokat és kötelezettségeket,
 
 d) a gazdaság egyes elemeihez kapcsolódó mező- és erdőgazdálkodási tevékenységek folytatására irányuló engedélyek, – ha a jogosultságok gyakorlása hatósági nyilvántartásba vételhez kötött – a kérelem benyújtására vonatkozó kötelezettségek felsorolását, és annak az igazolását, hogy a gazdaságátvevő megismerte az azokból fakadó jogokat és kötelezettségeket,
 

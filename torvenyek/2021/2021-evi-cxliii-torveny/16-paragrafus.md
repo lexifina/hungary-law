@@ -6,7 +6,7 @@
 
 16. § (1) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
-a) a gazdaságátadási szerződés részletes tartalmára és a gazdaságátadási szerződés hatósági jóváhagyási eljárására vonatkozó szabályokat,
+a) a gazdaságátadási szerződés részletes tartalmára, a gazdaságátadási szerződés hatósági jóváhagyási eljárására, valamint a jóváhagyást követő, kapcsolódó eljárásokra vonatkozó szabályokat,
 
 b) a mezőgazdasági igazgatási szerv által vezetett nyilvántartás személyes adatok körébe nem tartozó adattartalmát.
 
