@@ -1,7 +1,7 @@
-## IX. Fejezet[^9]
+## IX. Fejezet
 
-## 82.
+## AZ INGATLAN-NYILVÁNTARTÁS ADATAINAK FELHASZNÁLÁSA ÉS AZ ADATSZOLGÁLTATÁS
 
-157. §
+## 82. Tulajdonilap-másolat szolgáltatás
 
-[^9]: A IX. Fejezet a 171. § (2) bekezdése alapján 2025. január 15-én lép hatályba.
+157. § Tulajdonilap-másolatot bármely személy igényelhet az ingatlan-nyilvántartásban szereplő bármely ingatlanról, az 5. melléklet szerinti adattartalmú kérelem előterjesztésével.

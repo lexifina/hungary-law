@@ -1,1 +1,1 @@
-156. §
+156. § Ha az ingatlanügyi hatóság tudomására jut, hogy a kötelezett az Inytv. 29. § (1) bekezdésében foglalt bejelentési kötelezettségének határidőn belül nem tett eleget, határidő tűzésével ennek pótlására kötelezi.

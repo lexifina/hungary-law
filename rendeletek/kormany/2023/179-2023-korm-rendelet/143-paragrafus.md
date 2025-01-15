@@ -1,7 +1,13 @@
-## VIII. Fejezet[^8]
+## VIII. Fejezet
 
-## 75.
+## A VÁLTOZÁS VEZETÉSÉNEK KÜLÖNÖS SZABÁLYAI
 
-143. §
+## 75. Bírósági elrendelés, hatósági felhívás
 
-[^8]: A VIII. Fejezet a 171. § (2) bekezdése alapján 2025. január 15-én lép hatályba.
+143. § A bírósági elrendelésnek és hatósági felhívásnak tartalmaznia kell
+
+a) a bejegyzést elrendelő bíróság vagy hatósági felhívást kiadó hatóság nevét és címét,
+
+b) az érintett település nevét, az érintett ingatlan fekvését és helyrajzi számát, továbbá
+
+c) annak a jognak, ténynek vagy adatnak a megjelölését, amelynek bejegyzésére, illetve törlésére a bírósági elrendelés vagy a hatósági felhívás irányul.

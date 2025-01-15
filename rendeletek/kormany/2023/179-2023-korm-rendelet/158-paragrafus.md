@@ -1,1 +1,1 @@
-158. §
+158. § Közfeladatot, igazságszolgáltatási tevékenységet ellátó szervezet, továbbá nyomozóhatóság, ügyészség a feladatellátásához szükséges tulajdonilap-másolatot köteles az elektronikus ingatlan-nyilvántartási rendszeren keresztül beszerezni.

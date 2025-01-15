@@ -1,1 +1,1 @@
-117. §
+117. § A szerződő feleknek a kérelem visszavonása vagy módosítása iránti kérelmét a közös nyilatkozat és szükség esetén a hozzájárulás alapján az eljáró jogi képviselő ingatlan-nyilvántartási elektronikus űrlap alkalmazásával nyújtja be.

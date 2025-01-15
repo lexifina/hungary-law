@@ -1,1 +1,3 @@
-17. §
+17. § (1) Ha a hatósági engedélyhez vagy jóváhagyáshoz (a továbbiakban együtt: engedély) kötött hasznosítást az ingatlan-nyilvántartásban rögzített művelési ágtól eltérően, engedély nélkül vagy az engedélytől eltérően hajtották végre, az ingatlanügyi hatóság a változás bejegyzését megelőzően értesíti azt a hatóságot, amelynek hatáskörébe tartozik az előírt engedély megadása. Az ingatlanügyi hatóság a művelésiág-változást akkor jegyzi be, ha az érintett hatóság – a rá irányadó engedélyezési határidő figyelembevételével – az engedélyt megadja.
+
+(2) A szőlő termőhelyi kataszterbe sorolt területen gyümölcsös, erdő vagy fásítás telepítésével, faiskola, halastó és nádas létesítésével történt művelésiág-változást bejegyezni csak a szőlészetről és borászatról szóló 2020. évi CLXIII. törvény 2. § (4) bekezdése alapján megadott hegyközségi hozzájárulással lehetséges.

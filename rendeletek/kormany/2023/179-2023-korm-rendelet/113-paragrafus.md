@@ -1,1 +1,1 @@
-113. §
+113. § Az eljárásban a jogi képviselő képviseleti jogosultságát közjegyző esetén a közjegyzőkről szóló 1991. évi XLI. törvény 174/A. §-a szerinti, ingatlan-nyilvántartási elektronikus űrlapon létrehozott felhatalmazással (a továbbiakban: felhatalmazás), ügyvéd vagy kamarai jogtanácsos esetén az Üttv. 39/A. § (2) bekezdése szerinti, ingatlan-nyilvántartási elektronikus űrlapon létrehozott meghatalmazással (a továbbiakban: ügyvédi meghatalmazás) kell igazolni.

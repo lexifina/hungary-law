@@ -1,1 +1,1 @@
-60. §
+60. § Ha ugyanazon követelés biztosítására különböző tulajdoni lapokon nyilvántartott ingatlanokra kell a jelzálogjogot bejegyezni (egyetemleges jelzálogjog), a bejegyzésben az egyetemlegességre mindegyik tulajdoni lapon utalni kell.

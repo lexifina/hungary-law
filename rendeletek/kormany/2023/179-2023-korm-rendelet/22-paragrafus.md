@@ -1,7 +1,7 @@
-## III. Fejezet[^3]
+## III. Fejezet
 
-## 19.
+## A TULAJDONI LAP ÉS A TULAJDONILAP-MÁSOLAT
 
-22. §
+## 19. A tulajdoni lap
 
-[^3]: A III. Fejezet a 171. § (2) bekezdése alapján 2025. január 15-én lép hatályba.
+22. § A tulajdoni lap három részből áll.

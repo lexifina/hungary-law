@@ -1,7 +1,29 @@
-## I. Fejezet[^1]
+## I. Fejezet
 
-## 1.
+## AZ INGATLAN. A MŰVELÉSI ÁGAK ÉS A MŰVELÉS ALÓL KIVETT TERÜLETEK
 
-1. §
+## 1. Az ingatlan nyilvántartásának szabályai
 
-[^1]: Az I. Fejezet a 171. § (2) bekezdése alapján 2025. január 15-én lép hatályba.
+1. § Az ingatlan-nyilvántartás az ingatlanhoz kapcsolódó következő adatokat tartalmazza:
+
+a) a település nevét, ahol az ingatlan található,
+
+b) az ingatlan
+
+ba) fekvését,
+
+bb) központi címregiszterből automatikus adatátvétel útján átvett, valamint – közterület és forgalom elől el nem zárt magánút esetén – az ingatlanügyi hatóság által bejegyzett címadatát,
+
+bc) helyrajzi számát,
+
+bd) területnagyságát,
+
+be) művelési ágát vagy a művelés alól kivett terület megnevezését,
+
+bf) minőségi osztályát,
+
+bg) kataszteri tisztajövedelmét,
+
+bh) az ingatlan jogi jellegét,
+
+bi) ingatlan-nyilvántartási szempontból szükséges egyéb adatát.

@@ -1,1 +1,1 @@
-100. §
+100. § A szőlő termőhelyi kataszterbe sorolt területen termőföld más célú hasznosításával történt művelésiág-változás bejegyzéséhez a szőlészetről és borászatról szóló 2020. évi CLXIII. törvény 2. § (4) bekezdése alapján megadott hegyközségi hozzájárulás szükséges.

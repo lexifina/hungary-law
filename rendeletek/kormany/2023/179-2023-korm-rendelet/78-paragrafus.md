@@ -1,1 +1,1 @@
-78. §
+78. § Az Inytv. 69. § (1)–(4) bekezdése szerinti esetekben a perbejegyzésben kiegészítő szöveges bejegyzésként fel kell tüntetni azt is, hogy a bíróság a perbejegyzést követően érkezett beadványok intézésére irányuló ingatlan-nyilvántartási eljárások felfüggesztését rendelte el.

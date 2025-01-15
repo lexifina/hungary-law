@@ -1,3 +1,1 @@
-173. §[^12]
-
-[^12]: A 173. § a 171. § (2) bekezdése alapján 2025. január 15-én lép hatályba.
+173. § E rendelet 21. § 44. pontja és 25. § (2) bekezdés 43. pontja a fizetésképtelenségi eljárásról szóló, 2015. május 20-i (EU) 2015/848 európai parlamenti és tanácsi rendelet 29. cikkének végrehajtásához szükséges rendelkezéseket állapítja meg.

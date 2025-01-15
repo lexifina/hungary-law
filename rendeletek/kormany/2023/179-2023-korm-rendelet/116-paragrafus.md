@@ -1,1 +1,5 @@
-116. §
+116. § (1) A felhatalmazás vagy ügyvédi meghatalmazás a 115. § (6) és (7) bekezdésében, valamint e § (2) és (3) bekezdésben meghatározott kivétellel hatályát veszíti és nem használható fel, ha a kérelmet, amelyre vonatkozik a meghatalmazást vagy felhatalmazást utolsóként aláíró személy általi aláírás vagy hitelesítés megtételétől számított kilencven napon belül nem terjesztik elő.
+
+(2) Tulajdonjog-fenntartással történt adásvétel esetén a tulajdonjog bejegyzésére vonatkozó meghatalmazás vagy felhatalmazás a felek megállapodása szerint az adásvétel teljesedésbe menésére vonatkozóan meghatározott ideig, határozatlan időre alapított vevői jog esetén legfeljebb öt évig hatályos, és az adott ügyletben szereplő vevő tulajdonjogának bejegyzése iránti eljárásban felhasználható.
+
+(3) Jövőbeli épületre vonatkozó vevői jog bejegyzése esetén a vevő tulajdonjogának bejegyzésére vonatkozó meghatalmazás vagy felhatalmazás a felek megállapodása szerinti határozott ideig, határozatlan időre alapított vevői jog esetén legfeljebb öt évig hatályos, és az adott ügyletben szereplő vevő megépült épületre vonatkozó tulajdonjogának bejegyzése iránti eljárásban felhasználható.

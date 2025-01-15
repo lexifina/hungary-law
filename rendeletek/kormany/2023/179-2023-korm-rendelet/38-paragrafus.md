@@ -1,1 +1,1 @@
-38. §
+38. § A szemle tulajdonilap-másolat és a teljes tulajdonilap-másolat a jogosult természetes személy természetes személyazonosító adatai közül kizárólag a családi és utónevét, valamint születési évét tartalmazza.

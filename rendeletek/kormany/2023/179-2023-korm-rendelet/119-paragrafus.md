@@ -1,1 +1,1 @@
-119. §
+119. § Az ingatlan-nyilvántartási eljárásban az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) 45. § (5) bekezdése alkalmazásának, bejegyzés alapjául szolgáló okirat ügyfél nyilatkozatával történő pótlásának, valamint az eljárás szünetelésének nincs helye.

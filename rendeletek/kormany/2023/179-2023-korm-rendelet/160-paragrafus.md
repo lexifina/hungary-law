@@ -1,1 +1,1 @@
-160. §
+160. § A számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait igénybe vevők adatlekérdezéseinek jogszerűségét és a biztonsági előírások betartását az ingatlanügyi hatóság és a rendszer üzemeltetője ellenőrizheti.

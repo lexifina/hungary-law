@@ -1,3 +1,10 @@
-172. §[^11]
+172. § (1)[^103] Azon ingatlan esetében, amelyre e kormányrendelet hatálybalépése előtt az Adattárban erdőként nyilvántartott terület jogi jelleget jegyeztek fel, az ingatlan tulajdonosa 2025. június 30. napjáig bejelentheti az ingatlanügyi hatóságnál, hogy a jogi jelleg megalapozottságát vitatja (a továbbiakban: tulajdonosi bejelentés).
 
-[^11]: A 172. § a 171. § (2) bekezdése alapján 2025. január 15-én lép hatályba.
+(2) A tulajdonosi bejelentést – a tulajdonosi bejelentés tényének bejegyzését követően – az ingatlanügyi hatóság a beérkezéstől számított 8 napon belül az illetékes erdészeti hatósághoz továbbítja. Az erdészeti hatóság a jogi jelleg megalapozottságát megvizsgálja, és annak fenntartásáról vagy törlése elrendeléséről határozattal dönt.
+
+(3)[^104] Azon ingatlant, amelyre vonatkozóan az (1) bekezdésben meghatározott időpontig tulajdonosi bejelentés nem érkezik, vagy amely ingatlan esetében az Adattárban erdőként nyilvántartott terület jogi jelleget az erdészeti hatóság fenntartja, – a 2. § (3) bekezdésében meghatározott kivétellel – 2025. november 1. napjától erdő művelési ágban kell nyilvántartani.
+
+(4) Az ingatlanügyi hatóság az ingatlan erdő művelési ágának bejegyzésével egyidejűleg az Adattárban erdőként nyilvántartott terület jogi jelleget, valamint a tulajdonosi bejelentés tényét törli a tulajdoni lapról.
+
+[^103]: A 172. § (1) bekezdése a 287/2024. (IX. 30.) Korm. rendelet 22. § 14. pontja szerint módosított szöveg.
+[^104]: A 172. § (3) bekezdése a 287/2024. (IX. 30.) Korm. rendelet 22. § 15. pontja szerint módosított szöveg.

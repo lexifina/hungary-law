@@ -1,1 +1,1 @@
-62. §
+62. § Ha a jelzálogjog jogosultja zálogjogosulti bizományost jelölt ki, a jelzálogjogi bejegyzésben a zálogjogosulti bizományost kell feltüntetni az 58. §-ban megjelölt adatok és a zálogjogosulti bizományos minőségének megjelölése mellett. A zálogjogosulti bizományos bejegyzésével egyidejűleg törölni kell azt a – már bejegyzett – zálogjogosultat, akinek a javára a zálogjogosulti bizományos eljár.

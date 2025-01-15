@@ -1,1 +1,9 @@
-132. §
+132. § (1) A tulajdonos akkor is kérhet megosztást, ha egyidejűleg nem kéri valamely jog bejegyzését.
+
+(2) A megosztás vagy összevonás során megszűnő ingatlan tulajdoni lapját meg kell szüntetni, a létrejövő és a változási vázrajzon új helyrajzi számmal jelölt ingatlanoknak új tulajdoni lapot kell nyitni. A változásra a megszűnő és a keletkező tulajdoni lapok III. részén utalni kell. Az utalásnak tartalmaznia kell az érdemi döntés számát, valamint a megszűnt és keletkező ingatlanok helyrajzi számát.
+
+(3) Törvény eltérő rendelkezése hiányában, közös tulajdon megszüntetésével kapcsolatos megosztás esetében, ha az egyes tulajdonostársak tulajdoni illetőségei különböző módon vannak megterhelve, ezeket a bejegyzéseket – a jogosult hozzájárulásával – annak a tulajdonostársnak a kizárólagos tulajdonába került ingatlanára kell átvinni, akinek az a tulajdoni illetőségét korábban terhelte. A hozzájárulást vélelmezni kell, ha a jogosult az ingatlanügyi hatóság által kitűzött határidőn belül nem nyilatkozik. Hozzájárulás hiányában az említett bejegyzéseket a megosztás folytán keletkezett valamennyi ingatlanra át kell vinni olyan arányban, ahogyan azok a megosztás előtti ingatlanra kiterjedtek.
+
+(4) Megterhelt ingatlanhoz szintén megterhelt ingatlant a terhek átvitelével egy ingatlanná történő összevonás céljából hozzájegyezni csak akkor szabad, ha az érdekeltek az ingatlanokat terhelő jogok egymás közötti rangsorára nézve közokiratban, illetve ügyvéd vagy kamarai jogtanácsos által ellenjegyzett magánokiratban megállapodnak.
+
+(5) Törvény eltérő rendelkezése hiányában egy vagy több mező- és erdőgazdasági hasznosítású földnek minősülő, önálló helyrajzi számú ingatlant érintő telekalakítás ingatlan-nyilvántartási bejegyzésekor, ha a telekalakítás következtében valamelyik tulajdonos tulajdoni hányadát képező földterület nagysága meghaladja az ingatlan-nyilvántartásban a kiinduló állapot szerinti tulajdoni hányadból számítható területnagyságot, igazolni kell, hogy a többletterület megszerzésére vonatkozóan a Földforgalmi tv. szerinti hatósági jóváhagyás megtörtént.

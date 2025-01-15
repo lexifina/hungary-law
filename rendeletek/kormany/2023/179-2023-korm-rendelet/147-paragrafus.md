@@ -1,1 +1,1 @@
-147. §
+147. § Az ingatlanok adatainak megváltozását eredményező eljárás lefolytatása során állami földmérési térképi adatbázist, területjegyzéket és át-helyrajziszámozás esetén azonosítási jegyzéket kell készíteni (a továbbiakban: munkarészek).

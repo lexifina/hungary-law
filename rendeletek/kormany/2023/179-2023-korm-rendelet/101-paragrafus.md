@@ -1,1 +1,1 @@
-101. §
+101. § A 95. § b) és c) pontja, a 96. § a)–c) pontja, a 97. § (1) bekezdés a) és b) pontja, a 97. § (2) bekezdés a), b) és d) pontja, valamint a 98–100. § szerintiek igazolásához dokumentum az ügyféltől nem kérhető.

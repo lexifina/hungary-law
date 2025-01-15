@@ -1,1 +1,1 @@
-41. §
+41. § Azon ingatlanok esetében, amelyek a védett természeti területek védettségi szintjének helyreállításáról szóló 1995. évi XCIII. törvény 7. § a) pontjának hatálya alá tartoznak, a tulajdonjogot a magyar állam javára attól függetlenül lehet bejegyezni, hogy a termelőszövetkezeti földhasználati jog alatt álló földrészletek tulajdonjogának rendezéséről és egyes földügyi tárgyú törvények módosításáról szóló 2020. évi XL. törvény 6. §-a szerinti kártalanításra jogosult az ingatlan-nyilvántartásban bejegyzett tulajdonosként nem szerepel.

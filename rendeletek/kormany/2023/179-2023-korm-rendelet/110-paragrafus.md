@@ -1,1 +1,1 @@
-110. §
+110. § Ha a magánokirathoz melléklet is tartozik, akkor a melléklet valamennyi lapjára vonatkozóan is alkalmazni kell az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény (a továbbiakban: Üttv.) 43. § (2) bekezdés b) pontjában foglaltakat.

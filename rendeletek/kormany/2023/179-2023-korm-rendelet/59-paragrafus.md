@@ -1,1 +1,1 @@
-59. §
+59. § Jelzálogjog bejegyzése alapjául szolgáló okiratnak kell tekinteni a zálogkötelezett bejegyzési engedélyét is, ha az egyedileg meghatározza a zálogtárgyat, és a zálogkötelezett az ingatlannak vagy a jognak ingatlan-nyilvántartásba bejegyzett tulajdonosa vagy jogosultja, továbbá a bejegyzési engedély rendelkezik mindazon alaki és tartalmi kellékekkel, amelyeket az Inytv. a bejegyzés alapjául szolgáló okiratokra vonatkozóan előír.
