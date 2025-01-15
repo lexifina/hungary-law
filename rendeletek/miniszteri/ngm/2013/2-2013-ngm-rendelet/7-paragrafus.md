@@ -6,7 +6,7 @@ b) 35 kV felett 500 kV névleges feszültségszintig 10 méter,
 
 c) 500 kV névleges feszültségszint felett 15 méter
 
-## távolságban lévő függőleges síkokig terjed.
+távolságban lévő függőleges síkokig terjed.
 
 (2) Föld feletti vagy föld alatti épületben, építményben elhelyezett átalakító és kapcsoló berendezés biztonsági övezetét a berendezés falai határolják.
 

@@ -24,7 +24,7 @@ jobban ne közelítse meg,
 
 c) tetőteraszon és erkélyen csak jó elektromos szigetelő anyagú zsinór feszíthető ki kizárólag a padlózattól mért 2 méter magasságig úgy, hogy a kifeszített zsinór a tetőterasz, erkély szélén nem nyúlik túl,
 
-d) szilárd burkolatú úton csak 4,5 méternél, de legfeljebb a magasságkorlátozó táblán feltüntetett magasságnál, ezen kívüli területen csak 4 méternél alacsonyabb építésű vagy ezzel azonos magasságig anyaggal rakott jármű közlekedhet, dolgozhat; e magasságot a rakomány, a járművön szállított személy, szerszám legmagasabbra nyúló része, valamint a jármű működés közben sem haladhatja meg; a jármű legkiállóbb része az oszlopot, annak kikötését, ezek alapozását úgy közelítheti meg, hogy azokban károsodást ne okozzon, az áramvezetőket pedig a legkedvezőtlenebb helyzetben és esetben sem közelítheti meg sem vízszintesen, sem függőlegesen jobban, mint:
+d)[^5] szilárd burkolatú úton csak 4,5 méternél, de legfeljebb a magasságkorlátozó táblán feltüntetett magasságnál, ezen kívüli területen csak 5 méternél alacsonyabb építésű vagy ezzel azonos magasságig anyaggal rakott jármű közlekedhet, dolgozhat; e magasságot a rakomány, a járművön szállított személy, szerszám legmagasabbra nyúló része, valamint a jármű működés közben sem haladhatja meg; a jármű legkiállóbb része az oszlopot, annak kikötését, ezek alapozását úgy közelítheti meg, hogy azokban károsodást ne okozzon, az áramvezetőket pedig a legkedvezőtlenebb helyzetben és esetben sem közelítheti meg sem vízszintesen, sem függőlegesen jobban, mint:
 
 da) 500 kV névleges feszültségszint felett 7 méter,
 
@@ -58,7 +58,7 @@ a legkedvezőtlenebb helyzetben és esetben sem közelítheti meg és a használ
 
 i) acélra, alumíniumra, betonra agresszív vegyi anyagokat, károsodást okozó koncentrációban a szerkezetre kijuttatni nem szabad, a fúvás, permetezés során az eszköz az áramvezetőket a h) pontban meghatározott távolságok 1 méterrel megnövelt értékénél jobban a legkedvezőtlenebb helyzetben és esetben sem közelítheti meg,
 
-j)[^5] fa vagy más növény akkor telepíthető, hagyható meg, ha véglegesen kifejlett állapotában
+j)[^6] fa vagy más növény akkor telepíthető, hagyható meg, ha véglegesen kifejlett állapotában
 
 ja) 500 kV névleges feszültségszint felett 6 méternél, gyümölcsfa esetében 9,5 méternél,
 
@@ -74,7 +74,7 @@ jf) 1 kV-nál nem nagyobb névleges feszültségszintnél 1 méternél
 
 jobban annak legkedvezőtlenebb helyzetében sem közelíti meg az áramvezetőt.
 
-k)[^6] fa vagy más növény akkor telepíthető, hagyható meg, ha véglegesen kifejlett állapotában
+k)[^7] fa vagy más növény akkor telepíthető, hagyható meg, ha véglegesen kifejlett állapotában
 
 ka) a gyökérzet a földben elhelyezett vezetéket vagy a föld feletti vezeték tartószerkezetét nem károsítja, és
 
@@ -122,5 +122,6 @@ bc) az árnyékolást és a földelést (a továbbiakban együtt: védelmek) az 
 
 (8) A mozgásképtelenné vált járművet vagy vontatójáról leakasztott vontatmányt (a továbbiakban együtt: mozgásképtelen jármű) a biztonsági övezetből mielőbb el kell vontatni. A kivontatás megkezdéséig a mozgásképtelen járművet letűző-földelő berendezéssel le kell földelni. Ha erre azonnal nincs mód, a mozgásképtelen járművet a földelés elkészítéséig őrizni kell, hogy azt kívülről senki ne érinthesse meg. A mozgásképtelen jármű elvontatásának műveleti sorrendjét az 1. melléklet 8. pontja tartalmazza.
 
-[^5]: A 13. § (2) bekezdés j) pont nyitó szövegrésze a 49/2021. (X. 1.) ITM rendelet 10. §-a szerint módosított szöveg.
-[^6]: A 13. § (2) bekezdés k) pontját a 49/2021. (X. 1.) ITM rendelet 6. §-a iktatta be.
+[^5]: A 13. § (2) bekezdés d) pont nyitó szövegrésze az 57/2024. (XII. 31.) NGM rendelet 1. §-a szerint módosított szöveg.
+[^6]: A 13. § (2) bekezdés j) pont nyitó szövegrésze a 49/2021. (X. 1.) ITM rendelet 10. §-a szerint módosított szöveg.
+[^7]: A 13. § (2) bekezdés k) pontját a 49/2021. (X. 1.) ITM rendelet 6. §-a iktatta be.

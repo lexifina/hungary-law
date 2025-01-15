@@ -1,8 +1,6 @@
-## 21–22. §[^12]
-
 1. melléklet a 2/2013. (I. 22.) NGM rendelethez
 
-## Az 500 kV névleges feszültség feletti föld feletti vezeték biztonsági övezetében használt járművekre és munkagépekre vonatkozó védelmek megvalósítása
+Az 500 kV névleges feszültség feletti föld feletti vezeték biztonsági övezetében használt járművekre és munkagépekre vonatkozó védelmek megvalósítása
 
 ## A rendelet 13. § (6) bekezdés b) pont ba) és bb) alpontjában előírt védelmeket a következők szerint kell megvalósítani:
 
@@ -83,5 +81,3 @@ b) a vontatóval meg kell közelíteni a mozgásképtelen járművet és az öss
 c) a vontatót és a mozgásképtelen járművet össze kell kapcsolni,
 
 d) közvetlenül a vontatás előtt szabad az összekötő vezetőt – bármilyen sorrendben – eltávolítani, majd a mozgásképtelen jármű földelését a 7. pont d) alpontjának előírásai szerint kell lebontani; ezután a vontatót és a mozgásképtelen járművet földön állva megérinteni és azokról leszállni, azokra felszállni nem szabad.
-
-[^12]: A 21–22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
