@@ -1,49 +1,109 @@
-6. számú melléklet a 356/2007. (XII. 23.) Korm. rendelethez[^168]
+6. melléklet a 356/2007. (XII. 23.) Korm. rendelethez[^163]
 
-A papír alapú földhasználati összesítő kiadása iránti kérelem tartalma
+A fölhasználati lap másolat kiadása iránti kérelem tartalma
 
-I. A kérelem benyújtására szolgáló nyomtatványon a kérelmező által megadandó tartalmi elemek:
+1. A kérelmet benyújtó természetes személy
 
-1. A kérelmező földhasználó adatai:
+1.1. természetes személyazonosító adatai,
 
-1.1. A természetes személy földhasználó
+1.2. személyi azonosítója,
 
-a) természetes személyazonosító adatai,
+1.3. állampolgársága,
 
-b) személyi azonosítója,
+1.4. lakcíme,
 
-c) lakcíme.
+1.5. értesítési adatai (megegyezik a lakcímmel, vagy értesítési cím vagy kézbesítési megbízott megadása).
 
-1.2. A gazdálkodó szervezet földhasználó
+2. Annak jelölése, hogy a benyújtó saját nevében, meghatalmazással vagy törvényes képviselőként jár el, és amennyiben nem saját nevében jár el, a törvényes képviselet formájának megadása vagy nyilatkozat arról, hogy rendelkezik meghatalmazással a kérelmezőtől, és rendelkezik hozzájárulással a képviselt adatainak megismeréséhez.
 
-a) megnevezése,
+3. A kérelmező adatai:
 
-b) székhelye (telephelye),
+3.1. a természetes személy kérelmező
 
-c) statisztikai azonosítója (törzsszám),
+3.1.1. természetes személyazonosító adatai,
 
-d) képviseletében eljáró személy családi és utóneve, lakcíme,
+3.1.2. személyi azonosítója,
 
-e) bélyegzőlenyomata.
+3.1.3. állampolgársága,
 
-2. Nyilatkozat arról, hogy a kérelmező a kérelmet, mint földhasználó a saját használatában lévő területekről készített földhasználati összesítő kiadása iránt nyújtja be.
+3.1.4. lakcíme,
 
-3. A természetes személy földhasználó nyilatkozata arról, miszerint tudomásul veszi, hogy a földhasználati összesítő személyi azonosítója alapján kerül összeállításra.
+3.1.5. értesítés módja (megegyezik a lakcímmel, vagy értesítési cím vagy kézbesítési megbízott megadása),
 
-4. A gazdálkodó szervezet földhasználó nyilatkozata arról, miszerint tudomásul veszi, hogy a földhasználati összesítő a statisztikai azonosítója alapján kerül összeállításra.
+3.2. gazdálkodó szervezet kérelmező
 
-5. A kérelmező aláírása.
+3.2.1. teljes és rövidített megnevezése,
 
-II. A kérelem benyújtására szolgáló nyomtatványon az ingatlanügyi hatóság által feltüntetendő tartalmi elemek:
+3.2.2. honossága,
 
-1. Az ingatlanügyi hatóság bélyegzője
+3.2.3. nyilvántartó hatóság megnevezése,
 
-2. A kérelem érkezési ideje
+3.2.4. nyilvántartási száma,
 
-3. Iktatószám
+3.2.5. adószáma,
 
-4. Annak megjelölése, hogy befizetésre került-e az igazgatási szolgáltatási díj
+3.2.6. statisztikai azonosítója,
 
-5. Az ügyintéző aláírása
+3.2.7. székhelye (telephelye, fióktelepe),
 
-[^168]: A 6. számú mellékletet a 473/2013. (XII. 12.) Korm. rendelet 13. § (3) bekezdése iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 116. § c) pontja, a 360/2019. (XII. 30.) Korm. rendelet 57. § (3) bekezdés d) és i) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+3.2.8. telefonszáma,
+
+3.2.9. értesítési adatok (megegyezik a székhely címmel, vagy értesítési cím vagy kézbesítési megbízott megadása).
+
+4. A kérelmező jogállása: a kérelmező a kérelmet, mint földhasználó a saját földhasználati lapja másolatának kiadása iránt nyújtotta-e be.
+
+5. A kérelmezett földhasználati lap másolat típusa:
+
+5.1. a földhasználati lap teljes másolata papír alapon,
+
+5.2. a földhasználati lap teljes szemle-másolata papír alapon,
+
+5.3. a földhasználati lap részleges másolata papír alapon,
+
+5.4. a földhasználati lap részleges szemle-másolata papír alapon,
+
+5.5. a földhasználati lap teljes másolata elektronikus formában,
+
+5.6. a földhasználati lap teljes szemle-másolata elektronikus formában,
+
+5.7. a földhasználati lap részleges másolata elektronikus formában,
+
+5.8. a földhasználati lap részleges szemle-másolata elektronikus formában.
+
+6. A lekérdezéssel érintett földhasználó adatai:
+
+6.1. természetes személy földhasználó neve,
+
+6.2. jogi személy vagy szervezet földhasználó megnevezése.
+
+7. Teljes földhasználati lapnak a 19/A. § (2) bekezdés a) pontja szerinti szerv általi lekérése esetén:
+
+7.1. a kérelmet megalapozó jogszabályhely megjelölése,
+
+7.2. az ügyiratszám megadása.
+
+8. Nyilatkozat díjmentességről.
+
+9. Részleges földhasználati lap másolat iránti kérelem esetén a keresés típusának megadása (helyrajzi szám szerint vagy cím szerint), és a keresés típusától függően a település neve, földrészlet fekvése és helyrajzi száma vagy címe.
+
+10. Papír alapú földhasználati lap másolat esetén a kérelmezett földhasználati lap másolatok száma.
+
+11. Számlázási adatok megadása
+
+11.1. számla típusa:
+
+11.1.1. elektronikus,
+
+11.1.2. papír alapú,
+
+11.2. számlázási név,
+
+11.3. számlázási cím,
+
+11.4. bankszámlaszám.
+
+12. Fizetési mód megadása.
+
+13. A benyújtó aláírása és az aláírás dátuma.
+
+[^163]: A 6. számú mellékletet a 473/2013. (XII. 12.) Korm. rendelet 13. § (3) bekezdése iktatta be, szövege a 481/2024. (XII. 31.) Korm. rendelet 19. § (6) bekezdésével megállapított szöveg.

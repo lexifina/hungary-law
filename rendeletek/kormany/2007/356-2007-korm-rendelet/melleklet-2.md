@@ -1,105 +1,87 @@
-## A bejelentési adatlap tartalma
+2. melléklet a 356/2007. (XII. 23.) Korm. rendelethez[^159]
 
-## I. A bejelentési adatlapon a bejelentő által megadandó tartalmi elemek:
+A földhasználati lap II. részében szereplő adatok változás-bejelentésére szolgáló adatlap tartalma
 
-## 1. A földhasználó adatai:
+1. Előzmény ügy iktatószáma (opcionális)
 
-## 1.1. a természetes személy bejelentő
+2. A benyújtó adatai:
 
-## a) természetes személyazonosító adatai,
+2.1. természetes személyazonosító adatai,
 
-## b) személyi azonosítója,
+2.2. személyi azonosítója,
 
-## c) állampolgársága,
+2.3. állampolgársága,
 
-## d) lakcíme.
+2.4. lakcíme,
 
-## 1.2. a gazdálkodó szervezet bejelentő
+2.5. értesítés módja (megegyezik a lakcímmel, vagy értesítési cím vagy kézbesítési megbízott megadása).
 
-## a) megnevezése,
+3. Annak jelölése, hogy a benyújtó saját nevében, meghatalmazással vagy törvényes képviselőként jár el, és amennyiben nem saját nevében jár el, a törvényes képviselet formájának megadása vagy nyilatkozat arról, hogy rendelkezik meghatalmazással a kérelmezőtől, és rendelkezik hozzájárulással a képviselt adatainak megismeréséhez.
 
-## b) statisztikai azonosítója (törzsszám),
+4. Ha a benyújtó nem saját nevében jár el, a földhasználó következő adatai:
 
-## c) cég esetében a cégjegyzékszám,
+4.1. a természetes személy földhasználó
 
-## d) székhelye (telephelye),
+4.1.1. természetes személyazonosító adatai,
 
-## e) képviseletében eljáró személy családi és utóneve, lakcíme,
+4.1.2. személyi azonosítója,
 
-## f) bélyegzőlenyomata.
+4.1.3. állampolgársága,
 
-## 2. A használt földterületekre vonatkozó következő adatok földrészletenkénti bontásban:
+4.1.4. lakcíme,
 
-## a) a település neve,
+4.1.5. értesítés módja (megegyezik a lakcímmel, vagy értesítési cím vagy kézbesítési megbízott megadása),
 
-## b) a földrészlet fekvése, helyrajzi száma,
+4.2. a gazdálkodó szervezet földhasználó
 
-## c) a használat jogcíme,
+4.2.1. honossága,
 
-## d) annak megjelölése, hogy a bejelentő a teljes földrészletet használja-e,
+4.2.2. nyilvántartó hatóság neve,
 
-## e) ha a bejelentő nem a teljes földrészletet használja, nyilatkozat arról, hogy térképi kimutatást csatolt-e,
+4.2.3. nyilvántartási száma,
 
-## f) a használt terület nagysága (ha, m2),
+4.2.4. teljes és rövid megnevezése,
 
-## g) a használt terület aranykorona-értéke (AK),
+4.2.5. adószáma,
 
-## h) a használat kezdő időpontja (év, hó, nap),
+4.2.6. statisztikai azonosítója,
 
-## i) a használat lejárati időpontja (év, hó, nap), illetve ha a használat a határozatlan időtartamú, ennek megjelölése,
+4.2.7. székhelye (telephelye, fióktelepe),
 
-## j) ha a földrészlet az ingatlan-nyilvántartás szerint alrészletekre bontott, a használt alrészletek jelei, művelési ágai, minőségi osztályai, valamint a használattal érintett terület nagysága (ha, m2) és aranykorona-értéke (AK).
+4.2.8. telefonszáma,
 
-## 3. A használatba adó adatai (kivéve, ha nincs használatba adó, mert a bejelentő a tulajdonos vagy a tulajdonosi joggyakorló szervezet, illetve az ingatlan-nyilvántartásba bejegyzett haszonélvezet vagy vagyonkezelői jog fennállása esetén a haszonélvező vagy a vagyonkezelő):
+4.2.9. értesítési adatok (megegyezik a székhely címmel, vagy értesítési cím vagy kézbesítési megbízott megadása).
 
-## a) a természetes személy használatba adó természetes személyazonosító adatai és lakcíme;
+5. A módosítással érintett adat megjelölése és az adatváltozás megnevezése
 
-## b) a gazdálkodó szervezet használatba adó megnevezése, székhelye (telephelye) és statisztikai azonosítója, továbbá a képviseletében eljáró személy családi és utóneve, valamint lakcíme.
+5.1. A használt földterületekre vonatkozó adatok változás előtt/változás után földrészletenkénti bontásban:
 
-## 4. A földhasználó nyilatkozata arról, hogy
+5.1.1. település neve,
 
-## a) adatai a valóságnak megfelelnek,
+5.1.2. földrészlet fekvése, helyrajzi száma,
 
-## b) a földhasználata a törvényben meghatározott korlátozásokat nem sérti,
+5.1.3. használt terület nagysága (ha, m2),
 
-## c) a használat átengedésére a Földforgalmi tv. 13. § (2) bekezdése, a 42. § (2) bekezdése, illetve a Fétv. 5. §-a alapján
+5.1.4. használt terület aranykorona-értéke (AK),
 
-## ca) mint a használatba adó földművesnek minősülő közeli hozzátartozója, illetve a használatba adó vagy a használatba adó közeli hozzátartozója legalább 25%-ban tulajdonában álló mezőgazdasági termelőszervezet részére, vagy
+5.1.5. ha a földrészlet az ingatlan-nyilvántartás szerint alrészletekre bontott, a használt alrészletek jelei, művelési ágai, minőségi osztályai, valamint a használattal érintett terület nagysága (ha, m2) és aranykorona-értéke (AK).
 
-## cb) társult erdőgazdálkodást folytatása, vetőmagtermeléshez, valamint vetőgumó és vegetatív szaporítóanyag előállításához szükséges terület biztosítása céljából
+5.2. Annak jelölése, hogy a módosítás érinti-e a földhasználat időtartamát, és ha igen, határozott vagy határozatlan időre szól a módosítás, valamint határozott idő esetén a használat lejárati időpontjának megadása (év, hó, nap).
 
-## került sor.
+5.3. Annak megjelölése, hogy a földhasználó a teljes földrészletet használja-e, és ha a teljes földrészletet használja, nyilatkozat arról, hogy térképi kimutatást ezért nem csatolta.
 
-## 5. Szívességi földhasználat jogcímén bejelentett földhasználat esetén a természetes személy földhasználó nyilatkozata arról, hogy a használatba adóval közeli hozzátartozói viszonyban áll.
+5.4. A használatba adó adatai (kivéve, ha a használat tulajdonjogon vagy az ingatlan-nyilvántartásba bejegyzett haszonélvezeti jogon alapul):
 
-## 6. A földhasználó gazdálkodó szervezet nyilatkozata arról, hogy
+5.4.1. a természetes személy használatba adó természetes személyazonosító adatai, személyi azonosítója, állampolgársága, lakcíme és az értesítési adatok;
 
-## a) a korábban benyújtott okiratban rögzített adatok változatlanok-e;
+5.4.2. a jogi személy vagy szervezet használatba adó honossága, nyilvántartó hatóság típusa és megnevezése, nyilvántartási száma, teljes és rövid megnevezése, székhelye (telephelye, fióktelepe), statisztikai azonosítója, adószáma, telefonszáma és értesítési adatok.
 
-## b) cég esetében az aláírási címpéldányt, illetve az aláírás mintát a cégnyilvántartás tartalmazza-e.
+6. A benyújtó nyilatkozata arról, hogy
 
-## 7. A földhasználó természetes személynek, illetve a földhasználó gazdálkodó szervezet képviselőjének az aláírása és az aláírás dátuma.
+6.1. a kérelemben szereplő adatok valódiságáért a kérelmező felel, és a kérelemben szereplő adatok valósak és teljes körűek; valamint
 
-## 8.
+6.2. a csatolt okiratok elektronikus vagy egyszerű papír alapú másolatok, melyek megegyeznek az eredeti okiratokkal, és a kérelmező vállalja, hogy az eredeti papír alapú okiratot felhívásra bemutatja az ingatlanügyi hatóság részére.
 
-## II. A hatósági jóváhagyáshoz nem kötött földhasználati szerződés esetében a földhasználó, részesművelés esetén a képviselő nyilatkozata arról, hogy a földhasználata a törvényben meghatározott korlátozásokat nem sérti.
+7. Kérelmet benyújtó aláírása és az aláírás dátuma.
 
-## III. A bejelentési adatlapon az ingatlanügyi hatóság által feltüntetendő tartalmi elemek:
-
-## 1. Az ingatlanügyi hatóság bélyegzője.
-
-## 2. A földhasználati bejelentés érkezési ideje.
-
-## 3. Iktatószám.
-
-## 4. Benyújtott pótlapok száma.
-
-## 5. Mellékelt okiratok, szerződések száma.
-
-## 6. Annak megállapítása, hogy a nyilvántartásba vétel megtörtént.
-
-## 7. Az ügyintéző aláírása.
-
-2. számú melléklet a 356/2007. (XII. 23.) Korm. rendelethez[^139]
-
-[^139]: A 2. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 599. § (16) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^159]: A 2. számú melléklet a 481/2024. (XII. 31.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.

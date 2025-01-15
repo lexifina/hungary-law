@@ -1,107 +1,79 @@
-## A változás-bejelentési adatlap tartalma
+4. melléklet a 356/2007. (XII. 23.) Korm. rendelethez[^161]
 
-## I. A változás-bejelentési adatlapon a bejelentő által megadandó tartalmi elemek:
+A törlés-bejelentési adatlap tartalma
 
-## 1. A földhasználó adatai változás előtt/változás után:
+1. A benyújtó adatai:
 
-## 1.1.[^147] a természetes személy bejelentő
+1.1. természetes személyazonosító adatai,
 
-## a) természetes személyazonosító adatai,
+1.2. személyi azonosítója,
 
-## b) személyi azonosítója,
+1.3. állampolgársága,
 
-## c) állampolgársága,
+1.4. lakcíme,
 
-## d) lakcíme,
+1.5. értesítés módja (megegyezik a lakcímmel, vagy értesítési cím vagy kézbesítési megbízott megadása).
 
-## e)[^148]
+2. Annak jelölése, hogy a benyújtó saját nevében, meghatalmazással vagy törvényes képviselőként jár el, és amennyiben nem saját nevében jár el, a törvényes képviselet formájának megadása vagy nyilatkozat arról, hogy rendelkezik meghatalmazással a kérelmezőtől, és rendelkezik hozzájárulással a képviselt adatainak megismeréséhez.
 
-## 1.2.[^149] a gazdálkodó szervezet bejelentő
+3. Annak jelölése, hogy a kérelmező a földhasználó vagy a használatba adó.
 
-## a) megnevezése,
+## Ha a kérelmező a benyújtótól eltérő személy, akkor a kérelmező alábbi adatait, illetve ha a kérelmező a használatba adó, akkor a földhasználó alábbi adatait is meg kell adni.
 
-## b) statisztikai azonosítója (törzsszám),
+3.1. Természetes személy esetén
 
-## c) cég esetében a cégjegyzékszám,
+3.1.1. természetes személyazonosító adatai,
 
-## d) székhelye (telephelye),
+3.1.2. személyi azonosítója,
 
-## e) képviseletében eljáró személy családi és utóneve, lakcíme,
+3.1.3. állampolgársága,
 
-## f) bélyegzőlenyomata.
+3.1.4. lakcíme,
 
-## 2. A használt földterületekre vonatkozó adatok változás előtt/változás után földrészletenkénti bontásban:
+3.1.5. értesítés módja (megegyezik a lakcímmel, vagy értesítési cím vagy kézbesítési megbízott megadása).
 
-## a) a település neve,
+3.2. Gazdálkodó szervezet esetén
 
-## b) a földrészlet fekvése, helyrajzi száma,
+3.2.1. nyilvántartó hatóság neve,
 
-## c)[^150]
+3.2.2. nyilvántartási száma,
 
-## d) annak megjelölése, hogy a bejelentő a teljes földrészletet használja-e,
+3.2.3. teljes és rövid megnevezése,
 
-## e)[^151] ha a bejelentő nem a teljes földrészletet használja, nyilatkozat arról, hogy térképi kimutatást csatolt-e,
+3.2.4. adószáma,
 
-## f) a használt terület nagysága (ha, m2),
+3.2.5. statisztikai azonosítója,
 
-## g) a használt terület aranykorona-értéke (AK),
+3.2.6. székhelye (telephelye, fióktelepe),
 
-## h) a használat kezdő időpontja (év, hó, nap),
+3.2.7. telefonszáma,
 
-## i)[^152] a használat lejárati időpontja (év, hó, nap), illetve ha a használat a határozatlan időtartamú, ennek megjelölése
+3.2.8. értesítési adatok (megegyezik a székhely címmel, vagy értesítési cím vagy kézbesítési megbízott megadása).
 
-## j) ha a földrészlet az ingatlan-nyilvántartás szerint alrészletekre bontott, a használt alrészletek jelei, művelési ágai, minőségi osztályai, valamint a használattal érintett terület nagysága (ha, m2) és aranykorona-értéke (AK).
+4. A törlés indoka.
 
-## 3. A használatba adó adatai (kivéve, ha a használat tulajdonjogon, vagy az ingatlan-nyilvántartásba bejegyzett haszonélvezeti jogon alapul):
+5. A megszűnt használattal érintett földterületekre vonatkozó adatok földrészletenkénti bontásban:
 
-## a)[^153] a természetes személy használatba adó természetes személyazonosító adatai és lakcíme;
+5.1. a település neve,
 
-## b) a gazdálkodó szervezet használatba adó megnevezése, székhelye (telephelye) és statisztikai azonosítója, továbbá a képviseletében eljáró személy családi és utóneve, valamint lakcíme.
+5.2. a földrészlet fekvése,
 
-## 4. A földhasználó nyilatkozata
+5.3. helyrajzi száma,
 
-## a) arról, hogy adatai a valóságnak megfelelnek, és a földhasználat törvényben foglalt korlátozásba nem ütközik;
+5.4. művelési ága,
 
-## b) gazdálkodó szervezet földhasználó esetén arra vonatkozóan, hogy a korábban benyújtott okiratban rögzített adatok változatlanok-e;
+5.5. minőségi osztálya,
 
-## c) szívességi földhasználat jogcímén bejelentett földhasználat esetén arról, hogy a földhasználó a használatba adó közeli hozzátartozója;
+5.6. használt terület nagysága (ha, m2) és aranykorona-értéke (AK),
 
-## d)[^154]
+5.7. ha a földrészlet az ingatlan-nyilvántartás szerint alrészletekre bontott, és a használat megszűnése kizárólag alrészletet érint, a megszűnt használattal érintett alrészlet jele, művelési ága, minőségi osztálya, valamint terület nagysága (ha, m2) és aranykorona-értéke (AK).
 
-## e) cég esetén arra vonatkozóan, hogy az aláírási címpéldányt, illetve az aláírás mintát a cégnyilvántartás tartalmazza-e.
+6. A benyújtó nyilatkozata
 
-## 5.[^155] A földhasználó természetes személynek, illetve a földhasználó gazdálkodó szervezet képviselőjének az aláírása és az aláírás dátuma.
+6.1. arról, hogy a kérelemben szereplő adatok valódiságáért a kérelmező felel, és a kérelemben szereplő adatok valósak és teljes körűek; valamint
 
-## 6.[^156]
+6.2. a csatolt okiratok elektronikus vagy egyszerű papír alapú másolatok, melyek megegyeznek az eredeti okiratokkal, és a kérelmező vállalja, hogy az eredeti papír alapú okiratot felhívásra bemutatja az ingatlanügyi hatóság részére.
 
-## II.[^157] A változás-bejelentési adatlapon az ingatlanügyi hatóság által feltüntetendő tartalmi elemek:
+7. Kérelmet benyújtó aláírása és az aláírás dátuma.
 
-## 1.[^158] Az ingatlanügyi hatóság bélyegzője.
-
-## 2. A változás-bejelentés érkezési ideje.
-
-## 3. Iktatószám.
-
-## 4. Benyújtott pótlapok száma.
-
-## 5. Mellékelt okiratok, szerződések száma.
-
-## 6. Annak megállapítása, hogy a változás nyilvántartásba vétele megtörtént.
-
-## 7. Az ügyintéző aláírása.
-
-4. számú melléklet a 356/2007. (XII. 23.) Korm. rendelethez[^159]
-
-[^147]: A 3. számú melléklet I. pont 1.1. alpont nyitó szövegrésze a 45/2016. (III. 10.) Korm. rendelet 16. § f) pontjával megállapított szöveg.
-[^148]: A 3. számú melléklet I. pont 1.1. alpont e) pontját az 54/2013. (II. 26.) Korm. rendelet 8. § e) pontja hatályon kívül helyezte.
-[^149]: A 3. számú melléklet I. pont 1.2. alpont nyitó szövegrésze a 45/2016. (III. 10.) Korm. rendelet 16. § g) pontjával megállapított szöveg.
-[^150]: A 3. számú melléklet I. pont 2. pont c) alpontját a 441/2015. (XII. 28.) Korm. rendelet 98. § d) pontja hatályon kívül helyezte, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^151]: A 3. számú melléklet I. 2. pont e) alpontja a 206/2013. (VI. 17.) Korm. rendelet 12. §-ával megállapított, a 473/2013. (XII. 12.) Korm. rendelet 14. § (4) bekezdése szerint módosított szöveg.
-[^152]: A 3. számú melléklet I. 2. pont i) alpontja a 206/2013. (VI. 17.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^153]: A 3. számú melléklet I. pont 3. alpont a) alpontja a 473/2013. (XII. 12.) Korm. rendelet 14. § (2) bekezdése szerint módosított szöveg.
-[^154]: A 3. számú melléklet I. pont 4. alpont d) pontját az 54/2013. (II. 26.) Korm. rendelet 8. § f) pontja hatályon kívül helyezte.
-[^155]: A 3. számú melléklet I. pont 5. alpontja a 441/2015. (XII. 28.) Korm. rendelet 96. § (2) bekezdésével megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^156]: A 3. számú melléklet I. pont 6. pontját a 441/2015. (XII. 28.) Korm. rendelet 98. § d) pontja hatályon kívül helyezte, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^157]: A 3. számú melléklet II. pontja a 473/2013. (XII. 12.) Korm. rendelet 13. § (2) bekezdésével megállapított, nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 57. § (3) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
-[^158]: A 3. számú melléklet II. pont 1. alpontja a 360/2019. (XII. 30.) Korm. rendelet 57. § (3) bekezdés i) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^159]: A 4. számú mellékletet a 429/2012. (XII. 29.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^161]: A 4. számú mellékletet a 429/2012. (XII. 29.) Korm. rendelet 13. § (2) bekezdése iktatta be, szövege a 481/2024. (XII. 31.) Korm. rendelet 19. § (4) bekezdésével megállapított szöveg.

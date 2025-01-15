@@ -1,78 +1,111 @@
-## A törlés-bejelentési adatlap tartalma
+5. melléklet a 356/2007. (XII. 23.) Korm. rendelethez[^162]
 
-## I. A törlés-bejelentési adatlapon a bejelentő által megadandó tartalmi elemek:
+A földhasználati összesítő kiadása iránti kérelem tartalma
 
-## 1. A földhasználó adatai:
+1. A kérelmet benyújtó természetes személy
 
-## 1.1.[^160] a természetes személy bejelentő
+1.1. természetes személyazonosító adatai,
 
-## a) természetes személyazonosító adatai,
+1.2. személyi azonosítója,
 
-## b) személyi azonosítója,
+1.3. állampolgársága,
 
-## c) állampolgársága,
+1.4. lakcíme,
 
-## d) lakcíme,
+1.5. értesítési adatai (megegyezik a lakcímmel, vagy értesítési cím vagy kézbesítési megbízott megadása).
 
-## e)[^161]
+2. Annak jelölése, hogy a benyújtó saját nevében, meghatalmazással vagy törvényes képviselőként jár el, és amennyiben nem saját nevében jár el, a törvényes képviselet formájának megadása vagy nyilatkozat arról, hogy rendelkezik meghatalmazással a kérelmezőtől, és rendelkezik hozzájárulással a képviselt adatainak megismeréséhez.
 
-## 1.2.[^162] a gazdálkodó szervezet bejelentő
+3. A kérelmező következő adatai:
 
-## a) megnevezése,
+3.1. természetes személy kérelmező
 
-## b) statisztikai azonosítója (törzsszám),
+3.1.1. természetes személyazonosító adatai,
 
-## c) cég esetében a cégjegyzékszám,
+3.1.2. személyi azonosítója,
 
-## d) székhelye (telephelye),
+3.1.3. állampolgársága,
 
-## e) képviseletében eljáró személy családi és utóneve, lakcíme,
+3.1.4. lakcíme,
 
-## f) bélyegzőlenyomata.
+3.1.5. értesítés módja (megegyezik a lakcímmel, vagy értesítési cím vagy kézbesítési megbízott megadása),
 
-## 2. A megszűnt használattal érintett földterületekre vonatkozó adatok földrészletenkénti bontásban:
+3.2. gazdálkodó szervezet kérelmező
 
-## a) a település neve,
+3.2.1. teljes és rövidített megnevezése,
 
-## b) a földrészlet fekvése, helyrajzi száma,
+3.2.2. honossága,
 
-## c) ha a földrészlet az ingatlan-nyilvántartás szerint alrészletekre bontott, és a használat megszűnése kizárólag alrészletet érint, a megszűnt használattal érintett alrészlet jele, művelési ága, minőségi osztálya, valamint terület nagysága (ha, m2) és aranykorona-értéke (AK).
+3.2.3. nyilvántartó hatóság megnevezése,
 
-## 3. A földhasználó nyilatkozata
+3.2.4. nyilvántartási száma,
 
-## a) arról, hogy adatai a valóságnak megfelelnek;
+3.2.5. adószáma,
 
-## b) gazdálkodó szervezet földhasználó esetén arra vonatkozóan, hogy a korábban benyújtott okiratban rögzített adatok változatlanok-e;
+3.2.6. statisztikai azonosítója,
 
-## c) cég esetében arról, hogy az aláírási címpéldányt, illetve az aláírás mintát a cégnyilvántartás tartalmazza-e.
+3.2.7. székhelye (telephelye, fióktelepe),
 
-## 4.[^163] A kérelmező természetes személynek, illetve a kérelmező gazdálkodó szervezet képviselőjének az aláírása és az aláírás dátuma.
+3.2.8. telefonszáma,
 
-## 5.[^164]
+3.2.9. értesítési adatok (megegyezik a székhely címmel, vagy értesítési cím vagy kézbesítési megbízott megadása).
 
-## II.[^165] A törlés-bejelentési adatlapon az ingatlanügyi hatóság által feltüntetendő tartalmi elemek:
+4. Nyilatkozat arról, hogy a kérelmező a kérelmet mint földhasználó a saját használatában lévő területekről készített földhasználati összesítő kiadása iránt nyújtja be.
 
-## 1.[^166] Az ingatlanügyi hatóság bélyegzője.
+5. Ha a kérelmező a kérelmet nem mint földhasználó a saját használatában lévő területekről készített földhasználati összesítő iránt nyújtotta be, a földhasználó következő adatai:
 
-## 2. A törlés-bejelentés érkezési ideje.
+5.1. természetes személy földhasználó
 
-## 3. Iktatószám.
+5.1.1. természetes személyazonosító adatai,
 
-## 4. Benyújtott pótlapok száma.
+5.1.2. személyi azonosítója,
 
-## 5. Mellékelt okiratok, szerződések száma.
+5.1.3. állampolgársága,
 
-## 6. Annak megállapítása, hogy a nyilvántartásból való törlés megtörtént.
+5.1.4. lakcíme,
 
-## 7. Az ügyintéző aláírása.
+5.1.5. értesítési adatok (megegyezik a lakcímmel, vagy értesítési cím vagy kézbesítési megbízott megadása),
 
-5. számú melléklet a 356/2007. (XII. 23.) Korm. rendelethez[^167]
+5.2. gazdálkodó szervezet
 
-[^160]: A 4. számú melléklet I. pont 1.1. alpont nyitó szövegrésze a 45/2016. (III. 10.) Korm. rendelet 16. § f) pontjával megállapított szöveg.
-[^161]: A 4. számú melléklet I. pont 1.1. alpont e) pontját az 54/2013. (II. 26.) Korm. rendelet 8. § g) pontja hatályon kívül helyezte.
-[^162]: A 4. számú melléklet I. pont 1.2. alpont nyitó szövegrésze a 45/2016. (III. 10.) Korm. rendelet 16. § g) pontjával megállapított szöveg.
-[^163]: A 4. számú melléklet I. pont 4. alpontja a 441/2015. (XII. 28.) Korm. rendelet 96. § (3) bekezdésével megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni. A 4. számú melléklet I. pont 4. alpontja a 45/2016. (III. 10.) Korm. rendelet 16. § h) pontja szerint módosított szöveg.
-[^164]: A 4. számú melléklet I. pont 5. alpontját a 441/2015. (XII. 28.) Korm. rendelet 98. § e) pontja hatályon kívül helyezte, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^165]: A 4. számú melléklet II. pontja a 473/2013. (XII. 12.) Korm. rendelet 13. § (2) bekezdésével megállapított, nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 57. § (3) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
-[^166]: A 4. számú melléklet II. pont 1. alpontja a 360/2019. (XII. 30.) Korm. rendelet 57. § (3) bekezdés i) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^167]: Az 5. számú mellékletet a 429/2012. (XII. 29.) Korm. rendelet 13. § (2) bekezdése iktatta be, hatályon kívül helyezte a 473/2013. (XII. 12.) Korm. rendelet 15. § d) pontja.
+5.2.1. teljes és rövidített megnevezése,
+
+5.2.2. honossága,
+
+5.2.3. nyilvántartó hatóság típusa és megnevezése,
+
+5.2.4. nyilvántartási száma,
+
+5.2.5. adószáma,
+
+5.2.6. statisztikai azonosítója,
+
+5.2.7. székhelye (telephelye, fióktelepe),
+
+5.2.8. telefonszáma,
+
+5.2.9. értesítési adatok (megegyezik a székhely címmel, vagy értesítési cím vagy kézbesítési megbízott megadása).
+
+6. Nyilatkozat arra vonatkozóan, miszerint a természetes személy földhasználó tudomásul veszi, hogy a földhasználati összesítő a személyi azonosítója alapján kerül összeállításra.
+
+7. Nyilatkozat arra vonatkozóan, miszerint a gazdálkodó szervezet földhasználó tudomásul veszi, hogy a földhasználati összesítő az adószáma alapján kerül összeállításra.
+
+8. Számlázási adatok megadása:
+
+8.1. számla típusa,
+
+8.1.1. elektronikus,
+
+8.1.2. papír alapú,
+
+8.2. számlázási név,
+
+8.3. számlázási cím,
+
+8.4. bankszámlaszám.
+
+9. Fizetési mód megadása.
+
+10. A benyújtó aláírása és az aláírás dátuma.
+
+[^162]: Az 5. számú mellékletet a 473/2013. (XII. 12.) Korm. rendelet 15. § d) pontja hatályon kívül helyezte, újonnan a 481/2024. (XII. 31.) Korm. rendelet 19. § (5) bekezdése iktatta be.
