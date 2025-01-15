@@ -4,7 +4,7 @@
 
 (2) Az alperes gondnokság alá helyezését elrendelő jogerős ítéletet az elsőfokú bíróság a gondnok kirendelése és az esetleg szükséges egyéb intézkedések megtétele végett közli a gyámhatósággal.
 
-(3) Ha a bíróság az alperes cselekvőképességét teljesen vagy az ingatlannal való rendelkezés tekintetében részlegesen korlátozta, és az alperesnek ingatlana van vagy ingatlanon haszonélvezeti joga áll fenn, továbbá ingatlanra az alperest érintő egyéb jog vagy tény van bejegyezve, feljegyezve, az elsőfokú bíróság hivatalból intézkedik a gondnokság alá helyezésnek az ingatlan-nyilvántartásba történő feljegyzése iránt.
+(3) Ha a bíróság az alperes cselekvőképességét teljesen vagy az ingatlannal való rendelkezés tekintetében részlegesen korlátozta, és az alperesnek ingatlana van vagy ingatlanon haszonélvezeti joga áll fenn, továbbá ingatlanra az alperest érintő egyéb jog vagy tény van bejegyezve, az elsőfokú bíróság hivatalból elrendeli a gondnokság alá helyezésnek az ingatlan-nyilvántartásba történő bejegyzését.
 
 (4) A bíróság a gondnokság alá helyezettek – a gondnokoltak nyilvántartására vonatkozó törvényben meghatározott – adatairól számítógépes nyilvántartást vezet.
 
