@@ -6,7 +6,15 @@
 
 (2) A munkáltató az ügyészre vonatkozó adatok közül az ügyész hozzájárulása nélkül – közérdekből – adhat tájékoztatást az ügyész nevéről, szolgálati helyéről és beosztásáról, valamint – ha törvény azt megengedi – egyéb adatairól.
 
-(3) A személyi nyilvántartás – e törvény felhatalmazásának hiányában – más nyilvántartási rendszerrel nem kapcsolható össze. Nem jelenti a személyi nyilvántartás más nyilvántartási rendszerrel való összekapcsolását a személyi nyilvántartásból a központosított illetményszámfejtéshez szükséges adatoknak az e célra működtetett számítógépes programba való továbbítása.
+(3) A személyi nyilvántartás – e törvény felhatalmazásának hiányában – más nyilvántartási rendszerrel nem kapcsolható össze. Az ügyész személyi nyilvántartásából az adatkezelést elrendelő törvény szerint elengedhetetlenül szükséges célból, mértékben és ideig
+
+a) a központosított illetményszámfejtést végző szerv részére,
+
+b) az elektronikus aláírással kapcsolatos szolgáltatás biztosításához a bizalmi szolgáltató részére,
+
+c) az ingatlan-nyilvántartási informatikai rendszer használatához az ingatlanügyi hatóság részére
+
+lehet adatot továbbítani.
 
 (4) Az ügyész ügyészségi szolgálati viszonyával kapcsolatos iratok közül a személyi adatlapot, a kinevezéshez szükséges iratokat, a bűnügyi nyilvántartó szerv által kiállított hatósági erkölcsi bizonyítványt, a pályaalkalmassági vizsgálat alapján készített véleményt, az önéletrajzot, a fényképet, a kinevezési (megbízási), kinevezés-módosító okiratot, az esküokmányt, a besorolásról, az áthelyezésről, kirendelésről rendelkező és a kitüntetésről (elismerésről) szóló iratokat, a szervezett kötelező és fakultatív képzésekre vonatkozó adatokat, az azokon való részvételt igazoló okiratokat, a minősítést, a hatályban lévő fegyelmi büntetést kiszabó határozatot, valamint az ügyészségi szolgálati viszonyt megszüntető iratot együttesen kell tárolni.
 

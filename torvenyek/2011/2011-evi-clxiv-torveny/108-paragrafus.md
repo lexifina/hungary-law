@@ -12,4 +12,4 @@ d) e törvényben vagy az ügyész által erre felhatalmazott más személy.
 
 (3) Az ügyész köteles a róla nyilvántartott adatokban bekövetkezett változást haladéktalanul a munkáltatói jogkör gyakorlójának írásban bejelenteni.
 
-(4) Az ügyésznek a személyi nyilvántartásban szereplő adatairól és az iratok tartalmáról törvényben meghatározott adatkörök tekintetében a központosított illetményszámfejtést végző szerv részére lehet adatot továbbítani.
+(4)
