@@ -8,4 +8,4 @@ b) adásvétel vagy csere esetén kérelem, valamint adásvételi vagy csereszer
 
 alapján vezeti át az ingatlan-nyilvántartáson.
 
-(3) Az ingatlanügyi hatóság a kisajátítási hatóság megkeresésére, a kisajátítás tárgyában hozott döntés alapján törli az ingatlan-nyilvántartásból a kisajátítási eljárás megindításának tényére, valamint az elidegenítési tilalomra vonatkozó feljegyzést.
+(3) Az ingatlanügyi hatóság a kisajátítási hatóság felhívására, a kisajátítás tárgyában hozott döntés alapján törli az ingatlan-nyilvántartásból a kisajátítási eljárás megindításának tényére, valamint az elidegenítési tilalomra vonatkozó bejegyzést.

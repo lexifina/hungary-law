@@ -90,7 +90,7 @@ lb) az erdőtelepítés (fásítás) a tulajdonos közreműködésével eredmén
 
 m) környezetvédelem céljából, ha
 
-ma) ingatlan-nyilvántartásba feljegyzett tartós környezetkárosodás felszámolása,
+ma) ingatlan-nyilvántartásba bejegyzett tartós környezetkárosodás felszámolása,
 
 mb) a területrendezési tervben, a helyi építési szabályzatban vagy az állami főépítészi hatáskörében eljáró fővárosi és vármegyei kormányhivatal által kiadott térségi területfelhasználási engedélyben szereplő hulladékkezelő létesítmény elhelyezése,
 

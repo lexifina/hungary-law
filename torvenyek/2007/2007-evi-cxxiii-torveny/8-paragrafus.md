@@ -2,9 +2,9 @@
 
 8. § (1) A kisajátítási határozat véglegessé válásával – e törvény eltérő rendelkezése hiányában – az ingatlan tulajdonjogának tehermentes megszerzésére kerül sor.
 
-(2) A kisajátítási határozatban rendelkezni kell az ingatlanra vonatkozóan más személyt megillető jogokról és az ingatlanra feljegyzett tényekről.
+(2) A kisajátítási határozatban rendelkezni kell az ingatlanra vonatkozóan más személyt megillető jogokról és az ingatlanra bejegyzett tényekről.
 
-(3) Pénzbeli kártalanítás esetén a kisajátított ingatlanra vonatkozóan más személyt megillető jogok – a (6) bekezdésben foglalt eltéréssel –, és az ingatlanra feljegyzett tények megszűnnek.
+(3) Pénzbeli kártalanítás esetén a kisajátított ingatlanra vonatkozóan más személyt megillető jogok – a (6) bekezdésben foglalt eltéréssel –, és az ingatlanra bejegyzett tények megszűnnek.
 
 (4) Ha a kisajátított ingatlanon jelzálogjog állt fenn, a tulajdonos és a zálogjogosult eltérő megállapodásának hiányában a pénzbeli kártalanítás – a jelzálogjoggal biztosított követelés erejéig – a zálogjog tárgyaként a kisajátított ingatlan helyébe lép és a kártalanítás ezen hányadát bírósági letétbe kell helyezni. A jelzálogjoggal biztosított követelés összegéről a kisajátítási hatóság felhívására a jelzálogjogosult nyilatkozni köteles. Ha a jelzálogjogosult a nyilatkozattételi kötelezettségét nem teljesíti, a letétbe helyezés helyett a pénzbeli kártalanítás egészét a kártalanításra jogosult részére kell megfizetni.
 

@@ -1,6 +1,6 @@
-40/D. § (1) Az előzetes eljárásban feljegyzett építési tilalmat
+40/D. § (1) Az előzetes eljárásban bejegyzett építési tilalmat
 
-a) az ingatlanügyi hatóság hivatalból törli, ha a tulajdoni per eredménye alapján történő tulajdonosváltozás ingatlan-nyilvántartási bejegyzését követő 60 napon belül az érintett ingatlanra nem kérik – a kérelmező által vagy nevében indított – kisajátítási eljárás megindítása tényének feljegyzését,
+a) az ingatlanügyi hatóság hivatalból törli, ha a tulajdoni per eredménye alapján történő tulajdonosváltozás ingatlan-nyilvántartási bejegyzését követő 60 napon belül az érintett ingatlanra nem kérik – a kérelmező által vagy nevében indított – kisajátítási eljárás megindítása tényének bejegyzését,
 
 b) a kérelmező kérelmére törölni kell.
 

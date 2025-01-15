@@ -1,6 +1,6 @@
 10. § (1) Nem jár kártalanítás
 
-a) az ingatlanra feljegyzett tények megszűnéséért;
+a) az ingatlanra bejegyzett tények megszűnéséért;
 
 b) az olyan épületért,
 
