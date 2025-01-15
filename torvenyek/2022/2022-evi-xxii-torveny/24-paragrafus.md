@@ -4,7 +4,7 @@
 
 1.
 
-2.
+2. 29. § (1c) és (6) bekezdésében az „a fővárosi és vármegyei kormányhivatal” szövegrész helyébe az „az ingatlanügyi hatóság” szöveg,
 
 3.
 
