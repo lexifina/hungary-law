@@ -1,16 +1,18 @@
 ## 7. Az adás-vételi szerződés hatósági jóváhagyása
 
-23. § (1) A mezőgazdasági igazgatási szerv a részére jóváhagyás céljából megküldött okiratok közül az adásvételi szerződést először – kizárólag annak tartalma és alaki kellékei, továbbá közhiteles nyilvántartásban szereplő adatok alapján – az érvényességi és hatályosulási feltételeknek való megfelelőség szempontjából vizsgálja meg, illetve ellenőrzi. A mezőgazdasági igazgatási szerv az okiratok beérkezésétől számított 15 napon belül döntést hoz az adásvételi szerződés jóváhagyásának a megtagadásáról, vagy – a 20. §-ban foglalt esetek kivételével – végzésben megállapítja a szerződés közzétételre való alkalmasságát és elrendeli a szerződés közzétételét, valamint ezzel egyidejűleg megkeresi a föld fekvése szerint illetékes ingatlanügyi hatóságot a föld tulajdonjogának átruházására irányuló szerződés benyújtása tényének feljegyzése érdekében.
+23. § (1) A mezőgazdasági igazgatási szerv a részére jóváhagyás céljából megküldött okiratok közül az adásvételi szerződést először – kizárólag annak tartalma és alaki kellékei, továbbá közhiteles nyilvántartásban szereplő adatok alapján – az érvényességi és hatályosulási feltételeknek való megfelelőség szempontjából vizsgálja meg, illetve ellenőrzi. A mezőgazdasági igazgatási szerv az okiratok beérkezésétől számított 15 napon belül döntést hoz az adásvételi szerződés jóváhagyásának a megtagadásáról, vagy – a 20. §-ban foglalt esetek kivételével – végzésben megállapítja a szerződés közzétételre való alkalmasságát és elrendeli a szerződés közzétételét, valamint ezzel egyidejűleg felhívja a föld fekvése szerint illetékes ingatlanügyi hatóságot a föld tulajdonjogának átruházására irányuló szerződés benyújtása tényének bejegyzése érdekében.
 
-(2) A mezőgazdasági igazgatási szerv az (1) bekezdés szerinti előzetes vizsgálat alapján megtagadja az adásvételi szerződés jóváhagyását, ha megállapítja, hogy
+(2) A mezőgazdasági igazgatási szerv az (1) bekezdés szerinti előzetes vizsgálat alapján döntést hoz az adásvételi szerződés jóváhagyásának a megtagadásáról, ha megállapítja, hogy
 
 a) az adásvételi szerződés a jogszabályi előírások megsértése miatt létre nem jött szerződésnek, vagy semmis szerződésnek minősül,
 
-b) az adásvételi szerződés nem tartalmazza a vevőnek a 13–15. §-ban előírt tartalmú nyilatkozatait,
+b) az adásvételi szerződés nem tartalmazza a vevőnek a 13. és 14. §-ban előírt tartalmú nyilatkozatait,
 
-c) az adásvételi szerződésben a vevő által tett nyilatkozatból nem állapítható meg egyértelműen az elővásárlási jogosultság jogalapja, vagy az, hogy az elővásárlási jog mely törvényen alapul, az elővásárlási jogosultságot bizonyító okiratok nem kerültek csatolásra, illetve az elővásárlási jog nem a megjelölt törvényen vagy a törvényben meghatározott sorrend szerinti ranghelyen alapul, az adásvételi szerződés a vevő által megjelölt elővásárlási ranghelyhez kapcsolódóan törvény által előírt kötelezettségvállalásokat és nyilatkozatokat nem tartalmazza, vagy
+c) az adásvételi szerződésben a vevő által tett nyilatkozatból nem állapítható meg egyértelműen az elővásárlási jogosultság jogalapja, vagy az, hogy az elővásárlási jog mely törvényen alapul, az elővásárlási jogosultságot bizonyító okiratok nem kerültek csatolásra, illetve az elővásárlási jog nem a megjelölt törvényen, vagy a törvényben meghatározott sorrend szerinti ranghelyen alapul, az adásvételi szerződés a vevő által megjelölt elővásárlási ranghelyhez kapcsolódóan törvény által előírt kötelezettségvállalásokat és nyilatkozatokat nem tartalmazza,
 
-d) az ingatlan tulajdoni lapján a földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló 2020. évi LXXI. törvény szerint folyamatban lévő megosztás ténye szerepel.
+d) az adásvételi szerződésben a felek alaptalanul hivatkoznak a 20. § (1) bekezdés valamely pontjának fennállására, vagy
+
+e) az ingatlan tulajdoni lapján a földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló 2020. évi LXXI. törvény szerint folyamatban lévő megosztás ténye szerepel.
 
 (3) A mezőgazdasági igazgatási szerv a 22. § (1) bekezdése szerinti okiratok beérkezésétől számított 15 napon belül dönt az adásvételi szerződés jóváhagyásának a megtagadásáról, ha megállapítja, hogy a (2) bekezdés alapján az adásvételi szerződés jóváhagyása megtagadásának lett volna helye.
 

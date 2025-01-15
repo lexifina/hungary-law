@@ -1,4 +1,4 @@
-30. § (1) Ha a 27. §-ban foglaltak nem állnak fenn, és a mezőgazdasági igazgatási szerv jóváhagyja az adás-vételi szerződést a jegyzék szerinti sorrend alapján első helyen álló vagy a 29. § szerint kijelölt elővásárlásra jogosulttal, akkor az adás-vételi szerződés szerinti vevő helyébe az elővásárlásra jogosult lép be. A jóváhagyásról a mezőgazdasági igazgatási szerv – a helyi földbizottság állásfoglalásának beérkezése napját követő naptól számított 15 napon belül – önálló határozatot hoz, és ezzel egyidejűleg az adás-vételi szerződést záradékkal látja el. Az adás-vételi szerződést jóváhagyó záradéknak tartalmaznia kell:
+30. § (1) Ha a 27. §-ban foglaltak nem állnak fenn, és a mezőgazdasági igazgatási szerv jóváhagyja az adás-vételi szerződést a jegyzék szerinti sorrend alapján első helyen álló vagy a 29. § szerint kijelölt elővásárlásra jogosulttal, akkor az adás-vételi szerződés szerinti vevő helyébe az elővásárlásra jogosult lép be. A jóváhagyásról a mezőgazdasági igazgatási szerv – a helyi földbizottság állásfoglalásának beérkezése napját követő naptól számított 15 napon belül – önálló határozatot hoz, és ezzel egyidejűleg kiállítja az adásvételi szerződéshez kapcsolódó záradékot. Az adás-vételi szerződést jóváhagyó záradéknak tartalmaznia kell:
 
 a) azt a tényt, hogy az adás-vételi szerződés szerinti vevő helyébe az elővásárlásra jogosult lép;
 
@@ -20,6 +20,6 @@ b) (2) bekezdésében meghatározott esetben a helyi földbizottság állásfogl
 
 belül döntést hoz.
 
-(4) A mezőgazdasági igazgatási szerv az (1)–(3) bekezdésben meghatározott döntését közli az eladóval, az adásvételi szerződés szerinti vevővel, valamint azokkal az elővásárlásra jogosultakkal, akik az adásvételi szerződésre elfogadó jognyilatkozatot tettek, továbbá a helyi földbizottsággal. Ha az eladó az adásvételi szerződésben megadta a vevő javára szóló bejegyzési engedélyt, a mezőgazdasági igazgatási szerv a (2) bekezdésben meghatározott döntését közli az ingatlanügyi hatósággal is.
+(4) A mezőgazdasági igazgatási szerv az (1)–(3) bekezdésben meghatározott döntését közli az eladóval, az adásvételi szerződés szerinti vevővel, valamint azokkal az elővásárlásra jogosultakkal, akik az adásvételi szerződésre elfogadó jognyilatkozatot tettek, továbbá a helyi földbizottsággal.
 
 (5) A közigazgatási perben a bíróság a mezőgazdasági igazgatási szerv döntését nem változtathatja meg.

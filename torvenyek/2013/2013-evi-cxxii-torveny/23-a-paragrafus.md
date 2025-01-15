@@ -14,9 +14,9 @@ f) a mezőgazdaságban a generációváltás elősegítésére
 
 vonatkozó általános agrárpolitikai és földbirtok-politikai érdekeknek.
 
-(1a) Ha a mezőgazdasági igazgatási szerv a 23. § (1) bekezdése szerinti vizsgálat és ellenőrzés alapján nem tagadta meg az adásvételi szerződés jóváhagyását, a 20. §-ban foglalt esetben haladéktalanul megkeresi a helyi földbizottságot állásfoglalásának kiadása céljából és ezzel egyidejűleg megkeresi a föld fekvése szerint illetékes ingatlanügyi hatóságot a föld tulajdonjogának átruházására irányuló szerződés benyújtása tényének feljegyzése érdekében.
+(1a) Ha a mezőgazdasági igazgatási szerv a 23. § (1) bekezdése szerinti vizsgálat és ellenőrzés alapján nem tagadta meg az adásvételi szerződés jóváhagyását, a 20. §-ban foglalt esetben haladéktalanul megkeresi a helyi földbizottságot állásfoglalásának kiadása céljából és ezzel egyidejűleg felhívja a föld fekvése szerint illetékes ingatlanügyi hatóságot a föld tulajdonjogának átruházására irányuló szerződés benyújtása tényének bejegyzése érdekében.
 
-(2) A 23. § (5) bekezdésben meghatározott esetben a mezőgazdasági igazgatási szerv a rendelkezésére álló okiratok, a jegyzékben szereplő valamennyi elővásárlásra jogosult elfogadó jognyilatkozatának és az általa készített jegyzék másolatának megküldésével haladéktalanul megkeresi a helyi földbizottságot állásfoglalásának beszerzése céljából.
+(2) A 23. § (3) bekezdésben meghatározott esetben a mezőgazdasági igazgatási szerv a rendelkezésére álló okiratok, a jegyzékben szereplő valamennyi elővásárlásra jogosult elfogadó jognyilatkozata és az általa készített jegyzék megküldésével haladéktalanul elektronikus úton megkeresi a helyi földbizottságot állásfoglalásának beszerzése céljából.
 
 (3) Ha a 23. § (6) bekezdésben foglalt esetek valamelyike áll fenn, a (2) bekezdésben foglaltakat kell alkalmazni azzal az eltéréssel, hogy a mezőgazdasági igazgatási szerv jegyzék nélkül keresi meg a helyi földbizottságot.
 

@@ -4,7 +4,7 @@ a) a földre vonatkozó elővásárlási és előhaszonbérleti jog gyakorlásá
 
 b) a helyi földbizottság működéséről és a tagjai nyilvántartásának a vezetéséről, illetve a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara közreműködéséről szóló szabályokat;
 
-c) a tulajdonjog átruházására szolgáló okmány biztonsági kellékeit, valamint a kibocsátásának szabályait;
+c) a föld tulajdonjogának átruházására irányuló vagy a föld tulajdonjogát érintő más jogügyletet tartalmazó szerződés, továbbá azok ingatlan-nyilvántartási bejegyzéséhez szükséges jognyilatkozat elektronikus regisztrációjának szabályait;
 
 d) a mezőgazdasági vagy erdészeti szakirányú szakképzettségeket és szakképesítéseket;
 
@@ -18,4 +18,4 @@ h) föld végrehajtási vagy felszámolási, önkormányzati adósságrendezési
 
 i) a helyi földbizottság állásfoglalásának kialakítása során figyelembe veendő szempontok mérlegelésének módjára vonatkozó követelményeket;
 
-j) a föld tulajdonjogának a 67/A. § alapján vételi jog gyakorlása útján történő megszerzésének szabályait.
+j) a föld tulajdonjogának és a föld használati jogosultságának megszerzésével kapcsolatos hatósági eljárások részletes szabályait.

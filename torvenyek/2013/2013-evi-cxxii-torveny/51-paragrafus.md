@@ -2,7 +2,7 @@
 
 51. § (1) A mezőgazdasági igazgatási szerv a részére jóváhagyás céljából megküldött okiratok közül a haszonbérleti szerződést kizárólag annak tartalma és alaki kellékei alapján – először az érvényességi és hatályosulási feltételeknek való megfelelőség szempontjából vizsgálja meg, illetve ellenőrzi. A mezőgazdasági igazgatási szerv az okiratok beérkezésétől számított 15 napon belül döntést hoz a haszonbérleti szerződés jóváhagyásának a megtagadásáról, vagy – a 48. § (1) bekezdésében foglalt esetek kivételével – végzésben megállapítja a szerződés közzétételre való alkalmasságát és elrendeli a szerződés közzétételét.
 
-(2) A mezőgazdasági igazgatási szerv az (1) bekezdés szerinti előzetes vizsgálat alapján megtagadja a haszonbérleti szerződés jóváhagyását, ha megállapítja, hogy
+(2) A mezőgazdasági igazgatási szerv az (1) bekezdés szerinti előzetes vizsgálat alapján döntést hoz a haszonbérleti szerződés jóváhagyásának a megtagadásáról, ha megállapítja, hogy
 
 a) a haszonbérleti szerződés a jogszabályi előírások megsértése miatt létre nem jött szerződésnek, vagy semmis szerződésnek minősül,
 
