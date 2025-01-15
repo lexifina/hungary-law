@@ -1,5 +1,3 @@
-### 5:171. § [Az ingatlan-nyilvántartási közhitelesség tartalma]
+### 5:171. § [A bejegyzés törlése]
 
-(1) Ha valamely jogot az ingatlan-nyilvántartásba bejegyeztek, vagy ha valamely tényt oda feljegyeztek, senki sem hivatkozhat arra, hogy annak fennállásáról nem tudott.
-
-(2) Az (1) bekezdésben foglaltak megfelelően irányadók az ingatlan-nyilvántartásban széljegyzett kérelmek kapcsán a folyamatban lévő eljárás tényére és tárgyára is.
+Az ingatlan-nyilvántartási bejegyzés törlésének a bejegyzés alapjául szolgáló jogügylet érvénytelensége vagy a bejegyzés utólagos helytelenné válása miatt van helye.

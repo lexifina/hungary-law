@@ -1,9 +1,9 @@
-### 5:166. § [Az ingatlan-nyilvántartás nyilvánossága]
+### 5:166. § [Az ingatlan-nyilvántartásba való bejegyzés]
 
-(1) Az ingatlan-nyilvántartás nyilvános.
+(1) E törvény eltérő rendelkezése hiányában az ingatlanra vonatkozó dologi jogok és korlátolt dologi jogok (a továbbiakban együtt: dologi jogok) az ingatlan-nyilvántartásba történő bejegyzéssel keletkeznek, módosulnak és szűnnek meg.
 
-(2) Az ingatlan-nyilvántartási tulajdoni lap, illetve térkép tartalmát - a különös védelem alá tartozó személyes adatok kivételével - bárki megismerheti, arról feljegyzést készíthet, továbbá hiteles másolat vagy tanúsítvány kiadását kérheti.
+(2) Az ingatlan-nyilvántartásba bejegyezhető nem dologi jogok és tények harmadik személyekkel szemben az ingatlan-nyilvántartásba történő bejegyzéssel válnak hatályossá.
 
-(3) Az ingatlan-nyilvántartási bejegyzés, feljegyzés és a széljegyzett ingatlan-nyilvántartási igény alapjául szolgáló okiratok tartalma - a hozzájárulás és az igazolt igény keretei között - akkor ismerhető meg, ha a kérelmező igazolja, hogy a megismeréshez az okirat tartalma által érintett jogosultak és kötelezettek hozzájárultak, vagy hogy az okirat megismerése joga érvényesítéséhez, illetve jogszabályon vagy hatósági határozaton alapuló kötelezettsége teljesítéséhez szükséges.
+(3) A jogszabály erejénél fogva keletkező jog vagy tény harmadik személyekkel szemben bejegyzés nélkül is hatályos, ha az ingatlannak a jogot vagy tényt keletkeztető jogszabály hatálya alá tartozása az ingatlan-nyilvántartásban szereplő más jog, tény vagy – a helyrajzi számot ide nem értve – adat alapján az ingatlan tekintetében kétségtelenül megállapítható.
 
-(4) Az ingatlan természetben meghatározott részére bejegyzett jogok, tények és átvezetett adatok alapjául szolgáló okiratnak az érintett természetbeni rész meghatározására vonatkozó tartalma korlátozás nélkül megismerhető akkor is, ha a tulajdoni lapon lévő bejegyzés nem hivatkozik arra, hogy a természetbeni rész meghatározását az okirat tartalmazza.
+(4) Törvényben meghatározott jogok vagy tények bejegyzése a későbbi jogszerzők szerzését korlátozza vagy feltételessé teszi.

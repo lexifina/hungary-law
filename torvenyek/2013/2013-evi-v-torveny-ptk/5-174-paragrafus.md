@@ -1,5 +1,13 @@
-### 5:174. § [Jóhiszeműen és ellenérték fejében szerzők védelme]
+### 5:174. § [Az ingatlan-nyilvántartás jogvédelmi hatása]
 
-(1) A jóhiszemű és ellenérték fejében szerző javára az ingatlan-nyilvántartás tartalmát akkor is helyesnek és teljesnek kell tekinteni, ha az a valódi anyagi jogi jogállapottól eltér. Ennek alapján a szerző az e törvény szerinti védelemben részesül.
+(1) A törlési pert a jóhiszeműen és ellenérték fejében jogot szerző harmadik személlyel szemben az anyagi jog szerinti jogosult vagy a bejegyzés törlése esetén jogosulttá váló személy
 
-(2) A jóhiszemű szerző az (1) bekezdésben foglalt védelemre nem hivatkozhat azzal szemben, aki ellene az ingatlan-nyilvántartási bejegyzés törlése iránt vagy az ingatlan-nyilvántartásban széljegyzett bejegyzési igény alapjául szolgáló jogügylet érvénytelenségének vagy ezen igény elévülésének megállapítása iránt pert indít. Ugyanez irányadó arra az esetre is, ha az ingatlan-nyilvántartásba a kérelem benyújtása előtt a törlési vagy kiigazítási pert feljegyezték.
+a) az érvénytelen bejegyzésről vagy az utólag helytelenné vált bejegyzés alapján történt jogszerzés bejegyzéséről szóló határozat részére történő kézbesítésétől számított hat hónap alatt,
+
+b) ha a határozat részére történő kézbesítésére nem került sor, a bejegyzés hatályossá válásától számított hároméves határidő alatt
+
+indíthatja meg.
+
+(2) Az (1) bekezdés szerinti perindítási határidők elmulasztása jogvesztéssel jár.
+
+(3) Az (1) és (2) bekezdés a kiigazítási igény érvényesítésére irányuló kiigazítási perre is irányadó, ha az ingatlanügyi hatósági eljárásban a sérelem nem orvosolható, vagy ha a sérelem orvoslását a bejegyzést sérelmesnek tartó fél eredménytelenül kísérelte meg.

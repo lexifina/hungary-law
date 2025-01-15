@@ -4,4 +4,4 @@
 
 (2) Az ellenérték fejében jogot szerző jóhiszemű személyek jogszerzését az elidegenítési és terhelési tilalom nem korlátozza.
 
-(3) Az elidegenítési és terhelési tilalomra vonatkozó rendelkezéseket megfelelően alkalmazni kell, ha a dolgon csak elidegenítési tilalom áll fenn, vagy ha a rendelkezés jogát a tilalom más módon korlátozza.
+(3) Az elidegenítési és terhelési tilalomra vonatkozó rendelkezéseket kell alkalmazni, ha a dolgon csak elidegenítési, illetve csak terhelési tilalom áll fenn, vagy a dologgal való rendelkezés jogát a tilalom más módon korlátozza.

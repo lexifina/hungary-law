@@ -1,3 +1,3 @@
-### 5:165. § [Az ingatlan-nyilvántartás]
+### 5:165. § [Az ingatlan-nyilvántartás tartalma]
 
-Az ingatlan-nyilvántartás az ingatlanokra vonatkozó jogok, valamint jogi szempontból jelentős tények nyilvános és közhiteles nyilvántartása. Az ingatlan-nyilvántartás tartalmazza az ingatlanoknak és az ingatlan-nyilvántartásba bejegyzett személyeknek a jogszabályban meghatározott adatait.
+Az ingatlan-nyilvántartás az ingatlanokra vonatkozóan bejegyezhető jogokat, tényeket és adatokat az ingatlan-nyilvántartásról szóló jogszabályban meghatározottak szerint tartalmazza.

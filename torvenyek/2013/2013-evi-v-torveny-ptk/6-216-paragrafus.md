@@ -1,10 +1,10 @@
 ### 6:216. § [Tulajdonjog-fenntartás]
 
-(1) Az eladó a tulajdonjogát a vételár kiegyenlítéséig fenntarthatja.
+(1) Az eladó a tulajdonjogát a vételár kiegyenlítéséig fenntarthatja, ennek időtartama alatt a vevő tulajdonszerzésre irányuló jogát hozzájárulása nélkül nem csorbíthatja.
 
 (2) A tulajdonjog-fenntartásra vonatkozó megállapodást írásba kell foglalni.
 
-(3) Az ingatlanra vonatkozó tulajdonjog-fenntartást az eladó köteles a tulajdonjog-fenntartás tényének és a vevő személyének a feltüntetésével az ingatlan-nyilvántartásba feljegyeztetni.
+(3) Az ingatlanra vonatkozó tulajdonjog-fenntartást az ahhoz kapcsolódó vevői jog feltüntetésével kell az ingatlan-nyilvántartásba bejegyezni.
 
 (4) Az ingó dologra vonatkozó tulajdonjog-fenntartást az eladó köteles a tulajdonjog-fenntartás tényének és a vevő személyének a hitelbiztosítéki nyilvántartásba, vagy ha az ingó dolog tulajdonjogát közhiteles nyilvántartás tanúsítja, és jogszabály a dolog elzálogosítását a lajstromba való bejegyzéshez köti, a megfelelő lajstromba bejegyeztetni. Nyilvántartásba vétel hiányában
 

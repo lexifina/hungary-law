@@ -1,7 +1,7 @@
-### 5:170. § [Az ingatlan-nyilvántartás közhitelessége]
+### 5:170. § [Az ingatlan-nyilvántartási bejegyzés hatályának kiterjesztése]
 
-Az ingatlan-nyilvántartás a bejegyzett jogok és a feljegyzett tények fennállását hitelesen tanúsítja.
+Az ingatlan-nyilvántartási bejegyzés hatályára, továbbá a jóhiszemű és ellenérték fejében szerzők védelmére vonatkozó szabályokat kell alkalmazni arra az esetre, ha az ingatlan-nyilvántartásba bejegyzett jog alapján az ingatlan-nyilvántartásban jogosultként megjelölt részére szolgáltatást teljesítenek.
 
 ## XI. CÍM
 
-AZ INGATLAN-NYILVÁNTARTÁS KÖZHITELESSÉGE
+A TÖRLÉSI ÉS A KIIGAZÍTÁSI PER; JOGVÉDELMI HATÁS

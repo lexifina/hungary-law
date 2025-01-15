@@ -1,3 +1,3 @@
-### 5:167. § [Az okirati elv]
+### 5:167. § [Az ingatlan-nyilvántartás közhitelességének joghatása]
 
-Az ingatlan-nyilvántartásba jog és jogilag jelentős tény bejegyzésére, feljegyzésére és adatok átvezetésére jogszabályban meghatározott okirat, továbbá bírósági vagy hatósági határozat alapján kerülhet sor.
+Ha valamely jogot, tényt vagy adatot az ingatlan-nyilvántartásba bejegyeztek vagy az ingatlan-nyilvántartásból töröltek, senki sem hivatkozhat arra, hogy annak fennállásáról vagy törléséről nem tudott.
