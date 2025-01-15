@@ -4,7 +4,7 @@
 
 (3) A felépítmény ingatlan-nyilvántartásban önálló ingatlanként történő feltüntetésére, továbbá a felépítmény mindenkori tulajdonosát és egyéb jogosultját megillető jogok bejegyzésére irányuló ingatlanügyi eljárásban
 
-a) az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 28. § (1) bekezdésében foglalt rendelkezéseket és az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény végrehajtására kiadott, az ingatlannal kapcsolatos jogok bejegyzésére, tények feljegyzésére és az ingatlan adataiban bekövetkezett változások vezetésére vonatkozó részletes szabályokat tartalmazó miniszteri rendeletnek az adatváltozás átvezetéséhez szükséges végleges hatósági engedélyre, jóváhagyásra és – a (4) bekezdésben valamint a (6) bekezdés c) pontjában meghatározott kivétellel – bizonyítványra vonatkozó rendelkezéseit nem kell alkalmazni,
+a) az ingatlan-nyilvántartásról szóló 2021. évi C. törvény 29. § (3) bekezdésében foglalt rendelkezéseket és az ingatlan-nyilvántartásról szóló 2021. évi C. törvény végrehajtására kiadott, az ingatlannal kapcsolatos jogok bejegyzésére, tények feljegyzésére és az ingatlan adataiban bekövetkezett változások vezetésére vonatkozó részletes szabályokat tartalmazó miniszteri rendeletnek az adatváltozás átvezetéséhez szükséges végleges hatósági engedélyre, jóváhagyásra és – a (4) bekezdésben valamint a (6) bekezdés c) pontjában meghatározott kivétellel – bizonyítványra vonatkozó rendelkezéseit nem kell alkalmazni,
 
 b) a felépítményt tartalmazó földrészletre az ingatlan-nyilvántartásba bejegyzett telekalakítási és építési tilalmat vagy egyéb korlátozást nem kell figyelembe venni.
 

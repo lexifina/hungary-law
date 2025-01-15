@@ -54,4 +54,4 @@ l) az erdőfelújítási biztosíték előírására, teljesítésére, felszaba
 
 (6) Az Adattárba való bejegyzésre, valamint az onnan való törlésre irányuló eljárás során a hatóság bizonyítékként kizárólag közokiratot, teljes bizonyító erejű magánokiratot, valamint az erdészeti hatósági eljárások során keletkező iratot használhat fel.
 
-(7) Az erdészeti hatóság az ingatlan-nyilvántartásban – az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény végrehajtásáról szóló rendelet előírásai alapján – nem a megfelelő művelési ágban nyilvántartott erdő, szabad rendelkezésű erdő, valamint erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület vonatkozásában kezdeményezi az ingatlanügyi hatóságnál a művelési ág módosítását.
+(7) Az erdészeti hatóság az ingatlan-nyilvántartásban – az ingatlan-nyilvántartásról szóló jogszabályok előírásai alapján – nem a megfelelő művelési ágban nyilvántartott erdő, szabad rendelkezésű erdő, valamint erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület vonatkozásában hatósági felhívást intéz az ingatlanügyi hatósághoz a művelési ág módosításának bejegyzésére.

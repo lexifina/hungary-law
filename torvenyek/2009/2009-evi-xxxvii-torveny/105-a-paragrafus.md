@@ -39,3 +39,9 @@ d) a rendőrségtől – az erdészeti szakszemélyzet és jogosult erdészeti s
 vonatkozó adat igénylésére.
 
 (7) Az erdészeti hatóság által vezetett közhiteles hatósági nyilvántartás adataiban bekövetkező változások bejelentése azon adatok tekintetében, amelyeket más nyilvántartás tartalmaz közhitelesen, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle a bejelentésre kötelezett személy kéri – a bejelentési kötelezettségre meghatározott határidőben értesíti az erdészeti hatóságot.
+
+(8) A földmérési és térinformatikai államigazgatási szerv a számítógépes ingatlan-nyilvántartási rendszerből, valamint a földhasználati nyilvántartás számítógépes adatbázisából a Kormány által biztosított azonosítási szolgáltatás igénybevételével való azonosítás útján, elektronikusan feldolgozható formában vagy elektronikus dokumentumként informatikai hálózaton keresztül az erdészeti hatóság számára a faanyag-kereskedelmi lánc hatósági felügyeletével kapcsolatos feladatainak ellátása érdekében díj, költség és térítésmentesen adatszolgáltatást teljesít.
+
+(9) A (8) bekezdés szerinti adatszolgáltatás során az ingatlanra vonatkozóan a teljes tulajdonilap-másolat és földhasználatilap-másolat teljes adattartalma továbbítható.
+
+(10) Az adatszolgáltatás során átadott adatok kizárólag a (8) bekezdés szerinti feladatellátáshoz használhatók fel, harmadik személy részére nem adhatók tovább.
