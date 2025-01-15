@@ -1,16 +1,11 @@
-50/B. §[^201] (1) A nagykereskedelmi piacfelügyeleti eljárás során kiszabható bírság mértéke
+50/B. §[^200] (1) A nem természetes személynek az 50/A. § (1) bekezdése szerint közigazgatási bírsággal sújtott tevékenységében érdemben közreműködő természetes személlyel szemben a GET-ben megállapított mérlegelési szempontok alkalmazásával kiszabható közigazgatási bírság összege – a piaci szereplővel szembeni közigazgatási bírság alkalmazásán felül – százezer forinttól kétszázötvenmillió forintig terjedhet.
 
-a)[^202] a bennfentes kereskedelemre, a piaci manipulációra és a piaci manipuláció megkísérlésére vonatkozó tilalom megsértése esetén százezer forinttól kettőmilliárd forintig,
+(2) A nem természetes személynek az 50/A. § (2) bekezdése szerinti közigazgatási bírsággal sújtott tevékenységében érdemben közreműködő természetes személlyel szemben a GET-ben megállapított mérlegelési szempontok alkalmazásával kiszabható közigazgatási bírság összege – a piaci szereplővel szembeni közigazgatási bírság alkalmazásán felül – kétszázezer, forinttól ötszázmillió forintig terjedhet.
 
-b) a bennfentes információ közzétételére vonatkozó kötelezettség megsértése esetén százezer forinttól tízmillió forintig
+(3) A nem természetes személynek az 50/A. § (3) bekezdése szerinti közigazgatási bírsággal sújtott tevékenységében érdemben közreműködő természetes személlyel szemben a GET-ben megállapított mérlegelési szempontok alkalmazásával kiszabható bírság összege – a piaci szereplővel szembeni közigazgatási bírság alkalmazásán felül – ötszázezer forinttól kétmilliárd forintig terjedhet.
 
-terjedhet.
+(4) A természetes személyekkel szemben kiszabható közigazgatási bírság összege nem lehet több, mint az érintett természetes személy a jogsértés évét mint tárgyévet megelőző, személyi jövedelemadó-bevallással igazolt bruttó jövedelmének 20%-a, kivéve, ha az érintett természetes személy közvetve, vagy közvetlenül pénzügyi előnyhöz jutott a jogsértésből, és a pénzügyi előny számszerűsíthető. Ebben az esetben a bírság összege az elért pénzügyi előnnyel megegyező mértékű.
 
-(2)[^203] A kiszabható bírság felső határa az (1) bekezdés a) pontjától eltérően az elért árfolyamnyereség vagy elkerült árfolyamveszteség négyszáz százaléka, ha az árfolyam-különbözet mértéke tételesen kimutatható és az magasabb, mint az (1) bekezdés a) pontjában meghatározott bírságtétel felső határa.
+(5) Számszerűsíthető, igazolt, megelőző évi bruttó jövedelem hiányában a bírság összege százezer forinttól kétmilliárd forintig terjedhet.
 
-(3)[^204] A nem természetes személynek az (1) bekezdés a) pontja szerinti bírsággal sújtott tevékenységében érdemben közreműködő természetes személlyel szemben a kiszabható bírság összege – a piaci szereplővel szemben az (1) bekezdés a) pontjában meghatározott bírság alkalmazásán felül – százezer forinttól százmillió forintig terjedhet.
-
-[^201]: A Vhr. 50/B. §-át a 344/2013. (IX. 27.) Korm. rendelet 5. §-a iktatta be.
-[^202]: A Vhr. 50/B. § (1) bekezdés a) pontja a 275/2017. (IX. 21.) Korm. rendelet 22. § a) pontja szerint módosított szöveg.
-[^203]: A Vhr. 50/B. § (2) bekezdése a 275/2017. (IX. 21.) Korm. rendelet 22. § b) pontja szerint módosított szöveg.
-[^204]: A Vhr. 50/B. § (3) bekezdése a 275/2017. (IX. 21.) Korm. rendelet 15. §-ával megállapított, a 713/2020. (XII. 30.) Korm. rendelet 18. §-a szerint módosított szöveg.
+[^200]: A Vhr. 50/B. §-át a 344/2013. (IX. 27.) Korm. rendelet 5. §-a iktatta be, szövege a 467/2024. (XII. 30.) Korm. rendelet 2. §-ával megállapított szöveg.

@@ -77,3 +77,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-19-20-2
 | 2023-09-01 | 2009-19-20-22.73 | 216/2023. (VI. 1.) Korm. rendelet |
 | 2024-01-01 | 2009-19-20-22.75 | 652/2023. (XII. 28.) Korm. rendelet |
 | 2024-08-14 | 2009-19-20-22.76 | 215/2024. (VII. 29.) Korm. rendelet |
+| 2025-01-15 | 2009-19-20-22.77 | 467/2024. (XII. 30.) Korm. rendelet |

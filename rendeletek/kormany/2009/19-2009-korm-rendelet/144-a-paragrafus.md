@@ -1,24 +1,28 @@
-144/A. §[^572] (1) A földgázelosztó a GET 146/D. §-a alapján a Hivatal előzetes jóváhagyásával szervezheti ki az elosztóvezeték építését, valamint az ügyfélszolgálati tevékenységet, ideértve a felhasználóval való kapcsolattartással, számlakibocsátással és ellenérték-beszedéssel kapcsolatos tevékenységeket.
-
-(2) A földgázelosztó nem kapcsolt vállalkozásához történő kiszervezés esetében – az (1) bekezdésben foglaltakon felül – a GET 146/D. §-a alapján a Hivatal előzetes jóváhagyásával az alábbi tevékenységeket szervezheti ki:
+144/A. §[^574] (1)[^575] A földgázelosztó a GET 146/D. §-a alapján a Hivatal előzetes jóváhagyásával a következő tevékenységeket szervezheti ki
 
 a) elosztóvezeték tervezése, valamint azon tevékenységek, amelyek költségei az Szt. szerint a beruházás értékében aktiválandók,
 
-b) üzemeltetés és üzemzavar elhárítása céljából gépek, berendezések és szaktudás igénybevétele,
+b) elosztóvezeték építése,
 
-c) fogyasztásmérő-berendezés és házi nyomásszabályozó le- és felszerelése, ellenőrzése, karbantartása, valamint műszaki átvétel és felhasználói rendszer beüzemelése,
+c) üzemeltetés és üzemzavar elhárítása céljából gépek, berendezések és szaktudás igénybevétele,
 
-d) rendszeres és rendkívüli mérőleolvasás,
+d) fogyasztásmérő-berendezés és házi nyomásszabályozó le- és felszerelése, ellenőrzése, karbantartása, valamint műszaki átvétel és felhasználói rendszer beüzemelése,
 
-e) felhasználó ki- és visszakapcsolása,
+e) rendszeres és rendkívüli mérőleolvasás,
 
-f) gázszakági műszaki és térképi, digitális térképi nyilvántartás üzemeltetése,
+f) felhasználó ki- és visszakapcsolása,
 
-g) elosztóvezeték biztonsági övezetében karbantartási tevékenység,
+g) gázszakági műszaki és térképi, digitális térképi nyilvántartás üzemeltetése,
 
-h) korrózióvédelemmel összefüggő karbantartási feladatok végrehajtása.
+h) elosztóvezeték biztonsági övezetében karbantartási tevékenység,
 
-(3)[^573] A földgázelosztó az (1) és a (2) bekezdésben foglalt tevékenységek mellett
+i) korrózióvédelemmel összefüggő karbantartási feladatok végrehajtása, valamint
+
+j) ügyfélszolgálati tevékenység, ideértve a felhasználóval való kapcsolattartással, számlakibocsátással és ellenérték-beszedéssel kapcsolatos tevékenységeket.
+
+(2)[^576]
+
+(3)[^577] A földgázelosztó az (1) és a (2) bekezdésben foglalt tevékenységek mellett
 
 a) más földgázelosztótól vagy a villamos energiáról szóló törvény szerinti elosztótól, a Hivatal által előzetesen jóváhagyott szerződés alapján az engedélyköteles tevékenysége körébe tartozó szolgáltatásokat, valamint
 
@@ -26,5 +30,7 @@ b) az (1) bekezdés szerinti, elosztóvezeték építését végző kapcsolt vá
 
 igénybe vehet.
 
-[^572]: A Vhr. 144/A. §-át a 300/2013. (VII. 29.) Korm. rendelet 14. §-a iktatta be.
-[^573]: A Vhr. 144/A. § (3) bekezdése a 110/2014. (IV. 1.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^574]: A Vhr. 144/A. §-át a 300/2013. (VII. 29.) Korm. rendelet 14. §-a iktatta be.
+[^575]: A Vhr. 144/A. § (1) bekezdése a 467/2024. (XII. 30.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^576]: A Vhr. 144/A. § (2) bekezdését a 467/2024. (XII. 30.) Korm. rendelet 15. § b) pontja hatályon kívül helyezte.
+[^577]: A Vhr. 144/A. § (3) bekezdése a 110/2014. (IV. 1.) Korm. rendelet 8. §-ával megállapított szöveg.

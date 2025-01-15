@@ -1,4 +1,4 @@
-139. §[^546] (1) A megfelelési ellenőr a megfelelési jelentést minden év március 1-jéig jóváhagyásra benyújtja a Hivatalhoz.
+139. §[^547] (1) A megfelelési ellenőr a megfelelési jelentést minden év március 1-jéig jóváhagyásra benyújtja a Hivatalhoz.
 
 (2) A megfelelési jelentés a vertikálisan integrált földgázipari vállalkozáson belül nem képezheti jóváhagyás tárgyát.
 
@@ -18,7 +18,7 @@ f) a következő megfelelési évre tervezett, a tevékenységek szétválasztá
 
 g) a megfelelési programtól való eltérés és annak indokolása,
 
-h)[^547] a tevékenységek szétválasztásához kapcsolódó peres és egyéb vitás ügyek bemutatása, különösen a vezetékekhez, LNG-létesítmény kapacitásokhoz és tárolókapacitásokhoz való hozzáférés, valamint az információkezelés vitás esetei,
+h)[^548] a tevékenységek szétválasztásához kapcsolódó peres és egyéb vitás ügyek bemutatása, különösen a vezetékekhez, LNG-létesítmény kapacitásokhoz és tárolókapacitásokhoz való hozzáférés, valamint az információkezelés vitás esetei,
 
 i) a támogató és a kiszervezett tevékenységek végzésének részletes értékelése, különös tekintettel a piaci alapú árazás kialakítására, valamint a minőségi követelmények felügyeletére,
 
@@ -26,5 +26,5 @@ j) az önálló vállalati arculat, a vertikálisan integrált földgázipari v�
 
 (4) Megtévesztő vagy valótlan információk közlése esetén a Hivatal a megfelelési jelentés jóváhagyása iránti kérelmet elutasítja és a rendszerüzemeltetővel szemben a GET 119. §-a szerinti jogkövetkezményeket alkalmazza.
 
-[^546]: A Vhr. 139. §-a a 75/2011. (V. 2.) Korm. rendelet 19. §-ával megállapított szöveg.
-[^547]: A Vhr. 139. § (3) bekezdés h) pontja a 652/2023. (XII. 28.) Korm. rendelet 16. § 27. pontja szerint módosított szöveg.
+[^547]: A Vhr. 139. §-a a 75/2011. (V. 2.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^548]: A Vhr. 139. § (3) bekezdés h) pontja a 652/2023. (XII. 28.) Korm. rendelet 16. § 27. pontja szerint módosított szöveg.

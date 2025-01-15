@@ -2,11 +2,11 @@
 
 ## Szabályzati Bizottság létrehozása működtetése
 
-116. §[^473] (1) A Szabályzati Bizottságban (a továbbiakban: SZB) az azonos típusú engedéllyel rendelkezők az engedélyesi körök által választott képviselőik útján vesznek részt.
+116. §[^472] (1) A Szabályzati Bizottságban (a továbbiakban: SZB) az azonos típusú engedéllyel rendelkezők az engedélyesi körök által választott képviselőik útján vesznek részt.
 
 (2) Az SZB-ben a következő engedélyesi körök vesznek részt véleményezési joggal, választott képviselőjük útján:
 
-a)[^474] szállítási rendszerüzemeltetői,
+a)[^473] szállítási rendszerüzemeltetői,
 
 b) földgáztárolási,
 
@@ -16,17 +16,17 @@ d) földgáz-kereskedelmi,
 
 e) egyetemes szolgáltatási,
 
-f)[^475] szervezett földgázpiac-működtetési és
+f)[^474] szervezett földgázpiac-működtetési és
 
-g)[^476] LNG-létesítmény üzemeltetői
+g)[^475] LNG-létesítmény üzemeltetői
 
 engedélyesek.
 
-(3) Az SZB-ben külön-külön felhasználói kört alkotnak az egyetemes szolgáltatásban és a kereskedelmi ellátásban részesülő felhasználók.
+(3)[^476] Az SZB-ben véleményezési joggal vesznek részt külön-külön felhasználói kört alkotva, a Hivatal által kijelölt, az egyetemes szolgáltatásban és a kereskedelmi ellátásban részesülő felhasználók képviselői, valamint tanácskozási joggal delegált képviselői útján az energiapolitikáért felelős miniszter.
 
 (4) Az SZB-ben véleményezési joggal részt vesz a Hivatal által kijelölt, a felhasználókat képviselő egy érdekvédelmi szerv által delegált felhasználói képviselő, és a földgáztermelők egy választott képviselője.
 
-(4a)[^477] Az SZB-ben megfigyelőként, tanácskozási joggal részt vesz a földgázszállítási tevékenység végzésére engedéllyel rendelkező, szállítási rendszerirányítónak nem minősülő földgázipari vállalkozás egy választott képviselője.
+(4a)[^477]
 
 (5) Az engedélyesi és a felhasználói körök saját ügyrendjük szerint működnek, amely alapján megválasztják felelős képviselőjüket.
 
@@ -36,10 +36,11 @@ engedélyesek.
 
 (8)[^479] A szállítási rendszerirányító – az SZB bevonásával – köteles olyan előkészítő munkát végezni, amely lehetővé teszi, hogy a jogszabályi változások kihirdetését követő 90 napon belül az azokban foglaltak az ÜKSZ-ben átvezetésre kerüljenek, és a módosított ÜKSZ a Hivatalhoz jóváhagyásra benyújtásra kerüljön.
 
-[^473]: A Vhr. 116. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
-[^474]: A Vhr. 116. § (2) bekezdés a) pontja a 378/2011. (XII. 31.) Korm. rendelet 79. § (9) bekezdésével megállapított szöveg.
-[^475]: A Vhr. 116. § (2) bekezdés f) pontja a 652/2023. (XII. 28.) Korm. rendelet 16. § 19. pontja szerint módosított szöveg.
-[^476]: A Vhr. 116. § (2) bekezdés g) pontját a 652/2023. (XII. 28.) Korm. rendelet 9. §-a iktatta be.
-[^477]: A Vhr. 116. § (4a) bekezdését a 99/2013. (III. 29.) Korm. rendelet 2. § (3) bekezdése iktatta be.
+[^472]: A Vhr. 116. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^473]: A Vhr. 116. § (2) bekezdés a) pontja a 378/2011. (XII. 31.) Korm. rendelet 79. § (9) bekezdésével megállapított szöveg.
+[^474]: A Vhr. 116. § (2) bekezdés f) pontja a 652/2023. (XII. 28.) Korm. rendelet 16. § 19. pontja szerint módosított szöveg.
+[^475]: A Vhr. 116. § (2) bekezdés g) pontját a 652/2023. (XII. 28.) Korm. rendelet 9. §-a iktatta be.
+[^476]: A Vhr. 116. § (3) bekezdése a 467/2024. (XII. 30.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^477]: A Vhr. 116. § (4a) bekezdését a 99/2013. (III. 29.) Korm. rendelet 2. § (3) bekezdése iktatta be, a 467/2024. (XII. 30.) Korm. rendelet 15. § a) pontja hatályon kívül helyezte.
 [^478]: A Vhr. 116. § (7) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 79. § (9) bekezdése szerint módosított szöveg.
 [^479]: A Vhr. 116. § (8) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 79. § (9) bekezdése szerint módosított szöveg.
