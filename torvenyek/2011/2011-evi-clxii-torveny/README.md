@@ -50,3 +50,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-162-00-00
 | 2024-07-09 | 2024. évi XVII. törvény | 2011-162-00-00.43 |
 | 2024-07-10 | 2024. évi XXVIII. törvény | 2011-162-00-00.46 |
 | 2024-09-01 | 2024. évi XII. törvény | 2011-162-00-00.42 |
+| 2025-01-15 | 2024. évi XVII. törvény | 2011-162-00-00.44 |
