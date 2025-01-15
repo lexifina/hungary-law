@@ -1,3 +1,3 @@
-18. §[^18]
+18. § Az Inyvhr. 136. § (3) bekezdése a következő 10. ponttal kiegészülve lép hatályba:
 
-[^18]: A 18. § a 28. § (2) bekezdése alapján 2025. január 15-én lép hatályba.
+(Nincs helye a beadvány automatikus döntéshozatallal történő elbírálásának, ha a következő jogok, tények vagy adatok közül bármelyik be van jegyezve az érintett ingatlan tulajdoni lapján:)

@@ -1,3 +1,3 @@
-2. §[^2]
+2. § Az Inyvhr. 2. § (1) bekezdése a következő 39. és 40. ponttal kiegészülve lép hatályba:
 
-[^2]: A 2. § a 28. § (2) bekezdése alapján 2025. január 15-én lép hatályba.
+(Az ingatlan jogi jellegeként bejegyezhető adatok:)

@@ -1,3 +1,3 @@
-8. §[^8]
+8. § Az Inyvhr. 44. §-a a következő (4) bekezdéssel kiegészülve lép hatályba:
 
-[^8]: A 8. § a 28. § (2) bekezdése alapján 2025. január 15-én lép hatályba.
+„(4) A bejegyzett közfeladathoz rendelt vagyonkezelői jog hatálya azonos a szerződésen alapuló elidegenítési és terhelési tilalomra vonatkozó bejegyzés hatályával.”

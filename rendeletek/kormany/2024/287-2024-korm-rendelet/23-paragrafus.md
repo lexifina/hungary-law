@@ -1,3 +1,7 @@
-23. §[^23]
+23. § Nem lép hatályba az Inyvhr.
 
-[^23]: A 23. § a 28. § (2) bekezdése alapján 2025. január 15-én lép hatályba.
+a) 21. § 50. pontjában és 25. § (2) bekezdés 49. pontjában a „biztonsági övezet és” szövegrész,
+
+b) 89. §-a,
+
+c) 114. § (1) bekezdés b) pontja.

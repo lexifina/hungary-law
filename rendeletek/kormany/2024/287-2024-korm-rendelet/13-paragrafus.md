@@ -1,3 +1,3 @@
-13. §[^13]
+13. § Az Inyvhr. 44. alcím címe a következő szöveggel lép hatályba:
 
-[^13]: A 13. § a 28. § (2) bekezdése alapján 2025. január 15-én lép hatályba.
+„44. Kisajátítási, telekalakítási, országos közúttal érintett ingatlan tulajdonjogi viszonyainak rendezése iránti, az országos jelentőségű vasútvonallal érintett ingatlan tulajdonjogi viszonyainak rendezése iránti, bányászati célú szolgalom alapítására irányuló, valamint a részarány-földtulajdon helyének meghatározására irányuló eljárás megindítása”

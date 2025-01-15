@@ -1,3 +1,3 @@
-17. §[^17]
+17. §[^3]
 
-[^17]: A 17. § a 28. § (2) bekezdése alapján 2025. január 15-én lép hatályba.
+[^3]: A 17. § a 483/2024. (XII. 31.) Korm. rendelet 27. § b) pontja alapján nem lép hatályba.

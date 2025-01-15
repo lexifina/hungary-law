@@ -1,3 +1,3 @@
-9. §[^9]
+9. § Az Inyvhr. 67. §-a a következő (4) bekezdéssel kiegészülve lép hatályba:
 
-[^9]: A 9. § a 28. § (2) bekezdése alapján 2025. január 15-én lép hatályba.
+„(4) Ha a zálogjog átváltoztatása során a felek az önálló zálogjog tőkeösszegét és a jelzálogjog tőkeösszegét nem azonos pénznemben határozzák meg, az önálló zálogjognak a jelzálogjog ranghelyén, illetve a jelzálogjognak az önálló zálogjog ranghelyén történő bejegyzéséhez az eredeti zálogjogot követő ranghelyen bejegyzett zálogjogosultak hozzájárulása szükséges. Hozzájárulás hiányában az átváltoztatással létrejött zálogjog – bejegyzett elidegenítési és terhelési tilalom vagy terhelési tilalom esetén a tilalom jogosultjának hozzájárulásával – csak új ranghelyre jegyezhető be.”

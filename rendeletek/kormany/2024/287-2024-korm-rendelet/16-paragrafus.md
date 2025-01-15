@@ -1,3 +1,3 @@
-16. §[^16]
+16. §[^2]
 
-[^16]: A 16. § a 28. § (2) bekezdése alapján 2025. január 15-én lép hatályba.
+[^2]: A 16. § a 483/2024. (XII. 31.) Korm. rendelet 27. § a) pontja alapján nem lép hatályba.
