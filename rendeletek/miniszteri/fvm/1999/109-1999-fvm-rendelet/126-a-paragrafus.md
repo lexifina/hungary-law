@@ -1,3 +1,0 @@
-## 126. §[^403] Ahol e rendelet hatósági határozatot vagy hatósági megkeresést említ, azon a közjegyzőnek a nemperes eljárásban hozott határozatát, valamint a közjegyzőnek a nemperes eljárásban az ingatlanügyi hatósághoz intézett megkeresését, továbbá a bírósági végrehajtónak a bírósági végrehajtásról szóló törvény alapján tett intézkedését és a bírósági végrehajtásról szóló törvény alapján az ingatlanügyi hatósághoz intézett megkeresését is érteni kell.
-
-[^403]: A 126. §-t a 48/2010. (IV. 27.) FVM rendelet 90. §-a iktatta be, szövege a 7/2020. (VI. 10.) MvM rendelet 13. § 16. pontja szerint módosított szöveg.
