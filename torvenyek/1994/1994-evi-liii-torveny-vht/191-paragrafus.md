@@ -8,6 +8,6 @@
 
 (4) A fizetési számlán elhelyezett összegre vonatkozó mentességi szabályokat a biztosítási intézkedés esetén is alkalmazni kell.
 
-(5) Az ingatlan lefoglalása végett a végrehajtó haladéktalanul megkeresi az ingatlanügyi hatóságot, hogy a pénzkövetelés biztosítására irányuló végrehajtási jogot jegyezze be az ingatlan-nyilvántartásba. A további eljárásra a 138. § megfelelően irányadó.
+(5) Az ingatlan lefoglalása végett a végrehajtó haladéktalanul felhívja az ingatlanügyi hatóságot, hogy a pénzkövetelés biztosítására irányuló végrehajtási jogot jegyezze be az ingatlan-nyilvántartásba. A további eljárásra a 138. § megfelelően irányadó.
 
 (6) Munkabér [7. § (1) bek.] akkor tiltható le, ha az adósnak a biztosítandó összeg fedezetéül szolgáló, végrehajtás alá vonható más vagyontárgya nincs.

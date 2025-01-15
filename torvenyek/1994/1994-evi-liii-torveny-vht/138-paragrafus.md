@@ -4,7 +4,7 @@
 
 (1a) Ha az ingatlan-nyilvántartási eljárás igazgatási szolgáltatási díjának megfizetését a végrehajtást kérő a végrehajtási eljárásban igazolta, az igazgatási szolgáltatási díjat a végrehajtási eljárásban végrehajtási költségként kell behajtani.
 
-(2) A végrehajtó az ingatlan lefoglalása végett megkeresi az ingatlanügyi hatóságot, hogy a végrehajtási jogot jegyezze be az ingatlan-nyilvántartásba, egyúttal felhívja az ingatlanügyi hatóságot, hogy a végrehajtási jog bejegyzésével kapcsolatos határozatának megküldésével együtt tájékoztassa a végrehajtót azoknak a nevéről és lakóhelyéről (székhelyéről), akiknek az ingatlanra vonatkozólag az ingatlan-nyilvántartásba bejegyzett joguk van, valamint a lefoglalt ingatlant érintően a földhasználati nyilvántartásba bejegyzett földhasználat jogcíméről és időtartamáról. A foglalás a végrehajtási jog bejegyzésével valósul meg.
+(2) A végrehajtó az ingatlan lefoglalása végett felhívja az ingatlanügyi hatóságot, hogy a végrehajtási jogot jegyezze be az ingatlan-nyilvántartásba. A lefoglalás a végrehajtási jog bejegyzésével valósul meg.
 
 (3) Az ingatlanügyi hatóság a végrehajtási jog bejegyzését – ideértve a megelőző beadványokat is – a végrehajtási költségként megelőlegezett igazgatási szolgáltatási díj megfizetését követően soron kívül intézi el.
 

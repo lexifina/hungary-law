@@ -6,6 +6,6 @@ a) az árverési vevő részére az árverési vétel igazolása céljából, é
 
 b) az ingatlanügyi hatóság részére az árverési vevő tulajdonjogának az ingatlan-nyilvántartásba való bejegyzése érdekében.
 
-(3) A végrehajtó a tulajdonjog bejegyzési eljárás megindítása iránti megkeresésében tájékoztatja az ingatlanügyi hatóságot az adós adóazonosító jeléről, adóazonosító jel hiányában az adós nevéről, születési helyéről, idejéről, anyja leánykori nevéről és lakóhelyéről (nem magyar állampolgárságú magánszemélynek az útlevélszámáról), továbbá arról, hogy az árverés jogerőre emelkedett, és az árverési vételárat kifizették.
+(3) A végrehajtó a tulajdonjog bejegyzése iránti felhívásában tájékoztatja az ingatlanügyi hatóságot az adós adóazonosító jeléről, adóazonosító jel hiányában az adós nevéről, születési helyéről, idejéről, anyja leánykori nevéről és lakóhelyéről (nem magyar állampolgárságú magánszemélynek az útlevélszámáról), továbbá arról, hogy az árverés jogerőre emelkedett, és az árverési vételárat kifizették.
 
 (4) Az elektronikus árverési rendszer a licitnapló lezárását követő 30. napon automatikusan megszünteti az elektronikus árverési hirdetmény közzétételét, valamint archiválja az elektronikus árverési hirdetmények nyilvántartásából az árverési hirdetményt és a hozzá tartozó licitnaplót. Az archivált árverési hirdetményt és licitnaplót a Kar hivatali szerve az archiválástól számított tíz évig őrzi meg.
