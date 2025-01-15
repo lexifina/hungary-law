@@ -14,8 +14,8 @@ c) a végintézkedés kihirdetésének idejét.
 
 (3) A kihirdetett végintézkedéseket a tárgyév hagyatéki iratainak Levéltárba való átadásakor a nyilvántartásból a KÜR útján készített jegyzékkel kell átadni.
 
-(3a)[^62] Ha a hagyatéki eljárás lefolytatására az elektronikus ügyviteli szabályok irányadóak, akkor a (3) bekezdés alkalmazása során a végintézkedéseket azon ügyszámú hagyatéki iratokkal együtt kell – a KÜR útján készített jegyzékkel – Levéltárba adni, amelyek között a papíralapú végintézkedés kihirdetésre került.
+(3a)[^66] Ha a hagyatéki eljárás lefolytatására az elektronikus ügyviteli szabályok irányadóak, akkor a (3) bekezdés alkalmazása során a végintézkedéseket azon ügyszámú hagyatéki iratokkal együtt kell – a KÜR útján készített jegyzékkel – Levéltárba adni, amelyek között a papíralapú végintézkedés kihirdetésre került.
 
 (4) A közjegyző, illetve a közjegyzőhelyettes a végintézkedésen a kihirdetést követően feltünteti a kihirdetés tényét, időpontját (év, hónap, nap), a hagyatéki ügy ügyszámát, majd a záradékot hivatali aláírásával (kihirdetési záradékkal) látja el. A közjegyző, illetve a közjegyzőhelyettes a több lapból álló végintézkedés egyes lapjait a kihirdetés alkalmával hivatali aláírásával látja el.
 
-[^62]: A 87. § (3a) bekezdését a 13/2023. (IX. 21.) IM rendelet 25. §-a iktatta be.
+[^66]: A 87. § (3a) bekezdését a 13/2023. (IX. 21.) IM rendelet 25. §-a iktatta be.

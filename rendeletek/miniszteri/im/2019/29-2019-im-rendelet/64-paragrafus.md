@@ -1,4 +1,4 @@
-## 63/A. §[^53] Külföldi hagyatéki eljárás céljára a közjegyző – ha a közjegyzői okirat a Levéltár őrizetében van, a Levéltár – a végintézkedést tartalmazó közjegyzői okirat hiteles kiadmányát – ha a közjegyzői okirat a Levéltár őrizetében van, a hiteles másolatát – küldi meg a megkereső külföldi bíróságnak, hatóságnak.
+## 63/A. §[^57] Külföldi hagyatéki eljárás céljára a közjegyző – ha a közjegyzői okirat a Levéltár őrizetében van, a Levéltár – a végintézkedést tartalmazó közjegyzői okirat hiteles kiadmányát – ha a közjegyzői okirat a Levéltár őrizetében van, a hiteles másolatát – küldi meg a megkereső külföldi bíróságnak, hatóságnak.
 
 64. § (1) Ha a Kjtv. 137. §-a szerinti másolat-hitelesítési eljárás keretében a papíralapú okiratról az elektronikus másolatot a közjegyző vagy a közjegyzőhelyettes készíti, ennek során a másolatkészítő biztosítja az előtte felmutatott papíralapú okirat és az arról készített elektronikus hiteles másolat képi vagy tartalmi egyezőségét, és azt, hogy minden – az aláírás elhelyezését követően az elektronikus másolaton tett – módosítás érzékelhető legyen.
 
@@ -40,4 +40,4 @@ d) a hitelesítési záradékot hivatali aláírásával [Kjtv. 21/A. § (1) bek
 
 (9) Az okirat okirati jellegét nem érinti, ha – papíralapú okirat esetén a hordozóanyag, elektronikus okirat esetén az adategyüttes vizuális érzékelés céljára megjelenített képe – a szövegen túl ábrát, képet vagy más hasonló dolgot tartalmaz.
 
-[^53]: A 63/A. §-t az 1/2021. (III. 12.) IM rendelet 12. §-a iktatta be.
+[^57]: A 63/A. §-t az 1/2021. (III. 12.) IM rendelet 12. §-a iktatta be.

@@ -38,7 +38,7 @@ Statisztikai jelentés adattartalma a közjegyzői ügyek intézéséről 20.. �
 
 |  | Záradéki tanúsítványok készítése során közreműködés megtagadása: |  |
 
-3.[^69] Közjegyzői nemperes ügyek – kivéve a végrehajtás elrendelése iránti ügyek és a fizetési meghagyásos ügyek
+3.[^74] Közjegyzői nemperes ügyek – kivéve a végrehajtás elrendelése iránti ügyek és a fizetési meghagyásos ügyek
 
 3.1. Hagyatéki ügy
 
@@ -130,4 +130,4 @@ Statisztikai jelentés adattartalma a közjegyzői ügyek intézéséről 20.. �
 
 |  | Az ügyekből önálló bírósági végrehajtónak átadva |  |  |  |
 
-[^69]: Az 1. melléklet 3. pontja az 50/2024. (XII. 31.) IM rendelet 3. §-ával megállapított szöveg.
+[^74]: Az 1. melléklet 3. pontja az 50/2024. (XII. 31.) IM rendelet 3. §-ával megállapított szöveg.

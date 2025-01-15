@@ -102,6 +102,30 @@ a) bizonyítványt állított ki,
 
 b) a bizonyítvány kiállítását megtagadta.
 
+21.[^18] jelzálogjog és az azt biztosító elidegenítési tilalom, terhelési tilalom, vagy elidegenítési és terhelési tilalom ingatlan-nyilvántartási bejegyzése vagy törlése iránti eljárásban, amelyben a közjegyző vagy a közjegyzőhelyettes
+
+a) a kérelemnek helyt adott,
+
+b) a kérelmet elutasította;
+
+22.[^19] ingatlan-nyilvántartási hatósági felhívásra irányuló eljárásban, amelyben a közjegyző vagy a közjegyzőhelyettes
+
+a) az ingatlanügyi hatóság felhívásáról rendelkezett,
+
+b) az ingatlan-nyilvántartási hatósági felhívás kiadására irányuló kérelmet elutasította;
+
+23.[^20] ingatlan-nyilvántartási eljárásban felhasználandó, külföldön kiállított ügyleti meghatalmazás, jogi képviselet ellátására adott meghatalmazás vagy a közjegyzőkről szóló 1991. évi XLI. törvény (a továbbiakban: Kjtv.) 174/A. §-a szerinti felhatalmazás, illetve az ingatlan-nyilvántartás informatikai rendszerében tehető nyilatkozat rögzítése iránti eljárásban, amelyben a közjegyző vagy a közjegyzőhelyettes
+
+a) a meghatalmazás, felhatalmazás, illetve nyilatkozat rögzítését elrendelte,
+
+b) az eljárást megindító kérelmet elutasította;
+
+24.[^21] ingatlan-nyilvántartási eljárásban jogi képviselet ellátására adott meghatalmazás vagy a Kjtv. 174/A. §-a szerinti felhatalmazás, az ingatlan-nyilvántartási eljárásban felhasználandó ügyleti meghatalmazás, illetve az ingatlan-nyilvántartás informatikai rendszerében tehető nyilatkozat elektronikus hitelesítése iránti eljárásban, amelyben a közjegyző vagy a közjegyzőhelyettes
+
+a) a meghatalmazás, felhatalmazás, ügyleti meghatalmazás, illetve nyilatkozat hitelesítését elrendelte,
+
+b) az eljárást megindító kérelmet elutasította.
+
 (4) Az ügy befejezésének tényét a közjegyző vagy a közjegyzőhelyettes irodai utasításban állapítja meg.
 
 (5) A KÜR-nek alkalmasnak kell lennie arra, hogy a befejezett, de további intézkedést igénylő ügyek a befejezett és további intézkedést nem igénylő ügyektől elkülönítve legyenek lekérdezhetők.
@@ -109,3 +133,7 @@ b) a bizonyítvány kiállítását megtagadta.
 [^15]: A 35. § (3) bekezdés 3. pontja az 1/2021. (III. 12.) IM rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^16]: A 35. § (3) bekezdés 12. pontja az 1/2021. (III. 12.) IM rendelet 3. § (2) bekezdésével megállapított szöveg.
 [^17]: A 35. § (3) bekezdés 20. pontját a 12/2023. (VII. 31.) IM rendelet 4. §-a iktatta be.
+[^18]: A 35. § (3) bekezdés 21. pontját az 50/2024. (XII. 31.) IM rendelet 1. §-a iktatta be.
+[^19]: A 35. § (3) bekezdés 22. pontját az 50/2024. (XII. 31.) IM rendelet 1. §-a iktatta be.
+[^20]: A 35. § (3) bekezdés 23. pontját az 50/2024. (XII. 31.) IM rendelet 1. §-a iktatta be.
+[^21]: A 35. § (3) bekezdés 24. pontját az 50/2024. (XII. 31.) IM rendelet 1. §-a iktatta be.

@@ -2,7 +2,7 @@
 
 (2) A papíralapú beadvány beérkezési idejének azt a napot kell tekinteni, amikor az a közjegyzőhöz megérkezett, szóbeli beadvány esetén pedig azt a napot, amikor azt a közjegyzőnél előterjesztették.
 
-(2a)[^59] Ha a fél a beadványát az eljáró közjegyző helyett tévesen a MOKK részére küldi meg, a MOKK a beadványt – ha az eljáró közjegyző abból beazonosítható – haladéktalanul, elektronikus úton továbbítja az eljáró közjegyző részére. A beazonosíthatatlan beadványt a MOKK – ezzel a megjelöléssel – visszaküldi a feladónak.
+(2a)[^63] Ha a fél a beadványát az eljáró közjegyző helyett tévesen a MOKK részére küldi meg, a MOKK a beadványt – ha az eljáró közjegyző abból beazonosítható – haladéktalanul, elektronikus úton továbbítja az eljáró közjegyző részére. A beazonosíthatatlan beadványt a MOKK – ezzel a megjelöléssel – visszaküldi a feladónak.
 
 (3) Az ügyintéző a papíralapú küldeményt – a 16. § (3) bekezdésében foglalt kivételre tekintettel – szkennelés útján rögzíti a MOKK rendszerében.
 
@@ -12,4 +12,4 @@
 
 (6) A fizetési meghagyásos ügyben a közjegyzőnél keletkezett papíralapú iratokat az ügy befejezésétől számított két év elteltével a Levéltárban kell elhelyezni. Az átadásra kerülő iratokat rendezetten, segédletekkel együtt, elektronikus úton elkészített jegyzékkel, valamint az azt tartalmazó adathordozóval kell átadni a Levéltárnak.
 
-[^59]: A 78. § (2a) bekezdését az 1/2021. (III. 12.) IM rendelet 15. §-a iktatta be.
+[^63]: A 78. § (2a) bekezdését az 1/2021. (III. 12.) IM rendelet 15. §-a iktatta be.
