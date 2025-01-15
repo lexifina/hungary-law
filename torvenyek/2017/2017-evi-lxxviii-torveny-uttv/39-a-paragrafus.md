@@ -1,0 +1,3 @@
+39/A. § (1) Ingatlanra vonatkozó vagy ingatlannal kapcsolatos jog vagy tény közhiteles nyilvántartásba való bejegyzésére irányuló eljárásban (a továbbiakban: ingatlan-nyilvántartási ügy) jogi képviselet ellátására az az ügyvéd és kamarai jogtanácsos jogosult, akinek a jogosultságát az ügyvédi kamarai nyilvántartásba bejegyezték (a továbbiakban: ingatlan-nyilvántartási ügyben eljárásra jogosult).
+
+(2) Az ingatlan-nyilvántartási ügyben való jogi képviselet ellátására vonatkozó, valamennyi a jog vagy tény bejegyzésével közvetlenül érintett személy által egybehangzóan adott meghatalmazást az ingatlan-nyilvántartásról szóló törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott tartalommal és módon, elektronikus űrlapon kell megszerkeszteni és hitelesíteni.

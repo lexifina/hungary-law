@@ -8,6 +8,8 @@ b) pénzbírság,
 
 c) kamarai közügyektől való eltiltás,
 
-d) ügyvédjelölt foglalkoztatásától való eltiltás, valamint
+d) ügyvédjelölt foglalkoztatásától való eltiltás,
 
-e) kizárás.
+e) ingatlan-nyilvántartási ügyektől való eltiltás, valamint
+
+f) kizárás.

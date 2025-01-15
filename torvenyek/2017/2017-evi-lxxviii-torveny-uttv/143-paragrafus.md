@@ -2,11 +2,11 @@
 
 143. § (1) A fegyelmi tanács
 
-a) a kizárás, a kamarai közügyektől való eltiltás és az ügyvédjelölt foglalkoztatásától való eltiltás fegyelmi büntetés hatálya legalább felének elteltét követően, vagy
+a) a kizárás, a kamarai közügyektől való eltiltás, az ügyvédjelölt foglalkoztatásától való eltiltás, valamint az ingatlan-nyilvántartási ügyektől való eltiltás fegyelmi büntetés hatálya legalább felének elteltét követően,
 
 b) a pénzbírság legalább felének megfizetését követően
 
-a fegyelmi büntetés hatálya alatt álló, arra érdemes személyt méltányosságból mentesítheti a fegyelmi büntetés további joghatásai alól.
+az adott fegyelmi büntetés hatálya alatt álló, arra érdemes személyt méltányosságból mentesítheti a fegyelmi büntetés további joghatásai alól.
 
 (2) A fegyelmi tanács a pénzbírság megfizetésére kamarai szabályzatban meghatározott feltételek szerint, az arra érdemes személy számára egy alkalommal részletfizetést vagy halasztást engedélyezhet.
 

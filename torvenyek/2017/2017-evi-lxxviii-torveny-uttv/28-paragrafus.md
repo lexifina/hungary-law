@@ -15,3 +15,11 @@
 (5) A megbízás teljesítésében – ha a felek eltérően nem rendelkeznek – az egyéni ügyvéd, az európai közösségi jogász, az ügyvédi iroda tagjai, a helyettes ügyvéd, az ezek alkalmazásában álló alkalmazott ügyvéd, alkalmazott európai közösségi jogász és ügyvédjelölt, valamint a külföldi jogi tanácsadó járhatnak el.
 
 (6) A megbízott szerződésszegésért való felelőssége csak egyedileg megtárgyalt szerződési feltételben, és csak a kárnak a megbízott kötelező felelősségbiztosítása káreseményenkénti legmagasabb összegét meghaladó része tekintetében korlátozható.
+
+(7) Ügyvédi megbízás csak olyan ügyben vállalható el, amelynek az esetében a 2. § (1) bekezdése szerinti ügyvédi tevékenység ellátásához szükséges, jogszabályban előírt jogi és technikai feltételekkel
+
+a) az ügyvédi iroda tagja, illetve az ügyvéd, vagy
+
+b) az ügyvédi iroda, illetve az ügyvéd alkalmazottja
+
+– almegbízott igénybevétele nélkül – legkésőbb a teljesítéskor rendelkezik. Az e bekezdésbe ütköző megállapodás semmis.

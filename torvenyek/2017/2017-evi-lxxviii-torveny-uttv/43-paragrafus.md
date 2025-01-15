@@ -20,7 +20,9 @@ b)
 
 c) a polgári perrendtartásról szóló 2016. évi CXXX. törvény 325. § (1) bekezdés h) pontja szerinti szolgáltatással.
 
-(2b) Jogi személy vagy jogi személyiség nélküli szervezet esetében az elektronikus okiratot a képviseletére jogosult természetes személy a (2a) bekezdés szerint írja alá.
+(2b) Az ingatlan-nyilvántartás informatikai rendszerében szerkesztett elektronikus okirat esetében a (2) bekezdés c) pontja szerinti aláírás történhet az elektronikus aláírást nem használó fél helyett a kormányablakban, a külképviseleten vagy a közjegyző által történő elektronikus hitelesítés útján.
+
+(2c) Jogi személy vagy jogi személyiség nélküli szervezet esetében az elektronikus okiratot a képviseletére jogosult természetes személy a (2a) vagy a (2b) bekezdés szerint írja alá.
 
 (3) Az ellenjegyző ügyvéd a papíralapú okiraton az aláírása oldalán a szárazbélyegzőjének a lenyomatát elhelyezi, az elektronikus okiratot a 18. § (1) bekezdés szerinti követelményeknek megfelelő elektronikus aláírásával és időbélyegzővel látja el.
 

@@ -37,3 +37,5 @@ f) a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megaka
 (6) A (2) és a (4) bekezdésben meghatározott nyilvántartás a természetes személy, a jogi személy vagy más szervezet hozzájárulása esetén annak elérhetőségi adatait is tartalmazhatja.
 
 (7) Az ügyvéd a (2) és a (4) bekezdésben meghatározott adatokat a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben meghatározott ideig kezeli.
+
+(8) A 32. § (8a) bekezdése szerinti esetben a kamarai jogtanácsos nyilvántartás vezetésére nem köteles.

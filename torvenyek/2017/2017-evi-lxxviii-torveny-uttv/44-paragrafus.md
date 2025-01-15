@@ -37,3 +37,5 @@ b) az (1) bekezdés d) pontját, ha az elektronikus okiratot a fél a 43. § (2a
 (6) Az okiratot az azt szerkesztő ügyvéd mellett – az okiratban megjelölt egyes felek vonatkozásában az (1) bekezdés c) és d) pontjaiban meghatározott körülmények fennállásának tanúsítására – más ügyvéd is ellenjegyezheti, azzal, hogy az érintett körülményeket az ellenjegyzésben fel kell tüntetni.
 
 (7) Az ügyvéd által ellenjegyzett, de a felek által külföldön aláírt okirat teljes bizonyító erejéhez diplomáciai hitelesítés vagy felülhitelesítés, illetve Apostille tanúsítvány nem szükséges.
+
+(8) A kamarai jogtanácsos a 32. § (8a) bekezdése szerinti esetben, az okirat ellenjegyzését megelőzően, az (1) bekezdés c) pontja körében köteles meggyőződni a 32. § (8a) bekezdésében meghatározott feltételek teljesüléséről.

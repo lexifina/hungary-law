@@ -6,9 +6,9 @@
 
 a) ügyvédi kamarai nyilvántartásba bejelentett munkáltatója, egyházi szolgálati viszony esetében az egyházi jogi személy (e fejezet alkalmazásában a továbbiakban együtt: munkáltató),
 
-b) munkáltatójának kapcsolt vállalkozása, vagy
+b) munkáltatójának az ügyvédi kamarai nyilvántartásba bejelentett kapcsolt vállalkozása (e fejezet alkalmazásában a továbbiakban: kapcsolt vállalkozás), vagy
 
-c) a munkáltatójával irányítási vagy fenntartói viszonyban álló szerv
+c) munkáltatójával irányítási vagy fenntartói viszonyban álló, az ügyvédi kamarai nyilvántartásba bejelentett szerv
 
 számára gyakorolja.
 

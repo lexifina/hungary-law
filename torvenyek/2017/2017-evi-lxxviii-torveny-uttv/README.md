@@ -39,3 +39,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-78-00-00
 | 2024-07-01 | 2024. évi XVII. törvény | 2017-78-00-00.34 |
 | 2024-09-01 | 2024. évi XII. törvény | 2017-78-00-00.32 |
 | 2025-01-01 | 2024. évi XII. törvény | 2017-78-00-00.38 |
+| 2025-01-15 | 2024. évi XXVII. törvény | 2017-78-00-00.25 |

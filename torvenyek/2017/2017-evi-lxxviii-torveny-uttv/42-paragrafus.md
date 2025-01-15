@@ -2,7 +2,7 @@
 
 42. § (1) Az ügyvéd és az európai közösségi jogász, valamint irányításával a helyettesítésére jogosult az ügyfél jognyilatkozatáról okiratot szerkeszthet.
 
-(2) A kamarai jogtanácsos, az irányításával a helyettesítésére jogosult, valamint a kamarai jogtanácsos ügyfelének a kamarai szabályzatban meghatározott követelményeknek megfelelő munkavállalója az ügyfele és a vele szerződő személy jognyilatkozatáról okiratot szerkeszthet.
+(2) A kamarai jogtanácsos, az irányításával a helyettesítésére jogosult, valamint a kamarai jogtanácsos ügyfelének a kamarai szabályzatban meghatározott követelményeknek megfelelő munkavállalója az ügyfele és a vele szerződő személy jognyilatkozatáról – ideértve az ügyfelével szerződő személynek a szerződéshez kapcsolódó egyoldalú jognyilatkozatát is – okiratot szerkeszthet.
 
 (3) Az ügyvéd, a kamarai jogtanácsos és az európai közösségi jogász (ezen alcím alkalmazásában a továbbiakban együtt: ügyvéd) köteles megtagadni az okiratszerkesztést, ha az akaratnyilvánítás jogszabályba ütközik vagy jogszabály megkerülésére irányul.
 

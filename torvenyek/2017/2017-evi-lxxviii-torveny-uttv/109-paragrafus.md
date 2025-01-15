@@ -14,6 +14,8 @@ terjedhet.
 
 (5) Az ügyvédjelölt foglalkoztatásától való eltiltás határozott időre szól. Az eltiltás időtartama a fegyelmi határozat jogerőre emelkedésétől számított legalább egy, legfeljebb öt év.
 
+(5a) Az ingatlan-nyilvántartási ügyektől való eltiltás legrövidebb időtartama egy év, leghosszabb időtartama öt év. Az ingatlan-nyilvántartási ügyektől való eltiltás hatálya alatt az ügyvédi tevékenység gyakorlója nem jogosult ingatlan-nyilvántartási ügyben jogi képviselet ellátására, illetve az ingatlan-nyilvántartásba való bejegyzés alapjául szolgáló okirat tekintetében okiratszerkesztésre és ellenjegyzésre.
+
 (6) A kizárás fegyelmi büntetés legrövidebb időtartama három év, leghosszabb időtartama tíz év. A kizárás fegyelmi büntetés hatálya alatt ügyvédi tevékenység nem folytatható.
 
 (7) A fegyelmi büntetések egymás mellett is alkalmazhatók. Nem alkalmazható
@@ -21,3 +23,5 @@ terjedhet.
 a) írásbeli megrovás mellett más fegyelmi büntetés, valamint
 
 b) végrehajtásában fel nem függesztett kizárás mellett kamarai közügyektől eltiltás vagy ügyvédjelölt foglalkoztatásától való eltiltás.
+
+(8) Az ingatlan-nyilvántartási ügyektől való eltiltás tartamába a kizárás fegyelmi büntetés végrehajtásának az időtartama nem számít bele.
