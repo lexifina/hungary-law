@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-474-20-
 | 2020-12-25 | 2013-474-20-22.11 | 593/2020. (XII. 17.) Korm. rendelet |
 | 2023-05-15 | 2013-474-20-22.12 | 170/2023. (V. 12.) Korm. rendelet |
 | 2024-02-25 | 2013-474-20-22.13 | 31/2024. (II. 22.) Korm. rendelet |
+| 2025-01-15 | 2013-474-20-22.14 | 481/2024. (XII. 31.) Korm. rendelet |

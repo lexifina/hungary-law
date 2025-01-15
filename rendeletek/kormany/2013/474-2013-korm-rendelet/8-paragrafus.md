@@ -1,3 +1,3 @@
-8. §[^34]
+8. §[^46]
 
-[^34]: A 8. §-t a 341/2016. (XI. 17.) Korm. rendelet 14. § a) pontja hatályon kívül helyezte.
+[^46]: A 8. §-t a 341/2016. (XI. 17.) Korm. rendelet 14. § a) pontja hatályon kívül helyezte.

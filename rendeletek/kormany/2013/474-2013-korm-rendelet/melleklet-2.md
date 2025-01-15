@@ -1,4 +1,4 @@
-2. melléklet a 474/2013. (XII. 12.) Korm. rendelethez[^60]
+2. melléklet a 474/2013. (XII. 12.) Korm. rendelethez[^74]
 
 A haszonbérleti szerződés hirdetményi úton történő közlésére irányuló közzétételi kérelem tartalma
 
@@ -10,7 +10,7 @@ I. A kérelmező által megadandó tartalmi elemek:
 
 a) természetes személyazonosító adatai,
 
-b)[^61] lakcíme.
+b)[^75] lakcíme.
 
 1.2. A gazdálkodó vagy egyéb szervezet kérelmező
 
@@ -58,8 +58,8 @@ II. A jegyző által feltüntetendő tartalmi elemek:
 
 3. A jegyző aláírása, bélyegzője és az aláírás dátuma.
 
-4.[^62]
+4.[^76]
 
-[^60]: A 2. melléklet a 341/2016. (XI. 17.) Korm. rendelet 13. § c)–e) pontja, a 477/2016. (XII. 27.) Korm. rendelet 72. § (3) bekezdése, a 103/2018. (VI. 11.) Korm. rendelet 9. §-a szerint módosított szöveg.
-[^61]: A 2. melléklet 1.1. pont b) alpontja a 170/2023. (V. 12.) Korm. rendelet 29. § c) pontja szerint módosított szöveg.
-[^62]: A 2. melléklet II. pont 4. alpontját a 170/2023. (V. 12.) Korm. rendelet 29. § e) pontja hatályon kívül helyezte.
+[^74]: A 2. melléklet a 341/2016. (XI. 17.) Korm. rendelet 13. § c)–e) pontja, a 477/2016. (XII. 27.) Korm. rendelet 72. § (3) bekezdése, a 103/2018. (VI. 11.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^75]: A 2. melléklet 1.1. pont b) alpontja a 170/2023. (V. 12.) Korm. rendelet 29. § c) pontja szerint módosított szöveg.
+[^76]: A 2. melléklet II. pont 4. alpontját a 170/2023. (V. 12.) Korm. rendelet 29. § e) pontja hatályon kívül helyezte.
