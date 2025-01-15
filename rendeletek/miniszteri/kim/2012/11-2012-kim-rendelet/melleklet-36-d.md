@@ -1,6 +1,6 @@
-36/D. melléklet a 11/2012. (II. 29.) KIM rendelethez[^73]
+36/D. melléklet a 11/2012. (II. 29.) KIM rendelethez[^74]
 
-## Az alapítványok egyesülésének bejegyzése iránti kérelem elektronikus űrlapjának adattartalma
+Az alapítványok egyesülésének bejegyzése iránti kérelem elektronikus űrlapjának adattartalma
 
 1. Az egyesületek egyesülésének bejegyzése iránti kérelem elektronikus űrlapjának adattartalmán túlmenően – az űrlap 2. és 6. pontja kivételével –:
 
@@ -20,4 +20,4 @@
 
 3.4. alapítvány képviselőjének neve
 
-[^73]: A 36/D. mellékletet a 12/2014. (II. 28.) KIM rendelet 6. § (38) bekezdése iktatta be.
+[^74]: A 36/D. mellékletet a 12/2014. (II. 28.) KIM rendelet 6. § (38) bekezdése iktatta be.

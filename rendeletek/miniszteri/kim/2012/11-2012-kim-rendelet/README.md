@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-11-20-2
 | 2017-04-04 | 2012-11-20-2T.10 | 3/2017. (IV. 3.) IM rendelet |
 | 2018-01-01 | 2012-11-20-2T.11 | 20/2017. (XII. 21.) IM rendelet |
 | 2020-01-01 | 2012-11-20-2T.12 | 32/2019. (XII. 20.) IM rendelet |
+| 2025-01-15 | 2012-11-20-2T.13 | 27/2024. (XII. 30.) IM rendelet |

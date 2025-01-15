@@ -1,6 +1,6 @@
-11. melléklet a 11/2012. (II. 29.) KIM rendelethez[^43]
+11. melléklet a 11/2012. (II. 29.) KIM rendelethez[^44]
 
-## A nemzetközi sportszövetség nyilvántartásba vétele iránti kérelem elektronikus űrlapjának adattartalma
+A nemzetközi sportszövetség nyilvántartásba vétele iránti kérelem elektronikus űrlapjának adattartalma
 
 1. Az eljáró bíróság megjelölése.
 
@@ -118,4 +118,4 @@
 
 9.3. az űrlap kitöltésének módja
 
-[^43]: A 11. mellékletet a 32/2019. (XII. 20.) IM rendelet 4. §-a iktatta be.
+[^44]: A 11. mellékletet a 32/2019. (XII. 20.) IM rendelet 4. §-a iktatta be.

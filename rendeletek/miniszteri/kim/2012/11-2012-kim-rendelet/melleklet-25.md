@@ -1,6 +1,6 @@
 25. melléklet a 11/2012. (II. 29.) KIM rendelethez
 
-## Az egyesület nyilvántartásból való törlése iránti kérelme elektronikus űrlapjának adattartalma
+Az egyesület nyilvántartásból való törlése iránti kérelme elektronikus űrlapjának adattartalma
 
 1. A nyilvántartást vezető bíróság megjelölése.
 

@@ -1,6 +1,6 @@
 37. melléklet a 11/2012. (II. 29.) KIM rendelethez
 
-## A szervezet közhasznú jogállás nyilvántartásba vétele iránti kérelme elektronikus űrlapjának adattartalma
+A szervezet közhasznú jogállás nyilvántartásba vétele iránti kérelme elektronikus űrlapjának adattartalma
 
 1. A nyilvántartást vezető bíróság megjelölése.
 
@@ -30,7 +30,7 @@
 
 4.3. személyének típusa
 
-5.[^76] Nyilatkozat arról, hogy a létesítő okirat tartalmazza-e az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvényben előírt rendelkezéseket.
+5.[^77] Nyilatkozat arról, hogy a létesítő okirat tartalmazza-e az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvényben előírt rendelkezéseket.
 
 6. Annak jelölése, ha a közhasznú jogállás nyilvántartásba vétele iránti kérelemmel egyidejűleg változásbejegyzési űrlap került benyújtásra.
 
@@ -46,4 +46,4 @@
 
 9.3. az űrlap kitöltésének módja
 
-[^76]: A 37. melléklet 5. pontja a 12/2014. (II. 28.) KIM rendelet 6. § (35) bekezdés e) pontja szerint módosított szöveg.
+[^77]: A 37. melléklet 5. pontja a 12/2014. (II. 28.) KIM rendelet 6. § (35) bekezdés e) pontja szerint módosított szöveg.

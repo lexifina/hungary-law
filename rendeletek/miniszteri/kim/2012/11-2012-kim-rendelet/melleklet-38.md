@@ -1,6 +1,6 @@
 38. melléklet a 11/2012. (II. 29.) KIM rendelethez
 
-## Az egyéb – az 1–37. és 39. pontban nem szereplő – kérelmek előterjesztésére szolgáló elektronikus űrlap adattartalma
+Az egyéb – az 1–37. és 39. pontban nem szereplő – kérelmek előterjesztésére szolgáló elektronikus űrlap adattartalma
 
 1. Az eljáró bíróság megjelölése.
 

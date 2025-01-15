@@ -1,3 +1,5 @@
-## 6.[^21]
+## 6.[^22]
 
-[^21]: A 6. alcímet (12. §) a 3/2017. (IV. 3.) IM rendelet 4. § c) pontja hatályon kívül helyezte.
+12. §
+
+[^22]: A 6. alcímet (12. §) a 3/2017. (IV. 3.) IM rendelet 4. § c) pontja hatályon kívül helyezte.

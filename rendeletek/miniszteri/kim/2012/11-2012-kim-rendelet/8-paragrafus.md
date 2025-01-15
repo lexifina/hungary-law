@@ -22,7 +22,7 @@ h)[^19] az egyesületek egyesülésének, szétválásának, beolvadásos külö
 
 i)[^20] az alapítványok egyesülésének, szétválásának, beolvadásos különválásának és beolvadásos kiválásának bejegyzése iránti
 
-## kérelem előterjesztésére.
+kérelem előterjesztésére.
 
 (3) A papír alapú űrlapon a bíróság érkeztető bélyegzője lenyomatának helyét ki kell alakítani.
 
