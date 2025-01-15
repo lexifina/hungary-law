@@ -1,5 +1,5 @@
 ## 4. A bírósági ügyintézők által ellátható egyes feladatokról szóló 56/2008. (III. 26.) Korm. rendelet módosítása
 
-4. §[^4]
+4. § A bírósági ügyintézők által ellátható egyes feladatokról szóló 56/2008. (III. 26.) Korm. rendelet „A bírósági ügyintéző feladatellátásának alapelvei” alcíme a következő 6/B. §-sal egészül ki:
 
-[^4]: A 4. § a 9. § (2) bekezdése alapján 2025. január 15-én lép hatályba.
+„6/B. § A bírósági ügyintéző valamennyi ügyszakban ellátja az ingatlan-nyilvántartás vezetését támogató informatikai rendszerben a bírósági feladatokat.”
