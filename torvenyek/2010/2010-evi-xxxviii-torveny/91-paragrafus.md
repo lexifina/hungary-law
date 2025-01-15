@@ -2,7 +2,7 @@
 
 91. § (1) A fellebbezéssel megtámadható végzés jogerőre emelkedését a közjegyző állapítja meg. A jogerőre emelkedésről az érdekelteket – kivéve a vagyontárgyat törvényes öröklés útján megszerző államot vagy települési önkormányzatot – külön értesíteni nem kell, de az érdekelt kérelmére a végzés bemutatott kiadmányaira rá kell vezetni a jogerőre emelkedést tanúsító záradékot.
 
-(2) Ha a hagyatékot teljes hatállyal átadó végzés vagy a teljes hatályúvá vált ideiglenes hatályú hagyatékátadó végzés jogkövetkezményeinek foganatosításához közhiteles nyilvántartásba való bejegyzés szükséges, annak foganatosítása iránt a közjegyző a nyilvántartást vezető belföldi hatóságot a végzés egy példányának megküldésével megkeresi.
+(2) Ha a hagyatékot teljes hatállyal átadó végzés vagy a teljes hatályúvá vált ideiglenes hatályú hagyatékátadó végzés jogkövetkezményeinek foganatosításához közhiteles nyilvántartásba való bejegyzés szükséges, annak foganatosítása iránt a közjegyző a nyilvántartást vezető belföldi hatóságot a végzés egy példányának megküldésével megkeresi. Ingatlant érintő bejegyzés esetén a közjegyző felhívja az ingatlanügyi hatóságot a nyilvántartásba való bejegyzésre és a hagyatékátadó végzést csatolja.
 
 (2a) Ha a teljes hatályú hagyatékátadó végzés utóöröklési jogot tartalmaz, akkor a közjegyző a Végrendeletek Országos Nyilvántartásába bejegyzi az előörökös nevét, születési nevét, születési helyét és idejét, anyja születési nevét, valamint az utóöröklési jogot tartalmazó teljes hatályú hagyatékátadó végzés egyedi azonosításához szükséges adatokat.
 

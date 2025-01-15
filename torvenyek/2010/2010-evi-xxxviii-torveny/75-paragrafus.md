@@ -4,6 +4,6 @@
 
 (3) A törvényes zálogjog és az elidegenítési és terhelési tilalom létrejöttét a közjegyző – a zálogjoggal biztosított követelés meghatározását is magában foglaló – végzéssel állapítja meg.
 
-(4) A közjegyzőt megillető törvényes zálogjogot a megfelelő nyilvántartásba a közjegyző (3) bekezdés szerinti jogerős végzése alapján a megkeresésben megjelölt hagyatéki vagyontárgyra vonatkozóan a közjegyző megkeresésére jelzálogjogként kell bejegyezni, ehhez a zálogkötelezett bejegyzési engedélye, illetve a bejegyzéshez hozzájáruló zálogjogi nyilatkozata nem szükséges. Az elidegenítési és terhelési tilalom bejegyzéséhez a tulajdonos bejegyzési engedélye nem szükséges.
+(4) A közjegyzőt megillető törvényes zálogjogot a megfelelő nyilvántartásba a közjegyző (3) bekezdés szerinti jogerős végzése alapján a felhívásban megjelölt hagyatéki vagyontárgyra vonatkozóan a közjegyző felhívására jelzálogjogként kell bejegyezni, ehhez a zálogkötelezett bejegyzési engedélye, illetve a bejegyzéshez hozzájáruló zálogjogi nyilatkozata nem szükséges. Az elidegenítési és terhelési tilalom bejegyzéséhez a tulajdonos bejegyzési engedélye nem szükséges.
 
-(5) Arra alkalmas hagyatéki vagyontárgyon a törvényes zálogjog a közjegyző (3) bekezdés szerinti végzése és megkeresése alapján a zálogkötelezett hozzájárulása nélkül óvadékként is létrejöhet.
+(5) Arra alkalmas hagyatéki vagyontárgyon a törvényes zálogjog a közjegyző (3) bekezdés szerinti végzése és felhívása alapján a zálogkötelezett hozzájárulása nélkül óvadékként is létrejöhet.

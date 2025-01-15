@@ -42,4 +42,4 @@ a) belföldi természetes személy és tagállami állampolgár örökös eseté
 
 b) az a) pontba nem tartozó esetben a végintézkedés ezzel ellentétes rendelkezését semmisnek tekinti; a hagyaték érintett része tekintetében a végrendeleti örökösre, a halál esetére megajándékozottra, a bizalmi vagyonkezelőre, vagy a végintézkedéssel létesített alapítványra való átszállás nem állapítható meg, illetve a hagyaték érintett része a végrendeleti örökösnek, a halál esetére megajándékozottnak, a bizalmi vagyonkezelőnek, a végintézkedéssel létesített alapítványnak ideiglenes hatállyal sem adható át.
 
-(7) A (6) bekezdés a) pontja szerinti esetben a közjegyző az ingatlanügyi hatóságnál kezdeményezi az államot megillető vételi jog és annak biztosítására szolgáló elidegenítési és terhelési tilalom bejegyzését.
+(7) A (6) bekezdés a) pontja szerinti esetben a közjegyző felhívja az ingatlanügyi hatóságot az államot megillető vételi jog és annak biztosítására szolgáló elidegenítési és terhelési tilalom bejegyzésére.
