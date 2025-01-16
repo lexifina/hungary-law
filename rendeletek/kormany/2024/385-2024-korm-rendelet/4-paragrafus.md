@@ -1,1 +1,3 @@
-4. § Hatályát veszti a 382/2007. (XII. 23.) Korm. rendelet 6. § (5) bekezdése.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
