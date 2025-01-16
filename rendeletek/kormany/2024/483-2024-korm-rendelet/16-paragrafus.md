@@ -1,3 +1,3 @@
-16. § Az Inyvhr. a következő 117/A. §-sal kiegészülve lép hatályba:
+16. §[^17]
 
-„117/A. § A 117. §-tól eltérően – ha a kérelem papíralapon vagy e-Papír szolgáltatással, illetve hivatali tárhelyre került benyújtásra – a szerződő feleknek a kérelem visszavonása vagy módosítása iránti kérelme papíralapon vagy e-Papír szolgáltatással, illetve hivatali tárhelyre történő benyújtással elektronikusan is előterjeszthető.”
+[^17]: A 16. § a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.

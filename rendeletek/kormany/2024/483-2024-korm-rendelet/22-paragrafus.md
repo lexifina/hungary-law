@@ -1,3 +1,3 @@
-22. § Az Inyvhr. 138. § (1) bekezdése a következő 12. ponttal kiegészülve lép hatályba:
+22. §[^23]
 
-(A jogok, tények és adatok változásának bejegyzéséről rendelkező döntést közölni kell)
+[^23]: A 22. § a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.

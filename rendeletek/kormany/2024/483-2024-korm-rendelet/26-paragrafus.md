@@ -1,1 +1,3 @@
-26. § Nem lép hatályba az Inyvhr. 166. § (2) bekezdése.
+26. §[^27]
+
+[^27]: A 26. § a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.

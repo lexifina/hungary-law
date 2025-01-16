@@ -1,1 +1,3 @@
-24. § Az Inyvhr. az 1. melléklet szerinti 8. melléklettel kiegészülve lép hatályba.
+24. §[^25]
+
+[^25]: A 24. § a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.

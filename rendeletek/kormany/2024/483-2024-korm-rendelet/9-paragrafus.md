@@ -1,9 +1,3 @@
-9. § Az Inyvhr. 106. §-a a következő szöveggel lép hatályba:
+9. §[^10]
 
-„106. § Ha a tulajdonos az Inytv. 32. § (2) bekezdése szerinti bejegyzési engedélyt
-
-a) nem a tulajdonjog-átruházási szerződésben adja meg a tulajdonjogot megszerző személy részére, vagy
-
-b) nem a jelzálogjogot alapító szerződésben adja meg a jelzálogjog jogosultja részére,
-
-akkor azt az ingatlan-nyilvántartás vezetését támogató informatikai rendszerben kitöltendő elektronikus űrlapon (a továbbiakban: ingatlan-nyilvántartási elektronikus űrlap) kell létrehozni, és azt a jogi képviseletet ellátó közjegyző, ügyvéd vagy kamarai jogtanácsos, illetve a 115. § (2), (3) és (5) bekezdésében meghatározott személy előtt személyes jelenléttel, minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírás elhelyezésével kell hitelesíteni.”
+[^10]: A 9. § a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
