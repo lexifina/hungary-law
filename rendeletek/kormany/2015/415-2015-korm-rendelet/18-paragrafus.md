@@ -6,9 +6,9 @@
 
 (3) A 12. § (1) bekezdés b) pontjában foglaltaktól eltérően a fenntartónak 2016. évben először 2016. április 30-áig kell jelentenie az országos jelentési rendszerbe.
 
-(4)[^67] Biztos Kezdet Gyerekház esetén az igénybevevői nyilvántartásba 2017. december 31-ét követően kell adatot szolgáltatni.
+(4)[^69] Biztos Kezdet Gyerekház esetén az igénybevevői nyilvántartásba 2017. december 31-ét követően kell adatot szolgáltatni.
 
-(5)[^68] Tanoda esetén a szolgáltatói nyilvántartásba való bejegyzés véglegessé válását követő 30. naptól kell adatot szolgáltatni az igénybevevői nyilvántartásba.
+(5)[^70] Tanoda esetén a szolgáltatói nyilvántartásba való bejegyzés véglegessé válását követő 30. naptól kell adatot szolgáltatni az igénybevevői nyilvántartásba.
 
-[^67]: A 18. § (4) bekezdését a 235/2017. (VIII. 18.) Korm. rendelet 26. §-a iktatta be.
-[^68]: A 18. § (5) bekezdését a 226/2018. (XII. 4.) Korm. rendelet 18. §-a iktatta be.
+[^69]: A 18. § (4) bekezdését a 235/2017. (VIII. 18.) Korm. rendelet 26. §-a iktatta be.
+[^70]: A 18. § (5) bekezdését a 226/2018. (XII. 4.) Korm. rendelet 18. §-a iktatta be.
