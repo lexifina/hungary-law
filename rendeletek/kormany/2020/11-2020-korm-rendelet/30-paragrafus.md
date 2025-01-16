@@ -10,9 +10,10 @@ bb) nem köt felnőttképzési szerződést, vagy annak feltételei, tartalma ne
 
 bc) a képzés befejezését követően és a képzés díjának teljes körű megfizetése ellenére hatvan napot meghaladó késedelemmel adja ki a képzés elvégzését igazoló tanúsítványt,
 
-bd) az Fktv. 15. §-ában meghatározott adatszolgáltatási kötelezettségét nem teljesíti.
+bd)[^105] az Fktv. 15. §-ában meghatározott adatszolgáltatási kötelezettségét legkésőbb a képzés befejezésének napját követő harmadik munkanapig nem vagy nem a valóságnak megfelelően teljesíti.
 
-(2)[^105] Ismételt jogszabálysértésnek minősül, ha a felnőttképző a jogszabálysértést megállapító végleges döntésben foglaltakkal megegyező tartalmú jogszabálysértést követ el a döntés véglegessé válásától számított két éven belül.
+(2)[^106] Ismételt jogszabálysértésnek minősül, ha a felnőttképző a jogszabálysértést megállapító végleges döntésben foglaltakkal megegyező tartalmú jogszabálysértést követ el a döntés véglegessé válásától számított két éven belül.
 
 [^104]: A 30. § (1) bekezdése a 631/2022. (XII. 30.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^105]: A 30. § (2) bekezdése a 318/2020. (VII. 1.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.
+[^105]: A 30. § (1) bekezdés b) pont bd) alpontja a 492/2024. (XII. 31.) Korm. rendelet 4. § f) pontja szerint módosított szöveg.
+[^106]: A 30. § (2) bekezdése a 318/2020. (VII. 1.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.
