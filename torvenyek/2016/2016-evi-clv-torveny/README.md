@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-155-00-00
 | 2022-07-28 | 2022. évi XXIV. törvény | 2016-155-00-00.15 |
 | 2023-01-01 | 2022. évi XXII. törvény | 2016-155-00-00.16 |
 | 2023-07-07 | 2023. évi LIII. törvény | 2016-155-00-00.17 |
+| 2025-01-16 | 2024. évi LXXIII. törvény | 2016-155-00-00.18 |
