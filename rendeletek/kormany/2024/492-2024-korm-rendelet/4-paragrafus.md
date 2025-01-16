@@ -10,13 +10,13 @@ d)[^7]
 
 e)[^8]
 
-f)[^9]
+f) 30. § (1) bekezdés b) pont bd) alpontjában a „kötelezettségét nem teljesíti.” szövegrész helyébe a „kötelezettségét legkésőbb a képzés befejezésének napját követő harmadik munkanapig nem vagy nem a valóságnak megfelelően teljesíti.” szöveg,
 
-g)[^10]
+g)[^9]
 
-h)[^11]
+h)[^10]
 
-i)[^12]
+i)[^11]
 
 lép.
 
@@ -25,7 +25,6 @@ lép.
 [^6]: A 4. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^7]: A 4. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^8]: A 4. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^9]: A 4. § f) pontja a 6. § (2) bekezdése alapján 2025. január 16-án lép hatályba.
-[^10]: A 4. § g) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^11]: A 4. § h) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^12]: A 4. § i) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 4. § g) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 4. § h) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 4. § i) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
