@@ -49,3 +49,5 @@ c) kidolgozza a Végrehajtási Rendelet 3. cikk (8) bekezdés b) pontja szerinti
 (7) A Hatóság látja el a hulladékról szóló 2012. évi CLXXXV. törvény 92/H. § (2) és (5) bekezdésében meghatározott hulladékgazdálkodási kártalanítással összefüggő hatósági feladatokat.
 
 (8) A Hatóság látja el az ESG törvény és az annak felhatalmazása alapján kiadott jogszabályok hatálya alá tartozó szervezetek, személyek ezen jogszabályok szerinti tevékenységének felügyeletét, valamint az e jogszabályokban meghatározott, a Hatóság feladat- és hatáskörébe tartozó feladatokat.
+
+(9) A Hatóság látja el a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti integrátorok nyilvántartásának vezetésével kapcsolatos feladatokat.
