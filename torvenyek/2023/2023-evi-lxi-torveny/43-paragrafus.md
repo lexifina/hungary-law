@@ -1,3 +1,3 @@
 ## 15. Az egyes törvényeknek a honvédelemmel, a gazdaságfejlesztéssel, valamint a kormányzati igazgatással összefüggő módosításáról szóló 2022. évi VII. törvény módosítása
 
-43. § Az egyes törvényeknek a honvédelemmel, a gazdaságfejlesztéssel, valamint a kormányzati igazgatással összefüggő módosításáról szóló 2022. évi VII. törvény (a továbbiakban: Módtv.2) 112. §-ának az ingatlan-nyilvántartásról szóló 2021. évi C. törvény 72/B. § (1) bekezdését megállapító rendelkezése az „ingatlan-nyilvántartást vezető” szövegrész helyett az „ingatlan-nyilvántartás vezetését támogató” szöveggel lép hatályba.
+### 43. §
