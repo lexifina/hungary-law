@@ -1,3 +1,3 @@
-1. § A közjegyzői ügyvitel szabályairól szóló 29/2019. (XII. 20.) IM rendelet 35. § (3) bekezdése a következő 21–24. ponttal egészül ki:
+1. §[^2]
 
-[Az (1) és (2) bekezdésben említett ügyön kívül befejezett az az ügy is]
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
