@@ -1,7 +1,3 @@
-23. § Nem lép hatályba az Inyvhr.
+23. §[^24]
 
-a) 21. § 50. pontjában és 25. § (2) bekezdés 49. pontjában a „biztonsági övezet és” szövegrész,
-
-b) 89. §-a,
-
-c) 114. § (1) bekezdés b) pontja.
+[^24]: A 23. § a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.

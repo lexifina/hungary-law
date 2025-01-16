@@ -1,3 +1,3 @@
-2. § Az Inyvhr. 2. § (1) bekezdése a következő 39. és 40. ponttal kiegészülve lép hatályba:
+2. §[^3]
 
-(Az ingatlan jogi jellegeként bejegyezhető adatok:)
+[^3]: A 2. § a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.

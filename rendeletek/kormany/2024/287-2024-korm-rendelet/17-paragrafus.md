@@ -1,3 +1,3 @@
-17. §[^3]
+17. §[^18]
 
-[^3]: A 17. § a 483/2024. (XII. 31.) Korm. rendelet 27. § b) pontja alapján nem lép hatályba.
+[^18]: A 17. § a 483/2024. (XII. 31.) Korm. rendelet 27. § b) pontja alapján nem lép hatályba.

@@ -1,3 +1,3 @@
-8. § Az Inyvhr. 44. §-a a következő (4) bekezdéssel kiegészülve lép hatályba:
+8. §[^9]
 
-„(4) A bejegyzett közfeladathoz rendelt vagyonkezelői jog hatálya azonos a szerződésen alapuló elidegenítési és terhelési tilalomra vonatkozó bejegyzés hatályával.”
+[^9]: A 8. § a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.

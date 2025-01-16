@@ -1,3 +1,3 @@
-18. § Az Inyvhr. 136. § (3) bekezdése a következő 10. ponttal kiegészülve lép hatályba:
+18. §[^19]
 
-(Nincs helye a beadvány automatikus döntéshozatallal történő elbírálásának, ha a következő jogok, tények vagy adatok közül bármelyik be van jegyezve az érintett ingatlan tulajdoni lapján:)
+[^19]: A 18. § a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.

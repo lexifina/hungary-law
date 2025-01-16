@@ -1,5 +1,3 @@
-## „9. bányatelek jogi jelleget érintő telekalakítás bejegyzése esetén a bányafelügyelettel,”
+20. §[^21]
 
-20. § Az Inyvhr. 154. §-a a következő (4a) bekezdéssel kiegészülve lép hatályba:
-
-„(4a) Hivatalból törölni kell az ingatlan-nyilvántartásból az alzálogjogot annak a jelzálogjognak a törlésével egyidejűleg, amelyet az alzálogjog terhel.”
+[^21]: A 20. § a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
