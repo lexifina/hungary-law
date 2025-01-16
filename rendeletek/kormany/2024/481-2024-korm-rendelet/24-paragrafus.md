@@ -1,3 +1,3 @@
-24. § A 474/2013. (XII. 12.) Korm. rendelet 4. § (1) bekezdése helyébe a következő rendelkezés lép:
+24. §[^24]
 
-„(1) Az eladó a közzétételi kérelmet az adásvételi szerződés kormányzati portálon való közzétételéig vonhatja vissza.”
+[^24]: A 24. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

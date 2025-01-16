@@ -1,5 +1,3 @@
-53. § Hatályát veszti a 38/2014. (II. 24.) Korm. rendelet
+53. §[^53]
 
-a) 11/B. §-a és
-
-b) 18. §-a.
+[^53]: Az 53. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

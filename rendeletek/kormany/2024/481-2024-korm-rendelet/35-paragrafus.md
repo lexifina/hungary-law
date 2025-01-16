@@ -1,3 +1,3 @@
-35. § A 38/2014. (II. 24.) Korm. rendelet 7/A. §-a helyébe a következő rendelkezés lép:
+35. §[^35]
 
-„7/A. § Az 5. § (1) bekezdés a) pontjától, a 6. § (1) bekezdés c) pont ca) alpontjától és a 7. § (1) bekezdés a) pontjától eltérően a Kr.-ben meghatározott mezőgazdasági vagy erdészeti szakirányú képzettség igazolásának minősül az is, ha a kérelem személyesen kerül benyújtásra, és a szakirányú képzettséget igazoló okirat eredeti példányát a kérelmező papír alapú vagy elektronikus másolat készítés céljából a mezőgazdasági igazgatási szerv ügyintézője számára átadja. Ez esetben a nyilvántartásba vétel alapjául az eredeti okiratról a mezőgazdasági igazgatási szerv ügyintézője által készített papír alapú vagy elektronikus másolat szolgál.”
+[^35]: A 35. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

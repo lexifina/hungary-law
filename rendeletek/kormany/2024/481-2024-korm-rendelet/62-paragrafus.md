@@ -1,7 +1,3 @@
-62. § A 384/2016. (XII. 2.) Korm. rendelet a következő 33. §-sal egészül ki:
+62. §[^61]
 
-„33. § (1) E rendeletnek az elektronikus regisztrációra vonatkozó rendelkezéseit nem kell alkalmazni abban az esetben, ha a föld tulajdonjogának átruházására irányuló vagy a föld tulajdonjogát érintő más jogügylet írásba foglalására, továbbá azok ingatlan-nyilvántartási bejegyzéséhez szükséges jognyilatkozatok megtételére olyan papíralapú okmányon kerül sor, amely a Földforgalmi tv. végrehajtására kiadott rendeletben meghatározott biztonsági kellékekkel rendelkezik (a továbbiakban: biztonsági okmány).
-
-(2) Ha a föld tulajdonjogának átruházására irányuló vagy a föld tulajdonjogát érintő más jogügylet írásba foglalására, továbbá azok ingatlan-nyilvántartási bejegyzéséhez szükséges jognyilatkozatok megtételére biztonsági okmányon kerül sor, a hatósági jóváhagyás iránti kérelem, illetve a közzétételi kérelem benyújtására a Fétv. 17. § (3) bekezdését kell alkalmazni.
-
-(3) Ha a föld tulajdonjogának átruházására irányuló vagy a föld tulajdonjogát érintő más jogügylet írásba foglalására, továbbá azok ingatlan-nyilvántartási bejegyzéséhez szükséges jognyilatkozatok megtételére biztonsági okmányon kerül sor, a föld tulajdonjogának átruházására irányuló szerződés hatósági jóváhagyása iránti eljárás során a záradék dokumentum kiállítása mellett a papíralapon benyújtott okiratot is el kell látni jóváhagyó záradékkal.”
+[^61]: A 62. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-16. § A 356/2007. (XII. 23.) Korm. rendelet 19. § (1) bekezdése helyébe a következő rendelkezés lép:
+16. §[^16]
 
-„(1) Földhasználati lapot elektronikus másolatként az ingatlanügyi hatóság a nyilvántartás vezetését támogató informatikai rendszerben szolgáltat.”
+[^16]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

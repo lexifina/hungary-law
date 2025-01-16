@@ -1,9 +1,5 @@
 ## 1. A földhasználati nyilvántartás részletes szabályairól szóló 356/2007. (XII. 23.) Korm. rendelet módosítása
 
-1. § (1) A földhasználati nyilvántartás részletes szabályairól szóló 356/2007. (XII. 23.) Korm. rendelet [a továbbiakban: 356/2007. (XII. 23.) Korm. rendelet] 2. § (1b) bekezdése helyébe a következő rendelkezés lép:
+1. §[^1]
 
-„(1b) Ahol e rendelet adatlapra utal, ott a Fétv. 95. § (2) bekezdése szerinti bejelentési adatlapot, a Fétv. 95. § (5) bekezdése szerinti változás-bejelentési adatlapot, valamint az e rendeletben meghatározott törlés-bejelentési adatlapot is érteni kell. Az e rendelet szerinti adatlapokat a földügyért felelős miniszter rendszeresíti, és azokat közzé kell tenni az általa vezetett minisztérium, valamint a földügyi szakigazgatás hivatalos honlapján, továbbá elektronikus űrlapként elérhetőek a nyilvántartás vezetését támogató informatikai rendszerben (a továbbiakban: elektronikus űrlap). A bejelentési adatlap adattartalmát az 1. melléklet, a földhasználati lap II. részében szereplő adatok változás-bejelentésére szolgáló adatlap adattartalmát a 2. melléklet, a földhasználati lap I. részében szerepelő adatok változás-bejelentésére szolgáló adatlap adattartalmát a 3. melléklet, a törlés-bejelentési adatlap adattartalmát a 4. melléklet határozza meg.”
-
-(2) A 356/2007. (XII. 23.) Korm. rendelet 2. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A földhasználati lap a földhasználóra és az általa használt földterületre vonatkozó – a 4. §-ban és az 5. §-ban meghatározott – adatokat, továbbá a nyilvántartásba történő bejegyzés, a nyilvántartásból való törlés és a nyilvántartásban végzett módosítás iránti bejelentés iktatásának időpontját, a nyilvántartásba történő bejegyzésről, a nyilvántartásból való törlésről és a nyilvántartásban végzett módosításról szóló határozat számát, meghozatalának időpontját és a határozatot hozó, ingatlanügyi hatósági hatáskörében eljáró fővárosi és vármegyei kormányhivatal (a továbbiakban: ingatlanügyi hatóság) megnevezését, valamint a használt földterületre vonatkozó jegyzet rovatot tartalmazza.”
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

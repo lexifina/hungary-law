@@ -1,3 +1,3 @@
-42. § A 38/2014. (II. 24.) Korm. rendelet 15. § (2) bekezdése helyébe a következő rendelkezés lép:
+42. §[^42]
 
-„(2) A mezőgazdasági termelőszervezetnek, illetve az újonnan alapított mezőgazdasági termelőszervezetnek a nyilvántartásból való törlése iránti kérelmét a földügyért felelős miniszter által vezetett minisztérium, valamint a földügyi szakigazgatás hivatalos honlapján közzétett formanyomtatványon vagy elektronikus űrlapon kell benyújtania. A kérelem adattartalmát a 4. melléklet határozza meg. A mezőgazdasági termelőszervezetnek, illetve az újonnan alapított mezőgazdasági termelőszervezetnek a nyilvántartásból való törlése iránti kérelmét nem kell megindokolnia, azonban nyilatkoznia kell az 5. § (5) bekezdés a) és b) pontjában foglaltakról továbbá arról, hogy tudomásul veszi, hogy a nyilvántartásból való törlés esetén a továbbiakban nem minősül a Földforgalmi tv. szerinti mezőgazdasági termelőszervezetnek.”
+[^42]: A 42. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

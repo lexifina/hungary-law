@@ -1,5 +1,5 @@
 ## 6. A földművelésügyi hatósági és igazgatási feladatokat ellátó szervek kijelöléséről szóló 383/2016. (XII. 2.) Korm. rendelet módosítása
 
-57. § A földművelésügyi hatósági és igazgatási feladatokat ellátó szervek kijelöléséről szóló 383/2016. (XII. 2.) Korm. rendelet [a továbbiakban: 383/2016. (XII. 2.) Korm. rendelet] 3. § (3) bekezdés b) pontja helyébe a következő rendelkezés lép:
+57. §[^56]
 
-(A földügyi igazgatási feladatkörében eljáró)
+[^56]: Az 57. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-37. § A 38/2014. (II. 24.) Korm. rendelet 9. §-a a következő (1) bekezdéssel egészül ki:
+37. §[^37]
 
-„(1) A szervezet mezőgazdasági termelőszervezetként vagy újonnan alapított mezőgazdasági termelőszervezetként való nyilvántartásba vétele iránti kérelmében nyilatkozik az 5. § (5) bekezdés a) és b) pontjában foglaltakról.”
+[^37]: A 37. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-50. § A 38/2014. (II. 24.) Korm. rendelet a következő 26. §-sal egészül ki:
+50. §[^50]
 
-„26. § E rendeletnek a földügyi tárgyú kormányrendeletek módosításáról szóló 481/2024. (XII. 31.) Korm. rendelettel [a továbbiakban: 481/2024. (XII. 31.) Korm. rendelet] megállapított rendelkezéseit a 481/2024. (XII. 31.) Korm. rendelet hatálybalépésekor folyamatban lévő ügyekben, valamint a megismételt eljárásokban is alkalmazni kell.”
+[^50]: Az 50. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

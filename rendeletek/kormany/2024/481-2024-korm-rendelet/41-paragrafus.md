@@ -1,5 +1,3 @@
-41. § A 38/2014. (II. 24.) Korm. rendelet 14. § (2) és (3) bekezdése helyébe a következő rendelkezések lépnek:
+41. §[^41]
 
-„(2) A földművesnek a nyilvántartásból való törlése iránti kérelmét a földügyért felelős miniszter által vezetett minisztérium, valamint a földügyi szakigazgatás hivatalos honlapján közzétett formanyomtatványon vagy elektronikus űrlapon kell benyújtania. A kérelem adattartalmát a 4. melléklet határozza meg. A földművesnek a nyilvántartásból való törlése iránti kérelmét nem kell megindokolnia, azonban nyilatkoznia kell az 5. § (5) bekezdés a) és b) pontjában foglaltakról, továbbá arról, hogy tudomásul veszi, hogy a nyilvántartásból való törlés esetén a továbbiakban nem minősül a Földforgalmi tv. szerinti földművesnek.
-
-(3) A földművesnek a nyilvántartásból való törlését a földműves elhalálozásának a tényére való hivatkozással bárki kérelmezheti. Ebben az esetben a 4. melléklet 5.1. pontja szerinti adatok közül csak az 5.1.1. és 5.1.2. alpontok szerinti adatok megadása kötelező. A kérelemhez nem kell okiratot csatolni, amennyiben a földműves elhalálozása a személyiadat- és lakcímnyilvántartásban szereplő adatokból kétségtelenül megállapítható.”
+[^41]: A 41. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-2. § A 356/2007. (XII. 23.) Korm. rendelet 3. §-a helyébe a következő rendelkezés lép:
+2. §[^2]
 
-„3. § A nyilvántartásba vétel során minden földhasználó számára országosan egy földhasználati lapot kell nyitni.”
+[^2]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

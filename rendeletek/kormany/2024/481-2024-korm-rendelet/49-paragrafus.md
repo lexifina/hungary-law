@@ -1,3 +1,3 @@
-49. § A 38/2014. (II. 24.) Korm. rendelet 22/A. § (3) bekezdése helyébe a következő rendelkezés lép:
+49. §[^49]
 
-„(3) Az (1) bekezdésben meghatározott adatleválogatás az adatszolgáltatás iránti igény célhoz kötöttségétől függően legfeljebb az adatlap másolaton megjeleníthető adatokat tartalmazhatja. Az adatleválogatás eredménye nem tartalmazhatja a természetes személy földműves személyi azonosítóját, illetve a mezőgazdasági termelőszervezet cégjegyzékszámát és adószámát.”
+[^49]: A 49. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-8. § A 356/2007. (XII. 23.) Korm. rendelet 9. § (3) bekezdés a) pontja helyébe a következő rendelkezés lép:
+8. §[^8]
 
-[A (2) bekezdésben foglaltakon túl hiánypótlási felhívás kibocsátása nélkül kell visszautasítani a bejelentést akkor is, ha]
+[^8]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
