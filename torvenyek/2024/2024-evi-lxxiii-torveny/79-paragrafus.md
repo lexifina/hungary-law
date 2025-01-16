@@ -1,1 +1,3 @@
-### 79. §
+79. § A digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 66. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) A szolgáltató a Pmt. 7. § (2) bekezdés a) pont ag) alpontja szerinti adatot elsősorban a 42. § (2) bekezdése szerinti nyilvántartásból, ha a felhasználó ezen nyilvántartásban nem rögzített személyazonosításra alkalmas hatósági igazolvánnyal rendelkezik, az útiokmány-nyilvántartásból, ha a felhasználó útlevéllel sem rendelkezik, akkor a közúti közlekedési engedély-nyilvántartásából veszi át. A pénz- és hitelintézet a felhasználó személyazonosításra alkalmas hatósági igazolványához tartozó aláírás- és arcképmás-adatot veszi át.”
