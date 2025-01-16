@@ -1,3 +1,3 @@
-1. § A műszaki-biztonsági szempontból jelentős munkakörök betöltéséhez szükséges szakmai képesítésről és gyakorlatról, valamint az ilyen munkakörben foglalkoztatottak időszakos továbbképzésével kapcsolatos szabályokról szóló 16/2018. (IX. 11.) ITM rendelet [a továbbiakban: 16/2018. (IX. 11.) ITM rendelet] 1. § 4. pontja helyébe a következő rendelkezés lép:
+1. §[^2]
 
-(E rendelet alkalmazásában:)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

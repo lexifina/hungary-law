@@ -1,9 +1,3 @@
-3. § Hatályát veszti a 16/2018. (IX. 11.) ITM rendelet
+3. §[^4]
 
-a) 1. § 3. pontja,
-
-b) 2. § (1) bekezdésében az „az (1a) és” szövegrész,
-
-c) 2. § (1a) bekezdése,
-
-d) 2. mellékletében foglalt táblázat 4. sora.
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
