@@ -1,5 +1,3 @@
-## 7.[^10]
+## 7. A segélyhívásokat fogadó szerv hatásköréről, feladatairól, továbbá feladatai ellátásának részletes szabályairól szóló 361/2013. (X. 11.) Korm. rendelet módosítása
 
-9. §
-
-[^10]: A 7. alcím a 22. § (2) bekezdése alapján 2025. január 16-án lép hatályba.
+9. § A segélyhívásokat fogadó szerv hatásköréről, feladatairól, továbbá feladatai ellátásának részletes szabályairól szóló 361/2013. (X. 11.) Korm. rendelet 3. § (2) bekezdésében az „ügyfélkapus regisztrációval” szövegrész helyébe az „a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti, a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatásokkal” szöveg lép.

@@ -1,5 +1,3 @@
-## 8.[^11]
+## 8. A szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok hatósági nyilvántartásáról és ellenőrzéséről szóló 369/2013. (X. 24.) Korm. rendelet módosítása
 
-10. §
-
-[^11]: A 8. alcím a 22. § (2) bekezdése alapján 2025. január 16-án lép hatályba.
+10. § A szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok hatósági nyilvántartásáról és ellenőrzéséről szóló 69/2013. (X. 24.) Korm. rendelet 16. § (2) bekezdésében az „ügyfélkapu belépési jogosultsággal” szövegrész helyébe az „a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti, a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatásokkal” szöveg, és az „ügyfélkapu” szövegrész helyébe az „a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti, a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatások” szöveg lép.

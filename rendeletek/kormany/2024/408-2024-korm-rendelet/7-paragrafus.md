@@ -1,5 +1,3 @@
-## 5.[^8]
+## 5. A pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló 63/2006. (III. 27.) Korm. rendelet módosítása
 
-7. §
-
-[^8]: Az 5. alcím a 22. § (2) bekezdése alapján 2025. január 16-án lép hatályba.
+7. § A pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló 63/2006. (III. 27.) Korm. rendelet 1. § (3) bekezdésében a „rendelkezik-e ügyfélkapu regisztrációval és vele a hatóság” szövegrész helyébe az „a hatóság vele a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti módon,” szöveg lép.
