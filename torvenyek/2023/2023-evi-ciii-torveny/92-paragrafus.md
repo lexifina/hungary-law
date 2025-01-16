@@ -2,7 +2,7 @@
 
 ## A BIZALMI SZOLGÁLTATÁS NYÚJTÁSÁNAK MEGSZÜNTETÉSE
 
-92. § (1) Ha a bizalmi szolgáltató meg kívánja szüntetni egy bizalmi szolgáltatásának nyújtását, erről legkésőbb a tevékenység megszüntetésekor, minősített bizalmi szolgáltató esetén pedig legalább a megszüntetést 60 nappal megelőzően értesíti a bizalmi felügyeletet, a bizalmi szolgáltatási ügyfeleket, valamint az általa kibocsátott és még vissza nem vont elektronikus aláírás és bélyegző tanúsítványokban megjelölt – bizalmi szolgáltatási ügyfélnek nem minősülő – igénybe vevőket.
+92. § (1) Ha a bizalmi szolgáltató meg kívánja szüntetni egy bizalmi szolgáltatásának nyújtását, erről legkésőbb a tevékenység megszüntetésekor, minősített bizalmi szolgáltató esetén pedig legalább a megszüntetést 90 nappal megelőzően értesíti a bizalmi felügyeletet, a bizalmi szolgáltatási ügyfeleket, valamint az általa kibocsátott és még vissza nem vont elektronikus aláírás és bélyegző tanúsítványokban megjelölt – bizalmi szolgáltatási ügyfélnek nem minősülő – igénybe vevőket.
 
 (2) Ha a bizalmi szolgáltató más bizalmi szolgáltatás nyújtását továbbra is folytatja, akkor köteles gondoskodni a megszüntetni kívánt bizalmi szolgáltatással összefüggő, a nyilvánosság számára elérhető nyilvántartásainak folyamatos elérhetőségéről, így különösen biztosítania kell a 88. § (3) bekezdése szerinti nyilvántartásokhoz való hozzáférést.
 

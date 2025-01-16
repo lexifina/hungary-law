@@ -4,7 +4,7 @@
 
 1. ajánlott elektronikus kézbesítési szolgáltatás: a belső piacon történő elektronikus tranzakciókhoz kapcsolódó elektronikus azonosításról és bizalmi szolgáltatásokról, valamint az 1999/93/EK irányelv hatályon kívül helyezéséről szóló 2014. július 23-i 910/2014/EU európai parlamenti és tanácsi rendelet (a továbbiakban: eIDAS Rendelet) 3. cikk 36. pontjában meghatározott fogalom;
 
-2. attribútum: természetes vagy jogi személy, illetve szervezet jellemzője, tulajdonsága, sajátossága vagy hozzá kapcsolódó adat elektronikus formában;
+2. attribútum: az eIDAS Rendelet 3. cikk 43. pontjában meghatározott fogalom;
 
 3. belső nyilvántartás: olyan nyilvántartás, amelynek a vezetése kizárólag az azt vezető szerv saját céljait, feladatellátását, ellenőrzési tevékenységét szolgálja, és nem célja, hogy harmadik személy számára adatot adjon át, valamint nem minősül információforrásnak harmadik személy számára;
 
@@ -40,9 +40,9 @@
 
 19. érvényesítési adat: az eIDAS Rendelet 3. cikk 40. pontja szerinti adat;
 
-20. érvényességi lánc: az elektronikus dokumentum vagy annak lenyomata és azon egymáshoz rendelhető információk (így különösen azon tanúsítványok, a tanúsítványokkal kapcsolatos információk, az aláírás vagy bélyegző létrehozásához használt adatok, a tanúsítvány aktuális állapotára, visszavonására vonatkozó információk, valamint a tanúsítványt kibocsátó szolgáltató érvényességi adatára és annak visszavonására vonatkozó információk) sorozata, amelyek segítségével megállapítható, hogy az elektronikus dokumentumon elhelyezett fokozott biztonságú vagy minősített elektronikus aláírás, bélyegző vagy időbélyegző, az aláírás, bélyegző vagy időbélyegző elhelyezésének időpontjában érvényes volt;
+20.
 
-21. felhasználó: a digitális szolgáltatást biztosító szervezet feladat- és hatáskörébe tartozó ügyben ügyfélként, félként vagy az eljárás alanyaként, az eljárás egyéb résztvevőjeként, a szolgáltatás igénybe vevőjeként vagy ezek képviselőjeként részt vevő természetes személy vagy egyéb jogalany, ide nem értve a digitális szolgáltatást biztosító szervezetet és az ügyben eljáró digitális szolgáltatást biztosító szervezet tagját vagy alkalmazottját;
+21. felhasználó: a digitális szolgáltatást biztosító szervezet feladat- és hatáskörébe tartozó ügyben ügyfélként, félként vagy az eljárás alanyaként, az eljárás egyéb résztvevőjeként, a szolgáltatás igénybe vevőjeként vagy ezek képviselőjeként részt vevő természetes személy vagy egyéb jogalany, ide nem értve a digitális szolgáltatást biztosító szervezetet és az ügyben eljáró digitális szolgáltatást biztosító szervezet tagját vagy alkalmazottját, továbbá a HATODIK RÉSZ tekintetében az eIDAS Rendelet 3. cikk 5a. pontjában meghatározott természetes vagy jogi személy;
 
 22. felhasználói profil: a digitális térben való aktivitáshoz szükséges, a digitális állampolgár azonosító alapján biztosított, a digitális állampolgár állami nyilvántartásban tárolt adatait és a digitális állampolgár által megtett nyilatkozatokat tartalmazó digitális fiók;
 

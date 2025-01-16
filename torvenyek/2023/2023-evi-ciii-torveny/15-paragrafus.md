@@ -6,6 +6,6 @@
 
 (3) A (2) bekezdés alapján kezelhető adatfajta valamennyi, közfeladatot ellátó szervezet kezelésében lévő, a szolgáltatás eredményes nyújtásához szükséges személyes adat vagy egyéb adat.
 
-(4) A (2) és (3) bekezdés szerinti adatkezeléssel összefüggésben az elengedhetetlenül szükséges adatokat, valamint az adatkezelés további részletes szabályait az e törvény felhatalmazása alapján kiadott kormányrendelet állapítja meg.
+(4) A (2) és (3) bekezdés szerinti adatkezeléssel összefüggésben az adatkezelés további részletes szabályait az e törvény felhatalmazása alapján kiadott kormányrendelet állapítja meg.
 
-(5) A digitális állampolgárság szolgáltató a (4) bekezdés szerinti kormányrendeletben meghatározott adatot igényelheti az adatot nyilvántartó szervezettől, amelyet az teljesíteni köteles.
+(5) A digitális állampolgárság szolgáltató a (4) bekezdés szerinti kormányrendeletben meghatározottak szerint adatot igényelhet az adatot nyilvántartó szervezettől, amelyet az teljesíteni köteles.

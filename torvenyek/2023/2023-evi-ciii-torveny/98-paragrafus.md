@@ -10,6 +10,6 @@ c) a b) pont szerinti eszközök megfelelőségét tanúsító kijelölt szervez
 
 d) az 92. és 93. § szerinti átvevő bizalmi szolgáltatókról; és
 
-e) a 88. § (2) bekezdése szerinti azon minősített archiválási szolgáltatásokról, amelyeket a bizalmi szolgáltatók megőrzési kötelezettségének ellátására használnak.
+e)
 
 (2) Az (1) bekezdés szerinti nyilvántartásokban nyilvános adatként, illetve dokumentumként közzétehető a bizalmi szolgáltató neve, lakcíme, székhelye, nyilvántartásbavételi száma, a szolgáltatás megjelölése, nyújtásának helye, megkezdésének időpontja, a szolgáltatási szabályzat, a szolgáltatási rend, a szolgáltatási kivonat, valamint az általános szerződési feltétel. A bizalmi felügyelet által közzétett nyilvántartás közhiteles nyilvántartásnak minősül.

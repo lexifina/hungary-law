@@ -58,6 +58,8 @@
 
 26. az (EU) 2024/903 európai parlamenti és tanácsi rendelet 2. cikk 14. pontja szerinti ellenőrzött környezet fejlesztésével, létrehozásával és üzemeltetésével kapcsolatos szabályokat, valamint az ahhoz való csatlakozás szabályait.
 
+27. az integrátorral szembeni szakmai és infrastrukturális követelményeket.
+
 (2) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg:
 
 1. a 7. § (3) bekezdés szerinti időpontot,

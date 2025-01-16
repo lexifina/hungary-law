@@ -10,13 +10,13 @@ d) a Kormány által kötelezően biztosítandó elektronikus azonosítási szol
 
 e) az ajánlott elektronikus kézbesítési szolgáltatáshoz kapcsolódó tárhely azonosításához szükséges adatok,
 
-f) a digitális állampolgárság szolgáltató által a felhasználó részére biztosított keretalkalmazás működéséhez szükséges technikai adatok.
+f) a digitális állampolgárság szolgáltató által a felhasználó részére biztosított keretalkalmazás működéséhez szükséges, valamint a keretalkalmazáson keresztül nyújtott keretszolgáltatásokkal összefüggő technikai adatok.
 
 (2) A nyilvántartás az (1) bekezdés a) és d)–f) pontja szerinti adatok tekintetében közhiteles nyilvántartásnak minősül.
 
 (3) A nyilvántartást vezető szerv a kezelt adatok naprakészségének biztosítása és az elektronikus azonosításhoz szükséges adatellenőrzés érdekében a 12. § (5) bekezdése szerinti kapcsolati kódon keresztül adatigénylésre jogosult a 12. § (2) bekezdése és a 12. § (4) bekezdés b) pontja szerinti nyilvántartásokból. A 12. § (2) bekezdése szerinti nyilvántartásból az adatigénylés a digitális állampolgár azonosítóval rendelkező személy esetében személyi azonosítón keresztül is történhet. Az adatigénylési jogosultság a felhasználó természetes személyazonosító adataira, állampolgárságára, személyi azonosítójára, valamint a nyilvántartásból való kikerülése tényére és idejére terjed ki.
 
-(4) A nyilvántartást vezető szerv a természetes személyazonosító adatok és a digitális állampolgár azonosító kezelésére jogosult szerv részére a digitális állampolgár azonosító megismerése vagy igazolása, valamint a felhasználó profil aktív vagy inaktív állapotának közlése céljából adatszolgáltatást teljesíthet.
+(4) A nyilvántartást vezető szerv a természetes személyazonosító adatok és a digitális állampolgár azonosító kezelésére jogosult szerv részére a digitális állampolgár azonosító megismerése vagy igazolása, a felhasználó azonosítása, valamint a felhasználói profil aktív vagy inaktív állapotának közlése céljából adatszolgáltatást teljesíthet.
 
 (5) A nyilvántartást vezető szerv az érintett hozzájárulása nélkül a következő szervek részére adhatja meg a felhasználó általa kezelt adatait:
 

@@ -30,7 +30,7 @@ c) az azonosítást kérő rendelkezésére tudja bocsátani az adott személy a
 
 (4) A külföldi személyek nyilvántartásából az összerendelési nyilvántartáson keresztül a Szaz. tv. 10/E. és 10/F. §-ában meghatározott célból adat szolgáltatható, ha az adatok kezelésére az adatkezelő törvény felhatalmazása alapján jogosult.
 
-(5) Az (1) bekezdés szerinti nyilvántartást vezető szerv az ügyfél hozzájárulása nélkül a következő szervek részére adhatja meg az ügyfél általa kezelt adatait:
+(5) Az (1) bekezdés szerinti nyilvántartást vezető szerv a felhasználó hozzájárulása nélkül a következő szervek részére adhatja meg a felhasználó általa kezelt adatait:
 
 a) bíróságnak az előtte folyamatban lévő eljárásban részt vevő személyekre vonatkozó tényállítások helytállóságának, továbbá a bemutatott okirat adattartalma valódiságának ellenőrzése, valamint büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából,
 

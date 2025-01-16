@@ -2,7 +2,7 @@
 
 10. § (1) A digitális állampolgárság, és ezzel a digitális állampolgár azonosító valamennyi, a személyiadat- és lakcímnyilvántartás hatálya alá tartozó személyt – erre irányuló kérelem hiányában is – megillet.
 
-(2) A digitális állampolgár azonosítót a digitális állampolgárság nyilvántartás (a jelen alcím alkalmazásában a továbbiakban: nyilvántartás) tartalmazza.
+(2) A digitális állampolgár azonosító a digitális állampolgárság nyilvántartásba (a jelen alcím alkalmazásában a továbbiakban: nyilvántartás) történő bejegyzéssel jön létre.
 
 (3) A digitális állampolgár azonosító igazolására nem kell hatósági igazolványt kiadni.
 

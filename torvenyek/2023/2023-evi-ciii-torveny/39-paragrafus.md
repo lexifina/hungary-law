@@ -16,17 +16,17 @@ c) az ügyfél ügyintézési rendelkezésének lekérdezését,
 
 d) a személyre szabott ügyintézési felületen keresztül történő ügyintézés lehetőségét,
 
-e) elektronikus azonosításhoz kötött szolgáltatás nyújtása esetén a központi azonosítási ügynök szolgáltatáson keresztül elérhető elektronikus azonosítási megoldások ügyfél általi használatát,
+e) elektronikus azonosításhoz kötött szolgáltatás nyújtása esetén a központi azonosítási ügynök szolgáltatáson keresztül elérhető elektronikus azonosítási megoldások felhasználó általi használatát,
 
 f) a Kormány rendeletében meghatározott ajánlott elektronikus kézbesítési szolgáltatáson keresztül történő kézbesítést, a neki címzett üzenetek fogadását,
 
-g) az ügyfél által elektronikus úton tett jognyilatkozatok, elküldött iratok kézhezvételének jogszabályban meghatározott módon történő haladéktalan igazolását,
+g) a felhasználó által elektronikus úton tett jognyilatkozatok, elküldött iratok kézhezvételének jogszabályban meghatározott módon történő haladéktalan igazolását,
 
 h) a legalább fokozott biztonságú és közigazgatási követelményeknek megfelelő elektronikus aláírással ellátott, illetve elektronikus bélyegzővel ellátott elektronikus dokumentumok feldolgozását,
 
 i) e törvény szerint hitelesített dokumentumok előállítását,
 
-j) az ügyfél részére kézbesítendő iratok kézbesítését a 26. § szerint valamennyi típusú kézbesítés útján,
+j) a felhasználó részére kézbesítendő iratok kézbesítését a 26. § szerint valamennyi típusú kézbesítés útján,
 
 k) a 9. § (2) bekezdés a)–i) pontjában foglalt szervek esetében az eljárásért fizetendő terhek elektronikus fizetését, és
 

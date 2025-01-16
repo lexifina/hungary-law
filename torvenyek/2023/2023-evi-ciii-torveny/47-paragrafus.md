@@ -18,9 +18,9 @@ e) elektronikus irat hiteles papír alapú irattá alakítása,
 
 f) központi azonosítási ügynök,
 
-g) személyre szabott ügyintézési felület, az ügyfél által személyre szabható internetes alkalmazás, amely az azonosított ügyfél számára egységesen elérhető lehetőséget biztosít az elektronikus ügyintézéshez szükséges nyilatkozatok, eljárási cselekmények és egyéb kötelezettségek teljesítésére, az ügyfél által igénybe vehető elektronikus ügyintézési szolgáltatások igénybevételére,
+g) személyre szabott ügyintézési felület, a felhasználó által személyre szabható internetes alkalmazás, amely az azonosított felhasználó számára egységesen elérhető lehetőséget biztosít az elektronikus ügyintézéshez szükséges nyilatkozatok, eljárási cselekmények és egyéb kötelezettségek teljesítésére, a felhasználó által igénybe vehető elektronikus ügyintézési szolgáltatások igénybevételére,
 
-h) űrlapbenyújtás-támogatási szolgáltatás, amely a jogszabályban meghatározott szerv vagy szolgáltató meghatározott technikai előírásoknak megfelelő elektronikus űrlapok ügyfél általi kitöltését, digitális szolgáltatást biztosító szervezethez való elektronikus azonosítással egybekötött benyújtását biztosítja,
+h) űrlapbenyújtás-támogatási szolgáltatás, amely a jogszabályban meghatározott szerv vagy szolgáltató meghatározott technikai előírásoknak megfelelő elektronikus űrlapok felhasználó általi kitöltését, digitális szolgáltatást biztosító szervezethez való elektronikus azonosítással egybekötött benyújtását biztosítja,
 
 i) ePapír,
 
@@ -40,7 +40,7 @@ m) a Kormány által rendeletben megjelölt központi elektronikus ügyintézés
 
 (5) A támogató szolgáltatások tekintetében mesterséges intelligencián alapuló technológia is felhasználható.
 
-(6) Ha jogszabály a nyilatkozat érvényességéhez az ügyfél, illetve a digitális szolgáltatást biztosító szervezet képviselőjének aláírását követeli meg, az a Kormány rendeletében meghatározott mesterséges intelligencián alapuló szolgáltatás használata során a Kormány rendeletében meghatározottak szerint pótolható.
+(6) Ha jogszabály a nyilatkozat érvényességéhez a felhasználó, illetve a digitális szolgáltatást biztosító szervezet képviselőjének aláírását követeli meg, az a Kormány rendeletében meghatározott mesterséges intelligencián alapuló szolgáltatás használata során a Kormány rendeletében meghatározottak szerint pótolható.
 
 (7) Ha a digitális szolgáltatást biztosító szervezet a mesterséges intelligencián alapuló szolgáltatás használata során a szolgáltatás útján, gépi úton tesz nyilatkozatot, a központi elektronikus ügyintézési szolgáltatás szolgáltatója a digitális szolgáltatást biztosító szervezet nevében jár el.
 

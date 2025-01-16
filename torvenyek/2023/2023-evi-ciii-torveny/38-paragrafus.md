@@ -10,7 +10,7 @@ b) a területi közigazgatás működésével kapcsolatos egyes kérdésekről, 
 
 (3) A felhasználó az elektronikus ügyintézési rendelkezésében
 
-a) igényelheti, hogy az általa meghatározott adatainak változásáról a Kormány rendeletében meghatározott szolgáltató az ügyintézési rendelkezésben meghatározott digitális szolgáltatást biztosító szervezetet automatikusan vagy az ügyfél eseti rendelkezése alapján elektronikus úton értesítse,
+a) igényelheti, hogy az általa meghatározott adatainak változásáról a Kormány rendeletében meghatározott szolgáltató az ügyintézési rendelkezésben meghatározott digitális szolgáltatást biztosító szervezetet automatikusan vagy a felhasználó eseti rendelkezése alapján elektronikus úton értesítse,
 
 b) egy, több vagy valamennyi digitális szolgáltatást biztosító szervezetnek címzett meghatalmazást adhat jogszabályban meghatározott más jogalany részére arra, hogy meghatározott ügyekben vagy valamennyi ügyben a digitális szolgáltatást biztosító szervezet előtt a képviseletét ellássa,
 
@@ -30,7 +30,7 @@ tehető vagy módosítható.
 
 (6) Az adott ügy vonatkozásában érvénytelen az a rendelkezés, amely az ügyre vonatkozó jogszabályokkal ellentétes.
 
-(7) Folyamatban lévő ügyben az ügy megindítását követően a digitális szolgáltatást biztosító szervezet a rendelkezési nyilvántartásba tett új ügyintézési rendelkezést vagy annak módosítását csak akkor veszi figyelembe, ha azt a felhasználó a digitális szolgáltatást biztosító szervezetnek is bejelenti.
+(7) A 46. § (1) bekezdés b) pontja szerinti azonosítási szolgáltatással indított folyamatban lévő ügyben az ügy megindítását követően a digitális szolgáltatást biztosító szervezet a rendelkezési nyilvántartásba tett új ügyintézési rendelkezést vagy annak módosítását csak akkor veszi figyelembe, ha azt a felhasználó a digitális szolgáltatást biztosító szervezetnek is bejelenti.
 
 (8) Törvény vagy kormányrendelet előírhatja, hogy az (1) bekezdés a) pontja szerinti jognyilatkozat csak a meghatalmazás elfogadásával és ennek a rendelkezési nyilvántartásban való rögzítésével érvényes.
 

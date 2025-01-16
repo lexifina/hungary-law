@@ -10,6 +10,6 @@
 
 (5) A szolgáltatási szerződésre, valamint a bizalmi szolgáltatás nyújtásának egyéb feltételeire (így különösen bizalmi szolgáltatási rendre és szolgáltatási szabályzatra) vonatkozó részletes feltételeket az e törvény végrehajtására kiadott rendelet szabályozza.
 
-(6) A bizalmi szolgáltató jogosult arra, hogy bizalmi szolgáltatását különböző feltételekkel (így különösen eltérő felelősségvállalással vagy eltérő bizalmi szolgáltatási rendnek való megfelelés szerint) nyújtsa.
+(6) A bizalmi szolgáltató jogosult arra, hogy bizalmi szolgáltatását különböző feltételekkel, így különösen eltérő felelősségvállalással vagy eltérő bizalmi szolgáltatási rendnek való megfelelés szerint nyújtsa, azonban bármely korlátozásról a szerződéskötést megelőzően a bizalmi szolgáltatási ügyfelet értesíteni köteles.
 
 (7) A bizalmi szolgáltató a szerződéskötést követően tartós adathordozón vagy a bizalmi szolgáltatási ügyfél számára letölthető módon a bizalmi szolgáltatás ügyfelének rendelkezésére bocsátja a szolgáltatási szerződést, a bizalmi szolgáltatási rendet és a szolgáltatási szabályzatot.

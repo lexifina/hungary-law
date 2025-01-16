@@ -6,4 +6,8 @@
 
 3. a nem a Kormány irányítása vagy felügyelete alá tartozó közfeladatot ellátó szerv által igénybe vett központosított informatikai és hírközlési szolgáltatások, a központi szolgáltató által fejlesztett vagy üzemeltetett informatikai rendszereket, a kormányzati célú hálózatok és hálózati szolgáltatások igénybevételének szabályait.
 
-(2) Felhatalmazást kap az SZTFH elnöke, hogy rendeletben állapítsa meg a szabályozott elektronikus ügyintézési szolgáltatás kiberbiztonsági követelményeit, továbbá a követelményeknek való megfelelés igazolásának módját.
+(2) Felhatalmazást kap az SZTFH elnöke, hogy rendeletben állapítsa meg
+
+a) a szabályozott elektronikus ügyintézési szolgáltatás kiberbiztonsági követelményeit, továbbá a követelményeknek való megfelelés igazolásának módját,
+
+b) az integrátorok nyilvántartása vezetésére vonatkozó részletes eljárási szabályokat és a nyilvántartás személyes adatnak nem minősülő adattartalmára vonatkozó részletes szabályokat.

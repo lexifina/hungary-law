@@ -4,6 +4,8 @@ a) a felhasználó felhasználói profilja aktív vagy inaktív státuszával, a
 
 b) a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatás kapcsán annak hiteles biztosításához és mások jogának vagy jogos érdekének védelme érdekében az érintett személy azonosításához szükséges adatok és technikai azonosítók kezelése.
 
+c) a digitális állampolgárság szolgáltató által nyújtott szolgáltatások támogatása.
+
 (2) A nyilvántartást vezető szerv a digitális állampolgár azonosító képzése céljából a személyiadat- és lakcímnyilvántartásból átveszi
 
 a) a 10. § (1) bekezdése szerinti személy természetes személyazonosító adatait, állampolgárság adatát, neme adatát, személyi azonosítóját, valamint

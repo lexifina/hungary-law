@@ -2,7 +2,7 @@
 
 45. § (1) Az alábbi szabályozott elektronikus ügyintézési szolgáltatásokat a Kormány köteles biztosítani, a kijelölt szabályozott elektronikus ügyintézési szolgáltató útján:
 
-a) elektronikus azonosítási szolgáltatás természetes személy ügyfelek részére,
+a) a 46. § (1) bekezdés b) pontja szerinti elektronikus azonosítási szolgáltatás természetes személy felhasználók részére,
 
 b) ajánlott elektronikus kézbesítési szolgáltatás,
 

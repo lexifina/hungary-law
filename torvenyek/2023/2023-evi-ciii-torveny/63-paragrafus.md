@@ -12,15 +12,21 @@ b) személyes megjelenéssel járó előregisztrációval
 
 tehető meg.
 
-(2) Az (1) bekezdés szerinti személyazonosítás az eAláíráshoz kapcsolódó aláíró tanúsítvány igényléséhez felhasználható.
+(2) Az (1) bekezdés szerinti személyazonosítás az eIDAS Rendelet 24. cikk (1a) bekezdés c) pontjában és (1b) bekezdés d) pontjában foglaltak szerint az eAláíráshoz kapcsolódó aláíró tanúsítvány igényléséhez felhasználható.
 
 (3) A személyes megjelenés nélkül történő személyazonosításnak meg kell felelnie a bizalmi szolgáltatások esetében alkalmazható, a személyes jelenléttel egyenértékű biztosítékot nyújtó, jogszabályban előírt azonosítási módszernek.
 
 (4) A távoli azonosítás során a digitális állampolgárság szolgáltató a videojel segítségével a személyazonosság igazolásához használt okmányról vagy a tárolóeleméből kiolvasott természetes személyazonosító adatokat, az állampolgárságot és az okmányazonosítót összeveti az okmányt nyilvántartó központi nyilvántartásban szereplő adatokkal, ellenőrzi az okmány érvényességét. A felhasználó személyazonosságának ellenőrzésére az Atv. 12/B. §-ában meghatározott szolgáltatás is alkalmazható.
 
-(5) A tárolóelemet tartalmazó személyazonosító igazolvánnyal történő azonosítás során a digitális állampolgárság szolgáltató a keretalkalmazáson keresztül kiolvassa a tárolóelemből a természetes személyazonosító adatokat, az állampolgárságot és az okmányazonosítót.
+(5) A tárolóelemet tartalmazó személyazonosító igazolvánnyal történő azonosítás során a digitális állampolgárság szolgáltató a keretalkalmazáson keresztül az okmányról vagy a tárolóeleméből kiolvasott okmányazonosítót, érvényességi időt és a természetes személyazonosító adatokat összeveti az okmányt nyilvántartó központi nyilvántartásban szereplő adatokkal, ellenőrzi az okmány érvényességét.
 
-(6) A digitális állampolgárság szolgáltató a (4) és (5) bekezdés szerint megismert okmányazonosító adat alapján a személyazonosításra alkalmas hatósági igazolványt nyilvántartó központi nyilvántartásból átveheti az érintett természetes személyazonosító adatait, állampolgárságát, nemét, arcképmását, az okmány érvényességére vonatkozó adatot, az okmány azonosítóját a felhasználó személyazonosságának ellenőrzése, a (7) bekezdés szerinti átvétel, valamint a (13) bekezdés szerinti adattovábbítás céljából.
+(6) A digitális állampolgárság szolgáltató
+
+a) a (4) bekezdés szerint megismert okmányazonosító adat alapján a személyazonosításra alkalmas hatósági igazolványt nyilvántartó központi nyilvántartásból átveheti az érintett természetes személyazonosító adatait, állampolgárságát, nemét, arcképmását, az okmány érvényességére vonatkozó adatot, az okmány azonosítóját,
+
+b) az (5) bekezdés szerint megismert okmányazonosító adat alapján a személyazonosításra alkalmas hatósági igazolványt nyilvántartó központi nyilvántartásból átveheti az érintett természetes személyazonosító adatait, az okmány érvényességére vonatkozó adatokat, az okmány azonosítóját
+
+a felhasználó személyazonosságának ellenőrzése, a (7) bekezdés szerinti átvétel, valamint a (13) bekezdés szerinti adattovábbítás céljából.
 
 (7) A digitális állampolgárság szolgáltató a (6) bekezdés szerint ellenőrzött természetes személyazonosító adatok és az okmányazonosító alapján az érintett digitális állampolgárság nyilvántartásban történő azonosítása, illetve az eAláírás szolgáltatás biztosítása érdekében a digitális állampolgárság nyilvántartásból átveszi az érintett digitális állampolgár azonosítóját. Ha a 12. § (2) bekezdés szerinti adatszolgáltatás alapján az érintett személyazonossága a digitális állampolgárság nyilvántartást vezető szerv által nem állapítható meg vagy a személyazonosság igazolásához használt okmány érvénytelen, a regisztráció nem végezhető el.
 
@@ -44,7 +50,7 @@ kezdeményezhető.
 
 (13) A (12) bekezdés szerinti szerv a digitális állampolgárság előregisztráció során a személyazonosság ellenőrzése céljából a felhasználó
 
-a) személyi azonosítóját, a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény, a 29. § (2) bekezdése és a 11. § (1) bekezdés n) pontja szerinti adatait,
+a) az Nytv. 29. § (2) bekezdése és a 11. § (1) bekezdés n) pontja szerinti adatait és a személyi azonosítót,
 
 b) a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 8. § (1) bekezdés a) pont aa)–ad) alpontjában, továbbá a 8. § (1) bekezdés b) pont ba) és bb) alpontjában foglalt adatait, valamint
 

@@ -22,6 +22,6 @@ a) a (3) bekezdés a) és c) pontja szerinti esetben,
 
 b) ha az információ együttműködő szervnél keletkezik, vagy
 
-c) ha arról az ügyfél vagy az ügyben eljáró együttműködő szerv az információ és az elsődleges információforrás megjelölésével tájékoztatta.
+c) ha arról a felhasználó vagy az ügyben eljáró együttműködő szerv az információ és az elsődleges információforrás megjelölésével tájékoztatta.
 
 (5) Törvény kizáró rendelkezése hiányában, ha az együttműködő szervnek a rendelkezésére álló információ helyessége vagy fennállása tekintetében kétsége merül fel, az információt az elsődleges információforrásból elektronikus úton szerzi be.

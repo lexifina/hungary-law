@@ -26,7 +26,7 @@ c) a 42. § (2) bekezdés c) pontja szerinti nyilvántartásban szereplő szemé
 
 (6) A regisztráció megszűnik akkor is, ha a regisztrációs szerv arról értesül, hogy az igénylő a 42. § (2) bekezdésében megjelölt nyilvántartások egyikében sem szerepel.
 
-(7) Az ügyfél-regisztrációs szerv az ügyfél hozzájárulása nélkül a következő szervek részére adhatja meg az ügyfél általa kezelt adatait:
+(7) Az ügyfél-regisztrációs szerv a felhasználó hozzájárulása nélkül a következő szervek részére adhatja meg a felhasználó általa kezelt adatait:
 
 a) a bíróságnak az előtte folyamatban lévő eljárásban részt vevő személyekre vonatkozó tényállítások helytállóságának, továbbá a bemutatott okirat adattartalma valódiságának ellenőrzése, valamint büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából,
 

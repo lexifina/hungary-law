@@ -2,4 +2,4 @@
 
 (2) A felhasználói profil jogosultja dönti el, hogy használja-e a digitális állampolgárság nyújtotta szolgáltatásokat. A digitális állampolgárság nyújtotta szolgáltatások igénybevételéhez szükséges a felhasználói profil aktiválása.
 
-(3) A felhasználói profil jogosultja dönthet akként, hogy a felhasználói profilját nem aktilválja, vagy azt inaktiválja.
+(3) A felhasználói profil jogosultja dönthet akként, hogy a felhasználói profilját nem aktiválja, vagy azt inaktiválja.

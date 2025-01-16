@@ -1,4 +1,4 @@
-54. § (1) A digitális keretszolgáltatásként elérhető eAláírás szolgáltatás használatával létrehozott elektronikus aláírás a 8. § 38. pontja szerinti minősített elektronikus aláírás.
+54. § (1) A digitális keretszolgáltatásként elérhető eAláírás szolgáltatás használatával létrehozott elektronikus aláírás a 8. § 38. pontja szerinti minősített elektronikus aláírást biztosít a felhasználóknak.
 
 (2) Az eAláírás teljes bizonyító erejű magánokirat és közokirat létrehozására alkalmas.
 
@@ -10,4 +10,4 @@
 
 (6) Az eAláírást biztosító bizalmi szolgáltató a tanúsítvány kibocsátásáról, visszavonásáról és azok időpontjáról értesíti a digitális állampolgárság szolgáltatót.
 
-(7) A felhasználó az eAláírást magánszemélyként használja. Az eAláírás nem tanúsít szerepkört.
+(7) A felhasználó az eAláírást magánszemélyként használja. Az eAláírás nem tanúsít attribútumot.

@@ -12,7 +12,7 @@ a) az eIDAS Rendelet hatálya alá tartozik és az eIDAS Rendelet 6. cikk (1) be
 
 b) nemzetközi szerződés alapján erre jogosult.
 
-(3) A regisztráció céljából a természetes személy ügyfélnek személyesen meg kell jelennie a Kormány által kijelölt regisztrációs szervnél. A személyes megjelenéssel egyenértékű a regisztrációt végző szerv külső helyszínen lefolytatott eljárása is, ha azonos biztonsági körülmények között biztosítható az ügyfél személyazonosságának az e §-ban meghatározott ellenőrzése.
+(3) A regisztráció céljából a természetes személy felhasználónak személyesen meg kell jelennie a Kormány által kijelölt regisztrációs szervnél. A személyes megjelenéssel egyenértékű a regisztrációt végző szerv külső helyszínen lefolytatott eljárása is, ha azonos biztonsági körülmények között biztosítható a felhasználó személyazonosságának az e §-ban meghatározott ellenőrzése.
 
 (4) A természetes személy személyes megjelenése esetén a természetes személyt a regisztrációs szerv az általa bemutatott, külön jogszabályban meghatározott, a személyazonosság igazolására alkalmas úti okmányban vagy az Európai Gazdasági Térségről szóló Egyezményben részes tagállam állampolgára esetén a tagállam által kibocsátott személyazonosításra alkalmas okmányban szereplő adatok alapján azonosítja. A regisztrációs szerv a természetes személy bemutatott okmányában szereplő természetes személyazonosító adatait ellenőrzi
 
@@ -24,4 +24,4 @@ c) a külföldi személyek nyilvántartásában.
 
 (5) A regisztrációs szerv az ellenőrzés során kapott adatokat összeveti a természetes személy bemutatott okmányában szereplő adatokkal, illetve megállapítja, hogy a bemutatott okmányban szereplő arcképmás megfeleltethető-e az előtte megjelent személlyel.
 
-(6) A regisztrációs szerv ellenőrzi az okmányazonosító alapján, hogy a külföldi személyek nyilvántartásában az ügyfél által bemutatott okmánnyal történt-e korábban regisztráció. Amennyiben igen, a nyilvántartásba vételt meg kell tagadni.
+(6) A regisztrációs szerv ellenőrzi az okmányazonosító alapján, hogy a külföldi személyek nyilvántartásában a felhasználó által bemutatott okmánnyal történt-e korábban regisztráció. Amennyiben igen, a nyilvántartásba vételt meg kell tagadni.

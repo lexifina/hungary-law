@@ -1,6 +1,6 @@
 27. § A 25. és 26. § szerinti hivatalos elérhetőségre kézbesített küldemény kézbesítettnek minősül, ha
 
-a) a hivatalos elérhetőséget biztosító szolgáltató a küldemény ügyfél által történő átvételét igazolja vissza, az igazolásban feltüntetett időpontban,
+a) a hivatalos elérhetőséget biztosító szolgáltató a küldemény felhasználó által történő átvételét igazolja vissza, az igazolásban feltüntetett időpontban,
 
 b)
 

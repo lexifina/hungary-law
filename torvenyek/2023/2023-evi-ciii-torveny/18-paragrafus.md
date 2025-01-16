@@ -20,7 +20,7 @@ c) olyan eljárás vagy eljárási cselekmény esetében, ahol ezt nemzetközi s
 
 d) olyan irat, okirat vagy más beadvány esetében, amely minősített adatot tartalmaz.
 
-(3) Törvény vagy kormányrendelet az elektronikus ügyintézés lehetőségét csak annyiban korlátozhatja, ha az eljárás során az ügyfél személyes jelenléte vagy valamely okirat másként nem pótolható benyújtása elengedhetetlen.
+(3) Törvény vagy kormányrendelet az elektronikus ügyintézés lehetőségét csak annyiban korlátozhatja, ha az eljárás során a felhasználó személyes jelenléte vagy valamely okirat másként nem pótolható benyújtása elengedhetetlen.
 
 (4) A digitális szolgáltatást biztosító szervezet – önállóan vagy más digitális szolgáltatást biztosító szervezetekkel együttműködve – telefonon és más elektronikus úton is elérhető ügyfélszolgálatot működtet a fogyasztóvédelemről szóló törvénynek a közszolgáltatási tevékenységet folytató vállalkozásokra vonatkozó szabályai szerint azzal az eltéréssel, hogy az ügyfélszolgálatnak hetente legalább 40 órában elérhetőnek kell lennie. A 9. § (2) bekezdés a)–i) pontja szerinti szervek külön megállapodás alapján a Kormány rendeletében kijelölt országos telefonos ügyfélszolgálat útján is biztosíthatják az e bekezdés szerinti feladatok ellátását.
 

@@ -2,7 +2,7 @@
 
 (2) Minősített bizalmi szolgáltatás esetén a bizalmi felügyelet elsősorban minősített bizalmi szolgáltatót jelöl ki átvevő bizalmi szolgáltatóként.
 
-(3) Ha a bizalmi szolgáltatás megszűnésekor a bizalmi felügyelet nyilvántartásában nincs megfelelő bizalmi szolgáltató, az átvevő bizalmi szolgáltató feladatait a bizalmi felügyelet látja el.
+(3)
 
 (4) Ha a bizalmi szolgáltató ellen felszámolási, végelszámolási vagy kényszertörlési eljárás indult, a bizalmi szolgáltató haladéktalanul köteles erről és a felszámolóról vagy végelszámolóról tájékoztatni a bizalmi felügyeletet. A bizalmi felügyelet az eljárás időtartama alatt jogosult a felszámolótól, végelszámolótól vagy a kényszertörlési eljárást lefolytató cégbíróságtól a felszámolás, végelszámolás vagy a kényszertörlési eljárás állásáról tájékoztatást kérni. Ha a bizalmi szolgáltató a zárómérleg benyújtásáig nem teljesíti a 92. § (1) és (2) bekezdése szerinti kötelezettségeit, a bizalmi felügyelet kijelöli az átvevő bizalmi szolgáltatót.
 

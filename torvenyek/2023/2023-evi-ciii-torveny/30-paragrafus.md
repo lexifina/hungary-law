@@ -6,4 +6,4 @@ b) biztosított, hogy a kézbesített elektronikus dokumentum megegyezik a nyila
 
 (2) Törvény vagy kormányrendelet az (1) bekezdéstől eltérő nyilatkozatok tekintetében is rendelkezhet úgy, hogy annak joghatásai az írásbeli nyilatkozat joghatásaival megegyeznek.
 
-(3) Ha jogszabály nem zárja ki, az azonosított ügyfél által hangkapcsolatot biztosító elektronikus úton megtett nyilatkozat joghatásai megegyeznek a nem elektronikus úton szóban megtett nyilatkozat joghatásaival.
+(3) Ha jogszabály nem zárja ki, az azonosított felhasználó által hangkapcsolatot biztosító elektronikus úton megtett nyilatkozat joghatásai megegyeznek a nem elektronikus úton szóban megtett nyilatkozat joghatásaival.

@@ -20,4 +20,4 @@ d) az e törvény felhatalmazása alapján kiadott kormányrendeletben szabályo
 
 (4) Törvény vagy kormányrendelet szabályozott elektronikus ügyintézési szolgáltatás igénybevételét kötelezővé teheti.
 
-(5) A szabályozott elektronikus ügyintézési szolgáltatás nyújtásának feltétele a Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: SZTFH) elnökének rendeletében meghatározott kiberbiztonsági követelményeknek való megfelelés biztosítása.
+(5) A szabályozott elektronikus ügyintézési szolgáltatás nyújtásának feltétele az SZTFH elnökének rendeletében meghatározott kiberbiztonsági követelményeknek való megfelelés biztosítása.
