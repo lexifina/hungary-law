@@ -51,3 +51,5 @@
 (23) E törvénynek a Klímagáz tv.-vel megállapított 15. § (5a) bekezdését nem kell alkalmazni a Klímagáz tv. hatálybalépését megelőzően megkezdett intézkedésekre, amennyiben az intézkedésből származó energiamegtakarítást 2025. március 31-ig felvezetik a hitelesített energiamegtakarítások nyilvántartásába.
 
 (24) E törvénynek a Klímagáz tv.-vel megállapított 15/D. § (2a) bekezdését nem kell alkalmazni a Klímagáz tv. hatálybalépését megelőzően megkezdett intézkedésekre, amennyiben az intézkedésből származó energiamegtakarítást 2025. március 31-ig felvezetik a hitelesített energiamegtakarítások nyilvántartásába.
+
+(25) E törvénynek a Klímagáz tv.-vel megállapított 21/F. § (1) bekezdése szerinti adatszolgáltatást első alkalommal 2025. május 15-ig kell teljesíteni.
