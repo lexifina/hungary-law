@@ -1,21 +1,3 @@
-26. § A Vet. Vhr. 112/E. §-a és 112/F. §-a helyébe a következő rendelkezés lép:
+26. §[^26]
 
-„112/E. § (1) A REMIT megfelelési eljárásban, a REMIT 3. cikk (4) bekezdés b) pontja, 4. cikk (2) bekezdése, 5a. cikk (1)–(2) bekezdése, 5a. cikk (3) bekezdése, 7c. cikk (1) bekezdése, 8. cikk (1)–(5) bekezdése, 9. cikk (1), (4) és (5) bekezdése, valamint a VET. 114/B. §-ában meghatározott jogsértés megállapítása esetén a VET-ben megállapított mérlegelési szempontok mérlegelésével kiszabható közigazgatási bírság összege minimum egymillió Ft, maximum a jogsértést megvalósító jogi személy jogsértést megelőző üzleti év bruttó árbevételének 1%-a. Megelőző évi számszerűsíthető árbevétel hiányában minimum egymillió forint, maximum százmillió forint.
-
-(2) A REMIT megfelelési eljárásban, a REMIT 15. cikkében meghatározott jogsértés megállapítása esetén, illetve REMIT piacintegritási eljárásban a REMIT 4. Cikk (1) bekezdésében meghatározott jogsértés megállapítása esetén a VET-ben megállapított mérlegelési szempontok mérlegelésével kiszabható közigazgatási bírság összege minimum kettőmillió Ft, maximum a jogsértést megvalósító jogi személy jogsértést megelőző üzleti év bruttó árbevételének 2%-a. Megelőző évi számszerűsíthető árbevétel hiányában minimum kettőmillió forint, maximum kétszázmillió forint.
-
-(3) A REMIT piacintegritási eljárás során kiszabható közigazgatási bírság mértéke a REMIT 3. és 5. cikkében meghatározott jogsértés megállapítása esetén, minimum ötmillió Ft, maximum a jogsértést megvalósító jogi személy jogsértést megelőző üzleti év bruttó árbevételének 15%-a. Megelőző évi számszerűsíthető árbevétel hiányában minimum ötmillió Ft, maximum kétmilliárd forint.
-
-(4) Az (1)–(3) bekezdésben foglaltaktól eltérően, a közigazgatási bírság összege akkor haladhatja meg az érintett jogi személy jogsértést megelőző üzleti év bruttó árbevételének 15%-át, amennyiben az érintett jogi személy közvetlenül vagy közvetve pénzügyi előnyhöz jutott a jogsértésből, és az számszerűsíthető, ebben az esetben a közigazgatási bírság összege az elért pénzügyi előnnyel megegyező mértékű.
-
-(5) A kiszabható közigazgatási bírság felső határa az (1)–(3) bekezdéstől eltérően az elért árfolyamnyereség vagy elkerült árfolyamveszteség négyszáz százaléka, ha az árfolyam-különbözet mértéke tételesen kimutatható, és az magasabb, mint az (1)–(3) bekezdésekben meghatározott bírságtétel felső határa. Ilyen esetben a bírság összege az elért pénzügyi előnnyel megegyező mértékű.
-
-112/F. § (1) A nem természetes személynek a 112/E. § (1) bekezdése szerint közigazgatási bírsággal sújtott tevékenységében érdemben közreműködő természetes személlyel szemben a VET-ben megállapított szempontok mérlegelésével kiszabható közigazgatási bírság összege – a piaci szereplővel szembeni közigazgatási bírság alkalmazásán felül – legalább százezer, de legfeljebb kétszázmillió forint.
-
-(2) A nem természetes személynek a 112/E. § (2) bekezdése szerinti közigazgatási bírsággal sújtott tevékenységében érdemben közreműködő természetes személlyel szemben a VET-ben megállapított szempontok mérlegelésével kiszabható közigazgatási bírság összege – a piaci szereplővel szembeni közigazgatási bírság alkalmazásán felül –legalább százezer, de legfeljebb négyszázmillió forint.
-
-(3) A nem természetes személynek a 112/E. § (3) bekezdése szerinti közigazgatási bírsággal sújtott tevékenységében érdemben közreműködő természetes személlyel szemben a VET-ben megállapított szempontok mérlegelésével kiszabható bírság összege – a piaci szereplővel szembeni közigazgatási bírság alkalmazásán felül – legalább százezer, de legfeljebb kétmilliárd forint.
-
-(4) A természetes személyekkel szemben kiszabható közigazgatási bírság összege nem lehet több, mint az érintett természetes személy a jogsértés évét mint tárgyévet megelőző, személyi jövedelemadó-bevallással igazolt bruttó jövedelmének 20%-a. Kivételt képez, ha az érintett természetes személy közvetve vagy közvetlenül pénzügyi előnyhöz jutott a jogsértésből, és az számszerűsíthető. Ebben az esetben a bírság összege az elért pénzügyi előnnyel megegyező mértékű.
-
-(5) Számszerűsíthető, igazolt, megelőző évi bruttó jövedelem hiányában a bírság összege minimum százezer, maximum kétmilliárd forint.”
+[^26]: A 26. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
