@@ -23,3 +23,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2022-22-00-00
 | 2024-06-19 | 2024. évi XXIX. törvény | 2022-22-00-00.20 |
 | 2024-09-01 | 2024. évi XII. törvény | 2022-22-00-00.19 |
 | 2025-01-15 | 2024. évi XXVII. törvény | 2022-22-00-00.11 |
+| 2025-01-16 | 2010. évi CXXX. törvény | 2022-22-00-00.12 |
