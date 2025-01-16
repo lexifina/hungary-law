@@ -1,1 +1,1 @@
-146. § Az egyes agrártárgyú törvények módosításáról szóló 2021. évi CL. törvény 129. § (2) bekezdésének a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény 110/F. § (3) bekezdését megállapító rendelkezése a „2023. február 1.” szövegrészek helyett a „2025. január 15.” szöveggel lép hatályba.
+### 146. §

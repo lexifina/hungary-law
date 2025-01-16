@@ -31,3 +31,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2024-29-00-00
 | 2025-01-01 | 2024. évi LXXVII. törvény | 2024-29-00-00.19 |
 | 2025-01-02 | 2010. évi CXXX. törvény | 2024-29-00-00.20 |
 | 2025-01-15 | 2024. évi LXXX. törvény | 2024-29-00-00.21 |
+| 2025-01-16 | 2010. évi CXXX. törvény | 2024-29-00-00.22 |
