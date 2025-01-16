@@ -4,8 +4,8 @@ a)
 
 b)
 
-c) 37. § (5) bekezdése,
+c)
 
 d)
 
-e) 100. § (7) bekezdése.
+e)
