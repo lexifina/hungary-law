@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-392-20-
 | 2021-09-18 | 2013-392-20-22.15 | 610/2020. (XII. 18.) Korm. rendelet |
 | 2022-07-01 | 2013-392-20-22.16 | 238/2022. (VI. 30.) Korm. rendelet |
 | 2023-01-01 | 2013-392-20-22.17 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2025-01-16 | 2013-392-20-22.18 | 217/2016. (VII. 22.) Korm. rendelet |
