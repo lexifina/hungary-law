@@ -42,7 +42,7 @@ me) lakóhelyének, tartózkodási helyének
 
 változásáról, valamint az érintett elhalálozása tényéről, idejéről.
 
-n) az Nytv. 24/L. §-a szerinti, a Magyarország Helyreállítási és Ellenállóképességi Tervében megvalósuló, az önellátásra korlátozottan képes emberek biztonságát és életvédelmét szolgáló digitalizációs program (a továbbiakban: Program) megvalósítására a Kormány által kijelölt jogi személy részére az Nytv.-ben meghatározott polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és idejének, lakóhelyének és tartózkodási helyének változásáról, továbbá az érintett külföldön történő letelepedéséről, valamint elhalálozása, holttá nyilvánítása tényéről és idejéről.
+n) az Nytv. 24/L. §-a szerinti, a Magyarország Helyreállítási és Ellenállóképességi Tervében megvalósuló, az önellátásra korlátozottan képes emberek biztonságát és életvédelmét szolgáló digitalizációs program (a továbbiakban: Gondosóra program) megvalósítására a Kormány által kijelölt jogi személy részére az Nytv.-ben meghatározott polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és idejének, lakóhelyének és tartózkodási helyének változásáról, továbbá az érintett külföldön történő letelepedéséről, valamint elhalálozása, holttá nyilvánítása tényéről és idejéről.
 
 o) a közigazgatási szankciót kiszabó hatóságoknak a közigazgatási szabályszegések szankcióiról szóló 2017. évi CXXV. törvény 3. §-a szerinti nyilvántartásban nyilvántartott polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, továbbá állampolgárságának változásáról.
 
@@ -122,7 +122,7 @@ j) az (1) bekezdés k) pontja szerinti kincstár,
 
 k) az (1) bekezdés m) pontja szerinti adatváltozás-kezelési szolgáltató,
 
-l) az (1) bekezdés n) pontja szerinti, a Kormány által a Program megvalósítására kijelölt jogi személy,
+l) az (1) bekezdés n) pontja szerinti, a Kormány által a Gondosóra program megvalósítására kijelölt jogi személy,
 
 m) az (1) bekezdés i) pontja szerinti bírósági peres és nemperes eljárásokra adott általános meghatalmazások közhiteles nyilvántartásokról szóló törvény szerinti nyilvántartását vezető szerv,
 
