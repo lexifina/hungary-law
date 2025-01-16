@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2023-94-00-00
 | 2024-07-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2023-94-00-00.7 |
 | 2024-07-02 | 2010. évi CXXX. törvény | 2023-94-00-00.8 |
 | 2025-01-15 | 2024. évi LXXX. törvény | 2023-94-00-00.9 |
+| 2025-01-16 | 2010. évi CXXX. törvény | 2023-94-00-00.10 |
