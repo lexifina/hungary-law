@@ -1,5 +1,3 @@
-4. § A Get. Vhr. a következő 50/D. §-sal egészül ki:
+4. §[^4]
 
-„50/D. § (1) A bírságok összegének meghatározásakor a bruttó árbevételt a határozat meghozatalát megelőző üzleti évre vonatkozó éves beszámoló vagy egyszerűsített éves beszámoló alapján kell meghatározni. Ha a vállalkozás működési ideje az adott évben egy évnél rövidebb, az adatokat éves szintre kell vetíteni. Ha a határozat meghozatalát megelőző üzleti évben elért bruttó árbevételéről nem áll rendelkezésre hiteles adat, az utolsó hitelesen lezárt üzleti év bruttó árbevétele az irányadó. Beszámolóval nem rendelkező, újonnan alapított jogi személy esetében az eljárás megindításának évére vonatkozó üzleti tervet, ennek hiányában a jogi személy által a Hivatal felhívására közölt, a számvitelről szóló törvénynek a közbenső mérleg készítésére vonatkozó szabályai szerint az eljárás megindításának napjával, mint fordulónappal kiszámított bruttó árbevételt kell figyelembe venni.
-
-(2) A bírságok az árképzésnél költségnövelő tényezőként nem vehetőek figyelembe.”
+[^4]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

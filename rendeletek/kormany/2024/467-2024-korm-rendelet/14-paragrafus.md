@@ -1,9 +1,3 @@
-14. § A Get. Vhr.
+14. §[^14]
 
-a) 3. számú melléklet 2. pont b) alpontjában a „követelmények” szövegrész helyébe a „követelmények, ideértve a földgáz hidrogéntartalmára vonatkozó minőségi követelményeket is” szöveg,
-
-b) 3. számú melléklet 4. pont e) alpontjában az „üzemeltetése” szövegrész helyébe az „üzemeltetése, ideértve a földgáz hidrogéntartalmára vonatkozó mérési feltételeket is” szöveg,
-
-c) 3. számú melléklet 11. pontjában a „mérési hibák kezelése” szövegrész helyébe a „mérési hibák kezelése, ideértve földgáz hidrogéntartalmára vonatkozó előírásokat is” szöveg
-
-lép.
+[^14]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

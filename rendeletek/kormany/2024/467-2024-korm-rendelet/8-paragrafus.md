@@ -1,3 +1,3 @@
-8. § A Get Vhr. 116. § (3) bekezdése helyébe a következő rendelkezés lép:
+8. §[^8]
 
-„(3) Az SZB-ben véleményezési joggal vesznek részt külön-külön felhasználói kört alkotva, a Hivatal által kijelölt, az egyetemes szolgáltatásban és a kereskedelmi ellátásban részesülő felhasználók képviselői, valamint tanácskozási joggal delegált képviselői útján az energiapolitikáért felelős miniszter.”
+[^8]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

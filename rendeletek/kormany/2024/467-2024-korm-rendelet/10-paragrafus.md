@@ -1,5 +1,3 @@
-10. § A Get. Vhr. 143. § (1a) bekezdése helybe a következő rendelkezés lép és a § a következő (1b) bekezdéssel egészül ki:
+10. §[^10]
 
-„(1a) A közreműködő – valamint az (1b) bekezdés szerinti esetben a közreműködő által kiszervezett tevékenységet végző személy – köteles a Hivatal részére a felügyeleti és az árszabályozási feladatai ellátásához szükséges, az egyes földgázipari vállalkozások adatszolgáltatásainak rendjéről szóló miniszteri rendeletben meghatározott adatokat megadni.
-
-(1b) Az (1a) bekezdés szerinti adatszolgáltatásra a közreműködő által kiszervezett tevékenységet végző személy akkor köteles, ha a közreműködő az engedélyes kapcsolt vállalkozása. Ebben az esetben a kiszervezett tevékenységet végző személy az (1a) bekezdés szerinti adatszolgáltatás teljesítése érdekében olyan, a kiszervezett tevékenységre vonatkozó elkülönült nyilvántartást vezet, amely biztosítja az engedélyes kiszervezett tevékenységének átláthatóságát, és kizárja a GET 120. § (2) bekezdés szerinti engedélyes egyes tevékenységei közötti keresztfinanszírozást.”
+[^10]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

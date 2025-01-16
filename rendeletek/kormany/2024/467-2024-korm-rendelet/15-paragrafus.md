@@ -1,7 +1,3 @@
-15. § Hatályát veszti a Get. Vhr.
+15. §[^15]
 
-a) 116. § (4a) bekezdése,
-
-b) 144/A. § (2) bekezdése,
-
-c) 153. §-a.
+[^15]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
