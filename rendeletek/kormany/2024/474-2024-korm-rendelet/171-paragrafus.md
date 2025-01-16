@@ -1,3 +1,3 @@
-171. §[^52]
+171. §[^49]
 
-[^52]: A 171. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^49]: A 171. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

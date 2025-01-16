@@ -1,5 +1,5 @@
 ## 65. A közlekedési igazgatási feladatokkal összefüggő hatósági feladatokat ellátó szervek kijelöléséről szóló 382/2016. (XII. 2.) Korm. rendelet módosítása
 
-154. §[^35]
+154. §[^32]
 
-[^35]: A 154. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^32]: A 154. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

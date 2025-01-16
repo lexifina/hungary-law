@@ -1,3 +1,3 @@
-140. §[^21]
+140. §[^18]
 
-[^21]: A 140. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 140. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
