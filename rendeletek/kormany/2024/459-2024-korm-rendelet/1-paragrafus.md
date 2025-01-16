@@ -1,3 +1,5 @@
-1. §[^1]
+1. § Az energiahatékonyságról szóló törvény végrehajtásáról szóló 122/2015. (V. 26.) Korm. rendelet (a továbbiakban: Ehat Vhr.) II. fejezete a következő 9/A. alcímmel egészül ki:
 
-[^1]: Az 1. § a 9. § (2) bekezdése alapján 2025. január 16-án lép hatályba.
+„9/A. Az adatközpontok európai adatbázisába történő adatszolgáltatás tartalma
+
+12/A. § Az energiahatékonyságról szóló 2015. évi LVII. törvény 21/F. §-a szerinti, az adatközpontok európai adatbázisába történő adatszolgáltatás tartalmát a 13. melléklet tartalmazza.”
