@@ -1,6 +1,6 @@
 ## külön kell feltüntetni a végrehajtó hatóságok energiahatékonyságról szóló 2015. évi LVII. törvény 14. § (1) bekezdés b) pont bb) alpontja és a Hivatal energiahatékonyságról szóló 2015. évi LVII. törvény 13. § (5) bekezdése szerinti adatszolgáltatásában.
 
-8. melléklet a 122/2015. (V. 26.) Korm. rendelethez[^132]
+8. melléklet a 122/2015. (V. 26.) Korm. rendelethez[^133]
 
 I. rész: A 2021–2030 közötti időszakra vonatkozó végfelhasználási energiamegtakarítás éves célértékei
 
@@ -88,7 +88,7 @@ II. rész: Az egyes alternatív szakpolitikai intézkedések és megvalósítás
 
 III. rész:
 
-Az egyes alternatív szakpolitikai intézkedések, a megvalósításukért felelős végrehajtó hatóságok, és az egyes szakpolitikai intézkedésekből eredő halmozott energiamegtakarítás célértékei a 2021–2030-as időszakban[^133]
+Az egyes alternatív szakpolitikai intézkedések, a megvalósításukért felelős végrehajtó hatóságok, és az egyes szakpolitikai intézkedésekből eredő halmozott energiamegtakarítás célértékei a 2021–2030-as időszakban[^134]
 
 |  | A | B | C | D |
 
@@ -164,5 +164,5 @@ Az egyes alternatív szakpolitikai intézkedések, a megvalósításukért felel
 
 IV. rész: Az energiahatékonysági kötelezettségi rendszerből eredő halmozott energiamegtakarítás éves célértékei a 2021–2030-as időszakban (PJ)
 
-[^132]: A 8. melléklet a 715/2020. (XII. 30.) Korm. rendelet 19. § (4) bekezdésével megállapított, a 238/2022. (VI. 30.) Korm. rendelet 149. §-a, a 98/2024. (V. 7.) Korm. rendelet 6. § (2) bekezdése szerint módosított szöveg.
-[^133]: A 8. melléklet III. része a 459/2024. (XII. 30.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^133]: A 8. melléklet a 715/2020. (XII. 30.) Korm. rendelet 19. § (4) bekezdésével megállapított, a 238/2022. (VI. 30.) Korm. rendelet 149. §-a, a 98/2024. (V. 7.) Korm. rendelet 6. § (2) bekezdése szerint módosított szöveg.
+[^134]: A 8. melléklet III. része a 459/2024. (XII. 30.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.

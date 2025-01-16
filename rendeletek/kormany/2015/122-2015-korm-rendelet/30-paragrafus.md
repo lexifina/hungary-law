@@ -2,6 +2,6 @@
 
 ## 157/2005. (VIII. 15.) Korm. rendelet módosítása
 
-30. §[^97]
+30. §[^98]
 
-[^97]: A 30–31. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^98]: A 30–31. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

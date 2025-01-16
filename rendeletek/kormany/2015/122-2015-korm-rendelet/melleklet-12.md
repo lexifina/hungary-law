@@ -24,17 +24,8 @@
 
 | 12. | Agrár | Mezőgazdasági és élelmiszeripari gépészmérnöki | Mezőgazdasági és élelmiszeripari gépészmérnöki | mezőgazdasági és élelmiszeripari gépészmérnök, okleveles mezőgazdasági és élelmiszeripari gépészmérnök |
 
-12. melléklet a 122/2015. (V. 26.) Korm. rendelethez[^137]
+12. melléklet a 122/2015. (V. 26.) Korm. rendelethez[^138]
 
 Az energetikai auditálási tevékenység folytatásához szükséges szakmai gyakorlati idő meghatározása
 
-|  | A | B |
-
-| 1. | Képesítési követelmény, vagy az ezzel egyenértékű szakképzettség | Szakmai gyakorlati idő |
-
-| 2. | 11. melléklet szerinti mesterképzésben/osztatlan képzésben szerzett szakképzettség esetén | 5 év |
-
-| 3. | 11. melléklet szerinti alapképzésben szerzett szakképzettség esetén[^138] | 8 év |
-
-[^137]: A 12. mellékletet a 393/2016. (XII. 5.) Korm. rendelet 15. § (4) bekezdése iktatta be.
-[^138]: A 12. mellékletben foglalt táblázat A:3 mezője a 459/2024. (XII. 30.) Korm. rendelet 7. §-a szerint módosított szöveg.
+[^138]: A 12. mellékletet a 393/2016. (XII. 5.) Korm. rendelet 15. § (4) bekezdése iktatta be.
