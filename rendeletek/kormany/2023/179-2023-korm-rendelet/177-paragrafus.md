@@ -1,9 +1,3 @@
-177. § A 384/2016. (XII. 2.) Korm. rendelet
+177. §[^109]
 
-a) 25. § (1) bekezdésében az „NFK” szövegrész helyébe a „Nemzeti Földügyi Központ (a továbbiakban: NFK)” szöveg és az „átvezetésére” szövegrész helyébe a „bejegyzésére” szöveg,
-
-b) 25. § (3) bekezdésében az „átvezetni” szövegrész helyébe a „bejegyezni” szöveg,
-
-c) 25. § (4) bekezdésében az „átvezetésére” szövegrész helyébe a „bejegyzésére” szöveg
-
-lép.
+[^109]: A 177. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
