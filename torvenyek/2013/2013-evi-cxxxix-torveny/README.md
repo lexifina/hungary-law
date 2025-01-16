@@ -74,3 +74,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-139-00-00
 | 2024-11-05 | 2024. évi XXXIX. törvény | 2013-139-00-00.69 |
 | 2024-11-14 | 2024. évi XXXIX. törvény | 2013-139-00-00.70 |
 | 2024-12-21 | 2024. évi X. törvény | 2013-139-00-00.66 |
+| 2025-01-16 | 2024. évi LXXIII. törvény | 2013-139-00-00.71 |

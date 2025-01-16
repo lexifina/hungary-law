@@ -20,7 +20,7 @@ nem szabályozott kérdésekben az általános közigazgatási rendtartásról s
 
 3. a hatáskör és az illetékesség vizsgálatára, a hatásköri és illetékességi vitára,
 
-4. a megkeresés szabályaira, a kapcsolattartás általános szabályaira,
+4. a megkeresés szabályaira,
 
 5. az adatkezelésre, az adatok zárt kezelésére,
 

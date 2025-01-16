@@ -29,3 +29,5 @@ részére forintban és külföldi pénznemben bankszámlát vezetni.
 (3) Az MNB a 4. § (1) és (7) bekezdésében meghatározott feladata ellátása során a Bszt. szerinti befektetési szolgáltatási tevékenységet kiegészítő szolgáltatásként pénzügyi eszköz letéti őrzését és nyilvántartását láthatja el, ehhez kapcsolódóan ügyfélszámlát vezethet, továbbá letétet kezelhet és ehhez kapcsolódóan értékpapírszámlát vezethet, valamint nyomdai úton előállított értékpapír esetén azt nyilvántarthatja és ügyfélszámlát vezethet.
 
 (4) Az MNB az előkészítő eljárást folytató szerv, a nyomozó hatóság és az ügyészség tevékenységének támogatása céljából, a monetáris finanszírozás 146. § szerinti tilalmának betartásával jogosult forint és külföldi bankjegyeket biztosítani e szervek részére a büntetőeljárás lefolytatásához.
+
+(5) Az MNB a monetáris politika végrehajtásával, devizatartalék kezelésével, bankszámlavezetéssel, fizetési rendszer működtetésével kapcsolatos, valamint a készpénzforgalmazási tevékenysége során a Dáptv. rendelkezéseit a magas vagy jelentős biztonsági osztályba sorolt, zárt célú elektronikus információs rendszereken kívül nyújtott digitális szolgáltatására alkalmazza.

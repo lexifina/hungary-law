@@ -51,3 +51,37 @@ végrehajtásához szükséges rendelkezéseket állapítja meg az MNB feladatk�
 18. (31) bekezdése a kollektív befektetési vállalkozások határokon átnyúló forgalmazásának megkönnyítéséről, valamint a 345/2013/EU, a 346/2013/EU és az 1286/2014/EU rendelet módosításáról szóló, 2019. június 20-i (EU) 2019/1156 európai parlamenti és tanácsi rendelet,
 
 19. (32) bekezdése az (EU) 2016/1011 rendeletnek az uniós éghajlatváltozási referenciamutatók, a Párizsi Megállapodáshoz igazodó uniós referenciamutatók és a referenciamutatókra vonatkozó, fenntarthatósággal kapcsolatos közzétételek tekintetében történő módosításáról szóló, 2019. november 27-i (EU) 2019/2089 európai parlamenti és tanácsi rendelet,
+
+20. (33) bekezdése a fenntartható befektetések előmozdítását célzó keret létrehozásáról, valamint az (EU) 2019/2088 rendelet módosításáról szóló, 2020. június 18-i (EU) 2020/852 európai parlamenti és tanácsi rendelet 5–7. cikkének
+
+21. (34) bekezdése a pénzügyi szolgáltatási ágazatban a fenntarthatósággal kapcsolatos közzétételekről szóló, 2019. november 27-i (EU) 2019/2088 európai parlamenti és tanácsi rendelet
+
+22. (35) bekezdése a befektetési vállalkozásokra vonatkozó prudenciális követelményekről, valamint az 1093/2010/EU, az 575/2013/EU, a 600/2014/EU és a 806/2014/EU rendelet módosításáról szóló, 2019. november 27-i (EU) 2019/2033 európai parlamenti és tanácsi rendelet
+
+23. (39) bekezdése az (EU) 2021/1230 európai parlamenti és tanácsi rendelet
+
+24. (40) bekezdése a megosztott főkönyvi technológián alapuló piaci infrastruktúrák kísérleti rendszeréről, valamint a 600/2014/EU és a 909/2014/EU rendelet, továbbá a 2014/65/EU irányelv módosításáról szóló, 2022. május 30-i (EU) 2022/858 parlamenti és tanácsi rendelet
+
+25. (41) bekezdése a kriptoeszközök piacairól, valamint az 1093/2010/EU és az 1095/2010/EU rendelet, továbbá a 2013/36/EU és az (EU) 2019/1937 irányelv módosításáról szóló 2023. május 31-i (EU) 2023/1114 európai parlamenti és tanácsi rendelet
+
+26. (42) bekezdése az európai zöldkötvényekről és a környezeti szempontból fenntarthatóként forgalmazott kötvényekre és a fenntarthatósághoz kapcsolódó kötvényekre vonatkozó opcionális közzétételekről szóló, 2023. november 22-i (EU) 2023/2631 európai parlamenti és tanácsi rendelet,
+
+végrehajtásához szükséges rendelkezéseket állapít meg az MNB feladatkörében és eljárásában.
+
+(6) A pénzügyi fogyasztói jogvita tekintetében
+
+a) az Európai Parlament és a Tanács 2002/65/EK irányelve (2002. szeptember 23.) a fogyasztói pénzügyi szolgáltatások távértékesítéssel történő forgalmazásáról, valamint a 90/619/EGK tanácsi irányelv, a 97/7/EK irányelv és a 98/27/EK irányelv módosításáról, 14. cikk,
+
+b) az Európai Parlament és a Tanács (EU) 2015/2366 irányelve (2015. november 25.) a belső piaci pénzforgalmi szolgáltatásokról és a 2002/65/EK, a 2009/110/EK és a 2013/36/EU irányelv és a 1093/2010/EU rendelet módosításáról, valamint a 2007/64/EK irányelv hatályon kívül helyezéséről, 102. cikk,
+
+c) az Európai Parlament és a Tanács 2008/48/EK irányelve (2008. április 23.) a fogyasztói hitel-megállapodásokról és a 87/102/EGK tanácsi irányelv hatályon kívül helyezéséről, 24. cikk,
+
+d) a Bizottság 98/257/EK ajánlása (1998. március 30.) a fogyasztói jogviták bírósági eljáráson kívüli rendezésére hatáskörrel rendelkező testületekre vonatkozó elvekről,
+
+e) a Közösségben történő határokon átnyúló fizetésekről és a 2560/2001/EK rendelet hatályon kívül helyezéséről szóló, 2009. szeptember 16-i 924/2009/EK európai parlamenti és tanácsi rendelet 11. és 12. cikke
+
+f) a fogyasztói jogviták online rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról (fogyasztói online vitarendezési irányelv) szóló, 2013. május 21-i 524/2013/EU európai parlamenti és tanácsi rendelet,
+
+g) a fogyasztói jogviták alternatív rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról (fogyasztói alternatív vitarendezési irányelv) szóló, 2013. május 21-i 2013/11/EU európai parlamenti és tanácsi irányelv
+
+végrehajtásához szükséges rendelkezéseket állapítja meg az MNB feladatkörében és eljárásában.
