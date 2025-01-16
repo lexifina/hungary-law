@@ -4,4 +4,4 @@ a) az 1–3. pirotechnikai osztályba tartozó – maximum 20 kg összes nettó 
 
 b) az 1. és a 2. pirotechnikai osztályba tartozó tűzijáték termék forgalmazására vonatkozó előzetes bejelentést,
 
-ha azt nem a bejelentés előterjesztésére jogosult ügyfélkapuján keresztül terjesztették elő.
+ha azt nem a bejelentés előterjesztésére jogosult központi azonosítási ügynökön keresztül elérhető elektronikus azonosítás szolgáltatáson keresztül terjesztették elő.
