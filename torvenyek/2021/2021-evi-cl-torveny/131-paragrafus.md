@@ -1,18 +1,18 @@
-131. § Hatályát veszti a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény
+### 131. §
 
-a) 2/A–2/C. §-a,
+a)
 
 b)
 
 c)
 
-d) 9/A. alcíme,
+d)
 
 e)
 
-f) 94. § (1) bekezdés b) pont be) alpontja,
+f)
 
-g) 104. § (1) bekezdés f) pontja,
+g)
 
 h)
 
