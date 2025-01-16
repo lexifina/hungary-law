@@ -40,4 +40,4 @@ n) a jogosult eljárási költségként anyagi jogi követelést érvényesít.
 
 (6) A fizetési meghagyás iránti kérelem visszautasítása esetén a már kibocsátott fizetési meghagyás hatályát veszti.
 
-(7) A (2) bekezdés nem zárja ki, hogy a jogosult ugyanarra a címre sikertelen postai kézbesítést követően végrehajtói kézbesítést kérjen. A végrehajtói kézbesítés eredménytelensége esetén a kérelmet az (1) bekezdés h) pontja alapján kell visszautasítani.
+(7) A (2) bekezdés nem zárja ki, hogy a jogosult ugyanarra a címre sikertelen postai kézbesítést követően végrehajtói kézbesítést kérjen. A végrehajtói kézbesítés eredménytelensége esetén a kérelmet az (1) bekezdés h) pontja alapján vissza kell utasítani.
