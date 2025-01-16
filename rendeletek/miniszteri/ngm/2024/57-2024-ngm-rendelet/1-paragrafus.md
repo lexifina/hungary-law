@@ -1,1 +1,3 @@
-1. § A villamosművek, valamint termelői, magán- és közvetlen vezetékek biztonsági övezetéről szóló 2/2013 (I. 22.) NGM rendelet 13. § (2) bekezdés d) pontjában a „4 méternél” szövegrész helyébe az „5 méternél” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
