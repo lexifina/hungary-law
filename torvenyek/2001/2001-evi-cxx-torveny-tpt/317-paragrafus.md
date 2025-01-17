@@ -6,7 +6,7 @@
 
 (3) A tőzsdei szabályzatoknak biztosítaniuk kell, hogy
 
-a) a tőzsde a működésével összefüggésben felmerülő kockázatok kezelésére, csökkentésére megfelelő rendszereket és megoldásokat alkalmazzon,
+a) a tőzsde a működésével összefüggésben felmerülő lényeges kockázatok azonosítására, kezelésére és csökkentésére megfelelő rendszereket és megoldásokat alkalmazzon, és felkészüljön a felmerülő kockázatok kezelésére, ideértve az IKT-kockázatoknak az (EU) 2022/2554 európai parlamenti és tanácsi rendelet II. fejezet szerinti kezelését is,
 
 b) a piac általános érdekeinek megfelelően a tőzsdei tevékenység, a kereskedés és az ezekről szóló információ átlátható és ellenőrizhető legyen, ezáltal teremtve meg a kereskedésben részt vevők esélyegyenlőségét, egyenlő elbírálását és a befektetők objektív piaci védelmét,
 
@@ -30,7 +30,7 @@ f) az árfolyam és az egyéb tőzsdei információ nyilvánosságra hozatalána
 
 g) a tőzsdei kereskedők, a tőzsdére bevezetett értékpapírok kibocsátói adatszolgáltatásának tartalmát, módját és ellenőrzésének rendjét;
 
-h) a tőzsdei kereskedési rendszer technikai működésének megalapozott irányítására vonatkozó szabályokat, ideértve az előre nem látható események hatékony kezelésére vonatkozó megoldásokat is, annak érdekében, hogy a tőzsde csökkentse a rendszerleállás kockázatát,
+h)
 
 i) a tőzsde, a tőzsde tulajdonosai vagy működtetője érdekei és a tőzsde stabil működése között potenciálisan felmerülő összeférhetetlenség kezelésére vonatkozó szabályokat, továbbá a tőzsde vezető állású személyeire és alkalmazottaira vonatkozó összeférhetetlenségi szabályokat;
 
