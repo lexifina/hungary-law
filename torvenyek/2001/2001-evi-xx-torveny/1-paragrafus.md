@@ -15,3 +15,5 @@
 (6) Az MFB Zrt. nem köteles csatlakozni az Országos Betétbiztosítási Alaphoz.
 
 (7) Az MFB Zrt. által végzett pénzügyi szolgáltatási tevékenységre a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) rendelkezéseit, az MFB Zrt. tekintetében fennálló prudenciális követelményekre a hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló, 2013. június 26-i 575/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 575/2013/EU rendelet) rendelkezéseit az e törvényben foglalt eltéréssel kell alkalmazni.
+
+(8) Az MFB Zrt. vonatkozásában nem alkalmazandó a pénzügyi ágazat digitális működési rezilienciájáról, valamint a 1060/2009/EK, a 648/2012/EU, a 600/2014/EU, a 909/2014/EU és az (EU) 2016/1011 rendelet módosításáról szóló, 2022. december 14-i (EU) 2022/2554 európai parlamenti és tanácsi rendelet.
