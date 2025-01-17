@@ -18,6 +18,8 @@ b) azon fizetési számlák tekintetében, amelyeket valamely jogszabály előí
 
 (5) E törvény rendelkezései a 62/B. § (1) bekezdése szerinti nyilvántartást kezelő pénzügyi vállalkozásra a 62/B. § (1) bekezdése szerinti nyilvántartás kezelése tekintetében terjednek ki.
 
-(6) A számlainformációs szolgáltatásra e törvény 5. §-a, 10. §-a, 31. §-a, 38/C. §-a, 55/A–55/C. §-a, valamint azon rendelkezések alkalmazandóak, ahol e törvény a számlainformációs szolgáltatást kifejezetten nevesíti.
+(6) A számlainformációs szolgáltatásra az 5. §, a 10. §, a 31. §, a 38/C. §, az 55/A. §, az 55/C. §, valamint azon rendelkezések alkalmazandók, ahol e törvény a számlainformációs szolgáltatást kifejezetten nevesíti.
 
 (7) E törvény 6. § (1) bekezdése, 7. § (2) és (3) bekezdése, 31. § (1) bekezdése, 32. § (1) bekezdése és 33. § (1) bekezdése szerinti átváltási árfolyamról, díjról, költségről vagy egyéb fizetési kötelezettségről történő tájékoztatási kötelezettség a fizetési műveletben részt vevő más félre – így különösen az automata bankjegykiadó gép üzemeltetőjére – akkor is kiterjed, ha az általa nyújtott szolgáltatás a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény (a továbbiakban: Hpt.) alapján nem minősül pénzforgalmi szolgáltatásnak.
+
+(8) Az 55/B. § nem terjed ki a hitelintézetre, az elektronikuspénz-kibocsátó intézményre és pénzforgalmi intézményre.
