@@ -116,7 +116,11 @@ b) egyidejűleg több biztosító egymással versengő biztosítási termékeit 
 
 45. járadékszolgáltatás: a jogosult részére szerződés alapján meghatározott pénzösszeg időszakonként visszatérő szolgáltatása;
 
-46. jegyzett tőke és saját tőke: a számvitelről szóló törvényben (a továbbiakban: Szmt.) meghatározottak szerinti jegyzett tőke és saját tőke;
+46. jegyzett tőke és saját tőke: a számvitelről szóló 2000. évi C. törvényben (a továbbiakban: Szmt.) meghatározottak szerinti jegyzett tőke és saját tőke;
+
+46a. jelentős IKT-vonatkozású esemény: a pénzügyi ágazat digitális működési rezilienciájáról, valamint a 1060/2009/EK, a 648/2012/EU, a 600/2014/EU, a 909/2014/EU és az (EU) 2016/1011 rendelet módosításáról szóló, 2022. december 14-i európai parlamenti és tanácsi rendeletben [a továbbiakban: (EU) 2022/2554 európai parlamenti és tanácsi rendelet] ekképp meghatározott fogalom;
+
+46b. jelentős kiberfenyegetés: az (EU) 2022/2554 európai parlamenti és tanácsi rendeletben ekképp meghatározott fogalom;
 
 47. jellemző kockázat: több biztosítási ágazatba vagy ugyanazon biztosítási ágazat több alágazatába tartozó kockázatot is fedező biztosítási termék ágazati, illetve alágazati besorolását meghatározó kockázat. A több biztosítási ágazatba vagy ugyanazon biztosítási ágazat több alágazatába tartozó kockázatot is fedező biztosítási termék abba az egy biztosítási ágazatba, illetve biztosítási alágazatba tartozik, amely megfelel az adott termék díjkalkulációja szerint a legnagyobb arányú díjrésszel fedezett kockázat ágazati, illetve alágazati besorolásának;
 

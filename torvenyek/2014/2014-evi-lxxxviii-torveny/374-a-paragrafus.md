@@ -1,0 +1,1 @@
+374/A. § A 77. § (5) és (6) bekezdésében foglaltak az (EU) 2022/2554 európai parlamenti és tanácsi rendelet hatálya alá tartozó biztosításközvetítőkre, viszontbiztosítás-közvetítőkre és kiegészítő biztosításközvetítői tevékenységet végző személyekre is megfelelően alkalmazandók.

@@ -8,8 +8,12 @@ b) a felelősségi köröket egyértelműen meghatározni és egymástól megfel
 
 c) hatékony információáramlást biztosító rendszert működtetni; és
 
-d) tevékenységei folyamatos és szabályszerű ellátása érdekében megfelelő és arányos rendszereket, erőforrásokat és eljárásokat – ideértve a készenléti tervet is – alkalmazni.
+d) tevékenységei folyamatos és szabályszerű ellátása érdekében megfelelő és arányos rendszereket, erőforrásokat és eljárásokat (ideértve a készenléti tervet is), így különösen az (EU) 2022/2554 európai parlamenti és tanácsi rendeletnek megfelelően létrehozott és működtetett hálózati és információs rendszereket alkalmazni.
 
 (3) A belső szabályzatokban egyértelműen meg kell állapítani a vonatkozó feladatokat, célkitűzéseket, folyamatokat és az alkalmazandó beszámolási eljárásokat, amelyek mindegyikének összhangban kell lennie a biztosító általános üzleti stratégiájával.
 
 (4) A szabályzatokat az irányítási rendszer vagy az érintett terület bármely jelentős változása esetén, de évente legalább egyszer felül kell vizsgálni.
+
+(5) A biztosító vagy a viszontbiztosító a jelentős IKT-vonatkozású eseményeket az (EU) 2022/2554 európai parlamenti és tanácsi rendelet 19. cikkének megfelelően bejelenti a nemzeti kiberbiztonsági incidenskezelő központnak (CSIRT).
+
+(6) Ha a biztosító vagy a viszontbiztosító a jelentős kiberfenyegetést az (EU) 2022/2554 európai parlamenti és tanácsi rendelet 19. cikkének megfelelően önkéntesen bejelenti a Felügyeletnek, a bejelentést ezzel egyidejűleg a nemzeti kiberbiztonsági incidenskezelő központnak (CSIRT) is megteszi.
