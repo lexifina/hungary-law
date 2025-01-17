@@ -1,1 +1,3 @@
-### 19. §
+19. § A Bszt. a „Belső ellenőrzési szervezeti egység” alcímet megelőzően a következő 18/A. §-val egészül ki:
+
+„18/A. § Az árutőzsdei szolgáltató olyan informatikai rendszert működtet, amely biztosítja a rendszerelemek zártságát, és megakadályozza az informatikai rendszerhez történő jogosulatlan hozzáférést, valamint észrevétlen módosítását. Az informatikai rendszernek meg kell felelnie az általános információbiztonsági zártsági követelményeknek is. Ennek érdekében az árutőzsdei szolgáltatónak adminisztratív, fizikai és logikai intézkedésekkel biztosítania kell az általános információbiztonsági zártsági követelmények teljesülését.”

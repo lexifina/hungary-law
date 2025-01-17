@@ -1,5 +1,5 @@
 56. § Hatályát veszti a Hpt.
 
-a)
+a) 161. § (1) bekezdés d) pontja,
 
 b)
