@@ -2,9 +2,9 @@
 
 ## ALGORITMIKUS KERESKEDÉS
 
-26/B. § (1) Az algoritmikus kereskedést folytató befektetési vállalkozás az általa végzett üzleti tevékenységnek megfelelő, hatékony rendszerekkel és kockázatellenőrzési mechanizmussal rendelkezik, amelyek biztosítják, hogy kereskedési rendszerei
+26/B. § (1) Az algoritmikus kereskedést folytató befektetési vállalkozás az általa végzett üzleti tevékenységnek megfelelő, hatékony rendszerekkel és kockázatellenőrzési mechanizmussal rendelkezik, amelyek biztosítják, hogy kereskedési rendszerei az (EU) 2022/2554 európai parlamenti és tanácsi rendelet II. fejezetében meghatározott követelményekkel összhangban
 
-a) rugalmasak legyenek, és elegendő kapacitással rendelkezzenek,
+a) reziliensek legyenek, és elegendő kapacitással rendelkezzenek,
 
 b) megfelelő kereskedési küszöbértékek és limitek hatálya alá tartozzanak,
 
@@ -14,9 +14,9 @@ d) ne legyenek felhasználhatók olyan célra, amely ellentétes a piaci vissza�
 
 (2) Az algoritmikus kereskedést folytató befektetési vállalkozás
 
-a) az üzletvitel folyamatosságát biztosító hatékony megoldásokkal rendelkezik, amelyek alkalmasak a kereskedési rendszereiben fellépő bármely hiba kezelésére, és
+a) az üzletvitel folyamatosságát biztosító hatékony megoldásokkal rendelkezik, amelyek alkalmasak a kereskedési rendszereiben fellépő bármely hiba kezelésére, ideértve az (EU) 2022/2554 európai parlamenti és tanácsi rendelet 11. cikkének megfelelően létrehozott IKT-vonatkozású üzletmenet-folytonossági politikát és terveket, valamint IKT-vonatkozású reagálási és helyreállítási terveket, és
 
-b) gondoskodik rendszerei teljes körű teszteléséről és megfelelő ellenőrzéséről annak biztosítása érdekében, hogy az (1) bekezdés és e bekezdés követelményeinek mindenkor megfeleljen.
+b) gondoskodik rendszereinek teljes körű teszteléséről és nyomon követéséről annak biztosítása érdekében, hogy az (1) bekezdés és e bekezdés követelményeinek, valamint az (EU) 2022/2554 európai parlamenti és tanácsi rendelet II. és IV. fejezetben meghatározott követelményeknek mindenkor megfeleljen.
 
 (3) Az a befektetési vállalkozás, amely algoritmikus kereskedést folytat, értesíti erről a Felügyeletet, valamint annak a kereskedési helyszínnek a székhelye szerint hatáskörrel rendelkező felügyeleti hatóságát, amelynek tagjaként vagy résztvevőjeként a befektetési vállalkozás algoritmikus kereskedést folytat. A Felügyelet kötelezheti a befektetési vállalkozást, hogy rendszeresen vagy eseti jelleggel adjon leírást
 

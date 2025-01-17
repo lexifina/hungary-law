@@ -16,7 +16,7 @@ g) biztosítsa a vállalkozás különböző szintjei közötti hatékony jelent
 
 (2) Annak a befektetési vállalkozásnak, amely összevont alapú felügyelet alá tartozik, az e §-ban és a 100–102. §-ban foglaltaknak az ellenőrző befolyása alatt álló hitelintézettel és befektetési vállalkozással együttesen is meg kell felelnie.
 
-(3) A befektetési vállalkozás az általa végzett befektetési szolgáltatási tevékenységekben, kiegészítő szolgáltatásokban és az alkalmazott üzleti modellben rejlő kockázatok jellegével, nagyságrendjével, összetettségével arányos átfogó, hatékony és megbízható vállalatirányítási rendszerrel és a (4) bekezdés szerinti belső kontroll funkcióval rendelkezik, amelynek keretén belül
+(3) A befektetési vállalkozás az általa végzett befektetési szolgáltatási tevékenységekben, kiegészítő szolgáltatásokban és az alkalmazott üzleti modellben rejlő kockázatok jellegével, nagyságrendjével, összetettségével arányos átfogó, hatékony és megbízható vállalatirányítási rendszerrel – ideértve a pénzügyi ágazat digitális működési rezilienciájáról, valamint a 1060/2009/EK, a 648/2012/EU, a 600/2014/EU, a 909/2014/EU és az (EU) 2016/1011 rendelet módosításáról szóló, 2022. december 14-i európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2022/2554 európai parlamenti és tanácsi rendelet] 7. cikkének megfelelően létrehozott és működtetett hálózati és információs rendszert – és a (4) bekezdés szerinti belső kontroll funkcióval rendelkezik, amelynek keretén belül
 
 a) a szervezeti felépítését belső szabályzatban áttekinthetően rögzíti,
 
@@ -35,3 +35,9 @@ g) elősegíti a szervezet zavartalan és eredményes működését, az intézm�
 (4) A befektetési vállalkozás a (3) bekezdés d) és e) pontjában rögzítettek, ezáltal a belső kontroll funkciók teljesítése érdekében belső eljárásrendjében egyértelműen meghatározza a belső kontroll funkciók ellátásáért felelős szervezeti egységet vagy egységeket.
 
 (5) A 19/A. § (1) bekezdésben foglaltak alapján a befektetési vállalkozás kockázatvállalása megbízható és a belső szabályzatában rögzített szempontrendszeren alapul.
+
+(6) A befektetési vállalkozás megbízható biztonsági mechanizmusokkal rendelkezik, amelyek garantálják – az (EU) 2022/2554 európai parlamenti és tanácsi rendeletben meghatározott követelményekkel összhangban – az információk továbbítására használt eszközök biztonságát és hitelesítését, minimalizálják az adatsérülés és jogosulatlan hozzáférés kockázatát és megelőzik az információk kiszivárgását, ezáltal biztosítva azok bizalmas jellegét.
+
+(7) A befektetési vállalkozás a jelentős IKT-vonatkozású eseményeket az (EU) 2022/2554 európai parlamenti és tanácsi rendelet 19. cikkének megfelelően bejelenti a nemzeti kiberbiztonsági incidenskezelő központnak (CSIRT).
+
+(8) Ha a befektetési vállalkozás a jelentős kiberfenyegetést az (EU) 2022/2554 európai parlamenti és tanácsi rendelet 19. cikkének megfelelően önkéntesen bejelenti a Felügyeletnek, a bejelentést ezzel egyidejűleg a nemzeti kiberbiztonsági incidenskezelő központnak (CSIRT) is megteszi.

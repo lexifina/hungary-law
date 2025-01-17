@@ -28,7 +28,7 @@ g) a befektetési vállalkozásnak a nem kereskedési könyvben nyilvántartott 
 
 (7)
 
-(8) A Felügyelet által végzett felülvizsgálat és értékelés a kereskedési könyvet vezető befektetési vállalkozásnál arra is kiterjed, hogy a befektetési vállalkozás által elszámolt értékvesztés és képzett céltartalék lehetővé teszi-e a pozíciók rövid időn – legfeljebb harminc napon – belüli lezárását normális piaci körülmények között.
+(8)
 
 (9)
 
@@ -38,7 +38,7 @@ g) a befektetési vállalkozásnak a nem kereskedési könyvben nyilvántartott 
 
 (12)
 
-(13) Az (5) bekezdés c) pontja szerinti felülvizsgálat és értékelés keretében a Felügyelet figyelembe veszi a befektetési vállalkozás üzleti modelljét.
+(13)
 
 (14) Az (5) bekezdés f) pontja szerinti felülvizsgálat és értékelés keretében a befektetési vállalkozásnak a Felügyelet rendelkezésére kell bocsátania legalább
 
@@ -46,7 +46,7 @@ a) a vezető és ellenőrző testület és egyéb bizottsági ülésének napire
 
 b) a vezető testület teljesítményének belső vagy külső értékelésének eredményeit.
 
-(15) A felügyeleti felülvizsgálat és értékelés elősegítése érdekében a Felügyelet legalább évente felügyeleti stressztesztet végez az általa felügyelt befektetési vállalkozásokra vonatkozóan.
+(15)
 
 (16) A Felügyelet – az egyes helyreállítási tervek benyújtását követő hat hónapon belül és azon EGT-állam illetékes felügyeleti hatóságával történt egyeztetést követően, amelyben a befektetési vállalkozás rendszerszinten jelentős fiókteleppel rendelkezik – felülvizsgálja és értékeli a befektetési vállalkozás helyreállítási tervét. A felülvizsgálat a 102. §-ban meghatározott feltételeken kívül kiterjed arra is, hogy a helyreállítási tervben foglaltak alapján megalapozottan valószínűsíthető, hogy
 
