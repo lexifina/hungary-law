@@ -43,11 +43,3 @@ Kötelező elektronikus kapcsolattartással érintett egyes ügyek
 1.5.7. a cél-ÁÉKBV szétválása, egyesülése, megszűnése esetén a gyűjtő-ÁÉKBV számára annak engedélyezésére, hogy a Kbftv. 143. § (4) bekezdés b) pontja, valamint a Kbftv. 143. § (6) bekezdés c) pontja szerint nem gyűjtő-ÁÉKBV-ként működjön tovább,
 
 1.5.8. a cél-ÁÉKBV egyesülése vagy szétválása esetén a gyűjtő-ÁÉKBV törlésére,
-
-1.5.9. annak engedélyezésére, hogy a cél-ÁÉKBV a tervezett egyesülés átvevő ÁÉKBV-je legyen,
-
-1.5.10. annak engedélyezésére, hogy a cél-ÁÉKBV a tervezett szétválás után létrejövő ÁÉKBV-k egyikeként lényegében változatlanul működjön tovább,
-
-1.5.11. ha a cél-ÁÉKBV a beolvadó ÁÉKBV, és az egyesülés következtében a gyűjtő ÁÉKBV az átvevő ÁÉKBV befektetőjévé válik, ezen befektetés jóváhagyására,
-
-1.5.12. annak engedélyezésére, ha a gyűjtő-ÁÉKBV a szétválás eredményeként létrejövő olyan ÁÉKBV befektetővé válik, amely lényegesen különbözik a cél-ÁÉKBV-től,
