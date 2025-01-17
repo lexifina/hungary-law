@@ -24,4 +24,8 @@ d) a kiszervezési szabályzatot.
 
 (8) A foglalkoztatói nyugdíjszolgáltató intézmény hatékony belső kontrollrendszert működtet. A belső kontrollrendszer igazgatási és számviteli eljárásokat, ellenőrzési keret- és szabályrendszert, a foglalkoztatói nyugdíjszolgáltató intézmény valamennyi szintjén megjelenő jelentéstételi szabályokat tartalmaz.
 
-(9) A foglalkoztatói nyugdíjszolgáltató intézmény tevékenységének folyamatos és szabályszerű végrehajtása érdekében az intézmény méretének, belső szervezetének, tevékenysége nagyságrendjének, jellegének, mértékének és összetettségének megfelelő és arányos rendszereket, erőforrásokat és eljárásokat alkalmaz. A foglalkoztatói nyugdíjszolgáltató intézmény tevékenységének végrehajtása érdekében készenléti terveket dolgoz ki.
+(9) A foglalkoztatói nyugdíjszolgáltató intézmény tevékenységének folyamatos és szabályszerű végrehajtása érdekében az intézmény méretének, belső szervezetének, tevékenysége nagyságrendjének, jellegének, mértékének és összetettségének megfelelő és arányos rendszereket, erőforrásokat és eljárásokat így különösen az (EU) 2022/2554 európai parlamenti és tanácsi rendeletnek megfelelően létrehozott és működtetett hálózati és információs rendszereket alkalmaz. A foglalkoztatói nyugdíjszolgáltató intézmény tevékenységének végrehajtása érdekében készenléti terveket dolgoz ki.
+
+(10) Az (EU) 2022/2554 európai parlamenti és tanácsi rendelet hatálya alá tartozó foglalkoztatói nyugdíjszolgáltató a jelentős IKT-vonatkozású eseményeket az (EU) 2022/2554 európai parlamenti és tanácsi rendelet 19. cikkének megfelelően bejelenti a nemzeti kiberbiztonsági incidenskezelő központnak (CSIRT).
+
+(11) Ha a foglalkoztatói nyugdíjszolgáltató a jelentős kiberfenyegetést az (EU) 2022/2554 európai parlamenti és tanácsi rendelet 19. cikkének megfelelően önkéntesen bejelenti a Felügyeletnek, a bejelentést ezzel egyidejűleg a nemzeti kiberbiztonsági incidenskezelő központnak (CSIRT) is megteszi.

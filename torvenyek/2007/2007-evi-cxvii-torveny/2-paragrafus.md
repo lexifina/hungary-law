@@ -34,6 +34,10 @@
 
 16. ellátott: nyugdíjszolgáltatásban részesülő személy;
 
+16a. jelentős IKT-vonatkozású esemény: a pénzügyi ágazat digitális működési rezilienciájáról, valamint az 1060/2009/EK, a 648/2012/EU, a 600/2014/EU, a 909/2014/EU és az (EU) 2016/1011 rendelet módosításáról szóló, 2022. december 14-i (EU) 2022/2554 európai parlamenti és tanácsi rendeletben [a továbbiakban: (EU) 2022/2554 európai parlamenti és tanácsi rendelet] ekképp meghatározott fogalom;
+
+16b. jelentős kiberfenyegetés: az (EU) 2022/2554 európai parlamenti és tanácsi rendeletben ekképp meghatározott fogalom;
+
 17. jogosultság nyilvántartása: a szolgáltatással meghatározott nyugdíjkonstrukció esetén a tag által megszerzett jogosultságok nyilvántartása;
 
 18. jogosultság tőkeértéke: a szolgáltatással meghatározott nyugdíjkonstrukció esetén a szolgáltatás megkezdése előtt a tag által megszerzett jogosultságoknak a tőkeérték kiszámításának időpontjára meghatározott összértéke. A tőkeértéket a megszerzett jogosultságok alapján várható szolgáltatási kiadásoknak a nyugdíjtechnikai tartalékok befektetésén várható jövőbeli hozamok felhasználásával számított jelenértéke alapján kell meghatározni. A számítás során figyelembe kell venni a jogosultságok valorizációját illetően a csatlakozásra vonatkozó szerződésben szereplő rendelkezéseket is;
