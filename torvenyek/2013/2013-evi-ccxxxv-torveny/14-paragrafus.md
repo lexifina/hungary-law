@@ -14,7 +14,7 @@ c) nem eredményezhet változást a tevékenység végzésére jogosító enged�
 
 d) nem szüntethet meg és nem módosíthat semmilyen más olyan feltételt, amelynek meglétéhez a pénzforgalmi intézményként, elektronikuspénz-kibocsátó intézményként történő működési engedély megadását kötötték.
 
-(4) A pénzügyi szolgáltatáshoz, kiegészítő pénzügyi szolgáltatáshoz kapcsolódó kritikus feladatok kiszervezése nem befolyásolhatja a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény belső ellenőrzési rendszere, a könyvvizsgáló és a Felügyelet hatáskörének gyakorlását.
+(4) A pénzügyi szolgáltatáshoz, kiegészítő pénzügyi szolgáltatáshoz kapcsolódó kritikus feladatok – ideértve az IKT-rendszerek kiszervezését – nem befolyásolhatják a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény belső ellenőrzési rendszerét, a könyvvizsgáló és a Felügyelet hatáskörének gyakorlását.
 
 (5) A (3)–(4) bekezdés alkalmazásában a pénzügyi szolgáltatáshoz, kiegészítő pénzügyi szolgáltatáshoz kapcsolódó kritikus feladatnak minősül minden olyan feladat, amelynek végrehajtásában bekövetkezett hiányosság vagy eltérés kétségessé teszi a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény pénzügyi szolgáltatása, kiegészítő pénzügyi szolgáltatása jogszabályban előírt kötelezettségeinek teljesítését, vagy lényegesen csökkentené jövedelmezőségét, pénzügyi szolgáltatási tevékenységének, kiegészítő pénzügyi szolgáltatási tevékenységének megbízhatóságát, folyamatosságát.
 

@@ -8,7 +8,7 @@ c) igazolást az induló tőke teljes összegének rendelkezésre állásáról,
 
 d) az ügyfelek pénzeszközeinek védelme érdekében a 46. §-ban és az 51. §-ban foglalt feltételek biztosításának leírását, ideértve az ügyfélpénzek elkülönített nyilvántartására alkalmas informatikai rendszer részletes leírását és a rendszer alkalmasságáról készített könyvvizsgálói igazolást is,
 
-e) a kérelmező vállalatirányítási és belső ellenőrzési rendszerének leírását, ideértve az adminisztratív, a kockázatkezelési és számviteli eljárásokat is, bemutatva ezen vállalatirányítási, ellenőrzési eljárások arányosságát, helyénvalóságát és megbízhatóságát,
+e) a kérelmező vállalatirányítási és belső ellenőrzési rendszerének leírását, ideértve az adminisztratív, a kockázatkezelési és számviteli eljárásokat is, valamint az (EU) 2022/2554 európai parlamenti és tanácsi rendeletnek megfelelően az IKT-szolgáltatások igénybevételére vonatkozó megállapodásokat bemutatva ezen vállalatirányítási, ellenőrzési eljárások arányosságát, helyénvalóságát és megbízhatóságát,
 
 f) a kérelmező könyvvizsgálójának megnevezését,
 
@@ -34,11 +34,11 @@ p) a 6. §-ban és a 8. §-ban foglalt hitel- és pénzkölcsön nyújtására, 
 
 q) nyilatkozatot arról, hogy milyen – az Szmt. szerinti – függő és jövőbeni kötelezettségei vannak,
 
-r) a biztonsági események és biztonsággal kapcsolatos ügyfélpanaszok monitorozására, kezelésére és nyomon követésére szolgáló eljárások leírását, ideértve a Pft. 55/B. §-ában meghatározott bejelentési kötelezettségnek megfelelően kialakított eseményjelentési eljárást is,
+r) a biztonsági események és biztonsággal kapcsolatos ügyfélpanaszok monitorozására, kezelésére és nyomon követésére szolgáló eljárások leírását, ideértve az eseményjelentési eljárást is, amely figyelembe veszi a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény (EU) 2022/2554 európai parlamenti és tanácsi rendelet III. fejezetében megállapított értesítési kötelezettségeit,
 
 s) az érzékeny fizetési adatokhoz való hozzáférés iktatására, monitorozására, követésére és korlátozására szolgáló eljárás leírását,
 
-t) az üzletmenet-folytonosság biztosítását célzó intézkedések leírását, amely tartalmazza a kritikus műveletek egyértelmű azonosítását, a hatékony készenléti terveket, valamint az e tervek megfelelőségének és hatékonyságának rendszeres tesztelésére és felülvizsgálatára szolgáló eljárást,
+t) az üzletmenet-folytonossági mechanizmusok leírását, amely tartalmazza a kritikus műveletek, a hatékony IKT vonatkozású üzletmenet-folytonossági politikák és tervek, valamint IKT vonatkozású reagálási és helyreállítási tervek, továbbá az ilyen tervek megfelelőségének és hatékonyságának rendszeres tesztelésére és felülvizsgálatára szolgáló, az (EU) 2022/2554 európai parlamenti és tanácsi rendeletnek megfelelő eljárás egyértelmű azonosítását,
 
 u) a teljesítményre, a műveletekre és a csalásra vonatkozó statisztikai adatok gyűjtése során alkalmazott elvek és fogalommeghatározások leírását,
 
@@ -50,7 +50,7 @@ x) a kérelmező teljes bizonyító erejű magánokiratba foglalt nyilatkozatát
 
 (2) Az (1) bekezdés d), e), h) és r) pontjához kapcsolódóan a kérelmező mellékeli azon auditrendszer és szervezeti intézkedések leírását, amelyek a pénzügyi szolgáltatást, kiegészítő pénzügyi szolgáltatást igénybe vevők érdekeinek védelmét, valamint a pénzügyi szolgáltatási tevékenység és kiegészítő pénzügyi szolgáltatási tevékenység végzésének folytonosságát és megbízhatóságát biztosító valamennyi ésszerű intézkedés megtételéhez szükségesek.
 
-(2a) Az (1) bekezdés v) pontjában meghatározott biztonsági ellenőrzési és kockázatmérséklési intézkedések leírásakor a kérelmező bemutatja, hogy azok hogyan biztosítják a magas szintű műszaki biztonságot és adatvédelmet, ideértve a kérelmező által, illetve a kérelmező működésének egy részét vagy egészét kiszervezett tevékenységként végző vállalkozás által alkalmazott szoftvereket, valamint informatikai rendszereket. Ezen intézkedések között a Pft. 55/A. §-ában meghatározott biztonsági intézkedéseknek is szerepelniük kell.
+(2a) Az (1) bekezdés v) pontjában meghatározott biztonsági ellenőrzési és kockázatmérséklési intézkedések leírásakor a kérelmező bemutatja, hogy azok hogyan biztosítják a magas szintű digitális működési rezilienciát az (EU) 2022/2554 európai parlamenti és tanácsi rendelet II. fejezetével összhangban, különösen a műszaki biztonságot és adatvédelmet, ideértve a kérelmező által, illetve a kérelmező működésének egy részét vagy egészét kiszervezett tevékenységként végző vállalkozás által alkalmazott szoftvereket, valamint IKT rendszereket. Ezen intézkedések között a Pft. 55/A. §-ában meghatározott biztonsági intézkedéseknek is szerepelniük kell.
 
 (3) Ha a kérelmezőnek befolyásoló részesedéssel rendelkező tulajdonosa van, az (1) bekezdésben foglaltakon kívül a pénzügyi szolgáltatási tevékenységre, kiegészítő pénzügyi szolgáltatási tevékenységre jogosító engedély iránti kérelemhez mellékeli:
 

@@ -22,4 +22,4 @@ h) áttekinthető szervezeti felépítés
 
 (2) Az (1) bekezdésben foglaltakat székhely-, telephelyváltozás esetén, valamint a pénzügyi szolgáltatási tevékenység, kiegészítő pénzügyi szolgáltatási tevékenység módosításakor is biztosítani kell.
 
-(3) A pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény által működtetett informatikai rendszernek meg kell felelnie a jogszabályban meghatározott biztonsági követelményeknek.
+(3)

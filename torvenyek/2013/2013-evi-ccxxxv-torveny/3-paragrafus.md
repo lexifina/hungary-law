@@ -42,6 +42,10 @@
 
 17. induló tőke: a jegyzett tőke – ide nem értve az osztalékelsőbbségi, a nyereséges évben az elmúlt év(ek) elmaradt hozam kifizetésére is feljogosító jegyzett és befizetett részvények névértékét –, a tőketartalék és az eredménytartalék összege,
 
+17a. jelentős IKT-vonatkozású esemény: a pénzügyi ágazat digitális működési rezilienciájáról, valamint az 1060/2009/EK, a 648/2012/EU, a 600/2014/EU, a 909/2014/EU és az (EU) 2016/1011 rendelet módosításáról szóló, 2022. december 14-i (EU) 2022/2554 európai parlamenti és tanácsi rendeletben [a továbbiakban: (EU) 2022/2554 európai parlamenti és tanácsi rendelet] ekképp meghatározott fogalom,
+
+17b. jelentős kiberfenyegetés: az (EU) 2022/2554 európai parlamenti és tanácsi rendeletben ekképp meghatározott fogalom,
+
 18. jegyzett tőke: a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Szmt.) 35. § (3) bekezdése szerint meghatározott tőke,
 
 18a. jelentős elektronikuspénz-token: az (EU) 2023/1114 európai parlamenti és tanácsi rendelet alapján jelentősnek minősített elektronikuspénz-token,
