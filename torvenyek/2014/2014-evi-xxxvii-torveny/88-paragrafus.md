@@ -10,6 +10,8 @@ aa) olyan, leányvállalat által kötött szerződések vonatkozásában, amely
 
 ab) az intézménnyel azonos csoportba tartozó féllel kötött olyan szerződések vonatkozásában, amelyek a nemteljesítéskor felmondásra jogosító rendelkezést tartalmaznak;
 
+ac) az Európai Parlament és a Tanács (EU) 2022/2554 rendelete szerinti IKT szolgáltatások igénybevételére vonatkozó megállapodások tekintetében, ideértve azok módosítását is figyelemmel arra is, hogy a felmondási jogok gyakorlását a megállapodásokban az Európai Parlament és a Tanács (EU) 2022/2554 rendelete 30. cikk (2) bekezdés h) pontja szerint a Felügyelet és a szanálási feladatkörében eljáró MNB elvárásainak megfelelően kell kialakítani;
+
 b) az érintett intézmény vagy az 1. § (1) bekezdése szerinti pénzügyi vállalkozás a szerződés nemteljesítésekor felmondásra jogosító rendelkezéseket tartalmazó szerződését biztosító vagyontárgy birtokba vételét, a vagyontárgy feletti ellenőrző befolyás gyakorlását vagy biztosítéki jogosultság érvényesítését a vagyontárgy terhére;
 
 c) az érintett intézmény vagy az 1. § (1) bekezdése szerinti pénzügyi vállalkozás vagy bármely csoporttag bármely a szerződés nemteljesítésekor felmondásra jogosító rendelkezéseket tartalmazó szerződésből származó jogának befolyásolását;

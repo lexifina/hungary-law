@@ -4,7 +4,7 @@
 
 ## 2. a szanálási terv legutóbbi módosítása óta az intézmény tekintetében bekövetkezett érdemi változások összefoglalása;
 
-## 3. annak bemutatása, hogy a kritikus funkciók és a fő üzletágak jogilag és gazdaságilag hogyan különíthetők el más funkcióktól a szükséges mértékben annak érdekében, hogy az intézmény fizetésképtelensége esetén a folytonosság biztosítható legyen;
+## 3. annak bemutatása, hogy a kritikus funkciók és a fő üzletágak jogilag és gazdaságilag hogyan különíthetők el más funkcióktól a szükséges mértékben annak érdekében, hogy az intézmény fizetésképtelensége esetén a folytonosság és a digitális működési reziliencia biztosítható legyen;
 
 ## 4. becsült időkeret a terv minden egyes lényegi vonatkozásának megvalósítása tekintetében;
 
@@ -28,7 +28,7 @@
 
 ## 14. szanálás esetén a médiával és az állampolgárokkal folytatandó kommunikációt bemutató terv;
 
-## 15. az intézmény működési eljárásainak folyamatos fenntartását szolgáló lényeges műveletek és rendszerek bemutatása;
+## 15. az intézmény működési eljárásainak folyamatos fenntartását szolgáló lényeges műveletek és rendszerek bemutatása, ideértve a pénzügyi ágazat digitális működési rezilienciájáról, valamint a 1060/2009/EK, a 648/2012/EU, a 600/2014/EU, a 909/2014/EU és az (EU) 2016/1011 rendelet módosításáról szóló, 2022. december 14-i (EU) 2022/2554 európai parlamenti és tanácsi rendeletben [a továbbiakban: (EU) 2022/2554 európai parlamenti és tanácsi rendelet] meghatározott hálózati és információs rendszereket;
 
 ## 16. a terv végrehajtásának a munkavállalókra gyakorolt hatása, beleértve a velejáró költségek felmérését, valamint a szanálási eljárás során a munkavállalókkal történő konzultációt szolgáló tervezett eljárások leírása;
 
@@ -67,7 +67,3 @@ A szanálhatóság értékelése során a szanálási feladatkörében eljáró 
 2. a jogi és a vállalati struktúrák mennyire vannak összehangolva a fő üzletágakkal és a kritikus funkciókkal;
 
 3. milyen mértékben léteznek olyan intézkedések, amelyek célja a fő üzletágak és a kritikus működési folyamatok támogatása és fenntartása érdekében az alapvető személyzetről, az infrastruktúráról, a finanszírozásról, a likviditásról és a tőkéről való gondoskodás;
-
-4. az intézmény által fenntartott szolgáltatási megállapodások mekkora hányada érvényesíthető teljes körűen az intézmény szanálása esetén;
-
-5. az intézmény irányítási struktúrája mennyire megfelelő az intézmény szolgáltatási szintre vonatkozó megállapodásainak kezeléséhez, továbbá mennyire biztosítja az e megállapodásokra vonatkozó belső politikáinak betartását;

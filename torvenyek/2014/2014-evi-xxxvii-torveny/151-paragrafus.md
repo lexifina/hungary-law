@@ -8,6 +8,8 @@ b) a 2014/59/EU irányelvnek a fedezetlen, hitelviszonyt megtestesítő instrume
 
 c) a hitelintézetek és a befektetési vállalkozások veszteségviselő és feltőkésítési képessége tekintetében a 2014/59/EU irányelv, valamint a 98/26/EK irányelv módosításáról szóló, 2019. május 20-i (EU) 2019/879 európai parlamenti és tanácsi irányelvnek
 
+d) a pénzügyi ágazat digitális működési rezilienciája tekintetében a 2009/65/EK, a 2009/138/EK, a 2011/61/EU, a 2013/36/EU, a 2014/59/EU, a 2014/65/EU, az (EU) 2015/2366 és az (EU) 2016/2341 irányelv módosításáról szóló, 2022. december 14-i (EU) 2022/2556 európai parlamenti és tanácsi irányelvnek
+
 e) a 2014/59/EU irányelvnek és a 806/2014/EU rendeletnek a szavatolótőkére és a leírható, illetve átalakítható kötelezettségekre vonatkozó minimumkövetelmény egyes vonatkozásai tekintetében történő módosításáról szóló, 2024. április 11-i (EU) 2024/1174 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
