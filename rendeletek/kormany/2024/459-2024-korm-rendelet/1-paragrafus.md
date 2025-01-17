@@ -1,5 +1,3 @@
-1. § Az energiahatékonyságról szóló törvény végrehajtásáról szóló 122/2015. (V. 26.) Korm. rendelet (a továbbiakban: Ehat Vhr.) II. fejezete a következő 9/A. alcímmel egészül ki:
+1. §[^1]
 
-„9/A. Az adatközpontok európai adatbázisába történő adatszolgáltatás tartalma
-
-12/A. § Az energiahatékonyságról szóló 2015. évi LVII. törvény 21/F. §-a szerinti, az adatközpontok európai adatbázisába történő adatszolgáltatás tartalmát a 13. melléklet tartalmazza.”
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
