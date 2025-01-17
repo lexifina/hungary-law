@@ -1,3 +1,1 @@
-2. §[^1]
-
-[^1]: A 2. § a 4. § (2) bekezdése alapján a Módosító Megállapodás 4. cikkében meghatározott időpontban lép hatályba.
+2. § A Kormány a Módosító Megállapodást e rendelettel kihirdeti.

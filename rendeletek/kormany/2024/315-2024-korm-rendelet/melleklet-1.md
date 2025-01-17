@@ -1,3 +1,3 @@
-1. melléklet a 315/2024. (XI. 6.) Korm. rendelethez[^3]
+1. melléklet a 315/2024. (XI. 6.) Korm. rendelethez
 
-[^3]: Az 1. melléklet a 4. § (2) bekezdése alapján a Módosító Megállapodás 4. cikkében meghatározott időpontban lép hatályba.
+MEGÁLLAPODÁS MAGYARORSZÁG KORMÁNYA ÉS A ZÖLD-FOKI KÖZTÁRSASÁG KORMÁNYA KÖZÖTT A MAGYARORSZÁG KORMÁNYA ÉS A ZÖLD-FOKI KÖZTÁRSASÁG KORMÁNYA KÖZÖTTI PÉNZÜGYI EGYÜTTMŰKÖDÉSI KERETPROGRAM KIALAKÍTÁSÁRÓL SZÓLÓ MEGÁLLAPODÁS MÓDOSÍTÁSÁRÓL
