@@ -51,3 +51,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2014-16-00-00
 | 2024-06-30 | 2024. évi VII. törvény | 2014-16-00-00.47 |
 | 2024-07-01 | 2023. évi LXXVI. törvény | 2014-16-00-00.45 |
 | 2024-09-01 | 2023. évi LXXVI. törvény | 2014-16-00-00.46 |
+| 2025-01-17 | 2024. évi X. törvény | 2014-16-00-00.48 |

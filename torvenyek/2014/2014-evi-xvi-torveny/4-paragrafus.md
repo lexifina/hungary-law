@@ -152,6 +152,10 @@ b) amelyet az éves jelentésében vagy más hivatalos dokumentumban bizonyítot
 
 53. induló tőke: a vállalkozás alapításkori jegyzett tőkéjének, a tőketartalékának és az eredménytartalékának összege;
 
+53a. jelentős IKT-vonatkozású esemény: a pénzügyi ágazat digitális működési rezilienciájáról, valamint az 1060/2009/EK, a 648/2012/EU, a 600/2014/EU, a 909/2014/EU és az (EU) 2016/1011 rendelet módosításáról szóló, 2022. december 14-i (EU) 2022/2554 európai parlamenti és tanácsi rendeletben [a továbbiakban: (EU) 2022/2554 európai parlamenti és tanácsi rendelet] ekképp meghatározott fogalom;
+
+53b. jelentős kiberfenyegetés: az (EU) 2022/2554 európai parlamenti és tanácsi rendeletben ekképp meghatározott fogalom;
+
 54. jogi képviselő: az a természetes személy, akinek lakóhelye az Európai Unióban van, illetve az a jogi személy, amelynek székhelye az Európai Unióban van, és akit vagy amelyet egy nem uniós ABAK jelölt ki arra, hogy a hatóságok, ügyfelek, szervezetek és nem uniós ABAK üzletfelei felé az Európai Unióban a nevében eljárjon ezen törvény szerinti kötelezettségei tekintetében;
 
 54a. jó üzleti hírnév: a befektetési alapkezelő vezető állású személyeinek, a befektetés-kezelési tevékenységet, a befektetési eszközök és tőzsdei termékek kereskedését irányító személyének, minősített befolyással rendelkező tagjainak a befektetési alapkezelő irányítására vagy tulajdonlására való alkalmasságát igazoló feltételek megléte;
