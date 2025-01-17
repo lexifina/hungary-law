@@ -6,7 +6,7 @@ a) a 3. § (1) bekezdésében, valamint a 3. § (2) bekezdésének a) és d) pon
 
 b) az egységesített betéti kamatláb mutató számítására és közzétételére,
 
-c) a 3. § (1) bekezdésében, valamint a 3. § (2) bekezdésében meghatározott pénzügyi szolgáltatások, illetve kiegészítő pénzügyi szolgáltatások folytatásához szükséges személyi és tárgyi feltételekre, továbbá a tanúsítási eljárás – általános forgalmi adó nélkül számított – maximális díjával szemben támasztott feltételekre,
+c) a 3. § (1) bekezdésében, valamint a 3. § (2) bekezdésében meghatározott pénzügyi szolgáltatások, illetve kiegészítő pénzügyi szolgáltatások folytatásához szükséges személyi és tárgyi feltételekre
 
 d) a hitelintézet nyilvánosságra hozatali követelményeinek teljesítésére,
 
@@ -23,6 +23,8 @@ i) az alapszámlához való hozzáférésre, az alapszámla jellemzőire, valami
 j) a pénzügyi intézmények és a független közvetítők panaszkezelésének eljárására, valamint a panaszkezelési szabályzatára,
 
 k) a szociális számlához való jogosultságra, díjra és jellemzőire
+
+l) a tanúsítási eljárás – általános forgalmi adó nélkül számított – maximális díjával szemben támasztott feltételekre
 
 vonatkozó részletes szabályokat.
 

@@ -42,6 +42,8 @@ a) a hitelintézet az (5a) bekezdés a) pontjában foglaltak teljesítése érde
 
 b) az 575/2013/EU rendeletben meghatározott kis méretű és nem összetett intézmény a sztenderd módszert alkalmazza, ha a Felügyelet megítélése szerint az egyszerűsített sztenderd módszer nem alkalmas a nem kereskedési tevékenységből származó kamatlábkockázat értékelésére.
 
+(5c) Az (5) bekezdés e) pontja szerinti vészhelyzeti és üzletmenet-folytonossági tervek keretében a hitelintézet rendelkezik az információközlésre használt technológia tekintetében az IKT-vonatkozású üzletmenet-folytonossági politikákkal és tervekkel, valamint IKT-vonatkozású reagálási és helyreállítási tervekkel. Ezen tervek kidolgozására, végrehajtására és tesztelésére az (EU) 2022/2554 európai parlamenti és tanácsi rendelet 11. cikkének megfelelően kerül sor annak érdekében, hogy a hitelintézet súlyos üzletviteli zavar esetén tovább működjön, és a zavar során felmerülő veszteségeket mérsékelje.
+
 (6) Az (5) bekezdés f) pontjában foglaltak teljesítése érdekében:
 
 a) a hitelintézet irányítási jogkörrel rendelkező vezető testülete megfelelő stratégiát alakít ki és kockázattűrési mértéket határoz meg minden érintett üzletágra,

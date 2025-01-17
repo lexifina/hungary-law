@@ -6,7 +6,7 @@ b) e törvény a banktitok megtartásának kötelezettsége alól felmentést ad
 
 c) a pénzügyi intézmény érdeke ezt az ügyféllel szemben fennálló követelése eladásához vagy követelése érvényesítéséhez szükségessé teszi,
 
-d) a pénzügyi intézmény által megbízott tanúsító szervezet és alvállalkozója ezt a tanúsítási eljárás lefolytatása keretében ismeri meg.
+d)
 
 (2) Az (1) bekezdés b) pontjában foglaltak alapján a banktitok megtartásának kötelezettsége nem áll fenn
 

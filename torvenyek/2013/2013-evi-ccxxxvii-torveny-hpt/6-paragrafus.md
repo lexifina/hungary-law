@@ -144,6 +144,10 @@ b) a központi hitelinformációs rendszerről szóló törvényben meghatározo
 
 49. jegyzett tőke: az Szmt. 35. § (3) bekezdése szerint meghatározott tőke;
 
+49a. jelentős IKT-vonatkozású esemény: a pénzügyi ágazat digitális működési rezilienciájáról, valamint az 1060/2009/EK, a 648/2012/EU, a 600/2014/EU, a 909/2014/EU és az (EU) 2016/1011 rendelet módosításáról szóló, 2022. december 14-i (EU) 2022/2554 európai parlamenti és tanácsi rendeletben [a továbbiakban: (EU) 2022/2554 európai parlamenti és tanácsi rendelet] ekképp meghatározott fogalom;
+
+49b. jelentős kiberfenyegetés: az (EU) 2022/2554 európai parlamenti és tanácsi rendeletben ekképp meghatározott fogalom;
+
 50. jelzáloghitel: a fogyasztó részére ingatlanon alapított jelzálogjog – ideértve az önálló zálogjogként alapított zálogjogot is – fedezete mellett nyújtott hitel vagy kölcsön;
 
 51. jó üzleti hírnév: a pénzügyi intézmény, a vegyes pénzügyi holding társaság, illetve a közvetítő vezetőinek, befolyásoló részesedéssel rendelkező tagjainak a pénzügyi intézmény, a vegyes pénzügyi holding társaság, illetve a közvetítő irányítására és tulajdonlására való alkalmasságát igazoló feltételek megléte;
@@ -458,7 +462,7 @@ h) a fizetési vagy értékpapír-kiegyenlítési rendszeren belül egyrészt a 
 
 i) a h) pontban meghatározott személy, a befektetési szolgáltatást nyújtó befektetési vállalkozás, hitelintézet, kollektív befektetési forma és kezelője, valamint pénzügyi eszközök letéti őrzésére feljogosító egyéb szervezet által végzett értékpapír letétkezelésével – ideértve az osztalékot, kamatot, egyéb kifizetések kezelését, a beváltást és az értékesítést is – összefüggő fizetési művelet,
 
-j) a pénzforgalmi szolgáltatást támogató (járulékos) technikai szolgáltatás, ha ennek szolgáltatója nem rendelkezhet a fizetési művelet tárgyát képező pénzzel, valamint nem válhat a fizetési művelet tárgyát képező pénz birtokosává, ideértve az adatfeldolgozást, az adatok tárolását, hitelesítését, a bizalmi és a magánélet védelmével kapcsolatos szolgáltatásokat, az adatok és személyek hitelesítését, az információtechnológiai eszközök biztosítását, valamint – a fizetéskezdeményezési szolgáltatás és a számlainformációk összesítése kivételével – a pénzforgalmi szolgáltatáshoz használt terminálok és eszközök biztosítását és karbantartását is,
+j) a pénzforgalmi szolgáltatást támogató (járulékos) technikai szolgáltatás, ha ennek szolgáltatója nem rendelkezhet a fizetési művelet tárgyát képező pénzzel, valamint nem válhat a fizetési művelet tárgyát képező pénz birtokosává, ideértve az adatfeldolgozást, az adatok tárolását, hitelesítését, a bizalmi és a magánélet védelmével kapcsolatos szolgáltatásokat, az adatok és személyek hitelesítését, az információs és kommunikációs technológia (a továbbiakban: IKT) biztosítását, valamint – a fizetéskezdeményezési szolgáltatás és a számlainformációk összesítése kivételével – a pénzforgalmi szolgáltatáshoz használt terminálok és eszközök biztosítását és karbantartását is,
 
 k) az olyan specifikus készpénz-helyettesítő fizetési eszközökön alapuló szolgáltatások, amelyek csak korlátozott módon használhatók és amelyekre teljesül az alábbi feltételek egyike:
 

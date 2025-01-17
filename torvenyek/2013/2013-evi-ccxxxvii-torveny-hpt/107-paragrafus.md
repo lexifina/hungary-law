@@ -10,7 +10,7 @@ c) a szervezeten belüli összeférhetetlenséget ellenőrzi, megelőzi és kik�
 
 d) a felmerülő kockázatok azonosítására, mérésére, kezelésére, nyomon követésére és jelentésére szolgáló hatékony eljárásokat alkalmaz,
 
-e) a jogszabályoknak megfelelő belső ellenőrzési mechanizmusokat, adminisztratív és számviteli eljárásokat alkalmaz,
+e) a jogszabályoknak megfelelő belső ellenőrzési mechanizmusokat, adminisztratív és számviteli eljárásokat, továbbá az (EU) 2022/2554 európai parlamenti és tanácsi rendeletnek megfelelően létrehozott és működtetett hálózati és információs rendszereket alkalmaz,
 
 f) a hitelintézet a hatékony és eredményes kockázatkezeléssel összhangban álló, annak alkalmazását előmozdító, a 117–121. §-okban meghatározott elveknek megfelelő, nemek szempontjából semleges javadalmazási politikát és gyakorlatot valósít meg,
 

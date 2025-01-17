@@ -10,7 +10,7 @@ d) a pénzügyi intézmény, a független közvetítő vezető állású személ
 
 e) a könyvvizsgálókat,
 
-f) a pénzügyi intézmény részére kiszervezett tevékenységet végzőket,
+f) a pénzügyi intézmény részére kiszervezett tevékenységet végzőket, ideértve az (EU) 2022/2554 európai parlamenti és tanácsi rendelet V. fejezet szerinti IKT-szolgáltatókat is,
 
 g) a belső ellenőrt, illetve a belső ellenőrzési szervezet vezetőjét,
 

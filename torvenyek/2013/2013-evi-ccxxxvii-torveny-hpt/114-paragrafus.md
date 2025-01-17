@@ -42,7 +42,7 @@ o) arra vonatkozó elemzés, hogy a tervben vázolt körülmények között a hi
 
 p) a Felügyelet által alkalmazható intézkedést, kivételes intézkedést kiváltó esemény teljesülésekor a hitelintézet részéről alkalmazandó lehetséges lépéseket,
 
-q) feltételek és eljárások a tervben foglalt intézkedések hitelintézet által történő gyors végrehajtása biztosításához,
+q) feltételek és eljárások a tervben foglalt intézkedések hitelintézet által történő gyors végrehajtása biztosításához, továbbá a hitelintézet folyamatos működésének – ideértve az (EU) 2022/2554 európai parlamenti és tanácsi rendeletnek megfelelően létrehozott és működtetett hálózati és információs rendszereket – fenntartásához szükséges feltételek és eljárások,
 
 r) alternatív forgatókönyvek a hitelintézet egyedi működése szempontjából súlyos makrogazdasági, illetve a pénzügyi közvetítőrendszerben fennálló általános válsághelyzet kialakulásához kapcsolódóan.
 
