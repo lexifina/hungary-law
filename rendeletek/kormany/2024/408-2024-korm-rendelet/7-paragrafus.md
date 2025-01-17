@@ -1,3 +1,5 @@
 ## 5. A pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló 63/2006. (III. 27.) Korm. rendelet módosítása
 
-7. § A pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló 63/2006. (III. 27.) Korm. rendelet 1. § (3) bekezdésében a „rendelkezik-e ügyfélkapu regisztrációval és vele a hatóság” szövegrész helyébe az „a hatóság vele a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti módon,” szöveg lép.
+7. §[^7]
+
+[^7]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
