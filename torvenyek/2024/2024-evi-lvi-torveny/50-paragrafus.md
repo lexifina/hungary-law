@@ -1,5 +1,3 @@
 ## 18. A civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény módosítása
 
-50. § A civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény (a továbbiakban: Cnytv.) 46. alcíme a következő 111/B. §-sal egészül ki:
-
-„111/B. § Ha a civil szervezet létesítő okiratában valamely tevékenység a TEÁOR’08 szerinti megjelöléssel szerepel, a civil szervezet 2025. január 15. napját követően, a létesítő okiratának soron következő változásakor köteles a bíróságnak benyújtani a létesítő okirata olyan módosítását, amelyben a létesítő okiratban megjelölt tevékenységek a TEÁOR’08 és a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról szóló 1893/2006/EK európai parlamenti és tanácsi rendelet módosításáról szóló 2022. október 10-i (EU) 2023/137 felhatalmazáson alapuló bizottsági rendelet (e § alkalmazásában a továbbiakban: Rendelet) közötti, a Központi Statisztikai Hivatal honlapján nyilvánosságra hozott fordítókulcs alapján megfelelnek a Rendeletnek. Ha a létesítő okirat módosítása kizárólag a Rendeletnek való megfelelést szolgálja, a változásbejegyzési kérelem illeték megfizetése nélkül terjeszthető elő.”
+### 50. §
