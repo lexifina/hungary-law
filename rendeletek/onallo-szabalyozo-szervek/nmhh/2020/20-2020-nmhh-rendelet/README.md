@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-20-20-3
 | 2023-06-02 | 2020-20-20-3H.10 | 2010: CXXX. törvény |
 | 2023-06-29 | 2020-20-20-3H.12 | 3/2023. (VI. 28.) NMHH rendelet |
 | 2024-11-11 | 2020-20-20-3H.13 | 11/2024. (XI. 4.) NMHH rendelet |
+| 2025-01-18 | 2020-20-20-3H.14 | 1/2025. (I. 13.) NMHH rendelet |

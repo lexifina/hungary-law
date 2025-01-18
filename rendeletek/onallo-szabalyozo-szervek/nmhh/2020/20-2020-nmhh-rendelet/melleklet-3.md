@@ -1,4 +1,4 @@
-3. melléklet a 20/2020. (XII. 18.) NMHH rendelethez[^28]
+3. melléklet a 20/2020. (XII. 18.) NMHH rendelethez[^31]
 
 1. Az engedélyezési tervdokumentáció tartalma a tervezés tárgyától függően
 
@@ -548,9 +548,9 @@ e) Egyéb projektspecifikus dokumentumok (PDF/A)
 
 f) Meghatalmazás – szükség szerint (PDF/A)
 
-1.2.5. A 22. § szerinti előzetes bejelentéshez szükséges telepítési terv
+1.2.5.[^32] A 22. § és 22/A. § szerinti előzetes bejelentéshez szükséges telepítési terv
 
-a) Áttekintő helyszínrajz, amely megjelöli a tervezéssel érintett ingatlan elhelyezkedését a tágabb környezetben/ településen (georeferált PDF/A, DWG vagy DXF szükség szerint méretarányban 1:2000, 1:1000)
+a) Áttekintő helyszínrajz, amely megjelöli a tervezéssel érintett ingatlan elhelyezkedését a tágabb környezetben / településen (georeferált PDF/A, DWG vagy DXF szükség szerint méretarányban 1:2000, 1:1000)
 
 b) Részletes helyszínrajz, mely tartalmazza a telepítési hely EOV koordinátáit (georeferált PDF/A, DWG vagy DXF 1:500, 1:250)
 
@@ -558,8 +558,11 @@ c) Az építmény jellemző külső nézetét ábrázoló nézetrajzok (PDF/A, D
 
 Előzetes bejelentés mellékletei (egyenkénti csatolmányként)
 
-a) Az érintett ingatlan tulajdonosának hozzájáruló nyilatkozata (PDF/A)
+a) Az érintett ingatlan tulajdonosának, esemény vagy a rendezvény szervezőjének hozzájáruló nyilatkozata (PDF/A)
 
 b) A légügyi szakhatóságok előzetes állásfoglalásai (PDF/A)
 
-[^28]: A 3. melléklet az 5/2021. (VI. 16.) NMHH rendelet 8. §-a szerint módosított szöveg.
+c) A 22/A. § szerinti telepítés esetén az állandó tartószerkezetként szolgáló építmény vagy épület átépítését, felújítását igazoló dokumentum (PDF/A)
+
+[^31]: A 3. melléklet az 5/2021. (VI. 16.) NMHH rendelet 8. §-a szerint módosított szöveg.
+[^32]: A 3. melléklet 1.2.5. pontja az 1/2025. (I. 13.) NMHH rendelet 2. §-ával megállapított szöveg.

@@ -42,7 +42,7 @@
 
 ## h) engedélyezési eljárás elektronikus kapcsolattartási pont.
 
-5. melléklet a 20/2020. (XII. 18.) NMHH rendelethez[^29]
+5. melléklet a 20/2020. (XII. 18.) NMHH rendelethez[^33]
 
 1. Az engedélyezési tervdokumentáció tartalma a tervezés tárgyától függően(a Szupergyors Internet Program keretében elnyert GINOP-3.4.1, továbbá a kormányzati célú hírközlési hálózatok továbbfejlesztésére szolgáló GINOP-3.4.2, GINOP-3.4.3, GINOP-3.4.5, valamint az NFM-KMR 2016–2017 pályázathoz kapcsolódó használatbavételi engedélynél)
 
@@ -84,4 +84,4 @@ d) Meghatalmazás – szükség szerint (PDF/A) és
 
 e) Egyéb projektspecifikus dokumentumok (PDF).
 
-[^29]: Az 5. mellékletet a 3/2023. (VI. 28.) NMHH rendelet 2. §-a iktatta be.
+[^33]: Az 5. mellékletet a 3/2023. (VI. 28.) NMHH rendelet 2. §-a iktatta be.

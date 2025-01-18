@@ -1,5 +1,5 @@
 35. § (1) Ez a rendelet az Európai Elektronikus Hírközlési Kódex létrehozásáról szóló, 2018. december 11-i (EU) 2018/1972 európai parlamenti és tanácsi irányelv 57. cikkének való megfelelést szolgálja.
 
-(2)[^26] Ez a rendelet és az azt módosító (EU) 2024/2000 bizottsági végrehajtási rendelet a kis területi lefedésű, vezeték nélküli hozzáférési pontok jellemzőinek az Európai Elektronikus Hírközlési Kódex létrehozásáról szóló (EU) 2018/1972 európai parlamenti és tanácsi irányelv 57. cikkének (2) bekezdése szerinti meghatározásáról szóló, 2020. július 20-i (EU) 2020/1070 bizottsági végrehajtási rendelet és az azt módosító (EU) 2024/2000 bizottsági végrehajtási rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+(2)[^29] Ez a rendelet és az azt módosító (EU) 2024/2000 bizottsági végrehajtási rendelet a kis területi lefedésű, vezeték nélküli hozzáférési pontok jellemzőinek az Európai Elektronikus Hírközlési Kódex létrehozásáról szóló (EU) 2018/1972 európai parlamenti és tanácsi irányelv 57. cikkének (2) bekezdése szerinti meghatározásáról szóló, 2020. július 20-i (EU) 2020/1070 bizottsági végrehajtási rendelet és az azt módosító (EU) 2024/2000 bizottsági végrehajtási rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^26]: A 35. § (2) bekezdése a 11/2024. (XI. 4.) NMHH rendelet 2. § d) pontja szerint módosított szöveg.
+[^29]: A 35. § (2) bekezdése a 11/2024. (XI. 4.) NMHH rendelet 2. § d) pontja szerint módosított szöveg.
