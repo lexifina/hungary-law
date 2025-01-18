@@ -1,3 +1,1 @@
-## 27. §[^26]
-
-[^26]: A 27. § a 29. § (6) bekezdése alapján 2025. január 18-án lép hatályba.
+## 27. § A 6/2020. ITM rendelet 3. melléklete a 7. melléklet szerinti szöveggel lép hatályba.
