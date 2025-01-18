@@ -1,4 +1,4 @@
-1. melléklet az 5/2020. (II. 6.) ITM rendelethez[^20]
+1. melléklet az 5/2020. (II. 6.) ITM rendelethez[^21]
 
 Veszélyes anyagok a munkahelyi levegőben
 
@@ -388,7 +388,7 @@ Veszélyes anyagok a munkahelyi levegőben
 
 | 190 | EGYÉB SZERVETLEN KRÓMVEGYÜLETEK [a króm (VI) vegyületek kivételével] (Cr-ra számítva) |  | 0,5 |  | 2 |  | i, sz, BEM |  | T |
 
-| 191 | KRÓM (VI) VEGYÜLETEK [Cr (VI)-ra számítva] |  | 0,01 |  |  |  | k(1A vagy 1B), BEM | EU6 | T |
+| 191 | KRÓM (VI) VEGYÜLETEK [Cr (VI)-ra számítva] |  | 0,005 |  |  |  | k (1A vagy 1B), BEM | EU6 | T |
 
 | 192 | KUMOL | 98-82-8 | 50 | 10 | 250 | 50 | b, i | EU8 | R |
 
@@ -468,7 +468,7 @@ Veszélyes anyagok a munkahelyi levegőben
 
 | 230 | NEOPENTÁN | 463-82-1 | 3000 | 1000 |  |  |  | EU2 | N |
 
-| 231 | NIKKEL-VEGYÜLETEK |  | 0,01 |  |  |  | k(1B), sz (bőr, légzőszervi), BEM | SCOEL/ SUM/85/ 2011 | T |
+| 231 | NIKKEL-VEGYÜLETEK |  | 0,01 resp 0,05 |  |  |  | k(1B), sz (bőr, légzőszervi), BEM | EU9 | T |
 
 | 232 | NIKOTIN | 54-11-5 | 0,5 |  |  |  | b, i | EU2 | R |
 
@@ -762,4 +762,4 @@ Veszélyes anyagok a munkahelyi levegőben
 
 1.5.3. Nyolc órát meghaladó napi, vagy 40 órát meghaladó heti munkaidő-beosztás esetén a számításokban a korrigált ÁK-értékeket kell alkalmazni, ahol ez releváns.
 
-[^20]: Az 1. melléklet a 29/2022. (XII. 30.) GFM rendelet 3. § a) pontja és 4. § c) pontja, a 68/2023. (XII. 28.) GFM rendelet 3. § (2) bekezdése szerint módosított szöveg. [A 6/2020. (II. 7.) ITM rendelet 12. § a) pontjával elrendelt módosítás nem vezethető át.]
+[^21]: Az 1. melléklet a 6/2020. (II. 7.) ITM rendelet - a 69/2023. (XII. 28) GFM rendelet 1. §-a szerint módosított - 12. § a) pontja, a 29/2022. (XII. 30.) GFM rendelet 3. § a) pontja és 4. § c) pontja, a 68/2023. (XII. 28.) GFM rendelet 3. § (2)-(3) bekezdése szerint módosított szöveg. [A 6/2020. (II. 7.) ITM rendelet 12. § a) pontjával elrendelt módosítás nem vezethető át.]
