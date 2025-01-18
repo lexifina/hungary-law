@@ -1,3 +1,3 @@
-14/E. §[^55]
+14/E. §[^60]
 
-[^55]: A 14/D–14/G. §-t az 5/2006. (X. 2.) KüM rendelet 1. §-a iktatta be, hatályon kívül helyezte a 2/2016. (IV. 15.) KKM rendelet 18. § d)–g) pontja.
+[^60]: A 14/D–14/G. §-t az 5/2006. (X. 2.) KüM rendelet 1. §-a iktatta be, hatályon kívül helyezte a 2/2016. (IV. 15.) KKM rendelet 18. § d)–g) pontja.

@@ -1,5 +1,3 @@
-## 5. § A Tv. 4. § (1) bekezdése szerint nyújtott információ tájékoztató jellegű, és megadja azon forrásokat, ahonnan az utazáshoz, tartózkodáshoz szükséges részletes, aktuális információk beszerezhetők.
-
 ## 6. § A Tv. 5. § (2) bekezdés b) pontja szerinti útmutatás és tanácsadás különösen az alábbiakból állhat:
 
 a) segítségnyújtás kereskedelmi bankátutalás megszervezéséhez,
