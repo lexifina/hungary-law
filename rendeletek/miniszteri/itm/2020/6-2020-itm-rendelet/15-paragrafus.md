@@ -7,3 +7,5 @@ b) a 92/58/EGK, a 92/85/EGK, a 94/33/EK és a 98/24/EK tanácsi irányelvnek, va
 c) a munkájuk során rákkeltő anyagokkal és mutagénekkel kapcsolatos kockázatoknak kitett munkavállalók védelméről szóló 2004/37/EK irányelv módosításáról szóló, 2017. december 12-i (EU) 2017/2398 európai és parlamenti irányelvnek,
 
 d) a munkájuk során rákkeltő, illetve mutagén anyagokkal kapcsolatos kockázatoknak kitett munkavállalók védelméről szóló 2004/37/EK irányelv módosításáról szóló, 2019. január 16-i (EU) 2019/130 európai és parlamenti irányelvnek
+
+való megfelelést szolgálja.

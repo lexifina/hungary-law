@@ -1,19 +1,15 @@
-## szerint módosul.
-
 ## 13. § Hatályát veszti az 5/2020. ITM rendelet
 
-a)[^15]
+a) 21. § a) pontja,
 
-b)[^16]
+b) 5. melléklete,
 
-c)[^17]
+c)[^14]
 
-d)[^18]
+d)[^15]
 
-e)[^19]
+e)[^16]
 
-[^15]: A 13. § a) pontja a 14. § (5) bekezdése alapján 2025. január 18-án lép hatályba.
-[^16]: A 13. § b) pontja a 14. § (5) bekezdése alapján 2025. január 18-án lép hatályba.
-[^17]: A 13. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^18]: A 13. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^19]: A 13. § e) pontja a 14. § (6) bekezdése alapján 2026. február 21-én lép hatályba.
+[^14]: A 13. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 13. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 13. § e) pontja a 14. § (6) bekezdése alapján 2026. február 21-én lép hatályba.

@@ -1,14 +1,12 @@
-## 11. §[^11]
-
 ## 12. § Az 5/2020. ITM rendelet
 
 a)[^12]
 
-b)[^13]
+b) 1. melléklete a 3. melléklet,
 
-c)[^14]
+c)[^13]
 
-[^11]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+szerint módosul.
+
 [^12]: A 12. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^13]: A 12. § b) pontja a 14. § (5) bekezdése alapján 2025. január 18-án lép hatályba.
-[^14]: A 12. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 12. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

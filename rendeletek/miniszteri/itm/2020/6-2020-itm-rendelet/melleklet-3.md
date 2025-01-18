@@ -1,3 +1,3 @@
-3. melléklet a 6/2020. (II. 7.) ITM rendelethez[^25]
+3. melléklet a 6/2020. (II. 7.) ITM rendelethez[^22]
 
-[^25]: A 3. melléklet a 14. § (5) bekezdése alapján 2025. január 18-án lép hatályba.
+[^22]: A 3. melléklet a 69/2023. (XII. 28.) GFM rendelet 1. §-ával megállapított szöveg.
