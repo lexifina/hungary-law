@@ -1,3 +1,3 @@
-6. melléklet a 68/2023. (XII. 28.) GFM rendelethez[^15]
+6. melléklet a 68/2023. (XII. 28.) GFM rendelethez[^13]
 
-[^15]: A 6. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 6. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

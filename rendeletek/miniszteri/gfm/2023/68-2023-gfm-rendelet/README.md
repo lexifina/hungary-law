@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-68-20-8
 | 2024-01-01 | 2023-68-20-8P.2 | 2010. évi CXXX. törvény |
 | 2024-04-01 | 2023-68-20-8P.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2024-04-02 | 2023-68-20-8P.4 | 2010. évi CXXX. törvény |
+| 2025-01-18 | 2023-68-20-8P.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
