@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-1-20-3H
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2025-01-18 | 2025-1-20-3H.1 | 1/2025. (I. 13.) NMHH rendelet |
+| 2025-01-19 | 2025-1-20-3H.2 | 2010. évi CXXX. törvény |
