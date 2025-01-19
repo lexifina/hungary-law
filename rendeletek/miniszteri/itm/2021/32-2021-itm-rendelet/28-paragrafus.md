@@ -1,1 +1,3 @@
-## 27. § A 6/2020. ITM rendelet 3. melléklete a 7. melléklet szerinti szöveggel lép hatályba.
+28. §[^28]
+
+[^28]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
