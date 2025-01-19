@@ -1,30 +1,37 @@
-## „b) az uniós ideiglenes úti okmány létrehozásáról, valamint a 96/409/KKBP határozat hatályon kívül helyezéséről szóló, 2019. június 18-i (EU) 2019/997 tanácsi irányelv,”
-
 9. § A konzuli védelem részletes szabályairól szóló 17/2001. (XI. 15.) KüM rendelet
 
-a) 2. § (1) bekezdés b) pontjában a „pl.” szövegrészek helyébe a „különösen” szöveg,
+a)[^9]
 
-b) 4. § (1) bekezdésében a „(3) bekezdése” szövegrész helyébe a „(3)–(4a) bekezdése” szöveg és az „ad tájékoztatást arról” szövegrész helyébe a „tájékoztat arról” szöveg,
+b)[^10]
 
-c) 7. § (2) bekezdésében az „A kölcsön” szövegrész helyébe az „A Tv. 5. § (3) bekezdése szerinti hazatérési kölcsön” szöveg,
+c)[^11]
 
-d) 7. § (6) bekezdésében a „200 EUR” szövegrész helyébe az „500 EUR” szöveg és a „kölcsön” szövegrész helyébe a „hazatérési kölcsön” szöveg,
+d)[^12]
 
-e) 8. § (1) bekezdésében az „illetőleg” szövegrész helyébe az „illetve” szöveg,
+e)[^13]
 
-f) 8. § (3) bekezdésében a „149/1997. (IX. 10.) Korm. rendelet 167. §-ának” szövegrész helyébe a „kormányrendelet” szöveg,
+f)[^14]
 
-g) 11. § (1) bekezdésében a „hiányában hivatalból” szövegrész helyébe a „hiányában – a halotti anyakönyvi kivonat rendelkezésre állása esetén – hivatalból” szöveg,
+g)[^15]
 
-h)[^4]
+h)[^16]
 
-i)[^5]
+i)[^17]
 
-j) 14/H. § (5) bekezdésében az „az ideiglenes” szövegrészek helyébe az „az uniós ideiglenes” szöveg,
+j)[^18]
 
-k) 14/H. § (5) bekezdésében az „egy évig” szövegrész helyébe a „180 napig” szöveg
+k)[^19]
 
 lép.
 
-[^4]: A 9. § h) pontja a 11. § (2) bekezdése alapján 2025. december 9-én lép hatályba.
-[^5]: A 9. § i) pontja a 11. § (2) bekezdése alapján 2025. december 9-én lép hatályba.
+[^9]: A 9. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 9. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 9. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 9. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 9. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 9. § f) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 9. § g) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 9. § h) pontja a 11. § (2) bekezdése alapján 2025. december 9-én lép hatályba.
+[^17]: A 9. § i) pontja a 11. § (2) bekezdése alapján 2025. december 9-én lép hatályba.
+[^18]: A 9. § j) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 9. § k) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
