@@ -1,1 +1,3 @@
-### 222. §
+222. § A fenntartható finanszírozás és az egységes vállalati felelősségvállalás ösztönzését szolgáló környezettudatos, társadalmi és szociális szempontokat is figyelembe vevő, vállalati társadalmi felelősségvállalás szabályairól és azzal összefüggő egyéb törvények módosításáról szóló 2023. évi CVIII. törvény 23. §-a a következő (6) bekezdéssel egészül ki:
+
+„(6) A vállalkozás az ESG beszámolót a Hatóság elnökének az ESG beszámolók, az ESG minősítők és az ESG szoftverek nyilvántartásáról szóló rendeletében foglaltak szerint módosíthatja. A módosított ESG beszámolót a vállalkozás ügyvezető szerve hagyja jóvá, és azt ESG tanúsítóval auditáltatni kell.”
