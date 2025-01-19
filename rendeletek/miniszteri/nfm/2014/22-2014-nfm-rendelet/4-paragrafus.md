@@ -2,26 +2,34 @@
 
 ## 4. § A miniszter az ágazathoz tartozó szervek honvédelmi feladataként a következőket határozza meg:
 
-a) adatszolgáltatás a polgári szállító eszközökről és szállítási útvonalakról;
+a)[^3]
 
-b) katonai és segélyszállítmányok szállítási feladatainak polgári támogatása;
+b)[^4]
 
-c) közreműködés a lakosság válságterületről történő kitelepítésének szállítási feladataiban;
+c)[^5]
 
-d) a polgári szállítóeszközök védelme, vegyi, biológiai és radiológiai mentesítésük kezdeményezése;
+d)[^6]
 
 e) közreműködés az Atom, Biológiai, Vegyi Riasztási és Értesítési Rendszer aktiválásában;
 
-f) közreműködés a közúti, vasúti, vízi és légi járművek forgalmának korlátozásában vagy megtiltásában;
+f)[^7]
 
-g) közreműködés a közúti, vasúti, vízi és légi szállítások biztosítása érdekében a javítókapacitások, valamint az állomások, kikötők, repülőterek, raktárak igénybevételében vagy használatának korlátozásában;
+g)[^8]
 
-h) közreműködés a vasúti, közúti, vízi és légi járművek fényeinek, valamint a forgalmuk irányítására szolgáló fényforrásoknak az elsötétítésére vonatkozó eljárási követelmények kidolgozásában;
+h)[^9]
 
 i) közreműködés az ország védelmi szempontjából fontos energiahordozók készletezésében, forgalmuk szabályozásában vagy korlátozásában honvédelmi vonatkozású különleges jogrendi időszak esetében;
 
-j) közreműködés a polgári légtérben működő légiforgalmi irányítás katonai felügyeletre történő átállásában honvédelmi vonatkozású különleges jogrendi időszak esetében;
+j)[^10]
 
-k)[^1] közreműködés a lakosság létfenntartása szempontjából nélkülözhetetlen termelési és szolgáltatási feladatok végrehajtásában a honvédelmi vonatkozású különleges jogrendi időszak esetében.
+k)[^11] közreműködés a lakosság létfenntartása szempontjából nélkülözhetetlen termelési és szolgáltatási feladatok végrehajtásában a honvédelmi vonatkozású különleges jogrendi időszak esetében.
 
-[^1]: A 4. § k) pontját a 16/2016. (VI. 8.) NFM rendelet 1. §-a iktatta be.
+[^3]: A 4. § a) pontját a 42/2024. (XII. 20.) ÉKM rendelet 7. § (1) bekezdése hatályon kívül helyezte.
+[^4]: A 4. § b) pontját a 42/2024. (XII. 20.) ÉKM rendelet 7. § (1) bekezdése hatályon kívül helyezte.
+[^5]: A 4. § c) pontját a 42/2024. (XII. 20.) ÉKM rendelet 7. § (1) bekezdése hatályon kívül helyezte.
+[^6]: A 4. § d) pontját a 42/2024. (XII. 20.) ÉKM rendelet 7. § (1) bekezdése hatályon kívül helyezte.
+[^7]: A 4. § f) pontját a 42/2024. (XII. 20.) ÉKM rendelet 7. § (1) bekezdése hatályon kívül helyezte.
+[^8]: A 4. § g) pontját a 42/2024. (XII. 20.) ÉKM rendelet 7. § (1) bekezdése hatályon kívül helyezte.
+[^9]: A 4. § h) pontját a 42/2024. (XII. 20.) ÉKM rendelet 7. § (1) bekezdése hatályon kívül helyezte.
+[^10]: A 4. § j) pontját a 42/2024. (XII. 20.) ÉKM rendelet 7. § (1) bekezdése hatályon kívül helyezte.
+[^11]: A 4. § k) pontját a 16/2016. (VI. 8.) NFM rendelet 1. §-a iktatta be.

@@ -1,82 +1,80 @@
-## A nemzeti fejlesztési miniszter által meghagyásba bevont szervek
-
 | A | B |
 
 | Sorszám | Név |
 
 |  | Közlekedés |
 
-| 1. | Közlekedésfejlesztési Koordinációs Központ |
+| 1. |  |
 
-| 2. | Rail Cargo Hungaria Árufuvarozási Zártkörűen Működő Részvénytársaság |
+| 2. |  |
 
-| 3. | MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság |
+| 3. |  |
 
-| 4. | MÁV Szolgáltató Központ Zártkörűen Működő Részvénytársaság |
+| 4. |  |
 
-| 5. | MÁV Létesítményüzemeltető és Vasútőr Korlátolt Felelősségű Társaság |
+| 5. |  |
 
-| 6. | MÁV Központi Felépítményvizsgáló Korlátolt Felelősségű Társaság |
+| 6. |  |
 
-| 7. | MÁV Nosztalgia Idegenforgalmi és Szolgáltató Korlátolt Felelősségű Társaság |
+| 7. |  |
 
-| 8. | MÁV Felépítmény-karbantartó és Gépjavító Korlátolt Felelősségű Társaság |
+| 8. |  |
 
-| 9. | Data-Press Informatikai Szolgáltató Korlátolt Felelősségű Társaság |
+| 9. |  |
 
-| 10. | Info-Sys Korlátolt Felelősségű Társaság |
+| 10. |  |
 
-| 11. | Győr-Sopron-Ebenfurti Vasút CARGO Zártkörűen Működő Részvénytársaság |
+| 11. |  |
 
-| 12. | Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság |
+| 12. |  |
 
-| 13. | AKA Alföld Koncessziós Autópálya Zártkörűen Működő Részvénytársaság |
+| 13. |  |
 
-| 14. | M6 Duna Autópálya Koncessziós Zártkörűen Működő Részvénytársaság |
+| 14. |  |
 
-| 15. | Duna-Intertoll M6-os Autópálya Üzemeltető Fenntartó Zártkörűen Működő Részvénytársaság |
+| 15. |  |
 
-| 16. | MAK Mecsek Autópálya Koncessziós Zártkörűen Működő Részvénytársaság |
+| 16. |  |
 
-| 17. | M6 Tolna Autópálya Koncessziós Zártkörűen Működő Részvénytársaság |
+| 17. |  |
 
-| 18. | Volánbusz Zártkörűen Működő Részvénytársaság |
+| 18. |  |
 
-| 19. | Color Tours Korlátolt Felelősségű Társaság |
+| 19. |  |
 
-| 20. | T&J Busz Project Korlátolt Felelősségű Társaság |
+| 20. |  |
 
-| 21. | Kontakt-Busz Korlátolt Felelősségű Társaság |
+| 21. |  |
 
-| 22. | Homm Szolgáltató Korlátolt Felelősségű Társaság |
+| 22. |  |
 
-| 23. | Szekér Transz 99 Betéti Társaság |
+| 23. |  |
 
-| 24. | DAKK Dél-alföldi Közlekedési Központ Zártkörűen Működő Részvénytársaság |
+| 24. |  |
 
-| 25. | KMKK Középkelet-magyarországi Közlekedési Központ Zártkörűen Működő Részvénytársaság |
+| 25. |  |
 
-| 26. | ÉNYKK Északnyugat-magyarországi Közlekedési Központ Zártkörűen Működő Részvénytársaság |
+| 26. |  |
 
-| 27. | DDKK Dél-dunántúli Közlekedési Központ Zártkörűen Működő Részvénytársaság |
+| 27. |  |
 
-| 28. | KNYKK Középnyugat-magyarországi Közlekedési Központ Zártkörűen Működő Részvénytársaság |
+| 28. |  |
 
-| 29. | ÉMKK Észak-magyarországi Közlekedési Központ Zártkörűen Működő Részvénytársaság |
+| 29. |  |
 
-| 30. | VO-LAN KAR Zártkörűen Működő Részvénytársaság |
+| 30. |  |
 
-| 31. | Trans-Vonal Zártkörűen Működő Részvénytársaság |
+| 31. |  |
 
-| 32. | Trans-Tour '90 Korlátolt Felelősségű Társaság |
+| 32. |  |
 
-| 33. | G-Busline Korlátolt Felelősségű Társaság |
+| 33. |  |
 
-| 34. | Budapest Liszt Ferenc Nemzetközi Repülőtér Üzemeltető Zártkörűen Működő Részvénytársaság |
+| 34. |  |
 
-| 35. | Lufthansa Technik Budapest Repülőgép Karbantartó és Nagyjavító Korlátolt Felelősségű Társaság |
+| 35. |  |
 
-| 36. | AEROPLEX Közép-Európai Légijármű Műszaki Központ Korlátolt Felelősségű Társaság |
+| 36. |  |
 
 |  | Villamosenergia kereskedelem |
 
@@ -520,18 +518,6 @@
 
 | 252. | 209 db benzinkút üzemeltető, szerződött partner |
 
-3. melléklet a 22/2014. (IV. 18.) NFM rendelethez
+3. melléklet a 22/2014. (IV. 18.) NFM rendelethez[^15]
 
-Az ágazathoz tartozó szervek közül meghagyásba bevont szervek
-
-| A | B |
-
-| Sorszám | Név |
-
-| 1. | VPE Vasúti Pályakapacitás-elosztó Korlátolt Felelősségű Társaság |
-
-| 2. | MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság |
-
-| 3. | Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság |
-
-| 4. | HungaroControl Magyar Légiforgalmi Szolgálat Zártkörűen Működő Részvénytársaság |
+[^15]: A 3. mellékletet a 42/2024. (XII. 20.) ÉKM rendelet 7. § (1) bekezdése hatályon kívül helyezte.
