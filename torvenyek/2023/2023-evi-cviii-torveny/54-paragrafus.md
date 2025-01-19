@@ -10,4 +10,4 @@ c) az 1. § (1) bekezdés c) pontja szerinti vállalkozás a 2026. üzleti évi 
 
 készíti el és teszi közzé.
 
-(2) Az 1. § (1) bekezdés a) és b) pontja szerinti vállalkozás a fenntarthatósági célú átvilágítási kötelezettségekre vonatkozó rendelkezéseket első alkalommal oly módon teljesíti, hogy az ESG platformra ESG beszámolót tölt fel, amelyet követően a 33–34. §-ban foglaltaktól eltérően nem tanúsítás, hanem egy előaudit történik és sem az ESG beszámoló, sem az előaudit eredménye nem nyilvános és nem kerül közzétételre.
+(2) Az 1. § (1) bekezdés a) és b) pontja szerinti vállalkozás a fenntarthatósági célú átvilágítási kötelezettségekre vonatkozó rendelkezéseket az 54. § (1) bekezdésében meghatározott esetekben oly módon teljesíti, hogy az ESG platformra ESG beszámolót tölt fel, amelyet követően a 33–34. §-ban foglaltaktól eltérően nem tanúsítás, hanem egy előaudit történik és sem az ESG beszámoló, sem az előaudit eredménye nem nyilvános és nem kerül közzétételre.

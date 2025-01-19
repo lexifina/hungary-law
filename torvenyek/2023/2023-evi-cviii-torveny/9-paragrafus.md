@@ -10,4 +10,4 @@ d) akkreditálja a Magyarország területén ESG tanácsadókat oktató intézm�
 
 e) ellátja a miniszter rendeletében meghatározott ESG-vel kapcsolatos egyéb feladatokat.
 
-(2) A vállalkozásfejlesztési ügynökség az (1) bekezdés c) és d) pontjában meghatározott feladatait hatósági hatáskörben látja el.
+(2) A vállalkozásfejlesztési ügynökség az (1) bekezdés c) és d) pontjában meghatározott feladatait hatósági hatáskörben látja el, ezen hatósági eljárások során a sommás eljárás alkalmazása kizárt.

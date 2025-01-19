@@ -16,4 +16,4 @@ d) a megelőzési és korrekciós intézkedések megállapítása a vállalkozá
 
 e) az ESG adatszolgáltatási kötelezettség teljesítése, és
 
-f) a közvetlen szállítók nyilatkoztatása a felmerülő kockázatok tekintetében.
+f) a közvetlen szállítók nyilatkoztatása a felmerülő ESG kockázatok tekintetében.

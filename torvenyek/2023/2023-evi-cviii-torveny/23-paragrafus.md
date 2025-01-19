@@ -21,3 +21,5 @@ e) annak bemutatását, hogy a vállalkozás milyen következtetéseket von le a
 f) a vállalati társadalmi felelősségvállalás tekintetében azonosított érintettek körét, a kitűzött céljait, a végrehajtott fenntarthatósági célú átvilágítási folyamat leírását és eredményeit, valamint a lehetséges káros hatások megelőzése, mérséklése vagy helyreállítása érdekében hozott intézkedéseket és azok eredményeit.
 
 (5) Az ESG beszámoló elkészítésébe a vállalkozás a Hatóság által nyilvántartásba vett ESG tanácsadót is bevonhat.
+
+(6) A vállalkozás az ESG beszámolót a Hatóság elnökének az ESG beszámolók, az ESG minősítők és az ESG szoftverek nyilvántartásáról szóló rendeletében foglaltak szerint módosíthatja. A módosított ESG beszámolót a vállalkozás ügyvezető szerve hagyja jóvá, és azt ESG tanúsítóval auditáltatni kell.

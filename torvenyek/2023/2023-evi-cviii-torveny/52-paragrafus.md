@@ -10,13 +10,13 @@ a)
 
 b) szabályozza az ESG tanúsítók akkreditálásának feltételeit, valamint az ESG tanúsítók szakmai minőségbiztosítására, bizonyosságot nyújtó szolgáltatásnyújtására; képzésére, továbbképzésére, vizsgáztatására; szakmai etikai szabályaira és szakmai titoktartására; munkaszervezésére, továbbá az ESG tanúsítók által végzett tanúsítási audit lefolytatására vonatkozó részletes követelményeket;
 
-c) jelölje ki az ESG minősítőt;
+c) jelölje ki az állami ESG minősítőt;
 
-d) határozza meg az ESG minősítő eljárásával és működésével kapcsolatos szabályokat;
+d) határozza meg az állami ESG minősítő eljárásával és működésével kapcsolatos szabályokat;
 
 e) határozza meg a Hatóság által kiszabható bírság mértékét, megállapításának szempontrendszerét, valamint a bírság megfizetése módjának részletes eljárási szabályait;
 
-f) határozza meg az ESG tanácsadókat oktató intézményként történő akkreditálás eljárási szabályait.
+f) határozza meg az ESG tanácsadókat oktató intézményként történő akkreditálás részletes eljárási szabályait, valamint az ESG tanácsadókat oktató intézmények nyilvántartása vezetésére vonatkozó részletes eljárási szabályokat.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben szabályozza
 
@@ -24,13 +24,13 @@ a) a vállalkozás fenntarthatósági célú átvilágítási kötelezettségei 
 
 b) a vállalkozásfejlesztési ügynökség ESG-vel kapcsolatos feladatait;
 
-c) az ESG tanácsadókat oktató intézményként történő akkreditálás követelményrendszerét;
+c) az ESG tanácsadókat oktató intézményként történő akkreditálás követelményrendszerét, valamint az ESG tanácsadói képzés szabályait, továbbá a képzés és a vizsga díjának mértékére vonatkozó szabályokat;
 
-d) az ESG tanácsadókat oktató intézmények nyilvántartása vezetésére vonatkozó részletes eljárási szabályokat.
+d) a felkészítő program nyújtásának részletszabályait.
 
-e) az ESG tanácsadói képzés és az ESG Tanácsadó képesítés megszerzésének szabályaira, a képzés és a vizsga díjának mértékére, megfizetésére és visszatérítésére vonatkozó szabályokat.
+e)
 
-(3) Felhatalmazást kap a miniszter, hogy az ESG tanácsadóként történő akkreditálás követelményrendszerét rendeletben szabályozza.
+(3) Felhatalmazást kap a miniszter, hogy az ESG tanácsadóként történő akkreditálás és az akkreditált státusz megújítása követelményrendszerét rendeletben szabályozza.
 
 (4) A miniszter a (3) bekezdés szerinti rendeletet a Bizottság véleményének kikérését követően adja ki.
 
@@ -46,7 +46,7 @@ d) az ESG szoftverek kiberbiztonsági tanúsítása vonatkozásában alkalmazand
 
 e)
 
-f) a Tanúsítók Névjegyzéke, a vállalkozások, az ESG beszámolók, az ESG tanácsadók, az ESG minősítők, valamint az ESG szoftverek nyilvántartása vezetésére vonatkozó részletes eljárási szabályokat, valamint a nyilvántartások személyes adatnak nem minősülő adattartalmára vonatkozó részletes szabályokat;
+f) a Tanúsítók Névjegyzéke, az ESG beszámolók, az ESG tanácsadók, az ESG minősítők és az ESG szoftverek nyilvántartása vezetésére vonatkozó részletes eljárási szabályokat, valamint a nyilvántartások személyes adatnak nem minősülő adattartalmára vonatkozó részletes szabályokat;
 
 g) az ESG menedzsmentplatform működési szabályait;
 

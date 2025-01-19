@@ -6,21 +6,17 @@
 
 a) nyilvántartást vezet
 
-aa) az ESG adatszolgáltatási kötelezettséggel érintett vállalkozásokról, amely adatokhoz folyamatos hozzáférést biztosít a miniszter és a vállalkozásfejlesztési ügynökség részére, amelyek az adatkezelésre is jogosultak;
+aa) az ESG tanúsítókról;
 
-ab) az ESG tanúsítókról;
+ab) az ESG tanácsadókról;
 
-ac) az ESG tanácsadókról, amely adatokhoz folyamatos hozzáférést biztosít a miniszter és a vállalkozásfejlesztési ügynökség részére, amelyek az adatkezelésre is jogosultak;
+ac) az ESG szoftverekről;
 
-ad) az ESG szoftverekről;
-
-ae) az ESG minősítőkről;
-
-af) azokról az ESG adatszolgáltatási kötelezettséggel érintett vállalkozásokról, amelyek üzleti partnerei között vagy ellátási láncában állami szervek vagy állami vállalatok vannak jelen;
+ad) az ESG minősítőkről;
 
 b) akkreditálja
 
-ba) a Magyarország területén bejegyzett ESG tanácsadókat;
+ba) az ESG tanácsadókat;
 
 bb) az ESG tanúsítókat, az ESG beszámolóra vonatkozó magyar nyelvű bizonyossági vélemény (a továbbiakban: ESG tanúsítvány) adási tevékenységükkel összefüggésben;
 
@@ -34,7 +30,7 @@ e) működteti a magyar online ESG menedzsmentplatformot az ESG adatszolgáltat�
 
 f) hitelesített támogatásmenedzsment központot működtet;
 
-g) az ESG beszámolók benyújtásától számított 90 napon belül közzéteszi a törvény hatálya alá tartozó vállalkozások ESG adatszolgáltatása alapján készült éves beszámolót;
+g) minden év szeptember 30-ig közzéteszi a törvény hatálya alá tartozó vállalkozások ugyanezen év június 30. napját megelőző egy éves időszakban benyújtott ESG adatszolgáltatása alapján készült éves beszámolóját;
 
 h) hatósági ellenőrzés keretében ellenőrzi az ESG közreműködők valamint az 1. § (3a) bekezdése szerinti szervezetek e törvényben, illetve az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott kötelezettségeinek betartását;
 
@@ -42,7 +38,9 @@ i) engedélyezi a 27. § (5) bekezdése szerinti adatszolgáltatás igénylésé
 
 j) eljár a jogosulatlan ESG közreműködői tevékenységet folytatókkal szemben.
 
-(3) A (2) bekezdés b) pontja szerinti akkreditált státusz három évre szól.
+(3) A (2) bekezdés b) pontja szerinti akkreditált státusz három évre szól, amely az ESG tanácsadók esetében alkalmanként további három éves időtartamra megújítható a Hatóság elnökének az ESG tanácsadóként történő akkreditálás eljárási szabályairól és az ESG tanácsadók nyilvántartásáról szóló rendeletében foglaltak szerint.
+
+(3a) A (2) bekezdés b) pontja szerinti akkreditálásra irányuló kérelem és az akkreditált státusz megújítása iránti kérelem benyújtásakor a kérelmező elektronikus ügyintézésre köteles.
 
 (4) A Hatóság a (2) bekezdés b) pontja szerinti akkreditált státuszt visszavonja, ha az akkreditálás alapjául szolgáló körülményekben olyan változás következett be, amelynek következtében az akkreditálás alapvető követelményei nem teljesülnek, és ezt az ESG tanácsadó vagy az ESG tanúsító a Hatóság felhívásában foglalt határidőn belül nem orvosolja.
 

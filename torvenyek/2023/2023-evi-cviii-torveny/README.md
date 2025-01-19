@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2023-108-00-00
 | 2024-07-02 | Nemzeti Jogszabálytár (egységes szerkezet) | 2023-108-00-00.5 |
 | 2025-01-01 | 2024. évi LXIX. törvény | 2023-108-00-00.6 |
 | 2025-01-02 | 2010. évi CXXX. törvény | 2023-108-00-00.7 |
+| 2025-01-19 | 2024. évi LXXIV. törvény | 2023-108-00-00.11 |

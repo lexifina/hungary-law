@@ -10,11 +10,13 @@
 
 4. ESG: olyan fenntarthatósági kérdésekre vonatkozó szempontrendszer, amely egy adott vállalkozásnál a környezetre, a társadalomra és az irányításra vonatkozó hatásokat és faktorokat értékeli fenntarthatósági szempontból;
 
-5. ESG adatszolgáltatás: minden, fenntarthatósági kérdésekben közzétett információ, ideértve az ESG beszámolót is;
+5. ESG adatszolgáltatás: minden, fenntarthatósági kérdésekben más szervezet vagy személy részére továbbított, illetve közzétett információ, ideértve az ESG beszámolót is;
 
 6. ESG beszámoló minimumkövetelményei: azon információk, amelyeket a vállalkozás akkor közöl, amikor politikáiról, intézkedéseiről, mérőszámairól vagy céljairól számol be;
 
-6a. ESG közreműködő: az ESG tanúsító, az ESG tanácsadó és az ESG minősítő;
+6a. ESG kockázat: a környezeti, illetve társadalmi felelősségvállalás körében felmerülő, illetve vállalatirányítási kockázat;
+
+6b. ESG közreműködő: az ESG tanúsító, az ESG tanácsadó és az ESG minősítő;
 
 7. ESG minősítő: a polgári perrendtartásról szóló 2016. évi CXXX. törvény (a továbbiakban: Pp.) szerinti gazdálkodó szervezet, és az a külföldi jogi személy, amely Magyarország területén működő bármely szervezet ESG jellemzőire, az ESG beszámoló mellékletét képező kérdőív vagy a 27. § (5) bekezdése szerinti további, e törvény hatálya alá tartozó adatszolgáltatás tartalmára, illetve a fenntarthatósági kérdések körében felmerülő kockázataira vonatkozó véleményt, pontszámot vagy ezek kombinációját készíti, illetve szolgáltatás keretében harmadik felek számára biztosít;
 
@@ -62,7 +64,7 @@ b) az éves nettó árbevétel a 8 millió eurót,
 
 c) az üzleti évben átlagosan foglalkoztatottak száma az 50 főt;
 
-18. környezeti kockázat: az az állapot, amelyben a ténybeli körülmények alapján kellő valószínűséggel fennáll a higanyról szóló Minamata Egyezményben, a környezetben tartósan megmaradó szerves szennyező anyagokról szóló, Stockholmban, 2001. május 24-én elfogadott Egyezményben, vagy a veszélyes hulladékok országhatárokat átlépő szállításának ellenőrzéséről és ártalmatlanításáról szóló, Bázelben, 1989. március 22. napján aláírt Egyezményben foglalt tilalmak valamelyikének megsértése, és amely lényeges negatív, káros hatást gyakorol a tilalmak által védett értékekre;
+18. környezeti kockázat: olyan kockázat, amely a környezet – használat, terhelés vagy szennyezés miatti – károsodásával, valamint az éghajlat vagy természeti események, illetve tényezők változásával kapcsolatos negatív változás lehetőségét jelenti;
 
 19. középvállalkozás: olyan gazdasági társaság, amely nem minősül mikrovállalkozásnak kisvállalkozásnak vagy nagyvállalkozásnak;
 
@@ -74,7 +76,7 @@ c) az üzleti évben átlagosan foglalkoztatottak száma az 50 főt;
 
 23. leányvállalat: az Szt. 3. § (2) bekezdés 2. pontja szerinti fogalom;
 
-24. lényeges információ: olyan információ – a kettős lényegesség elvét figyelembe véve –, amely esetében észszerűen feltételezhető, hogy annak kihagyása vagy hibás közlése befolyásolja azokat a döntéseket, amelyeket az információt felhasználók a vállalkozás pénzügyi kimutatásai alapján hoznak, azzal, hogy egy-egy információ lényeges voltának megállapítása más hasonló tételekkel összefüggésben ítélhető meg;
+24. lényeges információ: olyan információ – a lényegesség elvét figyelembe véve –, amely esetében észszerűen feltételezhető, hogy annak kihagyása vagy hibás közlése befolyásolja azokat a döntéseket, amelyeket az információt felhasználók a vállalkozás pénzügyi kimutatásai alapján hoznak, azzal, hogy egy-egy információ lényeges voltának megállapítása más hasonló tételekkel összefüggésben ítélhető meg;
 
 25. mikrovállalkozás: olyan gazdasági társaság, amely esetében az üzleti évben a mérlegforduló napján a következő három mutatóérték közül legalább kettő nem haladta meg a következő határértéket:
 
@@ -88,7 +90,7 @@ c) az üzleti évben átlagosan foglalkoztatottak száma a 10 főt;
 
 a) a mérlegfőösszeg a 25 millió eurót,
 
-b) az éves nettó árbevétel a 50 millió eurót,
+b) az éves nettó árbevétel az 50 millió eurót,
 
 c) az üzleti évben átlagosan foglalkoztatottak száma a 250 főt;
 
@@ -96,7 +98,25 @@ c) az üzleti évben átlagosan foglalkoztatottak száma a 250 főt;
 
 28. saját üzleti hatáskör: a vállalkozásnak az üzleti célja elérése érdekében végzett minden olyan tevékenysége, amely magában foglal a termékek és szolgáltatások létrehozásával és hasznosításával kapcsolatos minden tevékenységet, függetlenül attól, hogy azt Magyarország területén vagy külföldön végzik;
 
-29. társadalmi felelősségvállalás körében felmerülő kockázat: olyan társadalmi vagy irányítási jellegű esemény vagy helyzet, amely bekövetkezése esetén lényeges negatív, káros hatást gyakorolhat az Alaptörvény SZABADSÁG ÉS FELELŐSSÉG részében foglalt felelősségek teljesítésére;
+28a. szabályozott pénzügyi szolgáltató:
+
+a) a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti hitelintézet és pénzügyi holding társaság,
+
+b) a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló törvény szerinti befektetési vállalkozás,
+
+c) a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló törvény szerinti befektetési alapkezelő (ABAK) és ÁÉKBV-alapkezelő,
+
+d) a biztosítási tevékenységről szóló törvény szerinti biztosító, viszontbiztosító, biztosítói holding társaság és csoportfelügyelet alól nem mentesített vegyes pénzügyi holding társaság,
+
+e) a tőkepiacról szóló törvény szerinti központi szerződő fél, központi értéktár, közösségi finanszírozási szolgáltató és különleges célú gazdasági egység,
+
+f) az egyes fizetési szolgáltatókról szóló törvény szerinti pénzforgalmi intézmény és elektronikuspénz-kibocsátó intézmény és
+
+g) a kriptoeszközök piacáról szóló törvény szerinti kriptoeszköz-szolgáltató.
+
+29. társadalmi felelősségvállalás körében felmerülő kockázat: olyan kockázat, amely az alapjogok tiszteletben nem tartása, a családok támogatásának hiánya, a méltányos munkafeltételek biztosításának elmaradása vagy a társadalmi egyenlőtlenségek, valamint a tisztességtelen, átláthatatlan vagy rosszindulatú vállalkozási gyakorlatok következtében merül fel;
+
+29a. vállalatirányítási kockázat: olyan kockázat, amelyet a nem megfelelő vállalati magatartás, illetve vállalatirányítási tevékenység, intézkedés vagy szabályozás eredményez, beleértve a pénzmosás, a vesztegetés és a korrupció elleni intézkedések hiányát vagy a vállalkozás működéséhez kapcsolódó jogszabályokkal, így különösen az adózási szabályokkal kapcsolatos jogsértéseket, továbbá a nem megfelelő panaszkezelési tevékenységet is;
 
 30. vállalati társadalmi felelősségvállalás: a vállalkozásoknak a társadalomra, a kultúrára és a jövő nemzedékeinek életfeltételeire gyakorolt hatásuk iránti felelőssége;
 

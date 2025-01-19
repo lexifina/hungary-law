@@ -2,6 +2,16 @@
 
 43. § (1) A Hatóság az ESG minősítőkről elektronikus névjegyzéket vezet.
 
+(1a) Nem vehető fel a névjegyzékbe az,
+
+a) aki olyan személyt foglalkoztat munkaviszonyban vagy foglalkoztatásra irányuló egyéb jogviszonyban, aki a Hatósággal a különleges jogállású szervekről, és az általuk foglalkoztatottak jogállásáról szóló törvény által meghatározott jogviszonyban áll,
+
+b) aki olyan személyt foglalkoztat munkaviszonyban vagy foglalkoztatásra irányuló egyéb jogviszonyban, aki a Hatósággal a különleges jogállású szervekről, és az általuk foglalkoztatottak jogállásáról szóló törvény által meghatározott jogviszonyban álló személynek a Ptk. 8:1. § (1) bekezdés 1. pontja szerinti közeli hozzátartozója,
+
+c) akinek a tulajdonosa a Hatósággal a különleges jogállású szervekről, és az általuk foglalkoztatottak jogállásáról szóló törvény által meghatározott jogviszonyban álló személy,
+
+d) akinek a vezető tisztségviselője vagy személyesen közreműködő tagja a Hatósággal a különleges jogállású szervekről, és az általuk foglalkoztatottak jogállásáról szóló törvény által meghatározott jogviszonyban áll.
+
 (2) A névjegyzék tartalmazza
 
 1. az ESG minősítő nevét és székhelyét;
@@ -18,7 +28,9 @@
 
 7. az ESG minősítő által használt minősítési módszertan nyilvános elérhetőségének módját és helyét;
 
-8. a Hatóság elnökének rendeletében előírt további, személyes adatnak nem minősülő adatokat.
+8. a 43/B. § (1) bekezdése szerinti adatokat és dokumentumokat,
+
+9. a Hatóság elnökének rendeletében előírt további, személyes adatnak nem minősülő adatokat.
 
 (3) A Hatóság a honlapján közzéteszi az (1) bekezdés szerinti névjegyzéknek a (2) bekezdés 1., 2. és 7. pontja szerinti adatait.
 
