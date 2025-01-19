@@ -1,0 +1,9 @@
+# 42/2024. (XII. 20.) ÉKM rendelet
+
+az építési és közlekedési miniszter feladat- és hatáskörébe tartozó szakterületeket érintő ágazati honvédelmi feladatokról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-42-20-8X
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2025-01-19 | 2024-42-20-8X.1 | 42/2024. (XII. 20.) ÉKM rendelet |
