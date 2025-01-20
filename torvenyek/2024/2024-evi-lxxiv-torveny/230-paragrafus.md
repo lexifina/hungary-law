@@ -1,5 +1,1 @@
-## „f) a Tanúsítók Névjegyzéke, az ESG beszámolók, az ESG tanácsadók, az ESG minősítők és az ESG szoftverek nyilvántartása vezetésére vonatkozó részletes eljárási szabályokat, valamint a nyilvántartások személyes adatnak nem minősülő adattartalmára vonatkozó részletes szabályokat;”
-
-230. § A fenntartható finanszírozás és az egységes vállalati felelősségvállalás ösztönzését szolgáló környezettudatos, társadalmi és szociális szempontokat is figyelembe vevő, vállalati társadalmi felelősségvállalás szabályairól és azzal összefüggő egyéb törvények módosításáról szóló 2023. évi CVIII. törvény 54. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az 1. § (1) bekezdés a) és b) pontja szerinti vállalkozás a fenntarthatósági célú átvilágítási kötelezettségekre vonatkozó rendelkezéseket az 54. § (1) bekezdésében meghatározott esetekben oly módon teljesíti, hogy az ESG platformra ESG beszámolót tölt fel, amelyet követően a 33–34. §-ban foglaltaktól eltérően nem tanúsítás, hanem egy előaudit történik és sem az ESG beszámoló, sem az előaudit eredménye nem nyilvános és nem kerül közzétételre.”
+### 230. §

@@ -1,1 +1,1 @@
-### 24. §
+24. § A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 110. § (13) bekezdés nyitó szövegrészében a „vízvédelmi eljárások” szövegrész helyébe a „vízvédelmi és természetvédelmi eljárások” szöveg lép.

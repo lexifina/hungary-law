@@ -1,1 +1,5 @@
-### 168. §
+## „18. kiszállási díj: minden olyan kéményseprő-ipari tevékenység elvégzéséhez kapcsolódó, helyszíni megjelenésért fizetendő összeg, amely tevékenységet a kéményseprő-ipari szerv az égéstermék-elvezető helyszínén nem ütemezett sormunka keretein belül hajt végre, kivéve a 2. § (5) bekezdés h) pontjában – a kéményseprő-ipari tevékenység ellátásának szakmai szabályairól szóló miniszteri rendeletben szabályozott ciklusidőn belül – meghatározott feladatokat.”
+
+168. § A kéményseprő-ipari tevékenységről szóló 2015. évi CCXI. törvény 2. § (13) bekezdése helyébe a következő rendelkezés lép:
+
+„(13) A (11) bekezdés szerinti költségtérítés, valamint a (16) bekezdés szerinti kiszállási díj az államháztartás központi alrendszerének bevétele. A költségtérítés, valamint a (16) bekezdés szerinti kiszállási díj és az azzal összefüggésben megállapított késedelmi kamat, valamint a behajtás egyéb költségei adók módjára behajtandó köztartozásnak minősülnek. A költségtérítés, valamint a (16) bekezdés szerinti kiszállási díj megfizetése tekintetében a közös tulajdonban álló ingatlan esetén az egy háztartásban életvitelszerűen élő tulajdonosok, a közös használatban álló ingatlan esetén a használók, illetve birtokosok felelőssége egyetemleges.”
