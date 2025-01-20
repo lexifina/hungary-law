@@ -6,21 +6,20 @@
 
 Melléklet a 156/1999. (XI. 3.) Korm. rendelethez[^42]
 
-1.[^43] A szakértői vélemény alapdíja:
+1. A szakértői vélemény alapdíja:
 
-– egyesszakértő esetén 110 000 Ft;
+1.1. egyesszakértő esetén 148 500 forint;
 
-– háromtagú tanács esetén 180 000 Ft;
+1.2. háromtagú tanács esetén 243 000 forint;
 
-– öttagú tanács esetén 285 000 Ft.
+1.3. öttagú tanács esetén 384 500 forint.
 
 2. A további ülések pótdíja:
 
-– háromtagú tanács esetén 105 000 Ft;
+2.1. háromtagú tanács esetén 141 500 forint;
 
-– öttagú tanács esetén 160 000 Ft.
+2.2. öttagú tanács esetén 216 000 forint.
 
 [^40]: A 10. § (1) bekezdése az 587/2023. (XII. 20.) Korm. rendelet 1. § n) pontja szerint módosított szöveg.
 [^41]: A 10. § (2)–(3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1215. pontja hatályon kívül helyezte.
-[^42]: A melléklet 202/2005. (IX. 28.) Korm. rendelet 7. §-ával megállapított szöveg. E módosító rendelet 8. §-a alapján a rendelkezéseit azokra a megkeresésekre és megbízásokra kell alkalmazni, amelyek 2005. október 6. napját követően érkeznek a Szerzői Jogi Szakértő Testülethez.
-[^43]: A Melléklet 1. pontja a 307/2011. (XII. 23.) Korm. rendelet 27. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 26. §-át.
+[^42]: A Melléklet a 409/2024. (XII. 20.) Korm. rendelet 2. §-ával megállapított szöveg.

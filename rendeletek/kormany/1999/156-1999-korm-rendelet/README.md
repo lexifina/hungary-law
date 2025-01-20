@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-156-20-
 | 2022-01-01 | 1999-156-20-22.8 | 764/2021. (XII. 23.) Korm. rendelet |
 | 2023-01-01 | 1999-156-20-22.9 | 548/2022. (XII. 22.) Korm. rendelet |
 | 2024-01-01 | 1999-156-20-22.11 | 587/2023. (XII. 20.) Korm. rendelet |
+| 2025-01-20 | 1999-156-20-22.12 | 409/2024. (XII. 20.) Korm. rendelet |
