@@ -8,7 +8,7 @@ b) az eljárási illetékek megfizetésére és a megfizetés ellenőrzésére v
 
 c)
 
-d) a bírósági eljárási illeték utólagos elszámolással történő megfizetése iránt kezdeményezett eljárásért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat,
+d)
 
 e) az állami adóhatóság által nyilvántartott, ingatlanok értékesítésével kapcsolatos adatokról teljesített adatszolgáltatás rendjét és az eljárásért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat.
 

@@ -1,0 +1,1 @@
+102/I. § E törvény 74. § (5) és (6) bekezdésének a Magyarország 2025. évi központi költségvetésének megalapozásáról szóló 2024. évi LXXIV. törvény által történt hatályon kívül helyezését megelőzően véglegessé vált, a 74. § (5) és (6) bekezdése alapján megadott vagy meghosszabbított engedélyek érvényességét a 74. § (5) és (6) bekezdésének hatályon kívül helyezése nem érinti.

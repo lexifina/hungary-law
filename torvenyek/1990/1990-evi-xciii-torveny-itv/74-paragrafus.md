@@ -36,10 +36,10 @@ illetékbevételi számlájára kell teljesíteni.
 
 (4) A választottbírósági eljárásban az illetéket a megállapított költségekkel együtt kell megfizetni és azt az eljárás befejezésekor az eljárt választottbíróság utalja át az állami adóhatóságnak.
 
-(5) A Nemzeti Adó- és Vámhivatal gazdálkodó szervezet székhelye szerint illetékes vármegyei (fővárosi) adóigazgatósága – kérelemre – az általános szabályoktól eltérően a bírósági eljárási illeték utólagos elszámolással történő megfizetését engedélyezheti annak a gazdálkodó szervezetnek, amely a kérelem benyújtását megelőző 12 hónapban valamennyi általa kezdeményezett bírósági (peres és nemperes) eljárás megjelölésével és az azokhoz kapcsolódóan megfizetett bírósági eljárási illeték feltüntetésével nyilatkozik arról, hogy az érintett időszakban legalább 250 bírósági eljárást kezdeményezett. Utólagos elszámolás esetén a gazdálkodó szervezet mentesül az eljárás kezdeményezésekor a bírósági eljárási illeték megfizetése alól.
+(5)
 
-(6) Az engedély egy évre szól, meghosszabbítását a Nemzeti Adó- és Vámhivatal gazdálkodó szervezet székhelye szerint illetékes vármegyei (fővárosi) adóigazgatósága engedélyezi, amennyiben azt a gazdálkodó szervezet legkésőbb az engedély lejártát megelőző 60. napon kéri és nyilatkozik arról, hogy a meghosszabbítás iránti kérelem előterjesztését megelőző 12 hónapban az engedély kiadására meghatározott feltételek teljesültek.
+(6)
 
-(7) A gazdálkodó szervezetnek az engedély megadását (meghosszabbítását) követő hónap 15. napjáig előleget kell fizetnie. Az előleg összege a kérelem benyújtását megelőző 12 hónapban kezdeményezett bírósági eljárásokért fizetett illeték 50%-a, melynek megfizetésére a Nemzeti Adó- és Vámhivatal gazdálkodó szervezet székhelye szerint illetékes vármegyei (fővárosi) adóigazgatósága a kérelemnek helyt adó határozatban kötelezi a gazdálkodó szervezetet. Az engedély időtartama alatt kezdeményezett eljárások illetékéről a gazdálkodó szervezet az engedély lejártát követő hónap 15. napjáig bevallást nyújt be az állami adóhatósághoz. A bevallott illeték és a befizetett előleg különbözete a bevallás benyújtásával esedékes.
+(7)
 
-(8) Az utólagos illetékfizetésre jogosult gazdálkodó szervezetek megnevezését, székhelyét, adószámát, valamint az engedély számát és időbeli hatályát az állami adóhatóság vezetője a Nemzeti Adó- és Vámhivatal honlapján közzéteszi.
+(8)
