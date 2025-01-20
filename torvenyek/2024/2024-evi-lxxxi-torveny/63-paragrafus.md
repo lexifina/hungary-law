@@ -2,7 +2,7 @@
 
 a)
 
-b)
+b) 36/I. § (6) bekezdés nyitó szövegrészében a „– felügyeleti díj ellenében –” szövegrész,
 
 c)
 
