@@ -14,25 +14,25 @@ b) a vasúti közlekedés biztonságával kapcsolatos munkakörökben foglalkozt
 
 (4) A jogosult haladéktalanul tájékoztatja a közlekedési hatóságot az egységes biztonsági tanúsítvánnyal és a vasútbiztonsági engedéllyel kapcsolatos feltételekben bekövetkezett minden változásról, valamint minden olyan esetben, amikor új személyi állományi kategóriák vagy új típusú vasúti járművek bevezetésére kerül sor.
 
-(5) A közlekedési hatóság évente ellenőrzi, hogy egységes biztonsági tanúsítvány, valamint a vasútbiztonsági engedély kiadásának alapjául szolgáló feltételek fennállnak-e. Az ellenőrzésért felügyeleti díjat kell fizetni.
+(5) Az egységes biztonsági tanúsítvánnyal, valamint vasútbiztonsági engedéllyel rendelkező szervezetek évente május 31. napjáig felügyeleti díjat fizetnek a közlekedési hatóság részére. A közlekedési hatóság a felügyeleti tevékenysége során vizsgálja az egységes biztonsági tanúsítvány, valamint a vasútbiztonsági engedély kiadásának alapjául szolgáló feltételek fennállását.
 
 (5a) Az éves felügyeleti díj mértéke:
 
 a) pályahálózat-működtető, valamint vertikálisan integrált vállalkozás vasúti pályahálózatot működtető szervezeti egysége esetén
 
-aa) 200 km üzemeltetett vasúti hálózatig: 2 540 000 forint,
+aa) 200 km üzemeltetett vasúti hálózatig: 3 302 000 forint,
 
-ab) 200 km feletti üzemeltetett vasúti hálózatnál: 4 612 500 forint,
+ab) 200 km feletti üzemeltetett vasúti hálózatnál: 5 996 500 forint,
 
 b) vállalkozó vasúti társaság, valamint vertikálisan integrált vállalkozás vállalkozó vasúti tevékenységet végző szervezeti egysége esetén, a vállalkozó vasúti tevékenységenként külön-külön
 
-ba) 1–50 darab vasúti járművet üzembentartó vasúti társaság esetén 1 502 000 forint,
+ba) 1–50 darab vasúti járművet üzembentartó vasúti társaság esetén 1 950 000 forint,
 
-bb) 51–100 darab vasúti járművet üzembentartó vasúti társaság esetén 1 955 000 forint,
+bb) 51–100 darab vasúti járművet üzembentartó vasúti társaság esetén 2 541 500 forint,
 
-bc) 100 darab feletti vasúti járművet üzembentartó vasúti társaság esetén 2 560 000 forint,
+bc) 100 darab feletti vasúti járművet üzembentartó vasúti társaság esetén 3 328 000 forint,
 
-c) saját célú vasutak egységes biztonsági tanúsítványa, valamint vasútbiztonsági engedélye esetén külön-külön 1 052 500 forint,
+c) saját célú vasutak egységes biztonsági tanúsítványa, valamint vasútbiztonsági engedélye esetén külön-külön 1 368 500 forint,
 
 d)
 

@@ -33,11 +33,3 @@ g) a 2012/34/EU európai parlamenti és tanácsi irányelv 30. cikk (1) bekezdé
 h) a pályahálózat-működtető minimális jelentéstételi kötelezettségeit, rendelkezést a jelentés tartalmára és gyakoriságára vonatkozóan, ideértve az évente közzéteendő információkat is;
 
 i) a szerződés hatályára vonatkozó rendelkezéseket, amelynek adott esetben összhangban kell állnia a pályahálózat-működtető koncessziójának vagy engedélyének időtartamával, valamint az állami díjképzési rendszerrel és díjképzési szabályokkal;
-
-j) a nagyobb üzemszünetek és vészhelyzetek kezelésére vonatkozó szabályokat, ideértve a veszélyhelyzeti terveket, a szerződés idő előtti felbontását és a felhasználók megfelelő időben történő tájékoztatását is;
-
-k) az abban az esetben meghozandó rendelkezéseket, ha bármely fél megszegi szerződéses kötelezettségeit;
-
-l) arra vonatkozó rendelkezéseket, ha rendkívüli körülmények befolyásolják a pályaműködtetés állami finanszírozását;
-
-m) a szerződés módosítására, újratárgyalására, vitarendezésre és idő előtti felbontására vonatkozó feltételeket és eljárásokat.

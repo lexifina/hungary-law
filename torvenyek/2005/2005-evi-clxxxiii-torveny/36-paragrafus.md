@@ -16,7 +16,19 @@
 
 (7) Az alapvizsga és az időszakos vizsga lebonyolítását a Kormány által a vasúti vizsgaközpont kijelöléséről szóló kormányrendeletben kijelölt vasúti vizsgaközpont, az alapképzés és az időszakos oktatás szakmai irányítását, valamint a vasútszakmai oktatók és a vasútüzemvezetők továbbképzését, továbbá a vasúti közlekedés területén hatósági vizsgabiztosi tevékenységet ellátók képzését és továbbképzését a Kormány által a vasúti képzési módszertani központ kijelöléséről szóló kormányrendeletben kijelölt vasúti képzési módszertani központ végzi.
 
-(8) Az alapképzést és az időszakos oktatást a közlekedési hatóság ellenőrzi.
+(8) Az alapképzést és az időszakos oktatást a közlekedési hatóság ellenőrzi és felügyeli.
+
+(8a) Az alapképzést, valamint az időszakos oktatást végző szervezetek évente május 31. napjáig felügyeleti díjat fizetnek a közlekedési hatóság részére.
+
+(8b) A felügyeleti díj mértéke
+
+a) alapképzést végző szervezetek esetén 830 000 forint,
+
+b) időszakos oktatást végző szervezetek esetén 1 000 000 forint,
+
+amelyet a tevékenységre vonatkozó engedély alapján kell megfizetni.
+
+(8c) A (8a) bekezdés szerinti felügyeleti díj a vasúti közlekedési hatóságot illeti meg, amelyet a feladataival összefüggésben használ fel.
 
 (9) Az alapvizsgáztatást és az időszakos vizsgáztatást a vasúti vizsgaközpont, mint tanúsító szerv a külön jogszabályban előírt feltételeknek megfelelő, a közlekedési hatóság vizsgabiztosi névjegyzékébe felvett és közlekedési hatóság által kinevezett vizsgabiztosok bevonásával szervezi és végzi. A közlekedési hatóság eljárása során a vizsgák eredménye alapján adja ki a hatósági bizonyítványokat.
 

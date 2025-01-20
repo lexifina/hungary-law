@@ -80,7 +80,7 @@ rendeletben állapítsa meg.
 
 8. a vasúti igazgatási szerv, valamint a közlekedési hatóság eljárásáért fizetendő igazgatási szolgáltatási díjak körét és mértékét, valamint az azok megfizetésére vonatkozó anyagi jogi, továbbá a közlekedési hatóság és az egyes eljárásokban közreműködők közötti megosztására vonatkozó részletes szabályokat az adópolitikáért felelős miniszterrel egyetértésben, valamint az Ügynökség eljárásába bevont közlekedési hatóság nemzeti óradíját,
 
-9.
+9. a vasúti pályahálózatok minőségi követelményei megvalósulásának, illetve fennállásának ellenőrzésére vonatkozó szabályokat, az ellenőrzést végző szervezetek kijelölését, valamint az ellenőrzésért fizetendő díjakat,
 
 10. a vasúti járművekre szerelt, vasútüzemi célt szolgáló kazánok és nyomástartó edények
 

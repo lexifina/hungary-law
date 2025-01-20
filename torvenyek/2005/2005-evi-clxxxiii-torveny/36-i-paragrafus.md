@@ -40,7 +40,7 @@ c) egyedi kialakítású
 
 vasúti jármű országos vasúti pályahálózaton való közlekedtetéséhez.
 
-(6) A közlekedési hatóság évente – felügyeleti díj ellenében – ellenőrzi, hogy
+(6) A közlekedési hatóság évente ellenőrzi, hogy
 
 a) a vasúti járművek gyártását, javítását végző személyek és szervezetek,
 
@@ -52,7 +52,9 @@ d) a vasúti alrendszerek, rendszerelemek karbantartásáért felelős szervezet
 
 műszaki hatósági engedélye kiadásának alapjául szolgáló feltételek fennállnak-e.
 
-(7) Az éves felügyeleti díj mértéke
+(7) A (6) bekezdés szerinti ellenőrzéssel érintett személyek és szervezetek évente május 31. napjáig felügyeleti díjat fizetnek a közlekedési hatóság részére. A felügyeleti díj a vasúti közlekedési hatóságot illeti meg, amelyet a vasúti közlekedési hatósági feladataival összefüggésben használ fel.
+
+(8) Az éves felügyeleti díj mértéke
 
 a) a vasúti járművek gyártását, javítását végző személyek és szervezetek
 
@@ -62,4 +64,6 @@ ab) fővizsgák végzése esetén 1 812 500 forint,
 
 ac) közlekedés biztonságával összefüggő részegységek gyártása, javítása esetén 1 210 000 forint,
 
-b) az (1) bekezdés b)–d) pontjában meghatározott szervezetek esetén 1 817 500 forint.
+ad) vasúti járművek időszakos vizsgálata esetén 1 200 000 forint,
+
+b) a (6) bekezdés b)–d) pontjában meghatározott szervezetek esetén 1 817 500 forint.
