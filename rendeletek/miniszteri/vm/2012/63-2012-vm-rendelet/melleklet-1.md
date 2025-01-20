@@ -1,6 +1,6 @@
 ## 14. § Ez a rendelet a takarmány- és élelmiszerjog, valamint az állat-egészségügyi és az állatok kíméletére vonatkozó szabályok követelményeinek történő megfelelés ellenőrzésének biztosítása céljából végrehajtott hatósági ellenőrzésekről szóló, 2004. április 29-i 882/2004/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
-1. melléklet a 63/2012. (VII. 2.) VM rendelethez[^17]
+1. melléklet a 63/2012. (VII. 2.) VM rendelethez[^18]
 
 3X11639M.docx
 
@@ -1170,7 +1170,7 @@
 
 | 13.3.4.1. |  |  |
 
-| 13.4. | Azonosító jel díja darabonként | 100 |
+| 13.4. | Azonosító jel díja darabonként | 150 |
 
 | 14. | HALGAZDÁLKODÁSI DÍJAK |  |
 
@@ -2476,4 +2476,4 @@
 
 | 18.3.3.4.4.1. | Alapdíj esetenként | 8 500 |
 
-[^17]: Az 1. melléklet a 87/2013. (X. 1.) VM rendelet 6. § (1) bekezdése, a 126/2013. (XII. 17.) VM rendelet 18. §-a, a 41/2014. (XII. 23.) FM rendelet 7. §-a, a 8/2016. (II. 11.) FM rendelet 10. §-a és 11. § a) pontja, a 63/2017. (XII. 22.) FM rendelet 1–3. §-a, a 43/2018. (XII. 20.) AM rendelet 3. § b) pontja, az 5/2019. (III. 14.) AM rendelet 5. §-a, a 63/2020. (XII. 16.) AM rendelet 6. § 3. pontja, 7. §-a, a 26/2021. (VII. 29.) AM rendelet 67. §-a, az 57/2023. (X. 16.) AM rendelet 30. §-a, a 175/2023. (XII. 27.) AM rendelet 1. és 2. §-a, a 35/2024. (VI. 10.) AM rendelet 7. §-a szerint módosított szöveg.
+[^18]: Az 1. melléklet a 87/2013. (X. 1.) VM rendelet 6. § (1) bekezdése, a 126/2013. (XII. 17.) VM rendelet 18. §-a, a 41/2014. (XII. 23.) FM rendelet 7. §-a, a 8/2016. (II. 11.) FM rendelet 10. §-a és 11. § a) pontja, a 63/2017. (XII. 22.) FM rendelet 1–3. §-a, a 43/2018. (XII. 20.) AM rendelet 3. § b) pontja, az 5/2019. (III. 14.) AM rendelet 5. §-a, a 63/2020. (XII. 16.) AM rendelet 6. § 3. pontja, 7. §-a, a 26/2021. (VII. 29.) AM rendelet 67. §-a, az 57/2023. (X. 16.) AM rendelet 30. §-a, a 175/2023. (XII. 27.) AM rendelet 1. és 2. §-a, a 35/2024. (VI. 10.) AM rendelet 7. §-a, a 62/2024. (XII. 20.) AM rendelet 1. §-a szerint módosított szöveg.
