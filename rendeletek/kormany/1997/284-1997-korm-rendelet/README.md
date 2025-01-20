@@ -28,3 +28,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-284-20-
 | 2020-09-21 | 1997-284-20-22.33 | 433/2020. (IX. 18.) Korm. rendelet |
 | 2020-10-01 | 1997-284-20-22.34 | 433/2020. (IX. 18.) Korm. rendelet |
 | 2021-02-13 | 1997-284-20-22.35 | 433/2020. (IX. 18.) Korm. rendelet |
+| 2025-01-20 | 1997-284-20-22.36 | 35/2013. (II. 14.) Korm. rendelet |

@@ -2,7 +2,7 @@
 
 1. számú melléklet a 284/1997. (XII. 23.) Korm. rendelethez
 
-## Az Ebtv. 23. §-ában foglalt egyes részleges, valamint 23/A. §-ában foglalt egyes kiegészítő térítési díj mellett igénybe vehető egészségügyi szolgáltatások térítési díja[^20]
+Az Ebtv. 23. §-ában foglalt egyes részleges, valamint 23/A. §-ában foglalt egyes kiegészítő térítési díj mellett igénybe vehető egészségügyi szolgáltatások térítési díja[^20]
 
 1.[^21] Az Ebtv. 23. §-ának a) pontjában foglaltak alapján a 18 éven aluliak a fogszabályozó készülékre való jogosultságuk keretében a fogorvosi munkára térítésmentesen, a fogszabályozó készülékre pedig a gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló 14/2007. (III. 14.) EüM rendeletben (a továbbiakban: R.) foglaltak szerint jogosultak.
 

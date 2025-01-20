@@ -132,9 +132,9 @@
 
 | 15. | A foglalkoztathatóság szakvéleményezése |  |
 
-|  |  | a) | közfoglalkoztatási jogviszonyhoz szükséges szakvélemény esetén | 1900 Ft/fő/eset |
+|  |  | a) | közfoglalkoztatási jogviszonyhoz szükséges szakvélemény esetén | 6000 Ft/fő/eset |
 
-|  |  | b) | a büntetésként kiszabott közérdekű munka végrehajtásához szükséges szakvélemény esetén | 1900 Ft/fő/eset |
+|  |  | b) | a büntetésként kiszabott közérdekű munka végrehajtásához szükséges szakvélemény esetén | 6000 Ft/fő/eset |
 
 |  |  | c) | az a) és a b) pontban nem említett esetben | 3300 Ft/fő/eset |
 
@@ -148,4 +148,4 @@
 
 | 20. | Járványügyi készültség idején mintavétel a SARS-CoV-2 specifikus antitest kimutatására irányuló szerológiai vizsgálathoz | 2 000 Ft |
 
-[^28]: A 2. számú melléklet a 35/2013. (II. 14.) Korm. rendelet 2. §-ával megállapított, a 434/2013. (XI. 19.) Korm. rendelet 1. §-a, az 520/2013. (XII. 30.) Korm. rendelet 22. §-a, a 40/2014. (II. 24.) Korm. rendelet 20. §-a, a 192/2015. (VII. 21.) Korm. rendelet 17. §-a, a 413/2015. (XII. 23.) Korm. rendelet 11. § b) pontja, a 250/2017. (IX. 5.) Korm. rendelet 2. §-a, a 13/2020. (II. 7.) Korm. rendelet 12. §-a, a 433/2020. (IX. 18.) Korm. rendelet 2. §-a, a 61/2021. (II. 12.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^28]: A 2. számú melléklet a 35/2013. (II. 14.) Korm. rendelet 2. §-ával megállapított, a 434/2013. (XI. 19.) Korm. rendelet 1. §-a, az 520/2013. (XII. 30.) Korm. rendelet 22. §-a, a 40/2014. (II. 24.) Korm. rendelet 20. §-a, a 192/2015. (VII. 21.) Korm. rendelet 17. §-a, a 413/2015. (XII. 23.) Korm. rendelet 11. § b) pontja, a 250/2017. (IX. 5.) Korm. rendelet 2. §-a, a 13/2020. (II. 7.) Korm. rendelet 12. §-a, a 433/2020. (IX. 18.) Korm. rendelet 2. §-a, a 61/2021. (II. 12.) Korm. rendelet 2. §-a, a 409/2024. (XII. 20.) Korm. rendelet 1. §-a szerint módosított szöveg.
