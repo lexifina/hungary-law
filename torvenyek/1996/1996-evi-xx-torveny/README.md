@@ -72,3 +72,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-20-00-00
 | 2025-01-01 | 2024. évi LXXXV. törvény | 1996-20-00-00.96 |
 | 2025-01-15 | 2024. évi LXXX. törvény | 1996-20-00-00.86 |
 | 2025-01-16 | 2024. évi LXXIII. törvény | 1996-20-00-00.97 |
+| 2025-01-20 | 2024. évi LXXIV. törvény | 1996-20-00-00.99 |
