@@ -132,7 +132,7 @@ k) a vizek hasznosítását, védelmét és kártételeinek elhárítását szol
 
 l) a vízkészletjárulék kiszámításának, a 15/C. § (1a) bekezdésére alapított kedvezményeknél a mérlegelési szempontoknak, a számításnál alkalmazott szorzószámoknak és a befizetés rendjének;
 
-m) az igazgatási szolgáltatási díj fizetésére kötelezett eljárások, a vízügyi igazgatási szervek díjfizetési mentességével érintett eljárások, igazgatási jellegű szolgáltatások és bejelentések körének, továbbá a fizetendő díj mértékének, valamint a fizetésre vonatkozó egyéb szabályoknak az adópolitikáért felelős miniszterrel egyetértésben;
+m) az igazgatási szolgáltatási díj fizetésére kötelezett eljárások, az igazgatási jellegű szolgáltatások és bejelentések körének, továbbá a fizetendő díj mértékének, valamint a fizetésre vonatkozó egyéb szabályoknak az adópolitikáért, valamint a közigazgatás-szervezésért felelős miniszterrel egyetértésben;
 
 n)
 
