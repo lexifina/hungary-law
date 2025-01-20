@@ -10,15 +10,15 @@ Melléklet a 270/2002. (XII. 20.) Korm. rendelethez[^42]
 
 1. A szakértői vélemény alapdíja:
 
-– háromtagú tanács esetén 180 000 Ft;
+1.1. háromtagú tanács esetén 243 000 forint;
 
-– öttagú tanács esetén 285 000 Ft.
+1.2. öttagú tanács esetén 384 500 forint.
 
 2. A további ülések pótdíja:
 
-– háromtagú tanács esetén 105 000 Ft;
+2.1. háromtagú tanács esetén 141 500 forint;
 
-– öttagú tanács esetén 160 000 Ft.
+2.2. öttagú tanács esetén 216 000 forint.
 
 [^41]: A 10. § (3)–(4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 909. pontja hatályon kívül helyezte.
-[^42]: A melléklet a 204/2005. (IX. 28.) Korm. rendelet 7. §-ával megállapított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezéseit azokra a megkeresésekre és megbízásokra kell alkalmazni, amelyek 2005. október 6. napját követően érkeznek az Iparjogvédelmi Szakértői Testülethez.
+[^42]: A Melléklet a 409/2024. (XII. 20.) Korm. rendelet 3. §-ával megállapított szöveg.
