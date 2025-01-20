@@ -50,6 +50,8 @@ g) az igazságügyért felelős miniszterrel, a büntetés-végrehajtásért fel
 
 h) az adópolitikáért felelős miniszterrel egyetértésben rendeletben megállapítsa a polgári célú robbanóanyagok szállításának és belföldi átadásának rendőrségi engedélyezési eljárásához kapcsolódó igazgatási szolgáltatási díjakat, mértéküket és beszedésük, kezelésük, megosztásuk, nyilvántartásuk szabályait,
 
+i) az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg a kábítószer-rendészeti eljárásokhoz kapcsolódó igazgatási szolgáltatási díjakat, mértéküket és beszedésük, kezelésük szabályait.
+
 (3) A VII. Fejezet szerinti titkos információgyűjtés eszközei, módszerei, illetve a leplezett eszközök rendőrség általi alkalmazásának, valamint a speciális kiadások felhasználásának részletes szabályait a miniszter utasításban állapítja meg.
 
 (4) A terrorizmust elhárító szerv főigazgatója a miniszter jóváhagyásával utasításban meghatározza a 63. § (7) bekezdése szerinti titkos információgyűjtés belső eljárási és engedélyezési szabályait.
