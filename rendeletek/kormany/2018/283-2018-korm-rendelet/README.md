@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-283-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2019-01-21 | 2018-283-20-22.1 | 283/2018. (XII. 21.) Korm. rendelet |
+| 2025-01-20 | 2018-283-20-22.2 | 409/2024. (XII. 20.) Korm. rendelet |

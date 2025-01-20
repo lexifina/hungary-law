@@ -4,7 +4,7 @@ a) a vámtanácsadói, illetve vámügynöki nyilvántartás adataiban bekövetk
 
 b) a vámtanácsadói, illetve vámügynöki igazolvány elvesztésének, megsemmisülésének vagy birtokából bűncselekmény vagy szabálysértés során történő kikerülésének a Vtv. 208. § (10) bekezdése szerinti
 
-## bejelentését az 1. § (2) bekezdésében meghatározott adattartalommal és a nyilvántartási számának megadásával köteles megtenni a nyilvántartásba vételt végző szervezetnek.
+bejelentését az 1. § (2) bekezdésében meghatározott adattartalommal és a nyilvántartási számának megadásával köteles megtenni a nyilvántartásba vételt végző szervezetnek.
 
 (2) A bejelentő személy a vámtanácsadói, illetve a vámügynöki igazolvány pótlása iránti, a Vtv. 208. § (11) bekezdése szerinti kérelmét az 1. § (2)–(4) bekezdésében meghatározott adattartalommal és dokumentumokkal, illetve az 1. § (5) bekezdése szerinti bejelentés esetén a Vtv. 207. § (5) bekezdése szerinti dokumentumokkal nyújthatja be. A kérelemhez a bejelentő csatolja a nyilatkozatát arról, hogy nincs tudomása olyan tényről, körülményről, amely az igazolvány pótlását kizárná.
 
