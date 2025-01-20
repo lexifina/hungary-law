@@ -1,1 +1,0 @@
-3. § Ez a rendelet a munkájuk során rákkeltő, illetve mutagén anyagokkal kapcsolatos kockázatoknak kitett munkavállalók védelméről szóló 2004/37/EK irányelv módosításáról szóló, 2019. január 16-i (EU) 2019/130 európai és parlamenti irányelvnek való megfelelést szolgálja.
