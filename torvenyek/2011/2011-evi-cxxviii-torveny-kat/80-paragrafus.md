@@ -56,7 +56,7 @@ p) a katasztrófavédelmi feladatok ellátásához szükséges földmérési és
 
 q) a veszélyes anyagok, veszélyes áruk telephelyi tárolásának katasztrófavédelmi szabályait,
 
-r)
+r) egyes hatósági eljárásokban az iparbiztonsági hatóság által vizsgált szakkérdésekkel kapcsolatos eljárási költségeket,
 
 s) az IHR működésének részletes szabályait, az IHR-nek a tűzvédelmi hatóság, az iparbiztonsági hatóság, a vízvédelmi és vízügyi hatóság és a veszélyesáru-szállítás ellenőrzésére kijelölt hatóság által történő igénybevételének feltételeit és részletes szabályait, az IHR üzemeltetőjét, valamint azokat az esetköröket, amelyekben a hivatásos katasztrófavédelmi szerv részére az egyes dokumentumokat az IHR igénybevételével kell megosztani,
 

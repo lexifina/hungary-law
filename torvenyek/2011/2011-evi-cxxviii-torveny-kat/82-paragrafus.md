@@ -1,4 +1,4 @@
-82. § (1) Felhatalmazást kap a katasztrófák elleni védekezésért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg az igazgatási szolgáltatási díj fizetési körébe tartozó hatósági eljárásokat, igazgatási jellegű szolgáltatásokat és bejelentéseket, továbbá a fizetendő díj mértékét, valamint a fizetésre vonatkozó egyéb szabályokat.
+82. § (1) Felhatalmazást kap a katasztrófák elleni védekezésért felelős miniszter, hogy az adópolitikáért, valamint a közigazgatás-szervezésért felelős miniszterrel egyetértésben rendeletben állapítsa meg az igazgatási szolgáltatási díj fizetési körébe tartozó hatósági eljárásokat, igazgatási jellegű szolgáltatásokat és bejelentéseket, továbbá a fizetendő díj mértékét, valamint a fizetésre vonatkozó egyéb szabályokat.
 
 (2) Felhatalmazást kap az iparügyekért felelős miniszter, hogy rendeletben szabályozza a veszélyes anyagokkal kapcsolatos súlyos balesetek megelőzésével kapcsolatban a tervezési, jelentési, adatközlési, együttműködési feladatokat, valamint a korai riasztási technikai rendszer létrehozásának és működésének szabályait.
 
