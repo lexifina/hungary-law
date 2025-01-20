@@ -4,7 +4,7 @@
 
 (2) A törvény hatálya alá tartozók a tűz jelzéséhez, a segítségkéréshez híradási eszközüket kötelesek rendelkezésre bocsátani, szükség esetén járműveikkel segítséget nyújtani.
 
-(3) A rendőrség, a mentőszolgálat, a polgármesteri hivatal (körjegyzőség), a hozzá beérkezett tűzjelzést köteles haladéktalanul továbbítani a jelzésfogadónak.
+(3) A rendőrség, a mentőszolgálat, a polgármesteri hivatal (közös önkormányzati hivatal), a hozzá beérkezett tűzjelzést köteles haladéktalanul továbbítani a jelzésfogadónak.
 
 (4) A telefonon történő tűzjelzés lehetőségét minden településről a jelzésfogadó részére biztosítani kell. A tűzjelzés telefonon történő fogadásának biztosítása, és az ezzel kapcsolatos költségek a jelzésfogadó fenntartóját terhelik.
 

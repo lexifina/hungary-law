@@ -22,6 +22,8 @@ j) a települési önkormányzat hivatásos tűzoltóság, önkormányzati tűzo
 
 k) a tűzesetek vizsgálatára vonatkozó eljárási szabályokat.
 
+l) egyes hatósági eljárásokban a tűzvédelmi hatóság által vizsgált szakkérdésekkel kapcsolatos eljárási költségeket.
+
 (2) Felhatalmazást kap a katasztrófák elleni védekezésért felelős miniszter, hogy rendeletben határozza meg:
 
 1. az Országos Tűzvédelmi Szabályzatot,
@@ -92,7 +94,7 @@ b)
 
 c) az erdők tűzvédelmére vonatkozó szabályokat az erdőgazdálkodásért felelős miniszterrel,
 
-d) az egyes tűzmegelőzési hatósági, szakhatósági eljárásokért és szolgáltatásokért fizetendő igazgatás szolgáltatási díj mértékét és körét, a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat az adópolitikáért felelős miniszterrel
+d) az egyes tűzmegelőzési hatósági, szakhatósági eljárásokért és szolgáltatásokért fizetendő igazgatási szolgáltatási díj mértékét és körét, a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat az adópolitikáért, valamint a közigazgatás-szervezésért felelős miniszterrel,
 
 e) a tűzvédelmi tervezői tevékenység engedélyezési eljárásáért fizetendő igazgatási szolgáltatási díj mértékét az adópolitikáért felelős miniszterrel
 
