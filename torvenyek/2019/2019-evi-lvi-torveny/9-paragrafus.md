@@ -31,3 +31,5 @@ c) állapítsa meg a törzskönyv vezetésének és a származási igazolás ki�
 d) állapítsa meg a művi szaporító létesítményekre és a spermatároló központokra vonatkozó részletes szabályokat;
 
 e) állapítsa meg a tenyészállat és a szaporítóanyag behozatalának és kivitelének, valamint forgalmazásának részletes szabályait.
+
+(3) Felhatalmazást kap a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben, rendeletben szabályozza az e törvény hatálya alá tartozó eljárásokért fizetendő igazgatási szolgáltatási díjak megfizetésének és felhasználásának részletes szabályait, valamint az igazgatási szolgáltatási díjak mértékét.
