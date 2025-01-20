@@ -4,7 +4,7 @@ a)
 
 b)
 
-c)
+c) 59. § (7) bekezdés d) pontjában az „aa)–al) alpontjában” szövegrész helyébe az „aa)–al) valamint aq) alpontjában” szöveg,
 
 d)
 
