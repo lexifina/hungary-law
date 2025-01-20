@@ -14,6 +14,6 @@ a) a kezelési költség bevételből a tárgyévben bevételek passzív időbel
 
 b) az elhatárolt összegből a tárgyévben feloldott bevételt
 
-## mű- és kapcsolódó jogi teljesítménytípusonként és vagyoni jogonként, elkülönítve a más közös jogkezelő szervezet részére átadandó jogdíjak összegét.
+mű- és kapcsolódó jogi teljesítménytípusonként és vagyoni jogonként, elkülönítve a más közös jogkezelő szervezet részére átadandó jogdíjak összegét.
 
 (3) A még be nem szedett jogdíjakkal kapcsolatban a tárgyév végi és az előző időszak végi állományt mű- és kapcsolódó jogi teljesítménytípusonként és vagyoni jogonként elkülönítve kell nyilvántartani.

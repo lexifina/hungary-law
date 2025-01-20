@@ -14,6 +14,6 @@ e) a közös jogkezelő szervezet vagy a független jogkezelő szervezet magyar 
 
 f) a Kjkt. 7. §-a szerint a közös jogkezelő szervezet által igénybe vett jogi személy nevét, címét és egyéb elérhetőségi adatait, különösen telefonszám, elektronikus levelezési cím, honlap, valamint
 
-## annak a közös jogkezelési tevékenységnek a meghatározását, amelyet a közös jogkezelő szervezet az e jogi személy útján lát el.
+annak a közös jogkezelési tevékenységnek a meghatározását, amelyet a közös jogkezelő szervezet az e jogi személy útján lát el.
 
 (2) A nyilvántartásba bejegyzett, a Kjkt. 84. § c) és d) pontja, valamint 101. § (1) bekezdés b) és c) pontjában foglalt adatok megváltoztatása harmadik személyek irányában csak akkor hatályos, ha a változást a nyilvántartásba bevezették.

@@ -1,5 +1,3 @@
-## köteles a 29. §-ban meghatározott módon megküldeni az SZTNH részére.
-
 ## 13. A közös jogkezelő szervezetek és a független jogkezelő szervezetek által fizetendő felügyeleti díjra vonatkozó részletes szabályok
 
 31. § (1) A közös jogkezelő szervezetek és a független jogkezelő szervezetek felügyeleti díjának megfizetése alól mentesség nem adható.
