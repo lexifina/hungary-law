@@ -43,3 +43,5 @@ b) a kéményseprő-ipari szolgáltató – a tűzvédelmi hatóság által a 7.
 c) a 10. § (3) bekezdése szerinti szolgáltató a 10. § (1) bekezdés a) pontja szerinti esetben a 2. § (1) bekezdés a) és b) pontja szerinti ingatlanok körében
 
 kéményseprő-ipari tevékenységet végez.
+
+18. kiszállási díj: minden olyan kéményseprő-ipari tevékenység elvégzéséhez kapcsolódó, helyszíni megjelenésért fizetendő összeg, amely tevékenységet a kéményseprő-ipari szerv az égéstermék-elvezető helyszínén nem ütemezett sormunka keretein belül hajt végre, kivéve a 2. § (5) bekezdés h) pontjában – a kéményseprő-ipari tevékenység ellátásának szakmai szabályairól szóló miniszteri rendeletben szabályozott ciklusidőn belül – meghatározott feladatokat.
