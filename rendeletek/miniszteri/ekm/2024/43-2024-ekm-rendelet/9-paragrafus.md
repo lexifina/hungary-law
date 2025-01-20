@@ -1,0 +1,1 @@
+9. § Hatályát veszti a szakmagyakorlási jogosultságokkal, névjegyzékek vezetésével kapcsolatos igazgatási szolgáltatási díjak beszedésével, kezelésével, nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokról szóló 32/2009. (XII. 29.) NFGM rendelet.

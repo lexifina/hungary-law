@@ -1,0 +1,1 @@
+1. § A vállalkozó kivitelezői tevékenységre jogosultak névjegyzékébe vétel iránti bejelentés megtételekor a bejelentő egyéni vállalkozó vagy gazdasági társaság 6500 forint igazgatási szolgáltatási díjat köteles fizetni a névjegyzéket vezető Magyar Kereskedelmi és Iparkamara számlájára.

@@ -1,0 +1,1 @@
+6. § A befizetett igazgatási szolgáltatási díj a névjegyzéket vezető szerv bevétele. Az igazgatási szolgáltatási díjak nyilvántartására és elszámolására az államháztartás számviteléről szóló kormányrendelet előírásait kell alkalmazni. Az igazgatási szolgáltatási díjról a névjegyzéket vezető szerv elkülönített nyilvántartást vezet.

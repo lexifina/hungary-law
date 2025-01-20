@@ -1,0 +1,1 @@
+3. § Az 1. §-ban és a 2. §-ban meghatározott igazgatási szolgáltatási díjat a névjegyzéket vezető szerv 1. melléklet szerinti fizetési számlájára banki átutalási megbízással vagy készpénzátutalási megbízáson, az „igazgatási szolgáltatási díj” jogcím megjelölése mellett a kérelmező nevének megadásával kell megfizetni.
