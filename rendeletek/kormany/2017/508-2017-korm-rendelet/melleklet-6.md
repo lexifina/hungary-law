@@ -1,5 +1,3 @@
-## A fémjel, a hatóság jele és a névjel elhelyezésének betűsoros tárgycsoport mutatója
-
 ## A betűsoros tárgycsoport mutató betűrendben sorolja fel az egyes nemesfém tárgyak csoportjait, mindegyik mellett megjelölve azt a helyet, ahová a fémjelet és a hatóság jelét, továbbá a névjelet el kell helyezni.
 
 ## A betűsoros tárgycsoport mutató szempontjából alkatrésznek a könnyen felismerhető, és elválasztható nemesfém alkatrészt kell tekinteni.
@@ -96,7 +94,7 @@
 
 6. melléklet az 508/2017. (XII. 29.) Korm. rendelethez
 
-## A 27. § (2) bekezdése szerinti minőségtanúsító bizonylat (certifikát)
+A 27. § (2) bekezdése szerinti minőségtanúsító bizonylat (certifikát)
 
 ## Budapest Főváros Kormányhivatala
 

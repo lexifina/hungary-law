@@ -22,4 +22,11 @@ h) az engedélyezett névjel és a névjelbeütő eszköz lenyomata egyezőség�
 
 i) megsemmisíti a hamis fémjelet, névjelet, valamint a megtévesztő hivataljelet, finomsági fokot kifejező számjelet.
 
+(3)[^2] A (2) bekezdésben meghatározott hatósági eljárások sürgősségi ügyintézési határideje:
+
+a) soron kívüli eljárásban 8 nap,
+
+b) azonnali eljárásban 72 óra.
+
 [^1]: A 7. § (2) bekezdés c) pontja a 198/2019. (VIII. 1.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^2]: A 7. § (3) bekezdését a 409/2024. (XII. 20.) Korm. rendelet 10. §-a iktatta be.

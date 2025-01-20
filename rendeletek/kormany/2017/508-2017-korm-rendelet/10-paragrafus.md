@@ -34,6 +34,6 @@ l) az Egyezmény részes tagállamaiból származó és az Egyezmény szerinti K
 
 m) az e rendeletnek megfelelően fémjelzett tárgynak minősülő, az arany- és ezüstáruk finomsági tartalma, ellenőrzése s fémjelzése iránt című 1868. évi XVIII. törvény, a fémjelzésről szóló 1936. évi IV. törvénycikk és a nemesfémtárgyakról és fémjelzésükről szóló 1965. évi 14. törvényerejű rendelet alapján magyar fémjellel ellátott nemesfém tárgy.
 
-(3)[^2] A (2) bekezdés b), c) és k) pontja szerinti mentességnek sommás eljárásban történő megállapítása esetén az általános közigazgatási rendtartásról szóló törvény szerinti jogszerű hallgatásnak van helye.
+(3)[^3] A (2) bekezdés b), c) és k) pontja szerinti mentességnek sommás eljárásban történő megállapítása esetén az általános közigazgatási rendtartásról szóló törvény szerinti jogszerű hallgatásnak van helye.
 
-[^2]: A 10. § (3) bekezdése a 198/2019. (VIII. 1.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^3]: A 10. § (3) bekezdése a 198/2019. (VIII. 1.) Korm. rendelet 25. §-ával megállapított szöveg.

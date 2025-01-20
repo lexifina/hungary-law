@@ -1,5 +1,3 @@
-## A nemesfém tárgyakra vonatkozó kötelező finomsági fokok
-
 |  | A | B |
 
 | 1. | Nemesfém tárgy megnevezése | Finomsági fok |
@@ -30,7 +28,7 @@
 
 2. melléklet az 508/2017. (XII. 29.) Korm. rendelethez
 
-## A fémjelzési megrendelőlap kötelező adattartalma
+A fémjelzési megrendelőlap kötelező adattartalma
 
 1. Ügyfél adatai:
 
