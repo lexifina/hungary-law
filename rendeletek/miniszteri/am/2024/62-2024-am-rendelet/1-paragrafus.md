@@ -1,1 +1,3 @@
-1. § A Nemzeti Élelmiszerlánc-biztonsági Hivatal, valamint a megyei kormányhivatalok mezőgazdasági szakigazgatási szervei előtt kezdeményezett eljárásokban fizetendő igazgatási szolgáltatási díjak mértékéről, valamint az igazgatási szolgáltatási díj fizetésének szabályairól szóló 63/2012. (VII. 2.) VM rendelet 1. melléklet 13. pont 13.4. alpontjában a „100” szövegrész helyébe a „150” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
