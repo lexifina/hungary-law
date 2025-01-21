@@ -1,24 +1,24 @@
 ## 2. Az elért energiamegtakarítás bejelentése
 
-3. §[^9] (1) Az energiamegtakarítási kötelezettség teljesítéseként egy adott évre elszámolni kívánt hitelesített energiamegtakarítás 2/A. § szerinti, valamint a következő a)–m) pont szerinti adatait a kötelezett fél megbízásából az energiamegtakarítást hitelesítő energetikai auditáló szervezet (a továbbiakban: hitelesítő szervezet) jelenti be az energiahatékonyságról szóló 2015. évi LVII. törvény (a továbbiakban: Ehat.) 15/D. § (1) bekezdése szerinti bejelentésként az EKR adatgyűjtő rendszerbe a 2/A. § szerinti adatoknak a hitelesített energiamegtakarítások nyilvántartásába való felvezetésével egyidejűleg:
+3. §[^10] (1) Az energiamegtakarítási kötelezettség teljesítéseként egy adott évre elszámolni kívánt hitelesített energiamegtakarítás 2/A. § szerinti, valamint a következő a)–m) pont szerinti adatait a kötelezett fél megbízásából az energiamegtakarítást hitelesítő energetikai auditáló szervezet (a továbbiakban: hitelesítő szervezet) jelenti be az energiahatékonyságról szóló 2015. évi LVII. törvény (a továbbiakban: Ehat.) 15/D. § (1) bekezdése szerinti bejelentésként az EKR adatgyűjtő rendszerbe a 2/A. § szerinti adatoknak a hitelesített energiamegtakarítások nyilvántartásába való felvezetésével egyidejűleg:
 
 a) a megvalósított energiahatékonysági intézkedés vagy beruházás megnevezése és típusa,
 
-b)[^10] az energiahatékonysági intézkedés vagy beruházás megkezdésének időpontja,
+b)[^11] az energiahatékonysági intézkedés vagy beruházás megkezdésének időpontja,
 
-c)[^11] az energiahatékonysági intézkedés vagy az energiahatékonysági beruházás helyszíne (cím, helyrajzi szám), ingóságon megvalósuló intézkedés esetén az érintett ingóság gyári száma, gépjármű esetén alvázszáma, – olyan szemléletformáló energiahatékonysági intézkedések kivételével, amelyek esetében nem határozható meg pontosan az elért végső felhasználó személye – a végső felhasználó szervezet neve, adószáma, természetes személy esetén neve, lakóhelye,
+c)[^12] az energiahatékonysági intézkedés vagy az energiahatékonysági beruházás helyszíne (cím, helyrajzi szám), ingóságon megvalósuló intézkedés esetén az érintett ingóság gyári száma, gépjármű esetén alvázszáma, – olyan szemléletformáló energiahatékonysági intézkedések kivételével, amelyek esetében nem határozható meg pontosan az elért végső felhasználó személye – a végső felhasználó szervezet neve, adószáma, természetes személy esetén neve, lakóhelye,
 
-d)[^12] a lényeges hozzájárulást kifejtő szervezet neve, adószáma, természetes személy esetén neve, lakóhelye,
+d)[^13] a lényeges hozzájárulást kifejtő szervezet neve, adószáma, természetes személy esetén neve, lakóhelye,
 
 e) ha az energiamegtakarítás mértékének megállapítása egyedi energetikai audittal történt, akkor az energiamegtakarítás mértékét alátámasztó energetikai auditot készítő energetikai auditor vagy energetikai auditáló szervezet megnevezése, névjegyzéki jelölési száma és az energetikai audit száma; ha az energiamegtakarítás mértékének megállapítása az 1. melléklet szerinti jegyzék alapján történt, akkor az energiahatékonysági intézkedés vagy beruházás 1. melléklet szerinti megjelölése,
 
 f) a hitelesítő szervezet megnevezése, névjegyzéki jelölési száma, a hitelesített, teljes beruházásra, intézkedésre vonatkozó energiamegtakarítás mértéke,
 
-g)[^13] az energiamegtakarítás várható teljes élettartama (év) az energiahatékonysági irányelv értelmében előírt energiamegtakarítási kötelezettségek átültetéséről szóló, 2019. szeptember 25-i (EU) 2019/1658 bizottsági ajánlás [a továbbiakban: (EU) 2019/1658 bizottsági ajánlás] VIII. függelék 1. pontja alapján,
+g)[^14] az energiamegtakarítás várható teljes élettartama (év) az energiahatékonysági irányelv értelmében előírt energiamegtakarítási kötelezettségek átültetéséről szóló, 2019. szeptember 25-i (EU) 2019/1658 bizottsági ajánlás [a továbbiakban: (EU) 2019/1658 bizottsági ajánlás] VIII. függelék 1. pontja alapján,
 
 h) az energiahatékonysági intézkedés vagy beruházás kötelezettségi időszakra vetített éves avulása (%, átlag),
 
-i)[^14] korai csere esetén a cserélt berendezésnek az (EU) 2019/1658 bizottsági ajánlás VIII. függelék 1. pontja alapján meghatározott, hátralévő élettartama (év), ezen időszakra vonatkozóan a kiinduló állapothoz képest megállapított energiamegtakarítás mértéke (GJ/év),
+i)[^15] korai csere esetén a cserélt berendezésnek az (EU) 2019/1658 bizottsági ajánlás VIII. függelék 1. pontja alapján meghatározott, hátralévő élettartama (év), ezen időszakra vonatkozóan a kiinduló állapothoz képest megállapított energiamegtakarítás mértéke (GJ/év),
 
 j) az energiahatékonysági minimumkövetelményhez, ennek hiányában a kiinduló állapothoz képest megállapított energiamegtakarítás mértéke (GJ/év), korai csere esetén ezt az értéket a cserélt berendezés hátralévő élettartamának lejártát követő időszakra vonatkozóan kell megadni,
 
@@ -34,9 +34,9 @@ m) az energiahatékonysági intézkedésből vagy beruházásból elszámolható
 
 (4) A kötelezett fél dönthet akként, hogy a bejelentés részeként az adott évre vonatkozóan saját maga határozza meg az (1) és (2) bekezdés szerint bejelentett, saját nevén szereplő energiamegtakarítások elszámolási sorrendjét az EKR adatgyűjtő rendszer útján. Az elszámolási sorrend egyéni meghatározására kizárólag a kötelezettséggel érintett év december 1-től a kötelezettséggel érintett évre vonatkozó elszámolási határidő lejártáig és csak akkor van lehetőség, ha az egyénileg sorrendbe rendezett megtakarítások mértéke eléri az adott évre vonatkozó kötelezettség mértékét.
 
-[^9]: A 3. § a 4/2022. (VI. 14.) MEKH rendelet 2. §-ával megállapított szöveg.
-[^10]: A 3. § (1) bekezdés b) pontja az 1/2024. (II. 15.) MEKH rendelet 2. §-ával megállapított szöveg. [E módosító rendelet 5. §-a által elrendelt módosítás, amely szerint hatályát veszti a 3. § (1) bekezdés b) pont ba)–bd) alpontja, nem vezethető át.]
-[^11]: A 3. § (1) bekezdés c) pontja a 8/2023. (V. 12.) MEKH rendelet 1. §-ával megállapított, a 12/2023. (VIII. 18.) MEKH rendelet 5. § a) pontja szerint módosított szöveg.
-[^12]: A 3. § (1) bekezdés d) pontja a 12/2023. (VIII. 18.) MEKH rendelet 5. § b) pontja szerint módosított szöveg.
-[^13]: A 3. § (1) bekezdés g) pontja a 8/2023. (V. 12.) MEKH rendelet 3. § a) pontja szerint módosított szöveg.
-[^14]: A 3. § (1) bekezdés i) pontja a 8/2023. (V. 12.) MEKH rendelet 3. § b) pontja szerint módosított szöveg.
+[^10]: A 3. § a 4/2022. (VI. 14.) MEKH rendelet 2. §-ával megállapított szöveg.
+[^11]: A 3. § (1) bekezdés b) pontja az 1/2024. (II. 15.) MEKH rendelet 2. §-ával megállapított szöveg. [E módosító rendelet 5. §-a által elrendelt módosítás, amely szerint hatályát veszti a 3. § (1) bekezdés b) pont ba)–bd) alpontja, nem vezethető át.]
+[^12]: A 3. § (1) bekezdés c) pontja a 8/2023. (V. 12.) MEKH rendelet 1. §-ával megállapított, a 12/2023. (VIII. 18.) MEKH rendelet 5. § a) pontja szerint módosított szöveg.
+[^13]: A 3. § (1) bekezdés d) pontja a 12/2023. (VIII. 18.) MEKH rendelet 5. § b) pontja szerint módosított szöveg.
+[^14]: A 3. § (1) bekezdés g) pontja a 8/2023. (V. 12.) MEKH rendelet 3. § a) pontja szerint módosított szöveg.
+[^15]: A 3. § (1) bekezdés i) pontja a 8/2023. (V. 12.) MEKH rendelet 3. § b) pontja szerint módosított szöveg.
