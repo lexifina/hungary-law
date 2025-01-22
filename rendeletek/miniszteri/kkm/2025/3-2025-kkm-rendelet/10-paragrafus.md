@@ -1,1 +1,3 @@
-10. § Hatályát veszti a nemzetközi fejlesztési együttműködési tevékenység formáiról szóló 5/2020. (II. 28.) KKM rendelet.
+10. §[^1]
+
+[^1]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
