@@ -1,3 +1,3 @@
-5. §[^4]
+5. §[^5]
 
-[^4]: Az 5. § a 6. § (3) bekezdése alapján 2025. április 1-jén lép hatályba.
+[^5]: Az 5. § a 6. § (3) bekezdése alapján 2025. április 1-jén lép hatályba.
