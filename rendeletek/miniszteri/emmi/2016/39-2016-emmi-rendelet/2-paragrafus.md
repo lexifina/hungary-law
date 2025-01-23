@@ -6,7 +6,7 @@ a) a Nemzeti Egészségbiztosítási Alapkezelő és
 
 b) a Nemzeti Népegészségügyi és Gyógyszerészeti Központ.
 
-(1a)[^2] Az Eüak. 35/B. § (1) bekezdés d) pontja szerinti csatlakozásra köteles egyéb szervezet az Eüak. 35/B. § (1) bekezdés a) pontja hatálya alá nem tartozó, orvosi vagy fogorvosi feladatra irányuló működési engedéllyel rendelkező egészségügyi szolgáltató.
+(1a)[^2] Az Eüak. 35/B. § (1) bekezdés d) pontja szerinti csatlakozásra köteles egyéb szervezet az Eüak. 35/B. § (1) bekezdés a) pontja hatálya alá nem tartozó, orvosi vagy fogorvosi feladatra irányuló működési engedéllyel rendelkező egészségügyi szolgáltató, valamint az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény 13. § (1) bekezdése szerinti engedély jogosultja.
 
 (2)[^3] Az EESZT adatszolgáltatás megkezdésének feltétele annak a működtető általi vizsgálata, valamint a vizsgálat eredményéről kiállított igazolás, hogy a csatlakozó adatkezelő saját informatikai rendszere útján, a meghatározott követelményeknek megfelelően
 
@@ -25,6 +25,6 @@ c) a csatlakozás folyamatát, pontos rendjét meghatározó dokumentumokat, és
 d) a követelmények ellenőrzésének menetét.
 
 [^1]: A 2. § (1) bekezdése a 28/2023. (VIII. 10.) BM rendelet 78. §-ával megállapított szöveg.
-[^2]: A 2. § (1a) bekezdését a 23/2019. (X. 15.) EMMI rendelet 1. §-a iktatta be.
+[^2]: A 2. § (1a) bekezdését a 23/2019. (X. 15.) EMMI rendelet 1. §-a iktatta be, szövege a 3/2025. (I. 20.) BM rendelet 16. §-a szerint módosított szöveg.
 [^3]: A 2. § (2) bekezdés nyitó szövegrésze a 23/2019. (X. 15.) EMMI rendelet 3. § a) pontja szerint módosított szöveg.
 [^4]: A 2. § (3) bekezdés nyitó szövegrésze a 37/2020. (X. 30.) EMMI rendelet 8. §-a szerint módosított szöveg.
