@@ -8,10 +8,10 @@
 
 (3a)[^15] A vény lehet papíralapú, vagy az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény szerinti Elektronikus Egészségügyi Szolgáltatási Tér útján kiállított elektronikus vény (a továbbiakban: elektronikus vény). Az elektronikus vényre e rendeletnek a vényre vonatkozó szabályait az e rendeletben meghatározott eltérésekkel kell alkalmazni.
 
-(4)[^16] Fokozottan ellenőrzött szer közforgalmú és közvetlen lakossági gyógyszerellátó tevékenységet is végző intézeti gyógyszertárban forgalmazható.
+(4)[^16] Fokozottan ellenőrzött szer közforgalmú és közvetlen lakossági gyógyszerellátó tevékenységet is végző intézeti gyógyszertárban forgalmazható. Fokozottan ellenőrzött szer a Gytv. 13. § (1) bekezdése szerinti gyógyszerellátási tevékenységbe akkor vonható be, ha a fokozottan ellenőrzött szernek minősülő gyógyszer szerepel az intézeti gyógyszertári szaktevékenységnek nem minősülő, betegre szabott, automatizált gyógyszerosztást is magában foglaló gyógyszerellátási tevékenység végzéséről szóló miniszteri rendeletben.
 
 [^12]: A 2. § (1) bekezdése az 56/2013. (VII. 31.) EMMI rendelet 12. §-ával megállapított szöveg.
 [^13]: A 2. § (2) bekezdése a 47/2015. (X. 19.) EMMI rendelet 17. §-ával megállapított, az 54/2016. (XII. 30.) EMMI rendelet 47. § a) pontja, a 45/2022. (XII. 20.) BM rendelet 39. §-a, a 28/2023. (VIII. 10.) BM rendelet 34. § a) pontja és 35. §-a szerint módosított szöveg.
 [^14]: A 2. § (3) bekezdése a 44/2008. (XI. 28.) EüM rendelet 8. § (4) bekezdése, a 41/2011. (VII. 5.) NEFMI rendelet 24. § b) pontja, az 56/2013. (VII. 31.) EMMI rendelet 24. § c) pontja szerint módosított szöveg.
 [^15]: A 2. § (3a) bekezdését a 29/2017. (X. 31.) EMMI rendelet 18. §-a iktatta be.
-[^16]: A 2. § (4) bekezdését a 41/2011. (VII. 5.) NEFMI rendelet 18. §-a iktatta be, szövege az 56/2013. (VII. 31.) EMMI rendelet 24. § d) pontja szerint módosított szöveg.
+[^16]: A 2. § (4) bekezdését a 41/2011. (VII. 5.) NEFMI rendelet 18. §-a iktatta be, szövege a 3/2025. (I. 20.) BM rendelet 15. §-ával megállapított szöveg.

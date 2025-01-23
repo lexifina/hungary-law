@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-43-20-0
 | 2017-11-01 | 2005-43-20-0B.17 | 29/2017. (X. 31.) EMMI rendelet |
 | 2023-01-01 | 2005-43-20-0B.18 | 78/2022. (XII. 28.) BM rendelet |
 | 2023-08-11 | 2005-43-20-0B.19 | 56/2013. (VII. 31.) EMMI rendelet |
+| 2025-01-23 | 2005-43-20-0B.20 | 41/2011. (VII. 5.) NEFMI rendelet |
