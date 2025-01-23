@@ -184,6 +184,10 @@ d)
 
 24. a megújuló energiaforrásból nyert energiával termelt villamos energia felhasználását elősegítő prémium típusú támogatás kiosztására irányuló pályázat kiírásának feltételeit, a pályázati kiírás közzétételének szabályait, minimális tartalmi követelményeit, valamint a pályázati eljárás szabályait
 
+25. közép- és nagyfeszültségű hálózaton elérhető szabad kapacitások kiosztására irányuló pályázati eljárás kiírásának feltételeit, a pályázati kiírás közzétételének szabályait, minimális tartalmi követelményeit, a kiosztható szabad kapacitások meghatározásának módját, valamint a pályázati eljárás szabályait,
+
+26. az energetikai adatszolgáltató platform működtetője által kezelt háztartási méretű kiserőművek nem elszámolási célú adatok kezelésének részletes műszaki előírásainak meghatározását
+
 rendeletben állapítsa meg.
 
 (3) Felhatalmazást kap az iparügyekért felelős miniszter, hogy
