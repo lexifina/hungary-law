@@ -4,57 +4,31 @@
 
 | (fő) | alszám |
 
-| 1. |  | Közvetítő szervezet engedélyezése | 600 000 |
+| 1. |  |  |  |
 
-| 2. |  | Bejelentés az alábbi jogszabályokban meghatározott esetekben: | 75 000 |
+| 2. |  |  |  |
 
-|  | 1. | – az elektromos és elektronikus berendezésekkel kapcsolatos hulladékgazdálkodási tevékenységekről szóló kormányrendelet |  |
-
-|  | 2. | – a hulladékká vált gépjárművekről szóló kormányrendelet |  |
-
-|  | 3. | – az elem- és akkumulátorhulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről szóló kormányrendelet |  |
-
-|  | 4. | – a betétdíj alkalmazásának szabályairól szóló kormányrendelet |  |
-
-|  | 5. | Újrahasználható csomagolószerek nyilvántartásba vétele | 80 000 |
-
-| 3. |  | Hulladékközvetítő, hulladékkereskedő bejelentéshez kötött tevékenységének nyilvántartásba vételi eljárása | 50 000 |
+| 3. |  |  |  |
 
 | 4. |  |  |  |
 
-|  | 1. | Hulladékkereskedelmi, -közvetítői vagy szállítási tevékenység engedélyezése | 120 000 |
+| 5. |  |  |  |
 
-|  | 2. | Hulladékkereskedelmi, -közvetítői és szállítási tevékenységből két tevékenység együttes engedélyezése | 140 000 |
+| 6. |  |  |  |
 
-|  | 3. | Hulladékkereskedelmi, -közvetítői és szállítási tevékenység együttes engedélyezése | 160 000 |
+| 7. |  |  |  |
 
-|  | 4. | Hulladékkereskedelmi, -közvetítői vagy szállítási tevékenység, valamint előkezelés engedélyezése | 160 000 |
+| 8. |  |  |  |
 
-|  | 5. | Hulladékgyűjtés engedélyezése a 4.1., 4.2., 4.3., 4.4. műveletekhez kapcsolódóan | 40 000 |
+| 9. |  |  |  |
 
-|  | 6. | Hulladékgyűjtés engedélyezése a 4.5. kivételével | 120 000 |
+| 10. |  |  |  |
 
-| 5. |  | Hulladék előkezelésének engedélyezése, ha a hasznosítási és ártalmatlanítási műveletek közül előkészítő műveletet engedélyeznek | 120 000 |
+| 11. |  |  |  |
 
-| 6. |  | Hulladéktárolás engedélyezése | 144 000 |
-
-| 7. |  | Hulladékhasznosítás engedélyezése | 470 000 |
-
-| 8. |  | Hulladékártalmatlanítás engedélyezése | 500 000 |
-
-| 9. |  | Hulladék behozatalának, kivitelének, az ország területén való átszállításának engedélyezése | 190 000 |
-
-| 10. |  | Hulladéklerakó rekultivációjának és utógondozásának engedélyezése | 200 000 |
-
-| 11. |  | Veszélyes hulladékkal kapcsolatos tevékenység engedélyezése, bejelentése | A 3–10. pontban megállapított díjtétel 150%-a |
-
-| 12. |  | A veszélyes hulladékkal kapcsolatos tevékenységek végzésének feltételeiről szóló kormányrendeletben meghatározott hulladék-, vagy technológia-minősítési eljárás | 500 000 |
+| 12. |  |  |  |
 
 | 13. |  |  |  |
-
-|  | 1. | Közszolgáltatás engedélyezése | 120 000 |
-
-|  | 2. | Újrahasználható csomagolószer bérleti rendszerének engedélyezése | 120 000 |
 
 | 14. |  | Helyhez kötött légszennyező pontforrás létesítésének, teljesítménybővítésének, élettartalmát meghosszabbító felújításának, használatba vételének, az alkalmazott technológia váltásának engedélyezése önálló eljárásban a levegő védelméről szóló jogszabály alapján | 32 000/pontforrás |
 
@@ -73,12 +47,6 @@
 | 19. |  | A mosó- és tisztítószerekről szóló 648/2004/EK rendelet 4. cikk (2) bekezdése alapján a gyártói eltérés kérelmezése [mosó- és tisztítószerek forgalomba hozatalának feltételeiről és az ellenőrzés rendjéről szóló 329/2012. (XI. 16.) Korm. rendelet 3. §] | 600 000 |
 
 | 20. |  |  |  |
-
-|  | 1. | Melléktermék felhasználhatóságára vonatkozó dokumentáció elbírálása | 200 000 |
-
-|  | 2. | Hulladékgazdálkodási létesítmény működési szabályzat jóváhagyása | 40 000 |
-
-|  | 3. | Hulladékgazdálkodási engedély egységes szerkezetbe foglalása | 30 000 |
 
 | 21. |  | Kármentesítési eljárás [219/2004. (VII. 21.) Korm. rendelet] |  |
 
