@@ -1,0 +1,3 @@
+12. § (1) A jogosult gyógyszerminőségi rendszer részeként rendszeresen önellenőrzést hajt végre a szabványműveleti eljárások végrehajtásának és betartásának ellenőrzése, valamint a korrekciós vagy megelőző intézkedések megtétele érdekében. Az önellenőrzésről és az azt követően foganatosított esetleges korrekciós intézkedésekről nyilvántartást kell vezetni.
+
+(2) Az (1) bekezdés szerinti önellenőrzés eredményéről, a megtett korrekciós intézkedésekről a jogosult első alkalommal az engedély kiadását követő harmadik hónap utolsó napjáig, majd ezt követően hathavonta jelentést tesz az NNGYK felé a nyilvántartás megküldésével egyidejűleg.

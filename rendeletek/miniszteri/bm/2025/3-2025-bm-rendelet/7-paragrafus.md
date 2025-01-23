@@ -1,0 +1,1 @@
+7. § A jogosultnak a Gytv. 13. § (1) bekezdése szerinti tevékenység végzésére szolgáló székhelye és telephelye személyi és technikai ellátottságának alkalmasnak kell lennie arra, hogy az általa végzett tevékenységnek a jogszabályokban és az NNGYK engedélyében foglaltak szerinti végzését biztosítani tudja.

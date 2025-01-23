@@ -1,0 +1,1 @@
+11. § A jogosult a Gytv. 17. § (1) bekezdése szerinti kötelezettségre figyelemmel köteles minden minőségi hibára, illetve gyógyszerhamisításra utaló panaszt jegyzőkönyvben rögzíteni és kivizsgálni, és minden olyan minőségi hibáról vagy annak gyanújáról tájékoztatni az NNGYK-t, amely a forgalmazás rendkívüli korlátozását vonhatja maga után.
