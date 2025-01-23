@@ -2,6 +2,6 @@
 
 20. § (1) Ez a rendelet 2020. január 1-jén lép hatályba.
 
-(2)[^40]
+(2)[^42]
 
-[^40]: A 20. § (2) bekezdését a 7/2024. (XII. 31.) PM rendelet 13. § 4. pontja hatályon kívül helyezte.
+[^42]: A 20. § (2) bekezdését a 7/2024. (XII. 31.) PM rendelet 13. § 4. pontja hatályon kívül helyezte.

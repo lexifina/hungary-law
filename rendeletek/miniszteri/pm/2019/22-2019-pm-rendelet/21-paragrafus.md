@@ -1,4 +1,4 @@
-21. §[^41] Ez a rendelet
+21. §[^43] Ez a rendelet
 
 1. a szakmai képesítések elismeréséről szóló, 2005. szeptember 7-i 2005/36/EK európai parlamenti és tanácsi irányelvnek,
 
@@ -8,4 +8,4 @@
 
 való megfelelést szolgálja.
 
-[^41]: A 21. § a 7/2024. (XII. 31.) PM rendelet 11. §-ával megállapított szöveg.
+[^43]: A 21. § a 7/2024. (XII. 31.) PM rendelet 11. §-ával megállapított szöveg.

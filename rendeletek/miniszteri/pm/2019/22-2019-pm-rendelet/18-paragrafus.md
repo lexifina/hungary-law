@@ -1,4 +1,4 @@
-18. § (1)[^39] A kötelező szakmai továbbképzésben közreműködő szervezet továbbképzést kizárólag a miniszter által jóváhagyott képzési program alapján szervezhet. A képzési program megnevezését, típusát, célját és óraszámát az Éves Továbbképzési Tájékoztató tartalmazza.
+18. § (1)[^41] A kötelező szakmai továbbképzésben közreműködő szervezet továbbképzést kizárólag a miniszter által jóváhagyott képzési program alapján szervezhet. A képzési program megnevezését, típusát, célját és óraszámát az Éves Továbbképzési Tájékoztató tartalmazza.
 
 (2) A képzési program tartalmazza
 
@@ -32,4 +32,4 @@ n) a képzési program végrehajtásához szükséges személyi és tárgyi felt
 
 (3) A képzés formája lehet kontaktórás, e-learning vagy tréning.
 
-[^39]: A 18. § (1) bekezdése a 7/2024. (XII. 31.) PM rendelet 12. § 19. pontja szerint módosított szöveg.
+[^41]: A 18. § (1) bekezdése a 7/2024. (XII. 31.) PM rendelet 12. § 19. pontja szerint módosított szöveg.

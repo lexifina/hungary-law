@@ -18,6 +18,6 @@ b) – e-learning képzési forma esetében – a programzáró önellenőrző t
 
 c) – tréning képzési forma esetében – a képzésen való részvétel.
 
-(6)[^28] A 17. § (5) bekezdésében meghatározott más képző intézmény által szervezett képzésen való részvételt a továbbképzésre kötelezett belső ellenőr közvetlenül a miniszter felé igazolja a részvételt igazoló tanúsítvány megküldésével.
+(6)[^30] A 17. § (5) bekezdésében meghatározott más képző intézmény által szervezett képzésen való részvételt a továbbképzésre kötelezett belső ellenőr közvetlenül a miniszter felé igazolja a részvételt igazoló tanúsítvány megküldésével.
 
-[^28]: A 14. § (6) bekezdése a 7/2024. (XII. 31.) PM rendelet 12. § 14. pontja szerint módosított szöveg.
+[^30]: A 14. § (6) bekezdése a 7/2024. (XII. 31.) PM rendelet 12. § 14. pontja szerint módosított szöveg.
