@@ -1,0 +1,1 @@
+4. § Hatályát veszti a környezetvédelmi és természetvédelmi hatósági eljárások igazgatási szolgáltatási díjairól szóló 14/2015. (III. 31.) FM rendelet 1. melléklet szerinti táblázat 1–13. fősorszámú sora, és 20. fősorszámú sora.
