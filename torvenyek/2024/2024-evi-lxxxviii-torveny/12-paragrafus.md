@@ -4,7 +4,7 @@ a)
 
 b)
 
-c)
+c) 34. § (3) bekezdésében a „ , valamint a kártalanításra vonatkozó részletes szabályokat” szövegrész,
 
 d)
 
