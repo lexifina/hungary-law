@@ -16,6 +16,6 @@
 
 ## aláírás
 
-3. melléklet a 33/2007. (XII. 23.) PM rendelethez[^19]
+3. melléklet a 33/2007. (XII. 23.) PM rendelethez[^20]
 
-[^19]: A 3. melléklet a 14/2022. (XII. 20.) PM rendelet 1. §-ával megállapított szöveg.
+[^20]: A 3. melléklet a 14/2022. (XII. 20.) PM rendelet 1. §-ával megállapított szöveg.

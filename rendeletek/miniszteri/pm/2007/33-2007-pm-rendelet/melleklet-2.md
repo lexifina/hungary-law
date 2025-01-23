@@ -1,20 +1,20 @@
-## Igazgatási szolgáltatási díjak
+|  | A | B |
 
-| Tételszám | Az adat megnevezése | Díjtétel (Ft) |
+| 1. | Az adat megnevezése | Díjtétel (Ft) |
 
-| 1. | Általános adatszolgáltatás | Településenként, fővárosban kerületenként 7500 Ft alapdíj + ingatlanonként 25 Ft |
+| 2. | Általános adatszolgáltatás | Településenként, fővárosban kerületenként 9800 Ft alapdíj + ingatlanonként 30 Ft |
 
-| 2. | Részletes adatszolgáltatás | Településenként, fővárosban kerületenként 7500 Ft alapdíj + ingatlanonként 110 Ft |
+| 3. | Részletes adatszolgáltatás | Településenként, fővárosban kerületenként 9800 Ft alapdíj + ingatlanonként 140 Ft |
 
-| 3. | Specifikus és visszamenőleges adat-szolgáltatás | 500 000 Ft alapdíj + ingatlanonként 110 Ft |
+| 4. | Specifikus és visszamenőleges adatszolgáltatás | 650 000 Ft alapdíj + ingatlanonként 140 Ft |
 
-| 4. | Országos éves általános adatszolgáltatás | 10 000 000 Ft |
+| 5. | Országos éves általános adatszolgáltatás | 13 000 000 Ft |
 
-| 5. | Országos éves részletes adatszolgáltatás | 15 000 000 Ft |
+| 6. | Országos éves részletes adatszolgáltatás | 19 500 000 Ft |
 
-| 6. | Szakértői adatszolgáltatás | 8000 Ft |
+| 7. | Szakértői adatszolgáltatás | 10 500 Ft |
 
-2. számú melléklet a 33/2007. (XII. 23.) PM rendelethez[^18]
+2. számú melléklet a 33/2007. (XII. 23.) PM rendelethez[^19]
 
 Igénylőlap az állami adóhatóság összehasonlító értékadatbázisából történő adatszolgáltatáshoz
 
@@ -92,4 +92,4 @@ III. Adatszolgáltatás módja
 
 IV. Nyilatkozat
 
-[^18]: A 2. számú melléklet a 31/2009. (XII. 18.) PM rendelet 4. §-ával megállapított szöveg.
+[^19]: A 2. számú melléklet a 31/2009. (XII. 18.) PM rendelet 4. §-ával megállapított szöveg.
