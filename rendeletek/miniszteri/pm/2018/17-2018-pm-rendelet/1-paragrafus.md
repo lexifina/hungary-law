@@ -10,7 +10,7 @@ ab) természetes személyre, aki a számvitelről szóló 2000. évi C. törvén
 
 ac) szervezetre, amely a könyvviteli szolgáltatást végzők továbbképzésének szervezésére és lebonyolítására irányuló akkreditációs eljárás lefolytatását, valamint továbbképzési programjának kreditpont-minősítését kérelmezi,
 
-ad) szakmai kiadványok kiadására jogosult szervezetre, amely kérelmezi szakmai kiadványa kreditpontértékének megállapítását,
+ad)[^1]
 
 ae) a könyvviteli szolgáltatást végzők kreditrendszerű továbbképzéséhez kapcsolódóan szakmai szervezeti minősítési eljárást kezdeményező szervezetekre;
 
@@ -21,3 +21,5 @@ ba) természetes személyre, aki adótanácsadói, adószakértői vagy oklevele
 bb) természetes személyre, aki az adózás rendjéről szóló 2017. évi CL. törvény (a továbbiakban: Art.) 250. §-a szerint határon átnyúló adótanácsadói, adószakértői vagy okleveles adószakértői tevékenység végzésére vonatkozó bejelentést tesz, valamint
 
 bc) továbbképző szervezetre, amely az adótanácsadói, adószakértői vagy okleveles adószakértői tevékenységet végzők nyilvántartásában szereplő személyek továbbképzési programjainak szervezésére és lebonyolítására vonatkozó kreditpont-minősítési eljárást kezdeményez a hatóságnál.
+
+[^1]: Az 1. § a) pont ad) alpontját a 6/2024. (XII. 23.) PM rendelet 7. §-a hatályon kívül helyezte.
