@@ -1,0 +1,1 @@
+A Magyarország projektjavaslatainak az Európai Hálózatfinanszírozási Eszköz 2024. évi CEF2 negyedik körös pályázati kiírására történő benyújtásáról szóló 1449/2024. (XII. 31.) Korm. határozat 1. melléklete az 1. melléklet szerint módosul.
