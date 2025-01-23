@@ -10,6 +10,8 @@ c) a 10/A. § (2) bekezdése szerint az ellenőrzési és információs célú �
 
 d) a Központi Nukleáris Pénzügyi Alap létrejöttét megelőzően létesített radioaktívhulladék-tárolóban a 63/A. § szerinti befizetési kötelezettségből származó bevételből nem fedezett, a véglegesen elhelyezett radioaktív hulladék tárolásával, a tároló biztonságnövelésével és üzemeltetésével, valamint
 
+e) az atomerőmű tervezett üzemidőn túli üzemeltetést követő további üzemeltetésével összefüggő, a nemzeti program szerinti alternatív forgatókönyvek megvalósítását előkészítő tevékenységekkel
+
 együtt járó költségeket.
 
 (2a) Az atomerőmű befizetésének meghatározását a nettó jelenérték számítás módszerével, 3%-os reáldiszkontráta alkalmazásával kell elvégezni úgy, hogy az (1) bekezdés szerinti befizetésből, a 64. § (2) bekezdése szerinti központi költségvetési értékállósági hozzájárulásból, valamint a 64. § (5) bekezdése szerinti felhalmozott vagyonból képzett összeg jelenértéke megegyezzen a jövőben jelentkező, (2) bekezdés szerinti költségek jelenértékével.
