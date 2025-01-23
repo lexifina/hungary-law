@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-25-20-2
 | 2015-10-29 | 2015-25-20-2X.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2018-01-01 | 2015-25-20-2X.4 | 51/2017. (XII. 29.) NGM rendelet |
 | 2018-09-21 | 2015-25-20-2X.5 | 8/2018. (IX. 20.) PM rendelet |
+| 2025-01-23 | 2015-25-20-2X.6 | 6/2024. (XII. 23.) PM rendelet |

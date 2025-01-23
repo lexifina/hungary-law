@@ -2,13 +2,15 @@
 
 (2) A díj mértéke
 
-a) kamarai tag könyvvizsgáló esetén 25 ezer forint,
+a)[^1] kamarai tag könyvvizsgáló esetén 33 500 forint,
 
-b) könyvvizsgáló cég esetén 50 ezer forint.
+b)[^2] könyvvizsgáló cég esetén 67 000 forint.
 
-(3)[^1] A díjat a Pénzügyminisztérium 10032000-01460658-00000000 számú számlájára kell teljesíteni készpénzbefizetési megbízással vagy fizetési számlák közötti átutalással.
+(3)[^3] A díjat a Pénzügyminisztérium 10032000-01460658-00000000 számú számlájára kell teljesíteni készpénzbefizetési megbízással, fizetési számlák közötti átutalással, vagy az elektronikus fizetési és elszámolási rendszeren keresztül történő fizetéssel vagy fizetési számlák közötti átutalással.
 
-(4)[^2]
+(4)[^4]
 
-[^1]: Az 1. § (3) bekezdése a 8/2018. (IX. 20.) PM rendelet 6. §-a szerint módosított szöveg.
-[^2]: Az 1. § (4) bekezdését az 51/2017. (XII. 29.) NGM rendelet 30. §-a hatályon kívül helyezte.
+[^1]: Az 1. § (2) bekezdés a) pontja a 6/2024. (XII. 23.) PM rendelet 5. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (2) bekezdés b) pontja a 6/2024. (XII. 23.) PM rendelet 5. § b) pontja szerint módosított szöveg.
+[^3]: Az 1. § (3) bekezdése a 6/2024. (XII. 23.) PM rendelet 4. §-ával megállapított szöveg.
+[^4]: Az 1. § (4) bekezdését az 51/2017. (XII. 29.) NGM rendelet 30. §-a hatályon kívül helyezte.
