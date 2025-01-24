@@ -1,4 +1,4 @@
-61/A. §[^475] (1) A gyámhivatal
+61/A. §[^486] (1) A gyámhivatal
 
 a) egyedülálló apaként történő örökbefogadás esetén a gyermek számára az örökbefogadást engedélyező határozatban [46. § (1) bekezdés f) pontja],
 
@@ -14,4 +14,4 @@ b) az anya adatai nélkül anyakönyvezett személy számára
 
 képzelt személyt állapít meg anyaként.
 
-[^475]: A 61/A. §-t a 70/2014. (III. 13.) Korm. rendelet 49. §-a iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 10. § (6) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^486]: A 61/A. §-t a 70/2014. (III. 13.) Korm. rendelet 49. §-a iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 10. § (6) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.

@@ -4,13 +4,13 @@
 
 ## Az örökbefogadhatónak nyilvánítás
 
-37. §[^214] (1)[^215] Az örökbefogadhatónak nyilvánítás iránti eljárás során a gyámhivatal a nevelésbe vett gyermek örökbefogadását akkor segíti elő, ha a gyermek életkora, egészségi állapota és egyéb körülményei alapján örökbefogadására – a gyermekvédelmi szakszolgálatnak és az országos örökbefogadást elősegítő szervnek a Gyvt. 141/F. § (2) bekezdése szerinti tájékoztatása alapján – reális esély van.
+37. §[^214] (1)[^215] Az örökbefogadhatónak nyilvánítás iránti eljárás során a kijelölt gyámhivatal a nevelésbe vett gyermek örökbefogadását akkor segíti elő, ha a gyermek életkora, egészségi állapota és egyéb körülményei alapján örökbefogadására – az országos örökbefogadást elősegítő szervnek a Gyvt. 141/F. § (2) bekezdése szerinti tájékoztatása alapján – reális esély van.
 
 (1a)[^216] Az örökbefogadhatónak nyilvánítás és az annak meghosszabbítása iránti eljárás a nevelésbe vett gyermek gyermekvédelmi gyámjának kérelmére vagy hivatalból indul. A hivatalból induló eljárást a gyermekvédelmi szakszolgálat, a gyermeket gondozó intézmény vagy a gyermekjogi képviselő is kezdeményezheti az örökbefogadhatóvá nyilvánítás iránti eljárás lefolytatására illetékes gyámhivatalnál.
 
 (1b)[^217] Ha a gyermek nevelésbe vétele ügyében eljárni illetékes gyámhivatal észleli az örökbefogadhatóvá nyilvánítás szükségességét, az iratok egyidejű megküldésével jelzi azt az örökbefogadhatóvá nyilvánítás iránti eljárás lefolytatására illetékes gyámhivatalnak.
 
-(1c)[^218] Az örökbefogadhatóvá nyilvánítás iránti eljárás lefolytatására illetékes gyámhivatal döntését közli a szülővel, a gyermekvédelmi gyámmal, a gyermekvédelmi szakszolgálattal, a gyermeket gondozó intézménnyel, a gyermek nevelésbe vétele ügyében eljárni illetékes gyámhivatallal és – ha az eljárás az ő kérelmére indult – a gyermekjogi képviselővel.
+(1c)[^218] Az örökbefogadhatóvá nyilvánítás iránti eljárás lefolytatására illetékes gyámhivatal döntését közli a szülővel, a gyermekvédelmi gyámmal, a gyermekvédelmi szakszolgálattal, a gyermeket gondozó intézménnyel, a gyermek nevelésbe vétele ügyében eljárni illetékes gyámhivatallal, a gyermek vér szerinti családját gondozó gyermekjóléti szolgálattal és – ha az eljárás az ő kérelmére indult – a gyermekjogi képviselővel.
 
 (2)[^219] Az örökbefogadhatónak nyilvánítás kérdésében a gyermekvédelmi és gyámügyi feladatkörében eljáró fővárosi és vármegyei kormányhivatal (e Fejezet alkalmazásában a továbbiakban: kijelölt gyámhivatal) – ha nem indult a szülői felügyeleti jog megszüntetése iránti per – soron kívül jár el.
 
@@ -55,10 +55,10 @@ c) kapcsolattartási jogát a gyermeket veszélyeztető módon gyakorolja.
 (9)[^232] A kijelölt gyámhivatal az örökbefogadhatóvá nyilvánítás időtartamát a Ptk. 4:124. § (2) bekezdése alapján további legfeljebb két évvel meghosszabbítja, ha a gyermek örökbefogadása nem történt meg, nincs folyamatban örökbefogadás engedélyezése iránti eljárás, és a gyermek örökbefogadására az (1) bekezdés szerint reális esély van.
 
 [^214]: A 37. § a 14/2003. (II. 12.) Korm. rendelet 16. §-ával megállapított szöveg. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
-[^215]: A 33/B. § (1) bekezdése a 70/2014. (III. 13.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
+[^215]: A 33/B. § (1) bekezdése a 70/2014. (III. 13.) Korm. rendelet 20. § (1) bekezdésével megállapított, az 1/2025. (I. 23.) Korm. rendelet 7. § a) pontja és 8. § a) pontja szerint módosított szöveg.
 [^216]: A 37. § (1a) bekezdését a 97/2013. (III. 29.) Korm. rendelet 10. § (1) bekezdése iktatta be, szövege a 70/2014. (III. 13.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
 [^217]: A 37. § (1b) bekezdését a 97/2013. (III. 29.) Korm. rendelet 10. § (1) bekezdése iktatta be, szövege a 70/2014. (III. 13.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
-[^218]: A 37. § (1c) bekezdését a 97/2013. (III. 29.) Korm. rendelet 10. § (1) bekezdése iktatta be.
+[^218]: A 37. § (1c) bekezdését a 97/2013. (III. 29.) Korm. rendelet 10. § (1) bekezdése iktatta be, szövege az 1/2025. (I. 23.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
 [^219]: A 37. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 10. § (4) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 22. § a) pontja szerint módosított szöveg.
 [^220]: A 37. § (3) bekezdése a 70/2014. (III. 13.) Korm. rendelet 20. § (2) bekezdésével megállapított szöveg.
 [^221]: A 37. § (3) bekezdés a) pontja a 325/2020. (VII. 1.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.

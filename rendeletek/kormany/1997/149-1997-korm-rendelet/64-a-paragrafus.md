@@ -1,6 +1,6 @@
-## Titkolt terhesség esetén a gyermek lakóhelyének megállapítása[^489]
+## Titkolt terhesség esetén a gyermek lakóhelyének megállapítása[^500]
 
-64/A. §[^490] (1) A terhességét eltitkoló válsághelyzetben lévő várandós anya a Gyvt. 128. § (3) bekezdésében foglaltaknak megfelelően – abból a célból, hogy a gyermek részére kiállított iratok ne az ő lakóhelyére kerüljenek kézbesítésre – kérelmezheti a gyámhivatalnál születendő gyermeke lakóhelyének az övétől eltérő megállapítását.
+64/A. §[^501] (1) A terhességét eltitkoló válsághelyzetben lévő várandós anya a Gyvt. 128. § (3) bekezdésében foglaltaknak megfelelően – abból a célból, hogy a gyermek részére kiállított iratok ne az ő lakóhelyére kerüljenek kézbesítésre – kérelmezheti a gyámhivatalnál születendő gyermeke lakóhelyének az övétől eltérő megállapítását.
 
 (2) A cselekvőképtelen és a korlátozottan cselekvőképes kiskorú válsághelyzetben lévő várandós anya a törvényes képviselőjével együtt jogosult a kérelem előterjesztésére. A korlátozottan cselekvőképes kiskorú anya a kérelmét törvényes képviselője nélkül is előterjesztheti, ha a törvényes képviselő eljárásban történő részvétele az ő vagy a születendő gyermek érdekét veszélyeztetné.
 
@@ -24,10 +24,10 @@ d) a fővárosi területi gyermekvédelmi szakszolgálat megkeresését, hogy a 
 
 e) a határozat időbeni hatályának megállapítását.
 
-(6)[^491] A születendő gyermek lakóhelyét megállapító gyámhivatali határozat a véglegessé válástól számított kilenc hónapig hatályos.
+(6)[^502] A születendő gyermek lakóhelyét megállapító gyámhivatali határozat a véglegessé válástól számított kilenc hónapig hatályos.
 
 (7) A gyámhivatal határozatát közli a fővárosi területi gyermekvédelmi szakszolgálattal.
 
-[^489]: A 64/A. §-t megelőző alcímet a 97/2013. (III. 29.) Korm. rendelet 19. §-a iktatta be.
-[^490]: A 64/A. §-t a 97/2013. (III. 29.) Korm. rendelet 19. §-a iktatta be.
-[^491]: A 64/A. § (6) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 41. § 16. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^500]: A 64/A. §-t megelőző alcímet a 97/2013. (III. 29.) Korm. rendelet 19. §-a iktatta be.
+[^501]: A 64/A. §-t a 97/2013. (III. 29.) Korm. rendelet 19. §-a iktatta be.
+[^502]: A 64/A. § (6) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 41. § 16. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

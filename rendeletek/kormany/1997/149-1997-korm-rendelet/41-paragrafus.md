@@ -48,27 +48,27 @@ c) nyílt örökbefogadás esetén – a házastárs és a rokon általi örökb
 
 a) a szülő házastársa általi örökbefogadás esetén az (1) bekezdés b) pont bb)–bd) alpontja szerinti dokumentumokat,
 
-b) rokon általi örökbefogadás esetén az (1) bekezdés b) pontjában foglaltakat, ha az örökbefogadandó gyermek kötelező gondozásba történő kihelyezéséről a 45. § (5) bekezdés b) pontja alapján nem kellett rendelkezni,
+b)[^294] rokon általi örökbefogadás esetén az (1) bekezdés b) pontjában foglaltakat,
 
 c) a gyermeket a szülő hozzájárulásával legalább egy éve saját háztartásában nevelő örökbe fogadni szándékozó személy esetében az örökbefogadás előtti tanácsadás és felkészítő tanfolyam eredményes elvégzését igazoló iratot, az alkalmasságát alátámasztó pszichológiai véleményt, valamint a háziorvosi igazolást az egészségi állapotáról,
 
 d) – ha a nevelőszülő a nála nevelkedő gyermeket kívánja örökbe fogadni – az (1) bekezdés c) pontjában foglalt dokumentumokat.
 
-(5)[^294] A gyermek örökbefogadásának engedélyezése előtt a kijelölt gyámhivatal beszerzi:
+(5)[^295] A gyermek örökbefogadásának engedélyezése előtt a kijelölt gyámhivatal beszerzi:
 
-a)[^295] az anyakönyvvezetőtől a gyermeknek az anyakönyvben nyilvántartott személyazonosító adatait és az anyakönyvnek a gyermek születésével kapcsolatban nyilvántartott adatait,
+a)[^296] az anyakönyvvezetőtől a gyermeknek az anyakönyvben nyilvántartott személyazonosító adatait és az anyakönyvnek a gyermek születésével kapcsolatban nyilvántartott adatait,
 
-b)[^296] az anyakönyvvezetőtől a szülőknek az anyakönyvben nyilvántartott személyazonosító adatait és az anyakönyvnek a szülők halálával kapcsolatban nyilvántartott adatait,
+b)[^297] az anyakönyvvezetőtől a szülőknek az anyakönyvben nyilvántartott személyazonosító adatait és az anyakönyvnek a szülők halálával kapcsolatban nyilvántartott adatait,
 
-c)[^297] a szülői felügyeletet megszüntető, illetve a szülő cselekvőképességét érintő gondnokság alá helyezéséről szóló jogerős bírói ítéletet,
+c)[^298] a szülői felügyeletet megszüntető, illetve a szülő cselekvőképességét érintő gondnokság alá helyezéséről szóló jogerős bírói ítéletet,
 
-d)[^298] a gyámot kirendelő véglegessé vált gyámhivatali határozatot, ha nem a vér szerinti szülő az örökbefogadandó gyermek törvényes képviselője,
+d)[^299] a gyámot kirendelő véglegessé vált gyámhivatali határozatot, ha nem a vér szerinti szülő az örökbefogadandó gyermek törvényes képviselője,
 
-e)[^299] a gondnokot kirendelő véglegessé vált határozatot, ha a vér szerinti szülő cselekvőképességet érintő gondnokság alatt áll,
+e)[^300] a gondnokot kirendelő véglegessé vált határozatot, ha a vér szerinti szülő cselekvőképességet érintő gondnokság alatt áll,
 
 f) a háziorvosi vagy szakorvosi igazolást az örökbefogadni szándékozó személy egészségi állapotáról, amennyiben ezt az örökbefogadási eljárás során indokoltnak tartja,
 
-g)[^300] az anyakönyvvezetőtől az örökbe fogadni szándékozó személy anyakönyvben nyilvántartott személyazonosító adatait és az anyakönyvnek az örökbe fogadni szándékozó személy születésével és házasságával kapcsolatban nyilvántartott adatait.
+g)[^301] az anyakönyvvezetőtől az örökbe fogadni szándékozó személy anyakönyvben nyilvántartott személyazonosító adatait és az anyakönyvnek az örökbe fogadni szándékozó személy születésével és házasságával kapcsolatban nyilvántartott adatait.
 
 [^279]: A 41. § a 14/2003. (II. 12.) Korm. rendelet 21. §-ával megállapított szöveg. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
 [^280]: A 41. § (1) bekezdés nyitó szövegrésze a 173/2009. (VIII. 29.) Korm. rendelet 13. § (1) bekezdésével megállapított, a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 7. pontja szerint módosított szöveg.
@@ -85,10 +85,11 @@ g)[^300] az anyakönyvvezetőtől az örökbe fogadni szándékozó személy any
 [^291]: A 41. § (3) bekezdése a 70/2014. (III. 13.) Korm. rendelet 25. § (4) bekezdésével megállapított szöveg.
 [^292]: A 41. § (3a) bekezdését a 70/2014. (III. 13.) Korm. rendelet 25. § (5) bekezdése iktatta be.
 [^293]: A 41. § (4) bekezdése a 70/2014. (III. 13.) Korm. rendelet 25. § (6) bekezdésével megállapított szöveg.
-[^294]: A 41. § (5) bekezdés nyitó szövegrésze a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 7. pontja szerint módosított szöveg.
-[^295]: A 41. § (5) bekezdés a) pontja a 70/2014. (III. 13.) Korm. rendelet 25. § (7) bekezdésével megállapított szöveg.
-[^296]: A 41. § (5) bekezdés b) pontja a 70/2014. (III. 13.) Korm. rendelet 25. § (7) bekezdésével megállapított szöveg.
-[^297]: A 41. § (5) bekezdés c) pontja a 97/2013. (III. 29.) Korm. rendelet 12. § (5) bekezdésével megállapított szöveg.
-[^298]: A 41. § (5) bekezdés d) pontja a 457/2017. (XII. 28.) Korm. rendelet 41. § 11. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^299]: A 41. § (5) bekezdés e) pontja a 70/2014. (III. 13.) Korm. rendelet 25. § (8) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 41. § 11. pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^300]: A 41. § (5) bekezdés g) pontját a 97/2013. (III. 29.) Korm. rendelet 12. § (5) bekezdése iktatta be, szövege a 70/2014. (III. 13.) Korm. rendelet 25. § (9) bekezdésével megállapított szöveg.
+[^294]: A 41. § (4) bekezdés b) pontja az 1/2025. (I. 23.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
+[^295]: A 41. § (5) bekezdés nyitó szövegrésze a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 7. pontja szerint módosított szöveg.
+[^296]: A 41. § (5) bekezdés a) pontja a 70/2014. (III. 13.) Korm. rendelet 25. § (7) bekezdésével megállapított szöveg.
+[^297]: A 41. § (5) bekezdés b) pontja a 70/2014. (III. 13.) Korm. rendelet 25. § (7) bekezdésével megállapított szöveg.
+[^298]: A 41. § (5) bekezdés c) pontja a 97/2013. (III. 29.) Korm. rendelet 12. § (5) bekezdésével megállapított szöveg.
+[^299]: A 41. § (5) bekezdés d) pontja a 457/2017. (XII. 28.) Korm. rendelet 41. § 11. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^300]: A 41. § (5) bekezdés e) pontja a 70/2014. (III. 13.) Korm. rendelet 25. § (8) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 41. § 11. pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^301]: A 41. § (5) bekezdés g) pontját a 97/2013. (III. 29.) Korm. rendelet 12. § (5) bekezdése iktatta be, szövege a 70/2014. (III. 13.) Korm. rendelet 25. § (9) bekezdésével megállapított szöveg.

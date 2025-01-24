@@ -84,7 +84,7 @@ a) 3 éven belül nem indítható, ha az eljárás során az örökbe fogadni sz
 
 b) 1 éven belül nem indítható az a) pontban nem említett esetben.
 
-(6)[^259] A gyámhivatalnak az örökbefogadásra való alkalmasságot megállapító határozata annak véglegessé válásától számított négy évig hatályos. Ha négy éven belül az örökbefogadási eljárás jogerősen befejeződik, a határozat az örökbefogadás tárgyában hozott határozat jogerőre emelkedésének napjával hatályát veszti.
+(6)[^259] A gyámhivatalnak az örökbefogadásra való alkalmasságot megállapító határozata annak véglegessé válásától számított négy évig hatályos. Ha négy éven belül az örökbefogadási eljárás jogerősen befejeződik, a határozat az örökbefogadás tárgyában hozott határozat véglegessé válásának napjával hatályát veszti.
 
 (7)[^260] Ha az örökbe fogadni szándékozó személy testvérek örökbefogadására való alkalmasságát megállapították, és a hatályvesztést megelőzően a testvér is örökbe fogadhatóvá válik, a határozat hatálya meghosszabbodik a testvér örökbefogadási eljárásának végleges döntéssel történő befejezéséig.
 
@@ -115,7 +115,7 @@ b) 1 éven belül nem indítható az a) pontban nem említett esetben.
 [^256]: A 39. § (3) bekezdés c) pontja a 325/2020. (VII. 1.) Korm. rendelet 5. § (4) bekezdésével megállapított, a 94/2021. (II. 27.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
 [^257]: A 39. § (4) bekezdése a 70/2014. (III. 13.) Korm. rendelet 22. § (4) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 41. § 11. pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^258]: A 39. § (5) bekezdése a 94/2021. (II. 27.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
-[^259]: A 39. § (6) bekezdése a 97/2013. (III. 29.) Korm. rendelet 11. § (3) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 41. § 7. pontja, a 212/2023. (VI. 1.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
+[^259]: A 39. § (6) bekezdése a 97/2013. (III. 29.) Korm. rendelet 11. § (3) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 41. § 7. pontja, a 212/2023. (VI. 1.) Korm. rendelet 4. § c) pontja, az 1/2025. (I. 23.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
 [^260]: A 39. § (7) bekezdése a 173/2009. (VIII. 29.) Korm. rendelet 12. §-ával megállapított, a 457/2017. (XII. 28.) Korm. rendelet 41. § 10. pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^261]: A 39. § (8) bekezdése a 212/2023. (VI. 1.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg.
 [^262]: A 39. § (9) bekezdése a 173/2009. (VIII. 29.) Korm. rendelet 66. § (1) bekezdés 16. pontja, a 212/2023. (VI. 1.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.

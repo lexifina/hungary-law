@@ -1,27 +1,27 @@
-## A nemzetközi örökbefogadásra vonatkozó rendelkezések[^377]
+## A nemzetközi örökbefogadásra vonatkozó rendelkezések[^388]
 
-49. § (1)[^378] A külföldön szokásos tartózkodási hellyel rendelkező örökbe fogadni szándékozó személyre – a rokon és a szülő házastársa kivételével – az e rendelet örökbefogadásra vonatkozó szabályait a 49–51/A. §-ban foglalt eltérésekkel kell alkalmazni, ha az örökbefogadás következtében a gyermek végleges jelleggel más országba kerül.
+49. § (1)[^389] A külföldön szokásos tartózkodási hellyel rendelkező örökbe fogadni szándékozó személyre – a rokon és a szülő házastársa kivételével – az e rendelet örökbefogadásra vonatkozó szabályait a 49–51/A. §-ban foglalt eltérésekkel kell alkalmazni, ha az örökbefogadás következtében a gyermek végleges jelleggel más országba kerül.
 
-(2)[^379] Az örökbefogadásra irányuló kérelmet a külföldön szokásos tartózkodási hellyel rendelkező örökbe fogadni szándékozó személy – a (3) és a (4) bekezdésben meghatározott módon – a gyermek- és ifjúságpolitikáért felelős miniszterhez nyújtja be.
+(2)[^390] Az örökbefogadásra irányuló kérelmet a külföldön szokásos tartózkodási hellyel rendelkező örökbe fogadni szándékozó személy – a (3) bekezdésben meghatározott módon – a gyermek- és ifjúságpolitikáért felelős miniszterhez nyújtja be.
 
-(3)[^380] Ha az örökbe fogadni szándékozó személy szokásos tartózkodási helye olyan államban van, amely nem részese a (4) bekezdés szerinti egyezménynek, az örökbefogadásra irányuló kérelmét a magyar külképviselet konzuli tisztviselőjénél (a továbbiakban: konzuli tisztviselő) is benyújthatja, aki azt diplomáciai futárposta útján továbbítja a gyermek- és ifjúságpolitikáért felelős miniszternek.
+(3)[^391] A gyermekeknek a nemzetközi örökbefogadások terén való védelméről és az ilyen ügyekben történő együttműködésről szóló, Hágában, 1993. május 29. napján kelt Egyezmény (a továbbiakban: Hágai Örökbefogadási Egyezmény) részes államában szokásos tartózkodási hellyel rendelkező örökbe fogadni szándékozó személy örökbefogadás iránti kérelmét a szokásos tartózkodási helye szerinti államnak meghatalmazott testületénél nyújthatja be. Amennyiben az örökbe fogadni szándékozó személy szokásos tartózkodási helye szerinti állam nem rendelkezik meghatalmazott testülettel, az örökbefogadás iránti kérelmet a Hágai Örökbefogadási Egyezmény alapján kijelölt Központi Hatóságánál kell benyújtani.
 
-(4)[^381] Ha a külföldön szokásos tartózkodási hellyel rendelkező örökbe fogadni szándékozó személynek olyan államban van a szokásos tartózkodási helye, amely állam részese a gyermekeknek a nemzetközi örökbefogadások terén való védelméről és az ilyen ügyekben történő együttműködésről szóló, Hágában, 1993. május 29. napján kelt Egyezmények (a továbbiakban: Hágai Örökbefogadási Egyezmény), örökbefogadás iránti kérelmét a szokásos tartózkodási helye szerinti államnak a – Hágai Örökbefogadási Egyezmény alapján – kijelölt Központi Hatóságánál vagy meghatalmazott testületénél nyújtja be.
+(4)[^392] A (3) bekezdés szerinti meghatalmazott testület vagy Központi Hatóság az örökbefogadásra irányuló kérelmet a Hágai Örökbefogadási Egyezményben meghatározott dokumentumokkal együtt továbbítja a gyermek- és ifjúságpolitikáért felelős miniszternek mint a Hágai Örökbefogadási Egyezmény alapján kijelölt Központi Hatóságnak.
 
-(5)[^382] A (4) bekezdés szerinti Központi Hatóság (meghatalmazott testület) az örökbefogadásra irányuló kérelmet a Hágai Örökbefogadási Egyezményben meghatározott dokumentumokkal (jelentéssel) együtt továbbítja a gyermek- és ifjúságpolitikáért felelős miniszternek mint Magyarország vonatkozásában a Hágai Örökbefogadási Egyezmény alapján kijelölt Központi Hatóságnak.
+(5)[^393] A gyermek- és ifjúságpolitikáért felelős miniszter tájékoztatja az örökbe fogadni szándékozó személyt, illetve a (3) bekezdés szerinti meghatalmazott testületet vagy külföldi Központi Hatóságot az örökbe fogadni szándékozó személynek az egységes örökbefogadási nyilvántartásba vételéről.
 
-(6)[^383] A gyermek- és ifjúságpolitikáért felelős miniszter tájékoztatja az örökbe fogadni szándékozó személyt, illetve a Hágai Örökbefogadási Egyezmény alkalmazása esetén a (4) bekezdés szerinti Központi Hatóságot (meghatalmazott testületet) az örökbe fogadni szándékozó személynek az egységes örökbefogadási nyilvántartásba vételéről.
+(6)[^394] Abban az esetben, ha az örökbefogadásra irányuló kérelem hiányos, a gyermek- és ifjúságpolitikáért felelős miniszter – a (3) bekezdés szerinti meghatalmazott testületen vagy külföldi Központi Hatóságon keresztül – hiánypótlásra szólítja fel az örökbe fogadni szándékozó személyt.
 
-(7)[^384] Abban az esetben, ha az örökbefogadásra irányuló kérelem hiányos, a gyermek- és ifjúságpolitikáért felelős miniszter – a Hágai Örökbefogadási Egyezmény alkalmazása esetén a (4) bekezdés szerinti külföldi Központi Hatóságon (meghatalmazott testületen) keresztül – hiánypótlásra szólítja fel az örökbe fogadni szándékozó személyt.
+(7)[^395]
 
-(8)[^385]
+(8)[^396]
 
-[^377]: A 49. §-t megelőző alcím a 70/2014. (III. 13.) Korm. rendelet 37. § (1) bekezdésével megállapított szöveg.
-[^378]: A 49. § (1) bekezdése a 70/2014. (III. 13.) Korm. rendelet 37. § (2) bekezdésével megállapított szöveg.
-[^379]: A 49. § (2) bekezdése a 70/2014. (III. 13.) Korm. rendelet 37. § (2) bekezdésével megállapított, a 238/2022. (VI. 30.) Korm. rendelet 11. § 4. pontja szerint módosított szöveg.
-[^380]: A 49. § (3) bekezdése a 315/2005. (XII. 25.) Korm. rendelet 37. § (1) bekezdésével megállapított, a 251/2006. (XII. 6.) Korm. rendelet 21. § (6) bekezdése b) alpontjának bd) alpontja, a 173/2009. (VIII. 29.) Korm. rendelet 66. § (1) bekezdés 25. pontja, a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 27. pontja, a 238/2022. (VI. 30.) Korm. rendelet 11. § 5. pontja szerint módosított szöveg.
-[^381]: A 49. § (4) bekezdése a 315/2005. (XII. 25.) Korm. rendelet 37. § (1) bekezdésével megállapított, a 173/2009. (VIII. 29.) Korm. rendelet 66. § (1) bekezdés 26. pontja, a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 28. pontja szerint módosított szöveg.
-[^382]: A 49. § (5) bekezdése a 315/2005. (XII. 25.) Korm. rendelet 37. § (1) bekezdésével megállapított, a 173/2009. (VIII. 29.) Korm. rendelet 66. § (1) bekezdés 27. pontja, a 334/2011. (XII. 29.) Korm. rendelet 7. § a) pontja, a 238/2022. (VI. 30.) Korm. rendelet 11. § 5. pontja szerint módosított szöveg.
-[^383]: A 49. § (6) bekezdését a 315/2005. (XII. 25.) Korm. rendelet 37. § (2) bekezdése iktatta be, szövege a 173/2009. (VIII. 29.) Korm. rendelet 66. § (1) bekezdés 28. pontja, a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 29. pontja, a 238/2022. (VI. 30.) Korm. rendelet 11. § 6. pontja szerint módosított szöveg.
-[^384]: A 49. § (7) bekezdését a 315/2005. (XII. 25.) Korm. rendelet 37. § (2) bekezdése iktatta be, szövege a 441/2015. (XII. 28.) Korm. rendelet 22. § (5) bekezdésével megállapított, a 238/2022. (VI. 30.) Korm. rendelet 11. § 6. pontja szerint módosított szöveg.
-[^385]: A 49. § (8) bekezdését a 339/2007. (XII. 15.) Korm. rendelet 20. §-a iktatta be, hatályon kívül helyezte a 70/2014. (III. 13.) Korm. rendelet 87. § (1) bekezdés h) pontja.
+[^388]: A 49. §-t megelőző alcím a 70/2014. (III. 13.) Korm. rendelet 37. § (1) bekezdésével megállapított szöveg.
+[^389]: A 49. § (1) bekezdése a 70/2014. (III. 13.) Korm. rendelet 37. § (2) bekezdésével megállapított szöveg.
+[^390]: A 49. § (2) bekezdése a 70/2014. (III. 13.) Korm. rendelet 37. § (2) bekezdésével megállapított, a 238/2022. (VI. 30.) Korm. rendelet 11. § 4. pontja, az 1/2025. (I. 23.) Korm. rendelet 8. § c) pontja szerint módosított szöveg.
+[^391]: A 49. § (3) bekezdése az 1/2025. (I. 23.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^392]: A 49. § (4) bekezdése az 1/2025. (I. 23.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^393]: A 49. § (5) bekezdése az 1/2025. (I. 23.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^394]: A 49. § (6) bekezdését a 315/2005. (XII. 25.) Korm. rendelet 37. § (2) bekezdése iktatta be, szövege az 1/2025. (I. 23.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^395]: A 49. § (7) bekezdését a 315/2005. (XII. 25.) Korm. rendelet 37. § (2) bekezdése iktatta be, az 1/2025. (I. 23.) Korm. rendelet 8. § d) pontja hatályon kívül helyezte.
+[^396]: A 49. § (8) bekezdését a 339/2007. (XII. 15.) Korm. rendelet 20. §-a iktatta be, hatályon kívül helyezte a 70/2014. (III. 13.) Korm. rendelet 87. § (1) bekezdés h) pontja.

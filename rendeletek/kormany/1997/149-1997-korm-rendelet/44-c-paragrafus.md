@@ -1,6 +1,6 @@
-## Közvetlenül a születését követően az egészségügyi intézményben hagyott gyermek[^322]
+## Közvetlenül a születését követően az egészségügyi intézményben hagyott gyermek[^324]
 
-44/C. § (1) Az egészségügyi intézmény azt az anyát, aki a gyermekét hátrahagyva távozik az egészségügyi intézményből, a zárójelentésben tájékoztatja
+44/C. § (1)[^325] Az egészségügyi intézmény azt az anyát, aki közvetlenül a gyermek születését követően gyermekvédelmi jelzés miatt vagy anélkül gyermekét hátrahagyva távozik az egészségügyi intézményből, a zárójelentésben tájékoztatja
 
 a) a Ptk. 4:127. § (1) bekezdés e) pont eb) alpontja és 4:190. § (1) bekezdés d) pont db) alpontja szerinti jogkövetkezményekről és
 
@@ -8,7 +8,7 @@ b) arról, hogy az a) pont szerinti jogkövetkezmények nem állnak be, ha a gye
 
 ba) a gyermeket elviszi, vagy
 
-bb) írásban vagy jegyzőkönyvbe foglalva olyan tartalmú külön nyilatkozatot tesz az egészségügyi intézmény felé, hogy a gyermeket az egészségügyi intézményből el szándékozik vinni.
+bb)[^326] írásban vagy jegyzőkönyvbe foglalva olyan tartalmú külön nyilatkozatot tesz a gyámhivatal felé, hogy a gyermeket az egészségügyi intézményből el szándékozik vinni.
 
 (2) A Ptk. 4:127. § (1) bekezdés e) pont eb) alpontja szerinti gyermek esetén az egészségügyi intézmény mint a gyermekvédelmi jelzőrendszer tagja a Gyvt. 17. § (2) bekezdés b) pontjában foglalt kötelezettségének eleget téve haladéktalanul, de legkésőbb 1 munkanapon belül eljárást kezdeményez a gyermek születési helye szerint illetékes kijelölt gyámhivatalnál (a továbbiakban: illetékes kijelölt gyámhivatal).
 
@@ -20,11 +20,13 @@ b) arról, hogy az a) pont szerinti jogkövetkezmények nem állnak be, ha a gye
 
 ba) a gyermeket elviszi, vagy
 
-bb) írásban vagy jegyzőkönyvbe foglalva olyan tartalmú külön nyilatkozatot tesz az egészségügyi intézmény felé, hogy a gyermeket az egészségügyi intézményből el szándékozik vinni.
+bb)[^327] írásban vagy jegyzőkönyvbe foglalva olyan tartalmú külön nyilatkozatot tesz a gyámhivatal felé, hogy a gyermeket az egészségügyi intézményből el szándékozik vinni.
 
-(4) Az illetékes kijelölt gyámhivatal az eljárás megindítását követően a székhelye szerinti gyermekvédelmi szakszolgálattól haladéktalanul javaslatot kér a gyermekvédelmi gyám, valamint a helyettes gyermekvédelmi gyám személyére.
+(4)[^328] Az illetékes kijelölt gyámhivatal az eljárás megindítását követően a székhelye szerinti gyermekvédelmi szakszolgálattól haladéktalanul javaslatot kér a gyermekvédelmi gyám, valamint a helyettes gyermekvédelmi gyám személyére, és értesíti az anya, valamint ha ismert, az apa lakóhelye szerinti gyámhivatalt az eljárás elindításáról.
 
-(5) Ha a Ptk. 4:127. § (1) bekezdés e) pont eb) alpontja szerinti gyermek szülője vagy más hozzátartozója az anya kórházi zárójelentése kiállításának napjától számított hat héten belül a gyermeket az egészségügyi intézményből nem viszi el, illetve írásban vagy jegyzőkönyvbe mondva nem tesz olyan tartalmú külön nyilatkozatot az egészségügyi intézmény felé, hogy a gyermeket az egészségügyi intézményből el szándékozik vinni, az illetékes kijelölt gyámhivatal azonnal végrehajtható határozatával
+(4a)[^329] Amennyiben a hathetes időtartam alatt a szülő vagy a gyermek hozzátartozója nyilatkozatában kifejezi, hogy a gyermeket saját családjában nevelni szeretné, akkor a gyámhivatal a nyilatkozattételről soron kívül, de legkésőbb három napon belül a jegyzőkönyv megküldésével értesíti a gyermek születési helye szerint kijelölt gyámhivatalt, valamint azt az egészségügyi intézményt, ahol a gyermek született.
+
+(5)[^330] Ha a Ptk. 4:127. § (1) bekezdés e) pont eb) alpontja szerinti gyermek szülője vagy más hozzátartozója az anya kórházi zárójelentése kiállításának napjától számított hat héten belül a gyermeket az egészségügyi intézményből nem viszi el, illetve írásban vagy jegyzőkönyvbe mondva nem tesz olyan tartalmú külön nyilatkozatot a gyámhivatal felé, hogy a gyermeket az egészségügyi intézményből el szándékozik vinni, az illetékes kijelölt gyámhivatal azonnal végrehajtható határozatával
 
 a) megteszi a 44/A. § (3) bekezdése szerinti intézkedést,
 
@@ -38,10 +40,17 @@ c) a 127. § (3) bekezdése szerint a gyermek részére gyermekvédelmi gyámot,
 
 (8) Az illetékes kijelölt gyámhivatal – a közvetlenül a születését követően az egészségügyi intézményben hagyott gyermek ügyében indult eljárás megszüntetésével és egyidejűleg az iratok megküldésével – felhívja az illetékes gyámhivatalt a gyermek veszélyeztetettségének megszüntetésére, illetve nevelésbe vétele ügyében szükséges intézkedések megtételére, ha
 
-a) a szülő vagy a gyermek más hozzátartozója az anya kórházi zárójelentése kiállításának napjától számított hat héten belül a gyermeket elvitte, illetve írásban vagy jegyzőkönyvbe mondva olyan tartalmú nyilatkozatot tett az egészségügyi intézmény felé, hogy a gyermeket az egészségügyi intézményből el szándékozik vinni vagy
+a)[^331] a szülő vagy a gyermek más hozzátartozója az anya kórházi zárójelentése kiállításának napjától számított hat héten belül a gyermeket elvitte, illetve írásban vagy jegyzőkönyvbe mondva olyan tartalmú nyilatkozatot tett a gyámhivatal felé, hogy a gyermeket az egészségügyi intézményből el szándékozik vinni vagy
 
 b) nincs a gyermek örökbefogadására jelentkező személy.
 
 (9) Az (1)–(8) bekezdés nem alkalmazható, ha a gyermek további egészségügyi intézményben tartózkodását az egészségi állapota indokolja, és az anya az egészségügyi intézménnyel egyeztetve távozik onnan.
 
-[^322]: A „Közvetlenül a születését követően az egészségügyi intézményben hagyott gyermek” alcímet (44/C. §-t) a 192/2024. (VII. 8.) Korm. rendelet 3. §-a iktatta be.
+[^324]: A „Közvetlenül a születését követően az egészségügyi intézményben hagyott gyermek” alcímet (44/C. §-t) a 192/2024. (VII. 8.) Korm. rendelet 3. §-a iktatta be.
+[^325]: A 44/C. § (1) bekezdés nyitó szövegrésze az 1/2025. (I. 23.) Korm. rendelet 7. § d) pontja szerint módosított szöveg.
+[^326]: A 44/C. § (1) bekezdés b) pont bb) alpontja az 1/2025. (I. 23.) Korm. rendelet 7. § e) pontja szerint módosított szöveg.
+[^327]: A 44/C. § (3) bekezdés b) pont bb) alpontja az 1/2025. (I. 23.) Korm. rendelet 7. § e) pontja szerint módosított szöveg.
+[^328]: A 44/C. § (4) bekezdése az 1/2025. (I. 23.) Korm. rendelet 7. § f) pontja szerint módosított szöveg.
+[^329]: A 44/C. § (4a) bekezdését az 1/2025. (I. 23.) Korm. rendelet 2. §-a iktatta be.
+[^330]: A 44/C. § (5) bekezdés nyitó szövegrésze az 1/2025. (I. 23.) Korm. rendelet 7. § e) pontja szerint módosított szöveg.
+[^331]: A 44/C. § (8) bekezdés a) pontja az 1/2025. (I. 23.) Korm. rendelet 7. § e) pontja szerint módosított szöveg.

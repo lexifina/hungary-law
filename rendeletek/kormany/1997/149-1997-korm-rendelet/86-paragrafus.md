@@ -1,4 +1,4 @@
-86. §[^689] (1) A gyámhivatal a védelembe vétel iránti eljárás során tárgyalást tart. A tárgyalás tartása mellőzhető, ha a gyámhivatal rendelkezésére álló információk, így különösen a család- és gyermekjóléti központ 84. § (2) bekezdése szerinti javaslata alapján a gyermek veszélyeztetettsége nem áll fenn.
+86. §[^700] (1) A gyámhivatal a védelembe vétel iránti eljárás során tárgyalást tart. A tárgyalás tartása mellőzhető, ha a gyámhivatal rendelkezésére álló információk, így különösen a család- és gyermekjóléti központ 84. § (2) bekezdése szerinti javaslata alapján a gyermek veszélyeztetettsége nem áll fenn.
 
 (2) A tárgyalást úgy kell megtartani, hogy
 
@@ -16,4 +16,4 @@ c) azt a védelembe vételt segítő személyt, akire a család- és gyermekjól
 
 (4) Az eljárás során a gyermeket, a szülőt, a családbafogadó gyámot és a védelembe vételt segítő személyt nyilatkoztatni kell arról, hogy vállalják-e a család- és gyermekjóléti szolgálattal, valamint a család- és gyermekjóléti központtal az alapellátás keretében való együttműködést. A nyilatkozattétel előtt a gyermeket, a szülőt és a családbafogadó gyámot figyelmeztetni kell az együttműködés hiányában alkalmazható jogkövetkezményekre.
 
-[^689]: A 86. § a 194/2024. (VII. 8.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^700]: A 86. § a 194/2024. (VII. 8.) Korm. rendelet 8. §-ával megállapított szöveg.
