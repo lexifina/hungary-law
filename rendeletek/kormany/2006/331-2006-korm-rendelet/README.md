@@ -47,3 +47,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-331-20-
 | 2023-03-07 | 2006-331-20-22.46 | 70/2015. (III. 30.) Korm. rendelet |
 | 2024-01-01 | 2006-331-20-22.48 | 174/2012. (VII. 26.) Korm. rendelet |
 | 2024-07-09 | 2006-331-20-22.49 | 194/2024. (VII. 8.) Korm. rendelet |
+| 2025-01-24 | 2006-331-20-22.50 | 1/2025. (I. 23.) Korm. rendelet |
