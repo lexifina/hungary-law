@@ -1,1 +1,3 @@
-4. § Hatályát veszti a környezetvédelmi és természetvédelmi hatósági eljárások igazgatási szolgáltatási díjairól szóló 14/2015. (III. 31.) FM rendelet 1. melléklet szerinti táblázat 1–13. fősorszámú sora, és 20. fősorszámú sora.
+4. §[^1]
+
+[^1]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
