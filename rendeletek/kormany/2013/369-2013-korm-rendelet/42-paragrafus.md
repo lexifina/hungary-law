@@ -1,12 +1,12 @@
 42. § (1) A jogsértés és a jogkövetkezmények jellegének, valamint a jogsértés súlyának megfelelően egyidejűleg több jogkövetkezmény is megállapítható.
 
-(2)[^137] A hatósági szerződésben a 41. § (2) bekezdése szerinti jogkövetkezmények köthetők ki.
+(2)[^138] A hatósági szerződésben a 41. § (2) bekezdése szerinti jogkövetkezmények köthetők ki.
 
 (3) A jogsértés jellegétől és súlyától függően, az ellátottak érdekeinek figyelembevételével a 41. § (2) bekezdés a) pontja alapján történő ideiglenes hatályú bejegyzés hatálya egy alkalommal, legfeljebb egy évvel meghosszabbítható.
 
 (4) Újabb ellátottak felvétele a 41. § (2) bekezdés c) pontjában foglaltaktól eltérő időpontig is megtiltható, ha az egyidejűleg alkalmazott más jogkövetkezmény azt indokolja. Ha a tilalmat megszegik, a működést engedélyező szerv a 41. § (2) bekezdésében meghatározott más jogkövetkezményt alkalmazhat.
 
-(5)[^138] A működést engedélyező szerv az egyházi fenntartót és a nem állami fenntartót megillető költségvetési támogatást engedélyesenként egy naptári évben legfeljebb kétszer tarthatja vissza. A működést engedélyező szerv a költségvetési támogatás visszatartását és a visszatartott összeg kiutalhatóságát elrendelő véglegessé vált határozatát közli az igazgatósággal. Az igazgatóság a költségvetési támogatást a véglegessé vált határozat vele való közlését követő első esedékes utalástól kezdődően tartja vissza, illetve a visszatartott összeget – annak kiutalhatósága esetén – az első esedékes utaláskor folyósítja.
+(5)[^139] A működést engedélyező szerv az egyházi fenntartót és a nem állami fenntartót megillető költségvetési támogatást engedélyesenként egy naptári évben legfeljebb kétszer tarthatja vissza. A működést engedélyező szerv a költségvetési támogatás visszatartását és a visszatartott összeg kiutalhatóságát elrendelő véglegessé vált határozatát közli az igazgatósággal. Az igazgatóság a költségvetési támogatást a véglegessé vált határozat vele való közlését követő első esedékes utalástól kezdődően tartja vissza, illetve a visszatartott összeget – annak kiutalhatósága esetén – az első esedékes utaláskor folyósítja.
 
 (6) A működést engedélyező szerv a hajléktalan személyek nappali ellátása, az éjjeli menedékhely és a hajléktalan személyek átmeneti szállása esetén téli időszakban akkor
 
@@ -22,17 +22,17 @@ ha az engedélyes személyi, tárgyi feltételei vagy működése az ellátottak
 
 (7) Az engedélyes épületének lezárt része szolgáltatáshoz akkor használható, ha a működést engedélyező szerv a lezárást – az arra okot adó körülmény megszűnése esetén – a fenntartó kérelmére megszünteti.
 
-(8)[^139] Ha a fenntartó igazolja, hogy házi segítségnyújtás esetén a felülvizsgálatot megelőző hat hónapon belül bekövetkezett állapotváltozás miatt módosult az ellátott gondozási szükséglete, a fenntartó és a működést engedélyező szerv a megállapított gondozási szükségletet az állapotváltozás időpontjától kezdődően módosítja.
+(8)[^140] Ha a fenntartó igazolja, hogy házi segítségnyújtás esetén a felülvizsgálatot megelőző hat hónapon belül bekövetkezett állapotváltozás miatt módosult az ellátott gondozási szükséglete, a fenntartó és a működést engedélyező szerv a megállapított gondozási szükségletet az állapotváltozás időpontjától kezdődően módosítja.
 
-(9)[^140] Ha a fenntartó házi segítségnyújtás esetén nem igazolja a felülvizsgálatot megelőző hat hónapon belül bekövetkezett állapotváltozást, és a felülvizsgálat alapján az ellátott személyi gondozása helyett szociális segítés indokolt, a megállapított gondozási szükségletet hat hónapra visszamenőlegesen kell módosítani.
+(9)[^141] Ha a fenntartó házi segítségnyújtás esetén nem igazolja a felülvizsgálatot megelőző hat hónapon belül bekövetkezett állapotváltozást, és a felülvizsgálat alapján az ellátott személyi gondozása helyett szociális segítés indokolt, a megállapított gondozási szükségletet hat hónapra visszamenőlegesen kell módosítani.
 
-(10)[^141] Ha a fenntartó házi segítségnyújtás esetén nem igazolja a felülvizsgálatot megelőző hat hónapon belül bekövetkezett állapotváltozást, a (9) bekezdésben nem említett esetben a fenntartói felülvizsgálat időpontjától, illetve a működést engedélyező szerv felülvizsgálatról szóló határozatának véglegessé válásától kezdődően kell a megállapított gondozási szükségletet módosítani.
+(10)[^142] Ha a fenntartó házi segítségnyújtás esetén nem igazolja a felülvizsgálatot megelőző hat hónapon belül bekövetkezett állapotváltozást, a (9) bekezdésben nem említett esetben a fenntartói felülvizsgálat időpontjától, illetve a működést engedélyező szerv felülvizsgálatról szóló határozatának véglegessé válásától kezdődően kell a megállapított gondozási szükségletet módosítani.
 
-(11)[^142] A működést engedélyező szerv a 41. § (3) bekezdése szerinti esetben a második felszólítással egyidejűleg megkeresi a Főigazgatóságot a nevelőszülői ellátás folyamatos biztosításának megszervezése és a nevelőszülők más működtető általi továbbfoglalkoztatásának elősegítése érdekében. Ha a működést engedélyező szerv egyéb esetben a jogsértés folytatása esetén várhatóan törölni fogja az engedélyest a szolgáltatói nyilvántartásból, és kötelezni fogja a fenntartót a szolgáltatásnyújtás megszüntetésére, haladéktalanul megkeresi a Főigazgatóságot a szolgáltatás folyamatos biztosításának megszervezése érdekében.
+(11)[^143] A működést engedélyező szerv a 41. § (3) bekezdése szerinti esetben a második felszólítással egyidejűleg megkeresi a Főigazgatóságot a nevelőszülői ellátás folyamatos biztosításának megszervezése és a nevelőszülők más működtető általi továbbfoglalkoztatásának elősegítése érdekében. Ha a működést engedélyező szerv egyéb esetben a jogsértés folytatása esetén várhatóan törölni fogja az engedélyest a szolgáltatói nyilvántartásból, és kötelezni fogja a fenntartót a szolgáltatásnyújtás megszüntetésére, haladéktalanul megkeresi a Főigazgatóságot a szolgáltatás folyamatos biztosításának megszervezése érdekében.
 
-(12)[^143] Területi gyermekvédelmi szakszolgáltatás esetén a működést engedélyező szerv a 40. § (1) bekezdés d) pontja, g) pont ga), gc)–ge) alpontja és h) pontja, valamint a 41. § (2) bekezdés b), d), k), l) és q) pontja szerinti jogkövetkezményeket alkalmazhatja.
+(12)[^144] Területi gyermekvédelmi szakszolgáltatás esetén a működést engedélyező szerv a 40. § (1) bekezdés d) pontja, g) pont ga), gc)–ge) alpontja és h) pontja, valamint a 41. § (2) bekezdés b), d), k), l) és q) pontja szerinti jogkövetkezményeket alkalmazhatja.
 
-(13)[^144] A működést engedélyező szerv a gyermekvédelmi és gyámügyi feladat- és hatáskörök ellátásáról, valamint a gyámhatóság szervezetéről és illetékességéről szóló 331/2006. (XII. 23.) Korm. rendelet 20/B. § (3) bekezdés b) pontja szerinti értesítés alapján
+(13)[^145] A működést engedélyező szerv a gyermekvédelmi és gyámügyi feladat- és hatáskörök ellátásáról, valamint a gyámhatóság szervezetéről és illetékességéről szóló 331/2006. (XII. 23.) Korm. rendelet 20/B. § (3) bekezdés b) pontja szerinti értesítés alapján
 
 a) alkalmazza a jelen alcím szerinti jogkövetkezményeket,
 
@@ -40,11 +40,11 @@ b) a hatályban lévő jogkövetkezményeket módosítja, vagy
 
 c) megállapítja, hogy az a) és b) pont szerinti intézkedések megtétele nem indokolt.
 
-[^137]: A 42. § (2) bekezdése a 353/2014. (XII. 29.) Korm. rendelet 72. §-ával megállapított szöveg.
-[^138]: A 42. § (5) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 457. § 11. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^139]: A 42. § (8) bekezdését a 419/2015. (XII. 23.) Korm. rendelet 36. §-a iktatta be.
-[^140]: A 42. § (9) bekezdését a 419/2015. (XII. 23.) Korm. rendelet 36. §-a iktatta be.
-[^141]: A 42. § (10) bekezdését a 419/2015. (XII. 23.) Korm. rendelet 36. §-a iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 457. § 12. pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^142]: A 42. § (11) bekezdését a 10/2021. (I. 20.) Korm. rendelet 18. §-a iktatta be.
-[^143]: A 42. § (12) bekezdését a 194/2024. (VII. 8.) Korm. rendelet 34. §-a iktatta be.
-[^144]: A 42. § (13) bekezdését a 194/2024. (VII. 8.) Korm. rendelet 34. §-a iktatta be.
+[^138]: A 42. § (2) bekezdése a 353/2014. (XII. 29.) Korm. rendelet 72. §-ával megállapított szöveg.
+[^139]: A 42. § (5) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 457. § 11. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^140]: A 42. § (8) bekezdését a 419/2015. (XII. 23.) Korm. rendelet 36. §-a iktatta be.
+[^141]: A 42. § (9) bekezdését a 419/2015. (XII. 23.) Korm. rendelet 36. §-a iktatta be.
+[^142]: A 42. § (10) bekezdését a 419/2015. (XII. 23.) Korm. rendelet 36. §-a iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 457. § 12. pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^143]: A 42. § (11) bekezdését a 10/2021. (I. 20.) Korm. rendelet 18. §-a iktatta be.
+[^144]: A 42. § (12) bekezdését a 194/2024. (VII. 8.) Korm. rendelet 34. §-a iktatta be.
+[^145]: A 42. § (13) bekezdését a 194/2024. (VII. 8.) Korm. rendelet 34. §-a iktatta be.

@@ -45,3 +45,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-369-20-
 | 2024-10-01 | 2013-369-20-22.38 | 258/2024. (VIII. 29.) Korm. rendelet |
 | 2025-01-01 | 2013-369-20-22.36 | 104/2024. (V. 9.) Korm. rendelet |
 | 2025-01-16 | 2013-369-20-22.39 | 353/2014. (XII. 29.) Korm. rendelet |
+| 2025-01-24 | 2013-369-20-22.40 | 1/2025. (I. 23.) Korm. rendelet |

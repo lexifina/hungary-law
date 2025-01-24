@@ -1,4 +1,4 @@
-5. melléklet a 369/2013. (X. 24.) Korm. rendelethez[^190]
+5. melléklet a 369/2013. (X. 24.) Korm. rendelethez[^191]
 
 Az engedélyes bejegyzése iránti kérelemhez csatolandó iratok
 
@@ -114,4 +114,4 @@ Az engedélyes bejegyzése iránti kérelemhez csatolandó iratok
 
 3.3.3. a 2.1.5. és a 2.1.6. pont szerinti iratot abban az esetben kell csatolni, ha az engedélyes által nyújtott szolgáltatásra megkötött ellátási szerződés, illetve az Szt. 90. § (4) bekezdése szerinti megállapodás az időszakos férőhelyekre nem terjedt ki.
 
-[^190]: Az 5. melléklet a 457/2017. (XII. 28.) Korm. rendelet 456. §-ával megállapított, a 226/2018. (XII. 4.) Korm. rendelet 16. § c) pontja, a 305/2018. (XII. 27.) Korm. rendelet 19. § d) és e) pontja, a 232/2019. (X. 4.) Korm. rendelet 16. §-a, a 360/2019. (XII. 30.) Korm. rendelet 123. § (3) bekezdése, (4) bekezdés e)–f) pontja és (5) bekezdés b) pontja, a 194/2024. (VII. 8.) Korm. rendelet 36. § b) pontja szerint módosított szöveg.
+[^191]: Az 5. melléklet a 457/2017. (XII. 28.) Korm. rendelet 456. §-ával megállapított, a 226/2018. (XII. 4.) Korm. rendelet 16. § c) pontja, a 305/2018. (XII. 27.) Korm. rendelet 19. § d) és e) pontja, a 232/2019. (X. 4.) Korm. rendelet 16. §-a, a 360/2019. (XII. 30.) Korm. rendelet 123. § (3) bekezdése, (4) bekezdés e)–f) pontja és (5) bekezdés b) pontja, a 194/2024. (VII. 8.) Korm. rendelet 36. § b) pontja szerint módosított szöveg.
