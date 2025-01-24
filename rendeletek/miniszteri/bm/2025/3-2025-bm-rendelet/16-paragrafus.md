@@ -1,1 +1,3 @@
-16. § Az Elektronikus Egészségügyi Szolgáltatási Térrel kapcsolatos részletes szabályokról szóló 39/2016. (XII. 21.) EMMI rendelet 2. § (1a) bekezdésében az „egészségügyi szolgáltató” szövegrész helyébe az „egészségügyi szolgáltató, valamint az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény 13. § (1) bekezdése szerinti engedély jogosultja” szöveg lép.
+16. §[^3]
+
+[^3]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
