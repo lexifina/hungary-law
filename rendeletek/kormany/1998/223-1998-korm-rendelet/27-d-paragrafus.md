@@ -1,3 +1,3 @@
-27/D. §[^242]
+27/D. §[^239]
 
-[^242]: A 27/D. §-t a 211/1999. (XII. 26.) Korm. rendelet 5. §-a iktatta be, hatályon kívül helyezte a 176/2009. (VIII. 29.) Korm. rendelet 19. § (4) bekezdésének n) pontja.
+[^239]: A 27/D. §-t a 211/1999. (XII. 26.) Korm. rendelet 5. §-a iktatta be, hatályon kívül helyezte a 176/2009. (VIII. 29.) Korm. rendelet 19. § (4) bekezdésének n) pontja.

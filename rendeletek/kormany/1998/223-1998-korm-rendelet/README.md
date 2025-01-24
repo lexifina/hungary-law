@@ -51,3 +51,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-223-20-
 | 2024-01-01 | 1998-223-20-22.68 | 628/2023. (XII. 23.) Korm. rendelet |
 | 2024-07-01 | 1998-223-20-22.67 | 212/2023. (VI. 1.) Korm. rendelet |
 | 2025-01-10 | 1998-223-20-22.69 | 388/2024. (XII. 11.) Korm. rendelet |
+| 2025-01-24 | 1998-223-20-22.70 | 394/2007. (XII. 27.) Korm. rendelet |

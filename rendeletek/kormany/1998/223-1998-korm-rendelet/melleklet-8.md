@@ -1,4 +1,4 @@
-8. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^284]
+8. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^281]
 
 A szociális biztonsági rendszerek koordinációjáról szóló közösségi rendeletek hatálya alá tartozó személyek családtámogatási ellátásra való jogosultságának megállapításához szükséges formanyomtatvány adattartalma
 
@@ -16,9 +16,9 @@ A szociális biztonsági rendszerek koordinációjáról szóló közösségi re
 
 1.3 nyilatkozat arról, hogy a kérelmező kiküldetésben foglalkoztatott-e; amennyiben igen, a kiküldő munkáltató megnevezése, címe.
 
-1.4.[^285] nyilatkozat egyedülállóságról.
+1.4.[^282] nyilatkozat egyedülállóságról.
 
-2.[^286] A kérelmező házastársával, bejegyzett élettárásával, élettársával, és ha ismert, a gyermek(ek)től külön élő szülővel kapcsolatos adatok
+2.[^283] A kérelmező házastársával, bejegyzett élettárásával, élettársával, és ha ismert, a gyermek(ek)től külön élő szülővel kapcsolatos adatok
 
 2.1 életvitelszerű tartózkodási hely;
 
@@ -50,6 +50,6 @@ A szociális biztonsági rendszerek koordinációjáról szóló közösségi re
 
 3.5.2 életvitelszerű tartózkodási helye.
 
-[^284]: A 8. számú mellékletet a 340/2008. (XII. 30.) Korm. rendelet 9. § (2) bekezdése iktatta be, szövege a 236/2012. (VIII. 30.) Korm. rendelet 17. § e) pontjával megállapított szöveg.
-[^285]: A 8. számú melléklet 1.4. pontját a 388/2024. (XII. 11.) Korm. rendelet 1. §-a iktatta be.
-[^286]: A 8. számú melléklet 2. pontja a 388/2024. (XII. 11.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^281]: A 8. számú mellékletet a 340/2008. (XII. 30.) Korm. rendelet 9. § (2) bekezdése iktatta be, szövege a 236/2012. (VIII. 30.) Korm. rendelet 17. § e) pontjával megállapított szöveg.
+[^282]: A 8. számú melléklet 1.4. pontját a 388/2024. (XII. 11.) Korm. rendelet 1. §-a iktatta be.
+[^283]: A 8. számú melléklet 2. pontja a 388/2024. (XII. 11.) Korm. rendelet 1. §-a szerint módosított szöveg.
