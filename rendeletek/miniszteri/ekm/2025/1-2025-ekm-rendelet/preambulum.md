@@ -1,0 +1,1 @@
+A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény 88. § (2) bekezdés 3. pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 95. § 8. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
