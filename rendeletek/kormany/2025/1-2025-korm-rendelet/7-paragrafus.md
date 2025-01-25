@@ -1,34 +1,46 @@
 7. § A Gyer.
 
-a) 37. § (1) bekezdésében a „gyámhivatal” szövegrész helyébe a „kijelölt gyámhivatal” szöveg,
+a)[^7]
 
-b) 37. § (1c) bekezdésében az „illetékes gyámhivatallal és” szövegrész helyébe az „illetékes gyámhivatallal, a gyermek vér szerinti családját gondozó gyermekjóléti szolgálattal és” szöveg,
+b)[^8]
 
-c) 39. § (6) bekezdésében a „jogerőre emelkedésének” szövegrész helyébe a „véglegessé válásának” szöveg,
+c)[^9]
 
-d) 44/C. § (1) bekezdésében az „aki a gyermekét” szövegrész helyébe az „aki közvetlenül a gyermek születését követően gyermekvédelmi jelzés miatt vagy anélkül gyermekét” szöveg,
+d)[^10]
 
-e) 44/C. § (1) bekezdés b) pont bb) alpontjában, (3) bekezdés b) pont bb) alpontjában, (5) bekezdés nyitó szövegrészében, (8) bekezdés a) pontjában az „az egészségügyi intézmény felé” szövegrész helyébe az „a gyámhivatal felé” szöveg,
+e)[^11]
 
-f) 44/C. § (4) bekezdésében a „személyére.” szövegrész helyébe a „személyére, és értesíti az anya, valamint ha ismert, az apa lakóhelye szerinti gyámhivatalt az eljárás elindításáról.” szöveg,
+f)[^12]
 
-g)[^1]
+g)[^13]
 
-h)[^2]
+h)[^14]
 
-i) 45. § (2) bekezdésében a „határozatban” szövegrész helyébe a „végzésben” szöveg,
+i)[^15]
 
-j) 48. § (1) bekezdés a) pontjában a „szüleit is” szövegrész helyébe a „szüleit is, ha az a gyermek érdekében áll,” szöveg,
+j)[^16]
 
-k) 51. § (4) bekezdés b) pontjában az „a külföldi Központi Hatóság (meghatalmazott testület)” szövegrész helyébe az „a meghatalmazott testület vagy külföldi Központi Hatóság” szöveg,
+k)[^17]
 
-l) a „Külföldi állampolgárságú gyermek örökbefogadására vonatkozó rendelkezések” alcím címében a „Külföldi állampolgárságú gyermek” szövegrész helyébe az „A külföldi állampolgárságú és külföldön szokásos tartózkodási hellyel rendelkező gyermek” szöveg,
+l)[^18]
 
-m) 95. § (1) bekezdés f) pontjában az „e) pont eb) alpontjában” szövegrész helyébe az „e) pontjában” szöveg,
+m)[^19]
 
-n) 130/A. § (1) bekezdés e) pontjában az „az örökbefogadás felbontására” szövegrész helyébe az „az örökbefogadás engedélyezésére és felbontására” szöveg
+n)[^20]
 
 lép.
 
-[^1]: A 7. § g) pontja a 17. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
-[^2]: A 7. § h) pontja a 17. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+[^7]: A 7. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 7. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 7. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 7. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 7. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 7. § f) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 7. § g) pontja a 17. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+[^14]: A 7. § h) pontja a 17. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+[^15]: A 7. § i) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 7. § j) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 7. § k) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 7. § l) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 7. § m) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 7. § n) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

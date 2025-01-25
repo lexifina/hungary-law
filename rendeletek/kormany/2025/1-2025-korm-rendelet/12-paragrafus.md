@@ -1,1 +1,3 @@
-12. § Hatályát veszti a Cst. vhr. 10/A. §-a.
+12. §[^25]
+
+[^25]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

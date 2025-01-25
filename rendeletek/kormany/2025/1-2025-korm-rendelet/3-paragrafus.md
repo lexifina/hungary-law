@@ -1,3 +1,3 @@
-3. § A Gyer. 45. § (5) bekezdése a következő f) ponttal egészül ki:
+3. §[^3]
 
-(Nem kell a kötelező gondozásba történő kihelyezésről rendelkezni, azonban a kijelölt gyámhivatal az örökbefogadási eljárás során környezettanulmányt végez vagy szerez be, ha)
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
