@@ -4,6 +4,6 @@
 
 ## [3] A Kormány az Alaptörvény 15. cikk (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A Magyar Államkincstárról szóló 310/2017. (X. 31.) Korm. rendelet 2. § (2) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(2) Az elnök kinevezésének szakmai és képesítési feltételeit a miniszter határozza meg.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

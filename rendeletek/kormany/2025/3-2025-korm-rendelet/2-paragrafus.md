@@ -1,3 +1,3 @@
-2. § A Magyar Államkincstárról szóló 310/2017. (X. 31.) Korm. rendelet 3. § (2) bekezdése helyébe a következő rendelkezés lép:
+2. §[^3]
 
-„(2) Az elnökhelyettesek kinevezésének szakmai és képesítési feltételeit a miniszter határozza meg.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
