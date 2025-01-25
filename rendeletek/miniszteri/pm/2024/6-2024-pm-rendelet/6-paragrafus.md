@@ -1,5 +1,0 @@
-## 5. A könyvviteli szolgáltatást végzők, az adótanácsadók, az adószakértők és az okleveles adószakértők nyilvántartásba vételével és továbbképzésével összefüggő eljárásokért fizetendő igazgatási szolgáltatási díjról szóló 17/2018. (XII. 20.) PM rendelet módosítása
-
-6. §[^7]
-
-[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
