@@ -1,0 +1,1 @@
+4. § Az Áfa tv. 192. § (2) bekezdésétől eltérően az adóalany az alanyi adómentesség 2025. évre történő választására vonatkozó, az Áfa tv. 192. § (1) bekezdése szerinti nyilatkozatát 2025. február 28-ig teheti meg.
