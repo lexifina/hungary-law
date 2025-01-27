@@ -2,6 +2,6 @@
 
 ## [2] A Kormány a sportról szóló 2004. évi I. törvény 79. § (1) bekezdés b) pont bg) alpontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A sportorvoslás szabályairól és a sportegészségügyi hálózatról szóló 215/2004. (VII. 13.) Korm. rendelet (a továbbiakban: R.) 6. §-a a következő (4) bekezdéssel egészül ki:
+1. §[^2]
 
-„(4) Nem szükséges a versenyzéshez sportorvosi engedély azon repülő- és légisport sportágak versenyzői esetében, akik érvényes repülőorvosi vizsgálattal rendelkeznek.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

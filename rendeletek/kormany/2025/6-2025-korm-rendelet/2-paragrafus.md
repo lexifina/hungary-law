@@ -1,1 +1,3 @@
-2. § Az R. 6. § (1) és (2) bekezdésében a „(3) bekezdésben” szövegrész helyébe a „(3) és (4) bekezdésben” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
