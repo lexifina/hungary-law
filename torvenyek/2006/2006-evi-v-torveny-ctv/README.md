@@ -73,3 +73,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-5-00-00
 | 2024-09-01 | 2024. évi XII. törvény | 2006-5-00-00.91 |
 | 2025-01-01 | 2024. évi LVI. törvény | 2006-5-00-00.93 |
 | 2025-01-15 | 2021. évi CXLVI. törvény | 2006-5-00-00.94 |
+| 2025-01-28 | 2024. évi LVI. törvény | 2006-5-00-00.95 |

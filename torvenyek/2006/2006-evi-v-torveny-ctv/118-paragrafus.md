@@ -1,12 +1,12 @@
 118. § (1) Ha a cégbíróság azt állapítja meg, hogy a céggel szemben követelés bejelentésére nem került sor, valamint a cég vagyonával kapcsolatos bejelentés vagy adatszolgáltatás nem érkezett, a cégbíróság – a 62. § (4) bekezdése figyelembevételével – a céget – a 116. § (1) bekezdés d) pontja szerinti esetben eltiltás mellőzése mellett – törli a cégjegyzékből.
 
-(2) Ha a céggel szemben a (3) bekezdés szerinti mértéket el nem érő összértékű követelés bejelentésére került sor, azonban a 117. § szerinti bejelentés, illetve a vagyonfelmérés adatai alapján a cég vagyontalan vagy a vagyona nem éri el a 400 000 forintot, a cégbíróság – a 62. § (4) bekezdése figyelembevételével – a céget törli a cégjegyzékből és rendelkezik az eltiltásról. A vezető tisztségviselő köteles gondoskodni a cég iratanyagának elhelyezéséről.
+(2) Ha a céggel szemben a (3) bekezdés szerinti mértéket el nem érő összértékű követelés bejelentésére került sor, azonban a 117. § szerinti bejelentés, illetve a vagyonfelmérés adatai alapján a cég vagyontalan vagy a vagyona nem éri el az 1 000 000 forintot, a cégbíróság – a 62. § (4) bekezdése figyelembevételével – a céget törli a cégjegyzékből és rendelkezik az eltiltásról. A vezető tisztségviselő köteles gondoskodni a cég iratanyagának elhelyezéséről.
 
 (3) A cégbíróság a kényszertörlési eljárást megszünteti, és kezdeményezi a cég ellen a felszámolási eljárás megindítását azzal, hogy a 117. § (7) bekezdése szerinti költségek viselésére a céget kötelezi, ha
 
-a) a céggel szemben bejelentett követelések összértéke eléri a 400 000 forintot, vagy
+a) a céggel szemben bejelentett követelések összértéke eléri az 1 000 000 forintot, vagy
 
-b) a céggel szemben követelés bejelentésére kerül sor, és a 117. § szerinti bejelentés vagy a vagyonfelmérés adatai alapján a cégbíróság megállapítja, hogy a cég vagyona eléri a 400 000 forintot.
+b) a céggel szemben követelés bejelentésére kerül sor, és a 117. § szerinti bejelentés vagy a vagyonfelmérés adatai alapján a cégbíróság megállapítja, hogy a cég vagyona eléri az 1 000 000 forintot.
 
 (3a) A cégbíróság a felszámolási eljárásban kirendelt felszámoló részére átadja a 117. § szerinti bejelentés és a vagyonfelmérés során beszerzett vagy rendelkezésére álló adatokat és iratokat.
 
