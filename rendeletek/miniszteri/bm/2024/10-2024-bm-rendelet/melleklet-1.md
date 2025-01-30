@@ -8,7 +8,7 @@ Az egyes eljárások díja
 
 | 1 | A rövid időtartamú tervezett tartózkodásra jogosító vízum elutasítása, megsemmisítése, visszavonása tárgyában hozott döntés elleni fellebbezés díja külképviseleten előterjesztett fellebbezés esetén | 160 EUR |
 
-| 2 | A rövid időtartamú tervezett tartózkodásra jogosító vízum elutasítása, megsemmisítése, visszavonása tárgyában hozott döntés elleni fellebbezés díja belföldön előterjesztett fellebbezés esetén | 8 300 Ft |
+| 2[^5] | A rövid időtartamú tervezett tartózkodásra jogosító vízum elutasítása, megsemmisítése, visszavonása tárgyában hozott döntés elleni fellebbezés díja belföldön előterjesztett fellebbezés esetén | 12 000 Ft |
 
 | 3 | Kishatárforgalmi engedély tárgyában hozott döntés elleni fellebbezés díja külképviseleten előterjesztett fellebbezés esetén | 10 EUR |
 
@@ -36,13 +36,15 @@ Az egyes eljárások díja
 
 | 3 | Tartózkodási engedély kiadására irányuló eljárás díja belföldi kérelmezés esetén | 39 000 Ft |
 
-| 4 | Az idegenrendészeti hatóság elektronikus információs rendszerén keresztül igényelt tartózkodási engedély kiadására irányuló eljárás díja belföldi kérelmezés esetén | 24 000 Ft |
+| 4[^6] | Az idegenrendészeti hatóság elektronikus információs rendszerén keresztül igényelt tartózkodási engedély kiadására irányuló eljárás díja belföldi kérelmezés esetén | 26 000 Ft |
 
-| 5 | Tartózkodási engedély meghosszabbítására irányuló eljárás díja | 23 000 Ft |
+| 5[^7] | Tartózkodási engedély meghosszabbítására irányuló eljárás díja | 26 000 Ft |
 
-| 6 | EU Kék Kártya kiadására irányuló eljárás díja belföldi kérelmezés esetén | 38 000 Ft |
+| 6[^8] | EU Kék Kártya kiadására irányuló eljárás díja belföldi kérelmezés esetén | 39 000 Ft |
 
 | 7 | Az idegenrendészeti hatóság elektronikus információs rendszerén keresztül igényelt EU Kék Kártya kiadására irányuló eljárás díja belföldi kérelmezés esetén | 26 000 Ft |
+
+| 8[^9] | EU Kék Kártya meghosszabbítására irányuló eljárás díja | 26 000 Ft |
 
 4. A harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló
 
@@ -50,13 +52,13 @@ Az egyes eljárások díja
 
 |  | A | B |
 
-| 1 | Ideiglenes, nemzeti vagy EU tartózkodási kártya kiadására irányuló eljárás díja | 25 000 Ft |
+| 1[^10] | Ideiglenes, nemzeti vagy EU tartózkodási kártya kiadására irányuló eljárás díja | 26 000 Ft |
 
 | 2 | Huzamos tartózkodási jogosultságot igazoló okmány meghosszabbítására irányuló eljárás díja | 20 000 Ft |
 
 | 3 | Nemzeti tartózkodási kártya kiadására irányuló eljárás díja külképviseleti kérelmezés esetén | 110 EUR |
 
-| 4 | Nemzeti letelepedési engedély és nemzeti tartózkodási kártya meghosszabbítására irányuló eljárás díja külképviseleten történő előterjesztés esetén | 60 EUR |
+| 4[^11] | Nemzeti letelepedési engedély és nemzeti tartózkodási kártya meghosszabbítására irányuló eljárás díja külképviseleten történő előterjesztés esetén | 80 EUR |
 
 5. Tartózkodási engedély, illetve huzamos tartózkodási jogosultságot igazoló okmány cseréjével vagy pótlásával kapcsolatos igazgatási szolgáltatási díjak
 
@@ -74,17 +76,17 @@ Az egyes eljárások díja
 
 | 1 | Hontalan útlevél kiadására irányuló eljárás díja | 12 000 Ft |
 
-| 2 | Hontalan útlevél meghosszabbítására irányuló eljárás díja | 10 000 Ft |
+| 2[^12] | Hontalan útlevél meghosszabbítására irányuló eljárás díja | 12 000 Ft |
 
 | 3 | Hontalan útlevél kiadására irányuló eljárás díja az okmány pótlása iránti kérelem esetén | 12 000 Ft |
 
-| 4 | Hontalan útlevél kiadására irányuló eljárás díja az okmány cseréje iránti kérelem esetén | 10 000 Ft |
+| 4[^13] | Hontalan útlevél kiadására irányuló eljárás díja az okmány cseréje iránti kérelem esetén | 12 000 Ft |
 
 | 5 | A huzamos tartózkodási jogosultsággal rendelkező személy számára útlevél kiadására irányuló eljárás díja | 12 000 Ft |
 
 | 6 | A huzamos tartózkodási jogosultsággal rendelkező személy számára útlevél kiadására irányuló eljárás díja az okmány pótlása iránti kérelem esetén | 12 000 Ft |
 
-| 7 | A huzamos tartózkodási jogosultsággal rendelkező személy számára útlevél kiadására irányuló eljárás díja az okmány cseréje iránti kérelem esetén | 10 000 Ft |
+| 7[^14] | A huzamos tartózkodási jogosultsággal rendelkező személy számára útlevél kiadására irányuló eljárás díja az okmány cseréje iránti kérelem esetén | 12 000 Ft |
 
 | 8 | Egyszeri utazásra jogosító utazási igazolvány kiállítására irányuló eljárás díja belföldön | 12 000 Ft |
 
@@ -94,7 +96,7 @@ Az egyes eljárások díja
 
 | 1 | Regisztrációs igazolás kiállítására irányuló eljárás díja | 1 000 Ft |
 
-| 2 | Magyar állampolgár harmadik országbeli családtagja részére tartózkodási kártya kiállítására irányuló eljárás díja az okmány pótlása, illetve cseréje iránti kérelem esetén | 10 000 Ft |
+| 2[^15] | Magyar állampolgár harmadik országbeli családtagja részére tartózkodási kártya kiállítására irányuló eljárás díja az okmány pótlása, illetve cseréje iránti kérelem esetén | 12 000 Ft |
 
 | 3 | EGT-állampolgár harmadik országbeli családtagja részére tartózkodási kártya kiadására, meghosszabbítására irányuló eljárás díja | 15 000 Ft |
 
@@ -114,4 +116,17 @@ Az egyes eljárások díja
 
 | 1 | Fellebbezési kérelem díja | 47 000 Ft |
 
-| 2 | Hatósági bizonyítvány kiállításának díja | 3 000 Ft |
+| 2[^16] | Hatósági bizonyítvány kiállításának díja | 4 000 Ft |
+
+[^5]: Az 1. melléklet 1. pontjában foglalt táblázat 2. sora a 61/2024. (XII. 30.) BM rendelet 30. § (3) bekezdésével megállapított szöveg.
+[^6]: Az 1. melléklet 3. pontjában foglalt táblázat 4. sora a 61/2024. (XII. 30.) BM rendelet 30. § (3) bekezdésével megállapított szöveg.
+[^7]: Az 1. melléklet 3. pontjában foglalt táblázat 5. sora a 61/2024. (XII. 30.) BM rendelet 30. § (3) bekezdésével megállapított szöveg.
+[^8]: Az 1. melléklet 3. pontjában foglalt táblázat 6. sora a 61/2024. (XII. 30.) BM rendelet 30. § (3) bekezdésével megállapított szöveg.
+[^9]: Az 1. melléklet 3. pontjában foglalt táblázat 8. sorát a 61/2024. (XII. 30.) BM rendelet 30. § (3) bekezdése iktatta be.
+[^10]: Az 1. melléklet 4. pontjában foglalt táblázat 1. sora a 61/2024. (XII. 30.) BM rendelet 30. § (3) bekezdésével megállapított szöveg.
+[^11]: Az 1. melléklet 4. pontjában foglalt táblázat 4. sora a 61/2024. (XII. 30.) BM rendelet 30. § (3) bekezdésével megállapított szöveg.
+[^12]: Az 1. melléklet 6. pontjában foglalt táblázat 2. sora a 61/2024. (XII. 30.) BM rendelet 30. § (3) bekezdésével megállapított szöveg.
+[^13]: Az 1. melléklet 6. pontjában foglalt táblázat 4. sora a 61/2024. (XII. 30.) BM rendelet 30. § (3) bekezdésével megállapított szöveg.
+[^14]: Az 1. melléklet 6. pontjában foglalt táblázat 7. sora a 61/2024. (XII. 30.) BM rendelet 30. § (3) bekezdésével megállapított szöveg.
+[^15]: Az 1. melléklet 7. pontjában foglalt táblázat 2. sora a 61/2024. (XII. 30.) BM rendelet 30. § (3) bekezdésével megállapított szöveg.
+[^16]: Az 1. melléklet 8. pontjában foglalt táblázat 2. sora a 61/2024. (XII. 30.) BM rendelet 30. § (3) bekezdésével megállapított szöveg.
