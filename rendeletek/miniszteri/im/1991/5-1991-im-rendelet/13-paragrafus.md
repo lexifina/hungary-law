@@ -1,4 +1,4 @@
-13. §[^51] (1)[^52] A jogi szakvizsga díja részvizsgánként 46 000 Ft. A pótvizsga díja 40 000 Ft, a megismételt részvizsga díja 57 500 Ft.
+13. §[^51] (1)[^52] A jogi szakvizsga díja részvizsgánként 55 200 Ft. A pótvizsga díja 40 000 Ft, a megismételt részvizsga díja 57 500 Ft.
 
 (2)[^53] A pótvizsga és megismételt részvizsga díját a pótvizsgára, valamint a megismételt vizsgára való jelentkezéskor a Jogi Szakvizsga Rendszeren keresztül – elektronikus úton – kell megfizetni.
 
@@ -11,7 +11,7 @@
 (6)[^57] Ha a jelölt a (3) bekezdés szerinti halasztási kérelmét hiányosan vagy határidőn túl nyújtja be hiánypótlásnak nincs helye, a halasztási kérelem elutasítására a jogi szakvizsgára jelentkezés elutasítására vonatkozó – 4. § (6)–(8) bekezdésében foglalt – rendelkezéseket kell alkalmazni, azzal, hogy a jelentkezés alatt a halasztási kérelmet kell érteni, a vizsgadíj alatt pedig a halasztási kérelem díját.
 
 [^51]: A 13. § a 14/2000. (VIII. 29.) IM rendelet 2. §-ával megállapított szöveg.
-[^52]: A 13. § (1) bekezdése a 42/2012. (IX. 14.) KIM rendelet 12. § (1) bekezdésével megállapított, a 6/2023. (VI. 28.) IM rendelet 2. § b) pontja szerint módosított szöveg.
+[^52]: A 13. § (1) bekezdése a 42/2012. (IX. 14.) KIM rendelet 12. § (1) bekezdésével megállapított, a 28/2024. (XII. 30.) IM rendelet 2. §-a szerint módosított szöveg.
 [^53]: A 13. § (2) bekezdése a 25/2015. (IX. 25.) IM rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^54]: A 13. § (3) bekezdése a 25/2015. (IX. 25.) IM rendelet 2. § (2) bekezdésével megállapított, a 6/2023. (VI. 28.) IM rendelet 2. § c) pontja szerint módosított szöveg.
 [^55]: A 13. § új (4) bekezdését a 17/2001. (XI. 23.) IM rendelet 5. §-a iktatta a szövegbe, egyidejűleg az eredeti (4) bekezdés számozását (5) bekezdésre változtatta, szövege a 31/2010. (XII. 31.) KIM rendelet 6. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 8. § (2) bekezdése alapján a 2011. január 1-je előtt benyújtott kérelmek alapján indult, részvizsgára bocsátás iránti eljárásokban is alkalmazni kell.

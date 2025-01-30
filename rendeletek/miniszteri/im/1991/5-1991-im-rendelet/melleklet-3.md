@@ -18,6 +18,6 @@
 
 |  | P. H. |
 
-3. számú melléklet az 5/1991. (IV. 4.) IM rendelethez[^97]
+3. számú melléklet az 5/1991. (IV. 4.) IM rendelethez[^99]
 
-[^97]: A 3. számú mellékletet a 12/2014. (II. 28.) KIM rendelet 2. § (9) bekezdés a) pontja iktatta be.
+[^99]: A 3. számú mellékletet a 12/2014. (II. 28.) KIM rendelet 2. § (9) bekezdés a) pontja iktatta be.
