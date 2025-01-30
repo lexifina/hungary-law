@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-30-20-5
 | --- | --- | --- |
 | 2016-11-03 | 2016-30-20-5H.1 | 30/2016. (X. 3.) EMMI rendelet |
 | 2023-08-11 | 2016-30-20-5H.2 | 28/2023. (VIII. 10.) BM rendelet |
+| 2025-01-30 | 2016-30-20-5H.3 | 61/2024. (XII. 30.) BM rendelet |
