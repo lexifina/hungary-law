@@ -2,7 +2,7 @@
 
 (2)[^127] Az elveszett, eltulajdonított vagy megsemmisült szakvizsga bizonyítvány érvénytelenségét az OKFŐ főigazgatója határozattal állapítja meg. A határozatnak az Egészségügyi Közlönyben történő közzétételét követően a szakvizsga bizonyítvány a szakképesítésnek megfelelő megnevezés használatára nem jogosít.
 
-(3)[^128] A (2) bekezdés szerinti szakvizsga bizonyítvány pótlására a jogosult kérelmére az NVB – a szakvizsgáról készített jegyzőkönyv alapján – másodlatot állít ki. A másodlat kiállításának díja 3000 Ft.
+(3)[^128] A (2) bekezdés szerinti szakvizsga bizonyítvány pótlására a jogosult kérelmére az NVB – a szakvizsgáról készített jegyzőkönyv alapján – másodlatot állít ki. A másodlat kiállításának díja 4000 Ft.
 
 (4)[^129] Ha a bizonyítványt kiállító NVB megállapítja, hogy a bizonyítvány tartalma valótlan, vagy jogszabályba ütközik, az NVB saját hatáskörben a bizonyítványt kijavítja, visszavonja vagy módosítja. A határozatot meg kell küldeni
 
@@ -16,7 +16,7 @@ b) a nyilvántartást vezető szervnek.
 
 [^126]: A 20. § (1) bekezdése a 2/2013. (I. 2.) EMMI rendelet 21. § d) pontja, a 23/2015. (IV. 28.) EMMI rendelet 118. § h) pontja szerint módosított szöveg.
 [^127]: A 20. § (2) bekezdése a 28/2022. (VIII. 25.) BM rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^128]: A 20. § (3) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 118. § e) pontja, a 34/2015. (VI. 30.) EMMI rendelet 18. § 18. pontja szerint módosított szöveg.
+[^128]: A 20. § (3) bekezdése a 61/2024. (XII. 30.) BM rendelet 14. §-ával megállapított szöveg.
 [^129]: A 20. § (4) bekezdését a 28/2022. (VIII. 25.) BM rendelet 13. § (2) bekezdése iktatta be.
 [^130]: A 20. § (5) bekezdését a 28/2022. (VIII. 25.) BM rendelet 13. § (2) bekezdése iktatta be.
 [^131]: A 20. § (6) bekezdését a 28/2022. (VIII. 25.) BM rendelet 13. § (2) bekezdése iktatta be.
