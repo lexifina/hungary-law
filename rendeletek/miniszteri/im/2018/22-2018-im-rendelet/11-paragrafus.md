@@ -2,7 +2,7 @@
 
 11. § (1) Egyoldalú jogügylet vagy jognyilatkozat okiratba foglalásáért a 10. § szerinti munkadíj kétharmadát kell felszámítani.
 
-(2)[^3] A 10. § szerinti munkadíj felét kell felszámítani
+(2)[^4] A 10. § szerinti munkadíj felét kell felszámítani
 
 a) közjegyzői ténytanúsítvány készítése iránti,
 
@@ -14,4 +14,4 @@ d) európai öröklési bizonyítvány kiállítása iránti
 
 eljárás esetén.
 
-[^3]: A 11. § (2) bekezdése a 30/2019. (XII. 20.) IM rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^4]: A 11. § (2) bekezdése a 30/2019. (XII. 20.) IM rendelet 19. § (1) bekezdésével megállapított szöveg.
