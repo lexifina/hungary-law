@@ -1,40 +1,34 @@
-| Tevékenység | Hivatkozás | Szolgáltatási díj összege |
+|  | A | B |
 
-| 1. | Iparbiztonsági engedélyezési eljárás új veszélyes anyagokkal foglalkozó üzem építéséhez | Kat. 25.§ (1); |  |
+| 1 | Eljárás megnevezése | Igazgatási szolgáltatási díj mértéke |
 
-| 1.1 | felső küszöbértékű veszélyes anyagokkal foglalkozó üzem | R. 10. § (1) | 285 000 Ft |
+| 2 | Iparbiztonsági engedélyezési eljárás új, felső küszöbértékű veszélyes anyagokkal foglalkozó üzem építéséhez | 380 000 Ft |
 
-| 1.2 | alsó küszöbértékű veszélyes anyagokkal foglalkozó üzem |  | 240 000 Ft |
+| 3 | Iparbiztonsági engedélyezési eljárás új, alsó küszöbértékű veszélyes anyagokkal foglalkozó üzem építéséhez | 324 000 Ft |
 
-| 2. | Iparbiztonsági engedélyezési eljárás veszélyes anyagokkal foglalkozó létesítmény építéséhez | Kat. 25.§ (1); R. 10. § (1) | 240 000 Ft |
+| 4 | Iparbiztonsági engedélyezési eljárás veszélyes anyagokkal foglalkozó létesítmény építéséhez | 324 000 Ft |
 
-| 3. | Iparbiztonsági engedélyezési eljárás veszélyes tevékenység végzéséhez | Kat. 25.§ (1); |  |
+| 5 | Iparbiztonsági engedélyezési eljárás veszélyes tevékenység végzéséhez felső küszöbértékű veszélyes anyagokkal foglalkozó üzem esetében | 450 000 Ft |
 
-| 3.1 | felső küszöbértékű veszélyes anyagokkal foglalkozó üzem | Kat. 28.§ (1)-(2); | 335 000 Ft |
+| 6 | Iparbiztonsági engedélyezési eljárás veszélyes tevékenység végzéséhez alsó küszöbértékű veszélyes anyagokkal foglalkozó üzem esetében | 380 000 Ft |
 
-| 3.2 | alsó küszöbértékű veszélyes anyagokkal foglalkozó üzem | R. 10. § (1) | 285 000 Ft |
+| 7 | Iparbiztonsági engedélyezési eljárás veszélyes tevékenység végzéséhez küszöbérték alatti üzem esetében | 180 000 Ft |
 
-| 3.3 | küszöbérték alatti üzem | Kat. 40.§ (1)-(3); Kat. 27.§ (3) b); Kat. 27.§ (4) R. 35. § (1) | 135 000 Ft |
+| 8 | Iparbiztonsági engedélyezési eljárás a felső küszöbértékű veszélyes anyagokkal foglalkozó üzem R. 17. § (1) bekezdés b)–e) pontja szerinti jelentős változtatásához | 380 000 Ft |
 
-| 4. | Iparbiztonsági engedélyezési eljárás üzem Kat. 27. § (3) bekezdés b), c) és d) pontja szerinti jelentős változtatásához | Kat. 27. § (3) b), c), d) |  |
+| 9 | Iparbiztonsági engedélyezési eljárás az alsó küszöbértékű veszélyes anyagokkal foglalkozó üzem R. 17. § (1) bekezdés b)–e) pontja szerinti jelentős változtatásához | 380 000 Ft |
 
-| 4.1 | felső küszöbértékű veszélyes anyagokkal foglalkozó üzem |  | 285 000 Ft |
+| 10 | Iparbiztonsági engedélyezési eljárás a küszöbérték alatti üzem R. 17. § (1) bekezdés b)–e) pontja szerinti jelentős változtatásához | 180 000 Ft |
 
-| 4.2 | alsó küszöbértékű veszélyes anyagokkal foglalkozó üzem |  | 285 000 Ft |
+| 11 | Biztonsági jelentés felülvizsgálata | 155 000 Ft |
 
-| 4.3 | küszöbérték alatti üzem |  | 135 000 Ft |
+| 12 | Biztonsági elemzés felülvizsgálata | 155 000 Ft |
 
-| 5. |  |  |  |
+| 13 | Belső védelmi terv felülvizsgálata | 100 000 Ft |
 
-| 6. | Biztonsági jelentés üzemeltető által kezdeményezett felülvizsgálata | Kat. 27. § (3) a); Kat. 28. § (4); | 115 000 Ft |
+| 14 | Súlyos káresemény elhárítási terv felülvizsgálata | 100 000 Ft |
 
-| 7. | Biztonsági elemzés üzemeltető által kezdeményezett felülvizsgálata | R. 11. § (3) | 115 000 Ft |
-
-| 8. | Belső védelmi terv üzemeltető által kezdeményezett felülvizsgálata | Kat. 38.§; R. 20. § (3) | 75 000 Ft |
-
-| 9. | Súlyos káresemény elhárítási terv üzemeltető által kezdeményezett felülvizsgálata | Kat. 27. § (3) a); Kat. 41. § d); R. 38. § | 75 000 Ft |
-
-| 10. | Veszélyes tevékenység azonosítása | Kat. 40.§ (1); R. 7. §; R. 33. § (1) | 100 000 Ft |
+| 15 | Veszélyes tevékenység azonosítása | 135 000 Ft |
 
 2. melléklet az 51/2011. (XII. 21.) BM rendelethez[^6]
 

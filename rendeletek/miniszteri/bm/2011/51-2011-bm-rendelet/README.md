@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-51-20-0
 | 2020-11-05 | 2011-51-20-0A.4 | 24/2012. (V. 8.) BM rendelet |
 | 2023-01-01 | 2011-51-20-0A.5 | 24/2012. (V. 8.) BM rendelet |
 | 2024-10-01 | 2011-51-20-0A.6 | 24/2012. (V. 8.) BM rendelet |
+| 2025-01-30 | 2011-51-20-0A.7 | 61/2024. (XII. 30.) BM rendelet |
