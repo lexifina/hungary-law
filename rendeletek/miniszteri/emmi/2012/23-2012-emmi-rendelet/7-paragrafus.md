@@ -23,5 +23,5 @@ igazolást.
 [^20]: A 7. § (1) bekezdése az 54/2015. (XI. 24.) EMMI rendelet 50. § (1) bekezdésével megállapított, a 7/2024. (II. 12.) BM rendelet 25. § b) pontja, a 7/2024. (II. 12.) BM rendelet 25. § c) pontja szerint módosított szöveg.
 [^21]: A 7. § (1a) bekezdését az 54/2015. (XI. 24.) EMMI rendelet 50. § (2) bekezdése iktatta be.
 [^22]: A 7. § (1b) bekezdését az 54/2015. (XI. 24.) EMMI rendelet 50. § (2) bekezdése iktatta be, szövege a 7/2024. (II. 12.) BM rendelet 25. § d) pontja szerint módosított szöveg.
-[^23]: A 7. § (2) bekezdése a 7/2024. (II. 12.) BM rendelet 25. § e) pontja szerint módosított szöveg.
+[^23]: A 7. § (2) bekezdése a 7/2024. (II. 12.) BM rendelet 25. § e) pontja szerint módosított szöveg. [A 61/2024. (XII. 30.) BM rendelet 19. § a) pontjában foglalt azon módosítás, amely szerint a 7. § (2) bekezdésében a „40 000 forint” szövegrész helyébe az „50 000 forint” szöveg lép, nem vezethető át.]
 [^24]: A 7. § (3) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 138. § (2) bekezdésével megállapított, az 54/2016. (XII. 30.) EMMI rendelet 87. § d) pontja, a 7/2024. (II. 12.) BM rendelet 25. § f) pontja szerint módosított szöveg.

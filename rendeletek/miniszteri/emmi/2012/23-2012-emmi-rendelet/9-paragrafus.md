@@ -28,7 +28,7 @@ h) a kiállítás dátumát.
 
 (7)[^42] Az elveszett, eltulajdonított vagy megsemmisült licenc tanúsítvány érvénytelenségét az NVB állapítja meg.
 
-(8)[^43] A licenc tanúsítvány pótlására – a jogosult írásbeli kérelmére – az NVB a licenc vizsgáról készített jegyzőkönyv alapján másodlatot állít ki. A másodlat kiállításának díja 3000 Ft.
+(8)[^43] A licenc tanúsítvány pótlására – a jogosult írásbeli kérelmére – az NVB a licenc vizsgáról készített jegyzőkönyv alapján másodlatot állít ki. A másodlat kiállításának díja 4000 Ft.
 
 (9)[^44] Ha a tanúsítványt kiállító NVB megállapítja, hogy a tanúsítvány tartalma valótlan, vagy jogszabályba ütközik, az NVB saját hatáskörben a tanúsítványt kijavítja, visszavonja vagy módosítja, és erről a nyilvántartást vezető szervet értesíti. Az ügyfél a pótlólagos tanúsítvány kiállításának tényét bejelenti annak a hatóságnak, szervnek, amelynek eljárásában a tanúsítványt felhasználta vagy fel kívánta használni.
 
@@ -42,6 +42,6 @@ h) a kiállítás dátumát.
 [^40]: A 9. § (4) bekezdése a 14/2014. (III. 10.) EMMI rendelet 30. § (2) bekezdése, a 23/2015. (IV. 28.) EMMI rendelet 141. § a) pontja, az 54/2015. (XI. 24.) EMMI rendelet 53. § b) pontja szerint módosított szöveg.
 [^41]: A 9. § (5) bekezdése a 2/2013. (I. 2.) EMMI rendelet 42. § a) pontja szerint módosított szöveg.
 [^42]: A 9. § (7) bekezdését a 7/2024. (II. 12.) BM rendelet 22. §-a iktatta be.
-[^43]: A 9. § (8) bekezdését a 7/2024. (II. 12.) BM rendelet 22. §-a iktatta be.
+[^43]: A 9. § (8) bekezdését a 7/2024. (II. 12.) BM rendelet 22. §-a iktatta be, szövege a 61/2024. (XII. 30.) BM rendelet 19. § b) pontja szerint módosított szöveg.
 [^44]: A 9. § (9) bekezdését a 7/2024. (II. 12.) BM rendelet 22. §-a iktatta be.
 [^45]: A 9. § (10) bekezdését a 7/2024. (II. 12.) BM rendelet 22. §-a iktatta be.
