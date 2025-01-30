@@ -1,5 +1,3 @@
-## 4. §[^4]
-
 ## Díjkedvezmények
 
 5. §[^5] (1) Kedvezményes díjat fizet az ügyfél:
@@ -30,7 +28,6 @@ e) az (1) bekezdés e) pontja esetén a díj 70%-a.
 
 (4) A hitelesítési bizonyítvány kiadásáért – ha kiállítását az adott mérőeszköznél kötelezően alkalmazandó törvényes tanúsító jel használatán felül a hitelesítési előírás[^7] külön nem írja elő és az ügyfél írásban kéri – díjat kell fizetni.
 
-[^4]: A 4. §-t a 99/2003. (XII. 20.) GKM rendelet 5. §-ának (3) bekezdése hatályon kívül helyezte.
 [^5]: Az 5. § a 69/2005. (IX. 15.) GKM rendelet 2. §-ával megállapított szöveg, e módosító rendelet 5. § (1) bekezdése alapján rendelkezéseit a 2005. október 1. napját követően kezdeményezett eljárásokra kell alkalmazni.
 [^6]: Az 5. § (1) bekezdés a) pontja a 27/2010. (XII. 31.) NGM rendelet 11. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 76. § (2) bekezdése alapján a rendelkezést a 2010. december 31-ét követően indult eljárásokban kell alkalmazni.
 [^7]: A mérésügyről szóló 1991. évi XLV. törvény 4. § (1) bekezdésének b) pontja.
