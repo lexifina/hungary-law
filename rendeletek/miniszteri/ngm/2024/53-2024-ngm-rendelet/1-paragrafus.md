@@ -1,0 +1,1 @@
+1. § A fémjelzési, nemesfémtartalom-vizsgálati és -hitelesítési tevékenységért, valamint az egyenértékűség megállapítási eljárásért fizetendő igazgatási szolgáltatási díjakról szóló 57/2006. (VIII. 3.) GKM rendelet Melléklete helyébe a Melléklet lép.
