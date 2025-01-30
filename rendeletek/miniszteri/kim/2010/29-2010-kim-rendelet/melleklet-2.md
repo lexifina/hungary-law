@@ -1,4 +1,4 @@
-2. melléklet a 29/2010. (XII. 31.) KIM rendelethez[^33]
+2. melléklet a 29/2010. (XII. 31.) KIM rendelethez[^34]
 
 A hagyatéki eljárási igazolás adattartalma
 
@@ -32,4 +32,4 @@ A hagyatéki eljárási igazolás adattartalma
 
 2.4. a 2.2. pont szerinti eljárás megindulásának időpontja
 
-[^33]: A 2. mellékletet a 12/2015. (VII. 23.) IM rendelet 4. § (3) bekezdése iktatta be, szövege a 10/2019. (IV. 5.) IM rendelet 2. §-ával megállapított szöveg.
+[^34]: A 2. mellékletet a 12/2015. (VII. 23.) IM rendelet 4. § (3) bekezdése iktatta be, szövege a 10/2019. (IV. 5.) IM rendelet 2. §-ával megállapított szöveg.
