@@ -1,11 +1,15 @@
 ## 17. § A Kstv. 2. § (6) bekezdése szerinti költségtérítés
 
-a) beszedése érdekében – a Kstv. 2. § (14) bekezdésének megfelelően – a kéményseprő-ipari szerv a kéményseprő-ipari tevékenység végrehajtásáról szóló tanúsítvány egy példányának továbbításával értesíti a települési önkormányzatot a tevékenység elvégzéséről;
+a)[^26]
 
-b) beszedéséről a települési önkormányzat a kéményseprő-ipari szerv értesítését követő 15 napon belül intézkedik;
+b)[^27]
 
-c) befizetésére vonatkozó adatokról (települési önkormányzat megnevezése, számlaszáma, adószáma), valamint az azokban bekövetkező változásokról a települési önkormányzat írásban tájékoztatja a kéményseprő-ipari szervet;
+c)[^28]
 
 d) nem természetes személy tulajdonában álló vagy gazdálkodó szervezet székhelyeként, telephelyeként, fióktelepeként bejegyzett ingatlanokra jutó arányát társasházban vagy lakásszövetkezeti lakóépületben lévő gyűjtő jellegű égéstermék-elvezető esetén a 8. melléklet 10. pontja alapján kell meghatározni;
 
 e) mértékét nem természetes személy tulajdonában álló vagy gazdálkodó szervezet székhelyeként, telephelyeként, fióktelepeként bejegyzett ingatlan esetében a társasházban vagy lakásszövetkezeti lakóépületben lévő nem gyűjtő jellegű égéstermék-elvezetőnként kell meghatározni.
+
+[^26]: A 17. § a) pontját a 61/2024. (XII. 30.) BM rendelet 27. § a) pontja hatályon kívül helyezte.
+[^27]: A 17. § b) pontját a 61/2024. (XII. 30.) BM rendelet 27. § a) pontja hatályon kívül helyezte.
+[^28]: A 17. § c) pontját a 61/2024. (XII. 30.) BM rendelet 27. § a) pontja hatályon kívül helyezte.

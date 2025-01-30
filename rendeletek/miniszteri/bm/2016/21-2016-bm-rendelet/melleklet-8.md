@@ -116,7 +116,7 @@
 
 ## – a Kstv. 10. § (1) bekezdés a) pontja szerinti önkormányzat közszolgáltatási szerződésenként
 
-8. melléklet a 21/2016. (VI. 9.) BM rendelethez[^27]
+8. melléklet a 21/2016. (VI. 9.) BM rendelethez[^36]
 
 1. Az égéstermék-elvezetők jele
 
@@ -238,15 +238,13 @@
 
 | Tevékenység | Munkaráfordítás |
 
-| A 2. pontban meghatározott, de megrendelésre végzett sormunka tevékenységek | 2. pontban meghatározott munkaráfordítások szerint |
+| 3.1.1. | A 2. pontban meghatározott, de megrendelésre végzett sormunka tevékenységek | 2. pontban meghatározott munkaráfordítások szerint |
 
-| A sormunka keretében feltárt az égéstermék-elvezető járatában lerakódott, csak égetéssel eltávolítható szurokréteg kiégetése külön egyeztetés alapján | 2,00/db/óra |
+| 3.1.2. | A sormunka keretében feltárt, az égéstermék-elvezető járatában lerakódott, csak égetéssel eltávolítható szurokréteg kiégetése külön egyeztetés alapján | 2,00/db/óra |
 
-| Közvetlen homlokzati égéstermék-kivezetéssel rendelkező tüzelőberendezések égéstermék-elvezetőjének ellenőrzése, tisztítása | 0,34/db |
+| 3.1.3. | Közvetlen homlokzati égéstermék-kivezetéssel rendelkező tüzelőberendezések égéstermék-elvezetőjének ellenőrzése, tisztítása | 0,34/db |
 
-| A 10 000 cm2 feletti járat keresztmetszetű égéstermék-elvezető ellenőrzése tisztítása | 0,60/fm |
-
-| Helyszíni szemle | 1,00/alkalom |
+| 3.1.4. | A 10 000 cm2 feletti járat keresztmetszetű égéstermék-elvezető ellenőrzése, tisztítása | 0,60/fm |
 
 3.2. A Kstv. 2. § (5) bekezdés f) pontja szerinti műszaki vizsgálatok munkaráfordítása
 
@@ -268,7 +266,7 @@
 
 | 0,68/db | 0,92/db | 0,30/szint | 2,10/db | 2,72/db |
 
-| 3.2.5. Helyszíni szemle |
+| 3.2.5. |
 
 | 1,00/alkalom | 1,00/alkalom | 1,00/alkalom | 1,00/alkalom | 1,00/alkalom |
 
@@ -284,7 +282,7 @@
 
 | 3.3.5. | Ipari és kommunális létesítmények esetében 140 kW felett | 2,50 |
 
-| 3.3.6. | Helyszíni szemle | 1,00/alkalom |
+| 3.3.6. |  |  |
 
 4. Egyedi égéstermék-elvezetőnél az ellenőrzés, szükség szerinti tisztítás, a műszaki felülvizsgálat és szükség szerint az égéstermék CO paraméter ellenőrzés költségtérítését az alábbiak szerint kell meghatározni.
 
@@ -340,4 +338,4 @@
 
 10. Társasházban vagy lakásszövetkezeti lakóépületben lévő gyűjtő jellegű égéstermék-elvezető esetén a nem természetes személy tulajdonában álló vagy gazdálkodó szervezet székhelyeként, telephelyeként, fióktelepeként bejegyzett ingatlanokra vonatkozó Kstv. 2. § (6) bekezdés szerinti költségtérítés meghatározásánál az 5. pont szerinti képletet az alábbi arányszámmal kell megszorozni:
 
-[^27]: A 8. melléklet a 33/2017. (XII. 20.) BM rendelet 4. § f) pontja szerint módosított szöveg.
+[^36]: A 8. melléklet a 33/2017. (XII. 20.) BM rendelet 4. § f) pontja, a 61/2024. (XII. 30.) BM rendelet 25. §-a, és 27. § b)–c) pontja szerint módosított szöveg.

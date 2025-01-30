@@ -1,4 +1,4 @@
-## 12/A. [^21] A Kéményseprő-ipari Műszaki Bizottság létrehozásának, összetételének, feladatkörének és működésének részletes szabályairól
+## 12/A. [^30] A Kéményseprő-ipari Műszaki Bizottság létrehozásának, összetételének, feladatkörének és működésének részletes szabályairól
 
 18/A. § (1) Az elérendő biztonsági szintnek megfelelő műszaki követelményt tartalmazó Kéményseprő-ipari Műszaki Irányelvek (a továbbiakban: KiMI) kidolgozásáért felelős Kéményseprő-ipari Műszaki Bizottság (a továbbiakban: Bizottság)
 
@@ -48,4 +48,4 @@ vezetője által kijelölt személy.
 
 (8) A KiMI tervezetének elfogadásáról a Bizottság egyszerű többséggel határoz. A KiMI-t a Bizottság elnöke terjeszti fel a BM OKF főigazgatójának kiadás céljából. A BM OKF főigazgatója által kiadott KiMI-t a BM OKF a honlapján közzéteszi.
 
-[^21]: A 12/A. alcímet (18/A. §) a 24/2021. (VII. 30.) BM rendelet 11. §-a iktatta be.
+[^30]: A 12/A. alcímet (18/A. §) a 24/2021. (VII. 30.) BM rendelet 11. §-a iktatta be.

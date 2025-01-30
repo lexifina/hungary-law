@@ -48,6 +48,6 @@
 
 ## aláírás
 
-7. melléklet a 21/2016. (VI. 9.) BM rendelethez[^26]
+7. melléklet a 21/2016. (VI. 9.) BM rendelethez[^35]
 
-[^26]: A 7. melléklet a 33/2017. (XII. 20.) BM rendelet 4. § e) pontja szerint módosított szöveg.
+[^35]: A 7. melléklet a 33/2017. (XII. 20.) BM rendelet 4. § e) pontja szerint módosított szöveg.

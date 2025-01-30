@@ -56,6 +56,6 @@
 
 |  | 28. | Rádió adó-vevő vagy egyéb elektronikus kommunikációs eszköz |  | X |
 
-2. melléklet a 21/2016. (VI. 9.) BM rendelethez[^24]
+2. melléklet a 21/2016. (VI. 9.) BM rendelethez[^33]
 
-[^24]: A 2. melléklet a 23/2017. (IX. 11.) BM rendelet 5. § (1) bekezdése, a 33/2017. (XII. 20.) BM rendelet 2. §-a és a 4. § d) pontja szerint módosított szöveg.
+[^33]: A 2. melléklet a 23/2017. (IX. 11.) BM rendelet 5. § (1) bekezdése, a 33/2017. (XII. 20.) BM rendelet 2. §-a és a 4. § d) pontja szerint módosított szöveg.

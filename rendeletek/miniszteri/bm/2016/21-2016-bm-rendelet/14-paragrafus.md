@@ -12,7 +12,7 @@ b) a kéményseprő-ipari tevékenységgel érintett ellátási terület földra
 
 c) az alkalmazandó díjak összegét, alkalmazásának feltételeit;
 
-d) a kéményseprő-ipari tevékenysége során kötelezően alkalmazandó jogszabályok felsorolását, ideértve a Kstv. 10. § (3) bekezdése szerinti szolgáltató esetében a kéményseprő-ipari tevékenységet szabályozó önkormányzati rendeletet településenkénti bontásban, különösen az önkormányzati rendelet 2015. július 1-jén hatályos szövegét;
+d)[^20] a kéményseprő-ipari tevékenysége során kötelezően alkalmazandó jogszabályok felsorolását,
 
 e) a panaszok benyújtásával és intézésével kapcsolatos információkat;
 
@@ -27,3 +27,5 @@ h) az üzletszabályzatát, egyéb általános szerződési feltételeit.
 (6) A (4) bekezdés c) és d) pontja szerinti rendeleteket, továbbá a (4) bekezdés h) pontja szerinti üzletszabályzatokat és általános szerződési feltételeket a szövegben való kereshetőség biztosításával, a hatályos időállapotok elhatárolásával kell hozzáférhetővé tenni 5 évre visszamenőleg.
 
 (7) A kéményseprő-ipari szolgáltató a feladatkörrel rendelkező fogyasztóvédelmi szervek, békéltető testületek és a fogyasztói érdekek képviseletét ellátó egyesületek elérhetőségét a honlapján közzéteszi.
+
+[^20]: A 14. § (4) bekezdés d) pontja a 61/2024. (XII. 30.) BM rendelet 24. § (1) bekezdésével megállapított szöveg.
