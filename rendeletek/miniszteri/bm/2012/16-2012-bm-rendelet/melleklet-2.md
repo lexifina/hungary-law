@@ -1,26 +1,22 @@
-| Sor- szám | Eljárás megnevezése | Díjak mértéke forintban |
+|  | A | B |
 
-| 1. | Számítógépes szimulációs programmal végzett, egyedileg tervezett megoldás jóváhagyására indított eljárás | 50 000 |
+| 1 | Eljárás megnevezése | Díj mértéke |
 
-| 2. | Tűzvédelmi szakértői bejelentési és nyilvántartásba vételi eljárás, a nyilvántartás vezetése | 10 000 |
+| 2 | Számítógépes szimulációs programmal végzett, egyedileg tervezett megoldás jóváhagyására indított eljárás | 67 500 Ft |
 
-| 3. | Polgári nemzetbiztonsági szolgálatok építésügyi hatósági eljárásában tűzvédelmi szakhatósági közreműködés | 13 000 |
+| 3 | Tűzvédelmi szakértői bejelentési és nyilvántartásba vételi eljárás, a nyilvántartás vezetése | 13 500 Ft |
 
-| 4. | Pirotechnikai tevékenység engedélyezésére irányuló eljárásban tűzvédelmi szakhatósági közreműködés | 13 000 |
+| 4 | Polgári nemzetbiztonsági szolgálatok építésügyi hatósági eljárásában tűzvédelmi szakhatósági eljárás | 17 500 Ft |
 
-| 5. |  |  |
+| 5 | Pirotechnikai tevékenység engedélyezésére irányuló eljárásban tűzvédelmi szakhatósági eljárás | 17 500 Ft |
 
-| 6. | A Sugáregészségügyi Decentrum és az Országos Tisztifőorvosi Hivatal atomenergiával kapcsolatos eljárásaiban tűzvédelmi szakhatósági közreműködés | 13 000 |
+| 6 | Telepengedély kiadása iránti eljárásokban tűzvédelmi szakhatósági eljárás | 17 500 Ft |
 
-| 7. | Telepengedély kiadása iránti eljárásokban tűzvédelmi szakhatósági közreműködés | 13 000 |
+| 7 | Zenés, táncos rendezvény engedélyezési eljárásban tűzvédelmi szakhatósági eljárás | 17 500 Ft |
 
-| 8. | Éghető töltetű tárolótartály létesítési és használatbavételi eljárásaiban tűzvédelmi szakhatósági közreműködés | 13 000 |
+| 8 | Polgári repülőtér építésügyi hatósági eljárásában tűzvédelmi szakhatósági eljárás | 17 500 Ft |
 
-| 9. | Zenés, táncos rendezvény engedélyezési eljárásban tűzvédelmi szakhatósági közreműködés | 13 000 |
-
-| 10. | Polgári repülőtér építésügyi hatósági eljárásában tűzvédelmi szakhatósági közreműködés | 13 000 |
-
-| 11. | Leszállóhely létesítésére és megszüntetésére irányuló eljárásban tűzvédelmi szakhatósági közreműködés | 13 000 |
+| 9 | Leszállóhely létesítésére és megszüntetésére irányuló eljárásban tűzvédelmi szakhatósági eljárás | 17 500 Ft |
 
 2. melléklet a 16/2012. (IV. 3.) BM rendelethez[^6]
 

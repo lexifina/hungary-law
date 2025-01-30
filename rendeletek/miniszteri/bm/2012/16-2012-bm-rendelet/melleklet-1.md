@@ -1,5 +1,5 @@
-1. melléklet a 16/2012. (IV. 3.)BM rendelethez[^5]
+1. melléklet a 16/2012. (IV. 3.) BM rendelethez[^5]
 
 Tűzvédelmi hatósági, szakhatósági eljárások és szolgáltatások díjai
 
-[^5]: Az 1. melléklet a 82/2013. (XII. 23.) BM rendelet 17. §-a, a 4/2015. (II. 27.) BM rendelet 11. §-a, a 75/2015. (XII. 22.) BM rendelet 6. §-a szerint módosított szöveg.
+[^5]: Az 1. melléklet a 61/2024. (XII. 30.) BM rendelet 17. §-ával megállapított szöveg.
