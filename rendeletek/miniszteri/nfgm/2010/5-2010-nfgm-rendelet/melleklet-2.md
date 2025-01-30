@@ -1,4 +1,4 @@
-2. melléklet az 5/2010. (I. 14.) NFGM rendelethez[^14]
+2. melléklet az 5/2010. (I. 14.) NFGM rendelethez[^18]
 
 | A felelősségbiztosítási szerződésben biztosítandó fedezet legkisebb mértéke |
 
@@ -50,4 +50,4 @@
 
 | 23. | a villamosmű, termelői, magán- és közvetlen vezeték műszaki biztonsági követelményeiről, valamint a feszültség alatti munkavégzés szabályairól szóló jogszabály | 10 000 000 |
 
-[^14]: A 2. melléklet a 7/2016. (II. 22.) NGM rendelet 9. §-ával megállapított, a 25/2019. (VIII. 26.) ITM rendelet 6. § (2) bekezdése, a 26/2020. (VII. 3.) ITM rendelet 1. §-a, a 22/2023. (VIII. 30.) GFM rendelet 2. §-a szerint módosított szöveg.
+[^18]: A 2. melléklet a 7/2016. (II. 22.) NGM rendelet 9. §-ával megállapított, a 25/2019. (VIII. 26.) ITM rendelet 6. § (2) bekezdése, a 26/2020. (VII. 3.) ITM rendelet 1. §-a, a 22/2023. (VIII. 30.) GFM rendelet 2. §-a szerint módosított szöveg.
