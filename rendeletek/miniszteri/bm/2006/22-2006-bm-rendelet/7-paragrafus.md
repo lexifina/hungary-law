@@ -1,6 +1,6 @@
-## 6. §[^9] Az SzVMt. alapján kiállított igazolvány típusait a 2. és 3. melléklet határozza meg.
+## 6. §[^8] Az SzVMt. alapján kiállított igazolvány típusait a 2. és 3. melléklet határozza meg.
 
-7. § (1)[^10] A működési engedély iránti kérelemhez mellékelt felelősségbiztosítási szerződés akkor felel meg az SzVMt. 5. § (1) bekezdés b) pontjának, az SzVMt. 5/A. § (1) bekezdés b) pontjának, valamint az SzVMt. 21. § (1) bekezdésének, ha tartalmazza
+7. § (1)[^9] A működési engedély iránti kérelemhez mellékelt felelősségbiztosítási szerződés akkor felel meg az SzVMt. 5. § (1) bekezdés b) pontjának, az SzVMt. 5/A. § (1) bekezdés b) pontjának, valamint az SzVMt. 21. § (1) bekezdésének, ha tartalmazza
 
 a) a vállalkozó SzVMt. szerinti tevékenységét,
 
@@ -14,5 +14,5 @@ e) a biztosítási időszak kezdetét és időtartamát.
 
 (2) A felelősségbiztosítási szerződés megkötését a biztosítási kötvény vagy a biztosító által kiállított igazolólap tanúsítja. A biztosítási szerződés díjfizetéssel történő folyamatos hatályban tartását a biztosító által kiállított igazolás tanúsítja.
 
-[^9]: A 6. § a 44/2017. (XII. 29.) BM rendelet 28. § (1) bekezdésével megállapított szöveg.
-[^10]: A 7. § (1) bekezdése az 55/2011. (XII. 21.) BM rendelet 6. §-ával megállapított szöveg.
+[^8]: A 6. § a 44/2017. (XII. 29.) BM rendelet 28. § (1) bekezdésével megállapított szöveg.
+[^9]: A 7. § (1) bekezdése az 55/2011. (XII. 21.) BM rendelet 6. §-ával megállapított szöveg.

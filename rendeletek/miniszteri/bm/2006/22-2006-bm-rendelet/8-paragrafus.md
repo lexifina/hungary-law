@@ -1,3 +1,3 @@
-8. §[^11]
+8. §[^10]
 
-[^11]: A 8. §-t a 44/2017. (XII. 29.) BM rendelet 28. § (3) bekezdés d) pontja hatályon kívül helyezte.
+[^10]: A 8. §-t a 44/2017. (XII. 29.) BM rendelet 28. § (3) bekezdés d) pontja hatályon kívül helyezte.
