@@ -1,28 +1,28 @@
-|  | Pirotechnikai tevékenység | Díjak mértéke forintban |
+|  | A | B |
 
-| elsőfokú eljárás | másodfokú eljárás |
+| 1 | Pirotechnikai tevékenység | Az igazgatási szolgáltatási díj mértéke (Ft) |
 
-| 1. | Gyártás | 33 500 | 32 000 |
+| 2 | Gyártás | 45 225 |
 
-| 2. | Forgalomba hozatal | 33 500 | 32 000 |
+| 3 | Forgalomba hozatal | 45 225 |
 
-| 3. | Forgalmazás | 33 500 | 32 000 |
+| 4 | Forgalmazás | 45 225 |
 
-| 4. | Vizsgálat | 33 500 | 32 000 |
+| 5 | Vizsgálat | 45 225 |
 
-| 5. | Megsemmisítés | 36 000 | 32 000 |
+| 6 | Megsemmisítés | 48 600 |
 
-| 6. | Kiállítás | 33 500 | 32 000 |
+| 7 | Kiállítás | 45 225 |
 
-| 7. | Tárolás | 33 500 | 32 000 |
+| 8 | Tárolás | 45 225 |
 
-| 8. | Felhasználás | 33 500 | 32 000 |
+| 9 | Felhasználás | 45 225 |
 
-| 9. | Engedély elvesztése vagy megrongálódása esetén annak pótlása | 7 000 | 7 000 |
+| 10 | Engedély elvesztése vagy megrongálódása esetén annak pótlása | 9 450 |
 
-| 10. | Az engedély műszaki adattartalmát nem érintő adatokba (engedélyes neve, lakóhelye, székhelye) bekövetkezett változás esetén új engedély kiadása | 9 200 | 7 000 |
+| 11 | Az engedély műszaki adattartalmát nem érintő adatokban bekövetkezett változás esetén új engedély kiadása | 12 420 |
 
-2. melléklet az 53/2012. (X. 26.) BM rendelethez[^4]
+2. melléklet az 53/2012. (X. 26.) BM rendelethez[^7]
 
 A vármegyei (fővárosi) rendőr-főkapitányságok előirányzat-felhasználási keretszámla számai
 
@@ -70,4 +70,4 @@ A vármegyei (fővárosi) rendőr-főkapitányságok előirányzat-felhasználá
 
 | 21. | Zala Vármegyei Rendőr-főkapitányság | 10049006-01451650-00000000 |
 
-[^4]: A 2. melléklet a 44/2017. (XII. 29.) BM rendelet 81. §-a, a 39/2020. (XI. 4.) BM rendelet 11. §-a, a 48/2022. (XII. 27.) BM rendelet 11. § b) és c) pontja szerint módosított szöveg.
+[^7]: A 2. melléklet a 44/2017. (XII. 29.) BM rendelet 81. §-a, a 39/2020. (XI. 4.) BM rendelet 11. §-a, a 48/2022. (XII. 27.) BM rendelet 11. § b) és c) pontja szerint módosított szöveg.

@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-53-20-0
 | 2018-01-01 | 2012-53-20-0A.3 | 44/2017. (XII. 29.) BM rendelet |
 | 2020-11-05 | 2012-53-20-0A.4 | 44/2017. (XII. 29.) BM rendelet |
 | 2023-01-01 | 2012-53-20-0A.5 | 48/2022. (XII. 27.) BM rendelet |
+| 2025-01-30 | 2012-53-20-0A.6 | 61/2024. (XII. 30.) BM rendelet |
