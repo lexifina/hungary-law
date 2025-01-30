@@ -1,16 +1,16 @@
 |  | A | B |
 
-| 1. | Az igazgatási szolgáltatási díjköteles eljárás megnevezése | Igazgatási szolgáltatási díj mértéke (Ft) |
+| 1 | Az igazgatási szolgáltatási díjköteles eljárás megnevezése | Az igazgatási szolgáltatási díj mértéke (Ft) |
 
-| 2. | első igazolvány kiállítása | 4000 |
+| 2 | az első igazolvány kiállítása | 5 400 |
 
-| 3. | igazolványcsere, pótlása | 3250 |
+| 3 | az igazolvány cseréje, pótlása | 4 400 |
 
-| 4. | jelvény kiadása | 2100 |
+| 4 | a jelvény kiadása | 2 835 |
 
-| 5. | jelvény cseréje, pótlása | 4350 |
+| 5 | a jelvény cseréje, pótlása | 5 875 |
 
-2. melléklet a 69/2012. (XII. 14.) BM rendelethez[^3]
+2. melléklet a 69/2012. (XII. 14.) BM rendelethez[^4]
 
 A vármegyei (fővárosi) rendőr-főkapitányságok előirányzat felhasználási keretszámla számai
 
@@ -58,4 +58,4 @@ A vármegyei (fővárosi) rendőr-főkapitányságok előirányzat felhasználá
 
 | 21. | Zala Vármegyei Rendőr-főkapitányság | 10049006-01451650-00000000 |
 
-[^3]: A 2. melléklet a 39/2020. (XI. 4.) BM rendelet 13. §-a, a 48/2022. (XII. 27.) BM rendelet 12. § a) és b) pontja szerint módosított szöveg.
+[^4]: A 2. melléklet a 39/2020. (XI. 4.) BM rendelet 13. §-a, a 48/2022. (XII. 27.) BM rendelet 12. § a) és b) pontja szerint módosított szöveg.
