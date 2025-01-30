@@ -2,439 +2,299 @@
 
 | I.1. | Egészségügyi szolgáltató tevékenység megkezdéséhez szükséges működési engedélyezési eljárás |  |
 
-| I.1.1. | Alapellátást végző egészségügyi szolgáltató tevékenység megkezdéséhez szükséges működési engedélyezési eljárás – az egészségügyi szolgáltatás gyakorlásának általános feltételeiről, valamint a működési engedélyezési eljárásról szóló 96/2003. (VII. 15.) Korm. rendelet 7. § (5) bekezdése kivételével – telephelyenként | 30 000 Ft |
+| I.1.1. | Alapellátást végző egészségügyi szolgáltató tevékenység megkezdéséhez szükséges működési engedélyezési eljárás – az egészségügyi szolgáltatás gyakorlásának általános feltételeiről, valamint a működési engedélyezési eljárásról szóló 96/2003. (VII. 15.) Korm. rendelet 7. § (5) bekezdése kivételével – telephelyenként | 40 000 Ft |
 
 | I.1.2. | Járóbeteg-szakellátást végző egészségügyi szolgáltató tevékenység megkezdéséhez szükséges működési engedélyezési eljárás: |  |
 
-| I.1.2.1. | Rendelőintézet engedélyezési eljárás telephelyenként | 70 000 Ft |
+| I.1.2.1. | Rendelőintézet engedélyezési eljárás telephelyenként | 93 000 Ft |
 
-| I.1.2.2. | Egyéb járóbeteg-szakellátás engedélyezési eljárás telephelyenként | 35 000 Ft |
+| I.1.2.2. | Egyéb járóbeteg-szakellátás engedélyezési eljárás telephelyenként | 46 500 Ft |
 
 | I.1.3. | Fekvőbeteg-ellátást végző egészségügyi szolgáltató tevékenység megkezdéséhez szükséges működési engedélyezési eljárás: |  |
 
-| I.1.3.1. | Fekvőbeteg-ellátást végző egészségügyi szolgáltató tevékenység megkezdéséhez szükséges működési engedélyezési eljárás (400 ágyszámig) | 80 000 Ft |
+| I.1.3.1. | Fekvőbeteg-ellátást végző egészségügyi szolgáltató tevékenység megkezdéséhez szükséges működési engedélyezési eljárás (400 ágyszámig) | 108 000 Ft |
 
-| I.1.3.2. | Fekvőbeteg-ellátást végző egészségügyi szolgáltató tevékenység megkezdéséhez szükséges működési engedélyezési eljárás (401-től 800 ágyszámig) | 100 000 Ft |
+| I.1.3.2. | Fekvőbeteg-ellátást végző egészségügyi szolgáltató tevékenység megkezdéséhez szükséges működési engedélyezési eljárás (401-től 800 ágyszámig) | 135 000 Ft |
 
-| I.1.3.3. | Fekvőbeteg-ellátást végző egészségügyi szolgáltató tevékenység megkezdéséhez szükséges működési engedélyezési eljárás (800 ágyszám feletti egészségügyi szolgáltató esetén) | 130 000 Ft |
+| I.1.3.3. | Fekvőbeteg-ellátást végző egészségügyi szolgáltató tevékenység megkezdéséhez szükséges működési engedélyezési eljárás (800 ágyszám feletti egészségügyi szolgáltató esetén) | 175 000 Ft |
 
-| I.1.4. | Egyéb egészségügyi szolgáltató tevékenység, a közreműködői tevékenységet is ideértve – kivéve a kizárólag bejelentés alapján nyilvántartásba vett személyes közreműködőként végzett tevékenységet – megkezdéséhez szükséges működési engedélyezési eljárás telephelyenként | 30 000 Ft |
+| I.1.4. | Egyéb egészségügyi szolgáltató tevékenység, a közreműködői tevékenységet is ideértve – kivéve a kizárólag bejelentés alapján nyilvántartásba vett személyes közreműködőként végzett tevékenységet – megkezdéséhez szükséges működési engedélyezési eljárás telephelyenként | 40 500 Ft |
 
-| I.1.5. | Működési engedély módosítása telephelyenként | 20 700 Ft |
+| I.1.5. | Működési engedély módosítására irányuló eljárás telephelyenként | 27 700 Ft |
 
-| I.1.6. |  |  |
+| I.1.6. | Az Eütv. 108/A. §-ában foglaltak szerinti hatósági nyilvántartásba vétel iránti bejelentés alapján végzett tevékenység hatósági nyilvántartásba vétele telephelyenként | 13 500 Ft |
 
-| I.1.7. |  |  |
+| I.1.7. | Egészségügyi szolgáltatás nyújtásához engedélyezett gépjárműpark gépjárműveiben történt változás hatósági nyilvántartásba vételi eljárása helyszíni szemlével | 12 760 Ft |
 
-| I.1.8. | Az Eütv. 108/A. §-ában foglaltak szerinti hatósági nyilvántartásba vétel iránti bejelentés | 10 000 Ft |
+| I.2.1. | Működtetési jog (praxisjog) engedélyezési eljárás | 20 000 Ft |
 
-| I.2.1. | Működtetési jog (praxisjog) engedélyezési eljárás | 16 000 Ft |
-
-| I.2.2. | Működtetési jog (praxisjog) engedélyének módosítása | 4 000 Ft |
+| I.2.2. | Működtetési jog (praxisjog) engedélyének módosítása | 5 000 Ft |
 
 | I.3. | Gyógyszerellátással kapcsolatos eljárások: |  |
 
-| I.3.1. | Személyes gyógyszertár működtetési jog (személyi jog) engedélyezése | 21 000 Ft |
+| I.3.1. | Személyes gyógyszertár működtetési jog (személyi jog) engedélyezése | 28 350 Ft |
 
-| I.3.2. | Személyes gyógyszertár működtetési jog (személyi jog) engedély módosítása | 5 000 Ft |
+| I.3.2. | Személyes gyógyszertár működtetési jog (személyi jog) engedély módosítása | 6 750 Ft |
 
-| I.3.3. | Gyógyszertár működési engedélyezési eljárás | 66 000 Ft |
+| I.3.3. | Gyógyszertár működési engedélyezési eljárás | 89 100 Ft |
 
-| I.3.4. | Gyógyszertár működési engedélyének módosítása | 30 000 Ft |
+| I.3.4. | Gyógyszertár működési engedélyének módosítása | 40 500 Ft |
 
-| I.3.5. | Gyógyszer kiskereskedelmi forgalmazásának engedélyezése | 30 000 Ft |
+| I.3.5. | Gyógyszer kiskereskedelmi forgalmazásának engedélyezése | 40 500 Ft |
 
-| I.3.6. | Személyes gyógyszertár működtetési jog (személyi jog) átruházásának engedélyezése | 5 000 Ft |
+| I.3.6. | Személyes gyógyszertár működtetési jog (személyi jog) átruházásának engedélyezése | 6 750 Ft |
 
 | I.3.7. | Fiókgyógyszertár áthelyezésének engedélyezése | 5 000 Ft |
 
+| I.3.8. | Fiókgyógyszertár létesítésének engedélyezése | 40 500 Ft |
+
+| I.3.9. | Gyógyszertár működésének felfüggesztése | 40 500 Ft |
+
 | II. | Egyes élelmiszerekkel kapcsolatos igazgatási szolgáltatások |  |
 
-| II.1. | Különleges táplálkozási célú élelmiszerek bejelentése | 50 000 Ft |
+| II.1. | Különleges táplálkozási célú élelmiszerek bejelentése | 67 500 Ft |
 
-| II.2. | Felmentés a különleges táplálkozási célú élelmiszer csomagolására előírt kötelezettség alól | 11 100 Ft |
+| II.2. | Anyatej-helyettesítő és anyatej-kiegészítő tápszerrel kapcsolatos tájékoztató és oktató anyagok (eszközök) engedélyezése | 16 500 Ft |
 
-| II.3. | Anyatej-helyettesítő és anyatej-kiegészítő tápszerrel kapcsolatos tájékoztató és oktató anyagok (eszközök) engedélyezése | 12 200 Ft |
-
-| II.4. | Étrend-kiegészítő készítmények bejelentése | 50 000 Ft |
-
-| II.5. | Új élelmiszerek elsődleges értékeléséhez szakvélemény készítése | 307 000 Ft |
-
-| II.6. |  |  |
-
-| II.7. |  |  |
+| II.3. | Étrend-kiegészítő készítmények bejelentése | 67 500 Ft |
 
 | III. | Kozmetikai készítményekkel kapcsolatos igazgatási szolgáltatások |  |
 
-| III.1. | Kozmetikai terméket gyártó tevékenység bejelentése | 12 600 Ft |
-
-| III.2. |  |  |
-
-| III.3. |  |  |
-
-| III.4. |  |  |
-
-| III.5. |  |  |
-
-| III.6. |  |  |
-
-| III.7. |  |  |
-
-| III.8. |  |  |
-
-| III.8.1. | Kémiai vizsgálatok |  |
-
-| III.8.1.1. | Florid ion (műszeres) | 11 700 Ft |
-
-| III.8.1.2. | pH-mérés (műszeres) | 2 300 Ft |
-
-| III.8.1.3. | Savszám (TITR) | 7 800 Ft |
-
-| III.8.1.4. | E-vitamin (HPLC) | 12 600 Ft |
-
-| III.8.1.5. | A-vitamin (HPLC) | 12 600 Ft |
-
-| III.8.1.6. | Q10 (ubikinon) (SPF) | 6 300 Ft |
-
-| III.8.1.7. | Karotin (SPF) | 9 900 Ft |
-
-| III.8.1.8. | Toxikus fémek (AAS) | 19 200 Ft |
-
-| III.8.1.9. | Tartósítószerek (HPLC) | 18 700 Ft |
-
-| III.8.1.10. | Szerves savak (szalicilsav, tejsav) (HPLC) | 18 700 Ft |
-
-| III.8.1.11. | Tioglikolsav (TITR) | 7 000 Ft |
-
-| III.8.1.12. | Érzékszervi vizsgálat | 4 100 Ft |
-
-| III.8.1.13. | Fényvédő faktor (SPF) | 11 900 Ft |
-
-| III.8.2. |  |  |
-
-|  | Rövidítések: TITR: titrimetria HPLC: nagyhatékonyságú folyadékkromatográfia AAS: atomabszorpciós spektrofotometria SPF: spektrofotometria |  |
+| III.1. | Kozmetikai terméket gyártó tevékenység bejelentése | 17 010 Ft |
 
 | IV. | Vizekkel kapcsolatos közegészségügyi igazgatási szolgáltatások |  |
 
-| IV.1. | Laboratóriumnak a közfürdők, illetve természetes fürdőhelyek fürdővizének ellenőrzésére történő feljogosítása | 92 600 Ft |
+| IV.1. | Laboratóriumnak a közfürdők, illetve természetes fürdőhelyek fürdővizének ellenőrzésére történő feljogosítása | 125 010 Ft |
 
-| IV.2. | Egyedi felmentés vízforgató berendezés telepítése alól | 60 000 Ft |
+| IV.2. | Egyedi felmentés szűrő-forgató berendezés létesítése, üzemeltetése alól | 81 000 Ft |
 
-| IV.3. | Közfürdők üzemeltetési szabályzatának jóváhagyása | 34 900 Ft |
+| IV.3. | Közhasználatú fürdők közegészségügyi-technológiai szabályzatának jóváhagyása | 47 115 Ft |
 
-| IV.4. | Természetes fürdőhely kijelölési eljárás | 48 000 Ft |
+| IV.4. | Természetes fürdőhely kijelölési eljárás | 64 800 Ft |
 
-| IV.5. | Ivóvíz-határérték alóli eltérési engedély, (derogáció), parametrikus értéktől való átmeneti eltérés engedélyezése, vizsgálati szám csökkentésének engedélyezése | 38 400 Ft |
+| IV.7. | Ivóvíz-határérték alóli eltérési engedély, (derogáció), parametrikus értéktől való átmeneti eltérés engedélyezése, vizsgálati szám csökkentés engedélyezése | 51 840 Ft |
 
-| IV.6. |  |  |
+| IV.8. | Ivó- és használati melegvíz-ellátásban, valamint a fürdővíz-ellátásban a vízzel közvetlenül érintkező termékek, vegyszerek, szűrőanyagok, technológiák nyilvántartásba vétele, engedélyezése | 129 600 Ft/termék, vízkezelő vegyszer, szűrőanyag, technológia |
 
-| IV.7. |  |  |
+| IV.9. | Szűrő-forgató berendezés létesítése, üzemeltetése alóli felmentési engedély módosítása | 40 500 Ft |
 
-| IV.8. | Ivó- és használati melegvíz-ellátásban, valamint a fürdővíz-ellátásban a vízzel közvetlenül érintkező termékek, vegyszerek, szűrőanyagok, technológiák nyilvántartásba vétele, engedélyezése | 96 000 Ft/termék, vízkezelő vegyszer, szűrőanyag, technológia |
+| IV.10. | Szűrő-forgató berendezés létesítése, üzemeltetése alóli felmentés engedélyese adataiban bekövetkezett változás | 21 600 Ft |
 
-| IV.9. |  |  |
+| IV.11. | Ivó- és használati melegvíz-ellátásban, valamint fürdővíz-ellátásban a vízzel közvetlenül érintkező termékek, vegyszerek, szűrőanyagok, technológiák nyilvántartásba vételének, engedélyének módosítása | 64 800 Ft/termék, vízkezelő vegyszer, szűrőanyag, technológia |
 
-| IV.10. |  |  |
+| IV.12. | Ivó- és használati melegvíz-ellátásban, valamint fürdővíz-ellátásban a vízzel közvetlenül érintkező termékek, vegyszerek, szűrőanyagok, technológiák bejelentőjének, engedélyesének adataiban bekövetkezett változás miatti módosítás | 21 600 Ft |
 
-| IV.11. |  |  |
+| IV.13. | Ivó- és használati melegvíz-ellátásban, valamint fürdővíz-ellátásban a vízzel közvetlenül érintkező termékek, vegyszerek, szűrőanyagok, technológiák nyilvántartásba vételének megújítása, felülvizsgálata | 64 800 Ft/termék, vízkezelő vegyszer, szűrőanyag, technológia |
 
-| IV.12. | Vízforgató berendezés telepítése alóli felmentési engedély módosítása | 30 000 Ft |
+| IV.14. | Ivóvízbiztonsági terv jóváhagyása | a) évi átlagban 50 000 főnél többet ellátó vízmű esetében 259 200 Ft, b) évi átlagban 50 000 főnél kevesebbet ellátó vízmű esetében 129 600 Ft |
 
-| IV.13. | Vízforgató berendezés telepítése alóli felmentés engedélyese adataiban bekövetkezett változás | 16 000 Ft |
-
-| IV.14. | Ivó- és használati melegvíz-ellátásban, valamint fürdővíz-ellátásban a vízzel közvetlenül érintkező termékek, vegyszerek, szűrőanyagok, technológiák nyilvántartásba vételének, engedélyének módosítása | 48 000 Ft/termék, vízkezelő vegyszer, szűrőanyag, technológia |
-
-| IV.15. | Ivó- és használati melegvíz-ellátásban, valamint fürdővíz-ellátásban a vízzel közvetlenül érintkező termékek, vegyszerek, szűrőanyagok, technológiák bejelentőjének, engedélyesének adataiban bekövetkezett változás miatti módosítás | 16 000 Ft |
-
-| IV.16. | Ivó- és használati melegvíz-ellátásban, valamint fürdővíz-ellátásban a vízzel közvetlenül érintkező termékek, vegyszerek, szűrőanyagok, technológiák nyilvántartásba vételének megújítása, felülvizsgálata | 48 000 Ft/termék, vízkezelő vegyszer, szűrőanyag, technológia |
-
-| IV.17. | Ivóvízbiztonsági terv jóváhagyása | a) évi átlagban 50 000 főnél többet ellátó vízmű esetében 192 000 Ft, b) évi átlagban 50 000 főnél kevesebbet ellátó vízmű esetében 96 000 Ft |
-
-| IV.18. | Ivóvízbiztonsági terv felülvizsgálata | a) évi átlagban 50 000 főnél többet ellátó vízmű esetében 96 000 Ft, b) évi átlagban 50 000 főnél kevesebbet ellátó vízmű esetében 48 000 Ft |
+| IV.15. | Ivóvízbiztonsági terv felülvizsgálata | a) évi átlagban 50 000 főnél többet ellátó vízmű esetében 129 600 Ft, b) évi átlagban 50 000 főnél kevesebbet ellátó vízmű esetében 64 800 Ft |
 
 | V. | Veszélyes anyagokkal, veszélyes keverékekkel kapcsolatos igazgatási szolgáltatások |  |
 
-| V.1. | A veszélyes vegyi anyagok kiviteléről és behozataláról szóló európai parlamenti és tanácsi rendelet szerinti kiviteli bejelentés és hozzájárulás iránti kérelem | 19 100 Ft |
+| V.1. | A veszélyes vegyi anyagok kiviteléről és behozataláról szóló európai parlamenti és tanácsi rendelet szerinti kiviteli bejelentés és hozzájárulás iránti kérelem | 25 700 Ft |
 
-| V.2. | Veszélyes anyaggal vagy veszélyes keverékkel folytatott tevékenység (és a tevékenységben bekövetkezett változás) bejelentése | 7 800 Ft/telephely |
+| V.2. | Veszélyes anyaggal vagy veszélyes keverékkel folytatott tevékenység (és a tevékenységben bekövetkezett változás) bejelentése | 10 500 Ft/telephely |
 
-| V.3. | Veszélyes keverék bejelentése | 9 200 Ft/keverék |
+| V.3. | ETTSZ szakvélemény | 45 000 Ft/anyag vagy keverék |
 
-| V.4. |  |  |
+| V.4. | Méregközpontba történő bejelentés díjtételei |  |
 
-| V.5. |  |  |
+| V.4.1. | Bejelentés | 21 000 Ft/bejelentés |
 
-| V.6. | ETTSZ szakvélemény | 45 000 Ft/anyag vagy keverék |
-
-| V.7. | Méregközpontba történő bejelentés díjtételei |  |
-
-| V.7.1. | Bejelentés | 16 000 Ft/bejelentés |
-
-| V.7.2. | Bejelentés módosítása jelentős (az összetételt érintő) változás esetén | 12 000 Ft/módosítás |
+| V.4.2. | Bejelentés módosítása jelentős (az összetételt érintő) változás esetén | 15 600 Ft/módosítás |
 
 | VI. | Biocid anyagokkal kapcsolatos igazgatási szolgáltatások |  |
 
-| VI.1. | Biocid termék forgalomba hozatalának engedélyezése | 2 500 000 Ft |
+| VI.1. | Biocid termék forgalomba hozatalának engedélyezése | 3 375 000 Ft |
 
-| VI.2. | Biocid termék forgalomba hozatalának engedélyezése, ha az azonos a hatóanyag jóváhagyási eljárásában referenciatermékként értékelt termékkel | 500 000 Ft |
+| VI.2. | Biocid termék forgalomba hozatalának engedélyezése, ha az azonos a hatóanyag jóváhagyási eljárásában referenciatermékként értékelt termékkel | 675 000 Ft |
 
-| VI.3. | Biocid termékcsalád forgalomba hozatalának engedélyezése | 5 000 000 Ft |
+| VI.3. | Biocid termékcsalád forgalomba hozatalának engedélyezése | 6 750 000 Ft |
 
-| VI.4. | Biocid termék vagy termékcsalád forgalomba hozatali engedélyének módosítása adminisztratív változtatás esetén | 25 000 Ft |
+| VI.4. | Biocid termék vagy termékcsalád forgalomba hozatali engedélyének módosítása adminisztratív változtatás esetén | 33 700 Ft |
 
-| VI.5. | Biocid termék forgalomba hozatali engedélyének módosítása kisebb mértékű változtatás esetén Biocid termékcsalád esetén | 150 000 Ft 300 000 Ft |
+| VI.5. | Biocid termék forgalomba hozatali engedélyének módosítása kisebb mértékű változtatás esetén Biocid termékcsalád esetén | 202 500 Ft 405 000 Ft |
 
-| VI.6. | Biocid termék forgalomba hozatali engedélyének módosítása jelentős változtatás esetén Biocid termékcsalád esetén | 1 000 000 Ft 2 000 000 Ft |
+| VI.6. | Biocid termék forgalomba hozatali engedélyének módosítása jelentős változtatás esetén Biocid termékcsalád esetén | 1 350 000 Ft 2 700 000 Ft |
 
-| VI.7. | Biocid termék vagy termékcsalád forgalomba hozatali engedélyének megújítása, ha a dokumentáció teljes körű újraértékelése szükséges | 1 875 000 Ft |
+| VI.7. | Biocid termék vagy termékcsalád forgalomba hozatali engedélyének megújítása, ha a dokumentáció teljes körű újraértékelése szükséges | 2 531 000 Ft |
 
-| VI.8. | Biocid termék vagy termékcsalád forgalomba hozatali engedélyének megújítása, ha a dokumentáció korlátozott mértékű újraértékelése szükséges | 625 000 Ft |
+| VI.8. | Biocid termék vagy termékcsalád forgalomba hozatali engedélyének megújítása, ha a dokumentáció korlátozott mértékű újraértékelése szükséges | 843 700 Ft |
 
-| VI.9. | Azonos biocid termék forgalomba hozatalának engedélyezése | 75 000 Ft |
+| VI.9. | Azonos biocid termék forgalomba hozatalának engedélyezése | 101 000 Ft |
 
-| VI.10. | Biocid termékcsalád újabb tagja forgalomba hozatalának bejelentése | 75 000 Ft |
+| VI.10. | Biocid termékcsalád újabb tagja forgalomba hozatalának bejelentése | 101 000 Ft |
 
-| VI.11. | Biocid termék forgalomba hozatalának egyszerűsített eljárással történő engedélyezése során a dokumentáció értékelése Biocid termékcsalád esetén | 500 000 Ft 1 000 000 Ft |
+| VI.11. | Biocid termék forgalomba hozatalának egyszerűsített eljárással történő engedélyezése során a dokumentáció értékelése Biocid termékcsalád esetén | 675 000 Ft 1 350 000 Ft |
 
-| VI.12. | Az egyszerűsített engedélyezési eljárás keretében engedélyezett biocid termék forgalmazásának bejelentése | 50 000 Ft |
+| VI.12. | Az egyszerűsített engedélyezési eljárás keretében engedélyezett biocid termék forgalmazásának bejelentése | 67 500 Ft |
 
-| VI.13. | Egyszerűsített eljárással kiadott biocid termék forgalomba hozatali engedélyének megújítása során a dokumentáció értékelése | 50 000 Ft |
+| VI.13. | Egyszerűsített eljárással kiadott biocid termék forgalomba hozatali engedélyének megújítása során a dokumentáció értékelése | 67 500 Ft |
 
-| VI.14. | Biocid termék más tagállamban kiadott engedélyének elismerési eljárása | 500 000 Ft |
+| VI.14. | Biocid termék más tagállamban kiadott engedélyének elismerési eljárása | 675 000 Ft |
 
-| VI.15. | Biocid termékcsalád kölcsönös elismerési eljárással történő engedélyezése | 1 000 000 Ft |
+| VI.15. | Biocid termékcsalád kölcsönös elismerési eljárással történő engedélyezése | 1 350 000 Ft |
 
-| VI.16. | Biocid termék vagy termékcsalád kölcsönös elismerési eljárás során megadott forgalomba hozatali engedély adminisztratív módosítása | 25 000 Ft |
+| VI.16. | Biocid termék vagy termékcsalád kölcsönös elismerési eljárás során megadott forgalomba hozatali engedély adminisztratív módosítása | 33 700 Ft |
 
-| VI.17. | Biocid termék kölcsönös elismerési eljárás során megadott forgalomba hozatali engedély kisebb mértékű változtatás esetén történő módosítása Biocid termékcsalád esetén | 50 000 Ft |
+| VI.17. | Biocid termék vagy termékcsalád forgalomba hozatali engedélyének kisebb mértékű változtatása, amennyiben az értékelést más tagállam végzi | 67 500 Ft |
 
-| VI.18. | Biocid termék kölcsönös elismerési eljárás során megadott forgalomba hozatali engedély jelentős változtatás esetén történő módosítása Biocid termékcsalád esetén | 200 000 Ft 400 000 Ft |
+| VI.18. | Biocid termék forgalomba hozatali engedélyének jelentős változtatása, amennyiben az értékelést más tagállam végzi Biocid termékcsalád esetén | 270 000 Ft 540 000 Ft |
 
-| VI.19. | Biocid termék forgalomba hozatalának engedélyezése, ha a termék egy hatóanyagnál többet tartalmaz | Alapdíj + 200 000 Ft minden további hatóanyagra |
+| VI.19. | Biocid termék forgalomba hozatalának engedélyezése, ha a termék egy hatóanyagnál többet tartalmaz | Alapdíj + 270 000 Ft minden további hatóanyagra |
 
-| VI.20. | Biocid termék forgalomba hozatalának engedélyezése további terméktípusokra | Alapdíj + 200 000 Ft minden további terméktípusra |
+| VI.20. | Biocid termék forgalomba hozatalának engedélyezése további terméktípusokra | Alapdíj + 270 000 Ft minden további terméktípusra |
 
-| VI.21. | Biocid termékek összehasonlító értékelése | 1 250 000 Ft hatóanyagonként |
+| VI.21. | Biocid termékek vagy termékcsaládok összehasonlító értékelése | 1 687 500 Ft hatóanyagonként |
 
-| VI.22. | Párhuzamos kereskedelemi engedély | 100 000 Ft |
+| VI.22. | Párhuzamos kereskedelmi engedély | 135 000 Ft |
 
-| VI.23. | Biocid hatóanyag jóváhagyására irányuló eljárásban a dokumentáció értékelése | 45 000 000 Ft |
+| VI.23. | Biocid hatóanyag jóváhagyására irányuló eljárásban a dokumentáció értékelése | 60 750 000 Ft |
 
-| VI.24. | A hatóság által korábban értékelt azonos kérelmezőtől származó, vagy egyidejűleg benyújtott biocid hatóanyagnak a korábbitól eltérő további terméktípus jóváhagyására irányuló eljárásban a dokumentáció értékelése | 22 500 000 Ft |
+| VI.24. | A hatóság által korábban értékelt azonos kérelmezőtől származó, vagy egyidejűleg benyújtott biocid hatóanyagnak a korábbitól eltérő további terméktípus jóváhagyására irányuló eljárásban a dokumentáció értékelése | 30 375 000 Ft |
 
-| VI.25. | Biocid hatóanyag jóváhagyásának megújítására irányuló eljárásban a dokumentáció teljes újraértékelése | 45 000 000 Ft |
+| VI.25. | Biocid hatóanyag jóváhagyásának megújítására irányuló eljárásban a dokumentáció teljes újraértékelése | 60 750 000 Ft |
 
-| VI.26. | Biocid hatóanyag jóváhagyásának megújítására irányuló eljárásban a dokumentáció részleges újraértékelése | 22 500 000 Ft |
+| VI.26. | Biocid hatóanyag jóváhagyásának megújítására irányuló eljárásban a dokumentáció részleges újraértékelése | 30 375 000 Ft |
 
-| VI.27. | A hatóság által korábban értékelt azonos kérelmezőtől származó, vagy egyidejűleg benyújtott biocid hatóanyag a korábbitól eltérő további terméktípusban történő jóváhagyásának megújítására irányuló eljárásban a dokumentáció teljes újraértékelése | 22 500 000 Ft |
+| VI.27. | A hatóság által korábban értékelt azonos kérelmezőtől származó, vagy egyidejűleg benyújtott biocid hatóanyag a korábbitól eltérő további terméktípusban történő jóváhagyásának megújítására irányuló eljárásban a dokumentáció teljes újraértékelése | 30 375 000 Ft |
 
-| VI.28. | A hatóság által korábban értékelt azonos kérelmezőtől származó, vagy egyidejűleg benyújtott biocid hatóanyag a korábbitól eltérő további terméktípusban történő jóváhagyásának megújítására irányuló eljárásban a dokumentáció részleges újraértékelése | 11 250 000 Ft |
+| VI.28. | A hatóság által korábban értékelt azonos kérelmezőtől származó, vagy egyidejűleg benyújtott biocid hatóanyag a korábbitól eltérő további terméktípusban történő jóváhagyásának megújítására irányuló eljárásban a dokumentáció részleges újraértékelése | 15 187 000 Ft |
 
-|  | A biocid termékek engedélyezésének és forgalomba hozatalának egyes szabályairól szóló 316/ 2013. (VIII. 28.) Korm. rendelet 24. §-a szerinti átmeneti rendszer díjtételei |  |
+| VI.29. | Nem engedélyezett biocid terméken, vagy kizárólag biocid terméken való felhasználásra szánt, nem jóváhagyott hatóanyagon kutatási vagy fejlesztési célú kísérlet és vizsgálat elvégzésének kezdeményezése | 67 500 Ft |
 
-| VI.29. | Rovar-, rágcsálóirtó szer és rovarriasztó szer forgalomba hozatalának engedélyezése | 96 000 Ft/termék |
+| VI.30. | Biocid termék vagy termékcsalád forgalomba hozatali engedélyének megújítása, ha az értékelést más tagállam végzi | 506 000 Ft |
 
-| VI.30. | Rovar-, rágcsálóirtó szer, valamint rovarriasztó szer szakvéleményezése forgalomba hozatalhoz: |  |
+| VI.31. | Biocid termékek vagy termékcsaládok más tagállamban végzett összehasonlító értékelésének elismerése | 202 500 Ft hatóanyagonként |
 
-| VI.30.1. | Rovarirtó szerek szakvéleményezése | 333 500 Ft |
+|  | A biocid termékek engedélyezésének és forgalomba hozatalának egyes szabályairól szóló 316/2013. (VIII. 28.) Korm. rendelet 24. §-a szerinti átmeneti rendszer díjtételei |  |
 
-| VI.30.2. | Rovarriasztó szerek szakvéleményezése | 177 400 Ft |
+| VI.32. | Rovar-, rágcsálóirtó szer és rovarriasztó szer forgalomba hozatalának engedélyezése | 129 600 Ft/termék |
 
-| VI.30.3. | Rágcsálóirtó szer szakvéleményezése | 243 200 Ft |
+| VI.33. | Rovar-, rágcsálóirtó szer, valamint rovarriasztó szer szakvéleményezése forgalomba hozatalhoz: |  |
 
-| VI.31. | Irtószer felhasználás engedélyezése | 11 000 Ft |
+| VI.33.1. | Rovarirtó szerek szakvéleményezése | 506 500 Ft |
 
-| VI.32. | Fertőtlenítőszer forgalomba hozatalának és fertőtlenítési technológia engedélyezése | 96 000 Ft/termék |
+| VI.33.2. | Rovarriasztó szerek szakvéleményezése | 339 500 Ft |
 
-| VI.33. | Ivóvízellátásban, uszoda- és fürdővízben felhasználható biocid anyag engedélyezése | 96 000 Ft/termék |
+| VI.33.3. | Rágcsálóirtó szer szakvéleményezése | 328 200 Ft |
 
-| VI.34. | A biocid termék forgalomba hozatali engedélyének módosítása értékelést nem igénylő változtatás esetén | 25 000 Ft |
+| VI.34. | Irtószer felhasználás engedélyezése | 11 000 Ft |
 
-| VI.35. | A biocid termék forgalomba hozatali engedélyének módosítása értékelést igénylő változtatás esetén | 48 000 Ft |
+| VI.35. | Fertőtlenítőszer forgalomba hozatalának és fertőtlenítési technológia engedélyezése | 129 600 Ft/termék |
 
-| VI.36. | Nem engedélyezett biocid terméken, vagy kizárólag biocid terméken való felhasználásra szánt, nem jóváhagyott hatóanyagon kutatási vagy fejlesztési célú kísérlet és vizsgálat elvégzésének kezdeményezése | 50 000 Ft |
+| VI.36. | Ivóvízellátásban, uszoda- és fürdővízben felhasználható biocid anyag engedélyezése | 129 600 Ft/termék |
 
-| VI.37. | Biocid termék vagy termékcsalád forgalomba hozatali engedélyének megújítása, ha az értékelést más tagállam végzi | 375 000 Ft |
+| VI.37. | A biocid termék forgalomba hozatali engedélyének módosítása adminisztratív változtatás esetén | 33 700 Ft |
 
-| VI.38. | Biocid termékek más tagállamban végzett összehasonlító értékelésének elismerése | 150 000 Ft hatóanyagonként |
+| VI.38. | A biocid termék forgalomba hozatali engedélyének módosítása nem adminisztratív változtatás esetén | 64 800 Ft |
 
-| VI.39. |  |  |
+| VI.39. | Humán-egészségügyi célra használt biocid termékek szakvéleményezése | 87 000 Ft/termék |
+
+| VI.40. | A 2. terméktípusba tartozó magán- és közegészségügyi felhasználású fertőtlenítőszerek és egyéb biocid termékek szakvéleményezése | 87 000 Ft/termék |
+
+| VI. 41. | Élelmiszer és takarmány közelében használt biocid termékek szakvéleményezése | 87 000 Ft/termék |
+
+| VI.42. | Ivóvízellátásban, uszoda- és fürdővízben felhasználható biocid termékek szakvéleményezése | 87 000 Ft/termék |
 
 | VII. | Immunológiai készítményekkel kapcsolatos igazgatási szolgáltatások |  |
 
 |  | Immunológiai készítmények gyártási tételének vizsgálata forgalomba hozatalt megelőzően: |  |
 
-| VII.1. | Külföldi készítmény, külföldi hatósági bizonylattal | 147 000 Ft |
+| VII.1. | Külföldi készítmény, külföldi hatósági bizonylattal | 195 000 Ft |
 
-| VII.2. | Készítmény hatósági bizonylat nélkül | 525 500 Ft |
+| VII.2. | Készítmény hatósági bizonylat nélkül | 695 000 Ft |
 
-| VII.3. |  |  |
+| VIII. | Közegészségügyi-járványügyi igazgatási szolgáltatások |  |
 
-| VIII. | Atomenergia alkalmazásával kapcsolatos igazgatási szolgáltatások |  |
+| VIII.1. | Légi szúnyogirtás engedélyezése | 24 500 Ft |
 
-| VIII.1. |  |  |
+| IX. | Természetes gyógytényezőkkel és ásványvizekkel kapcsolatos igazgatási szolgáltatások |  |
 
-| VIII.1.1. |  |  |
+| IX.1. | Gyógyfürdőintézmény megnevezés használatának engedélyezése | 162 000 Ft |
 
-| VIII.1.2. |  |  |
+| IX.2 | Elismert ásványvíz megnevezés használatának engedélyezése | 81 000 Ft |
 
-| VIII.1.3. |  |  |
+| IX.3. | Elismert ásványvíz gyógyvízzé történő átminősítésének engedélyezése | 63 450 Ft |
 
-| VIII.2. |  |  |
+| IX.4. | Gyógyvíz, gyógyhatású víz megnevezés használatának engedélyezése, valamint külföldről származó palackozott gyógyvíz hazai forgalomba hozatalának engedélyezése | 117 450 Ft |
 
-| VIII.3. |  |  |
+| IX.5. | Gyógyiszap és egyéb természetes gyógytényező megnevezés használatának engedélyezése | 117 450 Ft |
 
-| VIII.4. |  |  |
+| IX.6. | Korábban kiadott engedély módosítása, felülvizsgálata | 41 000 Ft |
 
-| VIII.5. |  |  |
+| IX.7. | Közegészségügyi tájékoztatás adása a gyógyhely és védőterület határai kijelölésére, valamint a levegőterheltségi szint mérési pontok megfelelőségére vonatkozóan | 49 410 Ft |
 
-| VIII.6. |  |  |
+| IX.8. | Elismert ásványvíz, gyógyvíz, gyógyhatású víz, gyógyiszap és egyéb természetes gyógytényezők megnevezés engedélyezésében szakhatósági közreműködés (a kitermelés körülményeinek közegészségügyi szempontú vizsgálata) | 31 500 Ft |
 
-| VIII.7. |  |  |
+| IX.8. | Település egésze vagy meghatározott része gyógyhellyé nyilvánításának engedélyezése | 160 000 Ft |
 
-| VIII.8. |  |  |
+| IX.11. | Gyógyhellyé nyilvánítás engedélyezésében szakhatósági közreműködés (környezet-egészségügyi szempontú feltételek vizsgálata) | 380 000 Ft |
 
-| VIII.9. |  |  |
+| IX.12. | Elismert ásványvíz, gyógyvíz, gyógyhatású víz, gyógyiszap és egyéb természetes gyógytényezők megnevezés engedélyezésében szakhatósági közreműködés (a gyógytényező felhasználhatósága formájának, azaz külsőleg vagy belsőleg történő felhasználásának, feltételeinek, a korlátozással fogyasztható vizek fogyasztási előírásainak, valamint az esetleges víz- és iszapkezelési technológiai eljárásoknak a közegészségügyi szempontú vizsgálata) | 120 000 Ft |
 
-| VIII.10. |  |  |
+| IX.13. | Elismert ásványvíz, gyógyvíz, gyógyhatású víz, gyógyiszap és egyéb természetes gyógytényezők megnevezés engedélyezésében szakhatósági közreműködés (annak vizsgálata, hogy a vizet adó kút vagy forrás egy, már korábban gyógyvíz minősítést kapott kút vagy forrás védőterületén, védőidomán belül van, azonos vízadó rétegből kapja a vizet, és a két víz kémiai összetétele a természetes ingadozás határain (maximum 20% változás) belül megegyezik) | 30 000 Ft |
 
-| VIII.11. |  |  |
+| IX.14. | Elismert ásványvíz, gyógyvíz, gyógyhatású víz, gyógyiszap és egyéb természetes gyógytényezők megnevezés engedélyezésében szakhatósági közreműködés (az orvosi megfigyelések értékelése, amely tartalmazza a javallatokat, ellenjavallatokat és az alkalmazási előírásokat is.) | 120 000 Ft |
 
-| VIII.12. |  |  |
+| IX.15. | Szűrő-forgató rendszer létesítése, üzemeltetése alóli felmentés engedélyezésében szakhatósági közreműködés (annak vizsgálata, hogy a gyógyvíz minősége alapján a felmentés feltételei teljesülnek-e, továbbá, hogy, a gyógyvíz gyógyászati szempontból értékes, biológiailag aktív alkotórészeit a vízforgatás károsítja-e) | 120 000 Ft |
 
-| VIII.13. |  |  |
+| IX.16. | Szűrő-forgató rendszer létesítése, üzemeltetése alóli felmentés engedélyezésében szakhatósági közreműködés (annak vizsgálata, hogy a kérelemben rögzített nyitvatartási- és geometriai adatok mellett bizonyítottan rendelkezésre áll-e (a vízjogi üzemeltetési engedélyben szereplő engedélyezett vízkivétel figyelembevételével) a minimálisan biztosítandó 30%-os felületi terheléshez szükséges vízmennyiség mind napi, mind éves vonatkozásban) | 115 000 Ft |
 
-| VIII.14. |  |  |
+| IX.17. | Közhasználatú fürdők közegészségügyi-technológiai szabályzatot jóváhagyó eljárásban szakhatósági közreműködés (egyedi kút vizének és egyéb vizek közegészségügyi szempontú vizsgálata fürdési célú létesítmény tápvizeként történő felhasználására) | 120 000 Ft |
 
-| VIII.14.1. |  |  |
+| IX.18. | Közhasználatú fürdők közegészségügyi-technológiai szabályzatot jóváhagyó eljárásban szakhatósági közreműködés (szűrő-forgató berendezéssel üzemeltetett fürdési célú létesítményben elismert ásvány- és gyógyvíz, vagy egyedi összetételű tápvíz felhasználása esetén a kémiai paraméterek tekintetében a medencevízre vonatkozó előírásoktól való eltérés vizsgálata) | 120 000 Ft |
 
-| VIII.14.2. |  |  |
+| X. | Más hatóság eljárásában történő közreműködéssel kapcsolatos igazgatási szolgáltatások |  |
 
-| VIII.14.3. |  |  |
+| X.3. | Kereskedelmi szálláshely működtetésében való szakhatósági közreműködés | 38 475 Ft |
 
-| VIII.14.4. |  |  |
+| X.4. | Vízbázisok védelmével kapcsolatos szakhatósági közreműködés | 41 445 Ft |
 
-| VIII.15. |  |  |
+| X.5. | Fürdési célú gázveszélyes víz igénybevételével kapcsolatos szakhatósági közreműködés | 31 725 Ft |
 
-| VIII.16. |  |  |
+| X.6. | Elvi vízjogi engedélyezési vízjogi létesítési, üzemeltetési és fennmaradási engedélyezési eljárásokban történő szakhatósági közreműködés | 32 265 Ft |
 
-| VIII.16.1. |  |  |
+| X.7. | Felszíni víz ivóvízként való felhasználására vonatkozó eljárásban szakhatósági közreműködés | 32 265 Ft |
 
-| VIII.16.2. |  |  |
+| X.8. | Közfürdő védőterületének kialakításában való szakhatósági közreműködés | 27 270 Ft |
 
-| VIII.17. |  |  |
+| X.9. | 50 főnél kevesebb személyt ellátó, vagy napi 10 m3-nél kevesebb vizet szolgáltató vízellátó rendszer közegészségügyi feltételeinek megállapítása | 27 270 Ft |
 
-| VIII.18. |  |  |
+| X.10. | Felszín alatti vizek védelmével kapcsolatos közegészségügyi szakhatósági közreműködés | 31 725 Ft |
 
-| VIII.19. |  |  |
+| X.11. | Települési szilárd és folyékony hulladékkal kapcsolatos (hulladékkezelő létesítményre vonatkozó) szakhatósági közreműködés | 37 395 Ft |
 
-| VIII.20. |  |  |
+| X.12. | Építőipari kivitelezési tevékenységtől származó zaj határérték-túllépés engedélyezési eljárásban szakhatósági közreműködés | 37 395 Ft |
 
-| VIII.21. |  |  |
+| X.13. | Települési szilárd és folyékony hulladékkal kapcsolatos tevékenység engedélyezési eljárásában történő szakhatósági közreműködés | 37 395 Ft |
 
-| VIII.22. |  |  |
+| X.14. | Veszélyes hulladék elhelyezésével kapcsolatos szakhatósági közreműködés | 32 670 Ft |
 
-| VIII.23. |  |  |
+| X.16. | Környezeti hatásvizsgálati eljárásban szakhatósági közreműködés | 40 095 Ft |
 
-| VIII.24. |  |  |
+| X.17. | Vásár, piac, vásárcsarnok létesítéséhez és nyilvántartásba vételéhez előírt szakhatósági közreműködés | 40 500 Ft |
 
-| IX. | Közegészségügyi-járványügyi igazgatási szolgáltatások |  |
+| X.21. | Telepengedélyezési eljárásban szakhatósági közreműködés | 26 190 Ft |
 
-| IX.1. | Légi szúnyogirtás engedélyezése | 18 500 Ft |
+| X.22. | Utak építésének, forgalomba helyezésének és megszüntetésének engedélyezési eljárásában szakhatósági közreműködés | 15 525 Ft |
 
-| IX.2. |  |  |
+| XI. | Orvostudományi kutatással kapcsolatos igazgatási szolgáltatások [nem kereskedelmi kutatás, valamint az Eütv. 159. § (5) bekezdése szerinti kutatás kivételével] |  |
 
-| IX.3. |  |  |
+| XI.1. | Orvostudományi kutatás engedélyezése, az engedély módosítása az Egészségügyi Tudományos Tanács Tudományos és Kutatásetikai Bizottságának vagy az Egészségügyi Tudományos Tanács Humánreprodukciós Bizottságának szakhatósági állásfoglalása alapján | 500 000 Ft + kutatásba bevont telephelyenként 33 000 Ft kiegészítődíj (az összegből a szakhatósági eljárás díja 425 000 Ft) |
 
-| X. | Természetes gyógytényezőkkel és ásványvizekkel kapcsolatos igazgatási szolgáltatások |  |
+| XI.2. | Orvostudományi kutatás engedélyezése, az engedély módosítása a Regionális Kutatásetikai Bizottságok (RKEB) véleménye alapján | 114 000 Ft (ebből az RKEB díja: 15 300 Ft) |
 
-| X.1. |  |  |
+| XII. | A nemdohányzók védelmével kapcsolatos igazgatási szolgáltatások |  |
 
-| X.2. |  |  |
+| XII.1. | Zárt légterű dohányzóhely kijelölésének engedélyezése a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló 1999. évi XLII. törvény (a továbbiakban: Nvt.) 2. § (9) bekezdése alapján, az Nvt. 2. § (5) bekezdés d) és e) pontja szerinti esetekben a munkavállalók részére | 54 000 Ft |
 
-| X.3. | Gyógyfürdőintézmény megnevezésének és gyógyászati célú használatbavételének engedélyezése | 120 000 Ft |
+| XII.2. | Új adalékanyagok dohánytermék-gyártásban történő felhasználásának bejelentése, a korábban bejelentett adalékanyagra vonatkozó tanulmány elbírálása, új dohánytermék-kategóriákba tartozó dohánytermék bejelentése, dohányzási célú gyógynövénytermék bejelentése, valamint az e sor szerinti bejelentésekhez kapcsolódó változásbejelentések | 54 000 Ft |
 
-| X.4. | Elismert ásványvíz megnevezés használatának és gyógyászati célú használatbavételének, továbbá mesterséges ásványvíz előállításának engedélyezése | 60 000 Ft |
+| XII.3. | A jogszabályban foglaltaktól eltérő dohányzási tilalmat jelző felirat engedélyezése | 20 250 Ft |
 
-| X.5. | Elismert ásványvíz gyógyvízzé történő átminősítése és gyógyászati célú használatbavételének engedélyezése előzetes szakvéleménnyel együtt | 47 000 Ft |
-
-| X.6. | Gyógyvízmegnevezés használatának, illetve gyógyászati célú felhasználásának, valamint forgalomba hozatalának engedélyezése előzetes szakvéleménnyel | 87 000 Ft |
-
-| X.7. | Gyógyiszap és egyéb természetes gyógytényezők megnevezésének és gyógyászati célú használatbavételének engedélyezése előzetes szakvéleménnyel együtt | 87 000 Ft |
-
-| X.8. | Korábban kiadott engedély módosítása, felülvizsgálata | 41 000 Ft |
-
-| X.9. | Közegészségügyi szakvélemény adása gyógyhely megnevezés használatának engedélyezéséhez | 36 600 Ft |
-
-| X.10. | Közegészségügyi szakvélemény adása elismert ásványvíz, gyógyvíz, gyógyiszap és egyéb természetes gyógytényező megnevezés használatának engedélyezéséhez | 29 700 Ft |
-
-| X.11. | Település egésze vagy meghatározott része gyógyhellyé nyilvánításának engedélyezése | 160 000 Ft |
-
-| XI. | Más hatóság eljárásában történő közreműködéssel kapcsolatos igazgatási szolgáltatások |  |
-
-| XI.1. |  |  |
-
-| XI.2. |  |  |
-
-| XI.3. | Kereskedelmi szálláshely működtetésében való szakhatósági közreműködés | 28 500 Ft |
-
-| XI.4. | Vízbázisok védelmével kapcsolatos szakhatósági közreműködés | 30 700 Ft |
-
-| XI.5. | Fürdési célú gázveszélyes víz igénybevételével kapcsolatos szakhatósági közreműködés | 23 500 Ft |
-
-| XI.6. | Elvi vízjogi engedélyezési vízjogi létesítési, üzemeltetési és fennmaradási engedélyezési eljárásokban történő szakhatósági közreműködés | 23 900 Ft |
-
-| XI.7. | Felszíni víz ivóvízként való felhasználására vonatkozó eljárásban szakhatósági közreműködés | 23 900 Ft |
-
-| XI.8. | Közfürdő védőterületének kialakításában való szakhatósági közreműködés | 20 200 Ft |
-
-| XI.9. | 50 főnél kevesebb személyt ellátó vagy napi 10 m3-nél kevesebb vizet szolgáltató vízellátó rendszer közegészségügyi feltételeinek megállapítása | 20 200 Ft |
-
-| XI.10. | Felszín alatti vizek védelmével kapcsolatos közegészségügyi szakhatósági közreműködés | 23 500 Ft |
-
-| XI.11. | Települési szilárd és folyékony hulladékkal kapcsolatos (hulladékkezelő létesítményre vonatkozó) szakhatósági közreműködés | 27 700 Ft |
-
-| XI.12. | Építőipari kivitelezési tevékenységtől származó zaj határérték-túllépés engedélyezési eljárásban szakhatósági közreműködés | 27 700 Ft |
-
-| XI.13. | Települési szilárd és folyékony hulladékkal kapcsolatos tevékenység engedélyezési eljárásában történő szakhatósági közreműködés | 27 700 Ft |
-
-| XI.14. | Veszélyes hulladék elhelyezésével kapcsolatos szakhatósági közreműködés | 24 200 Ft |
-
-| XI.15. |  |  |
-
-| XI.16. | Környezeti hatásvizsgálati eljárásban szakhatósági közreműködés | 29 700 Ft |
-
-| XI.17. | Vásár, piac, vásárcsarnok létesítéséhez és nyilvántartásba vételéhez előírt szakhatósági közreműködés | 30 000 Ft |
-
-| XI.18. |  |  |
-
-| XI.19. |  |  |
-
-| XI.20. |  |  |
-
-| XI.21. | Telepengedélyezési eljárásban szakhatósági közreműködés | 19 400 Ft |
-
-| XI.22. | Utak építésének, forgalomba helyezésének és megszüntetésének engedélyezési eljárásában szakhatósági közreműködés | 11 500 Ft |
-
-| XI.23. | Elismert ásványvíz, gyógyvíz, gyógyhatású víz, gyógyiszap és egyéb természetes gyógytényezők megnevezés engedélyezésében szakhatósági közreműködés (a kitermelés körülményeinek közegészségügyi szempontú vizsgálata) | 31 500 Ft |
-
-| XII. | Orvostudományi kutatással kapcsolatos igazgatási szolgáltatások [nem kereskedelmi kutatás, valamint az Eütv. 159. § (5) bekezdése szerinti kutatás kivételével] |  |
-
-| XII. 1. | Orvostudományi kutatás engedélyezése, az engedély módosítása az Egészségügyi Tudományos Tanács Tudományos és Kutatásetikai Bizottságának szakhatósági állásfoglalása alapján | 377 000 Ft + kutatásba bevont telephelyenként 25 000 Ft szakértői díj (az összegből a szakhatósági eljárás díja 320 000 Ft) |
-
-| XII. 2. | Orvostudományi kutatás engedélyezése, az engedély módosítása az Egészségügyi Tudományos Tanács Humánreprodukciós Bizottságának szakhatósági állásfoglalása alapján | 372 000 Ft + kutatásba bevont telephelyenként 25 000 Ft szakértői díj (az összegből a szakhatósági eljárás díja 315 000 Ft) |
-
-| XII. 3. | Orvostudományi kutatás engedélyezése, az engedély módosítása a Regionális Kutatásetikai Bizottságok (RKEB) véleménye alapján | 114 000 Ft (ebből az RKEB díja: 15 300 Ft) |
-
-| XIII. | A nemdohányzók védelmével kapcsolatos igazgatási szolgáltatások |  |
-
-| XIII.1. | Zárt légterű dohányzóhely kijelölésének engedélyezése a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló 1999. évi XLII. törvény (a továbbiakban: Nvt.) 2. § (9) bekezdése alapján, az Nvt. 2. § (5) bekezdés d) és e) pontja szerinti esetekben a munkavállalók részére | 40 000 Ft |
-
-| XIII. 2. | Új adalékanyagok dohánytermék-gyártásban történő felhasználásának bejelentése, a korábban bejelentett adalékanyagra vonatkozó tanulmány elbírálása, új dohánytermék-kategóriákba tartozó dohánytermék bejelentése, dohányzási célú gyógynövénytermék bejelentése | 40 000 Ft |
-
-| XIII. 3. | A jogszabályban foglaltaktól eltérő dohányzási tilalmat jelző felirat engedélyezése | 15 000 Ft |
-
-2. melléklet az 1/2009. (I. 30.) EüM rendelethez[^15]
+2. melléklet az 1/2009. (I. 30.) EüM rendelethez[^17]
 
 |  | A | B |
 
@@ -488,4 +348,4 @@
 
 | 24 | Zala Vármegyei Kormányhivatal | 10049006-00303066-00000000 |
 
-[^15]: A 2. melléklet a 38/2018. (X. 31.) EMMI rendelet 13. §-ával megállapított, a 21/2021. (VI. 8.) EMMI rendelet 10. § (1) bekezdése, a 48/2022. (XII. 27.) BM rendelet 6. § b) pontja, az 52/2022. (XII. 27.) BM rendelet 18. §-a, a 28/2023. (VIII. 10.) BM rendelet 49. § b) pontja és 50. §-a szerint módosított szöveg.
+[^17]: A 2. melléklet a 38/2018. (X. 31.) EMMI rendelet 13. §-ával megállapított, a 21/2021. (VI. 8.) EMMI rendelet 10. § (1) bekezdése, a 48/2022. (XII. 27.) BM rendelet 6. § b) pontja, az 52/2022. (XII. 27.) BM rendelet 18. §-a, a 28/2023. (VIII. 10.) BM rendelet 49. § b) pontja és 50. §-a szerint módosított szöveg.
