@@ -6,113 +6,123 @@ Melléklet az 57/2006. (VIII. 3.) GKM rendelethez[^9]
 
 Fémjelzési, nemesfémtartalom-vizsgálati és -hitelesítési, valamint bejelentési, engedélyezési és nyilvántartásba vételi igazgatási szolgáltatási díjak
 
-I. Fémjelzési díjak:
+| 1. Fémjelzési díjak: |
 
-a) az órák után darabonként, beütéssel együtt 1 200,00 Ft
+| A fémjelzési díj a grammsúly szerinti finomságvizsgálati díj és a darabszám szerinti beütési díj összege. A finomságvizsgálati díj tömeg szerinti megállapításánál minden megkezdett grammot egész grammnak kell tekinteni. A finomságvizsgálati díj felszámításra kerül akkor is, ha az áru fémjelzésére nem megfelelőség miatt nem kerül sor. |
 
-b) az órákon kívül minden egyéb:
+| 1.1. új nemesfém tárgy: |
 
-1. aranytárgyak finomságvizsgálata, grammonként 56,00 Ft
+| 1.1.1. arany finomságvizsgálata, grammonként | 95 Ft |
 
-2. ezüsttárgyak finomságvizsgálata, grammonként 10,00 Ft
+| 1.1.2. ezüst finomságvizsgálata, grammonként | 20 Ft |
 
-3. platinatárgyak finomságvizsgálata, grammonként 210,00 Ft
+| 1.1.3. platina finomságvizsgálata, grammonként | 290 Ft |
 
-4. palládiumtárgyak finomságvizsgálata, grammonként 210,00 Ft
+| 1.1.4. palládium finomságvizsgálata, grammonként | 290 Ft |
 
-c) fémjel beütése vagy fémjel azonosítása, darabonként 12,00 Ft
+| 1.2. használt/javított nemesfém tárgy: |
 
-d) fémjel megsemmisítés 64,00 Ft
+| 1.2.1. arany finomságvizsgálata, grammonként | 170 Ft |
 
-e) sürgősségi díj:
+| 1.2.2. ezüst finomságvizsgálata, grammonként | 40 Ft |
 
-1. arany-, platina- és palládiumtárgyak esetében, darabonként 63,00 Ft
+| 1.2.3. platina finomságvizsgálata, grammonként | 480 Ft |
 
-2. ezüsttárgyak esetében, darabonként 30,00 Ft
+| 1.2.4. palládium finomságvizsgálata, grammonként | 480 Ft |
 
-A fémjelzési díj a grammsúly szerinti finomságvizsgálati díj és a darabszám szerinti beütési díj összege. Az óráknál a fémjelzési díj a röntgenfluorescens spektrometriás vizsgálat költsége darabonként, valamint a darabszám szerinti beütések díjának összege. A finomságvizsgálati díj tömeg szerinti megállapításánál minden megkezdett grammot egész grammnak kell tekinteni.
+| 1.3. fémjel, névjel, finomságjel beütése vagy azonosítása, darabonként | 20 Ft |
 
-II. A nemesfém tárgyakkal kapcsolatos hatósági tevékenységekről szóló 35/2011. (IX. 14.) NGM rendeletben meghatározott kötelező nemesfémtartalom-vizsgálati és -hitelesítési díjak:
+| 1.4. fémjel, névjel, finomságjel megsemmisítés, darabonként | 90 Ft |
 
-a) ékszerötvözetek, nemesfémtartalmú tömbök, félkész gyártmányok, fémhulladékok:
+| 1.5. fémjel, névjel, finomságjel és egyéb jel lézeres beégetése, darabonként | 175 Ft |
 
-1. aranytartalom meghatározása 250 ezrelék alatti koncentráció tartományban 3 100,00 Ft
+| 1.6. lézer névjel és egyéb jel digitális elkészítése | 8 500 Ft |
 
-2. aranytartalom meghatározása 250–800 ezrelék közötti koncentráció tartományban 3 500,00 Ft
+| 1.7. lézergravírozás, karakterenként | 150 Ft |
 
-3. aranytartalom meghatározása 800 ezrelék fölötti koncentráció tartományban 3 800,00 Ft
+| 1.8. tételek leválogatása, darabonként: | 40 Ft |
 
-4. arany- és ezüsttartalom együttes meghatározása 4 100,00 Ft
+| 1.9. különleges árukezelés, darabonként | 45 Ft |
 
-5. ezüsttartalom meghatározása 2 000,00 Ft
+| 1.10. sürgősségi díj: |
 
-6. színezüst vizsgálata 2 300,00 Ft
+| 1.10.1. arany-, platina- és palládiumtárgyak esetében, darabonként | 80 Ft |
 
-7. platina ötvözetekben platina-, rhodium-, irídium-, palládiumtartalom meghatározása elemenként 13 000,00 Ft
+| 1.10.2. ezüsttárgyak esetében, darabonként | 40 Ft |
 
-8. röntgenfluorescens spektrometriás vizsgálat 1 200,00 Ft
+| 2. Laboratóriumi anyagvizsgálati díjak: |
 
-b) nemesfémtartalmú érmék, pénzek:
+| 2.1. ékszerötvözetek, nemesfémtartalmú tömbök, félkész gyártmányok, fémhulladékok: |
 
-1. aranytartalom meghatározása és tömeghitelesítése 7 400,00 Ft
+| 2.1.1. aranytartalom meghatározása 250 ezrelék alatti koncentráció tartományban vizsgálatonként | 5 500 Ft |
 
-2. ezüsttartalom meghatározása és tömeghitelesítése 5 900,00 Ft
+| 2.1.2. aranytartalom meghatározása 250–980 ezrelék közötti koncentráció tartományban vizsgálatonként | 6 500 Ft |
 
-c) a jogszabályi előírásoktól eltérő ékszerötvözet engedélyezés előtti teljes körű vizsgálata 22 000,00 Ft
+| 2.1.3. aranytartalom meghatározása 980 ezrelék fölötti koncentráció tartományban vizsgálatonként | 7 500 Ft |
 
-d) bányatermékek, hulladékok, egyéb – nem fém állapotú – nemesfémtartalmú anyagok tételenkénti vizsgálata:
+| 2.1.4. arany- és ezüsttartalom együttes meghatározása vizsgálatonként | 9 500 Ft |
 
-1. dúsítás, előkészítés 11 000,00 Ft
+| 2.1.5. ezüsttartalom meghatározása vizsgálatonként | 4 000 Ft |
 
-2. nemesfémtartalom meghatározása elemenként: az a) pontban felsorolt díjtételek hozzáadásával
+| 2.1.6. színezüst vizsgálata vizsgálatonként | 4 500 Ft |
 
-e) mintavétel tömbből:
+| 2.1.7. platinaötvözetekben platina-, rhodium-, irídium-, palládium tartalom meghatározása elemenként | 30 000 Ft |
 
-1. vágott minta 800,00 Ft
+| 2.1.8. röntgenfluorescens spektrometriás vizsgálat nemesfém elemenként | 3 500 Ft |
 
-2. fúrt minta 1 500,00 Ft
+| 2.1.8.1. röntgenfluorescens spektrometriás vizsgálat ötvöző/szennyező elemenként | 2 000 Ft |
 
-f) fém állapotú minták kémiai előkészítése:
+| 2.1.9. ICP vizsgálat első elem meghatározása | 18 000 Ft |
 
-1. egyszerű minták esetén 1 800,00 Ft
+| 2.1.9.1. ICP vizsgálat további elemek meghatározása elemenként | 8 000 Ft |
 
-2. összetett minták esetén 4 200,00 Ft
+| 2.1.10. Arany érme/érem vizsgálata darabonként | 11 000 Ft |
 
-g) ICP vizsgálat elemenként 3 000,00 Ft
+| 2.1.11. Ezüst érme/érem vizsgálata darabonként | 8 500 Ft |
 
-h) tömegmérés hitelesítése grammonként 2,00 Ft
+| 2.2. ékszerötvözetek teljes körű vizsgálata | 35 000 Ft |
 
-i) importból származó nemesfémtartalmú anyagok hiteles tömegmérésének ellenőrzési díja a hiteles mérési díj fele
+| 2.3. bányatermékek, hulladékok, egyéb – nem fém állapotú – nemesfémtartalmú anyagok tételenkénti vizsgálata: |
 
-j) hitelesítési adatok beütése grammonként 3,00 Ft
+| 2.3.1. dúsítás, előkészítés vizsgálatonként | 20 000 Ft |
 
-Hitelesítő beütés esetén a beütési díj a hiteles tömegmérés díját is tartalmazza.
+| 2.3.2. nemesfémtartalom meghatározása elemenként: a 2.1.9. pontban felsorolt díjtételek hozzáadásával |
 
-k) tájékoztató jellegű elővizsgálat díja a hivatalos vizsgálati díj fele
+| 2.4. mintavétel tömbből |
 
-l) sürgősséggel megrendelt munkálatokat a Kormányhivatal:
+| 2.4.1. vágott minta darabonként | 1 500 Ft |
 
-1. 72 órán belül végzi el: a sürgősségi díj mértéke az alapdíj 100%-a,
+| 2.4.2. fúrt minta furatonként | 2 200 Ft |
 
-2. 24 órán belül végzi el: a sürgősségi díj mértéke az alapdíj 200%-a.
+| 2.5. egyéb nemesfémtartalmú minták kémiai előkészítése vizsgálatonként: |
 
-III. Egyéb díjak:
+| 2.5.1. egyszerű előkészítés | 2 700 Ft |
 
-a) a nemesfémből készült ékszer, díszműáru és egyéb tárgy készítését, javítását, árverését folytató, illetve kereskedelmi tevékenység keretében forgalmazó vállalkozás tevékenysége bejelentésének és nyilvántartásba vételének díja 9 200,00 Ft
+| 2.5.2. összetett előkészítés | 7 000 Ft |
 
-b) a nyilvántartási adatok módosításának díja 6 800,00 Ft
+| 2.6. hiteles tömegmérés grammonként | 3 Ft |
 
-c) a felelősségjel engedélyezésének, nyilvántartásba vételének díja 8 400,00 Ft
+| 2.7. hitelesítési adatok beütése karakterenként | 150 Ft |
 
-d) a felelősségjel készítők nyilvántartásba vételének díja 9 600,00 Ft
+| 2.8. egyedi árukezelés vizsgálatonként | 3 800 Ft |
 
-e) jogszabályi előírásoktól eltérő ékszerötvözetek engedélyezésének, nyilvántartásba vételének díja 5 000,00 Ft
+| 2.9. sürgősséggel megrendelt munkálatokat a Kormányhivatal |
 
-f) szakértői tevékenység, szakvélemények kiadása költségszámításon alapuló és más jogszabályban meghatározott díj ellenében történik
+| 2.9.1. 72 órán belül végzi el: a sürgősségi díj mértéke az alapdíj | 100%-a |
 
-g) egyenértékűség megállapítását célzó eljárás díja 565 000,00 Ft
+| 2.9.2. 24 órán belül végzi el: a sürgősségi díj mértéke az alapdíj | 200%-a |
 
-h) nyilvántartásból készített kivonat díja (az illetéktörvény szerint), oldalanként 100,00 Ft
+| 3. Egyéb díjak: |
+
+| 3.1. a nemesfémből készült ékszer, díszműáru és egyéb tárgy készítését, javítását, árverését folytató, illetve kereskedelmi tevékenység keretében forgalmazó vállalkozás tevékenysége bejelentésének és nyilvántartásba vételének díja, amely magába foglalja a székhely és egy telephely bejegyzését | 16 500 Ft |
+
+| 3.2. a nemesfémből készült ékszer, díszműáru és egyéb tárgy készítését, javítását, árverését folytató, illetve kereskedelmi tevékenység keretében forgalmazó vállalkozás nyilvántartási adatainak módosítási díja | 10 000 Ft |
+
+| 3.3. a névjel engedélyezésének, nyilvántartásba vételének díja | 10 000 Ft |
+
+| 3.4. szakértői tevékenység, szakvélemények kiadása költségszámításon alapuló és más jogszabályban meghatározott díj ellenében történik |
+
+| 3.5. egyenértékűség megállapítását célzó eljárás díja | 565 000 Ft |
 
 [^8]: A 2. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 10. §-ának 53. pontja hatályon kívül helyezte.
-[^9]: A melléklet a 10/2010. (III. 2.) NFGM rendelet 12. § (3) bekezdés a) pontja, a 62/2016. (XII. 29.) NGM rendelet 15. § (4)–(5) bekezdése szerint módosított szöveg.
+[^9]: A melléklet az 53/2024. (XII. 30.) NGM rendelet 1. §-ával megállapított szöveg.
