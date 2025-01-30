@@ -1,6 +1,6 @@
 ## 7. § E rendelet rendelkezéseit az e rendelet hatálybalépését követően indult eljárások során kell alkalmazni.
 
-1. melléklet a 33/2018. (XII. 20.) BM rendelethez[^3]
+1. melléklet a 33/2018. (XII. 20.) BM rendelethez[^5]
 
 A vármegyei, fővárosi rendőr-főkapitányságok előirányzat-felhasználási keretszámla számai
 
@@ -50,4 +50,4 @@ A vármegyei, fővárosi rendőr-főkapitányságok előirányzat-felhasználás
 
 | 21. | Országos Rendőr-főkapitányság | 10023002-01451715-00000000 |
 
-[^3]: Az 1. melléklet a 39/2020. (XI. 4.) BM rendelet 15. §-a, a 48/2022. (XII. 27.) BM rendelet 15. § a) és b) pontja szerint módosított szöveg.
+[^5]: Az 1. melléklet a 39/2020. (XI. 4.) BM rendelet 15. §-a, a 48/2022. (XII. 27.) BM rendelet 15. § a) és b) pontja szerint módosított szöveg.
