@@ -47,3 +47,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-14-20-0
 | 2024-09-06 | 2007-14-20-0B.60 | 20/2010. (XII. 28.) NEFMI rendelet |
 | 2024-12-21 | 2007-14-20-0B.61 | 57/2024. (XII. 20.) BM rendelet |
 | 2025-01-12 | 2007-14-20-0B.62 | 34/2010. (V. 14.) EüM rendelet |
+| 2025-01-30 | 2007-14-20-0B.63 | 61/2024. (XII. 30.) BM rendelet |

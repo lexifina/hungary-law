@@ -120,7 +120,7 @@
 
 ## 10.13.
 
-6. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^182]
+6. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^179]
 
 A járóbeteg gyógyászati segédeszköz költségvetési keretből a NEAK nem támogatja:
 
@@ -148,4 +148,4 @@ A járóbeteg gyógyászati segédeszköz költségvetési keretből a NEAK nem 
 
 12. a kizárólag kozmetikai célt szolgáló gyógyászati segédeszközöket.
 
-[^182]: A 6. számú melléklet a 7/2016. (III. 30.) EMMI rendelet 15. § (6) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 53. § (1) bekezdés j) pontja, a 16/2020. (IV. 30.) EMMI rendelet 3. § (1) bekezdése, a 10/2022. (III. 31.) EMMI rendelet 3. § (1) bekezdése szerint módosított szöveg.
+[^179]: A 6. számú melléklet a 7/2016. (III. 30.) EMMI rendelet 15. § (6) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 53. § (1) bekezdés j) pontja, a 16/2020. (IV. 30.) EMMI rendelet 3. § (1) bekezdése, a 10/2022. (III. 31.) EMMI rendelet 3. § (1) bekezdése szerint módosított szöveg.
