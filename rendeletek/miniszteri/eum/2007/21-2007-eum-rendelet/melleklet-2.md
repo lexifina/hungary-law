@@ -1,14 +1,14 @@
-| I. |  |
+|  | A | B |
 
-| II. | Gyógyszer és gyógyászati segédeszköz ismertetésével kapcsolatos igazgatási szolgáltatási díjak |
+| 1 | Ügytípus | Igazgatási szolgáltatási díj összege |
 
-| II.1. | Engedély kiadása és nyilvántartásba vétel ismertetési tevékenységet folytatók részére | 101 500 Ft |
+| 2 | Bejelentés és nyilvántartásba vétel ismertetési tevékenységet folytatók részére | 135 500 Ft |
 
-| II.2. | Engedély, nyilvántartás adataiban történő módosítás ismertetési tevékenységet folytatók részére | 12 900 Ft |
+| 3 | Bejelentés, nyilvántartás adataiban történő módosítás ismertetési tevékenységet folytatók részére | 17 000 Ft |
 
-| II.3. | Nyilvántartásba vétel ismertető személyek részére | 100 000 Ft |
+| 4 | Nyilvántartásba vétel ismertető személyek részére | 130 000 Ft |
 
-| II.4. | Igazolvány kiadása, módosítása és a nyilvántartás adataiban történő módosítás ismertető személyek részére | 12 900 Ft |
+| 5 | Igazolvány kiadása, módosítása és a nyilvántartás adataiban történő módosítás ismertető személyek részére | 17 000 Ft |
 
 2. számú melléklet a 21/2007. (V. 8.) EüM rendelethez[^7]
 

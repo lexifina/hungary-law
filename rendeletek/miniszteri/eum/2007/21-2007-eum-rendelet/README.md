@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-21-20-0
 | 2012-07-20 | 2007-21-20-0B.6 | 10/2012. (VII. 19.) EMMI rendelet |
 | 2015-04-29 | 2007-21-20-0B.7 | 23/2015. (IV. 28.) EMMI rendelet |
 | 2023-08-11 | 2007-21-20-0B.8 | 28/2023. (VIII. 10.) BM rendelet |
+| 2025-01-30 | 2007-21-20-0B.9 | 61/2024. (XII. 30.) BM rendelet |
