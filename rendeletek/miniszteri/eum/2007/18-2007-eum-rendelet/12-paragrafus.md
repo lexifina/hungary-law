@@ -24,14 +24,14 @@ b) az egészségügyi szolgáltató nyilatkozatát, hogy a tevékenység végzé
 
 (4) A kérelmet legalább a tevékenység tervezett megkezdése előtt 30 nappal be kell benyújtani.
 
-(5)[^62] Az ideiglenes tevékenységre jogosító engedély kiadásáról szóló határozatot az országos tisztifőorvos közli:
+(5)[^63] Az ideiglenes tevékenységre jogosító engedély kiadásáról szóló határozatot az országos tisztifőorvos közli:
 
-a)[^63]
+a)[^64]
 
 b) az egészségügyi szolgáltatóval, ahol a jogosult a tevékenységet végezheti,
 
-c)[^64] az OKFŐ-vel.
+c)[^65] az OKFŐ-vel.
 
-[^62]: A 12. § (5) bekezdése az 50/2009. (XII. 30.) EüM rendelet 4. § (3) bekezdésével megállapított, nyitó szövegrésze az 54/2016. (XII. 30.) EMMI rendelet 54. § (2) bekezdés l) pontja szerint módosított szöveg.
-[^63]: A 12. § (5) bekezdés a) pontját az 57/2011. (IX. 29.) NEFMI rendelet 16. § d) pontja hatályon kívül helyezte.
-[^64]: A 12. § (5) bekezdés c) pontja a 23/2015. (IV. 28.) EMMI rendelet 85. § e) pontjával megállapított, a 7/2024. (II. 12.) BM rendelet 8. § e) pontja szerint módosított szöveg.
+[^63]: A 12. § (5) bekezdése az 50/2009. (XII. 30.) EüM rendelet 4. § (3) bekezdésével megállapított, nyitó szövegrésze az 54/2016. (XII. 30.) EMMI rendelet 54. § (2) bekezdés l) pontja szerint módosított szöveg.
+[^64]: A 12. § (5) bekezdés a) pontját az 57/2011. (IX. 29.) NEFMI rendelet 16. § d) pontja hatályon kívül helyezte.
+[^65]: A 12. § (5) bekezdés c) pontja a 23/2015. (IV. 28.) EMMI rendelet 85. § e) pontjával megállapított, a 7/2024. (II. 12.) BM rendelet 8. § e) pontja szerint módosított szöveg.

@@ -1,25 +1,25 @@
 ## Záró és átmeneti rendelkezések
 
-13. § (1)[^65] Ez a rendelet – a (2) bekezdésben foglalt kivétellel – 2007. április 17. napján[^66] lép hatályba.
+13. § (1)[^66] Ez a rendelet – a (2) bekezdésben foglalt kivétellel – 2007. április 17. napján[^67] lép hatályba.
 
-(2)[^67] Az egyes egészségügyi tárgyú miniszteri rendeletek módosításáról szóló 57/2011. (IX. 29.) NEFMI rendelet (a továbbiakban: R.) hatálybalépését megelőzően benyújtott meghosszabbítási kérelmekre e rendeletnek a kérelem benyújtásakor hatályos rendelkezései az irányadók.
+(2)[^68] Az egyes egészségügyi tárgyú miniszteri rendeletek módosításáról szóló 57/2011. (IX. 29.) NEFMI rendelet (a továbbiakban: R.) hatálybalépését megelőzően benyújtott meghosszabbítási kérelmekre e rendeletnek a kérelem benyújtásakor hatályos rendelkezései az irányadók.
 
-(3)[^68] Az R. hatálybalépését megelőzően hatályos 8/A. § (3) bekezdését a 2009. január 1-jét követően indult meghosszabbítási kérelmek esetében kell alkalmazni. A 2009. január 1-je előtt meghosszabbított működési nyilvántartások tekintetében az R. hatálybalépését megelőzően hatályos 8/A. § (3) bekezdése szerinti időtartamba a 2008. december 31-ét követő időszak számítandó be.
+(3)[^69] Az R. hatálybalépését megelőzően hatályos 8/A. § (3) bekezdését a 2009. január 1-jét követően indult meghosszabbítási kérelmek esetében kell alkalmazni. A 2009. január 1-je előtt meghosszabbított működési nyilvántartások tekintetében az R. hatálybalépését megelőzően hatályos 8/A. § (3) bekezdése szerinti időtartamba a 2008. december 31-ét követő időszak számítandó be.
 
-(4)[^69] Ahol e rendelet csecsemőgondozási díjat említ, azon terhességi-gyermekágyi segélyt kell érteni, ha az ellátásra való jogosultság 2015. január 1-jét megelőzően nyílt meg.
+(4)[^70] Ahol e rendelet csecsemőgondozási díjat említ, azon terhességi-gyermekágyi segélyt kell érteni, ha az ellátásra való jogosultság 2015. január 1-jét megelőzően nyílt meg.
 
-(5)–(6)[^70]
+(5)–(6)[^71]
 
 (7) A vizsgázott fogászok működési nyilvántartásában fel kell tüntetni, hogy a fogpótlás körébe tartozó beavatkozások és eljárások köréből tevékenységük mely beavatkozásokra, eljárásokra terjed ki.
 
 (8) Az e rendelet hatályalépését megelőzően kiadott alap- és működési nyilvántartási számok a továbbiakban is érvényesek.
 
-(9)[^71] A (8) bekezdésben foglalt rendelkezések nem érintik azt az esetet, amikor az OKFŐ hivatalból történő eljárása során az alap- vagy a működési nyilvántartás tekintetében új nyilvántartási számot határoz meg és ezzel egyidejűleg a korábban kiadott alap- vagy működési nyilvántartási számot törli az alap- és a működési nyilvántartásból.
+(9)[^72] A (8) bekezdésben foglalt rendelkezések nem érintik azt az esetet, amikor az OKFŐ hivatalból történő eljárása során az alap- vagy a működési nyilvántartás tekintetében új nyilvántartási számot határoz meg és ezzel egyidejűleg a korábban kiadott alap- vagy működési nyilvántartási számot törli az alap- és a működési nyilvántartásból.
 
-[^65]: A 13. § (1) bekezdés az 54/2016. (XII. 30.) EMMI rendelet 54. § (3) bekezdése szerint módosított szöveg.
-[^66]: A Magyar Közlöny 2007. évi 49. számában megjelent helyesbítésnek megfelelő szöveg.
-[^67]: A 13. § (2) bekezdését az 51/2008. (XII. 31.) EüM rendelet 10. § (2) bekezdésének f) pontja hatályon kívül helyezte, újonnan az 57/2011. (IX. 29.) NEFMI rendelet 13. § (1) bekezdése iktatta be.
-[^68]: A 13. § (3) bekezdése az 57/2011. (IX. 29.) NEFMI rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^69]: A 13. § (4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 5. §-ának 18. pontja hatályon kívül helyezte, újonnan a 4/2015. (I. 20.) EMMI rendelet 3. §-a iktatta be.
-[^70]: A 13. § (5)–(6) bekezdését a 118/2008. (V. 8.) Korm. rendelet 5. §-ának 18. pontja hatályon kívül helyezte.
-[^71]: A 13. § (9) bekezdését az 57/2011. (IX. 29.) NEFMI rendelet 13. § (2) bekezdése iktatta be, szövege a 7/2024. (II. 12.) BM rendelet 8. § b) pontja szerint módosított szöveg.
+[^66]: A 13. § (1) bekezdés az 54/2016. (XII. 30.) EMMI rendelet 54. § (3) bekezdése szerint módosított szöveg.
+[^67]: A Magyar Közlöny 2007. évi 49. számában megjelent helyesbítésnek megfelelő szöveg.
+[^68]: A 13. § (2) bekezdését az 51/2008. (XII. 31.) EüM rendelet 10. § (2) bekezdésének f) pontja hatályon kívül helyezte, újonnan az 57/2011. (IX. 29.) NEFMI rendelet 13. § (1) bekezdése iktatta be.
+[^69]: A 13. § (3) bekezdése az 57/2011. (IX. 29.) NEFMI rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^70]: A 13. § (4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 5. §-ának 18. pontja hatályon kívül helyezte, újonnan a 4/2015. (I. 20.) EMMI rendelet 3. §-a iktatta be.
+[^71]: A 13. § (5)–(6) bekezdését a 118/2008. (V. 8.) Korm. rendelet 5. §-ának 18. pontja hatályon kívül helyezte.
+[^72]: A 13. § (9) bekezdését az 57/2011. (IX. 29.) NEFMI rendelet 13. § (2) bekezdése iktatta be, szövege a 7/2024. (II. 12.) BM rendelet 8. § b) pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
 ## Az alapnyilvántartási lap adattartalma
 
-## I.[^73] Személyi adatok:
+## I.[^74] Személyi adatok:
 
 ## 1. az Eütv. alapján az alapnyilvántartás részét képező személyes adatok
 
@@ -24,11 +24,11 @@
 
 ## 4. a kiállító intézmény megnevezése
 
-## 5.[^74] a képzés nyelve
+## 5.[^75] a képzés nyelve
 
-## 6.[^75] az egészségügyi felsőfokú szakirányú szakképesítést tanúsító oklevél esetében az elsőként megszerzett alap szakképesítés, további alap szakképesítés vagy ráépített szakképesítés ténye
+## 6.[^76] az egészségügyi felsőfokú szakirányú szakképesítést tanúsító oklevél esetében az elsőként megszerzett alap szakképesítés, további alap szakképesítés vagy ráépített szakképesítés ténye
 
-## III.[^76] A kérelmező alapnyilvántartásával kapcsolatos adatok:
+## III.[^77] A kérelmező alapnyilvántartásával kapcsolatos adatok:
 
 ## 1. alapnyilvántartási szám
 
@@ -54,10 +54,10 @@
 
 ## V. Megjegyzések
 
-2. melléklet a 18/2007. (IV. 17.) EüM rendelethez[^77]
+2. melléklet a 18/2007. (IV. 17.) EüM rendelethez[^78]
 
-[^73]: Az 1. melléklet I. pontja a 2/2013. (I. 2.) EMMI rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^74]: Az 1. melléklet II. pont 5. alpontját a 14/2014. (III. 10.) EMMI rendelet 3. § a) pontja iktatta be.
-[^75]: Az 1. melléklet II. pont 6. alpontját a 14/2014. (III. 10.) EMMI rendelet 3. § a) pontja iktatta be.
-[^76]: Az 1. melléklet III. pontja a 14/2014. (III. 10.) EMMI rendelet 3. § a) pontjával megállapított szöveg.
-[^77]: Az eredeti 2. számú melléklet megjelölését 2. mellékletre változtatta, és szövegét megállapította az 51/2008. (XII. 31.) EüM rendelet 10. § (3) bekezdése.
+[^74]: Az 1. melléklet I. pontja a 2/2013. (I. 2.) EMMI rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^75]: Az 1. melléklet II. pont 5. alpontját a 14/2014. (III. 10.) EMMI rendelet 3. § a) pontja iktatta be.
+[^76]: Az 1. melléklet II. pont 6. alpontját a 14/2014. (III. 10.) EMMI rendelet 3. § a) pontja iktatta be.
+[^77]: Az 1. melléklet III. pontja a 14/2014. (III. 10.) EMMI rendelet 3. § a) pontjával megállapított szöveg.
+[^78]: Az eredeti 2. számú melléklet megjelölését 2. mellékletre változtatta, és szövegét megállapította az 51/2008. (XII. 31.) EüM rendelet 10. § (3) bekezdése.
