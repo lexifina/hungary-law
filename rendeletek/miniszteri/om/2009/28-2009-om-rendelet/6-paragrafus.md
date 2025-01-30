@@ -10,10 +10,11 @@ d)[^5]
 
 e) a hiánypótlásra az Itv. 73/A. §-át,
 
-f) a díjfizetés törlésére és visszatérítésére az Itv. 79. §-ának (1)–(2) bekezdéseit és az Itv. 80. §-a (1) bekezdésének f), g) pontjait,
+f)[^6] a díjfizetés törlésére és visszatérítésére az Itv. 79. § (2) bekezdését és az Itv. 80. §-a (1) bekezdésének f), g) pontjait,
 
 g) a mulasztási bírságra az Itv. 82. §-át
 
 kell megfelelően alkalmazni azzal, hogy illeték helyett díjat, állami adóhatóság helyett eljáró hatóságot, lelet helyett jegyzőkönyvet kell érteni.
 
 [^5]: A 6. § d) pontját a 47/2020. (XII. 28.) BM rendelet 2. § d) pontja hatályon kívül helyezte.
+[^6]: A 6. § f) pontja a 14/2024. (XII. 30.) KTM rendelet 1. § b) pontja szerint módosított szöveg.

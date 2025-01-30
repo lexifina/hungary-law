@@ -1,4 +1,4 @@
-2. melléklet a 28/2009. (X. 29.) ÖM rendelethez[^8]
+2. melléklet a 28/2009. (X. 29.) ÖM rendelethez[^9]
 
 A vármegyei kormányhivatalok előirányzat-felhasználási keretszámlaszámai
 
@@ -46,4 +46,4 @@ A vármegyei kormányhivatalok előirányzat-felhasználási keretszámlaszámai
 
 | 21. | Zala Vármegyei Kormányhivatal | 10049006-00299509-00000000 |
 
-[^8]: A 2. melléklet a 48/2022. (XII. 27.) BM rendelet 7. §-ával megállapított szöveg.
+[^9]: A 2. melléklet a 48/2022. (XII. 27.) BM rendelet 7. §-ával megállapított szöveg.
