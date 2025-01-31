@@ -1,1 +1,3 @@
-2. § A 78/1997. (XII. 30.) IKIM rendelet 3. § (2) bekezdésében a „2300” szövegrész helyébe a „3100” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
