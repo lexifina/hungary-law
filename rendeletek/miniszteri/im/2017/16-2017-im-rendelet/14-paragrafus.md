@@ -9,3 +9,5 @@ c) a díjfizetésre kötelezettek körének megállapítására az Itv. 31. §-�
 d) a jogorvoslati eljárási díj visszafizetésére az Itv. 32. § (1) bekezdését,
 
 e) a díjfizetés törlésére és visszatérítésére az Itv. 80. § (1) bekezdés f), g) és k) pontját
+
+kell alkalmazni azzal, hogy ahol az Itv. illetéket említ, azon díjat kell érteni.

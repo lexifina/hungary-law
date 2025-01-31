@@ -1,5 +1,3 @@
-## kell alkalmazni azzal, hogy ahol az Itv. illetéket említ, azon díjat kell érteni.
-
 ## 4. Záró rendelkezések
 
 15. § (1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő harmincegyedik napon lép hatályba.

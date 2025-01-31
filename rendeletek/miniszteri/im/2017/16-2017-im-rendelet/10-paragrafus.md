@@ -1,1 +1,3 @@
-## 9. § A fiókiroda törvényben, illetve kamarai szabályzatban meghatározott feltételeknek való megfelelése szakkérdésében lefolytatandó szakhatósági eljárás díja 15 000 Ft.
+10. §[^15] A kérelemre lefolytatott kamarai hatósági ellenőrzés díja 130 000 Ft.
+
+[^15]: A 10. § a 45/2024. (XII. 31.) IM rendelet 6. § n) pontja szerint módosított szöveg.
