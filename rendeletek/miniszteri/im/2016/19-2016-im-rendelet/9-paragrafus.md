@@ -5,3 +5,5 @@ a) a díjfizetési kötelezettségre az illetékekről szóló 1990. évi XCIII.
 b) a díjfizetésre kötelezettek körének megállapítására az Itv. 31. § (1) bekezdés első mondatában, valamint 31. § (2), (5)–(6), valamint (8) bekezdésében foglaltakat,
 
 c) az elmulasztott díjfizetés pótlására vonatkozó felhívásra az Itv. 73/A. §-ában foglaltakat
+
+kell alkalmazni azzal az eltéréssel, hogy ahol a törvény illetéket említ, azon díjat kell érteni.
