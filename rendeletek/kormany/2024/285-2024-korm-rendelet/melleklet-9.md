@@ -1,3 +1,3 @@
-9. melléklet a 285/2024. (IX. 30.) Korm. rendelethez[^325]
+9. melléklet a 285/2024. (IX. 30.) Korm. rendelethez[^322]
 
-[^325]: A 9. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^322]: A 9. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

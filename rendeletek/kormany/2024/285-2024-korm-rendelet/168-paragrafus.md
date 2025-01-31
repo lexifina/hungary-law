@@ -1,3 +1,3 @@
-168. §[^188]
+168. §[^185]
 
-[^188]: A 168. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^185]: A 168. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

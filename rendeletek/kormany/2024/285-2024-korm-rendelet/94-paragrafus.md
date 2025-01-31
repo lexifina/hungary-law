@@ -1,1 +1,1 @@
-94. §
+94. § A 324/2013. (VIII. 29.) Korm. rendelet 8. § nyitó szövegrészében az „az épített környezet alakításáról és védelméről szóló törvény” szövegrész helyébe az „a magyar építészetről szóló törvény” szöveg lép.

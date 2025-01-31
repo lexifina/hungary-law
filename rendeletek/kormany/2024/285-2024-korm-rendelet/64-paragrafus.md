@@ -1,5 +1,5 @@
 ## 22. A zenés, táncos rendezvények működésének biztonságosabbá tételéről szóló 23/2011. (III. 8.) Korm. rendelet módosítása
 
-64. §[^64]
+64. §[^63]
 
-[^64]: A 64. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^63]: A 64. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

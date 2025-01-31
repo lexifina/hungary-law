@@ -1,3 +1,3 @@
-118. §[^138]
+118. §[^136]
 
-[^138]: A 118. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^136]: A 118. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,5 @@
-## 32.[^116]
+## 32. Az egységes elektronikus közműnyilvántartásról szóló 324/2013. (VIII. 29.) Korm. rendelet módosítása
 
-92. §
+92. § Az egységes elektronikus közműnyilvántartásról szóló 324/2013. (VIII. 29.) Korm. rendelet [a továbbiakban: 324/2013. (VIII. 29.) Korm. rendelet] 2. § 9. pontja helyébe a következő rendelkezés lép:
 
-[^116]: A 32. alcím a 202. § (2) bekezdése alapján 2025. január 31-én lép hatályba.
+(E rendelet alkalmazásában)

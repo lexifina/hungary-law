@@ -1,3 +1,3 @@
-157. §[^177]
+157. §[^174]
 
-[^177]: A 157. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^174]: A 157. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

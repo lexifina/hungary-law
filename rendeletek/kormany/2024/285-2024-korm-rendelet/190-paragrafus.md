@@ -1,5 +1,5 @@
 ## 66. A közúti infrastruktúra közlekedésbiztonsági kezeléséről szóló 133/2022. (IV. 7.) Korm. rendelet módosítása
 
-190. §[^305]
+190. §[^302]
 
-[^305]: A 190. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^302]: A 190. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

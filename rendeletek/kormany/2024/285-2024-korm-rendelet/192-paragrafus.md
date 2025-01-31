@@ -1,3 +1,3 @@
-192. §[^307]
+192. §[^304]
 
-[^307]: A 192. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^304]: A 192. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
