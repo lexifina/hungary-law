@@ -1,3 +1,3 @@
-2. § A közjegyzői díjszabásról szóló 22/2018. (VIII. 23.) IM rendelet 26. § b) pontja helyébe a következő rendelkezés lép:
+2. §[^3]
 
-(A hagyatéki eljárás lefolytatásáért a közjegyző részére)
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

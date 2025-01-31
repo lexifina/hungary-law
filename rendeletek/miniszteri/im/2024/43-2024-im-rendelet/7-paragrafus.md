@@ -1,1 +1,3 @@
-7. § Hatályát veszti a közjegyzői díjszabásról szóló 22/2018. (VIII. 23.) IM rendelet 6. § a) pontjában az „a fél kérelmére” szövegrész.
+7. §[^8]
+
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

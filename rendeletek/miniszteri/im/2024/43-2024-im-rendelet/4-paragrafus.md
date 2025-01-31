@@ -1,1 +1,3 @@
-4. § A közjegyzői díjszabásról szóló 22/2018. (VIII. 23.) IM rendelet 1. melléklete az 1. melléklet szerint módosul.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

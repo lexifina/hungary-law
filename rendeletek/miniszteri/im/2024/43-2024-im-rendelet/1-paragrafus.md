@@ -1,3 +1,3 @@
-1. § A közjegyzői díjszabásról szóló 22/2018. (VIII. 23.) IM rendelet 20. § (2) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(2) A közjegyző által készített okiratot, tanúsítványt – a záradéki tanúsítvány kivételével –, kiadmányt, másolatot, kivonatot és bizonyítványt a fél részére a munkadíj és a költségtérítés megfizetése után lehet átadni.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
