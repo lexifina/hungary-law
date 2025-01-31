@@ -1,1 +1,3 @@
-21. § Hatályát veszti az 53/2012. (X. 26.) BM rendelet 1. § (4) és (5) bekezdése.
+21. §[^22]
+
+[^22]: A 21. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

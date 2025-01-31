@@ -1,1 +1,3 @@
-25. § A 21/2016. (VI. 9.) BM rendelet 8. melléklete a 11. melléklet szerint módosul.
+25. §[^26]
+
+[^26]: A 25. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,9 +1,3 @@
-26. § A 21/2016. (VI. 9.) BM rendelet 16. § (1) bekezdés
+26. §[^27]
 
-a) a) pontjában a „2000” szövegrész helyébe a „3 500” szöveg,
-
-b) b) pontjában a „4000” szövegrész helyébe az „5 400” szöveg,
-
-c) c) pontjában a „14000” szövegrész helyébe a „18 900” szöveg
-
-lép.
+[^27]: A 26. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,5 @@
 ## 10. Az egészségügyi felsőfokú szakirányú szakmai képzés részletes szabályairól szóló 16/2010. (IV. 15.) EüM rendelet módosítása
 
-14. § Az egészségügyi felsőfokú szakirányú szakmai képzés részletes szabályairól szóló 16/2010. (IV. 15.) EüM rendelet [a továbbiakban: 16/2010. (IV. 15.) EüM rendelet] 20. § (3) bekezdése helyébe a következő rendelkezés lép:
+14. §[^15]
 
-„(3) A (2) bekezdés szerinti szakvizsga bizonyítvány pótlására a jogosult kérelmére az NVB – a szakvizsgáról készített jegyzőkönyv alapján – másodlatot állít ki. A másodlat kiállításának díja 4000 Ft.”
+[^15]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

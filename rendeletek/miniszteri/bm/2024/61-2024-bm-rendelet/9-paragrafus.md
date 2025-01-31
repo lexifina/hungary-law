@@ -1,3 +1,3 @@
-9. § A 14/2007. (III. 14.) EüM rendelet 10/C. § (1) bekezdése helyébe a következő rendelkezés lép:
+9. §[^10]
 
-„(1) A szállító-előminősítésért a Gyftv. 32/B. § (2) bekezdése alapján fizetendő igazgatási szolgáltatási díj összege 260 000 forint, melyet a 10. § (2) bekezdésében meghatározott számlaszámra kell befizetni.”
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
