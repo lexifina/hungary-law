@@ -1,1 +1,3 @@
-2. § A jogi szakvizsgáról szóló 5/1991. (IV. 4.) IM rendelet 13. § (1) bekezdésében a „46 000” szövegrész helyébe az „55 200” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
