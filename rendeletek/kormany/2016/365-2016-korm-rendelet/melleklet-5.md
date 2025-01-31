@@ -4,7 +4,7 @@
 
 ## 2. A földgázellátásról szóló 2008. évi XL. törvény 89/A. § (2) bekezdése szerinti eljárása során a földgáz elosztóvezetékre történő csatlakozással összefüggő költségek igazolt mértékének megállapításánál a műszaki biztonsági hatóság figyelembe veszi a földgázellátásról szóló törvény végrehajtásáról szóló jogszabály szerinti, a legkisebb költség elvének az igazolt költségek mértékére való alkalmazására vonatkozó előírásokat.
 
-5. melléklet a 365/2016. (XI. 29.) Korm. rendelethez[^174]
+5. melléklet a 365/2016. (XI. 29.) Korm. rendelethez[^175]
 
 A feszültség alatti munkavégzéshez használt eszközök és rendszerek megfelelőségértékelését végző szervekre vonatkozó követelmények
 
@@ -42,4 +42,4 @@ A feszültség alatti munkavégzéshez használt eszközök és rendszerek megfe
 
 12.5. A vizsgálatok végrehajtásáért felelős személyzet a tevékenysége során tudomására jutott információkkal kapcsolatban betartja a szakmai titoktartás szabályait. Más vizsgáló szervezetek kérésére az információk megoszthatók, amennyiben azok a vizsgálatok és próbák elvégzéséhez szükségesek.
 
-[^174]: Az 5. mellékletet a 457/2017. (XII. 28.) Korm. rendelet 585. § d) pontja hatályon kívül helyezte, újonnan a 414/2023. (VIII. 30.) Korm. rendelet 9. § (2) bekezdés a) pontja iktatta be.
+[^175]: Az 5. mellékletet a 457/2017. (XII. 28.) Korm. rendelet 585. § d) pontja hatályon kívül helyezte, újonnan a 414/2023. (VIII. 30.) Korm. rendelet 9. § (2) bekezdés a) pontja iktatta be.
