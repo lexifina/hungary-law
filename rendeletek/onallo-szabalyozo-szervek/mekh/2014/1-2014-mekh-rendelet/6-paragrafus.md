@@ -1,8 +1,8 @@
-## 5/A. §[^15] Ha a kötelezett az e rendeletben a felügyeleti díjjal kapcsolatban meghatározott előírásoknak határidőre nem vagy nem megfelelően tesz eleget, a Hivatal a közigazgatási szabályszegések szankcióiról szóló 2017. évi CXXV. törvény, valamint a VET., a GET, a Tszt., a Ht., a Vksztv. és a közúti közlekedésről szóló 1988. évi I. törvény szerinti jogkövetkezményeket alkalmazhatja.
+## 5/A. §[^18] Ha a kötelezett az e rendeletben a felügyeleti díjjal kapcsolatban meghatározott előírásoknak határidőre nem vagy nem megfelelően tesz eleget, a Hivatal a közigazgatási szabályszegések szankcióiról szóló 2017. évi CXXV. törvény, valamint a VET., a GET, a Tszt., a Ht., a Vksztv. és a közúti közlekedésről szóló 1988. évi I. törvény szerinti jogkövetkezményeket alkalmazhatja.
 
 ## 2. Az igazgatási szolgáltatási díjak
 
-6. §[^16] (1) A Hivatal feladat- és hatáskörébe tartozó, kérelemre induló eljárásokért – a felhasználói panaszeljárás kivételével – a kérelmező igazgatási szolgáltatási díjat fizet. A kérelmező a befizetésről szóló, hitelt érdemlő igazolást csatolja a kérelemhez.
+6. §[^19] (1) A Hivatal feladat- és hatáskörébe tartozó, kérelemre induló eljárásokért – a felhasználói panaszeljárás kivételével – a kérelmező igazgatási szolgáltatási díjat fizet. A kérelmező a befizetésről szóló, hitelt érdemlő igazolást csatolja a kérelemhez.
 
 (2) Az igazgatási szolgáltatási díj mértékét az 1. mellékletben meghatározott eljárások esetén az 1. melléklet tartalmazza. Az 1. mellékletben nem nevesített eljárások esetén fizetendő átalány igazgatási szolgáltatási díj mértéke tízezer forint.
 
@@ -22,5 +22,5 @@ a) az igazgatási szolgáltatási díjfizetésre kötelezett nevét (megnevezés
 
 b) a díjfizetés jogcímét és az igazgatási szolgáltatási díj összegét.
 
-[^15]: Az 5/A. §-t a 10/2021. (VIII. 13.) MEKH rendelet 2. §-a iktatta be.
-[^16]: A 6. § a 10/2021. (VIII. 13.) MEKH rendelet 3. §-ával megállapított szöveg.
+[^18]: Az 5/A. §-t a 10/2021. (VIII. 13.) MEKH rendelet 2. §-a iktatta be.
+[^19]: A 6. § a 10/2021. (VIII. 13.) MEKH rendelet 3. §-ával megállapított szöveg.

@@ -4,10 +4,10 @@ a) a díj tárgya tekintetében az illetékekről szóló 1990. évi XCIII. tör
 
 b) a mulasztási bírság tekintetében az Itv. 82. §-ában, valamint
 
-c)[^17] a megfizetett díj visszatérítése tekintetében a 6. § (4) bekezdésében, illetve az Itv. 80. § (1) bekezdés f), g) és k) pontjában
+c)[^20] a megfizetett díj visszatérítése tekintetében a 6. § (4) bekezdésében, illetve az Itv. 80. § (1) bekezdés f), g) és k) pontjában
 
 foglalt rendelkezéseket is alkalmazni kell, azzal, hogy ahol azok illetéket említenek, azon e rendelet tekintetében díjat kell érteni.
 
 (2) Ha a kérelem az 1. mellékletben megjelölt díjtételek közül többet is érint, akkor valamennyi díjtételt meg kell fizetni. Több díjtétel esetében a fizetendő igazgatási szolgáltatási díjat – azonosítás céljából – egyenként kell megfizetni.
 
-[^17]: A 7. § (1) bekezdés c) pontja a 10/2021. (VIII. 13.) MEKH rendelet 4. §-ával megállapított szöveg.
+[^20]: A 7. § (1) bekezdés c) pontja a 10/2021. (VIII. 13.) MEKH rendelet 4. §-ával megállapított szöveg.
