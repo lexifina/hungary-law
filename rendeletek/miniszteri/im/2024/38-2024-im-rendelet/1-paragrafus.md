@@ -1,1 +1,3 @@
-1. § A hagyatéki eljárás egyes cselekményeiről szóló 29/2010. (XII. 31.) KIM rendelet 23. § (1) bekezdésében a „100” szövegrész helyébe a „300” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
