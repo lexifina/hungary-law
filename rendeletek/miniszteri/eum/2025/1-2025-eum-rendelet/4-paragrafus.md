@@ -1,0 +1,3 @@
+4. § (1) E rendelet rendelkezéseit – a (2) bekezdésben foglalt kivétellel – 2025. január 1. napjától kell alkalmazni.
+
+(2) Az (1) bekezdéstől eltérően a 2025. január 1. napján folyamatban lévő tartós külszolgálat megszűnések vagy megszüntetések esetében, a tartós külszolgálat megszűnéssel vagy megszüntetéssel érintett kormánytisztviselő Külszoltv. 23. §-a szerinti díjazásának megállapítása során a Magyarország Európai Unió melletti Állandó Képviselete külképviseleti besorolásáról, valamint a tartós külszolgálatot teljesítők deviza-alapilletménye, költségtérítése és az állandó képviseleti devizapótlék kiszámításának részletes szabályairól szóló 28/2019. (XII. 20.) IM rendelet 2024. december 31. napján hatályos rendelkezéseit kell továbbra is alkalmazni.
