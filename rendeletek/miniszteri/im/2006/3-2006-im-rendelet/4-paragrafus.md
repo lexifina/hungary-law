@@ -1,4 +1,4 @@
-4. §[^7] (1) A díjat a bejelentőnek akkor is meg kell fizetnie, ha
+4. §[^8] (1) A díjat a bejelentőnek akkor is meg kell fizetnie, ha
 
 a) a névjegyzékbe való felvétel iránti bejelentést a bejelentő visszavonja, vagy a miniszter a tevékenység megkezdését megtiltja,
 
@@ -8,4 +8,4 @@ b) a miniszter a névjegyzékbe történő felvétel iránti eljárást megszün
 
 (3) A bejelentés visszavonását követően tett új bejelentés benyújtásával egyidejűleg a díj ismételt megfizetését a 3. § (3) bekezdése szerint kell igazolni.
 
-[^7]: A 4. § a 43/2015. (XII. 30.) IM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^8]: A 4. § a 43/2015. (XII. 30.) IM rendelet 4. § (2) bekezdésével megállapított szöveg.
