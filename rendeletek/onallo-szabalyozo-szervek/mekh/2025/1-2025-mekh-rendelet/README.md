@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-1-20-5Z
 | --- | --- | --- |
 | 2025-01-21 | 2025-1-20-5Z.1 | 1/2025. (I. 20.) MEKH rendelet |
 | 2025-01-22 | 2025-1-20-5Z.2 | 2010. évi CXXX. törvény |
+| 2025-01-31 | 2025-1-20-5Z.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
