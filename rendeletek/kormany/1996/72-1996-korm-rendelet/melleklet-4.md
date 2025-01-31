@@ -78,7 +78,7 @@
 
 | Az öntözendő terület érint-e védett természeti területet, Natura 2000 területet, barlang védőövezetet, ivóvízbázist | érint/ nem érint érintett terület: | a megfelelő aláhúzandó |
 
-4. melléklet a 72/1996. (V. 22.) Korm. rendelethez[^279]
+4. melléklet a 72/1996. (V. 22.) Korm. rendelethez[^280]
 
 A hatóság engedélyezési eljárásában az eljáró hatóság által vizsgálandó szakkérdések
 
@@ -126,4 +126,4 @@ A hatóság engedélyezési eljárásában az eljáró hatóság által vizsgál
 
 | 21 | Vízjogi létesítési, üzemeltetési, fennmaradási és megszüntetési engedélyezési eljárások, továbbá ezek módosítására irányuló eljárás, ha az engedély műszaki tartalmában változás következett be. | Annak elbírálása, hogy a kulturális örökség védelme jogszabályban meghatározott követelményei a kérelemben foglaltak szerint vagy további feltételek mellett érvényesülnek-e. | A vízjogi üzemeltetési engedélyezés, valamint a fúrt kút engedélyezéseinek kivételével, ha az eljárás a kulturális örökségvédelmi hatósági nyilvántartásban szereplő nyilvántartott vagy védetté nyilvánított régészeti lelőhelyen, régészeti védőövezet területén, műemléki területen megvalósuló vagy műemléket érintő tevékenység engedélyezésére irányul. |
 
-[^279]: A 4. mellékletet a 258/2024. (VIII. 29.) Korm. rendelet 2. §-a iktatta be.
+[^280]: A 4. mellékletet a 258/2024. (VIII. 29.) Korm. rendelet 2. §-a iktatta be.
