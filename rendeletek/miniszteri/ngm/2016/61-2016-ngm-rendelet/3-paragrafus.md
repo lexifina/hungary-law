@@ -10,7 +10,7 @@ d) a jogorvoslati eljárási díj visszatérítésére az Itv. 32. § (1) bekezd
 
 e) a díjfizetés törlésére és visszatérítésére az Itv. 80. § (1) bekezdés f), g) és k) pontjában
 
-## foglaltakat kell alkalmazni azzal az eltéréssel, hogy ahol az Itv. illetéket említ, azon díjat kell érteni.
+foglaltakat kell alkalmazni azzal az eltéréssel, hogy ahol az Itv. illetéket említ, azon díjat kell érteni.
 
 (2)[^5]
 
