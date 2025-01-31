@@ -1,0 +1,13 @@
+A közvetítői tevékenységről szóló 2002. évi LV. törvény 40. § c) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 148. § (1) bekezdés 1. pontjában meghatározott feladatkörében eljáró pénzügyminiszterrel egyetértésben,
+
+a 2. alcím tekintetében az igazságügyi szakértőkről szóló 2016. évi XXIX. törvény 139. § (2) bekezdés m) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 148. § (1) bekezdés 1. pontjában meghatározott feladatkörében eljáró pénzügyminiszterrel egyetértésben,
+
+a 3. alcím tekintetében a szerzői jogról szóló 1999. évi LXXVI. törvény 112. § (5) bekezdés b) pontjában kapott felhatalmazás alapján, a Szellemi Tulajdon Nemzeti Hivatalának elnöke véleményének kikérésével, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 128. § 7. pontjában meghatározott feladatkörében eljáró kultúráért és innovációért felelős miniszterrel, valamint a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 148. § (1) bekezdés 1. pontjában meghatározott feladatkörében eljáró pénzügyminiszterrel egyetértésben,
+
+a 4. alcím, valamint az 1. melléklet tekintetében a természetes személyek adósságrendezéséről szóló 2015. évi CV. törvény 106. § (2) bekezdés f) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 148. § (1) bekezdés 1. pontjában meghatározott feladatkörében eljáró pénzügyminiszterrel egyetértésben,
+
+az 5. alcím tekintetében a szerzői jogok és a szerzői joghoz kapcsolódó jogok közös kezeléséről szóló 2016. évi XCIII. törvény 157. § (2) bekezdésében kapott felhatalmazás alapján, a Szellemi Tulajdon Nemzeti Hivatala elnöke véleményének kikérésével, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 128. § 7. pontjában meghatározott feladatkörében eljáró kultúráért és innovációért felelős miniszterrel, valamint a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 148. § (1) bekezdés 1. pontjában meghatározott feladatkörében eljáró pénzügyminiszterrel egyetértésben,
+
+a 6. alcím tekintetében az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény 206. § e) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 148. § (1) bekezdés 1. pontjában meghatározott feladatkörében eljáró pénzügyminiszterrel egyetértésben,
+
+a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 119. § 1. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
