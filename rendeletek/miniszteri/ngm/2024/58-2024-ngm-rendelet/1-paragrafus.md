@@ -1,0 +1,3 @@
+1. § A műszaki biztonsági hatósági eljárásáért, valamint a hatáskörébe utalt építésügyi hatósági eljárásért fizetendő igazgatási szolgáltatási díjról szóló 61/2016. (XII. 29.) NGM rendelet [a továbbiakban: 61/2016. (XII. 29.) NGM rendelet] 6. §-a a következő (2) bekezdéssel egészül ki:
+
+„(2) A műszaki biztonsági hatósági eljárásáért, valamint a hatáskörébe utalt építésügyi hatósági eljárásért fizetendő igazgatási szolgáltatási díjról szóló 61/2016. (XII. 29.) NGM rendelet módosításáról szóló 58/2024. (XII. 31.) NGM rendelet hatálybalépésekor a fővárosi és vármegyei kormányhivataloknál folyamatban lévő eljárásokra az e rendelet 2024. december 31-én hatályos szabályait kell alkalmazni.”
