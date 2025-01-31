@@ -1,4 +1,4 @@
-## 4/A. [^48] Az e-közmű részéről történő adatszolgáltatás
+## 4/A. [^49] Az e-közmű részéről történő adatszolgáltatás
 
 8/E. § (1) Az e-közmű a felügyeleti hatóság számára a jogszabályban meghatározott ellenőrzési feladatainak ellátásához díjmentesen szolgáltat naprakész adatokat
 
@@ -12,4 +12,4 @@ b) az adatszolgáltatási kötelezettségek teljesítésének elmaradásáról.
 
 (4) Az e-közmű az Építésügyi Dokumentációs és Információs Központról, valamint az Országos Építésügyi Nyilvántartásról szóló kormányrendelet szerinti az Országos Építésügyi Nyilvántartás működését elősegítő további elektronikus alkalmazások számára elérhetővé teszi a 9. § (2) bekezdés a) pontja szerinti naprakész adatokat.
 
-[^48]: A 4/A. alcímet (8/E. §) a 117/2018. (VII. 2.) Korm. rendelet 10. §-a iktatta be.
+[^49]: A 4/A. alcímet (8/E. §) a 117/2018. (VII. 2.) Korm. rendelet 10. §-a iktatta be.

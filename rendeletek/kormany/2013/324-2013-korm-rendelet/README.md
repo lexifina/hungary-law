@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-324-20-
 | 2021-01-01 | 2013-324-20-22.10 | 668/2020. (XII. 28.) Korm. rendelet |
 | 2023-05-06 | 2013-324-20-22.11 | 369/2016. (XI. 29.) Korm. rendelet |
 | 2023-08-01 | 2013-324-20-22.12 | 369/2016. (XI. 29.) Korm. rendelet |
+| 2025-01-31 | 2013-324-20-22.13 | 285/2024. (IX. 30.) Korm. rendelet |

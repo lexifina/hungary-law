@@ -16,21 +16,32 @@
 
 8. felhasználó: a lakosság, a tervezők, a közigazgatási szervek, a bíróság, a gazdálkodási tevékenységet folytató szervezetek, a szakmai és érdekképviseleti szervezetek,
 
-9. felügyeleti hatóság: az elektronikus hírközlésről szóló 2003. évi C. törvény 10. § (1) bekezdésében, valamint a Magyar Energetikai és Közmű-szabályozási Hivatalról szóló 2013. évi XXII. törvény 1. § (1) bekezdésében meghatározott szervezet,
+9.[^7] felügyeleti hatóság:
 
-9a.[^7] közmű-állásfoglalás: az e-közmű rendszer által kiadott, az igényelt kapacitás kiszolgálását biztosítani képes közműellátás meglétét vagy az elláthatóság feltételeit tartalmazó, a közművezeték-üzemeltetők nyilatkozatain alapuló, elektronikusan hitelesített dokumentum,
+a) az elektronikus hírközlésről szóló 2003. évi C. törvény 10. § (1) bekezdésében,
 
-9b.[^8] közműegyeztetés: az a tervezett építési tevékenységhez kötődő tevékenység, amelynek során a kérelmező által megjelölt, EOV koordináták által behatárolt földrajzi terület vonatkozásában az egyes közművezeték-üzemeltetők nyilvántartásukból térképi adatszolgáltatást nyújtanak, és nyilatkozatukban állást foglalnak a közművezeték környezetében végzendő munkák megvalósíthatóságáról, nyilatkoznak a tényleges megvalósítás feltételeiről vagy tilalmáról, valamint nyilatkoznak az igényelt kapacitás kiszolgálását biztosítani képes közműellátás meglétéről vagy az elláthatóság feltételeiről,
+b) a Magyar Energetikai és Közmű-szabályozási Hivatalról szóló 2013. évi XXII. törvény 1. § (1) bekezdésében,
 
-9c.[^9] közműnyilatkozat: az e-közmű rendszer által kiadott, elektronikusan hitelesített dokumentum, amely minimálisan az építési munkák által érintett hálózatrészek biztonságos megközelítésének, keresztezésének, védelembe helyezésének, áthelyezésének érdekében szükséges műszaki feltételek előírásait tartalmazó, a közművezeték-üzemeltetők által kiadott, sajátos építményfajták engedélyezési eljárásához szükséges és az általános építményfajták esetében az építőipari kivitelezési tevékenység szakszerűségét megalapozó nyilatkozatokon alapul,
+c) a vízügyi igazgatási és a vízügyi, valamint a vízvédelmi hatósági feladatokat ellátó szervek kijelöléséről szóló 223/2014. (IX. 4.) Korm. rendelet 10. § (1) bekezdésében, valamint
 
-10.[^10] közművezeték: gazdálkodási tevékenységet folytató szervezet által üzemeltetett, közterületen, térszín felett, térszínen vagy térszín alatt elhelyezett vezetékrendszer és az ÁSZF-ben meghatározott kapcsolódó építmények.
+d) a Budapest Főváros Kormányhivatalának egyes ipari és kereskedelmi ügyekben eljáró hatóságként történő kijelöléséről, valamint a területi mérésügyi és műszaki biztonsági hatóságokról szóló 365/2016. (XI. 29.) Korm. rendelet 22/B. § (1) bekezdésében
+
+meghatározott szervezet,
+
+9a.[^8] közmű-állásfoglalás: az e-közmű rendszer által kiadott, az igényelt kapacitás kiszolgálását biztosítani képes közműellátás meglétét vagy az elláthatóság feltételeit tartalmazó, a közművezeték-üzemeltetők nyilatkozatain alapuló, elektronikusan hitelesített dokumentum,
+
+9b.[^9] közműegyeztetés: az a tervezett építési tevékenységhez kötődő tevékenység, amelynek során a kérelmező által megjelölt, EOV koordináták által behatárolt földrajzi terület vonatkozásában az egyes közművezeték-üzemeltetők nyilvántartásukból térképi adatszolgáltatást nyújtanak, és nyilatkozatukban állást foglalnak a közművezeték környezetében végzendő munkák megvalósíthatóságáról, nyilatkoznak a tényleges megvalósítás feltételeiről vagy tilalmáról, valamint nyilatkoznak az igényelt kapacitás kiszolgálását biztosítani képes közműellátás meglétéről vagy az elláthatóság feltételeiről,
+
+9c.[^10] közműnyilatkozat: az e-közmű rendszer által kiadott, elektronikusan hitelesített dokumentum, amely minimálisan az építési munkák által érintett hálózatrészek biztonságos megközelítésének, keresztezésének, védelembe helyezésének, áthelyezésének érdekében szükséges műszaki feltételek előírásait tartalmazó, a közművezeték-üzemeltetők által kiadott, sajátos építményfajták engedélyezési eljárásához szükséges és az általános építményfajták esetében az építőipari kivitelezési tevékenység szakszerűségét megalapozó nyilatkozatokon alapul,
+
+10.[^11] közművezeték: gazdálkodási tevékenységet folytató szervezet által üzemeltetett, közterületen, térszín felett, térszínen vagy térszín alatt elhelyezett vezetékrendszer és az ÁSZF-ben meghatározott kapcsolódó építmények.
 
 [^3]: A 2. § a 369/2016. (XI. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^4]: A 2. § 1. pontja a 117/2018. (VII. 2.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
 [^5]: A 2. § 5. pontja a 117/2018. (VII. 2.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
 [^6]: A 2. § 6. pontja a 117/2018. (VII. 2.) Korm. rendelet 14. § c) pontja szerint módosított szöveg.
-[^7]: A 2. § 9a. pontját a 117/2018. (VII. 2.) Korm. rendelet 3. §-a iktatta be.
-[^8]: A 2. § 9b. pontját a 117/2018. (VII. 2.) Korm. rendelet 3. §-a iktatta be.
-[^9]: A 2. § 9c. pontját a 117/2018. (VII. 2.) Korm. rendelet 3. §-a iktatta be.
-[^10]: A 2. § 10. pontja a a 117/2018. (VII. 2.) Korm. rendelet 14. § d) pontja szerint módosított szöveg.
+[^7]: A 2. § 9. pontja a 285/2024. (IX. 30.) Korm. rendelet 92. §-ával megállapított szöveg.
+[^8]: A 2. § 9a. pontját a 117/2018. (VII. 2.) Korm. rendelet 3. §-a iktatta be.
+[^9]: A 2. § 9b. pontját a 117/2018. (VII. 2.) Korm. rendelet 3. §-a iktatta be.
+[^10]: A 2. § 9c. pontját a 117/2018. (VII. 2.) Korm. rendelet 3. §-a iktatta be.
+[^11]: A 2. § 10. pontja a a 117/2018. (VII. 2.) Korm. rendelet 14. § d) pontja szerint módosított szöveg.

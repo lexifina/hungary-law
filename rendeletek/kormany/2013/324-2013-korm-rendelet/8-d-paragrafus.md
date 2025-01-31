@@ -1,3 +1,3 @@
-8/D. §[^47]
+8/D. §[^48]
 
-[^47]: A 8/D. §-t a 369/2016. (XI. 29.) Korm. rendelet 15. §-a iktatta be, hatályon kívül helyezte a 117/2018. (VII. 2.) Korm. rendelet 15. § b) pontja.
+[^48]: A 8/D. §-t a 369/2016. (XI. 29.) Korm. rendelet 15. §-a iktatta be, hatályon kívül helyezte a 117/2018. (VII. 2.) Korm. rendelet 15. § b) pontja.

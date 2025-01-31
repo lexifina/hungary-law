@@ -1,6 +1,6 @@
 ## 4. Az e-közmű részére történő adatszolgáltatás
 
-5. §[^21] (1) Az e-közmű részére adatszolgáltatásra kötelezett:
+5. §[^22] (1) Az e-közmű részére adatszolgáltatásra kötelezett:
 
 a) a közművezeték elhelyezkedése tekintetében a közművezetékek üzemeltetője, amelynél az e-közmű által szolgáltatott adat elsődlegesen keletkezik és felelős annak naprakész nyilvántartásáért (a továbbiakban: közművezeték-üzemeltető),
 
@@ -8,7 +8,7 @@ b) az állami ingatlan-nyilvántartási térképi adatbázis tekintetében az á
 
 c) a 8/A. §-ban meghatározott adatok tekintetében a felügyeleti hatóság.
 
-(2)[^22] Az e-közmű részére térképi adatszolgáltatásra nem kötelezett
+(2)[^23] Az e-közmű részére térképi adatszolgáltatásra nem kötelezett
 
 a) a sajátos építményfajták körébe tartozó honvédelmi és katonai célú építményekre vonatkozó építésügyi hatósági engedélyezési eljárások szabályairól szóló kormányrendelet szerinti honvédelmi és katonai célú közművezetékek,
 
@@ -46,11 +46,11 @@ c) a felügyeleti hatóság a 8/A. §-ban meghatározott rendszerességgel
 
 köteles a folyamatos adatszolgáltatásra.
 
-(7)[^23] Az (1) bekezdés a) és b) pontja szerinti e-közmű adatszolgáltatóknak rendelkezniük kell Egységes Országos Vetületi Rendszerben (a továbbiakban: EOV rendszerben) vezetett nyilvántartással.
+(7)[^24] Az (1) bekezdés a) és b) pontja szerinti e-közmű adatszolgáltatóknak rendelkezniük kell Egységes Országos Vetületi Rendszerben (a továbbiakban: EOV rendszerben) vezetett nyilvántartással.
 
-(8)[^24] Az e-közműt üzemeltető szervezet rendszeresen ellenőrzi az e-közmű regisztrációs adatbázisában foglalt adatok összhangját a felügyeleti hatóság által biztosított adatokkal. Ha eltérést észlel az adatok között, azt – az eltérés pontos megjelölésével – haladéktalanul jelzi a felügyeleti hatóság felé.
+(8)[^25] Az e-közműt üzemeltető szervezet rendszeresen ellenőrzi az e-közmű regisztrációs adatbázisában foglalt adatok összhangját a felügyeleti hatóság által biztosított adatokkal. Ha eltérést észlel az adatok között, azt – az eltérés pontos megjelölésével – haladéktalanul jelzi a felügyeleti hatóság felé.
 
-[^21]: Az 5. § a 369/2016. (XI. 29.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^22]: Az 5. § (2) bekezdés nyitó és záró szövegrésze a 117/2018. (VII. 2.) Korm. rendelet 14. § e)–f) pontja szerint módosított szöveg.
-[^23]: Az 5. § (7) bekezdése a 117/2018. (VII. 2.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^24]: Az 5. § (8) bekezdése a 117/2018. (VII. 2.) Korm. rendelet 14. § g) pontja szerint módosított szöveg.
+[^22]: Az 5. § a 369/2016. (XI. 29.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^23]: Az 5. § (2) bekezdés nyitó és záró szövegrésze a 117/2018. (VII. 2.) Korm. rendelet 14. § e)–f) pontja szerint módosított szöveg.
+[^24]: Az 5. § (7) bekezdése a 117/2018. (VII. 2.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^25]: Az 5. § (8) bekezdése a 117/2018. (VII. 2.) Korm. rendelet 14. § g) pontja szerint módosított szöveg.

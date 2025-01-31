@@ -2,25 +2,22 @@
 
 ## 7. Átmeneti rendelkezések
 
-11. §[^56] (1) Az e-közmű rendszerbe már regisztrált közművezeték-üzemeltetőnek az 5. § (2) bekezdésében foglaltak alkalmazásával az egyes kormányrendeleteknek az egységes elektronikus közműegyeztetés megvalósításához szükséges módosításáról szóló 369/2016. (XI. 29.) Korm. rendelet (a továbbiakban: Módr.) hatálybalépésétől[^57] számított 2 hónapon belül meg kell újítania meglévő regisztrációját.
+11. §[^57] (1)[^58] A 2. § 9. pont c) vagy d) pontja szerinti felügyeleti hatóság – a (2) bekezdésben foglalt kivétellel – akkor is eljár, ha a feladatkörébe tartozó közművezeték-üzemeltető részvételével a magyar építészetről szóló 2023. évi C. törvény hatálybalépésével összefüggő egyes kormányrendeletek módosításáról szóló 285/2024. (IX. 30.) Korm. rendelet (a továbbiakban: Módr2.) hatálybalépésekor[^59] folyamatban lévő közműegyeztetés során a közművezeték-üzemeltető az e rendeletben meghatározott kötelezettségét elmulasztja.
 
-(2) Az e-közmű rendszerbe még nem regisztrált közművezeték-üzemeltetőknek a Módr. hatálybalépésétől[^58] számított két hónapon belül regisztrálniuk kell az e-közmű rendszerbe.
+(2)[^60] Az e-közműt üzemeltető szervezet a Módr2. hatálybalépését[^61] megelőző egy évnél korábban kezdeményezett közműegyeztetések közül azokat, amelyekben a 2. § 9. pont c) vagy d) pontja szerinti felügyeleti hatóság feladatkörébe tartozó közművezeték-üzemeltető időközben megszűnt, lezárja, és „eredménytelenül lezárva” jelzéssel látja el. Ezekben az esetekben közműnyilatkozat kiadására nem kerül sor.
 
-(3) A meglévő e-közmű adatszolgáltatással rendelkező közművezeték-üzemeltető a közművezetékekre vonatkozó adatokat a 6. § (1) bekezdése szerint a Módr. hatálybalépésétől[^59] számított 2 hónapot követően köteles naprakészen szolgáltatni.
+(3)[^62] Azon települési önkormányzat belterületén található, közterületi csapadékvíz-elvezető rendszert üzemeltető helyi önkormányzatok, akik nem alakítottak ki adatszolgáltatást az e-közmű felé a magyar építészetről szóló 2023. évi C. törvény hatálybalépésével összefüggő egyes kormányrendeletek módosításáról szóló 285/2024. (IX. 30.) Korm. rendelet hatálybalépését[^63] megelőzően, a közművezetékekre vonatkozó adatokat e rendelet szerint 2025. április 1-jétől kötelesek naprakészen szolgáltatni.
 
-(4) Azon közművezeték-üzemeltetők, akik nem alakítottak ki adatszolgáltatást az e-közmű felé a Módr. hatálybalépését[^60] megelőzően, a közművezetékekre vonatkozó adatokat – az (5) bekezdésben foglalt eltéréssel –, a 6. § (1) bekezdése szerint 2017. július 1-jétől kötelesek naprakészen szolgáltatni.
+(4)[^64]
 
-(5) Azok az 500 000 méter hálózati hosszt meg nem haladó elektronikus hírközlő hálózatot üzemeltetők, akik nem alakítottak ki adatszolgáltatást az e-közmű felé a Módr. hatálybalépését[^61] megelőzően,
+(5)[^65]
 
-a) 2017. december 31. napjáig a regisztrációhoz megadott település szintű adatok szolgáltatására,
-
-b) 2018. január 1. napjától e rendelet 6. § (1) bekezdése szerinti adatok szolgáltatására
-
-kötelesek.
-
-[^56]: A 11. § a 369/2016. (XI. 29.) Korm. rendelet 19. §-ával megállapított szöveg.
-[^57]: A hatálybalépés időpontja 2016. november 30.
-[^58]: A hatálybalépés időpontja 2016. november 30.
-[^59]: A hatálybalépés időpontja 2016. november 30.
-[^60]: A hatálybalépés időpontja 2016. november 30.
-[^61]: A hatálybalépés időpontja 2016. november 30.
+[^57]: A 11. § a 369/2016. (XI. 29.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^58]: A 11. § (1) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 93. §-ával megállapított szöveg.
+[^59]: A hatálybalépés időpontja 2024. október 1.
+[^60]: A 11. § (2) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 93. §-ával megállapított szöveg.
+[^61]: A hatálybalépés időpontja 2024. október 1.
+[^62]: A 11. § (3) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 95. §-ával megállapított szöveg.
+[^63]: A hatálybalépés időpontja 2024. október 1.
+[^64]: A 11. § (4) bekezdését a 285/2024. (IX. 30.) Korm. rendelet 96. § a) pontja hatályon kívül helyezte.
+[^65]: A 11. § (5) bekezdését a 285/2024. (IX. 30.) Korm. rendelet 96. § a) pontja hatályon kívül helyezte.

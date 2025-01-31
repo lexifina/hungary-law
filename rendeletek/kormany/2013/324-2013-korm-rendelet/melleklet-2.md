@@ -36,6 +36,6 @@
 
 ## Lechner Nonprofit Kft.
 
-2. melléklet a 324/2013. (VIII. 29.) Korm. rendelethez[^69]
+2. melléklet a 324/2013. (VIII. 29.) Korm. rendelethez[^72]
 
-[^69]: A 2. mellékletet a 117/2018. (VII. 2.) Korm. rendelet 15. § c) pontja hatályon kívül helyezte.
+[^72]: A 2. mellékletet a 117/2018. (VII. 2.) Korm. rendelet 15. § c) pontja hatályon kívül helyezte.
