@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-19-20-0
 | 2015-10-01 | 2015-19-20-06.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2017-01-01 | 2015-19-20-06.3 | 26/2016. (XII. 27.) IM rendelet |
 | 2018-01-01 | 2015-19-20-06.4 | 25/2017. (XII. 22.) IM rendelet |
+| 2025-01-31 | 2015-19-20-06.5 | 45/2024. (XII. 31.) IM rendelet |

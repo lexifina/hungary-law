@@ -6,7 +6,7 @@ a) az adatszolgáltatásra, illetve az adatokról tanúsítvány kiállításár
 
 b) az adatszolgáltatásért, a tanúsítvány kiállításáért és az okiratmásolatokért fizetendő igazgatási szolgáltatási díjra
 
-## terjed ki.
+terjed ki.
 
 (2) Az ARE nyilvántartásból történő adatigénylésre, az ARE nyilvántartást érintő tanúsítvány, továbbá az Are. tv. 16. § (8) bekezdése szerinti hiteles és nem hiteles okiratmásolatok igénylésére és az igénylésekkel összefüggő, az Are. tv. 16. § (5) bekezdése szerinti célhoz kötött felhasználásra vonatkozó kötelezettségvállalásokra a CsSz központi szerve a honlapján formanyomtatványokat tehet közzé. Ezekben az esetekben a formanyomtatvány használata az igénylések beadásakor kötelező.
 
