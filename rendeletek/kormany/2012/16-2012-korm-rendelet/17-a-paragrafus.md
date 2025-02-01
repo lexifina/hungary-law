@@ -1,4 +1,4 @@
-## 7/A. [^28] Uniós szintű közös beszerzés
+## 7/A. [^30] Uniós szintű közös beszerzés
 
 17/A. § (1) Az egészségügyért felelős miniszter kötelezettséget vállalhat olyan uniós szintű intézkedés alkalmazására, amely közvetlenül alkalmazandó uniós jogi aktuson alapuló közös fellépés végrehajtásához szükséges, és egészségügyi ellenintézkedések uniós szintű közös beszerzésére vonatkozik.
 
@@ -6,4 +6,4 @@
 
 (3) E § alkalmazásában egészségügyi ellenintézkedés a határokon átterjedő súlyos egészségügyi veszélyekről és a 2119/98/EK határozat hatályon kívül helyezéséről szóló, 2013. október 22-i 1082/2013/EU európai parlamenti és tanácsi határozat szerinti, a határokon át terjedő súlyos egészségügyi veszélyek leküzdésére szolgáló gyógyszerek, orvostechnikai eszközök, egyéb áruk és szolgáltatások.
 
-[^28]: A 7/A. alcímet (17/A. §) a 185/2014. (VII. 25.) Korm. rendelet 3. §-a iktatta be.
+[^30]: A 7/A. alcímet (17/A. §) a 185/2014. (VII. 25.) Korm. rendelet 3. §-a iktatta be.
