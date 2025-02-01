@@ -1,4 +1,4 @@
-## Országosan: 225
+## Országosan: 224
 
 ## I.
 
@@ -110,11 +110,11 @@
 
 | Makói Járásbíróság | 1 |
 
-| Szegedi Járásbíróság | 5 |
+| Szegedi Járásbíróság | 4 |
 
 | Szentesi Járásbíróság | 1 |
 
-| Összesen: | 10 |
+| Összesen: | 9 |
 
 ## VII.
 
