@@ -8,6 +8,7 @@ b) 19/B. § (1) bekezdésében meghatározott megkeresett szerv vagy szolgáltat
 
 c) 19/B. § (2) bekezdésében meghatározott hatósági költség.
 
-(2) A konzuli díj tárgyát és mértékét e rendelet melléklete tartalmazza.
+(2)[^2] A konzuli díj tárgyát és mértékét e rendelet Melléklete tartalmazza.
 
 [^1]: Az 1. § a 22. § (2) bekezdése alapján 2011. február 1-jén lép hatályba.
+[^2]: Az 1. § (2) bekezdése a 22/2024. (XII. 23.) KKM rendelet 9. § 1. pontja szerint módosított szöveg.

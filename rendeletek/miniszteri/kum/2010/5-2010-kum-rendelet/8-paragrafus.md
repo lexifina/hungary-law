@@ -1,3 +1,3 @@
-## 7. §[^10] A melléklet 12. pontja szerinti díjat kell fizetni, ha a konzuli tisztviselő a közjegyzőkről szóló törvényben felsorolt, a mellékletben nem nevesített egyéb konzuli tanúsítvány kiállítását vállalja.
+8. §[^18]
 
-[^10]: A 7. § a 22. § (2) bekezdése alapján 2011. február 1-jén lép hatályba.
+[^18]: A 8. §-t a 22/2024. (XII. 23.) KKM rendelet 10. §-a hatályon kívül helyezte.
