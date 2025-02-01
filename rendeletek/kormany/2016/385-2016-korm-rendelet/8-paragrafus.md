@@ -1,4 +1,4 @@
-8. § (1)[^20] Kormány egészségügyi államigazgatási szervként az NNGYK-t jelöli ki
+8. § (1)[^21] Kormány egészségügyi államigazgatási szervként az NNGYK-t jelöli ki
 
 a) az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvény (a továbbiakban: Ehi.)
 
@@ -8,7 +8,7 @@ ab) 4. § (5) bekezdés a) pont ab) alpontja, b) pont ba) és bc) alpontja, c) p
 
 ac) 4/A. § (1) bekezdése,
 
-ad)[^21] 6. § (1) bekezdés e), h), i), o), p) és q) pontja,
+ad)[^22] 6. § (1) bekezdés e), h), i), o), p) és q) pontja,
 
 ae) tekintetében gyógyszerészeti igazgatási hatáskörben eljárva 10. és 11. §-a, 13/A. § (1a), (1b) és (2) bekezdése,
 
@@ -46,15 +46,15 @@ d) a Kbtv.
 
 da) 6. § (1) és (2) bekezdése,
 
-db)[^22]
+db)[^23]
 
 dc) 8. § (3) és (5) bekezdése,
 
 dd) 8/A. § (1) és (5) bekezdése,
 
-de)[^23]
+de)[^24]
 
-df)[^24]
+df)[^25]
 
 dg) 23. §-a,
 
@@ -64,7 +64,7 @@ di) 26/A. §-a,
 
 dj) 32. § (2) bekezdése,
 
-dk)[^25] 29. § (1) bekezdése,
+dk)[^26] 29. § (1) bekezdése,
 
 e) az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény
 
@@ -134,7 +134,7 @@ szerinti feladatok ellátására.
 
 (2) Az országos tisztifőorvos kijelöli a mikrobiológiai referencia laboratóriumokat, valamint a járványügyi feladatok ellátására kijelölt laboratóriumokat. Ha a kijelölés érinti a kormányhivatalt, a kijelöléshez a közigazgatás-szervezésért felelős miniszter egyetértése szükséges.
 
-(3)[^26] Az NNGYK munkahigiénés és foglalkozás-egészségügyi szervként részt vesz
+(3)[^27] Az NNGYK munkahigiénés és foglalkozás-egészségügyi szervként részt vesz
 
 a) a munkahigiénés és foglalkozás-egészségügyi tevékenységgel összefüggő kormányzati döntések, stratégiák megalapozásában, ezzel kapcsolatos felmérésekben,
 
@@ -146,7 +146,7 @@ d) a munkaegészségügyi vonatkozású hazai és európai uniós programok vég
 
 e) a munkaegészségüggyel foglalkozó hazai és nemzetközi szervezetek tevékenységében.
 
-(4)[^27] Az NNGYK az (1) bekezdés b) pont bh) alpontjában foglalt feladat ellátása céljából az adatok kutatása során olyan adatfeldolgozóval köthet szerződést, amely az általános adatvédelmi rendeletben foglaltak mellett megfelel a következő feltételeknek:
+(4)[^28] Az NNGYK az (1) bekezdés b) pont bh) alpontjában foglalt feladat ellátása céljából az adatok kutatása során olyan adatfeldolgozóval köthet szerződést, amely az általános adatvédelmi rendeletben foglaltak mellett megfelel a következő feltételeknek:
 
 a) székhelye Magyarországon található,
 
@@ -156,17 +156,17 @@ c) biztosítja az általa feldolgozott adatok Magyarországon történő tárol�
 
 d) adatfeldolgozói tevékenysége során biztosítja orvos közreműködését.
 
-(5)[^28] A (4) bekezdés b) és d) pontjában szereplő feltételt nem kell alkalmazni azon adatfeldolgozóra, amely az adatkezelő megbízásából kizárólag technikai közreműködést biztosít, így különösen az adatok rögzítését, tárolását, anonimizálását, továbbítását, korlátozását, törlését vagy megsemmisítését végzi.
+(5)[^29] A (4) bekezdés b) és d) pontjában szereplő feltételt nem kell alkalmazni azon adatfeldolgozóra, amely az adatkezelő megbízásából kizárólag technikai közreműködést biztosít, így különösen az adatok rögzítését, tárolását, anonimizálását, továbbítását, korlátozását, törlését vagy megsemmisítését végzi.
 
-(6)[^29] A Kormány nemzeti koordinációs fókuszpontként az egészségügyért felelős minisztert jelöli ki az Egészségügyi Világszervezet Dohányzás-ellenőrzési Keretegyezményének kihirdetéséről szóló 2005. évi III. törvénnyel kihirdetett, az Egészségügyi Világszervezet Dohányzás-ellenőrzési Keretegyezménye 5. Cikk 2. pont a) alpontja szerinti feladat ellátására.
+(6)[^30] A Kormány nemzeti koordinációs fókuszpontként az egészségügyért felelős minisztert jelöli ki az Egészségügyi Világszervezet Dohányzás-ellenőrzési Keretegyezményének kihirdetéséről szóló 2005. évi III. törvénnyel kihirdetett, az Egészségügyi Világszervezet Dohányzás-ellenőrzési Keretegyezménye 5. Cikk 2. pont a) alpontja szerinti feladat ellátására.
 
-[^20]: A 8. § (1) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 47. §-ával megállapított szöveg.
-[^21]: A 8. § (1) bekezdés a) pont ad) alpontja a 659/2023. (XII. 28.) Korm. rendelet 50. § (1) bekezdésével megállapított szöveg.
-[^22]: A 8. § (1) bekezdés d) pont db) alpontját a 659/2023. (XII. 28.) Korm. rendelet 54. § b) pontja hatályon kívül helyezte.
-[^23]: A 8. § (1) bekezdés d) pont de) alpontját a 659/2023. (XII. 28.) Korm. rendelet 54. § b) pontja hatályon kívül helyezte.
-[^24]: A 8. § (1) bekezdés d) pont df) alpontját a 659/2023. (XII. 28.) Korm. rendelet 54. § b) pontja hatályon kívül helyezte.
-[^25]: A 8. § (1) bekezdés d) pont dk) alpontját a 659/2023. (XII. 28.) Korm. rendelet 50. § (2) bekezdése iktatta be.
-[^26]: A 8. § (3) bekezdés nyitó szövegrésze az 514/2022. (XII. 13.) Korm. rendelet 3. § d) pontja, a 334/2023. (VII. 20.) Korm. rendelet 49. § b) pontja szerint módosított szöveg.
-[^27]: A 8. § (4) bekezdését a 250/2017. (IX. 5.) Korm. rendelet 71. §-a hatályon kívül helyezte, újonnan az 514/2022. (XII. 13.) Korm. rendelet 2. §-a iktatta be, nyitó szövegrésze a 334/2023. (VII. 20.) Korm. rendelet 49. § b) pontja szerint módosított szöveg.
-[^28]: A 8. § (5) bekezdését a 250/2017. (IX. 5.) Korm. rendelet 71. §-a hatályon kívül helyezte, újonnan az 514/2022. (XII. 13.) Korm. rendelet 2. §-a iktatta be.
-[^29]: A 8. § (6) bekezdése a 300/2018. (XII. 27.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 238/2022. (VI. 30.) Korm. rendelet 164. §-a szerint módosított szöveg.
+[^21]: A 8. § (1) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 47. §-ával megállapított szöveg.
+[^22]: A 8. § (1) bekezdés a) pont ad) alpontja a 659/2023. (XII. 28.) Korm. rendelet 50. § (1) bekezdésével megállapított szöveg.
+[^23]: A 8. § (1) bekezdés d) pont db) alpontját a 659/2023. (XII. 28.) Korm. rendelet 54. § b) pontja hatályon kívül helyezte.
+[^24]: A 8. § (1) bekezdés d) pont de) alpontját a 659/2023. (XII. 28.) Korm. rendelet 54. § b) pontja hatályon kívül helyezte.
+[^25]: A 8. § (1) bekezdés d) pont df) alpontját a 659/2023. (XII. 28.) Korm. rendelet 54. § b) pontja hatályon kívül helyezte.
+[^26]: A 8. § (1) bekezdés d) pont dk) alpontját a 659/2023. (XII. 28.) Korm. rendelet 50. § (2) bekezdése iktatta be.
+[^27]: A 8. § (3) bekezdés nyitó szövegrésze az 514/2022. (XII. 13.) Korm. rendelet 3. § d) pontja, a 334/2023. (VII. 20.) Korm. rendelet 49. § b) pontja szerint módosított szöveg.
+[^28]: A 8. § (4) bekezdését a 250/2017. (IX. 5.) Korm. rendelet 71. §-a hatályon kívül helyezte, újonnan az 514/2022. (XII. 13.) Korm. rendelet 2. §-a iktatta be, nyitó szövegrésze a 334/2023. (VII. 20.) Korm. rendelet 49. § b) pontja szerint módosított szöveg.
+[^29]: A 8. § (5) bekezdését a 250/2017. (IX. 5.) Korm. rendelet 71. §-a hatályon kívül helyezte, újonnan az 514/2022. (XII. 13.) Korm. rendelet 2. §-a iktatta be.
+[^30]: A 8. § (6) bekezdése a 300/2018. (XII. 27.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 238/2022. (VI. 30.) Korm. rendelet 164. §-a szerint módosított szöveg.

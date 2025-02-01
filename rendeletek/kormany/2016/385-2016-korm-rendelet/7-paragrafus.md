@@ -8,7 +8,7 @@
 
 (4) A Kormány egészségügyi államigazgatási szervként a tevékenység végzésének helye szerint illetékes járási hivatalt jelöli ki a kémiai biztonságról szóló 2000. évi XXV. törvény (a továbbiakban: Kbtv.)
 
-a)[^19]
+a)[^20]
 
 b) 32. § (1) bekezdés a) pontja
 
@@ -18,4 +18,4 @@ alkalmazásában.
 
 (6) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény szerinti, a szolgáltatás felügyeletét ellátó hatóságként a járási hivatal és a kormányhivatal jár el a gyógyászati segédeszköz-forgalmazási tevékenység tekintetében.
 
-[^19]: A 7. § (4) bekezdés a) pontját a 659/2023. (XII. 28.) Korm. rendelet 54. § a) pontja hatályon kívül helyezte.
+[^20]: A 7. § (4) bekezdés a) pontját a 659/2023. (XII. 28.) Korm. rendelet 54. § a) pontja hatályon kívül helyezte.
