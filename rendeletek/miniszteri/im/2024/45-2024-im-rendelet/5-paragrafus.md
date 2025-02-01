@@ -1,5 +1,5 @@
 ## 5. A közös jogkezelő szervezetek és a független jogkezelő szervezetek jogkezelési tevékenységének bejelentésével, valamint a reprezentatív közös jogkezelő szervezetként végzett közös jogkezelési tevékenység engedélyezésével kapcsolatos eljárásokért fizetendő igazgatási szolgáltatási díjra vonatkozó szabályokról szóló 19/2016. (IX. 5.) IM rendelet módosítása
 
-5. § A közös jogkezelő szervezetek és a független jogkezelő szervezetek jogkezelési tevékenységének bejelentésével, valamint a reprezentatív közös jogkezelő szervezetként végzett közös jogkezelési tevékenység engedélyezésével kapcsolatos eljárásokért fizetendő igazgatási szolgáltatási díjra vonatkozó szabályokról szóló 19/2016. (IX. 5.) IM rendelet 7. § (1) bekezdése helyébe a következő rendelkezés lép:
+5. §[^6]
 
-„(1) Az igazgatási szolgáltatási díjat a Szellemi Tulajdon Nemzeti Hivatalának (a továbbiakban: SZTNH) a kincstárnál vezetett 10032000-01731842-00000000 számú előirányzat-felhasználási keretszámlájára átutalással, készpénz-átutalási megbízás útján vagy internetes felületen történő bankkártyás fizetéssel (VPOS) kell befizetni, az azonosítási adatok – a közös jogkezelő szervezet, független jogkezelő szervezet vagy reprezentatív közös jogkezelő szervezet neve, címe és a jogcímkód – feltüntetésével.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
