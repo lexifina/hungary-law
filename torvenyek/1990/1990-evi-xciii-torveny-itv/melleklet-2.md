@@ -56,7 +56,7 @@ a házassági név megváltoztatására irányuló eljárás
 
 |
 
-a családi állapot változásából eredő névváltozás miatt indult eljárás
+a családi állapot változásából eredő névváltozás miatt indult eljárás jogszabály eltérő rendelkezése hiányában
 
 |
 
@@ -524,7 +524,7 @@ az érintett polgár adatainak a polgárok személyi adatainak és lakcímének 
 
 |
 
-évente egy alkalommal az állandó személyazonosító igazolvány és a lakcímet igazoló hatósági igazolvány kiállítására irányuló eljárás
+a személyazonosító igazolvány, valamint a személyi azonosítót és lakcímet igazoló hatósági igazolvány kiállításával, pótlásával szembeni jogorvoslati eljárás
 
 |
 
@@ -556,7 +556,7 @@ hatósági bizonyítvány kiállítása az egyéni vállalkozók nyilvántartás
 
 |
 
-az eltulajdonított okmányok pótlására irányuló eljárás
+az eltulajdonított okmányok pótlására irányuló eljárás jogszabály eltérő rendelkezése hiányában
 
 |
 
@@ -600,15 +600,7 @@ a Magyarország területén kívül élő magyar állampolgár kérelemre tört�
 
 |
 
-a) a diplomata-útlevél,
-
-b) a külügyi szolgálati útlevél,
-
-c) az ideiglenes magánútlevél,
-
 d) a határátlépési igazolvány,
-
-e) a 65. életévét betöltött személy magánútlevelének, második magánútlevelének
 
 kiállítása
 
@@ -618,7 +610,7 @@ kiállítása
 
 |
 
-a gépjárművezetői engedély kiállítása első alkalommal
+a 25 év alatti személyek vonatkozásában a B kategória megszerzésekor kiállításra kerülő első vezetői engedély esetén
 
 |
 
@@ -645,8 +637,6 @@ miatt kezdeményezett hatósági eljárás
 20.
 
 |
-
-a személyi azonosító képzése – ideértve a személyi azonosító megváltozását eredményező adatváltozást is – miatt kiállított hatósági igazolvány
 
 |
 
@@ -974,4 +964,4 @@ A pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadá
 
 |
 
-A 18. életévét be nem töltött személy által kezdeményezett eljárás
+A 18. életévét be nem töltött személy által kezdeményezett eljárás jogszabály eltérő rendelkezése hiányában
