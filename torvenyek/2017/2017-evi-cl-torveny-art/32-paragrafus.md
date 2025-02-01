@@ -14,7 +14,7 @@ d) a nem magyar állampolgárságú természetes személy állampolgárságát, 
 
 (3) Az állami adó- és vámhatóság az adózó által bejelentett természetes személyazonosító adatokat, lakcímet a polgárok személyi adatainak és lakcímének nyilvántartását kezelő szerv nyilvántartásában szereplő adatokkal, nem magyar állampolgárok esetén a csatolt okiratok tartalmával egybeveti, és az okmányok érvényességét ellenőrzi.
 
-(4) Az (1) és a (2) bekezdés szerinti bejelentés alapján az adóhatóság megállapítja a természetes személy adóazonosító jelét, és arról tizenöt napon belül hatósági igazolványt (a továbbiakban: adóigazolvány) állít ki, ennek során, továbbá az adóigazolvány egyéb okból történő kiállítása esetén megküldi az adóigazolvány kiállításához szükséges adatokat az adóigazolvány megszemélyesítését végző szervezet részére.
+(4) Az (1) és a (2) bekezdés szerinti bejelentés alapján az adóhatóság megállapítja a természetes személy adóazonosító jelét, és arról kérelemre tizenöt napon belül hatósági igazolványt (a továbbiakban: adóigazolvány) állít ki, ennek során, továbbá az adóigazolvány egyéb okból történő kiállítása esetén megküldi az adóigazolvány kiállításához szükséges adatokat az adóigazolvány megszemélyesítését végző szervezet részére.
 
 (5) Az állami adó- és vámhatóság az adóazonosító jelről első ízben hatvan napra érvényes ideiglenes adóigazolványt állít ki, ha a természetes személy által az (1) bekezdés szerint bejelentett adatok (3) bekezdés szerinti egybevetése és ellenőrzése során eltérést állapít meg.
 
