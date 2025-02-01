@@ -52,7 +52,7 @@ k) a vizsgálatot végző szerv elektronikus úton a 8. § (1) bekezdés a) pont
 
 l) a Magyar Vöröskereszt fővárosi, vármegyei szervezete elektronikus úton a 8. § (1) bekezdés a) pont al) alpontjában foglalt adatokról,
 
-m) a személyiadat- és lakcímnyilvántartást kezelő szerv a járművezető 8. § (1) bekezdés a) pont am) alpontjában meghatározott, az anyakönyvvezetőnél a házasságkötési szándék bejelentésekor tett nyilatkozatairól.
+m)
 
 n) a kötvénynyilvántartó szerv elektronikusan a 9. § (2a) bekezdésében, illetve a 9/D. § (4a) bekezdésében meghatározott adatokról.
 

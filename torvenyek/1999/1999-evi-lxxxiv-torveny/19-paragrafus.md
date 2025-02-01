@@ -50,7 +50,7 @@ r) az országos közutak kezelői a Kkt. 15. § (1) bekezdésében meghatározot
 
 s) a Kkt. 9/D. § (2) bekezdésében meghatározott közfeladat ellátására jogosult, valamint a közfeladat ellátására jogosulttal a Kkt. 9/D. § (4) bekezdése alapján szerződött szervezet feladatai ellátásához a 9. § (1) és (1a) bekezdésében, valamint a 9/D. § (1) bekezdésében megjelölt adatokat,
 
-t) az anyakönyvvezető a személyazonosság ellenőrzése, az elhunyt személy személyazonosság igazolására alkalmas okmányának bevonása, vagy a névváltozási eljárással összefüggő feladatainak ellátása céljából a 8. § (1) bekezdés a) pont aa), ab), af) és ag) alpontjában, valamint b) pont ba) és bb) alpontjában foglalt adatokat,
+t) az anyakönyvvezető a személyazonosság ellenőrzése, az elhunyt személy személyazonosság igazolására alkalmas okmányának bevonása céljából a 8. § (1) bekezdés a) pont aa), ab), af) és ag) alpontjában, valamint b) pont ba) és bb) alpontjában foglalt adatokat,
 
 u) a szociális hatáskört gyakorló szerv a szociális ellátásra való jogosultság megállapítása, ellenőrzése céljából a 9. § (1) bekezdés a), b) és e) pontjában, a (2) bekezdés a)–c) pontjában, a 9/D. § (1) bekezdés a)–b) pontjában, a (2) bekezdés a)–b) pontjában és (3) bekezdésében, valamint a gyermekvédelmi és gyámügyi hatáskört gyakorló szerv a vagyoni helyzet vizsgálata céljából, a 9. § (1) bekezdés a), b) és e) pontjában, és a (2) bekezdés a)–c) pontjában megjelölt adatokat térítésmentesen;
 
@@ -94,7 +94,7 @@ j) a Családi Csődvédelmi Szolgálat a természetes személyek adósságrendez
 
 k) a környezet- és természetvédelmi hatóság a környezetkárosítást végzők beazonosítása érdekében a 9. § (1) bekezdésében foglalt adatokat,
 
-l) a nyilvántartó által megbízott megszemélyesítést végző szervezet a vezetői engedély, törzskönyv és hivatalból kiállításra kerülő forgalmi engedély megszemélyesítéséhez, kiállításához és jogszabályban meghatározott adatok kezeléséhez a nyilvántartásból az okmányra kerülő adatokat ingyenesen.
+l) a nyilvántartó által megbízott megszemélyesítést végző szervezet ingyenesen az automatikus úton kiállított vezetői engedély, törzskönyv és forgalmi engedély megszemélyesítéséhez, kiállításához és jogszabályban meghatározott adatok kezeléséhez az okmányra kerülő adatok tekintetében,
 
 m) a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény szerinti szolgáltató automatikus információátvétel útján a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 66. §-a szerinti ügyfél-átvilágítás céljából térítésmentesen a 8. § (1) bekezdés ac) és ad) pontjában megjelölt adatokat, valamint az engedély típusát és okmányazonosító jelét.
 

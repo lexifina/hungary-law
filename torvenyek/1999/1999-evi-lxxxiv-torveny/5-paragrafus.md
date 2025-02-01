@@ -66,4 +66,4 @@ cb) jogosult, az Európai Unión kívüli országok részére nemzetközi szerz�
 
 cc) a ca) pontban meghatározott adatigénylés lehetőségének hiányában, illetve annak kiegészítése céljából jogosult a jármű- és okmányazonosító, valamint műszaki adatok átadásával technikai adatok beszerzésére, és a körözés tényének a nemzeti nyilvántartásokban történő ellenőrzésére külön jogszabály szerint közreműködő igénybevételére.
 
-(3) A személyiadat- és lakcímnyilvántartást kezelő szerv a Magyarországon házasságot kötött magyar állampolgár esetén továbbítja a nyilvántartó részére a vezetői engedély, törzskönyv, forgalmi engedély házasságkötésből eredő névváltozás miatti, hivatalbóli cseréjéhez szükséges adatokat.
+(3)

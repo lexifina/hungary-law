@@ -1,1 +1,1 @@
-4/C. § A nyilvántartó házasságkötésből eredő névváltozás esetén, a személyiadat- és lakcímnyilvántartást kezelő szerv által továbbított adatok alapján hivatalból gondoskodik a forgalmi engedély és törzskönyv automatikus kiállítás útján történő cseréjéről, ha az okmány jogosultja az okmány kiállításához szükséges összes feltételt teljesítette, és a hivatalbóli okmánykiállítást megakadályozó nyilatkozatot nem tesz.
+### 4/C. §
