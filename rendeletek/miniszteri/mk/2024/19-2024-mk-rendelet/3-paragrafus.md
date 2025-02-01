@@ -1,0 +1,5 @@
+3. § (1) Az 1. melléklet szerinti okmányoknak az ügyfél kérelmére fizikai úton történő kiállításáért az ott meghatározott díjat kell fizetni. A 2026. évtől kezdődően az 1. mellékletben meghatározott díjak – az adópolitikáért felelős miniszterrel egyetértésben – a tárgyév első hónapjára irányadó, a Központi Statisztikai Hivatal által közzétett, a tárgyévet megelőző év első hónapjához viszonyított fogyasztóiár-index mértékének megfelelően – a matematikai kerekítési szabályok alkalmazásával – tízforintos kerekítési pontossággal módosíthatók.
+
+(2) Az úti okmányok soron kívüli, azonnali, illetve sürgősségi eljárásban történő kiadásáért és pótlásáért fizetendő igazgatási szolgáltatási díjat az erre vonatkozó jogszabály szerint, az (1) bekezdésben meghatározott díjon kívülkell megfizetni.
+
+(3) Mentesül a kérelmező az ideiglenes magánútlevél igazgatási szolgáltatási díjának megfizetése alól azokban az esetekben, amelyekben a konzuli költségekről szóló jogszabály szerint a konzuli díjat sem kell megfizetni.
