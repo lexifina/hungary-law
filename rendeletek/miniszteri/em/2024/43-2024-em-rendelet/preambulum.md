@@ -1,0 +1,1 @@
+A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény 74. § (2) bekezdés 4. pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 160. § 12. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
