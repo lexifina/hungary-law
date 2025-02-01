@@ -1,1 +1,0 @@
-A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 42. §-ának d) pontjában foglalt felhatalmazás alapján – a pénzügyminiszterrel, továbbá a 7. § tekintetében a gazdasági és közlekedési miniszterrel egyetértésben – a következőket rendelem el:
