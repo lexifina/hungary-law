@@ -1,0 +1,9 @@
+# 2/2025. (I. 31.) HM rendelet
+
+a katonával szemben elrendelt bűnügyi felügyelet betartásának ellenőrzéséről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-2-20-15
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2025-02-01 | 2025-2-20-15.1 | 2/2025. (I. 31.) HM rendelet |
