@@ -1,1 +1,3 @@
-5. § Hatályát veszti a Magyarország Európai Unió melletti Állandó Képviselete külképviseleti besorolásáról, valamint a tartós külszolgálatot teljesítők deviza-alapilletménye, költségtérítése és az állandó képviseleti devizapótlék kiszámításának részletes szabályairól szóló 28/2019. (XII. 20.) IM rendelet.
+5. §[^1]
+
+[^1]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

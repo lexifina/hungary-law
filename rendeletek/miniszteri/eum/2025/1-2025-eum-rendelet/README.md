@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-1-20-98
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2025-01-31 | 2025-1-20-98.1 | 1/2025. (I. 30.) EUM rendelet |
+| 2025-02-01 | 2025-1-20-98.2 | 2010. évi CXXX. törvény |
