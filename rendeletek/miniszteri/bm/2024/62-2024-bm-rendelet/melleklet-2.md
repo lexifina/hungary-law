@@ -1,3 +1,3 @@
-2. melléklet a 62/2024. (XII. 30.) BM rendelethez[^46]
+2. melléklet a 62/2024. (XII. 30.) BM rendelethez[^45]
 
-[^46]: A 2. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^45]: A 2. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

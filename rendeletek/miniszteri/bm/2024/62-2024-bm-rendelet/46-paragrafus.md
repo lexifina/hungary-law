@@ -1,5 +1,5 @@
 ## 19. A belügyminiszter irányítása alatt álló rendvédelmi feladatokat ellátó szerveknél alkalmazható rendvédelmi egészségkárosodási ellátásról szóló 54/2016. (XII. 22.) BM rendelet módosítása
 
-46. §[^41]
+46. §[^40]
 
-[^41]: A 46. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^40]: A 46. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
