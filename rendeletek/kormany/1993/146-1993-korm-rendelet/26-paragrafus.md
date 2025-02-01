@@ -8,15 +8,15 @@ c) az adatvédelmi záradékot, amely felhívja a figyelmet az átadott adatok j
 
 (2) Csoportos adatszolgáltatás esetén az (1) bekezdésben foglaltakon túl az engedély tartalmazza az adatszolgáltatás módját, a szolgáltatás teljesítésével kapcsolatos egyéb feltételeket, illetve követelményeket.
 
-(3)[^232]
+(3)[^231]
 
-(4)[^233]
+(4)[^232]
 
-(5)[^234]
+(5)[^233]
 
-(6)[^235]
+(6)[^234]
 
-[^232]: Az R. 26. § (3) bekezdését a 256/2023. (VI. 26.) Korm. rendelet 7. § b) pontja hatályon kívül helyezte.
-[^233]: A rendelet 26. §-ának (4) bekezdését a 13/1999. (II. 1.) Korm. rendelet hatályon kívül helyezte.
-[^234]: Az R. 26. §-ának (5) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 49. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^235]: Az R. 26. §-ának (6) bekezdését a 9/2004. (I. 31.) Korm. rendelet 32. § (1) bekezdése hatályon kívül helyezte.
+[^231]: Az R. 26. § (3) bekezdését a 256/2023. (VI. 26.) Korm. rendelet 7. § b) pontja hatályon kívül helyezte.
+[^232]: A rendelet 26. §-ának (4) bekezdését a 13/1999. (II. 1.) Korm. rendelet hatályon kívül helyezte.
+[^233]: Az R. 26. §-ának (5) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 49. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^234]: Az R. 26. §-ának (6) bekezdését a 9/2004. (I. 31.) Korm. rendelet 32. § (1) bekezdése hatályon kívül helyezte.
