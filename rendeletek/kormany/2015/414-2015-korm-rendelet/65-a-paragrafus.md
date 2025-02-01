@@ -1,3 +1,3 @@
-65/A. §[^223] Az elektronikus ügyintézési pont az ott benyújtott állandó személyazonosító igazolvány vagy útlevél kiadása iránti kérelem, illetve elektronikuskártya-kibocsátási keretrendszer (a továbbiakban: NEK) kártyafelhasználói regisztráció nyomán felvételezett arcképmást és aláírást a személyiadat- és lakcímnyilvántartásnak küldi meg az állandó személyazonosító igazolvány vagy útlevél, illetve NEK kártya kiállítása céljából.
+65/A. §[^224] Az elektronikus ügyintézési pont az ott benyújtott elektronikuskártya-kibocsátási keretrendszer (a továbbiakban: NEK) kártyafelhasználói regisztráció nyomán felvételezett arcképmást és aláírást a személyiadat- és lakcímnyilvántartásnak küldi meg a NEK kártya kiállítása céljából.
 
-[^223]: A 65/A. §-t a 717/2021. (XII. 20.) Korm. rendelet 16. § (13) bekezdése iktatta be, szövege a 310/2023. (VII. 14.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^224]: A 65/A. §-t a 717/2021. (XII. 20.) Korm. rendelet 16. § (13) bekezdése iktatta be, szövege a 478/2024. (XII. 31.) Korm. rendelet 30. §-ával megállapított szöveg.

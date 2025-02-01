@@ -10,7 +10,10 @@
 
 (5)[^156] Az eljáró hatóság – a külképviselet kivételével – a személyazonosító igazolvány elvesztéséről, eltulajdonításáról, megsemmisüléséről, megrongálódásáról, illetve megtalálásáról szóló bejelentésről felvett jegyzőkönyvet a felvételétől számított 5 évig őrzi, ezt követően azokat az iratkezelésre irányadó jogszabályok szerint selejtezi.
 
+(6)[^157] Az eljáró hatóság a személyazonosító igazolvány kiállításáért, pótlásáért, valamint belföldön postai úton, könyvelt küldeményként történő kézbesítéséért fizetendő igazgatási szolgáltatási díj megfizetését tanúsító iratot a megfizetéstől számított 5 évig őrzi, ezt követően azt az iratkezelésre irányadó jogszabályok szerint selejtezi.
+
 [^153]: A 45. § a 379/2016. (XII. 2.) Korm. rendelet 311. § (28) bekezdés 1. és 17. pontja, a (29) bekezdés d) pontja, a 181/2019. (VII. 26.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
 [^154]: A 46. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 555. § c) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
 [^155]: A 46. § (4) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 311. § (23) bekezdése iktatta be.
 [^156]: A 46. § (5) bekezdését a 6/2020. (I. 31.) Korm. rendelet 12. § (12) bekezdése iktatta be.
+[^157]: A 46. § (6) bekezdését a 478/2024. (XII. 31.) Korm. rendelet 29. §-a iktatta be.

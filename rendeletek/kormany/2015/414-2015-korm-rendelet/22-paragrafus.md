@@ -8,7 +8,7 @@ c)[^79] a személyazonosítást jogszabályban meghatározott automatizált arck
 
 (2)[^80] Ha az automatizált arcképmás összehasonlítás és az automatizált ujjnyomat összevetés nem lehetséges vagy eredménytelen, az eljáró hatóság az (1) bekezdés a) és b) pontja szerint végzi el a személyazonosság ellenőrzését.
 
-(2a)[^81] Az elektronikus ügyintézési ponton előterjesztett kérelem alapján kiállított állandó személyazonosító igazolvány személyes átadására eredményes automatizált ujjnyomat összevetést követően kerül sor.
+(2a)[^81]
 
 (3) A személyazonosító igazolványt a személyiadat- és lakcímnyilvántartásból átvett személyi adatokkal kell kiállítani.
 
@@ -19,6 +19,6 @@ c)[^79] a személyazonosítást jogszabályban meghatározott automatizált arck
 [^78]: A 22. § (1) bekezdése a 28/2020. (II. 28.) Korm. rendelet 18. §-ával megállapított szöveg.
 [^79]: A 22. § (1) bekezdés c) pontja a 28/2020. (II. 28.) Korm. rendelet 23. § c) pontja szerint módosított szöveg.
 [^80]: A 22. § (2) bekezdése a 28/2020. (II. 28.) Korm. rendelet 18. §-ával megállapított, a 23. § d) pontja szerint módosított szöveg.
-[^81]: A 22. § (2a) bekezdését a 717/2021. (XII.20.) Korm. rendelet 16. § (7) bekezdése iktatta be.
+[^81]: A 22. § (2a) bekezdését a 717/2021. (XII.20.) Korm. rendelet 16. § (7) bekezdése iktatta be, a 478/2024. (XII. 31.) Korm. rendelet 33. § i) pontja hatályon kívül helyezte.
 [^82]: A 22. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 311. § (14) bekezdésével megállapított, a 28/2020. (II. 28.) Korm. rendelet 23. § e) pontja szerint módosított szöveg.
 [^83]: A 22. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 311. § (15) bekezdésével megállapított szöveg.

@@ -34,7 +34,7 @@ o)[^11] törvényben meghatározottak szerint adatszolgáltatást teljesít a sz
 
 (2) A kormányablak az e rendeletben meghatározott eljárásokkal összefüggő hatásköreit a kormányablakokról szóló kormányrendeletben meghatározottak szerint gyakorolja. Ezen eljárások tekintetében a kormányablak eljárására a járási hivatalra megállapított eljárási szabályok megfelelően irányadók.
 
-(3)[^12] Ha az ügy az elektronikus ügyintézési ponton elérhető, az ügyfél választja ki, hogy mely járási hivatal gyakorolja az (1) bekezdésben meghatározott hatásköreit az elektronikus ügyintézési ponton benyújtott kérelem alapján indult eljárásban.
+(3)[^12]
 
 [^4]: A 2/A. §-t a 379/2016. (XII. 2.) Korm. rendelet 311. § (2) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 148. § (3) bekezdés b) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^5]: A 3. § (1) bekezdés c) pontja a 379/2016. (XII. 2.) Korm. rendelet 311. § (28) bekezdés 1. pontja szerint módosított szöveg.
@@ -44,4 +44,4 @@ o)[^11] törvényben meghatározottak szerint adatszolgáltatást teljesít a sz
 [^9]: A 3. § (1) bekezdés m) pontját a 176/2019. (VII. 18.) Korm. rendelet 9. § (1) bekezdése iktatta be.
 [^10]: A 3. § (1) bekezdés n) pontját a 176/2019. (VII. 18.) Korm. rendelet 9. § (2) bekezdése iktatta be.
 [^11]: A 3. § (1) bekezdés o) pontját újonnan a 256/2023. (VI. 26.) Korm. rendelet 11. §-a iktatta be.
-[^12]: A 3. § (3) bekezdését a 717/2021. (XII. 20.) Korm. rendelet 16. § (1) bekezdése iktatta be.
+[^12]: A 3. § (3) bekezdését a 717/2021. (XII. 20.) Korm. rendelet 16. § (1) bekezdése iktatta be, a 478/2024. (XII. 31.) Korm. rendelet 33. § a) pontja hatályon kívül helyezte.

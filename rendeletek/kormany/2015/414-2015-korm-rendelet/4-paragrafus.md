@@ -1,5 +1,3 @@
-## 3/D. §[^23] Ha az ügy az elektronikus ügyintézési ponton elérhető, az ügyfél választása szerint a kijelölt kormányhivatal a 3/A. §-ban meghatározott hatásköreit az elektronikus ügyintézési ponton benyújtott kérelem alapján indult eljárásban is gyakorolja.
-
 ## 4. §[^24] A nyilvántartást kezelő szerv
 
 a) dönt a személyazonosító igazolvány kiadásáról, kiadásának megtagadásáról, ha a polgár nem rendelkezik személyazonosság igazolására alkalmas más érvényes hatósági igazolvánnyal, valamint ha első alkalommal igényel tároló elemmel rendelkező személyazonosító igazolványt, a nála előterjesztett kérelem esetén,
@@ -42,18 +40,17 @@ s)[^27] a nála előterjesztett kérelem esetén végzi az állandó személyazo
 
 t)[^28] a nála előterjesztett kérelem esetén végzi az állandó személyazonosító igazolvány tároló elemén a polgár lakcímének és személyi azonosítójának rögzítését,
 
-u)[^29] dönt az Nytv. 29. § (16a) bekezdésében meghatározott, az állandó személyazonosító igazolvány – ideértve az elektronikus ügyintézési ponton előterjesztett kérelem esetét is – kiadásáról, kiadásának megtagadásáról,
+u)[^29] dönt az Nytv. 29. § (16a) bekezdésében meghatározott, az állandó személyazonosító igazolvány kiadásáról, kiadásának megtagadásáról,
 
 v)[^30] hivatalból kiadja a személyazonosító igazolványt a 31/A. § (1) bekezdése szerinti esetben,
 
-w)[^31] hivatalból kiadja a személyazonosító igazolványt a 31/B. § (1) bekezdése szerinti esetben.
+w)[^31]
 
-[^23]: A 3/D. §-t a 717/2021. (XII. 20.) Korm. rendelet 16. § (2) bekezdése iktatta be.
 [^24]: A 4. § a 379/2016. (XII. 2.) Korm. rendelet 311. § (8) bekezdésével megállapított szöveg.
 [^25]: A 4. § d) pontja a 457/2017. (XII. 28.) Korm. rendelet 555. § a) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
 [^26]: A 4. § g) pontja a 181/2019. (VII. 26.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
 [^27]: A 4. § s) pontját a 176/2019. (VII. 18.) Korm. rendelet 9. § (5) bekezdése iktatta be.
 [^28]: A 4. § t) pontját a 176/2019. (VII. 18.) Korm. rendelet 9. § (6) bekezdése iktatta be.
-[^29]: A 4. § u) pontját a 6/2020. (I. 31.) Korm. rendelet 12. § (2) bekezdése iktatta be, szövege a 717./2021. (XII. 20.) Korm. rendelet 16. § (3) bekezdésével megállapított szöveg.
+[^29]: A 4. § u) pontját a 6/2020. (I. 31.) Korm. rendelet 12. § (2) bekezdése iktatta be, szövege a 717./2021. (XII. 20.) Korm. rendelet 16. § (3) bekezdésével megállapított, a 478/2024. (XII. 31.) Korm. rendelet 33. § c) pontja szerint módosított szöveg.
 [^30]: A 4. § v) pontját az 572/2020. (XII. 9.) Korm. rendelet 65. §-a iktatta be.
-[^31]: A 4. § w) pontját az 572/2020. (XII. 9.) Korm. rendelet 65. §-a iktatta be.
+[^31]: A 4. § w) pontját az 572/2020. (XII. 9.) Korm. rendelet 65. §-a iktatta be, a 478/2024. (XII. 31.) Korm. rendelet 33. § d) pontja hatályon kívül helyezte.

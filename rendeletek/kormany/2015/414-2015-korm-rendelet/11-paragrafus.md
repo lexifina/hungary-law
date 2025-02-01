@@ -14,9 +14,9 @@ d)[^44] – magyar állampolgárságú kérelmező esetén – a konzuli tisztvi
 
 (2)[^45] Az (1) bekezdés szerinti kérelmet az 1. mellékletében foglalt adattartalommal az eljáró hatóság állítja elő.
 
-(3)[^46] Ha az (1) bekezdés szerinti kérelem benyújtására elektronikus ügyintézési ponton kerül sor, a kérelem az 1. melléklet 8., 14., 16., 20., 21. és 23. pontjában foglalt adatokat, valamint a nevet nemzetiségi nyelven nem tartalmazza.
+(3)[^46]
 
-(3a)[^47] A (3) bekezdés szerinti kérelem az 1. melléklet 22. pontjában foglalt adatot az állandó személyazonosító igazolvány kiállítását követően tartalmazza.
+(3a)[^47]
 
 (4)[^48]
 
@@ -24,6 +24,6 @@ d)[^44] – magyar állampolgárságú kérelmező esetén – a konzuli tisztvi
 [^43]: A 11. § (1) bekezdés c) pontja a 6/2020. (I. 31.) Korm. rendelet 12. § (4) bekezdésével megállapított szöveg.
 [^44]: A 11. § (1) bekezdés d) pontját a 379/2016. (XII. 2.) Korm. rendelet 311. § (11) bekezdése iktatta be.
 [^45]: A 11. § (2) bekezdése az 572/2020. (XII. 9.) Korm. rendelet 68. §-ával megállapított szöveg.
-[^46]: A 11. § (3) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 83. § a) pontja hatályon kívül helyezte, újonnan a 717/2021. (XII. 20.) Korm. rendelet 16. § (4) bekezdése iktatta be.
-[^47]: A 11. § (3a) bekezdését a 717/2021. (XII. 20.) Korm. rendelet 16. § (4) bekezdése iktatta be.
+[^46]: A 11. § (3) bekezdését újonnan a 717/2021. (XII. 20.) Korm. rendelet 16. § (4) bekezdése iktatta be, a 478/2024. (XII. 31.) Korm. rendelet 33. § f) pontja hatályon kívül helyezte.
+[^47]: A 11. § (3a) bekezdését a 717/2021. (XII. 20.) Korm. rendelet 16. § (4) bekezdése iktatta be, a 478/2024. (XII. 31.) Korm. rendelet 33. § f) pontja hatályon kívül helyezte.
 [^48]: A 11. § (4) bekezdését a 256/2023. (VI. 26.) Korm. rendelet 13. § c) pontja hatályon kívül helyezte.

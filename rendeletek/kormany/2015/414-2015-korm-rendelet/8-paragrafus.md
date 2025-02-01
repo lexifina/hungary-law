@@ -6,7 +6,7 @@
 
 (3) Az állandó személyazonosító igazolvány kiadásáig az ideiglenes személyazonosító igazolvány ismételten kiadható.
 
-(4)[^40] A közreműködő hatóság és a konzuli tisztviselő előtt, az elektronikus ügyintézési ponton benyújtott kérelem alapján indult, valamint a 31/A. §, a 31/B. § és az Nytv. 29. § (16a) bekezdése szerinti állandó személyazonosító igazolvány kiadása iránti eljárásban ideiglenes személyazonosító igazolvány nem állítható ki.
+(4)[^40] A közreműködő hatóság és a konzuli tisztviselő előtt benyújtott kérelem alapján indult, valamint a 31/A. § és az Nytv. 29. § (16a) bekezdése szerinti állandó személyazonosító igazolvány kiadása iránti eljárásban ideiglenes személyazonosító igazolvány nem állítható ki.
 
 [^39]: A 8. § a 379/2016. (XII. 2.) Korm. rendelet 311. § (9) bekezdésével megállapított szöveg.
-[^40]: A 8. § (4) bekezdése az 572/2020. (XII. 9.) Korm. rendelet 66. §-ával megállapított szöveg.
+[^40]: A 8. § (4) bekezdése az 572/2020. (XII. 9.) Korm. rendelet 66. §-ával megállapított, a 478/2024. (XII. 31.) Korm. rendelet 33. § e) pontja szerint módosított szöveg.
