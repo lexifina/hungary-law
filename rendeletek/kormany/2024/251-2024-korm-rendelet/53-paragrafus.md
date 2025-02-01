@@ -1,3 +1,3 @@
-53. §[^53]
+53. § A 326/2011. (XII. 28.) Korm. rendelet 121. §-a a következő i) ponttal egészül ki:
 
-[^53]: Az 53. § a 84. § (2) bekezdése alapján 2025. február 1-jén lép hatályba.
+(Ez a rendelet a következő európai uniós jogi aktusoknak való megfelelést szolgálja:)

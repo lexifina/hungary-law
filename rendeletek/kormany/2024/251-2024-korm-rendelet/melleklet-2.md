@@ -1,3 +1,3 @@
-2. melléklet a 251/2024. (VIII. 22.) Korm. rendelethez[^85]
+2. melléklet a 251/2024. (VIII. 22.) Korm. rendelethez[^81]
 
-[^85]: A 2. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^81]: A 2. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
