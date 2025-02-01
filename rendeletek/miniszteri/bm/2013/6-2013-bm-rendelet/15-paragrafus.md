@@ -1,12 +1,12 @@
 ## 15. § Az elhunyt
 
-a)[^32] hősi halottá, illetve a szolgálat halottjává minősítésére a rendvédelmi feladatokat ellátó szerv vezetőjének javaslatára a belügyminiszter,
+a)[^36] hősi halottá, illetve a szolgálat halottjává minősítésére a rendvédelmi feladatokat ellátó szerv vezetőjének javaslatára a belügyminiszter,
 
-b)[^33] rendvédelmi feladatokat ellátó szerv halottjává minősítésére a belügyminiszter munkáltatói jogkörébe tartozó személy vonatkozásában a belügyminiszter, egyéb esetben az országos parancsnok, valamint
+b)[^37] rendvédelmi feladatokat ellátó szerv halottjává minősítésére a belügyminiszter munkáltatói jogkörébe tartozó személy vonatkozásában a belügyminiszter, egyéb esetben az országos parancsnok, valamint
 
 c) központi vagy területi jogállású szerv halottjává minősítésére a központi vagy területi jogállású szerv vezetője
 
 jogosult.
 
-[^32]: A 15. § a) pontja a 37/2015. (VI. 16.) BM rendelet 70. § a) pontja szerint módosított szöveg.
-[^33]: A 15. § b) pontja a 37/2015. (VI. 16.) BM rendelet 70. § a) pontja szerint módosított szöveg.
+[^36]: A 15. § a) pontja a 37/2015. (VI. 16.) BM rendelet 70. § a) pontja szerint módosított szöveg.
+[^37]: A 15. § b) pontja a 37/2015. (VI. 16.) BM rendelet 70. § a) pontja szerint módosított szöveg.

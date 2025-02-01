@@ -32,7 +32,7 @@ cb)[^8] a rendvédelmi feladatokat ellátó szervvel rendvédelmi igazgatási sz
 
 cc)[^9] a rá vonatkozó mértékben a nyugállományba helyezett személy, illetve a rendvédelmi egészségkárosodási ellátásra jogosult személy, valamint
 
-cd)[^10] a rá vonatkozó mértékben a személyi állomány tagjainak a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvényben (a továbbiakban: Hszt.) meghatározott közeli hozzátartozója (a továbbiakban: közeli hozzátartozó),
+cd)[^10] a rá vonatkozó mértékben a személyi állomány tagjainak vagy volt tagjainak rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvényben (a továbbiakban: Hszt.) meghatározott közeli hozzátartozója (a továbbiakban: közeli hozzátartozó),
 
 feltéve minden esetben, hogy rendelkezik az e rendeletben meghatározott támogatás jogosultsági feltételeivel;
 
@@ -59,7 +59,7 @@ h)[^16] központi gondozott: a hősi halottá vagy a szolgálat halottjává, va
 [^7]: Az 1. § c) pont ca) alpontja a 37/2015. (VI. 16.) BM rendelet 70. § a) pontja szerint módosított szöveg.
 [^8]: Az 1. § c) pont cb) alpontja a 37/2015. (VI. 16.) BM rendelet 70. § a) pontja, a 6/2019. (III. 11.) BM rendelet 5. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^9]: Az 1. § c) pont cc) alpontja a 20/2021. (VII. 14.) BM rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^10]: Az 1. § c) pont cd) alpontja a 37/2015. (VI. 16.) BM rendelet 70. § b) pontja szerint módosított szöveg.
+[^10]: Az 1. § c) pont cd) alpontja a 37/2015. (VI. 16.) BM rendelet 70. § b) pontja, a 62/2024. (XII. 30.) BM rendelet 20. § a) pontja szerint módosított szöveg.
 [^11]: Az 1. § d) pontja a 20/2021. (VII. 14.) BM rendelet 12. § (2) bekezdésével megállapított szöveg.
 [^12]: Az 1. § e) pontja a 37/2015. (VI. 16.) BM rendelet 70. § a) pontja szerint módosított szöveg.
 [^13]: Az 1. § f) pont fa) alpontja a 37/2015. (VI. 16.) BM rendelet 70. § a) pontja szerint módosított szöveg.
