@@ -10,8 +10,8 @@ b) a települési önkormányzat a tárgyévet megelőző év decemberében nem 
 
 (3) A helyi önkormányzatok általános működésének és ágazati feladatainak ellátásához járó támogatás jogosulatlan igénybevételéhez kapcsolódó kamatfizetési kötelezettség kiszámítása szempontjából a 2. melléklet 1.1.2. Nem közművel összegyűjtött háztartási szennyvíz ártalmatlanítása jogcím, 1.2. A települési önkormányzatok egyes köznevelési feladatainak támogatása jogcím, 1.3.2. Egyes szociális és gyermekjóléti feladatok támogatása jogcím, 1.3.3. Bölcsőde, mini bölcsőde támogatása jogcím, 1.3.4. A települési önkormányzatok által biztosított egyes szociális szakosított ellátások, valamint a gyermekek átmeneti gondozásával kapcsolatos feladatok támogatása jogcím, és az 1.4. A települési önkormányzatok gyermekétkeztetési feladatainak támogatása jogcím szerinti támogatások együttes összegét kell figyelembe venni.
 
-(4)
+(4) Az önkormányzat a 2. melléklet 62. pontja szerinti önkormányzati szolidaritási hozzájárulás fizetési kötelezettségének beszámítása a települési önkormányzat számára folyósítandó támogatás havi összegéből a nettó finanszírozás keretében történik. Ennek összegét a IX. Helyi önkormányzatok támogatásai fejezet, 4. Önkormányzati szolidaritási hozzájárulás címen kell elszámolni.
 
-(5)
+(5) Az önkormányzat a helyi iparűzési adóbevétel többlete alapján törvényben meghatározott fizetési kötelezettségének beszámítása a települési önkormányzat számára folyósítandó támogatás összegéből a nettó finanszírozás keretében történik. Ennek összegét a XXV. Közigazgatási és Területfejlesztési Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 8. Területfejlesztési Alap alcímen kell elszámolni.
 
-(6)
+(6) Ha a települési önkormányzatot az (1) bekezdés alapján a nettó finanszírozás keretében megillető adott havi források a (4) és (5) bekezdés szerint levonandó összegekre nem nyújtanak fedezetet, a Kincstár az Áht. 83. § (3) bekezdése alapján havonta beszedési megbízást nyújt be a települési önkormányzattal szemben. Ha a települési önkormányzatnak 2025. december 16-án bármilyen elmaradása van a (4) és (5) bekezdés szerinti befizetési kötelezettsége tekintetében, a Kincstár a meg nem fizetett összegre a kötelezett fizetési számlájára beszedési megbízást nyújt be.
