@@ -2,9 +2,9 @@
 
 18. § (1) A végrehajtót az eljárása kezdetén ügyenként megilleti
 
-a) pénzkövetelés behajtása esetén – kivéve a b) pontban foglalt eljárásokat – a pénzfizetésre irányuló végrehajtási eljárásban a munkadíj 50%-a és a költségátalány 50%-a, de összesen legalább 9000 forint, amely az eljárás kezdetén felszámítható 8000 forint összegű ügyviteli és iratkezelési díjjal együtt nem haladhatja meg a 85 000 forintot;
+a)[^7] pénzkövetelés behajtása esetén – kivéve a b) pontban foglalt eljárásokat – a pénzfizetésre irányuló végrehajtási eljárásban a munkadíj 50%-a és a költségátalány 35%-a, de összesen legalább 9000 forint, amely az eljárás kezdetén felszámítható 8000 forint összegű ügyviteli és iratkezelési díjjal együtt nem haladhatja meg a 85 000 forintot;
 
-b) tartásdíj, munkabér és kártérítési összeg behajtására irányuló eljárásban a pénzfizetésre irányuló végrehajtási eljárásban a munkadíj 50%-a és a költségátalány 50%-a, de összesen legalább 9000 forint, amely az eljárás kezdetén felszámítható 8000 forint összegű ügyviteli és iratkezelési díjjal együtt nem haladhatja meg a 70 000 forintot;
+b)[^8] tartásdíj, munkabér és kártérítési összeg behajtására irányuló eljárásban a pénzfizetésre irányuló végrehajtási eljárásban a munkadíj 50%-a és a költségátalány 35%-a, de összesen legalább 9000 forint, amely az eljárás kezdetén felszámítható 8000 forint összegű ügyviteli és iratkezelési díjjal együtt nem haladhatja meg a 70 000 forintot;
 
 c) meghatározott cselekmény végrehajtása esetén 18 000 forint, a Vht. 184/A. § (3) bekezdésében foglalt ideiglenes intézkedés esetén az eljárás várható idejének megfelelő munkadíj és költségátalány összege, amely nem haladhatja meg a 40 000 forintot.
 
@@ -16,6 +16,10 @@ c) meghatározott cselekmény végrehajtása esetén 18 000 forint, a Vht. 184/A
 
 (5) Az eljárás kezdetén megfizetett (1) bekezdés szerinti költséget és díjat a munkadíj, a költségátalány, illetve az ügyviteli és iratkezelési díj összegébe be kell számítani.
 
-(6) Ha a Vht. 52. § d) pontja alapján szünetelő végrehajtási eljárást a szünetelését követően a végrehajtást kérő kérelmére folytatni kell, a végrehajtót a 6. § szerinti költségátalány 50%-a, de legfeljebb 35 000 forint ismételten megilleti.
+(6)[^9] Ha a Vht. 52. § d) pontja alapján szünetelő végrehajtási eljárást a szünetelését követően a végrehajtást kérő kérelmére folytatni kell, a végrehajtót a 6. § szerinti költségátalány 35%-a, de legfeljebb 35 000 forint, valamint a 11. § (3a) bekezdése szerinti készkiadás ismételten megilleti.
 
 (7) Ha a zálogtárgy egyszerűsített végrehajtási értékesítése esetén az eljárás kezdetén a zálogtárgy kikiáltási ára még nem állapítható meg, az eljárás kezdetén a munkadíj fejében megfizetendő költség 25 000 forint.
+
+[^7]: A 18. § (1) bekezdés a) pontja a 18/2024. (XII. 30.) SZTFH rendelet 4. § a) pontja szerint módosított szöveg.
+[^8]: A 18. § (1) bekezdés b) pontja a 18/2024. (XII. 30.) SZTFH rendelet 4. § b) pontja szerint módosított szöveg.
+[^9]: A 18. § (6) bekezdése a 18/2024. (XII. 30.) SZTFH rendelet 4. § c) pontja szerint módosított szöveg.

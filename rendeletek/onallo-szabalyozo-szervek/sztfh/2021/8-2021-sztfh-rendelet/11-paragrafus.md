@@ -14,9 +14,11 @@ e) a végrehajtási eljárás során, a végrehajtás foganatosításával felme
 
 (2) Az (1) bekezdés szerinti készkiadásokat a végrehajtó akkor számíthatja fel, ha azok az adott végrehajtási üggyel kapcsolatban indokoltan és igazoltan merültek fel.
 
-(3) A végrehajtó – az irattárazási költségek, az informatikai alkalmazások költségei, valamint a digitalizálási és archiválási feladatokkal összefüggő költségeinek fedezetére – az (1) bekezdésben meghatározott költségeken felül készkiadásként számíthatja fel a (4) és (5) bekezdésben foglalt eltérésekkel az ügyviteli és iratkezelési díjat, amelynek összege ügyenként 8000 forint.
+(3)[^4] A végrehajtó – az irattárazási költségek, az informatikai alkalmazások költségei, valamint a digitalizálási és archiválási feladatokkal összefüggő költségeinek fedezetére – az (1) bekezdésben meghatározott költségeken felül készkiadásként számíthatja fel az (5) bekezdésben foglalt eltérésekkel az ügyviteli és iratkezelési díjat, amelynek összege a (3a) bekezdésben foglalt eltéréssel ügyenként 8000 forint.
 
-(4) A végrehajtó az egyetemlegesen felelős adósok ellen egyidejűleg kért, ugyanazon végrehajtó által foganatosított végrehajtási ügyekben a (3) bekezdés szerinti készkiadást egyszer számíthatja fel.
+(3a)[^5] Ha a végrehajtó a Vht. 52. § d) pontja alapján szünetelő végrehajtási eljárást a szünetelést követően folytatja, a (3) bekezdés szerinti készkiadást ismételten felszámíthatja.
+
+(4)[^6]
 
 (5) A végrehajtó a (3) bekezdés szerinti készkiadást nem számíthatja fel
 
@@ -33,3 +35,7 @@ e) a gyermek tartására vonatkozó díj behajtása iránti végrehajtási ügyb
 f) a tartásra kötelezett adatainak beszerzésére irányuló ügyben.
 
 (6) Az (1) bekezdés szerinti készkiadások összegébe be kell számítani a 21. § (1) bekezdése szerint megfizetett készkiadás költségét.
+
+[^4]: A 11. § (3) bekezdése a 18/2024. (XII. 30.) SZTFH rendelet 3. §-ával megállapított szöveg.
+[^5]: A 11. § (3a) bekezdését a 18/2024. (XII. 30.) SZTFH rendelet 3. §-a iktatta be.
+[^6]: A 11. § (4) bekezdését a 18/2024. (XII. 30.) SZTFH rendelet 5. §-a hatályon kívül helyezte.

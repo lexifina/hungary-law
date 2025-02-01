@@ -8,7 +8,7 @@ a) hivatali helyiségén kívül, de a székhelyén foganatosított eljárásér
 
 b) székhelyén kívül foganatosított eljárásért minden megkezdett óráért 9000 forint munkadíj és 4500 forint költségátalány, továbbá helyszíni eljárási cselekményenként 3500 forint utazási költségátalány
 
-## illeti meg.
+illeti meg.
 
 (2) Ha a végrehajtási ügyben a Vht. 33. §-a alapján megkeresett végrehajtó jár el, akkor végrehajtási költségként kizárólag az (1) bekezdésben meghatározott költségek, valamint az eljárásával kapcsolatban felmerült készkiadások számíthatóak fel.
 

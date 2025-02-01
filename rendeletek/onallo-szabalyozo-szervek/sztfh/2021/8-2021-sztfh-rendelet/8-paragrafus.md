@@ -30,10 +30,13 @@ e) 10 000 000 forint feletti ügyérték esetén 166 000 forint
 
 (7) A végrehajtási kérelem Vht. 12/A. §-a szerinti elkészítéséért és a bírósághoz való továbbításáért járó munkadíj összege a végrehajtandó követelés járulékok nélkül számított összegének 1%-a, de legalább 2000 forint és legfeljebb 80 000 forint.
 
-(8) Munkadíjként az (1) bekezdésben foglalt összeg 50%-a illeti meg a végrehajtót
+(8)[^2] Munkadíjként az (1) bekezdésben foglalt összeg 50%-a illeti meg a végrehajtót – a zálogtárgy egyszerűsített végrehajtási értékesítésére irányuló ügyek kivételével – a kizárólag zálogjog érvényesítésére irányuló végrehajtási ügyben.
 
-a) a kizárólag zálogjog érvényesítésére irányuló végrehajtási ügyben – kivéve a zálogtárgy egyszerűsített végrehajtási értékesítésére irányuló ügyeket –,
+(9)[^3] Munkadíjként az (1) bekezdésben foglalt összeg 75%-a illeti meg a végrehajtót
 
-b) az egyetemlegesen kötelezett adósok ellen egyidejűleg kért, ugyanazon végrehajtó által foganatosított végrehajtási ügyekben, valamint
+a) az egyetemlegesen kötelezett adósok ellen egyidejűleg kért, ugyanazon végrehajtó által foganatosított végrehajtási ügyekben, valamint
 
-c) az egyetemlegesen felelős adóstárs, zálogkötelezett és kezes elleni, a Vht. 32. § (3) bekezdése alapján foganatosított végrehajtási ügyben.
+b) az egyetemlegesen felelős adóstárs, zálogkötelezett és kezes elleni, a Vht. 32. § (3) bekezdése alapján foganatosított végrehajtási ügyben.
+
+[^2]: A 8. § (8) bekezdése a 18/2024. (XII. 30.) SZTFH rendelet 2. §-ával megállapított szöveg.
+[^3]: A 8. § (9) bekezdését a 18/2024. (XII. 30.) SZTFH rendelet 2. §-a iktatta be.
