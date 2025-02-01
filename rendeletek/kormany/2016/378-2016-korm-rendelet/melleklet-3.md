@@ -106,15 +106,15 @@
 
 | 20. | Dörgicse | 0266/2 |
 
-| 21. | Edelény | 16/2 |
+| 21. |  |  |
 
-| 22. | Edelény | 45/2 |
+| 22. |  |  |
 
-| 23. | Edelény | 45/3 |
+| 23. |  |  |
 
-| 24. | Edelény | 48 |
+| 24. |  |  |
 
-| 25. | Edelény | 51 |
+| 25. |  |  |
 
 | 26. | Fáj | 14/1 |
 
@@ -194,7 +194,7 @@
 
 | 64. | Szany | 1162/1 |
 
-| 65. | Tata | 3147 |
+| 65. |  |  |
 
 | 66. | Tuzsér | 885 |
 
@@ -222,4 +222,4 @@
 
 | 78. | Zsira | 563/2 |
 
-[^38]: A 3. mellékletet a 250/2018. (XII. 17.) Korm. rendelet 3. §-a iktatta be, szövege a 411/2021. (VII. 12.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^38]: A 3. mellékletet a 250/2018. (XII. 17.) Korm. rendelet 3. §-a iktatta be, szövege a 411/2021. (VII. 12.) Korm. rendelet 4. §-a, a 424/2024. (XII. 23.) Korm. rendelet 3. §-a szerint módosított szöveg.
