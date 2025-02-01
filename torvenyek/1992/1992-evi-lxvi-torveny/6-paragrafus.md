@@ -6,7 +6,7 @@
 
 (2) Az állampolgársági ügyekben eljáró szerv, a hivatásos konzuli tisztviselő (a továbbiakban: konzuli tisztviselő), közreműködik a nyilvántartás hatálya alá tartozó személyek adatainak, adatváltozásainak nyilvántartásba vételében.
 
-(2a) Az anyakönyvvezető közreműködik a nyilvántartás hatálya alá tartozó személyek adatainak, adatváltozásainak nyilvántartásba vételében, valamint a 7. § (3) és (4) bekezdésében meghatározott személyek állandó személyazonosító igazolványának kiadásában.
+(2a) Az anyakönyvvezető közreműködik a nyilvántartás hatálya alá tartozó személyek adatainak, adatváltozásainak nyilvántartásba vételében, valamint a 7. § (3) bekezdésében meghatározott személyek állandó személyazonosító igazolványának kiadásában.
 
 (3) Az állampolgársági ügyekben eljáró szerv ellátja a 4. § (2a) bekezdés d) és e) pontja szerinti külföldön élő magyar állampolgárok, valamint a Magyarország területén élő, a 4. § (2c) bekezdése szerinti magyar állampolgárok nyilvántartásba vételével kapcsolatos feladatokat.
 

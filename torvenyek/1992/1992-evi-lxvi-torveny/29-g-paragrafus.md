@@ -10,7 +10,7 @@ b) az a) pontban megjelölt bűncselekmények elkövetése miatt a polgár végr
 
 miatt a külföldre utazásról szóló törvényben meghatározott okból külföldre utazás korlátozása hatálya alatt áll, ezen korlátozás ideje alatt átmenetileg érvénytelen azon személyazonosító igazolványa, amely a külföldre utazás korlátozására utaló jelzést nem tartalmazza. Nem kell ilyen igazolvánnyal ellátni a polgárt, ha a szabadságvesztés végrehajtásából három hónapnál kevesebb idő van hátra.
 
-(2) Az (1) bekezdésben megjelölt polgárt a külföldre utazási korlátozás ideje alatt olyan személyazonosító igazolvánnyal kell ellátni, amely tartalmazza e korlátozásra utaló jelzést. Ezen igazolvány érvényességi ideje legfeljebb a külföldre utazási korlátozás idejéig tart.
+(2) Az (1) bekezdésben megjelölt polgárt kérelmére a külföldre utazási korlátozás ideje alatt olyan személyazonosító igazolvánnyal kell ellátni, amely tartalmazza e korlátozásra utaló jelzést. Ezen igazolvány érvényességi ideje legfeljebb a külföldre utazási korlátozás idejéig tart.
 
 (3) Ha az abban foglalt érvényességi ideje még nem telt el, a polgár (1) bekezdés szerinti személyazonosító igazolványa ismét érvényes, ha az (1) bekezdésben foglalt feltétel már nem áll fent.
 

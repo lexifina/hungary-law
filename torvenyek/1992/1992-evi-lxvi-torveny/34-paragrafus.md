@@ -14,7 +14,7 @@
 
 (5) Törvényes képviselő a cselekvőképtelen kiskorú kérelmező személyazonosító igazolványa kiadásához szükséges hozzájáruló nyilatkozatot elektronikus azonosítást követően, elektronikus kapcsolattartás útján is tehet.
 
-(6) A polgár kérelme személyesen, ügyintézői közreműködés nélkül történő benyújtására elektronikus ügyintézési pontot vehet igénybe. A nyilvántartást kezelő szerv ebben az esetben írásban tart kapcsolatot a polgárral.
+(6) A polgár kérelme személyesen, ügyintézői közreműködés nélkül történő benyújtására elektronikus ügyintézési pontot vehet igénybe.
 
 (7) A kérelem benyújtásakor a polgár személyazonosság igazolására alkalmas hatósági igazolványával azonosítja magát.
 
@@ -22,6 +22,6 @@
 
 (9) Az elektronikus azonosítási szolgáltatást végző szerv – a (6) bekezdés szerinti esetben – a polgár személyazonosságának ellenőrzése céljából az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény 12/B. §-ában meghatározott szolgáltatást igénybe veheti.
 
-(9a) Az elektronikus ügyintézési ponton állandó személyazonosító igazolvány kiadása céljából előterjesztett kérelem esetén a (9) bekezdésben meghatározott szolgáltatás igénybevétele során felvételezett arcképmás az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény 12/D. §-a szerinti automatizált arcképmás összehasonlítási, valamint az egységes arcképmás- és aláírás-felvételezési eljárás során is felhasználásra kerül.
+(9a)
 
 (10) A nyilvántartást kezelő szerv a (6) bekezdésben foglaltak tekintetében elektronikus azonosítási szolgáltatást végző szervnek minősül.

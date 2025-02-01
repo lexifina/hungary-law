@@ -14,9 +14,9 @@ f) a törvény hatálya alá tartozó tevékenységével összefüggésben gondo
 
 g) eljár a személyazonosító igazolvánnyal összefüggő hatósági ügyben;
 
-h) ellenőrzi a személyazonosító igazolvány iránti kérelem adatait, intézkedik az okmány kitöltéséről és gondoskodik a polgár részére történő átadásáról;
+h) ellenőrzi a személyazonosító igazolvány iránti kérelem adatait, intézkedik az okmány kitöltéséről és gondoskodik a polgár részére történő átadásáról vagy kézbesítéséről;
 
-i) végzi a személyi azonosítóról és a lakcímről szóló hatósági igazolvány kitöltésével, nyilvántartásával és a polgár részére történő kézbesítésével kapcsolatos feladatokat;
+i) végzi a személyi azonosítóról és a lakcímről szóló hatósági igazolvány kitöltésével, nyilvántartásával és a polgár részére történő átadásával vagy kézbesítésével kapcsolatos feladatokat;
 
 j) ellátja a személyazonosítás céljára szolgáló, illetőleg jogosultságot igazoló okmányok kiadásával kapcsolatosan hatáskörébe utalt, törvényben meghatározott adatkezelési feladatokat;
 
@@ -26,4 +26,4 @@ k) ellátja a 4. § (2a) bekezdés a) pontja szerinti külföldön élő magyar 
 
 (3) Az anyakönyvvezető a nyilvántartást kezelő szerv részére továbbítja az intézetben született, Magyarországon élő magyar állampolgár újszülött részére hivatalból kiadásra kerülő állandó személyazonosító igazolvány kiállításához szükséges adatokat. Nem kerül hivatalból kiállításra az állandó személyazonosító igazolvány titkolt terhesség, a szülőnek a születést megelőzően, vagy azt követően az újszülött örökbefogadásához adott hozzájárulása, valamint az újszülött egészségi állapotára tekintettel az anya hivatalbóli kiállítást megakadályozó nyilatkozata esetén.
 
-(4) Az anyakönyvvezető – ha a házasuló érvényes állandó személyazonosító igazolvánnyal rendelkezik és hivatalbóli kiállítást megakadályozó nyilatkozatot nem tesz – végzi az egységes arcképmás- és aláírás-felvételezést, jogszabályban meghatározott esetben az ujjnyomat-felvételezést, valamint a nyilvántartást kezelő szerv részére továbbítja a Magyarországon házasságot kötött magyar állampolgár hivatalból kiadásra kerülő állandó személyazonosító igazolványa kiállításához szükséges adatokat.
+(4)

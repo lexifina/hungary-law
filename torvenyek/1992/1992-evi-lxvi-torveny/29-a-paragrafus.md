@@ -10,4 +10,4 @@
 
 (6) Az ujjnyomatot az e törvényben foglaltak kivételével adatszolgáltatás során nem lehet átadni és továbbítani.
 
-(7) A nyilvántartást kezelő szerv a magánútlevél kiállítása céljából továbbított ujjnyomatot az útiokmány-nyilvántartás részére történő átadást követően haladéktalanul törli.
+(7)

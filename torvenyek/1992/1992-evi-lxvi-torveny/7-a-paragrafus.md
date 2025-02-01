@@ -2,6 +2,6 @@
 
 a) jogszabályban meghatározott kivételekkel eljár a személyazonosító igazolvánnyal összefüggő hatósági ügyekben;
 
-b) ellenőrzi a személyazonosító igazolvány iránti kérelem adatait és gondoskodik a személyazonosító igazolvány polgár részére történő átadásáról;
+b) ellenőrzi a személyazonosító igazolvány iránti kérelem adatait és gondoskodik a személyazonosító igazolvány polgár részére történő átadásáról vagy kézbesítéséről;
 
 c) ellátja a személyazonosító igazolvány kiadásával kapcsolatosan hatáskörébe utalt, törvényben meghatározott adatkezelési feladatokat.
