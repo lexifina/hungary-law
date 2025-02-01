@@ -1,6 +1,6 @@
 15. melléklet a 326/2011. (XII. 28.) Korm. rendelethez
 
-I.[^651] A járműkísérő lap tartalmi elemei
+I.[^658] A járműkísérő lap tartalmi elemei
 
 H
 
@@ -136,11 +136,11 @@ Műszaki érvényességre vonatkozó adatok
 
 a kiállítás helye, ideje, a kiállító közlekedési igazgatási hatóság megnevezése, bélyegzőlenyomat helye
 
-II.[^652] A járműkísérő lap kitöltésének szabályai
+II.[^659] A járműkísérő lap kitöltésének szabályai
 
 I. Új jármű forgalomba helyezése előtt;
 
-a)[^653] A járműimportőr:
+a)[^660] A járműimportőr:
 
 Az importőrnek – a Központi Okmányügyi Főosztály által nyilvántartott, Járműkísérő lap felvételére és kiadására feljogosított gazdálkodó szervezet – a közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendeletben meghatározott Megfelelőségi nyilatkozattal összhangban a Járműkísérő lap következő adatmezőit kell kitölteni:
 
@@ -156,14 +156,6 @@ ae) P adatmező (ha a járműben beépített motor van): (P.1), (P.2.), (P.3.) M
 
 af) Gyártó megnevezése,
 
-ag)[^654] Forgalmazó megnevezése (a Járműkísérő lapot a Központi Okmányügyi Főosztálytól felelősen átvevő cég megnevezése),
-
-ah) A fenti adatokat kitöltő cégbélyegzője, a kiállításért felelős aláírása, a kiállítás dátuma.
-
-b)[^655] Az értékesítő:
-
-[^651]: A 15. melléklet I. fejezete a 90/2015. (IV. 9.) Korm. rendelet 15. § k) pontja szerint módosított szöveg.
-[^652]: A 15. melléklet II. fejezete a 90/2015. (IV. 9.) Korm. rendelet 14. § (8) bekezdésével megállapított szöveg.
-[^653]: A 15. melléklet II. rész I. pont a) alpontja a 219/2024. (VII. 31.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
-[^654]: A 15. melléklet II. rész I. pont a) alpont ag) pontja a 219/2024. (VII. 31.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.
-[^655]: A 15. melléklet II. cím I. pont b) alpontja a 457/2017. (XII. 28.) Korm. rendelet 368. § t) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^658]: A 15. melléklet I. fejezete a 90/2015. (IV. 9.) Korm. rendelet 15. § k) pontja szerint módosított szöveg.
+[^659]: A 15. melléklet II. fejezete a 90/2015. (IV. 9.) Korm. rendelet 14. § (8) bekezdésével megállapított szöveg.
+[^660]: A 15. melléklet II. rész I. pont a) alpontja a 219/2024. (VII. 31.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.

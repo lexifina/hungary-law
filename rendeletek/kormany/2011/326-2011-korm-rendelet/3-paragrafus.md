@@ -14,7 +14,7 @@ a)[^42] a vezetői engedély igénylésétől az új vezetői engedély kézhezv
 
 aa) a vezetői engedély kiállítására irányuló kérelem adatlap,
 
-ab) az elektronikus ügyintézési ponton keresztül sikeresen benyújtott vezetői engedély pótlás iránti kérelemről az elektronikus ügyintézési pont által kiállított bizonylat;
+ab)[^43]
 
 b) a külföldi hatóság által kiállított érvényes vezetői engedély Magyarország területén történő
 
@@ -32,12 +32,16 @@ cb) elvesztése vagy megsemmisülése esetén a külföldi vagy magyar hatóság
 
 a feljelentés vagy jegyzőkönyv kiállításának napjától számított legfeljebb 30 napig.
 
-(2a)[^43] Magyarország területén járművezetési jogosultság igazolására alkalmas az engedély-nyilvántartásba bejegyzett vezetési jogosultság a vezetői engedély elektronikus úton történő pótlása, első alkalommal történő kiállítása, új kategória Magyarországon történt megszerzése, az egészségi alkalmasság meghosszabbítása vagy házasságkötésből eredő névváltozás miatti vezetői engedély csere esetén, a bejegyzés időpontjától az elkészült vezetői engedély kézhezvételéig, de legfeljebb 30 napig.
+d)[^44] a digitális állampolgárság szolgáltató által digitálisan előállított hitelesített igazolás.
 
-(3)[^44] Magyarország területén történő járművezetéshez az e rendeletben meghatározott, magyar hatóság által kiállított járművezetésre jogosító okmányt a járművezetőnek – a 113. § (1) bekezdés a) pontjában foglaltaktól eltérően – vezetés közben nem szükséges magánál tartania abban az esetben, ha a járművezető az engedély-nyilvántartásba bejegyzett érvényes vezetési jogosultsággal rendelkezik.
+(2a)[^45] Magyarország területén járművezetési jogosultság igazolására alkalmas az engedély-nyilvántartásba bejegyzett vezetési jogosultság a vezetői engedély elektronikus úton történő pótlása, első alkalommal történő kiállítása, új kategória Magyarországon történt megszerzése, az egészségi alkalmasság meghosszabbítása miatti vezetői engedély csere esetén, a bejegyzés időpontjától az elkészült vezetői engedély kézhezvételéig, de legfeljebb 30 napig.
+
+(3)[^46] Magyarország területén történő járművezetéshez az e rendeletben meghatározott, magyar hatóság által kiállított járművezetésre jogosító okmányt a járművezetőnek – a 113. § (1) bekezdés a) pontjában foglaltaktól eltérően – vezetés közben nem szükséges magánál tartania abban az esetben, ha a járművezető az engedély-nyilvántartásba bejegyzett érvényes vezetési jogosultsággal rendelkezik.
 
 [^40]: A 3. § az 544/2013. (XII. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^41]: A 3. § (2) bekezdése a 467/2015. (XII. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^42]: A 3. § (2) bekezdés a) pontja a 284/2020. (VI. 17.) Korm. rendelet 45. § (1) bekezdésével megállapított szöveg.
-[^43]: A 3. § (2a) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 29. §-a iktatta be, szövege a 425/2024. (XII. 23.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
-[^44]: A 3. § (3) bekezdését a 317/2020. (VII. 1.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^43]: A 3. § (2) bekezdés a) pont ab) alpontját a 478/2024. (XII. 31.) Korm. rendelet 22. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^44]: A 3. § (2) bekezdés d) pontját a 478/2024. (XII. 31.) Korm. rendelet 18. §-a iktatta be.
+[^45]: A 3. § (2a) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 29. §-a iktatta be, szövege a 425/2024. (XII. 23.) Korm. rendelet 18. § b) pontja, a 478/2024. (XII. 31.) Korm. rendelet 22. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^46]: A 3. § (3) bekezdését a 317/2020. (VII. 1.) Korm. rendelet 13. § (2) bekezdése iktatta be.

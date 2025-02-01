@@ -1,4 +1,4 @@
-## 26/B. [^577] A nyilvántartásból történő adatszolgáltatás
+## 26/B. [^582] A nyilvántartásból történő adatszolgáltatás
 
 118/B. § (1) A Nyilvántartó eseti jelleggel egyedi adatszolgáltatást nyújt
 
@@ -10,7 +10,7 @@ c) a Kknyt. 19. § (2)–(3) bekezdésében meghatározott adatigénylők
 
 számára.
 
-(2)[^578]
+(2)[^583]
 
-[^577]: A 26/B. alcímet (118/B. §) a 379/2016. (XII. 2.) Korm. rendelet 186. § (10) bekezdése iktatta be.
-[^578]: A 118/B. § (2) bekezdését a 425/2024. (XII. 23.) Korm. rendelet 19. § c) pontja hatályon kívül helyezte.
+[^582]: A 26/B. alcímet (118/B. §) a 379/2016. (XII. 2.) Korm. rendelet 186. § (10) bekezdése iktatta be.
+[^583]: A 118/B. § (2) bekezdését a 425/2024. (XII. 23.) Korm. rendelet 19. § c) pontja hatályon kívül helyezte.

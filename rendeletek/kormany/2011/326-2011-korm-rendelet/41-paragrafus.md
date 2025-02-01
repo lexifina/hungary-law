@@ -2,23 +2,23 @@
 
 41. § (1) Az eljáró hatóság soron kívüli orvosi vizsgálatot kezdeményez, ha
 
-a)[^205] a járművezető vagy járművezető jelölt a közúti közlekedés szabályainak megszegésével halállal, tömegszerencsétlenséggel járó balesetet okozott,
+a)[^208] a járművezető vagy járművezető jelölt a közúti közlekedés szabályainak megszegésével halállal, tömegszerencsétlenséggel járó balesetet okozott,
 
-b)[^206] a közlekedési bűncselekmény vagy szabálysértés elkövetésével gyanúsítható járművezető vagy járművezető jelölt a járművezetést hátrányosan befolyásoló egészségi állapotára vagy gyógyszer hatására hivatkozik,
+b)[^209] a közlekedési bűncselekmény vagy szabálysértés elkövetésével gyanúsítható járművezető vagy járművezető jelölt a járművezetést hátrányosan befolyásoló egészségi állapotára vagy gyógyszer hatására hivatkozik,
 
-c)[^207] az eljárás során a járművezető vagy járművezető jelölt betegségére, testi vagy szellemi, vagy érzékszervi fogyatékosságára vonatkozóan olyan tény merül fel, amely őt a járművezetésre egészségi szempontból alkalmatlanná teheti,
+c)[^210] az eljárás során a járművezető vagy járművezető jelölt betegségére, testi vagy szellemi, vagy érzékszervi fogyatékosságára vonatkozóan olyan tény merül fel, amely őt a járművezetésre egészségi szempontból alkalmatlanná teheti,
 
-d)[^208] a járművezetőt vagy a járművezető jelöltet a bíróság cselekvőképességet részlegesen korlátozó gondnokság alá helyezte.
+d)[^211] a járművezetőt vagy a járművezető jelöltet a bíróság cselekvőképességet részlegesen korlátozó gondnokság alá helyezte.
 
-(2)[^209] Az eljáró hatóság a járművezető vagy járművezető jelölt rendkívüli pályaalkalmassági vizsgálatát kezdeményezi,
+(2)[^212] Az eljáró hatóság a járművezető vagy járművezető jelölt rendkívüli pályaalkalmassági vizsgálatát kezdeményezi,
 
-a)[^210] ha a járművezető vagy járművezető jelölt az (1) bekezdés a) pontjában meghatározott balesetet okozott, vagy
+a)[^213] ha a járművezető vagy járművezető jelölt az (1) bekezdés a) pontjában meghatározott balesetet okozott, vagy
 
 b) az eljárás során a járművezetést hátrányosan befolyásoló pszichés állapotára hivatkozik.
 
-[^205]: A 41. § (1) bekezdés a) pontja a 317/2020. (VII. 1.) Korm. rendelet 14. § d) pontja szerint módosított szöveg.
-[^206]: A 41. § (1) bekezdés b) pontja a 317/2020. (VII. 1.) Korm. rendelet 14. § d) pontja szerint módosított szöveg.
-[^207]: A 41. § (1) bekezdés c) pontja a 317/2020. (VII. 1.) Korm. rendelet 14. § d) pontja szerint módosított szöveg.
-[^208]: A 41. § (1) bekezdés d) pontját a 60/2017. (III. 20.) Korm. rendelet 18. § (4) bekezdése iktatta be, szövege a 317/2020. (VII. 1.) Korm. rendelet 14. § e) pontja szerint módosított szöveg.
-[^209]: A 41. § (2) bekezdés nyitó szövegrésze a 317/2020. (VII. 1.) Korm. rendelet 14. § d) pontja szerint módosított szöveg.
-[^210]: A 41. § (2) bekezdés a) pontja a 317/2020. (VII. 1.) Korm. rendelet 14. § d) pontja szerint módosított szöveg.
+[^208]: A 41. § (1) bekezdés a) pontja a 317/2020. (VII. 1.) Korm. rendelet 14. § d) pontja szerint módosított szöveg.
+[^209]: A 41. § (1) bekezdés b) pontja a 317/2020. (VII. 1.) Korm. rendelet 14. § d) pontja szerint módosított szöveg.
+[^210]: A 41. § (1) bekezdés c) pontja a 317/2020. (VII. 1.) Korm. rendelet 14. § d) pontja szerint módosított szöveg.
+[^211]: A 41. § (1) bekezdés d) pontját a 60/2017. (III. 20.) Korm. rendelet 18. § (4) bekezdése iktatta be, szövege a 317/2020. (VII. 1.) Korm. rendelet 14. § e) pontja szerint módosított szöveg.
+[^212]: A 41. § (2) bekezdés nyitó szövegrésze a 317/2020. (VII. 1.) Korm. rendelet 14. § d) pontja szerint módosított szöveg.
+[^213]: A 41. § (2) bekezdés a) pontja a 317/2020. (VII. 1.) Korm. rendelet 14. § d) pontja szerint módosított szöveg.
