@@ -1,5 +1,3 @@
-1. melléklet a 303/2019. (XII. 12.) Korm. rendelethez[^48]
+1. melléklet a 303/2019. (XII. 12.) Korm. rendelethez[^50]
 
-Módszertani központok
-
-[^48]: A 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 704/2020. (XII. 29.) Korm. rendelet 7. §-a iktatta be, szövege a 672/2023. (XII. 29.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^50]: A 1. mellékletet újonnan a 704/2020. (XII. 29.) Korm. rendelet 7. §-a iktatta be, a 428/2024. (XII. 23.) Korm. rendelet 10. § (2) bekezdés b) pontja hatályon kívül helyezte.
