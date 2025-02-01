@@ -103,3 +103,5 @@ megnevezéssel működik.
 (35) A Gábor Dénes Főiskola 2023. február 1-jétől Gábor Dénes Egyetem megnevezéssel, alkalmazott tudományok egyetemeként működik.
 
 (36) A Budapest Kortárstánc Főiskola 2023. augusztus 1-jétől Budapest Cirkuszművészeti és Kortárstánc Főiskola megnevezéssel működik.
+
+(37) A Budapesti Gazdasági Egyetem 2025. február 1-jétől Budapesti Gazdaságtudományi Egyetem megnevezéssel egyetemként működik.

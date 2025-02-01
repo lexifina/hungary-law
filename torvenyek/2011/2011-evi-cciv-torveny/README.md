@@ -104,3 +104,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-204-00-00
 | 2024-12-21 | 2024. évi LXXVI. törvény | 2011-204-00-00.99 |
 | 2025-01-01 | 2024. évi LXXVI. törvény | 2011-204-00-00.98 |
 | 2025-01-04 | 2024. évi LXXVI. törvény | 2011-204-00-00.100 |
+| 2025-02-01 | 2024. évi LXXVI. törvény | 2011-204-00-00.101 |

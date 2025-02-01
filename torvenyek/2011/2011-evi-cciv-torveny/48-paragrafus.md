@@ -7,3 +7,9 @@
 (3) Ha a magyar állami (rész)ösztöndíjjal támogatott képzésre felvett hallgatónak a tanulmányai befejezése előtt megszűnik a hallgatói jogviszonya, vagy a hallgató a tanulmányait bármely okból önköltséges formában folytatja tovább, helyére – ilyen irányú kérelem esetén – a felsőoktatási intézményben önköltséges formában azonos szakon tanulmányokat folytató hallgató léphet. Az átsorolásról a felsőoktatási intézmény a magyar állami (rész)ösztöndíjjal támogatott képzésre átsorolását kérő önköltséges hallgatók tanulmányi teljesítménye alapján dönt.
 
 (4) A magyar állami ösztöndíjjal támogatott képzésre felvett hallgató helyére magyar állami részösztöndíjjal támogatott képzésben részt vevő hallgató is átsorolható a (3) bekezdésben foglaltak szerint.
+
+(5) A házas hallgatót a gyermeke születésének vagy örökbefogadásának időpontját, illetve a gyermekes hallgatót a házasságkötésének időpontját követő félévtől magyar állami ösztöndíjas képzési formára kell átsorolni, ha a félév kezdő napján a 30. életévét még nem töltötte be.
+
+(6) Ha az (5) bekezdésnek a beiratkozáskor megfelelő hallgató önköltséges képzési formára nyert felvételt, beiratkozását követően magyar állami ösztöndíjas képzési formára kell átsorolni.
+
+(7) Az (5) bekezdésben foglalt rendelkezések nem alkalmazhatók ismételten, ha a hallgatót az (5) vagy a (6) bekezdés alkalmazásával magyar állami ösztöndíjas képzési formára sorolták át, majd ezt követően a 48. § (2) bekezdése alapján önköltséges képzésre került átsorolásra.

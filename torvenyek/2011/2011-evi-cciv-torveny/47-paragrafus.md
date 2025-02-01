@@ -28,6 +28,12 @@ e) azt a félévet, amelyet a hallgató a 39. § (4a) bekezdése szerint felvett
 
 f) a 2, 3, valamint a 4 féléves tanári mesterszakon igénybe vett félévet.
 
+g) a házas hallgató gyermeke születésének vagy örökbefogadásának időpontját követő félévétől kezdődő, valamint a gyermekes hallgató házasságkötésének időpontját követő félévtől kezdődő és a hallgató 30. születésnapját követő félévet megelőző félévig tartó a féléveket.
+
 (7) A magyar állami (rész)ösztöndíjjal támogatott képzésben való részvételt nem zárja ki a felsőoktatásban szerzett fokozat és szakképzettség megléte, azzal, hogy aki egy képzési ciklusban magyar állami (rész)ösztöndíjas képzésben tanulmányokat folytat, ugyanazon képzési ciklusba tartozó további (párhuzamos) képzés folytatása esetén a támogatási időből félévente a párhuzamosan folytatott állami (rész)ösztöndíjjal támogatott képzések számának megfelelő számú félévet le kell vonni.
 
 (8) Ha a hallgató kimerítette az e §-ban meghatározottak szerint rendelkezésére álló támogatási időt, csak önköltséges képzési formában folytathat tanulmányokat a felsőoktatásban.
+
+(9) A hallgató házasságának megszűnése a (6) bekezdés g) pontjában foglalt rendelkezést nem érinti.
+
+(10) A (6) bekezdés g) pontjában foglalt rendelkezés a 48. § (2) bekezdése szerinti önköltséges képzésre történő átsorolás lehetőségét nem érinti.

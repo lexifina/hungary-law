@@ -2,6 +2,8 @@
 
 45. § (1) Ha a hallgató bejelenti, hogy a következő képzési időszakban hallgatói kötelezettségének nem kíván eleget tenni, illetve, ha a hallgató a soron következő képzési időszakra nem jelentkezik be, a hallgatói jogviszonya szünetel. A hallgatói jogviszony egybefüggő szüneteltetésének ideje nem lehet hosszabb, mint két félév. A hallgató, a tanulmányi és vizsgaszabályzatban meghatározottak szerint több alkalommal is élhet a hallgatói jogviszonyának szüneteltetésével.
 
+(1a) Az (1) bekezdéstől eltérően a hallgató egybefüggően négy félévig szüneteltetheti hallgatói jogviszonyát, ha részére csecsemőgondozási díjat, gyermekgondozási díjat vagy – szülési szolgálatmentességére tekintettel – illetményt folyósítanak.
+
 (2) A felsőoktatási intézmény a hallgató kérelmére engedélyezheti a hallgatói jogviszony szünetelését
 
 a) az (1) bekezdésben meghatározottnál hosszabb, egybefüggő időtartamban is,
