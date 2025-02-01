@@ -2,11 +2,11 @@
 
 (2) Egyszerűsített foglalkoztatásban foglalkoztatott munkavállaló esetében a munkáltató által fizetendő közteher mértéke a munkaviszony minden naptári napjára munkavállalónként
 
-a) a 7. § (2) bekezdés a) pontja esetén a tárgyhónap első napján érvényes minimálbér 0,5 százaléka,
+a) a 7. § (2) bekezdés a) pontja esetén a tárgyhónap első napján érvényes minimálbér 0,75 százaléka,
 
-b) a 7. § (2) bekezdés b) pontja esetén a tárgyhónap első napján érvényes minimálbér 1 százaléka,
+b) a 7. § (2) bekezdés b) pontja esetén a tárgyhónap első napján érvényes minimálbér 1,5 százaléka,
 
-c) a filmipari statiszta alkalmi munkára irányuló egyszerűsített foglakoztatása esetén a tárgyhónap első napján érvényes minimálbér 3 százaléka,
+c) a filmipari statiszta alkalmi munkára irányuló egyszerűsített foglalkoztatása esetén a tárgyhónap első napján érvényes minimálbér 3 százaléka,
 
 azzal, hogy a mértéket száz forintra kerekítve kell meghatározni.
 
