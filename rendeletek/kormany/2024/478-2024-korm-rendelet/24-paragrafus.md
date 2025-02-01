@@ -1,0 +1,5 @@
+24. § A 414/2015. (XII. 23.) Korm. rendelet 24. § (3) és (3a) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(3) A (2) bekezdésben foglalt eseten kívül az állandó személyazonosító igazolványt belföldön a kérelmező választása szerint postai úton, könyvelt küldeményként kell továbbítani igazgatási szolgáltatási díj megfizetése esetén, vagy a járási hivatalban, a kijelölt kormányhivatalnál, a konzuli tisztviselőnél, illetve – a nála előterjesztett kérelem esetén – a nyilvántartást kezelő szervnél kell átadni a kérelmező, annak törvényes képviselője vagy meghatalmazottja részére. Ha a kérelmező az állandó személyazonosító igazolványt konzuli tisztviselőnél veszi át, akkor az állandó személyazonosító igazolványt választása szerint a konzuli tisztviselő külföldön postai úton, könyvelt küldeményként továbbítja.
+
+(3a) Az Nytv. 29. § (16a) bekezdésében foglalt esetben a nyilvántartást kezelő szerv az állandó személyazonosító igazolványt igazgatási szolgáltatási díj megfizetése esetén, belföldön postai úton, könyvelt küldeményként a kérelmező által megjelölt címre továbbítja.”
