@@ -1,4 +1,4 @@
-5. melléklet a 429/2017. (XII. 20.) Korm. rendelethez[^36]
+5. melléklet a 429/2017. (XII. 20.) Korm. rendelethez[^38]
 
 A születés bejelentésének adattartalma
 
@@ -42,7 +42,7 @@ A születés bejelentésének adattartalma
 
 5.5. intézetben született gyermek esetén
 
-5.5.1. a hivatalból kiállításra kerülő születési anyakönyvi kivonat, állandó személyazonosító igazolvány, személyi azonosítót és lakcímet igazoló hatósági igazolvány, TAJ számról szóló hatósági igazolvány és adóigazolvány átvételének vagy kézbesítésének módjáról,
+5.5.1.[^39] a hivatalból kiállításra kerülő születési anyakönyvi kivonat, állandó személyazonosító igazolvány, személyi azonosítót és lakcímet igazoló hatósági igazolvány, TAJ számról szóló hatósági igazolvány és adóigazolvány átvételének módjáról,
 
 5.5.2. a gyermek egészségügyi állapotára tekintettel az állandó személyazonosító igazolvány hivatalból történő kiállításának visszautasításáról,
 
@@ -54,7 +54,7 @@ A születés bejelentésének adattartalma
 
 5.7. elérhetőségéről (telefonszám, e-mail-cím).
 
-6.[^37]
+6.[^40]
 
 7. Az egyes vagy ikerszülés ténye, ha ikerszülés, a gyermek hányadikként született.
 
@@ -70,5 +70,6 @@ A születés bejelentésének adattartalma
 
 13. Intézeten kívüli szülés esetén az anyakönyvvezető neve és aláírása, a szervet megjelölő azonosító.
 
-[^36]: Az 5. mellékletet a 745/2021. (XII. 21.) Korm. rendelet 11. § (2) bekezdése iktatta be.
-[^37]: Az 5. melléklet 6. pontját a 113/2024. (V. 14.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^38]: Az 5. mellékletet a 745/2021. (XII. 21.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^39]: Az 5. melléklet 5.5.1. pontja a 478/2024. (XII. 31.) Korm. rendelet 36. § b) pontja szerint módosított szöveg.
+[^40]: Az 5. melléklet 6. pontját a 113/2024. (V. 14.) Korm. rendelet 5. §-a hatályon kívül helyezte.

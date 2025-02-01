@@ -2,9 +2,9 @@
 
 17. § (1) Az EAK rendszerhez való hozzáférési jogosultságot a nyilvántartó szerv biztosítja.
 
-(2)[^27] Az EAK rendszer működtetéséhez szükséges, településenként legalább egy darab számítógépet, az anyakönyvi kivonat kiállításához és a felhasználói kártya használatához szükséges számítástechnikai eszközöket és feltételeket a NISZ a központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló 341/2024. (XI. 14.)Korm. rendeletben meghatározottak szerint biztosítja.
+(2)[^29] Az EAK rendszer működtetéséhez szükséges, településenként legalább egy darab számítógépet, az anyakönyvi kivonat kiállításához és a felhasználói kártya használatához szükséges számítástechnikai eszközöket és feltételeket a NISZ a központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló 341/2024. (XI. 14.)Korm. rendeletben meghatározottak szerint biztosítja.
 
-(3)[^28] Az EAK rendszerhez történő hozzáférési jogosultság megszűnik a közszolgálati vagy kormányzati szolgálati jogviszony megszüntetésével vagy a hozzáférési jogosultság visszavonásával.
+(3)[^30] Az EAK rendszerhez történő hozzáférési jogosultság megszűnik a közszolgálati vagy kormányzati szolgálati jogviszony megszüntetésével vagy a hozzáférési jogosultság visszavonásával.
 
-[^27]: A 17. § (2) bekezdése a 342/2024. (XI. 14.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^28]: A 17. § (3) bekezdése a 6/2020. (I. 31.) Korm. rendelet 22. §-a szerint módosított szöveg.
+[^29]: A 17. § (2) bekezdése a 342/2024. (XI. 14.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^30]: A 17. § (3) bekezdése a 6/2020. (I. 31.) Korm. rendelet 22. §-a szerint módosított szöveg.

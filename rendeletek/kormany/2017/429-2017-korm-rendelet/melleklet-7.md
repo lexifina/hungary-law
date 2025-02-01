@@ -42,9 +42,9 @@
 
 ## 9.3. nem magyar állampolgárság esetén arról, hogy házasságkötésnek a személyes jog szerint nincs akadálya,
 
-## 9.4. a személyazonosító igazolvány, útlevél, vezetői engedély, forgalmi engedély, törzskönyv hivatalból történő kiállításának visszautasításáról.
+## 9.4.[^42]
 
-## 10. A hivatalból kiállítandó hatósági igazolványok kiállításához és kézbesítéséhez szükséges adatok felvételezésének ténye.
+## 10.[^43]
 
 ## 11. A házasulók házasság hivatali helyiségen kívüli vagy hivatali munkaidőn kívüli megkötése iránti kérelme és nyilatkozatai.
 
@@ -82,6 +82,8 @@
 
 ## 3. Keltezés.
 
-7. melléklet a 429/2017. (XII. 20.) Korm. rendelethez[^39]
+7. melléklet a 429/2017. (XII. 20.) Korm. rendelethez[^44]
 
-[^39]: A 7. mellékletet a 745/2021. (XII. 21.) Korm. rendelet 11. § (4) bekezdése iktatta be.
+[^42]: A 6. melléklet 9.4. pontját a 478/2024. (XII. 31.) Korm. rendelet 36. § c) pontja hatályon kívül helyezte.
+[^43]: A 6. melléklet 10. pontját a 478/2024. (XII. 31.) Korm. rendelet 36. § d) pontja hatályon kívül helyezte.
+[^44]: A 7. mellékletet a 745/2021. (XII. 21.) Korm. rendelet 11. § (4) bekezdése iktatta be.
