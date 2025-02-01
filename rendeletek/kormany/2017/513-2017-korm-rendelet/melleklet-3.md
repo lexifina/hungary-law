@@ -120,7 +120,7 @@ A. A járműnyilvántartással kapcsolatos közlekedési igazgatási eljárások
 
 17.2. a forgalmi engedély vagy a törzskönyv eljáró hatóság által hitelesített példánya, ha az okmány az eljárásban leadásra került,
 
-17.3. a forgalmi engedély és/vagy a törzskönyv illetékének megfizetését tanúsító igazolás eljáró hatóság által hitelesített példánya, ha az eljárásban az okmány kiadására kerül sor és az illetékét meg kell fizetni,
+17.3. a forgalmi engedély és/vagy a törzskönyv igazgatási szolgáltatási díjának megfizetését tanúsító igazolás eljáró hatóság által hitelesített példánya, ha az eljárásban az okmány kiadására kerül sor és az igazgatási szolgáltatási díját meg kell fizetni,
 
 17.4. egyéb a nyilvántartásba vételt megalapozó okirat elektronikus vagy eljáró hatóság által hitelesített példánya,
 
@@ -212,7 +212,7 @@ I betűjelű ideiglenes rendszámtáblához kiadott ideiglenes forgalmi engedél
 
 14.2. külföldi forgalmi engedély, állandó forgalmi engedély, ideiglenes forgalmi engedély, forgalomban tartási engedély eljáró hatóság által hitelesített példánya, ha az okmány az eljárásban leadásra vagy bemutatásra került,
 
-14.3. az ideiglenes forgalmi engedély illetékének megfizetését tanúsító igazolás eljáró hatóság által hitelesített példánya, ha az eljárásban az okmány kiadására kerül sor és az illetékét meg kell fizetni,
+14.3. az ideiglenes forgalmi engedély igazgatási szolgáltatási díjának megfizetését tanúsító igazolás eljáró hatóság által hitelesített példánya, ha az eljárásban az okmány kiadására kerül sor és az igazgatási szolgáltatási díját meg kell fizetni,
 
 14.4. egyéb a nyilvántartásba vételt megalapozó okirat elektronikus vagy eljáró hatóság által hitelesített példánya.
 
@@ -226,7 +226,7 @@ C. A vezetői engedély kiállítására irányuló eljárások alapiratai
 
 2.1. az egészségi alkalmassági vélemény, ha az a vizsgálatot végző szervtől elektronikus úton nem érkezett meg az engedély nyilvántartásba, az okmány kiállításához azonban új egészségi alkalmassági vélemény szükséges
 
-2.2. az illetékének megfizetését tanúsító igazolás eljáró hatóság által hitelesített példánya, ha az eljárásért illetéket kellett fizetni.
+2.2. igazgatási szolgáltatási díj megfizetését tanúsító igazolás eljáró hatóság által hitelesített példánya, ha az eljárásért igazgatási szolgáltatási díjat kellett fizetni.
 
 2.3. a nem elektronikus úton tett nyilatkozat esetén a vezetői engedély elvesztéséről, eltulajdonításáról, megsemmisüléséről és a találásról készült jegyzőkönyv.
 
@@ -236,7 +236,7 @@ C. A vezetői engedély kiállítására irányuló eljárások alapiratai
 
 3.2. az egészségi alkalmassági vélemény, ha az a vizsgálatot végző szervtől elektronikus úton nem érkezett meg az engedély nyilvántartásba,
 
-3.3. az illetékének megfizetését tanúsító igazolás eljáró hatóság által hitelesített példánya.
+3.3. igazgatási szolgáltatási díj megfizetését tanúsító igazolás eljáró hatóság által hitelesített példánya.
 
 4. Külföldi vezetői engedély honosítása, visszahonosítása esetén:
 
@@ -254,4 +254,4 @@ C. A vezetői engedély kiállítására irányuló eljárások alapiratai
 
 6.1. egyéb a nyilvántartásba történő bejegyzést megalapozó okirat elektronikus vagy eljáró hatóság által hitelesített példánya.
 
-[^31]: A 3. mellékletet a 375/2021. (VI. 30.) Korm. rendelet 28. §-a iktatta be, szövege a 251/2022. (VII. 13.) Korm. rendelet 2. § b) pontja, e) pontja és 3. §-a, az 569/2022. (XII. 23.) Korm. rendelet 42. §-a, a 425/2024. (XII. 23.) Korm. rendelet 28. §-a szerint módosított szöveg. [A 251/2022. (VII. 13.) Korm. rendelet 2. § a) pontjában foglalt módosítás, mely szerint a 3. melléklet B. pont 1. alpontjában az „A P betűjelű ideiglenes rendszámtábla és az ideiglenes forgalomban tartási engedély” szövegrész helyébe az „A közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 326/2011. (XII. 28.) Korm. rendelet (a továbbiakban: kormányrendelet) 63/A. § (2) bekezdés 7–11. pontja szerinti I betűjelű ideiglenes rendszámtábla és az ideiglenes forgalmi engedély” szöveg, a 2. § c) pontjában foglalt módosítás, mely szerint a 3. melléklet B. pont 4. alpontjában az „Az E betűjelű ideiglenes rendszámtábla és az ideiglenes forgalomban tartási engedély” szövegrész helyébe az „A kormányrendelet 63/A. § (2) bekezdés 1–5. pontja szerinti I betűjelű ideiglenes rendszámtábla és az ideiglenes forgalmi engedély” szöveg, valamint a 2. § d) pontjában foglalt módosítás, mely szerint a 3. melléklet B. pont 5. alpontjában az „ideiglenes forgalomban tartási engedély” szövegrész helyébe az „ideiglenes forgalmi engedély” szöveg lép, nem vezethető át.]
+[^31]: A 3. mellékletet a 375/2021. (VI. 30.) Korm. rendelet 28. §-a iktatta be, szövege a 251/2022. (VII. 13.) Korm. rendelet 2. § b) pontja, e) pontja és 3. §-a, az 569/2022. (XII. 23.) Korm. rendelet 42. §-a, a 425/2024. (XII. 23.) Korm. rendelet 28. §-a, a 478/2024. (XII. 31.) Korm. rendelet 38. §-a szerint módosított szöveg. [A 251/2022. (VII. 13.) Korm. rendelet 2. § a) pontjában foglalt módosítás, mely szerint a 3. melléklet B. pont 1. alpontjában az „A P betűjelű ideiglenes rendszámtábla és az ideiglenes forgalomban tartási engedély” szövegrész helyébe az „A közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 326/2011. (XII. 28.) Korm. rendelet (a továbbiakban: kormányrendelet) 63/A. § (2) bekezdés 7–11. pontja szerinti I betűjelű ideiglenes rendszámtábla és az ideiglenes forgalmi engedély” szöveg, a 2. § c) pontjában foglalt módosítás, mely szerint a 3. melléklet B. pont 4. alpontjában az „Az E betűjelű ideiglenes rendszámtábla és az ideiglenes forgalomban tartási engedély” szövegrész helyébe az „A kormányrendelet 63/A. § (2) bekezdés 1–5. pontja szerinti I betűjelű ideiglenes rendszámtábla és az ideiglenes forgalmi engedély” szöveg, valamint a 2. § d) pontjában foglalt módosítás, mely szerint a 3. melléklet B. pont 5. alpontjában az „ideiglenes forgalomban tartási engedély” szövegrész helyébe az „ideiglenes forgalmi engedély” szöveg lép, nem vezethető át.]
