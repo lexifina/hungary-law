@@ -1,3 +1,3 @@
-69. §[^67]
+69. §[^66]
 
-[^67]: A 69. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^66]: A 69. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

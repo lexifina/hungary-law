@@ -1,5 +1,5 @@
-## 18.[^51]
+## 18. A gyógyszerek és orvostechnikai eszközök közbeszerzésének sajátos szabályairól szóló 16/2012. (II. 16.) Korm. rendelet módosítása
 
-51. §
+51. § A gyógyszerek és orvostechnikai eszközök közbeszerzésének sajátos szabályairól szóló 16/2012. (II. 16.) Korm. rendelet [a továbbiakban: 16/2012. (II. 16.) Korm. rendelet] 2. §-a a következő 2a. ponttal egészül ki:
 
-[^51]: A 18. alcím a 88. § (3) bekezdése alapján 2025. február 1-jén lép hatályba.
+(E rendelet alkalmazásában:)
