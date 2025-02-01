@@ -28,7 +28,7 @@ f) az e-közigazgatásért felelős miniszterrel, a közigazgatási informatika 
 
 g) a 28. § (1), (2) és (2b) bekezdése szerinti adatszolgáltatás iránti kérelem benyújtására szolgáló formanyomtatvány adattartalmát;
 
-h)
+h) az adópolitikáért felelős miniszterrel egyetértésben az útlevél kiadásáért fizetendő igazgatási szolgáltatási díj összegét és megfizetésének részletes szabályait.
 
 (3)
 

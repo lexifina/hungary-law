@@ -15,3 +15,5 @@ b) annak a külföldön tartózkodó magyar állampolgárnak, akire nézve a tar
 (6) Az ideiglenes magánútlevél Magyarország vagy a jogosult szokásos tartózkodási helye szerinti ország területére történő egyszeri beutazásra jogosít.
 
 (7) A kiskorú részére Magyarországra való hazatérés céljából kiállítandó ideiglenes magánútlevelet kérelmező szülő nyilatkozatot tehet a szülői felügyeleti jog gyakorlásáról abban az esetben, ha a Polgári Törvénykönyvről szóló 2013. évi V. törvény 4:186. § (1) bekezdés d) pontjának megfelelően a távollevő szülő tartózkodási helye nem ismert, vagy ténylegesen akadályozva van a szülői felügyelet ellátásában, illetve a vele való kapcsolatfelvétel a kérelmet benyújtó szülő részéről nem vezetett eredményre, és a Magyarországra való hazatérés késedelme a kiskorú számára aránytalan érdeksérelemmel járna.
+
+(8) Az ideiglenes magánútlevél kiállításáért igazgatási szolgáltatási díjat kell fizetni.

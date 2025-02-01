@@ -28,7 +28,7 @@ k) a személyiadat- és lakcímnyilvántartásban nem szereplő, úti okmánnyal
 
 l) a kérelem egyedi azonosítására szolgáló technikai azonosítóját,
 
-m) az eljárás illetékének és igazgatási szolgáltatási pótdíjának az összegét, valamint a teljesítésének tényét,
+m) az eljárás igazgatási szolgáltatási díjának, illetve pótdíjának az összegét, valamint a teljesítésének tényét,
 
 n) az okmány kézbesítésének, illetve átvételének idejét, helyét, meghatalmazotti átvétel esetén az átvevő nevét és az átvételkor bemutatott okmány azonosítóját,
 
