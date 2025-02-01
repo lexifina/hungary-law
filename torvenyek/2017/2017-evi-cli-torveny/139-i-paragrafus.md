@@ -1,0 +1,3 @@
+### 139/I. § [Átmeneti rendelkezés a Magyarország 2025. évi központi költségvetésének megalapozásáról szóló 2024. évi LXXIV. törvényhez]
+
+E törvénynek a Magyarország 2025. évi központi költségvetésének megalapozásáról szóló 2024. évi LXXIV. törvény által megállapított 17. § (1) bekezdés g) pontjának hatálybalépését megelőzően, számviteli, könyvviteli szolgáltatásra vagy adótanácsadásra jogosult gazdasági társaság illetve egyéb szervezet törvényes vagy szervezeti képviselőjeként, foglalkoztatottjaként, tagjaként bejelentett természetes személyek állandó meghatalmazottként 2027. december 31-ig járhatnak el.

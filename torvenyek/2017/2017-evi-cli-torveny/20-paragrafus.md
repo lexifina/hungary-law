@@ -19,3 +19,5 @@
 (9) Az adóhatóság a belföldön székhellyel, telephellyel nem rendelkező külföldi vállalkozást megillető adó-visszaigénylést, adó-visszatérítést a külföldi vállalkozás adóügyeivel összefüggésben nyitott belföldi pénzforgalmi számla javára történő átutalással teljesíti.
 
 (10) Ha a képviselet azért szűnt meg, mert a külföldi vállalkozásnak megszűnt a Magyarországon végzett gazdasági tevékenysége, a pénzügyi képviselő a külföldi vállalkozás záróbevallását elkészíti. A pénzügyi képviselő az adózással összefüggő iratokat az adómegállapításhoz való jog elévüléséig megőrzi.
+
+(11) A pénzügyi képviselő arra az esetre, ha a pénzügyi képviselet ellátásához természetes személy jelenléte vagy természetes személy elektronikus azonosítását igénylő ügyintézés szükséges, kijelöli azt a törvényes vagy szervezeti képviselőjét, foglalkoztatottját vagy tagját, aki a külföldi vállalkozás ügyében a pénzügyi képviselő nevében eljárhat.
