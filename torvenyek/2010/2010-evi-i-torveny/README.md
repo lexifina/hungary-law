@@ -43,3 +43,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-1-00-00
 | 2024-12-21 | 2024. évi LXXIV. törvény | 2010-1-00-00.42 |
 | 2025-01-01 | 2023. évi XCIII. törvény | 2010-1-00-00.37 |
 | 2025-01-20 | 2024. évi LXXIV. törvény | 2010-1-00-00.43 |
+| 2025-02-01 | 2024. évi LXXIII. törvény | 2010-1-00-00.41 |

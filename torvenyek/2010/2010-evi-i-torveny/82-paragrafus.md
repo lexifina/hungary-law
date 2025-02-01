@@ -2,11 +2,11 @@
 
 (1a) A nyilvántartó szerv az (1) bekezdés szerinti értesítéssel egyidejűleg továbbítja az intézetben született, Magyarországon élő magyar állampolgár újszülött részére hivatalból kiadásra kerülő állandó személyazonosító igazolvány kiállításához szükséges adatokat a személyiadat- és lakcímnyilvántartásnak.
 
-(1b) A nyilvántartó szerv a házasságkötés bejegyzését követően – ha hivatalbóli okmánykiállítást megakadályozó nyilatkozatot nem tett a házasuló – a hivatalból kiállításra kerülő személyazonosság igazolására alkalmas hatósági igazolványok kiállításához szükséges arcképmást, aláírást, valamint – jogszabályban meghatározott esetben – az ujjnyomatot haladéktalanul továbbítja a személyiadat- és lakcímnyilvántartásnak.
+(1b) A nyilvántartó szerv az (1a) bekezdés szerinti adatokat annak továbbításáig vagy az (1c) bekezdésben meghatározott törlés időpontjáig kezeli.
 
-(1c) A nyilvántartó szerv az arcképmás, az aláírás, illetve az ujjnyomat adatot annak továbbításáig vagy az (1d) bekezdésben meghatározott törlés időpontjáig kezeli. Adattovábbítás kizárólag a személyiadat- és lakcímnyilvántartás részére teljesíthető.
+(1c) A nyilvántartó szerv, ha az (1a) bekezdés szerinti hivatalból kiállításra kerülő állandó személyazonosító igazolvány kiállításának akadálya van, haladéktalanul törli a kiállításához rögzített adatokat.
 
-(1d) A nyilvántartó szerv a 27. § (3) bekezdésében meghatározott esetben, valamint ha a hivatalból kiadásra kerülő állandó személyazonosító igazolvány kiadásának akadálya van, haladéktalanul törli a hivatalból kiállításra kerülő személyazonosság igazolására alkalmas hatósági igazolványok kiállításához felvételezett arcképmást, aláírást, valamint – jogszabályban meghatározott esetben – az ujjnyomatot.
+(1d)
 
 (2) Ha az anyakönyv és a személyiadat- és lakcímnyilvántartás adattartalma eltér, az e törvényben foglalt eltérő rendelkezés hiányában, ellenkező bizonyításig az anyakönyvet kell hitelesnek tekinteni.
 
