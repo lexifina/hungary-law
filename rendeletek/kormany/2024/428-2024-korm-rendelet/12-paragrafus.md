@@ -1,3 +1,1 @@
-12. §[^9]
-
-[^9]: A 12. § a 6. § (2) bekezdése alapján 2025. február 1-jén lép hatályba.
+12. § Hatályát veszti a Nemzeti Sportügynökség Nonprofit Zártkörűen Működő Részvénytársaság feladatainak meghatározásáról, valamint az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet és a központi beszerző szerv kijelöléséről, a védelmi és biztonsági feladatokkal összefüggő beszerzések körének meghatározásáról és a védelmi és biztonsági feladatokkal összefüggő beszerzések központosított rendszeréről szóló 329/2019. (XII. 20.) Korm. rendelet módosításáról szóló 602/2022. (XII. 28.) Korm. rendelet 2–4. §-a.

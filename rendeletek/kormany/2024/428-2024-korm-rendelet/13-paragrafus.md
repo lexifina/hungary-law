@@ -1,3 +1,3 @@
-13. §[^10]
+13. §[^2]
 
-[^10]: A 13. § a 6. § (3) bekezdése alapján 2025. április 1-jén lép hatályba.
+[^2]: A 13. § a 6. § (3) bekezdése alapján 2025. április 1-jén lép hatályba.
