@@ -60,3 +60,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-98-00-00
 | 2024-05-11 | 2024. évi XXV. törvény | 2006-98-00-00.67 |
 | 2024-09-01 | 2024. évi XII. törvény | 2006-98-00-00.66 |
 | 2025-01-01 | 2024. évi LXXXV. törvény | 2006-98-00-00.68 |
+| 2025-02-01 | 2024. évi LXXIV. törvény | 2006-98-00-00.69 |
