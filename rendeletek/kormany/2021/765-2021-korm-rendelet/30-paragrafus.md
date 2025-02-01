@@ -14,6 +14,8 @@ sportlétesítmény megnevezését, helyrajzi számát, címét, tulajdonos és 
 
 (4) A 31. § szerinti adatszolgáltató a sportlétesítményről a (2), (3) és (5) bekezdésben nem szereplő további – személyes adatnak nem minősülő és a sporttevékenységgel összefüggő – adatokat is megadhat az NSR-ben.
 
-(5) A „Létesítmények” modul tartalmazza a sportlétesítmény fenntartója által biztosított, a regisztrált szabadidő-sportoló által sporttevékenységével összefüggésben igénybe vehető támogatást, kedvezményt, annak feltételeit és mértékét, amely adatok az NSR Portálon is elérhetőek.
+(5)[^12]
 
 (6) A „Létesítmények” modulban nyilvántartott sportlétesítmények és azok nyilvános adatai az NSR Portál térképes kereső felületén is elérhetőek.
+
+[^12]: A 30. § (5) bekezdését a 428/2024. (XII. 23.) Korm. rendelet 11. § (3) bekezdés g) pontja hatályon kívül helyezte.

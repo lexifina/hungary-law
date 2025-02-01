@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-765-20-
 | 2022-07-01 | 2021-765-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2022-07-02 | 2021-765-20-22.4 | 2010: CXXX. törvény |
 | 2023-01-01 | 2021-765-20-22.5 | 552/2022. (XII. 22.) Korm. rendelet |
+| 2025-02-01 | 2021-765-20-22.6 | 428/2024. (XII. 23.) Korm. rendelet |

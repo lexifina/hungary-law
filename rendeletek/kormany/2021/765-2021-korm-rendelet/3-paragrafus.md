@@ -18,4 +18,6 @@ af) a „Létesítmények” modul,
 
 b) az állami sportcélú támogatások biztosítását, felhasználásának dokumentálását és annak ellenőrzését támogató modul (a továbbiakban: „Támogatás és ellenőrzés” modul),
 
-c) a regisztrált szabadidő-sportolói kedvezményrendszer modulja (a továbbiakban: „Szolgáltatás” modul).
+c)[^3]
+
+[^3]: A 3. § (2) bekezdés c) pontját a 428/2024. (XII. 23.) Korm. rendelet 11. § (3) bekezdés b) pontja hatályon kívül helyezte.

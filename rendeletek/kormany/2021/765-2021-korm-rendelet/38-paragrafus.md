@@ -1,1 +1,1 @@
-## 37. § A miniszter a szervezővel vagy a sportlétesítmény fenntartójával a kedvezmény feltételeit és mértékét is tartalmazó szolgáltatói megállapodást (a továbbiakban: szolgáltatói megállapodás) köthet kedvezmény biztosítása érdekében. Szolgáltatói megállapodás megkötése esetén a miniszter a kedvezmény vagy egy része biztosításának ellentételezéseként a szervező vagy a sportlétesítmény fenntartója számára állami sportcélú támogatás nyújt.
+38. §

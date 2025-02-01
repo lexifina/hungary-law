@@ -1,7 +1,9 @@
 ## 5. § Szervezet regisztrációja a regisztrációt végző személy részére elektronikus úton megküldött, a regisztrációt kezdeményező szervezet és első természetes személy felhasználója regisztrációjához szükséges adatokat tartalmazó regisztrációigénylés (a továbbiakban: regisztrációigénylés) alapján, annak a regisztrációt végző személy általi jóváhagyásával, és a jóváhagyás alapján a regisztrációt kezdeményező szervezet, valamint első természetes személy felhasználója egyidejű regisztrációjával történik. A regisztrációt végző személy a regisztrációigénylést – a regisztráció feltételeinek való megfelelés esetén – 3 munkanapon belül jóváhagyja, és egyidejűleg a regisztrációt elvégzi.
 
-6. § (1) A sportköztestület, a sportszövetség és bármely, sportszövetséggel tagsági viszonyban nem álló szervezet esetében a regisztrációt végző személy a miniszter.
+6. § (1)[^4] A sportköztestület, a sportszövetség és bármely, sportszövetséggel tagsági viszonyban nem álló szervezet esetében a regisztrációt végző személy az Intézet.
 
 (2) Az NSR részére adatszolgáltatási kötelezettséggel érintett sportszervezet esetében a regisztrációt végző szervezet az a sportszövetség, amellyel a sportszervezet a regisztrációigénylés megküldésének időpontjában tagsági viszonyban áll. Ha a sportszervezet a regisztrációigényléskor több sportszövetséggel is tagsági viszonyban áll, a regisztrációigénylést közülük bármely sportszövetséghez benyújthatja, és regisztrációját követően kezdeményezi az NSR-en belül a többi sportszövetséggel a tagszervezeti kapcsolat megjelenítését.
 
 (3) A jogi személy szervezeti egység esetében a regisztrációt végző szervezet a jogi személy.
+
+[^4]: A 6. § (1) bekezdése a 428/2024. (XII. 23.) Korm. rendelet 11. § (2) bekezdés a) pontja szerint módosított szöveg.

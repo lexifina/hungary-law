@@ -6,7 +6,7 @@ a) elektronikus úton történő közvetlen adatrögzítéssel,
 
 b) elektronikus úton vezetett közhiteles nyilvántartással való interfész útján,
 
-c) a miniszterrel kötött megállapodás alapján az NSR által biztosított interfész (a továbbiakban: szervezeti interfész) útján.
+c)[^7] a miniszterrel vagy az Intézettel kötött megállapodás alapján az NSR által biztosított interfész (a továbbiakban: szervezeti interfész) útján.
 
 (2) Az NSR az (1) bekezdés b) pontja alapján interfészkapcsolatban áll
 
@@ -17,3 +17,5 @@ b) a civil szervezetek nyilvántartásával,
 c) a törzskönyvi nyilvántartással,
 
 d) a köztartozásmentes adózói adatbázissal.
+
+[^7]: A 11. § (1) bekezdés c) pontja a 428/2024. (XII. 23.) Korm. rendelet 11. § (2) bekezdés b) pontja szerint módosított szöveg.

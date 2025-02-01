@@ -8,4 +8,6 @@ b) – az Stv. rendelkezése vagy a sportoló írásbeli hozzájárulása alapj�
 
 megadjon.
 
-(3) Az „Események” modul az (1) és (2) bekezdésben foglaltakon túl tartalmazza a szervező által biztosított, a regisztrált szabadidő-sportoló által sporttevékenységével összefüggésben igénybe vehető támogatást, kedvezményt, annak feltételeit és mértékét, amely adatok az NSR Portálon is elérhetőek.
+(3)[^11]
+
+[^11]: A 28. § (3) bekezdését a 428/2024. (XII. 23.) Korm. rendelet 11. § (3) bekezdés f) pontja hatályon kívül helyezte.

@@ -18,4 +18,6 @@
 
 8. NSR-üzemzavar: az NSR-ben végzett olyan karbantartás, tervezett leállítás vagy nem tervezett leállás, amely az NSR szolgáltatásainak igénybevételét korlátozza vagy megakadályozza,
 
-9. NSR Portál: információs tartalmat megjeleníteni képes, bárki számára hozzáférhető, nyilvános webes felület, amely biztosítja az NSR-be való regisztráció és bejelentkezés lehetőségét, az NSR használatával összefüggő általános tudnivalókat, az e rendeletben meghatározott módon az NSR-ben szereplő nyilvános adatok megjelenítését, valamint a regisztrált szabadidő-sportolónak biztosított kedvezmények megismerhetőségét.
+9.[^1] NSR Portál: információs tartalmat megjeleníteni képes, bárki számára hozzáférhető, nyilvános webes felület, amely biztosítja az NSR-be való regisztráció és bejelentkezés lehetőségét, az NSR használatával összefüggő általános tudnivalókat, az e rendeletben meghatározott módon az NSR-ben szereplő nyilvános adatok megjelenítését.
+
+[^1]: Az 1. § 9. pontja a 428/2024. (XII. 23.) Korm. rendelet 11. § (3) bekezdés a) pontja szerint módosított szöveg.

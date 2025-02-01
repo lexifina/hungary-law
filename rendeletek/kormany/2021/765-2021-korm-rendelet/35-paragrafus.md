@@ -1,3 +1,3 @@
-35. §[^1]
+35. §[^13]
 
-[^1]: A 35. § az 552/2022. (XII. 22.) Korm. rendelet 28. §-a alapján nem lép hatályba.
+[^13]: A 35. § az 552/2022. (XII. 22.) Korm. rendelet 28. §-a alapján nem lép hatályba.

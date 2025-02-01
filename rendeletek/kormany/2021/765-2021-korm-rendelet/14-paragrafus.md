@@ -1,1 +1,0 @@
-## 13. § A felhasználó szervezet kezdeményezheti a miniszternél a 11. § (1) bekezdés c) pontja szerinti megállapodás megkötését. A megállapodás alapján a miniszter vállalja, hogy az NSR a felhasználó szervezettel szervezeti interfész útján, kétirányú interfészkapcsolatot tart fenn az adatszolgáltatási kötelezettség teljesítése és az NSR-ben tárolt adatai átvétele érdekében.
