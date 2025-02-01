@@ -2,7 +2,7 @@
 
 2. A KKB felhívja a BM OKF főigazgatóját mint a KKB adminisztratív feladatait ellátó szervezet vezetőjét, hogy az Ügyrend 36. pont j) alpontjának megfelelően gondoskodjon a határozat Hivatalos Értesítőben történő közzétételéről.
 
-3. Ez a határozat a közzétételét követő napon lép hatályba, és ezzel egyidejűleg hatályát veszti a Katasztrófavédelmi Koordinációs Tárcaközi Bizottság 2024. évi munkatervének elfogadásáról szóló 5/2023. (XII. 28.) KKB határozat.
+3.[^2] Ez a határozat a közzétételét követő napon lép hatályba.
 
 Melléklet a 3/2024. (XII. 20.) KKB határozathoz
 
@@ -63,3 +63,5 @@ Felelős: területi védelmi bizottságok elnökei
 Határidő: folyamatos
 
 Budapest, 2024. december 20.
+
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
