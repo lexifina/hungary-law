@@ -44,7 +44,7 @@ e) az elhelyezéshez a közterület használatra vonatkozó jogszabályok szerin
 
 f) az életmentő funkciót ellátó reklámcélú eszközre az (5) bekezdésben foglaltak irányadók.
 
-(4) A közlekedési hatóság annak az ingatlannak – az ingatlan-nyilvántartás szerinti – tulajdonosát, amelynek területén a (3a), illetve a (3e) bekezdésben megállapított tilalmat megszegik, a jel, jelzés, reklámtábla, reklámhordozó, egyéb reklámcélú berendezés, tájékozódást segítő jelzést megjelenítő reklámcélú eszköz vagy egyéb tárgy eltávolítására és 130 000 forinttól 650 000 forintig terjedő bírság megfizetésére kötelezi. A bírság ismételten is kiszabható.
+(4) A közlekedési hatóság annak az ingatlannak – az ingatlan-nyilvántartás szerinti – tulajdonosát, amelynek területén a (3a), illetve a (3e) bekezdésben megállapított tilalmat megszegik, a jel, jelzés, reklámtábla, reklámhordozó, egyéb reklámcélú berendezés, tájékozódást segítő jelzést megjelenítő reklámcélú eszköz vagy egyéb tárgy eltávolítására és 156 000 forinttól 780 000 forintig terjedő bírság megfizetésére kötelezi. A bírság ismételten is kiszabható.
 
 (4a) A közlekedési hatóság a (4) bekezdés szerinti bírság összegének meghatározása során a közigazgatási szabályszegések szankcióiról szóló törvényben meghatározott szempontok mellett a közvetlen balesetveszély lehetőségét is mérlegeli.
 

@@ -24,7 +24,7 @@ a) az eltiltás csak járműkategóriára vagy járműfajtára terjed ki;
 
 b) a vezetői engedélyét az eljáró hatóság kizárólag, a közúti közlekedési előéleti pontrendszerről szóló 2000. évi CXXVIII. törvény végrehajtásáról szóló kormányrendeletben a közigazgatási bírsággal sújtandó jogsértéshez tartozó 9 pont megállapítására alapozottan vonta vissza.
 
-(7) A közlekedési hatóság a (2) bekezdésben meghatározott engedélyköteles tevékenységet engedély nélkül vagy az engedélyben foglaltaktól eltérő módon végzőt bírság fizetésére kötelezi. A bírság összege legfeljebb 13 000 000 Ft lehet, a bírság ismételten kiszabható. A bírság kiszabása mellett a közlekedési hatóság a képző szerv, az iskolavezető és a szakoktató tevékenységét – törvényben vagy kormányrendeletben meghatározott esetekben – felfüggesztheti, az engedélyt visszavonhatja, valamint törvényben vagy kormányrendeletben meghatározott esetben a képzőszervet, az iskolavezetőt és a szakoktatót valamint a vizsgabiztost és az utánképzés-foglalkozásvezetőt a tevékenység végzésétől eltilthatja.
+(7) A közlekedési hatóság a (2) bekezdésben meghatározott engedélyköteles tevékenységet engedély nélkül vagy az engedélyben foglaltaktól eltérő módon végzőt bírság fizetésére kötelezi. A bírság összege legfeljebb 15 600 000 Ft lehet, a bírság ismételten kiszabható. A bírság kiszabása mellett a közlekedési hatóság a képző szerv, az iskolavezető és a szakoktató tevékenységét – törvényben vagy kormányrendeletben meghatározott esetekben – felfüggesztheti, az engedélyt visszavonhatja, valamint törvényben vagy kormányrendeletben meghatározott esetben a képzőszervet, az iskolavezetőt és a szakoktatót valamint a vizsgabiztost és az utánképzés-foglalkozásvezetőt a tevékenység végzésétől eltilthatja.
 
 (7a) A (7) bekezdésben meghatározott eljárásokban figyelmeztetés alkalmazásának nincs helye.
 
@@ -124,6 +124,6 @@ e) az iskolavezetői, a szakoktatói és a vizsgabiztosi tevékenységre – a k
 
 a) a figyelmeztetést tartalmazó döntésében felhívja a vizsgaközpont figyelmét a kötelezettségei teljesítésére és határidő tűzésével kötelezi a jogsértés megszüntetésére, vagy
 
-b) bírságot szab ki, amelynek mértéke 13 millió forintig terjedhet, amely az államháztartás központi alrendszerének bevételét képezi.
+b) bírságot szab ki, amelynek mértéke 15 600 000 forintig terjedhet, amely az államháztartás központi alrendszerének bevételét képezi.
 
 (18) A (2) bekezdéstől eltérően az Nkt. 30/A. §-a és az Szkt. 35/A. §-a szerinti képzés vezetési gyakorlati részét – a honvédelemért felelős miniszter rendeletében meghatározottak szerint – a Magyar Honvédség is nyújthatja, a Magyar Honvédség és a (2b) bekezdés szerinti középiskola erre irányuló együttműködési megállapodása alapján.
