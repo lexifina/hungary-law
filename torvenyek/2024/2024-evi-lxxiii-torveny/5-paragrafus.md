@@ -1,1 +1,3 @@
-### 5. §
+5. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 29/B. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) A 29. § (7) bekezdés b) pontja szerinti ujjnyomatot – ha azt az állandó személyazonosító igazolvány tároló eleme tartalmazza – a személyazonosság igazolására alkalmas hatósági igazolvány kiadása iránti kérelem előterjesztésekor az eljáró hatóság a személyazonosítás céljából összeveti a polgár ujjnyomatával, kizárólag abból a célból, hogy a személyazonosság igazolására bemutatott állandó személyazonosító igazolvány és a polgár közötti kapcsolat kétséget kizáróan megállapítható legyen. Az eljáró hatóság az összevetés elvégzéséig kezeli az ujjnyomatot.”
