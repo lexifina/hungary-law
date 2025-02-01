@@ -1,5 +1,0 @@
-## 9. Az Állami Népegészségügyi és Tisztiorvosi Szolgálat egyes közigazgatási eljárásaiért és igazgatási jellegű szolgáltatásaiért fizetendő díjakról szóló 1/2009. (I. 30.) EüM rendelet módosítása
-
-12. §[^13]
-
-[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
