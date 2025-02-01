@@ -1,4 +1,4 @@
-127. § (1) Az ajánlások ellenőrzését a jelölt bejelentésétől számított három napon belül kell elvégezni.
+127. § (1) Az ajánlások ellenőrzését a jelölt bejelentésétől számított négy napon belül kell elvégezni.
 
 (2) Az ajánlások ellenőrzését mellőzi a választási iroda, ha a leadott ajánlóíveken szereplő ajánlások száma nem éri el a jelöltséghez szükséges számot.
 

@@ -18,10 +18,10 @@ tart.
 
 a) választott tagjának megbízatása a következő általános választásra megválasztott választási bizottság alakuló üléséig,
 
-b) megbízott tagjának megbízatása valamennyi – a 28. § (1)–(3) bekezdése és a 333. § (2) bekezdése szerint az adott választási bizottságba történő megbízás jogalapjaként figyelembe vehető jelöléshez, listaállításhoz kapcsolódó – választás eredményének jogerőssé válásáig
+b) megbízott tagjának megbízatása valamennyi – a 28. § (1)–(3) bekezdése és a 333. § (2) bekezdése szerint az adott választási bizottságba történő megbízás jogalapjaként figyelembe vehető – választás eredményének jogerőssé válásáig
 
 tart.
 
 (4) A szavazatszámláló bizottságok választott tagjainak megbízatása a következő általános választásra megválasztott szavazatszámláló bizottsági tagok megválasztásáig tart.
 
-(5) A szavazatszámláló bizottság megbízott tagjának megbízatása valamennyi – a 28. § (4) bekezdése szerint az adott szavazatszámláló bizottságba történő megbízás jogalapjaként figyelembe vehető jelöléshez, listaállításhoz kapcsolódó – választás eredményének jogerőssé válásáig tart.
+(5) A szavazatszámláló bizottság megbízott tagjának megbízatása valamennyi – a 28. § (4) bekezdése szerint az adott szavazatszámláló bizottságba történő megbízás jogalapjaként figyelembe vehető – választás eredményének jogerőssé válásáig tart.

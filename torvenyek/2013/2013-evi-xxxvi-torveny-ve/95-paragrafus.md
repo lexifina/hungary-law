@@ -19,3 +19,5 @@ d) a központi névjegyzékbe vétel módosítására irányuló kérelemnek kel
 (4) A döntés a 46. § a)–e) pontjában foglaltakat és a kérelmező születési idejét tartalmazza. A határozatban pontosan meg kell jelölni az elutasítás, illetve a törlés okát. A döntés aláírás és bélyegzőlenyomat nélkül érvényes.
 
 (5) Ha a választópolgár a kettős állampolgárságot tiltó országban lévő postai értesítési címet adott meg, a döntést a külképviselet közreműködésével is kézbesítheti a Nemzeti Választási Iroda.
+
+(6) Ha az automatikus döntéshozatal során jogszabálysértő döntés születik, azt a Nemzeti Választási Iroda elnöke annak közlésétől számított tizenöt napon belül, legfeljebb egy ízben módosítja vagy visszavonja.

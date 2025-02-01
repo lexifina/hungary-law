@@ -6,6 +6,6 @@ a) az országos listás választás területi részeredményéről kiállított,
 
 b) a levélben szavazás eredményét megállapító jegyzőkönyv, valamint
 
-c) a választás egyéni választókerületi eredményéről kiállított, a 294. § (2) bekezdése szerinti jegyzőkönyvek
+c) a választás egyéni választókerületi eredményeit megállapító jogerős határozatok mellékletét képező, a 294. § (2) bekezdése szerinti jegyzőkönyvek
 
 alapján, legkésőbb a szavazást követő tizenkilencedik napon megállapítja a választás országos listás eredményét.

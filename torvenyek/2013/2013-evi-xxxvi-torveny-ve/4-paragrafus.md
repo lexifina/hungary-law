@@ -16,6 +16,6 @@ f) köteles pártatlanul végezni tevékenységét.
 
 (2) A Nemzeti Választási Iroda a nemzetközi megfigyelőkről nyilvántartást vezet. A nyilvántartás tartalmazza a nemzetközi megfigyelő nevét, születési helyét és idejét, valamint a megbízó nevét. A nemzetközi megfigyelők nevét, valamint a megbízó nevét a Nemzeti Választási Iroda a választások hivatalos honlapján közzéteszi.
 
-(3) A nemzetközi megfigyelő nyilvántartásba vételéről, valamint nyilvántartásból való törléséről a Nemzeti Választási Iroda elnöke dönt, a döntés ellen nincs helye jogorvoslatnak.
+(3) A nemzetközi megfigyelő nyilvántartásba vételéről, valamint nyilvántartásból való törléséről a Nemzeti Választási Iroda elnöke dönt, a döntés ellen nincs helye jogorvoslatnak. A Nemzeti Választási Iroda elnökének döntését a választások hivatalos honlapján közzé kell tenni.
 
 (4) A nemzetközi megfigyelőt a szavazást megelőző kilencedik napig kell bejelenteni a Nemzeti Választási Irodánál.

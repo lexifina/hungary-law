@@ -10,6 +10,8 @@ b) a szavazóköri eredmények összesítésére és a választási eredmény me
 
 hivatkozással lehet fellebbezést benyújtani.
 
-(3) Ha a (2) bekezdés a) pontja alapján benyújtott fellebbezés elbírálása csak a szavazatok újraszámlálása útján lehetséges, a fellebbezést elbíráló választási bizottság, illetve a bírósági felülvizsgálati kérelmet elbíráló bíróság köteles a szavazatokat újraszámlálni. A szavazatok újraszámlálása esetén a fellebbezés, illetve a bírósági felülvizsgálati kérelem elbírálására rendelkezésre álló határidő hat napra nő, és a választási bizottság vagy a bíróság a választási irodák tagjainak közreműködését igénybe veheti.
+(3) Ha a (2) bekezdés a) pontja alapján benyújtott fellebbezés elbírálása csak a szavazatok újraszámlálása útján lehetséges, a fellebbezést elbíráló választási bizottság, illetve a bírósági felülvizsgálati kérelmet elbíráló bíróság három napon belül elrendeli a szavazatok újraszámlálását.
 
-(4) Azt követően, hogy a szavazatszámláló bizottság megállapította a szavazóköri eredményt, a szavazatok újraszámlálására csak a (3) bekezdés alapján van lehetőség.
+(4) A szavazatok újraszámlálását az elrendelésétől számított három napon belül, de nem később, mint a jogorvoslati kérelem beérkezését követő hatodik napon 12 óráig a helyi választási bizottság végzi el, amely az újraszámláláshoz igénybe veheti a helyi választási iroda tagjainak közreműködését.
+
+(5) A helyi választási bizottság az újraszámlálás eredményét jegyzőkönyvi döntésbe foglalva haladéktalanul továbbítja az újraszámlálást elrendelő választási bizottság, illetve bíróság részére. A szavazatok újraszámlálása esetén a fellebbezés, illetve a bírósági felülvizsgálati kérelem elbírálására rendelkezésre álló határidő hat nap.

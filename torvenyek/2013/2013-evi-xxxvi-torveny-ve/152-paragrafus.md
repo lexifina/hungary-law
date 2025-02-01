@@ -1,4 +1,4 @@
-152. § (1) Ha a választási bizottság a kifogásnak helyt ad, a 218. § (2) bekezdése a)–c) pontjában foglalt jogkövetkezmények alkalmazásán túl kötelezi a médiatartalom-szolgáltatót, hogy határozata rendelkező részét
+152. § (1) Ha a választási bizottság a kifogásnak helyt ad, a 218. § (2) bekezdése a)–c) pontjában foglalt jogkövetkezmények alkalmazásán túl kötelezi a médiatartalom-szolgáltatót, hogy határozata 46. § c) pont ca) alpontja szerinti részét
 
 a) napilap és internetes sajtótermék, valamint lekérhető médiaszolgáltatás esetében a határozat közlésétől számított három napon belül, a jogsértő közléshez hasonló módon,
 
@@ -12,4 +12,4 @@ tegye közzé.
 
 (3) A bírság legmagasabb összege a kötelező legkisebb munkabér havi összegének ötvenszerese.
 
-(4) A 2. § (1) bekezdés c) pontjának megsértése időszaki kiadvány esetén akkor állapítható meg, ha az legalább két egymást követő lapszám együttes vizsgálata alapján fennállt a megjelölt bizonyítékok alapján.
+(4)

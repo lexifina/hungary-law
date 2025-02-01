@@ -4,11 +4,11 @@ a) a szavazatszámláló bizottságnak és a helyi választási bizottságnak cs
 
 b) az országgyűlési egyéni választókerületi választási bizottságnak csak az országgyűlési egyéni választókerületben,
 
-c) a területi választási bizottságnak csak a vármegyében, illetve fővárosban,
+c) a területi választási bizottságnak csak a vármegyében, illetve a fővárosban,
 
-d) a Nemzeti Választási Bizottságnak csak magyarországi
+d) a Nemzeti Választási Bizottságnak csak
 
-lakcímmel rendelkező, a központi névjegyzékben szereplő választópolgár lehet tagja.
+magyarországi lakcímmel rendelkező, a központi névjegyzékben szereplő választópolgár lehet tagja.
 
 (2) A választási bizottság választott tagja és a Nemzeti Választási Bizottság megbízott tagja az lehet, aki az országgyűlési képviselők választásán jelöltként indulhat.
 

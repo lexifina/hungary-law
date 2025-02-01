@@ -1,4 +1,4 @@
-94. § (1) A központi névjegyzékkel kapcsolatos kérelmet azonnal, de legfeljebb a benyújtásától, illetve az eljárás megindításától számított huszonnégy órán belül kell elbírálni.
+94. § (1)
 
 (2) A 93. § (5) bekezdése szerinti esetben a kérelmet a benyújtásától, illetve az eljárás megindításától számított három munkanapon belül kell elbírálni.
 

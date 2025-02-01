@@ -2,7 +2,7 @@
 
 (2) A sajtótermékben közzétett politikai hirdetésnek azonnal felismerhetőnek és más médiatartalmaktól megkülönböztethetőnek kell lennie. A politikai hirdetésen fel kell tüntetni megrendelőjének nevét és lakóhelyét, illetve székhelyét.
 
-(3) Amennyiben sajtótermék politikai hirdetést kíván közölni, a választás kitűzését követő 5 munkanapon belül az Állami Számvevőszékhez eljuttatja hirdetési szolgáltatásainak árjegyzékét, amelyet az nyilvántartásba vesz, és honlapján közzétesz. A sajtótermék ugyanezt az árjegyzékét a honlapján közzéteszi.
+(3) Amennyiben sajtótermék politikai hirdetést kíván közölni, a szavazást megelőző hatvanadik napig az Állami Számvevőszékhez eljuttatja hirdetési szolgáltatásainak árjegyzékét, amelyet az nyilvántartásba vesz, és honlapján közzétesz. A sajtótermék ugyanezt az árjegyzékét a honlapján közzéteszi.
 
 (4) Politikai hirdetést kizárólag olyan sajtótermék közölhet, amelynek hirdetési árjegyzékét az Állami Számvevőszék nyilvántartásba vette. Politikai hirdetés csak a nyilvántartásba vett árjegyzék által meghatározott ellenérték fejében közölhető. Magyarországon letelepedett kiadók sajtótermékei közül csak az közölhet politikai hirdetést, amely az Mttv. szerinti hatósági nyilvántartásban szerepel.
 

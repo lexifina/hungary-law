@@ -1,10 +1,10 @@
 ## 9/E. Automatikus döntéshozatal
 
-13/F. § (1) A Nemzeti Választási Iroda automatikus döntéshozatali eljárásban hozott határozattal vagy végzéssel – a c) és d) pont tekintetében hatósági bizonyítvány kiállításával – dönt
+13/F. § (1) A Nemzeti Választási Iroda azonnal, de legfeljebb a kérelem benyújtásától, illetve az eljárás megindításától számított huszonnégy órán belül automatikus döntéshozatali eljárásban hozott határozattal vagy végzéssel – a c) és d) pont tekintetében hatósági bizonyítvány kiállításával – dönt
 
 a) a központi névjegyzékkel és a szavazóköri névjegyzékkel kapcsolatos kérelemről,
 
-b) a központi névjegyzékből és a szavazóköri névjegyzékből történő hivatalbóli törlésről,
+b) a központi névjegyzékből és a szavazóköri névjegyzékből hivatalból történő törlésről,
 
 c) a 100. § (2) bekezdése szerinti kérelemről,
 

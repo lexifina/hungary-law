@@ -2,7 +2,7 @@
 
 120. § (1) Jelöltet ajánlani ajánlóíven lehet.
 
-(2) Az ajánlóívet a független jelöltként indulni szándékozó választópolgár, illetve a jogerősen nyilvántartásba vett jelölő szervezet a jelölt nyilvántartásba vételére illetékes választási bizottság mellett működő választási irodától igényelheti a választás kitűzését követően.
+(2) Az ajánlóívet a független jelöltként indulni szándékozó választópolgár, illetve a jogerősen nyilvántartásba vett jelölő szervezet a jelölt nyilvántartásba vételére illetékes választási bizottság mellett működő választási irodától igényelheti a szavazás napját megelőző hatvankilencedik napot követően.
 
 (3) Az ajánlóív iránti igénynek tartalmaznia kell a jelöltként indulni szándékozó választópolgár nevét, személyi azonosítóját, ennek hiányában személyazonosságát igazoló hatósági igazolványának számát lakcímét, továbbá nyilatkozatát arról, hogy
 

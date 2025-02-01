@@ -10,6 +10,8 @@ c) a helyi választási bizottságnak a 32. § (2) bekezdése, valamint a helyi 
 
 (2) A területi választási bizottság dönt az országgyűlési egyéni választókerületi választási bizottságnak a 32. § (2) bekezdése, a 124. § (2)–(3) bekezdése, valamint a 252. § (2) bekezdése alapján meghozott döntése elleni fellebbezésről.
 
+(2a) A 294. § (3) bekezdése szerinti részeredményt és a levélben szavazás 295. § szerinti eredményét megállapító döntés elleni jogorvoslatnak csak a Nemzeti Választási Bizottság választási eredményt megállapító döntése elleni bírósági felülvizsgálati kérelem keretében van helye.
+
 (3) A Nemzeti Választási Bizottság dönt
 
 a) minden olyan kifogásról, amely nem tartozik az (1) bekezdés b) pontja alá,
@@ -24,8 +26,8 @@ c) a területi választási bizottság 32. § (2) bekezdés szerinti döntése e
 
 a) a 294. § (2) bekezdése szerinti választáson keletkezett töredékszavazatok összesítésének,
 
-b) a 294. § (3) bekezdése szerinti részeredmények összesítésének, vagy
+b) a 294. § (3) bekezdése szerinti részeredmények megállapításának vagy összesítésének, vagy
 
-c) a 295. § szerinti szavazás eredményének az a) és b) pont alapján keletkezett részeredményekkel történő összesítésének
+c) a 295. § szerinti szavazás eredménye megállapításának vagy az a) és b) pont alapján keletkezett részeredményekkel történő összesítésének
 
 törvénysértő voltára, vagy a választási eredmény megállapítására vonatkozó szabályok megsértésére hivatkozással lehet bírósági felülvizsgálati kérelmet benyújtani.

@@ -16,6 +16,6 @@ a) az ajánlóív átadásával egyidejűleg,
 
 b) a jelölő szervezet kérésére a szavazást megelőző harmincnyolcadik és tizenharmadik napon, a 89. § (1) bekezdése szerint az adatai kiadását megtiltó választópolgárok adatainak kivételével
 
-ingyenesen átadja a jelölő szervezet számára a névjegyzékben a nemzetiség választópolgáraként szereplő választópolgárok nevét, lakcímét, életkorát és nemét.
+ingyenesen átadja a jelölő szervezet vagy a jelölt számára a névjegyzékben a nemzetiség választópolgáraként szereplő választópolgárok nevét, lakcímét, életkorát és nemét.
 
 (5) A (4) bekezdés a) pontja szerinti adatszolgáltatás adatait kizárólag az ajánlások gyűjtése, a (4) bekezdés b) pontja szerinti adatszolgáltatás adatait kizárólag közvetlen politikai kampány céljára lehet felhasználni. Az adatszolgáltatás adatainak kezelésére a 155. §-ban és a 218. § (2) bekezdés d) pontjában foglalt rendelkezéseket is alkalmazni kell.

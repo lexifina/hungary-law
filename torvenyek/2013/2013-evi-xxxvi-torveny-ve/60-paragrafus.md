@@ -18,7 +18,7 @@ e) összeférhetetlensége megállapításával.
 
 (5) A miniszterelnök a (3) és (4) bekezdés alapján megtett indítványát a köztársasági elnök és a Nemzeti Választási Iroda elnöke részére egyidejűleg megküldi.
 
-(6) A Nemzeti Választási Iroda elnöke az indítvány megalapozatlanságának megállapítása iránt az indítvány kézhezvételét követő harminc napon belül bírósághoz fordulhat, mely határidő elmulasztása esetén igazolásnak nincs helye. A bíróság eljárására a polgári perrendtartásról szóló törvénynek a munkaviszonyból és a munkaviszony jellegű jogviszonyból származó perekre vonatkozó rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy az ügyben a Fővárosi Munkaügyi és Közigazgatási Bíróság kizárólagos illetékességgel, soron kívül jár el, és a keresetet, valamint az ügy érdemében hozott jogerős döntését a bíróság a köztársasági elnökkel is közli.
+(6) A Nemzeti Választási Iroda elnöke az indítvány megalapozatlanságának megállapítása iránt az indítvány kézhezvételét követő harminc napon belül bírósághoz fordulhat, mely határidő elmulasztása esetén igazolásnak nincs helye. A bíróság eljárására a polgári perrendtartásról szóló törvénynek a munkaviszonyból és a munkaviszony jellegű jogviszonyból származó perekre vonatkozó rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy az ügyben a Fővárosi Törvényszék kizárólagos illetékességgel, soron kívül jár el, és a keresetet, valamint az ügy érdemében hozott jogerős döntését a bíróság a köztársasági elnökkel is közli.
 
 (7) A megbízatás az (1) bekezdés a) pontja szerinti megszűnése esetén a Nemzeti Választási Iroda elnökét a megszűnéskori havi illetménye háromszorosának megfelelő összegű külön illetmény illeti meg.
 

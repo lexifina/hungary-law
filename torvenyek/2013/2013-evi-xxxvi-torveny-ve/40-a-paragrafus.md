@@ -1,1 +1,1 @@
-40/A. § A Nemzeti Választási Bizottság ülése az elnök döntése alapján elektronikus kommunikációs eszköz igénybevételével is megtartható.
+40/A. § A választási bizottság ülése az elnök döntése alapján – az ülés nyilvánosságának megfelelő biztosítása mellett – elektronikus kommunikációs eszköz igénybevételével is megtartható, különösen, ha a választási bizottság határozatképessége másképp nem biztosítható.

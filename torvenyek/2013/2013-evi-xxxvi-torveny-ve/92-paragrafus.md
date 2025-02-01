@@ -6,7 +6,9 @@ b) születési nevét,
 
 c) születési helyét és idejét,
 
-d) személyi azonosítóját vagy személyazonosságának igazolására alkalmas hatósági igazolványának okmányszámát.
+d) személyi azonosítóját vagy személyazonosságának igazolására alkalmas hatósági igazolványának okmányszámát, valamint
+
+e) aláírását a kérelem 13/D. § (1) bekezdés b) pontja szerinti benyújtása esetén.
 
 (2) A kérelem 13/D. § (1) bekezdés a) pontja szerinti benyújtása esetén a kérelemnek az (1) bekezdés szerinti adatokat nem kell tartalmaznia.
 

@@ -1,4 +1,4 @@
-178. § (1) Ha a szavazásnak nincs akadálya, a szavazatszámláló bizottság a szavazóköri névjegyzék alapján a választópolgár részére átadja a szavazólapot, amelyet a választópolgár jelenlétében a bal felső sarkában bélyegzőlenyomattal lát el, valamint a szavazólap elhelyezésére szolgáló borítékot.
+178. § (1) Ha a szavazásnak nincs akadálya, a szavazatszámláló bizottság a szavazóköri névjegyzék alapján a választópolgár részére átadja a szavazólapot, amelyet a választópolgár jelenlétében a bal felső sarkában bélyegzőlenyomattal lát el, valamint – a választópolgár kérésére – a szavazólap elhelyezésére szolgáló borítékot.
 
 (2) A szavazatszámláló bizottság szükség esetén – a választópolgár befolyásolása nélkül – megmagyarázza a szavazás módját.
 

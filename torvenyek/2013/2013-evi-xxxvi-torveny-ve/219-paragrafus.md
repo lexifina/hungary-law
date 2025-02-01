@@ -2,4 +2,6 @@
 
 (2) A bírság legmagasabb összege természetes személy esetén a kötelező legkisebb munkabér havi összegének ötszöröse, egyébként a kötelező legkisebb munkabér havi összegének tizenötszöröse.
 
-(3) Ha a kötelezett a bírságot az azt kiszabó határozat jogerőre emelkedésétől számított tizenöt napon belül nem fizette meg, a Nemzeti Választási Iroda – önkéntes teljesítésre való felhívásban foglalt határidő eredménytelen elteltét követően – a bírság fennmaradó összegének adók módjára behajtandó köztartozásként történő behajtása érdekében megkeresi az állami adóhatóságot.
+(3) Ha a kötelezett a bírságot az azt kiszabó határozat jogerőre emelkedésétől számított tizenöt napon belül nem fizette meg, a Nemzeti Választási Iroda – az önkéntes teljesítésre való felhívásban foglalt határidő eredménytelen elteltét követően – a bírság fennmaradó összegének adók módjára behajtandó köztartozásként történő behajtása érdekében megkeresi az állami adóhatóságot, ha a tartozás kötelezettenkénti összege eléri vagy meghaladja az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény 106. § (1) bekezdése szerinti értékhatárt.
+
+(4) A bírságtartozás végrehajtásához való jog az esedékesség naptári évének utolsó napjától számított négy év elteltével évül el, amelyről az állami adóhatóság végzést állít ki. A végzés alapján elévült, államot megillető követelésekről, valamint a (3) bekezdés szerinti értékhatárt el nem érő, államot megillető követelésekről – az önkéntes teljesítésre történő felhívás nélkül – a Nemzeti Választási Iroda lemondhat.

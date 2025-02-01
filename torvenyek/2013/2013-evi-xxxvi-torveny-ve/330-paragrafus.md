@@ -21,3 +21,7 @@ a) minden olyan kifogásról, amely kifejezetten az országos nemzetiségi önko
 b) minden olyan kifogásról, amely nem tartozik az (1) bekezdés b) pontja vagy a (2) bekezdés a) pontja alá, és az elkövetés helye nem határozható meg,
 
 c) a területi választási bizottság döntése elleni fellebbezésről.
+
+(4) A 327. § (1) és (2) bekezdése szerinti szavazatszámlálás eredményét megállapító döntés, valamint a 329. § (3) bekezdése szerinti részeredményt megállapító döntés elleni jogorvoslatnak csak a választási bizottságnak a választási eredményt megállapító döntése elleni fellebbezés, illetve bírósági felülvizsgálati kérelem keretében van helye.
+
+(5) A (4) bekezdésben foglalt rendelkezést nem kell alkalmazni a települési nemzetiségi választás eredményét megállapító döntésre.

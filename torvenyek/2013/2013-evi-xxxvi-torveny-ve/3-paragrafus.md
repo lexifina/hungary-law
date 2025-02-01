@@ -40,7 +40,7 @@ ha a választási bizottság a jelölő szervezetek nyilvántartásába felvette
 
 13. település: a község, a város, járásszékhely város, megyei jogú város és a fővárosi kerület,
 
-14. települési szintű lakóhely: olyan lakóhely, amely esetében a polgárok személyi és lakcím adatait tartalmazó nyilvántartás a bejelentett település neve mellett a „lakcím nélküli” bejegyzést tartalmazza,
+14. települési szintű lakóhely: olyan lakóhely, amely esetében a polgárok személyi és lakcím adatait tartalmazó nyilvántartás csak a bejelentett település (fővárosi kerület) nevét tartalmazza,
 
 15. választási szerv: a választási bizottság és a választási iroda.
 

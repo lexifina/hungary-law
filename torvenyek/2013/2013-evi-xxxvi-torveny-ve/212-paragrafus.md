@@ -4,10 +4,12 @@
 
 a) a jogszabálysértés megjelölését,
 
-b) a jogszabálysértés bizonyítékait és
+b) a jogszabálysértés bizonyítékait,
 
 c) a kifogás benyújtójának nevét, lakcímét (székhelyét),
 
-d) a kifogás benyújtójának személyi azonosítóját, illetve ha a külföldön élő, magyarországi lakcímmel nem rendelkező választópolgár nem rendelkezik személyi azonosítóval, a személyazonosságát igazoló hatósági igazolványának típusát és számát, vagy jelölő szervezet vagy más szervezet esetében a bírósági nyilvántartásba vételi számát.
+d) a kifogás benyújtójának személyi azonosítóját, illetve ha a külföldön élő, magyarországi lakcímmel nem rendelkező választópolgár nem rendelkezik személyi azonosítóval, a személyazonosságát igazoló hatósági igazolványának típusát és számát, vagy jelölő szervezet vagy más szervezet esetében a bírósági nyilvántartásba vételi számát vagy törzskönyvi számát, valamint
+
+e) papír alapú kérelem esetén a kifogás benyújtójának aláírását.
 
 (3) A kifogás tartalmazhatja benyújtójának elektronikus levélcímét vagy postai értesítési címét.
