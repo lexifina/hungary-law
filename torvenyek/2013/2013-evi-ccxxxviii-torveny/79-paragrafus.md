@@ -9,3 +9,5 @@
 (4) A médiaszolgáltatók és a sajtó, illetve a filmszínházak választási kampányban való részvételével kapcsolatos kifogást a Nemzeti Választási Bizottság bírálja el. Körzeti és helyi, illetve lekérhető médiaszolgáltatással vagy nem országosan terjesztett sajtótermékkel kapcsolatos kifogást a médiatartalom-szolgáltató székhelye vagy lakóhelye szerint illetékes országgyűlési egyéni választókerületi választási bizottság bírálja el. E rendelkezés közös eljárás esetén is alkalmazandó.
 
 (5) A Ve. 233. § alkalmazása során az alkotmányjogi panasz benyújtására és az Alkotmánybíróság döntéseire rendelkezésre álló határidő öt munkanap; közös eljárás esetén az alkotmányjogi panasz benyújtására rendelkezésre álló határidő három nap, az Alkotmánybíróság döntéseire rendelkezésre álló határidő három munkanap.
+
+(6) A 77. § (2) bekezdés b) és c) pontja szerinti részeredményt megállapító döntés elleni jogorvoslatnak csak a Nemzeti Választási Bizottságnak a népszavazás eredményét megállapító döntése elleni bírósági felülvizsgálati kérelem keretében van helye.
