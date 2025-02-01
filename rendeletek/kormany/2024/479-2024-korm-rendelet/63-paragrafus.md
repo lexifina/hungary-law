@@ -1,5 +1,7 @@
-## 13.[^49]
+## 13. A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény végrehajtásáról szóló 154/2015. (VI. 19.) Korm. rendelet módosítása
 
-63. §
+63. § Hatályát veszti a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény végrehajtásáról szóló 154/2015. (VI. 19.) Korm. rendelet 1. melléklet „V. Büntetés-végrehajtási szervezet” pontjában foglalt táblázat
 
-[^49]: A 13. alcím a 83. § (2) bekezdése alapján 2025. február 1-jén lép hatályba.
+a) E:6. mezője, valamint
+
+b) E:10. mezője.
