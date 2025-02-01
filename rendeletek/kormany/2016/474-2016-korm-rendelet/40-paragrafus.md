@@ -1,3 +1,3 @@
-40. §[^113]
+40. §[^130]
 
-[^113]: A 40. § az 552/2022. (XII. 22.) Korm. rendelet 12. §-a alapján hatályát vesztette.
+[^130]: A 40. § az 552/2022. (XII. 22.) Korm. rendelet 12. §-a alapján hatályát vesztette.

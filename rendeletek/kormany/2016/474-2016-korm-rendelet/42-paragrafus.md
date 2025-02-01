@@ -1,6 +1,6 @@
-## 11.[^115] A Magyar Labdarúgó Szövetség feladatainak támogatása
+## 11.[^132] A Magyar Labdarúgó Szövetség feladatainak támogatása
 
-42. §[^116] A Magyar Labdarúgó Szövetség feladatainak támogatása előirányzat szerinti költségvetési támogatás a Magyar Labdarúgó Szövetség alapszabályában és stratégiájában nevesített feladatainak és programjainak végrehajtásával, ideértve
+42. §[^133] A Magyar Labdarúgó Szövetség feladatainak támogatása előirányzat szerinti költségvetési támogatás a Magyar Labdarúgó Szövetség alapszabályában és stratégiájában nevesített feladatainak és programjainak végrehajtásával, ideértve
 
 a) a szabadidős labdarúgás fejlesztésével és népszerűsítésével,
 
@@ -24,5 +24,5 @@ j) az a)–i) pontok szerinti feladatok ellátásával összefüggő irányítá
 
 összefüggő költségekre használható fel.
 
-[^115]: A 11. alcím címe az 552/2022. (XII. 22.) Korm. rendelet 15. §-ával megállapított szöveg.
-[^116]: A 42. § a 472/2020. (X. 29.) Korm. rendelet 11. §-ával megállapított, nyitó szövegrésze az 552/2022. (XII. 22.) Korm. rendelet 24. § n) pontja szerint módosított szöveg.
+[^132]: A 11. alcím címe az 552/2022. (XII. 22.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^133]: A 42. § a 472/2020. (X. 29.) Korm. rendelet 11. §-ával megállapított, nyitó szövegrésze az 552/2022. (XII. 22.) Korm. rendelet 24. § n) pontja szerint módosított szöveg.

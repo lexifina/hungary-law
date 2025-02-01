@@ -1,8 +1,8 @@
-## 13.[^118] A Sporteredmények, sportszakmai tevékenység, sportteljesítmények elismerése
+## 13.[^135] A Sporteredmények, sportszakmai tevékenység, sportteljesítmények elismerése
 
 44. § (1) A miniszter Gerevich Aladár-sportösztöndíjként kiemelt sportösztöndíjat és szövetségi sportösztöndíjat adományozhat az olimpiai, paralimpiai, sakkolimpiai, speciális világjáték-válogatott kerettag versenyző, valamint a felkészítésében közreműködő edző, szövetségi kapitány, válogatott vezetőedző és a versenyző felkészítésében közvetlenül részt vevő egyéb sportszakember [a (8)–(17) bekezdés alkalmazásában, a továbbiakban együtt: edző] részére.
 
-(2)[^119] A sportösztöndíj tárgyévi keretösszegét, a sportösztöndíjban részesíthető természetes személyek legnagyobb számát a miniszter állapítja meg. A kiemelt és a szövetségi sportösztöndíj feltételeit, kategóriáit és azok díjazását a miniszter szabályzat keretében határozza meg. A szövetségi sportösztöndíj keretét a miniszter a sportági eredményesség figyelembevételével és az érintett sportköztestület javaslatára figyelemmel határozza meg.
+(2)[^136] A sportösztöndíj tárgyévi keretösszegét, a sportösztöndíjban részesíthető természetes személyek legnagyobb számát a miniszter állapítja meg. A kiemelt és a szövetségi sportösztöndíj feltételeit, kategóriáit és azok díjazását a miniszter szabályzat keretében határozza meg. A szövetségi sportösztöndíj keretét a miniszter a sportági eredményesség figyelembevételével és az érintett sportköztestület javaslatára figyelemmel határozza meg.
 
 (3) A (8)–(17) bekezdésben meghatározott jogosultsági feltételek mellett sportösztöndíjra
 
@@ -22,7 +22,7 @@ a) az edzői tevékenység végzésére jogosító okirat honosított példány�
 
 b) a társadalombiztosítási jogviszony fennállásának igazolására alkalmas okirat másolatát,
 
-c)[^120] annak igazolását, hogy fizetési számlával rendelkezik, továbbá
+c)[^137] annak igazolását, hogy fizetési számlával rendelkezik, továbbá
 
 d) a tartózkodási engedélye másolatát – amelyből megállapítható, hogy legalább a munkaszerződés, munkavégzésre irányuló egyéb szerződés időtartamával megegyező időtartamban Magyarország területén jogszerűen tartózkodik –
 
@@ -44,7 +44,7 @@ c) az előző négy évben paralimpián érmes vagy világbajnokságon paralimpi
 
 d) a c) pont szerinti versenyzőt felkészítő edző.
 
-(9)[^121]
+(9)[^138]
 
 (10) A kiemelt sportösztöndíjban részesülő személyekről a miniszter
 
@@ -54,35 +54,35 @@ b) edző esetén a legjobb eredményt elért versenyzőjének eredményessége �
 
 figyelemmel dönt.
 
-(11)[^122] Egy személy versenyzőként vagy edzőként részesülhet költségvetési támogatásban.
+(11)[^139] Egy személy versenyzőként vagy edzőként részesülhet költségvetési támogatásban.
 
 (12) Szövetségi sportösztöndíjban részesíthető a (8) bekezdés hatálya alá nem tartozó felnőtt, valamint utánpótlás korosztályban induló versenyző, és a felkészítését végző edző.
 
-(13)[^123]
+(13)[^140]
 
-(14)[^124]
+(14)[^141]
 
 (15) A Magyar Speciális Olimpiai Szövetség részére biztosítandó sportösztöndíj-keret kizárólag edzők támogatására fordítható.
 
-(16)[^125] A szövetségi sportösztöndíj a sportszövetségek egyedi kérelme alapján kerül felhasználásra, a miniszter dönt a szövetségi ösztöndíjban részesülő személyekről és a sportösztöndíj összegéről.
+(16)[^142] A szövetségi sportösztöndíj a sportszövetségek egyedi kérelme alapján kerül felhasználásra, a miniszter dönt a szövetségi ösztöndíjban részesülő személyekről és a sportösztöndíj összegéről.
 
-(17)[^126] Az Stv. 58. § (2) bekezdésében meghatározott sportköztestületek, továbbá az érintett országos sportági szakszövetségek félévente egy alkalommal a miniszter részére javasolhatják az éves keretösszegen belül a költségvetési támogatás mértékének, valamint a támogatott személyek körének a módosítását.
+(17)[^143] Az Stv. 58. § (2) bekezdésében meghatározott sportköztestületek, továbbá az érintett országos sportági szakszövetségek félévente egy alkalommal a miniszter részére javasolhatják az éves keretösszegen belül a költségvetési támogatás mértékének, valamint a támogatott személyek körének a módosítását.
 
-(18)[^127] Gerevich Aladár-sportösztöndíjban részesülő személy egyidejűleg nem támogatható a Kiemelt Edzői Program keretében.
+(18)[^144] Gerevich Aladár-sportösztöndíjban részesülő személy egyidejűleg nem támogatható a Kiemelt Edzői Program keretében.
 
-(19)[^128] A Gerevich Aladár-sportösztöndíjban részesülő edzőnek – az ösztöndíjra jogosultságának időtartama alatt – részt kell vennie a miniszter által kijelölt szervezet által szervezett edzői továbbképzési rendszerben. Amennyiben az edző a miniszter által kijelölt szervezet által szervezett edzői továbbképzési rendszerben történő részvételt megtagadja, vagy annak felszólítás ellenére nem tesz eleget, a sportösztöndíjat a miniszter megvonhatja.
+(19)[^145] A Gerevich Aladár-sportösztöndíjban részesülő edzőnek – az ösztöndíjra jogosultságának időtartama alatt – részt kell vennie a miniszter által kijelölt szervezet által szervezett edzői továbbképzési rendszerben. Amennyiben az edző a miniszter által kijelölt szervezet által szervezett edzői továbbképzési rendszerben történő részvételt megtagadja, vagy annak felszólítás ellenére nem tesz eleget, a sportösztöndíjat a miniszter megvonhatja.
 
-(20)[^129]
+(20)[^146]
 
-[^118]: A 13. alcím címe az 552/2022. (XII. 22.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^119]: A 44. § (2) bekezdése az 56/2023. (II. 27.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^120]: A 44. § (4) bekezdés c) pontja a 206/2019. (VIII. 23.) Korm. rendelet 17. § c) pontja szerint módosított szöveg.
-[^121]: A 44. § (9) bekezdését az 56/2023. (II. 27.) Korm. rendelet 3. §-a hatályon kívül helyezte.
-[^122]: A 44. § (11) bekezdése az 56/2023. (II. 27.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^123]: A 44. § (13) bekezdését az 56/2023. (II. 27.) Korm. rendelet 3. §-a hatályon kívül helyezte.
-[^124]: A 44. § (14) bekezdését az 56/2023. (II. 27.) Korm. rendelet 3. §-a hatályon kívül helyezte.
-[^125]: A 44. § (16) bekezdése a 279/2018. (XII. 21.) Korm. rendelet 20. § (3) bekezdésével megállapított szöveg.
-[^126]: A 44. § (17) bekezdése a 279/2018. (XII. 21.) Korm. rendelet 20. § (3) bekezdésével megállapított szöveg.
-[^127]: A 44. § (18) bekezdését a 279/2018. (XII. 21.) Korm. rendelet 20. § (4) bekezdése iktatta be.
-[^128]: A 44. § (19) bekezdését a 472/2020. (X. 29.) Korm. rendelet 13. §-a iktatta be.
-[^129]: A 44. § (20) bekezdését a 472/2020. (X. 29.) Korm. rendelet 13. §-a iktatta be, az 56/2023. (II. 27.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^135]: A 13. alcím címe az 552/2022. (XII. 22.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^136]: A 44. § (2) bekezdése az 56/2023. (II. 27.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^137]: A 44. § (4) bekezdés c) pontja a 206/2019. (VIII. 23.) Korm. rendelet 17. § c) pontja szerint módosított szöveg.
+[^138]: A 44. § (9) bekezdését az 56/2023. (II. 27.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^139]: A 44. § (11) bekezdése az 56/2023. (II. 27.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^140]: A 44. § (13) bekezdését az 56/2023. (II. 27.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^141]: A 44. § (14) bekezdését az 56/2023. (II. 27.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^142]: A 44. § (16) bekezdése a 279/2018. (XII. 21.) Korm. rendelet 20. § (3) bekezdésével megállapított szöveg.
+[^143]: A 44. § (17) bekezdése a 279/2018. (XII. 21.) Korm. rendelet 20. § (3) bekezdésével megállapított szöveg.
+[^144]: A 44. § (18) bekezdését a 279/2018. (XII. 21.) Korm. rendelet 20. § (4) bekezdése iktatta be.
+[^145]: A 44. § (19) bekezdését a 472/2020. (X. 29.) Korm. rendelet 13. §-a iktatta be.
+[^146]: A 44. § (20) bekezdését a 472/2020. (X. 29.) Korm. rendelet 13. §-a iktatta be, az 56/2023. (II. 27.) Korm. rendelet 3. §-a hatályon kívül helyezte.

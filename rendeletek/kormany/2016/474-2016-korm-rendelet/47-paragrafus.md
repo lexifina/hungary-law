@@ -1,6 +1,6 @@
-## 16.[^132] Sportegészségügy, sporttudomány támogatása
+## 16.[^149] Sportegészségügy, sporttudomány támogatása
 
-47. §[^133] A Sportegészségügy, sporttudomány támogatása előirányzat terhére a sportegészségügyi ellátással összefüggésben nyújtott támogatás az alábbi költségekre fordítható:
+47. §[^150] A Sportegészségügy, sporttudomány támogatása előirányzat terhére a sportegészségügyi ellátással összefüggésben nyújtott támogatás az alábbi költségekre fordítható:
 
 a) az egyes válogatott keretek mellett tevékenykedő orvosok (keretorvosok), sportpszichológusok, masszőrök, gyógytornászok tevékenységének szakmai felügyeletéhez,továbbá orvosok (keretorvosok), gyógytornászok, sportpszichológusok, masszőrök foglalkoztatásához,
 
@@ -28,5 +28,5 @@ l) az olimpiai, paralimpiai és a Speciális Világjátékokra való felkészül
 
 m) egyéb, a sportegészségüggyel összefüggő feladatok ellátásához.
 
-[^132]: A 16. alcím címe az 552/2022. (XII. 22.) Korm. rendelet 17. §-ával megállapított szöveg.
-[^133]: A 47. § nyitó szövegrésze a 658/2023. (XII. 28.) Korm. rendelet 5. § 23. pontja szerint módosított szöveg.
+[^149]: A 16. alcím címe az 552/2022. (XII. 22.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^150]: A 47. § nyitó szövegrésze a 658/2023. (XII. 28.) Korm. rendelet 5. § 23. pontja szerint módosított szöveg.
