@@ -60,7 +60,7 @@ c) ilyen személyként – miniszteri rendelet alapján létrehozott Veterán Gr
 
 (2) Az e törvény által meghatározott adatokról az egyes nyilvántartások személyi köre tekintetében, törvényekben meghatározott jogok érvényesítése és kötelezettségek teljesítése céljából elektronikus, illetve papíralapú nyilvántartást kell vezetni. Az adatkezelés alapelveinek megfelelően, különböző jogosultsági szintű hozzáféréssel biztosított az egyes szakterületek nyilvántartásai számára az azokban szereplő adatok kezelése.
 
-(3) Az egyes adatkezelők az általuk nyilvántartott adatok alapjául szolgáló eredeti iratokat vagy másolatait kezelik.
+(3) Az egyes adatkezelők az általuk nyilvántartott adatok alapjául szolgáló eredeti iratokat vagy azok másolatait vagy a digitális állampolgárság szolgáltató által hitelesített egyenértékű dokumentumokat kezelik.
 
 (4) Az e törvény szerint kezelt adatokat a minisztérium adatvédelmi és információszabadsággal összefüggő feladatokat ellátó szervezeti egységének kijelölt állománya, valamint az adatkezelő honvédelmi szervezet adatvédelmi tisztviselője az adatkezelési szabályok betartásának ellenőrzéséhez szükséges mértékben megismeri.
 
