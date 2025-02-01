@@ -1,3 +1,3 @@
-14. melléklet a 285/2024. (IX. 30.) Korm. rendelethez[^327]
+14. melléklet a 285/2024. (IX. 30.) Korm. rendelethez[^334]
 
-[^327]: A 14. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^334]: A 14. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

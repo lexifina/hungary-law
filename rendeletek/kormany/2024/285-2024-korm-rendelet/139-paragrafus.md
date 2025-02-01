@@ -1,3 +1,3 @@
-139. §[^156]
+139. §[^163]
 
-[^156]: A 139. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^163]: A 139. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

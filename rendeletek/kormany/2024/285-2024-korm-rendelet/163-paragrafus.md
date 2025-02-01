@@ -1,3 +1,3 @@
-163. §[^180]
+163. §[^187]
 
-[^180]: A 163. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^187]: A 163. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

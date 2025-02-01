@@ -1,3 +1,3 @@
-10. melléklet a 285/2024. (IX. 30.) Korm. rendelethez[^323]
+10. melléklet a 285/2024. (IX. 30.) Korm. rendelethez[^330]
 
-[^323]: A 10. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^330]: A 10. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

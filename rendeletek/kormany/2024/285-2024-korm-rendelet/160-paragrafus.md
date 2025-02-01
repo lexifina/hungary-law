@@ -1,3 +1,3 @@
-160. §[^177]
+160. §[^184]
 
-[^177]: A 160. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^184]: A 160. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

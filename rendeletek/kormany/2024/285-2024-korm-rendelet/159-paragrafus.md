@@ -1,3 +1,3 @@
-159. §[^176]
+159. §[^183]
 
-[^176]: A 159. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^183]: A 159. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

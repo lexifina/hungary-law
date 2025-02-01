@@ -1,3 +1,3 @@
-5. melléklet a 285/2024. (IX. 30.) Korm. rendelethez[^318]
+5. melléklet a 285/2024. (IX. 30.) Korm. rendelethez[^325]
 
-[^318]: Az 5. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^325]: Az 5. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

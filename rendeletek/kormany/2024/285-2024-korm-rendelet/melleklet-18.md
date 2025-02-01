@@ -1,3 +1,3 @@
-18. melléklet a 285/2024. (IX. 30.) Korm. rendelethez[^331]
+18. melléklet a 285/2024. (IX. 30.) Korm. rendelethez[^338]
 
-[^331]: A 18. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^338]: A 18. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

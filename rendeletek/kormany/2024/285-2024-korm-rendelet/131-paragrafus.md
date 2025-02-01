@@ -1,3 +1,3 @@
-131. §[^148]
+131. §[^155]
 
-[^148]: A 131. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^155]: A 131. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

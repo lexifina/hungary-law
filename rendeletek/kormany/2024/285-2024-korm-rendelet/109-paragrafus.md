@@ -1,3 +1,3 @@
-109. §[^127]
+109. §[^133]
 
-[^127]: A 109. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^133]: A 109. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

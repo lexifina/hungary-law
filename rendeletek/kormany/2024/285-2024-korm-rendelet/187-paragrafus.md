@@ -1,205 +1,205 @@
 187. § A 419/2021. (VII. 15.) Korm. rendelet
 
-1.[^204]
+1.[^211]
 
-2.[^205]
+2.[^212]
 
-3.[^206]
+3.[^213]
 
-4.[^207]
+4.[^214]
 
-5.[^208]
+5.[^215]
 
-6.[^209]
+6.[^216]
 
-7.[^210]
+7.[^217]
 
-8.[^211]
+8.[^218]
 
-9.[^212]
+9.[^219]
 
-10.[^213]
+10.[^220]
 
-11.[^214]
+11.[^221]
 
-12.[^215]
+12.[^222]
 
-13.[^216]
+13.[^223]
 
-14.[^217]
+14.[^224]
 
-15.[^218]
+15.[^225]
 
-16.[^219]
+16.[^226]
 
-17.[^220]
+17.[^227]
 
-18.[^221]
+18.[^228]
 
-19.[^222]
+19.[^229]
 
-20.[^223]
+20.[^230]
 
-21.[^224]
+21.[^231]
 
-22.[^225]
+22.[^232]
 
-23.[^226]
+23.[^233]
 
-24.[^227]
+24.[^234]
 
-25.[^228]
+25.[^235]
 
-26.[^229]
+26.[^236]
 
-27.[^230]
+27.[^237]
 
-28.[^231]
+28.[^238]
 
-29.[^232]
+29.[^239]
 
-30.[^233]
+30.[^240]
 
-31.[^234]
+31.[^241]
 
-32.[^235]
+32.[^242]
 
-33.[^236]
+33.[^243]
 
-34.[^237]
+34.[^244]
 
-35.[^238]
+35.[^245]
 
-36.[^239]
+36.[^246]
 
-37.[^240]
+37.[^247]
 
-38.[^241]
+38.[^248]
 
-39.[^242]
+39.[^249]
 
-40.[^243]
+40.[^250]
 
-41.[^244]
+41.[^251]
 
-42.[^245]
+42.[^252]
 
-43.[^246]
+43.[^253]
 
-44.[^247]
+44.[^254]
 
-45.[^248]
+45.[^255]
 
-46.[^249]
+46.[^256]
 
-47.[^250]
+47.[^257]
 
-48.[^251]
+48.[^258]
 
-49.[^252]
+49.[^259]
 
-50.[^253]
+50.[^260]
 
-51.[^254]
+51.[^261]
 
-52.[^255]
+52.[^262]
 
-53.[^256]
+53.[^263]
 
-54.[^257]
+54.[^264]
 
-55.[^258]
+55.[^265]
 
-56.[^259]
+56.[^266]
 
-57.[^260]
+57.[^267]
 
-58.[^261]
+58.[^268]
 
-59.[^262]
+59.[^269]
 
-60.[^263]
+60.[^270]
 
-61.[^264]
+61.[^271]
 
-62.[^265]
+62.[^272]
 
-63.[^266]
+63.[^273]
 
-64.[^267]
+64.[^274]
 
-65.[^268]
+65.[^275]
 
-66.[^269]
+66.[^276]
 
-67.[^270]
+67.[^277]
 
 lép.
 
-[^204]: A 187. § 1. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^205]: A 187. § 2. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^206]: A 187. § 3. pontja a 202. § (4) bekezdése alapján 2027. július 1-jén lép hatályba.
-[^207]: A 187. § 4. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^208]: A 187. § 5. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^209]: A 187. § 6. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^210]: A 187. § 7. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^211]: A 187. § 8. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^212]: A 187. § 9. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^213]: A 187. § 10. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^214]: A 187. § 11. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^215]: A 187. § 12. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^216]: A 187. § 13. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^217]: A 187. § 14. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^218]: A 187. § 15. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^219]: A 187. § 16. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^220]: A 187. § 17. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^221]: A 187. § 18. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^222]: A 187. § 19. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^223]: A 187. § 20. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^224]: A 187. § 21. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^225]: A 187. § 22. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^226]: A 187. § 23. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^227]: A 187. § 24. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^228]: A 187. § 25. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^229]: A 187. § 26. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^230]: A 187. § 27. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^231]: A 187. § 28. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^232]: A 187. § 29. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^233]: A 187. § 30. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^234]: A 187. § 31. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^235]: A 187. § 32. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^236]: A 187. § 33. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^237]: A 187. § 34. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^238]: A 187. § 35. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^239]: A 187. § 36. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^240]: A 187. § 37. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^241]: A 187. § 38. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^242]: A 187. § 39. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^243]: A 187. § 40. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^244]: A 187. § 41. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^245]: A 187. § 42. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^246]: A 187. § 43. pontja a 202. § (4) bekezdése alapján 2027. július 1-jén lép hatályba.
-[^247]: A 187. § 44. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^248]: A 187. § 45. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^249]: A 187. § 46. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^250]: A 187. § 47. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^251]: A 187. § 48. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^252]: A 187. § 49. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^253]: A 187. § 50. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^254]: A 187. § 51. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^255]: A 187. § 52. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^256]: A 187. § 53. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^257]: A 187. § 54. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^258]: A 187. § 55. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^259]: A 187. § 56. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^260]: A 187. § 57. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^261]: A 187. § 58. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^262]: A 187. § 59. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^263]: A 187. § 60. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^264]: A 187. § 61. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^265]: A 187. § 62. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^266]: A 187. § 63. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^267]: A 187. § 64. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^268]: A 187. § 65. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^269]: A 187. § 66. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^270]: A 187. § 67. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^211]: A 187. § 1. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^212]: A 187. § 2. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^213]: A 187. § 3. pontja a 202. § (4) bekezdése alapján 2027. július 1-jén lép hatályba.
+[^214]: A 187. § 4. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^215]: A 187. § 5. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^216]: A 187. § 6. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^217]: A 187. § 7. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^218]: A 187. § 8. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^219]: A 187. § 9. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^220]: A 187. § 10. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^221]: A 187. § 11. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^222]: A 187. § 12. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^223]: A 187. § 13. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^224]: A 187. § 14. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^225]: A 187. § 15. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^226]: A 187. § 16. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^227]: A 187. § 17. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^228]: A 187. § 18. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^229]: A 187. § 19. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^230]: A 187. § 20. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^231]: A 187. § 21. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^232]: A 187. § 22. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^233]: A 187. § 23. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^234]: A 187. § 24. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^235]: A 187. § 25. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^236]: A 187. § 26. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^237]: A 187. § 27. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^238]: A 187. § 28. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^239]: A 187. § 29. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^240]: A 187. § 30. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^241]: A 187. § 31. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^242]: A 187. § 32. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^243]: A 187. § 33. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^244]: A 187. § 34. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^245]: A 187. § 35. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^246]: A 187. § 36. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^247]: A 187. § 37. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^248]: A 187. § 38. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^249]: A 187. § 39. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^250]: A 187. § 40. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^251]: A 187. § 41. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^252]: A 187. § 42. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^253]: A 187. § 43. pontja a 202. § (4) bekezdése alapján 2027. július 1-jén lép hatályba.
+[^254]: A 187. § 44. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^255]: A 187. § 45. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^256]: A 187. § 46. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^257]: A 187. § 47. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^258]: A 187. § 48. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^259]: A 187. § 49. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^260]: A 187. § 50. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^261]: A 187. § 51. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^262]: A 187. § 52. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^263]: A 187. § 53. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^264]: A 187. § 54. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^265]: A 187. § 55. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^266]: A 187. § 56. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^267]: A 187. § 57. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^268]: A 187. § 58. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^269]: A 187. § 59. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^270]: A 187. § 60. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^271]: A 187. § 61. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^272]: A 187. § 62. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^273]: A 187. § 63. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^274]: A 187. § 64. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^275]: A 187. § 65. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^276]: A 187. § 66. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^277]: A 187. § 67. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

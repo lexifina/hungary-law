@@ -1,13 +1,5 @@
 ## 50. A Budapest Főváros Kormányhivatalának egyes ipari és kereskedelmi ügyekben eljáró hatóságként történő kijelöléséről, valamint a területi mérésügyi és műszaki biztonsági hatóságokról szóló 365/2016. (XI. 29.) Korm. rendelet módosítása
 
-122. § A Budapest Főváros Kormányhivatalának egyes ipari és kereskedelmi ügyekben eljáró hatóságként történő kijelöléséről, valamint a területi mérésügyi és műszaki biztonsági hatóságokról szóló 365/2016. (XI. 29.) Korm. rendelet a következő 11/B. alcímmel egészül ki:
+122. §[^146]
 
-„11/B. Az egységes elektronikus közműnyilvántartásról szóló kormányrendelet szerinti felügyeleti hatóság kijelölése és a felügyeleti hatósági tevékenységre vonatkozó különös szabályok
-
-22/B. § (1) A Kormány a 0,5 MW névleges teljesítőképességet el nem érő, napenergiát előállító erőmű engedélyköteles közművezetéke tekintetében az egységes elektronikus közműnyilvántartásról szóló kormányrendelet szerinti felügyeleti hatóságként az 1. melléklet szerinti műszaki biztonsági feladatkörében eljáró fővárosi és vármegyei kormányhivatalt jelöli ki.
-
-(2) Az (1) bekezdésben kijelölt felügyeleti hatóság illetékességének megállapítása során a 22. § (3) és (3a) bekezdésében meghatározott illetékességi szabályokat megfelelően alkalmazni kell.
-
-(3) A műszaki biztonsági hatóság ellenőrzi a 0,5 MW névleges teljesítőképességet el nem érő, napenergiát előállító erőművek közművezeték-üzemeltetőinek az egységes elektronikus közműnyilvántartásról szóló kormányrendeletben meghatározott adatszolgáltatási és a közműegyeztetés során nyilatkozattételi kötelezettségének az egységes elektronikus közműnyilvántartási rendszer felé történő teljesítését. Az adatszolgáltatás vagy a nyilatkozattétel nem vagy nem megfelelő teljesítése esetén a műszaki biztonsági hatóság kötelezi a szolgáltatókat az adatszolgáltatási vagy nyilatkozattételi kötelezettség teljesítésére.
-
-(4) A felügyeleti hatóság az egységes elektronikus közműnyilvántartásról szóló kormányrendeletben meghatározott jogkövetkezményeket alkalmazza az ott leírtak szerint. A felügyeleti hatóság által kiszabott bírság összegére tekintettel a közművezeték-üzemeltető a szolgáltatásért megállapított díjat nem emelheti.”
+[^146]: A 122. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

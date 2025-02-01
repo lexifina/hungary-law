@@ -1,3 +1,3 @@
-198. §[^310]
+198. §[^317]
 
-[^310]: A 198. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^317]: A 198. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

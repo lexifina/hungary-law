@@ -1,5 +1,3 @@
-96. § Hatályát veszti a 324/2013. (VIII. 29.) Korm. rendelet
+96. §[^120]
 
-a) 11. § (4) és (5) bekezdése,
-
-b) 12–14. §-a.
+[^120]: A 96. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

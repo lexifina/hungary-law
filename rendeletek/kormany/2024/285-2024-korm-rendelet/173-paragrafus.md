@@ -1,3 +1,3 @@
-173. §[^190]
+173. §[^197]
 
-[^190]: A 173. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^197]: A 173. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

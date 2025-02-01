@@ -1,5 +1,5 @@
 ## 54. Az állami beruházások központi nyilvántartásáról és ellenőrzéséről, valamint az állami vagyonnal való gazdálkodásról szóló 254/2007. (X. 4.) Korm. rendelet módosításáról szóló 469/2016. (XII. 23.) Korm. rendelet módosítása
 
-133. §[^150]
+133. §[^157]
 
-[^150]: A 133. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^157]: A 133. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

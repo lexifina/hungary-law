@@ -1,3 +1,3 @@
-184. §[^201]
+184. §[^208]
 
-[^201]: A 184. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^208]: A 184. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

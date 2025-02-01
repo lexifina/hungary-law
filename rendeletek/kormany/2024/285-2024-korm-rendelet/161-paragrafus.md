@@ -1,3 +1,3 @@
-161. §[^178]
+161. §[^185]
 
-[^178]: A 161. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^185]: A 161. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

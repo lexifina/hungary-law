@@ -1,3 +1,3 @@
-129. §[^146]
+129. §[^153]
 
-[^146]: A 129. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^153]: A 129. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

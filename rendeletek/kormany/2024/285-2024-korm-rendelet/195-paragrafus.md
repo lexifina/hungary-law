@@ -1,3 +1,3 @@
-195. §[^307]
+195. §[^314]
 
-[^307]: A 195. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^314]: A 195. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

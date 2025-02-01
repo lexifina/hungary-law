@@ -1,5 +1,5 @@
 ## 32. Az egységes elektronikus közműnyilvántartásról szóló 324/2013. (VIII. 29.) Korm. rendelet módosítása
 
-92. § Az egységes elektronikus közműnyilvántartásról szóló 324/2013. (VIII. 29.) Korm. rendelet [a továbbiakban: 324/2013. (VIII. 29.) Korm. rendelet] 2. § 9. pontja helyébe a következő rendelkezés lép:
+92. §[^116]
 
-(E rendelet alkalmazásában)
+[^116]: A 92. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

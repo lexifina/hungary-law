@@ -1,3 +1,3 @@
-155. §[^172]
+155. §[^179]
 
-[^172]: A 155. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^179]: A 155. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
