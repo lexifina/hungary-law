@@ -1,1 +1,3 @@
-7. § Hatályát veszti a közlekedési hatóság által végzett vasúti hatósági eljárások igazgatási szolgáltatási díjairól szóló 72/2006. (IX. 29.) GKM rendelet.
+7. §[^1]
+
+[^1]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
