@@ -1,3 +1,3 @@
-2. § A konzuli költségekről szóló 5/2010. (XII. 31.) KüM rendelet 10. §-a helyébe a következő rendelkezés lép:
+2. §[^3]
 
-„10. § Okiratbeszerzés esetében a Mellékletben foglalt táblázat 24. sora szerinti díjat kell szedni, amelyet okiratonként kell megfizetni.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-7. § A konzuli költségekről szóló 5/2010. (XII. 31.) KüM rendelet 21. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+7. §[^8]
 
-(A konzuli szolgálat a megfizetett konzuli költséget hivatalból, vagy a kérelmező kérelmére visszatéríti, ha)
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
