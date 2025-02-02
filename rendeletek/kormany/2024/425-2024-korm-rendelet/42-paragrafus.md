@@ -1,3 +1,5 @@
 ## 20. A hatósági jogalkalmazást elősegítő egyes közlekedési tárgyú kormányrendeletek módosításáról szóló 251/2024. (VIII. 22.) Korm. rendelet módosítása
 
-42. § Nem lép hatályba a hatósági jogalkalmazást elősegítő egyes közlekedési tárgyú kormányrendeletek módosításáról szóló 251/2024. (VIII. 22.) Korm. rendelet 55. § (3) bekezdése és 9. melléklete.
+42. §[^44]
+
+[^44]: A 42. § a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
