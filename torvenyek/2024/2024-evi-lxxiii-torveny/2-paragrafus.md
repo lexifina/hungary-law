@@ -1,1 +1,1 @@
-2. § Az illetékekről szóló 1990. évi XCIII. törvény 1. § (2) bekezdés nyitó szövegrészében az „e törvényben megállapított illetéken felül” szövegrész helyébe az „e törvényben megállapított illetéken vagy jogszabályban megállapított igazgatási szolgáltatási díjon felül” szöveg lép.
+### 2. §
