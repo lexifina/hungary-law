@@ -1,5 +1,5 @@
 ## 4. A bírósági végrehajtási eljárásban felszámítandó általános költségátalány mértékéről és megfizetésének szabályairól szóló 2/2022. (I. 20.) SZTFH rendelet módosítása
 
-18. § A bírósági végrehajtási eljárásban felszámítandó általános költségátalány mértékéről és megfizetésének szabályairól szóló 2/2022. (I. 20.) SZTFH rendelet (a továbbiakban: R3.) 1. § (2) bekezdése helyébe a következő rendelkezés lép:
+18. §[^19]
 
-„(2) Az általános költségátalány mértéke 600 000 forintot meg nem haladó végrehajtási ügyérték esetén ügyenként 6000 forint, 600 000 forint feletti végrehajtási ügyérték esetén az ügyérték 1%-a.”
+[^19]: A 18. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-19. § Az R3. 8. § (3) bekezdésében az „5 évig” szövegrész helyébe a „8 évig” szöveg lép.
+19. §[^20]
+
+[^20]: A 19. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
