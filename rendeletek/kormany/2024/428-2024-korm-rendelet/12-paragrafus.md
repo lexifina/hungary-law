@@ -1,1 +1,3 @@
-12. § Hatályát veszti a Nemzeti Sportügynökség Nonprofit Zártkörűen Működő Részvénytársaság feladatainak meghatározásáról, valamint az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet és a központi beszerző szerv kijelöléséről, a védelmi és biztonsági feladatokkal összefüggő beszerzések körének meghatározásáról és a védelmi és biztonsági feladatokkal összefüggő beszerzések központosított rendszeréről szóló 329/2019. (XII. 20.) Korm. rendelet módosításáról szóló 602/2022. (XII. 28.) Korm. rendelet 2–4. §-a.
+12. §[^6]
+
+[^6]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
