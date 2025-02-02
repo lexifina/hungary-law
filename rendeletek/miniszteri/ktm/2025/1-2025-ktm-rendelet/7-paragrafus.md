@@ -1,1 +1,3 @@
-7. § Hatályát veszti a közigazgatási és területfejlesztési miniszter feladat- és hatáskörét érintően a nemzetbiztonsági ellenőrzés alá eső munkakörök meghatározásáról szóló 2/2024. (III. 5.) KTM rendelet.
+7. §[^2]
+
+[^2]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
