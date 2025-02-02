@@ -1,3 +1,1 @@
-69. § A Ve. 327. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Több szavazókörös településen a helyi választási bizottság a szavazatszámlálás elvégzéséhez igénybe veheti póttagja, választott szavazatszámláló bizottsági tag, továbbá a helyi választási iroda tagjainak közreműködését. A területi választási bizottság a szavazatszámlálás elvégzéséhez igénybe veheti póttagja, továbbá a területi választási iroda tagjainak közreműködését. A szavazatszámlálás során a választási bizottság tagjain és a közreműködőkön kívül a 187. §-ban és a 311. § (2a) bekezdésében meghatározott személyek lehetnek jelen.”
+### 69. §
