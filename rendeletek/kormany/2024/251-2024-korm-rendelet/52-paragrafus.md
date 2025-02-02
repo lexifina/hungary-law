@@ -1,3 +1,3 @@
-52. § A 326/2011. (XII. 28.) Korm. rendelet 92. §-a a következő (9) bekezdéssel egészül ki:
+52. §[^53]
 
-„(9) A (7) bekezdésben meghatározott ideiglenes forgalomban tartási engedély egy járműre egy évben legfeljebb öt alkalommal adható ki.”
+[^53]: Az 52. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

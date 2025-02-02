@@ -1,5 +1,5 @@
 ## 18. A Közlekedési Alkalmassági és Vizsgaközpont kijelöléséről és feladatainak meghatározásáról szóló 284/2018. (XII. 21.) Korm. rendelet módosítása
 
-78. §[^74]
+78. §[^79]
 
-[^74]: A 78. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^79]: A 78. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

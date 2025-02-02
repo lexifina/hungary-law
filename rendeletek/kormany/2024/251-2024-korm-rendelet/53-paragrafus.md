@@ -1,3 +1,3 @@
-53. § A 326/2011. (XII. 28.) Korm. rendelet 121. §-a a következő i) ponttal egészül ki:
+53. §[^54]
 
-(Ez a rendelet a következő európai uniós jogi aktusoknak való megfelelést szolgálja:)
+[^54]: Az 53. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
