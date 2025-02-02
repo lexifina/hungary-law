@@ -1,1 +1,3 @@
-6. § Hatályát veszti a nemzetközi közúti áru- és személyszállítási engedélyek és meghatározott okmányok kiadásának díjairól szóló 55/2002. (XII. 29.) GKM rendelet.
+6. §[^1]
+
+[^1]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
