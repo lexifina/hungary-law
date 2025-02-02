@@ -1,3 +1,3 @@
-5. § (1) A 24/2023. (XII. 13.) EM rendelet 1. melléklete helyébe az 1. melléklet lép.
+5. §[^6]
 
-(2) A 24/2023. (XII. 13.) EM rendelet 2. melléklete helyébe a 2. melléklet lép.
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
