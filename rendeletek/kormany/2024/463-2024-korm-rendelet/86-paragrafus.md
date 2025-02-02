@@ -1,3 +1,3 @@
-86. §[^81]
+86. §[^87]
 
-[^81]: A 86. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^87]: A 86. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

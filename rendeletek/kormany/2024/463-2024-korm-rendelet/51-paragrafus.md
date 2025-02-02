@@ -1,5 +1,5 @@
 ## 18. A gyógyszerek és orvostechnikai eszközök közbeszerzésének sajátos szabályairól szóló 16/2012. (II. 16.) Korm. rendelet módosítása
 
-51. § A gyógyszerek és orvostechnikai eszközök közbeszerzésének sajátos szabályairól szóló 16/2012. (II. 16.) Korm. rendelet [a továbbiakban: 16/2012. (II. 16.) Korm. rendelet] 2. §-a a következő 2a. ponttal egészül ki:
+51. §[^52]
 
-(E rendelet alkalmazásában:)
+[^52]: Az 51. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

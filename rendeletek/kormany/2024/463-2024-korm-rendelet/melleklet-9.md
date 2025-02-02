@@ -1,3 +1,3 @@
-9. melléklet a 463/2024. (XII. 30.) Korm. rendelethez[^91]
+9. melléklet a 463/2024. (XII. 30.) Korm. rendelethez[^97]
 
-[^91]: A 9. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^97]: A 9. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

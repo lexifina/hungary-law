@@ -1,3 +1,3 @@
-10. melléklet a 463/2024. (XII. 30.) Korm. rendelethez[^92]
+10. melléklet a 463/2024. (XII. 30.) Korm. rendelethez[^98]
 
-[^92]: A 10. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^98]: A 10. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
