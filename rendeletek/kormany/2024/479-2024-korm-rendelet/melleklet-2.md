@@ -1,3 +1,3 @@
-2. melléklet a 479/2024. (XII. 31.) Korm. rendelethez[^70]
+2. melléklet a 479/2024. (XII. 31.) Korm. rendelethez[^71]
 
-[^70]: A 2. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^71]: A 2. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
