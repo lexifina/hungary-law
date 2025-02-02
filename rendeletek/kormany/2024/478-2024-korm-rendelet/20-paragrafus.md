@@ -1,3 +1,3 @@
-20. § A 326/2011. (XII. 28.) Korm. rendelet 31. § (1) bekezdése helyébe a következő rendelkezés lép:
+20. §[^20]
 
-„(1) Az elkészült vezetői engedélyt a Nyilvántartó a kérelmező részére – a (4) bekezdésben meghatározott kivétellel – igazgatási szolgáltatási díj ellenében könyvelt postai küldeményként küldi meg az ügyfél által megadott belföldi kézbesítési címre. Az így át nem vett okmányt az értesítési cím szerint illetékes közlekedési igazgatási hatóságnak kell megküldeni, amely hatóság azt a kiállítástól számított hatvan napig őrzi meg, ezt követően selejtezi, és az erre feljogosított adatfeldolgozó részére megsemmisítésre megküldi.”
+[^20]: A 20. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

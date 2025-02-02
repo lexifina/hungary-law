@@ -1,3 +1,3 @@
-25. § A 414/2015. (XII. 23.) Korm. rendelet 7. alcím címe helyébe a következő alcím cím lép:
+25. §[^25]
 
-„7. Az állandó személyazonosító igazolvány kiadása a külföldre utazási korlátozás hatálya alatt állók részére”
+[^25]: A 25. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

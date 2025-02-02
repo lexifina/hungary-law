@@ -1,9 +1,3 @@
-16. § Hatályát veszti a 101/1998. (V. 22.) Korm. rendelet
+16. §[^16]
 
-a) 7. § (1) bekezdés c) pontja,
-
-b) 13. § (1) bekezdésében az „és 21/D. §-ában” szövegrész,
-
-c) 13. § (2a) bekezdése,
-
-d) 20. §-a és a 20. §-t megelőző alcím címe.
+[^16]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
