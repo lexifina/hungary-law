@@ -1,3 +1,5 @@
-1. § (1) A Szabályozott Tevékenységek Felügyeleti Hatósága mint a kiberbiztonsági tanúsításról és a kiberbiztonsági felügyeletről szóló 2023. évi XXIII. törvény (a továbbiakban: Kibertan.tv.) 22. § (1) bekezdése szerinti kiberbiztonsági felügyeletet ellátó hatóság (a továbbiakban: felügyeleti hatóság) kiberbiztonsági felügyeleti tevékenysége keretében végzi a Kibertan.tv. 17. § (1) bekezdése szerinti érintett szervezet (a továbbiakban: érintett szervezet) vonatkozásában a Kibertan.tv. 26. § (1) bekezdése szerinti nyilvántartás vezetését.
+1. § (1)[^1] A Szabályozott Tevékenységek Felügyeleti Hatósága mint a Magyarország kiberbiztonságáról szóló 2024. évi LXIX. törvény (a továbbiakban: Kiberbiztonsági tv.) 23. § (1) bekezdés b) pontja szerinti kiberbiztonsági hatóság (a továbbiakban: felügyeleti hatóság) kiberbiztonsági felügyeleti tevékenysége keretében végzi a Kiberbiztonsági tv. 1. § (1) bekezdés b), d) és e) pontja szerinti szervezet (a továbbiakban együtt: szervezet) vonatkozásában a Kiberbiztonsági tv. 29. § (1) bekezdés a) pontja szerinti nyilvántartás (a továbbiakban: nyilvántartás) vezetését.
 
 (2) A felügyeleti hatóság eljárása a felügyeleti hatóság által e célra rendszeresített elektronikus űrlapon kezdeményezhető.
+
+[^1]: Az 1. § (1) bekezdése a 2/2025. (I. 31.) SZTFH rendelet 7. §-ával megállapított szöveg.
