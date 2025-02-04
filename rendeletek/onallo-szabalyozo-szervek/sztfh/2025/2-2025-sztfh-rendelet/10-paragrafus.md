@@ -1,1 +1,3 @@
-10. § Hatályát veszti az R. 2. § (2) bekezdés d) pont db) alpontjában a „valamint az ahhoz kapcsolódó szolgáltatás megnevezését,” szövegrész.
+10. §[^8]
+
+[^8]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
