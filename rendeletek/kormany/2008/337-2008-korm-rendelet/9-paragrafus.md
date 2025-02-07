@@ -1,3 +1,3 @@
-9. §[^177]
+9. §[^178]
 
-[^177]: A 9. §-t és az azt megelőző alcímet a 125/2013. (IV. 26.) Korm. rendelet 13. § b) pontja hatályon kívül helyezte.
+[^178]: A 9. §-t és az azt megelőző alcímet a 125/2013. (IV. 26.) Korm. rendelet 13. § b) pontja hatályon kívül helyezte.

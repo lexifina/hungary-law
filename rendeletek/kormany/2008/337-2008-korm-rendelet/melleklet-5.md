@@ -72,6 +72,6 @@
 
 | 36. |  | Pest vármegyéből: a) Nagykőrös, b) Kocsér, c) Nyársapát |
 
-5. számú melléklet a 337/2008. (XII. 30.) Korm. rendelethez[^296]
+5. számú melléklet a 337/2008. (XII. 30.) Korm. rendelethez[^306]
 
-[^296]: Az 5. számú mellékletet a 325/2011. (XII. 28.) Korm. rendelet 71. § (2) bekezdése iktatta be.
+[^306]: Az 5. számú mellékletet a 325/2011. (XII. 28.) Korm. rendelet 71. § (2) bekezdése iktatta be.

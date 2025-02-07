@@ -272,24 +272,33 @@
 
 | 135 | 7201 | logopédia |
 
-| 136 | 7202 | gyógypedagógia |
+| 136[^296] | 7202 | gyógypedagógia |
 
-| 137 | 7203 | konduktori tevékenység |
+| 137[^297] | 7203 | konduktori tevékenység |
 
-| 137 | 7308 | szülésznői ellátás (intézeti) |
+| 138[^298] | 7308 | szülésznői ellátás (intézeti) |
 
-| 139 | 7311 | klinikai fogászati higiénia |
+| 139[^299] | 7311 | klinikai fogászati higiénia |
 
-| 140 | 7600 | dietetika |
+| 140[^300] | 7600 | dietetika |
 
-| 141 | 8101 | hippoterápia |
+| 141[^301] | 8101 | hippoterápia |
 
-| 142 | 8102 | gyógypedagógiai lovaglás és lovastorna |
+| 142[^302] | 8102 | gyógypedagógiai lovaglás és lovastorna |
 
-| 142 | 8103 | pszichológiai lovasterápia |
+| 143[^303] | 8103 | pszichológiai lovasterápia |
 
-| 143 | 9504 | egészségbiztosítási orvostan |
+| 144[^304] | 9504 | egészségbiztosítási orvostan |
 
-4. számú melléklet a 337/2008. (XII. 30.) Korm. rendelethez[^295]
+4. számú melléklet a 337/2008. (XII. 30.) Korm. rendelethez[^305]
 
-[^295]: A 4. számú mellékletet a 325/2011. (XII. 28.) Korm. rendelet 71. § (1) bekezdése iktatta be, szövege a 447/2012. (XII. 29.) Korm. rendelet 55. § (3) bekezdésével megállapított, a 371/2020. (VII. 30.) Korm. rendelet 16. §-a, a 616/2022. (XII. 29.) Korm. rendelet 96. § b) és c) pontja szerint módosított szöveg.
+[^296]: A 3. mellékletben foglalt táblázat 136. sora a 8/2025. (II. 6.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^297]: A 3. mellékletben foglalt táblázat 137. sora a 8/2025. (II. 6.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^298]: A 3. mellékletben foglalt táblázat 138. sora a 8/2025. (II. 6.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^299]: A 3. mellékletben foglalt táblázat 139. sora a 8/2025. (II. 6.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^300]: A 3. mellékletben foglalt táblázat 140. sora a 8/2025. (II. 6.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^301]: A 3. mellékletben foglalt táblázat 141. sora a 8/2025. (II. 6.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^302]: A 3. mellékletben foglalt táblázat 142. sora a 8/2025. (II. 6.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^303]: A 3. mellékletben foglalt táblázat 143. sora a 8/2025. (II. 6.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^304]: A 3. mellékletben foglalt táblázat 144. sorát a 8/2025. (II. 6.) Korm. rendelet 6. §-a iktatta be.
+[^305]: A 4. számú mellékletet a 325/2011. (XII. 28.) Korm. rendelet 71. § (1) bekezdése iktatta be, szövege a 447/2012. (XII. 29.) Korm. rendelet 55. § (3) bekezdésével megállapított, a 371/2020. (VII. 30.) Korm. rendelet 16. §-a, a 616/2022. (XII. 29.) Korm. rendelet 96. § b) és c) pontja szerint módosított szöveg.

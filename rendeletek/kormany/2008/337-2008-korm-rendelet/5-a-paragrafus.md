@@ -50,17 +50,17 @@ e) a PIC ellátások esetében.
 
 (5e)[^110] Nem kell ellátási területet megállapítani
 
-a)[^111] a 2. számú melléklet A) rész 26/a., 28., 28/a., 29., 53. és 57. pontja szerinti ellátások,
+a)[^111] a 2. számú melléklet A) rész 20., 22., 23., 32., 52., 67., 69. sora szerinti ellátások,
 
-b) a 3. számú melléklet 6/a., 16/a., 55., 118., 119., 121., 123–127., 139–141., 143–144. és 145. pontja szerinti ellátások, valamint
+b)[^112] a 3. számú melléklet 113., 114., 116., 117., 118., 119., 120., 121., 133., 134., 135., 136., 137., 138., 139., 140., 141., 142., 143. sora szerinti ellátások, valamint
 
 c) az egynapos ellátások
 
 esetében.
 
-(5f)[^112] A HIV fertőzött betegek gondozását a jogszabályban nevesített egészségügyi szolgáltatók ellátási terület nélkül végzik.
+(5f)[^113] A HIV fertőzött betegek gondozását a jogszabályban nevesített egészségügyi szolgáltatók ellátási terület nélkül végzik.
 
-(6)[^113] A CT diagnosztika és az MRI diagnosztika szakmában az ellátási területet nem kell progresszivitási szintenként meghatározni.
+(6)[^114] A CT diagnosztika és az MRI diagnosztika szakmában az ellátási területet nem kell progresszivitási szintenként meghatározni.
 
 [^94]: Az 5/A. §-t megelőző alcímet a 363/2010. (XII. 30.) Korm. rendelet 6. §-a iktatta be.
 [^95]: Az 5/A. §-t a 363/2010. (XII. 30.) Korm. rendelet 6. §-a iktatta be.
@@ -79,6 +79,7 @@ esetében.
 [^108]: Az 5/A. § (5d) bekezdését a 107/2012. (VI. 1.) Korm. rendelet 6. §-a iktatta be.
 [^109]: Az 5/A. § (5d) bekezdés c) pontja a 616/2022. (XII. 29.) Korm. rendelet 96. § a) pontja szerint módosított szöveg.
 [^110]: Az 5/A. § (5e) bekezdését a 107/2012. (VI. 1.) Korm. rendelet 6. §-a iktatta be, szövege a 286/2023. (VI. 30.) Korm. rendelet 31. §-ával megállapított szöveg.
-[^111]: Az 5/A. § (5e) bekezdés a) pontja az 532/2023. (XII. 5.) Korm. rendelet 3. §-a szerint módosított szöveg.
-[^112]: Az 5/A. § (5f) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 48. § (2) bekezdése iktatta be.
-[^113]: Az 5/A. § (6) bekezdését a 192/2015. (VII. 21.) Korm. rendelet 40. §-a iktatta be.
+[^111]: Az 5/A. § (5e) bekezdés a) pontja az 532/2023. (XII. 5.) Korm. rendelet 3. §-a, a 8/2025. (II. 6.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
+[^112]: Az 5/A. § (5e) bekezdés b) pontja a 8/2025. (II. 6.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
+[^113]: Az 5/A. § (5f) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 48. § (2) bekezdése iktatta be.
+[^114]: Az 5/A. § (6) bekezdését a 192/2015. (VII. 21.) Korm. rendelet 40. §-a iktatta be.

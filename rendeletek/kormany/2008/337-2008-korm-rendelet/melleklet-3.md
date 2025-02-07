@@ -174,8 +174,8 @@
 
 | 16 | 7310 | gyermek palliatív ellátás |
 
-3. számú melléklet a 337/2008. (XII. 30.) Korm. rendelethez[^294]
+3. számú melléklet a 337/2008. (XII. 30.) Korm. rendelethez[^295]
 
 Járóbeteg-szakellátásban finanszírozható szakmák köre
 
-[^294]: A 3. számú mellékletet a 360/2009. (XII. 30.) Korm. rendelet 11. § (2) bekezdése iktatta be, szövege a 463/2024. (XII. 30.) Korm. rendelet 37. § (2) bekezdésével megállapított szöveg.
+[^295]: A 3. számú mellékletet a 360/2009. (XII. 30.) Korm. rendelet 11. § (2) bekezdése iktatta be, szövege a 463/2024. (XII. 30.) Korm. rendelet 37. § (2) bekezdésével megállapított szöveg.
