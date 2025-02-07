@@ -110,7 +110,7 @@
 
 45h.[^253] a rádióspektrum 5875–5935 MHz frekvenciasávjának az intelligens közlekedési rendszerek (ITS) biztonsággal összefüggő alkalmazásai tekintetében történő harmonizált használatáról és a 2008/671/EK határozat hatályon kívül helyezéséről szóló, 2020. október 7-i (EU) 2020/1426 bizottsági végrehajtási határozatnak,
 
-45i.[^254] a rádióspektrum 5945–6425 MHz-es frekvenciasávjának vezeték nélküli hozzáférési rendszerek – többek között rádiós helyi hálózatok – (WAS/RLAN-ok) megvalósítására történő harmonizált használatáról szóló, 2021. június 17-i (EU) 2021/1067 bizottsági végrehajtási határozatnak,
+45i.[^254] a rádióspektrum 5945–6425 MHz-es frekvenciasávjának vezeték nélküli hozzáférési rendszerek – többek között rádiós helyi hálózatok – (WAS/RLAN-ok) megvalósítására történő harmonizált használatáról szóló, 2021. június 17-i (EU) 2021/1067 bizottsági végrehajtási határozatnak és az azt módosító (EU) 2024/3157 bizottsági végrehajtási határozatnak,
 
 45j.[^255] a 874,4–880,0 MHz és a 919,4–925,0 MHz párosított frekvenciasávnak, valamint az 1900–1910 MHz párosítatlan frekvenciasávnak a vasúti mozgó rádió általi harmonizált használatáról szóló, 2021. szeptember 28-i (EU) 2021/1730 bizottsági végrehajtási határozatnak,
 
@@ -186,7 +186,7 @@ való megfelelést szolgálja.
 [^251]: A 13. § (1) bekezdés 45f. pontját a 6/2019. (XII. 23.) NMHH rendelet 2. §-a iktatta be, szövege az 1/2022. (IV. 6.) NMHH rendelet 6. § (1) bekezdés b) pont bb) alpontja szerint módosított szöveg.
 [^252]: A 13. § (1) bekezdés 45g. pontját a 6/2019. (XII. 23.) NMHH rendelet 2. §-a iktatta be, szövege a 12/2024. (XI. 13.) NMHH rendelet 3. § a) pont aa) alpontja szerint módosított szöveg.
 [^253]: A 13. § (1) bekezdés 45h. pontját a 18/2020. (XII. 17.) NMHH rendelet 4. § (2) bekezdése iktatta be.
-[^254]: A 13. § (1) bekezdés 45i. pontját az 1/2022. (IV. 6.) NMHH rendelet 4. §-a iktatta be.
+[^254]: A 13. § (1) bekezdés 45i. pontját az 1/2022. (IV. 6.) NMHH rendelet 4. §-a iktatta be, szövege a 2/2025. (II. 6.) NMHH rendelet 2. §-a szerint módosított szöveg.
 [^255]: A 13. § (1) bekezdés 45j. pontját a 7/2022. (IX. 22.) NMHH rendelet 4. §-a iktatta be.
 [^256]: A 13. § (1) bekezdés 45k. pontját a 7/2022. (IX. 22.) NMHH rendelet 4. §-a iktatta be.
 [^257]: A 13. § (1) bekezdés 45l. pontját a 7/2022. (IX. 22.) NMHH rendelet 4. §-a iktatta be, szövege a 3/2024. (I. 29.) NMHH rendelet 4. § (1) bekezdés d) pont db) alpontja szerint módosított szöveg.
