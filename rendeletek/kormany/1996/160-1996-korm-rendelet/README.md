@@ -42,3 +42,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-160-20-
 | 2023-08-01 | 1996-160-20-22.47 | 314/2023. (VII. 17.) Korm. rendelet |
 | 2024-01-01 | 1996-160-20-22.48 | 597/2023. (XII. 21.) Korm. rendelet |
 | 2024-12-17 | 1996-160-20-22.49 | 395/2024. (XII. 16.) Korm. rendelet |
+| 2025-02-08 | 1996-160-20-22.50 | 597/2023. (XII. 21.) Korm. rendelet |

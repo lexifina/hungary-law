@@ -52,7 +52,7 @@
 
 ## s)[^115] az Európai Uniós Ügyek Minisztériumának a miniszter elhelyezését biztosító épülete.
 
-## t)[^116] a Közigazgatási és Területfejlesztési Minisztériumnak a miniszter elhelyezését biztosító épülete.
+## t)[^116] a Miniszterelnöki Kabinetirodát vezető miniszter elhelyezését biztosító épület.
 
 2. melléklet a 160/1996. (XI. 5.) Korm. rendelethez[^117]
 
@@ -200,7 +200,7 @@ A védett személy gyógyintézeti ellátására kijelölhető intézmények
 [^113]: Az 1. melléklet 2. pont q) alpontját a 322/2022. (VIII. 18.) Korm. rendelet 1. §-a iktatta be, szövege a 215/2023. (VI. 1.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^114]: Az 1. melléklet 2. pont r) alpontját a 215/2023. (VI. 1.) Korm. rendelet 1. §-a iktatta be.
 [^115]: Az 1. melléklet 2. pont s) alpontját a 314/2023. (VII. 17.) Korm. rendelet 2. §-a iktatta be.
-[^116]: Az 1. melléklet 2. pont t) alpontját az 597/2023. (XII. 21.) Korm. rendelet 5. §-a iktatta be.
+[^116]: Az 1. melléklet 2. pont t) alpontját az 597/2023. (XII. 21.) Korm. rendelet 5. §-a iktatta be, szövege a 9/2025. (II. 7.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^117]: A 2. mellékletet a 63/2010. (III. 18.) Korm. rendelet 11. § (2) bekezdése iktatta be, szövege a 165/2017. (VI. 28.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^118]: A 2. melléklet 12. pontja a 616/2022. (XII. 29.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
 [^119]: A 2. melléklet 21. pontja a 616/2022. (XII. 29.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
