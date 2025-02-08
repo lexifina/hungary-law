@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-46-20-1
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2005-07-16 | 2002-46-20-15.2 | 46/2002. (X. 10.) HM–BM–IM–MeHVM együttes rendelet |
+| 2025-02-08 | 2002-46-20-15.3 | 26/2005. (VII. 11.) HM–BM–IM–MeHVM együttes rendelet |
