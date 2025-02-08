@@ -32,8 +32,10 @@
 
 | 15. | Fáy András Református Általános Iskola és Alapfokú Művészeti Iskola fejlesztése | Gomba belterület 617 helyrajzi számú ingatlan | kivitelezés kezdetétől 2026. 12. 31-ig |
 
-4. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^224]
+| 16. | Miskolctapolca Barlangfürdő rekonstrukció | Miskolc 46294/1 helyrajzi számú ingatlan | A kivitelezés megkezdésétől 2025. július 31-ig |
+
+4. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^226]
 
 A 2. mellékletben foglalt táblázat 8. sora szerinti beruházással érintett ingatlan Egységes Országos Vetületi Rendszerben megadott koordináták által lehatárolt része
 
-[^224]: A 4. mellékletet újonnan az 590/2021. (X. 20.) Korm. rendelet 5. §-a iktatta be.
+[^226]: A 4. mellékletet újonnan az 590/2021. (X. 20.) Korm. rendelet 5. §-a iktatta be.
