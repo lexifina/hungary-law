@@ -1,3 +1,3 @@
-6. §[^6]
+6. § (1) Halasztást nem tűrő – különösen a terhelt egészségét veszélyeztető – esetben a terhelt mozgását nyomon követő technikai eszköz eltávolításáról az előírt magatartási szabályok megtartásának ellenőrzését végző parancsnok is rendelkezhet. Az előírt magatartási szabályok megtartásának ellenőrzését végző parancsnok a technikai eszköz eltávolítását követően az 5. § (1) bekezdés a), b) vagy c) pontja szerint biztosítja a terhelt megfelelő ellenőrzését, és a technikai eszköz eltávolításának okáról, körülményeiről haladéktalanul tájékoztatja a büntetőeljárást folytató bíróságot, ügyészséget vagy nyomozó hatóságot.
 
-[^6]: A 6. § a 8. § (2) bekezdése alapján 2025. február 8-án lép hatályba.
+(2) A terhelt mozgását nyomon követő technikai eszköz üzemzavara vagy üzemszünete esetén, a bíróság eltérő rendelkezése hiányában, az előírt magatartási szabályok megtartásának ellenőrzését végző parancsnok az 5. § (1) bekezdés a), b) vagy c) pontja szerint biztosítja a terhelt megfelelő ellenőrzését, és az üzemzavar, üzemszünet okáról és körülményeiről haladéktalanul tájékoztatja a büntetőeljárást folytató bíróságot, ügyészséget vagy nyomozó hatóságot.

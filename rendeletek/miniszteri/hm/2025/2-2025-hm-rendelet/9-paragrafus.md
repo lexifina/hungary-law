@@ -1,3 +1,1 @@
-9. §[^8]
-
-[^8]: A 9. § a 8. § (2) bekezdése alapján 2025. február 8-án lép hatályba.
+9. § E rendelet hatálybalépését követően a katona tekintetében nem alkalmazható a szoros felügyelet alá helyezés végrehajtásának, valamint a katonával szemben elrendelt lakhelyelhagyási tilalom ellenőrzésének szabályairól szóló 46/2002. (X. 10.) HM–BM–IM–MeHVM együttes rendelet.
