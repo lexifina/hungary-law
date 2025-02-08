@@ -1,1 +1,3 @@
-6. § Az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény végrehajtásáról szóló 337/2008. (XII. 30.) Korm. rendelet [a továbbiakban: 337/2008. (XII. 30.) Korm. rendelet] 3. számú melléklete a 2. melléklet szerint módosul.
+6. §[^2]
+
+[^2]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
