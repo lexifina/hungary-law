@@ -18,7 +18,7 @@ e)[^6] a határon átnyúló tartási ügyben a kirendelt ügyvédi óradíj ké
 
 (4)[^8] Büntetőeljárásban a fél helyett az állam által kifizetendő pártfogó ügyvédi munkadíj a vádemelésig a kirendelt ügyvédi óradíj tízszeresének megfelelő összeg.
 
-(5) A pernyertes fél pártfogó ügyvédjét a bírósági eljárásban megállapítható ügyvédi költségekről szóló 32/2003. (VIII. 22.) IM rendelet 3. § (2)–(5) bekezdésében foglaltak szerint megállapított összegű munkadíj illeti meg azzal, hogy a pártfogó ügyvéd akkor is kérheti a bírósági eljárásban megállapítható ügyvédi költségekről szóló 32/2003. (VIII. 22.) IM rendelet 3. § (3) bekezdése szerint a munkadíja megállapítását, ha a pertárgy értéke meghatározható. A pernyertes fél pártfogó ügyvédjének a munkadíja nem lehet kevesebb, mint az (1)–(3) bekezdés szerint megállapítható összeg.
+(5)[^9] A pernyertes fél pártfogó ügyvédjét a bírósági eljárásban megállapítható ügyvédi és kamarai jogtanácsosi költségről szóló 17/2024. (XII. 9.) IM rendelet [a továbbiakban: 17/2024. (XII. 9.) IM rendelet] 3. §-ában foglaltak szerint megállapított összegű munkadíj illeti meg, azzal, hogy a pártfogó ügyvéd akkor is kérheti a 17/2024. (XII. 9.) IM rendelet 3. § (2) bekezdése szerint a munkadíja megállapítását, ha a pertárgy értéke meghatározható. A pernyertes fél pártfogó ügyvédjének a munkadíja nem lehet kevesebb, mint az (1)–(3) bekezdés szerint megállapítható összeg.
 
 (6) Ha az eljárás (1)–(4) bekezdésben megjelölt szakaszain belül több pártfogó ügyvéd járt el, a munkadíjat, költségtérítést közöttük arányosan – a képviselet időtartama vagy erre irányuló kérelem esetén az elvégzett munka arányában – kell megosztani. Mindegyik pártfogó ügyvéd jogosult legalább a kirendelt ügyvédi óradíj összegének megfelelő összegű munkadíjra. Ebben az esetben az (1)–(4) bekezdés szerinti összeghatár túlléphető a munkadíj megállapítása során.
 
@@ -28,3 +28,4 @@ e)[^6] a határon átnyúló tartási ügyben a kirendelt ügyvédi óradíj ké
 [^6]: A 3. § (1) bekezdés e) pontját a 10/2020. (VII. 15.) IM rendelet 12. § (2) bekezdése iktatta be.
 [^7]: A 3. § (2) bekezdése a 18/2018. (VI. 28.) IM rendelet 5. § b) pontja szerint módosított szöveg.
 [^8]: A 3. § (4) bekezdése a 18/2021. (XII. 23.) IM rendelet 28. § a) pontja szerint módosított szöveg.
+[^9]: A 3. § (5) bekezdése a 17/2024. (XII. 9.) IM rendelet 8. §-ával megállapított szöveg.
