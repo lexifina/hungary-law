@@ -1,1 +1,3 @@
-10. § Hatályát veszti a bírósági eljárásban megállapítható ügyvédi költségekről szóló 32/2003. (VIII. 22.) IM rendelet.
+10. §[^3]
+
+[^3]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

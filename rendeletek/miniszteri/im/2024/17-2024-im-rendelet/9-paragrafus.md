@@ -1,3 +1,3 @@
-9. § A pártfogó ügyvéd, az ügygondnok és a kirendelt védő részére megállapítható díjról szóló 32/2017. (XII. 27.) IM rendelet 5. § (1) bekezdése helyébe a következő rendelkezés lép:
+9. §[^2]
 
-„(1) A polgári és közigazgatási bírósági eljárásban kirendelt ügygondnokot (a továbbiakban az 5. és 6. § alkalmazásában: ügygondnok) – a (2) bekezdésben foglalt kivétellel – a 17/2024. (XII. 9.) IM rendelet 3. §-ában foglaltak szerint illeti meg munkadíj, azzal, hogy az ügygondnok akkor is kérheti a 17/2024. (XII. 9.) IM rendelet 3. § (2) bekezdése szerint a munkadíja megállapítását, ha a pertárgy értéke meghatározható. Az ügygondnok munkadíja nem lehet kevesebb, mint a (2) bekezdés szerint megállapítható összeg.”
+[^2]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

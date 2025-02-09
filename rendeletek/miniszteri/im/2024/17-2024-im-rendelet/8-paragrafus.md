@@ -1,3 +1,3 @@
-8. § A pártfogó ügyvéd, az ügygondnok és a kirendelt védő részére megállapítható díjról szóló 32/2017. (XII. 27.) IM rendelet 3. § (5) bekezdése helyébe a következő rendelkezés lép:
+8. §[^1]
 
-„(5) A pernyertes fél pártfogó ügyvédjét a bírósági eljárásban megállapítható ügyvédi és kamarai jogtanácsosi költségről szóló 17/2024. (XII. 9.) IM rendelet [a továbbiakban: 17/2024. (XII. 9.) IM rendelet] 3. §-ában foglaltak szerint megállapított összegű munkadíj illeti meg, azzal, hogy a pártfogó ügyvéd akkor is kérheti a 17/2024. (XII. 9.) IM rendelet 3. § (2) bekezdése szerint a munkadíja megállapítását, ha a pertárgy értéke meghatározható. A pernyertes fél pártfogó ügyvédjének a munkadíja nem lehet kevesebb, mint az (1)–(3) bekezdés szerint megállapítható összeg.”
+[^1]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
