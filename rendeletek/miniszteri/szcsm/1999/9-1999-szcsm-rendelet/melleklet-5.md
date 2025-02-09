@@ -1,3 +1,3 @@
-5. számú melléklet a 9/1999. (XI. 24.) SZCSM rendelethez[^82]
+5. számú melléklet a 9/1999. (XI. 24.) SZCSM rendelethez[^83]
 
-[^82]: Az 5. számú mellékletet a 27/2010. (XII. 30.) NEFMI rendelet 12. § g) pontja hatályon kívül helyezte.
+[^83]: Az 5. számú mellékletet a 27/2010. (XII. 30.) NEFMI rendelet 12. § g) pontja hatályon kívül helyezte.
