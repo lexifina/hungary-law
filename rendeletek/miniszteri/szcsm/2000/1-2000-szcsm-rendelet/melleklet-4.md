@@ -34,6 +34,6 @@
 
 | 15 | asszisztens | - mentálhigiénés asszisztens - szociális asszisztens - szociális és gyermekvédelmi szakasszisztens - szociális és mentálhigiénés szakgondozó |  |  |  |  |
 
-4. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^471]
+4. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^472]
 
-[^471]: A 4. számú mellékletet a 4/2019. (II. 27.) EMMI rendelet 21. § b) pontja hatályon kívül helyezte.
+[^472]: A 4. számú mellékletet a 4/2019. (II. 27.) EMMI rendelet 21. § b) pontja hatályon kívül helyezte.

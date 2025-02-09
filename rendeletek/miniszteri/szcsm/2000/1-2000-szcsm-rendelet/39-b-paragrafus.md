@@ -1,4 +1,4 @@
-## 39/B. §[^176] A támogató szolgáltatás
+## 39/B. §[^177] A támogató szolgáltatás
 
 a) gondozás,
 
@@ -18,4 +18,4 @@ h) esetkezelés
 
 szolgáltatási elemeket biztosít.
 
-[^176]: A 39/B. §-t a 26/2010. (XII. 30.) NEFMI rendelet 11. § d) pontja hatályon kívül helyezte, újonnan az 1/2017. (II. 14.) EMMI rendelet 36. §-a iktatta be.
+[^177]: A 39/B. §-t a 26/2010. (XII. 30.) NEFMI rendelet 11. § d) pontja hatályon kívül helyezte, újonnan az 1/2017. (II. 14.) EMMI rendelet 36. §-a iktatta be.

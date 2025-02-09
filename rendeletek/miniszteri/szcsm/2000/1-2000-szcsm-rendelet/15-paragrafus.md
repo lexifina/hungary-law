@@ -52,7 +52,8 @@ b) amelyre azonos rendeltetésre, a kérelem benyújtását megelőző egy éven
 
 c) amelyben korábban is szociális intézmény működött, a korábbi engedélyes törlése a bejegyzés iránti kérelem benyújtását megelőző három hónapon belül vált végrehajthatóvá, a korábbi engedélyest (lakhatási szolgáltatást biztosító ingatlant) nem e feltételek hiánya miatt törölték a szolgáltatói nyilvántartásból, és az eljárás során nem jut a működést engedélyező szerv tudomására olyan adat, amely e feltételek teljesítését kétségessé teszi.
 
-(7) A tűzvédelmi feltételek vizsgálatát az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló kormányrendelet szabályozza.
+(7)[^85] A tűzvédelmi feltételek vizsgálatát a szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok hatósági nyilvántartásáról és ellenőrzéséről szóló kormányrendelet szabályozza.
 
 [^83]: A 15. §-t megelőző alcímet a 7/2018. (II. 5.) EMMI rendelet 5. §-a iktatta be.
 [^84]: A 15. §-t a 3/2008. (IV. 15.) SZMM rendelet 14. § (1) bekezdésének a) pontja hatályon kívül helyezte, újonnan a 7/2018. (II. 5.) EMMI rendelet 5. §-a iktatta be.
+[^85]: A 15. § (7) bekezdése a 4/2025. (II. 6.) BM rendelet 8. §-ával megállapított szöveg.

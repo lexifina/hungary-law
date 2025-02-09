@@ -2,7 +2,7 @@
 
 ## A SZOCIÁLIS ELLÁTÁSOK FELADATAINAK SEGÍTÉSE
 
-111. §[^418] (1) Az alapszolgáltatást és szakosított ellátást nyújtó szolgáltatók és intézmények a szociális ágazat irányítását végző miniszter által jóváhagyott és a Szociális Ágazati Portálon közzétett szakmai módszereket alkalmazva járnak el.
+111. §[^419] (1) Az alapszolgáltatást és szakosított ellátást nyújtó szolgáltatók és intézmények a szociális ágazat irányítását végző miniszter által jóváhagyott és a Szociális Ágazati Portálon közzétett szakmai módszereket alkalmazva járnak el.
 
 (2) A szociálpolitikáért felelős miniszter a Szociális Ágazati Portálon közzéteszi
 
@@ -34,12 +34,12 @@
 
 14. a szociális diagnózis elkészítése
 
-15.[^419] a fogyatékos személyek nappali ellátása,
+15.[^420] a fogyatékos személyek nappali ellátása,
 
-16.[^420] az idősek otthona
+16.[^421] az idősek otthona
 
 szakmai módszereit.
 
-[^418]: A 111. § a 30/2024. (VII. 23.) BM rendelet 20. § (1) bekezdésével megállapított szöveg.
-[^419]: A 111. § (2) bekezdés 15. pontját a 30/2024. (VII. 23.) BM rendelet 20. § (2) bekezdése iktatta be.
-[^420]: A 111. § (2) bekezdés 16. pontját a 30/2024. (VII. 23.) BM rendelet 20. § (2) bekezdése iktatta be.
+[^419]: A 111. § a 30/2024. (VII. 23.) BM rendelet 20. § (1) bekezdésével megállapított szöveg.
+[^420]: A 111. § (2) bekezdés 15. pontját a 30/2024. (VII. 23.) BM rendelet 20. § (2) bekezdése iktatta be.
+[^421]: A 111. § (2) bekezdés 16. pontját a 30/2024. (VII. 23.) BM rendelet 20. § (2) bekezdése iktatta be.

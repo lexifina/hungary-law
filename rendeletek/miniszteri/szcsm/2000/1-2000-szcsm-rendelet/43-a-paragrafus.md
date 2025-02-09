@@ -1,6 +1,6 @@
-## Érdekképviseleti fórum[^227]
+## Érdekképviseleti fórum[^228]
 
-43/A. §[^228] (1) Az Szt. 99. §-a szerinti érdekképviseleti fórum a tartós bentlakásos intézménnyel intézményi jogviszonyban állók jogainak, érdekeinek érvényesülését elősegíteni hivatott szerv, mely a házirendben meghatározott feltételek és eljárás szerint működik. Az érdekképviseleti fórum megalakítását a székhelyen, illetve telephelyenként kell biztosítani.
+43/A. §[^229] (1) Az Szt. 99. §-a szerinti érdekképviseleti fórum a tartós bentlakásos intézménnyel intézményi jogviszonyban állók jogainak, érdekeinek érvényesülését elősegíteni hivatott szerv, mely a házirendben meghatározott feltételek és eljárás szerint működik. Az érdekképviseleti fórum megalakítását a székhelyen, illetve telephelyenként kell biztosítani.
 
 (2) Az érdekképviseleti fórum tagjai
 
@@ -28,5 +28,5 @@ d) intézkedés megtételét kezdeményezheti a fenntartó felé, valamint más,
 
 (4) Az érdekképviseleti fórum működésének és választásának részletes szabályait a házirend tartalmazza.
 
-[^227]: A 43/A. §-t megelőző alcímet az 1/2017. (II. 14.) EMMI rendelet 41. §-a iktatta be.
-[^228]: A 43/A. §-t az 1/2017. (II. 14.) EMMI rendelet 41. §-a iktatta be.
+[^228]: A 43/A. §-t megelőző alcímet az 1/2017. (II. 14.) EMMI rendelet 41. §-a iktatta be.
+[^229]: A 43/A. §-t az 1/2017. (II. 14.) EMMI rendelet 41. §-a iktatta be.
