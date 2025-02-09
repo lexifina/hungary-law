@@ -1,7 +1,3 @@
-2. § Az R1.
+2. §[^3]
 
-a) 2. melléklete az 1. melléklet,
-
-b) 3. melléklete a 2. melléklet
-
-szerint módosul.
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

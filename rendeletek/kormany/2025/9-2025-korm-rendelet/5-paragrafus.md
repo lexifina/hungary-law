@@ -1,3 +1,3 @@
-5. § A Mádl Ferenc Összehasonlító Jogi Intézet létrehozásáról szóló 95/2019. (IV. 25.) Korm. rendelet 2. § (2) bekezdése helyébe a következő rendelkezés lép:
+5. §[^6]
 
-„(2) Az Intézet elnökét munkájában – a szervezeti és működési szabályzatban meghatározottak szerint – elnökhelyettesek segítik.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

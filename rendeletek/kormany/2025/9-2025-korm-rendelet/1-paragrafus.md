@@ -12,6 +12,6 @@
 
 ## az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § Az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet (a továbbiakban: R1.) a következő 75. §-sal egészül ki:
+1. §[^2]
 
-„75. § E rendeletnek a Miskolctapolca Barlangfürdő rekonstrukció kiemelt beruházássá nyilvánítása érdekében az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet módosításáról szóló 9/2025. (II. 7.) Korm. rendelettel (a továbbiakban: Módr67.) megállapított 1. § (4) bekezdését, 3. § (2) és (3) bekezdését, 2. mellékletében foglalt táblázat 103. sorát, 3. mellékletében foglalt táblázat 16. sorát a Módr67. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

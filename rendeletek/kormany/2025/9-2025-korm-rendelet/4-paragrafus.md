@@ -1,1 +1,3 @@
-4. § A védett személyek és a kijelölt létesítmények védelméről szóló 160/1996. (XI. 5.) Korm. rendelet (a továbbiakban: R2.) 1. melléklete a 3. melléklet szerint módosul.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
