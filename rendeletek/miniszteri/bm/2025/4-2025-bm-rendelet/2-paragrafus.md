@@ -1,0 +1,3 @@
+2. § Az Nmr. „Engedély nélküli eltávozás” alcíme a következő 86/A. §-sal egészül ki:
+
+„86/A. § A Gyvt. 80/B. § (5) bekezdés f) pontja alkalmazásában a három hónapos időtartam számítása során azt kell vizsgálni, hogy a 86. § (1) bekezdése szerint engedély nélkül eltávozott gyermek három hónapon belül visszatér-e a gondozási helyére úgy, hogy a gondozási helyén való tartózkodása meghaladja alkalmanként a 3 napot, összességében pedig a 30 napot. A gondozási helyéről három hónapot meghaladóan engedély nélkül eltávozott gyermekkel esik egy tekintet alá továbbá az a gyermek, akinek tényleges befogadására a gondozási helyét kijelölő gyámhatósági határozat véglegessé válásától számított három hónapon belül nem kerül sor.”
