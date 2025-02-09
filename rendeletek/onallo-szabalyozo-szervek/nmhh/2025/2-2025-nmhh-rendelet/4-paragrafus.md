@@ -1,1 +1,0 @@
-4. § Ez a rendelet a rádióspektrum 5945–6425 MHz-es frekvenciasávjának vezeték nélküli hozzáférési rendszerek – többek között rádiós helyi hálózatok – (WAS/RLAN-ok) megvalósítására történő harmonizált használatáról szóló (EU) 2021/1067 végrehajtási határozat módosításáról szóló, 2024. december 17-i (EU) 2024/3157 bizottsági végrehajtási határozatnak való megfelelést szolgálja.
