@@ -1,18 +1,7 @@
-11. §[^27] (1)[^28] Tíz élelmezési nap átlagában a napi összes energiamennyiség legfeljebb 30%-a, bölcsődei, mini bölcsődei étkeztetés esetén 35%-a származhat zsiradékból.
+11. §[^50] (1) Tíz egymást követő élelmezési nap átlagában a napi összes energiamennyiség legfeljebb 30%-a, 1–3 éves korcsoport étkeztetése esetén 35%-a származhat zsiradékból.
 
-(2)[^29] Tíz élelmezési nap átlagában a hozzáadott cukortartalom a napi összes energiamennyiség legfeljebb 10%-át teheti ki.
+(2) Tíz egymást követő élelmezési nap átlagában a napi összes energiamennyiség legfeljebb 20%-a, egyszeri étkeztetés esetén 15%-a származhat cukrokból.
 
-(3) Tíz élelmezési nap alatt összesen
+(3) A közétkeztetésben az egy főre biztosítandó tej vagy ennek megfelelő mennyiségű kalciumtartalmú tejtermék mennyiségét korcsoportonként a 7. melléklet határozza meg.
 
-a) egész napos étkeztetés esetén egy főre 5 liter tej vagy ennek megfelelő mennyiségű kalciumtartalmú tejtermék,
-
-b)[^30] bölcsődei, mini bölcsődei étkeztetés esetén egy főre 4 liter tej vagy ennek megfelelő mennyiségű kalciumtartalmú tejtermék,
-
-c) napi háromszori étkezés szolgáltatása esetén egy főre 3 liter tej vagy ennek megfelelő mennyiségű kalciumtartalmú tejtermék
-
-biztosítandó, a 7. § (6) bekezdésében foglaltak szerint.
-
-[^27]: A 11. § az 54/2014. (XII. 29.) EMMI rendelet 5. §-ával megállapított szöveg.
-[^28]: A 11. § (1) bekezdése a 36/2016. (XII. 8.) EMMI rendelet 12. § a) pontja szerint módosított szöveg.
-[^29]: A 11. § (2) bekezdése a 36/2016. (XII. 8.) EMMI rendelet 12. § f) pontja szerint módosított szöveg.
-[^30]: A 11. § (3) bekezdés b) pontja a 36/2016. (XII. 8.) EMMI rendelet 12. § a) pontja szerint módosított szöveg.
+[^50]: A 11. § az 53/2024. (XI. 11.) BM rendelet 13. §-ával megállapított szöveg.

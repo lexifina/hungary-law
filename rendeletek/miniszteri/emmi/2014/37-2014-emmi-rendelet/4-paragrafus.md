@@ -1,14 +1,10 @@
 ## 4. Az étrendtervezés szabályai
 
-4. § (1) Az étrend összeállításánál biztosítani kell, hogy
+4. § (1)[^22] A normál és a diétás étrend összeállításánál biztosítani kell, hogy az egymást követő tíz élelmezési nap főétkezéseiben egy ételsor ételei csak egy alkalommal forduljanak elő.
 
-a) a 2. mellékletben foglalt változatossági mutató az egymást követő kétszer tíz élelmezési nap melegétkezéseinek vonatkozásában ne legyen kisebb 60-nál, és
+(1a)[^23]
 
-b) az egymást követő kétszer tíz élelmezési nap főétkezéseiben egy ételsor csak egy alkalommal forduljon elő.
-
-(1a)[^10] Nem kell alkalmazni az (1) bekezdésben foglaltakat a fekvőbeteg-gyógyintézeti étkeztetés során, ha az alkalmazott diéta nem teszi lehetővé. Egyéb intézményben alkalmazott speciális diéta esetén az étrend összeállítása során az (1) bekezdésben foglalt rendelkezéseknek tíz élelmezési nap vonatkozásában kell megfelelni.
-
-(2)[^11] Állati eredetű fehérjeforrást minden főétkezésnek, bölcsődei, mini bölcsődei étkeztetés esetén az egyik kisétkezésnek is tartalmaznia kell.
+(2)[^24] Állati eredetű fehérjeforrást minden főétkezésnek, az 1–3 évesek étkeztetése esetén az egyik kisétkezésnek is tartalmaznia kell.
 
 (3) A receptúrák kidolgozását és az étrend összeállítását, valamint az ételek elkészítését a nyersanyag-kiszabati előírásban foglaltak szerint kell végezni.
 
@@ -16,5 +12,6 @@ b) az egymást követő kétszer tíz élelmezési nap főétkezéseiben egy ét
 
 (5) A tápanyagszámítás során alkalmazott program vagy adatbázis megnevezését a Közétkeztető a nyersanyag-kiszabati íven köteles feltüntetni.
 
-[^10]: A 4. § (1a) bekezdését a 36/2016. (XII. 8.) EMMI rendelet 3. §-a iktatta be.
-[^11]: A 4. § (2) bekezdése a 36/2016. (XII. 8.) EMMI rendelet 12. § a) pontja szerint módosított szöveg.
+[^22]: A 4. § (1) bekezdése az 53/2024. (XI. 11.) BM rendelet 8. §-ával megállapított szöveg.
+[^23]: A 4. § (1a) bekezdését a 36/2016. (XII. 8.) EMMI rendelet 3. §-a iktatta be, az 53/2024. (XI. 11.) BM rendelet 25. § c) pontja hatályon kívül helyezte.
+[^24]: A 4. § (2) bekezdése az 53/2024. (XI. 11.) BM rendelet 8. §-ával megállapított szöveg.

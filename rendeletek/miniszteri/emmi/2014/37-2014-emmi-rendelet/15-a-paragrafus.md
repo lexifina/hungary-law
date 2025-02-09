@@ -1,0 +1,9 @@
+15/A. §[^68] (1) A háziorvos, a házi gyermekorvos vagy az iskola-egészségügyi ellátást végző iskolaorvos a diétás étkezést igénylő személy számára 2 éves korig, 2 éves kor felett a kiállítás napjától számított legfeljebb 6 hónap időtartamra állíthat ki igazolást (a továbbiakban: átmeneti igazolás), táplálékallergia vagy táplálékintolerancia diagnózisának felállítása céljából a fogyasztók élelmiszerekkel kapcsolatos tájékoztatásáról, az 1924/2006/EK és az 1925/2006/EK európai parlamenti és tanácsi rendelet módosításáról és a 87/250/EGK bizottsági irányelv,
+
+a 90/496/EGK tanácsi irányelv, az 1999/10/EK bizottsági irányelv, a 2000/13/EK európai parlamenti és tanácsi irányelv, a 2002/67/EK és a 2008/5/EK bizottsági irányelv és a 608/2004/EK bizottsági rendelet hatályon kívül helyezéséről szóló, 2011. október 25-i 1169/2011/EU európai parlamenti és tanácsi rendelet II. Mellékletében felsorolt, allergiát vagy intoleranciát okozó anyagok és termékek vonatkozásában, a glutént tartalmazó gabonafélék (azaz búza, rozs, árpa, zab, tönkölybúza, kamut, illetve hibridizált fajtái) és a belőlük készült termékek kivételével.
+
+(2) A 6 hónapos átmeneti időszak lejárta után az átmeneti igazolás nem hosszabbítható meg és nem állítható ki újra.
+
+(3) Az Intézmény felé a szülő vagy más törvényes képviselő által már benyújtott, szakorvos által igazolt diétás étkeztetés iránti igény módosításához új szakorvosi igazolás kiállítása és az intézmény részére történő benyújtása szükséges. Amennyiben a diétás igényt indokló sajátos egészségi állapot a szakorvosi igazolás érvényességi idején belül már nem áll fent, annak tényét a szakorvosnak igazolnia kell, és azt a szülőnek vagy más törvényes képviselőnek az intézmény felé be kell nyújtania a diétás étkeztetés iránti igény visszavonása érdekében.
+
+[^68]: A 15/A. §-t az 53/2024. (XI. 11.) BM rendelet 18. §-a iktatta be.
