@@ -44,7 +44,8 @@ b) amelyre azonos rendeltetésre, a kérelem benyújtását megelőző egy éven
 
 c) amelyben korábban is szolgáltató, intézmény működött, a korábbi engedélyes törlése a bejegyzés iránti kérelem benyújtását megelőző három hónapon belül vált végrehajthatóvá, a korábbi engedélyest nem e feltételek hiánya miatt törölték a szolgáltatói nyilvántartásból, és az eljárás során nem jut a működést engedélyező szerv tudomására olyan adat, amely e feltételek teljesítését kétségessé teszi.
 
-(7) A tűzvédelmi feltételek vizsgálatát az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló kormányrendelet szabályozza.
+(7)[^65] A tűzvédelmi feltételek vizsgálatát a szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok hatósági nyilvántartásáról és ellenőrzéséről szóló kormányrendelet szabályozza.
 
 [^63]: A 4/B. §-t a 21/2016. (VIII. 24.) EMMI rendelet 1. §-a iktatta be, szövege az 5/2022. (III. 28.) MvM rendelet 1. § a) pontja szerint módosított szöveg.
 [^64]: A 4/C. §-t a 2/2018. (I. 18.) EMMI rendelet 1. §-a iktatta be.
+[^65]: A 4/C. § (7) bekezdése a 4/2025. (II. 6.) BM rendelet 1. §-ával megállapított szöveg.

@@ -1,6 +1,6 @@
 ## 11. § A gyermek bántalmazására, elhanyagolására vonatkozó jelzéssel érintett személy részére nem biztosítható betekintés a zártan kezelendő adatokat tartalmazó irat azon részébe, amelyből következtetés vonható le a jelzést vagy kezdeményezést tevő intézményre, személyre.
 
-11/A. §[^86] A Gyvt. 17. § (4d) bekezdésében meghatározott kiemelt veszélyeztető okra utaló körülmények
+11/A. §[^87] A Gyvt. 17. § (4d) bekezdésében meghatározott kiemelt veszélyeztető okra utaló körülmények
 
 a) a gyermek szexuális bántalmazására utaló körülmények közül,
 
@@ -28,4 +28,4 @@ cc) a gyermek súlyos fokú alultápláltsága, illetve a harmadik életévét b
 
 d) a gyermek által megkísérelt öngyilkosság, ha a gyermek még nem részesül egészségügyi ellátásban, gyermekjóléti alapellátásban vagy gyermekvédelmi szakellátásban, illetve pszichés megsegítésben.
 
-[^86]: A 11/A. §-t a 30/2024. (VII. 23.) BM rendelet 2. §-a iktatta be.
+[^87]: A 11/A. §-t a 30/2024. (VII. 23.) BM rendelet 2. §-a iktatta be.

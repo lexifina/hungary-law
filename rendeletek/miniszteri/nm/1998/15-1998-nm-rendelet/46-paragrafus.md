@@ -1,4 +1,4 @@
-## 45/A. §[^142] A bölcsődében és a mini bölcsődében nem kell a szülőnek a gyermek bölcsődei ellátásának megkezdése előtt benyújtania a 36. § szerinti munkáltatói igazolást az intézménynek, ha a Gyvt. 43. § (3) bekezdés a) pontja alapján a bölcsődei felvételi kérelemhez már benyújtotta azt, és az abban foglaltakban változás nem történt.
+## 45/A. §[^143] A bölcsődében és a mini bölcsődében nem kell a szülőnek a gyermek bölcsődei ellátásának megkezdése előtt benyújtania a 36. § szerinti munkáltatói igazolást az intézménynek, ha a Gyvt. 43. § (3) bekezdés a) pontja alapján a bölcsődei felvételi kérelemhez már benyújtotta azt, és az abban foglaltakban változás nem történt.
 
 ## A bölcsődére vonatkozó külön rendelkezések
 
@@ -6,11 +6,11 @@
 
 a) valamennyi gyermek betöltötte a második életévét, vagy
 
-b)[^143] sajátos nevelési igényű, illetve korai fejlesztésre és gondozásra jogosult gyermeket is nevelnek, gondoznak.
+b)[^144] sajátos nevelési igényű, illetve korai fejlesztésre és gondozásra jogosult gyermeket is nevelnek, gondoznak.
 
 (2) Az (1) bekezdés a) pontja szerinti esetben egy bölcsődei csoportban legfeljebb tizennégy gyermek nevelhető, gondozható.
 
-(3)[^144] Az (1) bekezdés b) pontja szerinti esetben, ha
+(3)[^145] Az (1) bekezdés b) pontja szerinti esetben, ha
 
 a) egy bölcsődei csoportban egy sajátos nevelési igényű, illetve korai fejlesztésre és gondozásra jogosult gyermeket látnak el, legfeljebb tizenegy gyermek,
 
@@ -20,13 +20,13 @@ c) egy speciális bölcsődei csoportban három–hat sajátos nevelési igény�
 
 nevelhető, gondozható.
 
-(3a)[^145] A fenntartó döntése alapján a bölcsődei csoportban a (3) bekezdés c) pontjában meghatározott létszámon felül legfeljebb további három gyermek nevelhető, gondozható, feltéve, hogy
+(3a)[^146] A fenntartó döntése alapján a bölcsődei csoportban a (3) bekezdés c) pontjában meghatározott létszámon felül legfeljebb további három gyermek nevelhető, gondozható, feltéve, hogy
 
 a) az 1. számú melléklet I. Alapellátások cím 2.1. pontjában a kisgyermeknevelő munkakörre előírt létszámfeltétel teljesítésén túl további egy fő kisgyermeknevelő alkalmazása biztosított, és
 
 b) az intézmény vezetőjéből, orvosából, gyógypedagógusából és kisgyermeknevelőjéből álló szakmai csoport a bölcsődei csoportba járó és oda jelentkező gyermekek állapota alapján azt támogatja.
 
-[^142]: A 45/A. §-t a 19/2017. (IX. 18.) EMMI rendelet 1. §-a iktatta be.
-[^143]: A 46. § (1) bekezdés b) pontja a 19/2017. (IX. 18.) EMMI rendelet 6. § b) pontja szerint módosított szöveg.
-[^144]: A 46. § (3) bekezdése a 4/2019. (II. 27.) EMMI rendelet 5. §-ával megállapított szöveg.
-[^145]: A 46. § (3a) bekezdését a 27/2018. (VIII. 7.) EMMI rendelet 1. §-a iktatta be.
+[^143]: A 45/A. §-t a 19/2017. (IX. 18.) EMMI rendelet 1. §-a iktatta be.
+[^144]: A 46. § (1) bekezdés b) pontja a 19/2017. (IX. 18.) EMMI rendelet 6. § b) pontja szerint módosított szöveg.
+[^145]: A 46. § (3) bekezdése a 4/2019. (II. 27.) EMMI rendelet 5. §-ával megállapított szöveg.
+[^146]: A 46. § (3a) bekezdését a 27/2018. (VIII. 7.) EMMI rendelet 1. §-a iktatta be.

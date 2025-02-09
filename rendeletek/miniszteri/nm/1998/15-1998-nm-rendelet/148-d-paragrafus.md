@@ -1,6 +1,6 @@
-## A nyílt örökbefogadás elősegítésére és utánkövetésére, valamint az adatkezelésre vonatkozó rendelkezések[^595]
+## A nyílt örökbefogadás elősegítésére és utánkövetésére, valamint az adatkezelésre vonatkozó rendelkezések[^599]
 
-148/D. §[^596] A szakszolgálat az örökbefogadással összefüggő feladatait a gyermek- és ifjúságpolitikáért felelős miniszter által jóváhagyott, az általa vezetett minisztérium honlapján, valamint az Országos Gyermekvédelmi Szakszolgálat honlapján közzétett örökbefogadási módszertani útmutató figyelembevételével látja el.
+148/D. §[^600] A szakszolgálat az örökbefogadással összefüggő feladatait a gyermek- és ifjúságpolitikáért felelős miniszter által jóváhagyott, az általa vezetett minisztérium honlapján, valamint az Országos Gyermekvédelmi Szakszolgálat honlapján közzétett örökbefogadási módszertani útmutató figyelembevételével látja el.
 
-[^595]: A 148/D. §-t megelőző alcímet a 19/2014. (III. 13.) EMMI rendelet 31. §-a iktatta be.
-[^596]: A 148/D. §-t a 19/2014. (III. 13.) EMMI rendelet 31. §-a iktatta be, szövege a 30/2024. (VII. 23.) BM rendelet 13. §-ával megállapított szöveg.
+[^599]: A 148/D. §-t megelőző alcímet a 19/2014. (III. 13.) EMMI rendelet 31. §-a iktatta be.
+[^600]: A 148/D. §-t a 19/2014. (III. 13.) EMMI rendelet 31. §-a iktatta be, szövege a 30/2024. (VII. 23.) BM rendelet 13. §-ával megállapított szöveg.

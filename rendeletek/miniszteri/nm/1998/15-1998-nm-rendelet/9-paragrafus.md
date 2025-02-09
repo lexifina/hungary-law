@@ -12,7 +12,7 @@ d) fogadja a beérkezett jelzéseket, felkeresi az érintett személyt, illetve 
 
 e) a probléma jellegéhez, a veszélyeztetettség mértékéhez, a gyermek, az egyén, a család szükségleteihez igazodó intézkedést tesz a veszélyeztetettség kialakulásának megelőzése, illetve a veszélyeztetettség megszüntetése érdekében,
 
-f)[^81] veszélyeztetettség esetén rögzíti a GYVR-ben a vonatkozó adatokat,
+f)[^82] veszélyeztetettség esetén rögzíti a GYVR-ben a vonatkozó adatokat,
 
 g) az intézkedések tényéről tájékoztatja a jelzést tevőt, feltéve, hogy annak személye ismert, és ezzel nem sérti meg a Gyvt. 17. § (2a) bekezdése szerinti zárt adatkezelés kötelezettségét,
 
@@ -20,11 +20,11 @@ h) a beérkezett jelzésekről és az azok alapján megtett intézkedésekről h
 
 i) a jelzőrendszeri szereplők együttműködésének koordinálása érdekében esetmegbeszélést szervez, az elhangzottakról feljegyzést készít,
 
-j)[^82] egy gyermek, egyén vagy család ügyében, az esetmenedzser, esettől függően a kijelölt járási jelzőrendszeri tanácsadó részvételével, lehetőség szerint az érintetteteket – beleértve az ítélőképessége birtokában lévő gyermeket – és a velük foglalkozó szakembereket is bevonva esetkonferenciát szervez,
+j)[^83] egy gyermek, egyén vagy család ügyében, az esetmenedzser, esettől függően a kijelölt járási jelzőrendszeri tanácsadó részvételével, lehetőség szerint az érintetteteket – beleértve az ítélőképessége birtokában lévő gyermeket – és a velük foglalkozó szakembereket is bevonva esetkonferenciát szervez,
 
 k) éves szakmai tanácskozást tart és éves jelzőrendszeri intézkedési tervet készít, és
 
-l)[^83] a kapcsolati erőszak és emberkereskedelem áldozatainak segítése érdekében folyamatos kapcsolatot tart az állam által működtetett Országos Kríziskezelő és Információs Telefonszolgálattal, valamint tájékoztatja a jelzőrendszer tagjait a Magyar Ökumenikus Segélyszervezet kapcsolati erőszak áldozatai számára nyújtott online tanácsadási szolgáltatásáról.
+l)[^84] a kapcsolati erőszak és emberkereskedelem áldozatainak segítése érdekében folyamatos kapcsolatot tart az állam által működtetett Országos Kríziskezelő és Információs Telefonszolgálattal, valamint tájékoztatja a jelzőrendszer tagjait a Magyar Ökumenikus Segélyszervezet kapcsolati erőszak áldozatai számára nyújtott online tanácsadási szolgáltatásáról.
 
 (2) Az esetmegbeszélésre meg kell hívni
 
@@ -34,7 +34,7 @@ b) a pártfogó felügyelői szolgálatot, ha olyan gyermek ügyét tárgyalják
 
 c) a gyermekvédelmi rendszerhez kapcsolódó más személyeket, illetve intézmények képviselőit indokolt esetben, különösen akkor, ha részvételük a gyermekkel kapcsolatos probléma megoldásához szükséges, és
 
-d)[^84] az esetmegbeszélés témájától, céljától függően a járási jelzőrendszeri tanácsadót vagy a család- és gyermekjóléti központ esetmenedzserét (a továbbiakban: esetmenedzser).
+d)[^85] az esetmegbeszélés témájától, céljától függően a járási jelzőrendszeri tanácsadót vagy a család- és gyermekjóléti központ esetmenedzserét (a továbbiakban: esetmenedzser).
 
 (3) A család- és gyermekjóléti szolgálat és a jelzőrendszer tagjainak képviselői között, előre meghatározott témakörben, évente legalább hat alkalommal szakmaközi megbeszélést kell szervezni. A szakmaközi megbeszélésre meg kell hívni a gyermekvédelmi jelzőrendszer azon tagjait, akik részvétele a gyermekek nagyobb csoportját érintő veszélyeztető tényezők megszüntetését célzó cselekvési terv kidolgozásához szükséges.
 
@@ -62,14 +62,14 @@ e) a gyámhivatal munkatársait,
 
 f) a fiatalkorúak pártfogó felügyelőjét, megelőző pártfogó felügyelőjét, és
 
-g)[^85] a gyermekvédelmi és gyámügyi feladatkörében eljáró fővárosi és vármegyei kormányhivatalban működő gyermek- és ifjúságvédelmi koordinátort.
+g)[^86] a gyermekvédelmi és gyámügyi feladatkörében eljáró fővárosi és vármegyei kormányhivatalban működő gyermek- és ifjúságvédelmi koordinátort.
 
 (6) Ha a család- és gyermekjóléti szolgálat több családsegítőt foglalkoztat, közülük települési jelzőrendszeri felelőst kell kijelölni az (1) bekezdés szerinti feladatokra, illetve azok koordinálására.
 
 (7) Ha a család- és gyermekjóléti szolgálat a jelzőrendszer működtetése körében a család- és gyermekjóléti központ feladatkörébe tartozó vagy szakmai támogatását igénylő esetről szerez tudomást, haladéktalanul megkeresi a család- és gyermekjóléti központot.
 
-[^81]: A 9. § (1) bekezdés f) pontja a 15/2021. (IV. 29.) EMMI rendelet 3. §-ával megállapított szöveg.
-[^82]: A 9. § (1) bekezdés j) pontja az 1/2017. (II. 14.) EMMI rendelet 24. § b) pontja szerint módosított szöveg.
-[^83]: A 9. § (1) bekezdés l) pontja a 80/2022. (XII. 30.) BM rendelet 2. §-ával megállapított szöveg.
-[^84]: A 9. § (2) bekezdés d) pontja az 1/2017. (II. 14.) EMMI rendelet 5. §-ával megállapított szöveg.
-[^85]: A 9. § (5) bekezdés g) pontja a 45/2022. (XII. 20.) BM rendelet 6. § 1. pontja szerint módosított szöveg.
+[^82]: A 9. § (1) bekezdés f) pontja a 15/2021. (IV. 29.) EMMI rendelet 3. §-ával megállapított szöveg.
+[^83]: A 9. § (1) bekezdés j) pontja az 1/2017. (II. 14.) EMMI rendelet 24. § b) pontja szerint módosított szöveg.
+[^84]: A 9. § (1) bekezdés l) pontja a 80/2022. (XII. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^85]: A 9. § (2) bekezdés d) pontja az 1/2017. (II. 14.) EMMI rendelet 5. §-ával megállapított szöveg.
+[^86]: A 9. § (5) bekezdés g) pontja a 45/2022. (XII. 20.) BM rendelet 6. § 1. pontja szerint módosított szöveg.
