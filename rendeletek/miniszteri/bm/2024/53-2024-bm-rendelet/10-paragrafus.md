@@ -1,3 +1,3 @@
-10. § A 37/2014. (IV. 30.) EMMI rendelet 5. §-a a következő (5) bekezdéssel egészül ki:
+10. §[^5]
 
-„(5) A Közétkeztető az étlapon szereplő ételeket legfeljebb zöldséggel, gyümölccsel, tejtermékkel egészítheti ki.”
+[^5]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

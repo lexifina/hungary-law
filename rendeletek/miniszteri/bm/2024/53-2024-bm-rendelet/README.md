@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-53-20-0
 | 2024-11-12 | 2024-53-20-0A.1 | 53/2024. (XI. 11.) BM rendelet |
 | 2024-11-13 | 2024-53-20-0A.2 | 2010. évi CXXX. törvény |
 | 2025-02-09 | 2024-53-20-0A.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2025-02-10 | 2024-53-20-0A.4 | 2010. évi CXXX. törvény |
