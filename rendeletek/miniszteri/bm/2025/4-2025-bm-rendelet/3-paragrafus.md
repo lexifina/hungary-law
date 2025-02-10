@@ -1,3 +1,3 @@
-3. § Az Nmr. 100. §-a a következő (5) bekezdéssel egészül ki:
+3. §[^4]
 
-„(5) A nevelőszülői hálózat folyamatosan figyelemmel kíséri a gondozott gyermek engedély nélküli tartós távollétének időtartamát, és haladéktalanul kezdeményezi a gyámhivatalnál a nevelésbe vétel felülvizsgálatát, ha az meghaladja a hat hónapot.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-5. § Az Nmr. 76. § (1) bekezdésében az „az öregségi nyugdíj mindenkori legkisebb összegének” szövegrész helyébe az „a szociális vetítési alap összegének” szöveg lép.
+5. §[^6]
+
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

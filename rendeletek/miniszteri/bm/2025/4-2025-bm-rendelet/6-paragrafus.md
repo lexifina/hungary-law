@@ -1,3 +1,5 @@
 ## 2. A személyes gondoskodást nyújtó szociális ellátások igénybevételéről szóló 9/1999. (XI. 24.) SZCSM rendelet módosítása
 
-6. § A személyes gondoskodást nyújtó szociális ellátások igénybevételéről szóló 9/1999. (XI. 24.) SZCSM rendelet 2/C. § (1) bekezdésében a „nem állami fenntartású tartós bentlakásos intézmény elhelyezésére szolgáló ingatlannak – ide nem értve” szövegrész helyébe a „nemzetközi szerződés alapján egyházi kiegészítő támogatásban részesülő nem állami fenntartó intézményei kivételével a nem állami fenntartású tartós bentlakásos intézmény elhelyezésére szolgáló ingatlannak – ide nem értve a rehabilitációs ellátást és” szöveg lép.
+6. §[^7]
+
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
