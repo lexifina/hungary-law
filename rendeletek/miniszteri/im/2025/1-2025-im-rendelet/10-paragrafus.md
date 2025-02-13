@@ -1,1 +1,3 @@
-10. § Hatályát veszti az igazságügyi miniszter feladatkörét érintő ágazati honvédelmi feladatokról szóló 9/2015. (IV. 30.) IM rendelet.
+10. §[^1]
+
+[^1]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
