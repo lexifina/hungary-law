@@ -1,4 +1,6 @@
-19. § (1) A kifizetési kérelem legkésőbb az intézkedés végrehajtásának borpiaci évét követő borpiaci évben április 1. és július 1. között, elektronikus felületen nyújtható be az NKÜ részére az NKÜ által a honlapján az adott borpiaci évre közzétett közleményében foglaltaknak megfelelően.
+19. § (1)[^21] A kifizetési kérelem legkésőbb az intézkedés végrehajtásának borpiaci évét követő borpiaci évben április 15. és május 15. között, valamint június 15. és július 15. között elektronikus felületen nyújtható be az NKÜ részére az NKÜ által a honlapján az adott borpiaci évre közzétett közleményében foglaltaknak megfelelően.
+
+(1a)[^22] Egy kedvezményezett egy borpiaci évben egy összefüggő területre vonatkozóan egy kifizetési kérelmet nyújthat be.
 
 (2) A kifizetési kérelem tartalmazza
 
@@ -32,7 +34,7 @@ a) az oszlopokat, huzalokat,
 
 b) a végoszlop rögzítésének módját,
 
-c) a szőlőtőke megtámasztásának módját (karó, nevelőpálca vagy segédhuzal),
+c)[^23] a szőlőtőke megtámasztásának módját ( nevelőpálca vagy segédhuzal),
 
 d) a végoszlop és a soroszlop anyagát,
 
@@ -47,3 +49,7 @@ f) a huzalok talajtól és egymástól mért távolságát.
 (7) A kifizetési kérelem a benyújtását követően az elektronikus felületen keresztül nem módosítható.
 
 (8) Az NKÜ a (3) bekezdés f) pontja szerinti dokumentumokat az 5. § (3) bekezdése szerint, a 2. §-ban meghatározott intézkedések szerinti bontásban összesítve, a kifizetési kérelem benyújtására rendelkezésre álló határidőt követő 31 napon belül megküldi a Nemzeti Irányító Hatóság részére.
+
+[^21]: A 19. § (1) bekezdése az 1/2025. (II. 11.) AM rendelet 18. § (9) bekezdésével megállapított szöveg.
+[^22]: A 19. § (1a) bekezdését az 1/2025. (II. 11.) AM rendelet 18. § (9) bekezdése iktatta be.
+[^23]: A 19. § (4) bekezdés c) pontja az 1/2025. (II. 11.) AM rendelet 19. § c) pontja szerint módosított szöveg.

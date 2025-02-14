@@ -90,7 +90,7 @@
 
 5. melléklet a 152/2023. (XII. 21.) AM rendelethez
 
-1. A 12 § (1) bekezdése alapján benyújtott támogatási kérelmek elbírálásakor érvényesítendő szempontok és az azokhoz tartozó pontértékek fajtaváltás és áttelepítés esetén
+1.[^45] A 12 § (1) bekezdése alapján benyújtott támogatási kérelmek elbírálásakor érvényesítendő szempontok és az azokhoz tartozó pontértékek fajtaváltás és ültetvény áttelepítés, valamint növény-egészségügyi okokból hatóság által elrendelt kötelező kivágást követő szőlőültetvény újratelepítés esetén
 
 |  | A | B | C |
 
@@ -118,7 +118,7 @@
 
 | 12. | A kérelmező és a vele azonos borgazdasági egységbe tartozó ültetvényhasználók használatában lévő szőlőültetvényeken megtermelt szőlő mennyisége és egységára szorzatának az elmúlt három borpiaci évben vett átlaga meghaladja az országos átlagot |  | 14 |
 
-| 13. | A kérelmező vagy a vele azonos borgazdasági egységbe tartozó borászati termelő által Magyarország területén kívülre értékesített palackos borászati termékek egységára az utolsó három lezárt borpiaci év átlagát tekintve meghaladta az országos átlagot, és a kérelmező vagy a vele azonos borgazdasági egységbe tartozó borászati termelő az értékesített termékek legalább 25%-át nem a belpiacon értékesítette az értékesítési jelentése alapján az utolsó három lezárt borpiaci év során |  | 14 |
+| 13.[^46] |  |  |  |
 
 | 14. | D. A kérelmező képzettsége |
 
@@ -209,3 +209,6 @@
 | 25. | A támogatási kérelemben szereplő támberendezés felújítással érintett területek egybeszámított területnagysága 5 hektár alatt van | 2 | 2 |
 
 | 26. | Összesen elérhető pontszám | 50 |  |
+
+[^45]: Az 5. melléklet 1. pontja az 1/2025. (II. 11.) AM rendelet 18. § (17) bekezdés i) pontja szerint módosított szöveg.
+[^46]: Az 5. melléklet 1. pontjában foglalt táblázat 13. sorát az 1/2025. (II. 11.) AM rendelet 19. § e) pontja hatályon kívül helyezte.

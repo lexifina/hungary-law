@@ -20,11 +20,11 @@ f) az ültetvény jellege és
 
 g) az ültetvény kataszteri osztálya.
 
-(4) Fajtaváltás és ültetvény áttelepítése esetén az intézkedés egy borpiaci év alatti végrehajtása magában foglalja az ültetést és a teljes támberendezés létesítést. Ha a fajtaváltás átoltással történik, a támberendezés támogatással is létesíthető.
+(4)[^5] Fajtaváltás, ültetvény áttelepítése, valamint növény-egészségügyi okokból hatóság által elrendelt kötelező kivágást követő szőlőültetvény újratelepítése esetén az intézkedés egy borpiaci év alatti végrehajtása magában foglalja az ültetést és a teljes támberendezés létesítést. Ha a fajtaváltás átoltással történik, a támberendezés támogatással is létesíthető.
 
 (5) Átoltással történő fajtaváltás intézkedés esetén az átoltást és a támberendezés létesítése műveleteket egy borpiaci év alatt kell végrehajtani.
 
-(6) Fajtaváltás és ültetvény áttelepítése esetén az intézkedés két egymást követő borpiaci év alatt történő végrehajtása esetén
+(6)[^6] Fajtaváltás, ültetvény áttelepítése, valamint növény-egészségügyi okokból hatóság által elrendelt kötelező kivágást követő szőlőültetvény újratelepítése esetén az intézkedés két egymást követő borpiaci év alatt történő végrehajtása esetén
 
 a) az első borpiaci évben
 
@@ -41,3 +41,6 @@ bb) az előző évben nem megeredt vagy elpusztult tövek pótlását.
 (7) A termesztéstechnológiai módszerek javítása esetén az új támberendezés létesítését és a tőkék teljes pótlását egy borpiaci éven belül kell elvégezni.
 
 (8) Fajtaváltás – az átoltás kivételével – és ültetvény áttelepítése intézkedés esetén a régi ültetvény kivágása a támogatási kérelem részét képezheti, amennyiben a támogatási kérelem benyújtásakor a régi ültetvény kivágása még nem történt meg. A kivágás költségei magukban foglalják a régi szőlőtőkék eltávolítását, elszállítását, valamint a támberendezés bontását és elszállítását az ültetés művelet megkezdése előtt.
+
+[^5]: A 9. § (4) bekezdése az 1/2025. (II. 11.) AM rendelet 18. § (17) bekezdés a) pontja szerint módosított szöveg.
+[^6]: A 9. § (6) bekezdés nyitó szövegrésze az 1/2025. (II. 11.) AM rendelet 18. § (17) bekezdés a) pontja szerint módosított szöveg.
