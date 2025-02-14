@@ -4,7 +4,7 @@ a) a Magyarországon szakmailag elfogadott, de a finanszírozásba még be nem f
 
 b)
 
-c) támogatást nyújthat a társadalombiztosítási támogatással nem rendelhető allopátiás gyógyszer, különleges táplálkozási igényt kielégítő tápszer, gyógyászati segédeszköz árához,
+c) támogatást nyújthat valamely indikációba már befogadott, ugyanakkor a kérelmezett indikációban társadalombiztosítási támogatással nem rendelhető allopátiás gyógyszer, különleges táplálkozási igényt kielégítő tápszer, a 26/D. § (3) bekezdésében foglaltak kivételével társadalombiztosítási támogatással nem rendelhető gyógyászati segédeszköz árához,
 
 d) támogatást nyújthat méltányosságból már támogatott gyógyászati segédeszköz javítási díjához,
 
