@@ -93,3 +93,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-217-20-
 | 2025-01-16 | 1997-217-20-22.169 | 413/2015. (XII. 23.) Korm. rendelet |
 | 2025-01-24 | 1997-217-20-22.173 | 1/2025. (I. 23.) Korm. rendelet |
 | 2025-02-01 | 1997-217-20-22.172 | 572/2020. (XII. 9.) Korm. rendelet |
+| 2025-02-14 | 1997-217-20-22.174 | 2/2025. (I. 23.) Korm. rendelet |
