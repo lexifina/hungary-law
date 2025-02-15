@@ -1,4 +1,4 @@
-## Országosan: 224
+## Országosan: 223
 
 ## I.
 
@@ -262,7 +262,7 @@
 
 | Fonyódi Járásbíróság | 1 |
 
-| Kaposvári Járásbíróság | 4 |
+| Kaposvári Járásbíróság | 3 |
 
 | Marcali Járásbíróság | 1 |
 
@@ -270,7 +270,7 @@
 
 | Siófoki Járásbíróság | 2 |
 
-| Összesen: | 12 |
+| Összesen: | 11 |
 
 ## XVI.
 
