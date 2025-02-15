@@ -6,17 +6,16 @@ b)[^4]
 
 c)[^5]
 
-d)[^6]
+d) 1. § (1) bekezdésében a „224” szövegrész helyébe a „223” szöveg,
 
-e)[^7]
+e)[^6]
 
-f)[^8]
+f)[^7]
 
 lép.
 
 [^3]: A 3. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^4]: A 3. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^5]: A 3. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: A 3. § d) pontja az 5. § (5) bekezdése alapján 2025. február 15-én lép hatályba.
-[^7]: A 3. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: A 3. § f) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 3. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 3. § f) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
