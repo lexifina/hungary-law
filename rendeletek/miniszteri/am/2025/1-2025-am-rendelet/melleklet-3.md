@@ -20,22 +20,6 @@
 
 | 10. | ÖSSZESEN |  | 100 |
 
-3. melléklet az 1/2025. (II. 11.) AM rendelethez
+3. melléklet az 1/2025. (II. 11.) AM rendelethez[^3]
 
-1. A 152/2023. (XII. 21.) AM rendelet 3. mellékletében foglalt táblázat D:2–E:2 mezője helyébe a következő mezők lépnek:
-
-|  | (D) | (E) |
-
-| (1.) | [Az 5. § (1) bekezdés a) pontja szerinti hozzájárulás és az 5. § (1) bekezdés b) pontja szerinti kompenzáció összege fajtaváltás esetén (EUR/hektár)] | [Az 5. § (1) bekezdés a) pontja szerinti hozzájárulás és az 5. § (1) bekezdés b) pontja szerinti kompenzáció összege áttelepítés esetén (EUR/hektár)] |
-
-## „
-
-| (2.) | 1647 | 0 |
-
-## ”
-
-2. A 152/2023. (XII. 21.) AM rendelet 3. mellékletében foglalt táblázat D:20–E:20 mezője helyébe a következő mezők lépnek:
-
-|  | (D) | (E) |
-
-| (1.) | [Az 5. § (1) bekezdés a) pontja szerinti hozzájárulás és az 5. § (1) bekezdés b) pontja szerinti kompenzáció összege fajtaváltás esetén (EUR/hektár)] | [Az 5. § (1) bekezdés a) pontja szerinti hozzájárulás és az 5. § (1) bekezdés b) pontja szerinti kompenzáció összege áttelepítés esetén (EUR/hektár)] |
+[^3]: A 3. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
