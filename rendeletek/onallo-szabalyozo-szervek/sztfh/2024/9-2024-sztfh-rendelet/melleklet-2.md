@@ -1,3 +1,3 @@
-2. melléklet a 9/2024. (VIII. 8.) SZTFH rendelethez[^12]
+2. melléklet a 9/2024. (VIII. 8.) SZTFH rendelethez[^7]
 
-[^12]: A 2. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 2. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
