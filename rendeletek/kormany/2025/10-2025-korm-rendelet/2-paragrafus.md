@@ -1,3 +1,3 @@
-2. § A Korm. rendelet 6. § (1) bekezdése helyébe a következő rendelkezés lép:
+2. §[^3]
 
-„(1) Ha Magyarország földgáz- és villamosenergia-ellátásának biztosítása érdekében szükséges, úgy a miniszter rendeletben dönt a különleges földgázkészlet felhasználásáról.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
