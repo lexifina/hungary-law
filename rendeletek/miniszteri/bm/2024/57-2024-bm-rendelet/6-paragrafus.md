@@ -1,3 +1,3 @@
-6. §[^6]
+6. § (1) A 32/2004. (IV. 26.) ESZCSM rendelet 2. számú melléklete a 2. melléklet szerint módosul.
 
-[^6]: A 6. § a 41. § (3) bekezdése alapján 2025. február 18-án lép hatályba.
+(2) A 32/2004. (IV. 26.) ESZCSM rendelet 6/a. számú melléklete helyébe a 3. melléklet lép.

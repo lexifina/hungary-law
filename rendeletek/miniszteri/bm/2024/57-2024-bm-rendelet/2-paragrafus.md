@@ -1,3 +1,1 @@
-2. §[^2]
-
-[^2]: A 2. § a 41. § (3) bekezdése alapján 2025. február 18-án lép hatályba.
+2. § Az 1/2003. (I. 21.) ESZCSM rendelet 5. számú melléklete helyébe az 1. melléklet lép.

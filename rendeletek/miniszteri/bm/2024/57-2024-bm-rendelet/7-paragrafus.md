@@ -1,3 +1,1 @@
-7. §[^7]
-
-[^7]: A 7. § a 41. § (3) bekezdése alapján 2025. február 18-án lép hatályba.
+7. § Hatályát veszti a 32/2004. (IV. 26.) ESZCSM rendelet 5/A. § (1a), (1b) és (4) bekezdése, valamint 1. számú melléklete.

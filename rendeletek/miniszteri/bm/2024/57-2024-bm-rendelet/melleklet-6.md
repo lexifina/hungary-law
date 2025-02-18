@@ -1,3 +1,3 @@
-6. melléklet az 57/2024. (XII. 20.) BM rendelethez[^47]
+6. melléklet az 57/2024. (XII. 20.) BM rendelethez[^38]
 
-[^47]: A 6. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^38]: A 6. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
