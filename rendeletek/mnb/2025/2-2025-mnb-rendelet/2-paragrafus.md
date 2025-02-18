@@ -1,0 +1,5 @@
+2. § (1) Az emlékérme 75% réz és 25% nikkel ötvözetéből készült, súlya 30,8 gramm, átmérője 38,61 mm, széle recézett.
+
+(2) Az emlékérme előlapján a „Jókai Mór összes művei – Nemzeti kiadás” c. könyvsorozat egyik kötetére utaló könyvgerinc és keményfedeles borítórészlet ábrázolása látható. Az előlap bal oldalán, a könyvgerinccel határolt külső körgyűrűben a „MAGYARORSZÁG” felirat, mellette, a könyvgerinc ábrázolásával párhuzamosan, két sorban a „3000” értékjelzés, valamint a balról a „BP.” verdejellel, jobbról a „2025” verési évszámmal közrefogott „FORINT” felirat olvasható. Az emlékérme előlapjának képét az 1. melléklet tartalmazza.
+
+(3) Az emlékérme hátlapján Jókai Mór – 1870-es évek végi fotója alapján készült – ülő alakos portréja látható. A portrétól balra Jókai Mór születésének és halálának évét jelölő „1825–1904” felirat, alatta Jókai Mór aláírása olvasható. A hátlap szélén, bal oldalon, lent – az íróasztal ábrázolásába illesztve – Kovács Zoltán tervezőművész mesterjegye látható. Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
