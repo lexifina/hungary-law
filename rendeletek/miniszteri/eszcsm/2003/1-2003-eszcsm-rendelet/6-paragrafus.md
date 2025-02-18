@@ -4,11 +4,13 @@ a)[^18] a Szabványos Vényminták Gyűjteményébe (Formulae Normales, a továb
 
 b) forgalomba hozatalra engedélyezett gyógyszert tartalmazó magisztrális gyógyszerek esetében az összetételben lévő forgalomba hozatalra engedélyezett gyógyszer(ek) – külön jogszabály alapján hozott határozatban meghatározott – támogatási összege, valamint az a) pont szerint számolt összeg.
 
-(2)[^19] Az (1) bekezdés szerinti magisztrális gyógyszerek támogatásának megállapítása szempontjából a közfinanszírozás alapjául elfogadott ár részeként figyelembe vehető gyógyszeranyag árat a bejelentett és közzétett legalacsonyabb – általános forgalmi adót nem tartalmazó (nettó) – termelői, import beszerzési árú gyógyszeranyag alapulvételével kell meghatározni. A közfinanszírozás alapjául elfogadott ár részeként figyelembe vehető gyógyszeranyagok megnevezését a Nemzeti Népegészségügyi és Gyógyszerészeti Központ (a továbbiakban: NNGYK) a GYR. 3. § (3) bekezdése szerinti közleménye tartalmazza. A támogatás értékének megállapításához szükséges bejelentést a forgalmazó a 2. számú melléklet szerinti adatlapon teheti meg, továbbá az adatlapon szereplő adatokat elektronikus formában küldheti be a gyógyszeranyagok gyártására vagy forgalmazására jogosító tevékenységi engedély másolatának egyidejű megküldésével.
+(1a)[^19] Az (1) bekezdés szerinti csomagolási költség részeként elszámolt szignatúrák költsége nem haladhatja meg az összes csomagolási összköltség 15%-át.
 
-(3)[^20] A különböző forgalmazók által forgalmazott ugyanazon gyógyszeranyagok közül a legalacsonyabb árú – általános forgalmi adót tartalmazó (bruttó) – fogyasztói árának legfeljebb 50%-a a támogatás értéke. A NEAK a gyógyszeranyagok közfinanszírozás alapjául szolgáló árhoz nyújtott támogatásának összegét minden naptári év április 1. és október 1. napján honlapján közzéteszi. A NEAK az NNGYK GYR. 3. § (3) bekezdése szerinti közleményébe újonnan felkerült gyógyszeranyagok vonatkozásában vagy árcsökkentés esetén a közlemény módosítását a bejelentést követő 40 napon belül teszi közzé. A közfinanszírozás alapjául elfogadott ár részeként figyelembe vehető gyógyszeranyagárnál alacsonyabb termelői, import beszerzési árú azonos gyógyszeranyag a fogyasztói ár alapján számított 50%-os mértékű támogatásban részesül.
+(2)[^20] Az (1) bekezdés szerinti magisztrális gyógyszerek támogatásának megállapítása szempontjából a közfinanszírozás alapjául elfogadott ár részeként figyelembe vehető gyógyszeranyag árat a bejelentett és közzétett legalacsonyabb – általános forgalmi adót nem tartalmazó (nettó) – termelői, import beszerzési árú gyógyszeranyag alapulvételével kell meghatározni. A közfinanszírozás alapjául elfogadott ár részeként figyelembe vehető gyógyszeranyagok megnevezését a Nemzeti Népegészségügyi és Gyógyszerészeti Központ (a továbbiakban: NNGYK) a GYR. 3. § (3) bekezdése szerinti közleménye tartalmazza. A támogatás értékének megállapításához szükséges bejelentést a forgalmazó a 2. számú melléklet szerinti adatlapon teheti meg, továbbá az adatlapon szereplő adatokat elektronikus formában küldheti be a gyógyszeranyagok gyártására vagy forgalmazására jogosító tevékenységi engedély másolatának egyidejű megküldésével.
 
-(4)[^21] A NEAK (3) bekezdés szerinti közleménye tartalmazza a gyógyszeranyag minőségére utaló jelzést, a gyógyszeranyag nevét, mennyiségi egységét, a közfinanszírozás alapjául szolgáló árhoz nyújtott támogatás összegét és a fizetendő térítési díjat.
+(3)[^21] A különböző forgalmazók által forgalmazott ugyanazon gyógyszeranyagok közül a legalacsonyabb árú – általános forgalmi adót tartalmazó (bruttó) – fogyasztói árának legfeljebb 50%-a a támogatás értéke. A NEAK a gyógyszeranyagok közfinanszírozás alapjául szolgáló árhoz nyújtott támogatásának összegét minden naptári év április 1. és október 1. napján honlapján közzéteszi. A NEAK az NNGYK GYR. 3. § (3) bekezdése szerinti közleményébe újonnan felkerült gyógyszeranyagok vonatkozásában vagy árcsökkentés esetén a közlemény módosítását a bejelentést követő 40 napon belül teszi közzé. A közfinanszírozás alapjául elfogadott ár részeként figyelembe vehető gyógyszeranyagárnál alacsonyabb termelői, import beszerzési árú azonos gyógyszeranyag a fogyasztói ár alapján számított 50%-os mértékű támogatásban részesül.
+
+(4)[^22] A NEAK (3) bekezdés szerinti közleménye tartalmazza a gyógyszeranyag minőségére utaló jelzést, a gyógyszeranyag nevét, mennyiségi egységét, a közfinanszírozás alapjául szolgáló árhoz nyújtott támogatás összegét és a fizetendő térítési díjat.
 
 (5) A közforgalmú gyógyszertárakban készített magisztrális gyógyszereknél az (1) bekezdésben említett árnál a készítési díjat, nem betéti díjas csomagolásként pedig az e rendelet 5. számú melléklete szerinti csomagolóanyagokat lehet figyelembe venni.
 
@@ -18,13 +20,14 @@ b) forgalomba hozatalra engedélyezett gyógyszert tartalmazó magisztrális gy�
 
 (8) Nem számolható el társadalombiztosítási támogatás, ha az orvos a vényen a 6. számú mellékletben felsorolt gyógyszeranyagot önmagában rendeli.
 
-(8a)[^22] A FoNo VIII. előírásai alapján aszeptikusan készített szemcsepp esetén az elkészült szemcsepp adagok mennyiségét az elektronikus készletnyilvántartásba fel kell venni.
+(8a)[^23] A FoNo VIII. előírásai alapján aszeptikusan készített szemcsepp esetén az elkészült szemcsepp adagok mennyiségét az elektronikus készletnyilvántartásba fel kell venni.
 
 (9) Az (1)–(8) bekezdés alkalmazása szempontjából a közfinanszírozás alapjául elfogadott ár részeként figyelembe vehető készítési díjak összegét a 7. számú melléklet tartalmazza.
 
 [^17]: A 6. § a 6/2007. (I. 31.) EüM rendelet 4. §-ával megállapított szöveg.
 [^18]: A 6. § (1) bekezdés a) pontja az 54/2016. (XII. 30.) EMMI rendelet 27. § b) pontja szerint módosított szöveg.
-[^19]: A 6. § (2) bekezdése a 38/2022. (XI. 10.) BM rendelet 1. § (1) bekezdésével megállapított, a 28/2023. (VIII. 10.) BM rendelet 14. § a) pontja szerint módosított szöveg.
-[^20]: A 6. § (3) bekezdése a 38/2022. (XI. 10.) BM rendelet 1. § (1) bekezdésével megállapított, a 28/2023. (VIII. 10.) BM rendelet 14. § b) pontja szerint módosított szöveg.
-[^21]: A 6. § (4) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 27. § c) pontja szerint módosított szöveg.
-[^22]: A 6. § (8a) bekezdését a 38/2022. (XI. 10.) BM rendelet 1. § (2) bekezdése iktatta be.
+[^19]: A 6. § (1a) bekezdését az 57/2024. (XII. 20.) BM rendelet 1. §-a iktatta be.
+[^20]: A 6. § (2) bekezdése a 38/2022. (XI. 10.) BM rendelet 1. § (1) bekezdésével megállapított, a 28/2023. (VIII. 10.) BM rendelet 14. § a) pontja szerint módosított szöveg.
+[^21]: A 6. § (3) bekezdése a 38/2022. (XI. 10.) BM rendelet 1. § (1) bekezdésével megállapított, a 28/2023. (VIII. 10.) BM rendelet 14. § b) pontja szerint módosított szöveg.
+[^22]: A 6. § (4) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 27. § c) pontja szerint módosított szöveg.
+[^23]: A 6. § (8a) bekezdését a 38/2022. (XI. 10.) BM rendelet 1. § (2) bekezdése iktatta be.
