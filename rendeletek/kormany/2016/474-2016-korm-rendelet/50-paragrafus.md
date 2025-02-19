@@ -14,12 +14,12 @@ a) az edzővel, valamint az edzőhöz kapcsolódó sportolóval szemben jogerős
 
 b) az edző sportolót felkészítő jogosultsága megszűnik.
 
-c)[^161] az edzővel szemben sportfegyelmi büntetésként sportszakmai tevékenységtől eltiltás kerül kiszabásra.
+c)[^162] az edzővel szemben sportfegyelmi büntetésként sportszakmai tevékenységtől eltiltás kerül kiszabásra.
 
-(6)[^162] A támogatásban részesülő személyekről a miniszter a MOB és a Magyar Edzők Társasága javaslatára való figyelemmel dönt.
+(6)[^163] A támogatásban részesülő személyekről a miniszter a MOB és a Magyar Edzők Társasága javaslatára való figyelemmel dönt.
 
-(7)[^163]
+(7)[^164]
 
-[^161]: Az 50. § (5) bekezdés c) pontját az 552/2022. (XII. 22.) Korm. rendelet 19. §-a iktatta be.
-[^162]: Az 50. § (6) bekezdése a 472/2020. (X. 29.) Korm. rendelet 15. §-ával megállapított szöveg.
-[^163]: Az 50. § (7) bekezdését a 472/2020. (X. 29.) Korm. rendelet 19. § c) pontja hatályon kívül helyezte.
+[^162]: Az 50. § (5) bekezdés c) pontját az 552/2022. (XII. 22.) Korm. rendelet 19. §-a iktatta be.
+[^163]: Az 50. § (6) bekezdése a 472/2020. (X. 29.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^164]: Az 50. § (7) bekezdését a 472/2020. (X. 29.) Korm. rendelet 19. § c) pontja hatályon kívül helyezte.
