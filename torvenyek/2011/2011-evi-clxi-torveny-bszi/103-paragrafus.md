@@ -50,7 +50,7 @@ h) felmentést adhat a bírósági vezető és a vezetése alatt álló szerveze
 
 i) lefolytatja a bírák vagyonnyilatkozatával kapcsolatos ellenőrzési eljárást,
 
-j) az OBH elnökének kezdeményezése alapján „címzetes törvényszéki bíró”, „címzetes táblabíró”, „címzetes kúriai bíró”, „kúriai tanácsos” címet, igazságügyi alkalmazott esetén főtanácsosi, tanácsosi címet adományozhat, továbbá az OBH elnökének kezdeményezésére javaslatot tehet kitüntetés adományozására, díjat, oklevelet, plakettet adományozhat, illetve díj, plakett, oklevél más általi adományozásához hozzájárulhat,
+j) az OBH elnökének kezdeményezése alapján „címzetes törvényszéki bíró”, „címzetes táblabíró”, „címzetes kúriai bíró” címet, igazságügyi alkalmazott esetén főtanácsosi, tanácsosi címet adományozhat, továbbá az OBH elnökének kezdeményezésére javaslatot tehet kitüntetés adományozására, díjat, oklevelet, plakettet adományozhat, illetve díj, plakett, oklevél más általi adományozásához hozzájárulhat,
 
 k) a bíró lemondása esetén hozzájárulhat, hogy a lemondási idő 3 hónapnál rövidebb legyen, illetve a bírót a lemondási időre vagy egy részére mentesítheti a munkavégzési kötelezettség alól,
 
