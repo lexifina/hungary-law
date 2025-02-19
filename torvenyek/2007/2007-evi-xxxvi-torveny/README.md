@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-36-00-00
 | 2020-02-01 | 2019. évi CXVI. törvény | 2007-36-00-00.17 |
 | 2020-07-01 | 2020. évi XXXI. törvény | 2007-36-00-00.18 |
 | 2022-12-03 | 2022. évi L. törvény | 2007-36-00-00.19 |
+| 2025-02-19 | 2024. évi LXXXIV. törvény | 2007-36-00-00.20 |

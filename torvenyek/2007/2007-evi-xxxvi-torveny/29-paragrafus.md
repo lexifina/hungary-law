@@ -14,6 +14,6 @@ e) nemzetközi szerződés eltérő rendelkezésének hiányában a külföldi h
 
 (1b) A külföldi határozat végrehajtását meg kell tagadni, ha az elkövető írásbeli eljárás esetén nem kapott a kibocsátó állam jogának megfelelően, személyesen vagy a nemzeti jog szerint meghatalmazott képviselője útján tájékoztatást az ügyben a jogorvoslathoz való jogáról és az ilyen jogorvoslati lehetőség határidejéről.
 
-(2) A külföldi határozat végrehajthatóságára a Szabs. tv. elévülésre vonatkozó szabályait azzal kell alkalmazni, hogy az elévülés határideje a végrehajtás átvétele iránti megkeresés központi hatósághoz érkezésének napján kezdődik.
+(2) A külföldi határozatban végrehajtásra átadott pénzbírság és eljárási költség végrehajthatóságára a Szabs. tv. elévülésre vonatkozó szabályait kell alkalmazni azzal, hogy az elévülés határideje a végrehajtás átvétele iránti megkeresés központi hatósághoz érkezésének napján kezdődik.
 
 (3)
