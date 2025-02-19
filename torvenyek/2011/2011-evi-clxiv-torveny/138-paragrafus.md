@@ -1,1 +1,1 @@
-138. § Ha a tisztviselő, az írnok magasabb fizetési osztályba kerül, az addig elért fizetési fokozatát az új fizetési osztályban legfeljebb két fokozattal csökkenteni lehet, az új alapilletményének azonban a korábbit meg kell haladnia.
+138. § Azokat a munkaköröket, amelyek esetében a munkakör ellátásához kapcsolódó fizikai, pszichés és munkakörnyezetből adódó terhelés figyelembevétele nem mellőzhető, a legfőbb ügyész határozza meg.

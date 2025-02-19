@@ -2,9 +2,11 @@
 
 ## A PIHENŐIDŐ
 
-79. § (1) Az 1. fizetési fokozatba tartozó ügyész alapszabadsága évi harminc munkanap. A 2. fizetési fokozattal kezdődően az alapszabadság a fizetési fokozattal azonos számú munkanappal emelkedik.
+79. § (1) A legfőbb ügyészségi ügyész kivételével az 1. fizetési fokozatba tartozó ügyész alapszabadsága évi harminc munkanap, a 2. fizetési fokozattal kezdődően az alapszabadság a fizetési fokozattal azonos számú munkanappal emelkedik.
 
-(2) Az ügyészt az ötvenedik életéve betöltésének évétől – a fizetési fokozatától függetlenül – évi negyven munkanap alapszabadság illeti meg.
+(1a) A legfőbb ügyészségi ügyész alapszabadsága három éves szolgálati időig harminc munkanap, négy év szolgálati idő után harminckét munkanap, majd ezt követően az alapszabadság 3 évenként további egy munkanappal emelkedik.
+
+(2) Az ügyészt az ötvenedik életéve betöltésének évétől – a fizetési fokozatától, illetve az (1a) bekezdésben foglalt számítástól függetlenül – évi negyven munkanap alapszabadság illeti meg.
 
 (3) A magasabb vezető állású és a vezető állású ügyész évi öt munkanap pótszabadságra jogosult. Az alapszabadság és a vezetői pótszabadság együttes mértéke évente a negyven munkanapot nem haladhatja meg.
 

@@ -1,5 +1,5 @@
-## | | A | B | C | D | E | 1. | Fizetési fokozat | Szolgálati idő (év) | Alsó határ szorzószáma | Felső határ szorzószáma | 2. | 1. | 0 | 3 | 0,42 | 0,70 | 3. | 2. | 4 | 7 | 0,54 | 0,76 | 4. | 3. | 8 | 11 | 0,59 | 0,88 | 5. | 4. | 12 | 18 | 0,65 | 0,92 | 6. | 5. | 19 | 25 | 0,73 | 1,05 | 7. | 6. | 26 | 30 | 0,81 | 1,09 | 8. | 7. | 31 | 35 | 0,85 | 1,13 | 9. | 8. | 36 | | 0,90 | 1,16
+## | | A) | B) | C) | | besorolási kategória megnevezése | illetmény alsó határa | illetmény felső határa | 1 | ügyészségi-tanácsos I. | a mindenkori garantált bérminimum | 500 000 Ft | 2 | ügyészségi-tanácsos II. | 300 000 Ft | 650 000 Ft | 3 | ügyészségi-főtanácsos I. | 400 000 Ft | 750 000 Ft | 4 | ügyészségi-főtanácsos II. | 450 000 Ft | 1 000 000 Ft | 5 | ügyészségi-főtanácsos III. | 500 000 Ft | 1 450 000 Ft | 6 | osztályvezető | 400 000 Ft | 1 450 000 Ft | 7 | főosztályvezető | 550 000 Ft | 2 000 000 Ft
 
 6/A. melléklet az 2011. évi CLXIV. törvényhez
 
-A IV. fizetési osztály (nem szakirányú felsőfokú iskolai végzettségű, valamint középfokú iskolai végzettségű tisztviselő és írnok) fizetési fokozatai és az azokhoz tartozó alapilletmények alsó és felső határai
+Illetménytábla a Legfőbb Ügyészségen foglalkoztatott tisztviselők, írnokok, fizikai alkalmazottak és vezetők részére

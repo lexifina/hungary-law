@@ -1,3 +1,29 @@
-135. § (1) A tisztviselő, az írnok és a fizikai alkalmazott szolgálati viszonya alapján havonta alapilletményre, továbbá – ha a folyósítás e törvényben meghatározott feltételei fennállnak – beosztási pótlékra és címpótlékra jogosult. A beosztási pótlék és a címpótlék az illetmény része. A fizikai alkalmazott kivételével az alapilletmény megállapításának alapjául az illetményalap szolgál; az alapilletményt az illetményalap és az egyes fizetési fokozatok szorzószámai alapján kell megállapítani.
+135. § (1) A tisztviselőt, írnokot és fizikai alkalmazottat – a (2) bekezdésben foglaltak kivételével – az alábbi álláshelyi besorolási kategóriákat kell alkalmazni:
 
-(2) Az alapilletmény összege nem lehet kevesebb, mint a kötelező legkisebb munkabér (minimálbér), illetve a garantált bérminimum összege.
+a) ügyintéző, ezen belül:
+
+aa) ügyészségi-tanácsos I.,
+
+ab) ügyészségi-tanácsos II.,
+
+ac) ügyészségi-főtanácsos I.,
+
+ad) ügyészségi-főtanácsos II.,
+
+ae) ügyészségi-főtanácsos III.,
+
+b) vezető.
+
+(2) A Legfőbb Ügyészségen foglalkoztatott tisztviselők, írnokok és fizikai alkalmazottak tekintetében az alábbi álláshelyi besorolási kategóriákat kell alkalmazni:
+
+a) ügyintéző, ezen belül:
+
+aa) ügyészségi-tanácsos III.,
+
+ab) ügyészségi-tanácsos IV.,
+
+ac) ügyészségi-főtanácsos IV.,
+
+ad) ügyészségi-főtanácsos V.,
+
+b) vezető.

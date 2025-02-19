@@ -1,5 +1,5 @@
-## | | A | B | C | D | E | 1. | Fizetési fokozat | Szolgálati idő (év) | Alsó határ szorzószáma | Felső határ szorzószáma | 2. | 1. | 0 | 1 | 0,53 | 0,74 | 3. | 2. | 2 | 3 | 0,57 | 0,79 | 4. | 3. | 4 | | 0,60 | 0,83
+## | | A | B | C | D | E | 1. | Fizetési fokozat | Szolgálati idő (év) | Alsó határ szorzószáma | Felső határ szorzószáma | 2. | 1. | 0 | 1 | 0,68 | 0,89 | 3. | 2. | 2 | 3 | 0,72 | 0,94 | 4. | 3. | 4 | | 0,75 | 0,98
 
-6. melléklet a 2011. évi CLXIV. törvényhez
+6. melléklet az 2011. évi CLXIV. törvényhez
 
-A III. fizetési osztály (szakirányú felsőfokú végzettségű tisztviselő) fizetési fokozatai és az azokhoz tartozó alapilletmények alsó és felső határai
+Illetménytábla az alsóbb szintű ügyészségeken foglalkoztatott tisztviselők, írnokok, fizikai alkalmazottak és vezetők részére

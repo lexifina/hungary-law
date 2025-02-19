@@ -1,5 +1,3 @@
-## | | A | B | C | D | E | 1. | Fizetési fokozat | Szolgálati idő (év) | Alsó határ szorzószáma | Felső határ szorzószáma | 2. | 1. | 0 | 3 | 0,38 | 0,47 | 3. | 2. | 4 | 7 | 0,42 | 0,54 | 4. | 3. | 8 | 11 | 0,46 | 0,66 | 5. | 4. | 12 | 18 | 0,53 | 0,73 | 6. | 5. | 19 | 25 | 0,56 | 0,77 | 7. | 6. | 26 | 30 | 0,59 | 0,80 | 8. | 7. | 31 | 35 | 0,65 | 0,85 | 9. | 8. | 36 | | 0,72 | 0,93
+## | | A) | B) | C) | | besorolási kategória megnevezése | illetmény alsó határa | illetmény felső határa | 1 | ügyészségi-tanácsos III. | a mindenkori garantált bérminimum | 750 000 Ft | 2 | ügyészségi-tanácsos IV. | 350 000 Ft | 1 000 000 Ft | 3 | ügyészségi-főtanácsos IV. | 400 000 Ft | 1 250 000 Ft | 4 | ügyészségi-főtanácsos V. | 600 000 Ft | 1 800 000 Ft | 5 | osztályvezető | 700 000 Ft | 1 600 000 Ft | 6 | főosztályvezető | 800 000 Ft | 2 000 000 Ft
 
 6/B. melléklet az 2011. évi CLXIV. törvényhez
-
-A V. fizetési osztály (vezető) fizetési fokozatai és az azokhoz tartozó alapilletmények alsó és felső határai

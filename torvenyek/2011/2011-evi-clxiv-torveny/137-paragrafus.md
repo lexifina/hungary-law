@@ -1,9 +1,21 @@
-137. § (1) A tisztviselő és az írnok fizetési fokozatát a (2)–(5) bekezdésben foglaltak szerint számított szolgálati idő alapján kell megállapítani.
+137. § (1) A munkáltatói jogkör gyakorlója a tisztviselő, írnok, fizikai alkalmazott és vezető tárgyévet megelőző teljesítményértékelése vagy minősítése alapján
 
-(2) A szolgálati időt – a (3)–(4) bekezdésben foglalt kivétellel – a kinevezés (alkalmazás) napjától kell számítani azzal, hogy a kezdő évet (töredékévet) egész évként kell figyelembe venni.
+a) illetményét az adott besorolási kategóriához tartozó összeghatáron belül legfeljebb 20%-kal csökkentheti, illetve legfeljebb 30%-kal növelheti,
 
-(3) Szolgálati időként kell figyelembe venni az igazságügyi szolgálati jogviszonyban hasonló jellegű munkakörben eltöltött időt.
+b) részére teljesítmény elismerést fizetését rendelheti el.
 
-(4) Részben vagy egészben szolgálati időként lehet figyelembe venni a 154. § (1), (3) és (4) bekezdésében felsorolt jogviszonyokban és a szakirányú végzettségnek megfelelő tevékenységgel eltöltött időt.
+(2) Az (1) bekezdés szerinti intézkedések elrendelése tekintetében a teljesítményértékelésen és minősítésén túl a munkáltatói jogkör gyakorlója az alábbi szempontokat veszi figyelembe:
 
-(5) A (3)–(4) bekezdésben foglalt rendelkezések alkalmazásakor a beszámítandó szolgálati időt úgy kell meghatározni, hogy a következő fizetési fokozatba való előresorolás a naptári év első napjával történjék. A (4) bekezdés szerinti beszámításnál figyelemmel kell lenni a helyes illetményarányokra is.
+a) a munkakörre előírt képesítés megszerzése során elért tanulmányi eredmény,
+
+b) az ügyészi szervezetben szerzett szakmai tapasztalat,
+
+c) az ügyészi szervnek nem minősülő, egyéb munkáltatónál szerzett, a munkaköre alapján ellátott feladatok szempontjából jelentős tapasztalat,
+
+d) a tisztviselő, az írnok és a fizikai alkalmazott által szerzett végzettség, egyéb képesítés, nyelvtudás,
+
+e) a munkavégzés színvonala,
+
+f) a munkakör ellátásához kapcsolódó fizikai, pszichés és munkakörnyezetből adódó terhelés, és
+
+g) a munkakör ellátásához kapcsolódó felelősség.

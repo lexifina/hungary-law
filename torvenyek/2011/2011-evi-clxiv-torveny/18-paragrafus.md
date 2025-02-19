@@ -22,7 +22,7 @@ h) a főügyészhelyettes.
 
 (3) Vezető állású ügyész:
 
-a) a legfőbb ügyészségi osztályvezető helyettes ügyész;
+a)
 
 b) a fellebbviteli főügyészségi osztályvezető ügyész;
 

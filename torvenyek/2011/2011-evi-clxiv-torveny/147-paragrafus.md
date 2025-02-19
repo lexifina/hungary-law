@@ -1,6 +1,6 @@
 147. § (1) A tisztviselőt és az írnokot évi huszonöt munkanap alapszabadságból és a (2)–(5) bekezdés szerinti pótszabadságból álló rendes szabadság illeti meg.
 
-(2) A tisztviselő és az írnok esetén a pótszabadság mértéke a 2. fizetési fokozatban évente két munkanap, amely a többi fizetési fokozatban két munkanappal növekszik. Az ügyészségi megbízott esetén a pótszabadság mértéke az 1. fizetési fokozatban évente egy munkanap, amely a többi fizetési fokozatban két munkanappal növekszik. A tisztviselő, az írnok és az ügyészségi megbízott pótszabadságának mértéke a tizenhárom munkanapot nem haladhatja meg.
+(2) A tisztviselő és az írnok esetén a pótszabadság mértéke esetén 4 év szolgálati idő után 2 munkanap, 8 év szolgálati idő után 4 munkanap, 12 év szolgálati idő után 6 munkanap, 19 év szolgálati idő után 8 munkanap, 26 év szolgálati idő után 10 munkanap, 31 év szolgálati idő után 12 munkanap, 36 év szolgálati idő után 13 munkanap. Az ügyészségi megbízott esetén a pótszabadság mértéke 3 év szolgálati időig 1 munkanap, 4 év szolgálati idő után 3 munkanap, 8 év szolgálati idő után 5 munkanap, 12 év szolgálati idő után 7 munkanap, 19 év szolgálati idő után 9 munkanap, 26 év szolgálati idő után 11 munkanap, 31 év szolgálati idő után 13 munkanap. A tisztviselő, az írnok és az ügyészségi megbízott pótszabadságának mértéke a tizenhárom munkanapot nem haladhatja meg.
 
 (3) A vezetői beosztást ellátó tisztviselőt a (2) bekezdésben meghatározott pótszabadság helyett vezetői pótszabadság illeti meg, amelynek mértéke:
 
