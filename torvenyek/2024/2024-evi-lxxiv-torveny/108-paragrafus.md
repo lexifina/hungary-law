@@ -1,1 +1,1 @@
-### 108. §
+108. § A bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény 237. § (1) bekezdésében a „232/X. §-a, 236. §-a,” szövegrész helyébe a „232/X. §-a, 232/Y. §-a, 232/Z. §-a 236. §-a,” szöveg lép.

@@ -1,1 +1,15 @@
-### 50. §
+50. § Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény a következő 134/K–134/M. §-sal egészül ki:
+
+„134/K. § (1) Az igazságügyi alkalmazott számára – a 134/L. §-ban foglaltak kivételével – az e törvénynek Magyarország 2025. évi központi költségvetésének megalapozásáról szóló 2024. évi LXXIV. törvény (a továbbiakban: Módtv3.) 52. § (1) bekezdésével megállapított rendelkezései alapján az illetményt akként kell megállapítani, hogy az magasabb legyen, mint a Módtv3. 52. §-ának hatálybalépését megelőzően őt megillető illetményelemek együttes összege.
+
+(2) Az igazságügyi alkalmazottat – a 134/L. §-ban foglaltak kivételével – a Módtv3. 52. §-ának hatálybalépését követő 30 napon belül kell 2025. január 1-jétől kezdődően e törvénynek a Módtv3. 52. § (1) bekezdésével megállapított rendelkezései szerint besorolni és – az (1) bekezdésben foglaltakat is figyelembe véve – illetményét megállapítani. A besorolásnál megállapítandó szolgálati idő a Módtv3. 52. §-ának hatálybalépése előtti besorolásnál megállapított szolgálati időnél kevesebb nem lehet. A Módtv3. 52. §-ának hatálybalépése előtt soron kívüli előresorolással megszerzett szolgálati időt a besorolásnál figyelembe kell venni.
+
+(3) Az igazságügyi alkalmazottat – a 134/L. §-ban foglaltak kivételével – az e törvénynek a Módtv3. 52. §-ával megállapított rendelkezései alapján kiszámított illetmény 2025. január 1-jétől illeti meg. Az illetmény már folyósított és megemelt összege közötti különbözet kifizetésére 2025. január 1-jére visszamenőleg, legkésőbb a Módtv3. 52. §-ának hatálybalépését követő 60 napon belül kerül sor.
+
+134/L. § (1) A bíróságon foglalkoztatott ügyintéző és a bíróságon foglalkoztatott vezető számára Módtv3. rendelkezései alapján az illetményt akként kell megállapítani, hogy az magasabb legyen, mint a Módtv3. 50. §-ának hatálybalépését megelőzően őt megillető illetményelemek együttes összege.
+
+(2) A bíróságon foglalkoztatott ügyintézőt és a bíróságon foglalkoztatott vezetőt a Módtv3. 50. §-ának hatálybalépését követő 30 napon belül kell 2025. január 1-jétől kezdődően e törvénynek a Módtv3.-al megállapított rendelkezései szerint besorolni és – az (1) bekezdésben foglaltakat is figyelembe véve – illetményét megállapítani.
+
+(3) A bíróságon foglalkoztatott ügyintézőt és a bíróságon foglalkoztatott vezetőt az e törvénynek a Módtv3.-al megállapított rendelkezései alapján kiszámított illetmény 2025. január 1-jétől illeti meg. Az illetmény már folyósított és megemelt összege közötti különbözet kifizetésére 2025. január 1-jére visszamenőleg, legkésőbb a Módtv3. 50. §-ának hatálybalépését követő 60 napon belül kerül sor.
+
+134/M. § Ha a tisztviselő, az írnok és bírósági ügyintéző számára az e törvénynek a Módtv3.-al megállapított rendelkezései alapján járó szabadsága a korábbi szabadságához képest csökkenne, mindaddig a Módtv3. hatálybalépése előtt megállapított szabadságára jogosult, amíg annak mértékét az e törvény Módtv3.-al megállapított rendelkezései szerinti szabadsága meg nem haladja.”

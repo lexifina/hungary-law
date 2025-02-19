@@ -1,1 +1,3 @@
-### 103. §
+103. § A bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény 175. §-a helyébe a következő rendelkezés lép:
+
+„175. § Ha a bírót – a fegyelmi okot kivéve – szolgálati érdekből alacsonyabb szintű bíróságra helyezik át, vagy alacsonyabb szintű bíróságra rendelik ki, korábbi beosztási pótlékára, illetve címére és a címmel járó pótlékra továbbra is jogosult. Ha a Kúria bíráját – a fegyelmi okot kivéve – szolgálati érdekből alacsonyabb szintű bíróságra helyezik át, vagy alacsonyabb szintű bíróságra rendelik ki, kúriai bírói illetményre továbbra is jogosult. Szolgálati érdeknek minősül az is, ha a bírót alacsonyabb szintű bíróságon vezetőnek nevezik ki, vagy újabb beosztására pályázat nélkül került sor.”

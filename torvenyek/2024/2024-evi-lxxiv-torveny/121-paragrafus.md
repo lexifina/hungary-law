@@ -1,1 +1,5 @@
-### 121. §
+121. § A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény a következő 165/Y. §-sal egészül ki:
+
+„165/Y. § (1) A legfőbb ügyészségi ügyészeket és vezető ügyészeket az e törvénynek a Módtv3. 110. § és 114. §-ával megállapított rendelkezései alapján kiszámított illetmény 2025. január 1-jétől illeti meg, ez az illetmény nem lehet kevesebb mint az érintett illetményének a Módtv3. 110. § és 114. §-ának hatályba lépése előtti összege. Az illetmény már folyósított és megemelt összege közötti különbözet kifizetésére 2025. január 1-jére visszamenőleg, legkésőbb a Módtv3. 110. § és 114. §-ának hatálybalépését követő 60. napig kerül sor.
+
+(2) Ha a legfőbb ügyészségi ügyész számára az e törvénynek a Módtv3.-al megállapított rendelkezései alapján járó szabadsága a korábbi szabadságához képest csökkenne, mindaddig a Módtv3. hatálybalépése előtt megállapított szabadságára jogosult, amíg annak mértékét az e törvény Módtv3.-al megállapított rendelkezései szerinti szabadsága meg nem haladja.”
