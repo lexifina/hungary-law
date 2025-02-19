@@ -29,3 +29,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-130-00-00
 | 2024-09-01 | 2024. évi XII. törvény | 2016-130-00-00.23 |
 | 2025-01-01 | 2024. évi LI. törvény | 2016-130-00-00.22 |
 | 2025-01-15 | 2021. évi CXLVI. törvény | 2016-130-00-00.25 |
+| 2025-02-19 | 2024. évi LXXIII. törvény | 2016-130-00-00.26 |

@@ -14,7 +14,11 @@ b) a közokirattal tanúsított adatok és tények valóságát,
 
 c) a közokiratban foglalt nyilatkozat megtételét, annak idejét és módját.
 
-(3a) Az elektronikus közokirat teljes bizonyító erővel bizonyítja a közokirat aláírása pillanatában a kiállító személynek a Dáptv. szerinti szerepkörét, ha a szerepkört a szerepkör-tanúsító szolgáltató szerepkör-tanúsítványban igazolta.
+(3a) Az elektronikus közokirat teljes bizonyító erővel bizonyítja a közokirat aláírása pillanatában a kiállító személynek a Dáptv. szerinti szerepkörét, ha a szerepkört
+
+a) a szerepkör-tanúsító szolgáltató szerepkör-tanúsítványban igazolta, vagy
+
+b) az azonosításra visszavezetett dokumentumhitelesítés szolgáltatás igazolása tartalmazza.
 
 (3b) Elektronikus közokirat esetében jogszabály a (3a) bekezdéstől eltérő módon is lehetővé teheti a Dáptv. szerinti szerepkör teljes bizonyító erejű igazolását.
 
