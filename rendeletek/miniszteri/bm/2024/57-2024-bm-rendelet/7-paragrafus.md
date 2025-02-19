@@ -1,1 +1,3 @@
-7. § Hatályát veszti a 32/2004. (IV. 26.) ESZCSM rendelet 5/A. § (1a), (1b) és (4) bekezdése, valamint 1. számú melléklete.
+7. §[^8]
+
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

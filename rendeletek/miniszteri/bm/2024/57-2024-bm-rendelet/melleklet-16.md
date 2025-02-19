@@ -1,3 +1,3 @@
-16. melléklet az 57/2024. (XII. 20.) BM rendelethez[^48]
+16. melléklet az 57/2024. (XII. 20.) BM rendelethez[^57]
 
-[^48]: A 16. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^57]: A 16. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

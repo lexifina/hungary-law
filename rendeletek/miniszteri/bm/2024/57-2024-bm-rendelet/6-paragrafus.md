@@ -1,3 +1,3 @@
-6. § (1) A 32/2004. (IV. 26.) ESZCSM rendelet 2. számú melléklete a 2. melléklet szerint módosul.
+6. §[^7]
 
-(2) A 32/2004. (IV. 26.) ESZCSM rendelet 6/a. számú melléklete helyébe a 3. melléklet lép.
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
