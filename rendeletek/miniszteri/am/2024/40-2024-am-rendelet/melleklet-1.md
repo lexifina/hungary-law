@@ -58,10 +58,12 @@ Nemzetbiztonsági ellenőrzés alá eső munkakörök
 
 2.1.8. a Kiemelt Ügyek Igazgatósága valamennyi vezetője,
 
-2.1.9. a nemzeti és az európai létfontosságú rendszerelem kijelölési eljárásában részt vevő biztonsági referens,
+2.1.9.[^3] a kritikus szervezet és a kritikus infrastruktúra kijelölési eljárásában részt vevő biztonsági referens,
 
 2.1.10. az elnöki, elnökhelyettesi titkárságvezető,
 
 2.1.11. az országos főállatorvos által az országos élelmiszerlánc-biztonsági válságkezelési feladatok ellátására kijelölt személy,
 
 2.1.12. az Országos Járványvédelmi Központ igazgatója.
+
+[^3]: Az 1. melléklet 2.1.9. pontja a 2/2025. (II. 18.) AM rendelet 2. §-a szerint módosított szöveg.
