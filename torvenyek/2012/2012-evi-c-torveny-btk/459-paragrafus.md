@@ -110,6 +110,14 @@ r) az országos és a helyi közutakon, az állam vagy a helyi önkormányzat tu
 
 s) az útellenőr, és a kezelői ellenőr a közúti közlekedésről szóló törvényben meghatározott tevékenysége körében.
 
+t) a kritikus szervezet által kritikus munkakörben foglalkoztatott személy a kritikus szervezetnél végzett tevékenysége körében,
+
+u) a kritikus szervezet ellenálló képességéért felelős vezető a kritikus szervezetek ellenálló képességéről szóló törvényben meghatározott tevékenysége körében,
+
+v) a létfontosságú szervezet kritikus munkakörben foglalkoztatott személye a létfontosságú szervezetnél végzett tevékenysége körében,
+
+w) az ellenálló képességért felelős vezető a védelmi és biztonsági tevékenységek összehangolásáról szóló törvényben meghatározott tevékenysége körében.
+
 13. külföldi hivatalos személy:
 
 a) a külföldi államban jogalkotási, igazságszolgáltatási, közigazgatási vagy bűnüldözési feladatot ellátó személy, illetve külföldi államban közhatalmi feladatot ellátó vagy szolgálatot teljesítő személy, ideértve a köztestületben vagy az állami vagy önkormányzati vállalkozásban ilyen feladatot ellátó vagy szolgálatot teljesítő személyt is,
@@ -155,6 +163,10 @@ c) az elektronikus hírközlő hálózat,
 d) az egyetemes postai szolgáltató közérdekű feladatainak teljesítése érdekében üzemeltetett logisztikai, pénzforgalmi és informatikai központok és üzemek,
 
 e) a hadianyagot, haditechnikai eszközt termelő üzemet, energiát vagy üzemi felhasználásra szánt alapanyagot termelő üzem;
+
+f) a kritikus szervezetek ellenálló képességéről szóló törvény alapján kijelölt kritikus infrastruktúra,
+
+g) a védelmi és biztonsági tevékenységek összehangolásáról szóló törvény alapján kijelölt, az ország védelme és biztonsága szempontjából jelentős infrastruktúra;
 
 22. nagy nyilvánosságon a bűncselekménynek a sajtótermék, médiaszolgáltatás, sokszorosítás vagy elektronikus hírközlő hálózaton való közzététel útján történő elkövetését is érteni kell;
 

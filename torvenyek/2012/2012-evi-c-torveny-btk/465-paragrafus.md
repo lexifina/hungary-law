@@ -25,15 +25,3 @@ h) 392–394. §-a a nem készpénzes fizetőeszközökkel összefüggő csalás
 i) 399–402. §-a
 
 ia) a pénzügyi rendszerek pénzmosás vagy terrorizmusfinanszírozás céljára való felhasználásának megelőzéséről, a 648/2012/EU európai parlamenti és tanácsi rendelet módosításáról, valamint a 2005/60/EK európai parlamenti és tanácsi irányelv és a 2006/70/EK bizottsági irányelv hatályon kívül helyezéséről szóló, 2015. május 20-i (EU) 2015/849 európai parlamenti és tanácsi irányelvnek,
-
-ib) a pénzmosás ellen büntetőjogi eszközökkel folytatott küzdelemről szóló, 2018. október 23-i (EU) 2018/1673 európai parlamenti és tanácsi irányelvnek,
-
-j) 410–411. §-a és 414. §-a a piaci visszaélések büntetőjogi szankcióiról (piaci visszaélésekről) szóló 2014. április 16-i 2014/57/EU európai parlamenti és tanácsi irányelvnek,
-
-k) 72–76. §-a a bűncselekmény elkövetési eszközeinek és az abból származó jövedelemnek az Európai Unión belüli befagyasztásáról és elkobzásáról szóló 2014. április 3-i 2014/42/EU európai parlamenti és tanácsi irányelvnek,
-
-l) 219. §-a a személyes adatoknak az illetékes hatóságok által a bűncselekmények megelőzése, nyomozása, felderítése, a vádeljárás lefolytatása vagy büntetőjogi szankciók végrehajtása céljából végzett kezelése tekintetében a természetes személyek védelméről és az ilyen adatok szabad áramlásáról, valamint a 2008/977/IB tanácsi kerethatározat hatályon kívül helyezéséről szóló, 2016. április 27-i (EU) 2016/680 európai parlamenti és tanácsi irányelvnek,
-
-m) 3., 10., 12., 14., 31., 63., 72–77., 80., 314–318/A., 319. és 331. §-a a terrorizmus elleni küzdelemről, a 2002/475/IB tanácsi kerethatározat felváltásáról, valamint a 2005/671/IB tanácsi határozat módosításáról szóló, 2017. március 15-i (EU) 2017/541 európai parlamenti és tanácsi irányelvnek,
-
-n) 185/A. §-a
