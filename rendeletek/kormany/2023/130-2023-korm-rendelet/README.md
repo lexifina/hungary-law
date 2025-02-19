@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-130-20-
 | 2023-09-16 | 2023-130-20-22.5 | 430/2023. (IX. 15.) Korm. rendelet |
 | 2023-10-10 | 2023-130-20-22.8 | 464/2023. (X. 9.) Korm. rendelet |
 | 2024-02-20 | 2023-130-20-22.9 | 26/2024. (II. 19.) Korm. rendelet |
+| 2025-02-19 | 2023-130-20-22.10 | 20/2025. (II. 18.) Korm. rendelet |
