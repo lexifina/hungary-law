@@ -16,6 +16,10 @@ b) belépni a folyamatban lévő peres és nemperes eljárásokba.
 
 (6) Az (5) bekezdésben foglalt rendelkezés nem terjed ki a 2023. június 30-i, vagy azt megelőző felhasználási záródátumú azon támogatási szerződésekre, amelyek az e rendelet hatályba lépéséig megrendezett sporteseményekkel összefüggésben kerültek megkötésre.
 
-(7)[^9] A 2023. január 1-jét követően megrendezésre kerülő sportesemények megszervezésével kapcsolatos feladatokra 2022. december 31-ig létrejött és 2023. december 31. napján folyamatban lévő támogatási jogviszonyok tekintetében a Nemzeti Sportügynökség az NRÜ Zrt. jogutódja, amelyhez harmadik fél hozzájárulása nem szükséges, a jogutódlásról a szerződésben, megállapodásban részes feleket értesíteni kell.
+(7)[^10] A 2023. január 1-jét követően megrendezésre kerülő sportesemények megszervezésével kapcsolatos feladatokra 2022. december 31-ig létrejött és 2023. december 31. napján folyamatban lévő támogatási jogviszonyok tekintetében a Nemzeti Sportügynökség az NRÜ Zrt. jogutódja, amelyhez harmadik fél hozzájárulása nem szükséges, a jogutódlásról a szerződésben, megállapodásban részes feleket értesíteni kell.
 
-[^9]: A 13. § (7) bekezdését az 576/2023. (XII. 18.) Korm. rendelet 1. §-a iktatta be.
+(8)[^11] Az állami sport célú támogatások felhasználásáról és elosztásáról szóló 474/2016. (XII. 27.) Korm. rendelet, valamint a Nemzeti Rendezvényszervező Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság kijelöléséről és egyes feladatainak meghatározásáról szóló 591/2022. (XII. 28.) Korm. rendelet módosításáról szóló 18/2025. (II. 18.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 1. § (3) bekezdés b) pontját a Módr. hatálybalépésekor[^12] fennálló tényekre, jogviszonyokra és a Módr. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
+
+[^10]: A 13. § (7) bekezdését az 576/2023. (XII. 18.) Korm. rendelet 1. §-a iktatta be.
+[^11]: A 13. § (8) bekezdését a 18/2025. (II. 18.) Korm. rendelet 3. §-a iktatta be.
+[^12]: A hatálybalépés időpontja 2025. február 19.

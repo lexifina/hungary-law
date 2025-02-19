@@ -12,7 +12,7 @@ d) a kiemelt esemény előkészítése, megrendezése és lebonyolítása érdek
 
 e) a kiemelt esemény megrendezésének megpályázására, megrendezésére és lebonyolítására vonatkozó feladat ellátás során gondoskodik a rendelkezésre álló költségvetési források hatékony felhasználásáról.
 
-(2)[^6] A kiemelt sportesemény megrendezésével kapcsolatban – az (1) bekezdésben foglaltakon kívül – az NRÜ Zrt. a kiemelt sportesemény megrendezésének megpályázására, megrendezésére és lebonyolítására vonatkozó feladatellátása során a 474/2016. (XII. 27.) Korm. rendelet 38/D. §–38/F. §-ában rögzített eljárási szabályok szerint:
+(2)[^7] A kiemelt sportesemény megrendezésével kapcsolatban – az (1) bekezdésben foglaltakon kívül – az NRÜ Zrt. a kiemelt sportesemény megrendezésének megpályázására, megrendezésére és lebonyolítására vonatkozó feladatellátása során a 474/2016. (XII. 27.) Korm. rendelet 38/D. §–38/F. §-ában rögzített eljárási szabályok szerint:
 
 a) részt vesz a kiemelt hazai rendezésű sportesemények rendezésének támogatására szolgáló előirányzatból nyújtott támogatások felhasználásának és elosztásának részletes szabályait, valamint a feladatait érintő kormány-előterjesztések, jelentések előzetes és közigazgatási egyeztetésében és véleményezésében,
 
@@ -38,4 +38,4 @@ b) figyelemmel kíséri és vizsgálja a belföldi és nemzetközi turisztikai v
 
 c) gondoskodik a fenti célok szerinti hatáskörébe utalt rendezvények, saját hatáskörben történő megtervezéséről, megszervezéséről, megvalósításáról és azok teljes körű lebonyolításáról.
 
-[^6]: A 6. § (2) bekezdés nyitó szövegrésze a 11. § (4) bekezdése szerint módosított szöveg.
+[^7]: A 6. § (2) bekezdés nyitó szövegrésze a 11. § (4) bekezdése szerint módosított szöveg.

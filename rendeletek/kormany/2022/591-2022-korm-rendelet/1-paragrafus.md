@@ -8,7 +8,8 @@
 
 a) a támogatás nélkül megrendezendő sporteseményre,
 
-b) az autó-motor-, ejtőernyős, motorcsónak- és repülősportágak sportrendezvényeire.
+b)[^3] az autó-, ejtőernyős, motorcsónak- és repülősportágak sportrendezvényeire.
 
 [^1]: Az 1. § (1) bekezdése a 11. § (1) bekezdésével megállapított szöveg.
 [^2]: [Az 1. § (2) bekezdésében a 11. § (2) bekezdésével elrendelt módosítás nem vezethető át.]
+[^3]: Az 1. § (3) bekezdés b) pontja a 18/2025. (II. 18.) Korm. rendelet 2. §-ával megállapított szöveg.
