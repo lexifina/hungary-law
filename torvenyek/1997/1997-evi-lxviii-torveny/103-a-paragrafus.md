@@ -1,1 +1,3 @@
-### 103/A. §
+103/A. § (1) A bíróságokon, az OBH-ban és az OBT-nél foglalkoztatott tisztviselő, írnok és fizikai dolgozó (a továbbiakban együtt: bíróságon foglalkoztatott ügyintéző), valamint – az OBH elnökhelyettesének kivételével – a tisztviselők, írnokok és fizikai dolgozók közül kinevezett vezető (a továbbiakban együtt: bíróságon foglalkoztatott vezető) az e törvényben meghatározottak szerint megállapított illetményre jogosult. Az illetmény összege nem lehet kevesebb, mint a garantált bérminimum összege.
+
+(2) A bíróságon foglalkoztatott ügyintézők és a bíróságon foglalkoztatott vezetők esetében nem alkalmazhatók – a szolgálati idő számítására vonatkozó szabályok kivételével – e törvény 97–106. §-ában, valamint a 122. § foglaltak, a bíróságon foglalkoztatott ügyintézők és a bíróságon foglalkoztatott vezetők besorolására és illetmény megállapítására, valamint érdemeik elismerésére a 107-109/A. §-ok rendelkezéseit kell alkalmazni.

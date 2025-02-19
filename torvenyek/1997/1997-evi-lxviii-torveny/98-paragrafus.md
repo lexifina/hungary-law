@@ -1,9 +1,9 @@
 98. § (1) A bírósági titkárt és az igazságügyi szakértőt az I. fizetési osztályba kell besorolni; a fizetési fokozatokat a bírósági titkár tekintetében a 3. melléklet 1. pontja, az igazságügyi szakértő tekintetében a 3. melléklet 2. pontja tartalmazza. A bírósági fogalmazót és a szakértő gyakornokot a II. fizetési osztályba kell besorolni; a fizetési fokozatokat a bírósági fogalmazó tekintetében a 4. melléklet 1. pontja, a szakértő gyakornok tekintetében a 4. melléklet 2. pontja tartalmazza. A szakirányú felsőfokú iskolai végzettségű tisztviselőt és technikust a III. fizetési osztályba kell besorolni, amely tekintetében az 5. melléklet tartalmazza a fizetési fokozatokat. A nem szakirányú felsőfokú iskolai végzettségű, valamint a középfokú iskolai végzettségű tisztviselőt és technikust, továbbá az írnokot a IV. fizetési osztályba kell besorolni, amely tekintetében a fizetési fokozatokat a 6. melléklet tartalmazza.
 
-(2) A munkáltatói jogkör gyakorlója a 2. § (2) bekezdés b)–d) pontja szerinti igazságügyi alkalmazott munkakörét kiemelt munkakörré minősítheti.
+(2)
 
-(3) A munkáltatói jogkör gyakorlója a kiemelt munkakörben foglalkoztatott igazságügyi alkalmazott illetményét az Mt. alapján állapíthatja meg, amelynek havi mértéke a tárgyév március 1-jétől a következő év február végéig terjedő időszakra vonatkozóan nem haladhatja meg a Központi Statisztikai Hivatal által közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági átlagos havi bruttó munkabér tízszeresét.
+(3)
 
-(4) Az igazságügyi szervnél a tárgyévben kiemelt munkakörben foglalkoztatott igazságügyi alkalmazottak aránya együttesen nem haladhatja meg az éves átlagos statisztikai állományi létszám tíz százalékát.
+(4)
 
-(5) Azokat a munkaköröket, amelyek esetében a 97. § (3) bekezdés f) pontjának figyelembevétele nem mellőzhető, az igazságügyért felelős miniszter, valamint a miniszter rendeletben határozza meg.
+(5)

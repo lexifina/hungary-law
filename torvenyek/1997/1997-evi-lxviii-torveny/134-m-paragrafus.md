@@ -1,0 +1,1 @@
+134/M. § Ha a tisztviselő, az írnok és bírósági ügyintéző számára az e törvénynek a Módtv3.-al megállapított rendelkezései alapján járó szabadsága a korábbi szabadságához képest csökkenne, mindaddig a Módtv3. hatálybalépése előtt megállapított szabadságára jogosult, amíg annak mértékét az e törvény Módtv3.-al megállapított rendelkezései szerinti szabadsága meg nem haladja.

@@ -1,3 +1,5 @@
+## Megjegyzés: A nyilvántartási szám az alkalmazott szolgálati helyére és beosztására utal, továbbá a szolgálati helyen belüli azonosításra szolgál.
+
 3. melléklet az 1997. évi LXVIII. törvényhez
 
 Az I. fizetési osztály (bírósági titkár, igazságügyi szakértő) fizetési fokozatai és az azokhoz tartozó alapilletmények alsó és felső határai
@@ -28,7 +30,7 @@ E
 
 |
 
-1.
+1
 
 |
 
@@ -36,25 +38,19 @@ Fizetési fokozat
 
 |
 
-Szolgálati idő
-
-(év)
+Szolgálati idő (év)
 
 |
 
-Alsó határ
-
-szorzószáma
+Alsó határ szorzószáma
 
 |
 
-Felső határ
-
-szorzószáma
+Felső határ szorzószáma
 
 |
 
-2.
+2
 
 |
 
@@ -70,15 +66,15 @@ szorzószáma
 
 |
 
-0,84
+0,99
 
 |
 
-0,92
+1,07
 
 |
 
-3.
+3
 
 |
 
@@ -94,15 +90,15 @@ szorzószáma
 
 |
 
-0,90
+1,05
 
 |
 
-1,08
+1,23
 
 |
 
-4.
+4
 
 |
 
@@ -118,15 +114,15 @@ szorzószáma
 
 |
 
-0,98
+1,13
 
 |
 
-1,19
+1,34
 
 |
 
-5.
+5
 
 |
 
@@ -142,15 +138,15 @@ szorzószáma
 
 |
 
-1,04
+1,19
 
 |
 
-1,25
+1,4
 
 |
 
-6.
+6
 
 |
 
@@ -166,15 +162,15 @@ szorzószáma
 
 |
 
-1,09
+1,24
 
 |
 
-1,31
+1,46
 
 |
 
-7.
+7
 
 |
 
@@ -190,15 +186,15 @@ szorzószáma
 
 |
 
-1,14
+1,29
 
 |
 
-1,37
+1,52
 
 |
 
-8.
+8
 
 |
 
@@ -212,11 +208,11 @@ szorzószáma
 
 |
 
-1,26
+1,41
 
 |
 
-1,40
+1,55
 
 2. Igazságügyi szakértő
 
@@ -252,21 +248,15 @@ Fizetési fokozat
 
 |
 
-Szolgálati idő
-
-(év)
+Szolgálati idő (év)
 
 |
 
-Alsó határ
-
-szorzószáma
+Alsó határ szorzószáma
 
 |
 
-Felső határ
-
-szorzószáma
+Felső határ szorzószáma
 
 |
 
@@ -286,11 +276,11 @@ szorzószáma
 
 |
 
-0,84
+0,99
 
 |
 
-0,92
+1,07
 
 |
 
@@ -310,11 +300,11 @@ szorzószáma
 
 |
 
-0,90
+1,05
 
 |
 
-1,08
+1,23
 
 |
 
@@ -334,11 +324,11 @@ szorzószáma
 
 |
 
-0,98
+1,13
 
 |
 
-1,19
+1,34
 
 |
 
@@ -358,11 +348,11 @@ szorzószáma
 
 |
 
-1,04
+1,19
 
 |
 
-1,25
+1,4
 
 |
 
@@ -382,11 +372,11 @@ szorzószáma
 
 |
 
-1,09
+1,24
 
 |
 
-1,31
+1,46
 
 |
 
@@ -406,11 +396,11 @@ szorzószáma
 
 |
 
-1,14
+1,29
 
 |
 
-1,37
+1,52
 
 |
 
@@ -428,8 +418,8 @@ szorzószáma
 
 |
 
-1,26
+1,41
 
 |
 
-1,40
+1,55

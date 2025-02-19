@@ -1,6 +1,6 @@
 4. melléklet az 1997. évi LXVIII. törvényhez
 
-A II. fizetési osztály (bírósági fogalmazó, szakértő gyakornok) fizetési fokozatai és az azokhoz tartozó alapilletmények alsó és felső határai
+A II. fizetési osztály (bírósági fogalmazó, szakértőjelölt) fizetési fokozatai és az azokhoz tartozó alapilletmények alsó és felső határai
 
 1. Bírósági fogalmazó
 
@@ -28,7 +28,7 @@ E
 
 |
 
-1.
+1
 
 |
 
@@ -36,25 +36,19 @@ Fizetési fokozat
 
 |
 
-Szolgálati idő
-
-(év)
+Szolgálati idő (év)
 
 |
 
-Alsó határ
-
-szorzószáma
+Alsó határ szorzószáma
 
 |
 
-Felső határ
-
-szorzószáma
+Felső határ szorzószáma
 
 |
 
-2.
+2
 
 |
 
@@ -70,15 +64,15 @@ szorzószáma
 
 |
 
-0,53
+0,68
 
 |
 
-0,74
+0,89
 
 |
 
-3.
+3
 
 |
 
@@ -94,15 +88,15 @@ szorzószáma
 
 |
 
-0,57
+0,72
 
 |
 
-0,79
+0,94
 
 |
 
-4.
+4
 
 |
 
@@ -116,13 +110,13 @@ szorzószáma
 
 |
 
-0,60
+0,75
 
 |
 
-0,83
+0,98
 
-2. Szakértő gyakornok
+2. Szakértőjelölt
 
 |
 
@@ -156,21 +150,15 @@ Fizetési fokozat
 
 |
 
-Szolgálati idő
-
-(év)
+Szolgálati idő (év)
 
 |
 
-Alsó határ
-
-szorzószáma
+Alsó határ szorzószáma
 
 |
 
-Felső határ
-
-szorzószáma
+Felső határ szorzószáma
 
 |
 
@@ -190,11 +178,11 @@ szorzószáma
 
 |
 
-0,53
+0,68
 
 |
 
-0,74
+0,89
 
 |
 
@@ -214,11 +202,11 @@ szorzószáma
 
 |
 
-0,57
+0,72
 
 |
 
-0,79
+0,94
 
 |
 
@@ -236,8 +224,8 @@ szorzószáma
 
 |
 
-0,60
+0,75
 
 |
 
-0,83
+0,98

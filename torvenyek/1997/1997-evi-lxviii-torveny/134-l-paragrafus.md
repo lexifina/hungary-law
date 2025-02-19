@@ -1,0 +1,5 @@
+134/L. § (1) A bíróságon foglalkoztatott ügyintéző és a bíróságon foglalkoztatott vezető számára Módtv3. rendelkezései alapján az illetményt akként kell megállapítani, hogy az magasabb legyen, mint a Módtv3. 50. §-ának hatálybalépését megelőzően őt megillető illetményelemek együttes összege.
+
+(2) A bíróságon foglalkoztatott ügyintézőt és a bíróságon foglalkoztatott vezetőt a Módtv3. 50. §-ának hatálybalépését követő 30 napon belül kell 2025. január 1-jétől kezdődően e törvénynek a Módtv3.-al megállapított rendelkezései szerint besorolni és – az (1) bekezdésben foglaltakat is figyelembe véve – illetményét megállapítani.
+
+(3) A bíróságon foglalkoztatott ügyintézőt és a bíróságon foglalkoztatott vezetőt az e törvénynek a Módtv3.-al megállapított rendelkezései alapján kiszámított illetmény 2025. január 1-jétől illeti meg. Az illetmény már folyósított és megemelt összege közötti különbözet kifizetésére 2025. január 1-jére visszamenőleg, legkésőbb a Módtv3. 50. §-ának hatálybalépését követő 60 napon belül kerül sor.
