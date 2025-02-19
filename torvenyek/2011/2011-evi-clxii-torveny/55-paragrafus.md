@@ -1,8 +1,10 @@
 ## 27. A bíró szabadsága
 
-55. § (1) Az 1. fizetési fokozatba tartozó bíró alapszabadsága évi 30 munkanap, ezt követően az alapszabadság a második fizetési fokozatban évi két munkanappal, majd fizetési fokozatonként évi egy munkanappal emelkedik.
+55. § (1) A Kúria bírájának kivételével az 1. fizetési fokozatba tartozó bíró alapszabadsága évi 30 munkanap, ezt követően az alapszabadság a második fizetési fokozatban évi két munkanappal, majd fizetési fokozatonként évi egy munkanappal emelkedik.
 
-(2) A bírót az 50. életéve betöltésének évétől – a fizetési fokozatától függetlenül – évi 40 munkanap alapszabadság illeti meg.
+(1a) A Kúria bírájának alapszabadsága három éves szolgálati időig harminc munkanap, négy év szolgálati idő után harminckét munkanap, majd ezt követően az alapszabadság 3 évenként további egy munkanappal emelkedik.
+
+(2) A bírót az 50. életéve betöltésének évétől – a fizetési fokozatától, illetve az (1a) bekezdésben foglalt számítástól függetlenül – évi 40 munkanap alapszabadság illeti meg.
 
 (3) A bírósági vezetők évi 5 munkanap pótszabadságra jogosultak. Az évi alapszabadság és a vezetői pótszabadság együttes mértéke a 40 munkanapot nem haladhatja meg.
 

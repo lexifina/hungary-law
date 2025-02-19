@@ -6,7 +6,7 @@ b) a törvényszéki bíró részére „címzetes táblabíró”,
 
 c) az ítélőtábla bírája részére „címzetes kúriai bíró”,
 
-d) a kúria bírája részére „kúriai tanácsos”
+d)
 
 címet adományozhat.
 
@@ -18,8 +18,8 @@ b) a törvényszéki bíró részére „címzetes táblabíró”,
 
 c) az ítélőtábla bírája részére „címzetes kúriai bíró”,
 
-d) a kúria bírája részére „kúriai tanácsos”
+d)
 
 címet adományoz.
 
-(3) Az (1) és (2) bekezdés szerinti cím adományozásával címpótlékként a címzetes törvényszéki bíró a bírói illetményalap összegének a 30 százalékát, a címzetes táblabíró az 50 százalékát, a címzetes kúriai bíró a 80 százalékát, a kúriai tanácsos a 130 százalékát kitevő összegre jogosult. Egyidejűleg a tényleges beosztással járó beosztási pótlékra való jogosultság megszűnik.
+(3) Az (1) és (2) bekezdés szerinti cím adományozásával címpótlékként a címzetes törvényszéki bíró a bírói illetményalap összegének a 30 százalékát, a címzetes táblabíró az 50 százalékát, a címzetes kúriai bíró a 80 százalékát kitevő összegre jogosult. Egyidejűleg a tényleges beosztással járó beosztási pótlékra való jogosultság megszűnik.

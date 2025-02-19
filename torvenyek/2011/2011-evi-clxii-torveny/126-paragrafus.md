@@ -2,7 +2,7 @@
 
 a) megrovás esetén egy évig,
 
-b) egy fizetési fokozattal való visszavetés, két fizetési fokozattal való visszavetés, illetve a vezetői tisztségből való felmentés esetén két évig,
+b) egy fizetési fokozattal való visszavetés, két fizetési fokozattal való visszavetés – a Kúria bírája esetében egyévi illetménycsökkentés, kétévi illetménycsökkentés –, illetve a vezetői tisztségből való felmentés esetén két évig,
 
 c) a bírói tisztségből való felmentés indítványozása esetén 3 évig
 

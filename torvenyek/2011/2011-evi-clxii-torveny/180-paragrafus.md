@@ -12,8 +12,8 @@ b) középfokú komplex nyelvvizsga esetén a bírói illetményalap összegéne
 
 c) alapfokú komplex nyelvvizsga esetén a bírói illetményalap összegének két százaléka.
 
-(3) Ha a bíró a (2) bekezdésben meghatározott idegen nyelvekből szóbeli vagy írásbeli nyelvvizsgával rendelkezik, az (1) bekezdésben foglalt komplex nyelvvizsgára meghatározott mérték szerint jogosult pótlékra.
+(3) Ha a Kúria bírájának kivételével a bíró a (2) bekezdésben meghatározott idegen nyelvekből szóbeli vagy írásbeli nyelvvizsgával rendelkezik, az (1) bekezdésben foglalt komplex nyelvvizsgára meghatározott mérték szerint jogosult pótlékra.
 
-(4) Ha a bíró ugyanazon idegen nyelvből azonos típusú, de különböző fokozatú, illetve különböző típusú és különböző fokozatú nyelvvizsgával rendelkezik, a magasabb mértékű pótlékra jogosult. Ha a bíró különböző típusú, de azonos fokozatú nyelvvizsgával rendelkezik, nem jogosult a komplex nyelvvizsgánál magasabb mértékű pótlékra.
+(4) Ha a Kúria bírájának kivételével a bíró ugyanazon idegen nyelvből azonos típusú, de különböző fokozatú, illetve különböző típusú és különböző fokozatú nyelvvizsgával rendelkezik, a magasabb mértékű pótlékra jogosult. Ha a Kúria bírájának kivételével a bíró különböző típusú, de azonos fokozatú nyelvvizsgával rendelkezik, nem jogosult a komplex nyelvvizsgánál magasabb mértékű pótlékra.
 
-(5) Ha a bíró – a felsőfokú szaknyelvi vizsga kivételével – tanulmányi szerződés alapján pénzbeli támogatást kap a nyelvvizsga megszerzéséhez, idegennyelv-ismereti pótlékra mindaddig nem jogosult, amíg a havonta fizetendő pótlék halmozott összege nem éri el a tanulmányi szerződés alapján kifizetett pénzbeli támogatás mértékét.
+(5) Ha a Kúria bírájának kivételével a bíró – a felsőfokú szaknyelvi vizsga kivételével – tanulmányi szerződés alapján pénzbeli támogatást kap a nyelvvizsga megszerzéséhez, idegennyelv-ismereti pótlékra mindaddig nem jogosult, amíg a havonta fizetendő pótlék halmozott összege nem éri el a tanulmányi szerződés alapján kifizetett pénzbeli támogatás mértékét.
