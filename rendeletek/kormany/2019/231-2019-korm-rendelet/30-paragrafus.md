@@ -4,12 +4,12 @@
 
 (2) Az (1) bekezdést az Eftv. 3. §-a és 4. §-a szerinti költségvetési támogatásra nem lehet alkalmazni.
 
-(3)[^20]
+(3)[^24]
 
-(4)[^21] A bevett egyház és belső egyházi jogi személye számára a központi költségvetésről szóló törvénynek a köznevelésért felelős miniszter által vezetett minisztérium költségvetési fejezetéből a hit- és erkölcstanoktatás hat főt meg nem haladó csoportja után nyújtott költségvetési támogatásra az Ávr. 93. § (3) bekezdését nem kell alkalmazni.
+(4)[^25] A bevett egyház és belső egyházi jogi személye számára a központi költségvetésről szóló törvénynek a köznevelésért felelős miniszter által vezetett minisztérium költségvetési fejezetéből a hit- és erkölcstanoktatás hat főt meg nem haladó csoportja után nyújtott költségvetési támogatásra az Ávr. 93. § (3) bekezdését nem kell alkalmazni.
 
-(5)[^22] Az (1) bekezdés szerinti támogatás esetén, amennyiben a támogató az Áht. 50/A. §-a szerinti biztosíték kikötésétől az Ávr. 84. § (1) bekezdése alapján nem tekint el, úgy az Ávr. 85. §-ától eltérően a fenntartási időszakra biztosítékként kizárólag a kedvezményezett – jogszabály alapján beszedési megbízással megterhelhető – fizetési számlájára vonatkozó, a támogató javára szóló beszedési megbízás benyújtására vonatkozó felhatalmazó nyilatkozata írható elő, a követelés legfeljebb harmincöt napra való sorba állítására vonatkozó rendelkezéssel együtt.
+(5)[^26] Az (1) bekezdés szerinti támogatás esetén, amennyiben a támogató az Áht. 50/A. §-a szerinti biztosíték kikötésétől az Ávr. 84. § (1) bekezdése alapján nem tekint el, úgy az Ávr. 85. §-ától eltérően a fenntartási időszakra biztosítékként kizárólag a kedvezményezett – jogszabály alapján beszedési megbízással megterhelhető – fizetési számlájára vonatkozó, a támogató javára szóló beszedési megbízás benyújtására vonatkozó felhatalmazó nyilatkozata írható elő, a követelés legfeljebb harmincöt napra való sorba állítására vonatkozó rendelkezéssel együtt.
 
-[^20]: A 30. § (3) bekezdését az 516/2022. (XII. 13.) Korm. rendelet 7. § b) pontja hatályon kívül helyezte.
-[^21]: A 30. § (4) bekezdése az 516/2022. (XII. 13.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
-[^22]: A 30. § (5) bekezdését az 516/2022. (XII. 13.) Korm. rendelet 3. §-a iktatta be.
+[^24]: A 30. § (3) bekezdését az 516/2022. (XII. 13.) Korm. rendelet 7. § b) pontja hatályon kívül helyezte.
+[^25]: A 30. § (4) bekezdése az 516/2022. (XII. 13.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^26]: A 30. § (5) bekezdését az 516/2022. (XII. 13.) Korm. rendelet 3. §-a iktatta be.
