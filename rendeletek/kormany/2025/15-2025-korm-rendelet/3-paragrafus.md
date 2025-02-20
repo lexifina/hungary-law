@@ -1,1 +1,3 @@
-3. § Hatályát veszti az R. 27. § (1) bekezdésében a „72. § (2) bekezdését,” szövegrész.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

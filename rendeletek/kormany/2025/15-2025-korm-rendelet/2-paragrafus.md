@@ -1,7 +1,3 @@
-2. § Az R.
+2. §[^3]
 
-a) 28/E. § (1) bekezdésében az „a támogatás éve április 30-áig” szövegrész helyébe a „félévente két egyenlő részletben, a támogatás éve április 30-áig és július 30-áig” szöveg,
-
-b) 28/F. § (1) bekezdésében az „a támogatás éve április 30-ig” szövegrész helyébe a „félévente két egyenlő részletben, a támogatás éve április 30-áig és július 30-áig” szöveg
-
-lép.
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
