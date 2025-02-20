@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2024-74-00-00
 | 2025-02-14 | 1/2025. (I. 23.) BM határozat | 2024-74-00-00.23 |
 | 2025-02-15 | 2010. évi CXXX. törvény | 2024-74-00-00.24 |
 | 2025-02-19 | Nemzeti Jogszabálytár (egységes szerkezet) | 2024-74-00-00.11 |
+| 2025-02-20 | 2010. évi CXXX. törvény | 2024-74-00-00.12 |
