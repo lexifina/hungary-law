@@ -2,6 +2,6 @@
 
 ## [2] A Kormány az Alaptörvény 53. cikk (1) bekezdésében meghatározott eredeti jogalkotói hatáskörében, figyelemmel a védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény 80. és 81. §-ára, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény médiaszolgáltatási díjfizetési kötelezettségre vonatkozó szabályainak a veszélyhelyzet során történő eltérő alkalmazásáról szóló 544/2022. (XII. 22.) Korm. rendelet [a továbbiakban: 544/2022. (XII. 22.) Korm. rendelet] a következő 3/A. §-sal egészül ki:
+1. §[^2]
 
-„3/A. § E rendeletnek a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény médiaszolgáltatási díjfizetési kötelezettségre vonatkozó szabályainak a veszélyhelyzet során történő eltérő alkalmazásáról szóló 544/2022. (XII. 22.) Korm. rendelet módosításáról szóló 17/2025. (II. 18.) Korm. rendelettel (a továbbiakban: Módr.) módosított 2. §-át akként kell alkalmazni, hogy a Módr. hatálybalépése előtt a 2025. év első negyedévére már megfizetett médiaszolgáltatási díjat a mentesítési időszak leteltét követő negyedévre esedékes médiaszolgáltatási díjban a Nemzeti Média- és Hírközlési Hatóság a médiaszolgáltatásra jogosult javára elszámolja.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
