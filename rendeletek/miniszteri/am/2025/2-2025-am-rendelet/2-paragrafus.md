@@ -1,1 +1,3 @@
-2. § A 40/2024. (VIII. 8.) AM rendelet 1. melléklet 2.1.9. pontjában a „nemzeti és az európai létfontosságú rendszerelem” szövegrész helyébe a „kritikus szervezet és a kritikus infrastruktúra” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

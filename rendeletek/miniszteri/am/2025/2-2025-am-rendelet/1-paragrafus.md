@@ -2,6 +2,6 @@
 
 ## [2] A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 78. § (1a) bekezdés a) pontjában kapott felhatalmazás alapján, az Alaptörvény 18. cikk (2) bekezdésében meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 9. § (1) bekezdés 14. pontjában meghatározott feladatkörében eljáró Miniszterelnöki Kabinetirodát vezető miniszterrel egyetértésben – a következőket rendelem el:
 
-1. § Az agrárminiszter feladat- és hatáskörét érintően a nemzetbiztonsági ellenőrzés alá eső munkakörök meghatározásáról szóló 40/2024. (VIII. 8.) AM rendelet [a továbbiakban: 40/2024. (VIII. 8.) AM rendelet] a következő 7. §-sal egészül ki:
+1. §[^2]
 
-„7. § Az 1. melléklet 2.1.9. pontja a kritikus szervezetek rezilienciájáról és a 2008/114/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2022. december 14-i (EU) 2022/2557 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
