@@ -60,3 +60,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-116-00-00
 | 2025-01-07 | 2024. évi LXXXVIII. törvény | 1996-116-00-00.79 |
 | 2025-01-15 | 2021. évi CXLVI. törvény | 1996-116-00-00.78 |
 | 2025-01-23 | 2024. évi LXXXVIII. törvény | 1996-116-00-00.80 |
+| 2025-02-22 | 2024. évi LXXXVIII. törvény | 1996-116-00-00.81 |
