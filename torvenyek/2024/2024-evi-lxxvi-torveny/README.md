@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2024-76-00-00
 | 2025-02-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2024-76-00-00.9 |
 | 2025-02-02 | 2010. évi CXXX. törvény | 2024-76-00-00.10 |
 | 2025-02-21 | 1/2025. (III. 19.) KIM határozat | 2024-76-00-00.22 |
+| 2025-02-22 | 2010. évi CXXX. törvény | 2024-76-00-00.23 |
