@@ -56,11 +56,13 @@
 
 | Határidő: | a felmerülés ütemében |
 
-## 11.[^10] felhívja az építési és közlekedési minisztert, hogy a 10. pontban foglalt feladat teljes támogatási összegére vonatkozóan gondoskodjon támogatási jogviszony létrehozásáról Debrecen Megyei Jogú Város Önkormányzatával.
+## 11.[^10] az államháztartásról szóló 2011. évi CXCV. törvény 36. § (2) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy az építési és közlekedési miniszter a 10. pontban foglalt feladatok megvalósítása érdekében a 2025. évben kötelezettséget vállaljon legfeljebb a szabad előirányzatot meghaladó mértékű 884 039 746 forint összegben a Magyarország 2025. évi központi költségvetéséről szóló 2024. évi XC. törvény 1. melléklet XVI. Építési és Közlekedési Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 2. Települési és infrastrukturális fejlesztési feladatok alcím, 3. Ipari parki és térségi infrastruktúra fejlesztési feladatok finanszírozását szolgáló jogcímcsoport terhére;
+
+## 12.[^11] felhívja az építési és közlekedési minisztert, hogy a 10. pontban foglalt feladat végrehajtása érdekében legfeljebb 884 039 746 forint összegű támogatás biztosításával gondoskodjon a támogatási jogviszony létrehozásáról Debrecen Megyei Jogú Város Önkormányzatával.
 
 | Felelős: | építési és közlekedési miniszter |
 
-| Határidő: | a forrás rendelkezésre állását követően |
+| Határidő: | azonnal |
 
 1. melléklet az 1301/2023. (VII. 19.) Korm. határozathoz
 
@@ -93,4 +95,5 @@ A debreceni Észak-Nyugati Gazdasági Övezet kialakításával összefüggő k�
 [^7]: A 7. pont az 1229/2024. (VII. 31.) Korm. határozat 10. pontjával megállapított szöveg.
 [^8]: A 9. pontot az 1118/2024. (IV. 23.) Korm. határozat 11. pontja iktatta be, szövege az 1375/2024. (XII. 9.) Korm. határozat 2. pont d) alpontja szerint módosított szöveg.
 [^9]: A 10. pontot az 1375/2024. (XII. 9.) Korm. határozat 2. pont c) alpontja iktatta be.
-[^10]: A 11. pontot az 1375/2024. (XII. 9.) Korm. határozat 2. pont c) alpontja iktatta be.
+[^10]: A 11. pontot az 1375/2024. (XII. 9.) Korm. határozat 2. pont c) alpontja iktatta be, szövege az 1027/2025. (II. 24.) Korm. határozat 2. pontjával megállapított szöveg.
+[^11]: A 12. pontot az 1027/2025. (II. 24.) Korm. határozat 2. pontja iktatta be.
