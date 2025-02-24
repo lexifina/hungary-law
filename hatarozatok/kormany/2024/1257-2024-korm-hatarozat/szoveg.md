@@ -2,7 +2,7 @@ A Kormány
 
 1. egyetért a 306. sz. főút Sajó-híd és a Dr. Cselényi József utca – Repülőtéri úti kereszteződés között lévő szakaszán a Repülőtéri úti és a Várközi Lajos utcai jelzőlámpás csomópontok kapacitásbővítésének Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság útján történő megvalósításával;
 
-2. egyetért a 306. sz. főút Sajó-híd és a Dr. Cselényi József utca – Repülőtéri úti kereszteződés között lévő 800 méteres szakaszának 2×2 sávos bővítésének és a 2 darab jelzőlámpás csomópont többsávos „Turbo” típusú körforgalmú csomóponttá alakításának Építési és Közlekedési Minisztérium általi előkészítésével kiviteli terv szinttel bezárólag;
+2.[^1] egyetért a 306. sz. főút Sajó-híd és a Dr. Cselényi József utca – Repülőtéri úti kereszteződés közötti szakasz 2×2 sávos bővítésének és 2 darab jelzőlámpás csomópont többsávos „Turbo” típusú körforgalmú csomóponttá alakításának Építési és Közlekedési Minisztérium általi előkészítésével kiviteli terv szinttel bezárólag;
 
 3. felhívja az építési és közlekedési minisztert, hogy a külgazdasági és külügyminiszter kezdeményezésére gondoskodjon az 1. pont szerinti feladat megvalósítása érdekében 60 000 000 forint biztosításáról a Magyarország 2024. évi központi költségvetéséről szóló 2023. évi LV. törvény 1. melléklet XVI. Építési és Közlekedési Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 1. Közlekedési célú fejezeti kezelésű előirányzatok alcím, 3. Országos közúthálózat felújítása jogcímcsoport terhére;
 
@@ -12,11 +12,7 @@ A Kormány
 
 4. egyetért, hogy az építési és közlekedési miniszter az 1. pont szerinti beruházás megvalósítása érdekében a Magyar Közút Nonprofit Zártkörűen Működő Részvénytársasággal legfeljebb 60 000 000 forint támogatási összeget tartalmazó támogatási jogviszonyt létesítsen;
 
-5. felhívja az építési és közlekedési minisztert, hogy a 2. pont szerinti feladat előkészítése érdekében – a pénzügyminiszter bevonásával – gondoskodjon legfeljebb 100 000 000 forint rendelkezésre állásáról a 2025. évi központi költségvetés XLV. Állami beruházások fejezet, állami közútfejlesztési beruházásokat szolgáló előirányzaton;
-
-| Felelős: | építési és közlekedési miniszter pénzügyminiszter |
-
-| Határidő: | a 2025. évi központi költségvetési törvény tervezése során |
+5.[^2]
 
 6. felhívja az építési és közlekedési minisztert, hogy a 2. pont szerinti feladat előkészítése érdekében – pénzügyminiszter bevonásával – gondoskodjon legfeljebb 100 000 000 forint rendelkezésre állásáról a 2026. évi központi költségvetés XLV. Állami beruházások fejezet, állami közútfejlesztési beruházásokat szolgáló előirányzaton;
 
@@ -24,7 +20,7 @@ A Kormány
 
 | Határidő: | a 2026. évi központi költségvetési törvény tervezése során |
 
-7. az egyes beruházási szabályok veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 541/2022. (XII. 22.) Korm. rendelet 4. § (7) bekezdés b) pontjában biztosított jogkörében eljárva a 2. pontban foglalt beruházás előkészítéséhez a 2025–2026. évekre a központi költségvetés XLV. Állami beruházások fejezet, 2. Közlekedési beruházások cím, 1. Közlekedési célú központi kezelésű előirányzatok alcím, 2. Állami közútfejlesztési beruházások jogcímcsoport terhére vállalható éven túli kötelezettségvállalás felső korlátját 200 000 000 forintban határozza meg;
+7.[^3] az egyes beruházási szabályok veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 541/2022. (XII. 22.) Korm. rendelet 4. § (7) bekezdés b) pontjában biztosított jogkörében eljárva a 2. pontban foglalt beruházás előkészítéséhez a 2026–2027. évekre a központi költségvetés XLV. Állami beruházások fejezet, 2. Közlekedési beruházások cím, 1. Közlekedési célú központi kezelésű előirányzatok alcím, 2. Állami közútfejlesztési beruházások jogcímcsoport terhére vállalható éven túli kötelezettségvállalás felső korlátját 200 000 000 forintban határozza meg;
 
 8. felhívja az építési és közlekedési minisztert, hogy gondoskodjon a 2. pont szerinti feladat végrehajtása érdekében a tervező kiválasztására irányuló közbeszerzési eljárás megindításáról;
 
@@ -39,3 +35,16 @@ A Kormány
 | Felelős: | építési és közlekedési miniszter külgazdasági és külügyminiszter |
 
 | Határidő: | a tervezési feladatok lezárultát követően |
+
+11.[^4] felhívja az építési és közlekedési minisztert, hogy a 2. pont szerinti feladat előkészítése érdekében – a nemzetgazdasági miniszter bevonásával – gondoskodjon legfeljebb 100 000 000 forint rendelkezésre állásáról a 2027. évi központi költségvetés XLV. Állami beruházások fejezet, Állami közútfejlesztési beruházások finanszírozását szolgáló előirányzaton.
+
+| Felelős: | építési és közlekedési miniszter nemzetgazdasági miniszter |
+
+| Határidő: | a 2027. évi központi költségvetés tervezése során |
+
+”
+
+[^1]: A 2. pont az 1027/2025. (II. 24.) Korm. határozat 3. pontjával megállapított szöveg.
+[^2]: Az 5. pontot az 1027/2025. (II. 24.) Korm. határozat 6. pontja visszavonta.
+[^3]: A 7. pont az 1027/2025. (II. 24.) Korm. határozat 4. pontjával megállapított szöveg.
+[^4]: A 11. pontot az 1027/2025. (II. 24.) Korm. határozat 5. pontja iktatta be.
