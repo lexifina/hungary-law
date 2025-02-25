@@ -30,14 +30,16 @@ d) közreműködik a mozgóképszakmát érintő kormány-előterjesztések elő
 
 4. A kormánybiztos jelen határozat szerinti feladatköre ellátásáért a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 31. § (2) bekezdése szerinti díjazásra és juttatásokra jogosult.
 
-5. A kormánybiztos tevékenységét a miniszterelnök a Miniszterelnöki Kabinetirodát vezető miniszter útján irányítja.
+5.[^1] A kormánybiztos tevékenységét a miniszterelnök a kultúráért és innovációért felelős miniszter útján irányítja.
 
-6. A kormánybiztos tevékenységét a Miniszterelnöki Kabinetiroda keretében működő titkárság segíti.
+6.[^2] A kormánybiztos tevékenységét a Kulturális és Innovációs Minisztérium keretében működő titkárság segíti.
 
 7. A Kormány felhívja az irányítása alatt álló szerveket, intézményeket, hogy a kormánybiztos feladatának ellátásához szükséges – személyes adatnak nem minősülő – adatokat, információkat, elemzéseket bocsássák a kormánybiztos rendelkezésére.
 
 8. Ez a határozat a közzétételét követő napon lép hatályba.
 
-9.[^1]
+9.[^3]
 
-[^1]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 5. pont az 1031/2025. (II. 24.) Korm. határozat 5. pont a) alpontja szerint módosított szöveg.
+[^2]: A 6. pont az 1031/2025. (II. 24.) Korm. határozat 5. pont b) alpontja szerint módosított szöveg.
+[^3]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
