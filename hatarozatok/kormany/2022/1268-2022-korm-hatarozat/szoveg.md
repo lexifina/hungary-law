@@ -8,7 +8,7 @@ b) kidolgozza a Magyar Falu Program támogatási rendszerét, és gondoskodik a 
 
 c) dönt a Magyar Falu Program pályázatainak támogatásáról,
 
-d) együttműködik a Miniszterelnökséget vezető miniszterrel a településfejlesztéseket érintő egyedi kérelmek kezelésében, a támogatási jogviszonyok kialakításában,
+d)[^1] együttműködik az agrárminiszterrel a településfejlesztéseket érintő egyedi kérelmek kezelésében, a támogatási jogviszonyok kialakításában,
 
 e) ellátja a kormányzati koordinációt az 5000 fő feletti, nem megyei jogú városok fejlesztéseivel összefüggésben,
 
@@ -18,14 +18,18 @@ g) kapcsolatot tart és egyeztet az a)–b) és e) alpontban meghatározott prog
 
 h) előkészíti, illetve véleményezi a feladat- és hatáskörébe tartozó kormány-előterjesztéseket.
 
-3. A kormánybiztos tevékenységét a miniszterelnök a Miniszterelnökséget vezető miniszter útján irányítja.
+3.[^2] A kormánybiztos tevékenységét a miniszterelnök az agrárminiszter útján irányítja.
 
-4. A kormánybiztos tevékenységéről a Miniszterelnökséget vezető miniszternek számol be.
+4.[^3] A kormánybiztos tevékenységéről az agrárminiszternek számol be.
 
-5. A kormánybiztos tevékenységét a Miniszterelnökség szervezetében működő titkárság segíti.
+5.[^4] A kormánybiztos tevékenységét az Agrárminisztérium szervezetében működő titkárság segíti.
 
 6. Ez a határozat a közzétételét követő napon lép hatályba.
 
-7.[^1]
+7.[^5]
 
-[^1]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 2. pont d) alpontja az 1031/2025. (II. 24.) Korm. határozat 3. pont a) alpontja szerint módosított szöveg.
+[^2]: A 3. pont az 1031/2025. (II. 24.) Korm. határozat 3. pont b) alpontja szerint módosított szöveg.
+[^3]: A 4. pont az 1031/2025. (II. 24.) Korm. határozat 3. pont c) alpontja szerint módosított szöveg.
+[^4]: Az 5. pont az 1031/2025. (II. 24.) Korm. határozat 3. pont d) alpontja szerint módosított szöveg.
+[^5]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
