@@ -24,14 +24,18 @@ b) bormarketing kérdésekben együttműködik az agrárpolitikáért felelős m
 
 c) az ágazatot érintő külgazdasági kérdésekben együttműködik a külgazdaságért felelős miniszterrel és a Nemzeti Befektetési Ügynökséggel.
 
-4. A kormánybiztos tevékenységét a miniszterelnök a Miniszterelnökséget vezető miniszter útján irányítja.
+4.[^1] A kormánybiztos tevékenységét a miniszterelnök a külgazdasági és külügyminiszter útján irányítja.
 
-5. A kormánybiztos tevékenységéről a Miniszterelnökséget vezető miniszternek számol be.
+5.[^2] A kormánybiztos tevékenységéről a külgazdasági és külügyminiszternek számol be.
 
-6. A kormánybiztos tevékenységét a Miniszterelnökség szervezetében működő ötfős titkárság segíti.
+6.[^3] A kormánybiztos tevékenységét a Külgazdasági és Külügyminisztérium szervezetében működő ötfős titkárság segíti.
 
 7. A kormánybiztos tevékenységének ellátásáért a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 31. § (2) bekezdése szerinti díjazásra és juttatásokra jogosult.
 
 8. A Kormány felhívja az irányítása alatt álló szerveket és intézményeket, továbbá felkéri az egyéb érintett szerveket, hogy a kormánybiztos feladatának ellátásához szükséges – személyes adatnak nem minősülő – adatokat, információkat és elemzéseket bocsássák a kormánybiztos rendelkezésére.
 
 9. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: A 4. pont az 1031/2025. (II. 24.) Korm. határozat 6. pont a) alpontja szerint módosított szöveg.
+[^2]: Az 5. pont az 1031/2025. (II. 24.) Korm. határozat 6. pont b) alpontja szerint módosított szöveg.
+[^3]: A 6. pont az 1031/2025. (II. 24.) Korm. határozat 6. pont c) alpontja szerint módosított szöveg.
