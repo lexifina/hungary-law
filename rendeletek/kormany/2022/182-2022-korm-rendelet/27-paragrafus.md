@@ -1,1 +1,3 @@
-27. § A miniszter ellátja a koncesszió jogi szabályozásával kapcsolatos feladatokat.
+27. §[^29]
+
+[^29]: A 27. §-t a 21/2025. (II. 24.) Korm. rendelet 22. § e) pontja hatályon kívül helyezte.

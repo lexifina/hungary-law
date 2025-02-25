@@ -1,3 +1,3 @@
-182/E. §[^208] A miniszter a településüzemeltetésért való felelőssége keretében előkészíti a temetkezési közszolgáltatás ellátására vonatkozó jogszabályokat.
+182/E. §[^257] A miniszter a településüzemeltetésért való felelőssége keretében előkészíti a temetkezési közszolgáltatás ellátására vonatkozó jogszabályokat.
 
-[^208]: A 182/E. §-t az 599/2023. (XII. 22.) Korm. rendelet 35. §-a iktatta be.
+[^257]: A 182/E. §-t az 599/2023. (XII. 22.) Korm. rendelet 35. §-a iktatta be.

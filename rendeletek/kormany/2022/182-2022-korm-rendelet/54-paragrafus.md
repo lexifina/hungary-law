@@ -24,8 +24,8 @@
 
 11. vadgazdálkodásért,
 
-12.[^46]
+12.[^62] Magyar Falu Program működtetéséért
 
 felelős tagja.
 
-[^46]: Az 54. § 12. pontját az 599/2023. (XII. 22.) Korm. rendelet 42. § h) pontja hatályon kívül helyezte.
+[^62]: Az 54. § 12. pontját az 599/2023. (XII. 22.) Korm. rendelet 42. § h) pontja hatályon kívül helyezte, újonnan a 21/2025. (II. 24.) Korm. rendelet 3. §-a iktatta be.

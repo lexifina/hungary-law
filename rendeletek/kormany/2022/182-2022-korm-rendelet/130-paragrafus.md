@@ -6,8 +6,8 @@ a) felel a kutatási, fejlesztési és innovációs ügyek finanszírozásáért
 
 b) közreműködik a Kormány tudománypolitikai stratégiáinak és programjainak kialakításában,
 
-c)[^161] kapcsolatot tart és a tudománypolitikát érintő feladatkörében együttműködik a Magyar Kutatási Hálózattal,
+c)[^190] kapcsolatot tart és a tudománypolitikát érintő feladatkörében együttműködik a Magyar Kutatási Hálózattal,
 
 d) koordinálja a kutatás-fejlesztési és innovációs ösztönzést elősegítő programok kidolgozását.
 
-[^161]: A 130. § (2) bekezdés c) pontja a 246/2023. (VI. 22.) Korm. rendelet 20. §-a szerint módosított szöveg.
+[^190]: A 130. § (2) bekezdés c) pontja a 246/2023. (VI. 22.) Korm. rendelet 20. §-a szerint módosított szöveg.

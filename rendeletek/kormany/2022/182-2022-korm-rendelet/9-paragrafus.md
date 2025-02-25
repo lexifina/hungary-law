@@ -1,6 +1,6 @@
 ## 2. A miniszterelnök munkaszervezete, a Miniszterelnöki Kabinetirodát vezető miniszter feladat- és hatásköre
 
-9. § (1) A Miniszterelnöki Kabinetirodát vezető miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány
+9. § (1)[^7] A Miniszterelnöki Kabinetirodát vezető miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány
 
 1. általános politikai koordinációért,
 
@@ -8,47 +8,18 @@
 
 3. országmárkáért,
 
-4.[^7]
+4. polgári nemzetbiztonsági szolgálatok irányításáért,
 
-5.[^8]
+5. polgári hírszerzési tevékenység irányításáért,
 
-6. e-közigazgatásért,
-
-7. informatikáért,
-
-8. e-közigazgatási és informatikai fejlesztések egységesítéséért,
-
-9. a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért,
-
-10. mozgóképszakmáért,
-
-11. audiovizuális politikáért,
-
-12. elektronikus hírközlésért,
-
-13. szerencsejáték szabályozásért,
-
-14. polgári nemzetbiztonsági szolgálatok irányításáért,
-
-15. polgári hírszerzési tevékenység irányításáért,
-
-16. minősített adatok védelmének szakmai felügyeletéért
-
-17.[^9] útdíjfizetési-szolgáltatásért
-
-18.[^10] személyiadat- és lakcímnyilvántartásért,
-
-19.[^11] külföldre utazás szabályozásáért
+6. minősített adatok védelmének szakmai felügyeletéért
 
 felelős tagja.
 
-(2) A Kormány a Kit. 13/A. § (4) bekezdése szerinti miniszterként a minisztert jelöli ki.
+(2)[^8]
 
-(3)[^12] A miniszter felügyeli az Egységes Digitális Rádiótávközlő Rendszert, valamint az e hálózat infrastrukturális alapját biztosító szervezet tevékenységét.
+(3)[^9]
 
-[^7]: A 9. § (1) bekezdés 4. pontját az 599/2023. (XII. 22.) Korm. rendelet 42. § a) pontja hatályon kívül helyezte.
-[^8]: A 9. § (1) bekezdés 5. pontját az 599/2023. (XII. 22.) Korm. rendelet 42. § a) pontja hatályon kívül helyezte.
-[^9]: A 9. § (1) bekezdés 17. pontját az 579/2022. (XII. 23.) Korm. rendelet 4. § (1) bekezdése iktatta be.
-[^10]: A 9. § (1) bekezdés 18. pontját a 172/2024. (VII. 2.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^11]: A 9. § (1) bekezdés 19. pontját a 172/2024. (VII. 2.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^12]: A 9. § (3) bekezdését a 310/2023. (VII. 14.) Korm. rendelet 18. §-a iktatta be.
+[^7]: A 9. § (1) bekezdése a 21/2025. (II. 24.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^8]: A 9. § (2) bekezdését a 21/2025. (II. 24.) Korm. rendelet 22. § a) pontja hatályon kívül helyezte.
+[^9]: A 9. § (3) bekezdését a 310/2023. (VII. 14.) Korm. rendelet 18. §-a iktatta be, a 21/2025. (II. 24.) Korm. rendelet 22. § a) pontja hatályon kívül helyezte.

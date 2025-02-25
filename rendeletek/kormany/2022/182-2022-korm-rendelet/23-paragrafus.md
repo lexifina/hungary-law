@@ -1,1 +1,3 @@
-23. § A miniszter a szerencsejáték szabályozásért való felelőssége keretében előkészíti a szerencsejátékra és a szerencsejáték-szervezés állami felügyeletére vonatkozó jogszabályokat.
+23. §[^25]
+
+[^25]: A 23. §-t a 21/2025. (II. 24.) Korm. rendelet 22. § d) pontja hatályon kívül helyezte.

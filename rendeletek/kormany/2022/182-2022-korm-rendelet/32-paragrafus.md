@@ -14,12 +14,9 @@ f) közreműködik a Kormány és a Kormány egyes tagjai által kormányzati é
 
 g) a Kormány más tagjától a feladat- és hatáskörébe tartozó kérdésben információt, felvilágosítást, háttéranyagot, elemzést kérhet.
 
-(2) A miniszter a kormányzati stratégiák kidolgozásának támogatásáért és a társadalompolitika összehangolásáért való felelőssége körében
+(2)[^42]
 
-a) ellátja a közösségi bormarketing és a magyar bor egységes kommunikációja kapcsán jelentkező feladatokat,
+(3)[^43]
 
-b) előkészíti a magyar bor egységes kommunikációjára vonatkozó jogszabályokat.
-
-(3)[^29]
-
-[^29]: A 32. § (3) bekezdését az 556/2023. (XII. 12.) Korm. rendelet 3. §-a iktatta be, a 3/2025. (I. 23.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^42]: A 32. § (2) bekezdését a 21/2025. (II. 24.) Korm. rendelet 22. § h) pontja hatályon kívül helyezte.
+[^43]: A 32. § (3) bekezdését az 556/2023. (XII. 12.) Korm. rendelet 3. §-a iktatta be, a 3/2025. (I. 23.) Korm. rendelet 3. §-a hatályon kívül helyezte.

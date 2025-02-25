@@ -1,7 +1,3 @@
-40. § A miniszter az egyes kereskedelmi építmények vonatkozásában a fenntarthatósági szempontok érvényesítéséért való felelőssége keretében
+40. §[^50]
 
-a)[^36] előkészíti a magyar építészetről szóló törvénynek az egyes kereskedelmi építmények engedélyezésével összefüggő szabályozását, valamint e szabályozás végrehajtási rendeletét,
-
-b) figyelemmel kíséri az engedélyköteles kereskedelmi építményekkel összefüggő fenntarthatósági, urbanisztikai, gazdasági és társadalmi folyamatokat.
-
-[^36]: A 40. § a) pontja a 285/2024. (IX. 30.) Korm. rendelet 191. §-a szerint módosított szöveg.
+[^50]: A 40. §-t a 21/2025. (II. 24.) Korm. rendelet 22. § i) pontja hatályon kívül helyezte.

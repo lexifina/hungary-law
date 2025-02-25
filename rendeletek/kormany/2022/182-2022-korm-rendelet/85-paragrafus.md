@@ -1,3 +1,3 @@
-85. §[^84]
+85. §[^101]
 
-[^84]: A 85. §-t a 172/2024. (VII. 2.) Korm. rendelet 14. § f) pontja hatályon kívül helyezte.
+[^101]: A 85. §-t a 172/2024. (VII. 2.) Korm. rendelet 14. § f) pontja hatályon kívül helyezte.

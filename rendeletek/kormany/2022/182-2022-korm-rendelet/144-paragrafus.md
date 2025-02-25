@@ -1,3 +1,3 @@
-144. §[^168]
+144. §[^199]
 
-[^168]: A 144. §-t a 172/2024. (VII. 2.) Korm. rendelet 14. § k) pontja hatályon kívül helyezte.
+[^199]: A 144. §-t a 172/2024. (VII. 2.) Korm. rendelet 14. § k) pontja hatályon kívül helyezte.

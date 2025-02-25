@@ -8,15 +8,15 @@
 
 3. a Paksi Atomerőmű két új blokkja tervezéséért, megépítéséért és üzembe helyezéséért,
 
-4.[^165]
+4.[^195]
 
 5. – a csángó ügyek vonatkozásában – nemzetpolitikáért,
 
 6. üldözött keresztények megsegítéséért és a Hungary Helps Program megvalósításáért,
 
-7.[^166]
+7.[^196]
 
 felelős tagja.
 
-[^165]: A 139. § 4. pontját a 172/2024. (VII. 2.) Korm. rendelet 14. § j) pontja hatályon kívül helyezte.
-[^166]: A 139. § 7. pontját a 172/2024. (VII. 2.) Korm. rendelet 14. § j) pontja hatályon kívül helyezte.
+[^195]: A 139. § 4. pontját a 172/2024. (VII. 2.) Korm. rendelet 14. § j) pontja hatályon kívül helyezte.
+[^196]: A 139. § 7. pontját a 172/2024. (VII. 2.) Korm. rendelet 14. § j) pontja hatályon kívül helyezte.
