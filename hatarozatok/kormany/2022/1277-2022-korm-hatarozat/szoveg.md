@@ -22,16 +22,19 @@ g) kapcsolatot tart, egyeztet a feladatkörükben érintett intézmények képvi
 
 a) együttműködik a feladat- és hatáskörükben érintett miniszterekkel, valamint
 
-b) rendszeresen tájékoztatja a Miniszterelnökséget vezető minisztert, továbbá félévente írásbeli beszámolót készít.
+b)[^2] rendszeresen tájékoztatja az építési és közlekedési minisztert, továbbá félévente írásbeli beszámolót készít.
 
 5. A kormánybiztos munkájához a 2. pont d) alpontja szerinti gazdasági társaságok szakmai segítséget nyújtanak.
 
-6. A kormánybiztos tevékenységét a miniszterelnök a Miniszterelnökséget vezető miniszter útján irányítja.
+6.[^3] A kormánybiztos tevékenységét a miniszterelnök az építési és közlekedési miniszter útján irányítja.
 
-7. A kormánybiztos tevékenységét a Miniszterelnökség szervezetében működő 5 fős titkárság segíti.
+7.[^4] A kormánybiztos tevékenységét az Építési és Közlekedési Minisztérium szervezetében működő 5 fős titkárság segíti.
 
 8. Ez a határozat a közzétételét követő napon lép hatályba.
 
-9.[^1]
+9.[^5]
 
-[^1]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 4. pont b) alpontja az 1031/2025. (II. 24.) Korm. határozat 4. pont a) alpontja szerint módosított szöveg.
+[^3]: A 6. pont az 1031/2025. (II. 24.) Korm. határozat 4. pont b) alpontja szerint módosított szöveg.
+[^4]: A 7. pont az 1031/2025. (II. 24.) Korm. határozat 4. pont c) alpontja szerint módosított szöveg.
+[^5]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
