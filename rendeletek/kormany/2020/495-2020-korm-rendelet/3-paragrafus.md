@@ -1,3 +1,3 @@
-## 2. §[^2]
+3. §[^3]
 
-[^2]: A 2. §-t a 728/2020. (XII. 31.) Korm. rendelet 4. § a) pontja hatályon kívül helyezte.
+[^3]: A 3. §-t a 728/2020. (XII. 31.) Korm. rendelet 4. § a) pontja hatályon kívül helyezte.

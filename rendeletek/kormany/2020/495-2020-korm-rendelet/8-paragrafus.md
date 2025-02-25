@@ -1,5 +1,3 @@
-## 7. §[^28]
-
 8. §[^29]
 
 1. melléket a 495/2020. (XI. 11.) Korm. rendelethez
@@ -18,7 +16,6 @@ Koncesszióköteles tevékenységek, amelyek tekintetében a miniszter – a Nem
 
 2. melléket a 495/2020. (XI. 11.) Korm. rendelethez[^35]
 
-[^28]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^29]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^30]: Az 1. melléklet címe a 728/2020. (XII. 31.) Korm. rendelet 3. §-a, a 83/2021. (II. 23.) Korm. rendelet 12. § (3) bekezdése szerint módosított szöveg.
 [^31]: Az 1. melléklet 2. pontját az 594/2020. (XII. 17.) Korm. rendelet 2. § a) pontja iktatta be.

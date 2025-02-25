@@ -1,0 +1,3 @@
+1. §[^1] A koncesszióról szóló 1991. évi XVI. törvény (a továbbiakban: Ktv.) 5. § (1) bekezdésében meghatározott eljárások (ideértve a Ktv. 3/A. §-a szerinti eljárásokat is) lefolytatására és a koncessziós szerződés (koncesszió) megkötésére vonatkozó feladatokat az 1. mellékletben meghatározott koncesszióköteles tevékenységek tekintetében a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 103. § (1) bekezdés 7. pontja szerinti miniszter – a Nemzeti Koncessziós Iroda közreműködésével – látja el.
+
+[^1]: Az 1. § a 279/2021. (V. 26.) Korm. rendelet 5. §-ával megállapított, a 238/2022. (VI. 30.) Korm. rendelet 205. §-a, a 21/2025. (II. 24.) Korm. rendelet 27. §-a szerint módosított szöveg.
