@@ -32,3 +32,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1993-125-20-
 | 2023-07-12 | 1993-125-20-22.34 | 304/2023. (VII. 11.) Korm. rendelet |
 | 2024-01-01 | 1993-125-20-22.35 | 586/2023. (XII. 20.) Korm. rendelet |
 | 2024-07-08 | 1993-125-20-22.36 | 174/2024. (VII. 7.) Korm. rendelet |
+| 2025-02-25 | 1993-125-20-22.37 | 21/2025. (II. 24.) Korm. rendelet |

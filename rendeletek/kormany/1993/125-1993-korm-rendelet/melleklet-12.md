@@ -60,8 +60,8 @@
 
 ## a szerv/hatóság megnevezése
 
-12. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^125]
+12. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^126]
 
 4X04902.pdf
 
-[^125]: A 12. számú mellékletet a 174/2024. (VII. 7.) Korm. rendelet 4. § (4) bekezdése iktatta be.
+[^126]: A 12. számú mellékletet a 174/2024. (VII. 7.) Korm. rendelet 4. § (4) bekezdése iktatta be.

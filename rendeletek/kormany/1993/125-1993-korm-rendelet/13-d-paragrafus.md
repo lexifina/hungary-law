@@ -1,6 +1,6 @@
 ## Az eskütételi igazgatási szerv kijelölése, feladatai és eljárása[^100]
 
-13/D. § (1) A Kormány eskütételi igazgatási szervként az általános politikai koordinációért felelős miniszter által vezetett minisztériumot (a továbbiakban: minisztérium) jelöli ki.
+13/D. § (1)[^101] A Kormány eskütételi igazgatási szervként a közigazgatás-szervezésért felelős miniszter által vezetett minisztériumot (a továbbiakban: minisztérium) jelöli ki.
 
 (2) Az eskütételi igazgatási szerv a feladatait országos illetékességgel látja el.
 
@@ -17,3 +17,4 @@ d) az a)–c) pontban foglalt feladatokkal összefüggő anyakönyvi feladatok e
 e) az a)–d) pontban foglalt feladatokkal összefüggésben az állampolgársági ügyekben eljáró szervvel, valamint az eskü- vagy fogadalomtétellel kapcsolatos feladatok ellátása tekintetében a polgármesterrel vagy a magyar külképviselettel való együttműködés.
 
 [^100]: Az „Az eskütételi igazgatási szerv kijelölése, feladatai és eljárása” alcímet (13/D–13/G. §-t) a 174/2024. (VII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^101]: A 13/D. § (1) bekezdése a 21/2025. (II. 24.) Korm. rendelet 23. §-ával megállapított szöveg.
