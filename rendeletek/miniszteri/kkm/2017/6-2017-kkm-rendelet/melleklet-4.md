@@ -70,12 +70,12 @@
 
 | 35. | Sanghaj Főkonzulátus |
 
-| 36.[^78] | Biskeki Nagykövetség |
+| 36.[^93] | Biskeki Nagykövetség |
 
-| 37.[^79] | Kuangcsou Főkonzulátusa |
+| 37.[^94] | Kuangcsou Főkonzulátusa |
 
-4. melléklet a 6/2017. (VII. 10.) KKM rendelethez[^80]
+4. melléklet a 6/2017. (VII. 10.) KKM rendelethez[^95]
 
-[^78]: A 3. mellékletben foglalt táblázat 36. sorát a 16/2022. (XII. 20.) KKM rendelet 1. § (3) bekezdése iktatta be.
-[^79]: A 3. mellékletben foglalt táblázat 37. sorát a 16/2022. (XII. 20.) KKM rendelet 1. § (3) bekezdése iktatta be.
-[^80]: A 4. mellékletet a 6/2019. (X. 28.) KKM rendelet 15. § b) pontja hatályon kívül helyezte.
+[^93]: A 3. mellékletben foglalt táblázat 36. sorát a 16/2022. (XII. 20.) KKM rendelet 1. § (3) bekezdése iktatta be.
+[^94]: A 3. mellékletben foglalt táblázat 37. sorát a 16/2022. (XII. 20.) KKM rendelet 1. § (3) bekezdése iktatta be.
+[^95]: A 4. mellékletet a 6/2019. (X. 28.) KKM rendelet 15. § b) pontja hatályon kívül helyezte.
