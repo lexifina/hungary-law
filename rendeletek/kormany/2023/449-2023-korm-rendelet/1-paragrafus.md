@@ -1,7 +1,0 @@
-1. § (1) A 2019. május 15-én nyilvános, nyílt végű ingatlanalapként nyilvántartott befektetési alap (a továbbiakban: ingatlanalap) portfóliójában a nettó eszközérték meghatározása szempontjából ingatlannak minősülő eszközök (a továbbiakban: ingatlan) együttes értékének (a továbbiakban: ingatlanok értéke) 15%-át (a továbbiakban: minimum szint) eléri azoknak a befektetésijegy-sorozatok állományának az értéke, amelyeknél a forgalmazás-teljesítési nap legalább 180 naptári nappal vagy 130 forgalmazási nappal meghaladja a visszaváltási megbízás beérkezésének napját (a továbbiakban: T+180 befektetési jegy).
-
-(2) Az ingatlanalap alapkezelője a forgalomban lévő és az e rendelet hatálybalépését követően kibocsátott befektetési jegyek esetében dönthet úgy, hogy a befektetési jegyek visszaváltása esetén a forgalmazás-teljesítési nap legfeljebb 7 naptári nappal haladja meg a visszaváltási megbízás beérkezésének a napját, ha az (1) bekezdésben foglalt feltétel teljesül.
-
-(3) A minimum szint elérését követően és azt követően minden év ugyanazon hónapjában (a továbbiakban: viszonyítási időpont) az előző évben a viszonyítási időpontban lévő T+180 befektetési jegy értékéhez képest az aktuális T+180 befektetési jegy értékének a különbsége közötti növekmény 50%-ának megfelelő értékben alkalmazhatja a (2) bekezdésben foglaltakat, a befektetők megfelelő tájékoztatása mellett.
-
-(4) Az (1) bekezdésben meghatározottaknak az ingatlanalap minden hónapban havi átlag számításával felel meg.
