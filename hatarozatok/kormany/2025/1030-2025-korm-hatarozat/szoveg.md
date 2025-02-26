@@ -28,4 +28,6 @@ c) a Kormány irányítása vagy felügyelete alá tartozó szervek vezetői ré
 
 7. Ez a határozat a közzétételét követő napon lép hatályba.
 
-8. Hatályát veszti az otthonteremtés finanszírozásához kapcsolódó pénzügyi folyamatok szabályozásának felülvizsgálatáért és egyszerűsítéséért, valamint a lakossági állampapír stratégia megújításának koordinációjáért felelős kormánybiztos kinevezéséről és feladatairól szóló 1221/2024. (VII. 31.) Korm. határozat.
+8.[^1]
+
+[^1]: A 8. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
