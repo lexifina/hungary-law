@@ -1,1 +1,0 @@
-A fogyasztóvédelemről szóló 1997. évi CLV. törvény 56/A. § (5) bekezdésében kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 73. § s) és w) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
