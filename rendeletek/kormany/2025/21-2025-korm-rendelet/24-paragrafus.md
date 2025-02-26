@@ -1,3 +1,3 @@
-24. § A Nemzeti Hírközlési és Informatikai Tanácsról, valamint a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság és a kormányzati informatikai beszerzések központosított közbeszerzési rendszeréről szóló 301/2018. (XII. 27.) Korm. rendelet 15. § (5) bekezdése helyébe a következő rendelkezés lép:
+24. §[^25]
 
-„(5) Az NHIT tevékenységének a támogatására a Kormány az Energiaügyi Minisztériumot jelöli ki.”
+[^25]: A 24. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

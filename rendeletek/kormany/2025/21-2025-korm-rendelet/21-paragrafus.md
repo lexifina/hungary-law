@@ -1,1 +1,3 @@
-21. § Az R. 55. § (1) bekezdés e) pontjában a „32. § (2) bekezdésében” szövegrész helyébe a „139/A. §-ban” szöveg lép.
+21. §[^22]
+
+[^22]: A 21. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

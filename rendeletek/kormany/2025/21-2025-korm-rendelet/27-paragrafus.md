@@ -1,1 +1,3 @@
-27. § Az egyes koncesszióköteles tevékenységek tekintetében az illetékes ágazati miniszteri feladatok ellátásáról szóló 495/2020. (XI. 11.) Korm. rendelet 1. §-ában a „9. § (1) bekezdés 1. pontja szerinti miniszter (a továbbiakban: miniszter)” szövegrész helyébe a „103. § (1) bekezdés 7. pontja szerinti miniszter” szöveg lép.
+27. §[^28]
+
+[^28]: A 27. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-17. § Az R. 178. §-a a következő 16. ponttal egészül ki:
+17. §[^18]
 
-[A közigazgatási és területfejlesztési miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány]
+[^18]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

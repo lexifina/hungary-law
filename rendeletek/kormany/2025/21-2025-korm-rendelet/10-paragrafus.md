@@ -1,3 +1,3 @@
-10. § Az R. 9. alcíme a következő 111/T. §-sal egészül ki:
+10. §[^11]
 
-„111/T. § A miniszter a szerencsejáték szabályozásért való felelőssége keretében előkészíti a szerencsejátékra és a szerencsejáték-szervezés állami felügyeletére vonatkozó jogszabályokat.”
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

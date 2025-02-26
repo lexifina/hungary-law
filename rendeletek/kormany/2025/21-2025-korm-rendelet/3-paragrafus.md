@@ -1,3 +1,3 @@
-3. § Az R. 54. §-a a következő 12. ponttal egészül ki:
+3. §[^4]
 
-[Az agrárminiszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány]
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

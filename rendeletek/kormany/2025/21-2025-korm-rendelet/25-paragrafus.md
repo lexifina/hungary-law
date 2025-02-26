@@ -1,3 +1,3 @@
-25. § A Nemzeti Koncessziós Irodáról szóló 424/2020. (IX. 4.) Korm. rendelet 1. § (1) bekezdése helyébe a következő rendelkezés lép:
+25. §[^26]
 
-„(1) A Nemzeti Koncessziós Iroda (a továbbiakban: Iroda) a nemzetgazdasági miniszter (a továbbiakban: miniszter) irányítása alá tartozó, központi hivatalként működő központi költségvetési szerv.”
+[^26]: A 25. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

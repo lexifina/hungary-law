@@ -1,3 +1,3 @@
-11. § Az R. 128. §-a a következő 10. ponttal egészül ki:
+11. §[^12]
 
-[A kultúráért és innovációért felelős miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány]
+[^12]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-8. § Az R. 103. § (1) bekezdése a következő 29. ponttal egészül ki:
+8. §[^9]
 
-[A nemzetgazdasági miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány]
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
