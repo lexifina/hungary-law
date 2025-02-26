@@ -1,1 +1,0 @@
-A munkavédelemről szóló 1993. évi XCIII. törvény 88. §-ának (2) bekezdésében kapott felhatalmazás alapján – az 1–3. § tekintetében a foglalkoztatáspolitikai és munkaügyi miniszterrel egyetértésben –, valamint a kémiai biztonságról szóló 2000. évi XXV. törvény 34. § (4) bekezdése a) pontjának aa)–ah) alpontjaiban kapott felhatalmazás alapján a következőket rendelem el:
