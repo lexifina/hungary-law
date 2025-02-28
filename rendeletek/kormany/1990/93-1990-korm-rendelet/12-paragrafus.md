@@ -4,6 +4,6 @@
 
 (3) Az emelés összegét nem érinti a szabadságvesztés, továbbá a személyes szabadság korlátozása tényleges időtartamának szolgálati időként történő elismerése.
 
-(4)[^27] Az emelt összegű ellátást a Tbny. 64. § (2) bekezdésének megfelelő alkalmazásával kell megállapítani.
+(4)[^28] Az emelt összegű ellátást a Tbny. 64. § (2) bekezdésének megfelelő alkalmazásával kell megállapítani.
 
-[^27]: A 12. § (4) bekezdése a 305/2013. (VII. 31.) Korm. rendelet 1. § (4) bekezdés e) pontja szerint módosított szöveg.
+[^28]: A 12. § (4) bekezdése a 305/2013. (VII. 31.) Korm. rendelet 1. § (4) bekezdés e) pontja szerint módosított szöveg.

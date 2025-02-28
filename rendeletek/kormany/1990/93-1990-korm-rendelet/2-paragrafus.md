@@ -18,8 +18,11 @@ c) a hatodik évtől évenként havi 3155 forint.
 
 (6)[^11] Az e rendelet alapján folyósított saját jogú és hozzátartozói jogon járó ellátás összegét 2018. január 1-jétől – a 2/A. § szerinti emelésen túl – a 2016 novemberében folyósított összeg 40%-ával fel kell emelni. Az ellátást 2017. december 31-ét követő időponttól a 2016 novemberére járó összeg 40%-ával és a 2/A. §-ban foglaltak szerint növelt, (1)–(4) bekezdés szerinti összegben kell megállapítani, olyan összeg alapulvételével, mely a jogosultat – a jogosultsági feltételek fennállása esetén – 2016 novemberében megillette volna.
 
+(7)[^12] Az e rendelet alapján 2025 februárjára folyósított saját jogú ellátás összegét 2025. március 1-jétől 10%-kal meg kell emelni. Az ellátást 2025. február 28-át követő időponttól a 2025 februárjára járó összeg 10%-ával és a 2/A. §-ban foglaltak szerint növelt, (1)–(6) bekezdés szerinti összegben kell megállapítani.
+
 [^7]: A 2. § (1) bekezdése a 316/2014. (XII. 12.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^8]: A 2. § (2) bekezdése a 316/2014. (XII. 12.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^9]: A 2. § (2a) bekezdését a 316/2014. (XII. 12.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^10]: A 2. § (5) bekezdését a 28/2017. (II. 13.) Korm. rendelet 1. §-a iktatta be.
 [^11]: A 2. § (6) bekezdését a 28/2017. (II. 13.) Korm. rendelet 1. §-a iktatta be.
+[^12]: A 2. § (7) bekezdését a 28/2025. (II. 27.) Korm. rendelet 1. §-a iktatta be.
