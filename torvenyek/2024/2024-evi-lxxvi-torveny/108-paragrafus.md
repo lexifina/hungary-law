@@ -8,6 +8,6 @@ c)
 
 d)
 
-e)
+e) 2. melléklet I. rész 2. pont c) alpontja,
 
 f)
