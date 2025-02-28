@@ -38,7 +38,7 @@ a) által meghirdethető képzések képzési területét, illetve tudományter�
 
 b) – figyelemmel a hallgatók fogadásához és az oktatási tevékenység folytatásához rendelkezésre álló személyi feltételekre, helyiségekre és eszközökre – valamennyi évfolyamra számítva, teljes kihasználtsággal működve mekkora maximális hallgatói létszámot fogadhat,
 
-c) által meghirdethető képzésekre kapott indítási engedélyt,
+c)
 
 d) által meghirdethető doktori képzést, annak tudományterületét, tudományágát,
 

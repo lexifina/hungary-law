@@ -4,7 +4,7 @@
 
 (2) Doktori képzésre az a felsőoktatási intézmény szerezhet jogosultságot, amelyben mesterképzés folyik az adott tudományterületen.
 
-(3) A felsőoktatási intézmény doktori képzésre és doktori fokozat odaítélésére azon a tudományterületen, a tudományterületen belül tudományágban vagy művészeti ágban szerezhet jogosultságot, amelyre a működési engedélye kiterjed. A művészetek területén a tudományos fokozatszerzésre felkészítő PhD-képzésre, a „Doctor of Business Administration” a „Doctor of Liberal Arts” művészeti fokozatszerzésre felkészítő DLA-képzésre (a továbbiakban: doktori képzés) és fokozatadásra lehet jogosultságot szerezni.
+(3) A felsőoktatási intézmény doktori képzésre és doktori fokozat odaítélésére azon a tudományterületen, azon belül tudományágban vagy művészeti ágban szerezhet jogosultságot, amelyre a nyilvántartásba vételről szóló határozata kiterjed. A művészetek területén a tudományos fokozatszerzésre felkészítő PhD-képzésre, illetve a „Doctor of Liberal Arts” művészeti fokozatszerzésre felkészítő DLA-képzésre és -fokozatadásra lehet jogosultságot szerezni. Az üzleti vezetői területen „Doctor of Business Administration” doktori fokozatszerzésre felkészítő DBA-képzésre és -fokozatadásra lehet jogosultságot szerezni.
 
 (4) A doktori képzésben szerezhető oklevél által tanúsított tudományos fokozat a „Doctor of Philosophy” (rövidítve: PhD), a művészeti képzésben a „Doctor of Liberal Arts” (rövidítve: DLA), az üzleti doktori képzésben a „Doctor of Business Administration” (rövidítve: DBA). Az oklevelet a rektor és a doktori tanács elnöke írja alá.
 

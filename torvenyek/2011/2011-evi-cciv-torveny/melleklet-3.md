@@ -207,9 +207,3 @@
 ## IV. A FELSŐOKTATÁSI INTÉZMÉNY FENNTARTÓJA ÁLTAL NYILVÁNTARTOTT ÉS KEZELT SZEMÉLYES ÉS KÜLÖNLEGES ADATOK
 
 ## 1. E törvény alapján nyilvántartott adatok:
-
-## A felsőoktatási intézmény fenntartója az I/A. 4. és I/B. 4. pont alapján részére a felsőoktatási intézmény által a fenntartói irányítással összefüggő feladatok ellátása, a fenntartói jogok gyakorlása céljából egyedileg, vagy informatikai rendszere útján továbbított, illetve közvetlenül hozzáférhetővé tett személyes és különleges adatok.
-
-## 2. Az adatkezelés időtartama: az adattovábbítástól számított öt évig.
-
-## 3. Az 1. pontban felsorolt adatok továbbíthatók: a bíróságnak, rendőrségnek, ügyészségnek, a bírósági végrehajtónak, államigazgatási szervnek (a konkrét ügy eldöntéséhez szükséges adatok); a munkavégzésre vonatkozó rendelkezések ellenőrzésére jogosultaknak (a foglalkoztatással összefüggő adatok); a nemzetbiztonsági szolgálatnak (az Nbtv.-ben meghatározott feladatok ellátásához szükséges valamennyi adat); a Diákhitel Központnak (a hallgatói hitel jogszerű folyósításával és a tanulmányok folytatásával összefüggő adatok); az Avtv2. 28. §-a alapján a fenntartóhoz intézett adatmegismerési kérelem teljesítése céljából a kérelmezőnek az Avtv2. 26. § (3) bekezdése szerinti közérdekből nyilvános adatnak minősülő adatok.
