@@ -1,6 +1,6 @@
-## 16.[^239] A közigazgatási és területfejlesztési miniszter feladat- és hatásköre
+## 16.[^241] A közigazgatási és területfejlesztési miniszter feladat- és hatásköre
 
-178. §[^240] A közigazgatási és területfejlesztési miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány
+178. §[^242] A közigazgatási és területfejlesztési miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány
 
 1. területfejlesztésért,
 
@@ -28,16 +28,16 @@
 
 13. az Európa Kulturális Fővárosa pályázati programmal kapcsolatos feladatok koordinálásáért
 
-14.[^241] a hivatásos katasztrófavédelmi szerv által lefolytatott eljárásokat kivéve a tűzvédelmi hatósági ügyekért,
+14.[^243] a hivatásos katasztrófavédelmi szerv által lefolytatott eljárásokat kivéve a tűzvédelmi hatósági ügyekért,
 
-15.[^242] a hivatásos katasztrófavédelmi szerv által lefolytatott eljárásokat kivéve az iparbiztonsági hatósági ügyekért
+15.[^244] a hivatásos katasztrófavédelmi szerv által lefolytatott eljárásokat kivéve az iparbiztonsági hatósági ügyekért
 
-16.[^243] aktív Magyarországért
+16.[^245] aktív Magyarországért
 
 felelős tagja.
 
-[^239]: A 16. alcím címe az 599/2023. (XII. 22.) Korm. rendelet 41. § c) pontja szerint módosított szöveg.
-[^240]: A 178. § az 599/2023. (XII. 22.) Korm. rendelet 33. §-ával megállapított szöveg.
-[^241]: A 178. § 14. pontját a 257/2024. (VIII. 29.) Korm. rendelet 347. §-a iktatta be.
-[^242]: A 178. § 15. pontját a 257/2024. (VIII. 29.) Korm. rendelet 347. §-a iktatta be.
-[^243]: A 178. § 16. pontját a 21/2025. (II. 24.) Korm. rendelet 17. §-a iktatta be.
+[^241]: A 16. alcím címe az 599/2023. (XII. 22.) Korm. rendelet 41. § c) pontja szerint módosított szöveg.
+[^242]: A 178. § az 599/2023. (XII. 22.) Korm. rendelet 33. §-ával megállapított szöveg.
+[^243]: A 178. § 14. pontját a 257/2024. (VIII. 29.) Korm. rendelet 347. §-a iktatta be.
+[^244]: A 178. § 15. pontját a 257/2024. (VIII. 29.) Korm. rendelet 347. §-a iktatta be.
+[^245]: A 178. § 16. pontját a 21/2025. (II. 24.) Korm. rendelet 17. §-a iktatta be.

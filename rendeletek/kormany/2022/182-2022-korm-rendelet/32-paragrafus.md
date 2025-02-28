@@ -14,9 +14,9 @@ f) közreműködik a Kormány és a Kormány egyes tagjai által kormányzati é
 
 g) a Kormány más tagjától a feladat- és hatáskörébe tartozó kérdésben információt, felvilágosítást, háttéranyagot, elemzést kérhet.
 
-(2)[^42]
+(2)[^44]
 
-(3)[^43]
+(3)[^45]
 
-[^42]: A 32. § (2) bekezdését a 21/2025. (II. 24.) Korm. rendelet 22. § h) pontja hatályon kívül helyezte.
-[^43]: A 32. § (3) bekezdését az 556/2023. (XII. 12.) Korm. rendelet 3. §-a iktatta be, a 3/2025. (I. 23.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^44]: A 32. § (2) bekezdését a 21/2025. (II. 24.) Korm. rendelet 22. § h) pontja hatályon kívül helyezte.
+[^45]: A 32. § (3) bekezdését az 556/2023. (XII. 12.) Korm. rendelet 3. §-a iktatta be, a 3/2025. (I. 23.) Korm. rendelet 3. §-a hatályon kívül helyezte.

@@ -1,5 +1,5 @@
-## 14.[^201]
+## 14.[^203]
 
 148. §
 
-[^201]: A 14. alcímet (148–159. §-t) a 440/2024. (XII. 23.) Korm. rendelet 11. § c) pontja hatályon kívül helyezte.
+[^203]: A 14. alcímet (148–159. §-t) a 440/2024. (XII. 23.) Korm. rendelet 11. § c) pontja hatályon kívül helyezte.

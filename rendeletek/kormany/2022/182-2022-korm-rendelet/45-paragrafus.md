@@ -1,3 +1,3 @@
-45. §[^54]
+45. §[^56]
 
-[^54]: A 45. §-t a 21/2025. (II. 24.) Korm. rendelet 22. § j) pontja hatályon kívül helyezte.
+[^56]: A 45. §-t a 21/2025. (II. 24.) Korm. rendelet 22. § j) pontja hatályon kívül helyezte.

@@ -1,3 +1,3 @@
-40. §[^50]
+40. §[^52]
 
-[^50]: A 40. §-t a 21/2025. (II. 24.) Korm. rendelet 22. § i) pontja hatályon kívül helyezte.
+[^52]: A 40. §-t a 21/2025. (II. 24.) Korm. rendelet 22. § i) pontja hatályon kívül helyezte.

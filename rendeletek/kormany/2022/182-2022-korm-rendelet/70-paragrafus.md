@@ -1,3 +1,3 @@
-70. §[^94]
+70. §[^96]
 
-[^94]: A 70. §-t az 599/2023. (XII. 22.) Korm. rendelet 42. § k) pontja hatályon kívül helyezte.
+[^96]: A 70. §-t az 599/2023. (XII. 22.) Korm. rendelet 42. § k) pontja hatályon kívül helyezte.

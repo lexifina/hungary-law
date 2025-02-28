@@ -18,11 +18,11 @@
 
 8. kulturális diplomáciáért és a külföldi magyar kulturális intézetekért,
 
-9.[^188] felnőttképzésért
+9.[^190] felnőttképzésért
 
-10.[^189] mozgóképszakmáért
+10.[^191] mozgóképszakmáért
 
 felelős tagja.
 
-[^188]: A 128. § 9. pontja a 467/2022. (XI. 21.) Korm. rendelet 16. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^189]: A 128. § 10. pontját a 21/2025. (II. 24.) Korm. rendelet 11. §-a iktatta be.
+[^190]: A 128. § 9. pontja a 467/2022. (XI. 21.) Korm. rendelet 16. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^191]: A 128. § 10. pontját a 21/2025. (II. 24.) Korm. rendelet 11. §-a iktatta be.

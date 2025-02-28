@@ -4,6 +4,6 @@ a) folyamatosan figyelemmel kíséri és elemzi a lakáspiaci folyamatokat,
 
 b) javaslatot tesz a Kormány részére a lakáspolitika fejlesztésére, az ehhez kapcsolódó intézkedésekre,
 
-c)[^150] a családok otthonteremtésének hatékony elősegítése érdekében – a családokért felelős miniszterrel együttműködésben – javaslatot tesz a lakáscélú állami támogatások feltételrendszerére.
+c)[^152] a családok otthonteremtésének hatékony elősegítése érdekében – a családokért felelős miniszterrel együttműködésben – javaslatot tesz a lakáscélú állami támogatások feltételrendszerére.
 
-[^150]: A 108. § c) pontja a 440/2024. (XII. 23.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^152]: A 108. § c) pontja a 440/2024. (XII. 23.) Korm. rendelet 4. §-ával megállapított szöveg.

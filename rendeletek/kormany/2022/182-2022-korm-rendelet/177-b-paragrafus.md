@@ -1,4 +1,4 @@
-177/B. §[^231] A miniszter az informatikáért való felelőssége keretében
+177/B. §[^233] A miniszter az informatikáért való felelőssége keretében
 
 a) kidolgozza az egységes, infokommunikációs infrastruktúra-fejlesztési, valamint szolgáltatási stratégiát, és közreműködik annak végrehajtásában,
 
@@ -8,4 +8,4 @@ ba) felügyeli azok infokommunikációs infrastruktúra eszközrendszerének üz
 
 bb) egyetértési jogot gyakorol azok infokommunikációs infrastruktúrájáért felelős vezetőinek és az informatikai biztonságért felelős vezetőinek személye és infokommunikációs infrastruktúrát érintő kötelezettségvállalásai tekintetében.
 
-[^231]: A 177/B. §-t a 21/2025. (II. 24.) Korm. rendelet 16. §-a iktatta be.
+[^233]: A 177/B. §-t a 21/2025. (II. 24.) Korm. rendelet 16. §-a iktatta be.

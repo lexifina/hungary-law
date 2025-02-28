@@ -1,4 +1,4 @@
-111/M. §[^167] (1) A miniszter az államháztartásért való felelőssége keretében előkészíti az államháztartásra, a központi költségvetésre és annak végrehajtására, a helyi önkormányzatok és a nemzetiségi önkormányzatok gazdálkodására, a részükre nyújtandó támogatásokra, az államháztartási belső ellenőrzési rendszerekre, a gazdasági stabilitás alapvető szabályaira, valamint a társadalmi szervezetek gazdálkodási rendjére vonatkozó jogszabályokat, és közreműködik valamennyi, a közpénzügyeket érintő szabályozás kialakításában.
+111/M. §[^169] (1) A miniszter az államháztartásért való felelőssége keretében előkészíti az államháztartásra, a központi költségvetésre és annak végrehajtására, a helyi önkormányzatok és a nemzetiségi önkormányzatok gazdálkodására, a részükre nyújtandó támogatásokra, az államháztartási belső ellenőrzési rendszerekre, a gazdasági stabilitás alapvető szabályaira, valamint a társadalmi szervezetek gazdálkodási rendjére vonatkozó jogszabályokat, és közreműködik valamennyi, a közpénzügyeket érintő szabályozás kialakításában.
 
 (2) A miniszter az államháztartásért való felelőssége keretében
 
@@ -26,4 +26,4 @@ h) koordinálja és harmonizálja az államháztartási belső kontroll rendszer
 
 (3) A miniszter az államháztartásért való felelőssége keretében – a Kormány ügyrendjében foglaltak szerint – költségvetési vétót gyakorolhat a jogszabályok és a Magyar Közlönyben kiadásra kerülő kormányhatározatok tervezetei tekintetében.
 
-[^167]: A 111/M. §-t a 440/2024. (XII. 23.) Korm. rendelet 5. §-a iktatta be.
+[^169]: A 111/M. §-t a 440/2024. (XII. 23.) Korm. rendelet 5. §-a iktatta be.

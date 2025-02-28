@@ -1,4 +1,4 @@
-102/A. §[^116] (1) A miniszter a közlekedésért való felelőssége keretében előkészíti
+102/A. §[^118] (1) A miniszter a közlekedésért való felelőssége keretében előkészíti
 
 a) a közlekedés védelmére és biztonságára,
 
@@ -10,7 +10,7 @@ d) a gépjármű-vezető képzésre,
 
 e) a közlekedési szakemberek képzésére, vizsgáztatására és utánképzésére, a nemzetközi közúti fuvarozást végző egyes járművek személyzetének vezetési és pihenőidejére, a közforgalmú személyszállítási utazási kedvezményekre,
 
-f)[^117]
+f)[^119]
 
 vonatkozó jogszabályokat.
 
@@ -32,14 +32,14 @@ e) ellátja az a)–d) pont finanszírozásával kapcsolatos feladatokat.
 
 (5) A miniszter a közlekedésért való felelőssége keretében – az informatikáért felelős miniszterrel egyetértésben – kidolgozza az ágazati infokommunikációs infrastruktúra-fejlesztési javaslatokat, valamint szolgáltatási stratégiáját.
 
-(6)[^118] A miniszter a közlekedésért való felelőssége keretében gondoskodik az útdíjpolitika alapelveinek kidolgozásáról.
+(6)[^120] A miniszter a közlekedésért való felelőssége keretében gondoskodik az útdíjpolitika alapelveinek kidolgozásáról.
 
-(7)[^119] A miniszter a közlekedésért való felelőssége keretében meghatározza a használati díj megfizetése ellenében, valamint az útdíjfizetés ellenében igénybe vehető országos közutakat, vagy azok egyes szakaszait.
+(7)[^121] A miniszter a közlekedésért való felelőssége keretében meghatározza a használati díj megfizetése ellenében, valamint az útdíjfizetés ellenében igénybe vehető országos közutakat, vagy azok egyes szakaszait.
 
-(8)[^120] A miniszter a közlekedésért való felelőssége keretében előkészíti az országos közutak meghatározott időtartamban történő használatáért fizetendő használati díjra és a pótdíjra, valamint az útdíjköteles elemi útszakaszok használatáért fizetendő útdíjra vonatkozó jogszabályokat.
+(8)[^122] A miniszter a közlekedésért való felelőssége keretében előkészíti az országos közutak meghatározott időtartamban történő használatáért fizetendő használati díjra és a pótdíjra, valamint az útdíjköteles elemi útszakaszok használatáért fizetendő útdíjra vonatkozó jogszabályokat.
 
-[^116]: A 102/A. §-t a 467/2022. (XI. 21.) Korm. rendelet 3. §-a iktatta be.
-[^117]: A 102/A. § (1) bekezdés f) pontját a 474/2024. (XII. 31.) Korm. rendelet 165. §-a hatályon kívül helyezte.
-[^118]: A 102/A. § (6) bekezdését az 579/2022. (XII. 23.) Korm. rendelet 4. § (3) bekezdése iktatta be.
-[^119]: A 102/A. § (7) bekezdését az 579/2022. (XII. 23.) Korm. rendelet 4. § (3) bekezdése iktatta be.
-[^120]: A 102/A. § (8) bekezdését az 579/2022. (XII. 23.) Korm. rendelet 4. § (3) bekezdése iktatta be.
+[^118]: A 102/A. §-t a 467/2022. (XI. 21.) Korm. rendelet 3. §-a iktatta be.
+[^119]: A 102/A. § (1) bekezdés f) pontját a 474/2024. (XII. 31.) Korm. rendelet 165. §-a hatályon kívül helyezte.
+[^120]: A 102/A. § (6) bekezdését az 579/2022. (XII. 23.) Korm. rendelet 4. § (3) bekezdése iktatta be.
+[^121]: A 102/A. § (7) bekezdését az 579/2022. (XII. 23.) Korm. rendelet 4. § (3) bekezdése iktatta be.
+[^122]: A 102/A. § (8) bekezdését az 579/2022. (XII. 23.) Korm. rendelet 4. § (3) bekezdése iktatta be.

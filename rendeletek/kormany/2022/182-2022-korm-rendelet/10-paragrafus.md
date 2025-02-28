@@ -6,9 +6,9 @@ b) közreműködik a miniszterelnöknek a Kit. 5. §-ában meghatározott felada
 
 c) felel a miniszterelnök személye körüli feladatok ellátásáért,
 
-d)[^11]
+d)[^12]
 
-e)[^12]
+e)[^13]
 
-[^11]: A 10. § d) pontját a 21/2025. (II. 24.) Korm. rendelet 22. § c) pontja hatályon kívül helyezte.
-[^12]: A 10. § e) pontját a 21/2025. (II. 24.) Korm. rendelet 22. § c) pontja hatályon kívül helyezte.
+[^12]: A 10. § d) pontját a 21/2025. (II. 24.) Korm. rendelet 22. § c) pontja hatályon kívül helyezte.
+[^13]: A 10. § e) pontját a 21/2025. (II. 24.) Korm. rendelet 22. § c) pontja hatályon kívül helyezte.

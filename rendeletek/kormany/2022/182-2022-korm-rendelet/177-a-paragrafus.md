@@ -1,4 +1,4 @@
-177/A. §[^230] (1) A miniszter az e-közigazgatásért való felelőssége keretében meghatározza az e-közigazgatás általános elveit, előkészíti az e-közigazgatásra vonatkozó jogszabályokat.
+177/A. §[^232] (1) A miniszter az e-közigazgatásért való felelőssége keretében meghatározza az e-közigazgatás általános elveit, előkészíti az e-közigazgatásra vonatkozó jogszabályokat.
 
 (2) A miniszter az e-közigazgatásért való felelőssége keretében
 
@@ -20,4 +20,4 @@ h) ellátja az Európai Unió tagállamainak az elektronikus azonosítás terül
 
 (3) A miniszter – jogszabályban meghatározott kivétellel – a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt. útján központosított informatikai és telekommunikációs szolgáltatásokat nyújt, gondoskodik az igénybevevők informatikai és telekommunikációs eszközökkel történő ellátásáról és az ilyen eszközök működtetéséről.
 
-[^230]: A 177/A. §-t a 21/2025. (II. 24.) Korm. rendelet 16. §-a iktatta be.
+[^232]: A 177/A. §-t a 21/2025. (II. 24.) Korm. rendelet 16. §-a iktatta be.
