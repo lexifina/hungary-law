@@ -54,6 +54,8 @@ m) az állami tisztviselőkről szóló törvény hatálya alá tartozó munkál
 
 n) egészségügyi szolgálati jogviszonyban
 
+o) a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvény szerinti nemzetbiztonsági szolgálati jogviszonyban, valamint nemzetbiztonsági alkalmazotti jogviszonyban
+
 töltött időt.
 
 (7) A szakmai gyakorlat munkavégzési kötelezettséggel nem járó szünetelésének időszaka – kormányrendeletben meghatározottak alapján – köznevelési foglalkoztatotti jutalomra jogosító időnek tekintendő.
