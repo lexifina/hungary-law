@@ -12,6 +12,6 @@
 
 ## 1. Az 1945 és 1963 között törvénysértő módon elítéltek, az 1956-os forradalommal és szabadságharccal összefüggésben elítéltek, valamint a korábbi nyugdíjcsökkentés megszüntetéséről, továbbá az egyes személyes szabadságot korlátozó intézkedések hatálya alatt állt személyek társadalombiztosítási és munkajogi helyzetének rendezéséről szóló 93/1990. (XI. 21.) Korm. rendelet módosítása
 
-1. § Az 1945 és 1963 között törvénysértő módon elítéltek, az 1956-os forradalommal és szabadságharccal összefüggésben elítéltek, valamint a korábbi nyugdíjcsökkentés megszüntetéséről, továbbá az egyes személyes szabadságot korlátozó intézkedések hatálya alatt állt személyek társadalombiztosítási és munkajogi helyzetének rendezéséről szóló 93/1990. (XI. 21.) Korm. rendelet 2. §-a a következő (7) bekezdéssel egészül ki:
+1. §[^2]
 
-„(7) Az e rendelet alapján 2025 februárjára folyósított saját jogú ellátás összegét 2025. március 1-jétől 10%-kal meg kell emelni. Az ellátást 2025. február 28-át követő időponttól a 2025 februárjára járó összeg 10%-ával és a 2/A. §-ban foglaltak szerint növelt, (1)–(6) bekezdés szerinti összegben kell megállapítani.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
