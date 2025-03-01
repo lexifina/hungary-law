@@ -1,4 +1,4 @@
-6/A. §[^40] (1) A tárolói pénzeszköz mértékének meghatározása során a Befogadó figyelembe veszi
+6/A. §[^42] (1) A tárolói pénzeszköz mértékének meghatározása során a Befogadó figyelembe veszi
 
 a) a támogatott tárolókkal, valamint a pénzeszköz fizetésére kötelezettekkel kapcsolatos elszámolásait, és
 
@@ -12,7 +12,7 @@ a) a támogatott tárolók bevételkompenzációjának a támogatási jogosults�
 
 b) a támogatott tárolótól a tárgyhónapban befolyt, jogosulatlanul igénybe vett támogatás után fizetett visszatérítések összegét,
 
-c) a villamosenergia-tárolók bevételkompenzációjának folyamatos rövid távú likviditásához kapcsolódó pénzügyi ráfordítások és bevételek tárgyhavi összegét, az igazolt banki költségeket és kamatokat is beleértve,
+c)[^43] a villamosenergia-tárolók bevétel kompenzációjának folyamatos rövid távú likviditásához kapcsolódó pénzügyi ráfordítások és bevételek tárgyhavi összegét, ideértve a számlavezetéssel, a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti pénzkölcsön igénybevételével összefüggő költségeket és kamatokat, valamint a Befogadó részvételével működő összevont pénzkezelésben részt vevő számláról származó finanszírozási forrás esetén az összevont pénzkezelés során alkalmazandó, adóhatóság által jóváhagyott, a szokásos piaci árnak megfelelő kamatokat is;
 
 d) a villamosenergia-tárolói bevételkompenzációs támogatási rendszer működtetésének a Hivatal által elismert indokolt, korábban még nem érvényesített működtetési költségeit,
 
@@ -24,4 +24,5 @@ g) a támogatott tároló és a pénzeszköz fizetésére kötelezett villamosen
 
 előjelhelyesen – a villamosenergia-tárolói bevételkompenzációs támogatási rendszer kiadásait pozitív, bevételeit negatív előjellel – veszi figyelembe.
 
-[^40]: A 6/A. §-t a 18/2023. (IX. 21.) EM rendelet 2. §-a iktatta be.
+[^42]: A 6/A. §-t a 18/2023. (IX. 21.) EM rendelet 2. §-a iktatta be.
+[^43]: A 6/A. § (3) bekezdés c) pontja a 4/2025. (II. 28.) EM rendelet 5. §-ával megállapított szöveg.

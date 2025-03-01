@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-63-20-2
 | 2022-11-01 | 2016-63-20-2W.11 | 15/2022. (VIII. 18.) TIM rendelet |
 | 2022-11-08 | 2016-63-20-2W.12 | 24/2022. (XI. 8.) TIM rendelet |
 | 2023-09-22 | 2016-63-20-2W.14 | 18/2023. (IX. 21.) EM rendelet |
+| 2025-03-01 | 2016-63-20-2W.15 | 4/2025. (II. 28.) EM rendelet |

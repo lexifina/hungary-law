@@ -22,23 +22,23 @@ d)[^25] a Menetrendadásra kötelezettekre a villamosenergia-ellátási szabály
 
 e)[^26] a Befogadó szervezett villamosenergia-piacon történő, származási garanciák értékesítéséből származó bevételeinek összegét a Befogadó által a kereskedelmi szabályzat szerint meghatározott átváltási árfolyamon;
 
-f) a KÁT mérlegkör folyamatos rövid távú likviditásához kapcsolódó pénzügyi ráfordítások és bevételek tárgyhavi összegét, beleértve az igazolt banki költségeket és kamatokat is;
+f)[^27] a KÁT mérlegkör folyamatos rövid távú likviditásához kapcsolódó pénzügyi ráfordítások és bevételek tárgyhavi összegét, ideértve a számlavezetéssel, a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti pénzkölcsön igénybevételével összefüggő költségeket és kamatokat, valamint a Befogadó részvételével működő vállalkozások csoportjának közös számlavezetési rendszerében részt vevő számláról származó finanszírozási forrás esetén a közös számlavezetési rendszerben részt vevők között alkalmazandó, adóhatóság által jóváhagyott, a szokásos piaci árnak megfelelő kamatokat is;
 
 g) a KÁT mérlegkörfelelősi feladatok elvégzésének a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) által elismert indokolt, korábban még nem érvényesített működtetési költségeit;
 
-h)[^27] a szervezett villamosenergia-piacon történő tárgyhavi ügyletkötésekből származó bevételek és kiadások összegét a Befogadó által a kereskedelmi szabályzat szerint meghatározott átváltási árfolyamon;
+h)[^28] a szervezett villamosenergia-piacon történő tárgyhavi ügyletkötésekből származó bevételek és kiadások összegét a Befogadó által a kereskedelmi szabályzat szerint meghatározott átváltási árfolyamon;
 
-i)[^28] a szervezett villamosenergia-piacon történő ügyletkötésekkel összefüggő és a származási garanciákhoz kapcsolódó ügyletkötésekkel összefüggő tárgyhavi technikai költségek összegét, beleértve a szervezett villamosenergia-piacon történő ügyletkötésekhez szükséges biztosítékokat és azok tárgyhavi módosulásait a Befogadó által a kereskedelmi szabályzat szerint meghatározott átváltási árfolyamon;
+i)[^29] a szervezett villamosenergia-piacon történő ügyletkötésekkel összefüggő és a származási garanciákhoz kapcsolódó ügyletkötésekkel összefüggő tárgyhavi technikai költségek összegét, beleértve a szervezett villamosenergia-piacon történő ügyletkötésekhez szükséges biztosítékokat és azok tárgyhavi módosulásait a Befogadó által a kereskedelmi szabályzat szerint meghatározott átváltási árfolyamon;
 
-j)[^29] a tárgyhónapot megelőző termelési időszak a) és c)–d) pont szerint meghatározott összegeinek, valamint a szabályozási bónusz 2020. április tárgyhót megelőző összegeinek még figyelembe nem vett módosulásait;
+j)[^30] a tárgyhónapot megelőző termelési időszak a) és c)–d) pont szerint meghatározott összegeinek, valamint a szabályozási bónusz 2020. április tárgyhót megelőző összegeinek még figyelembe nem vett módosulásait;
 
-k)[^30] a tárgyhónapot megelőző termelési időszakban a pénzeszköz fizetésére kötelezettek tény értékesítési adatának módosulása miatti, a KÁT pénzeszköz korábban megfizetett összegének még figyelembe nem vett módosulásai szerint befolyó többletbevételeket vagy visszatérítéseket.
+k)[^31] a tárgyhónapot megelőző termelési időszakban a pénzeszköz fizetésére kötelezettek tény értékesítési adatának módosulása miatti, a KÁT pénzeszköz korábban megfizetett összegének még figyelembe nem vett módosulásai szerint befolyó többletbevételeket vagy visszatérítéseket.
 
-l)[^31] a Menetrendadásra kötelezetteknek a vonatkozó kormányrendeletben meghatározott önálló kiegyenlítő menedzsmentje során elszámolt villamos energia ellenértékének tárgyhavi összegét.
+l)[^32] a Menetrendadásra kötelezetteknek a vonatkozó kormányrendeletben meghatározott önálló kiegyenlítő menedzsmentje során elszámolt villamos energia ellenértékének tárgyhavi összegét.
 
-m)[^32] a Menetrendadásra kötelezett és a pénzeszköz fizetésére kötelezett kötelező átviteli rendszerrel kapcsolatos, a tárgyhónap utolsó munkanapján fennálló lejárt esedékességű tartozásainak összegét és azoknak még figyelembe nem vett módosulásait;
+m)[^33] a Menetrendadásra kötelezett és a pénzeszköz fizetésére kötelezett kötelező átviteli rendszerrel kapcsolatos, a tárgyhónap utolsó munkanapján fennálló lejárt esedékességű tartozásainak összegét és azoknak még figyelembe nem vett módosulásait;
 
-n)[^33] a veszélyhelyzet idején a villamos energia és földgáz egyetemes szolgáltatás változatlan feltételek szerinti nyújtását biztosító rezsivédelmi szolgáltatásról szóló kormányrendelet (a továbbiakban: Kr.) alapján a földgázszolgáltató részére fizetendő, a KÁT pénzeszköznek a tárgyhónap utolsó munkanapjáig befolyt, még figyelembe nem vett, a tárgyhónapot megelőző második hónapig meghatározott többletbevételei összegét.
+n)[^34] a veszélyhelyzet idején a villamos energia és földgáz egyetemes szolgáltatás változatlan feltételek szerinti nyújtását biztosító rezsivédelmi szolgáltatásról szóló kormányrendelet (a továbbiakban: Kr.) alapján a földgázszolgáltató részére fizetendő, a KÁT pénzeszköznek a tárgyhónap utolsó munkanapjáig befolyt, még figyelembe nem vett, a tárgyhónapot megelőző második hónapig meghatározott többletbevételei összegét.
 
 [^19]: Az 5. alcím címe a 18/2023. (IX. 21.) EM rendelet 6. § (2) bekezdése szerint módosított szöveg.
 [^20]: Az 5. § (1) bekezdés a) pontja a 49/2021. (X. 1.) ITM rendelet 28. § b) pontja szerint módosított szöveg. Az 5. § (1) bekezdés a) pontja a 18/2023. (IX. 21.) EM rendelet 6. § (2) bekezdése szerint módosított szöveg.
@@ -48,10 +48,11 @@ n)[^33] a veszélyhelyzet idején a villamos energia és földgáz egyetemes szo
 [^24]: Az 5. § (3) bekezdés c) pontja a 2/2020. (I. 13.) ITM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^25]: Az 5. § (3) bekezdés d) pontja a 49/2021. (X. 1.) ITM rendelet 23. § (1) bekezdésével megállapított, a 15/2022. (VIII. 18.) TIM rendelet 2. § b) pontja szerint módosított szöveg.
 [^26]: Az 5. § (3) bekezdés e) pontját a 2/2020. (I. 13.) ITM rendelet 4. § b) pontja hatályon kívül helyezte, újonnan a 49/2021. (X. 1.) ITM rendelet 23. § (2) bekezdése iktatta be.
-[^27]: Az 5. § (3) bekezdés h) pontja a 15/2022. (VIII. 18.) TIM rendelet 2. § c) pontja szerint módosított szöveg.
-[^28]: Az 5. § (3) bekezdés i) pontja a 49/2021. (X. 1.) ITM rendelet 23. § (3) bekezdésével megállapított, a 15/2022. (VIII. 18.) TIM rendelet 2. § d) pontja szerint módosított szöveg.
-[^29]: Az 5. § (3) bekezdés j) pontja a 2/2020. (I. 13.) ITM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^30]: Az 5. § (3) bekezdés k) pontja a 18/2023. (IX. 21.) EM rendelet 6. § (2) bekezdése szerint módosított szöveg.
-[^31]: Az 5. § (3) bekezdés l) pontját a 49/2021. (X. 1.) ITM rendelet 23. § (4) bekezdése iktatta be.
-[^32]: Az 5. § (3) bekezdés m) pontját a 15/2022. (VIII. 18.) TIM rendelet 1. § (1) bekezdése iktatta be, szövege a 18/2023. (IX. 21.) EM rendelet 6. § (6) bekezdése szerint módosított szöveg.
-[^33]: Az 5. § (3) bekezdés n) pontját újonnan a 24/2022. (XI. 8.) TIM rendelet 1. § (1) bekezdése iktatta be.
+[^27]: Az 5. § (3) bekezdés f) pontja a 4/2025. (II. 28.) EM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^28]: Az 5. § (3) bekezdés h) pontja a 15/2022. (VIII. 18.) TIM rendelet 2. § c) pontja szerint módosított szöveg.
+[^29]: Az 5. § (3) bekezdés i) pontja a 49/2021. (X. 1.) ITM rendelet 23. § (3) bekezdésével megállapított, a 15/2022. (VIII. 18.) TIM rendelet 2. § d) pontja szerint módosított szöveg.
+[^30]: Az 5. § (3) bekezdés j) pontja a 2/2020. (I. 13.) ITM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^31]: Az 5. § (3) bekezdés k) pontja a 18/2023. (IX. 21.) EM rendelet 6. § (2) bekezdése szerint módosított szöveg.
+[^32]: Az 5. § (3) bekezdés l) pontját a 49/2021. (X. 1.) ITM rendelet 23. § (4) bekezdése iktatta be.
+[^33]: Az 5. § (3) bekezdés m) pontját a 15/2022. (VIII. 18.) TIM rendelet 1. § (1) bekezdése iktatta be, szövege a 18/2023. (IX. 21.) EM rendelet 6. § (6) bekezdése szerint módosított szöveg.
+[^34]: Az 5. § (3) bekezdés n) pontját újonnan a 24/2022. (XI. 8.) TIM rendelet 1. § (1) bekezdése iktatta be.
