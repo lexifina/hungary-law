@@ -22,7 +22,7 @@ f) a folyósítás évét megelőző négy évben lakáscélú hitelként folyó
 
 g) olyan munkabérelőleg, amelynek folyósítása legfeljebb hat havi visszafizetési kötelezettség mellett, legfeljebb a folyósítás napján érvényes minimálbér havi összegének ötszörösét meg nem haladó értékben történik, azzal, hogy ha a munkáltató az általa az előzőek szerint folyósított munkabérelőleg visszafizetése előtt újabb munkabérelőleget folyósít, arra ez a rendelkezés nem alkalmazható;
 
-h) a rendvédelmi feladatokat ellátó szervek hivatásos állományú tagja részére jogszabály alapján folyósított családalapítási támogatás, valamint a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogszabály alapján folyósított toborzópénz, szerződés-hosszabbítási díj, visszailleszkedési támogatás, a honvédek jogállási kérdéseit szabályozó jogszabály szerinti, az önkéntes tartalékos szolgálat vállalását ösztönző juttatás és családalapítási támogatás, feltéve, ha azt vissza kell fizetni;
+h) a rendvédelmi feladatokat ellátó szervek vagy polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja részére jogszabály alapján folyósított családalapítási támogatás, valamint a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogszabály alapján folyósított toborzópénz, szerződés-hosszabbítási díj, visszailleszkedési támogatás, a honvédek jogállási kérdéseit szabályozó jogszabály szerinti, az önkéntes tartalékos szolgálat vállalását ösztönző juttatás és családalapítási támogatás, feltéve, ha azt vissza kell fizetni;
 
 i) az állami tulajdon megvásárlásához hitelintézet útján nyújtott hitel;
 
