@@ -34,6 +34,8 @@ h) az állami vezetői szolgálati jogviszonyban, politikai felsővezetőként p
 
 i) a költségvetési intézménynél egészségügyi szolgálati jogviszonyban, köznevelési foglalkoztatotti jogviszonyban töltött időt
 
+j) a nemzetbiztonsági szolgálati jogviszonyban és nemzetbiztonsági alkalmazotti jogviszonyban töltött időt
+
 kell figyelembe venni.
 
 (4) A köztisztviselő nem jogosult szolgálati elismerésre, ha másik foglalkoztatási jogviszonyban azt már megkapta.
