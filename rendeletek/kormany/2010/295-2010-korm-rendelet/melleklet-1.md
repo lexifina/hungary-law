@@ -1,10 +1,10 @@
-1. melléklet a 295/2010. (XII. 22.) Korm. rendelethez[^30]
+1. melléklet a 295/2010. (XII. 22.) Korm. rendelethez[^31]
 
 1. A rendőrség terrorizmust elhárító szervének székhelye:
 
 Terrorelhárítási Központ, Budapest
 
-2.[^31] A rendőrség terrorizmust elhárító szervének kirendeltségei és azok székhelyei:
+2.[^32] A rendőrség terrorizmust elhárító szervének kirendeltségei és azok székhelyei:
 
 2.1. Paksi Műveleti Főosztály, Paks
 
@@ -20,7 +20,7 @@ Terrorelhárítási Központ, Budapest
 
 2.7. 13. Műveleti Osztály, Szombathely
 
-2.8.[^32]
+2.8.[^33]
 
 2.9. 1. Iroda, Budapest Liszt Ferenc Nemzetközi Repülőtér
 
@@ -36,6 +36,6 @@ Terrorelhárítási Központ, Budapest
 
 2.15. 7. Iroda, Paks
 
-[^30]: Az 1. melléklet a 416/2012. (XII. 29.) Korm. rendelet 20. §-ával megállapított szöveg.
-[^31]: Az 1. melléklet 2. pontja a 77/2018. (IV. 20.) Korm. rendelet 20. §-ával megállapított szöveg.
-[^32]: Az 1. melléklet 2.8. pontját a 250/2019. (X. 24.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^31]: Az 1. melléklet a 416/2012. (XII. 29.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^32]: Az 1. melléklet 2. pontja a 77/2018. (IV. 20.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^33]: Az 1. melléklet 2.8. pontját a 250/2019. (X. 24.) Korm. rendelet 5. §-a hatályon kívül helyezte.
