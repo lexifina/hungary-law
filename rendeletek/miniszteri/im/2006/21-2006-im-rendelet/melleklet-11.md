@@ -2,196 +2,290 @@
 
 ## Alapító okirat
 
-## Alulírott alapító, szerződésminta[^1.] alkalmazásával, a következők szerint állapítja meg az alábbi egyéni cég alapító okiratát:
+## Alulírott tag, szerződésminta alkalmazásával, a következők szerint állapítja meg az alábbi egyéni cég alapító okiratát:
 
-## 1. A társaság cégneve, székhelye, telephelye(i), fióktelepe(i)
+## I. Az egyéni cég cégneve, székhelye, telephelye(i), fióktelepe(i)
 
-## 1.1. Az egyéni cég neve: Egyéni Cég
+## 1. Az egyéni cég cégneve (kitöltése kötelező)
 
-## Az egyéni cég rövidített cégneve:
+## 2. Az egyéni cég rövidített cégneve (szükség esetén kitöltendő)
 
-## 1.2. Az egyéni cég idegen nyelvű cégneve:[^2.]
+## 3. Az egyéni cég idegen nyelvű cégneve (szükség esetén kitöltendő)
 
-## Az egyéni cég idegen nyelvű rövidített cégneve:[^3.]
+## 4. Az egyéni cég idegen nyelvű rövidített cégneve (szükség esetén kitöltendő)
 
-## 1.3.Az egyéni cég székhelye:
+## 5. Az egyéni cég székhelye (kitöltése kötelező)
 
-## Az egyéni cég székhelye[^4.]
+## 6. Az egyéni székhelye (valamelyik pont kötelezően választandó)
 
 ## a) egyben a központi ügyintézés helye is.
 
-## b) nem azonos a központi ügyintézés helyével[^5:]
+## b) nem azonos a központi ügyintézés helyével.
 
-## 1.4. Az egyéni cég telephelye(i):[^6.]
+## 7. A központi ügyintézés helye (Az I. pont 6. alpont b) pont választása esetén kitöltése kötelező.)
 
-## 1.5. Az egyéni cég fióktelepe(i):6
+## 8. Az egyéni cég telephelye(i) (Szükség esetén kitöltendő, a latin abc betűivel sorszámozott pontokkal bővíthető.)
 
-## 2. Az egyéni cég tagja
+## 9. Az egyéni cég fióktelepe(i) (Szükség esetén kitöltendő, a latin abc betűivel sorszámozott pontokkal bővíthető.)
 
-## Név:.
+## II. Az egyéni cég tagja
 
-## Anyja születési neve:
+## A tag adatai:
 
-## Lakcím:
+## a) Név
 
-## Egyéni vállalkozói nyilvántartási száma:
+## b) Anyja neve
 
-## 3. Az egyéni cég tevékenységi köre(i)[^7.]
+## c) Lakcím
 
-## 3.1.Főtevékenység:
+## d) Egyéni vállalkozói nyilvántartási szám
 
-## 3.2.Egyéb tevékenységi kör(ök):
+## III. Az egyéni cég tevékenységi köre(i) (TEÁOR számot nem kell feltüntetni.)
 
-## 4. Az egyéni cég működésének időtartama
+## 1. Főtevékenység (kitöltése kötelező)
 
-## Az egyéni cég időtartama:[^9.]
+## 2. További tevékenységi kör(ök) (Szükség esetén kitöltendő. Az első további tevékenységi kört 2.1. alpont sorszámozással kell feltüntetni. Több további tevékenységi kör esetén arab számokkal sorszámozva további alpontokkal bővíthető.)
 
-## a) határozatlan.
+## IV. Az egyéni cég működésének időtartama
 
-## b) határozott, -ig.
+## 1. Az egyéni cég (valamelyik pont kötelezően választandó):
 
-## 5.Az egyéni cég jegyzett tőkéje
+## a) határozatlan időre
 
-## 5.1.A társaság jegyzett tőkéje Ft[^10.]
+## b) határozott időre
 
-## Azaz forint amely
+## jön létre.
 
-## a) ....................................... Ft azaz ................................................................forint készpénzből áll,
+## 2. A tag az egyéni céget …-ig tartó határozott időre hozza létre (A IV. pont 1. alpont b) pont jelölése esetén a kitöltés kötelező dátum vagy a határidő más egyértelmű megadásával.)
 
-## amely a jegyzett tőke %-a
+## V. Az egyéni cég jegyzett tőkéje, a tag vagyoni betétjének összege, a jegyzett tőke rendelkezésre bocsátása
 
-## b)................................... Ft, azaz ..................................................................................... forint nem pénzbeli hozzájárulásból áll.
+## 1. Az egyéni cég jegyzett tőkéjének összege (Kitöltése kötelező. Az összeget számmal és betűvel, a pénznemet rövidítéssel kiírva kell megadni. Ha a jegyzett tőke a kettőszázezer forintot nem haladja meg, a jegyzett tőke csak pénzbeli vagyoni hozzájárulásból állhat.)
 
-## A pénzbeli és a nem pénzbeli hozzájárulást az alapításkor rendelkezésre kell bocsátani.
+## 2. Az egyéni cég jegyzett tőkéjének összetételét a tag az alábbiak szerint határozza meg: (A vagyoni hozzájárulás fajtájától függően kell kitölteni.)
 
-## 5.2. Osztalékelőleg fizetésére[^11.]
+## a) Pénzbeli vagyoni hozzájárulás összege (az összeg számmal és betűvel, a pénznem rövidítéssel megadva)
 
-## a) sor kerülhet.
+## b) Nem pénzbeli vagyoni hozzájárulás bemutatása (Nem pénzbeli vagyoni hozzájárulás esetén kötelezően kitöltendő. A jegyzett tőke csak akkor állhat nem pénzbeli hozzájárulásból is, ha a jegyzett tőke a kettőszázezer forintot meghaladja. Több nem pénzbeli vagyoni hozzájárulás esetén bővíthető arab számokkal sorszámozva, az első nem pénzbeli vagyoni hozzájárulást bemutató 1. alpontnak megfelelő pontok szerinti tagolással.)
 
-## b) nem kerülhet sor.
+## 1. Nem pénzbeli vagyoni hozzájárulás:
 
-## 6. Az ügyvezetés és képviselet
+## ba) megnevezése
 
-## 6.1.Az egyéni cég ügyvezetésére és képviseletére jogosult ügyvezető:
+## bb) értéke (az összeg számmal és betűvel, a pénznem rövidítéssel megadva)
 
-## Név:
+## 4. A tag köteles a pénzbeli vagyoni hozzájárulást és a nem pénzbeli vagyoni hozzájárulást a nyilvántartásba vételi kérelem benyújtásáig teljes egészében az egyéni cég rendelkezésére bocsátani.
 
-## Lakcím:
+## VI. A pótbefizetés
 
-## A megbízatás[^12.]
+## A pótbefizetés esetén annak feltételeit az egyedüli tag a határozatában állapítja meg.
 
-## a) határozott időre[^13.]
+## VII. A nyereség felosztása
 
-## b) határozatlan időre
+## 1. Az egyéni cég saját tőkéjéből a tag javára, annak tagsági jogviszonyára figyelemmel kifizetést az egyéni cég fennállása alatt kizárólag az előző üzleti évi adózott eredménnyel kiegészített szabad eredménytartalékból teljesíthet. Nem kerülhet sor kifizetésre, ha az egyéni cég helyesbített saját tőkéje nem éri el vagy a kifizetés következtében nem érné el az egyéni cég jegyzett tőkéjét, továbbá, ha a kifizetés veszélyeztetné az egyéni cég fizetőképességét.
 
-## szól.
-
-## A megbízatás kezdő időpontja:
-
-## A megbízatás lejárta:[^14.]
-
-## A vezető tisztségviselő a társaság ügyvezetését megbízási jogviszonyban / munkaviszonyban[^15.] látja el.
-
-## 7. Cégvezető
-
-## 7.1. A társaságnál cégvezető kinevezésére[^16.]
+## 2. Osztalékelőleg fizetésére (valamelyik pont jelölendő)
 
 ## a) sor kerülhet.
 
 ## b) nem kerülhet sor.
 
-## 7.2. Cégvezetőnek kinevezett munkavállaló(k)[^17:]
+## 3. Az ügyvezetés (A VII. pont 2. alpont a) pont jelölése esetén valamelyik pont jelölendő.)
 
-## Név:
+## a) – ha az egyéni cégnél felügyelőbizottság működik, a felügyelőbizottság jóváhagyása mellett – jogosult osztalékelőleg fizetéséről határozni.
 
-## Lakcím:
+## b) nem jogosult osztalékelőleg fizetéséről határozni.
 
-## Kinevezés kezdő időpontja:
+## VIII. Az alapítói határozat
 
-## 8. Cégjegyzés
+## 1. A legfőbb szerv hatáskörébe tartozó kérdésekben a tag írásban határoz és a döntés az ügyvezetéssel való közléssel válik hatályossá.
 
-## 8.1. Az önálló cégjegyzésre jogosultak:
+## 2. A legfőbb szerv hatáskörét a tag gyakorolja.
 
-## Név:
+## IX. Az ügyvezetés és képviselet
 
-## Név:
+## 1. Az egyéni cég ügyvezetését (valamelyik pont jelölendő)
 
-## 8.2. Az együttes cégjegyzési joggal rendelkezők[^18:]
+## a) az egyéni cégben fennálló tagsági jogviszony keretében a tag látja el.
 
-## a) Név:
+## b) vezető tisztségviselő látja el.
 
-## és
+## 2. Az egyéni cég ügyvezetésére jogosult tag (A IX. pont 1. alpont a) pont jelölése esetén kitöltendő, kivéve a d) pontot, amely kötelezően alkalmazandó.)
 
-## Név:
+## a) ügyvezetői megbízatása (valamelyik pont jelölendő)
 
-## együttesen jogosultak cégjegyzésre.
+## aa) határozott időre szól.
 
-## 9. Könyvvizsgáló[^19.]
+## ab) határozatlan időre szól.
 
-## A társaság könyvvizsgálója:
+## b) ügyvezetői megbízatásának kezdő időpontja (kitöltése kötelező)
 
-## Név:[^20.]
+## c) ügyvezetői megbízatásának lejárta (A IX. pont 2. alpont a) pont aa) alpontja jelölése esetén kitöltendő.)
 
-## Lakcím:
+## d) képviseleti joga önálló.
 
-## Kamarai nyilvántartási száma:
+## 3. Az egyéni cég ügyvezetésére jogosult ügyvezető: (A IX. pont 1. alpont b) pont választása esetén legalább egy személy adatainak a megadásával kitöltése kötelező. Az ügyvezető személyétől függően az a) vagy a b) pontot kell kitölteni. Több ügyvezető esetén bővíthető arab számokkal sorszámozva, a IX. pont 3.1. alpontnak megfelelő alpontok szerinti tagolással.)
 
-## Cégnév:[^21.]
+## 3.1. a) Természetes személy ügyvezető adatai:
 
-## Cégjegyzékszám:
+## aa) Név
 
-## Székhely:
+## ab) Lakcím
 
-## A könyvvizsgálat elvégzéséért személyében felelős természetes személy neve:
+## b) A nem természetes személy ügyvezető adatai:
 
-## Kamarai nyilvántartási száma:
+## ba) Elnevezés
 
-## Lakcím:
+## bb) Nyilvántartási szám (cég esetén cégjegyzékszám)
 
-## Helyettes könyvvizsgáló neve:
+## bc) Székhely
 
-## Lakcím:
+## bd) Képviseletére jogosult neve
 
-## A megbízatás kezdő időpontja:
+## be) Képviseletére jogosult lakcíme
 
-## A megbízatás lejárta:…………………………………………………………………………...
+## c) Az ügyvezetői megbízatás (valamelyik pont jelölendő)
 
-## 10. Az egyéni cég megszűnése
+## ca) határozott időre szól.
 
-## Az egyéni cég jogutód nélküli megszűnése esetében a hitelezők kielégítése után fennmaradó vagyon az alapítót illeti meg.
+## cb) határozatlan időre szól.
 
-## 11. Egyéb rendelkezések
+## d) A megbízatás kezdő időpontja (kitöltése kötelező)
 
-## A jelen alapító okiratban nem szabályozott kérdésekben az egyéni vállalkozóról és az egyéni cégről szóló törvény, az ott nem szabályozott vagyoni és személyi viszonyokra a Polgári Törvénykönyv rendelkezéseit kell alkalmazni.
+## e) A megbízatás lejárta (A IX. pont 3.1. alpont c) pont ca) alpont jelölése esetén kitöltendő)
 
-## Kelt: ..........................................................
+## f) Képviseleti joga (valamelyik jelölendő)
 
-## Az alapító aláírása: ...................................................
+## fa) önálló.
 
-## Név:
+## fb) együttes.
+
+## h) A vezető tisztségviselő az egyéni cég ügyvezetését (kitöltése nem kötelező, kitöltése esetén valamelyik pont jelölendő)
+
+## ha) megbízási jogviszonyban látja el.
+
+## hb) munkaviszonyban látja el.
+
+## X. Cégvezető
+
+## 1. Az egyéni cégnél cégvezető kinevezésére (valamelyik pont jelölendő)
+
+## a) sor kerülhet.
+
+## b) nem kerülhet sor.
+
+## 2. Cégvezetőnek kinevezett munkavállaló(k) adatai (a X. pont 1. alpont a) pont jelölése esetén kitöltendő, bővíthető arab számokkal sorszámozva, a 2.1. pontnak megfelelő alpontok szerinti tagolással.):
+
+## 2.1. Cégvezető
+
+## a) Név
+
+## b) Lakcím
+
+## c) Kinevezés kezdő időpontja
+
+## XI. Együttes képviselet
+
+## Az együttes képviseleti joggal rendelkezők: (Együttes képviseleti jogosultak esetén kitöltendő, több együttes képviselet esetén arab számokkal bővíthető a XI. pont 1. alpontnak megfelelő alpontok szerinti tagolással.)
+
+## 1.
+
+## a) Név (Elnevezés)
+
+## b) Név (Elnevezés) (további személlyel, személyekkel bővíthető a latin abc betűivel sorszámozott pontokkal)
+
+## együttesen jogosultak képviseletre.
+
+## XII. Felügyelőbizottság
+
+## 1. Az egyéni cégnél felügyelőbizottság választására (valamelyik jelölendő)
+
+## a) sor kerül.
+
+## b) nem kerül sor.
+
+## 2. Az egyéni cégnél nem ügydöntő felügyelőbizottság működik.
+
+## 3. A felügyelőbizottság tagjai (A XII. pont 1. alpont a) pont kitöltése esetén kitöltendő. Bővíthető arab számokkal sorszámozva, a XII. pont 3.1. alpontnak megfelelő alpontok szerinti tagolással. Ha az egyéni cégnél kötelező felügyelőbizottság létrehozása, háromnál kevesebb tag nem lehet):
+
+## 3.1. A felügyelőbizottsági tag adatai (A felügyelőbizottsági tag személyétől függően az a) vagy a b) pontot kell kitölteni):
+
+## a) Természetes személy felügyelőbizottsági tag(ok) adatai:
+
+## aa) Név
+
+## ab) Lakcím
+
+## b) A nem természetes személy felügyelőbizottsági tag(ok) adatai:
+
+## ba) Elnevezés
+
+## bb) Nyilvántartási szám (cég esetén cégjegyzékszám)
+
+## bc) Székhely
+
+## bd) Képviseletére jogosult neve
+
+## be) Képviseletére jogosult lakcíme
+
+## c) A felügyelőbizottsági megbízatás (valamelyik pont jelölendő)
+
+## ca) határozott időre szól.
+
+## cb) határozatlan időre szól.
+
+## d) A megbízatás kezdő időpontja (kitöltési kötelező)
+
+## e) A megbízatás lejárta (A XII. pont 3.1. alpont c) pont ca) alpont jelölése esetén kitöltendő)
+
+## XIII. Könyvvizsgáló (Kitöltése csak akkor kötelező, ha az egyéni cégnél könyvvizsgáló megbízására kerül sor.)
+
+## Az egyéni cég könyvvizsgálója:
+
+## a) Természetes személy könyvvizsgáló adatai: (Természetes személy könyvvizsgáló esetén kell kitölteni)
+
+## aa) Név
+
+## ab) Lakcím
+
+## ac) Kamarai nyilvántartási száma
+
+## b) Könyvvizsgáló szervezet adatai: (Könyvvizsgáló szervezet esetén kell kitölteni)
+
+## aa) Elnevezés
+
+## ab) Cég esetén cégjegyzékszám
+
+## ac) Székhely
+
+## ad) A könyvvizsgálat elvégzéséért személyében felelős természetes személy neve
+
+## ae) A könyvvizsgálat elvégzéséért személyében felelős természetes személy lakcíme
+
+## be) A könyvvizsgálat elvégzéséért személyében felelős természetes személy kamarai nyilvántartási száma
+
+## c) A megbízatás kezdő időpontja
+
+## d) A megbízatás megszűnésének időpontja
+
+## XIV. Az egyéni cég megszűnése
+
+## Az egyéni cég jogutód nélküli megszűnése esetében a hitelezők kielégítése után fennmaradó vagyon a tagot illeti meg.
+
+## XV. Egyéb rendelkezések
+
+## 1. Az egyéni cég kötelezettségeiért elsősorban az egyéni cég felel vagyonával. Ha az egyéni cég vagyona a követelést nem fedezi, a tag saját vagyonával korlátlanul felel.
+
+## 2. A jelen alapító okiratban nem szabályozott kérdésekben az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény, az ott nem szabályozott vagyoni és személyi viszonyokban a Polgári Törvénykönyvről szóló 2013. évi V. törvény rendelkezéseit kell alkalmazni.
+
+## Kelt: (Keltezés a hely és dátum megadásával.)
+
+## (A tag aláírása.)
+
+## Név
 
 ## Okirati ellenjegyzés/közjegyzői okirat elemei
 
-11. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^89]
+11. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^90]
 
-[^1.]: Az alapító okiratszövege csak ott és annyiban bővíthető vagy változtatható, amennyiben a minta azt kifejezetten megengedi. A szükség szerinti kitöltendő szövegrészek abban az esetben is a szerződésminta részét képezik, amennyiben ezen részek kitöltésére az adott cég esetében nem volt szükség.
-[^2.]: Szükség esetén kitöltendő.
-[^3.]: Szükség esetén kitöltendő.
-[^4.]: Aláhúzással jelölendő.
-[^5:]: Amennyiben a központi ügyintézés helye nem azonos a székhellyel, a központi ügyintézés helyének megjelölése kötelező.
-[^6.]: Szükség esetén kitöltendő, bővíthető.
-[^7.]: A statisztikai nómenklatúrát a tevékenységi kör(ök) vonatkozásában nem kell feltüntetni
-[^9.]: Aláhúzással jelölendő.
-[^10.]: Kettőszázezer forintig a jegyzett tőke csak pénzbeli hozzájárulás lehet. (Evec tv. 26. § (2) bek.)
-[^11.]: Aláhúzással jelölendő.
-[^12.]: Aláhúzással jelölendő.
-[^13.]: Legfeljebb 5 évre (Ptk. 3:114. §)
-[^14.]: Az a) pont választása esetén kitöltendő.
-[^15.]: Aláhúzással jelölendő. Kitöltése nem kötelező.
-[^16.]: Aláhúzással jelölendő.
-[^17:]: Kizárólag a 7.1.a) pont választása esetén tölthető ki, bővíthető.
-[^18:]: Szükség esetén kitöltendő, bővíthető.
-[^19.]: A Ptk. 3:38. § és 3:129-131 § esetén.
-[^20.]: Természetes személy esetén kell kitölteni.
-[^21.]: Szervezet esetén kell kitölteni.
-[^89]: A 11. számú mellékletet a 39/2015. (XII. 21.) IM rendelet 1. § (9) bekezdése iktatta be, szövege a 11/2023. (VII. 20.) IM rendelet 2. § (3) bekezdésével megállapított, a 19/2023. (XII. 12.) IM rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^90]: A 11. számú mellékletet a 39/2015. (XII. 21.) IM rendelet 1. § (9) bekezdése iktatta be, szövege a 9/2024. (VI. 28.) IM rendelet 1. § (3) bekezdésével megállapított szöveg.

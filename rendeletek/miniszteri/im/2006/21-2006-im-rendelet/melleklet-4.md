@@ -4,6 +4,6 @@
 
 ## 8M24949
 
-4. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^82]
+4. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^83]
 
-[^82]: A 4. számú mellékletet a 12/2014. (II. 28.) KIM rendelet 5. § (8) bekezdés a) pontja iktatta be, szövege a 11/2023. (VII. 20.) IM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^83]: A 4. számú mellékletet a 12/2014. (II. 28.) KIM rendelet 5. § (8) bekezdés a) pontja iktatta be, szövege a 9/2024. (VI. 28.) IM rendelet 1. § (1) bekezdésével megállapított szöveg.

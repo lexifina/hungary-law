@@ -1,6 +1,6 @@
 ## 8K09100.pdf
 
-19. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^97]
+19. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^98]
 
 Az ingatlan-nyilvántartásba bejegyzett jog vagy tény keletkezését, változását vagy megszűnését érintő kérelem melléklete
 
@@ -60,4 +60,4 @@ III. Minden esetben kötelező: A jogi képviselő vagy jogi képviselő nélkü
 
 3. nem áll fenn harmadik személy joga, ami a fentiekben megjelölt ingatlanra vonatkozó jogváltozásnak akadálya, illetőleg ilyen ingatlanon fennálló, harmadik személyt megillető jog esetében a harmadik személy jogosult a szükséges nyilatkozatot megadta és azt tartalmazó okirat(ok) csatolásra került(ek) jelen adatlap mellékleteként.
 
-[^97]: A 19. mellékletet a 27/2024. (XII. 30.) IM rendelet 2. §-a iktatta be.
+[^98]: A 19. mellékletet a 27/2024. (XII. 30.) IM rendelet 2. §-a iktatta be.

@@ -2130,6 +2130,6 @@
 
 ## g) Törölve (szükség szerint jelölendő, ha cégjegyzékből a rovat tartalmát törölni kérik)
 
-2. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^80]
+2. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^81]
 
-[^80]: A 2. számú melléklet az 1/2006. (VI. 26.) IRM rendelet 15. § (7) bekezdése, a 12/2020. (VIII. 4.) IM rendelet 2. §-a, a 38/2022. (XII. 27.) IM rendelet 5. § b) pontja szerint módosított szöveg.
+[^81]: A 2. számú melléklet az 1/2006. (VI. 26.) IRM rendelet 15. § (7) bekezdése, a 12/2020. (VIII. 4.) IM rendelet 2. §-a, a 38/2022. (XII. 27.) IM rendelet 5. § b) pontja szerint módosított szöveg.

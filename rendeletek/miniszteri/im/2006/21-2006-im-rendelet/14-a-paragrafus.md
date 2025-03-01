@@ -1,4 +1,4 @@
-14/A. §[^53] (1) A céginformációs szolgálat a Ctv. 38/A. § (1) bekezdésében foglalt adatellenőrzés során a cégbejegyzési és változásbejegyzési kérelemben – az informatikai ellenőrzéssel egyidejűleg – az alábbi adatok ellenőrzését végzi el:
+14/A. §[^54] (1) A céginformációs szolgálat a Ctv. 38/A. § (1) bekezdésében foglalt adatellenőrzés során a cégbejegyzési és változásbejegyzési kérelemben – az informatikai ellenőrzéssel egyidejűleg – az alábbi adatok ellenőrzését végzi el:
 
 a) székhely, telephely, fióktelep (e § alkalmazásában a továbbiakban együtt: székhely),
 
@@ -30,7 +30,7 @@ g) a cégjegyzékbe bejegyzendő külföldi székhellyel vagy lakóhellyel rende
 
 h) a cég bejegyzendő főtevékenységének és további tevékenységi körének (köreinek) a gazdasági tevékenységek egységes ágazati osztályozási rendszeréről (TEÁOR) szóló tájékoztatóban foglaltak megjelölésének megfelelőségét,
 
-i)[^54] az adózás rendjéről szóló 2017. évi CL. törvény 16. §-a szerinti nyilatkozat kitöltésének konzisztenciáját,
+i)[^55] az adózás rendjéről szóló 2017. évi CL. törvény 16. §-a szerinti nyilatkozat kitöltésének konzisztenciáját,
 
 j) a nyomtatványban feltüntetett jegyzett tőke pénznemének az ISO 4217 szabványnak való megfelelőségét,
 
@@ -44,5 +44,5 @@ m) a nyomtatványban megadott EUID-nak az ISO 6523 szabványnak, illetve a Bizot
 
 (4) A céginformációs szolgálat a (2) bekezdés szerinti ellenőrzési szempontokat, valamint az ellenőrzés alapjául szolgáló adatbázisok vagy algoritmusok elérhetőségét a honlapján közzéteszi. Az adatbázisok vagy algoritmusok változásáról az azt megállapító szervezet haladéktalanul értesíti a céginformációs szolgálatot.
 
-[^53]: A 14/A. §-t a 33/2012. (VII. 13.) KIM rendelet 1. §-a iktatta be, szövege a 24/2018. (VIII. 31.) IM rendelet 3. §-ával megállapított szöveg.
-[^54]: A 14/A. § (2) bekezdés i) pontja a 30/2022. (XII. 22.) IM rendelet 1. §-ával megállapított szöveg.
+[^54]: A 14/A. §-t a 33/2012. (VII. 13.) KIM rendelet 1. §-a iktatta be, szövege a 24/2018. (VIII. 31.) IM rendelet 3. §-ával megállapított szöveg.
+[^55]: A 14/A. § (2) bekezdés i) pontja a 30/2022. (XII. 22.) IM rendelet 1. §-ával megállapított szöveg.
