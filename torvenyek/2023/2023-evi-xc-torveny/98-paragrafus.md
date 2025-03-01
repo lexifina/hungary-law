@@ -12,7 +12,7 @@ d) akinek a beutazása és tartózkodása a nemzetbiztonságot, a közbiztonság
 
 e) akinek a beutazása és tartózkodása a közegészséget sérti vagy veszélyezteti.
 
-(2) Az (1) bekezdés d) pontja szerinti ok fennállása esetén a harmadik országbeli állampolgárral szemben az idegenrendészeti kiutasítás elrendelését törvényben meghatározott érdek védelmével kapcsolatos feladata ellátása céljából, saját feladatkörében, a kormányrendeletben meghatározott rendvédelmi szerv is kezdeményezheti, amely során a beutazási és tartózkodási tilalom időtartamára javaslatot tesz. A javaslatban foglaltaktól az idegenrendészeti hatóság nem térhet el.
+(2) Az (1) bekezdés d) pontja szerinti ok fennállása esetén a harmadik országbeli állampolgárral szemben az idegenrendészeti kiutasítás elrendelését törvényben meghatározott érdek védelmével kapcsolatos feladata ellátása céljából, saját feladatkörében, a kormányrendeletben meghatározott rendvédelmi szerv vagy nemzetbiztonsági szolgálat is kezdeményezheti, amely során a beutazási és tartózkodási tilalom időtartamára javaslatot tesz. A javaslatban foglaltaktól az idegenrendészeti hatóság nem térhet el.
 
 (3) A harmadik országbeli állampolgár magyarországi tartózkodásra való jogosultságának megszűnése esetén a kiutasításról a tartózkodási engedély kérelmet elutasító vagy a tartózkodásra jogosító okmányt visszavonó határozatban kell rendelkezni. A harmadik országbeli állampolgár a kiutasítással szemben jogorvoslattal a tartózkodási engedély kérelmet elutasító vagy a tartózkodásra jogosító okmányt visszavonó határozattal szembeni jogorvoslat során élhet.
 

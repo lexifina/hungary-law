@@ -40,7 +40,7 @@
 
 17. a harmadik országbeli állampolgárok úti okmánnyal történő ellátásának részletes szabályait;
 
-18. az önálló beutazási és tartózkodási tilalom kezdeményezésére, valamint az önálló beutazási és tartózkodási tilalom időtartama tekintetében javaslattételre jogosult rendvédelmi szerveket;
+18. az önálló beutazási és tartózkodási tilalom kezdeményezésére, valamint az önálló beutazási és tartózkodási tilalom időtartama tekintetében javaslattételre jogosult rendvédelmi szerveket és nemzetbiztonsági szolgálatokat;
 
 19. az összevont engedély adattartalmát és kiállításának feltételeit, valamint az összevont kérelmezési eljárás szabályait;
 

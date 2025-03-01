@@ -8,6 +8,6 @@
 
 (4) Magyarország gazdasági, tudományos, kulturális és sport érdekének fennállása tekintetében az idegenrendészetért és menekültügyért felelős miniszter kormányhatározatban kijelölt testület véleményét kéri ki. A testület véleménye az idegenrendészetért és menekültügyért felelős minisztert nem köti.
 
-(4a) Az idegenrendészetért és menekültügyért felelős miniszter – a tekintetben, hogy a harmadik országbeli állampolgár beutazása vagy tartózkodása veszélyezteti-e Magyarország közrendjét, közbiztonságát vagy nemzetbiztonságát – a Kormány rendeletében kijelölt rendvédelmi és nemzetbiztonsági szervek állásfoglalását kéri.
+(4a) Az idegenrendészetért és menekültügyért felelős miniszter – a tekintetben, hogy a harmadik országbeli állampolgár beutazása vagy tartózkodása veszélyezteti-e Magyarország közrendjét, közbiztonságát vagy nemzetbiztonságát – a Kormány rendeletében kijelölt rendvédelmi szervek és nemzetbiztonsági szolgálatok állásfoglalását kéri.
 
 (5) Az idegenrendészetért és menekültügyért felelős miniszter nemzeti érdekből kiállított nemzeti tartózkodási kártyával kapcsolatos döntésével szemben jogorvoslatnak nincs helye.

@@ -10,7 +10,7 @@ c) törvényben foglaltak alapján azt a harmadik országbeli állampolgárt, ak
 
 d) azt a harmadik országbeli állampolgárt, aki Magyarország területén született és azt követően a magyar jog szerint érte felelős személy felügyelete nélkül maradt, illetve a kísérő nélküli kiskorút;
 
-e) jelentős bűnüldözési vagy nemzetbiztonsági érdekből a bíróság, az ügyészség, illetve a rendvédelmi és nemzetbiztonsági szerv, továbbá a Nemzeti Adó- és Vámhivatal nyomozó hatósága indítványára azt a harmadik országbeli állampolgárt, illetve rá tekintettel más harmadik országbeli állampolgárt, aki bűncselekmény felderítése érdekében a hatóságokkal – a bizonyítást jelentősen elősegítő módon –együttműködik;
+e) jelentős bűnüldözési vagy nemzetbiztonsági érdekből a bíróság, az ügyészség, a rendvédelmi szerv, a nemzetbiztonsági szolgálat, továbbá a Nemzeti Adó- és Vámhivatal nyomozó hatósága indítványára azt a harmadik országbeli állampolgárt, illetve rá tekintettel más harmadik országbeli állampolgárt, aki bűncselekmény felderítése érdekében a hatóságokkal – a bizonyítást jelentősen elősegítő módon –együttműködik;
 
 f) a bíróság indítványára azt a harmadik országbeli állampolgárt, akit különösen kizsákmányoló foglalkoztatási feltételek mellett, illetve azt a kiskorú, harmadik országbeli állampolgárt, akit érvényes tartózkodási engedély vagy más, tartózkodásra jogosító engedély nélkül foglalkoztattak.
 

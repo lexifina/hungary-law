@@ -22,7 +22,7 @@ j) törvényben meghatározott esetben az adóhatóságtól,
 
 k) a szociális igazgatásról és szociális ellátásokról szóló törvényben meghatározott juttatások vonatkozásában a szociális igazgatásról és szociális ellátásokról szóló törvényben meghatározott adatkezelő szervtől,
 
-l) Magyarország rendvédelmi és nemzetbiztonsági szerveitől,
+l) Magyarország rendvédelmi szerveitől és nemzetbiztonsági szolgálataitól,
 
 m) az állampolgársági ügyekben eljáró szervtől,
 

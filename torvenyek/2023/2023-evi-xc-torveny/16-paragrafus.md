@@ -20,7 +20,7 @@ a) a Magyar Nemzeti Bank által nyilvántartásba vett ingatlanalap által kiboc
 
 b) legalább 1 000 000 euró értékben, oktatási, tudományos kutatási, művészeti alkotótevékenység támogatása céljából pénzbeli adomány nyújtása valamely közfeladatot ellátó közérdekű vagyonkezelő alapítvány által fenntartott felsőoktatási intézmény részére.
 
-(4) Az idegenrendészeti hatóság a vendégbefektetői vízum iránti kérelemről Magyarország közrendje, közbiztonsága, nemzetbiztonsága védelme érdekében Magyarország rendvédelmi- és nemzetbiztonsági szerveinek véleményét kéri.
+(4) Az idegenrendészeti hatóság a vendégbefektetői vízum iránti kérelemről Magyarország közrendje, közbiztonsága, nemzetbiztonsága védelme érdekében Magyarország rendvédelmi szerveinek és nemzetbiztonsági szolgálatainak véleményét kéri.
 
 (5) A vendégbefektetői vízum érvényességi ideje hat hónap. Ha az úti okmány érvényességi ideje rövidebb mint 6 hónap, akkor az engedélyezett tartózkodás időtartamát úgy kell megállapítani, hogy a harmadik országbeli állampolgár úti okmánya az engedélyezett tartózkodás lejártakor még legalább 30 napig érvényes legyen.
 

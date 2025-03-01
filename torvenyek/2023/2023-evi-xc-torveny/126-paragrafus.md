@@ -16,6 +16,6 @@ b) az elrendelést követően az érintett egészségügyi vagy életkörülmén
 
 a) a kiutasított a kiutasítás elrendelését követően a magyar hatóságok döntése alapján befogadottként vagy menekültként került elismerésre, illetve ideiglenes vagy kiegészítő védelemben részesült, vagy
 
-b) a nemzetbiztonsági, közrendi, vagy közbiztonsági veszély a kormányrendeletben meghatározott rendvédelmi szerv tájékoztatása szerint már nem áll fenn.
+b) a nemzetbiztonsági, közrendi, vagy közbiztonsági veszély a kormányrendeletben meghatározott rendvédelmi szerv vagy nemzetbiztonsági szolgálat tájékoztatása szerint már nem áll fenn.
 
 (4) Az (1) és (2) bekezdés alapján hozott döntéssel szemben fellebbezésnek nincs helye.

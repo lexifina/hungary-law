@@ -20,7 +20,7 @@ f) aki az uniós vámjog végrehajtásáról szóló törvény szerinti, jogerő
 
 a) saját hatáskörben eljárva, vagy
 
-b) a törvényben meghatározott érdek védelmével kapcsolatos feladata ellátása céljából, saját feladatkörében, kormányrendeletben meghatározott rendvédelmi szerv beutazási és tartózkodási tilalom időtartamára is vonatkozó – e tekintetben az idegenrendészeti hatóságot kötő – javaslata alapján
+b) a törvényben meghatározott érdek védelmével kapcsolatos feladata ellátása céljából, saját feladatkörében, kormányrendeletben meghatározott rendvédelmi szerv vagy nemzetbiztonsági szolgálat beutazási és tartózkodási tilalom időtartamára is vonatkozó – e tekintetben az idegenrendészeti hatóságot kötő – javaslata alapján
 
 rendeli el.
 
