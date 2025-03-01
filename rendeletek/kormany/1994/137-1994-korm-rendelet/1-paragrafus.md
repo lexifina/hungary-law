@@ -1,8 +1,6 @@
 ## Általános szabályok
 
-## 1. §
-
-(1) A rendőrség az egyes személyes javaknak — az Rtv. 26. §-ának (1) bekezdésében meghatározott célból foganatosított — rendőri intézkedés eszközéül történő igénybevétele, továbbá az igénybe vett eszköz visszaadása és az igénybevétel folytán károsult kártalanítása során az e rendeletben foglaltak szerint jár el [Rtv. 26. § (3) bek.].
+1. § (1) A rendőrség az egyes személyes javaknak — az Rtv. 26. §-ának (1) bekezdésében meghatározott célból foganatosított — rendőri intézkedés eszközéül történő igénybevétele, továbbá az igénybe vett eszköz visszaadása és az igénybevétel folytán károsult kártalanítása során az e rendeletben foglaltak szerint jár el [Rtv. 26. § (3) bek.].
 
 (2) E rendelet alkalmazásában
 

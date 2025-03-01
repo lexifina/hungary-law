@@ -1,6 +1,4 @@
-## 4. §
-
-(1) Ha az igénybe vett eszköz használata során a birtokostól elkerül, az igénybevétellel egyidejűleg a birtokos részére az eszköz elvitelét igazoló elismervényt kell kiállítani. Az elismervénynek tartalmaznia kell
+4. § (1) Ha az igénybe vett eszköz használata során a birtokostól elkerül, az igénybevétellel egyidejűleg a birtokos részére az eszköz elvitelét igazoló elismervényt kell kiállítani. Az elismervénynek tartalmaznia kell
 
 a) a birtokos nevét, az igénybe vett eszköz megnevezését;
 

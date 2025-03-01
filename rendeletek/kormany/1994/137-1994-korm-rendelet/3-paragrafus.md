@@ -1,6 +1,4 @@
-## 3. §
-
-(1) Ha a birtokos a rendőr felkérésére a birtokában lévő eszköz átengedését a 2. § (2) bekezdésében meghatározott ok hiányában tagadja meg, az intézkedő rendőr az eszköz rendőrségi használatának biztosítása érdekében — a (2) bekezdésben foglalt kivétellel — kényszerítő eszközt alkalmazhat.
+3. § (1) Ha a birtokos a rendőr felkérésére a birtokában lévő eszköz átengedését a 2. § (2) bekezdésében meghatározott ok hiányában tagadja meg, az intézkedő rendőr az eszköz rendőrségi használatának biztosítása érdekében — a (2) bekezdésben foglalt kivétellel — kényszerítő eszközt alkalmazhat.
 
 (2) Nem alkalmazható kényszerítő eszköz a következő személyekkel és szervezetekkel szemben:
 
@@ -8,6 +6,6 @@ a) külön jogszabályban meghatározott védett személy, valamint az állam m�
 
 b) nem magyar állampolgár;
 
-c)[^2] a Magyar Honvédség és a rendvédelmi szervek, továbbá a sürgős orvosi ellátásban közreműködő szervezetek, illetve ezek szolgálatban lévő tagja, valamint a Nemzeti Adó- és Vámhivatal vámhatósági és nyomozóhatósági szervei, illetve a Nemzeti Adó- és Vámhivatal szolgálatban lévő, pénzügyőri munkakört betöltő foglalkoztatottja.
+c)[^2] a Magyar Honvédség, a polgári nemzetbiztonsági szolgálatok és a rendvédelmi szervek, továbbá a sürgős orvosi ellátásban közreműködő szervezetek, illetve ezek szolgálatban lévő tagja, valamint a Nemzeti Adó- és Vámhivatal vámhatósági és nyomozóhatósági szervei, illetve a Nemzeti Adó- és Vámhivatal szolgálatban lévő, pénzügyőri munkakört betöltő foglalkoztatottja.
 
-[^2]: A 3. § (2) bekezdés c) pontja a 273/2010. (XII. 9.) Korm. rendelet 74. §-ával megállapított, a 671/2020. (XII. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^2]: A 3. § (2) bekezdés c) pontja a 273/2010. (XII. 9.) Korm. rendelet 74. §-ával megállapított, a 671/2020. (XII. 28.) Korm. rendelet 2. §-a, a 24/2025. (II. 27.) Korm. rendelet 2. §-a szerint módosított szöveg.

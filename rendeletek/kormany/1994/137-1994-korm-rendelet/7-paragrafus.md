@@ -1,8 +1,6 @@
 ## A visszaadás
 
-## 7. §
-
-(1) Ha az igénybevétel oka vagy az eszköz további használatának lehetősége megszűnt, az igénybe vett eszközt az intézkedés befejezte után a birtokosnak haladéktalanul vissza kell adni. A visszaadás helye:
+7. § (1) Ha az igénybevétel oka vagy az eszköz további használatának lehetősége megszűnt, az igénybe vett eszközt az intézkedés befejezte után a birtokosnak haladéktalanul vissza kell adni. A visszaadás helye:
 
 a) magánlakás [Rtv. 97. § (1) bek. c) pont] vagy közterületnek nem minősülő egyéb helyen (Rtv. 40. §) történt igénybevétel esetén az igénybevétel helye;
 

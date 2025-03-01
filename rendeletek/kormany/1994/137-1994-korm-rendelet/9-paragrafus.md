@@ -1,8 +1,6 @@
 ## Őrzés, értékesítés
 
-## 9. §
-
-(1) A birtokos által vissza nem vett eszköz megfelelő őrzéséről és tárolásáról — a rendőrség költségén — az igénybevételt foganatosító rendőri szerv gondoskodik.
+9. § (1) A birtokos által vissza nem vett eszköz megfelelő őrzéséről és tárolásáról — a rendőrség költségén — az igénybevételt foganatosító rendőri szerv gondoskodik.
 
 (2) A rendőrség az őrzés elrendelésétől számított kilencven nap eltelte után az eszközt értékesítheti, ha az őrzés, tárolás költsége aránytalanul magas, egy év elteltével azonban az eszköz e feltétel hiányában is értékesíthető. Az értékesítés időpontjáról a birtokost nyolc nappal előbb írásban értesíteni kell.
 

@@ -1,8 +1,6 @@
 ## Az igénybevétel
 
-## 2. §
-
-(1) Az eszköz igénybevétele céljából a birtokost — az Rtv.-re történő hivatkozással — fel kell kérni arra, hogy a birtokában lévő eszközt a rendőri intézkedés elősegítése céljából, a rendőrség használatába haladéktalanul engedje át.
+2. § (1) Az eszköz igénybevétele céljából a birtokost — az Rtv.-re történő hivatkozással — fel kell kérni arra, hogy a birtokában lévő eszközt a rendőri intézkedés elősegítése céljából, a rendőrség használatába haladéktalanul engedje át.
 
 (2) A felkéréssel egyidejűleg a birtokost tájékoztatni kell arról, hogy
 

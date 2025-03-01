@@ -1,6 +1,4 @@
-## 8. §
-
-(1) Az eszköz igénybevételt követő visszaadásáról jegyzőkönyvet kell felvenni. A jegyzőkönyvnek tartalmaznia kell
+8. § (1) Az eszköz igénybevételt követő visszaadásáról jegyzőkönyvet kell felvenni. A jegyzőkönyvnek tartalmaznia kell
 
 a) az intézkedést elrendelő rendőri szerv megnevezését és székhelyét, továbbá az eljáró rendőr nevét, rendfokozatát;
 

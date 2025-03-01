@@ -1,8 +1,6 @@
 ## Jogorvoslatok
 
-## 12. §
-
-(1) A rendőri intézkedésekkel szembeni panasznak (Rtv. 93. §) van helye
+12. § (1) A rendőri intézkedésekkel szembeni panasznak (Rtv. 93. §) van helye
 
 a) az igénybevétel ellen;
 

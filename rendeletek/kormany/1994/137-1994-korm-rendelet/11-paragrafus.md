@@ -1,6 +1,4 @@
-## 11. §
-
-(1) A rendőrség a jegyzőkönyv felvételét követően haladéktalanul intézkedik
+11. § (1) A rendőrség a jegyzőkönyv felvételét követően haladéktalanul intézkedik
 
 a) a birtokos vagyontárgyaiban keletkezett kár nagyságának szakértő útján történő megállapításáról;
 
