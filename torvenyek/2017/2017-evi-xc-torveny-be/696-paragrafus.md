@@ -12,7 +12,7 @@ esetén.
 
 (2) A katonai büntetőeljárás hatálya kiterjed a terhelt által elkövetett valamennyi bűncselekményre, ha ezek közül valamelyik miatt katonai büntetőeljárásnak van helye, és az elkülönítés nem lehetséges.
 
-(3) Több terhelt esetében akkor van helye katonai büntetőeljárásnak, ha a terheltek valamelyikének bűncselekménye katonai büntetőeljárásra tartozik, és az eljárás elkülönítése – tekintettel a tényállás szoros összefüggésére – nem lehetséges. Ez a rendelkezés az orgazdára és a bűnpártolóra is kiterjed.
+(3) Több terhelt esetében akkor van helye katonai büntetőeljárásnak, ha a terheltek valamelyikének bűncselekménye katonai büntetőeljárásra tartozik, és az eljárás elkülönítése – tekintettel a tényállás szoros összefüggésére – nem lehetséges. Ez a rendelkezés kiterjed a bűnpártolóra, valamint a Btk. 399. § (3) és (4) bekezdésében és ezek Btk. 399. § (5)–(8) bekezdésében meghatározott minősített eseteiben, illetve a Btk. 400. § (1) és (2) bekezdésében meghatározott bűncselekmény elkövetőjére is.
 
 (4) Több terhelt esetén a bíróság a fiatalkorú ügyét a katona ügyével együtt a katonai büntetőeljárásban bírálja el, ha az a katona ügyével összefügg. Ebben az esetben a fiatalkorú terhelt tekintetében megfelelően alkalmazni kell a fiatalkorú elleni büntetőeljárásra vonatkozó rendelkezéseket.
 

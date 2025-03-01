@@ -8,9 +8,11 @@
 
 a) elkobozható vagy lefoglalt dolog tulajdonosa, vagy arra nézve a tulajdonjog valamely tulajdonosi részjogosítványával rendelkezik,
 
-b) olyan vagyonnal rendelkezni jogosult, amelyre vagyonelkobzás rendelhető el, vagy
+b) olyan vagyonnal rendelkezni jogosult, amelyre vagyonelkobzás rendelhető el,
 
-c) olyan elektronikus adattal rendelkezésre jogosult, amelynek végleges hozzáférhetetlenné tétele rendelhető el.
+c) olyan elektronikus adattal rendelkezésre jogosult, amelynek végleges hozzáférhetetlenné tétele rendelhető el, vagy.
+
+d) olyan tárhelyszolgáltatás jogosultja, amelynek a felfüggesztését rendelték el.
 
 (2) A vagyoni érdekelt jogosult arra, hogy
 

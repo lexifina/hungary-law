@@ -27,3 +27,7 @@
 12. a szervezett bűnözés elleni küzdelemről szóló, 2008. október 24-i 2008/841/IB tanácsi kerethatározatnak,
 
 13. a kölcsönös elismerés elvének büntetőügyekben hozott, szabadságvesztés büntetéseket kiszabó vagy szabadságelvonással járó intézkedéseket alkalmazó ítéleteknek az Európai Unióban való végrehajtása céljából történő alkalmazásáról szóló, 2008. november 27-i 2008/909/IB tanácsi kerethatározatnak,
+
+14. a kölcsönös elismerés elvének az ítéletekre és próbaidőt megállapító határozatokra való, a próbaidő alatti magatartási szabályok és alternatív szankciók felügyelete céljából történő alkalmazásáról szóló, 2008. november 27-i 2008/947/IB tanácsi kerethatározatnak,
+
+15. a rasszizmus és az idegengyűlölet egyes formái és megnyilvánulásai elleni, büntetőjogi eszközökkel történő küzdelemről szóló, 2008. november 28-i 2008/913/IB tanácsi kerethatározatnak,

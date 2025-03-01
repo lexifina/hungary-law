@@ -24,6 +24,8 @@ b) a motozás,
 
 c) a lefoglalás,
 
-d) a zár alá vétel és
+d) a zár alá vétel
 
-e) az elektronikus adat ideiglenes hozzáférhetetlenné tétele.
+e) az elektronikus adat ideiglenes hozzáférhetetlenné tétele és.
+
+f) tárhelyszolgáltatás felfüggesztése.

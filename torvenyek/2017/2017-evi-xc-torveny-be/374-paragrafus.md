@@ -28,6 +28,8 @@ f) ha az ügyészség, illetve a felettes ügyészség elutasította a gyanúsí
 
 g) a 402. § (3) és (4) bekezdése szerint az eljárást megszüntető határozatnak a 402. § (2) bekezdése alapján hozott rendelkezése ellen.
 
+h) az ügyészségnek vagy a nyomozó hatóságnak a tárhelyszolgáltatás felfüggesztéséről hozott rendelkezése ellen.
+
 (2) A felülbírálati indítványt az (1) bekezdés szerinti határozat kézbesítésétől számított nyolc napon belül, a bíróságnál kell előterjeszteni. A felülbírálati indítványban meg kell jelölni azt a határozatot, amely ellen a felülbírálati indítvány irányul, továbbá az indítvány előterjesztésének okát és célját.
 
 (2a) Ha az (1) bekezdés a)–d) pontja szerinti határozat elleni felülbírálati indítványt az ügyészségnél vagy a nyomozó hatóságnál terjesztik elő, és az indítvány alapos, a nyomozó hatóság által hozott határozat esetén az ügyészség, az ügyészség által hozott határozat esetén a felettes ügyészség a határozatot hatályon kívül helyezi vagy megváltoztatja. Ha az ügyészség vagy a felettes ügyészség a felülbírálati indítványt nem tartja alaposnak, az indítványt és az ügyiratokat megküldi a bíróságnak.

@@ -12,4 +12,6 @@ c) a kirendelt védő, a törvényes képviselő és a meghatalmazott képvisel�
 
 d) tolmácsolási feladatokat ellátó segítő díja és költsége, ha azt az állam közigazgatási eljárásban előlegezte.
 
+e) a szabálysértési eljárásban felmerült költség, ha az eljárás tárgyát képező bűncselekménnyel azonos cselekmény miatt a büntetőeljárást megelőzően szabálysértési eljárás volt folyamatban.
+
 (2) Az (1) bekezdés a) pontja szerinti bűnügyi költség különösen a tanú költsége, a szakértő, és a szaktanácsadó munkadíja és költsége, illetve a lefoglalt dolog szállításának és megőrzésének költsége.

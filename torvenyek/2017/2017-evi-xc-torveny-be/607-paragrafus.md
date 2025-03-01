@@ -6,6 +6,6 @@ a) az 567. § (1) és (2) bekezdésében meghatározott esetekben az eljárást 
 
 b) az eljárást nem ügydöntő végzéssel megszünteti, ha az elsőfokú bíróság a vádban le nem írt cselekmény alapján a vádlott bűnösségét állapította meg, felmentette, vagy vele szemben az eljárást megszüntette.
 
-(2) Ha a másodfokú bíróság az eljárást azért szünteti meg, mert a vádlott büntethetősége megszűnt, az elsőfokú bíróság ítéletének az elkobzásra, a vagyonelkobzásra, az elektronikus adat végleges hozzáférhetetlenné tételére és a polgári jogi igény megállapítására vonatkozó rendelkezését hatályban tartja, ha ezekre nézve nem jelentettek be fellebbezést.
+(2) Ha a másodfokú bíróság az eljárást azért szünteti meg, mert a vádlott büntethetősége megszűnt, az elsőfokú bíróság ítéletének az elkobzásra, a vagyonelkobzásra, az elektronikus adat végleges hozzáférhetetlenné tételére, a tárhelyszolgáltatás megszüntetésére és a polgári jogi igény megállapítására vonatkozó rendelkezését hatályban tartja, ha ezekre nézve nem jelentettek be fellebbezést.
 
 (3) Ha az elsőfokú bíróság ítélete több bűncselekményről rendelkezett, a másodfokú bíróság az elsőfokú bíróság ítéletének csak azon bűncselekményre vonatkozó rendelkezéséről határoz az (1) bekezdés szerint, amelyet a hatályon kívül helyezés oka érint.

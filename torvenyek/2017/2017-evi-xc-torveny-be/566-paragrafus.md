@@ -16,4 +16,4 @@ d) a vádlott büntethetőségét, illetve a cselekmény büntetendőségét kiz
 
 (4) A felmentő ítélet indokolása tartalmazza az (1) bekezdés a)–d) pontjában meghatározottak közül annak az oknak a feltüntetését is, amely a bíróságot az ítélet kialakításában vezette.
 
-(5) Ha a felmentés alapja gyermekkor vagy kóros elmeállapot, a bíróság elkobzást, vagyonelkobzást, illetve elektronikus adat végleges hozzáférhetetlenné tételét rendelhet el.
+(5) Ha a felmentés alapja gyermekkor vagy kóros elmeállapot, a bíróság elkobzást, vagyonelkobzást, elektronikus adat végleges hozzáférhetetlenné tételét, illetve tárhelyszolgáltatás megszüntetését rendelhet el.

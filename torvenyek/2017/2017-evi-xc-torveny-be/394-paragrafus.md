@@ -38,7 +38,7 @@ f) a külföldi ítélet elismerését vagy a tagállami ítélet megfeleltetés
 
 g) az a létrejött egyezségben a terhelt által vállalt kötelezettség teljesítése érdekében szükséges.
 
-(5) Az eljárás felfüggesztésének a (2) bekezdés, valamint a (4) bekezdés a), b) és g) pontja alapján a nyomozás során egy alkalommal van helye.
+(5) Az eljárás felfüggesztésének a (2) bekezdés, valamint a (4) bekezdés a), b) és g) pontja alapján a nyomozás során – e törvényben meghatározott kivétellel – egy alkalommal van helye.
 
 (6) Az eljárás nem függeszthető fel
 

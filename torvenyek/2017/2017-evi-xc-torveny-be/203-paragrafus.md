@@ -2,4 +2,4 @@
 
 (2) A pártfogó felügyelő a véleményben tájékoztatást ad a terhelt adottságainak megfelelő munkalehetőségről, egészségügyi, illetve szociális intézményi ellátási lehetőségről, javaslatot tehet a terhelttel szemben egyedi magatartási szabály vagy kötelezettség elrendelésére, és a bűnismétlési kockázatok hatását enyhítő beavatkozások alkalmazására.
 
-(3) A bíróság vagy az ügyészség rendelkezése alapján a pártfogó felügyelői véleményben ki kell térni arra, hogy a terhelt a kilátásba helyezett magatartási szabályok vagy kötelezettségek teljesítését vállalja-e és képes-e teljesíteni, valamint arra, hogy a sértett hozzájárul-e a részére adandó jóvátételhez.
+(3) A bíróság vagy az ügyészség rendelkezése alapján a pártfogó felügyelői véleményben ki kell térni arra, hogy a terhelt a kilátásba helyezett magatartási szabályok vagy kötelezettségek teljesítését vállalja-e és képes-e teljesíteni, valamint arra, hogy a sértett hozzájárul-e a részére adandó jóvátételhez vagy a 419. § (2) bekezdés e) pontja szerinti helyreállító eljárásban való részvételhez.

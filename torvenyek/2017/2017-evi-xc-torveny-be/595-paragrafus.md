@@ -24,6 +24,6 @@ g) lefokozás, szolgálati viszony megszüntetése helyett szabadságvesztést, 
 
 (5) Az életfogytig tartó szabadságvesztés esetén a feltételes szabadságra bocsátás legkorábbi időpontjának későbbi időpontban történő meghatározását vagy a feltételes szabadságra bocsátás lehetőségének kizárását a büntetés súlyosításának, az erre irányuló fellebbezést a vádlott terhére bejelentettnek kell tekinteni.
 
-(6) Ha az elsőfokú bíróság az elkobzásról, a vagyonelkobzásról, illetve az elektronikus adat végleges hozzáférhetetlenné tételéről a törvény rendelkezése ellenére nem rendelkezett, a tényállás azonban a döntéshez szükséges adatokat tartalmazza, erről a másodfokú bíróság is határozhat abban az esetben is, ha a terhelt terhére nem jelentettek be fellebbezést.
+(6) Ha az elsőfokú bíróság az elkobzásról, a vagyonelkobzásról, az elektronikus adat végleges hozzáférhetetlenné tételéről, illetve tárhelyszolgáltatás megszüntetéséről a törvény rendelkezése ellenére nem rendelkezett, a tényállás azonban a döntéshez szükséges adatokat tartalmazza, erről a másodfokú bíróság is határozhat abban az esetben is, ha a terhelt terhére nem jelentettek be fellebbezést.
 
 (7) Ha az elsőfokú bíróság szabálysértés miatt alkalmazott jogkövetkezményt, e jogkövetkezmény a másodfokú eljárásban akkor súlyosítható, ha a fellebbezés a felmentő rendelkezés ellen irányul, vagy az a szabálysértés miatt alkalmazott jogkövetkezmény súlyosítását célozza.

@@ -56,7 +56,7 @@ c) az egyszerűsített kártalanítási eljárás keretében kifizethető össze
 
 21. a bírósági eljárásban az eljárási cselekményről hangfelvétel vagy kép- és hangfelvétel készítésének szabályait,
 
-22.
+22. a feltételes ügyészi felfüggesztés keretében elrendelhető helyreállító szemléletű konfliktuskezelő eljárásra vonatkozó szabályokat,
 
 23. a büntetőeljárás során a pártfogó felügyelő tevékenységének a szabályait
 
@@ -72,7 +72,7 @@ c) az egységes nyomozó hatósági és ügyészségi bűnügyi statisztikai ren
 
 rendeletben megállapítsa.
 
-(4) Felhatalmazást kap a honvédelemért felelős miniszter, hogy a honvédelmi szervezetek, valamint a honvédelmi miniszter fenntartói irányítása alá tartozó, honvédelmi szervezetnek nem minősülő szakképző intézményeknél szolgálatot teljesítő honvédek tekintetében, továbbá a rendvédelmi feladatokat ellátó szervet irányító miniszter, illetve az Országgyűlési Őrség tekintetében a rendészetért felelős miniszter, hogy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek tekintetében
+(4) Felhatalmazást kap a honvédelemért felelős miniszter, hogy a honvédelmi szervezetek, valamint a honvédelmi miniszter fenntartói irányítása alá tartozó, honvédelmi szervezetnek nem minősülő szakképző intézményeknél szolgálatot teljesítő honvédek tekintetében, továbbá a rendvédelmi feladatokat ellátó szervet irányító miniszter, illetve az Országgyűlési Őrség tekintetében a rendészetért felelős miniszter, hogy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek tekintetében, valamint a polgári hírszerzési tevékenység irányításáért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, hogy a polgári nemzetbiztonsági szolgálatok tekintetében
 
 a) a parancsnoki nyomozásra jogosult jogosultakat, hatáskörüket és a parancsnoki nyomozás szabályait, illetve
 

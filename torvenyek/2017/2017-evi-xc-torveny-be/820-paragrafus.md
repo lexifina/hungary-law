@@ -6,7 +6,7 @@ a) nem indult nyomozás, vagy
 
 b) az eljárás adatai alapján
 
-ba) az elkobzás, vagyonelkobzás, elektronikus adat hozzáférhetetlenné tétele, vagy
+ba) az elkobzás, vagyonelkobzás, elektronikus adat hozzáférhetetlenné tétele, tárhelyszolgáltatás megszüntetése, vagy
 
 bb) a lefoglalt dolog állami tulajdonba vétele tárgyában nem lehet érdemben állást foglalni.
 
@@ -18,7 +18,7 @@ aa) a vagyonelkobzás végrehajtása az állami adó- és vámhatóság tájéko
 
 ab) a jogerős ügydöntő határozatot megelőzően a terhelt vagyonelkobzás alá eső vagyona nem volt biztosítható,
 
-b) ha az elkobzás, a vagyonelkobzás vagy az elektronikus adat végleges hozzáférhetetlenné tétele utólagos alkalmazásának lehet helye,
+b) ha az elkobzás, a vagyonelkobzás, az elektronikus adat végleges hozzáférhetetlenné tétele vagy a tárhelyszolgáltatás megszüntetése utólagos alkalmazásának lehet helye,
 
 és feltehető, hogy a vagyonelvonásra irányuló eljárás célja elérhető.
 

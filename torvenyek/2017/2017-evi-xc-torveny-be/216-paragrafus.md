@@ -4,7 +4,7 @@
 
 ## Fizetési műveletek megfigyelése
 
-216. § (1) A leplezett eszközök alkalmazására feljogosított szerv az ügyészség engedélyével elrendelheti, hogy a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben meghatározott pénzügyi szolgáltatási vagy kiegészítő pénzügyi szolgáltatási tevékenységet végző szervezet (a továbbiakban: szolgáltató) meghatározott időszakban, a pénzforgalmi szolgáltatás nyújtásáról szóló törvény szerinti fizetési műveletekkel kapcsolatos adatokat rögzítsen és őrizzen meg, illetve azokat az elrendelőnek továbbítsa.
+216. § (1) A leplezett eszközök alkalmazására feljogosított szerv az ügyészség engedélyével elrendelheti, hogy a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben meghatározott pénzügyi szolgáltatási vagy kiegészítő pénzügyi szolgáltatási tevékenységet végző szervezet (e § alkalmazásában a továbbiakban: szolgáltató) meghatározott időszakban, a pénzforgalmi szolgáltatás nyújtásáról szóló törvény szerinti fizetési műveletekkel kapcsolatos adatokat rögzítsen és őrizzen meg, illetve azokat az elrendelőnek továbbítsa.
 
 (2) A fizetési műveletek megfigyelése különösen
 

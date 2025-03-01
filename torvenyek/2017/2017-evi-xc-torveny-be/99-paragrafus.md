@@ -12,7 +12,7 @@
 
 a) az ügyben eljáró bíróság, ügyészség és nyomozó hatóság részére,
 
-b) az áldozatsegítő szolgálat részére az áldozatsegítéssel kapcsolatos feladatok ellátása, és a pártfogó felügyelői szolgálat részére a közvetítői eljárás lefolytatása céljából, az e feladatok ellátásához elengedhetetlenül szükséges mértékben
+b) az áldozatsegítő szolgálat részére az áldozatsegítéssel kapcsolatos feladatok ellátása, és a pártfogó felügyelői szolgálat részére a közvetítői eljárás vagy a helyreállító szemléletű konfliktuskezelő eljárás lefolytatása céljából, az e feladatok ellátásához elengedhetetlenül szükséges mértékben
 
 lehet továbbítani.
 

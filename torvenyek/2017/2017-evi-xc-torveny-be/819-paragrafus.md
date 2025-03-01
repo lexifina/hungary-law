@@ -14,13 +14,13 @@ cb) az elkövető tartós, súlyos betegsége vagy a bűncselekmény elkövetés
 
 cc) az elkövető kiléte a nyomozásban nem volt megállapítható,
 
-és elkobzás, vagyonelkobzás, elektronikus adat végleges hozzáférhetetlenné tétele, vagy a lefoglalt dolog állami tulajdonba vétele szükséges.
+és elkobzás, vagyonelkobzás, elektronikus adat végleges hozzáférhetetlenné tétele, tárhelyszolgáltatás megszüntetése, vagy a lefoglalt dolog állami tulajdonba vétele szükséges.
 
 (2) Vagyonelvonásra irányuló eljárásnak van helye a bíróság jogerős ügydöntő határozatát követően, ha
 
 a) a bűncselekmény elkövetéséből eredő vagyon visszaszerzése vagy
 
-b) az elkobzás, a vagyonelkobzás, az elektronikus adat végleges hozzáférhetetlenné tételének utólagos elrendelése
+b) az elkobzás, a vagyonelkobzás, az elektronikus adat végleges hozzáférhetetlenné tételének, a tárhelyszolgáltatás megszüntetésének utólagos elrendelése
 
 szükséges.
 
