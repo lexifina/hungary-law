@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-56-20-0
 | 2019-07-17 | 2014-56-20-0A.4 | 28/2019. (VII. 9.) BM rendelet |
 | 2023-01-01 | 2014-56-20-0A.5 | 50/2022. (XII. 27.) BM rendelet |
 | 2023-12-29 | 2014-56-20-0A.6 | 90/2023. (XII. 28.) BM rendelet |
+| 2025-03-01 | 2014-56-20-0A.7 | 62/2024. (XII. 30.) BM rendelet |

@@ -26,4 +26,7 @@ e) a fogvatartott öngyilkossági kísérlete vagy szándékos egészségkáros�
 
 f) az étkezés csoportos megtagadása, ételmérgezés.
 
+7.[^4] több egymást követő napra előállított fogvatartott: a fogvatartásért felelős büntetés-végrehajtási intézet által büntetőügyben terheltként, büntetés-végrehajtási ügyben, vagy tanúként a büntető ügyben eljáró bíróság által személyes megjelenéssel idézett, a több egymást követő munkanap időtartamára rendőrségi fogdában elhelyezett elítélt és egyéb jogcímen fogvatartott.
+
 [^3]: A 2. § 3. pontja az 50/2022. (XII. 27.) BM rendelet 7. §-a szerint módosított szöveg.
+[^4]: A 2. § 7. pontját a 62/2024. (XII. 30.) BM rendelet 25. §-a iktatta be.

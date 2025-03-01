@@ -12,7 +12,7 @@ d) a büntetés-végrehajtás törvényességi felügyeletét ellátó ügyész,
 
 e) az országos rendőrfőkapitány és helyettesei, illetve az országos rendőrfőkapitány által szervezeti és működési szabályzatban kijelölt személyek,
 
-f)[^4] az illetékes vármegyei vagy fővárosi rendőrfőkapitány és helyettesei,
+f)[^5] az illetékes vármegyei vagy fővárosi rendőrfőkapitány és helyettesei,
 
 g) a Készenléti Rendőrség által üzemeltett fogda vonatkozásában a Készenléti Rendőrség parancsnoka és helyettesei,
 
@@ -34,4 +34,4 @@ c) a Rendvédelmi Közegészségügyi-Járványügyi Szolgálat,
 
 d) a rendőrség munkavédelmi főfelügyelője.
 
-[^4]: A 7. § (1) bekezdés f) pontja az 50/2022. (XII. 27.) BM rendelet 7. §-a szerint módosított szöveg.
+[^5]: A 7. § (1) bekezdés f) pontja az 50/2022. (XII. 27.) BM rendelet 7. §-a szerint módosított szöveg.
