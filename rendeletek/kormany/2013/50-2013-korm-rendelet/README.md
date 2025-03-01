@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-50-20-2
 | 2020-01-01 | 2013-50-20-22.7 | 187/2016. (VII. 13.) Korm. rendelet |
 | 2021-01-01 | 2013-50-20-22.8 | 187/2016. (VII. 13.) Korm. rendelet |
 | 2023-12-22 | 2013-50-20-22.9 | 597/2023. (XII. 21.) Korm. rendelet |
+| 2025-03-01 | 2013-50-20-22.10 | 187/2016. (VII. 13.) Korm. rendelet |
