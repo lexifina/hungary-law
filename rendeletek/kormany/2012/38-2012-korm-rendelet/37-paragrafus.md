@@ -1,6 +1,6 @@
 ## 20. Az intézményi stratégia
 
-37. § (1)[^11] Az intézményi stratégia a kormányhivatalokra, központi hivatalokra, rendvédelmi szervekre, valamint a fővárosi és megyei kormányhivatalokra szakmai és szervezeti feladatokat megfogalmazó középtávú stratégiai tervdokumentum, amely tartalmazza
+37. § (1)[^11] Az intézményi stratégia a kormányhivatalokra, központi hivatalokra, rendvédelmi szervekre, a polgári nemzetbiztonsági szolgálatokra, valamint a fővárosi és megyei kormányhivatalokra szakmai és szervezeti feladatokat megfogalmazó középtávú stratégiai tervdokumentum, amely tartalmazza
 
 a) a szervre vonatkozó mérhető működési és fejlesztési célokat és az ezek alapján az elvégzendő feladatokat;
 
@@ -24,5 +24,5 @@ b) elfogadásáról a szervet irányító vagy felügyelő miniszter dönt.
 
 (5) A jogszabály által szakmai függetlenséggel felruházott kormányhivatal intézményi stratégiáját a felügyeletet ellátó miniszter előterjesztésére a Kormány fogadja el.
 
-[^11]: A 37. § (1) bekezdés nyitó szövegrésze a 101/2018. (VI. 11.) Korm. rendelet 17. § (2) bekezdés e) pontja szerint módosított szöveg.
+[^11]: A 37. § (1) bekezdés nyitó szövegrésze a 101/2018. (VI. 11.) Korm. rendelet 17. § (2) bekezdés e) pontja, a 24/2025. (II. 27.) Korm. rendelet 38. § c) pontja szerint módosított szöveg.
 [^12]: A 37. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 193. § (2) bekezdésével megállapított, a 309/2022. (VIII. 11.) Korm. rendelet 4. §-a szerint módosított szöveg.
