@@ -26,7 +26,7 @@
 
 2.7.[^46] a HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zártkörűen Működő Részvénytársaság
 
-2.8.[^47] a rendvédelmi szervek országos parancsnokságai és a Nemzeti Adó- és Vámhivatal Központi Irányítása
+2.8.[^47] a rendvédelmi szervek országos parancsnokságai, a polgári nemzetbiztonsági szolgálatok és a Nemzeti Adó- és Vámhivatal Központi Irányítása
 
 2.9. országos vízkár-elhárítási középirányító szerv
 
@@ -60,7 +60,7 @@
 [^44]: Az 1. melléklet 2. pont 2.2. alpontja a 379/2016. (XII. 2.) Korm. rendelet 157. § (1) bekezdés a) pontjával megállapított szöveg.
 [^45]: Az 1. melléklet 2. pont 2.4. alpontját a 379/2016. (XII. 2.) Korm. rendelet 157. § (2) bekezdése hatályon kívül helyezte.
 [^46]: Az 1. melléklet 2. pont 2.7. alpontja az 591/2023. (XII. 20.) Korm. rendelet 10. § b) pontjával megállapított szöveg.
-[^47]: Az 1. melléklet 2. pont 2.8. alpontja a 486/2015. (XII. 29.) Korm. rendelet 28. § a) pontja szerint módosított szöveg.
+[^47]: Az 1. melléklet 2. pont 2.8. alpontja a 486/2015. (XII. 29.) Korm. rendelet 28. § a) pontja, a 24/2025. (II. 27.) Korm. rendelet 25. §-a szerint módosított szöveg.
 [^48]: Az 1. melléklet 2. pont 2.11. alpontja a 286/2017. (IX. 22.) Korm. rendelet 8. §-ával megállapított szöveg.
 [^49]: Az 1. melléklet 2. pont 2.13. alpontját a 345/2019. (XII. 23.) Korm. rendelet 3. §-a hatályon kívül helyezte.
 [^50]: Az 1. melléklet 2. pont 2.15. alpontja a 204/2019. (VIII. 23.) Korm. rendelet 9. §-a szerint módosított szöveg.
