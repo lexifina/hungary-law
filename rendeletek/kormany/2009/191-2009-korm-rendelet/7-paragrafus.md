@@ -12,7 +12,7 @@ c)[^65] a 22. § (2)–(6) bekezdésében és az 1. mellékletben meghatározott
 
 d)[^66] a vállalkozó kivitelező által az eltakarásra kerülő szerkezetek ellenőrzésének biztosításáról szóló értesítés építési naplóban történő rögzítésétől – a felek eltérő megállapodásának hiányában – számított legkésőbb három munkanapon belül az eltakarásra kerülő szerkezetek ellenőrzésének elvégzése és bejegyzése az építési naplóba, ha építési műszaki ellenőrt nem kell megbízni, vagy építési műszaki ellenőr egyébként nem kerül megbízásra,
 
-e)[^67] az e-építési napló ellenőrzése,
+e)[^67] az e-építési napló ellenőrzése, elérhetőségének fenntartása,
 
 f)[^68] a műszaki átadás-átvételi és az építési munkaterület átadás-átvételi eljárásában való részvétel,
 
@@ -49,7 +49,7 @@ s)[^79] a beruházáslebonyolító megbízása, ha e rendelet kötelezően elő�
 [^64]: A 7. § (2) bekezdés a) pontja a 700/2020. (XII. 29.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
 [^65]: A 7. § (2) bekezdés c) pontja a 482/2016. (XII. 28.) Korm. rendelet 19. § g) pontja, a 286/2024. (IX. 30.) Korm. rendelet 46. § 19. pontja szerint módosított szöveg.
 [^66]: A 7. § (2) bekezdés d) pontját a 322/2012. (XI. 16.) Korm. rendelet 93. § e) pontja hatályon kívül helyezte, újonnan a 62/2014. (III. 6.) Korm. rendelet 11. § (4) bekezdése iktatta be.
-[^67]: A 7. § (2) bekezdés e) pontja a 482/2016. (XII. 28.) Korm. rendelet 19. § h) pontja, a 286/2024. (IX. 30.) Korm. rendelet 47. § 6. pontja szerint módosított szöveg.
+[^67]: A 7. § (2) bekezdés e) pontja a 482/2016. (XII. 28.) Korm. rendelet 19. § h) pontja, a 286/2024. (IX. 30.) Korm. rendelet 47. § 6. pontja, a 485/2024. (XII. 31.) Korm. rendelet 5. §-a szerint módosított szöveg.
 [^68]: A 7. § (2) bekezdés f) pontja a 109/2013. (IV. 9.) Korm. rendelet 2. § (20) bekezdés 4. pont 4.1. alpontja szerint módosított szöveg.
 [^69]: A 7. § (2) bekezdés i) pontját a 182/2010. (V. 14.) Korm. rendelet 5. § (4) bekezdése iktatta be, szövege a 109/2013. (IV. 9.) Korm. rendelet 2. § (20) bekezdés 4. pont 4.2. alpontja szerint módosított szöveg.
 [^70]: A 7. § (2) bekezdés j) pontját a 322/2012. (XI. 16.) Korm. rendelet 62. §-a iktatta be, szövege a 62/2014. (III. 6.) Korm. rendelet 12. § 1. pontja szerint módosított szöveg.

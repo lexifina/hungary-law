@@ -10,7 +10,7 @@
 
 (5)[^264] Az e-főnapló és az e-alnapló az építési munkaterület átvételekor az átvétel időpontjának rögzítésével nyílik meg, és az építőipari kivitelezési tevékenység befejezését követően az építési munkaterületről levonulás időpontjának rögzítésével zárul le.
 
-(6)[^265]
+(6)[^265] Ha az építtető az évente esedékes rendszerhasználati díjat az e-építési napló megnyitásának évfordulójáig nem fizeti meg, az OÉNY üzemeltetője a megadott elérhetőségek valamelyikén határidő tűzésével felszólítja a díj megfizetésére. A határidő eredménytelen elteltével az OÉNY üzemeltetője az e-építési naplót elérhetetlenné teszi. Amennyiben az építtető utóbb eleget tesz fizetési kötelezettségének, az OÉNY üzemeltetője az e-építési naplót haladéktalanul elérhetővé teszi.
 
 (7)[^266]
 
@@ -21,5 +21,5 @@
 [^262]: A 24/B. § (3) bekezdését a 482/2016. (XII. 28.) Korm. rendelet 14. §-a iktatta be.
 [^263]: A 24/B. § (4) bekezdését a 482/2016. (XII. 28.) Korm. rendelet 14. §-a iktatta be.
 [^264]: A 24/B. § (5) bekezdését a 482/2016. (XII. 28.) Korm. rendelet 14. §-a iktatta be.
-[^265]: A 24/B. § (6) bekezdését a 482/2016. (XII. 28.) Korm. rendelet 14. §-a iktatta be, a 286/2024. (IX. 30.) Korm. rendelet 47. § 19. pontja hatályon kívül helyezte.
+[^265]: A 24/B. § (6) bekezdését újonnan a 485/2024. (XII. 31.) Korm. rendelet 4. §-a iktatta be.
 [^266]: A 24/B. § (7) bekezdését a 482/2016. (XII. 28.) Korm. rendelet 14. §-a iktatta be, a 286/2024. (IX. 30.) Korm. rendelet 47. § 19. pontja hatályon kívül helyezte.
