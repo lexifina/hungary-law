@@ -16,7 +16,7 @@ d) kötelező tagság alapján működő köztestület,
 
 e) a Magyar Honvédség,
 
-f) rendvédelmi szerv,
+f) rendvédelmi szerv vagy polgári nemzetbiztonsági szolgálat,
 
 g) közigazgatási jogkörben eljáró egyéb szerv e jogkörében,
 
