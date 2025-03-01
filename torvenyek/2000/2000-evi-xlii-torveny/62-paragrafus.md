@@ -4,6 +4,6 @@
 
 (3) Ha magyar úszólétesítményt külföldön víziközlekedési baleset ér, azt az úszólétesítmény üzemben tartója haladéktalanul köteles a magyar hajózási hatóságnak is bejelenteni, és a hajózási hatóság által – a balesettel kapcsolatban – kért adatokat szolgáltatni.
 
-(4) A honvédség, a rendvédelmi szervek vagy a rendvédelmi feladatokat ellátó szervek úszólétesítményeivel való közlekedés során bekövetkezett víziközlekedési balesetekkel és víziközlekedési eseményekkel kapcsolatos szakmai vizsgálat az illetékes üzemben tartó által kijelölt szakmai bizottság feladata.
+(4) A honvédség, a rendvédelmi szervek, a polgári nemzetbiztonsági szolgálatok vagy a rendvédelmi feladatokat ellátó szervek úszólétesítményeivel való közlekedés során bekövetkezett víziközlekedési balesetekkel és víziközlekedési eseményekkel kapcsolatos szakmai vizsgálat az illetékes üzemben tartó által kijelölt szakmai bizottság feladata.
 
 (5) A (4) bekezdés szerinti szakmai bizottság létrehozására, tagjaira, valamint a bizottság eljárására vonatkozó szabályokat külön jogszabály állapítja meg.

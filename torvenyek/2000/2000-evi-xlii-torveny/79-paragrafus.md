@@ -12,7 +12,7 @@ b) saját használatú, amely az üzemben tartó vállalkozásában végzett sze
 
 (2) Az (1) bekezdés b) pontjában meghatározottakon túl saját használatú az a kikötő is, amely
 
-a) államigazgatási szerv, a Magyar Honvédség, rendvédelmi szerv tulajdonában, illetve használatában van,
+a) államigazgatási szerv, a Magyar Honvédség, rendvédelmi szerv, polgári nemzetbiztonsági szolgálat tulajdonában, illetve használatában van,
 
 b) egyesület tulajdonában, illetve használatában van, ha a kikötő csak tagsági jogviszony alapján vehető igénybe.
 
