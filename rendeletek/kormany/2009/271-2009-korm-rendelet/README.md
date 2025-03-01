@@ -29,3 +29,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-271-20-
 | 2024-12-03 | 2009-271-20-22.18 | 223/2023. (VI. 6.) Korm. rendelet |
 | 2024-12-04 | 2009-271-20-22.19 | 223/2023. (VI. 6.) Korm. rendelet |
 | 2024-12-24 | 2009-271-20-22.27 | 425/2024. (XII. 23.) Korm. rendelet |
+| 2025-03-01 | 2009-271-20-22.28 | 612/2023. (XII. 22.) Korm. rendelet |
