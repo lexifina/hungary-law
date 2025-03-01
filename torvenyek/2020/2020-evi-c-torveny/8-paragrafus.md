@@ -72,6 +72,8 @@ n) a honvédek jogállásáról szóló kormányrendelet szerinti hivatásos vag
 
 o) a pedagógusok új életpályájáról szóló törvény hatálya alá tartozó szervnél köznevelési foglalkoztatotti jogviszonyban, munkaviszonyban
 
+p) a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvény szerinti nemzetbiztonsági szolgálati jogviszonyban vagy nemzetbiztonsági alkalmazotti jogviszonyban
+
 töltött időt.
 
 (9a) A (9) bekezdésben foglaltakon túl egészségügyi szolgálati jogviszonyban töltött időnek kell tekinteni

@@ -26,7 +26,7 @@ b) 4. § b) pontja szerinti egészségügyben dolgozó.
 
 (7) A honvédelmi miniszter irányítása alá tartozó egészségügyi szolgáltató és foglalkoztatottjai a jogviszony sajátossága okán a honvédek jogállási kérdéseit szabályozó jogszabályban meghatározottak szerint tartoznak e törvény hatálya alá.
 
-(7a) A rendvédelmi feladatokat ellátó szerveknél működő egészségügyi szolgáltatók és foglalkoztatottjaik a jogviszony sajátossága okán nem tartoznak e törvény hatálya alá.
+(7a) A rendvédelmi feladatokat ellátó szerveknél, valamint a polgári nemzetbiztonsági szolgálatoknál működő egészségügyi szolgáltatók és foglalkoztatottjaik a jogviszony sajátossága okán nem tartoznak e törvény hatálya alá.
 
 (8) Ha az e törvény hatálya alá nem tartozó egészségügyi szolgáltató fenntartója vagy tulajdonosa egyházi jogi személy, a fenntartó vagy a tulajdonos erre irányuló döntése esetén az egészségügyi szolgáltató (3) bekezdés szerinti foglalkoztatottainak jogviszonyára e törvény rendelkezéseit kell alkalmazni.
 
