@@ -10,9 +10,9 @@
 
 5.
 
-6.
+6. 86. § (2) bekezdés c) pont ca) alpontjában az „54. §-ban” szövegrész helyébe az „54. vagy 54/A. §-ban” szöveg,
 
-7.
+7. 86. § (2) bekezdés c) pont cb) alpontjában az „54. §-ban” szövegrész helyébe az „54. vagy 54/A. §-ban” szöveg,
 
 8.
 
@@ -32,7 +32,7 @@
 
 16.
 
-17.
+17. 330. § (1) bekezdésében az „54. §” szövegrész helyébe az „54. § és 54/A. §” szöveg,
 
 18.
 

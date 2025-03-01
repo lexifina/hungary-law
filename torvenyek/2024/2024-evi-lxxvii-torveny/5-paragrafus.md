@@ -2,4 +2,6 @@
 
 a)
 
-b)
+b) 4/B. § (2a) bekezdésében az „a tanuló ifjúság üdülésének és táborozásának egészségügyi feltételeiről szóló miniszteri rendeletben” szövegrész helyébe a „miniszteri rendeletben” szöveg
+
+lép.
