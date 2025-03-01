@@ -81,3 +81,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1999-84-00-00
 | 2024-12-23 | 2024. évi LXXXI. törvény | 1999-84-00-00.100 |
 | 2025-01-01 | 2019. évi CX. törvény | 1999-84-00-00.92 |
 | 2025-02-01 | 2024. évi LXXIII. törvény | 1999-84-00-00.102 |
+| 2025-03-01 | 2024. évi LXXII. törvény | 1999-84-00-00.101 |
