@@ -1,1 +1,5 @@
-### 151. §
+151. § A Nemzeti Egészségügyi és Orvosképzésért Alapítványról, a Nemzeti Egészségügyi és Orvosképzésért Alapítvány és a Semmelweis Egyetem részére történő vagyonjuttatásról szóló 2021. évi XX. törvény a következő 6/F. és 6/G. §-sal egészül ki:
+
+„6/F. § A 3. mellékletben foglalt táblázat 62–70. sorában meghatározott ingatlanok tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas háromoldalú szerződést a tulajdonosi joggyakorló, az Országos Mozgásszervi Intézet köti meg az Egyetemmel.
+
+6/G. § Az Országos Mozgásszervi Intézet európai uniós forrásból finanszírozott, folyamatban lévő vagy fenntartás alatt álló projektje vonatkozásában az Országos Mozgásszervi Intézet jogutódja az Egyetem. E projektekkel összefüggő jogok és kötelezettségek az Egyetemet illetik meg, illetve terhelik. Az Egyetem köteles az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló kormányrendelet alapján a változást az érintett irányító hatóság részére bejelenteni.”
