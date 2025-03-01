@@ -10,7 +10,7 @@ b) akinek a beutazási vagy a tartózkodási joga nem áll fenn, de aki ennek el
 
 c) akinek beutazása vagy tartózkodása valódi, közvetlen és súlyos veszélyt jelent Magyarország közrendjére, köz- vagy nemzetbiztonságára.
 
-(3) Az idegenrendészeti kiutasítást a (2) bekezdés c) pontjában foglalt okból, törvényben meghatározott érdek védelmével kapcsolatos feladatuk ellátása céljából a kormányrendeletben meghatározott rendvédelmi szervek is kezdeményezhetik. Ha az idegenrendészeti kiutasítást a (2) bekezdés c) pontjában foglalt okból rendelik el, a beutazási és tartózkodási tilalom időtartamára – a feladat- és hatáskörüket érintő esetben – a kormányrendeletben meghatározott rendvédelmi szervek javaslatot tesznek. A javaslatban foglaltaktól az idegenrendészeti hatóság nem térhet el.
+(3) Az idegenrendészeti kiutasítást a (2) bekezdés c) pontjában foglalt okból, törvényben meghatározott érdek védelmével kapcsolatos feladatuk ellátása céljából a kormányrendeletben meghatározott rendvédelmi szervek és polgári nemzetbiztonsági szolgálatok is kezdeményezhetik. Ha az idegenrendészeti kiutasítást a (2) bekezdés c) pontjában foglalt okból rendelik el, a beutazási és tartózkodási tilalom időtartamára – a feladat- és hatáskörét érintő esetben – a kormányrendeletben meghatározott rendvédelmi szerv vagy polgári nemzetbiztonsági szolgálat javaslatot tesz. A javaslatban foglaltaktól az idegenrendészeti hatóság nem térhet el.
 
 (4) Büntetőeljárás során hozott jogerős ügydöntő határozat önmagában nem képezheti a (2) bekezdés c) pontja alapján elrendelt kiutasító döntés meghozatalának alapját.
 

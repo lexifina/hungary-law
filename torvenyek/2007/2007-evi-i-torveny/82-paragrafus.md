@@ -28,7 +28,7 @@ e) a foglalkoztatás-felügyeleti hatóságtól;
 
 f) az állami foglalkoztatási szervtől;
 
-g) az e törvényben meghatározott véleményezési eljárásokon túl Magyarország rendvédelmi- és nemzetbiztonsági szerveitől;
+g) az e törvényben meghatározott véleményezési eljárásokon túl Magyarország rendvédelmi szerveitől és nemzetbiztonsági szolgálataitól;
 
 h) az állampolgársági ügyekben eljáró szervtől.
 
