@@ -12,7 +12,7 @@
 
 (5)[^4] A honvédek jogállásáról szóló kormányrendelet hatálya alá tartozó hivatásos és szerződéses állományú katonai jogviszonyban állók az e rendeletben foglalt szabályok szerint az NKE-nél tehetnek közigazgatási alapvizsgát, illetve ügykezelői alapvizsgát.
 
-(6)[^5] A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 128. alcíme alá tartozó szervezetek hivatásos állományú tagjai az e rendeletben foglalt szabályok szerint az NKE-nél tehetnek közigazgatási alapvizsgát, illetve ügykezelői alapvizsgát azzal, hogy a rendvédelmi feladatokat ellátó szerv és az NKE megállapodást köt az érintettek adatainak védelméről, így különösen arról, hogy melyek azok az adatok, amelyek nem kerülnek az NKE-nek az e rendeletben meghatározott adatkezelésébe és ezért nem kerülnek az országos közigazgatási alapvizsga nyilvántartásba (a továbbiakban: közigazgatási alapvizsga nyilvántartás) sem.
+(6)[^5] A polgári nemzetbiztonsági szolgálatok hivatásos állományú tagjai az e rendeletben foglalt szabályok szerint az NKE-nél tehetnek közigazgatási alapvizsgát, illetve ügykezelői alapvizsgát azzal, hogy a polgári nemzetbiztonsági szolgálat és az NKE megállapodást köt az érintettek adatainak védelméről, így különösen arról, hogy melyek azok az adatok, amelyek nem kerülnek az NKE-nek az e rendeletben meghatározott adatkezelésébe és ezért nem kerülnek az országos közigazgatási alapvizsga nyilvántartásba (a továbbiakban: közigazgatási alapvizsga nyilvántartás) sem.
 
 (7) A vizsgakötelezettséget és teljesítésének határidejét a kinevezési okmányon fel kell tüntetni.
 
@@ -22,4 +22,4 @@
 [^2]: Az 1. § (2) bekezdése a 178/2012. (VII. 26.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^3]: Az 1. § (3) bekezdése a 178/2012. (VII. 26.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^4]: Az 1. § (5) bekezdése a 178/2012. (VII. 26.) Korm. rendelet 5. § (17) bekezdés a) pontja, a 108/2016. (V. 18.) Korm. rendelet 21. § b) pontja, a 176/2024. (VII. 7.) Korm. rendelet 8. §-a szerint módosított szöveg.
-[^5]: Az 1. § (6) bekezdése a 178/2012. (VII. 26.) Korm. rendelet 5. § (17) bekezdés a), b) és c) pontja, a 157/2015. (VI. 25.) Korm. rendelet 26. §-a szerint módosított szöveg.
+[^5]: Az 1. § (6) bekezdése a 178/2012. (VII. 26.) Korm. rendelet 5. § (17) bekezdés a), b) és c) pontja, a 24/2025. (II. 27.) Korm. rendelet 32. §-a szerint módosított szöveg.

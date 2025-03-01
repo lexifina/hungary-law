@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-174-20-
 | 2018-01-01 | 2011-174-20-22.13 | 396/2017. (XII. 13.) Korm. rendelet |
 | 2022-07-05 | 2011-174-20-22.14 | 298/2013. (VII. 29.) Korm. rendelet |
 | 2024-07-08 | 2011-174-20-22.15 | 178/2012. (VII. 26.) Korm. rendelet |
+| 2025-03-01 | 2011-174-20-22.16 | 178/2012. (VII. 26.) Korm. rendelet |
