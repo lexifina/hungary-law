@@ -6,4 +6,4 @@
 
 (3) A (2) bekezdés szerinti határozat ellen fellebbezésnek nincs helye.
 
-(4) Az (1)–(3) bekezdés szerinti eljárást kell lefolytatni a további átadás esetén is, ha a terhelt nem mondott le a specialitás szabályának alkalmazásáról, és az átadását követően egy másik tagállam által az átadást megelőzően elkövetett bűncselekmény miatt kibocsátott európai elfogatóparancs vagy hozzájárulás iránti kérelem tárgyában kell döntést hozni.
+(4) Az (1)–(3) bekezdés szerinti eljárást kell lefolytatni a további átadás vagy kiadatás esetén is, ha a terhelt nem mondott le a specialitás szabályának alkalmazásáról, és az átadást követően egy másik tagállam vagy harmadik ország által az átadást megelőzően elkövetett bűncselekmény miatt kibocsátott európai elfogatóparancs, kiadatási kérelem vagy hozzájárulás iránti kérelem tárgyában kell döntést hozni. Harmadik országot érintő kiadatási vagy hozzájárulás iránti kérelem esetén a hozzájárulás akkor adható meg, ha az alapul szolgáló bűncselekmény az Nbjt. rendelkezései szerint önmagában is kiadatási kötelezettséget von maga után.

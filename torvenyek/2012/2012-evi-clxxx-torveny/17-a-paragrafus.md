@@ -1,4 +1,4 @@
-17/A. § (1) Ha a bíróság az európai elfogatóparancs végrehajtását az 5. § (3) vagy (4) bekezdése alapján tagadta meg, és ezt követően a bíróság a IX/A. Fejezet szerinti eljárásában a végrehajtás átvételét megtagadja, a bíróság a végrehajtás átvételének megtagadásával egyidejűleg az európai elfogatóparancs végrehajtásának megtagadásáról szóló határozatát hatályon kívül helyezi.
+17/A. § (1) Ha a bíróság az 5. § (3) bekezdése alapján megállapította, hogy az európai elfogatóparancs végrehajtásának akadálya van, és ezt követően a bíróság a IX/A. Fejezet szerinti eljárásában a végrehajtás átvételét megtagadja, a bíróság a végrehajtás átvételének megtagadásával egyidejűleg az európai elfogatóparancs végrehajtásának akadályáról szóló határozatát hatályon kívül helyezi, és az európai elfogatóparancs végrehajtására irányuló eljárását folytatja.
 
 (2) Az (1) bekezdésben meghatározott esetben
 

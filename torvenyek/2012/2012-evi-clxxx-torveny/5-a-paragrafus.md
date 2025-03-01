@@ -1,0 +1,3 @@
+5/A. § (1) Nincs helye a terhelt átadásának, ha az átadáshoz az Európai Unió más tagállamának vagy harmadik országnak a hozzájárulása szükséges, és a hozzájárulást a tagállam vagy a harmadik ország nem adja meg.
+
+(2) Az (1) bekezdésben meghatározott esetben a bíróság a hozzájárulás megadását az európai elfogatóparancs továbbításával kezdeményezi. Ha a megkeresett ország harmadik ország, akkor a hozzájárulás iránti kérelem továbbítása során a Nbjt. alkalmazásával kell eljárni. A kezdeményezésben a bíróság tájékoztatást nyújt az európai elfogatóparancs végrehajtására irányuló eljárás határidejéről, és ennek figyelembevételével a hozzájárulás megadására megfelelő határidőt tűz.
