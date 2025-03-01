@@ -32,7 +32,7 @@ Tehergépjárművel és autóbusszal végzett közúti közlekedési szolgáltat
 
 5.1. amelynek maximális engedélyezett sebessége nem haladja meg a 45 km/órát,
 
-5.2.[^136] amelyet a Magyar Honvédség, rendvédelmi szerv, tűzoltóság, közreműködő önkéntes tűzoltó egyesület, önkéntes mentőszervezet, mentőszolgálat tart üzemben és használja a számukra meghatározott feladataik ellátása során,
+5.2.[^136] amelyet a Magyar Honvédség, rendvédelmi szerv, polgári nemzetbiztonsági szolgálat, tűzoltóság, közreműködő önkéntes tűzoltó egyesület, önkéntes mentőszervezet, mentőszolgálat tart üzemben és használja a számukra meghatározott feladataik ellátása során,
 
 5.3. amely műszaki-fejlesztési, javítási vagy karbantartási célból forgalombiztonsági vizsgálat alatt áll, vagy olyan új vagy felújított jármű, amelyet még nem helyeztek forgalomba,
 
@@ -62,7 +62,7 @@ b) a megtett távolság meghaladja a járművet tulajdonló, bérlő vagy lízin
 [^133]: A 2. melléklet 2. pont 2.6. alpontját a 265/2020. (VI. 11.) Korm. rendelet 3. §-a iktatta be.
 [^134]: A 2. melléklet 3. pontja a 265/2020. (VI. 11.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
 [^135]: A 2. melléklet 4. pont 4.1. alpontja a 265/2020. (VI. 11.) Korm. rendelet 4. § a) pontja, a 141/2023. (IV. 24.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
-[^136]: A 2. melléklet 5. pont 5.2. alpontja a 265/2020. (VI. 11.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^136]: A 2. melléklet 5. pont 5.2. alpontja a 265/2020. (VI. 11.) Korm. rendelet 3. §-ával megállapított, a 24/2025. (II. 27.) Korm. rendelet 33. §-a szerint módosított szöveg.
 [^137]: A 2. melléklet 5. pont 5.4. alpontja a 265/2020. (VI. 11.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^138]: A 2. melléklet 5. pont 5.5. alpontja a 265/2020. (VI. 11.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^139]: A 2. melléklet 5. pont 5.6. alpontja a 265/2020. (VI. 11.) Korm. rendelet 3. §-ával megállapított szöveg.
