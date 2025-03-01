@@ -14,7 +14,7 @@ b) központi államigazgatási szerv vezetője, köztisztviselője;
 
 c) kormánytisztviselő olyan államigazgatási szervnél, illetve a Nemzeti Adó- és Vámhivatal azon szervének tisztviselője, amelynek illetékességi területén az adott önkormányzat működik;
 
-d) a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat hivatásos vagy szerződéses állományú tagja, rendvédelmi szerv, az Országgyűlési Őrség hivatásos állományú tagja, a Nemzeti Adó- és Vámhivatal pénzügyőri munkakört betöltő foglalkoztatottja;
+d) a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat hivatásos vagy szerződéses állományú tagja, rendvédelmi szerv, polgári nemzetbiztonsági szolgálat, az Országgyűlési Őrség hivatásos állományú tagja, a Nemzeti Adó- és Vámhivatal pénzügyőri munkakört betöltő foglalkoztatottja;
 
 e) jegyző (főjegyző), aljegyző, továbbá ugyanazon önkormányzat polgármesteri hivatalának vagy közös önkormányzati hivatalának köztisztviselője, alkalmazottja;
 
