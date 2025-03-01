@@ -6,6 +6,6 @@
 
 (3) Az ingatlan-nyilvántartás vonatkozásában az ingatlan-nyilvántartásról szóló 2021. évi C. törvény (a továbbiakban: Inytv.) 5. § (2) bekezdés a) pontja szerinti nem lakás céljára szolgáló önálló rendeltetési egység az álláshely is.
 
-(4)[^3] E rendelet alkalmazásában álláshely: az épület gépjárműtároló helyiségében kialakított, gépjármű elhelyezésére szolgáló terület, amelynek egyik oldala az álláshelyekhez vezető közlekedési úthoz kapcsolódik, további három oldala a helyiség padlóján tartós fizikai jelöléssel vagy fallal körülhatárolt, és megfelel a településrendezési és építési követelmények alapszabályzatáról szóló kormányrendelet szerinti, az álláshely méreteire vonatkozó előírásoknak. A méretek a tartós fizikai jelölés tengelyétől számítandók.
+(4)[^4] E rendelet alkalmazásában álláshely: az épület gépjárműtároló helyiségében kialakított, gépjármű elhelyezésére szolgáló terület, amelynek egyik oldala az álláshelyekhez vezető közlekedési úthoz kapcsolódik, további három oldala a helyiség padlóján tartós fizikai jelöléssel vagy fallal körülhatárolt, és megfelel a településrendezési és építési követelmények alapszabályzatáról szóló kormányrendelet szerinti, az álláshely méreteire vonatkozó előírásoknak. A méretek a tartós fizikai jelölés tengelyétől számítandók.
 
-[^3]: A 19. § (4) bekezdése a 483/2024. (XII. 31.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^4]: A 19. § (4) bekezdése a 483/2024. (XII. 31.) Korm. rendelet 2. §-ával megállapított szöveg.

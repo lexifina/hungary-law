@@ -4,7 +4,7 @@
 
 (2) A honvédelemmel és a rendészettel kapcsolatban művelés alól kivett terület:
 
-a) a honvédelmi és rendvédelmi célra állandóan igénybe vett terület;
+a)[^3] a honvédelmi, nemzetbiztonsági és rendvédelmi célra állandóan igénybe vett terület;
 
 b) az a terület, amelynek gazdasági felhasználását nemzetközi megállapodás korlátozza;
 
@@ -35,3 +35,5 @@ megnevezéssel művelés alól kivett területként kell nyilvántartani.
 (9) A tulajdonosi joggyakorló kérelmére az (5) bekezdés szerinti területek tényleges művelési ágát és minőségi osztályát a Nemzeti Földalapról szóló törvényben előírt környezetvédelmi, vegyvédelmi, illetve tűzszerészeti mentesítés szükségtelenségét vagy megtörténtét igazoló hatósági bizonyítványnak az ingatlanügyi hatósághoz történő beérkezését követően meg kell állapítani, és a vonatkozó előírásoknak megfelelően az ingatlan-nyilvántartásba a változást be kell jegyezni.
 
 (10) Ha az ingatlan állami tulajdoni hányadot is tartalmazó közös tulajdonban vagy az állami tulajdonú ingatlan osztott vagyonkezelésben áll, a (4) bekezdés szerinti megnevezést, a (4) bekezdés a)–d) pontja szerinti szervek által vagyonkezelt hányad arányában kell nyilvántartani az azzal nem érintett ingatlanrész valós művelési ágba sorolása mellett.
+
+[^3]: A 15. § (2) bekezdés a) pontja a 24/2025. (II. 27.) Korm. rendelet 97. §-a szerint módosított szöveg.

@@ -22,7 +22,7 @@ b) végelszámolás;
 
 6. telekalakítási eljárás megindítása;
 
-7.[^10] bányászati célú szolgalom alapítására irányuló eljárás megindítása;
+7.[^11] bányászati célú szolgalom alapítására irányuló eljárás megindítása;
 
 8. részarány-földtulajdon helyének meghatározására irányuló eljárás megindítása;
 
@@ -106,7 +106,7 @@ b) helyrehozatali kötelezettség,
 
 c) beültetési kötelezettség;
 
-d)[^11] leállási kötelezettség;
+d)[^12] leállási kötelezettség;
 
 25. önkormányzati hatósági szerződésen alapuló településrendezési kötelezettség;
 
@@ -182,7 +182,7 @@ e) szervezeti-működési szabályzat benyújtása;
 
 49. biztonsági övezet fennállása;
 
-50.[^12] kutatási védőidom fennállása;
+50.[^13] kutatási védőidom fennállása;
 
 51. teljes eljárásban történő elbírálás;
 
@@ -192,15 +192,15 @@ e) szervezeti-működési szabályzat benyújtása;
 
 54. a közös tulajdon rendezésének kötelezettsége.
 
-55.[^13] tulajdonos hozzájárulásának hiánya miatti társasháztulajdonná való átalakítás iránti per megindítása;
+55.[^14] tulajdonos hozzájárulásának hiánya miatti társasháztulajdonná való átalakítás iránti per megindítása;
 
-56.[^14] az országos jelentőségű vasútvonallal érintett ingatlan tulajdonjogi viszonyainak rendezése iránti eljárás megindítása;
+56.[^15] az országos jelentőségű vasútvonallal érintett ingatlan tulajdonjogi viszonyainak rendezése iránti eljárás megindítása;
 
-57.[^15] változtatási tilalom.
+57.[^16] változtatási tilalom.
 
-[^10]: A 21. § 7. pontja a 287/2024. (IX. 30.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^11]: A 21. § 24. pont d) alpontját a 287/2024. (IX. 30.) Korm. rendelet 5. § (2) bekezdése iktatta be.
-[^12]: A 21. § 50. pontja a 287/2024. (IX. 30.) Korm. rendelet 23. § a) pontja szerint módosított szöveg.
-[^13]: A 21. § 55. pontját a 287/2024. (IX. 30.) Korm. rendelet 5. § (3) bekezdése iktatta be.
-[^14]: A 21. § 56. pontját a 287/2024. (IX. 30.) Korm. rendelet 5. § (3) bekezdése iktatta be.
-[^15]: A 21. § 57. pontját a 287/2024. (IX. 30.) Korm. rendelet 5. § (3) bekezdése iktatta be.
+[^11]: A 21. § 7. pontja a 287/2024. (IX. 30.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^12]: A 21. § 24. pont d) alpontját a 287/2024. (IX. 30.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^13]: A 21. § 50. pontja a 287/2024. (IX. 30.) Korm. rendelet 23. § a) pontja szerint módosított szöveg.
+[^14]: A 21. § 55. pontját a 287/2024. (IX. 30.) Korm. rendelet 5. § (3) bekezdése iktatta be.
+[^15]: A 21. § 56. pontját a 287/2024. (IX. 30.) Korm. rendelet 5. § (3) bekezdése iktatta be.
+[^16]: A 21. § 57. pontját a 287/2024. (IX. 30.) Korm. rendelet 5. § (3) bekezdése iktatta be.
