@@ -4,7 +4,7 @@
 
 | 2. | Országos Idegenrendészeti Főigazgatóság | – | – |
 
-2. melléklet a 154/2015. (VI. 19.) Korm. rendelethez[^71]
+2. melléklet a 154/2015. (VI. 19.) Korm. rendelethez[^74]
 
 A rendvédelmi szervek önálló állománytáblázattal rendelkező szervezeti egységei és az állományilletékes parancsnokok
 
@@ -100,50 +100,14 @@ VI. Országgyűlési Őrség
 
 | 2. | Országgyűlési Őrség | Országgyűlési Őrség parancsnoka |
 
-VII. Információs Hivatal
+VII.
 
-|  | A | B |
+VIII.
 
-| 1. | Önálló állománytáblázattal rendelkező szervezeti egység | Állományilletékes parancsnok |
+IX.
 
-| 2. | a 3. és 4. sorban foglaltak kivételével a főigazgató közvetlen alárendeltségében működő szervezeti elemek | főigazgató |
-
-| 3. | a főigazgató-helyettes közvetlen alárendeltségében működő szervezeti elem | főigazgató-helyettes |
-
-| 4. | az igazgató közvetlen alárendeltségében működő szervezeti elemek | igazgató |
-
-VIII. Alkotmányvédelmi Hivatal
-
-|  | A | B |
-
-| 1. | Önálló állománytáblázattal rendelkező szervezeti egység | Állományilletékes parancsnok |
-
-| 2. | a 3. és 4. sorban foglaltak kivételével a főigazgató közvetlen alárendeltségében működő szervezeti elemek | főigazgató |
-
-| 3. | a főigazgató-helyettes közvetlen alárendeltségében működő szervezeti elem | főigazgató-helyettes |
-
-| 4. | az igazgató közvetlen alárendeltségében működő szervezeti elemek | igazgató |
-
-IX. Nemzetbiztonsági Szakszolgálat
-
-|  | A | B |
-
-| 1. | Önálló állománytáblázattal rendelkező szervezeti egység | Állományilletékes parancsnok |
-
-| 2. | a 3. és 4. sorban foglaltak kivételével a főigazgató közvetlen alárendeltségében működő szervezeti elemek | főigazgató |
-
-| 3. | a főigazgató-helyettes közvetlen alárendeltségében működő szervezeti elem | főigazgató-helyettes |
-
-| 4. | az igazgató közvetlen alárendeltségében működő szervezeti elemek | igazgató |
-
-X. Nemzeti Információs Központ
-
-|  | A | B |
-
-| 1. | Önálló állománytáblázattal rendelkező szervezeti egység | Állományilletékes parancsnok |
-
-| 2. | Nemzeti Információs Központ | főigazgató |
+X.
 
 XI. Idegenrendészeti szerv
 
-[^71]: A 2. melléklet a 394/2015. (XII. 12.) Korm. rendelet 8. § (2) bekezdése, a 186/2016. (VII. 13.) Korm. rendelet 14. §-a, a 227/2016. (VII. 29.) Korm. rendelet 8. § b) pontja, a 350/2016. (XI. 18.) Korm. rendelet 20. § (3) bekezdés b) pontja, a 126/2019. (V. 30.) Korm. rendelet 24. § (2) bekezdése, a 308/2020. (VI. 30.) Korm. rendelet 2. § b) pontja, a 239/2022. (VI. 30.) Korm. rendelet 26. § b) pontja, a 616/2022. (XII. 29.) Korm. rendelet 212. § a) pontja, a 628/2022. (XII. 30.) Korm. rendelet 39. § (2) és (3) bekezdése szerint módosított szöveg.
+[^74]: A 2. melléklet a 394/2015. (XII. 12.) Korm. rendelet 8. § (2) bekezdése, a 186/2016. (VII. 13.) Korm. rendelet 14. §-a, a 227/2016. (VII. 29.) Korm. rendelet 8. § b) pontja, a 350/2016. (XI. 18.) Korm. rendelet 20. § (3) bekezdés b) pontja, a 126/2019. (V. 30.) Korm. rendelet 24. § (2) bekezdése, a 308/2020. (VI. 30.) Korm. rendelet 2. § b) pontja, a 239/2022. (VI. 30.) Korm. rendelet 26. § b) pontja, a 616/2022. (XII. 29.) Korm. rendelet 212. § a) pontja, a 628/2022. (XII. 30.) Korm. rendelet 39. § (2) és (3) bekezdése, a 24/2025. (II. 27.) Korm. rendelet 58. § e)–h) pontja szerint módosított szöveg.

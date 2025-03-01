@@ -16,16 +16,16 @@
 
 | 7. | Országgyűlési Őrség | „országgyűlési őr” | „ogy.” |
 
-| 8. | Információs Hivatal | „nemzetbiztonsági” | „nb.” |
+| 8. |  |  |  |
 
-| 9. | Alkotmányvédelmi Hivatal | „nemzetbiztonsági” | „nb.” |
+| 9. |  |  |  |
 
-| 10. | Nemzetbiztonsági Szakszolgálat | „nemzetbiztonsági” | „nb.” |
+| 10. |  |  |  |
 
-| 11. | Nemzeti Információs Központ | „nemzetbiztonsági” | „nb.” |
+| 11. |  |  |  |
 
 | 12. | Országos Idegenrendészeti Főigazgatóság | „rendőr” | „r.” |
 
-4. melléklet a 154/2015. (VI. 19.) Korm. rendelethez[^73]
+4. melléklet a 154/2015. (VI. 19.) Korm. rendelethez[^76]
 
-[^73]: A 4. melléklet a 394/2015. (XII. 12.) Korm. rendelet 8. § (3) bekezdése, a 217/2016. (VII. 22.) Korm. rendelet 52. §-a, a 272/2018. (XII. 20.) Korm. rendelet 5. §-a, a 280/2023. (VI. 29.) Korm. rendelet 40. §-a és 41. § c) pontja, a 206/2024. (VII. 29.) Korm. rendelet 7. § l) pontja szerint módosított szöveg.
+[^76]: A 4. melléklet a 394/2015. (XII. 12.) Korm. rendelet 8. § (3) bekezdése, a 217/2016. (VII. 22.) Korm. rendelet 52. §-a, a 272/2018. (XII. 20.) Korm. rendelet 5. §-a, a 280/2023. (VI. 29.) Korm. rendelet 40. §-a és 41. § c) pontja, a 206/2024. (VII. 29.) Korm. rendelet 7. § l) pontja, a 24/2025. (II. 27.) Korm. rendelet 57. § g) pontja szerint módosított szöveg.

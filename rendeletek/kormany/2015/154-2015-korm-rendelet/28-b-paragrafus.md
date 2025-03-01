@@ -1,4 +1,4 @@
-## 8/B.[^37] Hatósági kirendelés kormányzati igazgatási szervhez
+## 8/B.[^40] Hatósági kirendelés kormányzati igazgatási szervhez
 
 28/B. § (1) A Hszt. 288. § (13)–(30) bekezdése szerinti hatósági kirendeléssel érintett felek:
 
@@ -70,4 +70,4 @@ b) tájékoztatni kell a hatósági kirendeltet arról, hogy az ellátandó fela
 
 (13) A hatósági kirendelés időtartama alatt a Hszt. alapján szükséges munkáltatói intézkedéseket a vezénylő szerv készíti elő a kormányzati igazgatási szerv munkáltatói jogkört gyakorlója részére. Az előkészített munkáltatói intézkedés jogszerűségéért a vezénylő szerv felel. Az előkészített munkáltatói intézkedést a vezénylő szerv azon munkáltatói jogkört gyakorlója terjeszti elő a kormányzati igazgatási szerv munkáltatói jogkört gyakorlója részére, aki a hatósági kirendelést megelőző napon a hatósági kirendelt munkáltatói jogkörgyakorlója volt.
 
-[^37]: A 8/B. alcímet (28/B. §-t) a 206/2024. (VII. 29.) Korm. rendelet 5. §-a iktatta be.
+[^40]: A 8/B. alcímet (28/B. §-t) a 206/2024. (VII. 29.) Korm. rendelet 5. §-a iktatta be.

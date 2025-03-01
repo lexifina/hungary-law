@@ -1,4 +1,4 @@
-## 8/A.[^36] Hatósági vezénylés kormányzati igazgatási szervhez
+## 8/A.[^39] Hatósági vezénylés kormányzati igazgatási szervhez
 
 28/A. § (1) A Hszt. 79/A. §-a szerinti hatósági vezényléssel érintett felek:
 
@@ -74,4 +74,4 @@ b) tájékoztatni kell a hatósági vezényeltet arról, hogy az ellátandó fel
 
 (14) A hatósági vezénylés időtartama alatt a Hszt. alapján szükséges munkáltatói intézkedéseket a vezénylő szerv készíti elő a kormányzati igazgatási szerv munkáltatói jogkört gyakorlója részére. Az előkészített munkáltatói intézkedés jogszerűségéért a vezénylő szerv felel. Az előkészített munkáltatói intézkedést a vezénylő szerv azon munkáltatói jogkört gyakorlója terjeszti elő a kormányzati igazgatási szerv munkáltatói jogkört gyakorlója részére, aki a hatósági vezénylést megelőző napon a hatósági vezényelt állományilletékes parancsnoka volt.
 
-[^36]: A 8/A. alcímet (28/A. §-t) a 206/2024. (VII. 29.) Korm. rendelet 4. §-a iktatta be.
+[^39]: A 8/A. alcímet (28/A. §-t) a 206/2024. (VII. 29.) Korm. rendelet 4. §-a iktatta be.

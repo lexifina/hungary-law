@@ -31,3 +31,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-154-20-
 | 2024-10-01 | 2015-154-20-22.22 | 394/2015. (XII. 12.) Korm. rendelet |
 | 2024-11-01 | 2015-154-20-22.24 | 394/2015. (XII. 12.) Korm. rendelet |
 | 2025-02-01 | 2015-154-20-22.25 | 394/2015. (XII. 12.) Korm. rendelet |
+| 2025-03-01 | 2015-154-20-22.26 | 24/2025. (II. 27.) Korm. rendelet |

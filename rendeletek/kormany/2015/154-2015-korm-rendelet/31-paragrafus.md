@@ -1,4 +1,4 @@
-31. § (1)[^39] A Hszt. 68. § (3) bekezdésében meghatározott rendészeti felsőoktatási illetménykiegészítés mértékét az NKE Fenntartójának egyetértésével, úgy kell megállapítani, hogy az azzal kiegészített – idegennyelv-tudási pótlék nélkül számított – illetmény
+31. § (1)[^42] A Hszt. 68. § (3) bekezdésében meghatározott rendészeti felsőoktatási illetménykiegészítés mértékét az NKE Fenntartójának egyetértésével, úgy kell megállapítani, hogy az azzal kiegészített – idegennyelv-tudási pótlék nélkül számított – illetmény
 
 a) rektor esetében legfeljebb a rendvédelmi illetményalap huszonnyolcszorosa,
 
@@ -14,7 +14,7 @@ f) egyéb vezetői munkakört betöltő esetében legfeljebb a rendvédelmi ille
 
 lehet.
 
-(2)[^40] Az (1) bekezdésben nem említett oktatói, nevelői munkakört ellátó vezényelt részére a kimagasló szakmai tudás és tevékenység elismeréseként az NKE Fenntartójának egyetértésével megállapított rendészeti felsőoktatási illetménykiegészítés nem haladhatja meg a rendvédelmi illetményalap négyszeresét.
+(2)[^43] Az (1) bekezdésben nem említett oktatói, nevelői munkakört ellátó vezényelt részére a kimagasló szakmai tudás és tevékenység elismeréseként az NKE Fenntartójának egyetértésével megállapított rendészeti felsőoktatási illetménykiegészítés nem haladhatja meg a rendvédelmi illetményalap négyszeresét.
 
-[^39]: A 31. § (1) bekezdés nyitó szövegrésze a 272/2018. (XII. 20.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
-[^40]: A 31. § (2) bekezdése a 272/2018. (XII. 20.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^42]: A 31. § (1) bekezdés nyitó szövegrésze a 272/2018. (XII. 20.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^43]: A 31. § (2) bekezdése a 272/2018. (XII. 20.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
