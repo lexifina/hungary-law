@@ -14,7 +14,7 @@
 
 7.
 
-8.
+8. 96. § (3) bekezdés h) pontjában a „szerv” szövegrész helyébe a „szerv és a polgári nemzetbiztonsági szolgálat” szöveg,
 
 9.
 
