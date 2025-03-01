@@ -1,0 +1,1 @@
+6/F. § A 3. mellékletben foglalt táblázat 62–70. sorában meghatározott ingatlanok tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas háromoldalú szerződést a tulajdonosi joggyakorló, az Országos Mozgásszervi Intézet köti meg az Egyetemmel.
