@@ -46,7 +46,7 @@
 
 11. a szakképzési centrum működésének szabályait, a főigazgató, az igazgató és a kancellár feladat- és hatásköreit,
 
-12. a honvédségi szakképző intézményre és a rendvédelmi szakképző intézményre vonatkozó sajátos szabályokat,
+12. a honvédségi szakképző intézményre, a rendvédelmi szakképző intézményre és a nemzetbiztonsági szakképző intézményre vonatkozó sajátos szabályokat,
 
 13. a fenntartó feladatait és irányítási hatásköreit, valamint a nemzetiségi önkormányzat által alapított szakképző intézménnyel kapcsolatosan az érintett nemzetiségi önkormányzat egyetértése vagy véleményének kikérése esetköreit,
 
