@@ -1,6 +1,6 @@
 ## 2. § Az engedélyezési eljárás kérelemre indul, amelyet elbírálás céljából a kérelmező szervezet telephelyenként nyújt be. A kérelemről a telephely szerint illetékes közlekedési hatóság dönt.
 
-2/A. §[^6] (1) Az országos lefedettséget biztosító műszaki vizsgálóállomás elismerése iránti kérelemről a közlekedésért felelős miniszter dönt.
+2/A. §[^7] (1) Az országos lefedettséget biztosító műszaki vizsgálóállomás elismerése iránti kérelemről a közlekedésért felelős miniszter dönt.
 
 (2) A kérelem legalább a következőket tartalmazza:
 
@@ -10,9 +10,9 @@ b) az országosan működtetett és a közlekedési hatóság érvényes engedé
 
 c) a kérelem benyújtását megelőző egy naptári év tekintetében a b) pont szerinti vizsgálóállomások tevékenysége szüneteltetésének napjait.
 
-(3)[^7] Ha az országos lefedettséget biztosító műszaki vizsgálóállomást működtető szervezet minden vármegyében és a fővárosban (a továbbiakban: közigazgatási terület) legalább egy, a közlekedési hatóság engedélyével rendelkező műszaki vizsgálóállomást működtet, – úgy, hogy egy időben legfeljebb két közigazgatási területen nem teljesíti a feltételt – a szervezetet országos lefedettséget biztosító műszaki vizsgálóállomásként kell elismerni.
+(3)[^8] Ha az országos lefedettséget biztosító műszaki vizsgálóállomást működtető szervezet minden vármegyében és a fővárosban (a továbbiakban: közigazgatási terület) legalább egy, a közlekedési hatóság engedélyével rendelkező műszaki vizsgálóállomást működtet, – úgy, hogy egy időben legfeljebb két közigazgatási területen nem teljesíti a feltételt – a szervezetet országos lefedettséget biztosító műszaki vizsgálóállomásként kell elismerni.
 
-(3a)[^8] Az országos lefedettséget biztosító műszaki vizsgálóállomást működtető szervezet az elismeréshez kapcsolódó tevékenységét hatályos hatósági elismerés alapján, a 9. § (2) bekezdése szerinti engedélyezési eljárás lefolytatása nélkül végzi.
+(3a)[^9] Az országos lefedettséget biztosító műszaki vizsgálóállomást működtető szervezet az elismeréshez kapcsolódó tevékenységét hatályos hatósági elismerés alapján, a 9. § (2) bekezdése szerinti engedélyezési eljárás lefolytatása nélkül végzi.
 
 (4) Az elismerés a döntés véglegessé válásától számított egy évig érvényes, amely évenként meghosszabbítható, ha az elismerésre vonatkozó feltételek nem változtak.
 
@@ -28,9 +28,9 @@ b) azt az országos lefedettséget biztosító műszaki vizsgálóállomás kér
 
 c) az (5) bekezdésben előírt bejelentési kötelezettségének az országos lefedettséget biztosító műszaki vizsgálóállomás nem tesz eleget,
 
-d)[^9] a közlekedési hatóság ellenőrzése során megállapítást nyert, hogy az országos lefedettséget biztosító műszaki vizsgálóállomások részét képező műszaki vizsgálóállomások bármelyike a 12. § a), c), d) vagy f) pontja szerinti jogsértést az első megszegéstől számított 2 éven belül további 4 esetben elkövette, vagy a vizsgálatok során a mérőműszereket jogellenesen befolyásolta, vagy szándékosan valótlan adatot rögzített.
+d)[^10] a közlekedési hatóság ellenőrzése során megállapítást nyert, hogy az országos lefedettséget biztosító műszaki vizsgálóállomások részét képező műszaki vizsgálóállomások bármelyike a 12. § a), c), d) vagy f) pontja szerinti jogsértést az első megszegéstől számított 2 éven belül további 4 esetben elkövette, vagy a vizsgálatok során a mérőműszereket jogellenesen befolyásolta, vagy szándékosan valótlan adatot rögzített.
 
-[^6]: A 2/A. §-t a 722/2020. (XII. 31.) Korm. rendelet 37. §-a iktatta be.
-[^7]: A 2/A. § (3) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 259. §-a szerint módosított szöveg.
-[^8]: A 2/A. § (3a) bekezdését a 789/2021. (XII. 27.) Korm. rendelet 60. §-a iktatta be.
-[^9]: A 2/A. § (7) bekezdés d) pontja a 613/2023. (XII. 22.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^7]: A 2/A. §-t a 722/2020. (XII. 31.) Korm. rendelet 37. §-a iktatta be.
+[^8]: A 2/A. § (3) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 259. §-a szerint módosított szöveg.
+[^9]: A 2/A. § (3a) bekezdését a 789/2021. (XII. 27.) Korm. rendelet 60. §-a iktatta be.
+[^10]: A 2/A. § (7) bekezdés d) pontja a 613/2023. (XII. 22.) Korm. rendelet 6. §-ával megállapított szöveg.
