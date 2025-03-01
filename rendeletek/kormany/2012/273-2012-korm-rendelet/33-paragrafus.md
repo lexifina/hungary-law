@@ -1,3 +1,3 @@
-33. §[^104]
+33. §[^105]
 
-[^104]: A 33. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^105]: A 33. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

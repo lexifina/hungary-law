@@ -28,7 +28,7 @@ l) továbbképzési programjegyzék: a közszolgálati továbbképzési és bels
 
 m) továbbképzési programminősítés: továbbképzési programok megfelelőségének vizsgálata a minőségirányítási szabályzat és a szakmai követelményrendszer feltételei alapján.
 
-(2) E rendeletben meghatározott továbbképzési programjegyzéken szereplő minősített programok a honvédelmi és rendvédelmi szerveknél foglalkoztatottak képzése esetén igénybe vehetők.
+(2)[^12] E rendeletben meghatározott továbbképzési programjegyzéken szereplő minősített programok a honvédelmi és rendvédelmi szerveknél foglalkoztatottak, valamint a polgári nemzetbiztonsági szolgálat személyi állományának képzése esetén igénybe vehetők.
 
 (3) A nemzetközi kötelezettség teljesítéséhez kapcsolódó speciális szakmai ismeretek, készségek megszerzésére irányuló kül- és belföldi képzésre, illetve nemzetközi konferenciára, tanulmányútra a belső továbbképzési programra vonatkozó szabályokat kell alkalmazni.
 
@@ -36,3 +36,4 @@ m) továbbképzési programminősítés: továbbképzési programok megfelelős�
 [^9]: A 2. § (1) bekezdés a) pontját a 13/2020. (II. 7.) Korm. rendelet 76. § 1. pontja hatályon kívül helyezte.
 [^10]: A 2. § (1) bekezdés b) pontja a 13/2020. (II. 7.) Korm. rendelet 75. § 1. pontja szerint módosított szöveg.
 [^11]: A 2. § (1) bekezdés d) pontja a 13/2020. (II. 7.) Korm. rendelet 75. § 2. pontja szerint módosított szöveg.
+[^12]: A 2. § (2) bekezdése a 24/2025. (II. 27.) Korm. rendelet 41. §-a szerint módosított szöveg.
