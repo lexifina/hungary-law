@@ -1,1 +1,1 @@
-### 12. §
+12. § A klímavédelemért felelős hatóság megkeresésére az állami adó- és vámhatóság megküldi a vámtitkot képező adatot, ha az az ügyfél személyének vagy a vámhatósági eljárásban érintett anyagok, keverékek azonosításához vagy a klímavédelemért felelős hatóság engedélyezési, ellenőrzési, felügyeleti és nyilvántartási feladatának ellátásához szükséges.

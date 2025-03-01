@@ -12,20 +12,20 @@ d)
 
 e)
 
-f)
+f) 10/A–10/F. §-a,
 
-g)
+g) 10/G. § (1)–(2g) bekezdése,
 
-h)
+h) 10/G. § (5)–(6) bekezdése,
 
-i)
+i) 10/H–10/J. §-a,
 
 j)
 
-k)
+k) 14. § (5) bekezdés k)–p) pontja,
 
-l)
+l) 14. § (5) bekezdés r)–t) pontja,
 
-m)
+m) 14. § (6) bekezdés b)–d) pontja,
 
-n)
+n) 17. § (2) bekezdés c) és d) pontja.

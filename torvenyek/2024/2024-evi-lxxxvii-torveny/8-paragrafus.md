@@ -1,1 +1,1 @@
-### 8. §
+8. § A klímagázokkal töltött alkalmazások Magyarország területén való gyártása és Magyarország területére történő behozatala során a gyártóknak és az importőröknek az uniós jogi aktusokban előírtak szerint kell eljárniuk azzal, hogy a klímavédelemért felelős hatóság által üzemeltetett adatbázisban regisztrációs, adatszolgáltatási és jelentéstételi kötelezettségüknek kötelesek eleget tenni a 11. §-ban és az e törvény végrehajtására kiadott kormányrendeletben meghatározott adattartalommal és módon.
