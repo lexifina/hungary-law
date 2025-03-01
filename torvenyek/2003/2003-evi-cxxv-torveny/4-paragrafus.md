@@ -8,7 +8,7 @@ b) a helyi és kisebbségi önkormányzatok, ezek szervei,
 
 c) a hatósági jogkört gyakorló szervezetek,
 
-d) a Magyar Honvédség és a rendvédelmi szervek,
+d) a Magyar Honvédség, a nemzetbiztonsági szolgálatok és a rendvédelmi szervek,
 
 e) a közalapítványok, a köztestületek, valamint munkavállalók és munkáltatók érdekképviseleti szervezetei
 
