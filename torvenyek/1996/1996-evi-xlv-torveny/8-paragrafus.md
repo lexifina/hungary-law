@@ -1,3 +1,3 @@
 ## Az oktatók jogai és kötelességei
 
-8. §
+### 8. §

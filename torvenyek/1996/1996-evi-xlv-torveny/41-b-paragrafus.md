@@ -1,3 +1,3 @@
 ## A megváltozott munkaképességűek védelme
 
-41/B. §
+### 41/B. §

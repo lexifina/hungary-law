@@ -1,3 +1,3 @@
 ## A baleseti rokkantsági nyugdíj
 
-41/L. §
+### 41/L. §

@@ -2,7 +2,7 @@
 
 32. § (1) A kettős jogállású hallgató szolgálati jogviszonyból eredő jogaira és kötelességeire a Hszt. az irányadó.
 
-(2) A kettős jogállású hallgató esetén e törvény 22. §-át nem kell alkalmazni, a hallgató fegyelmi és kártérítési felelősségére a Hszt. szabályai az irányadóak.
+(2) A kettős jogállású hallgató esetén e törvény 22. §-át nem kell alkalmazni, a hallgató fegyelmi és kártérítési felelősségére a Hszt. vagy a Pnbjt. szabályai az irányadóak.
 
 (3) A kettős jogállású hallgató intézményt vagy szakot a kinevezési parancs szerinti fegyveres szerv engedélyével változtathat.
 

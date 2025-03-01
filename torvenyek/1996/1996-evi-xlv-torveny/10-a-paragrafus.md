@@ -1,3 +1,3 @@
 ## A vezetőkre vonatkozó külön szabályok
 
-10/A. §
+### 10/A. §

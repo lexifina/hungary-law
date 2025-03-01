@@ -4,4 +4,4 @@
 
 ## A hallgató által fizetendő térítési díjak
 
-35–36. §
+### 35. §

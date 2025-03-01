@@ -1,3 +1,3 @@
 ## A baleseti járadék
 
-41/K. §
+### 41/K. §

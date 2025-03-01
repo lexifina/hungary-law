@@ -4,4 +4,4 @@
 
 ## Hallgatói jogviszony
 
-15. §
+### 15. §

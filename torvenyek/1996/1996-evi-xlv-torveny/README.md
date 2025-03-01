@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-45-00-00
 | 2015-07-01 | 2015. évi XLII. törvény | 1996-45-00-00.25 |
 | 2017-01-01 | 2016. évi CIV. törvény | 1996-45-00-00.26 |
 | 2019-02-01 | 2018. évi CXV. törvény | 1996-45-00-00.27 |
+| 2025-03-01 | 2024. évi LXXI. törvény | 1996-45-00-00.28 |

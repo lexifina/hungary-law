@@ -1,3 +1,3 @@
 ## Egyes rendelkezések alkalmazásának kizárása
 
-48. §
+### 48. §

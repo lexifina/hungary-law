@@ -4,4 +4,4 @@
 
 ## A honvéd tisztjelölt ösztöndíja
 
-41/A. §
+### 41/A. §

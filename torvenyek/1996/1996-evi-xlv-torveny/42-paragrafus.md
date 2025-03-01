@@ -4,4 +4,4 @@
 
 ## A hallgató által fizetendő tandíj
 
-42. §
+### 42. §

@@ -1,3 +1,3 @@
 ## Honvéd tisztjelölt
 
-34/A. §
+### 34/A. §
