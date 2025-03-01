@@ -1,5 +1,3 @@
-## 3. § A légvédelmi készenléti valós repülés végrehajtásáról az MH légi vezetéséért és irányításáért felelős szerve a katonai légügyi hatóságot azonnal tájékoztatja. Ha az elfogott légijármű magyarországi repülőtéren történő leszállítása indokolt, az MH légi vezetéséért és irányításáért felelős szerve a rendvédelmi szervek kiértesítésére haladéktalanul intézkedik.
-
 4. § (1) A légvédelmi készenléti szolgálat riasztásból eredő költség megtérítésének a légiközlekedési hatóság által hatósági eljárásban megállapított légiközlekedési szabályok megszegése esetén van helye.
 
 (2) A légiközlekedési hatóság a légiközlekedésre vonatkozó szabályok megsértése miatt indult eljárásában hozott döntéséről a katonai légügyi hatóságot tájékoztatja, továbbá az eljárás lezárását követően az ügy érdemében keletkezett alábbi iratokat, adatokat azok rendelkezésre állása esetén megküldi:
