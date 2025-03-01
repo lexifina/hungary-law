@@ -36,6 +36,6 @@ c) a külön jogszabályban meghatározott tervezési programot;
 
 d) a tervezési feladat tárgyát képező építési beruházásra (építményre) vonatkozó árazott költségvetés elkészítésére való utalást;
 
-e)[^4]
+e)[^5]
 
-[^4]: A 6. § (2) bekezdés e) pontját a 285/2024. (IX. 30.) Korm. rendelet 112. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^5]: A 6. § (2) bekezdés e) pontját a 285/2024. (IX. 30.) Korm. rendelet 112. § (2) bekezdés a) pontja hatályon kívül helyezte.
