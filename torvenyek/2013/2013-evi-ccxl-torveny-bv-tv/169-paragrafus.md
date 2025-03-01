@@ -6,7 +6,7 @@
 
 a) kimaradásra és eltávozásra nem mehet,
 
-b) a védőjével való kapcsolattartást kivéve nem telefonálhat és nem levelezhet,
+b) a védőjével való kapcsolattartást kivéve nem telefonálhat, telekommunikációs eszköz útján nem tarthat kapcsolatot és nem levelezhet,
 
 c) nem küldhet, és nem kaphat csomagot,
 

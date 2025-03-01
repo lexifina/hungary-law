@@ -29,3 +29,11 @@ idézik.
 (6a) A (3)–(5) bekezdésben meghatározott esetben, továbbá ha az elítélt az előállítás költségeit nem tudja megelőlegezni, és azt kellő időben kezdeményezi, a bv. intézet az elítélt meghallgatását elektronikus hírközlő hálózat, illetve telekommunikációs eszköz útján biztosítja, ha a személyes jelenlét ily módon történő biztosításáról az eljáró bíróság vagy hatóság rendelkezett, és az a tárgyalásra vagy meghallgatásra kitűzött határnapon technikailag kivitelezhető.
 
 (7) A bírósági ügyekben való előállításra vonatkozó szabályokat a közjegyzői eljárásra is megfelelően alkalmazni kell.
+
+(8) Az (1) bekezdés a) és b) pontja szerinti esetben, ha a büntető ügyben eljáró bíróság az elítéltet több egymást követő napra személyes megjelenéssel idézi, és a bíróság székhelye szerinti vármegyében
+
+a) nincsen bv. intézet vagy
+
+b) a bv. intézet a bíróság székhelyétől távolabb helyezkedik el, mint a rendőrségi fogda,
+
+az elítélt az idézésben megjelölt munkanapokon a bíróság székhelye szerinti vármegyében lévő rendőrségi fogdán elhelyezhető.

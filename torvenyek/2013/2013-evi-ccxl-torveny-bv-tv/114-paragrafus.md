@@ -6,6 +6,12 @@
 
 (4) Ha az elítélt kiadása a rendőrségi fogdán történő elhelyezéssel jár, úgy azt az illetékes ügyészség legfeljebb hatvan napra engedélyezheti. A határozattal szemben panasznak nincs helye.
 
+(4a) A 113. § (8) bekezdésében meghatározott célból az elítélt rendőrségi fogdán történő elhelyezéssel járó kiadása külön engedélyező határozat nélkül, a bv. intézet parancsnokának és a fogda parancsnokának előzetes egyeztetése alapján végrehajtható. Az elítéltet a fogdán történő elhelyezéséről előzetesen tájékoztatni kell. Az elítélt e célból történő kiadása esetén az elítéltet hétvégére, valamint a munkaszüneti napra a bv. intézetbe vissza kell szállítani.
+
+(4b) A (4a) bekezdésben meghatározott esetben az elítéltet az első személyes megjelenéssel járó eljárási cselekmény lefolytatását követően a további napokra történő előállítás végrehajtása céljából a bíróság székhelye szerint illetékes rendőrségi fogdán át kell adni a rendőrség részére. Az elítéltnek az utolsó személyes megjelenéssel járó eljárási cselekményre történő előállítása és a bv. intézetbe visszaszállítása a végrehajtást foganatosító bv. intézet feladata.
+
+(4c) Az elítélt a rendőrségi fogdán történő elhelyezéssel járó kiadás időtartama alatt a jogszabályban meghatározott tárgyakat viheti magával, továbbá a védőn, államának konzuli tisztségviselőjén, valamint az egyházi személyen és a vallási egyesület vallásos szertartást hivatásszerűen végző tagján kívül más személlyel nem tarthat kapcsolatot. A kiadás folytán elmaradt kategória-besorolás alapján járó, engedélyezett kapcsolattartást és a személyes szükségleteire szolgáló vásárlást pótolni kell, az elítélt részére ez idő alatt érkezett levelet és csomagküldeményt legkésőbb a visszafogadást követő munkanapon át kell adni.
+
 (5) A kiadás nem teljesíthető, ha
 
 a) az elítélt szabadulása esedékes,

@@ -28,13 +28,7 @@ felfüggesztheti, és ha az elítélt ez idő alatt jó magaviseletet tanúsít,
 
 (9) Jogszabályban meghatározott kivétellel kategória-előresorolásra első alkalommal a szabadságvesztés végrehajtásának megkezdésétől számított egy év elteltével kerülhet sor, ha az elítélt ezen időszak alatt legalább hét kreditpontot szerzett oly módon, hogy a második hathavi összesítés időszakában is szerzett legalább három kreditpontot. Ez utóbbi feltételnek minden további kategória-előresorolás esetén teljesülnie kell.
 
-(10) Ha az összesítés eredményeként az elítélt elérte
-
-a) a kategória-előresoroláshoz szükséges kreditpontok hetvenöt százalékát, vagy
-
-b) tizenöt évet meghaladó szabadságvesztés esetén a kategória-előresoroláshoz szükséges kreditpontok ötven százalékát
-
-az együttműködési készségére és a reintegrációs tevékenységben való előrehaladására figyelemmel a BFB méltányosságból előresorolhatja, amely esetben a hiányzó kreditpontokat jóváírja.
+(10) Ha az összesítés eredményeként az elítélt elérte a kategória-előresoroláshoz szükséges kreditpontok ötven százalékát, az együttműködési készségére és a reintegrációs tevékenységben való előrehaladására figyelemmel a BFB méltányosságból előresorolhatja, amely esetben a hiányzó kreditpontokat jóváírja.
 
 (11) Ha az elítélt a 97. § (4) bekezdése alkalmazásával a kezdeti kategória-besoroláskor eggyel szigorúbb kategóriába került, egy év elteltével a BFB az összesítéskor a szigorúbb kezdeti kategória-besorolás megalapozottságát is felülvizsgálja, és az elítélt magatartása, együttműködési készsége, illetve reintegrációs tevékenységben való részvétele alapján
 

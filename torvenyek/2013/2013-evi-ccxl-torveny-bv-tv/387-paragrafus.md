@@ -1,6 +1,6 @@
 387. § (1) A letartóztatott a büntetőeljárási jogait korlátozás nélkül gyakorolhatja.
 
-(2) A letartóztatást a bíróságnak a tárgyalás előkészítése során hozott határozatáig az ügyészség, ezt követően a bíróság (a továbbiakban: rendelkezési jogkör gyakorlója) rendelkezésének megfelelően kell végrehajtani.
+(2) A letartóztatást a rendelkezési jogkör gyakorlója rendelkezésének megfelelően kell végrehajtani.
 
 (3) A végrehajtásért felelős szerv a letartóztatottat
 

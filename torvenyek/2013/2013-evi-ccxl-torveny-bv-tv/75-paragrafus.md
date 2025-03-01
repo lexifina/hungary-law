@@ -1,6 +1,6 @@
 ## A fenyítés felülvizsgálata
 
-75. § (1) A bv. intézet magánelzárás fenyítést kiszabó határozatával szembeni bírósági felülvizsgálati kérelmet a büntetés-végrehajtási bíró az iratnak a hozzá érkezésétől számított öt napon belül bírálja el. A büntetés-végrehajtási bíró a felülvizsgálat során a magánelzárás fenyítéssel járó kreditpontlevonás mértékét is vizsgálja.
+75. § (1) A bv. intézet magánelzárás fenyítést kiszabó határozatával szembeni bírósági felülvizsgálati kérelmet a büntetés-végrehajtási bíró az iratnak a hozzá érkezésétől számított öt napon belül bírálja el. A büntetés-végrehajtási bíró a felülvizsgálat során a magánelzárás fenyítéssel járó kreditpontlevonás mértékét is vizsgálja, és amelytől a jogszabályban meghatározott keretek között eltérhet.
 
 (2) A bűnügyi költséget az állam viseli.
 

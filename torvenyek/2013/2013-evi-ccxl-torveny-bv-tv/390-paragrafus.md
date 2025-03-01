@@ -2,11 +2,11 @@
 
 390. § (1) A büntetőeljárás szakaszától függően a rendelkezési jogkör gyakorlója dönthet a letartóztatott
 
-a) 173. § (1) bekezdés a)–d) pontja szerinti kapcsolattartásának engedélyezéséről, korlátozásáról vagy ellenőrzésének módjáról, illetve megtiltásáról a büntetőeljárás eredményessége vagy más személy életének, testi épségének védelme érdekében,
+a) 173. § (1) bekezdés a)–d) pontja szerinti kapcsolattartásának engedélyezéséről, korlátozásáról vagy ellenőrzésének módjáról, illetve megtiltásáról a bizonyítás megnehezítésének vagy meghiúsításának, vagy a bűnismétlés lehetőségének megakadályozása érdekében,
 
 b) a 391. § (1) bekezdés c) pontja szerinti elkülönítéséről,
 
-c) fokozott őrzéséről,
+c) szökésének vagy elrejtőzésének veszélye esetén a fokozott őrzéséről,
 
 d) előállításáról, a fogva tartó intézetben való kihallgatásáról, a nyomozó szervek részére történő kiadásáról,
 

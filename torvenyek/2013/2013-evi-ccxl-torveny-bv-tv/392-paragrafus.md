@@ -14,7 +14,7 @@ d) zárkáját zárva kell tartani, kivéve a munkáltatásban részt vevő eset
 
 e) magánál tartható tárgyainak köre és mennyisége korlátozható.
 
-(3) A letartóztatást az általános szabályok szerint kell végrehajtani, de a parancsnok az enyhébb vagy szigorúbb szabályok alkalmazását is elrendelheti.
+(3) A letartóztatást az általános rezsimszabályok szerint kell végrehajtani. A BFB a befogadáskor a letartóztatott fogvatartási kockázata alapján az enyhébb vagy a szigorúbb rezsimbe sorolásáról dönthet, továbbá hathavonta – a fogvatartásért felelős szakterületek bevonásával – elvégzi a rezsimbe sorolás felülvizsgálatát. Az enyhébb és a szigorúbb rezsimbe sorolásról, továbbá annak megváltoztatásáról a BFB határozattal dönt. A BFB a megváltoztatás során – a 95. § (8) bekezdésében meghatározott fegyelemsértés kivételével – eggyel kedvezőbb vagy eggyel kedvezőtlenebb rezsimbe sorolásról dönthet.
 
 (4) Ha a BFB a letartóztatottat kérelmére oktatásban, képzésben, illetve speciális programban való részvételre osztotta be, az elhelyezés kivételesen zárt részlegen lévő lakóhelyiségben is biztosítható. A rendelkezési jogkör gyakorlója rendelkezését ebben az esetben is be kell tartani.
 
@@ -61,5 +61,7 @@ e) magánál tartható tárgyainak köre és mennyisége a fogva tartó intézet
 f) saját ruházata viselésének joga a fogva tartó intézet területén biztonsági szempontból korlátozható.
 
 (7a) A fogvatartás biztonságának fenntartása érdekében az egyes rezsimeken belül a letartóztatott őrzésére, felügyeletére, ellenőrzésére, bv. intézeten belüli mozgására, látogatónak biztonsági beszélőfülkében történő fogadására, közös kulturális vagy sportrendezvényen, oktatásban vagy képzésben, vallási szertartáson való részvételére, előállítására vagy szállítására vonatkozó biztonsági előírások szigorúbbak lehetnek.
+
+(7b) Halaszthatatlan esetben a letartóztatott rezsimbe sorolásának akár kétszeres visszasorolásáról a bv. intézet parancsnoka is határozhat. Halaszthatatlan az eset, ha a letartóztatottal szemben a fegyelmi eljárást a 95. § (8) bekezdésében meghatározott fegyelemsértés miatt elrendelik.
 
 (8) A fogva tartó intézet a letartóztatás lejártának idejét nyilvántartja.

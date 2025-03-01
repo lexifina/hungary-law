@@ -8,6 +8,8 @@ c) kétnaponként telefonkészülék használatára hívás céljából, tovább
 
 d) legalább hetenként csomag küldésére és fogadására.
 
+e) havonta három alkalommal, alkalmanként hatvan perc időtartamban telekommunikációs eszköz útján történő kapcsolattartásra.
+
 (2) Az (1) bekezdés szerinti kapcsolattartásról az IMEI főigazgató főorvosa – az IMEI biztonságára, valamint a beteg állapotára figyelemmel – dönt.
 
 (3) A beteg állapotára tekintettel a látogatás későbbi időpontra halasztható, vagy soron kívüli látogatás engedélyezhető.

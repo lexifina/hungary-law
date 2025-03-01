@@ -16,7 +16,7 @@ d) törvényben meghatározott egyéb ok.
 
 (2) Az intézkedés végrehajtását kizárja:
 
-a) az elkobzás, a vagyonelkobzás és az elektronikus adat végleges hozzáférhetetlenné tétele kivételével az elítélt, illetve annak a személynek a halála, akivel szemben az intézkedést elrendelték,
+a) az elkobzás, a vagyonelkobzás, az elektronikus adat végleges hozzáférhetetlenné tétele és a tárhelyszolgáltatás megszüntetése kivételével az elítélt, illetve annak a személynek a halála, akivel szemben az intézkedést elrendelték,
 
 b) az elévülés,
 

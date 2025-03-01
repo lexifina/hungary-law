@@ -6,9 +6,9 @@
 
 (3) A csomag a bv. intézet, valamint a fogvatartás biztonsága érdekében ellenőrizhető, ennek lehetőségéről az elítéltet tájékoztatni kell.
 
-(4) A bv. szerv területén kívülről érkező csomagban élelmiszer, tisztálkodási szer, dohánytermék, valamint – a (7) bekezdésben meghatározott kivétellel – gyógyszer, gyógyászati segédeszköz vagy gyógyhatású készítmény nem küldhető, erre az elítélt és a kapcsolattartásra jogosult figyelmét fel kell hívni. Egyebekben a csomag mindazokat a tárgyakat tartalmazhatja, amelyeket az elítélt engedéllyel magánál tarthat.
+(4) A bv. szerv területén kívülről érkező csomagban élelmiszer, jogszabályban meghatározott tisztasági felszerelés dohánytermék, valamint – a (7) bekezdésben meghatározott kivétellel – gyógyszer, gyógyászati segédeszköz vagy gyógyhatású készítmény nem küldhető, erre az elítélt és a kapcsolattartásra jogosult figyelmét fel kell hívni. Egyebekben a csomag mindazokat a tárgyakat tartalmazhatja, amelyeket az elítélt engedéllyel magánál tarthat.
 
-(5) Az elítélt kapcsolattartója az élelmiszert, tisztálkodási szert, dohányterméket tartalmazó csomagot ellenérték megfizetése mellett a bv. intézet területén működő, a személyes szükségletekre fordítható összeg levásárlására kijelölt üzletben állíttathatja össze jogszabályban meghatározott módon. Az ilyen csomag fogadása beleszámít a (2) bekezdésben meghatározott gyakoriságba.
+(5) Az elítélt kapcsolattartója az élelmiszert, tisztasági felszerelést dohányterméket tartalmazó csomagot ellenérték megfizetése mellett a bv. intézet területén működő, a személyes szükségletekre fordítható összeg levásárlására kijelölt üzletben állíttathatja össze jogszabályban meghatározott módon. Az ilyen csomag fogadása beleszámít a (2) bekezdésben meghatározott gyakoriságba.
 
 (6) Ha az elítélt nem kap csomagot, a bv. intézet parancsnoka engedélyezheti, hogy az elítélt a letéti pénzéből – a személyes szükségleteire egyébként fordítható összegen felül – a csomag tartalmára vonatkozó szabályok figyelembevételével vásároljon.
 

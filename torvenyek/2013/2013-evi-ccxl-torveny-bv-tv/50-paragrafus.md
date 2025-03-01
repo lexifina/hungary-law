@@ -4,7 +4,7 @@
 
 a) egyesbíróként jár el,
 
-b) az e törvényben meghatározott esetekben iratok alapján hozhatja meg a döntést, ez esetben beszerezheti az ügyészség és az elítélt nyilatkozatát, aminek a megtételére tizenöt napos határidővel adja ki a felhívást; egyéb esetekben, vagy ha azt szükségesnek tartja, az elítéltet meghallgatja, bizonyítás felvétele esetén tárgyalást tart; nem minősül bizonyítás felvételének az okirati bizonyíték vagy irat beszerzése, becsatolása, illetve azok ismertetése a meghallgatáson; az ügyészség és a védő az elítélt meghallgatásán jelen lehet, a tárgyaláson az ügyészség és a védő jelenléte kötelező, a végrehajtásért felelős szerv képviselője a meghallgatáson vagy a tárgyaláson jelen lehet és felszólalhat,
+b) az e törvényben meghatározott esetekben iratok alapján hozhatja meg a döntést, ez esetben beszerezheti az ügyészség és az elítélt nyilatkozatát, aminek a megtételére tizenöt napos határidővel adja ki a felhívást; egyéb esetekben, vagy ha azt szükségesnek tartja, az elítéltet meghallgatja, bizonyítás felvétele esetén tárgyalást tart; nem minősül bizonyítás felvételének az okirati bizonyíték vagy irat beszerzése, becsatolása, illetve azok, valamint a szakértői vélemény ismertetése a meghallgatáson; az ügyészség és a védő az elítélt meghallgatásán jelen lehet, a tárgyaláson az ügyészség és a védő jelenléte kötelező, a végrehajtásért felelős szerv képviselője a meghallgatáson vagy a tárgyaláson jelen lehet és felszólalhat,
 
 c) e törvény eltérő rendelkezése hiányában az indítvány, illetve az előterjesztés beérkezését követő, vagy hivatalból történő eljárás esetén, az eljárás alapjául szolgáló ténynek vagy körülménynek a tudomására jutásától számított
 

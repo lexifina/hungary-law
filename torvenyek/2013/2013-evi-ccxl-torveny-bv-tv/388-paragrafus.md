@@ -10,7 +10,7 @@ b) a gyermekét a bíróság a letartóztatás elrendelésekor ideiglenes hatál
 
 (1b) Ha a gyámhatóság nem adta a hozzájárulását ahhoz, hogy a gyermek az anya-gyermek részlegen nevelkedjen, az (1a) bekezdés b) pontja szerint elrendelt együttes elhelyezést meg kell szüntetni és a letartóztatásban lévő nőt át kell szállítani a végrehajtásra kijelölt bv. intézetbe.
 
-(2) A Be. 299. § (2) bekezdésében és 688. § (4) bekezdésében meghatározott esetekben – az ott meghatározott időtartamban – a letartóztatás rendőrségi fogdában is végrehajtható.
+(2) A Be. 299. § (2) bekezdésében és 688. § (4) bekezdésében meghatározott esetekben – az ott meghatározott időtartamban – a letartóztatás rendőrségi fogdában is végrehajtható. A 113. § (8) bekezdésében meghatározott célból a letartóztatott rendőrségi fogdán történő elhelyezésére a 114. § (4a)–(4c) bekezdésben foglaltakat kell alkalmazni azzal, hogy a bv. intézetnek a rendelkezési jogkör gyakorlóját erről előzetesen értesítenie kell.
 
 (2a) A Be. 830. § (6) és (8) bekezdésében meghatározott esetben, tömeges bevándorlás okozta válsághelyzetben az őrizet és a letartóztatás rendőrségi fogdában vagy a menedékjogról és a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény hatálya alá tartozó személyek elhelyezésére, ellátására és fogvatartására szolgáló létesítményben is végrehajtható.
 
