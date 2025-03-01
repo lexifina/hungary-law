@@ -22,4 +22,6 @@ g) a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 29. § (3) b
 
 h) a szervnél a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti vezetői munkakört betöltő személyre
 
+i) a polgári nemzetbiztonsági szolgálatnál a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvény szerinti vezetői szolgálati beosztást betöltő személyre
+
 átruházhatja, aki a döntés meghozatala során a szerv vezetője nevében jár el.
