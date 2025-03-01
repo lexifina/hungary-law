@@ -20,7 +20,7 @@ e) a gyermekjátékszerek biztonsági követelményeiről, vizsgálatáról és 
 
 f) a repülésben, illetve az űrrepülésben való felhasználásra szánt pirotechnikai termék.
 
-(4) Nem kell engedély a Magyar Honvédség, a rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal, továbbá a Magyarország területén állomásozó fegyveres szervek által nem kereskedelmi jellegű felhasználásra szánt polgári célú pirotechnikai termék gyártásához, forgalomba hozatalához, vizsgálatához, forgalmazásához, tárolásához, kiállításához, felhasználásához, birtokolásához, valamint megsemmisítéséhez.
+(4) Nem kell engedély a Magyar Honvédség, a rendvédelmi szervek, a polgári nemzetbiztonsági szolgálatok, a Nemzeti Adó- és Vámhivatal, továbbá a Magyarország területén állomásozó fegyveres szervek által nem kereskedelmi jellegű felhasználásra szánt polgári célú pirotechnikai termék gyártásához, forgalomba hozatalához, vizsgálatához, forgalmazásához, tárolásához, kiállításához, felhasználásához, birtokolásához, valamint megsemmisítéséhez.
 
 (5) A rendőrség a polgári célú pirotechnikai termék vizsgálatához, megsemmisítéséhez, forgalmazásához, tárolásához, illetve kiállításához szükséges engedéllyel rendelkezőkről – ha a tevékenységet az engedéllyel rendelkező a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint végzi – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint nyilvántartást vezet.
 

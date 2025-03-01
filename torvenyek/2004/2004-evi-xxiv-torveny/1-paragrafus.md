@@ -1,25 +1,23 @@
 ## ÁLTALÁNOS RENDELKEZÉSEK
 
-1. § (1)
+1. § (1) Törvény eltérő rendelkezésének hiányában e törvény hatálya nem terjed ki
 
-(2) Törvény eltérő rendelkezésének hiányában e törvény
+a) a Magyar Honvédség és a Katonai Nemzetbiztonsági Szolgálat,
 
-a) hatálya nem terjed ki
+b) a Magyarország területén állomásozó fegyveres szervek,
 
-aa) a Magyar Honvédség és a Katonai Nemzetbiztonsági Szolgálat,
+c) a Nemzeti Adó- és Vámhivatal,
 
-ab) a Magyarország területén állomásozó fegyveres szervek,
+d) a rendvédelmi szervek,
 
-ac) a Nemzeti Adó- és Vámhivatal,
+e) a fegyveres biztonsági őrség,
 
-ad) a rendvédelmi szervek,
+f) az Országgyűlési Őrség,
 
-ae) a fegyveres biztonsági őrség
+g) a rendészeti, illetve katonai képzést folytató felsőoktatási intézmény,
 
-af) az Országgyűlési Őrség,
+h) a polgári nemzetbiztonsági szolgálatok
 
-ag) a rendészeti, illetve katonai képzést folytató felsőoktatási intézmény
+által jogszerűen birtokolt lőfegyverekre, lőszerekre és egyéb fegyverekre, valamint ezeknek a felsorolt szervek által történő megszerzésére és az általuk üzemeltetett lőterekre.
 
-által jogszerűen birtokolt lőfegyverekre, lőszerekre és egyéb fegyverekre, valamint ezeknek a felsorolt szervek által történő megszerzésére és az általuk üzemeltetett lőterekre,
-
-b) rendelkezései nem alkalmazandók a haditechnikai termékek gyártásának és a haditechnikai szolgáltatások nyújtásának engedélyezéséről szóló törvényben haditechnikai termékként meghatározott eszközök tekintetében a hadiipari tevékenység végzéséhez szükséges engedély alapján végzett tevékenységek hatósági engedélyezésére.
+(2) Törvény eltérő rendelkezésének hiányában e törvény rendelkezései nem alkalmazandók a haditechnikai termékek gyártásának és a haditechnikai szolgáltatások nyújtásának engedélyezéséről szóló törvényben haditechnikai termékként meghatározott eszközök tekintetében a hadiipari tevékenység végzéséhez szükséges engedély alapján végzett tevékenységek hatósági engedélyezésére.
