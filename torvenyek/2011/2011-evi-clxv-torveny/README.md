@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-165-00-00
 | 2019-04-26 | 2019. évi XXXIV. törvény | 2011-165-00-00.13 |
 | 2023-01-01 | 2022. évi XXII. törvény | 2011-165-00-00.14 |
 | 2024-02-19 | 2023. évi XCI. törvény | 2011-165-00-00.15 |
+| 2025-03-01 | 2024. évi LXXII. törvény | 2011-165-00-00.16 |

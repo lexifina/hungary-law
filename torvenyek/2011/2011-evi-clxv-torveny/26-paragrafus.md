@@ -14,7 +14,7 @@ c) megtéríti a polgárőri szolgálatot ellátó polgárőrök fényvisszaver�
 
 (3) A polgárőr szervezetek a részükre biztosított eszközöket – a rendeltetésüknek és céljuknak megfelelően – kizárólag az e törvényben meghatározott feladataik ellátásához használhatják.
 
-(4) Az állami, önkormányzati szervek – különösen az önkormányzatok, a rendvédelmi szervek, valamint a közlekedési, a környezet- és természetvédelmi hatóságok – a polgárőr szervezetek működését és tevékenységét lehetőség szerint anyagi források biztosításával, technikai és egyéb eszközök átadásával, feleslegessé vált vagyontárgy ingyenes átruházásával vagy más módon támogathatják.
+(4) Az állami, önkormányzati szervek – különösen az önkormányzatok, a rendvédelmi szervek, a polgári nemzetbiztonsági szolgálatok, valamint a közlekedési, a környezet- és természetvédelmi hatóságok – a polgárőr szervezetek működését és tevékenységét lehetőség szerint anyagi források biztosításával, technikai és egyéb eszközök átadásával, feleslegessé vált vagyontárgy ingyenes átruházásával vagy más módon támogathatják.
 
 (5) Az Országos Polgárőr Szövetség, a területi polgárőr szövetség, a polgárőr egyesület, valamint a polgárőr saját költségén is gondoskodhat a formaruha beszerzéséről azzal, hogy ebben az esetben a központi költségvetés (1) bekezdés b) és c) pontjában meghatározott kötelezettsége nem áll fenn.
 
