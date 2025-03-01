@@ -12,4 +12,4 @@
 
 a)
 
-b) a kizárólag a honvédség, a rendvédelmi szervek, valamint a vámhatóság úszólétesítményeivel való közlekedés során bekövetkezett közlekedési balesetek és egyéb közlekedési események szakmai vizsgálatára.
+b) a kizárólag a honvédelmi szervezet, a rendvédelmi szervek, a polgári nemzetbiztonsági szolgálatok, valamint a vámhatóság úszólétesítményeivel való közlekedés során bekövetkezett közlekedési balesetek és egyéb közlekedési események szakmai vizsgálatára.
