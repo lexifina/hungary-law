@@ -12,7 +12,7 @@
 
 (2c) A (2b) bekezdésnek nem megfelelő átruházás esete a szolgáltató megtévesztésével kötött szerződésnek minősül.
 
-(2d) A szolgáltató a Kormány rendeletében meghatározott – a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter által irányított – rendvédelmi szervnek jelzést küld, ha
+(2d) A szolgáltató a Kormány rendeletében meghatározott – a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter által irányított – polgári nemzetbiztonsági szolgálatnak jelzést küld, ha
 
 a) az előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatásra irányuló előfizetői szerződéssel kapcsolatban rögzített ügyfélazonosító adatok valódiságával vagy megfelelőségével kapcsolatban kétség merül fel, illetve
 

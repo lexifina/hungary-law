@@ -247,27 +247,3 @@ b) amelyek egyes vállalkozásoknak nem objektív, arányos és hátrányos megk
 105. Nyomvonalas és nyomvonal jellegű elektronikus hírközlési építmény: olyan elektronikus hírközlési építmény, amelyet az elektronikus hírközlő hálózat vezetékes összeköttetésének burkoló, tartó, védő, jelző műtárgyai képeznek.
 
 106. Összekapcsolás: egyazon vagy különböző elektronikus hírközlési szolgáltatók által használt elektronikus hírközlő hálózatok fizikai és logikai csatlakoztatása, annak érdekében, hogy az egyik szolgáltató felhasználói információt cserélhessenek ugyanezen vagy másik szolgáltató felhasználóival, illetve elérhessenek más szolgáltatók által nyújtott szolgáltatásokat. A szolgáltatást az összekapcsolásban részes felek vagy a hálózatukhoz hozzáféréssel rendelkező más szolgáltatók nyújthatják.
-
-107. Rádióállomás: egy vagy több adó- vagy vevőberendezés vagy adó- és vevőberendezés-csoport a tartozékokkal együtt, valamely rádiótávközlési szolgálatnak vagy a rádiócsillagászati szolgálatnak egy adott helyen történő megvalósítása céljából.
-
-108. Rádióberendezés: rádiótávközlés – beleértve a rádiómeghatározást – céljából rendeltetésszerűen rádióhullámokat kibocsátó, vevő vagy kibocsátó és vevő villamos vagy elektronikus termék, vagy olyan villamos vagy elektronikus termék, amelyet tartozékokkal, például antennával kell kiegészíteni ahhoz, hogy rádiótávközlés – beleértve a rádiómeghatározást – céljából rendeltetésszerűen rádióhullámokat tudjon kibocsátani, venni vagy kibocsátani és venni.
-
-109. Rádióhullám: olyan, a térben mesterséges vezető nélkül terjedő elektromágneses hullám, amelynek frekvenciája kisebb, mint 3000 GHz.
-
-110. Rádióinterfész: a rádióspektrum szabályozott használatának specifikációja.
-
-111. Rádiós helyi hálózat: kis teljesítményű, harmonizált rádióspektrumot nem kizárólagosan használó vezeték nélküli hozzáférési rendszer, amelynek kis hatótávolsága miatt a más rádióspektrum-használók által a közelben működtetett hasonló rendszerekkel való zavarásának kockázata csekély.
-
-112. Rádióspektrum: a rádióhullámok frekvenciatartománya.
-
-113. Rádiószolgálat: a Nemzetközi Rádiószabályzattal összhangban levő jogszabályban meghatározott rádiótávközlési szolgálat, továbbá a rádiócsillagászati szolgálat.
-
-114. Rádiótávközlő hálózat: olyan elektronikus hírközlő hálózat, amelyben az információátvitel egészben vagy jelentős mértékben rádiófrekvenciás jelek adásával és vételével valósul meg.
-
-115. Referenciaajánlat: a Hatóság határozata alapján a jelentős piaci erővel rendelkező szolgáltató által kötelezően közzétett, a megajánlott hálózati szolgáltatásokat, valamint azok jogi, műszaki, pénzügyi feltételeit részletező ajánlat.
-
-116. Rendkívül nagy kapacitású hálózat: olyan elektronikus hírközlő hálózat, amely legalább a szolgáltatás igénybevételének helyén található elosztási pontig teljes mértékben optikai szálas elemekből áll, vagy olyan elektronikus hírközlő hálózat, amely a szokásos csúcsidei körülmények mellett hasonló hálózati teljesítményre képes a rendelkezésre álló le- és feltöltési sávszélesség, az ellenálló képesség, a hibával kapcsolatos paraméterek, valamint a késleltetés és a késleltetés változása tekintetében. A hálózati teljesítmény akkor is hasonlónak tekinthető, ha a hálózati végponthoz csatlakozó átviteli közeg különböző tulajdonságainak köszönhetően, a végfelhasználói élmény eltérő.
-
-117. Segélyhívás: személyközi hírközlési szolgáltatások segítségével egy végfelhasználó és a segélyszolgálati állomás között a készenléti segélyszolgálatoktól veszélyhelyzeti segítség kérése és igénybevétele céljából folytatott kommunikáció, ideértve az e-segélyhívást is.
-
-118. Sikertelen hívás: minden olyan telefonhívás (beleértve a beszédalapú – akár hagyományos, akár IP-alapú – telefonálást, az üzenetrögzítővel való kapcsolatot, a konferenciahívást és az adathívást) vagy kiegészítő szolgáltatás (beleértve a hívástovábbítást és hívásátirányítást), amelynél a hálózati kapcsolat sikeresen létrejött, de a hívás megválaszolatlan maradt (nem fogadott vagy elutasított hívás), illetve hálózatkezelői beavatkozás miatt a létrejött kapcsolat automatikusan azonnali bontásra került (foglalt, kikapcsolt vagy más okból nem elérhető állomás hívása).
