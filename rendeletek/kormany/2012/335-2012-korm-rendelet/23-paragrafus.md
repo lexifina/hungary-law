@@ -1,4 +1,4 @@
-23. §[^45] (1) A postai szolgáltató általános szerződési feltételeiben jogosult a könyvelt küldemény kézbesítését – a 22. §-ban megállapított rendelkezésekben foglaltakon túl – további, az átvételi jogcím és a személyazonosság igazolása vonatkozásában a címzett vagy egyéb jogosult átvevő által kötelezően teljesítendő előírások teljesítésétől függővé tenni.
+23. §[^46] (1) A postai szolgáltató általános szerződési feltételeiben jogosult a könyvelt küldemény kézbesítését – a 22. §-ban megállapított rendelkezésekben foglaltakon túl – további, az átvételi jogcím és a személyazonosság igazolása vonatkozásában a címzett vagy egyéb jogosult átvevő által kötelezően teljesítendő előírások teljesítésétől függővé tenni.
 
 (2) A készpénz kifizetése során az egyetemes postai szolgáltató a személyes átadással kézbesítendő könyvelt postai küldemények kézbesítésére vonatkozó rendelkezéseket alkalmazza, azzal, hogy
 
@@ -6,4 +6,4 @@ a) készpénz címhelyen történő kifizetésekor az átvételre jelentkező te
 
 b) az egyetemes postai szolgáltató készpénz címhelyen és kézbesítési ponton történő kifizetésekor is minden esetben rögzíti a Postatv. 26. § (4a) bekezdésében meghatározott adatokat a küldemények kézbesítését igazoló okiraton vagy a kézbesítés tényét rögzítő egyéb technikai eszközzel felvett elektronikus dokumentumon.
 
-[^45]: A 23. § a 256/2022. (VII. 15.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^46]: A 23. § a 256/2022. (VII. 15.) Korm. rendelet 8. §-ával megállapított szöveg.

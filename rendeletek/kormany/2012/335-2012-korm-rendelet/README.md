@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-335-20-
 | 2024-01-06 | 2012-335-20-22.12 | 685/2023. (XII. 29.) Korm. rendelet |
 | 2024-03-28 | 2012-335-20-22.13 | 685/2023. (XII. 29.) Korm. rendelet |
 | 2024-05-08 | 2012-335-20-22.14 | 93/2024. (IV. 23.) Korm. rendelet |
+| 2025-03-01 | 2012-335-20-22.15 | 24/2025. (II. 27.) Korm. rendelet |
