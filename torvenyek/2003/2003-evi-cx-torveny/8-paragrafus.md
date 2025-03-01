@@ -7,3 +7,5 @@
 (3) Ha a különbözet előjele pozitív, az adót az adóalany köteles a vámhatóságnak megfizetni.
 
 (4) Wankel-motoros személygépkocsi esetén a mellékletben szereplő besoroláshoz szükséges műszaki tulajdonságot a gépjármű műszaki adatlapján szereplő kamratérfogatának kétszeresével kell megállapítani.
+
+(5) A 2025. évet követően az adótétel megállapítása során a melléklet I. részének nyitó szövegrészében szereplő forintérték tárgyévet megelőző évi összegének a tárgyévet megelőző év július hónapjára vonatkozó, a Központi Statisztikai Hivatal által közzétett fogyasztóiár-index előző év azonos időszakához viszonyított változásával valorizált összegét kell alkalmazni, amelyet 1000 forintra kerekítve kell megállapítani. Az előbbiek szerint megállapított értéket az állami adó- és vámhatóság internetes honlapján a tárgyévet megelőző év október 31-ig közzéteszi.

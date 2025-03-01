@@ -6,7 +6,7 @@
 
 (3) Import esetén az adót a vámhatóság a vámeljárás során állapítja meg.
 
-(4) Ha az adókötelezettség átalakítás miatt keletkezik, az adó alanya köteles a területileg illetékes közlekedési hatósághoz benyújtott előzetes engedély iránti kérelmet benyújtani. A közlekedési hatóság az átalakítási engedély kiadásakor, annak egy példánya megküldésével haladéktalanul értesíti a vámhatóságot az adóalany átalakítási szándékáról, közölve minden, az e törvény szerinti adókötelezettség megállapításához szükséges adatot (az eredeti és az átalakított gépjármű hengerűrtartalmát, üzemanyag fajtáját és környezetvédelmi osztályba sorolását, valamint az e törvény szerinti adó alanyának beazonosításához szükséges adatokat).
+(4) Ha az adókötelezettség átalakítás miatt keletkezik, az adó alanya köteles a területileg illetékes közlekedési hatósághoz benyújtott előzetes engedély iránti kérelmet benyújtani. A közlekedési hatóság az átalakítási engedély kiadásakor, annak egy példánya megküldésével haladéktalanul értesíti a vámhatóságot az adóalany átalakítási szándékáról, közölve minden, az e törvény szerinti adókötelezettség megállapításához szükséges adatot (az eredeti és az átalakított gépjármű teljesítményét, üzemanyag fajtáját és környezetvédelmi osztályba sorolását, valamint az e törvény szerinti adó alanyának beazonosításához szükséges adatokat).
 
 (4a)
 
