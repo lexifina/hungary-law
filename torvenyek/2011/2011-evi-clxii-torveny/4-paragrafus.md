@@ -1,6 +1,6 @@
 ## 3. A bírói kinevezés feltételei
 
-4. § (1) Magyarországon bíróvá az a harmincadik életévét betöltött személy nevezhető ki, aki
+4. § (1) Magyarországon bíróvá az a harmincötödik életévét betöltött személy nevezhető ki, aki
 
 a) magyar állampolgár,
 
@@ -12,7 +12,7 @@ d) a jogi szakvizsgát letette,
 
 e) vállalja, hogy e törvény rendelkezéseinek megfelelően vagyonnyilatkozatot tesz,
 
-f) legalább egy évig
+f) legalább két évig a bíróságon kívül joggyakorlatot folytatott és legalább egy évig
 
 fa) bírósági titkárként, alügyészként, ügyvédként, közjegyzőként, jogtanácsosként dolgozott,
 
@@ -54,7 +54,7 @@ e) akivel szemben a bíróság próbára bocsátást alkalmazott, a próbaidő, 
 
 f) aki büntetőeljárás – ide nem értve a magánvádas vagy pótmagánvádas eljárást – hatálya alatt áll,
 
-g) akit bíróként, ügyészként, kormánytisztviselőként, állami tisztviselőként, köztisztviselőként, közjegyzőként, ügyvédként, végrehajtóként, egészségügyi alkalmazottként, közalkalmazottként, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek hivatásos állományának tagjaként vagy rendvédelmi alkalmazottjaként, a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti adó- és vámhatósági szolgálati jogviszonyban álló foglalkoztatottként, igazságügyi alkalmazottként, alügyészként, ügyészségi fogalmazóként, ügyvédjelöltként, közjegyzőhelyettesként fegyelmi eljárásban a legsúlyosabb fegyelmi büntetéssel sújtottak, mindaddig, amíg a fegyelmi büntetés hatálya alatt áll,
+g) akit bíróként, ügyészként, kormánytisztviselőként, állami tisztviselőként, köztisztviselőként, közjegyzőként, ügyvédként, végrehajtóként, egészségügyi alkalmazottként, közalkalmazottként, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek hivatásos állományának tagjaként vagy rendvédelmi alkalmazottjaként, a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvény szerinti nemzetbiztonsági állomány tagjaként vagy nemzetbiztonsági alkalmazottjaként, a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti adó- és vámhatósági szolgálati jogviszonyban álló foglalkoztatottként, igazságügyi alkalmazottként, alügyészként, ügyészségi fogalmazóként, ügyvédjelöltként, közjegyzőhelyettesként fegyelmi eljárásban a legsúlyosabb fegyelmi büntetéssel sújtottak, mindaddig, amíg a fegyelmi büntetés hatálya alatt áll,
 
 h) akinek a részére öregségi nyugdíjat, korhatár előtti ellátást vagy olyan más pénzbeli ellátást folyósítanak, amelyet a nyugdíjkorhatár betöltésekor hivatalból öregségi nyugdíjként kell továbbfolyósítani,
 
