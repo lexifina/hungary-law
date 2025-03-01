@@ -2,4 +2,4 @@
 
 A rendszerhasználati díj mértéke
 
-[^58]: Az 1. mellékletet a 62/2014. (III. 6.) Korm. rendelet 23. §-a iktatta be, szövege az 510/2021. (IX. 3.) Korm. rendelet 13. §-ával megállapított, a 117/2023. (IV. 5.) Korm. rendelet 1. § a)-d) pontja szerint módosított szöveg.
+[^58]: Az 1. mellékletet a 62/2014. (III. 6.) Korm. rendelet 23. §-a iktatta be, szövege a 485/2024. (XII. 31.) Korm. rendelet 8. §-ával megállapított szöveg.

@@ -56,7 +56,13 @@ f)[^18] a nemzeti tervvagyon kezelésével kapcsolatos szabályokat.
 
 (7)[^21] Az 1. mellékletben meghatározott rendszerhasználati díj az Üzemeltető bevétele, amelyet külön fizetési számlán kell kezelni és nyilvántartani. A rendszerhasználati díjat a DÜSZ-ben meghatározott módon és számlaszámra, készpénz átutalási megbízással, átutalással vagy – ha erre lehetőség van – elektronikus fizetési és elszámolási rendszeren keresztül kell kiegyenlíteni.
 
-(8)[^22] A rendszerhasználati díjat az e-építési napló készenlétbe helyezését megelőzően kell megfizetni. Megfizetés hiányában az Üzemeltető nem helyezi készenlétbe az e-építési naplót.
+(8)[^22] A rendszerhasználati díjat
+
+a) az e-építési napló készenlétbe helyezését megelőzően és
+
+b) évente, legkésőbb a készenlétbe helyezés évfordulóján
+
+kell megfizetni. Az a) pont szerinti időpontban történő megfizetés hiányában az Üzemeltető nem helyezi készenlétbe az e-építési naplót. A b) pont szerinti időpontig történő megfizetés hiányában az Üzemeltető a díj megfizetéséig elérhetetlenné teszi az e-építési naplót.
 
 (9)[^23] Túlfizetés esetén az igazoltan befizetett rendszerhasználati díjtöbbletet az Üzemeltető 15 napon belül átutalással visszatéríti.
 
@@ -75,6 +81,6 @@ f)[^18] a nemzeti tervvagyon kezelésével kapcsolatos szabályokat.
 [^19]: A 3. § (5) bekezdése a 280/2018. (XII. 21.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
 [^20]: A 3. § (6) bekezdését a 285/2024. (IX. 30.) Korm. rendelet 86. § b) pontja hatályon kívül helyezte.
 [^21]: A 3. § (7) bekezdését a 62/2014. (III. 6.) Korm. rendelet 19. § (3) bekezdése iktatta be, szövege a 351/2023. (VII. 27.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.
-[^22]: A 3. § (8) bekezdését a 62/2014. (III. 6.) Korm. rendelet 19. § (3) bekezdése iktatta be.
+[^22]: A 3. § (8) bekezdését a 62/2014. (III. 6.) Korm. rendelet 19. § (3) bekezdése iktatta be, szövege a 485/2024. (XII. 31.) Korm. rendelet 7. §-ával megállapított szöveg.
 [^23]: A 3. § (9) bekezdését a 62/2014. (III. 6.) Korm. rendelet 19. § (3) bekezdése iktatta be.
 [^24]: A 3. § (10) bekezdését a 280/2018. (XII. 21.) Korm. rendelet 3. § (4) bekezdése iktatta be, 351/2023. (VII. 27.) Korm. rendelet 16. § a) pontja hatályon kívül helyezte.
