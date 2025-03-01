@@ -28,7 +28,7 @@ g) húsz év: nyolchavi
 
 a) a jogelőd munkáltatónál – ideértve jogviszonyváltás esetén az átadó munkáltatónál – ,
 
-b) áthelyezés esetén a költségvetési szervnél kormányzati szolgálati, állami szolgálati, közszolgálati, közalkalmazotti jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, hivatásos szolgálati jogviszonyban, állami szolgálati jogviszonyban, illetve 1992. július 1-jéig bármely munkáltatónál munkaviszonyban,
+b) áthelyezés esetén a költségvetési szervnél kormányzati szolgálati, állami szolgálati, közszolgálati, közalkalmazotti jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, nemzetbiztonsági alkalmazotti jogviszonyban, hivatásos szolgálati jogviszonyban, állami szolgálati jogviszonyban, illetve 1992. július 1-jéig bármely munkáltatónál munkaviszonyban,
 
 c) átminősítés esetén a hivatásos szolgálati viszonyban
 

@@ -28,7 +28,7 @@ j) ha a kormánytisztviselő a társadalombiztosítási szabályok alapján az �
 
 a) a felek közös megegyezésével,
 
-b) áthelyezéssel a közigazgatási szervek között, illetve a közalkalmazotti, honvédelmi alkalmazotti vagy hivatásos szolgálati jogviszonyt, rendvédelmi igazgatási szolgálati jogviszonyt szabályozó jogszabályok hatálya alá tartozó szervekhez,
+b) áthelyezéssel a közigazgatási szervek között, illetve a közalkalmazotti, honvédelmi alkalmazotti vagy hivatásos szolgálati jogviszonyt, rendvédelmi igazgatási szolgálati jogviszonyt, továbbá nemzetbiztonsági szolgálati jogviszonyt, nemzetbiztonsági alkalmazotti jogviszonyt szabályozó jogszabályok hatálya alá tartozó szervekhez,
 
 c) lemondással,
 

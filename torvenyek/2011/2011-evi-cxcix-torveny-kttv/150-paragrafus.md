@@ -20,7 +20,7 @@ a) az e törvény, a köztisztviselők jogállásáról szóló 1992. évi XXIII
 
 b) a Kjt. hatálya alá tartozó szervnél munkaviszonyban, közalkalmazotti jogviszonyban töltött időt,
 
-c) a hivatásos szolgálati jogviszony, tiszti és altiszti katonai szolgálati jogviszony időtartamát, továbbá
+c) a hivatásos szolgálati jogviszony, nemzetbiztonsági szolgálati jogviszony, tiszti és altiszti katonai szolgálati jogviszony időtartamát, továbbá
 
 d) a bíróságnál és ügyészségnél szolgálati viszonyban, munkaviszonyban, valamint
 
@@ -32,7 +32,7 @@ g) a 62/A. § szerinti jogviszony-létesítés esetén a két jogviszony közöt
 
 h) az állami vezetői szolgálati jogviszonyban, politikai felsővezetőként politikai szolgálati jogviszonyban,
 
-i) a rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban
+i) a rendvédelmi igazgatási szolgálati jogviszonyban, nemzetbiztonsági alkalmazotti jogviszonyban, honvédelmi alkalmazotti jogviszonyban
 
 j) a költségvetési intézménynél egészségügyi szolgálati jogviszonyban, köznevelési foglalkoztatotti jogviszonyban
 
