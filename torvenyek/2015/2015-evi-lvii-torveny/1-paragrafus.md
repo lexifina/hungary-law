@@ -76,7 +76,7 @@
 
 23a. közlekedési célú üzemanyag: a jövedéki adóról szóló törvény szerinti üzemanyag a repülőgép-üzemanyag kivételével;
 
-24. központi kormányzat: a központi kormányzati igazgatási szervek, a rendvédelmi szervek és a honvédelmi szervezetek országos hatáskörrel rendelkező szervezeti egységei, továbbá ha e szervezetek körében egy adott hatáskör vonatkozásában nem létezik országos hatáskörű szervezeti egység, akkor azok a szervezeti egységek vagy szervezetek, amelyek illetékessége együttesen terjed ki az ország területére;
+24. központi kormányzat: a központi kormányzati igazgatási szervek, a rendvédelmi szervek, a polgári nemzetbiztonsági szolgálatok és a honvédelmi szervezetek országos hatáskörrel rendelkező szervezeti egységei, továbbá ha e szervezetek körében egy adott hatáskör vonatkozásában nem létezik országos hatáskörű szervezeti egység, akkor azok a szervezeti egységek vagy szervezetek, amelyek illetékessége együttesen terjed ki az ország területére;
 
 24a. lakóépület: jellemzően lakást és a hozzá tartozó kiszolgáló helyiségeket magába foglaló épület;
 
