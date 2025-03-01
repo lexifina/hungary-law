@@ -6,7 +6,7 @@ b) ellátja a túlnyomásos munkahelyen foglalkoztatottak orvosi alkalmassági v
 
 c) ellátja a kézilőfegyverek, lőszerek, gáz- és riasztófegyverek megszerzésének és tartásának egészségi alkalmassági vizsgálatával kapcsolatosan jogszabály által hatáskörébe utalt feladatokat,
 
-d) az egyes rendvédelmi szervek hivatásos állományú tagjainak foglalkozási betegsége, fokozott expozíciós esete szolgálattal összefüggő jellegének megállapításához, minősítéséhez jogszabály alapján véleményt ad,
+d)[^3] az egyes rendvédelmi szervek hivatásos állományú tagjainak, valamint a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagjainak foglalkozási betegsége, fokozott expozíciós esete szolgálattal összefüggő jellegének megállapításához, minősítéséhez jogszabály alapján véleményt ad,
 
 e) működteti a hajózási egészségi alkalmasság másodfokú vizsgálatát végző bizottságot,
 
@@ -27,3 +27,5 @@ g) biztosítja a foglalkozási megbetegedésben szenvedők szakvizsgálatait, é
 (7) Az NNGYK üzemelteti és fejleszti a kormányhivatal és a járási hivatal, valamint az NNGYK népegészségügyi feladatainak ellátásához szükséges szakmai informatikai rendszereket.
 
 (8) Az NNGYK beszerzi a hazai éves oltóanyagot, az általa beszerzett oltóanyagot nyilvántartja, és a kormányhivatalok, valamint járási hivatalok részére elosztja és kiszállítja.
+
+[^3]: Az 5. § (1) bekezdés d) pontja a 24/2025. (II. 27.) Korm. rendelet 99. §-a szerint módosított szöveg.
