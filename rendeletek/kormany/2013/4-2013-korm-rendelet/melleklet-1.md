@@ -20,16 +20,19 @@ A KINCSTÁR BESZÁMOLÁSI ÉS KÖNYVVEZETÉSI KÖRÉBE TARTOZÓ KÖZPONTI KEZEL�
 
 9.[^344] a központi költségvetésről szóló törvény 1. melléklet XLIII. fejezet 1. cím 2. alcím 2. jogcímcsoport 3. jogcímébe tartozó központi kezelésű előirányzatok.
 
-10. a központi költségvetésről szóló törvény 1. melléklet XXIII. fejezet 11. cím 2. és 3. alcímébe tartozó központi kezelésű előirányzatok,
+10.[^345]
 
-11.[^345] a központi költségvetésről szóló törvény 1. melléklet XLIII. fejezet 1. cím 2. alcím 2. jogcímcsoport 3. jogcímébe és 6. cím 1. alcímébe tartozó központi kezelésű előirányzatok,
+11.[^346]
 
-12. a központi költségvetésről szóló törvény 1. melléklet L. fejezetébe tartozó központi kezelésű előirányzatok, valamint
+12.[^347]
 
-13. a központi költségvetésről szóló törvény 1. melléklet LI. fejezetébe tartozó központi kezelésű előirányzatok.
+13.[^348]
 
 [^341]: Az 1. melléklet a 95/2023. (III. 29.) Korm. rendelet 2. § a) pontjával megállapított szöveg.
 [^342]: Az 1. melléklet 7. pontja a 462/2024. (XII. 30.) Korm. rendelet 23. § (2) bekezdés 1. pontjával megállapított szöveg.
 [^343]: Az 1. melléklet 8. pontja a 462/2024. (XII. 30.) Korm. rendelet 23. § (2) bekezdés 1. pontjával megállapított szöveg.
 [^344]: Az 1. melléklet 9. pontja a 462/2024. (XII. 30.) Korm. rendelet 23. § (2) bekezdés 1. pontjával megállapított szöveg.
-[^345]: Az 1. melléklet 11. pontja a 462/2024. (XII. 30.) Korm. rendelet 23. § (1) bekezdés 1. pontjával megállapított szöveg.
+[^345]: Az 1. melléklet 10. pontját a 24/2025. (II. 27.) Korm. rendelet 47. §-a hatályon kívül helyezte.
+[^346]: Az 1. melléklet 11. pontját a 24/2025. (II. 27.) Korm. rendelet 47. §-a hatályon kívül helyezte.
+[^347]: Az 1. melléklet 12. pontját a 24/2025. (II. 27.) Korm. rendelet 47. §-a hatályon kívül helyezte.
+[^348]: Az 1. melléklet 13. pontját a 24/2025. (II. 27.) Korm. rendelet 47. §-a hatályon kívül helyezte.
