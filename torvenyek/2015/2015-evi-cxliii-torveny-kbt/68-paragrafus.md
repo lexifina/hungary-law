@@ -8,7 +8,7 @@
 
 (1c) Az elektronikusan benyújtott ajánlat vagy részvételi jelentkezés esetében a (4)–(5) bekezdés szerinti adatokat az EKR a bontás időpontjától kezdve azonnal elektronikusan – azzal a tartalommal, ahogyan azok az ajánlatban vagy részvételi jelentkezésben szerepelnek – az ajánlattevők vagy részvételre jelentkezők részére elérhetővé teszi.
 
-(1d) Részben elektronikusan benyújtott részvételi jelentkezés és ajánlat bontását az (1a) bekezdésben foglaltak szerint az EKR végzi, az ajánlatkérő azonban ebben az esetben köteles a részvételi jelentkezés és az ajánlat EKR-en kívül beérkező részeit a megfelelő ajánlathoz társítani és azt dokumentálni. Fizikai modellek benyújtása esetén azt fénykép vagy jegyzőkönyv készítésével és annak az EKR-be az eljárás iratai közötti feltöltésével kell az ajánlatkérőnek dokumentálnia.
+(1d) Részben elektronikusan benyújtott részvételi jelentkezés és ajánlat bontását az (1) bekezdésben foglaltak szerint az EKR végzi, az ajánlatkérő azonban ebben az esetben köteles a részvételi jelentkezés és az ajánlat EKR-en kívül beérkező részeit a megfelelő ajánlathoz társítani és azt dokumentálni. Fizikai modellek benyújtása esetén azt fénykép vagy jegyzőkönyv készítésével és annak az EKR-be az eljárás iratai közötti feltöltésével kell az ajánlatkérőnek dokumentálnia.
 
 (2) A nem elektronikusan benyújtott részvételi jelentkezés és ajánlat esetében, az ajánlatot és a részvételi jelentkezést egy példányban, írásban és zártan, az ajánlati, ajánlattételi vagy részvételi felhívásban megadott címre közvetlenül vagy postai úton kell benyújtani az ajánlattételi, illetve részvételi határidő lejártáig. Az ajánlatkérő előírhatja elektronikus másolati példányok benyújtását.
 

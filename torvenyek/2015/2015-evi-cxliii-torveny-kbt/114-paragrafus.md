@@ -18,7 +18,7 @@ rövidebb időtartamban. A több szakaszból álló eljárások részvételi sza
 
 (6) A kiegészítő tájékoztatást az ajánlattételi vagy részvételi határidő lejárta előtt ésszerű időben köteles az ajánlatkérő megadni. Az ajánlatkérő, ha úgy ítéli meg, hogy a kérdés megválaszolása a megfelelő ajánlattételhez, illetve részvételre jelentkezéshez szükséges, azonban az ésszerű időben történő válaszadáshoz és a válasz figyelembevételéhez nem áll megfelelő idő rendelkezésre, az 52. § (3) bekezdésében foglalt módon élhet az ajánlattételi vagy részvételi határidő meghosszabbításának lehetőségével.
 
-(6a) Az ajánlatkérő nem köteles az aránytalanul alacsony ár és egyéb aránytalan vállalások vizsgálatára. Az ajánlatkérő a 73. § (2) bekezdését nem köteles alkalmazni, annak alapján azonban csak akkor nyilváníthat egy ajánlatot érvénytelennek, ha a 72. §-ban foglaltaknak megfelelően járt el.
+(6a)
 
 (7) Keretmegállapodás alkalmazása esetén a verseny újranyitása a 105. § (2) bekezdésében foglaltak helyett elektronikus árlejtés lefolytatásával is történhet, ha ez utóbbi lehetőséget az ajánlatkérő a keretmegállapodásban és a megelőző közbeszerzési eljárásban az eljárást megindító felhívásban kikötötte.
 

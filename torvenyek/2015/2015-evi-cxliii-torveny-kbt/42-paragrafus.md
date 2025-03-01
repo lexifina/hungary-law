@@ -1,6 +1,6 @@
 ## Nyilvánosság a közbeszerzési eljárásban
 
-42. § (1) Az 5. § (1) bekezdésében meghatározott ajánlatkérők – a központi beszerző szervek kivételével – a költségvetési év elején, legkésőbb március 31. napjáig éves összesített közbeszerzési tervet (a továbbiakban: közbeszerzési terv) készítenek az adott évre tervezett közbeszerzéseikről. A közbeszerzési tervet az ajánlatkérő legalább öt évig megőrzi. A közbeszerzési terv nyilvános.
+42. § (1) Az 5. § (1) bekezdésében, valamint a 6. és 7. §-ban meghatározott ajánlatkérők évente, legkésőbb március 31. napjáig éves összesített közbeszerzési tervet (a továbbiakban: közbeszerzési terv) készítenek az adott évre tervezett közbeszerzéseikről. Központi beszerző szervek esetén az általuk ellátott ajánlatkérők részére megvalósítandó egyedi beszerzésekre vonatkozó információkat a tervnek nem kell tartalmaznia. A közbeszerzési tervet az ajánlatkérő legalább öt évig megőrzi. A közbeszerzési terv nyilvános.
 
 (2) A közbeszerzési terv elkészítése előtt az ajánlatkérő indíthat közbeszerzési eljárást, amelyet a tervben szintén megfelelően szerepeltetni kell.
 

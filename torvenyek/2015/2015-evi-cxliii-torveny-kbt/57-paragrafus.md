@@ -8,4 +8,4 @@ a) a szerződéstervezetet, kivéve tárgyalásos eljárásban és versenypárbe
 
 b) az ajánlat és a részvételi jelentkezés elkészítésével kapcsolatban az ajánlattevők, illetve a részvételre jelentkezők részére szükséges információkról szóló tájékoztatást, az ajánlat és részvételi jelentkezés részeként benyújtandó igazolások, nyilatkozatok jegyzékét, valamint az egységes európai közbeszerzési dokumentum mintáját. Az ajánlatkérő további ajánlott igazolás- és nyilatkozatmintákat bocsáthat rendelkezésre. Amennyiben a nyilatkozatminták az EKR-ben elektronikus űrlapként a nyilatkozat megtételének nyelvén rendelkezésre állnak, a nyilatkozatot az elektronikus űrlap kitöltése útján kell az ajánlat vagy részvételi jelentkezés részeként megtenni.
 
-(2) A közbeszerzési dokumentumokat ajánlatonként vagy részvételi jelentkezésenként legalább egy ajánlattevőnek, részvételre jelentkezőnek vagy az ajánlatban, illetve részvételi jelentkezésben megnevezett alvállalkozónak elektronikus úton el kell érnie, az ajánlattételi határidő lejártáig, több szakaszból álló eljárásban a részvételi határidő lejártáig.
+(2)

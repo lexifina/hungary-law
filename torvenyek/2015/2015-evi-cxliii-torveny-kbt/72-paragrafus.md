@@ -1,6 +1,6 @@
 ## Aránytalanul alacsony ár és egyéb aránytalan vállalások
 
-72. § (1) Az ajánlatkérő az értékelés szempontjából lényeges ajánlati elemek tartalmát megalapozó adatokat, valamint indokolást köteles írásban kérni és erről a kérésről a többi ajánlattevőt egyidejűleg, írásban értesíteni, ha az ajánlat a megkötni tervezett szerződés tárgyára figyelemmel aránytalanul alacsony összeget tartalmaz az értékelési szempontként figyelembe vett ár vagy költség, vagy azoknak valamely önállóan értékelésre kerülő eleme tekintetében.
+72. § (1) Ha az ajánlattevő ajánlata az adott közbeszerzés tárgyát képező építési beruházáshoz, szállítandó áruhoz vagy nyújtandó szolgáltatáshoz képest aránytalanul alacsonynak látszik, az ajánlatkérő köteles az ár vagy költségek tartalmát megalapozó adatokat és indokolást írásban kérni és erről a kérésről a többi ajánlattevőt egyidejűleg, írásban értesíteni.
 
 (2) Az ajánlatkérő figyelembe veheti az olyan objektív alapú indokolást, amely különösen
 

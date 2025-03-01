@@ -26,7 +26,7 @@ e) – a hirdetmény nélküli tárgyalásos eljárás kivételével – egy sza
 
 f) a közbeszerzéshez támogatást nyújtó vagy a közbeszerzések jogszabályban előírt ellenőrzését végző szerv megállapítása szerint súlyos jogsértés történt, és a közbeszerzési eljárás szabályai szerint ajánlatkérőnek már nincs lehetősége az eljárás jogszerűségét helyreállítani;
 
-g) az EKR működési hibája olyan jogsértést eredményez, amely az e törvényben meghatározott alapelvek érvényesülését biztosító módon nem orvosolható.
+g) az EKR-t érintő üzemzavar vagy működési hiba olyan jogsértést eredményez, amely az e törvényben meghatározott alapelvek érvényesülését biztosító módon nem orvosolható.
 
 h) az értékelés alapján legkedvezőbb ajánlatot tett ajánlattevő ajánlatában megadott ár vagy annak egyes összetevői alapján megállapítható, hogy a szerződéskötés a 2. § (4) bekezdésében foglalt alapelv súlyos sérelmét valósítaná meg.
 

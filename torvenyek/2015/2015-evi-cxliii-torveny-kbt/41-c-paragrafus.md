@@ -24,6 +24,6 @@ b) faxon.
 
 (4)
 
-(5) Amennyiben az (1) bekezdés szerint az EKR-en történő kapcsolattartás a 79–80. §, a 87. § (6) bekezdésében, a 117. § (8) bekezdésében, vagy a 127. § (1)–(2) bekezdésében szabályozott cselekményekre nem alkalmazható, ezen eljárási cselekmények esetében a kapcsolattartás kizárólag az EKR-en kívüli – a (4) bekezdésben szabályozott – elektronikus úton vagy faxon történhet.
+(5) Amennyiben az (1) bekezdés szerint az EKR-en történő kapcsolattartás a 79–80. §, a 87. § (6) bekezdésében, a 117. § (8) bekezdésében, vagy a 127. § (1)–(2) bekezdésében szabályozott cselekményekre nem alkalmazható, ezen eljárási cselekmények esetében a kapcsolattartás kizárólag az EKR-en kívüli elektronikus úton vagy faxon történhet.
 
 (6)

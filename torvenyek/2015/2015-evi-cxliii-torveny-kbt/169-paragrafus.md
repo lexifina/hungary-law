@@ -2,7 +2,7 @@
 
 169. § (1) Ha az Ákr., illetve e törvény alapján a végzés ellen önálló jogorvoslatnak van helye, a kereseti kérelmet – ha e törvény eltérően nem rendelkezik – a végzés kézbesítésétől számított nyolc napon belül a Közbeszerzési Döntőbizottsághoz kell benyújtani. A Közbeszerzési Döntőbizottság a kérelmet az ügy irataival együtt beérkezését követően haladéktalanul továbbítja a bíróságnak.
 
-(2) A Közbeszerzési Döntőbizottság önálló jogorvoslattal megtámadható végzése ellen indított közigazgatási perben hozott bírósági ítélet ellen felülvizsgálatnak nincs helye.
+(2)
 
 (3) A 156. § (4) bekezdése szerinti végzés elleni kereseti kérelmet a végzés kézbesítésétől számított öt napon belül kell a Közbeszerzési Döntőbizottsághoz benyújtani. A keresetindítási határidő elmulasztásának kimentésére igazolási kérelem előterjesztésének nincs helye. A perben azonnali jogvédelem iránti kérelem előterjesztésének nincs helye. A 156. § (4) bekezdése szerinti végzés ellen benyújtott kereseti kérelemnek a végzés hatályosulására halasztó hatálya van.
 

@@ -14,6 +14,6 @@ a) ha a kiegészítő tájékoztatást, annak ellenére, hogy azt a gazdasági s
 
 b) ha a közbeszerzési dokumentumokat módosítja, vagy
 
-c) az EKR üzemzavarára tekintettel az elektronikus közbeszerzés részletes szabályairól szóló kormányrendelet szerinti esetekben.
+c) az EKR-t érintő üzemzavarra vagy működési hibára tekintettel az elektronikus közbeszerzés részletes szabályairól szóló kormányrendelet szerinti esetekben.
 
 (5) A meghosszabbítás mértékének arányban kell állnia a kiegészítő tájékoztatásban közölt információk vagy a változtatás jelentőségével. A (4) bekezdés b) pontjától eltérően nem köteles az ajánlatkérő a határidőt meghosszabbítani, ha a közbeszerzési dokumentumok módosítása nem jelentős és a módosítás megküldése az ajánlattételi vagy részvételi határidő lejártának napját megelőző legkésőbb hetedik, ha a módosításról hirdetményt kell feladni, annak feladása az ajánlattételi vagy részvételi határidő lejártának napját megelőző legkésőbb tizedik napra esik. Nem jelentős a közbeszerzési dokumentumok módosítása, ha nem befolyásolja a részvételi jelentkezések vagy ajánlatok időben történő megfelelő előkészítését.

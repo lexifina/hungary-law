@@ -26,7 +26,7 @@ ch) a térségi fejlesztési tanács,
 
 d) a 9. § (1) bekezdés h)–i) pontja szerinti jogi személyek,
 
-e) az a jogképes szervezet, amelyet nem ipari vagy kereskedelmi jellegű, kifejezetten közérdekű tevékenység folytatása céljából hoznak létre, vagy amely bármilyen mértékben ilyen tevékenységet lát el, feltéve, hogy e szervezet felett az a)–f) pontban meghatározott egy vagy több szervezet, az Országgyűlés vagy a Kormány közvetlenül vagy közvetetten meghatározó befolyást képes gyakorolni vagy működését többségi részben egy vagy több ilyen szervezet (testület) finanszírozza,
+e) az a jogképes szervezet, amelyet nem ipari vagy kereskedelmi jellegű, kifejezetten közérdekű tevékenység folytatása céljából hoznak létre, vagy amely bármilyen mértékben ilyen tevékenységet lát el, feltéve, hogy irányítása az a)–f) pontban meghatározott egy vagy több szervezet, az Országgyűlés vagy a Kormány közvetlen vagy közvetett felügyelete alatt áll, vagy többségi részben egy vagy több ilyen szervezet (testület) finanszírozza, vagy egy vagy több ilyen szervezet (testület) választja meg a vezető tisztségviselők, a döntéshozó szerv vagy a felügyelőbizottság tagjainak a többségét,
 
 f) a közfeladatot ellátó közérdekű vagyonkezelő alapítványok és az általuk létesített vagy fenntartott jogi személyek.
 
