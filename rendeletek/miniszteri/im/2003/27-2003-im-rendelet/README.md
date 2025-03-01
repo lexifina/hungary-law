@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-27-20-0
 | 2019-04-06 | 2003-27-20-06.15 | 5/2006. (VII. 24.) IRM rendelet |
 | 2022-01-01 | 2003-27-20-06.16 | 18/2021. (XII. 23.) IM rendelet |
 | 2025-01-01 | 2003-27-20-06.17 | 18/2024. (XII. 11.) IM rendelet |
+| 2025-03-01 | 2003-27-20-06.18 | 33/2024. (XII. 30.) IM rendelet |
