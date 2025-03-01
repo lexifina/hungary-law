@@ -22,9 +22,9 @@ a) a 2003/87/EK európai parlamenti és tanácsi irányelvnek az uniós kibocsá
 
 b) az (EU) 2019/1122 felhatalmazáson alapuló rendeletnek az (EU) 2018/842 európai parlamenti és tanácsi rendelet alapján, az uniós kibocsátásiegység-forgalmi jegyzék működése tekintetében történő módosításáról szóló, 2019. március 13-i (EU) 2019/1124 felhatalmazáson alapuló bizottsági rendelet
 
-c) a fluortartalmú üvegházhatású gázokról és a 842/2006/EK rendelet hatályon kívül helyezéséről szóló, 2014. április 16-i 517/2014/EU európai parlamenti és tanácsi rendelet,
+c)
 
-d) az 517/2014/EU európai parlamenti és tanácsi rendelet alapján a fluortartalmú üvegházhatású gázokat tartalmazó, helyhez kötött hűtő-, légkondicionáló és hőszivattyú-berendezések, valamint a hűtőkamionok és -pótkocsik fluortartalmú üvegházhatású gázokat tartalmazó hűtőegységei tekintetében a természetes személyek képesítésére, valamint a fluortartalmú üvegházhatású gázokat tartalmazó, helyhez kötött hűtő-, légkondicionáló és hőszivattyú-berendezések tekintetében a vállalatok képesítésére vonatkozó minimumkövetelmények és kölcsönös elismerési feltételek meghatározásáról szóló, 2015. november 17-ei (EU) 2015/2067 bizottsági végrehajtási rendelet,
+d)
 
 e) az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet
 

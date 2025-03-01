@@ -30,25 +30,25 @@ i)
 
 j) az üvegházhatású gázok jelentős mértékű kibocsátásával, illetve elnyelés általi eltávolításával járó, a tevékenység megkezdése előtt a kibocsátás, illetve elnyelés előrejelzésre kötelezett tevékenységek körét;
 
-k) a fluortartalmú üvegházhatású gázokat tartalmazó vagy azzal működtetett termékek, berendezések és létesítményekkel kapcsolatos tevékenységek végzéséhez szükséges képzési, képesítési és vizsgáztatási rendszer, valamint az ezzel kapcsolatos felelősségi rendszerek részletes szabályait;
+k)
 
-l) a fluortartalmú üvegházhatású gázokkal végzett tevékenység esetében a vállalkozások, üzemeltetők és tulajdonosok regisztrációs, adatszolgáltatási és jelentéstételi kötelezettségének, valamint az ezzel kapcsolatos felelősségi rendszereknek a részletes szabályait;
+l)
 
-m) a fluortartalmú üvegházhatású gázok Magyarország területén való forgalomba hozatalára, export, import kereskedelmi tevékenységre, a forgalombahozatali mentességi kérelemre, a címkézésre vonatkozó szabályokat, valamint ezen tevékenységek esetében a regisztrációs, adatszolgáltatási és jelentéstételi kötelezettségek, valamint az ezzel kapcsolatos felelősségi rendszerek részletes szabályait;
+m)
 
-n) a fluortartalmú üvegházhatású gázokat tartalmazó termékek és berendezések szivárgásvizsgálatára, visszanyerésére, újrahasznosítására és regenerálására vonatkozó szabályokat, valamint ezen tevékenységek végzése esetében a regisztrációs, adatszolgáltatási és jelentéstételi kötelezettségek, valamint az ezzel kapcsolatos felelősségi rendszerek részletes szabályait;
+n)
 
-o) a klímavédelmi bírság mértékét;
+o)
 
-p) a klímavédelemért felelős hatóság kijelölését;
+p)
 
 q)
 
-r) a fluortartalmú üvegházhatású gázok 517/2014/EU európai parlamenti és tanácsi rendeletben nem szabályozott felhasználási céljából a fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységet végző vállalkozások részére az e tevékenység végzésére jogosító engedélyezési eljárás részletes szabályait;
+r)
 
-s) a fluortartalmú üvegházhatású gázokra vonatkozó adatbázis F-Gáz ügyfélazonosítóval rendelkező ügyfelek általi igénybevételének és vezetésének részletes szabályait;
+s)
 
-t) az üvegházhatású gázokkal kapcsolatos tevékenységeket végző vállalkozások képesítési rendszerének, a képesítések nyilvántartásának, az igazolás kiadásának, az ahhoz fűződő formai és tartalmi követelmények meghatározásának részletes szabályait,
+t)
 
 u)
 
@@ -56,11 +56,11 @@ u)
 
 a)
 
-b) a klímavédelmi felügyeleti díj megfizetésének részletes szabályait;
+b)
 
-c) az üvegházhatású gázokkal kapcsolatos tevékenységeket végző természetes személyek képzésére, képesítésére és vizsgáztatására, a szerzett tudás elismerésére, a vizsgáztatás és képesítés rendjére vonatkozó részletes szabályokat;
+c)
 
-d) a fluortartalmú üvegházhatású gázokkal összefüggő tevékenységet végzők képzéséért, vizsgáztatásáért és a képesítést igazoló okirat kiállításáért fizetendő díj mértékét és a díj megfizetésének részletes szabályait
+d)
 
 rendeletben állapítsa meg.
 

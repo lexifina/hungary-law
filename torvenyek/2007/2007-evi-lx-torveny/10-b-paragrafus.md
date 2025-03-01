@@ -1,13 +1,1 @@
-10/B. § (1) Vállalkozások – ideértve az egyéni vállalkozót is – az (1a) bekezdésben foglalt kivétellel csak a klímavédelemért felelős hatóság által kiadott képesítési igazolás birtokában jogosultak bármilyen, az 517/2014/EU európai parlamenti és tanácsi rendeletben meghatározott fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységet végezni. A képesítési igazolás a vállalkozásnak a klímavédelemért felelős hatóság által vezetett adatbázisban történő regisztrációját és a vállalkozó által a klímavédelemért felelős hatósághoz benyújtott megfelelési nyilatkozat elfogadását követően kerül kiállításra.
-
-(1a) Vállalkozások – ideértve az egyéni vállalkozókat is – csak a klímavédelemért felelős hatóság által kiadott véglegessé vált engedély birtokában, a véglegessé vált engedély keretei között jogosultak a fluortartalmú üvegházhatású gázok 517/2014/EU európai parlamenti és tanácsi rendeletben nem szabályozott felhasználása céljából, különösen kutatási, fejlesztési, gyógyászati célból fluortartalmú üvegházhatású gázzal kapcsolatos tevékenységet – felügyeleti díjfizetési kötelezettség nélkül – végezni, kötelesek továbbá
-
-a) a klímavédelemért felelős hatóság által üzemeltetett adatbázisban regisztrálni; valamint
-
-b) az adatszolgáltatási és jelentéstételi kötelezettségének eleget tenni – a 10/G. §-ban és az e törvény végrehajtására kiadott kormányrendeletben meghatározott adattartalommal és módon.
-
-(2) Természetes személy kizárólag az 517/2014/EU európai parlamenti és tanácsi rendelet 10. cikk (4) és (7) bekezdése szerinti képesítéssel, a képesítésének megfelelő kategóriájú képesített vállalkozás alkalmazottjaként végezheti a fluortartalmú üvegházhatású gázokkal és az ózonréteget lebontó anyagokkal kapcsolatos tevékenységek végzésének feltételeiről szóló kormányrendeletben meghatározott alkalmazások telepítését, beüzemelését, szervizelését, karbantartását, javítását vagy használaton kívül helyezését, szivárgásvizsgálatát, valamint a visszanyerést.
-
-(3) A fluortartalmú üvegházhatású gázokkal összefüggő tevékenységet végzőkkel kapcsolatos képzési, képesítési és vizsgáztatási feladatok ellátásáról a klímavédelemért felelős hatóság gondoskodik. A hatósági képzésért, a képzést lezáró vizsgáért és a képesítést igazoló okirat kiállításáért képzési és vizsgáztatási díjat kell fizetni. A képzési és vizsgáztatási díjat a klímavédelemért felelős hatóság a képzési, képesítési és vizsgáztatási tevékenységével összefüggő feladatainak ellátására fordítja.
-
-(4) A klímavédelemért felelős hatóság e törvény végrehajtására kiadott kormányrendelet szerinti hatósági eljárás keretében elismeri az Európai Unió más tagállamában kiadott képesítéseket. A képesítés elismerése érdekében a képesített személy, valamint a képesített vállalkozás köteles benyújtani a kiállított képesítési, képzési igazolást.
+### 10/B. §
