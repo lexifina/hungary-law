@@ -24,7 +24,7 @@ j) az állami tisztviselőkről szóló törvény hatálya alá tartozó munkál
 
 k) a kormányzati igazgatásról szóló törvény hatálya alá tartozó munkáltatónál kormányzati szolgálati, politikai szolgálati jogviszonyban, biztosi jogviszonyban, ösztöndíjas foglalkoztatási jogviszonyban, valamint munkaviszonyban,
 
-l) a honvédelmi szervezetnél, a rendvédelmi szervnél, illetve az állami adó- és vámhatóságnál munkaviszonyban,
+l) a honvédelmi szervezetnél, a rendvédelmi feladatokat ellátó szervnél, a polgári nemzetbiztonsági szolgálatnál, illetve az állami adó- és vámhatóságnál munkaviszonyban,
 
 m) a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti adó- és vámhatósági szolgálati jogviszonyban,
 

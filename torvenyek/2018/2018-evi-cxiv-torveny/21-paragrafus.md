@@ -22,7 +22,7 @@ ba) a közszolgálati tisztviselőkről szóló törvény,
 
 bb) a közalkalmazottak jogállásáról szóló törvény,
 
-bc) a hivatásos és szerződéses katonák szolgálati viszonyát, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyát szabályozó jogszabályok,
+bc) a hivatásos és szerződéses katonák szolgálati viszonyát, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyát, valamint a polgári nemzetbiztonsági szolgálatok személyi állományának szolgálati jogviszonyát szabályozó jogszabályok,
 
 bd) az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló törvény
 
