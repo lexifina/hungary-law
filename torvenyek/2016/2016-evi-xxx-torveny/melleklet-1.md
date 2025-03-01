@@ -66,4 +66,4 @@ b) az Európai Unió közös katonai listája 21. fejezet a) pontjában meghatá
 
 24. HUML 24: Kifejezetten katonai célú szolgáltatások, valamint tábori ellátást biztosító, kifejezetten katonai célokra használt eszközök
 
-25. HUML 25: Rendvédelmi, rendészeti kényszerítő eszközök, alkalmazásához szükséges anyagok
+25. HUML 25: Rendvédelmi, rendészeti és nemzetbiztonsági kényszerítő eszközök, alkalmazásához szükséges anyagok
