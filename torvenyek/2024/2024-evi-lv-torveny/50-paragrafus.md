@@ -1,1 +1,3 @@
-### 50. §
+50. § Az Áfa tv. a következő 368. §-sal egészül ki:
+
+„368. § E törvénynek az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel megállapított 129. § (1) bekezdés c)–e) pontja, 129. § (1a)–(1d) bekezdése, (4)–(6) bekezdése, valamint az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel módosított 129. § (2) bekezdése az ezen rendelkezések hatályba lépésének időpontjában érvényes, közvetett vámjogi képviselet ellátására vonatkozó szerződésekre és az azok alapján történt importálásokra is alkalmazandók. Ilyen esetben a 129. § (1) bekezdés e) pontja szerinti partnerellenőrzést első alkalommal annak a hónapnak az utolsó napjáig kell elvégezni, amelyben a hatályba lépést követően első alkalommal történik importálás.”
