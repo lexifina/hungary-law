@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-62-20-2
 | 2021-03-06 | 2016-62-20-2W.9 | 11/2021. (III. 3.) ITM rendelet |
 | 2021-10-02 | 2016-62-20-2W.10 | 49/2021. (X. 1.) ITM rendelet |
 | 2021-12-08 | 2016-62-20-2W.11 | 49/2021. (X. 1.) ITM rendelet |
+| 2025-03-01 | 2016-62-20-2W.12 | 4/2025. (II. 28.) EM rendelet |

@@ -10,6 +10,6 @@ c) a támogatási jogosultságok üzemgazdasági és nemzetgazdasági szempontb�
 
 d) a fejlesztéspolitikai célok elősegítése
 
-## a villamosenergia-rendszer szabályozhatóságának és biztonságos működésének fenntartása mellett.
+a villamosenergia-rendszer szabályozhatóságának és biztonságos működésének fenntartása mellett.
 
 (2) A pályázati eljárás részét képező értékelési eljárás célja a kiírási dokumentáció szerinti pályázati eljárás tárgyát képező jogosultság tekintetében azoknak a pályázóknak a kiválasztása, akik az (1) bekezdésben meghatározott szempontrendszernek megfelelő legkisebb támogatási igényű pályázatokat nyújtották be.

@@ -1,6 +1,4 @@
-## 20–21. §[^95]
-
-1. melléklet a 62/2016. (XII. 28.) NFM rendelethez[^96]
+1. melléklet a 62/2016. (XII. 28.) NFM rendelethez[^98]
 
 1. Kötelező átvétel címén kiosztható új támogatási jogosultságok korlátai
 
@@ -26,7 +24,7 @@
 
 | 2 | Maximálisan kiosztható éves új támogatás | 20 Mrd Ft | 20 Mrd Ft (csökkentve a 2017. évben kiosztott jogosultsá- gokhoz tartozó éves új támogatá- sokkal) | 20 Mrd Ft (csökkentve a 2017. és 2018. évben kiosztott jogosultsá- gokhoz tartozó éves új támogatá- sokkal) | 20 Mrd Ft (csökkentve a 2017–2019. évben kiosztott jogosultsá- gokhoz tartozó éves új támogatá- sokkal) | 20 Mrd Ft (csökkentve a 2017–2020. évben kiosztott jogosultsá- gokhoz tartozó éves új támogatá- sokkal) | 20 Mrd Ft (csökkentve a 2017–2021. évben kiosztott jogosultsá- gokhoz tartozó éves új támogatá- sokkal) | 20 Mrd Ft (csökkentve a 2017–2022. évben kiosztott jogosultsá- gokhoz tartozó éves új támogatá- sokkal) | 20 Mrd Ft (csökkentve a 2017–2023. évben kiosztott jogosultsá- gokhoz tartozó éves új támogatá- sokkal) | 20 Mrd Ft (csökkentve a 2017–2024. évben kiosztott jogosultsá- gokhoz tartozó éves új támogatá- sokkal) | 20 Mrd Ft (csökkentve a 2017–2025. évben kiosztott jogosultsá- gokhoz tartozó éves új támogatá- sokkal) |
 
-A barna prémium mértékének Hivatal általi megállapítása során annak mértéke nem lehet magasabb, mint a Metár kormányrendelet 1. melléklet 3. pont a) alpontja szerinti ár Metár kormányrendelet 2. melléklet szerinti aktuális indexált értékének 50%-a.
+## A barna prémium mértékének Hivatal általi megállapítása során annak mértéke nem lehet magasabb, mint a Metár kormányrendelet 1. melléklet 3. pont a) alpontja szerinti ár Metár kormányrendelet 2. melléklet szerinti aktuális indexált értékének 50%-a.
 
 4. Pályázati eljárásban kiosztható új támogatási jogosultságok korlátai
 
@@ -36,5 +34,4 @@ A barna prémium mértékének Hivatal általi megállapítása során annak mé
 
 | 2 | Maximálisan kiosztható éves új támogatás | 1 Mrd Ft | 1 Mrd Ft | 1 Mrd Ft | 2,5 Mrd Ft | 12,26 Mrd Ft | 548 M Ft | 548 M Ft | 548 M Ft | 548 M Ft | 548 M Ft |
 
-[^95]: A 20–21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^96]: Az 1. melléklet a 22/2019. (VIII. 10.) ITM rendelet 15. §-ával megállapított, a 49/2021. (X. 1.) ITM rendelet 19. § (2) bekezdése szerint módosított szöveg.
+[^98]: Az 1. melléklet a 22/2019. (VIII. 10.) ITM rendelet 15. §-ával megállapított, a 49/2021. (X. 1.) ITM rendelet 19. § (2) bekezdése szerint módosított szöveg.
