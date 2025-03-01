@@ -1,3 +1,3 @@
-13. §[^32]
+13. §[^33]
 
-[^32]: A 13. § a 38. § (4) bekezdése alapján hatályát vesztette.
+[^33]: A 13. § a 38. § (4) bekezdése alapján hatályát vesztette.

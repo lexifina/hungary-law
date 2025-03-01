@@ -38,10 +38,11 @@ b) az engedély kiadását követően olyan változás áll be, amely alapján a
 
 (7)[^31]
 
-(8) Ha a kérelmezett tevékenység akadályozza a rendvédelmi szervek jogszabályban meghatározott tevékenységének ellátását, a Hatóság az engedélyben műszaki vagy forgalmi korlátozó feltételeket szabhat meg.
+(8)[^32] Ha a kérelmezett tevékenység akadályozza a rendvédelmi szervek, valamint a polgári nemzetbiztonsági szolgálatok jogszabályban meghatározott tevékenységének ellátását, a Hatóság az engedélyben műszaki vagy forgalmi korlátozó feltételeket szabhat meg.
 
 [^27]: A 9. § (1) bekezdés a) pontja a 165/2019. (VII. 8.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^28]: A 9. § (1) bekezdés j) pontját a 360/2022. (IX. 19.) Korm. rendelet 27. §-a iktatta be.
 [^29]: A 9. § (4) bekezdését újonnan a 443/2021. (VII. 23.) Korm. rendelet 3. §-a iktatta be.
 [^30]: A 9. § (6) bekezdését a 165/2019. (VII. 8.) Korm. rendelet 12. § (2) bekezdés a) pontja hatályon kívül helyezte.
 [^31]: A 9. § (7) bekezdését a 165/2019. (VII. 8.) Korm. rendelet 12. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^32]: A 9. § (8) bekezdése a 24/2025. (II. 27.) Korm. rendelet 66. § b) pontja szerint módosított szöveg.

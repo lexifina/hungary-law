@@ -1,4 +1,4 @@
-19. § (1)[^39] A Hatóság kérelemre az EGT-államokban, az Amerikai Egyesült Államokban, Ausztráliában, Japánban, Kanadában, Nagy-Britannia és Észak-Írország Egyesült Királyságában, Svájcban vagy Új-Zélandon letelepedett szerződő felek, végfelhasználók esetében több haditechnikai eszközre vagy szolgáltatásra, tartós termelési, valamint értékesítési kapcsolatra vonatkozó globális forgalmi engedélyt adhat ki.
+19. § (1)[^41] A Hatóság kérelemre az EGT-államokban, az Amerikai Egyesült Államokban, Ausztráliában, Japánban, Kanadában, Nagy-Britannia és Észak-Írország Egyesült Királyságában, Svájcban vagy Új-Zélandon letelepedett szerződő felek, végfelhasználók esetében több haditechnikai eszközre vagy szolgáltatásra, tartós termelési, valamint értékesítési kapcsolatra vonatkozó globális forgalmi engedélyt adhat ki.
 
 (2) Haditechnikai eszköz kivitelére, újrakivitelére vagy kiszállítására és szolgáltatás nyújtására vonatkozó globális forgalmi engedély iránti kérelmet az 6. mellékletben meghatározott adattartalommal kell benyújtani a Hatóság részére.
 
@@ -16,4 +16,4 @@
 
 (9) Ha a Hatóság a globális forgalmi engedély kiadását Szállítási Tanúsítvány utólagos benyújtásához köti, a vállalkozás a Szállítási Tanúsítványt az áru végfelhasználó ország vámterületére történő érkezésétől számított egy hónapon belül köteles megküldeni a Hatóság részére.
 
-[^39]: A 19. § (1) bekezdése a 165/2019. (VII. 8.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.
+[^41]: A 19. § (1) bekezdése a 165/2019. (VII. 8.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.

@@ -4,7 +4,7 @@
 
 A haditechnikai külkereskedelmi engedély iránti kérelmek elbírálásakor alkalmazandó egységes magatartási kritériumok
 
-1.[^69] Első kritérium: a tagországok nemzetközi kötelezettségeinek és kötelezettségvállalásainak tiszteletben tartása.
+1.[^71] Első kritérium: a tagországok nemzetközi kötelezettségeinek és kötelezettségvállalásainak tiszteletben tartása.
 
 A kiviteli engedély iránti kérelmet el kell utasítani, ha az engedély megadása összeegyeztethetetlen Magyarországnak
 
@@ -90,4 +90,4 @@ f) a műszaki visszafejtés vagy technológia nem szándékos átadásának a ko
 
 A kiviteli engedély iránti kérelem elbírálásakor a hatóság figyelembe veszi – a megfelelő forrásokból, úgymint az ENSZ Fejlesztési Programjától (UNDP), a Világbanktól (World Bank), a Nemzetközi Valutaalaptól (IMF) és a Gazdasági Együttműködési és Fejlesztési Szervezet (OECD) jelentéseiből származó információkra is figyelemmel – azt, hogy a tervezett export nem hátráltatná-e súlyosan a fenntartható fejlődést a fogadó országban. Ebben az összefüggésben mérlegeli a fogadó ország katonai és szociális kiadásainak relatív szintjét, figyelembe véve bármilyen európai uniós vagy kétoldalú támogatást is.
 
-[^69]: A 2. melléklet 1. pontja a 443/2021. (VII. 23.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^71]: A 2. melléklet 1. pontja a 443/2021. (VII. 23.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.

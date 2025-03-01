@@ -40,7 +40,7 @@
 
 ## 12. az ügylet devizamentes vagy ideiglenes jellegére történő utalás.
 
-## II.[^74] Csatolandó okiratok:
+## II.[^76] Csatolandó okiratok:
 
 ## 1. az importőr harmadik ország beviteli engedélye, valamint
 
@@ -50,7 +50,7 @@
 
 ## 4. tranzit harmadik országok illetékes hatósága által kiadott tranzitengedély vagy a harmadik ország illetékes hatóságának nyilatkozata arról, hogy a tranzithoz hozzájárul, vagy a haditechnikai eszköz tranzitja nem engedélyköteles.
 
-13. melléklet a 156/2017. (VI. 16.) Korm. rendelethez[^75]
+13. melléklet a 156/2017. (VI. 16.) Korm. rendelethez[^77]
 
 A Végfelhasználói Nyilatkozat tartalma
 
@@ -84,5 +84,5 @@ A Végfelhasználói Nyilatkozat tartalma
 
 12. adott esetben a megfelelő kormányzati hatóságok általi igazolás
 
-[^74]: A 12. melléklet II. pontja a 165/2019. (VII. 8.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
-[^75]: A 13. mellékletet a 360/2022. (IX. 19.) Korm. rendelet 31. § (2) bekezdése iktatta be.
+[^76]: A 12. melléklet II. pontja a 165/2019. (VII. 8.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^77]: A 13. mellékletet a 360/2022. (IX. 19.) Korm. rendelet 31. § (2) bekezdése iktatta be.
