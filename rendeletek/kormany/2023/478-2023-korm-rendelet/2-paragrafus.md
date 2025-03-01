@@ -18,7 +18,7 @@ f) igazoltan teljesítette a közbeszerzési szakmai képzésre vonatkozó köve
 
 g) nem áll ügyvédi vagy kamarai jogtanácsosi tevékenységtől való eltiltás hatálya alatt,
 
-h) munkaviszonyát, közszolgálati, kormányzati szolgálati vagy közalkalmazotti jogviszonyát, egészségügyi szolgálati jogviszonyát, rendvédelmi igazgatási szolgálati jogviszonyát, honvédelmi alkalmazotti jogviszonyát, adó- és vámhatósági szolgálati jogviszonyát, a közszolgálati tisztviselőkről szóló törvény szerinti ösztöndíjas foglalkoztatási jogviszonyát, ügyészségi szolgálati jogviszonyát, bírói szolgálati jogviszonyát, igazságügyi alkalmazotti szolgálati jogviszonyát, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyát, valamint a Magyar Honvédség hivatásos, szerződéses és önkéntes tartalékos állományának szolgálati viszonyát (a továbbiakban együtt: foglalkoztatási jogviszony) az őt foglalkoztató, a Kbt. 3. § 2a. pontjában hivatkozott ajánlatkérő által kiadott és aláírt igazolással igazolja, és
+h)[^1] munkaviszonyát, közszolgálati, kormányzati szolgálati vagy közalkalmazotti jogviszonyát, egészségügyi szolgálati jogviszonyát, rendvédelmi igazgatási szolgálati jogviszonyát, honvédelmi alkalmazotti jogviszonyát, adó- és vámhatósági szolgálati jogviszonyát, a közszolgálati tisztviselőkről szóló törvény szerinti ösztöndíjas foglalkoztatási jogviszonyát, ügyészségi szolgálati jogviszonyát, bírói szolgálati jogviszonyát, igazságügyi alkalmazotti szolgálati jogviszonyát, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyát, nemzetbiztonsági szolgálati jogviszonyát, nemzetbiztonsági alkalmazotti jogviszonyát, valamint a Magyar Honvédség hivatásos, szerződéses és önkéntes tartalékos állományának szolgálati viszonyát (a továbbiakban együtt: foglalkoztatási jogviszony) az őt foglalkoztató, a Kbt. 3. § 2a. pontjában hivatkozott ajánlatkérő által kiadott és aláírt igazolással igazolja, és
 
 i) az Elektronikus Közbeszerzési Rendszerben (a továbbiakban: EKR) regisztrációval rendelkezik.
 
@@ -31,3 +31,5 @@ i) az Elektronikus Közbeszerzési Rendszerben (a továbbiakban: EKR) regisztrá
 (6) Az (1)–(5) bekezdés alapján névjegyzékbe vett állami közbeszerzési szaktanácsadók tevékenységüket a bejegyzés hatálya alatt gyakorolhatják.
 
 (7) A bejegyzés időbeli hatálya a névjegyzékbe vételtől számított két év.
+
+[^1]: A 2. § (2) bekezdés h) pontja a 24/2025. (II. 27.) Korm. rendelet 100. §-a szerint módosított szöveg.
