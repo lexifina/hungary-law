@@ -46,7 +46,7 @@
 
 ## 7.2. általános (környezetvédelmi) sebességkorlátozás ideiglenes bevezetése;
 
-## 7.3. a gépjárműforgalom korlátozása a megkülönböztető jelzést használó egészségügyi és rendvédelmi szervek gépjárművei, továbbá az ügyeletet ellátó orvosok, háziorvosok, házigyermekorvosok, sürgősségi vérkészítmény-szállítók, sürgősségi gyógyszerszállítók, a betegszállítók és a bentlakásos szociális intézmények működésének érdekében sürgős szállítási feladatokat ellátók gépjárművei és a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló 6/1990. (IV.12.) KÖHÉM rendelet szerinti környezetkímélő gépkocsik kivételével;
+## 7.3. a gépjárműforgalom korlátozása a megkülönböztető jelzést használó egészségügyi szervek, rendvédelmi szervek és polgári nemzetbiztonsági szolgálatok gépjárművei, továbbá az ügyeletet ellátó orvosok, háziorvosok, házigyermekorvosok, sürgősségi vérkészítmény-szállítók, sürgősségi gyógyszerszállítók, a betegszállítók és a bentlakásos szociális intézmények működésének érdekében sürgős szállítási feladatokat ellátók gépjárművei és a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló 6/1990. (IV.12.) KÖHÉM rendelet szerinti környezetkímélő gépkocsik kivételével;
 
 ## 7.5. a tömegközlekedés és a nem motorizált közlekedés használatának előnyben részesítésére történő felszólítás;
 
