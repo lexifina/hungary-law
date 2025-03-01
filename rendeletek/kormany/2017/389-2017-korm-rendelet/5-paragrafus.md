@@ -4,7 +4,7 @@ a) más foglalkoztatási jogviszony keretében vagy
 
 b) célfeladat ellátásával
 
-## kerülhet sor.
+kerülhet sor.
 
 (2) A célfeladat ellátásának időtartama a tárgyévben a hat hónapot nem haladhatja meg. A célfeladat eredményes végrehajtásáért a céljuttatást a közigazgatási szerv előlegezi meg.
 
