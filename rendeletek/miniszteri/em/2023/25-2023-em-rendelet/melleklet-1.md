@@ -1,4 +1,4 @@
-1. melléklet a 25/2023. (XII. 13.) EM rendelethez
+1. melléklet a 25/2023. (XII. 13.) EM rendelethez[^2]
 
 A nem lakossági felhasználók víziközmű-szolgáltatásért fizetendő díjai
 
@@ -8,35 +8,35 @@ A nem lakossági felhasználók víziközmű-szolgáltatásért fizetendő díja
 
 | 1 | Átfolyási átmérő [mm] | Alapdíj [Ft/bekötés/hó] | Fogyasztással arányos díj [Ft/m3] |
 
-| 2 | 13 | 841 | 576 |
+| 2 | 13 | 872 | 597 |
 
-| 3 | 20 | 1 991 |
+| 3 | 20 | 2 065 |
 
-| 4 | 25 | 3 110 |
+| 4 | 25 | 3 225 |
 
-| 5 | 30 | 4 479 |
+| 5 | 30 | 4 645 |
 
-| 6 | 40 | 7 963 |
+| 6 | 40 | 8 258 |
 
-| 7 | 50 | 12 442 |
+| 7 | 50 | 12 902 |
 
-| 8 | 65 | 21 027 |
+| 8 | 65 | 21 805 |
 
-| 9 | 80 | 31 851 |
+| 9 | 80 | 33 029 |
 
-| 10 | 100 | 49 768 |
+| 10 | 100 | 51 609 |
 
-| 11 | 125 | 77 762 |
+| 11 | 125 | 80 639 |
 
-| 12 | 150 | 111 977 |
+| 12 | 150 | 116 120 |
 
-| 13 | 200 | 199 071 |
+| 13 | 200 | 206 437 |
 
-| 14 | 250 | 311 048 |
+| 14 | 250 | 322 557 |
 
-| 15 | 300 | 447 909 |
+| 15 | 300 | 464 482 |
 
-| 16 | 300 < | 609 654 |
+| 16 | 300 < | 632 211 |
 
 2. Közműves szennyvízelvezetés és -tisztítás
 
@@ -44,34 +44,36 @@ A nem lakossági felhasználók víziközmű-szolgáltatásért fizetendő díja
 
 | 1 | Átfolyási átmérő [mm] | Alapdíj [Ft/bekötés/hó] | Fogyasztással arányos díj [Ft/m3] |
 
-| 2 | 13 | 1 661 | 881 |
+| 2 | 13 | 1 722 | 914 |
 
-| 3 | 20 | 3 932 |
+| 3 | 20 | 4 077 |
 
-| 4 | 25 | 6 144 |
+| 4 | 25 | 6 371 |
 
-| 5 | 30 | 8 848 |
+| 5 | 30 | 9 175 |
 
-| 6 | 40 | 15 729 |
+| 6 | 40 | 16 311 |
 
-| 7 | 50 | 24 576 |
+| 7 | 50 | 25 485 |
 
-| 8 | 65 | 41 534 |
+| 8 | 65 | 43 071 |
 
-| 9 | 80 | 62 916 |
+| 9 | 80 | 65 244 |
 
-| 10 | 100 | 98 306 |
+| 10 | 100 | 101 943 |
 
-| 11 | 125 | 153 603 |
+| 11 | 125 | 159 286 |
 
-| 12 | 150 | 221 188 |
+| 12 | 150 | 229 372 |
 
-| 13 | 200 | 393 224 |
+| 13 | 200 | 407 773 |
 
-| 14 | 250 | 614 412 |
+| 14 | 250 | 637 145 |
 
-| 15 | 300 | 884 753 |
+| 15 | 300 | 917 489 |
 
-| 16 | 300 < | 1 204 247 |
+| 16 | 300 < | 1 248 804 |
 
 3. Ha a számlázás alapjául szolgáló fogyasztásmérő berendezés átfolyási átmérője eltér az 1. és a 2. pontban foglalt táblázat A oszlopában meghatározott értéktől, az alapdíjként a fogyasztásmérő berendezés átmérőjéhez legközelebb álló, kisebb alapdíjat kell figyelembe venni.
+
+[^2]: Az 1. melléklet a 3/2025. (II. 25.) EM rendelet 1. §-ával megállapított szöveg.
