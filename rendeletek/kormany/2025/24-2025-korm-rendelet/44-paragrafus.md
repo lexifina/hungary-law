@@ -1,0 +1,1 @@
+44. § Az ikerintézményi program fejlesztési tevékenységének ellátásáról és a projektjei lebonyolításának szabályairól, valamint a projektekben résztvevő szakértőkre vonatkozó szabályokról szóló 311/2012. (XI. 7.) Korm. rendelet 1. § c) pontjában a „szervekre és” szövegrész helyébe a „szervekre, a polgári nemzetbiztonsági szolgálatokra és” szöveg lép.

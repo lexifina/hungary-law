@@ -1,0 +1,3 @@
+## 67. A kormányzati igazgatási létszámgazdálkodásról, valamint a kormányzati igazgatási szerveket és azok foglalkoztatottjait érintő egyes személyügyi kérdésekről szóló 88/2019. (IV. 23.) Korm. rendelet módosítása
+
+79. § A kormányzati igazgatási létszámgazdálkodásról, valamint a kormányzati igazgatási szerveket és azok foglalkoztatottjait érintő egyes személyügyi kérdésekről szóló 88/2019. (IV. 23.) Korm. rendelet 2. § (2) bekezdés c) pontjában a „jogviszony időtartama,” szövegrész helyébe a „jogviszony, a nemzetbiztonsági szolgálati jogviszony, a nemzetbiztonsági alkalmazotti jogviszony időtartama,” szöveg lép.

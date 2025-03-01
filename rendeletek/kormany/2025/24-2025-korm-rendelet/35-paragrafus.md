@@ -1,0 +1,3 @@
+## 29. A személyes gondoskodást nyújtó gyermekjóléti alapellátások és gyermekvédelmi szakellátások térítési díjáról és az igénylésükhöz felhasználható bizonyítékokról szóló 328/2011. (XII. 29.) Korm. rendelet módosítása
+
+35. § A személyes gondoskodást nyújtó gyermekjóléti alapellátások és gyermekvédelmi szakellátások térítési díjáról és az igénylésükhöz felhasználható bizonyítékokról szóló 328/2011. (XII. 29.) Korm. rendelet 5. melléklet III. Jövedelem típusai alcím 1. pontjában a „jogviszonyában folytatott” szövegrész helyébe a „jogviszonyában, nemzetbiztonsági szolgálati jogviszonyban, nemzetbiztonsági alkalmazotti jogviszonyban folytatott” szöveg lép.
