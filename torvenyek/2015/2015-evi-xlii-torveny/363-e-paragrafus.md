@@ -1,0 +1,1 @@
+363/E. § Az MRK-nak a polgári nemzetbiztonsági szolgálatok állományából megválasztott tisztségviselőjének megbízatása 2025. március 1-jén megszűnik. A megszűnő megbízatású tisztségviselő helyett az MRK a szükséges esetben a Közgyűlés tagjai közül az új tisztségviselőt 2025. március 31-ig választja meg

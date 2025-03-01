@@ -10,4 +10,4 @@
 
 (3) A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény szerinti ellátásra a hivatásos állomány tagja nem jogosult, ha ugyanazon jogi tény alapján e törvény szerinti ellátást vett igénybe.
 
-(4) A polgári nemzetbiztonsági szolgálat hivatásos állománya tekintetében a polgári nemzetbiztonsági szolgálat főigazgatója határozza meg, hogy a hivatásos állomány tagja melyik magánnyugdíjpénztárhoz, önkéntes nyugdíjpénztárhoz vagy önkéntes egészségpénztárhoz csatlakozhat.
+(4)

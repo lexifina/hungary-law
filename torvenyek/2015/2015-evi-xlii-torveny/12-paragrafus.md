@@ -1,6 +1,6 @@
 ## 9. A határidők számítása
 
-12. § (1) Napon – ha jogszabály vagy a polgári nemzetbiztonsági szolgálatok hivatásos állománya esetében közjogi szervezetszabályozó eszköz eltérően nem rendelkezik – naptári napot kell érteni.
+12. § (1) Napon – ha jogszabály eltérően nem rendelkezik – naptári napot kell érteni.
 
 (2) A napokban megállapított határidőbe nem számít be az a nap, amelyen a határidő megkezdésére okot adó intézkedés – így különösen a kézbesítés – történt.
 

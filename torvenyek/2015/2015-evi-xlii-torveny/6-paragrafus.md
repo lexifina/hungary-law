@@ -38,4 +38,4 @@ d) ha a munkáltatói jogkör gyakorlója a hivatásos állomány tagja eljárá
 
 (9) Az írásbeli jognyilatkozatokat – az Országgyűlési Őrség hivatásos állománya kivételével, valamint a (10) bekezdésben foglalt eltéréssel – a (4) vagy (6) bekezdés szerint kell kiadmányozni és a 6/A. § szerint kell kézbesíteni.
 
-(10) A polgári nemzetbiztonsági szolgálatok hivatásos állománya esetében az írásbeli jognyilatkozatot papír alapú vagy elektronikus dokumentumban kell kiadmányozni és közölni. A miniszter közjogi szervezetszabályozó eszközében meghatározott szolgálati beosztások esetében a 6/A. § (3)–(5) bekezdése nem alkalmazható.
+(10)

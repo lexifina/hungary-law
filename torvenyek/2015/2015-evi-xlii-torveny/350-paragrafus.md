@@ -6,7 +6,7 @@
 
 (4) A 140. § (2) és (3) bekezdésétől eltérően 2025. december 31-ig a túlszolgálat ellentételezéseként a hivatásos állomány tagját – az állományilletékes és annál magasabb parancsnok kivételével – szabadidő vagy díjazás illeti meg. Az ellentételezés formájáról – a szolgálatszervezés érdekeire figyelemmel, a hivatásos állomány tagja igényének, a pihenéshez való jog, a szolgálatteljesítés és a pihenőidő egyensúlya biztosításának, valamint a költségvetési forrásokkal való felelős gazdálkodás követelményének figyelembevétele mellett – az állományilletékes parancsnok dönt. A túlszolgálatért annak időtartamával megegyező, ha pedig a túlszolgálatot a heti pihenőnapon, munkaszüneti napon, illetve húsvét- vagy pünkösdvasárnapon teljesítették, a túlszolgálat kétszeresének megfelelő szabadidő vagy díjazás jár. A túlszolgálatért díjazásként annak idejére távolléti díj jár, amelyet legkésőbb a tárgyhónapot követő második hónapban kell kifizetni.
 
-(4a) A polgári nemzetbiztonsági szolgálatok hivatásos állománya vonatkozásában az állományilletékes parancsnok szolgálati érdekből dönthet úgy, hogy egyes szolgálati beosztások esetében a teljesített túlszolgálat a (4) bekezdésben foglaltaktól eltérően csak díjazással vagy csak szabadidőben ellentételezhető.
+(4a)
 
 (4b) A 140. § (6)–(24) bekezdése szerinti önként vállalt túlszolgálat és a 289/L. § (10)–(28) bekezdése szerinti önként vállalt túlmunka elrendelésére 2025. december 31-ig van lehetőség.
 

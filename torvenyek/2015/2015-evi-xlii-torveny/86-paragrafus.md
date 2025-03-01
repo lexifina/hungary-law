@@ -20,9 +20,9 @@ b) a hivatásos szolgálatra alkalmatlanná vált, mert nem felel meg a kifogás
 
 c) nemzetbiztonsági szempontból alkalmatlanná vált, mert a nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg – kivéve, ha a nemzetbiztonsági ellenőrzés tárgykörét szabályozó törvény szerint arra feljogosított személy a nemzetbiztonsági ellenőrzés alá eső jogviszony fenntartását jóváhagyta –, vagy a 33. § (6) bekezdése szerint megtett hozzájáruló nyilatkozatát visszavonta, és
 
-ca) a hivatásos állomány tagja a részére az eredeti szolgálati beosztásból való felmentését követően vagy a rendelkezési állomány ideje alatt az 54. §-ban foglaltak szerint felajánlott szolgálati beosztást nem fogadta el, vagy
+ca) a hivatásos állomány tagja a részére az eredeti szolgálati beosztásból való felmentését követően vagy a rendelkezési állomány ideje alatt az 54. vagy 54/A. §-ban foglaltak szerint felajánlott szolgálati beosztást nem fogadta el, vagy
 
-cb) a rendelkezési állomány ideje úgy telik el, hogy részére az 54. §-ban foglaltaknak megfelelő, felajánlható szolgálati beosztás nem volt,
+cb) a rendelkezési állomány ideje úgy telik el, hogy részére az 54. vagy 54/A. §-ban foglaltaknak megfelelő, felajánlható szolgálati beosztás nem volt,
 
 d) a hivatásos szolgálatra méltatlanná vált, mert szolgálaton kívül olyan cselekményt követett el, amely a rendvédelmi szerv működésébe vetett közbizalmat súlyosan veszélyezteti és emiatt nem várható el, hogy a rendvédelmi szerv a szolgálati viszonyát fenntartsa,
 

@@ -40,13 +40,11 @@ is alkalmazni kell azzal, hogy esetükben a szolgálati viszonyon a hallgatói, 
 
 (7) A (4) bekezdésben írt feltételek ellenőrzését
 
-a) a saját állománya tekintetében a polgári nemzetbiztonsági szolgálat,
+a) a Nemzeti Adó- és Vámhivatal esetében az Alkotmányvédelmi Hivatal,
 
-b) a Nemzeti Adó- és Vámhivatal esetében az Alkotmányvédelmi Hivatal,
+b) a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv irányításáért felelős miniszter irányítása alá tartozó rendvédelmi szerv esetében a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv
 
-c) a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv irányításáért felelős miniszter irányítása alá tartozó rendvédelmi szerv esetében a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv
-
-[az a)–c) pont ezen alcím alkalmazásában a továbbiakban együtt: kifogástalan életvitelt ellenőrző szerv] végzi.
+[az a) és b) pont ezen alcím alkalmazásában a továbbiakban együtt: kifogástalan életvitelt ellenőrző szerv] végzi.
 
 (8) A (4) bekezdés b) pontjában meghatározott büntetésről vagy kényszergyógykezelés elrendeléséről a jogerős ügydöntő határozatot hozó bíróság haladéktalanul értesíti az állományilletékes parancsnokot, aki – a kifogástalan életvitel-ellenőrzés lefolytatása nélkül – a bíróság ügydöntő határozatának jogerőre emelkedését követő nappal megállapítja, hogy a hivatásos állomány tagjának életvitele kifogásolható, és e törvény szerint intézkedik a szolgálati viszony megszüntetése érdekében.
 

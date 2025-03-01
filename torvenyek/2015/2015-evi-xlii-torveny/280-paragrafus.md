@@ -22,6 +22,8 @@ h) a sor- és tartalékos katonai szolgálatban eltöltött időt.
 
 i) a Nemzeti Adó- és Vámhivatalnál adó- és vámhatósági szolgálati jogviszonyban és munkaviszonyban, valamint 2021. január 1-jét megelőzően hivatásos szolgálati jogviszonyban, kormánytisztviselői jogviszonyban töltött időt.
 
+j) – ha a rendvédelmi szerv feladataira tekintettel az országos parancsnok vagy országos főigazgató javaslatára a miniszter ezen időtartamok beszámításáról dönt – a polgári nemzetbiztonsági szolgálatnál nemzetbiztonsági szolgálati jogviszonyban és nemzetbiztonsági alkalmazotti jogviszonyban, valamint 2025. március 1-jét megelőzően hivatásos szolgálati jogviszonyban vagy rendvédelmi igazgatási szolgálati jogviszonyban töltött időt.
+
 (2) Ahol e törvény tényleges szolgálati időről rendelkezik, szolgálati időként kell figyelembe venni
 
 a) a valamely rendvédelmi szervnél szolgálati viszonyban, szerződéses határvadász jogviszonyban vagy a Magyar Honvédségnél szolgálati viszonyban eltöltött – naptári napban meghatározandó – időt
@@ -30,7 +32,9 @@ b) az e törvény hatálybalépése előtt az 1996. évi XLIII. törvény rendel
 
 c) a Nemzeti Adó- és Vámhivatalnál pénzügyőri státuszon létesített adó- és vámhatósági szolgálati jogviszonyban, valamint 2021. január 1-jét megelőzően hivatásos szolgálati jogviszonyban töltött időt.
 
-(3) A szolgálati viszony létesítésekor a fizetési fokozat megállapításakor fizetési várakozási időben eltöltött időként kell figyelembe venni az (1) bekezdés a)–e), valamint i) pontjában meghatározott időket.
+d) – ha a miniszter az (1) bekezdés j) pontja szerinti időtartamok beszámításról döntött – a polgári nemzetbiztonsági szolgálatnál létesített nemzetbiztonsági szolgálati jogviszonyban, valamint 2025. március 1-jét megelőzően hivatásos szolgálati jogviszonyban töltött időt.
+
+(3) A szolgálati viszony létesítésekor a fizetési fokozat megállapításakor fizetési várakozási időben eltöltött időként kell figyelembe venni az (1) bekezdés a)–e), valamint i) és j) pontjában meghatározott időket.
 
 (4) Akinek a szolgálati ideje az 1996. évi XLIII. törvény 341/D. §-a alapján rögzítésre került,
 

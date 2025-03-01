@@ -1,4 +1,4 @@
-330. § (1) Az 54. § alkalmazása helyett az Országgyűlési Őrség hivatásos állománya tagjának a szolgálati viszonyát felmentéssel meg kell szüntetni, ha
+330. § (1) Az 54. § és 54/A. § alkalmazása helyett az Országgyűlési Őrség hivatásos állománya tagjának a szolgálati viszonyát felmentéssel meg kell szüntetni, ha
 
 a) a nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg, kivéve, ha a nemzetbiztonsági ellenőrzés tárgykörét szabályozó törvény szerint arra feljogosított személy a nemzetbiztonsági ellenőrzés alá eső jogviszony fenntartását jóváhagyta vagy
 

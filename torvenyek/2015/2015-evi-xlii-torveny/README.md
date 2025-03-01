@@ -60,3 +60,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-42-00-00
 | 2024-12-21 | 2024. évi LXXI. törvény | 2015-42-00-00.57 |
 | 2024-12-30 | 2024. évi LXXVII. törvény | 2015-42-00-00.59 |
 | 2025-01-01 | 2024. évi LXXVII. törvény | 2015-42-00-00.50 |
+| 2025-03-01 | 2024. évi LXXI. törvény | 2015-42-00-00.58 |

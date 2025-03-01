@@ -42,13 +42,13 @@
 
 18. országos főigazgató: a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv, a terrorizmust elhárító szerv, valamint az idegenrendészeti szerv főigazgatója;
 
-19. országos parancsnok: az országos rendőr-főkapitány, a hivatásos katasztrófavédelmi szerv központi szervének vezetője, a büntetés-végrehajtás országos parancsnoka, a polgári nemzetbiztonsági szolgálatok főigazgatói, valamint az Országgyűlési Őrség parancsnoka;
+19. országos parancsnok: az országos rendőr-főkapitány, a hivatásos katasztrófavédelmi szerv központi szervének vezetője, a büntetés-végrehajtás országos parancsnoka, valamint az Országgyűlési Őrség parancsnoka;
 
 20. pályakezdő: az a személy, aki a besorolása alapjául szolgáló iskolai végzettségének megszerzése után első foglalkoztatási jogviszonyként szolgálati viszonyt létesít, a véglegesítéséig;
 
 21. preferált település: olyan település vagy településrész, amelynek sajátosságai miatt – figyelemmel a rendvédelmi szerv vagy annak szervezeti egysége által ellátott feladatok jellegére – az adott településen vagy településrészen való szolgálatteljesítés ösztönzése indokolt;
 
-22. rendvédelmi oktatási intézmény: rendvédelmi szakképző intézmény, valamint a rendészeti és nemzetbiztonsági felsőoktatást folytató felsőoktatási intézmény;
+22. rendvédelmi oktatási intézmény: rendvédelmi szakképző intézmény, valamint a rendészeti felsőoktatást folytató felsőoktatási intézmény;
 
 22a. rendvédelmi tisztjelölt: a rendvédelmi alapképzésre felvételt nyert személy, aki a képzés időtartama alatt hallgatói jogviszonyban és a XXVII. Fejezetben meghatározottak szerinti tisztjelölti szolgálati jogviszonyban áll;
 

@@ -32,18 +32,4 @@ o) az önként vállalt túlmunka vállalásának és elszámolásának rendjét
 
 p) az érdemtelenség megállapítására vonatkozó eljárási szabályokat.
 
-(2) A miniszter a polgári nemzetbiztonsági szolgálatok rendvédelmi igazgatási alkalmazottai tekintetében közjogi szervezetszabályozó eszközben határozza meg:
-
-a) azokat a munkaköröket, amelyek esetében a 6/A. § (3)–(5) bekezdése nem alkalmazható,
-
-b) a kirendelés részletes szabályait,
-
-c) az egészségi alkalmassági követelményeket, az egészségi alkalmassági követelmények felmérésének szabályait, az alkalmassági vizsgálatok fajtáit, a felmérést végző szervezetek kijelölését, az alkalmassági vizsgálatok eljárási rendjét, az egészségi alkalmassági követelményeknek való meg nem feleléssel kapcsolatos eljárást,
-
-d) a továbbképzés részletes szabályait,
-
-e) a munkavégzés helyétől, idejétől és körülményeitől függő egyéb pótlékok folyósításának feltételeit,
-
-f) a polgári nemzetbiztonsági szolgálat és a rendvédelmi igazgatási alkalmazottak kártérítési felelősségével kapcsolatos eljárások részletes szabályait, a kártérítési felelősség megállapításának módját, a kártérítés mérséklésének, elengedésének és mellőzésének részletes szabályait,
-
-g) a munkavégzés alapvető feltételeiről és szempontjairól szóló tájékoztatás tartalmát és rendjét.
+(2)

@@ -20,11 +20,11 @@ f) a büntetés-végrehajtási szervezet,
 
 g) az Országgyűlési Őrség,
 
-h) a polgári nemzetbiztonsági szolgálatok
+h)
 
 i)
 
-[az a)–h) pontban felsorolt rendvédelmi feladatokat ellátó szervek e törvény alkalmazásában a továbbiakban: rendvédelmi szerv] hivatásos állománya tagjainak hivatásos szolgálati jogviszonyára (a továbbiakban: szolgálati viszony) és egyes társadalombiztosítási ellátására terjed ki.
+[az a)–g) pontban felsorolt rendvédelmi feladatokat ellátó szervek e törvény alkalmazásában a továbbiakban: rendvédelmi szerv] hivatásos állománya tagjainak hivatásos szolgálati jogviszonyára (a továbbiakban: szolgálati viszony) és egyes társadalombiztosítási ellátására terjed ki.
 
 (2) Az Országgyűlési Őrség hivatásos állományának szolgálati viszonyára az e törvényben foglaltakat az Országgyűlésről szóló törvényben foglalt eltérésekkel kell alkalmazni.
 

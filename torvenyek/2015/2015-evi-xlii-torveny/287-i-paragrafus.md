@@ -12,4 +12,4 @@ c) a teljesítményértékelés,
 
 d) a fegyelmi, kártérítési és személyiségi jogsértés tárgyában hozott határozat.
 
-(3) A polgári nemzetbiztonsági szolgálatot irányító miniszter által kiadott közjogi szervezetszabályozó eszközben meghatározott rendvédelmi igazgatási alkalmazotti munkaköröket betöltő rendvédelmi alkalmazott esetében a 6/A. § (3)–(5) bekezdés nem alkalmazható.
+(3)

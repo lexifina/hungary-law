@@ -1,3 +1,1 @@
-333. § (1) A polgári nemzetbiztonsági szolgálatok hivatásos állományának tagja szakszervezetnek nem lehet tagja, a polgári nemzetbiztonsági szolgálatoknál a hivatásos állomány érdekvédelmére szakszervezet nem működhet.
-
-(2) A 109. § (5) bekezdésétől eltérően a polgári nemzetbiztonsági szolgálatok hivatásos állományának tagja köteles bejelenteni a szolgálati időn kívül végzett tudományos, oktatói, művészeti, lektori, szerkesztői, valamint a jogi oltalom alá eső tevékenység folytatását. Ezen tevékenységek folytatását az állományilletékes parancsok korlátozhatja, ha az sérti vagy veszélyezteti a szolgálati érdeket.
+### 333. §

@@ -6,7 +6,7 @@
 
 (4) A Becsületbíróság további két tagját a Becsületbíróságot összehívó elöljáró jelöli ki, a hivatásos állomány névjegyzéken szereplő, az eljárás alá vonttal legalább azonos rendfokozati állománycsoportba tartozó tagjai közül.
 
-(4a) Az Országgyűlési Őrség és a polgári nemzetbiztonsági szolgálatok a névjegyzéket
+(4a) Az Országgyűlési Őrség a névjegyzéket
 
 a) a tiszthelyettesi és a zászlósi, valamint
 

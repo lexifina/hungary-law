@@ -2,7 +2,7 @@
 
 (2) A középfokú munkaköri osztályba tartozó „A” vagy „B” munkaköri kategóriába az érettségi végzettségű rendvédelmi alkalmazottat kell sorolni.
 
-(3) A Kormány által rendeletben meghatározott, a polgári nemzetbiztonsági szolgálatoknál általános iskolai végbizonyítványt vagy OKJ-s (alap vagy közép) végzettséget vagy szakmunkás bizonyítvánnyal betölthető munkakört betöltő rendvédelmi alkalmazottat a (2) bekezdés szerinti középfokú munkaköri osztályba tartozó „A” munkaköri kategóriába kell besorolni. Az igazgatási jogviszonyra a középfokú munkaköri kategóriákba tartozókra irányadó szabályokat kell alkalmazni.
+(3)
 
 (4) A „C”, „D” és „E” munkaköri kategóriába sorolt rendvédelmi alkalmazottat a szolgálati ideje alapján meghatározott fizetési fokozatba kell besorolni.
 

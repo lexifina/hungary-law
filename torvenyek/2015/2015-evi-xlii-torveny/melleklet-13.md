@@ -45,21 +45,3 @@ III. Korábbi igazgatási jogviszonyok
 ## – a megszűnés módja, időpontja
 
 IV. A jelenlegi igazgatási jogviszony adatai
-
-## – a rendvédelmi igazgatási szolgálati igazgatási jogviszony kezdete
-
-## – a jubileumi jutalom és a végkielégítés mértéke kiszámításának alapjául szolgáló időtartamok
-
-## – a foglalkoztató szerv neve, székhelye, statisztikai számjele
-
-## – e szervnél az igazgatási jogviszony kezdete
-
-## – a rendvédelmi alkalmazott munkaköre (FEOR-száma)
-
-## – a rendvédelmi alkalmazott munkaköri osztálya, munkaköri kategóriája, besorolásának időpontja
-
-## – vezetői munkakör
-
-## – a teljesítményértékelés időpontja és eredménye
-
-## – személyi juttatások: megállapított illetmény

@@ -6,7 +6,7 @@ b) a hivatásos katasztrófavédelmi szerv ünnepnapja május 4-e, Szent Flóri�
 
 c) a büntetés-végrehajtási szervezet ünnepnapja szeptember 8-a, Szent Adorján napja,
 
-d) a polgári nemzetbiztonsági szolgálatok ünnepnapja március 1-je, a nemzetbiztonsági szolgálatok megalakulásának napja.
+d)
 
 (2) Munkaszüneti napon, valamint húsvét- vagy pünkösdvasárnapon teljesített szolgálatért a hivatásos állomány tagját a munkájáért járó illetményén felül távolléti díj is megilleti.
 

@@ -50,4 +50,16 @@ eb) 2021. január 1-jét megelőzően hivatásos szolgálati,
 
 ec) 2021. január 1-jét megelőzően kormányzati szolgálati
 
+f) – ha a rendvédelmi szerv feladataira tekintettel az országos parancsnok vagy országos főigazgató javaslatára a miniszter ezen időtartamok beszámításáról dönt – a polgári nemzetbiztonsági szolgálatnál
+
+fa) nemzetbiztonsági szolgálati,
+
+fb) nemzetbiztonsági alkalmazotti,
+
+fc) 2025. március 1-jét megelőzően hivatásos szolgálati,
+
+fd) 2025. március 1-jét megelőzően igazgatási
+
+jogviszonyban eltöltött időt.
+
 jogviszonyban eltöltött időt.
