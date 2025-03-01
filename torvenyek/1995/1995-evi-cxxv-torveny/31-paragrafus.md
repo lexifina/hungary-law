@@ -2,7 +2,7 @@
 
 31. § (1) A nemzetbiztonsági szolgálatok nyomozást és előkészítő eljárást nem folytathatnak.
 
-(2) A nemzetbiztonsági szolgálatok hivatásos állományú tagja a 32–36. §-ban meghatározott intézkedéseket a nemzetbiztonsági szolgálatok feladatkörébe tartozó bűncselekmények megelőzése, illetve az ilyen bűncselekmények elkövetőjének elfogása érdekében alkalmazhatja.
+(2) A nemzetbiztonsági szolgálatok hivatásos állományú tagja a 32–36/A. §-ban meghatározott intézkedéseket a nemzetbiztonsági szolgálatok feladatkörébe tartozó bűncselekmények megelőzése, illetve az ilyen bűncselekmények elkövetőjének elfogása érdekében alkalmazhatja.
 
 (3) A nemzetbiztonsági szolgálatok a feladataik ellátása során a személyes szabadsághoz, a magánlakás, a magántitok és a levéltitok sérthetetlenségéhez, a személyes adatok védelméhez, a közérdekű adatok nyilvánosságához, valamint a birtokvédelemhez fűződő jogokat e törvényben foglaltak szerint korlátozhatják.
 

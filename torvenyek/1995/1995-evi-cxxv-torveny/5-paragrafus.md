@@ -1,6 +1,6 @@
 5. § Az Alkotmányvédelmi Hivatal
 
-a) felderíti és elhárítja a Magyarország függetlenségét, politikai, gazdasági, védelmi vagy más fontos érdekét sértő vagy veszélyeztető külföldi titkosszolgálati törekvéseket és tevékenységet;
+a) felderíti és elhárítja a Magyarország függetlenségét, politikai, gazdasági, védelmi vagy más fontos érdekét sértő vagy veszélyeztető külföldi titkosszolgálati és egyéb külföldi törekvéseket és tevékenységet;
 
 b) felderíti és elhárítja Magyarország törvényes rendjének törvénytelen eszközökkel történő megváltoztatására vagy megzavarására irányuló leplezett törekvéseket;
 
@@ -8,7 +8,7 @@ c)
 
 d) felderíti és elhárítja a Magyarország gazdasági, tudományos-technikai, pénzügyi biztonságát veszélyeztető leplezett törekvéseket, valamint a jogellenes kábítószer- és fegyverkereskedelmet;
 
-e) ellátja a központi államhatalmi és kormányzati tevékenység szempontjából fontos szervek (intézmények) és létesítmények biztonsági védelmét;
+e) – szükség esetén az Információs Hivatal bevonásával – ellátja a központi államhatalmi és kormányzati tevékenység szempontjából fontos szervek (intézmények) és létesítmények biztonsági védelmét;
 
 f) ellátja a hatáskörébe tartozó személyek nemzetbiztonsági védelmének feladatait, illetve elvégzi – a Katonai Nemzetbiztonsági Szolgálat, a Nemzetbiztonsági Szakszolgálat, valamint az Információs Hivatal hatáskörébe tartozó személyek kivételével – a nemzetbiztonsági ellenőrzés alá eső személyek nemzetbiztonsági ellenőrzésének feladatait;
 
@@ -50,6 +50,6 @@ n) elvégzi a védelmi és biztonsági célú beszerzésekről szóló törvény
 
 o) végzi az egységes elektronikuskártya-kibocsátási keretrendszerről szóló törvény szerint kártyakibocsátás engedélyezését kérők ellenőrzését és az ezzel kapcsolatos feladatokat;
 
-p) felderíti és elhárítja a Magyarország nemzetbiztonságát veszélyeztető, a g) pont szerinti kérelmekhez kapcsolódó, Magyarországra jogellenesen belépő, itt tartózkodó, illetve ezt elősegítő, és ilyen módon az ország nemzetbiztonságát veszélyeztető személyek, csoportok leplezett tevékenységét;
+p) felderíti és elhárítja a Magyarországra jogellenesen belépő, itt tartózkodó, illetve ezt elősegítő, és ilyen módon az ország nemzetbiztonságát veszélyeztető személyek, csoportok leplezett tevékenységét;
 
 q) saját állománya tekintetében ellátja a belső biztonsági és bűnmegelőzési célú ellenőrzési feladatokat, továbbá a kifogástalan életvitel ellenőrzését.

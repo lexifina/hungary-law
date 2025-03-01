@@ -12,4 +12,4 @@ szerzi be.
 
 (4) A Nemzeti Információs Központ a 30/A. § a)–e) pontjában meghatározott együttműködő szerv adatkezelési rendszerében található adatot a (3) bekezdésben foglalt feltétel hiányában is beszerezheti az (1) bekezdés b) pontjában meghatározott módon.
 
-(5) A 30/A. § a)–f) pontjában meghatározott együttműködő szerv adatkezelési rendszerében található adatot kizárólag az adott együttműködő szerv azon hivatásos szolgálati viszonyban álló tagja szerezheti be, aki a szolgálatát a 20. § (1a) vagy (1b) bekezdése alapján a Nemzeti Információs Központnál teljesíti.
+(5)

@@ -1,10 +1,10 @@
 11. § (1) A miniszter
 
-a) előkészíti a nemzetbiztonsági szolgálatok működésével, feladataival és hatásköreivel kapcsolatos jogszabályok, valamint egyéb kormányzati döntések tervezeteit, illetőleg részt vesz azok előkészítésében;
+a) előkészíti a nemzetbiztonsági szolgálatok működésével, feladataival, hatásköreivel, személyi állományának jogállásával kapcsolatos jogszabályok, valamint egyéb kormányzati döntések tervezeteit, illetőleg részt vesz azok előkészítésében;
 
 b) biztosítja a Magyarország érdekeinek érvényesítésével és védelmével kapcsolatos nemzetbiztonsági feladatok végrehajtását;
 
-c) rendeletek és normatív utasítások által szabályozza a nemzetbiztonsági szolgálatok tevékenységét és működését;
+c) rendeletek és normatív utasítások által szabályozza a nemzetbiztonsági szolgálatok tevékenységét, működését és személyi állományának jogállását;
 
 d) kapcsolatot tart fenn a nemzetbiztonsági szolgálatok nemzetközi együttműködésének elősegítése érdekében.
 
@@ -14,7 +14,7 @@ a) törvényen, kormányrendeleten vagy egyéb kormányzati döntésen alapuló 
 
 b) félévente írásban meghatározza a főigazgatók számára a szolgálatok időszerű feladatait; írásban ad utasítást a Kormány tagjaitól érkezett információs igények teljesítésére;
 
-c) a főigazgatók előterjesztésére jóváhagyja a nemzetbiztonsági szolgálatok szervezeti és működési szabályzatát és az állománytáblát;
+c) a főigazgatók előterjesztésére jóváhagyja a nemzetbiztonsági szolgálatok szervezeti és működési szabályzatát és – a polgári nemzetbiztonsági szolgálatok kivételével – az állománytáblát;
 
 d) javaslatot tesz a nemzetbiztonsági szolgálatok költségvetésére;
 
@@ -30,15 +30,15 @@ i) a főigazgatók előterjesztésére jóváhagyja a nemzetbiztonsági szolgál
 
 j) javaslatot tesz a miniszterelnöknek a főigazgatók kinevezésére és felmentésére;
 
-k) a kinevezés és felmentés kivételével gyakorolja a munkáltatói jogokat a főigazgatók felett, kinevezi és felmenti helyetteseiket, felettük gyakorolja a munkáltatói jogokat;
+k) a kinevezés és felmentés kivételével gyakorolja a munkáltatói jogokat a főigazgatók felett, – a polgári nemzetbiztonsági szolgálat kivételével – kinevezi és felmenti helyetteseiket, felettük gyakorolja a munkáltatói jogokat;
 
 l) javaslatot tesz a köztársasági elnöknek a tábornoki kinevezésekre;
 
 m) a főigazgatók javaslatára kinevezi az ezredeseket;
 
-n) jóváhagyja a tábornoki rendfokozattal rendszeresített beosztásokba javasolt személyek kinevezését és az ilyen beosztásban lévő személyek felmentését;
+n) – a polgári nemzetbiztonsági szolgálatok kivételével – jóváhagyja a tábornoki rendfokozattal rendszeresített beosztásokba javasolt személyek kinevezését és az ilyen beosztásban lévő személyek felmentését;
 
-o) intézkedik a főigazgatókat, helyetteseiket érintő belső biztonsági és bűnmegelőzési célú ellenőrzések elvégzéséről;
+o) intézkedik a főigazgatókat, – a polgári nemzetbiztonsági szolgálatok kivételével – helyetteseiket érintő belső biztonsági és bűnmegelőzési célú ellenőrzések elvégzéséről;
 
 p) gyakorolja a törvényben, kormányrendeletben vagy kormányhatározatban számára biztosított külön jogokat.
 

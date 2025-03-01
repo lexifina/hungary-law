@@ -1,12 +1,14 @@
 78. § (1) Felhatalmazást kap a miniszter, hogy rendeletben megállapítsa:
 
-a) a nemzetbiztonsági szolgálatok lakásgazdálkodása, valamint a lakáscélú munkáltatói támogatás rendjét;
+a) a nemzetbiztonsági szolgálatok lakásgazdálkodásának rendjét;
 
 b) a szolgálati fegyver rendszeresítésének, viselésének rendjét és használatának részletes szabályait;
 
 c) a nemzetbiztonsági szolgálatok létesítményeibe való belépés rendjét;
 
-d) a miniszteri elismerések adományozásának rendjét;
+d)
+
+e) a vegyi eszköz és az elektromos sokkoló eszköz viselésével, használatával és tárolásával kapcsolatos részletes szabályokat.
 
 (1a) Felhatalmazást kapnak a miniszterek, hogy az irányításuk vagy felügyeletük alá tartozó szervek esetében, ha a nemzetbiztonsági ellenőrzés lefolytatása
 
@@ -26,7 +28,7 @@ b) a Nemzeti Információs Központ által az Európai Bizottság részére tör
 
 (2) Felhatalmazást kap a miniszter, hogy utasításban megállapítsa:
 
-a) a szolgálatra való alkalmasság különleges feltételeit, az alkalmassági feltételek ellenőrzésének szabályait;
+a)
 
 b) a nemzetbiztonsági szolgálatok fedőintézmények létrehozásával, fenntartásával kapcsolatos eljárásának általános szabályait;
 

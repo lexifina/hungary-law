@@ -48,7 +48,7 @@ ej) az ellenőrzött szélsőséges politikai vagy vallási jellegű szervezetek
 
 a) a kezdeményezésre jogosult kezdeményezése alapján elrendeli,
 
-b) a (2) bekezdés a) és b), valamint d) pontjában foglaltakról való tudomásszerzés esetén elrendelheti a felülvizsgálati eljárást, továbbá
+b) a (1) bekezdés c) pontjában, (2) bekezdés a) és b), valamint d) pontjában foglaltakról való tudomásszerzés esetén elrendelheti a felülvizsgálati eljárást, továbbá
 
 c) a (2) bekezdés c) pontja alapján a 71/D. § (2) bekezdésében foglaltak szerint dönt a felülvizsgálati eljárás elrendeléséről.
 

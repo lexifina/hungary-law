@@ -10,17 +10,21 @@ c) ib) alpontjában megjelölt személy esetén, valamint – a h) pontban megje
 
 d) ia), ic), ih) és ii) alpontjában megjelölt személy esetén a tevékenység szerinti irányító miniszter,
 
-e) ij) és it) alpontjában megjelölt személy esetén az állam nevében tulajdonosi jogokat gyakorló miniszter vagy a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 7/A. § (1) bekezdése alapján a tulajdonosi jogok gyakorlására kijelölt személy,
+e) ij) és it) alpontjában megjelölt személy esetén az állam nevében tulajdonosi vagy alapítói jogokat gyakorló miniszter vagy a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 7/A. § (1) bekezdése alapján a tulajdonosi vagy alapítói jogok gyakorlására kijelölt személy,
 
 f) ik) alpontjában foglalt esetben az állomány szerint illetékes főigazgató,
 
 g) iu) alpontjában megjelölt személyek esetén az Országgyűlési Őrség parancsnoka
 
-h) id) alpontjában megjelölt személyek közül a nem országos illetékességű központi hivatal vezetője és vezetőhelyettese, valamint a nemzeti köznevelési törvényben meghatározott oktatási központ feladatainak ellátására kijelölt központi hivatal vezetőhelyettese esetén a tevékenység szerinti irányító miniszter
+h) id) alpontjában megjelölt személyek közül a nem országos illetékességű központi hivatal, a kormányzati főhivatal, valamint a területi kormányzati igazgatási szerv vezetője és vezetőhelyettese, valamint a nemzeti köznevelési törvényben meghatározott oktatási központ feladatainak ellátására kijelölt központi hivatal vezetőhelyettese esetén a tevékenység szerinti irányító miniszter
 
 jogosult.
 
-(3) A Nemzeti Biztonsági Felügyelet vezetője kezdeményezi azon nemzetbiztonsági ellenőrzés alá eső személy nemzetbiztonsági ellenőrzését, aki esetében az (1)–(2) bekezdés alapján nem állapítható meg a kezdeményezésére egyébként jogosult személy.
+(3) A Nemzeti Biztonsági Felügyelet vezetője kezdeményezi:
+
+a) a külföldi szervnél, valamint külföldi székhelyű gazdálkodó szervezetnél munkát vállaló, minősített adatot felhasználó, magyar állampolgárságú személy nemzetbiztonsági ellenőrzését,
+
+b) az iparbiztonsági ellenőrzés és a telephely biztonsági tanúsítvány kiadásának részletes szabályairól szóló kormányrendeletben meghatározott, nemzetbiztonsági ellenőrzésre kötelezett személyi kör ellenőrzését, továbbá a nemzetbiztonsági ellenőrzés alá eső személy nemzetbiztonsági ellenőrzését, aki esetében az (1) és (2) bekezdés alapján nem állapítható meg a kezdeményezésére egyébként jogosult személy.
 
 (4) Nem kell kezdeményezni
 

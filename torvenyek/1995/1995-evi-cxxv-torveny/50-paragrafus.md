@@ -4,11 +4,13 @@ a) a biztonsági okmányok adatait az érvényesség lejártától számított 1
 
 b) a rejtjeltevékenység felügyelete és irányítása során kiadott dokumentumokat az érvényesség lejártától számított 10 évig;
 
-c) a nemzetbiztonsági ellenőrzési és védelmi feladatok ellátása során keletkezett adatokat a beosztás, illetve a tisztség megszűnésétől számított 20 évig;
+c) a nemzetbiztonsági védelmi feladatok ellátása során keletkezett adatokat a beosztás, illetve tisztség megszűnésétől számított 20 évig;
 
-d) az a)–c) pontokban fel nem sorolt feladatkörben gyűjtött személyes adatokat az adatgyűjtés megszüntetésétől számított 70 évig;
+d) a nemzetbiztonsági ellenőrzési feladatok ellátása során keletkezett adatokat a biztonsági szakvélemény érvényességének végétől számított 20 évig;
 
 e) a közúti közlekedési nyilvántartásról szóló törvény szerinti járműnyilvántartásban kezelt járművek hatósági jelzésére vonatkozó és képi adatait 10 évig.
+
+f) az a)–e) pontban fel nem sorolt feladatkörben gyűjtött személyes adatokat az adatgyűjtés megszüntetésétől számított 70 évig.
 
 (2) A nemzetbiztonsági szolgálatok által kezelt személyes adatot haladéktalanul törölni kell, ha
 

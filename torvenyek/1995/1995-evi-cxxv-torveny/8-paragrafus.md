@@ -4,11 +4,11 @@ a) a jogszabályok keretei között eszközeivel és módszereivel – írásbel
 
 b) a titkos információgyűjtés folytatására, valamint a leplezett eszközök alkalmazására feljogosított szervek igényei alapján biztosítja az e tevékenységhez szükséges különleges technikai eszközöket és anyagokat,
 
-c) speciális távközlési összeköttetést biztosít a Kormány által meghatározott felhasználók részére,
+c) védett kommunikációs összeköttetést, illetve védett elektronikus adatkapcsolatot biztosít a Kormány által meghatározott felhasználók részére,
 
 d) ellátja a biztonsági okmányok védelmével összefüggő hatósági felügyeletet,
 
-e) szakértői, illetve – külön jogszabály rendelkezései szerint – igazságügyi szakértői tevékenységet végez,
+e) szakértői, szaktanácsadói, illetve – külön jogszabály rendelkezései szerint – igazságügyi szakértői tevékenységet végez,
 
 f) ellátja az objektumai műveleti védelmének és személyi állománya, valamint a hatáskörébe tartozó más személyek nemzetbiztonsági ellenőrzésének feladatait.
 
@@ -28,7 +28,7 @@ k) saját állománya tekintetében ellátja a belső biztonsági és bűnmegel�
 
 (4) A Nemzetbiztonsági Szakszolgálat az 56. §-ban meghatározott titkos információgyűjtés eszközeit és módszereit – az (1) bekezdés f) és k) pontjában meghatározott feladat ellátása kivételével – saját kezdeményezésre nem alkalmazhatja.
 
-(5) A Nemzetbiztonsági Szakszolgálat által teljesített szolgáltatások – az (1) bekezdés e) pontjában meghatározott igazságügyi szakértői tevékenységet kivéve – térítésmentesek.
+(5) A Nemzetbiztonsági Szakszolgálat által teljesített szolgáltatások – a telephely biztonsági tanúsítvány és az egyszerűsített telephely biztonsági tanúsítvány kiadása kivételével – térítésmentesek.
 
 (6) A titkos információgyűjtés folytatására, illetve a leplezett eszközök alkalmazására feljogosított szervek és a Nemzetbiztonsági Szakszolgálat közötti együttműködés rendjét a Kormány határozza meg.
 

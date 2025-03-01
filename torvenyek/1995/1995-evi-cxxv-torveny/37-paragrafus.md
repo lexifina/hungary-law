@@ -1,4 +1,4 @@
-37. § (1) A nemzetbiztonsági szolgálatok hivatásos állományú tagja által foganatosított, a 32–36. §-ban meghatározott intézkedések ellen az érintett – akadályoztatása esetén hozzátartozója – panasszal élhet.
+37. § (1) A nemzetbiztonsági szolgálatok hivatásos állományú tagja által foganatosított, a 32–36/A. §-ban meghatározott intézkedések ellen az érintett – akadályoztatása esetén hozzátartozója – panasszal élhet.
 
 (2) A panaszt az intézkedésnek az érintett tudomására jutásától számított 8 napon belül a nemzetbiztonsági szolgálat főigazgatójához kell benyújtani. A kifogásolt intézkedéstől számított 5 éven túl panasz nem terjeszthető elő.
 
