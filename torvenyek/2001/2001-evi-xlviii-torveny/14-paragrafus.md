@@ -16,4 +16,4 @@ b) szolgálati minta esetén a fenntartási díj megfizetésének elmulasztásá
 
 c) a szerzőnek csak olyan szolgálati minta értékesítése esetén jár díj, amelyre a mintaoltalom kiterjed.
 
-(6) Az (1)–(5) bekezdésben foglalt rendelkezéseket megfelelően alkalmazni kell, ha közszolgálati, kormányzati szolgálati vagy közalkalmazotti jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban álló vagy szolgálati viszonyban foglalkoztatott személy vagy munkaviszony jellegű jogviszony keretében foglalkoztatott szövetkezeti tag alkotta meg a mintát.
+(6) Az (1)–(5) bekezdésben foglalt rendelkezéseket megfelelően alkalmazni kell, ha közszolgálati, kormányzati szolgálati vagy közalkalmazotti jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, nemzetbiztonsági alkalmazotti jogviszonyban, honvédelmi alkalmazotti jogviszonyban, polgári nemzetbiztonsági szolgálati jogviszonyban álló vagy szolgálati viszonyban foglalkoztatott személy vagy munkaviszony jellegű jogviszony keretében foglalkoztatott szövetkezeti tag alkotta meg a mintát.
