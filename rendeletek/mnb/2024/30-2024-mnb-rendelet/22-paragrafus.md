@@ -1,17 +1,29 @@
-22. § A szolgáltató az alábbi szempontokat veszi figyelembe belső kockázatértékelésének elkészítésekor:
+22. § A szolgáltató az üzletági tevékenységei kockázati tényezőinek beazonosítása során a Pmt. 27. §-ában foglaltakon túl az alábbiakat is figyelembe veszi:
 
-a) tulajdonosi és vállalati szerkezete, figyelemmel arra, hogy a szolgáltató nemzetközi, külföldi vagy belföldi intézmény, anyavállalat, leányvállalat, fióktelep vagy egyéb szervezet,
+a) az Európai Bizottság nemzetek feletti kockázatértékelését,
 
-b) szervezetének és szerkezetének összetettsége és átláthatósága,
+b) az európai felügyeleti hatóságok véleményét az európai uniós pénzügyi ágazatot érintő pénzmosási és terrorizmusfinanszírozási kockázatokról,
 
-c) a kínált áru, az elvégzett tevékenység és ügylet természete és összetettsége,
+c) az MNB által kiadott ajánlást,
 
-d) az alkalmazott eszköz, beleértve az ingyenes szolgáltatásnyújtást, az ügynök vagy a közvetítő használatát,
+d) az MNB által nyilvánosságra hozott információkat,
 
-e) a kiszolgált ügyfelek típusai,
+e) az MNB által folytatott eljárás során keletkezett és nyilvánosságra hozott határozatokat,
 
-f) az üzleti tevékenység földrajzi területe, különösen, ha azt stratégiai hiányosságokkal rendelkező, kiemelt kockázatot jelentő harmadik országban végzi, vagy az ügyfelei jelentős részének származási országa stratégiai hiányosságokkal rendelkező, kiemelt kockázatot jelentő harmadik ország,
+f) az Európai Bizottság jegyzékét a kiemelt kockázatot jelentő harmadik országokról,
 
-g) a belső irányítási megoldás és szerkezet minősége, beleértve a belső ellenőrzési és megfelelési funkció hatékonyságát, a pénzmosás és a terrorizmusfinanszírozás megelőzésével és megakadályozásával összefüggő jogi követelménynek való megfelelést és a megelőző belső kockázatértékeléseinek hatékonyságát, és
+g) a Magyarország Kormánya által elfogadott nemzeti kockázatértékelést,
 
-h) az uralkodó vállalati kultúra, különösen a megfelelési és átláthatósági kultúra.
+h) a pénzmosási és terrorizmusfinanszírozási tárgyú jogszabályok indokolását,
+
+i) a pénzügyi információs egységektől és bűnüldöző hatóságoktól származó információkat,
+
+j) az első ügyfél-átvilágítási folyamat és a folyamatos ügyfélmonitoring keretében szerzett információkat,
+
+k) az általa kínált áru, az elvégzett tevékenység és ügylet természetét és összetettségét,
+
+l) az általa alkalmazott megoldást, beleértve az ingyenes szolgáltatásnyújtást, az ügynök vagy a közvetítő használatát,
+
+m) a kiszolgált ügyfelek típusait és
+
+n) az üzleti tevékenység földrajzi területeit, különösen, ha azt stratégiai hiányosságokkal rendelkező, kiemelt kockázatot jelentő harmadik országban végzi, vagy az ügyfelei jelentős részének származási országa stratégiai hiányosságokkal rendelkező, kiemelt kockázatot jelentő harmadik ország.

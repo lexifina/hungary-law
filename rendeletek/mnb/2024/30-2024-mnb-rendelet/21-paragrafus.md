@@ -1,15 +1,23 @@
-21. § (1) Ha a szolgáltató ki van téve az Európai Unió egy másik tagállama vagy harmadik ország pénzmosási és terrorizmusfinanszírozási kockázatainak, a szolgáltató ezeket a kockázatokat is beazonosítja.
+21. § (1) A szolgáltató biztosítja, hogy rendelkezzen az újonnan felmerülő pénzmosási és terrorizmusfinanszírozási kockázatok feltárására szolgáló rendszerekkel és kontrollmechanizmusokkal, valamint, hogy értékelni tudja, és adott esetben időben be tudja építeni e kockázatokat az üzleti tevékenysége egészére kiterjedő és az egyedi kockázatértékelésébe.
 
-(2) A szolgáltató az (1) bekezdés szerinti kockázatokat különösen abban az esetben azonosítja be, ha a szolgáltató
+(2) A szolgáltató által a felmerülő kockázatok feltárása érdekében bevezetendő rendszerek és kontrollmechanizmusok közé tartoznak legalább a következők:
 
-a) az Európai Unió egy másik tagállamában vagy harmadik országban létrehozott pénzügyi csoport tagja,
+a) olyan eljárások, amelyek biztosítják a szolgáltató belső üzleti működése során szerzett információk rendszeres felülvizsgálatát a tendenciák és a felmerülő kockázatok azonosítása érdekében, mind az egyedi üzleti kapcsolatok, mind a szolgáltató üzletági tevékenységével kapcsolatban,
 
-b) tulajdonosa az Európai Unió egy másik tagállamában vagy harmadik országban bejegyzett szolgáltatónak,
+b) olyan eljárások, amelyek biztosítják, hogy a szolgáltató mind az ügyfélszintű egyedi, mind az üzletági tevékenysége egészére kiterjedő kockázatértékelések tekintetében rendszeresen ellenőrizze a releváns információforrásokat, köztük a 20. §-ban meghatározott információforrásokat, beleértve az azok alapján szükséges intézkedések megtételét is,
 
-c) tényleges tulajdonosa az Európai Unió egy másik tagállamából vagy harmadik országból származik, vagy
+ba) az ügyfélszintű egyedi kockázatértékelések tekintetében:
 
-d) olyan kapcsolatot tart fenn az Európai Unió egy másik tagállamában vagy harmadik országban lévő szervvel vagy szervezettel, amely arra utal, hogy a szolgáltató ki van téve az adott ország pénzmosási és terrorizmusfinanszírozási kockázatainak.
+1. a terrorizmussal kapcsolatos riasztásokat, valamint a pénzügyi szankciórendszereket és ezek változásait azok közzétételét követően haladéktalanul, és
 
-(3) A szolgáltató beszerzi az (1) bekezdés szerinti tagállamhoz vagy harmadik országhoz köthető pénzmosási és terrorizmusfinanszírozási kockázatokkal kapcsolatos azon információkat, amelyek hatással lehetnek az általa végzett tevékenységre.
+2. a szolgáltatás működése szerinti ágazatok vagy joghatóságok szempontjából releváns médiabeszámolókat,
 
-(4) A szolgáltató a tudomásszerzéstől számított három munkanapon belül bejelentést tesz az MNB-hez, ha az (1) bekezdés szerinti kockázatok beazonosítását és a (3) bekezdés szerinti információk beszerzését követően olyan hiányosság jut a tudomására, amely veszélyt jelent az Európai Unió pénzügyi rendszerére.
+bb) az üzletági tevékenységekre kiterjedő kockázatértékelések tekintetében:
+
+1. a bűnüldözési riasztásokat és jelentéseket,
+
+2. az illetékes hatóságok által kiadott tematikus értékeléseket és
+
+3. a kockázatokra, különösen az ügyfelek, országok vagy földrajzi területek új kategóriáival, az új árukkal, új alkalmazott eszközzel, valamint az új megfelelési rendszerekkel és kontrollmechanizmusokkal kapcsolatos kockázatokra vonatkozó információk gyűjtésére és felülvizsgálatára szolgáló eljárásokat, valamint
+
+c) a szolgáltató ágazatának más képviselőivel és az illetékes hatóságokkal folytatott együttműködés során szerzett információk, továbbá olyan eljárások, amelyek arra szolgálnak, hogy a szolgáltató munkavállalói visszajelzést kapjanak valamely megállapításról.

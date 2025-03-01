@@ -1,13 +1,1 @@
-33. § A szolgáltató biztosítja, hogy a belső ellenőrző és információs rendszer képes legyen az üzleti kapcsolat leválogatására
-
-a) a Pmt. által előírt személyes adat,
-
-b) a fizetési számla pénzforgalmi jelzőszáma vagy IBAN-ja,
-
-c) ügyfélszám,
-
-d) ügylettípus vagy
-
-e) összeghatár
-
-alapján.
+33. § A szolgáltató a szűrést folyamatosan végzi. A szűrés folyamatosságát huszonnégy órát meghaladóan akadályozó körülménynek a szolgáltató tudomására jutásáról és az ennek kiküszöbölésére foganatosított, illetve foganatosítani tervezett intézkedésekről a szolgáltató haladéktalanul, elektronikus formában, az MNB Elektronikus Rendszer Hitelesített Adatok Fogadásához megnevezésű rendszerén (a továbbiakban: ERA rendszer) keresztül tájékoztatja az MNB-t.

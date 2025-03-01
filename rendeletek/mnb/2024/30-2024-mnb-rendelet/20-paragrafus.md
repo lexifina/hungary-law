@@ -1,23 +1,17 @@
-20. § (1) A szolgáltató a kockázati tényezők beazonosítása során a Pmt.-ben meghatározottakon túl az alábbiakat veszi figyelembe:
+20. § (1) A pénzmosási és terrorizmusfinanszírozási kockázat feltárásához a szolgáltató különféle forrásokból származó információkat használ fel, amelyekhez egyedileg, illetve a rendelkezésre álló, több forrásból származó információkat összesítő eszközök vagy adatbázisok útján férhet hozzá.
 
-a) az Európai Bizottság nemzetek feletti kockázatértékelését,
-
-b) az európai felügyeleti hatóságok véleményét a pénzügyi ágazatot érintő európai uniós pénzmosási és terrorizmusfinanszírozási kockázatokról,
-
-c) az MNB által kiadott ajánlást,
-
-d) az MNB által nyilvánosságra hozott információkat és
-
-e) az MNB által folytatott eljárás során keletkezett és nyilvánosságra hozott határozatokat.
-
-(2) A szolgáltató a kockázati tényezők beazonosítása során különösen
+(2) Az adatbázisokban foglaltakon túlmenően a szolgáltató a pénzmosási és terrorizmusfinanszírozási kockázati tényezők beazonosítása során
 
 a) a civil társadalomtól,
 
-b) a 21. § (1) bekezdése szerinti állam pénzmosás és a terrorizmus finanszírozása elleni rendszere megfelelőségével és hatékonyságával, korrupcióellenes és adózási rendszerével kapcsolatos értékeléséből,
+b) harmadik ország pénzmosás és terrorizmusfinanszírozás elleni rendszere megfelelőségével és hatékonyságával, korrupcióellenes és adózási rendszerével kapcsolatos értékeléséből,
 
-c) nyilvános forrásból és
+c) hiteles és megbízható nyilvános forrásból,
 
-d) tudományos intézményektől
+d) tudományos és felsőoktatási intézményektől,
 
-származó információkat vehet figyelembe.
+e) szakmai érdekképviseleti szervezetektől, valamint
+
+f) hiteles és megbízható kereskedelmi szervezetektől
+
+származó információkat is figyelembe vehet.

@@ -1,7 +1,9 @@
-31. § (1) A szolgáltató a szűrést folyamatosan végzi. A szűrés folyamatosságát huszonnégy órát meghaladóan akadályozó körülmény szolgáltató tudomására jutásáról és az ennek kiküszöbölésére foganatosított, illetve foganatosítani tervezett intézkedésekről a szolgáltató haladéktalanul, elektronikus formában, az MNB Elektronikus Rendszer Hitelesített Adatok Fogadásához megnevezésű rendszerén (a továbbiakban: ERA rendszer) keresztül tájékoztatja az MNB-t.
+31. § (1) A szolgáltató a szűrések feltételeit, intenzitását és az ügylet monitoringjának gyakoriságát a belső kockázatértékelése alapján határozza meg, figyelembe véve az üzleti tevékenységének jellege, nagyságrendje és összetettsége, valamint a kockázati kitettségének szintje alapján kialakított szokatlan ügyletekre figyelmeztető jelzéseket és az MNB jelzéseit is.
 
-(2) A kiszűrt ügyfél, illetve ügylet pénzmosás és terrorizmusfinanszírozás szempontjából történő elemzését és értékelését a szolgáltató a 18. § (1) bekezdésében és a 30. § (1) bekezdésében foglalt esetben a szűrést követő hatvan munkanapon belül végzi el. A szűrés elvégzésének napja a határidőbe nem számít bele.
+(2) A szolgáltató a kiszűrt ügyfél, illetve ügylet pénzmosás és terrorizmusfinanszírozás szempontjából történő elemzését és értékelését kockázatalapon, de legfeljebb a szűrés elvégzésének napját követő hatvan munkanapon belül végzi el.
 
-(3) A szolgáltató a szűrései során figyelembe veszi a belső kockázatértékelése alapján kialakított szokatlan tranzakciókra figyelmeztető jelzéseket.
+(3) A szolgáltató belső kockázatértékelésébe haladéktalanul beépíti az MNB által – a bűnügyi érdekek biztosítása céljából a nyilvánosság korlátozása mellett – adott tájékoztatást azokról a szűrési feltételekről, amelyek valós idejű ügyletmonitoringot tesznek szükségessé, vagy a (2) bekezdésben meghatározott hatvan munkanapnál gyorsabb értékelést követelnek meg.
 
-(4) A kiszűrt ügyfél, illetve ügylet elemzésének és értékelésének folyamatát a szolgáltató úgy dokumentálja, hogy a szolgáltató által végrehajtott intézkedés eredménye és az az alapján hozott döntés utólag rekonstruálható legyen.
+(4) A szolgáltató a (2) bekezdés alapján végzett értékelő-elemző munka eredményességét és a szűrőrendszerének hatékony működését kockázati alapon, a működési modellje figyelembevételével, külső ellenőrzési funkció vagy annak hiányában további védelmi vonalak bevonásával rendszeresen ellenőrzi.
+
+(5) A kiszűrt ügyfél, illetve ügylet elemzésének és értékelésének folyamatát, valamint ezek ellenőrzését a szolgáltató úgy dokumentálja, hogy a szolgáltató által végrehajtott intézkedés eredménye és az az alapján hozott döntés utólag rekonstruálható legyen.

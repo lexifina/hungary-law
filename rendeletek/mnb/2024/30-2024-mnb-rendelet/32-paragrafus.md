@@ -1,15 +1,31 @@
-32. § (1) A szolgáltató a belső ellenőrző és információs rendszer részeként névtelenséget biztosító visszaélésbejelentési rendszert működtet.
+32. § (1) A szolgáltató a szűrőrendszer működéséről, a kiszűrt ügyfél, valamint az ügylet elemzésének és értékelésének menetéről belső eljárásrendet készít.
 
-(2) Visszaélés-bejelentést az (1) bekezdésben foglaltak szerinti visszaélésbejelentési rendszeren keresztül az tehet, aki tudomással bír arról, hogy a szolgáltatónál a Pmt. rendelkezése megsértésre kerül vagy került.
+(2) Az (1) bekezdés szerinti belső eljárásrendet a szolgáltató írásban rögzíti, naprakészen tartja, és felhívásra az MNB rendelkezésére bocsátja.
 
-(3) A visszaélés-bejelentést a szolgáltató harminc napon belül kivizsgálja. A határidőbe a bejelentés megtételének napja nem számít bele.
+(3) A szűrőrendszerre vonatkozó belső eljárásrend megfelel legalább az alábbi feltételeknek:
 
-(4) A visszaélés-bejelentés kivizsgálásában nem vehet részt a bejelentéssel érintett személy.
+a) a szolgáltató belső kockázatértékelésén alapul,
 
-(5) Ha a szolgáltató azt állapítja meg, hogy pénzmosásra, terrorizmusfinanszírozásra vagy dolog büntetendő cselekményből való származására utaló adat, tény, illetve körülmény merül fel, a kijelölt személy haladéktalanul bejelentést tesz a pénzügyi információs egységnek.
+b) megfelel a szolgáltató kapcsolódó belső szabályzatainak,
 
-(6) Ha a szolgáltató azt állapítja meg, hogy bűncselekmény gyanúja áll fenn, haladéktalanul feljelentést tesz a hatáskörrel és illetékességgel rendelkező nyomozó hatóságnál.
+c) dokumentálja a szolgáltató által használt szcenáriókat, az azok alapjául szolgáló logikákkal, paraméterekkel és küszöbértékekkel, és biztosítja a változások nyomonkövethetőségét,
 
-(7) Ha a szolgáltató az (5) és (6) bekezdésben foglalt eseteken kívül a Pmt., az Európai Unió és az Egyesült Nemzetek Szervezetének Biztonsági Tanácsa (a továbbiakban: ENSZ BT) által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvény vagy e rendelet megsértését állapítja meg, e tényt a kijelölt személy haladéktalanul bejelenti az MNB-nek.
+d) biztosítja az adatok integritását és minőségét annak érdekében, hogy a szűrőrendszeren pontos és teljes adatok menjenek keresztül,
 
-(8) A szolgáltató a bejelentés megtételét követően biztosítja, hogy a bejelentéshez a bejelentést tevőn vagy a szolgáltató foglalkoztatottján, mint a bejelentés kivizsgálásában érintett személyen kívül más személy ne férhessen hozzá.
+e) rögzíti a releváns adatokat tartalmazó összes adatforrást,
+
+f) biztosítja a szűrőrendszer megtervezéséért, működtetéséért, teszteléséért, beüzemeléséért és folyamatos felügyeletéért, valamint az esetkezelésért, felülvizsgálatért és a találatok és lehetséges bejelentések tekintetében hozott döntésekért felelős szakképzett alkalmazottak vagy külső tanácsadók rendelkezésre állását,
+
+g) rögzíti az elemző- és értékelőfolyamat során alkalmazott határidőket,
+
+h) olyan vizsgálati protokollokat tartalmaz, amelyek részletesen bemutatják, hogy a szűrőrendszer által generált figyelmeztetéseket milyen módon kell megvizsgálni, milyen módon kell dönteni afelől, hogy mely találatok kerüljenek bejelentésre, ki a felelős az ilyen döntés meghozataláért, valamint azt, hogy milyen módon kell a döntéshozatali eljárást dokumentálni,
+
+i) biztosítja a szcenáriók és az azok alapjául szolgáló logikák, paraméterek és küszöbértékek kockázataival összhangban történő felülvizsgálatát, és tartalmazza, hogy ki a felelős azok felülvizsgálatáért,
+
+j) meghatározza, hogy mely ügyleteket követi nyomon valós időben, és mely ügyleteket követi nyomon utólag, ennek részeként legalább a következőkről rendelkezik:
+
+ja) melyek azok a magas kockázatot jelző tényezők vagy a magas kockázatot jelző tényezők azon kombinációi, amelyek minden esetben valós idejű ügyletmonitoringot tesznek szükségessé, és
+
+jb) a valós időben nyomon követett ügyletek esetében melyek a magasabb pénzmosási és terrorizmusfinanszírozási kockázatok, különös tekintettel azon ügyletekre, amelyek esetében az üzleti kapcsolathoz fokozott kockázat társul, valamint
+
+k) automatikus szűrőrendszer esetén előírja a szűrőrendszer teljes folyamatát nyomon követő, valamint a bevezetését megelőző és azt követő tesztelését, csakúgy, mint az időszakos tesztelések elvégzését az irányítás, az adatok leképezése, az ügyletek azonosítása, a keresési szcenáriók és logikák, a szűrési modellezés, valamint a bevitt adatok és az eredmények vizsgálatával kapcsolatosan.
