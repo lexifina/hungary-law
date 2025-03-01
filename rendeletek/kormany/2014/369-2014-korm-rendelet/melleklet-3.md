@@ -1,10 +1,10 @@
 3. melléklet a 369/2014. (XII. 30.) Korm. rendelethez
 
-A nyilvántartási és adatszolgáltatási kötelezettség adattartalma[^53]
+A nyilvántartási és adatszolgáltatási kötelezettség adattartalma[^54]
 
-1.[^54] A gyártóra és koncessziós társaságra vonatkozó adatok:
+1.[^55] A gyártóra és koncessziós társaságra vonatkozó adatok:
 
-1.1.[^55] A gyártó, a koncessziós társaság azonosítására szolgáló adatok:
+1.1.[^56] A gyártó, a koncessziós társaság azonosítására szolgáló adatok:
 
 a) KÜJ;
 
@@ -24,11 +24,11 @@ c) telefon, illetve fax;
 
 d) e-mail.
 
-2.[^56] A gyártó által forgalomba hozott gépjárművekre vonatkozó adatok:
+2.[^57] A gyártó által forgalomba hozott gépjárművekre vonatkozó adatok:
 
-a)[^57]
+a)[^58]
 
-b)[^58]
+b)[^59]
 
 c) a gépjárművek gyártmányának megnevezése;
 
@@ -36,7 +36,7 @@ d) a gépjárművek darabszáma;
 
 e) a gépjárművek össztömege.
 
-3.[^59] A gyűjtött és a kezelt gépjárművekre vonatkozó adatok:
+3.[^60] A gyűjtött és a kezelt gépjárművekre vonatkozó adatok:
 
 a) a gépjárművek gyártmányának megnevezése;
 
@@ -48,7 +48,7 @@ d) a gépjárművek össztömege.
 
 4. A hulladékká vált gépjárművek kezeléséből származó hulladékra és az újrahasználatra előkészített gépjármű alkatrészre vonatkozó adatok:
 
-4.1.[^60] A hulladékká vált gépjármű bontásából származó hulladék mennyisége, amelyet a hulladékjegyzékről szóló miniszteri rendeletben meghatározott azonosító kód szerint kell megadni, kilogrammban kifejezve:
+4.1.[^61] A hulladékká vált gépjármű bontásából származó hulladék mennyisége, amelyet a hulladékjegyzékről szóló miniszteri rendeletben meghatározott azonosító kód szerint kell megadni, kilogrammban kifejezve:
 
 a) a 16 06 01* azonosító kóddal ellátott ólomakkumulátor;
 
@@ -78,7 +78,7 @@ c) energetikailag hasznosított mennyiség;
 
 d) ártalmatlanított mennyiség.
 
-4.3.[^61] A hulladékká vált gépjárművek aprításából, darabolásából, zúzásából, származó hulladék mennyisége, amelyet kilogrammban kifejezve kell megadni:
+4.3.[^62] A hulladékká vált gépjárművek aprításából, darabolásából, zúzásából, származó hulladék mennyisége, amelyet kilogrammban kifejezve kell megadni:
 
 a) vas- és acélhulladék;
 
@@ -96,7 +96,7 @@ b) energetikailag hasznosított mennyiség;
 
 c) ártalmatlanított mennyiség.
 
-5.[^62] A hulladékká vált gépjárművek kezeléséből származó hulladék és az újrahasználatra előkészített gépjármű alkatrész exportjára vonatkozó adatok:
+5.[^63] A hulladékká vált gépjárművek kezeléséből származó hulladék és az újrahasználatra előkészített gépjármű alkatrész exportjára vonatkozó adatok:
 
 5.1. A hulladékká vált gépjármű kezeléséből származó hulladék és az újrahasználatra előkészített gépjármű alkatrész exportjára vonatkozó adatokat a hulladékjegyzékről szóló miniszteri rendeletben meghatározott azonosító kód szerint kell megadni, kilogrammban kifejezve:
 
@@ -128,13 +128,13 @@ c) exportált hulladékká vált gépjárművek (ideértve annak hulladékká v�
 
 d) exportált hulladékká vált gépjárművek (ideértve annak hulladékká vált részeit is) teljes ártalmatlanítása.
 
-[^53]: A 3. melléklet címe a 276/2023. (VI. 29.) Korm. rendelet 49. § j) pontjával megállapított szöveg.
-[^54]: A 3. melléklet 1. pont nyitó szövegrésze a 158/2021. (III. 31.) Korm. rendelet 34. § c) pontja, a 276/2023. (VI. 29.) Korm. rendelet 49. § k) pontja szerint módosított szöveg.
-[^55]: A 3. melléklet 1. pont 1.1. alpontja a 276/2023. (VI. 29.) Korm. rendelet 49. § l) pontja szerint módosított szöveg.
-[^56]: A 3. melléklet 2. pont nyitó szövegrésze a 158/2021. (III. 31.) Korm. rendelet 34. § d) pontja szerint módosított szöveg.
-[^57]: A 3. melléklet 2. pont a) alpontját a 276/2023. (VI. 29.) Korm. rendelet 50. § e) pontja hatályon kívül helyezte.
-[^58]: A 3. melléklet 2. pont b) alpontját a 276/2023. (VI. 29.) Korm. rendelet 50. § e) pontja hatályon kívül helyezte.
-[^59]: A 3. melléklet 3. pont nyitó szövegrésze a 158/2021. (III. 31.) Korm. rendelet 34. § e) pontja szerint módosított szöveg.
-[^60]: A 3. melléklet 4. pont 4.1. alpont nyitó szövegrésze a 158/2021. (III. 31.) Korm. rendelet 34. § f) pontja szerint módosított szöveg.
-[^61]: A 3. melléklet 4. pont 4.3. alpont nyitó szövegrésze a 158/2021. (III. 31.) Korm. rendelet 34. § g) pontja szerint módosított szöveg.
-[^62]: A 3. melléklet 5. pont nyitó szövegrésze a 158/2021. (III. 31.) Korm. rendelet 34. § h) pontja szerint módosított szöveg.
+[^54]: A 3. melléklet címe a 276/2023. (VI. 29.) Korm. rendelet 49. § j) pontjával megállapított szöveg.
+[^55]: A 3. melléklet 1. pont nyitó szövegrésze a 158/2021. (III. 31.) Korm. rendelet 34. § c) pontja, a 276/2023. (VI. 29.) Korm. rendelet 49. § k) pontja szerint módosított szöveg.
+[^56]: A 3. melléklet 1. pont 1.1. alpontja a 276/2023. (VI. 29.) Korm. rendelet 49. § l) pontja szerint módosított szöveg.
+[^57]: A 3. melléklet 2. pont nyitó szövegrésze a 158/2021. (III. 31.) Korm. rendelet 34. § d) pontja szerint módosított szöveg.
+[^58]: A 3. melléklet 2. pont a) alpontját a 276/2023. (VI. 29.) Korm. rendelet 50. § e) pontja hatályon kívül helyezte.
+[^59]: A 3. melléklet 2. pont b) alpontját a 276/2023. (VI. 29.) Korm. rendelet 50. § e) pontja hatályon kívül helyezte.
+[^60]: A 3. melléklet 3. pont nyitó szövegrésze a 158/2021. (III. 31.) Korm. rendelet 34. § e) pontja szerint módosított szöveg.
+[^61]: A 3. melléklet 4. pont 4.1. alpont nyitó szövegrésze a 158/2021. (III. 31.) Korm. rendelet 34. § f) pontja szerint módosított szöveg.
+[^62]: A 3. melléklet 4. pont 4.3. alpont nyitó szövegrésze a 158/2021. (III. 31.) Korm. rendelet 34. § g) pontja szerint módosított szöveg.
+[^63]: A 3. melléklet 5. pont nyitó szövegrésze a 158/2021. (III. 31.) Korm. rendelet 34. § h) pontja szerint módosított szöveg.
