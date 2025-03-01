@@ -1,10 +1,10 @@
-55. § (1)[^33] A kormányablak és a KOF a 49–54. §-ban meghatározott feladatainak ellátása érdekében az ügyfél elektronikus nyilatkozatát úgy is fogadhatja, hogy az ügyfél szóban előterjesztett nyilatkozatát elektronikus úton rögzíti, majd azt az ügyfél az elektronikus dokumentumhitelesítés szabályai szerint hitelesíti.
+55. § (1)[^35] A kormányablak és a KOF a 49–54. §-ban meghatározott feladatainak ellátása érdekében az ügyfél elektronikus nyilatkozatát úgy is fogadhatja, hogy az ügyfél szóban előterjesztett nyilatkozatát elektronikus úton rögzíti, majd azt az ügyfél az elektronikus dokumentumhitelesítés szabályai szerint hitelesíti.
 
-(2)[^34] A kormányablak és a KOF a 49–54. §-ban meghatározott feladatainak ellátása érdekében jogosult az ügyfél által benyújtott papíralapú iratokról hiteles elektronikus másolat készítésére, a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény és annak végrehajtási rendeleteinek rendelkezései szerint.
+(2)[^36] A kormányablak és a KOF a 49–54. §-ban meghatározott feladatainak ellátása érdekében jogosult az ügyfél által benyújtott papíralapú iratokról hiteles elektronikus másolat készítésére, a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény és annak végrehajtási rendeleteinek rendelkezései szerint.
 
 (3) A kormányablaknál továbbítás céljából előterjesztett kérelmet és mellékleteit – a kérelmet az erre a célra rendszeresített formanyomtatványon – egy példányban kell benyújtani. A kormányablak által hitelesített másolatként továbbított iratot a hatáskörrel rendelkező illetékes hatóság az eljárásához köteles elfogadni akkor is, ha kormányrendelet az irat eredeti példányban történő benyújtásáról rendelkezik. Jogszabály úgy is rendelkezhet, hogy a kormányablak az irat eredeti példányát is továbbítja a hatáskörrel rendelkező illetékes hatósághoz.
 
-(4)[^35] Ha a (2) bekezdés alapján a kormányablak vagy a KOF az ügyfél vagy más személy jognyilatkozatát tartalmazó közokiratnak minősülő iratokról vagy a kormányhivatal iratkezelési szabályzatában e rendelkezés szerinti eljárás alkalmazására kijelölt iratról készít hiteles elektronikus másolatot, a másolat eredeti papíralapú iratát visszaadja az ügyfélnek vagy a képviseletében eljáró személynek.
+(4)[^37] Ha a (2) bekezdés alapján a kormányablak vagy a KOF az ügyfél vagy más személy jognyilatkozatát tartalmazó közokiratnak minősülő iratokról vagy a kormányhivatal iratkezelési szabályzatában e rendelkezés szerinti eljárás alkalmazására kijelölt iratról készít hiteles elektronikus másolatot, a másolat eredeti papíralapú iratát visszaadja az ügyfélnek vagy a képviseletében eljáró személynek.
 
 (5) A 8. és 9. melléklet szerinti ügykörökben a papíralapú iratok tárolásáról, illetve az 51. § szerinti kérelmek tekintetében azon papíralapú iratok tárolásáról, amelyekről az eljáró hatósághoz kizárólag a hiteles elektronikus másolat került továbbításra, az a kormányhivatal gondoskodik, amelyhez tartozó kormányablakban keletkezett vagy átvételre került az irat. A tárolás piaci szolgáltatás igénybevételével is biztosítható.
 
@@ -12,9 +12,9 @@
 
 (7) Ha a (2) bekezdés alapján a kormányablak a (3) bekezdés hatálya alá nem tartozó iratról készít hiteles elektronikus másolatot, a kormányhivatal köteles gondoskodni a papíralapú irat egy eredeti példányának megőrzéséről és annak a megkereső hatóság vagy más szerv részére történő bemutatásáról.
 
-(8)[^36] A kormányablak és a KOF a 49–54. §-ban meghatározott feladatainak ellátása érdekében a kormányablakok technikai feltételeit meghatározó miniszteri rendeletben megfogalmazott követelmények és feltételek szerint az informatikai üzemeltetési és szolgáltatói feladatok ellátását az e-közigazgatásért felelős miniszter biztosítja, és ezen feladatok ellátása érdekében bevonja a kormányhivatalokat és a NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaságot.
+(8)[^38] A kormányablak és a KOF a 49–54. §-ban meghatározott feladatainak ellátása érdekében a kormányablakok technikai feltételeit meghatározó miniszteri rendeletben megfogalmazott követelmények és feltételek szerint az informatikai üzemeltetési és szolgáltatói feladatok ellátását az e-közigazgatásért felelős miniszter biztosítja, és ezen feladatok ellátása érdekében bevonja a kormányhivatalokat és a NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaságot.
 
-[^33]: Az 55. § (1) bekezdése a 402/2024. (XII. 16.) Korm. rendelet 13. § l) pontja szerint módosított szöveg.
-[^34]: Az 55. § (2) bekezdése a 402/2024. (XII. 16.) Korm. rendelet 13. § l) és m) pontja szerint módosított szöveg.
-[^35]: Az 55. § (4) bekezdése a 402/2024. (XII. 16.) Korm. rendelet 13. § n) pontja szerint módosított szöveg.
-[^36]: Az 55. § (8) bekezdése a 402/2024. (XII. 16.) Korm. rendelet 13. § l) pontja szerint módosított szöveg.
+[^35]: Az 55. § (1) bekezdése a 402/2024. (XII. 16.) Korm. rendelet 13. § l) pontja szerint módosított szöveg.
+[^36]: Az 55. § (2) bekezdése a 402/2024. (XII. 16.) Korm. rendelet 13. § l) és m) pontja szerint módosított szöveg.
+[^37]: Az 55. § (4) bekezdése a 402/2024. (XII. 16.) Korm. rendelet 13. § n) pontja szerint módosított szöveg.
+[^38]: Az 55. § (8) bekezdése a 402/2024. (XII. 16.) Korm. rendelet 13. § l) pontja szerint módosított szöveg.
