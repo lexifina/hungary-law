@@ -26,3 +26,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-363-20-
 | 2022-07-01 | 2011-363-20-22.18 | 146/2018. (VIII. 13.) Korm. rendelet |
 | 2022-12-20 | 2011-363-20-22.19 | 532/2022. (XII. 19.) Korm. rendelet |
 | 2023-05-16 | 2011-363-20-22.20 | 180/2023. (V. 15.) Korm. rendelet |
+| 2025-03-01 | 2011-363-20-22.21 | 157/2015. (VI. 25.) Korm. rendelet |
