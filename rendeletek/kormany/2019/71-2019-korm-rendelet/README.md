@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-71-20-2
 | 2022-11-01 | 2019-71-20-22.5 | 385/2022. (X. 13.) Korm. rendelet |
 | 2024-07-01 | 2019-71-20-22.6 | 136/2024. (VI. 28.) Korm. rendelet |
 | 2024-07-08 | 2019-71-20-22.7 | 176/2024. (VII. 7.) Korm. rendelet |
+| 2025-03-01 | 2019-71-20-22.8 | 716/2021. (XII. 20.) Korm. rendelet |
