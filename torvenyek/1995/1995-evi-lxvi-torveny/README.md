@@ -39,3 +39,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-66-00-00
 | 2023-07-01 | 2023. évi XXVII. törvény | 1995-66-00-00.52 |
 | 2024-07-09 | 2024. évi XVII. törvény | 1995-66-00-00.53 |
 | 2025-01-01 | 2024. évi LXXVI. törvény | 1995-66-00-00.55 |
+| 2025-03-01 | 2024. évi LXXII. törvény | 1995-66-00-00.54 |
