@@ -266,7 +266,7 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 2.1.2. 620%**: A gondozásból adódó többletteher ellentételezése érdekében a szolgálati kutya kiképzésében részt vevő, azzal folyamatosan foglalkozó, arról gondoskodó, valamint azzal szolgálati tevékenységet ellátó állomány esetében egy kutya gondozása esetén a hivatásos pótlék mértéke 620%.
 
-2.1.3. 620****: A közterületi támogató feladatok ellátására létrehozott szervezet – MEKTA – közterületi támogató feladatokat közvetlenül ellátó állománya, a Repülőtéri Rendőr Igazgatóság Idegenrendészeti Osztály Légitolonc Alosztály szakfeladatot közvetlenül ellátó állománya, valamint a hivatásos állomány közúti határátkelőhelyen útlevélkezelői vagy a határátkelőhely forgalmának ellenőrzésével kapcsolatos feladatot ténylegesen ellátó tagja esetében a hivatásos pótlék mértéke 620%.
+2.1.3.[^32] 620****: A közterületi támogató feladatok ellátására létrehozott szervezet – MEKTA – közterületi támogató feladatokat közvetlenül ellátó állománya, a Repülőtéri Rendőr Igazgatóság Idegenrendészeti Osztály Légitolonc Alosztály szakfeladatot közvetlenül ellátó állománya, valamint a hivatásos állomány közúti vagy légi határátkelőhelyen útlevélkezelői vagy a határátkelőhely forgalmának ellenőrzésével kapcsolatos feladatot ténylegesen ellátó tagja esetében a hivatásos pótlék mértéke 620%.
 
 2.1.4. 645%**: A gondozásból adódó többletteher ellentételezése érdekében a szolgálati kutya kiképzésében részt vevő, azzal folyamatosan foglalkozó, arról gondoskodó, valamint azzal szolgálati tevékenységet ellátó állomány esetében két vagy annál több kutya gondozása esetén a hivatásos pótlék mértéke 645%.
 
@@ -440,7 +440,7 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 3.1.3. 620%**: A gondozásból adódó többletteher ellentételezése érdekében a szolgálati kutya kiképzésében részt vevő, azzal folyamatosan foglalkozó, arról gondoskodó, valamint azzal szolgálati tevékenységet ellátó állomány esetében egy kutya gondozása esetén a hivatásos pótlék mértéke 620%.
 
-3.1.4. 620****: A közterületi támogató feladatok ellátására létrehozott szervezet – MEKTA – közterületi támogató feladatokat közvetlenül ellátó állománya, a Repülőtéri Rendőr Igazgatóság Idegenrendészeti Osztály Légitolonc Alosztály szakfeladatot közvetlenül ellátó állománya, valamint a hivatásos állomány közúti határátkelőhelyen útlevélkezelői vagy a határátkelőhely forgalmának ellenőrzésével kapcsolatos feladatot ténylegesen ellátó tagja esetében a hivatásos pótlék mértéke 620%.
+3.1.4.[^33] 620****: A közterületi támogató feladatok ellátására létrehozott szervezet – MEKTA – közterületi támogató feladatokat közvetlenül ellátó állománya, a Repülőtéri Rendőr Igazgatóság Idegenrendészeti Osztály Légitolonc Alosztály szakfeladatot közvetlenül ellátó állománya, valamint a hivatásos állomány közúti vagy légi határátkelőhelyen útlevélkezelői vagy a határátkelőhely forgalmának ellenőrzésével kapcsolatos feladatot ténylegesen ellátó tagja esetében a hivatásos pótlék mértéke 620%.
 
 3.1.5. 645%**: A gondozásból adódó többletteher ellentételezése érdekében a szolgálati kutya kiképzésében részt vevő, azzal folyamatosan foglalkozó, arról gondoskodó, valamint azzal szolgálati tevékenységet ellátó állomány esetében két vagy annál több kutya gondozása esetén a hivatásos pótlék mértéke 645%.
 
@@ -1198,7 +1198,9 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 9.2.4. kiemelt rendőrkapitányságok: a BRFK II., III., IV., V., VII., VIII., IX., X., XI., XIII., XIV. kerületi Rendőrkapitányság és a Dunai Vízirendészeti Rendőrkapitányság, a vármegyeszékhelyi rendőrkapitányságok, a Gödöllői, a Soproni, a Nagykanizsai, a Dunaújvárosi, az Érdi, a Hódmezővásárhelyi Rendőrkapitányság,
 
-9.2.5.[^32] kiemelt határrendészeti kirendeltségek: a Szegedi, a Kiszombori, a Nagylaki, a Kelebiai, a Hercegszántói, a Bácsalmási, a Záhonyi Határrendészeti Kirendeltség.
+9.2.5.[^34] kiemelt határrendészeti kirendeltségek: a Szegedi, a Kiszombori, a Kelebiai, a Hercegszántói, a Bácsalmási, a Záhonyi Határrendészeti Kirendeltség.
 
 [^31]: A 2. melléklet a 92/2023. (XII. 28.) BM rendelet 1. § a) pontjával megállapított szöveg.
-[^32]: A 2. melléklet 9.2.5. pontja a 62/2024. (XII. 30.) BM rendelet 35. §-a szerint módosított szöveg.
+[^32]: A 2. melléklet 2.1.3. pontja az 5/2025. (II. 25.) BM rendelet 2. §-a szerint módosított szöveg.
+[^33]: A 2. melléklet 3.1.4. pontja az 5/2025. (II. 25.) BM rendelet 2. §-a szerint módosított szöveg.
+[^34]: A 2. melléklet 9.2.5. pontja a 62/2024. (XII. 30.) BM rendelet 35. §-a, az 5/2025. (II. 25.) BM rendelet 3. §-a szerint módosított szöveg.
