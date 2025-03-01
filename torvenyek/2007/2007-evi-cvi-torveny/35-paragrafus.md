@@ -26,7 +26,7 @@ k) külföldi állam részére történő értékesítés esetén a j) pont alá
 
 l) minősített adatot, illetőleg az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy különleges biztonsági intézkedést igénylő értékesítés esetén,
 
-m) külön jogszabályban meghatározott, a védelem terén alapvető biztonsági érdeket érintő, kifejezetten katonai, rendvédelmi, rendészeti célokra szánt áruk értékesítése esetén,
+m) külön jogszabályban meghatározott, a védelem terén alapvető biztonsági érdeket érintő, kifejezetten katonai, nemzetbiztonsági, rendvédelmi, rendészeti célokra szánt áruk értékesítése esetén,
 
 n) ha társadalom-, fejlesztéspolitikai vagy egyéb szempontok szerinti közérdekű cél érdekében az adott ügylet megvalósítása kiemelten indokolt, és a Kormány erre figyelemmel nyilvános határozatban döntött a versenyeztetés mellőzéséről,
 

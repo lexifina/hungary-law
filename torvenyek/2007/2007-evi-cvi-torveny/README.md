@@ -67,3 +67,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-106-00-00
 | 2024-12-06 | 2024. évi LVI. törvény | 2007-106-00-00.70 |
 | 2025-01-01 | 2024. évi LVI. törvény | 2007-106-00-00.71 |
 | 2025-01-15 | 1997. évi CXLI. törvény | 2007-106-00-00.59 |
+| 2025-03-01 | 2024. évi LXXII. törvény | 2007-106-00-00.72 |
