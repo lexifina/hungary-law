@@ -8,9 +8,9 @@
 
 ## 3. A jogosult az eredeti számláját, számviteli bizonylatát – a 4. pont szerinti kivétellel – a kötelezett részére úgy nyújtja be, hogy azt a kötelezett a számlában, számviteli bizonylatban feltüntetett esedékesség időpontját legalább huszonegy munkanappal megelőzően kézhez vehesse.
 
-## 4. A Befogadó a szabályozási pótdíjról szóló eredeti számviteli bizonylatát a kötelezett részére úgy nyújtja be, hogy azt a kötelezett a számviteli bizonylatban feltüntetett esedékesség időpontját legalább tizenöt munkanappal megelőzően kézhez vehesse.
+## 4.[^132] A jogosult a szabályozási pótdíjról szóló eredeti számviteli bizonylatát a kötelezett részére úgy nyújtja be, hogy azt a kötelezett a számviteli bizonylatban feltüntetett esedékesség időpontját legalább tizenöt munkanappal megelőzően kézhez vehesse.
 
-## 5. A kötelezett a fizetési kötelezettségekkel kapcsolatos számlára, számviteli bizonylatra vonatkozó kifogását a számla, számviteli bizonylat kézhezvételétől számított húsz, szabályozási pótdíj tekintetében tizennégy munkanapon belül közli a jogosulttal. A helytelen mérési adatokkal összefüggő kifogásokat a kereskedelmi szabályzatban foglaltaknak megfelelő elszámolási mennyiségi adatok reklamációját követően, de legkésőbb a kereskedelmi szabályzatban rögzített elszámolási adatokra vonatkozó reklamációs határidőig lehet a Befogadó részére benyújtani. A számlára, számviteli bizonylatra vonatkozó kifogás esetén a nem vitatott részek esedékessége nem változik.
+## 5.[^133] A kötelezett a fizetési kötelezettségekkel kapcsolatos számlára, számviteli bizonylatra vonatkozó kifogását a számla, számviteli bizonylat kézhezvételétől számított húsz, szabályozási pótdíj tekintetében tizennégy munkanapon belül közli a jogosulttal. A helytelen mérési adatokkal összefüggő kifogásokat a kereskedelmi szabályzatban foglaltaknak megfelelő elszámolási mennyiségi adatok reklamációját követően, de legkésőbb a kereskedelmi szabályzatban rögzített elszámolási adatokra vonatkozó reklamációs határidőig lehet a mérésért felelős hálózati engedélyes részére benyújtani. A számlára, számviteli bizonylatra vonatkozó kifogás esetén a nem vitatott részek esedékessége nem változik.
 
 ## 6. A fizetési kötelezettségek késedelmes teljesítése esetén a késedelmesen teljesítő fél a késedelembe esés napjától a kifizetés napjáig terjedő időszakra a Polgári Törvénykönyvről szóló törvényben foglaltak szerinti késedelmi kamatot, valamint a behajtási költségátalányról szóló törvény szerinti behajtási költségátalányt fizet a másik fél részére.
 
@@ -44,12 +44,14 @@
 
 5. számú melléklet a 389/2007. (XII. 23.) Korm. rendelethez
 
-## A megújuló energiaforrásból és a hulladékból nyert energiával termelt villamos energia átvételi árainak meghatározása
+A megújuló energiaforrásból és a hulladékból nyert energiával termelt villamos energia átvételi árainak meghatározása
 
 1. A 4. § (1) bekezdése szerinti villamos energia tárgyévre vonatkozó, január 1-jétől érvényes – a zónaidőnként termelt villamos energia mennyiségek alapján számított, súlyozott – átlagos kötelező átvételi árát a tárgyévet megelőző év – a zónaidőnként termelt villamos energia mennyiségek alapján számított, súlyozott – átlagos átvételi ára és a Központi Statisztikai Hivatal által a tárgyévet megelőzően utoljára közzétett, az előző év azonos időszakához viszonyított aktuális (utolsó) éves fogyasztói árindex értékének szorzata alapján kell meghatározni.
 
 2. A 4. § (2)–(6) bekezdése szerinti villamos energia tárgyévre vonatkozó, január 1-jétől érvényes – a zónaidőnként termelt villamos energia mennyiségek alapján számított, súlyozott – átlagos kötelező átvételi árát a tárgyévet megelőző év – a zónaidőnként termelt villamos energia mennyiségek alapján számított, súlyozott – átlagos átvételi ára és a Központi Statisztikai Hivatal által a tárgyévet megelőzően utoljára közzétett, az előző év azonos időszakához viszonyított aktuális (utolsó) éves fogyasztói árindex 1% pontos hatékonyságjavítási tényezővel csökkentett értékének szorzata alapján kell meghatározni.
 
-3.[^126] E rendelet alkalmazásában, az 1. és 2. pontban hivatkozott „a Központi Statisztikai Hivatal által a tárgyévet megelőzően utoljára közzétett, a megelőző év azonos időszakához viszonyított aktuális (utolsó) éves fogyasztói árindex” a Központi Statisztikai Hivatal által a tárgyévet megelőző évre vonatkozóan havonta közzétett, az előző év azonos hónapjaihoz viszonyított fogyasztói árindexeinek átlagát jelenti.
+3.[^134] E rendelet alkalmazásában, az 1. és 2. pontban hivatkozott „a Központi Statisztikai Hivatal által a tárgyévet megelőzően utoljára közzétett, a megelőző év azonos időszakához viszonyított aktuális (utolsó) éves fogyasztói árindex” a Központi Statisztikai Hivatal által a tárgyévet megelőző évre vonatkozóan havonta közzétett, az előző év azonos hónapjaihoz viszonyított fogyasztói árindexeinek átlagát jelenti.
 
-[^126]: Az 5. melléklet 3. pontja a 393/2016. (XII. 5.) Korm. rendelet 2. § (14) bekezdése szerint módosított szöveg.
+[^132]: A 4. melléklet 4. számú melléklet I. Általános szabályok 4. pontja a 26/2025. (II. 27.) Korm. rendelet 7. § h) pontja szerint módosított szöveg.
+[^133]: A 4. számú melléklet I. Általános szabályok 5. pontja a 26/2025. (II. 27.) Korm. rendelet 7. § i) pontja szerint módosított szöveg.
+[^134]: Az 5. melléklet 3. pontja a 393/2016. (XII. 5.) Korm. rendelet 2. § (14) bekezdése szerint módosított szöveg.

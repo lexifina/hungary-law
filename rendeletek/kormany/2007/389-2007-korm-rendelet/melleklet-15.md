@@ -1,53 +1,53 @@
-15. számú melléklet a 389/2007. (XII. 23.) Korm. rendelethez[^135]
+15. számú melléklet a 389/2007. (XII. 23.) Korm. rendelethez[^143]
 
-## A Menetrendadásra kötelezett önálló kiegyenlítő menedzsmentjére vonatkozó szabályok
+A Menetrendadásra kötelezett önálló kiegyenlítő menedzsmentjére vonatkozó szabályok
 
 1. Egy adott (i) elszámolási mérési időegységben a Menetrendadásra kötelezett által a KÁT mérlegkörből piaci mérlegkörökbe menetrend szerint kiszállított villamosenergia-mennyiség értéke:
 
-SZi ki * Pi.
+## SZi ki * Pi.
 
 2. Egy adott (i) elszámolási mérési időegységben a Menetrendadásra kötelezett által a KÁT mérlegkörbe piaci mérlegkörökből menetrend szerint beszállított villamosenergia-mennyiség értéke:
 
-SZi be * Pi.
+## SZi be * Pi.
 
 3. Egy adott (i) elszámolási mérési időegységben a Menetrendadásra kötelezett által a rendszerhasználótól a KÁT mérlegkörbe átvett villamosenergia-mennyiség értéke:
 
-RHiterm* Pi.
+## RHiterm* Pi.
 
 4. Egy adott (i) elszámolási mérési időegységben a Menetrendadásra kötelezett által a rendszerhasználónak a KÁT mérlegkörből átadott villamosenergia-mennyiség értéke:
 
-RHi fogy * Pi.
+## RHi fogy * Pi.
 
 5. Egy adott (i) elszámolási mérési időegységben a Menetrendadásra kötelezett LE irányú utasított eltéréséhez tartozó villamosenergia-mennyiség értéke:
 
-UTicsökk* Pi.
+## UTicsökk* Pi.
 
 6. Egy adott (i) elszámolási mérési időegységben a Menetrendadásra kötelezett FEL irányú utasított eltéréséhez tartozó villamosenergia-mennyiség értéke:
 
-UTinöv* Pi.
+## UTinöv* Pi.
 
 7. A Menetrendadásra kötelezett önálló kiegyenlítő menedzsmentjével összefüggő villamosenergia-mennyiség ellenértékének elszámolható havi összege:
 
-KMhó Ft = ΣhóSZi ki * Pi – ΣhóSZi be * Pi – ΣhóRHiterm* Pi + ΣhóRHi fogy * Pi – ΣhóUTicsökk* Pi + ΣhóUTinöv* Pi;
+## KMhó Ft = ΣhóSZi ki * Pi – ΣhóSZi be * Pi – ΣhóRHiterm* Pi + ΣhóRHi fogy * Pi – ΣhóUTicsökk* Pi + ΣhóUTinöv* Pi;
 
-ahol:
+## ahol:
 
-KMhó Ft - a Menetrendadásra kötelezett önálló kiegyenlítő menedzsmentjével összefüggő villamosenergia-mennyiség ellenértékének elszámolható havi összege, Ft;
+## KMhó Ft – a Menetrendadásra kötelezett önálló kiegyenlítő menedzsmentjével összefüggő villamosenergia-mennyiség ellenértékének elszámolható havi összege, Ft;
 
-SZi ki - az adott (i) elszámolási mérési időegységben a Menetrendadásra kötelezett által a KÁT mérlegkörből piaci mérlegkörökbe menetrend szerint kiszállított villamosenergia-mennyiség, kWh;
+## SZi ki – az adott (i) elszámolási mérési időegységben a Menetrendadásra kötelezett által a KÁT mérlegkörből piaci mérlegkörökbe menetrend szerint kiszállított villamosenergia-mennyiség, kWh;
 
-SZi be - az adott (i) elszámolási mérési időegységben a Menetrendadásra kötelezett által a KÁT mérlegkörbe piaci mérlegkörökből menetrend szerint beszállított villamosenergia-mennyiség, kWh;
+## SZi be – az adott (i) elszámolási mérési időegységben a Menetrendadásra kötelezett által a KÁT mérlegkörbe piaci mérlegkörökből menetrend szerint beszállított villamosenergia-mennyiség, kWh;
 
-RHi term - az adott (i) elszámolási mérési időegységben a Menetrendadásra kötelezett által a rendszerhasználótól a KÁT mérlegkörbe átvett villamosenergia-mennyiség, kWh;
+## RHi term – az adott (i) elszámolási mérési időegységben a Menetrendadásra kötelezett által a rendszerhasználótól a KÁT mérlegkörbe átvett villamosenergia-mennyiség, kWh;
 
-RHi fogy - az adott (i) elszámolási mérési időegységben a Menetrendadásra kötelezett által a rendszerhasználónak a KÁT mérlegkörből átadott villamosenergia-mennyiség, kWh;
+## RHi fogy – az adott (i) elszámolási mérési időegységben a Menetrendadásra kötelezett által a rendszerhasználónak a KÁT mérlegkörből átadott villamosenergia-mennyiség, kWh;
 
-UTi csökk - az adott (i) elszámolási mérési időegységben a Menetrendadásra kötelezett LE irányú utasított eltérésének villamosenergia-mennyisége, kWh;
+## UTi csökk – az adott (i) elszámolási mérési időegységben a Menetrendadásra kötelezett LE irányú utasított eltérésének villamosenergia-mennyisége, kWh;
 
-UTi növ - az adott (i) elszámolási mérési időegységben a Menetrendadásra kötelezett FEL irányú utasított eltérésének villamosenergia-mennyisége, kWh;
+## UTi növ – az adott (i) elszámolási mérési időegységben a Menetrendadásra kötelezett FEL irányú utasított eltérésének villamosenergia-mennyisége, kWh;
 
-Pi - az adott (i) elszámolási mérési időegységre a hazai szervezett villamosenergia-piaci engedélyes által közzétett, napon belül kialakult órás és negyedórás árak Kereskedelmi Szabályzatban meghatározott módon számított átlaga – napon belüli árak hiányában a másnapi hazai szervezett villamosenergia-piacon kialakult órás ár – (EUR/MWh) a Magyar Nemzeti Bank adott napra – munkaszüneti nap esetében a megelőző munkanapra – közzétett napi középárfolyama alapján átváltva, Ft/kWh.
+## Pi – napon belüli piaci ár, az adott (i) elszámolási mérési időegységre a hazai szervezett villamosenergia-piaci engedélyes által közzétett, napon belül kialakult órás és negyedórás árak Kereskedelmi Szabályzatban meghatározott módon számított átlaga – napon belüli árak hiányában a másnapi hazai szervezett villamosenergia-piacon, az adott (i) elszámolási mérési időegységben kialakult ár – (EUR/MWh) a Magyar Nemzeti Bank adott napra – munkaszüneti nap esetében a megelőző munkanapra – közzétett napi középárfolyama alapján átváltva, Ft/kWh.
 
 8. A 4. számú melléklet II. Különös szabályok 6. pontja szerinti számlán szereplő, 7. pont szerinti összeget a villamosenergia-ellátási szabályzatokban meghatározott előzetes elszámolási adatok alapján kell kiszámítani, mely a 4. számú melléklet II. Különös szabályok 10. pontja alapján korrigálásra kerül.
 
-[^135]: A 15. számú mellékletet a 787/2021. (XII. 27.) Korm. rendelet 35. §-a iktata be, szövege a 229/2022. (VI. 28.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^143]: A 15. számú mellékletet a 787/2021. (XII. 27.) Korm. rendelet 35. §-a iktata be, szövege a 26/2025. (II. 27.) Korm. rendelet 6. § b) pontjával megállapított szöveg.

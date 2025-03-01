@@ -1,8 +1,6 @@
-## 6/A. §[^59]
-
 ## A kötelező átvételi jogosultság gyakorlásának szabályai
 
-7. §[^60] (1) A KÁT termelő az e rendelet feltételeinek megfelelő villamos energiát a kötelező átvétel keretében, a Hivatal határozatában megállapított kötelező átvételi időtartam alatt, a Hivatal által meghatározott éves mennyiségek, vagy az előbbiek szorzataként meghatározott összes átveendő energia mértékéig értékesítheti az e rendelet szerinti átvételi áron.
+7. §[^65] (1) A KÁT termelő az e rendelet feltételeinek megfelelő villamos energiát a kötelező átvétel keretében, a Hivatal határozatában megállapított kötelező átvételi időtartam alatt, a Hivatal által meghatározott éves mennyiségek, vagy az előbbiek szorzataként meghatározott összes átveendő energia mértékéig értékesítheti az e rendelet szerinti átvételi áron.
 
 (2) Ha a villamosenergia-termelés biomassza felhasználásával történik a KÁT termelő a megújuló energia közlekedési célú felhasználásának előmozdításáról és a közlekedésben felhasznált energia üvegházhatású gázkibocsátásának csökkentéséről szóló törvény rendelkezéseinek megfelelően igazolja erdei biomassza és fásszárú biomassza esetében, hogy a biomassza fenntartható gazdálkodásból származik, és nem tartozik a VET 10. § (2) bekezdése hatálya alá. A Magyarország területén kívül keletkezett erdőgazdálkodásból származó biomassza esetén a fenntartható gazdálkodást a KÁT termelő a Forest Stewardship Council (FSC) vagy Programme for the Endorsement of Forest Certification (PEFC) tanúsítványával igazolja, és nyilatkozik a VET 10. § (2) bekezdése alóli mentességről.
 
@@ -28,11 +26,12 @@ c) a tényleges szállítás időszakában tény alapú villamos energia betápl
 
 (10) Az önálló kiegyenlítő menedzsmentben a (7) bekezdés b) és c) pontja szerint részt vevő rendszerhasználó termelési és fogyasztási menetrendje a KÁT mérlegkör viszonylatában nulla értékű.
 
-(11) A Menetrendadásra kötelezettnek a menetrendek tekintetében teljes kiegyenlítési kötelezettsége van. Ha a KÁT termelő – összevont menetrend esetén a Menetrend-csoportba tartozó KÁT termelők – által az adott elszámolási mérési időegységben ténylegesen értékesített villamos energia mennyisége eltér (7) bekezdés szerinti önálló kiegyenlítő menedzsment figyelembe vételével a Menetrendadásra kötelezett napon belüli termelési menetrendje szerinti villamosenergia-mennyiségtől a Menetrendadásra kötelezett a 14. számú mellékletben meghatározott szabályozási pótdíjat fizet a Befogadónak. Ha a Menetrendadásra kötelezett a napi termelési menetrendet nem vagy nem a villamosenergia-ellátási szabályzatokban meghatározottaknak megfelelően, vagy késedelmesen adja meg, akkor a szabályozási pótdíj számítása során azt nulla értékkel kell figyelembe venni.
+(11)[^66] A Menetrendadásra kötelezettnek a menetrendek tekintetében teljes kiegyenlítési kötelezettsége van. Ha a KÁT termelő – összevont menetrend esetén a Menetrend-csoportba tartozó KÁT termelők – által az adott elszámolási mérési időegységben a 3. § (6) bekezdése szerinti villamos energia mennyisége eltér a (7) bekezdés szerinti önálló kiegyenlítő menedzsment és az utasított eltérések figyelembevételével a Menetrendadásra kötelezett napon belüli termelési menetrendje szerinti villamosenergia-mennyiségtől, akkor a Befogadó a 14. számú mellékletben meghatározott szabályozási pótdíjat számolja el a Menetrendadásra kötelezettel. Ha a Menetrendadásra kötelezett a napi termelési menetrendet nem vagy nem a villamosenergia-ellátási szabályzatokban meghatározottaknak megfelelően vagy késedelmesen adja meg, akkor az elszámolások során azt nulla értékkel kell figyelembe venni.
 
 (12) A 3. § (2) bekezdése szerinti összevont menetrendadás esetén a 14. számú melléklet szerinti szabályozási pótdíj megfizetéséért a Menetrend-csoport Képviselő a Menetrend-csoportjába tartozó KÁT termelőkkel egyetemlegesen felel.
 
-(13) A Befogadó a (11) bekezdés szerinti szabályozási pótdíj havi összegét a VET 13. § (1) bekezdése szerinti pénzeszköz mértékének meghatározása során csökkentő tényezőként veszi figyelembe.
+(13)[^67] A Befogadó a (11) bekezdés szerinti szabályozási pótdíj havi összegét a VET 13. § (1) bekezdése szerinti pénzeszköz mértékének meghatározása során előjelhelyesen veszi figyelembe.
 
-[^59]: A 6/A. §-t újonnan a 4/2018. (II. 2.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 256/2018. (XII. 18.) Korm. rendelet 6. §-a.
-[^60]: A 7. § a 787/2021. (XII. 27.) Korm. rendelet 30. §-ával megállapított szöveg.
+[^65]: A 7. § a 787/2021. (XII. 27.) Korm. rendelet 30. §-ával megállapított szöveg.
+[^66]: A 7. § (11) bekezdése a 26/2025. (II. 27.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^67]: A 7. § (13) bekezdése a 26/2025. (II. 27.) Korm. rendelet 7. § f) pontja szerint módosított szöveg.

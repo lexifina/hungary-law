@@ -1,5 +1,3 @@
-## A megújuló energiaforrásból nyert energiával termelt villamos energia kötelező átvétele keretében történő értékesítés megkezdéséhez biomassza vagy biogáz felhasználása esetén teljesítendő minimális hatásfok követelmények
-
 | Kondenzációs termelés | Előírt energetikai hatásfok |
 
 | Biomassza-tüzelésű erőműegység | 30% |
@@ -14,6 +12,6 @@
 
 ## Az előírt hatásfok követelmények az erőműegység névleges hő- és villamosenergia-termelése esetén értendők 15 °C környezeti hőmérséklet, 1,013 bar nyomás, 60% relatív páratartalom mellett.
 
-8. számú melléklet a 389/2007. (XII. 23.) Korm. rendelethez[^128]
+8. számú melléklet a 389/2007. (XII. 23.) Korm. rendelethez[^136]
 
-[^128]: A 8. számú mellékletet a 787/2021. (XII. 27.) Korm. rendelet 36. § d) pontja hatályon kívül helyezte.
+[^136]: A 8. számú mellékletet a 787/2021. (XII. 27.) Korm. rendelet 36. § d) pontja hatályon kívül helyezte.

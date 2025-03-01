@@ -12,7 +12,7 @@ b) a hulladékból nyert energiával termelt villamos energia,
 
 c)[^2]
 
-## kötelező átvételének szabályaira, a Menetrendadásra kötelezett és a Befogadó közötti tranzakciók áraira, továbbá ezen árak alkalmazási feltételeinek megállapítására.
+kötelező átvételének szabályaira, a Menetrendadásra kötelezett és a Befogadó közötti tranzakciók áraira, továbbá ezen árak alkalmazási feltételeinek megállapítására.
 
 (1a)[^3] A rendelet alkalmazási köre kiterjed továbbá a kötelező átvételi rendszerben értékesített, kapcsoltan termelt villamos energia elszámolására, ellenőrzésére, valamint a jogosulatlan értékesítés esetében történő visszatérítésre.
 
@@ -38,7 +38,7 @@ b) erőműegység feletti rendelkezési jog átadásán alapuló, változatlan k
 
 c) a kötelező átvételi jogosultság megállapítása során figyelembe vett egyéb állami támogatás mértékének megváltozása miatti módosításra
 
-## irányul.
+irányul.
 
 (7)[^9] A (6) bekezdés a) és b) pontja esetén a Hivatal kötelező átvételi jogosultságot állapít meg, ha a kötelező átvételi jogosultságot átadóval szemben a jogutódlás időpontjában vagy a kötelező átvételi jogosultság rendelkezési jog átadásán alapuló megállapítására vonatkozó, (6) bekezdés b) pontja szerinti kérelem elbírálásakor nem áll fenn a 9/A. § (4) bekezdésében meghatározott kizáró ok.
 

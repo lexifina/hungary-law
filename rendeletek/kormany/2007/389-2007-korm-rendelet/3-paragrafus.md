@@ -10,7 +10,7 @@ b) A Menetrend-csoport Képviselő és az összevont menetrendadási csoport tag
 
 c) A Menetrend-csoport Képviselő és az összevont menetrendadási csoport tagjai az összevont menetrendadással összefüggő jogaikról és kötelezettségeikről külön megállapodást kötnek egymással.
 
-d) A Menetrend-csoport Képviselő a 7. § (5)–(6) bekezdése szerinti menetrendeket KÁT termelőnként adja meg, azonban a Befogadó és a Menetrend-csoport Képviselő a 7. § (11) bekezdése szerinti szabályozási pótdíjat az összevont menetrend alapján számolják el. A Menetrend-csoport Képviselő és a csoporttagok a Menetrend-csoport Képviselő által a Befogadó részére megfizetett szabályozási pótdíj szétosztásáról a c) pont szerinti megállapodásban rendelkeznek.
+d)[^30] A Menetrend-csoport Képviselő a 7. § (5)–(6) bekezdése szerinti menetrendeket KÁT termelőnként adja meg, azonban a Befogadó és a Menetrend-csoport Képviselő a 7. § (11) bekezdése szerinti szabályozási pótdíjat az összevont menetrend alapján számolják el. A Menetrend-csoport Képviselő és a csoporttagok a Menetrend-csoport Képviselő és a Befogadó között elszámolt szabályozási pótdíj szétosztásáról a c) pont szerinti megállapodásban rendelkeznek.
 
 e) Ha egy Menetrend-csoporthoz villamosenergia-tárolóval rendelkező KÁT termelő csatlakozik, a villamosenergia-tároló használatára a Menetrend-csoport Képviselő jogosult az összes Menetrend-csoport tag tekintetében.
 
@@ -28,7 +28,7 @@ i) A 7. § (7) bekezdése szerinti önálló kiegyenlítő menedzsmenttel olyan 
 
 (5) A (4) bekezdés szerinti árak az általános forgalmi adó összegét nem tartalmazzák.
 
-(6) Az e rendelet szerinti kötelező átvételi árak a közcélú csatlakozási ponton a Befogadó által átvett, a (8)–(13) bekezdés szerint meghatározott mennyiségű vagy utasított eltérés hatására betáplált villamos energiára vonatkoznak.
+(6)[^31] Az e rendelet szerinti kötelező átvételi árak a közcélú csatlakozási ponton – magánvezetékre kapcsolódó termelő esetében a kapcsolódási ponton – a Befogadó által átvett, a (8)–(11a) bekezdés szerint meghatározott mennyiségű villamos energiára vonatkoznak.
 
 (7) A 7. § (7) bekezdése szerinti önálló kiegyenlítő menedzsment során igénybe vett rendszerhasználó a közcélú csatlakozási pontra vonatkoztatott önálló elszámolási ponton csatlakozik a KÁT mérlegkörhöz.
 
@@ -40,17 +40,24 @@ i) A 7. § (7) bekezdése szerinti önálló kiegyenlítő menedzsmenttel olyan 
 
 (11) Ha az elszámolási mérés nem a közcélú csatlakozási ponton történik, a villamos energia mért mennyiségét a mérési és a csatlakozási pont közötti szakasz hatásos veszteségével korrigálni kell. E korrekciót az elszámolási ponti képletnek is tartalmaznia kell.
 
+(11a)[^32] Amennyiben a KÁT termelő közcélú csatlakozási pontját a kötelező átvételre jogosult erőműegységen kívül más erőmű vagy tároló is igénybe veszi, az e rendelet szerint elszámolható villamosenergia-mennyiség elszámolása nem a közcélú csatlakozási ponton – vagy magánvezetékre kapcsolódó termelő esetében a kapcsolódási ponton –, hanem külön almérés(ek) kialakításával, az almérő által mért vagy annak felhasználásával a mérésért felelős hálózati engedélyes által számított, a KÁT egység által termelt villamosenergia-mennyiség alapján történik, azzal, hogy a közcélú csatlakozási ponton mért energiaforgalmak előjelhelyes összegzése minden elszámolási mérési intervallumban megegyezik a hozzá tartozó elszámolási pontokra (KÁT és piaci) megállapított mennyiségek előjelhelyes összegével. Az érintett kötelező átvételre jogosult erőműegység és a csatlakozási pontját igénybe vevő más erőmű vagy tároló a VET 5. §-a szerinti rendszerszintű szolgáltatásban vagy elosztói rugalmassági szolgáltatásban kizárólag ugyanazon aggregátor útján vehet részt.
+
 (12) A hálózatra csatlakozás során a biztonsági, a műszaki és a gazdasági szempontok összhangja érdekében az átviteli rendszerirányító, az elosztó hálózati engedélyes, a Befogadó és az erőműegység üzemeltetője a csatlakozási és az elszámolási pont kijelölésében együttműködnek és meghatározzák az elszámolási ponthoz tartozó képletet.
 
 (13) E rendelet alkalmazásakor az erőműegység névleges teljesítőképességének nagyságát több egymással bármilyen módon műszakilag összekapcsolt főberendezés – kivéve a villamos energia hálózatra adására szolgáló vezetékeket és egyéb villamos berendezéseket – esetén azok együttes teljesítőképessége alapján kell megállapítani.
 
-(14) A VET 5. §-a szerinti rendszerszintű szolgáltatás vagy elosztói rugalmassági szolgáltatás keretében értékesített szabályozási energiának a kötelező átvételi rendszeren kívüli, villamosenergia-ellátási szabályzatokban meghatározottak szerinti elszámolásán felül, a Befogadó a KÁT termelőnek a (8) és (11) bekezdés szerinti villamosenergia-mennyiség ellenértékét a (3)–(5) bekezdés szerinti áron fizeti meg az utasítás hatályának időtartama alatt is azzal, hogy a KÁT termelő utasított eltéréseit a 15. számú melléklet 5. és 6. pontja szerint kell elszámolni a 7. § (7) bekezdése szerinti önálló kiegyenlítő menedzsmenttel együtt. A Befogadó az ezzel összefüggő villamos energia költségeket és bevételeket a VET 13. § (1) bekezdése szerinti pénzeszköz mértékének meghatározása során előjelhelyesen figyelembe veszi.
+(14)[^33] A VET 5. §-a szerinti rendszerszintű szolgáltatás vagy elosztói rugalmassági szolgáltatás keretében értékesített szabályozási energiának a kötelező átvételi rendszeren kívüli, villamosenergia-ellátási szabályzatokban meghatározottak szerinti elszámolásán felül, a Befogadó a KÁT termelőnek a (8)–(11a) bekezdés szerinti villamosenergia-mennyiség ellenértékét a (3)–(5) bekezdés szerinti áron fizeti meg az utasítás hatályának időtartama alatt is azzal, hogy a KÁT termelő utasított eltéréseit a 15. számú melléklet 5. és 6. pontja szerint kell elszámolni a 7. § (7) bekezdése szerinti önálló kiegyenlítő menedzsmenttel együtt. A Befogadó az ezzel összefüggő villamos energia költségeket és bevételeket a VET 13. § (1) bekezdése szerinti pénzeszköz mértékének meghatározása során előjelhelyesen figyelembe veszi.
 
-(15) A (14) bekezdésben hivatkozott utasított eltérésekre vonatkozó adatokat az erőműegység üzemeltetője ellenőrizhető módon kimutatja és nyilvántartja, valamint ellenőrzés céljából a Hivatal rendelkezésére bocsájtja.
+(15)[^34] A (14) bekezdésben hivatkozott rendszerszintű szolgáltatásra vagy elosztói rugalmassági szolgáltatásra vonatkozó adatokat az erőműegység üzemeltetője ellenőrizhető módon kimutatja és nyilvántartja, valamint ellenőrzés céljából a Hivatal rendelkezésére bocsájtja.
 
 (16) Ha a (8) bekezdés szerinti mérés nem hitelesített mérőberendezéssel történik, akkor a kötelező átvételben értékesített villamosenergia-mennyiség tekintetében a 9. §-t kell alkalmazni.
 
-(17)[^30] A kötelező átvételre jogosult termelő kérésére – a kötelező átvételi jogosultság jogutódlás vagy az erőműegység feletti rendelkezési jog átadása miatti megállapításának esetét kivéve – a kötelező átvételi jogosultságot a Hivatal nem vonhatja vissza.
+(17)[^35] A kötelező átvételre jogosult termelő kérésére – a kötelező átvételi jogosultság jogutódlás vagy az erőműegység feletti rendelkezési jog átadása miatti megállapításának esetét kivéve – a kötelező átvételi jogosultságot a Hivatal nem vonhatja vissza.
 
 [^29]: A 3. § a 787/2021. (XII. 27.) Korm. rendelet 27. §-ával megállapított szöveg.
-[^30]: A 3. § (17) bekezdését a 229/2022. (VI. 28.) Korm. rendelet 2. §-a iktatta be.
+[^30]: A 3. § (2) bekezdés d) pontja a 26/2025. (II. 27.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
+[^31]: A 3. § (6) bekezdése a 26/2025. (II. 27.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^32]: A 3. § (11a) bekezdését a 26/2025. (II. 27.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^33]: A 3. § (14) bekezdése a 26/2025. (II. 27.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
+[^34]: A 3. § (15) bekezdése a 26/2025. (II. 27.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
+[^35]: A 3. § (17) bekezdését a 229/2022. (VI. 28.) Korm. rendelet 2. §-a iktatta be.

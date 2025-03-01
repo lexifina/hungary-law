@@ -1,6 +1,6 @@
-3. számú melléklet a 389/2007. (XII. 23.) Korm. rendelethez[^124]
+3. számú melléklet a 389/2007. (XII. 23.) Korm. rendelethez[^130]
 
-## A kötelező átvétel esetében figyelembe veendő napszakok (zónaidők) időtartam
+A kötelező átvétel esetében figyelembe veendő napszakok (zónaidők) időtartam
 
 1. A napszakok időtartamának meghatározása során alkalmazott erőműegység-csoportosítás.
 
@@ -78,4 +78,4 @@ c)
 
 | Mélyvölgyidőszak | 02:30–07:00 | 03:30–08:00 |
 
-[^124]: A 3. számú melléklet a 60/2008. (III. 26.) Korm. rendelet 1. §-a, a 166/2011. (VIII. 24.) Korm. rendelet 1. § (4) bekezdése, a 123/2015. (V. 26.) Korm. rendelet 28. § (3) bekezdése szerint módosított szöveg.
+[^130]: A 3. számú melléklet a 60/2008. (III. 26.) Korm. rendelet 1. §-a, a 166/2011. (VIII. 24.) Korm. rendelet 1. § (4) bekezdése, a 123/2015. (V. 26.) Korm. rendelet 28. § (3) bekezdése szerint módosított szöveg.

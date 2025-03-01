@@ -1,5 +1,3 @@
-## A megújuló energiaforrásból és a hulladékból nyert energiával termelt villamos energia átvételi bázisárai (áfa nélkül*)
-
 ## 1.1. A 4. § (1) bekezdése alá tartozó, megújuló energiaforrásból nyert energiával (kivéve: nap- és szélenergia) termelt villamos energia kötelező átvételi bázisárai:
 
 |  | Ft/kWh |
@@ -104,6 +102,6 @@
 
 ## A kötelező átvétel helyett választott prémium támogatás támogatott árának az időben egyenletes termelés melletti átlagárra vonatkozó szorzója: 1.
 
-2. számú melléklet a 389/2007. (XII. 23.) Korm. rendelethez[^123]
+2. számú melléklet a 389/2007. (XII. 23.) Korm. rendelethez[^129]
 
-[^123]: A 2. számú mellékletet a 166/2011. (VIII. 24.) Korm. rendelet 3. § 24. pontja hatályon kívül helyezte.
+[^129]: A 2. számú mellékletet a 166/2011. (VIII. 24.) Korm. rendelet 3. § 24. pontja hatályon kívül helyezte.
