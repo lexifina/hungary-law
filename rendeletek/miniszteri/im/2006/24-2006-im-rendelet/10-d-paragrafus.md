@@ -1,4 +1,4 @@
-10/D. §[^26] (1) A vagyonfelmérési űrlap a következő adatokat és tartalmi elemeket tartalmazza:
+10/D. §[^27] (1) A vagyonfelmérési űrlap a következő adatokat és tartalmi elemeket tartalmazza:
 
 a) a kényszertörlés alatt álló cég cégneve, cégjegyzékszáma, székhelye, adószáma, közösségi adószáma, statisztikai számjele;
 
@@ -10,7 +10,7 @@ bb) ingó vagyontárgyra vonatkozó jog vagy tény esetén a vagyontárgyra, a j
 
 bc) követelés esetén az azzal összefüggésben a nyilvántartásban rögzített adat,
 
-bd)[^27] pénzügyi eszköz esetében pénzforgalmi szolgáltatónál, a befektetési vállalkozásnál, árutőzsdei szolgáltatónál vezetett számla (szolgáltatás) típusa, a számlaszám, az egyenleg;
+bd)[^28] pénzügyi eszköz esetében pénzforgalmi szolgáltatónál, a befektetési vállalkozásnál, árutőzsdei szolgáltatónál vezetett számla (szolgáltatás) típusa, a számlaszám, az egyenleg;
 
 c) a vagyonelemről adatot szolgáltató szervezet azonosító adatai
 
@@ -36,5 +36,5 @@ b) természetes személy esetében a neve, a születési neve, a születési ide
 
 (6) Az űrlapot a cégbíróság az (1) bekezdés a) pontja szerinti adatok kitöltésével küldi meg. A megkeresett szervezet az (1) bekezdés b)–e) pontjaiban és a (3) bekezdésben meghatározott adatok közül azokkal egészíti ki az űrlapot, amelyek a nyilvántartásában rendelkezésére állnak. Az űrlap azon a részeit, amelyekkel kapcsolatban a nyilvántartása adatot nem tart nyilván, a megkeresett szervezet üresen hagyja.
 
-[^26]: A 10/D. §-t a 21/2014. (III. 13.) KIM rendelet 19. § (1) bekezdése iktatta be.
-[^27]: A 10/D. § (1) bekezdés b) pont bd) alppontja a 39/2015. (XII. 21.) IM rendelet 3. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^27]: A 10/D. §-t a 21/2014. (III. 13.) KIM rendelet 19. § (1) bekezdése iktatta be.
+[^28]: A 10/D. § (1) bekezdés b) pont bd) alppontja a 39/2015. (XII. 21.) IM rendelet 3. § (2) bekezdés a) pontja szerint módosított szöveg.
