@@ -6,10 +6,14 @@
 
 (3) Az egyházi jogi személy tulajdonában álló vagy fenntartásában működő egészségügyi szolgáltató foglalkoztatottjaira az Eszjtv. 1. § (8) bekezdésében meghatározott esetben kell alkalmazni e rendelet rendelkezéseit.
 
-(4) E rendeletben foglaltaktól eltérően
+(4)[^1] E rendeletben foglaltaktól eltérően
 
-a) a honvédelmi miniszter irányítása alá tartozó egészségügyi szolgáltatónak minősülő honvédelmi szervezetnél foglalkoztatottak jogviszonyára, valamint
+a) a honvédelmi miniszter irányítása alá tartozó egészségügyi szolgáltatónak minősülő honvédelmi szervezetnél foglalkoztatottak jogviszonyára,
 
-b) a rendvédelmi feladatokat ellátó szerveknél működő egészségügyi szolgáltatóra és az ott foglalkoztatottak jogviszonyára
+b) a rendvédelmi feladatokat ellátó szerveknél működő egészségügyi szolgáltatóra és az ott foglalkoztatottak jogviszonyára, valamint
+
+c) a polgári nemzetbiztonsági szolgálatoknál működő egészségügyi szolgáltatóra és az ott foglalkoztatottak jogviszonyára
 
 alkalmazandó szabályokat kormányrendelet állapítja meg.
+
+[^1]: Az 1. § (4) bekezdése a 24/2025. (II. 27.) Korm. rendelet 85. §-ával megállapított szöveg.
