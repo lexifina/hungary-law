@@ -310,6 +310,8 @@ h) a központi államigazgatási szervekről, valamint a Kormány tagjai és az 
 
 i) a Magyarország helyi önkormányzatairól szóló törvény szerinti helyi önkormányzati szervek intézményei.
 
+j) a polgári nemzetbiztonsági szolgálat.
+
 76. Szolidaritási alapon védett felhasználó:
 
 a) a lakossági fogyasztó,
