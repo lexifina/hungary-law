@@ -12,7 +12,7 @@ b) egyéni egészségügyi vállalkozóként,
 
 c) társas vállalkozás tagjaként,
 
-d) egészségügyi szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban,
+d) egészségügyi szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, nemzetbiztonsági alkalmazotti jogviszonyban, honvédelmi alkalmazotti jogviszonyban,
 
 e) munkaviszonyban,
 
@@ -25,6 +25,8 @@ h) egyházi személyként vagy vallási egyesület vallásos szertartást hivat�
 i) önkéntes segítőként,
 
 j) egyéni cég tagjaként.
+
+k) nemzetbiztonsági szolgálati jogviszonyban.
 
 (3) A 4. § a) pont ab) alpontja szerinti egészségügyi dolgozó az egészségügyi tevékenység végzésében a (2) bekezdés c)–i) pontja szerinti jogviszonyban működhet közre.
 
