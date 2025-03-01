@@ -24,7 +24,7 @@ a) az Észak-atlanti Szerződésben részes állam fegyveres erejének, polgári
 
 b) a törvényben kihirdetett nemzetközi szerződés alapján a szerződésben részes, az adó alól mentesített állam fegyveres erejének, polgári állományának, vagy
 
-c) a rendvédelmi feladatokat ellátó szervek és az Országos Mentőszolgálat
+c) a rendvédelmi feladatokat ellátó szervek, a polgári nemzetbiztonsági szolgálatok és az Országos Mentőszolgálat
 
 járművei részére történő kiszolgálásához.
 
