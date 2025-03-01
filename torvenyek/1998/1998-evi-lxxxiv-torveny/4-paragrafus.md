@@ -8,7 +8,7 @@ b) intézetben született újszülött: az az újszülött, akinek születését
 
 c)
 
-d) kereső tevékenység: munkaviszonyban, közalkalmazotti, köznevelési foglalkoztatotti, egészségügyi szolgálati, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban politikai szolgálati, biztosi, kormányzati szolgálati, közszolgálati jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban, bírói, ügyészségi, igazságügyi szolgálati jogviszonyban, a Magyar Honvédség, rendvédelmi szervek, polgári nemzetbiztonsági szolgálatok hivatásos és szerződéses szolgálati jogviszonyában folytatott munkavégzésre irányuló tevékenység;
+d) kereső tevékenység: munkaviszonyban, közalkalmazotti, köznevelési foglalkoztatotti, egészségügyi szolgálati, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, nemzetbiztonsági alkalmazotti jogviszonyban, politikai szolgálati, biztosi, kormányzati szolgálati, közszolgálati jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban, bírói, ügyészségi, igazságügyi szolgálati jogviszonyban, a Magyar Honvédség, rendvédelmi szervek, polgári nemzetbiztonsági szolgálatok hivatásos és szerződéses szolgálati jogviszonyában folytatott munkavégzésre irányuló tevékenység;
 
 e) szociális intézmény: a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvényben (a továbbiakban: Szt.) szabályozott ápolást-gondozást, rehabilitációt, valamint átmeneti elhelyezést nyújtó bentlakásos intézmény;
 
