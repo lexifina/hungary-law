@@ -1,16 +1,26 @@
-1.[^1]
+1. A gazdasági versenyképesség jogi feltételrendszerének erősítését célzó intézkedésekkel összefüggő feladatok ellátásáért felelős kormánybiztos kinevezéséről és feladatairól szóló 1265/2022. (V. 27.) Korm. határozat 2. pont a) alpontja helyébe a következő rendelkezés lép:
 
-2.[^2]
+(A kormánybiztos az 1. pont szerinti feladatkörében javaslatot tesz különösen)
 
-3.[^3]
+„a) a fizetésképtelenségi, reorganizációs eljárások egyes kérdéseinek szabályozására, együttműködésben a nemzetgazdasági miniszterrel,”
 
-4.[^4]
+2. A gazdasági versenyképesség jogi feltételrendszerének erősítését célzó intézkedésekkel összefüggő feladatok ellátásáért felelős kormánybiztos kinevezéséről és feladatairól szóló 1265/2022. (V. 27.) Korm. határozat
 
-5.[^5]
+a) 4. pontjában az „a gazdaságfejlesztési” szövegrész helyébe az „az igazságügyi” szöveg,
 
-6.[^6]
+b) 5. pontjában az „a Miniszterelnöki Kabinetirodán” szövegrész helyébe az „az Igazságügyi Minisztérium szervezetében” szöveg
 
-7.[^7]
+lép.
+
+3.[^1]
+
+4.[^2]
+
+5.[^3]
+
+6.[^4]
+
+7. Hatályát veszti a gazdasági versenyképesség jogi feltételrendszerének erősítését célzó intézkedésekkel összefüggő feladatok ellátásáért felelős kormánybiztos kinevezéséről és feladatairól szóló 1265/2022. (V. 27.) Korm. határozat 2. pont b) alpontjában az „együttműködésben az igazságügyi miniszterrel,” szövegrész.
 
 8.
 
@@ -18,10 +28,7 @@ a) Ez a határozat – a b) alpontban foglalt kivétellel – a közzétételét
 
 b) Az 1., 2. és 7. pont 2025. március 1-jén lép hatályba.
 
-[^1]: Az 1. pont a 8. pont b) alpontja alapján 2025. március 1-jén lép hatályba.
-[^2]: A 2. pont a 8. pont b) alpontja alapján 2025. március 1-jén lép hatályba.
-[^3]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: A 6. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: A 7. pont a 8. pont b) alpontja alapján 2025. március 1-jén lép hatályba.
+[^1]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 6. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
