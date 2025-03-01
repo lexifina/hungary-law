@@ -24,16 +24,6 @@ A Kormány
 
 8. úgy határoz, hogy a 3. és 4. pontban meghatározott mezőgazdasági és élelmiszeripari szakdiplomata álláshelyek létesítésével kapcsolatos beszerzésekre a Kormány irányítása alá tartozó fejezetek költségvetési szerveinek eszközbeszerzéseiről szóló 1982/2013. (XII. 29.) Korm. határozat 1. pontját nem kell alkalmazni;
 
-9. visszavonja 2025. február 28. napjával
+9.[^1]
 
-a) a Washingtonban és Podgoricában létesítendő mezőgazdasági és környezetügyi szakdiplomata álláshelyekről szóló 1490/2015. (VII. 21.) Korm. határozatot,
-
-b) a mezőgazdasági és környezetügyi szakdiplomata-hálózat átfogó helyzetéről 2018-tól szóló 1261/2018. (VI. 11.) Korm. határozatot,
-
-c) a Magyarország Kisinyovi Nagykövetségén mezőgazdasági és környezetügyi szakdiplomata álláshely létesítéséről szóló 1537/2020. (VIII. 17.) Korm. határozatot,
-
-d) a Magyarország Kisinyovi Nagykövetségén pénzügyi szakdiplomata álláshely létesítéséről szóló 1556/2020. (VIII. 30.) Korm. határozatot,
-
-e) a Magyarország Római Nagykövetségén mezőgazdasági és környezetügyi szakdiplomata-álláshely létesítéséről szóló 1109/2021. (III. 10.) Korm. határozatot, valamint
-
-f) a Magyarország Európai Unió melletti Állandó Képviseletén új, a Közös Kül- és Biztonságpolitikai Hivatal tevékenységét segítő, határozott idejű szakdiplomata-álláshely létesítéséről szóló 1544/2021. (VIII. 4.) Korm. határozatot.
+[^1]: A 9. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
