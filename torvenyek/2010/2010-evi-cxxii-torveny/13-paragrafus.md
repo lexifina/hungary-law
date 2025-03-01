@@ -34,6 +34,8 @@ k) együttműködik a Magyar Szénhidrogén Készletező Szövetséggel a behozo
 
 l) végzi az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvényben meghatározott feladatokat.
 
+m) az e törvényben meghatározott feladatok hatékony teljesítése érdekében gazdálkodó szervezetekkel együttműködési megállapodást köthet.
+
 (3) A NAV
 
 a) végzi az európai uniós és a külön jogszabályok alapján a feladatkörébe tartozó ügyekben az informatikai rendszerek működtetéséből, alkalmazásából adódó tagállami feladatokat,
