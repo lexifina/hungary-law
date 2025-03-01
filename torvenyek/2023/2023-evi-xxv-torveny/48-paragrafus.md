@@ -16,4 +16,4 @@ d) a bejelentés megtétele során a bírói ítélkezéssel kapcsolatban a tör
 
 e) bejelentésével a büntetőeljárási szabályok szerinti adatkezelési szabályokat megszegi, vagy
 
-f) a rendvédelmi szervek, a Katonai Nemzetbiztonsági Szolgálat, illetve a Nemzeti Adó- és Vámhivatal állományának a tagjaként a bejelentésével az e szervek tevékenységére vonatkozó, jogszabályban meghatározott szabályokat megszegi.
+f) a rendvédelmi szervek, a nemzetbiztonsági szolgálatok, illetve a Nemzeti Adó- és Vámhivatal állományának a tagjaként a bejelentésével az e szervek tevékenységére vonatkozó, jogszabályban meghatározott szabályokat megszegi.
