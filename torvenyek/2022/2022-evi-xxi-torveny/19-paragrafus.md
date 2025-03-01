@@ -18,7 +18,7 @@ b) azon hadkötelesekről, akik hadkötelezettség alapján szolgálatot teljes�
 
 c) a honvédelmi alkalmazotti, közalkalmazotti állományba felvettekről, munkavállalói jogviszonyt létesítőkről, a honvédelmi alkalmazotti, közalkalmazotti, munkavállalói jogviszonnyal rendelkezőkről, valamint azokról, akiknek a jogviszonya, munkaviszonya megszűnt;
 
-3. az OGYŐ a hivatásos, és a rendvédelmi szervek a hivatásos és szerződéses állományában foglalkoztatottakról, ideértve a Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) esetében a pénzügyőri státuszú és pénzügyőri munkakörben foglalkoztatottakat is, valamint azokról, akiknek a szolgálati viszonya megszűnt a 6. melléklet 1. pont 1.1–1.5. alpontjában, 14. pont 14.1–14.6. alpontjában, valamint 16. pontjában meghatározott adataikra vonatkozóan;
+3. az OGYŐ a hivatásos, a polgári nemzetbiztonsági szolgálatok a hivatásos, és a rendvédelmi szervek a hivatásos és szerződéses állományában foglalkoztatottakról, ideértve a Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) esetében a pénzügyőri státuszú és pénzügyőri munkakörben foglalkoztatottakat is, valamint azokról, akiknek a szolgálati viszonya megszűnt a 6. melléklet 1. pont 1.1–1.5. alpontjában, 14. pont 14.1–14.6. alpontjában, valamint 16. pontjában meghatározott adataikra vonatkozóan;
 
 4. a rehabilitációs szakértői szerv a legalább 40%-ot elérő össz-szervezeti egészségkárosodásról, annak érvényességi idejéről;
 
@@ -50,7 +50,7 @@ b) az érintett egészségügyi alapellátását végző egészségügyi szolgá
 
 16. a kiképzést végrehajtó szerv a végrehajtott kiképzésekről;
 
-17. a honvédelmi ismeretek oktatását végző közoktatási és felsőoktatási intézmény, valamint honvédelmi és rendvédelmi szervezet a megszerzett honvédelmi ismeretekről;
+17. a honvédelmi ismeretek oktatását végző közoktatási és felsőoktatási intézmény, valamint honvédelmi és rendvédelmi szervezet, továbbá a polgári nemzetbiztonsági szolgálatok a megszerzett honvédelmi ismeretekről;
 
 18. a honvéd tisztképzést végző szerv a végrehajtott és folyamatban lévő képzésekről, valamint a képzés megkezdésének és befejezésének időpontjáról;
 

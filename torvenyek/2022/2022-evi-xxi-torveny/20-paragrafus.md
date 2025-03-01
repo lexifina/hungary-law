@@ -14,13 +14,13 @@ b) a Honvédség központi személyügyi szerve, valamint a kiképzési nyilván
 
 c) a Honvédség központi egészségügyi szerve a 19. § 7. pont a) alpontjára vonatkozó adatokról minden hónap 5. napjáig, az érintett egészségügyi alapellátását végző egészségügyi szolgáltató a 19. § 7. pont b) alpontjára vonatkozó adatokról minden év július 31. napjáig,
 
-d) a rendvédelmi szervek, a közúti közlekedési nyilvántartó szerv, az OGYŐ, a rehabilitációs szakértői szerv, és a BVOP illetékes szerve, a gondnokoltak nyilvántartásának vezetéséért és üzemeltetéséért felelős Országos Bírósági Hivatal elnöke, az illetékes fővárosi és vármegyei kormányhivatal, a nyelvvizsgák nyelvvizsga-anyakönyveinek nyilvántartását vezető szerv, az egységes szociális nyilvántartást vezető szerv, a fogyatékossági támogatásban, vakok személyi járadékában részesülők nyilvántartását vezető szerv, az egyházi jogi személy a hadkötelezettségtől eltérő időszakban minden év január 31. napjáig, a hadkötelezettség fennállásának időszakában minden hónap 5. napjáig,
+d) a rendvédelmi szervek, a polgári nemzetbiztonsági szolgálatok, a közúti közlekedési nyilvántartó szerv, az OGYŐ, a rehabilitációs szakértői szerv, és a BVOP illetékes szerve, a gondnokoltak nyilvántartásának vezetéséért és üzemeltetéséért felelős Országos Bírósági Hivatal elnöke, az illetékes fővárosi és vármegyei kormányhivatal, a nyelvvizsgák nyelvvizsga-anyakönyveinek nyilvántartását vezető szerv, az egységes szociális nyilvántartást vezető szerv, a fogyatékossági támogatásban, vakok személyi járadékában részesülők nyilvántartását vezető szerv, az egyházi jogi személy a hadkötelezettségtől eltérő időszakban minden év január 31. napjáig, a hadkötelezettség fennállásának időszakában minden hónap 5. napjáig,
 
 e) a választási szerv a nyilvántartásba vételt, a megválasztást vagy a megbízatás megszűnését követő 8 napon belül, a név és személyi azonosító, vagy természetes személyazonosító adatokkal,
 
 f)
 
-g) a köznevelési információs rendszer, szakképzési információs rendszer, valamint felsőoktatási információs rendszer működtetéséért felelős szerv, az állami szakképzési és felnőttképzési szerv, a honvéd tisztképzést végző szerv, honvédelmi ismeretek oktatását végző közoktatási és felsőoktatási intézmény, valamint honvédelmi és rendvédelmi szervezet minden év február 28. napjáig és július 31. napjáig,
+g) a köznevelési információs rendszer, szakképzési információs rendszer, valamint felsőoktatási információs rendszer működtetéséért felelős szerv, az állami szakképzési és felnőttképzési szerv, a honvéd tisztképzést végző szerv, honvédelmi ismeretek oktatását végző közoktatási és felsőoktatási intézmény, valamint honvédelmi és rendvédelmi szervezet, továbbá a polgári nemzetbiztonsági szolgálatok minden év február 28. napjáig és július 31. napjáig,
 
 h) a Társadalombiztosítási Azonosító Jel nyilvántartását vezető szerv minden hónap 5. napjáig,
 

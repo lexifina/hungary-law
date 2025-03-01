@@ -10,4 +10,4 @@ b) a fogadó létesítményeket, különösen a vasúti ki- és berakóállomás
 
 c) az egészségügyi ellátás biztosításához felajánlható képességeket, valamint
 
-d) a Honvédség, a rendvédelmi szerv, és az Országgyűlési Őrség (a továbbiakban: OGYŐ) befogadó nemzeti támogatással kapcsolatos képességeit.
+d) a Honvédség, a rendvédelmi szerv, a polgári nemzetbiztonsági szolgálat, és az Országgyűlési Őrség (a továbbiakban: OGYŐ) befogadó nemzeti támogatással kapcsolatos képességeit.
