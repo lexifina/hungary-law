@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-135-00-00
 | 2023-12-30 | 2023. évi XCI. törvény | 2020-135-00-00.6 |
 | 2024-01-01 | 2023. évi XC. törvény | 2020-135-00-00.7 |
 | 2024-05-11 | 2024. évi XXVIII. törvény | 2020-135-00-00.8 |
+| 2025-03-01 | 2024. évi LXXII. törvény | 2020-135-00-00.9 |
