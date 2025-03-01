@@ -1,3 +1,5 @@
-## 55.
+## „12. munkaszerződésre, közszolgálati, kormányzati szolgálati közalkalmazotti vagy egészségügyi szolgálati jogviszony, adó- és vámhatósági szolgálati jogviszony, rendvédelmi igazgatási szolgálati jogviszony, honvédelmi alkalmazotti jogviszony, a közszolgálati tisztviselőkről szóló törvény szerinti ösztöndíjas foglalkoztatási jogviszony, ügyészségi szolgálati jogviszony, bírósági jogviszony, igazságügyi alkalmazotti szolgálati jogviszony, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonya, a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvény szerinti nemzetbiztonsági szolgálati jogviszonya, nemzetbiztonsági alkalmazotti jogviszonya, valamint a Magyar Honvédség hivatásos, szerződéses és önkéntes tartalékos állományának szolgálati viszonya létrehozására,”
 
-### 101. §
+## 55. A jövedéki adóról szóló 2016. évi LXVIII. törvény módosítása
+
+101. § A jövedéki adóról szóló 2016. évi LXVIII. törvény 67. § (1a) bekezdés c) pontjában a „szervek” szövegrész helyébe a „szervek, a polgári nemzetbiztonsági szolgálatok” szöveg lép.

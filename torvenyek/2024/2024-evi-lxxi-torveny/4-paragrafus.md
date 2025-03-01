@@ -1,3 +1,13 @@
-## 3.
+## 3. A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény módosítása
 
-### 4. §
+4. § A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény
+
+a) 58. § (5) bekezdés a) pontjában a „jogviszony, bírói” szövegrész helyébe a „jogviszony, nemzetbiztonsági alkalmazotti jogviszony, bírói” szöveg és a „valamint a honvédek jogállásáról szóló kormányrendelet szerinti hivatásos és szerződéses állományú katonák szolgálati viszonya,” szövegrész helyébe az „a honvédek jogállásáról szóló kormányrendelet szerinti hivatásos és szerződéses állományú katonák szolgálati viszonya, valamint a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvény szerinti nemzetbiztonsági szolgálati jogviszony,” szöveg,
+
+b) 58. § (6) bekezdés a) pontjában a „lemondását, az egészségügyi” szövegrész helyébe a „lemondását, a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvény szerinti hivatásos és nemzetbiztonsági alkalmazotti állomány lemondását, az egészségügyi” szöveg,
+
+c) 58. § (6) bekezdés b) pontjában a „felmentésével, valamint a rendvédelmi feladatokat ellátó szervvel fennálló hivatásos szolgálati jogviszonynak a Hszt. 80. § (1) bekezdés f) vagy g) pontjában, 86. § (2) bekezdés b) vagy d) pontjában vagy 288/F. § (2) bekezdés b) pontjában meghatározott okból történő felmentésével történő megszüntetését,” szövegrész helyébe a „felmentésével, a rendvédelmi feladatokat ellátó szervvel fennálló hivatásos szolgálati jogviszonynak a Hszt. 80. § (1) bekezdés f) vagy g) pontjában, 86. § (2) bekezdés b) vagy d) pontjában vagy a rendvédelmi igazgatási szolgálati jogviszonynak a Hszt. 288/F. § (2) bekezdés b) pontjában meghatározott okból történő felmentésével történő megszüntetését, a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvény alapján fennálló jogviszonynak a szolgálati viszony megszüntetése vagy lefokozás fenyítés kiszabásával, büntetőeljárás keretében szolgálati jogviszony megszüntetéssel vagy lefokozással, a szolgálati viszony keretében betöltött szolgálati beosztás ellátásához szükséges tevékenység folytatását kizáró foglalkozástól eltiltás vagy közügyektől eltiltás alkalmazásával, valamint a nemzetbiztonsági szolgálatra nemzetbiztonsági szempontból alkalmatlanná vagy érdemtelenné válással kapcsolatos felmentéssel történő megszüntetését,” szöveg,
+
+d) 58. § (6) bekezdés c) pontjában a „valamint a honvédek jogállásáról szóló kormányrendelet szerinti hivatásos és szerződéses állományú katonák szolgálati viszonyának felmentéssel” szövegrész helyébe az „a honvédek jogállásáról szóló kormányrendelet szerinti hivatásos és szerződéses állományú katonák szolgálati viszonyának, valamint a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvény szerinti nemzetbiztonsági szolgálati jogviszonynak vagy nemzetbiztonsági alkalmazotti jogviszonynak felmentéssel” szöveg
+
+lép.

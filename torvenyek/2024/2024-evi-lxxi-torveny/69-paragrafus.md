@@ -1,1 +1,1 @@
-### 69. §
+69. § A bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény 221. § (1) bekezdésében a „jogviszonyban, honvédelmi” szövegrész helyébe a „jogviszonyban, nemzetbiztonsági alkalmazotti jogviszonyban, honvédelmi” szöveg és a „szerveknél és” szövegrész helyébe a „szerveknél, a polgári nemzetbiztonsági szolgálatoknál és” szöveg lép.

@@ -1,1 +1,3 @@
-### 27. §
+27. § A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 54. §-a a következő (1b) bekezdéssel egészül ki:
+
+„(1b) Központi közigazgatási nyilvántartási háttérrel rendelkező fedőokirat előállítása céljából közhiteles nyilvántartásokban adatokat kizárólag a Nemzetbiztonsági Szakszolgálat helyezhet el. Kizárólag a Nemzetbiztonsági Szakszolgálat jogosult továbbá arra, hogy a központi közigazgatási nyilvántartási háttérrel rendelkező fedőokirat alkalmazása feltételeinek biztosítása céljából a nyilvántartás vezetéséért felelős szerv számára meghatározza, hogy a nyilvántartásban szereplő valamely adat vonatkozásában ne kerüljön sor adatszolgáltatásra, vagy arra a Nemzetbiztonsági Szakszolgálat által meghatározott tartalommal kerüljön sor.”
