@@ -1,0 +1,1 @@
+A klímagázokról szóló 2024. évi LXXXVII. törvény 18. § (2) bekezdés b)–d) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 160. § 2. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:

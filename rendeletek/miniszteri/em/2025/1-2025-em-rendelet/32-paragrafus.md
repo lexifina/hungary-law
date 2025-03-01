@@ -1,0 +1,1 @@
+32. § Az oktatói jogosultsággal rendelkező személynek a jogosultság megszerzését követően Hatóság által szervezett oktatói továbbképzésen kötelező részt vennie. Ennek elmaradása esetén – különös méltánylást érdemlő eset kivételével – az oktatói jogosultság megszűnik.
