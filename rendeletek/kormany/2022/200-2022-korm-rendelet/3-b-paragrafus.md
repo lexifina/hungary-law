@@ -1,0 +1,3 @@
+3/B. §[^7] A polgári nemzetbiztonsági szolgálat hivatásos állománya tagjának a nemzetközi szervezetbe való vezénylésére a polgári nemzetbiztonsági szolgálat Pnbjt. szerinti főigazgatója – a nemzetközi szervezet felhívásában meghatározott nemzeti szakértői álláshely betöltésére vonatkozó alkalmassági vizsgálata és a jelölt írásbeli hozzájárulása alapján – kezdeményezheti a jelölést. A jelölést a küldő polgári nemzetbiztonsági szolgálatot irányító miniszter a külpolitikáért felelős miniszter útján teszi meg a nemzetközi szervezet felé. A jelölésre egyebekben a 3. §-ban foglaltakat kell alkalmazni.
+
+[^7]: A 3/B. §-t a 24/2025. (II. 27.) Korm. rendelet 92. §-a iktatta be.
