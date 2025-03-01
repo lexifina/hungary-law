@@ -1,4 +1,4 @@
-125/G. § (1) Az elektronikus adat ideiglenes és végleges hozzáférhetetlenné tételének végrehajtása során az állami adó- és vámhatóság jár el.
+125/G. § (1) Az elektronikus adat ideiglenes és végleges hozzáférhetetlenné tételének, továbbá a tárhelyszolgáltatás felfüggesztésének és megszüntetésének végrehajtása során az állami adó- és vámhatóság jár el.
 
 (2) A végrehajtó az elektronikus adat ideiglenes hozzáférhetetlenné tételéről, illetve visszaállításáról szóló határozatot a helyszínen adja át az adósnak, egyúttal felhívja az adóst, hogy az abban foglalt kötelezettségét azonnal teljesítse. Ha az azonnali teljesítés feltételei nem állnak fenn, a végrehajtó legkésőbb a kézbesítést követő munkanapon ellenőrzi a helyszínen a teljesítést. Ha az adós, illetve képviselője nincs jelen, a végrehajtó az okiratot a jegyzőkönyv másolatával együtt kézbesíti az adósnak, illetve képviselőjének.
 
@@ -16,4 +16,6 @@
 
 (9) A végrehajtás megszűnik a megkeresés állami adó- és vámhatósághoz érkezésétől számított három év elteltével.
 
-(10) Az elektronikus adat ideiglenes és végleges hozzáférhetetlenné tételének végrehajtása során adós alatt a tárhelyszolgáltatót kell érteni.
+(10) Az (1) bekezdés szerinti eljárásokban adós alatt a tárhelyszolgáltatót kell érteni.
+
+(11) Az állami adó- és vámhatóság a tárhelyszolgáltatás felfüggesztésekor a (2)–(4) bekezdés szerint, a tárhelyszolgáltatás megszüntetésekor az (5)–(9) bekezdés szerint jár el.
