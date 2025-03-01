@@ -4,7 +4,7 @@
 
 (2) Az igazgatót a 33/B. § (1) bekezdése szerinti államtitkár javaslatára a miniszterelnök négy évre nevezi ki. A 33/B. § (1) bekezdése szerinti államtitkár a javaslatának megtétele előtt kikéri az Integritás Hatóság elnökének véleményét, amiről a javaslattétel során tájékoztatja a miniszterelnököt.
 
-(3) Igazgatónak kinevezhető a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti adó- és vámhatósági szolgálati jogviszonyban álló vagy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti hivatásos szolgálati jogviszonyban álló, a 29/B. § (1) bekezdése szerinti szervezetbe vezényelt személy is azzal, hogy ebben az esetben nem kell teljesülnie a 3. § (6) bekezdés a) pontjában meghatározott feltételnek.
+(3) Igazgatónak kinevezhető a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti adó- és vámhatósági szolgálati jogviszonyban álló, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti hivatásos szolgálati jogviszonyban álló vagy a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvény szerinti nemzetbiztonsági szolgálati jogviszonyban álló, a 29/B. § (1) bekezdése szerinti szervezetbe vezényelt személy is azzal, hogy ebben az esetben nem kell teljesülnie a 3. § (6) bekezdés a) pontjában meghatározott feltételnek.
 
 (4) Az igazgató jogviszonya a (2) bekezdés szerinti időtartam alatt felmentéssel nem szüntethető meg, kivéve, ha
 

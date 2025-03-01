@@ -88,6 +88,6 @@ a) a honvédelemért felelős miniszter által vezetett minisztériumban, hivat�
 
 b) a rendészetért felelős miniszter által vezetett minisztériumban a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerint a minisztériumba vezényelt,
 
-c) a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter által vezetett minisztériumban a nemzetbiztonsági szolgálatokról szóló törvény hatálya alá tartozó jogviszonyban foglalkoztatott, a nemzetbiztonsági szolgálatokról szóló törvény és a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerint a minisztériumba vezényelt
+c) a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter által vezetett minisztériumban a nemzetbiztonsági szolgálatokról szóló törvény hatálya alá tartozó jogviszonyban foglalkoztatott, a nemzetbiztonsági szolgálatokról szóló törvény és a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvény szerint a minisztériumba vezényelt
 
 személy is.

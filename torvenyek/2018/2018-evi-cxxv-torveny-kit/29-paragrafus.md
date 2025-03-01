@@ -1,6 +1,6 @@
 ### 29. § [A különös szervezeti egységek]
 
-(1) A honvédelemért felelős miniszter a Magyar Honvédség irányításával összefüggő jogainak gyakorlására az általa vezetett minisztériumban, valamint a rendvédelmi szervet irányító miniszter a rendvédelmi szervek irányításával összefüggő jogainak gyakorlására az általa vezetett minisztériumban a 28. § (1) bekezdésében meghatározottaktól eltérő szervezeti egységet is létesíthet.
+(1) A honvédelemért felelős miniszter a Magyar Honvédség irányításával összefüggő jogainak gyakorlására az általa vezetett minisztériumban, a rendvédelmi szervet irányító miniszter a rendvédelmi szervek irányításával összefüggő jogainak gyakorlására az általa vezetett minisztériumban, valamint a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter és a polgári hírszerzési tevékenység irányításáért felelős miniszter a polgári nemzetbiztonsági szolgálat irányításával összefüggő jogainak gyakorlására az általa vezetett minisztériumban a 28. § (1) bekezdésében meghatározottaktól eltérő szervezeti egységet is létesíthet.
 
 (2) Az (1) bekezdés szerinti szervezeti egység
 
@@ -8,6 +8,6 @@ a) vezetésére hivatásos szolgálati jogviszonyban álló, a honvédek jogáll
 
 b) vezetőjét a miniszter javaslatára a miniszterelnök nevezi ki és menti fel,
 
-c) vezetője a Magyar Honvédség vezetőjére vagy rendvédelmi szerv esetében az országos parancsnokra vonatkozó rendelkezések szerinti juttatásban részesül.
+c) vezetője a Magyar Honvédség vezetőjére, rendvédelmi szerv esetében az országos parancsnokra vagy polgári nemzetbiztonsági szolgálat esetében a főigazgatóra vonatkozó rendelkezések szerinti juttatásban részesül.
 
 (3)

@@ -68,13 +68,15 @@ d) aki büntetőeljárás – ide nem értve a magánvádas vagy a pótmagánvá
 
 e) aki a kormányzati szolgálati jogviszony alapján végzett tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll.
 
-(6) Jogszabály alapján nemzetbiztonsági ellenőrzés alá eső kormányzati szolgálati jogviszony nem létesíthető azzal, akinek a nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg, kivéve, ha az arra feljogosított személy, szerv a kormányzati szolgálati jogviszony létesítését jóváhagyta.
+(6) Jogszabály alapján nemzetbiztonsági ellenőrzés alá eső kormányzati szolgálati jogviszony nem létesíthető, illetve tartható fenn azzal, akinek a nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg, kivéve, ha az arra feljogosított személy, szerv a kormányzati szolgálati jogviszony létesítését, illetve fenntartását jóváhagyta.
 
-(7) Ha a kormánytisztviselő a kormányzati szolgálati jogviszonya fennállása alatt válik nemzetbiztonsági ellenőrzés alá eső személlyé, és
+(7) Ha a kormánytisztviselő nemzetbiztonsági ellenőrzés alá eső személy vagy a kormányzati szolgálati jogviszonya fennállása alatt válik nemzetbiztonsági ellenőrzés alá eső személlyé, illetőleg ha a jogviszony létrehozására (6) bekezdés szerint előzetes engedéllyel került sor és
 
-a) a nemzetbiztonsági ellenőrzéséhez nem járul hozzá vagy
+a) a nemzetbiztonsági ellenőrzéséhez nem járul hozzá, vagy
 
-b) nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg és a kormányzati szolgálati jogviszony fenntartását a jogszabály szerint arra feljogosított személy, szerv nem hagyta jóvá,
+b) a nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg, és a kormányzati szolgálati jogviszony fenntartását a jogszabály szerint arra feljogosított személy, szerv nem hagyta jóvá, illetve a munkáltatói jogkör gyakorlója, amennyiben ennek jogszabályi lehetősége fennáll – mérlegelési jogkörében eljárva – más, nemzetbiztonsági ellenőrzés alá nem eső álláshelyre, beosztásba nem helyezte át, vagy
+
+c) felülvizsgálati eljárás során kockázatot állapítottak meg és a kormányzati szolgálati jogviszony fenntartását a jogszabály szerint arra feljogosított személy, szerv nem hagyta jóvá, illetve a munkáltatói jogkör gyakorlója, amennyiben ennek jogszabályi lehetősége fennáll – mérlegelési jogkörében eljárva – más, nemzetbiztonsági ellenőrzés alá nem eső álláshelyre, beosztásba nem helyezte át,
 
 a kormányzati szolgálati jogviszonyt azonnali hatállyal meg kell szüntetni.
 
