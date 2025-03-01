@@ -22,7 +22,7 @@ e) a büntető-, valamint polgári ügyben, a csőd-, illetve felszámolási elj
 
 f) a külön törvényben meghatározott feltételek megléte esetén a titkos információgyűjtésre felhatalmazott szervvel,
 
-g) a főigazgató eseti engedélye alapján a törvényben meghatározott feladatkörében eljáró nemzetbiztonsági szolgálattal,
+g) a törvényben meghatározott feladatkörében eljáró nemzetbiztonsági szolgálattal,
 
 h) az adó-, vám- és egészségbiztosítási, nyugdíjbiztosítási igazgatási kötelezettség teljesítésének ellenőrzése, valamint az ilyen tartozást megállapító végrehajtható okirat végrehajtása, továbbá a jogalap nélkül felvett ellátás összegének megtérülése érdekében eljáró adóhatósággal, vámhatósággal, illetve egészségbiztosítási szervvel, nyugdíjbiztosítási igazgatási szervvel,
 
@@ -68,11 +68,13 @@ f) a magyar bűnüldöző szerv nemzetközi kötelezettségvállalás alapján k
 
 g) a pénzügyi információs egységként működő hatóság a Pmt.-ben meghatározott feladatkörében eljárva vagy külföldi pénzügyi információs egység írásbeli megkeresésének teljesítése céljából – harmadik ország pénzügyi információs egysége esetén, ha a megkeresés tartalmazza a harmadik országbeli adatkérő által aláírt titoktartási záradékot – írásban kér banktitoknak minősülő adatot a pénzügyi intézménytől.
 
-(4) Az írásbeli megkeresésben meg kell jelölni azt az ügyfelet vagy bankszámlát, akiről vagy amelyről a (2) bekezdésben megjelölt szerv vagy hatóság a banktitok kiadását kéri, valamint a kért adatok fajtáját és az adatkérés célját, kivéve, ha a feladatkörében eljáró Felügyelet helyszíni ellenőrzést folytat.
+(4) Az adatkérésben, illetve az írásbeli megkeresésben meg kell jelölni azt az ügyfelet vagy bankszámlát, akiről vagy amelyről a (2) bekezdésben megjelölt szerv vagy hatóság a banktitok kiadását kéri, valamint a kért adatok fajtáját és – a nemzetbiztonsági szolgálatok kivételével – az adatkérés célját, kivéve, ha a feladatkörében eljáró Felügyelet helyszíni ellenőrzést folytat.
 
 (4a) Ha törvény másként nem rendelkezik, akkor a (2) bekezdésben meghatározott esetben a pénzügyi intézmény rendőrség és a Nemzeti Adó- és Vámhivatal titkos információgyűjtés folytatására feljogosított szerve, az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv adatkérésére tizenöt munkanapon belül, a nemzetbiztonsági szolgálat írásbeli megkeresésére kettő munkanapon belül szolgáltatja a kért adatot.
 
 (4b) A pénzügyi intézmény a büntetőeljárásról szóló törvényben meghatározott fizetési műveletek megfigyelésének elrendelése esetén az elrendelésről szóló határozatban megjelölt adatokat az abban meghatározott módon és határidőben köteles rögzíteni és továbbítani.
+
+(4c) A nemzetbiztonsági szolgálatok a szükséges adatokat a nemzetbiztonsági szolgálatokról szóló törvényben meghatározottak szerint, elektronikus adatkapcsolat útján közvetlen hozzáféréssel veszik át. Amennyiben az elektronikus adatkapcsolat útján az igényelt adat nem hozzáférhető, az adatszolgáltatást a pénzügyi intézmény írásban vagy – erre vonatkozó igény esetén – elektronikus adathordozón teljesíti.
 
 (5) Nem kell a (4) bekezdés szerinti adatokat az írásbeli megkeresésében megjelölni, ha a Gazdasági Versenyhivatal előzetes értesítés nélkül helyszíni szemlét vagy helyszíni kutatást tart. Ezekben az esetekben a Gazdasági Versenyhivatal megkeresését a helyszínen közli.
 
