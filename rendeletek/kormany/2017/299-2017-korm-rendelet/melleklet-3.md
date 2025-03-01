@@ -8,7 +8,7 @@
 
 3. melléklet a 299/2017. (X. 17.) Korm. rendelethez
 
-## A kötelező átvétel esetében figyelembe veendő napszakok (zónaidők) időtartama
+A kötelező átvétel esetében figyelembe veendő napszakok (zónaidők) időtartama
 
 1. A napszakok időtartamának meghatározása során alkalmazott erőműegység-csoportosítás:
 

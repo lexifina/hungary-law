@@ -14,7 +14,7 @@ a) kötelező átvétel esetén a számára megállapított kötelező átvétel
 
 b) prémium típusú támogatás esetén a prémium típusú támogatás összegét
 
-## visszafizetni a befogadónak.
+visszafizetni a befogadónak.
 
 (3) A Hivatal az (1) bekezdés szerinti eljárása során a termelő javára figyelembe veszi, ha a KÁT termelő a jogosulatlanul értékesített villamos energia mennyiség után, illetve ha a premizált termelő a jogosulatlanul igénybe vett prémium típusú támogatás után a befogadóval együttműködve a (2) bekezdés szerint önként elszámolt.
 
@@ -22,6 +22,12 @@ b) prémium típusú támogatás esetén a prémium típusú támogatás összeg
 
 (5) Határidőben történő önkéntes teljesítés hiányában követelését a befogadó a (2) bekezdés szerinti mértékig a KÁT termelőnek vagy a premizált termelőnek fizetendő támogatás összegébe történő beszámítással érvényesítheti.
 
-(6)[^47] A Hivatal az azonos KÁT termelőhöz vagy premizált termelőhöz tartozó erőműegységeket erőműegységenként is ellenőrizheti, és jogosult az e §-ban és a 20. §-ban foglaltakat a KÁT termelővel vagy a premizált termelővel szemben erőműegységenként alkalmazni.
+(6)[^58] A Hivatal az azonos KÁT termelőhöz vagy premizált termelőhöz tartozó erőműegységeket erőműegységenként is ellenőrizheti, és jogosult az e §-ban és a 20. §-ban foglaltakat a KÁT termelővel vagy a premizált termelővel szemben erőműegységenként alkalmazni.
 
-[^47]: A 19. § (6) bekezdését a 787/2021. (XII. 27.) Korm. rendelet 65. §-a iktatta be.
+(7)[^59] Amennyiben a KÁT termelő nem teljesíti az (1) bekezdés c) pontja szerinti feltételeket, akkor mindaddig nem jogosult kötelező átvétel keretében villamos energiát értékesíteni, amíg e feltételeket nem teljesíti.
+
+(8)[^60] Amennyiben a premizált termelő nem teljesíti az (1) bekezdés c) pontja szerinti feltételeket, akkor mindaddig nem jogosult prémium típusú támogatásra, amíg e feltételeket nem teljesíti.
+
+[^58]: A 19. § (6) bekezdését a 787/2021. (XII. 27.) Korm. rendelet 65. §-a iktatta be.
+[^59]: A 19. § (7) bekezdését a 26/2025. (II. 27.) Korm. rendelet 14. §-a iktatta be.
+[^60]: A 19. § (8) bekezdését a 26/2025. (II. 27.) Korm. rendelet 14. §-a iktatta be.

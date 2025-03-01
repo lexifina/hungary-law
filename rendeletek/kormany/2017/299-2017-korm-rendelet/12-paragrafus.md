@@ -1,6 +1,6 @@
 ## 7. Menetrendadás és menetrendtartás
 
-12. §[^39] (1) A Menetrendadásra kötelezett a befogadó részére a megújuló energiaforrásokból nyert energiával termelt villamos energia működési támogatásának finanszírozásához szükséges pénzeszköz mértékének megállapítási módjára és megfizetésére vonatkozó részletes szabályokról szóló miniszteri rendeletben, a kereskedelmi szabályzatban és a mérlegkör-tagsági szerződésében foglaltak szerint a hónap minden napjára napi termelési menetrendet ad.
+12. §[^47] (1) A Menetrendadásra kötelezett a befogadó részére a megújuló energiaforrásokból nyert energiával termelt villamos energia működési támogatásának finanszírozásához szükséges pénzeszköz mértékének megállapítási módjára és megfizetésére vonatkozó részletes szabályokról szóló miniszteri rendeletben, a kereskedelmi szabályzatban és a mérlegkör-tagsági szerződésében foglaltak szerint a hónap minden napjára napi termelési menetrendet ad.
 
 (2) A Menetrendadásra kötelezett a megújuló energiaforrásokból nyert energiával termelt villamos energia működési támogatásának finanszírozásához szükséges pénzeszköz mértékének megállapítási módjára és megfizetésére vonatkozó részletes szabályokról szóló miniszteri rendeletben, a kereskedelmi szabályzatban és a mérlegkör-tagsági szerződésében foglaltak szerint jogosult napon belüli termelési menetrend nyújtására. Ha a Menetrendadásra kötelezett a napon belüli termelési menetrendet nem vagy nem a villamosenergia-ellátási szabályzatokban meghatározottaknak megfelelően, vagy késedelmesen adja meg, akkor a napi termelési menetrend napon belüli termelési menetrenddé válik.
 
@@ -18,10 +18,12 @@ c) a tényleges szállítás időszakában tény alapú villamos energia betápl
 
 (6) Az önálló kiegyenlítő menedzsmentben a (3) bekezdés b) és c) pontja szerint részt vevő rendszerhasználó termelési és fogyasztási menetrendje a KÁT mérlegkör viszonylatában nulla értékű.
 
-(7) A Menetrendadásra kötelezettnek a menetrendek tekintetében teljes kiegyenlítési kötelezettsége van. Ha a KÁT termelő – összevont menetrend esetén a menetrend-csoportba tartozó KÁT termelők – által az adott elszámolási mérési időegységben ténylegesen értékesített villamos energia mennyisége a (3) bekezdés szerinti önálló kiegyenlítő menedzsment figyelembevételével eltér a Menetrendadásra kötelezett napon belüli termelési menetrendje szerinti villamosenergia-mennyiségtől, a Menetrendadásra kötelezett az 5. mellékletben meghatározott szabályozási pótdíjat fizet a befogadónak. Ha a Menetrendadásra kötelezett a napi termelési menetrendet nem vagy nem a villamosenergia-ellátási szabályzatokban meghatározottaknak megfelelően, vagy késedelmesen adja meg, akkor a szabályozási pótdíj számítása során azt nulla értékkel kell figyelembe venni.
+(7)[^48] A Menetrendadásra kötelezettnek a menetrendek tekintetében teljes kiegyenlítési kötelezettsége van. Ha a KÁT termelő – összevont menetrend esetén a menetrend-csoportba tartozó KÁT termelők – által az adott elszámolási mérési időegységben a 11. § (7) bekezdése szerinti villamos energia mennyisége a (3) bekezdés szerinti önálló kiegyenlítő menedzsment és az utasított eltérések figyelembevételével eltér a Menetrendadásra kötelezett napon belüli termelési menetrendje szerinti villamosenergia-mennyiségtől, akkor a befogadó az 5. mellékletben meghatározott szabályozási pótdíjat számolja el a Menetrendadásra kötelezettel. Ha a Menetrendadásra kötelezett a napi termelési menetrendet nem vagy nem a villamosenergia-ellátási szabályzatokban meghatározottaknak megfelelően vagy késedelmesen adja meg, akkor az elszámolások során azt nulla értékkel kell figyelembe venni.
 
 (8) A 11. § (2) bekezdése szerinti összevont menetrendadás esetén az 5. melléklet szerinti szabályozási pótdíj megfizetéséért a menetrend-csoport képviselő a menetrend-csoportjába tartozó KÁT termelőkkel egyetemlegesen felel.
 
-(9) A befogadó a (7) bekezdés szerinti szabályozási pótdíj havi összegét a VET 13. § (1) bekezdése szerinti pénzeszköz mértékének meghatározása során csökkentő tényezőként veszi figyelembe.
+(9)[^49] A befogadó a (7) bekezdés szerinti szabályozási pótdíj havi összegét a VET 13. § (1) bekezdése szerinti pénzeszköz mértékének meghatározása során előjelhelyesen veszi figyelembe.
 
-[^39]: A 12. § a 787/2021. (XII. 27.) Korm. rendelet 62. §-ával megállapított szöveg.
+[^47]: A 12. § a 787/2021. (XII. 27.) Korm. rendelet 62. §-ával megállapított szöveg.
+[^48]: A 12. § (7) bekezdése a 26/2025. (II. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^49]: A 12. § (9) bekezdése a 26/2025. (II. 27.) Korm. rendelet 16. § g) pontja szerint módosított szöveg.
