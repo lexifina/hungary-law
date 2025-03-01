@@ -18,7 +18,7 @@ a) meghatározott összegre szól, ezen összeg szerepel az okiraton,
 
 b) meghatározott határnapig, de legalább az állami adó- és vámhatósághoz történő benyújtás napjától számított tizenkét hónapig érvényes, az okirat tartalmazza az érvényesség kezdő és végső időpontját,
 
-c)[^57] eredeti garancia, és amelyben a garantőr arra vállal kötelezettséget, hogy az állami adó- és vámhatóság igénybejelentése alapján, feltétel nélkül – a banki forgalom szabályozására vonatkozó előírások szerint, de legfeljebb 3 banki napon belül – az igénybejelentésben megjelölt, a Kincstár által létrehozott központosított beszedési számlára megfizeti a megbízója Art. 26. § (7) bekezdése szerinti tartozását,
+c)[^58] eredeti garancia, és amelyben a garantőr arra vállal kötelezettséget, hogy az állami adó- és vámhatóság igénybejelentése alapján, feltétel nélkül – a banki forgalom szabályozására vonatkozó előírások szerint, de legfeljebb 3 banki napon belül – az igénybejelentésben megjelölt, a Kincstár által létrehozott központosított beszedési számlára megfizeti a megbízója Art. 26. § (7) bekezdése szerinti tartozását,
 
 d) a fizetési igény bejelentésére az állami adó- és vámhatóságot kizárólagos kedvezményezettként jelöli meg,
 
@@ -38,4 +38,4 @@ f) tartalmazza a garanciát nyújtó garantőr megnevezését, bankszámlaszám�
 
 (9) Ha az adózó a (8) bekezdésben foglaltakat nem teljesíti, az állami adó- és vámhatóság az Art. 26. § (6) bekezdése szerint jár el.
 
-[^57]: A 38. § (3) bekezdés c) pontja a 611/2023. (XII. 22.) Korm. rendelet 36. § (1) bekezdés 2. pontja szerint módosított szöveg.
+[^58]: A 38. § (3) bekezdés c) pontja a 611/2023. (XII. 22.) Korm. rendelet 36. § (1) bekezdés 2. pontja szerint módosított szöveg.

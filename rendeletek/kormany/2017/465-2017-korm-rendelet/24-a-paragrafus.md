@@ -26,7 +26,8 @@ k) a gyermekgondozási díj (GYED) összege;
 
 l) a gyermekgondozást segítő ellátás (GYES) összege;
 
-m) a gyermeknevelési támogatás (GYET), a gyermekek otthongondozási díja (GYOD), az ápolási díj, munkarehabilitációs díj, fejlesztési foglalkoztatási díj, rendvédelmi egészségkárosodási járadék, honvédelmi egészségkárosodási járadék, rendvédelmi egészségkárosodási keresetkiegészítés, honvédelmi egészségkárosodási keresetkiegészítés folyósításának, valamit az álláskeresési támogatás összege összesítve.
+m)[^41] a gyermeknevelési támogatás (GYET), a gyermekek otthongondozási díja (GYOD), az ápolási díj, munkarehabilitációs díj, fejlesztési foglalkoztatási díj, rendvédelmi egészségkárosodási járadék, honvédelmi egészségkárosodási járadék, rendvédelmi egészségkárosodási keresetkiegészítés, nemzetbiztonsági egészségkárosodási ellátás, honvédelmi egészségkárosodási keresetkiegészítés folyósításának, valamit az álláskeresési támogatás összege összesítve.
 
 [^39]: A 10/A. alcímet (24/A. §) a 260/2019. (XI. 7.) Korm. rendelet 6. §-a iktatta be.
 [^40]: A 24/A. § a 611/2023. (XII. 22.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^41]: A 24/A. § m) pontja a 24/2025. (II. 27.) Korm. rendelet 72. §-a szerint módosított szöveg.

@@ -1,4 +1,4 @@
-129. §[^128] Ez a rendelet
+129. §[^129] Ez a rendelet
 
 a) a 74. § (1) bekezdése tekintetében a 904/2010/EU és az (EU) 2017/2454 rendeletnek a hozzáadottérték-adó területén történő közigazgatási együttműködés megerősítésére irányuló intézkedések tekintetében történő módosításáról szóló, 2018. október 2-i (EU) 2018/1541 tanácsi rendelet, valamint
 
@@ -8,4 +8,4 @@ c) az (EU) 2020/1197, az (EU) 2022/918 és az (EU) 2022/1092 bizottsági végreh
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^128]: A 129. §-t a 311/2018. (XII. 27.) Korm. rendelet 35. §-a iktatta be, szövege a 364/2024. (XI. 28.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^129]: A 129. §-t a 311/2018. (XII. 27.) Korm. rendelet 35. §-a iktatta be, szövege a 364/2024. (XI. 28.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.

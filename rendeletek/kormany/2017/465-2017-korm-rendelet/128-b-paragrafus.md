@@ -1,4 +1,4 @@
-128/B. §[^125] Az adóhatóságok tevékenységével összefüggő kormányrendeletek módosításáról szóló 439/2020. (IX. 23.) Korm. rendelettel (a továbbiakban: Korm. rendelet 2.) megállapított 36. §-t először a Korm. rendelet 2. hatálybalépését[^126] követően teljesített fizetési megbízások esetében kell alkalmazni.
+128/B. §[^126] Az adóhatóságok tevékenységével összefüggő kormányrendeletek módosításáról szóló 439/2020. (IX. 23.) Korm. rendelettel (a továbbiakban: Korm. rendelet 2.) megállapított 36. §-t először a Korm. rendelet 2. hatálybalépését[^127] követően teljesített fizetési megbízások esetében kell alkalmazni.
 
-[^125]: A 128/B. §-t a 439/2020. (IX. 23.) Korm. rendelet 19. §-a iktatta be.
-[^126]: A hatálybalépés időpontja 2020. szeptember 24.
+[^126]: A 128/B. §-t a 439/2020. (IX. 23.) Korm. rendelet 19. §-a iktatta be.
+[^127]: A hatálybalépés időpontja 2020. szeptember 24.

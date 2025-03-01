@@ -1,4 +1,4 @@
-## VIII. Fejezet[^102]
+## VIII. Fejezet[^103]
 
 ## A FELTÉTELES ADÓMEGÁLLAPÍTÁS IRÁNTI KÉRELEM BENYÚJTÁSÁNAK, NYILVÁNTARTÁSÁNAK MÓDJÁRÓL ÉS RÉSZLETES FELTÉTELEIRŐL, VALAMINT A DÖNTÉSI ELJÁRÁS RÉSZLETES SZABÁLYAIRÓL
 
@@ -10,4 +10,4 @@
 
 (3) Külföldi illetőségű személy feltételes adómegállapítás iránti kérelmét kizárólag belföldi képviselője útján terjesztheti elő.
 
-[^102]: A VIII. fejezet címe a 260/2019. (XI. 7.) Korm. rendelet 15. § 5. pontja szerint módosított szöveg.
+[^103]: A VIII. fejezet címe a 260/2019. (XI. 7.) Korm. rendelet 15. § 5. pontja szerint módosított szöveg.
