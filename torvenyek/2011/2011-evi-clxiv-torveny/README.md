@@ -47,3 +47,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-164-00-00
 | 2025-01-01 | 2024. évi LVII. törvény | 2011-164-00-00.41 |
 | 2025-01-15 | 2024. évi XVII. törvény | 2011-164-00-00.38 |
 | 2025-02-19 | 2024. évi LXXIV. törvény | 2011-164-00-00.43 |
+| 2025-03-01 | 2024. évi LXXI. törvény | 2011-164-00-00.42 |

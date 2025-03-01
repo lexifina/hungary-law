@@ -20,8 +20,6 @@ c) a fellebbviteli főügyészség ügyésze részére „Címzetes legfőbb üg
 
 d)
 
-cím adományozható.
-
 (3) Az adott szintű ügyészségen ténylegesen folytatott ügyészi gyakorlattal eltöltött legalább húsz év után
 
 a) a járási ügyészség ügyésze részére „Címzetes főügyészségi ügyész”,
