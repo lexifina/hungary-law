@@ -102,7 +102,7 @@ b) temetési költségekre nyújtott temetési támogatás;
 
 30.[^21]
 
-31.[^22] a honvédelmi adatkezelésekről szóló törvényben, valamint a honvédek jogállásáról szóló kormányrendeletben meghatározott kiegészítő rokkantsági támogatásnak, az árvák kiegészítő támogatásának, a kiegészítő hozzátartozói támogatásnak, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 107. alcíme szerinti szociális gondoskodás körébe tartozó ellátásnak, valamint a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló 2020. évi CXXX. törvény 174. és 175. §-a szerinti szociális gondoskodás körébe tartozó ellátásnak, illetve a kiegészítő hozzátartozói támogatásnak az 56 300 forintot meg nem haladó havi összege;
+31.[^22] a honvédelmi adatkezelésekről szóló törvényben, valamint a honvédek jogállásáról szóló kormányrendeletben meghatározott kiegészítő rokkantsági támogatásnak, az árvák kiegészítő támogatásának, a kiegészítő hozzátartozói támogatásnak, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 107. alcíme szerinti szociális gondoskodás körébe tartozó ellátásnak, a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvényben meghatározott árvák kiegészítő támogatásának és a kiegészítő hozzátartozói támogatásnak, valamint a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló 2020. évi CXXX. törvény 174. és 175. §-a szerinti szociális gondoskodás körébe tartozó ellátásnak, illetve a kiegészítő hozzátartozói támogatásnak az 56 300 forintot meg nem haladó havi összege;
 
 32. az Szja. tv. 3. § 70. pontja szerinti elemi kár vagy katasztrófa következményeinek elhárítása érdekében kapott segély, adomány, kártalanítás, biztosítási összeg;
 
@@ -160,7 +160,7 @@ b) temetési költségekre nyújtott temetési támogatás;
 [^19]: A 2. § (1) bekezdés 27. pontja a 299/2023. (VII. 10.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^20]: A 2. § (1) bekezdés 29. pontja a 299/2023. (VII. 10.) Korm. rendelet 5. § 19. pontja szerint módosított szöveg.
 [^21]: A 2. § (1) bekezdés 30. pontját a 299/2023. (VII. 10.) Korm. rendelet 6. §-a hatályon kívül helyezte.
-[^22]: A 2. § (1) bekezdés 31. pontja a 299/2023. (VII. 10.) Korm. rendelet 3. § (2) bekezdésével megállapított, a 176/2024. (VII. 7.) Korm. rendelet 14. §-a szerint módosított szöveg.
+[^22]: A 2. § (1) bekezdés 31. pontja a 299/2023. (VII. 10.) Korm. rendelet 3. § (2) bekezdésével megállapított, a 176/2024. (VII. 7.) Korm. rendelet 14. §-a, a 24/2025. (II. 27.) Korm. rendelet 59. §-a szerint módosított szöveg.
 [^23]: A 2. § (1) bekezdés 33. pontja a 299/2023. (VII. 10.) Korm. rendelet 5. § 20. pontja szerint módosított szöveg.
 [^24]: A 2. § (1) bekezdés 34. pontja a 299/2023. (VII. 10.) Korm. rendelet 5. § 21. pontja szerint módosított szöveg.
 [^25]: A 2. § (1) bekezdés 36. pontja a 299/2023. (VII. 10.) Korm. rendelet 5. § 22. pontja szerint módosított szöveg.
