@@ -30,3 +30,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-78-00-00
 | 2023-01-01 | 2022. évi XXII. törvény | 1993-78-00-00.46 |
 | 2024-01-01 | 2023. évi XC. törvény | 1993-78-00-00.47 |
 | 2025-01-20 | 2024. évi LXXIV. törvény | 1993-78-00-00.49 |
+| 2025-03-01 | 2024. évi LXXII. törvény | 1993-78-00-00.48 |

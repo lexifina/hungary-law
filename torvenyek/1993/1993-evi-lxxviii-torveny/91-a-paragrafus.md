@@ -104,7 +104,7 @@ b) a közös használatra szolgáló területek általában: a kapualj, a lépcs
 
 11. A lakáshoz tartozó helyiségek általában: a tüzelőtároló (fáskamra, pincerekesz), padlásrekesz.
 
-12. Nem lakás céljára szolgáló helyiség az, amely kizárólag ipari, építőipari, mezőgazdasági, vízgazdálkodási, kereskedelmi, tárolási, szolgáltatási, igazgatási, honvédelmi, rendészeti, művelődési, oktatási, kutatási, egészségügyi, szociális, jóléti és más gazdasági célra szolgál.
+12. Nem lakás céljára szolgáló helyiség az, amely kizárólag ipari, építőipari, mezőgazdasági, vízgazdálkodási, kereskedelmi, tárolási, szolgáltatási, igazgatási, honvédelmi, rendészeti, nemzetbiztonsági, művelődési, oktatási, kutatási, egészségügyi, szociális, jóléti és más gazdasági célra szolgál.
 
 13. Jogcím nélküli használó az, aki a lakást (helyiséget) a bérbeadónak – bérlőkijelölési vagy bérlő-kiválasztási jog fennállása esetén e jog jogosultjának – a hozzájárulása vagy a vele való megállapodás nélkül használja.
 
