@@ -44,7 +44,7 @@
 
 4.7. több munkáltatóval létesített munkaviszony (Mt. 195. §) esetén az Art.-ban meghatározott munkáltató,
 
-4.8. a rendvédelmi egészségkárosodási keresetkiegészítésben vagy rendvédelmi egészségkárosodási járadékban részesülő személy esetében a rendvédelmi feladatokat ellátó szerv, valamint a honvédelmi egészségkárosodási keresetkiegészítésben vagy honvédelmi egészségkárosodási járadékban részesülő személy esetében az ellátást megállapító honvédségi szervezet vagy a Katonai Nemzetbiztonsági Szolgálat, továbbá a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti egészségkárosodási keresetkiegészítésben vagy egészségkárosodási járadékban részesülő személy esetében a Nemzeti Adó- és Vámhivatal,
+4.8. a rendvédelmi egészségkárosodási keresetkiegészítésben vagy rendvédelmi egészségkárosodási járadékban részesülő személy esetében a rendvédelmi feladatokat ellátó szerv, valamint a honvédelmi egészségkárosodási keresetkiegészítésben vagy honvédelmi egészségkárosodási járadékban részesülő személy esetében az ellátást megállapító honvédségi szervezet vagy a Katonai Nemzetbiztonsági Szolgálat, a nemzetbiztonsági egészségkárosodási ellátásban részesülő személy esetében a polgári nemzetbiztonsági szolgálat, továbbá a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti egészségkárosodási keresetkiegészítésben vagy egészségkárosodási járadékban részesülő személy esetében a Nemzeti Adó- és Vámhivatal,
 
 4.9. a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szoctv.) szerinti fejlesztési jogviszony keretében fejlesztési foglalkoztatási díjat folyósító fejlesztő foglalkoztatást nyújtó szolgáltató, intézmény.
 

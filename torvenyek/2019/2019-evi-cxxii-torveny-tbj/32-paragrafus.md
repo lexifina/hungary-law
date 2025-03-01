@@ -12,4 +12,4 @@ d) a késedelmes teljesítéshez kapcsolódó kamat,
 
 e) az a jövedelem, amelynek kifizetése (juttatása) olyan időszakra tekintettel történik, amely időszakban a 3. §, és a 17–19. § alapján nem állt fenn biztosítási jogviszony, függetlenül a kifizetés (juttatás) időpontjától,
 
-f) a rendvédelmi egészségkárosodási keresetkiegészítés, a rendvédelmi egészségkárosodási járadék, a honvédelmi egészségkárosodási keresetkiegészítés, honvédelmi egészségkárosodási járadék, a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti egészségkárosodási keresetkiegészítés és egészségkárosodási járadék.
+f) a rendvédelmi egészségkárosodási keresetkiegészítés, a rendvédelmi egészségkárosodási járadék, a honvédelmi egészségkárosodási keresetkiegészítés, honvédelmi egészségkárosodási járadék, a nemzetbiztonsági egészségkárosodási ellátás, a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti egészségkárosodási keresetkiegészítés és egészségkárosodási járadék.
