@@ -1,0 +1,1 @@
+29. § A telepítési tanúsítvány-köteles berendezés használaton kívül helyezésének a tényét a használaton kívül helyezést végző képesített személy vagy a berendezés visszagyűjtését végző, adatbázisban regisztrált vállalkozás a berendezés gyári számának megadásával rögzíti az adatbázisban.

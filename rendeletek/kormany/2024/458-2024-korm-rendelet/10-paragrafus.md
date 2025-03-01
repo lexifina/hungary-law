@@ -1,0 +1,5 @@
+10. § (1) A vállalkozás akkor rendelkezik a képesítési igazolásban foglalt tevékenységi kategóriára vonatkozó valamennyi tevékenységi jogosultsággal, ha a képesítési kategóriájához szükséges megfelelő képesítési kategóriával rendelkező, a vállalt feladatokat ellátni képes munkavállalóval rendelkezik, és a megfelelési nyilatkozat szerinti követelmények – beleértve a technikai felszereltségi követelményeket is – folyamatosan teljesülnek.
+
+(2) A vállalkozás a képesítési igazolásban foglalt jogosultságok közül ténylegesen azokat a személyképesítéshez kötött jogosultságokat gyakorolhatja, amelyekre a képesített alkalmazott személyképesítése kiterjed.
+
+(3) Ha a képesített vállalkozás külföldi elismert személyképesítéssel rendelkező munkavállalója már nem áll a vállalkozás alkalmazásában, a vállalkozás 8 napon belül a 9. § (3) és (4) bekezdésében foglaltaknak megfelelően köteles képesítés iránti kérelmet benyújtani. A képesítési igazolás kiállításának vagy a kérelem elutasításának időpontjában a vállalkozás korábbi jogosultsága megszűnik.

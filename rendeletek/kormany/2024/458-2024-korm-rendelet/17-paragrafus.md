@@ -1,0 +1,3 @@
+17. § (1) Magyarország területén az (EU) 2024/573 európai parlamenti és tanácsi rendelet IV. mellékletében meghatározott termékeket és berendezéseket a hivatkozott rendelet 11. cikkében meghatározottak szerint lehet forgalomba bocsátani.
+
+(2) Az (EU) 2024/573 európai parlamenti és tanácsi rendelet 11. cikk (3) bekezdésében meghatározottak szerint nem utántölthető tartályt csak későbbi ártalmatlanítás céljából szabad tárolni vagy szállítani. Ebben az esetben a 16. § (5) bekezdésében meghatározottakon felül az ártalmatlanítás céljából történő tárolás vagy szállítás tényét a képesített vállalkozás köteles a nem utántölthető tartályon az adatbázisból generált címkével feltüntetni.

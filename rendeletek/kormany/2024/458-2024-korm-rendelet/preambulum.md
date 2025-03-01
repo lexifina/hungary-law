@@ -1,0 +1,1 @@
+A Kormány a környezetvédelem általános szabályairól szóló 1995. évi LIII. törvény 110. § (7) bekezdés 5. pontjában és a klímagázokról szóló 2024. évi LXXXVII. törvény 18. § (1) bekezdésében kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:

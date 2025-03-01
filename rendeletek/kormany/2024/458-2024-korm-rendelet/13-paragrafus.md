@@ -1,0 +1,1 @@
+13. § A Klímagáz tv. 5. § (2) bekezdésében meghatározott klímagázokkal kapcsolatos gyártó, ártalmatlanító, regeneráló tevékenységet végző vállalkozás legkésőbb 8 nappal a tevékenysége megkezdése előtt az adatbázison keresztül benyújtja a tevékenység végzésére jogosító hatósági engedély másolatát a regisztráció Hatóság általi jóváhagyása érdekében.
