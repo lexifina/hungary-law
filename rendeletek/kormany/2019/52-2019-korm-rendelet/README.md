@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-52-20-2
 | 2021-01-01 | 2019-52-20-22.3 | 671/2020. (XII. 28.) Korm. rendelet |
 | 2022-08-12 | 2019-52-20-22.4 | 309/2022. (VIII. 11.) Korm. rendelet |
 | 2024-01-01 | 2019-52-20-22.5 | 599/2023. (XII. 22.) Korm. rendelet |
+| 2025-03-01 | 2019-52-20-22.6 | 671/2020. (XII. 28.) Korm. rendelet |
