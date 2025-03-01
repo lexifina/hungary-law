@@ -30,7 +30,7 @@ végzése;
 
 7. ingatlan-nyilvántartás átalakítása: az ingatlan-nyilvántartásról szóló törvényben meghatározott eljárás;
 
-8. különleges rendeltetésű ingatlan: a honvédelmi, rendvédelmi, műemlékvédelmi és természetvédelmi, illetve sajátos rendeltetése miatt jogszabályban ekként meghatározott ingatlan;
+8. különleges rendeltetésű ingatlan: a honvédelmi, rendvédelmi, nemzetbiztonsági, műemlékvédelmi és természetvédelmi, illetve sajátos rendeltetése miatt jogszabályban ekként meghatározott ingatlan;
 
 9. földi, légi és űrtávérzékelés: mérések végrehajtására, illetve térképkészítésre alkalmas földi, légi és űr távérzékelési adatgyűjtés, amelynek célja és eredménye geodéziai, térképészeti, geofizikai, geológiai és navigációs adatok gyűjtése;
 
@@ -44,6 +44,6 @@ végzése;
 
 14. térképi adatbázis: térinformatikai rendszerben kezelhető grafikus, numerikus és leíró adatok összessége;
 
-15. honvédelmi célú térképellátás: a Magyar Honvédségnek, a Katonai Nemzetbiztonsági Szolgálatnak, a honvédelemért felelős miniszter fenntartói irányítása alá tartozó köznevelési intézménynek, a Nemzeti Közszolgálati Egyetem Hadtudományi és Honvédtisztképző Karának, a katonai légügyi hatósági feladatokat ellátó szervezetnek, továbbá különleges jogrendre való felkészülés érdekében a rendvédelmi és a védelmi igazgatási szerveknek, a honvédelmi felkészülés feladataiban részt vevő egyéb központi közigazgatási szerveknek és azok területi szerveinek az ország védelmi feladataihoz szükséges, a honvédelemért felelős miniszter felelősségi körébe tartozó állami alapadatok adatbázisaival, térképekkel, térképészeti információkkal, távérzékelési anyagokkal, geodéziai adatokkal történő ellátása.
+15. honvédelmi célú térképellátás: a Magyar Honvédségnek, a Katonai Nemzetbiztonsági Szolgálatnak, a honvédelemért felelős miniszter fenntartói irányítása alá tartozó köznevelési intézménynek, a Nemzeti Közszolgálati Egyetem Hadtudományi és Honvédtisztképző Karának, a katonai légügyi hatósági feladatokat ellátó szervezetnek, továbbá különleges jogrendre való felkészülés érdekében a polgári nemzetbiztonsági szolgálatoknak, valamint a rendvédelmi és a védelmi igazgatási szerveknek, a honvédelmi felkészülés feladataiban részt vevő egyéb központi közigazgatási szerveknek és azok területi szerveinek az ország védelmi feladataihoz szükséges, a honvédelemért felelős miniszter felelősségi körébe tartozó állami alapadatok adatbázisaival, térképekkel, térképészeti információkkal, távérzékelési anyagokkal, geodéziai adatokkal történő ellátása.
 
 16. GNSS (Global Navigation Satellite Systems): a globális műholdas helymeghatározó rendszerek közös elnevezése.

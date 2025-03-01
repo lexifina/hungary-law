@@ -4,7 +4,7 @@
 
 a) a hatósági nyilvántartások,
 
-b) a honvédelmi, katasztrófavédelmi és rendvédelmi tevékenység,
+b) a honvédelmi, katasztrófavédelmi, nemzetbiztonsági és rendvédelmi tevékenység,
 
 c) a helyi önkormányzatok feladatainak ellátásához szükséges tevékenység,
 

@@ -92,7 +92,7 @@ adatbázisából
 
 a honvédelem térképészeti támogatásáért felelős szervtől – a 32. § (3) bekezdése szerinti továbbfelhasználási engedély nélkül – díjmentesen igényelhet adatot.
 
-(15) A honvédelemért felelős miniszter felelősségi körébe tartozó, a 3. § (1) bekezdés e)–g) pontjában meghatározott állami alapadatok adatbázisaiból a rendvédelmi és a védelmi igazgatási szervek, valamint a különleges jogrend alatti feladatellátásban és az országmozgósítás feladataiban részt vevő egyéb központi államigazgatási szervek és azok területi szervei minősített időszakra való felkészülésre a honvédelem térképészeti támogatásáért felelős szervtől díjmentesen igényelhetnek adatot.
+(15) A honvédelemért felelős miniszter felelősségi körébe tartozó, a 3. § (1) bekezdés e)–g) pontjában meghatározott állami alapadatok adatbázisaiból a polgári nemzetbiztonsági szolgálatok, a rendvédelmi és a védelmi igazgatási szervek, valamint a különleges jogrend alatti feladatellátásban és az országmozgósítás feladataiban részt vevő egyéb központi államigazgatási szervek és azok területi szervei minősített időszakra való felkészülésre a honvédelem térképészeti támogatásáért felelős szervtől díjmentesen igényelhetnek adatot.
 
 (16) A (13)–(15) bekezdésben meghatározott szervek részére az adatszolgáltatás rendjét a honvédelemért felelős miniszter rendeletben szabályozza.
 
