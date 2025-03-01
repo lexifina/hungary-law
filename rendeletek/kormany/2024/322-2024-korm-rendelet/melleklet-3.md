@@ -1,3 +1,3 @@
-3. melléklet a 322/2024. (XI. 6.) Korm. rendelethez[^9]
+3. melléklet a 322/2024. (XI. 6.) Korm. rendelethez[^10]
 
-[^9]: A 3. melléklet a 151. § (3) bekezdése alapján 2025. június 1-jén lép hatályba.
+[^10]: A 3. melléklet a 151. § (3) bekezdése alapján 2025. június 1-jén lép hatályba.
