@@ -1,5 +1,5 @@
 ## 21. A szabadságvesztés, az elzárás, a rendbírság helyébe lépő elzárás, a letartóztatás és a szabálysértési elzárás végrehajtását foganatosító büntetés-végrehajtási intézetek kijelölésének szabályairól szóló 16/2018. (VI. 7.) BM rendelet módosítása
 
-48. §[^46]
+48. §[^45]
 
-[^46]: A 48. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^45]: A 48. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

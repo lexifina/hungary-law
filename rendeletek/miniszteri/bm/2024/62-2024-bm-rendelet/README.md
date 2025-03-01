@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-62-20-0
 | 2025-01-02 | 2024-62-20-0A.3 | 2010. évi CXXX. törvény |
 | 2025-02-01 | 2024-62-20-0A.4 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2025-02-02 | 2024-62-20-0A.5 | 2010. évi CXXX. törvény |
+| 2025-03-01 | 2024-62-20-0A.6 | Nemzeti Jogszabálytár (egységes szerkezet) |
