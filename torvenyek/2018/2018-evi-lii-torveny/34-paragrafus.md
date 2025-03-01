@@ -36,7 +36,7 @@ d) az a)–c) pont szerinti jogviszonya megszűnését követően diákigazolvá
 
 a) az Mt-ben meghatározott munkaviszony,
 
-b) a közalkalmazotti jogviszony, köznevelési foglalkoztatotti jogviszony, az egészségügyi szolgálati jogviszony, a rendvédelmi igazgatási szolgálati jogviszony, a honvédelmi alkalmazotti jogviszony,
+b) a közalkalmazotti jogviszony, köznevelési foglalkoztatotti jogviszony, az egészségügyi szolgálati jogviszony, a rendvédelmi igazgatási szolgálati jogviszony, a honvédelmi alkalmazotti jogviszony, a nemzetbiztonsági alkalmazotti jogviszony,
 
 c) a közszolgálati jogviszony, a kormányzati szolgálati jogviszony, a politikai szolgálati jogviszony, a biztosi jogviszony, az adó- és vámhatósági szolgálati jogviszony,
 
@@ -64,7 +64,7 @@ n)
 
 o) az a)–n) alpont szerinti jogviszonynak megfelelő, külföldi jog alapján fennálló jogviszony, amely alapján a munkát Magyarország vagy a szociális biztonsági rendszerek koordinálásáról szóló közösségi rendelet hatálya alá tartozó másik tagállam területén végzik,
 
-p) a rendvédelmi feladatokat ellátó szerv által a rendvédelmi egészségkárosodási járadék folyósításának, a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti egészségkárosodási járadék folyósításának időtartama, valamint a honvédségi szervezet vagy a Katonai Nemzetbiztonsági Szolgálat által megállapított honvédelmi egészségkárosodási járadék folyósításának időtartama;
+p) a rendvédelmi feladatokat ellátó szerv által a rendvédelmi egészségkárosodási járadék folyósításának, a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti egészségkárosodási járadék folyósításának időtartama, a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvény szerinti nemzetbiztonsági egészségkárosodási ellátás folyósításának időtartama, valamint a honvédségi szervezet vagy a Katonai Nemzetbiztonsági Szolgálat által megállapított honvédelmi egészségkárosodási járadék folyósításának időtartama;
 
 13. nevelőszülői foglalkoztatási jogviszony: a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény szerinti nevelőszülői foglalkoztatási jogviszony, amely teljes munkaidős foglalkoztatási jogviszonynak minősül;
 
