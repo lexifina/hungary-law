@@ -8,8 +8,8 @@ c) a veszélyes áru szállításában résztvevők – beleértve a címzettet 
 
 történő ellenőrzésére terjed ki.
 
-(2)[^3] A rendelet hatálya nem terjed ki a Magyar Honvédség, a Nemzeti Adó- és Vámhivatal és a rendvédelmi szervek által végzett szállításokra.
+(2)[^3] A rendelet hatálya nem terjed ki a Magyar Honvédség, a Nemzeti Adó- és Vámhivatal, a polgári nemzetbiztonsági szolgálatok és a rendvédelmi szervek által végzett szállításokra.
 
 [^1]: Az 1. § (1) bekezdése a 372/2016. (XI. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^2]: Az 1. § (1) bekezdés a) pontja a 66/2021. (II. 16.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^3]: Az 1. § (2) bekezdése a 60/2007. (III. 31.) Korm. rendelet 1. §-ával megállapított, a 273/2010. (XII. 9.) Korm. rendelet 95. §-a szerint módosított szöveg.
+[^3]: Az 1. § (2) bekezdése a 60/2007. (III. 31.) Korm. rendelet 1. §-ával megállapított, a 273/2010. (XII. 9.) Korm. rendelet 95. §-a, a 24/2025. (II. 27.) Korm. rendelet 7. §-a szerint módosított szöveg.
