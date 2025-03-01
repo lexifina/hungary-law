@@ -8,7 +8,7 @@ a) megbízás,
 
 b) kirendelés, vagy
 
-c) az e törvényben meghatározott esetekben munkaviszony, kormányzati szolgálati, közszolgálati, adó- és vámhatósági szolgálati, egészségügyi szolgálati, közalkalmazotti, köznevelési foglalkoztatotti, rendvédelmi igazgatási alkalmazotti, honvédelmi alkalmazotti, rendvédelmi, hivatásos vagy szerződéses katonai, igazságügyi szakértői intézménynél fennálló igazságügyi alkalmazotti szolgálati jogviszony, egyházi szolgálati viszony, valamint a közérdekű önkéntes tevékenységről szóló törvény szerinti önkéntes jogviszony
+c) az e törvényben meghatározott esetekben munkaviszony, kormányzati szolgálati, közszolgálati, adó- és vámhatósági szolgálati, egészségügyi szolgálati, közalkalmazotti, köznevelési foglalkoztatotti, rendvédelmi igazgatási alkalmazotti, nemzetbiztonsági alkalmazotti, honvédelmi alkalmazotti, rendvédelmi, hivatásos vagy szerződéses katonai szolgálati jogviszony, nemzetbiztonsági szolgálati jogviszony, igazságügyi szakértői intézménynél fennálló igazságügyi alkalmazotti szolgálati jogviszony, egyházi szolgálati viszony, valamint a közérdekű önkéntes tevékenységről szóló törvény szerinti önkéntes jogviszony
 
 alapján folytatható.
 
