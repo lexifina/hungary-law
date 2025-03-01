@@ -1,0 +1,1 @@
+244/O. § E törvénynek a belügyi ágazatokat érintő törvények módosításáról szóló 2024. évi LXXVII. törvénnyel megállapított 189. § (3) bekezdését és 201/C. §-át a 2025. március 1-jét követően meghozott, a 201/C. § (3) bekezdés a)–c) pontjai szerinti kártalanítást megalapozó határozatok tekintetében lehet alkalmazni.

@@ -89,3 +89,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-154-00-00
 | 2024-10-01 | 2023. évi C. törvény | 1997-154-00-00.120 |
 | 2025-01-01 | 2024. évi LXXVII. törvény | 1997-154-00-00.123 |
 | 2025-01-20 | 2024. évi LXXIV. törvény | 1997-154-00-00.125 |
+| 2025-03-01 | 2024. évi LXXVII. törvény | 1997-154-00-00.124 |

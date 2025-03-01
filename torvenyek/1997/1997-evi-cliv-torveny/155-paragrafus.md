@@ -156,7 +156,7 @@ fenntartására és irányítására.
 
 (19) Nem alkalmazandóak
 
-a) az (1)–(17) bekezdésben foglaltak a rendvédelmi feladatokat ellátó szervnél működő egészségügyi szolgáltató,
+a) az (1)–(17) bekezdésben foglaltak a rendvédelmi feladatokat ellátó szervnél vagy a polgári nemzetbiztonsági szolgálatnál működő egészségügyi szolgáltató,
 
 b) a (2)–(17) bekezdésben foglaltak a honvédelemért felelős miniszter irányítása alá tartozó, a vármegyei irányító intézmény kategóriával azonos besorolású, e törvény szerint egészségügyi szolgáltatónak minősülő honvédelmi szervezet (a továbbiakban: honvédelmi egészségügyi szolgáltató)
 
