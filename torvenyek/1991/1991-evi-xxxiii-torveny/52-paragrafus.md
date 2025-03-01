@@ -12,7 +12,7 @@ c) épületek közül:
 
 — vegyes rendeltetésű épület az, amelyben a lakások alapterülete az épület összalapterületének 50%-át nem haladja meg,
 
-— nem lakás céljára szolgáló épület az, amely kizárólag ipari, építőipari, mezőgazdasági, vízgazdálkodási, kereskedelmi, tárolási, szolgáltatási, igazgatási, honvédelmi, rendészeti, művelődési, oktatási, kutatási, egészségügyi, szociális, jóléti és más gazdasági célra szolgál, tekintet nélkül a benne lévő munkakörrel kapcsolatos szolgálati lakásra;
+— nem lakás céljára szolgáló épület az, amely kizárólag ipari, építőipari, mezőgazdasági, vízgazdálkodási, kereskedelmi, tárolási, szolgáltatási, igazgatási, honvédelmi, rendészeti, nemzetbiztonsági, művelődési, oktatási, kutatási, egészségügyi, szociális, jóléti és más gazdasági célra szolgál, tekintet nélkül a benne lévő munkakörrel kapcsolatos szolgálati lakásra;
 
 d) önkormányzat intézménye: az önkormányzat költségvetéséből fenntartott, önkormányzat által biztosított közszolgáltatást nyújtó szerv;
 
