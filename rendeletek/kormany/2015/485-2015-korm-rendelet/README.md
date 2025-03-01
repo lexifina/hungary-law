@@ -32,3 +32,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-485-20-
 | 2024-03-01 | 2015-485-20-22.24 | 611/2023. (XII. 22.) Korm. rendelet |
 | 2024-11-29 | 2015-485-20-22.25 | 362/2024. (XI. 28.) Korm. rendelet |
 | 2025-01-01 | 2015-485-20-22.26 | 611/2023. (XII. 22.) Korm. rendelet |
+| 2025-03-01 | 2015-485-20-22.27 | 670/2020. (XII. 28.) Korm. rendelet |

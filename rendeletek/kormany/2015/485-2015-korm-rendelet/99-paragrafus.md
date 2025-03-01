@@ -1,5 +1,5 @@
 ## 34. Hatályon kívül helyező rendelkezések
 
-99. §[^311]
+99. §[^312]
 
-[^311]: A 99. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^312]: A 99. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

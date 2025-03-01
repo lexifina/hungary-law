@@ -38,31 +38,31 @@ f) az őrzésvédelmi – így különösen a Pénzügyminisztériumnak a minisz
 
 g) a NAV saját hatáskörében lefoglalt dolgok élőerős őrzésével, kísérésével összefüggő feladatokat, valamint anyagi javak őrzését, kísérését és szállítását, továbbá a NAV más szervének felkérése alapján a lefoglalt dolgok megsemmisítése során a helyszín biztosítását;
 
-h) a szolgálati kutyavezetők és szolgálati kutyák kiképzését, melyet térítés ellenében a rendvédelmi szervek, a Magyar Honvédség, valamint a hasonló tevékenységet ellátó külföldi társszervek részére is végezhet;
+h)[^280] a szolgálati kutyavezetők és szolgálati kutyák kiképzését, melyet térítés ellenében a rendvédelmi szervek, a polgári nemzetbiztonsági szolgálatok, a Magyar Honvédség, valamint a hasonló tevékenységet ellátó külföldi társszervek részére is végezhet;
 
 i) a NAV tv. 36/E. § (3) bekezdése alapján meghatározott feladatokat;
 
 j) a NAV tulajdonát képező fegyverzeti és rendészettechnikai eszközök kezelését a NAV Országos Fegyverzeti Raktárban.
 
-k)[^280] az Európai Csalásellenes Hivatal (OLAF) helyszíni ellenőrzéseinek vagy vizsgálatainak zavartalan lefolytatásához szükséges pénzügyőri támogatást.
+k)[^281] az Európai Csalásellenes Hivatal (OLAF) helyszíni ellenőrzéseinek vagy vizsgálatainak zavartalan lefolytatásához szükséges pénzügyőri támogatást.
 
-(3)[^281]
+(3)[^282]
 
-(4)[^282] A Bevetési Igazgatóság hivatalból ellátja – a vármegyei igazgatóságok, a Repülőtéri Igazgatóság, valamint a KAVIG mellett – a vámazonosító szám megállapításával, nyilvántartásával és érvénytelenítésével kapcsolatos feladatokat.
+(4)[^283] A Bevetési Igazgatóság hivatalból ellátja – a vármegyei igazgatóságok, a Repülőtéri Igazgatóság, valamint a KAVIG mellett – a vámazonosító szám megállapításával, nyilvántartásával és érvénytelenítésével kapcsolatos feladatokat.
 
-(5)[^283] A Bevetési Igazgatóság folytatja le
+(5)[^284] A Bevetési Igazgatóság folytatja le
 
 a) a Jöt. szerinti gyorsított eljárást az általa felderített jogsértések esetén;
 
 b) az ismeretlen személy által hátrahagyott jövedéki termékekkel kapcsolatos eljárást, ha az első intézkedést a Bevetési Igazgatóság tette;
 
-c)[^284] a Kkt. alapján végzett ellenőrzése során felderített jogsértéssel kapcsolatos hatósági eljárást;
+c)[^285] a Kkt. alapján végzett ellenőrzése során felderített jogsértéssel kapcsolatos hatósági eljárást;
 
 d) az általa felderített, a NAV hatáskörébe tartozó szabálysértések tekintetében a szabálysértési eljárást, ha az eljárás gyorsabb és eredményesebb lefolytatása indokolja.
 
-(6)[^285] Az (1) bekezdés a) pontja alapján a Bevetési Igazgatóság vámellenőrzést kizárólag a vámfelügyelet alatt álló áruk tekintetében végez.
+(6)[^286] Az (1) bekezdés a) pontja alapján a Bevetési Igazgatóság vámellenőrzést kizárólag a vámfelügyelet alatt álló áruk tekintetében végez.
 
-(7)[^286]
+(7)[^287]
 
 [^273]: A 89. § a 311/2018. (XII. 27.) Korm. rendelet 15. §-ával megállapított szöveg.
 [^274]: A 90. § (1) bekezdése a 670/2020. (XII. 28.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
@@ -71,10 +71,11 @@ d) az általa felderített, a NAV hatáskörébe tartozó szabálysértések tek
 [^277]: A 90. § (1) bekezdés f) pontját a 611/2023. (XII. 22.) Korm. rendelet 16. §-a iktatta be.
 [^278]: A 90. § (1) bekezdés g) pontját a 611/2023. (XII. 22.) Korm. rendelet 16. §-a iktatta be.
 [^279]: A 90. § (2) bekezdése a 670/2020. (XII. 28.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
-[^280]: A 90. § (2) bekezdés k) pontját a 386/2022. (X. 13.) Korm. rendelet 2. §-a iktatta be.
-[^281]: A 90. § (3) bekezdését a 670/2020. (XII. 28.) Korm. rendelet 18. § k) pontja hatályon kívül helyezte.
-[^282]: A 90. § (4) bekezdése a 88/2016. (IV. 29.) Korm. rendelet 18. § (3) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 228. § b) pontja szerint módosított szöveg.
-[^283]: A 90. § (5) bekezdése a 670/2020. (XII. 28.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
-[^284]: A 90. § (5) bekezdés c) pontja a 611/2023. (XII. 22.) Korm. rendelet 20. § 18. pontja szerint módosított szöveg.
-[^285]: A 90. § (6) bekezdését a 670/2020. (XII. 28.) Korm. rendelet 18. § k) pontja hatályon kívül helyezte, újonnan az 506/2021. (VIII. 19.) Korm. rendelet 5. §-a iktatta be.
-[^286]: A 90. § (7) bekezdését a 670/2020. (XII. 28.) Korm. rendelet 18. § k) pontja hatályon kívül helyezte.
+[^280]: A 90. § (2) bekezdés h) pontja a 24/2025. (II. 27.) Korm. rendelet 61. § b) pontja szerint módosított szöveg.
+[^281]: A 90. § (2) bekezdés k) pontját a 386/2022. (X. 13.) Korm. rendelet 2. §-a iktatta be.
+[^282]: A 90. § (3) bekezdését a 670/2020. (XII. 28.) Korm. rendelet 18. § k) pontja hatályon kívül helyezte.
+[^283]: A 90. § (4) bekezdése a 88/2016. (IV. 29.) Korm. rendelet 18. § (3) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 228. § b) pontja szerint módosított szöveg.
+[^284]: A 90. § (5) bekezdése a 670/2020. (XII. 28.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^285]: A 90. § (5) bekezdés c) pontja a 611/2023. (XII. 22.) Korm. rendelet 20. § 18. pontja szerint módosított szöveg.
+[^286]: A 90. § (6) bekezdését a 670/2020. (XII. 28.) Korm. rendelet 18. § k) pontja hatályon kívül helyezte, újonnan az 506/2021. (VIII. 19.) Korm. rendelet 5. §-a iktatta be.
+[^287]: A 90. § (7) bekezdését a 670/2020. (XII. 28.) Korm. rendelet 18. § k) pontja hatályon kívül helyezte.

@@ -22,7 +22,7 @@ c) a Magyarország területén székhellyel, telephellyel, lakóhellyel, tartóz
 
 d) a fióktelepnek nem minősülő telephelyen gazdasági tevékenységet folytató külföldi vállalkozás adóügyében;
 
-e)[^222] a Magyar Honvédség, a rendvédelmi szervek, a nemzetbiztonsági szolgálatok, az Országgyűlési Őrség, továbbá azok hivatásos és szerződéses állományú tagjai, köztisztviselői, kormánytisztviselői és közalkalmazottai, honvédelmi alkalmazottai és rendvédelmi igazgatási alkalmazottai adóügyében;
+e)[^222] a Magyar Honvédség, a rendvédelmi szervek, a nemzetbiztonsági szolgálatok, az Országgyűlési Őrség, továbbá azok hivatásos és szerződéses állományú tagjai, köztisztviselői, kormánytisztviselői és közalkalmazottai, honvédelmi alkalmazottai, nemzetbiztonsági alkalmazottai és rendvédelmi igazgatási alkalmazottai adóügyében;
 
 f) a honvédelemért felelős miniszter közvetlen alárendeltségébe és közvetlen irányítása alá tartozó szervezetek, továbbá az olyan gazdasági társaságok adóügyeiben, amelyekben az állam tulajdonosi jogainak gyakorlója a honvédelemért felelős miniszter;
 
@@ -44,7 +44,7 @@ j)[^225] az olyan állami tulajdonban lévő gazdasági társaságok adóügyeib
 
 [^220]: A 63. § (1) bekezdése a 481/2016. (XII. 28.) Korm. rendelet 20. § e) pontja szerint módosított szöveg.
 [^221]: A 63. § (1) bekezdés a) pont ae) alpontja a 311/2018. (XII. 27.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^222]: A 63. § (1) bekezdés e) pontja a 670/2020. (XII. 28.) Korm. rendelet 17. § n) pontja szerint módosított szöveg.
+[^222]: A 63. § (1) bekezdés e) pontja a 670/2020. (XII. 28.) Korm. rendelet 17. § n) pontja, a 24/2025. (II. 27.) Korm. rendelet 61. § a) pontja szerint módosított szöveg.
 [^223]: A 63. § (1) bekezdés h) pontja a 611/2023. (XII. 22.) Korm. rendelet 13. §-ával megállapított szöveg.
 [^224]: A 63. § (1) bekezdés i) pontja a 475/2017. (XII. 28.) Korm. rendelet 75. §-ával megállapított, a 439/2020. (IX. 23.) Korm. rendelet 13. § e) pontja, a 670/2020. (XII. 28.) Korm. rendelet 17. § o) pontja szerint módosított szöveg.
 [^225]: A 63. § (1) bekezdés j) pontját a 439/2020. (IX. 23.) Korm. rendelet 11. §-a iktatta be.

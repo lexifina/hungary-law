@@ -1,3 +1,3 @@
-97. §[^304]
+97. §[^305]
 
-[^304]: A 97. §-t a 670/2020. (XII. 28.) Korm. rendelet 18. § n) pontja hatályon kívül helyezte.
+[^305]: A 97. §-t a 670/2020. (XII. 28.) Korm. rendelet 18. § n) pontja hatályon kívül helyezte.
