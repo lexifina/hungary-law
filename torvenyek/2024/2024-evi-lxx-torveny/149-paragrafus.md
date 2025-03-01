@@ -1,1 +1,13 @@
-### 149. §
+149. § (1) Az árvák kiegészítő támogatására és a kiegészítő hozzátartozói támogatásra való jogosultságról
+
+a) a hősi halott özvegye vagy szülője esetében a nyugdíj-megállapító szerv,
+
+b) az a) ponttól eltérő esetben a munkáltatói jogkör gyakorlója
+
+hivatalból eljárva határozatban dönt. A határozat alapján a támogatás mértékét a nyugdíj-megállapító szerv állapítja meg és a megállapított támogatást a nyugdíjfolyósító szerv folyósítja.
+
+(2) Az árvák kiegészítő támogatása és a kiegészítő hozzátartozói támogatás, valamint az azokkal kapcsolatos végrehajtási költségek forrását a központi költségvetés biztosítja.
+
+(3) Az árvák kiegészítő támogatásának és a kiegészítő hozzátartozói támogatás összegét a Tny. 62. §-ában foglaltak szerint kell emelni.
+
+(4) A kiegészítő hozzátartozói támogatás, valamint az árvák kiegészítő támogatásának jogalap nélküli felvétele esetén a Tny. visszafizetési és megtérítési kötelezettségre vonatkozó szabályai alapján kell eljárni. A jogalap nélkül felvett kiegészítő hozzátartozói támogatásból, valamint az árvák kiegészítő támogatásából eredő követelést a nyugdíjbiztosítási igazgatási szerv a Tny. szabályai alapján érvényesíti.

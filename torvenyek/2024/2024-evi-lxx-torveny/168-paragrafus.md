@@ -1,1 +1,1 @@
-### 168. §
+168. § Akinek a szolgálati viszonyát megszüntették, annak a 165. §-ban foglaltak alapján számított szolgálati idejét – ha jogszabály eltérően nem rendelkezik – hivatásos szolgálati, rendvédelmi igazgatási szolgálati, kormányzati szolgálati, közszolgálati, közalkalmazotti, egészségügyi szolgálati, igazságügyi alkalmazotti szolgálati jogviszony, bírói vagy ügyészségi szolgálati viszony, adó- és vámhatósági szolgálati jogviszony vagy közigazgatási szervnél munkaviszony létesítése esetén a létesítendővel azonos jellegű jogviszonyban eltöltött időnek kell elismerni.

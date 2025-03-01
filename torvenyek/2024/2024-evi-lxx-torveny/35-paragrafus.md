@@ -1,3 +1,5 @@
 ## 14. Ösztöndíjszerződés
 
-### 35. §
+35. § (1) A polgári nemzetbiztonsági szolgálat a jelentkezővel ösztöndíjszerződést köthet a szolgálati viszony létesítéséhez szükséges végzettség, szakképesítés megszerzése érdekében. Az ösztöndíjszerződésben a polgári nemzetbiztonsági szolgálat vállalja, hogy a tanulmányok alatt támogatást nyújt, a jelentkező pedig arra kötelezi magát, hogy a megállapodás szerinti tanulmányokat folytatja, a végzettség, szakképesítés megszerzését követően a polgári nemzetbiztonsági szolgálattal szolgálati viszonyt létesít és a képzettség megszerzése után a támogatás mértékével arányos időn – az ösztöndíjszerződésben meghatározott időtartamban – keresztül szolgálati viszonyát lemondással nem szünteti meg.
+
+(2) Az ösztöndíjszerződésben meg kell határozni a képzés tárgyát, időtartamát, helyét, a teljesítés módját, határidejét, a költségek viselését, a jelöltet megillető támogatás formáját és mértékét, a tanulmányok befejezése után a polgári nemzetbiztonsági szolgálatnál kötelezően szolgálati viszonyban eltöltendő idő tartamát, továbbá a tanulmányi támogatás pénzben kiszámított összegére vonatkozó megtérítési kötelezettséget, ha a jelentkező a tanulmányait nem fejezi be, neki felróható okból nem létesít szolgálati viszonyt a polgári nemzetbiztonsági szolgálattal vagy a szerződésben vállalt időtartamot neki felróható okból nem tölti le.

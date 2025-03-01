@@ -1,1 +1,1 @@
-### 38. §
+38. § Azonos besorolású másik szolgálati beosztásba helyezéshez a nemzetbiztonsági állomány tagjának beleegyezése nem szükséges, azonban az új szolgálati beosztásban előírt képesítési és alkalmassági feltételeknek ebben az esetben is meg kell felelni.

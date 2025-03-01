@@ -1,1 +1,9 @@
-### 153. §
+153. § (1) Az elektronikus dokumentum akkor tekinthető közöltnek, ha a nemzetbiztonsági állomány tagja vagy az átvételre jogosult személy részére hozzáférhetővé válik. A közlés akkor is hatályos, ha az átvételt a címzett vagy az átvételre jogosult más személy megtagadta vagy szándékosan megakadályozta. Erről jegyzőkönyvet kell felvenni.
+
+(2) Az elektronikus dokumentum akkor válik hozzáférhetővé, amikor a címzettnek vagy az átvételre jogosult más személynek lehetősége nyílik arra, hogy annak tartalmát megismerje.
+
+(3) Ha a nemzetbiztonsági állomány tagja akadályoztatva van az átvételben, az akadályoztatás körülményeinek megszűnéséig nem következik be a (2) bekezdés szerinti hozzáférhetővé válás.
+
+(4) Ha a jognyilatkozat elektronikus dokumentumként a (2) bekezdés szerint hozzáférhetővé vált, és a nemzetbiztonsági állomány tagja vagy az átvételre jogosult más személy az elektronikus dokumentum hozzáférhetővé válását követő 10 napon belül azt nem veszi át, ide nem értve az (1) bekezdés szerinti megtagadást vagy megakadályozást, valamint a (3) bekezdés szerinti akadályoztatást, a munkáltatói jogkör gyakorlója másik írásbeli, az (5) bekezdés szerinti papíralapú kiadmány formában közli vele a jognyilatkozatot. Ilyen esetben a jognyilatkozat közlésének napja a második közlés napja.
+
+(5) Az (1) bekezdéstől eltérően, ha az elektronikus dokumentum elektronikus kézbesítése vagy a kézbesítési fikció szabályainak alkalmazása bármely okból nem lehetséges, vagy az a szolgálati viszony létesítéséről rendelkezik, az elektronikusan kiadmányozott jognyilatkozatról a munkáltatói jogkör gyakorlója által írásban kijelölt vagy a szervezeti és működési szabályzatban erre feljogosított személy 5 napon belül záradékolással hiteles papíralapú kiadmányt készít. A záradéknak tartalmaznia kell a záradékolásra jogosult személy aláírását, a záradékolás keltét és szöveges utalást arra, hogy a papíralapú kiadmány az alapul szolgáló elektronikusan hitelesített irattal megegyezik. A nemzetbiztonsági állomány tagjával a papíralapú kiadmányt kell közölni.
