@@ -8,7 +8,7 @@ c) magyar jelnyelv: a hallássérült személyek által használt, vizuális nye
 
 d) speciális kommunikációs rendszer: a hallássérült, illetve siketvak személyek által használt, e törvény mellékletében felsorolt kommunikációs eszköz,
 
-e) közszolgáltatási tevékenység: a hatósági, kormányzati és minden egyéb közigazgatási, valamint igazságszolgáltatási tevékenység, továbbá az Országgyűlés, az Országgyűlésnek beszámolással tartozó szervek, az Alkotmánybíróság, az alapvető jogok biztosa, az ügyészség, a honvédelmi és rendvédelmi szervek által hatáskörük gyakorlása során kifejtett tevékenység, valamint a társadalombiztosítás által finanszírozott egészségügyi szolgáltatás,
+e) közszolgáltatási tevékenység: a hatósági, kormányzati és minden egyéb közigazgatási, valamint igazságszolgáltatási tevékenység, továbbá az Országgyűlés, az Országgyűlésnek beszámolással tartozó szervek, az Alkotmánybíróság, az alapvető jogok biztosa, az ügyészség, a honvédelmi szervezet, a rendvédelmi szervek, valamint a polgári nemzetbiztonsági szolgálatok által hatáskörük gyakorlása során kifejtett tevékenység, valamint a társadalombiztosítás által finanszírozott egészségügyi szolgáltatás,
 
 f) bilingvális oktatási módszer: olyan oktatási módszer, amely a beszélt magyar nyelv mellett a magyar jelnyelvet is alkalmazza az oktatás során,
 
