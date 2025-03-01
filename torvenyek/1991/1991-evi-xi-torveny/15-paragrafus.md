@@ -8,7 +8,7 @@
 
 a) jelölje ki az egészségügyi államigazgatási szervet vagy szerveket, és a katonai egészségügyi államigazgatási szervet,
 
-b) jelölje ki a rendvédelmi szervek, valamint az Országgyűlési Őrség – ide nem értve a büntetés-végrehajtási szervezetnek a fogvatartottak elhelyezésére és foglalkoztatására létrehozott büntetés-végrehajtási szerveit – vonatkozásában a közegészségügyi-járványügyi feladatokat ellátó szervet vagy szerveket, továbbá szabályozza az ezen szervek által folytatott közigazgatási hatósági eljáráshoz, hatósági ellenőrzéshez kapcsolódó különös és kiegészítő eljárási rendelkezéseket.
+b) jelölje ki a rendvédelmi szervek, a polgári nemzetbiztonsági szolgálatok, valamint az Országgyűlési Őrség – ide nem értve a büntetés-végrehajtási szervezetnek a fogvatartottak elhelyezésére és foglalkoztatására létrehozott büntetés-végrehajtási szerveit – vonatkozásában a közegészségügyi-járványügyi feladatokat ellátó szervet vagy szerveket, továbbá szabályozza az ezen szervek által folytatott közigazgatási hatósági eljáráshoz, hatósági ellenőrzéshez kapcsolódó különös és kiegészítő eljárási rendelkezéseket.
 
 (5) Felhatalmazást kap a 2. § (1) bekezdésének a) pontja szerint érintett miniszter, valamint az Országgyűlési Őrség vonatkozásában a rendészetért felelős miniszter, hogy a közegészségügyi feladatok ellátásának, valamint az egészségügyi államigazgatási szervvel való együttműködés rendjét az egészségügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza.
 

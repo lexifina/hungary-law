@@ -2,7 +2,7 @@
 
 (2) A táboroztatás szervezője köteles legkésőbb 3 héttel a táboroztatás megkezdését megelőzően az egészségügyi államigazgatási szervnek bejelenteni a tervezett táboroztatás helyét, kezdő időpontját és tervezett időtartamát, továbbá a táborozásban részt vevő személyek tervezett számát és az egészségügyért felelős miniszter rendeletében meghatározott egyéb adatokat.
 
-(2a) A táboroztatás szervezője a táboroztatásra jelentkezéskor a gyermek törvényes képviselője részére a tanuló ifjúság üdülésének és táborozásának egészségügyi feltételeiről szóló miniszteri rendeletben meghatározott tájékoztatást nyújt.
+(2a) A táboroztatás szervezője a táboroztatásra jelentkezéskor a gyermek törvényes képviselője részére miniszteri rendeletben meghatározott tájékoztatást nyújt.
 
 (2b) Az (5)–(14) bekezdés alkalmazásában a táboroztatás szervezésében, illetve lebonyolításában közreműködő személynek az egészségügyért felelős miniszter rendeletében meghatározott személy minősül.
 
