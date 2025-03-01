@@ -20,8 +20,10 @@ g) aki adó- és vámhatósági szolgálati jogviszonyban áll,
 
 h) aki ügyészségi szolgálati viszonyban áll,
 
-i) az igazságügyi alkalmazott, valamint
+i) az igazságügyi alkalmazott,
 
-j) a Magyar Nemzeti Bank Monetáris Tanácsának tagjai kivételével a Magyar Nemzeti Bank alkalmazottja (a továbbiakban: a Magyar Nemzeti Bank alkalmazottai);
+j) a Magyar Nemzeti Bank Monetáris Tanácsának tagjai kivételével a Magyar Nemzeti Bank alkalmazottja, valamint
+
+k) aki nemzetbiztonsági szolgálati jogviszonyban, nemzetbiztonsági alkalmazotti jogviszonyban áll;
 
 2. hozzátartozó: a házastárs, az élettárs, valamint a közös háztartásban élő szülő, gyermek, a házastárs gyermeke, ideértve az örökbefogadott és a nevelt gyermeket is.
