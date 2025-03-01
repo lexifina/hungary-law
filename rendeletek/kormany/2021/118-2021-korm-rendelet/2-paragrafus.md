@@ -1,6 +1,4 @@
-## 1. § A rendvédelmi szervek személyi állománya tekintetében a foglalkoztatás-felügyeleti hatósági feladatokat a rendvédelmi szervet irányító miniszter (a továbbiakban: miniszter) látja el.
-
-## 2. § A rendvédelmi szervek személyi állománya tekintetében a foglalkoztatás-felügyeleti hatósági ellenőrzésre, valamint a hatósági ellenőrzés alapján indított közigazgatási hatósági eljárásra a foglalkoztatás-felügyeleti hatóság tevékenységéről szóló 115/2021. (III. 10.) Korm. rendeletet
+2. §[^2] A rendvédelmi szervek, a polgári nemzetbiztonsági szolgálatok személyi állománya tekintetében a foglalkoztatás-felügyeleti hatósági ellenőrzésre, valamint a hatósági ellenőrzés alapján indított közigazgatási hatósági eljárásra a foglalkoztatás-felügyeleti hatóság tevékenységéről szóló 115/2021. (III. 10.) Korm. rendeletet
 
 a) az 5. § (1) és (2) bekezdésében,
 
@@ -12,10 +10,11 @@ d) a 13–15. §-ában,
 
 e) a 16. § (1) bekezdés c) pontjában,
 
-f)[^1] a 19. §-ában,
+f)[^3] a 19. §-ában,
 
 g) a VII. Fejezetében
 
 foglalt rendelkezések kivételével alkalmazni kell.
 
-[^1]: A 2. § f) pontja a 24/2024. (II. 14.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^2]: A 2. § nyitó szövegrésze a 24/2025. (II. 27.) Korm. rendelet 88. §-a szerint módosított szöveg.
+[^3]: A 2. § f) pontja a 24/2024. (II. 14.) Korm. rendelet 12. §-ával megállapított szöveg.
