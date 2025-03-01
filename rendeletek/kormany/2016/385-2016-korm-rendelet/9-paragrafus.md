@@ -32,7 +32,7 @@ h) az egészségügyi államigazgatási feladatok tekintetében az egyes közszo
 
 szerinti feladatok ellátására.
 
-(2)[^35] A Kormány egészségügyi államigazgatási szervként a rendvédelmi szervek, valamint az Országgyűlési Őrség
+(2)[^35] A Kormány egészségügyi államigazgatási szervként a polgári nemzetbiztonsági szolgálatok, a rendvédelmi szervek, valamint az Országgyűlési Őrség
 
 – ide nem értve a büntetés-végrehajtási szervezetnek a fogvatartottak elhelyezésére és foglalkoztatására létrehozott büntetés-végrehajtási szerveit – vonatkozásában a rendvédelmi szervek, az Országgyűlési Őrség, közegészségügyi-járványügyi feladatait ellátó egyes szervek kijelöléséről szóló kormányrendeletben meghatározott elsőfokú közegészségügyi-járványügyi hatósági jogkör gyakorlóját jelöli ki az Nvt. 2. § (9) bekezdése és 7. §-a szerinti feladatok ellátására.
 
@@ -41,5 +41,5 @@ szerinti feladatok ellátására.
 [^32]: A 9. § (1) bekezdés a) pontját a 360/2019. (XII. 30.) Korm. rendelet 161. § (7) bekezdés d) pontja hatályon kívül helyezte, újonnan a 303/2020. (VI. 29.) Korm. rendelet 3. §-a iktatta be. Alkalmazására lásd ez utóbbi módosító rendelet 6. §-át.
 [^33]: A 9. § (1) bekezdés b) pontját a 360/2019. (XII. 30.) Korm. rendelet 161. § (7) bekezdés d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^34]: A 9. § (1) bekezdés c) pontját a 360/2019. (XII. 30.) Korm. rendelet 161. § (7) bekezdés d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^35]: A 9. § (2) bekezdése a 20/2018. (II. 14.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^35]: A 9. § (2) bekezdése a 20/2018. (II. 14.) Korm. rendelet 6. §-ával megállapított, a 24/2025. (II. 27.) Korm. rendelet 64. § b) pontja szerint módosított szöveg.
 [^36]: A 9. § (3) bekezdése a 171/2017. (VI. 29.) korm. rendelet 25. § (2) bekezdése szerint módosított szöveg.
