@@ -34,7 +34,7 @@ d) a prémiumévek programról és a különleges foglalkoztatási állományró
 
 e) a rehabilitációs ellátás összegét,
 
-f) a rendvédelmi egészségkárosodási keresetkiegészítés, a rendvédelmi egészségkárosodási járadék, a honvédelmi egészségkárosodási keresetkiegészítés vagy a honvédelmi egészségkárosodási járadék, a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti egészségkárosodási keresetkiegészítés, egészségkárosodási járadék összegét,
+f) a rendvédelmi egészségkárosodási keresetkiegészítés, a rendvédelmi egészségkárosodási járadék, a honvédelmi egészségkárosodási keresetkiegészítés vagy a honvédelmi egészségkárosodási járadék, a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti egészségkárosodási keresetkiegészítés, egészségkárosodási járadék, valamint a nemzetbiztonsági egészségkárosodási ellátás összegét,
 
 g) a rehabilitációs járadék összegét, valamint
 

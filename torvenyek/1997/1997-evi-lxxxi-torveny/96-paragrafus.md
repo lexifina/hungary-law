@@ -64,7 +64,7 @@ f) a Magyar Művészeti Akadémiáról szóló törvény szerinti művészjárad
 
 g) a honvédelemért felelős miniszter által vezetett minisztérium központi pénzügyi szerve tervezési és érdekvédelmi feladatok, ellátás megállapítása, folyósítása és ellenőrzése, valamint statisztikai célú adatfeldolgozás érdekében a Magyar Honvédség szociális gondoskodási körébe tartozók esetében a (2) bekezdés a), g) és h) pontja,
 
-h) a rendvédelmi feladatokat ellátó szerv a kiegészítő hozzátartozói támogatásra, illetve az árvák kiegészítő támogatására való jogosultság megállapítása és ellenőrzése céljából a (2) bekezdés a), g) és h) pontja
+h) a rendvédelmi feladatokat ellátó szerv és a polgári nemzetbiztonsági szolgálat a kiegészítő hozzátartozói támogatásra, illetve az árvák kiegészítő támogatására való jogosultság megállapítása és ellenőrzése céljából a (2) bekezdés a), g) és h) pontja
 
 szerinti adatok igénylésére jogosult.
 
