@@ -122,3 +122,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1994-53-00-00
 | 2024-09-01 | 2024. évi XII. törvény | 1994-53-00-00.177 |
 | 2025-01-01 | 2023. évi LXX. törvény | 1994-53-00-00.179 |
 | 2025-01-15 | 2021. évi CXLVI. törvény | 1994-53-00-00.161 |
+| 2025-03-01 | 2024. évi LXXI. törvény | 1994-53-00-00.180 |
