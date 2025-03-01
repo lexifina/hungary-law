@@ -1,0 +1,1 @@
+374/B. § A törvényben meghatározott feladatok hatékony teljesítése érdekében a tőzsde, a központi értéktár és a központi szerződő fél a nyomozó hatósággal vagy az ügyészséggel együttműködési megállapodást köthet.

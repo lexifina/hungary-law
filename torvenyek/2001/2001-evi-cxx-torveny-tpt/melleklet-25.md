@@ -29,13 +29,3 @@ Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálj
 12. Az Európai Parlament és a Tanács 2004. december 15-i 2004/109/EK irányelve a szabályozott piacra bevezetett értékpapírok kibocsátóival kapcsolatos információkra vonatkozó átláthatósági követelmények harmonizációjáról és a 2001/34/EK irányelv módosításáról.
 
 13. Az Európai Parlament és a Tanács 2006. május 17-i 2006/43/EK irányelve az éves és összevont (konszolidált) éves beszámolók jog szerinti könyvvizsgálatáról, a 78/660/EGK és a 83/349/EGK tanácsi irányelv módosításáról, valamint a 84/253/EGK tanácsi irányelv hatályon kívül helyezéséről.
-
-14. Az Európai Parlament és a Tanács 2019. november 27-i (EU) 2019/2034 irányelve a befektetési vállalkozások prudenciális felügyeletéről, valamint a 2002/87/EK, a 2009/65/EK, a 2011/61/EU, a 2013/36/EU, a 2014/59/EU és a 2014/65/EU irányelv módosításáról.
-
-15. Az európai zöldkötvényekről és a környezeti szempontból fenntarthatóként forgalmazott kötvényekre és a fenntarthatósághoz kapcsolódó kötvényekre vonatkozó opcionális közzétételekről szóló, 2023. november 22-i (EU) 2023/2631 európai parlamenti és tanácsi rendelet.
-
-16. A 2014/65/EU európai parlamenti és tanácsi irányelvnek a befektetési vállalkozások szervezeti követelményei és működési feltételei, valamint az irányelv alkalmazásában meghatározott kifejezések tekintetében történő kiegészítéséről szóló, a Bizottság (EU) 2016. április 25-i 2017/565 felhatalmazáson alapuló rendelet.
-
-17. A Bizottság 2007. március 8-i 2007/14/EK irányelve a szabályozott piacra bevezetett értékpapírok kibocsátóival kapcsolatos információkra vonatkozó átláthatósági követelmények harmonizációjáról szóló 2004/109/EK irányelv egyes rendelkezéseinek végrehajtására irányadó részletes szabályok megállapításáról.
-
-18. A tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló, 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendelet.
