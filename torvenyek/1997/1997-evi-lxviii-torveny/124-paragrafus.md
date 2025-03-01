@@ -24,7 +24,7 @@ h) 232–234. §-át az üzemi tanácsra vonatkozó rendelkezések kivételével
 
 (2a) Az egyéb igazságügyi szervnél foglalkoztatott igazságügyi alkalmazott tekintetében az (1)–(2) bekezdésben foglaltak mellett az Mt. 86. § (3) bekezdés a) pontját is megfelelően alkalmazni kell.
 
-(3) Az igazságügyi szervhez vezényelt hivatásos állományú személy jogállására – az e törvényben nem szabályozott kérdésekben – a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény, valamint a honvédek jogállásáról szóló kormányrendelet rendelkezéseit is megfelelően alkalmazni kell.
+(3) Az igazságügyi szervhez vezényelt hivatásos állományú személy jogállására – az e törvényben nem szabályozott kérdésekben – a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény, a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvény, valamint a honvédek jogállásáról szóló kormányrendelet rendelkezéseit is megfelelően alkalmazni kell.
 
 (4) Ha az igazságügyi alkalmazott nemzetközi szervnél vagy az Európai Unió szervénél jogviszonyt létesít, igazságügyi alkalmazotti szolgálati jogviszonya az új jogviszony kezdete előtti napon megszűnik. A megszűnés időpontját a felek ettől eltérően is meghatározhatják.
 

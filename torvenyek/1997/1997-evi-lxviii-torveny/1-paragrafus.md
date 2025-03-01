@@ -14,7 +14,7 @@ igazságügyi alkalmazottainak szolgálati jogviszonyára (a továbbiakban: szol
 
 (2) Az (1) bekezdés a)–c) pontjában megjelölt igazságügyi szerv (a továbbiakban: igazságügyi szerv) által fenntartott bölcsődék és óvodák dolgozói a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény hatálya alá tartoznak.
 
-(3) A katonai tanácsokkal rendelkező bíróságokon igazságügyi alkalmazottként hivatásos szolgálati viszonyban álló katonák, az OBH-nál – honvédelmi és polgári védelmi feladatok ellátására – a Magyar Honvédség, illetve a rendvédelmi szervek hivatásos szolgálati viszonyban álló tagjai vezénylés alapján teljesíthetnek szolgálatot.
+(3) A katonai tanácsokkal rendelkező bíróságokon igazságügyi alkalmazottként hivatásos szolgálati viszonyban álló katonák, az OBH-nál – honvédelmi és polgári védelmi feladatok ellátására – a Magyar Honvédség, a rendvédelmi szervek, a polgári nemzetbiztonsági szolgálatok hivatásos szolgálati viszonyban álló tagjai vezénylés alapján teljesíthetnek szolgálatot.
 
 (4) E törvény hatálya alá tartozó
 
