@@ -24,7 +24,7 @@
 
 3. számú melléklet a 35/1998. (II. 27.) Korm. rendelethez[^82]
 
-## A közigazgatási szakvizsga kötelező és választható vizsgatárgyai
+A közigazgatási szakvizsga kötelező és választható vizsgatárgyai
 
 1.[^83] A szakvizsga kötelező vizsgatárgya: Általános közigazgatási ismeretek, amely a központi állami szervek rendszerének ismerete (a Magyarország alkotmányos berendezkedésének és működésének átfogó, részletes ismerete, az államszervezet – ideértve az önkormányzati rendszert is – tagozódása, az egyes állami szervek funkciója és működésük jellemzői, az államigazgatás szervezetrendszere és működése, az államigazgatás feladatai); az államháztartás általános szabályainak ismerete (az államháztartási jog alapvető rendelkezése, a költségvetési szervek gazdálkodásának főbb jellemzői); a közigazgatás-szervezési és vezetési ismeretek (közigazgatási menedzsment és közszolgálati ismeretek); valamint jogalkalmazási (eljárásjogi) és jogalkotási (jogalkotási eljárási és szakmai kodifikációs) ismeretek; az Európai Unió szervezeti rendszere, jogrendszere, az Európai Unió és a nemzeti közigazgatások viszonya témakörökre terjed ki.
 

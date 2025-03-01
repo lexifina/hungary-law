@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-35-20-2
 | 2014-09-05 | 1998-35-20-22.18 | 221/2014. (IX. 4.) Korm. rendelet |
 | 2016-06-01 | 1998-35-20-22.19 | 108/2016. (V. 18.) Korm. rendelet |
 | 2022-07-05 | 1998-35-20-22.20 | 243/2022. (VII. 4.) Korm. rendelet |
+| 2025-03-01 | 1998-35-20-22.21 | 108/2016. (V. 18.) Korm. rendelet |

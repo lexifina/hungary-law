@@ -2,7 +2,7 @@
 
 1. számú melléklet a 35/1998. (II. 27.) Korm. rendelethez[^55]
 
-## A közigazgatási szakvizsga vizsgaszabályzata
+A közigazgatási szakvizsga vizsgaszabályzata
 
 1.[^56] A közigazgatási szakvizsgán (a továbbiakban: vizsga) a vizsgázó a kötelező és a választott szakmai vizsgatárgyból írásbeli feladat(ok) megoldásával, valamint egy-egy általa húzott szóbeli vizsgatétel és a bizottság által feltett kérdések alapján ad számot felkészültségéről.
 

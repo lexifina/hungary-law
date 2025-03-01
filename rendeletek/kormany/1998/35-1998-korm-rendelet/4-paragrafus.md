@@ -14,7 +14,7 @@ b)[^18] érvényesüljenek az oktatással kapcsolatos, a KTK által meghatározo
 
 (6)[^23] A központi államigazgatási, valamint a Kttv. 2. §-a szerinti szerveknél alkalmazott vizsgázó az NKE-nél, a többi közigazgatási szervnél alkalmazott vizsgázó, valamint a polgármester a közigazgatási szerv székhelye, illetőleg működési területe szerint illetékes szakvizsgaszervezőnél működő bizottság előtt – a szakvizsga e rendelet 1. számú mellékletében meghatározott vizsgaszabályzatának figyelembevételével – tesz szakvizsgát. A szakvizsgaszervezők szükség szerint közösen is szervezhetnek szakvizsgát, felkészítő tanfolyamot.
 
-(6a)[^24] A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 128. alcíme alá tartozó szervek hivatásos állományú tagja – a Kttv. 118. § (10) bekezdésében foglaltak figyelembevételével – az NKE-n tehet szakvizsgát azzal, hogy a rendvédelmi feladatokat ellátó szerv és az NKE megállapodást köt a hivatásos állomány adatainak védelméről.
+(6a)[^24] A polgári nemzetbiztonsági szolgálat hivatásos állományának tagja – a Kttv. 118. § (10) bekezdésében foglaltak figyelembevételével – az NKE-n tehet szakvizsgát, azzal, hogy a polgári nemzetbiztonsági szolgálat és az NKE megállapodást köt a hivatásos állomány adatainak védelméről.
 
 (7)[^25] A szakvizsgaszervezőt a (3) bekezdésben meghatározott feladatainak végrehajtása során személyügyi központról és a Közszolgálati Személyügyi Szolgáltatási Keretrendszerről, valamint ezzel összefüggésben egyes kormányrendeletek módosításáról szóló 716/2021. (XII. 20.) Korm. rendelet szerinti személyügyi központ vezetője irányítja.
 
@@ -26,5 +26,5 @@ b)[^18] érvényesüljenek az oktatással kapcsolatos, a KTK által meghatározo
 [^21]: A 4. § (4) bekezdése a 178/2012. (VII. 26.) Korm. rendelet 14. § (2) bekezdésével megállapított, a 273/2012. (IX. 20.) Korm. rendelet 28. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^22]: A 4. § (5) bekezdését a 153/2010. (V. 4.) Korm. rendelet 10. § (3) bekezdése hatályon kívül helyezte.
 [^23]: A 4. § (6) bekezdése a 178/2012. (VII. 26.) Korm. rendelet 14. § (10) bekezdés b) és f) pontja, a 108/2016. (V. 18.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
-[^24]: A 4. § (6a) bekezdését a 108/2016. (V. 18.) Korm. rendelet 2. §-a iktatta be.
+[^24]: A 4. § (6a) bekezdését a 108/2016. (V. 18.) Korm. rendelet 2. §-a iktatta be, szövege a 24/2025. (II. 27.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^25]: A 4. § (7) bekezdése a 243/2022. (VII. 4.) Korm. rendelet 2. §-a szerint módosított szöveg.
