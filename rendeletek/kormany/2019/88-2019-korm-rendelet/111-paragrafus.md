@@ -1,3 +1,3 @@
-111. §[^38]
+111. §[^39]
 
-[^38]: A 111. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^39]: A 111. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

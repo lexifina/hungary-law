@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-88-20-2
 | 2024-08-01 | 2019-88-20-22.13 | 225/2024. (VII. 31.) Korm. rendelet |
 | 2024-12-19 | 2019-88-20-22.15 | 405/2024. (XII. 18.) Korm. rendelet |
 | 2025-01-01 | 2019-88-20-22.14 | 518/2023. (XI. 30.) Korm. rendelet |
+| 2025-03-01 | 2019-88-20-22.16 | 24/2025. (II. 27.) Korm. rendelet |

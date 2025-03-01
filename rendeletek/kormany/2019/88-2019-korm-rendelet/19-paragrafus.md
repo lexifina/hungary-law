@@ -78,7 +78,7 @@ gh) a közszolgálat halottjává nyilvánítás rendjét és a közszolgálat h
 
 gi) a családalapítási támogatás, az iskolakezdési és gyermeknevelési támogatás igénybevételére vonatkozó szabályokat,
 
-gj)[^9] egyéb – a Kit.-ben, illetve az e rendeletben nevesített – támogatások igénybevételét, továbbá igénylésének és elbírálásának rendjét,
+gj)[^10] egyéb – a Kit.-ben, illetve az e rendeletben nevesített – támogatások igénybevételét, továbbá igénylésének és elbírálásának rendjét,
 
 gk) a ge)–gj) alpont szerinti támogatások elbírálásával kapcsolatos bizottságokra vonatkozó szabályokat;
 
@@ -90,4 +90,4 @@ i) a kormánytisztviselő képzésére, továbbképzésére vonatkozó rendelkez
 
 (3) A hivatali szervezet vezetője az (1) bekezdés szerinti szabályzat helyett egyedi utasításban is megállapíthatja a kormányzati igazgatási szerv foglalkoztatottjaira vonatkozó általános munkarendet.
 
-[^9]: A 19. § (1) bekezdés g) pont gj) alpontja a 338/2019. (XII. 23.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^10]: A 19. § (1) bekezdés g) pont gj) alpontja a 338/2019. (XII. 23.) Korm. rendelet 18. §-ával megállapított szöveg.

@@ -1,6 +1,6 @@
 ## 55. § A szálló- vagy garzonelhelyezés igénylésével kapcsolatos szabályokat a közszolgálati szabályzat tartalmazza.
 
-## 26/A.[^19] Lakásbérleti támogatás
+## 26/A.[^20] Lakásbérleti támogatás
 
 55/A. § (1) A kormányzati igazgatási szerv – a kormányzati igazgatási szervet vezető, irányító vagy felügyelő miniszter egyetértésével – lakásbérleti támogatásban részesítheti a kormányzati igazgatási szervnél foglalkoztatott kormánytisztviselőket.
 
@@ -16,4 +16,4 @@
 
 (7) A lakásbérleti támogatásra a 39. § (1) és (2) bekezdését, valamint a 40. §-t nem kell alkalmazni.
 
-[^19]: A 26/A. alcímet (55/A. §-t) a 6/2024. (I. 25.) Korm. rendelet 1. §-a iktatta be.
+[^20]: A 26/A. alcímet (55/A. §-t) a 6/2024. (I. 25.) Korm. rendelet 1. §-a iktatta be.

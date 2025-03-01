@@ -44,7 +44,7 @@ a)[^5] a Kit., a közszolgálati tisztviselőkről szóló törvény, a köztisz
 
 b) a közalkalmazottak jogállásáról szóló törvény hatálya alá tartozó szervnél munkaviszonyban, közalkalmazotti jogviszonyban töltött idő,
 
-c) a hivatásos szolgálati jogviszony, a hivatásos és szerződéses katonai szolgálat jogviszony, a honvédelmi alkalmazotti jogviszony, a rendvédelmi igazgatási szolgálati jogviszony időtartama,
+c)[^6] a hivatásos szolgálati jogviszony, a hivatásos és szerződéses katonai szolgálat jogviszony, a honvédelmi alkalmazotti jogviszony, a rendvédelmi igazgatási szolgálati jogviszony, a nemzetbiztonsági szolgálati jogviszony, a nemzetbiztonsági alkalmazotti jogviszony időtartama,
 
 d) a bíróságnál és ügyészségnél szolgálati viszonyban – ideértve az igazságügyi alkalmazotti szolgálati jogviszonyt is –, munkaviszonyban töltött idő,
 
@@ -60,3 +60,4 @@ h) az állami vezetői szolgálati jogviszonyban és a politikai szolgálati jog
 
 [^4]: A 2. § (1) bekezdés 6. pontja a 6/2024. (I. 25.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
 [^5]: A 2. § (2) bekezdés a) pontja a 671/2020. (XII. 28.) Korm. rendelet 39. §-a szerint módosított szöveg.
+[^6]: A 2. § (2) bekezdés c) pontja a 24/2025. (II. 27.) Korm. rendelet 79. §-a szerint módosított szöveg.

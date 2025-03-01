@@ -1,14 +1,14 @@
-49. § (1)[^14] A kamatmentes kölcsön budapesti székhelyű kormányzati igazgatási szerv esetén – az (1a) bekezdésben foglalt kivétellel – budapesti, vagy Budapesttől legfeljebb 60 kilométerre fekvő magyarországi településen található lakásra nyújtható.
+49. § (1)[^15] A kamatmentes kölcsön budapesti székhelyű kormányzati igazgatási szerv esetén – az (1a) bekezdésben foglalt kivétellel – budapesti, vagy Budapesttől legfeljebb 60 kilométerre fekvő magyarországi településen található lakásra nyújtható.
 
-(1a)[^15] A budapesti székhelyű kormányzati igazgatási szerv esetén, ha munkavégzés helye az (1) bekezdésben foglalt területen kívül esik, a kamatmentes kölcsön a munkavégzés helye szerinti településen vagy olyan magyarországi településen található lakásra nyújtható, amely e településtől legfeljebb 30 kilométerre fekszik.
+(1a)[^16] A budapesti székhelyű kormányzati igazgatási szerv esetén, ha munkavégzés helye az (1) bekezdésben foglalt területen kívül esik, a kamatmentes kölcsön a munkavégzés helye szerinti településen vagy olyan magyarországi településen található lakásra nyújtható, amely e településtől legfeljebb 30 kilométerre fekszik.
 
-(1b)[^16] Az (1a) bekezdés alkalmazásában a munkavégzés helyeként
+(1b)[^17] Az (1a) bekezdés alkalmazásában a munkavégzés helyeként
 
 a) több munkavégzési hely esetén kizárólag az a jellemző munkavégzési hely vehető figyelembe, ahol a kormánytisztviselőt a legtöbb időben foglalkoztatják,
 
 b) a Kit. 99. § (1) bekezdése, valamint 125. és 126. §-a alapján megváltozó munkavégzési hely nem vehető figyelembe.
 
-(1c)[^17] A kamatmentes kölcsön nem budapesti székhelyű vagy telephelyű kormányzati igazgatási szerv esetén a kormányzati igazgatási szerv székhelye vagy telephelye szerinti településen, vagy e településtől legfeljebb 30 kilométerre fekvő magyarországi településen található lakásra nyújtható.
+(1c)[^18] A kamatmentes kölcsön nem budapesti székhelyű vagy telephelyű kormányzati igazgatási szerv esetén a kormányzati igazgatási szerv székhelye vagy telephelye szerinti településen, vagy e településtől legfeljebb 30 kilométerre fekvő magyarországi településen található lakásra nyújtható.
 
 (2) Kamatmentes kölcsönben részesíthető az az alábbi feltételeknek együttesen megfelelő kormánytisztviselő, aki
 
@@ -20,7 +20,7 @@ c) hozzájárul ahhoz, hogy a kamatmentes kölcsön visszafizetésének biztosí
 
 d) vállalja, hogy a kormányzati szolgálati jogviszonyát a kamatmentes kölcsön visszafizetéséig fenntartja,
 
-e)[^18] a lakás megvásárlásához, építéséhez, bővítéséhez, korszerűsítéséhez – a teljes vételárhoz, az építési vagy korszerűsítési költséghez viszonyítva – legalább 30%-os mértékű önrésszel rendelkezik (kivéve, ha a lakás építéséhez, vásárlásához felvett kölcsönre az állam készfizető kezességet vállal), ideértve az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú támogatásról szóló kormányrendelet, valamint a használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló kormányrendelet, továbbá a kistelepüléseken nyújtható otthonteremtési támogatásokról szóló kormányrendelet szerinti családi otthonteremtési kedvezményt, valamint a Vidéki Otthonfelújítási Programról szóló kormányrendelet szerinti otthonfelújítási támogatást vagy otthonfelújítási kölcsönt is,
+e)[^19] a lakás megvásárlásához, építéséhez, bővítéséhez, korszerűsítéséhez – a teljes vételárhoz, az építési vagy korszerűsítési költséghez viszonyítva – legalább 30%-os mértékű önrésszel rendelkezik (kivéve, ha a lakás építéséhez, vásárlásához felvett kölcsönre az állam készfizető kezességet vállal), ideértve az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú támogatásról szóló kormányrendelet, valamint a használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló kormányrendelet, továbbá a kistelepüléseken nyújtható otthonteremtési támogatásokról szóló kormányrendelet szerinti családi otthonteremtési kedvezményt, valamint a Vidéki Otthonfelújítási Programról szóló kormányrendelet szerinti otthonfelújítási támogatást vagy otthonfelújítási kölcsönt is,
 
 f) vállalja, hogy a kamatmentes kölcsön jelzálogjog biztosítékául szolgáló ingatlanra – ha azzal még nem rendelkezik – lakásbiztosítást köt,
 
@@ -66,8 +66,8 @@ c) a kormánytisztviselő öröklés vagy ajándékozás útján haszonélvezett
 
 (8) A kamatmentes kölcsön nyújtásával és a kölcsönszerződés megkötésével, tartalmával, megszűnésével kapcsolatos szabályokat a közszolgálati szabályzat rögzíti.
 
-[^14]: A 49. § (1) bekezdése a 676/2021. (XII. 3.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^15]: A 49. § (1a) bekezdését a 676/2021. (XII. 3.) Korm. rendelet 1. §-a iktatta be.
-[^16]: A 49. § (1b) bekezdését a 676/2021. (XII. 3.) Korm. rendelet 1. §-a iktatta be.
-[^17]: A 49. § (1c) bekezdését a 676/2021. (XII. 3.) Korm. rendelet 1. §-a iktatta be.
-[^18]: A 49. § (2) bekezdés e) pontja az 518/2023. (XI. 30.) Korm. rendelet 63. § (2) bekezdése, a 389/2024. (XII. 11.) Korm. rendelet 33. § (2) bekezdése szerint módosított szöveg.
+[^15]: A 49. § (1) bekezdése a 676/2021. (XII. 3.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^16]: A 49. § (1a) bekezdését a 676/2021. (XII. 3.) Korm. rendelet 1. §-a iktatta be.
+[^17]: A 49. § (1b) bekezdését a 676/2021. (XII. 3.) Korm. rendelet 1. §-a iktatta be.
+[^18]: A 49. § (1c) bekezdését a 676/2021. (XII. 3.) Korm. rendelet 1. §-a iktatta be.
+[^19]: A 49. § (2) bekezdés e) pontja az 518/2023. (XI. 30.) Korm. rendelet 63. § (2) bekezdése, a 389/2024. (XII. 11.) Korm. rendelet 33. § (2) bekezdése szerint módosított szöveg.
