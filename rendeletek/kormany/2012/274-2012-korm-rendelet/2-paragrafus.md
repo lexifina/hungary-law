@@ -22,5 +22,5 @@ f)[^9] központi szerv: a rendészetért felelős miniszter által vezetett mini
 [^5]: A 2. § b) pontja a 11/2019. (II. 5.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
 [^6]: A 2. § c) pontja a 396/2017. (XII. 13.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^7]: A 2. § d) pontja a 396/2017. (XII. 13.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^8]: A 2. § e) pontja a 396/2017. (XII. 13.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^8]: A 2. § e) pontja a 396/2017. (XII. 13.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg. [A 2. § e) pontjában a 24/2025. (II. 27.) Korm. rendelet 42. § b) pontja által elrendelt módosítás, amely szerint hatályát veszti a „továbbá a polgári nemzetbiztonsági szolgálatok vonatkozásában a szakképesítésnek nem minősülő nemzetbiztonsági szaktanfolyami végzettség is,” szövegrész, nem vezethető át.]
 [^9]: A 2. § f) pontját a 396/2017. (XII. 13.) Korm. rendelet 3. § (2) bekezdése iktatta be.

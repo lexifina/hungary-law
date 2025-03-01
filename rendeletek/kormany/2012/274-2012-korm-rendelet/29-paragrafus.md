@@ -1,4 +1,4 @@
-29. §[^89] (1) A rendészeti alap- és szakvizsgára történő felkészítést végző előadót – ha az nem a munkakörével vagy szolgálati beosztásával járó, munkaköri leírásban rögzített feladata – felkészítési óradíj illeti meg. A felkészítési óradíj a rendvédelmi illetményalap társadalombiztosítási járulékkal növelt összegének 15%-a. A rendészeti szakvizsga írásbeli feladatlapjainak és javítókulcsainak elkészítőit díj illeti meg, amely feladatlaponként – és a hozzá tartozó javítókulcsonként – a rendvédelmi illetményalap társadalombiztosítási járulékkal növelt összegének 100%-a.
+29. §[^90] (1) A rendészeti alap- és szakvizsgára történő felkészítést végző előadót – ha az nem a munkakörével vagy szolgálati beosztásával járó, munkaköri leírásban rögzített feladata – felkészítési óradíj illeti meg. A felkészítési óradíj a rendvédelmi illetményalap társadalombiztosítási járulékkal növelt összegének 15%-a. A rendészeti szakvizsga írásbeli feladatlapjainak és javítókulcsainak elkészítőit díj illeti meg, amely feladatlaponként – és a hozzá tartozó javítókulcsonként – a rendvédelmi illetményalap társadalombiztosítási járulékkal növelt összegének 100%-a.
 
 (2) A rendészeti szakvizsga vonatkozásában a vizsgabizottság elnökét, tagját és jegyzőjét – ha az nem a munkakörével vagy szolgálati beosztásával járó, munkaköri leírásban rögzített feladata – vizsgáztatási díj illeti meg. Vizsgatárgyanként a megjelent vizsgázók után befizetett vizsgadíj társadalombiztosítási járulékkal növelt összegének
 
@@ -16,4 +16,4 @@ illeti meg. A fennmaradó 20%-ot a vizsgáztatás dologi kiadásaira kell fordí
 
 (5) A (4) bekezdés szerinti utazási költségtérítés elszámolása tömegközlekedési eszköz igénybevétele esetén a menetjegy, saját gépjármű használata esetén a személyi jövedelemadóról szóló törvény, valamint a munkába járással kapcsolatos utazási költségtérítésről szóló kormányrendelet alapján történik. Vasút igénybevétele esetén 2. osztályú menetjegy számolható el.
 
-[^89]: A 29. § a 396/2017. (XII. 13.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^90]: A 29. § a 396/2017. (XII. 13.) Korm. rendelet 15. §-ával megállapított szöveg.
