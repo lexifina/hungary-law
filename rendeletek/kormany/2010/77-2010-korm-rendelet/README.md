@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-77-20-2
 | 2018-01-01 | 2010-77-20-22.7 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2021-01-01 | 2010-77-20-22.8 | 217/2016. (VII. 22.) Korm. rendelet |
 | 2024-07-03 | 2010-77-20-22.9 | 140/2024. (VI. 28.) Korm. rendelet |
+| 2025-03-01 | 2010-77-20-22.10 | 217/2016. (VII. 22.) Korm. rendelet |
