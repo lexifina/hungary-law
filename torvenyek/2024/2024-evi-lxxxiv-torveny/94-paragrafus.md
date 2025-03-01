@@ -1,1 +1,3 @@
-### 94. §
+94. § A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 21. §-a a következő (4a) bekezdéssel egészül ki:
+
+„(4a) Ha a XXVII. és XXVIII. Fejezetben meghatározott szabálysértés több közlekedési szabályszegéssel valósul meg, a szabálysértési büntetésként a pénzbírság kiszabására az általános szabályok alkalmazandóak azzal, hogy a pénzbírság összege nem lehet kevesebb, mint a kormányrendeletben meghatározott legmagasabb kötelező mértékű pénzbírság, de nem haladhatja meg az általános szabályok szerinti pénzbírság legmagasabb összegét.”
