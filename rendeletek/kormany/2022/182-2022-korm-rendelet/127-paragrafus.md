@@ -1,3 +1,3 @@
-127. §[^189]
+127. §[^190]
 
-[^189]: A 127. §-t a 172/2024. (VII. 2.) Korm. rendelet 14. § i) pontja hatályon kívül helyezte.
+[^190]: A 127. §-t a 172/2024. (VII. 2.) Korm. rendelet 14. § i) pontja hatályon kívül helyezte.

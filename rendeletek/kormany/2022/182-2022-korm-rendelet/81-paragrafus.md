@@ -1,3 +1,3 @@
-81. §[^100]
+81. §[^101]
 
-[^100]: A 81. §-t a 172/2024. (VII. 2.) Korm. rendelet 14. § e) pontja hatályon kívül helyezte.
+[^101]: A 81. §-t a 172/2024. (VII. 2.) Korm. rendelet 14. § e) pontja hatályon kívül helyezte.

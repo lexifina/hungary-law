@@ -1,4 +1,4 @@
-182/J. §[^264] A miniszter az aktív Magyarországért való felelőssége keretében
+182/J. §[^265] A miniszter az aktív Magyarországért való felelőssége keretében
 
 a) kialakítja az aktív mobilitás, – a hivatásforgalmi kerékpárutak esetében a közlekedésért felelős miniszterrel együttműködve – a kerékpárutak, a kerékpáros túraútvonalak fejlesztésével összefüggő stratégiát, és irányítja az ehhez kapcsolódó infrastruktúra üzemeltetéséhez és fejlesztéséhez szükséges szakmai feladatokat,
 
@@ -26,4 +26,4 @@ l) koordinálja és irányítja az Ötpróba Program, a Nyaralóhajó Program, a
 
 m) ellátja az aktív- és ökoturizmussal összefüggő tevékenységek, programok koordinálását, népszerűsítését, az ezzel összefüggő létesítmények működésének szakmai értékelését, valamint az aktív- és ökoturizmussal összefüggő fejlesztések, beruházások összehangolását, azok lebonyolítását.
 
-[^264]: A 182/J. §-t a 21/2025. (II. 24.) Korm. rendelet 18. §-a iktatta be.
+[^265]: A 182/J. §-t a 21/2025. (II. 24.) Korm. rendelet 18. §-a iktatta be.

@@ -1,4 +1,4 @@
-161. §[^220] (1) A Kormány a minisztert jelöli ki
+161. §[^221] (1) A Kormány a minisztert jelöli ki
 
 1. a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény szerinti polgárok személyi adatainak és lakcímének nyilvántartását kezelő szervként;
 
@@ -30,4 +30,4 @@
 
 (3) A miniszter felügyeli az Egységes Digitális Rádiótávközlő Rendszert, valamint az e hálózat infrastrukturális alapját biztosító szervezet tevékenységét.
 
-[^220]: A 161. §-t a 467/2022. (XI. 21.) Korm. rendelet 17. § (1) bekezdés b) pontja hatályon kívül helyezte, újonnan a 21/2025. (II. 24.) Korm. rendelet 15. §-a iktatta be.
+[^221]: A 161. §-t a 467/2022. (XI. 21.) Korm. rendelet 17. § (1) bekezdés b) pontja hatályon kívül helyezte, újonnan a 21/2025. (II. 24.) Korm. rendelet 15. §-a iktatta be.

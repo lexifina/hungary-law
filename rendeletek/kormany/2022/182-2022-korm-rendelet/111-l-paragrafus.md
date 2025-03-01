@@ -1,4 +1,4 @@
-111/L. §[^168] (1) A miniszter az adópolitikáért való felelőssége keretében előkészíti az államháztartás alrendszereit illető befizetési kötelezettségekre, az adózás rendjére, a vámjog és vámeljárás szabályozására, valamint a Nemzeti Adó- és Vámhivatalra vonatkozó jogszabályokat.
+111/L. §[^169] (1) A miniszter az adópolitikáért való felelőssége keretében előkészíti az államháztartás alrendszereit illető befizetési kötelezettségekre, az adózás rendjére, a vámjog és vámeljárás szabályozására, valamint a Nemzeti Adó- és Vámhivatalra vonatkozó jogszabályokat.
 
 (2) A miniszter az adópolitikáért való felelőssége keretében
 
@@ -12,4 +12,4 @@ d) gondoskodik az adótanácsadók, adószakértők, okleveles adószakértők n
 
 e) gondoskodik a vámjogi szakértői hatósági képzést lebonyolító képző szervek, a vámjogi szakértői hatósági vizsgán közreműködő vizsgabiztosok, valamint a vámtanácsadók és a vámügynökök nyilvántartásának vezetéséről.
 
-[^168]: A 111/L. §-t a 440/2024. (XII. 23.) Korm. rendelet 5. §-a iktatta be.
+[^169]: A 111/L. §-t a 440/2024. (XII. 23.) Korm. rendelet 5. §-a iktatta be.

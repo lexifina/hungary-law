@@ -1,3 +1,3 @@
-180. §[^252]
+180. §[^253]
 
-[^252]: A 180. §-t az 599/2023. (XII. 22.) Korm. rendelet 42. § l) pontja hatályon kívül helyezte.
+[^253]: A 180. §-t az 599/2023. (XII. 22.) Korm. rendelet 42. § l) pontja hatályon kívül helyezte.

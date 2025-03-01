@@ -1,4 +1,4 @@
-106. §[^145] A miniszter a nemzetközi pénzügyi kapcsolatokért való felelőssége keretében
+106. §[^146] A miniszter a nemzetközi pénzügyi kapcsolatokért való felelőssége keretében
 
 a) nemzetközi intézményekkel összefüggő gazdaságfejlesztési kérdésekben eljár,
 
@@ -14,4 +14,4 @@ f) koordinálja a Gazdasági Együttműködési és Fejlesztési Szervezetben fo
 
 g) javaslatot tesz a Gazdasági Együttműködési és Fejlesztési Szervezet melletti Magyar Állandó Képviseletet vezető nagykövet kinevezésére és felmentésére.
 
-[^145]: A 106. § a 440/2024. (XII. 23.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^146]: A 106. § a 440/2024. (XII. 23.) Korm. rendelet 3. §-ával megállapított szöveg.
