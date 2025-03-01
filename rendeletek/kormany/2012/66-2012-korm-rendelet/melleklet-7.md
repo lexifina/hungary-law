@@ -20,6 +20,6 @@
 
 | Ez a dokumentum 5 példányban készül, minden példányát eredeti bélyegzővel és eredeti aláírással kell ellátni. Az 1. példány a megrendelőnél marad. A 2. példány az átadónál marad. A 3., 4., 5. példány a szállítmánnyal visszakerül a megrendelőhöz. A megrendelő a 4., 5. példányt az átadónak 48 órán belül visszaküldi, aki az 5. példányt az NNGYK-nak küldi tovább. |
 
-7. melléklet a 66/2012. (IV. 2.) Korm. rendelethez[^180]
+7. melléklet a 66/2012. (IV. 2.) Korm. rendelethez[^182]
 
-[^180]: A 7. melléklet a 250/2017. (IX. 5.) Korm. rendelet 44. § (5) bekezdésével megállapított, a 334/2023. (VII. 20.) Korm. rendelet 25. § i) pontja szerint módosított szöveg.
+[^182]: A 7. melléklet a 250/2017. (IX. 5.) Korm. rendelet 44. § (5) bekezdésével megállapított, a 334/2023. (VII. 20.) Korm. rendelet 25. § i) pontja szerint módosított szöveg.
