@@ -12,7 +12,7 @@ d) a nemzetközi kapcsolatokban a légiközlekedéssel összefüggő érdekek é
 
 e) a légiközlekedés ágazati irányításához szükséges adatgyűjtés elrendelése;
 
-f) a légiközlekedés rendészeti feladatainak ellátása;
+f) a légiközlekedés rendészeti és nemzetbiztonsági feladatainak ellátása;
 
 g) a légiközlekedés védelmével összefüggő biztonsági feladatok meghatározása és a feladatok ellátásának koordinálása;
 
@@ -42,9 +42,9 @@ b) a d) és a p) pontban meghatározott feladatot a közlekedésért felelős mi
 
 c)
 
-d) az f) pontjában említett feladatot – a honvédelemért felelős miniszter által a légtér-szuverenitás védelme érdekében ellátott légvédelmi készenléti légtérfelügyelet kivételével – a rendészetért felelős miniszter és a közlekedésrendészetért felelős miniszter együttesen
+d) az f) pontjában említett feladatot – a honvédelemért felelős miniszter által a légtér-szuverenitás védelme érdekében ellátott légvédelmi készenléti légtérfelügyelet kivételével – a rendészetért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, a polgári hírszerzési tevékenység irányításáért felelős miniszter és a közlekedésrendészetért felelős miniszter együttesen;
 
-e) a h) pontjában említett feladatot a honvédelemért felelős miniszter a miniszterrel, a rendészetért felelős miniszterrel, valamint az adópolitikáért felelős miniszterrel együttesen;
+e) a h) pontjában említett feladatot a honvédelemért felelős miniszter a miniszterrel, a rendészetért felelős miniszterrel, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterrel, a polgári hírszerzési tevékenység irányításáért felelős miniszterrel, valamint az adópolitikáért felelős miniszterrel együttesen;
 
 f) az i) és az m) pontjában említett feladatot a miniszter a honvédelemért felelős miniszterrel együttesen;
 

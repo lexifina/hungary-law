@@ -4,9 +4,9 @@
 
 71. § A törvény alkalmazásában
 
-1. állami célú légiközlekedés: a honvédelmi, a vámhatósági és a rendvédelmi célú légiközlekedés, amely végezhető állami légjárművel, pilóta nélküli állami légijárművel, valamint polgári légijárművel, vagy pilóta nélküli légjárművel abban az esetben, ha a repülés honvédelmi, vámhatósági vagy rendvédelmi célt szolgál;
+1. állami célú légiközlekedés: a honvédelmi, a nemzetbiztonsági, a vámhatósági és a rendvédelmi célú légiközlekedés, amely végezhető állami légijárművel, pilóta nélküli állami légijárművel, valamint polgári légijárművel, vagy pilóta nélküli légijárművel abban az esetben, ha a repülés honvédelmi, nemzetbiztonsági, vámhatósági vagy rendvédelmi célt szolgál;
 
-2. állami légijármű: a honvédelemért felelős miniszter rendeletében meghatározott nyilvántartásba bejegyzett, honvédelmi, vám, rendvédelmi szervek vagy a rendvédelmi feladatot ellátó szervek céljára szolgáló légijármű;
+2. állami légijármű: a honvédelemért felelős miniszter rendeletében meghatározott nyilvántartásba bejegyzett, honvédelmi, vám, rendvédelmi szervek, a polgári nemzetbiztonsági szolgálatok vagy a rendvédelmi feladatot ellátó szervek céljára szolgáló légijármű;
 
 2a. külföldi állami légijármű: a nemzetközi polgári repülésről Chicagóban, az 1944. évi december hó 7. napján aláírt Egyezmény és az annak módosításáról szóló jegyzőkönyvek kihirdetéséről szóló 1971. évi 25. törvényerejű rendelet 3. cikk b) pontjában meghatározott, a katonai, a vám- és a rendőri szervek repülései céljára szolgáló külföldi légijármű, ide nem értve a külföldi állam- és kormányfők, kormánytagok és hasonlóan magas állami tisztséget viselő személyek szállítását végző légijárműveket;
 
@@ -122,7 +122,7 @@ g) veszélyes áru feladása légi úton történő továbbításra;
 
 41. közös felhasználású repülőtér: olyan, elsősorban az általános légiforgalomtól eltérő légijármű-mozgásokat kiszolgáló közforgalom számára nyitva nem álló repülőtér, amely kialakítása folytán rendelkezik a polgári légiközlekedés szabályainak megfelelő, polgári légiközlekedési tevékenység céljára szolgáló területtel, és amelyre eltérő rendelkezés hiányában az állami repülések céljára szolgáló repülőterekre vonatkozó jogszabályokat kell alkalmazni.
 
-42. pilóta nélküli állami légijármű: honvédelmi, vám, rendvédelmi vagy rendvédelmi feladatot ellátó szervek céljára szolgáló, a honvédelemért felelős miniszter rendeletében meghatározott nyilvántartásba felvett légijármű, továbbá a pilóta nélküli állami légijárművek repüléséről szóló kormányrendeletben meghatározott üzembentartó által üzemben tartott pilóta nélküli légijármű;
+42. pilóta nélküli állami légijármű: honvédelmi, nemzetbiztonsági, vám, rendvédelmi vagy rendvédelmi feladatot ellátó szervek céljára szolgáló, a honvédelemért felelős miniszter rendeletében meghatározott nyilvántartásba felvett légijármű, továbbá a pilóta nélküli állami légijárművek repüléséről szóló kormányrendeletben meghatározott üzembentartó által üzemben tartott pilóta nélküli légijármű;
 
 43. harmadik országbeli állampolgár: a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény 8. §-ában meghatározott személy.
 

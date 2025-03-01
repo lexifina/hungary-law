@@ -10,6 +10,6 @@
 
 (4) A repülések végrehajtásának részletes szabályait a miniszter a honvédelemért felelős miniszterrel egyetértésben rendeletben állapítja meg.
 
-(5) Az állami repülések céljára kijelölt légterekben végrehajtott repülések szabályait a honvédelemért felelős miniszter – a miniszterrel és a rendészetért felelős miniszterrel egyetértésben – rendeletben állapítja meg.
+(5) Az állami repülések céljára kijelölt légterekben végrehajtott repülések szabályait a honvédelemért felelős miniszter – a miniszterrel, a rendészetért felelős miniszterrel és a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterrel egyetértésben – rendeletben állapítja meg.
 
 (6) A repülőeszközzel folytatott repülések és az azokkal összefüggő tevékenységek végrehajtásának szabályait a miniszter rendeletben állapítja meg.

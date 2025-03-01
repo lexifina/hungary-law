@@ -44,4 +44,4 @@ g) az üzemben tartási engedély időbeli hatályát.
 
 (8) A polgári légiközlekedés tekintetében az üzemben tartás feltételeit az (1) bekezdés a) és c) pontjában és a (3) bekezdésben meghatározott esetekben a miniszter állapítja meg.
 
-(9) A (4) bekezdésben meghatározott esetben az üzemben tartás feltételeit a honvédelemért felelős miniszter a miniszterrel és a rendészetért felelős miniszterrel egyetértésben kiadott rendeletben állapítja meg.
+(9) A (4) bekezdésben meghatározott esetben az üzemben tartás feltételeit a honvédelemért felelős miniszter a miniszterrel, a rendészetért felelős miniszterrel és a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterrel egyetértésben kiadott rendeletben állapítja meg.
