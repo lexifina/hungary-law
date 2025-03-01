@@ -2,8 +2,8 @@
 
 ## MEGFELELŐSÉG
 
-## 23.[^38]
+## 23.[^39]
 
 38. §
 
-[^38]: A 23. alcímet (38–39. §) a 26/2022. (I. 28.) Korm. rendelet 17. § 11. pontja hatályon kívül helyezte.
+[^39]: A 23. alcímet (38–39. §) a 26/2022. (I. 28.) Korm. rendelet 17. § 11. pontja hatályon kívül helyezte.

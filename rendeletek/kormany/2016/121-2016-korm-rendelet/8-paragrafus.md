@@ -4,6 +4,6 @@
 
 ## 6. Az engedélyező hatóság jogai és kötelezettségei
 
-8. §[^25]
+8. §[^26]
 
-[^25]: A 8. §-t a 26/2022. (I. 28.) Korm. rendelet 17. § 6. pontja hatályon kívül helyezte.
+[^26]: A 8. §-t a 26/2022. (I. 28.) Korm. rendelet 17. § 6. pontja hatályon kívül helyezte.

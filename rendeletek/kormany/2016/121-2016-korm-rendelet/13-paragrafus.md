@@ -1,3 +1,3 @@
-13. §[^32]
+13. §[^33]
 
-[^32]: A 13. §-t a 26/2022. (I. 28.) Korm. rendelet 17. § 9. pontja hatályon kívül helyezte.
+[^33]: A 13. §-t a 26/2022. (I. 28.) Korm. rendelet 17. § 9. pontja hatályon kívül helyezte.
