@@ -1,0 +1,1 @@
+37. § A kihelyező szerv a külföldre vezénylés megszűnéséről, megszüntetéséről, valamint a más külföldi állomáshelyre történő áthelyezésről – amennyiben annak bekövetkezése előre látható – a tervezett időpontot legalább három hónappal megelőzően az összekötő tisztet írásban értesíti.

@@ -1,0 +1,1 @@
+54. § Az összekötő tisztet tárgyévi alap- és pótszabadsága vagy bármely okból történő ideiglenes hazatérése alatt – a betegség miatti hazatérés kivételével – a devizaellátmány változatlan összegben megilleti.

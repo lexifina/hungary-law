@@ -1,0 +1,1 @@
+17. § A Pnbjt. 45. § (1) bekezdésében meghatározott szervhez szolgálati beosztásba történő vezénylés a nemzetbiztonsági állomány tagja szolgálati viszonyából fakadó kötelezettségeit és jogosultságait nem érinti.
