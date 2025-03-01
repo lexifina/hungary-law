@@ -30,6 +30,6 @@ b) a rendvédelmi szervek hivatásos vagy szerződéses állományú tagjára,
 
 c) a nemzetbiztonsági szolgálatok hivatásos állományú tagjára,
 
-d) a b) és c) pont szerinti szervek munkavállalójára és rendvédelmi igazgatási alkalmazottjára, valamint
+d) a b) pont szerinti szervek munkavállalójára és rendvédelmi igazgatási alkalmazottjára, illetve a c) pont szerinti szerv nemzetbiztonsági alkalmazottjára, valamint
 
 e) az Országgyűlési Őrség hivatásos állományú tagjára, köztisztviselőjére és munkavállalójára.
