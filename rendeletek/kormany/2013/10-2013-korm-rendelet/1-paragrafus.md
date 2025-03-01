@@ -18,7 +18,7 @@ c)[^4] a honvéd tisztjelöltek kivételével a honvédek jogállásáról szól
 
 (4) A rendelet 13. §-ának, 20. § (2) bekezdésének a hatálya az (1) bekezdés b) pontjában foglaltakra terjed ki.
 
-(5)[^5] A rendelet 14. §-ának a hatálya az (1) bekezdés c) pontjában foglaltakra terjed ki, a rendelet 25. § (4) bekezdésének a hatálya az (1) bekezdés c) pontjában foglaltakra és az Információs Hivatal hivatásos állománya tagjára terjed ki.
+(5)[^5] A rendelet 14. §-ának a hatálya az (1) bekezdés c) pontjában foglaltakra terjed ki.
 
 (6)[^6]
 
@@ -26,5 +26,5 @@ c)[^4] a honvéd tisztjelöltek kivételével a honvédek jogállásáról szól
 [^2]: Az 1. § a) pontja a 89/2019. (IV. 23.) Korm. rendelet 13. §-a szerint módosított szöveg.
 [^3]: Az 1. § (1) bekezdés b) pontja a 157/2015. (VI. 25.) Korm. rendelet 38. §-ával megállapított szöveg.
 [^4]: Az 1. § (1) bekezdés c) pontja a 176/2024. (VII. 7.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^5]: Az 1. § (5) bekezdése az 552/2013. (XII. 31.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^5]: Az 1. § (5) bekezdése az 552/2013. (XII. 31.) Korm. rendelet 19. § (1) bekezdésével megállapított, a 24/2025. (II. 27.) Korm. rendelet 48. § a) pontja szerint módosított szöveg.
 [^6]: Az 1. § (6) bekezdését a 479/2013. (XII. 17.) Korm. rendelet 23. § (1) bekezdése iktatta be, hatályon kívül helyezte a 671/2020. (XII. 28.) Korm. rendelet 28. §-a.

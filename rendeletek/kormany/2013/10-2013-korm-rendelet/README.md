@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-10-20-2
 | 2022-08-12 | 2013-10-20-22.14 | 70/2015. (III. 30.) Korm. rendelet |
 | 2024-03-22 | 2013-10-20-22.15 | 63/2024. (III. 21.) Korm. rendelet |
 | 2024-07-08 | 2013-10-20-22.16 | 176/2024. (VII. 7.) Korm. rendelet |
+| 2025-03-01 | 2013-10-20-22.17 | 552/2013. (XII. 31.) Korm. rendelet |
