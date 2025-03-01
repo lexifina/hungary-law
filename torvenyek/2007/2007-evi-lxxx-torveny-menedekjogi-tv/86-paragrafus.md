@@ -46,4 +46,4 @@ i) a nyugdíj-biztosítási és egészségbiztosítási nyilvántartásból;
 
 j) az egységes szociális nyilvántartásból;
 
-k) az e törvényben meghatározott szakhatósági eljárásokon túl Magyarország rendvédelmi- és nemzetbiztonsági szerveitől.
+k) az e törvényben meghatározott szakhatósági eljárásokon túl Magyarország rendvédelmi szerveitől és nemzetbiztonsági szolgálataitól.
