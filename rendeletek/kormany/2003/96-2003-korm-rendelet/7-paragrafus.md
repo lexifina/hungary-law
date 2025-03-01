@@ -28,7 +28,7 @@ jogosult.
 
 (5)[^39] Az egészségügyi közszolgáltatások nyújtásának engedélyezését a több, ugyanazon egészségügyi államigazgatási szerv illetékességébe tartozó telephelyen ellátást nyújtó egészségügyi szolgáltató számára egy eljárásban, telephelyenként kell lefolytatni, és az engedélyeket egy okiratba kell foglalni.
 
-(6)[^40] Az egészségügyi szolgáltató a Magyar Honvédség, a Nemzeti Adó- és Vámhivatal és a rendvédelmi szervek számára nyújtott egészségügyi szolgáltatás esetén a Magyar Honvédség, a Nemzeti Adó- és Vámhivatal és a rendvédelmi szervek egészségügyi szakmai szerve véleményének kikérését követően nyújtja be kérelmét az engedélyezési eljárás lefolytatásához.
+(6)[^40] Az egészségügyi szolgáltató a Magyar Honvédség, a Nemzeti Adó- és Vámhivatal, a polgári nemzetbiztonsági szolgálatok és a rendvédelmi szervek számára nyújtott egészségügyi szolgáltatás esetén a Magyar Honvédség, a Nemzeti Adó- és Vámhivatal, a polgári nemzetbiztonsági szolgálatok és a rendvédelmi szervek egészségügyi szakmai szerve véleményének kikérését követően nyújtja be kérelmét az engedélyezési eljárás lefolytatásához.
 
 (6a)[^41] A sejtbanki, biobanki, klinikai genetika, genetikai tanácsadás, molekuláris genetikai laboratóriumi diagnosztika szakmák működési engedélyezési eljárása során az országos tisztifőorvos megkéri az Egészségügyi Tudományos Tanács Humán Reprodukciós Bizottságának szakmai véleményét. A működési engedélyt az eljáró hatóság a jogszabályban előírt feltételek teljesítésének vizsgálata mellett az Egészségügyi Tudományos Tanács Humán Reprodukciós Bizottságának véleménye alapján adja ki.
 
@@ -52,7 +52,7 @@ jogosult.
 [^37]: A 7. § (4) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 32. § c) pontja, a 70/2015. (III. 30.) Korm. rendelet 60. § (2) bekezdés a) pontja, a 379/2016. (XII. 2.) Korm. rendelet 56. § (3) bekezdés a) pontja, a 286/2023. (VI. 30.) Korm. rendelet 26. § b) pontja szerint módosított szöveg.
 [^38]: A 7. § (4a) bekezdését a 325/2011. (XII. 28.) Korm. rendelet 34. § (1) bekezdése iktatta be, szövege a 286/2023. (VI. 30.) Korm. rendelet 16. § (3) bekezdésével megállapított szöveg.
 [^39]: A 7. § (5) bekezdése a 286/2023. (VI. 30.) Korm. rendelet 16. § (3) bekezdésével megállapított szöveg.
-[^40]: A 7. § (6) bekezdése a 447/2012. (XII. 29.) Korm. rendelet 30. § (3) bekezdésével megállapított szöveg.
+[^40]: A 7. § (6) bekezdése a 447/2012. (XII. 29.) Korm. rendelet 30. § (3) bekezdésével megállapított, a 24/2025. (II. 27.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
 [^41]: A 7. § (6a) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 53. §-a iktatta be, szövege a 192/2015. (VII. 21.) Korm. rendelet 34. § a) pontja, a 379/2016. (XII. 2.) Korm. rendelet 56. § (3) bekezdés a) pontja, a 286/2023. (VI. 30.) Korm. rendelet 27. § a) pontja szerint módosított szöveg.
 [^42]: A 7. § (7) bekezdését a 325/2011. (XII. 28.) Korm. rendelet 34. § (2) bekezdése iktatta be, a 286/2023. (VI. 30.) Korm. rendelet 27. § b) pontja hatályon kívül helyezte.
 [^43]: A 7. § (8) bekezdését a 325/2011. (XII. 28.) Korm. rendelet 34. § (2) bekezdése iktatta be.

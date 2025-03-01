@@ -4,9 +4,9 @@
 
 (3) Az (1) és (2) bekezdés szerinti ellenőrzést és hatósági eljárást
 
-a) alapellátást vagy önálló járóbeteg-szakellátást nyújtó egészségügyi szolgáltatók esetében a járási hivatal, rendvédelmi szervek által működtetett alapellátást vagy önálló járóbeteg-szakellátást nyújtó egészségügyi szolgáltatók esetében a Rendvédelmi Közegészségügyi-Járványügyi Szolgálat,
+a)[^146] alapellátást vagy önálló járóbeteg-szakellátást nyújtó egészségügyi szolgáltatók esetében a járási hivatal, a polgári nemzetbiztonsági szolgálat és a rendvédelmi szervek által működtetett alapellátást vagy önálló járóbeteg-szakellátást nyújtó egészségügyi szolgáltatók esetében a Rendvédelmi Közegészségügyi-Járványügyi Szolgálat,
 
-b)[^146] fekvőbeteg-szakellátást, egynapos sebészeti ellátást, dializáló tevékenységet végző egészségügyi szolgáltatók esetében a népegészségügyi feladatkörben eljáró fővárosi és vármegyei kormányhivatal,
+b)[^147] fekvőbeteg-szakellátást, egynapos sebészeti ellátást, dializáló tevékenységet végző egészségügyi szolgáltatók esetében a népegészségügyi feladatkörben eljáró fővárosi és vármegyei kormányhivatal,
 
 c) ha járványügyi helyzet indokolttá teszi, az országos tisztifőorvos az a) és b) pontban felsorolt hatóságokkal együttműködésben
 
@@ -30,4 +30,5 @@ végzi a hatóság, és szükség esetén intézkedik, vagy szakmai javaslatot t
 
 [^144]: A 16/A. §-t a 164/2018. (IX. 11.) Korm. rendelet 1. §-a iktatta be.
 [^145]: A 16/A. § (2) bekezdése a 713/2020. (XII. 30.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
-[^146]: A 16/A. § (3) bekezdés b) pontja a 286/2023. (VI. 30.) Korm. rendelet 26. § a) pontja szerint módosított szöveg.
+[^146]: A 16/A. § (3) bekezdés a) pontja a 24/2025. (II. 27.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
+[^147]: A 16/A. § (3) bekezdés b) pontja a 286/2023. (VI. 30.) Korm. rendelet 26. § a) pontja szerint módosított szöveg.

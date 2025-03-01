@@ -45,3 +45,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-96-20-2
 | 2023-08-01 | 2003-96-20-22.54 | 520/2013. (XII. 30.) Korm. rendelet |
 | 2024-07-01 | 2003-96-20-22.55 | 12/2005. (I. 26.) Korm. rendelet |
 | 2025-01-01 | 2003-96-20-22.56 | 463/2024. (XII. 30.) Korm. rendelet |
+| 2025-03-01 | 2003-96-20-22.57 | 447/2012. (XII. 29.) Korm. rendelet |
