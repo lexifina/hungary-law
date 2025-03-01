@@ -18,4 +18,6 @@ h) piacbefolyásolással
 
 van összefüggésben.
 
+(1a) A Rendőrségről szóló 1994. évi XXXIV. törvény 69. § (3) és (4) bekezdésében, a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 58. § (3) bekezdésében vagy a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 262. § (3)–(5) bekezdésében meghatározottak szerinti adatkérés esetén a befektetési vállalkozás vagy árutőzsdei szolgáltató az ügyészség engedélye nélkül is köteles az általa kezelt, értékpapírtitoknak minősülő adatokra vonatkozó adatkérést teljesíteni. A Be. 262/A. §-a szerinti adatkérés esetén a befektetési vállalkozás vagy az árutőzsdei szolgáltató az ügyészségnek az ügyfélre vagy az értékpapír-szerződésre vonatkozó külön engedélye nélkül is köteles az általa kezelt, értékpapírtitoknak minősülő adatokra vonatkozó adatkérést teljesíteni.
+
 (2) A 118. § (3) bekezdésének e), g) és h) pontja, valamint az (1) bekezdésben foglaltak szerint történő adatátadásról az érintett ügyfél nem tájékoztatható.

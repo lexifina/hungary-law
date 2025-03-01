@@ -113,15 +113,3 @@ b) eléri a nyugdíjazását, akkor a befektetési vállalkozásnak a munkaviszo
 26a. A 18., 20. és 26. pont nem alkalmazandó
 
 a) arra a befektetési vállalkozásra, amelynek mérleg szerinti és mérlegen kívüli eszközeinek értéke az adott pénzügyi évet közvetlenül megelőző négyéves időszakban átlagosan legfeljebb százmillió euró,
-
-b) arra a személyre, akinek éves teljesítményjavadalmazása legfeljebb ötvenezer euró, és nem teszi ki ezen személy teljes éves javadalmazásának több mint egynegyedét.
-
-27. A befektetési vállalkozás ellenőrzési feladatokat végző munkavállalói javadalmazása független az általuk felügyelt szervezeti egységek teljesítményétől, az a feladatkörükhöz kapcsolódó célkitűzések elérésén alapul.
-
-28. Az ellenőrzési feladatokat (ideértve a belső kontroll funkciót is) és a kockázatkezelési feladatokat végző munkavállalóknak a javadalmazását – a 29. pontban meghatározott eltéréssel – a felügyelő bizottság felügyeli, kivéve, ha a befektetési vállalkozás javadalmazási bizottságot állít fel.
-
-29. Ha a befektetési vállalkozás javadalmazási bizottságot állít fel, akkor a javadalmazási bizottság a felelős az érintett munkavállalók javadalmazásának felügyeletéért.
-
-30. A befektetési vállalkozás vezető állású személye, munkavállalója nem köthet olyan fedezeti ügyletet, amely a javadalmazására vonatkozó szerződésben foglalt kockázatvállalás hatásait kiküszöbölné.
-
-31. Másik EGT-államban székhellyel rendelkező befektetési vállalkozás magyarországi fióktelepe a befektetési vállalkozás székhelye szerinti állam javadalmazásra vonatkozó jogszabályban foglalt szabályait alkalmazza.

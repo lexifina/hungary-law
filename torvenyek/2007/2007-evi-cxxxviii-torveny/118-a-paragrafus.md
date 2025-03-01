@@ -1,0 +1,1 @@
+118/A. § A törvényben meghatározott feladatok hatékony teljesítése érdekében a befektetési vállalkozás vagy az árutőzsdei szolgáltató a nyomozó hatósággal vagy az ügyészséggel együttműködési megállapodást köthet.
