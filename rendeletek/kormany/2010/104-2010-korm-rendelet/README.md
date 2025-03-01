@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-104-20-
 | --- | --- | --- |
 | 2010-04-10 | 2010-104-20-22.1 | 104/2010. (IV. 9.) Korm. rendelet |
 | 2014-09-05 | 2010-104-20-22.2 | 221/2014. (IX. 4.) Korm. rendelet |
+| 2025-03-01 | 2010-104-20-22.3 | 24/2025. (II. 27.) Korm. rendelet |
