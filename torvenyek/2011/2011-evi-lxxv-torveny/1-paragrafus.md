@@ -68,6 +68,8 @@ o) a rendvédelmi igazgatási alkalmazottak szolgálati jogviszonyát szabályoz
 
 p) az egészségügyi szolgálati jogviszonyról szóló törvény hatálya alá tartozó, egészségügyi szolgálati jogviszonyban álló személy.
 
+q) a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvény hatálya alá tartozó nemzetbiztonsági szolgálati jogviszonyban és nemzetbiztonsági alkalmazotti jogviszonyban álló személy.
+
 8. lakáshitel-szerződés: magyarországi lakóingatlanra alapított jelzálogjog – ideértve az önálló zálogjogként alapított jelzálogjogot is – fedezete mellett a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) 6. § (1) bekezdése szerinti fogyasztó és pénzügyi intézmény által kötött hitel- vagy kölcsönszerződés;
 
 9. lakóingatlan:
