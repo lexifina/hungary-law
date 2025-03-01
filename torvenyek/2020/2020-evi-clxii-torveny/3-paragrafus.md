@@ -20,4 +20,4 @@ kezelésére szolgáló személyügyi alapnyilvántartó és ügyviteli rendszer
 
 (4) Az (1) bekezdés a) és b) pontja szerinti rendszerelem nem alkalmazandó a Kit. 54. § (3) bekezdése szerint a nemzetbiztonsági szolgálatok állományából vezényelt, kirendelt személyekre, míg az (1) bekezdés c) pontja szerinti rendszerelemben ezen személyi kör vonatkozásában a Kit. 62/A. § (2a) bekezdésében szereplő kódot szükséges rögzíteni.
 
-(5) A polgári nemzetbiztonsági szolgálat és az Országgyűlési Őrség az (1) bekezdés d) pontja szerinti személyügyi alapnyilvántartó és ügyviteli rendszer alkalmazását bevezetheti.
+(5) Az Országgyűlési Őrség az (1) bekezdés d) pontja szerinti személyügyi alapnyilvántartó és ügyviteli rendszer alkalmazását bevezetheti.

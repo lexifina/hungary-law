@@ -22,4 +22,4 @@ egészségügyi szolgáltatónál foglalkoztatottak vonatkozásában azzal, hogy
 
 (4) Az adatgyűjtő modul működését 2021. július 1-jén kezdi meg a 2. § e) pontja szerinti foglalkoztatottak vonatkozásában.
 
-(5) A polgári nemzetbiztonsági szolgálat vonatkozásában 2022. december 31-ig szükséges kidolgozni a 3. § (1) bekezdés a) és b) pontja szerinti rendszerelem működésének olyan modelljét, amely az adatgyűjtő modul és a statisztikai modul elszigetelt működtetése révén lehetővé teszi a statisztikai adatok elkülönítetten történő lekérdezésének lehetőségét.
+(5)
