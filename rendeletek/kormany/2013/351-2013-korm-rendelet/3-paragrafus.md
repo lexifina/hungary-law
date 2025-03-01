@@ -4,7 +4,7 @@ a) egészségügyi intézményben vagy egészségügyi intézménybe (intézmén
 
 b)[^4] mentőszolgáltató mentőfeladatot teljesítő járművén következett be, a halál bekövetkezésének tényét a mentőegység orvosa vagy a mentőtiszt állapítja meg, a helyszíni halottvizsgálat további teendőit a mentőorvos, helyszíni halottvizsgálatot végző mentőtiszt, ennek hiányában a haláleset helyéhez legközelebb eső, patológiai osztállyal rendelkező fekvőbeteg-gyógyintézet e feladattal megbízott orvosa;
 
-c)[^5] a honvédelmi szervezet, rendvédelmi szerv vagy a Nemzeti Adó- és Vámhivatal fegyveres rendvédelmi feladatokat is ellátó szervezetének felügyelete alá tartozó területen, épületben, zárt alakulaton belül következett be, a helyszíni halottvizsgálatot – a haláleset helyétől függően – a honvédelmi szervezet, a rendvédelmi szerv vagy a Nemzeti Adó- és Vámhivatal egészségügyi szolgálatának orvosa, ha az nem áll rendelkezésre, a haláleset helye szerint illetékes háziorvos, vagy ezen szolgálat ügyeletes orvosa;
+c)[^5] a honvédelmi szervezet, polgári nemzetbiztonsági szolgálat, rendvédelmi szerv vagy a Nemzeti Adó- és Vámhivatal fegyveres rendvédelmi feladatokat is ellátó szervezetének felügyelete alá tartozó területen, épületben, zárt alakulaton belül következett be, a helyszíni halottvizsgálatot – a haláleset helyétől függően – a honvédelmi szervezet, a polgári nemzetbiztonsági szolgálat, a rendvédelmi szerv vagy a Nemzeti Adó- és Vámhivatal egészségügyi szolgálatának orvosa, ha az nem áll rendelkezésre, a haláleset helye szerint illetékes háziorvos, vagy ezen szolgálat ügyeletes orvosa;
 
 d)[^6] közterületen, járművön – ide nem értve az a) és b) pont szerinti esetet – vagy egyéb nyilvános helyen következett be, a helyszíni halottvizsgálatot a haláleset helye vagy a holttest járműről való leemelésének helye szerint illetékes háziorvos, illetve ezen szolgálat ügyeletes orvosa vagy a helyszínre érkező, feladatkörében eljáró helyszíni halottvizsgálatot végző mentőtiszt;
 
@@ -49,7 +49,7 @@ meg nem történik.
 (6)[^9] Nem kell ismeretlennek tekinteni az elhunytat abban az esetben, ha a személyazonosság igazolására alkalmas okiratának érvényességi ideje lejárt, de az abban foglalt adatok alapján az elhunyt személyazonossága egyértelműen megállapítható.
 
 [^4]: A 3. § (1) bekezdés b) pontja a 377/2023. (VIII. 10.) Korm. rendelet 18. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^5]: A 3. § (1) bekezdés c) pontja a 377/2023. (VIII. 10.) Korm. rendelet 18. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^5]: A 3. § (1) bekezdés c) pontja a 377/2023. (VIII. 10.) Korm. rendelet 18. § (1) bekezdés c) pontja, a 24/2025. (II. 27.) Korm. rendelet 51. §-a szerint módosított szöveg.
 [^6]: A 3. § (1) bekezdés d) pontja a 377/2023. (VIII. 10.) Korm. rendelet 18. § (1) bekezdés d) pontja szerint módosított szöveg.
 [^7]: A 3. § (1) bekezdés f) pontja a 377/2023. (VIII. 10.) Korm. rendelet 18. § (1) bekezdés e) pontja szerint módosított szöveg.
 [^8]: A 3. § (5) bekezdését a 377/2023. (VIII. 10.) Korm. rendelet 7. §-a iktatta be.
