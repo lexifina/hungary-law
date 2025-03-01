@@ -9,3 +9,5 @@
 a) a hősi halott özvegye és szülője esetében a kiegészítő hozzátartozói támogatásra való jogosultság elbírálása, valamint
 
 b) a kiegészítő támogatás összegének megállapítása
+
+iránt.

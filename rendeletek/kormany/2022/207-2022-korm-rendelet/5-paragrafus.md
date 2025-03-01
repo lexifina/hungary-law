@@ -1,5 +1,3 @@
-## iránt.
-
 5. § (1) A miniszter a nyugdíj-megállapító szerv részére – a támogatás típusától függően – az alábbi iratokat küldi meg:
 
 a) a Hszt. 261/B. § (1) bekezdés a) pontja szerinti kiegészítő támogatásra való jogosultság és a kiegészítő támogatás mértékének forintban történő megállapításához a hősi halottá nyilvánítás tényét igazoló miniszteri dokumentumot,
