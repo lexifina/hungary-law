@@ -12,7 +12,7 @@
 
 (5)[^12] Az állami vezető a juttatásokat a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) 196. § (5) bekezdése, 202. § (5) bekezdése, 224. § (2) bekezdése szerint kiállított igazolvánnyal veheti igénybe. A főispán az őt megillető juttatásokat a Kit. 207. § (4) bekezdése szerint igazolvánnyal veheti igénybe.
 
-(6)[^13] Az állami vezető az (5) bekezdés szerint kiállított igazolvány felmutatásával – álláshelyén ellátandó feladataival összefüggésben – valamennyi közigazgatási szervhez, közintézethez és közintézményhez beléphet. Az állami vezető a feladatkörrel rendelkező miniszter által szabályozott módon léphet be a rendvédelmi szervek és a Nemzeti Adó- és Vámhivatal vámszervei és nyomozóhatósági feladatot ellátó szervei épületébe, valamint a Magyar Honvédség működésére szolgáló területre. E jogosultság gyakorlása nem eredményezheti az érintett szervek rendeltetésszerű működésének aránytalan sérelmét.
+(6)[^13] Az állami vezető az (5) bekezdés szerint kiállított igazolvány felmutatásával – álláshelyén ellátandó feladataival összefüggésben – valamennyi közigazgatási szervhez, közintézethez és közintézményhez beléphet. Az állami vezető a feladatkörrel rendelkező miniszter által szabályozott módon léphet be a rendvédelmi szervek, a polgári nemzetbiztonsági szolgálatok és a Nemzeti Adó- és Vámhivatal vámszervei és nyomozóhatósági feladatot ellátó szervei épületébe, valamint a Magyar Honvédség működésére szolgáló területre. E jogosultság gyakorlása nem eredményezheti az érintett szervek rendeltetésszerű működésének aránytalan sérelmét.
 
 (7)[^14] A miniszterelnök – a Miniszterelnöki Kormányiroda közigazgatási államtitkára útján – egyéni elbírálás alapján, egyedileg is engedélyezheti az e rendelet szerinti juttatásokat a 2–3/A. §-ban meghatározott személyeknek, valamint a Kormány által felügyelt, a Kormány vagy a Kormány tagja irányítása alá tartozó államigazgatási szervnél foglalkoztatott vezetői munkakört vagy szakmai felsővezetői vagy vezetői álláshelyet betöltő kormánytisztviselő, továbbá a politikai főtanácsadó és a politikai tanácsadó részére. Ebben az esetben nem kell az 5/A. § és a 8. § (2) bekezdése szerinti engedélyt beszerezni.
 
@@ -22,5 +22,5 @@
 [^10]: A 4. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 146. § (16) bekezdése b) pontja, a 183/2022. (V. 24.) Korm. rendelet 6. § (4) bekezdés b) pontja, az 57/2024. (III. 13.) Korm. rendelet 10. §-a szerint módosított szöveg.
 [^11]: A 4. § (4) bekezdése a 306/2015. (X. 26.) Korm. rendelet 17. §-a szerint módosított szöveg.
 [^12]: A 4. § (5) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 146. § (5) bekezdésével megállapított, a 309/2022. (VIII. 11.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
-[^13]: A 4. § (6) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 146. § (5) bekezdésével megállapított szöveg.
+[^13]: A 4. § (6) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 146. § (5) bekezdésével megállapított, a 24/2025. (II. 27.) Korm. rendelet 60. §-a szerint módosított szöveg.
 [^14]: A 4. § (7) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 146. § (6) bekezdésével megállapított szöveg.
