@@ -28,7 +28,7 @@ i) a személyi jövedelemadó meghatározott részének az adózó rendelkezése
 
 j) az állami adó- és vámhatóság engedélye alapján utólagos illetékfizetésre jogosult gazdálkodó szervezet megnevezését, székhelyét, adószámát, az engedély számát és időbeli hatályát,
 
-k) az általa nyilvántartott, adószámmal rendelkező, általános forgalmiadó-alanynak minősülő adózó, valamint a csoportos általános forgalmi adóalanyiságot választó – kivéve a Magyar Honvédséget és a rendvédelmi feladatokat ellátó szerveket – az adóhatóság nyilvántartásában szereplő foglalkoztatottainak létszámát,
+k) az általa nyilvántartott, adószámmal rendelkező, általános forgalmiadó-alanynak minősülő adózó, valamint a csoportos általános forgalmi adóalanyiságot választó – kivéve a Magyar Honvédséget, a polgári nemzetbiztonsági szolgálatokat és a rendvédelmi feladatokat ellátó szerveket – az adóhatóság nyilvántartásában szereplő foglalkoztatottainak létszámát,
 
 l) folyamatosan azon adózónak a nevét, elnevezését, lakóhelyét, székhelyét, telephelyét, adószámát, aki áfabevallási kötelezettségének több mint két – egymást követő, a rá irányadó – bevallási időszakon keresztül nem tesz eleget,
 

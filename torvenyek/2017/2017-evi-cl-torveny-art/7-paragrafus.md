@@ -130,7 +130,7 @@ c) az államháztartás alrendszereinek költségvetése terhére jogosulatlanul
 
 a) a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) szerinti munkaviszony, továbbá minden olyan munkavégzésre létesített jogviszony, amelyre törvény szerint az Mt. rendelkezéseit is alkalmazni kell, illetve a munkavégzésre irányuló törvényben szabályozott egyéb jogviszonyok,
 
-b) a Magyar Honvédség hivatásos és szerződéses, valamint tényleges szolgálatot teljesítő önkéntes tartalékos állományának szolgálati jogviszonya, és a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonya,
+b) a Magyar Honvédség hivatásos és szerződéses, valamint tényleges szolgálatot teljesítő önkéntes tartalékos állományának szolgálati jogviszonya, és a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonya, valamint a polgári nemzetbiztonsági szolgálatok hivatásos állományának szolgálati jogviszonya,
 
 c) az egyházi személy foglalkoztatásának alapjául szolgáló jogviszony,
 
