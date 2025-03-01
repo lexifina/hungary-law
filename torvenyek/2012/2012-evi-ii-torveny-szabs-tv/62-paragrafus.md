@@ -10,8 +10,16 @@
 
 (5) A (3) bekezdésben meghatározott figyelmeztetéseket a tizennyolcadik életévét be nem töltött tanú korára és érettségére figyelemmel, számára érthető módon kell megfogalmazni. A tizennegyedik életévét be nem töltött személy meghallgatása esetén mellőzni kell a hamis tanúzás és a hamis vád jogkövetkezményeire való figyelmeztetést.
 
-(6) A tizennyolcadik életévét be nem töltött tanú meghallgatásán törvényes képviselője is részt vehet.
+(6) A tizennyolcadik életévét be nem töltött tanú meghallgatására a törvényes képviselő jelenlétében kerül sor, kivéve, ha
+
+a) a törvényes képviselő érdekei a tanú érdekeivel ellentétesek,
+
+b) a törvényes képviselő a jogainak gyakorlásában akadályozva van, vagy
+
+c) nincs törvényes képviselője, illetve nem állapítható meg, hogy ki a törvényes képviselője.
+
+(6a) A (6) bekezdés a)–c) pontja szerinti esetekben a gyámhatóság eseti gyámot rendel ki, akit a kiskorú tanú meghallgatásának időpontjára idézni kell.
 
 (7) A még meg nem hallgatott tanú nem lehet jelen az eljárás alá vont személy, más tanú és a szakértő meghallgatásakor. A tanú meghallgatásán nem lehet jelen az eljárás alá vont személy és az eljárás egyéb résztvevője, ha a tanú minősített adatról tesz vallomást. Ha elrendelték a tanú adatainak zártan kezelését, az eljárás alá vont személy a tanú meghallgatásán csak akkor lehet jelen, ha a tanú ehhez hozzájárul. Az így kizárt eljárás alá vont személyt a meghallgatást követően értesíteni kell arról, hogy a meghallgatás során távollétében történteket megismerheti.
 
-(8) A kiskorút a törvényes képviselője útján kell idézni, illetve értesíteni, idézés esetén azzal a felhívással, hogy a törvényes képviselő a megjelenéséről gondoskodjék.
+(8) Kiskorút a törvényes képviselője útján kell idézni, illetve értesíteni, továbbá a kiskorú tanú törvényes képviselőjét a meghallgatásról, illetve a tárgyalásról azzal a felhívással kell idézni, hogy a törvényes képviselő a kiskorú megjelenéséről gondoskodjék. Ha a törvényes képviselő megjelenésének akadálya van, a gyámhatóság a (6a) bekezdés szerint jár el.

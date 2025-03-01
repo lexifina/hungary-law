@@ -6,7 +6,7 @@
 
 (3) Kísérlet miatt akkor van helye felelősségre vonásnak, ha a szabálysértést meghatározó jogszabály így rendelkezik.
 
-(4) Nem állapítható meg szabálysértés, ha a tevékenység vagy a mulasztás bűncselekményt valósít meg, úgyszintén, ha a tevékenységre vagy mulasztásra törvény vagy kormányrendelet – az eljárási bírság kivételével – közigazgatási eljárásban kiszabható bírság alkalmazását rendeli el.
+(4) Nem állapítható meg szabálysértés, ha a tevékenység vagy mulasztás bűncselekményt valósít meg, úgyszintén, ha a tevékenységre vagy mulasztásra törvény vagy önkormányzati rendelet – az eljárási bírság kivételével – közigazgatási eljárásban kiszabható bírság alkalmazását rendeli el.
 
 (5) Nem lehet a szabálysértési felelősséget megállapítani olyan cselekmény miatt, amelyet jogszabály az elkövetés idején nem rendelt szabálysértésként büntetni.
 

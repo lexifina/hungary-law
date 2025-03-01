@@ -76,6 +76,8 @@ b) egyéb esetekben a végrehajtást foganatosító szabálysértési hatóság 
 
 (7) Ha az iratok alapján a bíróság az átváltoztatás törvényi feltételének hiányát állapítja meg, a bíróság tárgyalás tartása nélkül hozott végzésével az átváltoztatást mellőzi, ha pedig az alapeljárásban vagy a végrehajtás során törvénysértés merült fel, végzésében egyúttal a (13) bekezdés d), illetve e) pontjában foglaltak szerint rendelkezik. A helyszíni bírság hatályon kívül helyezésének kizárólag a 99/A. § (3) bekezdésében foglalt jogsértés esetében van helye.
 
+(7a) Ha az ügyész arról tájékoztatja a bíróságot, hogy a 99/A. § (4a) bekezdése alapján a helyszíni bírság felülvizsgálatát kezdeményezte, a bíróság az elzárásra átváltoztatást mellőzi, amelyről az ügyészt, a szabálysértési hatóságot és az elkövetőt értesíti.
+
 (8) Ha a (7) bekezdés szerinti döntés meghozatalának nincs helye, a bíróság a meg nem fizetett pénzbírság, helyszíni bírság szabálysértési elzárásra átváltoztatásáról az iratok bíróságra érkezésétől számított negyvenöt napon belül dönt. A bíróság e végzésével szemben nincs helye jogorvoslatnak.
 
 (9) A bíróság az iratok bíróságra érkezésétől számított öt napon belül végzést hoz, amelyben közli az elkövetővel az átváltoztatás iránti indítvány tényét, egyúttal az önkéntes megfizetés teljesítése érdekében

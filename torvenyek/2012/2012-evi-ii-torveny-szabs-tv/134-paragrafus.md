@@ -6,7 +6,7 @@
 
 (2) Ha az eljárás adatai alapján a fiatalkorúval szemben előreláthatólag szabálysértési elzárás, közérdekű munka vagy pénzbírság kiszabására kerül sor, a meghallgatásától nem lehet eltekinteni.
 
-(3) A fiatalkorú törvényes képviselőjét, gondozóját a meghallgatásról, illetve a tárgyalásról azzal a felhívással kell értesíteni, hogy a fiatalkorú megjelenéséről gondoskodjék. Amennyiben a törvényes képviselő megjelenésének akadálya van, a gyámhatóság képviselőjét kell a fiatalkorú meghallgatásának időpontjáról értesíteni.
+(3) A fiatalkorú törvényes képviselőjét, gondozóját a meghallgatásról, illetve a tárgyalásról azzal a felhívással kell idézni, hogy a fiatalkorú megjelenéséről gondoskodjék. Ha a törvényes képviselő megjelenésének akadálya van, a gyámhatóság eseti gyámot rendel ki, akit a fiatalkorú meghallgatásának időpontjára idézni kell.
 
 (4) A fiatalkorú meghallgatására a törvényes képviselője jelenlétében kerül sor, kivéve, ha:
 

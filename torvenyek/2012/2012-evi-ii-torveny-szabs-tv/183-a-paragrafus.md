@@ -14,7 +14,7 @@ szabálysértést követ el.
 
 (2) Aki közterületen, mások előtt
 
-a) a rendvédelmi szervek, illetve a Magyar Honvédség rendszeresített egyenruháját, azonosításra szolgáló jelvényét, ezek megtévesztésre alkalmas utánzatát jogosulatlanul viseli, továbbá az e szervekre utaló feliratot, matricát ruháján vagy járművén jogosulatlanul feltüntet,
+a) a rendvédelmi szervek, a polgári nemzetbiztonsági szolgálatok, illetve a Magyar Honvédség rendszeresített egyenruháját, azonosításra szolgáló jelvényét, ezek megtévesztésre alkalmas utánzatát jogosulatlanul viseli, továbbá az e szervekre utaló feliratot, matricát ruháján vagy járművén jogosulatlanul feltüntet,
 
 b) a vöröskereszt-mozgalomhoz tartozó vagy más humanitárius, illetve egészségügyi szervezetek jelvényeit jogosulatlanul használja, továbbá az e szervekre utaló feliratot, matricát ruháján vagy járművén jogosulatlanul feltüntet,
 

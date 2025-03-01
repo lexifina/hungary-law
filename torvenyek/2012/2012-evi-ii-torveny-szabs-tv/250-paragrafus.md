@@ -32,7 +32,7 @@ c) a szabálysértési nyilvántartó szerv által teljesített adatszolgáltat�
 
 d) az adópolitikáért felelős miniszter, a közigazgatás-szervezésért felelős miniszter, a közlekedésért felelős miniszter, a halgazdálkodásért felelős miniszter, az erdőgazdálkodásért felelős miniszter, a természetvédelemért felelős miniszter, az agrárpolitikáért felelős miniszter egyetértésével a helyszíni bírságolás végrehajtásának, a helyszíni bírságolást igazoló nyomtatvány kialakításának,
 
-e)
+e) az igazságügyért felelős miniszter és az államháztartásért felelős miniszter egyetértésével a tanú költségtérítésének,
 
 f) az igazságügyért felelős miniszter az államháztartásért felelős miniszter egyetértésével – ide nem értve az előállítás és elővezetés költsége mértékének megállapítását – a szabálysértési eljárásban elrendelt előállítás, valamint elővezetés végrehajtásával felmerült költség megtérítésének,
 
