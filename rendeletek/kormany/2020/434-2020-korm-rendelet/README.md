@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-434-20-
 | 2020-09-25 | 2020-434-20-22.2 | 2010: CXXX. törvény |
 | 2021-01-01 | 2020-434-20-22.3 | 672/2020. (XII. 28.) Korm. rendelet |
 | 2022-06-07 | 2020-434-20-22.4 | 200/2022. (VI. 7.) Korm. rendelet |
+| 2025-03-01 | 2020-434-20-22.5 | 24/2025. (II. 27.) Korm. rendelet |

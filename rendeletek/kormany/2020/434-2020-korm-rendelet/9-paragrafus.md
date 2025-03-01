@@ -18,7 +18,7 @@ ca) 12. életév betöltéséig 10%-a,
 
 cb) 12. életév betöltését követően 15%-a, ameddig a gyermek iskolai rendszerű oktatás keretében tanulmányokat folytat, de legfeljebb a gyermek 23. életévének betöltéséig.
 
-(3)[^4] Napidíjpótlék nem jár, ha a napidíjpótlékra jogosító személy a tárgyhónapban szerzett jövedelemmel rendelkezik. A jövedelem megszerzését a nemzeti szakértő írásban köteles bejelenteni a küldő közigazgatási szervnek legkésőbb a tárgyhónap 20. napjáig.
+(3)[^8] Napidíjpótlék nem jár, ha a napidíjpótlékra jogosító személy a tárgyhónapban szerzett jövedelemmel rendelkezik. A jövedelem megszerzését a nemzeti szakértő írásban köteles bejelenteni a küldő közigazgatási szervnek legkésőbb a tárgyhónap 20. napjáig.
 
 (4) A napidíjpótlék időarányosan jár a nemzeti szakértővel a foglalkoztatás helye szerinti országban együtt nem élő házastárs és gyermek alkalmi, 15 napot meghaladó látogatása esetén.
 
@@ -26,4 +26,4 @@ cb) 12. életév betöltését követően 15%-a, ameddig a gyermek iskolai rends
 
 (6) A napidíjpótlékot havonta utólag, legkésőbb a tárgyhónapot követő hónap 5. napján kell forintban, a nemzeti szakértő számlatulajdonos fizetési számlájára történő átutalással kifizetni. A nemzeti szakértőként történő foglalkoztatás megszűnése esetén a napidíjpótlék kifizethető a hazautazást megelőző öt munkanappal korábban.
 
-[^4]: A 9. § (3) bekezdése a 200/2022. (VI. 7.) Korm. rendelet 19. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító utasítás 18. §-át.
+[^8]: A 9. § (3) bekezdése a 200/2022. (VI. 7.) Korm. rendelet 19. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító utasítás 18. §-át.
