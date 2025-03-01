@@ -1,10 +1,14 @@
-## 13. [^62] Üzemzavar, üzemszünet, működési hiba
+## 13. [^61] Üzemzavar, üzemszünet, működési hiba
 
-22. §[^63] (1) Üzemszünet minden olyan előre tervezett technikai tevékenység, amely az EKR meghatározott szolgáltatásának vagy szolgáltatásainak az EKR üzemeltetője által közzétett és az elektronikus közbeszerzési rendszer fenntartásával és működtetésével kapcsolatos szabályokról szóló jogszabályban foglaltak szerint dokumentált szünetelését eredményezi.
+22. §[^62] (1) Üzemszünet minden olyan előre tervezett technikai tevékenység, amely az EKR meghatározott szolgáltatásának vagy szolgáltatásainak az EKR üzemeltetője által közzétett és az elektronikus közbeszerzési rendszer fenntartásával és működtetésével kapcsolatos szabályokról szóló jogszabályban foglaltak szerint dokumentált szünetelését eredményezi.
 
 (2) Üzemzavar az EKR üzemeltetője által megállapított és az elektronikus közbeszerzési rendszer fenntartásával és működtetésével kapcsolatos szabályokról szóló jogszabályban foglaltak szerint dokumentált, előre nem tervezett, az EKR korlátozott működőképességét, egy vagy több meghatározott szolgáltatásának szünetelését jelentő helyzet.
 
-(3) Működési hiba az EKR üzemeltetője által megállapított és az elektronikus közbeszerzési rendszer fenntartásával és működtetésével kapcsolatos szabályokról szóló jogszabályban foglaltak szerint dokumentált, az adott eljárás EKR-ben történő lefolytatása során felmerülő egyedi hiba, amely az EKR meghatározott funkciója vagy funkciói Kbt.-nek vagy végrehajtási rendeletének nem megfelelő működését eredményezi.
+(3)[^63] Működési hiba az EKR üzemeltetője által megállapított és az elektronikus közbeszerzési rendszer fenntartásával és működtetésével kapcsolatos szabályokról szóló jogszabályban foglaltak szerint dokumentált, adott eljárás vagy eljárások EKR-ben történő lefolytatása során felmerülő egyedi hiba, amely az EKR meghatározott funkciója vagy funkciói nem megfelelő működését eredményezi, és amely
+
+a) annak elhárításáig nem teszi lehetővé a működési hibával érintett eljárási cselekmény megtételét vagy az EKR használatát, vagy
+
+b) – amennyiben a hiba nem hárítható el – nem teszi lehetővé az eljárás Kbt.-nek vagy végrehajtási rendeletének megfelelő továbbfolytatását.
 
 (4) Nem minősül működési hibának
 
@@ -12,21 +16,21 @@ a) a kizárólag az ajánlatkérő vagy a gazdasági szereplő felelősségi kö
 
 b) az a hiba, mely abból ered, hogy az ajánlatkérő vagy a gazdasági szereplő nem az EKR megfelelő funkcióját használja, vagy az EKR valamely funkcióját nem megfelelően használja, és amelynek eredményeképpen a közbeszerzési eljárás jogszerűen nem folytatható le.
 
-(5) Az ajánlatkérő működési hiba esetén, az EKR üzemeltetője által a működési hiba elhárításáról szóló tájékoztatás közzétételét követően jogosult a működési hibával érintett eljárási cselekmény megismétlésére.
+(5)[^64] A (3) bekezdés a) pontja szerinti esetben, az EKR üzemeltetője által a működési hiba elhárításáról szóló tájékoztatás megküldését követően a működési hibával érintett eljárási cselekmény megismételhető.
 
-(6) Ha a működési hiba az ajánlatok vagy részvételi jelentkezések bontását megelőzően merül fel, és az EKR üzemeltetője
+(6)[^65] Az EKR működését, illetve a közbeszerzési eljárások EKR-ben történő lefolytatását támogató egyéb informatikai rendszereket vagy informatikai szolgáltatásokat érintő hiba vagy azok korlátozott működőképességét vagy szünetelését eredményező helyzet esetén, az ezen rendszerek üzemeltetője, illetve a szolgáltató köteles a hibáról vagy a korlátozott működést, szünetelést eredményező helyzetről az EKR üzemeltetőjét azok észlelését követően haladéktalanul tájékoztatni. Az EKR üzemeltetője a tájékoztatást az EKR honlapján és saját honlapján közzéteszi.
 
-a) a legalább százhúsz percig fennálló működési hibát az ajánlattételi vagy részvételi határidőt megelőző huszonnegyedik óráig, vagy
+(7)[^66]
 
-b) a működési hibát a felmerülésétől számított huszonnégy órán belül
+(8)[^67]
 
-nem hárítja el, az ajánlattételi vagy részvételi határidő nem jár le.
+(9)[^68]
 
-(7) Az ajánlattételi vagy részvételi határidő abban az esetben sem jár le, ha az ajánlatkérő által meghatározott ajánlattételi vagy részvételi határidőt közvetlenül megelőző hatvan percben működési hiba fordul elő, vagy ha a működési hiba az ajánlattételi vagy részvételi határidő lejártakor áll fenn.
-
-(8) A (6) és (7) bekezdés szerinti esetben a 16. § (2) és (2a) bekezdése megfelelően alkalmazandó.
-
-(9) Ha a működési hiba az ajánlatok vagy részvételi jelentkezések bontását követően következik be, a működési hibával érintett eljárási cselekmény megismétlésére a 17. §-t kell megfelelően alkalmazni.
-
-[^62]: A 13. alcím címe a 66/2019. (III. 27.) Korm. rendelet 33. §-ával megállapított szöveg.
-[^63]: A 22. § a 411/2023. (VIII. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^61]: A 13. alcím címe a 66/2019. (III. 27.) Korm. rendelet 33. §-ával megállapított szöveg.
+[^62]: A 22. § a 411/2023. (VIII. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^63]: A 22. § (3) bekezdése a 427/2024. (XII. 23.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^64]: A 22. § (5) bekezdése a 427/2024. (XII. 23.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^65]: A 22. § (6) bekezdése a 427/2024. (XII. 23.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^66]: A 22. § (7) bekezdését a 427/2024. (XII. 23.) Korm. rendelet 14. §-a hatályon kívül helyezte.
+[^67]: A 22. § (8) bekezdését a 427/2024. (XII. 23.) Korm. rendelet 14. §-a hatályon kívül helyezte.
+[^68]: A 22. § (9) bekezdését a 427/2024. (XII. 23.) Korm. rendelet 14. §-a hatályon kívül helyezte.
