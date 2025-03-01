@@ -28,7 +28,7 @@ a) a másolatot az ellenőrzött szerv készíti el,
 
 b) iratjegyzék kíséretében megküldi a Hivatal részére
 
-c)[^25] az iratjegyzék valamennyi csatolt dokumentumot tételesen tartalmazza és
+c)[^26] az iratjegyzék valamennyi csatolt dokumentumot tételesen tartalmazza és
 
 d) az ellenőrzött szerv vezetője vagy a kapcsolattartó nyilatkozik arról, hogy a megküldött másolatok az eredeti dokumentumokkal mindenben megegyeznek.
 
@@ -38,4 +38,4 @@ d) az ellenőrzött szerv vezetője vagy a kapcsolattartó nyilatkozik arról, h
 
 (6) A tanúsítvány hitelesítésénél a „tanúsítvány” szó feltüntetése mellett meg kell jelölni, hogy mely dokumentumok vagy nyilvántartások alapján készült.
 
-[^25]: A 25. § (3) bekezdés c) pontja a 351/2022. (IX. 13.) Korm. rendelet 3. § e) pontja szerint módosított szöveg.
+[^26]: A 25. § (3) bekezdés c) pontja a 351/2022. (IX. 13.) Korm. rendelet 3. § e) pontja szerint módosított szöveg.
