@@ -1,0 +1,1 @@
+Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény 135. § (3) bekezdés c) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 119. § 1. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:

@@ -1,0 +1,3 @@
+1. § A bírósági igazolványokról szóló 15/1999. (XI. 10.) IM rendelet 1. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A bírákat – ideértve az Országos Bírósági Hivatalba (a továbbiakban: OBH) és az igazságügyért felelős miniszter által vezetett minisztériumba beosztott bírákat is – e rendelet szerint „Bírói igazolvánnyal”, a bíróságokkal, az OBH-val, valamint az Országos Bírói Tanáccsal (a továbbiakban: OBT) igazságügyi alkalmazotti jogviszonyban lévő személyeket „Igazságügyi alkalmazotti igazolvánnyal”, a bíróságok által fenntartott üdülők, bölcsődék és óvodák dolgozóit (a továbbiakban: bírósági dolgozó) „Bírósági dolgozói igazolvánnyal” (a továbbiakban együtt: igazolvány) kell ellátni.”
