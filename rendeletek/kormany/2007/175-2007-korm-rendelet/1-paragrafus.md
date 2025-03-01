@@ -18,9 +18,9 @@ dc) a vasutas önkéntes kölcsönös kiegészítő egészség- és nyugdíjpén
 
 dd) a da)–dc) pontokban felsoroltak egyesületeinek, alapítványainak, sport- és kultúrintézményeinek munkavállalója;
 
-e)[^4] rendvédelmi szervek: a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 1. § (5) bekezdése szerinti szervek, valamint a Nemzeti Adó- és Vámhivatal;
+e)[^4] rendvédelmi szervek: a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 1. § (5) bekezdése és (6) bekezdés a) pontja szerinti szervek, valamint a Nemzeti Adó- és Vámhivatal;
 
-f)[^5] rendvédelmi szervek személyi állománya: a rendvédelmi szerveket felügyelő minisztériumok, valamint a rendvédelmi szervet irányító miniszter irányítása alá tartozó szerveknél foglalkoztatott hivatásos állomány, az itt foglalkoztatott tisztjelöltek, kormánytisztviselők, köztisztviselők, közalkalmazottak, egészségügyi szolgálati jogviszonyban állók, rendvédelmi igazgatási alkalmazottak és a munka törvénykönyvéről szóló 2012. évi I. törvény hatálya alá tartozó munkavállalók, a Nemzeti Adó- és Vámhivatal személyi állományából a pénzügyőr státuszú foglalkoztatottak, valamint a Nemzeti Adó- és Vámhivatal személyi állományából azok, akik 2020. december 31-én a Nemzeti Adó- és Vámhivatal hivatásos állományába tartoztak, illetve akik 2010. december 31-én a Vám- és Pénzügyőrség közalkalmazotti állományába tartoztak, a BM oktatási intézményeinek (rendészeti szakgimnáziumok) tanulói és a Nemzeti Közszolgálati Egyetem rendészeti képzést folytató karának és katasztrófavédelmi intézetének hallgatói, továbbá az Információs Hivatal állománya;
+f)[^5] rendvédelmi szervek személyi állománya: a rendvédelmi szerveket felügyelő minisztériumok, valamint a rendvédelmi szervet irányító miniszter irányítása alá tartozó szerveknél foglalkoztatott hivatásos állomány, az itt foglalkoztatott tisztjelöltek, kormánytisztviselők, köztisztviselők, közalkalmazottak, egészségügyi szolgálati jogviszonyban állók, rendvédelmi igazgatási alkalmazottak, a nemzetbiztonsági alkalmazottak és a munka törvénykönyvéről szóló 2012. évi I. törvény hatálya alá tartozó munkavállalók, a Nemzeti Adó- és Vámhivatal személyi állományából a pénzügyőr státuszú foglalkoztatottak, valamint a Nemzeti Adó- és Vámhivatal személyi állományából azok, akik 2020. december 31-én a Nemzeti Adó- és Vámhivatal hivatásos állományába tartoztak, illetve akik 2010. december 31-én a Vám- és Pénzügyőrség közalkalmazotti állományába tartoztak, a BM oktatási intézményeinek (rendészeti szakgimnáziumok) tanulói és a Nemzeti Közszolgálati Egyetem rendészeti képzést folytató karának és katasztrófavédelmi intézetének hallgatói;
 
 g) csapatorvosi rendelő: a Honvédelmi Minisztérium (a továbbiakban: HM) vagy az MH által fenntartott honvédorvosi és foglalkozás-egészségügyi alapellátást biztosító egészségügyi rendelő;
 
@@ -28,7 +28,7 @@ h) rendvédelmi rendelő: a rendvédelmi szerv által fenntartott, a személyi �
 
 i) vasútegészségügyi szolgálat: a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény 68. §-ának (4) bekezdése szerinti egészségügyi szolgáltatást nyújtó gyógyintézetek és egészségügyi szolgáltatók;
 
-j)[^6] szolgálatteljesítés helye: a honvédelmi szervezetek, a rendvédelmi szervek, valamint a polgári nemzetbiztonsági szolgálatok személyi állományába tartozó személyek szolgálati (munkaköri) feladatainak végrehajtására kijelölt hely, amely az ott elérhető egészségügyi szolgáltatások igénybevételét megalapozza;
+j)[^6] szolgálatteljesítés helye: a honvédelmi szervezetek, a rendvédelmi szervek személyi állományába tartozó személyek szolgálati (munkaköri) feladatainak végrehajtására kijelölt hely, amely az ott elérhető egészségügyi szolgáltatások igénybevételét megalapozza;
 
 k) közeli hozzátartozó: az Ebtv. 5/B. §-ának h) pontja szerinti közeli hozzátartozó;
 
@@ -51,9 +51,9 @@ s)[^11] Magyar Corvin-lánc Testület (a továbbiakban: Corvin-lánc Testület) 
 [^1]: Az 1. § a) pontja az 570/2022. (XII. 23.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^2]: Az 1. § b) pontja a 163/2019. (VII. 5.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 410/2022. (X. 24.) Korm. rendelet 4. §-a szerint módosított szöveg.
 [^3]: Az 1. § c) pontját a 410/2022. (X. 24.) Korm. rendelet 5. §-a hatályon kívül helyezte.
-[^4]: Az 1. § e) pontja a 163/2019. (VII. 5.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^5]: Az 1. § f) pontja a 163/2019. (VII. 5.) Korm. rendelet 1. § (2) bekezdésével megállapított, az 529/2020. (XI. 28.) Korm. rendelet 3. §-a, a 671/2020. (XII. 28.) Korm. rendelet 11. §-a szerint módosított szöveg.
-[^6]: Az 1. § j) pontja a 163/2019. (VII. 5.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^4]: Az 1. § e) pontja a 24/2025. (II. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^5]: Az 1. § f) pontja a 163/2019. (VII. 5.) Korm. rendelet 1. § (2) bekezdésével megállapított, az 529/2020. (XI. 28.) Korm. rendelet 3. §-a, a 671/2020. (XII. 28.) Korm. rendelet 11. §-a, a 24/2025. (II. 27.) Korm. rendelet 13. § a) pontja és 14. § a) pontja szerint módosított szöveg.
+[^6]: Az 1. § j) pontja a 163/2019. (VII. 5.) Korm. rendelet 1. § (3) bekezdésével megállapított, a 24/2025. (II. 27.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
 [^7]: Az 1. § n) pontja a 163/2019. (VII. 5.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
 [^8]: Az 1. § o) pontja a 163/2019. (VII. 5.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
 [^9]: Az 1. § q) pontját a 163/2019. (VII. 5.) Korm. rendelet 1. § (5) bekezdése iktatta be.
