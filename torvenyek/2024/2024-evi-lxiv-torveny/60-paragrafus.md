@@ -1,1 +1,5 @@
-### 60. §
+60. § A Kbt. 197. §-a a következő (28) és (29) bekezdéssel egészül ki:
+
+„(28) E törvénynek az online csalások elleni további hatékony fellépés érdekében szükséges és egyéb törvények módosításáról szóló 2024. évi LXIV. törvénnyel (a továbbiakban: Mód8. tv.) megállapított 72. § (1) bekezdését annak hatálybalépését megelőzően indult közbeszerzési eljárások alapján kötött keretmegállapodások és létrejött dinamikus beszerzési rendszerek esetében is alkalmazni kell. A módosított rendelkezés nem alkalmazandó az e keretmegállapodások és dinamikus beszerzési rendszerek alapján az ezen rendelkezés hatálybalépésekor folyamatban lévő beszerzésekre.
+
+(29) E törvénynek a Mód8. tv.-vel hatályon kívül helyezett 169. § (2) bekezdésére tekintettel a Közbeszerzési Döntőbizottság önálló jogorvoslattal megtámadható végzése ellen indított közigazgatási perben a Mód8. tv. 64. § f) pontja hatálybalépését megelőzően hozott bírósági ítélet ellen felülvizsgálatnak abban az esetben van helye, ha az ennek kezdeményezésére irányadó határidő még nem járt le.”
