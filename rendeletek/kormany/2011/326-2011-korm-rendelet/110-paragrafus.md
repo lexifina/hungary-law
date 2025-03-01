@@ -4,7 +4,7 @@ a)[^539] a közúti járművek műszaki megvizsgálásáról szóló miniszteri 
 
 b)[^540]
 
-(1a)[^541] A közlekedési igazgatási hatóság jogszabály alapján arra jogosult birtokos kérelmére bontási átvételi igazolás alapján véglegesen vonja ki a járművet a forgalomból.
+(1a)[^541] A közlekedési igazgatási hatóság a jogszabály alapján arra jogosult vagy a hulladékgazdálkodási hatóság határozatában kötelezett birtokos kérelmére bontási átvételi igazolás alapján véglegesen vonja ki a járművet a forgalomból.
 
 (1b)[^542]
 
@@ -24,7 +24,7 @@ b)[^540]
 
 [^539]: A 110. § (1) bekezdés a) pontja a 467/2015. (XII. 27.) Korm. rendelet 29. § q) pontja szerint módosított szöveg.
 [^540]: A 110. § (1) bekezdés b) pontját az 572/2020. (XII. 9.) Korm. rendelet 46. § f) pontja hatályon kívül helyezte.
-[^541]: A 110. § (1a) bekezdését a 468/2016. (XII. 23.) Korm. rendelet 27. § (1) bekezdése iktatta be, szövege a 789/2021. (XII. 27.) Korm. rendelet 49. § (1) bekezdésével megállapított szöveg.
+[^541]: A 110. § (1a) bekezdését a 468/2016. (XII. 23.) Korm. rendelet 27. § (1) bekezdése iktatta be, szövege a 416/2024. (XII. 20.) Korm. rendelet 16. §-ával megállapított szöveg.
 [^542]: A 110. § (1b) bekezdését a 698/2021. (XII. 13.) Korm. rendelet 1. §-a iktatta be, szövege a 612/2023. (XII. 22.) Korm. rendelet 36. §-a hatályon kívül helyezte.
 [^543]: A 110. § (1c) bekezdését a 612/2023. (XII. 22.) Korm. rendelet 34. §-a iktatta be.
 [^544]: A 110. § (2) bekezdése a 789/2021. (XII. 27.) Korm. rendelet 49. § (2) bekezdésével megállapított szöveg.
