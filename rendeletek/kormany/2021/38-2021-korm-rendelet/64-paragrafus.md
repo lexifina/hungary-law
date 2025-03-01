@@ -28,8 +28,10 @@ e) a tervezett oktatók névsoráról.
 
 (9) A pályázó beiskolázásáról, képzéséről a munkáltató intézkedik, aki a szakszolgálati engedéllyel rendelkező személyekről vezetett nyilvántartás alapján részvételi tervet készít
 
-a) katonai szervezetnél a belső rendelkezésben foglaltak szerint,
+a)[^6] katonai szervezetnél és a polgári nemzetbiztonsági szolgálatoknál a belső rendelkezésben foglaltak szerint,
 
 b) rendvédelmi szervnél minden év november 30-ig.
 
 (10) A munkáltató a pályázók részvételi tervét – tájékoztatás céljából – minden év december 15-ig megküldi a Hatóságnak.
+
+[^6]: A 64. § (9) bekezdés a) pontja a 24/2025. (II. 27.) Korm. rendelet 86. §-a szerint módosított szöveg.
