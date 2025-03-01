@@ -1,6 +1,6 @@
 7. § (1) Nem gazdasági tevékenység és nem eredményez adóalanyiságot a Magyarország Alaptörvénye által, illetőleg az annak felhatalmazása alapján megalkotott jogszabály alapján közhatalom gyakorlására jogosított személy, szervezet által ellátott közhatalmi tevékenység.
 
-(2) Közhatalmi tevékenység különösen a jogszabály-alkotási, az igazságszolgáltatási, az ügyészi, a védelmi, a rendvédelmi, a külügyi és igazságügyi igazgatási, a közigazgatási jogalkalmazói, a hatósági ellenőrzési és pénzügyi ellenőrzési, a törvényességi felügyeleti és ellenőrzési, az államháztartási, európai uniós és egyéb nemzetközi támogatás elosztásáról való döntési tevékenység.
+(2) Közhatalmi tevékenység különösen a jogszabály-alkotási, az igazságszolgáltatási, az ügyészi, a védelmi, a rendvédelmi, a nemzetbiztonsági, a külügyi és igazságügyi igazgatási, a közigazgatási jogalkalmazói, a hatósági ellenőrzési és pénzügyi ellenőrzési, a törvényességi felügyeleti és ellenőrzési, az államháztartási, európai uniós és egyéb nemzetközi támogatás elosztásáról való döntési tevékenység.
 
 (3) A (2) bekezdéstől függetlenül a tulajdon kisajátítása, valamint a 2. számú mellékletben felsorolt tevékenységek nem minősülhetnek közhatalmi tevékenységnek.
 

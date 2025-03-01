@@ -32,7 +32,7 @@ k) a beépítetlen ingatlan (ingatlanrész) értékesítése, kivéve az épít�
 
 l) az ingatlan (ingatlanrész) bérbeadása, haszonbérbeadása;
 
-m) a védelem terén alapvető biztonsági érdeket érintő, kifejezetten katonai, rendvédelmi, rendészeti célokra szánt termék vagy szolgáltatás központi költségvetési szerv részére nemzetközi megállapodáson alapuló értékesítése, és a magyar állam vagy a képviseletében eljáró központi költségvetési szerv részére nemzetközi megállapodáson alapuló térítésmentes átadása.
+m) a védelem terén alapvető biztonsági érdeket érintő, kifejezetten katonai, nemzetbiztonsági, rendvédelmi, rendészeti célokra szánt termék vagy szolgáltatás központi költségvetési szerv részére nemzetközi megállapodáson alapuló értékesítése, és a magyar állam vagy a képviseletében eljáró központi költségvetési szerv részére nemzetközi megállapodáson alapuló térítésmentes átadása.
 
 (2) Az (1) bekezdés l) pontja nem alkalmazható:
 
