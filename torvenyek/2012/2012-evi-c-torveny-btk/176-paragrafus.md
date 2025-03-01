@@ -12,7 +12,7 @@ a) bűnszövetségben,
 
 b) hivatalos vagy közfeladatot ellátó személyként, e minőséget felhasználva vagy
 
-c) a Magyar Honvédség, a rendvédelmi szervek vagy a Nemzeti Adó- és Vámhivatal létesítményében
+c) a Magyar Honvédség, a rendvédelmi szervek, a polgári nemzetbiztonsági szolgálatok vagy a Nemzeti Adó- és Vámhivatal létesítményében
 
 követik el.
 

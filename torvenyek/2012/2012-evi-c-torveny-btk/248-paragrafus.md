@@ -44,6 +44,6 @@ a) különös visszaesés szempontjából hasonló jellegű bűncselekmény a k�
 
 b) hulladékgazdálkodási tevékenység a hulladékról szóló törvény szerinti hulladékgazdálkodás azzal, hogy a szállítás fogalmába bele kell érteni az országba történő behozatalt, onnan történő kivitelt, valamint az azon történő átszállítást;
 
-c) jelentős mennyiségű hulladék az 1000 kg-ot vagy a 10 köbmétert meghaladó mennyiségű hulladék;
+c) jelentős mennyiségű hulladék az 500 kg-ot vagy a 5 köbmétert meghaladó mennyiségű hulladék;
 
 d) különösen jelentős mennyiségű hulladék a jelentős mennyiségű hulladék tízszerese.

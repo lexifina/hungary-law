@@ -4,6 +4,6 @@
 
 (2) Akit haszonszerzés céljából elkövetett bűncselekmény miatt határozott ideig tartó szabadságvesztésre ítélnek, ha megfelelő jövedelme vagy vagyona van, pénzbüntetésre is kell ítélni.
 
-(3) A pénzbüntetés legkisebb mértéke harminc, legnagyobb mértéke ötszáznegyven napi tétel. Egynapi tétel összegét legalább ezerháromszáz, legfeljebb hatszázötvenezer forintban kell meghatározni.
+(3) A pénzbüntetés legkisebb mértéke harminc, legnagyobb mértéke ötszáznegyven napi tétel. Egynapi tétel összegét legalább ezerötszáz, legfeljebb hétszáznyolcvanezer forintban kell meghatározni.
 
 (4) A bíróság az ügydöntő határozatában – az elkövető vagyoni, jövedelmi viszonyaira tekintettel – rendelkezhet úgy, hogy az elkövető a pénzbüntetést legfeljebb két éven belül havi részletekben fizetheti meg.
