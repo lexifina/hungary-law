@@ -54,13 +54,15 @@
 
 kell megjeleníteni.
 
-(9)[^28] Kizárólag a fejezetet irányító szerv és az Országgyűlés nemzetbiztonsági ügyekkel foglalkozó bizottsága számára megküldött adatszolgáltatások tartalmazhatnak a Szolgálatok létszámára vonatkozóan a „hivatásos”, a „rendvédelmi igazgatási alkalmazott” és a „munkavállaló” felosztásnál részletesebb bontású adatokat.
+(9)[^28] Kizárólag a fejezetet irányító szerv és az Országgyűlés nemzetbiztonsági ügyekkel foglalkozó bizottsága számára megküldött adatszolgáltatások tartalmazhatnak a Szolgálatok létszámára vonatkozóan a „hivatásos” és a „nemzetbiztonsági alkalmazott” felosztásnál részletesebb bontású adatokat.
 
 (10)[^29] A Szolgálatok a Központi Statisztikai Hivatal (a továbbiakban: KSH) felé nyílt internetes felületen teljesítendő beruházás-statisztikai jelentésekben összevont adatot szerepeltetnek, amelyet az „Import gépek és berendezések” sorban kell feltüntetni.
 
 (11)[^30] A Szolgálatok a KSH felé a munkaerővel, a munkaerő-költséggel és a munkaügyi jelentéssel kapcsolatos valamennyi éves, évközi és időszakos adatszolgáltatást a fejezetet irányító szerv részére nyújtják be. Az adatszolgáltatást – összevont adatok szerepeltetésével – a fejezetet irányító szerv küldi meg a KSH részére.
 
 (12)[^31] A kincstári körbe tartozó költségvetési szerv elismert tartozásállományáról készített adatszolgáltatásban a Szolgálatok kizárólag összevont adatot szerepeltetnek, amelyet a „19. Államháztartáson kívülre, egyéb” sorban kell feltüntetni. A Szolgálatok az összevont adatot a fejezetet irányító szerv és a Kincstár részére megküldik.
+
+(13)[^32] A Szolgálatok az Ávr. 172/A. §-a szerinti felhasználási tervben a kötelezettségvállalásokra vonatkozó adatot, valamint a kiadások összesen sor „ebből” és „tájékoztató adat” sorait nem tüntetik fel, a sajátos kiadásokat és bevételeket pedig összevont adatként – részletező, tájékoztató adatok nélkül – szerepeltetik.
 
 [^16]: A 7. § az 553/2013. (XII. 31.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^17]: A 7. § (3) bekezdése a 142/2016. (VI. 13.) Korm. rendelet 5. § (1) bekezdése szerint módosított szöveg.
@@ -74,7 +76,8 @@ kell megjeleníteni.
 [^25]: A 7. § (8) bekezdés 16. pontja a 801/2021. (XII. 28.) Korm. rendelet 3. §-a szerint módosított szöveg.
 [^26]: A 7. § (8) bekezdés 17. pontját a 801/2021. (XII. 28.) Korm. rendelet 2. §-a iktatta be.
 [^27]: A 7. § (8) bekezdés 18. pontját a 801/2021. (XII. 28.) Korm. rendelet 2. §-a iktatta be.
-[^28]: A 7. § (9) bekezdését a 142/2016. (VI. 13.) Korm. rendelet 5. § (3) bekezdése iktatta be, szövege a 85/2023. (III. 21.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^28]: A 7. § (9) bekezdését a 142/2016. (VI. 13.) Korm. rendelet 5. § (3) bekezdése iktatta be, szövege a 24/2025. (II. 27.) Korm. rendelet 31. § (1) bekezdésével megállapított szöveg.
 [^29]: A 7. § (10) bekezdését a 85/2023. (III. 21.) Korm. rendelet 3. § (3) bekezdése iktatta be.
 [^30]: A 7. § (11) bekezdését a 85/2023. (III. 21.) Korm. rendelet 3. § (3) bekezdése iktatta be.
 [^31]: A 7. § (12) bekezdését a 85/2023. (III. 21.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^32]: A 7. § (13) bekezdését a 24/2025. (II. 27.) Korm. rendelet 31. § (2) bekezdése iktatta be.
