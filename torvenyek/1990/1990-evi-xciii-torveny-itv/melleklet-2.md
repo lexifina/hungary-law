@@ -876,7 +876,7 @@ helyett viselt költség megtérítésére irányuló eljárás
 
 |
 
-A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó szervek és személyek intézkedésével, vagy kényszerítő eszköz alkalmazásával, továbbá a Nemzeti Adó- és Vámhivatalról szóló törvény szerinti pénzügyőri intézkedéssel vagy kényszerítő eszköz alkalmazásával szemben benyújtott panasz és fellebbezés
+A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó szervek és személyek intézkedésével, vagy kényszerítő eszköz alkalmazásával, a Nemzeti Adó- és Vámhivatalról szóló törvény szerinti pénzügyőri intézkedéssel vagy kényszerítő eszköz alkalmazásával, továbbá a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvény hatálya alá tartozó szervek és személyek intézkedésével, vagy kényszerítő eszköz alkalmazásával szemben benyújtott panasz és fellebbezés
 
 |
 
