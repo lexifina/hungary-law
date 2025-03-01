@@ -1,0 +1,3 @@
+5. § A KÁT rendelet Átmeneti rendelkezések alcíme a következő 11/F. §-sal egészül ki:
+
+„11/F. § A MódKr. hatálybalépése előtt villamosenergia-termelést megkezdő, kötelező átvételre jogosult erőműegység esetében, amely tekintetében az engedélyes korábban már kötött KÁT mérlegkör-tagsági szerződést, a MódKr. hatálybalépésekor nem tagja a KÁT mérlegkörnek, és nem kérte a támogatás METÁR rendelet szerinti prémium típusú támogatás szabályai szerinti elszámolását, az erőműegységet üzemeltető termelő legkésőbb 2025. július 1-jei hatálybalépéssel a Befogadó Üzletszabályzata szerinti KÁT mérlegkör-tagsági szerződést köt vagy Prémium támogatási szerződést köt. Prémium támogatási szerződés megkötése esetén az erőműegység a KÁT mérlegkörhöz nem csatlakozhat újra.”
