@@ -1,4 +1,4 @@
-19/B. § A közszolgálati tisztviselőkről szóló törvény, a kormányzati igazgatásról szóló törvény, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó foglalkoztatási jogviszonyban a foglalkoztató szerv
+19/B. § A közszolgálati tisztviselőkről szóló törvény, a kormányzati igazgatásról szóló törvény, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény, valamint a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvény hatálya alá tartozó foglalkoztatási jogviszonyban a foglalkoztató szerv
 
 a) az általa törvény alapján vezetett személyügyi nyilvántartás adattartalmának ellenőrzése céljából, valamint
 

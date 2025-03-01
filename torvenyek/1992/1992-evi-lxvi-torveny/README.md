@@ -109,3 +109,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1992-66-00-00
 | 2025-01-15 | 2021. évi C. törvény | 1992-66-00-00.140 |
 | 2025-01-16 | 2024. évi LXXIII. törvény | 1992-66-00-00.145 |
 | 2025-02-01 | 2024. évi LXXIII. törvény | 1992-66-00-00.146 |
+| 2025-03-01 | 2024. évi LXXI. törvény | 1992-66-00-00.143 |
