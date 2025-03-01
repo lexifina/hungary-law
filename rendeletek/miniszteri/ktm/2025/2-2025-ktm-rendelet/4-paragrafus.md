@@ -1,0 +1,1 @@
+4. § A Program keretében fejlesztéssel, működéssel vagy mindkettővel összefüggő, valamint több, önállóan megvalósítható ütemre bontható, továbbá több járás településeit érintő tevékenység vonatkozásában is benyújtható a 6. § szerinti fejlesztési igényen alapuló támogatási igény.

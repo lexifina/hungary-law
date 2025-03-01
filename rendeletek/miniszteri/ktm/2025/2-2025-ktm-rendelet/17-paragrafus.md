@@ -1,0 +1,1 @@
+17. § Amennyiben a 10. § szerinti felhívásban megjelölt határidőben a Fórum nem tesz javaslatot, úgy annak lejártát követő munkanapon a főispán a vármegyei közgyűlés elnöke által készített előterjesztést, továbbá valamennyi, általa véleményezett fejlesztési igényt megküldi a miniszter részére.

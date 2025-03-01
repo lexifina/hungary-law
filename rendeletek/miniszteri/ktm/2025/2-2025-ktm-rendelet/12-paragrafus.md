@@ -1,0 +1,1 @@
+12. § A vármegyei közgyűlés elnöke a fejlesztési igény tekintetében a benyújtótól szükség szerint javítást, kiegészítést kérhet, amelynek teljesítése esetén erről haladéktalanul értesíti a területileg illetékes főispánt.
