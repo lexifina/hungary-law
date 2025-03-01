@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-427-20-
 | 2023-01-02 | 2022-427-20-22.3 | 2010. évi CXXX. törvény |
 | 2023-12-21 | 2022-427-20-22.4 | 592/2023. (XII. 20.) Korm. rendelet |
 | 2024-08-01 | 2022-427-20-22.5 | 217/2024. (VII. 31.) Korm. rendelet |
+| 2025-03-01 | 2022-427-20-22.6 | 24/2025. (II. 27.) Korm. rendelet |
