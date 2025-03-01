@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-521-20-
 | 2022-11-01 | 2013-521-20-22.14 | 408/2022. (X. 24.) Korm. rendelet |
 | 2023-01-01 | 2013-521-20-22.15 | 70/2015. (III. 30.) Korm. rendelet |
 | 2023-08-01 | 2013-521-20-22.16 | 408/2022. (X. 24.) Korm. rendelet |
+| 2025-03-01 | 2013-521-20-22.17 | 408/2022. (X. 24.) Korm. rendelet |

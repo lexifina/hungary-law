@@ -1,14 +1,14 @@
-## 5. [^49] Az egészségügyi dolgozó kirendelése egészségügyi válsághelyzetben
+## 5. [^50] Az egészségügyi dolgozó kirendelése egészségügyi válsághelyzetben
 
-14. § (1)[^50] Az egészségügyi válsághelyzetben az egészségügyi dolgozó kirendelhető egészségügyi tevékenység ellátására alapellátást, járóbeteg-szakellátást vagy fekvőbeteg-szakellátást nyújtó, az egészségügyi válsághelyzet felszámolásában részt vevő intézménybe vagy időszakosan működő gyógyintézetbe.
+14. § (1)[^51] Az egészségügyi válsághelyzetben az egészségügyi dolgozó kirendelhető egészségügyi tevékenység ellátására alapellátást, járóbeteg-szakellátást vagy fekvőbeteg-szakellátást nyújtó, az egészségügyi válsághelyzet felszámolásában részt vevő intézménybe vagy időszakosan működő gyógyintézetbe.
 
-(2)[^51] A kirendelést az egészségügyi válsághelyzet felszámolásában résztvevő fekvőbeteg-szakellátó intézmény részére az intézmény vezetője, az időszakosan működő gyógyintézetbe az annak telepítésére kijelölt intézmény vezetője igényli a vármegyei kormányhivataltól. A vármegyei kormányhivatal dönt a kirendelés szükségességéről és az általa meghatározott egészségügyi intézmény vezetőjét kötelezi a kirendelés végrehajtására.
+(2)[^52] A kirendelést az egészségügyi válsághelyzet felszámolásában résztvevő fekvőbeteg-szakellátó intézmény részére az intézmény vezetője, az időszakosan működő gyógyintézetbe az annak telepítésére kijelölt intézmény vezetője igényli a vármegyei kormányhivataltól. A vármegyei kormányhivatal dönt a kirendelés szükségességéről és az általa meghatározott egészségügyi intézmény vezetőjét kötelezi a kirendelés végrehajtására.
 
-(2a)[^52] Ha a vármegyei kormányhivatal a (2) bekezdés szerinti igénylést szükségesnek találja, de vármegyén belüli egészségügyi intézmény bevonásával nem tudja teljesíteni, akkor erről a tényről – az igénylés egyidejű megküldésével – haladéktalanul tájékoztatja az Operatív Törzset.
+(2a)[^53] Ha a vármegyei kormányhivatal a (2) bekezdés szerinti igénylést szükségesnek találja, de vármegyén belüli egészségügyi intézmény bevonásával nem tudja teljesíteni, akkor erről a tényről – az igénylés egyidejű megküldésével – haladéktalanul tájékoztatja az Operatív Törzset.
 
-(2b)[^53] Az Operatív Törzs döntése alapján az egészségügyért felelős miniszter a (2a) bekezdés szerinti esetben bármely egészségügyi intézmény vezetőjét kötelezheti a kirendelés végrehajtására.
+(2b)[^54] Az Operatív Törzs döntése alapján az egészségügyért felelős miniszter a (2a) bekezdés szerinti esetben bármely egészségügyi intézmény vezetőjét kötelezheti a kirendelés végrehajtására.
 
-(3)[^54] Ha a kirendelendő egészségügyi dolgozónak nincs a kirendelést végrehajtó intézményi vezetője, a (2) bekezdés szerinti esetben a vármegyei kormányhivatal, a (2a) bekezdés szerinti esetben az Operatív Törzs döntése alapján az egészségügyért felelős miniszter adja ki a kirendelési határozatot.
+(3)[^55] Ha a kirendelendő egészségügyi dolgozónak nincs a kirendelést végrehajtó intézményi vezetője, a (2) bekezdés szerinti esetben a vármegyei kormányhivatal, a (2a) bekezdés szerinti esetben az Operatív Törzs döntése alapján az egészségügyért felelős miniszter adja ki a kirendelési határozatot.
 
 (4) A kirendelés vonatkozhat meghatározott személyre vagy az egészségügyi szolgáltatónál meghatározott számú, továbbá meghatározott képzettséggel rendelkező egészségügyi dolgozóra.
 
@@ -30,12 +30,12 @@ e) ha az OMSZ-nak az adott válsághelyzet felszámolásában érintett szerveze
 
 (8) A kirendelt egészségügyi dolgozó napi munkaideje a napi 12 órát nem haladhatja meg.
 
-(9)[^55] A kirendelésről értesíteni kell az OKFŐ főigazgatóját.
+(9)[^56] A kirendelésről értesíteni kell az OKFŐ főigazgatóját.
 
-[^49]: Az 5. alcím címe a 284/2020. (VI. 17.) Korm. rendelet 70. § c) pontja szerint módosított szöveg.
-[^50]: A 14. § (1) bekezdése a 284/2020. (VI. 17.) Korm. rendelet 67. §-ával megállapított szöveg.
-[^51]: A 14. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 241. § (8) bekezdés n) és q) pontja, a 616/2022. (XII. 29.) Korm. rendelet 176. § b) pontja szerint módosított szöveg.
-[^52]: A 14. § (2a) bekezdését az 555/2020. (XII. 3.) Korm. rendelet 1. §-a iktatta be, szövege a 616/2022. (XII. 29.) Korm. rendelet 176. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 176. § d) pontja szerint módosított szöveg.
-[^53]: A 14. § (2b) bekezdését az 555/2020. (XII. 3.) Korm. rendelet 1. §-a iktatta be, szövege a 408/2022. (X. 24.) Korm. rendelet 23. § h) pontja szerint módosított szöveg.
-[^54]: A 14. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 241. § (8) bekezdés n) pontja, az 555/2020. (XII. 3.) Korm. rendelet 3. § b) pontja, a 408/2022. (X. 24.) Korm. rendelet 23. § h) pontja, a 616/2022. (XII. 29.) Korm. rendelet 176. § a) pontja szerint módosított szöveg.
-[^55]: A 14. § (9) bekezdését a 70/2015. (III. 30.) Korm. rendelet 241. § (7) bekezdése iktatta be, szövege az 516/2020. (XI. 25.) Korm. rendelet 16. § c) pontja, a 408/2022. (X. 24.) Korm. rendelet 24. §-a szerint módosított szöveg.
+[^50]: Az 5. alcím címe a 284/2020. (VI. 17.) Korm. rendelet 70. § c) pontja szerint módosított szöveg.
+[^51]: A 14. § (1) bekezdése a 284/2020. (VI. 17.) Korm. rendelet 67. §-ával megállapított szöveg.
+[^52]: A 14. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 241. § (8) bekezdés n) és q) pontja, a 616/2022. (XII. 29.) Korm. rendelet 176. § b) pontja szerint módosított szöveg.
+[^53]: A 14. § (2a) bekezdését az 555/2020. (XII. 3.) Korm. rendelet 1. §-a iktatta be, szövege a 616/2022. (XII. 29.) Korm. rendelet 176. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 176. § d) pontja szerint módosított szöveg.
+[^54]: A 14. § (2b) bekezdését az 555/2020. (XII. 3.) Korm. rendelet 1. §-a iktatta be, szövege a 408/2022. (X. 24.) Korm. rendelet 23. § h) pontja szerint módosított szöveg.
+[^55]: A 14. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 241. § (8) bekezdés n) pontja, az 555/2020. (XII. 3.) Korm. rendelet 3. § b) pontja, a 408/2022. (X. 24.) Korm. rendelet 23. § h) pontja, a 616/2022. (XII. 29.) Korm. rendelet 176. § a) pontja szerint módosított szöveg.
+[^56]: A 14. § (9) bekezdését a 70/2015. (III. 30.) Korm. rendelet 241. § (7) bekezdése iktatta be, szövege az 516/2020. (XI. 25.) Korm. rendelet 16. § c) pontja, a 408/2022. (X. 24.) Korm. rendelet 24. §-a szerint módosított szöveg.

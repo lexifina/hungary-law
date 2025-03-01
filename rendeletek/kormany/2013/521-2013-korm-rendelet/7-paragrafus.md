@@ -28,7 +28,7 @@ illeti meg.
 
 (8) Az egészségügyért felelős miniszter az általa elrendelt gyakorlattal kapcsolatos költségeket az általa vezetett minisztérium költségvetéséből megtéríti.
 
-(9) A gyakorlat elrendeléséről az elrendelő tájékoztatja a Magyar Honvédség és a rendvédelmi szervek egészségügyi szolgálatainak vezetőit, és biztosítja az általuk kijelölt megfigyelők részvételét.
+(9)[^19] A gyakorlat elrendeléséről érintettség esetén az elrendelő tájékoztatja a Magyar Honvédség, a polgári nemzetbiztonsági szolgálatok és a rendvédelmi szervek egészségügyi szolgálatainak vezetőit, és biztosítja az általuk kijelölt megfigyelők részvételét.
 
 [^13]: A 6. § a 70/2015. (III. 30.) Korm. rendelet 241. § (4) bekezdésével megállapított szöveg.
 [^14]: A 7. § (1) bekezdése a 408/2022. (X. 24.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
@@ -36,3 +36,4 @@ illeti meg.
 [^16]: A 7. § (1a) bekezdését a 408/2022. (X. 24.) Korm. rendelet 18. § (2) bekezdése iktatta be.
 [^17]: A 7. § (6) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 241. § (8) bekezdés f) pontja, a 616/2022. (XII. 29.) Korm. rendelet 176. § a) pontja szerint módosított szöveg.
 [^18]: A 7. § (7) bekezdése a 70/2015. (III. 30.) Korm. rendelet 241. § (8) bekezdés f) pontja, a 408/2022. (X. 24.) Korm. rendelet 23. § c) pontja, a 616/2022. (XII. 29.) Korm. rendelet 176. § a) pontja szerint módosított szöveg.
+[^19]: A 7. § (9) bekezdése a 24/2025. (II. 27.) Korm. rendelet 52. § b) pontja szerint módosított szöveg.
