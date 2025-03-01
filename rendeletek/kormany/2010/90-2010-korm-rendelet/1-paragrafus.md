@@ -14,7 +14,7 @@
 
 5.[^1] továbbítás: a titkos ügykezelő által a minősített adat szerven kívülre történő szállításához szükséges iratkezelési feladatok végrehajtása,
 
-6.[^2] futár: belföldön történő szállítás esetén az Állami Futárszolgálat, a Magyar Honvédség Katonai Futárszolgálata, a katonai futár, a rendvédelmi szervek, valamint a Nemzeti Adó- és Vámhivatal belső futára; külföldre vagy külföldről történő szállítás esetén a katonai futár, valamint a külpolitikáért felelős miniszter által vezetett minisztérium által működtetett diplomáciai és konzuli futár,
+6.[^2] futár: belföldön történő szállítás esetén az Állami Futárszolgálat, a Magyar Honvédség Katonai Futárszolgálata, a katonai futár, a rendvédelmi szervek, a polgári nemzetbiztonsági szolgálatok, valamint a Nemzeti Adó- és Vámhivatal belső futára; külföldre vagy külföldről történő szállítás esetén a katonai futár, valamint a külpolitikáért felelős miniszter által vezetett minisztérium által működtetett diplomáciai és konzuli futár,
 
 7.[^3] személyes kézbesítő: a minősített adatot kezelő szerv vezetője vagy a biztonsági szabályzatban felhatalmazott személy által a minősített adat szerven kívüli szállítására írásban kijelölt személy,
 
@@ -37,7 +37,7 @@
 16.[^12] hiteles elektronikus másolat: valamely papíralapú minősített adatról e rendelet szabályai szerint készült, azzal képileg vagy tartalmilag egyező, joghatás kiváltására alkalmas, elektronikus eszköz útján értelmezhető adategyüttes.
 
 [^1]: Az 1. § 5. pontját a 243/2016. (VIII. 17.) Korm. rendelet 1. §-a iktatta be.
-[^2]: Az 1. § 6. pontját a 243/2016. (VIII. 17.) Korm. rendelet 1. §-a iktatta be.
+[^2]: Az 1. § 6. pontját a 243/2016. (VIII. 17.) Korm. rendelet 1. §-a iktatta be, szövege a 24/2025. (II. 27.) Korm. rendelet 22. § 1. pontja szerint módosított szöveg.
 [^3]: Az 1. § 7. pontját a 243/2016. (VIII. 17.) Korm. rendelet 1. §-a iktatta be, szövege a 177/2024. (VII. 7.) Korm. rendelet 22. § a) pontja szerint módosított szöveg.
 [^4]: Az 1. § 8. pontját a 243/2016. (VIII. 17.) Korm. rendelet 1. §-a iktatta be, szövege a 177/2024. (VII. 7.) Korm. rendelet 22. § b) pontja szerint módosított szöveg.
 [^5]: Az 1. § 9. pontját a 243/2016. (VIII. 17.) Korm. rendelet 1. §-a iktatta be.

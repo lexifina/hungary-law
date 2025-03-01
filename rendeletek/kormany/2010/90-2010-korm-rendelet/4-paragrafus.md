@@ -10,7 +10,7 @@
 
 (2a)[^19] A hatósági ellenőrzésről az ellenőrizendő szervet az ellenőrzés megkezdése előtt – a biztonsági vezetőn keresztül – értesíteni kell, ha az értesítés megküldése az ellenőrzés célját nem hiúsítja meg.
 
-(2b)[^20] A hatósági ellenőrzésre a Nemzeti Biztonsági Felügyelet hivatásos szolgálati jogviszonnyal, valamint rendvédelmi igazgatási szolgálati jogviszonnyal rendelkező tagja jogosult. Az ellenőrzésre jogosult személyt ellenőrzési megbízólevéllel kell ellátni, amely a szolgálati igazolvánnyal együtt érvényes. Az ellenőrzésre jogosult személy az ellenőrzési jogosultságát az ellenőrzés megkezdése előtt köteles igazolni.
+(2b)[^20] A hatósági ellenőrzésre a Nemzeti Biztonsági Felügyelet nemzetbiztonsági szolgálati jogviszonnyal, valamint nemzetbiztonsági alkalmazotti jogviszonnyal rendelkező tagja jogosult. Az ellenőrzésre jogosult személyt ellenőrzési megbízólevéllel kell ellátni, amely a szolgálati igazolvánnyal együtt érvényes. Az ellenőrzésre jogosult személy az ellenőrzési jogosultságát az ellenőrzés megkezdése előtt köteles igazolni.
 
 (2c)[^21] A hatósági ellenőrzést úgy kell végezni, hogy az ellenőrzött szerv rendeltetésszerű tevékenységét lehetőleg ne akadályozza. Az ellenőrzést az ellenőrizni kívánt tevékenység folytatása idején, az ellenőrzött szerv hivatalos munkaidejének megfelelő időpontban kell végezni.
 
@@ -67,7 +67,7 @@ e)[^29] visszavonhatja a biztonsági vezető kinevezéséhez szükséges egyeté
 [^17]: A 4. § (1c) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 289. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^18]: A 4. § (2) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 375/2020. (VII. 30.) Korm. rendelet 20. § a) pontja, az 592/2023. (XII. 20.) Korm. rendelet 3. §-a szerint módosított szöveg.
 [^19]: A 4. § (2a) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 289. § (3) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^20]: A 4. § (2b) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 289. § (3) bekezdése iktatta be, szövege a 375/2020. (VII. 30.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^20]: A 4. § (2b) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 289. § (3) bekezdése iktatta be, szövege a 375/2020. (VII. 30.) Korm. rendelet 8. §-ával megállapított, a 24/2025. (II. 27.) Korm. rendelet 22. § 2. pontja szerint módosított szöveg.
 [^21]: A 4. § (2c) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 289. § (3) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^22]: A 4. § (2d) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 289. § (3) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^23]: A 4. § (2e) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 289. § (3) bekezdése iktatta be, szövege a 242/2021. (V. 12.) Korm. rendelet 2. §-ával megállapított szöveg.

@@ -1,3 +1,3 @@
-18. §[^82]
+18. §[^83]
 
-[^82]: A 18. §-t a 243/2016. (VIII. 17.) Korm. rendelet 35. § (2) bekezdés g) pontja hatályon kívül helyezte.
+[^83]: A 18. §-t a 243/2016. (VIII. 17.) Korm. rendelet 35. § (2) bekezdés g) pontja hatályon kívül helyezte.

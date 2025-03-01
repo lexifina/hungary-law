@@ -1,3 +1,3 @@
-68. §[^219]
+68. §[^220]
 
-[^219]: A 64–69. §-t a 70. § (2) bekezdése hatályon kívül helyezte.
+[^220]: A 64–69. §-t a 70. § (2) bekezdése hatályon kívül helyezte.

@@ -2,7 +2,7 @@
 
 ## AZ EGYEDI FIZIKAI BIZTONSÁGI INTÉZKEDÉSEK BESOROLÁSA
 
-## 14. [^96] A biztonsági terület határán lévő ajtó
+## 14. [^97] A biztonsági terület határán lévő ajtó
 
 23. § (1) A biztonsági terület határán lévő ajtó
 
@@ -16,4 +16,4 @@ c) 2. kategóriájú, ha legalább 5 perces
 
 (2) A biztonsági terület határán lévő ajtó 1. kategóriájú, ha bármilyen, tanúsítvánnyal nem rendelkező zárral rendelkezik.
 
-[^96]: A 14. alcím (23. §) a 243/2016. (VIII. 17.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^97]: A 14. alcím (23. §) a 243/2016. (VIII. 17.) Korm. rendelet 12. §-ával megállapított szöveg.

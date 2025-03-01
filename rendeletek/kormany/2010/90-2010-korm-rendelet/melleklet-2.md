@@ -152,8 +152,8 @@
 
 | 76. | Összes pontszám: F1+F2+F3+F4+F5 |  |
 
-2. melléklet a 90/2010. (III. 26.) Korm. rendelethez[^223]
+2. melléklet a 90/2010. (III. 26.) Korm. rendelethez[^224]
 
 A nemzeti minősített adatokra meghatározott minimum biztonsági követelmények állami szervek esetében
 
-[^223]: A 2. melléklet a 243/2016. (VIII. 17.) Korm. rendelet 34. § (2) bekezdésével megállapított szöveg.
+[^224]: A 2. melléklet a 243/2016. (VIII. 17.) Korm. rendelet 34. § (2) bekezdésével megállapított szöveg.
