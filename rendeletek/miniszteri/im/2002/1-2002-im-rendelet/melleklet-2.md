@@ -1,6 +1,6 @@
-## 0001 Kúria
+## 0001 A Kúria
 
-## 2201 Fővárosi Törvényszék
+## 2201 Fővárosi Ítélőtábla
 
 ## 2202 Szegedi Ítélőtábla
 
@@ -10,7 +10,7 @@
 
 ## 2205 Debreceni Ítélőtábla
 
-## 0100 Fővárosi Bíróság
+## 0100 Fővárosi Törvényszék
 
 ## 0101 Pesti Központi Kerületi Bíróság
 
@@ -24,8 +24,6 @@
 
 ## 0106 Budapesti XX., XXI. és XXIII. Kerületi Bíróság
 
-## 0199 Fővárosi Közigazgatási és Munkaügyi Bíróság
-
 ## 0200 Pécsi Törvényszék
 
 ## 0201 Pécsi Járásbíróság
@@ -37,8 +35,6 @@
 ## 0204 Siklósi Járásbíróság
 
 ## 0205 Szigetvári Járásbíróság
-
-## 0299 Pécsi Közigazgatási és Munkaügyi Bíróság
 
 ## 0300 Kecskeméti Törvényszék
 
@@ -56,8 +52,6 @@
 
 ## 0307 Kunszentmiklósi Járásbíróság
 
-## 0399 Kecskeméti Közigazgatási és Munkaügyi Bíróság
-
 ## 0400 Gyulai Törvényszék
 
 ## 0401 Gyulai Járásbíróság
@@ -73,8 +67,6 @@
 ## 0406 Szarvasi Járásbíróság
 
 ## 0407 Szeghalmi Járásbíróság
-
-## 0499 Gyulai Közigazgatási és Munkaügyi Bíróság
 
 ## 0500 Miskolci Törvényszék
 
@@ -98,8 +90,6 @@
 
 ## 0510 Tiszaújvárosi Járásbíróság
 
-## 0599 Miskolci Közigazgatási és Munkaügyi Bíróság
-
 ## 0600 Szegedi Törvényszék
 
 ## 0601 Szegedi Járásbíróság
@@ -112,8 +102,6 @@
 
 ## 0605 Szentesi Járásbíróság
 
-## 0699 Szegedi Közigazgatási és Munkaügyi Bíróság
-
 ## 0700 Székesfehérvári Törvényszék
 
 ## 0701 Székesfehérvári Járásbíróság
@@ -124,8 +112,6 @@
 
 ## 0704 Sárbogárdi Járásbíróság
 
-## 0799 Székesfehérvári Közigazgatási és Munkaügyi Bíróság
-
 ## 0800 Győri Törvényszék
 
 ## 0801 Győri Járásbíróság
@@ -135,8 +121,6 @@
 ## 0803 Soproni Járásbíróság
 
 ## 0804 Csornai Járásbíróság
-
-## 0899 Győri Közigazgatási és Munkaügyi Bíróság
 
 ## 0900 Debreceni Törvényszék
 
@@ -150,8 +134,6 @@
 
 ## 0905 Püspökladányi Járásbíróság
 
-## 0999 Debreceni Közigazgatási és Munkaügyi Bíróság
-
 ## 1000 Egri Törvényszék
 
 ## 1001 Egri Járásbíróság
@@ -163,8 +145,6 @@
 ## 1004 Hatvani Járásbíróság
 
 ## 1005 Hevesi Járásbíróság
-
-## 1099 Egri Közigazgatási és Munkaügyi Bíróság
 
 ## 1100 Szolnoki Törvényszék
 
@@ -180,8 +160,6 @@
 
 ## 1106 Tiszafüredi Járásbíróság
 
-## 1199 Szolnoki Közigazgatási és Munkaügyi Bíróság
-
 ## 1200 Tatabányai Törvényszék
 
 ## 1201 Tatabányai Járásbíróság
@@ -192,8 +170,6 @@
 
 ## 1204 Tatai Járásbíróság
 
-## 1299 Tatabányai Közigazgatási és Munkaügyi Bíróság
-
 ## 1300 Balassagyarmati Törvényszék
 
 ## 1301 Balassagyarmati Járásbíróság
@@ -201,8 +177,6 @@
 ## 1302 Pásztói Járásbíróság
 
 ## 1303 Salgótarjáni Járásbíróság
-
-## 1399 Salgótarjáni Közigazgatási és Munkaügyi Bíróság
 
 ## 1400 Budapest Környéki Törvényszék
 
@@ -234,8 +208,6 @@
 
 ## 1414 Érdi Járásbíróság
 
-## 1499 Pest Megyei Közigazgatási és Munkaügyi Bíróság
-
 ## 1500 Kaposvári Törvényszék
 
 ## 1501 Kaposvári Járásbíróság
@@ -249,8 +221,6 @@
 ## 1505 Nagyatádi Járásbíróság
 
 ## 1506 Siófoki Járásbíróság
-
-## 1599 Kaposvári Közigazgatási és Munkaügyi Bíróság
 
 ## 1600 Nyíregyházi Törvényszék
 
@@ -266,8 +236,6 @@
 
 ## 1606 Vásárosnaményi Járásbíróság
 
-## 1699 Nyíregyházi Közigazgatási és Munkaügyi Bíróság
-
 ## 1700 Szekszárdi Törvényszék
 
 ## 1701 Szekszárdi Járásbíróság
@@ -280,8 +248,6 @@
 
 ## 1705 Tamási Járásbíróság
 
-## 1799 Szekszárdi Közigazgatási és Munkaügyi Bíróság
-
 ## 1800 Szombathelyi Törvényszék
 
 ## 1801 Szombathelyi Járásbíróság
@@ -291,8 +257,6 @@
 ## 1803 Kőszegi Járásbíróság
 
 ## 1804 Sárvári Járásbíróság
-
-## 1899 Szombathelyi Közigazgatási és Munkaügyi Bíróság
 
 ## 1900 Veszprémi Törvényszék
 
@@ -306,8 +270,6 @@
 
 ## 1905 Zirci Járásbíróság
 
-## 1999 Veszprémi Közigazgatási és Munkaügyi Bíróság
-
 ## 2000 Zalaegerszegi Törvényszék
 
 ## 2001 Zalaegerszegi Járásbíróság
@@ -317,8 +279,6 @@
 ## 2003 Lenti Járásbíróság
 
 ## 2004 Nagykanizsai Járásbíróság
-
-## 2099 Zalaegerszegi Közigazgatási és Munkaügyi Bíróság
 
 2. számú melléklet az 1/2002. (I. 17.) IM rendelethez[^174]
 

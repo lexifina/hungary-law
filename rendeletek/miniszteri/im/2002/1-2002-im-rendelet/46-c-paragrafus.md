@@ -18,7 +18,7 @@ c) azoknak a végrehajtási ügyeknek az iratai, amelyekben az eljárás a Vht. 
 
 d) az ügykönyv.
 
-(6)[^136] A végrehajtói álláshely megszűnése esetében a végrehajtási ügyek iratait a Kar Hivatali szerve részére át kell adni.
+(6)[^136]
 
 (7)[^137] A végrehajtó a Vht. 47/A. §-a alapján beszerzett adatokat tartalmazó iratok kezelése során a Vht. 47. § (6) bekezdése szerint jár el.
 
@@ -26,5 +26,5 @@ d) az ügykönyv.
 [^133]: A 46/C. § (1) bekezdése a 6/2008. (III. 1.) IRM rendelet 1. § (9) bekezdésével megállapított szöveg. E módosító rendelet 7. § (3) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^134]: A 46/C. § (4) bekezdése a 27/2010. (V. 11.) IRM rendelet 7. § g) pontja szerint módosított szöveg.
 [^135]: A 46/C. § (5) bekezdés nyitó szövegrésze a 6/2010. (III. 12.) IRM rendelet 8. § d) pontja, az 57/2012. (XII. 28.) KIM rendelet 11. § (2) bekezdés c) pontja szerint módosított szöveg.
-[^136]: A 46/C. § (6) bekezdése az 5/2016. (III. 8.) IM rendelet 14. § (6) bekezdés c) pontja szerint módosított szöveg.
+[^136]: A 46/C. § (6) bekezdését a 31/2024. (XII. 30.) IM rendelet 4. § c) pontja hatályon kívül helyezte.
 [^137]: A 46/C. § (7) bekezdését a 6/2008. (III. 1.) IRM rendelet 1. § (10) bekezdése iktatta be. E módosító rendelet 7. § (3) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

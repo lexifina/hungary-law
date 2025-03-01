@@ -428,6 +428,116 @@ A pénzkövetelés behajtására szolgáló végrehajtási lap kiállítása ir�
 
 4.5.[^184] nyilatkozat arról, ha egyidejűleg az egyetemlegesen felelős adóstárs/készfizető kezes/zálogkötelezett ellen is került végrehajtási kérelem előterjesztésre.
 
+4/A.[^185] Nyilatkozat arról, hogy terheli-e a követelést biztosító zálogjogot ingatlan-nyilvántartásba bejegyzett alzálogjog (a továbbiakban: alzálogjog).
+
+4/A. 1. Az alzálogjog jogosultjának (a továbbiakban: alzálogjogosult) adatai:
+
+4/A.1.1. név (elnevezés)
+
+4/A.1.1.1. előző név
+
+4/A.1.1.2. születési név
+
+4/A.1.2. anyja neve
+
+4/A.1.3. születési adatok
+
+4/A.1.3.1. születési hely
+
+4/A.1.3.2. születési idő (év/hónap/nap)
+
+4/A.1.4. személyi azonosításra szolgáló egyéb adatok
+
+4/A.1.4.1. személyi azonosító
+
+4/A.1.4.2. személyi igazolvány szám
+
+4/A.1.4.3. útlevél szám
+
+4/A.1.4.4. adószám
+
+4/A.1.4.5. adóazonosító jel
+
+4/A.1.4.6. egyéb azonosító adat
+
+4/A.1.5. nem természetes személy alzálogjogosult azonosítására szolgáló egyéb adatok:
+
+4/A.1.5.1. cégjegyzékszám
+
+4/A.1.5.2. egyéb nyilvántartási adat
+
+4/A.1.5.2.1. nyilvántartást vezető szerv elnevezése
+
+4/A.1.5.2.2. nyilvántartási szám
+
+4/A.1.5.3. statisztikai szám
+
+4/A.1.5.4. adószám
+
+4/A.1.6. elérhetőségi adatok
+
+4/A.1.6.1. lakóhely (székhely)
+
+4/A.1.6.1.1. ország
+
+4/A.1.6.1.2. irányítószám
+
+4/A.1.6.1.3. helység
+
+4/A.1.6.1.4. közterület neve, jellege
+
+4/A.1.6.1.5. házszám (épületszám és lépcsőház)
+
+4/A.1.6.1.6. emelet
+
+4/A.1.6.1.7. ajtószám
+
+4/A.1.6.1.8. vezetékes telefonszám
+
+4/A.1.6.1.9. faxszám
+
+4/A.1.6.2. tartózkodási hely (telephely, fióktelep)
+
+4/A.1.6.2.1. ország
+
+4/A.1.6.2.2. irányítószám
+
+4/A.1.6.2.3. helység
+
+4/A.1.6.2.4. közterület neve, jellege
+
+4/A.1.6.2.5. házszám (épületszám és lépcsőház)
+
+4/A.1.6.2.6. emelet
+
+4/A.1.6.2.7. ajtószám
+
+4/A.1.6.2.8. vezetékes telefonszám
+
+4/A.1.6.2.9. faxszám
+
+4/A.2. az alzálogjoggal érintett ingatlan adatai
+
+4/A.2.1. ingatlan címének adatai
+
+4/A.2.1.1. ország
+
+4/A.2.1.2. irányítószám
+
+4/A.2.1.3. helység
+
+4/A.2.1.4. közterület neve, jellege
+
+4/A.2.1.5. házszám (épületszám, lépcsőházszám)
+
+4/A.2.1.6. emelet
+
+4/A.2.1.7. ajtószám
+
+4/A.2.2. helyrajzi szám
+
+4/A.3. nyilatkozat arról, hogy az alzálogjoggal érintett ingatlan 15 napnál nem régebbi hiteles tulajdoni lapja csatolásra került.
+
 5. Az adós végrehajtás alá vonható vagyonával kapcsolatos adatok:
 
 5.1. annak jelölése, hogy a végrehajtást kérő az adós bárhol fellelhető vagyona tekintetében kéri-e a végrehajtást
@@ -526,15 +636,15 @@ A pénzkövetelés behajtására szolgáló végrehajtási lap kiállítása ir�
 
 7.2. az adós 5.7. pontban megjelölt végrehajtás alá vonható vagyontárgyának helye szerint illetékes végrehajtó
 
-7.3.[^185] az egyetemleges adóstárs elrendelt/elrendelésre kerülő ügyében eljáró végrehajtó (adóstárs/készfizető kezes/zálogkötelezett megjelölésével).
+7.3.[^186] az egyetemleges adóstárs elrendelt/elrendelésre kerülő ügyében eljáró végrehajtó (adóstárs/készfizető kezes/zálogkötelezett megjelölésével).
 
 8. Nyilatkozat arról, hogy a végrehajtást kérő
 
-8.1.[^186] kéri-e, hogy a végrehajtó a végrehajtható okiratot személyesen kézbesítse az adósnak
+8.1.[^187] kéri-e, hogy a végrehajtó a végrehajtható okiratot személyesen kézbesítse az adósnak
 
 8.2. a foglalásnál és más végrehajtási eljárási cselekmény foganatosításánál részt kíván-e venni.
 
-9.[^187] Nyilatkozat arról, hogy a végrehajtást kérőt milyen költségkedvezmény illet meg:
+9.[^188] Nyilatkozat arról, hogy a végrehajtást kérőt milyen költségkedvezmény illet meg:
 
 9.1. tárgyi költségmentesség
 
@@ -554,7 +664,7 @@ A pénzkövetelés behajtására szolgáló végrehajtási lap kiállítása ir�
 
 9.9. pártfogó ügyvédi díj előlegezése vagy megfizetése alóli mentesség a tartással kapcsolatos ügyekben a joghatóságról, az alkalmazandó jogról, a határozatok elismeréséről és végrehajtásáról, valamint az e területen folytatott együttműködésről szóló, 2018. december 18-i 4/2009/EK tanácsi rendelet 46. cikk (1) bekezdése alapján
 
-10.[^188] Nyilatkozat arról, hogy az adóst milyen költségkedvezmény illet meg:
+10.[^189] Nyilatkozat arról, hogy az adóst milyen költségkedvezmény illet meg:
 
 10.1. tárgyi költségmentesség
 
@@ -592,19 +702,19 @@ A pénzkövetelés behajtására szolgáló végrehajtási lap kiállítása ir�
 
 12.2. a végrehajtást kérőnek a követelés megszűnése vagy csökkenése esetén fennálló bejelentési és a végrehajtási költség kielégítési kötelezettsége
 
-12.3.[^189] a kézbesítési kifogás előterjesztésének lehetősége és módja
+12.3.[^190] a kézbesítési kifogás előterjesztésének lehetősége és módja
 
-12.4.[^190] a végrehajtó és a végrehajtást kérő képviseletét ellátó ügyvéd és kamarai jogtanácsos díja, valamint ezek előlegezése és viselése
+12.4.[^191] a végrehajtó és a végrehajtást kérő képviseletét ellátó ügyvéd és kamarai jogtanácsos díja, valamint ezek előlegezése és viselése
 
 12.5. a végrehajtható okirat kiállításával szembeni jogorvoslati kérelem és a végrehajtási kifogás előterjesztésének lehetősége és módja
 
-12.6.[^191] a nyomtatvány 1.8. pontjához: ha az adós kiskorú, a törvényes képviselő megjelölése nélkül a kérelem nem adható be
+12.6.[^192] a nyomtatvány 1.8. pontjához: ha az adós kiskorú, a törvényes képviselő megjelölése nélkül a kérelem nem adható be
 
 12.7. arról, hogy az 5.2.-5.8. pontot a rendelkezésre álló adatoktól függően – a végrehajtás költségeinek csökkentése, a végrehajtás eredményességének növelése érdekében – akkor is indokolt kitölteni, ha végrehajtást kérő az 5.1. szerinti kérelmet terjeszt elő
 
 12.8. az adós kötelezően kitöltendő adatai.
 
-12.8.1.[^192] a nyomtatvány 1. pontjánál: A végrehajtás elrendeléséhez az adós következő adatait kötelező megadni: név vagy elnevezés, születési hely, idő vagy anyja neve, szervezet nyilvántartási száma, cég esetén cégjegyzékszám;
+12.8.1.[^193] a nyomtatvány 1. pontjánál: A végrehajtás elrendeléséhez az adós következő adatait kötelező megadni: név vagy elnevezés, születési hely, idő vagy anyja neve, szervezet nyilvántartási száma, cég esetén cégjegyzékszám;
 
 Legalább egyet meg kell adni továbbá a következő adatok közül: lakóhely vagy székhely/telephely, munkahely, végrehajtás alá vonható egyéb vagyontárgy helye.
 
@@ -648,11 +758,12 @@ Kizárólag a tájékoztatások között is felsorolásra kerülhetnek a személ
 [^182]: A 3. számú melléklet 3.6. pontja a 18/2019. (VI. 28.) IM rendelet 28. § (1) bekezdésével megállapított szöveg.
 [^183]: A 3. számú melléklet 4.3.1. pontja a 18/2019. (VI. 28.) IM rendelet 28. § (1) bekezdésével megállapított szöveg.
 [^184]: A 3. számú melléklet 4.5. pontja a 18/2019. (VI. 28.) IM rendelet 28. § (1) bekezdésével megállapított szöveg.
-[^185]: A 3. számú melléklet 7.3. pontja a 18/2019. (VI. 28.) IM rendelet 28. § (1) bekezdésével megállapított szöveg.
-[^186]: A 3. számú melléklet 8.1. pontja a 18/2019. (VI. 28.) IM rendelet 28. § (1) bekezdése szerint módosított szöveg.
-[^187]: A 3. számú melléklet 9. pontja a 18/2019. (VI. 28.) IM rendelet 28. § (1) bekezdésével megállapított szöveg.
-[^188]: A 3. számú melléklet 10. pontja a 18/2019. (VI. 28.) IM rendelet 28. § (1) bekezdésével megállapított szöveg.
-[^189]: A 3. számú melléklet 12. pont 12.3. alpontja a 16/2018. (VI. 22.) IM rendelet 6. § b) pontja szerint módosított szöveg.
-[^190]: A 3. számú melléklet 12.4. pontja a 18/2019. (VI. 28.) IM rendelet 28. § (1) bekezdése szerint módosított szöveg.
-[^191]: A 3. számú melléklet 12.6. pontja a 18/2019. (VI. 28.) IM rendelet 28. § (1) bekezdésével megállapított szöveg.
-[^192]: A 3. számú melléklet 12.8.1. alpontját a 18/2019. (VI. 28.) IM rendelet 28. § (1) bekezdése iktatta be.
+[^185]: A 3. számú melléklet 4/A. pontját a 31/2024. (XII. 30.) IM rendelet 3. §-a iktatta be.
+[^186]: A 3. számú melléklet 7.3. pontja a 18/2019. (VI. 28.) IM rendelet 28. § (1) bekezdésével megállapított szöveg.
+[^187]: A 3. számú melléklet 8.1. pontja a 18/2019. (VI. 28.) IM rendelet 28. § (1) bekezdése szerint módosított szöveg.
+[^188]: A 3. számú melléklet 9. pontja a 18/2019. (VI. 28.) IM rendelet 28. § (1) bekezdésével megállapított szöveg.
+[^189]: A 3. számú melléklet 10. pontja a 18/2019. (VI. 28.) IM rendelet 28. § (1) bekezdésével megállapított szöveg.
+[^190]: A 3. számú melléklet 12. pont 12.3. alpontja a 16/2018. (VI. 22.) IM rendelet 6. § b) pontja szerint módosított szöveg.
+[^191]: A 3. számú melléklet 12.4. pontja a 18/2019. (VI. 28.) IM rendelet 28. § (1) bekezdése szerint módosított szöveg.
+[^192]: A 3. számú melléklet 12.6. pontja a 18/2019. (VI. 28.) IM rendelet 28. § (1) bekezdésével megállapított szöveg.
+[^193]: A 3. számú melléklet 12.8.1. alpontját a 18/2019. (VI. 28.) IM rendelet 28. § (1) bekezdése iktatta be.
