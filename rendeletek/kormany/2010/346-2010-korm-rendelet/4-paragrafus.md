@@ -1,6 +1,6 @@
 4. § (1) Ha törvény vagy kormányrendelet eltérően nem rendelkezik, kormányzati célú hálózatot az alábbi felhasználók vehetnek igénybe, és kormányzati célú hálózathoz az alábbi felhasználók csatlakozhatnak:
 
-a)[^18] az Országgyűlés, a köztársasági elnök, az Alkotmánybíróság, a bíróságok, az ügyészség, az Állami Számvevőszék, a Magyar Nemzeti Bank, a központi államigazgatási szervek és területi szerveik, a fővárosi és vármegyei kormányhivatalok, a rendvédelmi szervek, a védelmi igazgatás szervei, a Magyar Honvédség;
+a)[^18] az Országgyűlés, a köztársasági elnök, az Alkotmánybíróság, a bíróságok, az ügyészség, az Állami Számvevőszék, a Magyar Nemzeti Bank, a központi államigazgatási szervek és területi szerveik, a fővárosi és vármegyei kormányhivatalok, a rendvédelmi szervek, a polgári nemzetbiztonsági szolgálatok, a védelmi és biztonsági igazgatás szervei, a Magyar Honvédség;
 
 b) a helyi önkormányzatokról szóló törvény szerint államigazgatási feladatot vagy hatósági hatáskört ellátó helyi önkormányzati szerv, valamint a köztestület;
 
@@ -44,7 +44,7 @@ b) egyedi körülményektől és feltételektől függetlenül milyen elektronik
 
 (6)[^32] Ha a (4) vagy (5) bekezdés szerinti szolgáltatást a kormányzati célú hírközlési szolgáltató a későbbiekben elérhetővé teszi, és erről a felhasználót értesíti, az igénybevételre kötelezett felhasználó köteles a nyilvános elektronikus hírközlési szolgáltatásra kötött szerződést 90 napon belül megszüntetni, és a kormányzati célú hírközlési szolgáltatást igénybe venni.
 
-[^18]: A 4. § (1) bekezdés a) pontja a 402/2012. (XII. 28.) Korm. rendelet 19. §-a, a 409/2022. (X. 24.) Korm. rendelet 10. §-a szerint módosított szöveg.
+[^18]: A 4. § (1) bekezdés a) pontja a 402/2012. (XII. 28.) Korm. rendelet 19. §-a, a 409/2022. (X. 24.) Korm. rendelet 10. §-a, a 24/2025. (II. 27.) Korm. rendelet 29. § a) pontja szerint módosított szöveg.
 [^19]: A 4. § (1) bekezdés c) pontja a 169/2013. (V. 29.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
 [^20]: A 4. § (1) bekezdés d) pontja a 169/2013. (V. 29.) Korm. rendelet 10. § (1) bekezdésével megállapított, az 53/2014. (III. 3.) Korm. rendelet 29. §-a szerint módosított szöveg.
 [^21]: A 4. § (1) bekezdés e) pontja a 169/2013. (V. 29.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.

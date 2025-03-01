@@ -1,6 +1,6 @@
-17. §[^97] (1)[^98] A VPN gazda szervezeteket és az egyes VPN gazda szervezetekhez tartozó felhasználókat a 3. melléklet tartalmazza. A VPN gazda szervezetek az EDR-szolgáltatás hatékony működése érdekében a kormányzati célú hírközlési szolgáltató jóváhagyásával jogosultak a 3. mellékletben a felelősségi körükbe rendelt felhasználói kör megosztásától megállapodásban eltérni.
+17. §[^98] (1)[^99] A VPN gazda szervezeteket és az egyes VPN gazda szervezetekhez tartozó felhasználókat a 3. melléklet tartalmazza. A VPN gazda szervezetek az EDR-szolgáltatás hatékony működése érdekében a kormányzati célú hírközlési szolgáltató jóváhagyásával jogosultak a 3. mellékletben a felelősségi körükbe rendelt felhasználói kör megosztásától megállapodásban eltérni.
 
-(2)[^99] A 3. melléklet II. táblázat 2. pont 2.1. alpontjában szereplő, valamint a (7) bekezdés alapján csatlakozók a 15. §-ban foglaltaktól eltérően a (3)–(7) bekezdésben meghatározott feltételek szerint csatlakoznak az EDR hálózathoz.
+(2)[^100] A 3. melléklet II. táblázat 2. pont 2.1. alpontjában szereplő, valamint a (7) bekezdés alapján csatlakozók a 15. §-ban foglaltaktól eltérően a (3)–(7) bekezdésben meghatározott feltételek szerint csatlakoznak az EDR hálózathoz.
 
 (3) A (2) bekezdés szerinti csatlakozó csatlakozási szándékát a kormányzati célú hírközlési szolgáltatóhoz benyújtott kérelemben terjeszti elő, amelyhez csatolja a különös VPN használati szabályzat tervezetét, valamint a 15. § (8) bekezdés szerinti iratot (ellenőrzési lista).
 
@@ -8,15 +8,15 @@
 
 (5) A kormányzati célú hírközlési szolgáltató a kérelem hiánytalan beérkezésétől számított 15 napon belül tájékoztatja a kérelmezőt a vizsgálat eredményéről és nem megfelelőség esetén megjelöli a csatlakozáshoz szükséges intézkedéseket.
 
-(6)[^100] Ha a kérelem megfelel a csatlakozáshoz szükséges műszaki, jogi és biztonsági feltételeknek, a kérelmező kiértesítését követő 10 napon belül a kormányzati célú hírközlési szolgáltató a csatlakozási igényről dönt, és döntését írásban közli a kérelmező felhasználóval. A csatlakozási igény elfogadása esetén a kormányzati célú hírközlési szolgáltató jóváhagyja a kérelmező felhasználó benyújtott szabályzatát, és megköti a felhasználói szerződést.
+(6)[^101] Ha a kérelem megfelel a csatlakozáshoz szükséges műszaki, jogi és biztonsági feltételeknek, a kérelmező kiértesítését követő 10 napon belül a kormányzati célú hírközlési szolgáltató a csatlakozási igényről dönt, és döntését írásban közli a kérelmező felhasználóval. A csatlakozási igény elfogadása esetén a kormányzati célú hírközlési szolgáltató jóváhagyja a kérelmező felhasználó benyújtott szabályzatát, és megköti a felhasználói szerződést.
 
-(7)[^101] A 3. mellékletben fel nem sorolt szervezetek csatlakozását egyedi finanszírozású felhasználóként a kormányzati célú hírközlési szolgáltató indokolt esetben engedélyezheti.
+(7)[^102] A 3. mellékletben fel nem sorolt szervezetek csatlakozását egyedi finanszírozású felhasználóként a kormányzati célú hírközlési szolgáltató indokolt esetben engedélyezheti.
 
-(8)[^102]
+(8)[^103]
 
-[^97]: A 17. § a 169/2013. (V. 29.) Korm. rendelet 21. §-ával megállapított szöveg.
-[^98]: A 17. § (1) bekezdése a 291/2023. (VII. 6.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^99]: A 17. § (2) bekezdése a 410/2024. (XII. 20.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^100]: A 17. § (6) bekezdése a 291/2023. (VII. 6.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^101]: A 17. § (7) bekezdése a 291/2023. (VII. 6.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^102]: A 17. § (8) bekezdését a 291/2023. (VII. 6.) Korm. rendelet 15. §-a hatályon kívül helyezte.
+[^98]: A 17. § a 169/2013. (V. 29.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^99]: A 17. § (1) bekezdése a 291/2023. (VII. 6.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^100]: A 17. § (2) bekezdése a 410/2024. (XII. 20.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^101]: A 17. § (6) bekezdése a 291/2023. (VII. 6.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^102]: A 17. § (7) bekezdése a 291/2023. (VII. 6.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^103]: A 17. § (8) bekezdését a 291/2023. (VII. 6.) Korm. rendelet 15. §-a hatályon kívül helyezte.

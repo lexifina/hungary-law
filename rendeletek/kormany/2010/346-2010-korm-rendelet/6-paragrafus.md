@@ -1,4 +1,4 @@
-6. §[^51] (1) A kormányzati célú hírközlési szolgáltató az e rendelet alapján felelősségi körébe tartozó hálózat vonatkozásában kizárólagos jog alapján látja el:
+6. §[^51] (1)[^52] A kormányzati célú hírközlési szolgáltató az e rendelet alapján felelősségi körébe tartozó hálózat vonatkozásában kizárólagos jog alapján látja el:
 
 a) a kormányzati célú hálózat tervezését, a kormányzati célú hálózat előkészítését, létesítését, bővítését, fejlesztését, valamint fenntartására, működtetésére és üzemeltetésére irányuló szolgáltatásokat (a továbbiakban együtt: működtetés);
 
@@ -40,7 +40,8 @@ g) ellátja a VPN erőforrás-gazdálkodási feladatokat, megvizsgálja és elb�
 
 (6) Az e §-ban foglaltak nem érintik az elkülönült hírközlési tevékenység végzésére jogosult e rendeletben foglalt jogosultságait.
 
-(7)[^52] A (2) bekezdés e) pontjában foglalt kötelezettség az EDR vonatkozásában nem áll fenn.
+(7)[^53] A (2) bekezdés e) pontjában foglalt kötelezettség az EDR vonatkozásában nem áll fenn.
 
 [^51]: A 6. § a 169/2013. (V. 29.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^52]: A 6. § (7) bekezdése a 410/2024. (XII. 20.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^52]: [A 24/2025. (II. 27.) Korm. rendelet 29. § b) pontja által elrendelt módosítás, amely szerint a 6. § (1) bekezdés e) pontjában a „védelmi igazgatás” szövegrész helyébe a „védelmi és biztonsági igazgatás” szöveg lép, nem vezethető át.]
+[^53]: A 6. § (7) bekezdése a 410/2024. (XII. 20.) Korm. rendelet 2. §-ával megállapított szöveg.
