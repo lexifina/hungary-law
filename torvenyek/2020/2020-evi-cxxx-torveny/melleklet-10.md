@@ -127,7 +127,3 @@ VI.
 1. személyi juttatások, illetmények, kedvezmények nyilvántartása a központi létszám- és bérgazdálkodási statisztikai információs rendszer figyelembevételével
 
 2. tanulmányi szerződésekre vonatkozó adatok
-
-VII.
-
-1. a foglalkoztatott munkából való távollétének jogcíme és időtartama

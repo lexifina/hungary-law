@@ -346,7 +346,7 @@ kapcsolatos egyéb döntések
 
 |
 
-Tábornok Hszt. szerinti rendvédelmi szervhez történő áthelyezése
+Tábornok Hszt. szerinti rendvédelmi szervhez vagy polgári nemzetbiztonsági szolgálathoz történő áthelyezése
 
 |
 
@@ -362,7 +362,7 @@ X
 
 |
 
-Főtiszt, tiszt, zászlós, tiszthelyettes Hszt. szerinti rendvédelmi szervhez történő áthelyezése
+Főtiszt, tiszt, zászlós, tiszthelyettes Hszt. szerinti rendvédelmi szervhez vagy polgári nemzetbiztonsági szolgálathoz történő áthelyezése
 
 |
 

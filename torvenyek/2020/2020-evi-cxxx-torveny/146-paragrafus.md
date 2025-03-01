@@ -6,7 +6,7 @@
 
 a) a NAV-nál és jogelődeinél szolgálati jogviszonyban, kormányzati szolgálati, hivatásos szolgálati, közszolgálati, közalkalmazotti jogviszonyban és munkaviszonyban töltött időt,
 
-b) más költségvetési szervnél kormányzati szolgálati jogviszonyban, állami szolgálati jogviszonyban, hivatásos szolgálati jogviszonyban, közszolgálati jogviszonyban, továbbá közalkalmazotti, rendvédelmi igazgatási alkalmazotti, honvédelmi alkalmazotti, igazságügyi alkalmazotti szolgálati, bírói vagy ügyészségi szolgálati viszonyban töltött időt, ha a NAV-nál fennálló szolgálati jogviszony e jogviszonyok valamelyikéből áthelyezéssel vagy közvetlen kinevezéssel jött létre.
+b) más költségvetési szervnél kormányzati szolgálati jogviszonyban, állami szolgálati jogviszonyban, hivatásos szolgálati jogviszonyban, közszolgálati jogviszonyban, továbbá közalkalmazotti, rendvédelmi igazgatási alkalmazotti, nemzetbiztonsági alkalmazotti, honvédelmi alkalmazotti, igazságügyi alkalmazotti szolgálati, bírói vagy ügyészségi szolgálati viszonyban töltött időt, ha a NAV-nál fennálló szolgálati jogviszony e jogviszonyok valamelyikéből áthelyezéssel vagy közvetlen kinevezéssel jött létre.
 
 (3) A (2) bekezdés b) pontja alkalmazásában közvetlen kinevezés, ha az érintett jogviszonya a NAV-nál a (2) bekezdés b) pontjában meghatározott jogviszonyának megszűnését követő első munkanapon jön létre, valamint ha a jogviszony létesítésére a 39. § (3) bekezdése alkalmazásával került sor.
 

@@ -82,7 +82,7 @@ d) a nevelőszülő és a helyettes szülő;
 
 a) a NAV-nál pénzügyőri státuszon szolgálati jogviszonyban eltöltött – naptári napban meghatározandó – idő,
 
-b) a NAV-nál vagy jogelődjénél, továbbá valamely rendvédelmi feladatokat ellátó szervnél hivatásos szolgálati jogviszonyban, illetve a Magyar Honvédségnél hivatásos és szerződéses szolgálati viszonyban eltöltött – naptári napban meghatározandó – idő, valamint
+b) a NAV-nál vagy jogelődjénél, továbbá valamely rendvédelmi feladatokat ellátó szervnél hivatásos szolgálati jogviszonyban, a polgári nemzetbiztonsági szolgálatnál hivatásos szolgálati jogviszonyban, illetve a Magyar Honvédségnél hivatásos és szerződéses szolgálati viszonyban eltöltött – naptári napban meghatározandó – idő, valamint
 
 c) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.) hatálybalépése előtt a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: 1996. évi XLIII. törvény) rendelkezései alapján tényleges hivatásos szolgálatban eltöltött szolgálati idő.
 

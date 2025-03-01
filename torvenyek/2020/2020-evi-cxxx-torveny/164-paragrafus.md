@@ -18,7 +18,7 @@ g) a Kttv., a Ktv., Ktjv., a Kjt., illetve a Kit. hatálya alá tartozó szervn�
 
 h) az állami vezetői szolgálati és politikai szolgálati jogviszonyban és
 
-i) a rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, továbbá
+i) a rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, nemzetbiztonsági alkalmazotti jogviszonyban, továbbá
 
 j) a 39. § szerinti jogviszony-létesítés esetén a két jogviszony között,
 
