@@ -4,11 +4,11 @@
 
 a) a rendőrség döntését arról, hogy
 
-aa) a bántalmazó köteles a bántalmazott életvitelszerű tartózkodására szolgáló ingatlant elhagyni, és oda az ideiglenes megelőző távoltartó határozat hatálya alatt nem térhet vissza, vagy
+aa) a bántalmazó köteles a bántalmazott tartózkodására szolgáló ingatlant elhagyni, és oda az ideiglenes megelőző távoltartó határozat hatálya alatt nem térhet vissza, vagy
 
 ab) a bántalmazóra az 5. § (2) bekezdés b) pontjában meghatározott kötelezettség az ideiglenes megelőző távoltartás hatálya alatt – az 5. § (3) bekezdése alapján – nem vonatkozik,
 
-b) a bántalmazott életvitelszerű tartózkodására szolgáló ingatlan címét,
+b) a bántalmazott tartózkodására szolgáló ingatlan címét,
 
 c) a rendőrség döntését arról, hogy a bántalmazó köteles magát távol tartani a bántalmazottól, illetve a határozatban megjelölt más személytől,
 

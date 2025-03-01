@@ -4,7 +4,7 @@
 
 (2) A megelőző távoltartás elrendelésére irányuló nemperes eljárásban azokra az eljárási kérdésekre, amelyeket e törvény eltérően nem szabályoz, a polgári perrendtartásról szóló 2016. évi CXXX. törvény (a továbbiakban: Pp.) szabályait a nemperes eljárás sajátosságaiból eredő eltérésekkel és a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló törvénynek a bírósági polgári nemperes eljárásokra vonatkozó általános rendelkezéseit kell alkalmazni.
 
-(3) Az eljárásra a bántalmazott életvitelszerű tartózkodási helye szerinti járásbíróság illetékes.
+(3) Az eljárásra a bántalmazott tartózkodási helye szerinti járásbíróság illetékes.
 
 (4) A Pp. kizárásra irányuló szabályait azzal kell alkalmazni, hogy nem járhat el bíróként és ügyészként az ideiglenes megelőző távoltartás során eljáró rendőr, valamint annak Ptk. szerinti hozzátartozója sem.
 

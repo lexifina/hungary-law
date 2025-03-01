@@ -10,13 +10,17 @@
 
 a) magát távol tartani a bántalmazottól,
 
-b) magát távol tartani a bántalmazott életvitelszerű tartózkodására szolgáló ingatlantól,
+b) magát távol tartani a bántalmazott tartózkodására szolgáló ingatlantól,
 
 c) magát távol tartani az ideiglenes megelőző távoltartó határozatban, illetve a megelőző távoltartó határozatban megjelölt más személytől, és
 
 d) tartózkodni attól, hogy a bántalmazottal közvetlenül vagy közvetve érintkezésbe lépjen.
 
-(3) Ha a bántalmazott az életvitelszerű tartózkodására szolgáló ingatlant – a használat jogcímétől függetlenül – a bántalmazóval közösen használja, a bántalmazó akkor köteles magát távol tartani a bántalmazott életvitelszerű tartózkodására szolgáló ingatlantól, ha a bántalmazott az ingatlan használatára a szívességi lakáshasználaton kívül egyéb jogcímmel rendelkezik, vagy a bántalmazóval közös gyermekét neveli.
+(3) Ha a bántalmazó a tartózkodására szolgáló ingatlant – a használat jogcímétől függetlenül – a bántalmazottal közösen használja, a bántalmazó nem kötelezhető a bántalmazott tartózkodására szolgáló ingatlantól való távoltartásra, ha
+
+a) a bántalmazott az ingatlan használatára a szívességi lakáshasználaton kívül egyéb jogcímmel nem rendelkezik, de a bántalmazó igen, és
+
+b) a bántalmazott a bántalmazóval folytatott életközösségében gyermeket nem nevel.
 
 (4) Az ideiglenes megelőző távoltartó határozat, illetve megelőző távoltartó határozat a bántalmazó más jogszabály vagy szerződés alapján fennálló tartási, valamint a bántalmazottal közösen használt ingatlan fenntartására vonatkozó fizetési kötelezettségeit nem érinti.
 

@@ -2,7 +2,7 @@
 
 12. § (1) A határozat elleni jogorvoslatra a közigazgatási nemperes eljárásokra vonatkozó általános szabályokat az alábbi eltérésekkel kell alkalmazni.
 
-(2) A kérelem elbírálására a bántalmazott életvitelszerű tartózkodási helye szerinti járásbíróság jogosult. A kérelmet a határozat közlésétől számított három napon belül kell a bíróságnál benyújtani. A bíróság a kérelemről annak beérkezésétől számított három munkanapon belül határoz.
+(2) A kérelem elbírálására a bántalmazott tartózkodási helye szerinti járásbíróság jogosult. A kérelmet a határozat közlésétől számított három napon belül kell a bíróságnál benyújtani. A bíróság a kérelemről annak beérkezésétől számított három munkanapon belül határoz.
 
 (3)–(5)
 
