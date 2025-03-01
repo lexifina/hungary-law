@@ -8,4 +8,6 @@ b) 46. § (1) bekezdése, 60/F–H. §-a és V. Fejezete a gyermekek szexuális 
 
 c) 48. és 54. §-a a kölcsönös elismerés elvének büntetőügyekben hozott, szabadságvesztés büntetéseket kiszabó vagy szabadságelvonással járó intézkedéseket alkalmazó ítéleteknek az Európai Unióban való végrehajtása céljából történő alkalmazásáról szóló, 2008. november 27-i 2008/909/IB tanácsi kerethatározat 8. cikk (3) és (4) bekezdésének, valamint 17. cikk (2) bekezdésének
 
+d) 12. § (1) bekezdés f) pontja és (3) bekezdése, valamint 16. § (1) bekezdés a) pontja és (2) bekezdése az európai elfogatóparancsról és a tagállamok közötti átadási eljárásokról szóló, 2002. június 13-i 2002/584/IB kerethatározatnak
+
 való megfelelést szolgálja.

@@ -10,4 +10,8 @@ d) a kiadatás alapjául szolgáló cselekményt Magyarországon, az Európai Un
 
 e) a megkereső állam azzal a céllal kéri egy személy kiadatását, hogy vele szemben a távollétében meghozott határozatban kiszabott szabadságvesztés büntetést vagy szabadságelvonással járó intézkedést hajtson végre, és a határozathozatalt megelőző eljárásban nem biztosították a védelemhez fűződő jogokat.
 
+f) a kiadni kért személy kiadásához harmadik ország vagy az Európai Unió tagállamának hozzájárulása szükséges, és a hozzájárulást a harmadik ország vagy az Európai Unió tagállama nem adja meg.
+
 (2) Az (1) bekezdés e) pontja alapján nem tagadható meg a kiadatás, ha a megkereső állam megfelelő garanciát nyújt arra, hogy a kiadni kért személy kérelmére biztosítja részére az ügy újbóli tárgyalásához való jogot.
+
+(3) Az (1) bekezdés f) pontjában meghatározott esetben a Fővárosi Törvényszék a hozzájárulás megadását a kiadatási kérelemnek a hozzájárulás iránti kérelem szempontjából lényeges adatainak, így különösen a bűncselekmény tényállásának és jogi minősítésének a továbbításával, a miniszter útján kezdeményezi. Ha a megkeresett ország az Európai Unió tagállama, a hozzájárulás iránti kérelem továbbítása során az Európai Unió tagállamaival folyatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény alkalmazásával kell eljárni. A kezdeményezésben a Fővárosi Törvényszék tájékoztatást nyújt a kiadatási eljárás határidejéről, és ennek figyelembevételével a hozzájárulás megadására megfelelő határidőt tűz.
