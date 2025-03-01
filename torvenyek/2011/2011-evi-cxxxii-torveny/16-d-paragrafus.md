@@ -2,7 +2,7 @@
 
 (2) Érdemtelenségnek minősül különösen, ha a közalkalmazott a munkahelyén vagy azon kívül olyan magatartást tanúsít, amely
 
-a) az Egyetem, a közigazgatási szervek, a rendvédelmi feladatokat ellátó szervek vagy a Magyar Honvédség, illetve ezek vezetőinek jó hírnevét vagy társadalmi megítélését hátrányosan befolyásolhatja, függetlenül attól, hogy e magatartás jogsértést megvalósít-e,
+a) az Egyetem, a közigazgatási szervek, a rendvédelmi feladatokat ellátó szervek, a polgári nemzetbiztonsági szolgálatok vagy a honvédelmi szervezet, illetve ezek vezetőinek jó hírnevét vagy társadalmi megítélését hátrányosan befolyásolhatja, függetlenül attól, hogy e magatartás jogsértést megvalósít-e,
 
 b) az Egyetem etikai kódexében vagy esélyegyenlőségi szabályzatában meghatározott előírásokat súlyosan sérti,
 

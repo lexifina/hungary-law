@@ -30,7 +30,7 @@ f) különleges jogrendben, valamint a katasztrófák megelőzése érdekében e
 
 g) a rendészetért felelős miniszter által elrendelt feladatokat ellátni.
 
-(3) A rendészeti képzés nappali munkarendben tanuló hivatásos állományú, valamint pénzügyőri státuszon adó- és vámhatósági szolgálati jogviszonyban álló hallgatóját a (2) bekezdés c), f) és g) pontjában, ösztöndíjas hallgatóját a (2) bekezdés f) pontjában rögzített feladatok végrehajtásáért jogszabályban meghatározott térítés illeti meg, amelyet az adott rendvédelmi szerv, illetve a Nemzeti Adó- és Vámhivatal költségvetésében kell biztosítani. Az érintett hallgató számára a térítést az adott rendvédelmi szerv, illetve a Nemzeti Adó- és Vámhivatal folyósítja.
+(3) A rendészeti képzés nappali munkarendben tanuló hivatásos állományú, valamint pénzügyőri státuszon adó- és vámhatósági szolgálati jogviszonyban álló hallgatóját a (2) bekezdés c), f) és g) pontjában, ösztöndíjas hallgatóját a (2) bekezdés f) pontjában rögzített feladatok végrehajtásáért jogszabályban meghatározott térítés illeti meg, amelyet az adott rendvédelmi szerv, polgári nemzetbiztonsági szolgálat, illetve a Nemzeti Adó- és Vámhivatal költségvetésében kell biztosítani. Az érintett hallgató számára a térítést az adott rendvédelmi szerv, polgári nemzetbiztonsági szolgálat, illetve a Nemzeti Adó- és Vámhivatal folyósítja.
 
 (4) A szakmai gyakorlat teljesítése során a hallgató állományviszonyának megfelelően jogosult, illetve köteles a szerv szolgálati feladatainak végrehajtásában közreműködni, bármely cselekménynél jelen lenni, intézkedésben részt venni, részfeladatokat felügyelet mellett végrehajtani.
 

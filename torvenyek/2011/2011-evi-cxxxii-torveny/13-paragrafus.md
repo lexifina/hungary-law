@@ -16,9 +16,11 @@ d) közszolgálati tisztviselő, kormánytisztviselő kinevezéstől eltérő fo
 
 e) rendvédelmi igazgatási alkalmazott, honvédelmi alkalmazott kinevezéstől eltérő foglalkoztatás, illetve a Hszt. szerinti tartós átirányítás keretében,
 
-f) a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti adó- és vámhatósági szolgálati jogviszonyban (a továbbiakban: adó- és vámhatósági szolgálati jogviszony) álló személy kirendeléssel vagy vezényléssel, valamint
+f) a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti adó- és vámhatósági szolgálati jogviszonyban (a továbbiakban: adó- és vámhatósági szolgálati jogviszony) álló személy kirendeléssel vagy vezényléssel,
 
-g) – egyéb jogviszonyától függetlenül – munkaviszonyban álló személy
+g) polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvény szerinti szolgálati jogviszonyban álló személy vezényléssel, valamint
+
+h) – egyéb jogviszonyától függetlenül – munkaviszonyban álló személy
 
 tölthet be.
 
