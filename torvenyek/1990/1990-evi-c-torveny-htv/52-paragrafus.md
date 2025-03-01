@@ -224,6 +224,8 @@ n) a pedagógusok új életpályájáról szóló törvény szerinti köznevelé
 
 o) a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló törvény szerinti jogviszony
 
+p) a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvény szerinti nemzetbiztonsági szolgálati jogviszony és nemzetbiztonsági alkalmazotti jogviszony
+
 keretében végzett kötelezettség;
 
 54. beruházás: az adómentességet, adókedvezményt rendeletében biztosító önkormányzat illetékességi területén üzembe helyezett, a számvitelről szóló törvény szerinti olyan beruházás, amelyet a vállalkozó vesz első ízben használatba;
