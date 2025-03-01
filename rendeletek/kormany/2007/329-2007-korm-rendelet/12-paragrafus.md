@@ -38,7 +38,7 @@ m)[^126] ellenőrzi a házi őrizet, valamint a lakhelyelhagyási tilalom előí
 
 n)[^127] a szabálysértési elzárással is büntethető szabálysértés esetén lefolytatja a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló törvényben meghatározott, a rendőrség hatáskörébe utalt bírósági eljárást előkészítő eljárást,
 
-o)[^128] elrendeli az erre vonatkozó bejelentés szerint feltételezhetően az illetékességi területén eltűnt, a rendvédelmi feladatokat ellátó szerv hivatásos állományú tagja szolgálati igazolványának, illetve szolgálati jelvényének (a továbbiakban együtt: eltűnt szolgálati okmány) körözését, valamint körözési eljárást lefolytató szervként végzi az eltűnt szolgálati okmány hollétének megállapítására irányuló körözési tevékenységet,
+o)[^128] elrendeli az erre vonatkozó bejelentés szerint feltételezhetően az illetékességi területén eltűnt, a rendvédelmi feladatokat ellátó szerv és a polgári nemzetbiztonsági szolgálat hivatásos állományú tagja szolgálati igazolványának, illetve szolgálati jelvényének, valamint a nemzetbiztonsági alkalmazott szolgálati igazolványának (a továbbiakban együtt: eltűnt szolgálati okmány) körözését, valamint körözési eljárást lefolytató szervként végzi az eltűnt szolgálati okmány hollétének megállapítására irányuló körözési tevékenységet,
 
 p)[^129] lefolytatja a légiközlekedésről szóló 1995. évi XCVII. törvény 66/A. § (2) bekezdés b) pontjában a rendőrség hatáskörébe utalt bírságolással kapcsolatos eljárást.
 
@@ -127,7 +127,7 @@ végzi.
 [^125]: A 12. § (2) bekezdés l) pontját a 208/2008. (VIII. 27.) Korm. rendelet 23. § (3) bekezdése iktatta be.
 [^126]: A 12. § (2) bekezdés m) pontját a 148/2010. (IV. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be.
 [^127]: A 12. § (2) bekezdés n) pontját a 361/2010. (XII. 30.) Korm. rendelet 9. §-a iktatta be, szövege a 63/2012. (IV. 2.) Korm. rendelet 5. § (3) bekezdése, a 102/2012. (V. 18.) Korm. rendelet 21. § c) pontja szerint módosított szöveg.
-[^128]: A 12. § (2) bekezdés o) pontját a 441/2016. (XII. 16.) Korm. rendelet 17. §-a iktatta be.
+[^128]: A 12. § (2) bekezdés o) pontját a 441/2016. (XII. 16.) Korm. rendelet 17. §-a iktatta be, szövege a 24/2025. (II. 27.) Korm. rendelet 15. §-ával megállapított szöveg.
 [^129]: A 12. § (2) bekezdés p) pontját a 267/2019. (XI. 19.) Korm. rendelet 15. §-a iktatta be.
 [^130]: A 12. § (3) bekezdés b) pontja a 247/2009. (XI. 10.) Korm. rendelet 28. § (1) bekezdésével megállapított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^131]: A 12. § (3) bekezdés c) pontja a 43/2024. (II. 29.) Korm. rendelet 5. §-ával megállapított szöveg.

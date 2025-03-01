@@ -1,4 +1,4 @@
-17. §[^182] (1) Ez a rendelet
+17. §[^184] (1) Ez a rendelet
 
 a) a pirotechnikai termékek nyomonkövetési rendszerének a 2007/23/EK európai parlamenti és tanácsi irányelv alapján történő létrehozásáról szóló, 2014. április 16-i 58/2014/EU bizottsági rendelet,
 
@@ -15,6 +15,10 @@ f) a harmadik országbeli állampolgár vagy hontalan személy által a tagálla
 g) a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2006. december 20-i 1987/2006/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 1987/2006/EK rendelet),
 
 h) a rendőrségi együttműködés és a büntetőügyekben folytatott igazságügyi együttműködés terén a Schengeni Információs Rendszer (SIS) létrehozásáról, működéséről és használatáról, a 2007/533/IB tanácsi határozat módosításáról és hatályon kívül helyezéséről, valamint az 1986/2006/EK európai parlamenti és tanácsi rendelet és a 2010/261/EU bizottsági határozat hatályon kívül helyezéséről szóló, 2018. november 28-i (EU) 2018/1862 európai parlamenti és tanácsi rendelet (a továbbiakban: 2018/1862 európai parlamenti és tanácsi rendelet)
+
+i)[^185] a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i (EU) 2016/399 európai parlamenti és tanácsi rendelet,
+
+j)[^186] a személyek határátlépésére irányadó szabályok uniós kódexéről szóló (EU) 2016/399 rendelet módosításáról szóló, 2024. június 13-i (EU) 2024/1717 európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
@@ -34,4 +38,6 @@ f) a SIRENE Kézikönyvről és a Schengeni Információs Rendszer második gene
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^182]: A 17. §-t a 100/2015. (IV. 20.) Korm. rendelet 31. §-a iktatta be, szövege a 276/2021. (V. 26.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^184]: A 17. §-t a 100/2015. (IV. 20.) Korm. rendelet 31. §-a iktatta be, szövege a 276/2021. (V. 26.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^185]: A 17. § (1) bekezdés i) pontját a 13/2025. (II. 18.) Korm. rendelet 3. §-a iktatta be.
+[^186]: A 17. § (1) bekezdés j) pontját a 13/2025. (II. 18.) Korm. rendelet 3. §-a iktatta be.

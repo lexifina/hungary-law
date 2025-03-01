@@ -1,6 +1,6 @@
 ## A határrendészeti kirendeltségek elnevezése és székhelye
 
-## 1.[^232] Bács-Kiskun vármegye
+## 1.[^236] Bács-Kiskun vármegye
 
 ## 1.1. Határrendészeti Kirendeltség Hercegszántó, Hercegszántó
 
@@ -8,39 +8,23 @@
 
 ## 1.3. Határrendészeti Kirendeltség Kelebia, Kelebia
 
-## 2. Békés vármegye[^233]
+## 2.[^237]
 
-## 2.1. Határrendészeti Kirendeltség Battonya, Battonya
-
-## 2.2. Határrendészeti Kirendeltség Lőkösháza, Lőkösháza
-
-## 2.3. Határrendészeti Kirendeltség Gyula, Gyula
-
-## 2.4. Határrendészeti Kirendeltség Kötegyán, Kötegyán
-
-## 2.5. Határrendészeti Kirendeltség Biharugra, Biharugra
-
-## 3.[^234] Csongrád-Csanád vármegye[^235]
+## 3.[^238] Csongrád-Csanád vármegye[^239]
 
 ## 3.1. Határrendészeti Kirendeltség Szeged, Szeged
 
 ## 3.2. Határrendészeti Kirendeltség Kiszombor, Kiszombor
 
-## 3.3. Határrendészeti Kirendeltség Nagylak, Nagylak
+## 3.3.[^240]
 
-## 4. Hajdú-Bihar vármegye[^236]
+## 4. [^241]
 
-## 4.1. Határrendészeti Kirendeltség Biharkeresztes, Biharkeresztes
+## 5. Szabolcs-Szatmár-Bereg vármegye[^242]
 
-## 4.2. Határrendészeti Kirendeltség Létavértes, Létavértes
+## 5.1.[^243]
 
-## 4.3. Határrendészeti Kirendeltség Nyírábrány, Nyírábrány
-
-## 5. Szabolcs-Szatmár-Bereg vármegye[^237]
-
-## 5.1. Határrendészeti Kirendeltség Nyírbátor, Nyírbátor
-
-## 5.2. Határrendészeti Kirendeltség Csenger, Csenger
+## 5.2.[^244]
 
 ## 5.3. Határrendészeti Kirendeltség Kölcse, Kölcse
 
@@ -50,7 +34,7 @@
 
 ## 5.6. Határrendészeti Kirendeltség Záhony, Záhony
 
-4. melléklet a 329/2007. (XII. 13.) Korm. rendelethez[^238]
+4. melléklet a 329/2007. (XII. 13.) Korm. rendelethez[^245]
 
 1. Az ORFK
 
@@ -74,10 +58,13 @@
 
 1.8. ellenőrző hatóságként jár el a harmadik országbeli állampolgár, vagy hontalan személy által a tagállamok egyikében benyújtott nemzetközi védelem iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló 604/2013/EU rendelet hatékony alkalmazása érdekében az ujjlenyomatok összehasonlítását szolgáló Eurodac létrehozásáról, továbbá a tagállamok bűnüldöző hatóságai és az Europol által az Eurodac-adatokkal való, bűnüldözési célú összehasonlítások kérelmezéséről, valamint a szabadságon, a biztonságon és a jog érvényesülésén alapuló térség nagyméretű IT-rendszereinek üzemeltetési igazgatását végző ügynökség létrehozásáról szóló 1077/2011/EU rendelet módosításáról szóló, 2013. június 26-i 603/2013/EU európai parlamenti és tanácsi rendelet alapján.
 
-[^232]: A 3. melléklet 1. pontja a 479/2024. (XII. 31.) Korm. rendelet 25. §-ával megállapított szöveg.
-[^233]: A 3. melléklet 2. pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § b) pontja szerint módosított szöveg.
-[^234]: A 3. melléklet 3. pont nyitó szövegrésze a 371/2020. (VII. 30.) Korm. rendelet 13. § c) pontjával megállapított szöveg, szövege a 616/2022. (XII. 29.) Korm. rendelet 86. § b) pontja szerint módosított szöveg..
-[^235]: A 3. melléklet szövege a 616/2022. (XII. 29.) Korm. rendelet 86. § b) pontja szerint módosított szöveg.
-[^236]: A 3. melléklet 4. pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § b) pontja szerint módosított szöveg.
-[^237]: A 3. melléklet 5. pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § b) pontja szerint módosított szöveg.
-[^238]: A 4. mellékletet újonnan a 276/2021. (V. 26.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^236]: A 3. melléklet 1. pontja a 479/2024. (XII. 31.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^237]: A 3. melléklet 2. pontját a 13/2025. (II. 18.) Korm. rendelet 4. §-a hatályon kívül helyezte.
+[^238]: A 3. melléklet 3. pont nyitó szövegrésze a 371/2020. (VII. 30.) Korm. rendelet 13. § c) pontjával megállapított szöveg, szövege a 616/2022. (XII. 29.) Korm. rendelet 86. § b) pontja szerint módosított szöveg..
+[^239]: A 3. melléklet szövege a 616/2022. (XII. 29.) Korm. rendelet 86. § b) pontja szerint módosított szöveg.
+[^240]: A 3. melléklet 3.3. pontját a 13/2025. (II. 18.) Korm. rendelet 4. §-a hatályon kívül helyezte.
+[^241]: A 3. melléklet 4. pontját a 13/2025. (II. 18.) Korm. rendelet 4. §-a hatályon kívül helyezte.
+[^242]: A 3. melléklet 5. pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § b) pontja szerint módosított szöveg.
+[^243]: A 3. melléklet 5.1. pontját a 13/2025. (II. 18.) Korm. rendelet 4. §-a hatályon kívül helyezte.
+[^244]: A 3. melléklet 5.2. pontját a 13/2025. (II. 18.) Korm. rendelet 4. §-a hatályon kívül helyezte.
+[^245]: A 4. mellékletet újonnan a 276/2021. (V. 26.) Korm. rendelet 6. § (1) bekezdése iktatta be.
