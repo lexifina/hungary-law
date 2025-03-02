@@ -1,5 +1,5 @@
 ## 12. A rendőrségi fogdák rendjéről szóló 56/2014. (XII. 5.) BM rendelet módosítása
 
-25. § A rendőrségi fogdák rendjéről szóló 56/2014. (XII. 5.) BM rendelet 2. §-a a következő 7. ponttal egészül ki:
+25. §[^26]
 
-(E rendelet alkalmazásában:)
+[^26]: A 25. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
