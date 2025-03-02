@@ -4,9 +4,9 @@
 
 8. § (1) A kérelmező
 
-a) a 9. § (1) bekezdése szerinti, a programban történő részvételének előzetes jóváhagyása iránti kérelmét (a továbbiakban: előzetes jóváhagyási kérelem), a 14. § (1) bekezdése szerinti szállítási szerződés jóváhagyása iránti kérelmét, valamint a 17. § (1) bekezdése szerinti kifizetési kérelmét és azok mellékleteit ügyfélkapus azonosítást követően, a Kincstár által erre a célra rendszeresített elektronikus űrlapon,
+a)[^21] a 9. § (1) bekezdése szerinti, a programban történő részvételének előzetes jóváhagyása iránti kérelmét (a továbbiakban: előzetes jóváhagyási kérelem), a 14. § (1) bekezdése szerinti szállítási szerződés jóváhagyása iránti kérelmét, valamint a 17. § (1) bekezdése szerinti kifizetési kérelmét és azok mellékleteit elektronikus azonosítást követően, a Kincstár által erre a célra rendszeresített elektronikus űrlapon,
 
-b) a 14. § (8) bekezdése szerinti szállítási szerződés jóváhagyása iránti kérelmét – és az aláírt szállítási szerződést szkennelt formában – ügyfélkapus azonosítást követően, a Kincstár által erre a célra rendszeresített elektronikus felületen
+b)[^22] a 14. § (8) bekezdése szerinti szállítási szerződés jóváhagyása iránti kérelmét – és az aláírt szállítási szerződést szkennelt formában – elektronikus azonosítást követően, a Kincstár által erre a célra rendszeresített elektronikus felületen
 
 nyújtja be a Kincstárhoz.
 
@@ -21,3 +21,6 @@ nyújtja be a Kincstárhoz.
 (6) Ha az eljárásban foglalt kötelezettségek elektronikus úton történő teljesítése során a kérelmező helyett és nevében meghatalmazottja jár el, akkor a meghatalmazott a Kormány által biztosított elektronikus azonosítási szolgáltatással elérhető elektronikus felületet használja az eljárási cselekmények elvégzéséhez. A meghatalmazott útján történő eljárásra – kivéve a kamarai meghatalmazott eljárását – az Európai Mezőgazdasági Garancia Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos eljárási szabályokról szóló 22/2016. (IV. 5.) FM rendelet meghatalmazásra vonatkozó rendelkezéseit kell alkalmazni.
 
 (7) Az eljárás során minden dokumentumot, így a hiánypótláshoz kapcsolódó dokumentumokat – a felügyeleti eljárás kivételével – és a jogorvoslati eljáráshoz kapcsolódó dokumentumokat is (a továbbiakban együtt: beadvány) a Kincstár által erre a célra rendszeresített elektronikus felületen keresztül, szkennelt formában kell benyújtani. A nem elektronikus úton benyújtott beadvány a döntés meghozatalánál nem vehető figyelembe.
+
+[^21]: A 8. § (1) bekezdés a) pontja a 3/2025. (II. 27.) AM rendelet 16. § 8. pontja szerint módosított szöveg.
+[^22]: A 8. § (1) bekezdés b) pontja a 3/2025. (II. 27.) AM rendelet 16. § 8. pontja szerint módosított szöveg.

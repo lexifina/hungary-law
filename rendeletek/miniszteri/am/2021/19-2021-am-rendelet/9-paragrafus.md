@@ -1,36 +1,29 @@
 ## 8. A programban történő részvétel előzetes jóváhagyása
 
-9. § (1) A kérelmező a (4) bekezdésben meghatározott adattartalmú előzetes jóváhagyási kérelmét a Kincstár által erre a célra rendszeresített elektronikus űrlapon, ügyfélkapus azonosítást követően, legkésőbb a szállítási szerződés jóváhagyása iránti kérelemnek a 14. § (1) bekezdése szerinti benyújtásával egyidejűleg nyújtja be a Kincstárhoz a 8. §-ban foglaltak szerint.
+9. §[^23] (1) A kérelmező előzetes jóváhagyási kérelmet évente február 1. és február 15. között nyújthat be a Kincstárhoz az erre a célra rendszeresített elektronikus űrlapon, a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 41. § (1) bekezdése szerinti elektronikus azonosítási szolgáltatással történő azonosítást (a továbbiakban: elektronikus azonosítás) követően. A határidő elmulasztása jogvesztő.
 
-(2) A 2015/2016-os tanévtől benyújtott előzetes jóváhagyási kérelmek tárgyában hozott jóváhagyások visszavonásig érvényesek.
+(2) Az előzetes jóváhagyási kérelem tartalmazza
 
-(3) Az előzetes jóváhagyási kérelmek tárgyában a Kincstár a kérelem Kincstárhoz történő beérkezését követő tizenöt napon belül döntést hoz.
+a) a kérelmező, a kérelmező képviselője vagy meghatalmazottja nevét és ügyfél-azonosítóját;
 
-(4) Az előzetes jóváhagyási kérelem a következő adatokat és dokumentumokat tartalmazza:
+b) a kapcsolattartó nevét, telefonszámát, elektronikus levélcímét;
 
-a) a kérelmező, illetve a benyújtó vagy képviselő neve, ügyfél-azonosítója;
+c) a kérelmező nyilatkozatát arról, hogy
 
-b) a kérelmező kapcsolattartójának azonosító adatai (név, cím, telefonszám, elektronikus levélcím);
+ca) a jogosulatlanul kapott támogatást visszafizeti, és ezen kötelezettségét a fenntartóval megkötendő szállítási szerződésben is rögzíti,
 
-c) a kérelmező nyilatkozata arról, hogy
+cb) a támogatott terméket kizárólag a kifizetési kérelemben megjelölt végső kedvezményezett részére biztosítja,
 
-ca)[^8] visszafizeti az érintett mennyiségekre jogosulatlanul kapott támogatást, amennyiben megállapítást nyer, hogy a termékeket nem osztották ki a gyermekeknek, vagy ha azok uniós finanszírozásból nem támogathatók,
+cc) a 19. § (3) bekezdése szerinti nyilvántartást vezeti,
 
-cb) a támogatott terméket csak azon végső kedvezményezettek részére biztosítja, akik tekintetében a támogatást közvetve vagy közvetlenül kérelmezi,
+cd) a helyszíni ellenőrzés lefolytatását elősegíti, a programmal kapcsolatos nyilvántartásokat és dokumentumokat az ellenőrök rendelkezésére bocsátja,
 
-cc) a támogatott terméket ételek elkészítéséhez nem használja fel, és biztosítja, hogy a fenntartott nevelési-oktatási intézmények sem használják fel ilyen célra,
+ce) az előzetes jóváhagyási kérelemben megadott adataiban bekövetkezett változásról az adatváltozástól számított tizenöt napon belül a Kincstárt tájékoztatja,
 
-cd)[^9] olyan – szállítólevelekkel, számlákkal és egyéb bizonylatokkal alátámasztott – nyilvántartást vezet, amely nevelési-oktatási intézményenként tartalmazza legalább a támogatott termék szállítóját, a leszállított termékmennyiséget termékkategóriánkénti bontásban, valamint az egyes nevelési-oktatási intézményekbe felvett tanulók, óvodások számát (havi lebontásban), az adott tanítási vagy nevelési napon jelen lévő tanulók, óvodások számát és a kiosztott termékek kategóriánkénti mennyiségét,
+cf) a kérelemben megadott adatok a valóságnak megfelelnek.
 
-ce) a helyszíni ellenőrzés lefolytatása során az ellenőrzéssel kapcsolatos feladatok elvégzését elősegíti, valamint az általa vezetett nyilvántartásokat és az ezzel kapcsolatos valamennyi iratot szükség esetén az ellenőrök rendelkezésre bocsátja,
+(3) A Kincstár az előzetes jóváhagyási kérelemről a kérelem beérkezését követő tizenöt napon belül dönt. A jóváhagyó döntés visszavonásig érvényes.
 
-cf) a Kincstár tudomására hoz minden, az előzetes jóváhagyási kérelemben szereplő adatokkal kapcsolatos változást annak bekövetkezésétől számított tizenöt napon belül,
+(4) Ha a kérelmező által kiszállított termék minősége egy hónapon belül legalább három esetben dokumentáltan nem felel meg az 5. § (1) és (2) bekezdésében meghatározott minőségi előírásnak, és erről a 15. § (7) bekezdése szerint a Kincstár értesítése megtörtént, a kérelmező előzetes jóváhagyását a Kincstár a következő tanévre visszavonhatja.
 
-cg) a ca) és cc) alpont szerinti kötelezettségeket a támogatott termékekkel ellátott nevelési-oktatási intézmény fenntartójával megismerteti, és gondoskodik ezen kötelezettségek szállítási szerződésben való rögzítéséről,
-
-ch) az előzetes jóváhagyási kérelemben feltüntetett adatok a valóságnak megfelelnek;
-
-d) a csatolt dokumentumok felsorolása.
-
-[^8]: A 9. § (4) bekezdés c) pont ca) alpontja a 14/2022. (III. 30.) AM rendelet 31. § (1) bekezdésével megállapított szöveg.
-[^9]: A 9. § (4) bekezdés c) pont cd) alpontja a 14/2022. (III. 30.) AM rendelet 31. § (2) bekezdésével megállapított szöveg.
+[^23]: A 9. § a 3/2025. (II. 27.) AM rendelet 5. §-ával megállapított szöveg.

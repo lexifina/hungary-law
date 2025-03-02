@@ -1,25 +1,23 @@
 ## 15. A programot és a tejfogyasztást népszerűsítő kommunikáció támogatása
 
-23. § (1) A nevelési-oktatási intézményekben a program népszerűsítését célzó, valamint a tejtermékek fogyasztását ösztönző edukációs program folytatható, amely tevékenység éves szinten a nemzeti forrás legfeljebb 3%-áig, az uniós forrás legfeljebb 15%-áig támogatható.
+23. §[^84] (1) Az intézményben a program népszerűsítését célzó, valamint a friss tej- és tejtermékfogyasztást ösztönző edukációs program indítható – pályázat vagy közbeszerzési eljárás kiírása útján – a programban rendelkezésre álló források terhére. Az edukációs program éves szinten a nemzeti forrás legfeljebb 3%-áig, az európai uniós forrás legfeljebb 15%-áig támogatható.
 
-(2) Az edukációs program közvetlenül kapcsolódik az e rendelet szerinti programhoz, a szélesebb nyilvánossághoz szól, és az a következő kommunikációs intézkedések és tevékenységek keretében valósulhat meg:
+(2) Az edukációs program a miniszter által közzétett pályázat vagy közbeszerzési eljárás lefolytatását követően megkötött szerződés alapján – tájékoztató kampány folytatása útján – valósítható meg.
 
-a) tájékoztató kampányok folytatása műsorok sugárzása, elektronikus közlemények, újságok kiadása, internetes felület kialakítása, valamint egyéb kommunikációs eszközök alkalmazása révén,
+(3) A (2) bekezdés szerinti pályázat vagy közbeszerzési eljárás előkészítése érdekében a miniszter az általa vezetett minisztérium három szakértőjéből és a Kincstár által delegált egy fő szakértőből álló bírálóbizottságot hoz létre.
 
-b) a programnak a szélesebb nyilvánossággal való megismertetésére hivatott tájékoztató rendezvények szervezése keretében,
+(4) A pályázati vagy közbeszerzési kiírásban meghatározott feltételek alapján a bírálóbizottság a beérkezett ajánlatokat rangsorolja, és ez alapján döntési javaslatot terjeszt a miniszter elé. A nyertes ajánlatról a miniszter hoz döntést, és ezt – a Kincstár egyidejű tájékoztatása mellett – tíz napon belül írásban közli a nyertes ajánlat benyújtójával. Az edukációs program végrehajtásáról szóló szerződést a miniszter köti meg.
 
-c) natúr termék egészségre gyakorolt pozitív hatására is kitérő, hiteles szakmai tartalommal rendelkező tájékoztató és promóciós anyagok készítése révén,
+(5) A támogatásról szóló kifizetési kérelmét az edukációs program végrehajtója a Kincstárhoz nyújtja be
 
-d) egyéb, a (3) bekezdés szerinti pályázati kiírásban részletezett tevékenység keretében.
+a) a megvalósítást alátámasztó dokumentumok,
 
-(3) A miniszter a támogatás igénybevételére pályázati kiírást tesz közzé.
+b) a kifizetési bizonylatok,
 
-(4) A miniszter a pályázatokra vonatkozó döntés előkészítése érdekében véleményező szervként a Kincstár, valamint a miniszter által vezetett minisztérium szakértőiből álló, legalább négytagú Bíráló Bizottságot állít fel. A Bíráló Bizottság tagjait a miniszter nevezi ki, és működési rendjét a miniszter állapítja meg.
+c) a megbízási vagy vállalkozási szerződései másolati példánya, valamint
 
-(5) A Bíráló Bizottság a pályázatok között a pályázati kiírásban meghatározott feltételek alapján rangsort állít fel, és támogatási javaslatot tesz a miniszter részére.
+d) a miniszter által kiadott – a nyertes ajánlattevő vállalásának végrehajtását igazoló – teljesítésigazolás
 
-(6) A támogatásra vonatkozó döntést a Bíráló Bizottság javaslata alapján és bevonásával a miniszter hozza meg. A programot népszerűsítő edukációs program végrehajtása vonatkozásában a miniszter köt szerződést.
+egyidejű csatolásával.
 
-(7) A támogatási döntésről – annak meghozatalát követő tíz napon belül – a miniszter írásban értesíti a pályázót, és ezzel egyidejűleg értesítést küld a Kincstár részére.
-
-(8) A kifizetési kérelmet a Kincstárhoz kell benyújtani a megvalósítást alátámasztó dokumentumok, kifizetési bizonylatok csatolásával. A kifizetési kérelemhez csatolni kell a megbízási vagy vállalkozási szerződést, és a miniszter igazolását arról, hogy a nyertes pályázó a vállalását teljesítette (teljesítésigazolás).
+[^84]: A 23. § a 3/2025. (II. 27.) AM rendelet 13. §-ával megállapított szöveg.
