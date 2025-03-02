@@ -1,1 +1,3 @@
-5. § A 191/2009. (IX. 15.) Korm. rendelet 7. § (2) bekezdés e) pontjában az „ellenőrzése” szövegrész helyébe az „ellenőrzése, elérhetőségének fenntartása” szöveg lép.
+5. §[^2]
+
+[^2]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

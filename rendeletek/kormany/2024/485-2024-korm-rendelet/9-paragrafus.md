@@ -1,3 +1,5 @@
 ## 5. Az építésügyi hatósági eljárásokról és ellenőrzésekről szóló 281/2024. (IX. 30.) Korm. rendelet módosítása
 
-9. § Az építésügyi hatósági eljárásokról és ellenőrzésekről szóló 281/2024. (IX. 30.) Korm. rendelet 53. § (2) bekezdés d) pontjában a „meglétét” szövegrész helyébe a „meglétét, elérhetőségét” szöveg lép.
+9. §[^6]
+
+[^6]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
