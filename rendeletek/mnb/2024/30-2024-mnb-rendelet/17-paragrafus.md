@@ -1,6 +1,6 @@
 ## 5. A megerősített eljárás esetkörei és feltételrendszere
 
-17. §[^3] (1) A szolgáltató a Pmt.-ben meghatározottakon túl legalább a következő esetekben alkalmaz megerősített eljárást:
+17. §[^4] (1) A szolgáltató a Pmt.-ben meghatározottakon túl legalább a következő esetekben alkalmaz megerősített eljárást:
 
 a) a takarékbetétről szóló törvényerejű rendelet szerinti nem névre szóló takarékbetét névre szólóvá alakításával érintett ügyfél tekintetében, ha a névre szólóvá alakítani kívánt takarékbetétek összértéke eléri a négymillió-ötszázezer forintot, az átalakítástól számított egy évig,
 
@@ -22,4 +22,4 @@ h) ha a szolgáltató ügyfele székhelyéül székhelyszolgáltatót jelölt me
 
 (3) A szolgáltató az általa meghatározott ügyfelek egy csoportja tekintetében mellőzheti a megerősített eljárást, ha az (1) bekezdés szerinti esetekre vonatkozóan a belső kockázatértékelésében részletesen, a kockázatcsökkentő és -növelő tényezők együttes értékelésével azt alátámasztja.
 
-[^3]: A 17. § a 49. §-sal megállapított szöveg.
+[^4]: A 17. § a 49. §-sal megállapított szöveg.

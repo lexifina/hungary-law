@@ -4,7 +4,7 @@
 
 2. csatorna: elektronikus technikai eszköz – különösen mobiltelefon, számítógép, táblagép – vagy közvetítő, amelynek igénybevételével az ügyintézés nem abban a helyiségben történik, ahol a szolgáltató a tevékenységét állandó jelleggel folytatja,
 
-2a.[^1] eredendő kockázat: a kockázatcsökkentés előtt fennálló kockázatszint,
+2a.[^2] eredendő kockázat: a kockázatcsökkentés előtt fennálló kockázatszint,
 
 3. készpénzes ügylet: az ügyfél részére történő készpénzkifizetés és az ügyfél általi készpénzbefizetés pénznemtől függetlenül,
 
@@ -28,4 +28,4 @@ c) amely esetében az ügyfél korábbi tevékenységéhez képest indokolatlanu
 
 10. vezető testület: valamely szolgáltató irányítási funkciót betöltő testülete, illetve a felvigyázási funkciót betöltő testülete.
 
-[^1]: A 2. § 2a. pontját a 47. § iktatta be.
+[^2]: A 2. § 2a. pontját a 47. § iktatta be.

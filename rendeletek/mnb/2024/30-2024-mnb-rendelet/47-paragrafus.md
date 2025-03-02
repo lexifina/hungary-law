@@ -1,5 +1,5 @@
 ## 14. Módosító rendelkezések
 
-47. § A rendelet 2. §-a a következő 2a. ponttal egészül ki:
+47. §[^8]
 
-(E rendelet alkalmazásában)
+[^8]: A 47. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

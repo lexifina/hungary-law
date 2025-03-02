@@ -1,4 +1,4 @@
-## 8.[^6] A belső ellenőrző és információs rendszer működtetése
+## 8.[^7] A belső ellenőrző és információs rendszer működtetése
 
 27. § Ezen alcím alkalmazásában
 
@@ -8,4 +8,4 @@
 
 3. szűrőrendszer: a bejelentés teljesítését támogató rendszer, amely biztosítja a pénzmosás és terrorizmusfinanszírozás szempontjából kockázatos ügyfél és szokatlan ügylet kiszűrését, valamint a bejelentés megtételéhez szükséges adatok rendelkezésre bocsátását.
 
-[^6]: A 8. alcím (27–34/B. §) az 51. §-sal megállapított szöveg.
+[^7]: A 8. alcím (27–34/B. §) az 51. §-sal megállapított szöveg.

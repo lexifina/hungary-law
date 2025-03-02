@@ -1,4 +1,4 @@
-18. §[^4] (1) A szolgáltató a megerősített eljárás alá tartozó ügyfeleknél a 28–33. § rendelkezéseinek megfelelően kockázatalapon, de minden esetben 30 munkanapon belül szűri, és pénzmosás és terrorizmus finanszírozása szempontjából elemzi és értékeli a belső kockázatértékelésben meghatározott ügyleteket.
+18. §[^5] (1) A szolgáltató a megerősített eljárás alá tartozó ügyfeleknél a 28–33. § rendelkezéseinek megfelelően kockázatalapon, de minden esetben 30 munkanapon belül szűri, és pénzmosás és terrorizmus finanszírozása szempontjából elemzi és értékeli a belső kockázatértékelésben meghatározott ügyleteket.
 
 (2) Az (1) bekezdésben meghatározott kockázatértékelés során a szolgáltató a megerősített eljárás alá tartozó ügyfelekre ügyletenként és egy adott időszakra vonatkozó több ügyletre összesített értékhatárt is alkalmaz.
 
@@ -12,4 +12,4 @@ b) ellenőrzi, hogy az ügyféllel vagy annak jelentős ügyleti partnereivel ka
 
 c) megvizsgálja, hogy ügyfele üzleti tevékenysége gazdasági szempontból racionális-e.
 
-[^4]: A 18. § a 49. §-sal megállapított szöveg.
+[^5]: A 18. § a 49. §-sal megállapított szöveg.
