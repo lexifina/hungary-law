@@ -1,3 +1,1 @@
-85. § A Be. 612. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Ha a vagyoni érdekelt az elsőfokú bíróság ítéletének elkobzást, vagyonelkobzást, elektronikus adat végleges hozzáférhetetlenné tételét, illetve tárhelyszolgáltatás megszüntetését elrendelő rendelkezése ellen fellebbezést jelentett be, és a másodfokú bíróság e fellebbezés vagy bármely más fellebbezés alapján az elsőfokú bíróságnak a vagyoni érdekelt tulajdonjogát, vagyonát, az elektronikus adat feletti rendelkezési jogát, vagy a tárhelyszolgáltatáshoz való jogosultságát érintő elkobzást, vagyonelkobzást, elektronikus adat végleges hozzáférhetetlenné tételét, illetve tárhelyszolgáltatás megszüntetését kimondó rendelkezését nem mellőzte, az elsőfokú bíróság a másodfokú bíróság határozatának a vagyoni érdekelt részére történő közléséről a vagyoni érdekeltnek az 57. § (4) bekezdésében meghatározott jogára való tájékoztatással gondoskodik.”
+### 85. §

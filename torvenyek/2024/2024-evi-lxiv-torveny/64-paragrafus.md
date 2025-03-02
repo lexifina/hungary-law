@@ -1,13 +1,13 @@
 64. § Hatályát veszti a Kbt.
 
-a) 41/C. § (5) bekezdésében az „– a (4) bekezdésben szabályozott –” szövegrész,
+a)
 
-b) 57. § (2) bekezdése,
+b)
 
-c) 114. § (6a) bekezdése,
+c)
 
 d)
 
 e)
 
-f) 169. § (2) bekezdése.
+f)
