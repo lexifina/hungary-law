@@ -1,23 +1,31 @@
 7. § A KÁT rendelet
 
-a) 3. § (2) bekezdés d) pontjában a „Menetrend-csoport Képviselő által a Befogadó részére megfizetett” szövegrész helyébe a „Menetrend-csoport Képviselő és a Befogadó között elszámolt” szöveg,
+a)[^7]
 
-b) 3. § (14) bekezdésében a „(8) és (11) bekezdés” szövegrész helyébe a „(8)–(11a) bekezdés” szöveg,
+b)[^8]
 
-c) 3. § (15) bekezdésében az „utasított eltérésekre” szövegrész helyébe a „rendszerszintű szolgáltatásra vagy elosztói rugalmassági szolgáltatásra” szöveg,
+c)[^9]
 
-d) 4. § (13) bekezdésében a „(12)–(12b) bekezdés” szövegrész helyébe a „(12)–(12a) bekezdés” szöveg,
+d)[^10]
 
-e)[^1]
+e)[^11]
 
-f) 7. § (13) bekezdésében a „csökkentő tényezőként” szövegrész helyébe az „előjelhelyesen” szöveg,
+f)[^12]
 
-g) 9. § (2) bekezdésében és 9/A. § (5) bekezdésében a „megújuló energiaforrásból termelt villamos energia kötelező átvételi és prémium típusú támogatásáról szóló kormányrendelet” szövegrészek helyébe a „METÁR rendelet” szöveg,
+g)[^13]
 
-h) 4. számú melléklet I. Általános szabályok 4. pontjában a „Befogadó” szövegrész helyébe a „jogosult” szöveg,
+h)[^14]
 
-i) 4. számú melléklet I. Általános szabályok 5. pontjában a „Befogadó” szövegrész helyébe a „mérésért felelős hálózati engedélyes” szöveg
+i)[^15]
 
 lép.
 
-[^1]: A 7. § e) pontja a 18. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+[^7]: A 7. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 7. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 7. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 7. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 7. § e) pontja a 18. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+[^12]: A 7. § f) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 7. § g) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 7. § h) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 7. § i) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

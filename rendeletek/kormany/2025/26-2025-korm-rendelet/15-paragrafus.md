@@ -1,7 +1,3 @@
-15. § A METÁR rendelet
+15. §[^24]
 
-a) 5. melléklete helyébe a 3. melléklet,
-
-b) 6. melléklete helyébe a 4. melléklet
-
-lép.
+[^24]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-3. § A KÁT rendelet 7. § (11) bekezdése helyébe a következő rendelkezés lép:
+3. §[^3]
 
-„(11) A Menetrendadásra kötelezettnek a menetrendek tekintetében teljes kiegyenlítési kötelezettsége van. Ha a KÁT termelő – összevont menetrend esetén a Menetrend-csoportba tartozó KÁT termelők – által az adott elszámolási mérési időegységben a 3. § (6) bekezdése szerinti villamos energia mennyisége eltér a (7) bekezdés szerinti önálló kiegyenlítő menedzsment és az utasított eltérések figyelembevételével a Menetrendadásra kötelezett napon belüli termelési menetrendje szerinti villamosenergia-mennyiségtől, akkor a Befogadó a 14. számú mellékletben meghatározott szabályozási pótdíjat számolja el a Menetrendadásra kötelezettel. Ha a Menetrendadásra kötelezett a napi termelési menetrendet nem vagy nem a villamosenergia-ellátási szabályzatokban meghatározottaknak megfelelően vagy késedelmesen adja meg, akkor az elszámolások során azt nulla értékkel kell figyelembe venni.”
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-12. § A METÁR rendelet 12. § (7) bekezdése helyébe a következő rendelkezés lép:
+12. §[^21]
 
-„(7) A Menetrendadásra kötelezettnek a menetrendek tekintetében teljes kiegyenlítési kötelezettsége van. Ha a KÁT termelő – összevont menetrend esetén a menetrend-csoportba tartozó KÁT termelők – által az adott elszámolási mérési időegységben a 11. § (7) bekezdése szerinti villamos energia mennyisége a (3) bekezdés szerinti önálló kiegyenlítő menedzsment és az utasított eltérések figyelembevételével eltér a Menetrendadásra kötelezett napon belüli termelési menetrendje szerinti villamosenergia-mennyiségtől, akkor a befogadó az 5. mellékletben meghatározott szabályozási pótdíjat számolja el a Menetrendadásra kötelezettel. Ha a Menetrendadásra kötelezett a napi termelési menetrendet nem vagy nem a villamosenergia-ellátási szabályzatokban meghatározottaknak megfelelően vagy késedelmesen adja meg, akkor az elszámolások során azt nulla értékkel kell figyelembe venni.”
+[^21]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

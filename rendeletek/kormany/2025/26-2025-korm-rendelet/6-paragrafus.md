@@ -1,7 +1,3 @@
-6. § A KÁT rendelet
+6. §[^6]
 
-a) 14. számú melléklete helyébe az 1. melléklet,
-
-b) 15. számú melléklete helyébe a 2. melléklet
-
-lép.
+[^6]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
