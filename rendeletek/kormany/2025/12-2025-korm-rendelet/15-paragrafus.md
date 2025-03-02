@@ -1,1 +1,3 @@
-15. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény hatálya alá tartozó árvák kiegészítő támogatásával és a kiegészítő hozzátartozói támogatás megállapításához kapcsolódó kiegészítő eljárási rendelkezésekről szóló 207/2022. (VI. 14.) Korm. rendelet 1. § 8. pontjában az „a)–h)” szövegrész helyébe az „a)–g)” szöveg lép.
+15. §[^1]
+
+[^1]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
