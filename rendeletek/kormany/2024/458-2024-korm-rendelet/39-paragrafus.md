@@ -1,1 +1,3 @@
-39. § Hatályát veszti a fluortartalmú üvegházhatású gázokkal és az ózonréteget lebontó anyagokkal kapcsolatos tevékenységek végzésének feltételeiről szóló 14/2015. (II. 10.) Korm. rendelet.
+39. §[^1]
+
+[^1]: A 39. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
