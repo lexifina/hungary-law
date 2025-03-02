@@ -1,3 +1,3 @@
-1. § A bíróságon kezelt letétekről szóló 27/2003. (VII. 2.) IM rendelet 2. §-a a következő (1a) bekezdéssel egészül ki:
+1. §[^2]
 
-„(1a) Ha a Teljesítésigazolási Szakértői Szerv szakvéleményére alapított perben a bíróság a teljes bizonyossággal megállapíthatóan teljesített tervezési, építési és kivitelezési munkák szerződés szerinti értékének bírósági letétbe helyezését rendeli el ideiglenes intézkedés keretében, a letétbe helyezési eljárás során e rendeletnek a teljesítési letétre vonatkozó szabályait kell alkalmazni, azzal, hogy a letét kiutalása iránt csak a perben eljáró bíróság jogerős határozata alapján lehet intézkedni.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
