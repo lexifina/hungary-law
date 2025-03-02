@@ -1,3 +1,5 @@
 ## 14. A vízi személyszállítás feltételeiről szóló 261/2008. (XI. 3.) Korm. rendelet módosítása
 
-17. § A vízi személyszállítás feltételeiről szóló 261/2008. (XI. 3.) Korm. rendelet 12. § (4) bekezdésében az „a honvédelmi” szövegrész helyébe az „a nemzetbiztonsági, a honvédelmi” szöveg lép.
+17. §[^18]
+
+[^18]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

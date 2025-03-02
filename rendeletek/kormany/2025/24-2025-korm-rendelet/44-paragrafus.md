@@ -1,1 +1,3 @@
-44. § Az ikerintézményi program fejlesztési tevékenységének ellátásáról és a projektjei lebonyolításának szabályairól, valamint a projektekben résztvevő szakértőkre vonatkozó szabályokról szóló 311/2012. (XI. 7.) Korm. rendelet 1. § c) pontjában a „szervekre és” szövegrész helyébe a „szervekre, a polgári nemzetbiztonsági szolgálatokra és” szöveg lép.
+44. §[^45]
+
+[^45]: A 44. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-88. § A rendvédelmi szervek személyi állománya tekintetében a foglalkoztatás-felügyeletet ellátó különös hatáskörű foglalkoztatás-felügyeleti hatóság kijelöléséről és a hatóság eljárására vonatkozó részletes szabályokról szóló 118/2021. (III. 10.) Korm. rendelet 2. § nyitó szövegrészében a „szervek” szövegrész helyébe a „szervek, a polgári nemzetbiztonsági szolgálatok” szöveg lép.
+88. §[^89]
+
+[^89]: A 88. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

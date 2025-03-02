@@ -1,1 +1,3 @@
-23. § Hatályát veszti a Nemzeti Biztonsági Felügyelet működésének, valamint a minősített adat kezelésének rendjéről szóló 90/2010. (III. 26.) Korm. rendelet 15. § a) pontjában az „illetve” szövegrész.
+23. §[^24]
+
+[^24]: A 23. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

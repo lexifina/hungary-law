@@ -1,3 +1,5 @@
 ## 3. A biztonsági okmányok védelmének rendjéről szóló 86/1996. (VI. 14.) Korm. rendelet módosítása
 
-3. § A biztonsági okmányok védelmének rendjéről szóló 86/1996. (VI. 14.) Korm. rendelet 1. számú melléklete az 1. melléklet szerint módosul.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

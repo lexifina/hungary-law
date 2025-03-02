@@ -1,1 +1,3 @@
-99. § A Nemzeti Népegészségügyi és Gyógyszerészeti Központról szóló 333/2023. (VII. 20.) Korm. rendelet 5. § (1) bekezdés d) pontjában a „szervek hivatásos” szövegrész helyébe a „szervek hivatásos állományú tagjainak, valamint a polgári nemzetbiztonsági szolgálatok hivatásos” szöveg lép.
+99. §[^100]
+
+[^100]: A 99. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

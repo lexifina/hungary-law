@@ -1,1 +1,3 @@
-47. § Hatályát veszti az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendelet 1. melléklet 10–13. pontja.
+47. §[^48]
+
+[^48]: A 47. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

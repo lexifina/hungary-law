@@ -1,3 +1,5 @@
 ## 7. A veszélyes áruk közúti szállításának ellenőrzésére vonatkozó egységes eljárásról szóló 1/2002. (I. 11.) Korm. rendelet módosítása
 
-7. § A veszélyes áruk közúti szállításának ellenőrzésére vonatkozó egységes eljárásról szóló 1/2002. (I. 11.) Korm. rendelet 1. § (2) bekezdésében a „Vámhivatal” szövegrész helyébe a „Vámhivatal, a polgári nemzetbiztonsági szolgálatok” szöveg lép.
+7. §[^8]
+
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

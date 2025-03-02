@@ -1,3 +1,5 @@
 ## 74. A Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet módosítása
 
-89. § A Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 46/B. § a) pontjában a „szervek,” szövegrész helyébe a „szervek, polgári nemzetbiztonsági szolgálatok,” szöveg lép.
+89. §[^90]
+
+[^90]: A 89. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

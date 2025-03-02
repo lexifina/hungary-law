@@ -1,3 +1,5 @@
 ## 60. Az adóigazgatási eljárás részletszabályairól szóló 465/2017. (XII. 28.) Korm. rendelet módosítása
 
-72. § Az adóigazgatási eljárás részletszabályairól szóló 465/2017. (XII. 28.) Korm. rendelet 24/A. § m) pontjában a „keresetkiegészítés, honvédelmi” szövegrész helyébe a „keresetkiegészítés, nemzetbiztonsági egészségkárosodási ellátás, honvédelmi” szöveg lép.
+72. §[^73]
+
+[^73]: A 72. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

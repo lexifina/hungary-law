@@ -1,3 +1,5 @@
 ## 48. A természetes személyek adósságrendezési eljárásában az adósságrendezésbe nem tartozó vagyonról és bevételekről szóló 230/2015. (VIII. 12.) Korm. rendelet módosítása
 
-59. § A természetes személyek adósságrendezési eljárásában az adósságrendezésbe nem tartozó vagyonról és bevételekről szóló 230/2015. (VIII. 12.) Korm. rendelet 2. § (1) bekezdés 31. pontjában az „ellátásnak, valamint” szövegrész helyébe az „ellátásnak, a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvényben meghatározott árvák kiegészítő támogatásának és a kiegészítő hozzátartozói támogatásnak, valamint” szöveg lép.
+59. §[^60]
+
+[^60]: Az 59. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

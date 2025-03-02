@@ -1,5 +1,5 @@
 ## 75. A nemzetközi szervezeteknél nemzeti szakértőként történő foglalkoztatásról szóló 200/2022. (VI. 7.) Korm. rendelet módosítása
 
-90. § A nemzetközi szervezeteknél nemzeti szakértőként történő foglalkoztatásról szóló 200/2022. (VI. 7.) Korm. rendelet 1. §-a helyébe a következő rendelkezés lép:
+90. §[^91]
 
-„1. § E rendelet hatálya a nemzetközi szervezetnél nemzeti szakértőként foglalkoztatott magyar állampolgárságú, kormányzati szolgálati jogviszonyban foglalkoztatott személyekre, a rendvédelmi feladatokat ellátó szervek (a továbbiakban: rendvédelmi szerv) hivatásos állományú tagjára, valamint a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagjára, a küldő közigazgatási és rendvédelmi szervre, valamint polgári nemzetbiztonsági szolgálatra, továbbá a nemzeti szakértő jelölésében érintett egyéb szervekre terjed ki.”
+[^91]: A 90. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

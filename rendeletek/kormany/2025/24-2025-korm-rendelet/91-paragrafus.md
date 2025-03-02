@@ -1,3 +1,3 @@
-91. § A nemzetközi szervezeteknél nemzeti szakértőként történő foglalkoztatásról szóló 200/2022. (VI. 7.) Korm. rendelet 2. § 8. pontja helyébe a következő rendelkezés lép:
+91. §[^92]
 
-(E rendelet alkalmazásában)
+[^92]: A 91. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

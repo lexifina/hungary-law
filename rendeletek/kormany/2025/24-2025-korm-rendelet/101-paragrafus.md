@@ -1,3 +1,5 @@
 ## 82. A közforgalmú személyszállítási utazási kedvezményekről szóló 38/2024. (II. 29.) Korm. rendelet módosítása
 
-101. § A közforgalmú személyszállítási utazási kedvezményekről szóló 38/2024. (II. 29.) Korm. rendelet 7. § (1) bekezdés a) pontjában a „szolgálati, rendvédelmi” szövegrész helyébe a „szolgálati, nemzetbiztonsági szolgálati, nemzetbiztonsági alkalmazotti, rendvédelmi” szöveg, a „hivatásos szolgálati jogviszony – ideértve a bírói, az igazságügyi és az ügyészségi szolgálati viszonyt is” szövegrész helyébe a „hivatásos szolgálati jogviszony, valamint hivatásos és szerződéses szolgálati viszony – ideértve a bírói, az igazságügyi és az ügyészségi szolgálati viszonyt is, de ide nem értve a honvéd tisztjelölti szolgálati viszonyt” szöveg lép.
+101. §[^102]
+
+[^102]: A 101. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

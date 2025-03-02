@@ -1,9 +1,5 @@
 ## 30. A Kormányzati Ellenőrzési Hivatalról szóló 355/2011. (XII. 30.) Korm. rendelet módosítása
 
-36. § A Kormányzati Ellenőrzési Hivatalról szóló 355/2011. (XII. 30.) Korm. rendelet
+36. §[^37]
 
-a) 7. § (2) bekezdésében a „Katonai Nemzetbiztonsági Szolgálat” szövegrész helyébe a „nemzetbiztonsági szolgálatok” szöveg,
-
-b) 14. § (1) bekezdésében a „vagy hivatásos” szövegrész helyébe a „hivatásos vagy nemzetbiztonsági” szöveg
-
-lép.
+[^37]: A 36. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

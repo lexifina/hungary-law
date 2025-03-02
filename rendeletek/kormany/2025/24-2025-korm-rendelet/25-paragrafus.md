@@ -1,3 +1,5 @@
 ## 20. Az országos nukleárisbaleset-elhárítási rendszerről szóló 167/2010. (V. 11.) Korm. rendelet módosítása
 
-25. § Az országos nukleárisbaleset-elhárítási rendszerről szóló 167/2010. (V. 11.) Korm. rendelet 1. melléklet 2.8. pontjában a „parancsnokságai és” szövegrész helyébe a „parancsnokságai, a polgári nemzetbiztonsági szolgálatok és” szöveg lép.
+25. §[^26]
+
+[^26]: A 25. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

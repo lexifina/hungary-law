@@ -1,9 +1,5 @@
 ## 21. A polgári légiközlekedés védelmének szabályairól és a Légiközlekedés Védelmi Bizottság jogköréről, feladatairól és működésének rendjéről szóló 169/2010. (V. 11.) Korm. rendelet módosítása
 
-26. § A polgári légiközlekedés védelmének szabályairól és a Légiközlekedés Védelmi Bizottság jogköréről, feladatairól és működésének rendjéről szóló 169/2010. (V. 11.) Korm. rendelet
+26. §[^27]
 
-a) 25. § (6) bekezdésében a „szervek és” szövegrész helyébe a „szervek, polgári nemzetbiztonsági szolgálatok és” szöveg,
-
-b) 26. §-ában a „mind pedig” szövegrész helyébe a „mind a polgári nemzetbiztonsági szolgálat, mind pedig” szöveg
-
-lép.
+[^27]: A 26. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -186,4 +186,6 @@
 
 ## 1. A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény végrehajtásáról szóló 146/1993. (X. 26.) Korm. rendelet módosítása
 
-1. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény végrehajtásáról szóló 146/1993. (X. 26.) Korm. rendelet 38. §-ában az „az Országgyűlési Őrség és” szövegrész helyébe az „a polgári nemzetbiztonsági szolgálatok, az Országgyűlési Őrség és” szöveg és az „az Országgyűlési Őrség, illetve” szövegrész helyébe az „a polgári nemzetbiztonsági szolgálatok, az Országgyűlési Őrség, illetve” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

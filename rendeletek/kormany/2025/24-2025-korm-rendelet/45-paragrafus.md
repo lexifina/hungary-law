@@ -1,3 +1,5 @@
 ## 38. A postai szolgáltatások nyújtásának és a hivatalos iratokkal kapcsolatos postai szolgáltatás részletes szabályairól, valamint a postai szolgáltatók általános szerződési feltételeiről és a postai szolgáltatásból kizárt vagy feltételesen szállítható küldeményekről szóló 335/2012. (XII. 4.) Korm. rendelet módosítása
 
-45. § A postai szolgáltatások nyújtásának és a hivatalos iratokkal kapcsolatos postai szolgáltatás részletes szabályairól, valamint a postai szolgáltatók általános szerződési feltételeiről és a postai szolgáltatásból kizárt vagy feltételesen szállítható küldeményekről szóló 335/2012. (XII. 4.) Korm. rendelet 20. § (1) bekezdés a) pontjában a „Katonai Nemzetbiztonsági Szolgálat” szövegrész helyébe a „nemzetbiztonsági szolgálat” szöveg lép.
+45. §[^46]
+
+[^46]: A 45. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

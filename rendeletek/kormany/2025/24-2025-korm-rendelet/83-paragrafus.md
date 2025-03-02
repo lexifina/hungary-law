@@ -1,3 +1,3 @@
-83. § Az Európai Unió intézményeiben nemzeti szakértőként foglalkoztatottakról szóló 434/2020. (IX. 21.) Korm. rendelet 4. §-a a következő (1a) bekezdéssel egészül ki:
+83. §[^84]
 
-„(1a) A polgári nemzetbiztonsági szolgálat hivatásos állománya tagjának az uniós intézményben nemzeti szakértőként történő foglalkoztatására vagy külföldre vezénylésére a polgári nemzetbiztonsági szolgálat Pnbjt. szerinti főigazgatója – az Európai Unió felhívásában meghatározott munkakör betöltésére vonatkozó alkalmassági vizsgálata és az érintett személy írásbeli hozzájárulása alapján – kezdeményezheti a jelölést.”
+[^84]: A 83. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

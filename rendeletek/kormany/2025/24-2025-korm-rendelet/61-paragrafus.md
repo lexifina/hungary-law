@@ -1,9 +1,5 @@
 ## 50. A Nemzeti Adó- és Vámhivatal szerveinek hatásköréről és illetékességéről szóló 485/2015. (XII. 29.) Korm. rendelet módosítása
 
-61. § A Nemzeti Adó- és Vámhivatal szerveinek hatásköréről és illetékességéről szóló 485/2015. (XII. 29.) Korm. rendelet
+61. §[^62]
 
-a) 63. § (1) bekezdés e) pontjában az „alkalmazottai és” szövegrész helyébe az „alkalmazottai, nemzetbiztonsági alkalmazottai és” szöveg,
-
-b) 90. § (2) bekezdés h) pontjában az „a Magyar” szövegrész helyébe az „a polgári nemzetbiztonsági szolgálatok, a Magyar” szöveg
-
-lép.
+[^62]: A 61. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

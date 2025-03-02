@@ -1,5 +1,5 @@
 ## 80. A Nemzeti Népegészségügyi és Gyógyszerészeti Központról szóló 333/2023. (VII. 20.) Korm. rendelet módosítása
 
-98. § A Nemzeti Népegészségügyi és Gyógyszerészeti Központról szóló 333/2023. (VII. 20.) Korm. rendelet 14. § (1) bekezdése helyébe a következő rendelkezés lép:
+98. §[^99]
 
-„(1) Az országos tisztifőorvos ellátja a Magyar Honvédség, a polgári nemzetbiztonsági szolgálatok és a rendvédelmi szervek közegészségügyi-járványügyi feladatainak ellátására kijelölt szerve egészségügyi feladatainak szakmai felügyeletét.”
+[^99]: A 98. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
