@@ -1,3 +1,3 @@
-1. § A bírósági végrehajtási ügyvitelről és pénzkezelésről szóló 1/2002. (I. 17.) IM rendelet 8. § (1) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(1) A törvényszéken és a járásbíróságon a bírósági végrehajtási ügyek lajstromát (a továbbiakban: vh-lajstrom) kell vezetni.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
