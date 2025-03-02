@@ -1,1 +1,1 @@
-103. § A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 89. § (2) bekezdésében az „a jogszabályban jogosultként megjelölt személy aláírásával ellátott tértivevény” szövegrész helyébe a „kézbesítési igazolás” szöveg lép.
+### 103. §
