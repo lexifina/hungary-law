@@ -1,3 +1,3 @@
-5. § A bírósági igazolványokról szóló 15/1999. (XI. 10.) IM rendelet 12. §-a a következő (3) bekezdéssel egészül ki:
+5. §[^6]
 
-„(3) Az OBT-vel szolgálati jogviszonyban álló igazságügyi alkalmazott igazolványa az (1) bekezdésben foglaltakon kívül e minőségének megjelölését is tartalmazza, és mindkét oldalán, annak jobb szélén felülről lefelé futó, kék színű sáv húzódik.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

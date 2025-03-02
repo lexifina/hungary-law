@@ -1,3 +1,3 @@
-2. § A bírósági igazolványokról szóló 15/1999. (XI. 10.) IM rendelet 3. § (1) bekezdése helyébe a következő rendelkezés lép:
+2. §[^3]
 
-„(1) Az igazolványt – a (2)–(4) bekezdésben foglalt kivételekkel – a bíró, az igazságügyi alkalmazott, illetve a bírósági dolgozó szolgálati helye szerinti törvényszék elnöke állítja ki.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
