@@ -10,6 +10,6 @@
 
 ## 1. A megújuló energiaforrásból származó villamos energia termelési támogatás korlátairól és a prémium típusú támogatásra irányuló pályázati eljárásról szóló 62/2016. (XII. 28.) NFM rendelet módosítása
 
-1. § A megújuló energiaforrásból származó villamos energia termelési támogatás korlátairól és a prémium típusú támogatásra irányuló pályázati eljárásról szóló 62/2016. (XII. 28.) NFM rendelet (a továbbiakban: R.) 5. alcíme a következő 16/A. §-sal egészül ki:
+1. §[^1]
 
-„16/A. § A Hivatal honlapján közzéteszi a pályázati eljárás eredményeként támogatási jogosultságot elnyert beruházások megvalósulási arányára vonatkozó információkat.”
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
