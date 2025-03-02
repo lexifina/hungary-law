@@ -1,34 +1,32 @@
-## „e) a vegyi eszköz és az elektromos sokkoló eszköz viselésével, használatával és tárolásával kapcsolatos részletes szabályokat.”
-
 31. § A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény
 
-1. 4. § b) pontjában a „törekvéseket” szövegrész helyébe az „és egyéb külföldi törekvéseket” szöveg,
+1.
 
-2. 4. § f) pontjában az „ellátja” szövegrész helyébe a „– szükség esetén az Alkotmányvédelmi Hivatal bevonásával – ellátja” szöveg,
+2.
 
-3. 5. § a) pontjában a „törekvéseket” szövegrész helyébe az „és egyéb külföldi törekvéseket” szöveg,
+3.
 
-4. 5. § e) pontjában az „ellátja” szövegrész helyébe a „– szükség esetén az Információs Hivatal bevonásával – ellátja” szöveg,
+4.
 
-5. 8. § (1) bekezdés e) pontjában a „szakértői, illetve” szövegrész helyébe a „szakértői, szaktanácsadói, illetve” szöveg,
+5.
 
-6. 9. § e) pontjában a „rendvédelmi igazgatási” szövegrész helyébe a „nemzetbiztonsági” szöveg,
+6.
 
-7. 11. § (1) bekezdés a) pontjában az „és hatásköreivel” szövegrész helyébe a „ , hatásköreivel, személyi állományának jogállásával” szöveg,
+7.
 
-8. 11. § (1) bekezdés c) pontjában az „és működését” szövegrész helyébe a „ , működését és személyi állományának jogállását” szöveg,
+8.
 
-9. 20. § (1) bekezdésében a „nemzetbiztonsági szolgálatok személyi állománya hivatásos szolgálati viszonyban álló személyekből, rendvédelmi igazgatási alkalmazottakból és munkavállalókból” szövegrész helyébe a „polgári nemzetbiztonsági szolgálatok személyi állománya hivatásos szolgálati viszonyban álló személyekből és nemzetbiztonsági alkalmazottakból” szöveg,
+9.
 
-10. 23. § (1) bekezdésében a „rendvédelmi igazgatási” szövegrész helyébe a „nemzetbiztonsági” szöveg,
+10.
 
-11. 23. § (3) bekezdésében a „rendvédelmi igazgatási” szövegrészek helyébe a „nemzetbiztonsági” szöveg,
+11.
 
-12. 30. § (1) bekezdésében a „szervek és a tartós állami tulajdonban lévő gazdálkodó szervezetek,” szövegrész helyébe a „szervek, a Kormány által kijelölt nemzetbiztonsági védelem alá eső szervek és létesítmények, a többségi állami tulajdonú gazdasági társaságok,” szöveg,
+12.
 
-13. 31. § (2) bekezdésében a „32–36. §-ban” szövegrész helyébe a „32–36/A. §-ban” szöveg,
+13.
 
-14. 37. § (1) bekezdésében a „32–36. §-ban” szövegrész helyébe a „32–36/A. §-ban” szöveg,
+14.
 
 15.
 
@@ -118,19 +116,19 @@
 
 58.
 
-59. 54. § (1a) bekezdésében az „a 41. §” szövegrész helyébe az „– az (1b) bekezdésre figyelemmel – a 41. §” szöveg,
+59.
 
-60. 70. § (2) bekezdés e) pontjában a „tulajdonosi” szövegrészek helyébe a „tulajdonosi vagy alapítói” szöveg,
+60.
 
-61. 70. § (2) bekezdés h) pontjában a „hivatal vezetője” szövegrész helyébe a „hivatal, a kormányzati főhivatal, valamint a területi kormányzati igazgatási szerv vezetője” szöveg,
+61.
 
-62. 71/B. § (1) bekezdésében a „8 napon” szövegrész helyébe a „15 napon” szöveg,
+62.
 
-63. 72/B. § (4) bekezdés b) pontjában az „a (2) bekezdés” szövegrész helyébe az „a (1) bekezdés c) pontjában, (2) bekezdés” szöveg,
+63.
 
-64. 74. § g) pontjában az „a honvédelmi” szövegrész helyébe az „a nemzetbiztonsági alkalmazotti és a honvédelmi” szöveg,
+64.
 
-65. 78. § (1) bekezdés a) pontjában a „lakásgazdálkodása, valamint a lakáscélú munkáltatói támogatás” szövegrész helyébe a „lakásgazdálkodásának” szöveg
+65.
 
 66.
 

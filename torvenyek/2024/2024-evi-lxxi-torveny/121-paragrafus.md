@@ -1,1 +1,1 @@
-121. § Az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény 1. § (7a) bekezdésében a „szerveknél” szövegrész helyébe a „szerveknél, valamint a polgári nemzetbiztonsági szolgálatoknál” szöveg lép.
+### 121. §

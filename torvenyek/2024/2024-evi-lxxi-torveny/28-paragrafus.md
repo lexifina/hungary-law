@@ -1,3 +1,1 @@
-28. § A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 63. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A nemzetbiztonsági szolgálatok által az együttműködő magánszemély részére kifizetett összegből a személyi jövedelemadó mértékével megegyező mértékű adót kell levonni és befizetni az adóhatóságnak. A magánszemélynek ezt a jövedelmet nem kell az összevont adóalapjába beszámítania, azt nem kell bevallania, a kifizetőnek pedig nem kell erről az adózás rendjéről szóló törvény szerinti havi adó- és járulékbevallásban adatot szolgáltatnia, valamint a magánszemély részére igazolást kiadnia.”
+### 28. §
