@@ -1,3 +1,1 @@
-75. § A Rega tv. 9. § (4) bekezdése helyébe az alábbi rendelkezés lép:
-
-„(4) Ha az adókötelezettség átalakítás miatt keletkezik, az adó alanya köteles a területileg illetékes közlekedési hatósághoz benyújtott előzetes engedély iránti kérelmet benyújtani. A közlekedési hatóság az átalakítási engedély kiadásakor, annak egy példánya megküldésével haladéktalanul értesíti a vámhatóságot az adóalany átalakítási szándékáról, közölve minden, az e törvény szerinti adókötelezettség megállapításához szükséges adatot (az eredeti és az átalakított gépjármű teljesítményét, üzemanyag fajtáját és környezetvédelmi osztályba sorolását, valamint az e törvény szerinti adó alanyának beazonosításához szükséges adatokat).”
+### 75. §
