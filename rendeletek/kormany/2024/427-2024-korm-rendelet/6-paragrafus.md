@@ -1,3 +1,3 @@
-6. § A 322/2015. (X. 30.) Korm. rendelet 24. § (2) bekezdése a következő e) és f) ponttal egészül ki:
+6. §[^6]
 
-(A megvalósítandó építmény vagy elvégzendő építési tevékenység értékelésére alkalmas szempontok körében értékelhető különösen)
+[^6]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,3 @@
-9. § Hatályát veszti a 322/2015. (X. 30.) Korm. rendelet
+9. §[^9]
 
-a) 5. § (3) bekezdés h) pontja,
-
-b) 24. § (2) bekezdés d) pontjában a „vagy” szövegrész.
+[^9]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
