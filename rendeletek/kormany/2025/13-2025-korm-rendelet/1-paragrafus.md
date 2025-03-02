@@ -6,12 +6,6 @@
 
 ## [4] A Kormány a Rendőrségről szóló 1994. évi XXXIV. törvény 100. § (1) bekezdés b) és c) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A Rendőrség szerveiről és a Rendőrség szerveinek feladat- és hatásköréről szóló 329/2007. (XII. 13.) Korm. rendelet a következő 13/A. §-sal egészül ki:
+1. §[^2]
 
-„13/A. § A 13. §-ban foglaltakon túl az illetékességi területéhez kapcsolódóan a magyar–román határszakaszon a határterületen a Kiszombor Határrendészeti Kirendeltség és a Kölcse Határrendészeti Kirendeltség ellátja
-
-a) az államhatár rendjének fenntartásával kapcsolatos feladatokat,
-
-b) a külföldiek ellenőrzésével kapcsolatos feladatokat, valamint
-
-c) a belső határon a határellenőrzés visszaállítása esetén a határellenőrzés ideiglenes visszaállításával kapcsolatos feladatokat.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

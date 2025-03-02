@@ -1,3 +1,3 @@
-3. § A Rendőrség szerveiről és a Rendőrség szerveinek feladat- és hatásköréről szóló 329/2007. (XII. 13.) Korm. rendelet 17. § (1) bekezdése a következő i) és j) ponttal egészül ki:
+3. §[^4]
 
-(Ez a rendelet)
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
