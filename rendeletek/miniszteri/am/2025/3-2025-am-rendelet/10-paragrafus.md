@@ -1,3 +1,3 @@
-10. § A 19/2021. (V. 5.) AM rendelet 15. § (2) bekezdése helyébe a következő rendelkezés lép:
+10. §[^10]
 
-„(2) A kérelmező – a fenntartóval történő közös megegyezés alapján – jogosult az azonos fenntartóhoz tartozó intézmények között azonos termékkategórián belül termékmennyiséget átcsoportosítani. Termékmennyiség átcsoportosítására kizárólag a szállítási szerződésben a fogadó intézményre vonatkozóan jóváhagyott termékkategóriák tekintetében kerülhet sor. A kiosztott termékmennyiség nem haladhatja meg a szállítási szerződések jóváhagyására vonatkozó döntésben a kérelmező és a fenntartó vonatkozásában az egyes termékkategóriákra jóváhagyott teljes tanévi mennyiséget. A termékkategóriák mennyiségi kereteinek vizsgálatakor a Kincstár a kifizetési kérelmek alapján jóváhagyott mennyiséget veszi figyelembe.”
+[^10]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

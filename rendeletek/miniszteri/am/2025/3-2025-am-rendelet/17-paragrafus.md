@@ -1,23 +1,32 @@
 17. § Hatályát veszti a 19/2021. (V. 5.) AM rendelet
 
-1. 3. § (2) bekezdésében az „összevont” szövegrész,
+1.[^17]
 
-2. 5. § (4) és (6) bekezdésében, 10. § (2) és (3) bekezdésében, 14. § (5) és (7) bekezdésében, 15. § (4) bekezdés d) pontjában, 19. § (2), (7a) és (8) bekezdésében, 20. §-ában, valamint 22. § (2) bekezdésében a „nevelési-oktatási” szövegrész,
+2.[^18]
 
-3. 9. alcím címében a „ , módosítása” szövegrész,
+3.[^19]
 
-4. 10. § (6) bekezdése,
+4.[^20]
 
-5. 12. §-a,
+5.[^21]
 
-6. 13. § (4) és (7) bekezdése,
+6.[^22]
 
-7.[^1]
+7.[^23]
 
-8. 14. § (11) bekezdése,
+8.[^24]
 
-9. 14. § (12) bekezdésében és 19. § (8) bekezdésében az „összevont” szövegrészek,
+9.[^25]
 
-10. 4. melléklete.
+10.[^26]
 
-[^1]: A 17. § 7. pontja a 18. § (2) bekezdése alapján 2026. szeptember 1-jén lép hatályba.
+[^17]: A 17. § 1. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 17. § 2. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 17. § 3. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 17. § 4. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 17. § 5. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 17. § 6. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 17. § 7. pontja a 18. § (2) bekezdése alapján 2026. szeptember 1-jén lép hatályba.
+[^24]: A 17. § 8. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 17. § 9. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 17. § 10. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-6. § A 19/2021. (V. 5.) AM rendelet 10. § (1) bekezdése helyébe a következő rendelkezés lép:
+6. §[^6]
 
-„(1) A 2025/2026. tanévre, valamint az azt követő tanévekre vonatkozóan szállítási szerződést legfeljebb egy teljes tanévre lehet kötni.”
+[^6]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

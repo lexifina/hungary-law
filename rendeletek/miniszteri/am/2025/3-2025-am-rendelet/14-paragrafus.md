@@ -1,3 +1,3 @@
-14. § A 19/2021. (V. 5.) AM rendelet 26. § e) pontja helyébe a következő rendelkezés lép:
+14. §[^14]
 
-(Ez a rendelet)
+[^14]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

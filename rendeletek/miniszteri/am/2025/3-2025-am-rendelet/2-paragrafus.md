@@ -1,3 +1,3 @@
-2. § A 19/2021. (V. 5.) AM rendelet 2. § (3) bekezdése helyébe a következő rendelkezés lép:
+2. §[^2]
 
-„(3) Az uniós támogatás forintban meghatározott értékének kiszámításakor az (EU) 2022/127 felhatalmazáson alapuló bizottsági rendelet 32. cikkét kell alapul venni.”
+[^2]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
