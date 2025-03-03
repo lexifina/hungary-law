@@ -2,11 +2,11 @@
 
 ## 2.[^1] egyetért azzal, hogy a sportszakmai szempontrendszer alapján kategóriákba sorolt, a 2. melléklet szerinti kiemelt vidéki sportszervezetek (a továbbiakban: sportszervezetek) az éves sportfejlesztési feladataik megvalósítása érdekében az alábbi támogatásokban részesüljenek:
 
-## a) 1. kategória (legalább 14 szakosztállyal vagy minimum 1300 fő és azt meghaladó igazolt sportolóval rendelkező sportszervezetek köre): 300 000 000–500 000 000 forint,
+## a) 1. kategória (legalább 14 szakosztállyal vagy minimum 1300 fő és azt meghaladó igazolt sportolóval rendelkező sportszervezetek köre): 330 000 000 – 500 000 000 forint,
 
-## b) 2. kategória (az 1. kategóriába nem tartozó, de legalább 7 szakosztállyal és 750 főt meghaladó igazolt sportolóval rendelkező sportszervezetek köre): 220 000 000–300 000 000 forint,
+## b) 2. kategória (az 1. kategóriába nem tartozó, de legalább 7 szakosztállyal és 750 főt meghaladó igazolt sportolóval rendelkező sportszervezetek köre): 250 000 000 – 330 000 000 forint,
 
-## c) 3. kategória (az 1. és 2. kategóriába nem tartozó, de legalább 5 szakosztállyal és 350 fő igazolt sportolóval rendelkező sportszervezetek köre): 28 000 000–220 000 000 forint;
+## c) 3. kategória (az 1. és 2. kategóriába nem tartozó, de legalább 5 szakosztállyal és 350 fő igazolt sportolóval rendelkező sportszervezetek köre): 45 000 000 – 250 000 000 forint;
 
 ## 3. felhívja a pénzügyminisztert, hogy az emberi erőforrások minisztere bevonásával gondoskodjon a sportszervezetek
 
@@ -44,17 +44,17 @@
 
 ## 7.[^2]
 
-## 8.[^3] felhívja a honvédelmi minisztert, hogy gondoskodjon a sportszervezetek 2024. évi sportfejlesztési feladatai megvalósításának támogatásáról a Magyarország 2024. évi központi költségvetéséről szóló 2023. évi LV. törvény 1. melléklet XIII. Honvédelmi Minisztérium fejezet, 21. Sport feladatokhoz kapcsolódó fejezeti kezelésű előirányzatok cím, 7. Kiemelt sportegyesületek támogatása alcímen rendelkezésre álló forrás terhére.
+## 8.[^3] felhívja a honvédelmi minisztert, hogy gondoskodjon a sportszervezetek 2025. évi sportfejlesztési feladatai megvalósításának támogatásáról a Magyarország 2025. évi központi költségvetéséről szóló 2024. évi XC. törvény 1. melléklet XIII. Honvédelmi Minisztérium fejezet, 21. Sport feladatokhoz kapcsolódó fejezeti kezelésű előirányzatok cím, 7. Kiemelt sportegyesületek támogatása alcímen rendelkezésre álló forrás terhére.
 
 | Felelős: | honvédelmi miniszter |
 
-| Határidő: | az egyes kiemelt vidéki sportszervezetek 2021–2026. évre vonatkozó sportfejlesztési feladataival összefüggő kormányzati intézkedésekről szóló 1410/2021. (VI. 30.) Korm. határozat módosításáról szóló 1069/2024. (III. 21.) Korm. határozat közzétételét követő 60 napon belül |
+| Határidő: | az egyes kiemelt vidéki sportszervezetek 2021–2026. évre vonatkozó sportfejlesztési feladataival összefüggő kormányzati intézkedésekről szóló 1410/2021. (VI. 30.) Korm. határozat módosításáról szóló 1036/2025. (III. 3.) Korm. határozat közzétételét követő 60 napon belül |
 
 1. melléklet az 1410/2021. (VI. 30.) Korm. határozathoz[^4]
 
 Az egyes kiemelt vidéki sportszervezetek kiválasztására vonatkozó sportszakmai szempontrendszer
 
-[^1]: A 2. pont az 1069/2024. (III. 21.) Korm. határozat 1. pontjával megállapított szöveg.
+[^1]: A 2. pont az 1036/2025. (III. 3.) Korm. határozat 2. pontjával megállapított szöveg.
 [^2]: A 7. pontot az 1025/2023. (II. 9.) Korm. határozat 4. pontja visszavonta.
-[^3]: A 8. pontot az 1025/2023. (II. 9.) Korm. határozat 2. pontja iktatta be, szövege az 1069/2024. (III. 21.) Korm. határozat 2. pontjával megállapított szöveg.
-[^4]: Az 1. melléklet az 1069/2024. (III. 21.) Korm. határozat 3. pontjával megállapított szöveg.
+[^3]: A 8. pontot az 1025/2023. (II. 9.) Korm. határozat 2. pontja iktatta be, szövege az 1036/2025. (III. 3.) Korm. határozat 3. pontjával megállapított szöveg.
+[^4]: Az 1. melléklet az 1036/2025. (III. 3.) Korm. határozat 4. pontjával megállapított szöveg.
