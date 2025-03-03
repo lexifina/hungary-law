@@ -1,0 +1,1 @@
+6. § Hatályát veszti a közlekedésért felelős miniszter szabályozási feladatkörébe tartozó forgalmazási követelmények tekintetében eljáró megfelelőségértékelő szervezetek kijelölési eljárásáért fizetendő igazgatási szolgáltatási díjakról szóló 89/2011. (XII. 30.) NFM rendelet.
