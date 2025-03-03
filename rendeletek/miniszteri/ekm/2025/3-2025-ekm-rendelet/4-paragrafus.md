@@ -1,0 +1,1 @@
+4. § A hatósági eljárás során igénybe veendő szemlebizottság szakértői tekintetében az ügyfél két szakértő díját köteles megfizetni a 3. § (4) bekezdése alapján, további szakértő bevonása esetén annak költsége a hajózási hatóságot terheli.
