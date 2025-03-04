@@ -1,1 +1,3 @@
-6. § Hatályát veszti a nem közúti mozgó gépek belső égésű motorjaival kapcsolatos típusjóváhagyási eljárással összefüggésben fizetendő igazgatási szolgáltatási díjakról szóló 35/2019. (IX. 18.) ITM rendelet.
+6. §[^1]
+
+[^1]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
