@@ -2440,6 +2440,6 @@
 
 ## 15. Feltétel nélkül elismerésre kerül az Olaszországban megszerzett és az irányelv V. melléklet 5.1.2. és 5.1.3. pontjában felsorolt szakorvosi képesítés azon orvosok esetében, akik szakorvosi képzésüket 1983. december 31. után és 1991. január 1. előtt kezdték meg, feltéve, hogy a képesítés megszerzését tanúsító okirathoz csatolják azt az illetékes olaszországi hatóságok által kiállított igazolást, amelynek értelmében az érintett orvos Olaszországban ugyanazon az érintett szakterületen ténylegesen és jogszerűen, az igazolás kiállítását megelőző tíz éven belül legalább hét egymást követő évben szakorvosként tevékenykedett.
 
-2. számú melléklet a 4/2008. (I. 16.) EüM rendelethez[^5]
+2. számú melléklet a 4/2008. (I. 16.) EüM rendelethez[^6]
 
-[^5]: A 2. számú melléklet a 46/2018. (XII. 19.) EMMI rendelet 1. § b) pontjával megállapított, a 29/2019. (XII. 11.) EMMI rendelet 1. § (2) bekezdése, a 12/2020. (III. 25.) EMMI rendelet 2. § (2) bekezdése, a 29/2020. (VIII. 19.) EMMI rendelet 2. § (2) bekezdése, a 9/2022. (II. 21.) EMMI rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^6]: A 2. számú melléklet a 46/2018. (XII. 19.) EMMI rendelet 1. § b) pontjával megállapított, a 29/2019. (XII. 11.) EMMI rendelet 1. § (2) bekezdése, a 12/2020. (III. 25.) EMMI rendelet 2. § (2) bekezdése, a 29/2020. (VIII. 19.) EMMI rendelet 2. § (2) bekezdése, a 9/2022. (II. 21.) EMMI rendelet 2. § (2) bekezdése szerint módosított szöveg.

@@ -46,7 +46,9 @@ eq) az 5.1.1., 5.1.2., 5.1.3., 5.2.2., 5.3.2., 5.3.3., 5.5.2. és 5.6.2. pontja 
 
 f) a 2003. évi uniós Csatlakozási Okmány II. melléklet 2. C. pontjának
 
-## való megfelelést szolgálja.
+g)[^3] a 2005/36/EK irányelvnek a Romániában képzett általános ápolók szakmai képesítéseinek elismerése tekintetében történő módosításáról szóló, 2024. február 7-i (EU) 2024/505 európai parlamenti és tanácsi irányelvnek
+
+való megfelelést szolgálja.
 
 (2) Ez a rendelet
 
@@ -60,7 +62,10 @@ d) a 2005/36/EK európai parlamenti és tanácsi irányelv V. mellékletének az
 
 e) a 2005/36/EK európai parlamenti és tanácsi irányelv V. mellékletének az előírt képesítések megszerzését tanúsító okiratok és a képzések megnevezései tekintetében történő módosításáról szóló, 2020. január 23-i (EU) 2020/548 felhatalmazáson alapuló határozat
 
-f)[^3] a 2005/36/EK európai parlamenti és tanácsi irányelv V. mellékletének az előírt képesítések megszerzését tanúsító okiratok és a képzések megnevezései tekintetében történő módosításáról szóló, 2021. augusztus 25-i (EU) 2021/2183 felhatalmazáson alapuló határozat
+f)[^4] a 2005/36/EK európai parlamenti és tanácsi irányelv V. mellékletének az előírt képesítések megszerzését tanúsító okiratok és a képzések megnevezései tekintetében történő módosításáról szóló, 2021. augusztus 25-i (EU) 2021/2183 felhatalmazáson alapuló határozat
+
+végrehajtásához szükséges rendelkezéseket állapít meg.
 
 [^2]: A 3. § a 29/2020. (VIII. 19.) EMMI rendelet 1. §-ával megállapított szöveg.
-[^3]: A 3. § (2) bekezdés f) pontját a 9/2022. (II. 21.) EMMI rendelet 1. §-a iktatta be.
+[^3]: A 3. § (1) bekezdés g) pontját a 7/2025. (III. 3.) BM rendelet 1. §-a iktatta be.
+[^4]: A 3. § (2) bekezdés f) pontját a 9/2022. (II. 21.) EMMI rendelet 1. §-a iktatta be.
