@@ -1,1 +1,3 @@
-8. § Hatályát veszti a hajózási hatósági eljárások díjairól szóló 29/2001. (IX. 1.) KöViM rendelet.
+8. §[^1]
+
+[^1]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
