@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-1592-30
 | 2023-01-01 | 2018-1592-30-22.10 | 2011: CXCV. törvény |
 | 2023-07-19 | 2018-1592-30-22.5 | 1302/2023. (VII. 19.) Korm. határozat |
 | 2024-12-09 | 2018-1592-30-22.6 | 1387/2024. (XII. 9.) Korm. határozat |
+| 2025-03-05 | 2018-1592-30-22.7 | 1302/2023. (VII. 19.) Korm. határozat |
