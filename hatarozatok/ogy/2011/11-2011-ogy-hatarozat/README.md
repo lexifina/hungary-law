@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-11-30-4
 | 2022-09-13 | 2011-11-30-41.11 | 22/2011. (III. 22.) OGY határozat |
 | 2023-03-27 | 2011-11-30-41.12 | 22/2011. (III. 22.) OGY határozat |
 | 2023-04-06 | 2011-11-30-41.13 | 22/2011. (III. 22.) OGY határozat |
+| 2025-03-05 | 2011-11-30-41.14 | 22/2011. (III. 22.) OGY határozat |
