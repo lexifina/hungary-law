@@ -38,7 +38,10 @@ f) általános és szakanyagellátáshoz szükséges raktárak működtetése é
 
 g) ügykezelési és dokumentációs szolgáltatások nyújtása; különösen a bejövő küldemények kezelése, átvétele, érkeztetése, szkennelése, a kimenő küldemények kezelése, átvétele, egyetemes postai szolgáltatón keresztüli feladása, a cégkapun beérkező küldemények továbbítása; iratanyagok irattározása; közreműködés az iratanyagokkal kapcsolatos selejtezési eljárásban; dokumentum-menedzsment rendszerek szakmai felügyelete.
 
+(4)[^5] Ha az Építési és Közlekedési Minisztérium a (3) bekezdés a) pontja szerinti valamely szolgáltatás esetében a központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló 341/2024. (XI. 14.) Korm. rendelet 12. § (1) bekezdése szerinti egyedi kérelemre kiadott felmentés alapján felmentésre kerül a központi szolgáltató kötelező igénybevétele alól, a felmentéssel érintett szolgáltatást a MÁV Szolgáltató Központ Zártkörűen Működő Részvénytársaság nyújtja a részére.
+
 [^1]: Az 1. § (1) bekezdése a 382/2024. (XII. 9.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^2]: Az 1. § (2) bekezdés f) pontja a 382/2024. (XII. 9.) Korm. rendelet 3. §-a szerint módosított szöveg.
 [^3]: Az 1. § (2) bekezdés h) pontját a 382/2024. (XII. 9.) Korm. rendelet 2. §-a iktatta be.
 [^4]: Az 1. § (2) bekezdés i) pontját a 382/2024. (XII. 9.) Korm. rendelet 2. §-a iktatta be.
+[^5]: Az 1. § (4) bekezdését a 32/2025. (III. 5.) Korm. rendelet 1. §-a iktatta be.
