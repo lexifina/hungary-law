@@ -22,6 +22,8 @@ kell rendelkeznie.
 
 (3) A beruházás-lebonyolító, a tervező, a tervellenőr, az építési műszaki ellenőr és a költségszakértő feladatait – az Ábtv. 4. § (3) bekezdése szerinti rendeletben meghatározott esetekben – igénybe vett szolgáltatás keretében vállalkozói vagy megbízási szerződésen keresztül is elláthatja.
 
-(4) Ha a beruházás-lebonyolító, a tervellenőr és a költségszakértő az építtető munkavállalója, vagy az építtetővel munkavégzésre irányuló jogviszonyban álló természetes személy, az építtető az (1) bekezdésben foglaltaktól eltérő alkalmassági követelményeket is megállapíthat.
+(4)[^1] Ha a beruházás-lebonyolító és a költségszakértő az építtető munkavállalója, vagy az építtetővel munkavégzésre irányuló jogviszonyban álló természetes személy, az építtető az (1) bekezdésben foglaltaktól eltérő alkalmassági követelményeket is megállapíthat.
 
 (5) A felelős műszaki vezető – a vállalkozó kivitelezővel kötött szerződésen keresztül – a vállalkozó kivitelező munkavállalója vagy a vállalkozó kivitelezővel munkavégzésre irányuló jogviszonyban álló természetes személy.
+
+[^1]: A 4. § (4) bekezdése az 56. § szerint módosított szöveg.
