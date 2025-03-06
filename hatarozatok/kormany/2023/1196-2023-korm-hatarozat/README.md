@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-1196-30
 | --- | --- | --- |
 | 2023-05-15 | 2023-1196-30-22.1 | 1196/2023. (V. 15.) Korm. határozat |
 | 2024-09-13 | 2023-1196-30-22.2 | 1274/2024. (IX. 12.) Korm. határozat |
+| 2025-03-06 | 2023-1196-30-22.3 | 1044/2025. (III. 5.) Korm. határozat |

@@ -50,21 +50,21 @@
 
 | 1. | Területi szereplő megnevezése | Integrált területi program megnevezése | Hétéves forráskeret (milliárd forint) | Szakpolitikai célkitűzés | Szakpolitikai célkitűzés szerinti forrásallokáció (milliárd forint) |
 
-| 2. | Bács-Kiskun Vármegyei Önkormányzat | Bács-Kiskun Vármegye Integrált Területi Programja | 107,83 | PO2: Zöldebb Európa (ERFA) | 11,62 |
+| 2. | Bács-Kiskun Vármegyei Önkormányzat | Bács-Kiskun Vármegye Integrált Területi Programja | 107,83 | PO2: Zöldebb Európa (ERFA) | 10,71[^1] |
 
-| 3. | PO4: Szociálisabb és Befogadóbb Európa (ERFA) | 18,50 |
+| 3. | PO4: Szociálisabb és Befogadóbb Európa (ERFA) | 18,92[^2] |
 
 | 4. | PO4: Szociálisabb és Befogadóbb Európa (ESZA+) | 13,04 |
 
-| 5. | PO5: Polgárokhoz közelebb álló Európa (ERFA) | 64,67 |
+| 5. | PO5: Polgárokhoz közelebb álló Európa (ERFA) | 65,15[^3] |
 
-| 6. | Baranya Vármegyei Önkormányzat | Baranya Vármegye Integrált Területi Programja | 92,13 | PO2: Zöldebb Európa (ERFA) | 9,95 |
+| 6. | Baranya Vármegyei Önkormányzat | Baranya Vármegye Integrált Területi Programja | 92,13 | PO2: Zöldebb Európa (ERFA) | 10,03[^4] |
 
-| 7. | PO4: Szociálisabb és Befogadóbb Európa (ERFA) | 13,31 |
+| 7. | PO4: Szociálisabb és Befogadóbb Európa (ERFA) | 13,57[^5] |
 
 | 8. | PO4: Szociálisabb és Befogadóbb Európa (ESZA+) | 11,14 |
 
-| 9. | PO5: Polgárokhoz közelebb álló Európa (ERFA) | 57,73 |
+| 9. | PO5: Polgárokhoz közelebb álló Európa (ERFA) | 57,39[^6] |
 
 | 10. | Békés Vármegyei Önkormányzat | Békés Vármegye Integrált Területi Programja | 94,80 | PO2: Zöldebb Európa (ERFA) | 10,25 |
 
@@ -82,61 +82,61 @@
 
 | 17. | PO5: Polgárokhoz közelebb álló Európa (ERFA) | 86,68 |
 
-| 18. | Csongrád-Csanád Vármegyei Önkormányzat | Csongrád-Csanád Vármegye Integrált Területi Programja | 94,05 | PO2: Zöldebb Európa (ERFA) | 10,15 |
+| 18. | Csongrád-Csanád Vármegyei Önkormányzat | Csongrád-Csanád Vármegye Integrált Területi Programja | 94,05 | PO2: Zöldebb Európa (ERFA) | 8,43[^7] |
 
-| 19. | PO4: Szociálisabb és Befogadóbb Európa (ERFA) | 11,74 |
+| 19. | PO4: Szociálisabb és Befogadóbb Európa (ERFA) | 11,01[^8] |
 
 | 20. | PO4: Szociálisabb és Befogadóbb Európa (ESZA+) | 11,37 |
 
-| 21. | PO5: Polgárokhoz közelebb álló Európa (ERFA) | 60,79 |
+| 21. | PO5: Polgárokhoz közelebb álló Európa (ERFA) | 63,23[^9] |
 
-| 22. | Fejér Vármegyei Önkormányzat | Fejér Vármegye Integrált Területi Programja | 73,22 | PO2: Zöldebb Európa (ERFA) | 8,27 |
+| 22. | Fejér Vármegyei Önkormányzat | Fejér Vármegye Integrált Területi Programja | 73,22 | PO2: Zöldebb Európa (ERFA) | 8,34[^10] |
 
 | 23. | PO4: Szociálisabb és Befogadóbb Európa (ERFA) | 12,62 |
 
 | 24. | PO4: Szociálisabb és Befogadóbb Európa (ESZA+) | 8,86 |
 
-| 25. | PO5: Polgárokhoz közelebb álló Európa (ERFA) | 43,47 |
+| 25. | PO5: Polgárokhoz közelebb álló Európa (ERFA) | 43,41[^11] |
 
-| 26. | Győr-Moson-Sopron Vármegyei Önkormányzat | Győr-Moson-Sopron Vármegye Integrált Területi Programja | 70,27 | PO2: Zöldebb Európa (ERFA) | 7,53 |
+| 26. | Győr-Moson-Sopron Vármegyei Önkormányzat | Győr-Moson-Sopron Vármegye Integrált Területi Programja | 70,27 | PO2: Zöldebb Európa (ERFA) | 7,02[^12] |
 
-| 27. | PO4: Szociálisabb és Befogadóbb Európa (ERFA) | 15,98 |
+| 27. | PO4: Szociálisabb és Befogadóbb Európa (ERFA) | 16,11[^13] |
 
 | 28. | PO4: Szociálisabb és Befogadóbb Európa (ESZA+) | 8,50 |
 
-| 29. | PO5: Polgárokhoz közelebb álló Európa (ERFA) | 38,26 |
+| 29. | PO5: Polgárokhoz közelebb álló Európa (ERFA) | 38,64[^14] |
 
-| 30. | Hajdú-Bihar Vármegyei Önkormányzat | Hajdú-Bihar Vármegye Integrált Területi Programja | 127,32 | PO2: Zöldebb Európa (ERFA) | 13,74 |
+| 30. | Hajdú-Bihar Vármegyei Önkormányzat | Hajdú-Bihar Vármegye Integrált Területi Programja | 127,32 | PO2: Zöldebb Európa (ERFA) | 12,34[^15] |
 
-| 31. | PO4: Szociálisabb és Befogadóbb Európa (ERFA) | 17,22 |
+| 31. | PO4: Szociálisabb és Befogadóbb Európa (ERFA) | 17,24[^16] |
 
 | 32. | PO4: Szociálisabb és Befogadóbb Európa (ESZA+) | 15,40 |
 
-| 33. | PO5: Polgárokhoz közelebb álló Európa (ERFA) | 80,96 |
+| 33. | PO5: Polgárokhoz közelebb álló Európa (ERFA) | 82,34[^17] |
 
-| 34. | Heves Vármegyei Önkormányzat | Heves Vármegye Integrált Területi Programja | 68,28 | PO2: Zöldebb Európa (ERFA) | 7,37 |
+| 34. | Heves Vármegyei Önkormányzat | Heves Vármegye Integrált Területi Programja | 68,28 | PO2: Zöldebb Európa (ERFA) | 7,18[^18] |
 
-| 35. | PO4: Szociálisabb és Befogadóbb Európa (ERFA) | 11,51 |
+| 35. | PO4: Szociálisabb és Befogadóbb Európa (ERFA) | 11,58[^19] |
 
 | 36. | PO4: Szociálisabb és Befogadóbb Európa (ESZA+) | 8,26 |
 
-| 37. | PO5: Polgárokhoz közelebb álló Európa (ERFA) | 41,14 |
+| 37. | PO5: Polgárokhoz közelebb álló Európa (ERFA) | 41,26[^20] |
 
-| 38. | Jász-Nagykun-Szolnok Vármegyei Önkormányzat | Jász-Nagykun-Szolnok Vármegye Integrált Területi Programja | 97,35 | PO2: Zöldebb Európa (ERFA) | 10,52 |
+| 38. | Jász-Nagykun-Szolnok Vármegyei Önkormányzat | Jász-Nagykun-Szolnok Vármegye Integrált Területi Programja | 97,35 | PO2: Zöldebb Európa (ERFA) | 8,87[^21] |
 
-| 39. | PO4: Szociálisabb és Befogadóbb Európa (ERFA) | 11,17[^1] |
+| 39. | PO4: Szociálisabb és Befogadóbb Európa (ERFA) | 12,62[^22] |
 
 | 40. | PO4: Szociálisabb és Befogadóbb Európa (ESZA+) | 11,78 |
 
-| 41. | PO5: Polgárokhoz közelebb álló Európa (ERFA) | 63,88[^2] |
+| 41. | PO5: Polgárokhoz közelebb álló Európa (ERFA) | 64,08[^23] |
 
-| 42. | Komárom-Esztergom Vármegyei Önkormányzat | Komárom-Esztergom Vármegye Integrált Területi Programja | 53,63 | PO2: Zöldebb Európa (ERFA) | 5,77 |
+| 42. | Komárom-Esztergom Vármegyei Önkormányzat | Komárom-Esztergom Vármegye Integrált Területi Programja | 53,63 | PO2: Zöldebb Európa (ERFA) | 5,29[^24] |
 
 | 43. | PO4: Szociálisabb és Befogadóbb Európa (ERFA) | 7,12 |
 
 | 44. | PO4: Szociálisabb és Befogadóbb Európa (ESZA+) | 6,49 |
 
-| 45. | PO5: Polgárokhoz közelebb álló Európa (ERFA) | 34,25 |
+| 45. | PO5: Polgárokhoz közelebb álló Európa (ERFA) | 34,73[^25] |
 
 | 46. | Nógrád Vármegyei Önkormányzat | Nógrád Vármegye Integrált Területi Programja | 71,66 | PO2: Zöldebb Európa (ERFA) | 7,76 |
 
@@ -154,9 +154,9 @@
 
 | 53. | PO5: Polgárokhoz közelebb álló Európa (ERFA) | 84,43 |
 
-| 54. | Somogy Vármegyei Önkormányzat | Somogy Vármegye Integrált Területi Programja | 78,74 | PO2: Zöldebb Európa (ERFA) | 8,51 |
+| 54. | Somogy Vármegyei Önkormányzat | Somogy Vármegye Integrált Területi Programja | 78,74 | PO2: Zöldebb Európa (ERFA) | 7,84[^26] |
 
-| 55. | PO4: Szociálisabb és Befogadóbb Európa (ERFA) | 12,08 |
+| 55. | PO4: Szociálisabb és Befogadóbb Európa (ERFA) | 12,75[^27] |
 
 | 56. | PO4: Szociálisabb és Befogadóbb Európa (ESZA+) | 9,52 |
 
@@ -170,21 +170,21 @@
 
 | 61. | PO5: Polgárokhoz közelebb álló Európa (ERFA) | 102,33 |
 
-| 62. | Tolna Vármegyei Önkormányzat | Tolna Vármegye Integrált Területi Programja | 49,92 | PO2: Zöldebb Európa (ERFA) | 5,39 |
+| 62. | Tolna Vármegyei Önkormányzat | Tolna Vármegye Integrált Területi Programja | 49,92 | PO2: Zöldebb Európa (ERFA) | 3,71[^28] |
 
-| 63. | PO4: Szociálisabb és Befogadóbb Európa (ERFA) | 11,67[^3] |
+| 63. | PO4: Szociálisabb és Befogadóbb Európa (ERFA) | 11,81[^29] |
 
 | 64. | PO4: Szociálisabb és Befogadóbb Európa (ESZA+) | 6,04 |
 
-| 65. | PO5: Polgárokhoz közelebb álló Európa (ERFA) | 26,82[^4] |
+| 65. | PO5: Polgárokhoz közelebb álló Európa (ERFA) | 28,36[^30] |
 
-| 66. | Vas Vármegyei Önkormányzat | Vas Vármegye Integrált Területi Programja | 49,33 | PO2: Zöldebb Európa (ERFA) | 5,31 |
+| 66. | Vas Vármegyei Önkormányzat | Vas Vármegye Integrált Területi Programja | 49,33 | PO2: Zöldebb Európa (ERFA) | 3,82[^31] |
 
 | 67. | PO4: Szociálisabb és Befogadóbb Európa (ERFA) | 9,10 |
 
 | 68. | PO4: Szociálisabb és Befogadóbb Európa (ESZA+) | 5,97 |
 
-| 69. | PO5: Polgárokhoz közelebb álló Európa (ERFA) | 28,95 |
+| 69. | PO5: Polgárokhoz közelebb álló Európa (ERFA) | 30,44[^32] |
 
 | 70. | Veszprém Vármegyei Önkormányzat | Veszprém Vármegye Integrált Területi Programja | 80,25 | PO2: Zöldebb Európa (ERFA) | 8,66 |
 
@@ -194,13 +194,13 @@
 
 | 73. | PO5: Polgárokhoz közelebb álló Európa (ERFA) | 48,00 |
 
-| 74. | Zala Vármegyei Önkormányzat | Zala Vármegye Integrált Területi Programja | 61,32 | PO2: Zöldebb Európa (ERFA) | 6,62 |
+| 74. | Zala Vármegyei Önkormányzat | Zala Vármegye Integrált Területi Programja | 61,32 | PO2: Zöldebb Európa (ERFA) | 5,32[^33] |
 
-| 75. | PO4: Szociálisabb és Befogadóbb Európa (ERFA) | 6,77 |
+| 75. | PO4: Szociálisabb és Befogadóbb Európa (ERFA) | 7,56[^34] |
 
 | 76. | PO4: Szociálisabb és Befogadóbb Európa (ESZA+) | 7,42 |
 
-| 77. | PO5: Polgárokhoz közelebb álló Európa (ERFA) | 40,51 |
+| 77. | PO5: Polgárokhoz közelebb álló Európa (ERFA) | 41,02[^35] |
 
 2. A Terület- és Településfejlesztési Operatív Program Plusz 1–3. és 6. prioritás intézkedéseinek területi forrásallokációja:
 
@@ -208,43 +208,43 @@
 
 | 1. | Területi szereplő megnevezése | 1.1 Klímatudatosság, éghajlatválto-záshoz való alkalmazkodás (milliárd forint) | 1.2 Településfejlesztés, települési szolgáltatások (milliárd forint) | 1.3 Fenntartható városfejlesztés (milliárd forint) | 2.1 Klímabarát vármegye (milliárd forint) | 3.1 Vármegyei és térségi fejlesztések (ESZA+ elemei) (milliárd forint) | 3.2 Fenntartható városfejlesztés (ESZA+ elemei) (milliárd forint) | 3.3 Helyi és térségi közszolgál-tatások (ERFA) (milliárd forint) | 3.4 Fenntartható humán infrastruktúra (ERFA) (milliárd forint) | 6.1 Helyi gazdaság-fejlesztés (milliárd forint) | 6.2 Fenntartható versenyképes városfejlesztés (milliárd forint) |
 
-| 2. | Bács-Kiskun Vármegyei Önkormányzat | 0,50 | 20,07 | 8,87 | 11,62 | 9,72 | 3,32 | 14,24 | 4,26 | 29,66 | 5,57 |
+| 2. | Bács-Kiskun Vármegyei Önkormányzat | 0,50 | 21,52[^36] | 9,27[^37] | 10,71[^38] | 9,72 | 3,32 | 14,46[^39] | 4,46[^40] | 28,91[^41] | 4,97[^42] |
 
-| 3. | Baranya Vármegyei Önkormányzat | 0,12 | 10,98 | 6,61 | 9,95 | 9,25 | 1,90 | 5,63 | 7,69 | 27,55 | 12,47 |
+| 3. | Baranya Vármegyei Önkormányzat | 0,12 | 10,98 | 7,22[^43] | 10,03[^44] | 9,25 | 1,90 | 5,63 | 7,95[^45] | 27,55 | 11,52[^46] |
 
-| 4. | Békés Vármegyei Önkormányzat | 0,00 | 23,80 | 11,35 | 10,25 | 9,03 | 2,43 | 11,66 | 3,72 | 20,12 | 2,43 |
+| 4. | Békés Vármegyei Önkormányzat | 0,00 | 23,80 | 11,35 | 10,25 | 9,03 | 2,43 | 9,67[^47] | 5,72[^48] | 20,12 | 2,43 |
 
-| 5. | Borsod-Abaúj-Zemplén Vármegyei Önkormányzat | 0,31[^5] | 30,31[^6] | 16,42[^7] | 16,22 | 14,70 | 3,49 | 23,12[^8] | 6,14[^9] | 37,02 | 2,62[^10] |
+| 5. | Borsod-Abaúj-Zemplén Vármegyei Önkormányzat | 0,31[^49] | 30,31[^50] | 16,42[^51] | 16,22 | 14,70 | 3,49 | 23,12[^52] | 6,14[^53] | 37,02 | 2,62[^54] |
 
-| 6. | Csongrád-Csanád Vármegyei Önkormányzat | 0,01 | 21,71 | 14,32 | 10,15 | 6,59 | 4,78 | 6,15[^11] | 5,58[^12] | 20,24 | 4,51 |
+| 6. | Csongrád-Csanád Vármegyei Önkormányzat | 0,01 | 22,92[^55] | 15,55[^56] | 8,43[^57] | 6,59 | 4,78 | 6,15[^58] | 4,86[^59] | 20,24 | 4,51 |
 
-| 7. | Fejér Vármegyei Önkormányzat | 0,50 | 20,21[^13] | 5,16[^14] | 8,27 | 6,13 | 2,72 | 7,47 | 5,14 | 10,84 | 6,76 |
+| 7. | Fejér Vármegyei Önkormányzat | 0,50 | 21,21[^60] | 5,09[^61] | 8,34[^62] | 6,13 | 2,72 | 7,47 | 5,14 | 9,84[^63] | 6,76 |
 
-| 8. | Győr-Moson-Sopron Vármegyei Önkormányzat | 0,00 | 14,85 | 14,45 | 7,53 | 7,12 | 1,38 | 10,59 | 5,40 | 6,21[^15] | 2,75[^16] |
+| 8. | Győr-Moson-Sopron Vármegyei Önkormányzat | 0,00 | 15,22[^64] | 14,47[^65] | 7,02[^66] | 7,12 | 1,38 | 10,59 | 5,53[^67] | 6,21[^68] | 2,75[^69] |
 
-| 9. | Hajdú-Bihar Vármegyei Önkormányzat | 0,10 | 33,63 | 14,54[^17] | 13,74 | 9,48 | 5,93 | 8,47 | 8,74 | 22,81 | 9,88[^18] |
+| 9. | Hajdú-Bihar Vármegyei Önkormányzat | 0,10 | 34,01[^70] | 22,60[^71] | 12,34[^72] | 9,48 | 5,93 | 8,50[^73] | 8,74 | 23,81[^74] | 1,82[^75] |
 
-| 10. | Heves Vármegyei Önkormányzat | 0,04 | 18,56 | 1,97 | 7,37 | 7,16 | 1,10 | 10,63 | 0,88 | 19,30 | 1,28 |
+| 10. | Heves Vármegyei Önkormányzat | 0,04 | 18,56 | 1,97 | 7,18[^76] | 7,16 | 1,10 | 10,63 | 0,94[^77] | 19,30 | 1,40[^78] |
 
-| 11. | Jász-Nagykun-Szolnok Vármegyei Önkormányzat | 0,00 | 19,07[^19] | 8,16 | 10,52 | 6,17 | 5,60 | 6,74[^20] | 4,43[^21] | 30,23 | 6,42 |
+| 11. | Jász-Nagykun-Szolnok Vármegyei Önkormányzat | 0,00 | 19,07[^79] | 8,35[^80] | 8,87[^81] | 6,17 | 5,60 | 6,74[^82] | 5,89[^83] | 30,23 | 6,42 |
 
-| 12. | Komárom-Esztergom Vármegyei Önkormányzat | 0,00 | 13,17 | 5,57 | 5,77 | 4,43 | 2,06 | 6,32 | 0,80 | 8,52 | 7,00 |
+| 12. | Komárom-Esztergom Vármegyei Önkormányzat | 0,00 | 13,17 | 6,57[^84] | 5,29[^85] | 4,43 | 2,06 | 6,32 | 0,80 | 8,52 | 6,47[^86] |
 
 | 13. | Nógrád Vármegyei Önkormányzat | 0,00 | 13,28 | 9,99 | 7,76 | 6,85 | 1,81 | 8,02 | 3,64 | 18,54 | 1,75 |
 
 | 14. | Pest Vármegyei Önkormányzat | 0,25 | 45,60 | 0,88 | 19,60 | 20,17 | 0,00 | 42,58 | 0,00 | 37,70 | 0,00 |
 
-| 15. | Somogy Vármegyei Önkormányzat | 0,00 | 23,65 | 6,71 | 8,51 | 7,70 | 1,82 | 9,09 | 2,99 | 16,31 | 1,95 |
+| 15. | Somogy Vármegyei Önkormányzat | 0,00 | 23,65 | 6,71 | 7,84[^87] | 7,70 | 1,82 | 9,09 | 3,65[^88] | 16,31 | 1,95 |
 
-| 16. | Szabolcs-Szatmár-Bereg Vármegyei Önkormányzat | 0,00 | 34,45 | 19,76 | 17,99 | 11,64 | 8,47 | 18,00 | 7,86 | 38,13 | 10,00 |
+| 16. | Szabolcs-Szatmár-Bereg Vármegyei Önkormányzat | 0,00 | 34,75[^89] | 19,76 | 17,99 | 11,64 | 8,47 | 18,00 | 7,86 | 37,82[^90] | 10,00 |
 
-| 17. | Tolna Vármegyei Önkormányzat | 0,10 | 6,66[^22] | 11,06[^23] | 5,39 | 3,25 | 2,79 | 7,47 | 4,20[^24] | 6,94 | 2,07 |
+| 17. | Tolna Vármegyei Önkormányzat | 0,10 | 7,78[^91] | 11,78[^92] | 3,71[^93] | 3,25 | 2,79 | 7,42[^94] | 4,39[^95] | 6,64[^96] | 2,07 |
 
-| 18. | Vas Vármegyei Önkormányzat | 0,20 | 13,33 | 8,29 | 5,31 | 4,17 | 1,80 | 6,87 | 2,23 | 6,93 | 0,20 |
+| 18. | Vas Vármegyei Önkormányzat | 0,26[^97] | 13,83[^98] | 9,22[^99] | 3,82[^100] | 4,17 | 1,80 | 6,87 | 2,23 | 6,93 | 0,20 |
 
 | 19. | Veszprém Vármegyei Önkormányzat | 0,83 | 9,28 | 11,51 | 8,66 | 7,81 | 1,90 | 8,37 | 5,51 | 23,60 | 2,78 |
 
-| 20. | Zala Vármegyei Önkormányzat | 0,03 | 5,60 | 10,85 | 6,62 | 6,52 | 0,90 | 2,80 | 3,97 | 12,95 | 11,08 |
+| 20. | Zala Vármegyei Önkormányzat | 0,03 | 5,65[^101] | 11,81[^102] | 5,32[^103] | 6,52 | 0,90 | 2,79[^104] | 4,77[^105] | 12,91[^106] | 10,63[^107] |
 
 3. a) A Terület- és Településfejlesztési Operatív Program Plusz 1–3. és 6. prioritásához tartozó indikátorok célértékei:
 
@@ -254,23 +254,23 @@
 
 | Vármegye által vállalt mérföldkő (2024) | Vármegye által vállalt célérték (2029) | Vármegye által vállalt mérföldkő (2024) | Vármegye által vállalt célérték (2029) | Vármegye által vállalt mérföldkő (2024) | Vármegye által vállalt célérték (2029) | Vármegye által vállalt mérföldkő (2024) | Vármegye által vállalt célérték (2029) | Vármegye által vállalt mérföldkő (2024) | Vármegye által vállalt célérték (2029) | Vármegye által vállalt mérföldkő (2024) | Vármegye által vállalt célérték (2029) |
 
-| 2. | RCO26 | Az éghajlatváltozáshoz való alkalmazkodás céljából épített vagy felújított zöld infrastruktúra (ha) | 0,45 | 4,50 | 0,32 | 3,18 | 0 | 3,94 | 0 | 3 | 0,37 | 3,69 | 0,19 | 1,86 |
+| 2. | RCO26 | Az éghajlatváltozáshoz való alkalmazkodás céljából épített vagy felújított zöld infrastruktúra (ha) | 0,49[^108] | 4,92[^109] | 0,32 | 3,18 | 0,39[^110] | 3,94 | 0 | 3 | 0,37 | 3,69 | 0,19 | 1,86 |
 
 | 3. | RCR35 | Árvízvédelmi intézkedésekkel érintett lakosság (fő) | 0 | 0 | 0 | 6 397 | 0 | 5 400 | 0 | 18 497 | 0 | 4 148 | 0 | 6 160 |
 
-| 4. | RCO58 | Támogatott célzott kerékpáros infrastruktúra (km) | 0 | 12,00 | 0,15 | 2,96 | 1,38 | 27,48 | 0,66 | 13,14 | 3,66 | 73,04 | 1,16 | 23,07 |
+| 4. | RCO58 | Támogatott célzott kerékpáros infrastruktúra (km) | 1,14[^111] | 12,00 | 0,15 | 2,96 | 1,38 | 27,48 | 0,66 | 13,14 | 3,66 | 73,04 | 1,16 | 23,07 |
 
-| 5. | RCR64 | A célzott kerékpáros infrastruktúra éves felhasználói (fő/év) | 0 | 0 | 0 | 13 066 | 0 | 121 628 | 0 | 58 152 | 0 | 323 384 | 0 | 102 103 |
+| 5. | RCR64 | A célzott kerékpáros infrastruktúra éves felhasználói (fő/év) | 0 | 100 404[^112] | 0 | 13 066 | 0 | 121 628 | 0 | 58 152 | 0 | 323 384 | 0 | 102 103 |
 
 | 6. | TPO08 | A rehabilitált talaj összkiterjedése (ha) | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 0 |
 
-| 7. | TPO10 | Kialakított új, forgalomcsillapított övezetek száma (darab) | 0 | 3 | 0 | 3 | 0 | 4 | 1 | 6 | 0 | 2,00 | 0 | 4 |
+| 7. | TPO10 | Kialakított új, forgalomcsillapított övezetek száma (darab) | 1[^113] | 8[^114] | 0 | 3 | 0 | 4 | 1 | 6 | 0 | 2,00 | 0 | 4 |
 
-| 8. | TPO11 | Fejlesztéssel érintett közösségi területek nagysága (m2) | 0 | 0 | 0 | 3 446 | 0 | 4 664 | 0 | 6 416 | 0 | 2 772 | 0 | 4 264 |
+| 8. | TPO11 | Fejlesztéssel érintett közösségi területek nagysága (m2) | 0 | 9 154[^115] | 0 | 3 446 | 0 | 4 664 | 0 | 6 416 | 0 | 2 772 | 0 | 4 264 |
 
 | 9. | TPO12 | Megvalósított megyei szemléletformáló és tudatosságnövelő programok száma (darab) | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 3 | 0 | 1 | 0 | 4 |
 
-| 10. | TPO35 | Bel- és csapadék-vízvédelmi létesítmények hossza (m) | 1 000 | 8 000 | 5 025 | 50 241 | 4 241 | 42 408 | 14 528 | 145 278 | 3 258 | 32 576 | 4 839 | 48 381 |
+| 10. | TPO35 | Bel- és csapadék-vízvédelmi létesítmények hossza (m) | 2 648[^116] | 8 000 | 5 025 | 50 241 | 4 241 | 42 408 | 14 528 | 145 278 | 3 258 | 32 576 | 4 839 | 48 381 |
 
 | 11. | RCO65 | Az új vagy korszerűsített szociális lakások kapacitása (fő) | 0 | 0 | 0 | 47 | 0 | 149 | 0 | 140 | 0 | 14 | 0 | 29 |
 
@@ -278,15 +278,15 @@
 
 | 13. | RCO46 | Átépített vagy korszerűsített közutak hossza – nem TEN-T (km) | 0,400 | 3,930 | 0,100 | 0,920 | 1,07 | 10,63 | 0,750 | 7,470 | 0,45 | 4,45 | 1,050 | 10,410 |
 
-| 14. | RCO19 | Jobb energiahatékonyságú középületek (m2) | 2 930,46 | 29 304,51 | 2 151,37 | 21 513,67 | 2 377,95 | 23 779,49 | 3 834,15 | 38 341,45 | 1 728,00 | 17 279,91 | 1 672,64 | 16 726,37 |
+| 14. | RCO19 | Jobb energiahatékonyságú középületek (m2) | 2 651,27[^117] | 26 512,60[^118] | 2 151,37 | 21 513,67 | 2 377,95 | 23 779,49 | 3 834,15 | 38 341,45 | 1 728,00 | 17 279,91 | 1 672,64 | 16 726,37 |
 
-| 15. | RCR26 | Éves primerenergia-fogyasztás (MWh/év) | 0 | 4 395,68 | 0 | 3 227,05 | 0 | 3 566,92 | 0 | 5 751,21 | 0 | 2 591,99 | 0 | 2 508,96 |
+| 15. | RCR26 | Éves primerenergia-fogyasztás (MWh/év) | 0 | 3 976,89[^119] | 0 | 3 227,05 | 0 | 3 566,92 | 0 | 5 751,21 | 0 | 2 591,99 | 0 | 2 508,96 |
 
-| 16. | RCR29 | Becsült üvegházhatásúgáz-kibocsátások (CO2 t/év) | 0 | 2 547,26 | 0 | 1 870,05 | 0 | 2 067,00 | 0 | 3 332,78 | 0 | 1 502,04 | 0 | 1 453,92 |
+| 16. | RCR29 | Becsült üvegházhatásúgáz-kibocsátások (CO2 t/év) | 0 | 2 304,58[^120] | 0 | 1 870,05 | 0 | 2 067,00 | 0 | 3 332,78 | 0 | 1 502,04 | 0 | 1 453,92 |
 
-| 17. | RCO22 | Megújuló energiát előállító addicionális termelőkapacitás (ebből: villamos energia, hőenergia) (MW) | 0,14 | 0,72 | 0,10 | 1,00 | 0,11 | 1,10 | 0,18 | 1,77 | 0,08 | 0,80 | 0,08 | 0,78 |
+| 17. | RCO22 | Megújuló energiát előállító addicionális termelőkapacitás (ebből: villamos energia, hőenergia) (MW) | 0,13[^121] | 1,23[^122] | 0,10 | 1,00 | 0,11 | 1,10 | 0,18 | 1,77 | 0,08 | 0,80 | 0,08 | 0,78 |
 
-| 18. | RCR31 | Összes előállított megújuló energia (ebből: villamos energia, hőenergia) (MWh/év) | 0 | 1 485,93 | 0 | 1 090,89 | 0 | 1 205,78 | 0 | 1 944,16 | 0 | 876,21 | 0 | 848,14 |
+| 18. | RCR31 | Összes előállított megújuló energia (ebből: villamos energia, hőenergia) (MWh/év) | 0 | 1 344,36[^123] | 0 | 1 090,89 | 0 | 1 205,78 | 0 | 1 944,16 | 0 | 876,21 | 0 | 848,14 |
 
 | 19. | TPO09 | Fejlesztéssel érintett fürdők száma (darab) | 0 | 1,00 | 1,00 | 1,00 | 1 | 1 | 1,00 | 2,00 | 1 | 1 | 1 | 1 |
 
@@ -316,23 +316,23 @@
 
 | 32. | TPR10 | Azon települések száma, ahol javult a foglalkoztatáshoz, oktatáshoz, egészségügyhöz, szociális és/vagy lakhatási szolgáltatásokhoz való hozzáférés (darab) | 0 | 8 | 0 | 10 | 0 | 3 | 0 | 10 | 0 | 6 | 0 | 4 |
 
-| 33. | TPO26 | Fejlesztett, 0–3 éves gyermekek elhelyezését biztosító férőhelyek száma (darab) | 10 | 45 | 16 | 157 | 14 | 132 | 41 | 405 | 13 | 124 | 18 | 172 |
+| 33. | TPO26 | Fejlesztett, 0–3 éves gyermekek elhelyezését biztosító férőhelyek száma (darab) | 12[^124] | 123[^125] | 16 | 157 | 14 | 132 | 41 | 405 | 13 | 124 | 18 | 172 |
 
-| 34. | TPO27 | Újonnan létrehozott, 0–3 éves gyermekek elhelyezését biztosító férőhelyek száma (darab) | 4 | 28 | 5 | 41 | 4 | 35 | 11 | 106 | 4 | 33 | 5 | 45 |
+| 34. | TPO27 | Újonnan létrehozott, 0–3 éves gyermekek elhelyezését biztosító férőhelyek száma (darab) | 4 | 32[^126] | 5 | 41 | 4 | 35 | 11 | 106 | 4 | 33 | 5 | 45 |
 
-| 35. | TPO28 | Fejlesztett, 3–6 éves gyermekek elhelyezését biztosító férőhelyek száma (darab) | 106 | 1 058 | 54 | 538 | 61 | 601 | 176 | 1 752 | 34 | 333 | 74 | 733 |
+| 35. | TPO28 | Fejlesztett, 3–6 éves gyermekek elhelyezését biztosító férőhelyek száma (darab) | 109[^127] | 1 058 | 54 | 538 | 61 | 601 | 176 | 1 752 | 34 | 333 | 74 | 733 |
 
-| 36. | TPO29 | Újonnan létrehozott, 3–6 éves gyermekek elhelyezését biztosító férőhelyek száma (darab) | 4 | 25 | 2 | 20 | 3 | 23 | 7 | 65 | 2 | 13 | 3 | 28 |
+| 36. | TPO29 | Újonnan létrehozott, 3–6 éves gyermekek elhelyezését biztosító férőhelyek száma (darab) | 4 | 41[^128] | 2 | 20 | 3 | 23 | 7 | 65 | 2 | 13 | 3 | 28 |
 
-| 37. | RCR70 | Az új vagy korszerűsített gyermekgondozási létesítmények éves felhasználói (fő) | 0 | 205 | 0 | 140 | 0 | 140 | 0 | 416 | 0 | 97 | 0 | 175 |
+| 37. | RCR70 | Az új vagy korszerűsített gyermekgondozási létesítmények éves felhasználói (fő) | 0 | 210[^129] | 0 | 140 | 0 | 140 | 0 | 416 | 0 | 97 | 0 | 175 |
 
 | 38. | TPR11 | Újonnan létrehozott bölcsődei ellátással rendelkező települések száma (ahol 2020. 12. 31-én nem működött bölcsődei szolgáltatás) (darab) | 0 | 4 | 0 | 2 | 0 | 2 | 0 | 5 | 0 | 2 | 0 | 3 |
 
 | 39. | TPR12 | Fejlesztett óvodai ellátással rendelkező települések száma (darab) | 0 | 16 | 0 | 5 | 0 | 5 | 0 | 14 | 0 | 3 | 0 | 6 |
 
-| 40. | TPO01 | Fejlesztéssel érintett egészségügyi alapellátást nyújtó szolgálatok (benne: háziorvos, házi gyermekorvos, fogorvosi, védőnői szolgálat és kapcsolódó ügyeleti ellátás, iskola-egészségügyi ellátás) száma (darab) | 3 | 24 | 3 | 23 | 4 | 39 | 6 | 59 | 2 | 16 | 3 | 22 |
+| 40. | TPO01 | Fejlesztéssel érintett egészségügyi alapellátást nyújtó szolgálatok (benne: háziorvos, házi gyermekorvos, fogorvosi, védőnői szolgálat és kapcsolódó ügyeleti ellátás, iskola-egészségügyi ellátás) száma (darab) | 3 | 25[^130] | 3 | 23 | 4 | 39 | 6 | 59 | 2 | 16 | 3 | 22 |
 
-| 41. | RCR73 | Az új vagy korszerűsített egészségügyi ellátó létesítmények éves felhasználói (fő) | 0 | 167 338 | 0 | 160 015 | 0 | 274 884 | 0 | 417 331 | 0 | 110 295 | 0 | 157 634 |
+| 41. | RCR73 | Az új vagy korszerűsített egészségügyi ellátó létesítmények éves felhasználói (fő) | 0 | 173 206[^131] | 0 | 160 015 | 0 | 274 884 | 0 | 417 331 | 0 | 110 295 | 0 | 157 634 |
 
 | 42. | TPO02 | A fejlesztés révén létrejövő, megújuló szociális alapszolgáltatások és gyermekjóléti alapellátások száma (darab) | 3 | 18 | 1 | 10 | 3 | 25 | 3 | 21 | 2 | 11 | 1 | 9 |
 
@@ -376,47 +376,47 @@
 
 | 2. | RCO26 | Az éghajlatváltozáshoz való alkalmazkodás céljából épített vagy felújított zöld infrastruktúra (ha) | 0 | 0 | 0 | 4,00 | 0,12 | 1,16 | 0,60 | 5,99 | 0,36 | 3,62 | 0,14 | 1,39 |
 
-| 3. | RCR35 | Árvízvédelmi intézkedésekkel érintett lakosság (fő) | 0 | 7 707 | 0 | 9 440 | 0 | 9 893 | 0 | 10 415 | 0 | 8 465 | 0 | 4 817 |
+| 3. | RCR35 | Árvízvédelmi intézkedésekkel érintett lakosság (fő) | 0 | 7 707 | 0 | 9 429[^132] | 0 | 9 893 | 0 | 10 415 | 0 | 8 465 | 0 | 4 817 |
 
-| 4. | RCO58 | Támogatott célzott kerékpáros infrastruktúra (km) | 1 | 21 | 1,31 | 26,03 | 0,94 | 18,76 | 0,75 | 15 | 0,65 | 12,83 | 0,66 | 13,14 |
+| 4. | RCO58 | Támogatott célzott kerékpáros infrastruktúra (km) | 1 | 21 | 0[^133] | 26[^134] | 0,94 | 18,76 | 0,75 | 15 | 0,65 | 12,83 | 0,66 | 13,14 |
 
-| 5. | RCR64 | A célzott kerékpáros infrastruktúra éves felhasználói (fő/év) | 0 | 91 819 | 0 | 103 702 | 0 | 83 022 | 0 | 66 158 | 0 | 56 775,00 | 0 | 58 152 |
+| 5. | RCR64 | A célzott kerékpáros infrastruktúra éves felhasználói (fő/év) | 0 | 91 819 | 0 | 103 578[^135] | 0 | 83 022 | 0 | 66 158 | 0 | 56 775,00 | 0 | 58 152 |
 
 | 6. | TPO08 | A rehabilitált talaj összkiterjedése (ha) | 0 | 0 | 0 | 0,90 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-| 7. | TPO10 | Kialakított új, forgalomcsillapított övezetek száma (darab) | 0 | 3 | 1 | 6 | 0 | 4 | 0 | 0 | 0 | 3,00 | 0 | 3 |
+| 7. | TPO10 | Kialakított új, forgalomcsillapított övezetek száma (darab) | 0 | 3 | 0[^136] | 6 | 0 | 4 | 0 | 0 | 0 | 3,00 | 0 | 3 |
 
-| 8. | TPO11 | Fejlesztéssel érintett közösségi területek nagysága (m2) | 0 | 3 655 | 0 | 7 701 | 0 | 4 831 | 0 | 0 | 0 | 3 910,00 | 0 | 3 250 |
+| 8. | TPO11 | Fejlesztéssel érintett közösségi területek nagysága (m2) | 0 | 3 655 | 0 | 7 692[^137] | 0 | 4 831 | 0 | 0 | 0 | 3 910,00 | 0 | 3 250 |
 
 | 9. | TPO12 | Megvalósított megyei szemléletformáló és tudatosságnövelő programok száma (darab) | 0 | 1 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-| 10. | TPO35 | Bel- és csapadék-vízvédelmi létesítmények hossza (m) | 6 054 | 60 533 | 7 414 | 66 723 | 7 770 | 77 696 | 8 180 | 81 796 | 6 649,00 | 66 483,00 | 3 784 | 37 833 |
+| 10. | TPO35 | Bel- és csapadék-vízvédelmi létesítmények hossza (m) | 6 054 | 60 533 | 0[^138] | 66 723 | 7 770 | 77 696 | 8 180 | 81 796 | 6 649,00 | 66 483,00 | 3 784 | 37 833 |
 
 | 11. | RCO65 | Az új vagy korszerűsített szociális lakások kapacitása (fő) | 0 | 0 | 0 | 12 | 0 | 13 | 0 | 83 | 0 | 0 | 0 | 0 |
 
 | 12. | TPR09 | A projekt keretében integrált területre költözők száma (fő) | 0 | 0 | 0 | 2 | 0 | 2 | 0 | 13 | 0 | 0 | 0 | 0 |
 
-| 13. | RCO46 | Átépített vagy korszerűsített közutak hossza – nem TEN-T (km) | 1 | 5 | 1,740 | 17,36 | 0,630 | 6,300 | 0,940 | 9,350 | 0 | 0 | 0,620 | 6,140 |
+| 13. | RCO46 | Átépített vagy korszerűsített közutak hossza – nem TEN-T (km) | 1 | 5 | 0[^139] | 17,36 | 0,630 | 6,300 | 0,940 | 9,350 | 0 | 0 | 0,620 | 6,140 |
 
-| 14. | RCO19 | Jobb energiahatékonyságú középületek (m2) | 1 555 | 15 552 | 2 896,57 | 28 965,68 | 1 679,26 | 16 792,54 | 2 313,12 | 23 131,17 | 728,23 | 7 282,30 | 1 922,03 | 19 220,26 |
+| 14. | RCO19 | Jobb energiahatékonyságú középületek (m2) | 1 555 | 15 552 | 0[^140] | 24 683,25[^141] | 1 679,26 | 16 792,54 | 2 313,12 | 23 131,17 | 728,23 | 7 282,30 | 1 922,03 | 19 220,26 |
 
-| 15. | RCR26 | Éves primerenergia-fogyasztás (MWh/év) | 0 | 2 333 | 0 | 3 910,37 | 0 | 2 518,88 | 0 | 3 469,68 | 0 | 1 092,35 | 0 | 2 883,04 |
+| 15. | RCR26 | Éves primerenergia-fogyasztás (MWh/év) | 0 | 2 333 | 0 | 3 332,24[^142] | 0 | 2 518,88 | 0 | 3 469,68 | 0 | 1 092,35 | 0 | 2 883,04 |
 
-| 16. | RCR29 | Becsült üvegházhatásúgáz-kibocsátások (CO2 t/év) | 0 | 1 352 | 0 | 2 517,80 | 0 | 1 459,67 | 0 | 2 010,65 | 0 | 633,01 | 0 | 1 670,70 |
+| 16. | RCR29 | Becsült üvegházhatásúgáz-kibocsátások (CO2 t/év) | 0 | 1 352 | 0 | 2 145,56[^143] | 0 | 1 459,67 | 0 | 2 010,65 | 0 | 633,01 | 0 | 1 670,70 |
 
-| 17. | RCO22 | Megújuló energiát előállító addicionális termelőkapacitás (ebből: villamos energia, hőenergia)(MW) | 0 | 1 | 0,14 | 1,21 | 0,08 | 0,78 | 0,11 | 1,07 | 0,04 | 0,34 | 0,09 | 0,89 |
+| 17. | RCO22 | Megújuló energiát előállító addicionális termelőkapacitás (ebből: villamos energia, hőenergia)(MW) | 0 | 1 | 0[^144] | 1,03[^145] | 0,08 | 0,78 | 0,11 | 1,07 | 0,04 | 0,34 | 0,09 | 0,89 |
 
-| 18. | RCR31 | Összes előállított megújuló energia (ebből: villamos energia, hőenergia) (MWh/év) | 0 | 789 | 0 | 1 321,88 | 0 | 851,49 | 0 | 1 171,90 | 0 | 369,26 | 0 | 974,60 |
+| 18. | RCR31 | Összes előállított megújuló energia (ebből: villamos energia, hőenergia) (MWh/év) | 0 | 789 | 0 | 1 126,45[^146] | 0 | 851,49 | 0 | 1 171,90 | 0 | 369,26 | 0 | 974,60 |
 
 | 19. | TPO09 | Fejlesztéssel érintett fürdők száma (darab) | 1 | 1 | 1 | 1 | 1,00 | 1,00 | 1 | 1 | 1,00 | 1,00 | 1,00 | 1,00 |
 
-| 20. | TPO05 | Programban részt vevő munkanélküliek száma (fő) | 80 | 1 582 | 140 | 2 788 | 59 | 1 174 | 98 | 1 957 | 61,00 | 1 215,00 | 81 | 1 611 |
+| 20. | TPO05 | Programban részt vevő munkanélküliek száma (fő) | 80 | 1 582 | 0[^147] | 2 788 | 59 | 1 174 | 98 | 1 957 | 61,00 | 1 215,00 | 81 | 1 611 |
 
-| 21. | TPO06 | Programban részt vevő inaktív személyek száma (fő) | 10 | 186 | 17 | 328 | 7 | 138 | 12 | 230 | 8,00 | 143,00 | 10 | 189 |
+| 21. | TPO06 | Programban részt vevő inaktív személyek száma (fő) | 10 | 186 | 0[^148] | 328 | 7 | 138 | 12 | 230 | 8,00 | 143,00 | 10 | 189 |
 
-| 22. | TPO23 | Munkaerőpiaci alkalmazkodást segítő támogatásban részesülők száma (fő) | 6 | 115 | 11 | 203 | 5 | 86 | 8 | 143 | 5,00 | 89,00 | 6 | 118 |
+| 22. | TPO23 | Munkaerőpiaci alkalmazkodást segítő támogatásban részesülők száma (fő) | 6 | 115 | 0[^149] | 203 | 5 | 86 | 8 | 143 | 5,00 | 89,00 | 6 | 118 |
 
-| 23. | TPO24 | Foglalkoztatást elősegítő szolgáltatásokban és tevékenységekben részt vevők száma (fő) | 98 | 1 942 | 172 | 2 500 | 73 | 1 441 | 121 | 2 402 | 75,00 | 1 603,00[^25] | 99 | 1978 |
+| 23. | TPO24 | Foglalkoztatást elősegítő szolgáltatásokban és tevékenységekben részt vevők száma (fő) | 98 | 1 942 | 0[^150] | 2 500 | 73 | 1 441 | 121 | 2 402 | 75,00 | 1 603,00[^151] | 99 | 1978 |
 
 | 24. | TPR02 | Program elhagyásának időpontjában foglalkoztatásban – beleértve az önfoglalkoztatást – álló résztvevők száma (fő) | 0 | 997 | 0 | 1 757 | 0 | 740 | 0 | 1 233 | 0 | 766,00 | 0 | 1015 |
 
@@ -428,21 +428,21 @@
 
 | 28. | TPR15 | Program eredményként integrált területre költözők száma (fő) | 0 | 1 | 0 | 1 | 0 | 1 | 0 | 12 | 0 | 4,00 | 0 | 0 |
 
-| 29. | TPO13 | Hátrányos helyzetűeket célzó programok száma (3.1.3) (darab) | 1 | 49 | 1 | 46 | 1 | 60 | 1 | 18 | 1,00 | 22,00 | 1 | 46 |
+| 29. | TPO13 | Hátrányos helyzetűeket célzó programok száma (3.1.3) (darab) | 1 | 49 | 0[^152] | 46 | 1 | 60 | 1 | 18 | 1,00 | 22,00 | 1 | 46 |
 
-| 30. | TPO14 | Egyéb, nem közösségi célú programok száma (darab) | 1 | 19 | 1 | 18 | 1 | 23 | 1 | 7 | 1,00 | 8,00 | 1 | 17 |
+| 30. | TPO14 | Egyéb, nem közösségi célú programok száma (darab) | 1 | 19 | 0[^153] | 18 | 1 | 23 | 1 | 7 | 1,00 | 8,00 | 1 | 17 |
 
 | 31. | TPR05 | A programokkal elért hátrányos helyzetű személyek száma (3.1.3) (fő) | 0 | 83 273 | 0 | 70 394 | 0 | 101 255 | 0 | 29 532 | 0 | 36 247,00 | 0 | 77 324 |
 
 | 32. | TPR10 | Azon települések száma, ahol javult a foglalkoztatáshoz, oktatáshoz, egészségügyhöz, szociális és/vagy lakhatási szolgáltatásokhoz való hozzáférés (darab) | 0 | 6 | 0 | 5 | 0 | 7 | 0 | 2 | 0 | 3,00 | 0 | 5 |
 
-| 33. | TPO26 | Fejlesztett, 0–3 éves gyermekek elhelyezését biztosító férőhelyek száma (darab) | 17 | 164 | 9 | 62 | 38 | 373 | 10 | 96 | 9,00 | 83,00 | 7 | 66 |
+| 33. | TPO26 | Fejlesztett, 0–3 éves gyermekek elhelyezését biztosító férőhelyek száma (darab) | 17 | 164 | 0[^154] | 62 | 38 | 373 | 10 | 96 | 9,00 | 83,00 | 7 | 66 |
 
-| 34. | TPO27 | Újonnan létrehozott, 0–3 éves gyermekek elhelyezését biztosító férőhelyek száma (darab) | 5 | 43 | 3 | 23 | 10 | 97 | 3 | 25 | 3,00 | 22,00 | 2 | 17 |
+| 34. | TPO27 | Újonnan létrehozott, 0–3 éves gyermekek elhelyezését biztosító férőhelyek száma (darab) | 5 | 43 | 0[^155] | 23 | 10 | 97 | 3 | 25 | 3,00 | 22,00 | 2 | 17 |
 
-| 35. | TPO28 | Fejlesztett, 3–6 éves gyermekek elhelyezését biztosító férőhelyek száma (darab) | 121 | 1 203 | 108 | 1 080 | 50 | 497 | 36 | 352 | 125,00 | 1 247,00 | 85 | 841 |
+| 35. | TPO28 | Fejlesztett, 3–6 éves gyermekek elhelyezését biztosító férőhelyek száma (darab) | 121 | 1 203 | 0[^156] | 1 080 | 50 | 497 | 36 | 352 | 125,00 | 1 247,00 | 85 | 841 |
 
-| 36. | TPO29 | Újonnan létrehozott, 3–6 éves gyermekek elhelyezését biztosító férőhelyek száma (darab) | 5 | 45 | 4 | 40 | 2 | 19 | 2 | 14 | 5,00 | 47,00 | 4 | 32 |
+| 36. | TPO29 | Újonnan létrehozott, 3–6 éves gyermekek elhelyezését biztosító férőhelyek száma (darab) | 5 | 45 | 0[^157] | 40 | 2 | 19 | 2 | 14 | 5,00 | 47,00 | 4 | 32 |
 
 | 37. | RCR70 | Az új vagy korszerűsített gyermekgondozási létesítmények éves felhasználói (fő) | 0 | 243 | 0 | 196 | 0 | 214 | 0 | 89 | 0 | 220,00 | 0 | 152 |
 
@@ -450,11 +450,11 @@
 
 | 39. | TPR12 | Fejlesztett óvodai ellátással rendelkező települések száma (darab) | 0 | 10 | 0 | 9 | 0 | 4 | 0 | 3 | 0 | 10,00 | 0 | 7 |
 
-| 40. | TPO01 | Fejlesztéssel érintett egészségügyi alapellátást nyújtó szolgálatok (benne: háziorvos, házi gyermekorvos, fogorvosi, védőnői szolgálat és kapcsolódó ügyeleti ellátás, iskola-egészségügyi ellátás) száma (darab) | 4 | 32 | 2 | 7 | 3 | 29 | 2 | 18 | 2,00 | 17,00 | 3 | 24 |
+| 40. | TPO01 | Fejlesztéssel érintett egészségügyi alapellátást nyújtó szolgálatok (benne: háziorvos, házi gyermekorvos, fogorvosi, védőnői szolgálat és kapcsolódó ügyeleti ellátás, iskola-egészségügyi ellátás) száma (darab) | 4 | 32 | 0[^158] | 7 | 3 | 29 | 2 | 18 | 2,00 | 17,00 | 3 | 24 |
 
 | 41. | RCR73 | Az új vagy korszerűsített egészségügyi ellátó létesítmények éves felhasználói (fő) | 0 | 226 811 | 0 | 70 000 | 0 | 201 535 | 0 | 126 831 | 0 | 117 942,00 | 0 | 170 108 |
 
-| 42. | TPO02 | A fejlesztés révén létrejövő, megújuló szociális alapszolgáltatások és gyermekjóléti alapellátások száma (darab) | 2 | 14 | 1 | 9 | 1 | 7 | 1 | 7 | 1,00 | 1,00 | 1 | 8 |
+| 42. | TPO02 | A fejlesztés révén létrejövő, megújuló szociális alapszolgáltatások és gyermekjóléti alapellátások száma (darab) | 2 | 14 | 0[^159] | 9 | 1 | 7 | 1 | 7 | 1,00 | 1,00 | 1 | 8 |
 
 | 43. | TPR13 | Fejlesztett egészségügyi szolgáltatásokkal rendelkező települések száma (darab) | 0 | 11 | 0 | 5 | 0 | 10 | 0 | 6 | 0 | 6,00 | 0 | 8 |
 
@@ -468,17 +468,17 @@
 
 | 48. | RCR71 | Az új vagy korszerűsített oktatási létesítmények éves felhasználói (darab) | 0 | 723 | 0 | 727 | 0 | 1073 | 0 | 1 026 | 0 | 366,00 | 0 | 744 |
 
-| 49. | RCO04 | Nem pénzügyi támogatásban részesített vállalkozások (darab) | 6 | 52 | 8 | 72 | 9 | 82 | 12 | 117 | 3,00 | 21,00 | 4 | 31 |
+| 49. | RCO04 | Nem pénzügyi támogatásban részesített vállalkozások (darab) | 6 | 52 | 0[^160] | 72 | 9 | 82 | 12 | 117 | 3,00 | 21,00 | 4 | 31 |
 
-| 50. | TPO07 | Támogatásban részesülő önkormányzati tulajdonú vállalkozások száma (darab) | 1 | 6 | 1 | 7 | 1 | 9 | 2 | 12 | 1,00 | 3,00 | 1 | 4 |
+| 50. | TPO07 | Támogatásban részesülő önkormányzati tulajdonú vállalkozások száma (darab) | 1 | 6 | 0[^161] | 7 | 1 | 9 | 2 | 12 | 1,00 | 3,00 | 1 | 4 |
 
 | 51. | TPO32 | Közétkeztetési fejlesztések száma (darab) | 0 | 4 | 0 | 5 | 0 | 6 | 0 | 9 | 0 | 2,00 | 0 | 3 |
 
-| 52. | RCO46 | Átépített vagy korszerűsített közutak hossza – nem TEN-T (km) | 0 | 1 | 1,78 | 17,80 | 1,29 | 12,9 | 2,38 | 23,71 | 0,50 | 4,92 | 1,49 | 14,87 |
+| 52. | RCO46 | Átépített vagy korszerűsített közutak hossza – nem TEN-T (km) | 0 | 1 | 0[^162] | 17,80 | 1,29 | 12,9 | 2,38 | 23,71 | 0,50 | 4,92 | 1,49 | 14,87 |
 
-| 53. | RCO77 | Támogatott kulturális és turisztikai helyszínek száma (6.1.3) (darab) | 1 | 4 | 1 | 8 | 2 | 10 | 2 | 13 | 1,00 | 6,00 | 2 | 13 |
+| 53. | RCO77 | Támogatott kulturális és turisztikai helyszínek száma (6.1.3) (darab) | 1 | 4 | 0[^163] | 8 | 2 | 10 | 2 | 13 | 1,00 | 6,00 | 2 | 13 |
 
-| 54. | TPO09 | Fejlesztéssel érintett fürdők száma (darab) | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1,00 | 1,00 | 1 | 1 |
+| 54. | TPO09 | Fejlesztéssel érintett fürdők száma (darab) | 1 | 1 | 0[^164] | 1 | 1 | 1 | 1 | 1 | 1,00 | 1,00 | 1 | 1 |
 
 | 55. | TPO34 | Turisztikai fejlesztéssel érintett nemzeti parkok, geoparkok, natúrparkok száma (6.1.3) (darab) | 0 | 1 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 1,00 | 0 | 1 |
 
@@ -494,23 +494,23 @@
 
 | Vármegye által vállalt mérföldkő (2024) | Vármegye által vállalt célérték (2029) | Vármegye által vállalt mérföldkő (2024) | Vármegye által vállalt célérték (2029) | Vármegye által vállalt mérföldkő (2024) | Vármegye által vállalt célérték (2029) | Vármegye által vállalt mérföldkő (2024) | Vármegye által vállalt célérték (2029) | Vármegye által vállalt mérföldkő (2024) | Vármegye által vállalt célérték (2029) | Vármegye által vállalt mérföldkő (2024) | Vármegye által vállalt célérték (2029) | Vármegye által vállalt mérföldkő (2024) | Vármegye által vállalt célérték (2029) |
 
-| 2. | RCO26 | Az éghajlatváltozáshoz való alkalmazkodás céljából épített vagy felújított zöld infrastruktúra (ha) | 0,85 | 8,55 | 0,89 | 9,00 | 0,84 | 8,41 | 0,08 | 0,80 | 0,11 | 1,11 | 0 | 2,97 | 0 | 0 |
+| 2. | RCO26 | Az éghajlatváltozáshoz való alkalmazkodás céljából épített vagy felújított zöld infrastruktúra (ha) | 0,85 | 8,55 | 0,89 | 9,00 | 0,85[^165] | 8,52[^166] | 0,08 | 0,80 | 0,11 | 1,11 | 0 | 2,97 | 0 | 0 |
 
-| 3. | RCR35 | Árvízvédelmi intézkedésekkel érintett lakosság (fő) | 0 | 15 167 | 0 | 10 790 | 0 | 10 854 | 0 | 7 304 | 0 | 6 744 | 0 | 4 565 | 0 | 0 |
+| 3. | RCR35 | Árvízvédelmi intézkedésekkel érintett lakosság (fő) | 0 | 15 167 | 0 | 10 790 | 0 | 10 991[^167] | 0 | 7 304 | 0 | 6 744 | 0 | 4 565 | 0 | 0 |
 
-| 4. | RCO58 | Támogatott célzott kerékpáros infrastruktúra (km) | 1,86 | 37,20 | 1,21 | 24,20 | 1,45 | 28,92 | 0,25 | 4,98 | 0,90 | 18,00 | 0,62 | 12,23 | 1,73 | 34,57 |
+| 4. | RCO58 | Támogatott célzott kerékpáros infrastruktúra (km) | 1,86 | 37,20 | 1,21 | 24,20 | 1,47[^168] | 29,28[^169] | 0,25 | 4,98 | 0,90 | 18,00 | 0,62 | 12,23 | 1,73 | 34,57 |
 
-| 5. | RCR64 | A célzott kerékpáros infrastruktúra éves felhasználói (fő/év) | 0 | 164 690 | 0 | 107 122 | 0 | 128 044 | 0 | 22 037 | 0 | 79 686 | 0 | 54 143 | 0 | 153 031 |
+| 5. | RCR64 | A célzott kerékpáros infrastruktúra éves felhasználói (fő/év) | 0 | 164 690 | 0 | 107 122 | 0 | 129 656[^170] | 0 | 22 037 | 0 | 79 686 | 0 | 54 143 | 0 | 153 031 |
 
 | 6. | TPO08 | A rehabilitált talaj összkiterjedése (ha) | 0 | 1 | 0 | 1,00 | 0 | 1 | 0 | 0 | 0 | 0,0 | 0 | 0 | 0 | 0 |
 
-| 7. | TPO10 | Kialakított új, forgalomcsillapított övezetek száma (darab) | 1 | 7 | 1 | 6,00 | 1 | 7 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
+| 7. | TPO10 | Kialakított új, forgalomcsillapított övezetek száma (darab) | 1 | 7 | 1 | 6,00 | 1,01[^171] | 7 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
 
-| 8. | TPO11 | Fejlesztéssel érintett közösségi területek nagysága (m2) | 0 | 8 300 | 0 | 6 444 | 0 | 7 618 | 0 | 0 | 0 | 2 775 | 0 | 64 | 0 | 0 |
+| 8. | TPO11 | Fejlesztéssel érintett közösségi területek nagysága (m2) | 0 | 8 300 | 0 | 6 444 | 0 | 7 713[^172] | 0 | 0 | 0 | 2 775 | 0 | 64 | 0 | 0 |
 
 | 9. | TPO12 | Megvalósított megyei szemléletformáló és tudatosságnövelő programok száma (darab) | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 2 | 0 | 6 | 0 | 1 |
 
-| 10. | TPO35 | Bel- és csapadék-vízvédelmi létesítmények hossza (m) | 11 913 | 119 123 | 8 475 | 84 745 | 8 525 | 85 248 | 5 737 | 57 367 | 5 297 | 52 962 | 3 586 | 35 851 | 0 | 0 |
+| 10. | TPO35 | Bel- és csapadék-vízvédelmi létesítmények hossza (m) | 11 913 | 119 123 | 8 475 | 84 745 | 8 632[^173] | 86 322[^174] | 5 737 | 57 367 | 5 297 | 52 962 | 3 586 | 35 851 | 0 | 0 |
 
 | 11. | RCO65 | Az új vagy korszerűsített szociális lakások kapacitása (fő) | 0 | 94 | 0 | 56,00 | 0 | 118 | 0 | 7 | 0 | 0 | 0 | 16 | 0 | 0 |
 
@@ -584,7 +584,7 @@
 
 | 46. | TPO30 | Korszerűsített köznevelési intézmények száma (darab) | 0 | 29 | 0 | 14 | 0 | 23 | 0 | 8 | 0 | 9 | 0 | 10 | 0 | 7 |
 
-| 47. | TPO31 | Korszerűsített kollégiumok száma (darab) | 0 | 1 | 0 | 1 | 0 | 1 | 0 | 1 | 0 | 1 | 0 | 1 | 0 | 1 |
+| 47. | TPO31 | Korszerűsített kollégiumok száma (darab) | 0 | 1 | 0 | 1 | 0 | 1 | 0 | 1 | 0 | 0[^175] | 0 | 1 | 0 | 1 |
 
 | 48. | RCR71 | Az új vagy korszerűsített oktatási létesítmények éves felhasználói (darab) | 0 | 2 123 | 0 | 1 007 | 0 | 1 681 | 0 | 559 | 0 | 673 | 0 | 740 | 0 | 476 |
 
@@ -592,7 +592,7 @@
 
 | 50. | TPO07 | Támogatásban részesülő önkormányzati tulajdonú vállalkozások száma (darab) | 2 | 12 | 1 | 3 | 2 | 11 | 1 | 3 | 1 | 3 | 1 | 4 | 0 | 0 |
 
-| 51. | TPO32 | Közétkeztetési fejlesztések száma (darab) | 0 | 8 | 0 | 2 | 0 | 8 | 0 | 2 | 0 | 2 | 0 | 3 | 0 | 0 |
+| 51. | TPO32 | Közétkeztetési fejlesztések száma (darab) | 0 | 8 | 0 | 2 | 0 | 8 | 0 | 2 | 0 | 1[^176] | 0 | 3 | 0 | 0 |
 
 | 52. | RCO46 | Átépített vagy korszerűsített közutak hossza – nem TEN-T (km) | 2,20 | 22 | 0,95 | 9,41 | 3,22 | 32,12 | 0,30 | 3 | 0,23 | 2,22 | 1,26 | 13 | 1,17 | 11,68 |
 
@@ -602,7 +602,7 @@
 
 | 55. | TPO34 | Turisztikai fejlesztéssel érintett nemzeti parkok, geoparkok, natúrparkok száma (6.1.3) (darab) | 0 | 1 | 0 | 1 | 0 | 1 | 0 | 1 | 0 | 1 | 0 | 1 | 0 | 1 |
 
-| 56. | RCO77 | Támogatott kulturális és turisztikai helyszínek száma (6.1.4) (darab) | 0 | 28 | 0 | 7 | 0 | 15 | 0 | 5 | 0 | 5 | 0 | 7 | 0 | 6 |
+| 56. | RCO77 | Támogatott kulturális és turisztikai helyszínek száma (6.1.4) (darab) | 0 | 28 | 0 | 7 | 0 | 14[^177] | 0 | 5 | 0 | 5 | 0 | 7 | 0 | 6 |
 
 | 57. | TPO34 | Turisztikai fejlesztéssel érintett nemzeti parkok, geoparkok, natúrparkok száma (6.1.4) (darab) | 0 | 1 | 0 | 1 | 0 | 1 | 0 | 1 | 0 | 1 | 0 | 1 | 0 | 1 |
 
@@ -614,55 +614,55 @@
 
 | 2. | Bács-Kiskun Vármegyei Önkormányzat | Baja MJV | 4,67 | 3,44 | 0,23 | 0,68 | 0,32 |
 
-| Kecskemét MJV | 19,39 | 10,99 | 1,81 | 3,59 | 3,00 |
+| Kecskemét MJV | 19,39 | 10,79[^178] | 1,81 | 3,78[^179] | 3,00 |
 
 | 3. | Baranya Vármegyei Önkormányzat | Pécs MJV | 22,14 | 13,31 | 2,14 | 6,06 | 0,63 |
 
-| Komló | 5,17 | 3,16 | 0,42 | 0,89 | 0,70 |
+| Komló | 5,17 | 2,76[^180] | 0,42 | 1,29[^181] | 0,70 |
 
-| Mohács | 4,27 | 2,61 | 0,35 | 0,73 | 0,58 |
+| Mohács | 4,27 | 2,67[^182] | 0,43[^183] | 0,59[^184] | 0,58 |
 
-| 4. | Békés Vármegyei Önkormányzat | Békéscsaba MJV és térsége | 15,82 | 9,16 | 1,77 | 2,48 | 2,41 |
+| 4. | Békés Vármegyei Önkormányzat | Békéscsaba MJV és térsége | 16,77[^185] | 9,16 | 1,77 | 3,42[^186] | 2,41 |
 
-| Gyula és térsége | 6,59 | 4,62 | 0,70 | 1,25 | 0,02 |
+| Gyula és térsége | 7,63[^187] | 4,62 | 0,70 | 2,3[^188] | 0,02 |
 
-| 5. | Borsod-Abaúj-Zemplén Vármegyei Önkormányzat | Miskolc MJV | 32,35[^26] | 19,03 | 3,69 | 6,14[^27] | 3,49 |
+| 5. | Borsod-Abaúj-Zemplén Vármegyei Önkormányzat | Miskolc MJV | 32,35[^189] | 19,03 | 3,69 | 6,14[^190] | 3,49 |
 
-| 6. | Csongrád-Csanád Vármegyei Önkormányzat | Szeged MJV | 10,51[^28] | 4,83 | 1,70 | 2,60[^29] | 1,38 |
+| 6. | Csongrád-Csanád Vármegyei Önkormányzat | Szeged MJV | 10,51[^191] | 5,33[^192] | 1,20[^193] | 2,60[^194] | 1,38 |
 
-| Hódmezővásárhely MJV | 7,71 | 5,12 | 0,77 | 0,85 | 0,97 |
+| Hódmezővásárhely MJV | 7,71 | 5,54[^195] | 0,77 | 0,42[^196] | 0,97 |
 
-| Szentes | 5,25 | 2,98 | 0,74 | 0,72 | 0,81 |
+| Szentes | 5,25 | 3,27[^197] | 0,74 | 0,42[^198] | 0,81 |
 
 | Makó | 10,00 | 5,68 | 1,28 | 1,42 | 1,62 |
 
 | 7. | Fejér Vármegyei Önkormányzat | Székesfehérvár MJV | 13,59 | 7,69 | 1,21 | 2,96 | 1,73 |
 
-| Dunaújváros MJV | 4,65 | 1,91 | 0,80 | 1,37 | 0,57 |
+| Dunaújváros MJV | 4,65 | 1,84[^199] | 0,87[^200] | 1,37 | 0,57 |
 
 | Mór | 1,90 | 1,16 | 0,14 | 0,39 | 0,21 |
 
 | Gárdony | 2,19 | 0,89 | 0,65 | 0,43 | 0,22 |
 
-| 8. | Győr-Moson-Sopron Vármegyei Önkormányzat | Győr MJV | 15,68[^30] | 10,18[^31] | 1,60 | 3,10 | 0,80 |
+| 8. | Győr-Moson-Sopron Vármegyei Önkormányzat | Győr MJV | 15,68[^201] | 10,18[^202] | 1,47[^203] | 3,23[^204] | 0,80 |
 
 | Sopron MJV | 7,76 | 5,03 | 0,62 | 1,68 | 0,43 |
 
-| Mosonmagyaróvár | 2,99[^32] | 1,98[^33] | 0,23 | 0,62 | 0,16 |
+| Mosonmagyaróvár | 2,99[^205] | 2,00[^206] | 0,21[^207] | 0,62 | 0,16 |
 
 | 9. | Hajdú-Bihar Vármegyei Önkormányzat | Debrecen MJV | 43,36 | 24,42 | 4,27 | 8,74 | 5,93 |
 
 | 10. | Heves Vármegyei Önkormányzat | Eger MJV | 4,10 | 1,63 | 1,41 | 0,47 | 0,59 |
 
-| Gyöngyös | 1,60 | 0,77 | 0,34 | 0,22 | 0,27 |
+| Gyöngyös | 2,80[^208] | 0,77 | 1,48[^209] | 0,28[^210] | 0,27 |
 
-| Hatvan | 1,40 | 0,85 | 0,12 | 0,19 | 0,24 |
+| Hatvan | 1,40 | 0,97[^211] | 0,00[^212] | 0,19 | 0,24 |
 
-| 11. | Jász-Nagykun-Szolnok Vármegyei Önkormányzat | Szolnok MJV és térsége | 27,57[^34] | 14,58 | 2,96 | 4,43[^35] | 5,60 |
+| 11. | Jász-Nagykun-Szolnok Vármegyei Önkormányzat | Szolnok MJV és térsége | 27,57[^213] | 14,77[^214] | 1,31[^215] | 5,89[^216] | 5,60 |
 
 | 12. | Komárom-Esztergom Vármegyei Önkormányzat | Tatabánya MJV | 12,30 | 8,15 | 2,19 | 0,40 | 1,56 |
 
-| Esztergom MJV | 6,51 | 4,42 | 1,20 | 0,40 | 0,49 |
+| Esztergom MJV | 6,51 | 4,89[^217] | 0,73[^218] | 0,40 | 0,49 |
 
 | 13. | Nógrád Vármegyei Önkormányzat | Salgótarján MJV | 11,16 | 6,52 | 0,99 | 2,44 | 1,21 |
 
@@ -670,31 +670,31 @@
 
 | 14. | Pest Vármegyei Önkormányzat | Érd MJV | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 |
 
-| 15. | Somogy Vármegyei Önkormányzat | Kaposvár MJV | 15,05 | 8,66 | 1,57 | 2,99 | 1,83 |
+| 15. | Somogy Vármegyei Önkormányzat | Kaposvár MJV | 15,05 | 8,66 | 0,91[^219] | 3,65[^220] | 1,83 |
 
 | 16. | Szabolcs-Szatmár-Bereg Vármegyei Önkormányzat | Nyíregyháza MJV | 52,80 | 29,76 | 6,71 | 7,86 | 8,47 |
 
-| 17. | Tolna Vármegyei Önkormányzat | Szekszárd MJV | 2,67 | 1,39 | 0,28 | 0,56 | 0,44 |
+| 17. | Tolna Vármegyei Önkormányzat | Szekszárd MJV | 2,67 | 1,66[^221] | 0,00[^222] | 0,56 | 0,44 |
 
-| Paks | 7,12 | 3,82 | 0,74 | 1,43 | 1,13 |
+| Paks | 7,12 | 3,96[^223] | 0,45[^224] | 1,57[^225] | 1,13 |
 
-| Dombóvár | 7,47[^36] | 4,50[^37] | 0,73 | 1,42 | 0,82 |
+| Dombóvár | 7,47[^226] | 4,70[^227] | 0,43[^228] | 1,53[^229] | 0,82 |
 
-| Bonyhád | 4,96 | 3,25[^38] | 0,52 | 0,80[^39] | 0,39 |
+| Bonyhád | 4,96 | 3,36[^230] | 0,48[^231] | 0,73[^232] | 0,39 |
 
-| 18. | Vas Vármegyei Önkormányzat | Szombathely MJV | 13,45 | 8,49 | 0,93 | 2,23 | 1,80 |
+| 18. | Vas Vármegyei Önkormányzat | Szombathely MJV | 13,45 | 9,42[^233] | 0[^234] | 2,23 | 1,80 |
 
 | 19. | Veszprém Vármegyei Önkormányzat | Veszprém MJV | 13,09 | 7,80 | 1,06 | 3,19 | 1,04 |
 
 | Pápa | 11,21 | 6,50 | 1,53 | 2,31 | 0,87 |
 
-| 20. | Zala Vármegyei Önkormányzat | Zalaegerszeg MJV | 7,51 | 4,75 | 0,80 | 1,76 | 0,20 |
+| 20. | Zala Vármegyei Önkormányzat | Zalaegerszeg MJV | 7,51 | 4,74[^235] | 0[^236] | 2,56[^237] | 0,20 |
 
 | Nagykanizsa MJV | 7,90 | 5,44 | 0,70 | 1,56 | 0,20 |
 
 | Keszthely | 8,80 | 7,75 | 0,70 | 0,05 | 0,30 |
 
-| Lenti | 8,09 | 4,00 | 3,29 | 0,60 | 0,20 |
+| Lenti | 8,09 | 4,5[^238] | 2,79[^239] | 0,60 | 0,20 |
 
 5. A fenntartható városfejlesztés keretében kijelölt városok/várostérségek intézkedéseinek forrásallokációja az 1–3. és 6. prioritáson:
 
@@ -704,55 +704,55 @@
 
 | 2. | Bács-Kiskun Vármegyei Önkormányzat | Baja MJV | 3,44 | 0,23 | 0,32 | 0,68 | 0,00 |
 
-| Kecskemét MJV | 5,43 | 1,81 | 3,00 | 3,58 | 5,57 |
+| Kecskemét MJV | 5,83[^240] | 1,81 | 3,00 | 3,78[^241] | 4,97[^242] |
 
 | 3. | Baranya Vármegyei Önkormányzat | Pécs MJV | 4,16 | 2,14 | 0,63 | 6,06 | 9,15 |
 
-| Komló | 1,24 | 0,42 | 0,70 | 0,89 | 1,92 |
+| Komló | 1,79[^243] | 0,42 | 0,70 | 1,29[^244] | 0,97[^245] |
 
-| Mohács | 1,21 | 0,35 | 0,58 | 0,73 | 1,40 |
+| Mohács | 1,27[^246] | 0,43[^247] | 0,58 | 0,59[^248] | 1,40 |
 
-| 4. | Békés Vármegyei Önkormányzat | Békéscsaba MJV és térsége | 7,03 | 1,77 | 2,41 | 2,48 | 2,13 |
+| 4. | Békés Vármegyei Önkormányzat | Békéscsaba MJV és térsége | 7,03 | 1,77 | 2,41 | 3,42[^249] | 2,13 |
 
-| Gyula és térsége | 4,32 | 0,70 | 0,02 | 1,25 | 0,30 |
+| Gyula és térsége | 4,32 | 0,70 | 0,02 | 2,30[^250] | 0,30 |
 
-| 5. | Borsod-Abaúj-Zemplén Vármegyei Önkormányzat | Miskolc MJV | 16,42[^40] | 3,69 | 3,49 | 6,14[^41] | 2,62[^42] |
+| 5. | Borsod-Abaúj-Zemplén Vármegyei Önkormányzat | Miskolc MJV | 16,42[^251] | 3,69 | 3,49 | 6,14[^252] | 2,62[^253] |
 
-| 6. | Csongrád-Csanád Vármegyei Önkormányzat | Szeged MJV | 4,23 | 1,70 | 1,38 | 2,60[^43] | 0,60 |
+| 6. | Csongrád-Csanád Vármegyei Önkormányzat | Szeged MJV | 4,73[^254] | 1,20[^255] | 1,38 | 2,60[^256] | 0,60 |
 
-| Hódmezővásárhely MJV | 2,11 | 0,77 | 0,97 | 0,85 | 3,01 |
+| Hódmezővásárhely MJV | 2,54[^257] | 0,77 | 0,97 | 0,42[^258] | 3,01 |
 
-| Szentes | 2,84 | 0,74 | 0,81 | 0,72 | 0,14 |
+| Szentes | 3,14[^259] | 0,74 | 0,81 | 0,42[^260] | 0,14 |
 
 | Makó | 4,91 | 1,28 | 1,62 | 1,42 | 0,77 |
 
 | 7. | Fejér Vármegyei Önkormányzat | Székesfehérvár MJV | 1,72 | 1,21 | 1,73 | 2,96 | 5,97 |
 
-| Dunaújváros MJV | 1,91 | 0,80 | 0,57 | 1,37 | 0,00 |
+| Dunaújváros MJV | 1,84[^261] | 0,87[^262] | 0,57 | 1,37 | 0,00 |
 
 | Mór | 0,37 | 0,14 | 0,20 | 0,39 | 0,80 |
 
 | Gárdony | 0,89 | 0,65 | 0,22 | 0,43 | 0,00 |
 
-| 8. | Győr-Moson-Sopron Vármegyei Önkormányzat | Győr MJV | 8,68 | 1,60 | 0,80 | 3,10 | 1,50[^44] |
+| 8. | Győr-Moson-Sopron Vármegyei Önkormányzat | Győr MJV | 8,68 | 1,47[^263] | 0,80 | 3,23[^264] | 1,50[^265] |
 
 | Sopron MJV | 5,03 | 0,62 | 0,43 | 1,68 | 0,00 |
 
-| Mosonmagyaróvár | 0,73 | 0,23 | 0,16 | 0,62 | 1,25[^45] |
+| Mosonmagyaróvár | 0,75[^266] | 0,21[^267] | 0,16 | 0,62 | 1,25[^268] |
 
-| 9. | Hajdú-Bihar Vármegyei Önkormányzat | Debrecen MJV | 14,54[^46] | 4,27 | 5,93 | 8,74 | 9,88[^47] |
+| 9. | Hajdú-Bihar Vármegyei Önkormányzat | Debrecen MJV | 22,60[^269] | 4,27 | 5,93 | 8,74 | 1,82[^270] |
 
 | 10. | Heves Vármegyei Önkormányzat | Eger MJV | 0,75 | 1,41 | 0,59 | 0,47 | 0,88 |
 
-| Gyöngyös | 0,77 | 0,34 | 0,27 | 0,22 | 0,00 |
+| Gyöngyös | 0,77 | 1,48[^271] | 0,27 | 0,28[^272] | 0,00 |
 
-| Hatvan | 0,45 | 0,12 | 0,24 | 0,19 | 0,40 |
+| Hatvan | 0,45 | 0,00[^273] | 0,24 | 0,19 | 0,52[^274] |
 
-| 11. | Jász-Nagykun-Szolnok Vármegyei Önkormányzat | Szolnok MJV és térsége | 8,16 | 2,96 | 5,60 | 4,43[^48] | 6,42 |
+| 11. | Jász-Nagykun-Szolnok Vármegyei Önkormányzat | Szolnok MJV és térsége | 8,35[^275] | 1,31[^276] | 5,60 | 5,89[^277] | 6,42 |
 
 | 12. | Komárom-Esztergom Vármegyei Önkormányzat | Tatabánya MJV | 4,15 | 2,19 | 1,56 | 0,40 | 4,00 |
 
-| Esztergom MJV | 1,42 | 1,20 | 0,49 | 0,40 | 3,00 |
+| Esztergom MJV | 2,42[^278] | 0,73[^279] | 0,49 | 0,40 | 2,47[^280] |
 
 | 13. | Nógrád Vármegyei Önkormányzat | Salgótarján MJV | 5,57 | 0,99 | 1,21 | 2,44 | 0,95 |
 
@@ -760,33 +760,33 @@
 
 | 14. | Pest Vármegyei Önkormányzat | Érd MJV | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 |
 
-| 15. | Somogy Vármegyei Önkormányzat | Kaposvár MJV | 6,71 | 1,57 | 1,83 | 2,99 | 1,95 |
+| 15. | Somogy Vármegyei Önkormányzat | Kaposvár MJV | 6,71 | 0,91[^281] | 1,83 | 3,65[^282] | 1,95 |
 
 | 16. | Szabolcs-Szatmár-Bereg Vármegyei Önkormányzat | Nyíregyháza MJV | 19,76 | 6,71 | 8,47 | 7,86 | 10,00 |
 
-| 17. | Tolna Vármegyei Önkormányzat | Szekszárd MJV | 1,39 | 0,28 | 0,44 | 0,56 | 0,00 |
+| 17. | Tolna Vármegyei Önkormányzat | Szekszárd MJV | 1,66[^283] | 0,00[^284] | 0,44 | 0,56 | 0,00 |
 
-| Paks | 3,82 | 0,74 | 1,13 | 1,43 | 0,00 |
+| Paks | 3,96[^285] | 0,45[^286] | 1,13 | 1,57[^287] | 0,00 |
 
-| Dombóvár | 4,21[^49] | 0,73 | 0,82 | 1,42 | 0,29 |
+| Dombóvár | 4,41[^288] | 0,43[^289] | 0,82 | 1,53[^290] | 0,29 |
 
-| Bonyhád | 1,48[^50] | 0,52 | 0,39 | 0,80[^51] | 1,77 |
+| Bonyhád | 1,58[^291] | 0,48[^292] | 0,39 | 0,73[^293] | 1,77 |
 
-| 18. | Vas Vármegyei Önkormányzat | Szombathely MJV | 8,29 | 0,93 | 1,80 | 2,23 | 0,20 |
+| 18. | Vas Vármegyei Önkormányzat | Szombathely MJV | 9,22[^294] | 0,00[^295] | 1,80 | 2,23 | 0,20 |
 
 | 19. | Veszprém Vármegyei Önkormányzat | Veszprém MJV | 7,80 | 1,06 | 1,04 | 3,19 | 0,00 |
 
 | Pápa | 3,72 | 1,53 | 0,87 | 2,31 | 2,78 |
 
-| 20. | Zala Vármegyei Önkormányzat | Zalaegerszeg MJV | 0,38[^52] | 0,80 | 0,20 | 1,76 | 4,36[^53] |
+| 20. | Zala Vármegyei Önkormányzat | Zalaegerszeg MJV | 1,34[^296] | 0,00[^297] | 0,20 | 2,56[^298] | 3,41[^299] |
 
 | Nagykanizsa MJV | 2,74 | 0,70 | 0,20 | 1,56 | 2,70 |
 
-| Keszthely | 4,43[^54] | 0,70 | 0,30 | 0,05 | 3,32[^55] |
+| Keszthely | 4,43[^300] | 0,70 | 0,30 | 0,05 | 3,32[^301] |
 
-| Lenti | 3,30[^56] | 3,29 | 0,20 | 0,60 | 0,70[^57] |
+| Lenti | 3,30[^302] | 2,79[^303] | 0,20 | 0,60 | 1,20[^304] |
 
-6.[^58] a) A Terület- és Településfejlesztési Operatív Program Plusz 1–3. és 6. prioritásaihoz tartozó fenntartható városfejlesztési eszköz keretében kijelölt települések (FVS) indikátorok célértékei:
+6.[^305] a) A Terület- és Településfejlesztési Operatív Program Plusz 1–3. és 6. prioritásaihoz tartozó fenntartható városfejlesztési eszköz keretében kijelölt települések (FVS) indikátorok célértékei:
 
 |  | A | B | C | D | E | F | G | H | I | J |
 
@@ -1086,61 +1086,308 @@
 
 | 47. | TPO09 | Fejlesztéssel érintett fürdők száma (db) | 1 | 0 | 0 | 0 | 1 | 0 | 1 |
 
-[^1]: Az 1. melléklet 1. pontjában foglalt táblázat E:39 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont a) alpont aa) pontjával megállapított szöveg.
-[^2]: Az 1. melléklet 1. pontjában foglalt táblázat E:41 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont a) alpont ab) pontjával megállapított szöveg.
-[^3]: Az 1. melléklet 1. pontjában foglalt táblázat E:63 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont a) alpont ac) pontjával megállapított szöveg.
-[^4]: Az 1. melléklet 1. pontjában foglalt táblázat E:65 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont a) alpont ad) pontjával megállapított szöveg.
-[^5]: Az 1. melléklet 2. pontjában foglalt táblázat B:5 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont b) alpont ba) pontjával megállapított szöveg.
-[^6]: Az 1. melléklet 2. pontjában foglalt táblázat C:5 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont b) alpont bb) pontjával megállapított szöveg.
-[^7]: Az 1. melléklet 2. pontjában foglalt táblázat D:5 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont b) alpont bc) pontjával megállapított szöveg.
-[^8]: Az 1. melléklet 2. pontjában foglalt táblázat H:5 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont b) alpont bd) pontjával megállapított szöveg.
-[^9]: Az 1. melléklet 2. pontjában foglalt táblázat I:5 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont b) alpont be) pontjával megállapított szöveg.
-[^10]: Az 1. melléklet 2. pontjában foglalt táblázat K:5 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont b) alpont bf) pontjával megállapított szöveg.
-[^11]: Az 1. melléklet 2. pontjában foglalt táblázat H:6 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont b) alpont bg) pontjával megállapított szöveg.
-[^12]: Az 1. melléklet 2. pontjában foglalt táblázat I:6 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont b) alpont bh) pontjával megállapított szöveg.
-[^13]: Az 1. melléklet 2. pontjában foglalt táblázat C:7 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont b) alpont bi) pontjával megállapított szöveg.
-[^14]: Az 1. melléklet 2. pontjában foglalt táblázat D:7 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont b) alpont bj) pontjával megállapított szöveg.
-[^15]: Az 1. melléklet 2. pontjában foglalt táblázat J:8 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont b) alpont bk) pontjával megállapított szöveg.
-[^16]: Az 1. melléklet 2. pontjában foglalt táblázat K:8 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont b) alpont bl) pontjával megállapított szöveg.
-[^17]: Az 1. melléklet 2. pontjában foglalt táblázat D:9 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont b) alpont bm) pontjával megállapított szöveg.
-[^18]: Az 1. melléklet 2. pontjában foglalt táblázat K:9 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont b) alpont bn) pontjával megállapított szöveg.
-[^19]: Az 1. melléklet 2. pontjában foglalt táblázat C:11 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont b) alpont bo) pontjával megállapított szöveg.
-[^20]: Az 1. melléklet 2. pontjában foglalt táblázat H:11 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont b) alpont bp) pontjával megállapított szöveg.
-[^21]: Az 1. melléklet 2. pontjában foglalt táblázat I:11 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont b) alpont bq) pontjával megállapított szöveg.
-[^22]: Az 1. melléklet 2. pontjában foglalt táblázat C:17 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont b) alpont br) pontjával megállapított szöveg.
-[^23]: Az 1. melléklet 2. pontjában foglalt táblázat D:17 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont b) alpont bs) pontjával megállapított szöveg.
-[^24]: Az 1. melléklet 2. pontjában foglalt táblázat I:17 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont b) alpont bt) pontjával megállapított szöveg.
-[^25]: Az 1. melléklet 3. b) pontjában foglalt táblázat N:23 mezőjében a „Vármegye által vállalt célérték (2029)” című oszlopadat az 1274/2024. (IX. 12.) Korm. határozat 1. pont c) alpont ca) pontjával megállapított szöveg.
-[^26]: Az 1. melléklet 4. pontjában foglalt táblázat C:5 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont d) alpont da) pontjával megállapított szöveg.
-[^27]: Az 1. melléklet 4. pontjában foglalt táblázat F:5 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont d) alpont db) pontjával megállapított szöveg.
-[^28]: Az 1. melléklet 4. pontjában foglalt táblázat C:6 mezője Szeged MJV esetében az 1274/2024. (IX. 12.) Korm. határozat 1. pont d) alpont dc) pontjával megállapított szöveg.
-[^29]: Az 1. melléklet 4. pontjában foglalt táblázat F:6 mezője Szeged MJV esetében az 1274/2024. (IX. 12.) Korm. határozat 1. pont d) alpont dd) pontjával megállapított szöveg.
-[^30]: Az 1. melléklet 4. pontjában foglalt táblázat C:8 mezője Győr MJV esetében az 1274/2024. (IX. 12.) Korm. határozat 1. pont d) alpont de) pontjával megállapított szöveg.
-[^31]: Az 1. melléklet 4. pontjában foglalt táblázat D:8 mezője Győr MJV esetében az 1274/2024. (IX. 12.) Korm. határozat 1. pont d) alpont df) pontjával megállapított szöveg.
-[^32]: Az 1. melléklet 4. pontjában foglalt táblázat C:8 mezője Mosonmagyaróvár esetében az 1274/2024. (IX. 12.) Korm. határozat 1. pont d) alpont dg) pontjával megállapított szöveg.
-[^33]: Az 1. melléklet 4. pontjában foglalt táblázat D:8 mezője Mosonmagyaróvár esetében az 1274/2024. (IX. 12.) Korm. határozat 1. pont d) alpont dh) pontjával megállapított szöveg.
-[^34]: Az 1. melléklet 4. pontjában foglalt táblázat C:11 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont d) alpont di) pontjával megállapított szöveg.
-[^35]: Az 1. melléklet 4. pontjában foglalt táblázat F:11 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont d) alpont dj) pontjával megállapított szöveg.
-[^36]: Az 1. melléklet 4. pontjában foglalt táblázat C:17 mezője Dombóvár esetében az 1274/2024. (IX. 12.) Korm. határozat 1. pont d) alpont dk) pontjával megállapított szöveg.
-[^37]: Az 1. melléklet 4. pontjában foglalt táblázat D:17 mezője Dombóvár esetében az 1274/2024. (IX. 12.) Korm. határozat 1. pont d) alpont dl) pontjával megállapított szöveg.
-[^38]: Az 1. melléklet 4. pontjában foglalt táblázat D:17 mezője Bonyhád esetében az 1274/2024. (IX. 12.) Korm. határozat 1. pont d) alpont dm) pontjával megállapított szöveg.
-[^39]: Az 1. melléklet 4. pontjában foglalt táblázat F:17 mezője Bonyhád esetében az 1274/2024. (IX. 12.) Korm. határozat 1. pont d) alpont dn) pontjával megállapított szöveg.
-[^40]: Az 1. melléklet 5. pontjában foglalt táblázat C:5 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont e) alpont ea) pontjával megállapított szöveg.
-[^41]: Az 1. melléklet 5. pontjában foglalt táblázat F:5 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont e) alpont eb) pontjával megállapított szöveg.
-[^42]: Az 1. melléklet 5. pontjában foglalt táblázat G:5 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont e) alpont ec) pontjával megállapított szöveg.
-[^43]: Az 1. melléklet 5. pontjában foglalt táblázat F:6 mezője Szeged MJV esetében az 1274/2024. (IX. 12.) Korm. határozat 1. pont e) alpont ed) pontjával megállapított szöveg.
-[^44]: Az 1. melléklet 5. pontjában foglalt táblázat G:8 mezője Győr MJV esetében az 1274/2024. (IX. 12.) Korm. határozat 1. pont e) pont ee) alpontjával megállapított szöveg.
-[^45]: Az 1. melléklet 5. pontjában foglalt táblázat G:8 mezője Mosonmagyaróvár esetében az 1274/2024. (IX. 12.) Korm. határozat 1. pont e) alpont ef) pontjával megállapított szöveg.
-[^46]: Az 1. melléklet 5. pontjában foglalt táblázat C:9 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont e) alpont eg) pontjával megállapított szöveg.
-[^47]: Az 1. melléklet 5. pontjában foglalt táblázat G:9 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont e) alpont eh) pontjával megállapított szöveg.
-[^48]: Az 1. melléklet 5. pontjában foglalt táblázat F:11 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont e) alpont ei) pontjával megállapított szöveg.
-[^49]: Az 1. melléklet 5. pontjában foglalt táblázat C:17 mezője Dombóvár esetében az 1274/2024. (IX. 12.) Korm. határozat 1. pont e) alpont ej) pontjával megállapított szöveg.
-[^50]: Az 1. melléklet 5. pontjában foglalt táblázat C:17 mezője Bonyhád esetében az 1274/2024. (IX. 12.) Korm. határozat 1. pont e) alpont ek) pontjával megállapított szöveg.
-[^51]: Az 1. melléklet 5. pontjában foglalt táblázat F:17 mezője Bonyhád esetében az 1274/2024. (IX. 12.) Korm. határozat 1. pont e) alpont el) pontjával megállapított szöveg.
-[^52]: Az 1. melléklet 5. pontjában foglalt táblázat C:20 mezője Zalaegerszeg MJV esetében az 1274/2024. (IX. 12.) Korm. határozat 1. pont e) alpont em) pontjával megállapított szöveg.
-[^53]: Az 1. melléklet 5. pontjában foglalt táblázat G:20 mezője Zalaegerszeg MJV esetében az 1274/2024. (IX. 12.) Korm. határozat 1. pont e) alpont en) pontjával megállapított szöveg.
-[^54]: Az 1. melléklet 5. pontjában foglalt táblázat C:20 mezője Keszthely esetében az 1274/2024. (IX. 12.) Korm. határozat 1. pont e) alpont eo) pontjával megállapított szöveg.
-[^55]: Az 1. melléklet 5. pontjában foglalt táblázat G:20 mezője Keszthely esetében az 1274/2024. (IX. 12.) Korm. határozat 1. pont e) alpont ep) pontjával megállapított szöveg.
-[^56]: Az 1. melléklet 5. pontjában foglalt táblázat C:20 mezője Lenti esetében az 1274/2024. (IX. 12.) Korm. határozat 1. pont e) alpont eq) pontjával megállapított szöveg.
-[^57]: Az 1. melléklet 5. pontjában foglalt táblázat G:20 mezője Lenti esetében az 1274/2024. (IX. 12.) Korm. határozat 1. pont e) alpont er) pontjával megállapított szöveg.
-[^58]: Az 1. melléklet 6. pontját az 1274/2024. (IX. 12.) Korm. határozat 2. pontja iktatta be.
+[^1]: Az 1. melléklet 1. pontjában foglalt táblázat E:2 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont a) alpont 1. pontjával megállapított szöveg.
+[^2]: Az 1. melléklet 1. pontjában foglalt táblázat E:3 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont a) alpont 2. pontjával megállapított szöveg.
+[^3]: Az 1. melléklet 1. pontjában foglalt táblázat E:5 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont a) alpont 3. pontjával megállapított szöveg.
+[^4]: Az 1. melléklet 1. pontjában foglalt táblázat E:6 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont a) alpont 4. pontjával megállapított szöveg.
+[^5]: Az 1. melléklet 1. pontjában foglalt táblázat E:7 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont a) alpont 5. pontjával megállapított szöveg.
+[^6]: Az 1. melléklet 1. pontjában foglalt táblázat E:9 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont a) alpont 6. pontjával megállapított szöveg.
+[^7]: Az 1. melléklet 1. pontjában foglalt táblázat E:18 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont a) alpont 7. pontjával megállapított szöveg.
+[^8]: Az 1. melléklet 1. pontjában foglalt táblázat E:19 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont a) alpont 8. pontjával megállapított szöveg.
+[^9]: Az 1. melléklet 1. pontjában foglalt táblázat E:21 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont a) alpont 9. pontjával megállapított szöveg.
+[^10]: Az 1. melléklet 1. pontjában foglalt táblázat E:22 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont a) alpont 10. pontjával megállapított szöveg.
+[^11]: Az 1. melléklet 1. pontjában foglalt táblázat E:25 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont a) alpont 11. pontjával megállapított szöveg.
+[^12]: Az 1. melléklet 1. pontjában foglalt táblázat E:26 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont a) alpont 12. pontjával megállapított szöveg.
+[^13]: Az 1. melléklet 1. pontjában foglalt táblázat E:27 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont a) alpont 13. pontjával megállapított szöveg.
+[^14]: Az 1. melléklet 1. pontjában foglalt táblázat E:29 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont a) alpont 14. pontjával megállapított szöveg.
+[^15]: Az 1. melléklet 1. pontjában foglalt táblázat E:30 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont a) alpont 15. pontjával megállapított szöveg.
+[^16]: Az 1. melléklet 1. pontjában foglalt táblázat E:31 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont a) alpont 16. pontjával megállapított szöveg.
+[^17]: Az 1. melléklet 1. pontjában foglalt táblázat E:33 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont a) alpont 17. pontjával megállapított szöveg.
+[^18]: Az 1. melléklet 1. pontjában foglalt táblázat E:34 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont a) alpont 18. pontjával megállapított szöveg.
+[^19]: Az 1. melléklet 1. pontjában foglalt táblázat E:35 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont a) alpont 19. pontjával megállapított szöveg.
+[^20]: Az 1. melléklet 1. pontjában foglalt táblázat E:37 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont a) alpont 20. pontjával megállapított szöveg.
+[^21]: Az 1. melléklet 1. pontjában foglalt táblázat E:38 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont a) alpont 21. pontjával megállapított szöveg.
+[^22]: Az 1. melléklet 1. pontjában foglalt táblázat E:39 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont a) alpont 22. pontjával megállapított szöveg.
+[^23]: Az 1. melléklet 1. pontjában foglalt táblázat E:41 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont a) alpont 23. pontjával megállapított szöveg.
+[^24]: Az 1. melléklet 1. pontjában foglalt táblázat E:42 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont a) alpont 24. pontjával megállapított szöveg.
+[^25]: Az 1. melléklet 1. pontjában foglalt táblázat E:45 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont a) alpont 25. pontjával megállapított szöveg.
+[^26]: Az 1. melléklet 1. pontjában foglalt táblázat E:54 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont a) alpont 26. pontjával megállapított szöveg.
+[^27]: Az 1. melléklet 1. pontjában foglalt táblázat E:55 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont a) alpont 27. pontjával megállapított szöveg.
+[^28]: Az 1. melléklet 1. pontjában foglalt táblázat E:62 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont a) alpont 28. pontjával megállapított szöveg.
+[^29]: Az 1. melléklet 1. pontjában foglalt táblázat E:63 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont a) alpont 29. pontjával megállapított szöveg.
+[^30]: Az 1. melléklet 1. pontjában foglalt táblázat E:65 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont a) alpont 30. pontjával megállapított szöveg.
+[^31]: Az 1. melléklet 1. pontjában foglalt táblázat E:66 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont a) alpont 31. pontjával megállapított szöveg.
+[^32]: Az 1. melléklet 1. pontjában foglalt táblázat E:69 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont a) alpont 32. pontjával megállapított szöveg.
+[^33]: Az 1. melléklet 1. pontjában foglalt táblázat E:74 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont a) alpont 33. pontjával megállapított szöveg.
+[^34]: Az 1. melléklet 1. pontjában foglalt táblázat E:75 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont a) alpont 34. pontjával megállapított szöveg.
+[^35]: Az 1. melléklet 1. pontjában foglalt táblázat E:77 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont a) alpont 35. pontjával megállapított szöveg.
+[^36]: Az 1. melléklet 2. pontjában foglalt táblázat C:2 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont b) alpont 1. pontjával megállapított szöveg.
+[^37]: Az 1. melléklet 2. pontjában foglalt táblázat D:2 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont b) alpont 2. pontjával megállapított szöveg.
+[^38]: Az 1. melléklet 2. pontjában foglalt táblázat E:2 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont b) alpont 3. pontjával megállapított szöveg.
+[^39]: Az 1. melléklet 2. pontjában foglalt táblázat H:2 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont b) alpont 4. pontjával megállapított szöveg.
+[^40]: Az 1. melléklet 2. pontjában foglalt táblázat I:2 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont b) alpont 5. pontjával megállapított szöveg.
+[^41]: Az 1. melléklet 2. pontjában foglalt táblázat J:2 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont b) alpont 6. pontjával megállapított szöveg.
+[^42]: Az 1. melléklet 2. pontjában foglalt táblázat K:2 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont b) alpont 7. pontjával megállapított szöveg.
+[^43]: Az 1. melléklet 2. pontjában foglalt táblázat D:3 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont b) alpont 8. pontjával megállapított szöveg.
+[^44]: Az 1. melléklet 2. pontjában foglalt táblázat E:3 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont b) alpont 9. pontjával megállapított szöveg.
+[^45]: Az 1. melléklet 2. pontjában foglalt táblázat I:3 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont b) alpont 10. pontjával megállapított szöveg.
+[^46]: Az 1. melléklet 2. pontjában foglalt táblázat K:3 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont b) alpont 11. pontjával megállapított szöveg.
+[^47]: Az 1. melléklet 2. pontjában foglalt táblázat H:4 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont b) alpont 12. pontjával megállapított szöveg.
+[^48]: Az 1. melléklet 2. pontjában foglalt táblázat I:4 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont b) alpont 13. pontjával megállapított szöveg.
+[^49]: Az 1. melléklet 2. pontjában foglalt táblázat B:5 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont b) alpont ba) pontjával megállapított szöveg.
+[^50]: Az 1. melléklet 2. pontjában foglalt táblázat C:5 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont b) alpont bb) pontjával megállapított szöveg.
+[^51]: Az 1. melléklet 2. pontjában foglalt táblázat D:5 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont b) alpont bc) pontjával megállapított szöveg.
+[^52]: Az 1. melléklet 2. pontjában foglalt táblázat H:5 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont b) alpont bd) pontjával megállapított szöveg.
+[^53]: Az 1. melléklet 2. pontjában foglalt táblázat I:5 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont b) alpont be) pontjával megállapított szöveg.
+[^54]: Az 1. melléklet 2. pontjában foglalt táblázat K:5 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont b) alpont bf) pontjával megállapított szöveg.
+[^55]: Az 1. melléklet 2. pontjában foglalt táblázat C:6 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont b) alpont 14. pontjával megállapított szöveg.
+[^56]: Az 1. melléklet 2. pontjában foglalt táblázat D:6 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont b) alpont 15. pontjával megállapított szöveg.
+[^57]: Az 1. melléklet 2. pontjában foglalt táblázat E:6 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont b) alpont 16. pontjával megállapított szöveg.
+[^58]: Az 1. melléklet 2. pontjában foglalt táblázat H:6 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont b) alpont bg) pontjával megállapított szöveg.
+[^59]: Az 1. melléklet 2. pontjában foglalt táblázat I:6 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont b) alpont 17. pontjával megállapított szöveg.
+[^60]: Az 1. melléklet 2. pontjában foglalt táblázat C:7 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont b) alpont 18. pontjával megállapított szöveg.
+[^61]: Az 1. melléklet 2. pontjában foglalt táblázat D:7 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont b) alpont 19. pontjával megállapított szöveg.
+[^62]: Az 1. melléklet 2. pontjában foglalt táblázat E:7 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont b) alpont 20. pontjával megállapított szöveg.
+[^63]: Az 1. melléklet 2. pontjában foglalt táblázat J:7 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont b) alpont 21. pontjával megállapított szöveg.
+[^64]: Az 1. melléklet 2. pontjában foglalt táblázat C:8 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont b) alpont 22. pontjával megállapított szöveg.
+[^65]: Az 1. melléklet 2. pontjában foglalt táblázat D:8 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont b) alpont 23. pontjával megállapított szöveg.
+[^66]: Az 1. melléklet 2. pontjában foglalt táblázat E:8 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont b) alpont 24. pontjával megállapított szöveg.
+[^67]: Az 1. melléklet 2. pontjában foglalt táblázat I:8 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont b) alpont 25. pontjával megállapított szöveg.
+[^68]: Az 1. melléklet 2. pontjában foglalt táblázat J:8 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont b) alpont bk) pontjával megállapított szöveg.
+[^69]: Az 1. melléklet 2. pontjában foglalt táblázat K:8 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont b) alpont bl) pontjával megállapított szöveg.
+[^70]: Az 1. melléklet 2. pontjában foglalt táblázat C:9 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont b) alpont 26. pontjával megállapított szöveg.
+[^71]: Az 1. melléklet 2. pontjában foglalt táblázat D:9 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont b) alpont 27. pontjával megállapított szöveg.
+[^72]: Az 1. melléklet 2. pontjában foglalt táblázat E:9 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont b) alpont 28. pontjával megállapított szöveg.
+[^73]: Az 1. melléklet 2. pontjában foglalt táblázat H:9 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont b) alpont 29. pontjával megállapított szöveg.
+[^74]: Az 1. melléklet 2. pontjában foglalt táblázat J:9 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont b) alpont 30. pontjával megállapított szöveg.
+[^75]: Az 1. melléklet 2. pontjában foglalt táblázat K:9 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont b) alpont 31. pontjával megállapított szöveg.
+[^76]: Az 1. melléklet 2. pontjában foglalt táblázat E:10 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont b) alpont 32. pontjával megállapított szöveg.
+[^77]: Az 1. melléklet 2. pontjában foglalt táblázat I:10 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont b) alpont 33. pontjával megállapított szöveg.
+[^78]: Az 1. melléklet 2. pontjában foglalt táblázat K:10 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont b) alpont 34. pontjával megállapított szöveg.
+[^79]: Az 1. melléklet 2. pontjában foglalt táblázat C:11 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont b) alpont bo) pontjával megállapított szöveg.
+[^80]: Az 1. melléklet 2. pontjában foglalt táblázat D:11 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont b) alpont 35. pontjával megállapított szöveg.
+[^81]: Az 1. melléklet 2. pontjában foglalt táblázat E:11 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont b) alpont 36. pontjával megállapított szöveg.
+[^82]: Az 1. melléklet 2. pontjában foglalt táblázat H:11 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont b) alpont bp) pontjával megállapított szöveg.
+[^83]: Az 1. melléklet 2. pontjában foglalt táblázat I:11 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont b) alpont 37. pontjával megállapított szöveg.
+[^84]: Az 1. melléklet 2. pontjában foglalt táblázat D:12 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont b) alpont 38. pontjával megállapított szöveg.
+[^85]: Az 1. melléklet 2. pontjában foglalt táblázat E:12 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont b) alpont 39. pontjával megállapított szöveg.
+[^86]: Az 1. melléklet 2. pontjában foglalt táblázat K:12 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont b) alpont 40. pontjával megállapított szöveg.
+[^87]: Az 1. melléklet 2. pontjában foglalt táblázat E:15 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont b) alpont 41. pontjával megállapított szöveg.
+[^88]: Az 1. melléklet 2. pontjában foglalt táblázat I:15 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont b) alpont 42. pontjával megállapított szöveg.
+[^89]: Az 1. melléklet 2. pontjában foglalt táblázat C:16 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont b) alpont 43. pontjával megállapított szöveg.
+[^90]: Az 1. melléklet 2. pontjában foglalt táblázat J:16 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont b) alpont 44. pontjával megállapított szöveg.
+[^91]: Az 1. melléklet 2. pontjában foglalt táblázat C:17 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont b) alpont 45. pontjával megállapított szöveg.
+[^92]: Az 1. melléklet 2. pontjában foglalt táblázat D:17 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont b) alpont 46. pontjával megállapított szöveg.
+[^93]: Az 1. melléklet 2. pontjában foglalt táblázat E:17 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont b) alpont 47. pontjával megállapított szöveg.
+[^94]: Az 1. melléklet 2. pontjában foglalt táblázat H:17 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont b) alpont 48. pontjával megállapított szöveg.
+[^95]: Az 1. melléklet 2. pontjában foglalt táblázat I:17 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont b) alpont 49. pontjával megállapított szöveg.
+[^96]: Az 1. melléklet 2. pontjában foglalt táblázat J:17 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont b) alpont 50. pontjával megállapított szöveg.
+[^97]: Az 1. melléklet 2. pontjában foglalt táblázat B:18 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont b) alpont 51. pontjával megállapított szöveg.
+[^98]: Az 1. melléklet 2. pontjában foglalt táblázat C:18 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont b) alpont 52. pontjával megállapított szöveg.
+[^99]: Az 1. melléklet 2. pontjában foglalt táblázat D:18 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont b) alpont 53. pontjával megállapított szöveg.
+[^100]: Az 1. melléklet 2. pontjában foglalt táblázat E:18 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont b) alpont 54. pontjával megállapított szöveg.
+[^101]: Az 1. melléklet 2. pontjában foglalt táblázat C:20 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont b) alpont 55. pontjával megállapított szöveg.
+[^102]: Az 1. melléklet 2. pontjában foglalt táblázat D:20 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont b) alpont 56. pontjával megállapított szöveg.
+[^103]: Az 1. melléklet 2. pontjában foglalt táblázat E:20 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont b) alpont 57. pontjával megállapított szöveg.
+[^104]: Az 1. melléklet 2. pontjában foglalt táblázat H:20 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont b) alpont 58. pontjával megállapított szöveg.
+[^105]: Az 1. melléklet 2. pontjában foglalt táblázat I:20 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont b) alpont 59. pontjával megállapított szöveg.
+[^106]: Az 1. melléklet 2. pontjában foglalt táblázat J:20 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont b) alpont 60. pontjával megállapított szöveg.
+[^107]: Az 1. melléklet 2. pontjában foglalt táblázat K:20 mezője az 1044/2025. (III. 5.) Korm. határozat 1. pont b) alpont 61. pontjával megállapított szöveg.
+[^108]: Az 1. melléklet 3. a) pontjában foglalt táblázat C:2 mezőjében a „Vármegye által vállalt mérföldkő (2024)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont c) alpont 1. pontjával megállapított szöveg.
+[^109]: Az 1. melléklet 3. a) pontjában foglalt táblázat C:2 mezőjében a „Vármegye által vállalt célérték (2029)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont c) alpont 2. pontjával megállapított szöveg.
+[^110]: Az 1. melléklet 3. a) pontjában foglalt táblázat F:2 mezőjében a „Vármegye által vállalt mérföldkő (2024)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont c) alpont 3. pontjával megállapított szöveg.
+[^111]: Az 1. melléklet 3. a) pontjában foglalt táblázat C:4 mezőjében a „Vármegye által vállalt mérföldkő (2024)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont c) alpont 4. pontjával megállapított szöveg.
+[^112]: Az 1. melléklet 3. a) pontjában foglalt táblázat C:5 mezőjében a „Vármegye által vállalt célérték (2029)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont c) alpont 5. pontjával megállapított szöveg.
+[^113]: Az 1. melléklet 3. a) pontjában foglalt táblázat C:7 mezőjében a „Vármegye által vállalt mérföldkő (2024)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont c) alpont 6. pontjával megállapított szöveg.
+[^114]: Az 1. melléklet 3. a) pontjában foglalt táblázat C:7 mezőjében a „Vármegye által vállalt célérték (2029)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont c) alpont 7. pontjával megállapított szöveg.
+[^115]: Az 1. melléklet 3. a) pontjában foglalt táblázat C:8 mezőjében a „Vármegye által vállalt célérték (2029)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont c) alpont 8. pontjával megállapított szöveg.
+[^116]: Az 1. melléklet 3. a) pontjában foglalt táblázat C:10 mezőjében a „Vármegye által vállalt mérföldkő (2024)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont c) alpont 9. pontjával megállapított szöveg.
+[^117]: Az 1. melléklet 3. a) pontjában foglalt táblázat C:14 mezőjében a „Vármegye által vállalt mérföldkő (2024)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont c) alpont 10. pontjával megállapított szöveg.
+[^118]: Az 1. melléklet 3. a) pontjában foglalt táblázat C:14 mezőjében a „Vármegye által vállalt célérték (2029)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont c) alpont 11. pontjával megállapított szöveg.
+[^119]: Az 1. melléklet 3. a) pontjában foglalt táblázat C:15 mezőjében a „Vármegye által vállalt célérték (2029)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont c) alpont 12. pontjával megállapított szöveg.
+[^120]: Az 1. melléklet 3. a) pontjában foglalt táblázat C:16 mezőjében a „Vármegye által vállalt célérték (2029)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont c) alpont 13. pontjával megállapított szöveg.
+[^121]: Az 1. melléklet 3. a) pontjában foglalt táblázat C:17 mezőjében a „Vármegye által vállalt mérföldkő (2024)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont c) alpont 14. pontjával megállapított szöveg.
+[^122]: Az 1. melléklet 3. a) pontjában foglalt táblázat C:17 mezőjében a „Vármegye által vállalt célérték (2029)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont c) alpont 15. pontjával megállapított szöveg.
+[^123]: Az 1. melléklet 3. a) pontjában foglalt táblázat C:18 mezőjében a „Vármegye által vállalt célérték (2029)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont c) alpont 16. pontjával megállapított szöveg.
+[^124]: Az 1. melléklet 3. a) pontjában foglalt táblázat C:33 mezőjében a „Vármegye által vállalt mérföldkő (2024)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont c) alpont 17. pontjával megállapított szöveg.
+[^125]: Az 1. melléklet 3. a) pontjában foglalt táblázat C:33 mezőjében a „Vármegye által vállalt célérték (2029)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont c) alpont 18. pontjával megállapított szöveg.
+[^126]: Az 1. melléklet 3. a) pontjában foglalt táblázat C:34 mezőjében a „Vármegye által vállalt célérték (2029)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont c) alpont 19. pontjával megállapított szöveg.
+[^127]: Az 1. melléklet 3. a) pontjában foglalt táblázat C:35 mezőjében a „Vármegye által vállalt mérföldkő (2024)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont c) alpont 20. pontjával megállapított szöveg.
+[^128]: Az 1. melléklet 3. a) pontjában foglalt táblázat C:36 mezőjében a „Vármegye által vállalt célérték (2029)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont c) alpont 21. pontjával megállapított szöveg.
+[^129]: Az 1. melléklet 3. a) pontjában foglalt táblázat C:37 mezőjében a „Vármegye által vállalt célérték (2029)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont c) alpont 22. pontjával megállapított szöveg.
+[^130]: Az 1. melléklet 3. a) pontjában foglalt táblázat C:40 mezőjében a „Vármegye által vállalt célérték (2029)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont c) alpont 23. pontjával megállapított szöveg.
+[^131]: Az 1. melléklet 3. a) pontjában foglalt táblázat C:41 mezőjében a „Vármegye által vállalt célérték (2029)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont c) alpont 24. pontjával megállapított szöveg.
+[^132]: Az 1. melléklet 3. b) pontjában foglalt táblázat K:3 mezőjében a „Vármegye által vállalt célérték (2029)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont d) alpont 1. pontjával megállapított szöveg.
+[^133]: Az 1. melléklet 3. b) pontjában foglalt táblázat K:4 mezőjében a „Vármegye által vállalt mérföldkő (2024)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont d) alpont 2. pontjával megállapított szöveg.
+[^134]: Az 1. melléklet 3. b) pontjában foglalt táblázat K:4 mezőjében a „Vármegye által vállalt célérték (2029)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont d) alpont 3. pontjával megállapított szöveg.
+[^135]: Az 1. melléklet 3. b) pontjában foglalt táblázat K:5 mezőjében a „Vármegye által vállalt célérték (2029)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont d) alpont 4. pontjával megállapított szöveg.
+[^136]: Az 1. melléklet 3. b) pontjában foglalt táblázat K:7 mezőjében a „Vármegye által vállalt mérföldkő (2024)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont d) alpont 5. pontjával megállapított szöveg.
+[^137]: Az 1. melléklet 3. b) pontjában foglalt táblázat K:8 mezőjében a „Vármegye által vállalt célérték (2029)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont d) alpont 6. pontjával megállapított szöveg.
+[^138]: Az 1. melléklet 3. b) pontjában foglalt táblázat K:10 mezőjében a „Vármegye által vállalt mérföldkő (2024)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont d) alpont 7. pontjával megállapított szöveg.
+[^139]: Az 1. melléklet 3. b) pontjában foglalt táblázat K:13 mezőjében a „Vármegye által vállalt mérföldkő (2024)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont d) alpont 8. pontjával megállapított szöveg.
+[^140]: Az 1. melléklet 3. b) pontjában foglalt táblázat K:14 mezőjében a „Vármegye által vállalt mérföldkő (2024)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont d) alpont 9. pontjával megállapított szöveg.
+[^141]: Az 1. melléklet 3. b) pontjában foglalt táblázat K:14 mezőjében a „Vármegye által vállalt célérték (2029)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont d) alpont 10. pontjával megállapított szöveg.
+[^142]: Az 1. melléklet 3. b) pontjában foglalt táblázat K:15 mezőjében a „Vármegye által vállalt célérték (2029)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont d) alpont 11. pontjával megállapított szöveg.
+[^143]: Az 1. melléklet 3. b) pontjában foglalt táblázat K:16 mezőjében a „Vármegye által vállalt célérték (2029)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont d) alpont 12. pontjával megállapított szöveg.
+[^144]: Az 1. melléklet 3. b) pontjában foglalt táblázat K:17 mezőjében a „Vármegye által vállalt mérföldkő (2024)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont d) alpont 13. pontjával megállapított szöveg.
+[^145]: Az 1. melléklet 3. b) pontjában foglalt táblázat K:17 mezőjében a „Vármegye által vállalt célérték (2029)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont d) alpont 14. pontjával megállapított szöveg.
+[^146]: Az 1. melléklet 3. b) pontjában foglalt táblázat K:18 mezőjében a „Vármegye által vállalt célérték (2029)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont d) alpont 15. pontjával megállapított szöveg.
+[^147]: Az 1. melléklet 3. b) pontjában foglalt táblázat K:20 mezőjében a „Vármegye által vállalt mérföldkő (2024)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont d) alpont 16. pontjával megállapított szöveg.
+[^148]: Az 1. melléklet 3. b) pontjában foglalt táblázat K:21 mezőjében a „Vármegye által vállalt mérföldkő (2024)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont d) alpont 17. pontjával megállapított szöveg.
+[^149]: Az 1. melléklet 3. b) pontjában foglalt táblázat K:22 mezőjében a „Vármegye által vállalt mérföldkő (2024)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont d) alpont 18. pontjával megállapított szöveg.
+[^150]: Az 1. melléklet 3. b) pontjában foglalt táblázat K:23 mezőjében a „Vármegye által vállalt mérföldkő (2024)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont d) alpont 19. pontjával megállapított szöveg.
+[^151]: Az 1. melléklet 3. b) pontjában foglalt táblázat N:23 mezőjében a „Vármegye által vállalt célérték (2029)” című oszlopadat az 1274/2024. (IX. 12.) Korm. határozat 1. pont c) alpont ca) pontjával megállapított szöveg.
+[^152]: Az 1. melléklet 3. b) pontjában foglalt táblázat K:29 mezőjében a „Vármegye által vállalt mérföldkő (2024)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont d) alpont 20. pontjával megállapított szöveg.
+[^153]: Az 1. melléklet 3. b) pontjában foglalt táblázat K:30 mezőjében a „Vármegye által vállalt mérföldkő (2024)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont d) alpont 21. pontjával megállapított szöveg.
+[^154]: Az 1. melléklet 3. b) pontjában foglalt táblázat K:33 mezőjében a „Vármegye által vállalt mérföldkő (2024)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont d) alpont 22. pontjával megállapított szöveg.
+[^155]: Az 1. melléklet 3. b) pontjában foglalt táblázat K:34 mezőjében a „Vármegye által vállalt mérföldkő (2024)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont d) alpont 23. pontjával megállapított szöveg.
+[^156]: Az 1. melléklet 3. b) pontjában foglalt táblázat K:35 mezőjében a „Vármegye által vállalt mérföldkő (2024)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont d) alpont 24. pontjával megállapított szöveg.
+[^157]: Az 1. melléklet 3. b) pontjában foglalt táblázat K:36 mezőjében a „Vármegye által vállalt mérföldkő (2024)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont d) alpont 25. pontjával megállapított szöveg.
+[^158]: Az 1. melléklet 3. b) pontjában foglalt táblázat K:40 mezőjében a „Vármegye által vállalt mérföldkő (2024)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont d) alpont 26. pontjával megállapított szöveg.
+[^159]: Az 1. melléklet 3. b) pontjában foglalt táblázat K:42 mezőjében a „Vármegye által vállalt mérföldkő (2024)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont d) alpont 27. pontjával megállapított szöveg.
+[^160]: Az 1. melléklet 3. b) pontjában foglalt táblázat K:49 mezőjében a „Vármegye által vállalt mérföldkő (2024)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont d) alpont 28. pontjával megállapított szöveg.
+[^161]: Az 1. melléklet 3. b) pontjában foglalt táblázat K:50 mezőjében a „Vármegye által vállalt mérföldkő (2024)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont d) alpont 29. pontjával megállapított szöveg.
+[^162]: Az 1. melléklet 3. b) pontjában foglalt táblázat K:52 mezőjében a „Vármegye által vállalt mérföldkő (2024)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont d) alpont 30. pontjával megállapított szöveg.
+[^163]: Az 1. melléklet 3. b) pontjában foglalt táblázat K:53 mezőjében a „Vármegye által vállalt mérföldkő (2024)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont d) alpont 31. pontjával megállapított szöveg.
+[^164]: Az 1. melléklet 3. b) pontjában foglalt táblázat K:54 mezőjében a „Vármegye által vállalt mérföldkő (2024)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont d) alpont 32. pontjával megállapított szöveg.
+[^165]: Az 1. melléklet 3. c) pontjában foglalt táblázat R:2 mezőjében a „Vármegye által vállalt mérföldkő (2024)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont e) alpont 1. pontjával megállapított szöveg.
+[^166]: Az 1. melléklet 3. c) pontjában foglalt táblázat R:2 mezőjében a „Vármegye által vállalt célérték (2029)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont e) alpont 2. pontjával megállapított szöveg.
+[^167]: Az 1. melléklet 3. c) pontjában foglalt táblázat R:3 mezőjében a „Vármegye által vállalt célérték (2029)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont e) alpont 3. pontjával megállapított szöveg.
+[^168]: Az 1. melléklet 3. c) pontjában foglalt táblázat R:4 mezőjében a „Vármegye által vállalt mérföldkő (2024)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont e) alpont 4. pontjával megállapított szöveg.
+[^169]: Az 1. melléklet 3. c) pontjában foglalt táblázat R:4 mezőjében a „Vármegye által vállalt célérték (2029)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont e) alpont 5. pontjával megállapított szöveg.
+[^170]: Az 1. melléklet 3. c) pontjában foglalt táblázat R:5 mezőjében a „Vármegye által vállalt célérték (2029)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont e) alpont 6. pontjával megállapított szöveg.
+[^171]: Az 1. melléklet 3. c) pontjában foglalt táblázat R:7 mezőjében a „Vármegye által vállalt mérföldkő (2024)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont e) alpont 7. pontjával megállapított szöveg.
+[^172]: Az 1. melléklet 3. c) pontjában foglalt táblázat R:8 mezőjében a „Vármegye által vállalt célérték (2029)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont e) alpont 8. pontjával megállapított szöveg.
+[^173]: Az 1. melléklet 3. c) pontjában foglalt táblázat R:10 mezőjében a „Vármegye által vállalt mérföldkő (2024)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont e) alpont 9. pontjával megállapított szöveg.
+[^174]: Az 1. melléklet 3. c) pontjában foglalt táblázat R:10 mezőjében a „Vármegye által vállalt célérték (2029)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont e) alpont 10. pontjával megállapított szöveg.
+[^175]: Az 1. melléklet 3. c) pontjában foglalt táblázat T:47 mezőjében a „Vármegye által vállalt célérték (2029)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont e) alpont 11. pontjával megállapított szöveg.
+[^176]: Az 1. melléklet 3. c) pontjában foglalt táblázat T:51 mezőjében a „Vármegye által vállalt célérték (2029)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont e) alpont 12. pontjával megállapított szöveg.
+[^177]: Az 1. melléklet 3. c) pontjában foglalt táblázat R:56 mezőjében a „Vármegye által vállalt célérték (2029)” című oszlopadathoz tartozó mező az 1044/2025. (III. 5.) Korm. határozat 1. pont e) alpont 13. pontjával megállapított szöveg.
+[^178]: Az 1. melléklet 4. pontjában foglalt táblázat D:2 mezője Kecskemét MJV esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont f) alpont 1. pontjával megállapított szöveg.
+[^179]: Az 1. melléklet 4. pontjában foglalt táblázat F:2 mezője Kecskemét MJV esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont f) alpont 2. pontjával megállapított szöveg.
+[^180]: Az 1. melléklet 4. pontjában foglalt táblázat D:3 mezője Komló esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont f) alpont 3. pontjával megállapított szöveg.
+[^181]: Az 1. melléklet 4. pontjában foglalt táblázat F:3 mezője Komló esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont f) alpont 4. pontjával megállapított szöveg.
+[^182]: Az 1. melléklet 4. pontjában foglalt táblázat D:3 mezője Mohács esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont f) alpont 5. pontjával megállapított szöveg.
+[^183]: Az 1. melléklet 4. pontjában foglalt táblázat E:3 mezője Mohács esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont f) alpont 6. pontjával megállapított szöveg.
+[^184]: Az 1. melléklet 4. pontjában foglalt táblázat F:3 mezője Mohács esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont f) alpont 7. pontjával megállapított szöveg.
+[^185]: Az 1. melléklet 4. pontjában foglalt táblázat C:4 mezője Békéscsaba MJV és térsége esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont f) alpont 8. pontjával megállapított szöveg.
+[^186]: Az 1. melléklet 4. pontjában foglalt táblázat F:4 mezője Békéscsaba MJV és térsége esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont f) alpont 9. pontjával megállapított szöveg.
+[^187]: Az 1. melléklet 4. pontjában foglalt táblázat C:4 mezője Gyula és térsége esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont f) alpont 10. pontjával megállapított szöveg.
+[^188]: Az 1. melléklet 4. pontjában foglalt táblázat F:4 mezője Gyula és térsége esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont f) alpont 11. pontjával megállapított szöveg.
+[^189]: Az 1. melléklet 4. pontjában foglalt táblázat C:5 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont d) alpont da) pontjával megállapított szöveg.
+[^190]: Az 1. melléklet 4. pontjában foglalt táblázat F:5 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont d) alpont db) pontjával megállapított szöveg.
+[^191]: Az 1. melléklet 4. pontjában foglalt táblázat C:6 mezője Szeged MJV esetében az 1274/2024. (IX. 12.) Korm. határozat 1. pont d) alpont dc) pontjával megállapított szöveg.
+[^192]: Az 1. melléklet 4. pontjában foglalt táblázat D:6 mezője Szeged MJV esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont f) alpont 12. pontjával megállapított szöveg.
+[^193]: Az 1. melléklet 4. pontjában foglalt táblázat E:6 mezője Szeged MJV esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont f) alpont 13. pontjával megállapított szöveg.
+[^194]: Az 1. melléklet 4. pontjában foglalt táblázat F:6 mezője Szeged MJV esetében az 1274/2024. (IX. 12.) Korm. határozat 1. pont d) alpont dd) pontjával megállapított szöveg.
+[^195]: Az 1. melléklet 4. pontjában foglalt táblázat D:6 mezője Hódmezővásárhely MJV esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont f) alpont 14. pontjával megállapított szöveg.
+[^196]: Az 1. melléklet 4. pontjában foglalt táblázat F:6 mezője Hódmezővásárhely MJV esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont f) alpont 15. pontjával megállapított szöveg.
+[^197]: Az 1. melléklet 4. pontjában foglalt táblázat D:6 mezője Szentes esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont f) alpont 16. pontjával megállapított szöveg.
+[^198]: Az 1. melléklet 4. pontjában foglalt táblázat F:6 mezője Szentes esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont f) alpont 17. pontjával megállapított szöveg.
+[^199]: Az 1. melléklet 4. pontjában foglalt táblázat D:7 mezője Dunaújváros MJV esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont f) alpont 18. pontjával megállapított szöveg.
+[^200]: Az 1. melléklet 4. pontjában foglalt táblázat E:7 mezője Dunaújváros MJV esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont f) alpont 19. pontjával megállapított szöveg.
+[^201]: Az 1. melléklet 4. pontjában foglalt táblázat C:8 mezője Győr MJV esetében az 1274/2024. (IX. 12.) Korm. határozat 1. pont d) alpont de) pontjával megállapított szöveg.
+[^202]: Az 1. melléklet 4. pontjában foglalt táblázat D:8 mezője Győr MJV esetében az 1274/2024. (IX. 12.) Korm. határozat 1. pont d) alpont df) pontjával megállapított szöveg.
+[^203]: Az 1. melléklet 4. pontjában foglalt táblázat E:8 mezője Győr MJV esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont f) alpont 20. pontjával megállapított szöveg.
+[^204]: Az 1. melléklet 4. pontjában foglalt táblázat F:8 mezője Győr MJV esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont f) alpont 21. pontjával megállapított szöveg.
+[^205]: Az 1. melléklet 4. pontjában foglalt táblázat C:8 mezője Mosonmagyaróvár esetében az 1274/2024. (IX. 12.) Korm. határozat 1. pont d) alpont dg) pontjával megállapított szöveg.
+[^206]: Az 1. melléklet 4. pontjában foglalt táblázat D:8 mezője Mosonmagyaróvár esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont f) alpont 22. pontjával megállapított szöveg.
+[^207]: Az 1. melléklet 4. pontjában foglalt táblázat E:8 mezője Mosonmagyaróvár esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont f) alpont 23. pontjával megállapított szöveg.
+[^208]: Az 1. melléklet 4. pontjában foglalt táblázat C:10 mezője Gyöngyös esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont f) alpont 24. pontjával megállapított szöveg.
+[^209]: Az 1. melléklet 4. pontjában foglalt táblázat E:10 mezője Gyöngyös esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont f) alpont 25. pontjával megállapított szöveg.
+[^210]: Az 1. melléklet 4. pontjában foglalt táblázat F:10 mezője Gyöngyös esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont f) alpont 26. pontjával megállapított szöveg.
+[^211]: Az 1. melléklet 4. pontjában foglalt táblázat D:10 mezője Hatvan esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont f) alpont 27. pontjával megállapított szöveg.
+[^212]: Az 1. melléklet 4. pontjában foglalt táblázat E:10 mezője Hatvan esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont f) alpont 28. pontjával megállapított szöveg.
+[^213]: Az 1. melléklet 4. pontjában foglalt táblázat C:11 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont d) alpont di) pontjával megállapított szöveg.
+[^214]: Az 1. melléklet 4. pontjában foglalt táblázat D:11 mezője Szolnok MJV és térsége esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont f) alpont 29. pontjával megállapított szöveg.
+[^215]: Az 1. melléklet 4. pontjában foglalt táblázat E:11 mezője Szolnok MJV és térsége esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont f) alpont 30. pontjával megállapított szöveg.
+[^216]: Az 1. melléklet 4. pontjában foglalt táblázat F:11 mezője Szolnok MJV és térsége esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont f) alpont 31. pontjával megállapított szöveg.
+[^217]: Az 1. melléklet 4. pontjában foglalt táblázat D:12 mezője Esztergom MJV esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont f) alpont 32. pontjával megállapított szöveg.
+[^218]: Az 1. melléklet 4. pontjában foglalt táblázat E:12 mezője Esztergom MJV esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont f) alpont 33. pontjával megállapított szöveg.
+[^219]: Az 1. melléklet 4. pontjában foglalt táblázat E:15 mezője Kaposvár MJV esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont f) alpont 34. pontjával megállapított szöveg.
+[^220]: Az 1. melléklet 4. pontjában foglalt táblázat F:15 mezője Kaposvár MJV esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont f) alpont 35. pontjával megállapított szöveg.
+[^221]: Az 1. melléklet 4. pontjában foglalt táblázat D:17 mezője Szekszárd MJV esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont f) alpont 36. pontjával megállapított szöveg.
+[^222]: Az 1. melléklet 4. pontjában foglalt táblázat E:17 mezője Szekszárd MJV esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont f) alpont 37. pontjával megállapított szöveg.
+[^223]: Az 1. melléklet 4. pontjában foglalt táblázat D:17 mezője Paks esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont f) alpont 38. pontjával megállapított szöveg.
+[^224]: Az 1. melléklet 4. pontjában foglalt táblázat E:17 mezője Paks esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont f) alpont 39. pontjával megállapított szöveg.
+[^225]: Az 1. melléklet 4. pontjában foglalt táblázat F:17 mezője Paks esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont f) alpont 40. pontjával megállapított szöveg.
+[^226]: Az 1. melléklet 4. pontjában foglalt táblázat C:17 mezője Dombóvár esetében az 1274/2024. (IX. 12.) Korm. határozat 1. pont d) alpont dk) pontjával megállapított szöveg.
+[^227]: Az 1. melléklet 4. pontjában foglalt táblázat D:17 mezője Dombóvár esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont f) alpont 41. pontjával megállapított szöveg.
+[^228]: Az 1. melléklet 4. pontjában foglalt táblázat E:17 mezője Dombóvár esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont f) alpont 42. pontjával megállapított szöveg.
+[^229]: Az 1. melléklet 4. pontjában foglalt táblázat F:17 mezője Dombóvár esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont f) alpont 43. pontjával megállapított szöveg.
+[^230]: Az 1. melléklet 4. pontjában foglalt táblázat D:17 mezője Bonyhád esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont f) alpont 44. pontjával megállapított szöveg.
+[^231]: Az 1. melléklet 4. pontjában foglalt táblázat E:17 mezője Bonyhád esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont f) alpont 45. pontjával megállapított szöveg.
+[^232]: Az 1. melléklet 4. pontjában foglalt táblázat F:17 mezője Bonyhád esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont f) alpont 46. pontjával megállapított szöveg.
+[^233]: Az 1. melléklet 4. pontjában foglalt táblázat D:18 mezője Szombathely MJV esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont f) alpont 47. pontjával megállapított szöveg.
+[^234]: Az 1. melléklet 4. pontjában foglalt táblázat E:18 mezője Szombathely MJV esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont f) alpont 48. pontjával megállapított szöveg.
+[^235]: Az 1. melléklet 4. pontjában foglalt táblázat D:20 mezője Zalaegerszeg MJV esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont f) alpont 49. pontjával megállapított szöveg.
+[^236]: Az 1. melléklet 4. pontjában foglalt táblázat E:20 mezője Zalaegerszeg MJV esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont f) alpont 50. pontjával megállapított szöveg.
+[^237]: Az 1. melléklet 4. pontjában foglalt táblázat F:20 mezője Zalaegerszeg MJV esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont f) alpont 51. pontjával megállapított szöveg.
+[^238]: Az 1. melléklet 4. pontjában foglalt táblázat D:20 mezője Lenti esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont f) alpont 52. pontjával megállapított szöveg.
+[^239]: Az 1. melléklet 4. pontjában foglalt táblázat E:20 mezője Lenti esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont f) alpont 53. pontjával megállapított szöveg.
+[^240]: Az 1. melléklet 5. pontjában foglalt táblázat C:2 mezője Kecskemét MJV esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont g) alpont 1. pontjával megállapított szöveg.
+[^241]: Az 1. melléklet 5. pontjában foglalt táblázat F:2 mezője Kecskemét MJV esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont g) alpont 2. pontjával megállapított szöveg.
+[^242]: Az 1. melléklet 5. pontjában foglalt táblázat G:2 mezője Kecskemét MJV esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont g) alpont 3. pontjával megállapított szöveg.
+[^243]: Az 1. melléklet 5. pontjában foglalt táblázat C:3 mezője Komló esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont g) alpont 4. pontjával megállapított szöveg.
+[^244]: Az 1. melléklet 5. pontjában foglalt táblázat F:3 mezője Komló esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont g) alpont 5. pontjával megállapított szöveg.
+[^245]: Az 1. melléklet 5. pontjában foglalt táblázat G:3 mezője Komló esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont g) alpont 6. pontjával megállapított szöveg.
+[^246]: Az 1. melléklet 5. pontjában foglalt táblázat C:3 mezője Mohács esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont g) alpont 7. pontjával megállapított szöveg.
+[^247]: Az 1. melléklet 5. pontjában foglalt táblázat D:3 mezője Mohács esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont g) alpont 8. pontjával megállapított szöveg.
+[^248]: Az 1. melléklet 5. pontjában foglalt táblázat F:3 mezője Mohács esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont g) alpont 9. pontjával megállapított szöveg.
+[^249]: Az 1. melléklet 5. pontjában foglalt táblázat F:4 mezője Békéscsaba MJV és térsége esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont g) alpont 10. pontjával megállapított szöveg.
+[^250]: Az 1. melléklet 5. pontjában foglalt táblázat F:4 mezője Gyula és térsége esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont g) alpont 11. pontjával megállapított szöveg.
+[^251]: Az 1. melléklet 5. pontjában foglalt táblázat C:5 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont e) alpont ea) pontjával megállapított szöveg.
+[^252]: Az 1. melléklet 5. pontjában foglalt táblázat F:5 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont e) alpont eb) pontjával megállapított szöveg.
+[^253]: Az 1. melléklet 5. pontjában foglalt táblázat G:5 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont e) alpont ec) pontjával megállapított szöveg.
+[^254]: Az 1. melléklet 5. pontjában foglalt táblázat C:6 mezője Szeged MJV esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont g) alpont 12. pontjával megállapított szöveg.
+[^255]: Az 1. melléklet 5. pontjában foglalt táblázat D:6 mezője Szeged MJV esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont g) alpont 13. pontjával megállapított szöveg.
+[^256]: Az 1. melléklet 5. pontjában foglalt táblázat F:6 mezője Szeged MJV esetében az 1274/2024. (IX. 12.) Korm. határozat 1. pont e) alpont ed) pontjával megállapított szöveg.
+[^257]: Az 1. melléklet 5. pontjában foglalt táblázat C:6 mezője Hódmezővásárhely MJV esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont g) alpont 14. pontjával megállapított szöveg.
+[^258]: Az 1. melléklet 5. pontjában foglalt táblázat F:6 mezője Hódmezővásárhely MJV esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont g) alpont 15. pontjával megállapított szöveg.
+[^259]: Az 1. melléklet 5. pontjában foglalt táblázat C:6 mezője Szentes esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont g) alpont 16. pontjával megállapított szöveg.
+[^260]: Az 1. melléklet 5. pontjában foglalt táblázat F:6 mezője Szentes esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont g) alpont 17. pontjával megállapított szöveg.
+[^261]: Az 1. melléklet 5. pontjában foglalt táblázat C:7 mezője Dunaújváros MJV esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont g) alpont 18. pontjával megállapított szöveg.
+[^262]: Az 1. melléklet 5. pontjában foglalt táblázat D:7 mezője Dunaújváros MJV esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont g) alpont 19. pontjával megállapított szöveg.
+[^263]: Az 1. melléklet 5. pontjában foglalt táblázat D:8 mezője Győr MJV esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont g) alpont 20. pontjával megállapított szöveg.
+[^264]: Az 1. melléklet 5. pontjában foglalt táblázat F:8 mezője Győr MJV esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont g) alpont 21. pontjával megállapított szöveg.
+[^265]: Az 1. melléklet 5. pontjában foglalt táblázat G:8 mezője Győr MJV esetében az 1274/2024. (IX. 12.) Korm. határozat 1. pont e) pont ee) alpontjával megállapított szöveg.
+[^266]: Az 1. melléklet 5. pontjában foglalt táblázat C:8 mezője Mosonmagyaróvár esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont g) alpont 22. pontjával megállapított szöveg.
+[^267]: Az 1. melléklet 5. pontjában foglalt táblázat D:8 mezője Mosonmagyaróvár esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont g) alpont 23. pontjával megállapított szöveg.
+[^268]: Az 1. melléklet 5. pontjában foglalt táblázat G:8 mezője Mosonmagyaróvár esetében az 1274/2024. (IX. 12.) Korm. határozat 1. pont e) alpont ef) pontjával megállapított szöveg.
+[^269]: Az 1. melléklet 5. pontjában foglalt táblázat C:9 mezője Debrecen MJV esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont g) alpont 24. pontjával megállapított szöveg.
+[^270]: Az 1. melléklet 5. pontjában foglalt táblázat G:9 mezője Debrecen MJV esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont g) alpont 25. pontjával megállapított szöveg.
+[^271]: Az 1. melléklet 5. pontjában foglalt táblázat D:10 mezője Gyöngyös esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont g) alpont 26. pontjával megállapított szöveg.
+[^272]: Az 1. melléklet 5. pontjában foglalt táblázat F:10 mezője Gyöngyös esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont g) alpont 27. pontjával megállapított szöveg.
+[^273]: Az 1. melléklet 5. pontjában foglalt táblázat D:10 mezője Hatvan esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont g) alpont 28. pontjával megállapított szöveg.
+[^274]: Az 1. melléklet 5. pontjában foglalt táblázat G:10 mezője Hatvan esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont g) alpont 29. pontjával megállapított szöveg.
+[^275]: Az 1. melléklet 5. pontjában foglalt táblázat C:11 mezője Szolnok MJV és térsége esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont g) alpont 30. pontjával megállapított szöveg.
+[^276]: Az 1. melléklet 5. pontjában foglalt táblázat D:11 mezője Szolnok MJV és térsége esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont g) alpont 31. pontjával megállapított szöveg.
+[^277]: Az 1. melléklet 5. pontjában foglalt táblázat F:11 mezője Szolnok MJV és térsége esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont g) alpont 32. pontjával megállapított szöveg.
+[^278]: Az 1. melléklet 5. pontjában foglalt táblázat C:12 mezője Esztergom MJV esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont g) alpont 33. pontjával megállapított szöveg.
+[^279]: Az 1. melléklet 5. pontjában foglalt táblázat D:12 mezője Esztergom MJV esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont g) alpont 34. pontjával megállapított szöveg.
+[^280]: Az 1. melléklet 5. pontjában foglalt táblázat G:12 mezője Esztergom MJV esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont g) alpont 35. pontjával megállapított szöveg.
+[^281]: Az 1. melléklet 5. pontjában foglalt táblázat D:15 mezője Kaposvár MJV esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont g) alpont 36. pontjával megállapított szöveg.
+[^282]: Az 1. melléklet 5. pontjában foglalt táblázat F:15 mezője Kaposvár MJV esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont g) alpont 37. pontjával megállapított szöveg.
+[^283]: Az 1. melléklet 5. pontjában foglalt táblázat C:17 mezője Szekszárd MJV esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont g) alpont 38. pontjával megállapított szöveg.
+[^284]: Az 1. melléklet 5. pontjában foglalt táblázat D:17 mezője Szekszárd MJV esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont g) alpont 39. pontjával megállapított szöveg.
+[^285]: Az 1. melléklet 5. pontjában foglalt táblázat C:17 mezője Paks esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont g) alpont 40. pontjával megállapított szöveg.
+[^286]: Az 1. melléklet 5. pontjában foglalt táblázat D:17 mezője Paks esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont g) alpont 41. pontjával megállapított szöveg.
+[^287]: Az 1. melléklet 5. pontjában foglalt táblázat F:17 mezője Paks esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont g) alpont 42. pontjával megállapított szöveg.
+[^288]: Az 1. melléklet 5. pontjában foglalt táblázat C:17 mezője Dombóvár esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont g) alpont 43. pontjával megállapított szöveg.
+[^289]: Az 1. melléklet 5. pontjában foglalt táblázat D:17 mezője Dombóvár esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont g) alpont 44. pontjával megállapított szöveg.
+[^290]: Az 1. melléklet 5. pontjában foglalt táblázat F:17 mezője Dombóvár esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont g) alpont 45. pontjával megállapított szöveg.
+[^291]: Az 1. melléklet 5. pontjában foglalt táblázat C:17 mezője Bonyhád esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont g) alpont 46. pontjával megállapított szöveg.
+[^292]: Az 1. melléklet 5. pontjában foglalt táblázat D:17 mezője Bonyhád esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont g) alpont 47. pontjával megállapított szöveg.
+[^293]: Az 1. melléklet 5. pontjában foglalt táblázat F:17 mezője Bonyhád esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont g) alpont 48. pontjával megállapított szöveg.
+[^294]: Az 1. melléklet 5. pontjában foglalt táblázat C:18 mezője Szombathely MJV esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont g) alpont 49. pontjával megállapított szöveg.
+[^295]: Az 1. melléklet 5. pontjában foglalt táblázat D:18 mezője Szombathely MJV esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont g) alpont 50. pontjával megállapított szöveg.
+[^296]: Az 1. melléklet 5. pontjában foglalt táblázat C:20 mezője Zalaegerszeg MJV esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont g) alpont 51. pontjával megállapított szöveg.
+[^297]: Az 1. melléklet 5. pontjában foglalt táblázat D:20 mezője Zalaegerszeg MJV esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont g) alpont 52. pontjával megállapított szöveg.
+[^298]: Az 1. melléklet 5. pontjában foglalt táblázat F:20 mezője Zalaegerszeg MJV esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont g) alpont 53. pontjával megállapított szöveg.
+[^299]: Az 1. melléklet 5. pontjában foglalt táblázat G:20 mezője Zalaegerszeg MJV esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont g) alpont 54. pontjával megállapított szöveg.
+[^300]: Az 1. melléklet 5. pontjában foglalt táblázat C:20 mezője Keszthely esetében az 1274/2024. (IX. 12.) Korm. határozat 1. pont e) alpont eo) pontjával megállapított szöveg.
+[^301]: Az 1. melléklet 5. pontjában foglalt táblázat G:20 mezője Keszthely esetében az 1274/2024. (IX. 12.) Korm. határozat 1. pont e) alpont ep) pontjával megállapított szöveg.
+[^302]: Az 1. melléklet 5. pontjában foglalt táblázat C:20 mezője Lenti esetében az 1274/2024. (IX. 12.) Korm. határozat 1. pont e) alpont eq) pontjával megállapított szöveg.
+[^303]: Az 1. melléklet 5. pontjában foglalt táblázat D:20 mezője Lenti esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont g) alpont 55. pontjával megállapított szöveg.
+[^304]: Az 1. melléklet 5. pontjában foglalt táblázat G:20 mezője Lenti esetében az 1044/2025. (III. 5.) Korm. határozat 1. pont g) alpont 56. pontjával megállapított szöveg.
+[^305]: Az 1. melléklet 6. pontját az 1274/2024. (IX. 12.) Korm. határozat 2. pontja iktatta be.
