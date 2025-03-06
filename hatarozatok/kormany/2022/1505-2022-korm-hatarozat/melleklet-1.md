@@ -92,7 +92,7 @@
 
 ## 22.[^16] A szakértői csoport vezetője a feladat- és hatáskör szerinti első helyen felelős miniszter vagy központi államigazgatási szerv vezetője által kijelölt politikai felsővezető, szakmai felsővezető vagy felhatalmazással bíró vezető beosztású kormánytisztviselő. Ha a szakértői csoport több miniszter feladat- és hatáskörét érinti, és vezetését illetően vita alakul ki, a szakértői csoportot vezető személyt kijelölő miniszterre az EKTB tesz javaslatot.
 
-## 23. A szakértői csoport tagjai a feladat- és hatáskör szerint érintett központi államigazgatási szervek kijelölt tisztségviselői, továbbá minden esetben az európai uniós ügyek koordinációjáért felelős miniszter és az államháztartásért felelős miniszter által vezetett minisztérium kijelölt kormánytisztviselője és az Állandó Képviselet kijelölt diplomatája. A szakértői csoport vezetője engedélyezheti más központi államigazgatási vagy rendvédelmi szerv képviselőinek részvételét is a szakértői csoport munkájában.
+## 23.[^17] A szakértői csoport tagjai a feladat- és hatáskör szerint érintett központi államigazgatási szervek kijelölt tisztségviselői, továbbá minden esetben az európai uniós ügyek koordinációjáért felelős miniszter és az államháztartásért felelős miniszter által vezetett minisztérium kijelölt kormánytisztviselője és az Állandó Képviselet kijelölt diplomatája. A szakértői csoport vezetője engedélyezheti más központi államigazgatási szerv képviselőinek részvételét is a szakértői csoport munkájában.
 
 ## 24. A szakértői csoport vezetőjének feladata:
 
@@ -136,7 +136,7 @@
 
 ## 35. Az uniós döntéshozatalban képviselendő tárgyalási álláspontot a szakértői csoport vezetője egyeztetés céljából, határidő megjelölésével megküldi a szakértői csoport tagjainak. A határidőt úgy kell megállapítani, hogy az észrevételezésre megfelelő idő álljon rendelkezésre.
 
-## 36.[^17] A tárgyalási álláspont részletes tartalmi és formai követelményeit az EKTB ügyrendje határozza meg, azzal, hogy a tárgyalási álláspontnak tartalmaznia kell
+## 36.[^18] A tárgyalási álláspont részletes tartalmi és formai követelményeit az EKTB ügyrendje határozza meg, azzal, hogy a tárgyalási álláspontnak tartalmaznia kell
 
 ## a) az uniós kezdeményezés rövid ismertetését és a tárgyalások tervezett menetének összefoglalását, beleértve annak a Tanács soros elnöksége általi tervezését,
 
@@ -158,11 +158,11 @@
 
 ## 39. A tárgykör szerint felelős EKTB-tag az EKTB ügyrendjében meghatározott módon gondoskodik az új uniós jogi aktusok tervezeteinek vizsgálatáról azok jogalapja, továbbá a hatáskör-átruházás, a szubszidiaritás és az arányosság elveinek érvényesülése tekintetében, legkésőbb a tervezet magyar nyelvű változatának megjelenését követő egy héten belül.
 
-## 40.[^18] Az egyéb tanácsi döntés-előkészítő bizottságok ülésén képviselendő tárgyalási álláspont kialakítása érdekében a szakértői csoport egyeztetést folytat. Az egyéb tanácsi döntés-előkészítő bizottságok ülésén képviselendő tárgyalásiálláspont-javaslatot a szakértői csoportra irányadó egyeztetési rendnek megfelelően az adott bizottság munkájában a miniszterek által kijelölt szakmai felsővezetők vagy szakmai vezetők bevonásával, az e határozatban foglaltak szerint kell előkészíteni. A tárgyalásiálláspont-javaslatot az EKTB elnökének minden esetben meg kell küldeni egyeztetésre. A feladat- és hatáskörrel rendelkező minisztérium EKTB tagja a tárgyalási álláspont-javaslatról, illetve annak képviseletéről az EKTB-t tájékoztatni köteles.
+## 40.[^19] Az egyéb tanácsi döntés-előkészítő bizottságok ülésén képviselendő tárgyalási álláspont kialakítása érdekében a szakértői csoport egyeztetést folytat. Az egyéb tanácsi döntés-előkészítő bizottságok ülésén képviselendő tárgyalásiálláspont-javaslatot a szakértői csoportra irányadó egyeztetési rendnek megfelelően az adott bizottság munkájában a miniszterek által kijelölt szakmai felsővezetők vagy szakmai vezetők bevonásával, az e határozatban foglaltak szerint kell előkészíteni. A tárgyalásiálláspont-javaslatot az EKTB elnökének minden esetben meg kell küldeni egyeztetésre. A feladat- és hatáskörrel rendelkező minisztérium EKTB tagja a tárgyalási álláspont-javaslatról, illetve annak képviseletéről az EKTB-t tájékoztatni köteles.
 
-## 41.[^19] A közös kül- és biztonságpolitikai, valamint a közös biztonság- és védelempolitikai kérdésekben a tárgyalási álláspontot – a Kormány fenntartott hatáskörének sérelme nélkül – a külpolitikáért felelős miniszter az érintett miniszterekkel és érintettsége esetén a miniszterelnök nemzetbiztonsági főtanácsadójával egyeztetve javasolja, és gondoskodik annak képviseletéről. A külpolitikáért felelős miniszter képviselője – szükség esetén az érintett minisztériumokkal és érintettsége esetén a miniszterelnök nemzetbiztonsági főtanácsadójával egyeztetve – az EKTB-t előzetesen tájékoztatja a tárgyalásiálláspont-javaslatról, amennyiben azt a vonatkozó titoktartási szabályok lehetővé teszik.
+## 41.[^20] A közös kül- és biztonságpolitikai, valamint a közös biztonság- és védelempolitikai kérdésekben a tárgyalási álláspontot – a Kormány fenntartott hatáskörének sérelme nélkül – a külpolitikáért felelős miniszter az érintett miniszterekkel és érintettsége esetén a miniszterelnök nemzetbiztonsági főtanácsadójával egyeztetve javasolja, és gondoskodik annak képviseletéről. A külpolitikáért felelős miniszter képviselője – szükség esetén az érintett minisztériumokkal és érintettsége esetén a miniszterelnök nemzetbiztonsági főtanácsadójával egyeztetve – az EKTB-t előzetesen tájékoztatja a tárgyalásiálláspont-javaslatról, amennyiben azt a vonatkozó titoktartási szabályok lehetővé teszik.
 
-## 42.[^20] Az EKTB elnöke vagy az Állandó Képviselő – különösen indokolt esetben – a feladat- és hatáskör szerint érintett miniszter egyidejű tájékoztatása és soron kívüli egyeztetés kezdeményezése mellett a tárgyalási álláspont végrehajtását (képviseletét) felfüggesztheti.
+## 42.[^21] Az EKTB elnöke vagy az Állandó Képviselő – különösen indokolt esetben – a feladat- és hatáskör szerint érintett miniszter egyidejű tájékoztatása és soron kívüli egyeztetés kezdeményezése mellett a tárgyalási álláspont végrehajtását (képviseletét) felfüggesztheti.
 
 ## V. A tárgyalási álláspont képviselete
 
@@ -174,7 +174,7 @@
 
 ## továbbítja.
 
-## 44.[^21] Amennyiben az Európai Unió intézményeitől az uniós tagsággal, különösen az uniós tagságból fakadó kötelezettségekkel összefüggő bármilyen dokumentum vagy megkeresés érkezik közvetlenül valamelyik központi államigazgatási szervhez, azt adott központi államigazgatási szerv továbbítja az európai uniós ügyek koordinációjáért felelős miniszter által vezetett minisztérium részére. Az Európai Unió intézményei részére főszabályként valamennyi dokumentum, válasz vagy megkeresés megküldése az európai uniós ügyek koordinációjáért felelős miniszter által vezetett minisztérium Európa-politikáért Felelős Helyettes Államtitkárságán keresztül történik. A közös kül- és biztonságpolitikát, valamint a közös biztonság- és védelempolitikát érintő dokumentumokat a megfelelő szakértői egyeztetést követően a külpolitikáért felelős miniszter – érintettsége esetén a miniszterelnök nemzetbiztonsági főtanácsadójával egyeztetve – továbbítja a megkereső uniós intézmény felé, az Állandó Képviselet és az európai uniós ügyek koordinációjáért felelős miniszter egyidejű tájékoztatása mellett.
+## 44.[^22] Amennyiben az Európai Unió intézményeitől az uniós tagsággal, különösen az uniós tagságból fakadó kötelezettségekkel összefüggő bármilyen dokumentum vagy megkeresés érkezik közvetlenül valamelyik központi államigazgatási szervhez, azt adott központi államigazgatási szerv továbbítja az európai uniós ügyek koordinációjáért felelős miniszter által vezetett minisztérium részére. Az Európai Unió intézményei részére főszabályként valamennyi dokumentum, válasz vagy megkeresés megküldése az európai uniós ügyek koordinációjáért felelős miniszter által vezetett minisztérium Európa-politikáért Felelős Helyettes Államtitkárságán keresztül történik. A közös kül- és biztonságpolitikát, valamint a közös biztonság- és védelempolitikát érintő dokumentumokat a megfelelő szakértői egyeztetést követően a külpolitikáért felelős miniszter – érintettsége esetén a miniszterelnök nemzetbiztonsági főtanácsadójával egyeztetve – továbbítja a megkereső uniós intézmény felé, az Állandó Képviselet és az európai uniós ügyek koordinációjáért felelős miniszter egyidejű tájékoztatása mellett.
 
 ## 45. A Tanács ülésén a Kormányt az elfogadott tárgyalási álláspontban foglaltaknak megfelelően az 1. mellékletben meghatározott felelősségi rend szerint felelős miniszter, illetve távolléte vagy akadályoztatása esetén a miniszter által kijelölt államtitkár képviseli.
 
@@ -198,7 +198,7 @@
 
 ## 52. A tanácsi munkacsoportban részt vevő tisztviselő a tanácsi munkacsoport ülését követő második munkanap végéig írásos jelentést készít, amelyet tájékoztatásul megküld a szakértői csoport vezetőjének és tagjainak, a feladat- és hatáskörrel rendelkező EKTB-tagnak és az EKTB Titkárságnak. Amennyiben ez nem lehetséges, gyorsjelentést kell készíteni. A tanácsi munkacsoportban részt vevő tisztviselő a jelentésben – szükség szerint – javaslatot tesz a korábbi álláspont módosítására és a szükséges hazai intézkedésekre.
 
-## 53.[^22] A közös kül- és biztonságpolitikai, valamint a közös biztonság- és védelempolitikai kérdésekben a tárgyalási álláspontot a külpolitikáért felelős miniszter által vezetett minisztérium közös kül-, biztonság- és védelempolitikai kérdésekben feladat- és hatáskörrel rendelkező helyettes államtitkára – érintettsége esetén a miniszterelnök nemzetbiztonsági főtanácsadójával folytatott egyeztetést követően – küldi meg az Állandó Képviselet és az európai uniós ügyek koordinációjáért felelős miniszter által vezetett minisztérium részére, és gondoskodik azok nyilvántartásáról.
+## 53.[^23] A közös kül- és biztonságpolitikai, valamint a közös biztonság- és védelempolitikai kérdésekben a tárgyalási álláspontot a külpolitikáért felelős miniszter által vezetett minisztérium közös kül-, biztonság- és védelempolitikai kérdésekben feladat- és hatáskörrel rendelkező helyettes államtitkára – érintettsége esetén a miniszterelnök nemzetbiztonsági főtanácsadójával folytatott egyeztetést követően – küldi meg az Állandó Képviselet és az európai uniós ügyek koordinációjáért felelős miniszter által vezetett minisztérium részére, és gondoskodik azok nyilvántartásáról.
 
 ## 54. Az Európai Tanács ülésén történő részvétel előkészítése, beleértve a szükséges egyeztetéseket és a tárgyalásiálláspont-javaslatok kialakítását, a miniszterelnök által meghatározott felelősségi rend szerint történik.
 
@@ -220,9 +220,9 @@
 
 ## 61. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 62.[^23]
+## 62.[^24]
 
-1. melléklet az 1505/2022. (X. 20.) Korm. határozathoz[^24]
+1. melléklet az 1505/2022. (X. 20.) Korm. határozathoz[^25]
 
 A Tanács formációi előkészítésének kormányzati felelősségi rendje
 
@@ -350,11 +350,12 @@ A Tanács formációi előkészítésének kormányzati felelősségi rendje
 [^14]: A 17. pont az 1072/2024. (III. 21.) Korm. határozat 7. pontjával megállapított szöveg.
 [^15]: A 18. pont az 1072/2024. (III. 21.) Korm. határozat 8. pontjával megállapított szöveg.
 [^16]: A 22. pont az 1072/2024. (III. 21.) Korm. határozat 9. pontjával megállapított szöveg.
-[^17]: A 36. pont az 1072/2024. (III. 21.) Korm. határozat 10. pontjával megállapított szöveg.
-[^18]: A 40. pont az 1072/2024. (III. 21.) Korm. határozat 11. pontjával megállapított szöveg.
-[^19]: A 41. pont az 1258/2024. (VIII. 22.) Korm. határozat 3. pontjával megállapított szöveg.
-[^20]: A 42. pont az 1072/2024. (III. 21.) Korm. határozat 12. pontjával megállapított szöveg.
-[^21]: A 44. pont az 1258/2024. (VIII. 22.) Korm. határozat 4. pontjával megállapított szöveg.
-[^22]: Az 53. pont az 1258/2024. (VIII. 22.) Korm. határozat 5. pontjával megállapított szöveg.
-[^23]: A 62. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^24]: Az 1. melléklet az 1258/2024. (VIII. 22.) Korm. határozat 7. pontjával megállapított szöveg.
+[^17]: A 23. pont az 1041/2025. (III. 5.) Korm. határozat 6. pontja szerint módosított szöveg.
+[^18]: A 36. pont az 1072/2024. (III. 21.) Korm. határozat 10. pontjával megállapított szöveg.
+[^19]: A 40. pont az 1072/2024. (III. 21.) Korm. határozat 11. pontjával megállapított szöveg.
+[^20]: A 41. pont az 1258/2024. (VIII. 22.) Korm. határozat 3. pontjával megállapított szöveg.
+[^21]: A 42. pont az 1072/2024. (III. 21.) Korm. határozat 12. pontjával megállapított szöveg.
+[^22]: A 44. pont az 1258/2024. (VIII. 22.) Korm. határozat 4. pontjával megállapított szöveg.
+[^23]: Az 53. pont az 1258/2024. (VIII. 22.) Korm. határozat 5. pontjával megállapított szöveg.
+[^24]: A 62. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: Az 1. melléklet az 1258/2024. (VIII. 22.) Korm. határozat 7. pontjával megállapított szöveg.
