@@ -1,1 +1,0 @@
-3. § A 2. § (1) és (2) bekezdése szerinti szerv vagy gazdasági társaság (a továbbiakban együtt: védelemre kötelezett) köteles – saját költsége terhére – a 4. § (4) bekezdése szerinti pilótanélküli légijármű-védelmi rendszert beszerezni, telepíteni, karbantartani és folyamatosan üzemeltetni.

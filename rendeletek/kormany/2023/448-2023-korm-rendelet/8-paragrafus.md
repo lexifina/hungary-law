@@ -1,1 +1,0 @@
-8. § Felhatalmazást kap a honvédelemért felelős miniszter, hogy a pilótanélküli légijármű-védelmi rendszer biztosítása érdekében a 2. § (1) bekezdés a) pontja szerinti szerveket, illetve a 2. § (1) bekezdés b) pontja szerinti gazdasági társaságokat rendeletben kijelölje.
