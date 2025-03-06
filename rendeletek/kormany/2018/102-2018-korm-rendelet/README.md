@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-102-20-
 | 2020-09-11 | 2018-102-20-22.2 | 427/2020. (IX. 10.) Korm. rendelet |
 | 2020-12-19 | 2018-102-20-22.3 | 614/2020. (XII. 18.) Korm. rendelet |
 | 2021-05-07 | 2018-102-20-22.4 | 239/2021. (V. 6.) Korm. rendelet |
+| 2025-03-06 | 2018-102-20-22.5 | 32/2025. (III. 5.) Korm. rendelet |

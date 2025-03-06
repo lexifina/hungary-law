@@ -1,7 +1,3 @@
-## 1. §[^1] A Modern Települések Fejlesztéséért felelős kormánybiztos irányítja a Miniszterelnökség
+1. §[^1] A Modern Települések Fejlesztéséért felelős kormánybiztos irányítja az Agrárminisztérium települési fejlesztések koordinációjáért felelős helyettes államtitkárának tevékenységét.
 
-a) települési fejlesztések koordinációjáért felelős helyettes államtitkárának és
-
-b) Településhálózati Koordinációs Főosztálya vezetőjének
-
-[^1]: Az 1. § a 239/2021. (V. 6.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^1]: Az 1. § a 32/2025. (III. 5.) Korm. rendelet 2. §-ával megállapított szöveg.
