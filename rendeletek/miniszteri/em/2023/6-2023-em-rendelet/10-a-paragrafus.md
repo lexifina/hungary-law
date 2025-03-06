@@ -1,4 +1,4 @@
-10/A. §[^5] (1) Dr. Öllős Géza-díj a víziközmű-ágazat, víziközmű-szolgáltatás érdekében végzett kimagasló tevékenységért, továbbá a szakterületen végzett életmű elismeréseként adományozható természetes személyek és szervezetek részére.
+10/A. §[^11] (1) Dr. Öllős Géza-díj a víziközmű-ágazat, víziközmű-szolgáltatás érdekében végzett kimagasló tevékenységért, továbbá a szakterületen végzett életmű elismeréseként adományozható természetes személyek és szervezetek részére.
 
 (2) Évente legfeljebb 2 díj adományozható.
 
@@ -8,4 +8,4 @@
 
 (5) A díj adományozására a június 12-i Víziközművek Napja alkalmából kerülhet sor.
 
-[^5]: A 10/A. §-t a 2/2024. (III. 5.) EM rendelet 4. §-a iktatta be.
+[^11]: A 10/A. §-t a 2/2024. (III. 5.) EM rendelet 4. §-a iktatta be.
