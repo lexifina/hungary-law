@@ -1,1 +1,0 @@
-4. § Ez a rendelet a 2005/36/EK irányelvnek a Romániában képzett általános ápolók szakmai képesítéseinek elismerése tekintetében történő módosításáról szóló, 2024. február 7-i (EU) 2024/505 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
