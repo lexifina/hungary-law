@@ -10,6 +10,6 @@
 
 ## az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § Az építési és közlekedési miniszter tulajdonosi joggyakorlása alatt álló gazdasági társaságokhoz kapcsolódó szolgáltatási feladatok ellátásáról szóló 562/2023. (XII. 14.) Korm. rendelet 1. §-a a következő (4) bekezdéssel egészül ki:
+1. §[^2]
 
-„(4) Ha az Építési és Közlekedési Minisztérium a (3) bekezdés a) pontja szerinti valamely szolgáltatás esetében a központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló 341/2024. (XI. 14.) Korm. rendelet 12. § (1) bekezdése szerinti egyedi kérelemre kiadott felmentés alapján felmentésre kerül a központi szolgáltató kötelező igénybevétele alól, a felmentéssel érintett szolgáltatást a MÁV Szolgáltató Központ Zártkörűen Működő Részvénytársaság nyújtja a részére.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
