@@ -1,1 +1,3 @@
-56. § Hatályát veszti a 4. § (4) bekezdésében az „ , a tervellenőr” szövegrész.
+56. §[^2]
+
+[^2]: Az 56. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
