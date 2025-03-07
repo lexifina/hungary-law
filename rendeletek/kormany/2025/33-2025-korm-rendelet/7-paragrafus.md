@@ -1,1 +1,3 @@
-7. § Hatályát veszti a pilótanélküli légijármű-védelem veszélyhelyzeti intézkedéseiről szóló 448/2023. (X. 3.) Korm. rendelet.
+7. §[^2]
+
+[^2]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
