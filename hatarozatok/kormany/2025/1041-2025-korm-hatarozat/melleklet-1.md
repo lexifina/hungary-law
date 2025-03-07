@@ -1,43 +1,23 @@
-## 1. A Nemzeti Bűnmegelőzési Tanácsról szóló 1087/2011. (IV. 12.) Korm. határozat
+## 1.[^2]
 
-## a) 2. pont f) alpontjában a „szervek bűnmegelőzéssel” szövegrész helyébe a „szervek és a polgári nemzetbiztonsági szolgálatok bűnmegelőzéssel” szöveg,
+## 2.[^3]
 
-## b) 2. pont h) alpontjában a „szervek, illetve” szövegrész helyébe a „szervek, a polgári nemzetbiztonsági szolgálatok, illetve” szöveg
+## 3.[^4]
 
-## lép.
+## 4.[^5]
 
-## 2. A terrorizmus elleni küzdelem feladatainak egységes végrehajtási rendjéről szóló 1824/2015. (XI. 19.) Korm. határozat 19. pontjában a „szervek által” szövegrész helyébe a „szervek és a polgári nemzetbiztonsági szolgálatok által” szöveg lép.
+## 5.[^6]
 
-## 3. A nemzetbiztonsági védelem alá eső szervek és létesítmények köréről szóló 2009/2015. (XII. 29.) Korm. határozat 1. melléklete az 1. melléklet szerint módosul.
-
-## 4. Hatályát veszti a nemzetbiztonsági védelem alá eső szervek és létesítmények köréről szóló 2009/2015. (XII. 29.) Korm. határozat
-
-## a) 1. melléklet 1. pont 1.31. alpontja,
-
-## b) 1. melléklet 1. pont 1.54. alpontja,
-
-## c) 1. melléklet 1. pont 1.64. alpontja,
-
-## d) 1. melléklet 2. pont 2.25. alpontja,
-
-## e) 1. melléklet 2. pont 2.51. alpontja.
-
-## 5. A Kormány ügyrendjéről szóló 1352/2022. (VII. 21.) Korm. határozat 82. pont b) alpontjában a „Katonai Nemzetbiztonsági Szolgálat” szövegrész helyébe a „nemzetbiztonsági szolgálat” szöveg lép.
-
-## 6. Az Európai Unió döntéshozatali tevékenységében való kormányzati részvétel összehangolásáról és az Európai Koordinációs Tárcaközi Bizottságról szóló 1505/2022. (X. 20.) Korm. határozat 23. pontjában az „államigazgatási vagy rendvédelmi szerv képviselőinek” szövegrész helyébe az „államigazgatási szerv képviselőinek” szöveg lép.
+## 6.[^7]
 
 ## 7. Ez a határozat a közzétételét követő napon lép hatályba.
 
-1. melléklet az 1041/2025. (III. 5.) Korm. határozathoz
+1. melléklet az 1041/2025. (III. 5.) Korm. határozathoz[^8]
 
-1. A nemzetbiztonsági védelem alá eső szervek és létesítmények köréről szóló 2009/2015. (XII. 29.) Korm. határozat 1. melléklet 1. pont 1.52. alpontja helyébe a következő alpont lép:
-
-„1.52. Országos Kórházi Főigazgatóság,”
-
-2. A nemzetbiztonsági védelem alá eső szervek és létesítmények köréről szóló 2009/2015. (XII. 29.) Korm. határozat 1. melléklet 1. pont 1.55. alpontja helyébe a következő alpont lép:
-
-„1.55. Nemzeti Népegészségügyi és Gyógyszerészeti Központ,”
-
-3. A nemzetbiztonsági védelem alá eső szervek és létesítmények köréről szóló 2009/2015. (XII. 29.) Korm. határozat 1. melléklet 2. pont 2.21. alpontja helyébe a következő alpont lép:
-
-„2.21. MKIFK Magyar Közlönykiadó és Igazságügyi Fordítóközpont Zártkörűen Működő Részvénytársaság,”
+[^2]: Az 1. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 6. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
