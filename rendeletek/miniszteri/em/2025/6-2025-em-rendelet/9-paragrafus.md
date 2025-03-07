@@ -1,1 +1,3 @@
-9. § Az energiaügyi miniszter által adományozható elismerésekről szóló 6/2023. (V. 3.) EM rendelet 19. § (2) bekezdésében a „235” szövegrész helyébe a „250” szöveg lép.
+9. §[^10]
+
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
