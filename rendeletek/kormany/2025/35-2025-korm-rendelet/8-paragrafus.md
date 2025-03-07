@@ -1,1 +1,3 @@
-8. § Hatályát veszti az iparfejlesztési feladatok megvalósítását szolgáló költségvetési támogatás nyújtásának veszélyhelyzeti szabályairól szóló 4/2025. (I. 23.) Korm. rendelet.
+8. §[^2]
+
+[^2]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
