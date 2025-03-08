@@ -50,9 +50,9 @@ Az országos gyógyintézetek és az országos társgyógyintézetek
 
 1.3. Országos Korányi Pulmonológiai Intézet
 
-1.4. Országos Mozgásszervi Intézet
+1.4.[^3]
 
-1.5.[^3] Nyírő Gyula Országos Pszichiátriai és Addiktológiai Intézet
+1.5.[^4] Nyírő Gyula Országos Pszichiátriai és Addiktológiai Intézet
 
 1.6. Országos Onkológiai Intézet
 
@@ -66,18 +66,18 @@ Az országos gyógyintézetek és az országos társgyógyintézetek
 
 2.2. Az Országos Korányi Pulmonológiai Intézet irányítása alá tartozó országos társgyógyintézet
 
-2.2.1.[^4]
+2.2.1.[^5]
 
-2.2.2.[^5] Farkasgyepűi Tüdőgyógyintézet
+2.2.2.[^6] Farkasgyepűi Tüdőgyógyintézet
 
-2.3. Az Országos Mozgásszervi Intézet irányítása alá tartozó országos társgyógyintézet
-
-2.3.1. Parádfürdői Állami Kórház
+2.3.[^7]
 
 2.4. Az Országos Onkológiai Intézet irányítása alá tartozó országos társgyógyintézet
 
 2.4.1. Mátrai Gyógyintézet
 
-[^3]: Az 5. melléklet 1. pont 1.5. alpontja a 165/2024. (VI. 28.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^4]: Az 5. melléklet 2. pont 2.2.1. alpontját a 609/2023. (XII. 22.) Korm. rendelet 5. §-a hatályon kívül helyezte.
-[^5]: Az 5. melléklet 2. pont 2.2. alpont 2.2.2. pontja a 659/2023. (XII. 28.) Korm. rendelet 61. §-a szerint módosított szöveg.
+[^3]: Az 5. melléklet 1.4. pontját a 29/2025. (III. 5.) Korm. rendelet 7. §-a hatályon kívül helyezte.
+[^4]: Az 5. melléklet 1. pont 1.5. alpontja a 165/2024. (VI. 28.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^5]: Az 5. melléklet 2. pont 2.2.1. alpontját a 609/2023. (XII. 22.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^6]: Az 5. melléklet 2. pont 2.2. alpont 2.2.2. pontja a 659/2023. (XII. 28.) Korm. rendelet 61. §-a szerint módosított szöveg.
+[^7]: Az 5. melléklet 2.3. pontját a 29/2025. (III. 5.) Korm. rendelet 7. §-a hatályon kívül helyezte.
