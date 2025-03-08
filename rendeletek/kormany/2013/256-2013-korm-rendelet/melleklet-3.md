@@ -308,7 +308,7 @@
 
 | 154. | Országos Onkológiai Intézet | Budapest |
 
-| 155. | Országos Mozgásszervi Intézet | Budapest |
+| 155. |  |  |
 
 | 156. |  |  |
 
