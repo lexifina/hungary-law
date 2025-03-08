@@ -1,3 +1,3 @@
-13/B. §[^356]
+13/B. §[^359]
 
-[^356]: A Vhr. 13/B. §-t a 77/2001. (V. 9.) Korm. rendelet 3. §-a iktatta a szövegbe, utóbb az 50/2002. (III. 26.) Korm. rendelet 18. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^359]: A Vhr. 13/B. §-t a 77/2001. (V. 9.) Korm. rendelet 3. §-a iktatta a szövegbe, utóbb az 50/2002. (III. 26.) Korm. rendelet 18. § (1) bekezdés a) pontja hatályon kívül helyezte.

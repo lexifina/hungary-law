@@ -6,11 +6,21 @@
 
 (3) A digitális időpontfoglalási rendszerben a beutalóval igénybe vehető ellátások esetén a személyesen jelen lévő beteg kérésére a beutaló orvos végzi az időpontfoglalást.
 
+(3a)[^128] Ha az egészségügyi szolgáltató a digitális időpontfoglalási rendszerben adott ellátás tekintetében hirdetett meg időpontot, ezt a 3/A. § (2) bekezdése alkalmazásában úgy kell tekinteni, hogy a biztosított ellátásához hozzájárult, külön írásbeli nyilatkozatot nem kell tenni.
+
 (4) A beteg a beutalóval és a beutaló nélkül igénybe vehető egészségügyi ellátásra – a járóbeteg-szakellátást nyújtó egészségügyi szolgáltató által meghatározott módon – időpontot foglalhat a járóbeteg-szakellátást nyújtó egészségügyi szolgáltatónál, amelyet a járóbeteg-szakellátást nyújtó egészségügyi szolgáltató a digitális időpontfoglalási rendszerben rögzít.
 
-(4a)[^128] A beteg a (4) bekezdésben foglaltakon túl a beutalóval és a beutaló nélkül igénybe vehető egészségügyi ellátásra közvetlenül vagy az Ebtv. 20/B. §-a szerinti egységes telefonos időpontfoglalási központ útján is foglalhat időpontot, illetve módosíthatja foglalt időpontját a digitális időpontfoglalási rendszerben.
+(4a)[^129] A beteg a (4) bekezdésben foglaltakon túl a beutalóval és a beutaló nélkül igénybe vehető egészségügyi ellátásra közvetlenül vagy az Ebtv. 20/B. §-a szerinti egységes telefonos időpontfoglalási központ útján is foglalhat időpontot, illetve módosíthatja foglalt időpontját a digitális időpontfoglalási rendszerben.
 
-(4b)[^129] A digitális időpontfoglalási rendszerben a beteg által történő időpontfoglalás esetén ugyanazon szakmában nem foglalható ugyanazon TAJ-hoz kapcsolódóan egyszerre több egészségügyi szolgáltatónál időpont.
+(4b)[^130] A digitális időpontfoglalási rendszerben a beteg által történő időpontfoglalás esetén ugyanazon szakmában nem foglalható ugyanazon TAJ-hoz kapcsolódóan egyszerre több egészségügyi szolgáltatónál időpont.
+
+(4c)[^131] A digitális időpontfoglalási rendszerben
+
+a) olyan egészségügyi szolgáltatónál is foglalható időpont, amely a beteg ellátására területileg nem kötelezett,
+
+b) a beutalóban szereplő egészségügyi szolgáltató helyett más, az adott ellátásra a digitális időpontfoglalási rendszerben időpontot meghirdetett egészségügyi szolgáltatónál is foglalható időpont.
+
+(4d)[^132] Abban az esetben, ha a betegnek az adott beutalóhoz kapcsolódóan korábban más szolgáltatónál volt a digitális időpontfoglalási rendszerben foglalt időpontja, a korábbi foglalás törlésre kerül.
 
 (5) A beutaló nélkül igénybe vehető ellátások esetén a beteg háziorvosa vagy kezelőorvosa vállalhatja, hogy a beteg kérésére a digitális időpontfoglalási rendszerben a járóbeteg-szakellátást nyújtó egészségügyi szolgáltatónál időpontot foglal, ha az orvosszakmailag indokolt.
 
@@ -22,5 +32,8 @@
 
 [^126]: A Vhr. „Az EESZT digitális időpontfoglalási rendszer szolgáltatást használó egészségügyi szolgáltatóknál történő igénybevétel szabályai” alcím címét a 42/2024. (II. 29.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^127]: A Vhr. 5/E. §-át a 65/2008. (III. 29.) Korm. rendelet 1. § (1) bekezdés b) pontja hatályon kívül helyezte, újonnan a 42/2024. (II. 29.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^128]: A Vhr. 5/E. § (4a) bekezdését a 42/2024. (II. 29.) Korm. rendelet – 135/2024. (VI. 28.) Korm. rendelet 4. §-a szerint módosított – 1. § (2) bekezdése iktatta be.
-[^129]: A Vhr. 5/E. § (4b) bekezdését a 42/2024. (II. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^128]: A Vhr. 5/E. § (3a) bekezdését a 29/2025. (III. 5.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^129]: A Vhr. 5/E. § (4a) bekezdését a 42/2024. (II. 29.) Korm. rendelet – 135/2024. (VI. 28.) Korm. rendelet 4. §-a szerint módosított – 1. § (2) bekezdése iktatta be.
+[^130]: A Vhr. 5/E. § (4b) bekezdését a 42/2024. (II. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^131]: A Vhr. 5/E. § (4c) bekezdését a 29/2025. (III. 5.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^132]: A Vhr. 5/E. § (4d) bekezdését a 29/2025. (III. 5.) Korm. rendelet 1. § (2) bekezdése iktatta be.
