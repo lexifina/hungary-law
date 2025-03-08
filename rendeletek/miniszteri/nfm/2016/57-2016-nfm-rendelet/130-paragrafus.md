@@ -16,10 +16,10 @@ bb) az EUR RVSM légtérben kötelékrepülést végrehajtó állami légijárm�
 
 bc) a szuperszonikus sebességgel haladó katonai légijárművek és egyéb légijárművek között.
 
-bd)[^205] az EUR RVSM légtérben elkülönített légtéren kívüli légi utántöltés esetén a légi utántöltés során használt repülési szint, magasság vagy magasságtartomány és egyéb légijárművek között.
+bd)[^207] az EUR RVSM légtérben elkülönített légtéren kívüli légi utántöltés esetén a légi utántöltés során használt repülési szint, magasság vagy magasságtartomány és egyéb légijárművek között.
 
 (2) Az ATC-nek legalább 2000 láb (600 m) függőleges elkülönítést kell biztosítania az EUR RVSM légtérben a rádióhibás légijármű és az ott üzemeltetett egyéb légijármű között.
 
 (3) A polgári légijármű elfogásával létrejött, több légijárműből – polgári és állami – álló köteléknek a légiforgalom többi részt vevőjétől való biztonságos, megnövelt elkülönítésnek mértékét a légiforgalmi szolgáltató és a katonai szervezet együttműködési megállapodásban határozza meg.
 
-[^205]: A 130. § (1) bekezdés b) pont bd) alpontját a 21/2024. (VII. 31.) ÉKM rendelet 13. §-a iktatta be.
+[^207]: A 130. § (1) bekezdés b) pont bd) alpontját a 21/2024. (VII. 31.) ÉKM rendelet 13. §-a iktatta be.

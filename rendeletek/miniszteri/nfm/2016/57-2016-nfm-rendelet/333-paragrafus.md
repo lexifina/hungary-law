@@ -1,12 +1,12 @@
 333. § (1) Az egyedi repülési terv közlemények esetében, amennyiben az IFPS szabályok másként nem rendelkeznek, az e szakaszban foglaltak szerint kell eljárni:
 
-(2)[^286] Repülési terv közleményeket kell az összes olyan repüléssel kapcsolatban továbbítani, amelyekre repülési tervet nyújtottak be, azzal a céllal, hogy légiforgalmi irányító szolgálatot, repüléstájékoztató vagy riasztó szolgálatot vegyenek igénybe a repülés teljes útvonalára vagy annak egy szakaszára.
+(2)[^288] Repülési terv közleményeket kell az összes olyan repüléssel kapcsolatban továbbítani, amelyekre repülési tervet nyújtottak be, azzal a céllal, hogy légiforgalmi irányító szolgálatot, repüléstájékoztató vagy riasztó szolgálatot vegyenek igénybe a repülés teljes útvonalára vagy annak egy szakaszára.
 
 (3) Az egyedi repülési terv közleményt a következők szerint kell összeállítania és megcímeznie az indulási repülőteret kiszolgáló ATS egységnek, vagy ahol az alkalmazható annak az ATS egységnek, amely egy levegőben lévő légijárműtől fogad el repülési tervet:
 
 a) az FPL közleményt annak az ACC-nek vagy repüléstájékoztató központnak kell elküldeni, amely abban az ellenőrzött légtérben vagy FIR-ben lát el szolgálatot, amelyben az indulási repülőtér van,
 
-b)[^287] FPL közleményt kell a légijármű útvonalán lévő FIR-eket vagy magaslégtéri FIR-eket kiszolgáló mindazon központoknak továbbítani, amelyek nem képesek érvényes adatok feldolgozására, valamint FPL közleményt kell küldeni a rendeltetési repülőtér repülőtéri irányító tornyának, továbbá ha megkövetelik, FPL közleményt kell küldeni az útvonalon lévő ATS egységeket kiszolgáló áramlásszervező egységeknek is,
+b)[^289] FPL közleményt kell a légijármű útvonalán lévő FIR-eket vagy magaslégtéri FIR-eket kiszolgáló mindazon központoknak továbbítani, amelyek nem képesek érvényes adatok feldolgozására, valamint FPL közleményt kell küldeni a rendeltetési repülőtér repülőtéri irányító tornyának, továbbá ha megkövetelik, FPL közleményt kell küldeni az útvonalon lévő ATS egységeket kiszolgáló áramlásszervező egységeknek is,
 
 c) ha egy levegőben lévő légijármű továbbengedélyezése kérelem szerepel a repülési tervben, akkor az FPL közleményt meg kell küldeni a további érintett központoknak és a módosított rendeltetési repülőtér repülőtéri irányító tornyának,
 
@@ -26,5 +26,5 @@ b) az egymás után következő indulási repülőtereken lévő légiforgalmi s
 
 (5) Ha az illetékes ATS egységek közötti megállapodás úgy rendelkezik, a FIR határainak közvetlen közelében lévő meghatározott útvonalakon vagy útvonal szakaszokon végrehajtott repülésekre vonatkozó FPL közleményeket azoknak az ATS központoknak is meg kell címezni, amelyek ilyen útvonalakkal vagy útvonal szakaszokkal szomszédos FIR vagy magaslégtéri FIR kiszolgálásáért felelősek, a repülések azonosításának megkönnyítése, és ezáltal az elfogások szükségességének kiküszöbölése vagy csökkentése érdekében, a kijelölt útvonalaktól történő eltérés esetén.
 
-[^286]: A 333. § (2) bekezdése a 9/2024. (IV. 25.) ÉKM rendelet 7. §-a szerint módosított szöveg.
-[^287]: A 333. § (3) bekezdés b) pontja a 33/2020. (X. 5.) ITM rendelet 62. § s) pontja szerint módosított szöveg.
+[^288]: A 333. § (2) bekezdése a 9/2024. (IV. 25.) ÉKM rendelet 7. §-a szerint módosított szöveg.
+[^289]: A 333. § (3) bekezdés b) pontja a 33/2020. (X. 5.) ITM rendelet 62. § s) pontja szerint módosított szöveg.

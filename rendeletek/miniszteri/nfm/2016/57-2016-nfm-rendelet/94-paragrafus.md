@@ -4,7 +4,7 @@
 
 (3) A légijárműnek a légtérkorlátozások, az ATC munkaterhelés és a forgalom sűrűség függvényében, továbbá ha a koordinálás kellő időben elvégezhető, lehetőség szerint a legrövidebb útvonalat kell felajánlani.
 
-(4)[^172] RNAV 1 képességű területi navigációs berendezéssel fel nem szerelt állami légijárműveket vagy az olyan légijárműveket, amelyek területi navigációs berendezése meghibásodott, nem területi navigációs berendezés használatán alapuló SID-eken és STAR-okon kell vezetni.
+(4)[^174] RNAV 1 képességű területi navigációs berendezéssel fel nem szerelt állami légijárműveket vagy az olyan légijárműveket, amelyek területi navigációs berendezése meghibásodott, nem területi navigációs berendezés használatán alapuló SID-eken és STAR-okon kell vezetni.
 
 (5) Útvonalrepülés során a (4) bekezdés szerinti légijárművekre az alábbi eljárásokat kell alkalmazni:
 
@@ -14,18 +14,18 @@ b) ha ilyen útvonalak nem állnak rendelkezésre, a légijárműveket hagyomán
 
 kell vezetni.
 
-(6)[^173]
+(6)[^175]
 
-(7)[^174] A (4) bekezdésben meghatározott módon üzemeltetett légijárművek esetében az érintett légiforgalmi irányító egység részéről folyamatos radarmegfigyelésre lehet szükség.
+(7)[^176] A (4) bekezdésben meghatározott módon üzemeltetett légijárművek esetében az érintett légiforgalmi irányító egység részéről folyamatos radarmegfigyelésre lehet szükség.
 
-(8)[^175] Ha a (4) bekezdésben meghatározott eljárások nem alkalmazhatók vagy nem célravezetőek, az ATS felderítő rendszerrel felszerelt légiforgalmi irányító egységnek vektorálással kell a légijárművet irányítania, ameddig nem képes saját navigációval történő működésre.
+(8)[^177] Ha a (4) bekezdésben meghatározott eljárások nem alkalmazhatók vagy nem célravezetőek, az ATS felderítő rendszerrel felszerelt légiforgalmi irányító egységnek vektorálással kell a légijárművet irányítania, ameddig nem képes saját navigációval történő működésre.
 
-(9)[^176] Ha egy légijármű területi navigációs berendezésének meghibásodását vagy teljesítményének csökkenését még a felszállást megelőzően észlelték, és a javítást nem tudják a repülőtéren elvégezni, az érintett légijármű repülését engedélyezni kell a legközelebbi olyan repülőtérig, ahol a javítás elvégezhető.
+(9)[^178] Ha egy légijármű területi navigációs berendezésének meghibásodását vagy teljesítményének csökkenését még a felszállást megelőzően észlelték, és a javítást nem tudják a repülőtéren elvégezni, az érintett légijármű repülését engedélyezni kell a legközelebbi olyan repülőtérig, ahol a javítás elvégezhető.
 
 (10) Ha a (9) bekezdés alapján a légijárműnek megadják az engedélyt, a légiforgalmi irányító egység az aktuális és a várható forgalmi körülmények alapján módosíthatja az adott repülésre vonatkozó indulási időt, repülési magasságot vagy útvonalat.
 
-[^172]: A 94. § (4) bekezdése a 33/2020. (X. 5.) ITM rendelet 44. §-ával megállapított szöveg.
-[^173]: A 94. § (6) bekezdését a 33/2020. (X. 5.) ITM rendelet 62. § e) pontja hatályon kívül helyezte.
-[^174]: A 94. § (7) bekezdése a 33/2020. (X. 5.) ITM rendelet 60. § (2) bekezdés v) pontja szerint módosított szöveg.
-[^175]: A 94. § (8) bekezdése a 33/2020. (X. 5.) ITM rendelet 60. § (2) bekezdés v) pontja szerint módosított szöveg.
-[^176]: A 94. § (9) bekezdése a 33/2020. (X. 5.) ITM rendelet 60. § (2) bekezdés v) pontja szerint módosított szöveg.
+[^174]: A 94. § (4) bekezdése a 33/2020. (X. 5.) ITM rendelet 44. §-ával megállapított szöveg.
+[^175]: A 94. § (6) bekezdését a 33/2020. (X. 5.) ITM rendelet 62. § e) pontja hatályon kívül helyezte.
+[^176]: A 94. § (7) bekezdése a 33/2020. (X. 5.) ITM rendelet 60. § (2) bekezdés v) pontja szerint módosított szöveg.
+[^177]: A 94. § (8) bekezdése a 33/2020. (X. 5.) ITM rendelet 60. § (2) bekezdés v) pontja szerint módosított szöveg.
+[^178]: A 94. § (9) bekezdése a 33/2020. (X. 5.) ITM rendelet 60. § (2) bekezdés v) pontja szerint módosított szöveg.

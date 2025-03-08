@@ -1,3 +1,3 @@
-60. §[^157]
+60. §[^159]
 
-[^157]: A 60. §-t a 7/2022. (VII. 27.) TIM rendelet 22. § (1) bekezdés w) pontja hatályon kívül helyezte.
+[^159]: A 60. §-t a 7/2022. (VII. 27.) TIM rendelet 22. § (1) bekezdés w) pontja hatályon kívül helyezte.

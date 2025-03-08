@@ -1,4 +1,4 @@
-297. § (1)[^272] Ha egy légijárműről 3 percen belül nem érkezik jelentés attól számítva, hogy a légijárműnek fel kellett volna vennie vagy várható volt, hogy felveszi az összeköttetést, az ATS egységnek a 30 perces megállapított időperióduson belül meg kell kísérelnie az ilyen jelentés beszerzését abból a célból, hogy a bizonytalansági állapotra vonatkozó eljárásokat az (EU) 2017/373 bizottsági végrehajtási rendelet IV. Melléklet B. Alrész ATS.TR.405 pont a) alpontjában meghatározottaknak megfelelően alkalmazni tudja, ha a körülmények ennek alkalmazását indokolttá teszik.
+297. § (1)[^274] Ha egy légijárműről 3 percen belül nem érkezik jelentés attól számítva, hogy a légijárműnek fel kellett volna vennie vagy várható volt, hogy felveszi az összeköttetést, az ATS egységnek a 30 perces megállapított időperióduson belül meg kell kísérelnie az ilyen jelentés beszerzését abból a célból, hogy a bizonytalansági állapotra vonatkozó eljárásokat az (EU) 2017/373 bizottsági végrehajtási rendelet IV. Melléklet B. Alrész ATS.TR.405 pont a) alpontjában meghatározottaknak megfelelően alkalmazni tudja, ha a körülmények ennek alkalmazását indokolttá teszik.
 
 (2) Ha a riasztást olyan repülés vonatkozásában kell elvégezni, amely több FIR-t, vagy irányítói körzetet érint és a légijármű helyzete kétséges, a riasztó szolgálat koordinációs feladatainak ellátásáért az a FIR-t vagy irányítói körzetet kiszolgáló ATS egység felelős,
 
@@ -24,7 +24,7 @@ d) össze kell gyűjtenie az egyes kényszerállapotok során beszerzett tájék
 
 e) a körülményektől függően be kell jelentenie a kényszerállapot megszűnését.
 
-(4)[^273] Az (EU) 2017/373 bizottsági végrehajtási rendelet IV. Melléklet B. Alrész ATS.TR.405 pont b–c) alpontjában meghatározottak szerint szükséges tájékoztatások beszerzésénél különös figyelmet kell fordítani arra, hogy amentés koordinálására kijelölt illetékes szervet értesítsék a túlélők számára rendelkezésre álló, a repülési terv 19. rovatában meghatározott azon kényszerhelyzeti frenkvenciáról, amely rendes körülmények között nem kerül továbbításra.
+(4)[^275] Az (EU) 2017/373 bizottsági végrehajtási rendelet IV. Melléklet B. Alrész ATS.TR.405 pont b–c) alpontjában meghatározottak szerint szükséges tájékoztatások beszerzésénél különös figyelmet kell fordítani arra, hogy amentés koordinálására kijelölt illetékes szervet értesítsék a túlélők számára rendelkezésre álló, a repülési terv 19. rovatában meghatározott azon kényszerhelyzeti frenkvenciáról, amely rendes körülmények között nem kerül továbbításra.
 
-[^272]: A 297. § (1) bekezdése a 7/2022. (VII. 27.) TIM rendelet 18. § 22. pontja szerint módosított szöveg.
-[^273]: A 297. § (4) bekezdése a 7/2022. (VII. 27.) TIM rendelet 18. § 23. pontja szerint módosított szöveg.
+[^274]: A 297. § (1) bekezdése a 7/2022. (VII. 27.) TIM rendelet 18. § 22. pontja szerint módosított szöveg.
+[^275]: A 297. § (4) bekezdése a 7/2022. (VII. 27.) TIM rendelet 18. § 23. pontja szerint módosított szöveg.

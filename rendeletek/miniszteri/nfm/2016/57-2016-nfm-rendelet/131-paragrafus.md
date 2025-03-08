@@ -10,8 +10,8 @@
 
 (6) Az azonos rendeltetésű helyre tartó légijárművek utazómagasságait lehetőség szerint úgy kell kijelölni, hogy megfeleljenek a rendeltetési helyen a bevezetési sorrendnek.
 
-(7)[^206] Egy utazómagasságon haladó légijármű általában elsőbbséget élvez egy másik, ugyanazon utazómagasságot kérő légijárművel szemben. Ha két vagy több légijármű van ugyanazon az utazómagasságon, általában az elöl haladó légijárműnek van elsőbbsége.
+(7)[^208] Egy utazómagasságon haladó légijármű általában elsőbbséget élvez egy másik, ugyanazon utazómagasságot kérő légijárművel szemben. Ha két vagy több légijármű van ugyanazon az utazómagasságon, általában az elöl haladó légijárműnek van elsőbbsége.
 
 (8) Az ellenőrzött repülésekre kijelölendő utazómagasságokat tartalmazó, a SERA rendelet 3. Függelékében lévő táblázat által meghatározott utazómagasságok irányultságára vonatkozó szabálytól légiforgalmi irányítói engedéllyel vagy az AIP-ben közzétett esetekben lehet eltérni.
 
-[^206]: A 131. § (7) bekezdése a 33/2020. (X. 5.) ITM rendelet 60. § (2) bekezdés y) pontja szerint módosított szöveg.
+[^208]: A 131. § (7) bekezdése a 33/2020. (X. 5.) ITM rendelet 60. § (2) bekezdés y) pontja szerint módosított szöveg.

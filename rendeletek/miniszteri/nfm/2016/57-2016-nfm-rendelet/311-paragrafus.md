@@ -2,7 +2,7 @@
 
 a) érkezési és indulási idők,
 
-b)[^275] annak közlése, hogy a megközelítési sorrendben elöl haladó légijármű összeköttetésben van a repülőtéri irányító toronnyal, a torony látja azt, és kellő bizonyosság van arra, hogy a leszállás végrehajtható,
+b)[^277] annak közlése, hogy a megközelítési sorrendben elöl haladó légijármű összeköttetésben van a repülőtéri irányító toronnyal, a torony látja azt, és kellő bizonyosság van arra, hogy a leszállás végrehajtható,
 
 c) légijármű késése,
 
@@ -22,4 +22,4 @@ b) annak közlése, hogy a légijárművet utasították a repülőtéri irány�
 
 c) az induló forgalomnak torlódás miatt előre látható késleltetése.
 
-[^275]: A 311. § (1) bekezdés b) pontja a 33/2020. (X. 5.) ITM rendelet 60. § (2) bekezdés y) pontja szerint módosított szöveg.
+[^277]: A 311. § (1) bekezdés b) pontja a 33/2020. (X. 5.) ITM rendelet 60. § (2) bekezdés y) pontja szerint módosított szöveg.

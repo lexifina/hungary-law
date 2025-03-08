@@ -8,6 +8,6 @@
 
 (3) Az ATFM szolgálatnak egyeztetnie kell a légtérkapacitási adatokat az NMOC-val, valamint meg kell adnia részére a légtérgazdálkodási szempontból szükséges várható forgalmi terhelési adatokat.
 
-(4)[^163] Az ATFM szolgálatnak a légiforgalmi áramlásszervezési feladatokat az NMOC ATFM előírásai szerint kell végrehajtani.
+(4)[^165] Az ATFM szolgálatnak a légiforgalmi áramlásszervezési feladatokat az NMOC ATFM előírásai szerint kell végrehajtani.
 
-[^163]: A 73. § (4) bekezdése a 33/2020. (X. 5.) ITM rendelet 60. § (2) bekezdés o) pontja szerint módosított szöveg.
+[^165]: A 73. § (4) bekezdése a 33/2020. (X. 5.) ITM rendelet 60. § (2) bekezdés o) pontja szerint módosított szöveg.

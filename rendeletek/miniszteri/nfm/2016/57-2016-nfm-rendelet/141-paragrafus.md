@@ -1,3 +1,3 @@
-## 67. [^214] ATS felderítő rendszer alkalmazásán alapuló elkülönítés
+## 67. [^216] ATS felderítő rendszer alkalmazásán alapuló elkülönítés
 
-[^214]: A 67. alcím (141. §) a 33/2020. (X. 5.) ITM rendelet 48. §-ával megállapított szöveg.
+[^216]: A 67. alcím (141. §) a 33/2020. (X. 5.) ITM rendelet 48. §-ával megállapított szöveg.

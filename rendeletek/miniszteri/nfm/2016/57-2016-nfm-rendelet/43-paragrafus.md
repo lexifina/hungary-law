@@ -6,6 +6,6 @@
 
 (3) A repüléstájékoztató és légiforgalmi tanácsadó szolgálatban részesített légijármű parancsnokának felelősségét a repülési rendelet 45. § (3) bekezdése határozza meg.
 
-(4)[^120]
+(4)[^121] Repüléstájékoztató szolgáltatást kell nyújtania a megfelelő légiforgalmi szolgálati egységnek azon OAT repülések számára, amelyek esetében a légiforgalmi szolgáltatás nyújtására a polgári légiforgalmi szolgálat jogosult, és amelyeket a tájékoztatás valószínűleg érint.
 
-[^120]: A 43. § (4) bekezdését a 33/2020. (X. 5.) ITM rendelet 62. § b) pontja hatályon kívül helyezte.
+[^121]: A 43. § (4) bekezdését a 33/2020. (X. 5.) ITM rendelet 62. § b) pontja hatályon kívül helyezte, újonnan a 8/2025. (III. 7.) ÉKM rendelet 6. §-a iktatta be.

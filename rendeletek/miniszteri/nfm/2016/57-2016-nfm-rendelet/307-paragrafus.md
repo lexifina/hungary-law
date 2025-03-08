@@ -2,6 +2,6 @@
 
 307. § (1) A bevezető irányító szolgálatot ellátó egység az ACC által számára átadott légijárműveknek az ACC-től függetlenül adhat engedélyeket, kivéve, ha az együttműködési megállapodásokban vagy munkahelyi utasításokban másként határozták meg, vagy az adott ACC egyes esetekre vonatkozóan másként határozta meg. Ha érinti, megszakított megközelítéskor azonnal értesíteni kell az ACC-t, és szükség esetén, indokolt esetben a további intézkedéseket az ACC és a bevezető irányító szolgálatot ellátó egység között koordinálni kell.
 
-(2)[^274] Az ACC a bevezető irányító szolgálatot ellátó egységgel elvégzett koordinálás után a légijárművet a repülőtéri irányító toronynak közvetlenül is átadhatja, ha a légijármű a megközelítést végig VMC-ben hajtja végre.
+(2)[^276] Az ACC a bevezető irányító szolgálatot ellátó egységgel elvégzett koordinálás után a légijárművet a repülőtéri irányító toronynak közvetlenül is átadhatja, ha a légijármű a megközelítést végig VMC-ben hajtja végre.
 
-[^274]: A 307. § (2) bekezdése a 33/2020. (X. 5.) ITM rendelet 60. § (2) bekezdés t) pontja szerint módosított szöveg.
+[^276]: A 307. § (2) bekezdése a 33/2020. (X. 5.) ITM rendelet 60. § (2) bekezdés t) pontja szerint módosított szöveg.

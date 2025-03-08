@@ -1,3 +1,0 @@
-335. § (1)[^289] Módosító (Change, a továbbiakban: CHG) közleményt kell adni, ha az előzetesen elküldött FPL adatokban szereplő alapvető repülési terv adatok, beleértve a 8.33 kHz csatornaosztású rádióberendezéssel való felszereltséget is, megváltoznak. A CHG közleményeket mindazoknak az egységeknek el kell küldeni, amelyek megkapták mindazokat az alapvető repülési tervadatokat, amelyeket a CHG közleménnyel módosítanak. A vonatkozó, módosított alapvető tervadatokat azoknak az érintetteknek is meg kell küldeni, akik korábban ilyen adatokat nem kaptak.
-
-[^289]: A 335. § (1) bekezdése a 33/2020. (X. 5.) ITM rendelet 62. § t) pontja szerint módosított szöveg.

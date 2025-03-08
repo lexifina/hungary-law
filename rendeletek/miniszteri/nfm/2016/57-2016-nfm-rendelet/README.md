@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-57-20-2
 | 2024-05-03 | 2016-57-20-2W.9 | 9/2024. (IV. 25.) ÉKM rendelet |
 | 2024-07-03 | 2016-57-20-2W.10 | 16/2024. (VII. 2.) ÉKM rendelet |
 | 2024-12-15 | 2016-57-20-2W.11 | 21/2024. (VII. 31.) ÉKM rendelet |
+| 2025-03-08 | 2016-57-20-2W.12 | 8/2025. (III. 7.) ÉKM rendelet |

@@ -12,8 +12,9 @@
 
 (6) A repülések biztonságának érdekében a légtér szuverenitását megsértő légijárművek elfogását irányító katonai repülésirányító egység haladéktalanul tájékoztatja a polgári ATS egységet az esetlegesen riasztott légijárművekről, lehetőség szerint elegendő időt biztosítva az érintett légtér szabaddá tételére.
 
-(7) Az MCTR-ek és MTMA-k kivételével a GAT repülés számára a polgári ATS egység nyújt légiforgalmi szolgálatot. Az állami repülések céljára kijelölt légtéren kívül ellenőrzött légtérben végrehajtott OAT repülések útvonalrepülési szakasza számára, valamint a nem ellenőrzött légtérben végrehajtott OAT repülések számára légiforgalmi szolgáltatás nyújtására a légvédelmi készenléti repülés kivételével a polgári légiforgalmi szolgálat jogosult.
+(7)[^78] Az MCTR-ek és MTMA-k kivételével a GAT repülés számára a polgári ATS egység nyújt légiforgalmi szolgálatot. Az állami repülések céljára kijelölt légtéren kívül ellenőrzött légtérben végrehajtott OAT repülések számára, valamint a nem ellenőrzött légtérben végrehajtott OAT repülések számára légiforgalmi szolgáltatás nyújtására a légvédelmi készenléti repülés kivételével a polgári légiforgalmi szolgálat jogosult.
 
 (8) Ha egy adott légtér blokkon belül a GAT és OAT repüléseket különböző irányító egység vagy szektor kezeli, és a 37. § (2) bekezdésben meghatározott feltételek nem biztosítottak, akkor a légvédelmi készenléti repülés kivételével OAT repülés nem hajtható végre.
 
 [^77]: A 24. § (3) bekezdése az 55/2017. (XII. 27.) NFM rendelet 103. §-ával megállapított szöveg.
+[^78]: A 24. § (7) bekezdése a 8/2025. (III. 7.) ÉKM rendelet 4. §-ával megállapított szöveg.
