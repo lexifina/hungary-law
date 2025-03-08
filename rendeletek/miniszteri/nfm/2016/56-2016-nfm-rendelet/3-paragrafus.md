@@ -104,7 +104,7 @@ b) RNAV navigációs előírás: amely nem tartalmazza a teljesítmény-ellenőr
 
 47.[^30] nem ellenőrzött repülőtér: olyan repülőtér, ahol nem nyújtanak légiforgalmi irányító szolgálatot, függetlenül attól, hogy ott AFIS-t nyújtanak-e (Uncontrolled aerodrome);
 
-47a.[^31] nem szabványos OAT-C kötelékrepülés: a kötelék tagjai közötti vízszintes távolság nagyobb, mint 1 NM (2 km), vagy a repülési magasságuk közötti eltérés nagyobb, mint 100 láb (30 m), vagy a kötelék tagjai közötti vízszintes távolság nagyobb, mint 1 NM (2 km), és a repülési magasságuk közötti eltérés nagyobb, mint 100 láb (30 m);
+47a.[^31] nem szabványos OAT-C kötelékrepülés: minden olyan OAT-C kötelékrepülés, amely valamely okból nem felel meg a szabványos OAT-C kötelékrepülés feltételeinek;
 
 48. nemzetközi repülés: államhatárt keresztező repülés (International flight);
 
@@ -150,7 +150,7 @@ b) RNAV navigációs előírás: amely nem tartalmazza a teljesítmény-ellenőr
 
 67.[^46] szabad útvonalú légtér: Budapest CTA és Budapest FIR nem ellenőrzött légtere, amelyben az IFR szerint működő légijárművek a kijelölt belépő és a kilépő vagy a közbenső pontok között – a nemzetközi útvonalhálózat figyelembevételével – szabad útvonalon tervezhetik repülésüket;
 
-67a.[^47] szabványos OAT-C kötelékrepülés: a kötelék tagjai közötti vízszintes távolság legfeljebb 1 NM (2 km), és a repülési magasságuk eltérése legfeljebb 100 láb (30 m);
+67a.[^47] szabványos OAT-C kötelékrepülés: a kötelékben részt vevő egyes légijárművek a köteléket vezető légijárműtől vízszintes irányban maximálisan 1 NM-re (2 km), függőleges irányban maximálisan 100 lábnyira (30 m) távolodhatnak el;
 
 68.[^48] TIZ: a magyar légtér légiközlekedés céljára történő kijelöléséről szóló 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelet 24. § 36. pontjában meghatározott fogalom (Traffic information zone);
 
@@ -198,7 +198,7 @@ b) a megközelítési eljárásban meghatározott utolsó útirány elérési po
 [^28]: A 3. § (1) bekezdés 45. pontja a 33/2020. (X. 5.) ITM rendelet 12. § (10) bekezdésével megállapított szöveg.
 [^29]: A 3. § (1) bekezdés 46. pontja a 33/2020. (X. 5.) ITM rendelet 12. § (10) bekezdésével megállapított szöveg.
 [^30]: A 3. § (1) bekezdés 47. pontja a 33/2020. (X. 5.) ITM rendelet 12. § (10) bekezdésével megállapított szöveg.
-[^31]: A 3. § (1) bekezdés 47a. pontját a 21/2024. (VII. 31.) ÉKM rendelet 4. § (4) bekezdése iktatta be.
+[^31]: A 3. § (1) bekezdés 47a. pontját a 21/2024. (VII. 31.) ÉKM rendelet 4. § (4) bekezdése iktatta be, szövege a 8/2025. (III. 7.) ÉKM rendelet 1. §-ával megállapított szöveg.
 [^32]: A 3. § (1) bekezdés 48a. pontját a 33/2020. (X. 5.) ITM rendelet 12. § (11) bekezdése iktatta be.
 [^33]: A 3. § (1) bekezdés 49. pontja a 7/2022. (VII. 27.) TIM rendelet 7. § (3) bekezdésével megállapított szöveg.
 [^34]: A 3. § (1) bekezdés 50. pontja a 33/2020. (X. 5.) ITM rendelet 12. § (12) bekezdésével megállapított szöveg.
@@ -214,7 +214,7 @@ b) a megközelítési eljárásban meghatározott utolsó útirány elérési po
 [^44]: A 3. § (1) bekezdés 63. pontja a 33/2020. (X. 5.) ITM rendelet 12. § (13) bekezdésével megállapított szöveg.
 [^45]: A 3. § (1) bekezdés 65. pontja a 33/2020. (X. 5.) ITM rendelet 12. § (14) bekezdésével megállapított szöveg.
 [^46]: A 3. § (1) bekezdés 67. pontja a 33/2020. (X. 5.) ITM rendelet 32. § (2) bekezdés n) pontja szerint módosított szöveg.
-[^47]: A 3. § (1) bekezdés 67a. pontját a 21/2024. (VII. 31.) ÉKM rendelet 4. § (6) bekezdése iktatta be.
+[^47]: A 3. § (1) bekezdés 67a. pontját a 21/2024. (VII. 31.) ÉKM rendelet 4. § (6) bekezdése iktatta be, szövege a 8/2025. (III. 7.) ÉKM rendelet 2. §-ával megállapított szöveg.
 [^48]: A 3. § (1) bekezdés 68. pontja a 33/2020. (X. 5.) ITM rendelet 32. § (2) bekezdés o) pontja szerint módosított szöveg.
 [^49]: A 3. § (1) bekezdés 69. pontja a 33/2020. (X. 5.) ITM rendelet 12. § (15) bekezdésével megállapított szöveg.
 [^50]: A 3. § (1) bekezdés 70. pontja a 33/2020. (X. 5.) ITM rendelet 32. § (2) bekezdés p) pontja szerint módosított szöveg.

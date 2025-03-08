@@ -32,7 +32,7 @@
 
 FEDÉLZETI VÁLASZJELADÓ (TRANSZPONDER) ÜZEMELTETÉSÉNEK SZABÁLYAI
 
-1. Az S módú transzpondert minden esetben ilyen módban kell üzemeltetni, kivéve, ha az ATS egység egyéb utasítást ad.
+1.[^194] Az S módú transzpondert minden esetben ilyen módban kell üzemeltetni, kivéve kötelékrepülés esetén, vagy ha az ATS egység egyéb utasítást ad.
 
 Azon az ellenőrzött repülőtéren, ahol az ATC „S” módon alapuló földi ellenőrző rendszert (pl. A-SMGCS) alkalmaz, a transzponder üzemeltetésére vonatkozó részletes eljárásokat a repülőtérrend határozza meg.
 
@@ -60,11 +60,18 @@ Azon az ellenőrzött repülőtéren, ahol az ATC „S” módon alapuló földi
 
 7. Fedélzeti válaszjeladó repülés közbeni meghibásodása esetén a légijármű vezetőnek tájékoztatnia kell a vele rádióösszeköttetésben lévő ATS egységet a meghibásodásról.
 
-8.[^194] Kötelékrepülés
+8.[^195] Kötelékrepülés
 
-8.1. Az alakzat felvételére kiadott légiforgalmi irányítói engedély beszerzését követően a kötelékparancsnok kivételével a kötelékrepülésben részt vevő légijármű vezetője a transzponderét STANDBY módra állítja az alakzatfelvétel megkezdésekor.
+8.1. A 8.2. és a 8.3. pontban meghatározott kivétellel az alakzat felvételére kiadott légiforgalmi irányítói engedély beszerzését követően a kötelékparancsnok kivételével a kötelékrepülésben részt vevő légijármű vezetője a transzponderét STANDBY üzemmódra állítja az alakzatfelvétel megkezdésekor, kivéve, ha az ATS egység egyéb utasítást ad.
 
-8.2. A kötelék szétválására vagy az abból való kiválásra kiadott engedély beszerzését követően a kötelékrepülésben részt vett légijármű vezetője a transzponderét aktív módra állítja az alakzatbontás megkezdésekor.
+8.2. GAT kötelékrepülés esetén, amennyiben a légijármű működőképes C üzemmódú berendezéssel rendelkezik, a transzponder üzemeltetésére a SERA rendelet melléklet 13. szakasz SERA.13010 pont a) alpontjában meghatározottakat kell alkalmazni.
+
+8.3. Radar trail alkalmazása esetén az alakzat felvételére kiadott légiforgalmi irányítói engedély beszerzését követően a kötelékparancsnok és a kötelékrepülésben részt vevő utolsó légijármű vezetője kivételével a kötelékrepülésben részt vevő többi légijármű vezetője a transzponderét A üzemmódra állítja az alakzatfelvétel megkezdésekor, kivéve, ha az ATS egység egyéb utasítást ad.
+
+8.4. A 8.5. pontban meghatározott kivétellel a kötelék szétválására vagy az abból való kiválásra kiadott engedély beszerzését követően a kötelékrepülésben részt vett azon légijármű vezetője, aki transzponderét korábban STANDBY üzemmódban működtette, a transzponderét a légijárműben található működőképes transzponder üzemmódjának megfelelő, aktív módra állítja az alakzatbontás megkezdésekor, kivéve, ha az ATS egység egyéb utasítást ad.
+
+8.5. Radar trail alkalmazása esetén a kötelék szétválására vagy az abból való kiválásra kiadott engedély beszerzését követően a kötelékrepülésben részt vett azon légijármű vezetője, aki transzponderét korábban A üzemmódban működtette, a transzponderét a légijárműben található működőképes transzponder üzemmódjának megfelelő üzemmódra állítja az alakzatbontás megkezdésekor, kivéve, ha az ATS egység egyéb utasítást ad.
 
 [^193]: Az 5. melléklet a 33/2020. (X. 5.) ITM rendelet 32. § (6) bekezdés b) pontja, 33. § (3) bekezdése, 34. § r) pontja szerint módosított szöveg.
-[^194]: Az 5. melléklet 8. pontját a 21/2024. (VII. 31.) ÉKM rendelet 11. §-a iktatta be.
+[^194]: Az 5. melléklet 1. pontja a 8/2025. (III. 7.) ÉKM rendelet 3. §-a szerint módosított szöveg.
+[^195]: Az 5. melléklet 8. pontját a 21/2024. (VII. 31.) ÉKM rendelet 11. §-a iktatta be, szövege a 8/2025. (III. 7.) ÉKM rendelet 3. §-ával megállapított szöveg.
