@@ -4,6 +4,6 @@
 
 ## 1. A Magyarország légterében és repülőterein történő repülések végrehajtásának szabályairól szóló 56/2016. (XII. 22.) NFM rendelet módosítása
 
-1. § A Magyarország légterében és repülőterein történő repülések végrehajtásának szabályairól szóló 56/2016. (XII. 22.) NFM rendelet [a továbbiakban: 56/2016. (XII. 22.) NFM rendelet] 3. § (1) bekezdés 47a. pontja helyébe a következő rendelkezés lép:
+1. §[^2]
 
-(E rendelet alkalmazásában:)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

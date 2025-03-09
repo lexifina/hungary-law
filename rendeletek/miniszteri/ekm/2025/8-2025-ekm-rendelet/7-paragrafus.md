@@ -1,3 +1,3 @@
-7. § Az 57/2016. (XII. 22.) NFM rendelet 44. §-a a következő (3) bekezdéssel egészül ki:
+7. §[^8]
 
-„(3) Riasztó szolgálatot kell nyújtania a megfelelő légiforgalmi szolgálati egységnek a polgári légiforgalmi szolgálat illetékességébe tartozó OAT repülések számára.”
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

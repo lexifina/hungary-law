@@ -1,3 +1,3 @@
-5. § Az 57/2016. (XII. 22.) NFM rendelet 24. alcíme a következő 34. §-sal egészül ki:
+5. §[^6]
 
-„34. § Légiforgalmi irányítószolgálatot kell biztosítani az állami repülések céljára kijelölt légtéren kívül, ellenőrzött légtérben végrehajtott OAT repülések számára.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
