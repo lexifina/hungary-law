@@ -1,5 +1,5 @@
 ## 2. Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet módosítása
 
-4. § Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet 27. §-a a következő (20) bekezdéssel egészül ki:
+4. §[^5]
 
-„(20) A röntgendiagnosztika, teljes körű ultrahangdiagnosztika, gyermekradiológia, CT- és MR-diagnosztika vizsgálatokat végző járóbeteg-szakellátást nyújtó egészségügyi szolgáltató tervezett éves kerete – az egészségügyi szolgáltató teljesítményét is figyelembe véve – megemelhető, ha az egészségügyi szolgáltató e vizsgálatok tekintetében, e vizsgálatokra a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendeletben előírt feltételekkel az EESZT digitális időpontfoglalási rendszer szolgáltatást lehetővé teszi. Az e bekezdés szerinti módon megemelt tervezett éves keretet az egészségügyi szolgáltató az e bekezdés szerinti képalkotó diagnosztikai vizsgálatok elvégzésére fordítja.”
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

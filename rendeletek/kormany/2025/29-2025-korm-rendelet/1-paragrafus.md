@@ -24,16 +24,6 @@
 
 ## 1. A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendelet módosítása
 
-1. § (1) A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendelet (a továbbiakban: R.) 5/E. §-a a következő (3a) bekezdéssel egészül ki:
+1. §[^2]
 
-„(3a) Ha az egészségügyi szolgáltató a digitális időpontfoglalási rendszerben adott ellátás tekintetében hirdetett meg időpontot, ezt a 3/A. § (2) bekezdése alkalmazásában úgy kell tekinteni, hogy a biztosított ellátásához hozzájárult, külön írásbeli nyilatkozatot nem kell tenni.”
-
-(2) Az R. 5/E. §-a a következő (4c) és (4d) bekezdéssel egészül ki:
-
-„(4c) A digitális időpontfoglalási rendszerben
-
-a) olyan egészségügyi szolgáltatónál is foglalható időpont, amely a beteg ellátására területileg nem kötelezett,
-
-b) a beutalóban szereplő egészségügyi szolgáltató helyett más, az adott ellátásra a digitális időpontfoglalási rendszerben időpontot meghirdetett egészségügyi szolgáltatónál is foglalható időpont.
-
-(4d) Abban az esetben, ha a betegnek az adott beutalóhoz kapcsolódóan korábban más szolgáltatónál volt a digitális időpontfoglalási rendszerben foglalt időpontja, a korábbi foglalás törlésre kerül.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
