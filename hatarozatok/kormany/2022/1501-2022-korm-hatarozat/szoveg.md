@@ -2,13 +2,13 @@ A Kormány
 
 1. egyetért a gödi ipari-innovációs fejlesztési területhez kapcsolódó körbejáróutak (a továbbiakban: Beruházás1) megvalósításával;
 
-2. egyetért azzal, hogy a Beruházás1 a Gazdaságvédelmi Akcióterv keretében a gödi ipari-innovációs fejlesztési terület infrastruktúra-fejlesztéseiről szóló 1173/2020. (IV. 22.) Korm. határozattal biztosított forráson felül további legfeljebb 2 801 400 000 forint többletforrás felhasználásával valósuljon meg;
+2.[^1] egyetért azzal, hogy a Beruházás1 a Gazdaságvédelmi Akcióterv keretében a gödi ipari-innovációs fejlesztési terület infrastruktúra-fejlesztéseiről szóló 1173/2020. (IV. 22.) Korm. határozattal biztosított forráson felül további legfeljebb 2 516 048 760 forint többletforrás felhasználásával valósuljon meg;
 
-3.[^1] felhívja a pénzügyminisztert, hogy az építési és beruházási miniszter, valamint a befektetésösztönzésért és kiemelt magyarországi nagybefektetések megvalósításáért felelős kormánybiztos kezdeményezésére gondoskodjon a Beruházás1 megvalósítása érdekében
+3.[^2] felhívja a pénzügyminisztert, hogy az építési és beruházási miniszter, valamint a befektetésösztönzésért és kiemelt magyarországi nagybefektetések megvalósításáért felelős kormánybiztos kezdeményezésére gondoskodjon a Beruházás1 megvalósítása érdekében
 
 a) 600 300 000 forint többletforrás rendelkezésre állásáról a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény 1. melléklet XVI. Építési és Beruházási Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 15. Infrastruktúra-fejlesztési beruházások alcím, 1. Közúti infrastruktúra-fejlesztések jogcímcsoport javára,
 
-b) 2 201 100 000 forint többletforrás rendelkezésre állásáról a 2024. évi központi költségvetés Építési és Beruházási Minisztérium fejezet Közúti beruházásokhoz kapcsolódó infrastruktúra-fejlesztéseket szolgáló előirányzata javára;
+b)[^3] 1 915 748 760 forint forrás biztosításáról a Magyarország 2024. évi központi költségvetéséről szóló 2023. évi LV. törvény 1. melléklet Építési és Közlekedési Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 2. Közlekedési célú fejezeti kezelésű előirányzatok alcím, 4. Közúti fejlesztések jogcímcsoport javára;
 
 | Felelős: | pénzügyminiszter építési és beruházási miniszter a befektetésösztönzésért és kiemelt magyarországi nagybefektetések megvalósításáért felelős kormánybiztos |
 
@@ -54,4 +54,6 @@ b) 2 201 100 000 forint többletforrás rendelkezésre állásáról a 2024. év
 
 | Határidő: | a már rendelkezésre bocsátott források tekintetében azonnal a 2023. évi központi költségvetésben biztosított források tekintetében 2023. január 15-ig |
 
-[^1]: A 3. pont záró szövegrésze az 1229/2024. (VII. 31.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^1]: A 2. pont az 1054/2025. (III. 11.) Korm. határozat 27. pont a) alpontja szerint módosított szöveg.
+[^2]: A 3. pont záró szövegrésze az 1229/2024. (VII. 31.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^3]: A 3. pont b) alpontja az 1054/2025. (III. 11.) Korm. határozat 7. pontjával megállapított szöveg.
