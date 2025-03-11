@@ -82,9 +82,9 @@
 
 ## megvalósításával;
 
-## 1.7.2.[^2] azzal, hogy az 1.7.1. pont szerinti beruházások (a továbbiakban: Beruházások) finanszírozása 111 048 722 474 forint költségvetési forrásból valósuljon meg a támogatási szerződés megkötését követő 60 hónapon belül, az alábbiak szerint:
+## 1.7.2.[^2] azzal, hogy az 1.7.1. pont szerinti beruházások (a továbbiakban: Beruházások) finanszírozása 119 502 023 012 forint költségvetési forrásból valósuljon meg a támogatási szerződés megkötését követő 60 hónapon belül, az alábbiak szerint:
 
-## a)[^3] a MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zártkörűen Működő Részvénytársaság által megvalósítandó átviteli hálózati fejlesztések megépítéséhez 67 582 500 000 forint,
+## a)[^3] a MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zártkörűen Működő Részvénytársaság által megvalósítandó átviteli hálózati fejlesztések megépítéséhez 76 035 800 538 forint,
 
 ## b)[^4] az OPUS TITÁSZ Áramhálózati Zártkörűen Működő Részvénytársaság által megvalósítandó elosztó hálózati fejlesztések megépítéséhez 30 829 575 000 forint,
 
@@ -104,15 +104,23 @@
 
 ## c) a Magyarország 2024. évi központi költségvetéséről szóló 2023. évi LV. törvény 1. melléklet XVII. Energiaügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 39. Térségi fejlesztési feladatok alcím javára 17 794 619 294 forint,
 
-## d)[^9] a 2025. évben 31 535 055 929 forint,
+## d)[^9] egyetért azzal, hogy a 2025. évben 33 049 225 739 forint rendelkezésre állása szükséges, ennek érdekében felhívja
 
-## e)[^10] a 2026. évben 25 882 032 384 forint;
+## da) az energiaügyi minisztert, hogy – a XVII. Energiaügyi Minisztérium fejezetben rendelkezésre álló 31 535 055 929 forinton túl – a 2025. évben szükséges kifizetésekről elsődlegesen az általa irányított költségvetési fejezetek meglévő forrásai terhére gondoskodjon,
 
-| Felelős: | pénzügyminiszter energiaügyi miniszter |
+| Felelős: | energiaügyi miniszter |
 
-| Határidő: | az a)–c) pont tekintetében a felmerülés ütemében a d) és e) pont tekintetében az adott évi központi költségvetés tervezése során |
+| Határidő: | folyamatos |
 
-## 1.9. [^11] felhívja az innovációért és technológiáért felelős minisztert, hogy a Beruházások megvalósítása érdekében gondoskodjon a MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zártkörűen Működő Részvénytársasággal 67 582 500 000 forint összegben támogatási szerződés megkötéséről;
+## db) a nemzetgazdasági minisztert, hogy az energiaügyi miniszter kezdeményezésére, az energiaügyi miniszter által irányított költségvetési fejezetek rendelkezésére álló forrásai felhasználását követően gondoskodjon legfeljebb 1 514 169 810 forint biztosításáról a Magyarország 2025. évi központi költségvetéséről szóló 2024. évi XC. törvény 1. melléklet XVII. Energiaügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 39. Térségi fejlesztési feladatok alcím javára;
+
+| Felelős: | nemzetgazdasági miniszter |
+
+| Határidő: | a 2025. évi központi költségvetés végrehajtása során, a felmerülés ütemében |
+
+## e) [^10] a 2026. évben 32 826 235 092 forint;
+
+## 1.9. [^11] felhívja az innovációért és technológiáért felelős minisztert, hogy a Beruházások megvalósítása érdekében gondoskodjon a MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zártkörűen Működő Részvénytársasággal 76 035 800 538 forint összegben támogatási szerződés megkötéséről;
 
 ## Felelős: innovációért és technológiáért felelős miniszter
 
@@ -163,16 +171,16 @@
 1. melléklet az 1041/2022. (II. 4.) Korm. határozathoz[^21]
 
 [^1]: Az 1. pont 1.7. alpont 1.7.1. pontja az 1415/2022. (VIII. 18.) Korm. határozat 1. pontjával megállapított szöveg.
-[^2]: Az 1. pont 1.7. alpont 1.7.2. pontja az 1415/2022. (VIII. 18.) Korm. határozat 1. pontjával megállapított, nyitó szövegrésze az 1577/2022. (XI. 28.) Korm. határozat 3. pont a) pontja szerint módosított szöveg.
-[^3]: Az 1. pont 1.7. alpont 1.7.2. pont a) alpontja az 1577/2022. (XI. 28.) Korm. határozat 3. pont b) pontja szerint módosított szöveg.
+[^2]: Az 1. pont 1.7. alpont 1.7.2. pontja az 1415/2022. (VIII. 18.) Korm. határozat 1. pontjával megállapított, nyitó szövegrésze az 1577/2022. (XI. 28.) Korm. határozat 3. pont a) pontja, az 1048/2025. (III. 11.) Korm. határozat 5. pont a) alpontja szerint módosított szöveg.
+[^3]: Az 1. pont 1.7. alpont 1.7.2. pont a) alpontja az 1048/2025. (III. 11.) Korm. határozat 3. pontjával megállapított szöveg.
 [^4]: Az 1. pont 1.7. alpont 1.7.2. pont b) alpontja az 1577/2022. (XI. 28.) Korm. határozat 3. pont c) pontja szerint módosított szöveg.
 [^5]: Az 1. pont 1.7. alpont 1.7.2. pont c) alpontja az 1577/2022. (XI. 28.) Korm. határozat 3. pont d) pontja szerint módosított szöveg.
 [^6]: Az 1. pont 1.7. alpont 1.7.2. pont d) alpontja az 1577/2022. (XI. 28.) Korm. határozat 3. pont e) pontja szerint módosított szöveg.
 [^7]: Az 1.7. pont 1.7.3. alpontját az 1255/2022. (V. 9.) Korm. határozat 2. pontja iktatta be.
 [^8]: Az 1. pont 1.8. alpontja az 1268/2024. (IX. 10.) Korm. határozat 8. pontjával megállapított szöveg.
-[^9]: Az 1. pont 1.8. alpont d) pontja az 1387/2024. (XII. 9.) Korm. határozat 5. pontjával megállapított szöveg.
-[^10]: Az 1. pont 1.8. alpont e) pontja az 1387/2024. (XII. 9.) Korm. határozat 5. pontjával megállapított szöveg.
-[^11]: Az 1. pont 1.9. alpontja az 1577/2022. (XI. 28.) Korm. határozat 5. pont a) alpontja szerint módosított szöveg.
+[^9]: Az 1. pont 1.8. alpont d) pontja az 1048/2025. (III. 11.) Korm. határozat 4. pontjával megállapított szöveg.
+[^10]: Az 1. pont 1.8. pont e) alpontja az 1048/2025. (III. 11.) Korm. határozat 4. pontjával megállapított szöveg.
+[^11]: Az 1. pont 1.9. alpontja az 1577/2022. (XI. 28.) Korm. határozat 5. pont a) alpontja szerint módosított szöveg. Az 1. pont 1.9. pontja az 1048/2025. (III. 11.) Korm. határozat 5. pont b) alpontja szerint módosított szöveg.
 [^12]: Az 1. pont 1.10. alpontja az 1415/2022. (VIII. 18.) Korm. határozat 3. pontjával megállapított, az 1577/2022. (XI. 28.) Korm. határozat 5. pont b) alpontja szerint módosított szöveg.
 [^13]: Az 1. pont 1.11. alpontja az 1577/2022. (XI. 28.) Korm. határozat 5. pont c) alpontja szerint módosított szöveg.
 [^14]: Az 1. pont 1.12. alpontja az 1415/2022. (VIII. 18.) Korm. határozat 4. pontjával megállapított szöveg.
