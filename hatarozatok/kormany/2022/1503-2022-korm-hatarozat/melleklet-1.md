@@ -40,13 +40,13 @@ adatok forintban
 
 | 2.[^8] | 1502/2022. (X. 19.) Korm. határozat 5. pont a) és b) alpontja | 900 000 000 | 3 600 000 000 | 0 | 0 | 4 500 000 000 |
 
-| 3. | 1501/2022. (X. 19.) Korm. határozat 3. pontja | 0 | 600 000 000 | 2 200 000 000 | 0 | 2 800 000 000 |
+| 3.[^9] | 1501/2022. (X. 19.) Korm. határozat 3. pontja | 0 | 600 000 000 | 1 914 791 364 | 0 | 2 514 791 364 |
 
-| 4.[^9] |  |  |  |  |  |  |
+| 4.[^10] |  |  |  |  |  |  |
 
 | 5. | 1528/2022. (XI. 2.) Korm. határozat 1. pont b) alpont ba) és bb) pontja | 1 600 000 000 | 2 900 000 000 | 0 | 0 | 4 500 000 000 |
 
-| 6.[^10] |  |  |  |  |  |  |
+| 6.[^11] |  |  |  |  |  |  |
 
 | 7. | 1645/2022. (XII. 21.) Korm. határozat 1. pont c. alpontja |  |  | 502 381 618 |  | 502 381 618 |
 
@@ -58,5 +58,6 @@ adatok forintban
 [^6]: A 3. pont az 1527/2022. (XI. 2.) Korm. határozat 4. pontja szerint módosított szöveg.
 [^7]: Az 1. melléklet az 1645/2022. (XII. 21.) Korm. határozat 3. pontjával megállapított szöveg.
 [^8]: Az 1. mellékletben foglalt táblázat 2. sora az 1190/2024. (VI. 28.) Korm. határozat 4. pontjával megállapított szöveg.
-[^9]: Az 1. mellékletben foglalt táblázat 4. sorát az 1190/2024. (VI. 28.) Korm. határozat 6. pont c) alpontja visszavonta.
-[^10]: Az 1. mellékletben foglalt táblázat 6. sorát az 1373/2024. (XII. 2.) Korm. határozat 2. pontja visszavonta.
+[^9]: Az 1. mellékletben foglalt táblázat 3. sora az 1054/2025. (III. 11.) Korm. határozat 10. pontjával megállapított szöveg.
+[^10]: Az 1. mellékletben foglalt táblázat 4. sorát az 1190/2024. (VI. 28.) Korm. határozat 6. pont c) alpontja visszavonta.
+[^11]: Az 1. mellékletben foglalt táblázat 6. sorát az 1373/2024. (XII. 2.) Korm. határozat 2. pontja visszavonta.
