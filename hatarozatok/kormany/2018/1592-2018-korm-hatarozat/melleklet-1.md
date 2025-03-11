@@ -392,6 +392,10 @@ közúti és vasúti projektek
 
 | 27. | VASÚT-2/F | elővárosi és városi vasúti közlekedés fejlesztéséhez szükséges megvalósíthatósági tanulmány készítése (különös tekintettel a Debrecen és Nagyvárad közötti „tram-train” kapcsolatra, valamint a Debreceni Repülőtér vasúti kapcsolatának fejlesztésére) | NIF Zrt. | 2020.09.30. | – | – |
 
+| 28. | KÖZÚT-3/G | az ipari fejlesztési terület elérhetőségének javítása a Határ út felújításával | Debrecen MJV | 2025.10.31. | Debrecen | 2025.12.31. |
+
+| 29. | KÖZÚT-3/H | az ipari fejlesztési terület elérhetőségének javítása a 33. sz. főút felújításával Debrecen, Bem tér és 33. sz. főút – M35 autópálya csomópont között | Debrecen MJV | 2025.10.31. | Debrecen MJV | 2025.12.31. |
+
 2. A debreceni Észak-Nyugati Gazdasági Övezet infrastrukturális fejlesztése keretében tervezett
 
 közmű projektek
@@ -440,4 +444,4 @@ közmű projektek
 [^26]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^27]: A 11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^28]: A 12. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^29]: Az 1. melléklet az 1053/2020. (II. 19.) Korm. határozat 3. pontja, az 1302/2023. (VII. 19.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^29]: Az 1. melléklet az 1053/2020. (II. 19.) Korm. határozat 3. pontja, az 1302/2023. (VII. 19.) Korm. határozat 3. pontja, az 1054/2025. (III. 11.) Korm. határozat 1. pontja szerint módosított szöveg.
