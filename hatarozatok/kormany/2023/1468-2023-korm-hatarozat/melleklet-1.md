@@ -10,9 +10,7 @@
 
 ## 6.[^5]
 
-1. melléklet az 1468/2023. (X. 30.) Korm. határozathoz
-
-A kötelezettségvállalás mértéke az Állami vasútfejlesztési beruházások előirányzaton
+1. melléklet az 1468/2023. (X. 30.) Korm. határozathoz[^6]
 
 |  | A | B | C | D | E | F |
 
@@ -20,16 +18,13 @@ A kötelezettségvállalás mértéke az Állami vasútfejlesztési beruházáso
 
 | 2. | 1502/2022. (X. 19.) Korm. határozat | 1 000 000 000 | 9 105 000 000 | 20 285 000 000 | 5 500 000 000 | 35 890 000 000 |
 
-| 3.[^6] | 1521/2021. (VII. 30.) Korm. határozat | 0 | 0 | 443 950 000 | 1 536 050 000 | 1 980 000 000 |
+| 3. | 1599/2022. (XII. 1.) Korm. határozat | 0 | 500 000 000 | 18 000 000 000 | 25 000 000 000 | 43 500 000 000 |
 
-| 4.[^7] | 1599/2022. (XII. 1.) Korm. határozat | 0 | 500 000 000 | 18 000 000 000 | 25 000 000 000 | 43 500 000 000 |
-
-| 5. | 1178/2023. (IV. 28.) Korm. határozat | 14 788 933 337 | 14 156 200 451 | 20 674 977 530 | 16 059 888 682 | 65 680 000 000 |
+| 4. | 1178/2023. (IV. 28.) Korm. határozat | 3 026 687 960 | 10 188 771 833 | 6 702 324 911 | 0 | 19 917 784 704 |
 
 [^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 1118/2024. (IV. 23.) Korm. határozat 14. pontja iktatta be.
 [^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^3]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^4]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^5]: A 6. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: Az 1. mellékletben foglalt táblázat 3. sora az 1268/2024. (IX. 10.) Korm. határozat 19. pontjával megállapított szöveg.
-[^7]: Az 1. mellékletben foglalt táblázat 4. sora az 1118/2024. (IV. 23.) Korm. határozat 15. pontjával megállapított szöveg.
+[^6]: Az 1. melléklet az 1054/2025. (III. 11.) Korm. határozat 20. pontjával megállapított szöveg.
