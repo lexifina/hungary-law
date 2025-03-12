@@ -1,1 +1,0 @@
-16. § Ha a polgári nemzetbiztonsági szolgálat a 14. § (5) bekezdésében meghatározott esetekben méltányosságból hozzájárul a temetési költségekhez, annak mértéke nem haladhatja meg a Hszt. 264. § (2) bekezdésében meghatározott mértéket.
