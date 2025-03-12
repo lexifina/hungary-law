@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-1051-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2025-03-11 | 2025-1051-30-22.1 | 1051/2025. (III. 11.) Korm. határozat |
+| 2025-03-12 | 2025-1051-30-22.2 | 2010. évi CXXX. törvény |
