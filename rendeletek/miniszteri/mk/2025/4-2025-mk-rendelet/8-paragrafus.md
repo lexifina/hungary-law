@@ -1,0 +1,1 @@
+8. § Az egészségkárosodási ellátásra való jogosultság megállapítása esetén a személyügyi szerv haladéktalanul intézkedik a Pnbjt. 57. § (1) bekezdés 12. pontja alapján a szolgálati viszony megszűnésének megállapítása érdekében.

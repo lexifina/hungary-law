@@ -1,0 +1,1 @@
+12. § A főigazgató az egészségkárosodási ellátásra való jogosultság időtartamát meghosszabbító határozatában rendelkezik annak időtartamáról és az egészségkárosodási ellátás összegéről, továbbá tájékoztatást ad a szolgálati panasz benyújtásának lehetőségéről.

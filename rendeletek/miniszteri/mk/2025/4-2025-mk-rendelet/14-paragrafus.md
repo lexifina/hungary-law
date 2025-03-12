@@ -1,0 +1,5 @@
+14. § (1) Ha az egészségkárosodási ellátás mértékét a Pnbjt. 61. § (4) és (5) bekezdése alapján módosítani kell, a főigazgató határozatot hoz az egészségkárosodási ellátás új mértékéről.
+
+(2) A határozatot a polgári nemzetbiztonsági szolgálatnál végrehajtott általános illetményfejlesztést követően – a főigazgató által az egészségkárosodási ellátásban részesülők részére meghatározott mértékkel – 15 munkanapon belül hivatalból meg kell hozni. A baleseti ellátás, a rokkantsági ellátás vagy a rehabilitációs ellátás megváltozása esetén a módosított határozatot az egészségkárosodási ellátásra jogosult Pnbjt. 62. § (1) bekezdése szerinti bejelentését vagy – ha ez az időpont korábbi – a hivatalos tudomásszerzést követő 15 munkanapon belül kell meghozni.
+
+(3) Ha a rendelkezésre álló iratok alapján hiánypótlás szükséges, akkor a személyügyi szerv az egészségkárosodási ellátásra jogosultat haladéktalanul, de legkésőbb a bejelentést követő 10 munkanapon belül felhívja az iratok csatolására, kiegészítésére. Ebben az esetben a határozat meghozatalára vonatkozó, (2) bekezdés szerinti határidő a hiánypótlás teljesítésétől kezdődik.
