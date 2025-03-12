@@ -1,4 +1,4 @@
-8. § (1)[^7] A KOMP-rendszer igénybevétele során a rendvédelmi szerv a következő, általa törvény alapján a hivatásos állomány tagjáról és a hivatásos állományába jelentkezőről kezelt adatokat használja fel:
+8. § (1)[^9] A KOMP-rendszer igénybevétele során a rendvédelmi szerv a következő, általa törvény alapján a hivatásos állomány tagjáról és a hivatásos állományába jelentkezőről kezelt adatokat használja fel:
 
 a) név,
 
@@ -32,4 +32,4 @@ c) lehetőséget ad egyéni és összesített vélemények, jelentések és elem
 
 (4) A KOMP-rendszerben folyamatosan, de legkésőbb az alkalmasságvizsgálati minősítés dátumát követő negyedév első hónapjának 15-éig rögzíteni kell az elvégzett alkalmasságvizsgálatokra vonatkozó minősítéseket.
 
-[^7]: A 8. § (1) bekezdés nyitó szövegrésze a 43/2022. (XII. 19.) BM rendelet 132. §-a szerint módosított szöveg.
+[^9]: A 8. § (1) bekezdés nyitó szövegrésze a 43/2022. (XII. 19.) BM rendelet 132. §-a szerint módosított szöveg.

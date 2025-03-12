@@ -12,12 +12,14 @@
 
 (2a)[^3] A III/A. Fejezet hatálya a rendvédelmi oktatási intézményre, a rendvédelmi oktatási intézmény tanulójára, valamint a Hszt. 1. § (1) bekezdés a)–f) pontja szerinti, a miniszter irányítása alatt álló rendvédelmi feladatokat ellátó szervre és ezen rendvédelmi feladatokat ellátó szerv tisztjelöltjére terjed ki.
 
-(3) A IV. Fejezet hatálya a Hszt. 1. § (1) bekezdés a)–f) és h) pontja szerinti, a miniszter irányítása alatt álló rendvédelmi feladatokat ellátó szervre, az ezen rendvédelmi feladatokat ellátó szervnél rendvédelmi igazgatási szolgálati jogviszonyban (a továbbiakban: igazgatási jogviszony) foglalkoztatott rendvédelmi igazgatási alkalmazottra (a továbbiakban: rendvédelmi alkalmazott) terjed ki.
+(3)[^4] A IV. Fejezet hatálya a Hszt. 1. § (1) bekezdés a)–f) pontja szerinti, a miniszter irányítása alatt álló rendvédelmi feladatokat ellátó szervre, az ezen rendvédelmi feladatokat ellátó szervnél rendvédelmi igazgatási szolgálati jogviszonyban (a továbbiakban: igazgatási jogviszony) foglalkoztatott rendvédelmi igazgatási alkalmazottra (a továbbiakban: rendvédelmi alkalmazott) terjed ki.
 
-(4) Az V. Fejezet hatálya a Hszt. 1. § (1) bekezdés a)–f) és h) pontja szerinti, a miniszter irányítása alatt álló rendvédelmi feladatokat ellátó szervre és ezen rendvédelmi feladatokat ellátó szervvel hivatásos szolgálati jogviszonyban álló személyre terjed ki.
+(4)[^5] Az V. Fejezet hatálya a Hszt. 1. § (1) bekezdés a)–f) pontja szerinti, a miniszter irányítása alatt álló rendvédelmi feladatokat ellátó szervre és ezen rendvédelmi feladatokat ellátó szervvel hivatásos szolgálati jogviszonyban álló személyre terjed ki.
 
 (5) A VI. Fejezet hatálya a Hszt. 1. § (1) bekezdés a)–f) pontja szerinti, a miniszter irányítása alatt álló rendvédelmi feladatokat ellátó szervre és ezen rendvédelmi feladatokat ellátó szervvel hivatásos szolgálati jogviszonyban álló személyre terjed ki.
 
 [^1]: Az 1. § (1) bekezdése a 43/2022. (XII. 19.) BM rendelet 131. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § (1a) bekezdését a 43/2022. (XII. 19.) BM rendelet 127. §-a iktatta be.
 [^3]: Az 1. § (2a) bekezdését a 4/2022. (III. 25.) BM rendelet 21. §-a iktatta be.
+[^4]: Az 1. § (3) bekezdése az 1/2025. (III. 11.) MK rendelet 16. §-a szerint módosított szöveg.
+[^5]: Az 1. § (4) bekezdése az 1/2025. (III. 11.) MK rendelet 16. §-a szerint módosított szöveg.

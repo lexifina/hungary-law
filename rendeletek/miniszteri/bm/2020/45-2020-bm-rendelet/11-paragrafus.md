@@ -2,7 +2,7 @@
 
 ## 4. A Tanácsadó Testület és az Alkalmasságvizsgálati Szakmai Protokoll
 
-11. §[^8] (1) A Tanácsadó Testület a miniszter alkalmasságvizsgálatokkal összefüggő feladatainak ellátását segítő, 14 főből álló szakmai testület.
+11. §[^10] (1) A Tanácsadó Testület a miniszter alkalmasságvizsgálatokkal összefüggő feladatainak ellátását segítő, 14 főből álló szakmai testület.
 
 (2) A Tanácsadó Testület többségi szavazással dönt. Szavazategyenlőség esetén az elnök szavazata dönt.
 
@@ -10,4 +10,4 @@
 
 (4) A Tanácsadó Testület működésével összefüggő feltételeket a miniszter biztosítja.
 
-[^8]: [A 11. §-ban a 43/2022. (XII. 19.) BM rendelet 131. § d) pontja által elrendelt módosítás, amely szerint a „14” szövegrész helyébe a „15” szöveg lép, nem vezethető át.]
+[^10]: [A 11. §-ban a 43/2022. (XII. 19.) BM rendelet 131. § d) pontja által elrendelt módosítás, amely szerint a „14” szövegrész helyébe a „15” szöveg lép, nem vezethető át.]
