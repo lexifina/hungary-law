@@ -10,6 +10,6 @@
 
 (4) A 23. § (1) bekezdésében szabályozott eljárásban a vezényeltet fogadó szerv humánigazgatási szakszolgálata együttműködik az eredeti rendvédelmi szerv központi humánigazgatási szakszolgálatával.
 
-(5)[^17] Az (1)–(4) bekezdés rendelkezéseit a Hszt. 51. § (3) bekezdés a) pontja alapján a Nemzeti Közszolgálati Egyetemre vezényeltekre is megfelelően alkalmazni kell.
+(5)[^21] Az (1)–(4) bekezdés rendelkezéseit a Hszt. 51. § (3) bekezdés a) pontja alapján a Nemzeti Közszolgálati Egyetemre vezényeltekre is megfelelően alkalmazni kell.
 
-[^17]: A 26. § (5) bekezdését a 40/2017. (XII. 29.) BM rendelet 16. § (4) bekezdése iktatta be.
+[^21]: A 26. § (5) bekezdését a 40/2017. (XII. 29.) BM rendelet 16. § (4) bekezdése iktatta be.

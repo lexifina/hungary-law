@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-54-20-0
 | 2021-01-15 | 2016-54-20-0A.4 | 2/2021. (I. 14.) BM rendelet |
 | 2023-07-01 | 2016-54-20-0A.5 | 2/2021. (I. 14.) BM rendelet |
 | 2024-12-31 | 2016-54-20-0A.6 | 62/2024. (XII. 30.) BM rendelet |
+| 2025-03-12 | 2016-54-20-0A.7 | 4/2025. (III. 11.) MK rendelet |
