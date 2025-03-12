@@ -6,7 +6,7 @@ a)[^23] a nyugellátásokkal kapcsolatos feladatköreivel összefüggésben a ny
 
 b)[^24] a csecsemőgondozási díj és a gyermekgondozási díj kivételével az egészségbiztosítás pénzbeli ellátásaival, a baleseti táppénzzel és az utazási költségtérítési támogatással, valamint a TAJ szám képzésével és nyilvántartásával kapcsolatos feladatköreivel összefüggésben az egészségbiztosításért felelős miniszter;
 
-c)[^25] a családtámogatásokkal – ideértve a csecsemőgondozási díjat, a gyermekgondozási díjat, a nagycsaládosok személygépkocsi-szerzési támogatását, a gyermeket nevelő családok otthonfelújítási támogatását és a babaváró támogatást is – kapcsolatos feladatköreivel összefüggésben a családpolitikáért felelős miniszter;
+c)[^25] a családtámogatásokkal – ideértve a csecsemőgondozási díjat, a gyermekgondozási díjat, a nagycsaládosok személygépkocsi-szerzési támogatását, a gyermeket nevelő családok otthonfelújítási támogatását és a babaváró támogatást is –, valamint a lakáscélú állami támogatásokért felelős miniszterrel együttműködésben a Vidéki Otthonfelújítási Programról szóló kormányrendelet szerinti otthonfelújítási támogatással kapcsolatos feladatköreivel összefüggésben a családpolitikáért felelős miniszter;
 
 d)[^26] a pénzbeli és természetbeni szociális és gyermekvédelmi ellátásokkal, valamint – az állami támogatással kapcsolatos ügyek kivételével – a szociális, gyermekjóléti és gyermekvédelmi szolgáltatásokkal kapcsolatos feladatköreivel összefüggésben a szociálpolitikáért, illetve a gyermekek és az ifjúság védelméért felelős miniszter;
 
@@ -56,7 +56,7 @@ d)[^34] az egészségbiztosítási szervként eljáró fővárosi és vármegyei
 [^22]: A 14. § (1) bekezdés nyitó szövegrésze a 282/2019. (XI. 27.) Korm. rendelet 27. § 3. pontja, a 445/2020. (X. 1.) Korm. rendelet 23. § 2. pontja, záró szövegrésze a 445/2020. (X. 1.) Korm. rendelet 23. § 3. pontja szerint módosított szöveg.
 [^23]: A 14. § (1) bekezdés a) pontja a 238/2022. (VI. 30.) Korm. rendelet 171. § (1) bekezdésével megállapított szöveg.
 [^24]: A 14. § (1) bekezdés b) pontja a 444/2020. (IX. 30.) Korm. rendelet 7. §-ával megállapított, a 238/2022. (VI. 30.) Korm. rendelet 173. § a) pontja szerint módosított szöveg.
-[^25]: A 14. § (1) bekezdés c) pontja a 444/2020. (IX. 30.) Korm. rendelet 7. §-ával megállapított, a 238/2022. (VI. 30.) Korm. rendelet 173. § b) pontja szerint módosított szöveg.
+[^25]: A 14. § (1) bekezdés c) pontja a 36/2025. (III. 11.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^26]: A 14. § (1) bekezdés d) pontja a 238/2022. (VI. 30.) Korm. rendelet 173. § c) pontja szerint módosított szöveg.
 [^27]: A 14. § (1) bekezdés f) pontját a 238/2022. (VI. 30.) Korm. rendelet 171. § (2) bekezdése iktatta be.
 [^28]: A 14. § (2) bekezdése a 147/2019. (VI. 25.) Korm. rendelet 8. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 174. § (2) bekezdés a) pontja, a 480/2022. (XI. 28.) Korm. rendelet 22. § 2. pontja szerint módosított szöveg.
