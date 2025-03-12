@@ -1,4 +1,4 @@
-14. melléklet az 57/2009. (X. 30.) IRM–ÖM–PTNM együttes rendelethez[^107]
+14. melléklet az 57/2009. (X. 30.) IRM–ÖM–PTNM együttes rendelethez[^108]
 
 ......................................................
 
@@ -68,4 +68,4 @@ szolgálati elöljáró
 
 * Kívánt rész aláhúzandó!
 
-[^107]: A 14. melléklet a 78/2009. (XII. 28.) IRM–ÖM–PTNM együttes rendelet 5. § (3) bekezdése szerint módosított szöveg.
+[^108]: A 14. melléklet a 78/2009. (XII. 28.) IRM–ÖM–PTNM együttes rendelet 5. § (3) bekezdése szerint módosított szöveg.

@@ -1,3 +1,3 @@
-25. §[^43]
+25. §[^44]
 
-[^43]: A „Soron kívüli alkalmassági vizsgálat” alcím címét és a 25. §-t a 43/2022. (XII. 19.) BM rendelet 119. § 22. pontja hatályon kívül helyezte.
+[^44]: A „Soron kívüli alkalmassági vizsgálat” alcím címét és a 25. §-t a 43/2022. (XII. 19.) BM rendelet 119. § 22. pontja hatályon kívül helyezte.

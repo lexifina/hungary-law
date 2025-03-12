@@ -1,3 +1,3 @@
-14. §[^25]
+14. §[^26]
 
-[^25]: A 14. §-t a 45/2020. (XII. 16.) BM rendelet 113. § e) pontja hatályon kívül helyezte.
+[^26]: A 14. §-t a 45/2020. (XII. 16.) BM rendelet 113. § e) pontja hatályon kívül helyezte.

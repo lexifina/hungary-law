@@ -12,10 +12,10 @@ b) olyan jellegű az egészségkárosodása, hogy beosztásának, szolgálatána
 
 (3) A hivatásos állomány tagja felülvizsgálatát
 
-a)[^60]
+a)[^61]
 
 b) a polgári nemzetbiztonsági szolgálatoknál a polgári nemzetbiztonsági szolgálatokat irányító miniszter által
 
 meghatározott kritériumok figyelembevételével kell végezni.
 
-[^60]: A 39. § (3) bekezdés a) pontját a 43/2022. (XII. 19.) BM rendelet 119. § 32. pontja hatályon kívül helyezte.
+[^61]: A 39. § (3) bekezdés a) pontját a 43/2022. (XII. 19.) BM rendelet 119. § 32. pontja hatályon kívül helyezte.

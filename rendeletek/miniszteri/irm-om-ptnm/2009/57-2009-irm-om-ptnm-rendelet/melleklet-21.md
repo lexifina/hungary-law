@@ -56,7 +56,7 @@
 
 |  | 3. sz. példány: irattár |
 
-21. melléklet az 57/2009. (X. 30.) IRM–ÖM–PTNM együttes rendelethez[^114]
+21. melléklet az 57/2009. (X. 30.) IRM–ÖM–PTNM együttes rendelethez[^115]
 
 ## ..... számú példány
 
@@ -106,4 +106,4 @@ I.  fokú vagy II. fokú Szakértői Bizottság: NRSZH Közép-magyarországi 
 
 II. fokú FÜV bizottság tagja
 
-[^114]: A 21. melléklet a 67/2011. (XII. 30.) BM rendelet 23. § o) és q) pontja szerint módosított szöveg.
+[^115]: A 21. melléklet a 67/2011. (XII. 30.) BM rendelet 23. § o) és q) pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
 ## * Kívánt rész aláhúzandó!
 
-23. melléklet az 57/2009. (X. 30.) IRM–ÖM–PTNM együttes rendelethez[^116]
+23. melléklet az 57/2009. (X. 30.) IRM–ÖM–PTNM együttes rendelethez[^117]
 
 | …… számú példány |
 
@@ -58,4 +58,4 @@
 
 * Kívánt rész aláhúzandó!
 
-[^116]: A 23. mellékletet a 67/2011. (XII. 30.) BM rendelet 21. § (7) bekezdése iktatta be.
+[^117]: A 23. mellékletet a 67/2011. (XII. 30.) BM rendelet 21. § (7) bekezdése iktatta be.

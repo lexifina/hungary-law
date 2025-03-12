@@ -1,4 +1,4 @@
-13. melléklet az 57/2009. (X. 30.) IRM–ÖM–PTNM együttes rendelethez[^106]
+13. melléklet az 57/2009. (X. 30.) IRM–ÖM–PTNM együttes rendelethez[^107]
 
 ..................................................................
 
@@ -44,4 +44,4 @@ P. H.
 
 2. számú példány személyügyi anyag
 
-[^106]: A 13. melléklet a 67/2011. (XII. 30.) BM rendelet 23. § m) és q) pontja szerint módosított szöeg.
+[^107]: A 13. melléklet a 67/2011. (XII. 30.) BM rendelet 23. § m) és q) pontja szerint módosított szöeg.

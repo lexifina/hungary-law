@@ -42,6 +42,6 @@
 
 ## döntés-előkészítésért felelős orvos
 
-18. melléklet az 57/2009. (X. 30.) IRM–ÖM–PTNM együttes rendelethez[^111]
+18. melléklet az 57/2009. (X. 30.) IRM–ÖM–PTNM együttes rendelethez[^112]
 
-[^111]: A 18. melléklet a 67/2011. (XII. 30.) BM rendelet 23. § o) és q) pontja szerint módosított szöveg.
+[^112]: A 18. melléklet a 67/2011. (XII. 30.) BM rendelet 23. § o) és q) pontja szerint módosított szöveg.

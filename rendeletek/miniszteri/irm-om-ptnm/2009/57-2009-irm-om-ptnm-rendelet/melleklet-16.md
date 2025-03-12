@@ -82,7 +82,7 @@
 
 ## (neve, rf., beosztása)
 
-16. melléklet az 57/2009. (X. 30.) IRM–ÖM–PTNM együttes rendelethez[^109]
+16. melléklet az 57/2009. (X. 30.) IRM–ÖM–PTNM együttes rendelethez[^110]
 
 .........................................
 
@@ -160,4 +160,4 @@ alapellátó orvos
 
 * Kívánt rész aláhúzandó!
 
-[^109]: A 16. melléklet a 67/2011. (XII. 30.) BM rendelet 23. § o) pontja, a 37/2015. (VI. 16.) BM rendelet 43. § (2) bekezdés i) pontja szerint módosított szöveg.
+[^110]: A 16. melléklet a 67/2011. (XII. 30.) BM rendelet 23. § o) pontja, a 37/2015. (VI. 16.) BM rendelet 43. § (2) bekezdés i) pontja szerint módosított szöveg.

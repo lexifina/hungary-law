@@ -60,6 +60,6 @@
 
 ## * Kívánt rész aláhúzandó!
 
-19. melléklet az 57/2009. (X. 30.) IRM–ÖM–PTNM együttes rendelethez[^112]
+19. melléklet az 57/2009. (X. 30.) IRM–ÖM–PTNM együttes rendelethez[^113]
 
-[^112]: A 19. melléklet a 67/2011. (XII. 30.) BM rendelet 23. § o) és q) pontja szerint módosított szöveg.
+[^113]: A 19. melléklet a 67/2011. (XII. 30.) BM rendelet 23. § o) és q) pontja szerint módosított szöveg.

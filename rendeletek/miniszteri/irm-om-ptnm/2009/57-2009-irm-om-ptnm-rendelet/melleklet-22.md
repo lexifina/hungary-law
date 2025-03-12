@@ -8,7 +8,7 @@
 
 |  | 3. sz. példány: irattár |
 
-22. melléklet az 57/2009. (X. 30.) IRM–ÖM–PTNM együttes rendelethez[^115]
+22. melléklet az 57/2009. (X. 30.) IRM–ÖM–PTNM együttes rendelethez[^116]
 
 1M40928_0
 
@@ -62,4 +62,4 @@ Kapja: 1. sz. példány: kérelmet benyújtó személy
 
 5. sz. példány: irattár
 
-[^115]: A 22. mellékletet az 56. § (3) bekezdése hatályon kívül helyezte, újonnan a 67/2011. (XII. 30.) BM rendelet 21. § (6) bekezdése iktatta be.
+[^116]: A 22. mellékletet az 56. § (3) bekezdése hatályon kívül helyezte, újonnan a 67/2011. (XII. 30.) BM rendelet 21. § (6) bekezdése iktatta be.

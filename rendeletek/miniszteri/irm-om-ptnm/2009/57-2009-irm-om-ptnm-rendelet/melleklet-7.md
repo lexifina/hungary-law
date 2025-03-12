@@ -1,3 +1,3 @@
-7. melléklet az 57/2009. (X. 30.) IRM–ÖM–PTNM együttes rendelethez[^100]
+7. melléklet az 57/2009. (X. 30.) IRM–ÖM–PTNM együttes rendelethez[^101]
 
-[^100]: A 7. mellékletet a 43/2022. (XII. 19.) BM rendelet 119. § 38. pontja hatályon kívül helyezte.
+[^101]: A 7. mellékletet a 43/2022. (XII. 19.) BM rendelet 119. § 38. pontja hatályon kívül helyezte.

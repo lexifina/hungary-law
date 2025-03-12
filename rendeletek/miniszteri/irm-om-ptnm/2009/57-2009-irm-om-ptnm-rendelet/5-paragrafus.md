@@ -1,3 +1,3 @@
-5. §[^16]
+5. §[^17]
 
-[^16]: Az 5. §-t a 43/2022. (XII. 19.) BM rendelet 119. § 11. pontja hatályon kívül helyezte.
+[^17]: Az 5. §-t a 43/2022. (XII. 19.) BM rendelet 119. § 11. pontja hatályon kívül helyezte.

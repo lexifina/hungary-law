@@ -36,3 +36,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-57-20-1
 | 2021-01-01 | 2009-57-20-1U.29 | 45/2020. (XII. 16.) BM rendelet |
 | 2021-01-15 | 2009-57-20-1U.30 | 56/2012. (XI. 22.) BM rendelet |
 | 2023-01-01 | 2009-57-20-1U.31 | 43/2022. (XII. 19.) BM rendelet |
+| 2025-03-12 | 2009-57-20-1U.32 | 1/2025. (III. 11.) MK rendelet |
