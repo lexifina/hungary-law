@@ -1,0 +1,1 @@
+7. § A hősi halottá, valamint a polgári nemzetbiztonsági szolgálat – 2. § (2) bekezdése szerinti – halottjává minősített elhunyt személy temetéséről és egyéb kegyeleti ellátásáról, valamint ezen minősített elhunyt személy hozzátartozóinak szociális gondozásáról – ha az elhunyt a halál bekövetkezésekor vezényelve volt – a vezénylő polgári nemzetbiztonsági szolgálat gondoskodik.
