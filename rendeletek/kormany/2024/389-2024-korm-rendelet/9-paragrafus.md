@@ -64,7 +64,7 @@ d) a 3. § (3) bekezdés a) pontjában – ide nem értve a Tbj. 4. § 11. pontj
 
 13. a napelemes rendszer telepítését vagy cseréjét végző vállalkozó nyilatkozata a 7. § (6) bekezdésében foglaltak teljesüléséről,
 
-14. a köztartozás-mentesség vagy a fennálló köztartozásnak a 4. § (2) bekezdés c) pontja szerinti mértéket meg nem haladó összegének ténye tekintetében – ha az igénylő nem szerepel az adózás rendjéről szóló törvény szerinti köztartozásmentes adózói adatbázisban – nemleges vagy az adóigazgatási eljárás részletszabályairól szóló 465/2017. (XII. 28.) Korm. rendelet 22. § (1) bekezdés a) pontja szerinti összeget meg nem haladó köztartozásról szóló, a kérelem benyújtásához képest 15 napon belül kiállított adóigazolás,
+14.[^2] a köztartozás-mentesség vagy a fennálló köztartozásnak a 4. § (2) bekezdés c) pontja szerinti mértéket meg nem haladó összegének ténye tekintetében – ha az igénylő nem szerepel az Art. szerinti köztartozásmentes adózói adatbázisban – nemleges vagy az adóigazgatási eljárás részletszabályairól szóló 465/2017. (XII. 28.) Korm. rendelet 22. § (1) bekezdés a) pontja szerinti összeget meg nem haladó köztartozásról szóló, a kérelem benyújtásához képest 15 napon belül kiállított adóigazolás,
 
 15. a támogatással érintett lakásban tulajdonjoggal rendelkező nagykorú gyermek, illetve szülő adatkezelésre vonatkozó nyilatkozata,
 
@@ -103,3 +103,5 @@ c) a Kincstár területi szerve általi átvételének
 napja minősül.
 
 (6) Amennyiben az a házastárs vagy élettárs, akinek a nevére a számlát kiállították, a kérelem benyújtását megelőzően elhalálozik, és a számlát a másik, túlélő házastárs vagy élettárs csatolja a kérelméhez, ez a tény a számla elfogadhatóságát nem akadályozza.
+
+[^2]: A 9. § (3) bekezdés 14. pontja a 36/2025. (III. 11.) Korm. rendelet 13. § e) pontja szerint módosított szöveg.
