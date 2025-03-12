@@ -1,0 +1,1 @@
+4. § A nemzetbiztonsági állomány tagjának a Pnbjt. 116. § (1) bekezdés a) és h) pontjában foglalt kötelezettség teljesítése esetén a közvetlen szolgálati elöljáró részére be kell mutatnia a bíróság, ügyészség vagy hatóság idézését, egyéb olyan iratot, amelyből megállapítható a kötelezettség, továbbá az oda- és visszautazáshoz szükséges időtartam.

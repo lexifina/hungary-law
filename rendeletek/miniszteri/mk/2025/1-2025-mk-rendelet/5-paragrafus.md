@@ -1,0 +1,1 @@
+5. § A nemzetbiztonsági állomány tagjának a Pnbjt. 116. § (1) bekezdés b) pontjában foglalt halálesettel összefüggésben történő mentesítése esetén a szolgálati elöljáró az igénybevétel jogszerűségének igazolása érdekében kérheti a nemzetbiztonsági állomány tagjától a halotti anyakönyvi kivonat másolatának bemutatását.
