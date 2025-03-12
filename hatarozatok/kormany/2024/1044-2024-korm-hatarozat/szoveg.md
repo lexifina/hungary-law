@@ -24,6 +24,8 @@ d) tagja a c) alpont szerinti tiszteletdíjáról, valamint juttatásairól lemo
 
 6. A Testület szükség szerint ülésezik, üléseit a Testület elnöke hívja össze. A Testület működése szabályait maga határozza meg.
 
-7. A Testület működésével összefüggő szakmai előkészítő és adminisztratív feladatok ellátásáról a Miniszterelnöki Kabinetirodán működő titkárság gondoskodik, amelyet a miniszterelnök politikai igazgatója irányít. A Testület titkára a miniszterelnök politikai igazgatója által kijelölt személy.
+7.[^1] A Testület működésével összefüggő szakmai előkészítő és adminisztratív feladatok ellátásáról a Miniszterelnökségen működő titkárság gondoskodik, amelyet a miniszterelnök politikai igazgatója irányít. A Testület titkára a miniszterelnök politikai igazgatója által kijelölt személy.
 
 8. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: A 7. pont az 1052/2025. (III. 11.) Korm. határozat 1. pontja szerint módosított szöveg.
