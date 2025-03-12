@@ -1,3 +1,0 @@
-## 25. § Ez a rendelet a kihirdetését követő napon lép hatályba.
-
-26. § 2017. január 1-je és e rendelet hatálybalépése közötti időszakban a Hszt. 82/A. § (1) bekezdésében foglaltak alapján a hivatásos állomány egészségkárosodási ellátásra jogosultságot szerzett tagja folyamatban lévő ügyében e rendelet rendelkezéseit a hatálybalépés napjától alkalmazni kell azzal, hogy a Hszt. alapján elvégzett eljárási cselekményeket nem kell megismételni. E rendelkezés alkalmazásakor folyamatban lévő ügynek kell tekinteni az eljárást, ha az egészségkárosodási ellátásra való jogosultság elbírálásáról e rendelet hatálybalépéséig érdemi határozat nem született.
