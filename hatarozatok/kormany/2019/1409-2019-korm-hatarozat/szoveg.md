@@ -6,35 +6,41 @@ b) a pénzügyi rendszerek pénzmosás vagy terrorizmusfinanszírozás céljára
 
 érdekében – javaslattevő, véleményező vagy tanácsadói tevékenységet végző testületként – létrehozza a Pénzmosás Elleni Koordinációs Tanácsot (a továbbiakban: Tanács).
 
-2. A Tanács
+2.[^1] A Tanács
 
-a) támogatja a pénzmosás, a terrorizmus és a proliferáció finanszírozása elleni küzdelem elősegítésével kapcsolatos kormányzati feladatok végrehajtását;
+a) koordinálja a pénzmosás, a terrorizmus és a proliferáció finanszírozása elleni küzdelem elősegítésével kapcsolatos kormányzati feladatok végrehajtását;
 
-b) javaslatot tesz a nemzeti pénzmosás és terrorizmus finanszírozása elleni stratégia kialakítására és folyamatos felülvizsgálatára a pénzügypolitikai célok figyelembevételével;
+b) javaslatot tesz a Kormány részére a nemzeti pénzmosás és terrorizmus finanszírozása elleni stratégia kialakítására és folyamatos felülvizsgálatára a pénzügypolitikai célok figyelembevételével;
 
-c) figyelemmel kíséri az Európa Tanács Moneyval országjelentésben Magyarország részére megfogalmazott pénzmosás elleni ajánlások végrehajtásáról készített akciótervről szóló 1688/2017. (IX. 22.) Korm. határozat végrehajtását;
+c) az elfogadott nemzeti pénzmosás és terrorizmus finanszírozása elleni stratégia alapján koordinálja a stratégiai kockázatértékelési intézkedéseket, és javaslatokat tesz a kockázatok hatékony mérséklése érdekében;
 
-d) utóköveti a Kormány által jóváhagyott szakterületi akciótervek végrehajtását;
+d) utóköveti a Kormány által jóváhagyott szakterületi intézkedési tervek végrehajtását, és feladatának ellátásához rendszeresen beszámoltatja a pénzmosás, a terrorizmus és a proliferáció finanszírozása elleni küzdelem kormányzati feladatai végrehajtásában közreműködő hatóságokat a meghatározott stratégiához kapcsolódó feladatok végrehajtásáról, valamint a pénzmosási, terrorizmusfinanszírozási és proliferációfinanszírozási trendekről és kockázatokról;
 
-e) a szakértői szintű Európai Koordinációs Tárcaközi Bizottság 34.1. Pénzmosás Elleni Szabályozási Alcsoport javaslata alapján megvitatja a pénzmosás, a terrorizmus és a proliferáció finanszírozása elleni küzdelmet szolgáló jogszabályok és egyéb kormányzati intézkedések tervezetét;
+e) felméri a stratégiai feladatok végrehajtásához szükséges eszközrendszereket, és szükség szerint javaslatot tesz azok fejlesztésére;
 
-f) figyelemmel kíséri a nemzeti kockázatértékelés minden harmadik évben történő felülvizsgálatát, valamint a kockázatcsökkentő intézkedések végrehajtását;
+f) nyomon követi a pénzmosás, a terrorizmus és a proliferáció finanszírozása elleni küzdelem irányát meghatározó nemzetközi szervezetek munkáját, szükség szerint beszámoltatja a szervezetekbe delegált tagokat a stratégiai irányokat érintő kérdéskörök kapcsán;
 
-g) évente javaslatot tesz az elkészített nemzeti kockázatértékelés felülvizsgálatának szükségességéről;
+g) a szakértői szintű Európai Koordinációs Tárcaközi Bizottság 56. Pénzmosás Elleni Szabályozás Szakértői Csoport javaslata alapján megvitatja a pénzmosás, a terrorizmus és a proliferáció finanszírozása elleni küzdelmet szolgáló jogszabályok és egyéb kormányzati intézkedések tervezetét;
 
-h) figyelemmel kíséri a nemzeti kockázatértékelés eredményei alapján indokolt kockázatkezelési eljárásokat, intézkedéseket, és javaslatot tesz az intézkedési terv előkészítésére (jogi és nem jogi eszközök);
+h) koordinálja a nemzeti kockázatértékelés minden harmadik évben történő felülvizsgálatát, valamint a kockázatcsökkentő intézkedések végrehajtását;
 
-i) figyelemmel kíséri a nemzetközi szerződésekből és egyéb nemzetközi kötelezettségekből fakadó, a pénzmosás, a terrorizmus és a proliferáció finanszírozása elleni küzdelmet érintő hazai feladatokat, javaslatot tesz a szükséges intézkedések meghozatalára, valamint segíti azok végrehajtását;
+i) évente javaslatot tesz az elkészített nemzeti kockázatértékelés felülvizsgálatának szükségességéről;
 
-j) elősegíti és összehangolja a pénzmosás, a terrorizmus és a proliferáció finanszírozás megelőzésével és megakadályozásával kapcsolatos hazai és nemzetközi szakmai kommunikációt;
+j) koordinálja a nemzeti kockázatértékelés eredményei alapján indokolt kockázatkezelési eljárásokat, intézkedéseket, és javaslatot tesz az intézkedési terv előkészítésére (jogi és nem jogi eszközök);
 
-k) kapcsolatot tart a pénzmosás, a terrorizmus és a proliferáció finanszírozása elleni küzdelemben érintett szolgáltatókkal, felügyeleti, érdekképviseleti és szakmai szervezetekkel, szakértői csoportokkal;
+k) figyelemmel kíséri a nemzetközi szerződésekből és egyéb nemzetközi kötelezettségekből fakadó, a pénzmosás, a terrorizmus és a proliferáció finanszírozása elleni küzdelmet érintő hazai feladatokat, javaslatot tesz a szükséges intézkedések meghozatalára, valamint segíti azok végrehajtását;
 
-l) gondoskodik arról, hogy a tervezett és javasolt pénzmosás és a terrorizmus finanszírozása elleni intézkedéseket a Nemzeti Versenyképességi Tanács is megvizsgálja.
+l) elősegíti és összehangolja a pénzmosás, a terrorizmus és a proliferáció finanszírozása megelőzésével és megakadályozásával kapcsolatos hazai és nemzetközi szakmai kommunikációt;
 
-3. A Tanács elnöke a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter által vezetett minisztériumnak a miniszter pénz-, tőke- és biztosítási piac szabályozásáért való felelősségével kapcsolatos feladatokat ellátó államtitkára.
+m) kapcsolatot tart a pénzmosás, a terrorizmus és a proliferáció finanszírozása elleni küzdelemben érintett szolgáltatókkal, felügyeleti, érdekképviseleti és szakmai szervezetekkel, szakértői csoportokkal.
 
-4.[^1] A Tanács tagja:
+3.[^2] A Tanács
+
+a) elnöke a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter által vezetett minisztériumnak a miniszter pénz-, tőke- és biztosítási piac szabályozásáért való felelősségével kapcsolatos feladatokat ellátó államtitkára,
+
+b) társelnöke a pénzmosás és a terrorizmus finanszírozása elleni küzdelem felügyeletéért felelős kormánybiztos.
+
+4.[^3] A Tanács tagja:
 
 a) a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter,
 
@@ -90,15 +96,15 @@ e) a Magyar Ügyvédi Kamara elnökét,
 
 f) a Magyar Országos Közjegyzői Kamara elnökét,
 
-g)[^2] a Szabályozott Tevékenységek Felügyeleti Hatóságának elnökét,
+g)[^4] a Szabályozott Tevékenységek Felügyeleti Hatóságának elnökét,
 
 hogy delegáljon képviselőt a Tanácsba. A delegáltak állandó meghívottként vesznek részt a Tanács ülésein.
 
 6. A pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter eseti jelleggel a Tanács működésébe más szervezeteket és személyeket is bevonhat.
 
-7.[^3] A 4. pont a)–h) alpontja vonatkozásában a Tanács tagjaként államtitkár jelölhető ki.
+7.[^5] A 4. pont a)–h) alpontja vonatkozásában a Tanács tagjaként államtitkár jelölhető ki.
 
-8.[^4] A 4. pont i)–s) alpontja vonatkozásában a Tanács tagjaként vezetői munkakört betöltő, illetve vezetői álláshelyen foglalkoztatott személy jelölhető ki.
+8.[^6] A 4. pont i)–s) alpontja vonatkozásában a Tanács tagjaként vezetői munkakört betöltő, illetve vezetői álláshelyen foglalkoztatott személy jelölhető ki.
 
 9. A Tanács tagjai – e szerepkörükben ellátott tevékenységükért – tiszteletdíjban nem részesülnek.
 
@@ -116,7 +122,9 @@ hogy delegáljon képviselőt a Tanácsba. A delegáltak állandó meghívottké
 
 16. A Kormány felhívja a 4. pontban meghatározott személyeket, és felkéri az 5. pontban meghatározott személyeket, hogy 2019. augusztus 31. napjáig gondoskodjanak a Tanács tagjainak, illetve állandó meghívottjainak kijelöléséről.
 
-[^1]: A 4. pont az 1112/2023. (III. 30.) Korm. határozat 1. pontjával megállapított szöveg.
-[^2]: Az 5. pont g) alpontját az 1112/2023. (III. 30.) Korm. határozat 2. pontja iktatta be.
-[^3]: A 7. pont az 1112/2023. (III. 30.) Korm. határozat 3. pont a) alpontja szerint módosított szöveg.
-[^4]: A 8. pont az 1112/2023. (III. 30.) Korm. határozat 3. pont b) alpontja szerint módosított szöveg.
+[^1]: A 2. pont az 1040/2025. (III. 5.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: A 3. pont az 1040/2025. (III. 5.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: A 4. pont az 1112/2023. (III. 30.) Korm. határozat 1. pontjával megállapított szöveg.
+[^4]: Az 5. pont g) alpontját az 1112/2023. (III. 30.) Korm. határozat 2. pontja iktatta be.
+[^5]: A 7. pont az 1112/2023. (III. 30.) Korm. határozat 3. pont a) alpontja szerint módosított szöveg.
+[^6]: A 8. pont az 1112/2023. (III. 30.) Korm. határozat 3. pont b) alpontja szerint módosított szöveg.
