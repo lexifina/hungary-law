@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-1288-30
 | --- | --- | --- |
 | 2024-09-19 | 2024-1288-30-22.1 | 1288/2024. (IX. 19.) Korm. határozat |
 | 2024-09-20 | 2024-1288-30-22.2 | 2010. évi CXXX. törvény |
+| 2025-03-13 | 2024-1288-30-22.3 | 1069/2025. (III. 13.) Korm. határozat |
