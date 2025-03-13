@@ -1,1 +1,3 @@
-12. § A közétkeztetésre vonatkozó táplálkozás-egészségügyi előírásokról szóló 37/2014. (IV. 30.) EMMI rendelet 1. § (2) bekezdésében az „a tanuló ifjúság üdülésének és táborozásának egészségügyi feltételeiről szóló miniszteri rendeletben meghatározott táborozásra” szövegrész helyébe az „az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvényben meghatározott táboroztatásra” szöveg lép.
+12. §[^1]
+
+[^1]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
