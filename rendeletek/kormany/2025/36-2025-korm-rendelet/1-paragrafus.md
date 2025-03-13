@@ -12,6 +12,6 @@
 
 ## 1. A Magyar Államkincstárról szóló 310/2017. (X. 31.) Korm. rendelet módosítása
 
-1. § A Magyar Államkincstárról szóló 310/2017. (X. 31.) Korm. rendelet 14. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
+1. §[^1]
 
-[A kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) 36. § (2) bekezdésére figyelemmel a Kincstár felett]
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

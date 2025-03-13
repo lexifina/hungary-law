@@ -1,3 +1,3 @@
-12. § A Rendelet a következő 30. §-sal egészül ki:
+12. §[^12]
 
-„30. § E rendeletnek a Vidéki Otthonfelújítási Programmal összefüggésben egyes kormányrendeletek módosításáról szóló 36/2025. (III. 11.) Korm. rendelet (a továbbiakban: Módr1.) 7. §-ával megállapított 10/A. §-át, 12. §-ával megállapított 30. §-át, 13. § d) pontjával megállapított 4. § (9) bekezdését, 13. § e) pontjával megállapított 9. § (3) bekezdés 14. pontját, 13. § h) pontjával megállapított 13. § (4) bekezdését, valamint 14. § b) pontjával hatályon kívül helyezett 6. alcím címét a Módr1. hatálybalépését megelőzően benyújtott, Módr1. hatálybalépésének időpontjában még el nem bírált támogatás iránti kérelmek, illetve még nem folyósított támogatások esetén is alkalmazni kell.”
+[^12]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
