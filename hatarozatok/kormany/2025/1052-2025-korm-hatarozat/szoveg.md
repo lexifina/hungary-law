@@ -1,3 +1,5 @@
-1. A Stratégiai Tanácsadó Testületről szóló 1044/2024. (III. 6.) Korm. határozat 7. pontjában a „Miniszterelnöki Kabinetirodán” szövegrész helyébe a „Miniszterelnökségen” szöveg lép.
+1.[^2]
 
 2. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^2]: Az 1. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
