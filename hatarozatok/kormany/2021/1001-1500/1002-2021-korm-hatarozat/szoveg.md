@@ -114,19 +114,19 @@ d) felkéri az Országgyűlés Hivatala főigazgatóját, hogy a c) alpontban fo
 
 a) a 3. pont a)–b) alpontjában foglaltakkal összhangban egyetért azzal, hogy az Igazságügyi Palota és az Agrárminisztérium épület rekonstrukciójának 2. üteme 2027. július 31. napjáig megvalósuljon, és azzal, hogy ennek érdekében a Steindl Imre Program Nonprofit Zrt. az épületek együttes kivitelezésére fővállalkozási kivitelezési szerződést kössön, azzal, hogy az Igazságügyi Palota rekonstrukciója 2. ütemének teljesítési határidejét az Országház belső rekonstrukciójával és modernizációjával kapcsolatos kormányzati döntésekről szóló 1529/2022. (XI. 2.) Korm. határozat 8. pont c) alpontja szerinti döntésre figyelemmel kell megállapítani;
 
-b) felhívja a pénzügyminisztert, hogy az a) alpont szerinti kivitelezés finanszírozása érdekében gondoskodjon 127 462 000 000 forint biztosításáról a következő ütemezés szerint:
+b)[^16] felhívja a pénzügyminisztert, hogy az a) alpont szerinti kivitelezés finanszírozása érdekében gondoskodjon 127 468 000 000 forint biztosításáról a következő ütemezés szerint:
 
 ba) 14 992 500 000 forint összegben a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény (a továbbiakban: Kvtv.) 1. melléklet I. Országgyűlés fejezet, 4. Fejezeti kezelésű előirányzatok cím, 14. Steindl Imre program támogatása alcím javára,
 
 bb) 7 500 000 forint összegben a Kvtv. 1. melléklet I. Országgyűlés fejezet, 1. Országgyűlés Hivatala cím, 1. Országgyűlés hivatali szervei alcím javára,
 
-bc) 47 404 000 000 forint összegben a 2024. évi központi költségvetés I. Országgyűlés fejezet javára,
+bc)[^17] 44 103 800 000 forint összegben a 2024. évi központi költségvetés I. Országgyűlés fejezet javára,
 
-bd) 44 397 700 000 forint összegben a 2025. évi központi költségvetés I. Országgyűlés fejezet javára,
+bd)[^18] 35 897 800 000 forint összegben a 2025. évi központi költségvetés I. Országgyűlés fejezet javára,
 
 be) 18 829 400 000 forint összegben a 2026. évi központi költségvetés I. Országgyűlés fejezet javára,
 
-bf) 1 830 900 000 forint összegben a 2027. évi központi költségvetés I. Országgyűlés fejezet javára;
+bf)[^19] 13 637 000 000 forint összegben a 2027. évi központi költségvetés I. Országgyűlés fejezet javára;
 
 | Felelős: | pénzügyminiszter |
 
@@ -155,3 +155,7 @@ c) felhívja a Miniszterelnökséget vezető minisztert, és felkéri az Ország
 [^13]: Az 5. pontot az 1927/2021. (XII. 20.) Korm. határozat 3. pontja iktatta be, nyitó szövegrésze az 1621/2023. (XII. 29.) Korm. határozat 4. pont c) pontja szerint módosított szöveg.
 [^14]: Az 5. pont c) alpontja az 1621/2023. (XII. 29.) Korm. határozat 3. pontjával megállapított szöveg.
 [^15]: A 6. pontot az 1168/2023. (IV. 28.) Korm. határozat iktatta be.
+[^16]: A 6. pont b) alpont nyitó szövegrésze az 1060/2025. (III. 13.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
+[^17]: A 6. pont b) alpont bc) pontja az 1060/2025. (III. 13.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
+[^18]: A 6. pont b) alpont bd) pontja az 1060/2025. (III. 13.) Korm. határozat 2. pont c) alpontja szerint módosított szöveg.
+[^19]: A 6. pont b) alpont bf) pontja az 1060/2025. (III. 13.) Korm. határozat 2. pont d) alpontja szerint módosított szöveg.
