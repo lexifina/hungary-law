@@ -1,1 +1,3 @@
-11. § Hatályát veszti a polgári nemzetbiztonsági szolgálatok hivatásos és rendvédelmi igazgatási szolgálati jogviszonyú állománya részére adható szociális támogatásról és a kegyeleti gondoskodással kapcsolatos egyes feladatokról szóló 9/2023. (IV. 27.) MK rendelet.
+11. §[^1]
+
+[^1]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
