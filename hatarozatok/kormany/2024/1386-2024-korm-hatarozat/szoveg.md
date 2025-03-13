@@ -25,3 +25,10 @@ A Kormány a csapatmozgásokkal összefüggő szabályokról szóló 312/2024. (
 12. NEWFIP RAMSTEIN GUARD – elektronikai hadviselés gyakorlat;
 
 13. SOFT CAPS – nemzetközi CIMIC (civil-katonai kapcsolat), kiber és PSYOPS (lélektani hadművelet) gyakorlat.
+
+14.[^1] EUROPEAN PERSONNEL RECOVERY CENTER Survival, Evasion, Resistance and Escape – Conduct after Capture (SERE CaC) – túlélő oktatói kiképzés;
+
+15.[^2] DEFENDER EUROPE (SABER GUARDIAN) – összhaderőnemi harcászati gyakorlat.
+
+[^1]: A 14. pontot az 1055/2025. (III. 13.) Korm. határozat szövege iktatta be.
+[^2]: A 15. pontot az 1055/2025. (III. 13.) Korm. határozat szövege iktatta be.
