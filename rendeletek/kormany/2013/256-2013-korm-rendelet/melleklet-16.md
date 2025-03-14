@@ -6,7 +6,7 @@
 
 | 254 906 | 281 501 | 296 935 | 327 913 | 341 630 | 377 272 | 420 900 | 464 813 | 480 478 | 530 606 |
 
-16. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^148]
+16. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^151]
 
 Az egészségügyben dolgozók illetmény- vagy bérnövelésére tekintettel igényelhető támogatási összeg (Ft/hó)
 
@@ -14,4 +14,4 @@ Az egészségügyben dolgozók illetmény- vagy bérnövelésére tekintettel ig
 
 | Alapfokú, középfokú végzettséggel rendelkező, vagy alapfokú, középfokú végzettséggel betölthető, valamint felsőfokú végzettséggel rendelkező és felsőfokú végzettséggel betölthető munkakörben foglalkoztatott egészségügyben dolgozó | 84 100 |
 
-[^148]: A 16. mellékletet újonnan a 181/2023. (V. 16.) Korm. rendelet 3. § (4) bekezdése iktatta be, szövege a 663/2023. (XII. 29.) Korm. rendelet 8. § (5) bekezdésével megállapított szöveg.
+[^151]: A 16. mellékletet újonnan a 181/2023. (V. 16.) Korm. rendelet 3. § (4) bekezdése iktatta be, szövege a 663/2023. (XII. 29.) Korm. rendelet 8. § (5) bekezdésével megállapított szöveg.
