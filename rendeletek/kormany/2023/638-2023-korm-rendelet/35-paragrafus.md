@@ -20,7 +20,7 @@ formájában nyújtható.
 
 (7) A támogatható vállalkozásokba saját tőke, kvázi-sajáttőke vagy kölcsön formájában befektetést biztosító intézkedések esetén a pénzügyi közvetítő számára nyújtott hozzájárulásnak a pénzügyi közvetítők vagy a támogatható vállalkozások szintjén további független magánbefektetői forrásokat kell bevonnia oly módon, hogy az összesített magánbefektetői részvételi arány elérje
 
-a)[^15] a 33. § (3) bekezdés a) pontjában említett támogatható vállalkozások esetén a biztosított kockázatfinanszírozási célú befektetés 10%-át,
+a)[^16] a 33. § (3) bekezdés a) pontjában említett támogatható vállalkozások esetén a biztosított kockázatfinanszírozási célú befektetés 10%-át,
 
 b) a 33. § (3) bekezdés b) és c) pontjában említett támogatható vállalkozások esetén a biztosított kockázatfinanszírozási célú befektetés 40%-át,
 
@@ -44,4 +44,4 @@ vonatkozásában a (7) bekezdés b) pontja esetében 20%-ra, a (7) bekezdés c) 
 
 (10) Amennyiben a befektetést a 33. § (3) bekezdésében és a 34. § (6) bekezdésében említettek szerint különböző fejlődési szakaszokban tartó támogatható vállalkozásoknak pénzügyi közvetítőn keresztül nyújtják, a pénzügyi közvetítőnek olyan magánbefektetői részvételi arányt kell elérnie, amely legalább az alapul szolgáló portfólióban lévő egyes befektetések volumenén alapuló súlyozott átlagnak felel meg, és a minimális részvételi arányoknak a (7) és (9) bekezdésben említett befektetésekre való alkalmazásából adódik, kivéve, ha a független magánbefektetők számára előírt részvétel a támogatható vállalkozások szintjén teljesül.
 
-[^15]: A 35. § (7) bekezdés a) pontja a 127/2024. (VI. 14.) Korm. rendelet 22. § 8. pontja szerint módosított szöveg.
+[^16]: A 35. § (7) bekezdés a) pontja a 127/2024. (VI. 14.) Korm. rendelet 22. § 8. pontja szerint módosított szöveg.

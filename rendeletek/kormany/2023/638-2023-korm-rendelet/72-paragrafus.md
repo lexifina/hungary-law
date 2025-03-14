@@ -12,7 +12,7 @@ c) az energiahatékony távfűtési és távhűtési rendszerhez való csatlakoz
 
 d) az épületet használók számára elektromos töltő- és kapcsolódó infrastruktúra (ideértve a kábelcsatornák) kiépítéséhez és telepítéséhez, abban az esetben is, amennyiben a parkoló az épületen kívül helyezkedik el, de ahhoz fizikailag csatlakozik,
 
-e)[^24] az épület digitalizációját, különösen az épület okosfunkció-fogadási alkalmasságának növelését szolgáló berendezések (beleértve adathálózatok esetén, az épületen belüli passzív hálózatot és strukturált kábelezést), továbbá az épülethez tartozó ingatlanon található széles sávú infrastruktúra kiegészítő részeinek telepítéséhez,
+e)[^25] az épület digitalizációját, különösen az épület okosfunkció-fogadási alkalmasságának növelését szolgáló berendezések (beleértve adathálózatok esetén, az épületen belüli passzív hálózatot és strukturált kábelezést), továbbá az épülethez tartozó ingatlanon található széles sávú infrastruktúra kiegészítő részeinek telepítéséhez,
 
 f) zöldtetőkbe, valamint az esővíz megtartására és felhasználására szolgáló berendezésekbe történő beruházásokhoz.
 
@@ -32,7 +32,7 @@ b) a vonatkozó uniós szabványok energiahatékonysági minimumkövetelmények,
 
 (5) A támogatás nyújtásának feltétele, hogy az épület primer energiában mért energiahatékonyságának
 
-a)[^25] meglévő épületek felújítása esetén legalább 30%-os javulását eredményezi a beruházást megelőző állapothoz képest,
+a)[^26] meglévő épületek felújítása esetén legalább 30%-os javulását eredményezi a beruházást megelőző állapothoz képest,
 
 b) az épületek energiahatékonyságáról szóló, 2010. május 19-i 2010/31/EU európai parlamenti és tanácsi irányelv (a továbbiakban: 2010/31/EU európai parlamenti és tanácsi irányelv) 2. cikk (9) bekezdésében meghatározott egyetlen épületelem-típus telepítését vagy cseréjét érintő felújítás esetén legalább 10%-os javulását eredményezi a beruházást megelőző állapothoz képest,
 
@@ -42,5 +42,5 @@ c) új épületek esetén legalább 10%-os javulását eredményezi a közel nul
 
 (7) Az (5) bekezdés b) pontja alapján nyújtott támogatások összege nem haladhatja meg az Atr. 2. § 23. pontja szerinti támogatási program energiahatékonysági intézkedésekre vonatkozó költségvetésének 30%-át.
 
-[^24]: A 72. § (2) bekezdés e) pontja a 127/2024. (VI. 14.) Korm. rendelet 22. § 14. pontja szerint módosított szöveg.
-[^25]: A 72. § (5) bekezdés a) pontja a 218/2024. (VII. 31.) Korm. rendelet 96. §-a szerint módosított szöveg.
+[^25]: A 72. § (2) bekezdés e) pontja a 127/2024. (VI. 14.) Korm. rendelet 22. § 14. pontja szerint módosított szöveg.
+[^26]: A 72. § (5) bekezdés a) pontja a 218/2024. (VII. 31.) Korm. rendelet 96. §-a szerint módosított szöveg.

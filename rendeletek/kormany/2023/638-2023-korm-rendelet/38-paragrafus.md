@@ -18,6 +18,6 @@ eb) az összefonódásban részt vevő legrégebbi vállalkozás bejegyzésétő
 
 (2) Azon kedvezményezett esetében, amelyet nem kell bejegyezni, az (1) bekezdés a) pontja és e) pontjának eb) alpontja szerinti ötéves támogathatósági időszak kezdete az az időpont, amikor a vállalkozás megkezdi gazdasági tevékenységét vagy amikor gazdasági tevékenysége alapján adóztathatóvá válik, attól függően, hogy melyik a korábbi időpont.
 
-(3)[^16] Ha a támogatás nyújtása pénzügyi közvetítőn keresztül történik, a pénzügyi közvetítő vonatkozásában a 36. §-ban előírt feltételeket kell alkalmazni.
+(3)[^17] Ha a támogatás nyújtása pénzügyi közvetítőn keresztül történik, a pénzügyi közvetítő vonatkozásában a 36. §-ban előírt feltételeket kell alkalmazni.
 
-[^16]: A 38. § (3) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 91. §-ával megállapított szöveg.
+[^17]: A 38. § (3) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 91. §-ával megállapított szöveg.

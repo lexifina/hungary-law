@@ -16,7 +16,7 @@ c) a már elfogadott és hatályos uniós szabványnak való megfelelés érdek�
 
 a) olyan kevésbé energiahatékony beruházás valósulna meg, amely az adott ágazat vagy az érintett tevékenység esetében megfelel a szokásos kereskedelmi gyakorlatnak, az elszámolható költségek a támogatott beruházás költségeinek és a kevésbé energiahatékony beruházás költségeinek a különbözete,
 
-b)[^22] ugyanazon beruházás későbbi időpontban valósulna meg, az elszámolható költség a támogatásban részesülő beruházás költségeinek és ugyanannak a beruházásnak a későbbi időpontban felmerülő nettó jelenértéken számított költségeinek különbözete arra az időpontra diszkontálva, amikor a támogatást odaítélik,
+b)[^23] ugyanazon beruházás későbbi időpontban valósulna meg, az elszámolható költség a támogatásban részesülő beruházás költségeinek és ugyanannak a beruházásnak a későbbi időpontban felmerülő nettó jelenértéken számított költségeinek különbözete arra az időpontra diszkontálva, amikor a támogatást odaítélik,
 
 c) a meglévő berendezések és felszerelések további üzemben tartása valósulna meg, az elszámolható költségek a támogatásban részesülő beruházás költségeinek és a meglévő létesítmények és berendezések karbantartására, javítására és korszerűsítésére irányuló beruházások nettó jelenértékének különbözete arra az időpontra diszkontálva, amikor a támogatott beruházás megvalósul,
 
@@ -30,11 +30,11 @@ b) hitelesnek kell lennie a piaci körülmények, az uniós kibocsátás kereske
 
 (6) A (4) bekezdés d) pontja szerinti esetben a lízing költségei nem foglalják magukban a felszerelés vagy berendezés üzemeltetésével kapcsolatos költségeket – különösen az üzemanyagköltségeket, biztosítás, karbantartás, egyéb fogyóeszközök költségeit –, függetlenül attól, hogy azok részét képezik-e a lízingszerződésnek.
 
-(7)[^23] A (4)–(6) bekezdéstől eltérően a magasabb energiahatékonysági szint eléréséhez szükséges teljes beruházási költség elszámolható, amennyiben a támogatott beruházás egy egyértelműen beazonosítható, kizárólag az energiahatékonyság növelésére irányul, és nincs olyan kevésbé energiahatékony beruházás, amely támogatás hiányában megvalósulna.
+(7)[^24] A (4)–(6) bekezdéstől eltérően a magasabb energiahatékonysági szint eléréséhez szükséges teljes beruházási költség elszámolható, amennyiben a támogatott beruházás egy egyértelműen beazonosítható, kizárólag az energiahatékonyság növelésére irányul, és nincs olyan kevésbé energiahatékony beruházás, amely támogatás hiányában megvalósulna.
 
 (8) A (4) bekezdés a)–d) pontjától eltérően az elszámolható költségek alternatív forgatókönyv és a 2. § 173. pontja szerinti versenyeztetéses ajánlattételi eljárás nélkül is meghatározhatóak, amely esetben a magasabb szintű energiahatékonysági eléréséhez közvetlenül kapcsolódó beruházási költségek számolhatók el.
 
 (9) A (4)–(8) bekezdés esetén nem számolhatók el a magasabb szintű energiahatékonyság eléréséhez közvetlenül nem kapcsolódó költségek.
 
-[^22]: A 70. § (4) bekezdés b) pontja a 127/2024. (VI. 14.) Korm. rendelet 15. §-ával megállapított szöveg.
-[^23]: A 70. § (7) bekezdése a 127/2024. (VI. 14.) Korm. rendelet 22. § 13. pontja szerint módosított szöveg.
+[^23]: A 70. § (4) bekezdés b) pontja a 127/2024. (VI. 14.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^24]: A 70. § (7) bekezdése a 127/2024. (VI. 14.) Korm. rendelet 22. § 13. pontja szerint módosított szöveg.

@@ -2,7 +2,7 @@
 
 a) energiát termelő hulladékártalmatlanítási és hulladékhasznosítási műveletekhez,
 
-b)[^34] az Unió egész területén alkalmazott, gazdaságilag nyereséges, bevett kereskedelmi gyakorlatoknak minősülő technológiákhoz kapcsolódó beruházáshoz,
+b)[^35] az Unió egész területén alkalmazott, gazdaságilag nyereséges, bevett kereskedelmi gyakorlatoknak minősülő technológiákhoz kapcsolódó beruházáshoz,
 
 c) a már elfogadott és hatályos uniós szabványnak való megfelelés érdekében megvalósított be-ruházáshoz,
 
@@ -16,4 +16,4 @@ e) ha az hulladék keletkezését vagy a fokozott erőforrás-felhasználást ö
 
 (2) Az (1) bekezdés c) pontjától eltérően a már elfogadott, de még nem hatályos uniós szabványoknak való megfelelés érdekében végrehajtott beruházás akkor támogatható, ha a beruházást a szabvány hatálybalépése előtt legalább 18 hónappal végrehajtották és befejezték.
 
-[^34]: A 88. § (1) bekezdés b) pontja a 127/2024. (VI. 14.) Korm. rendelet 23. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^35]: A 88. § (1) bekezdés b) pontja a 127/2024. (VI. 14.) Korm. rendelet 23. § (1) bekezdés b) pontja szerint módosított szöveg.

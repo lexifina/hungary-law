@@ -1,3 +1,3 @@
-137. §[^58]
+137. §[^62]
 
-[^58]: A 137. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^62]: A 137. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
