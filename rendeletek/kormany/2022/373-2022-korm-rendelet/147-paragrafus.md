@@ -10,6 +10,6 @@
 
 (5) Ha a nemzeti hatóság a végső kedvezményezett által benyújtott dokumentumot a (4) bekezdés alapján elutasítja, a végső kedvezményezett új dokumentumot nyújthat be.
 
-(6)[^278] Az előleg igénylésére irányuló kérelem elbírálása vonatkozásában tisztázó kérdés nem tehető fel.
+(6)[^279] Az előleg igénylésére irányuló kérelem elbírálása vonatkozásában tisztázó kérdés nem tehető fel.
 
-[^278]: A 147. § (6) bekezdését a 154/2023. (IV. 27.) Korm. rendelet 8. §-a iktatta be.
+[^279]: A 147. § (6) bekezdését a 154/2023. (IV. 27.) Korm. rendelet 8. §-a iktatta be.

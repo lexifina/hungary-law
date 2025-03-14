@@ -14,8 +14,8 @@ b) kizárólag a projekt megvalósításával kapcsolatban felmerülő, támogat
 
 (6) A végső kedvezményezett köteles a HEE lebonyolítási számlát a projekt pénzügyi zárásáig fenntartani. A projekt pénzügyi zárását követően fenntartott HEE lebonyolítási számla költsége a végső kedvezményezettet terheli.
 
-(6a)[^277] A nemzeti hatóság a végső kedvezményezett kérelmére indokolt esetben engedélyezheti, hogy meghatározott kiadások kifizetése ne a HEE lebonyolítási számláról történjen. A számlák közötti utólagos átvezetést a végső kedvezményezettnek legkésőbb a támogatási összeg folyósítását követő 60 napon belül el kell végeznie.
+(6a)[^278] A nemzeti hatóság a végső kedvezményezett kérelmére indokolt esetben engedélyezheti, hogy meghatározott kiadások kifizetése ne a HEE lebonyolítási számláról történjen. A számlák közötti utólagos átvezetést a végső kedvezményezettnek legkésőbb a támogatási összeg folyósítását követő 60 napon belül el kell végeznie.
 
 (7) A végső kedvezményezett a HET végrehajtását szolgáló projektjei bevételei és kiadásai tekintetében projektenként elkülönített számviteli nyilvántartást vezet.
 
-[^277]: A 144. § (6a) bekezdését a 154/2023. (IV. 27.) Korm. rendelet 7. §-a iktatta be.
+[^278]: A 144. § (6a) bekezdését a 154/2023. (IV. 27.) Korm. rendelet 7. §-a iktatta be.

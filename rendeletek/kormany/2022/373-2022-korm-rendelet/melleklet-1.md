@@ -1,5 +1,5 @@
-1. melléklet a 373/2022. (IX. 30.) Korm. rendelethez[^468]
+1. melléklet a 373/2022. (IX. 30.) Korm. rendelethez[^469]
 
 A nemzeti hatóság, a szakpolitikai felelős és a lebonyolító szerv kijelölése
 
-[^468]: Az 1. melléklet a 218/2024. (VII. 31.) Korm. rendelet 83. §-ával megállapított szöveg.
+[^469]: Az 1. melléklet a 218/2024. (VII. 31.) Korm. rendelet 83. §-ával megállapított szöveg.

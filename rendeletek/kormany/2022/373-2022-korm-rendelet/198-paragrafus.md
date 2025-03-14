@@ -10,12 +10,12 @@ d) a végső kedvezményezett elismeri a szabálytalanság tényét,
 
 e) a szabálytalanság tényéről még azelőtt szerez tudomást, hogy a végső kedvezményezett részére bármilyen kifizetés történt volna.
 
-f)[^330] az NFK nem támogató tartalmú jelentésében vagy tanúsítványában foglalt megállapításokat elfogadja.
+f)[^331] az NFK nem támogató tartalmú jelentésében vagy tanúsítványában foglalt megállapításokat elfogadja.
 
-g)[^331] a jogkövetkezményt uniós jogszabály határozza meg,
+g)[^332] a jogkövetkezményt uniós jogszabály határozza meg,
 
-h)[^332] a végső kedvezményezett nem nyújtja be határidőben a záró kifizetési kérelmet, vagy nem teljesíti a záró kifizetési kérelemmel összefüggő hiánypótlási kötelezettséget.
+h)[^333] a végső kedvezményezett nem nyújtja be határidőben a záró kifizetési kérelmet, vagy nem teljesíti a záró kifizetési kérelemmel összefüggő hiánypótlási kötelezettséget.
 
-[^330]: A 198. § f) pontját a 123/2023. (IV. 12.) Korm. rendelet 27. §-a iktatta be, szövege a 218/2024. (VII. 31.) Korm. rendelet 84. § 111. pontja szerint módosított szöveg.
-[^331]: A 198. § g) pontját a 213/2024. (VII. 29.) Korm. rendelet 37. §-a iktatta be.
-[^332]: A 198. § h) pontját a 213/2024. (VII. 29.) Korm. rendelet 37. §-a iktatta be.
+[^331]: A 198. § f) pontját a 123/2023. (IV. 12.) Korm. rendelet 27. §-a iktatta be, szövege a 218/2024. (VII. 31.) Korm. rendelet 84. § 111. pontja szerint módosított szöveg.
+[^332]: A 198. § g) pontját a 213/2024. (VII. 29.) Korm. rendelet 37. §-a iktatta be.
+[^333]: A 198. § h) pontját a 213/2024. (VII. 29.) Korm. rendelet 37. §-a iktatta be.

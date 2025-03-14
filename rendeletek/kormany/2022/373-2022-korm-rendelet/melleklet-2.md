@@ -8,7 +8,7 @@
 
 | 4. | III. Felzárkózó települések | NFK | Belügyminisztérium | NFK |
 
-| 5. | IV. Vízgazdálkodás | NFK | Energiaügyi Minisztérium[^469], Agrárminisztérium | Miniszterelnöki Kabinetiroda, NFK |
+| 5. | IV. Vízgazdálkodás | NFK | Energiaügyi Minisztérium[^470], Agrárminisztérium | Miniszterelnöki Kabinetiroda, NFK |
 
 | 6. | V. Fenntartható zöld közlekedés | NFK | Építési és Közlekedési Minisztérium | Miniszterelnöki Kabinetiroda, NFK |
 
@@ -22,7 +22,7 @@
 
 | 11. | Magyarország REPowerEU terve | NFK | Energiaügyi Minisztérium, Építési és Közlekedési Minisztérium | Miniszterelnöki Kabinetiroda, NFK |
 
-2. melléklet a 373/2022. (IX. 30.) Korm. rendelethez[^470]
+2. melléklet a 373/2022. (IX. 30.) Korm. rendelethez[^471]
 
 Az ARACHNE kockázatértékelő eszköz részére küldendő adatok
 
@@ -146,7 +146,7 @@ Az ARACHNE kockázatértékelő eszköz részére küldendő adatok
 
 8.3. végső kedvezményezett tényleges tulajdonosának születési dátuma
 
-8.4.[^471]
+8.4.[^472] végső kedvezményezett tényleges tulajdonosának adóazonosító száma
 
 8.5. szállító tényleges tulajdonosának vezetékneve
 
@@ -154,6 +154,6 @@ Az ARACHNE kockázatértékelő eszköz részére küldendő adatok
 
 8.7. szállító tényleges tulajdonosának születési dátuma
 
-[^469]: Szakmai koordinációra kijelölt minisztérium
-[^470]: A 2. melléklet a 241. §-sal és a - 463/2022. (XI. 15.) Korm. rendelet 32. §-a szerint módosított - 3. melléklettel megállapított szöveg.
-[^471]: A 2. melléklet 8.4. pontját a 441/2024. (XII. 23.) Korm. rendelet 12. § c) pontja hatályon kívül helyezte.
+[^470]: Szakmai koordinációra kijelölt minisztérium
+[^471]: A 2. melléklet a 241. §-sal és a - 463/2022. (XI. 15.) Korm. rendelet 32. §-a szerint módosított - 3. melléklettel megállapított szöveg.
+[^472]: A 2. melléklet 8.4. pontját a 441/2024. (XII. 23.) Korm. rendelet 12. § c) pontja hatályon kívül helyezte, újonnan a 37/2025. (III. 11.) Korm. rendelet 29. §-a iktatta be.
