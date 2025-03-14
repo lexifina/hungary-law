@@ -88,50 +88,15 @@ b) a 2026. évben a központi költségvetés XVI. Építési és Közlekedési 
 
 1.16. úgy határoz, hogy az 1.2. alpont szerinti fejlesztésekhez szükséges beszerzések során a Kormány irányítása alá tartozó fejezetek költségvetési szerveinek eszközbeszerzéseiről 1982/2013. (XII. 29.) Korm. határozat rendelkezéseit nem kell alkalmazni.
 
-2. A mohácsi csata 500 éves évfordulójáról történő méltó megemlékezéshez és az ahhoz kapcsolódó fejlesztések megvalósításához szükséges intézkedésekről szóló 1288/2024. (IX. 19.) Korm. határozat [a továbbiakban: 1288/2024. (IX. 19.) Korm. határozat] 1.2. alpontja helyébe a következő rendelkezés lép:
+2.[^1]
 
-(A Kormány)
+3.[^2]
 
-„1.2. felhívja a nemzetgazdasági minisztert, hogy – az építési és közlekedési miniszter bevonásával – gondoskodjon
+4.[^3]
 
-a) a 2025. évben a Mohácsi Nemzeti Emlékhely teljes megújítása építési céljára legfeljebb 100 000 000 forint,
+5.[^4]
 
-b) a 2026. évben a Mohácsi Nemzeti Emlékhely teljes megújítása építési céljára legfeljebb 12 246 752 791 forint
-
-rendelkezésre állásáról a 2025. és 2026. évi központi költségvetés XLV. Állami beruházások fejezet, 1. Magasépítési beruházások cím, 1. Egyedi magasépítési beruházások alcím, 50. Egyéb magasépítési beruházások előirányzatán;
-
-| Felelős: | nemzetgazdasági miniszterépítési és közlekedési miniszter |
-
-| Határidő: | az a) pont tekintetében a 2025. évi központi költségvetés végrehajtása sorána b) pont tekintetében a 2026. évi központi költségvetés tervezése során |
-
-3. Az 1288/2024. (IX. 19.) Korm. határozat 1.5. alpontja helyébe a következő rendelkezés lép:
-
-(A Kormány)
-
-„1.5. az egyes beruházási szabályok veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 541/2022. (XII. 22.) Korm. rendelet 4. § (7) bekezdés b) pontjában biztosított jogkörében eljárva a 2025. és a 2026. évben az 1.2. alpont szerinti feladat megvalósításához a központi költségvetés XLV. Állami beruházások fejezet, 1. Magasépítési beruházások cím, 1. Egyedi magasépítési beruházások alcím, 50. Egyéb magasépítési beruházások jogcímcsoport terhére vállalható éven túli kötelezettség felső korlátját 12 246 752 791 forintban határozza meg;”
-
-4. Az 1288/2024. (IX. 19.) Korm. határozat a következő 2–6. ponttal egészül ki:
-
-(A Kormány)
-
-„2. felhívja a nemzetgazdasági miniszter, hogy – az agrárminiszter bevonásával – gondoskodjon a Duna–Dráva Nemzeti Park Igazgatóság útján megvalósuló fejlesztésekkel, feladatokkal összefüggésben
-
-a) a 2025. évben a Mohácsi Nemzeti Emlékhely mohácsi csatát bemutató új kiállítótér kialakítás és eszközbeszerzés céljára legfeljebb 100 000 000 forint,
-
-b) a 2026. évben a Mohácsi Nemzeti Emlékhely mohácsi csatát bemutató új kiállítótér kialakítás és eszközbeszerzés céljára legfeljebb 3 164 247 209 forint
-
-rendelkezésre állásáról a 2025. és 2026. évi központi költségvetés XII. Agrárminisztérium fejezet, 14. Nemzeti Park Igazgatóságok cím javára;
-
-| Felelős: | nemzetgazdasági miniszter agrárminiszter |
-
-| Határidő: | az a) alpont tekintetében azonnal a b) alpont tekintetében a 2026. évi központi költségvetés tervezése során |
-
-3. egyetért azzal, hogy a 2. pontban foglalt fejlesztések és feladatok megvalósítója a Duna–Dráva Nemzeti Park Igazgatóság legyen;
-
-4. az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4c) bekezdés b) pontjában biztosított jogkörében eljárva a 2026. évben a 2. pontban szereplő feladatokkal összefüggésben vállalható éven túli kötelezettség felső korlátját a XII. Agrárminisztérium fejezet, 14. Nemzeti Park Igazgatóságok címen belül a Duna–Dráva Nemzeti Park Igazgatóság kiadási előirányzatai terhére 3 164 247 209 forintban határozza meg;
-
-5. egyetért azzal, hogy a 2. pont szerinti fejlesztéseket az Ábtv. 4. § (2) bekezdésében foglaltak alapján az alacsonyabb mértékű központi költségvetési forrás felhasználása érdekében mentesíti az Ábtv. alkalmazása alól;
-
-6. úgy határoz, hogy a 2. pont szerinti fejlesztésekhez szükséges beszerzések során a Kormány irányítása alá tartozó fejezetek költségvetési szerveinek eszközbeszerzéseiről szóló 1982/2013. (XII. 29.) Korm. határozat rendelkezéseit nem kell alkalmazni.”
-
-5. Az 1288/2024. (IX. 19.) Korm. határozat 1.4. alpontjában a „pénzügyminiszter” szövegrész helyébe a „nemzetgazdasági miniszter” szöveg lép.
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
