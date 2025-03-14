@@ -62,16 +62,8 @@
 
 | Határidő: | azonnal |
 
-## 2. A Kossuth Lajos téri Igazságügyi Palota és Agrárminisztérium épület rekonstrukciójával kapcsolatos intézkedésekről szóló 1002/2021. (I. 7.) Korm. határozat
-
-## a) 6. pont b) alpontjában a „127 462 000 000 forint” szövegrész helyébe a „127 468 000 000 forint” szöveg,
-
-## b) 6. pont b) alpont bc) pontjában a „47 404 000 000 forint” szövegrész helyébe a „44 103 800 000 forint” szöveg,
-
-## c) 6. pont b) alpont bd) pontjában a „44 397 700 000 forint” szövegrész helyébe a „35 897 800 000 forint” szöveg és
-
-## d) 6. pont b) alpont bf) pontjában az „1 830 900 000” szövegrész helyébe a „13 637 000 000” szöveg
-
-## lép.
+## 2.[^1]
 
 1. melléklet az 1060/2025. (III. 13.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
