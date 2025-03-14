@@ -12,7 +12,7 @@
 
 | 4. | KEHOP Plusz-1.2.21 | Vízkárelhárítás, vízháztartási szemléletű vízrendezés | 178,28 | kiemelt | 2024. II. negyedév[^6] |
 
-| 5. | KEHOP Plusz-2.1.10. | Szennyvízelvezetés és -tisztítás, szennyvízkezelés megvalósítására (szakaszolt) | 54,56[^7] | kiemelt | 2023. IV. negyedév |
+| 5. | KEHOP Plusz-2.1.10. | Szennyvízelvezetés és -tisztítás, szennyvízkezelés megvalósítására (szakaszolt) | 55,04[^7] | kiemelt | 2023. IV. negyedév |
 
 | 6. | KEHOP Plusz-2.1.20. | Felhívás az egyedi, illetve térségi ivóvízminőség-javító rendszerek kiépítésével és a lakosság egészséges ivóvízzel való ellátásához kapcsolódó projektek megvalósítására (szakaszolt) | 21,02[^8] | kiemelt | 2023. IV. negyedév |
 
@@ -146,7 +146,7 @@
 
 | 51. | KEHOP Plusz-2.1.10 | Budapest Főváros és Pilisborosjenő Község Önkormányzatai közös derogációs szennyvíz-elvezetési projektje | Budapest Főváros Önkormányzata, Pilisborosjenő Község Önkormányzata és Üröm Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet, valamint a 362/2022. (IX. 19.) Korm. rendelet szerint | 0,26 | 0,05 | 2024. II. negyedév | A beruházás keretében az érintett 2000 lakosegyenérték- terhelést meghaladó kibocsátású szennyvízelvezetési agglomeráció megfelelő szennyvízkezelésének feltételei teljesülnek annak érdekében, hogy a szennyvízközművel való lefedettség megközelítse a közműves ivóvízzel ellátott fogyasztók csaknem 100%-át. A projekttel szembeni szakmai elvárás, hogy Magyarország megfeleljen az uniós jogi követelményeknek a kijelölt határidőig. |
 
-| 52. | KEHOP Plusz-2.1.10 | Ceglédi szennyvíztisztító telep korszerűsítése, fejlesztése | Cegléd Város Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet, valamint a 362/2022. (IX. 19.) Korm. rendelet szerint | 0,91[^34] | 0,11[^35] | 2024. II. negyedév | A beruházás keretében az érintett 2000 lakosegyenérték- terhelést meghaladó kibocsátású szennyvízelvezetési agglomeráció megfelelő szennyvízkezelésének feltételei teljesülnek, annak érdekében, hogy a szennyvízközművel való lefedettség megközelítse a közműves ivóvízzel ellátott fogyasztók csaknem 100%-át. A projekttel szembeni szakmai elvárás, hogy Magyarország megfeleljen az uniós jogi követelményeknek a kijelölt határidőig. A beruházás keretében korszerűsítik és fejlesztik Cegléd város szennyvíztisztító telepét. |
+| 52. | KEHOP Plusz-2.1.10 | Ceglédi szennyvíztisztító telep korszerűsítése, fejlesztése | Cegléd Város Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet, valamint a 362/2022. (IX. 19.) Korm. rendelet szerint | 1,39[^34] | 0,16[^35] | 2024. II. negyedév | A beruházás keretében az érintett 2000 lakosegyenérték- terhelést meghaladó kibocsátású szennyvízelvezetési agglomeráció megfelelő szennyvízkezelésének feltételei teljesülnek, annak érdekében, hogy a szennyvízközművel való lefedettség megközelítse a közműves ivóvízzel ellátott fogyasztók csaknem 100%-át. A projekttel szembeni szakmai elvárás, hogy Magyarország megfeleljen az uniós jogi követelményeknek a kijelölt határidőig. A beruházás keretében korszerűsítik és fejlesztik Cegléd város szennyvíztisztító telepét. |
 
 | 53.[^36] |  |  |  |  |  |  |  |
 
@@ -429,7 +429,7 @@
 [^4]: Az 1. mellékletben foglalt táblázat 1a. sorát az 1180/2024. (VI. 20.) Korm. határozat 4. pontja iktatta be.
 [^5]: Az 1. mellékletben foglalt táblázat E:2 mezője az 1180/2024. (VI. 20.) Korm. határozat 7. pont 7.7. alpontjával megállapított szöveg.
 [^6]: Az 1. mellékletben foglalt táblázat E:4 mezője az 1180/2024. (VI. 20.) Korm. határozat 7. pont 7.8. alpontjával megállapított szöveg.
-[^7]: Az 1. mellékletben foglalt táblázat C:5 mezője az 1413/2024. (XII. 18.) Korm. határozat 9. pont a) alpontjával megállapított szöveg.
+[^7]: Az 1. mellékletben foglalt táblázat C:5 mezője az 1061/2025. (III. 13.) Korm. határozat 2. pontjával megállapított szöveg.
 [^8]: Az 1. mellékletben foglalt táblázat C:6 mezője az 1180/2024. (VI. 20.) Korm. határozat 7. pont 7.2. alpontjával megállapított szöveg.
 [^9]: Az 1. mellékletben foglalt táblázat C:7 mezője az 1413/2024. (XII. 18.) Korm. határozat 9. pont b) alpontjával megállapított szöveg.
 [^10]: Az 1. mellékletben foglalt táblázat 7a. sorát az 1180/2024. (VI. 20.) Korm. határozat 4. pontja iktatta be.
@@ -457,8 +457,8 @@
 [^31]: A 2. mellékletben foglalt táblázat E:39 mezője az 1413/2024. (XII. 18.) Korm. határozat 10. pont j) alpontjával megállapított szöveg.
 [^32]: A 2. mellékletben foglalt táblázat 49. sorát az 1320/2024. (X. 22.) Korm. határozat 5. pontja hatályon kívül helyezte.
 [^33]: A 2. mellékletben foglalt táblázat 50. sorát az 1320/2024. (X. 22.) Korm. határozat 5. pontja hatályon kívül helyezte.
-[^34]: A 2. mellékletben foglalt táblázat D:52 mezője az 1413/2024. (XII. 18.) Korm. határozat 10. pont k) alpontjával megállapított szöveg.
-[^35]: A 2. mellékletben foglalt táblázat E:52 mezője az 1413/2024. (XII. 18.) Korm. határozat 10. pont l) alpontjával megállapított szöveg.
+[^34]: A 2. mellékletben foglalt táblázat D:52 mezője az 1061/2025. (III. 13.) Korm. határozat 3. pont a) alpontjával megállapított szöveg.
+[^35]: A 2. mellékletben foglalt táblázat E:52 mezője az 1061/2025. (III. 13.) Korm. határozat 3. pont b) alpontjával megállapított szöveg.
 [^36]: A 2. mellékletben foglalt táblázat 53. sorát az 1320/2024. (X. 22.) Korm. határozat 5. pontja hatályon kívül helyezte.
 [^37]: A 2. mellékletben foglalt táblázat D:54 mezője az 1413/2024. (XII. 18.) Korm. határozat 10. pont m) alpontjával megállapított szöveg.
 [^38]: A 2. mellékletben foglalt táblázat D:60 mezője az 1430/2024. (XII. 23.) Korm. határozat 2. pont a) alpontjával megállapított szöveg.
