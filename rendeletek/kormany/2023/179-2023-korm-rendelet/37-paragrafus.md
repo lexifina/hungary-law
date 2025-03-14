@@ -24,4 +24,6 @@ fb) papíralapú tulajdonilap-másolat esetén: „A tulajdonilap-másolat tarta
 
 (2) Ügyleti tulajdonilap-másolat kizárólag elektronikus dokumentumként szolgáltatható az ingatlan-nyilvántartási beadványt benyújtó jogi képviselő, bíróság és hatóság részére a beadvány benyújtásra történő előkészítése során.
 
-(3) Ha az SZL, illetve az OCCR és az ingatlan-nyilvántartás közötti adatkapcsolat akadályozott, a tulajdonilap-másolat az SZL hatálya alá tartozó természetes személy, illetve a cég 24. § (3) bekezdése és 25. § (5) bekezdése szerinti adatait tartalmazza, azzal, hogy a szemle tulajdonilap-másolaton és a teljes tulajdonilap-másolaton a természetes személy természetes személyazonosító adatai közül kizárólag a családi és utónév, valamint születési év jeleníthető meg.
+(3)[^36] Ha az SZL, illetve az OCCR és az ingatlan-nyilvántartás közötti adatkapcsolat akadályozott, a tulajdonilap-másolat az SZL hatálya alá tartozó természetes személy, illetve a cég 24. § (3) bekezdése és 25. § (5) bekezdése szerinti adatait tartalmazza, azzal, hogy a szemle tulajdonilap-másolaton és a teljes tulajdonilap-másolaton a természetes személy természetes személyazonosító adatai közül kizárólag a családi és utónév, a születési név, a születési év, valamint az anyja születési neve jeleníthető meg.
+
+[^36]: A 37. § (3) bekezdése a 38/2025. (III. 11.) Korm. rendelet 1. §-ával megállapított szöveg.

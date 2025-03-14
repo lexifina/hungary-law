@@ -1,0 +1,3 @@
+143/A. §[^98] A 2025. január 15. napja előtt meghozott cégbírósági határozat, ha a benyújtására nem ingatlan-nyilvántartási elektronikus űrlapon kerül sor, a tulajdoni lap tartalmában történő változást megalapozó más okirattal együtt bejegyzés alapjául szolgálhat akkor is, ha azt a határozattal érintett személy nyújtja be az ingatlanügyi hatósághoz, és a bíróság határozata az ingatlan-nyilvántartásban történő változásbejegyzésre vonatkozó rendelkezést nem tartalmaz. Az ingatlanügyi hatóság az ingatlan-nyilvántartási eljárást az Inytv. IX. Fejezete szerint folytatja le.
+
+[^98]: A 143/A. §-t a 38/2025. (III. 11.) Korm. rendelet 5. §-a iktatta be.

@@ -66,6 +66,6 @@ d) a 25. § (2) bekezdés 1., 2., 6., 12., 14., 16. és 39. pontjában meghatár
 
 ## továbbíthatók.
 
-(3) [^98] A földmérési és térinformatikai államigazgatási szerv a vízjogi engedély iránti kérelem benyújtásához szükséges tervezési munkákhoz elektronikus dokumentumként vagy elektronikusan feldolgozható formában – informatikai hálózaton keresztül – tulajdonosi adatokat tartalmazó jogosulti földkönyvet szolgáltat a vízimérnöki tervezői jogosultsággal rendelkező, a tulajdonos vagy a vagyonkezelő által megbízott tervező számára.
+(3) [^103] A földmérési és térinformatikai államigazgatási szerv a vízjogi engedély iránti kérelem benyújtásához szükséges tervezési munkákhoz elektronikus dokumentumként vagy elektronikusan feldolgozható formában – informatikai hálózaton keresztül – tulajdonosi adatokat tartalmazó jogosulti földkönyvet szolgáltat a vízimérnöki tervezői jogosultsággal rendelkező, a tulajdonos vagy a vagyonkezelő által megbízott tervező számára.
 
-[^98]: A 164. § (3) bekezdése a 483/2024. (XII. 31.) Korm. rendelet 25. § 16. pontja szerint módosított szöveg.
+[^103]: A 164. § (3) bekezdése a 483/2024. (XII. 31.) Korm. rendelet 25. § 16. pontja szerint módosított szöveg.
