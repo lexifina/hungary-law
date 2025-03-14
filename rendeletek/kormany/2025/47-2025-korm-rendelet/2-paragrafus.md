@@ -1,0 +1,1 @@
+2. § A Kvtv. 55. § (4) bekezdésétől eltérően a Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény 7. § (1) bekezdés f) pontja szerinti felső határ a 2025. évben 2 200 000,0 millió forint.
