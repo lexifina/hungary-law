@@ -1,0 +1,3 @@
+5. § Az Inyvhr. 75. alcíme a következő 143/A. §-sal egészül ki:
+
+„143/A. § A 2025. január 15. napja előtt meghozott cégbírósági határozat, ha a benyújtására nem ingatlan-nyilvántartási elektronikus űrlapon kerül sor, a tulajdoni lap tartalmában történő változást megalapozó más okirattal együtt bejegyzés alapjául szolgálhat akkor is, ha azt a határozattal érintett személy nyújtja be az ingatlanügyi hatósághoz, és a bíróság határozata az ingatlan-nyilvántartásban történő változásbejegyzésre vonatkozó rendelkezést nem tartalmaz. Az ingatlanügyi hatóság az ingatlan-nyilvántartási eljárást az Inytv. IX. Fejezete szerint folytatja le.”
