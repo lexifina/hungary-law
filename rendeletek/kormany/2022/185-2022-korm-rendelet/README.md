@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-185-20-
 | 2022-08-12 | 2022-185-20-22.3 | 309/2022. (VIII. 11.) Korm. rendelet |
 | 2022-11-01 | 2022-185-20-22.4 | 203/2022. (VI. 8.) Korm. rendelet |
 | 2022-12-29 | 2022-185-20-22.5 | 585/2022. (XII. 28.) Korm. rendelet |
+| 2025-03-14 | 2022-185-20-22.6 | 46/2025. (III. 13.) Korm. rendelet |
