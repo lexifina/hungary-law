@@ -4,19 +4,19 @@
 
 ## 47. Általános szabályok
 
-176. § (1)[^213] A támogatást igénylő, a kedvezményezett (e fejezet alkalmazásában a továbbiakban együtt: kedvezményezett) európai uniós támogatásból finanszírozott vagy finanszírozni tervezett közbeszerzési eljárás vagy koncessziós beszerzési eljárás (e fejezet alkalmazásában a továbbiakban együtt: közbeszerzési eljárás) lefolytatása és a közbeszerzési eljárás eredményeként megkötött szállítói szerződés módosítása során e fejezet szerint jár el.
+176. § (1)[^228] A támogatást igénylő, a kedvezményezett (e fejezet alkalmazásában a továbbiakban együtt: kedvezményezett) európai uniós támogatásból finanszírozott vagy finanszírozni tervezett közbeszerzési eljárás vagy koncessziós beszerzési eljárás (e fejezet alkalmazásában a továbbiakban együtt: közbeszerzési eljárás) lefolytatása és a közbeszerzési eljárás eredményeként megkötött szállítói szerződés módosítása során e fejezet szerint jár el.
 
-(2)[^214] Az ajánlatkérő az e fejezet szerinti ellenőrzést akkor is kezdeményezheti, ha a közbeszerzést támogatásból tervezi finanszírozni, de a támogatási kérelmét még nem nyújtotta be.
+(2)[^229] Az ajánlatkérő az e fejezet szerinti ellenőrzést akkor is kezdeményezheti, ha a közbeszerzést támogatásból tervezi finanszírozni, de a támogatási kérelmét még nem nyújtotta be.
 
 (3) Az e fejezet szerinti kötelezettségeket a kedvezményezett teljesíti akkor is, ha a Kbt. 29. §-a alapján nem ő minősül ajánlatkérőnek.
 
 (4) Az e fejezet szerinti kötelezettségeket a kedvezményezett akkor is teljesíti, ha a közbeszerzési eljárást olyan szervezet folytatja le, amellyel a kedvezményezett a Kbt. 9. § (1) bekezdés h) vagy i) pontja vagy a Kbt. 9. § (2) bekezdése alapján kötött szerződést.
 
-(5)[^215] Ha a támogatás felhasználására központosított közbeszerzési rendszer alkalmazásával kerül sor, a támogatási kérelem, illetve a támogatási szerződés és a központosított közbeszerzési rendszer alkalmazásával létrejövő, a konkrét beszerzési igény kielégítésére szolgáló szállítói szerződés összhangjának megteremtéséért, továbbá a támogatás felhasználásának ellenőrzése során az eljárás dokumentumai rendelkezésre bocsátásáért – a (6) bekezdés figyelembevételével – a kedvezményezett felel.
+(5)[^230] Ha a támogatás felhasználására központosított közbeszerzési rendszer alkalmazásával kerül sor, a támogatási kérelem, illetve a támogatási szerződés és a központosított közbeszerzési rendszer alkalmazásával létrejövő, a konkrét beszerzési igény kielégítésére szolgáló szállítói szerződés összhangjának megteremtéséért, továbbá a támogatás felhasználásának ellenőrzése során az eljárás dokumentumai rendelkezésre bocsátásáért – a (6) bekezdés figyelembevételével – a kedvezményezett felel.
 
-(6)[^216] Ha a támogatás felhasználására központosított közbeszerzési rendszer alkalmazásával kerül sor, a központi beszerző szerv az általa lefolytatott közbeszerzési eljárás, valamint az ennek eredményeként megkötött szállítói szerződés módosítása vonatkozásában az e fejezet szerinti ellenőrzést az ellenőrzést végző szervezetnél közvetlenül kezdeményezheti.
+(6)[^231] Ha a támogatás felhasználására központosított közbeszerzési rendszer alkalmazásával kerül sor, a központi beszerző szerv az általa lefolytatott közbeszerzési eljárás, valamint az ennek eredményeként megkötött szállítói szerződés módosítása vonatkozásában az e fejezet szerinti ellenőrzést az ellenőrzést végző szervezetnél közvetlenül kezdeményezheti.
 
-[^213]: A 176. § (1) bekezdése a 48/2024. (III. 4.) Korm. rendelet 31. § (1) bekezdés 5. pontja szerint módosított szöveg.
-[^214]: A 176. § (2) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 54. §-ával megállapított szöveg.
-[^215]: A 176. § (5) bekezdése a 48/2024. (III. 4.) Korm. rendelet 31. § (1) bekezdés 6. pontja szerint módosított szöveg.
-[^216]: A 176. § (6) bekezdése a 48/2024. (III. 4.) Korm. rendelet 31. § (1) bekezdés 7. pontja szerint módosított szöveg.
+[^228]: A 176. § (1) bekezdése a 48/2024. (III. 4.) Korm. rendelet 31. § (1) bekezdés 5. pontja szerint módosított szöveg.
+[^229]: A 176. § (2) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 54. §-ával megállapított szöveg.
+[^230]: A 176. § (5) bekezdése a 48/2024. (III. 4.) Korm. rendelet 31. § (1) bekezdés 6. pontja szerint módosított szöveg.
+[^231]: A 176. § (6) bekezdése a 48/2024. (III. 4.) Korm. rendelet 31. § (1) bekezdés 7. pontja szerint módosított szöveg.

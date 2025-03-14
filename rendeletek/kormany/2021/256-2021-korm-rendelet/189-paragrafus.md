@@ -1,9 +1,9 @@
-189. § (1)[^252] Az NFK a közbeszerzési eljárás megindítását követően a közbeszerzési eljárást a közbeszerzési eljárás során keletkezett dokumentumok vizsgálatával ellenőrzi.
+189. § (1)[^267] Az NFK a közbeszerzési eljárás megindítását követően a közbeszerzési eljárást a közbeszerzési eljárás során keletkezett dokumentumok vizsgálatával ellenőrzi.
 
-(2)[^253] A kedvezményezett a közbeszerzési eljárás során az eljárási cselekményekről haladéktalanul, írásban tájékoztatja az irányító hatóságot és az NFK-t.
+(2)[^268] A kedvezményezett a közbeszerzési eljárás során az eljárási cselekményekről haladéktalanul, írásban tájékoztatja az irányító hatóságot és az NFK-t.
 
-(3)[^254] A kedvezményezett a közbeszerzési eljárás során keletkezett dokumentumokat haladéktalanul megküldi az irányító hatóság és az NFK részére.
+(3)[^269] A kedvezményezett a közbeszerzési eljárás során keletkezett dokumentumokat haladéktalanul megküldi az irányító hatóság és az NFK részére.
 
-[^252]: A 189. § (1) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 98. pontja szerint módosított szöveg.
-[^253]: A 189. § (2) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 99. pontja szerint módosított szöveg.
-[^254]: A 189. § (3) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 100. pontja szerint módosított szöveg.
+[^267]: A 189. § (1) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 98. pontja szerint módosított szöveg.
+[^268]: A 189. § (2) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 99. pontja szerint módosított szöveg.
+[^269]: A 189. § (3) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 100. pontja szerint módosított szöveg.

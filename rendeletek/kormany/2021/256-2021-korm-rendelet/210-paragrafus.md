@@ -1,10 +1,10 @@
-210. § (1)[^322] A kedvezményezett az irányító hatóság végleges nyilatkozata kézhezvételét követően haladéktalanul kezdeményezi az NFK közbeszerzési elszámolhatósági szempontú ellenőrzését.
+210. § (1)[^337] A kedvezményezett az irányító hatóság végleges nyilatkozata kézhezvételét követően haladéktalanul kezdeményezi az NFK közbeszerzési elszámolhatósági szempontú ellenőrzését.
 
-(2)[^323] Az NFK a dokumentumok kézhezvételét követő tizenkét munkanapon belül jelentést állít ki a beszerzés közbeszerzési elszámolhatósági megfelelőségéről.
+(2)[^338] Az NFK a dokumentumok kézhezvételét követő tizenkét munkanapon belül jelentést állít ki a beszerzés közbeszerzési elszámolhatósági megfelelőségéről.
 
-(3)[^324] Ha a kedvezményezett a jelentésben foglaltakkal nem ért egyet, a jelentésben foglaltakkal kapcsolatos észrevételeit annak kézhezvételétől számított két munkanapon belül megküldi az NFK részére.
+(3)[^339] Ha a kedvezményezett a jelentésben foglaltakkal nem ért egyet, a jelentésben foglaltakkal kapcsolatos észrevételeit annak kézhezvételétől számított két munkanapon belül megküldi az NFK részére.
 
-(4)[^325] Az NFK az észrevételekkel való
+(4)[^340] Az NFK az észrevételekkel való
 
 a) egyetértése esetén a jelentést módosítja,
 
@@ -14,7 +14,7 @@ b) egyet nem értése esetén a jelentésben foglaltakat fenntartja.
 
 (6) A támogatás kifizetése vonatkozásában a 194. §-t kell alkalmazni.
 
-[^322]: A 210. § (1) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 145. pontja szerint módosított szöveg.
-[^323]: A 210. § (2) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 146. pontja szerint módosított szöveg.
-[^324]: A 210. § (3) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 147. pontja szerint módosított szöveg.
-[^325]: A 210. § (4) bekezdés nyitó szövegrésze a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 148. pontja szerint módosított szöveg.
+[^337]: A 210. § (1) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 145. pontja szerint módosított szöveg.
+[^338]: A 210. § (2) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 146. pontja szerint módosított szöveg.
+[^339]: A 210. § (3) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 147. pontja szerint módosított szöveg.
+[^340]: A 210. § (4) bekezdés nyitó szövegrésze a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 148. pontja szerint módosított szöveg.

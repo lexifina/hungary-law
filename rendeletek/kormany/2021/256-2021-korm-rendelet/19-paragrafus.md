@@ -88,7 +88,7 @@ c)[^55] az a) és b) pont szerinti, valamint az egyéb megkeresések kapcsán te
 
 (4) Az irányító hatóság
 
-a)[^56] megvizsgálja az Európai Unió Alapjogi Chartájával összefüggő, valamely alapvető jog tekintetében tett bejelentéseket és a rendelkezésére álló információkat,
+a)[^56] – szükség esetén a folyamatban lévő eljárás felfüggesztése mellett – megvizsgálja az Európai Unió Alapjogi Chartájával összefüggő, valamely alapvető jog tekintetében tett bejelentéseket és a rendelkezésére álló információkat,
 
 b)[^57] az a) pont szerinti vizsgálat eredményéről tájékoztatja az NFK-t.
 
@@ -114,5 +114,5 @@ b)[^57] az a) pont szerinti vizsgálat eredményéről tájékoztatja az NFK-t.
 [^53]: A 19. § (2) bekezdés d) pontja a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 25. pontja szerint módosított szöveg.
 [^54]: A 19. § (2) bekezdés e) pontja a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 26. pontja szerint módosított szöveg.
 [^55]: A 19. § (3) bekezdés c) pontja a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 27. pontja szerint módosított szöveg.
-[^56]: A 19. § (4) bekezdés a) pontja a 218/2024. (VII. 31.) Korm. rendelet 44. § (3) bekezdésével megállapított szöveg.
+[^56]: A 19. § (4) bekezdés a) pontja a 218/2024. (VII. 31.) Korm. rendelet 44. § (3) bekezdésével megállapított, a 37/2025. (III. 11.) Korm. rendelet 26. § (1) bekezdés 1. pontja szerint módosított szöveg.
 [^57]: A 19. § (4) bekezdés b) pontja a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 28. pontja szerint módosított szöveg.

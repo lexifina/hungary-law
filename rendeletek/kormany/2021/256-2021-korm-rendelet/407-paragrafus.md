@@ -1,3 +1,3 @@
-407. §[^498] A Belső Ellenőrzési és Integritási Igazgatóság nincs kötve a jogorvoslati kérelemben foglaltakhoz.
+407. §[^540] A Belső Ellenőrzési és Integritási Igazgatóság nincs kötve a jogorvoslati kérelemben foglaltakhoz.
 
-[^498]: A 407. § a 123/2023. (IV. 12.) Korm. rendelet 20. § 22. pontja szerint módosított szöveg.
+[^540]: A 407. § a 123/2023. (IV. 12.) Korm. rendelet 20. § 22. pontja szerint módosított szöveg.

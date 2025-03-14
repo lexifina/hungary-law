@@ -40,7 +40,7 @@ k) a megvalósítási időszakra az a kedvezményezett, aki a támogatás kifize
 
 l) a társasház és a lakásszövetkezet a szociális célú városrehabilitációra vonatkozó felhívás keretében,
 
-m)[^198] kérelemre az a kedvezményezett, amely rendelkezik legalább egy lezárt, teljes üzleti évvel, szerepel a köztartozásmentes adózói adatbázisban vagy a köztartozás-mentességét harminc napnál nem régebbi nemleges adóigazolással igazolja, és vele szemben nincs folyamatban e rendelet szerinti követeléskezelési eljárás,
+m)[^208] kérelemre az a kedvezményezett, amely rendelkezik legalább egy lezárt, teljes üzleti évvel, szerepel a köztartozásmentes adózói adatbázisban vagy a köztartozás-mentességét hét napnál nem régebbi nemleges adóigazolással igazolja, és vele szemben nincs folyamatban e rendelet szerinti követeléskezelési eljárás,
 
 n) a térségi fejlesztési tanács,
 
@@ -54,4 +54,4 @@ b) kutatás-fejlesztésre vagy innovációra irányul.
 
 (3) Az (1) bekezdés g) pontja nem alkalmazható a konzorciumvezető esetén.
 
-[^198]: A 147. § (1) bekezdés m) pontja a 195/2023. (V. 22.) Korm. rendelet 69. § (1) bekezdés 5. pontja szerint módosított szöveg.
+[^208]: A 147. § (1) bekezdés m) pontja a 195/2023. (V. 22.) Korm. rendelet 69. § (1) bekezdés 5. pontja, a 37/2025. (III. 11.) Korm. rendelet 26. § (1) bekezdés 9. pontja szerint módosított szöveg.

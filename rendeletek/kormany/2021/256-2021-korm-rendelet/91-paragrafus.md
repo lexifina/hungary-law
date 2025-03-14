@@ -10,6 +10,6 @@ b) a támogatási kérelem benyújtására nyitva álló időszakban történik,
 
 (3) A (2) bekezdés b) pontját nem kell alkalmazni, ha az irányító hatóság a felhívás módosítása során a támogatási kérelem benyújtását felfüggesztette vagy a felhívást lezárta.
 
-(4)[^169] Az irányító hatóság az (1) bekezdés szerinti dokumentumokat megküldi az NFK részére minőségbiztosítás és közzététel céljából.
+(4)[^175] Az irányító hatóság az (1) bekezdés szerinti dokumentumokat megküldi az NFK részére minőségbiztosítás és közzététel céljából.
 
-[^169]: A 91. § (4) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 62. pontja szerint módosított szöveg.
+[^175]: A 91. § (4) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 62. pontja szerint módosított szöveg.

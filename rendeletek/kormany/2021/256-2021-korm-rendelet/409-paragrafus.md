@@ -1,4 +1,4 @@
-409. § (1) A jogorvoslati eljárást meg kell szüntetni, ha
+409. §[^545] (1) Az iratok felterjesztéséig az irányító hatóság, azt követően a Belső Ellenőrzési és Integritási Igazgatóság a jogorvoslati eljárást megszünteti, ha
 
 a) a kedvezményezett a jogorvoslati kérelmét visszavonta,
 
@@ -6,6 +6,6 @@ b) a támogatási jogviszony – nem a jogorvoslati kérelemmel érintett szabá
 
 c) a kedvezményezett jogutód nélkül megszűnt.
 
-(2)[^501] A jogorvoslati eljárás megszüntetéséről a Belső Ellenőrzési és Integritási Igazgatóság haladéktalanul tájékoztatja a kedvezményezettet.
+(2) A jogorvoslati eljárás megszüntetéséről az irányító hatóság – az iratok felterjesztését követően a Belső Ellenőrzési és Integritási Igazgatóság – haladéktalanul tájékoztatja a kedvezményezettet.
 
-[^501]: A 409. § (2) bekezdése a 123/2023. (IV. 12.) Korm. rendelet 20. § 25. pontja szerint módosított szöveg.
+[^545]: A 409. § a 37/2025. (III. 11.) Korm. rendelet 22. §-ával megállapított szöveg.

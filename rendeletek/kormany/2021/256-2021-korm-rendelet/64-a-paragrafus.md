@@ -1,3 +1,3 @@
-64/A. §[^133] Az e rendelet szerinti, napokban megállapított határidőbe nem számít bele a Kormány által elrendelt igazgatási szünet időtartama.
+64/A. §[^137] Az e rendelet szerinti, napokban megállapított határidőbe nem számít bele a Kormány által elrendelt igazgatási szünet időtartama.
 
-[^133]: A 64/A. §-t a 195/2023. (V. 22.) Korm. rendelet 34. §-a iktatta be.
+[^137]: A 64/A. §-t a 195/2023. (V. 22.) Korm. rendelet 34. §-a iktatta be.

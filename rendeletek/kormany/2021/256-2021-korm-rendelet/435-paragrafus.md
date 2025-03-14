@@ -1,1 +1,0 @@
-435. § (1) Ha a kedvezményezett a visszafizetési kötelezettségét a részletfizetési megállapodás szerint teljesíti, az irányító hatóság csak a futamidő végén, a visszafizetési kötelezettség megszűnéséről tájékoztatja a kedvezményezettet.

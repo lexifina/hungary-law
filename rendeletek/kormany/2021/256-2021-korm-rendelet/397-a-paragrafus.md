@@ -1,4 +1,4 @@
-397/A. §[^486] (1) Ha az irányító hatóság a szabálytalansági eljárás során azt állapítja meg, hogy az eljárás során vizsgált, jogszabályba, a felhívásba vagy a támogatási szerződésbe ütköző cselekmény vagy mulasztás
+397/A. §[^528] (1) Ha az irányító hatóság a szabálytalansági eljárás során azt állapítja meg, hogy az eljárás során vizsgált, jogszabályba, a felhívásba vagy a támogatási szerződésbe ütköző cselekmény vagy mulasztás
 
 a) nem befolyásolta érdemben a támogatási döntést, a támogatási jogviszony létrehozását, módosítását vagy a projekt költségeinek elszámolhatóságát, és
 
@@ -8,4 +8,4 @@ b) nem veszélyezteti a felhívás szerinti fejlesztéspolitikai cél megvalósu
 
 (3) Ha a kedvezményezett részére még kifizetendő támogatási összeg kevesebb, mint a támogatási összeg (1) bekezdés szerint szükséges csökkentése, akkor az irányító hatóság követelést ír elő.
 
-[^486]: A 397/A. §-t az 565/2023. (XII. 14.) Korm. rendelet 3. §-a iktatta be.
+[^528]: A 397/A. §-t az 565/2023. (XII. 14.) Korm. rendelet 3. §-a iktatta be.

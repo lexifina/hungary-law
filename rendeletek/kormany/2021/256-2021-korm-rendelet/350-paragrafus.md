@@ -1,1 +1,9 @@
-350. § A projektben létrehozott vagyon a záró projektfenntartási jelentés (a továbbiakban: ZPFJ) elfogadásáig csak az irányító hatóság előzetes jóváhagyásával és a támogatási jogviszony szempontjából releváns kötelezettségek átvállalásával, átruházásával idegeníthető el, adható bérbe, illetve terhelhető meg.
+350. §[^497] A projektben létrehozott vagyon
+
+a) a fenntartási kötelezettség időtartama alatt csak az irányító hatóság előzetes jóváhagyásával és a támogatási jogviszony szempontjából releváns kötelezettségek átvállalásával, átruházásával,
+
+b) a fenntartási kötelezettség időtartamának vége és a ZPFJ elfogadása közötti időszakban az irányító hatóság előzetes értesítése után
+
+idegeníthető el, adható bérbe vagy terhelhető meg.
+
+[^497]: A 350. § a 37/2025. (III. 11.) Korm. rendelet 20. §-ával megállapított szöveg.

@@ -4,7 +4,7 @@
 
 (3) Az irányító hatóság az (1) bekezdés szerinti határidőt egy alkalommal, legfeljebb harminc nappal meghosszabbíthatja, ha a támogatási kérelmek száma meghaladja a tervezettet.
 
-(3a)[^193] Ha a 93. § (4) bekezdése szerinti esetben a benyújtott támogatási kérelmekben igényelt támogatások összege eléri a felhívásban rögzített szakasz keretösszegének háromszorosát, az irányító hatóság az (1) bekezdés szerinti határidőtől eltérhet.
+(3a)[^200] Ha a 93. § (4) bekezdése szerinti esetben a benyújtott támogatási kérelmekben igényelt támogatások összege eléri a felhívásban rögzített szakasz keretösszegének háromszorosát, az irányító hatóság az (1) bekezdés szerinti határidőtől eltérhet.
 
 (4) A döntési határidőbe nem számít bele
 
@@ -18,4 +18,4 @@ d) az az időtartam, amikor törvényben meghatározott szakértői névsorban n
 
 e) a 120. § (1) bekezdése szerinti előzetes állásfoglaláshoz szükséges előterjesztés FKB részére történő megküldésétől a Kormány döntéséig terjedő időtartam.
 
-[^193]: A 125. § (3a) bekezdését az 562/2021. (X. 1.) Korm. rendelet 18. §-a iktatta be.
+[^200]: A 125. § (3a) bekezdését az 562/2021. (X. 1.) Korm. rendelet 18. §-a iktatta be.

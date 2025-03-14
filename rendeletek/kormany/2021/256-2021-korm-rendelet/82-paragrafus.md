@@ -1,6 +1,6 @@
 82. § (1) Az éves fejlesztési keret elfogadására irányuló javaslatról – annak FKB általi megtárgyalását követően – a Kormány dönt.
 
-(2)[^151] Az éves fejlesztési keretet normatív kormányhatározat állapítja meg, amely meghatározza
+(2)[^156] Az éves fejlesztési keretet normatív kormányhatározat állapítja meg, amely meghatározza
 
 a) a felhívás
 
@@ -28,13 +28,13 @@ be) támogatási kérelme benyújtásának várható időpontját,
 
 bf) szakmai elvárásait.
 
-(3)[^152]
+(3)[^157]
 
-(4)[^153]
+(4)[^158]
 
-(5)[^154]
+(5)[^159]
 
-[^151]: A 82. § (2) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 51. §-ával megállapított szöveg.
-[^152]: A 82. § (3) bekezdését a 218/2024. (VII. 31.) Korm. rendelet 76. § b) pontja hatályon kívül helyezte.
-[^153]: A 82. § (4) bekezdését a 156/2022. (IV. 19.) Korm. rendelet 32. § b) pontja hatályon kívül helyezte.
-[^154]: A 82. § (5) bekezdését a 218/2024. (VII. 31.) Korm. rendelet 76. § b) pontja hatályon kívül helyezte.
+[^156]: A 82. § (2) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 51. §-ával megállapított szöveg.
+[^157]: A 82. § (3) bekezdését a 218/2024. (VII. 31.) Korm. rendelet 76. § b) pontja hatályon kívül helyezte.
+[^158]: A 82. § (4) bekezdését a 156/2022. (IV. 19.) Korm. rendelet 32. § b) pontja hatályon kívül helyezte.
+[^159]: A 82. § (5) bekezdését a 218/2024. (VII. 31.) Korm. rendelet 76. § b) pontja hatályon kívül helyezte.
