@@ -96,7 +96,7 @@
 
 38. programterületen kívüli művelet: az 1303/2013/EU európai parlamenti és tanácsi rendelet 70. cikkében meghatározott művelet,
 
-39.[^46] projekt lezárása: egy projekt akkor tekinthető lezártnak, ha a kedvezményezett a támogatási szerződésben a projektmegvalósítás irányító hatóság általi befejezését követő időszakra nézve további kötelezettséget nem vállalt, és a felhívásban meghatározott feltételek teljesültek. Ha a támogatási szerződés a támogatott tevékenység befejezését követő időszakra nézve további kötelezettséget előírt, a projekt akkor tekinthető lezártnak, ha valamennyi vállalt kötelezettség teljesült és a kedvezményezett a kötelezettségek megvalósulásának eredményeiről szóló záró projekt fenntartási jelentést benyújtotta, és azt az irányító hatóság, Vidékfejlesztési Program esetén a kifizető ügynökség jóváhagyta, valamint a záró jegyzőkönyv elkészült,
+39.[^46] projekt lezárása: egy projekt akkor tekinthető lezártnak, ha a kedvezményezett a támogatási szerződésben a projektmegvalósítás irányító hatóság általi befejezését követő időszakra nézve további kötelezettséget nem vállalt, és a felhívásban meghatározott feltételek teljesültek. Ha a támogatási szerződés a támogatott tevékenység befejezését követő időszakra nézve további kötelezettséget előírt, a projekt akkor tekinthető lezártnak, ha valamennyi vállalt kötelezettség teljesült és a kedvezményezett a kötelezettségek megvalósulásának eredményeiről szóló záró projektfenntartási jelentést (a továbbiakban: ZPFJ) benyújtotta, és azt az irányító hatóság, Vidékfejlesztési Program esetén a kifizető ügynökség jóváhagyta, valamint a záró jegyzőkönyv elkészült,
 
 40.[^47] projekt fizikai befejezése: az az állapot, amikor a projekt keretében támogatott tevékenységeket a felhívásban és a támogatási szerződésben meghatározottak szerint elvégezték,
 
@@ -229,7 +229,7 @@ szerint kell értelmezni.
 [^43]: A 3. § (1) bekezdés 34. pontja a 98/2016. (V. 13.) Korm. rendelet 2. § (4) bekezdésével megállapított szöveg.
 [^44]: A 3. § (1) bekezdés 35. pontja a 247/2016. (VIII. 17.) Korm. rendelet 25. § (1) bekezdés 2. pontja szerint módosított szöveg.
 [^45]: A 3. § (1) bekezdés 37. pontja a 91/2016. (IV. 29.) Korm. rendelet 8. § a) pontja, a 339/2023. (VII. 25.) Korm. rendelet 4. § (1) bekezdése szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 59. §-át.
-[^46]: A 3. § (1) bekezdés 39. pontja a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 4. pontja, a 218/2024. (VII. 31.) Korm. rendelet 34. § (1) bekezdés 2. pontja szerint módosított szöveg.
+[^46]: A 3. § (1) bekezdés 39. pontja a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 4. pontja, a 218/2024. (VII. 31.) Korm. rendelet 34. § (1) bekezdés 2. pontja, a 37/2025. (III. 11.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
 [^47]: A 3. § (1) bekezdés 40. pontja a 144/2015. (VI. 12.) Korm. rendelet 5. § (8) bekezdésével megállapított szöveg.
 [^48]: A 3. § (1) bekezdés 41. pontja a 195/2023. (V. 22.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^49]: A 3. § (1) bekezdés 42. pontja a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 5. pontja szerint módosított szöveg.
