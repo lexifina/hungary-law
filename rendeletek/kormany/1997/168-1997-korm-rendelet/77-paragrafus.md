@@ -1,5 +1,5 @@
 ## A követelés érvényesítése
 
-77. §[^276]
+77. §[^277]
 
-[^276]: A 77. §-t a 352/2023. (VII. 27.) Korm. rendelet 8. § h) pontja hatályon kívül helyezte.
+[^277]: A 77. §-t a 352/2023. (VII. 27.) Korm. rendelet 8. § h) pontja hatályon kívül helyezte.

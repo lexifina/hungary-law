@@ -1,146 +1,146 @@
-72/B. §[^190] (1)[^191] A kivételes nyugellátás megállapítása, a kivételes nyugellátás-emelés és az egyszeri segély megállapítása iránti eljárás – az (1c) bekezdésben meghatározottak kivételével – kérelemre indul.
+72/B. §[^191] (1)[^192] A kivételes nyugellátás megállapítása, a kivételes nyugellátás-emelés és az egyszeri segély megállapítása iránti eljárás – az (1c) bekezdésben meghatározottak kivételével – kérelemre indul.
 
-(1a)[^192] A kérelmet a Központ által – az elektronikus űrlap tekintetében az e-közigazgatási és informatikai fejlesztések egységesítéséért felelős miniszterrel egyetértésben – e célra rendszeresített, és a Kincstár honlapján, továbbá a kormányzati portálon közzétett adatlapon vagy elektronikus űrlapon kell benyújtani. Az adatlapok és elektronikus űrlapok adattartalmát a 6. számú melléklet határozza meg.
+(1a)[^193] A kérelmet a Központ által – az elektronikus űrlap tekintetében az e-közigazgatási és informatikai fejlesztések egységesítéséért felelős miniszterrel egyetértésben – e célra rendszeresített, és a Kincstár honlapján, továbbá a kormányzati portálon közzétett adatlapon vagy elektronikus űrlapon kell benyújtani. Az adatlapok és elektronikus űrlapok adattartalmát a 6. számú melléklet határozza meg.
 
-(1b)[^193] A kérelemben meg kell jelölni azokat a különös méltánylást érdemlő körülményeket, amelyek a kivételes nyugellátás megállapítását, a kivételes nyugellátás-emelést, illetve az egyszeri segély megállapítását indokolják.
+(1b)[^194] A kérelemben meg kell jelölni azokat a különös méltánylást érdemlő körülményeket, amelyek a kivételes nyugellátás megállapítását, a kivételes nyugellátás-emelést, illetve az egyszeri segély megállapítását indokolják.
 
-(1c)[^194] Ha a tizenhat év alatti gyermek árvaellátás iránti igényét amiatt utasítják el, mert az elhunyt jogszerző a szükséges szolgálati időt nem szerezte meg, a kivételes árvaellátás megállapítása iránti eljárást hivatalból meg kell indítani.
+(1c)[^195] Ha a tizenhat év alatti gyermek árvaellátás iránti igényét amiatt utasítják el, mert az elhunyt jogszerző a szükséges szolgálati időt nem szerezte meg, a kivételes árvaellátás megállapítása iránti eljárást hivatalból meg kell indítani.
 
-(1d)[^195] Kivételes nyugellátás, kivételes nyugellátás-emelés és egyszeri segély a költségvetési előirányzat-keretre tekintettel állapítható meg. A felhasználható költségvetési előirányzat-keret megosztását a Központ határozza meg.
+(1d)[^196] Kivételes nyugellátás, kivételes nyugellátás-emelés és egyszeri segély a költségvetési előirányzat-keretre tekintettel állapítható meg. A felhasználható költségvetési előirányzat-keret megosztását a Központ határozza meg.
 
-(1e)[^196] Ha az általános hatáskörű nyugdíj-megállapító szerv megállapítja, hogy a kérelmező nem felel meg az általa engedélyezhető kivételes nyugellátás-emelés, illetve egyszeri segély feltételeinek, de a (20) bekezdés szerinti feltételek fennállnak, a kérelmet az iratokkal együtt megküldi a Központnak.
+(1e)[^197] Ha az általános hatáskörű nyugdíj-megállapító szerv megállapítja, hogy a kérelmező nem felel meg az általa engedélyezhető kivételes nyugellátás-emelés, illetve egyszeri segély feltételeinek, de a (20) bekezdés szerinti feltételek fennállnak, a kérelmet az iratokkal együtt megküldi a Központnak.
 
-(1f)[^197] Ha a Központ hatáskörébe tartozó ügyekben a különös méltánylást érdemlő körülmények fennállásának megítélése érdekében helyszíni szemlét kell tartani, a helyszíni szemlét az általános hatáskörű nyugdíj-megállapító szerv – a megkereséstől számított húsz napon belül – folytatja le, és annak eredményéről haladéktalanul értesíti a Központot.
+(1f)[^198] Ha a Központ hatáskörébe tartozó ügyekben a különös méltánylást érdemlő körülmények fennállásának megítélése érdekében helyszíni szemlét kell tartani, a helyszíni szemlét az általános hatáskörű nyugdíj-megállapító szerv – a megkereséstől számított húsz napon belül – folytatja le, és annak eredményéről haladéktalanul értesíti a Központot.
 
-(1g)[^198]
+(1g)[^199]
 
-(2)[^199] Nem állapítható meg kivételes nyugellátás, és nem engedélyezhető kivételes nyugellátás-emelés, illetve egyszeri segély annak a személynek, aki letartóztatásban van, szabadságvesztés büntetését tölti, vagy a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szt.) 57. §-a (2) bekezdésének a)–c) pontja szerinti tartós bentlakásos intézményben él, a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.) szerinti otthont nyújtó ellátásban részesül, illetőleg javítóintézetben van elhelyezve.
+(2)[^200] Nem állapítható meg kivételes nyugellátás, és nem engedélyezhető kivételes nyugellátás-emelés, illetve egyszeri segély annak a személynek, aki letartóztatásban van, szabadságvesztés büntetését tölti, vagy a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szt.) 57. §-a (2) bekezdésének a)–c) pontja szerinti tartós bentlakásos intézményben él, a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.) szerinti otthont nyújtó ellátásban részesül, illetőleg javítóintézetben van elhelyezve.
 
-(3)[^200] A kivételes nyugellátást minden szempontból úgy kell tekinteni, mintha az – a jogosultsági feltételek megléte esetén – jogszerűen megilletné az ellátásban részesülőt. Kivételes nyugellátás megállapítása meghatározott időtartamra vagy meghatározott feltételekhez kötötten is engedélyezhető.
+(3)[^201] A kivételes nyugellátást minden szempontból úgy kell tekinteni, mintha az – a jogosultsági feltételek megléte esetén – jogszerűen megilletné az ellátásban részesülőt. Kivételes nyugellátás megállapítása meghatározott időtartamra vagy meghatározott feltételekhez kötötten is engedélyezhető.
 
-(4)[^201] A Tny. 66. §-a alapján akkor állapítható meg
+(4)[^202] A Tny. 66. §-a alapján akkor állapítható meg
 
-a)[^202] kivételes öregségi nyugdíj, ha a kérelmező rendelkezik a nyugdíj megállapításához szükséges szolgálati idő legalább felével,
+a)[^203] kivételes öregségi nyugdíj, ha a kérelmező rendelkezik a nyugdíj megállapításához szükséges szolgálati idő legalább felével,
 
-b)[^203] kivételes özvegyi nyugdíj, árvaellátás, ha a jogszerző rendelkezik az öregségi nyugdíjhoz szükséges szolgálati idő, vagy a Tny. 46. §-ában meghatározott szolgálati idő legalább felével, és az özvegy, illetve árva megfelel az özvegyi nyugdíjra, illetve árvaellátásra való jogosultság feltételeinek,
+b)[^204] kivételes özvegyi nyugdíj, árvaellátás, ha a jogszerző rendelkezik az öregségi nyugdíjhoz szükséges szolgálati idő, vagy a Tny. 46. §-ában meghatározott szolgálati idő legalább felével, és az özvegy, illetve árva megfelel az özvegyi nyugdíjra, illetve árvaellátásra való jogosultság feltételeinek,
 
-c)[^204]
+c)[^205]
 
 továbbá a kérelmező nem részesül az Szt. 4. § (1) bekezdésének i) pontjában megjelölt rendszeres pénzellátásban, ide nem értve az időskorúak járadékát.
 
-(5)[^205] Rendkívül indokolt esetben kivételes árvaellátás megállapítható akkor is, ha
+(5)[^206] Rendkívül indokolt esetben kivételes árvaellátás megállapítható akkor is, ha
 
 a) az elhunyt az előírt szolgálati idő felével sem rendelkezett,
 
-b)[^206] az árva középfokú iskolában nem nappali rendszerű iskolai oktatásban vesz részt, vagy felsőoktatási intézményben nem nappali képzésben folytat tanulmányokat,
+b)[^207] az árva középfokú iskolában nem nappali rendszerű iskolai oktatásban vesz részt, vagy felsőoktatási intézményben nem nappali képzésben folytat tanulmányokat,
 
-c)[^207] az árva az elhunyt jogszerző halálakor a 16. életévét betöltötte, de a 18. életévét még nem töltötte be, és egészségi állapota – a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló törvényben foglaltak szerint – legfeljebb 30 százalékos,
+c)[^208] az árva az elhunyt jogszerző halálakor a 16. életévét betöltötte, de a 18. életévét még nem töltötte be, és egészségi állapota – a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló törvényben foglaltak szerint – legfeljebb 30 százalékos,
 
-d)[^208] az elhunyt jogszerző Magyarországon nem szerezte meg a jogosultsághoz szükséges szolgálati időt, az árva alapvető szükségleteinek a biztosítása veszélyeztetve van, és az árvaellátásra való jogosultság fennállása a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek vagy szociális biztonsági (szociálpolitikai) egyezmény alapján figyelembe vehető szolgálati időre vonatkozó adatoknak a beérkezéséig nem bírálható el,
+d)[^209] az elhunyt jogszerző Magyarországon nem szerezte meg a jogosultsághoz szükséges szolgálati időt, az árva alapvető szükségleteinek a biztosítása veszélyeztetve van, és az árvaellátásra való jogosultság fennállása a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek vagy szociális biztonsági (szociálpolitikai) egyezmény alapján figyelembe vehető szolgálati időre vonatkozó adatoknak a beérkezéséig nem bírálható el,
 
-e)[^209] az árva 25 évesnél idősebb, de 27 évesnél fiatalabb, és felsőoktatási intézményben nappali képzésben tanulmányokat folytat, vagy
+e)[^210] az árva 25 évesnél idősebb, de 27 évesnél fiatalabb, és felsőoktatási intézményben nappali képzésben tanulmányokat folytat, vagy
 
-f)[^210] az elhunyt jogszerző nem szerezte meg a szükséges szolgálati időt, az árva alapvető szükségleteinek a biztosítása veszélyeztetve van, és a baleseti árvaellátásra való jogosultság a baleset üzemiségének, illetve a megbetegedés foglalkoztatási jellegének megállapításáig nem bírálható el.
+f)[^211] az elhunyt jogszerző nem szerezte meg a szükséges szolgálati időt, az árva alapvető szükségleteinek a biztosítása veszélyeztetve van, és a baleseti árvaellátásra való jogosultság a baleset üzemiségének, illetve a megbetegedés foglalkoztatási jellegének megállapításáig nem bírálható el.
 
-(5a)[^211] Az (5) bekezdés c) pontja alapján megállapított kivételes árvaellátást meg kell szüntetni, ha az árva már nem megváltozott munkaképességű.
+(5a)[^212] Az (5) bekezdés c) pontja alapján megállapított kivételes árvaellátást meg kell szüntetni, ha az árva már nem megváltozott munkaképességű.
 
-(6)[^212] Ha az (5) bekezdés d) és f) pontja szerinti esetben az árvaellátást, baleseti árvaellátást megállapítják, a kivételes árvaellátás megszűnik, és annak folyósított összege előlegnek minősül.
+(6)[^213] Ha az (5) bekezdés d) és f) pontja szerinti esetben az árvaellátást, baleseti árvaellátást megállapítják, a kivételes árvaellátás megszűnik, és annak folyósított összege előlegnek minősül.
 
-(7)[^213] Az (5) bekezdés e) pontja alapján kivételes árvaellátás a felsőoktatási intézményben első nappali alap- és mester- vagy osztatlan képzésben folytatott, az oklevél megszerzésére irányuló tanulmányok idejére, a képzési és kimeneti követelményekben meghatározott képzési időt meg nem haladóan, legfeljebb az árva 27. életévének betöltéséig állapítható meg. Az e bekezdésben foglaltak szerint méltányosságból a 25. életévét betöltött személy korábban megállapított árvaellátásának meghosszabbítása is engedélyezhető.
+(7)[^214] Az (5) bekezdés e) pontja alapján kivételes árvaellátás a felsőoktatási intézményben első nappali alap- és mester- vagy osztatlan képzésben folytatott, az oklevél megszerzésére irányuló tanulmányok idejére, a képzési és kimeneti követelményekben meghatározott képzési időt meg nem haladóan, legfeljebb az árva 27. életévének betöltéséig állapítható meg. Az e bekezdésben foglaltak szerint méltányosságból a 25. életévét betöltött személy korábban megállapított árvaellátásának meghosszabbítása is engedélyezhető.
 
-(8)[^214] A kivételes nyugellátás engedélyezett összege nem haladhatja meg az 50 000 forintot, de nem lehet kevesebb 15 000 forintnál. Az engedélyezett összeg megállapításánál figyelemmel kell lenni a hiányzó szolgálati idő tartamára.
+(8)[^215] A kivételes nyugellátás engedélyezett összege nem haladhatja meg az 50 000 forintot, de nem lehet kevesebb 15 000 forintnál. Az engedélyezett összeg megállapításánál figyelemmel kell lenni a hiányzó szolgálati idő tartamára.
 
-(8a)[^215] A Központ a kivételes nyugellátást megállapító határozatát közli a nyugellátás ügyében egyébként illetékes nyugdíj-megállapító szervvel, amely a kivételes nyugellátás megállapítását követően ellátja a nyugdíj-megállapító szerv hatáskörébe tartozó feladatokat.
+(8a)[^216] A Központ a kivételes nyugellátást megállapító határozatát közli a nyugellátás ügyében egyébként illetékes nyugdíj-megállapító szervvel, amely a kivételes nyugellátás megállapítását követően ellátja a nyugdíj-megállapító szerv hatáskörébe tartozó feladatokat.
 
-(8b)[^216] A kivételes nyugellátást kérelemre meg kell szüntetni. A kivételes saját jogú nyugellátás mellett szerzett, a Tny. 2020. július 1-jét megelőzően hatályos 22/A. §-a szerinti növelést a kivételes nyugellátás megszüntetését követően is meg kell állapítani, illetve azt a 68. § szerint folyósítani kell, ha a jogosultnak később saját jogú nyugellátást – ide értve a kivételes nyugellátást is – állapítanak meg.
+(8b)[^217] A kivételes nyugellátást kérelemre meg kell szüntetni. A kivételes saját jogú nyugellátás mellett szerzett, a Tny. 2020. július 1-jét megelőzően hatályos 22/A. §-a szerinti növelést a kivételes nyugellátás megszüntetését követően is meg kell állapítani, illetve azt a 68. § szerint folyósítani kell, ha a jogosultnak később saját jogú nyugellátást – ide értve a kivételes nyugellátást is – állapítanak meg.
 
-(9)[^217] A Tny. 66. §-a alapján a nyugellátásban részesülő számára kivételes nyugellátás-emelés akkor állapítható meg, ha a folyósított nyugellátás és az Szt. 4. § (1) bekezdés i) pontjában megjelölt, számára esetlegesen folyósított rendszeres pénzellátás – ide nem értve az időskorúak járadékát – együttes havi összege nem haladja meg a 140 000 forintot.
+(9)[^218] A Tny. 66. §-a alapján a nyugellátásban részesülő számára kivételes nyugellátás-emelés akkor állapítható meg, ha a folyósított nyugellátás és az Szt. 4. § (1) bekezdés i) pontjában megjelölt, számára esetlegesen folyósított rendszeres pénzellátás – ide nem értve az időskorúak járadékát – együttes havi összege nem haladja meg a 140 000 forintot.
 
-(10)[^218] A kivételes nyugellátás-emelés engedélyezése esetén a mezőgazdasági szövetkezeti járadékot, a mezőgazdasági szakszövetkezeti járadékot és a mezőgazdasági szakszövetkezeti tagok növelt összegű járadékát akkor kell társadalombiztosítási nyugellátásnak tekinteni, ha az ellátásban részesülő személy az öregségi nyugdíjkorhatárt betöltötte.
+(10)[^219] A kivételes nyugellátás-emelés engedélyezése esetén a mezőgazdasági szövetkezeti járadékot, a mezőgazdasági szakszövetkezeti járadékot és a mezőgazdasági szakszövetkezeti tagok növelt összegű járadékát akkor kell társadalombiztosítási nyugellátásnak tekinteni, ha az ellátásban részesülő személy az öregségi nyugdíjkorhatárt betöltötte.
 
-(11)[^219] A kivételes nyugellátás-emelés engedélyezésénél előnyben kell részesíteni
+(11)[^220] A kivételes nyugellátás-emelés engedélyezésénél előnyben kell részesíteni
 
-a)[^220] férfiak esetében a 35 évnél, nők esetében a 30 évnél több szolgálati idővel rendelkező személyt,
+a)[^221] férfiak esetében a 35 évnél, nők esetében a 30 évnél több szolgálati idővel rendelkező személyt,
 
-b)[^221] a 70 éven felüli személyt,
+b)[^222] a 70 éven felüli személyt,
 
-c)[^222] azt a kérelmezőt, aki saját háztartásában vér szerinti vagy örökbe fogadott gyermeket nevelt, és
+c)[^223] azt a kérelmezőt, aki saját háztartásában vér szerinti vagy örökbe fogadott gyermeket nevelt, és
 
-d)[^223] azt a személyt, aki kivételes nyugellátás-emelésben korábban nem részesült.
+d)[^224] azt a személyt, aki kivételes nyugellátás-emelésben korábban nem részesült.
 
-(12)[^224] A kivételes nyugellátás-emelés összege nem haladhatja meg a 8 000 forintot, de nem lehet kevesebb 3 000 forintnál.
+(12)[^225] A kivételes nyugellátás-emelés összege nem haladhatja meg a 8 000 forintot, de nem lehet kevesebb 3 000 forintnál.
 
-(13)[^225] Nem engedélyezhető kivételes nyugellátás-emelés a nyugellátás megállapítását, továbbá a korábbi kivételes nyugellátás-emelést követő 3 éven belül.
+(13)[^226] Nem engedélyezhető kivételes nyugellátás-emelés a nyugellátás megállapítását, továbbá a korábbi kivételes nyugellátás-emelést követő 3 éven belül.
 
-(14)[^226] Ha a hozzátartozói nyugellátást a mérték változása, feléledés vagy a jogosultsági feltételek ismételt bekövetkezése miatt újra megállapítják, a korábban engedélyezett kivételes nyugellátás-emelést továbbra is folyósítani kell.
+(14)[^227] Ha a hozzátartozói nyugellátást a mérték változása, feléledés vagy a jogosultsági feltételek ismételt bekövetkezése miatt újra megállapítják, a korábban engedélyezett kivételes nyugellátás-emelést továbbra is folyósítani kell.
 
-(15)[^227] A nyugellátásban részesülő személy részére egyszeri segély akkor állapítható meg, ha a kérelmező olyan élethelyzetbe kerül, amely létfenntartását veszélyezteti.
+(15)[^228] A nyugellátásban részesülő személy részére egyszeri segély akkor állapítható meg, ha a kérelmező olyan élethelyzetbe kerül, amely létfenntartását veszélyezteti.
 
-(16)[^228] Előnyben kell részesíteni a kérelmezőt, ha az egyszeri segélyt katasztrófa, elemi csapás, közeli hozzátartozó halála, illetve a kérelmező vagy közeli hozzátartozójának betegsége miatt igényli. A kérelem elbírálásánál figyelembe kell venni a kérelmezővel közös háztartásban élő, jövedelemmel nem rendelkező eltartottak számát is.
+(16)[^229] Előnyben kell részesíteni a kérelmezőt, ha az egyszeri segélyt katasztrófa, elemi csapás, közeli hozzátartozó halála, illetve a kérelmező vagy közeli hozzátartozójának betegsége miatt igényli. A kérelem elbírálásánál figyelembe kell venni a kérelmezővel közös háztartásban élő, jövedelemmel nem rendelkező eltartottak számát is.
 
-(17)[^229] Az egyszeri segély akkor engedélyezhető, ha a kérelmező Szt. 4. § (1) bekezdés a) pontja szerinti havi jövedelme nem haladja meg
+(17)[^230] Az egyszeri segély akkor engedélyezhető, ha a kérelmező Szt. 4. § (1) bekezdés a) pontja szerinti havi jövedelme nem haladja meg
 
-a)[^230] a 100 000 forintot, ha a kérelmező közeli hozzátartozójával közös háztartásban él,
+a)[^231] a 100 000 forintot, ha a kérelmező közeli hozzátartozójával közös háztartásban él,
 
-b)[^231] a 120 000 forintot az a) pontban nem említett esetben.
+b)[^232] a 120 000 forintot az a) pontban nem említett esetben.
 
-(18)[^232] Az egyszeri segélyt kérelmező személynek a kérelmében – az (1b) bekezdésben meghatározottakon túl – nyilatkoznia kell az Szt. 4. § (1) bekezdésének a) pontja szerinti havi jövedelméről is.
+(18)[^233] Az egyszeri segélyt kérelmező személynek a kérelmében – az (1b) bekezdésben meghatározottakon túl – nyilatkoznia kell az Szt. 4. § (1) bekezdésének a) pontja szerinti havi jövedelméről is.
 
-(19)[^233] A kérelmező számára egyszeri segély évente csak egy alkalommal állapítható meg. Az egyszeri segély összege nem lehet kevesebb 15 000 forintnál, de nem haladhatja meg az 50 000 forintot.
+(19)[^234] A kérelmező számára egyszeri segély évente csak egy alkalommal állapítható meg. Az egyszeri segély összege nem lehet kevesebb 15 000 forintnál, de nem haladhatja meg az 50 000 forintot.
 
-(20)[^234] A Központ rendkívül indokolt esetben
+(20)[^235] A Központ rendkívül indokolt esetben
 
-a)[^235] a (9) és (13) bekezdésekben meghatározott feltételek hiányában is engedélyezheti a nyugellátás méltányosságból történő emelését azzal, hogy nem engedélyezhető emelés, ha a nyugellátás és a (9) bekezdés szerinti rendszeres pénzellátás havi összege meghaladja a 150 000 forintot,
+a)[^236] a (9) és (13) bekezdésekben meghatározott feltételek hiányában is engedélyezheti a nyugellátás méltányosságból történő emelését azzal, hogy nem engedélyezhető emelés, ha a nyugellátás és a (9) bekezdés szerinti rendszeres pénzellátás havi összege meghaladja a 150 000 forintot,
 
-b)[^236] a (17) bekezdésben meghatározott feltétel hiányában, illetőleg a (19) bekezdésben foglaltaktól eltérően is engedélyezheti egyszeri segély méltányosságból történő kifizetését azzal, hogy az engedélyezett segély összege nem haladhatja meg a 100 000 forintot,
+b)[^237] a (17) bekezdésben meghatározott feltétel hiányában, illetőleg a (19) bekezdésben foglaltaktól eltérően is engedélyezheti egyszeri segély méltányosságból történő kifizetését azzal, hogy az engedélyezett segély összege nem haladhatja meg a 100 000 forintot,
 
-c)[^237] a (7) bekezdésben meghatározott feltételek hiányában is engedélyezheti a folyósított árvaellátás méltányosságból történő meghosszabbítását.
+c)[^238] a (7) bekezdésben meghatározott feltételek hiányában is engedélyezheti a folyósított árvaellátás méltányosságból történő meghosszabbítását.
 
-[^190]: A 72/B. §-t a 229/2000. (XII. 23.) Korm. rendelet 12. §-a iktatta a szövegbe.
-[^191]: A 72/B. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 25. § (3) bekezdésével megállapított szöveg.
-[^192]: A 72/B. § (1a) bekezdését a 354/2010. (XII. 30.) Korm. rendelet 9. § (1) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 25. § (3) bekezdésével megállapított, a 311/2017. (X. 31.) Korm. rendelet 4. § a) pontja, a 239/2022. (VI. 30.) Korm. rendelet 1. §-a szerint módosított szöveg.
-[^193]: A 72/B. § (1b) bekezdését a 354/2010. (XII. 30.) Korm. rendelet 9. § (1) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 25. § (3) bekezdésével megállapított szöveg.
-[^194]: A 72/B. § (1c) bekezdését a 354/2010. (XII. 30.) Korm. rendelet 9. § (1) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 25. § (3) bekezdésével megállapított szöveg.
-[^195]: A 72/B. § (1d) bekezdését a 354/2010. (XII. 30.) Korm. rendelet 9. § (1) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 43. § (6) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^196]: A 72/B. § (1e) bekezdését a 354/2010. (XII. 30.) Korm. rendelet 9. § (1) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 25. § (3) bekezdésével megállapított, a 360/2019. (XII. 30.) Korm. rendelet 11. § (2) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
-[^197]: A 72/B. § (1f) bekezdését a 354/2010. (XII. 30.) Korm. rendelet 9. § (1) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 25. § (3) bekezdésével megállapított, a 360/2019. (XII. 30.) Korm. rendelet 11. § (2) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
-[^198]: A 72/B. § (1g) bekezdését a 354/2010. (XII. 30.) Korm. rendelet 9. § (1) bekezdése iktatta be, hatályon kívül helyezte a 379/2016. (XII. 2.) Korm. rendelet 25. § (10) bekezdés b) pontja.
-[^199]: A 72/B. § (2) bekezdése a 377/2004. (XII. 28.) Korm. rendelet 8. §-ának (1) bekezdésével megállapított, a 292/2005. (XII. 23.) Korm. rendelet 10. § (4) bekezdésének f) pontja, a 354/2010. (XII. 30.) Korm. rendelet 16. § e) pontja, a 353/2014. (XII. 29.) Korm. rendelet 26. § h) pontja, a 352/2023. (VII. 27.) Korm. rendelet 8. § f) pontja szerint módosított szöveg.
-[^200]: A 72/B. § (3) bekezdésének első és második mondatát a 145/2002. (VI. 29.) Korm. rendelet 2. §-ának (2) bekezdése hatályon kívül helyezte.
-[^201]: A 72/B. § (4) bekezdése a 377/2004. (XII. 28.) Korm. rendelet 8. §-ának (2) bekezdésével megállapított szöveg, e módosító rendelet 18. §-ának (2) bekezdése alapján rendelkezéseit a 2004. december 31-ét követő időponttól megállapításra (megszüntetésre) kerülő ellátásokra, követelésekre, valamint az említett időpontot követő adatszolgáltatásra kell alkalmazni.
-[^202]: A 72/B. § (4) bekezdés a) pontja a 333/2011. (XII. 29.) Korm. rendelet 29. § p) pontja szerint módosított szöveg.
-[^203]: A 72/B. § (4) bekezdés b) pontja a 333/2011. (XII. 29.) Korm. rendelet 28. § f) pontja szerint módosított szöveg.
-[^204]: A 72/B. § (4) bekezdés c) pontját a 354/2010. (XII. 30.) Korm. rendelet 9. § (2) bekezdése iktatta be, hatályon kívül helyezte a 333/2011. (XII. 29.) Korm. rendelet 29. § q) pontja.
-[^205]: A 72/B. § új (5) bekezdését a 269/2001. (XII. 21.) Korm. rendelet 9. §-a iktatta a szövegbe, egyidejűleg az eredeti (5) bekezdés számozását (6) bekezdésre változtatva. A 72/B. § (5) bekezdését a 333/2011. (XII. 29.) Korm. rendelet 29. § r) pontja hatályon kívül helyezte, újonnan az 500/2013. (XII. 29.) Korm. rendelet 4. § (1) bekezdése iktatta be.
-[^206]: A 72/B. § (5) bekezdés b) pontja a 353/2014. (XII. 29.) Korm. rendelet 26. § i) pontja szerint módosított szöveg.
-[^207]: A 72/B. § (5) bekezdés c) pontja a 449/2016. (XII. 19.) Korm. rendelet 10. § b) pontja, a 322/2018. (XII. 28.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
-[^208]: A 72/B. § (5) bekezdés d) pontja a 322/2018. (XII. 28.) Korm. rendelet 4. § e) pontja, a 352/2023. (VII. 27.) Korm. rendelet 7. § h) pontja szerint módosított szöveg.
-[^209]: A 72/B. § (5) bekezdés e) pontját a 322/2018. (XII. 28.) Korm. rendelet 3. § (1) bekezdése iktatta be, szövege a 352/2023. (VII. 27.) Korm. rendelet 7. § i) pontja szerint módosított szöveg.
-[^210]: A 72/B. § (5) bekezdés f) pontját a 352/2023. (VII. 27.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^211]: A 72/B. § (5a) bekezdését az 500/2013. (XII. 29.) Korm. rendelet 4. § (1) bekezdése iktatta be.
-[^212]: A 72/B. § eredeti (5) – a 269/2001. (XII. 21.) Korm. rendelet 9. §-ával (6) bekezdésre átszámozott – bekezdését a 75/2001. (V. 9.) Korm. rendelet 1. §-a iktatta be, szövege a 352/2023. (VII. 27.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^213]: A 72/B. § eredeti (6) bekezdését – a 269/2001. (XII. 21.) Korm. rendelet 9. §-ával (7) bekezdésre átszámozott – a 75/2001. (V. 9.) Korm. rendelet 1. §-a iktatta be, szövege a 322/2018. (XII. 28.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^214]: A 72/B. § eredeti (7) bekezdését – a 269/2001. (XII. 21.) Korm. rendelet 9. §-ával (8) bekezdésre átszámozott – a 75/2001. (V. 9.) Korm. rendelet 1. §-a iktatta a szövegbe, szövege az 506/2022. (XII. 13.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
-[^215]: A 72/B. § (8a) bekezdését a 354/2010. (XII. 30.) Korm. rendelet 9. § (3) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 25. § (9) bekezdés c) pontja szerint módosított szöveg.
-[^216]: A 72/B. § (8b) bekezdését a 354/2010. (XII. 30.) Korm. rendelet 9. § (3) bekezdése iktatta be, szövege a 449/2016. (XII. 19.) Korm. rendelet 10. § c) pontja, a 707/2020. (XII. 30.) Korm. rendelet 5. § f) pontja szerint módosított szöveg.
-[^217]: A 72/B. § eredeti (8) bekezdését – a 269/2001. (XII. 21.) Korm. rendelet 9. §-ával (9) bekezdésre átszámozott – a 75/2001. (V. 9.) Korm. rendelet 1. §-a iktatta be, szövege a 707/2020. (XII. 30.) Korm. rendelet 4. § (1) bekezdésével megállapított, az 506/2022. (XII. 13.) Korm. rendelet 10. § b) pontja, a 464/2024. (XII. 30.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
-[^218]: A 72/B. § eredeti (9) bekezdését - a 269/2001. (XII. 21.) Korm. rendelet 9. §-ával (10) bekezdésre átszámozott - a 72/2001. (V. 9.) Korm. rendelet 1. §-a iktatta be, szövege a 327/2006. (XII. 23.) Korm. rendelet 4. §-ával megállapított, a 172/2009. (VIII. 29.) Korm. rendelet 13. § (4) bekezdés a) pont ab) alpontja, a 354/2010. (XII. 30.) Korm. rendelet 16. § e) pontja, a 333/2011. (XII. 29.) Korm. rendelet 29. § s) pontja, a 449/2016. (XII. 19.) Korm. rendelet 10. § d) pontja szerint módosított szöveg.
-[^219]: A 72/B. § (11) bekezdését a 145/2002. (VI. 29.) Korm. rendelet 1. § (3) bekezdése iktatta be, nyitó szövegrésze a 354/2010. (XII. 30.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.
-[^220]: A 72/B. § (11) bekezdés a) pontja a 465/2016. (XII. 23.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
-[^221]: A 72/B. § (11) bekezdés b) pontja a 465/2016. (XII. 23.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
-[^222]: A 72/B. § (11) bekezdés c) pontját a 333/2011. (XII. 29.) 29. § t) pontja hatályon kívül helyezte, újonnan a 465/2016. (XII. 23.) Korm. rendelet 1. §-a iktatta be.
-[^223]: A 72/B. § (11) bekezdésének d) pontját a 13/2003. (II. 12.) Korm. rendelet 14. §-ának (2) bekezdése iktatta a szövegbe, e módosító rendelet 30. §-ának (3) bekezdése alapján rendelkezéseit a 2003. február 15. napjától megállapításra (megszüntetésre) kerülő ellátásokra, illetőleg követelésekre, valamint az említett időpontot követően esedékes adatszolgáltatásra kell alkalmazni.
-[^224]: A 72/B. § (12) bekezdését a 145/2002. (VI. 29.) Korm. rendelet 1. §-ának (3) bekezdése iktatta be, szövege az 506/2022. (XII. 13.) Korm. rendelet 10. § c) pontja szerint módosított szöveg.
-[^225]: A 72/B. § (13) bekezdését a 145/2002. (VI. 29.) Korm. rendelet 1. §-ának (3) bekezdése iktatta be, szövege a 248/2003. (XII. 23.) Korm. rendelet 15. §-ának (2) bekezdésével megállapított, a 292/2005. (XII. 23.) Korm. rendelet 10. § (4) bekezdésének h) pontja, a 354/2010. (XII. 30.) Korm. rendelet 16. § h) pontja szerint módosított szöveg.
-[^226]: A 72/B. § (14) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 45. § b) pontja hatályon kívül helyezte, újonnan a 352/2023. (VII. 27.) Korm. rendelet 3. § (3) bekezdése iktatta be.
-[^227]: A 72/B. § (15) bekezdését a 13/2003. (II. 12.) Korm. rendelet 14. § (3) bekezdése iktatta be, szövege a 292/2005. (XII. 23.) Korm. rendelet 4. § (2) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 25. § (9) bekezdés d) pontja szerint módosított szöveg.
-[^228]: A 72/B. § (16) bekezdését a 292/2005. (XII. 23.) Korm. rendelet 4. § (3) bekezdése iktatta be. E módosító rendelet 10. § (2) bekezdése alapján a rendelkezést a 2005. december 31-ét követő időponttól megállapításra kerülő ellátásokra, követelésekre, valamint az említett időpontot követő adatszolgáltatásra kell alkalmazni.
-[^229]: A 72/B. § (17) bekezdését a 292/2005. (XII. 23.) Korm. rendelet 4. § (3) bekezdése iktatta be, szövege a 707/2020. (XII. 30.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^230]: A 72/B. § (17) bekezdés a) pontja az 506/2022. (XII. 13.) Korm. rendelet 10. § d) pontja szerint módosított szöveg.
-[^231]: A 72/B. § (17) bekezdés b) pontja az 506/2022. (XII. 13.) Korm. rendelet 10. § e) pontja szerint módosított szöveg.
-[^232]: A 72/B. § (18) bekezdését a 292/2005. (XII. 23.) Korm. rendelet 4. § (3) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 25. § (9) bekezdés e) pontja szerint módosított szöveg.
-[^233]: A 72/B. § (19) bekezdését a 292/2005. (XII. 23.) Korm. rendelet 4. § (3) bekezdése iktatta be, szövege az 506/2022. (XII. 13.) Korm. rendelet 10. § f) pontja szerint módosított szöveg.
-[^234]: A 72/B. § (20) bekezdését a 292/2005. (XII. 23.) Korm. rendelet 4. § (3) bekezdése iktatta be, szövege a 164/2009. (VIII. 14.) Korm. rendelet 4. § (2) bekezdésével megállapított, nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 25. § (9) bekezdés c) pontja szerint módosított szöveg.
-[^235]: A 72/B. § (20) bekezdés a) pontja a 707/2020. (XII. 30.) Korm. rendelet 4. § (3) bekezdésével megállapított, a 464/2024. (XII. 30.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
-[^236]: A 72/B. § (20) bekezdés b) pontja az 506/2022. (XII. 13.) Korm. rendelet 10. § h) pontja szerint módosított szöveg.
-[^237]: A 72/B. § (20) bekezdés c) pontját a 322/2018. (XII. 28.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^191]: A 72/B. §-t a 229/2000. (XII. 23.) Korm. rendelet 12. §-a iktatta a szövegbe.
+[^192]: A 72/B. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 25. § (3) bekezdésével megállapított szöveg.
+[^193]: A 72/B. § (1a) bekezdését a 354/2010. (XII. 30.) Korm. rendelet 9. § (1) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 25. § (3) bekezdésével megállapított, a 311/2017. (X. 31.) Korm. rendelet 4. § a) pontja, a 239/2022. (VI. 30.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^194]: A 72/B. § (1b) bekezdését a 354/2010. (XII. 30.) Korm. rendelet 9. § (1) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 25. § (3) bekezdésével megállapított szöveg.
+[^195]: A 72/B. § (1c) bekezdését a 354/2010. (XII. 30.) Korm. rendelet 9. § (1) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 25. § (3) bekezdésével megállapított szöveg.
+[^196]: A 72/B. § (1d) bekezdését a 354/2010. (XII. 30.) Korm. rendelet 9. § (1) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 43. § (6) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^197]: A 72/B. § (1e) bekezdését a 354/2010. (XII. 30.) Korm. rendelet 9. § (1) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 25. § (3) bekezdésével megállapított, a 360/2019. (XII. 30.) Korm. rendelet 11. § (2) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^198]: A 72/B. § (1f) bekezdését a 354/2010. (XII. 30.) Korm. rendelet 9. § (1) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 25. § (3) bekezdésével megállapított, a 360/2019. (XII. 30.) Korm. rendelet 11. § (2) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^199]: A 72/B. § (1g) bekezdését a 354/2010. (XII. 30.) Korm. rendelet 9. § (1) bekezdése iktatta be, hatályon kívül helyezte a 379/2016. (XII. 2.) Korm. rendelet 25. § (10) bekezdés b) pontja.
+[^200]: A 72/B. § (2) bekezdése a 377/2004. (XII. 28.) Korm. rendelet 8. §-ának (1) bekezdésével megállapított, a 292/2005. (XII. 23.) Korm. rendelet 10. § (4) bekezdésének f) pontja, a 354/2010. (XII. 30.) Korm. rendelet 16. § e) pontja, a 353/2014. (XII. 29.) Korm. rendelet 26. § h) pontja, a 352/2023. (VII. 27.) Korm. rendelet 8. § f) pontja szerint módosított szöveg.
+[^201]: A 72/B. § (3) bekezdésének első és második mondatát a 145/2002. (VI. 29.) Korm. rendelet 2. §-ának (2) bekezdése hatályon kívül helyezte.
+[^202]: A 72/B. § (4) bekezdése a 377/2004. (XII. 28.) Korm. rendelet 8. §-ának (2) bekezdésével megállapított szöveg, e módosító rendelet 18. §-ának (2) bekezdése alapján rendelkezéseit a 2004. december 31-ét követő időponttól megállapításra (megszüntetésre) kerülő ellátásokra, követelésekre, valamint az említett időpontot követő adatszolgáltatásra kell alkalmazni.
+[^203]: A 72/B. § (4) bekezdés a) pontja a 333/2011. (XII. 29.) Korm. rendelet 29. § p) pontja szerint módosított szöveg.
+[^204]: A 72/B. § (4) bekezdés b) pontja a 333/2011. (XII. 29.) Korm. rendelet 28. § f) pontja szerint módosított szöveg.
+[^205]: A 72/B. § (4) bekezdés c) pontját a 354/2010. (XII. 30.) Korm. rendelet 9. § (2) bekezdése iktatta be, hatályon kívül helyezte a 333/2011. (XII. 29.) Korm. rendelet 29. § q) pontja.
+[^206]: A 72/B. § új (5) bekezdését a 269/2001. (XII. 21.) Korm. rendelet 9. §-a iktatta a szövegbe, egyidejűleg az eredeti (5) bekezdés számozását (6) bekezdésre változtatva. A 72/B. § (5) bekezdését a 333/2011. (XII. 29.) Korm. rendelet 29. § r) pontja hatályon kívül helyezte, újonnan az 500/2013. (XII. 29.) Korm. rendelet 4. § (1) bekezdése iktatta be.
+[^207]: A 72/B. § (5) bekezdés b) pontja a 353/2014. (XII. 29.) Korm. rendelet 26. § i) pontja szerint módosított szöveg.
+[^208]: A 72/B. § (5) bekezdés c) pontja a 449/2016. (XII. 19.) Korm. rendelet 10. § b) pontja, a 322/2018. (XII. 28.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^209]: A 72/B. § (5) bekezdés d) pontja a 322/2018. (XII. 28.) Korm. rendelet 4. § e) pontja, a 352/2023. (VII. 27.) Korm. rendelet 7. § h) pontja szerint módosított szöveg.
+[^210]: A 72/B. § (5) bekezdés e) pontját a 322/2018. (XII. 28.) Korm. rendelet 3. § (1) bekezdése iktatta be, szövege a 352/2023. (VII. 27.) Korm. rendelet 7. § i) pontja szerint módosított szöveg.
+[^211]: A 72/B. § (5) bekezdés f) pontját a 352/2023. (VII. 27.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^212]: A 72/B. § (5a) bekezdését az 500/2013. (XII. 29.) Korm. rendelet 4. § (1) bekezdése iktatta be.
+[^213]: A 72/B. § eredeti (5) – a 269/2001. (XII. 21.) Korm. rendelet 9. §-ával (6) bekezdésre átszámozott – bekezdését a 75/2001. (V. 9.) Korm. rendelet 1. §-a iktatta be, szövege a 352/2023. (VII. 27.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^214]: A 72/B. § eredeti (6) bekezdését – a 269/2001. (XII. 21.) Korm. rendelet 9. §-ával (7) bekezdésre átszámozott – a 75/2001. (V. 9.) Korm. rendelet 1. §-a iktatta be, szövege a 322/2018. (XII. 28.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^215]: A 72/B. § eredeti (7) bekezdését – a 269/2001. (XII. 21.) Korm. rendelet 9. §-ával (8) bekezdésre átszámozott – a 75/2001. (V. 9.) Korm. rendelet 1. §-a iktatta a szövegbe, szövege az 506/2022. (XII. 13.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
+[^216]: A 72/B. § (8a) bekezdését a 354/2010. (XII. 30.) Korm. rendelet 9. § (3) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 25. § (9) bekezdés c) pontja szerint módosított szöveg.
+[^217]: A 72/B. § (8b) bekezdését a 354/2010. (XII. 30.) Korm. rendelet 9. § (3) bekezdése iktatta be, szövege a 449/2016. (XII. 19.) Korm. rendelet 10. § c) pontja, a 707/2020. (XII. 30.) Korm. rendelet 5. § f) pontja szerint módosított szöveg.
+[^218]: A 72/B. § eredeti (8) bekezdését – a 269/2001. (XII. 21.) Korm. rendelet 9. §-ával (9) bekezdésre átszámozott – a 75/2001. (V. 9.) Korm. rendelet 1. §-a iktatta be, szövege a 707/2020. (XII. 30.) Korm. rendelet 4. § (1) bekezdésével megállapított, az 506/2022. (XII. 13.) Korm. rendelet 10. § b) pontja, a 464/2024. (XII. 30.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
+[^219]: A 72/B. § eredeti (9) bekezdését - a 269/2001. (XII. 21.) Korm. rendelet 9. §-ával (10) bekezdésre átszámozott - a 72/2001. (V. 9.) Korm. rendelet 1. §-a iktatta be, szövege a 327/2006. (XII. 23.) Korm. rendelet 4. §-ával megállapított, a 172/2009. (VIII. 29.) Korm. rendelet 13. § (4) bekezdés a) pont ab) alpontja, a 354/2010. (XII. 30.) Korm. rendelet 16. § e) pontja, a 333/2011. (XII. 29.) Korm. rendelet 29. § s) pontja, a 449/2016. (XII. 19.) Korm. rendelet 10. § d) pontja szerint módosított szöveg.
+[^220]: A 72/B. § (11) bekezdését a 145/2002. (VI. 29.) Korm. rendelet 1. § (3) bekezdése iktatta be, nyitó szövegrésze a 354/2010. (XII. 30.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.
+[^221]: A 72/B. § (11) bekezdés a) pontja a 465/2016. (XII. 23.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^222]: A 72/B. § (11) bekezdés b) pontja a 465/2016. (XII. 23.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^223]: A 72/B. § (11) bekezdés c) pontját a 333/2011. (XII. 29.) 29. § t) pontja hatályon kívül helyezte, újonnan a 465/2016. (XII. 23.) Korm. rendelet 1. §-a iktatta be.
+[^224]: A 72/B. § (11) bekezdésének d) pontját a 13/2003. (II. 12.) Korm. rendelet 14. §-ának (2) bekezdése iktatta a szövegbe, e módosító rendelet 30. §-ának (3) bekezdése alapján rendelkezéseit a 2003. február 15. napjától megállapításra (megszüntetésre) kerülő ellátásokra, illetőleg követelésekre, valamint az említett időpontot követően esedékes adatszolgáltatásra kell alkalmazni.
+[^225]: A 72/B. § (12) bekezdését a 145/2002. (VI. 29.) Korm. rendelet 1. §-ának (3) bekezdése iktatta be, szövege az 506/2022. (XII. 13.) Korm. rendelet 10. § c) pontja szerint módosított szöveg.
+[^226]: A 72/B. § (13) bekezdését a 145/2002. (VI. 29.) Korm. rendelet 1. §-ának (3) bekezdése iktatta be, szövege a 248/2003. (XII. 23.) Korm. rendelet 15. §-ának (2) bekezdésével megállapított, a 292/2005. (XII. 23.) Korm. rendelet 10. § (4) bekezdésének h) pontja, a 354/2010. (XII. 30.) Korm. rendelet 16. § h) pontja szerint módosított szöveg.
+[^227]: A 72/B. § (14) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 45. § b) pontja hatályon kívül helyezte, újonnan a 352/2023. (VII. 27.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^228]: A 72/B. § (15) bekezdését a 13/2003. (II. 12.) Korm. rendelet 14. § (3) bekezdése iktatta be, szövege a 292/2005. (XII. 23.) Korm. rendelet 4. § (2) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 25. § (9) bekezdés d) pontja szerint módosított szöveg.
+[^229]: A 72/B. § (16) bekezdését a 292/2005. (XII. 23.) Korm. rendelet 4. § (3) bekezdése iktatta be. E módosító rendelet 10. § (2) bekezdése alapján a rendelkezést a 2005. december 31-ét követő időponttól megállapításra kerülő ellátásokra, követelésekre, valamint az említett időpontot követő adatszolgáltatásra kell alkalmazni.
+[^230]: A 72/B. § (17) bekezdését a 292/2005. (XII. 23.) Korm. rendelet 4. § (3) bekezdése iktatta be, szövege a 707/2020. (XII. 30.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^231]: A 72/B. § (17) bekezdés a) pontja az 506/2022. (XII. 13.) Korm. rendelet 10. § d) pontja szerint módosított szöveg.
+[^232]: A 72/B. § (17) bekezdés b) pontja az 506/2022. (XII. 13.) Korm. rendelet 10. § e) pontja szerint módosított szöveg.
+[^233]: A 72/B. § (18) bekezdését a 292/2005. (XII. 23.) Korm. rendelet 4. § (3) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 25. § (9) bekezdés e) pontja szerint módosított szöveg.
+[^234]: A 72/B. § (19) bekezdését a 292/2005. (XII. 23.) Korm. rendelet 4. § (3) bekezdése iktatta be, szövege az 506/2022. (XII. 13.) Korm. rendelet 10. § f) pontja szerint módosított szöveg.
+[^235]: A 72/B. § (20) bekezdését a 292/2005. (XII. 23.) Korm. rendelet 4. § (3) bekezdése iktatta be, szövege a 164/2009. (VIII. 14.) Korm. rendelet 4. § (2) bekezdésével megállapított, nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 25. § (9) bekezdés c) pontja szerint módosított szöveg.
+[^236]: A 72/B. § (20) bekezdés a) pontja a 707/2020. (XII. 30.) Korm. rendelet 4. § (3) bekezdésével megállapított, a 464/2024. (XII. 30.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
+[^237]: A 72/B. § (20) bekezdés b) pontja az 506/2022. (XII. 13.) Korm. rendelet 10. § h) pontja szerint módosított szöveg.
+[^238]: A 72/B. § (20) bekezdés c) pontját a 322/2018. (XII. 28.) Korm. rendelet 3. § (3) bekezdése iktatta be.

@@ -1,4 +1,4 @@
-7. számú melléklet a 168/1997. (X. 6.) Korm. rendelethez[^363]
+7. számú melléklet a 168/1997. (X. 6.) Korm. rendelethez[^364]
 
 A nyugellátásra jogosult halála esetén a nyugellátás felvétele iránti kérelem benyújtására szolgáló nyomtatvány és elektronikus űrlap adattartalma
 
@@ -12,4 +12,4 @@ A nyugellátásra jogosult halála esetén a nyugellátás felvétele iránti k�
 
 5. A kérelmező nyilatkozata arról, hogy annak halálakor az elhunyttal közös háztartásban élt.
 
-[^363]: A 7. számú mellékletet a 34/2013. (II. 14.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^364]: A 7. számú mellékletet a 34/2013. (II. 14.) Korm. rendelet 1. § (2) bekezdése iktatta be.
