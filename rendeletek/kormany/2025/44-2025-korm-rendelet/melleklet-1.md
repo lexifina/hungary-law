@@ -1,13 +1,3 @@
-1. melléklet a 44/2025. (III. 13.) Korm. rendelethez
+1. melléklet a 44/2025. (III. 13.) Korm. rendelethez[^5]
 
-A 256/2013. (VII. 5.) Korm. rendelet 2. mellékletében foglalt táblázat a következő 293. sorral egészül ki:
-
-|  | (A | B |
-
-| 1. | Egészségügyi szolgáltató neve | Település) |
-
-„
-
-| 293. | Mezőkovácsházi Humán Szolgáltató Központ | Mezőkovácsháza |
-
-”
+[^5]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

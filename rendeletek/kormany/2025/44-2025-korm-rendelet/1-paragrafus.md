@@ -10,6 +10,6 @@
 
 ## 1. A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény végrehajtásáról szóló 168/1997. (X. 6.) Korm. rendelet módosítása
 
-1. § A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény végrehajtásáról szóló 168/1997. (X. 6.) Korm. rendelet 61/A. §-a a következő (3) bekezdéssel egészül ki:
+1. §[^2]
 
-„(3) Együtt élő házastársként igényelt özvegyi nyugdíj esetén az együttélés tényét a nyugdíjbiztosítási igazgatási szerv csak abban az esetben vizsgálja, ha az elhunyt jogszerző után élettársként is igényeltek özvegyi nyugdíjat.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
