@@ -22,15 +22,9 @@
 
 | Határidő: | az e határozat közzétételét követő 90 napon belül |
 
-## 2. A Környezeti és Energiahatékonysági Operatív Program Plusz éves fejlesztési keretének megállapításáról szóló 1527/2023. (XII. 1.) Korm. határozat [a továbbiakban: 1527/2023. (XII. 1.) Korm. határozat] 1. mellékletében foglalt táblázat C:5 mezőjében az „54,56” szövegrész helyébe az „55,04” szöveg lép.
+## 2.[^1]
 
-## 3. Az 1527/2023. (XII. 1.) Korm. határozat 2. mellékletében foglalt táblázat
-
-## a) D:52 mezőjében a „0,91” szövegrész helyébe az „1,39” szöveg,
-
-## b) E:52 mezőjében a „0,11” szövegrész helyébe a „0,16” szöveg
-
-## lép.
+## 3.[^2]
 
 ## 4. Ez a határozat a közzétételét követő napon lép hatályba.
 
@@ -45,3 +39,6 @@
 | 3. | Megtérülő projektköltségre jutó központi költségvetési forrás összege(Ft) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés a) pontja alapján | Projekt le nem vonható, az EU felé el nem számolható ÁFA összege(Ft) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés b) pontja alapján | Az EU felé el nem számolható költségek összege(Ft) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés f) pontja alapján |  |  | Megtérülő projektköltségre jutó központi költségvetési forrás összege (Ft) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés a) pontja alapján | Projekt le nem vonható, az EU felé el nem számolható ÁFA összege (Ft) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés b) pontja alapján | Az EU felé el nem számolható költségek összege(Ft) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés f) pontja alapján | Az EU felé el nem számolható költségek összege(Ft) |  |  | Megtérülő projektköltségre jutó központi költségvetési forrás összege(Ft)az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés a) pontja alapján | Projekt le nem vonható, az EU felé el nem számolható ÁFA összege (Ft)az 590/2022. (XII. 28.) Korm. rendelet 9. §(1) bekezdés b) pontja alapján | Az EU felé el nem számolható költségek összege(Ft)az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés f) pontja alapján | Az EU felé el nem számolható költségek összege(Ft) |
 
 | 4. | KEHOP_PLUSZ-2.1.10-23-2024-00033 | Ceglédi szennyvíztisztító telep korszerűsítése, fejlesztése | Cegléd Város Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet, valamint a 362/2022. (IX. 19.) Korm. rendelet szerint | 89,937484 | 901 187 936 | 100 828 016 | 58 506 189 | – | – | 483 975 626 | 54 148 863 | 1 165 039 | – | 48 074 792 | 89,937484 | 1 385 163 562 | 154 976 879 | 59 671 228 | 367 953 246 | 48 074 792 | 2 015 839 706 | A beruházás keretében az érintett 2000 lakosegyenérték-terhelést meghaladó kibocsátású szennyvízelvezetési agglomeráció megfelelő szennyvízkezelésének feltételei teljesülnek, annak érdekében, hogy a szennyvízközművel való lefedettség megközelítse a közműves ivóvízzel ellátott fogyasztók csaknem 100%-át. A projekttel szembeni szakmai elvárás, hogy Magyarország megfeleljen az uniós jogi követelményeknek a kijelölt határidőig. A beruházás keretében korszerűsítik és fejlesztik Cegléd város szennyvíztisztító telepét. |
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
