@@ -2,6 +2,6 @@
 
 ## [2] A Kormány a Budapest–Belgrád vasútvonal újjáépítési beruházás magyarországi szakaszának fejlesztéséről, kivitelezéséről és finanszírozásáról szóló 2020. évi XXIX. törvény 11. § a) és b) pontjában kapott felhatalmazás alapján, valamint a magyar építészetről szóló 2023. évi C. törvény 225. § (2) bekezdés a) és d) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A Budapest–Kelebia határátkelő közti 150. számú vasútvonal fejlesztésével összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok, valamint a beruházás helyszínével, közvetlen környezetével érintett ingatlanok kijelöléséről szóló 102/2021. (III. 3.) Korm. rendelet (a továbbiakban: Korm. rendelet) 3. §-a a következő (2a) bekezdéssel egészül ki:
+1. §[^2]
 
-„(2a) A Beruházás megvalósítása érdekében a 150. számú vasútvonal vasúti funkciót ellátó területein – függetlenül annak a Budapest Agglomeráció Szerkezeti Tervében szereplő nyomvonalától – vasúti, valamint ehhez kapcsolódó építmények alakíthatóak ki.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
