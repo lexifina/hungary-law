@@ -1,3 +1,3 @@
-11. § A 256/2021. (V. 18.) Korm. rendelet 87. § (2) bekezdés e) pontja helyébe a következő rendelkezés lép:
+11. §[^12]
 
-(A felhívás elkészítése során figyelemmel kell lenni arra, hogy)
+[^12]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-31. § A 638/2023. (XII. 28.) Korm. rendelet 136. § (3) bekezdése a következő h) ponttal egészül ki:
+31. §[^32]
 
-(E rendelet)
+[^32]: A 31. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

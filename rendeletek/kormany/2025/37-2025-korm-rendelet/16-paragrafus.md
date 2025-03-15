@@ -1,3 +1,3 @@
-16. § A 256/2021. (V. 18.) Korm. rendelet 286. § (3) bekezdése helyébe a következő rendelkezés lép:
+16. §[^17]
 
-„(3) Ha az időközi kifizetési kérelem részben megfelelő, az irányító hatóság az e részre jutó támogatást jóváhagyja (a továbbiakban: jó tételezés).”
+[^17]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

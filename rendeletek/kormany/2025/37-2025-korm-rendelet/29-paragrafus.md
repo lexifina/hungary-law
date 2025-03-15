@@ -1,1 +1,3 @@
-29. § A 373/2022. (IX. 30.) Korm. rendelet 2. melléklete a 4. melléklet szerint módosul.
+29. §[^30]
+
+[^30]: A 29. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-25. § A 256/2021. (V. 18.) Korm. rendelet 3. melléklete a 3. melléklet szerint módosul.
+25. §[^26]
+
+[^26]: A 25. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-23. § A 256/2021. (V. 18.) Korm. rendelet 421. §-a a következő g) ponttal egészül ki:
+23. §[^24]
 
-(Nem kell kamatot fizetni)
+[^24]: A 23. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

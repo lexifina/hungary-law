@@ -1,1 +1,3 @@
-8. § Hatályát veszti a 272/2014. (XI. 5.) Korm. rendelet 1. melléklet 279.2. pontjában a „támogatási kérelemi” szövegrész.
+8. §[^9]
+
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
