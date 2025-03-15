@@ -1,7 +1,3 @@
-3. § Az R.
+3. §[^4]
 
-a) 1. §-ában a „2–3/B. §” szövegrész helyébe a „2–3/C. §” szöveg,
-
-b) 3/A. § (3) bekezdésében a „365. nap végéig” szövegrész helyébe a „három évig, a visszafizetési kötelezettség nemteljesítése esetén a követelés elévüléséig” szöveg
-
-lép.
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
