@@ -10,6 +10,7 @@
 
 (5) A kisplasztika bronzból készült, magassága 30 cm, Deák Ferenc mellképét ábrázolja. A kisplasztika Rabóczky Judit Rita szobrászművész alkotása.
 
-(6) A díjhoz 1 000 000 Ft összegű pénzjutalom jár. Posztumusz adományozás esetén a díj és a díjjal járó pénzjutalom átvételére a díjazott özvegye, leszármazója vagy a miniszter által megjelölt más hozzátartozója jogosult.
+(6)[^11] A díjhoz 3 000 000 Ft összegű pénzjutalom jár. Posztumusz adományozás esetén a díj és a díjjal járó pénzjutalom átvételére a díjazott özvegye, leszármazója vagy a miniszter által megjelölt más hozzátartozója jogosult.
 
 [^10]: A 10. § (3) bekezdése a 14/2021. (XI. 25.) IM rendelet 3. §-a szerint módosított szöveg.
+[^11]: A 10. § (6) bekezdése a 2/2025. (III. 14.) IM rendelet 1. § a) pontja szerint módosított szöveg.
