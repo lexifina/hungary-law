@@ -1,0 +1,3 @@
+27. § (1) Azon 2021. december 31-én már nyilvántartásba vett szálláshely esetében, amely az e rendelet hatálybalépésekor folyamatban lévő szálláshely-minősítési eljárásban az önértékelést befejezte, az első szálláshely-minősítési eljárás lefolytatásának határideje 2025. december 31.
+
+(2) E rendelet hatálybalépése előtt a szálláshely-minősítő szervezethez benyújtott szálláshely-minősítési eljárás iránti igények esetében a szálláshely-minősítő szervezet elektronikus felületén közzétett eljárásrend és minősítési követelményrendszer alkalmazandó. A szálláshely-minősítési eljárás iránti igény akkor minősül benyújtottnak, ha a szálláshely-szolgáltató a minősítő rendszerben az önértékelését befejezte.
