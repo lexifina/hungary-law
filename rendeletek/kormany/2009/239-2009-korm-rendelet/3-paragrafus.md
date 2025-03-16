@@ -2,7 +2,7 @@
 
 (2) A Kormány a szálláshely-szolgáltatási tevékenység tekintetében a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény (a továbbiakban: Szolgtv.) szerinti szolgáltatás felügyeletét ellátó hatóságként a jegyzőt jelöli ki.
 
-(3)[^12] A Kormány a Kertv. 6/D. § (6) bekezdése alapján a szálláshely-minősítési tevékenység ellátására a Magyar Turisztikai Minőségtanúsító Testület Nonprofit Korlátolt Felelősségű Társaságot (a továbbiakban: szálláshely-minősítő szervezet) jelöli ki.
+(3)[^12]
 
 [^11]: A 3. § (1) bekezdése a 345/2020. (VII. 14.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^12]: A 3. § (3) bekezdését az 501/2021. (VIII. 18.) Korm. rendelet 6. §-a iktatta be.
+[^12]: A 3. § (3) bekezdését az 501/2021. (VIII. 18.) Korm. rendelet 6. §-a iktatta be, a 41/2025. (III. 11.) Korm. rendelet 4. § a) pontja hatályon kívül helyezte.
