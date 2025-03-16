@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-2-20-06
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2025-03-15 | 2025-2-20-06.1 | 2/2025. (III. 14.) IM rendelet |
+| 2025-03-16 | 2025-2-20-06.2 | 2010. évi CXXX. törvény |
