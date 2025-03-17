@@ -1,11 +1,3 @@
-## „b) a szálláshely megfelel a bejelentésben foglalt szálláshely-üzemeltetési tevékenység e rendeletben foglalt feltételeinek.”
+4. §[^5]
 
-4. § Hatályát veszti a 239/2009. (X. 20.) Korm. rendelet
-
-a) 3. § (3) bekezdése,
-
-b) 4/A. §-a,
-
-c) 5. § (6)–(7) bekezdése,
-
-d) 21–21/B. §-a.
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

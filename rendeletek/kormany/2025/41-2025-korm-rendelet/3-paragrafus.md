@@ -1,3 +1,3 @@
-3. § A 239/2009. (X. 20.) Korm. rendelet 7/A. § (6) bekezdés b) pontja helyébe a következő rendelkezés lép:
+3. §[^4]
 
-[A (3) bekezdés szerinti hatósági ellenőrzés során a jegyző a (4) bekezdésben foglaltakon kívül kiemelten vizsgálja azt, hogy]
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
