@@ -4,10 +4,10 @@
 
 (3) A működési eredmény mértékét
 
-a)[^28] előzetesen, megalapozott előrejelzések alapján vagy
+a)[^29] előzetesen, megalapozott előrejelzések alapján vagy
 
 b) visszafizetési mechanizmus alkalmazásával utólag
 
 kell levonni az elszámolható költségekből.
 
-[^28]: A 14. § (3) bekezdés a) pontja az 1/2024. (I. 30.) TNM rendelet 8. §-ával megállapított szöveg.
+[^29]: A 14. § (3) bekezdés a) pontja az 1/2024. (I. 30.) TNM rendelet 8. §-ával megállapított szöveg.
