@@ -1,5 +1,3 @@
-## terjed ki.
-
 2. § (1)[^1] Az elektronikus hírközlő hálózatok azonosítóinak nemzeti felosztási tervéről és az azonosítógazdálkodás rendjéről szóló NMHH rendelet szabályai szerint lekötött és kijelölt azonosítók után az e rendeletben meghatározott lekötési és használati díjat kell fizetni.
 
 (2)[^2] Nem kell használati díjat fizetni:
