@@ -4,6 +4,6 @@
 
 ## [3] A közúti közlekedésről szóló 1988. évi I. törvény 48. § (3) bekezdés i) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 66. § (1) bekezdés 12. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § A megkülönböztető és figyelmeztető jelzést adó készülékek felszerelésének és használatának szabályairól szóló 12/2007. (III. 13.) IRM rendelet 8. § (2) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(2) A mozgatható üzemmódú (mobil), megkülönböztető fényjelzést adó készüléket, a gépjármű megkülönböztetett jellegének láthatósága céljából – a feladat végrehajtásához szükséges időtartamra – a megkülönböztető fényjelzés használata nélkül látható módon el lehet helyezni a gépjárművön. A mozgatható üzemmódú (mobil), megkülönböztető fényjelzést adó készüléket a feladat végrehajtásához kell a gépjárművön látható módon elhelyezni.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
