@@ -2,7 +2,7 @@
 
 3. § (1) Az internet-hozzáférési szolgáltatás esetén a szolgáltató a szolgáltatóváltást e rendelet szerint biztosítja.
 
-(2) A gépek közötti szolgáltatás számmezők (SHS = 71), az üzleti hálózati számmezők (SHS = 38), és a 14 kezdetű díjmentes szolgáltatás rövid számok esetében a szolgáltató lehetővé teszi a szolgáltatóváltást az elektronikus hírközlő hálózatok azonosítóinak nemzeti felosztási tervéről és az azonosítógazdálkodás rendjéről szóló NMHH rendeletben (a továbbiakban: ANFT rendelet) meghatározott azonosítóátadás hatósági eljárás keretében.
+(2)[^1] A gépek közötti szolgáltatás nyújtására használt átviteli szolgáltatás számmezők (SHS = 71), az üzleti hálózati számmezők (SHS = 38), és a 14 kezdetű díjmentes szolgáltatás rövid számok esetében a szolgáltató lehetővé teszi a szolgáltatóváltást az elektronikus hírközlő hálózatok azonosítóinak nemzeti felosztási tervéről és az azonosítógazdálkodás rendjéről szóló NMHH rendeletben (a továbbiakban: ANFT rendelet) meghatározott azonosítóátadás hatósági eljárás keretében.
 
 (3) Az ANFT rendeletben meghatározott földrajzi, mobil, díjmentes (SHS = 80), emelt díjas (SHS = 90, 91), valamint nomadikus (SHS = 21) belföldi számokon nyújtott számfüggő személyközi hírközlési szolgáltatás esetében a szolgáltatónak biztosítania kell a számhordozhatóságot.
 
@@ -23,3 +23,5 @@ a) ügyfélszolgálatán, ideértve a telefonos és – ha a szolgáltató ilyet
 b) valamennyi olyan kereskedelmi képviselőjénél, amely ügyfélszolgálati feladatokat is ellát.
 
 (10) A szolgáltatók a szolgáltatóváltás és a számhordozás megvalósítása érdekében együttműködnek.
+
+[^1]: A 3. § (2) bekezdése a 3/2025. (III. 11.) NMHH rendelet 7. §-a szerint módosított szöveg.

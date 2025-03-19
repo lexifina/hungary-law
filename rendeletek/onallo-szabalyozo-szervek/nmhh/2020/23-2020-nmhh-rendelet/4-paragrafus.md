@@ -34,7 +34,7 @@ c) ha a szolgáltatóváltás műszaki megvalósításához a szolgáltatóvált
 
 (11) A szolgáltatóváltási igény elfogadása esetén az átvevő szolgáltató a szolgáltatások teljes körű nyújtásának megkezdését követően haladéktalanul értesíti az átadó szolgáltatót a sikeres szolgáltatóváltásról.
 
-(12)[^1] Az átadó szolgáltató a szolgáltatásait – ha műszakilag lehetőség van az átadó és átvevő szolgáltató szolgáltatásainak egyidejű nyújtására – az átadó szolgáltató (11) bekezdés szerinti értesítéséig fenntartja. Ilyen lehetőség hiányában az átadó szolgáltató a szolgáltatását a szolgáltatóváltási megállapodásban rögzített napig fenntartja.
+(12)[^2] Az átadó szolgáltató a szolgáltatásait – ha műszakilag lehetőség van az átadó és átvevő szolgáltató szolgáltatásainak egyidejű nyújtására – az átadó szolgáltató (11) bekezdés szerinti értesítéséig fenntartja. Ilyen lehetőség hiányában az átadó szolgáltató a szolgáltatását a szolgáltatóváltási megállapodásban rögzített napig fenntartja.
 
 (13) A sikeresen végrehajtott szolgáltatóváltás időpontjában az átadó szolgáltatónál az előfizetői szerződés az átadott szolgáltatások vonatkozásában megszűnik.
 
@@ -44,4 +44,4 @@ c) ha a szolgáltatóváltás műszaki megvalósításához a szolgáltatóvált
 
 (16) Az átvevő szolgáltató jogosult az előfizető részére a (15) bekezdés szerint átvállalt tartozását kiszámlázni vagy annak kiegyenlítéséről, rendezéséről az előfizetővel egyéb módon megállapodni.
 
-[^1]: A 4. § (12) bekezdése a 6/2021. (VII. 8.) NMHH rendelet 12. §-a szerint módosított szöveg.
+[^2]: A 4. § (12) bekezdése a 6/2021. (VII. 8.) NMHH rendelet 12. §-a szerint módosított szöveg.

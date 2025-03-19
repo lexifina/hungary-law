@@ -1,5 +1,3 @@
-## terjed ki.
-
 ## 2. § E rendelet alkalmazásában
 
 1. átadó szolgáltató: az a szolgáltató, amelynek előfizetője a szolgáltatóváltási eljárásban az előfizetői szerződést a meglévő szolgáltatásokra megszünteti, vagy a számhordozási eljárásban az előfizetői szerződés megszüntetésével, vagy egyes számok esetében módosításával a számot egy másik szolgáltatóhoz átviszi;
