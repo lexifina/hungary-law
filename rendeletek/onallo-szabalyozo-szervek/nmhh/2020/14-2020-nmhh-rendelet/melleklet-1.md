@@ -1,4 +1,4 @@
-1. melléklet a 14/2020. (XII. 15.) NMHH rendelethez[^8]
+1. melléklet a 14/2020. (XII. 15.) NMHH rendelethez[^12]
 
 A számfüggő elektronikus hírközlési szolgáltatások számozási terve és az azonosítóival való gazdálkodás rendjére vonatkozó különös szabályok
 
@@ -262,7 +262,7 @@ Az SHS-ek és a szolgáltatások vagy hálózatok összerendelését az alábbi 
 
 | 9 | 70 | Mobil rádiótelefon szolgáltatás |
 
-| 10 | 71 | Gépek közötti szolgáltatás |
+| 10 | 71 | Gépek közötti szolgáltatás nyújtására használt átviteli szolgáltatás |
 
 | 11 | 80 | Díjmentes szolgáltatás |
 
@@ -330,23 +330,9 @@ abc defg = előfizetői szám 000 0000 – 999 9999 között.
 
 2.3.3. A mobil számozási tartományok felosztása
 
-Az SHS = 20, 30 és 70 számozási tartomány, valamint az SHS = 50 számozási tartomány 1. táblázatban meghatározott résztartományai a táblázatban felsorolt, versenyeztetési eljárásban rádióspektrum-használati jogosultságot szerzett mobil rádiótelefon szolgáltatókhoz vannak rendelve.
+## Az SHS = 20, 30 és 70 számozási tartomány, valamint az SHS = 50 számozási tartomány egyes résztartományai a hatóság internetes honlapján közzétett táblázatban felsorolt, versenyeztetési eljárásban rádióspektrum-használati jogosultságot szerzett mobil rádiótelefon szolgáltatókhoz vannak rendelve.
 
-Az SHS = 31 számozási tartomány nincsen mobil rádiótelefon szolgáltatóhoz rendelve.
-
-|  | A | B |
-
-| 1 | SZÁMOZÁSI TARTOMÁNY VAGY RÉSZTARTOMÁNY | SZOLGÁLTATÓ |
-
-| 2 | 20 abc defg | Yettel Magyarország Zrt. |
-
-| 3 | 30 abc defg | Magyar Telekom Nyrt. |
-
-| 4 | 50 1bc defg és 50 2bc defg | DIGI Kft. |
-
-| 5 | 50 9bc defg és 50 8bc defg | MVM NET Zrt. |
-
-| 6 | 70 abc defg | Vodafone Magyarország Zrt. |
+## Az SHS = 31 számozási tartomány nincsen mobil rádiótelefon szolgáltatóhoz rendelve.
 
 2.3.4. A használat feltételei
 
@@ -362,11 +348,11 @@ A mobilszámokat a hatóság 1000-es számmezőkben köti le, jelöli ki, adja �
 
 Mobil számmező köthető le és jelölhető ki azon szolgáltató számára, amelyet mobil rádiótelefon szolgáltatás vagy mobil internet-hozzáférési szolgáltatás nyújtására a hatóság az elektronikus hírközlési szolgáltatókról vezetett nyilvántartásába bejegyzett.
 
-A 2.3.3. pontban fel nem sorolt szolgáltatónak számmező abban az esetben köthető le és jelölhető ki, ha a kérelmező benyújtja legalább egy, a 2.3.3. pontban felsorolt és mobil rádiótelefon szolgáltatást nyújtó szolgáltató nyilatkozatát a szolgáltatás nyújtásához szükséges hálózati együttműködésről.
+A 2.3.3. pont szerinti táblázatban fel nem sorolt szolgáltatónak számmező abban az esetben köthető le és jelölhető ki, ha a kérelmező benyújtja legalább egy, a 2.3.3. pont szerinti táblázatban felsorolt és mobil rádiótelefon szolgáltatást nyújtó szolgáltató nyilatkozatát a szolgáltatás nyújtásához szükséges hálózati együttműködésről.
 
-A hatóság a 2.3.3. pontban felsorolt valamely mobil rádiótelefon szolgáltató részére az adott szolgáltatóhoz hozzárendelt számozási tartományhoz vagy résztartományhoz, továbbá az SHS = 31 számozási tartományhoz tartozó számmezőket köti le és jelöli ki.
+A hatóság a 2.3.3. pont szerinti táblázatban felsorolt valamely mobil rádiótelefon szolgáltató részére az adott szolgáltatóhoz hozzárendelt számozási tartományhoz vagy résztartományhoz, továbbá az SHS = 31 számozási tartományhoz tartozó számmezőket köti le és jelöli ki.
 
-A 2.3.3. pontban fel nem sorolt szolgáltató részére az SHS = 20, 30, 50 és 70 számozási tartományhoz tartozó számmező lekötéséhez és kijelöléséhez a tartományhoz vagy résztartományhoz hozzárendelt, és mobil rádiótelefon szolgáltatást nyújtó szolgáltatónak a számok használatára vonatkozó hozzájárulása is szükséges. Az SHS = 31 számozási tartományban a számok használatához hozzájárulás nem szükséges.
+A 2.3.3. pont szerinti táblázatban fel nem sorolt szolgáltató részére az SHS = 20, 30, 50 és 70 számozási tartományhoz tartozó számmező lekötéséhez és kijelöléséhez a tartományhoz vagy résztartományhoz hozzárendelt, és mobil rádiótelefon szolgáltatást nyújtó szolgáltatónak a számok használatára vonatkozó hozzájárulása is szükséges. Az SHS = 31 számozási tartományban a számok használatához hozzájárulás nem szükséges.
 
 Kijelölt számmezőre számmezőátadás és azonosítóátadás a 17. §-ban és a 20. § (2) bekezdésében foglalt esetekben akkor kerülhet sor, ha a fenti feltételek a számmezőátadás és azonosítóátadás után is teljesülnek.
 
@@ -436,7 +422,7 @@ A GSM-R rendszer üzleti hálózata részére fenntartott résztartományban sz�
 
 2.6.
 
-2.7. Gépek közötti szolgáltatás számai (ún. M2M számok) (SHS = 71)
+2.7. Gépek közötti szolgáltatás nyújtására használt átviteli szolgáltatás számai (ún. M2M számok) (SHS = 71)
 
 2.7.1. Leírás
 
@@ -448,7 +434,7 @@ Az elektronikus hírközlő hálózaton olyan kommunikációt tesz lehetővé a 
 
 71 0bc def ghij, ahol
 
-71 = a gépek közötti szolgáltatást jelölő SHS,
+71 = a gépek közötti szolgáltatás nyújtására használt átviteli szolgáltatást jelölő SHS,
 
 0bc def ghij = előfizetői szám 000 000 0000 – 099 999 9999 között
 
@@ -456,7 +442,7 @@ Az elektronikus hírközlő hálózaton olyan kommunikációt tesz lehetővé a 
 
 71 abc def ghij, ahol
 
-71 = a gépek közötti szolgáltatást jelölő SHS,
+71 = a gépek közötti szolgáltatás nyújtására használt átviteli szolgáltatást jelölő SHS,
 
 abc def ghij = előfizetői szám 200 000 0000 – 499 999 9999 között
 
@@ -474,7 +460,7 @@ A Magyarország területén kívül történő szolgáltatásnyújtásra vonatko
 
 2.7.5. A gazdálkodás rendje
 
-A hatóság egy adott M2M alkalmazás részére a számokat 1 000-es, 10 000-es és 100 000-es számmezőkben köti le, jelöli ki, adja át és vonja vissza, a következő felosztásban:
+A hatóság egy adott M2M alkalmazás nyújtásához a számokat 1 000-es, 10 000-es és 100 000-es számmezőkben köti le, jelöli ki, adja át és vonja vissza, a következő felosztásban:
 
 |  | A | B |
 
@@ -490,7 +476,7 @@ A hatóság egy adott M2M alkalmazás részére a számokat 1 000-es, 10 000-es 
 
 ## A szolgáltató kérelmében meghatározott alkalmazás nyújtásához az M2M számok kijelölhetőségét a hatóság állapítja meg. A hatóság a számmező kijelölési határozatában a kérelemben meghatározott alkalmazás jellegétől függő számhasználati feltételeket állapíthat meg.
 
-## A gépek közötti szolgáltatás céljára számmező azon szolgáltató számára jelölhető ki, amelyet elektronikus hírközlési szolgáltatás nyújtására a hatóság az elektronikus hírközlési szolgáltatókról vezetett nyilvántartásába bejegyzett.
+## A gépek közötti szolgáltatás nyújtására használt átviteli szolgáltatás céljára számmező azon szolgáltató számára jelölhető ki, amelyet gépek közötti szolgáltatás nyújtására használt átviteli szolgáltatás nyújtására a hatóság az elektronikus hírközlési szolgáltatókról vezetett nyilvántartásába bejegyzett.
 
 ## A kijelölési engedély jogosultja az adott számmező használatára egyetlen számhasználót, számhasználati jogviszony keretében jogosíthat fel.
 
@@ -926,4 +912,4 @@ A hívó fél által fizetendő díj mértékét (áfát is tartalmazó híváso
 
 A 19c formátumú telefonos kezelői szolgáltatás szám olyan szolgáltató számára jelölhető ki, amelyet helyhez kötött telefonszolgáltatás, vagy mobil rádiótelefon-szolgáltatás, vagy nomadikus telefonszolgáltatás nyújtására a hatóság az elektronikus hírközlési szolgáltatókról vezetett nyilvántartásába bejegyzett.
 
-[^8]: Az 1. melléklet 2.3.5. pontja a 27. § (3) bekezdése alapján 2025. december 31-én lép hatályba. Az 1. melléklet a 31. § (3) bekezdése, a 6/2021. (VII. 8.) NMHH rendelet 5. § 4. pontja és 6. §-a, a 2/2022. (IV. 19.) NMHH rendelet 2. §-a, a 8/2022. (X. 24.) NMHH rendelet 2. §-a szerint módosított szöveg.
+[^12]: Az 1. melléklet 2.3.5. pontja a 27. § (3) bekezdése alapján 2025. december 31-én lép hatályba. Az 1. melléklet a 31. § (3) bekezdése, a 6/2021. (VII. 8.) NMHH rendelet 5. § 4. pontja és 6. §-a, a 2/2022. (IV. 19.) NMHH rendelet 2. §-a, a 8/2022. (X. 24.) NMHH rendelet 2. §-a, a 3/2025. (III. 11.) NMHH rendelet 4. §-a és 5. § c) pontja szerint módosított szöveg.

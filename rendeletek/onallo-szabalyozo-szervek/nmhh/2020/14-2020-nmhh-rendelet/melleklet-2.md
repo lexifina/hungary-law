@@ -54,7 +54,7 @@ Az MNC tartományon belül elkülönül a tesztelési célra fenntartott mobil h
 
 Tesztelési célú mobil hálózati kód (a továbbiakban: teszt MNC) tartomány: 95–98.
 
-2.3. Az MNC gazdálkodás rendje
+2.3.[^13] Az MNC gazdálkodás rendje
 
 A mobil hálózati kódot (MNC) a hatóság jelöli ki, lekötés nem alkalmazható.
 
@@ -62,7 +62,7 @@ A mobil hálózati kód kijelölését és visszavonását a hatóság bejelenti
 
 Mobil hálózati kód jelölhető ki azon szolgáltatók számára, amelyeket a hatóság mobil rádiótelefon-szolgáltatás nyújtására az elektronikus hírközlési szolgáltatókról vezetett nyilvántartásba bejegyzett, valamint azon vállalkozás számára, amelyet a Kormány GSM-R rendszer működtetésére és a szolgáltatás nyújtására kijelölt.
 
-Mobil hálózati kód az 1. melléklet 2.3.3. pontjában fel nem sorolt szolgáltatónak abban az esetben jelölhető ki, ha a kérelmező benyújtja legalább egy, az 1. melléklet 2.3.3. pontjában felsorolt, és mobil rádiótelefon szolgáltatást nyújtó szolgáltató nyilatkozatát a szolgáltatás nyújtásához szükséges hálózati együttműködésről, ilyen nyilatkozat hiányában a mobil hálózati kód nem használható.
+Mobil hálózati kód az 1. melléklet 2.3.3. pont szerinti táblázatban fel nem sorolt szolgáltatónak abban az esetben jelölhető ki, ha a kérelmező benyújtja legalább egy, az 1. melléklet 2.3.3. pont szerinti táblázatban felsorolt, és mobil rádiótelefon szolgáltatást nyújtó szolgáltató nyilatkozatát a szolgáltatás nyújtásához szükséges hálózati együttműködésről, ilyen nyilatkozat hiányában a mobil hálózati kód nem használható.
 
 Egy szolgáltató részére indokolt esetben több MNC kód is kijelölhető.
 
@@ -87,3 +87,5 @@ A mobil előfizetői azonosító szám (Mobile Subscriber Identification Number)
 3.2. A gazdálkodás rendje
 
 A mobil előfizetői azonosító számot (MSIN) a mobil hálózati kód használatára jogosult szolgáltató jelöli ki.
+
+[^13]: A 2. melléklet 2.3. pontja a 3/2025. (III. 11.) NMHH rendelet 5. § d) pontja szerint módosított szöveg.

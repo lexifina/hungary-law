@@ -19,3 +19,7 @@ a) a 135, illetve 136 kezdőszámú számtartományokban a szolgáltató által 
 b) a 116, valamint a 137 kezdőszámú számtartományban a szolgáltató által a hívott szervezetek felé elszámolható legmagasabb hívásköltséget és
 
 c) az emelt díjas, díjkorlátos szolgáltatásra vonatkozó díjkorlátot, amely a szolgáltatás igénybevétele esetén az igénybevevő által fizetendő legmagasabb díj.
+
+(4)[^4] A hatóság az internetes honlapján közzéteszi az 1. melléklet 2.3.3. pontja szerint a mobil számozási tartományokhoz vagy résztartományokhoz rendelt szolgáltatók listáját.
+
+[^4]: A 23. § (4) bekezdését a 3/2025. (III. 11.) NMHH rendelet 2. §-a iktatta be.

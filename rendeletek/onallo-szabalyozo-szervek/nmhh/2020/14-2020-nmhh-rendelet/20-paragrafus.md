@@ -4,7 +4,7 @@
 
 (2) Azonosítóátadás olyan szolgáltatásátadás esetén kérhető, amelyet a hatóság a szolgáltatókról vezetett nyilvántartásába bejegyzett. Az azonosítóátadást az átvevő szolgáltató kezdeményezheti, legkésőbb a szolgáltatásátadás bejegyzését követő 30 napon belül.
 
-(3) Azonosítóátadás kérelmezhető az 1. melléklet 2.5. és 2.7. pontjában meghatározott üzleti hálózati és gépek közötti szolgáltatás számmezőre, valamint az 1. melléklet 3.8. pontjában meghatározott díjmentes rövid számra, ha a számhasználó az azonosító megtartásával szolgáltatót változtat. Az azonosítóátadást a számhasználó megbízása alapján az átvevő szolgáltató az átadó szolgáltató hozzájárulásával kérelmezheti a hatóságtól.
+(3)[^3] Azonosítóátadás kérelmezhető az 1. melléklet 2.5. és 2.7. pontjában meghatározott üzleti hálózati és gépek közötti szolgáltatás nyújtására használt átviteli szolgáltatás számmezőre, valamint az 1. melléklet 3.8. pontjában meghatározott díjmentes rövid számra, ha a számhasználó az azonosító megtartásával szolgáltatót változtat. Az azonosítóátadást a számhasználó megbízása alapján az átvevő szolgáltató az átadó szolgáltató hozzájárulásával kérelmezheti a hatóságtól.
 
 (4) Az azonosítóátadás iránti kérelemnek tartalmaznia kell:
 
@@ -35,3 +35,5 @@ e) az azonosítóátadás időpontját;
 f) az átadott azonosító kijelölési engedélyének időtartamát és
 
 g) a megszűnt díjfizetési kötelezettség mértékét és az átadott azonosító után fizetendő használati díj összegét.
+
+[^3]: A 20. § (3) bekezdése a 3/2025. (III. 11.) NMHH rendelet 5. § a) pontja szerint módosított szöveg.

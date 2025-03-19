@@ -1,14 +1,12 @@
-## 30. § Mobilszámon gépek közötti szolgáltatás a 2021. december 31-ig kiadott kijelölések esetében nyújtható.
+31. § (1)[^8]
 
-31. § (1)[^4]
+(2)[^9]
 
-(2)[^5]
+(3)[^10]
 
-(3)[^6]
+(4)[^11]
 
-(4)[^7]
-
-[^4]: A 31. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: A 31. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: A 31. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: A 31. § (4) bekezdése a 27. § (3) bekezdése alapján 2025. december 31-én lép hatályba.
+[^8]: A 31. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 31. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 31. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 31. § (4) bekezdése a 27. § (3) bekezdése alapján 2025. december 31-én lép hatályba.
