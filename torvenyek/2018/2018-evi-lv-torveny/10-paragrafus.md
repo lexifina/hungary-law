@@ -4,7 +4,7 @@
 
 ### 10. § [A közterületi gyűlés bejelentése]
 
-(1) Aki közterületen nyilvános gyűlést szervez, a gyűlést annak megtartását megelőzően legfeljebb három hónappal, és a felhívás előtt legalább 48 órával köteles bejelenteni az illetékes rendőrkapitányságnak – Budapesten a Budapesti Rendőr-főkapitányságnak – (a továbbiakban: gyülekezési hatóság).
+(1) Aki közterületen nyilvános gyűlést szervez, a gyűlést annak megtartását megelőzően legfeljebb egy hónappal, és a felhívás előtt legalább 48 órával köteles bejelenteni az illetékes rendőrkapitányságnak – Budapesten a Budapesti Rendőr-főkapitányságnak – (a továbbiakban: gyülekezési hatóság).
 
 (2) Egy gyűlést akkor is csak egyszer kell bejelenteni, ha azt többen szervezik. Ilyenkor a szervezők azt vagy közösen jelentik be, vagy a bejelentő a többi szervező képviseletében, meghatalmazottként jár el.
 
