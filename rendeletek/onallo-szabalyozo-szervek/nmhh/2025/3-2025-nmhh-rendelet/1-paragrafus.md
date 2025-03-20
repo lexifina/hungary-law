@@ -14,4 +14,6 @@
 
 ## 1. Az elektronikus hírközlési szolgáltatásokhoz szükséges azonosítók lekötésének és használatának díjáról szóló 5/2012. (I. 24.) NMHH rendelet módosítása
 
-1. § Az elektronikus hírközlési szolgáltatásokhoz szükséges azonosítók lekötésének és használatának díjáról szóló 5/2012. (I. 24.) NMHH rendelet (a továbbiakban: R.) 1. melléklete az 1. melléklet szerint módosul.
+1. §[^1]
+
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
