@@ -1,4 +1,4 @@
-1. melléklet a 41/2019. (XI. 19.) BM rendelethez[^4]
+1. melléklet a 41/2019. (XI. 19.) BM rendelethez[^5]
 
 A nem a Kormány irányítása vagy felügyelete alatt álló központi költségvetési szervek részére kizárólagos jog alapján nyújtott központosított infokommunikációs közszolgáltatások
 
@@ -52,7 +52,7 @@ A nem a Kormány irányítása vagy felügyelete alatt álló központi költsé
 
 | 4. | NISZ Zrt. | Alközponti szolgáltatás | hálózati szolgáltatás (üzemeltetés) | 2025. január 1. |
 
-| 5. | NISZ Zrt. | Mobil ellátási szolgáltatás | üzemeltetés és fejlesztés | 9. § (1) bekezdése szerint |
+| 5. |  |  |  |  |
 
 | 6. | NISZ Zrt. | Szakértői szolgáltatás | hálózati szolgáltatás (üzemeltetés) | 9. § (1) bekezdése szerint |
 
@@ -80,7 +80,7 @@ A nem a Kormány irányítása vagy felügyelete alatt álló központi költsé
 
 | 18. | IdomSoft Zrt. | Választási rendszerek minőségbiztosítása (a választási rendszerek alkalmazásüzemeltetési, alkalmazásüzemeltetés-támogatási és alkalmazásfejlesztési tevékenységeitől elkülönítve végezve) | szolgáltatás nyújtása | 9. § (1) bekezdése szerint |
 
-| 19. | IdomSoft Zrt. | Magyarországi lakcímmel nem rendelkező választópolgárok papíralapú levélben benyújtott névjegyzéki kérelmét kezelő Nemzeti Regisztrációs Rendszer fejlesztése és üzemeltetése | alkalmazásüzemeltetési, alkalmazásüzemeltetés- támogatási és alkalmazásfejlesztési szolgáltatás | 9. § (1) bekezdése szerint |
+| 19. |  |  |  |  |
 
 | 20. | IdomSoft Zrt. | Ajánlóívek szkennelése és ezekhez kapcsolódó szolgáltatások | alkalmazásüzemeltetési, alkalmazásüzemeltetés- támogatási és alkalmazásfejlesztési szolgáltatás | 9. § (1) bekezdése szerint |
 
@@ -95,6 +95,8 @@ A nem a Kormány irányítása vagy felügyelete alatt álló központi költsé
 | 25. | NISZ Zrt. | Fizikai szerver hoszting szolgáltatás | Üzemeltetés | A BM rendeletben történő kijelölés hatálybalépésétől |
 
 | 26. | NISZ Zrt. | Választási rendszer központi infrastruktúra üzemeltetési szolgáltatás | Üzemeltetés | A BM rendeletben történő kijelölés hatálybalépésétől |
+
+| 27. | IdomSoft Zrt. | Választási célú távoktatási rendszer alkalmazásüzemeltetés- támogatási és alkalmazásfejlesztési szolgáltatás | alkalmazásüzemeltetés- támogatási és alkalmazásfejlesztési szolgáltatás | 2025. január 1. napja |
 
 3. Az Alapvető Jogok Biztosa Hivatalának az alapvető jogok biztosáról szóló 2011. évi CXI. törvény 39/M. § (7) bekezdése szerinti szervezeti egységének nyújtott közszolgáltatások
 
@@ -420,4 +422,4 @@ A nem a Kormány irányítása vagy felügyelete alatt álló központi költsé
 
 | 28. | NISZ Zrt. | Iratérvényességi Nyilvántartás szolgáltatás | fejlesztés és üzemeltetés | 5/2024. (VI. 18.) MK rendelet hatálybalépésének napja |
 
-[^4]: Az 1. melléklet a 9/2021. (III. 30.) BM rendelet 2. §-a, a 12/2021. (V. 10.) BM rendelet 7. §-a, a 24/2021. (VII. 30.) BM rendelet 13. §-a, a 33/2021. (X. 1.) BM rendelet 2. §-a, a 7/2022. (IV. 14.) BM rendelet 2. §-a és 3. § b)–e) pontja, a 10/2022. (IV. 21.) BM rendelet 1. §-a, a 25/2023. (IX. 12.) MK rendelet 1-3. §-a, az 5/2024. (VI. 18.) MK rendelet 1. §-a, a 12/2024. (IX. 26.) MK rendelet 1. §-a, a 13/2024. (XI. 14.) MK rendelet 1. § a)–c) pontja, a 16/2024. (XII. 20.) MK rendelet 1. §-a szerint módosított szöveg.
+[^5]: Az 1. melléklet a 9/2021. (III. 30.) BM rendelet 2. §-a, a 12/2021. (V. 10.) BM rendelet 7. §-a, a 24/2021. (VII. 30.) BM rendelet 13. §-a, a 33/2021. (X. 1.) BM rendelet 2. §-a, a 7/2022. (IV. 14.) BM rendelet 2. §-a és 3. § b)–e) pontja, a 10/2022. (IV. 21.) BM rendelet 1. §-a, a 25/2023. (IX. 12.) MK rendelet 1–3. §-a, az 5/2024. (VI. 18.) MK rendelet 1. §-a, a 12/2024. (IX. 26.) MK rendelet 1. §-a, a 13/2024. (XI. 14.) MK rendelet 1. § a)–c) pontja, a 16/2024. (XII. 20.) MK rendelet 1. §-a, a 8/2025. (III. 20.) EM rendelet 1. §-a szerint módosított szöveg.
