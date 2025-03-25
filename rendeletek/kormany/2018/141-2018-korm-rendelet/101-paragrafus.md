@@ -1,4 +1,4 @@
-## 100. §[^384] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 177/2022. (IV. 29.) Korm. rendelettel (a továbbiakban: Módr92.) megállapított 2. mellékletében foglalt táblázat 98. sorát a Módr92. hatálybalépésekor[^385] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 100. §[^391] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 177/2022. (IV. 29.) Korm. rendelettel (a továbbiakban: Módr92.) megállapított 2. mellékletében foglalt táblázat 98. sorát a Módr92. hatálybalépésekor[^392] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^384]: A 100. §-t a 177/2022. (IV. 29.) Korm. rendelet 1. §-a iktatta be.
-[^385]: A hatálybalépés időpontja 2022. április 30.
+[^391]: A 100. §-t a 177/2022. (IV. 29.) Korm. rendelet 1. §-a iktatta be.
+[^392]: A hatálybalépés időpontja 2022. április 30.
