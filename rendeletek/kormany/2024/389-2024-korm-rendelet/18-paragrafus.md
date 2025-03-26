@@ -1,4 +1,4 @@
-18. § (1) A szerződésszerű teljesítés esetén – a 17. § (2) bekezdése szerinti időszakban – a hitelintézet kizárólag olyan ügyleti kamatot számít fel, amely legalább egyéves időszakra vonatkozóan állandó. Az otthonfelújítási kölcsön törlesztése során felszámított ügyleti kamat éves mértéke – a 17. § (2) bekezdése szerinti időszakban – nem haladhatja meg
+18. § (1)[^25] A szerződésszerű teljesítés esetén – a 17. § (2) bekezdése szerinti időszakban – a hitelintézet kizárólag olyan ügyleti kamatot számít fel, amely az otthonfelújítási kölcsön teljes futamideje alatt állandó. Az otthonfelújítási kölcsön törlesztése során felszámított ügyleti kamat éves mértéke – a 17. § (2) bekezdése szerinti időszakban – nem haladhatja meg
 
 a) az egy évnél hosszabb időszakra állandó kamatozású kölcsön esetén az Államadósság Kezelő Központ Zártkörűen Működő Részvénytársaság (a továbbiakban: ÁKK Zrt.) által havi rendszerességgel közzétett, a közzétételt megelőző 3 naptári hónapban tartott 5 éves névleges futamidejű államkötvény aukcióin kialakult átlaghozamok adott aukciókon elfogadott mennyiségekkel súlyozott, vagy
 
@@ -6,7 +6,7 @@ b) ha az érintett futamidőre az a) pontban meghatározott módszer alapján á
 
 számtani átlaga 110 százalékának 1 százalékponttal növelt mértékét.
 
-(2) Az (1) bekezdésben meghatározott kamatmértéket a kölcsön kamatainak szerződésben rögzített kamatperiódus fordulónapján kell alkalmazni.
+(2)[^26]
 
 (3) Az (1) bekezdés szerinti – a betéti kamat és az értékpapírok hozama számításáról és közzétételéről szóló kormányrendeletnek megfelelően számított – állampapír-átlaghozamot, valamint az (1) bekezdés b) pontja szerint számított referenciahozamot az ÁKK Zrt. az internetes honlapján minden naptári hónap 3. munkanapjáig közzéteszi. Az e bekezdés szerinti állampapírhozamok vagy referenciahozamok alapján megállapított, az (1) bekezdés szerinti ügyleti kamatot a közzététel naptári hónapját követő hónaptól kell alkalmazni.
 
@@ -18,23 +18,13 @@ számtani átlaga 110 százalékának 1 százalékponttal növelt mértékét.
 
 (7) A fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény (a továbbiakban: Fhtv.) hatálya alá tartozó otthonfelújítási kölcsönök esetében – az Fhtv. 2. § (5) bekezdésére tekintettel – az Fhtv. 17/B. § (2) bekezdése, 17/C., 17/D., valamint 20/A. §-a helyett a (8)–(12) bekezdésben meghatározott rendelkezéseket kell alkalmazni.
 
-(8) A hitelintézet – a kamattámogatás időtartama alatt – a kölcsön ügyleti kamatának egyoldalú módosítására nem jogosult. Az ügyleti kamat a (10) bekezdés szerint változik.
+(8)[^27] A hitelintézet – a kamattámogatás időtartama alatt – a kölcsön ügyleti kamatának egyoldalú módosítására nem jogosult.
 
-(9) A hitelintézet által – az ügyleti vagy üzleti év fordulójának napján érvényes referenciahozam alapján – érvényesített ügyleti kamat módosítása nem minősül egyoldalú kamatemelésnek.
+(9)[^28]
 
-(10) A kölcsön ügyleti kamata a kamattámogatás időszaka alatt
+(10)[^29]
 
-a) első alkalommal a kölcsön folyósítása napját követő 1 év elteltével, a kölcsönszerződés szerinti fordulónapon,
-
-b) második alkalommal az a) pont szerinti időpontot követő 1 év elteltével, a kölcsönszerződés szerinti fordulónapon,
-
-c) harmadik alkalommal a b) pont szerinti időpontot követő 5 év elteltével, a kölcsönszerződés szerinti fordulónapon, majd
-
-d) a c) pontban foglaltakat követően ötévente
-
-változtatható meg.
-
-(11) Az ügyleti kamat mértéke az adott kölcsönszerződésre irányadó kamatperiódusok fordulónapján módosul a (8)–(10) bekezdésben foglaltak szerint. Abban az esetben, ha a kölcsönszerződésben rögzített kamat nem volt kamatperiódushoz kötve, kamatperiódusként egyhavi kamatperiódust kell tekinteni.
+(11)[^30]
 
 (12) A kamattámogatási időszak lejártát követően a hitelintézet
 
@@ -45,3 +35,10 @@ b) a kamattámogatási időszakban érvényes kamatváltoztatás vagy kamatfelá
 ba) ugyanazzal a kamatperiódussal és kamatfelár-periódussal, vagy
 
 bb) azzal, hogy ha a kamattámogatási időszakhoz képest eltérő kamatperiódusra vagy kamatfelár-periódusra tér át, akkor a kamat megállapításához a kamatperiódus hosszához igazodó referenciahozamot vesz figyelembe.
+
+[^25]: A 18. § (1) bekezdés nyitó szövegrésze a 36/2025. (III. 11.) Korm. rendelet 13. § j) pontja szerint módosított szöveg.
+[^26]: A 18. § (2) bekezdését a 36/2025. (III. 11.) Korm. rendelet 14. § c) pontja hatályon kívül helyezte.
+[^27]: A 18. § (8) bekezdése a 36/2025. (III. 11.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^28]: A 18. § (9) bekezdését a 36/2025. (III. 11.) Korm. rendelet 14. § c) pontja hatályon kívül helyezte.
+[^29]: A 18. § (10) bekezdését a 36/2025. (III. 11.) Korm. rendelet 14. § c) pontja hatályon kívül helyezte.
+[^30]: A 18. § (11) bekezdését a 36/2025. (III. 11.) Korm. rendelet 14. § c) pontja hatályon kívül helyezte.

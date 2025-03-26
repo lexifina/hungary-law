@@ -1,4 +1,4 @@
-10/A. §[^3] (1) Az állami adó- és vámhatóság a Kincstárhoz benyújtott számlákat a 13. § (3) bekezdése szerinti ellenőrzés keretében – a Kincstár megkeresése alapján – a kérelem elbírálását, illetve a támogatás folyósítását megelőzően is vizsgálja.
+10/A. §[^14] (1) Az állami adó- és vámhatóság a Kincstárhoz benyújtott számlákat a 13. § (3) bekezdése szerinti ellenőrzés keretében – a Kincstár megkeresése alapján – a kérelem elbírálását, illetve a támogatás folyósítását megelőzően is vizsgálja.
 
 (2) Az (1) bekezdés szerinti ellenőrzést a Kincstár abban az esetben is kezdeményezheti, ha azt megelőzően az igénylőt a 10. § (5) bekezdése szerinti hiánypótlásra felszólította, illetve a támogatási kérelem elbírálására nyitva álló határidőt a 10. § (2) bekezdése szerint meghosszabbította.
 
@@ -12,4 +12,4 @@ b) – ha a támogatói okirat 11. § (3) bekezdése szerinti megküldése már 
 
 (5) A támogatási kérelem (4) bekezdés szerinti teljes elutasítása esetén az igénylő e rendelet szerinti támogatás igénybevétele érdekében újabb támogatási kérelmet nem nyújthat be.
 
-[^3]: A 10/A. §-t a 36/2025. (III. 11.) Korm. rendelet 7. §-a iktatta be.
+[^14]: A 10/A. §-t a 36/2025. (III. 11.) Korm. rendelet 7. §-a iktatta be.

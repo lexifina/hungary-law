@@ -52,9 +52,11 @@ a) az általa megadott adatok a valóságnak megfelelnek,
 
 b) a 7. § (4) bekezdése szerinti összeférhetetlenségi ok és a 4. § (8) bekezdése szerinti kizáró ok nem áll fenn,
 
-c) a felújítással érintett lakásra korábban a használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló 17/2016. (II. 10.) Korm. rendelet 6. § c) pontja, a 302/2023. (VII. 11.) Korm. rendelet 6. § (1) bekezdés a) vagy b) pontja vagy az „Otthonfelújítási Program Lakossági energiahatékonysági beruházások megvalósításához” (azonosító jel: RRF-REP-10.13.1-24) felhívás szerinti támogatást használt lakás vásárlásához és korszerűsítéséhez vagy korszerűsítéséhez és bővítéséhez vagy meglévő lakás felújításához, korszerűsítéséhez vagy korszerűsítéséhez és bővítéséhez igénybe vette-e,
+c)[^10] a felújítással érintett lakásra korábban a 7. § (5) bekezdése szerinti valamely támogatást igénybe vette-e,
 
 d) a 3. § (3) bekezdés a) pontjában – ide nem értve a Tbj. 4. § 11. pontja szerinti kiegészítő tevékenységet folytató igénylő esetét –, valamint b) pont ba), bc) vagy bd) alpontjában – ide nem értve a 10. pont szerinti esetet – foglalt feltételek fennállnak,
+
+e)[^11] a 3. § (1) bekezdés b) pontja szerinti esetben a támogatás iránti kérelem benyújtásának időpontjában − együttes igénylők esetén legalább az egyik fél − a 3. § (1) bekezdés b) pontjában meghatározott mely ellátásban részesül – ideértve a folyósítás szüneteltetését is –, és hozzájárul ahhoz, hogy a Kincstár ezt a tényt hatósági nyilvántartásból ellenőrizze.
 
 10. a 3. § (3) bekezdés b) pont bb) alpontjában foglaltakról az illetékes külföldi hatóság vagy a nemzetközi szervezet által kiállított igazolás hiteles magyar nyelvű fordítása, a 3. § (3) bekezdés b) pont bc) alpontjában foglalt külföldi tanulmányokról az annak időtartamára vonatkozó, a külföldi felsőoktatási intézmény által kiadott igazolás és annak hiteles magyar nyelvű fordítása, valamint a külföldi bizonyítványok és oklevelek elismeréséért felelős hatóság egyenértékűségről szóló állásfoglalása,
 
@@ -64,9 +66,9 @@ d) a 3. § (3) bekezdés a) pontjában – ide nem értve a Tbj. 4. § 11. pontj
 
 13. a napelemes rendszer telepítését vagy cseréjét végző vállalkozó nyilatkozata a 7. § (6) bekezdésében foglaltak teljesüléséről,
 
-14.[^2] a köztartozás-mentesség vagy a fennálló köztartozásnak a 4. § (2) bekezdés c) pontja szerinti mértéket meg nem haladó összegének ténye tekintetében – ha az igénylő nem szerepel az Art. szerinti köztartozásmentes adózói adatbázisban – nemleges vagy az adóigazgatási eljárás részletszabályairól szóló 465/2017. (XII. 28.) Korm. rendelet 22. § (1) bekezdés a) pontja szerinti összeget meg nem haladó köztartozásról szóló, a kérelem benyújtásához képest 15 napon belül kiállított adóigazolás,
+14.[^12] a köztartozás-mentesség vagy a fennálló köztartozásnak a 4. § (2) bekezdés c) pontja szerinti mértéket meg nem haladó összegének ténye tekintetében – ha az igénylő nem szerepel az Art. szerinti köztartozásmentes adózói adatbázisban – nemleges vagy az adóigazgatási eljárás részletszabályairól szóló 465/2017. (XII. 28.) Korm. rendelet 22. § (1) bekezdés a) pontja szerinti összeget meg nem haladó köztartozásról szóló, a kérelem benyújtásához képest 15 napon belül kiállított adóigazolás,
 
-15. a támogatással érintett lakásban tulajdonjoggal rendelkező nagykorú gyermek, illetve szülő adatkezelésre vonatkozó nyilatkozata,
+15.[^13] az igénylő, a támogatási jogosultságot megalapozó, illetve a támogatással érintett lakásban tulajdonjoggal rendelkező nagykorú gyermek, illetve a támogatással érintett lakásban tulajdonjoggal rendelkező szülő 14. § (2) bekezdése szerinti nyilatkozata,
 
 16. a kérelemben a támogatás folyósításához megadott fizetési számlaszámhoz kapcsolódó, az igénylővel kötött fizetésiszámla-szerződés,
 
@@ -104,4 +106,7 @@ napja minősül.
 
 (6) Amennyiben az a házastárs vagy élettárs, akinek a nevére a számlát kiállították, a kérelem benyújtását megelőzően elhalálozik, és a számlát a másik, túlélő házastárs vagy élettárs csatolja a kérelméhez, ez a tény a számla elfogadhatóságát nem akadályozza.
 
-[^2]: A 9. § (3) bekezdés 14. pontja a 36/2025. (III. 11.) Korm. rendelet 13. § e) pontja szerint módosított szöveg.
+[^10]: A 9. § (3) bekezdés 9. pont c) alpontja a 36/2025. (III. 11.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^11]: A 9. § (3) bekezdés 9. pont e) alpontját a 36/2025. (III. 11.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^12]: A 9. § (3) bekezdés 14. pontja a 36/2025. (III. 11.) Korm. rendelet 13. § e) pontja szerint módosított szöveg.
+[^13]: A 9. § (3) bekezdés 15. pontja a 36/2025. (III. 11.) Korm. rendelet 13. § f) pontja szerint módosított szöveg.

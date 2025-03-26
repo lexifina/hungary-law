@@ -52,7 +52,15 @@ da) – amennyiben a jogosultság megállapítását erre hivatkozással kéri �
 
 db) annak vállalásáról, hogy az otthonfelújítási kölcsön összegét maradéktalanul a (2) bekezdés szerinti célokra fordítja.
 
-(9) Annak igazolása céljából, hogy az igénylő korábban támogatást vagy az 518/2020. (XI. 25.) Korm. rendelet szerinti, maximális összegben nyújtott támogatást nem vett igénybe, a hitelintézet megkeresi a Kincstárt.
+e)[^22] a 3. § (1) bekezdés b) pontja szerinti igénylő esetén − együttes igénylők esetén legalább az egyik fél vonatkozásában − az ellátást megállapító hatósági határozat másolatát.
+
+(9)[^23] Annak igazolása céljából, hogy az igénylő korábban
+
+a) e rendelet, illetve
+
+b) – vagy az 5. § (2) bekezdés b) pontja esetén a másik szülő, c) pontja esetén a közeli hozzátartozó – az 518/2020. (XI. 25.) Korm. rendelet
+
+szerinti támogatást vett-e igénybe és a b) pont szerinti esetben mekkora összegben, a hitelintézet megkeresi a Kincstárt.
 
 (10) Ha az igénylő kamattámogatást kíván igénybe venni, a befogadott kérelem tekintetében a jogosultsági feltételek meglétét a hitelintézet az összes feltétel vonatkozásában, teljeskörűen – a nyilatkozatok tekintetében azok valóságtartalmát nem vizsgálva – köteles ellenőrizni. A hitelintézet a kérelmet elutasítja, ha a nyilatkozatban foglaltak nyilvánvalóan nem felelnek meg a valóságnak.
 
@@ -77,3 +85,6 @@ c) hozzájárul ahhoz, hogy természetes személyazonosító adatait, az államp
 (15) A hitelintézet a neki felróható okból eredő kár esetén a támogatott személlyel szemben köteles helytállni, e kötelezettségét az államra nem háríthatja át.
 
 (16) A kamattámogatott kölcsön hitelcéljaként szolgáló lakást – ha a kölcsön fedezete másik lakás, akkor a kamattámogatott kölcsön fedezeteként szolgáló lakást – a kamattámogatott kölcsön összegének erejéig, a 17. § (2) bekezdése szerinti időtartamra, a kamattámogatással érintett kölcsönszerződés alapján a hitelintézet javára jelzálogjog, valamint annak biztosítására elidegenítési és terhelési tilalom terheli.
+
+[^22]: A 15. § (8) bekezdés e) pontját a 36/2025. (III. 11.) Korm. rendelet 9. § (1) bekezdése iktatta be.
+[^23]: A 15. § (9) bekezdése a 36/2025. (III. 11.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.

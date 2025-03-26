@@ -14,8 +14,24 @@ olyan számla fogadható el, amelyről a vállalkozó a 9. § (3) bekezdés 1. p
 
 (4) A felújítással kapcsolatos tervezési, építési, szerelési munkálatokat végző vállalkozó által kiállított számla csak akkor fogadható el, ha a vállalkozó az igénylőnek nem közeli hozzátartozója vagy élettársa, vagy gazdálkodó szervezet esetében az igénylő vagy az igénylő közeli hozzátartozója vagy élettársa annak nem tagja, munkavállalója vagy vezető tisztségviselője. Együttes igénylés esetén e bekezdés rendelkezéseit mindkét igénylőnek teljesíteni kell.
 
-(5) Nem fogadható el az olyan számla, amelyet az igénylő a felújítással érintett lakás vonatkozásában a használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló 17/2016. (II. 10.) Korm. rendelet 6. § c) pontja vagy a 302/2023. (VII. 11.) Korm. rendelet 6. § (1) bekezdés a) vagy b) pontja alapján vagy az „Otthonfelújítási Program Lakossági energiahatékonysági beruházások megvalósításához” (azonosító jel: RRF-REP-10.13.1-24) felhívás keretében használt lakás vásárlásához és korszerűsítéséhez vagy korszerűsítéséhez és bővítéséhez vagy meglévő lakás felújításához, korszerűsítéséhez, illetve korszerűsítéséhez és bővítéséhez igénybe vett támogatás kapcsán már elszámolt.
+(5)[^9] Nem fogadható el támogatás elszámolása keretében az olyan számla, amelyet az igénylő a felújítással érintett lakás vonatkozásában
+
+a) a használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló 17/2016. (II. 10.) Korm. rendelet 6. § c) pontja,
+
+b) a 302/2023. (VII. 11.) Korm. rendelet 6. § (1) bekezdés a) vagy b) pontja,
+
+c) az Otthonfelújítási Program Lakossági energiahatékonysági beruházások megvalósításához (azonosító jel: RRF-REP-10.13.1-24) című pályázat,
+
+d) az Otthonfelújítási Program Lakossági energiahatékonysági beruházások megvalósításához (azonosító jel: KEHOP_Plusz-4.1.7-24) című pályázat,
+
+e) a Lakossági napelemes rendszerek támogatása és fűtési rendszerek elektrifikálása napelemes rendszerekkel kombinálva című pályázat (azonosító jel: RRF-6.2.1) vagy
+
+f) a Napenergia Plusz Program
+
+keretében igénybe vett támogatás kapcsán már elszámolt.
 
 (6) Napelemes rendszer telepítését, bővítését vagy cseréjét igazoló számla esetén – a tetősíkba integrált, napenergia-hasznosítást biztosító tetőhéjazat kivételével – az abban feltüntetett anyagköltség és kapcsolódó vállalkozói díj összesítve nem haladhatja meg a bruttó 450 000 Ft/kWp összeget, mely összeghatárba nem számítandó be a villamosenergia-tároló telepítésével vagy cseréjével összefüggő költség.
 
 (7) Az (5) bekezdésben foglalt feltétel fennállását a Kincstár ellenőrzi.
+
+[^9]: A 7. § (5) bekezdése a 36/2025. (III. 11.) Korm. rendelet 5. §-ával megállapított szöveg.

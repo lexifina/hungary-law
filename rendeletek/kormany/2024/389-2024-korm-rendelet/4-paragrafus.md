@@ -1,4 +1,4 @@
-4. § (1) A támogatásra az igénylő valamennyi, vele azonos lakóhelyen élő gyermeke után együttesen jogosult. Ha a gyermeket a támogatás igénybevétele során a szülők vagy a 2. § (1) bekezdés 4. pont c) alpontja szerinti esetben a többes gyámul rendelt személyek (a továbbiakban együtt: szülő) legalább egyikénél figyelembe vették, akkor egy újabb igénylés során már nem vehető ismételten figyelembe.
+4. § (1)[^3] A 3. § (1) bekezdés a) pontja szerinti igénybevevő esetén a támogatásra az igénylő valamennyi, vele azonos lakóhelyen élő gyermeke után együttesen jogosult. Ha a gyermeket a támogatás igénybevétele során a szülők vagy a 2. § (1) bekezdés 4. pont c) alpontja szerinti esetben a többes gyámul rendelt személyek (a továbbiakban együtt: szülő) legalább egyikénél figyelembe vették, akkor egy újabb igénylés során már nem vehető ismételten figyelembe.
 
 (2) A támogatás abban az esetben igényelhető, ha
 
@@ -30,7 +30,7 @@ b) eltérő, de nála egyetlen közös gyermeküknek sincsen lakóhelye.
 
 a) az igénylő és a gyermek az igénylő foglalkoztatásra irányuló jogviszonya jellegéből következően – ideértve a sajátos egyházi jogviszonyt is – köteles a szolgálati helyén a foglalkoztató által térítésmentesen biztosított szolgálati lakásban lakni a foglalkoztatásra irányuló jogviszony fennállása alatt,
 
-b) a támogatott személyt vagy a támogatásra való jogosultságnál figyelembe vett bármely gyermeket egészségi állapota miatt tartósan egészségügyi intézményben kezelik,
+b)[^4] a támogatott személy vagy a támogatásra való jogosultságnál figyelembe vett bármely gyermek egészségi állapota miatt tartósan fekvőbeteg-gyógyintézeti ellátásban vagy fekvőbeteg-szakellátásban, illetve a támogatott személy bentlakásos szociális intézményi ellátásban részesül,
 
 c) a támogatott személy munkavállalására tekintettel – indokoltan – legfeljebb öt évig a lakás elhelyezkedése szerinti településtől eltérő településen tartózkodik,
 
@@ -42,8 +42,14 @@ f) a nagykorú gyermek, akire tekintettel a támogatást igényelték, elköltö
 
 g) a kiskorú gyermek, akire tekintettel a támogatást igényelték, a nagykorúvá válását követően elköltözik.
 
-(8) Korábban már az e rendelet szerinti támogatással érintett lakásra újabb támogatás nem igényelhető, kivéve, ha a korábbi igénylő az igénylése időpontjában meglévő tulajdoni hányadát teljes mértékben elidegenítette; ebben az esetben a korábban már támogatással érintett lakásra újabb igénylő által – figyelemmel a 3. § (2) bekezdésére is – ismételten igényelhető a támogatás, ha az újabb igénylő a korábbi igénylőnek nem közeli hozzátartozója.
+(8)[^5] Korábban már az e rendelet szerinti támogatással érintett lakásra újabb támogatás nem igényelhető, kivéve, ha a korábbi igénylő, illetve gyermeke vagy szülője a korábbi igénylés időpontjában meglévő tulajdoni hányadát teljes mértékben elidegenítette; ebben az esetben a korábban már támogatással érintett lakásra újabb igénylő által – figyelemmel a 3. § (2) bekezdésére is – ismételten igényelhető a támogatás, ha az újabb igénylő a korábbi igénylőnek nem közeli hozzátartozója.
 
-(9)[^1] Az igénylő vállalkozási szerződést csak olyan vállalkozóval köthet, aki vagy amely a szerződéskötéskor szerepel a cégnyilvántartásban vagy az egyéni vállalkozók nyilvántartásában, és amelynek az adószámát az állami adó- és vámhatóság nem törölte, valamint amely nem szerepel az adózás rendjéről szóló 2017. évi CL. törvény (a továbbiakban: Art.) 264–265. §-a, valamint 266. § c), d) és l) pontja szerinti közzétételi listákon. A vállalkozóval kötendő szerződésnek tartalmaznia kell a 7. § (1) bekezdésében foglalt feltételek vállalkozó általi teljesítésének vállalását, továbbá a szerződésben meg kell határozni a felújítással kapcsolatos tervezési, építési, szerelési munkálatokat és azok díját, amennyiben a szükséges anyagokat is a vállalkozó biztosítja az igénylő részére, akkor anyagköltség és vállalkozói díj szerinti bontásban.
+(8a)[^6] Nem veheti igénybe a támogatást az, akit az igénylését megelőző 5 évben az általa igénybe vett e rendelet szerinti támogatás vagy az 518/2020. (XI. 25.) Korm. rendelet szerinti támogatás vonatkozásában a Kincstár visszafizetésre szólított fel.
 
-[^1]: A 4. § (9) bekezdése a 36/2025. (III. 11.) Korm. rendelet 13. § d) pontja szerint módosított szöveg.
+(9)[^7] Az igénylő vállalkozási szerződést csak olyan vállalkozóval köthet, aki vagy amely a szerződéskötéskor szerepel a cégnyilvántartásban vagy az egyéni vállalkozók nyilvántartásában, és amelynek az adószámát az állami adó- és vámhatóság nem törölte, valamint amely nem szerepel az adózás rendjéről szóló 2017. évi CL. törvény (a továbbiakban: Art.) 264–265. §-a, valamint 266. § c), d) és l) pontja szerinti közzétételi listákon. A vállalkozóval kötendő szerződésnek tartalmaznia kell a 7. § (1) bekezdésében foglalt feltételek vállalkozó általi teljesítésének vállalását, továbbá a szerződésben meg kell határozni a felújítással kapcsolatos tervezési, építési, szerelési munkálatokat és azok díját, amennyiben a szükséges anyagokat is a vállalkozó biztosítja az igénylő részére, akkor anyagköltség és vállalkozói díj szerinti bontásban.
+
+[^3]: A 4. § (1) bekezdése a 36/2025. (III. 11.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
+[^4]: A 4. § (7) bekezdés b) pontja a 36/2025. (III. 11.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^5]: A 4. § (8) bekezdése a 36/2025. (III. 11.) Korm. rendelet 13. § c) pontja szerint módosított szöveg.
+[^6]: A 4. § (8a) bekezdését a 36/2025. (III. 11.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^7]: A 4. § (9) bekezdése a 36/2025. (III. 11.) Korm. rendelet 13. § d) pontja szerint módosított szöveg.

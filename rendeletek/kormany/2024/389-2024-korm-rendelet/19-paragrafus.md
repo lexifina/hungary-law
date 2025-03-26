@@ -2,7 +2,7 @@
 
 (2) A támogatás 11. § (5) bekezdés b) pontja szerinti folyósítását követően a hitelintézet a támogatást 4 napon belül egy összegben, előtörlesztésként az igénylő hitelintézetnél vezetett hitelszámláján írja jóvá, legfeljebb a fennálló kölcsöntartozás összegéig. Ha a támogatás folyósításának időpontjában a kölcsönhöz kapcsolódó tőketartozás és annak járulékai összege alacsonyabb a támogatói okirat szerint igénybe vehető támogatás összegénél, akkor a különbözetet a hitelintézet haladéktalanul megfizeti az igénylő részére az általa megjelölt belföldi fizetési számlájára.
 
-(3) A hitelintézet az otthonfelújítási kölcsönre nézve a támogatás terhére megvalósuló, a (2) bekezdés szerinti előtörlesztésért a támogatott személy terhére díjat és egyéb költséget nem számíthat fel, és ezen előtörlesztésre az Fhtv. 25. § (1) bekezdése nem alkalmazható. A támogatás igénybevételével történő előtörlesztés esetén a jóváírást követő 10 napon belül a hitelintézet változatlan futamidő mellett a támogatott személy havi törlesztőrészleteit újraszámolja, és arról a támogatott személyt és a Kincstárt értesíti.
+(3)[^31] A hitelintézet az otthonfelújítási kölcsönre nézve a támogatás terhére megvalósuló, a (2) bekezdés szerinti előtörlesztésért, illetve a támogatott személy részére, az általa megjelölt belföldi fizetési számlájára történő folyósításáért a támogatott személy terhére díjat és egyéb költséget nem számíthat fel, és ezen előtörlesztésre az Fhtv. 25. § (1) bekezdése nem alkalmazható. A támogatás igénybevételével történő előtörlesztés esetén a jóváírást követő 10 napon belül a hitelintézet változatlan futamidő mellett a támogatott személy havi törlesztőrészleteit újraszámolja, és arról a támogatott személyt és a Kincstárt értesíti.
 
 (4) A (3) bekezdés szerinti értesítésben és azt követően évente legalább egy alkalommal a hitelintézet tájékoztatja a támogatott személyt arról, hogy az előtörlesztéssel összefüggésben – megjelölve a támogatás összegét is – mekkora összegű támogatásban és kamattámogatásban részesült, a támogatások igénybevétele nélkül mekkora lenne a fennálló tartozásának az összege, továbbá hogy a támogatásokat Magyarország Kormánya biztosította.
 
@@ -23,3 +23,5 @@
 (12) Ha a Kincstár a (6) bekezdés szerinti ellenőrzés során a hitelintézet elszámolásában szabálytalanságot tár fel, akkor az elszámolással kapcsolatos követelést a hitelintézettel szemben a polgári jog szabályai szerint érvényesíti.
 
 (13) A hitelintézet a kamattámogatásokat az eAdaton elérhető tájékoztató szerinti formában tartja nyilván.
+
+[^31]: A 19. § (3) bekezdése a 36/2025. (III. 11.) Korm. rendelet 13. § k) pontja szerint módosított szöveg.
