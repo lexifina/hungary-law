@@ -1,3 +1,3 @@
-2. § Az R. a következő 159. §-sal egészül ki:
+2. §[^3]
 
-„159. § E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 53/2025. (III. 24.) Korm. rendelettel (a továbbiakban: Módr151.) módosított 6/ZS. § (1) és (2) bekezdését, valamint megállapított 6/ZS. § (2a)–(2c) bekezdését, 14. és 15. mellékletét a Módr151. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
