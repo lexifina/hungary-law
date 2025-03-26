@@ -1,38 +1,31 @@
 13. § A Rendelet
 
-a)[^13]
+a) 3. § (3) bekezdés nyitó szövegrészében az „A támogatás” szövegrész helyébe az „Az (1) bekezdés a) pontja szerinti igénybevevő esetén a támogatás” szöveg,
 
-b)[^14]
+b) 4. § (1) bekezdésében az „A támogatásra” szövegrész helyébe az „A 3. § (1) bekezdés a) pontja szerinti igénybevevő esetén a támogatásra” szöveg,
 
-c)[^15]
+c) 4. § (8) bekezdésében az „a korábbi igénylő az igénylése” szövegrész helyébe az „a korábbi igénylő, illetve gyermeke vagy szülője a korábbi igénylés” szöveg,
 
-d)[^16]
+d)[^4]
 
-e)[^17]
+e)[^5]
 
-f)[^18]
+f) 9. § (3) bekezdés 15. pontjában az „a támogatással érintett lakásban tulajdonjoggal rendelkező nagykorú gyermek, illetve szülő adatkezelésre vonatkozó” szövegrész helyébe az „az igénylő, a támogatási jogosultságot megalapozó, illetve a támogatással érintett lakásban tulajdonjoggal rendelkező nagykorú gyermek, illetve a támogatással érintett lakásban tulajdonjoggal rendelkező szülő 14. § (2) bekezdése szerinti” szöveg,
 
-g)[^19]
+g) 11. § (2) bekezdés b) pont nyitó szövegrészében az „az igénylők” szövegrész helyébe az „a 3. § (1) bekezdés a) pontja szerinti igénybevevő esetén az igénylők” szöveg,
 
-h)[^20]
+h)[^6]
 
-i)[^21]
+i) 14. § (2) bekezdésében az „A támogatással érintett lakásban tulajdonjoggal rendelkező nagykorú gyermek, illetve szülő” szövegrész helyébe az „A támogatási jogosultságot megalapozó, illetve a támogatással érintett lakásban tulajdonjoggal rendelkező nagykorú gyermek, illetve a támogatással érintett lakásban tulajdonjoggal rendelkező szülő” szöveg,
 
-j)[^22]
+j) 18. § (1) bekezdésében a „legalább egyéves időszakra vonatkozóan” szövegrész helyébe az „az otthonfelújítási kölcsön teljes futamideje alatt” szöveg,
 
-k)[^23]
+k) 19. § (3) bekezdésében az „előtörlesztésért” szövegrész helyébe az „előtörlesztésért, illetve a támogatott személy részére, az általa megjelölt belföldi fizetési számlájára történő folyósításáért” szöveg és
 
-l)[^24]
+l) 22. § (1) bekezdésében az „és gyermekeiknek” szövegrész helyébe az „és – a 3. § (1) bekezdés a) pontja szerinti esetben – gyermekeiknek” szöveg
 
-[^13]: A 13. § a) pontja a 15. § (2) bekezdése alapján 2025. március 26-án lép hatályba.
-[^14]: A 13. § b) pontja a 15. § (2) bekezdése alapján 2025. március 26-án lép hatályba.
-[^15]: A 13. § c) pontja a 15. § (2) bekezdése alapján 2025. március 26-án lép hatályba.
-[^16]: A 13. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^17]: A 13. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^18]: A 13. § f) pontja a 15. § (2) bekezdése alapján 2025. március 26-án lép hatályba.
-[^19]: A 13. § g) pontja a 15. § (2) bekezdése alapján 2025. március 26-án lép hatályba.
-[^20]: A 13. § h) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^21]: A 13. § i) pontja a 15. § (2) bekezdése alapján 2025. március 26-án lép hatályba.
-[^22]: A 13. § j) pontja a 15. § (2) bekezdése alapján 2025. március 26-án lép hatályba.
-[^23]: A 13. § k) pontja a 15. § (2) bekezdése alapján 2025. március 26-án lép hatályba.
-[^24]: A 13. § l) pontja a 15. § (2) bekezdése alapján 2025. március 26-án lép hatályba.
+lép.
+
+[^4]: A 13. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 13. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 13. § h) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

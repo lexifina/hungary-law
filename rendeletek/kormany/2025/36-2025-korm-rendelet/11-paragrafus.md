@@ -1,3 +1,3 @@
-11. §[^11]
+11. § A Rendelet 18. § (8) bekezdése helyébe a következő rendelkezés lép:
 
-[^11]: A 11. § a 15. § (2) bekezdése alapján 2025. március 26-án lép hatályba.
+„(8) A hitelintézet – a kamattámogatás időtartama alatt – a kölcsön ügyleti kamatának egyoldalú módosítására nem jogosult.”

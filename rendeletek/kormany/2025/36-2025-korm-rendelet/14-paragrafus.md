@@ -1,11 +1,9 @@
 14. § Hatályát veszti a Rendelet
 
-a)[^25]
+a) 11. § (4) bekezdése,
 
-b)[^26]
+b)[^7]
 
-c)[^27]
+c) 18. § (2), (9)–(11) bekezdése.
 
-[^25]: A 14. § a) pontja a 15. § (2) bekezdése alapján 2025. március 26-án lép hatályba.
-[^26]: A 14. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^27]: A 14. § c) pontja a 15. § (2) bekezdése alapján 2025. március 26-án lép hatályba.
+[^7]: A 14. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
