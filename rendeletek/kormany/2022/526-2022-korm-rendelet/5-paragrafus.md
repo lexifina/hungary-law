@@ -1,10 +1,10 @@
 5. § (1) A pénzügyi biztosíték mértéke az 1. § (2) bekezdés a)–c) pontja szerinti dokumentumban, vagy az 1. § (4) bekezdés c) pontja szerinti esetben az igényelt csatlakozási kapacitásra vetítve 4,5 millió Ft/MVA. A pénzügyi biztosíték 1 MVA teljesítmény alatt tized MVA-ra kerekített, de legalább 0,1 MVA, 1 MVA teljesítmény felett egész MVA értékre kerekített teljesítménynek megfelelő összeg, amelyből megfizetettnek minősül
 
-a)[^1] az igénybejelentő által a hálózati engedélyes részére az elosztói vagy üzemi szabályzat alapján csatlakozási igénybejelentési eljárásban már megfizetett biztosíték,
+a)[^2] az igénybejelentő által a hálózati engedélyes részére az elosztói vagy üzemi szabályzat alapján csatlakozási igénybejelentési eljárásban már megfizetett biztosíték,
 
-b)[^2] a hálózati csatlakozási szerződés alapján már megfizetett csatlakozási díj összege és
+b)[^3] a hálózati csatlakozási szerződés alapján már megfizetett csatlakozási díj összege és
 
-c)[^3] a Vet. 27. § (5) bekezdése alapján az igénybejelentő által saját beruházásban már megvalósított és a Vet. 27. § (7) bekezdése szerint a hálózati engedélyes által az 1. § (2) bekezdés a)–c) pontja szerinti dokumentum szerinti csatlakozáshoz átvett hálózati csatlakozási beruházások értéke, amelyet a térítésmentes átadásra vonatkozó, mindkét fél által aláírt megállapodásban szereplő tény összeggel, ennek hiányában a hálózati engedélyes által, az átvételt megelőző 24 hónapon belül azonos műszaki tartalmú csatlakozási beruházásra kiadott műszaki gazdasági tájékoztatókban meghatározott legmagasabb csatlakozási díj értéken kell figyelembe venni.
+c)[^4] a Vet. 27. § (5) bekezdése alapján az igénybejelentő által saját beruházásban már megvalósított és a Vet. 27. § (7) bekezdése szerint a hálózati engedélyes által az 1. § (2) bekezdés a)–c) pontja szerinti dokumentum szerinti csatlakozáshoz átvett hálózati csatlakozási beruházások értéke, amelyet a térítésmentes átadásra vonatkozó, mindkét fél által aláírt megállapodásban szereplő tény összeggel, ennek hiányában a hálózati engedélyes által, az átvételt megelőző 24 hónapon belül azonos műszaki tartalmú csatlakozási beruházásra kiadott műszaki gazdasági tájékoztatókban meghatározott legmagasabb csatlakozási díj értéken kell figyelembe venni.
 
 (2) Az 1. § (2) bekezdés a)–c) pontja szerinti igénybejelentő pénzügyi biztosítékot fizet, ha
 
@@ -20,6 +20,6 @@ b) az igénybejelentő nyilatkozatában a csatlakozás igénybevételére megjel
 
 (6) Az (5) bekezdés szerinti egyedi igénybejelentés elmulasztása esetén az 1. § (2) bekezdés a)–c) pontja szerinti igénybejelentő csatlakozásra vonatkozó rendelkezési joga az egyedi igénybejelentés megtételére nyitva álló határidő leteltét követő napon megszűnik. A hálózati engedélyes a nyilatkozattételi határidőt követő 45 napon belül az igénybejelentő által korábban az elosztói vagy üzemi szabályzat alapján teljesített pénzügyi biztosítékot az igénybejelentőnek visszatéríti, és a megfizetett csatlakozási díjat – a hálózati csatlakozási szerződésben meghatározott elszámolási szabályok mellett – az igénybejelentővel elszámolja.
 
-[^1]: Az 5. § (1) bekezdés a) pontja a 31/2023. (II. 8.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
-[^2]: Az 5. § (1) bekezdés b) pontja a 31/2023. (II. 8.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
-[^3]: Az 5. § (1) bekezdés c) pontját a 31/2023. (II. 8.) Korm. rendelet 1. §-a iktatta be.
+[^2]: Az 5. § (1) bekezdés a) pontja a 31/2023. (II. 8.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
+[^3]: Az 5. § (1) bekezdés b) pontja a 31/2023. (II. 8.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
+[^4]: Az 5. § (1) bekezdés c) pontját a 31/2023. (II. 8.) Korm. rendelet 1. §-a iktatta be.
