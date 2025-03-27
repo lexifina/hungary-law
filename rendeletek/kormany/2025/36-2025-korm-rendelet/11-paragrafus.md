@@ -1,3 +1,3 @@
-11. § A Rendelet 18. § (8) bekezdése helyébe a következő rendelkezés lép:
+11. §[^12]
 
-„(8) A hitelintézet – a kamattámogatás időtartama alatt – a kölcsön ügyleti kamatának egyoldalú módosítására nem jogosult.”
+[^12]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
