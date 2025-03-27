@@ -1,1 +1,3 @@
-### 32. §
+32. § (1) A 2025. március 1-jét megelőző kezdő időponttól megállapított, 26/A. § szerinti ellátásokat a hadigondozásról és a bűnügyi együttműködéssel összefüggő törvények módosításáról szóló 2025. évi IV. törvény (a továbbiakban: Módtv1.) hatálybalépését követő hónap első napjától 2025. március 1-jére visszamenőlegesen 10%-kal meg kell emelni.
+
+(2) A 2025. március 1-je és a Módtv1. hatálybalépését megelőző nap közötti kezdő időponttól megállapított, 26/A. § szerinti ellátásokat a Módtv1. hatálybalépését követő hónap első napjától az ellátás kezdő időpontjára visszamenőlegesen 10%-kal meg kell emelni.
