@@ -1,4 +1,4 @@
-6. § (1)[^4] A 413/2022. (X. 26.) Korm. rendelet 1. § (1) bekezdése alapján az e rendelet hatálybalépésekor már meglévő háztartási méretű kiserőmű 2022. október 31. napját követően, de a 2. § (1) bekezdése szerinti rendelet hatálybalépését megelőzően benyújtott igénybejelentés alapján e rendelet hatálybalépését követően megvalósított teljesítménybővítést követően nem jogosult a közcélú hálózatba betáplálni a hálózati csatlakozás szerződésének 3. § (8) bekezdése szerinti módosításáig.
+6. § (1)[^6] A 413/2022. (X. 26.) Korm. rendelet 1. § (1) bekezdése alapján az e rendelet hatálybalépésekor már meglévő háztartási méretű kiserőmű 2022. október 31. napját követően, de a 2. § (1) bekezdése szerinti rendelet hatálybalépését megelőzően benyújtott igénybejelentés alapján e rendelet hatálybalépését követően megvalósított teljesítménybővítést követően nem jogosult a közcélú hálózatba betáplálni a hálózati csatlakozás szerződésének 3. § (8) bekezdése szerinti módosításáig.
 
 (2) Az elosztó hálózati engedélyes a betáplálás lehetőségéről harminc napon belül értesíti azt az igénybejelentőt, aki igénybejelentését 2022. november 1. napját követően és a 2. § (1) bekezdése szerinti rendelet hatálybalépését megelőzően nyújtotta be, ha igénybejelentése olyan áramkörre vonatkozott, amelyet a 2. § (1) bekezdése szerinti rendelet feloldott a zárolás alól.
 
@@ -14,7 +14,7 @@
 
 (8) A Hivatal a 4. § (2) bekezdése szerinti tájékoztatását először az elosztó hálózati engedélyesek 4. § (1) bekezdése szerinti adatszolgáltatását követő harminc napon belül teszi meg.
 
-(9)[^5] Az elosztó hálózati engedélyes a 3. § (2) bekezdése szerinti javaslatát először 2024. június 30. napjáig teszi meg.
+(9)[^7] Az elosztó hálózati engedélyes a 3. § (2) bekezdése szerinti javaslatát először 2024. június 30. napjáig teszi meg.
 
-[^4]: A 6. § (1) bekezdése a 461/2023. (X. 5.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.
-[^5]: A 6. § (9) bekezdését a 461/2023. (X. 5.) Korm. rendelet 3. §-a iktatta be.
+[^6]: A 6. § (1) bekezdése a 461/2023. (X. 5.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.
+[^7]: A 6. § (9) bekezdését a 461/2023. (X. 5.) Korm. rendelet 3. §-a iktatta be.

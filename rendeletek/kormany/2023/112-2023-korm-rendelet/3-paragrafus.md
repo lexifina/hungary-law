@@ -1,4 +1,4 @@
-3. §[^1] (1) A 2. § (1) bekezdése szerinti rendelet hatálybalépését és az adott áramkör zárolásának feloldását követően a háztartási méretű kiserőmű által termelt villamos energia közcélú hálózatba történő betáplálását az elosztó hálózati engedélyes engedélyezi a Hivatal (4) bekezdés szerinti jelentése alapján az elosztói szabályzatban rögzített feltételekkel és a zárolás feloldását megalapozó hálózati műszaki feltételek figyelembevételével.
+3. §[^2] (1) A 2. § (1) bekezdése szerinti rendelet hatálybalépését és az adott áramkör zárolásának feloldását követően a háztartási méretű kiserőmű által termelt villamos energia közcélú hálózatba történő betáplálását az elosztó hálózati engedélyes engedélyezi a Hivatal (4) bekezdés szerinti jelentése alapján az elosztói szabályzatban rögzített feltételekkel és a zárolás feloldását megalapozó hálózati műszaki feltételek figyelembevételével.
 
 (2) A 2. § (1) bekezdése szerinti rendelet hatálybalépését követően az elosztó hálózati engedélyes az elosztói szabályzatban meghatározott szabályok szerint javaslatot tesz az áramkör zárolására vagy zárolás alóli feloldására vonatkozóan, és hathavonta megküldi a Hivatalnak és az átviteli rendszerirányítónak.
 
@@ -18,4 +18,7 @@ b) a zárolt áramkörök feloldásához szükséges intézkedések összefoglal
 
 (8) Ha az igénybejelentő a (7) bekezdés szerinti értesítést követően kérelmet nyújt be az elosztó hálózati engedélyeshez, az elosztó hálózati engedélyes az elosztói szabályzatban rögzített feltételekkel biztosítja a közcélú hálózatra történő betáplálás lehetőségét a zárolás feloldását megalapozó hálózati műszaki feltételek figyelembevételével. A hálózati csatlakozási szerződés módosítására a Vet. vhr. ellátási szabályzatok rendelkezései alkalmazandók.
 
-[^1]: A 3. § a 461/2023. (X. 5.) Korm. rendelet 2. §-ával megállapított szöveg.
+(9)[^3] Azon háztartási méretű kiserőmű esetén, amely megfelel a Vet. Vhr. 5. § (5) bekezdés a) vagy b) pontjában foglalt feltételeknek, de az üzembe helyezés időpontjában a 413/2022. (X. 26.) Korm. rendelet 1. § (1) bekezdése szerinti ideiglenes felfüggesztés hatálya alatt áll vagy állt, a villamosenergia-kereskedő által alkalmazandó szaldóelszámolásra irányadó 10 éves időszak kezdő időpontja a (7) bekezdés alapján a hálózati engedélyes által kiadott értesítés időpontjával egyezik meg.
+
+[^2]: A 3. § a 461/2023. (X. 5.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^3]: A 3. § (9) bekezdését az 54/2025. (III. 26.) Korm. rendelet 1. §-a iktatta be.
