@@ -10,7 +10,7 @@ b) – az 5–7. alcím szerinti támogatás kivételével – nehéz helyzetben
 
 c) – a 11–12., 15. és 17–18. alcím szerinti támogatás kivételével – halászati és akvakultúra-termékek termeléséhez,
 
-d) – a 11–12., 15. és 17–18. alcím, valamint – ha a támogatás összegét nem a piacon vásárolt vagy forgalomba hozott termékek ára vagy mennyisége alapján határozzák meg – az 5., 6. és 28. alcím szerinti támogatás kivételével – halászati és akvakultúra-termékek feldolgozásához és forgalmazásához,
+d)[^5] – a 11–12., 15. és 17–18. alcím, valamint – ha a támogatás összegét nem a piacon vásárolt vagy forgalomba hozott termékek ára vagy mennyisége alapján határozzák meg – az 5. és 6. alcím szerinti támogatás kivételével – halászati és akvakultúra-termékek feldolgozásához és forgalmazásához,
 
 e) – a 7., 10., 12., 15. és 17–23. alcím szerinti támogatás kivételével – elsődleges mezőgazdasági termeléshez,
 
@@ -49,3 +49,5 @@ k) – az 5. alcím szerinti támogatás kivételével – atomenergia termelés
 (12) A több részletben kifizetett támogatást a támogatási döntés időpontja szerinti értékre kell diszkontálni a diszkont kamatláb alkalmazásával.
 
 (13) Az általános forgalmi adó nem támogatható, kivéve, ha az általános forgalmi adóra vonatkozó jogszabályok értelmében az nem igényelhető vissza.
+
+[^5]: A 7. § (3) bekezdés d) pontja a 3/2025. (III. 26.) KTM rendelet 6. § b) pontja szerint módosított szöveg.

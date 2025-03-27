@@ -1,6 +1,6 @@
 ## 2. Értelmező rendelkezések
 
-2. § E fejezet alkalmazásában
+2. §[^1] E rendelet alkalmazásában
 
 1. acélipar: a 651/2014/EU bizottsági rendelet 2. cikk 43. pontja szerinti ipar,
 
@@ -93,6 +93,8 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 42. kis- és középvállalkozás: a 651/2014/EU bizottsági rendelet I. melléklete szerint meghatározott vállalkozás,
 
 43. környezetvédelem: a 651/2014/EU bizottsági rendelet 2. cikk 101. pontja szerinti intézkedés vagy tevékenység,
+
+43a.[^2] közszféra szervezet: a közbeszerzésekről szóló 2015. évi CXLIII. törvény 5. § (1) bekezdése, valamint 7. § (1) és (2) bekezdése alapján ajánlatkérőnek minősülő szervezet,
 
 44. közszolgáltatás: az EUMSz 106. cikk (2) bekezdése szerinti általános gazdasági érdekű szolgáltatás,
 
@@ -192,6 +194,10 @@ d) az a)–c) alpont közül több pont együttes megvalósulása esetén a legk
 
 85. uniós szabvány: a 651/2014/EU bizottsági rendelet 2. cikk 102. pontja szerinti szabvány,
 
-86. válságtámogatás: az „Az állami támogatásokra vonatkozó, az Ukrajna elleni orosz agresszióval összefüggésben a gazdaság támogatását célzó ideiglenes válság- és átállási keret” című, 2023. március 17-i, 2023/C 101/03. számú európai bizottsági közlemény 2.1. szakasza szerinti támogatás,
+86.[^3]
 
 87. versenyeztetéses ajánlattételi eljárás: a 651/2014/EU bizottsági rendelet 2. cikk 38. pontja szerinti eljárás.
+
+[^1]: A 2. § nyitó szövegrésze a 3/2025. (III. 26.) KTM rendelet 6. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § 43a. pontját a 3/2025. (III. 26.) KTM rendelet 1. §-a iktatta be.
+[^3]: A 2. § 86. pontját a 3/2025. (III. 26.) KTM rendelet 7. § a) pontja hatályon kívül helyezte.

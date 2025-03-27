@@ -18,11 +18,16 @@ d) az Európai Unió működéséről szóló szerződés 107. és 108. cikkéne
 
 e) az Európai Unió működéséről szóló szerződés 106. cikke (2) bekezdésének az általános gazdasági érdekű szolgáltatások nyújtásával megbízott egyes vállalkozások javára közszolgáltatás ellentételezése formájában nyújtott állami támogatásra való alkalmazásáról szóló, 2011. december 20-i 2012/21/EU bizottsági határozat (HL L 7., 2012.1.11., 3. o.),
 
-f) az „Az állami támogatásokra vonatkozó, az Ukrajna elleni orosz agresszióval összefüggésben a gazdaság támogatását célzó ideiglenes válság- és átállási keret” című, 2023. március 17-i, 2023/C 101/03. számú európai bizottsági közlemény 2.1. szakasza
+f)[^15]
 
 hatálya alá tartozó támogatást tartalmaz.
 
-(4)[^18] E rendeletnek a fejezeti kezelésű előirányzatok és a központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 4/2024. (IV. 11.) KTM rendelet módosításáról szóló 12/2024. (XI. 6.) KTM rendelettel (a továbbiakban: Módr1.) megállapított 6. §-át, az 1. mellékletében foglalt táblázat G:3, G:4 és G:8 mezőjét, valamint az 1. mellékletében foglalt táblázat 9a. sorát a Módr1. hatálybalépése[^19] napján folyamatban lévő ügyekben is alkalmazni kell.
+(4)[^16] E rendeletnek a fejezeti kezelésű előirányzatok és a központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 4/2024. (IV. 11.) KTM rendelet módosításáról szóló 12/2024. (XI. 6.) KTM rendelettel (a továbbiakban: Módr1.) megállapított 6. §-át, az 1. mellékletében foglalt táblázat G:3, G:4 és G:8 mezőjét, valamint az 1. mellékletében foglalt táblázat 9a. sorát a Módr1. hatálybalépése[^17] napján folyamatban lévő ügyekben is alkalmazni kell.
 
-[^18]: A 65. § (4) bekezdését a 12/2024. (XI. 6.) KTM rendelet 8. §-a iktatta be.
-[^19]: A hatálybalépés időpontja 2024. november 7.
+(5)[^18] E rendeletnek a fejezeti kezelésű előirányzatok és a központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 4/2024. (IV. 11.) KTM rendeletnek a 2025. évi felhasználási szabályok megállapítására irányuló módosításáról szóló 3/2025. (III. 26.) KTM rendelettel (a továbbiakban: Módr2.) megállapított 2. § 43a. pontját, 6. §-át, valamint 1. mellékletét a Módr2. hatálybalépése[^19] napján folyamatban lévő ügyekben is alkalmazni kell.
+
+[^15]: A 65. § (3) bekezdés f) pontját a 3/2025. (III. 26.) KTM rendelet 7. § d) pontja hatályon kívül helyezte.
+[^16]: A 65. § (4) bekezdését a 12/2024. (XI. 6.) KTM rendelet 8. §-a iktatta be.
+[^17]: A hatálybalépés időpontja 2024. november 7.
+[^18]: A 65. § (5) bekezdését a 3/2025. (III. 26.) KTM rendelet 4. §-a iktatta be.
+[^19]: A hatálybalépés napja 2025. március 27.
