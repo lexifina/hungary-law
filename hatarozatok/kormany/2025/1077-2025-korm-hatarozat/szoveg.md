@@ -1,1 +1,0 @@
-A deregulációs tevékenység ösztönzéséről szóló 1649/2022. (XII. 22.) Korm. határozat 2. pontjában a „Katonai Nemzetbiztonsági Szolgálatot” szövegrész helyébe az „a nemzetbiztonsági szolgálatokat” szöveg lép.
