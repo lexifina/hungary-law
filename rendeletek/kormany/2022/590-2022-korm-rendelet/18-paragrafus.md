@@ -1,32 +1,3 @@
-18. § (1)[^31] A támogatás formája vissza nem térítendő támogatás. A projekt-előkészítési támogatás formája – ha az a közvetlen irányítású uniós program terhére elszámolható – visszatérítendő támogatás.
+18. §[^40]
 
-(2) A támogatás egyedi döntéssel pályázati úton vagy pályázati rendszeren kívül nyújtott támogatás formájában nyújtható.
-
-(3)[^32] A támogatás éves ütemezésben, a megítélt éves támogatási összeg 100%-át kitevő támogatási előlegként kerül kifizetésre. A támogatás éves összegét és a támogatásra vonatkozó egyedi feltételeket támogatói okirat, a (4) bekezdés a) pontja szerinti kedvezményezett esetében az Áht. 33. § (4) bekezdés b) pontja szerinti fejezetek közötti megállapodás határozza meg.
-
-(4) A támogatásban
-
-a) költségvetési szerv,
-
-b) nem költségvetési szervként működő közszféra szervezet kedvezményezett,
-
-c) helyi önkormányzat,
-
-d) önkormányzati társulás,
-
-e) egyesület,
-
-f) köztestület,
-
-g) egyházi jogi személy,
-
-h) alapítvány,
-
-i) közalapítvány és
-
-j) többségi állami tulajdonú, nonprofit gazdasági társaság
-
-részesülhet a közvetlen irányítású uniós program támogatásra számot tartó projektje megvalósításához.
-
-[^31]: A 18. § (1) bekezdése az 51/2024. (III. 4.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^32]: A 18. § (3) bekezdése a 339/2023. (VII. 25.) Korm. rendelet 47. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.
+[^40]: A 18. §-t az 58/2025. (III. 26.) Korm. rendelet 12. § e) pontja hatályon kívül helyezte.

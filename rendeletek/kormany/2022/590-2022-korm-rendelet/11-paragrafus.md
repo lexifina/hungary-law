@@ -12,7 +12,7 @@ b) a Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt 
 
 ba) a Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaságról szóló 197/2018. (X. 24.) Korm. rendeletben [a továbbiakban: 197/2018. (X. 24.) Korm. rendelet] meghatározott tevékenységekből eredően,
 
-bb) a 2014–2020 és a 2021–2027 közötti kohéziós politikai operatív programokhoz, valamint a vidékfejlesztési és halászati programokhoz kapcsolódóan,
+bb)[^26] a 2014–2020 és a 2021–2027 közötti kohéziós politikai operatív programokhoz kapcsolódóan,
 
 bc) az INTERREG Közösségi Kezdeményezés programokhoz kapcsolódóan,
 
@@ -24,9 +24,9 @@ bf) a Svájci Hozzájárulás támogatásból megvalósuló programokhoz, projek
 
 bg) az Európai Területi Együttműködés lebonyolításához kapcsolódóan,
 
-bh) a PHARE és Átmeneti támogatás programokhoz kapcsolódóan,
+bh)[^27] a PHARE és Átmeneti támogatás programokhoz kapcsolódóan, valamint
 
-bi) a közvetlen irányítású uniós programokhoz kapcsolódóan, valamint
+bi)[^28]
 
 c) a 13. § szerinti előirányzat felhasználásával kapcsolatos pénzügyi ellenőrzési feladatok finanszírozása. A feladat ellátásával a Kincstár bízható meg.
 
@@ -39,3 +39,7 @@ c) a 13. § szerinti előirányzat felhasználásával kapcsolatos pénzügyi el
 (5) Az időarányostól eltérő felhasználást – a szerződés módosításával – a támogató abban az esetben engedélyezi, ha a kedvezményezett a pénzforgalmi terve benyújtásával igazolja, hogy a költségvetési támogatás időarányos folyósítása a folyamatos működését veszélyeztetné.
 
 (6) A költségvetési támogatás a támogatási igény benyújtásakor már megkezdett vagy megvalósult tevékenységre is nyújtható.
+
+[^26]: A 11. § (1) bekezdés b) pont bb) alpontja az 58/2025. (III. 26.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.
+[^27]: A 11. § (1) bekezdés b) pont bh) alpontja az 58/2025. (III. 26.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
+[^28]: A 11. § (1) bekezdés b) pont bi) alpontját az 58/2025. (III. 26.) Korm. rendelet 12. § d) pontja hatályon kívül helyezte.

@@ -8,13 +8,13 @@ a) a fejezeten belüli átcsoportosítás,
 
 b) a fejezetek intézményei közötti, az intézménytől más fejezet fejezeti kezelésű előirányzatára irányuló, továbbá a fejezeti kezelésű előirányzatra vonatkozóan az előirányzat céljának, rendeltetésének megfelelő, megállapodáson alapuló, a kiemelt előirányzatok főösszegét nem érintő átcsoportosítás, valamint
 
-c)[^9] az Áht. 33. § (3a)–(7) bekezdése szerinti átcsoportosítás
+c)[^14] az Áht. 33. § (3a)–(7) bekezdése szerinti átcsoportosítás
 
 vonatkozásában a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy gyakorolja.
 
-(4)[^10] A Fejezeti általános tartalék előirányzat-átcsoportosítása a 15. § szerinti döntés alapján lehetséges.
+(4)[^15] A Fejezeti általános tartalék előirányzat-átcsoportosítása a 15. § szerinti döntés alapján lehetséges.
 
 (5) A fejezeti likviditást biztosító átcsoportosítás a kezelő szervek adatszolgáltatása alapján történik.
 
-[^9]: Az 5. § (3) bekezdés c) pontja az 51/2024. (III. 4.) Korm. rendelet 15. § b) pontja szerint módosított szöveg.
-[^10]: Az 5. § (4) bekezdése az 51/2024. (III. 4.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^14]: Az 5. § (3) bekezdés c) pontja az 51/2024. (III. 4.) Korm. rendelet 15. § b) pontja szerint módosított szöveg.
+[^15]: Az 5. § (4) bekezdése az 51/2024. (III. 4.) Korm. rendelet 2. §-ával megállapított szöveg.

@@ -6,9 +6,9 @@ a) szabálytalanságból, jogosulatlan forrásfelhasználásból adódó európa
 
 b) a követelések behajtása érdekében felmerülő költségek finanszírozására,
 
-c)[^21] ha a kedvezményezettnek vagy közvetítőnek fel nem róható okból valamely, a korábbiakban európai uniós forrásból finanszírozott támogatási vagy közvetítői szerződés részben vagy egészben nem finanszírozható európai uniós forrásból, de a szerződésben foglaltak megvalósításához nemzeti érdek fűződik,
+c)[^29] ha a kedvezményezettnek vagy közvetítőnek fel nem róható okból valamely, a korábbiakban európai uniós forrásból finanszírozott támogatási vagy közvetítői szerződés részben vagy egészben nem finanszírozható európai uniós forrásból, de a szerződésben foglaltak megvalósításához nemzeti érdek fűződik,
 
-d)[^22]
+d)[^30]
 
 e) szabálytalanságból, jogosulatlan forrásfelhasználásból adódó, a kedvezményezettet terhelő visszafizetési kötelezettség esetén a visszaköveteléssel érintett európai uniós forrásból finanszírozott költségvetési támogatás összege és a visszakövetelt összeg után fizetendő kamat megfizetésére, ha a projekt megvalósításához nemzeti érdek fűződik,
 
@@ -18,8 +18,11 @@ g) a közlekedési tárgyú projekteket megvalósító, 100%-ban állami tulajdo
 
 h) ha a 2007–2013 programozási időszakban európai uniós forrásra benyújtott kérelem szerinti agrár-vidékfejlesztési tevékenység támogatása már nem finanszírozható európai uniós forrásból, de jogorvoslati eljárás alapján a támogatásra való jogosultságot megállapítják, feltéve, hogy az az Európai Unió működéséről szóló szerződés (a továbbiakban: EUMSz) 107. cikkével összhangban nyújtható állami támogatásnak minősül.
 
-(2)[^23] Nem finanszírozható az előirányzat terhére az (1) bekezdés c) és e) pontja szerinti igény egyéni vállalkozó, egyéni cég vagy – 100%-os állami vagy önkormányzati tulajdonban lévő nonprofit gazdasági társaság kivételével – gazdasági társaság esetében.
+(2)[^31] Nem finanszírozható az előirányzat terhére az (1) bekezdés c) és e) pontja szerinti igény egyéni vállalkozó, egyéni cég vagy – 100%-os állami vagy önkormányzati tulajdonban lévő nonprofit gazdasági társaság kivételével – gazdasági társaság esetében.
 
-[^21]: A 14. § (1) bekezdés c) pontja a 339/2023. (VII. 25.) Korm. rendelet 57. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.
-[^22]: A 14. § (1) bekezdés d) pontját az 51/2024. (III. 4.) Korm. rendelet 16. § b) pontja hatályon kívül helyezte.
-[^23]: A 14. § (2) bekezdése a 339/2023. (VII. 25.) Korm. rendelet 56. § d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.
+(3)[^32] Nem finanszírozható az előirányzat terhére az (1) bekezdés e) pontja szerinti, szabálytalanságból eredő igény a szállítói szerződés nem szerződésszerű teljesítése következtében keletkezett el nem számolható költség esetén, ha a kedvezményezett hitelt érdemlően nem igazolta a szerződésszegésből fakadó jogainak érvényesítését.
+
+[^29]: A 14. § (1) bekezdés c) pontja a 339/2023. (VII. 25.) Korm. rendelet 57. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.
+[^30]: A 14. § (1) bekezdés d) pontját az 51/2024. (III. 4.) Korm. rendelet 16. § b) pontja hatályon kívül helyezte.
+[^31]: A 14. § (2) bekezdése a 339/2023. (VII. 25.) Korm. rendelet 56. § d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.
+[^32]: A 14. § (3) bekezdését az 58/2025. (III. 26.) Korm. rendelet 4. §-a iktatta be.

@@ -1,4 +1,4 @@
-15. § (1)[^24] Az előirányzat terhére történő finanszírozást az adott programért felelős irányító hatóság, nemzeti hatóság vagy a kifizető ügynökség kezdeményezi.
+15. § (1)[^33] Az előirányzat terhére történő finanszírozást az adott programért felelős irányító hatóság, nemzeti hatóság vagy a kifizető ügynökség kezdeményezi.
 
 (2) A tartalék felhasználására irányuló igényt a fejezetet irányító szerv részére kell megküldeni.
 
@@ -26,4 +26,4 @@ járul hozzá.
 
 (8) Az irányító hatóság a követeléskezelést a 14. § (1) bekezdés c) és e) pontja szerinti esetben a finanszírozási igényről történő döntés meghozataláig, a 14. § (1) bekezdés f) pontja szerinti esetben a jogerős határozat meghozataláig felfüggeszti.
 
-[^24]: A 15. § (1) bekezdése az 51/2024. (III. 4.) Korm. rendelet 16. § c) pontja szerint módosított szöveg.
+[^33]: A 15. § (1) bekezdése az 51/2024. (III. 4.) Korm. rendelet 16. § c) pontja szerint módosított szöveg.

@@ -2,7 +2,7 @@
 
 a) kötelezettségvállaló: a 75/2016. (IV. 5.) Korm. rendelet 18. §-a szerinti képviselő vagy az általa írásban kijelölt személy,
 
-b)[^67] pénzügyi ellenjegyző: a 75/2016. (IV. 5.) Korm. rendelet 18. §-a szerinti képviselő gazdasági vezetője vagy az általa írásban kijelölt személy,
+b)[^75] pénzügyi ellenjegyző: a 75/2016. (IV. 5.) Korm. rendelet 18. §-a szerinti képviselő gazdasági vezetője vagy az általa írásban kijelölt személy,
 
 c) teljesítésigazoló: a 75/2016. (IV. 5.) Korm. rendelet 18. §-a szerinti képviselő vagy az általa írásban kijelölt személy,
 
@@ -10,4 +10,4 @@ d) érvényesítő: a fejezetet irányító szerv gazdasági vezetője vagy az �
 
 e) utalványozó: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy.
 
-[^67]: A 65. § b) pontja a 339/2023. (VII. 25.) Korm. rendelet 56. § h) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.
+[^75]: A 65. § b) pontja a 339/2023. (VII. 25.) Korm. rendelet 56. § h) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.
