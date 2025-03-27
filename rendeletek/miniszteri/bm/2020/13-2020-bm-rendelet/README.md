@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-13-20-0
 | 2024-03-01 | 2020-13-20-0A.14 | 44/2020. (XII. 11.) BM rendelet |
 | 2024-10-01 | 2020-13-20-0A.15 | 44/2020. (XII. 11.) BM rendelet |
 | 2024-10-15 | 2020-13-20-0A.16 | 51/2024. (X. 14.) BM rendelet |
+| 2025-03-27 | 2020-13-20-0A.17 | 44/2020. (XII. 11.) BM rendelet |
