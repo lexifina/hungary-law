@@ -1,3 +1,3 @@
-11. §[^86]
+11. §[^87]
 
-[^86]: A 11. §-t a 69/2013. (XI. 19.) EMMI rendelet 2. §-a hatályon kívül helyezte.
+[^87]: A 11. §-t a 69/2013. (XI. 19.) EMMI rendelet 2. §-a hatályon kívül helyezte.
