@@ -32,6 +32,8 @@ b) azonos telephelyű ügyelet: ha az adott ügyeleti körhöz tartozó háziorv
 
 (8d)[^40] Az OMSZ által biztosított háziorvosi ügyelet hétköznap 22:00–08:00 óráig, hétvégén és ünnepnap 14:00–08:00 óráig tart.
 
+(8e)[^41] A (8a) bekezdés szerinti háziorvosi, házi gyermekorvosi ügyeletben az egészségügyi felsőfokú szakirányú szakképesítés megszerzéséről szóló 22/2012. (IX. 14.) EMMI rendelet 8/A. §-a szerinti háziorvosi gyakorlat ideje alatt a szakorvosjelölt közreműködhet. A szakorvosjelölt által ellátott ügyelet során a 12/A. §-ban foglaltakat kell figyelembe venni.
+
 (9) Az ügyeletet teljesítő orvos
 
 a) orvosi ellátásban részesíti
@@ -60,7 +62,7 @@ g) ellátja a halottakkal kapcsolatos rendelkezésekben előírt feladatokat.
 
 (10) Az ügyeletet teljesítő orvos gondoskodik arról, hogy a beteg kezelőorvosa megfelelő tájékoztatást kapjon az általa nyújtott ellátásról.
 
-(11)[^41] A hatóság megkeresésére végzett (9) bekezdés d) és e) pontja szerinti vizsgálatok elvégzését nyújtó egészségügyi szolgáltatókról az OMSZ az általános rendőrségi feladatok ellátására létrehozott szervet tájékoztatja.
+(11)[^42] A hatóság megkeresésére végzett (9) bekezdés d) és e) pontja szerinti vizsgálatok elvégzését nyújtó egészségügyi szolgáltatókról az OMSZ az általános rendőrségi feladatok ellátására létrehozott szervet tájékoztatja.
 
 [^32]: A 15. §-ának (1) bekezdéséből az „vagy készenlétet” szövegrész e rendelet 23. §-ának (4) bekezdése alapján 2006. december 31-én hatályát vesztette.
 [^33]: A 15. § (3) bekezdése e rendelet 23. §-ának (4) bekezdése alapján 2006. december 31-én hatályát vesztette.
@@ -71,4 +73,5 @@ g) ellátja a halottakkal kapcsolatos rendelkezésekben előírt feladatokat.
 [^38]: A 15. § (8b) bekezdését a 82/2022. (XII. 30.) BM rendelet 5. § (3) bekezdése iktatta be, szövege a 16/2023. (VI. 14.) BM rendelet 5. §-ával megállapított szöveg.
 [^39]: A 15. § (8c) bekezdését a 82/2022. (XII. 30.) BM rendelet 5. § (3) bekezdése iktatta be, szövege a 16/2023. (VI. 14.) BM rendelet 5. §-ával megállapított szöveg.
 [^40]: A 15. § (8d) bekezdését a 82/2022. (XII. 30.) BM rendelet 5. § (3) bekezdése iktatta be.
-[^41]: A 15. § (11) bekezdését a 23/2023. (VI. 30.) BM rendelet 18. §-a iktatta be.
+[^41]: A 15. § (8e) bekezdését a 9/2025. (III. 24.) BM rendelet 1. §-a iktatta be.
+[^42]: A 15. § (11) bekezdését a 23/2023. (VI. 30.) BM rendelet 18. §-a iktatta be.

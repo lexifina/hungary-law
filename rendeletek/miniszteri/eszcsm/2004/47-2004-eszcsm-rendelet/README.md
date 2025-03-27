@@ -30,3 +30,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-47-20-0
 | 2024-01-01 | 2004-47-20-0M.26 | 82/2022. (XII. 30.) BM rendelet |
 | 2024-03-01 | 2004-47-20-0M.28 | 7/2024. (II. 12.) BM rendelet |
 | 2024-10-01 | 2004-47-20-0M.29 | 82/2022. (XII. 30.) BM rendelet |
+| 2025-03-27 | 2004-47-20-0M.30 | 9/2025. (III. 24.) BM rendelet |
