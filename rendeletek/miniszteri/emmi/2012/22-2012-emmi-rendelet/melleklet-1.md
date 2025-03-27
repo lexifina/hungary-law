@@ -1,4 +1,4 @@
-1. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^87]
+1. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^92]
 
 1. Szakorvosi alap szakképesítések
 
@@ -12,15 +12,15 @@
 
 | 4. | Belgyógyászat | 60 hó | 2 |
 
-| 5. | Belgyógyászati angiológia | 54 hó | 2 |
+| 5. | Belgyógyászati angiológia | 55 hó | 2 |
 
 | 6. | Bőr-, nemigyógyászat és kozmetológia | 60 hó | 2 |
 
 | 7. | Csecsemő- és gyermekgyógyászat | 52 hó | 2 |
 
-| 8. | Érsebészet | 68 hó | 2 |
+| 8. | Érsebészet | 71 hó | 2 |
 
-| 9. | Foglalkozás-orvostan | 48 hó | 1 |
+| 9. | Foglalkozás-orvostan | 50 hó | 1 |
 
 | 10. | Fül-orr-gégegyógyászat | 60 hó | 2 |
 
@@ -28,25 +28,25 @@
 
 | 12. | Geriátria | 58 hó | 2 |
 
-| 13. | Gyermek- és ifjúságpszichiátria | 56 hó | 3 |
+| 13. | Gyermek- és ifjúságpszichiátria | 59 hó | 3 |
 
-| 14. | Gyermeksebészet | 72 hó | 3 |
+| 14. | Gyermeksebészet | 75 hó | 3 |
 
-| 15. | Háziorvostan | 36 hó | 1 |
+| 15. | Háziorvostan | 39 hó | 1 |
 
 | 16. | Hematológia | 48 hó | 2 |
 
 | 17. | Idegsebészet | 72 hó | 2 |
 
-| 18. | Igazságügyi orvostan | 54 hó | 3 |
+| 18. | Igazságügyi orvostan | 57 hó | 3 |
 
 | 19. | Infektológia | 55 hó | 3 |
 
 | 20. | Kardiológia | 60 hó | 2 |
 
-| 21. | Klinikai genetika | 48 hó | 1 |
+| 21. | Klinikai genetika | 51 hó | 1 |
 
-| 22. | Klinikai laboratóriumi genetika | 48 hó | 1 |
+| 22. | Klinikai laboratóriumi genetika | 51 hó | 1 |
 
 | 23. | Klinikai onkológia | 60 hó | 2 |
 
@@ -64,17 +64,17 @@
 
 | 30. | Orvosi laboratóriumi diagnosztika | 54 hó | 2 |
 
-| 31. | Orvosi mikrobiológia | 55 hó | 1 |
+| 31. | Orvosi mikrobiológia | 58 hó | 1 |
 
 | 32. | Oxyológia és sürgősségi orvostan | 60 hó | 2 |
 
-| 33. | Patológia | 60 hó | 3 |
+| 33. | Patológia | 62 hó | 3 |
 
-| 34. | Plasztikai és égés-sebészet | 70 hó | 2 |
+| 34. | Plasztikai és égés-sebészet | 73 hó | 2 |
 
 | 35. | Pszichiátria | 59 hó | 2 |
 
-| 36. | Radiológia | 59 hó | 1 |
+| 36. | Radiológia | 62 hó | 1 |
 
 | 37. | Rehabilitációs medicina | 52 hó | 2 |
 
@@ -84,13 +84,13 @@
 
 | 40. | Sugárterápia | 58 hó | 2 |
 
-| 41. | Szemészet | 48 hó | 2 |
+| 41. | Szemészet | 51 hó | 2 |
 
-| 42. | Szívsebészet | 72 hó | 2 |
+| 42. | Szívsebészet | 75 hó | 2 |
 
 | 43. | Szülészet-nőgyógyászat | 53 hó | 2 |
 
-| 44. | Transzfuziológia | 36 hó | 1 |
+| 44. | Transzfuziológia | 39 hó | 1 |
 
 | 45. | Tüdőgyógyászat | 58 hó | 2 |
 
@@ -348,4 +348,4 @@
 
 | 8. | 2.1. Molekuláris biológiai diagnosztika | klinikai mikrobiológia, klinikai biokémia | 24 hó |
 
-[^87]: Az 1. melléklet a 2/2013. (I. 2.) EMMI rendelet 36. § (1) bekezdése, a 69/2013. (XI. 19.) EMMI rendelet 12. § (1) bekezdése, a 14/2014. (III. 10.) EMMI rendelet 24. § a) pontja, a 34/2015. (VI. 30.) EMMI rendelet 25. § (1) bekezdés a) pontja, a 28/2016. (IX. 29.) EMMI rendelet 12. § (1) bekezdése, a 28/2018. (VIII. 29.) EMMI rendelet 10. § a)–b) pontja, 11. § a) pontja és 12. § b) pontja, az 57/2021. (XII. 27.) EMMI rendelet 6. § (1) bekezdése, a 28/2022. (VIII. 25.) BM rendelet 27. § (1) bekezdése, a 40/2023. (IX. 21.) BM rendelet 6. § (1) bekezdése, a 7/2024. (II. 12.) BM rendelet 19. § (1) bekezdése és 21. § a) pontja, a 45/2024. (IX. 26.) BM rendelet 2. § (1) bekezdése szerint módosított szöveg.
+[^92]: Az 1. melléklet a 2/2013. (I. 2.) EMMI rendelet 36. § (1) bekezdése, a 69/2013. (XI. 19.) EMMI rendelet 12. § (1) bekezdése, a 14/2014. (III. 10.) EMMI rendelet 24. § a) pontja, a 34/2015. (VI. 30.) EMMI rendelet 25. § (1) bekezdés a) pontja, a 28/2016. (IX. 29.) EMMI rendelet 12. § (1) bekezdése, a 28/2018. (VIII. 29.) EMMI rendelet 10. § a)–b) pontja, 11. § a) pontja és 12. § b) pontja, az 57/2021. (XII. 27.) EMMI rendelet 6. § (1) bekezdése, a 28/2022. (VIII. 25.) BM rendelet 27. § (1) bekezdése, a 40/2023. (IX. 21.) BM rendelet 6. § (1) bekezdése, a 7/2024. (II. 12.) BM rendelet 19. § (1) bekezdése és 21. § a) pontja, a 45/2024. (IX. 26.) BM rendelet 2. § (1) bekezdése, a 9/2025. (III. 24.) BM rendelet 8. § (1) bekezdése szerint módosított szöveg.

@@ -28,7 +28,7 @@
 
 | 13. | Infekciókontroll intenzív osztályos és műtői környezetben | x |  |  |  |  |  |  |
 
-2. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^90]
+2. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^95]
 
 Szakorvosi alap szakképzési programok
 
@@ -70,7 +70,7 @@ SZAKORVOS KÉPZÉS KÖVETELMÉNYRENDSZERE
 
 24 hó intenzív terápia:
 
-1.2.2.1. 12 hó multidiszciplináris intenzív osztályos gyakorlat (a 2 hét mentőgyakorlatnak megfelelő, elsajátítandó skillek az intenzív terápiás vagy a sürgősségi gyakorlat alatt teljesíthető)
+1.2.2.1.[^96] 10,5 hó multidiszciplináris intenzív osztályos gyakorlat (a 2 hét mentőgyakorlatnak megfelelő, elsajátítandó skillek az intenzív terápiás vagy a sürgősségi gyakorlat alatt teljesíthető)
 
 1.2.2.2. 6 hó egyetemi vagy akkreditált egyetemi oktatókórházban eltöltött multidiszciplináris intenzív gyakorlat
 
@@ -82,7 +82,7 @@ SZAKORVOS KÉPZÉS KÖVETELMÉNYRENDSZERE
 
 24 hó aneszteziológia:
 
-1.2.2.6. 10 hó általános sebészet (has, mellkas, érsebészet, sürgős műtétek anesztéziája)
+1.2.2.6.[^97] 8,5 hó általános sebészet (has, mellkas, érsebészet, sürgős műtétek anesztéziája)
 
 (ebből 4 hónap egyetemi vagy a grémium által akkreditált oktatókórházban töltendő)
 
@@ -103,6 +103,8 @@ SZAKORVOS KÉPZÉS KÖVETELMÉNYRENDSZERE
 1.2.2.14. 1 hét szakvizsgafelkészítő tanfolyam intenzív terápia
 
 1.2.2.15. 2 hét skill tréning
+
+1.2.2.16.[^98] 3 hó háziorvosi gyakorlat
 
 1.3. RÉSZVIZSGÁKRA BOCSÁTÁS FELTÉTELEI
 
@@ -216,9 +218,9 @@ SZAKORVOS KÉPZÉS KÖVETELMÉNYRENDSZERE
 
 1.3.2.1. A 2. részvizsga megnevezése: Felkészülést segítő szakgyakorlati vizsga (36 hónap szakgyakorlatot követően) a képzés szerint illetékes egyetemi vagy a grémium által erre akkreditált oktatókórházi képzőhelyen
 
-1.3.2.2. A 2. részvizsgával rendelkező által ellátható feladatok (kompetenciák):
+1.3.2.2.[^99] A 2. részvizsgával rendelkező által ellátható feladatok (kompetenciák):
 
-2X05945_1
+5X01253M.docx
 
 |  | A | B | C | D |
 
@@ -244,7 +246,7 @@ SZAKORVOS KÉPZÉS KÖVETELMÉNYRENDSZERE
 
 | 10. | Intubáció laryngoszkóp segítségével |  |  | X |  |  | 60 | X |
 
-| 11. | Intubáció videolaryngoszkóp segítségével Intubáció bronchoszkóp segítségével |  |  | X |  |  | 18 12 | X |
+| 11. | Intubáció videolaryngoszkóp segítségével Intubáció bronchoszkóp segítségével |  |  | X |  |  | 18-12 | X |
 
 | 12. | Perkután tracheosztómia |  |  |  | X |  | 6 | X |
 
@@ -260,7 +262,7 @@ SZAKORVOS KÉPZÉS KÖVETELMÉNYRENDSZERE
 
 | 18. | Lélegeztetett beteg transzportja, adekvát betegátadás |  |  | X |  |  | 12 | X |
 
-| 19. | Hemodinamikai állapot felmérése fizikális jelek noninvazív vagy invazív monitorozási eszközökkel, perctérfogat meghatározása |  |  | X |  |  | 30 10 | X |
+| 19. | Hemodinamikai állapot felmérése fizikális jelek noninvazív vagy invazív monitorozási eszközökkel, perctérfogat meghatározása |  |  | X |  |  | 30-10 | X |
 
 | 20. | RUSH, FAST protokoll szerinti ultrahang vizsgálat |  |  | X |  |  | 30 | X |
 
@@ -324,7 +326,7 @@ SZAKORVOS KÉPZÉS KÖVETELMÉNYRENDSZERE
 
 | 50. | Akut hasi sebészeti anesztézia |  |  | X |  |  | 50 | X |
 
-| 51. | Masszívan vérző beteg periprocedurális, aneszteziológiai ellátása |  |  | X |  |  | 10 10 | X |
+| 51. | Masszívan vérző beteg periprocedurális, aneszteziológiai ellátása |  |  | X |  |  | 10-10 | X |
 
 1.3.2.3. A részvizsga szervezésére vonatkozó speciális szempontok: 1 hetes kompetencia felmérő vizsga egyetemi vagy akkreditált oktatókórházi központban betegágy mellett vagy szimulációs központban
 
@@ -382,7 +384,7 @@ SZAKORVOS KÉPZÉS KÖVETELMÉNYRENDSZERE
 
 | 10. | Intubáció laryngoszkóp segítségével | X |  |  |  |  | 200 |
 
-| 11. | Intubáció videolaryngoszkóp bronchoszkóp segítségével | X |  |  |  |  | 30 20 |
+| 11. | Intubáció videolaryngoszkóp bronchoszkóp segítségével | X |  |  |  |  | 30-20[^100] |
 
 | 12. | Perkután tracheosztómia | X |  |  |  |  | 10 |
 
@@ -398,7 +400,7 @@ SZAKORVOS KÉPZÉS KÖVETELMÉNYRENDSZERE
 
 | 18. | Lélegeztetett beteg transzportja, adekvát betegátadás | X |  |  |  |  | 18 |
 
-| 19. | Hemodinamikai állapot felmérése fizikális jelek noninvazív, invazív monitorozási eszközökkel perctérfogat meghatározása | X |  |  |  |  | 50 15 |
+| 19. | Hemodinamikai állapot felmérése fizikális jelek noninvazív, invazív monitorozási eszközökkel perctérfogat meghatározása | X |  |  |  |  | 50-15[^101] |
 
 | 20. | RUSH, FAST protokoll szerinti ultrahang vizsgálat | X |  |  |  |  | 50 |
 
@@ -632,9 +634,9 @@ b) 24 hónap után
 
 3.2.2. Szakgyakorlati képzés 36 hónap
 
-3.2.2.1. Belgyógyászati osztályos gyakorlat (27 hónap), ebből
+3.2.2.1.[^102] Belgyógyászati osztályos gyakorlat (25 hónap), ebből
 
-3.2.2.1.1. 19 hó belgyógyászati osztályon gyakorlat
+3.2.2.1.1.[^103] 17 hó belgyógyászati osztályon gyakorlat
 
 3.2.2.1.2. 2 hó endokrinológia, anyagcsere betegségek osztályon gyakorlat
 
@@ -648,7 +650,7 @@ b) 24 hónap után
 
 3.2.2.2. 7 hó speciális fakultatív képzés (Osztályon vagy szakmaterületen: endokrin, anyagcsere betegségek, nefrrológia, hemato-onkológia, gasztroenterológia, kardiológia, pulmonológia, reumatológia, immunológia)
 
-3.2.2.3. 1 hó háziorvosi gyakorlat
+3.2.2.3.[^104] 3 hó háziorvosi gyakorlat
 
 3.2.2.4. 1 hó szakvizsga előkészítő tanfolyamok, benne
 
@@ -932,7 +934,7 @@ SZAKORVOS KÉPZÉS KÖVETELMÉNYRENDSZERE
 
 4.1.1. A szakképesítés megnevezése: Belgyógyászati Angiológia
 
-4.1.2. A szakképzés időtartama: 54 hó
+4.1.2.[^105] A szakképzés időtartama: 55 hó
 
 4.1.3. A szakképzési időtartam alatt teljesítendő részvizsgák száma: 2 db
 
@@ -968,7 +970,7 @@ b) 24 hónap után
 
 4.2.1.11. 1 hó hemato-onkológiai gyakorlat
 
-4.2.2. Szakgyakorlati képzés 30 hó,
+4.2.2.[^106] Szakgyakorlati képzés 31 hó,
 
 4.2.2.1. 15 hónap belgyógyászati angiológiai gyakorlat, ebből
 
@@ -976,7 +978,7 @@ b) 24 hónap után
 
 4.2.2.1.2. 3 hó belgyógyászati angiológia szakambulancia (benne noninvazív műszeres diagnosztika)
 
-4.2.2.2.15 hó speciális képzés, ebből
+4.2.2.2.[^107] 16 hó speciális képzés, ebből
 
 4.2.2.2.1. 2 hó érsebészeti osztályos gyakorlat (minimum 1 hónap III szintű centrumban)
 
@@ -988,13 +990,15 @@ b) 24 hónap után
 
 4.2.2.2.5. 1 hó stroke centrum
 
-4.2.2.2.6. 1 hó bőrgyógyászat, sebkezelési gyakorlat
+4.2.2.2.6.[^108] 2 hét bőrgyógyászat, sebkezelési gyakorlat
 
-4.2.2.2.7. 1 hó klinikai immunológia
+4.2.2.2.7.[^109] 2 hét klinikai immunológia
 
-4.2.2.2.8. 1 hó thrombosis-hemostasis
+4.2.2.2.8.[^110] 2 hét thrombosis-hemostasis
 
-4.2.2.2.9. 1 hó rehabilitáció
+4.2.2.2.9.[^111] 2 hét rehabilitáció
+
+4.2.2.2.10.[^112] 3 hó háziorvosi gyakorlat
 
 4.2.2.3. 1 hét angiológiai szakvizsgavelőkészítő tanfolyam elvégzése, szakmai konferencia részvétel a képzés alatt.
 
@@ -1302,15 +1306,15 @@ SZAKORVOS KÉPZÉS KÖVETELMÉNYRENDSZERE
 
 5.1.2. A szakképzés időtartama: 60 hó
 
-5.1.2.1. A szakképzés alatt teljesítendő alapképzés időtartama: 12 hó
+5.1.2.1.[^113] A szakképzés alatt teljesítendő alapképzés időtartama: 10,5 hó
 
-5.1.2.2. A szakképzés alatt teljesítendő szakgyakorlat időtartama: 48 hó
+5.1.2.2.[^114] A szakképzés alatt teljesítendő szakgyakorlat időtartama: 49,5 hó
 
 5.1.3. A szakképzési időtartam alatt teljesítendő részvizsgák száma: 2 db
 
 5.2. A SZAKKÉPZÉSI PROGRAM RÉSZLETEZÉSE
 
-5.2.1. Alapképzés 12 hó
+5.2.1.[^115] Alapképzés 10,5 hó
 
 5.2.1.1. 2 hó Sürgősségi osztályos gyakorlat
 
@@ -1318,11 +1322,11 @@ SZAKORVOS KÉPZÉS KÖVETELMÉNYRENDSZERE
 
 5.2.1.3. 2 hét Mentő gyakorlat
 
-5.2.1.4. 3 hó Belgyógyászat
+5.2.1.4.[^116] 1,5 hó Belgyógyászat
 
 5.2.1.5. 5 hó és 2 hét Bőrgyógyászat I. (fekvőbeteg ellátás)
 
-5.2.2. Szakgyakorlati képzés 48 hó
+5.2.2.[^117] Szakgyakorlati képzés 49,5 hó
 
 5.2.2.1. 2 hó Gyermekbőrgyógyászat
 
@@ -1338,7 +1342,7 @@ SZAKORVOS KÉPZÉS KÖVETELMÉNYRENDSZERE
 
 5.2.2.7. 2 hó Dermatopatológia
 
-5.2.2.8. 8 hó Általános bőrgyógyászati járóbeteg rendelés
+5.2.2.8.[^118] 6,5 hó Általános bőrgyógyászati járóbeteg rendelés
 
 5.2.2.9. 4 hó Bőrgyógyászati allergo-immunológia
 
@@ -1349,6 +1353,8 @@ SZAKORVOS KÉPZÉS KÖVETELMÉNYRENDSZERE
 5.2.2.12.2 hó Biológia terápia
 
 5.2.2.13. 2 hó Eszközök alkalmazása a diagnosztikában és terápiában
+
+5.2.2.14.[^119] 3 hó háziorvosi gyakorlat
 
 5.2.3. Tematikus elméleti képzési elemek évente:
 
@@ -1472,433 +1478,28 @@ c) A vizsgafeladat értékelésének szempontjai: Az elméleti tudásszint megí
 
 5.3.2.4. A 2. részvizsgával rendelkező által ellátható feladatok (kompetenciák):
 
-|  | A | B | C | D |
-
-| 1. | Kompetencia megnevezése | Szintezés | A részvizsgáig minimálisan szükséges, elvégzett tevékenység, beavatkozás szám | Egyetemi klinikán kívül, akkreditált képzőhelyen is elvégezhető |
-
-| I. | II. | III. | IV. | V. |
-
-| 2. | Sebészeti beavatkozások |  |  |  |  |  |  |  |
-
-| 3. | Helyi infiltrációs érzéstelenítés |  | X |  |  |  | 10 | X |
-
-| 4. | Elektrokauter használata felületes benignus léziók eltávolítására vagy elektrodesiccatiójára | X |  |  |  |  | 10 | X |
-
-| 5. | Cryotherapia | X |  |  |  |  | 15 | X |
-
-| 6. | Bőrhiány fedése autolog félvastag-bőrtranszplantációt vagy bőrlebenyt alkalmazva |  |  |  |  | X | 2 | X |
-
-| 7. | Jóindulatú bőr, illetve bőr alatti elváltozás kimetszése és a defektus zárása |  |  | X |  |  | 10 | X |
-
-| 8. | Basalioma vagy egyéb malignus bőrelváltozás kimetszése és a defektus zárása |  |  | X |  |  | 10 | X |
-
-| 9. | Nyirokcsomó eltávolítás - sentinel vagy blokk dissectio - asszisztálás |  |  |  |  | X | 3 | X |
-
-| 10. | Benőtt köröm műtéti kezelése |  |  |  | X |  | 2 | X |
-
-| 11. | Ablatív lézer használata benignus bőrelváltozások eltávolítására |  |  | X |  |  | 2 | X |
-
-| 12. | Sebellátás |  |  |  |  |  |  |  |
-
-| 13. | Krónikus sebre a seb állapotának megfelelő sebfedő vagy kezelés megválasztása |  |  | X |  |  | 2 | X |
-
-| 14. | Sebtisztítás: debridement, kisebb (4-5 cm átmérőnél nem nagyobb) necrotikus szövet eltávolítás |  | X |  |  |  | 4 | X |
-
-| 15. | 10% alatti égés ellátása |  | X |  |  |  | 3 | X |
-
-| 16. | vérzéscsillapítás tamponálással vagy kötéssel | X |  |  |  |  | 3 | X |
-
-| 17. | Esztétikai beavatkozások |  |  |  |  |  |  |  |
-
-| 18. | Ráncfeltöltés és volumenpótlás az arcon és a test egyéb régióiban hialuronsavval és más alloplasztikus anyaggal (tűvel és magas nyomású pisztollyal) |  |  |  |  | X | 1 | X |
-
-| 19. | Hyperhidrosis és ráncok botulinum toxin kezelése |  |  |  |  | X | 1 | X |
-
-| 20. | Scleroterápia |  |  |  |  | X | 1 | X |
-
-| 21. | Tűvel végzett mezoterápia és más tűs hatóanyagbevitel, mikrotűs radiófrekvencia, PRP |  |  | X |  |  | 1 | X |
-
-| 22. | Mechanikus vagy laseres ablatív hám és irha eltávolítása (dermabrasio, laser peeling, frakcionált lézerkezelés, kémiai peelingek glikolsav 20%, TAC 15% vagy afeletti koncentrációban) |  |  |  |  | X | 2 |  |
-
-| 23. | Hegkezelés intrafokális injekcióval, lézer, IPL, nagy energiájú LED fényforrással, plazmával vagy más energiaalapú eszközzel (EBD) |  |  | X |  |  | 2 | X |
-
-| 24. | Nonablatív lézeres, IPL és nagyenergiájú LED kezelések |  |  |  | X |  | 3 | X |
-
-| 25. | Ér eredetű elváltozások non-ablatív lézeres, IPL és tűs RF kezelése |  |  |  | X |  | 1 | X |
-
-| 26. | Hisztopatológia |  |  |  |  |  |  |  |
-
-| 27. | Dokumentált bőrszövettani leírás |  |  |  | X |  | 5 | X |
-
-| 28. | Immunfluoreszcens hisztológia dokumentált értékelése |  |  |  | X |  | 4 |  |
-
-| 29. | Diagnosztikus eljárások |  |  |  |  |  |  |  |
-
-| 30. | Punch biopsia |  | X |  |  |  | 5 | X |
-
-| 31. | Shave biopsia |  | X |  |  |  | 10 | X |
-
-| 32. | Excochleatio |  | X |  |  |  | 10 | X |
-
-| 33. | Dermatoszkópos vizsgálat |  | X |  |  |  | MALIGNUS 30 BENIGNUS 10 | X |
-
-| 34. | Videodermatoszkópos vizsgálat |  | X |  |  |  | 5 | X |
-
-| 35. | STI mintavétel férfitól | X |  |  |  |  | 10 | X |
-
-| 36. | STI mintavétel nőtől | X |  |  |  |  | 10 | X |
-
-| 37. | Gram-festett vaginális és urethrális kenet értékelése |  | X |  |  |  | 15 | X |
-
-| 38. | Alsóvégtag vizsgálat kézi Dopplerrel |  |  |  | X |  | 5 | X |
-
-| 39. | Mikroszkópos gombavizsgálat | X |  |  |  |  | 5 | X |
-
-| 40. | Epikután bőrpróbák kivitelezése és értékelése |  |  | X |  |  | 5 | X |
-
-| 41. | Intrakután bőrpróbák kivitelezése és értékelése |  |  | X |  |  | 2 | X |
-
-| 42. | Prick teszt kivitelezése és értékelése |  |  | X |  |  | 4 | X |
-
-| 43. | Speciális terápiák |  |  |  |  |  |  |  |
-
-| 44. | 311 nm UVB teljes test fényterápia kivitelezése |  | X |  |  |  | 5 | X |
-
-| 45. | PUVA teljes test fényterápia kivitelezése |  | X |  |  |  | 5 | X |
-
-| 46. | Gyulladásos kórképek biológiai terápiájában való részvétel |  |  |  |  | X | 2 | X |
-
-| 47. | Daganat célzott- és immunterápiájában való részvétel |  |  |  |  | X | 5 | X |
-
-5.3.2.5. A 2. részvizsga szervezésére vonatkozó speciális szempontok:
-
-a) Tárgyi feltételei: általános bőrgyógyászati osztály feltételei
-
-b) Személyi feltételei: gyakorlati vizsga saját tutorral
-
-5.3.2.6. A 2. részvizsga feladatai:
-
-5.3.2.6.1. Eredeti munkakörnyezetben végzett gyakorlati vizsgafeladat
-
-a) A vizsgafeladat súlyaránya: 50%.
-
-b) A vizsgafeladat megoldására rendelkezésre álló időtartam: 60 perc.
-
-c) A vizsgafeladat értékelésének szempontjai: A leggyakoribb bőrgyógyászati esetek fekvő és járó beteg ellátása, különös tekintettel: pigmentált léziók differenciál diagnosztikája, benignus léziók bőrsebészeti ellátása, sebészeti technikák elsajátítása.
-
-d) A vizsgához kapcsolódóan gyakorlati részfeladat végrehajtása a tutor előtt.
-
-e) A vizsgafeladat kapcsán minimálisan 5 db kompetenciát kell megmérni, ezek közül 3 sebészi az 5.3.2.4. pont alapképzésre vonatkozó része a kompetencia listából.
-
-5.3.2.6.2. Szóbeli vizsgafeladat
-
-a) A vizsgafeladat súlyaránya: 50%.
-
-b) A vizsgafeladat megoldására rendelkezésre álló időtartam: 60 perc.
-
-c) A vizsgafeladat értékelésének szempontjai: Az elméleti tudásszint megítélése általános bőrgyógyászati diagnosztika és terápia, a bőrsebészet és bőrgyógyászati onkológia témakörben, valamint az aktuális év rezidensképzéseinek tematikája.
-
-5.4. SZAKVIZSGA LEÍRÁSA
-
-5.4.1. A szakvizsga megnevezése: Bőr-, nemigyógyász és kozmetológus szakvizsga
-
-5.4.2. A szakvizsga teljesítésének feltételei:
-
-5.4.2.1. az 1. és 2. részvizsgák sikeres teljesítése:
-
-a) a képzési terv maradéktalan teljesítése, a kompetencia listában szereplő beavatkozások bizonyított legalább II. szintű teljesítése,
-
-b) kötelező továbbképzési elemek igazolt elvégzése (az alapelemeken kívül legalább 2 esztétikai gyakorlati kurzuson részvétel),
-
-c) egy elsőszerzős publikáció folyóirat általi elfogadása,
-
-d) az 5.4.2.2. pontban foglalt táblázat szerinti beavatkozások, eljárások teljesítése.
-
-5.4.2.2.
-
-|  | A | B | C |
-
-| 1. | Tevékenység, beavatkozás megnevezése | A szakvizsgáig minimálisan szükséges elvégzett tevékenység, beavatkozás megnevezése, száma | Asszisztálás vagy részvétel |
-
-| 2. | Sebészeti beavatkozások |  |  |
-
-| 3. | Helyi infiltrációs érzéstelenítés | 20 |  |
-
-| 4. | Elektrokauter használata felületes benignus léziók eltávolítására vagy elektrodesiccatiójára | 10 |  |
-
-| 5. | Cryotherapia (pl verruca) | 20 |  |
-
-| 6. | Excochleatio | 20 |  |
-
-| 7. | Bőrfertőzés inciziója, drainálása | 2 |  |
-
-| 8. | Bőrhiány fedése autolog félvastag-bőrtranszplantációt vagy bőrlebenyt alkalmazva | 0 | 3 |
-
-| 9. | Jóindulatú bőr, illetve bőr alatti elváltozás kimetszése és a defektus zárása | 20 |  |
-
-| 10. | Basalioma, vagy egyéb malignus bőrelváltozás kimetszése és a defektus zárása | 10 | 20 |
-
-| 11. | Nyirokcsomó eltávolítás - sentinel vagy blokk dissectio | 0 | 5 |
-
-| 12. | Benőtt köröm műtéti kezelése | 0 | 5 |
-
-| 13. | Ablatív lézer használata benignus bőrelváltozások eltávolítására | 5 | 10 |
-
-| 14. | Sebellátás |  |  |
-
-| 15. | Krónikus sebre a seb állapotának megfelelő sebfedő vagy kezelés megválasztása | 5 |  |
-
-| 16. | Sebtisztítás: debridement, kisebb (4-5 cm átmérőnél nem nagyobb) necrotikus szövet eltávolítás | 5 |  |
-
-| 17. | 10% alatti égés ellátása | 5 |  |
-
-| 18. | vérzéscsillapítás tamponálással vagy kötéssel | 5 |  |
-
-| 19. | Esztétikai beavatkozások |  |  |
-
-| 20. | Ráncfeltöltés és volumenpótlás az arcon és a test egyéb régióiban hialuronsavval és más alloplasztikus anyaggal (tűvel és magas nyomású pisztollyal) | 3 | 3 |
-
-| 21. | Hyperhidrosis és ráncok botulinum toxin kezelése | 3 | 3 |
-
-| 22. | Scleroterápia | 3 | 3 |
-
-| 23. | Tűvel végzett mezoterápia és más tűs hatóanyagbevitel, mikrotűs radiófrekvencia, PRP | 3 | 3 |
-
-| 24. | Threadlifting (szálbehúzás) | 2 | 3 |
-
-| 25. | Mechanikus vagy laseres ablatív hám és irha eltávolítása (dermabrasio, laser peeling, frakcionált lézerkezelés) | 2 | 2 |
-
-| 26. | Kémiai peelingek (glikolsav 20%, TAC 15% vagy afeletti koncentrációban) | 3 | 3 |
-
-| 27. | Hegkezelés intrafokális injekcióval, lézer, IPL, nagy energiájú LED fényforrással, plazmával vagy más energiaalapú eszközzel (EBD) | 5 | 10 |
-
-| 28. | Nonablatív lézeres, IPL és nagyenergiájú LED kezelések | 5 | 10 |
-
-| 29. | Ér eredetű elváltozások non-ablatív lézeres, IPL és tűs RF kezelése | 5 | 5 |
-
-| 30. | Hisztopatológia |  |  |
-
-| 31. | Dokumentált bőrszövettani leírás | 20 |  |
-
-| 32. | Immunfluoreszcens hisztológia dokumentált értékelése | 10 |  |
-
-| 33. | Diagnosztikus eljárások |  |  |
-
-| 34. | Punch biopsia | 10 |  |
-
-| 35. | Shave biopsia | 10 |  |
-
-| 36. | Excisionális biopsia | 10 |  |
-
-| 37. | STI mintavétel férfitől | 20 |  |
-
-| 38. | STI mintavétel nőtől | 20 |  |
-
-| 39. | Gram-festett vaginalis és urethralis kenet mikroszkópos értékelése | 30 |  |
-
-| 40. | Dermatoszkópos vizsgálat | 50 malignus 25 benignus |  |
-
-| 41. | Videodermatoszkópos vizsgálat | 10 |  |
-
-| 42. | Alsóvégtag vizsgálat kézi Dopplerrel | 10 |  |
-
-| 43. | Mikroszkópos gombavizsgálat | 10 |  |
-
-| 44. | Epikután bőrpróbák kivitelezése és értékelése | 20 |  |
-
-| 45. | Intrakután bőrpróbák kivitelezése és értékelése | 5 |  |
-
-| 46. | Prick teszt kivitelezése és értékelése | 10 |  |
-
-| 47. | Minimális eritéma dózis (MED) meghatározása és értékelése | 10 |  |
-
-| 48. | Speciális terápiák |  |  |
-
-| 49. | 311 nm UVB teljes test fényterápia kivitelezése | 5 |  |
-
-| 50. | PUVA teljes test fényterápia kivitelezése | 5 |  |
-
-| 51. | Gyulladásos kórképek biológiai terápiájában való részvétel | 0 | 20 |
-
-| 52. | Daganat célzott- és immunterápiájában való részvétel | 0 | 20 |
-
-5.4.3. A szakvizsgával rendelkező által ellátható feladatok (kompetenciák):
-
-|  | A | B |
-
-| 1. | Kompetencia megnevezése | Szintezés |
-
-| 2. | az 5.3.1.3. pontban foglalt kompetenciák | I. |
-
-| 3. | az 5.3.2.4. pontban foglalt kompetenciák | I. |
-
-| 4. | az 5.4.2.2. pontban foglalt kompetenciák | I. |
-
-5.4.4. A Szakvizsga szervezésére vonatkozó speciális szempontok:
-
-5.4.4.1. Eredeti munkakörnyezetben végzett gyakorlati vizsgafeladat
-
-a) A vizsgafeladat súlyaránya: 50%.
-
-b) A vizsgafeladat megoldására rendelkezésre álló időtartam: témakörönként 60 perc (Allergológia-Immunológia, Biológiai terápia, Bőrsebészet, Dermatoonkológia, Dermatoscopia, Esztétika, Farmakológia, Flebológia, Fotodermatológia, Gyermekbőrgyógyászat, Hisztopatológia, Mikológia, STI).
-
-c) A vizsgafeladat kapcsán témakörönként minimálisan 2 db kompetenciát kell megmérni, egy-egy szubspecialitásból, amelyek az 5.3.1.3., 5.3.2.4., és az 5.4.2.2. pont szerinti kompetencia listában szerepelnek.
-
-5.4.4.2. Szóbeli vizsgafeladat
-
-a) A vizsgafeladat súlyaránya: 50%. A vizsgafeladat megoldására rendelkezésre álló időtartam: 90 perc
-
-b) A vizsgafeladat értékelésének szempontjai: A bőr- és nemigyógyászati betegségek tünettanának, differenciáldiagnosztikájának, diagnosztikájának és terápiájának, valamint kozmetológiai problémák megoldási lehetőségeinek számonkérése.
-
-6. CSECSEMŐ- ÉS GYERMEKGYÓGYÁSZAT
-
-SZAKORVOS KÉPZÉS KÖVETELMÉNYRENDSZERE
-
-6.1. A SZAKKÉPESÍTÉS ADATAI
-
-6.1.1. A szakképesítés megnevezése: Csecsemő- és gyermekgyógyászat
-
-6.1.2. A szakképzés időtartama: 52 hó
-
-6.1.3. A szakképzési időtartam alatt teljesítendő részvizsgák száma: 2 db
-
-6.2. A SZAKKÉPZÉSI PROGRAM RÉSZLETEZÉSE
-
-6.2.1. Alapképzés 16 hó
-
-6.2.1.1. 4 hó gyermeksürgősségi gyakorlat
-
-6.2.1.2. 6 hó csecsemő- és gyermekgyógyászati gyakorlat (ebből kötelezően legalább 2-4 hét fül-orr-gége osztályon és 3 hó a progresszivitás I. vagy II. szintjén lévő csecsemő- és gyerekosztályon töltendő el)
-
-6.2.1.3. 2 hó egészséges újszülött osztály
-
-6.2.1.4. 1 hó képalkotó diagnosztika
-
-6.2.1.5. 2 hó házi gyermekorvosi gyakorlat
-
-6.2.1.6. EPALS tanfolyam elvégzése (3 nap)
-
-6.2.1.7. 2 hét mentőgyakorlat
-
-6.2.2. Szakgyakorlati képzés 36 hó
-
-6.2.2.1. 3 hó egészséges és patológiás újszülött osztályos gyakorlat (PIC, NIC)
-
-6.2.2.2. 3 hó gyermek-kardiológiai gyakorlat
-
-6.2.2.3. 3 hó gyermek-pulmonológiai és allergológiai gyakorlat
-
-6.2.2.4. 3 hó gyermek-neurológiai gyakorlat
-
-6.2.2.5. 3 hó gyermek-nefrológiai gyakorlat
-
-6.2.2.6. 3 hó gyermek haemato-onkológiai gyakorlat
-
-6.2.2.7. 3 hó gyermek-gasztroenterológiai gyakorlat, ebből lehetőség szerint 1 hó gyermek-hepatológia
-
-6.2.2.8. 3 hó gyermek-endokrinológiai és diabetológiai gyakorlat
-
-6.2.2.9. 3 hó gyermek infektológiai és immunológiai gyakorlat
-
-6.2.2.10. 2 hó gyermeksebészeti gyakorlat
-
-6.2.2.11. 3 hó gyermekintenzív osztályos gyakorlat
-
-6.2.2.12. 1 hó gyermek- és ifjúságpszichiátriai gyakorlat
-
-6.2.2.13. 3 hó szabadon választott szakterület a csecsemő- és gyermekgyógyászatból a szakgyakorlat utolsó 3 hónapjában
-
-6.3. A RÉSZVIZSGÁRA BOCSÁTÁS FELTÉTELEI
-
-6.3.1. Az 1. részvizsga leírása
-
-6.3.1.1. A részvizsgára bocsátás feltételei: a 6.2.1.1–6.2.1.5. pont szerinti képzési elemek teljesítése
-
-6.3.1.2. A 1. részvizsga megnevezése: Alapképzést lezáró részvizsga
-
-6.3.1.3. Az 1. részvizsgával rendelkező által ellátható feladatok (kompetenciák):
-
-|  | A | B | C | D |
-
-| 1. | Kompetencia megnevezése | Szintezés | A részvizsgáig minimálisan szükséges, elvégzett tevékenység, beavatkozás szám | Egyetemi klinikán kívül, akkreditált képzőhelyen is elvégezhető |
-
-| I. | II. | III. | IV. | V. |
-
-| 2. | Egészséges újszülött ellátása |  | X |  |  |  | 5 | X |
-
-| 3. | Apgar score |  | X |  |  |  | 5 | X |
-
-| 4. | Csecsemő és gyermek vizsgálata | X |  |  |  |  | 150 | X |
-
-| 5. | Speciális (gondozott, krónikus) betegek vizsgálata (onkológiai, hematológiai, krónikus máj, bélrendszeri beteg, neurológiai, pulmonológiai, nefrológiai, kardiológiai) |  |  | X |  |  | 50 | X |
-
-| 6. | Diagnosztikus terv készítése |  | X |  |  |  | 50 | X |
-
-| 7. | Terápiás terv készítése |  |  | X |  |  | 20 | X |
-
-| 8. | Lázlap önálló vezetése |  | X |  |  |  | 50 | X |
-
-| 9. | Vénabiztosítás, vérvétel | X |  |  |  |  | 50 | X |
-
-| 10. | Maszkos-ballonos lélegeztetés | X |  |  |  |  | 2 (skill laborban: 5) | X |
-
-| 11. | Fültükri vizsgálat, fültükri kép megítélése |  | X |  |  |  | 20 | X |
-
-| 12. | Fájdalomcsillapítás beavatkozásokhoz |  |  |  | X |  | 10 | X |
-
-| 13. | Légútbiztosítás (pozícionálás, OP, NP használat, váladékleszívás) | X |  |  |  |  | 5 | X |
-
-| 14. | Lumbalpunctio, illetve ebben aktív részvétel (vagy skill laborban) |  | X |  |  |  | 5 (skill laborban: 5) | X |
-
-| 15. | Zárójelentés összeállítása |  | X |  |  |  | 25 | X |
-
-| 16. | EKG önálló elkészítése és elemzése |  | X |  |  |  | 50 | X |
-
-| 17. | Vérgáz analízis |  | X |  |  |  | 30 | X |
-
-| 18. | Folyadékterápia megtervezése és kivitelezése |  | X |  |  |  | 30 | X |
-
-| 19. | Vérnyomás-testsúly-testmagasság mérés és BMI számítás (ebből legalább 15 csecsemő és itt fejkörfogat mérés is) | X |  |  |  |  | 50 | X |
-
-| 20. | Növekedés és fejlődés, percentilis görbék alkalmazása | X |  |  |  |  | 50 | X |
-
-| 21. | Otoscopos vizsgálat |  | X |  |  |  | 10 | X |
-
-| 22. | Defibrillátor használatának ismerete, legalább skill laborban gyakorlása |  | X |  |  |  | 3 | X |
-
-6.3.1.4. Az 1. részvizsga szervezésére vonatkozó speciális szempontok:
-
-6.3.1.4.1. Tárgyi feltételei: általános újszülött és gyermekgyógyászati osztály feltételei
-
-6.3.1.5. Az 1. részvizsga feladatai:
-
-6.3.1.5.1. Eredeti munkakörnyezetben végzett gyakorlati vizsgafeladat
-
-a) A vizsgafeladat súlyaránya: 50 %.
-
-b) A vizsgafeladat megoldására rendelkezésre álló időtartam: 90 perc.
-
-c) A vizsgafeladat értékelésének szempontjai: Az általános csecsemő- és gyermek ellátás gyakorlati alapjai (anamnézis felvétel, betegvizsgálat, diagnosztikus és terápiás terv készítése).
-
-d) A vizsgához kapcsolódóan gyakorlati részfeladat végrehajtása (EKG elemzés, vérgáz elemzés, vérvétel, branül behelyezés, otoscopos vizsgálat, folyadékterápia megtervezése, percentilis görbe használata, vérnyomás-testsúly-testmagasság mérés és BMI számítás). Gyógyszerek dózisának kiszámítása, intravénás gyógyszerek összeállítása, infúzióban adagolható gyógyszerelés kiszámítása, összeállítása.
-
-e) A vizsgafeladat kapcsán minimálisan 5 db kompetenciát kell megmérni a 6.3.1.3. és a 6.5. pont szerinti 15 hónapos alapképzésre vonatkozó része a kompetencia listából.
-
-6.3.1.5.2. Szóbeli vizsgafeladat
-
-a) vizsgafeladat súlyaránya: 50 %.
-
-b) A vizsgafeladat megoldására rendelkezésre álló időtartam: 60 perc.
-
-c) A vizsgafeladat értékelésének szempontjai: Az elméleti tudásszint megítélése. Alapvetően a VI. éves szigorlati tételsor alapján általános csecsemő- és gyermekgyógyászati ismeretek, köztük az egészséges újszülött ellátásának elvei és az újszülött-, csecsemő és gyermek újraélesztés alapjai.
-
-6.3.2. Az 2. részvizsga leírása
-
-6.3.2.1. A 2. részvizsga megnevezése: Szakképzési részvizsga
-
-6.3.2.2. A részvizsgára bocsátás feltételei: összesen 36 hónap teljesítése a képzésből
-
-6.3.2.3.[^91] A 2. részvizsgával rendelkező által ellátható feladatok (kompetenciák):
-
-[^90]: A 2. melléklet a 28/2022. (VIII. 25.) BM rendelet 27. § (4) bekezdésével megállapított szöveg.
-[^91]: A 2. melléklet 6. alcím 6.3. pont 6.3.2.3. alpontjában foglalt táblázat a 40/2023. (IX. 21.) BM rendelet 6. § (2) bekezdése szerint módosított szöveg.
+[^95]: A 2. melléklet a 28/2022. (VIII. 25.) BM rendelet 27. § (4) bekezdésével megállapított szöveg.
+[^96]: A 2. melléklet 1.2.2.1. pontja a 9/2025. (III. 24.) BM rendelet 9. § 1. pontja szerint módosított szöveg.
+[^97]: A 2. melléklet 1.2.2.6. pontja a 9/2025. (III. 24.) BM rendelet 9. § 2. pontja szerint módosított szöveg.
+[^98]: A 2. melléklet 1.2.2. pont 1.2.2.16. alpontját a 9/2025. (III. 24.) BM rendelet 8. § (2) bekezdése iktatta be.
+[^99]: A 1.3.2.2. pontjában foglalt táblázat a 9/2025. (III. 24.) BM rendelet 9. § 3–5. pontja szerint módosított szöveg.
+[^100]: A 2. melléklet 1.4.2. pontjában foglalt táblázat C:11 mezője a 9/2025. (III. 24.) BM rendelet 9. § 6. pontja szerint módosított szöveg.
+[^101]: A 2. melléklet 1.4.2. pontjában foglalt táblázat C:19 mezője a 9/2025. (III. 24.) BM rendelet 9. § 7. pontja szerint módosított szöveg.
+[^102]: A 2. melléklet 3.2.2.1. pontja a 9/2025. (III. 24.) BM rendelet 9. § 8. pontja szerint módosított szöveg.
+[^103]: A 2. melléklet 3.2.2.1.1. pontja a 9/2025. (III. 24.) BM rendelet 9. § 9. pontja szerint módosított szöveg.
+[^104]: A 2. melléklet 3.2.2.3. pontja a 9/2025. (III. 24.) BM rendelet 9. § 10. pontja szerint módosított szöveg.
+[^105]: A 2. melléklet 4.1.2. pontja a 9/2025. (III. 24.) BM rendelet 9. § 11. pontja szerint módosított szöveg.
+[^106]: A 2. melléklet 4.2.2. pontja a 9/2025. (III. 24.) BM rendelet 9. § 12. pontja szerint módosított szöveg.
+[^107]: A 2. melléklet 4.2.2.2. pontja a 9/2025. (III. 24.) BM rendelet 9. § 13. pontja szerint módosított szöveg.
+[^108]: A 2. melléklet 4.2.2.2.6. pontja a 9/2025. (III. 24.) BM rendelet 9. § 14. pontja szerint módosított szöveg.
+[^109]: A 2. melléklet 4.2.2.2.7. pontja a 9/2025. (III. 24.) BM rendelet 9. § 15. pontja szerint módosított szöveg.
+[^110]: A 2. melléklet 4.2.2.2.8. pontja a 9/2025. (III. 24.) BM rendelet 9. § 16. pontja szerint módosított szöveg.
+[^111]: A 2. melléklet 4.2.2.2.9. pontja a 9/2025. (III. 24.) BM rendelet 9. § 17. pontja szerint módosított szöveg.
+[^112]: A 2. melléklet 4.2.2.2. pont 4.2.2.2.10. alpontját a 9/2025. (III. 24.) BM rendelet 8. § (2) bekezdése iktatta be.
+[^113]: A 2. melléklet 5.1.2.1. pontja a 9/2025. (III. 24.) BM rendelet 9. § 18. pontja szerint módosított szöveg.
+[^114]: A 2. melléklet 5.1.2.2. pontja a 9/2025. (III. 24.) BM rendelet 9. § 19. pontja szerint módosított szöveg.
+[^115]: A 2. melléklet 5.2.1. pontja a 9/2025. (III. 24.) BM rendelet 9. § 20. pontja szerint módosított szöveg.
+[^116]: A 2. melléklet 5.2.1.4. pontja a 9/2025. (III. 24.) BM rendelet 9. § 21. pontja szerint módosított szöveg.
+[^117]: A 2. melléklet 5.2.2. pontja a 9/2025. (III. 24.) BM rendelet 9. § 22. pontja szerint módosított szöveg.
+[^118]: A 2. melléklet 5.2.2.8. pontja a 9/2025. (III. 24.) BM rendelet 9. § 23. pontja szerint módosított szöveg.
+[^119]: A 2. melléklet 5.2.2. pont 5.2.2.14. alpontját a 9/2025. (III. 24.) BM rendelet 8. § (2) bekezdése iktatta be.
