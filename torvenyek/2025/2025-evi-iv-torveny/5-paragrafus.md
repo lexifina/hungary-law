@@ -1,0 +1,1 @@
+5. § Az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény 2. §-ában az „(a továbbiakban: Nbjt.)” szövegrész helyébe az „(a továbbiakban: Nbjt.) – így különösen az Nbjt. 14. § (1) és (1a) bekezdésében foglaltakat is –” szöveg lép.
