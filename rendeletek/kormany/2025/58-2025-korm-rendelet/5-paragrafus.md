@@ -1,3 +1,3 @@
-5. § Az 590/2022. (XII. 28.) Korm. rendelet 8. alcím címe helyébe a következő alcím cím lép:
+5. §[^6]
 
-„8. Az Uniós programokkal kapcsolatos visszafizetések előirányzat felhasználási szabályai”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

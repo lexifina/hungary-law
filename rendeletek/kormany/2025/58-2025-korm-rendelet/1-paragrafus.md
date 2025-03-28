@@ -4,6 +4,6 @@
 
 ## [3] A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 109. § (1) bekezdés 15a–15c. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § Az Uniós fejlesztések fejezetbe tartozó fejezeti és központi kezelésű előirányzatok felhasználásának rendjéről szóló 590/2022. (XII. 28.) Korm. rendelet [a továbbiakban: 590/2022. (XII. 28.) Korm. rendelet] 3. § 13. pontja helyébe a következő rendelkezés lép:
+1. §[^2]
 
-(E rendelet alkalmazásában)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

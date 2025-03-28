@@ -1,5 +1,3 @@
-7. § Az 590/2022. (XII. 28.) Korm. rendelet 10. alcíme helyébe a következő alcím lép:
+7. §[^8]
 
-„10. A Svájci–Magyar Együttműködési Program II. előirányzat felhasználási szabályai
-
-22. § A Svájci–Magyar Együttműködési Program II. előirányzat az 563/2022. (XII. 23.) Korm. rendelet szerint használható fel.”
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
