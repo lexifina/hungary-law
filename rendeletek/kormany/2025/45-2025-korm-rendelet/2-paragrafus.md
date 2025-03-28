@@ -1,0 +1,1 @@
+2. § Az egyes szervezeteknek a közlekedési infrastruktúra fejlesztési feladataival összefüggő kijelöléséről szóló 774/2021. (XII. 23.) Korm. rendelet 3. §-ában a „közúti közlekedésről szóló 1988. évi I. törvény (a továbbiakban: Kkt.)” szövegrész helyébe a „Kkt.” szöveg lép.
