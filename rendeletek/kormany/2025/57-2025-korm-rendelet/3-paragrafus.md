@@ -1,3 +1,3 @@
-3. § A Korm. rendelet a következő 13. §-sal egészül ki:
+3. §[^4]
 
-„13. § E rendeletnek a Módr.-rel megállapított rendelkezéseit a Módr. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
