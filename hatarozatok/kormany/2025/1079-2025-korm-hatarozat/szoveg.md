@@ -4,8 +4,6 @@
 
 3. Ez a határozat a közzétételét követő napon lép hatályba.
 
-4. Hatályát veszti
+4.[^1]
 
-a) az egyes nemzetközi pénzügyi intézményeknél a Magyar Köztársaságot képviselő kormányzótanácsi tagok felmentéséről, valamint új kormányzótanácsi tagok kinevezéséről szóló 1205/2010. (X. 5.) Korm. határozat, valamint
-
-b) az egyes nemzetközi pénzügyi intézményeknél a Magyarországot képviselő kormányzótanácsi tagok felmentéséről, valamint új kormányzótanácsi tagok kinevezéséről szóló 1183/2013. (IV. 5.) Korm. határozat.
+[^1]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
