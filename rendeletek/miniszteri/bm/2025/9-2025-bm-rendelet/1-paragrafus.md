@@ -18,6 +18,6 @@
 
 ## 1. Az egészségügyi ellátás folyamatos működtetésének egyes szervezési kérdéseiről szóló 47/2004. (V. 11.) ESZCSM rendelet módosítása
 
-1. § Az egészségügyi ellátás folyamatos működtetésének egyes szervezési kérdéseiről szóló 47/2004. (V. 11.) ESZCSM rendelet 15. §-a a következő (8e) bekezdéssel egészül ki:
+1. §[^1]
 
-„(8e) A (8a) bekezdés szerinti háziorvosi, házi gyermekorvosi ügyeletben az egészségügyi felsőfokú szakirányú szakképesítés megszerzéséről szóló 22/2012. (IX. 14.) EMMI rendelet 8/A. §-a szerinti háziorvosi gyakorlat ideje alatt a szakorvosjelölt közreműködhet. A szakorvosjelölt által ellátott ügyelet során a 12/A. §-ban foglaltakat kell figyelembe venni.”
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

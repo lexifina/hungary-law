@@ -1,5 +1,3 @@
-10. § Hatályát veszti a 22/2012. (IX. 14.) EMMI rendelet 2. melléklet
+10. §[^11]
 
-a) 6.2.1.6. pontja és
-
-b) 31.2.1. pont c) alpontja.
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
