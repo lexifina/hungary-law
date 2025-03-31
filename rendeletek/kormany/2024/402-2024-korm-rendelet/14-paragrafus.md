@@ -1,17 +1,15 @@
 14. § Hatályát veszti a Rendelet
 
-a)[^14]
+a) 3. § (1) bekezdésében az „és okmányiroda” szövegrész,
 
-b)[^15]
+b) 3. § (2) bekezdésében a „vagy okmányiroda” szövegrészek,
 
-c)[^16]
+c)[^14]
 
-d)[^17]
+d)[^15]
 
-e)[^18]
+e)[^16]
 
-[^14]: A 14. § a) pontja a 15. § (2) bekezdése alapján 2025. március 31-én lép hatályba.
-[^15]: A 14. § b) pontja a 15. § (2) bekezdése alapján 2025. március 31-én lép hatályba.
-[^16]: A 14. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^17]: A 14. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^18]: A 14. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 14. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 14. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 14. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
