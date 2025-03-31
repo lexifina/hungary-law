@@ -1,0 +1,3 @@
+Az Alaptörvény 9. cikk (4) bekezdés j) pontja, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 32. § (1) bekezdése, 80. § (2) bekezdés d) pontja és 86. § (2) bekezdés f) pontja alapján, figyelemmel a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló 2024. évi LXX. törvény 229. § (5) bekezdésére – a Miniszterelnöki Kabinetirodát vezető miniszter javaslatára – dr. Kovács Zoltán András nemzetbiztonsági dandártábornok hivatásos szolgálati jogviszonyát 2025. március 31-ei hatállyal felmentéssel megszüntetem.
+
+SP ügyszám: SP/1339-2/2025
