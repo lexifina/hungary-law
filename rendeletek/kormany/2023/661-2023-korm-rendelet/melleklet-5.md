@@ -1,3 +1,3 @@
-5. melléklet a 661/2023. (XII. 29.) Korm. rendelethez[^17]
+5. melléklet a 661/2023. (XII. 29.) Korm. rendelethez[^18]
 
-[^17]: Az 5. melléklet a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
+[^18]: Az 5. melléklet a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.

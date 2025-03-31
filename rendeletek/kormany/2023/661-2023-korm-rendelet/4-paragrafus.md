@@ -1,1 +1,1 @@
-4. § A 2024. évi Kvtv. 20. § (4) bekezdése alapján az államháztartásért felelős miniszter által év közben megemelt fajlagos összeget az Igazgatóság a döntést követő hónaptól a Vhr. 37/J. § (1) bekezdése szerinti havi ütemezés során, külön határozat meghozatala nélkül, a Vhr. 37/J. § (3) bekezdése alapján előlegként folyósítja. A visszamenőleges hatállyal megállapított emelt összegű támogatás és az érintett hónapokban ténylegesen folyósított támogatás különbözetét az megemelt fajlagos összegű támogatás első alkalommal történő folyósításával egy időben kell biztosítani.
+4. §

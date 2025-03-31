@@ -1,1 +1,1 @@
-5. § A 3. § és 4. § szerinti támogatás folyósítására, elszámolására, ellenőrzésére és visszafizetésére a Vhr. szabályait, valamint a jogosultság alapjául szolgáló támogatásra vonatkozó, a 2024. évi Kvtv. 2. és 7. melléklete szerinti szabályokat kell megfelelően alkalmazni.
+5. §
