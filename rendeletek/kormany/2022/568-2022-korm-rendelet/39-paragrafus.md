@@ -20,6 +20,6 @@ f) gondoskodik a gazdaságos, egymást kiegészítő ellenőrzési módok kialak
 
 (4) A miniszter gondoskodik az ellenőrzések tervezésének és végrehajtásának egységes rendjéről.
 
-(5)[^21]
+(5)[^23]
 
-[^21]: A 39. § (5) bekezdését a 479/2024. (XII. 31.) Korm. rendelet 72. §-a hatályon kívül helyezte.
+[^23]: A 39. § (5) bekezdését a 479/2024. (XII. 31.) Korm. rendelet 72. §-a hatályon kívül helyezte.

@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-568-20-
 | 2024-08-01 | 2022-568-20-22.11 | 219/2024. (VII. 31.) Korm. rendelet |
 | 2025-01-01 | 2022-568-20-22.12 | 402/2024. (XII. 16.) Korm. rendelet |
 | 2025-03-01 | 2022-568-20-22.15 | 24/2025. (II. 27.) Korm. rendelet |
+| 2025-03-31 | 2022-568-20-22.13 | 402/2024. (XII. 16.) Korm. rendelet |
