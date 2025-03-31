@@ -12,4 +12,4 @@ c) visszavonhatja az integrációs üzleti irányító szervezet igazgatóságá
 
 (3) A (2) bekezdés b) pontja szerinti kiszabható bírság tekintetében az Mnbtv. 75. § (4) bekezdés, 76. § (1)–(3) bekezdés rendelkezései az irányadóak.
 
-(4) A Felügyelet a 17/U. § (7)–(9) bekezdésében meghatározott rendelkezések megtartásának ellenőrzésére – az Mnbtv. 29. alcímében meghatározott szabályok alapján – hivatalból indított fogyasztóvédelmi ellenőrzési eljárást folytat le.
+(4)

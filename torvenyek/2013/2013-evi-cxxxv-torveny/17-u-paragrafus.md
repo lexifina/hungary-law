@@ -28,17 +28,13 @@ e) az egységes informatikai rendszerre vonatkozó elektronikus információbizt
 
 (6) Az adatok egységes informatikai rendszerben történő közös adatkezelésének időtartama – ha törvény eltérő időtartamot nem határoz meg – a mindenkori polgári jogi elévülés időtartama, amelyet az ügyféllel fennálló jogviszony megszűnésétől – jogviszony létre nem jötte esetén a jogviszony létrejöttét megakadályozó jogcselekmény hatályosulásától – kell számítani.
 
-(7) A csatlakozott tag, valamint a hozzáféréssel rendelkező szervezet az ügyfelekkel kötött pénzügyi és kiegészítő pénzügyi szolgáltatásaira, valamint befektetési szolgáltatási tevékenységre és kiegészítő szolgáltatásra vonatkozó szerződéseit és általános szerződési feltételeit az egységes informatikai rendszer alkalmazása által indokolt körben módosíthatja az alábbi feltételek fennállása esetén:
+(7)
 
-a) a módosítás az ügyfél számára nem okoz a termékjellemzők alapján versengő, hasonló szolgáltatások átlagos piaci feltételeihez képest érdeksérelmet a szerződés teljesítése során, valamint
+(7a)
 
-b) a csatlakozott tag, valamint a hozzáféréssel rendelkező szervezet legalább 60 nappal a módosítás hatálybalépését megelőzően, postai úton vagy az adott szerződésben a kapcsolattartásra előírt módon tájékoztatja az ügyfeleket a módosításról és a (8) bekezdésben meghatározott felmondási jogról.
+(8)
 
-(7a) A kamatnapszámítás módosítása tekintetében kizárólag a (7) bekezdés b) pontjában foglalt feltételt kell alkalmazni.
-
-(8) Az ügyfél a (7) bekezdésben meghatározottak szerint módosított szerződést a módosítás hatálybalépéséig költség- és díjmentesen felmondhatja, ennek hiányában úgy kell tekinteni, hogy a módosítás tényét az ügyfél tudomásul vette. A felmondásból eredően a csatlakozott tag, valamint a hozzáféréssel rendelkező szervezet és az ügyfél között fennálló egyéb jogviszonyban az ügyfelet hátrány nem érheti.
-
-(9) A pénzforgalmi szolgáltatásra vonatkozó szerződés módosítása esetén a (7) bekezdés b) pontjában foglalt tájékoztatásban a csatlakozott tag, valamint a hozzáféréssel rendelkező szervezet bemutatja, hogy az ügyfélnek milyen összegű fizetési kötelezettségekkel kellene számolnia a módosítást megelőzően, illetve azt követően hatályos szerződési feltételek figyelembevételével, továbbá, hogy az összehasonlítás alapján a módosítás az ügyfél számára kedvező, közömbös vagy kedvezőtlen. A csatlakozott tag, valamint a hozzáféréssel rendelkező szervezet köteles a tájékoztatásban felhívni a fogyasztó figyelmét a szabályozott fizetési számlaváltás lehetőségére.
+(9)
 
 (10)
 
