@@ -1,0 +1,108 @@
+# A Kormány 59/2025. (III. 31.) Korm. rendelete
+
+Magyar Közlöny 2025. évi 35. szám, 2025. március 31. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/kyGH1NAMHGOfiGlxvRAk67dc6cb9e757e/dokumentumok/b870479634e4950b862169262e8476483297dc08/letoltes)
+
+---
+
+A Kormány 59/2025. (III. 31.) Korm. rendelete
+a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény végrehajtásáról szóló
+168/1997. (X. 6.) Korm. rendelet módosításáról
+[1] Az öregségi nyugdíj alapját képező havi átlagkereset kiszámításához a Kormánynak minden év márciusában, rendeletben
+kell meghatároznia a valorizációs szorzószámokat a Központi Statisztikai Hivatal által közzétett nettó átlagkereset-
+növekedési adatok alapján. A valorizáció célja, hogy a nyugdíjazást megelőző második és a korábbi évek kereseteit
+a nyugdíjazást megelőző év kereseti szintjéhez igazítsa.
+[2] A kormányrendelet a 2025. évi kezdő időponttól megállapításra kerülő nyugellátások esetén alkalmazandó valorizációs
+szorzószámokat állapítja meg.
+[3] A Kormány a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 101. § (1) bekezdés a) pontjában kapott
+felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket
+rendeli el:
+1. §
+A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény végrehajtásáról szóló 168/1997. (X. 6.)
+Korm. rendelet 2. számú melléklete helyébe az 1. melléklet lép.
+2. §
+Ez a rendelet a kihirdetését követő harmadik napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet az 59/2025. (III. 31.) Korm. rendelethez
+„2. számú melléklet a 168/1997. (X. 6.) Korm. rendelethez
+A keresetek, jövedelmek beszámítása során alkalmazandó valorizációs szorzószámok
+2025. január 1-je és december 31-e közötti kezdő időponttól megállapításra kerülő nyugellátások esetén
+A B
+1. Év Szorzószám
+2. 1950. 679,815
+3. 1951. 636,620
+4. 1952. 500,992
+5. 1953. 471,765
+6. 1954. 430,761
+7. 1955. 409,701
+8. 1956. 378,731
+9. 1957. 325,273
+10. 1958. 318,092
+11. 1959. 305,039
+12. 1960. 297,940
+13. 1961. 293,949
+14. 1962. 286,816
+15. 1963. 275,995
+
+16. 1964. 267,199
+17. 1965. 266,270
+18. 1966. 253,666
+19. 1967. 245,820
+20. 1968. 240,687
+21. 1969. 230,688
+22. 1970. 216,495
+23. 1971. 206,971
+24. 1972. 196,370
+25. 1973. 183,006
+26. 1974. 169,925
+27. 1975. 159,405
+28. 1976. 152,103
+29. 1977. 141,492
+30. 1978. 131,010
+31. 1979. 124,535
+32. 1980. 117,820
+33. 1981. 110,628
+34. 1982. 103,877
+35. 1983. 99,403
+36. 1984. 88,675
+37. 1985. 81,131
+38. 1986. 75,257
+39. 1987. 69,299
+40. 1988. 63,115
+41. 1989. 53,990
+42. 1990. 44,400
+43. 1991. 35,378
+44. 1992. 29,163
+45. 1993. 24,782
+46. 1994. 19,468
+47. 1995. 17,287
+48. 1996. 14,724
+49. 1997. 11,867
+50. 1998. 10,023
+51. 1999. 8,893
+52. 2000. 7,982
+53. 2001. 6,871
+54. 2002. 5,742
+55. 2003. 5,028
+56. 2004. 4,753
+57. 2005. 4,318
+58. 2006. 4,013
+59. 2007. 3,894
+60. 2008. 3,643
+61. 2009. 3,576
+62. 2010. 3,347
+
+63. 2011. 3,146
+64. 2012. 3,083
+65. 2013. 2,938
+66. 2014. 2,852
+67. 2015. 2,735
+68. 2016. 2,539
+69. 2017. 2,248
+70. 2018. 2,019
+71. 2019. 1,813
+72. 2020. 1,652
+73. 2021. 1,520
+74. 2022. 1,294
+75. 2023. 1,133
+”
