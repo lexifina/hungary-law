@@ -150,7 +150,7 @@ A 2025. évre engedélyezett gyakorlatok és kiképzések, és ezekkel kapcsolat
 
 | 13. | Bundeswehr MP modul kiképzés | katonai rendészeti képességek fejlesztése, kiképzési gyakorlata | Németország, Magyarország | III–IV. | 20 | 20 |  |
 
-| 14. | CAPABLE LOGISTICIAN 2027 és kapcsolódó, MLCC által szervezett gyakorlatok (CAPABLE DEPLOYER, CONNECTED LOGISTICIAN, stb) | logisztikai gyakorlat LIVEX/CPX | Litvánia, Németország, Egyesült Királyság | I–IV. | 50 |  |  |
+| 14. | CAPABLE LOGISTICIAN 2027 és kapcsolódó, MLCC által szervezett gyakorlatok (CAPABLE DEPLOYER, CONNECTED LOGISTICIAN, stb) | logisztikai gyakorlat LIVEX/CPX | Litvánia, Németország, Egyesült Királyság, Lengyelország, Csehország[^1] | I–IV. | 50 |  |  |
 
 | 15. | Nemzetközi CIS Interoperabilitási gyakorlatok / Nemzetközi műveleti CIS tervező törzsfelkészítések | vezetés-irányítási (Federated Mission Network) gyakorlat | Csehország/ Spanyolország | II–IV. | 10 |  |  |
 
@@ -186,7 +186,7 @@ A 2025. évre engedélyezett gyakorlatok és kiképzések, és ezekkel kapcsolat
 
 | 31. | HVK ÖMVIK/ MH ÖMP törzsfelkészítési rendezvények | hadosztály szintű FTX/CPX/LIVEX | Magyarország | II–III. |  | 100 |  |
 
-| 32. | Bilaterális harcászati szintű KM/RL közös kiképzések és felkészülések | különleges műveleti kiképzés | NATO- és EU-tagállamok | I–IV. | 150 | 150 | 150 |
+| 32. | Bilaterális harcászati szintű KM/RL közös kiképzések és felkészülések | különleges műveleti kiképzés | NATO- és EU-tagállamok, Marokkó[^2] | I–IV. | 150 | 150 | 150 |
 
 | 33. | IANUS | többnemzeti harcászati gyakorlat | Magyarország (civil helyszínen is) | III–IV. |  | 50 |  |
 
@@ -280,6 +280,18 @@ A 2025. évre engedélyezett gyakorlatok és kiképzések, és ezekkel kapcsolat
 
 | 78. | Soft Caps | nemzetközi CIMIC, Kiber és PSYOPS gyakorlat | Magyarország (civil helyszínen is) | II. |  | 50 |  |
 
+| 79.[^3] | SZENTES/OHIO CASTLE | Műszaki harcászati gyakorlat | Magyarország, Amerikai Egyesült Államok | I–III. | 150 | 150 |  |
+
+| 80.[^4] | RIDGE HEALER gyakorlat | Különleges műveleti harcászati és műveleti szintű kiképzés, törzsgyakorlás és gyakorlat | NATO- és EU-tagállamok | I–IV. | 50 | 50 |  |
+
+| 81.[^5] | BAYONET THRUST gyakorlat | Különleges műveleti század-szakasz / LIVEX / FTX, STX | NATO- és EU-tagállamok | I–III. | 100 |  |  |
+
+| 82.[^6] | STEADFAST COBALT | híradó, informatikai stratégiai, harcászati, hadműveleti szintű C4ISR gyakorlat | NATO- és EU-tagállamok | I–III. | 15 |  | 200 |
+
+| 83.[^7] | CORDA | híradó, informatikai CPX/LIVEX | NATO- és EU-tagállamok | I–IV. | 15 |  | 200 |
+
+| 84.[^8] | STRONG TOGETHER | védelmi tervek harmonizálása, CPX/LIVEX | Szlovákia | IV. | 200 |  |  |
+
 3. További gyakorlatokkal és kiképzésekkel kapcsolatos áthaladások
 
 | 1. | NATO Allied Response Force (ARF), és NATO Readiness Initiative (NRI) áthaladási gyakorlatok | I–IV. | 2500 |
@@ -305,3 +317,12 @@ A 2025. évre engedélyezett gyakorlatok és kiképzések, és ezekkel kapcsolat
 | 11. | A Pápán települő Stratégiai Légiszállítási Képességgel (SAC) kapcsolatos, a magyar felségjelű légijárművekhez kötődő kiképzési jellegű csapatmozgások, ideértve a SAC nemzetekhez tartozó légijárművek [legfeljebb 10] részvételét | folyamatos | 1000 |
 
 | 12. | ROU FLF dandár telepítési gyakorlat | I–IV. | 4000 |
+
+[^1]: Az 1. melléklet 2. pontjában foglalt táblázat C:14 mezője az 1/2025. (III. 31.) HM határozat 1. pontjával megállapított szöveg.
+[^2]: Az 1. melléklet 2. pontjában foglalt táblázat C:32 mezője az 1/2025. (III. 31.) HM határozat 1. pontjával megállapított szöveg.
+[^3]: Az 1. melléklet 2. pontjában foglalt táblázat 79. sorát az 1/2025. (III. 31.) HM határozat 1. pontja iktatta be.
+[^4]: Az 1. melléklet 2. pontjában foglalt táblázat 80. sorát az 1/2025. (III. 31.) HM határozat 1. pontja iktatta be.
+[^5]: Az 1. melléklet 2. pontjában foglalt táblázat 81. sorát az 1/2025. (III. 31.) HM határozat 1. pontja iktatta be.
+[^6]: Az 1. melléklet 2. pontjában foglalt táblázat 82. sorát az 1/2025. (III. 31.) HM határozat 1. pontja iktatta be.
+[^7]: Az 1. melléklet 2. pontjában foglalt táblázat 83. sorát az 1/2025. (III. 31.) HM határozat 1. pontja iktatta be.
+[^8]: Az 1. melléklet 2. pontjában foglalt táblázat 84. sorát az 1/2025. (III. 31.) HM határozat 1. pontja iktatta be.
