@@ -16,7 +16,7 @@
 
 | Határidő: | 2030. december 31. |
 
-## 4. visszavonja a Magyarország Nemzeti Kiberbiztonsági Stratégiájáról szóló 1139/2013. (III. 21.) Korm. határozatot, valamint a Magyarország hálózati és információs rendszerek biztonságára vonatkozó Stratégiájáról szóló 1838/2018. (XII. 28.) Korm. határozatot.
+## 4.[^1]
 
 1. melléklet az 1089/2025. (III. 31.) Korm. határozathoz
 
@@ -370,6 +370,7 @@ Emellett a stratégiai célkitűzések megvalósításában és a végrehajtásb
 
 10.2. Végrehajtás
 
-A kiberstratégia hatékony végrehajtásához egy kooperatív elvek mentén megfogalmazott intézkedési terv elkészítése és végrehajtása szükséges, amelynek segítségével a stratégiában megfogalmazott célkitűzések és szakpolitikai intézkedések maradéktalanul és hatékonyan teljesülhetnek, segítve a beazonosított kitettségek és kockázatok minimalizálását, különös tekintettel a szakemberhiányra, az együttműködés elmélyítésére, az ellenálló képesség célrendszerének érvényesülésére, az adatbiztonság növelésére, a kiberbiztonsági oktatásban részt vevők körének kiszélesítésére és a tananyagok folyamatos felülvizsgálatára. A magyar kibertér biztonságáért felelős intézményrendszer folyamatosan figyelemmel kíséri a digitális környezetben jelentkező kihívások dinamikus változását, és szükség szerint a stratégia felülvizsgálatával reagál az új feladatokra[^1].
+A kiberstratégia hatékony végrehajtásához egy kooperatív elvek mentén megfogalmazott intézkedési terv elkészítése és végrehajtása szükséges, amelynek segítségével a stratégiában megfogalmazott célkitűzések és szakpolitikai intézkedések maradéktalanul és hatékonyan teljesülhetnek, segítve a beazonosított kitettségek és kockázatok minimalizálását, különös tekintettel a szakemberhiányra, az együttműködés elmélyítésére, az ellenálló képesség célrendszerének érvényesülésére, az adatbiztonság növelésére, a kiberbiztonsági oktatásban részt vevők körének kiszélesítésére és a tananyagok folyamatos felülvizsgálatára. A magyar kibertér biztonságáért felelős intézményrendszer folyamatosan figyelemmel kíséri a digitális környezetben jelentkező kihívások dinamikus változását, és szükség szerint a stratégia felülvizsgálatával reagál az új feladatokra[^2].
 
-[^1]: A NIS 2 irányelv implementációja keretében 2025. január 1-jén hatályba lépett jogszabályi környezet határozza meg a kibervédelmi szervezetrendszer kereteit. A kibervédelmi szervezetrendszer – beleértve az irányítási keretrendszert, a felelős intézményeket és szerveket, valamint a jogszabályokat – felkészülési, védelmi és koordinációs szerepe kiemelkedő a kiberbiztonság stratégiai és operatív rétegében is.
+[^1]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A NIS 2 irányelv implementációja keretében 2025. január 1-jén hatályba lépett jogszabályi környezet határozza meg a kibervédelmi szervezetrendszer kereteit. A kibervédelmi szervezetrendszer – beleértve az irányítási keretrendszert, a felelős intézményeket és szerveket, valamint a jogszabályokat – felkészülési, védelmi és koordinációs szerepe kiemelkedő a kiberbiztonság stratégiai és operatív rétegében is.
