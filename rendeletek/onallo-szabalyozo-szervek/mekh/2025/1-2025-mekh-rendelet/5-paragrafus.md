@@ -1,3 +1,5 @@
-5. §[^5]
+5. § Hatályát veszti az R2. 1. melléklet
 
-[^5]: Az 5. § a 6. § (3) bekezdése alapján 2025. április 1-jén lép hatályba.
+a) IV. rész 2.2. pontja és
+
+b) V. rész 1.2. pontja.
