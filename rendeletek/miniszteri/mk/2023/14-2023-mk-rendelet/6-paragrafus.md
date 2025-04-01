@@ -1,1 +1,0 @@
-6. § E rendelet hatálybalépésétől a polgári nemzetbiztonsági szolgálatok hivatásos állományának tagjára, valamint rendvédelmi igazgatási alkalmazottjára a belügyminiszter irányítása alatt álló rendvédelmi feladatokat ellátó szerveknél alkalmazandó egészségügyi szakdolgozói pótlékról szóló 27/2021. (VIII. 9.) BM rendelet nem alkalmazható.

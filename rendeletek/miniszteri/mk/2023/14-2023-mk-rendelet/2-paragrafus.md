@@ -1,1 +1,0 @@
-2. § Az egészségügyi szakdolgozói pótlékra jogosultságról és annak mértékéről a hivatásos állomány tagja esetében az állományilletékes parancsnok, a rendvédelmi igazgatási alkalmazott esetében a rendvédelmi szerv szervezeti egységének vezetője munkáltatói intézkedésben rendelkezik.
