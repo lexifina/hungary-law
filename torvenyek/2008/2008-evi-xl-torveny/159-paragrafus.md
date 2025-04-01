@@ -35,5 +35,3 @@ h) a megújuló gáz és a földgáz, valamint a hidrogén belső piacára vonat
 (9) Ez a törvény az összehangolt földgázszállítási tarifaszerkezetekre vonatkozó üzemi és kereskedelmi szabályzat létrehozásáról szóló, 2017. március 16-i (EU) 2017/460 bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (10) Ez a törvény az (EU) 2017/1938 és a 715/2009/EK rendeletnek a földgáztárolás tekintetében történő módosításáról szóló, 2022. június 29-i (EU) 2022/1032 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
-
-(11) Ez a törvény a koordinált gázkereslet-csökkentési intézkedésekről szóló, 2022. augusztus 5-i (EU) 2022/1369 tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.

@@ -226,7 +226,7 @@ b) Horizontálisan integrált vállalkozás: olyan földgázipari vállalkozás,
 
 54a. Szállítóvezeték-létesítő: szállítási rendszerüzemeltetési engedéllyel nem rendelkező földgázipari vállalkozás, amely e törvény szerinti szállítóvezeték létesítési engedély alapján szállítóvezetéket létesíthet.
 
-54b. Származási garancia: olyan elektronikus okirat, amely objektív, átlátható és megkülönböztetéstől mentes kritériumok alapján igazolja, hogy az adott termelő egység által előállított gáz meghatározott mennyisége megújuló gáznak minősül.
+54b. Származási garancia: olyan elektronikus okirat, amely objektív, átlátható és megkülönböztetéstől mentes kritériumok alapján igazolja, hogy az adott termelő egység által előállított gáz meghatározott mennyisége megújuló vagy alacsony szén-dioxid-kibocsátású gáz.
 
 55. Szervezett földgázpiac: a szervezett földgázpiaci engedélyes által működtetett, a regionális földgázforgalmat elősegítő kereskedési rendszer, amelyben a földgáz-kereskedelem, LNG-kereskedelem és az ahhoz kapcsolódó ügyletek megkötése és lebonyolítása szabványosított formában történik.
 
