@@ -6,12 +6,12 @@
 
 (3) A főigazgatót munkájában 2 főigazgató-helyettes segíti. A főigazgató-helyetteseket legfeljebb 5 évre a miniszter nevezi ki és menti fel, az egyéb munkáltatói jogokat a főigazgató gyakorolja.
 
-(4) Az Intézet főigazgatójával – a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 22/B. §-ára figyelemmel, a Munka Törvénykönyve vezető állású munkavállalóra vonatkozó rendelkezései alkalmazásával – munkaviszonyt
-
-kell létesíteni.
+(4)[^1]
 
 (5) Az Intézet önálló gazdasági szervezettel rendelkezik.
 
 (6) Az Intézet vállalkozási tevékenységet folytathat.
 
 (7) Az Intézet 2025. január 1-jén jön létre.
+
+[^1]: Az 1. § (4) bekezdését a 13. § hatályon kívül helyezte.
