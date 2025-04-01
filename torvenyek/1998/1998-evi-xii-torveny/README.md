@@ -64,3 +64,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1998-12-00-00
 | 2025-01-01 | 2024. évi LXXXV. törvény | 1998-12-00-00.78 |
 | 2025-02-01 | 2024. évi LXXIII. törvény | 1998-12-00-00.77 |
 | 2025-03-01 | 2024. évi LXXI. törvény | 1998-12-00-00.75 |
+| 2025-04-01 | 2024. évi LXXI. törvény | 1998-12-00-00.76 |
