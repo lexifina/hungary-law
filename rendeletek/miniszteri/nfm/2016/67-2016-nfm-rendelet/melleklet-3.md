@@ -358,7 +358,7 @@ b) a figyelembe veendő ár a különösen, de nem kizárólagosan költségmegt
 
 6.26.1. QHidegre_elkülönített tároló_havi: a 6.26. pont szerinti QHidegre_elkülönített tárolói készlet adott hónapban felhasznált mennyiség;
 
-6.27. QTervezett import (tervezett import mennyiség): a szállítási hónapokban az egyetemes szolgáltatót ellátó földgázkereskedő által, az egyetemes szolgáltató ellátása céljából az adott tárgyhónapra a külön jogszabályban meghatározott földgáz mennyiségeken (QDedikált forrás) felül importálni tervezett, a Commodity árazódási napot megelőzően meghatározandó mennyiség; értéke a kitárolási tárgyhónapban: QTervezett import = QTerv– Qallokált tárolói fedezés – Qfedezett – QDedikált forrás, de legalább 0; értéke betárolási tárgyhónapban: QTervezett import = QTerv – QFedezett, de legalább 0;
+6.27.[^55] QTervezett import (tervezett import mennyiség): a szállítási hónapokban az egyetemes szolgáltatót ellátó földgázkereskedő által, az egyetemes szolgáltató ellátása céljából az adott tárgyhónapra a külön jogszabályban meghatározott földgáz mennyiségeken (QDedikált forrás) felül importálni tervezett, a Commodity árazódási napot megelőzően meghatározandó mennyiség; értéke a kitárolási tárgyhónapban: QTervezett import = QTerv – Qallokált tárolói fedezés – Qfedezett – QDedikált forrás, de legalább 0; értéke betárolási tárgyhónapban: QTervezett import = QTerv – QFedezett– QDedikált forrás, de legalább 0;
 
 6.28. ΣQTárolói fedezés: a havi tárolói fedezett mennyiségek összege;
 
@@ -409,3 +409,4 @@ b) a figyelembe veendő ár a különösen, de nem kizárólagosan költségmegt
 6.46. Qhiány tároló: az egyetemes szolgáltató által a GET. Vhr. 30. § (2) bekezdése alapján elvárt tárolói célkészlet elérése érdekében a QHidegre_elkülönített tárolói készlet + Σ(QTárolói fedezés) + Σ(QDedikált tárolói forrás) + Σ(QDedikált tárolás) + Σ1T (Qbeárazódott) tárolói készleten felül betárolt gázmennyiség, kWh-ban kifejezve.
 
 [^54]: A 3. melléklet a 44/2024. (XII. 31.) EM rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^55]: A 3. melléklet 6.27. pontja a 9/2025. (III. 31.) EM rendelet 2. § a) pontja szerint módosított szöveg.
