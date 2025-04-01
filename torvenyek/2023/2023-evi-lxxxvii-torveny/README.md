@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2023-87-00-00
 | 2024-05-17 | 2010. évi CXXX. törvény | 2023-87-00-00.18 |
 | 2024-11-05 | 2024. évi XXXIX. törvény | 2023-87-00-00.19 |
 | 2025-03-31 | Nemzeti Jogszabálytár (egységes szerkezet) | 2023-87-00-00.7 |
+| 2025-04-01 | 2010. évi CXXX. törvény | 2023-87-00-00.8 |
