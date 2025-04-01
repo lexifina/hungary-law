@@ -1,6 +1,6 @@
-## 7. §[^35] Ez a rendelet az (EU) 2019/1021 európai parlamenti és a tanácsi rendelet 3. cikkének végrehajtásához szükséges rendelkezéseket állapít meg.
+## 7. §[^40] Ez a rendelet az (EU) 2019/1021 európai parlamenti és a tanácsi rendelet 3. cikkének végrehajtásához szükséges rendelkezéseket állapít meg.
 
-8. §[^36] Ez a rendelet az elemekről és akkumulátorokról, valamint a hulladékelemekről és -akkumulátorokról, továbbá a 91/157/EGK irányelv hatályon kívül helyezéséről szóló, 2006. szeptember 6-i 2006/66/EK európai parlamenti és tanácsi irányelv 25. cikkének való megfelelést szolgálja.
+8. §[^41] Ez a rendelet az elemekről és akkumulátorokról, valamint a hulladékelemekről és -akkumulátorokról, továbbá a 91/157/EGK irányelv hatályon kívül helyezéséről szóló, 2006. szeptember 6-i 2006/66/EK európai parlamenti és tanácsi irányelv 25. cikkének való megfelelést szolgálja.
 
 Melléklet a 271/2001. (XII. 21.) Korm. rendelethez
 
@@ -20,7 +20,7 @@ M: a jogsértés jellegét, súlyát, volumenét figyelembe vevő – a Hgt. 3. 
 
 S: a jogsértés ismétlődését, a környezet érzékenységét figyelembe vevő súlyosbító szorzó. A rendelet eltérő rendelkezéseinek hiányában az S értéke 1.
 
-3.[^37] Az M módosító tényező számítása:
+3.[^42] Az M módosító tényező számítása:
 
 Az M módosító tényező meghatározására a hulladék mennyisége (tömege), fizikai, kémiai, biológiai jellemzői (veszélyessége, hasznosíthatósága, ártalmatlaníthatósága stb.) figyelembevételével kerül sor.
 
@@ -120,7 +120,7 @@ Az Md,t számítása a hulladék tonnában kifejezett t tömegének figyelembev�
 
 | 1000 tonna fölött | 1,0 | 1333,3+(t–1000) × 1,0 |
 
-e)[^38] Az 1. § (3) bekezdésének h) pontjában foglalt esetekben a hulladék jellemzőitől és tömegétől függő M módosító tényező számítása az alábbiak szerint történik:
+e)[^43] Az 1. § (3) bekezdésének h) pontjában foglalt esetekben a hulladék jellemzőitől és tömegétől függő M módosító tényező számítása az alábbiak szerint történik:
 
 M = V x Me,t
 
@@ -130,7 +130,7 @@ hb) esetben az Me,t értéke egyenlő a berendezések számával;
 
 hd) esetben az Me,t értéke 1.
 
-[^35]: A 7. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 1013. pontja hatályon kívül helyezte, újonnan a 376/2020. (VII. 30.) Korm. rendelet 14. §-a iktatta be.
-[^36]: A 8. §-t a 181/2008. (VII. 8.) Korm. rendelet 18. § (3) bekezdése iktatta be.
-[^37]: A melléklet 3. pontjában a V szorzószám értékét meghatározó táblázata a 264/2004. (IX. 23.) Korm. rendelet 20. § (2) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 98. § c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^38]: A melléklet 3. pontjának e) alpontját a 264/2004. (IX. 23.) Korm. rendelet 20. §-ának (3) bekezdése iktatta a szövegbe.
+[^40]: A 7. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 1013. pontja hatályon kívül helyezte, újonnan a 376/2020. (VII. 30.) Korm. rendelet 14. §-a iktatta be.
+[^41]: A 8. §-t a 181/2008. (VII. 8.) Korm. rendelet 18. § (3) bekezdése iktatta be.
+[^42]: A melléklet 3. pontjában a V szorzószám értékét meghatározó táblázata a 264/2004. (IX. 23.) Korm. rendelet 20. § (2) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 98. § c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^43]: A melléklet 3. pontjának e) alpontját a 264/2004. (IX. 23.) Korm. rendelet 20. §-ának (3) bekezdése iktatta a szövegbe.
