@@ -1,3 +1,3 @@
-41. §[^43]
+41. §[^40]
 
-[^43]: A 41. § a 43. § (4) bekezdése alapján 2027. január 1-jén lép hatályba.
+[^40]: A 41. § a 43. § (4) bekezdése alapján 2027. január 1-jén lép hatályba.

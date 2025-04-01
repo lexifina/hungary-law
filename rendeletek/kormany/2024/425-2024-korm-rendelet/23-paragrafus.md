@@ -1,5 +1,5 @@
 ## 11. A vizsgálóállomás engedélyezésének részletes eljárási szabályairól szóló 181/2017. (VII. 5.) Korm. rendelet módosítása
 
-23. §[^24]
+23. §[^23]
 
-[^24]: A 23. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 23. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
