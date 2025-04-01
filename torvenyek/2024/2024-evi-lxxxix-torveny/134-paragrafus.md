@@ -2,7 +2,7 @@
 
 1.
 
-2.
+2. 3. § 54b. pontjában a „gáznak minősül” szövegrész helyébe a „vagy alacsony szén-dioxid-kibocsátású gáz” szöveg,
 
 3.
 
