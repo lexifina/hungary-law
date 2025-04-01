@@ -8,6 +8,6 @@
 
 | 4. | 7. melléklet 1.6.1.3. Hit- és erkölcstanoktatáshoz kapcsolódó tankönyvtámogatás hat évfolyammal működő gimnáziumokban a 7–8. évfolyamon | 2 150 forint/tanuló |
 
-2. melléklet a 661/2023. (XII. 29.) Korm. rendelethez[^15]
+2. melléklet a 661/2023. (XII. 29.) Korm. rendelethez[^16]
 
-[^15]: A 2. melléklet a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 2. melléklet a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
