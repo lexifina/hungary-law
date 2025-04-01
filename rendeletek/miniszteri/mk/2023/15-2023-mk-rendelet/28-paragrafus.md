@@ -1,1 +1,0 @@
-28. § A bérlő a külön szolgáltatásokért, így különösen a vízellátás és csatornahasználat biztosításáért, a felvonó használatának biztosításért, a központi fűtés és melegvíz-ellátásért, televízióadók vételének biztosításáért a szolgáltatást nyújtó által meghatározott díjat megfizeti.
