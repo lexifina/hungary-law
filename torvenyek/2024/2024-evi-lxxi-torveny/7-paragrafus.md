@@ -4,6 +4,8 @@
 
 a)
 
-b)
+b) 24. § (1) bekezdésében az „a Nemzeti Információs Központ” szövegrész helyébe az „az utasadat-információs egység” szöveg,
 
-c)
+c) 28/B. § (2) bekezdésében az „a Nemzeti Információs Központ” szövegrész helyébe az „az utasadat-információs egység” szöveg
+
+lép.

@@ -1,1 +1,1 @@
-### 10. §
+10. § A Rendőrségről szóló 1994. évi XXXIV. törvény 91/E. § (5) bekezdésében az „a Nemzeti Információs Központ” szövegrész helyébe az „az utasadat-információs egység” szöveg és a „kockázatelemzése, elemzés-értékelés” szövegrész helyébe a „kockázatelemzése, valamint a Nemzeti Információs Központ elemzés-értékelés készítése” szöveg lép.
