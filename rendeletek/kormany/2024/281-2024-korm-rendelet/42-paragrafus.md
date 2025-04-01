@@ -30,7 +30,7 @@ f) az építési napló vezetése nélkül végzett építési tevékenység vag
 
 g) ha a kérelem az építmény használatbavételére is irányul,
 
-ga)[^5]
+ga) a 35. § (4) bekezdés d) pontjában meghatározott zöldfelületi tanúsítványt és
 
 gb) a 9/2023. (V. 25.) ÉKM rendelet hatálya alá tartozó meglévő épület bővítése esetén a bővítményre, ha a bővítmény hasznos alapterülete meghaladja a meglévő épület hasznos alapterületének 100%-át, a teljes épületre vonatkozóan a 9/2023. (V. 25.) ÉKM rendeletben meghatározott számítást vagy energetikai tanúsítványt, amely igazolja, hogy az építmény megfelel a kérelem benyújtása napján hatályos 9/2023. (V. 25.) ÉKM rendelet követelményeinek.
 
@@ -49,5 +49,3 @@ b) a 9/2023. (V. 25.) ÉKM rendelet hatálya alá tartozó új épület esetébe
 a) szakhatóság érintettsége esetén a szakhatóság előzetes állásfoglalását és a hozzá tartozó, a szakhatóság által záradékolt építészeti-műszaki dokumentációt,
 
 b) a Khvr.-ben meghatározott esetekben a véglegessé vált egységes környezethasználati engedélyt vagy az egységes környezethasználati engedély iktatószámáról szóló nyilatkozatot.
-
-[^5]: A 42. § (3) bekezdés g) pont ga) alpontja a 61. § (3) bekezdése alapján 2025. április 1-jén lép hatályba.

@@ -10,7 +10,7 @@ b) hogy az építési folyamat résztvevői közül a kivitelezési dokumentáci
 
 c) a kivitelezési dokumentáció meglétét és tartalmát,
 
-d)[^7] az elektronikus építési napló meglétét, elérhetőségét, vezetését és annak tartalmát,
+d)[^2] az elektronikus építési napló meglétét, elérhetőségét, vezetését és annak tartalmát,
 
 e) hogy az építőipari kivitelezési tevékenységet
 
@@ -24,4 +24,4 @@ f) a jogszerűtlenül megkezdett és végzett építési tevékenységeket, vala
 
 g) a rendeltetési egységek számának és rendeltetésének megváltoztatása kivételével a szakszerűtlenül megkezdett és végzett építési tevékenységeket.
 
-[^7]: Az 53. § (2) bekezdés d) pontja a 485/2024. (XII. 31.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^2]: Az 53. § (2) bekezdés d) pontja a 485/2024. (XII. 31.) Korm. rendelet 9. §-a szerint módosított szöveg.

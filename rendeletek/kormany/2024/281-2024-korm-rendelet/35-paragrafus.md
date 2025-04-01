@@ -22,7 +22,7 @@ b) a lejárt hatályú építési engedély alapján, a tízéves intézkedési 
 
 c) ha szakhatóság bevonása vagy szakkérdés vizsgálata szükséges, a 2. melléklet szerinti dokumentációt, kivéve, ha van előzetes szakhatósági állásfoglalás és azt a kérelemhez mellékelik,
 
-d)[^2]
+d) a települési zöldinfrastruktúráról, a zöldfelületi tanúsítványról és a zöld védjegyről szóló kormányrendeletben meghatározott esetben és módon az ott meghatározott zöldfelületi tanúsító által kiállított zöldfelületi tanúsítványt, ha az építési tevékenységre az építési engedély iránti kérelmet 2025. március 31-ét követően nyújtották be, valamint
 
 e) a 9/2023. (V. 25.) ÉKM rendelet hatálya alá tartozó meglévő épület bővítése esetén a bővítményre, ha a bővítmény hasznos alapterülete meghaladja a meglévő épület hasznos alapterületének 100%-át, a teljes épületre vonatkozóan a 9/2023. (V. 25.) ÉKM rendeletben meghatározott számítást vagy energetikai tanúsítványt, amely igazolja, hogy az építmény megfelel
 
@@ -35,5 +35,3 @@ eb) a használatbavételi eljárás iránti kérelem benyújtása napján hatál
 a) szakhatóság érintettsége esetén a szakhatóság előzetes állásfoglalását és a hozzá tartozó, a szakhatóság által záradékolt, a megvalósult állapotot ábrázoló építészeti-műszaki dokumentációt (a továbbiakban: megvalósulási dokumentáció), valamint
 
 b) a Khvr.-ben meghatározott esetekben a véglegessé vált egységes környezethasználati engedélyt vagy az egységes környezethasználati engedély iktatószámáról szóló nyilatkozatot.
-
-[^2]: A 35. § (4) bekezdés d) pontja a 61. § (3) bekezdése alapján 2025. április 1-jén lép hatályba.

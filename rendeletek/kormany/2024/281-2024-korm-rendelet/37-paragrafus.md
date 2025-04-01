@@ -28,7 +28,7 @@ h) ha szakhatóság bevonása vagy szakkérdés vizsgálata szükséges és a 2.
 
 i) új épület építése vagy meglévő épület – az ingatlan-nyilvántartási térképi adatbázisban változást eredményező – bővítése esetén az ingatlanügyi hatóság által érvényes záradékkal ellátott, a változás ingatlan-nyilvántartási átvezetéséhez az ingatlan-nyilvántartási célú földmérési és térképészeti tevékenység részletes szabályairól szóló miniszteri rendeletben előírt változási vázrajz az OÉNY-ben nem áll rendelkezésre,
 
-j)[^4]
+j) a 35. § (4) bekezdés d) pontjában meghatározott zöldfelületi tanúsítvány nem áll rendelkezésre,
 
 k) új épület esetén az energetikai tanúsítványt az OÉNY-be nem töltötték fel,
 
@@ -37,5 +37,3 @@ l) az új épület nem felel meg a 36. § (2) bekezdés m) pont ma) alpontjában
 m) meglévő épület bővítése esetén a bővítmény vagy a teljes épület nem felel meg a 36. § (2) bekezdés m) pont mb) alpontjában előírt követelményeknek.
 
 (4) Ha a használatbavételi eljárás során az építésügyi hatóság a rendeltetésszerű és biztonságos építményhasználatot nem gátló hiányosságot tapasztal, a használatbavételi engedélyt megadja, vagy a használatbavételt tudomásul veszi, és ezzel egyidejűleg teljesítési határidő megjelölésével és a nemteljesítés esetére a végrehajtás módjáról szóló tájékoztatással kötelezi az építtetőt a még fennálló hibák, hiányosságok megszüntetése érdekében szükséges építési munkák elvégzésére.
-
-[^4]: A 37. § (3) bekezdés j) pontja a 61. § (3) bekezdése alapján 2025. április 1-jén lép hatályba.

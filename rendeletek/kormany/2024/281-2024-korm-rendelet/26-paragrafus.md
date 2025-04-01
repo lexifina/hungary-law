@@ -44,7 +44,7 @@ ke) az építőipari kivitelezési tevékenységet az Épkiv.-ben meghatározott
 
 kf) az engedélyezett építési tevékenységtől eltérni – ha az eltérés az épület külső megjelenését az építőanyag használatában, színezésében, a nyílászárók elhelyezésében megváltoztatja – a tervező hozzájárulásával lehet, továbbá
 
-kg)[^1]
+kg) a használatbavételi eljárás iránti kérelemhez a települési zöldinfrastruktúráról, a zöldfelületi tanúsítványról és a zöld védjegyről szóló kormányrendeletben meghatározott esetben a zöldfelületi tanúsító által kiállított zöldfelületi tanúsítvány szükséges, valamint
 
 l) a 9/2023. (V. 25.) ÉKM rendelet hatálya alá tartozó épület esetében tájékoztatást arról, hogy amennyiben az építési engedélytől építési engedélyhez nem kötött építési tevékenységgel térnek el,
 
@@ -65,5 +65,3 @@ d) az építési engedély iránti kérelem elutasításának indokolását, val
 e) az ügyféli kör megállapításának módját, indokolását.
 
 (3) Az építésügyi hatóság a határozaton feltünteti az értesítendők körét, külön nevesítve az ügyfélként, a tájékoztatásul, valamint a véglegessé válás után értesülőket.
-
-[^1]: A 26. § (1) bekezdés k) pont kg) alpontja a 61. § (3) bekezdése alapján 2025. április 1-jén lép hatályba.

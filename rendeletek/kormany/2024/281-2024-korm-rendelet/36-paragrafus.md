@@ -30,7 +30,7 @@ j) új épület építése vagy meglévő épület – az ingatlan-nyilvántart�
 
 k) ha szakhatóság bevonása vagy szakkérdés vizsgálata szükséges, a 2. melléklet szerinti dokumentáció rendelkezésre áll-e,
 
-l)[^3]
+l) a 35. § (4) bekezdés d) pontjában meghatározott zöldfelületi tanúsítvány rendelkezésre áll-e, valamint
 
 m) a 9/2023. (V. 25.) ÉKM rendelet hatálya alá tartozó
 
@@ -39,5 +39,3 @@ ma) új épület esetén az energetikai tanúsítvány az OÉNY-be feltöltésre
 mb) meglévő épület bővítése esetén a 35. § (4) bekezdés e) pontjában előírt számítás vagy energetikai tanúsítvány rendelkezésre áll-e, és a bővítmény, vagy ha a bővítmény hasznos alapterülete meghaladja a bővített épület hasznos alapterületének 100%-át, a teljes épület a 9/2023. (V. 25.) ÉKM rendeletben meghatározott számítással vagy energetikai tanúsítvánnyal igazoltan megfelel-e az építési engedély vagy az egyszerű bejelentés mellékletét képező építészeti-műszaki dokumentációban, meghatározott energetikai jellemzőknek, vagy a használatbavételi eljárás iránti kérelem benyújtása napján hatályos, 9/2023. (V. 25.) ÉKM rendeletben meghatározott követelményeknek.
 
 (3) Az építésügyi hatóság a használatbavételi eljárásban szakkérdést vizsgál, ha a 3. mellékletben meghatározott valamely szakkérdés tekintetében a vizsgálat feltételei fennállnak.
-
-[^3]: A 36. § (2) bekezdés l) pontja a 61. § (3) bekezdése alapján 2025. április 1-jén lép hatályba.
