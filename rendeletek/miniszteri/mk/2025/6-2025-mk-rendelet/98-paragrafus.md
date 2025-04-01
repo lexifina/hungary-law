@@ -1,0 +1,1 @@
+98. § A használati jogviszony megszűnésének napjával a szállóférőhely használója köteles a szállóférőhelyet tisztán, rendeltetésszerű használatra alkalmas állapotban, a részére átadott leltári tárgyakkal, felszerelésekkel együtt az üzemeltető részére visszaadni. A visszaadás tényét a szálló gondnoka által kiállított átadás-átvételi jegyzőkönyv bemutatásával kell igazolni.

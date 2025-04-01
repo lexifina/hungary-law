@@ -1,0 +1,1 @@
+20. § A főigazgató és a főigazgató-helyettes részére hordozható számítástechnikai eszköz és rádiótelefon használata biztosítható, aki ezen eszközök használata során a biztonsági protokoll előírásainak betartására kötelezett.

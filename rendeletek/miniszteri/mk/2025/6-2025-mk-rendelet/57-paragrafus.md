@@ -1,0 +1,3 @@
+57. § (1) A nemzetbiztonsági állomány tagja részére a polgári nemzetbiztonsági szolgálat ismételt munkáltatói kölcsönt – a 46. § (1) bekezdés e) pontjában foglalt célra nyújtott munkáltatói kölcsön kivételével – az előző munkáltatói kölcsönből még fennálló tartozás teljes visszafizetését követően nyújthat. A fennálló tartozás visszafizetése – házastársak, élettársak részére a polgári nemzetbiztonsági szolgálat által nyújtott munkáltatói kölcsön kivételével – az átvállalásnak is feltétele.
+
+(2) A nemzetbiztonsági állomány visszafizetési kedvezményben részesített tagja a munkáltatói kölcsön visszafizetését követő 5 éven belül újabb munkáltatói kölcsönt nem kaphat.

@@ -1,0 +1,1 @@
+31. § A más polgári nemzetbiztonsági szolgálathoz történő áthelyezéssel kapcsolatosan felmerült költségek azt a polgári nemzetbiztonsági szolgálatot terhelik, akinek a kezdeményezésére a nemzetbiztonsági állomány tagjának áthelyezése történt.

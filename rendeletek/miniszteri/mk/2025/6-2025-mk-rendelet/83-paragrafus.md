@@ -1,0 +1,1 @@
+83. § A 80. § (2) bekezdése szerint értékesítésre kerülő lakás vevőjét a 82. §-ban, az üres, valamint a harmadik személy részére lakottan értékesítésre kerülő lakás vevőjét a 80–82. § szerinti kedvezmények nem illetik meg.
