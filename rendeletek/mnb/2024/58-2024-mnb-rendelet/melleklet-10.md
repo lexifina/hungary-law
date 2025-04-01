@@ -436,7 +436,7 @@
 
 ## A 76NPI11 kezdetű sorokban a foglalkoztatói nyugdíjszolgáltató intézménynek az ügyfelekkel való elektronikus kapcsolattartására vonatkozó adatokat kell megadni. Az ügyfél általi adatmódosítás fogalmába a tranzakciós adatmódosításokat (pl. új szolgáltatás igénybevétele) is beleértendő.
 
-## 1.28. 76NPM Pénzmosással és terrorizmusfinanszírozással kapcsolatos negyedéves adatok
+## 1.28.[^7] 76NPM Pénzmosással és terrorizmusfinanszírozással kapcsolatos negyedéves adatok
 
 ## A tábla kitöltése
 
@@ -446,7 +446,7 @@
 
 ## - PEP: a Pmt. 4. § (1)–(4) bekezdésében meghatározott, kiemelt közszereplő, kiemelt közszereplő közeli hozzátartozója, illetve a kiemelt közszereplővel közeli kapcsolatban álló személy együttes elnevezése;
 
-## - származás: az ügyfél bármilyen kimutatható, az adatszolgáltató által pénzmosási szempontból lényegesnek minősített kapcsolata – legyen az személyes vagy üzleti – a hivatkozott országgal, térséggel vagy területtel; pénzmosási szempontból lényegesnek minősített kapcsolat esetén vizsgálandó különösen, de nem kizárólagosan: ügyfél székhelye, lakó- és tartózkodási helye, állampolgársága, ügyfél tényleges tulajdonosának lakó- és tartózkodási helye, állampolgársága, ügyfél tényleges tulajdonosi minősége az adott országban székhellyel rendelkező jogi személyben vagy jogi személyiséggel nem rendelkező szervezetben, ügyfél tájékoztatása alapján, ügyfélnek ténylegesen igazolt kapcsolat nélküli szoros kötődése egy országgal vagy térséggel (pl. menekültstátuszhoz, kisebbségek helyzetéhez kapcsolódó információk), üzleti tevékenységét jelentősen befolyásoló kapcsolat (pl. az ügyfél vagyoni helyzetéhez mérten jelentős összegű, honosságától eltérő országból származó pénzösszegek, az ügyfél szolgáltatását igénybe vevők túlnyomó többsége az ügyfél honosságától eltérő országhoz köthető);
+## - származás: az ügyfél bármilyen kimutatható, a foglalkoztatói nyugdíjszolgáltató intézmény által pénzmosási szempontból lényegesnek minősített kapcsolata – legyen az személyes vagy üzleti – a hivatkozott országgal, térséggel vagy területtel; pénzmosási szempontból lényegesnek minősített kapcsolat esetén vizsgálandó különösen, de nem kizárólagosan: ügyfél székhelye, lakó- és tartózkodási helye, állampolgársága, ügyfél tényleges tulajdonosának lakó- és tartózkodási helye, állampolgársága, ügyfél tényleges tulajdonosi minősége az adott országban székhellyel rendelkező jogi személyben vagy jogi személyiséggel nem rendelkező szervezetben, ügyfél tájékoztatása alapján, ügyfélnek ténylegesen igazolt kapcsolat nélküli szoros kötődése egy országgal vagy térséggel (pl. menekültstátuszhoz, kisebbségek helyzetéhez kapcsolódó információk), üzleti tevékenységét jelentősen befolyásoló kapcsolat (pl. az ügyfél vagyoni helyzetéhez mérten jelentős összegű, honosságától eltérő országból származó pénzösszegek, az ügyfél szolgáltatását igénybe vevők túlnyomó többsége az ügyfél honosságától eltérő országhoz köthető);
 
 ## - tényleges tulajdonos: a Pmt. 3. § 38. pontja szerinti jogalany;
 
@@ -542,33 +542,11 @@
 
 ## 76NPM08 Kockázatos ügyfél és szokatlan ügylet kiszűrését biztosító szűrőrendszer riasztásai
 
-## A foglalkoztatói nyugdíjszolgáltató intézmény szűrőrendszere által kockázatosnak minősített ügyfél, illetve szokatlan ügylet vonatkozásában generált riasztások darabszáma a tárgynegyedévben.
-
-## A 76NPM08 sorban kimutatott adatokat 2025. február 28-áig a 76NPM081–76NPM082 sorban a riasztás okára való tekintettel kell tovább bontani. A 76NPM08 sor egyenlő a 76NPM081 és a 76NPM082 sor összegével.
-
-## 76NPM081 Kötelező, a 30/2024. (VI. 24.) MNB rendelet szerinti szűrési feltételek által generált riasztások
-
-## A 76NPM08 sorból a 30/2024. (VI. 24.) MNB rendelet 30. § (1) bekezdése szerinti szűrési feltételek által generált riasztások tárgynegyedévi darabszáma.
-
-## Azon foglalkoztatói nyugdíjszolgáltató intézményeknek, akik élnek a 30/2024. (VI. 24.) MNB rendelet 30. § (3) bekezdésében foglalt lehetőséggel, vagyis a kötelező szűrési feltételeket más szűrésekkel helyettesítik, a 30/2024. (VI. 24.) MNB rendeletben megfogalmazott feltételrendszernek megfelelő adatkört leválogatás útján szükséges előállítaniuk és jelenteniük.
-
-## 76NPM082 A foglalkoztatói nyugdíjszolgáltató intézmény által definiált szűrési feltételek által generált riasztások
-
-## A 76NPM08 sorból azon riasztások darabszáma, amelyek szűrési feltételei a foglalkoztatói nyugdíjszolgáltató intézmény által kerültek meghatározásra, és a riasztások nem esnek a 76NPM081 sorban megadott kritériumok alá.
+## A foglalkoztatói nyugdíjszolgáltató intézmény szűrőrendszere által kockázatosnak minősített ügyfél vagy szokatlan ügylet vonatkozásában azon riasztások tárgynegyedévi darabszáma, amelyeknek szűrési feltételeit a foglalkoztatói nyugdíjszolgáltató intézmény határozta meg. A foglalkoztatói nyugdíjszolgáltató intézmény által meghatározott szűrési feltételnek minősülnek azon szűrési feltételek is, amelyeket a foglalkoztatói nyugdíjszolgáltató intézmény a 30/2024. (VI. 24.) MNB rendelet 31. § (3) bekezdésében hivatkozott MNB tájékoztatás (a továbbiakban: MNB tájékoztatás) alapján épített be belső kockázatértékelésébe.
 
 ## 76NPM09 A foglalkoztatói nyugdíjszolgáltató intézmény nem tudta a szűrések elemzését és értékelését határidőn belül elvégezni
 
-## Azoknak a szűréseknek a darabszáma a tárgynegyedévben, amelyeknek az elemzését és értékelését a foglalkoztatói nyugdíjszolgáltató intézmény a 30/2024. (VI. 24.) MNB rendelet 31. § (2) bekezdésében meghatározott határidőn belül nem végezte el.
-
-## Az itt kimutatott adatokat a 76NPM091–76NPM092 sorban a riasztás okára való tekintettel kell tovább bontani. A 76NPM09 sor egyenlő a 76NPM091 és a 76NPM092 sor összegével.
-
-## 76NPM091 Kötelező, a 30/2024. (VI. 24.) MNB rendelet szerinti szűrési feltételek által generált riasztások
-
-## A 76NPM09 sorból a 30/2024. (VI. 24.) MNB rendelet 30. § (1) bekezdése szerinti szűrési feltételek által generált riasztások tárgynegyedévi darabszáma, amelynek az elemzését és értékelését a foglalkoztatói nyugdíjszolgáltató intézmény a 30/2024. (VI. 24.) MNB rendelet szerinti határidőben nem végezte el.
-
-## 76NPM092 A foglalkoztatói nyugdíjszolgáltató intézmény által definiált szűrési feltételek által generált riasztások
-
-## A 76NPM09 sorból azon riasztások darabszáma, amelyek szűrési feltételei a foglalkoztatói nyugdíjszolgáltató intézmény által kerültek meghatározásra és a feltételek nem esnek 30/2024. (VI. 24.) MNB rendelet 30. § (1) bekezdése szerinti szűrési feltételek alá, és amely riasztásoknak az elemzését és az értékelését a foglalkoztatói nyugdíjszolgáltató intézmény a 30/2024. (VI. 24.) MNB rendelet szerinti határidőben nem végezte el.
+## Azon riasztások tárgynegyedévi darabszáma, amelyeknek az elemzését és értékelését a foglalkoztatói nyugdíjszolgáltató intézmény a 30/2024. (VI. 24.) MNB rendelet 31. § (2) bekezdésében, illetve az MNB tájékoztatás alapján a belső kockázatértékelésében meghatározott határidőn belül nem végezte el.
 
 ## 76NPM10 Saját bejelentések
 
@@ -877,3 +855,5 @@
 10. melléklet az 58/2024. (XII. 3.) MNB rendelethez
 
 A foglalkoztatói nyugdíjszolgáltató intézmény PEPP szöveges jelentése kitöltésére vonatkozó részletes előírások
+
+[^7]: A 9. melléklet II. pont 1.28. alpontja a 13. § (2) bekezdésével megállapított szöveg.

@@ -1,4 +1,4 @@
-## 4X08733D.pdf
+## 4X08733O.pdf
 
 9. melléklet az 58/2024. (XII. 3.) MNB rendelethez
 

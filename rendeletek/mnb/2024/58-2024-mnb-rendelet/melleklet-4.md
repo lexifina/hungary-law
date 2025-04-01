@@ -944,7 +944,7 @@
 
 ## A 71OPI11 kezdetű sorokban a pénztárnak az ügyfelekkel való elektronikus kapcsolattartására vonatkozó adatokat kell megadni. Az ügyfél általi adatmódosítás fogalmába a tranzakciós adatmódosításokat (pl. új szolgáltatás igénybevétele) is beleértendő.
 
-## 1.18. 71OPM Pénzmosással és terrorizmusfinanszírozással kapcsolatos negyedéves adatok
+## 1.18.[^3] 71OPM Pénzmosással és terrorizmusfinanszírozással kapcsolatos negyedéves adatok
 
 ## A tábla kitöltése
 
@@ -954,7 +954,7 @@
 
 ## - PEP: a Pmt. 4. § (1)–(4) bekezdésében meghatározott, kiemelt közszereplő, kiemelt közszereplő közeli hozzátartozója, illetve a kiemelt közszereplővel közeli kapcsolatban álló személy együttes elnevezése;
 
-## - származás: az ügyfél bármilyen kimutatható, az adatszolgáltató által pénzmosási szempontból lényegesnek minősített kapcsolata – legyen az személyes vagy üzleti – a hivatkozott országgal, térséggel vagy területtel; pénzmosási szempontból lényegesnek minősített kapcsolat esetén vizsgálandó különösen, de nem kizárólagosan: ügyfél székhelye, lakó- és tartózkodási helye, állampolgársága, ügyfél tényleges tulajdonosának lakó- és tartózkodási helye, állampolgársága, ügyfél tényleges tulajdonosi minősége az adott országban székhellyel rendelkező jogi személyben vagy jogi személyiséggel nem rendelkező szervezetben, ügyfél tájékoztatása alapján, ügyfélnek ténylegesen igazolt kapcsolat nélküli szoros kötődése egy országgal vagy térséggel (pl. menekültstátuszhoz, kisebbségek helyzetéhez kapcsolódó információk), üzleti tevékenységét jelentősen befolyásoló kapcsolat (pl. az ügyfél vagyoni helyzetéhez mérten jelentős összegű, honosságától eltérő országból származó pénzösszegek, az ügyfél szolgáltatását igénybe vevők túlnyomó többsége az ügyfél honosságától eltérő országhoz köthető);
+## - származás: az ügyfél bármilyen kimutatható, a pénztár által pénzmosási szempontból lényegesnek minősített kapcsolata – legyen az személyes vagy üzleti – a hivatkozott országgal, térséggel vagy területtel; pénzmosási szempontból lényegesnek minősített kapcsolat esetén vizsgálandó különösen, de nem kizárólagosan: ügyfél székhelye, lakó- és tartózkodási helye, állampolgársága, ügyfél tényleges tulajdonosának lakó- és tartózkodási helye, állampolgársága, ügyfél tényleges tulajdonosi minősége az adott országban székhellyel rendelkező jogi személyben vagy jogi személyiséggel nem rendelkező szervezetben, ügyfél tájékoztatása alapján, ügyfélnek ténylegesen igazolt kapcsolat nélküli szoros kötődése egy országgal vagy térséggel (pl. menekültstátuszhoz, kisebbségek helyzetéhez kapcsolódó információk), üzleti tevékenységét jelentősen befolyásoló kapcsolat (pl. az ügyfél vagyoni helyzetéhez mérten jelentős összegű, honosságától eltérő országból származó pénzösszegek, az ügyfél szolgáltatását igénybe vevők túlnyomó többsége az ügyfél honosságától eltérő országhoz köthető);
 
 ## - tényleges tulajdonos: a Pmt. 3. § 38. pontja szerinti jogalany;
 
@@ -972,7 +972,7 @@
 
 ## A tábla sorai
 
-## 71OPM01 Üzleti kapcsolat létesítésekor elvégzett ügyfél-átvilágítás
+## 71OPM01 Üzleti kapcsolat létesítésekor elvégzettügyfél-átvilágítás
 
 ## Ebben a sorban kell feltüntetni a tárgynegyedévben a pénztár által a Pmt. 6. § (1) bekezdés a) pontja szerint üzleti kapcsolat létesítésekor lefolytatott egyszerűsített, fokozott vagy normál ügyfél-átvilágítások összesített számát. Amennyiben az ügyfél átvilágítása során azonos eljárásban egyidejűleg több kapcsolódó személy azonosítása és személyazonosságának igazoló ellenőrzése, valamint nyilatkoztatása is megtörténik (pl. képviselő, rendelkezésre jogosult, meghatalmazott, kedvezményezett), azt egy átvilágítási eljárásnak kell tekinteni. A Pmt. 6. § (1) bekezdés b)–i) pontja szerinti ügyfél-átvilágítások, valamint a 12. § (2) bekezdése szerinti ismételt ügyfél-átvilágítások száma nem szerepeltetendő.
 
@@ -1050,33 +1050,11 @@
 
 ## 71OPM08 Kockázatos ügyfél és szokatlan ügylet kiszűrését biztosító szűrőrendszer riasztásai
 
-## A pénztár szűrőrendszere által kockázatosnak minősített ügyfél, illetve szokatlan ügylet vonatkozásában generált riasztások darabszáma a tárgynegyedévben.
-
-## A 71OPM08 sorban kimutatott adatokat 2025. február 28-áig a 71OPM081–71OPM082 sorban a riasztás okára való tekintettel kell tovább bontani. A 71OPM08 sor egyenlő a 71OPM081 és a 71OPM082 sor összegével.
-
-## 71OPM081 Kötelező, a 30/2024. (VI. 24.) MNB rendelet szerinti szűrési feltételek által generált riasztások
-
-## A 71OPM08 sorból a 30/2024. (VI. 24.) MNB rendelet 30. § (1) bekezdése szerinti szűrési feltételek által generált riasztások tárgynegyedévi darabszáma.
-
-## Azon pénztáraknak, akik élnek a 30/2024. (VI. 24.) MNB rendelet 30. § (3) bekezdésében foglalt lehetőséggel, vagyis a kötelező szűrési feltételeket más szűrésekkel helyettesítik, a 30/2024. (VI. 24.) MNB rendeletben megfogalmazott feltételrendszernek megfelelő adatkört leválogatás útján szükséges előállítaniuk és jelenteniük.
-
-## 71OPM082 Pénztár által definiált szűrési feltételek által generált riasztások
-
-## A 71OPM08 sorból azon riasztások darabszáma, amelyek szűrési feltételei a pénztár által kerültek meghatározásra, és a riasztások nem esnek a 71OPM081 sorban megadott kritériumok alá.
+## A pénztár szűrőrendszere által kockázatosnak minősített ügyfél vagy szokatlan ügylet vonatkozásában azon riasztások tárgynegyedévi darabszáma, amelyeknek szűrési feltételeit a pénztár határozta meg. A pénztár által meghatározott szűrési feltételnek minősülnek azon szűrési feltételek is, amelyeket a pénztár a 30/2024. (VI. 24.) MNB rendelet 31. § (3) bekezdésében hivatkozott MNB tájékoztatás (a továbbiakban: MNB tájékoztatás) alapján épített be belső kockázatértékelésébe.
 
 ## 71OPM09 A pénztár nem tudta a szűrések elemzését és értékelését határidőn belül elvégezni
 
-## Azoknak a szűréseknek a darabszáma a tárgynegyedévben, amelyeknek az elemzését és értékelését a pénztár a MNB rendelet 31. § (2) bekezdésében meghatározott határidőn belül nem végezte el.
-
-## Az itt kimutatott adatokat 2025. február 28-áig a 71OPM091–71OPM092 sorban a riasztás okára való tekintettel kell tovább bontani. A 71OPM09 sor egyenlő a 71OPM091 és a 71OPM092 sor összegével.
-
-## 71OPM091 Kötelező, a 30/2024. (VI. 24.) MNB rendelet szerinti szűrési feltételek által generált riasztások
-
-## A 71OPM09 sorból a 30/2024. (VI. 24.) MNB rendelet 30. § (1) bekezdése szerinti szűrési feltételek által generált riasztások tárgynegyedévi darabszáma, amelynek az elemzését és értékelését a pénztár az MNB rendelet szerinti határidőben nem végezte el.
-
-## 71OPM092 Pénztár által definiált szűrési feltételek által generált riasztások
-
-## A 71OPM09 sorból azon riasztások darabszáma, amelyek szűrési feltételei a pénztár által kerültek meghatározásra és a feltételek nem esnek a 30/2024. (VI. 24.) MNB rendelet 30. § (1) bekezdése szerinti szűrési feltételek alá, és amely riasztásoknak az elemzését és értékelését a pénztár a 30/2024. (VI. 24.) MNB rendelet szerinti határidőben nem végezte el.
+## Azon riasztások tárgynegyedévi darabszáma, amelyeknek az elemzését és értékelését a pénztár a 30/2024. (VI. 24.) MNB rendelet 31. § (2) bekezdésében, illetve az MNB tájékoztatás alapján a belső kockázatértékelésében meghatározott határidőn belül nem végezte el.
 
 ## 71OPM10 Saját bejelentések
 
@@ -1728,4 +1706,7 @@
 
 ## A portfólió árfolyamának alakulását bemutató grafikon webcíme.
 
-4. melléklet az 58/2024. (XII. 3.) MNB rendelethez
+4. melléklet az 58/2024. (XII. 3.) MNB rendelethez[^4]
+
+[^3]: A 3. melléklet IV. pont 1.18. alpontja a 13. § (1) bekezdésével megállapított szöveg.
+[^4]: A 4. melléklet a 13. § (1) bekezdése szerint módosított szöveg.

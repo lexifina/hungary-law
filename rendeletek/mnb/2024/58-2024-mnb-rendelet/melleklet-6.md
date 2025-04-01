@@ -438,7 +438,7 @@
 
 ## A 71EPI11 kezdetű sorokban a pénztárnak az ügyfelekkel való elektronikus kapcsolattartására vonatkozó adatokat kell megadni. Az ügyfél általi adatmódosítás fogalmába a tranzakciós adatmódosításokat (pl. új szolgáltatás igénybevétele) is beleértendő.
 
-## 1.12. 71EPM Pénzmosással és terrorizmusfinanszírozással kapcsolatos negyedéves adatok
+## 1.12.[^5] 71EPM Pénzmosással és terrorizmusfinanszírozással kapcsolatos negyedéves adatok
 
 ## A tábla kitöltése
 
@@ -448,7 +448,7 @@
 
 ## - PEP: a Pmt. 4. § (1)–(4) bekezdésében meghatározott, kiemelt közszereplő, kiemelt közszereplő közeli hozzátartozója, illetve a kiemelt közszereplővel közeli kapcsolatban álló személy együttes elnevezése;
 
-## - származás: az ügyfél bármilyen kimutatható, az adatszolgáltató által pénzmosási szempontból lényegesnek minősített kapcsolata – legyen az személyes vagy üzleti – a hivatkozott országgal, térséggel vagy területtel; pénzmosási szempontból lényegesnek minősített kapcsolat esetén vizsgálandó különösen, de nem kizárólagosan: ügyfél székhelye, lakó- és tartózkodási helye, állampolgársága, ügyfél tényleges tulajdonosának lakó- és tartózkodási helye, állampolgársága, ügyfél tényleges tulajdonosi minősége az adott országban székhellyel rendelkező jogi személyben vagy jogi személyiséggel nem rendelkező szervezetben, ügyfél tájékoztatása alapján, ügyfélnek ténylegesen igazolt kapcsolat nélküli szoros kötődése egy országgal vagy térséggel (pl. menekültstátuszhoz, kisebbségek helyzetéhez kapcsolódó információk), üzleti tevékenységét jelentősen befolyásoló kapcsolat (pl. az ügyfél vagyoni helyzetéhez mérten jelentős összegű, honosságától eltérő országból származó pénzösszegek, az ügyfél szolgáltatását igénybe vevők túlnyomó többsége az ügyfél honosságától eltérő országhoz köthető);
+## - származás: az ügyfél bármilyen kimutatható, a pénztár által pénzmosási szempontból lényegesnek minősített kapcsolata – legyen az személyes vagy üzleti – a hivatkozott országgal, térséggel vagy területtel; pénzmosási szempontból lényegesnek minősített kapcsolat esetén vizsgálandó különösen, de nem kizárólagosan: ügyfél székhelye, lakó- és tartózkodási helye, állampolgársága, ügyfél tényleges tulajdonosának lakó- és tartózkodási helye, állampolgársága, ügyfél tényleges tulajdonosi minősége az adott országban székhellyel rendelkező jogi személyben vagy jogi személyiséggel nem rendelkező szervezetben, ügyfél tájékoztatása alapján, ügyfélnek ténylegesen igazolt kapcsolat nélküli szoros kötődése egy országgal vagy térséggel (pl. menekültstátuszhoz, kisebbségek helyzetéhez kapcsolódó információk), üzleti tevékenységét jelentősen befolyásoló kapcsolat (pl. az ügyfél vagyoni helyzetéhez mérten jelentős összegű, honosságától eltérő országból származó pénzösszegek, az ügyfél szolgáltatását igénybe vevők túlnyomó többsége az ügyfél honosságától eltérő országhoz köthető);
 
 ## - tényleges tulajdonos: a Pmt. 3. § 38. pontja szerinti jogalany;
 
@@ -536,41 +536,17 @@
 
 ## 71EPM071 Magas kockázati szinttel rendelkező ügyfelek legjelentősebb összegű végrehajtott ügylete
 
-## Azon tárgynegyedévi legmagasabb egyösszegű ügylet összegét kell a pénztárnak megadnia, amelyet a pénztár által a Pmt. 16. § (1) bekezdése szerint magas kockázatúnak tekintett ügyfél kezdeményezett, vagy magas kockázatúnak tekintett ügyfél számlájára került jóváírásra.
+## A 71EPM07 sorból azon tárgynegyedévi legmagasabb egyösszegű ügylet összegét kell a pénztárnak megadnia, amelyet a pénztár által a Pmt. 16. § (1) bekezdése szerint magas kockázatúnak tekintett ügyfél kezdeményezett, vagy magas kockázatúnak tekintett ügyfél számlájára került jóváírásra.
 
 ## 71EPM072 Nem magas kockázati szinttel rendelkező, megerősített eljárás alá tartozó ügyfelek legjelentősebb összegű végrehajtott ügylete
 
-## Azon tárgynegyedévi legmagasabb egyösszegű ügylet összegét kell a pénztárnak megadnia, amelyet olyan ügyfél kezdeményezett, vagy olyan ügyfél számlájára került jóváírásra, akit a pénztár nem magas kockázati szintbe sorolt be, de megerősített eljárás alá tartozik.
+## A 71EPM07 sorból azon tárgynegyedévi legmagasabb egyösszegű ügylet összegét kell a pénztárnak megadnia, amelyet olyan ügyfél kezdeményezett, vagy olyan ügyfél számlájára került jóváírásra, akit a pénztár nem magas kockázati szintbe sorolt be, de megerősített eljárás alá tartozik.
 
-## 71EPM08 Kockázatos ügyfél és szokatlan ügylet kiszűrését biztosító szűrőrendszer riasztásai
-
-## A pénztár szűrőrendszere által kockázatosnak minősített ügyfél, illetve szokatlan ügylet vonatkozásában generált riasztások darabszáma a tárgynegyedévben.
-
-## A 71EPM08 sorban kimutatott adatokat 2025. február 28-áig a 71EPM081–71EPM082 sorban a riasztás okára való tekintettel kell tovább bontani. A 71EPM08 sor egyenlő a 71EPM081 és a 71EPM082 sor összegével.
-
-## 71EPM081 Kötelező, a 30/2024. (VI. 24.) MNB rendelet szerinti szűrési feltételek által generált riasztások
-
-## A 71EPM08 sorból a 30/2024. (VI. 24.) MNB rendelet 30. § (1) bekezdése szerinti szűrési feltételek által generált riasztások tárgynegyedévi darabszáma.
-
-## Azon pénztáraknak, akik élnek a 30/2024. (VI. 24.) MNB rendelet 30. § (3) bekezdésében foglalt lehetőséggel, vagyis a kötelező szűrési feltételeket más szűrésekkel helyettesítik, a 30/2024. (VI. 24.) MNB rendeletben megfogalmazott feltételrendszernek megfelelő adatkört leválogatás útján szükséges előállítaniuk és jelenteniük.
-
-## 71EPM082 Pénztár által definiált szűrési feltételek által generált riasztások
-
-## A 71EPM08 sorból azon riasztások darabszáma, amelyek szűrési feltételei a pénztár által kerültek meghatározásra, és a riasztások nem esnek a 71EPM081 sorban megadott kritériumok alá.
+## 71EPM08 Kockázatos ügyfél és szokatlan ügylet kiszűrését biztosító szűrőrendszer riasztásaiA pénztár szűrőrendszere által kockázatosnak minősített ügyfél vagy szokatlan ügylet vonatkozásában azon riasztások tárgynegyedévi darabszáma, amelyeknek a szűrési feltételeit a pénztár határozta meg. A pénztár által meghatározott szűrési feltételnek minősülnek azon szűrési feltételek is, amelyeket a pénztár a 30/2024. (VI. 24.) MNB rendelet 31. § (3) bekezdésében hivatkozott MNB tájékoztatás (a továbbiakban: MNB tájékoztatás) alapján épített be belső kockázatértékelésébe.
 
 ## 71EPM09 A pénztár nem tudta a szűrések elemzését és értékelését határidőn belül elvégezni
 
-## Azoknak a szűréseknek a darabszáma a tárgynegyedévben, amelyeknek az elemzését és az értékelését a pénztár a 30/2024. (VI. 24.) MNB rendelet 31. § (2) bekezdésében meghatározott határidőn belül nem végezte el.
-
-## Az itt kimutatott adatokat 2025. február 28-áig a 71EPM091–71EPM092 sorban a riasztás okára való tekintettel kell tovább bontani. A 71EPM09 sor egyenlő a 71EPM091 és a 71EPM092 sor összegével.
-
-## 71EPM091 Kötelező, a 30/2024. (VI. 24.) MNB rendelet szerinti szűrési feltételek által generált riasztások
-
-## A 71EPM09 sorból a 30/2024. (VI. 24.) MNB rendelet 30. § (1) bekezdése szerinti szűrési feltételek által generált riasztások tárgynegyedévi darabszáma, amelynek az elemzését és az értékelését a pénztár a 30/2024. (VI. 24.) MNB rendelet szerinti határidőben nem végezte el.
-
-## 71EPM092 Pénztár által definiált szűrési feltételek által generált riasztások
-
-## A 71EPM09 sorból azon riasztások darabszáma, amelyek szűrési feltételei a pénztár által kerültek meghatározásra és a feltételek nem esnek a 30/2024. (VI. 24.) MNB rendelet 30. § (1) bekezdése szerinti szűrési feltételek alá, és amely riasztásoknak az elemzését és az értékelését a pénztár a 30/2024. (VI. 24.) MNB rendelet szerinti határidőben nem végezte el.
+## Azon riasztások tárgynegyedévi darabszáma, amelyeknek az elemzését és értékelését a pénztár a 30/2024. (VI. 24.) MNB rendelet 31. § (2) bekezdésében, illetve az MNB tájékoztatás alapján a belső kockázatértékelésében meghatározott határidőn belül nem végezte el.
 
 ## 71EPM10 Saját bejelentések
 
@@ -1089,3 +1065,5 @@
 | FUGG | Azonosítatlan (függő) befizetések portfólió |
 
 6. melléklet az 58/2024. (XII. 3.) MNB rendelethez
+
+[^5]: Az 5. melléklet II. pont 1.12. alpontja a 13. § (1) bekezdésével megállapított szöveg.

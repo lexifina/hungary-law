@@ -1,4 +1,4 @@
-## 4X08733B.pdf
+## 4X08733N.pdf
 
 5. melléklet az 58/2024. (XII. 3.) MNB rendelethez
 
