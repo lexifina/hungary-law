@@ -1,9 +1,0 @@
-2. § (1) E rendelet alkalmazásában önálló lakás az állomány tagja vagy a házastársa, élettársa, bejegyzett élettársa és a velük együtt élő kiskorú gyermek tulajdonának tárgyát képező és birtokában lévő lakás, ha a tulajdoni hányaduk – együttesen is – meghaladja az 50%-ot, továbbá az általuk bérlőként, bérlőtársként használt bérlakás, ha a lakás állami vagy önkormányzati tulajdonban van.
-
-(2) Nem lehet önálló lakásnak tekinteni
-
-a) az öröklés vagy ajándékozás jogcímén haszonélvezettel terhelt lakást, ha a haszonélvező a lakásban igazoltan bent lakik;
-
-b) az állomány tagja tulajdonában álló lakást, ha annak használatát az állomány tagja házassági, illetve élettársi kapcsolat igazolt megszűnése miatt a házastársa, illetve élettársa vagy gyermeke részére átengedte, a lakáshasználat tárgyában hozott bírósági határozat jogerőre emelkedését vagy a lakáshasználatot rendező megállapodás hatálybalépését követően.
-
-(3) A (2) bekezdés b) pontja esetén a házasság megszűnését a házasságot felbontó jogerős bírósági határozattal, az élettársi kapcsolat megszűnését az állomány tagjának közjegyzői okiratba foglalt nyilatkozatával kell igazolni.
