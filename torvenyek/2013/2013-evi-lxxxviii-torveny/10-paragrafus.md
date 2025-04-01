@@ -18,11 +18,13 @@ g) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési
 
 h) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv a rendőrségről szóló törvény alapján hatáskörébe tartozó bűncselekmények megelőzése, illetve megszakítása, továbbá személyvédelmi és létesítménybiztosítási feladatai ellátása céljából,
 
-i) a Nemzeti Információs Központ az utasadatok kockázatelemzése, elemzés-értékelés, valamint hírigény teljesítése céljából,
+i) a Nemzeti Információs Központ elemzés-értékelés, valamint hírigény teljesítése céljából,
 
 j) a Nemzeti Adó- és Vámhivatal vámellenőrzési feladatai ellátása céljából,
 
 k) a bíróság, az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv a büntetőeljárás lefolytatása céljából.
+
+l) az utasadat-információs egység az utasadatok kockázatelemzése céljából.
 
 (2) Az igazságügyért felelős miniszter és az ügyészség a kegyelmi ügyek intézése és a jogsegélykérelem elintézése céljából, továbbá a nemzetközi szerződésekben meghatározott és a viszonossági gyakorlatból eredő feladatai teljesítése céljából közvetlen hozzáféréssel jogosult átvenni adatot a körözött személyek nyilvántartásából, a körözött dolgok nyilvántartásából, valamint az ismeretlen holttestek, holttestrészek nyilvántartásából.
 
