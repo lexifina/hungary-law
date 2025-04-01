@@ -1,6 +1,6 @@
-## 4X03643M.docx
+## 5X01338N.docx
 
-| XII. Agrárminisztérium 2024. évi költségvetési kiadási előirányzatainak feladatterve |
+| XII. Agrárminisztérium 2025. évi költségvetési kiadási előirányzatainak feladatterve |
 
 |  | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O |
 
@@ -66,6 +66,6 @@
 
 | 21. | 398839 |  | 9_Földügyi kompenzációs feladatok | A mezőgazdasági földeken fennálló haszonélvezeti jogok ex lege megszüntetése miatt indult, C-235/17. számú Európai Bizottság kontra Magyarország ügyben az Európai Unió Bírósága által hozott ítélet végrehajtásával összefüggő – a kompenzációval kapcsolatban felmerülő – feladatok finanszírozása. | 1. jogi személy 2. jogi személyiséggel nem rendelkező szervezet 3. természetes személy | – | – | 1. egy összegben vagy 2. részletekben, 2.1. időarányosan vagy 2.2. teljesítés-arányosan történő kifizetéssel | – | – | – | – | – |
 
-3. melléklet a 14/2021. (III. 25.) AM rendelethez[^42]
+3. melléklet a 14/2021. (III. 25.) AM rendelethez[^44]
 
-[^42]: A 3. mellékletet a 2/2023. (I. 12.) AM rendelet 8. § 16. pontja hatályon kívül helyezte.
+[^44]: A 3. mellékletet a 2/2023. (I. 12.) AM rendelet 8. § 16. pontja hatályon kívül helyezte.

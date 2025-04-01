@@ -16,7 +16,7 @@ c)[^8] az (EU) 2023/2831 bizottsági rendelet szerinti csekély összegű,
 
 d) az 1408/2013/EU bizottsági rendelet szerinti csekély összegű,
 
-e)[^9]
+e)[^9] a 717/2014/EU bizottsági rendelet szerinti csekély összegű,
 
 f) egyéb, a mezőgazdasági ágazat gazdasági helyzetét negatívan befolyásoló körülmények kezelését célzó európai uniós szabályozási keretekhez kapcsolódó,
 
@@ -27,4 +27,4 @@ az Európai Unió működéséről szóló szerződés 107. cikk (1) bekezdése 
 [^6]: A 2/A. § (2) bekezdés a) pont nyitó szövegrésze a 34/2024. (V. 30.) AM rendelet 8. § b) pontja szerint módosított szöveg.
 [^7]: A 2/A. § (2) bekezdés b) pontja a 34/2024. (V. 30.) AM rendelet 4. §-ával megállapított szöveg.
 [^8]: A 2/A. § (2) bekezdés c) pontja az 55/2024. (X. 31.) AM rendelet 4. §-a szerint módosított szöveg.
-[^9]: A 2/A. § (2) bekezdés e) pontját a 34/2024. (V. 30.) AM rendelet 9. § b) pontja hatályon kívül helyezte.
+[^9]: A 2/A. § (2) bekezdés e) pontját a 34/2024. (V. 30.) AM rendelet 9. § b) pontja hatályon kívül helyezte, újonnan a 4/2025. (III. 31.) AM rendelet 1. §-a iktatta be.
