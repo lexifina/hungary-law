@@ -4,6 +4,8 @@
 
 (1a) Azt az egészségileg alkalmas személyt, aki az alap biztonsági kompetenciákat megszerezte és tengeren közlekedő úszólétesítményen teljesít szolgálatot, vagy szolgálatot kíván teljesíteni – kérelmére – a vizsgaközpont tengerész szolgálati könyvvel látja el.
 
-(2) Magyar lobogó alatt közlekedő úszólétesítményen szolgálat csak szolgálati könyv birtokában látható el.
+(2) Magyar lobogó alatt közlekedő úszólétesítményen – a (2a) bekezdésben foglalt kivétellel – szolgálat csak érvényes szolgálati könyv birtokában látható el.
+
+(2a) A hivatásos hajós képesítésekről szóló miniszteri rendelet hatálya alá nem tartozó úszólétesítmény személyzete részére hajós szolgálati könyv nem kötelező.
 
 (3) A kiadott szolgálati könyvekről a kiadó hajózási hatóság nyilvántartást vezet, amely nyilvántartás a hajón töltött szolgálati időre, a beosztásra és az egészségügyi alkalmasságra vonatkozó adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.

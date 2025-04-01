@@ -14,13 +14,15 @@ a) a nyilvántartásba vételre nem kötelezett úszólétesítményekkel végze
 
 b) a központi költségvetési szervek jogszabályban előírt feladatainak saját eszközökkel való ellátásához,
 
-c) vízijármű kedvtelési célú használatához, ide nem értve az oktatási céllal folytatott hajózási tevékenységet,
+c) vízijármű kedvtelési célú használatához,
 
 d) úszómű szálláshelyként vagy kikötő, hajózási létesítmény elemeként történő üzemeltetéséhez, kivéve a gazdasági célból történő üzemeltetést,
 
 e) az EGT-államok hajózási hatóságai által kiállított hajózási engedély alapján végzett hajózási tevékenységhez.
 
 f) halgazdálkodást támogató hajóval végzett tevékenységhez.
+
+g) kishajóval végzett oktatási tevékenységhez.
 
 (3) A hajózási engedélyben meg kell határozni azt a tevékenységet és területet, amelyre az engedély vonatkozik, továbbá a tevékenység folytatásának feltételeit.
 
