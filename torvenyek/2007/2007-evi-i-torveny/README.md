@@ -53,3 +53,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-1-00-00
 | 2024-01-01 | 2023. évi XC. törvény | 2007-1-00-00.48 |
 | 2024-09-01 | 2024. évi XXV. törvény | 2007-1-00-00.54 |
 | 2025-03-01 | 2024. évi LXXII. törvény | 2007-1-00-00.56 |
+| 2025-04-01 | 2024. évi LXXI. törvény | 2007-1-00-00.55 |
