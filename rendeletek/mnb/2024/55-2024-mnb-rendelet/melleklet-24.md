@@ -1,3 +1,3 @@
-24. melléklet az 55/2024. (XII. 3.) MNB rendelethez[^5]
+## 4X872223.pdf
 
-[^5]: A 24. melléklet a 17. § (2) bekezdése alapján 2025. április 1-jén lép hatályba.
+24. melléklet az 55/2024. (XII. 3.) MNB rendelethez

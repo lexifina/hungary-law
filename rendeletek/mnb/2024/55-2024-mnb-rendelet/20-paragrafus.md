@@ -1,3 +1,1 @@
-20. §[^1]
-
-[^1]: A 20. § a ... alapján 2025. április 1-jén lép hatályba.
+20. § A 2–7. melléklet a 22–27. melléklet szerint módosul.
