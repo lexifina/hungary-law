@@ -30,7 +30,7 @@ a) a hulladék biztonságos gyűjtéséhez szükséges kültéri és beltéri vi
 
 b) illemhelyiséggel, fűtéssel ellátott porta-, irodaépület vagy irodakonténer;
 
-c) 1 db legalább 200 kg-os méréshatárú, hitelesített mérleg.
+c)[^51] 1 db legalább 200 kg-os méréshatárú, legalább 1 kg méréspontosságú hitelesített mérleg.
 
 2.2. A hulladéktároló hely üzemeltetése során a hulladék biztonságos tárolásához szükséges kültéri és beltéri világítást biztosítani kell.
 
@@ -45,3 +45,5 @@ c) kéziszerszámok;
 d) egyéni védőfelszerelések;
 
 e) telefon.
+
+[^51]: A 2. melléklet 2.1. pont c) alpontja a 465/2024. (XII. 30.) Korm. rendelet 21. §-a szerint módosított szöveg.
