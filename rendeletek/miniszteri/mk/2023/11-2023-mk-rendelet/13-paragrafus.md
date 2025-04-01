@@ -1,3 +1,0 @@
-13. § (1) A munkatárs részére a polgári nemzetbiztonsági szolgálat ismételt munkáltatói kölcsönt – kivéve a 2. § (1) bekezdés e) pontjában foglalt célra nyújtott munkáltatói kölcsönt – az előző munkáltatói kölcsönből még fennálló tartozás teljes visszafizetését követően nyújthat. A fennálló tartozás visszafizetése – házastársak, élettársak részére a polgári nemzetbiztonsági szolgálat által nyújtott munkáltatói kölcsön kivételével – az átvállalásnak is feltétele.
-
-(2) A visszafizetési kedvezményben részesített munkatárs a munkáltatói kölcsön visszafizetését követő 5 éven belül újabb munkáltatói kölcsönt nem kaphat.
