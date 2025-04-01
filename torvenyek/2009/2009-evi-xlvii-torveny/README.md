@@ -64,3 +64,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-47-00-00
 | 2024-07-18 | 2024. évi XXIX. törvény | 2009-47-00-00.64 |
 | 2024-11-01 | 2024. évi XLI. törvény | 2009-47-00-00.65 |
 | 2025-01-01 | 2022. évi IV. törvény | 2009-47-00-00.53 |
+| 2025-04-01 | 2024. évi LXXI. törvény | 2009-47-00-00.67 |
