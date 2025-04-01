@@ -1,0 +1,1 @@
+12. § Amennyiben a típusvizsgálat szerint a vizsgált e-pénztárgép nem felel meg az e rendeletben foglalt feltételeknek, de kisebb módosításokkal erre lehetőség van, az állami adó- és vámhatóság határidő tűzésével lehetőséget biztosít a kérelmező részére a hiba kiküszöbölésére.

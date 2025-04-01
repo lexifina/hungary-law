@@ -1,0 +1,1 @@
+11. § A típusvizsgálat során az állami adó- és vámhatóság képviselője, valamint annak felhívására a forgalmazó képviseletében jelen lévő személy végez műveleteket a vizsgálat alá vont e-pénztárgéppel.

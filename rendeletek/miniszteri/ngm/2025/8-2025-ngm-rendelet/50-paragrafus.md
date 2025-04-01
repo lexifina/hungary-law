@@ -1,0 +1,3 @@
+50. § (1) A forgalmazói tesztelés céljából üzembe állított e-pénztárgép tekintetében az AP számot a forgalmazó kérésére az állami adó- és vámhatóság adja. Az AP szám meghatározásakor az 49. § (2) bekezdés a) pontja szerinti karakterként a „T” betű használható. Az így rendszerbe állított e-pénztárgép kizárólag tesztelési vagy oktatási célra használható.
+
+(2) Az e-pénztárgép forgalmazója az (1) bekezdés szerinti e-pénztárgép rendszerbe állításáról, üzemeltetési helyéről és üzemeltetésének megszüntetéséről nyilvántartást köteles vezetni. A nyilvántartás adatairól a forgalmazó negyedévente, az állami adó- és vámhatóság által meghatározott módon és formában, elektronikus úton adatot szolgáltat az állami adó- és vámhatóság részére.

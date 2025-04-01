@@ -1,0 +1,1 @@
+7. § Az adózó által előállított vagy másik országból beszerzett e-pénztárgép adózó általi kizárólagos használata is forgalmazási engedélyhez kötött. Az így előállított vagy beszerzett e-pénztárgép engedélyezése során az 5. § (1) bekezdés d) pontjában foglalt feltételek teljesülését nem kell vizsgálni.

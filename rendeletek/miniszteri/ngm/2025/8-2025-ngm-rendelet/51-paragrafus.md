@@ -1,0 +1,1 @@
+51. § Ha a forgalmazó által adott engedélyszámon értékesített e-pénztárgépek száma meghaladja a kilencvenkilencezret, a jelen alcímben foglaltak biztosítása érdekében a forgalmazó kérelmére az állami adó- és vámhatóság az adott e-pénztárgép-típusra díjmentesen új engedélyszámot állapít meg.

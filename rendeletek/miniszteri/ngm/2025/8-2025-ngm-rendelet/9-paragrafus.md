@@ -1,0 +1,1 @@
+9. § A típusvizsgálat azon részének időpontjáról, amely a forgalmazó vagy meghatalmazottja részvételével zajlik, az állami adó- és vámhatóság a forgalmazót értesíti. A forgalmazó az e-pénztárgépet típusvizsgálatra az állami adó- és vámhatóság által megjelölt időpontban és helyszínre szállítja, vagy ott rendelkezésre bocsátja. A szállítási költségek a forgalmazót terhelik.
