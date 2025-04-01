@@ -1,3 +1,3 @@
-7. melléklet a 402/2024. (XII. 16.) Korm. rendelethez[^23]
+7. melléklet a 402/2024. (XII. 16.) Korm. rendelethez[^22]
 
-[^23]: A 7. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 7. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
