@@ -1,1 +1,0 @@
-36. § A munkáltatói hozzájárulás összege a 35. § szerinti szerződésben meghatározott módon számított tagdíjfizetési kötelezettség legfeljebb 80%-áig terjedhet, a szerződésben külön meghatározott eljárási rend és elszámolási feltételek szerint.

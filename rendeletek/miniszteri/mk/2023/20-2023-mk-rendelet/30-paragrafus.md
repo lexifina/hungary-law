@@ -1,5 +1,0 @@
-30. § (1) Ha az áthelyezett az új szolgálatteljesítési helyéről naponta családjához úgy tud visszatérni, hogy lakóhelyén legalább tíz órát eltölthet, különélési díj helyett utazási költségtérítésre jogosult.
-
-(2) Az utazáshoz igénybe vehető és a költségtérítés szempontjából irányadó közlekedési eszközt – gazdaságossági szempontok és a szolgálati érdek figyelembevételével – az állományilletékes parancsnok határozza meg.
-
-(3) Nem folyósítható különélési díj vagy utazási költségtérítés, ha az áthelyezett az új szolgálatteljesítési helyén a felajánlott lakható és a polgári nemzetbiztonsági szolgálatoknál a lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény végrehajtásáról szóló miniszteri rendeletben meghatározott méltányolható lakásigénynek megfelelő lakást nem fogadja el. Méltányolható lakásigénynek minősül az a lakás is, amely megegyező nagyságú és komfortfokozatú azzal a lakással, amelyben az áthelyezést megelőzően életvitelszerűen lakott.
