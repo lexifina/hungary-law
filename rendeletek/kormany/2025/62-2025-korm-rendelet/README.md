@@ -1,0 +1,9 @@
+# 62/2025. (III. 31.) Korm. rendelet
+
+a területfejlesztéssel és a területrendezéssel kapcsolatos információs rendszerről és a kötelező adatközlés szabályairól szóló 31/2007. (II. 28.) Korm. rendelet és az egységes elektronikus közműnyilvántartásról szóló 324/2013. (VIII. 29.) Korm. rendelet módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-62-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2025-04-01 | 2025-62-20-22.1 | 62/2025. (III. 31.) Korm. rendelet |

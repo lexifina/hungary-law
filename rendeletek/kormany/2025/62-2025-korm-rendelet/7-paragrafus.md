@@ -1,0 +1,1 @@
+7. § A 726/2020. (XII. 31.) Korm. rendelet 16. §-ában az „az elektronikus hírközlésért felelős minisztert” szövegrész helyébe az „a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 16. § (2) bekezdése szerinti minisztériumot” szöveg lép.
