@@ -1,3 +1,3 @@
-8. melléklet a 465/2024. (XII. 30.) Korm. rendelethez[^65]
+8. melléklet a 465/2024. (XII. 30.) Korm. rendelethez[^62]
 
-[^65]: A 8. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^62]: A 8. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

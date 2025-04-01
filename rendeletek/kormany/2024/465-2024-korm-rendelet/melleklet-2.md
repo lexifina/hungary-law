@@ -1,3 +1,3 @@
-2. melléklet a 465/2024. (XII. 30.) Korm. rendelethez[^59]
+2. melléklet a 465/2024. (XII. 30.) Korm. rendelethez[^56]
 
-[^59]: A 2. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^56]: A 2. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
