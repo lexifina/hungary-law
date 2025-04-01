@@ -1092,7 +1092,7 @@
 
 ## Az elszámolt értékvesztést és az értékvesztés visszaírását a 37B1 kódú táblában, a céltartalékképzést és a megképzett céltartalék feloldását a 37B2 kódú táblában kell szerepeltetni.
 
-## 1.26. 37C Pénzmosással és terrorizmusfinanszírozással kapcsolatos negyedéves adatok
+## 1.26.[^3] 37C Pénzmosással és terrorizmusfinanszírozással kapcsolatos negyedéves adatok
 
 ## A táblában az adatszolgáltató ügyfeleiről, valamint általa a Pmt. szerinti belső szabályzata alapján lefolytatott eljárások keretében összegyűjtött információkról kell adatot szolgáltatni.
 
@@ -1262,71 +1262,13 @@
 
 ## 37C17 Kockázatos ügyfél és szokatlan ügylet kiszűrését biztosító szűrőrendszer riasztásai
 
-## Az adatszolgáltató szűrőrendszere által kockázatosnak minősített ügyfél, illetve szokatlan ügylet vonatkozásában generált riasztások darabszáma az adott tárgynegyedévben.
-
-## A 37C17 sorban jelentett adatokat 2025. február 28-áig a 37C171–37C172 sorban a riasztás okára való tekintettel kell tovább bontani. A 37C17 sor egyenlő a 37C171 és a 37C172 sor összegével, míg a 37C171 sor értékét a 37C1711–37C1715 sorok összege adja meg.
-
-## 37C171 Kötelező, a 30/2024. (VI. 24.) MNB rendelet szerinti szűrési feltételek által generált riasztások
-
-## A 37C17 sorból a 30/2024. (VI. 24.) MNB rendelet 30. § (1) bekezdése szerinti szűrési feltételek által generált riasztások tárgynegyedévi darabszáma.
-
-## Azon adatszolgáltatónak, aki él a 30/2024. (VI. 24.) MNB rendelet 30. § (3) bekezdésében foglalt lehetőséggel, vagyis a 37C1711–37C1715 sorban szereplő kötelező szűrési feltételeket más szűrésekkel helyettesíti, az érintett sorok vonatkozásában a 30/2024. (VI. 24.) MNB rendeletben megfogalmazott feltételrendszernek megfelelő adatkört leválogatás útján szükséges előállítania és jelentenie.
-
-## 37C1711 Riasztás oka: huszonötmillió forintot elérő vagy meghaladó összegű készpénzbefizetés természetes személy ügyfél részére
-
-## A 37C171 sorból a huszonötmillió forintot elérő vagy meghaladó összegű, természetes személy ügyfél részére teljesített készpénzbefizetések kapcsán generált riasztások tárgynegyedévi darabszáma.
-
-## 37C1712 Riasztás oka: ötvenmillió forintot elérő vagy meghaladó összegű készpénzbefizetés jogi személy és jogi személyiséggel nem rendelkező ügyfél részére
-
-## A 37C171 sorból az ötvenmillió forintot elérő vagy meghaladó összegű, jogi személy és jogi személyiséggel nem rendelkező ügyfél részére teljesített készpénzbefizetések kapcsán generált riasztások tárgynegyedévi darabszáma.
-
-## 37C1713 Riasztás oka: stratégiai hiányosságokkal rendelkező, kiemelt kockázatot jelentő harmadik országból kezdeményezett vagy oda továbbított huszonötmillió forintot elérő vagy meghaladó összegű ügylet
-
-## A 37C171 sorból kiemelt kockázatú országból kezdeményezett vagy oda továbbított, huszonötmillió forintot elérő vagy meghaladó összegű ügyletek kapcsán generált riasztások tárgynegyedévi darabszáma.
-
-## 37C1714 Riasztás oka: huszonötmillió forintot elérő vagy meghaladó összegű, pénzátutalás adószámmal nem rendelkező jogi személy és jogi személyiséggel nem rendelkező ügyfél részére, vagy általa kezdeményezve
-
-## A 37C171 sorból a huszonötmillió forintot elérő vagy meghaladó összegű, adószámmal nem rendelkező jogi személy és jogi személyiséggel nem rendelkező ügyfél részére vagy általa kezdeményezett pénzátutalások kapcsán generált riasztások tárgynegyedévi darabszáma.
-
-## 37C17141 37C1714-ből: a magas kockázati besorolású, adószámmal nem rendelkező jogi személy és jogi személyiséggel nem rendelkező ügyfelek pénzátutalásai kapcsán generált riasztások
-
-## A 37C1714 sorból azon, huszonötmillió forintot elérő vagy meghaladó összegű, adószámmal nem rendelkező jogi személy és jogi személyiséggel nem rendelkező ügyfél részére vagy általa kezdeményezett pénzátutalások kapcsán generált riasztások tárgynegyedévi darabszáma, amelyeknél az adószámmal nem rendelkező ügyfelet az adatszolgáltató a Pmt. 16. § (1) bekezdése szerint magas kockázatúnak tekinti. A Pmt. 16. § (1) bekezdés b) pontja szerint ide kell érteni és magas kockázatúnak kell tekinteni azon ügyfeleket is, melyeket a szolgáltató saját kockázatértékelésén alapuló belső szabályzatban rögzített esetek alapján minősít magas kockázatúnak. Ezen sorban csak a tartós jogviszonyban (üzleti kapcsolat) álló ügyfelek tranzakcióira vonatkozó szűrési adatokat kell megadni.
-
-## 37C17142 37C1714-ből: a nem magas kockázati besorolású, megerősített eljárás alá tartozó adószámmal nem rendelkező jogi személy és jogi személyiséggel nem rendelkező ügyfelek pénzátutalásai kapcsán generált riasztások
-
-## A 37C1714 sorból azon, huszonötmillió forintot elérő vagy meghaladó összegű, adószámmal nem rendelkező jogi személy és jogi személyiséggel nem rendelkező ügyfél részére vagy általa kezdeményezett pénzátutalások kapcsán generált riasztások tárgynegyedévi darabszáma, amelyeknél az adószámmal nem rendelkező ügyfél az adatszolgáltató által nem magas kockázati szintbe került besorolásra, de megerősített eljárás alá tartozik. A Pmt., valamint a 30/2024. (VI. 24.) MNB rendelet rendelkezéseinek, továbbá a táblában használt ügylet fogalomnak megfelelően mind a tartós (üzleti kapcsolat), mind pedig az eseti jogviszony (ügyleti megbízás) keretében teljesített tranzakciókra vonatkozó szűrési adatokat meg kell adni.
-
-## 37C1715 Riasztás oka: ötvenmillió forintot elérő vagy meghaladó összegű pénzátutalás nem magyar adószámmal rendelkező jogi személy és jogi személyiséggel nem rendelkező ügyfél részére, vagy általa kezdeményezve
-
-## A 37C171 sorból az ötvenmillió forintot elérő vagy meghaladó összegű, nem magyar adószámmal rendelkező jogi személy és jogi személyiséggel nem rendelkező ügyfél részére vagy áltata kezdeményezett pénzátutalások kapcsán generált riasztások tárgynegyedévi darabszáma.
-
-## 37C17151 37C1715-ből: a magas kockázati besorolású nem magyar adószámmal rendelkező jogi személy és jogi személyiséggel nem rendelkező ügyfelek pénzátutalásai kapcsán generált riasztások
-
-## A 37C1715 sorból azon, ötvenmillió forintot elérő vagy meghaladó összegű, nem magyar adószámmal rendelkező jogi személy és jogi személyiséggel nem rendelkező ügyfél részére vagy áltata kezdeményezett pénzátutalások kapcsán generált riasztások tárgynegyedévi darabszáma, amelyeknél a nem magyar adószámmal rendelkező ügyfelet az adatszolgáltató a Pmt. 16. § (1) bekezdése szerint magas kockázatúnak tekint. A Pmt. 16. § (1) bekezdés b) pontja szerint ide kell érteni és magas kockázatúnak kell tekinteni azon ügyfeleket is, melyeket a szolgáltató saját kockázatértékelésén alapuló belső szabályzatban rögzített esetek alapján minősít magas kockázatúnak. Ebben a sorban csak a tartós jogviszonyban (üzleti kapcsolat) álló ügyfelek tranzakcióira vonatkozó szűrési adatokat kell megadni.
-
-## 37C17152 37C1715-ből: a nem magas kockázati besorolású, megerősített eljárás alá tartozó nem magyar adószámmal rendelkező jogi személy és jogi személyiséggel nem rendelkező ügyfelek pénzátutalásai kapcsán generált riasztások
-
-## A 37C1715 sorból azon, ötvenmillió forintot elérő vagy meghaladó összegű, nem magyar adószámmal rendelkező jogi személy és jogi személyiséggel nem rendelkező ügyfél részére vagy áltata kezdeményezett pénzátutalások kapcsán generált riasztások tárgynegyedévi darabszáma, amelyeknél a nem magyar adószámmal rendelkező ügyfél az adatszolgáltató által nem magas kockázati szintbe került besorolásra, de megerősített eljárás alá tartozik. A Pmt., valamint a 30/2024. (VI. 24.) MNB rendelet rendelkezéseinek, továbbá a táblában használt ügylet fogalomnak megfelelően, ebben a sorban mind a tartós (üzleti kapcsolat), mind pedig az eseti jogviszony (ügyleti megbízás) keretében teljesített tranzakciókra vonatkozó szűrési adatokat meg kell adni.
-
-## 37C172 Adatszolgáltató által definiált szűrési feltételek által generált riasztások
-
-## A 37C17 sorból azon riasztások darabszáma, amelyek szűrési feltételeit az adatszolgáltató határozta meg, és a riasztások nem esnek a 37C151 sorban megadott kritériumok alá.
+## Az adatszolgáltató szűrőrendszere által kockázatosnak minősített ügyfél vagy szokatlan ügylet vonatkozásában azon riasztások tárgynegyedévi darabszáma, amelyeknek szűrési feltételeit az adatszolgáltató határozta meg. Az adatszolgáltató által meghatározott szűrési feltételnek minősülnek azon szűrési feltételek is, amelyet az adatszolgáltató a 30/2024. (VI. 24.) MNB rendelet 31. § (3) bekezdésében hivatkozott MNB tájékoztatás (a továbbiakban: MNB tájékoztatás) alapján épített be belső kockázatértékelésébe.
 
 ## 37C18 Az adatszolgáltató nem tudta a szűrések elemzését és értékelését határidőn belül elvégezni
 
-## Azon szűrések darabszáma a tárgynegyedévben, amelyek elemzését és értékelését az adatszolgáltató a 30/2024. (VI. 24.) MNB rendelet 31. § (2) bekezdésében meghatározott határidőn belül nem végezte el.
+## Azon riasztások tárgynegyedévi darabszáma, amelyeknek az elemzését és értékelését az adatszolgáltató a 30/2024. (VI. 24.) MNB rendelet 31. § (2) bekezdésében, illetve az MNB tájékoztatás alapján a belső kockázatértékelésben meghatározott határidőn belül nem végezte el.
 
-## A 37C18 sorban kimutatott adatokat 2025. február 28-áig a 37C181 és 37C182 sorban a riasztás okára való tekintettel kell tovább bontani. A 37C18 sor egyenlő a 37C181 és a 37C182 sor összegével.
-
-## 37C181 Kötelező, a 30/2024. (VI. 24.) MNB rendelet szerinti szűrési feltételek által generált riasztások
-
-## A 37C18 sorból a 30/2024. (VI. 24.) MNB rendelet 30. § (1) bekezdése szerinti szűrési feltételek által generált riasztások tárgynegyedévi darabszáma, amelyek elemzését és értékelését az adatszolgáltató a 30/2024. (VI. 24.) MNB rendelet szerinti határidőben nem végezte el.
-
-## 37C182 Adatszolgáltató által definiált szűrési feltételek által generált riasztások
-
-## A 37C18 sorból azon riasztások darabszáma, amelyek szűrési feltételeit az adatszolgáltató határozta meg, és a feltételek nem esnek a 30/2024. (VI. 24.) MNB rendelet 30. § (1) bekezdése szerinti szűrési feltételek alá, és amely riasztások elemzését és értékelését az adatszolgáltató a 30/2024. (VI. 24.) MNB rendelet szerinti határidőben nem végezte el.
-
-## 37C19Saját bejelentések
+## 37C19 Saját bejelentések
 
 ## Az adatszolgáltató által a pénzügyi információs egységként működő hatóság részére a tárgynegyedévben küldött bejelentések összesített száma, illetve a bejelentések teljes forintösszege, amely az érintett tranzakciók együttes összegét jelenti.
 
@@ -2077,3 +2019,5 @@
 ## 5. A jelentés kitöltését segítő módszertani útmutatást az MNB a honlapján teszi közzé.
 
 4. melléklet az 56/2024. (XII. 3.) MNB rendelethez
+
+[^3]: A 3. melléklet II. pont 1.26. alpontja a 15. §-sal megállapított szöveg.
