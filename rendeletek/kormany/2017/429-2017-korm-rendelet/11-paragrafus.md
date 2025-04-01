@@ -2,29 +2,29 @@
 
 11. § (1) A születés hazai anyakönyvezése során a gyermek családi neveként a külföldi okiratban szereplő családi nevet kell bejegyezni, ha az a magyar névviselés szabályainak megfelel. Ha a külföldi okiratban szereplő családi név nem felel meg a magyar névviselés szabályainak, a szülők, vagy nagykorú gyermek születésének hazai anyakönyvezése során az érintett nyilatkozata alapján kell a magyar névviselés szabályainak megfelelő családi nevet bejegyezni, kivéve, ha a nemzetközi magánjogról szóló előírások alapján a születés anyakönyvezésekor a névviselésre külföldi jogot kell alkalmazni.
 
-(2)[^17] Ha a külföldi házassági okirat házassági nevet nem tartalmaz, a magyar állampolgár házastárs a Ptk.-ban felsorolt házassági névviselési formák közül választhat, kivéve, ha a nemzetközi magánjogról szóló előírások alapján a házassági névviselésre külföldi jogot kell alkalmazni. A külföldi házastárs házassági nevét a rendelkezésre álló egyéb külföldi okirat alapján lehet a hazai anyakönyvbe bejegyezni. Ennek hiányában házassági névként – a külföldi házastársnak, illetve eltérő nyilatkozat hiányában a magyar állampolgár házastársnak – a születési nevet kell az elektronikus anyakönyvbe bejegyezni.
+(2)[^18] Ha a külföldi házassági okirat házassági nevet nem tartalmaz, a magyar állampolgár házastárs a Ptk.-ban felsorolt házassági névviselési formák közül választhat, kivéve, ha a nemzetközi magánjogról szóló előírások alapján a házassági névviselésre külföldi jogot kell alkalmazni. A külföldi házastárs házassági nevét a rendelkezésre álló egyéb külföldi okirat alapján lehet a hazai anyakönyvbe bejegyezni. Ennek hiányában házassági névként – a külföldi házastársnak, illetve eltérő nyilatkozat hiányában a magyar állampolgár házastársnak – a születési nevet kell az elektronikus anyakönyvbe bejegyezni.
 
-(3)[^18] A hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv törli az adatokat az anyakönyvből,
+(3)[^19] A hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv törli az adatokat az anyakönyvből,
 
 a) ha az állampolgársági ügyekben eljáró szerv megállapítja, hogy az érintett személy a hazai anyakönyvezés időpontjában nem volt magyar állampolgár, vagy
 
 b) ha a hazai anyakönyvezést követően a magyar állampolgárságot keletkeztető, leszármazáson alapuló családi kapcsolat megdőlt.
 
-(4)[^19] A Magyarország területén található külképviseleten kötött házasság vagy bejegyzett élettársi kapcsolat létesítésének hazai anyakönyvezése során az anyakönyvi esemény helyeként a település hivatalos közigazgatási elnevezésén túl a külképviselet hivatalos magyar megnevezését is be kell jegyezni.
+(4)[^20] A Magyarország területén található külképviseleten kötött házasság vagy bejegyzett élettársi kapcsolat létesítésének hazai anyakönyvezése során az anyakönyvi esemény helyeként a település hivatalos közigazgatási elnevezésén túl a külképviselet hivatalos magyar megnevezését is be kell jegyezni.
 
-(5)[^20] Az anyakönyvbe az anyakönyvi esemény helyeként a nyilvántartásba vétel helye szerinti település és ország hivatalos elnevezését kell bejegyezni, amennyiben a külföldi okirat kizárólag földrajzi koordinátákat tartalmaz.
+(5)[^21] Az anyakönyvbe az anyakönyvi esemény helyeként a nyilvántartásba vétel helye szerinti település és ország hivatalos elnevezését kell bejegyezni, amennyiben a külföldi okirat kizárólag földrajzi koordinátákat tartalmaz.
 
-(6)[^21] A hazai anyakönyvezési eljárásban a születés, házasság, bejegyzett élettársi kapcsolat, valamint a haláleset anyakönyvezéséhez az angol, német vagy francia nyelven kiállított anyakönyvi kivonathoz nem szükséges fordítás, ha az anyakönyvi okiratot elektronikai eszközzel személyesítették meg, és az anyakönyvi okirat megjegyzést vagy záradékot nem tartalmaz.
+(6)[^22] A hazai anyakönyvezési eljárásban a születés, házasság, bejegyzett élettársi kapcsolat, valamint a haláleset anyakönyvezéséhez az angol, német vagy francia nyelven kiállított anyakönyvi kivonathoz nem szükséges fordítás, ha az anyakönyvi okiratot elektronikai eszközzel személyesítették meg, és az anyakönyvi okirat megjegyzést vagy záradékot nem tartalmaz.
 
-(7)[^22] Az At. 14. § (3) bekezdése szerinti elháríthatatlan akadály különösen akkor áll fenn, ha
+(7)[^23] Az At. 14. § (3) bekezdése szerinti elháríthatatlan akadály különösen akkor áll fenn, ha
 
 a) a diplomáciai felülhitelesítés beszerzése – a konzuli tisztviselő állásfoglalása szerint – lehetetlen vagy bizonytalanul hosszú időt vesz igénybe, vagy
 
 b) a diplomáciai felülhitelesítés beszerzése miatt a kérelmezőt súlyos joghátrány érhetné.
 
-[^17]: A 11. § (2) bekezdése a 304/2023. (VII. 11.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
-[^18]: A 11. § (3) bekezdése a 304/2023. (VII. 11.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
-[^19]: A 11. § (4) bekezdését a 745/2021. (XII. 21.) Korm. rendelet 10. § (2) bekezdése iktatta be.
-[^20]: A 11. § (5) bekezdését a 745/2021. (XII. 21.) Korm. rendelet 10. § (2) bekezdése iktatta be.
-[^21]: A 11. § (6) bekezdését a 304/2023. (VII. 11.) Korm. rendelet 15. § (2) bekezdése iktatta be.
-[^22]: A 11. § (7) bekezdését az 575/2023. (XII. 18.) Korm. rendelet 1. §-a iktatta be.
+[^18]: A 11. § (2) bekezdése a 304/2023. (VII. 11.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^19]: A 11. § (3) bekezdése a 304/2023. (VII. 11.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^20]: A 11. § (4) bekezdését a 745/2021. (XII. 21.) Korm. rendelet 10. § (2) bekezdése iktatta be.
+[^21]: A 11. § (5) bekezdését a 745/2021. (XII. 21.) Korm. rendelet 10. § (2) bekezdése iktatta be.
+[^22]: A 11. § (6) bekezdését a 304/2023. (VII. 11.) Korm. rendelet 15. § (2) bekezdése iktatta be.
+[^23]: A 11. § (7) bekezdését az 575/2023. (XII. 18.) Korm. rendelet 1. §-a iktatta be.
