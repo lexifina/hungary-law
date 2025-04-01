@@ -1,4 +1,4 @@
-6. §[^8] (1) A területi környezetvédelmi hatóság 200 000 forint összegű környezetvédelmi bírságot szab ki
+6. §[^16] (1) A területi környezetvédelmi hatóság 200 000 forint összegű környezetvédelmi bírságot szab ki
 
 a) a 2. § (1) bekezdése szerinti értesítés megküldésére vonatkozó kötelezettség elmulasztása,
 
@@ -28,10 +28,11 @@ a) hozzáadott higanyt tartalmazó új termék engedély nélkül való gyártá
 
 b) hozzáadott higanyt tartalmazó új termék engedély nélkül való forgalomba hozatala,
 
-c) a 2017/852/EU európai parlamenti és tanácsi rendelet 8. cikk (3) bekezdésében meghatározott új gyártási folyamat engedély nélkül való alkalmazása
+c)[^17] az (EU) 2017/852 európai parlamenti és tanácsi rendelet 8. cikk (3) bekezdésében meghatározott új gyártási folyamat engedély nélkül való alkalmazása
 
 esetén.
 
 (5) Az (1)–(4) bekezdés szerinti bírság ismételten kiszabható.
 
-[^8]: A 6. § a 312/2021. (VI. 7.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^16]: A 6. § a 312/2021. (VI. 7.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^17]: A 6. § (4) bekezdés c) pontja a 64/2025. (III. 31.) Korm. rendelet 4. § 13. pontja szerint módosított szöveg.
