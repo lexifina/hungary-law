@@ -1,1 +1,1 @@
-22. §
+22. § A kedvezményezett részére támogatás – a KAP vhr. 80. §-a szerinti előleg kivételével – akkor fizethető ki, ha a Nemzeti Irányító Hatóság a közbeszerzési eljárásra vonatkozóan támogató vagy feltétellel támogató tartalmú, a közbeszerzési eljárás megindítására vonatkozó tanúsítványt, támogató tartalmú közbeszerzési záró tanúsítványt vagy utóellenőrzésről szóló jelentést, valamint támogató tartalmú tanúsítványt állított ki.

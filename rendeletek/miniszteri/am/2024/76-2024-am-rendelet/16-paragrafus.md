@@ -1,1 +1,3 @@
-16. §
+16. § (1) A Nemzeti Irányító Hatóság az egységes Állami Alkalmazás-fejlesztési Környezetről és az Állami Alkalmazás-katalógusról, valamint az egyes kapcsolódó kormányrendeletek módosításáról szóló 314/2018. (XII. 27.) Korm. rendelet [a továbbiakban: 314/2018. (XII. 27.) Korm. rendelet] szerinti alkalmazásfejlesztés vonatkozásában csak akkor állítja ki a 13. § (5) bekezdése szerinti tanúsítványt, ha a kedvezményezett rendelkezésére áll a 314/2018. (XII. 27.) Korm. rendelet szerinti támogató tanúsítvány.
+
+(2) A 301/2018. (XII. 27.) Korm. rendelet 13. § (1) bekezdés b) pontja szerinti beszerzések esetén az (1) bekezdés szerinti tanúsítvánnyal egyenértékű az e-közigazgatási és informatikai fejlesztések egységesítéséért felelős miniszter jóváhagyása is, ha arra a 301/2018. (XII. 27.) Korm. rendelet 5. § (9) bekezdése szerinti miniszteri rendelet lehetőséget biztosít.

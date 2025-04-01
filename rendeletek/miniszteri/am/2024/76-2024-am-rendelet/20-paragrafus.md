@@ -1,1 +1,5 @@
-20. §
+20. § (1) A kedvezményezett a közbeszerzési eljárást lezáró döntését – több szakaszból álló közbeszerzési eljárás esetén az eljárás részvételi szakaszát lezáró döntését – akkor hozhatja meg, ha a Nemzeti Irányító Hatóság a közbeszerzési eljárás lefolytatását ellenőrizte, és erről közbeszerzési záró tanúsítványt állított ki.
+
+(2) Az (1) bekezdéstől eltérően a kedvezményezett meghozhatja a közbeszerzési eljárást lezáró döntését – több szakaszból álló közbeszerzési eljárás esetén a részvételi szakaszát lezáró döntését – a Nemzeti Irányító Hatóság általi ellenőrzés befejezése előtt is. Ebben az esetben – amennyiben a Kbt. 131. § (6) bekezdése alapján szerződéskötési moratórium is alkalmazandó, akkor annak letelte után – a közbeszerzés eredményeként a szerződés is megköthető, azzal, hogy az csak a közbeszerzési záró tanúsítvány megléte esetén léphet hatályba, feltéve, hogy ezen hatályba léptető feltételre az ajánlatkérő már a közbeszerzési eljárásban közölt végleges szerződés-tervezetben utalt.
+
+(3) A kedvezményezett az ajánlattevőknek, illetve részvételre jelentkezőknek való megküldést követő három munkanapon belül megküldi az összegezést a Nemzeti Irányító Hatóság részére. A Nemzeti Irányító Hatóság az elektronikus felületen rögzíti a közbeszerzési eljárás jóváhagyását.

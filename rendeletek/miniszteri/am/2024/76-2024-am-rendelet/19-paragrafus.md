@@ -1,1 +1,3 @@
-19. §
+19. § (1) A Nemzeti Irányító Hatóság az összegezésnek az ajánlattevők részére történő megküldését megelőzően – vagy a 21. § (3) bekezdése esetén azt követően, illetve több szakaszból álló közbeszerzési eljárás esetén valamennyi eljárási szakasz vonatkozásában – elvégzi a közbeszerzési eljárás során keletkezett dokumentumok közbeszerzési elszámolhatósági ellenőrzését, valamint a közbeszerzési elszámolhatóság megítéléséhez szükséges, műszaki szempontú ellenőrzést is.
+
+(2) A Nemzeti Irányító Hatóság az összegezés és a döntéstervezet kézhezvételét követő tizenöt munkanapon belül közbeszerzési záró tanúsítványt állít ki, amelyet megküld a kedvezményezett részére.
