@@ -99,3 +99,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-326-20-
 | 2025-01-01 | 2011-326-20-22.90 | 219/2024. (VII. 31.) Korm. rendelet |
 | 2025-02-01 | 2011-326-20-22.93 | 572/2020. (XII. 9.) Korm. rendelet |
 | 2025-03-01 | 2011-326-20-22.94 | 468/2016. (XII. 23.) Korm. rendelet |
+| 2025-04-01 | 2011-326-20-22.96 | 425/2024. (XII. 23.) Korm. rendelet |
