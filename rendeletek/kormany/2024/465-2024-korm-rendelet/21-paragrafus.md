@@ -1,1 +1,3 @@
-21. § A 246/2014. Korm. rendelet 2. melléklet 2.1. pont c) alpontjában a „hitelesített mérleg” szövegrész helyébe a „legalább 1 kg méréspontosságú hitelesített mérleg” szöveg lép.
+21. §[^22]
+
+[^22]: A 21. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
