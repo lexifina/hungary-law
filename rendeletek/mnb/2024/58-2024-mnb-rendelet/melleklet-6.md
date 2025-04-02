@@ -438,7 +438,7 @@
 
 ## A 71EPI11 kezdetű sorokban a pénztárnak az ügyfelekkel való elektronikus kapcsolattartására vonatkozó adatokat kell megadni. Az ügyfél általi adatmódosítás fogalmába a tranzakciós adatmódosításokat (pl. új szolgáltatás igénybevétele) is beleértendő.
 
-## 1.12.[^5] 71EPM Pénzmosással és terrorizmusfinanszírozással kapcsolatos negyedéves adatok
+## 1.12.[^7] 71EPM Pénzmosással és terrorizmusfinanszírozással kapcsolatos negyedéves adatok
 
 ## A tábla kitöltése
 
@@ -1066,4 +1066,4 @@
 
 6. melléklet az 58/2024. (XII. 3.) MNB rendelethez
 
-[^5]: Az 5. melléklet II. pont 1.12. alpontja a 13. § (1) bekezdésével megállapított szöveg.
+[^7]: Az 5. melléklet II. pont 1.12. alpontja a 13. § (1) bekezdésével megállapított szöveg.

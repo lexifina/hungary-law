@@ -758,6 +758,6 @@
 
 ## Amennyiben az adott index komponens értékét a pénztár additív módon korrigálja akkor azt előjel helyesen százalékos formában kell megadni, tizedespont alkalmazásával (pl. RMAX+3,5% esetén a jelentendő érték 3.50).
 
-8. melléklet az 58/2024. (XII. 3.) MNB rendelethez[^6]
+8. melléklet az 58/2024. (XII. 3.) MNB rendelethez[^8]
 
-[^6]: A 8. melléklet a 13. § (2) bekezdése szerint módosított szöveg.
+[^8]: A 8. melléklet a 13. § (2) bekezdése szerint módosított szöveg.

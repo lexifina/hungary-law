@@ -128,6 +128,6 @@
 
 ## A megképzett azonosító kódokról és azok változásáról a pénztárnak kötelezően tájékoztatnia kell a számára letétkezelést és vagyonkezelést végző intézményeket.
 
-2. melléklet az 58/2024. (XII. 3.) MNB rendelethez[^2]
+2. melléklet az 58/2024. (XII. 3.) MNB rendelethez[^4]
 
-[^2]: A 2. melléklet a 13. § (1) bekezdése szerint módosított szöveg.
+[^4]: A 2. melléklet a 13. § (1) bekezdése szerint módosított szöveg.

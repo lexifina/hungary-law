@@ -944,7 +944,7 @@
 
 ## A 71OPI11 kezdetű sorokban a pénztárnak az ügyfelekkel való elektronikus kapcsolattartására vonatkozó adatokat kell megadni. Az ügyfél általi adatmódosítás fogalmába a tranzakciós adatmódosításokat (pl. új szolgáltatás igénybevétele) is beleértendő.
 
-## 1.18.[^3] 71OPM Pénzmosással és terrorizmusfinanszírozással kapcsolatos negyedéves adatok
+## 1.18.[^5] 71OPM Pénzmosással és terrorizmusfinanszírozással kapcsolatos negyedéves adatok
 
 ## A tábla kitöltése
 
@@ -1706,7 +1706,7 @@
 
 ## A portfólió árfolyamának alakulását bemutató grafikon webcíme.
 
-4. melléklet az 58/2024. (XII. 3.) MNB rendelethez[^4]
+4. melléklet az 58/2024. (XII. 3.) MNB rendelethez[^6]
 
-[^3]: A 3. melléklet IV. pont 1.18. alpontja a 13. § (1) bekezdésével megállapított szöveg.
-[^4]: A 4. melléklet a 13. § (1) bekezdése szerint módosított szöveg.
+[^5]: A 3. melléklet IV. pont 1.18. alpontja a 13. § (1) bekezdésével megállapított szöveg.
+[^6]: A 4. melléklet a 13. § (1) bekezdése szerint módosított szöveg.

@@ -436,7 +436,7 @@
 
 ## A 76NPI11 kezdetű sorokban a foglalkoztatói nyugdíjszolgáltató intézménynek az ügyfelekkel való elektronikus kapcsolattartására vonatkozó adatokat kell megadni. Az ügyfél általi adatmódosítás fogalmába a tranzakciós adatmódosításokat (pl. új szolgáltatás igénybevétele) is beleértendő.
 
-## 1.28.[^7] 76NPM Pénzmosással és terrorizmusfinanszírozással kapcsolatos negyedéves adatok
+## 1.28.[^9] 76NPM Pénzmosással és terrorizmusfinanszírozással kapcsolatos negyedéves adatok
 
 ## A tábla kitöltése
 
@@ -856,4 +856,4 @@
 
 A foglalkoztatói nyugdíjszolgáltató intézmény PEPP szöveges jelentése kitöltésére vonatkozó részletes előírások
 
-[^7]: A 9. melléklet II. pont 1.28. alpontja a 13. § (2) bekezdésével megállapított szöveg.
+[^9]: A 9. melléklet II. pont 1.28. alpontja a 13. § (2) bekezdésével megállapított szöveg.
