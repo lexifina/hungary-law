@@ -1,9 +1,3 @@
-## A 2. mellékletben a 37C táblakódú felügyeleti jelentés táblája helyébe a következő tábla lép:
+14. melléklet az 56/2024. (XII. 3.) MNB rendelethez[^7]
 
-## 4X0872613.pdf
-
-14. melléklet az 56/2024. (XII. 3.) MNB rendelethez
-
-A 3. melléklet II. pont 1.26. alpontja helyébe a következő rendelkezés lép:
-
-„
+[^7]: A 14. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

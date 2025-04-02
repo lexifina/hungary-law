@@ -106,4 +106,6 @@
 
 ## b) a tőkeszerkezet, a tőkehányadosok és a tőkeáttétel szintje.
 
-13. melléklet az 56/2024. (XII. 3.) MNB rendelethez
+13. melléklet az 56/2024. (XII. 3.) MNB rendelethez[^6]
+
+[^6]: A 13. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

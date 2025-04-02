@@ -1092,7 +1092,7 @@
 
 ## Az elszámolt értékvesztést és az értékvesztés visszaírását a 37B1 kódú táblában, a céltartalékképzést és a megképzett céltartalék feloldását a 37B2 kódú táblában kell szerepeltetni.
 
-## 1.26.[^3] 37C Pénzmosással és terrorizmusfinanszírozással kapcsolatos negyedéves adatok
+## 1.26.[^5] 37C Pénzmosással és terrorizmusfinanszírozással kapcsolatos negyedéves adatok
 
 ## A táblában az adatszolgáltató ügyfeleiről, valamint általa a Pmt. szerinti belső szabályzata alapján lefolytatott eljárások keretében összegyűjtött információkról kell adatot szolgáltatni.
 
@@ -2020,4 +2020,4 @@
 
 4. melléklet az 56/2024. (XII. 3.) MNB rendelethez
 
-[^3]: A 3. melléklet II. pont 1.26. alpontja a 15. §-sal megállapított szöveg.
+[^5]: A 3. melléklet II. pont 1.26. alpontja a 15. §-sal megállapított szöveg.

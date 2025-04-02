@@ -1,1 +1,3 @@
-15. § A 2. és 3. melléklet a 13. és 14. melléklet szerint módosul.
+15. §[^2]
+
+[^2]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
