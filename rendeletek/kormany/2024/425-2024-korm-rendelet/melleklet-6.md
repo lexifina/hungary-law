@@ -1,3 +1,3 @@
-6. melléklet a 425/2024. (XII. 23.) Korm. rendelethez[^46]
+6. melléklet a 425/2024. (XII. 23.) Korm. rendelethez[^48]
 
-[^46]: A 6. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^48]: A 6. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
