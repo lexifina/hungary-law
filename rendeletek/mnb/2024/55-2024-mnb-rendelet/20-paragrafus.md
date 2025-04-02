@@ -1,1 +1,3 @@
-20. § A 2–7. melléklet a 22–27. melléklet szerint módosul.
+20. §[^1]
+
+[^1]: A 20. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
