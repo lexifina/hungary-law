@@ -1,5 +1,3 @@
-6. § Hatályát veszti az R.
+6. §[^7]
 
-a) 4. §-a,
-
-b) 1. mellékletében foglalt táblázat F:6/a. mező 1. pont 1.2. és 1.4. alpontja.
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
