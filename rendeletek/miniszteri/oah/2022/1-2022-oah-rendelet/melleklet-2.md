@@ -22,7 +22,7 @@
 
 ## 1.2.1.0310. Ha az ingatlan tulajdon- vagy vagyonkezelői jogával nem a kérelmező, hanem más nukleáris létesítmény vagy radioaktívhulladék-tároló engedélyese rendelkezik, az engedély iránti kérelemhez mellékelni kell a más nukleáris létesítmény vagy radioaktívhulladék-tároló engedélyesének hozzájáruló nyilatkozatát.
 
-## 1.2.1.0400. Atomerőmű esetében a nukleáris létesítmény létesítésének, üzembe helyezésének, üzemeltetésének, tervezett üzemidőn túli üzemeltetésének, végleges leállításának és leszerelésének az engedélyezése atomerőművi blokkonként történik. A létesítési, a végleges leállítási és a leszerelési engedély egy atomerőmű több hasonló blokkjára egy eljárásban is kérelmezhető, ha az engedély kiadásának feltételei mindegyik atomerőművi blokk tekintetében fennállnak, de az egyes atomerőművi blokkokról a nukleáris biztonsági hatóság külön-külön dönt. Az engedélyezés feltételeinek fennállását - az engedély iránti kérelemben - az atomerőművi blokkra kell igazolni.
+## 1.2.1.0400.[^34] Atomerőmű esetében a nukleáris létesítmény létesítésének, üzembe helyezésének, üzemeltetésének, tervezett üzemidőn túli üzemeltetésének, tervezett üzemidőn túli üzemeltetést követő további üzemeltetésének, végleges leállításának és leszerelésének az engedélyezése atomerőművi blokkonként történik. A létesítési, a végleges leállítási és a leszerelési engedély egy atomerőmű több hasonló blokkjára egy eljárásban is kérelmezhető, ha az engedély kiadásának feltételei mindegyik atomerőművi blokk tekintetében fennállnak, de az egyes atomerőművi blokkokról a nukleáris biztonsági hatóság külön-külön dönt. Az engedélyezés feltételeinek fennállását - az engedély iránti kérelemben - az atomerőművi blokkra kell igazolni.
 
 ## 1.2.1.0500. Szervezeti és irányítási átalakítás esetén egy atomerőmű valamennyi blokkjára, műszaki átalakítás, valamint műszaki és szabályozó dokumentumok átalakítása esetében pedig az atomerőmű több hasonló blokkjára egy eljárásban is kérelmezhető és kiadható közös engedély.
 
@@ -808,7 +808,7 @@
 
 ## 1.2.5.0100. Az üzemeltetési engedély birtokában a nukleáris létesítmény az engedélyben meghatározott feltételekkel és ideig üzemben tartható.
 
-## 1.2.5.0200. A nukleáris biztonsági hatóság az adott nukleáris létesítmény üzemeltetési sajátosságait és egyéb körülményeket figyelembe véve szabja meg az üzemeltetési engedély időbeli hatályát, de az nem lehet hosszabb a nukleáris létesítmény tervezett üzemidejénél. A tervezett üzemidőn túli üzemeltetés az 1.2.6. pont szerinti új engedélyt igényel.
+## 1.2.5.0200.[^35] A nukleáris biztonsági hatóság az adott nukleáris létesítmény üzemeltetési sajátosságait és egyéb körülményeket figyelembe véve határozza meg az üzemeltetési engedély időbeli hatályát, de az nem lehet hosszabb a nukleáris létesítmény tervezett üzemidejénél. A tervezett üzemidőn túli üzemeltetés és a tervezett üzemidőn túli üzemeltetést követő további üzemeltetés az 1.2.6. pont szerinti új engedély alapján végezhető.
 
 ## 1.2.5.0300. Az üzemeltetési engedély hatályát veszti, ha
 
@@ -866,15 +866,15 @@
 
 ## 1.2.5.0900. A dózismegszorítás értékét üzemeltetési engedély kiadásakor, de legalább az IBF keretén belül felül kell vizsgálni.
 
-## 1.2.6. Tervezett üzemidőn túli üzemeltetés engedélye
+## 1.2.6.[^36] Tervezett üzemidőn túli üzemeltetés és a tervezett üzemidőn túli üzemeltetést követő további üzemeltetés engedélye
 
 ## Általános követelmények
 
 ## 1.2.6.0100. Atomerőmű kivételével a nukleáris létesítmény tervezett üzemidőn túli üzemeltetésének engedélyezése a tervezett üzemidő lejártát megelőző legkésőbbi, majd az azt követő valamennyi további időszakos biztonsági felülvizsgálat alapján új - a nukleáris létesítmény következő időszakos biztonsági felülvizsgálatáig hatályos - üzemeltetési engedélyének kiadásával történik.
 
-## 1.2.6.0200. Atomerőművi blokk esetén a tervezett üzemidőn túli üzemeltetés engedélyezése új üzemeltetési engedély kiadásával történik.
+## 1.2.6.0200.[^37] Atomerőművi blokk esetén a tervezett üzemidőn túli üzemeltetés és a tervezett üzemidőn túli üzemeltetést követő további üzemeltetés engedélyezése új üzemeltetési engedély kiadásával történik.
 
-## 1.2.6.0300. Atomerőművi blokk esetén a tervezett üzemidőn túli üzemeltetés engedélyezésének körébe tartoznak:
+## 1.2.6.0300.[^38] Atomerőművi blokk esetén a tervezett üzemidőn túli üzemeltetés és a tervezett üzemidőn túli üzemeltetést követő további üzemeltetés engedélyezésének körébe tartoznak:
 
 ## a) a biztonsági funkciót ellátó rendszerek és rendszerelemek,
 
@@ -882,41 +882,41 @@
 
 ## c) az eseti hatósági döntéssel a terjedelembe sorolt rendszerek és rendszerelemek.
 
-## 1.2.6.0400. Az engedélyezést megelőzően az atomerőművi blokk tervezett üzemidején túli üzemeltetése feltételeinek megteremtésére és az üzemeltethetőség igazolására az engedélyes programot készít és hajt végre.
+## 1.2.6.0400.[^39] Az engedélyezést megelőzően az atomerőművi blokk tervezett üzemidőn túli üzemeltetése és a tervezett üzemidőn túli üzemeltetést követő további üzemeltetése feltételeinek megteremtésére és az üzemeltethetőség igazolására az engedélyes végrehajtási programot készít és hajt végre.
 
-## 1.2.6.0500. Az atomerőművi blokk tervezett üzemidőn túli üzemeltetés engedélyezése az alábbi alapelvekre épül:
+## 1.2.6.0500.[^40] Az atomerőművi blokk tervezett üzemidőn túli üzemeltetés és a tervezett üzemidőn túli üzemeltetést követő további üzemeltetés engedélyezése a következő alapelvekre épül:
 
-## a) az atomerőművi blokk tervezett üzemidején túli üzemeltetése engedélyezésének előkészítése és a tervezett üzemidőn túli üzemeltetés során a biztonságos üzemeltethetőséget a jogszabályok előírásaival és a hatósági előírásokkal összhangban folyamatosan fenn kell tartani, vagyis a nukleáris létesítmény üzemeltetésével kapcsolatosan felmerült aktuális problémákat a nukleáris létesítmény hatályos üzemeltetési engedélyének keretén belül kell megoldani;
+## a) az atomerőművi blokk tervezett üzemidőn túli üzemeltetés és a tervezett üzemidőn túli üzemeltetést követő további üzemeltetés engedélyezésének előkészítése, valamint a tervezett üzemidőn túli üzemeltetés és a tervezett üzemidőn túli üzemeltetést követő további üzemeltetés során a biztonságos üzemeltethetőséget a jogszabályok előírásaival és a hatósági előírásokkal összhangban folyamatosan fenn kell tartani, azzal, hogy a nukleáris létesítmény üzemeltetésével kapcsolatban felmerült aktuális problémákat a nukleáris létesítmény hatályos üzemeltetési engedélyének keretén belül kell megoldani;
 
-## b) az atomerőművi blokk tervezett üzemidején túli üzemeltetése során a rendszerek és rendszerelemek biztonsági elemzésekben figyelembe vett, szükséges biztonsági tartalékainak elhasználása soha nem engedhető meg az engedélyezett üzemidő közelgő végére történő hivatkozással;
+## b) az atomerőművi blokk tervezett üzemidőn túli üzemeltetése és a tervezett üzemidőn túli üzemeltetést követő további üzemeltetése során a rendszerek és rendszerelemek biztonsági elemzésekben figyelembe vett, szükséges biztonsági tartalékai az engedélyezett üzemidő közelgő végére történő hivatkozással nem használhatóak el;
 
-## c) a 4. melléklet 4.6. pontja szerinti, a műszaki állapot fenntartását szolgáló tevékenységeket az engedélyes a tervezett üzemidőn belül megkezdi és folyamatosan végzi, továbbá e tevékenység hatékonyságát szisztematikusan ellenőrzi és értékeli;
+## c) a 4. melléklet 4.6. pontja szerinti, a műszaki állapot fenntartását szolgáló tevékenységeket az engedélyes folyamatosan végzi, továbbá e tevékenység hatékonyságát következetesen ellenőrzi és értékeli;
 
-## d) a c) pont figyelembevételével a tervezett üzemidőn túli üzemeltethetőség igazolása alapvetően a passzív és hosszúéletű rendszerelemek alkalmasságának igazolására korlátozódik;
+## d) a c) alpont figyelembevételével a tervezett üzemidőn túli üzemeltethetőség és a tervezett üzemidőn túli üzemeltetést követő további üzemeltethetőség igazolása alapvetően a passzív és hosszúéletű rendszerelemek alkalmasságának igazolására korlátozódik;
 
-## e) a korszerű nemzetközi követelményekből levezethető biztonságnövelő intézkedéseket az időszakos biztonsági felülvizsgálat keretében kell meghatározni, a vonatkozó szabályok szerint.
+## e) a korszerű nemzetközi követelményekből levezethető biztonságnövelő intézkedéseket az időszakos biztonsági felülvizsgálat keretében kell meghatározni a vonatkozó szabályok szerint.
 
-## Atomerőművi blokk tervezett üzemidőn túli üzemeltethetősége feltételeinek megvalósítására előirányzott program
+## Atomerőművi blokk tervezett üzemidőn túli üzemeltethetősége és a tervezett üzemidőn túli üzemeltetést követő további üzemeltethetősége feltételeinek megvalósítására előirányzott végrehajtási program
 
-## 1.2.6.0600. Az atomerőművi blokk tervezett üzemidőn túli üzemeltethetősége feltételeinek megvalósítására előirányzott program (a továbbiakban: ÜH program) az atomerőmű egy vagy több blokkjára egyidejűleg benyújtható. Az ÜH programban minimálisan 20 év üzemeltetési tapasztalatot kell elemezni, több atomerőművi blokkra vonatkozó ÜH programnál a legelőször üzembe helyezett atomerőművi blokk üzemidejét kell figyelembe venni.
+## 1.2.6.0600.[^41] Az atomerőművi blokk tervezett üzemidőn túli üzemeltethetősége feltételeinek megvalósítására előirányzott program (a továbbiakban: ÜH program), valamint a tervezett üzemidőn túli üzemeltetést követő további üzemeltethetősége feltételeinek megvalósítására előirányzott végrehajtási program (a továbbiakban: TÜH végrehajtási program) az atomerőmű egy vagy több blokkjára egyidejűleg benyújtható. Az ÜH programban, illetve a TÜH végrehajtási programban a rendelkezésre álló üzemeltetési tapasztalatot kell elemezni.
 
-## 1.2.6.0700. Az ÜH programnak tartalmaznia kell az üzemidő kiterjesztésének tervezett időtartamát.
+## 1.2.6.0700.[^42] Az ÜH programnak, illetve a TÜH végrehajtási programnak tartalmaznia kell az üzemidő kiterjesztésének tervezett időtartamát.
 
-## 1.2.6.0800. Az ÜH program tartalmát a tervezett üzemidőn túli üzemeltetés új üzemeltetési engedélye iránti kérelem tartalmi követelményei szerint kell meghatározni. A programban igazolni kell, hogy annak végrehajtásával a hatályban lévő üzemeltetési engedély alapjául szolgáló kritériumok teljesülnek a Nukleáris Biztonsági Szabályzatok követelményeinek megfelelően a teljes kiterjesztett üzemidőre. Az ÜH programban ismertetni kell a benyújtásakor már teljesülő követelményeket. A követelmények teljesülését igazoló információkat be kell mutatni, vagy azokra hivatkozni kell. Ezen kívül ismertetni kell a további követelmények teljesülésének helyzetét, valamint azokat a tevékenységeket - elvégzésük tervezett ütemezésével együtt -, amelyeket az ÜH program maradéktalan teljesülése érdekében végre kívánnak hajtani.
+## 1.2.6.0800.[^43] Az ÜH program, illetve a TÜH végrehajtási program tartalmát a tervezett üzemidőn túli üzemeltetés, illetve a tervezett üzemidőn túli üzemeltetést követő további üzemeltetés új üzemeltetési engedélye iránti kérelem tartalmi követelményei szerint kell meghatározni. Az ÜH programban, valamint a TÜH végrehajtási programban igazolni kell, hogy annak végrehajtásával a hatályos üzemeltetési engedély alapjául szolgáló kritériumok teljesülnek a Nukleáris Biztonsági Szabályzatok követelményeinek megfelelően a teljes kiterjesztett üzemidőre. Az ÜH programban, illetve a TÜH végrehajtási programban ismertetni kell a benyújtásakor már teljesülő követelményeket. A követelmények teljesülését igazoló információkat be kell mutatni, vagy azokra hivatkozni kell. Ismertetni kell a további követelmények teljesülésének helyzetét, valamint azokat a tevékenységeket – elvégzésük tervezett ütemezésével együtt –, amelyeket az ÜH program, illetve a TÜH végrehajtási program maradéktalan teljesülése érdekében végre kívánnak hajtani.
 
-## 1.2.6.0900. Az ÜH program végrehajtása során felmerülő átalakítások elvégzéséhez szükséges engedélyeket a hatályos üzemeltetési engedély fennállása alatt, a vonatkozó tevékenység engedélyezésére irányadó szabályok szerint külön kell beszerezni.
+## 1.2.6.0900.[^44] Az ÜH program, illetve a TÜH végrehajtási program végrehajtása során felmerülő átalakítások elvégzéséhez szükséges engedélyeket a hatályos üzemeltetési engedély fennállása alatt, a vonatkozó tevékenység engedélyezésére irányadó szabályok szerint külön kell beszerezni.
 
-## Atomerőművi blokk tervezett üzemidőn túli üzemeltetése
+## Atomerőművi blokk tervezett üzemidőn túli üzemeltetése, illetve a tervezett üzemidőn túli üzemeltetést követő további üzemeltetése
 
-## 1.2.6.1000. A tervezett üzemidőn túli üzemeltetés engedélyezése az engedélyes kérelmére kiadott új üzemeltetési engedélyben történik. Az engedély iránti kérelmet atomerőművi blokkonként kell benyújtani legkésőbb a tervezett üzemidőre érvényes üzemeltetési engedély lejárta előtt egy évvel.
+## 1.2.6.1000.[^45] A tervezett üzemidőn túli üzemeltetés, illetve a tervezett üzemidőn túli üzemeltetést követő további üzemeltetés engedélyezése az engedélyes kérelmére kiadott új üzemeltetési engedélyben történik. Az engedély iránti kérelmet atomerőművi blokkonként kell benyújtani, legkésőbb az érvényes üzemeltetési engedély lejárta előtt egy évvel.
 
 ## Az üzemeltetési engedély hatálya
 
-## 1.2.6.1100. Az új üzemeltetési engedély birtokában az atomerőművi blokk az engedélyben meghatározott feltételekkel és ideig tartható üzemben.
+## 1.2.6.1100.[^46] Az új üzemeltetési engedély birtokában az atomerőművi blokk az engedélyben meghatározott feltételekkel és ideig tartható üzemben.
 
-## 1.2.6.1200. A nukleáris biztonsági hatóság az üzemeltetés nukleáris biztonságát és egyéb körülményeit figyelembe véve szabja meg az engedély időbeli hatályát, de az nem lehet hosszabb a tervezett üzemidőn túli üzemeltetést megalapozó dokumentációban előirányzott és igazolt időtartamnál.
+## 1.2.6.1200.[^47] A nukleáris biztonsági hatóság az üzemeltetés nukleáris biztonságát és egyéb körülményeit figyelembe véve szabja meg az engedély időbeli hatályát, de az nem lehet hosszabb a tervezett üzemidőn túli üzemeltetést, illetve a tervezett üzemidőn túli üzemeltetést követő további üzemeltetést megalapozó dokumentációban előirányzott és igazolt időtartamnál.
 
-## 1.2.6.1300. Az üzemeltetési engedélynek a tervezett üzemidőn túli üzemeltetés nukleáris biztonsági hatóság által engedélyezett időtartamán belüli érvénytelenné válását követően az atomerőművi blokk újbóli üzemeltetése az 1.2.7. pont szerinti eljárásban szerzett, új üzemeltetési engedély birtokában lehetséges.
+## 1.2.6.1300.[^48] Az üzemeltetési engedélynek a tervezett üzemidőn túli üzemeltetés, illetve a tervezett üzemidőn túli üzemeltetést követő további üzemeltetés nukleáris biztonsági hatóság által engedélyezett időtartamán belüli érvénytelenné válását követően az atomerőművi blokk újbóli üzemeltetése az 1.2.7. pont szerinti eljárásban szerzett, új üzemeltetési engedély birtokában lehetséges.
 
 ## Az engedély iránti kérelem tartalmi követelményei
 
@@ -924,7 +924,7 @@
 
 ## a) a nukleáris létesítményre és annak üzemeltetőjére vonatkozó általános információkat,
 
-## b) a tervezett üzemidőn túli üzemeltetési engedély terjedelmébe tartozó rendszerek és rendszerelemek meghatározását,
+## b)[^49] a tervezett üzemidőn túli üzemeltetés, illetve a tervezett üzemidőn túli üzemeltetést követő további üzemeltetés engedélyének terjedelmébe tartozó rendszerek és rendszerelemek meghatározását,
 
 ## c) a passzív és hosszúéletű rendszerelemek öregedéskezelésének átfogó felülvizsgálatát,
 
@@ -936,13 +936,17 @@
 
 ## g) az üzemeltetési engedély alapjául szolgáló további dokumentumok módosításait,
 
-## h) annak igazolását, hogy az ÜH programot végrehajtották, és az abban meghatározott tevékenységek alapján a teljes tervezett időtartam alatt
+## h)[^50] annak igazolását, hogy az ÜH programot, illetve a TÜH végrehajtási programot végrehajtották, és az abban meghatározott tevékenységek alapján a teljes tervezett időtartam alatt
 
 ## ha) az atomerőművi blokk biztonságosan üzemeltethető állapotban van, és ennek hosszú távú fenntartásához szükséges műszaki, adminisztratív feltételek biztosítottak, és
 
 ## hb) az engedélyes rendelkezik hosszú távon a nukleáris biztonság fenntartásához szükséges erőforrásokkal, továbbá
 
-## i) a tervezett üzemidőn túli üzemeltetés elemzésekkel megalapozott tervezett időtartamát.
+## i)[^51] a tervezett üzemidőn túli üzemeltetés, illetve a tervezett üzemidőn túli üzemeltetést követő további üzemeltetés elemzésekkel megalapozott tervezett időtartamát,
+
+## j)[^52] a TÜH végrehajtási programban elhatározott, már végrehajtott vagy megkezdett átalakítások aktuális állapotát,
+
+## k)[^53] az 1.4.2.0200. pont szerinti, a tervektől eltérő állapot fennmaradására vonatkozó engedéllyel rendelkező rendszerek, rendszerelemek, épületek, épületszerkezetek megnevezését.
 
 ## 1.2.6.1500. Az engedély iránti kérelemhez mellékelni kell az alábbi dokumentumok aktualizált változatát:
 
@@ -958,17 +962,17 @@
 
 ## f) a Munkahelyi Sugárvédelmi Szabályzat.
 
-## 1.2.6.1600. A tervezett üzemidőn túli üzemeltetést megalapozó dokumentáció és az ÜH program tartalmára vonatkozó ajánlásokat útmutató tartalmazza.
+## 1.2.6.1600.[^54] A tervezett üzemidőn túli üzemeltetést, illetve a tervezett üzemidőn túli üzemeltetést követő további üzemeltetést megalapozó dokumentáció és az ÜH program, illetve a TÜH végrehajtási program tartalmára vonatkozó ajánlásokat útmutató tartalmazza.
 
 ## 1.2.7. A visszavont vagy hatályát vesztett üzemeltetési engedély ismételt megszerzése
 
-## 1.2.7.0100. Az 1.2.5. pont vagy az 1.2.6. pont szerinti üzemeltetési engedély hatályának megszűnése esetén új üzemeltetési engedély iránti kérelmet kell benyújtani. Nem szükséges új üzemeltetési engedély iránti kérelmet benyújtani, ha az 1.2.6.0900. pont szerinti kérelmet az engedélyes időben benyújtotta, de a tervezett üzemidőn túli üzemeltetés engedélyezésére vonatkozó eljárás még folyamatban van a korábbi üzemeltetési engedély időbeli hatályának lejártakor. Ebben az esetben az 1.2.6. pont szerinti engedélyezési eljárást kell befejezni.
+## 1.2.7.0100.[^55] Az 1.2.5. pont vagy az 1.2.6. pont szerinti üzemeltetési engedély hatályának megszűnése esetén új üzemeltetési engedély iránti kérelmet kell benyújtani. Nem szükséges új üzemeltetési engedély iránti kérelmet benyújtani, ha az 1.2.6.0900. pont szerinti kérelmet az engedélyes időben benyújtotta, de a tervezett üzemidőn túli üzemeltetés, illetve a tervezett üzemidőn túli üzemeltetést követő további üzemeltetés engedélyezésére vonatkozó eljárás még folyamatban van a korábbi üzemeltetési engedély időbeli hatályának lejártakor. Ebben az esetben az 1.2.6. pont szerinti engedélyezési eljárást kell befejezni.
 
 ## Az engedély hatálya
 
 ## 1.2.7.0200. A végleges üzemeltetési engedély birtokában a nukleáris létesítmény - a jogszabályban előírt egyéb engedélyek megléte esetén - az engedélyben meghatározott feltételekkel és ideig tartható üzemben.
 
-## 1.2.7.0300. A nukleáris biztonsági hatóság az üzemeltetés nukleáris biztonságát és egyéb körülményeit figyelembe véve szabja meg az engedély időbeli hatályát, de az nem lehet hosszabb a már üzemeltetési engedély birtokában üzemeltetett nukleáris létesítmény tervezett, vagy a tervezett üzemidőn túli üzemeltetésére vonatkozó engedélyében meghatározott üzemidejének visszamaradó részénél.
+## 1.2.7.0300.[^56] A nukleáris biztonsági hatóság az üzemeltetés nukleáris biztonságát és egyéb körülményeit figyelembe véve határozza meg az engedély időbeli hatályát, de az nem lehet hosszabb a már üzemeltetési engedély birtokában üzemeltetett nukleáris létesítmény tervezett, vagy a tervezett üzemidőn túli üzemeltetésére, vagy a tervezett üzemidőn túli üzemeltetést követő további üzemeltetésére vonatkozó engedélyében meghatározott üzemidejének visszamaradó részénél.
 
 ## Az engedély iránti kérelem tartalmi követelményei az engedély hatályának megszűnése esetén
 
@@ -982,7 +986,7 @@
 
 ## 1.2.7.0500. Az engedély iránti kérelemhez mellékelni kell:
 
-## a) a tervezett üzemidőn belüli időszakban az 1.2.5. pontban, a tervezett üzemidőn túli üzemeltetés időszakában az 1.2.6. pontban rögzítettek szerinti, az eredeti üzemeltetési engedélyt megalapozó dokumentumok szükséges módosításait, a módosítások indokolását és az eredeti üzemeltetési engedélyt megalapozó dokumentumok aktualizált változatát, valamint
+## a)[^57] a tervezett üzemidőn belüli időszakban az 1.2.5. pontban, a tervezett üzemidőn túli üzemeltetés, illetve a tervezett üzemidőn túli üzemeltetést követő további üzemeltetés időszakában az 1.2.6. pontban foglaltak szerinti, az eredeti üzemeltetési engedélyt megalapozó dokumentumok szükséges módosításait, a módosítások indokolását és az eredeti üzemeltetési engedélyt megalapozó dokumentumok aktualizált változatát, és
 
 ## b) az 1.2.7.0400. pont szerintiek igazolásához szükséges, a nukleáris biztonsági hatóság által igényelt dokumentumokat.
 
@@ -1162,25 +1166,25 @@
 
 ## 1.3.1.0300. Több beépítendő vagy felszerelendő, a beépítés helyétől, biztonsági és földrengés-biztonsági osztályba sorolásából, továbbá az ellátandó funkcióból származtatott egységes követelményeknek megfelelő rendszerelem gyártására vagy beszerzésére a nukleáris biztonsági hatóságtól gyártási vagy beszerzési típusengedély is kérelmezhető. A típusengedély iránti kérelem tartalmára és hatályára az 1.3.2. és 1.3.3. pontban foglaltakat kell alkalmazni.
 
-## 1.3.1.0400.[^23] Kockázati szempontból egy biztonsági osztályba sorolt rendszer vagy rendszerelem mindaddig szignifikánsnak minősül, amíg a nukleáris biztonsági hatóság által jóváhagyott – bejelentési és tájékoztatási kötelezettség megállapítására szolgáló – kockázat szempontú fontossági elemzés alapján ennek ellenkezője nem igazolt.
+## 1.3.1.0400.[^58] Kockázati szempontból egy biztonsági osztályba sorolt rendszer vagy rendszerelem mindaddig szignifikánsnak minősül, amíg a nukleáris biztonsági hatóság által jóváhagyott – bejelentési és tájékoztatási kötelezettség megállapítására szolgáló – kockázat szempontú fontossági elemzés alapján ennek ellenkezője nem igazolt.
 
-## 1.3.2.[^24] Gyártási engedély, az engedélyesi bejelentés tudomásulvétele és a nukleáris biztonsági hatóság tájékoztatása
+## 1.3.2.[^59] Gyártási engedély, az engedélyesi bejelentés tudomásulvétele és a nukleáris biztonsági hatóság tájékoztatása
 
 ## 1.3.2.0100. A nukleáris biztonsági hatóság által kiadott engedély alapján gyárthatók:
 
-## a)[^25] az 1. biztonsági osztályba tartozó nyomástartó berendezések, csővezetékek és egyéb rendszerek vagy rendszerelemek, amennyiben azokat – a 3.3.1.1800. és 3a.3.1.2200. pontban foglaltak figyelembevételével – nem kereskedelmi termékként szerzik be,
+## a)[^60] az 1. biztonsági osztályba tartozó nyomástartó berendezések, csővezetékek és egyéb rendszerek vagy rendszerelemek, amennyiben azokat – a 3.3.1.1800. és 3a.3.1.2200. pontban foglaltak figyelembevételével – nem kereskedelmi termékként szerzik be,
 
-## b)[^26]
+## b)[^61]
 
-## c)[^27]
+## c)[^62]
 
-## d)[^28]
+## d)[^63]
 
-## e)[^29]
+## e)[^64]
 
 ## f) a kiégett üzemanyag átmeneti tárolására szolgáló létesítmény esetében a kiemelten fontos és fontos biztonsági osztályba tartozó rendszerelemek és szoftverek, amelyek kereskedelmi termékként nem szerezhetők be.
 
-## 1.3.2.0110.[^30] A kockázat szempontú fontossági elemzés alapján szignifikánsnak minősített, vagy a 3a.2.1.2400. pont szerinti új tervezési megoldással készülő, 2. és 3. biztonsági osztályba sorolt rendszerek vagy rendszerelemek gyártását – ha azokat az engedélyes nem kereskedelmi termékként szerzi be – az engedélyesnek a gyártás megkezdése előtt a nukleáris biztonsági hatóságnak be kell jelentenie. A bejelentéshez mellékelni kell:
+## 1.3.2.0110.[^65] A kockázat szempontú fontossági elemzés alapján szignifikánsnak minősített, vagy a 3a.2.1.2400. pont szerinti új tervezési megoldással készülő, 2. és 3. biztonsági osztályba sorolt rendszerek vagy rendszerelemek gyártását – ha azokat az engedélyes nem kereskedelmi termékként szerzi be – az engedélyesnek a gyártás megkezdése előtt a nukleáris biztonsági hatóságnak be kell jelentenie. A bejelentéshez mellékelni kell:
 
 ## a) a 9.4.4. és 9.4.7. pont szerinti ellenőrzési terveket,
 
@@ -1190,55 +1194,55 @@
 
 ## d) új tervezésű rendszerelem esetében az engedélyes nyilatkozatát a 3a.2.1.2400. pontban előírt követelmények teljesüléséről.
 
-## 1.3.2.0120.[^31] Az 1.3.2.0110. pont szerinti bejelentés alapján a nukleáris biztonsági hatóság bejelentés-tudomásulvételi eljárást folytat le.
+## 1.3.2.0120.[^66] Az 1.3.2.0110. pont szerinti bejelentés alapján a nukleáris biztonsági hatóság bejelentés-tudomásulvételi eljárást folytat le.
 
-## 1.3.2.0130.[^32] Az engedélyes a kockázat szempontú fontossági elemzés alapján nem szignifikánsnak minősített, 2. és 3. biztonsági osztályba sorolt rendszerek vagy rendszerelemek gyártásáról – ha azokat az engedélyes nem kereskedelmi termékként szerzi be – a gyártás megkezdése előtt tájékoztatja a nukleáris biztonsági hatóságot. A tájékoztatáshoz mellékelni kell a gyártási tervdokumentáció engedélyes általi elfogadását igazoló iratot. E követelmény automatizált értesítésküldés mellett, táv-adatszolgáltatás útján is teljesíthető.
+## 1.3.2.0130.[^67] Az engedélyes a kockázat szempontú fontossági elemzés alapján nem szignifikánsnak minősített, 2. és 3. biztonsági osztályba sorolt rendszerek vagy rendszerelemek gyártásáról – ha azokat az engedélyes nem kereskedelmi termékként szerzi be – a gyártás megkezdése előtt tájékoztatja a nukleáris biztonsági hatóságot. A tájékoztatáshoz mellékelni kell a gyártási tervdokumentáció engedélyes általi elfogadását igazoló iratot. E követelmény automatizált értesítésküldés mellett, táv-adatszolgáltatás útján is teljesíthető.
 
 ## A gyártási engedély hatálya
 
-## 1.3.2.0200.[^33] A gyártási engedély az abban rögzített feltételek teljesülése esetén a rendszer vagy rendszerelem gyártására és a telephelyre történő beszállítására jogosít fel.
+## 1.3.2.0200.[^68] A gyártási engedély az abban rögzített feltételek teljesülése esetén a rendszer vagy rendszerelem gyártására és a telephelyre történő beszállítására jogosít fel.
 
-## 1.3.2.0300.[^34] A gyártási engedély határozott ideig hatályos, időtartamát a nukleáris biztonsági hatóság a gyártási tevékenység egyediségét, a rendszer vagy rendszerelem biztonsági fontosságát, a gyártás előkészítéséhez és elvégzéséhez szükséges időt figyelembe véve határozza meg, de az nem lehet 5 évnél hosszabb.
+## 1.3.2.0300.[^69] A gyártási engedély határozott ideig hatályos, időtartamát a nukleáris biztonsági hatóság a gyártási tevékenység egyediségét, a rendszer vagy rendszerelem biztonsági fontosságát, a gyártás előkészítéséhez és elvégzéséhez szükséges időt figyelembe véve határozza meg, de az nem lehet 5 évnél hosszabb.
 
-## 1.3.2.0400.[^35] A gyártási engedély hatálya – a jogszabályi előírások változatlansága esetén – egy alkalommal meghosszabbítható a gyártási engedély hatályosságával legfeljebb azonos időtartammal.
+## 1.3.2.0400.[^70] A gyártási engedély hatálya – a jogszabályi előírások változatlansága esetén – egy alkalommal meghosszabbítható a gyártási engedély hatályosságával legfeljebb azonos időtartammal.
 
-## A gyártási engedély iránti kérelem tartalmi követelményei[^36]
+## A gyártási engedély iránti kérelem tartalmi követelményei[^71]
 
-## 1.3.2.0500.[^37] Az 1.3.2.0100. pont a) alpontja szerinti engedély iránti kérelemnek tartalmaznia kell:
+## 1.3.2.0500.[^72] Az 1.3.2.0100. pont a) alpontja szerinti engedély iránti kérelemnek tartalmaznia kell:
 
-## a)[^38]
+## a)[^73]
 
-## b)[^39] rendszerelem esetén azon rendszer megnevezését, amelyhez a rendszerelem tartozik, valamint a beépítés helyét és a rendszerelem feladatát az atomerőművi blokk minden tervezett üzemállapotában;
+## b)[^74] rendszerelem esetén azon rendszer megnevezését, amelyhez a rendszerelem tartozik, valamint a beépítés helyét és a rendszerelem feladatát az atomerőművi blokk minden tervezett üzemállapotában;
 
-## c)[^40] a jogszabályban és a nukleáris létesítmény Előzetes Biztonsági Jelentésében a rendszerre vagy rendszerelemre, a beépítés helyére, a biztonsági és földrengés-biztonsági osztályra meghatározott, a gyártás során figyelembe veendő műszaki és minőségi követelményeket;
+## c)[^75] a jogszabályban és a nukleáris létesítmény Előzetes Biztonsági Jelentésében a rendszerre vagy rendszerelemre, a beépítés helyére, a biztonsági és földrengés-biztonsági osztályra meghatározott, a gyártás során figyelembe veendő műszaki és minőségi követelményeket;
 
 ## d) a nukleáris biztonsági követelmények figyelembevételét igazoló tervezői nyilatkozatokat;
 
-## e)[^41]
+## e)[^76]
 
-## f)[^42]
+## f)[^77]
 
-## g)[^43]
+## g)[^78]
 
-## h)[^44]
+## h)[^79]
 
-## i)[^45]
+## i)[^80]
 
-## j)[^46] a tervező és a gyártómű minősítő lapját;
+## j)[^81] a tervező és a gyártómű minősítő lapját;
 
-## k)[^47]
+## k)[^82]
 
-## l)[^48]
+## l)[^83]
 
-## m)[^49]
+## m)[^84]
 
-## n)[^50]
+## n)[^85]
 
-## o)[^51] az eljáráshoz kapcsolódóan a nukleáris biztonsági hatóság által kiadott engedély ügyszámát, a kérelem megalapozásához felhasznált, az engedélyes által korábban benyújtott dokumentáció megnevezését és ezek azonosítóit; és
+## o)[^86] az eljáráshoz kapcsolódóan a nukleáris biztonsági hatóság által kiadott engedély ügyszámát, a kérelem megalapozásához felhasznált, az engedélyes által korábban benyújtott dokumentáció megnevezését és ezek azonosítóit; és
 
-## p)[^52] a 9.4.2.0400. pont szerinti gyártási dokumentációt.
+## p)[^87] a 9.4.2.0400. pont szerinti gyártási dokumentációt.
 
-## 1.3.2.0510.[^53] Az 1.3.2.0100. pont f) alpontja szerinti engedély iránti kérelemnek tartalmaznia kell:
+## 1.3.2.0510.[^88] Az 1.3.2.0100. pont f) alpontja szerinti engedély iránti kérelemnek tartalmaznia kell:
 
 ## a) a rendszerelem megnevezését, biztonsági és földrengés-biztonsági osztályba sorolását, a rendszerelem által ellátott biztonsági funkció megnevezését;
 
@@ -1270,21 +1274,21 @@
 
 ## o) az eljáráshoz kapcsolódóan a nukleáris biztonsági hatóság által kiadott engedély ügyszámát, a kérelem megalapozásához felhasznált, az engedélyes által korábban benyújtott dokumentáció megnevezését és ezek azonosítóit.
 
-## 1.3.2.0600.[^54] Az 1.3.2.0500. pont b), d), j) és p) alpontja szerinti dokumentumok az új atomerőművi blokkokra vonatkozó eljárásokban magyar vagy angol nyelven nyújthatók be.
+## 1.3.2.0600.[^89] Az 1.3.2.0500. pont b), d), j) és p) alpontja szerinti dokumentumok az új atomerőművi blokkokra vonatkozó eljárásokban magyar vagy angol nyelven nyújthatók be.
 
-## 1.3.3.[^55] Beszerzési engedély, az engedélyesi bejelentés tudomásulvétele és a nukleáris biztonsági hatóság tájékoztatása
+## 1.3.3.[^90] Beszerzési engedély, az engedélyesi bejelentés tudomásulvétele és a nukleáris biztonsági hatóság tájékoztatása
 
 ## 1.3.3.0100. A nukleáris biztonsági hatóság által kiadott engedély alapján szerezhetők be:
 
-## a)[^56] az 1. biztonsági osztályba tartozó nyomástartó berendezések, csővezetékek és egyéb rendszerek vagy rendszerelemek, amennyiben azokat a 3.3.1.1800. és a 3a.3.1.2200. pont figyelembevételével kereskedelmi termékként szerzik be;
+## a)[^91] az 1. biztonsági osztályba tartozó nyomástartó berendezések, csővezetékek és egyéb rendszerek vagy rendszerelemek, amennyiben azokat a 3.3.1.1800. és a 3a.3.1.2200. pont figyelembevételével kereskedelmi termékként szerzik be;
 
-## b)[^57]
+## b)[^92]
 
-## c)[^58]
+## c)[^93]
 
 ## d) a kiégett üzemanyag átmeneti tárolására szolgáló létesítmény esetében a kiemelten fontos és fontos biztonsági osztályba tartozó rendszerelemek.
 
-## 1.3.3.0110.[^59] A kockázat szempontú fontossági elemzés alapján szignifikánsnak minősített, vagy a 3a.2.1.2400. pont szerinti új tervezési megoldással készülő, 2. és 3. biztonsági osztályba sorolt rendszerek vagy rendszerelemek beszerzését – ha azok beszerezhetők kereskedelmi termékként – az engedélyesnek a végátvétel megkezdése előtt be kell jelentenie a nukleáris biztonsági hatóságnak. A bejelentéshez mellékelni kell:
+## 1.3.3.0110.[^94] A kockázat szempontú fontossági elemzés alapján szignifikánsnak minősített, vagy a 3a.2.1.2400. pont szerinti új tervezési megoldással készülő, 2. és 3. biztonsági osztályba sorolt rendszerek vagy rendszerelemek beszerzését – ha azok beszerezhetők kereskedelmi termékként – az engedélyesnek a végátvétel megkezdése előtt be kell jelentenie a nukleáris biztonsági hatóságnak. A bejelentéshez mellékelni kell:
 
 ## a) a rendszer, rendszerelem átvételének ellenőrzési tervét,
 
@@ -1294,53 +1298,53 @@
 
 ## d) új tervezésű rendszerelem esetében az engedélyes nyilatkozatát a 3a.2.1.2400. pontban előírt követelmények teljesüléséről.
 
-## 1.3.3.0120.[^60] Az 1.3.3.0110. pont szerinti bejelentés alapján a nukleáris biztonsági hatóság bejelentés-tudomásulvételi eljárást folytat le.
+## 1.3.3.0120.[^95] Az 1.3.3.0110. pont szerinti bejelentés alapján a nukleáris biztonsági hatóság bejelentés-tudomásulvételi eljárást folytat le.
 
-## 1.3.3.0130.[^61] Az engedélyes a kockázat szempontú fontossági elemzés alapján nem szignifikánsnak minősített, 2. és 3. biztonsági osztályba sorolt rendszerek vagy rendszerelemek esetén – ha azok beszerezhetők kereskedelmi termékként – a beszerzési tervdokumentáció engedélyes általi elfogadásáról az engedélyes a végátvétel megkezdése előtt tájékoztatja a nukleáris biztonsági hatóságot. E követelmény automatizált értesítésküldés mellett, táv-adatszolgáltatás útján is teljesíthető.
+## 1.3.3.0130.[^96] Az engedélyes a kockázat szempontú fontossági elemzés alapján nem szignifikánsnak minősített, 2. és 3. biztonsági osztályba sorolt rendszerek vagy rendszerelemek esetén – ha azok beszerezhetők kereskedelmi termékként – a beszerzési tervdokumentáció engedélyes általi elfogadásáról az engedélyes a végátvétel megkezdése előtt tájékoztatja a nukleáris biztonsági hatóságot. E követelmény automatizált értesítésküldés mellett, táv-adatszolgáltatás útján is teljesíthető.
 
 ## A beszerzési engedély hatálya
 
-## 1.3.3.0200.[^62] A beszerzési engedély az abban rögzített feltételek teljesülése esetén a rendszer vagy rendszerelem, mint kereskedelmi termék beszerzésére és a telephelyre történő beszállítására jogosít fel.
+## 1.3.3.0200.[^97] A beszerzési engedély az abban rögzített feltételek teljesülése esetén a rendszer vagy rendszerelem, mint kereskedelmi termék beszerzésére és a telephelyre történő beszállítására jogosít fel.
 
-## 1.3.3.0300.[^63] A beszerzési engedély határozott ideig hatályos, időtartamát a nukleáris biztonsági hatóság a beszerzendő rendszer vagy rendszerelem biztonsági fontosságát, konstrukciójának, gyártásának egyediségét, a beszerzés tervezett ütemét, a beszerzés előkészítéséhez és elvégzéséhez szükséges időt figyelembe véve határozza meg, de az nem lehet 5 évnél hosszabb.
+## 1.3.3.0300.[^98] A beszerzési engedély határozott ideig hatályos, időtartamát a nukleáris biztonsági hatóság a beszerzendő rendszer vagy rendszerelem biztonsági fontosságát, konstrukciójának, gyártásának egyediségét, a beszerzés tervezett ütemét, a beszerzés előkészítéséhez és elvégzéséhez szükséges időt figyelembe véve határozza meg, de az nem lehet 5 évnél hosszabb.
 
-## 1.3.3.0400.[^64] A beszerzési engedély hatálya – a jogszabályi előírások változatlansága esetén – egy alkalommal meghosszabbítható a beszerzési engedély hatályosságával legfeljebb azonos időtartammal.
+## 1.3.3.0400.[^99] A beszerzési engedély hatálya – a jogszabályi előírások változatlansága esetén – egy alkalommal meghosszabbítható a beszerzési engedély hatályosságával legfeljebb azonos időtartammal.
 
-## A beszerzési engedély iránti kérelem tartalmi követelményei[^65]
+## A beszerzési engedély iránti kérelem tartalmi követelményei[^100]
 
-## 1.3.3.0500.[^66] A beszerzési engedély iránti kérelemnek tartalmaznia kell:
+## 1.3.3.0500.[^101] A beszerzési engedély iránti kérelemnek tartalmaznia kell:
 
-## a)[^67]
+## a)[^102]
 
-## b)[^68] rendszerelem esetén azon rendszer megnevezését, amelyhez a rendszerelem tartozik, a beépítés helyét és a rendszerelem feladatát a létesítmény minden tervezett üzemállapotában;
+## b)[^103] rendszerelem esetén azon rendszer megnevezését, amelyhez a rendszerelem tartozik, a beépítés helyét és a rendszerelem feladatát a létesítmény minden tervezett üzemállapotában;
 
 ## c) a jogszabályban és a nukleáris létesítmény Előzetes Biztonsági Jelentésében a kereskedelmi termék tervezett beépítés helyére, a biztonsági és földrengés-biztonsági osztályra meghatározott, a beszerzés során figyelembe veendő műszaki és minőségi követelményeket;
 
-## d)[^69]
+## d)[^104]
 
-## e)[^70]
+## e)[^105]
 
-## f)[^71]
+## f)[^106]
 
-## g)[^72]
+## g)[^107]
 
 ## h) a kereskedelmi termék végátvételének ellenőrzési tervét, az ellenőrző szervezet megnevezését és az ellenőrző szervezetnek a tevékenység elvégzésére való alkalmasságát igazoló dokumentumokat;
 
-## i)[^73] a gyártómű minősítő lapját;
+## i)[^108] a gyártómű minősítő lapját;
 
-## j)[^74]
+## j)[^109]
 
-## k)[^75]
+## k)[^110]
 
-## l)[^76]
+## l)[^111]
 
-## m)[^77]
+## m)[^112]
 
-## n)[^78] az eljáráshoz kapcsolódóan a nukleáris biztonsági hatóság által kiadott engedély ügyszámát, a kérelem megalapozásához felhasznált, az engedélyes által korábban benyújtott dokumentáció megnevezését és ezek azonosítóit; és
+## n)[^113] az eljáráshoz kapcsolódóan a nukleáris biztonsági hatóság által kiadott engedély ügyszámát, a kérelem megalapozásához felhasznált, az engedélyes által korábban benyújtott dokumentáció megnevezését és ezek azonosítóit; és
 
-## o)[^79] a 9.4.8.0100. pont szerinti beszerzési dokumentációt.
+## o)[^114] a 9.4.8.0100. pont szerinti beszerzési dokumentációt.
 
-## 1.3.3.0510.[^80] Az 1.3.3.0100. pont d) alpontja szerinti engedély iránti kérelemnek tartalmaznia kell:
+## 1.3.3.0510.[^115] Az 1.3.3.0100. pont d) alpontja szerinti engedély iránti kérelemnek tartalmaznia kell:
 
 ## a) a kereskedelmi termék megnevezését, biztonsági és földrengés-biztonsági osztályba sorolását, a rendszerelem által ellátott biztonsági funkció megnevezését;
 
@@ -1380,13 +1384,13 @@
 
 ## n) az eljáráshoz kapcsolódóan a nukleáris biztonsági hatóság által kiadott engedély ügyszámát, a kérelem megalapozásához felhasznált, az engedélyes által korábban benyújtott dokumentáció megnevezését és ezek azonosítóit.
 
-## 1.3.3.0600.[^81] Az 1.3.3.0500. pont b), h), i) és o) alpontja szerinti dokumentumok az új atomerőművi blokkokra vonatkozó eljárásokban magyar vagy angol nyelven nyújthatók be.
+## 1.3.3.0600.[^116] Az 1.3.3.0500. pont b), h), i) és o) alpontja szerinti dokumentumok az új atomerőművi blokkokra vonatkozó eljárásokban magyar vagy angol nyelven nyújthatók be.
 
 ## 1.3.4. Szerelési engedély
 
 ## 1.3.4.0100. A nukleáris biztonsági hatóság által kiadott engedély alapján végezhető a szerelése:
 
-## a)[^82] az 1. biztonsági osztályba tartozó nyomástartó berendezéseknek és csővezetékeknek, valamint az egyéb rendszereknek vagy rendszerelemeknek,
+## a)[^117] az 1. biztonsági osztályba tartozó nyomástartó berendezéseknek és csővezetékeknek, valamint az egyéb rendszereknek vagy rendszerelemeknek,
 
 ## b) a kiégett üzemanyag átmeneti tárolására szolgáló létesítmény bővítésének esetében a gyártási és beszerzési engedéllyel rendelkező rendszerelemeknek.
 
@@ -1424,11 +1428,11 @@
 
 ## 1.3.5. Üzemeltetési engedély
 
-## 1.3.5.0100.[^83] A nukleáris biztonsági hatóság által kiadott engedély szükséges az 1., 2. és 3. biztonsági osztályba sorolt, a nukleáris biztonsági hatóság felügyelete alá tartozó nyomástartó berendezések és csővezetékek üzemeltetéséhez.
+## 1.3.5.0100.[^118] A nukleáris biztonsági hatóság által kiadott engedély szükséges az 1., 2. és 3. biztonsági osztályba sorolt, a nukleáris biztonsági hatóság felügyelete alá tartozó nyomástartó berendezések és csővezetékek üzemeltetéséhez.
 
 ## Az engedély hatálya
 
-## 1.3.5.0200.[^84] Az üzemeltetési engedély az abban meghatározott feltételek teljesülése esetén – a nyomástartó berendezés sikeres eredményű, dokumentált, jogszabály alapján feljogosított független ellenőrző szervezet által elvégzett, az első üzembe helyezést megelőző helyszíni ellenőrzését követően – a berendezés funkció-, illetve üzembe helyezési próbáira kidolgozott programok elvégzésére és azok sikeres végrehajtása után a rendszerelem üzemeltetésére jogosít fel.
+## 1.3.5.0200.[^119] Az üzemeltetési engedély az abban meghatározott feltételek teljesülése esetén – a nyomástartó berendezés sikeres eredményű, dokumentált, jogszabály alapján feljogosított független ellenőrző szervezet által elvégzett, az első üzembe helyezést megelőző helyszíni ellenőrzését követően – a berendezés funkció-, illetve üzembe helyezési próbáira kidolgozott programok elvégzésére és azok sikeres végrehajtása után a rendszerelem üzemeltetésére jogosít fel.
 
 ## 1.3.5.0300. A nukleáris biztonsági hatóság a rendszerelem jellemzőit és az engedély szerinti tevékenység végzésének sajátosságait és körülményeit figyelembe véve szabja meg az engedély érvényességét, de az nem lehet hosszabb a rendszerelem tervezésénél figyelembe vett időtartamnál.
 
@@ -1450,7 +1454,7 @@
 
 ## dc) a gyártmány tervezője által tett előírásokkal;
 
-## e)[^85] az első üzembe helyezést megelőző helyszíni ellenőrzést végző, jogszabály alapján feljogosított független ellenőrző szervezet megnevezését és az ellenőrzés programját;
+## e)[^120] az első üzembe helyezést megelőző helyszíni ellenőrzést végző, jogszabály alapján feljogosított független ellenőrző szervezet megnevezését és az ellenőrzés programját;
 
 ## f) az üzembevételt megelőző funkciópróbákat vagy üzembe helyezési programot, és annak igazolását, hogy a funkciópróba vagy üzembe helyezési program alkalmas a rendszerelem terv szerinti megfelelő működésének igazolására;
 
@@ -1496,7 +1500,7 @@
 
 ## érintő átalakítások végrehajtásához.
 
-## 1.4.1.0800. Az átalakítási engedély az átalakítás végrehajtására jogosítja fel az engedélyest. Az engedélyben a nukleáris biztonsági hatóság jóváhagyja a kategóriába sorolást továbbá meghatározza, hogy az átalakítás végrehajtása után mikor kell az átalakítás értékelését tájékoztatásul benyújtani, továbbá, amennyiben az szükséges, kötelezi az engedélyest az 1.2.5.0500. pont szerinti módosított üzemeltetési engedély megszerzésére. Az engedély a benne meghatározott, az átalakítás megvalósításának sajátosságait figyelembe vevő időpontig, de legfeljebb 5 évig hatályos.
+## 1.4.1.0800.[^121] Az átalakítási engedély az átalakítás végrehajtására jogosítja fel az engedélyest. Az átalakítási engedélyben a nukleáris biztonsági hatóság jóváhagyja a kategóriába sorolást, továbbá meghatározza, hogy az átalakítás végrehajtása után mikor kell az átalakítás értékelését tájékoztatásul benyújtani, továbbá – amennyiben szükséges – kötelezi az engedélyest az 1.2.5.0500. pont szerinti módosított üzemeltetési engedély megszerzésére. Az átalakítási engedély a benne meghatározott, az átalakítás megvalósításának sajátosságait figyelembe vevő időpontig, de legfeljebb 5 évig hatályos. Az átalakítási engedély – ha az engedély kiadása feltételei fennállnak – egy alkalommal, legfeljebb 5 évvel meghosszabbítható.
 
 ## 1.4.1.0810. Az átalakítási engedélyben a nukleáris biztonsági hatóság határidő kitűzése mellett rendelkezik arról is, hogy az adott átalakítás jellegétől függően az üzembe helyezés megkezdését, a szervezeti változtatás, a módosított irányítási rendszer, valamint a módosított műszaki és szabályozó dokumentum bevezetését megelőzően az átalakítással kapcsolatosan addig elvégzett tevékenységről tájékoztatást kell-e küldeni, és azt egy vagy két lépésben kell teljesíteni. A határidőt az átalakítás összetettségének és az átalakítások végrehajtása ütemezésének figyelembevételével úgy kell meghatározni, hogy az elégséges legyen az Átalakítást Követő Üzemeltetés Megkezdését Megalapozó Dokumentáció, illetve az összefoglaló leírás felülvizsgálatára.
 
@@ -1522,9 +1526,45 @@
 
 ## 1.4.1.1700. A benyújtott Átalakítást Követő Üzemeltetés Megkezdését Megalapozó Dokumentációt, valamint az összefoglaló leírást - a felügyeleti tervét is figyelembe véve - a nukleáris biztonsági hatóság ellenőrzi, az 1. kategóriába sorolt műszaki átalakítások esetében helyszíni eseti ellenőrzést végez. Ha a benyújtott Átalakítást Követő Üzemeltetés Megkezdését Megalapozó Dokumentáció, összefoglaló leírás ellenőrzése, vagy az eseti helyszíni ellenőrzés során a nukleáris biztonsági hatóság olyan nem megfelelőséget állapít meg, amely veszélyezteti a biztonságos üzemeltetést, akkor a kiadott átalakítási engedélyt visszavonja, illetve az engedélyt módosítva feltételeket állapít meg.
 
-## 1.4.1.1710. A nukleáris biztonsági hatóság az 1.4.1.1700. pont szerinti dokumentáció ellenőrzéséről feljegyzést, 1. kategóriába sorolt műszaki átalakítások helyszíni ellenőrzéséről jegyzőkönyvet készít. Ha az Átalakítást Követő Üzemeltetés Megkezdését Megalapozó Dokumentáció, vagy az összefoglaló leírás ellenőrzése nem tárt fel olyan nemmegfelelőséget, amely veszélyezteti a biztonságos üzemeltethetőséget, akkor erről a nukleáris biztonsági hatóság a feljegyzés elküldésével vagy az ellenőrzési jegyzőkönyvben tájékoztatja az engedélyest. Az engedélyes ennek birtokában folytatja az átalakítás végrehajtását.
+## 1.4.1.1710.[^122] A nukleáris biztonsági hatóság az 1.4.1.1700. pont szerinti dokumentáció ellenőrzéséről feljegyzést, 1. kategóriába sorolt műszaki átalakítások helyszíni ellenőrzéséről jegyzőkönyvet készít. Ha az Átalakítást Követő Üzemeltetés Megkezdését Megalapozó Dokumentáció vagy az összefoglaló leírás ellenőrzése nem tárt fel olyan nemmegfelelőséget, amely veszélyezteti a biztonságos üzemeltethetőséget, akkor erről a nukleáris biztonsági hatóság a feljegyzés elküldésével vagy az ellenőrzési jegyzőkönyvben tájékoztatja az engedélyest. Az engedélyes a feljegyzés vagy az ellenőrzési jegyzőkönyv kézhezvételét követően kezdheti meg az üzembe helyezést.
 
 ## 1.4.1.1800. Ha az átalakítási engedélyben a nukleáris biztonsági hatóság másként nem rendelkezett, akkor 3 hónappal az átalakítás végrehajtását követően, tájékoztatásul meg kell küldeni a nukleáris biztonsági hatóságnak a 4. melléklet 4.8.4.0100. pontja, az 5. melléklet 5.3.13.0600. pont f) alpontja, továbbá a 6. melléklet 6.3.9.2400. pontja szerinti Átalakítást Értékelő Jelentést, továbbá szükséges esetekben be kell nyújtani a nukleáris létesítmény üzemeltetési engedélyének módosítására irányuló kérelmet. Ha nem szükséges a nukleáris létesítmény üzemeltetési engedélyének módosítása, akkor az Átalakítást Értékelő Jelentéshez mellékelni kell azoknak, a nukleáris biztonsági hatóság számára még meg nem küldött, megváltozott dokumentumoknak a végleges változatát, amelyek korábbi változatát az Átalakítást Követő Üzemeltetés Megkezdését Megalapozó Dokumentációhoz mellékelték.
+
+## 1.4.2.[^123] Tervektől eltérő állapot fennmaradásának engedélyezése
+
+## 1.4.2.0100.[^124] Az 1.4.2. pont rendelkezéseit atomerőmű üzembe helyezésének és üzemeltetésének életciklus-szakaszaiban kell alkalmazni.
+
+## 1.4.2.0200.[^125] A nukleáris biztonsági hatóság tervektől eltérő állapot fennmaradására vonatkozó engedélye szükséges az 1., 2. és 3. biztonsági osztályba sorolt, a nukleáris biztonsági hatóság felügyelete alá tartozó atomerőművi rendszerek, rendszerelemek, építmények és épületszerkezetek tervektől eltérő állapotban tartásához.
+
+## A tervektől eltérő állapot fennmaradására vonatkozó engedély hatálya
+
+## 1.4.2.0300.[^126] A tervektől eltérő állapot fennmaradására vonatkozó engedély – az abban meghatározott feltételek teljesülése esetén – a rendszer, rendszerelem, épület, épületszerkezet tervektől eltérő állapotának a nukleáris biztonsági hatóság által meghatározott ideig történő fennmaradására jogosít fel. A tervektől eltérő állapot fennmaradására vonatkozó engedély hatálya alatt a rendszer, rendszerelem, épület, épületszerkezet a tervektől eltérő állapotban üzemeltethető.
+
+## 1.4.2.0400.[^127] A tervektől eltérő állapot fennmaradására vonatkozó engedély hatálya nem lehet hosszabb a rendszer, rendszerelem, épület, épületszerkezet tervezésénél figyelembe vett – elemzéssel és kutatással igazolt – időtartamnál.
+
+## A tervektől eltérő állapot fennmaradására vonatkozó engedély iránti kérelem tartalmi követelményei
+
+## 1.4.2.0500.[^128] A tervektől eltérő állapot fennmaradására vonatkozó engedély iránti kérelemnek tartalmaznia kell:
+
+## a) a rendszer, rendszerelem, épület, épületszerkezet megnevezését, biztonsági és földrengés-biztonsági osztályba sorolását és a rendszerelem által ellátott biztonsági funkció megnevezését;
+
+## b) az eltérő állapotú rendszerre, rendszerelemre, épületre, épületszerkezetre vonatkozó követelményeket és azok teljesítésének igazolását;
+
+## c) a rendszer, rendszerelem, épület, épületszerkezet eltérő állapotának az üzemeltetésre vonatkozó hatásai vizsgálatát;
+
+## d) ha a rendszer, rendszerelem, épület, épületszerkezet megfelelőségének igazolása érdekében az engedélyes kiegészítő vizsgálatokat, teszteket végez, ezek programját;
+
+## e) a rendszer, rendszerelem, épület, épületszerkezet megváltozott állapotának további monitorozására előirányozott programot, ha az engedélyes monitorozást végez;
+
+## f) azon üzemviteli dokumentumok, üzemzavar-elhárítási utasítások és balesetkezelési eljárások megnevezését, amelyeket az engedélyes módosítani fog vagy elkészít;
+
+## g) az ÜFK módosítás tervezetét, ha a módosítást a tervektől eltérő állapot fennmaradása következtében el kell végezni;
+
+## h) a 4.8.6.0200. pont szerinti átfogó biztonsági értékelést;
+
+## i) a független műszaki szakértői felülvizsgálat dokumentációját;
+
+## j) az engedélyes belső független szervezeti egységének jóváhagyását tartalmazó dokumentumokat.
 
 ## 1.5. AZ ÉPÍTMÉNYEK, ÉPÍTMÉNYSZERKEZETEK ÉS FELVONÓK ENGEDÉLYEZÉSE
 
@@ -1534,7 +1574,7 @@
 
 ## 1.5.1.0110. Az engedélyes az Előzetes Biztonsági Jelentésében bemutatja az új atomerőmű építésének tervezett szakaszolását. Egyértelmű módon jelöli az egy építési szakaszba tartozó építményeket és az egy építési engedélykérelemmel benyújtani tervezett építményeket.
 
-## 1.5.1.0200.[^86] Az építményekre, építményszerkezetekre - a 10. melléklet 51. pont i) alpontjában meghatározott építményszerkezeteket kivéve, valamint az 1.5.1.0300., 1.5.1.0350., 1.5.1.0370., 1.5.1.1400. és 1.5.1.1500. pontok függvényében - az 1.5.2. és 1.5.3. pont szerinti hatósági engedély szükséges:
+## 1.5.1.0200.[^129] Az építményekre, építményszerkezetekre - a 10. melléklet 51. pont i) alpontjában meghatározott építményszerkezeteket kivéve, valamint az 1.5.1.0300., 1.5.1.0350., 1.5.1.0370., 1.5.1.1400. és 1.5.1.1500. pontok függvényében - az 1.5.2. és 1.5.3. pont szerinti hatósági engedély szükséges:
 
 ## a) ha az építési tevékenység folyamata vagy eredménye hatással van a nukleáris biztonságra,
 
@@ -1546,9 +1586,9 @@
 
 ## 1.5.1.0210. Az építményekre, építményszerkezetekre, felvonókra vonatkozó hatósági engedély iránti kérelmeket az OAH által üzemeltetett Atomenergia hatósági eljárást Támogató elektronikus Dokumentációs Rendszeren (ATDR) keresztül, elektronikus formában kell benyújtani.
 
-## 1.5.1.0290. A nukleáris biztonsági hatóság új építmény építése vagy meglévő építmény elbontása esetén az engedélyes kérelmére az ingatlan adataiban bekövetkezett változásnak az ingatlan-nyilvántartásról szóló törvény szerinti átvezetéséhez helyszíni szemle alapján hatósági bizonyítványt állít ki.
+## 1.5.1.0290.[^130] A nukleáris biztonsági hatóság új építmény építése vagy meglévő építmény elbontása esetén az engedélyes kérelmére az ingatlan adataiban bekövetkezett változásnak az ingatlan-nyilvántartásról szóló törvény szerinti átvezetéséhez hatósági bizonyítványt állít ki.
 
-## 1.5.1.0300.[^87] Ha létesítés vagy üzembe helyezés alatt álló vagy üzemelő nukleáris létesítménynél az 1.5.1.0100. pont szerinti listán szereplő,
+## 1.5.1.0300.[^131] Ha létesítés vagy üzembe helyezés alatt álló vagy üzemelő nukleáris létesítménynél az 1.5.1.0100. pont szerinti listán szereplő,
 
 ## a) a radioaktív anyagok környezetbe jutását megakadályozó,
 
@@ -1562,7 +1602,7 @@
 
 ## f) a nukleáris létesítmény és a radioaktívhulladék-tároló fizikai védelmében szerepet játszó vagy
 
-## g)[^88] a telephelyi nukleárisbaleset-elhárítási tevékenység végrehajtását közvetlenül kiszolgáló építményeken, építményszerkezeteken építési tevékenységet végeznek, akkor az építési engedélyezési eljárási követelményeken túl az 1.4. pont, az 1.10. pont, továbbá a 4. melléklet 4.8. pontja, az 5. melléklet 5.3.13. pontja és a 6. melléklet 6.3.9. pontja szerinti, az adott nukleáris létesítményre vonatkozó – adott életciklus-szakasznak megfelelő – követelményeket is alkalmazni kell.
+## g)[^132] a telephelyi nukleárisbaleset-elhárítási tevékenység végrehajtását közvetlenül kiszolgáló építményeken, építményszerkezeteken építési tevékenységet végeznek, akkor az építési engedélyezési eljárási követelményeken túl az 1.4. pont, az 1.10. pont, továbbá a 4. melléklet 4.8. pontja, az 5. melléklet 5.3.13. pontja és a 6. melléklet 6.3.9. pontja szerinti, az adott nukleáris létesítményre vonatkozó – adott életciklus-szakasznak megfelelő – követelményeket is alkalmazni kell.
 
 ## 1.5.1.0350. Kivitelezési dokumentáció alapján végezhető tevékenységek:
 
@@ -1586,7 +1626,7 @@
 
 ## bh) az építmény tűzvédelmi jellemzői változnak,
 
-## bi)[^89] gépalapok, berendezéstartó pódiumok, ezekhez kapcsolódó korlátok és lépcsők építésére kerül sor,
+## bi)[^133] gépalapok, berendezéstartó pódiumok, ezekhez kapcsolódó korlátok és lépcsők építésére kerül sor,
 
 ## c) az építmény bontása, ha
 
@@ -1612,7 +1652,7 @@
 
 ## 1.5.1.0375. Az építészeti kategóriába sorolás eredményét bejelentés formájában az engedélyesnek elektronikusan kell benyújtania a nukleáris biztonsági hatóság felé. Az építési tevékenység további előkészítése és végrehajtása a nukleáris biztonsági hatóság által elfogadott építészeti kategóriába sorolást figyelembe véve kezdhető meg. Az építészeti kategóriába sorolás pontos formájára, tartalmára és kritériumaira vonatkozó ajánlásokat útmutató tartalmazza.
 
-## 1.5.1.0380.[^90] Az építészeti csoportosítást az épített környezet alakításáról és védelméről szóló törvény szerinti sajátos építményfajtákat alapul véve kell elvégezni, és
+## 1.5.1.0380.[^134] Az építészeti csoportosítást a magyar építészetről szóló törvény szerinti sajátos építményfajtákat alapul véve kell elvégezni, és
 
 ## a) A. csoportba (nukleárisan sajátos építmény) kell sorolni, ha az építmény az 1.5.1.0300. pont a)–g) alpontja szerinti sajátosságok közül legalább az egyikkel jellemezhető;
 
@@ -1620,7 +1660,7 @@
 
 ## c) C. csoportba kell sorolni a biztonsági övezeten belül elhelyezkedő nem sajátos építményeket.
 
-## 1.5.1.0381.[^91] Az 1.5.1.0380. pont a) és b) alpontját figyelembe véve egy építmény több szempontból is sajátos építménynek minősíthető.
+## 1.5.1.0381.[^135] Az 1.5.1.0380. pont a) és b) alpontját figyelembe véve egy építmény több szempontból is sajátos építménynek minősíthető.
 
 ## 1.5.1.0390. Az építési tevékenységeket az engedélyes az irányítási rendszerébe illeszkedő szabályozás alapján végzi és felügyeli. A műszaki és biztonsági megfelelőséget, a nukleáris biztonsági követelmények teljesülését biztosító eljárások rendszerét az építési tevékenység életciklusa, annak meghatározó fázisai figyelembevételével kell kialakítani.
 
@@ -1644,7 +1684,7 @@
 
 ## c) az üzemi időszakot állagmegóvó karbantartás elvégzése után a berendezés karbantartás ellenőrének jegyzőkönyvével kell lezárni.
 
-## 1.5.1.0900. A nukleáris biztonsági hatóság az építményekkel összefüggő hatósági eljárásai során, az épített környezet alakításáról és védelméről szóló törvény előírásaiban az elektronikus ügyintézésre szabott kötelezettségeinek, a nukleáris biztonsági hatóság által működtetett elektronikus ügyintézési alkalmazás útján tesz eleget.
+## 1.5.1.0900.[^136] A nukleáris biztonsági hatóság az építményekkel összefüggő hatósági eljárásai során, a magyar építészetről szóló törvény előírásaiban az elektronikus ügyintézésre szabott kötelezettségeinek, a nukleáris biztonsági hatóság által működtetett elektronikus ügyintézési alkalmazás útján tesz eleget.
 
 ## 1.5.1.1000. A Kormány által kihirdetett veszélyhelyzet esetén a nukleáris biztonsági hatóság az építmények helyszíni szemléjét a hatóság vezetőjének nukleáris biztonsági szempontú mérlegeléssel meghozott döntése szerinti határidőn belül végzi el.
 
@@ -1720,7 +1760,7 @@
 
 ## 2.23. zászlótartó és kameratartó oszlop (zászlórúd) építése, amelynek terepszinttől mért magassága a 6,0 métert nem haladja meg;
 
-## 2.24.[^92] ideiglenes ideig fennálló építmény építése, telepítése, átalakítása és bontása, az építési tevékenység végzéséhez szükséges állványzat építése és bontása;
+## 2.24.[^137] ideiglenes ideig fennálló építmény építése, telepítése, átalakítása és bontása, az építési tevékenység végzéséhez szükséges állványzat építése és bontása;
 
 ## 2.25. közforgalom elől elzárt, telken belüli út, parkoló, áteresz, bejáró-, átjáróhíd építése, felújítása, bontása;
 
@@ -1728,9 +1768,9 @@
 
 ## 1.5.1.1510. Az 1.5.1.1500. pont 2. alpontjában foglalt tevékenységek végzését az engedélyes köteles a munkavégzés megkezdése előtt legkésőbb 5 nappal bejelenteni a nukleáris biztonsági hatóságnak.
 
-## 1.5.1/B.[^93] Hatósági engedélyezési eljárás nélkül, OAH e-napló vezetése mellett végezhető építéskivitelezési tevékenységek
+## 1.5.1/B.[^138] Hatósági engedélyezési eljárás nélkül, OAH e-napló vezetése mellett végezhető építéskivitelezési tevékenységek
 
-## 1.5.1.1520.[^94] Hatósági engedélyezési eljárás lefolytatása nélkül, OAH e-napló vezetése mellett végezhető a létesítés alatt álló nukleáris létesítmény esetén a gépalapok, berendezéstartó pódiumok, az ezekhez kapcsolódó korlátok és lépcsők építése. Ezen építmények megfelelőségét legkésőbb az üzembe helyezési engedélyezés során az 1.5.3.0600. pont a)–d) alpontjában foglaltak szerinti tartalommal igazolni kell.
+## 1.5.1.1520.[^139] Hatósági engedélyezési eljárás lefolytatása nélkül, OAH e-napló vezetése mellett végezhető a létesítés alatt álló nukleáris létesítmény esetén a gépalapok, berendezéstartó pódiumok, az ezekhez kapcsolódó korlátok és lépcsők építése. Ezen építmények megfelelőségét legkésőbb az üzembe helyezési engedélyezés során az 1.5.3.0600. pont a)–d) alpontjában foglaltak szerinti tartalommal igazolni kell.
 
 ## 1.5.2. Építmények, építményszerkezetek építési vagy bontási engedélye
 
@@ -1742,7 +1782,7 @@
 
 ## a) az 1.5.1.0300. pontban felsorolt építmények esetén a nukleáris biztonsági követelmények teljesülésének igazolását és műszaki megalapozását,
 
-## b)[^95] a tervezés (engedélyezési és kiviteli tervek) megfelelő elvégzését biztosító minőségirányítási programot,
+## b)[^140] a tervezés (engedélyezési és kiviteli tervek) megfelelő elvégzését biztosító minőségirányítási programot,
 
 ## c) más hatóságoknak az eljáráshoz kapcsolódó engedélyeit, az azokat megalapozó dokumentációk bemutatását és összefoglaló értékelését,
 
@@ -1760,7 +1800,7 @@
 
 ## A feladat jellegéhez alkalmazkodva a hatósági döntés meghozatalához szükséges terjedelemben tartalmazza a létesítmény építményeinek, helyiségeinek, illetve épületszerkezeteinek sajátosságait figyelembe véve az építménybe telepítendő technológiákat.
 
-## 1.2.[^96] Építménygépészeti műszaki leírás:
+## 1.2.[^141] Építménygépészeti műszaki leírás:
 
 ## Az engedélyezési döntés meghozatalához szükséges terjedelemben tartalmazza – a vonatkozó általános előírások mellett – a biztonsági osztályba nem sorolt épületgépészeti rendszerek ismertetését.
 
@@ -1772,7 +1812,7 @@
 
 ## b) az elvégzett erőtani számítások alapján ismerteti az építmények tartószerkezetének rendszerét, az alkalmazott fesztávokat, a fő teherhordó elemek kialakítását, jellemző fő méreteit, a betervezett anyagok, gyártmányok minőségi és teljesítmény követelményeit, kitérve a megvalósíthatóságot biztosító technológiai leírásokra.
 
-## 1.4.[^97] Épületvillamossági műszaki leírás:
+## 1.4.[^142] Épületvillamossági műszaki leírás:
 
 ## Bemutatja az építmények villamosenergiával történő ellátását.
 
@@ -1784,7 +1824,7 @@
 
 ## Megnevezi az egyes helyiségek rendeltetését, kezelhetőségi és igénybevételi kategóriáit, sugárzási viszonyait, alapterületét és burkolatát.
 
-## 1.7.[^98] Az épületben lévő technológiai rendszerek felsorolása.
+## 1.7.[^143] Az épületben lévő technológiai rendszerek felsorolása.
 
 ## 1.8. Biztonsági és földrengés biztonsági osztályba sorolás és annak megalapozása.
 
@@ -1804,7 +1844,7 @@
 
 ## 2.6. Tereprendezési terv.
 
-## 2.7.[^99] Üzemelő nukleáris létesítmény esetén tartószerkezeti terv: bemutatja a tartószerkezeti elemek geometriai kialakítását, anyagát, jellemző méreteit és egymással való kapcsolatukat.
+## 2.7.[^144] Üzemelő nukleáris létesítmény esetén tartószerkezeti terv: bemutatja a tartószerkezeti elemek geometriai kialakítását, anyagát, jellemző méreteit és egymással való kapcsolatukat.
 
 ## 3. Számítás.
 
@@ -1816,7 +1856,7 @@
 
 ## 3.4. A biztonsági osztályba sorolt építmények esetén a tervezési alapnak való megfelelés és biztonsági funkció ellátási képesség megalapozása.
 
-## 4.[^100] Tervezés (engedélyezési és kiviteli tervek) minőségügyi terve.
+## 4.[^145] Tervezés (engedélyezési és kiviteli tervek) minőségügyi terve.
 
 ## 5. Igazolások.
 
@@ -1838,7 +1878,7 @@
 
 ## 7. Geodéziai felmérés.
 
-## 8.[^101] Ellenőrzött zónával rendelkező építményeknél sugárvédelmi ellenőrző számítás.
+## 8.[^146] Ellenőrzött zónával rendelkező építményeknél sugárvédelmi ellenőrző számítás.
 
 ## 9. Bontási engedélyezési dokumentáció.
 
@@ -1880,13 +1920,13 @@
 
 ## 1.5.2.0400. A nukleáris biztonsági hatóság az építési engedély iránti kérelem elbírálása során vizsgálja, hogy az építmény és az azzal összefüggő építési tevékenység megfelel-e a vonatkozó jogszabályokban és szabványokban meghatározott követelményeknek, továbbá
 
-## a) a tervezett építmény elhelyezése megfelel-e az épített környezet alakításáról és védelméről szóló törvényben előírtaknak, és
+## a)[^147] a tervezett építmény elhelyezése megfelel-e a magyar építészetről szóló törvényben előírtaknak, és
 
 ## b) az építmény helye szerinti telek kialakítása a helyi építési szabályzat, továbbá a vonatkozó jogszabályokban meghatározottak szerint megtörtént-e.
 
 ## 1.5.3. Építmények, építményszerkezetek használatbavételi engedélye
 
-## 1.5.3.0100.[^102] Ha a nukleáris biztonsági hatóság az 1.5.1.0500. pont szerint eltérően nem rendelkezik, az építményen, építményszerkezeten végzett építési, felújítási, helyreállítási, átalakítási és a rendeltetéstől eltérő használatához szükséges munkákat követően az építmény rendeltetésszerű és biztonságos használatra alkalmassá válásakor, a használatbavételt megelőzően használatbavételi engedélyt kell kérni a nukleáris biztonsági hatóságtól.
+## 1.5.3.0100.[^148] Ha a nukleáris biztonsági hatóság az 1.5.1.0500. pont szerint eltérően nem rendelkezik, az építményen, építményszerkezeten végzett építési, felújítási, helyreállítási, átalakítási és a rendeltetéstől eltérő használatához szükséges munkákat követően az építmény rendeltetésszerű és biztonságos használatra alkalmassá válásakor, a használatbavételt megelőzően használatbavételi engedélyt kell kérni a nukleáris biztonsági hatóságtól.
 
 ## 1.5.3.0200. Egy telephelyen egyidejűleg megvalósított több építményre, vagy egy építményen belül elvégzett többfajta építési munkára a használatbavételi engedélyt együttesen kell kérni. Több megvalósulási szakaszra bontott építkezés esetében az egyes szakaszokban megépített építményekre, továbbá a rendeltetésszerű és biztonságos használatra önmagukban alkalmas építményrészekre szakaszonként külön-külön is lehet használatbavételi engedélyt kérni.
 
@@ -1910,7 +1950,7 @@
 
 ## e) a Végleges Biztonsági Jelentésben leírtaknak a változása esetén a Végleges Biztonsági Jelentés éves aktualizálásánál bevezetni kívánt módosítástervezetét, amennyiben a nukleáris biztonsági hatóság másként nem rendelkezett.
 
-## f)[^103] – ha az igazolás nem az üzembe helyezési engedélyezés során történik – a technológiai épületekben épülő gépalapok, berendezéstartó pódiumok, és azok rögzítései statikai megfelelőségének igazolását.
+## f)[^149] – ha az igazolás nem az üzembe helyezési engedélyezés során történik – a technológiai épületekben épülő gépalapok, berendezéstartó pódiumok, és azok rögzítései statikai megfelelőségének igazolását.
 
 ## 1.5.3.0700. A használatbavételi engedély iránti kérelem, valamint a használatbavételi engedély időbeli hatályának meghosszabbítása iránti kérelem részletes tartalmára vonatkozó ajánlásokat útmutató tartalmazza.
 
@@ -2024,7 +2064,7 @@
 
 ## A tervezés hatósági ellenőrzése
 
-## 1.6.2.1500. A nukleáris létesítmény tervezése során a nukleáris biztonsági hatóság a 22. § (1) bekezdésében foglaltakon túl legalább az alábbiakat ellenőrzi:
+## 1.6.2.1500.[^150] A nukleáris létesítmény tervezése során a nukleáris biztonsági hatóság a 25. § (1) bekezdésében foglaltakon túl legalább az alábbiakat ellenőrzi:
 
 ## a) a tervezés minőségirányítási rendszerének működése, így különösen a generáltervező jogosítványainak és felelősségeinek szabályozása, a szaktervezők és beszállítók tervezési jogosítványainak és felelősségeinek szabályozása, a tervmódosítások végrehajtásának szabályozása, a tervezési szoftverek, kódok és modellek használatának szabályozása;
 
@@ -2040,7 +2080,7 @@
 
 ## A telephely értékelés hatósági ellenőrzése
 
-## 1.6.2.1600. A telephely-értékelés során a nukleáris biztonsági hatóság a 22. § (1) bekezdésében foglaltakon túl legalább az alábbiakat ellenőrzi:
+## 1.6.2.1600.[^151] A telephely-értékelés során a nukleáris biztonsági hatóság a 25. § (1) bekezdésében foglaltakon túl legalább az alábbiakat ellenőrzi:
 
 ## a) a telephely vizsgálat és értékelés során alkalmazott módszerek; és
 
@@ -2048,7 +2088,7 @@
 
 ## A létesítés hatósági ellenőrzése
 
-## 1.6.2.1700. A nukleáris létesítmény létesítése során a nukleáris biztonsági hatósága 22. § (1) bekezdésében foglaltakon túl legalább az alábbiakat ellenőrzi:
+## 1.6.2.1700.[^152] A nukleáris létesítmény létesítése során a nukleáris biztonsági hatósága 25. § (1) bekezdésében foglaltakon túl legalább az alábbiakat ellenőrzi:
 
 ## a) a biztonsági osztályba sorolt rendszerelemek gyártása, építése, szerelése, az üzembe helyezéséhez szükséges előkészítő tevékenységek, így különösen (tisztítási és mosatási munkák, aktív rendszerelem működési próbái), továbbá azoknak az inaktív funkciópróbáknak a végrehajtása, amelyek nukleáris anyagot nem tartalmazó fűtőelemekkel végrehajthatók;
 
@@ -2064,7 +2104,7 @@
 
 ## Az üzembe helyezés hatósági ellenőrzése
 
-## 1.6.2.1800. A nukleáris létesítmény üzembe helyezése során a nukleáris biztonsági hatóság a biztonság szerinti súlyozást alkalmazva a 22. § (1) bekezdésében foglaltakon túl legalább az alábbiakat ellenőrzi:
+## 1.6.2.1800.[^153] A nukleáris létesítmény üzembe helyezése során a nukleáris biztonsági hatóság a biztonság szerinti súlyozást alkalmazva a 25. § (1) bekezdésében foglaltakon túl legalább az alábbiakat ellenőrzi:
 
 ## a) a négyesbizottsági (tervező, beruházó, kivitelező és üzemeltető) bejárások eredményei,
 
@@ -2102,7 +2142,7 @@
 
 ## Az üzemeltetés hatósági ellenőrzése
 
-## 1.6.2.1900. A nukleáris létesítmény üzemeltetése során a nukleáris biztonsági hatóság a 22. § (1) bekezdésében foglaltakon túl legalább az alábbiakat ellenőrzi:
+## 1.6.2.1900.[^154] A nukleáris létesítmény üzemeltetése során a nukleáris biztonsági hatóság a 25. § (1) bekezdésében foglaltakon túl legalább az alábbiakat ellenőrzi:
 
 ## a) üzemeltetés,
 
@@ -2136,7 +2176,7 @@
 
 ## A megszüntetés hatósági ellenőrzése
 
-## 1.6.2.2000. A nukleáris létesítmény megszüntetése során a nukleáris biztonsági hatóság a 22. § (1) bekezdésében foglaltakon túl legalább az alábbiakat ellenőrzi:
+## 1.6.2.2000.[^155] A nukleáris létesítmény megszüntetése során a nukleáris biztonsági hatóság a 25. § (1) bekezdésében foglaltakon túl legalább az alábbiakat ellenőrzi:
 
 ## a) halasztott leszerelési stratégia választása esetén az állapot fenntartási és ellenőrzési feladatok végrehajtása,
 
@@ -2146,27 +2186,27 @@
 
 ## d) a radioaktív hulladékok végleges elhelyezésre történő előkészítése és felszabadítása.
 
-## 1.6.3.[^104] Az építésfelügyeleti ellenőrzés célja, kiemelt szempontjai és területei
+## 1.6.3.[^156] Az építésfelügyeleti ellenőrzés célja, kiemelt szempontjai és területei
 
-## 1.6.3.0100.[^105] A nukleáris biztonsági hatóság a hatáskörébe tartozó valamennyi építési tevékenység vonatkozásában az általános építésfelügyeleti szempontokat is figyelembe véve és érvényesítve végzi az építésfelügyeleti ellenőrzést.
+## 1.6.3.0100.[^157] A nukleáris biztonsági hatóság a hatáskörébe tartozó valamennyi építési tevékenység vonatkozásában az általános építésfelügyeleti szempontokat is figyelembe véve és érvényesítve végzi az építésfelügyeleti ellenőrzést.
 
-## 1.6.3.0200.[^106] Építésfelügyeleti ellenőrzés táv-adatszolgáltatás útján, távellenőrzés formájában – helyszíni ellenőrzés lefolytatása nélkül – az e-építési napló és az engedélyes által biztosított valamennyi táv-adatszolgáltatás alkalmazásával is megvalósulhat.
+## 1.6.3.0200.[^158] Építésfelügyeleti ellenőrzés táv-adatszolgáltatás útján, távellenőrzés formájában – helyszíni ellenőrzés lefolytatása nélkül – az e-építési napló és az engedélyes által biztosított valamennyi táv-adatszolgáltatás alkalmazásával is megvalósulhat.
 
-## 1.6.3.0300.[^107] Az 1.6.3.0100. pont szerint lefolytatott építésfelügyeleti ellenőrzést feljegyzéssel kell dokumentálni. Ha az építésfelügyeleti ellenőrzés eltérést állapít meg, azt a nukleáris biztonsági hatóság eseti bejegyzéssel rögzíti az e-építési napló főnaplójába.
+## 1.6.3.0300.[^159] Az 1.6.3.0100. pont szerint lefolytatott építésfelügyeleti ellenőrzést feljegyzéssel kell dokumentálni. Ha az építésfelügyeleti ellenőrzés eltérést állapít meg, azt a nukleáris biztonsági hatóság eseti bejegyzéssel rögzíti az e-építési napló főnaplójába.
 
-## 1.6.3.0400.[^108] Az adott építményre vonatkozó kivitelezési tevékenységek befejezése után a nukleáris biztonsági hatóság építésfelügyeleti ellenőrzést nem hajt végre.
+## 1.6.3.0400.[^160] Az adott építményre vonatkozó kivitelezési tevékenységek befejezése után a nukleáris biztonsági hatóság építésfelügyeleti ellenőrzést nem hajt végre.
 
 ## Az építés kivitelezésre vonatkozó felelősségek
 
-## 1.6.3.0500.[^109] Az építési tevékenységek végzése során az építés kivitelezési, e-építési napló vezetési és a szakmagyakorlókat érintő szabályok betartása, valamint betartatása az engedélyes felelőssége.
+## 1.6.3.0500.[^161] Az építési tevékenységek végzése során az építés kivitelezési, e-építési napló vezetési és a szakmagyakorlókat érintő szabályok betartása, valamint betartatása az engedélyes felelőssége.
 
 ## E-építési napló vezetésére vonatkozó különös szabályok
 
-## 1.6.3.0600.[^110] Az e-építési naplóban az adott engedélyezési, építés-szerelési tevékenységben szerepkörrel rendelkező valamennyi szakmagyakorlónak a nukleáris biztonsági hatóság szakmagyakorlói nyilvántartásában szereplő érvényes jogosultsággal kell rendelkeznie.
+## 1.6.3.0600.[^162] Az e-építési naplóban az adott engedélyezési, építés-szerelési tevékenységben szerepkörrel rendelkező valamennyi szakmagyakorlónak a nukleáris biztonsági hatóság szakmagyakorlói nyilvántartásában szereplő érvényes jogosultsággal kell rendelkeznie.
 
-## 1.6.3.0700.[^111] Az e-építési naplóhoz a kivitelezés helyszínén, vagy a kivitelezés helyszínén biztosított helyiségben online hozzáférést kell biztosítani.
+## 1.6.3.0700.[^163] Az e-építési naplóhoz a kivitelezés helyszínén, vagy a kivitelezés helyszínén biztosított helyiségben online hozzáférést kell biztosítani.
 
-## 1.6.3.0800.[^112] A beépített anyagokra vonatkozó, az építési termék építménybe történő betervezésének és beépítésének, ennek során a teljesítmény igazolásának részletes szabályairól szóló kormányrendelet szerinti teljesítmény nyilatkozatokat az OAH e-naplóba folyamatosan fel kell tölteni.
+## 1.6.3.0800.[^164] A beépített anyagokra vonatkozó, az építési termék építménybe történő betervezésének és beépítésének, ennek során a teljesítmény igazolásának részletes szabályairól szóló kormányrendelet szerinti teljesítmény nyilatkozatokat az OAH e-naplóba folyamatosan fel kell tölteni.
 
 ## 1.7. AZ ENGEDÉLYES JELENTÉSI KÖTELEZETTSÉGE
 
@@ -2558,9 +2598,9 @@
 
 ## 1.9.1.0100. Az e rendelet hatálya alá tartozó nyomástartó berendezésekre és csővezetékekre (az 1.9. pontban a továbbiakban együtt: nukleáris biztonsági hatósági felügyelet alá tartozó nyomástartó berendezések és csővezetékek) a Nukleáris Biztonsági Szabályzatokban az adott nukleáris létesítmény rendszerelemeire, rendszereire előírt általános engedélyezési és ellenőrzési, valamint műszaki követelményeket az ebben a pontban meghatározott eltérésekkel kell alkalmazni.
 
-## 1.9.1.0200.[^113]
+## 1.9.1.0200.[^165]
 
-## 1.9.1.0300.[^114] Nem tartozik a nukleáris biztonsági hatóság engedélyezési vagy bejelentés-tudomásulvételi eljárása alá a nukleáris biztonsági hatósági felügyelet alá tartozó nyomástartó berendezés és csővezeték, ha az:
+## 1.9.1.0300.[^166] Nem tartozik a nukleáris biztonsági hatóság engedélyezési vagy bejelentés-tudomásulvételi eljárása alá a nukleáris biztonsági hatósági felügyelet alá tartozó nyomástartó berendezés és csővezeték, ha az:
 
 ## a) 2. vagy 3. biztonsági osztályba sorolt, DN<50 mm-es csővezeték,
 
@@ -2568,9 +2608,9 @@
 
 ## c) 2. vagy 3. biztonsági osztályba sorolt, 100 dm3-nél kisebb térfogatú edény.
 
-## 1.9.1.0400.[^115] A nukleáris biztonsági hatóság engedélyezési vagy bejelentés-tudomásulvételi eljárása alá nem tartozó nyomástartó berendezések és csővezetékek gyártása vagy beszerzése megkezdése előtt a gyártásról, illetve a beszerzésről tájékoztatni kell a nukleáris biztonsági hatóságot. A tájékoztatáshoz mellékelni kell a gyártási vagy beszerzési tervdokumentáció engedélyes általi elfogadását igazoló iratot. E követelmény automatizált értesítésküldés mellett, táv-adatszolgáltatás útján is teljesíthető.
+## 1.9.1.0400.[^167] A nukleáris biztonsági hatóság engedélyezési vagy bejelentés-tudomásulvételi eljárása alá nem tartozó nyomástartó berendezések és csővezetékek gyártása vagy beszerzése megkezdése előtt a gyártásról, illetve a beszerzésről tájékoztatni kell a nukleáris biztonsági hatóságot. A tájékoztatáshoz mellékelni kell a gyártási vagy beszerzési tervdokumentáció engedélyes általi elfogadását igazoló iratot. E követelmény automatizált értesítésküldés mellett, táv-adatszolgáltatás útján is teljesíthető.
 
-## 1.9.1.0500.[^116]
+## 1.9.1.0500.[^168]
 
 ## 1.9.1.0600. A nukleáris biztonsági hatóság a nukleáris biztonsági hatósági engedélyezési eljárás alá nem tartozó nyomástartó berendezések és csővezetékek létesítésének, továbbá az e rendelet hatálya alá tartozó már üzemben levő összes nyomástartó berendezés és csővezeték üzemeltetésének körülményeit ellenőrizheti, és a szükséges biztonsági intézkedések betartására kötelezheti az engedélyest.
 
@@ -2582,15 +2622,15 @@
 
 ## 1.9.1.1000. Az ellenőrző szervezet erőforrásainak és kompetenciájának meglétét, az első, az időszakos és a soron kívüli vizsgálatok végrehajtását, valamint a gépkönyvek kezelését a nukleáris biztonsági hatóság ellenőrzi.
 
-## 1.9.1.1100.[^117] Az új nukleáris létesítmény nukleáris biztonsági hatósági felügyelet alá tartozó nyomástartó berendezéseinek és csővezetékeinek időszakos, valamint eseti vizsgálatát jogszabály alapján feljogosított független ellenőrző szervezetnek kell végeznie.
+## 1.9.1.1100.[^169] Az új nukleáris létesítmény nukleáris biztonsági hatósági felügyelet alá tartozó nyomástartó berendezéseinek és csővezetékeinek időszakos, valamint eseti vizsgálatát jogszabály alapján feljogosított független ellenőrző szervezetnek kell végeznie.
 
-## 1.9.1.1110.[^118] A nyomáspróbák végrehajtása során nyomáspróba regisztert kell alkalmazni.
+## 1.9.1.1110.[^170] A nyomáspróbák végrehajtása során nyomáspróba regisztert kell alkalmazni.
 
 ## 1.9.1.1200. A nukleáris biztonsági hatóság az atomerőműben üzemelő nukleáris biztonsági hatósági engedélyezési eljárás alá tartozó nyomástartó berendezések és csővezetékek időszakos vizsgálataiból kijelöli, és a főjavítás megkezdése előtt közli az engedélyessel, hogy az atomerőművi blokk főjavítása alatt mely beütemezett időszakos vizsgálatokat fogja ellenőrizni, az engedélyes a közlés alapján a végrehajtást megelőző munkanapon bejelenti a nukleáris biztonsági hatóságnak a vizsgálat elvégzésének időpontját.
 
 ## 1.9.1.1300. Üzemelő nukleáris létesítményben új nyomástartó berendezés és csővezeték létesítését átalakításnak kell tekinteni. Nukleáris biztonsági hatósági felügyelet alá tartozó nyomástartó berendezés engedélyezését az átalakításra vonatkozó szabályok szerint, az adott nukleáris létesítményre vonatkozó Nukleáris Biztonsági Szabályzatokban a nyomástartó berendezésekre és csővezetékekre megfogalmazott követelmények figyelembevétele mellett kell elvégezni.
 
-## 1.9.1.1400.[^119] Az 1.9.1.1300. pont szerinti nyomástartó berendezés és csővezeték létesítése esetén a tervező határozza meg a biztonsági osztályba sorolás figyelembevételével a gyártóművi ellenőrzés módját és terjedelmét, az időszakos ellenőrzési programot és annak ciklusidejét. Az időszakos vizsgálatokat és azok ciklusidejét a nukleáris biztonsági hatóság az átalakítási engedélyben, a 3. kategóriájú átalakítás esetén pedig a 19. § (2) bekezdése szerinti eljárásban hagyja jóvá.
+## 1.9.1.1400.[^171] Az 1.9.1.1300. pont szerinti nyomástartó berendezés és csővezeték létesítése esetén a tervező határozza meg a biztonsági osztályba sorolás figyelembevételével a gyártóművi ellenőrzés módját és terjedelmét, az időszakos ellenőrzési programot és annak ciklusidejét. Az időszakos vizsgálatokat és azok ciklusidejét a nukleáris biztonsági hatóság az átalakítási engedélyben, a 3. kategóriájú átalakítás esetén pedig a 19. § (2) bekezdése szerinti eljárásban hagyja jóvá.
 
 ## 1.9.1.1500. A nukleáris biztonsági hatóság hivatalból indított eljárás keretében megtilthatja új nyomástartó berendezés üzembevételét, amennyiben
 
@@ -2622,29 +2662,29 @@
 
 ## b) igazolt, hogy meghibásodása nem veszélyezteti a személyzetet, a lakosságot, a környezetet és az engedélyes elvégzi a többletinformációt nyújtó ellenőrzéseket és vizsgálatokat.
 
-## 1.9.1.2000.[^120] A kérelemről a nukleáris biztonsági hatóság a 19. § (2) bekezdése szerinti eljárásban hozza meg döntését.
+## 1.9.1.2000.[^172] A kérelemről a nukleáris biztonsági hatóság a 19. § (2) bekezdése szerinti eljárásban hozza meg döntését.
 
-## 1.9.1.2100. Nukleáris biztonsági hatósági engedélyezési eljárás alá tartozó nyomástartó berendezéseknél és csővezetékeknél műszakilag indokolt egyedi esetekben, azonos biztonsági követelmények betartása mellett kérelmezhető az időszakos vizsgálat előírt módszerének más ellenőrzési módszerrel történő helyettesítése. A kérelemről a nukleáris biztonsági hatóság a 18. § (2) bekezdése szerinti eljárásban hozza meg döntését.
+## 1.9.1.2100.[^173] Nukleáris biztonsági hatósági engedélyezési eljárás alá tartozó nyomástartó berendezéseknél és csővezetékeknél műszakilag indokolt egyedi esetekben, azonos biztonsági követelmények betartása mellett kérelmezhető az időszakos vizsgálat előírt módszerének más ellenőrzési módszerrel történő helyettesítése. A kérelemről a nukleáris biztonsági hatóság a 19. § (2) bekezdése szerinti eljárásban hozza meg döntését.
 
-## 1.10.[^121] A LÉTESÍTÉS SORÁN FELMERÜLŐ ELTÉRÉSEK KEZELÉSÉNEK NUKLEÁRIS BIZTONSÁGI FELÜGYELETE
+## 1.10.[^174] A LÉTESÍTÉS SORÁN FELMERÜLŐ ELTÉRÉSEK KEZELÉSÉNEK NUKLEÁRIS BIZTONSÁGI FELÜGYELETE
 
-## 1.10.0.[^122] Általános követelmények
+## 1.10.0.[^175] Általános követelmények
 
-## 1.10.0.0100.[^123] Az 1.10. pont előírásait a nukleáris létesítmény létesítési életciklus-szakaszában kell alkalmazni.
+## 1.10.0.0100.[^176] Az 1.10. pont előírásait a nukleáris létesítmény létesítési életciklus-szakaszában kell alkalmazni.
 
-## 1.10.0.0200.[^124] Az 1.10. pont előírásait az eltérések kezelésére alkalmazni kell, ha
+## 1.10.0.0200.[^177] Az 1.10. pont előírásait az eltérések kezelésére alkalmazni kell, ha
 
 ## a) engedélyköteles tevékenység esetén a nukleáris biztonsági hatóság engedélye véglegessé vált, vagy
 
 ## b) az 1.3. pont szerinti bejelentésköteles tevékenységek esetén a nukleáris biztonsági hatóság a bejelentésben foglaltakat tudomásul vette.
 
-## 1.10.1.[^125] Engedélyköteles tevékenységek során felmerülő eltérések kezelése
+## 1.10.1.[^178] Engedélyköteles tevékenységek során felmerülő eltérések kezelése
 
-## 1.10.1.0100.[^126] Ha az engedélyes a nukleáris biztonsági hatóság új nukleáris létesítmény megvalósításával összefüggésben kiadott engedélye véglegessé válását követően az engedélyben rögzítettektől vagy az engedélyt megalapozó dokumentációban foglaltaktól a 9.2.1.1300. pont szerint eltérést tervez, az engedélyes köteles az eltérést a nukleáris biztonsági hatóság számára bejelenteni. A bejelentés automatizált értesítéssel, táv-adatszolgáltatás útján is teljesíthető.
+## 1.10.1.0100.[^179] Ha az engedélyes a nukleáris biztonsági hatóság új nukleáris létesítmény megvalósításával összefüggésben kiadott engedélye véglegessé válását követően az engedélyben rögzítettektől vagy az engedélyt megalapozó dokumentációban foglaltaktól a 9.2.1.1300. pont szerint eltérést tervez, az engedélyes köteles az eltérést a nukleáris biztonsági hatóság számára bejelenteni. A bejelentés automatizált értesítéssel, táv-adatszolgáltatás útján is teljesíthető.
 
-## 1.10.1.0200.[^127] Az engedélyes a bejelentéssel együtt megküldi, vagy a nukleáris biztonsági hatóság számára elérhetővé teszi a 9.2.1.1300. pont szerinti előzetes biztonsági értékelést, valamint a 9.2.1.1400. pont – építmények esetén a 9.2.1.1410. pont – szerinti kategorizálás eredményét. A kategorizálást az engedélyesnek indokolnia kell.
+## 1.10.1.0200.[^180] Az engedélyes a bejelentéssel együtt megküldi, vagy a nukleáris biztonsági hatóság számára elérhetővé teszi a 9.2.1.1300. pont szerinti előzetes biztonsági értékelést, valamint a 9.2.1.1400. pont – építmények esetén a 9.2.1.1410. pont – szerinti kategorizálás eredményét. A kategorizálást az engedélyesnek indokolnia kell.
 
-## 1.10.1.0300.[^128] Az engedélyes az eltérést kategóriába sorolja, és
+## 1.10.1.0300.[^181] Az engedélyes az eltérést kategóriába sorolja, és
 
 ## a) rendszerek és rendszerelemek kapcsán a 9.2.1.1400. pont a) alpontja szerinti kategória esetén az engedély módosítására irányuló kérelmet nyújt be a nukleáris biztonsági hatósághoz;
 
@@ -2662,7 +2702,7 @@
 
 ## cb) építmények kapcsán a 9.2.1.1400. pont b) alpontja és a 9.2.1.1410. pont b) alpontja szerinti kategória-kombináció esetén.
 
-## 1.10.1.0400.[^129] Az engedélyes az 1.10.1.0300. pont a) és b) alpontja szerinti esetben az eredeti engedélykérelem tartalmi és formai szempontjait alkalmazva, a következők szerint összeállított dokumentációt nyújtja be a nukleáris biztonsági hatósághoz:
+## 1.10.1.0400.[^182] Az engedélyes az 1.10.1.0300. pont a) és b) alpontja szerinti esetben az eredeti engedélykérelem tartalmi és formai szempontjait alkalmazva, a következők szerint összeállított dokumentációt nyújtja be a nukleáris biztonsági hatósághoz:
 
 ## a) meghatározza az eltérő dokumentumok körét, és bemutatja a dokumentációtól való eltérés tartalmát, terjedelmét, az eltérést kiváltó okokat, az eltéréshez vezető körülményeket;
 
@@ -2670,25 +2710,25 @@
 
 ## c) az a) és b) alpont alapján módosítja az 1.10.1.0100. pont szerinti engedélykérelmet megalapozó, eltéréssel érintett dokumentumokat.
 
-## 1.10.1.0500.[^130]
+## 1.10.1.0500.[^183]
 
-## 1.10.1.0600.[^131]
+## 1.10.1.0600.[^184]
 
-## 1.10.1.0700.[^132]
+## 1.10.1.0700.[^185]
 
-## 1.10.1.0800.[^133]
+## 1.10.1.0800.[^186]
 
-## 1.10.2.[^134] Bejelentésköteles tevékenységek során felmerülő eltérések kezelése
+## 1.10.2.[^187] Bejelentésköteles tevékenységek során felmerülő eltérések kezelése
 
-## 1.10.2.0100.[^135] Az engedélyes az 1.3. pont alapján bejelentésköteles tevékenységek esetén
+## 1.10.2.0100.[^188] Az engedélyes az 1.3. pont alapján bejelentésköteles tevékenységek esetén
 
 ## a) az ellenőrzési terv változásáról bejelentést tesz, és ezzel egyidejűleg benyújtja a frissített ellenőrzési tervet a nukleáris biztonsági hatóság részére, és amennyiben a változással érintett bejelentésköteles tevékenységhez kapcsolódó egyéb dokumentumok is változnak, akkor megadja a megváltozott dokumentumok távoli elérését,
 
 ## b) amennyiben csak a változással érintett bejelentésköteles tevékenységhez kapcsolódó egyéb dokumentumok változnak, azokat azonosítható és visszakövethető módon dokumentálja, valamint az eltérésekről negyedévente – a negyedévet követő hónap utolsó napjáig – tájékoztatja a nukleáris biztonsági hatóságot.
 
-## 1.10.2.0200.[^136] A nukleáris biztonsági hatóság az 1.10.2.0100. pont a) alpontja szerinti eltérés bejelentést az eredeti bejelentésére vonatkozó szabályok szerint értékeli.
+## 1.10.2.0200.[^189] A nukleáris biztonsági hatóság az 1.10.2.0100. pont a) alpontja szerinti eltérés bejelentést az eredeti bejelentésére vonatkozó szabályok szerint értékeli.
 
-## 1.10.2.0300.[^137] A nukleáris biztonsági hatóság az 1.10.2.0100. pont a) alpontja szerinti bejelentés és az 1.10.2.0100. pont b) alpontja szerinti negyedévente esedékes tájékoztatás kapcsán
+## 1.10.2.0300.[^190] A nukleáris biztonsági hatóság az 1.10.2.0100. pont a) alpontja szerinti bejelentés és az 1.10.2.0100. pont b) alpontja szerinti negyedévente esedékes tájékoztatás kapcsán
 
 ## a) további információk benyújtására kötelezheti az engedélyest,
 
@@ -3090,118 +3130,160 @@ c) a szándékolatlan felhasználásuk megakadályozása érdekében visszautas�
 
 2.6.6.0200. A fejlesztésre irányuló terveknek tartalmazniuk kell a megfelelő erőforrások biztosítását is. A fejlesztő intézkedések végrehajtását egészen azok befejezéséig monitorozni kell, továbbá ellenőrizni kell az adott intézkedés hatásosságát is.
 
-[^23]: Az 1. melléklet 1.3.1.0400. pontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
-[^24]: Az 1. melléklet 1.3.2. pont címe a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^25]: Az 1. melléklet 1.3.2.0100. pont a) alpontja a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^26]: Az 1. melléklet 1.3.2.0100. pont b) alpontját a 2/2024. (IV. 8.) OAH rendelet 11. § 1. pontja hatályon kívül helyezte.
-[^27]: Az 1. melléklet 1.3.2.0100. pont c) alpontját a 2/2024. (IV. 8.) OAH rendelet 11. § 1. pontja hatályon kívül helyezte.
-[^28]: Az 1. melléklet 1.3.2.0100. pont d) alpontját a 2/2024. (IV. 8.) OAH rendelet 11. § 1. pontja hatályon kívül helyezte.
-[^29]: Az 1. melléklet 1.3.2.0100. pont e) alpontját a 2/2024. (IV. 8.) OAH rendelet 11. § 1. pontja hatályon kívül helyezte.
-[^30]: Az 1. melléklet 1.3.2.0110. pontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
-[^31]: Az 1. melléklet 1.3.2.0120. pontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
-[^32]: Az 1. melléklet 1.3.2.0130. pontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
-[^33]: Az 1. melléklet 1.3.2.0200. pontja és az azt megelőző „A gyártási engedély hatálya” szövegrész a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^34]: Az 1. melléklet 1.3.2.0300. pontja a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^35]: Az 1. melléklet 1.3.2.0400. pontja a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^36]: Az 1. melléklet 1.3.2.0400. pontját követő „A gyártási engedély iránti kérelem tartalmi követelményei” szövegrésze a 2/2024. (IV. 8.) OAH rendelet 10. § 10. pontja szerint módosított szöveg.
-[^37]: Az 1. melléklet 1.3.2.0500. pont nyitó szövegrésze a 2/2024. (IV. 8.) OAH rendelet 10. § 11. pontja szerint módosított szöveg.
-[^38]: Az 1. melléklet 1.3.2.0500. pont a) alpontját a 2/2024. (IV. 8.) OAH rendelet 11. § 2. pontja hatályon kívül helyezte.
-[^39]: Az 1. melléklet 1.3.2.0500. pont b) alpontja a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^40]: Az 1. melléklet 1.3.2.0500. pont c) alpontja a 2/2024. (IV. 8.) OAH rendelet 10. § 12. pontja szerint módosított szöveg.
-[^41]: Az 1. melléklet 1.3.2.0500. pont e) alpontját a 2/2024. (IV. 8.) OAH rendelet 11. § 2. pontja hatályon kívül helyezte.
-[^42]: Az 1. melléklet 1.3.2.0500. pont f) alpontját a 2/2024. (IV. 8.) OAH rendelet 11. § 2. pontja hatályon kívül helyezte.
-[^43]: Az 1. melléklet 1.3.2.0500. pont g) alpontját a 2/2024. (IV. 8.) OAH rendelet 11. § 2. pontja hatályon kívül helyezte.
-[^44]: Az 1. melléklet 1.3.2.0500. pont h) alpontját a 2/2024. (IV. 8.) OAH rendelet 11. § 2. pontja hatályon kívül helyezte.
-[^45]: Az 1. melléklet 1.3.2.0500. pont i) alpontját a 2/2024. (IV. 8.) OAH rendelet 11. § 2. pontja hatályon kívül helyezte.
-[^46]: Az 1. melléklet 1.3.2.0500. pont j) alpontja a 2/2024. (IV. 8.) OAH rendelet 10. § 13. pontja szerint módosított szöveg.
-[^47]: Az 1. melléklet 1.3.2.0500. pont k) alpontját a 2/2024. (IV. 8.) OAH rendelet 11. § 2. pontja hatályon kívül helyezte.
-[^48]: Az 1. melléklet 1.3.2.0500. pont l) alpontját a 2/2024. (IV. 8.) OAH rendelet 11. § 2. pontja hatályon kívül helyezte.
-[^49]: Az 1. melléklet 1.3.2.0500. pont m) alpontját a 2/2024. (IV. 8.) OAH rendelet 11. § 2. pontja hatályon kívül helyezte.
-[^50]: Az 1. melléklet 1.3.2.0500. pont n) alpontját a 2/2024. (IV. 8.) OAH rendelet 11. § 2. pontja hatályon kívül helyezte.
-[^51]: Az 1. melléklet 1.3.2.0500. pont o) alpontja a 2/2024. (IV. 8.) OAH rendelet 10. § 14. pontja szerint módosított szöveg.
-[^52]: Az 1. melléklet 1.3.2.0500. pont p) alpontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
-[^53]: Az 1. melléklet 1.3.2.0510. pontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
-[^54]: Az 1. melléklet 1.3.2.0600. pontja a 2/2024. (IV. 8.) OAH rendelet 10. § 15. pontja szerint módosított szöveg.
-[^55]: Az 1. melléklet 1.3.3. pont címe a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^56]: Az 1. melléklet 1.3.3.0100. pont a) alpontja a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^57]: Az 1. melléklet 1.3.3.0100. pont b) alpontját a 2/2024. (IV. 8.) OAH rendelet 11. § 3. pontja hatályon kívül helyezte.
-[^58]: Az 1. melléklet 1.3.3.0100. pont c) alpontját a 2/2024. (IV. 8.) OAH rendelet 11. § 3. pontja hatályon kívül helyezte.
-[^59]: Az 1. melléklet 1.3.3.0110. pontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
-[^60]: Az 1. melléklet 1.3.3.0120. pontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
-[^61]: Az 1. melléklet 1.3.3.0130. pontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
-[^62]: Az 1. melléklet 1.3.3.0200 pontja és az azt megelőző „A beszerzési engedély hatálya” szövegrész a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^63]: Az 1. melléklet 1.3.3.0300 pontja a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^64]: Az 1. melléklet 1.3.3.0400 pontja a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^65]: Az 1. melléklet 1.3.3.0400. pontját követő „A beszerzési engedély iránti kérelem tartalmi követelményei” szövegrésze a 2/2024. (IV. 8.) OAH rendelet 10. § 16. pontjával megállapított szöveg.
-[^66]: Az 1. melléklet 1.3.3.0500. pont nyitó szövegrésze a 2/2024. (IV. 8.) OAH rendelet 10. § 17. pontja szerint módosított szöveg.
-[^67]: Az 1. melléklet 1.3.3.0500. pont a) alpontját a 2/2024. (IV. 8.) OAH rendelet 11. § 4. pontja hatályon kívül helyezte.
-[^68]: Az 1. melléklet 1.3.3.0500. pont b) alpontja a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^69]: Az 1. melléklet 1.3.3.0500. pont d) alpontját a 2/2024. (IV. 8.) OAH rendelet 11. § 4. pontja hatályon kívül helyezte.
-[^70]: Az 1. melléklet 1.3.3.0500. pont e) alpontját a 2/2024. (IV. 8.) OAH rendelet 11. § 4. pontja hatályon kívül helyezte.
-[^71]: Az 1. melléklet 1.3.3.0500. pont f) alpontját a 2/2024. (IV. 8.) OAH rendelet 11. § 4. pontja hatályon kívül helyezte.
-[^72]: Az 1. melléklet 1.3.3.0500. pont g) alpontját a 2/2024. (IV. 8.) OAH rendelet 11. § 4. pontja hatályon kívül helyezte.
-[^73]: Az 1. melléklet 1.3.3.0500. pont i) alpontja a 2/2024. (IV. 8.) OAH rendelet 10. § 18. pontja szerint módosított szöveg.
-[^74]: Az 1. melléklet 1.3.3.0500. pont j) alpontját a 2/2024. (IV. 8.) OAH rendelet 11. § 4. pontja hatályon kívül helyezte.
-[^75]: Az 1. melléklet 1.3.3.0500. pont k) alpontját a 2/2024. (IV. 8.) OAH rendelet 11. § 4. pontja hatályon kívül helyezte.
-[^76]: Az 1. melléklet 1.3.3.0500. pont l) alpontját a 2/2024. (IV. 8.) OAH rendelet 11. § 4. pontja hatályon kívül helyezte.
-[^77]: Az 1. melléklet 1.3.3.0500. pont m) alpontját a 2/2024. (IV. 8.) OAH rendelet 11. § 4. pontja hatályon kívül helyezte.
-[^78]: Az 1. melléklet 1.3.3.0500. pont n) alpontja a 2/2024. (IV. 8.) OAH rendelet 10. § 19. pontja szerint módosított szöveg.
-[^79]: Az 1. melléklet 1.3.3.0500. pont o) alpontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
-[^80]: Az 1. melléklete az 1.3.3.0510. pontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
-[^81]: Az 1. melléklet 1.3.3.0600. pontja a 2/2024. (IV. 8.) OAH rendelet 10. § 20. pontja szerint módosított szöveg.
-[^82]: Az 1. melléklet 1.3.4.0100. pont a) alpontja a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^83]: Az 1. melléklet 1.3.5.0100. pontja a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^84]: Az 1. melléklet 1.3.5.0200. pontja a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^85]: Az 1. melléklet 1.3.5.0400. pont e) alpontja a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^86]: Az 1. melléklet 1.5.1.0200. pont nyitó szövegrésze a 2/2024. (IV. 8.) OAH rendelet 10. § 21. pontja szerint módosított szöveg.
-[^87]: Az 1. melléklet 1.5.1.0300. pont nyitó szövegrésze a 2/2024. (IV. 8.) OAH rendelet 10. § 22. pontja szerint módosított szöveg.
-[^88]: Az 1. melléklet 1.5.1.0300. pont g) alpontja a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^89]: Az 1. melléklet 1.5.1.0350. pont b) alpont bi) pontja a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
-[^90]: Az 1. melléklet 1.5.1.0380. pontja a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^91]: Az 1. melléklete az 1.5.1.0381. pontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
-[^92]: Az 1. melléklet 1.5.1.1500. pont 2. alpont 2.24. pontja a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^93]: Az 1. melléklet 1.5.1/B. pontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
-[^94]: Az 1. melléklet 1.5.1.1520. pontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
-[^95]: Az 1. melléklet 1.5.2.0200. pont b) alpontja a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^96]: Az 1. melléklet 1.5.2.0210. pont 1. alpont 1.2. pontja a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^97]: Az 1. melléklet 1.5.2.0210. pont 1. alpont 1.4. pontja a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^98]: Az 1. melléklet 1.5.2.0210. pont 1. alpont 1.7. pontja a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^99]: Az 1. melléklet 1.5.2.0210. pont 2. alpont 2.7. pontja a 2/2024. (IV. 8.) OAH rendelet 10. § 23. pontja szerint módosított szöveg.
-[^100]: Az 1. melléklet 1.5.2.0210. pont 4. alpontja a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^101]: Az 1. melléklet 1.5.2.0210. pont 8. alpontja a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^102]: Az 1. melléklet 1.5.3.0100. pontja a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^103]: Az 1. melléklet 1.5.3.0600. pont f) alpontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
-[^104]: Az 1. melléklet 1.6.3. pontot a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
-[^105]: Az 1. melléklet 1.6.3.0100 pontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
-[^106]: Az 1. melléklet 1.6.3.0100 pontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
-[^107]: Az 1. melléklet 1.6.3.0200 pontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
-[^108]: Az 1. melléklet 1.6.3.0300 pontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
-[^109]: Az 1. melléklet 1.6.3.0400 pontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
-[^110]: Az 1. melléklet 1.6.3.0500 pontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
-[^111]: Az 1. melléklet 1.6.3.0600 pontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
-[^112]: Az 1. melléklet 1.6.3.0700 pontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
-[^113]: Az 1. melléklet 1.9.1.0200. pontját a 2/2024. (IV. 8.) OAH rendelet 11. § 5. pontja hatályon kívül helyezte.
-[^114]: Az 1. melléklet 1.9.1.0300. pontja a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^115]: Az 1. melléklet 1.9.1.0400. pontja a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^116]: Az 1. melléklet 1.9.1.0500. pontját a 2/2024. (IV. 8.) OAH rendelet 11. § 6. pontja hatályon kívül helyezte.
-[^117]: Az 1. melléklet 1.9.1.1100. pontja a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^118]: Az 1. melléklet 1.9.1.1110. pontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
-[^119]: Az 1. melléklet 1.9.1.1400. pontja a 2/2024. (IV. 8.) OAH rendelet 10. § 24. pontja szerint módosított szöveg.
-[^120]: Az 1. melléklet 1.9.1.2000. pontja a 2/2024. (IV. 8.) OAH rendelet 10. § 24. pontja szerint módosított szöveg.
-[^121]: Az 1. melléklet .1.10. pont címe a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^122]: Az 1. melléklet 1.10.0. pontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
-[^123]: Az 1. melléklete 1.10.0.0100. pontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
-[^124]: Az 1. melléklete 1.10.0.0200. pontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
-[^125]: Az 1. melléklet 1.10.1. pontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
-[^126]: Az 1. melléklet 1.10.1.0100. pontja a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^127]: Az 1. melléklet 1.10.1.0200. pontja a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^128]: Az 1. melléklet 1.10.1.0300. pontja a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^129]: Az 1. melléklet 1.10.1.0400. pontja a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^130]: Az 1. melléklet 1.10.1.0500. pontját a 2/2024. (IV. 8.) OAH rendelet 11. § 6. pontja hatályon kívül helyezte.
-[^131]: Az 1. melléklet 1.10.1.0600. pontját a 2/2024. (IV. 8.) OAH rendelet 11. § 6. pontja hatályon kívül helyezte.
-[^132]: Az 1. melléklet 1.10.1.0700. pontját a 2/2024. (IV. 8.) OAH rendelet 11. § 6. pontja hatályon kívül helyezte.
-[^133]: Az 1. melléklet 1.10.1.0800. pontját a 2/2024. (IV. 8.) OAH rendelet 11. § 6. pontja hatályon kívül helyezte.
-[^134]: Az 1. melléklet 1.10.2. pontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
-[^135]: Az 1. melléklet 1.10.2.0100. pontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
-[^136]: Az 1. melléklet 1.10.2.0200. pontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
-[^137]: Az 1. melléklet 1.10.2.0300. pontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
+[^34]: Az 1. melléklet 1.2.1.0400. pontja az 1/2025. (III. 19.) OAH rendelet 6. § 5. pontja szerint módosított szöveg.
+[^35]: Az 1. melléklet 1.2.5.0200. pontja az 1/2025. (III. 19.) OAH rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^36]: Az 1. melléklet 1.2.6. pont címe az 1/2025. (III. 19.) OAH rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^37]: Az 1. melléklet 1.2.6.0200. pontja az 1/2025. (III. 19.) OAH rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^38]: Az 1. melléklet 1.2.6.0300. pontja az 1/2025. (III. 19.) OAH rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^39]: Az 1. melléklet 1.2.6.0400. pontja az 1/2025. (III. 19.) OAH rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^40]: Az 1. melléklet 1.2.6.0500. pontja az 1/2025. (III. 19.) OAH rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^41]: Az 1. melléklet 1.2.6.0600. pontja az 1/2025. (III. 19.) OAH rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^42]: Az 1. melléklet 1.2.6.0700. pontja az 1/2025. (III. 19.) OAH rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^43]: Az 1. melléklet 1.2.6.0800. pontja az 1/2025. (III. 19.) OAH rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^44]: Az 1. melléklet 1.2.6.0900. pontja az 1/2025. (III. 19.) OAH rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^45]: Az 1. melléklet 1.2.6.1000. pontja az 1/2025. (III. 19.) OAH rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^46]: Az 1. melléklet 1.2.6.1100. pontja az 1/2025. (III. 19.) OAH rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^47]: Az 1. melléklet 1.2.6.1200. pontja az 1/2025. (III. 19.) OAH rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^48]: Az 1. melléklet 1.2.6.1300. pontja az 1/2025. (III. 19.) OAH rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^49]: Az 1. melléklet 1.2.6.1400. pont b) alpontja az 1/2025. (III. 19.) OAH rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^50]: Az 1. melléklet 1.2.6.1400. pont h) alpontja az 1/2025. (III. 19.) OAH rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^51]: Az 1. melléklet 1.2.6.1400. pont i) alpontja az 1/2025. (III. 19.) OAH rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^52]: Az 1. melléklet 1.2.6.1400. pont j) alpontját az 1/2025. (III. 19.) OAH rendelet 5. § (1) bekezdése iktatta be.
+[^53]: Az 1. melléklet 1.2.6.1400. pont k) alpontját az 1/2025. (III. 19.) OAH rendelet 5. § (1) bekezdése iktatta be.
+[^54]: Az 1. melléklet 1.2.6.1600. pontja az 1/2025. (III. 19.) OAH rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^55]: Az 1. melléklet 1.2.7.0100. pontja az 1/2025. (III. 19.) OAH rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^56]: Az 1. melléklet 1.2.7.0300. pontja az 1/2025. (III. 19.) OAH rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^57]: Az 1. melléklet 1.2.7.0500. pont a) alpontja az 1/2025. (III. 19.) OAH rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^58]: Az 1. melléklet 1.3.1.0400. pontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
+[^59]: Az 1. melléklet 1.3.2. pont címe a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^60]: Az 1. melléklet 1.3.2.0100. pont a) alpontja a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^61]: Az 1. melléklet 1.3.2.0100. pont b) alpontját a 2/2024. (IV. 8.) OAH rendelet 11. § 1. pontja hatályon kívül helyezte.
+[^62]: Az 1. melléklet 1.3.2.0100. pont c) alpontját a 2/2024. (IV. 8.) OAH rendelet 11. § 1. pontja hatályon kívül helyezte.
+[^63]: Az 1. melléklet 1.3.2.0100. pont d) alpontját a 2/2024. (IV. 8.) OAH rendelet 11. § 1. pontja hatályon kívül helyezte.
+[^64]: Az 1. melléklet 1.3.2.0100. pont e) alpontját a 2/2024. (IV. 8.) OAH rendelet 11. § 1. pontja hatályon kívül helyezte.
+[^65]: Az 1. melléklet 1.3.2.0110. pontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
+[^66]: Az 1. melléklet 1.3.2.0120. pontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
+[^67]: Az 1. melléklet 1.3.2.0130. pontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
+[^68]: Az 1. melléklet 1.3.2.0200. pontja és az azt megelőző „A gyártási engedély hatálya” szövegrész a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^69]: Az 1. melléklet 1.3.2.0300. pontja a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^70]: Az 1. melléklet 1.3.2.0400. pontja a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^71]: Az 1. melléklet 1.3.2.0400. pontját követő „A gyártási engedély iránti kérelem tartalmi követelményei” szövegrésze a 2/2024. (IV. 8.) OAH rendelet 10. § 10. pontja szerint módosított szöveg.
+[^72]: Az 1. melléklet 1.3.2.0500. pont nyitó szövegrésze a 2/2024. (IV. 8.) OAH rendelet 10. § 11. pontja szerint módosított szöveg.
+[^73]: Az 1. melléklet 1.3.2.0500. pont a) alpontját a 2/2024. (IV. 8.) OAH rendelet 11. § 2. pontja hatályon kívül helyezte.
+[^74]: Az 1. melléklet 1.3.2.0500. pont b) alpontja a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^75]: Az 1. melléklet 1.3.2.0500. pont c) alpontja a 2/2024. (IV. 8.) OAH rendelet 10. § 12. pontja szerint módosított szöveg.
+[^76]: Az 1. melléklet 1.3.2.0500. pont e) alpontját a 2/2024. (IV. 8.) OAH rendelet 11. § 2. pontja hatályon kívül helyezte.
+[^77]: Az 1. melléklet 1.3.2.0500. pont f) alpontját a 2/2024. (IV. 8.) OAH rendelet 11. § 2. pontja hatályon kívül helyezte.
+[^78]: Az 1. melléklet 1.3.2.0500. pont g) alpontját a 2/2024. (IV. 8.) OAH rendelet 11. § 2. pontja hatályon kívül helyezte.
+[^79]: Az 1. melléklet 1.3.2.0500. pont h) alpontját a 2/2024. (IV. 8.) OAH rendelet 11. § 2. pontja hatályon kívül helyezte.
+[^80]: Az 1. melléklet 1.3.2.0500. pont i) alpontját a 2/2024. (IV. 8.) OAH rendelet 11. § 2. pontja hatályon kívül helyezte.
+[^81]: Az 1. melléklet 1.3.2.0500. pont j) alpontja a 2/2024. (IV. 8.) OAH rendelet 10. § 13. pontja szerint módosított szöveg.
+[^82]: Az 1. melléklet 1.3.2.0500. pont k) alpontját a 2/2024. (IV. 8.) OAH rendelet 11. § 2. pontja hatályon kívül helyezte.
+[^83]: Az 1. melléklet 1.3.2.0500. pont l) alpontját a 2/2024. (IV. 8.) OAH rendelet 11. § 2. pontja hatályon kívül helyezte.
+[^84]: Az 1. melléklet 1.3.2.0500. pont m) alpontját a 2/2024. (IV. 8.) OAH rendelet 11. § 2. pontja hatályon kívül helyezte.
+[^85]: Az 1. melléklet 1.3.2.0500. pont n) alpontját a 2/2024. (IV. 8.) OAH rendelet 11. § 2. pontja hatályon kívül helyezte.
+[^86]: Az 1. melléklet 1.3.2.0500. pont o) alpontja a 2/2024. (IV. 8.) OAH rendelet 10. § 14. pontja szerint módosított szöveg.
+[^87]: Az 1. melléklet 1.3.2.0500. pont p) alpontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
+[^88]: Az 1. melléklet 1.3.2.0510. pontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
+[^89]: Az 1. melléklet 1.3.2.0600. pontja a 2/2024. (IV. 8.) OAH rendelet 10. § 15. pontja szerint módosított szöveg.
+[^90]: Az 1. melléklet 1.3.3. pont címe a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^91]: Az 1. melléklet 1.3.3.0100. pont a) alpontja a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^92]: Az 1. melléklet 1.3.3.0100. pont b) alpontját a 2/2024. (IV. 8.) OAH rendelet 11. § 3. pontja hatályon kívül helyezte.
+[^93]: Az 1. melléklet 1.3.3.0100. pont c) alpontját a 2/2024. (IV. 8.) OAH rendelet 11. § 3. pontja hatályon kívül helyezte.
+[^94]: Az 1. melléklet 1.3.3.0110. pontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
+[^95]: Az 1. melléklet 1.3.3.0120. pontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
+[^96]: Az 1. melléklet 1.3.3.0130. pontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
+[^97]: Az 1. melléklet 1.3.3.0200 pontja és az azt megelőző „A beszerzési engedély hatálya” szövegrész a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^98]: Az 1. melléklet 1.3.3.0300 pontja a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^99]: Az 1. melléklet 1.3.3.0400 pontja a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^100]: Az 1. melléklet 1.3.3.0400. pontját követő „A beszerzési engedély iránti kérelem tartalmi követelményei” szövegrésze a 2/2024. (IV. 8.) OAH rendelet 10. § 16. pontjával megállapított szöveg.
+[^101]: Az 1. melléklet 1.3.3.0500. pont nyitó szövegrésze a 2/2024. (IV. 8.) OAH rendelet 10. § 17. pontja szerint módosított szöveg.
+[^102]: Az 1. melléklet 1.3.3.0500. pont a) alpontját a 2/2024. (IV. 8.) OAH rendelet 11. § 4. pontja hatályon kívül helyezte.
+[^103]: Az 1. melléklet 1.3.3.0500. pont b) alpontja a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^104]: Az 1. melléklet 1.3.3.0500. pont d) alpontját a 2/2024. (IV. 8.) OAH rendelet 11. § 4. pontja hatályon kívül helyezte.
+[^105]: Az 1. melléklet 1.3.3.0500. pont e) alpontját a 2/2024. (IV. 8.) OAH rendelet 11. § 4. pontja hatályon kívül helyezte.
+[^106]: Az 1. melléklet 1.3.3.0500. pont f) alpontját a 2/2024. (IV. 8.) OAH rendelet 11. § 4. pontja hatályon kívül helyezte.
+[^107]: Az 1. melléklet 1.3.3.0500. pont g) alpontját a 2/2024. (IV. 8.) OAH rendelet 11. § 4. pontja hatályon kívül helyezte.
+[^108]: Az 1. melléklet 1.3.3.0500. pont i) alpontja a 2/2024. (IV. 8.) OAH rendelet 10. § 18. pontja szerint módosított szöveg.
+[^109]: Az 1. melléklet 1.3.3.0500. pont j) alpontját a 2/2024. (IV. 8.) OAH rendelet 11. § 4. pontja hatályon kívül helyezte.
+[^110]: Az 1. melléklet 1.3.3.0500. pont k) alpontját a 2/2024. (IV. 8.) OAH rendelet 11. § 4. pontja hatályon kívül helyezte.
+[^111]: Az 1. melléklet 1.3.3.0500. pont l) alpontját a 2/2024. (IV. 8.) OAH rendelet 11. § 4. pontja hatályon kívül helyezte.
+[^112]: Az 1. melléklet 1.3.3.0500. pont m) alpontját a 2/2024. (IV. 8.) OAH rendelet 11. § 4. pontja hatályon kívül helyezte.
+[^113]: Az 1. melléklet 1.3.3.0500. pont n) alpontja a 2/2024. (IV. 8.) OAH rendelet 10. § 19. pontja szerint módosított szöveg.
+[^114]: Az 1. melléklet 1.3.3.0500. pont o) alpontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
+[^115]: Az 1. melléklete az 1.3.3.0510. pontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
+[^116]: Az 1. melléklet 1.3.3.0600. pontja a 2/2024. (IV. 8.) OAH rendelet 10. § 20. pontja szerint módosított szöveg.
+[^117]: Az 1. melléklet 1.3.4.0100. pont a) alpontja a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^118]: Az 1. melléklet 1.3.5.0100. pontja a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^119]: Az 1. melléklet 1.3.5.0200. pontja a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^120]: Az 1. melléklet 1.3.5.0400. pont e) alpontja a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^121]: Az 1. melléklet 1.4.1.0800. pontja az 1/2025. (III. 19.) OAH rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^122]: Az 1. melléklet 1.4.1.1710. pontja az 1/2025. (III. 19.) OAH rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^123]: Az 1. melléklet 1.4.2. pontját az 1/2025. (III. 19.) OAH rendelet 5. § (1) bekezdése iktatta be.
+[^124]: Az 1. melléklet 1.4.2.0100. pontját az 1/2025. (III. 19.) OAH rendelet 5. § (1) bekezdése iktatta be.
+[^125]: Az 1. melléklet 1.4.2.0200. pontját az 1/2025. (III. 19.) OAH rendelet 5. § (1) bekezdése iktatta be.
+[^126]: Az 1. melléklet 1.4.2.0300. pontját az 1/2025. (III. 19.) OAH rendelet 5. § (1) bekezdése iktatta be.
+[^127]: Az 1. melléklet 1.4.2.0400. pontját az 1/2025. (III. 19.) OAH rendelet 5. § (1) bekezdése iktatta be.
+[^128]: Az 1. melléklet 1.4.2.0500. pontját az 1/2025. (III. 19.) OAH rendelet 5. § (1) bekezdése iktatta be.
+[^129]: Az 1. melléklet 1.5.1.0200. pont nyitó szövegrésze a 2/2024. (IV. 8.) OAH rendelet 10. § 21. pontja szerint módosított szöveg.
+[^130]: Az 1. melléklet 1.5.1.0290. pontja az 1/2025. (III. 19.) OAH rendelet 7. § b) pontja szerint módosított szöveg.
+[^131]: Az 1. melléklet 1.5.1.0300. pont nyitó szövegrésze a 2/2024. (IV. 8.) OAH rendelet 10. § 22. pontja szerint módosított szöveg.
+[^132]: Az 1. melléklet 1.5.1.0300. pont g) alpontja a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^133]: Az 1. melléklet 1.5.1.0350. pont b) alpont bi) pontja a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
+[^134]: Az 1. melléklet 1.5.1.0380. pontja a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított, nyitó szövegrésze az 1/2025. (III. 19.) OAH rendelet 6. § 6. pontja szerint módosított szöveg.
+[^135]: Az 1. melléklete az 1.5.1.0381. pontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
+[^136]: Az 1. melléklet 1.5.1.0900. pontja az 1/2025. (III. 19.) OAH rendelet 6. § 6. pontja szerint módosított szöveg.
+[^137]: Az 1. melléklet 1.5.1.1500. pont 2. alpont 2.24. pontja a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^138]: Az 1. melléklet 1.5.1/B. pontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
+[^139]: Az 1. melléklet 1.5.1.1520. pontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
+[^140]: Az 1. melléklet 1.5.2.0200. pont b) alpontja a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^141]: Az 1. melléklet 1.5.2.0210. pont 1. alpont 1.2. pontja a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^142]: Az 1. melléklet 1.5.2.0210. pont 1. alpont 1.4. pontja a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^143]: Az 1. melléklet 1.5.2.0210. pont 1. alpont 1.7. pontja a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^144]: Az 1. melléklet 1.5.2.0210. pont 2. alpont 2.7. pontja a 2/2024. (IV. 8.) OAH rendelet 10. § 23. pontja szerint módosított szöveg.
+[^145]: Az 1. melléklet 1.5.2.0210. pont 4. alpontja a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^146]: Az 1. melléklet 1.5.2.0210. pont 8. alpontja a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^147]: Az 1. melléklet 1.5.2.0400. pontja a) alpontja az 1/2025. (III. 19.) OAH rendelet 6. § 7. pontja szerint módosított szöveg.
+[^148]: Az 1. melléklet 1.5.3.0100. pontja a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^149]: Az 1. melléklet 1.5.3.0600. pont f) alpontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
+[^150]: Az 1. melléklet 1.6.2.1500. pont nyitó szövegrésze az 1/2025. (III. 19.) OAH rendelet 6. § 8. pontja szerint módosított szöveg.
+[^151]: Az 1. melléklet 1.6.2.1600. pont nyitó szövegrésze az 1/2025. (III. 19.) OAH rendelet 6. § 8. pontja szerint módosított szöveg.
+[^152]: Az 1. melléklet 1.6.2.1700. pont nyitó szövegrésze az 1/2025. (III. 19.) OAH rendelet 6. § 8. pontja szerint módosított szöveg.
+[^153]: Az 1. melléklet 1.6.2.1800. pont nyitó szövegrésze az 1/2025. (III. 19.) OAH rendelet 6. § 8. pontja szerint módosított szöveg.
+[^154]: Az 1. melléklet 1.6.2.1900. pont nyitó szövegrésze az 1/2025. (III. 19.) OAH rendelet 6. § 8. pontja szerint módosított szöveg.
+[^155]: Az 1. melléklet 1.6.2.2000. pont nyitó szövegrésze az 1/2025. (III. 19.) OAH rendelet 6. § 8. pontja szerint módosított szöveg.
+[^156]: Az 1. melléklet 1.6.3. pontot a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
+[^157]: Az 1. melléklet 1.6.3.0100 pontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
+[^158]: Az 1. melléklet 1.6.3.0100 pontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
+[^159]: Az 1. melléklet 1.6.3.0200 pontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
+[^160]: Az 1. melléklet 1.6.3.0300 pontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
+[^161]: Az 1. melléklet 1.6.3.0400 pontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
+[^162]: Az 1. melléklet 1.6.3.0500 pontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
+[^163]: Az 1. melléklet 1.6.3.0600 pontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
+[^164]: Az 1. melléklet 1.6.3.0700 pontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
+[^165]: Az 1. melléklet 1.9.1.0200. pontját a 2/2024. (IV. 8.) OAH rendelet 11. § 5. pontja hatályon kívül helyezte.
+[^166]: Az 1. melléklet 1.9.1.0300. pontja a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^167]: Az 1. melléklet 1.9.1.0400. pontja a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^168]: Az 1. melléklet 1.9.1.0500. pontját a 2/2024. (IV. 8.) OAH rendelet 11. § 6. pontja hatályon kívül helyezte.
+[^169]: Az 1. melléklet 1.9.1.1100. pontja a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^170]: Az 1. melléklet 1.9.1.1110. pontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
+[^171]: Az 1. melléklet 1.9.1.1400. pontja a 2/2024. (IV. 8.) OAH rendelet 10. § 24. pontja szerint módosított szöveg.
+[^172]: Az 1. melléklet 1.9.1.2000. pontja a 2/2024. (IV. 8.) OAH rendelet 10. § 24. pontja szerint módosított szöveg.
+[^173]: Az 1. melléklet 1.9.1.2100. pontja az 1/2025. (III. 19.) OAH rendelet 6. § 9. pontja szerint módosított szöveg.
+[^174]: Az 1. melléklet .1.10. pont címe a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^175]: Az 1. melléklet 1.10.0. pontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
+[^176]: Az 1. melléklete 1.10.0.0100. pontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
+[^177]: Az 1. melléklete 1.10.0.0200. pontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
+[^178]: Az 1. melléklet 1.10.1. pontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
+[^179]: Az 1. melléklet 1.10.1.0100. pontja a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^180]: Az 1. melléklet 1.10.1.0200. pontja a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^181]: Az 1. melléklet 1.10.1.0300. pontja a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^182]: Az 1. melléklet 1.10.1.0400. pontja a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^183]: Az 1. melléklet 1.10.1.0500. pontját a 2/2024. (IV. 8.) OAH rendelet 11. § 6. pontja hatályon kívül helyezte.
+[^184]: Az 1. melléklet 1.10.1.0600. pontját a 2/2024. (IV. 8.) OAH rendelet 11. § 6. pontja hatályon kívül helyezte.
+[^185]: Az 1. melléklet 1.10.1.0700. pontját a 2/2024. (IV. 8.) OAH rendelet 11. § 6. pontja hatályon kívül helyezte.
+[^186]: Az 1. melléklet 1.10.1.0800. pontját a 2/2024. (IV. 8.) OAH rendelet 11. § 6. pontja hatályon kívül helyezte.
+[^187]: Az 1. melléklet 1.10.2. pontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
+[^188]: Az 1. melléklet 1.10.2.0100. pontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
+[^189]: Az 1. melléklet 1.10.2.0200. pontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.
+[^190]: Az 1. melléklet 1.10.2.0300. pontját a 2/2024. (IV. 8.) OAH rendelet 9. § (1) bekezdése iktatta be.

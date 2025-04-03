@@ -4,7 +4,7 @@
 
 ## 1. A rendelet hatálya
 
-1. § (1)[^1] E rendelet hatálya az atomenergiáról szóló 1996. évi CXVI. törvény (a továbbiakban: Atv.) 17. § (2) bekezdés 1–11., 40–41. és 45. pontjaiban meghatározottak szerint Magyarország területén létesíteni kívánt, valamint a már üzemelő nukleáris létesítményekre, azok rendszereire és rendszerelemeire, a nukleáris létesítménnyel kapcsolatos tevékenységekre és az e tevékenységet végzőkre – beleértve a sugárvédelmet, a nukleáris létesítményeken belüli radioaktív anyag szállítást és a radioaktív hulladékok átmeneti tárolását biztosító rendszereket, rendszerelemeket, a nukleáris létesítmény biztonsági osztályba sorolt nyomástartó berendezéseit és csővezetékeit, továbbá a tűzvédelmet, ha azok a nukleáris biztonságra hatást gyakorolnak, kizárólag ezen hatásuk szempontjából – terjed ki, így
+1. § (1)[^1] E rendelet hatálya az atomenergiáról szóló 1996. évi CXVI. törvény (a továbbiakban: Atv.) 17. § (2) bekezdés 1–11., 40–41., 45. és 47–48. pontjaiban meghatározottak szerint Magyarország területén létesíteni kívánt, valamint a már üzemelő nukleáris létesítményekre, azok rendszereire és rendszerelemeire, a nukleáris létesítménnyel kapcsolatos tevékenységekre és az e tevékenységet végzőkre – beleértve a sugárvédelmet, a nukleáris létesítményeken belüli radioaktív anyag szállítást és a radioaktív hulladékok átmeneti tárolását biztosító rendszereket, rendszerelemeket, a nukleáris létesítmény biztonsági osztályba sorolt nyomástartó berendezéseit és csővezetékeit, továbbá a tűzvédelmet, ha azok a nukleáris biztonságra hatást gyakorolnak, kizárólag ezen hatásuk szempontjából – terjed ki, így
 
 a) a nukleáris létesítmény
 
@@ -82,5 +82,5 @@ b) kutatóreaktor, oktatóreaktor és nukleáris üzemanyagot vizsgáló laborat
 
 c) a b) pontban meghatározott nukleáris létesítmények kivételével a nukleáris létesítmény tervezett telephelyének határától számított ötszáz méteres távolságon belüli vagy azzal érintett ingatlan.
 
-[^1]: Az 1. § (1) bekezdés nyitó szövegrésze a 2/2024. (IV. 8.) OAH rendelet 10. § 1. pontja szerint módosított szöveg.
+[^1]: Az 1. § (1) bekezdés nyitó szövegrésze a 2/2024. (IV. 8.) OAH rendelet 10. § 1. pontja, az 1/2025. (III. 19.) OAH rendelet 6. § 1. pontja szerint módosított szöveg.
 [^2]: Az 1. § (3) bekezdése a 2/2024. (IV. 8.) OAH rendelet 1. §-ával megállapított szöveg.

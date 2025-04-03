@@ -6,6 +6,6 @@
 
 ## 13. Engedélyezés és jóváhagyás
 
-17. §[^6] Minden nukleáris létesítménynek és nukleáris biztonsággal összefüggő tevékenységnek az e rendeletben meghatározottak szerinti engedéllyel, jóváhagyással, tudomásulvétellel vagy felmentéssel kell rendelkeznie.
+17. §[^7] Minden nukleáris létesítménynek és nukleáris biztonsággal összefüggő tevékenységnek az e rendeletben meghatározottak szerinti engedéllyel, jóváhagyással, tudomásulvétellel vagy felmentéssel kell rendelkeznie.
 
-[^6]: A 17. § a 2/2024. (IV. 8.) OAH rendelet 3. §-ával megállapított szöveg.
+[^7]: A 17. § a 2/2024. (IV. 8.) OAH rendelet 3. §-ával megállapított szöveg.
