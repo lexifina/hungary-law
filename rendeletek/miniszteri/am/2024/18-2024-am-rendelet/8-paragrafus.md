@@ -32,6 +32,6 @@ b) a támogatás kifizetéséről a Kincstár a tárgyévet követő év június
 
 c) a támogatási feltételek ellenőrzése során az (EU) 2021/2116 európai parlamenti és tanácsi rendelet 60. cikkében foglaltakat kell alkalmazni, és
 
-d)[^3] az ellenőrzések során a támogatási feltételeknek való meg nem felelés esetén az Egységes kérelem rendelet 15. §-a, 17. §-a, 28. § (1) és (3) bekezdése, 29–31. §-a, 35–39. §-a szerinti eljárást kell alkalmazni.
+d)[^4] az ellenőrzések során a támogatási feltételeknek való meg nem felelés esetén az Egységes kérelem rendelet 15. §-a, 17. §-a, 28. § (1) és (3) bekezdése, 29–31. §-a, 35–39. §-a szerinti eljárást kell alkalmazni.
 
-[^3]: A 8. § (5) bekezdés d) pontja a 33/2024. (V. 30.) AM rendelet 50. § c) pontja szerint módosított szöveg.
+[^4]: A 8. § (5) bekezdés d) pontja a 33/2024. (V. 30.) AM rendelet 50. § c) pontja szerint módosított szöveg.

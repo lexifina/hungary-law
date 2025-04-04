@@ -1,3 +1,3 @@
-1. melléklet a 18/2024. (IV. 9.) AM rendelethez
+1. melléklet a 18/2024. (IV. 9.) AM rendelethez[^8]
 
-Az alapszintű-jövedelemtámogatásra vonatkozó 2024–2027. évi támogatási keretösszegek (euró),illetve fajlagos támogatási összegek (euró/hektár)
+[^8]: Az 1. mellékletet az 5/2025. (IV. 3.) AM rendelet 52. §-a hatályon kívül helyezte.
