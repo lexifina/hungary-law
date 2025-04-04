@@ -28,19 +28,19 @@
 
 | 14 | 012101 | Borszőlő termesztés |
 
-| 15 | 012103 | Csemegeszőlő termesztés |
+| 15[^13] | 012102 | Csemegeszőlő termesztés |
 
 | 16 | 012201 | Trópusi gyümölcs termesztése |
 
 | 17 | 012301 | Citrusfélék termesztése |
 
-| 18 | 012401 | Almatermésű, csonthéjas termesztése |
+| 18[^14] | 012401 | Almatermésű és csonthéjas gyümölcs termesztése |
 
-| 19 | 012501 | Egyéb gyümölcs, héjastermésű termesztése |
+| 19[^15] | 012501 | Egyéb fán és bokron termő gyümölcs, héjas termésű gyümölcs termesztése |
 
 | 20 | 012601 | Olajtartalmú gyümölcs termesztése |
 
-| 21 | 012701 | Italgyártási növény termesztése |
+| 21[^16] | 012701 | Italgyártáshoz szükséges növény termesztése |
 
 | 22 | 012801 | Fűszer-, aromanövény termesztése m.n.s. |
 
@@ -78,13 +78,13 @@
 
 | 39 | 014701 | Baromfitenyésztés |
 
-| 40 | 014901 | Egyéb állat tenyésztése m.n.s. |
+| 40[^17] | 014801 | Egyéb állat tenyésztése m.n.s. |
 
-| 41 | 014902 | Méhészet |
+| 41[^18] | 014802 | Méhészet |
 
-| 42 | 014904 | Egyéb állati termékek termelése |
+| 42[^19] | 014804 | Egyéb állati termékek termelése |
 
-| 43 | 014905 | Nyúl tenyésztése |
+| 43[^20] | 014805 | Nyúl tenyésztése |
 
 | 44 | 015001 | Vegyes gazdálkodás (növénytermesztés állattenyésztéssel, egyik részaránya sem éri el a 66%-ot) |
 
@@ -104,7 +104,7 @@
 
 | 52 | 016303 | Gyógynövény előkészítés |
 
-| 53 | 016401 | Vetési célú magfeldolgozás |
+| 53[^21] | 016304 | Vetési célú magfeldolgozás |
 
 | 54 | 017001 | Vadgazdálkodási szolgáltatás |
 
@@ -112,11 +112,11 @@
 
 | 56 | 022001 | Fakitermelés saját jogon |
 
-| 57 | 022003 | Faszéntermelés az erdőben (hagyományos módszerrel előállítva) |
+| 57[^22] | 022002 | Faszéntermelés az erdőben (hagyományos módszerrel előállítva) |
 
 | 58 | 023001 | Erdőgazdálkodói haszonvételek gyakorlása (vadon termő egyéb erdei termék gyűjtése) |
 
-| 59 | 023002 | Éti csiga gyűjtése |
+| 59[^23] | 017002 | Éti csiga gyűjtése |
 
 | 60 | 024001 | Erdészeti szolgáltatás m.n.s. |
 
@@ -126,16 +126,17 @@
 
 | 63 | 024004 | Erdőgazdálkodáshoz kapcsolódó szaktanácsadás |
 
-4. melléklet a 21/2024. (IV. 9.) AM rendelethez
+4. melléklet a 21/2024. (IV. 9.) AM rendelethez[^24]
 
-A fiatal mezőgazdasági termelői támogatásra vonatkozó 2024–2027. évi támogatási keretösszegek (euró), illetve fajlagos támogatási összegek (euró/hektár)
-
-|  | A | B | C | D | E |
-
-| 1. | Igénylés éve | 2024 | 2025 | 2026 | 2027 |
-
-| 2. | Támogatási keretösszeg | 18 690 804 | 18 690 804 | 18 690 804 | 18 690 804 |
-
-| 3. | Fajlagos támogatási minimum | 78,67 | 78,67 | 78,67 | 78,67 |
-
-| 4. | Fajlagos támogatási maximum | 236,00 | 236,00 | 236,00 | 236,00 |
+[^13]: A 3. mellékletben foglalt táblázat 15. sora az 5/2025. (IV. 3.) AM rendelet 65. § (2) bekezdésével megállapított szöveg.
+[^14]: A 3. mellékletben foglalt táblázat 18. sora az 5/2025. (IV. 3.) AM rendelet 65. § (2) bekezdésével megállapított szöveg.
+[^15]: A 3. mellékletben foglalt táblázat 19. sora az 5/2025. (IV. 3.) AM rendelet 65. § (2) bekezdésével megállapított szöveg.
+[^16]: A 3. mellékletben foglalt táblázat 21. sora az 5/2025. (IV. 3.) AM rendelet 65. § (2) bekezdésével megállapított szöveg.
+[^17]: A 3. mellékletben foglalt táblázat 40. sora az 5/2025. (IV. 3.) AM rendelet 65. § (2) bekezdésével megállapított szöveg.
+[^18]: A 3. mellékletben foglalt táblázat 41. sora az 5/2025. (IV. 3.) AM rendelet 65. § (2) bekezdésével megállapított szöveg.
+[^19]: A 3. mellékletben foglalt táblázat 42. sora az 5/2025. (IV. 3.) AM rendelet 65. § (2) bekezdésével megállapított szöveg.
+[^20]: A 3. mellékletben foglalt táblázat 43. sora az 5/2025. (IV. 3.) AM rendelet 65. § (2) bekezdésével megállapított szöveg.
+[^21]: A 3. mellékletben foglalt táblázat 53. sora az 5/2025. (IV. 3.) AM rendelet 65. § (2) bekezdésével megállapított szöveg.
+[^22]: A 3. mellékletben foglalt táblázat 57. sora az 5/2025. (IV. 3.) AM rendelet 65. § (2) bekezdésével megállapított szöveg.
+[^23]: A 3. mellékletben foglalt táblázat 59. sora az 5/2025. (IV. 3.) AM rendelet 65. § (2) bekezdésével megállapított szöveg.
+[^24]: A 4. mellékletet az 5/2025. (IV. 3.) AM rendelet 67. §-a hatályon kívül helyezte.

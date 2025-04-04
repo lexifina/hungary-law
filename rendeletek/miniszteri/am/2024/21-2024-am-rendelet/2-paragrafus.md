@@ -54,6 +54,8 @@ felsoroltak közé tartozik.
 
 (12) Az (5) bekezdés a) pont ac) alpontja szerinti feltételt igazoló dokumentumot csak a támogatás első alkalommal történő igénylésének évében szükséges benyújtani.
 
-(13) Ha az igénylő olyan szakmai végzettséget igazol az egységes kérelem benyújtásakor, amely nem szerepel az 1. melléklet szerinti végzettségek között, akkor az 1. melléklet szerinti valamely végzettséggel való egyenértékűségről a Nemzeti Irányító Hatóság a Kincstár megkeresésére állásfoglalást ad ki. A támogatásra vonatkozó döntést, ennek figyelembevételével a Kincstár mint közreműködő szervezet a Nemzeti Irányító Hatóság nevében hozza meg.
+(13)[^1] Ha az igénylő olyan szakmai végzettséget igazol az egységes kérelem benyújtásakor, amely nem szerepel az 1. melléklet szerinti végzettségek között, akkor az 1. melléklet szerinti valamely végzettséggel való egyenértékűségről a Nemzeti Irányító Hatóság a Kincstár megkeresésére állásfoglalást ad ki.
 
 (14) A Kincstár a (10) bekezdés szerinti igazolás adattartalmának az ellenőrzése során jogosult megkeresni a Nemzeti Egészségbiztosítási Alapkezelőt és a Nemzeti Adó- és Vámhivatalt.
+
+[^1]: A 2. § (13) bekezdése az 5/2025. (IV. 3.) AM rendelet 62. §-ával megállapított szöveg.
