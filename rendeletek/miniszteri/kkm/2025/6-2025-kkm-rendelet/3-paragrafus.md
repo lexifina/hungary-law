@@ -1,0 +1,1 @@
+3. § A KKM rendelet 1. § (1) bekezdés h) pontjában a „3. § (7) bekezdése” szövegrész helyébe a „3. § (7) bekezdése és a 3/A. §” szöveg, valamint az „illetve a kihelyező szervvel” szövegrész helyébe az „illetve a 3. § (7) bekezdése vonatkozásában a kihelyező szervvel” szöveg lép.
