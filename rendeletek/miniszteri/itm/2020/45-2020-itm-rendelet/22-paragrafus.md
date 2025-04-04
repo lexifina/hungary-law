@@ -16,6 +16,8 @@
 
 (9)[^58] A 3,5 tonna műszakilag megengedett legnagyobb össztömeget meghaladó lakóautóra a 3. § (2) bekezdés c) pontjában és (4) bekezdésében meghatározott jogosultság a 2024. évre nem váltható, továbbá a 3,5 tonna műszakilag megengedett legnagyobb össztömeget meghaladó lakóautóra megváltott 3. § (2) bekezdés a) és b) pontjában meghatározott jogosultság érvényessége 2023. december 31. napján 24 órakor abban az esetben is lejár, ha a megváltásakor hatályos rendelkezések alapján ezen az időponton túl is érvényes lenne.
 
+(10)[^59] A 8. § (2)–(4b) bekezdésétől eltérően a 3. § (4) bekezdésében meghatározott, Borsod-Abaúj-Zemplén vármegye díjköteles úthálózatára a 2026. évre érvényes jogosultság általános forgalmi adóval terhelt, forintban meghatározott ára a 3. § (4) bekezdésében meghatározott többi vármegyei jogosultság 2026. évre érvényes árának 35%-a, – a matematikai kerekítési szabályok alkalmazásával – tízforintos kerekítési pontossággal meghatározottan. Az így megállapított árat a NÚSZ Zrt. a honlapján közzéteszi. A közzététel és a hatálybalépés között legalább 30 napnak el kell telnie. A NÚSZ Zrt. a közzététel során a 8. § (5) és (6) bekezdésének megfelelő alkalmazásával jár el.
+
 [^52]: A 22. § (3) bekezdését a 24/2024. (VII. 31.) ÉKM rendelet 3. § a) pontja hatályon kívül helyezte.
 [^53]: A 22. § (5) bekezdését a 6/2022. (II. 17.) ITM rendelet 1. § (1) bekezdése iktatta be, szövege a 2/2023. (II. 20.) ÉKM rendelet 13. § d) pontja szerint módosított szöveg.
 [^54]: A 22. § (6) bekezdését a 16/2023. (VIII. 30.) ÉKM rendelet 5. §-a iktatta be.
@@ -23,3 +25,4 @@
 [^56]: A 22. § (7) bekezdését a 19/2022. (IX. 19.) TIM rendelet 3. § (10) bekezdése iktatta be.
 [^57]: A 22. § (8) bekezdését a 22/2023. (XII. 5.) ÉKM rendelet 3. § (3) bekezdése iktatta be.
 [^58]: A 22. § (9) bekezdését a 22/2023. (XII. 5.) ÉKM rendelet 3. § (3) bekezdése iktatta be.
+[^59]: A 22. § (10) bekezdését a 10/2025. (IV. 3.) ÉKM rendelet 1. §-a iktatta be.
