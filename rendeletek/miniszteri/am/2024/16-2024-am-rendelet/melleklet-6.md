@@ -1,505 +1,463 @@
-|  | Megnevezés | Évelő szálas pillangós? |
+|  | A | B |
 
-| 1. | Őszi búza | nem |
+| 1. | Magyar név | Évelő szálas pillangós |
 
-| 2. | Tavaszi búza | nem |
+| 2. | Őszi búza | nem |
 
-| 3. | Őszi durumbúza | nem |
+| 3. | Tavaszi búza | nem |
 
-| 4. | Tavaszi durumbúza | nem |
+| 4. | Őszi durumbúza | nem |
 
-| 5. | Őszi tönkölybúza | nem |
+| 5. | Tavaszi durumbúza | nem |
 
-| 6. | Tavaszi tönkölybúza | nem |
+| 6. | Őszi tönkölybúza | nem |
 
-| 7. | Őszi novum búza | nem |
+| 7. | Tavaszi tönkölybúza | nem |
 
-| 8. | Tavaszi novum búza | nem |
+| 8. | Őszi novum búza | nem |
 
-| 9. | Őszi tönke búza | nem |
+| 9. | Tavaszi novum búza | nem |
 
-| 10. | Tavaszi tönke búza | nem |
+| 10. | Őszi tönke búza | nem |
 
-| 11. | Őszi alakor búza | nem |
+| 11. | Tavaszi tönke búza | nem |
 
-| 12. | Tavaszi alakor búza | nem |
+| 12. | Őszi alakor búza | nem |
 
-| 13. | Rozs | nem |
+| 13. | Tavaszi alakor búza | nem |
 
-| 14. | Évelő rozs | nem |
+| 14. | Rozs | nem |
 
-| 15. | Őszi árpa | nem |
+| 15. | Évelő rozs | nem |
 
-| 16. | Tavaszi árpa | nem |
+| 16. | Őszi árpa | nem |
 
-| 17. | Tavaszi zab | nem |
+| 17. | Tavaszi árpa | nem |
 
-| 18. | Őszi zab | nem |
+| 18. | Tavaszi zab | nem |
 
-| 19. | Kukorica | nem |
+| 19. | Őszi zab | nem |
 
-| 20. | Pattogatni való kukorica | nem |
+| 20. | Kukorica | nem |
 
-| 21. | Csemegekukorica | nem |
+| 21. | Pattogatni való kukorica | nem |
 
-| 22. | Silókukorica | nem |
+| 22. | Csemegekukorica | nem |
 
-| 23. | Hibrid kukorica | nem |
+| 23. | Silókukorica | nem |
 
-| 24. | Tavaszi tritikálé | nem |
+| 24. | Hibrid kukorica | nem |
 
-| 25. | Őszi tritikálé | nem |
+| 25. | Tavaszi tritikálé | nem |
 
-| 26. | Pohánka (Hajdina) | nem |
+| 26. | Őszi tritikálé | nem |
 
-| 27. | Mohar | nem |
+| 27. | Pohánka (Hajdina) | nem |
 
-| 28. | Cukorcirok | nem |
+| 28. | Mohar (olasz muhar) | nem |
 
-| 29. | Seprűcirok | nem |
+| 29. | Cukorcirok | nem |
 
-| 30. | Szemescirok | nem |
+| 30. | Seprűcirok | nem |
 
-| 31. | Silócirok | nem |
+| 31. | Szemescirok | nem |
 
-| 32. | Szudáni cirokfű | nem |
+| 32. | Silócirok | nem |
 
 | 33. | Indiánrizs | nem |
 
 | 34. | Termesztett köles | nem |
 
-| 35. | Indiai köles | nem |
+| 35. | Fénymag (kanáriköles) | nem |
 
-| 36. | Fénymag | nem |
+| 36. | Fekete zab (homoki zab, érdes zab) | nem |
 
-| 37. | Fekete zab (homoki zab) | nem |
+| 37. | Rizs | nem |
 
-| 38. | Rizs | nem |
+| 38. | Cukorborsó | nem |
 
-| 39. | Cukorborsó | nem |
+| 39. | Mezei borsó | nem |
 
-| 40. | Mezei borsó | nem |
+| 40. | Őszi takarmányborsó | nem |
 
-| 41. | Őszi takarmányborsó | nem |
+| 41. | Őszi zöldborsó | nem |
 
-| 42. | Őszi zöldborsó | nem |
+| 42. | Szárazborsó (Sárgaborsó) | nem |
 
-| 43. | Szárazborsó (Sárgaborsó) | nem |
+| 43. | Tavaszi takarmányborsó | nem |
 
-| 44. | Tavaszi takarmányborsó | nem |
+| 44. | Tavaszi zöldborsó | nem |
 
-| 45. | Tavaszi zöldborsó | nem |
+| 45. | Lóbab (Disznóbab) | nem |
 
-| 46. | Lóbab (Disznóbab) | nem |
+| 46. | Futóbab (törökbab) | nem |
 
-| 47. | Futóbab | nem |
+| 47. | Zöldbab | nem |
 
-| 48. | Szárazbab | nem |
+| 48. | Homoki bab (tehénborsó) | nem |
 
-| 49. | Zöldbab | nem |
+| 49. | Lencse (főzeléklencse) | nem |
 
-| 50. | Homoki bab (tehénborsó) | nem |
+| 50. | Takarmánybükköny (Tavaszi bükköny) | nem |
 
-| 51. | Fehérvirágú édes csillagfürt | nem |
+| 51. | Szöszösbükköny | nem |
 
-| 52. | Fehérvirágú édes csillagfürt (takarmány célra) | nem |
+| 52. | Pannonbükköny | nem |
 
-| 53. | Fehérvirágú édes csillagfürt (zöldtrágyázásra) | nem |
+| 53. | Csicseriborsó (bagolyborsó) | nem |
 
-| 54. | Sárgavirágú édes csillagfürt | nem |
+| 54. | Szegletes lednek | nem |
 
-| 55. | Sárgavirágú édes csillagfürt (takarmány célra) | nem |
+| 55. | Mogyorós lednek | nem |
 
-| 56. | Sárgavirágú édes csillagfürt (zöldtrágyázásra) | nem |
+| 56. | Burgonya | nem |
 
-| 57. | Kékvirágú édes csillagfürt | nem |
+| 57. | Cukorrépa | nem |
 
-| 58. | Kékvirágú édes csillagfürt (takarmány célra) | nem |
+| 58. | Dohány – Burley | nem |
 
-| 59. | Kékvirágú édes csillagfürt (zöldtrágyázásra) | nem |
+| 59. | Dohány – Virginia | nem |
 
-| 60. | Lencse | nem |
+| 60. | Felfutó komló | nem |
 
-| 61. | Takarmánybükköny (Tavaszi bükköny) | nem |
+| 61. | Szójabab | nem |
 
-| 62. | Szöszösbükköny | nem |
+| 62. | Őszi káposztarepce | nem |
 
-| 63. | Pannonbükköny | nem |
+| 63. | Tavaszi káposztarepce | nem |
 
-| 64. | Csicseriborsó | nem |
+| 64. | Szezámmag | nem |
 
-| 65. | Szegletes lednek | nem |
+| 65. | Olajlen (házi len) | nem |
 
-| 66. | Mogyorós lednek | nem |
+| 66. | Rostlen (házi len) | nem |
 
-| 67. | Burgonya | nem |
+| 67. | Földimogyoró | nem |
 
-| 68. | Cukorrépa | nem |
+| 68. | Fehér mustár | nem |
 
-| 69. | Dohány – Burley | nem |
+| 69. | Fekete mustár | nem |
 
-| 70. | Dohány – Virginia | nem |
+| 70. | Ricinus | nem |
 
-| 71. | Komló | nem |
+| 71. | Mák (tavaszi) | nem |
 
-| 72. | Szójabab | nem |
+| 72. | Mák (őszi) | nem |
 
-| 73. | Őszi káposztarepce | nem |
+| 73. | Retek (kerti retek) | nem |
 
-| 74. | Tavaszi káposztarepce | nem |
+| 74. | Olajretek | nem |
 
-| 75. | Szezámmag | nem |
+| 75. | Takarmányretek | nem |
 
-| 76. | Olajlen | nem |
+| 76. | Négermag (feketeretek) | nem |
 
-| 77. | Rostlen | nem |
+| 77. | Vadrepce | nem |
 
-| 78. | Földimogyoró | nem |
+| 78. | Gomborka (magvas) (sárgarepce) | nem |
 
-| 79. | Fehér mustár | nem |
+| 79. | Cikória | nem |
 
-| 80. | Fekete mustár | nem |
+| 80. | Napraforgó | nem |
 
-| 81. | Ricinus | nem |
+| 81. | Hibrid napraforgó | nem |
 
-| 82. | Mák (tavaszi) | nem |
+| 82. | Kender | nem |
 
-| 83. | Mák (őszi) | nem |
+| 83. | Karfiol | nem |
 
-| 84. | Retek | nem |
+| 84. | Brokkoli | nem |
 
-| 85. | Olajretek | nem |
+| 85. | Bimbóskel | nem |
 
-| 86. | Takarmányretek | nem |
+| 86. | Fejes káposzta | nem |
 
-| 87. | Négermag | nem |
+| 87. | Kelkáposzta | nem |
 
-| 88. | Vadrepce | nem |
+| 88. | Vöröskáposzta | nem |
 
-| 89. | Gomborka (magvas) | nem |
+| 89. | Takarmánykáposzta | nem |
 
-| 90. | Cikória | nem |
+| 90. | Karalábé | nem |
 
-| 91. | Napraforgó | nem |
+| 91. | Kínai kel | nem |
 
-| 92. | Hibrid napraforgó | nem |
+| 92. | Kerti zeller | nem |
 
-| 93. | Kender | nem |
+| 93. | Póréhagyma | nem |
 
-| 94. | Karfiol | nem |
+| 94. | Őszi fokhagyma | nem |
 
-| 95. | Brokkoli | nem |
+| 95. | Tavaszi fokhagyma | nem |
 
-| 96. | Bimbóskel | nem |
+| 96. | Csemegehagyma | nem |
 
-| 97. | Fejes káposzta | nem |
+| 97. | Őszi vöröshagyma | nem |
 
-| 98. | Kelkáposzta | nem |
+| 98. | Tavaszi vöröshagyma | nem |
 
-| 99. | Vöröskáposzta | nem |
+| 99. | Lilahagyma | nem |
 
-| 100. | Takarmánykáposzta | nem |
+| 100. | Metélőhagyma | nem |
 
-| 101. | Karalábé | nem |
+| 101. | Fejessaláta (kerti saláta) | nem |
 
-| 102. | Kínai kel | nem |
+| 102. | Endívia | nem |
 
-| 103. | Zeller | nem |
+| 103. | Sóska | nem |
 
-| 104. | Póréhagyma | nem |
+| 104. | Spenót | nem |
 
-| 105. | Őszi fokhagyma | nem |
+| 105. | Articsóka | nem |
 
-| 106. | Tavaszi fokhagyma | nem |
+| 106. | Spanyol Articsóka | nem |
 
-| 107. | Csemegehagyma | nem |
+| 107. | Petrezselyem gyökér (fehérrépa) | nem |
 
-| 108. | Őszi vöröshagyma | nem |
+| 108. | Levél petrezselyem | nem |
 
-| 109. | Tavaszi vöröshagyma | nem |
+| 109. | Rebarbara | nem |
 
-| 110. | Lilahagyma | nem |
+| 110. | Galambbegysaláta (saláta-galambbegy) | nem |
 
-| 111. | Metélőhagyma | nem |
+| 111. | Kerti zsázsa | nem |
 
-| 112. | Fejessaláta | nem |
+| 112. | Paradicsom | nem |
 
-| 113. | Endívia | nem |
+| 113. | Uborka | nem |
 
-| 114. | Sóska | nem |
+| 114. | Padlizsán (Tojásgyümölcs) | nem |
 
-| 115. | Spenót | nem |
+| 115. | Főzőtök (közönséges tök) | nem |
 
-| 116. | Articsóka | nem |
+| 116. | Sütőtök | nem |
 
-| 117. | Spanyol Articsóka | nem |
+| 117. | Káposztatök | nem |
 
-| 118. | Petrezselyem gyökér (fehérrépa) | nem |
+| 118. | Olajtök | nem |
 
-| 119. | Petrezselyem levél | nem |
+| 119. | Csillagtök/patiszon | nem |
 
-| 120. | Rebarbara | nem |
+| 120. | Spárgatök | nem |
 
-| 121. | Galambbegysaláta | nem |
+| 121. | Cukkini | nem |
 
-| 122. | Zsázsa | nem |
+| 122. | Paprika | nem |
 
-| 123. | Paradicsom | nem |
+| 123. | Fűszerpaprika | nem |
 
-| 124. | Uborka | nem |
+| 124. | Sárgarépa | nem |
 
-| 125. | Padlizsán (Tojásgyümölcs) | nem |
+| 125. | Cékla | nem |
 
-| 126. | Főzőtök | nem |
+| 126. | Feketegyökér (spanyol pozdor) | nem |
 
-| 127. | Sütőtök | nem |
+| 127. | Közönséges torma | nem |
 
-| 128. | Káposztatök | nem |
+| 128. | Pasztinák | nem |
 
-| 129. | Olajtök | nem |
+| 129. | Újzélandi spenót | nem |
 
-| 130. | Csillagtök/patiszon | nem |
+| 130. | Mezei csibehúr | nem |
 
-| 131. | Spárgatök | nem |
+| 131. | Batáta (édesburgonya) | nem |
 
-| 132. | Cukkini | nem |
+| 132. | Kerti borsmustár (rukkola) | nem |
 
-| 133. | Paprika | nem |
+| 133. | Egyéb zöldség | nem |
 
-| 134. | Fűszerpaprika | nem |
+| 134. | Lucerna | igen |
 
-| 135. | Sárgarépa | nem |
+| 135. | Lucerna erjesztett takarmány | igen |
 
-| 136. | Cékla | nem |
+| 136. | Lucerna zöldtakarmány | igen |
 
-| 137. | Feketegyökér | nem |
+| 137. | Komlós lucerna | igen |
 
-| 138. | Torma | nem |
+| 138. | Sárkerep lucerna | igen |
 
-| 139. | Pasztinák | nem |
+| 139. | Tarkavirágú lucerna | igen |
 
-| 140. | Újzélandi spenót | nem |
+| 140. | Vöröshere (réti here) | igen |
 
-| 141. | Mezei csibehúr | nem |
+| 141. | Bíborhere | nem |
 
-| 142. | Batáta (édesburgonya) | nem |
+| 142. | Fehérhere | igen |
 
-| 143. | Borsmustár (rukkola) | nem |
+| 143. | Korcshere (svédhere) | igen |
 
-| 144. | Egyéb zöldség | nem |
+| 144. | Perzsahere (fonákhere) | nem |
 
-| 145. | Lucerna | igen |
+| 145. | Alexandriai here | nem |
 
-| 146. | Lucerna erjesztett takarmány | igen |
+| 146. | Lódi lóhere | igen |
 
-| 147. | Lucerna zöldtakarmány | igen |
+| 147. | Sárgavirágú somkóró (orvosi somkóró) | igen |
 
-| 148. | Komlós lucerna | igen |
+| 148. | Fehérvirágú somkóró | igen |
 
-| 149. | Sárkerep lucerna | igen |
+| 149. | Takarmánybaltacim | igen |
 
-| 150. | Tarkavirágú lucerna | igen |
+| 150. | Szarvaskerep | igen |
 
-| 151. | Vöröshere | igen |
+| 151. | Nyúlszapuka (réti nyúlhere) | igen |
 
-| 152. | Bíborhere | nem |
+| 152. | Szeradella (vetési csibeláb) | igen |
 
-| 153. | Fehérhere | igen |
+| 153. | Koronás baltavirág | igen |
 
-| 154. | Korcshere (svédhere) | igen |
+| 154. | Réparepce | nem |
 
-| 155. | Perzsahere (fonákhere) | nem |
+| 155. | Tifon | nem |
 
-| 156. | Alexandriai here | nem |
+| 156. | Tarlórépa | nem |
 
-| 157. | Lódi lóhere | igen |
+| 157. | Takarmányrépa | nem |
 
-| 158. | Sárgavirágú somkóró (orvosi somkóró) | igen |
+| 158. | Murokrépa (vadmurok) | nem |
 
-| 159. | Fehérvirágú somkóró | igen |
+| 159. | Közönséges tarka koronafürt | igen |
 
-| 160. | Takarmánybaltacim | igen |
+| 160. | Görög széna | nem |
 
-| 161. | Szarvaskerep | igen |
+| 161. | Keleti kecskeruta (orvosi kecskeruta) | igen |
 
-| 162. | Nyúlszapuka | igen |
+| 162. | Mézontófű (Facélia) (közönséges és tömött mézontófű) | nem |
 
-| 163. | Szeradella | igen |
+| 163. | Takarmánymályva | nem |
 
-| 164. | Koronás baltavirág | igen |
+| 164. | Ánizs | nem |
 
-| 165. | Réparepce | nem |
+| 165. | Ánizsizsóp | nem |
 
-| 166. | Tifon | nem |
+| 166. | Ánizsmenta | nem |
 
-| 167. | Tarlórépa | nem |
+| 167. | Bazsalikom | nem |
 
-| 168. | Takarmányrépa | nem |
+| 168. | Borsikafű (kerti csombor) | nem |
 
-| 169. | Csicsóka | nem |
+| 169. | Kerti borágó | nem |
 
-| 170. | Murokrépa | nem |
+| 170. | Orvosi citromfű | nem |
 
-| 171. | Tarka koronafürt | igen |
+| 171. | Kerti izsóp | nem |
 
-| 172. | Görög széna | nem |
+| 172. | Kamilla | nem |
 
-| 173. | Keleti kecskeruta | igen |
+| 173. | Kapor | nem |
 
-| 174. | Mézontófű (Facélia) | nem |
+| 174. | Fűszerkömény | nem |
 
-| 175. | Takarmánymályva | nem |
+| 175. | Koriander | nem |
 
-| 176. | Angyalgyökér (Angelika) | nem |
+| 176. | Körömvirág | nem |
 
-| 177. | Ánizs | nem |
+| 177. | Lestyán | nem |
 
-| 178. | Ánizsizsóp | nem |
+| 178. | Orvosi macskagyökér | nem |
 
-| 179. | Ánizsmenta | nem |
+| 179. | Majoranna | nem |
 
-| 180. | Anyarozs | nem |
+| 180. | Máriatövis | nem |
 
-| 181. | Bazsalikom | nem |
+| 181. | Menta (egyéb) | nem |
 
-| 182. | Borsikafű (egyéb) | nem |
+| 182. | Meténg (egyéb) | nem |
 
-| 183. | Borágó | nem |
+| 183. | Egyiptomi útifű (Psyllium) | nem |
 
-| 184. | Citromfű | nem |
+| 184. | Rozmaring | nem |
 
-| 185. | Digitalis | nem |
+| 185. | Sáfrányos szeklice (kerti pórsáfrány) | nem |
 
-| 186. | Izsóp | nem |
+| 186. | Szöszös ökörfarkkóró | nem |
 
-| 187. | Jázmin | nem |
+| 187. | Tárkony | nem |
 
-| 188. | Kamilla | nem |
+| 188. | Gyermekláncfű (pongyola pitypang) | nem |
 
-| 189. | Kapor | nem |
+| 189. | Jázminpakóca (stevia) | nem |
 
-| 190. | Fűszerkömény | nem |
+| 190. | Fehér üröm | nem |
 
-| 191. | Koriander | nem |
+| 191. | Római kamilla | nem |
 
-| 192. | Körömvirág | nem |
+| 192. | Nagy csalán | nem |
 
-| 193. | Lestyán | nem |
+| 193. | Közönséges orbáncfű | nem |
 
-| 194. | Macskagyökérfű | nem |
+| 194. | Közönséges vasfű (Verbena) | nem |
 
-| 195. | Majoranna | nem |
+| 195. | Kisvirágú füzike | nem |
 
-| 196. | Máriatövis | nem |
+| 196. | Orvosi pemetefű | nem |
 
-| 197. | Menta (egyéb) | nem |
+| 197. | Évelő borsfű (borsikafű) (kerti csombor) | nem |
 
-| 198. | Meténg (egyéb) | nem |
+| 198. | Orvosi ziliz (fehérmályva) | nem |
 
-| 199. | Utifű (Psyllium) | nem |
+| 199. | Borsos menta | nem |
 
-| 200. | Rozmaring | nem |
+| 200. | Csombormenta | nem |
 
-| 201. | Sáfrány | nem |
+| 201. | Lómenta | nem |
 
-| 202. | Sáfrányos szeklice | nem |
+| 202. | Terjőke kígyószisz | nem |
 
-| 203. | Szöszös ökörfarkkóró | nem |
+| 203. | Egyéb szántóföldi termelt növény | nem |
 
-| 204. | Tárkony | nem |
+| 204. | Ebtippan | nem |
 
-| 205. | Tárnics | nem |
+| 205. | Óriás tippan | nem |
 
-| 206. | Gyermekláncfű | nem |
+| 206. | Fehér tippan | nem |
 
-| 207. | Jázminpakóca (stevia) | nem |
+| 207. | Cérnatippan | nem |
 
-| 208. | Fehér üröm | nem |
+| 208. | Francia perje | nem |
 
-| 209. | Római kamilla | nem |
+| 209. | Csenkeszperje | nem |
 
-| 210. | Nagy csalán | nem |
+| 210. | Olasz perje (szálkás perje) | nem |
 
-| 211. | Orbáncfű | nem |
+| 211. | Angol perje | nem |
 
-| 212. | Vasfű (Verbena) | nem |
+| 212. | Hibrid perje | nem |
 
-| 213. | Kisvirágú füzike | nem |
+| 213. | Ligeti perje | nem |
 
-| 214. | Orvosi pemetefű | nem |
+| 214. | Réti perje | nem |
 
-| 215. | Évelő borsfű (borsikafű) | nem |
+| 215. | Mocsári perje | nem |
 
-| 216. | orvosi ziliz (fehérmályva) | nem |
+| 216. | Sovány perje | nem |
 
-| 217. | Tavaszi kankalin | nem |
+| 217. | Magyar rozsnok | nem |
 
-| 218. | Kis télizöld meténg | nem |
+| 218. | Zöld Pántlikafű | nem |
 
-| 219. | Borsmenta | nem |
+| 219. | Csomós ebír | nem |
 
-| 220. | Csombormenta | nem |
+| 220. | Nádképű csenkesz | nem |
 
-| 221. | Lómenta | nem |
+| 221. | Juhcsenkesz | nem |
 
-| 222. | Terjőke kígyószisz | nem |
+| 222. | Réti csenkesz | nem |
 
-| 223. | Pillangóvirág | nem |
+| 223. | Vörös csenkesz | nem |
 
-| 224. | Egyéb szántóföldi termelt növény | nem |
+| 224. | Veresnadrág csenkesz | nem |
 
-| 225. | Ebtippan | nem |
+| 225. | Gumós komócsin | nem |
 
-| 226. | Óriás tippan | nem |
+| 226. | Réti komócsin | nem |
 
-| 227. | Fehér tippan | nem |
+| 227. | Abesszin (etiópiai) mustár | nem |
 
-| 228. | Cérnatippan | nem |
+| 228. | Meliorációs retek | nem |
 
-| 229. | Francia perje | nem |
-
-| 230. | Csenkeszperje | nem |
-
-| 231. | Olasz perje (szálkás perje) | nem |
-
-| 232. | Angol perje | nem |
-
-| 233. | Hibrid perje | nem |
-
-| 234. | Ligeti perje | nem |
-
-| 235. | Réti perje | nem |
-
-| 236. | Mocsári perje | nem |
-
-| 237. | Sovány perje | nem |
-
-| 238. | Magyar rozsnok | nem |
-
-| 239. | Zöld Pántlikafű | nem |
-
-| 240. | Csomós ebír | nem |
-
-| 241. | Nádképű csenkesz | nem |
-
-| 242. | Juhcsenkesz | nem |
-
-| 243. | Réti csenkesz | nem |
-
-| 244. | Vörös csenkesz | nem |
-
-| 245. | Veresnadrág csenkesz | nem |
-
-| 246. | Gumós komócsin | nem |
-
-| 247. | Réti komócsin | nem |
-
-| 248. | Sziki kender | nem |
-
-| 249. | Abesszin (etiópiai) mustár | nem |
-
-| 250. | Meliorációs retek | nem |
-
-6. melléklet a 16/2024. (IV. 9.) AM rendelethez
+6. melléklet a 16/2024. (IV. 9.) AM rendelethez[^41]
 
 A rátameghatározási segédtábla
+
+[^41]: A 6. melléklet az 5/2025. (IV. 3.) AM rendelet 28. § (5) bekezdésével megállapított szöveg.

@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-16-20-7
 | 2024-05-31 | 2024-16-20-7R.3 | 33/2024. (V. 30.) AM rendelet |
 | 2024-06-29 | 2024-16-20-7R.4 | 36/2024. (VI. 28.) AM rendelet |
 | 2025-01-01 | 2024-16-20-7R.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2025-04-04 | 2024-16-20-7R.5 | 5/2025. (IV. 3.) AM rendelet |

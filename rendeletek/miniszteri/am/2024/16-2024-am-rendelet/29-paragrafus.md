@@ -10,19 +10,11 @@ c) a területen betartották a (2) bekezdés szerint a növényvédőszer-haszn�
 
 (3) A mezőgazdasági termelőnek az egységes kérelmében nyilatkoznia kell a (2) bekezdés szerinti növényvédőszer-tilalom betartásáról. Ha a mezőgazdasági termelő – nyilatkozata vagy a helyszíni vizsgálat megállapítása szerint – az adott nem termelő területen növényvédő szert vagy csávázott vetőmagot használ, akkor a terület nem fogadható el a HMKÁ 8. előírás tekintetében nem termelő területként.
 
-(4) A nitrogénmegkötő növényekkel, azok keverékeivel vagy a nitrogénmegkötő növényekkel és nem nitrogénmegkötő növények keverékével bevetett területként figyelembe vett földterületen a mezőgazdasági termelőnek – évelő növénykultúra vetése esetén az e rendelet hatálybalépését követően bevetett földterületen, egynyári növénykultúra vetése esetén a (6) bekezdésben foglalt kivétellel – minősített szaporítóanyagot vagy saját előállítás esetén a Nemzeti Élelmiszerlánc-biztonsági Hivatal által elvégzett szántóföldi ellenőrzés és szemle alapján kiállított igazolásban alkalmasnak minősített szaporítóanyagot kell használnia.
+(4)[^28]
 
-(5) A nitrogénmegkötő növényekkel, azok keverékeivel vagy a nitrogénmegkötő növényekkel és nem nitrogénmegkötő növények keverékeivel bevetett területként figyelembe vett területen a minősített szaporítóanyag felhasználását a mezőgazdasági termelőnek
+(5)[^29]
 
-a) a minősített szaporítóanyag címkéjének másolatával vagy
-
-b) saját névre szóló érvényes, fajra, fajtára, mennyiségre és a tételazonosítóra vonatkozó adatot tartalmazó számlával vagy
-
-c) a minősítést igazoló bizonyítvány másolatával
-
-kell igazolnia, és a minősített szaporítóanyagot igazoló dokumentumokat öt évig meg kell őriznie, amelyeket a Kincstár helyszíni vizsgálat keretében jogosult ellenőrizni.
-
-(6) A mezei borsóval bevetett földterület nitrogénmegkötő növényekkel bevetett területként történő figyelembevételéhez a mezőgazdasági termelőnek a Közös Agrárpolitika Stratégiai Terv termeléshez kötött közvetlen támogatások igénybevételének szabályairól szóló 19/2024. (IV. 9.) AM rendelet 28. § (1) bekezdés d) pontjában foglaltak szerint kell eljárnia.
+(6)[^30]
 
 (7) A nitrogénmegkötő növényekkel bevetett területként figyelembe vett területen a mezőgazdasági termelőnek
 
@@ -53,3 +45,7 @@ d) a gazdálkodási napló tartalmával nem tudja minden kétséget kizáróan i
 (12) A nem termelő területként elszámolni kívánt nitrogénmegkötő növénykultúrának a (11) bekezdés szerinti termesztési időszakok teljes tartamában – évelő növények esetében a növénykultúra telepítésének és kiforgatásának évében is – jelen kell lennie a mezőgazdasági termelő területén. A nitrogénmegkötő és nem nitrogénmegkötő növény keverékének vetése esetén a keveréknek a nitrogénmegkötő növénytermesztési időszakának teljes tartamában – évelő növény esetében a növény telepítésének és kiforgatásának évében is – jelen kell lennie a mezőgazdasági termelő területén.
 
 (13) Ha az adminisztratív ellenőrzés vagy helyszíni vizsgálat keretében megállapításra kerül, hogy a nitrogénmegkötő növények, keverékeik vagy a nitrogénmegkötő növények és nem nitrogénmegkötő növények keverékei a (11) bekezdés szerinti termesztési időszakokban nincsenek jelen a mezőgazdasági termelő földterületén, akkor a földterület nem vehető figyelembe nitrogénmegkötő növényekkel bevetett nem termelő területként.
+
+[^28]: A 29. § (4) bekezdését az 5/2025. (IV. 3.) AM rendelet 30. § c) pontja hatályon kívül helyezte.
+[^29]: A 29. § (5) bekezdését az 5/2025. (IV. 3.) AM rendelet 30. § c) pontja hatályon kívül helyezte.
+[^30]: A 29. § (6) bekezdését az 5/2025. (IV. 3.) AM rendelet 30. § c) pontja hatályon kívül helyezte.

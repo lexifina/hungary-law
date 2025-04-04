@@ -4,74 +4,66 @@
 
 | 2. | Fehérvirágú somkóró (Melilotus albus) | évelő |
 
-| 3. | Szegletes lednek (Lathyrus sativus L.) | egyéves |
+| 3. | Szegletes lednek (szögesborsó) (Lathyrus sativus) | egyéves |
 
 | 4. | Csicseriborsó (Cicer arietinum L.) | egyéves |
 
-| 5. | Tarka koronafürt (Securigera varia) | évelő |
+| 5. | Közönséges tarka koronafürt (Securigera varia) | évelő |
 
-| 6. | Keleti kecskeruta (Galega orientalis L.) | évelő |
+| 6. | Keleti kecskeruta (orvosi kecskeruta) (Galega orientalis) | évelő |
 
-| 7. | Szarvaskerep (Lotus corniculatus L.) | évelő |
+| 7. | Szarvaskerep (Lotus corniculatus) | évelő |
 
-| 8. | Fehér virágú csillagfürt (Lupinus albus L.) | egyéves |
+| 8. | Lucerna (Medicago sativa) | évelő |
 
-| 9. | Sárga virágú csillagfürt (Lupinus luteus L.) | egyéves |
+| 9. | Komlós lucerna (Medicago lupulina) | évelő |
 
-| 10. | Kék virágú csillagfürt (Lupinus angustifolius L.) | egyéves |
+| 10. | Sárkerep lucerna (Medigaco falcata) | évelő |
 
-| 11. | Édes csillagfürt (fehér, sárga vagy kék virágú) (Lupinus alba) | egyéves |
+| 11. | Tarkavirágú vagy homoki lucerna (Medicago x. varia) | évelő |
 
-| 12. | Lucerna (Medicago sativa L.) | évelő |
+| 12. | Baltacim (takarmánybaltacim) (Onobrychis viciifolia) | évelő |
 
-| 13. | Komlós lucerna (Medicago lupulina) | évelő |
+| 13. | Takarmányborsó (Pisum sativum L.) | egyéves |
 
-| 14. | Sárkerep lucerna (Medigaco falcata) | évelő |
+| 14. | Bíborhere (Trifolium incarnatum) | egyéves |
 
-| 15. | Tarkavirágú vagy homoki lucerna (Medicago x. varia) | évelő |
+| 15. | Vöröshere (réti here) (Trifolium prátanse) | évelő |
 
-| 16. | Baltacim (Onobrychis viciifolia Scop.) | évelő |
+| 16. | Fehérhere (Trifolium repens L.) | évelő |
 
-| 17. | Takarmányborsó (Pisum sativum L.) | egyéves |
+| 17. | Perzsahere (fonákhere) (Trifolium resupinatum) | egyéves |
 
-| 18. | Bíborhere (Trifolium incarnatum L.) | egyéves |
+| 18. | Alexandriai here (Trifolium alexandrinum) | egyéves |
 
-| 19. | Vöröshere (Trifolium prátanse L.) | évelő |
+| 19. | Korcshere (svédhere) (Trifolium hybridum) | évelő |
 
-| 20. | Fehérhere (Trifolium repens L.) | évelő |
+| 20. | Görögszéna (Trigonella foenum-graecum) | egyéves |
 
-| 21. | Perzsahere (Trifolium resupinatum L.) | egyéves |
+| 21. | Lóbab (disznóbab) (Vicia faba) | egyéves |
 
-| 22. | Alexandriai here (Trifolium alexandrinum) | egyéves |
+| 22. | Pannon bükköny (Vicia pannonica Cr.) | egyéves |
 
-| 23. | Korcshere (Trifolium hybridum) | évelő |
+| 23. | Takarmánybükköny (tavaszi bükköny) (Vicia sativa) | egyéves |
 
-| 24. | Görögszéna (Trigonella foenum-graecum L.) | egyéves |
+| 24. | Szója (Glycine max L.) | egyéves |
 
-| 25. | Lóbab (Vicia faba L.) | egyéves |
+| 25. | Szöszös bükköny (Vicia Vilossa) | egyéves |
 
-| 26. | Pannonbükköny (Vicia pannonica Cr.) | egyéves |
+| 26. | Szárazbab (közönséges vagy veteménybab) (Phaseolus vulgaris L.) | egyéves |
 
-| 27. | Tavaszi bükköny (Vicia sativa L.) | egyéves |
+| 27. | Lencse (főzeléklencse) (Lens culinaris) | egyéves |
 
-| 28. | Szója (Glycine max L.) | egyéves |
+| 28. | Zöldborsó (Pisum sativum) | egyéves |
 
-| 29. | Szöszös bükköny (Vicia Vilossa) | egyéves |
+| 29. | Sárgaborsó (Pisum sativum) | egyéves |
 
-| 30. | Közönséges vagy veteménybab (Phaseolus vulgaris L.) | egyéves |
+| 30. | Mezei borsó (Pisum arvense) | egyéves |
 
-| 31. | Lencse (Lens culinaris) | egyéves |
+| 31. | Sárgavirágú somkóró (orvosi somkóró) (Melilotus officinalis) | egyéves |
 
-| 32. | Zöldborsó (Pisum sativum) | egyéves |
-
-| 33. | Sárgaborsó (Pisum sativum) | egyéves |
-
-| 34. | Mezei borsó (Pisum arvense) | egyéves |
-
-| 35.[^19] | Orvosi somkóró (Melilotus officinalis) | egyéves |
-
-2. melléklet a 16/2024. (IV. 9.) AM rendelethez
+2. melléklet a 16/2024. (IV. 9.) AM rendelethez[^38]
 
 Az ökológiai jelentőségű másodvetések fajlistája
 
-[^19]: Az 1. mellékletben foglalt táblázat 35. sorát a 33/2024. (V. 30.) AM rendelet 37. §-a iktatta be.
+[^38]: A 2. melléklet az 5/2025. (IV. 3.) AM rendelet 28. § (2) bekezdésével megállapított szöveg.

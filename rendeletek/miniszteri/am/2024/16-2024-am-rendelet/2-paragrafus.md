@@ -4,10 +4,12 @@
 
 a) a KAP I rendelet III. mellékletében meghatározott jogszabályban foglalt gazdálkodási követelményeket (a továbbiakban: JFGK),
 
-b) a földterület helyes mezőgazdasági és környezeti állapotára vonatkozó e rendelet szerinti előírásokat (a továbbiakban: HMKÁ előírások), valamint
+b)[^7] a földterület helyes mezőgazdasági és környezeti állapotára vonatkozó, e rendelet szerinti előírásokat – 2025-től kezdődően a nem termelő területek kijelölésére irányuló 17. § a) pontja és a 18. § kivételével – (a továbbiakban: HMKÁ előírások), valamint
 
 c) az a) pont szerinti JFGK és a b) pont szerinti HMKÁ előírások (a továbbiakban együtt: előírások) szerinti követelmények és előírások betartásának ellenőrzésére és az alkalmazandó jogkövetkezményekre vonatkozó előírásokat.
 
 (2) A mezőgazdasági üzemnek az Egységes kérelem rendelet szerinti, az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtott támogatásból erdősített területei vonatkozásában a feltételességnek a nem földhasználat-specifikus előírásait, valamint követelményeit kell alkalmazni.
 
 (3) A feltételességhez kapcsolódó eljárás során a Magyar Államkincstár mint Nemzeti Kifizető Ügynökség (a továbbiakban: Kincstár) a döntését a szükséges összes ellenőrzési adat rendelkezésre állását követő hetven napon belül hozza meg.
+
+[^7]: A 2. § (1) bekezdés b) pontja az 5/2025. (IV. 3.) AM rendelet 22. §-ával megállapított szöveg.

@@ -28,6 +28,8 @@
 
 | 14. | 6.4.g) A hormonkezelésekről vezetett nyilvántartásban a kezelt állatok/állatcsoportok nem azonosíthatók. | Gazdaságon kívüli vagy nagymértékű (5) | Súlyos (5) | Rövid távon helyrehozható (1) |
 
-12. melléklet a 16/2024. (IV. 9.) AM rendelethez
+12. melléklet a 16/2024. (IV. 9.) AM rendelethez[^55]
 
 JFGK 7–8. követelmény- és minősítési tábla – Növényvédő szerek kezelése, tárolása, felhasználása, valamint a növényvédő szerek csomagolóeszköz-hulladékának – az ellenőrzési kérdésekhez tartozó meg nem felelési esetek
+
+[^55]: A 12. melléklet az 5/2025. (IV. 3.) AM rendelet 28. § (9) bekezdésével megállapított szöveg.

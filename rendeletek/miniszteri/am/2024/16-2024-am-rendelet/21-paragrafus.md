@@ -1,9 +1,5 @@
 21. § (1) A HMKÁ 8. előírás alkalmazása során az ökológiai határsáv is elfogadható.
 
-(2) Ha az ökológiai határsáv területén található fás szárú vegetáció helyszíni vizsgálat keretében megállapított térmértéke érzékelhetően lecsökkent, akkor a következő évi egységes kérelem benyújtására nyitva álló időszak utolsó napjáig a hiányzó fás szárú vegetációt
+(2)[^27] Az ökológiai határsáv területén található fás szárú vegetáció térmértéke a területi monitoring által érzékelhető mértékben nem csökkenhet.
 
-a) az adott ökológiai határsáv területén, vagy
-
-b) a mezőgazdasági üzem bármely más területén
-
-legalább a hiányzó fás szárú vegetáció térmértékének megfelelő kiterjedésben pótolni kell.
+[^27]: A 21. § (2) bekezdése az 5/2025. (IV. 3.) AM rendelet 26. §-ával megállapított szöveg.

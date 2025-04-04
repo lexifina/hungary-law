@@ -32,7 +32,7 @@
 
 | 16. | ÉPÜLETEK, MIKROKLÍMA |
 
-| 17. | 9.9. A borjak tartására szolgáló épületeknek, karámoknak, valamint azok kialakításának, anyagának és berendezéseinek, továbbá az egyéb eszközöknek jól tisztíthatóaknak és fertőtleníthetőeknek kell lenniük és azokat rendszeresen tisztítani és fertőtleníteni kell; valamint a borjakra nézve ártalmas anyagot nem tartalmazhatnak. | 9.9.1. Az ártalmatlanság, tisztaság és a tisztíthatóság szempontjából a férőhelyek és a borjak tartására szolgáló berendezések anyaga és kialakítása, karbantartása nem megfelelő. | Gazdaságon belüli vagy kismértékű (1) | Közepes (3) | Hosszú távon helyrehozható (3) |
+| 17.[^56] | 9.9. A borjak tartására szolgáló épületeknek, karámoknak, valamint azok kialakításának, anyagának és berendezéseinek, továbbá az egyéb eszközöknek jól tisztíthatóaknak és fertőtleníthetőeknek kell lenniük, és azokat rendszeresen tisztítani és fertőtleníteni kell; valamint a borjakra nézve ártalmas anyagot nem tartalmazhatnak. | 9.9.1. Az ártalmatlanság, tisztaság és a tisztíthatóság szempontjából a férőhelyek, a borjak tartására szolgáló berendezések és egyéb használati eszközök (pl. felszerelések) anyaga és kialakítása, karbantartása nem megfelelő. | Gazdaságon belüli vagy kismértékű (1) | Közepes (3) | Hosszú távon helyrehozható (3) |
 
 | 18. | 9.10. Az elektromos áramkörök és az elektromos berendezések nem okozhatnak áramütést. | 9.10.1. Az elektromos áramkörök és/vagy az elektromos berendezések érintésvédelmi szempontból nem megfelelőek. | Gazdaságon belüli vagy kismértékű (1) | Súlyos (5) | Rövid távon helyrehozható (1) |
 
@@ -91,3 +91,5 @@
 14. melléklet a 16/2024. (IV. 9.) AM rendelethez
 
 JFGK 10. követelmény- és minősítési tábla – Állatjólét (sertések védelme) – az ellenőrzési jegyzőkönyv kérdésekhez tartozó meg nem felelési esetek
+
+[^56]: A 13. mellékletben foglalt táblázat 17. sora az 5/2025. (IV. 3.) AM rendelet 28. § (10) bekezdésével megállapított szöveg.
