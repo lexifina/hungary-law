@@ -10,9 +10,9 @@ a) a fizetési meghagyás kibocsátásáért,
 
 b) a végrehajtási lap kiállításáért, a végrehajtási lap kérelemtől eltérő kiállításáért, a biztosítási intézkedés elrendeléséért,
 
-c)[^3] a fizetési meghagyás kibocsátása iránti kérelem visszautasításáért,
+c)[^5] a fizetési meghagyás kibocsátása iránti kérelem visszautasításáért,
 
-d)[^4] a végrehajtás megtagadásáért, a végrehajtási kérelem visszautasításáért, a biztosítási intézkedés iránti kérelem visszautasításáért és elutasításáért, és
+d)[^6] a végrehajtás megtagadásáért, a végrehajtási kérelem visszautasításáért, a biztosítási intézkedés iránti kérelem visszautasításáért és elutasításáért, és
 
 e) a fizetésre halasztás és részletfizetési kedvezmény iránti kérelem tárgyában hozott végzés kibocsátásáért.
 
@@ -22,7 +22,7 @@ a) a fizetési meghagyásos eljárás megszüntetéséért,
 
 b) a fizetési meghagyás jogerejének (részjogerőnek) megállapításáért,
 
-c)[^5] a végrehajtás megszüntetéséért (korlátozásáért), a végrehajtási lap visszavonása iránti kérelem visszautasításáért, elutasításáért, a végrehajtási lap visszavonásáért,
+c)[^7] a végrehajtás megszüntetéséért (korlátozásáért), a végrehajtási lap visszavonása iránti kérelem visszautasításáért, elutasításáért, a végrehajtási lap visszavonásáért,
 
 d) a biztosítási intézkedés megszüntetéséért,
 
@@ -34,13 +34,13 @@ f) a költségkedvezmény iránti kérelem elbírálásáért.
 
 a) az igazolási kérelem elbírálásáért,
 
-b)[^6] a kézbesítési kifogás elbírálásáért,
+b)[^8] a kézbesítési kifogás elbírálásáért,
 
 c) a végrehajtás felfüggesztéséért, és
 
 d) a biztosítási intézkedés felfüggesztéséért.
 
-(5)[^7] A közjegyző az írásban vagy szóban előterjesztett
+(5)[^9] A közjegyző az írásban vagy szóban előterjesztett
 
 a) fizetési meghagyás kibocsátása iránti kérelem,
 
@@ -54,8 +54,8 @@ e) a jogosult Fmhtv. 30. § (2) bekezdése és 31. § (2) bekezdése szerinti ny
 
 adattartalmának a MOKK rendszerében erre szolgáló elektronikus formanyomtatványon vagy iraton történő rögzítéséért 1 pontot kap.
 
-[^3]: A 9. § (2) bekezdés c) pontja a 20/2017. (XII. 21.) IM rendelet 32. § a) pontja szerint módosított szöveg.
-[^4]: A 9. § (2) bekezdés d) pontja a 30/2019. (XII. 20.) IM rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^5]: A 9. § (3) bekezdés c) pontja a 30/2019. (XII. 20.) IM rendelet 10. § (2) bekezdésével megállapított szöveg.
-[^6]: A 9. § (4) bekezdés b) pontja a 20/2017. (XII. 21.) IM rendelet 32. § c) pontja szerint módosított szöveg.
-[^7]: A 9. § (5) bekezdése a 24/2015. (IX. 21.) IM rendelet 4. §-ával megállapított szöveg.
+[^5]: A 9. § (2) bekezdés c) pontja a 20/2017. (XII. 21.) IM rendelet 32. § a) pontja szerint módosított szöveg.
+[^6]: A 9. § (2) bekezdés d) pontja a 30/2019. (XII. 20.) IM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^7]: A 9. § (3) bekezdés c) pontja a 30/2019. (XII. 20.) IM rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^8]: A 9. § (4) bekezdés b) pontja a 20/2017. (XII. 21.) IM rendelet 32. § c) pontja szerint módosított szöveg.
+[^9]: A 9. § (5) bekezdése a 24/2015. (IX. 21.) IM rendelet 4. §-ával megállapított szöveg.

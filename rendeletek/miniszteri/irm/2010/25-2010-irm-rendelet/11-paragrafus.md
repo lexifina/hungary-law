@@ -1,5 +1,5 @@
-## 10. §[^8] Ha az Fmhtv. 26. § (3) bekezdése alkalmazásának van helye, a közjegyzőt nem illeti meg a 9. § (2) bekezdés a) pontjában meghatározott pont.
+## 10. §[^10] Ha az Fmhtv. 26. § (3) bekezdése alkalmazásának van helye, a közjegyzőt nem illeti meg a 9. § (2) bekezdés a) pontjában meghatározott pont.
 
 ## 4. A díj kiosztása
 
-[^8]: A 10. § a 16. § (2) bekezdése alapján 2011. január 1-jén lép hatályba.
+[^10]: A 10. § a 16. § (2) bekezdése alapján 2011. január 1-jén lép hatályba.
