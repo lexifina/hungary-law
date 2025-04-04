@@ -32,6 +32,10 @@ c) gyepterületen: fás legelők és fás kaszálók, ahol a kizárólag erdész
 
 8. állatalapú nyilvántartás: az (EU) 2021/2116 európai parlamenti és tanácsi rendeletnek a közös agrárpolitika keretében működő integrált igazgatási és kontrollrendszer tekintetében történő alkalmazására vonatkozó szabályok megállapításáról szóló, 2022. május 31-i (EU) 2022/1173/EU bizottsági rendelet [a továbbiakban: (EU) 2022/1173 rendelet] 5. cikk (5) bekezdése szerinti nyilvántartás;
 
+8a.[^1] állatalapú támogatás: az (EU) 2021/2115 rendelet 31., 34. és 70. cikke szerinti állatállomány-alapú beavatkozások;
+
+8b.[^2] állategység: a különböző állatfajok állományának együttes számbavételére alkalmas, 4. melléklet szerint meghatározott egyenérték;
+
 9. bejelentett tábla: a mezőgazdasági termelő által az egységes kérelemben bejelentett, legkisebb azonos hasznosítású, összefüggő földterület és a hozzá kapcsolódó nem termelő tájképi elem, illetve egyéb tájképi elem, amelyet nem metsz kötelezettségvállalással érintett egybefüggő terület;
 
 10. bejelentett területi elem: bejelentett tábla, a másodvetés céljára használt terület, valamint az agrotechnikai művelettel érintett terület;
@@ -50,7 +54,7 @@ b) a tárgyévet megelőző évi egységes kérelemben a mezőgazdasági termel�
 
 15. egységes kérelem: a közös agrárpolitika finanszírozásáról, irányításáról és monitoringjáról, valamint az 1306/2013/EU rendelet hatályon kívül helyezéséről szóló, 2021. december 2-i (EU) 2021/2116 európai parlamenti és tanácsi rendelet (a továbbiakban: KAP II rendelet) 69. cikk (1)–(2) bekezdése alapján, az (EU) 2022/1173 rendelet 8–9. cikke szerint benyújtásra kerülő támogatási, illetve kifizetési kérelem;
 
-16. erózióvédelmi sáv: legalább három, de legfeljebb húsz méter átlagos szélességgel rendelkező és legalább harminc méter hosszú olyan fás vagy lágyszárú növényzettel borított terület, amely a rétegvonallal párhuzamosan, illetve az eróziós jegyeket mutató lefolyási útvonalon helyezkedik el, kifejezett rendeltetése a vízerózió megakadályozása vagy mérséklése és a Mezőgazdasági Parcella Azonosító Rendszerről szóló AM rendelet (a továbbiakban: MePAR rendelet) szerinti Mezőgazdasági Parcella Azonosító Rendszerben (a továbbiakban: MePAR) is lehatárolásra kerül;
+16.[^3] erózióvédelmi sáv: legalább három, de legfeljebb húsz méter átlagos szélességgel rendelkező és legalább harminc méter hosszú olyan fás vagy lágyszárú növényzettel borított terület, amely a rétegvonallal párhuzamosan, illetve az eróziós jegyeket mutató lefolyási útvonalon helyezkedik el, kifejezett rendeltetése a vízerózió megakadályozása vagy mérséklése és a Mezőgazdasági Parcella Azonosító Rendszerről szóló 22/2024. (IV. 9.) AM rendelet (a továbbiakban: MePAR rendelet) szerinti Mezőgazdasági Parcella Azonosító Rendszerben (a továbbiakban: MePAR) is lehatárolásra kerül;
 
 17. fa- és bokorcsoport: MePAR-ban meghatározott és feltüntetett, szántóterületen elhelyezkedő, 100 négyzetméternél nagyobb, de legfeljebb 5000 négyzetméter, jellemzően nem vonalas kiterjedéssel rendelkező, legalább 50%-ban fás szárú növényekkel borított terület, amely legalább 20%-ban, gyep felszínborítással is történő érintkezés esetén pedig legalább 50%-ban szántóval van körülvéve;
 
@@ -140,11 +144,11 @@ c) a 16. §-ban meghatározott minimumtevékenységek elvégzése a természetes
 
 52. nagymértékű, súlyos, maradandó fás szárú gyomosodás: a fás szárú gyomnövény bármely szomszédos földterületre történő átterjedése, vagy ha a vizsgált tábla esetében a földterületen 100 db/hektárt meghaladó mértékben található olyan fás szárú gyomnövény, amelynek lombkorona alatti területe nem tartalmaz legeltethető vegetációt, vagy a fás szárú gyomnövény eltávolítása az alapkultúra károsodása nélkül nem hajtható végre, és a terület a vegetációs idő alatt mezőgazdasági művelésre alkalmassá nem tehető;
 
-53.[^1] nem támogatható terület: a MePAR rendelet 1. § 12. pontja szerinti terület;
+53.[^4] nem támogatható terület: a MePAR rendelet 1. § 12. pontja szerinti terület;
 
 54. nem termelő beruházás keretében, szántóföldön létrehozott erózióvédelmi létesítmény: nem termelő beruházás keretében, szántóföldön létrehozott erózióvédelmi létesítmény, amely a MePAR-ban is lehatárolásra kerül;
 
-55. nem termelő terület: parlagon hagyott terület, ökológiai jelentőségű másodvetés, HMKÁ 8. előírás alatt elszámolt nitrogénmegkötő növénnyel bevetett terület;
+55.[^5] nem termelő terület: parlagon hagyott terület, ökológiai jelentőségű másodvetés, nitrogénmegkötő növénnyel bevetett terület;
 
 56. növénykultúra:
 
@@ -155,6 +159,8 @@ b) a Brassicaceae (káposztafélék), Solanaceae (burgonyafélék) vagy Cucurbit
 c) a parlagon hagyott földterület vagy
 
 d) gyep vagy egyéb takarmánynövény;
+
+56a.[^6] ökológiai célú vízpótlásra használt terület: olyan vízzel borított terület, amelyen a vízborítottságot a vizek hasznosítását, védelmét és kártételeinek elhárítását szolgáló tevékenységekre és létesítményekre vonatkozó általános szabályokról szóló 147/2010. (IV. 29.) Korm. rendelet szerinti ökológiai célú vízpótlás biztosítja;
 
 57. ökológiai határsáv: a Közös Agrárpolitika Stratégiai Tervből nyújtott támogatások igénybevétele során alkalmazandó feltételekről szóló AM rendelet (a továbbiakban: Feltételességi rendelet) 1. § 12. pontja szerinti fogalom;
 
@@ -238,4 +244,12 @@ f) az „egyéb hasznosítás” rovatban bejelentett területi elemek;
 
 68. vízvédelmi sáv: a Feltételességi rendelet 1. § 22. pontja szerinti fogalom.
 
-[^1]: Az 1. § 53. pontja a 33/2024. (V. 30.) AM rendelet 35. § a) pontja szerint módosított szöveg.
+69.[^7] vizenyős terület: a MEPAR rendelet 1. § 22. pontja szerint lehatárolt terület, ha a mezőgazdasági táblán található.
+
+[^1]: Az 1. § 8a. pontját az 5/2025. (IV. 3.) AM rendelet 4. § (1) bekezdése iktatta be.
+[^2]: Az 1. § 8b. pontját az 5/2025. (IV. 3.) AM rendelet 4. § (1) bekezdése iktatta be.
+[^3]: Az 1. § 16. pontja az 5/2025. (IV. 3.) AM rendelet 19. § 1. pontja szerint módosított szöveg.
+[^4]: Az 1. § 53. pontja a 33/2024. (V. 30.) AM rendelet 35. § a) pontja szerint módosított szöveg.
+[^5]: Az 1. § 55. pontja az 5/2025. (IV. 3.) AM rendelet 19. § 2. pontja szerint módosított szöveg.
+[^6]: Az 1. § 56a. pontját az 5/2025. (IV. 3.) AM rendelet 4. § (2) bekezdése iktatta be.
+[^7]: Az 1. § 69. pontját az 5/2025. (IV. 3.) AM rendelet 4. § (3) bekezdése iktatta be.

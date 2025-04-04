@@ -8,19 +8,13 @@ b) a két vagy több növénykultúra külön sorokban történő vetésével me
 
 c) a tanúsító szervezet által tanúsított, a mezőgazdasági termékek és élelmiszerek ökológiai gazdálkodási követelmények szerinti tanúsításáról, előállításáról, forgalmazásáról, jelöléséről és ellenőrzésének eljárásrendjéről szóló 34/2013. (V. 14.) VM rendelet [a továbbiakban: 34/2013. (V. 14.) VM rendelet] szerinti ökológiai hasznosítás tényét.
 
-(3) A Feltételességi rendelet 17. §-a szerinti HMKÁ 8. előírás által érintett mezőgazdasági termelőnek az egységes kérelemben – ha a mezőgazdasági üzem kérelmezett szántóterületének mérete a helyszíni ellenőrzés megállapításán kívüli okból megváltozik, tárgyév szeptember 30-ig – kell feltüntetnie a nem termelő tájképi elemek
+(3)[^25]
 
-a) Feltételességi rendelet 17. §-a szerinti típusát,
-
-b) grafikusan megjelölt elhelyezkedését, valamint
-
-c) kiterjedését a Feltételességi rendelet 20. mellékletében foglalt fizikai kiterjedésre vonatkozó előírásoknak megfelelően.
-
-(4) A mezőgazdasági termelőnek a bejelentett területi elemek vonatkozásában az egységes kérelemben kell megneveznie az egyazon területen tárgyévben termesztett vagy termeszteni kívánt valamennyi növénykultúrát, valamint meghatároznia a tárgyévben több egymás után termesztett növénykultúrával érintett földterület nagyságát, azok fizikai elhelyezkedésének térképen történő megjelölésével. Ha a mezőgazdasági termelő az egységes kérelemben a tárgyévben egyazon területen másodvetés termesztését is bejelenti, akkor az első és minden további növénykultúra tekintetében is be kell jelenteni a vetés és a betakarítás tervezett megvalósulásának időpontját. Az egységes kérelem benyújtása után vetett növénykultúrák megvalósult vetési időpontját a 19. § szerint kell bejelenteni.
+(4)[^26] A mezőgazdasági termelőnek a bejelentett területi elemek vonatkozásában az egységes kérelemben kell megneveznie az egyazon területen tárgyévben termesztett vagy termeszteni kívánt valamennyi növénykultúrát, valamint meghatároznia a tárgyévben több egymás után termesztett növénykultúrával érintett földterület nagyságát, azok fizikai elhelyezkedésének térképen történő megjelölésével. Ha a mezőgazdasági termelő az egységes kérelemben a tárgyévben egyazon területen másodvetés termesztését is bejelenti, akkor az első és minden további növénykultúra tekintetében is be kell jelenteni a a vetés tervezett megvalósulásának időpontját. Az egységes kérelem benyújtása után vetett növénykultúrák megvalósult vetési időpontját a 19. § szerint kell bejelenteni.
 
 (5) Az AÖP rendeletben vállalt feltételek teljesítéséhez szükséges adatszolgáltatási kötelezettséget a mezőgazdasági termelő
 
-a)[^7] a 19. § szerinti agrotechnikai műveletek bejelentésével és
+a)[^27] a 19. § szerinti agrotechnikai műveletek bejelentésével és
 
 b) a növényvédőszer használattal összefüggő adatok (táblaazonosító, növényvédőszer megnevezés kijuttatás időpontja) megadásával
 
@@ -30,10 +24,18 @@ teljesíti.
 
 a) az egységes kérelem felületen a Kincstár által közleményben közzétett formában történő adatbevitellel, vagy
 
-b) a gazdálkodási napló részét képező permetezési napló papír alapon történő vezetése esetén annak egységes kérelemre történő feltöltésével
+b)[^28] a gazdálkodási napló részét képező permetezési napló papír alapon történő vezetése esetén az abban foglalt adattartalom egységes kérelemre történő felrögzítésével teljesíti.
 
 teljesíti.
 
-(7) Ha a mezőgazdasági termelő a növényvédőszer használat nyilvántartását a gazdálkodási napló tartalma alapján, a NÉBIH e célból létrehozott felületén elektronikusan vezeti, akkor a Kincstár részére a NÉBIH szolgáltatja az (5) bekezdés b) pontjában szereplő adatokat az egységes kérelem benyújtását követő év február 10. napjáig.
+(7)[^29] Ha a mezőgazdasági termelő a növényvédőszer használat nyilvántartását a gazdálkodási napló tartalma alapján, a NÉBIH e célból létrehozott felületén elektronikusan vezeti, akkor
 
-[^7]: A 7. § (5) bekezdés a) pontja a 33/2024. (V. 30.) AM rendelet 35. § g) pontja szerint módosított szöveg.
+a) a Kincstár a NÉBIH részére megküldi az egységes kérelem tartalmát a b) pont szerinti adatátadás teljesítése érdekében,
+
+b) a Kincstár részére a NÉBIH az egységes kérelem benyújtását követő év február 10. napjáig szolgáltatja a növényvédőszer használatára vonatkozó adatokat a 2022/1173 rendelet 8. cikk (3) bekezdés f) pontjában foglaltak teljesítése céljából.
+
+[^25]: A 7. § (3) bekezdését az 5/2025. (IV. 3.) AM rendelet 20. § a) pontja hatályon kívül helyezte.
+[^26]: A 7. § (4) bekezdése az 5/2025. (IV. 3.) AM rendelet 19. § 6. pontja szerint módosított szöveg.
+[^27]: A 7. § (5) bekezdés a) pontja a 33/2024. (V. 30.) AM rendelet 35. § g) pontja szerint módosított szöveg.
+[^28]: A 7. § (6) bekezdés b) pontja az 5/2025. (IV. 3.) AM rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^29]: A 7. § (7) bekezdése az 5/2025. (IV. 3.) AM rendelet 8. § (2) bekezdésével megállapított szöveg.

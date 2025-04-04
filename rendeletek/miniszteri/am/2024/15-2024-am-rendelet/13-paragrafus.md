@@ -15,3 +15,7 @@ d) a szabadidős célra használt terület,
 e) a napelempark és
 
 f) az erdészeti nyiladék.
+
+(4)[^34] Az ökológiai célú vízpótlásra használt terület esetében a mezőgazdasági terület 1. § 46. pont b) alpontja szerinti állapotban tartását vélelmezni kell a vízborítottság időtartama alatt.
+
+[^34]: A 13. § (4) bekezdését az 5/2025. (IV. 3.) AM rendelet 9. §-a iktatta be.

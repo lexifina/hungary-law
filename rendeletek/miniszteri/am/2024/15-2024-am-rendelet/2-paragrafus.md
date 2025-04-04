@@ -20,52 +20,63 @@ a) az Európai Mezőgazdasági Vidékfejlesztési Alapból a mezőgazdasági ter
 
 b) az Európai Mezőgazdasági Vidékfejlesztési Alapból az erdő-környezetvédelmi intézkedésekhez nyújtandó támogatások részletes feltételeiről szóló 124/2009. (IX. 24.) FVM rendelet [a továbbiakban: 124/2009. (IX. 24.) FVM rendelet] alapján igénybe vehető támogatás.
 
-(3) E rendelet hatálya kiterjed az EMVA-ból finanszírozott, a 2014–2020 programozási időszakban a Vidékfejlesztési Program keretében meghirdetett, következő kódszámú és megnevezésű támogatásokra:
+(3)[^8] E rendelet hatálya kiterjed az EMVA-ból finanszírozott, a 2014–2020 programozási időszakban a Vidékfejlesztési Program keretében meghirdetett, következő kódszámú és megnevezésű támogatásokra:
 
-1. VP4–10.1.1–21 Agrár-környezetgazdálkodási kifizetés;
+1. VP3-14.1.1-23 A tejágazat szerkezetátalakítását kísérő állatjóléti támogatás kifizetése;
 
-2. VP4–11.1.1–11.2.1–21 Ökológiai gazdálkodásra történő áttérés, ökológiai gazdálkodás fenntartása;
+2. VP3-14.1.3-22 Kiskérődző állatjóléti támogatás kifizetése;
 
-3. VP5–8.1.1–16 Erdősítés támogatása;
+3. VP3-14.1.2-22 Méh állatjóléti támogatás kifizetése;
 
-4. VP4–4.4.2.2–16 Vízvédelmi célú nem termelő beruházások: vízvédelmi és vizes élőhely létrehozása, fejlesztése;
+4. VP4-10.2.1.1-21 A védett őshonos és veszélyeztetett mezőgazdasági állatfajták genetikai állományának in situ megőrzés támogatás kifizetése;
 
-5. VP4–11.1.1–11.2.1–18 Ökológiai gazdálkodásra történő áttérés, ökológiai gazdálkodás fenntartása;
+5. VP5-8.1.1-16 Erdősítés támogatás kifizetése;
 
-6. VP3–14.1.1–23 A tejágazat szerkezetátalakítását kísérő állatjóléti támogatás;
+6. VP5-8.3.1-17 Az erdőgazdálkodási potenciálban okozott erdőkárok megelőzés támogatás kifizetése;
 
-7. VP4–10.2.1.2–17 Védett őshonos és veszélyeztetett mezőgazdasági állatfajták genetikai állományának ex situ vagy in vitro megőrzése, továbbá a genetikai beszűkülést megelőző tanácsadói tevékenységek támogatása;
+7. VP4-15.1.1-17 Erdő-környezetvédelmi kifizetése;
 
-8. VP4–10.2.1.1–21 A védett őshonos és veszélyeztetett mezőgazdasági állatfajták genetikai állományának in situ megőrzése;
+8. VP5-8.2.1-16 Agrár-erdészeti rendszerek létrehozás támogatás kifizetése;
 
-9. VP4–15.1.1–17 Erdő-környezetvédelmi kifizetések;
+9. VP5-8.5.1-17 Az erdei ökoszisztémák ellenálló képességének és környezeti értékének növelését célzó beruházás támogatás kifizetése.
 
-10. VP5–8.2.1–16 Agrár-erdészeti rendszerek létrehozása;
+(4)[^9] E rendelet hatálya kiterjed az EMVA-ból finanszírozott, a 2023–2027 programozási időszakban a KAP Stratégiai Terv keretében meghirdetett, következő kódszámú és megnevezésű támogatásokra:
 
-11. VP5–8.3.1–17 Az erdőgazdálkodási potenciálban okozott erdőkárok megelőzése;
+1. KAP-RD23-1-24 Natura 2000 mezőgazdasági területeknek nyújtott kompenzációs támogatás;
 
-12. VP5–8.5.1–17 Az erdei ökoszisztémák ellenálló képességének és környezeti értékének növelését célzó beruházások;
+2. KAP-RD34-1-24 Erdő területeknek nyújtott Natura 2000 kompenzációs támogatás;
 
-13. VP3–14.1.3–22 Kiskérődző állatjóléti támogatás;
+3. KAP-RD41-2-24 Az erdőpotenciál abiotikus vagy biotikus károkozást követő helyreállítás támogatás;
 
-14. VP3–14.1.2–22 Méh állatjóléti támogatás és
+4. KAP-RD41-1-24 Az erdőpotenciált veszélyeztető biotikus és abiotikus károk megelőzésére vonatkozó támogatás kifizetése;
 
-15. VP3–14.1.4–22 Baromfi állatjóléti támogatás.
+5. KAP-RD24-RD26-1-24 Állati genetikai erőforrások ex situ és in vitro megőrzésének, és szakmai támogató tevékenység megvalósításának támogatás kifizetése;
 
-(4) E rendelet hatálya kiterjed az EMVA-ból finanszírozott, a 2023–2027 programozási időszakban a KAP Stratégiai Terv keretében meghirdetett, következő kódszámú és megnevezésű támogatásokra:
+6. KAP-RD31-1-24 Állatjóléti támogatás kifizetése a húshasznú szarvasmarha ágazatban;
 
-1. RD16_1_24 – Mezőgazdasági Kockázatkezelési Rendszer (MKR II. pillér): Díjtámogatott mezőgazdasági biztosítás;
+7. KAP-RD33b-1-24 Antimikrobiális rezisztencia (AMR) elleni küzdelem kompenzációs kifizetés;
 
-2. RD23_G06_NAG_72 – Natura 2000 mezőgazdasági területeknek nyújtott kompenzációs kifizetések (ST – Natura 2000 gyep);
+8. KAP-RD16-1-24 Mezőgazdasági Kockázatkezelési Rendszer (MKR II. pillér): Díjtámogatott mezőgazdasági biztosítás támogatása;
 
-3. RD34_F01_NAF_72 – Erdő területeknek nyújtott Natura 2000 kompenzációs kifizetések;
+9. KAP-RD19a-1-24 Agrár-környezetgazdálkodási kifizetések (AKG);
 
-4. RD41_F08_INN_73 – Az erdőgazdálkodás környezeti fenntarthatóságát szolgáló beruházások (non-profit) –erdőkár helyreállítás.
+10. KAP-RD20a-1-24 Ökológiai gazdálkodás támogatás kifizetése (ÖKO);
+
+11. KAP-RD21-RD22-1-24 Földhasználat váltást elősegítő beruházások és azok fenntartására vonatkozó támogatás kifizetése;
+
+12. KAP-RD38-RD39-1-24 Erdőtelepítés és fásítás támogatás kifizetése;
+
+13. KAP-RD21-RD22-2-24 Agrár-erdészeti rendszerek telepítésére és azok fenntartására vonatkozó támogatás kifizetése.
 
 (5) E rendeletet a 2. § (2)–(4) bekezdésében meghatározott támogatási rendeletek és pályázati felhívások alapján igényelhető támogatások tekintetében akkor kell alkalmazni, ha a támogatási rendeletek, pályázati felhívások vagy azokra vonatkozóan európai uniós jogi aktus eltérően nem rendelkeznek.
 
 (6) Az egységes kérelem a 2. § (1) bekezdésében meghatározott támogatások esetében – a 2. § (1) bekezdés a) pontja szerinti támogatás kivételével – támogatási és egyben kifizetési kérelemnek minősül.
 
-(7) Az egységes kérelem a 2. § (1) bekezdés a) pontjában, (2) és (3) bekezdésében meghatározott támogatások esetében kifizetési kérelemnek minősül.
+(7)[^10] Az egységes kérelem az (1) bekezdés a) pontjában, a (2) és (3) bekezdésben, valamint a (4) bekezdés 4–7. és 9–14. pontjában meghatározott támogatások esetében kifizetési kérelemnek minősül.
 
-(8) Az egységes kérelem a 2. § (4) bekezdése esetében támogatási és egyben kifizetési kérelemnek minősül.
+(8)[^11] Az egységes kérelem a (4) bekezdés 1–3. és 8. pontjában meghatározott támogatások esetében támogatási és egyben kifizetési kérelemnek minősül.
+
+[^8]: A 2. § (3) bekezdése az 5/2025. (IV. 3.) AM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^9]: A 2. § (4) bekezdése az 5/2025. (IV. 3.) AM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^10]: A 2. § (7) bekezdése az 5/2025. (IV. 3.) AM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^11]: A 2. § (8) bekezdése az 5/2025. (IV. 3.) AM rendelet 5. § (2) bekezdésével megállapított szöveg.

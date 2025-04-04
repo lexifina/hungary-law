@@ -24,6 +24,15 @@ c) a fás szárú gyümölcs- és szőlőültetvények a gyommentesen tartási k
 
 (5) Ha a nem termelő tájképi elem vagy egyéb tájképi elem vonatkozásában az inváziós növények jelenléte meghaladja az adott tájképi elem területének a 10%-át, az adott tájképi elem területe a támogatás szempontjából nem vehető figyelembe.
 
-(6) Gyep újratelepítésére tárgyév január 1. és március 31. vagy a tárgyév november 1. és december 31. közötti időszakban van lehetőség.
+(6)[^37] A (2)–(5) bekezdés nem alkalmazandó
 
-(7) Állandó kultúra újratelepítésére tárgyév január 1. és március 31. vagy a tárgyév október 1. és december 31. közötti időszakban van lehetőség.
+a) kis vizes élőhely területén a nád jelenléte vagy
+
+b) vizenyős területen és az ökológiai célú vízpótlásra használt területen a nád, a 2. melléklet szerinti veszélyes gyomnövények vagy a 3. melléklet szerinti inváziós növények jelenléte
+
+esetén.
+
+(7)[^38]
+
+[^37]: A 16. § (6) bekezdése az 5/2025. (IV. 3.) AM rendelet 11. §-ával megállapított szöveg.
+[^38]: A 16. § (7) bekezdését az 5/2025. (IV. 3.) AM rendelet 20. § b) pontja hatályon kívül helyezte.

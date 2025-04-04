@@ -1,6 +1,6 @@
 ## 4. Adatváltozás bejelentése
 
-14. § (1) A benyújtott egységes kérelemben megadott adatokra vonatkozó adatváltozás bejelentése – a 11. § (3) bekezdésében foglaltaknak megfelelően – tárgyév június 10. napját követően tehető meg az egységes kérelem felületen.
+14. § (1)[^35] A benyújtott egységes kérelemben megadott adatokra vonatkozó adatváltozás bejelentése a 11. § (3) bekezdésében foglaltaknak megfelelően – a (7) bekezdésben foglaltak kivételével – tárgyév június 9. napját követően tehető meg az egységes kérelem felületen.
 
 (2) Az adatváltozás bejelentésben benyújtott, az egységes kérelem visszavonására irányuló kérelmet a Kincstár a tárgyév december 31-ig bírálja el.
 
@@ -12,6 +12,9 @@
 
 (6) A hasznosító személyében bekövetkezett változásra vonatkozó, e rendelet szerinti rendelkezéseket abban az esetben kell alkalmazni, ha a 2. § (1) bekezdése szerinti miniszteri rendelet eltérően nem rendelkezik.
 
-(7) Az 1. § 49. pontja szerinti módosításra tárgyév június 10-ig van lehetőség a benyújtott egységes kérelem a mezőgazdasági táblák, állategyedek, törzsállományok vagy állategységek vonatkozásában.
+(7)[^36] Az 1. § 49. pontja szerinti módosításra tárgyév június 9-éig van lehetőség a benyújtott egységes kérelem a mezőgazdasági táblák, állategyedek, törzsállományok vagy állategységek vonatkozásában.
 
 (8) Ha miniszteri rendelet vagy pályázati felhívás eltérően nem rendelkezik, a (7) bekezdés rendelkezéseit alkalmazni kell az egységes kérelem 6–10. § szerinti kötelező mellékletét képező dokumentumokra is.
+
+[^35]: A 14. § (1) bekezdése az 5/2025. (IV. 3.) AM rendelet 10. §-ával megállapított szöveg.
+[^36]: A 14. § (7) bekezdése az 5/2025. (IV. 3.) AM rendelet 19. § 10. pontja szerint módosított szöveg.
