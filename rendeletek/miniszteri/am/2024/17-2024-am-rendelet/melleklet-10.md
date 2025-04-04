@@ -46,21 +46,23 @@
 
 | 23. | Kecske | magyar parlagi kecske |
 
-10. melléklet a 17/2024. (IV. 9.) AM rendelethez
+10. melléklet a 17/2024. (IV. 9.) AM rendelethez[^95]
 
 A gyakorlat22 teljesítéséhez alkalmazható sorköztakaró növények listája
 
+|  | Magyar név |
+
 | 1. | Angol perje |
 
-| 2. | Articsóka |
+| 2. | Réti perje |
 
-| 3. | Cérnatippan |
+| 3. | Articsóka |
 
-| 4. | Csicsóka |
+| 4. | Cérnatippan |
 
-| 5. | Csomós ebír |
+| 5. | Csicsóka |
 
-| 6. | Édeskömény (közönséges) |
+| 6. | Csomós ebír |
 
 | 7. | Évelő rozs |
 
@@ -68,78 +70,74 @@ A gyakorlat22 teljesítéséhez alkalmazható sorköztakaró növények listája
 
 | 9. | Fehérhere |
 
-| 10. | Fehérvirágú somkóró |
+| 10. | Korcshere (svédhere) |
 
-| 11. | Földieper (szamóca) |
+| 11. | Vöröshere / réti here |
 
-| 12. | Francia perje |
+| 12. | Fehérvirágú somkóró |
 
-| 13. | Fűszer (édes) édeskömény vagy római édeskömény |
+| 13. | Sárgavirágú somkóró (orvosi somkóró) |
 
-| 14. | Keleti kecskeruta |
+| 14. | Földieper (szamóca) |
 
-| 15. | Keverék kultúra |
+| 15. | Francia perje |
 
-| 16. | Komló |
+| 16. | Keleti kecskeruta |
 
-| 17. | Komlós lucerna |
+| 17. | Keverék kultúra |
 
-| 18. | Korcshere (svédhere) |
+| 18. | Felfutó Komló |
 
-| 19. | Koronás baltavirág |
+| 19. | Komlós lucerna |
 
-| 20. | Ligeti perje |
+| 20. | Takarmány Lucerna |
 
-| 21. | Lódi lóhere |
+| 21. | Sárkerep lucerna |
 
-| 22. | Lucerna |
+| 22. | Tarkavirágú lucerna |
 
-| 23. | Lucerna erjesztett takarmány |
+| 23. | Koronás baltavirág |
 
-| 24. | Lucerna zöldtakarmány |
+| 24. | Ligeti perje |
 
-| 25. | Méhlegelő |
+| 25. | Lódi lóhere |
 
-| 26. | Mogyorós lednek |
+| 26. | Lucerna erjesztett takarmány |
 
-| 27. | Nádképű csenkesz |
+| 27. | Lucerna zöldtakarmány |
 
-| 28. | Nyúlszapuka |
+| 28. | Méhlegelő |
 
-| 29. | Olasz édeskömény vagy gumós édeskömény |
+| 29. | Mogyorós lednek |
 
-| 30. | Pannonbükköny |
+| 30. | Nádképű csenkesz |
 
 | 31. | Réti csenkesz |
 
-| 32. | Réti komócsin |
+| 32. | Vörös csenkesz |
 
-| 33. | Réti perje |
+| 33. | Nyúlszapuka |
 
-| 34. | Sárgavirágú somkóró (orvosi somkóró) |
+| 34. | Pannonbükköny |
 
-| 35. | Sárkerep lucerna |
+| 35. | Szöszösbükköny |
 
-| 36. | Sóska |
+| 36. | Réti komócsin |
 
-| 37. | Spanyol articsóka |
+| 37. | Sóska |
 
-| 38. | Szarvaskerep |
+| 38. | Spanyol articsóka |
 
-| 39. | Szeradella |
+| 39. | Szarvaskerep |
 
-| 40. | Szöszösbükköny |
+| 40. | Szeradella |
 
-| 41. | Takarmánybaltacim |
+| 41. | Baltacím (takarmánybaltacim) |
 
 | 42. | Tarka koronafürt |
 
-| 43. | Tarkavirágú lucerna |
+| 43. | Zöld Pántlikafű |
 
-| 44. | Vörös csenkesz |
+| 44. | Zöldugar kultúra |
 
-| 45. | Vöröshere |
-
-| 46. | Zöld Pántlikafű |
-
-| 47. | Zöldugar kultúra |
+[^95]: A 10. melléklet az 5/2025. (IV. 3.) AM rendelet 47. § (6) bekezdésével megállapított szöveg.

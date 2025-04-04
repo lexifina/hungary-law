@@ -1,4 +1,4 @@
-|  | Növény neve |
+|  | Magyar név |
 
 | 1. | Őszi búza |
 
@@ -52,167 +52,159 @@
 
 | 26. | Lóbab (Disznóbab) |
 
-| 27. | Fehérvirágú édes csillagfürt |
+| 27. | Takarmánybükköny (tavaszi bükköny) |
 
-| 28. | Fehérvirágú édes csillagfürt (takarmány célra) |
+| 28. | Szöszösbükköny |
 
-| 29. | Fehérvirágú édes csillagfürt (zöldtrágyázásra) |
+| 29. | Pannonbükköny |
 
-| 30. | Sárgavirágú édes csillagfürt |
+| 30. | Szegletes lednek (szögesborsó) |
 
-| 31. | Sárgavirágú édes csillagfürt (takarmány célra) |
+| 31. | Őszi káposztarepce (olajrepce) |
 
-| 32. | Sárgavirágú édes csillagfürt (zöldtrágyázásra) |
+| 32. | Fehér mustár |
 
-| 33. | Kékvirágú édes csillagfürt |
+| 33. | Mák (őszi) |
 
-| 34. | Kékvirágú édes csillagfürt (takarmány célra) |
+| 34. | Olajretek |
 
-| 35. | Kékvirágú édes csillagfürt (zöldtrágyázásra) |
+| 35. | Négermag |
 
-| 36. | Takarmánybükköny (Tavaszi bükköny) |
+| 36. | Őszi fokhagyma |
 
-| 37. | Szöszösbükköny |
+| 37. | Őszi vöröshagyma |
 
-| 38. | Pannonbükköny |
+| 38. | Takarmány Lucerna |
 
-| 39. | Szegletes lednek |
+| 39. | Lucerna erjesztett takarmány |
 
-| 40. | Őszi káposztarepce |
+| 40. | Lucerna zöldtakarmány |
 
-| 41. | Fehér mustár |
+| 41. | Komlós lucerna |
 
-| 42. | Mák (őszi) |
+| 42. | Sárkerep lucerna |
 
-| 43. | Olajretek |
+| 43. | Tarkavirágú lucerna |
 
-| 44. | Négermag |
+| 44. | Vöröshere / réti here |
 
-| 45. | Őszi fokhagyma |
+| 45. | Bíborhere |
 
-| 46. | Őszi vöröshagyma |
+| 46. | Fehérhere |
 
-| 47. | Lucerna |
+| 47. | Korcshere (svédhere) |
 
-| 48. | Lucerna erjesztett takarmány |
+| 48. | Perzsahere (fonákhere) |
 
-| 49. | Lucerna zöldtakarmány |
+| 49. | Alexandriai here |
 
-| 50. | Komlós lucerna |
+| 50. | Lódi lóhere |
 
-| 51. | Sárkerep lucerna |
+| 51. | Sárgavirágú somkóró (orvosi somkóró) |
 
-| 52. | Tarkavirágú lucerna |
+| 52. | Fehérvirágú somkóró |
 
-| 53. | Vöröshere |
+| 53. | Takarmánybaltacim |
 
-| 54. | Bíborhere |
+| 54. | Szarvaskerep |
 
-| 55. | Fehérhere |
+| 55. | Nyúlszapuka |
 
-| 56. | Korcshere (svédhere) |
+| 56. | Szeradella |
 
-| 57. | Perzsahere (fonákhere) |
+| 57. | Koronás baltavirág |
 
-| 58. | Alexandriai here |
+| 58. | Réparepce |
 
-| 59. | Lódi lóhere |
+| 59. | Tifon |
 
-| 60. | Sárgavirágú somkóró (orvosi somkóró) |
+| 60. | Tarlórépa |
 
-| 61. | Fehérvirágú somkóró |
+| 61. | Takarmányrépa |
 
-| 62. | Takarmánybaltacim |
+| 62. | Csicsóka |
 
-| 63. | Szarvaskerep |
+| 63. | Murokrépa (vadmurok) |
 
-| 64. | Nyúlszapuka |
+| 64. | Közönséges tarka koronafürt |
 
-| 65. | Szeradella |
+| 65. | Görög széna |
 
-| 66. | Koronás baltavirág |
+| 66. | Keleti kecskeruta |
 
-| 67. | Réparepce |
+| 67. | Mézontófüvek (Facéliák) |
 
-| 68. | Tifon |
+| 68. | Takarmánymályva |
 
-| 69. | Tarlórépa |
+| 69. | Lósóska |
 
-| 70. | Takarmányrépa |
+| 70. | Ebtippan |
 
-| 71. | Csicsóka |
+| 71. | Óriás tippan |
 
-| 72. | Murokrépa |
+| 72. | Fehér tippan |
 
-| 73. | Tarka koronafürt |
+| 73. | Cérnatippan |
 
-| 74. | Görög széna |
+| 74. | Francia perje |
 
-| 75. | Keleti kecskeruta |
+| 75. | Csenkeszperje |
 
-| 76. | Mézontófű (Facélia) |
+| 76. | Olasz perje (szálkás perje) |
 
-| 77. | Füves lucerna |
+| 77. | Angol perje |
 
-| 78. | Füves here |
+| 78. | Hibrid perje |
 
-| 79. | Takarmánymályva |
+| 79. | Ligeti perje |
 
-| 80. | Lósóska |
+| 80. | Réti perje |
 
-| 81. | Füves mezsgye |
+| 81. | Mocsári perje |
 
-| 82. | Ebtippan |
+| 82. | Sovány perje |
 
-| 83. | Óriás tippan |
+| 83. | Magyar rozsnok |
 
-| 84. | Fehér tippan |
+| 84. | Zöld Pántlikafű |
 
-| 85. | Cérnatippan |
+| 85. | Csomós ebír |
 
-| 86. | Francia perje |
+| 86. | Nádképű csenkesz |
 
-| 87. | Csenkeszperje |
+| 87. | Juhcsenkesz |
 
-| 88. | Olasz perje (szálkás perje) |
+| 88. | Réti csenkesz |
 
-| 89. | Angol perje |
+| 89. | Vörös csenkesz |
 
-| 90. | Hibrid perje |
+| 90. | Veresnadrág csenkesz |
 
-| 91. | Ligeti perje |
+| 91. | Gumós komócsin |
 
-| 92. | Réti perje |
+| 92. | Réti komócsin |
 
-| 93. | Mocsári perje |
+| 93. | Sziki kender |
 
-| 94. | Sovány perje |
+| 94. | Abesszin (etiópiai) mustár |
 
-| 95. | Magyar rozsnok |
+| 95. | Meliorációs retek |
 
-| 96. | Zöld Pántlikafű |
+| 96. | Takarmánycirok |
 
-| 97. | Csomós ebír |
+| 97. | Seprűcirok |
 
-| 98. | Nádképű csenkesz |
+| 98. | Tavaszi takarmányborsó |
 
-| 99. | Juhcsenkesz |
+| 99. | Lencse |
 
-| 100. | Réti csenkesz |
+| 100. | Tehénborsó |
 
-| 101. | Vörös csenkesz |
+| 101. | Takarmányrepce |
 
-| 102. | Veresnadrág csenkesz |
+| 102. | Napraforgó |
 
-| 103. | Gumós komócsin |
-
-| 104. | Réti komócsin |
-
-| 105. | Sziki kender |
-
-| 106. | Abesszin (etiópiai) mustár |
-
-| 107. | Meliorációs retek |
+| 103. | Olajlen |
 
 7. melléklet a 17/2024. (IV. 9.) AM rendelethez
 

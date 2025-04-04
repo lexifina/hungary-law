@@ -1,3 +1,5 @@
+|  | Magyar név |
+
 | 1. | Őszi búza |
 
 | 2. | Tavaszi búza |
@@ -60,96 +62,74 @@
 
 | 31. | Homoki bab (tehénborsó) |
 
-| 32. | Fehérvirágú édes csillagfürt |
+| 32. | Lencse |
 
-| 33. | Fehérvirágú édes csillagfürt (takarmány célra) |
+| 33. | Takarmánybükköny (Tavaszi bükköny) |
 
-| 34. | Fehérvirágú édes csillagfürt (zöldtrágyázásra) |
+| 34. | Csicseriborsó |
 
-| 35. | Sárgavirágú édes csillagfürt |
+| 35. | Szegletes lednek (szögesborsó) |
 
-| 36. | Sárgavirágú édes csillagfürt (takarmány célra) |
+| 36. | Őszi káposztarepce |
 
-| 37. | Sárgavirágú édes csillagfürt (zöldtrágyázásra) |
+| 37. | Tavaszi káposztarepce |
 
-| 38. | Kékvirágú édes csillagfürt |
+| 38. | Fehér mustár |
 
-| 39. | Kékvirágú édes csillagfürt (takarmány célra) |
+| 39. | Fekete mustár |
 
-| 40. | Kékvirágú édes csillagfürt (zöldtrágyázásra) |
+| 40. | Retek |
 
-| 41. | Lencse |
+| 41. | Olajretek |
 
-| 42. | Takarmánybükköny (Tavaszi bükköny) |
+| 42. | Takarmányretek |
 
-| 43. | Csicseriborsó |
+| 43. | Vadrepce |
 
-| 44. | Szegletes lednek |
+| 44. | Gomborka (magvas) |
 
-| 45. | Őszi káposztarepce |
+| 45. | Karfiol |
 
-| 46. | Tavaszi káposztarepce |
+| 46. | Brokkoli |
 
-| 47. | Fehér mustár |
+| 47. | Bimbóskel |
 
-| 48. | Fekete mustár |
+| 48. | Fejes káposzta |
 
-| 49. | Retek |
+| 49. | Kelkáposzta |
 
-| 50. | Olajretek |
+| 50. | Vöröskáposzta |
 
-| 51. | Takarmányretek |
+| 51. | Takarmánykáposzta |
 
-| 52. | Vadrepce |
+| 52. | Karalábé |
 
-| 53. | Gomborka (magvas) |
+| 53. | Kínai kel |
 
-| 54. | Karfiol |
+| 54. | Zsázsa |
 
-| 55. | Brokkoli |
+| 55. | Borsmustár (rukkola) |
 
-| 56. | Bimbóskel |
+| 56. | Réparepce |
 
-| 57. | Fejes káposzta |
+| 57. | Tifon |
 
-| 58. | Kelkáposzta |
+| 58. | Tarlórépa |
 
-| 59. | Vöröskáposzta |
+| 59. | Fűszerkömény |
 
-| 60. | Takarmánykáposzta |
+| 60. | Keverék kultúra |
 
-| 61. | Karalábé |
+| 61. | Abesszin (etiópiai) mustár |
 
-| 62. | Kínai kel |
+| 62. | Meliorációs retek |
 
-| 63. | Zsázsa |
+| 63. | Muskotály zsálya |
 
-| 64. | Torma |
+| 64. | Terjőke kígyószisz |
 
-| 65. | Borsmustár (rukkola) |
-
-| 66. | Réparepce |
-
-| 67. | Tifon |
-
-| 68. | Tarlórépa |
-
-| 69. | Digitalis |
-
-| 70. | Fűszerkömény |
-
-| 71. | Lestyán |
-
-| 72. | Keverék kultúra |
-
-| 73. | Abesszin (etiópiai) mustár |
-
-| 74. | Meliorációs retek |
-
-| 75. | Muskotály zsálya |
-
-| 76. | Terjőke kígyószisz |
-
-2. melléklet a 17/2024. (IV. 9.) AM rendelethez
+2. melléklet a 17/2024. (IV. 9.) AM rendelethez[^90]
 
 Különleges állandó kultúrák listája
+
+[^90]: A 2. melléklet az 5/2025. (IV. 3.) AM rendelet 47. § (2) bekezdésével megállapított szöveg.

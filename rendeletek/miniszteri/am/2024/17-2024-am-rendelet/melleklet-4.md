@@ -1,115 +1,119 @@
 |  | A | B |
 
-| 1. | Megnevezés magyarul | Megnevezés latinul |
+| 1. | Magyar név | Tudományos (latin) név |
 
-| 2. | Lucerna | Medicago sativa L. |
+| 2. | Takarmány Lucerna | Medicago sativa |
 
 | 3. | Komlós lucerna | Medicago lupulina |
 
-| 4. | Takarmány lucerna alexandriai | Medicago sativa |
+| 4. | Sárkerep lucerna | Medicago falcata |
 
 | 5. | Alexandriai here | Trifolium alexandrinum |
 
-| 6. | Vöröshere | Trifolium pratense L. |
+| 6. | Vöröshere / réti here | Trifolium pratense |
 
-| 7. | Bíborhere | Trifolium incarnatum L. |
+| 7. | Bíborhere | Trifolium incarnatum |
 
-| 8. | Fehérhere | Trifolium repens L. |
+| 8. | Fehérhere | Trifolium repens |
 
-| 9. | Mézontófű (facélia) | Phacelia tanacetifolia |
+| 9. | Korcshere (svédhere) | Trifolium hybridum |
 
-| 10. | Pohánka (hajdina) | Fagopyrum esculentum |
+| 10. | Mézontófüvek (facéliák) | Phacelia tanacetifolia és Ph. Congesta |
 
-| 11. | Őszi káposztarepce | Brassica napus L. ssp. Oleifera biennis |
+| 11. | Pohánka (hajdina) | Fagopyrum esculentum |
 
-| 12. | Baltacím | Onobrychis viciifolia |
+| 12. | Őszi káposztarepce (olajrepce) | Brassica × napus subsp. napus. |
 
-| 13. | Napraforgó | Helianthus annuus |
+| 13. | Baltacím (takarmánybaltacim) | Onobrychis viciifolia |
 
-| 14. | Orvosi somkóró | Melilotus officinalis Desr. |
+| 14. | Napraforgó | Helianthus annuus |
 
-| 15. | Fehérvirágú somkóró | Melilotus alba |
+| 15. | Sárgavirágú somkóró (orvosi somkóró) | Melilotus officinalis Desr. |
 
-| 16. | Fehér mustár | Sinapis alba |
+| 16. | Fehérvirágú somkóró | Melilotus alba |
 
-| 17. | Fehérvirágú édes csillagfürt | Lupinus albus L. |
+| 17. | Fehér mustár | Sinapis alba |
 
-| 18. | Sárgavirágú édes csillagfürt | Lupinus luteus L. |
+| 18. | Olajretek | Raphanus sativus convar. oleiferus |
 
-| 19. | Kékvirágú édes csillagfürt | Lupinus angustifolius L. |
+| 19. | Kerti borágó | Borago officinalis |
 
-| 20. | Olajretek | Raphanus sativus L. convar, oleiferus (Mill.) Metzger |
+| 20. | Borsos menta (Borsmenta) | Mentha × piperita |
 
-| 21. | Borágó | Borago officinalis L. |
+| 21. | Csombormenta | Mentha pulegium |
 
-| 22. | Borsmenta | Mentha × piperita |
+| 22. | Lómenta | Mentha longifolia |
 
-| 23. | Csombormenta | Mentha pulegium L. |
+| 23. | Orvosi citromfű | Melissa officinalis |
 
-| 24. | Lómenta | Mentha longifolia |
+| 24. | Ánizs | Pimpinella anisum |
 
-| 25. | Citromfű | Melissa officinalis |
+| 25. | Kerti koriander | Coriandrum sativum |
 
-| 26. | Ánizs | Pimpinella anisum |
+| 26. | Kígyószisz (terjőke kígyószisz) | Echium vulgare |
 
-| 27. | Koriander | Coriandrum sativum |
+| 27. | Magas kígyószisz | Echium italicum |
 
-| 28. | Kígyószisz | Echium vulgare |
+| 28. | Nyúlszapuka | Anthyllis vulneraria |
 
-| 29. | Nyúlszapuka | Anthyllis vulneraria |
+| 29. | Bíbor kasvirág | Echinacea purpurea |
 
-| 30. | Bíbor kasvirág | Echinacea purpurea |
+| 30. | Orvosi zsálya (kerti zsálya) | Salvia officinalis |
 
-| 31. | Pillangóvirág | Cosmos bipinnatus |
+| 31. | Muskotályzsálya | Salvia sclarea |
 
-| 32. | Orvosi zsálya | Salvia officinalis |
+| 32. | Ligeti zsálya | Salvia nemorosa |
 
-| 33. | Muskotályzsálya | Salvia sclarea |
+| 33. | Kerti izsóp | Hyssopus officinalis |
 
-| 34. | Ligeti zsálya | Salvia nemorosa |
+| 34. | Ánizs izsóp (ánizsillatú izsópfű) | Agastache phoeniculum |
 
-| 35. | Kerti izsóp | Hyssopus officinalis |
+| 35. | Bazsalikom | Ocimum basilicum |
 
-| 36. | Ánizs izsóp | Agastache phoeniculum |
+| 36. | Oregánó (közönséges szurokfű) | Origanum vulgare |
 
-| 37. | Bazsalikom | Ocimum basilicum L. |
+| 37. | Kakukkfű fajok | Thymus sp. |
 
-| 38. | Oregánó | Origanum vulgare |
+| 38. | Szöszösbükköny | Vicia villosa Roth |
 
-| 39. | Kakukkfű | Thymus serpyllum |
+| 39. | Takarmánybükköny (tavaszi bükköny) | Vicia sativa |
 
-| 40. | Szöszösbükköny | Vicia villosa Roth |
+| 40. | Pannonbükköny | Vicia pannonica |
 
-| 41. | Takarmánybükköny (tavaszi bükköny) | Vicia sativa |
+| 41. | Kerti mák | Papaver somniferum |
 
-| 42. | Pannonbükköny | Vicia pannonica |
+| 42. | Szarvaskerep | Lotus corniculatus |
 
-| 43. | Kerti mák | Papaver somniferum |
+| 43. | Közönséges levendula | Lavandula angustifolia |
 
-| 44. | Szarvaskerep | Lotus corniculatus |
+| 44. | Közönséges tarka koronafürt | Securinega varia |
 
-| 45. | Korcshere (svédhere) | Trifolium hybridum L. |
+| 45. | Sáfrányos szeklice (kerti pórsáfrány) | Carthamus |
 
-| 46. | Levendula | Lavandula angustifolia |
+| 46. | Vadpórsáfrány | Carthamus lanatus |
 
-| 47. | Tarka koronafürt | Securinega varia |
+| 47. | Mogyorós lednek | Lathyrus tuberosus |
 
-| 48. | Sáfrányos szeklice | Carthamus tinctorius L. |
+| 48. | Szegletes lednek (szögesborsó) | Lathyrus sativus |
 
-| 49. | Sárkerep lucerna | Medicago falcata |
+| 49. | Szöszös ökörfarkkóró | Verbascum phlomoides |
 
-| 50. | Mogyorós lednek | Lathyrus tuberosus |
+| 50. | Murokrépa (vadmurok) | Daucus carota subsp. carota |
 
-| 51. | Szegletes lednek | Lathyrus sativus |
+| 51. | Homoki baltacim | Consolida regalis |
 
-| 52. | Réti komócsin | Phleum pratense |
+| 52. | Citromkocsord | Peucedanum oreoselinum |
 
-| 53. | Szöszös ökörfarkkóró | Verbascum phlomoides |
+| 53. | Réti peremizs | Inula britannica |
 
-| 54. | Murokrépa | Daucus carota L. |
+| 54. | Mezei szarkaláb | Consolida regalis |
 
-| 55. | Édeskömény – magtermesztés céljára szolgáló típusa | Foeniculum vulgare var. vulgare |
+| 55. | Tarlóvirág (egynyári tisztesfű) | Stachys annua |
 
-4. melléklet a 17/2024. (IV. 9.) AM rendelethez
+| 56. | Örménygyökér | Inula helenium |
+
+4. melléklet a 17/2024. (IV. 9.) AM rendelethez[^92]
 
 Választható gyakorlatok pontozási rendszere
+
+[^92]: A 4. melléklet az 5/2025. (IV. 3.) AM rendelet 47. § (4) bekezdésével megállapított szöveg.

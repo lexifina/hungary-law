@@ -1,13 +1,5 @@
-|  | A | B | C |
-
-| 1. | Igénylés éve | 2024–2026 | 2027 |
-
-| 2. | Támogatási keretösszeg | 202 125 000 | 186 500 000 |
-
-| 3. | Fajlagos támogatási összeg minimuma | 60,64 | 55,95 |
-
-| 4. | Fajlagos támogatási összeg maximuma | 105,10 | 96,98 |
-
-6. melléklet a 17/2024. (IV. 9.) AM rendelethez
+6. melléklet a 17/2024. (IV. 9.) AM rendelethez[^94]
 
 A gyakorlat1 teljesítéséhez alkalmazható talajtakaró növények listája
+
+[^94]: A 6. melléklet az 5/2025. (IV. 3.) AM rendelet 47. § (5) bekezdésével megállapított szöveg.

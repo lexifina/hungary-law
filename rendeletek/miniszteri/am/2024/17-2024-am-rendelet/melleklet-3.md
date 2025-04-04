@@ -1,27 +1,21 @@
 |  | A | B |
 
-| 1. | Energiafű | Energiafű |
+| 1. | Sarjaztatásos, rövid vágásfordulójú energetikai célú fás szárú ültetvény | Nyár (sarjaztatásos, rövid vágásfordulójú) |
 
-| 2. | Sarjaztatásos, rövid vágásfordulójú energetikai célú fás szárú ültetvény | Nyár (sarjaztatásos, rövid vágásfordulójú) |
+| 2. | Fűz (sarjaztatásos, rövid vágásfordulójú) |
 
-| 3. | Fűz (sarjaztatásos, rövid vágásfordulójú) |
+| 3. | Kőris (sarjaztatásos, rövid vágásfordulójú) |
 
-| 4. | Kőris (sarjaztatásos, rövid vágásfordulójú) |
+| 4. | Éger (sarjaztatásos, rövid vágásfordulójú) |
 
-| 5. | Éger (sarjaztatásos, rövid vágásfordulójú) |
+| 5. | Juhar (sarjaztatásos, rövid vágásfordulójú) |
 
-| 6. | Juhar (sarjaztatásos, rövid vágásfordulójú) |
+| 6. | Ipari faültetvény | Akácos |
 
-| 7. | Olasznád | Olasznád |
+| 7. | Nemes nyáras |
 
-| 8. | Energia Miscanthus | Energia Miscanthus |
-
-| 9. | Szilfium | Szilfium |
-
-| 10. | Ipari faültetvény | Akácos |
-
-| 11. | Nemes nyáras |
-
-3. melléklet a 17/2024. (IV. 9.) AM rendelethez
+3. melléklet a 17/2024. (IV. 9.) AM rendelethez[^91]
 
 Méhlegelő növényfajok listája
+
+[^91]: A 3. melléklet az 5/2025. (IV. 3.) AM rendelet 47. § (3) bekezdésével megállapított szöveg.
