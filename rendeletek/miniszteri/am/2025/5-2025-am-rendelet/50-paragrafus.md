@@ -1,0 +1,5 @@
+## 6. A Közös Agrárpolitika Stratégiai Tervből finanszírozott fenntarthatóságot elősegítő alapszintű-jövedelemtámogatás, az ahhoz kapcsolódó átmeneti nemzeti támogatás, valamint a fenntarthatóságot elősegítő, átcsoportosítással nyújtható kiegészítő jövedelemtámogatás igénybevételével kapcsolatos egyes kérdésekről szóló 18/2024. (IV. 9.) AM rendelet módosítása
+
+50. § A Közös Agrárpolitika Stratégiai Tervből finanszírozott fenntarthatóságot elősegítő alapszintű-jövedelemtámogatás, az ahhoz kapcsolódó átmeneti nemzeti támogatás, valamint a fenntarthatóságot elősegítő, átcsoportosítással nyújtható kiegészítő jövedelemtámogatás igénybevételével kapcsolatos egyes kérdésekről szóló 18/2024. (IV. 9.) AM rendelet [a továbbiakban: 18/2024. (IV. 9.) AM rendelet] 2. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A II. és III. fejezet szerinti támogatásokra vonatkozó 2024–2027. évi támogatási keretösszegeket, valamint a legkisebb és legmagasabb fajlagos támogatási összegek a Nemzeti Irányító Hatóság által kiadott közleményben kerülnek meghatározásra.”

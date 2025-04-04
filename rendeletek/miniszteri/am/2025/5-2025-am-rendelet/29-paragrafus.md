@@ -1,0 +1,1 @@
+29. § A 16/2024. (IV. 9.) AM rendelet 3. § (5) bekezdésben a „helyszíni vizsgálata során jelentős meg nem felelést” szövegrész helyébe a „helyszíni vizsgálata során jelentős számú meg nem felelést” szöveg lép.

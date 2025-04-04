@@ -1,0 +1,1 @@
+2. § Hatályát veszti a történelmi bázis jogosultságról szóló 106/2007. (IX. 24.) FVM rendelet 5. § (4) bekezdés b) pont záró szövegrészében a „valamint a kiegészítő történelmi bázisjogosultság” szövegrész.
