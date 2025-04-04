@@ -1,6 +1,6 @@
 3. § (1) A természetes személy mezőgazdasági termelő aktív mezőgazdasági termelőnek minősül.
 
-(2) Aktív mezőgazdasági termelőnek kell tekinteni azon jogi személyt, amely az egységes kérelemmel igényelhető egyes agrártámogatások eljárási szabályairól szóló 15/2024. (IV. 9.) AM rendelet (a továbbiakban: Egységes kérelem rendelet) 2. § (1) bekezdés b)–f) pontja és 2. § (4) bekezdés 1. pontja szerinti támogatásokra vonatkozó egységes kérelmet nyújt be, és
+(2)[^1] Aktív mezőgazdasági termelőnek kell tekinteni azon jogi személyt, amely az egységes kérelemmel igényelhető egyes agrártámogatások eljárási szabályairól szóló 15/2024. (IV. 9.) AM rendelet (a továbbiakban: Egységes kérelem rendelet) 2. § (1) bekezdés b)–f) pontja és 2. § (4) bekezdés 8. pontja szerinti támogatásokra vonatkozó egységes kérelmet nyújt be, és
 
 a) az alapján legalább 10 hektár – az Egységes kérelem rendelet 5. § (2) bekezdése szerinti – támogatható területtel rendelkezik, vagy
 
@@ -37,3 +37,5 @@ ellenőrzésére kerül sor.
 (7) A (6) bekezdés szerinti mezőgazdasági árbevételt a Kincstár erre irányuló felhívása esetén a jogi személy köteles – az annak alátámasztására a Kincstár honlapján közzétett közleményben meghatározott dokumentumok csatolásával – igazolni.
 
 (8) A (3) bekezdés e) pontja szerinti mezőgazdasági termelő – a (6) bekezdéstől eltérően – a Kincstár felhívására a létesítő okirata beküldésével igazolja, hogy megfelel az 1. § c) pontja szerinti feltételeknek.
+
+[^1]: A 3. § (2) bekezdés nyitó szövegrésze az 5/2025. (IV. 3.) AM rendelet 61. §-a szerint módosított szöveg.
