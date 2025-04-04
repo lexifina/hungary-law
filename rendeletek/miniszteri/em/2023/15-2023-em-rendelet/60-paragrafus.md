@@ -1,4 +1,4 @@
-## 27.[^124] Elektromos vagy hidrogéntöltő infrastruktúrához nyújtott beruházási támogatás
+## 27.[^144] Elektromos vagy hidrogéntöltő infrastruktúrához nyújtott beruházási támogatás
 
 60. § (1) Az elektromos vagy hidrogéntöltő infrastruktúrához beruházási támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) olyan infrastruktúra építéséhez, telepítéséhez, korszerűsítéséhez vagy bővítéséhez nyújtható, amely
 
@@ -14,4 +14,4 @@ lát el villamos energiával vagy hidrogénnel.
 
 (3) Nem nyújtható támogatás a kikötői elektromos és hidrogéntöltő infrastruktúrára irányuló beruházásokhoz.
 
-[^124]: A 27. alcím (60–60/D. §) a 9/2024. (V. 23.) EM rendelet 13. §-ával megállapított szöveg.
+[^144]: A 27. alcím (60–60/D. §) a 9/2024. (V. 23.) EM rendelet 13. §-ával megállapított szöveg.

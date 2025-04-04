@@ -1,4 +1,4 @@
-## 11.[^94] Épületek energiahatékonyságának kivételével az energiahatékonysági intézkedéshez nyújtott beruházási támogatás
+## 11.[^114] Épületek energiahatékonyságának kivételével az energiahatékonysági intézkedéshez nyújtott beruházási támogatás
 
 24. § (1) Az épületek energiahatékonyságának kivételével energiahatékonysági intézkedéshez nyújtott beruházási támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) energiamegtakarítást eredményező beruházáshoz nyújtható.
 
@@ -36,4 +36,4 @@ b) hitelesnek kell lennie a piaci körülmények, az uniós kibocsátáskeresked
 
 (9) A (4)–(8) bekezdésben foglaltak esetén nem számolhatók el a magasabb szintű energiahatékonyság eléréséhez közvetlenül nem kapcsolódó költségek.
 
-[^94]: A 11. alcím (24–25. §) a 9/2024. (V. 23.) EM rendelet 5. §-ával megállapított szöveg.
+[^114]: A 11. alcím (24–25. §) a 9/2024. (V. 23.) EM rendelet 5. §-ával megállapított szöveg.

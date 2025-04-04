@@ -1,4 +1,4 @@
-## 13.[^96] Megújuló energia, megújuló hidrogén és nagy hatásfokú kapcsolt energiatermeléshez nyújtott beruházási támogatás
+## 13.[^116] Megújuló energia, megújuló hidrogén és nagy hatásfokú kapcsolt energiatermeléshez nyújtott beruházási támogatás
 
 29. § (1) A megújuló energia, megújuló hidrogén és nagy hatásfokú kapcsolt energiatermeléshez nyújtott beruházási támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) kizárólag új vagy felújított berendezéshez nyújtható.
 
@@ -30,4 +30,4 @@ b) a tárolást szolgáló berendezés tüzelőanyag-tartalmának évi legalább
 
 (10) Megújuló energiaforrásokon alapuló, nagy hatásfokú kapcsolt energiatermeléshez közvetlenül kapcsolódó villamosenergia- és hőtárolási projektekhez nyújtott beruházási támogatás a (3) bekezdésben foglalt feltételek teljesülése esetén nyújtható.
 
-[^96]: A 13. alcím (29–30. §) a 9/2024. (V. 23.) EM rendelet 5. §-ával megállapított szöveg.
+[^116]: A 13. alcím (29–30. §) a 9/2024. (V. 23.) EM rendelet 5. §-ával megállapított szöveg.

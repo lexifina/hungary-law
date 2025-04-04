@@ -1,6 +1,6 @@
 ## 20. A közszolgáltatásért járó ellentételezés
 
-42. §[^107] (1) A közszolgáltatásért járó ellentételezés (ezen alcím alkalmazásában a továbbiakban: támogatás) kizárólag a közszolgáltatás ellátásával megbízott kedvezményezett – ide nem értve a szárazföldi közlekedést biztosító vállalkozásokat – részére nyújtható, ha
+42. §[^127] (1) A közszolgáltatásért járó ellentételezés (ezen alcím alkalmazásában a továbbiakban: támogatás) kizárólag a közszolgáltatás ellátásával megbízott kedvezményezett – ide nem értve a szárazföldi közlekedést biztosító vállalkozásokat – részére nyújtható, ha
 
 a) a támogatás összege nem haladja meg éves szinten a 15 millió eurónak megfelelő forintösszeget, és
 
@@ -40,4 +40,4 @@ f) hivatkozást a 2012/21/EU bizottsági határozatra.
 
 (10) Ha a közszolgáltatási megbízás időtartama alatt a jelen alcímben foglalt feltételek nem teljesülnek, a támogatás nyújtó az Atr. 7. §-a alapján köteles a támogatást bejelenteni az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére.
 
-[^107]: A 42. § a 19/2024. (X. 31.) EM rendelet 3. §-ával megállapított szöveg.
+[^127]: A 42. § a 19/2024. (X. 31.) EM rendelet 3. §-ával megállapított szöveg.

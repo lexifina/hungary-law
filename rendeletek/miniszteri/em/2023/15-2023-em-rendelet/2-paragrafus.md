@@ -38,19 +38,25 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 9b.[^7] dedikált energetikai infrastruktúra: a 651/2014/EU bizottsági rendelet 2. cikk 130. pont a)–g) alpontjában meghatározott azon eszközök, amelyeket egy előre meghatározott felhasználó vagy felhasználók kis csoportja részére, azok igényeire szabva hoztak létre,
 
+9c.[^8] csatlakoztatható helyszínek: a 651/2014/EU bizottsági rendelet 2. cikk 139a. pontja szerinti helyszínek,
+
+9d.[^9] csúcsidő: a nap szokásosan egyórás időszaka, amikor a hálózat általában teljes terhelés alatt van,
+
+9e.[^10] csúcsidei feltételek: azok a feltételek, amelyeket a hálózat a „csúcsidőben” várhatóan tapasztal,
+
 10. digitalizáció: a 651/2014/EU bizottsági rendelet 2. cikk 103c. pontja szerinti fejlesztés,
 
 11. diszkont kamatláb: az Atr. 2. § 3. pontja szerinti kamatláb,
 
-12.[^8] egy és ugyanazon vállalkozás: az (EU) 2023/2831 bizottsági rendelet 2. cikk (2) bekezdésében és az 1408/2013/EU bizottsági rendelet 2. cikk 2. pontjában meghatározott feltételeknek megfelelő vállalkozás,
+12.[^11] egy és ugyanazon vállalkozás: az (EU) 2023/2831 bizottsági rendelet 2. cikk (2) bekezdésében és az 1408/2013/EU bizottsági rendelet 2. cikk 2. pontjában meghatározott feltételeknek megfelelő vállalkozás,
 
-12a.[^9] egyéb termék vagy anyag: a 651/2014/EU bizottsági rendelet 2. cikk 128g. pontja szerinti termék vagy anyag,
+12a.[^12] egyéb termék vagy anyag: a 651/2014/EU bizottsági rendelet 2. cikk 128g. pontja szerinti termék vagy anyag,
 
-12b.[^10] elektromos töltőinfrastruktúra: a 651/2014/EU bizottsági rendelet 2. cikk 102a. pontja szerinti infrastruktúra,
+12b.[^13] elektromos töltőinfrastruktúra: a 651/2014/EU bizottsági rendelet 2. cikk 102a. pontja szerinti infrastruktúra,
 
 13. eljárási innováció: a 651/2014/EU bizottsági rendelet 2. cikk 97. pontja szerinti módszer alkalmazása,
 
-13a.[^11] elkülönített gyűjtés: a 651/2014/EU bizottsági rendelet 2. cikk 128i. pontja szerinti elkülönített gyűjtés,
+13a.[^14] elkülönített gyűjtés: a 651/2014/EU bizottsági rendelet 2. cikk 128i. pontja szerinti elkülönített gyűjtés,
 
 14. elsődleges mezőgazdasági termelés: az Európai Unió működéséről szóló Szerződés (a továbbiakban: EUMSz) I. mellékletében felsorolt növények vagy állati eredetű termék előállítása, ide nem értve bármely, azok lényegi tulajdonságát megváltoztató tevékenységet,
 
@@ -62,27 +68,29 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 18. energiahatékony távfűtés és távhűtés: a 651/2014/EU bizottsági rendelet 2. cikk 124. pontja szerinti távfűtés és távhűtés,
 
-18a.[^12] energiamegtakarítás: a 651/2014/EU bizottsági rendelet 2. cikk 103f. pontja szerinti megtakarítás,
+18a.[^15] energiamegtakarítás: a 651/2014/EU bizottsági rendelet 2. cikk 103f. pontja szerinti megtakarítás,
 
-18b.[^13] energiatárolás: a 651/2014/EU bizottsági rendelet 2. cikk 130c. pontja szerinti energiatárolás,
+18b.[^16] energiatárolás: a 651/2014/EU bizottsági rendelet 2. cikk 130c. pontja szerinti energiatárolás,
 
 19. élelmiszer-alapú bioüzemanyag: a 651/2014/EU bizottsági rendelet 2. cikk 113. pontja szerinti üzemanyag,
 
-19a.[^14] erőforrás-hatékonyság: a 651/2014/EU bizottsági rendelet 2. cikk 128a. pontja szerinti erőforrás-hatékonyság,
+19a.[^17] erőforrás-hatékonyság: a 651/2014/EU bizottsági rendelet 2. cikk 128a. pontja szerinti erőforrás-hatékonyság,
+
+19b.[^18] eredeti létesítmény: áttelepítés esetén az Európai Gazdasági Térségről szóló megállapodás egyik szerződő felének területén található azon létesítmény, amelyből a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval egy vállalatcsoportba tartozó beruházó áthelyezi az azonos vagy hasonló tevékenységét vagy annak egy részét,
 
 20. észszerű nyereség: a 651/2014/EU bizottsági rendelet 2. cikk 142. pontja szerinti nyereség,
 
-20a.[^15] finanszírozási hiány: a 651/2014/EU bizottsági rendelet 2. cikk 118. pontja szerinti nettó többletköltség,
+20a.[^19] finanszírozási hiány: a 651/2014/EU bizottsági rendelet 2. cikk 118. pontja szerinti nettó többletköltség,
 
 21. fizikai átengedés: a 651/2014/EU bizottsági rendelet 2. cikk 136. pontja szerinti függetlenítés,
 
-22.[^16]
+22.[^20] felhordó hálózat: a 651/2014/EU bizottsági rendelet 2. cikk 137a. pontja szerinti hálózat,
 
 23. foglalkoztatottak számának nettó növekedése: a 651/2014/EU bizottsági rendelet 2. cikk 32. pontja szerinti növekedés,
 
-23a.[^17] folyékony bio-energiahordozó: a 651/2014/EU bizottsági rendelet 2. cikk 117c. pontja szerinti folyékony bio-energiahordozó,
+23a.[^21] folyékony bio-energiahordozó: a 651/2014/EU bizottsági rendelet 2. cikk 117c. pontja szerinti folyékony bio-energiahordozó,
 
-23b.[^18] földi kiszolgálást végző mobil berendezés: a 651/2014/EU bizottsági rendelet 2. cikk 102i. pontja szerinti berendezés,
+23b.[^22] földi kiszolgálást végző mobil berendezés: a 651/2014/EU bizottsági rendelet 2. cikk 102i. pontja szerinti berendezés,
 
 24. független harmadik fél: olyan vállalkozás, amely nem minősül egy másik meghatározott vállalkozás vonatkozásában a 651/2014/EU bizottsági rendelet I. melléklet 3. cikk (2) bekezdése szerinti partnervállalkozásnak vagy (3) bekezdése szerinti kapcsolt vállalkozásnak,
 
@@ -94,7 +102,7 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 28. helyi infrastruktúra: olyan infrastruktúra, amely helyi szinten járul hozzá az üzleti és fogyasztói környezet korszerűsítéséhez és ipari bázisok fejlesztéséhez,
 
-28a.[^19] hidrogéntöltő infrastruktúra: a 651/2014/EU bizottsági rendelet 2. cikk 102b. pontja szerinti infrastruktúra,
+28a.[^23] hidrogéntöltő infrastruktúra: a 651/2014/EU bizottsági rendelet 2. cikk 102b. pontja szerinti infrastruktúra,
 
 29. hitel: olyan megállapodás, amelyben a hitelező kötelezi magát, hogy meghatározott pénzösszeget meghatározott időre a hitelfelvevő rendelkezésére bocsát, és amely a hitelfelvevőt arra kötelezi, hogy meghatározott időszakon belül visszafizesse az összeget, például kölcsön vagy egyéb finanszírozási eszköz, ideértve a lízinget is, amely a hitelező számára elsődlegesen minimumhozamot nyújt, azzal, hogy már meglévő hitel kiváltása nem finanszírozható,
 
@@ -104,13 +112,17 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 32. hivatásos sportoló: az a sportoló, aki jövedelemszerzési céllal, foglalkozásszerűen vagy más módon, ellenszolgáltatás fejében folytat sporttevékenységet,
 
-32a.[^20] hőenergia-tárolás: a 651/2014/EU bizottsági rendelet 2. cikk 130d. pontja szerinti hőenergia-tárolás,
+32a.[^24] hőenergia-tárolás: a 651/2014/EU bizottsági rendelet 2. cikk 130d. pontja szerinti hőenergia-tárolás,
 
-32b.[^21] hőszivattyú: a 651/2014/EU bizottsági rendelet 2. cikk 108b. pontja szerinti infrastruktúra,
+32b.[^25] hőszivattyú: a 651/2014/EU bizottsági rendelet 2. cikk 108b. pontja szerinti infrastruktúra,
 
-32c.[^22] hulladék: a 651/2014/EU bizottsági rendelet 2. cikk 128b. pontja szerinti hulladék,
+32c.[^26] hulladék: a 651/2014/EU bizottsági rendelet 2. cikk 128b. pontja szerinti hulladék,
 
-32d.[^23] hulladékhő: a 651/2014/EU bizottsági rendelet 2. cikk 128c. pontja szerinti hulladékhő,
+32d.[^27] hulladékhő: a 651/2014/EU bizottsági rendelet 2. cikk 128c. pontja szerinti hulladékhő,
+
+32e.[^28] hozzáférési hálózat: a 651/2014/EU bizottsági rendelet 2. cikk 137c. pontja szerinti hozzáférési hálózat,
+
+32f.[^29] hozzáférési infrastruktúra: a 651/2014/EU bizottsági rendelet 2. cikk 159. pontja szerinti infrastruktúra,
 
 33. immateriális javak: a 651/2014/EU bizottsági rendelet 2. cikk 30. pontja szerinti javak,
 
@@ -120,27 +132,29 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 36. innovációs támogató szolgáltatás: a 651/2014/EU bizottsági rendelet 2. cikk 95. pontja szerinti szolgáltatás,
 
-36a.[^24] innovatív kisvállalkozás: a 651/2014/EU bizottsági rendelet 2. cikk 80. pontja szerinti vállalkozás, amely a 651/2014/EU bizottsági rendelet I. melléklet 2. cikk (2) bekezdése szerint kisvállalkozásnak minősül,
+36a.[^30] innovatív kisvállalkozás: a 651/2014/EU bizottsági rendelet 2. cikk 80. pontja szerinti vállalkozás, amely a 651/2014/EU bizottsági rendelet I. melléklet 2. cikk (2) bekezdése szerint kisvállalkozásnak minősül,
 
-36b.[^25] intelligens töltés: a 651/2014/EU bizottsági rendelet 2. cikk 102e. pontja szerinti töltési művelet,
+36b.[^31] intelligens töltés: a 651/2014/EU bizottsági rendelet 2. cikk 102e. pontja szerinti töltési művelet,
 
 37. ipari kutatás: a 651/2014/EU bizottsági rendelet 2. cikk 85. pontja szerinti tervezett kutatás vagy kritikus vizsgálat, melynek célja új ismeretek és szakértelem megszerzése új termékek, eljárások vagy szolgáltatások kifejlesztéséhez vagy a létező termékek, eljárások vagy szolgáltatások jelentős mértékű fejlesztésének elősegítéséhez,
 
-37a.[^26] jármű: a 651/2014/EU bizottsági rendelet 2. cikk 102h. pontja szerinti jármű,
+37a.[^32] jármű: a 651/2014/EU bizottsági rendelet 2. cikk 102h. pontja szerinti jármű,
 
-37b.[^27] kapcsolt energiatermelés: a 651/2014/EU bizottsági rendelet 2. cikk 108. pontja szerinti energiatermelés,
+37b.[^33] kapcsolt energiatermelés: a 651/2014/EU bizottsági rendelet 2. cikk 108. pontja szerinti energiatermelés,
 
 38. kezességvállalás: a 651/2014/EU bizottsági rendelet 2. cikk 91. pontja szerinti kötelezettségvállalás,
 
 39. kérelmet benyújtó beruházóval egy vállalatcsoportba tartozó beruházó: az a beruházó, amely a kérelmet benyújtó beruházóval a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Sztv.) szerinti anya- vagy leányvállalati kapcsolatban áll,
 
-39a.[^28] kibocsátásmentes jármű: a 651/2014/EU bizottsági rendelet 2. cikk 102g. pontja szerinti jármű,
+39a.[^34] kibocsátásmentes jármű: a 651/2014/EU bizottsági rendelet 2. cikk 102g. pontja szerinti jármű,
 
 40. kisebb közepes piaci tőkeértékű vállalat: a 651/2014/EU bizottsági rendelet 2. cikk 103e. pontja szerinti vállalkozás,
 
 41. kísérleti fejlesztés: a 651/2014/EU bizottsági rendelet 2. cikk 86. pontja szerinti fejlesztés,
 
 42. kis- és középvállalkozás: a 651/2014/EU bizottsági rendelet I. melléklete szerint meghatározott vállalkozás,
+
+42a.[^35] kockázatfinanszírozási célú befektetés: a végső kedvezményezett kis- és középvállalkozásnak nyújtott sajáttőke- és kvázisajáttőke-befektetés, hitel, kezességvállalás, valamint ezek kombinációja,
 
 43. környezetvédelem: a 651/2014/EU bizottsági rendelet 2. cikk 101. pontja szerinti tevékenység,
 
@@ -152,19 +166,21 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 47. kvázisajáttőke-befektetés: a saját tőke és a hitelfinanszírozás közé besorolt finanszírozási forma, amely az elsőhelyi hitelnél magasabb, de a törzsrészvénynél alacsonyabb kockázattal jár, és a nemfizetéssel szemben nincs biztosítva, valamint amelynek hozama a tulajdonos számára elsősorban a célvállalkozás nyereségétől vagy veszteségétől függ,
 
-48.[^29] létesítmény: funkcionálisan megbonthatatlan egészet képező termelő vagy szolgáltató egység,
+48.[^36] létesítmény: funkcionálisan megbonthatatlan egészet képező termelő vagy szolgáltató egység,
 
-48a.[^30] lignit: a 651/2014/EU bizottsági rendelet 2. cikk 43a. pontja szerinti lignit,
+48a.[^37] lignit: a 651/2014/EU bizottsági rendelet 2. cikk 43a. pontja szerinti lignit,
+
+48b.[^38] létesítmény felvásárlása: egy létesítményhez közvetlenül kapcsolódó tárgyi eszközök és immateriális javak piaci feltételek mellett történő megvásárlása, ha a létesítmény bezárásra került, vagy – ha nem vásárolják meg – bezárásra került volna, és – kivéve, ha egy kisvállalkozást az eladónak a Polgári Törvénykönyvről szóló 2013. évi V. törvény szerinti közeli hozzátartozója vagy korábbi munkavállalója vásárol meg – a felvásárló beruházó a létesítmény tulajdonosától független harmadik fél,
 
 49. magasan képzett munkaerő: a 651/2014/EU bizottsági rendelet 2. cikk 93. pontja szerinti munkaerő,
 
 50. megújuló energia: a 651/2014/EU bizottsági rendelet 2. cikk 109. pontja szerinti energia,
 
-50a.[^31] megújuló energiaforrásokon alapuló kapcsolt energiatermelés: a 651/2014/EU bizottsági rendelet 2. cikk 108a. pontja szerinti kapcsolt energiatermelés,
+50a.[^39] megújuló energiaforrásokon alapuló kapcsolt energiatermelés: a 651/2014/EU bizottsági rendelet 2. cikk 108a. pontja szerinti kapcsolt energiatermelés,
 
-50b.[^32] megújuló hidrogén: a 651/2014/EU bizottsági rendelet 2. cikk 102c. pontja szerinti hidrogén,
+50b.[^40] megújuló hidrogén: a 651/2014/EU bizottsági rendelet 2. cikk 102c. pontja szerinti hidrogén,
 
-50c.[^33] megújuló villamos energia: a 651/2014/EU bizottsági rendelet 2. cikk 102d. pontja szerinti villamos energia,
+50c.[^41] megújuló villamos energia: a 651/2014/EU bizottsági rendelet 2. cikk 102d. pontja szerinti villamos energia,
 
 51. megvalósíthatósági tanulmány: a 651/2014/EU bizottsági rendelet 2. cikk 87. pontja szerinti tanulmány,
 
@@ -176,7 +192,7 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 55. mezőgazdasági termék forgalmazása: a 651/2014/EU bizottsági rendelet 2. cikk 8. pontja szerinti tevékenység,
 
-55a.[^34] mobil végberendezés: a 651/2014/EU bizottsági rendelet 2. cikk 102j. pontja szerinti berendezés,
+55a.[^42] mobil végberendezés: a 651/2014/EU bizottsági rendelet 2. cikk 102j. pontja szerinti berendezés,
 
 56. multifunkcionális szabadidős létesítmény: a 651/2014/EU bizottsági rendelet 55. cikk (3) bekezdése szerinti létesítmény,
 
@@ -184,7 +200,7 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 58. nagyberuházás: az az induló beruházás, amelyhez kapcsolódóan az elszámolható költségek összege az összeszámítási szabályt figyelembe véve jelenértéken meghaladja az ötvenmillió eurónak megfelelő forintösszeget,
 
-58a.[^35] nagy hatásfokú kapcsolt energiatermelés: a 651/2014/EU bizottsági rendelet 2. cikk 107. pontja szerinti energiatermelés,
+58a.[^43] nagy hatásfokú kapcsolt energiatermelés: a 651/2014/EU bizottsági rendelet 2. cikk 107. pontja szerinti energiatermelés,
 
 59. nagykereskedelmi hozzáférés: a 651/2014/EU bizottsági rendelet 2. cikk 139. pontja szerinti hozzáférés,
 
@@ -194,33 +210,45 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 62. okosfunkció-fogadási alkalmasság: a 651/2014/EU bizottsági rendelet 2. cikk 103d. pontja szerinti jellemző,
 
-63.[^36] összeszámítási szabály: a nagyberuházás elszámolható költségei kiszámításakor egyetlen beruházásnak kell tekinteni a kérelemben szereplő beruházást és a kérelmet benyújtó beruházó, valamint a kérelmet benyújtó beruházóval egy vállalatcsoportba tartozó beruházó által a kérelemben szereplő beruházás megkezdésétől számított háromszor háromszázhatvanöt napos időszakon belül a kérelemben szereplő beruházással azonos vármegyében megkezdett, ugyanazon vagy hasonló tevékenységhez kapcsolódó, regionális beruházási támogatásban részesülő beruházást,
+63.[^44] összeszámítási szabály: a nagyberuházás elszámolható költségei kiszámításakor egyetlen beruházásnak kell tekinteni a kérelemben szereplő beruházást és a kérelmet benyújtó beruházó, valamint a kérelmet benyújtó beruházóval egy vállalatcsoportba tartozó beruházó által a kérelemben szereplő beruházás megkezdésétől számított háromszor háromszázhatvanöt napos időszakon belül a kérelemben szereplő beruházással azonos vármegyében megkezdett, ugyanazon vagy hasonló tevékenységhez kapcsolódó, regionális beruházási támogatásban részesülő beruházást,
 
-63a.[^37] primerenergia: a 651/2014/EU bizottsági rendelet 2. cikk 103a. pontja szerinti energia,
+63a.[^45] primerenergia: a 651/2014/EU bizottsági rendelet 2. cikk 103a. pontja szerinti energia,
+
+63b.[^46] pályázat: támogatási program végrehajtása érdekében megjelentetett pályázati felhívás, pályázati útmutató vagy pályázati kiírás a támogatási programban való részvételre;
+
+63c.[^47] pénzügyi közvetítő: a 651/2014/EU bizottsági rendelet 2. cikk 34. pontja szerinti pénzügyi intézmény,
 
 64. regionális beruházási támogatás: a 651/2014/EU bizottsági rendelet 2. cikk 41. pontja szerinti támogatás,
 
+64b.[^48] releváns időtáv: a 651/2014/EU bizottsági rendelet 2. cikk 139f. pontja szerinti időtáv,
+
 65. saját forrás: a kedvezményezett által a projekthez igénybe vett állami támogatást, valamint az Európai Unió intézményei, ügynökségei, közös vállalkozásai vagy más szervei által központilag kezelt, a tagállam ellenőrzése alá közvetlenül vagy közvetve nem tartozó uniós finanszírozást nem tartalmazó forrás,
+
+65a.[^49] sajáttőke-befektetés: közvetlen vagy pénzügyi közvetítőn keresztül történő közvetett tőkejuttatás egy vállalkozás számára a vállalkozásban a megfelelő arányú részesedés megszerzése ellenében,
 
 66. szállítás: a 651/2014/EU bizottsági rendelet 2. cikk 5. pontja szerinti személyszállítás vagy szolgáltatás,
 
+66a.[^50] széles sávú alaphálózat: a 651/2014/EU bizottsági rendelet 2. cikk 133. pontja szerinti alaphálózat,
+
+66b.[^51] széles sávú infrastruktúra: a 651/2014/EU bizottsági rendelet 2. cikk 137. pontja szerinti infrastruktúra,
+
 67. személyi jellegű ráfordítás: a 651/2014/EU bizottsági rendelet 2. cikk 88. pontja szerinti ráfordítás,
 
-67a.[^38] szén-dioxid-leválasztás és -hasznosítás: a 651/2014/EU bizottsági rendelet 2. cikk 131b. pontja szerinti technológiák összessége,
+67a.[^52] szén-dioxid-leválasztás és -hasznosítás: a 651/2014/EU bizottsági rendelet 2. cikk 131b. pontja szerinti technológiák összessége,
 
-67b.[^39] szén-dioxid-leválasztás és -tárolás: a 651/2014/EU bizottsági rendelet 2. cikk 131a. pontja szerinti technológiák összessége,
+67b.[^53] szén-dioxid-leválasztás és -tárolás: a 651/2014/EU bizottsági rendelet 2. cikk 131a. pontja szerinti technológiák összessége,
 
 68. szénipar: az Egyesült Nemzetek Európai Gazdasági Bizottsága által a szén tekintetében megállapított és a versenyképtelen szénbányák bezárását elősegítő állami támogatásról szóló, 2010. december 10-i 2010/787/EU tanácsi határozatban (a továbbiakban: 2010/787/EU tanácsi határozat) pontosított nemzetközi kodifikációs rendszer értelmében kiváló minőségű, közepes minőségű és gyenge minőségű, A és B csoportba sorolt szén kitermelésével kapcsolatos tevékenység,
 
-68a.[^40] szennyezés: a 651/2014/EU bizottsági rendelet 2. cikk 123b. pontja szerinti szennyezés,
+68a.[^54] szennyezés: a 651/2014/EU bizottsági rendelet 2. cikk 123b. pontja szerinti szennyezés,
 
-68b.[^41] szennyező: a 651/2014/EU bizottsági rendelet 2. cikk 125. pontja szerinti személy,
+68b.[^55] szennyező: a 651/2014/EU bizottsági rendelet 2. cikk 125. pontja szerinti személy,
 
-68c.[^42] szervezési innováció: a 651/2014/EU bizottsági rendelet 2. cikk 96. pontja szerinti innováció,
+68c.[^56] szervezési innováció: a 651/2014/EU bizottsági rendelet 2. cikk 96. pontja szerinti innováció,
 
 69. szinten tartást szolgáló eszköz: olyan eszköz, amely a kedvezményezett által már használt tárgyi eszközt, immateriális javakat váltja ki anélkül, hogy a kiváltás az előállított termék, a nyújtott szolgáltatás, a termelési, valamint a szolgáltatási folyamat alapvető változását vagy bővülését eredményezné,
 
-70.[^43]
+70.[^57]
 
 71. szociális szolgáltatás: a 651/2014/EU bizottsági rendelet 2. cikk 103b. pontja szerinti szolgáltatás,
 
@@ -228,13 +256,23 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 73. támogatási intenzitás: az Atr. 2. § 15. pontja szerinti intenzitás,
 
-73a.[^44] támogatási program: az Atr. 2. § 16. pontja szerinti program,
+73a.[^58] támogatási program: az Atr. 2. § 16. pontja szerinti program,
 
 74. támogatástartalom: az Atr. 2. § 19. pontja szerinti tartalom,
 
+74a.[^59] támogatott létesítmény: áttelepítés esetén az Európai Gazdasági Térségről szóló megállapodás egy másik szerződő felének területén található azon létesítmény, ahol a támogatott beruházásra sor kerül, azaz amely létesítménybe a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval egy vállalatcsoportba tartozó beruházó áthelyezi az azonos vagy hasonló tevékenységet vagy annak egy részét,
+
 75. tárgyi eszköz: a 651/2014/EU bizottsági rendelet 2. cikk 29. pontja szerinti eszköz,
 
-75a.[^45] tiszta üzemű jármű: a 651/2014/EU bizottsági rendelet 2. cikk 102f. pontja szerinti jármű,
+75a.[^60] tiszta üzemű jármű: a 651/2014/EU bizottsági rendelet 2. cikk 102f. pontja szerinti jármű,
+
+75b.[^61] teljes finanszírozás: a 651/2014/EU bizottsági rendelet 2. cikk 37. pontja szerinti finanszírozás,
+
+75c.[^62] természetes személy: a 651/2014/EU bizottsági rendelet 2. cikk 73. pontja szerinti személy,
+
+75d.[^63] tőkebefektetés: a 651/2014/EU bizottsági rendelet 2. cikk 74. pontja szerinti befektetés,
+
+75e.[^64] tőkejuttatás: a 651/2014/EU bizottsági rendelet 2. cikk 70. pontja szerinti juttatás,
 
 76. tőzsdén nem jegyzett kis- és középvállalkozás: a 651/2014/EU bizottsági rendelet 2. cikk 76. pontja szerinti kis- és középvállalkozás,
 
@@ -242,15 +280,15 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 78. újgenerációs hozzáférési hálózat: a 651/2014/EU bizottsági rendelet 2. cikk 138. pontja szerinti hálózat,
 
-78a.[^46] újrafeldolgozás: a 651/2014/EU bizottsági rendelet 2. cikk 128. pontja szerinti tevékenység,
+78a.[^65] újrafeldolgozás: a 651/2014/EU bizottsági rendelet 2. cikk 128. pontja szerinti tevékenység,
 
-78b.[^47] újrahasználat: a 651/2014/EU bizottsági rendelet 2. cikk 126. pontja szerinti használat,
+78b.[^66] újrahasználat: a 651/2014/EU bizottsági rendelet 2. cikk 126. pontja szerinti használat,
 
-78c.[^48] újrahasználatra való előkészítés: a 651/2014/EU bizottsági rendelet 2. cikk 127. pontja szerinti előkészítés,
+78c.[^67] újrahasználatra való előkészítés: a 651/2014/EU bizottsági rendelet 2. cikk 127. pontja szerinti előkészítés,
 
-79.[^49]
+79.[^68]
 
-80.[^50] versenyeztetéses ajánlattételi eljárás: a 651/2014/EU bizottsági rendelet 2. cikk 38. pontja szerinti eljárás.
+80.[^69] versenyeztetéses ajánlattételi eljárás: a 651/2014/EU bizottsági rendelet 2. cikk 38. pontja szerinti eljárás.
 
 [^1]: A 2. § 4a. pontját a 9/2024. (V. 23.) EM rendelet 1. § (1) bekezdése iktatta be.
 [^2]: A 2. § 7a. pontját a 9/2024. (V. 23.) EM rendelet 1. § (2) bekezdése iktatta be.
@@ -259,46 +297,65 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 [^5]: A 2. § 8. pontja a 9/2024. (V. 23.) EM rendelet 1. § (3) bekezdésével megállapított szöveg.
 [^6]: A 2. § 9a. pontját a 9/2024. (V. 23.) EM rendelet 1. § (4) bekezdése iktatta be.
 [^7]: A 2. § 9b. pontját a 9/2024. (V. 23.) EM rendelet 1. § (4) bekezdése iktatta be.
-[^8]: A 2. § 12. pontja a 9/2024. (V. 23.) EM rendelet 18. § 1. pontja szerint módosított szöveg.
-[^9]: A 2. § 12a. pontját a 9/2024. (V. 23.) EM rendelet 1. § (5) bekezdése iktatta be.
-[^10]: A 2. § 12b. pontját a 9/2024. (V. 23.) EM rendelet 1. § (5) bekezdése iktatta be.
-[^11]: A 2. § 13a. pontját a 9/2024. (V. 23.) EM rendelet 1. § (6) bekezdése iktatta be.
-[^12]: A 2. § 18a. pontját a 9/2024. (V. 23.) EM rendelet 1. § (7) bekezdése iktatta be.
-[^13]: A 2. § 18b. pontját a 9/2024. (V. 23.) EM rendelet 1. § (7) bekezdése iktatta be.
-[^14]: A 2. § 19a. pontját a 9/2024. (V. 23.) EM rendelet 1. § (8) bekezdése iktatta be.
-[^15]: A 2. § 20a. pontját a 9/2024. (V. 23.) EM rendelet 1. § (9) bekezdése iktatta be.
-[^16]: A 2. § 22. pontját a 9/2024. (V. 23.) EM rendelet 19. § a) pontja hatályon kívül helyezte.
-[^17]: A 2. § 23a. pontját a 9/2024. (V. 23.) EM rendelet 1. § (10) bekezdése iktatta be.
-[^18]: A 2. § 23b. pontját a 9/2024. (V. 23.) EM rendelet 1. § (10) bekezdése iktatta be.
-[^19]: A 2. § 28a. pontját a 9/2024. (V. 23.) EM rendelet 1. § (11) bekezdése iktatta be.
-[^20]: A 2. § 32a. pontját a 9/2024. (V. 23.) EM rendelet 1. § (12) bekezdése iktatta be.
-[^21]: A 2. § 32b. pontját a 9/2024. (V. 23.) EM rendelet 1. § (12) bekezdése iktatta be.
-[^22]: A 2. § 32c. pontját a 9/2024. (V. 23.) EM rendelet 1. § (12) bekezdése iktatta be.
-[^23]: A 2. § 32d. pontját a 9/2024. (V. 23.) EM rendelet 1. § (12) bekezdése iktatta be.
-[^24]: A 2. § 36a. pontját a 9/2024. (V. 23.) EM rendelet 1. § (13) bekezdése iktatta be.
-[^25]: A 2. § 36b. pontját a 9/2024. (V. 23.) EM rendelet 1. § (13) bekezdése iktatta be.
-[^26]: A 2. § 37a. pontját a 9/2024. (V. 23.) EM rendelet 1. § (14) bekezdése iktatta be.
-[^27]: A 2. § 37b. pontját a 9/2024. (V. 23.) EM rendelet 1. § (14) bekezdése iktatta be.
-[^28]: A 2. § 39a. pontját a 9/2024. (V. 23.) EM rendelet 1. § (15) bekezdése iktatta be.
-[^29]: A 2. § 48. pontja a 9/2024. (V. 23.) EM rendelet 1. § (16) bekezdésével megállapított szöveg.
-[^30]: A 2. § 48a. pontját a 9/2024. (V. 23.) EM rendelet 1. § (16) bekezdése iktatta be.
-[^31]: A 2. § 50a. pontját a 9/2024. (V. 23.) EM rendelet 1. § (17) bekezdése iktatta be.
-[^32]: A 2. § 50b. pontját a 9/2024. (V. 23.) EM rendelet 1. § (17) bekezdése iktatta be.
-[^33]: A 2. § 50c. pontját a 9/2024. (V. 23.) EM rendelet 1. § (17) bekezdése iktatta be.
-[^34]: A 2. § 55a. pontját a 9/2024. (V. 23.) EM rendelet 1. § (18) bekezdése iktatta be.
-[^35]: A 2. § 58a. pontját a 9/2024. (V. 23.) EM rendelet 1. § (19) bekezdése iktatta be.
-[^36]: A 2. § 63. pontja a 9/2024. (V. 23.) EM rendelet 18. § 2. pontja szerint módosított szöveg.
-[^37]: A 2. § 63a. pontját a 9/2024. (V. 23.) EM rendelet 1. § (20) bekezdése iktatta be.
-[^38]: A 2. § 67a. pontját a 9/2024. (V. 23.) EM rendelet 1. § (21) bekezdése iktatta be.
-[^39]: A 2. § 67b. pontját a 9/2024. (V. 23.) EM rendelet 1. § (21) bekezdése iktatta be.
-[^40]: A 2. § 68a. pontját a 9/2024. (V. 23.) EM rendelet 1. § (22) bekezdése iktatta be.
-[^41]: A 2. § 68b. pontját a 9/2024. (V. 23.) EM rendelet 1. § (22) bekezdése iktatta be.
-[^42]: A 2. § 68c. pontját a 9/2024. (V. 23.) EM rendelet 1. § (22) bekezdése iktatta be.
-[^43]: A 2. § 70. pontját a 9/2024. (V. 23.) EM rendelet 19. § a) pontja hatályon kívül helyezte.
-[^44]: A 2. § 73a. pontját a 9/2024. (V. 23.) EM rendelet 1. § (23) bekezdése iktatta be.
-[^45]: A 2. § 75a. pontját a 9/2024. (V. 23.) EM rendelet 1. § (24) bekezdése iktatta be.
-[^46]: A 2. § 78a. pontját a 9/2024. (V. 23.) EM rendelet 1. § (25) bekezdése iktatta be.
-[^47]: A 2. § 78b. pontját a 9/2024. (V. 23.) EM rendelet 1. § (25) bekezdése iktatta be.
-[^48]: A 2. § 78c. pontját a 9/2024. (V. 23.) EM rendelet 1. § (25) bekezdése iktatta be.
-[^49]: A 2. § 79. pontját a 19/2024. (X. 31.) EM rendelet 7. § a) pontja hatályon kívül helyezte.
-[^50]: A 2. § 80. pontját a 9/2024. (V. 23.) EM rendelet 1. § (26) bekezdése iktatta be.
+[^8]: A 2. § 9c. pontját a 10/2025. (IV. 3.) EM rendelet 1. § (1) bekezdése iktatta be.
+[^9]: A 2. § 9d. pontját a 10/2025. (IV. 3.) EM rendelet 1. § (1) bekezdése iktatta be.
+[^10]: A 2. § 9e. pontját a 10/2025. (IV. 3.) EM rendelet 1. § (1) bekezdése iktatta be.
+[^11]: A 2. § 12. pontja a 9/2024. (V. 23.) EM rendelet 18. § 1. pontja szerint módosított szöveg.
+[^12]: A 2. § 12a. pontját a 9/2024. (V. 23.) EM rendelet 1. § (5) bekezdése iktatta be.
+[^13]: A 2. § 12b. pontját a 9/2024. (V. 23.) EM rendelet 1. § (5) bekezdése iktatta be.
+[^14]: A 2. § 13a. pontját a 9/2024. (V. 23.) EM rendelet 1. § (6) bekezdése iktatta be.
+[^15]: A 2. § 18a. pontját a 9/2024. (V. 23.) EM rendelet 1. § (7) bekezdése iktatta be.
+[^16]: A 2. § 18b. pontját a 9/2024. (V. 23.) EM rendelet 1. § (7) bekezdése iktatta be.
+[^17]: A 2. § 19a. pontját a 9/2024. (V. 23.) EM rendelet 1. § (8) bekezdése iktatta be.
+[^18]: A 2. § 19b. pontját a 10/2025. (IV. 3.) EM rendelet 1. § (2) bekezdése iktatta be.
+[^19]: A 2. § 20a. pontját a 9/2024. (V. 23.) EM rendelet 1. § (9) bekezdése iktatta be.
+[^20]: A 2. § 22. pontját a 9/2024. (V. 23.) EM rendelet 19. § a) pontja hatályon kívül helyezte, újonnan a 10/2025. (IV. 3.) EM rendelet 1. § (3) bekezdése iktatta be.
+[^21]: A 2. § 23a. pontját a 9/2024. (V. 23.) EM rendelet 1. § (10) bekezdése iktatta be.
+[^22]: A 2. § 23b. pontját a 9/2024. (V. 23.) EM rendelet 1. § (10) bekezdése iktatta be.
+[^23]: A 2. § 28a. pontját a 9/2024. (V. 23.) EM rendelet 1. § (11) bekezdése iktatta be.
+[^24]: A 2. § 32a. pontját a 9/2024. (V. 23.) EM rendelet 1. § (12) bekezdése iktatta be.
+[^25]: A 2. § 32b. pontját a 9/2024. (V. 23.) EM rendelet 1. § (12) bekezdése iktatta be.
+[^26]: A 2. § 32c. pontját a 9/2024. (V. 23.) EM rendelet 1. § (12) bekezdése iktatta be.
+[^27]: A 2. § 32d. pontját a 9/2024. (V. 23.) EM rendelet 1. § (12) bekezdése iktatta be.
+[^28]: A 2. § 32e. pontját a 10/2025. (IV. 3.) EM rendelet 1. § (4) bekezdése iktatta be.
+[^29]: A 2. § 32f. pontját a 10/2025. (IV. 3.) EM rendelet 1. § (4) bekezdése iktatta be.
+[^30]: A 2. § 36a. pontját a 9/2024. (V. 23.) EM rendelet 1. § (13) bekezdése iktatta be.
+[^31]: A 2. § 36b. pontját a 9/2024. (V. 23.) EM rendelet 1. § (13) bekezdése iktatta be.
+[^32]: A 2. § 37a. pontját a 9/2024. (V. 23.) EM rendelet 1. § (14) bekezdése iktatta be.
+[^33]: A 2. § 37b. pontját a 9/2024. (V. 23.) EM rendelet 1. § (14) bekezdése iktatta be.
+[^34]: A 2. § 39a. pontját a 9/2024. (V. 23.) EM rendelet 1. § (15) bekezdése iktatta be.
+[^35]: A 2. § 42a. pontját a 10/2025. (IV. 3.) EM rendelet 1. § (5) bekezdése iktatta be.
+[^36]: A 2. § 48. pontja a 9/2024. (V. 23.) EM rendelet 1. § (16) bekezdésével megállapított szöveg.
+[^37]: A 2. § 48a. pontját a 9/2024. (V. 23.) EM rendelet 1. § (16) bekezdése iktatta be.
+[^38]: A 2. § 48b. pontját a 10/2025. (IV. 3.) EM rendelet 1. § (6) bekezdése iktatta be.
+[^39]: A 2. § 50a. pontját a 9/2024. (V. 23.) EM rendelet 1. § (17) bekezdése iktatta be.
+[^40]: A 2. § 50b. pontját a 9/2024. (V. 23.) EM rendelet 1. § (17) bekezdése iktatta be.
+[^41]: A 2. § 50c. pontját a 9/2024. (V. 23.) EM rendelet 1. § (17) bekezdése iktatta be.
+[^42]: A 2. § 55a. pontját a 9/2024. (V. 23.) EM rendelet 1. § (18) bekezdése iktatta be.
+[^43]: A 2. § 58a. pontját a 9/2024. (V. 23.) EM rendelet 1. § (19) bekezdése iktatta be.
+[^44]: A 2. § 63. pontja a 9/2024. (V. 23.) EM rendelet 18. § 2. pontja szerint módosított szöveg.
+[^45]: A 2. § 63a. pontját a 9/2024. (V. 23.) EM rendelet 1. § (20) bekezdése iktatta be.
+[^46]: A 2. § 63b. pontját a 10/2025. (IV. 3.) EM rendelet 1. § (7) bekezdése iktatta be.
+[^47]: A 2. § 63c. pontját a 10/2025. (IV. 3.) EM rendelet 1. § (7) bekezdése iktatta be.
+[^48]: A 2. § 64b. pontját a 10/2025. (IV. 3.) EM rendelet 1. § (8) bekezdése iktatta be.
+[^49]: A 2. § 65a. pontját a 10/2025. (IV. 3.) EM rendelet 1. § (9) bekezdése iktatta be.
+[^50]: A 2. § 66a. pontját a 10/2025. (IV. 3.) EM rendelet 1. § (10) bekezdése iktatta be.
+[^51]: A 2. § 66b. pontját a 10/2025. (IV. 3.) EM rendelet 1. § (10) bekezdése iktatta be.
+[^52]: A 2. § 67a. pontját a 9/2024. (V. 23.) EM rendelet 1. § (21) bekezdése iktatta be.
+[^53]: A 2. § 67b. pontját a 9/2024. (V. 23.) EM rendelet 1. § (21) bekezdése iktatta be.
+[^54]: A 2. § 68a. pontját a 9/2024. (V. 23.) EM rendelet 1. § (22) bekezdése iktatta be.
+[^55]: A 2. § 68b. pontját a 9/2024. (V. 23.) EM rendelet 1. § (22) bekezdése iktatta be.
+[^56]: A 2. § 68c. pontját a 9/2024. (V. 23.) EM rendelet 1. § (22) bekezdése iktatta be.
+[^57]: A 2. § 70. pontját a 9/2024. (V. 23.) EM rendelet 19. § a) pontja hatályon kívül helyezte.
+[^58]: A 2. § 73a. pontját a 9/2024. (V. 23.) EM rendelet 1. § (23) bekezdése iktatta be.
+[^59]: A 2. § 74a. pontját a 10/2025. (IV. 3.) EM rendelet 1. § (11) bekezdése iktatta be.
+[^60]: A 2. § 75a. pontját a 9/2024. (V. 23.) EM rendelet 1. § (24) bekezdése iktatta be.
+[^61]: A 2. § 75b. pontját a 10/2025. (IV. 3.) EM rendelet 1. § (12) bekezdése iktatta be.
+[^62]: A 2. § 75c. pontját a 10/2025. (IV. 3.) EM rendelet 1. § (12) bekezdése iktatta be.
+[^63]: A 2. § 75d. pontját a 10/2025. (IV. 3.) EM rendelet 1. § (12) bekezdése iktatta be.
+[^64]: A 2. § 75e. pontját a 10/2025. (IV. 3.) EM rendelet 1. § (12) bekezdése iktatta be.
+[^65]: A 2. § 78a. pontját a 9/2024. (V. 23.) EM rendelet 1. § (25) bekezdése iktatta be.
+[^66]: A 2. § 78b. pontját a 9/2024. (V. 23.) EM rendelet 1. § (25) bekezdése iktatta be.
+[^67]: A 2. § 78c. pontját a 9/2024. (V. 23.) EM rendelet 1. § (25) bekezdése iktatta be.
+[^68]: A 2. § 79. pontját a 19/2024. (X. 31.) EM rendelet 7. § a) pontja hatályon kívül helyezte.
+[^69]: A 2. § 80. pontját a 9/2024. (V. 23.) EM rendelet 1. § (26) bekezdése iktatta be.

@@ -1,10 +1,10 @@
 ## 21. A regionális beruházási támogatás
 
-43. § (1)[^108] A regionális beruházási támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) igénybevételének feltétele, hogy a tervezett beruházás olyan induló beruházásnak minősüljön, amelyet az Atr. 25. § (1) bekezdése szerinti területeken kis- és középvállalkozás vagy nagyvállalkozás valósít meg.
+43. § (1)[^128] A regionális beruházási támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) igénybevételének feltétele, hogy a tervezett beruházás olyan induló beruházásnak minősüljön, amelyet az Atr. 25. § (1) bekezdése szerinti területeken kis- és középvállalkozás vagy nagyvállalkozás valósít meg.
 
-(2)[^109] Nagyvállalkozás esetén a termelési folyamat alapvető megváltozását eredményező beruházáshoz a támogatás akkor vehető igénybe, ha az elszámolható költségek összege meghaladja az alapvetően megváltoztatandó eredeti termelési folyamathoz kapcsolódó eszközökre a kérelem benyújtásának adóévét megelőző három adóévben elszámolt terv szerinti értékcsökkenés összegét.
+(2)[^129] Nagyvállalkozás esetén a termelési folyamat alapvető megváltozását eredményező beruházáshoz a támogatás akkor vehető igénybe, ha az elszámolható költségek összege meghaladja az alapvetően megváltoztatandó eredeti termelési folyamathoz kapcsolódó eszközökre a kérelem benyújtásának adóévét megelőző három adóévben elszámolt terv szerinti értékcsökkenés összegét.
 
-(3)[^110] Meglévő létesítmény termékkínálatának a létesítményben addig nem gyártott termékkel történő bővítését eredményező induló beruházás esetén az elszámolható költségeknek legalább 200%-kal meg kell haladniuk az eredeti tevékenység keretében használt és az új tevékenység keretében is használni tervezett tárgyi eszközöknek és immateriális javaknak a beruházás megkezdése előtti adóévben nyilvántartott könyv szerinti értékét.
+(3)[^130] Meglévő létesítmény termékkínálatának a létesítményben addig nem gyártott termékkel történő bővítését eredményező induló beruházás esetén az elszámolható költségeknek legalább 200%-kal meg kell haladniuk az eredeti tevékenység keretében használt és az új tevékenység keretében is használni tervezett tárgyi eszközöknek és immateriális javaknak a beruházás megkezdése előtti adóévben nyilvántartott könyv szerinti értékét.
 
 (4) A beruházás megkezdésének napja
 
@@ -24,6 +24,6 @@ d) az a)–c) pontok közül több pont együttes megvalósulása esetén a legk
 
 azzal, hogy nem tekintendő a beruházás megkezdésének a földterület megvásárlása, ha az nem képezi a beruházás elszámolható költségét, valamint az előkészítő munka költségének felmerülése.
 
-[^108]: A 43. § (1) bekezdése a 9/2024. (V. 23.) EM rendelet 18. § 25. pontja szerint módosított szöveg.
-[^109]: A 43. § (2) bekezdése a 9/2024. (V. 23.) EM rendelet 7. §-ával megállapított szöveg.
-[^110]: A 43. § (3) bekezdése a 9/2024. (V. 23.) EM rendelet 7. §-ával megállapított szöveg.
+[^128]: A 43. § (1) bekezdése a 9/2024. (V. 23.) EM rendelet 18. § 25. pontja szerint módosított szöveg.
+[^129]: A 43. § (2) bekezdése a 9/2024. (V. 23.) EM rendelet 7. §-ával megállapított szöveg.
+[^130]: A 43. § (3) bekezdése a 9/2024. (V. 23.) EM rendelet 7. §-ával megállapított szöveg.

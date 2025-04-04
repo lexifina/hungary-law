@@ -1,1 +1,1 @@
-55. §
+55. § A támogatás keretében a külső szakértő által nyújtott tanácsadási szolgáltatás költsége számolható el, azzal, hogy az érintett szolgáltatás nem lehet folyamatos vagy időszakosan visszatérő tevékenység, és nem kapcsolódhat a vállalkozás szokásos működési költségeihez, úgymint folyamatos adótanácsadáshoz, rendszeres jogi szolgáltatáshoz vagy hirdetéshez.

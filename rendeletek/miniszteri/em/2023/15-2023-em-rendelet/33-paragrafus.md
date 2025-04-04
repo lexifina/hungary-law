@@ -1,4 +1,4 @@
-## 15.[^98] Az energetikai célú infrastruktúrához nyújtott beruházási támogatás
+## 15.[^118] Az energetikai célú infrastruktúrához nyújtott beruházási támogatás
 
 33. § (1) Az energetikai célú infrastruktúrához nyújtott beruházási támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) energetikai célú infrastruktúra létrehozásához, korszerűsítéséhez és bővítéséhez nyújtható.
 
@@ -16,4 +16,4 @@ b) az infrastruktúra kizárólag hidrogén és megújuló gázok használatára
 
 c) az infrastruktúrát 50%-ot meghaladó mértékben hidrogén és megújuló gázok szállítására használják.
 
-[^98]: A 15. alcím (33–34. §) a 9/2024. (V. 23.) EM rendelet 5. §-ával megállapított szöveg.
+[^118]: A 15. alcím (33–34. §) a 9/2024. (V. 23.) EM rendelet 5. §-ával megállapított szöveg.

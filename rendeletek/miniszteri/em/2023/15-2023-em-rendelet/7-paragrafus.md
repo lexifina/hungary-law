@@ -1,3 +1,3 @@
-7. §[^84]
+7. §[^103] A széles sávú infrastruktúra kiépítéséhez nyújtott beruházási támogatás esetén az Atr. 18. § (2) bekezdés a) pontja szerint előzetesen be kell jelenteni az Európai Bizottság részére az egyedi támogatást, ha a projekt teljes költsége meghaladja a százmillió eurónak megfelelő forintösszeget, pénzügyi eszköz formájában odaítélt támogatás esetén pedig, ha a kedvezményezettnek nyújtott teljes finanszírozás névértéke bármely projekt esetén meghaladja a százötvenmillió eurót.
 
-[^84]: A 7. §-t a 9/2024. (V. 23.) EM rendelet 19. § d) pontja hatályon kívül helyezte.
+[^103]: A 7. §-t a 9/2024. (V. 23.) EM rendelet 19. § d) pontja hatályon kívül helyezte, újonnan a 10/2025. (IV. 3.) EM rendelet 5. §-a iktatta be.

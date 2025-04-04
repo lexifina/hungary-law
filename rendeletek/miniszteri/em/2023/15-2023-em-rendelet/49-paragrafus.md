@@ -1,3 +1,3 @@
-49. §[^117]
+49. §[^137]
 
-[^117]: A 49. §-t a 9/2024. (V. 23.) EM rendelet 19. § f) pontja hatályon kívül helyezte.
+[^137]: A 49. §-t a 9/2024. (V. 23.) EM rendelet 19. § f) pontja hatályon kívül helyezte.

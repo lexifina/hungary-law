@@ -1,4 +1,4 @@
-47. §[^115] (1) A támogatás keretében elszámolható
+47. §[^135] (1) A támogatás keretében elszámolható
 
 a) a beruházás érdekében felmerült tárgyi eszközök és immateriális javak költsége,
 
@@ -58,4 +58,4 @@ c) kis- és középvállalkozás esetén a beruházó a beruházás megkezdések
 
 d) nagyvállalkozás esetén a beruházó a beruházás megkezdésekor már létező, továbbá a beruházással létrejött új munkahelyeket a munkahely első betöltésétől számított legalább öt évig az érintett területen fenntartja.
 
-[^115]: A 47. § a 9/2024. (V. 23.) EM rendelet 9. §-ával megállapított szöveg.
+[^135]: A 47. § a 9/2024. (V. 23.) EM rendelet 9. §-ával megállapított szöveg.
