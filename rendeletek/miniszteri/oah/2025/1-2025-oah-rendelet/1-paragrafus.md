@@ -4,16 +4,6 @@
 
 ## [3] Az atomenergiáról szóló 1996. évi CXVI. törvény 68. § (12) bekezdés 9. pontjában kapott felhatalmazás alapján – az atomenergiáról szóló 1996. évi CXVI. törvény 6/J. § (1) bekezdés j) pontjában meghatározott feladatkörömben eljárva – a következőket rendelem el:
 
-1. § (1) A nukleáris létesítmények nukleáris biztonsági követelményeiről és az ezzel összefüggő hatósági tevékenységről szóló 1/2022. (IV. 29.) OAH rendelet (a továbbiakban: NBSZ) 18. § (1) bekezdés e) pontja helyébe a következő rendelkezés lép:
+1. §[^1]
 
-(A nukleáris biztonsági hatóság engedélye szükséges az mellékletekben részletezettek szerint a nukleáris létesítmény)
-
-## „e) üzemeltetéséhez, tervezett üzemidején túli üzemeltetéséhez, a tervezett üzemidőn túli üzemeltetést követő további üzemeltetéséhez (üzemeltetési engedély),”
-
-(2) Az NBSZ 18. §-a a következő (2a) bekezdéssel egészül ki:
-
-„(2a) Üzemeltetési engedéllyel rendelkező, kiégett üzemanyag átmeneti tárolására szolgáló létesítmény bővítésekor – függetlenül a létesítményre engedélyezett tárolási technológia további alkalmazásától vagy módosításától – a létesítési engedélyezési eljárásra vonatkozó szabályokat kell alkalmazni.”
-
-(3) Az NBSZ 18. §-a a következő (6a) bekezdéssel egészül ki:
-
-„(6a) Atomerőmű nukleáris biztonság szempontjából fontos rendszere, rendszereleme, építménye, épületszerkezete esetén a tervektől eltérő állapot fennmaradásához a nukleáris biztonsági hatóság engedélye szükséges.”
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

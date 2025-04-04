@@ -1,17 +1,20 @@
 7. § Hatályát veszti az NBSZ
 
-a) 18. § (10) bekezdése,
+a)[^9]
 
-b) 1. melléklet 1.5.1.0290. pontjában a „helyszíni szemle alapján” szövegrész,
+b)[^10]
 
-c)[^1]
+c)[^11]
 
-d)[^2]
+d)[^12]
 
-e)[^3]
+e)[^13]
 
-f) 6. melléklet 6.3.6.0200. pont f) alpontjában a „kis és közepes aktivitású” szövegrész.
+f)[^14]
 
-[^1]: A 7. § c) pontja a 8. § (3) bekezdése alapján 2025. szeptember 15-én lép hatályba.
-[^2]: A 7. § d) pontja a 8. § (3) bekezdése alapján 2025. szeptember 15-én lép hatályba.
-[^3]: A 7. § e) pontja a 8. § (3) bekezdése alapján 2025. szeptember 15-én lép hatályba.
+[^9]: A 7. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 7. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 7. § c) pontja a 8. § (3) bekezdése alapján 2025. szeptember 15-én lép hatályba.
+[^12]: A 7. § d) pontja a 8. § (3) bekezdése alapján 2025. szeptember 15-én lép hatályba.
+[^13]: A 7. § e) pontja a 8. § (3) bekezdése alapján 2025. szeptember 15-én lép hatályba.
+[^14]: A 7. § f) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

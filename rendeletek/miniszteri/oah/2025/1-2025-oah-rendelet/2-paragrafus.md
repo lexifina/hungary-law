@@ -1,3 +1,3 @@
-2. § Az NBSZ 19. § (4) bekezdése helyébe a következő rendelkezés lép:
+2. §[^2]
 
-„(4) Atomerőmű nukleáris biztonsági hatósági engedélyezési eljárás alá tartozó nyomástartó berendezései és csővezetékei időszakos ellenőrzési programjainak műszaki követelményrendszerét, a fővízkör időszakos ellenőrzési programját, továbbá a nukleáris biztonság szempontjából fontos rendszerelemek anyagvizsgálatának terjedelmét, módszerét, a vizsgálati eredmények elfogadási kritériumrendszerét és időbeli ütemezését rögzítő dokumentumokat, az 1. biztonsági osztályba sorolt rendszerek és rendszerelemek minősítési követelményeit és a minősítés végrehajtását igazoló dokumentumokat a nukleáris biztonsági hatóság a 3., a 3/A. vagy a 4. melléklet szerint hagyja jóvá.”
+[^2]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
