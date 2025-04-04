@@ -1,6 +1,6 @@
 ## 11. A tartós külszolgálatra való alkalmasságra vonatkozó orvosi vélemény
 
-11. § (1)[^30] A tartós külszolgálatra való alkalmasságra vonatkozó orvosi véleményben meg kell határozni, hogy a vizsgált személy az adott külszolgálati munkakör, illetve állomáshely vonatkozásában a tartós külszolgálatra, illetve az állomáshelyen életvitelszerű tartózkodásra alkalmas, ideiglenesen alkalmatlan vagy nem alkalmas.
+11. § (1)[^31] A tartós külszolgálatra való alkalmasságra vonatkozó orvosi véleményben meg kell határozni, hogy a vizsgált személy az adott külszolgálati munkakör, illetve állomáshely vonatkozásában a tartós külszolgálatra, illetve az állomáshelyen életvitelszerű tartózkodásra alkalmas, ideiglenesen alkalmatlan vagy nem alkalmas.
 
 (2) Az egészségügyi alkalmassági vizsgálat alapján a minősítés lehet:
 
@@ -12,9 +12,9 @@ c) „Egészségileg alkalmatlan”.
 
 (3) „Egészségileg alkalmas” minősítést kell megállapítani, ha a vizsgált személy egészséges, vagy csak olyan szervi, szervrendszeri-működési elváltozása van, amely az élettani tűréshatárokat nem haladja meg, illetve egészségi állapota megfelelő kezeléssel tartósan egyensúlyban tartható, az elváltozás a tartós külszolgálat teljesítésében, illetve az állomáshelyen történő életvitelszerű tartózkodásban nem korlátozza.
 
-(4)[^31] „Egészségileg ideiglenesen alkalmatlan …-ig” minősítést kell megállapítani, ha a vizsgált személy megbetegedésének, sérülésének gyógyulása meghatározott időn belül, de várhatóan legfeljebb kilenc hónapon belül várható. A minősítésben megjelölt időtartam lejártát követően az egészségi alkalmassági vizsgálatot ismételten el kell végezni, amelynek során „Egészségileg ideiglenesen alkalmatlan …-ig” minősítés nem állapítható meg.
+(4)[^32] „Egészségileg ideiglenesen alkalmatlan …-ig” minősítést kell megállapítani, ha a vizsgált személy megbetegedésének, sérülésének gyógyulása meghatározott időn belül, de várhatóan legfeljebb kilenc hónapon belül várható. A minősítésben megjelölt időtartam lejártát követően az egészségi alkalmassági vizsgálatot ismételten el kell végezni, amelynek során „Egészségileg ideiglenesen alkalmatlan …-ig” minősítés nem állapítható meg.
 
 (5) „Egészségileg alkalmatlan” minősítést kell megállapítani, ha a vizsgált személynek olyan mértékű vagy jellegű egészségkárosodása van, amely a tartós külszolgálattal járó egészségi igénybevételre figyelemmel véglegesen kizárja a tartós külszolgálattal járó kötelezettségek teljesítését.
 
-[^30]: A 11. § (1) bekezdése a 4/2024. (I. 18.) KKM rendelet 9. § 19. pontja szerint módosított szöveg.
-[^31]: A 11. § (4) bekezdése a 4/2024. (I. 18.) KKM rendelet 9. § 20. pontja szerint módosított szöveg.
+[^31]: A 11. § (1) bekezdése a 4/2024. (I. 18.) KKM rendelet 9. § 19. pontja szerint módosított szöveg.
+[^32]: A 11. § (4) bekezdése a 4/2024. (I. 18.) KKM rendelet 9. § 20. pontja szerint módosított szöveg.

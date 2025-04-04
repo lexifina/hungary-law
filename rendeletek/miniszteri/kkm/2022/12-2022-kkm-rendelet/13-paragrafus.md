@@ -4,6 +4,6 @@
 
 (2) Az egészségügyi alkalmasság másodfokú vizsgálatát és véleményezését a kihelyező szerv székhelye szerint illetékes foglalkozás-egészségügyi szakellátó hely végzi.
 
-(3)[^32] A másodfokú szerv folyamatban lévő eljárása az elsőfokú szerv véleményére nézve nem halasztó vagy felfüggesztő hatályú. A másodfokon eljáró foglalkozás-egészségügyi szakellátó szerv döntéséig az elsőfokú szerv véleménye szerint kell eljárni.
+(3)[^33] A másodfokú szerv folyamatban lévő eljárása az elsőfokú szerv véleményére nézve nem halasztó vagy felfüggesztő hatályú. A másodfokon eljáró foglalkozás-egészségügyi szakellátó szerv döntéséig az elsőfokú szerv véleménye szerint kell eljárni.
 
-[^32]: A 13. § (3) bekezdése a 4/2024. (I. 18.) KKM rendelet 8. §-ával megállapított szöveg.
+[^33]: A 13. § (3) bekezdése a 4/2024. (I. 18.) KKM rendelet 8. §-ával megállapított szöveg.

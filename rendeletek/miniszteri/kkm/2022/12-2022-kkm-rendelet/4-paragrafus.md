@@ -18,6 +18,6 @@ g) a gondozott betegségeknek megfelelő időszakos kontrollvizsgálatokra,
 
 h) a célországban várható biológiai ágensekkel szembeni védekezés részeként a szükséges védőoltások meghatározására és szükség szerinti beadására, illetve
 
-i)[^15] szükség esetén egyéb, a kihelyező szervnél működő foglalkozás-egészségügyi szolgálat orvosa által meghatározott egyéb szükséges vizsgálatra (pl. szív- és hasiultrahang-vizsgálat).
+i)[^16] szükség esetén egyéb, a kihelyező szervnél működő foglalkozás-egészségügyi szolgálat orvosa által meghatározott egyéb szükséges vizsgálatra (pl. szív- és hasiultrahang-vizsgálat).
 
-[^15]: A 4. § i) pontja a 4/2024. (I. 18.) KKM rendelet 4. §-ával megállapított szöveg.
+[^16]: A 4. § i) pontja a 4/2024. (I. 18.) KKM rendelet 4. §-ával megállapított szöveg.

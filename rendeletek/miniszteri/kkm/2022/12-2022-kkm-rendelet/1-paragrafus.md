@@ -16,7 +16,7 @@ f)[^1] a Külszoltv. 58/C. § (3)–(4) bekezdése alapján a Kit. 56. § (4) be
 
 g)[^2] a minisztériummal jogviszonyban nem álló – az a) pont szerinti kihelyezett kihelyező okiratában, illetve az e) pont szerinti nemzeti szakértő kirendelési megállapodásában foglalkoztatásról rendelkező okiratában szereplő, illetve szerepeltetni kívánt, a Külszoltv. 2. § 8. pontja, illetve a Kit. nemzeti szakértői foglalkoztatásra vonatkozó végrehajtási rendelete meghatározása szerinti hozzátartozóira, valamint
 
-h)[^3] a 3. § (7) bekezdése vonatkozásában a külpolitikáért felelős miniszter által vezetett kihelyező szervvel (a továbbiakban: kihelyező szerv) kormányzati szolgálati, politikai szolgálati jogviszonyban vagy munkaviszonyban álló, tartós külszolgálati pályázat benyújtására jogosult foglalkoztatottra, illetve a kihelyező szervvel jogviszonyban nem álló, tartós külszolgálati pályázatot benyújtó vagy kijelölési döntéssel érintett személyre
+h)[^3] a 3. § (7) bekezdése és a 3/A. § vonatkozásában a külpolitikáért felelős miniszter által vezetett kihelyező szervvel (a továbbiakban: kihelyező szerv) kormányzati szolgálati, politikai szolgálati jogviszonyban vagy munkaviszonyban álló, tartós külszolgálati pályázat benyújtására jogosult foglalkoztatottra, illetve a 3. § (7) bekezdése vonatkozásában a kihelyező szervvel jogviszonyban nem álló, tartós külszolgálati pályázatot benyújtó vagy kijelölési döntéssel érintett személyre
 
 terjed ki.
 
@@ -34,6 +34,6 @@ c)[^5] az (1) bekezdés g) pontja szerinti hozzátartozó esetében a hozzátart
 
 [^1]: Az 1. § (1) bekezdés f) pontja a 4/2024. (I. 18.) KKM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (1) bekezdés g) pontját a 4/2024. (I. 18.) KKM rendelet 1. § (2) bekezdése iktatta be.
-[^3]: Az 1. § (1) bekezdés h) pontját a 4/2024. (I. 18.) KKM rendelet 1. § (2) bekezdése iktatta be.
+[^3]: Az 1. § (1) bekezdés h) pontját a 4/2024. (I. 18.) KKM rendelet 1. § (2) bekezdése iktatta be, szövege a 6/2025. (IV. 3.) KKM rendelet 3. §-a szerint módosított szöveg.
 [^4]: Az 1. § (2) bekezdés nyitó szövegrésze a 4/2024. (I. 18.) KKM rendelet 9. § 1. pontja szerint módosított szöveg.
 [^5]: Az 1. § (2) bekezdés c) pontja a 4/2024. (I. 18.) KKM rendelet 9. § 1. pontja szerint módosított szöveg.
