@@ -12,6 +12,8 @@ d) a tenyészetében az igényelt állatok legalább 30%-ának van ellése a tá
 
 e) vállalja, hogy a támogatási kérelemben bejelentett állatokat annak benyújtását követő naptól számított hat hónapig folyamatosan tenyészetében tartja.
 
+f)[^9] gondoskodik a tenyészetében tartott állatok Szarvasmarha ENAR rendelet szerinti jelöléséről, nyilvántartásáról és a támogatásra való jogosultság megállapításához szükséges adatok hibátlan bejelentéséről.
+
 (2) Ha a mezőgazdasági termelő az (1) bekezdés d) pontjában jelölt ellési arányt az igényelt állatok vonatkozásában nem éri el, akkor az egyéb támogatási feltételek teljesítése mellett a meghatározott állatlétszámnak azt kell tekinteni, amelyre a tényleges ellési arány teljesül.
 
 (3) A mezőgazdasági termelő tenyészetében az igényelt állatok esetén az üszők aránya a birtokon tartás időszaka alatt legfeljebb 40% lehet.
@@ -27,3 +29,5 @@ e) vállalja, hogy a támogatási kérelemben bejelentett állatokat annak beny�
 (8) Az (1) bekezdés b) pontja szerinti mentességet a hatósági állatorvos vagy a járási főállatorvos igazolja.
 
 (9) A tenyészetben lévő állomány gümőkór-, brucellózis- és leukózismentességére vonatkozó adatokat a tenyészet helye szerint illetékes élelmiszerlánc-biztonsági és állat-egészségügyi hatáskörben eljáró vármegyei kormányhivatal a mezőgazdasági termelő egységes kérelme alapján a Kincstár megkeresésére, a megkereséstől számított harminc napon belül megküldi a Kincstár részére.
+
+[^9]: A 14. § (1) bekezdés f) pontját az 5/2025. (IV. 3.) AM rendelet 54. §-a iktatta be.

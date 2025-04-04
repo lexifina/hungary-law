@@ -1,6 +1,6 @@
 19. § (1) Ha a mezőgazdasági termelő által megadott adatok alapján nem állapítható meg a minősített szaporítóanyag 3. és 5–10. melléklet szerinti mennyiségben történő felhasználása, akkor a Kincstár a mezőgazdasági termelő által benyújtott vagy a helyszíni vizsgálat során bemutatott dokumentumok alapján dönt.
 
-(2)[^4] Ha a 18. § (1) bekezdése szerinti dokumentumok valamelyike nem magyar nyelvű, akkor a KAP Vhr. 3. § (6) bekezdésében foglaltak szerint kell eljárni.
+(2)[^17] Ha a 18. § (1) bekezdése szerinti dokumentumok valamelyike nem magyar nyelvű, akkor a KAP Vhr. 3. § (6) bekezdésében foglaltak szerint kell eljárni.
 
 (3) A 17. § (1) bekezdés a), b), c), d) és i) pontja szerinti támogatási jogcímek vonatkozásában, ha a 18. § (1) bekezdése szerinti számla, vetőmagcímke, csomagolás, szállítólevél, a termeltető, őstermelők családi gazdaság képviselője vagy tagja, termelői integrációs szervezet, termelői csoport vagy termelői szervezet által kiállított dokumentum vagy minősítő bizonyítvány másolatában csak a felhasznált vetőmag tömege szerepel, a felhasznált vetőmagszám megállapításához a 3. és 5–8. melléklet szerinti átváltási tényezőt kell alkalmazni.
 
@@ -20,4 +20,4 @@
 
 (11) A 17. § (1) bekezdés h) pontja szerinti támogatással érintett terület a Feltételesség rendelet 13. alcím szerinti HMKÁ 8. keretében parlagnak nem fogadható el.
 
-[^4]: A 19. § (2) bekezdése a 46/2024. (IX. 2.) AM rendelet 36. § b) pontja szerint módosított szöveg.
+[^17]: A 19. § (2) bekezdése a 46/2024. (IX. 2.) AM rendelet 36. § b) pontja szerint módosított szöveg.

@@ -4,7 +4,7 @@
 
 a) gondoskodik az Állattenyésztési Korm. rendelet szerinti apaállat-használatról, és kizárólag törzskönyvi kivonattal vagy származási igazolással ellátott kost használ a nőivarú állomány fedeztetésére,
 
-b) gondoskodik a tenyészetében tartott állatállománynak a Juh ENAR rendelet szerinti tartós jelöléséről, nyilvántartásáról és az adatok hibátlan bejelentéséről, és
+b)[^7] gondoskodik a tenyészetében tartott állatállománynak a Juh ENAR rendelet szerinti tartós jelöléséről, nyilvántartásáról és a támogatásra való jogosultság megállapításához szükséges releváns adatok hibátlan bejelentéséről, és
 
 c) vállalja, hogy a támogatási kérelemben bejelentett állatokat tárgyév április 1-jétől kezdődően száz egymást követő napon a tenyészetében tartja.
 
@@ -36,6 +36,9 @@ i) igazolás sorszáma.
 
 (6) Az (5) bekezdés szerinti állatmozgatás esetén a mezőgazdasági termelő felelőssége a tenyészállat kiállításra szállított kérelmezett állat 12. § (1) bekezdése szerinti hibátlan bejelentése.
 
-(7) A 12. § (1) bekezdésében foglaltaktól eltérően legkésőbb a birtokon tartás időszaka megkezdéséig gondoskodik a tenyészetében lévő juhállományoknak a Juh ENAR rendelet szerinti jelöléséről, nyilvántartásáról és az adatok hibátlan bejelentéséről.
+(7)[^8] A 12. § (1) bekezdésében foglaltaktól eltérően legkésőbb a birtokon tartás időszaka megkezdéséig gondoskodik a tenyészetében lévő juhállományoknak a Juh ENAR rendelet szerinti jelöléséről, nyilvántartásáról és a támogatásra való jogosultság megállapításához szükséges releváns adatok hibátlan bejelentéséről.
 
 (8) A mezőgazdasági termelő az anyajuhtartás támogatásra bejelentett állategyed elhullását, házi vágását vagy elveszését az esemény bekövetkezésének időpontjától számított 15 napon belül köteles bejelenteni az (1) bekezdés b) pontja szerinti adatbázisba.
+
+[^7]: A 13. § (1) bekezdés b) pontja az 5/2025. (IV. 3.) AM rendelet 59. § c) pontja szerint módosított szöveg.
+[^8]: A 13. § (7) bekezdése az 5/2025. (IV. 3.) AM rendelet 59. § c) pontja szerint módosított szöveg.

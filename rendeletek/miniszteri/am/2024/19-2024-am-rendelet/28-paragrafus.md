@@ -12,13 +12,7 @@ c) a többéves művelésre alkalmas kultúra a támogatási kérelemében bejel
 
 a) a fehérjetakarmány-növény állományban a 10. mellékletben önállóan – nem keverék formájában – nevesített fajok keveréken belüli vetőmag aránya meghaladja az 50%-ot,
 
-b) a mezőgazdasági termelő
-
-ba)[^5] az igénylés évét megelőző évben megvalósult őszi vagy a tárgyévben megvalósult tavaszi telepítés vagy felülvetés esetén a két- vagy többéves művelésre alkalmas kultúrák vonatkozásában a támogatásigénylés első évében augusztus 1-jéig legalább egyszeri vagy
-
-bb) ha az állomány már többévesnek minősül, illetve a támogatás igénylésének a további éveiben tárgyév július 1-jéig legalább kétszeri
-
-kaszálást végezzen, és
+b)[^22] a mezőgazdasági termelő tárgyév szeptember 30-áig legalább egyszeri kaszálást végezzen, és
 
 c) ha a Legány-féle keverék, a Borsós napraforgó-csalamádé, a Borsós kukoricacsalamádé és a Rozsos szöszösbükköny termesztése tekintetében a 10. melléklet szerinti minimum értékeknél valamely komponense magasabb mennyiséget tartalmaz, abban az esetben is biztosítani kell, hogy a fehérjenövény komponens aránya ne csökkenjen 50% alá.
 
@@ -26,6 +20,7 @@ c) ha a Legány-féle keverék, a Borsós napraforgó-csalamádé, a Borsós kuk
 
 (4) A szálas fehérjenövény termesztés támogatására bejelentett tábla teljes területének felülvetése új telepítésnek minősül.
 
-(5) Ha a mezőgazdasági termelő olyan tábla után nyújt be szálas fehérjetakarmány-növény termesztésre vonatkozó támogatási kérelmet, amelyen azonos kultúrához tartozó növény szaporítóanyagával tárgyévben felülvetés valósul meg, akkor a támogatási kérelemben a felülvetéssel érintett teljes terület tényleges vagy várható nagyságát számszerűen meg kell jelölnie.
+(5)[^23] Ha a mezőgazdasági termelő olyan tábla után nyújt be szálas fehérjetakarmány-növény termesztésre vonatkozó támogatási kérelmet, amelyen azonos kultúrához tartozó növény szaporítóanyagával tárgyévben felülvetés valósul meg, akkor a támogatási kérelemben a felülvetéssel érintett teljes terület tényleges nagyságát számszerűen meg kell jelölnie.
 
-[^5]: A 28. § (2) bekezdés b) pont ba) alpontja a 46/2024. (IX. 2.) AM rendelet 36. § c) pontja szerint módosított szöveg.
+[^22]: A 28. § (2) bekezdés b) pontja az 5/2025. (IV. 3.) AM rendelet 56. §-ával megállapított szöveg.
+[^23]: A 28. § (5) bekezdése az 5/2025. (IV. 3.) AM rendelet 59. § h) pontja szerint módosított szöveg.

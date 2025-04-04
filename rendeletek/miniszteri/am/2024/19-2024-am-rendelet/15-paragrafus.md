@@ -10,7 +10,7 @@ b) élő állatként az Európai Unión kívüli harmadik országba exportáltak
 
 a) a Szarvasmarha ENAR rendelet szerinti országos nyilvántartás alapján a hímivarú szarvasmarhát a tenyészetéből az (1) bekezdés szerinti módon történő kikerülése előtt közvetlenül legalább két hónapig tartotta,
 
-b) a 12. § (1) bekezdésében foglaltaktól eltérően legkésőbb a birtokon tartás időszaka megkezdésének első napjáig gondoskodik a tenyészetében lévő szarvasmarha-állománynak a Szarvasmarha ENAR rendelet szerinti jelöléséről, nyilvántartásáról és az adatok hibátlan bejelentéséről,
+b)[^10] a 12. § (1) bekezdésében foglaltaktól eltérően legkésőbb a birtokon tartás időszaka megkezdésének első napjáig gondoskodik a tenyészetében lévő szarvasmarha-állománynak a Szarvasmarha ENAR rendelet szerinti jelöléséről, nyilvántartásáról és a támogatásra való jogosultság megállapításához szükséges releváns adatok hibátlan bejelentéséről,
 
 c) esetében a Szarvasmarha ENAR rendelet szerinti jelentési kötelezettségnek megfelelően, az állat vágóhídon történő levágásának vagy exportálásának igazolása megtörténik,
 
@@ -31,3 +31,5 @@ e) legkésőbb tárgyév augusztus 31-ig gondoskodik a d) pont szerinti terméke
 (6) Ha olyan egyed apaállatára vonatkozó, (4) bekezdés szerinti dokumentum tekintetében kell az értékelést elvégezni, amely esetében tenyésztőszervezet nem működik, akkor a Magyar Állattenyésztők Szövetsége vagy az általa kijelölt tenyésztőszervezet állásfoglalását kell figyelembe venni.
 
 (7) A tenyésztőszervezet az (5) bekezdés szerinti szakmai állásfoglalása alapját képező valamennyi dokumentumot a szakmai állásfoglalás kiállításától számított tíz évig köteles megőrizni.
+
+[^10]: A 15. § (2) bekezdés b) pontja az 5/2025. (IV. 3.) AM rendelet 59. § c) pontja szerint módosított szöveg.

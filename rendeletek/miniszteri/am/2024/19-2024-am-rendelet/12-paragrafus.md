@@ -2,4 +2,6 @@
 
 (2) A Kincstár az adott támogatás tekintetében a birtokon tartás időszakának teljesülését a juh és a szarvasmarha ENAR adatok, valamint helyszíni vizsgálat alapján állapítja meg.
 
-(3) Az adott támogatás tekintetében igényelt állatokra vonatkozó adminisztratív ellenőrzés során kizárólag azon szaporítási események (beleértve a háremszerű és szabad pároztatásokat is) tekinthetőek a támogatás szempontjából elfogadhatónak, és támogatás csak azon adatok figyelembevételével állapítható meg, amelyek az állattenyésztésről szóló 188/2019. (VII. 30.) Korm. rendelet (a továbbiakban: Állattenyésztési Korm. rendelet) 2. § 11. pontja szerinti országos állattenyésztési adatbázisba az arra rendszeresített bizonylaton és formában tárgyévet követő év január 15-éig szabályszerűen bejelentésre kerülnek, ez a határidő jogvesztő.
+(3)[^6] Az anyatehéntartás támogatás tekintetében igényelt állatokra vonatkozó adminisztratív ellenőrzés során kizárólag azon szaporítási események (beleértve a háremszerű és szabad pároztatásokat is) tekinthetőek a támogatás szempontjából elfogadhatónak, és támogatás csak azon adatok figyelembevételével állapítható meg, amelyek az állattenyésztésről szóló 188/2019. (VII. 30.) Korm. rendelet (a továbbiakban: Állattenyésztési Korm. rendelet) 2. § 11. pontja szerinti országos állattenyésztési adatbázisba az arra rendszeresített bizonylaton és formában tárgyévet követő év január 15-éig szabályszerűen bejelentésre kerülnek, ez a határidő jogvesztő.
+
+[^6]: A 12. § (3) bekezdése az 5/2025. (IV. 3.) AM rendelet 59. § b) pontja szerint módosított szöveg.
