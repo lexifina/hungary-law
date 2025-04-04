@@ -1,3 +1,3 @@
-13. §[^38]
+13. §[^39]
 
-[^38]: A 10–13. §-t a 14. § hatályon kívül helyezte.
+[^39]: A 10–13. §-t a 14. § hatályon kívül helyezte.

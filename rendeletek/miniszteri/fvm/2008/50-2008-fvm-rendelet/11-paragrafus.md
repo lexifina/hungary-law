@@ -1,3 +1,3 @@
-11. §[^36]
+11. §[^37]
 
-[^36]: A 10–13. §-t a 14. § hatályon kívül helyezte.
+[^37]: A 10–13. §-t a 14. § hatályon kívül helyezte.

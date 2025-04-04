@@ -1,6 +1,6 @@
 ## Az Európai Unió jogának való megfelelés
 
-## 15. §[^40] Ez a rendelet
+## 15. §[^41] Ez a rendelet
 
 a) az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásokról szóló, 2005. szeptember 20-i 1698/2005/EK tanácsi rendelet,
 
@@ -14,4 +14,4 @@ e) az 1306/2013/EU európai parlamenti és tanácsi rendelet alkalmazási szabá
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^40]: A 15. § a 13/2015. (III. 30.) FM rendelet 5. §-ával megállapított szöveg.
+[^41]: A 15. § a 13/2015. (III. 30.) FM rendelet 5. §-ával megállapított szöveg.
