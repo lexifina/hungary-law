@@ -1,4 +1,4 @@
-11/B. §[^45] Nem nyújtható támogatás
+11/B. §[^56] Nem nyújtható támogatás
 
 a) acélipari tevékenységhez,
 
@@ -12,4 +12,4 @@ e) energiatermelési, energiatárolási, energiaátviteli, energiaelosztási tev
 
 f) szélessávú ágazatban végzett tevékenységhez.
 
-[^45]: A 11/B. § a 8/2023. (XII. 28.) MVM rendelet 10. §-ával megállapított szöveg.
+[^56]: A 11/B. § a 8/2023. (XII. 28.) MVM rendelet 10. §-ával megállapított szöveg.

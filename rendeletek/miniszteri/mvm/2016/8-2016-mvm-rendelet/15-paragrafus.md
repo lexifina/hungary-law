@@ -1,4 +1,4 @@
-15. §[^55] (1) A támogatási intenzitás nem haladhatja meg
+15. §[^67] (1) A támogatási intenzitás nem haladhatja meg
 
 a) alapkutatás esetén az elszámolható költségek 100%-át,
 
@@ -34,4 +34,4 @@ bb) a projekt legalább két – nagyvállalkozás esetén három – tagállamb
 
 bc) az a) pont ac) vagy ad) alpontja szerinti feltétel teljesül, azzal, hogy az ac) alpont esetén az eredmények széles körű terjesztésének legalább három tagállamban vagy az EGT-megállapodásban szerződő fél területén kell megvalósulnia.
 
-[^55]: A 15. § a 8/2023. (XII. 28.) MVM rendelet 12. §-ával megállapított szöveg.
+[^67]: A 15. § a 8/2023. (XII. 28.) MVM rendelet 12. §-ával megállapított szöveg.

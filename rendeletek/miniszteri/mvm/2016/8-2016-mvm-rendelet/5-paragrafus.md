@@ -1,10 +1,10 @@
 5. § (1) A támogató az állami támogatás odaítélésekor tájékoztatja a kedvezményezettet a nyújtott támogatás támogatástartalmáról, a támogatásra vonatkozó 8–39. § szerinti támogatási jogcímről és annak szabályairól.
 
-(2)[^29] A 651/2014/EU bizottsági rendelet, a 2023/2831/EU bizottsági rendelet, a 2012/21/EU bizottsági határozat és a 2023/2832/EU bizottsági rendelet hatálya alá tartozó támogatás kizárólag átlátható formában nyújtható.
+(2)[^37] A 651/2014/EU bizottsági rendelet, a 2023/2831/EU bizottsági rendelet, a 2012/21/EU bizottsági határozat és a 2023/2832/EU bizottsági rendelet hatálya alá tartozó támogatás kizárólag átlátható formában nyújtható.
 
-(2a)[^30] A kedvezményezett köteles a támogatással kapcsolatos okiratokat és dokumentumokat a támogatási döntés meghozatala napjától számított tíz évig megőrizni.
+(2a)[^38] A kedvezményezett köteles a támogatással kapcsolatos okiratokat és dokumentumokat a támogatási döntés meghozatala napjától számított tíz évig megőrizni.
 
-(3)[^31] Nem ítélhető meg támogatás
+(3)[^39] Nem ítélhető meg támogatás
 
 a) – a 4. és 5. alcím szerinti támogatás kivételével – azon szervezet részére, amely a támogatás odaítélésekor még nem tett eleget valamennyi, az Európai Bizottság európai uniós versenyjogi értelemben vett állami támogatás visszafizettetésére kötelező, Magyarországnak címzett határozata alapján fennálló visszafizetési kötelezettségének,
 
@@ -12,7 +12,7 @@ b) – a 4. és 5. alcím szerinti támogatás kivételével – nehéz helyzetb
 
 c) – a 9., 12., 14. alcím szerinti támogatás kivételével – a halászati és akvakultúra-termékek piacának közös szervezéséről, az 1184/2006/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint a 104/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 11-i 1379/2013/EU európai parlamenti és tanácsi rendeletben (a továbbiakban: 1379/2013/EU európai parlamenti és tanácsi rendelet) meghatározott akvakultúra-termékek termeléséhez,
 
-d) – a 9., 12., 14. alcím, valamint – ha a támogatás összegét nem a piacon vásárolt vagy forgalomba hozott termékek ára vagy mennyisége alapján határozzák meg – a 4., 5. és a 23/A. alcím szerinti támogatás kivételével – az 1379/2013/EU európai parlamenti és tanácsi rendelet halászati és akvakultúra-termékek feldolgozásához és forgalmazásához,
+d)[^40] – a 9., 12., 14. alcím, valamint – ha a támogatás összegét nem a piacon vásárolt vagy forgalomba hozott termékek ára vagy mennyisége alapján határozzák meg – a 4. és az 5. alcím szerinti támogatás kivételével – az 1379/2013/EU európai parlamenti és tanácsi rendelet halászati és akvakultúra-termékek feldolgozásához és forgalmazásához,
 
 e) – a 8–9., 12., 14., 17–17/A. és 19–20. alcím szerinti támogatás kivételével – elsődleges mezőgazdasági termeléshez,
 
@@ -32,9 +32,9 @@ j) – a 4. alcím szerinti támogatás kivételével – a versenyképtelen sz�
 
 k) – a 4. alcím szerinti támogatás kivételével – atomenergia termeléshez.
 
-(4)[^32] Amennyiben a kedvezményezett a (3) bekezdés c)–f) pontjában kizárt ágazatok bármelyikében és ezektől eltérő egy vagy több ágazatban egyaránt végez tevékenységet, a 4. és 5. alcím szerinti támogatás akkor nyújtható a kedvezményezett részére ez utóbbi egyéb tevékenységhez, ha a kedvezményezett megfelelő eszközökkel – úgymint a tevékenységek szétválasztásával vagy számviteli elkülönítéssel – biztosítja, hogy a (3) bekezdés c)–f) pontjában említett kizárt ágazatokban végzett tevékenységek ne részesüljenek a 4. és 5. alcím szerinti támogatásban.
+(4)[^41] Amennyiben a kedvezményezett a (3) bekezdés c)–f) pontjában kizárt ágazatok bármelyikében és ezektől eltérő egy vagy több ágazatban egyaránt végez tevékenységet, a 4. és 5. alcím szerinti támogatás akkor nyújtható a kedvezményezett részére ez utóbbi egyéb tevékenységhez, ha a kedvezményezett megfelelő eszközökkel – úgymint a tevékenységek szétválasztásával vagy számviteli elkülönítéssel – biztosítja, hogy a (3) bekezdés c)–f) pontjában említett kizárt ágazatokban végzett tevékenységek ne részesüljenek a 4. és 5. alcím szerinti támogatásban.
 
-(4a)[^33] Nem minősül exporttámogatásnak az olyan támogatás, amellyel a kereskedelmi vásárokon való részvétel költségeihez vagy olyan tanulmányok vagy tanácsadói szolgáltatások költségeihez járulnak hozzá, amelyek valamely új vagy már meglévő terméknek egy új piacra történő bevezetéséhez szükségesek.
+(4a)[^42] Nem minősül exporttámogatásnak az olyan támogatás, amellyel a kereskedelmi vásárokon való részvétel költségeihez vagy olyan tanulmányok vagy tanácsadói szolgáltatások költségeihez járulnak hozzá, amelyek valamely új vagy már meglévő terméknek egy új piacra történő bevezetéséhez szükségesek.
 
 (5) A 651/2014/EU bizottsági rendelet alapján nyújtott támogatás a 651/2014/EU bizottsági rendelet értelmében vett kulturális célú támogatás kivételével csak akkor ítélhető meg, ha a kedvezményezett a 651/2014/EU bizottsági rendelet 6. cikk (2) bekezdésében meghatározott kötelező tartalmi elemeket tartalmazó támogatási kérelmét a projekt megkezdése előtt írásban benyújtotta.
 
@@ -44,7 +44,7 @@ k) – a 4. alcím szerinti támogatás kivételével – atomenergia termelésh
 
 (8) Az egy projekthez igénybe vett összes támogatás – függetlenül attól, hogy annak finanszírozása uniós, országos, regionális vagy helyi forrásból történik – támogatási intenzitása nem haladhatja meg az irányadó uniós állami támogatási szabályokban meghatározott támogatási intenzitást vagy támogatási összeget.
 
-(9)[^34] A 4. és 5. alcím szerinti azonosítható elszámolható költségekkel nem rendelkező támogatás bármely egyéb, azonosítható elszámolható költségekkel rendelkező állami támogatással halmozható. Az azonosítható elszámolható költségekkel nem rendelkező támogatás a csoportmentességi rendeletekben és az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb teljes finanszírozási határértékig bármilyen más, azonosítható elszámolható költségekkel nem rendelkező állami támogatással halmozható.
+(9)[^43] A 4. és 5. alcím szerinti azonosítható elszámolható költségekkel nem rendelkező támogatás bármely egyéb, azonosítható elszámolható költségekkel rendelkező állami támogatással halmozható. Az azonosítható elszámolható költségekkel nem rendelkező támogatás a csoportmentességi rendeletekben és az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb teljes finanszírozási határértékig bármilyen más, azonosítható elszámolható költségekkel nem rendelkező állami támogatással halmozható.
 
 (10) A támogatási intenzitás kiszámítása során valamennyi felhasznált számadatot az adók és illetékek levonása előtt kell figyelembe venni. Ha a támogatást visszatérítendő formában nyújtják, a támogatás összegének a támogatástartalmat kell tekinteni.
 
@@ -52,9 +52,10 @@ k) – a 4. alcím szerinti támogatás kivételével – atomenergia termelésh
 
 (12) Az általános forgalmi adó nem támogatható, kivéve, ha az általános forgalmi adóra vonatkozó nemzeti jogszabályok értelmében az nem igényelhető vissza.
 
-[^29]: Az 5. § (2) bekezdése a 8/2023. (XII. 28.) MVM rendelet 3. §-ával megállapított szöveg.
-[^30]: Az 5. § (2a) bekezdését a 4/2024. (IV. 9.) MVM rendelet 1. § (1) bekezdése iktatta be.
-[^31]: Az 5. § (3) bekezdése a 4/2024. (IV. 9.) MVM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^32]: Az 5. § (4) bekezdése a 4/2024. (IV. 9.) MVM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^33]: Az 5. § (4a) bekezdését a 8/2023. (XII. 28.) MVM rendelet 4. §-a iktatta be.
-[^34]: Az 5. § (9) bekezdése a 8/2023. (XII. 28.) MVM rendelet 24. § 4. pontja szerint módosított szöveg.
+[^37]: Az 5. § (2) bekezdése a 8/2023. (XII. 28.) MVM rendelet 3. §-ával megállapított szöveg.
+[^38]: Az 5. § (2a) bekezdését a 4/2024. (IV. 9.) MVM rendelet 1. § (1) bekezdése iktatta be.
+[^39]: Az 5. § (3) bekezdése a 4/2024. (IV. 9.) MVM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^40]: Az 5. § (3) bekezdés d) pontja az 1/2025. (IV. 4.) MvM rendelet 5. § d) pontja szerint módosított szöveg.
+[^41]: Az 5. § (4) bekezdése a 4/2024. (IV. 9.) MVM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^42]: Az 5. § (4a) bekezdését a 8/2023. (XII. 28.) MVM rendelet 4. §-a iktatta be.
+[^43]: Az 5. § (9) bekezdése a 8/2023. (XII. 28.) MVM rendelet 24. § 4. pontja szerint módosított szöveg.

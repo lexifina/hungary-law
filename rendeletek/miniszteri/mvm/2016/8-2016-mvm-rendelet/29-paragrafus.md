@@ -1,6 +1,6 @@
 ## 19. Energetikai célú infrastruktúrához nyújtott beruházási támogatás
 
-29. §[^67] (1) Az energetikai célú infrastruktúrához nyújtott beruházási támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) energetikai célú infrastruktúra létrehozásához, korszerűsítéséhez és bővítéséhez nyújtható.
+29. §[^79] (1) Az energetikai célú infrastruktúrához nyújtott beruházási támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) energetikai célú infrastruktúra létrehozásához, korszerűsítéséhez és bővítéséhez nyújtható.
 
 (2) Nem nyújtható támogatás
 
@@ -16,4 +16,4 @@ b) az infrastruktúra kizárólag hidrogén és megújuló gázok használatára
 
 c) az infrastruktúrát 50%-ot meghaladó mértékben hidrogén és megújuló gázok szállítására használják.
 
-[^67]: A 29. § a 8/2023. (XII. 28.) MVM rendelet 18. §-ával megállapított szöveg.
+[^79]: A 29. § a 8/2023. (XII. 28.) MVM rendelet 18. §-ával megállapított szöveg.
