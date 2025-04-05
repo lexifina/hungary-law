@@ -1,0 +1,3 @@
+7/B. §[^26] Az engedélyezett licenc vizsga elhalasztására irányuló szándékát a jelöltnek legkésőbb a vizsgát megelőző ötödik munkanapig kell jeleznie az NVB-nek. A licenc vizsga elhalasztása esetén a jelöltnek ismételten jelentkeznie kell az NVB-nél. Az első alkalommal jelzett halasztás esetén a jelölt a licencvizsgadíj ismételt megfizetése alól mentesül. Amennyiben a jelölt a licenc vizsga elhalasztására irányuló szándékát nem jelezte, vagy ugyanazon licenc vizsga második vagy további alkalommal történő elhalasztása esetén a licenc vizsga díját ismételten meg kell fizetni.
+
+[^26]: A 7/B. §-t a 10/2025. (IV. 4.) BM rendelet 29. §-a iktatta be.

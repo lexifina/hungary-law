@@ -2,7 +2,7 @@
 
 7. § (1)[^20] A licenc vizsgáztatással kapcsolatos szervezési és adminisztratív feladatokat az Országos Kórházi Főigazgatóság (a továbbiakban: OKFŐ) szakorvosi szakvizsgáztatással kapcsolatos feladatok ellátásáért felelős szervezeti egysége, a Nemzeti Vizsgabizottság (a továbbiakban: NVB) végzi. Az NVB minden év február 15-éig és augusztus 15-éig az OKFŐ honlapján közzéteszi a következő félévre vonatkozó licenc vizsganaptárt.
 
-(1a)[^21] A szakorvos licenc vizsgára az NVB-nél jelentkezik. A jelentkezéshez mellékelni kell:
+(1a)[^21] A szakorvos a tavaszi licenc vizsgákra a megelőző év október 1–31. között, az őszi félévi licenc vizsgákra az adott év május 1–31. közötti időszakában az NVB-nél jelentkezik. A jelentkezéshez mellékelni kell:
 
 a) az egyetem által kiállított, a 6. § (2) bekezdése szerinti és
 
@@ -21,7 +21,7 @@ igazolást.
 (5) A vizsgabizottság tagjai – számla vagy más elszámolásra alkalmas költségigazolás ellenében – a vizsgáztatással összefüggő utazási költségeik megtérítésére jogosultak.
 
 [^20]: A 7. § (1) bekezdése az 54/2015. (XI. 24.) EMMI rendelet 50. § (1) bekezdésével megállapított, a 7/2024. (II. 12.) BM rendelet 25. § b) pontja, a 7/2024. (II. 12.) BM rendelet 25. § c) pontja szerint módosított szöveg.
-[^21]: A 7. § (1a) bekezdését az 54/2015. (XI. 24.) EMMI rendelet 50. § (2) bekezdése iktatta be.
+[^21]: A 7. § (1a) bekezdését az 54/2015. (XI. 24.) EMMI rendelet 50. § (2) bekezdése iktatta be, nyitó szövegrésze a 10/2025. (IV. 4.) BM rendelet 32. § 1. pontja szerint módosított szöveg.
 [^22]: A 7. § (1b) bekezdését az 54/2015. (XI. 24.) EMMI rendelet 50. § (2) bekezdése iktatta be, szövege a 7/2024. (II. 12.) BM rendelet 25. § d) pontja szerint módosított szöveg.
 [^23]: A 7. § (2) bekezdése a 7/2024. (II. 12.) BM rendelet 25. § e) pontja szerint módosított szöveg. [A 61/2024. (XII. 30.) BM rendelet 19. § a) pontjában foglalt azon módosítás, amely szerint a 7. § (2) bekezdésében a „40 000 forint” szövegrész helyébe az „50 000 forint” szöveg lép, nem vezethető át.]
 [^24]: A 7. § (3) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 138. § (2) bekezdésével megállapított, az 54/2016. (XII. 30.) EMMI rendelet 87. § d) pontja, a 7/2024. (II. 12.) BM rendelet 25. § f) pontja szerint módosított szöveg.

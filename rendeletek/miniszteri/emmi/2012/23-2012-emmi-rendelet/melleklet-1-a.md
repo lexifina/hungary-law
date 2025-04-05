@@ -48,11 +48,15 @@
 
 | 24. | Endoszkópos retrográd cholangiopancreatographia (ERCP) | beavatkozási | 12 hónap + további gyakorlati képzés az emelt szintű ERCP intervenciók elsajátításához |
 
-| 25. | Krónikus gyulladásos bélbetegségek centrum jogú ellátója 1 | specializációs | 12–24 hónap |
+| 25. | Krónikus gyulladásos bélbetegségek centrum jogú ellátója | specializációs | 12–24 hónap |
 
 | 26. | Klinikai andrológia | specializációs | 12 hónap |
 
-1a. melléklet a 23/2012. (IX. 14.) EMMI rendelethez[^54]
+| 27. | Életmódorvostan és prevenció | interdiszciplináris | 13 hónap |
+
+| 28. | Pajzsmirigy ultrahang | beavatkozási | 12 hónap |
+
+1a. melléklet a 23/2012. (IX. 14.) EMMI rendelethez[^58]
 
 Szakpszichológusi licencek listája
 
@@ -62,4 +66,4 @@ Szakpszichológusi licencek listája
 
 | 2. | Reproduktív pszichológiai szaktanácsadó | specializációs | 12 hónap |
 
-[^54]: Az 1a. mellékletet a 45/2024. (IX. 26.) BM rendelet 4. § (2) bekezdése iktatta be.
+[^58]: Az 1a. mellékletet a 45/2024. (IX. 26.) BM rendelet 4. § (2) bekezdése iktatta be.
