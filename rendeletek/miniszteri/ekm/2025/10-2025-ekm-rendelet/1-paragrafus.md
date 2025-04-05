@@ -2,6 +2,6 @@
 
 ## [2] A közúti közlekedésről szóló 1988. évi I. törvény 48. § (3) bekezdés g) pont 1–2. és 4. alpontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 95. § 8. és 9. pontjában meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 103. § (1) bekezdés 22. pontjában meghatározott feladatkörében eljáró nemzetgazdasági miniszterrel egyetértésben – a következőket rendelem el:
 
-1. § A használati díj megfizetése ellenében használható autópályákról, autóutakról, főutakról és azok díjáról szóló 45/2020. (XI. 28.) ITM rendelet 22. §-a a következő (10) bekezdéssel egészül ki:
+1. §[^2]
 
-„(10) A 8. § (2)–(4b) bekezdésétől eltérően a 3. § (4) bekezdésében meghatározott, Borsod-Abaúj-Zemplén vármegye díjköteles úthálózatára a 2026. évre érvényes jogosultság általános forgalmi adóval terhelt, forintban meghatározott ára a 3. § (4) bekezdésében meghatározott többi vármegyei jogosultság 2026. évre érvényes árának 35%-a, – a matematikai kerekítési szabályok alkalmazásával – tízforintos kerekítési pontossággal meghatározottan. Az így megállapított árat a NÚSZ Zrt. a honlapján közzéteszi. A közzététel és a hatálybalépés között legalább 30 napnak el kell telnie. A NÚSZ Zrt. a közzététel során a 8. § (5) és (6) bekezdésének megfelelő alkalmazásával jár el.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
