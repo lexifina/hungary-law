@@ -1,3 +1,3 @@
-6. § A Rendelet 8. §-a a következő c) ponttal egészül ki:
+6. §[^7]
 
-(E rendelet alapján)
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
