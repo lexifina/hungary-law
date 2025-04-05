@@ -2,12 +2,6 @@
 
 ## [2] A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 83. § (6a) bekezdésében, valamint a külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény 59. § (2) bekezdés q) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 139. § 2. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § A kihelyező szervnél működő foglalkozás-egészségügyi szolgálat által végzett, a kihelyezett és a külképviselet által foglalkoztatott házastárs alkalmassági vizsgálatának és a kihelyezett hozzátartozójának alkalmassági vizsgálatának, valamint a felülvizsgálat rendjének részletes szabályairól szóló 12/2022. (X. 10.) KKM rendelet (a továbbiakban: KKM rendelet) 2. §-a helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„2. § E rendelet alkalmazásában
-
-1. expozíció: a munkavégzés helyén, illetve az állomáshelyen jelen lévő és az e rendelet hatálya alá eső személyt érő kóroki tényező, illetve tényezőcsoport vagy tényezőcsoportok hatásának való kitettség;
-
-2. tartós külszolgálati kihelyezést megelőző szűrővizsgálat: a tartós külszolgálati pályázati rendszerhez kapcsolódó, tartós külszolgálati pályázat benyújtására jogosult vagy tartós külszolgálati munkakör ellátására kijelölt személy tekintetében lefolytatható olyan foglalkozás-egészségügyi vizsgálat, amelynek célja az esetleges kóroki tényezők fennálltának korai, megelőző felismerése, valamint az általános egészségi állapot felmérése;
-
-3. tartós külszolgálatra való alkalmasság vizsgálata: annak megállapítása, hogy a Külszoltv. 1. melléklete szerinti, egy meghatározott külszolgálati munkakörben és állomáshelyen ellátott tevékenység, valamint az adott állomáshelyen történő külképviselet által foglalkoztatott házastársi alkalmazás, illetve az adott állomáshelyen vagy az érintett fogadó országban történő életvitelszerű tartózkodás által okozott fizikai megterhelés a vizsgált személy számára milyen igénybevételt jelent, és annak képes-e megfelelni.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
