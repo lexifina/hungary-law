@@ -1,0 +1,3 @@
+3. § Az R. 42. §-a a következő (33) bekezdéssel egészül ki:
+
+„(33) E rendeletnek a fejezeti kezelésű előirányzatok és a központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 8/2016. (III. 25.) MvM rendeletnek a 2025. évi felhasználási szabályok megállapítására irányuló módosításáról szóló 1/2025. (IV. 4.) MvM rendelettel (a továbbiakban: Módr31.) megállapított 8. § (4) bekezdését, 9. § (4) bekezdését, 1. melléklet 5. és 5a. sorát, módosított 2/B. § 1–3., valamint 5–9. pontját, 5. § (3) bekezdés d) pontját, 11/C. § (1) és (6) bekezdését, 23/A. alcímét, 43. § e) és f) pontját, 1. melléklet címét, 1. mellékletében foglalt táblázat 8–12., 15–19., 21. és 22. sorát a Módr31. hatálybalépése napján folyamatban lévő ügyekben is alkalmazni kell.”
