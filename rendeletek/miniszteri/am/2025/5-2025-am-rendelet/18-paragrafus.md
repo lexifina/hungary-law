@@ -1,1 +1,3 @@
-18. § A 15/2024. (IV. 9.) AM rendelet az 1. melléklet szerinti 4. melléklettel egészül ki.
+18. §[^19]
+
+[^19]: A 18. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

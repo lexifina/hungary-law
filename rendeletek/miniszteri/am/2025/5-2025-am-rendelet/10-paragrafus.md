@@ -1,3 +1,3 @@
-10. § A 15/2024. (IV. 9.) AM rendelet 14. § (1) bekezdése helyébe a következő rendelkezés lép:
+10. §[^11]
 
-„(1) A benyújtott egységes kérelemben megadott adatokra vonatkozó adatváltozás bejelentése a 11. § (3) bekezdésében foglaltaknak megfelelően – a (7) bekezdésben foglaltak kivételével – tárgyév június 9. napját követően tehető meg az egységes kérelem felületen.”
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

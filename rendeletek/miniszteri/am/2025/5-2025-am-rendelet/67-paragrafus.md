@@ -1,1 +1,3 @@
-67. § Hatályát veszti a 21/2024. (IV. 9.) AM rendelet 4. melléklete.
+67. §[^68]
+
+[^68]: A 67. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

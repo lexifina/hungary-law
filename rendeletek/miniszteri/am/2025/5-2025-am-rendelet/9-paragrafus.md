@@ -1,3 +1,3 @@
-9. § A 15/2024. (IV. 9.) AM rendelet 13. §-a a következő (4) bekezdéssel egészül ki:
+9. §[^10]
 
-„(4) Az ökológiai célú vízpótlásra használt terület esetében a mezőgazdasági terület 1. § 46. pont b) alpontja szerinti állapotban tartását vélelmezni kell a vízborítottság időtartama alatt.”
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-56. § A 19/2024. (IV. 9.) AM rendelet 28. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
+56. §[^57]
 
-(A szálas fehérjetakarmány-növény termesztés támogatás igénybevételének további feltétele, hogy)
+[^57]: Az 56. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

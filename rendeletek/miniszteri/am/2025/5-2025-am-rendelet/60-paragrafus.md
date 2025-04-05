@@ -1,1 +1,3 @@
-60. § Hatályát veszti a 19/2024. (IV. 9.) AM rendelet 18. § (6) bekezdés a) pontja, 22. § (3) bekezdés b) pontja.
+60. §[^61]
+
+[^61]: A 60. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

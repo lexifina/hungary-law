@@ -1,3 +1,3 @@
-13. § A 15/2024. (IV. 9.) AM rendelet 18. § (2) bekezdése helyébe a következő rendelkezés lép:
+13. §[^14]
 
-„(2) Ha jogszabály vagy pályázati felhívás eltérően nem rendelkezik, akkor a mezőgazdasági termelőnek az egységes kérelemben bejelentett tábláin megvalósított másodvetés tényleges vetését, annak helyét, a hasznosítás megnevezését és a betakarítását, beforgatását vagy bedolgozást – a vetést, a betakarítást, beforgatást vagy bedolgozást követő húsz napon belül – külön be kell jelentenie a Kincstár részére az egységes kérelem felületen. Az egy másodvetésre vonatkozó tényleges vetési, betakarítási, beforgatási vagy bedolgozási időpontokat külön-külön kell bejelenteni.”
+[^14]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

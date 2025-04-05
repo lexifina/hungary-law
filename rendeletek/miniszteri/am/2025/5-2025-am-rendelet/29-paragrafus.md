@@ -1,1 +1,3 @@
-29. § A 16/2024. (IV. 9.) AM rendelet 3. § (5) bekezdésben a „helyszíni vizsgálata során jelentős meg nem felelést” szövegrész helyébe a „helyszíni vizsgálata során jelentős számú meg nem felelést” szöveg lép.
+29. §[^30]
+
+[^30]: A 29. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

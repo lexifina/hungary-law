@@ -1,1 +1,3 @@
-51. § A 18/2024. (IV. 9.) AM rendelet 14. § (4) bekezdés e) pontjában az „ENAR rendelet szerinti tartós jelöléséről” szövegrész helyébe az „ENAR rendelet szerinti jelöléséről” szöveg lép.
+51. §[^52]
+
+[^52]: Az 51. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

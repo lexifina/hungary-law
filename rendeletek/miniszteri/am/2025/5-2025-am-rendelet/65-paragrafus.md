@@ -1,3 +1,3 @@
-65. § (1) A 21/2024. (IV. 9.) AM rendelet 2. melléklete helyébe a 25. melléklet lép.
+65. §[^66]
 
-(2) A 21/2024. (IV. 9.) AM rendelet 3. melléklete a 26. melléklet szerint módosul.
+[^66]: A 65. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-2. § Hatályát veszti a történelmi bázis jogosultságról szóló 106/2007. (IX. 24.) FVM rendelet 5. § (4) bekezdés b) pont záró szövegrészében a „valamint a kiegészítő történelmi bázisjogosultság” szövegrész.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

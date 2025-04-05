@@ -1,7 +1,3 @@
-30. § Hatályát veszti a 16/2024. (IV. 9.) AM rendelet
+30. §[^31]
 
-a) 1. § 4. pontjában az „ide nem értve a kizárólag deflációs kockázatnak kitett területet” szövegrész,
-
-b) 1. § 8. pontja,
-
-c) 29. § (4)–(6) bekezdése.
+[^31]: A 30. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

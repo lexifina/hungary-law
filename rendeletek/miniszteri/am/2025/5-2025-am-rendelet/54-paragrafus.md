@@ -1,3 +1,3 @@
-54. § A 19/2024. (IV. 9.) AM rendelet 14. § (1) bekezdése a következő f) ponttal egészül ki:
+54. §[^55]
 
-(Anyatehéntartás támogatására az a mezőgazdasági termelő jogosult, aki vagy amely)
+[^55]: Az 54. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

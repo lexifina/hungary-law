@@ -1,3 +1,3 @@
-63. § A 21/2024. (IV. 9.) AM rendelet 3. § (6) bekezdése helyébe a következő rendelkezés lép:
+63. §[^64]
 
-„(6) Ha az egységes kérelmet jogi személy nyújtja be, akkor az 1. § (3) bekezdés a) pontja szerinti természetes személynek a jogi személyben a tényleges és hosszú távú ellenőrzést a tárgyévben, a támogatási kérelem benyújtásától megszakítás nélkül kell gyakorolnia.”
+[^64]: A 63. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
