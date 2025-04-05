@@ -1374,9 +1374,9 @@ IV. A szakképesítés vizsgáztatási követelményei
 
 1. A szakmai vizsgára jelentkezés feltételei
 
-1.1. Iskolai végzettség:
+1.1.[^29] Iskolai végzettség:
 
-– középiskolai végzettség.
+– érettségi végzettség.
 
 1.2. Általános természetgyógyászati ismeretek modul, egészségügyi modul eredményes vizsgával történő teljesítése.
 
@@ -1398,11 +1398,11 @@ A szakmai gyakorlat elvégzéséről szóló igazolást a szakmai vizsgára jele
 
 A III. 2. pontban rögzített szakmai követelmények alapján a jelzett szintek szerint.
 
-3.[^29] A szakmai vizsga részei
+3.[^30] A szakmai vizsga részei
 
-3.1. Szakmai gyakorlati vizsga
+3.1.[^31] Szakmai gyakorlati vizsga
 
-A gyakorlati vizsga helye független a vizsgázó saját munkahelyétől, a vizsga helyét az Egészségügyi Szakképző és Továbbképző Intézet jelöli ki.
+A gyakorlati vizsga helye független a vizsgázó saját munkahelyétől, a vizsga helyét az OKFŐ jelöli ki.
 
 A gyakorlati vizsga az alábbi vizsgafeladatokból tevődik össze:
 
@@ -1428,11 +1428,11 @@ Témakörei:
 
 – Etikai ismeretek.
 
-3.2.1. Írásbeli vizsga
+3.2.1.[^32] Írásbeli vizsga
 
-Az írásbeli vizsgán a fenti témakörök szakmai követelményei alapján szerkesztett feladatlapot oldanak meg a vizsgázók. A feladatlapot a Népjóléti Minisztérium központilag adja ki.
+Az írásbeli vizsgán a fenti témakörök szakmai követelményei alapján szerkesztett feladatlapot oldanak meg a vizsgázók. A feladatlapot az OKFŐ központilag adja ki.
 
-3.2.2.[^30] Szóbeli vizsga
+3.2.2.[^33] Szóbeli vizsga
 
 Célja:
 
@@ -1472,7 +1472,7 @@ A szóbeli vizsga során a fenti témakörökben kérdéseket kell megválaszoln
 
 A konkrét szakmai tételeket az OKFŐ adja ki.
 
-4.[^31] A vizsgázók teljesítményének értékelése
+4.[^34] A vizsgázók teljesítményének értékelése
 
 A vizsgázók teljesítményének értékelését az OKFŐ által kiadott vizsgaszabályzat melléklete tartalmazza.
 
@@ -1620,9 +1620,9 @@ IV. A szakképesítés vizsgáztatási követelményei
 
 1. A szakmai vizsgára jelentkezés feltételei
 
-1.1. Iskolai végzettség:
+1.1.[^35] Iskolai végzettség:
 
-– középiskolai végzettség.
+– érettségi végzettség.
 
 1.2. Általános természetgyógyászati ismeretek modul, egészségügyi modul eredményes vizsgával történő teljesítése.
 
@@ -1648,9 +1648,9 @@ A III. 2. pontban rögzített szakmai követelmények alapján a jelzett szintek
 
 3. A szakmai vizsga részei
 
-3.1. Szakmai gyakorlati vizsga
+3.1.[^36] Szakmai gyakorlati vizsga
 
-A gyakorlati vizsga helye független a vizsgázó saját munkahelyétől, a vizsga helyét az Egészségügyi Szakképző és Továbbképző Intézet jelöli ki.
+A gyakorlati vizsga helye független a vizsgázó saját munkahelyétől, a vizsga helyét az OKFŐ jelöli ki.
 
 A gyakorlati vizsga az alábbi vizsgafeladatokból tevődik össze:
 
@@ -1770,9 +1770,9 @@ Témakörei:
 
 – Jogi, etikai ismeretek.
 
-3.2.1. Írásbeli vizsga
+3.2.1.[^37] Írásbeli vizsga
 
-Az írásbeli vizsgán a fenti témakörök szakmai követelményei alapján szerkesztett feladatlapot oldanak meg a vizsgázók. A feladatlapot a Népjóléti Minisztérium központilag adja ki.
+Az írásbeli vizsgán a fenti témakörök szakmai követelményei alapján szerkesztett feladatlapot oldanak meg a vizsgázók. A feladatlapot az OKFŐ központilag adja ki.
 
 3.2.2. Szóbeli vizsga
 
@@ -1800,7 +1800,7 @@ A szóbeli vizsga során az alábbi témakörökben kell kérdéseket megválasz
 
 – titoktartási kötelezettség a gyakorlatban.
 
-4.[^32] A vizsgázók teljesítményének értékelése
+4.[^38] A vizsgázók teljesítményének értékelése
 
 A vizsgázók teljesítményének értékelését az OKFŐ által kiadott vizsgaszabályzat melléklete tartalmazza.
 
@@ -2058,13 +2058,13 @@ IV. A szakképesítés vizsgáztatási követelményei
 
 1. A szakmai vizsgára jelentkezés feltételei
 
-1.1.[^33] Iskolai végzettség: felsőoktatási intézményben megszerzett oklevél (BA/BSc, MA/MSc, egyetemi, főiskolai).
+1.1.[^39] Iskolai végzettség: felsőoktatási intézményben megszerzett oklevél (BA/BSc, MA/MSc, egyetemi, főiskolai).
 
 1.2. Általános természetgyógyászati ismeretek modul, egészségügyi modul eredményes vizsgával történő teljesítése.
 
 1.3. Életmódtanácsadó képzési program, elméleti blokk (alap, speciális modul) teljesítése.
 
-1.4. Igazolt szakmai gyakorlat
+1.4.[^40] Igazolt szakmai gyakorlat
 
 – 2 hét orvos-természetgyógyászati rendelőben,
 
@@ -2074,9 +2074,7 @@ IV. A szakképesítés vizsgáztatási követelményei
 
 – 2 hét életmód-tanácsadó rendelőben, és életmód klubban.
 
-Megélt gyökeres életmódváltás legalább egyéves saját élményű tapasztalatról esettanulmány készítése, bemutatása.
-
-Betöltött 28. év
+Megélt gyökeres életmódváltás legalább kétéves saját élményű tapasztalatról esettanulmány készítése, bemutatása.
 
 2. A szakmai vizsga egyes részei alóli felmentés
 
@@ -2088,7 +2086,7 @@ A III. 2. pontban rögzített szakmai követelmények alapján a jelzett szintek
 
 4. A szakmai vizsga részei
 
-4.1.[^34] Szakmai gyakorlati vizsga
+4.1.[^41] Szakmai gyakorlati vizsga
 
 A gyakorlati vizsga helye független a vizsgázó saját munkahelyétől, a vizsga helyét az OKFŐ jelöli ki.
 
@@ -2150,9 +2148,9 @@ Témakörei:
 
 – Jogi és etikai ismeretek.
 
-4.2.1. Írásbeli vizsga
+4.2.1.[^42] Írásbeli vizsga
 
-Az írásbeli vizsgán a fenti témakörök szakmai követelményei alapján szerkesztett feladatlapot oldanak meg a vizsgázók. A feladatlapot a Népjóléti Minisztérium központilag adja ki.
+Az írásbeli vizsgán a fenti témakörök szakmai követelményei alapján szerkesztett feladatlapot oldanak meg a vizsgázók. A feladatlapot az OKFŐ központilag adja ki.
 
 4.2.2. Szóbeli vizsga
 
@@ -2236,7 +2234,7 @@ Egészségnevelés és klasszikus természetgyógyászat:
 
 – ellenőrzés, értékelés.
 
-5.[^35] A vizsgázók teljesítményének értékelése
+5.[^43] A vizsgázók teljesítményének értékelése
 
 A vizsgázók teljesítményének értékelését az OKFŐ által kiadott vizsgaszabályzat melléklete tartalmazza.
 
@@ -2374,9 +2372,9 @@ IV. A szakképesítés vizsgáztatási követelményei
 
 1. A szakmai vizsgára jelentkezés feltételei
 
-1.1. Iskolai végzettség:
+1.1.[^44] Iskolai végzettség:
 
-– középiskolai végzettség.
+– érettségi végzettség.
 
 1.2. Általános természetgyógyászati ismeretek modul, egészségügyi modul eredményes vizsgával történő teljesítése.
 
@@ -2396,9 +2394,9 @@ A szakmai gyakorlat elvégzéséről szóló igazolást a szakmai vizsgára jele
 
 A III. 2. pontban rögzített szakmai követelmények alapján a jelzett szintek szerint.
 
-3.[^36] A szakmai vizsga részei
+3.[^45] A szakmai vizsga részei
 
-3.1.[^37] Szakmai gyakorlati vizsga
+3.1.[^46] Szakmai gyakorlati vizsga
 
 A gyakorlati vizsga helye független a vizsgázó saját munkahelyétől, a vizsga helyét az OKFŐ jelöli ki.
 
@@ -2508,11 +2506,11 @@ Témakörei:
 
 – Esettanulmány készítése egy betegről, amelyben a képzési programon elsajátított holisztikus szemlélet tükröződik (állapotfelmérés, terápiák idevonatkozó részei, nyomonkövetés).
 
-3.2.1. Írásbeli vizsga
+3.2.1.[^47] Írásbeli vizsga
 
-Az írásbeli vizsgán a fenti témakörök szakmai követelményei alapján szerkesztett feladatlapot oldanak meg a vizsgázók. A feladatlapot a Népjóléti Minisztérium központilag adja ki.
+Az írásbeli vizsgán a fenti témakörök szakmai követelményei alapján szerkesztett feladatlapot oldanak meg a vizsgázók. A feladatlapot az OKFŐ központilag adja ki.
 
-3.2.2.[^38] Szóbeli vizsga
+3.2.2.[^48] Szóbeli vizsga
 
 Célja:
 
@@ -2542,7 +2540,7 @@ A szóbeli vizsga során a fenti témakörökben kérdéseket kell megválaszoln
 
 A konkrét szakmai tételeket az OKFŐ adja ki.
 
-4.[^39] A vizsgázók teljesítményének értékelése
+4.[^49] A vizsgázók teljesítményének értékelése
 
 A vizsgázók teljesítményének értékelését az OKFŐ által kiadott vizsgaszabályzat melléklete tartalmazza.
 
@@ -2550,9 +2548,11 @@ ALTERNATÍV
 
 FIZIOTERÁPIÁS TOVÁBBKÉPZÉS
 
-A tevékenység rövid leírása
+A tevékenység rövid leírása[^50]
 
 Az alternatív fizioterápiás ismeretekkel rendelkező személy alternatív fizioterápiás, hidroterápiás eljárásokat, főként hidegvízkezeléseket alkalmaz (lemosás, zuhany, pakolás, rész- és egészfürdő), életmódi elvek oktatását, mozgásterápiát, masszázst és gyógynövényeket alkalmaz.
+
+Képesítés megnevezése: Alternatív fizioterapeuta.
 
 Követelmények
 
@@ -2608,7 +2608,7 @@ A hallgató legyen képes:
 
 – elkülöníteni az alternatív fizioterápiás módszereket, kiemelni a fizioterápiás módszerek lényegét, javallatait, ellenjavallatait, technikáját.
 
-A vizsga részei[^40]
+A vizsga részei[^51]
 
 Gyakorlati vizsga
 
@@ -2756,17 +2756,19 @@ Frissítő masszázs.
 
 A konkrét szakmai tételeket az OKFŐ adja ki.
 
-A vizsgázók teljesítményének értékelése[^41]
+A vizsgázók teljesítményének értékelése[^52]
 
 A vizsgázók teljesítményének értékelését az OKFŐ által kiadott vizsgaszabályzat melléklete tartalmazza.
 
 BIOENERGETIKUS TOVÁBBKÉPZÉS
 
-A tevékenység leírása
+A tevékenység leírása[^53]
 
-A bioenergetikai ismeretekkel rendelkező személy, a továbbképzésének megfelelő gyógyító módszereket és állapotfelmérő módszereket kiegészíti bioenergetikai vizsgálatokkal és kezelésekkel, melyek a következők lehetnek: bioenergetikai, radiesztéziai, ESP-n alapuló módszerek, USUI, Reiki, RAI Reiki (Tifar, Arolo), Human Energia Jógája, Mahikari, Biegelbauer-féle fényadás.
+A bioenergetikai ismeretekkel rendelkező személy, a továbbképzésének megfelelő gyógyító módszereket és állapotfelmérő módszereket kiegészíti bioenergetikai vizsgálatokkal és kezelésekkel, amelyek a következők lehetnek: bioenergetikai, radiesztéziai, ESP-n alapuló módszerek, USUI, Reiki, RAI Reiki (Tifar, Arolo), Human Energia Jógája, Mahikari, Biegelbauer-féle fényadás.
 
-A bioenergetikus a bioenergia szintet befolyásoló tényezőket, az ember testének közvetlen környezetében levő energia és kémiai térben fellépő, műszerekkel minimálisnak, szubtoxikusnak, határérték alattinak nevezhető behatásokat empírikus ismeretei alapján értékeli, majd a saját energiamezőjének felhasználásával a betege, kliense energiamezőjének befolyásolására törekszik.
+A bioenergetikus a bioenergia szintet befolyásoló tényezőket, az ember testének közvetlen környezetében levő energia és kémiai térben fellépő, műszerekkel minimálisnak, szubtoxikusnak, határérték alattinak nevezhető behatásokat empirikus ismeretei alapján értékeli, majd a saját energiamezőjének felhasználásával a betege, kliense energiamezőjének befolyásolására törekszik.
+
+Képesítés megnevezése: Bioenergetikus.
 
 Követelmények
 
@@ -2816,7 +2818,7 @@ A hallgató legyen képes:
 
 – ismertetni a geopatikus, strukturális és anyagszerkezeti sugárzások lényegét, a sugárhatások csökkentésének lehetőségeit és korlátait.
 
-Szakmai vizsga részei[^42]
+Szakmai vizsga részei[^54]
 
 Gyakorlat:
 
@@ -2892,15 +2894,17 @@ Mesterséges tárgyak: csövek, vízvezeték, padlófűtés stb. mint negatív f
 
 A konkrét szakmai tételeket az OKFŐ adja ki.
 
-A vizsgázók teljesítményének értékelése[^43]
+A vizsgázók teljesítményének értékelése[^55]
 
 A vizsgázók teljesítményének értékelését az OKFŐ által kiadott vizsgaszabályzat melléklete tartalmazza.
 
 FITOTERÁPIA TOVÁBBKÉPZÉS
 
-A tevékenység rövid leírása
+A tevékenység rövid leírása[^56]
 
 A fitoterápia magában foglalja a betegek gyógynövényekkel vagy gyógynövénykészítményekkel (gyógyhatású anyagok) történő kiegészítő kezelését. Az alkalmazónak ismernie kell a növények fő hatóanyagait, azok hatását a szervezetre, a növények hatástani, illetve terápiás besorolását, alkalmazásuk módját, helyét és értékét a terápiás rendszerben. A gyógynövények és a tápláléknövények alkalmazása bizonyos esetekben átfedi egymást, ezért bizonyos táplálkozástani összefüggésekre is tekintettel kell legyen.
+
+Képesítés megnevezése: Fitoterapeuta.
 
 Követelmények
 
@@ -2940,7 +2944,7 @@ A hallgató legyen képes:
 
 – információs, dokumentációs feladatot ellátni.
 
-A vizsga részei[^44]
+A vizsga részei[^57]
 
 Gyakorlati vizsga:
 
@@ -3028,17 +3032,19 @@ Elméleti szóbeli vizsga témakörei:
 
 A konkrét szakmai tételeket az OKFŐ adja ki.
 
-A vizsgázók teljesítményének értékelése[^45]
+A vizsgázók teljesítményének értékelése[^58]
 
 A vizsgázók teljesítményének értékelését az OKFŐ által kiadott vizsgaszabályzat melléklete tartalmazza.
 
 FÜLAKUPUNKTÚRÁS ADDIKTOLÓGIAI TOVÁBBKÉPZÉS
 
-A tevékenység leírása
+A tevékenység leírása[^59]
 
-A fülkagyló meghatározott pontjaiba bőrbe bevezetett vékony, 0,3 mm-nél nem vastagabb és 1,5 cm-nél nem hosszabb akupunktúrás tű beszúrása. A szúrást mindkét fülbe szimmetrikusan végzik.
+A fülkagyló meghatározott pontjaiba, bőrbe bevezetett vékony, 0,3 mm-nél nem vastagabb és 1,5 cm-nél nem hosszabb akupunktúrás tű beszúrása. A szúrást mindkét fülbe szimmetrikusan végzik.
 
-A beavatkozás célja: a szenvedélybetegek leszoktatása, méregtelenítés (innen a másik név: akudetox), feszültségoldás. Hasznos kiegészítő módszer még álmatlanság, gyógyszermérgezés és elvonási tünetek esetén (delírium tremens stb.).
+A beavatkozás célja: a szenvedélybetegek leszoktatása, méregtelenítés, akudetox, feszültségoldás. Hasznos kiegészítő módszer még álmatlanság, gyógyszermérgezés és elvonási tünetek esetén.
+
+Képesítés megnevezése: Fülakupunktúrás addiktológus.
 
 Követelmények
 
@@ -3104,7 +3110,7 @@ Egyéb követelmények:
 
 – A kezelés eszköze: a fenti méreteknek megfelelő akupunktúrás tűk. Az akupunktúrás tűk újrafelhasználása esetén hőlégsterilizátor használata kötelező, így biztosított, hogy a tűk a sterilitás elveinek figyelembevételével mindig ugyanahhoz a kezelt személyhez tartozzanak (üvegfóliában tárolva, névazonosítóval ellátva, és papírvatta dugóval lezárva).
 
-A vizsga részei[^46]
+A vizsga részei[^60]
 
 Gyakorlati vizsga
 
@@ -3154,15 +3160,17 @@ A kezelési program megtervezése
 
 A konkrét szakmai tételeket az OKFŐ adja ki.
 
-A vizsgázók teljesítményének értékelése[^47]
+A vizsgázók teljesítményének értékelése[^61]
 
 A vizsgázók teljesítményének értékelését az OKFŐ által kiadott vizsgaszabályzat melléklete tartalmazza.
 
 KINEZIOLÓGIAI TOVÁBBKÉPZÉS
 
-A tevékenység leírása
+A tevékenység leírása[^62]
 
 A kineziológia a hagyományos távol-keleti gyógyászatra épülő gyógyítási és egészségfejlesztő rendszer, mely izomtesztek, speciális anamnézis felvétele, valamint speciális egyensúlyi és koordinációs technika segítségével oldja az ember távol-keleti megközelítés szerinti energiarendszerében levő blokádokat, kiegyensúlyozatlanságokat. A kineziológia az emberi képességek, készségek fejlesztésével, egészségmegőrzéssel foglalkozik azáltal, hogy a múltban és a jelenben elszenvedett stresszek, traumák negatív nyomait semlegesíti. A kineziológia az orvostudomány, a pszichológia és a pedagógia határterületén lévő készségfejlesztő, kiegészítő gyógyító rendszer.
+
+Képesítés megnevezése: Kineziológus.
 
 Követelmények
 
@@ -3180,7 +3188,7 @@ EGÉSZSÉGÜGYI MODUL: megegyezik az akupresszőr szakképesítés egészségüg
 
 TERMÉSZETGYÓGYÁSZATI MODUL: megegyezik az akupresszőr szakképesítés természetgyógyászati moduljával.
 
-A vizsga részei[^48]
+A vizsga részei[^63]
 
 Gyakorlati vizsga
 
@@ -3240,17 +3248,19 @@ Szakmai elméleti vizsga témakörei
 
 A konkrét szakmai tételeket az OKFŐ adja ki.
 
-A vizsgázók teljesítményének értékelése[^49]
+A vizsgázók teljesítményének értékelése[^64]
 
 A vizsgázók teljesítményének értékelését az OKFŐ által kiadott vizsgaszabályzat melléklete tartalmazza.
 
 SZEMTRÉNING TOVÁBBKÉPZÉS
 
-A tevékenység rövid leírása
+A tevékenység rövid leírása[^65]
 
 A látásjavító szemtorna/szemjóga, látáshabilitáció, rehabilitáció: olyan komplex terápia, mellyel a rossz nézési szokásokból adódó látászavarok javíthatók, a fáradt szemizmok pihentethetők, a szem alkalmazkodó képessége tréning révén erősíthető. A Bates-módszer prevencióra és bizonyos szembetegségek esetén a szakorvosi kezelés kiegészítésére alkalmas.
 
 Segítségével a csökkentlátást okozó szembetegségek esetén a látásmaradvány fokozható, progrediáló látáscsökkenés előrehaladása lassítható.
+
+Képesítés megnevezése: Szemtréner.
 
 Követelmények
 
@@ -3304,7 +3314,7 @@ A hallgató legyen képes:
 
 – alkalmazni relaxációs ismereteit.
 
-A vizsga részei[^50]
+A vizsga részei[^66]
 
 Gyakorlati vizsga
 
@@ -3352,31 +3362,47 @@ Elméleti-szóbeli vizsga témakörei
 
 A konkrét szakmai tételeket az OKFŐ adja ki.
 
-A vizsgázók teljesítményének értékelése[^51]
+A vizsgázók teljesítményének értékelése[^67]
 
 A vizsgázók teljesítményének értékelését az OKFŐ által kiadott vizsgaszabályzat melléklete tartalmazza.
 
 [^28]: A 4. számú melléklet a 23/2015. (IV. 28.) EMMI rendelet 12. § f) pontja szerint módosított szöveg.
-[^29]: A 4. számú melléklet „AKUPRESSZŐR” szakképesítés IV. rész 3. pont záró szövegrésze az 54/2016. (XII. 30.) EMMI rendelet 6. § e) pont ea) alpontja szerint módosított szöveg.
-[^30]: A 4. számú melléklet „AKUPRESSZŐR” rész IV. alcím 3. pont 3.2. alpont 3.2.2. pontja a 7/2024. (II. 12.) BM rendelet 4. § e) pont ea) alpontja szerint módosított szöveg.
-[^31]: A 4. számú melléklet „AKUPRESSZŐR” szakképesítés IV. rész 4. pontja a 7/2024. (II. 12.) BM rendelet 4. § e) pont eb) alpontja szerint módosított szöveg.
-[^32]: A 4. számú melléklet „ALTERNATÍV MOZGÁS- ÉS MASSZÁZSTERÁPEUTA” szakképesítés IV. rész 4. pontja a 7/2024. (II. 12.) BM rendelet 4. § e) pont ec) alpontja szerint módosított szöveg.
-[^33]: A 4. számú melléklet „ÉLETMÓD-TANÁCSADÓ ÉS TERAPEUTA” szakképesítés IV. rész 1. pont 1.1. alpontja a 24/1998. (VI. 17.) NM rendelet 4. §-a, pontja, a 7/2024. (II. 12.) BM rendelet 3. §-a szerint módosított szöveg.
-[^34]: A 4. számú melléklet „ÉLETMÓD-TANÁCSADÓ ÉS TERAPEUTA” szakképesítés IV. rész 4. pont 4.1. alpontja a 7/2024. (II. 12.) BM rendelet 4. § e) pont ed) alpontja szerint módosított szöveg.
-[^35]: A 4. számú melléklet „ÉLETMÓD-TANÁCSADÓ ÉS TERAPEUTA” szakképesítés IV. rész 5. pontja a 7/2024. (II. 12.) BM rendelet 4. § e) pont ee) alpontja szerint módosított szöveg.
-[^36]: A 4. számú melléklet „REFLEXOLÓGUS” szakképesítés IV. rész 3. pont záró szövegrésze az 54/2016. (XII. 30.) EMMI rendelet 6. § e) pont eg) alpontja szerint módosított szöveg.
-[^37]: A 4. számú melléklet „REFLEXOLÓGUS” szakképesítés IV. rész 3. pont 3.1. alpontja a 7/2024. (II. 12.) BM rendelet 4. § e) pont ef) alpontja szerint módosított szöveg.
-[^38]: A 4. melléklet „REFLEXOLÓGUS” rész IV. alcím 3. pont 3.2. alpont 3.2.2. pontja a 7/2024. (II. 12.) BM rendelet 4. § e) pont eg) alpontja szerint módosított szöveg.
-[^39]: A 4. számú melléklet „REFLEXOLÓGUS” szakképesítés IV. rész 4. pontja a 7/2024. (II. 12.) BM rendelet 4. § e) pont eh) alpontja szerint módosított szöveg.
-[^40]: A 4. számú melléklet „ALTERNATÍV FIZIOTERÁPIÁS TOVÁBBKÉPZÉS” rész „A vizsga részei” alcím záró szövegrésze a 7/2024. (II. 12.) BM rendelet 4. § e) pont ei) alpontja szerint módosított szöveg.
-[^41]: A 4. számú melléklet „ALTERNATÍV FIZIOTERÁPIÁS TOVÁBBKÉPZÉS” rész „A vizsgázók teljesítményének értékelése” alcíme a 7/2024. (II. 12.) BM rendelet 4. § e) pont ej) alpontja szerint módosított szöveg.
-[^42]: A 4. számú melléklet „BIOENERGETIKUS TOVÁBBKÉPZÉS” rész „Szakmai vizsga részei” alcím záró szövegrésze a 7/2024. (II. 12.) BM rendelet 4. § e) pont ek) alpontja szerint módosított szöveg.
-[^43]: A 4. számú melléklet „BIOENERGETIKUS TOVÁBBKÉPZÉS” rész „A vizsgázók teljesítményének értékelése” alcíme a 7/2024. (II. 12.) BM rendelet 4. § e) pont el) alpontja szerint módosított szöveg.
-[^44]: A 4. számú melléklet „FITOTERÁPIA TOVÁBBKÉPZÉS” rész „A vizsga részei” alcím záró szövegrésze a 7/2024. (II. 12.) BM rendelet 4. § e) pont em) alpontja szerint módosított szöveg.
-[^45]: A 4. számú melléklet „FITOTERÁPIA TOVÁBBKÉPZÉS” rész „A vizsgázók teljesítményének értékelése” alcíme a 7/2024. (II. 12.) BM rendelet 4. § e) pont en) alpontja szerint módosított szöveg.
-[^46]: A 4. számú melléklet „FÜLAKUPUNKTÚRÁS ADDIKTOLÓGIAI TOVÁBBKÉPZÉS” rész „A vizsga részei” alcím záró szövegrésze a 7/2024. (II. 12.) BM rendelet 4. § e) pont eo) alpontja szerint módosított szöveg.
-[^47]: A 4. számú melléklet „FÜLAKUPUNKTÚRÁS ADDIKTOLÓGIAI TOVÁBBKÉPZÉS” rész „A vizsgázók teljesítményének értékelése” alcíme a 7/2024. (II. 12.) BM rendelet 4. § e) pont ep) alpontja szerint módosított szöveg.
-[^48]: A 4. számú melléklet „KINEZIOLÓGIAI TOVÁBBKÉPZÉS” rész „A vizsga részei” alcím záró szövegrésze a 7/2024. (II. 12.) BM rendelet 4. § e) pont eq) alpontja szerint módosított szöveg.
-[^49]: A 4. számú melléklet „KINEZIOLÓGIAI TOVÁBBKÉPZÉS” rész „A vizsgázók teljesítményének értékelése” alcíme a 7/2024. (II. 12.) BM rendelet 4. § e) pont er) alpontja szerint módosított szöveg.
-[^50]: A 4. számú melléklet „SZEMTRÉNING TOVÁBBKÉPZÉS” rész „A vizsga részei” alcím záró szövegrésze a 7/2024. (II. 12.) BM rendelet 4. § e) pont es) alpontja szerint módosított szöveg.
-[^51]: A 4. számú melléklet „SZEMTRÉNING TOVÁBBKÉPZÉS” rész „A vizsgázók teljesítményének értékelése” alcíme a 7/2024. (II. 12.) BM rendelet 4. § e) pont et) alpontja szerint módosított szöveg.
+[^29]: A 4. számú melléklet „AKUPRESSZŐR” cím IV. alcím 1. pont 1.1. alpontja a 10/2025. (IV. 4.) BM rendelet 7. § 1. pontja szerint módosított szöveg.
+[^30]: A 4. számú melléklet „AKUPRESSZŐR” szakképesítés IV. rész 3. pont záró szövegrésze az 54/2016. (XII. 30.) EMMI rendelet 6. § e) pont ea) alpontja szerint módosított szöveg.
+[^31]: A 4. számú melléklet „AKUPRESSZŐR” cím IV. alcím 3. pont 3.1. alpontja a 10/2025. (IV. 4.) BM rendelet 7. § 2. pontja szerint módosított szöveg.
+[^32]: A 4. számú melléklet „AKUPRESSZŐR” cím IV. alcím 3. pont 3.2.1. alpontja a 10/2025. (IV. 4.) BM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^33]: A 4. számú melléklet „AKUPRESSZŐR” rész IV. alcím 3. pont 3.2. alpont 3.2.2. pontja a 7/2024. (II. 12.) BM rendelet 4. § e) pont ea) alpontja szerint módosított szöveg.
+[^34]: A 4. számú melléklet „AKUPRESSZŐR” szakképesítés IV. rész 4. pontja a 7/2024. (II. 12.) BM rendelet 4. § e) pont eb) alpontja szerint módosított szöveg.
+[^35]: A 4. számú melléklet „ALTERNATÍV MOZGÁS- ÉS MASSZÁZSTERÁPEUTA” cím IV. alcím 1. pont 1.1. alpontja a 10/2025. (IV. 4.) BM rendelet 7. § 4. pontja szerint módosított szöveg.
+[^36]: A 4. számú melléklet „ALTERNATÍV MOZGÁS- ÉS MASSZÁZSTERÁPEUTA” cím IV. alcím 3. pont 3.1. alpontja a 10/2025. (IV. 4.) BM rendelet 7. § 5. pontja szerint módosított szöveg.
+[^37]: A 4. számú melléklet „ALTERNATÍV MOZGÁS- ÉS MASSZÁZSTERÁPEUTA” cím IV. alcím 3. pont 3.2.1. alpontja a 10/2025. (IV. 4.) BM rendelet 7. § 6. pontja szerint módosított szöveg.
+[^38]: A 4. számú melléklet „ALTERNATÍV MOZGÁS- ÉS MASSZÁZSTERÁPEUTA” szakképesítés IV. rész 4. pontja a 7/2024. (II. 12.) BM rendelet 4. § e) pont ec) alpontja szerint módosított szöveg.
+[^39]: A 4. számú melléklet „ÉLETMÓD-TANÁCSADÓ ÉS TERAPEUTA” szakképesítés IV. rész 1. pont 1.1. alpontja a 24/1998. (VI. 17.) NM rendelet 4. §-a, pontja, a 7/2024. (II. 12.) BM rendelet 3. §-a szerint módosított szöveg.
+[^40]: A 4. számú melléklet „ÉLETMÓD-TANÁCSADÓ ÉS TERAPEUTA” cím IV. alcím 1. pont 1.4. alpontja a 10/2025. (IV. 4.) BM rendelet 7. § 7. pontja szerint módosított szöveg.
+[^41]: A 4. számú melléklet „ÉLETMÓD-TANÁCSADÓ ÉS TERAPEUTA” szakképesítés IV. rész 4. pont 4.1. alpontja a 7/2024. (II. 12.) BM rendelet 4. § e) pont ed) alpontja szerint módosított szöveg.
+[^42]: A 4. számú melléklet „ÉLETMÓD-TANÁCSADÓ ÉS TERAPEUTA” cím IV. alcím 4. pont 4.2.1. alpontja a 10/2025. (IV. 4.) BM rendelet 7. § 8. pontja szerint módosított szöveg.
+[^43]: A 4. számú melléklet „ÉLETMÓD-TANÁCSADÓ ÉS TERAPEUTA” szakképesítés IV. rész 5. pontja a 7/2024. (II. 12.) BM rendelet 4. § e) pont ee) alpontja szerint módosított szöveg.
+[^44]: A 4. számú melléklet „REFLEXOLÓGUS” cím IV. alcím 1. pont 1.1. alpontja a 10/2025. (IV. 4.) BM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^45]: A 4. számú melléklet „REFLEXOLÓGUS” szakképesítés IV. rész 3. pont záró szövegrésze az 54/2016. (XII. 30.) EMMI rendelet 6. § e) pont eg) alpontja szerint módosított szöveg.
+[^46]: A 4. számú melléklet „REFLEXOLÓGUS” szakképesítés IV. rész 3. pont 3.1. alpontja a 7/2024. (II. 12.) BM rendelet 4. § e) pont ef) alpontja szerint módosított szöveg.
+[^47]: A 4. számú melléklet „REFLEXOLÓGUS” cím IV. alcím 3. pont 3.2.1. alpontja a 10/2025. (IV. 4.) BM rendelet 7. § 10. pontja szerint módosított szöveg.
+[^48]: A 4. melléklet „REFLEXOLÓGUS” rész IV. alcím 3. pont 3.2. alpont 3.2.2. pontja a 7/2024. (II. 12.) BM rendelet 4. § e) pont eg) alpontja szerint módosított szöveg.
+[^49]: A 4. számú melléklet „REFLEXOLÓGUS” szakképesítés IV. rész 4. pontja a 7/2024. (II. 12.) BM rendelet 4. § e) pont eh) alpontja szerint módosított szöveg.
+[^50]: A 4. számú melléklet „ALTERNATÍV FIZIOTERÁPIÁS TOVÁBBKÉPZÉS” cím „A tevékenység rövid leírása” alcíme a 10/2025. (IV. 4.) BM rendelet 6. §-ával megállapított szöveg.
+[^51]: A 4. számú melléklet „ALTERNATÍV FIZIOTERÁPIÁS TOVÁBBKÉPZÉS” rész „A vizsga részei” alcím záró szövegrésze a 7/2024. (II. 12.) BM rendelet 4. § e) pont ei) alpontja szerint módosított szöveg.
+[^52]: A 4. számú melléklet „ALTERNATÍV FIZIOTERÁPIÁS TOVÁBBKÉPZÉS” rész „A vizsgázók teljesítményének értékelése” alcíme a 7/2024. (II. 12.) BM rendelet 4. § e) pont ej) alpontja szerint módosított szöveg.
+[^53]: A 4. számú melléklet „BIOENERGETIKUS TOVÁBBKÉPZÉS” cím „A tevékenység leírása” alcíme a 10/2025. (IV. 4.) BM rendelet 6. §-ával megállapított szöveg.
+[^54]: A 4. számú melléklet „BIOENERGETIKUS TOVÁBBKÉPZÉS” rész „Szakmai vizsga részei” alcím záró szövegrésze a 7/2024. (II. 12.) BM rendelet 4. § e) pont ek) alpontja szerint módosított szöveg.
+[^55]: A 4. számú melléklet „BIOENERGETIKUS TOVÁBBKÉPZÉS” rész „A vizsgázók teljesítményének értékelése” alcíme a 7/2024. (II. 12.) BM rendelet 4. § e) pont el) alpontja szerint módosított szöveg.
+[^56]: A 4. számú melléklet „FITOTERÁPIA TOVÁBBKÉPZÉS” cím „A tevékenység rövid leírása” alcíme a 10/2025. (IV. 4.) BM rendelet 6. §-ával megállapított szöveg.
+[^57]: A 4. számú melléklet „FITOTERÁPIA TOVÁBBKÉPZÉS” rész „A vizsga részei” alcím záró szövegrésze a 7/2024. (II. 12.) BM rendelet 4. § e) pont em) alpontja szerint módosított szöveg.
+[^58]: A 4. számú melléklet „FITOTERÁPIA TOVÁBBKÉPZÉS” rész „A vizsgázók teljesítményének értékelése” alcíme a 7/2024. (II. 12.) BM rendelet 4. § e) pont en) alpontja szerint módosított szöveg.
+[^59]: A 4. számú melléklet „FÜLAKUPUNKTÚRÁS ADDIKTOLÓGIAI TOVÁBBKÉPZÉS” cím „A tevékenység leírása” alcíme a 10/2025. (IV. 4.) BM rendelet 6. §-ával megállapított szöveg.
+[^60]: A 4. számú melléklet „FÜLAKUPUNKTÚRÁS ADDIKTOLÓGIAI TOVÁBBKÉPZÉS” rész „A vizsga részei” alcím záró szövegrésze a 7/2024. (II. 12.) BM rendelet 4. § e) pont eo) alpontja szerint módosított szöveg.
+[^61]: A 4. számú melléklet „FÜLAKUPUNKTÚRÁS ADDIKTOLÓGIAI TOVÁBBKÉPZÉS” rész „A vizsgázók teljesítményének értékelése” alcíme a 7/2024. (II. 12.) BM rendelet 4. § e) pont ep) alpontja szerint módosított szöveg.
+[^62]: A 4. számú melléklet „KINEZIOLÓGIAI TOVÁBBKÉPZÉS” cím „A tevékenység leírása” alcíme a 10/2025. (IV. 4.) BM rendelet 6. §-ával megállapított szöveg.
+[^63]: A 4. számú melléklet „KINEZIOLÓGIAI TOVÁBBKÉPZÉS” rész „A vizsga részei” alcím záró szövegrésze a 7/2024. (II. 12.) BM rendelet 4. § e) pont eq) alpontja szerint módosított szöveg.
+[^64]: A 4. számú melléklet „KINEZIOLÓGIAI TOVÁBBKÉPZÉS” rész „A vizsgázók teljesítményének értékelése” alcíme a 7/2024. (II. 12.) BM rendelet 4. § e) pont er) alpontja szerint módosított szöveg.
+[^65]: A 4. számú melléklet „SZEMTRÉNING TOVÁBBKÉPZÉS” cím „A tevékenység rövid leírása” alcíme a 10/2025. (IV. 4.) BM rendelet 6. §-ával megállapított szöveg.
+[^66]: A 4. számú melléklet „SZEMTRÉNING TOVÁBBKÉPZÉS” rész „A vizsga részei” alcím záró szövegrésze a 7/2024. (II. 12.) BM rendelet 4. § e) pont es) alpontja szerint módosított szöveg.
+[^67]: A 4. számú melléklet „SZEMTRÉNING TOVÁBBKÉPZÉS” rész „A vizsgázók teljesítményének értékelése” alcíme a 7/2024. (II. 12.) BM rendelet 4. § e) pont et) alpontja szerint módosított szöveg.

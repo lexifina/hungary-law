@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-11-20-3
 | 2017-01-01 | 1997-11-20-3D.13 | 54/2016. (XII. 30.) EMMI rendelet |
 | 2023-08-11 | 1997-11-20-3D.14 | 28/2023. (VIII. 10.) BM rendelet |
 | 2024-03-01 | 1997-11-20-3D.15 | 7/2024. (II. 12.) BM rendelet |
+| 2025-04-05 | 1997-11-20-3D.16 | 10/2025. (IV. 4.) BM rendelet |
