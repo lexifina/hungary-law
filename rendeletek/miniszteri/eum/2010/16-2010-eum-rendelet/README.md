@@ -35,3 +35,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-16-20-0
 | 2024-03-01 | 2010-16-20-0B.27 | 7/2024. (II. 12.) BM rendelet |
 | 2025-01-30 | 2010-16-20-0B.28 | 61/2024. (XII. 30.) BM rendelet |
 | 2025-03-27 | 2010-16-20-0B.29 | 9/2025. (III. 24.) BM rendelet |
+| 2025-04-05 | 2010-16-20-0B.31 | 10/2025. (IV. 4.) BM rendelet |

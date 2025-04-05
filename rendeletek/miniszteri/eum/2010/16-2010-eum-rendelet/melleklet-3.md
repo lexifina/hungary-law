@@ -1,4 +1,4 @@
-3. melléklet a 16/2010. (IV. 15.) EüM rendelethez[^145]
+3. melléklet a 16/2010. (IV. 15.) EüM rendelethez[^147]
 
 A szakképző hellyé minősítés feltételei
 
@@ -28,4 +28,4 @@ A szakképző hellyé minősítés feltételei
 
 4. Az 1.1. pontban foglalt rendelkezéstől – az illetékes grémiumvezető szakmai indokolást tartalmazó javaslatára – abban az esetben lehet eltérni, ha az adott szakképesítésben való kiemelkedő jártasságát a szakképzést vezető oktató igazolja, továbbá olyan végzettséggel rendelkezik, amely alkalmassá teszi az akkreditálandó szakképzés vezetésére, és indokolt esetben ezt az OKFŐ által felkért szakértő is támogatja.
 
-[^145]: A 3. melléklet a 7/2024. (II. 12.) BM rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^147]: A 3. melléklet a 7/2024. (II. 12.) BM rendelet 14. § (1) bekezdésével megállapított szöveg.

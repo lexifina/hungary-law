@@ -12,24 +12,27 @@ c) legkésőbb a (2a) bekezdésben meghatározott időpontig a 12. § (2) bekezd
 
 (2a)[^96] A jelölt a (2) bekezdés c) pontja szerinti abszolutóriumot legkésőbb az adott szakvizsgának a 12/A. § szerinti vizsganaptárban meghatározott kezdő időpontját megelőző 30 nappal köteles megküldeni az NVB részére. A (2) bekezdés szerinti dokumentumoknak az e bekezdésben meghatározott határidőn túli benyújtása esetén az NVB a szakvizsgára jelentkezést elutasíthatja.
 
-(3)[^97] Az NVB gondoskodik az e rendeletben meghatározottak szerint
+(2b)[^97] Jelentkezni a tavaszi félévi szakvizsgákra a megelőző év október 1–31. között, az őszi félévi szakvizsgákra az adott év május 1–31. közötti időszakában lehet.
+
+(3)[^98] Az NVB gondoskodik az e rendeletben meghatározottak szerint
 
 a) a szakvizsga időpontjának és helyének kijelöléséről,
 
-b)[^98] a szakvizsga bizottság tagjainak felkéréséről,
+b)[^99] a szakvizsga bizottság tagjainak felkéréséről,
 
-c)[^99] a 18. § (1) bekezdésében meghatározott szakvizsga jegyzőkönyvek elkészítéséről és
+c)[^100] a 18. § (1) bekezdésében meghatározott szakvizsga jegyzőkönyvek elkészítéséről és
 
-d)[^100] a sikeres vizsgát követően a szakvizsga bizonyítványok kiállításáról.
+d)[^101] a sikeres vizsgát követően a szakvizsga bizonyítványok kiállításáról.
 
-(4)[^101] Az NVB a jelöltet a szakvizsga időpontjáról és helyéről a vizsgát megelőzően legalább tíz munkanappal elektronikus úton értesíti.
+(4)[^102] Az NVB a jelöltet a szakvizsga időpontjáról és helyéről a vizsgát megelőzően legalább tíz munkanappal elektronikus úton értesíti.
 
 [^93]: A 12/A. §-t a 2/2013. (I. 2.) EMMI rendelet 14. §-a iktatta be, szövege a 23/2015. (IV. 28.) EMMI rendelet 115. §-ával megállapított, az 57/2021. (XII. 27.) EMMI rendelet 2. § b) és f) pontja szerint módosított szöveg.
 [^94]: A 13. § (1) bekezdése a 2/2013. (I. 2.) EMMI rendelet 15. § (1) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 118. § e) pontja szerint módosított szöveg.
 [^95]: A 13. § (2) bekezdése a 28/2022. (VIII. 25.) BM rendelet 8. § (1) bekezdésével megállapított szöveg.
 [^96]: A 13. § (2a) bekezdését a 34/2015. (VI. 30.) EMMI rendelet 12. §-a iktatta be, szövege a 28/2022. (VIII. 25.) BM rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^97]: A 13. § (3) bekezdése a 2/2013. (I. 2.) EMMI rendelet 15. § (1) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 118. § g) pontja szerint módosított szöveg.
-[^98]: A 13. § (3) bekezdés b) pontja a 28/2022. (VIII. 25.) BM rendelet 8. § (3) bekezdésével megállapított szöveg.
-[^99]: A 13. § (3) bekezdés c) pontja a 28/2022. (VIII. 25.) BM rendelet 8. § (3) bekezdésével megállapított szöveg.
-[^100]: A 13. § (3) bekezdés d) pontját a 28/2022. (VIII. 25.) BM rendelet 8. § (4) bekezdése iktatta be.
-[^101]: A 13. § (4) bekezdését a 2/2013. (I. 2.) EMMI rendelet 15. § (2) bekezdése iktatta be, szövege a 28/2022. (VIII. 25.) BM rendelet 8. § (4) bekezdésével megállapított szöveg.
+[^97]: A 13. § (2b) bekezdését a 10/2025. (IV. 4.) BM rendelet 15. §-a iktatta be.
+[^98]: A 13. § (3) bekezdése a 2/2013. (I. 2.) EMMI rendelet 15. § (1) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 118. § g) pontja szerint módosított szöveg.
+[^99]: A 13. § (3) bekezdés b) pontja a 28/2022. (VIII. 25.) BM rendelet 8. § (3) bekezdésével megállapított szöveg.
+[^100]: A 13. § (3) bekezdés c) pontja a 28/2022. (VIII. 25.) BM rendelet 8. § (3) bekezdésével megállapított szöveg.
+[^101]: A 13. § (3) bekezdés d) pontját a 28/2022. (VIII. 25.) BM rendelet 8. § (4) bekezdése iktatta be.
+[^102]: A 13. § (4) bekezdését a 2/2013. (I. 2.) EMMI rendelet 15. § (2) bekezdése iktatta be, szövege a 28/2022. (VIII. 25.) BM rendelet 8. § (4) bekezdésével megállapított szöveg.
