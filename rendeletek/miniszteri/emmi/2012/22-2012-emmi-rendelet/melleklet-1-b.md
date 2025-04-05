@@ -66,8 +66,8 @@
 
 | 32. | Laboratóriumi leletek értékelése |  | x |  |  |  | – | – |
 
-1b. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^94]
+1b. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^96]
 
 1 hónap intenzív terápiás osztályon töltött gyakorlat során megszerezhető kompetenciák
 
-[^94]: Az 1b. mellékeltet a 28/2022. (VIII. 25.) BM rendelet 27. § (3) bekezdése iktatta be.
+[^96]: Az 1b. mellékeltet a 28/2022. (VIII. 25.) BM rendelet 27. § (3) bekezdése iktatta be.

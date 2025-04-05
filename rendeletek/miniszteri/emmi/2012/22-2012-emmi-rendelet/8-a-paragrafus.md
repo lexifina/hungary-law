@@ -1,4 +1,4 @@
-8/A. §[^40] (1) A szakorvosi alap szakképesítések kötelező elemét képezi a 3 hónap időtartamú háziorvosi, illetve a csecsemő- és gyermekgyógyászat, gyermeksebészet, valamint a gyermek- és ifjúságpszichiátria szakképzések esetében a 3 hónap házi gyermekorvosi gyakorlat (a továbbiakban együtt: háziorvosi gyakorlat).
+8/A. §[^42] (1) A szakorvosi alap szakképesítések kötelező elemét képezi a 3 hónap időtartamú háziorvosi, illetve a csecsemő- és gyermekgyógyászat, gyermeksebészet, valamint a gyermek- és ifjúságpszichiátria szakképzések esetében a 3 hónap házi gyermekorvosi gyakorlat (a továbbiakban együtt: háziorvosi gyakorlat).
 
 (2) A szakorvosképzés során a 3 hónapos háziorvosi gyakorlat teljesítésének időpontját és helyét a szakorvosjelölt lakó- és tartózkodási helyére, a háziorvosi szolgáltató fizikai elhelyezkedésére figyelemmel – a területi kollegiális szakmai vezető bevonásával, a szakorvosjelölt véleményének kikérésével – az egyetemek határozzák meg. A képzőhelyet úgy kell meghatározni, hogy az a képzőhely szakorvosa és a szakorvosjelölt számára aránytalan terhet ne okozzon. A 3 hónapos háziorvosi gyakorlat teljesítésére kijelölt képzőhelynek az egyetem által meghatározott időpontban biztosítania kell a szakorvosjelölt fogadását.
 
@@ -30,4 +30,4 @@ f) egyéb, a szakorvosjelölt élethelyzetében adódó méltányolható körül
 
 (10) Az (1) bekezdésben meghatározott gyakorlat a szakorvosjelölt támogatott szakképzési időtartamába beszámít.
 
-[^40]: A 8/A. §-t a 9/2025. (III. 24.) BM rendelet 6. §-a iktatta be.
+[^42]: A 8/A. §-t a 9/2025. (III. 24.) BM rendelet 6. §-a iktatta be.

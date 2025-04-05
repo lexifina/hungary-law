@@ -28,7 +28,7 @@
 
 | 13. | Infekciókontroll intenzív osztályos és műtői környezetben | x |  |  |  |  |  |  |
 
-2. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^95]
+2. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^97]
 
 Szakorvosi alap szakképzési programok
 
@@ -70,7 +70,7 @@ SZAKORVOS KÉPZÉS KÖVETELMÉNYRENDSZERE
 
 24 hó intenzív terápia:
 
-1.2.2.1.[^96] 10,5 hó multidiszciplináris intenzív osztályos gyakorlat (a 2 hét mentőgyakorlatnak megfelelő, elsajátítandó skillek az intenzív terápiás vagy a sürgősségi gyakorlat alatt teljesíthető)
+1.2.2.1.[^98] 10,5 hó multidiszciplináris intenzív osztályos gyakorlat (a 2 hét mentőgyakorlatnak megfelelő, elsajátítandó skillek az intenzív terápiás vagy a sürgősségi gyakorlat alatt teljesíthető)
 
 1.2.2.2. 6 hó egyetemi vagy akkreditált egyetemi oktatókórházban eltöltött multidiszciplináris intenzív gyakorlat
 
@@ -82,7 +82,7 @@ SZAKORVOS KÉPZÉS KÖVETELMÉNYRENDSZERE
 
 24 hó aneszteziológia:
 
-1.2.2.6.[^97] 8,5 hó általános sebészet (has, mellkas, érsebészet, sürgős műtétek anesztéziája)
+1.2.2.6.[^99] 8,5 hó általános sebészet (has, mellkas, érsebészet, sürgős műtétek anesztéziája)
 
 (ebből 4 hónap egyetemi vagy a grémium által akkreditált oktatókórházban töltendő)
 
@@ -104,7 +104,7 @@ SZAKORVOS KÉPZÉS KÖVETELMÉNYRENDSZERE
 
 1.2.2.15. 2 hét skill tréning
 
-1.2.2.16.[^98] 3 hó háziorvosi gyakorlat
+1.2.2.16.[^100] 3 hó háziorvosi gyakorlat
 
 1.3. RÉSZVIZSGÁKRA BOCSÁTÁS FELTÉTELEI
 
@@ -218,7 +218,7 @@ SZAKORVOS KÉPZÉS KÖVETELMÉNYRENDSZERE
 
 1.3.2.1. A 2. részvizsga megnevezése: Felkészülést segítő szakgyakorlati vizsga (36 hónap szakgyakorlatot követően) a képzés szerint illetékes egyetemi vagy a grémium által erre akkreditált oktatókórházi képzőhelyen
 
-1.3.2.2.[^99] A 2. részvizsgával rendelkező által ellátható feladatok (kompetenciák):
+1.3.2.2.[^101] A 2. részvizsgával rendelkező által ellátható feladatok (kompetenciák):
 
 5X01253M.docx
 
@@ -384,7 +384,7 @@ SZAKORVOS KÉPZÉS KÖVETELMÉNYRENDSZERE
 
 | 10. | Intubáció laryngoszkóp segítségével | X |  |  |  |  | 200 |
 
-| 11. | Intubáció videolaryngoszkóp bronchoszkóp segítségével | X |  |  |  |  | 30-20[^100] |
+| 11. | Intubáció videolaryngoszkóp bronchoszkóp segítségével | X |  |  |  |  | 30-20[^102] |
 
 | 12. | Perkután tracheosztómia | X |  |  |  |  | 10 |
 
@@ -400,7 +400,7 @@ SZAKORVOS KÉPZÉS KÖVETELMÉNYRENDSZERE
 
 | 18. | Lélegeztetett beteg transzportja, adekvát betegátadás | X |  |  |  |  | 18 |
 
-| 19. | Hemodinamikai állapot felmérése fizikális jelek noninvazív, invazív monitorozási eszközökkel perctérfogat meghatározása | X |  |  |  |  | 50-15[^101] |
+| 19. | Hemodinamikai állapot felmérése fizikális jelek noninvazív, invazív monitorozási eszközökkel perctérfogat meghatározása | X |  |  |  |  | 50-15[^103] |
 
 | 20. | RUSH, FAST protokoll szerinti ultrahang vizsgálat | X |  |  |  |  | 50 |
 
@@ -634,9 +634,9 @@ b) 24 hónap után
 
 3.2.2. Szakgyakorlati képzés 36 hónap
 
-3.2.2.1.[^102] Belgyógyászati osztályos gyakorlat (25 hónap), ebből
+3.2.2.1.[^104] Belgyógyászati osztályos gyakorlat (25 hónap), ebből
 
-3.2.2.1.1.[^103] 17 hó belgyógyászati osztályon gyakorlat
+3.2.2.1.1.[^105] 17 hó belgyógyászati osztályon gyakorlat
 
 3.2.2.1.2. 2 hó endokrinológia, anyagcsere betegségek osztályon gyakorlat
 
@@ -650,7 +650,7 @@ b) 24 hónap után
 
 3.2.2.2. 7 hó speciális fakultatív képzés (Osztályon vagy szakmaterületen: endokrin, anyagcsere betegségek, nefrrológia, hemato-onkológia, gasztroenterológia, kardiológia, pulmonológia, reumatológia, immunológia)
 
-3.2.2.3.[^104] 3 hó háziorvosi gyakorlat
+3.2.2.3.[^106] 3 hó háziorvosi gyakorlat
 
 3.2.2.4. 1 hó szakvizsga előkészítő tanfolyamok, benne
 
@@ -934,7 +934,7 @@ SZAKORVOS KÉPZÉS KÖVETELMÉNYRENDSZERE
 
 4.1.1. A szakképesítés megnevezése: Belgyógyászati Angiológia
 
-4.1.2.[^105] A szakképzés időtartama: 55 hó
+4.1.2.[^107] A szakképzés időtartama: 55 hó
 
 4.1.3. A szakképzési időtartam alatt teljesítendő részvizsgák száma: 2 db
 
@@ -970,7 +970,7 @@ b) 24 hónap után
 
 4.2.1.11. 1 hó hemato-onkológiai gyakorlat
 
-4.2.2.[^106] Szakgyakorlati képzés 31 hó,
+4.2.2.[^108] Szakgyakorlati képzés 31 hó,
 
 4.2.2.1. 15 hónap belgyógyászati angiológiai gyakorlat, ebből
 
@@ -978,7 +978,7 @@ b) 24 hónap után
 
 4.2.2.1.2. 3 hó belgyógyászati angiológia szakambulancia (benne noninvazív műszeres diagnosztika)
 
-4.2.2.2.[^107] 16 hó speciális képzés, ebből
+4.2.2.2.[^109] 16 hó speciális képzés, ebből
 
 4.2.2.2.1. 2 hó érsebészeti osztályos gyakorlat (minimum 1 hónap III szintű centrumban)
 
@@ -990,15 +990,15 @@ b) 24 hónap után
 
 4.2.2.2.5. 1 hó stroke centrum
 
-4.2.2.2.6.[^108] 2 hét bőrgyógyászat, sebkezelési gyakorlat
+4.2.2.2.6.[^110] 2 hét bőrgyógyászat, sebkezelési gyakorlat
 
-4.2.2.2.7.[^109] 2 hét klinikai immunológia
+4.2.2.2.7.[^111] 2 hét klinikai immunológia
 
-4.2.2.2.8.[^110] 2 hét thrombosis-hemostasis
+4.2.2.2.8.[^112] 2 hét thrombosis-hemostasis
 
-4.2.2.2.9.[^111] 2 hét rehabilitáció
+4.2.2.2.9.[^113] 2 hét rehabilitáció
 
-4.2.2.2.10.[^112] 3 hó háziorvosi gyakorlat
+4.2.2.2.10.[^114] 3 hó háziorvosi gyakorlat
 
 4.2.2.3. 1 hét angiológiai szakvizsgavelőkészítő tanfolyam elvégzése, szakmai konferencia részvétel a képzés alatt.
 
@@ -1306,15 +1306,15 @@ SZAKORVOS KÉPZÉS KÖVETELMÉNYRENDSZERE
 
 5.1.2. A szakképzés időtartama: 60 hó
 
-5.1.2.1.[^113] A szakképzés alatt teljesítendő alapképzés időtartama: 10,5 hó
+5.1.2.1.[^115] A szakképzés alatt teljesítendő alapképzés időtartama: 10,5 hó
 
-5.1.2.2.[^114] A szakképzés alatt teljesítendő szakgyakorlat időtartama: 49,5 hó
+5.1.2.2.[^116] A szakképzés alatt teljesítendő szakgyakorlat időtartama: 49,5 hó
 
 5.1.3. A szakképzési időtartam alatt teljesítendő részvizsgák száma: 2 db
 
 5.2. A SZAKKÉPZÉSI PROGRAM RÉSZLETEZÉSE
 
-5.2.1.[^115] Alapképzés 10,5 hó
+5.2.1.[^117] Alapképzés 10,5 hó
 
 5.2.1.1. 2 hó Sürgősségi osztályos gyakorlat
 
@@ -1322,11 +1322,11 @@ SZAKORVOS KÉPZÉS KÖVETELMÉNYRENDSZERE
 
 5.2.1.3. 2 hét Mentő gyakorlat
 
-5.2.1.4.[^116] 1,5 hó Belgyógyászat
+5.2.1.4.[^118] 1,5 hó Belgyógyászat
 
 5.2.1.5. 5 hó és 2 hét Bőrgyógyászat I. (fekvőbeteg ellátás)
 
-5.2.2.[^117] Szakgyakorlati képzés 49,5 hó
+5.2.2.[^119] Szakgyakorlati képzés 49,5 hó
 
 5.2.2.1. 2 hó Gyermekbőrgyógyászat
 
@@ -1342,7 +1342,7 @@ SZAKORVOS KÉPZÉS KÖVETELMÉNYRENDSZERE
 
 5.2.2.7. 2 hó Dermatopatológia
 
-5.2.2.8.[^118] 6,5 hó Általános bőrgyógyászati járóbeteg rendelés
+5.2.2.8.[^120] 6,5 hó Általános bőrgyógyászati járóbeteg rendelés
 
 5.2.2.9. 4 hó Bőrgyógyászati allergo-immunológia
 
@@ -1354,7 +1354,7 @@ SZAKORVOS KÉPZÉS KÖVETELMÉNYRENDSZERE
 
 5.2.2.13. 2 hó Eszközök alkalmazása a diagnosztikában és terápiában
 
-5.2.2.14.[^119] 3 hó háziorvosi gyakorlat
+5.2.2.14.[^121] 3 hó háziorvosi gyakorlat
 
 5.2.3. Tematikus elméleti képzési elemek évente:
 
@@ -1478,28 +1478,28 @@ c) A vizsgafeladat értékelésének szempontjai: Az elméleti tudásszint megí
 
 5.3.2.4. A 2. részvizsgával rendelkező által ellátható feladatok (kompetenciák):
 
-[^95]: A 2. melléklet a 28/2022. (VIII. 25.) BM rendelet 27. § (4) bekezdésével megállapított szöveg.
-[^96]: A 2. melléklet 1.2.2.1. pontja a 9/2025. (III. 24.) BM rendelet 9. § 1. pontja szerint módosított szöveg.
-[^97]: A 2. melléklet 1.2.2.6. pontja a 9/2025. (III. 24.) BM rendelet 9. § 2. pontja szerint módosított szöveg.
-[^98]: A 2. melléklet 1.2.2. pont 1.2.2.16. alpontját a 9/2025. (III. 24.) BM rendelet 8. § (2) bekezdése iktatta be.
-[^99]: A 1.3.2.2. pontjában foglalt táblázat a 9/2025. (III. 24.) BM rendelet 9. § 3–5. pontja szerint módosított szöveg.
-[^100]: A 2. melléklet 1.4.2. pontjában foglalt táblázat C:11 mezője a 9/2025. (III. 24.) BM rendelet 9. § 6. pontja szerint módosított szöveg.
-[^101]: A 2. melléklet 1.4.2. pontjában foglalt táblázat C:19 mezője a 9/2025. (III. 24.) BM rendelet 9. § 7. pontja szerint módosított szöveg.
-[^102]: A 2. melléklet 3.2.2.1. pontja a 9/2025. (III. 24.) BM rendelet 9. § 8. pontja szerint módosított szöveg.
-[^103]: A 2. melléklet 3.2.2.1.1. pontja a 9/2025. (III. 24.) BM rendelet 9. § 9. pontja szerint módosított szöveg.
-[^104]: A 2. melléklet 3.2.2.3. pontja a 9/2025. (III. 24.) BM rendelet 9. § 10. pontja szerint módosított szöveg.
-[^105]: A 2. melléklet 4.1.2. pontja a 9/2025. (III. 24.) BM rendelet 9. § 11. pontja szerint módosított szöveg.
-[^106]: A 2. melléklet 4.2.2. pontja a 9/2025. (III. 24.) BM rendelet 9. § 12. pontja szerint módosított szöveg.
-[^107]: A 2. melléklet 4.2.2.2. pontja a 9/2025. (III. 24.) BM rendelet 9. § 13. pontja szerint módosított szöveg.
-[^108]: A 2. melléklet 4.2.2.2.6. pontja a 9/2025. (III. 24.) BM rendelet 9. § 14. pontja szerint módosított szöveg.
-[^109]: A 2. melléklet 4.2.2.2.7. pontja a 9/2025. (III. 24.) BM rendelet 9. § 15. pontja szerint módosított szöveg.
-[^110]: A 2. melléklet 4.2.2.2.8. pontja a 9/2025. (III. 24.) BM rendelet 9. § 16. pontja szerint módosított szöveg.
-[^111]: A 2. melléklet 4.2.2.2.9. pontja a 9/2025. (III. 24.) BM rendelet 9. § 17. pontja szerint módosított szöveg.
-[^112]: A 2. melléklet 4.2.2.2. pont 4.2.2.2.10. alpontját a 9/2025. (III. 24.) BM rendelet 8. § (2) bekezdése iktatta be.
-[^113]: A 2. melléklet 5.1.2.1. pontja a 9/2025. (III. 24.) BM rendelet 9. § 18. pontja szerint módosított szöveg.
-[^114]: A 2. melléklet 5.1.2.2. pontja a 9/2025. (III. 24.) BM rendelet 9. § 19. pontja szerint módosított szöveg.
-[^115]: A 2. melléklet 5.2.1. pontja a 9/2025. (III. 24.) BM rendelet 9. § 20. pontja szerint módosított szöveg.
-[^116]: A 2. melléklet 5.2.1.4. pontja a 9/2025. (III. 24.) BM rendelet 9. § 21. pontja szerint módosított szöveg.
-[^117]: A 2. melléklet 5.2.2. pontja a 9/2025. (III. 24.) BM rendelet 9. § 22. pontja szerint módosított szöveg.
-[^118]: A 2. melléklet 5.2.2.8. pontja a 9/2025. (III. 24.) BM rendelet 9. § 23. pontja szerint módosított szöveg.
-[^119]: A 2. melléklet 5.2.2. pont 5.2.2.14. alpontját a 9/2025. (III. 24.) BM rendelet 8. § (2) bekezdése iktatta be.
+[^97]: A 2. melléklet a 28/2022. (VIII. 25.) BM rendelet 27. § (4) bekezdésével megállapított szöveg.
+[^98]: A 2. melléklet 1.2.2.1. pontja a 9/2025. (III. 24.) BM rendelet 9. § 1. pontja szerint módosított szöveg.
+[^99]: A 2. melléklet 1.2.2.6. pontja a 9/2025. (III. 24.) BM rendelet 9. § 2. pontja szerint módosított szöveg.
+[^100]: A 2. melléklet 1.2.2. pont 1.2.2.16. alpontját a 9/2025. (III. 24.) BM rendelet 8. § (2) bekezdése iktatta be.
+[^101]: A 1.3.2.2. pontjában foglalt táblázat a 9/2025. (III. 24.) BM rendelet 9. § 3–5. pontja szerint módosított szöveg.
+[^102]: A 2. melléklet 1.4.2. pontjában foglalt táblázat C:11 mezője a 9/2025. (III. 24.) BM rendelet 9. § 6. pontja szerint módosított szöveg.
+[^103]: A 2. melléklet 1.4.2. pontjában foglalt táblázat C:19 mezője a 9/2025. (III. 24.) BM rendelet 9. § 7. pontja szerint módosított szöveg.
+[^104]: A 2. melléklet 3.2.2.1. pontja a 9/2025. (III. 24.) BM rendelet 9. § 8. pontja szerint módosított szöveg.
+[^105]: A 2. melléklet 3.2.2.1.1. pontja a 9/2025. (III. 24.) BM rendelet 9. § 9. pontja szerint módosított szöveg.
+[^106]: A 2. melléklet 3.2.2.3. pontja a 9/2025. (III. 24.) BM rendelet 9. § 10. pontja szerint módosított szöveg.
+[^107]: A 2. melléklet 4.1.2. pontja a 9/2025. (III. 24.) BM rendelet 9. § 11. pontja szerint módosított szöveg.
+[^108]: A 2. melléklet 4.2.2. pontja a 9/2025. (III. 24.) BM rendelet 9. § 12. pontja szerint módosított szöveg.
+[^109]: A 2. melléklet 4.2.2.2. pontja a 9/2025. (III. 24.) BM rendelet 9. § 13. pontja szerint módosított szöveg.
+[^110]: A 2. melléklet 4.2.2.2.6. pontja a 9/2025. (III. 24.) BM rendelet 9. § 14. pontja szerint módosított szöveg.
+[^111]: A 2. melléklet 4.2.2.2.7. pontja a 9/2025. (III. 24.) BM rendelet 9. § 15. pontja szerint módosított szöveg.
+[^112]: A 2. melléklet 4.2.2.2.8. pontja a 9/2025. (III. 24.) BM rendelet 9. § 16. pontja szerint módosított szöveg.
+[^113]: A 2. melléklet 4.2.2.2.9. pontja a 9/2025. (III. 24.) BM rendelet 9. § 17. pontja szerint módosított szöveg.
+[^114]: A 2. melléklet 4.2.2.2. pont 4.2.2.2.10. alpontját a 9/2025. (III. 24.) BM rendelet 8. § (2) bekezdése iktatta be.
+[^115]: A 2. melléklet 5.1.2.1. pontja a 9/2025. (III. 24.) BM rendelet 9. § 18. pontja szerint módosított szöveg.
+[^116]: A 2. melléklet 5.1.2.2. pontja a 9/2025. (III. 24.) BM rendelet 9. § 19. pontja szerint módosított szöveg.
+[^117]: A 2. melléklet 5.2.1. pontja a 9/2025. (III. 24.) BM rendelet 9. § 20. pontja szerint módosított szöveg.
+[^118]: A 2. melléklet 5.2.1.4. pontja a 9/2025. (III. 24.) BM rendelet 9. § 21. pontja szerint módosított szöveg.
+[^119]: A 2. melléklet 5.2.2. pontja a 9/2025. (III. 24.) BM rendelet 9. § 22. pontja szerint módosított szöveg.
+[^120]: A 2. melléklet 5.2.2.8. pontja a 9/2025. (III. 24.) BM rendelet 9. § 23. pontja szerint módosított szöveg.
+[^121]: A 2. melléklet 5.2.2. pont 5.2.2.14. alpontját a 9/2025. (III. 24.) BM rendelet 8. § (2) bekezdése iktatta be.

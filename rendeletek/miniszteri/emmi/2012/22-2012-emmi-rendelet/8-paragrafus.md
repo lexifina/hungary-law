@@ -58,6 +58,16 @@ c) „nem felelt meg” minősítést kap a jelölt, amennyiben a részvizsgán 
 
 (18)[^37] Amennyiben a szakorvosjelölt, illetve szakfogorvos-jelölt a képzés során egy részvizsgát sikeresen teljesített, az egyes részvizsgákhoz kapcsolódó kompetenciák gyakorlására csak abban az esetben jogosult, amennyiben az adott szakképzésben vesz részt, valamint a szakképzés befejezése és a szakvizsga letétele közötti időszakban, de legfeljebb a szakképzése befejezésétől számított egy évig. Amennyiben a szakorvosjelölt, illetve szakfogorvos-jelölt szakképzése szünetel, vagy szakképzésre irányuló jogviszonya megszüntetésre kerül, a szakképzéshez kapcsolódó részvizsgákon megszerzett kompetenciák gyakorlására a továbbiakban nem jogosult.
 
+(18a)[^38] Az egyetem a működési nyilvántartásban való rögzítés céljából 30 napon belül megküldi a működési nyilvántartást vezető szerv részére a részvizsgát sikeresen teljesítő és a részvizsgához kapcsolódó kompetenciák gyakorlására jogosultságot szerző szakorvosjelölt részvizsgájával kapcsolatban
+
+a) a részvizsgát teljesítő szakorvosjelölt működési nyilvántartási számát, ennek hiányában alapnyilvántartási számát,
+
+b) az egészségügyi felsőfokú szakirányú szakképzést, amelyben a szakorvosjelölt részt vesz,
+
+c) a teljesített részvizsga szintjét és a teljesítés dátumát.
+
+(18b)[^39] Az egyetem a jogvesztés időpontjának megjelölésével értesíti a működési nyilvántartást vezető szervet, ha a szakorvosjelöltnek a részvizsgával szerzett, kompetenciák gyakorlására vonatkozó jogosultsága megszűnt.
+
 (19) A (20) bekezdésben foglalt kivétellel a szakorvosi alap szakképesítések kötelező elemét képezi legalább 2 hónap sürgősségi betegellátó osztályon, legalább 1 hónap intenzív terápiás osztályon töltött gyakorlat, valamint legalább 2 hét időtartamú mentő gyakorlat.
 
 (20) Az igazságügyi orvostan, a klinikai laboratóriumi genetika, valamint a patológia szakképesítéseknek nem képezik kötelező elemét a (19) bekezdésben foglalt gyakorlati elemek. A háziorvostan, a szemészet és a megelőző orvostan és népegészségtan szakképzésnek nem képezi kötelező elemét a (19) bekezdésben foglalt intenzív terápiás osztályon töltött gyakorlat. A megelőző orvostan és népegészségtan szakképzésnek nem képezi kötelező gyakorlati elemét a (19) bekezdésben foglalt mentő gyakorlat.
@@ -66,11 +76,11 @@ c) „nem felelt meg” minősítést kap a jelölt, amennyiben a részvizsgán 
 
 (22) A (19) bekezdés szerinti mentő gyakorlat letétele alól mentesül az a szakorvosjelölt, aki mentőtiszt III. szintű képzésben vett részt.
 
-(23)[^38] Az (1) bekezdés szerinti részvizsga sikeres teljesítése felhatalmazást adhat a szakorvosjelölt, illetve szakfogorvos-jelölt részére ambuláns ellátás részleges önállósággal történő elvégzésére, azzal, hogy a szakorvosjelölt, illetve szakfogorvos-jelölt részére a szakmai felügyelet elérhetőségét biztosítani kell, valamint az ambuláns lapon a szakorvosjelölt, illetve szakfogorvos-jelölt felügyeletét ellátó szakorvos nevét fel kell tüntetni.
+(23)[^40] Az (1) bekezdés szerinti részvizsga sikeres teljesítése felhatalmazást adhat a szakorvosjelölt, illetve szakfogorvos-jelölt részére ambuláns ellátás részleges önállósággal történő elvégzésére, azzal, hogy a szakorvosjelölt, illetve szakfogorvos-jelölt részére a szakmai felügyelet elérhetőségét biztosítani kell, valamint az ambuláns lapon a szakorvosjelölt, illetve szakfogorvos-jelölt felügyeletét ellátó szakorvos nevét fel kell tüntetni.
 
 (24) Az (1) bekezdés szerinti részvizsga sikeres teljesítése felhatalmazást adhat a szakorvosjelölt részére zárójelentés előkészítésére és összeállítására, azonban a zárójelentés kiadására annak szakorvosi jóváhagyását követően kerülhet sor. A zárójelentésen a szakorvos aláírását és orvosi bélyegzőjét fel kell tüntetni.
 
-(25)[^39] Az egyes szakorvosi alap szakképesítések során a rész-, illetve szakvizsgára bocsátás feltételeként elvégzendő beavatkozásokat, műtéteket, vizsgálatokat (a továbbiakban együtt: beavatkozás) és ezek számát a 2. melléklet, a szakfogorvosi alap szakképesítések esetében a 4. melléklet tartalmazza.
+(25)[^41] Az egyes szakorvosi alap szakképesítések során a rész-, illetve szakvizsgára bocsátás feltételeként elvégzendő beavatkozásokat, műtéteket, vizsgálatokat (a továbbiakban együtt: beavatkozás) és ezek számát a 2. melléklet, a szakfogorvosi alap szakképesítések esetében a 4. melléklet tartalmazza.
 
 (26) A részvizsgák témaköreit és kérdéseit szakmánként az egyetemek szakképzési grémiumai közösen meghatározzák és valamennyi egyetem honlapján a szakorvosjelöltek számára hozzáférhetővé teszik.
 
@@ -98,5 +108,7 @@ c) „nem felelt meg” minősítést kap a jelölt, amennyiben a részvizsgán 
 [^35]: A 8. § (14) bekezdése a 40/2023. (IX. 21.) BM rendelet 7. § 9. pontja szerint módosított szöveg.
 [^36]: A 8. § (15) bekezdése a 40/2023. (IX. 21.) BM rendelet 7. § 10. pontja szerint módosított szöveg.
 [^37]: A 8. § (18) bekezdése a 40/2023. (IX. 21.) BM rendelet 7. § 9. pontja szerint módosított szöveg.
-[^38]: A 8. § (23) bekezdése a 40/2023. (IX. 21.) BM rendelet 7. § 14. pontja szerint módosított szöveg.
-[^39]: A 8. § (25) bekezdése a 40/2023. (IX. 21.) BM rendelet 7. § 15. pontja szerint módosított szöveg.
+[^38]: A 8. § (18a) bekezdését a 10/2025. (IV. 4.) BM rendelet 27. §-a iktatta be.
+[^39]: A 8. § (18b) bekezdését a 10/2025. (IV. 4.) BM rendelet 27. §-a iktatta be.
+[^40]: A 8. § (23) bekezdése a 40/2023. (IX. 21.) BM rendelet 7. § 14. pontja szerint módosított szöveg.
+[^41]: A 8. § (25) bekezdése a 40/2023. (IX. 21.) BM rendelet 7. § 15. pontja szerint módosított szöveg.
