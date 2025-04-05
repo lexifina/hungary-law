@@ -82,7 +82,19 @@
 
 ## – A jogosultsági időszak lejárta
 
-## IV.[^87] A kérelmező működési nyilvántartásával kapcsolatos adatok:
+## 12.[^87] Az egészségügyi felsőfokú szakirányú szakképzés teljesítése során szerzett, önálló egészségügyi tevékenységvégzésre jogosító kompetenciák
+
+## a) az egészségügyi felsőfokú szakirányú szakképzés, amelyben a szakorvosjelölt részt vesz,
+
+## b) a teljesített részvizsga szintje,
+
+## c) a részvizsga dátuma,
+
+## d) a részvizsgát lebonyolító egyetem megnevezése,
+
+## e) a részvizsgával megszerzett kompetenciák alapján az önálló egészségügyi tevékenységvégzésre vonatkozó jogosultág megszűnése esetén a megszűnés dátuma.
+
+## IV.[^88] A kérelmező működési nyilvántartásával kapcsolatos adatok:
 
 ## 1. működési nyilvántartási szám
 
@@ -112,7 +124,7 @@
 
 ## c) a kiállító intézmény megnevezése
 
-## VIII.[^88] Az egészségügyi szakértői tevékenységgel kapcsolatos egyes kérdésekről szóló 40/2009. (XI. 20.) EüM rendelet alapján kiadott szakértői engedély
+## VIII.[^89] Az egészségügyi szakértői tevékenységgel kapcsolatos egyes kérdésekről szóló 40/2009. (XI. 20.) EüM rendelet alapján kiadott szakértői engedély
 
 ## – szakterület megnevezése
 
@@ -140,7 +152,7 @@
 
 ## XI. Megjegyzés
 
-3. melléklet a 18/2007. (IV. 17.) EüM rendelethez[^89]
+3. melléklet a 18/2007. (IV. 17.) EüM rendelethez[^90]
 
 A kérelem adattartalma
 
@@ -152,7 +164,7 @@ A 12. pontban foglaltakat csak a nyilvántartás meghosszabbítására vonatkoz�
 
 A 17. pontban foglalt nyilatkozatot a nyilvántartásba vételi és az újrafelvételi kérelem esetén kell feltüntetni.
 
-1.[^90] Kifejezett kérelem arra vonatkozóan, hogy az OKFŐ a kérelemben, valamint a mellékelt okiratokban és igazolásokban foglaltak alapján
+1.[^91] Kifejezett kérelem arra vonatkozóan, hogy az OKFŐ a kérelemben, valamint a mellékelt okiratokban és igazolásokban foglaltak alapján
 
 1.1. a kérelmezőt működési nyilvántartásba vegye
 
@@ -240,7 +252,7 @@ A 17. pontban foglalt nyilatkozatot a nyilvántartásba vételi és az újrafelv
 
 7. Az egészségügyi tevékenység végzésére való alkalmasság/korlátozott alkalmasság
 
-8.[^91] Az egészségügyi dolgozóval egészségügyi tevékenység végzésére irányuló jogviszonyban álló egészségügyi szolgáltató megnevezése, az egészségügyi tevékenységvégzés helye
+8.[^92] Az egészségügyi dolgozóval egészségügyi tevékenység végzésére irányuló jogviszonyban álló egészségügyi szolgáltató megnevezése, az egészségügyi tevékenységvégzés helye
 
 9. Elméleti továbbképzés teljesítése, vagy az elméleti továbbképzés alóli mentesülés indoka
 
@@ -286,11 +298,11 @@ Az egészségügyi tevékenység szüneteltetésének
 
 15. A kérelmező nyilatkozata arról, hogy a kérelemben feltüntetett adatok a valóságnak megfelelnek.
 
-16.[^92] A kérelmező nyilatkozata arról, hogy hozzájárul a kérelemben feltüntetett, valamint a munkáltatója által kezelt és e rendelet alapján szolgáltatandó adatainak az OKFŐ általi ellenőrzéséhez.
+16.[^93] A kérelmező nyilatkozata arról, hogy hozzájárul a kérelemben feltüntetett, valamint a munkáltatója által kezelt és e rendelet alapján szolgáltatandó adatainak az OKFŐ általi ellenőrzéséhez.
 
-17.[^93] A kérelmező nyilatkozata arról, hogy hozzájárul ahhoz, hogy az OKFŐ az Eütv. 112/A. § (3) bekezdése szerinti hatósági ellenőrzést végezze az ott meghatározottak szerint.
+17.[^94] A kérelmező nyilatkozata arról, hogy hozzájárul ahhoz, hogy az OKFŐ az Eütv. 112/A. § (3) bekezdése szerinti hatósági ellenőrzést végezze az ott meghatározottak szerint.
 
-18.[^94] Kifejezett kérelem az OKFŐ-nek az Eütv. 112/A. § (1) bekezdése szerinti adatigénylésére vonatkozóan.
+18.[^95] Kifejezett kérelem az OKFŐ-nek az Eütv. 112/A. § (1) bekezdése szerinti adatigénylésére vonatkozóan.
 
 19. A kérelemhez az alábbi dokumentumokat kell csatolni:
 
@@ -318,11 +330,12 @@ Az egészségügyi tevékenység szüneteltetésének
 [^84]: A 2. melléklet III. pont 5. alpontja a 14/2014. (III. 10.) EMMI rendelet 3. § b) pontjával megállapított szöveg.
 [^85]: A 2. számú melléklet III. pont 6. alpontja az 57/2011. (IX. 29.) NEFMI rendelet 14. § (2) bekezdésével megállapított szöveg.
 [^86]: A 2. melléklet III. pont 11. alpontját a 15/2010. (IV. 9.) EüM rendelet 14. §-a iktatta be, a 17/2010. (XII. 20.) NEFMI rendelet 4. §-a hatályon kívül helyezte, újonnan a 23/2012. (IX. 14.) EMMI rendelet 14. §-a iktatta be.
-[^87]: A 2. melléklet IV. pontja a 14/2014. (III. 10.) EMMI rendelet 3. § b) pontjával megállapított szöveg.
-[^88]: A 2. számú melléklet VIII. pontjának nyitó szövegrésze az 57/2011. (IX. 29.) NEFMI rendelet 15. § c) pontja szerint módosított szöveg.
-[^89]: Az eredeti 3. számú melléklet megjelölését 3. mellékletre változtatta az 51/2008. (XII. 31.) EüM rendelet 10. § (3) bekezdése. A 3. melléklet a 2/2013. (I. 2.) EMMI rendelet 7. § (3) bekezdésével megállapított szöveg.
-[^90]: A 3. melléklet 1. pont nyitó szövegrésze a 7/2024. (II. 12.) BM rendelet 8. § b) pontja szerint módosított szöveg.
-[^91]: A 3. melléklet 8. pontja a 14/2014. (III. 10.) EMMI rendelet 3. § c) pontjával megállapított szöveg.
-[^92]: A 3. melléklet 16. pontja a 7/2024. (II. 12.) BM rendelet 8. § b) pontja szerint módosított szöveg.
-[^93]: A 3. melléklet 17. pontja a 7/2024. (II. 12.) BM rendelet 8. § b) pontja szerint módosított szöveg.
-[^94]: A 3. melléklet 18. pontja a 7/2024. (II. 12.) BM rendelet 8. § d) pontja szerint módosított szöveg.
+[^87]: A 2. melléklet III. pont 12. alpontját a 10/2025. (IV. 4.) BM rendelet 14. §-a iktatta be.
+[^88]: A 2. melléklet IV. pontja a 14/2014. (III. 10.) EMMI rendelet 3. § b) pontjával megállapított szöveg.
+[^89]: A 2. számú melléklet VIII. pontjának nyitó szövegrésze az 57/2011. (IX. 29.) NEFMI rendelet 15. § c) pontja szerint módosított szöveg.
+[^90]: Az eredeti 3. számú melléklet megjelölését 3. mellékletre változtatta az 51/2008. (XII. 31.) EüM rendelet 10. § (3) bekezdése. A 3. melléklet a 2/2013. (I. 2.) EMMI rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^91]: A 3. melléklet 1. pont nyitó szövegrésze a 7/2024. (II. 12.) BM rendelet 8. § b) pontja szerint módosított szöveg.
+[^92]: A 3. melléklet 8. pontja a 14/2014. (III. 10.) EMMI rendelet 3. § c) pontjával megállapított szöveg.
+[^93]: A 3. melléklet 16. pontja a 7/2024. (II. 12.) BM rendelet 8. § b) pontja szerint módosított szöveg.
+[^94]: A 3. melléklet 17. pontja a 7/2024. (II. 12.) BM rendelet 8. § b) pontja szerint módosított szöveg.
+[^95]: A 3. melléklet 18. pontja a 7/2024. (II. 12.) BM rendelet 8. § d) pontja szerint módosított szöveg.

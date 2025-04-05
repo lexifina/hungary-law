@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-18-20-0
 | 2023-07-01 | 2007-18-20-0B.20 | 22/2023. (VI. 30.) BM rendelet |
 | 2024-03-01 | 2007-18-20-0B.21 | 57/2011. (IX. 29.) NEFMI rendelet |
 | 2025-01-30 | 2007-18-20-0B.22 | 61/2024. (XII. 30.) BM rendelet |
+| 2025-04-05 | 2007-18-20-0B.23 | 10/2025. (IV. 4.) BM rendelet |
