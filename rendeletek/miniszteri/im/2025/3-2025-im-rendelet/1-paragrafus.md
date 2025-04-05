@@ -4,12 +4,6 @@
 
 ## [3] E célok végrehajtására a fizetési meghagyásos eljárásról szóló 2009. évi L. törvény 60. § f) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 119. § 1. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § A fizetési meghagyásos eljárásért és a fizetési meghagyásos eljárást követő végrehajtási eljárás elrendeléséért fizetett eljárási díjból és végrehajtási díjból, valamint a biztosítási intézkedés elrendeléséért fizetett díjakból származó bevétel felosztásáról, továbbá az egyes közjegyzőket megillető összeg kiszámításának módjáról szóló 25/2010. (V. 7.) IRM rendelet
+1. §[^2]
 
-a) 1. §-ában az „eljárási díj felét” szövegrész helyébe az „eljárási díjnak a fizetési meghagyásos eljárásról szóló 2009. évi L. törvény (a továbbiakban: Fmhtv.) 42. § (2) bekezdésében meghatározott részét” szöveg,
-
-b) 2. §-ában az „a fizetési meghagyásos eljárásról szóló törvényben” szövegrész helyébe az „az Fmhtv. 55. § (4) bekezdésében” szöveg,
-
-c) 6. § (2) bekezdésében az „a fizetési meghagyásos eljárásról szóló 2009. évi L. törvényben (a továbbiakban: Fmhtv.)” szövegrész helyébe az „az Fmhtv.-ben” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
