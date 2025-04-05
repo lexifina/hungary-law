@@ -2,4 +2,6 @@
 
 ## [2] A földgázellátásról szóló 2008. évi XL. törvény 133. § (2) bekezdés 3. és 4. pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 103. § (1) bekezdés 12. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § A csatlakozóvezetékekre, a felhasználói berendezésekre, a telephelyi vezetékekre, az olajfogyasztó technológiai rendszerekre és a gáztárolókra vonatkozó műszaki biztonsági előírásokról és a műszaki-biztonsági szempontból jelentős munkakörök betöltéséhez szükséges szakmai képesítésről és gyakorlatról, valamint az ilyen munkakörben foglalkoztatottak időszakos továbbképzésével kapcsolatos szabályokról szóló 16/2018. (IX. 11.) ITM rendelet módosításáról szóló 3/2020. (I. 13.) ITM rendelet [a továbbiakban: 3/2020. (I. 13.) ITM rendelet] 1. melléklete az 1. melléklet szerint módosul.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
