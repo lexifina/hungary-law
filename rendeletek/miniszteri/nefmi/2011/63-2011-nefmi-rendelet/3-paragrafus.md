@@ -1,4 +1,4 @@
-3. § (1)[^3] Az egészségügyért felelős miniszter (a továbbiakban: miniszter) az Egészségügyi Szakmai Kollégium (a továbbiakban: Szakmai Kollégium), az Országos Kórházi Főigazgatóság (a továbbiakban: OKFŐ), valamint a Magyar Egészségügyi Szakdolgozói Kamara (a továbbiakban: MESZK) javaslatára legalább ötévenként meghatározza a kötelező szakmacsoportos továbbképzési tanfolyamok szakmai tartalmát, és azt az általa vezetett minisztérium (a továbbiakban: minisztérium), valamint az OKFŐ folyamatosan hozzáférhetővé teszi.
+3. § (1)[^4] Az egészségügyért felelős miniszter (a továbbiakban: miniszter) az Egészségügyi Szakmai Kollégium (a továbbiakban: Szakmai Kollégium), az Országos Kórházi Főigazgatóság (a továbbiakban: OKFŐ), valamint a Magyar Egészségügyi Szakdolgozói Kamara (a továbbiakban: MESZK) javaslatára legalább ötévenként meghatározza a kötelező szakmacsoportos továbbképzési tanfolyamok szakmai tartalmát, és azt az általa vezetett minisztérium (a továbbiakban: minisztérium), valamint az OKFŐ folyamatosan hozzáférhetővé teszi.
 
 (2) A kötelező szakmacsoportos továbbképzési tanfolyam szakmai tartalma magában foglalja
 
@@ -18,4 +18,4 @@ f) az előadókra vonatkozó követelményeket (képesítés, tudományos fokoza
 
 (4) A kötelező szakmacsoportos továbbképzés szervezője a továbbképzés szervezésével és lebonyolításával összefüggésben anyagi támogatást gyógyszert vagy gyógyászati segédeszközt gyártó, illetve forgalmazó gazdálkodó szervezettől nem fogadhat el. A kötelező szakmacsoportos továbbképzés reklám vagy üzleti érdeket szolgáló programelemet nem tartalmazhat.
 
-[^3]: A 3. § (1) bekezdése a 7/2024. (II. 12.) BM rendelet 16. § a) és b) pontja szerint módosított szöveg.
+[^4]: A 3. § (1) bekezdése a 7/2024. (II. 12.) BM rendelet 16. § a) és b) pontja szerint módosított szöveg.

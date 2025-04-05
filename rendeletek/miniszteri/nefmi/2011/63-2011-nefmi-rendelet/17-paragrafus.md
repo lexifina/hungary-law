@@ -12,6 +12,6 @@
 
 (6) Az e rendelet hatálybalépésekor az egészségügyi dolgozók működési nyilvántartásában nem szereplő, egészségügyi kártevőirtó tevékenységet végző természetes személy a működési nyilvántartásába történő felvételét e rendelet hatálybalépését követő 60 napon belül kérelmezi.
 
-(7)[^44] Az az egészségügyi szakdolgozó, aki a működési nyilvántartási adatait a működési nyilvántartást vezető szerv által biztosított elektronikus felületen 2014. július 31-éig aktualizálja, 5 szabadon választható elméleti továbbképzési pontra jogosult azzal, hogy az adatok aktualizálásával egy továbbképzési időszakban szakmacsoportonként legfeljebb 8 pont szerezhető.
+(7)[^48] Az az egészségügyi szakdolgozó, aki a működési nyilvántartási adatait a működési nyilvántartást vezető szerv által biztosított elektronikus felületen 2014. július 31-éig aktualizálja, 5 szabadon választható elméleti továbbképzési pontra jogosult azzal, hogy az adatok aktualizálásával egy továbbképzési időszakban szakmacsoportonként legfeljebb 8 pont szerezhető.
 
-[^44]: A 17. § (7) bekezdését a 69/2013. (XI. 19.) EMMI rendelet 4. §-a iktatta be, szövege a 14/2014. (III. 10.) EMMI rendelet 19. § j) pontja szerint módosított szöveg.
+[^48]: A 17. § (7) bekezdését a 69/2013. (XI. 19.) EMMI rendelet 4. §-a iktatta be, szövege a 14/2014. (III. 10.) EMMI rendelet 19. § j) pontja szerint módosított szöveg.

@@ -10,4 +10,8 @@
 
 (5) A több, különböző szakmacsoportba tartozó szakképesítéssel rendelkező továbbképzésre kötelezettnek, amennyiben a több szakképesítésnek megfelelő szakmákat önállóan gyakorolja, a kötelező szakmacsoportos továbbképzést valamennyi önállóan gyakorolt szakmára vonatkozóan teljesítenie kell.
 
+(5a)[^3] Amennyiben az egészségügyi szakdolgozó több, különböző szakmacsoportba tartozó szakképesítéssel rendelkezik, és olyan, a (2) bekezdésben foglaltaknak megfelelő kötelező szakmacsoportos továbbképzést teljesít, amely a különböző szakmacsoportba tartozó szakképesítései számára megszervezhető, akkor az így teljesített kötelező szakmacsoportos továbbképzés pontértéke az érintett szakképesítései mindegyikéhez elszámolható.
+
 (6) E rendelet alkalmazásában távoktatás az a sajátos információtechnológiai és kommunikációs taneszközök, valamint ismeretátadási-tanulási módszerek használatával az oktató és a továbbképzésen résztvevő interaktív kapcsolatára és önálló munkára épülő, tudásszint felmérő teszttel záruló képzési forma, ahol a tudásszint felmérése a szolgáltató birtokában lévő adatbázisból egyénenként véletlenszerűen kiválasztott kérdéssor alapján történik. A szintfelmérést meghatározott időtartam alatt, megszakítás nélkül kell teljesíteni. A programot a munkahelyen kívüli továbbképzési programmal azonos módon kell elismertetni.
+
+[^3]: A 2. § (5a) bekezdését a 10/2025. (IV. 4.) BM rendelet 17. §-a iktatta be.

@@ -4,7 +4,7 @@
 
 a) a felsőoktatási intézmények orvos- vagy egészségtudományi karai,
 
-b)[^4] az OKFŐ, és
+b)[^5] az OKFŐ, és
 
 c) a szakmacsoportos továbbképzések lefolytatására a (4) bekezdésben meghatározott akkreditáció útján jogosultságot szerzett
 
@@ -14,9 +14,9 @@ cb) iskolarendszerű egészségügyi szakképzést folytató intézmények – a
 
 végzik.
 
-(3)[^5] A továbbképzés szervezési jog megszerzésére irányuló kérelmet elektronikus úton az OKFŐ részére évente egy alkalommal, minden év október 30-ig lehet benyújtani.
+(3)[^6] A továbbképzés szervezési jog megszerzésére irányuló kérelmet elektronikus úton az OKFŐ részére évente egy alkalommal, minden év június 30-ig lehet benyújtani.
 
-(4)[^6] A kötelező szakmacsoportos továbbképzés szervezésére való jogosultság (a továbbiakban: továbbképzés szervezési jog) odaítéléséről az OKFŐ főigazgatója a MESZK és a Szakmai Kollégium véleményének kikérését követően minden év december 31-éig dönt.
+(4)[^7] A kötelező szakmacsoportos továbbképzés szervezésére való jogosultság (a továbbiakban: továbbképzés szervezési jog) odaítéléséről az OKFŐ főigazgatója a MESZK és a Szakmai Kollégium véleményének kikérését követően minden év október 31-éig dönt.
 
 (5) A továbbképzés szervezési jog megszerzésére irányuló kérelemnek tartalmaznia kell:
 
@@ -46,12 +46,12 @@ cc) a felsőfokú egészségügyi szakképzettséget, és
 
 d) a kérelmező egységes szerkezetbe foglalt hatályos létesítő okiratát a felsőoktatásról szóló törvény 1. számú mellékletében nevesített felsőoktatási intézmény kivételével.
 
-(7)[^7] A kötelező szakmacsoportos továbbképzés szervezésére jogosult intézmények névsorát az OKFŐ a honlapján közzéteszi.
+(7)[^8] A kötelező szakmacsoportos továbbképzés szervezésére jogosult intézmények névsorát az OKFŐ a honlapján közzéteszi.
 
-(8)[^8] A kötelező szakmacsoportos továbbképzés szervezésére jogosult intézmény köteles a jogosultság megszerzéséhez szükséges feltételeiben bekövetkezett bármely változást annak bekövetkeztétől számított 15 napon belül az OKFŐ részére elektronikus úton bejelenteni.
+(8)[^9] A kötelező szakmacsoportos továbbképzés szervezésére jogosult intézmény köteles a jogosultság megszerzéséhez szükséges feltételeiben bekövetkezett bármely változást annak bekövetkeztétől számított 15 napon belül az OKFŐ részére elektronikus úton bejelenteni.
 
-[^4]: A 4. § (2) bekezdés b) pontja a 7/2024. (II. 12.) BM rendelet 16. § b) pontja szerint módosított szöveg.
-[^5]: A 4. § (3) bekezdése a 2/2013. (I. 2.) EMMI rendelet 23. §-ával megállapított, a 4/2015. (I. 20.) EMMI rendelet 12. § b) pontja, a 7/2024. (II. 12.) BM rendelet 16. § b) pontja szerint módosított szöveg.
-[^6]: A 4. § (4) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 127. §-ával megállapított, a 7/2024. (II. 12.) BM rendelet 16. § b) pontja szerint módosított szöveg.
-[^7]: A 4. § (7) bekezdése a 7/2024. (II. 12.) BM rendelet 16. § b) pontja szerint módosított szöveg.
-[^8]: A 4. § (8) bekezdését a 4/2015. (I. 20.) EMMI rendelet 5. §-a iktatta be, szövege a 7/2024. (II. 12.) BM rendelet 16. § b) pontja szerint módosított szöveg.
+[^5]: A 4. § (2) bekezdés b) pontja a 7/2024. (II. 12.) BM rendelet 16. § b) pontja szerint módosított szöveg.
+[^6]: A 4. § (3) bekezdése a 2/2013. (I. 2.) EMMI rendelet 23. §-ával megállapított, a 4/2015. (I. 20.) EMMI rendelet 12. § b) pontja, a 7/2024. (II. 12.) BM rendelet 16. § b) pontja, a 10/2025. (IV. 4.) BM rendelet 22. § 1. pontja szerint módosított szöveg.
+[^7]: A 4. § (4) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 127. §-ával megállapított, a 7/2024. (II. 12.) BM rendelet 16. § b) pontja, a 10/2025. (IV. 4.) BM rendelet 22. § 2. pontja szerint módosított szöveg.
+[^8]: A 4. § (7) bekezdése a 7/2024. (II. 12.) BM rendelet 16. § b) pontja szerint módosított szöveg.
+[^9]: A 4. § (8) bekezdését a 4/2015. (I. 20.) EMMI rendelet 5. §-a iktatta be, szövege a 7/2024. (II. 12.) BM rendelet 16. § b) pontja szerint módosított szöveg.
