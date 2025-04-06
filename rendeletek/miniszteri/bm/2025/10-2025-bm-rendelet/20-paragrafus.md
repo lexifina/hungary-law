@@ -1,3 +1,3 @@
-20. § A 63/2011. (XI. 29.) NEFMI rendelet 15. §-a helyébe a következő rendelkezés lép:
+20. §[^27]
 
-„15. § A továbbképzési időszak alatt – az Eütv. 104. §-ában meghatározott nem-konvencionális eljárások körébe tartozó továbbképzések kivételével – egy kötelező szakmacsoportos továbbképzés a továbbképzésre kötelezett számára térítésmentes, amelyre vonatkozó költségvetési támogatás a továbbképzés szervezésére jogosult intézmény részére utólag kerül biztosításra. A támogatás koordinációs feladatait az OKFŐ látja el.”
+[^27]: A 20. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,7 +1,3 @@
-## „i) az NVB bélyegzőjét és
+31. §[^36]
 
-## j) szükség esetén záradékot.”
-
-31. § (1) A 23/2012. (IX. 14.) EMMI rendelet 1. melléklete a 18. melléklet szerint módosul.
-
-(2) A 23/2012. (IX. 14.) EMMI rendelet 2. melléklete a 19. melléklet szerint módosul.
+[^36]: A 31. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

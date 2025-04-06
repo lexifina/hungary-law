@@ -1,5 +1,5 @@
 ## 12. A szakorvosok, szakfogorvosok, szakgyógyszerészek és szakpszichológusok egészségügyi szakirányú szakmai továbbképzésről szóló 23/2012. (IX. 14.) EMMI rendelet módosítása
 
-29. § A szakorvosok, szakfogorvosok, szakgyógyszerészek és szakpszichológusok egészségügyi szakirányú szakmai továbbképzésről szóló 23/2012. (IX. 14.) EMMI rendelet [a továbbiakban: 23/2012. (IX. 14.) EMMI rendelet] a következő 7/B. §-sal egészül ki:
+29. §[^34]
 
-„7/B. § Az engedélyezett licenc vizsga elhalasztására irányuló szándékát a jelöltnek legkésőbb a vizsgát megelőző ötödik munkanapig kell jeleznie az NVB-nek. A licenc vizsga elhalasztása esetén a jelöltnek ismételten jelentkeznie kell az NVB-nél. Az első alkalommal jelzett halasztás esetén a jelölt a licencvizsgadíj ismételt megfizetése alól mentesül. Amennyiben a jelölt a licenc vizsga elhalasztására irányuló szándékát nem jelezte, vagy ugyanazon licenc vizsga második vagy további alkalommal történő elhalasztása esetén a licenc vizsga díját ismételten meg kell fizetni.”
+[^34]: A 29. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

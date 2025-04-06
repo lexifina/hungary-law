@@ -1,3 +1,3 @@
-19. § A 63/2011. (XI. 29.) NEFMI rendelet 9. § (5) bekezdése helyébe a következő rendelkezés lép:
+19. §[^26]
 
-„(5) Annak a több szakképesítéssel rendelkező egészségügyi szakdolgozónak az esetében, akinek valamely szakképesítésére vonatkozó, folyamatban lévő továbbképzési időszakában 3 évnél kevesebb időszakra kerül megújításra egy másik szakmacsoportba tartozó szakképesítésének működési nyilvántartása, a működési nyilvántartás következő megújításakor – a folyamatban lévő továbbképzési időszakában 3 évnél kevesebb időszakra megújított szakképesítés tekintetében – a továbbképzési kötelezettsége teljesítettnek minősül.”
+[^26]: A 19. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

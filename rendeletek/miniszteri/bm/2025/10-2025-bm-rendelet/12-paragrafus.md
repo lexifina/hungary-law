@@ -1,1 +1,3 @@
-12. § A törzskönyvezett gyógyszerek és a különleges táplálkozási igényt kielégítő tápszerek társadalombiztosítási támogatásba való befogadásának szempontjairól és a befogadás vagy a támogatás megváltoztatásáról szóló 32/2004. (IV. 26.) ESZCSM rendelet [a továbbiakban: 32/2004. (IV. 26.) ESZCSM rendelet] 2. számú melléklet EÜ100 34. pontjában foglalt, a „Kijelölt intézmények:” megjelölésű táblázatban az „Országos Reumatológiai és Fizioterápiás Intézet” szövegrész helyébe a „Semmelweis Egyetem Klinikai Központ” szöveg lép.
+12. §[^19]
+
+[^19]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-28. § A 22/2012. (IX. 14.) EMMI rendelet 4. melléklete a 17. melléklet szerint módosul.
+28. §[^33]
+
+[^33]: A 28. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
