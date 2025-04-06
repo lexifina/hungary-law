@@ -1,5 +1,8 @@
-9. § (1) Az R. 5. számú melléklete helyébe az 1. melléklet lép.
+9. § (1)[^4]
 
 (2)
 
-(3) Az R. 39. számú melléklete helyébe a 3. melléklet lép.
+(3)[^5]
+
+[^4]: A 9. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 9. § (3) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

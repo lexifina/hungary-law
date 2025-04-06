@@ -1,1 +1,3 @@
-10. § Az R. 4/D. § (2) bekezdésében az „ellátásokra az alapdíj” szövegrész helyébe az „ellátásokra – a (2a) bekezdésben foglalt kivétellel – az alapdíj” szöveg lép.
+10. §[^6]
+
+[^6]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
