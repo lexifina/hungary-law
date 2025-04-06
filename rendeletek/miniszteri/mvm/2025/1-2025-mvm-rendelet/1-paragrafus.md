@@ -6,6 +6,6 @@
 
 ## [4] Az államháztartásról szóló 2011. évi CXCV. törvény 109. § (5) bekezdésében kapott felhatalmazás alapján, az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 1. melléklet I. pont 11. alpontjában meghatározott feladatkörömben eljárva − a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 103. § (1) bekezdés 22. pontjában meghatározott feladatkörében eljáró nemzetgazdasági miniszterrel egyetértésben − a következőket rendelem el:
 
-1. § A fejezeti kezelésű előirányzatok és a központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 8/2016. (III. 25.) MvM rendelet (a továbbiakban: R.) 8. § (4) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(4) A támogatás, az (EU) 2023/2832 bizottsági rendelet alapján nyújtott támogatás kivételével, más csekély összegű támogatásokról szóló rendeletek alapján nyújtott csekély összegű támogatással az (1) bekezdésben meghatározott értékhatárig halmozható.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
