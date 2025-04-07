@@ -8,7 +8,7 @@
 
 | 4. | A hitel futamideje | legfeljebb 20 év |
 
-| 5. | Keretösszeg | 525 000 000 000 forint[^10] |
+| 5. | Keretösszeg | 825 000 000 000 forint[^10] |
 
 | 6. | Hitelösszeg | legfeljebb 100 000 000 000 forint |
 
@@ -41,6 +41,6 @@ MFB Gyármentő Likviditási Garanciaprogram
 [^7]: A 3. mellékletben foglalt táblázat B:1 mezője az 1204/2024. (VII. 8.) Korm. határozat 2. pont a) alpontjával megállapított szöveg.
 [^8]: A 3. mellékletben foglalt táblázat B:2 mezője az 1204/2024. (VII. 8.) Korm. határozat 2. pont b) alpontjával megállapított szöveg.
 [^9]: A 3. mellékletben foglalt táblázat B:3 mezője az 1204/2024. (VII. 8.) Korm. határozat 2. pont c) alpontjával megállapított szöveg.
-[^10]: A 3. mellékletben foglalt táblázat B:5 mezője az 1204/2024. (VII. 8.) Korm. határozat 2. pont d) alpontjával megállapított szöveg.
+[^10]: A 3. mellékletben foglalt táblázat B:5 mezője az 1102/2025. (IV. 7.) Korm. határozat szerint módosított szöveg.
 [^11]: A 4. mellékletet az 1607/2022. (XII. 8.) Korm. határozat 3. pontja iktatta be, szövege az 1034/2023. (II. 16.) Korm. határozattal megállapított szöveg.
 [^12]: A 4. mellékletben foglalt táblázat B:5 mezője az 1204/2024. (VII. 8.) Korm. határozat 3. pontjával megállapított szöveg.
