@@ -360,17 +360,17 @@ közúti és vasúti projektek
 
 | 11. | KÖZÚT-3 | a debreceni Észak-Nyugati Gazdasági Övezet területe körüli, 2×1 sávos út megépítésével, valamint az így kialakuló út Debrecen–Nagymacs és Debrecen-Józsa felé történő kapcsolatának 2×1 sávos, illetve a 33. sz. főútig vezető út 2×2 sávos kiépítésével [1464/2018. (IX. 25.) Korm. határozat 1. pont c) alpont] |
 
-| 12. | KÖZÚT-3/A | az ipari fejlesztési terület és a 33. sz. főút közötti helyi közút (2×2 sávos kialakítással) | Debrecen MJV | 2019.06.30. | Debrecen MJV | 2019.09.30. |
+| 12. | KÖZÚT-3/A | az ipari fejlesztési terület és a 33. sz. főút közötti helyi közút (2×2 sávos kialakítással) | Debrecen MJV | 2019.06.30. | Debrecen MJV | vállalkozási szerződés szerint |
 
-| 13. | KÖZÚT-3/B | az ipari fejlesztési terület körüli helyi közút (2×1 sávos kialakítással) | Debrecen MJV | 2019.06.30. | Debrecen MJV | 2020.12.31. |
+| 13. | KÖZÚT-3/B | az ipari fejlesztési terület körüli helyi közút (2×1 sávos kialakítással) | Debrecen MJV | 2019.06.30. | Debrecen MJV | vállalkozási szerződés szerint |
 
-| 14. | KÖZÚT-3/C | az ipari fejlesztési terület és Nagymacs közötti helyi közút (2×1 sávos kialakítással) | Debrecen MJV | 2019.06.30. | Debrecen MJV | 2020.12.31. |
+| 14. | KÖZÚT-3/C | az ipari fejlesztési terület és Nagymacs közötti helyi közút (2×1 sávos kialakítással) | Debrecen MJV | 2019.06.30. | Debrecen MJV | vállalkozási szerződés szerint |
 
-| 15. | KÖZÚT-3/D | az ipari fejlesztési terület és az M35 autópálya új, Debrecen- Józsa csomópontja között (2×1 sávos kialakítással) | Debrecen MJV | 2019.06.30. | Debrecen MJV | 2021.12.31. |
+| 15. | KÖZÚT-3/D | az ipari fejlesztési terület és az M35 autópálya új, Debrecen- Józsa csomópontja között (2×1 sávos kialakítással) | Debrecen MJV | 2019.06.30. | Debrecen MJV | vállalkozási szerződés szerint |
 
-| 16. | KÖZÚT-3/E | az M35 autópálya új, Debrecen- Józsa csomópontja és Debrecen- Józsa között (2×1 sávos kialakítással) | Debrecen MJV | 2019.06.30. | Debrecen MJV | 2021.12.31. |
+| 16. | KÖZÚT-3/E | az M35 autópálya új, Debrecen- Józsa csomópontja és Debrecen- Józsa között (2×1 sávos kialakítással) | Debrecen MJV | 2019.06.30. | Debrecen MJV | vállalkozási szerződés szerint |
 
-| 17. | KÖZÚT-3/F | az ipari fejlesztési terület és az M35 autópálya meglévő, 354. sz. főúti csomópontja között (2×1 sávos kialakítással) | Debrecen MJV | 2019.06.30. | Debrecen MJV | 2021.12.31. |
+| 17. | KÖZÚT-3/F | az ipari fejlesztési terület és az M35 autópálya meglévő, 354. sz. főúti csomópontja között (2×1 sávos kialakítással) | Debrecen MJV | 2019.06.30. | Debrecen MJV | vállalkozási szerződés szerint |
 
 | 18. | VASÚT-1 | a debreceni közforgalmú logisztikai és konténerterminál Országos Intermodális Konténerterminál Hálózat részeként történő megépítése [1464/2018. (IX. 25.) Korm. határozat 3. pont a) alpont] |
 
@@ -444,4 +444,4 @@ közmű projektek
 [^26]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^27]: A 11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^28]: A 12. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^29]: Az 1. melléklet az 1053/2020. (II. 19.) Korm. határozat 3. pontja, az 1302/2023. (VII. 19.) Korm. határozat 3. pontja, az 1054/2025. (III. 11.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^29]: Az 1. melléklet az 1053/2020. (II. 19.) Korm. határozat 3. pontja, az 1302/2023. (VII. 19.) Korm. határozat 3. pontja, az 1054/2025. (III. 11.) Korm. határozat 1. pontja, az 1109/2025. (IV. 7.) Korm. határozat szerint módosított szöveg.
