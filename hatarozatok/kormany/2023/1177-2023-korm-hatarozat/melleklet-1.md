@@ -114,6 +114,8 @@
 
 ## 18.[^15] az állami építési beruházások rendjéről szóló 2023. évi LXIX. törvény (a továbbiakban: Ábtv.) 4. § (2) bekezdésében biztosított jogkörében eljárva – a beruházások gyors lefolytatása érdekében – az 1. mellékletben foglalt táblázat 4. és 6. sora szerinti projektelemeket mentesíti az Ábtv. alkalmazása alól, az ahhoz fűződő kiemelt nemzeti és befektetésösztönzési érdekre tekintettel.
 
+## 19.[^16] egyetért azzal, hogy a DEBKÖZMŰ-2/B projekt a 2025. évi forrásainak terhére, a projekt megvalósításának veszélyeztetése nélkül, de a maradéktalan kivitelezés érdekében, legfeljebb 850 000 000 forint összegű forrás, a tényleges felhasználásnak megfelelően a DEBKÖZMŰ-1/B projekt javára kerülhessen elszámolásra a 2025. évben.
+
 1. melléklet az 1177/2023. (IV. 28.) Korm. határozathoz
 
 A Debrecen város víziközműinfrastruktúra-fejlesztéseinek előkészítéséről és megvalósításáról szóló kormányhatározat indikatív projektlistája
@@ -153,3 +155,4 @@ A Debrecen város víziközműinfrastruktúra-fejlesztéseinek előkészítésé
 [^13]: A 16. pontot az 1026/2025. (II. 24.) Korm. határozat 5. pontja iktatta be.
 [^14]: A 17. pontot az 1026/2025. (II. 24.) Korm. határozat 5. pontja iktatta be.
 [^15]: A 18. pontot az 1054/2025. (III. 11.) Korm. határozat 14. pontja iktatta be.
+[^16]: A 19. pontot az 1110/2025. (IV. 7.) Korm. határozat iktatta be.
