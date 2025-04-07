@@ -10,9 +10,9 @@ b) a 2025. évben a Magyarország 2025. évi központi költségvetéséről sz�
 
 | Határidő: | az a) pont tekintetében 2024. április 30. a b) pont tekintetében 2025. január 5. |
 
-1.2. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 36. § (4b) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy az energiaügyi miniszter az 1.1. alpontban foglalt feladat végrehajtása érdekében legfeljebb 49 500 000 000 forint összegben kötelezettséget vállaljon;
+1.2. [^1]
 
-1.3. az Áht. 36. § (4c) bekezdés b) pontjában biztosított jogkörében eljárva az 1.1. alpontban foglalt feladat végrehajtása érdekében az 1.1. alpont a) pontja szerinti jogcímcsoport terhére vállalható kötelezettségvállalás felső korlátját a 2025. évben legfeljebb 4 500 000 000 forint összegben állapítja meg;
+1.3. [^2]
 
 1.4. felhívja az energiaügyi minisztert, hogy az 1.1. alpont szerinti forrás terhére gondoskodjon a Szövetség részére a 289/2022. (VIII. 5.) Korm. rendelet 5/C. § (3) bekezdése alapján megkötött szerződés szerinti ellentételezés teljesítéséről, a következő ütemezés szerint:
 
@@ -24,6 +24,8 @@ b) 2025. január 20-ig további 4 500 000 000 forint.
 
 | Határidő: | folyamatos |
 
-2.[^1]
+2.[^3]
 
-[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont 1.2. pontot az 1099/2025. (IV. 7.) Korm. határozat 6. pontja visszavonta.
+[^2]: Az 1. pont 1.3. pontot az 1099/2025. (IV. 7.) Korm. határozat 6. pontja visszavonta.
+[^3]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
