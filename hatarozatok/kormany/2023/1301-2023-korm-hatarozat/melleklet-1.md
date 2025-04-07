@@ -62,6 +62,8 @@
 
 | Határidő: | azonnal |
 
+## 13.[^12] az állami építési beruházások rendjéről szóló 2023. évi LXIX. törvény (a továbbiakban: Ábtv.) 4. § (2) bekezdésében biztosított jogkörében eljárva – a beruházások gyors lefolytatása érdekében – a KÖZÚT-4/A projektelemet, az ahhoz fűződő kiemelt nemzeti és befektetésösztönzési érdekre tekintettel, mentesíti az Ábtv. alkalmazása alól.
+
 1. melléklet az 1301/2023. (VII. 19.) Korm. határozathoz
 
 A debreceni Észak-Nyugati Gazdasági Övezet kialakításával összefüggő közúti infrastruktúra-fejlesztések indikatív projektlistája
@@ -95,3 +97,4 @@ A debreceni Észak-Nyugati Gazdasági Övezet kialakításával összefüggő k�
 [^9]: A 10. pontot az 1375/2024. (XII. 9.) Korm. határozat 2. pont c) alpontja iktatta be.
 [^10]: A 11. pontot az 1375/2024. (XII. 9.) Korm. határozat 2. pont c) alpontja iktatta be, szövege az 1027/2025. (II. 24.) Korm. határozat 2. pontjával megállapított szöveg.
 [^11]: A 12. pontot az 1027/2025. (II. 24.) Korm. határozat 2. pontja iktatta be.
+[^12]: A 13. pontot az 1111/2025. (IV. 7.) Korm. határozat 8. pontja iktatta be.
