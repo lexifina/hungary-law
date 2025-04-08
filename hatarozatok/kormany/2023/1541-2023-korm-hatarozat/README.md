@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-1541-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2023-12-12 | 2023-1541-30-22.1 | 1541/2023. (XII. 12.) Korm. határozat |
+| 2025-04-08 | 2023-1541-30-22.2 | 1100/2025. (IV. 7.) Korm. határozat |
