@@ -28,4 +28,6 @@ be) a Magyar Államkincstár elnöke.
 
 6. Ez a határozat 2025. április 7-én lép hatályba.
 
-7. Hatályát veszti a Vidékfejlesztési Kormánybizottságról szóló 1498/2023. (XI. 16.) Korm. határozat.
+7.[^1]
+
+[^1]: A 7. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
