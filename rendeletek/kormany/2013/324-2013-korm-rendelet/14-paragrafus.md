@@ -1,3 +1,3 @@
-14. §[^68]
+14. §[^69]
 
-[^68]: A 14. §-t a 285/2024. (IX. 30.) Korm. rendelet 96. § b) pontja hatályon kívül helyezte.
+[^69]: A 14. §-t a 285/2024. (IX. 30.) Korm. rendelet 96. § b) pontja hatályon kívül helyezte.

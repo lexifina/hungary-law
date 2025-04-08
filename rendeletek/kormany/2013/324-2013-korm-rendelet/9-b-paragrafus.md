@@ -1,4 +1,4 @@
-9/B. §[^54] (1) A közműnyilatkozatot vagy közmű-állásfoglalást kérelmező kizárólag a közműegyeztető rendszeren keresztül indíthatja el és folytathatja le az egyeztetési folyamatot.
+9/B. §[^55] (1) A közműnyilatkozatot vagy közmű-állásfoglalást kérelmező kizárólag a közműegyeztető rendszeren keresztül indíthatja el és folytathatja le az egyeztetési folyamatot.
 
 (2) A közműnyilatkozat vagy közmű-állásfoglalás kérelmezése e-közmű rendszerhasználati díj megfizetéséhez kötött. Az ÁSZF-ben meghatározott mértékű rendszerhasználati díjat az e-közmű internetes felületén keresztül, a 4. § (5) bekezdésében foglaltaknak megfelelően kell kiegyenlíteni.
 
@@ -10,4 +10,4 @@
 
 (6) Az e-közmű rendszer a (4) és (5) bekezdésben foglaltak szerint megjelölt közművezeték-üzemeltetőket felkéri a közműegyeztetés lebonyolítására.
 
-[^54]: A 9/B. § a 117/2018. (VII. 2.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^55]: A 9/B. § a 117/2018. (VII. 2.) Korm. rendelet 12. §-ával megállapított szöveg.
