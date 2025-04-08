@@ -30,6 +30,8 @@
 
 ## 5. az Áht. 36. § (4c) bekezdés b) pontjában biztosított jogkörében eljárva az 1. pontban foglalt feladat végrehajtása érdekében a 2. pont a) alpontja szerinti jogcímcsoport terhére vállalható kötelezettségvállalás felső korlátját a 2026. évben legfeljebb 5 500 000 000 forint összegben állapítja meg;
 
-## 6. visszavonja a különleges földgázkészlet fenntartásához kapcsolódó pénzügyi intézkedésről szóló 1076/2024. (III. 28.) Korm. határozat 1. pont 1.2. és 1.3. alpontját.
+## 6.[^1]
 
 1. melléklet az 1099/2025. (IV. 7.) Korm. határozathoz
+
+[^1]: A 6. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
