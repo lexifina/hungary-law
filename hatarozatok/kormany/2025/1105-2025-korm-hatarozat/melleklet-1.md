@@ -16,19 +16,13 @@
 
 | Határidő: | a Támogatási Megállapodás megkötését követően haladéktalanul |
 
-## 2. Az Európai Hálózatfinanszírozási Eszköz keretében megvalósítandó „Szűk keresztmetszetek felszámolása és az átjárhatóság fejlesztése a Budapest (Kelenföld) – Hegyeshalom vonalon” tárgyú CEF projekt hazai társfinanszírozásának biztosításáról szóló 1733/2020. (X. 30.) Korm. határozat 1. mellékletében foglalt táblázat D:2 mezőjében a „MÁV Magyar Államvasutak Zrt.” szövegrész helyébe a „MÁV Magyar Államvasutak Zrt., MÁV Pályaműködtetési Zrt.” szöveg lép.
+## 2.[^1]
 
-## 3. Az Európai Hálózatfinanszírozási Eszköz 2021. évi pályázati kiírása keretében támogatott CEF projektek hazai társfinanszírozásának biztosításáról szóló 1458/2022. (IX. 23.) Korm. határozat 1. mellékletében foglalt táblázat D:1 mezőjében a „MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság” szövegrész helyébe a „MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság, MÁV Pályaműködtetési Zártkörűen Működő Részvénytársaság” szöveg lép.
+## 3.[^2]
 
-## 4. A Magyarország projektjavaslatainak az Európai Hálózatfinanszírozási Eszköz 2022. évi CEF2 második körös pályázati kiírása keretében támogatott CEF projektek hazai társfinanszírozásának biztosításáról szóló 1435/2023. (X. 9.) Korm. határozat 1. mellékletében foglalt táblázat D:3 mezőjében a „MÁV Zrt., Záhony-Port Zrt. és NAV” szövegrész helyébe a „MÁV Magyar Államvasutak Zrt., Záhony-Port Zrt., NAV, MÁV Pályaműködtetési Zrt.” szöveg lép.
+## 4.[^3]
 
-## 5. A Magyarország projektjavaslatainak az Európai Hálózatfinanszírozási Eszköz 2023. évi CEF2 harmadik körös pályázati kiírása keretében támogatott CEF projektek hazai társfinanszírozásának biztosításáról szóló 1321/2024. (X. 24.) Korm. határozat 1. mellékletében foglalt táblázat
-
-## a) D:3 mezőjében a „MÁV-START Zrt.” szövegrész helyébe a „MÁV Személyszállítási Zrt., MÁV Zrt.” szöveg,
-
-## b) D:4 mezőjében a „MÁV Zrt.” szövegrész helyébe a „MÁV Zrt., MÁV Pályaműködtetési Zrt.” szöveg
-
-## lép.
+## 5.[^4]
 
 1. melléklet az 1105/2025. (IV. 7.) Korm. határozathoz
 
@@ -37,3 +31,8 @@
 | 1. | Kapcsolódó program megnevezése | Projekt megnevezése | Koordinátor/Kedvezményezett | Társkedvezményezett | Projekt elszámolható költsége (nettó Ft) | Projekt elszámolható összköltsége (bruttó Ft) | Európai Hálózatfinanszírozási Eszköz terhére biztosított támogatás tervezett összege (nettó Ft) | Hazai költségvetési támogatás összege (Ft) | Saját erő (Ft) | Projektjavaslat rövid bemutatása |
 
 | 2. | Európai Hálózatfinanszírozási Eszköz | NAPCORE X – Támogatás az Intelligens Közlekedési Rendszerek (ITS) Nemzeti Hozzáférési Pontjainak koordinációjához | Építési és Közlekedési Minisztérium | Magyar Közút Zrt. | 37 712 160 | 47 894 443 | 32 055 336 | 15 839 107 | 0 | A nemzetközi projekt célja a vonatkozó EU jogszabályban előírt, közlekedési adatok megosztására szolgáló portál – a Nemzeti Adathozzáférési Pont (NAP) – nemzetközi harmonizációs projekt folytatása, a különböző tagországokban található rendszerek homogenizálására. |
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
