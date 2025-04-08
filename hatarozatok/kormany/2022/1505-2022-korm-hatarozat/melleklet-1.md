@@ -230,109 +230,103 @@ A Tanács formációi előkészítésének kormányzati felelősségi rendje
 
 |  | A | B | C |
 
-| 1 | Tanácsi formáció | Első helyi felelős miniszter | Társfelelős miniszter, háttérintézmények |
+| 1 | Tanácsi formáció | Első helyi felelős | Társfelelős |
 
-| 2 | Általános Ügyek Tanácsa | EUM, KTM1, KKM2 |  |
+| 2 | Általános Ügyek Tanácsa | EUM, KTM1, KKM2 | MK3 |
 
-| 3 | Külügyek Tanácsa | KKM, HM3 | NGM4, MK5 |
+| 3 | Külügyek Tanácsa | KKM, HM4 | NGM5, MK6 |
 
-| 4 | Bel- és Igazságügyi Tanács | BM6, IM7 | EUM8, MK9 |
+| 4 | Bel- és Igazságügyi Tanács | BM7, IM8 | EUM9, EM10 |
 
-| 5 | Gazdasági és Pénzügyi Tanács | PM | NGM10 |
+| 5 | Gazdasági és Pénzügyi Tanács | NGM |  |
 
-| 6 | Foglalkoztatási, Szociálpolitikai, Egészségügyi, Fogyasztóvédelmi Tanács | NGM11, BM12 | IM13, KIM14, PM15, ÉKM16 |
+| 6 | Foglalkoztatási, Szociálpolitikai, Egészségügyi, Fogyasztóvédelmi Tanács | NGM11, BM12 | IM13, KIM14, ÉKM15 |
 
-| 7 | Versenyképességi Tanács | NGM17, KIM18, IM19 | NKFIH20, MKI21, MTÜ (NGM)22, SZTNH23, ÉKM24 , EM25, KKM26 |
+| 7 | Versenyképességi Tanács | NGM16, KIM17, IM18 | MKI19, ÉKM20, EM21, KKM22, EUM23 |
 
-| 8 | Közlekedési, Távközlési és Energia Tanács | ÉKM27, EM28, KKM29, MK30 | NGM31 |
+| 8 | Közlekedési, Távközlési és Energia Tanács | ÉKM24, EM25, KKM26 | NGM27, MK28 |
 
-| 9 | Mezőgazdasági és Halászati Tanács | AM | BM32 |
+| 9 | Mezőgazdasági és Halászati Tanács | AM | BM29 |
 
-| 10 | Környezetvédelmi Tanács | EM, AM33 | NNGYK (BM)34 |
+| 10 | Környezetvédelmi Tanács | EM, AM30 | BM31 |
 
-| 11 | Oktatás, Ifjúság, Kultúra és Sport Tanács | KIM35, BM36, HM37, MK38 | ÉKM39, KTM40 |
+| 11 | Oktatás, Ifjúság, Kultúra és Sport Tanács | KIM32, BM33, HM34, EM35 | ÉKM36, KTM37 |
 
 2. Az 1. pontban foglalt táblázathoz kapcsolódó megjegyzések tartalma:
 
-1A kohéziós politikai ügyekben a KTM a felelős.
+1 A kohéziós politikai ügyekben a KTM a felelős.
 
-2A bővítéssel, illetve az Európai Unió és az Egyesült Királyság közötti kapcsolatokkal összefüggő kérdésekben a KKM a felelős.
+2 A bővítéssel, illetve az Európai Unió és az Egyesült Királyság közötti kapcsolatokkal összefüggő kérdésekben a KKM a felelős.
 
-3A HM a védelmi miniszteri formáció tekintetében felelős.
+3 A hibrid fenyegetésekkel és a dezinformációval összefüggésben a miniszterelnök nemzetbiztonsági főtanácsadója a felelős.
 
-4A védelmi iparral összefüggésben az NGM a felelős.
+4 A HM a védelmi miniszteri formáció tekintetében felelős.
 
-5A védelmi és biztonsági tevékenységekkel összefüggésben a miniszterelnök nemzetbiztonsági főtanácsadója a felelős.
+5 A védelmi iparral összefüggésben az NGM a felelős.
 
-6A belügyi témákért a BM felelős.
+6 A védelmi és biztonsági tevékenységekkel összefüggésben a miniszterelnök nemzetbiztonsági főtanácsadója a felelős.
 
-7Az igazságügyi témájú dossziékért fő szabály szerint az IM felel.
+7 A belügyi témákért a BM felelős.
 
-8Az egyes igazságügyi témájú dossziékért az EUM a felelős.
+8 Az igazságügyi témájú dossziékért fő szabály szerint az IM felel.
 
-9Az MK-t vezető miniszter felel a külföldre utazás szabályozásáért.
+9 Az egyes igazságügyi témájú dossziékért az EUM a felelős.
 
-10Az NGM feladat- és hatáskörébe tartoznak a pénz-, tőke- és biztosítási piac szabályozásával, az állami vagyonnal való gazdálkodás szabályozásával, az állami vagyon felügyeletével, valamint a pénzmosással összefüggő kérdések. Az NGM felelős továbbá a nemzetközi pénzügyi kapcsolatokért, kivéve a Gazdasági Együttműködési és Fejlesztési Szervezet, a Nemzetközi Valutaalap és a Világbank-csoport tekintetében, amelyek a PM hatáskörébe tartoznak.
+10 Az EM felel a külföldre utazás szabályozásáért.
 
-11Az NGM feladat- és hatáskörébe tartozik a foglalkoztatáspolitika.
+11 Az NGM feladat- és hatáskörébe tartozik a foglalkoztatáspolitika.
 
-12A BM feladat- és hatáskörébe tartozik az egészségügy, a szociálpolitika, a társadalmi felzárkózás és a közfoglalkoztatás.
+12 A BM feladat- és hatáskörébe tartozik az egészségügy, a szociálpolitika, a társadalmi felzárkózás és a közfoglalkoztatás.
 
-13Az IM feladat- és hatáskörébe tartozik az esélyegyenlőség.
+13 Az IM feladat- és hatáskörébe tartozik az esélyegyenlőség.
 
-14A KIM feladat- és hatáskörébe tartozik a családpolitika.
+14 A KIM feladat- és hatáskörébe tartozik a családpolitika.
 
-15A PM feladat- és hatáskörébe tartoznak az európai szemesztert és a nyugdíjpolitikát érintő kérdések.
+15 A miniszterelnöki biztos felel a dohányügyekért.
 
-16A miniszterelnöki biztos felel a dohányügyekért.
+16 Az NGM a felelős az iparügyekért, az űriparfejlesztésért és az űrtechnológiákért, a fogyasztóvédelemért, valamint felel az Európai Unió belső piacához kapcsolódó koordinációért. Továbbá az NGM feladat- és hatáskörébe tartoznak a tőke szabad áramlásával, gazdaságfejlesztéssel, a versenyképesség gazdasági és jogi feltételrendszerével összefüggő kérdések és a vállalkozásfejlesztési ügyek. A turizmussal összefüggő kérdésekben az NGM (MTÜ) a felelős.
 
-17Az NGM a felelős az iparügyekért, az űriparfejlesztésért és az űrtechnológiákért, a fogyasztóvédelemért, valamint felel az Európai Unió belső piacához kapcsolódó koordinációért. Továbbá az NGM feladat- és hatáskörébe tartoznak a tőke szabad áramlásával, gazdaságfejlesztéssel, a versenyképesség gazdasági és jogi feltételrendszerével összefüggő kérdések és a vállalkozásfejlesztési ügyek.
+17 A KIM feladat- és hatáskörébe tartoznak a tudománypolitikai kérdések. A KIM (NKFIH) felel a kutatásfejlesztésért, a szellemi tulajdoni ügyeket a KIM (SZTNH) és az IM osztott felelősségben kezeli.
 
-18A KIM feladat- és hatáskörébe tartoznak a tudománypolitikai kérdések.
+18 Az IM feladat- és hatáskörébe tartoznak a versenyjogi, a társasági jogi ügyek.
 
-19Az IM feladat- és hatáskörébe tartoznak a versenyjogi, a társasági jogi ügyek.
+19 Az MKI feladat- és hatáskörébe tartoznak a better/smart regulation ügyek.
 
-20Az NKFIH felel a kutatásfejlesztésért.
+20 Az ÉKM feladat- és hatáskörébe tartoznak az építésgazdasággal és állami beruházásokkal kapcsolatos ügyek.
 
-21Az MKI feladat- és hatáskörébe tartoznak a better/smart regulation ügyek.
+21 Az épületek energetikai jellemzőinek meghatározásával és az energetikai tanúsítói tevékenységgel kapcsolatos feladatok tekintetében az EM a felelős.
 
-22A turizmussal összefüggő kérdésekben az MTÜ (NGM) a felelős.
+22 A HUNOR program és az űrkutatási projektekben való nemzetközi szervezetben való részvétel tekintetében a KKM a felelős.
 
-23A szellemi tulajdoni ügyeket az SZTNH és az IM osztott felelősségben kezeli.
+23 Az állami támogatások tekintetében az EUM is érintett.
 
-24Az ÉKM feladat- és hatáskörébe tartoznak az építésgazdasággal és állami beruházásokkal kapcsolatos ügyek.
+24 Az ÉKM feladat- és hatáskörébe tartozik a közlekedés.
 
-25Az épületek energetikai jellemzőinek meghatározásával és az energetikai tanúsítói tevékenységgel kapcsolatos feladatok tekintetében az EM a felelős.
+25 Az EM feladat- és hatáskörébe tartozik az energiapolitika, valamint az elektronikus hírközléssel és az informatikával összefüggő kérdések.
 
-26A HUNOR program és az űrkutatási projektekben való nemzetközi szervezetben való részvétel tekintetében a KKM a felelős.
+26 A KKM jár el a külgazdaságért való felelőssége keretében a nemzetközi és európai uniós energetikai tárgyalások tekintetében, valamint az energiaforrások külföldről történő beszerzésével összefüggő ügyekben.
 
-27Az ÉKM feladat- és hatáskörébe tartozik a közlekedés.
+27 Az NGM feladat- és hatáskörébe tartozik számos digitális technológia ügy és a postaügyek.
 
-28Az EM feladat- és hatáskörébe tartozik az energiapolitika.
+28 Az MK felelős a kiberbiztonságért.
 
-29A KKM jár el a külgazdaságért való felelőssége keretében a nemzetközi és európai uniós energetikai tárgyalások tekintetében, valamint az energiaforrások külföldről történő beszerzésével összefüggő ügyekben.
+29 A BM is felelős az élelmiszer-biztonságért.
 
-30Az MK feladat- és hatáskörébe tartoznak az elektronikus hírközléssel és az informatikával összefüggő kérdések.
+30 A természetvédelmi ügyek tekintetében az AM a felelős.
 
-31Az NGM feladat- és hatáskörébe tartozik számos digitális technológia ügy és a postaügyek.
+31 A vegyi anyagok szabályozását érintő ügyekben a BM (NNGYK) a felelős.
 
-32A BM is felelős az élelmiszer-biztonságért.
+32 A KIM feladat- és hatáskörébe tartoznak a szakképzés, a felsőoktatás, a felnőttképzés, a kultúra, a családpolitika és a gyermek- és ifjúságpolitikai ügyek.
 
-33A természetvédelmi ügyek tekintetében az AM a felelős.
+33 A BM feladat- és hatáskörébe tartoznak a köznevelési, valamint a gyermek- és ifjúságvédelmi ügyek.
 
-34A vegyi anyagok szabályozását érintő ügyekben az NNGYK (BM) a felelős.
+34 A HM feladat- és hatáskörébe tartoznak a sportügyek.
 
-35A KIM feladat- és hatáskörébe tartoznak a szakképzés, a felsőoktatás, a felnőttképzés, a kultúra, a családpolitika és a gyermek- és ifjúságpolitikai ügyek.
+35 Az EM a felelős az audiovizuális politika tekintetében.
 
-36A BM feladat- és hatáskörébe tartoznak a köznevelési, valamint a gyermek- és ifjúságvédelmi ügyek.
+36 A kulturális örökségi témák felelőse az ÉKM.
 
-37A HM feladat- és hatáskörébe tartoznak a sportügyek.
-
-38Az MK a felelős az audiovizuális politika és az informatika tekintetében.
-
-39A kulturális örökségi témák felelőse az ÉKM.
-
-40Az Európa Kulturális Fővárosa pályázati programmal kapcsolatos kérdésekben a KTM a felelős.
+37 Az Európa Kulturális Fővárosa pályázati programmal kapcsolatos kérdésekben a KTM a felelős.
 
 [^1]: Az 1. pont az 1072/2024. (III. 21.) Korm. határozat 14. pont a) alpontja szerint módosított szöveg.
 [^2]: A 2. pont az 1072/2024. (III. 21.) Korm. határozat 1. pontjával megállapított szöveg.
@@ -358,4 +352,4 @@ A Tanács formációi előkészítésének kormányzati felelősségi rendje
 [^22]: A 44. pont az 1258/2024. (VIII. 22.) Korm. határozat 4. pontjával megállapított szöveg.
 [^23]: Az 53. pont az 1258/2024. (VIII. 22.) Korm. határozat 5. pontjával megállapított szöveg.
 [^24]: A 62. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^25]: Az 1. melléklet az 1258/2024. (VIII. 22.) Korm. határozat 7. pontjával megállapított szöveg.
+[^25]: Az 1. melléklet az 1106/2025. (IV. 7.) Korm. határozat 1. pontjával megállapított szöveg.
