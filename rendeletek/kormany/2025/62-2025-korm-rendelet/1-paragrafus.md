@@ -12,8 +12,8 @@
 
 ## az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-## 1.[^1]
+## 1. A területfejlesztéssel és a területrendezéssel kapcsolatos információs rendszerről és a kötelező adatközlés szabályairól szóló 31/2007. (II. 28.) Korm. rendelet módosítása
 
-1. §
+1. § A területfejlesztéssel és a területrendezéssel kapcsolatos információs rendszerről és a kötelező adatközlés szabályairól szóló 31/2007. (II. 28.) Korm. rendelet (a továbbiakban: R.) 1. § (2) bekezdése a következő d) ponttal egészül ki:
 
-[^1]: Az 1. alcím a 8. § (2) bekezdése alapján 2025. április 8-án lép hatályba.
+(A TeIR a térségek, települések helyzetére jellemző információkkal segítséget nyújt a kormányzati, regionális, térségi, vármegyei, járási, települési fejlesztési és rendezési, egyéb térségi, valamint ágazati tervezési, fejlesztési tevékenységet végző és azt ellenőrző szervezetek számára:)
