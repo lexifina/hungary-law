@@ -1,1 +1,0 @@
-A Kossuth Lajos téri Igazságügyi Palota és Agrárminisztérium épület rekonstrukciójával kapcsolatos intézkedésekről szóló 1002/2021. (I. 7.) Korm. határozat 1. pont f) alpont fb) pontjában a „2024. szeptember 30.” szövegrész helyébe a „2025. július 31.” szöveg lép.
