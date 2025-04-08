@@ -6,13 +6,13 @@
 
 ## c) hozzájárul a Környezeti és Energiahatékonysági Operatív Program 1. prioritása vonatkozásában tervezett eredményességi tartalék tekintetében felhívás meghirdetéséhez,
 
-## d)[^1] jóváhagyja a Környezeti és Energiahatékonysági Operatív Program 1. prioritása 441,86 milliárd forint összegű meghirdethető keretét, amely 87,01 milliárd forinttal haladja meg a Környezeti és Energiahatékonysági Operatív Program 1. prioritásának keretét,
+## d)[^1] jóváhagyja a Környezeti és Energiahatékonysági Operatív Program 1. prioritása 428,65 milliárd forint összegű meghirdethető keretét, amely 73,8 milliárd forinttal haladja meg a Környezeti és Energiahatékonysági Operatív Program 1. prioritásának keretét,
 
 ## e)[^2] jóváhagyja a Környezeti és Energiahatékonysági Operatív Program 3. prioritása 181,03 milliárd forint összegű meghirdethető keretét, amely 43,37 milliárd forinttal haladja meg a Környezeti és Energiahatékonysági Operatív Program 3. prioritásának keretét,
 
 ## f)[^3] jóváhagyja a Környezeti és Energiahatékonysági Operatív Program 4. prioritása 39,03 milliárd forint összegű meghirdethető keretét, amely 4,69 milliárd forinttal [ebből a Versenyképes Közép-Magyarország Operatív Programból (a továbbiakban: VEKOP) finanszírozott összeg: 0,37 milliárd forint] haladja meg a Környezeti és Energiahatékonysági Operatív Program 4. prioritásának keretét,
 
-## g)[^4] jóváhagyja a Környezeti és Energiahatékonysági Operatív Program 5. prioritása 345,34 milliárd forint összegű meghirdethető keretét, amely 50,94 milliárd forinttal haladja meg a Környezeti és Energiahatékonysági Operatív Program 5. prioritásának keretét,
+## g)[^4] jóváhagyja a Környezeti és Energiahatékonysági Operatív Program 5. prioritása 341,96 milliárd forint összegű meghirdethető keretét, amely 47,56 milliárd forinttal haladja meg a Környezeti és Energiahatékonysági Operatív Program 5. prioritásának keretét,
 
 ## h)[^5] jóváhagyja a Környezeti és Energiahatékonysági Operatív Program 2. prioritása 574,75 milliárd forint összegű meghirdethető keretét, amely 178,45 milliárd forinttal haladja meg a Környezeti és Energiahatékonysági Operatív Program 2. prioritásának keretét,
 
@@ -20,7 +20,7 @@
 
 ## j)[^7] egyetért azzal, hogy a Környezeti és Energiahatékonysági Operatív Program 5. prioritása esetén – az i) alponttal összhangban – kizárólag az európai uniós támogatás és a hazai társfinanszírozás összegének önerővel csökkentett mértékéig vállalható kötelezettség,
 
-## k)[^8] jóváhagyja a Környezeti és Energiahatékonysági Operatív Program 6. prioritása 90,84 milliárd forint összegű meghirdethető keretét.
+## k)[^8] jóváhagyja a Környezeti és Energiahatékonysági Operatív Program 6. prioritása 99,69 milliárd forint összegű meghirdethető keretét.
 
 ## l)[^9] jóváhagyja a Környezeti és Energiahatékonysági Operatív Program 7. prioritása 15 milliárd forint összegű meghirdethető keretét.
 
@@ -48,7 +48,7 @@ A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési ker
 
 | 4. | KEHOP- 1.2.1. | Helyi klímastratégiák kidolgozása, valamint a klímatudatosságot erősítő szemléletformálás | 2,07 | egyszerűsített | Meghirdetve 2018. február 9-én |
 
-| 5. | KEHOP- 1.3.0. | Fenntartható vízgazdálkodás infrastrukturális feltételeinek javítása | 145,55 | kiemelt | Meghirdetve 2015. október 12-én |
+| 5. | KEHOP- 1.3.0. | Fenntartható vízgazdálkodás infrastrukturális feltételeinek javítása | 132,34 | kiemelt | Meghirdetve 2015. október 12-én |
 
 | 6. | KEHOP- 1.3.1. | Fenntartható vízgazdálkodás infrastrukturális feltételeinek javítása – szakaszolt projektek | 10,12 | kiemelt | Meghirdetve 2015. július 30-án |
 
@@ -178,7 +178,7 @@ A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési ker
 
 | 5. | KEHOP-5.2.1. | Egyházi fenntartású kórházak, valamint a Magyar Honvédség Egészségügyi Központ épületenergetikai fejlesztése | 3,84 | kiemelt | Meghirdetve 2015. július 6-án |
 
-| 6. | KEHOP-5.2.2. | Középületek kiemelt épületenergetikai fejlesztései | 130,68 | kiemelt | Meghirdetve 2016. március 10-én |
+| 6. | KEHOP-5.2.2. | Középületek kiemelt épületenergetikai fejlesztései | 127,30 | kiemelt | Meghirdetve 2016. március 10-én |
 
 | 7. | KEHOP-5.2.3. | Egyházak épületenergetikai fejlesztései megújuló energiaforrás hasznosításának lehetőségével | 15,70 | kiemelt | Meghirdetve 2016. szeptember 9-én |
 
@@ -226,13 +226,13 @@ A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési ker
 
 | 2. |  |  |  |  |  |
 
-| 3. | KEHOP-6.2.1 | Zöld gazdasági helyreállás ösztönzése középületek épületenergetikai fejlesztései révén | 42,64 | Kiemelt | 2022. március |
+| 3. | KEHOP-6.2.1 | Zöld gazdasági helyreállás ösztönzése középületek épületenergetikai fejlesztései révén | 45,26 | Kiemelt | 2022. március |
 
 | 4. | KEHOP-6.3.1 | Zöld gazdasági helyreállás ösztönzése 4 MW beépített teljesítményt meghaladó zöldáram-termelő rendszerek telepítésével | 20,00 | Standard | 2022. március |
 
 | 5. |  |  |  |  |  |
 
-| 6. | KEHOP-6.4.1 | Klímaváltozás hatásait mérséklő árvízvédelmi és vízgazdálkodási fejlesztések | 28,20 | Kiemelt | 2022. március |
+| 6. | KEHOP-6.4.1 | Klímaváltozás hatásait mérséklő árvízvédelmi és vízgazdálkodási fejlesztések | 34,43 | Kiemelt | 2022. március |
 
 7. KEHOP-7 – Energiaintenzív vállalatok támogatásáról szóló 7. számú prioritás
 
@@ -242,16 +242,16 @@ A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési ker
 
 | 2. | KEHOP-7.1.1 | Energiaintenzív vállalatok támogatása | 15 | kiemelt | 2023. november |
 
-[^1]: Az 1. pont d) alpontja az 1651/2017. (IX. 12.) Korm. határozat 1. pontjával megállapított, a 1628/2022. (XII. 15.) Korm. határozat 2. pont a) pontja szerint módosított szöveg.
+[^1]: Az 1. pont d) alpontja az 1651/2017. (IX. 12.) Korm. határozat 1. pontjával megállapított, a 1628/2022. (XII. 15.) Korm. határozat 2. pont a) pontja, az 1112/2025. (IV. 7.) Korm. határozat 2. pont 2.1. pont a) alpontja szerint módosított szöveg.
 [^2]: Az 1. pont e) alpontja az 1660/2017. (IX. 13.) Korm. határozat 1. pontjával megállapított, az 1628/2022. (XII. 15.) Korm. határozat 2. pont b) pontja szerint módosított szöveg.
 [^3]: Az 1. pont f) alpontját újonnan az 1463/2016. (VIII. 24.) Korm. határozat 2. pontja iktatta be, szövege az 1660/2017. (IX. 13.) Korm. határozat 1. pontjával megállapított, az 1476/2020. (VIII. 7.) Korm. határozat 2. pont 2.3. alpontja, a 2062/2020. (XII. 31.) Korm. határozat 4. pont b) alpontja, az 1588/2021. (VIII. 11.) Korm. határozat 5. pont a) alpontja szerint módosított szöveg.
-[^4]: Az 1. pont g) alpontját az 1625/2017. (IX. 11.) Korm. határozat 3. pontja iktatta be, szövege az 1651/2017. (IX. 12.) Korm. határozat 2. pontjával megállapított az 1174/2023. (IV. 28.) Korm. határozat 1. pont a) pontja, az 1360/2023. (VIII. 3.) Korm. határozat 3. pont a) pontja, az 1430/2023. (X. 5.) Korm. határozat 3. pont a) pontja szerint módosított szöveg.
+[^4]: Az 1. pont g) alpontját az 1625/2017. (IX. 11.) Korm. határozat 3. pontja iktatta be, szövege az 1651/2017. (IX. 12.) Korm. határozat 2. pontjával megállapított az 1174/2023. (IV. 28.) Korm. határozat 1. pont a) pontja, az 1360/2023. (VIII. 3.) Korm. határozat 3. pont a) pontja, az 1430/2023. (X. 5.) Korm. határozat 3. pont a) pontja, az 1112/2025. (IV. 7.) Korm. határozat 2. pont 2.1. pont b) alpontja szerint módosított szöveg.
 [^5]: Az 1. pont h) alpontját az 1651/2017. (IX. 12.) Korm. határozat 3. pontja iktatta be, szövege az 1628/2022. (XII. 15.) Korm. határozat 2. pont f) pontja, az 1513/2023. (XI. 22.) Korm. határozat 3. pont a) pontja szerint módosított szöveg.
 [^6]: Az 1. pont i) alpontját az 1905/2017. (XII. 6.) Korm. határozat 1. pontja iktatta be, szövege az 1143/2022. (III. 10.) Korm. határozat 2. pont a) alpontjával megállapított, az 1628/2022. (XII. 15.) Korm. határozat 2. pont g) pontja, az 1513/2023. (XI. 22.) Korm. határozat 3. pont b) pontja szerint módosított szöveg.
 [^7]: Az 1. pont j) alpontját az 1636/2018. (XII. 5.) Korm. határozat 5. pontja iktatta be.
-[^8]: Az 1. pont k) alpontját újonnan az 1143/2022. (III. 10.) Korm. határozat 2. pont b) alpontja iktatta be, szövege az 1628/2022. (XII. 15.) Korm. határozat 2. pont h) pontja szerint módosított szöveg.
+[^8]: Az 1. pont k) alpontját újonnan az 1143/2022. (III. 10.) Korm. határozat 2. pont b) alpontja iktatta be, szövege az 1628/2022. (XII. 15.) Korm. határozat 2. pont h) pontja, az 1112/2025. (IV. 7.) Korm. határozat 2. pont 2.1. pont c) alpontja szerint módosított szöveg.
 [^9]: Az 1. pont l) alpontját hatályon kívül helyezte az 1588/2021. (VIII. 11.) Korm. határozat 8. pontja, újonnan az 1513/2023. (XI. 22.) Korm. határozat 1. pontja iktatta be.
 [^10]: Az 1. pont m) alpontját az 1078/2024. (III. 28.) Korm. határozat 3. pontja iktatta be.
 [^11]: Az 1. pont n) alpontját az 1078/2024. (III. 28.) Korm. határozat 3. pontja iktatta be.
 [^12]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^13]: Az 1. melléklet az 1323/2016. (VII. 1.) Korm. határozat 3. pont b) alpontja, az 1463/2016. (VIII. 24.) Korm. határozat 3. és 5. pontja, az 1717/2016. (XII. 5.) Korm. határozat 3. pontja, az 1208/2017. (IV. 10.) Korm. határozat 3. pont c) alpontja, az 1372/2017. (VI. 12.) Korm. határozat 3. pont c) alpontja, az 1432/2017. (VI. 29.) Korm. határozat 3. pont c) alpontja, az 1581/2017. (VIII. 28.) Korm. határozat 3. pont c) alpontja, az 1599/2017. (VIII. 31.) Korm. határozat 3. pont c) alpontja, az 1651/2017. (IX. 12.) Korm. határozat 4. pont a) alpontja és 5. pont 5.3.–5.7. alpontja, az 1660/2017. (IX. 13.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1905/2017. (XII. 6.) Korm. határozat 2. pont a) alpontja és a 3. pont 3.2.–3.4. alpontja, az 1055/2018. (II. 20.) Korm. határozat 3. pont a) alpontja, az 1268/2018. (VI. 11.) Korm. határozat 1. pont a) alpontja és 2. pont 2.2–2.4. alpontja, az 1636/2018. (XII. 5.) Korm. határozat 6. pont a) alpontja, 8. pontja, az 1229/2019. (IV. 23.) Korm. határozat 3. pont a)–c) pontja, az 1237/2019. (V. 14.) Korm. határozat 5. pont a) alpontja és 7. pontja, az 1141/2020. (IV. 8.) Korm. határozat 4. pont 4.2. alpontja, az 1476/2020. (VIII. 7.) Korm. határozat 1. pont a) alpontja és 2. pont 2.6. alpontja, az 1789/2020. (XI. 11.) Korm. határozat 3. pontja, az 1943/2020. (XII. 17.) Korm. határozat 2. pont b) alpontja, a 2062/2020. (XII. 31.) Korm. határozat 3. pont a) alpontja és 5. pontja, az 1588/2021. (VIII. 11.) Korm. határozat 4. pont a) alpontja és 6. pontja, az 1889/2021. (XII. 9.) Korm. határozat 2. pont b) alpontja, az 1976/2021. (XII. 23.) Korm. határozat 3. pont b) alpontja, az 1143/2022. (III. 10.) Korm. határozat 3. pont a) alpontja, az 1161/2022. (III. 21.) Korm. határozat 3. pont b) alpontja, az 1430/2022. (IX. 6.) Korm. határozat 3. pontja, az 1498/2022. (X. 19.) Korm. határozat 3. pont a) és b) pontja, az 1628/2022. (XII. 15.) Korm. határozat 4. és 7. pontja, az 1174/2023. (IV. 28.) Korm. határozat 1. pont b) pontja, az 1359/2023. (VIII. 3.) Korm. határozat 3. pontja, az 1360/2023. (VIII. 3.) Korm. határozat 3. pont b) pontja, az 1396/2023. (IX. 14.) Korm. határozat 3. pontja, az 1430/2023. (X. 5.) Korm. határozat a2. pont a) alpontja és 3. pont b) pontja szerint módosított szöveg.
+[^13]: Az 1. melléklet az 1323/2016. (VII. 1.) Korm. határozat 3. pont b) alpontja, az 1463/2016. (VIII. 24.) Korm. határozat 3. és 5. pontja, az 1717/2016. (XII. 5.) Korm. határozat 3. pontja, az 1208/2017. (IV. 10.) Korm. határozat 3. pont c) alpontja, az 1372/2017. (VI. 12.) Korm. határozat 3. pont c) alpontja, az 1432/2017. (VI. 29.) Korm. határozat 3. pont c) alpontja, az 1581/2017. (VIII. 28.) Korm. határozat 3. pont c) alpontja, az 1599/2017. (VIII. 31.) Korm. határozat 3. pont c) alpontja, az 1651/2017. (IX. 12.) Korm. határozat 4. pont a) alpontja és 5. pont 5.3.–5.7. alpontja, az 1660/2017. (IX. 13.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1905/2017. (XII. 6.) Korm. határozat 2. pont a) alpontja és a 3. pont 3.2.–3.4. alpontja, az 1055/2018. (II. 20.) Korm. határozat 3. pont a) alpontja, az 1268/2018. (VI. 11.) Korm. határozat 1. pont a) alpontja és 2. pont 2.2–2.4. alpontja, az 1636/2018. (XII. 5.) Korm. határozat 6. pont a) alpontja, 8. pontja, az 1229/2019. (IV. 23.) Korm. határozat 3. pont a)–c) pontja, az 1237/2019. (V. 14.) Korm. határozat 5. pont a) alpontja és 7. pontja, az 1141/2020. (IV. 8.) Korm. határozat 4. pont 4.2. alpontja, az 1476/2020. (VIII. 7.) Korm. határozat 1. pont a) alpontja és 2. pont 2.6. alpontja, az 1789/2020. (XI. 11.) Korm. határozat 3. pontja, az 1943/2020. (XII. 17.) Korm. határozat 2. pont b) alpontja, a 2062/2020. (XII. 31.) Korm. határozat 3. pont a) alpontja és 5. pontja, az 1588/2021. (VIII. 11.) Korm. határozat 4. pont a) alpontja és 6. pontja, az 1889/2021. (XII. 9.) Korm. határozat 2. pont b) alpontja, az 1976/2021. (XII. 23.) Korm. határozat 3. pont b) alpontja, az 1143/2022. (III. 10.) Korm. határozat 3. pont a) alpontja, az 1161/2022. (III. 21.) Korm. határozat 3. pont b) alpontja, az 1430/2022. (IX. 6.) Korm. határozat 3. pontja, az 1498/2022. (X. 19.) Korm. határozat 3. pont a) és b) pontja, az 1628/2022. (XII. 15.) Korm. határozat 4. és 7. pontja, az 1174/2023. (IV. 28.) Korm. határozat 1. pont b) pontja, az 1359/2023. (VIII. 3.) Korm. határozat 3. pontja, az 1360/2023. (VIII. 3.) Korm. határozat 3. pont b) pontja, az 1396/2023. (IX. 14.) Korm. határozat 3. pontja, az 1430/2023. (X. 5.) Korm. határozat a2. pont a) alpontja és 3. pont b) pontja, az 1112/2025. (IV. 7.) Korm. határozat 2. pont 2.2. alpontja szerint módosított szöveg.
