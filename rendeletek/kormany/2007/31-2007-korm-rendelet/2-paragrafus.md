@@ -2,7 +2,7 @@
 
 ## 2. § E rendelet alkalmazásában:
 
-a)[^5]
+a)[^6]
 
 b) térinformatika: a helyhez kötődő adatok digitális térképi alapú feldolgozását támogató informatikai módszerek és eszközök összessége,
 
@@ -18,7 +18,7 @@ g) korlátozott felbontású raszteres térkép: webes térképszerver vagy egye
 
 h) adatforrás: az a szervezet, amelytől a TeIR átvette az adatot,
 
-i)[^6] frissítés: az aktuális adatgyűjtési időszakra vonatkozó adatok adatkezelő szervezetnél történő feldolgozása,
+i)[^7] frissítés: az aktuális adatgyűjtési időszakra vonatkozó adatok adatkezelő szervezetnél történő feldolgozása,
 
 j) frissítés ideje: az adatátadás vagy javító adatátadás időpontja,
 
@@ -26,34 +26,34 @@ k) az adat leírása: az adatforrás által megadott, az adathoz tartozó szöve
 
 l) az adat mértékegysége: az a fizikai mértékviszony, amelyben az adat mennyisége értelmezhető,
 
-m)[^7] adat vonatkozási ideje: azon időpont vagy időszak, amelyre az adat vonatkozik,
+m)[^8] adat vonatkozási ideje: azon időpont vagy időszak, amelyre az adat vonatkozik,
 
-n)[^8] vonatkoztatási egység: az a koordinátákkal egyértelműen körülhatárolható területegység, amelyre az adat vonatkozik vagy vonatkoztatható,
+n)[^9] vonatkoztatási egység: az a koordinátákkal egyértelműen körülhatárolható területegység, amelyre az adat vonatkozik vagy vonatkoztatható,
 
 o) vonatkoztatási egység időszaka: azon időszak, amelyben a vonatkoztatási egység állapota érvényes,
 
-p)[^9]
+p)[^10]
 
-q)[^10] térbeli objektum: meghatározott helyhez vagy földrajzi területhez kapcsolódó valós jelenség absztrakt megjelenítése,
+q)[^11] térbeli objektum: meghatározott helyhez vagy földrajzi területhez kapcsolódó valós jelenség absztrakt megjelenítése,
 
-r)[^11]
+r)[^12]
 
-s)[^12]
+s)[^13]
 
-t)[^13] téradat: a környezet védelmének általános szabályairól szóló törvényben téradatként meghatározott adat,
+t)[^14] téradat: a környezet védelmének általános szabályairól szóló törvényben téradatként meghatározott adat,
 
-u)[^14] adatgazda: azon miniszter, akinek feladatkörébe az e rendeletben meghatározott adatok tartoznak, továbbá a Központi Statisztikai Hivatal elnöke,
+u)[^15] adatgazda: azon miniszter, akinek feladatkörébe az e rendeletben meghatározott adatok tartoznak, továbbá a Központi Statisztikai Hivatal elnöke,
 
-v)[^15] adatkezelő szervezet: az e rendeletben szabályozott adatok gyűjtésével, kezelésével, szolgáltatásával megbízott szervek vagy szervezetek.
+v)[^16] adatkezelő szervezet: az e rendeletben szabályozott adatok gyűjtésével, kezelésével, szolgáltatásával megbízott szervek vagy szervezetek.
 
-[^5]: A 2. § a) pontját a 65/2010. (III. 18.) Korm. rendelet 10. § (1) bekezdése hatályon kívül helyezte.
-[^6]: A 2. § i) pontja a 343/2016. (XI. 17.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
-[^7]: A 2. § m) pontja a 157/2022. (IV. 19.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^8]: A 2. § n) pontja a 65/2010. (III. 18.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^9]: A 2. § p) pontját a 157/2022. (IV. 19.) Korm. rendelet 9. § a) pontja hatályon kívül helyezte.
-[^10]: A 2. § q) pontja a 65/2010. (III. 18.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^11]: A 2. § r) pontját a 65/2010. (III. 18.) Korm. rendelet 10. § (1) bekezdése hatályon kívül helyezte.
-[^12]: A 2. § s) pontját a 157/2022. (IV. 19.) Korm. rendelet 9. § a) pontja hatályon kívül helyezte.
-[^13]: A 2. § t) pontját a 65/2010. (III. 18.) Korm. rendelet 1. § (3) bekezdése iktatta be.
-[^14]: A 2. § u) pontját a 65/2010. (III. 18.) Korm. rendelet 1. § (3) bekezdése iktatta be.
-[^15]: A 2. § v) pontját a 65/2010. (III. 18.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^6]: A 2. § a) pontját a 65/2010. (III. 18.) Korm. rendelet 10. § (1) bekezdése hatályon kívül helyezte.
+[^7]: A 2. § i) pontja a 343/2016. (XI. 17.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
+[^8]: A 2. § m) pontja a 157/2022. (IV. 19.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^9]: A 2. § n) pontja a 65/2010. (III. 18.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^10]: A 2. § p) pontját a 157/2022. (IV. 19.) Korm. rendelet 9. § a) pontja hatályon kívül helyezte.
+[^11]: A 2. § q) pontja a 65/2010. (III. 18.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^12]: A 2. § r) pontját a 65/2010. (III. 18.) Korm. rendelet 10. § (1) bekezdése hatályon kívül helyezte.
+[^13]: A 2. § s) pontját a 157/2022. (IV. 19.) Korm. rendelet 9. § a) pontja hatályon kívül helyezte.
+[^14]: A 2. § t) pontját a 65/2010. (III. 18.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^15]: A 2. § u) pontját a 65/2010. (III. 18.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^16]: A 2. § v) pontját a 65/2010. (III. 18.) Korm. rendelet 1. § (3) bekezdése iktatta be.

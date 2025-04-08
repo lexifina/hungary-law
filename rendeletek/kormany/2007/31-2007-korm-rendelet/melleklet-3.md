@@ -30,7 +30,7 @@
 
 | 14. | AM | Nitrát-érzékenységi térkép | 4.6. | frissítést követően | előfordulási hely | frissítést követő 90. nap |
 
-| 15. | MÁK | Vidékfejlesztési Program (VP) | 5.2. | negyedévente | település | frissítést követő 15. nap |
+| 15. | MÁK | EMVA forrásból finanszírozott támogatások | 5.2. | negyedévente | település | frissítést követő 15. nap |
 
 | 16. | BM | Rendőrkapitányságok területi elhelyezkedése, körzetei | 2.4.6. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
@@ -94,7 +94,7 @@
 
 | 46. | NGM | Ipari parkok (kérdőíves adatok) | 1.1.3. | évente vagy frissítést követően | vármegye | frissítést követő 90. nap |
 
-| 47. | KTM | Egységes Monitoring Információs Rendszer (EMIR), Fejlesztéspolitikai Adatbázis és Információs Rendszer (FAIR) | 5.2. | negyedévente | projekt | frissítést követő 15. nap |
+| 47. | NFK | Egységes Monitoring Információs Rendszer (EMIR), Fejlesztéspolitikai Adatbázis és Információs Rendszer (FAIR) | 5.2. | negyedévente | projekt | frissítést követő 15. nap |
 
 | 48. | MK | Infokommunikációs adatok | 3.2.1. és 3.2.2. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
@@ -170,7 +170,7 @@
 
 | 3. | Nemzeti Népegészségügyi és Gyógyszerészeti Központ | NNGYK |
 
-| 4. | Lechner Tudásközpont Nonprofit Kft. | LTK |
+| 4. | Lechner Nonprofit Kft. | LTK |
 
 | 5. | Belügyminisztérium | BM |
 
@@ -224,8 +224,8 @@
 
 | 30. | Építési és Közlekedési Minisztérium | ÉKM |
 
-| 31. | Közigazgatási és Területfejlesztési Minisztérium | KTM |
+| 31. | Nemzeti Fejlesztési Központ | NFK |
 
-3. számú melléklet a 31/2007. (II. 28.) Korm. rendelethez[^64]
+3. számú melléklet a 31/2007. (II. 28.) Korm. rendelethez[^66]
 
-[^64]: A 3. számú mellékletet a 65/2010. (III. 18.) Korm. rendelet 10. § (1) bekezdése hatályon kívül helyezte.
+[^66]: A 3. számú mellékletet a 65/2010. (III. 18.) Korm. rendelet 10. § (1) bekezdése hatályon kívül helyezte.
