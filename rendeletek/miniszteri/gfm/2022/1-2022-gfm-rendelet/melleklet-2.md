@@ -2,7 +2,7 @@
 
 |  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
 
-| 1. | Magyarság Háza Nonprofit Korlátolt Felelősségű Társaság | 01-09-335243 | 2026. december 31. |
+| 1. | Magyarság Háza Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 01-09-335243 | 2026. december 31. |
 
 2. melléklet az 1/2022. (V. 26.) GFM rendelethez[^4]
 
@@ -100,7 +100,7 @@ IX. Tulajdonosi joggyakorló: Országos Vízügyi Főigazgatóság
 
 | 1. | VIZITERV Export Környezetvédelmi és Vízügyi Tervező, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság | 01-09-308251 | 2026. december 31. |
 
-| 2. | VIZITERV Environ Környezetvédelmi és Vízügyi Tervező, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság | 15-09-070444 | 2026. december 31. |
+| 2. | VIZITERV Environ Környezetvédelmi és Vízügyi Tervező, Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság | 15-09-070444 | 2026. december 31. |
 
 X.
 
@@ -140,9 +140,9 @@ XIV. Tulajdonosi joggyakorló: Országos Kórházi Főigazgatóság
 
 | 3. | Vasútegészségügyi Szolgáltató Nonprofit Közhasznú Korlátolt Felelősségű Társaság | 01-09-919878 | 2026. december 31. |
 
-| 4. | TritonLife Dialízis Center Korlátolt Felelősségű Társaság | 01-09-261103 | 2026. december 31. |
+| 4. | Nemzeti Dialízis Központ Korlátolt Felelősségű Társaság | 01-09-261103 | 2026. december 31. |
 
-| 5. | TritonLife Eszközkezelő Korlátolt Felelősségű Társaság | 01-09-303244 | 2026. december 31. |
+| 5. | Dialízis Eszközkezelő Korlátolt Felelősségű Társaság | 01-09-303244 | 2026. december 31. |
 
 XV. Tulajdonosi joggyakorló: Slachta Margit Nemzeti Szociálpolitikai Intézet
 
@@ -188,4 +188,4 @@ XX. Tulajdonosi joggyakorló: Nemzeti Kommunikációs Hivatal
 
 XXI. Tulajdonosi joggyakorló: Központi Statisztikai Hivatal
 
-[^4]: A 2. melléklet a 2/2022. (VI. 20.) GFM rendelet 2. §-a, a 4/2022. (VII. 14.) GFM rendelet 2. §-a, a 12/2022. (XI. 7.) GFM rendelet 1. §-a, a 17/2022. (XII. 13.) GFM rendelet 1. §-a, a 21/2022. (XII. 27.) GFM rendelet 1. §-a, a 22/2022. (XII. 27.) GFM rendelet 1. §-a, a 23/2022. (XII. 27.) GFM rendelet 1. §-a, a 6/2023. (IV. 27.) GFM rendelet 1. § c) pontja, a 10/2023. (VI. 16.) GFM rendelet 2. §-a, a 32/2023. (XII. 15.) GFM rendelet 2. §-a, a 33/2023. (XII. 15.) GFM rendelet 2. §-a, a 4/2024. (I. 31.) NGM rendelet 1. §-a, a 13/2024. (IV. 9.) NGM rendelet 1. §-a, a 22/2024. (VII. 2.) NGM rendelet 2. §-a, a 33/2024. (IX. 9.) NGM rendelet 3. § (2) bekezdése, a 49/2024. (XII. 20.) NGM rendelet 1. §-a szerint módosított szöveg.
+[^4]: A 2. melléklet a 2/2022. (VI. 20.) GFM rendelet 2. §-a, a 4/2022. (VII. 14.) GFM rendelet 2. §-a, a 12/2022. (XI. 7.) GFM rendelet 1. §-a, a 17/2022. (XII. 13.) GFM rendelet 1. §-a, a 21/2022. (XII. 27.) GFM rendelet 1. §-a, a 22/2022. (XII. 27.) GFM rendelet 1. §-a, a 23/2022. (XII. 27.) GFM rendelet 1. §-a, a 6/2023. (IV. 27.) GFM rendelet 1. § c) pontja, a 10/2023. (VI. 16.) GFM rendelet 2. §-a, a 32/2023. (XII. 15.) GFM rendelet 2. §-a, a 33/2023. (XII. 15.) GFM rendelet 2. §-a, a 4/2024. (I. 31.) NGM rendelet 1. §-a, a 13/2024. (IV. 9.) NGM rendelet 1. §-a, a 22/2024. (VII. 2.) NGM rendelet 2. §-a, a 33/2024. (IX. 9.) NGM rendelet 3. § (2) bekezdése, a 49/2024. (XII. 20.) NGM rendelet 1. §-a, a 9/2025. (IV. 7.) NGM rendelet 3. § c)-e) pontja szerint módosított szöveg.
