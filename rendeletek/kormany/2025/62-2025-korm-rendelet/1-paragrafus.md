@@ -14,6 +14,6 @@
 
 ## 1. A területfejlesztéssel és a területrendezéssel kapcsolatos információs rendszerről és a kötelező adatközlés szabályairól szóló 31/2007. (II. 28.) Korm. rendelet módosítása
 
-1. § A területfejlesztéssel és a területrendezéssel kapcsolatos információs rendszerről és a kötelező adatközlés szabályairól szóló 31/2007. (II. 28.) Korm. rendelet (a továbbiakban: R.) 1. § (2) bekezdése a következő d) ponttal egészül ki:
+1. §[^2]
 
-(A TeIR a térségek, települések helyzetére jellemző információkkal segítséget nyújt a kormányzati, regionális, térségi, vármegyei, járási, települési fejlesztési és rendezési, egyéb térségi, valamint ágazati tervezési, fejlesztési tevékenységet végző és azt ellenőrző szervezetek számára:)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
