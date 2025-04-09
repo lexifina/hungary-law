@@ -1,1 +1,3 @@
-11. § Hatályát veszti a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagjának szolgálatképes állapota megállapítása érdekében a befolyásoltság kiszűrése céljából elvégezhető vizsgálatok köréről és a vizsgálat végrehajtásának szabályairól szóló 8/2023. (IV. 24.) MK rendelet.
+11. §[^1]
+
+[^1]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
