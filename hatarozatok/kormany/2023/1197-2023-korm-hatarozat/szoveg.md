@@ -1,4 +1,4 @@
-1. A Kormány a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 12. § (1) bekezdésében meghatározott feladatkörében eljárva Pál Norbertet e kormányhatározat hatálybalépésétől két évre az orosz–ukrán háború elől Magyarországra menekülő személyekért felelős kormánybiztossá (a továbbiakban: kormánybiztos) nevezi ki.
+1.[^1] A Kormány a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 12. § (1) bekezdésében meghatározott feladatkörében eljárva Pál Norbertet e kormányhatározat hatálybalépésétől a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 219. § (3) bekezdése szerinti időtartamra az orosz–ukrán háború elől Magyarországra menekülő személyekért felelős kormánybiztossá (a továbbiakban: kormánybiztos) nevezi ki.
 
 2. A kormánybiztos az 1. pont szerinti feladatkörében eljárva
 
@@ -25,3 +25,5 @@ f) együttműködik a kapcsolódó feladatok ellátásáért felelős minisztér
 7. A Kormány felhívja az irányítása alatt álló szerveket, intézményeket, hogy az általános együttműködési kötelezettség keretében a kormánybiztos feladatának ellátásához szükséges – személyes adatnak nem minősülő – adatokat, információkat, elemzéseket bocsássák a kormánybiztos rendelkezésére.
 
 8. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: Az 1. pont az 1116/2025. (IV. 10.) Korm. határozat 1. pontja szerint módosított szöveg.
