@@ -1,26 +1,20 @@
 |  | A | B |
 
-| 1 | Művészeti főtematikájú állandó kollégiumok | Nem művészeti főtematikájú állandó kollégiumok |
+| 1. | Művészeti főtematikájú állandó kollégiumok | Nem művészeti főtematikájú állandó kollégiumok |
 
-| 2 | Építőművészet Kollégiuma | Ismeretterjesztés és Környezetkultúra Kollégiuma |
+| 2. | Anyanyelvi Kultúra Kollégiuma |  |
 
-| 3 | Filmművészet Kollégiuma | Könnyűzene Kollégiuma |
+| 3. | Előadó-művészetek Kollégiuma |  |
 
-| 4 | Fotóművészet Kollégiuma | Könyvtárak és Levéltárak Kollégiuma |
+| 4. | Épített Örökség Kollégiuma |  |
 
-| 5 | Iparművészet Kollégiuma | Könyvkiadás Kollégiuma |
+| 5. | Hagyomány- és Ismeretátadás Kollégiuma |  |
 
-| 6 | Képzőművészet Kollégiuma | Közművelődés Kollégiuma |
+| 6. | Közgyűjtemények Kollégiuma |  |
 
-| 7 | Népművészet Kollégiuma | Kulturális Fesztiválok Kollégiuma |
+| 7. | Közösségi Programok és Fesztiválok Kollégiuma |  |
 
-| 8 | Szépirodalom Kollégiuma | Múzeumok Kollégiuma |
-
-| 9 | Színházművészet Kollégiuma | Örökségvédelem Kollégiuma |
-
-| 10 | Táncművészet Kollégiuma |  |
-
-| 11 | Zeneművészet Kollégiuma |  |
+| 8. | Vizuális Művészetek Kollégiuma |  |
 
 2. számú melléklet a 9/2006. (V. 9.) NKÖM rendelethez[^91]
 

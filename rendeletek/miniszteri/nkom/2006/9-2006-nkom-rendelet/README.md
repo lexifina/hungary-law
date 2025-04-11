@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-9-20-86
 | 2021-01-01 | 2006-9-20-86.16 | 46/2020. (XII. 16.) EMMI rendelet |
 | 2023-07-14 | 2006-9-20-86.17 | 4/2023. (VII. 13.) KIM rendelet |
 | 2024-07-01 | 2006-9-20-86.18 | 65/2011. (XII. 9.) NEFMI rendelet |
+| 2025-04-11 | 2006-9-20-86.19 | 4/2025. (IV. 10.) KIM rendelet |
