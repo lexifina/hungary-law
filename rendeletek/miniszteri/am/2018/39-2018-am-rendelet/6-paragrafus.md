@@ -1,4 +1,4 @@
-6. § (1)[^5] A támogatási kérelmet a (2) bekezdés szerinti adattartalommal a 4. §-ban meghatározott feltételeknek megfelelő igénylő a támogatási évet megelőző év december 1. és december 31. között nyújthatja be elektronikus úton, elektronikus azonosítást követően a Magyar Államkincstár (a továbbiakban: Kincstár) által erre a célra rendszeresített elektronikus űrlapkitöltő felületen (a továbbiakban: elektronikus űrlapkitöltő felület).
+6. § (1)[^5] A támogatási kérelmet a (2) bekezdés szerinti adattartalommal a 4. §-ban meghatározott feltételeknek megfelelő igénylő a támogatási évet megelőző év december 1. és december 31. között nyújthatja be elektronikus úton, a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 46. § (1) bekezdése szerinti elektronikus azonosítási szolgáltatással elérhető elektronikus felületen (a továbbiakban: elektronikus felület) keresztül a Magyar Államkincstárhoz (a továbbiakban: Kincstár), a Kincstár honlapján közzétett közleményben foglaltaknak megfelelően.
 
 (2) Az igénylő támogatási kérelme az alábbi adatokat és dokumentumokat tartalmazza:
 
@@ -34,5 +34,5 @@ b) az állattartó telep fekvése szerint illetékes járási hivatal igazolás�
 
 (9) A támogatási évben az (1) bekezdés szerinti támogatási kérelemben megjelölt sertések vonatkozásában a támogatási kérelem benyújtása előtt megkezdett tevékenység nem támogatható.
 
-[^5]: A 6. § (1) bekezdése a 22/2023. (V. 9.) AM rendelet 22. §-ával megállapított, a 46/2024. (IX. 2.) AM rendelet 8. § a) pontja szerint módosított szöveg.
+[^5]: A 6. § (1) bekezdése a 7/2025. (IV. 10.) AM rendelet 38. §-ával megállapított szöveg.
 [^6]: A 6. § (2) bekezdés a) pontja a 42/2023. (VII. 20.) AM rendelet 2. §-ával megállapított szöveg.

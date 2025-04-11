@@ -6,7 +6,7 @@
 
 (4) A csoportosan tartott tenyészkoca süldők elkerülhetetlen újrafalkásítása esetén az igénylő a csoportosan tartott tenyészkoca süldők számára 1,72 m2/állat férőhelyet biztosít, amely teljesülését a sertéságazati területi felelős legalább negyedévente ellenőrzi.
 
-(5)[^23] A kifizetési kérelemhez csatolni kell a sertéságazati területi felelős által kiállított dokumentumot
+(5)[^27] A kifizetési kérelemhez csatolni kell a sertéságazati területi felelős által kiállított dokumentumot
 
 a) az (1) és (3) bekezdés szerinti feltételek teljesítéséről, illetve
 
@@ -14,4 +14,4 @@ b) tenyészkoca süldők tartása esetén a (4) bekezdés szerinti feltételek t
 
 (6) Az (5) bekezdés szerinti igazolásokon fel kell tüntetni azok felhasználhatóságának idejét. Az igazolás kiállításának időpontja legfeljebb negyed évvel lehet korábbi a kifizetési kérelem benyújtásának időpontjánál.
 
-[^23]: A 11. § (5) bekezdés nyitó szövegrésze a 22/2023. (V. 9.) AM rendelet 29. § c) pontja szerint módosított szöveg.
+[^27]: A 11. § (5) bekezdés nyitó szövegrésze a 22/2023. (V. 9.) AM rendelet 29. § c) pontja szerint módosított szöveg.

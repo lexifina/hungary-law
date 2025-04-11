@@ -1,4 +1,4 @@
-7. § (1)[^7] A teljes negyedévre vonatkozó támogatás kifizetése iránti kérelmet az igénylő egy alkalommal, a Kincstár által a (2) bekezdésben meghatározott adattartalommal az erre a célra kialakított elektronikus űrlapkitöltő felületen az (1a) bekezdésben meghatározott időszakban nyújthatja be. A kifizetési kérelem benyújtására nyitva álló időszakot a sertéseknek a számlán, felvásárlási jegyen vagy belső bizonylaton feltüntetett értékesítési időpontja, ennek hiányában a számla, felvásárlási jegy vagy belső bizonylat teljesítésének időpontja határozza meg.
+7. § (1)[^7] A teljes negyedévre vonatkozó támogatás kifizetése iránti kérelmet az igénylő egy alkalommal, a Kincstár által a (2) bekezdésben meghatározott adattartalommal az erre a célra kialakított elektronikus felületen az (1a) bekezdésben meghatározott időszakban nyújthatja be. A kifizetési kérelem benyújtására nyitva álló időszakot a sertéseknek a számlán, felvásárlási jegyen vagy belső bizonylaton feltüntetett értékesítési időpontja, ennek hiányában a számla, felvásárlási jegy vagy belső bizonylat teljesítésének időpontja határozza meg.
 
 (1a)[^8] A kifizetési kérelem
 
@@ -54,8 +54,11 @@ e) az állattartó telep fekvése szerint illetékes járási hivatalnak az áll
 
 f) az állattartó telep fekvése szerint illetékes járási hivatalnak az állategészségügyi és állatvédelmi szabályok igénylő általi betartásáról szóló, igazolását.
 
-[^7]: A 7. § (1) bekezdése a 22/2023. (V. 9.) AM rendelet 23. §-ával megállapított szöveg.
+(5)[^12] Az 5. § (1) bekezdésében felsorolt állatjóléti kötelezettségvállalások kizárólag a mindenkor hatályos előírásokon túlmutató kötelezettségvállalások teljesítéséhez kapcsolódnak, és azok az alkalmazandó vidékfejlesztési programozási időszak szabályaihoz igazodnak.
+
+[^7]: A 7. § (1) bekezdése a 22/2023. (V. 9.) AM rendelet 23. §-ával megállapított, a 7/2025. (IV. 10.) AM rendelet 42. § a) pontja szerint módosított szöveg.
 [^8]: A 7. § (1a) bekezdését a 22/2023. (V. 9.) AM rendelet 23. §-a iktatta be.
 [^9]: A 7. § (4) bekezdés b) pontja a 22/2023. (V. 9.) AM rendelet 29. § a) pontja szerint módosított szöveg.
 [^10]: A 7. § (4) bekezdés c) pontja a 22/2023. (V. 9.) AM rendelet 29. § b) pontja szerint módosított szöveg.
 [^11]: A 7. § (4) bekezdés d) pont nyitó szövegrésze a 22/2023. (V. 9.) AM rendelet 29. § c) pontja szerint módosított szöveg.
+[^12]: A 7. § (5) bekezdését a 7/2025. (IV. 10.) AM rendelet 39. §-a iktatta be.

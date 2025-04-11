@@ -4,6 +4,6 @@
 
 (3) Az (1) bekezdés szerinti feltétel biztosítását a sertéságazati területi felelős a támogatási évben legalább egy alkalommal vizsgálja.
 
-(4)[^22] A kifizetési kérelemhez csatolni kell a sertéságazati területi felelős által kiállított dokumentumot az (1) bekezdésben meghatározott feltétel teljesítéséről, valamint a (3) bekezdés szerinti vizsgálatról. Az igazoláson fel kell tüntetni annak időbeli hatályát.
+(4)[^26] A kifizetési kérelemhez csatolni kell a sertéságazati területi felelős által kiállított dokumentumot az (1) bekezdésben meghatározott feltétel teljesítéséről, valamint a (3) bekezdés szerinti vizsgálatról. Az igazoláson fel kell tüntetni annak időbeli hatályát.
 
-[^22]: A 10. § (4) bekezdése a 22/2023. (V. 9.) AM rendelet 29. § c) pontja szerint módosított szöveg.
+[^26]: A 10. § (4) bekezdése a 22/2023. (V. 9.) AM rendelet 29. § c) pontja szerint módosított szöveg.
