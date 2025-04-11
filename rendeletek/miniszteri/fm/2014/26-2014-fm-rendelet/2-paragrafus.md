@@ -1,4 +1,4 @@
-2. § (1)[^12] E rendelet feltételei szerint anyakecske tartásához vissza nem térítendő mezőgazdasági csekély összegű támogatás vehető igénybe, amely a mezőgazdasági termékpiacok közös szervezésének létrehozásáról és a 922/72/EGK, a 234/79/EGK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1308/2013 EU európai parlamenti és tanácsi rendelet 1. cikk (2) bekezdésének r) pontjában meghatározott termékágazathoz kapcsolódó támogatásnak minősül.
+2. § (1)[^12] E rendelet feltételei szerint anyakecske tartásához vissza nem térítendő mezőgazdasági csekély összegű támogatás (a továbbiakban: támogatás) vehető igénybe.
 
 (2)[^13] A támogatás igénybevételére az az anyakecskét tartó mezőgazdasági termelő jogosult, aki vagy amely
 
@@ -20,6 +20,6 @@ bf) rendelkezik a megkeresésére a Magyar Juhtenyésztők és Kecsketenyésztő
 
 (3)[^14] A mezőgazdasági termelő a támogatási kérelmében megjelölt, a támogatás alapját képező anyakecskéket köteles a támogatási kérelem benyújtására meghatározott időszak utolsó napját követő naptól kezdődő száz naptári napos időtartamban folyamatosan birtokán tartani.
 
-[^12]: A 2. § (1) bekezdése a 14/2019. (IV. 10.) AM rendelet 26. §-ával megállapított szöveg.
+[^12]: A 2. § (1) bekezdése a 7/2025. (IV. 10.) AM rendelet 28. §-ával megállapított szöveg.
 [^13]: A 2. § (2) bekezdése a 34/2022. (X. 28.) AM rendelet 6. §-ával megállapított szöveg.
 [^14]: A 2. § (3) bekezdése a 43/2017. (IX. 5.) FM rendelet 4. §-ával megállapított szöveg.

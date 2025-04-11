@@ -20,9 +20,9 @@
 
 10.[^8] tárgyév: a támogatási időszak azon naptári éve, amelynek vonatkozásában a mezőgazdasági termelő a támogatást kérelmezi;
 
-11.[^9] átmeneti támogatás: az Európai Unió működéséről szóló szerződés 107. cikk (1) bekezdése szerinti állami támogatásnak minősülő és az „Állami támogatási intézkedésekre vonatkozó ideiglenes keret a gazdaságnak a jelenlegi COVID-19-járvánnyal összefüggésben való támogatása céljából” című, 2020. március 19-i 2020/C 91 I/01. számú európai bizottsági közlemény 3.1. pontja szerinti támogatás;
+11.[^9]
 
-12.[^10] kapcsolt vállalkozás: a koronavírus járvány miatt nehéz gazdasági helyzetbe került agrárvállalkozások és élelmiszer-feldolgozást végző vállalkozások részére nyújtandó átmeneti támogatás igénybevételének általános feltételeiről szóló 20/2020. (VI. 19.) AM rendelet [a továbbiakban: 20/2020. (VI. 19.) AM rendelet] 1. § i) pontja szerinti vállalkozás;
+12.[^10]
 
 13.[^11] nehéz helyzetben lévő vállalkozás: a 37/2011. (III. 22.) Korm. rendelet 6. § (4a) bekezdése szerinti vállalkozás.
 
@@ -34,6 +34,6 @@
 [^6]: Az 1. § 8. pontját a 69/2015. (XI. 2.) FM rendelet 11. § (2) bekezdése iktatta be.
 [^7]: Az 1. § 9. pontját a 69/2015. (XI. 2.) FM rendelet 11. § (2) bekezdése iktatta be.
 [^8]: Az 1. § 10. pontját a 72/2016. (XI. 3.) FM rendelet 1. §-a iktatta be.
-[^9]: Az 1. § 11. pontját a 41/2020. (VIII. 19.) AM rendelet 2. § (2) bekezdése iktatta be.
-[^10]: Az 1. § 12. pontját a 41/2020. (VIII. 19.) AM rendelet 2. § (2) bekezdése iktatta be.
+[^9]: Az 1. § 11. pontját a 41/2020. (VIII. 19.) AM rendelet 2. § (2) bekezdése iktatta be, a 7/2025. (IV. 10.) AM rendelet 33. § a) pontja hatályon kívül helyezte.
+[^10]: Az 1. § 12. pontját a 41/2020. (VIII. 19.) AM rendelet 2. § (2) bekezdése iktatta be, a 7/2025. (IV. 10.) AM rendelet 33. § a) pontja hatályon kívül helyezte.
 [^11]: Az 1. § 13. pontját a 41/2020. (VIII. 19.) AM rendelet 2. § (2) bekezdése iktatta be.
