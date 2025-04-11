@@ -4,7 +4,7 @@ a) a polgárőr az 1. mellékletben számára meghatározott formaruhát és fé
 
 b) az ifjú polgárőr az 1. mellékletben számára meghatározott fényvisszaverő mellényt
 
-## köteles viselni, amely viseleteket a (2) bekezdés szerint összeállított műszaki leírás alapján kell kialakítani.
+köteles viselni, amely viseleteket a (2) bekezdés szerint összeállított műszaki leírás alapján kell kialakítani.
 
 (2) A formaruha, valamint a fényvisszaverő mellény gyártásához szükséges műszaki leírást az Országos Polgárőr Szövetség (a továbbiakban: OPSZ) javaslatára a rendészetért felelős miniszter állítja össze. A műszaki leírást az OPSZ tartja nyilván.
 

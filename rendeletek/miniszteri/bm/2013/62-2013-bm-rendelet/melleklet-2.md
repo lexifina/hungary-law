@@ -1,5 +1,3 @@
-## Polgárőri formaruha összetétele
-
 | A | B |
 
 | sorszám | termék |
@@ -48,11 +46,25 @@
 
 | 22. | lovas sisakhuzat |
 
+| 23.[^11] | softshell kabát |
+
+| 24.[^12] | elegáns kabát |
+
+| 25.[^13] | polár pulóver |
+
+| 26.[^14] | rövidnadrág |
+
+| 27.[^15] | motoros kabát |
+
+| 28.[^16] | motoros nadrág |
+
+| 29.[^17] | motoros kesztyű |
+
 2. melléklet a 62/2013. (XI. 28.) BM rendelethez
 
-## A polgárőr formaruha egyes cikkeinek jellemzői
+A polgárőr formaruha egyes cikkeinek jellemzői
 
-1.[^11] A fényvisszaverő mellény jellemzői:
+1.[^18] A fényvisszaverő mellény jellemzői:
 
 1.1. A polgárőrök mellénye esetében
 
@@ -252,4 +264,70 @@ Fazon: Unisex fazonú elasztikus anyagból készült lovaglónadrág. Az alapany
 
 Sapkára húzható védőhuzat, tépőzáras előkészítéssel.
 
-[^11]: A 2. melléklet 1. pontja a 39/2015. (VI. 19.) BM rendelet 10. §-ával megállapított szöveg.
+21.[^19] Softshell kabát jellemzői:
+
+## Szín, fazon:
+
+## Sötétkék, egyenes derékrésszel szabott, középen teljes hosszban cipzárral záródó, állónyak kialakítású, hátul hosszított aljú, két oldalán cipzáras zsebekkel ellátott kabát. Eltávolítható kapucnival, tépőzárral állítható ujjvégekkel, jobb mellrészen cipzáras zsebbel rendelkezik. Női változata karcsúsított fazonú.
+
+## Ékítmények:
+
+## Jobb mellrészen „POLGÁRŐRSÉG” felvarró 11 cm-es szélességben.
+
+22.[^20] Elegáns kabát jellemzői:
+
+## Szín, fazon:
+
+## Sötétkék, uniszex fazonú, filcszövet alapanyagú, hosszított, egysoros gombolású, kétoldalt zsebekkel ellátott, elegáns szövetkabát társasági öltönyhöz.
+
+## Ékítmények:
+
+## Gallérján polgárőr címer.
+
+23.[^21] Polár pulóver jellemzői:
+
+## Szín, fazon:
+
+## Sötétkék, egyenes szabású, teljes hosszban cipzáras, gumírozott mandzsettával, cipzáras zsebekkel ellátott, külső oldalán bolyhosodás ellen kezelt, polár anyagú pulóver.
+
+## Ékítmények:
+
+## Bal mellrészen hímzett „POLGÁRŐRSÉG” felirat. Jobb felkaron a vállvarrástól 11 cm-re kezdődően hímzett OPSZ pajzs.
+
+24.[^22] Rövidnadrág jellemzői:
+
+## Szín, fazon:
+
+## Sötétkék, egyenes vonalú, derekas, övtartós rövidnadrág. Hátán gumírozott derékrész, eleje gombbal, cipzárral záródik. Eleje jobb és bal oldalán egy-egy nagy méretű rátett zseb, közvetlenül alatta, az eleje-háta oldalvonalon zsebfedős, tépőzáras, tasakos zseb. Jobb oldalon a rávarrott zseb alatt fehér színű, szitanyomott „POLGÁRŐRSÉG” felirat van elhelyezve.
+
+25.[^23] Motoros kabát jellemzői:
+
+## Szín, fazon:
+
+## Kék-sárga, víz- és szélálló membránnal és légáteresztő hálóval ellátott, levehető külső panelekkel és kivehető termobéléssel rendelkező könnyű, nyári textil kabát 4 külső és 1 belső zsebbel. Külső részén fényvisszaverő transzfernyomatok kerülnek elhelyezésre. A védelmet váll- és könyökvédők, valamint puha, gumi hátvédő biztosítja. A mellkas és hát részen „POLGÁRŐRSÉG” felirattal ellátott.
+
+26.[^24] Motoros nadrág jellemzői:
+
+## Szín, fazon:
+
+## Kék-sárga, víz- és szélálló membránnal ellátott nyári nadrág vízálló rétegű, levehető termobéléssel. A nadrág szellőzését biztosító légáteresztő hálós paneleket 4 vízzáró cipzár zárja. A védelmet szabvány szerinti térdvédők biztosítják. A csípőnél és a térdnél habpárnázással megerősített. Fényvisszaverő transzfernyomatokkal ellátott. Mindkét combon, combközépen „POLGÁRŐRSÉG” felirattal.
+
+27.[^25] Motoros kesztyű jellemzői:
+
+Kecskebőr alapanyagú, perforált bőr panelekkel, a belső részen kettős bőrréteggel, könnyű textil béléssel ellátott kesztyű. A kézhát és az ujjak védelmében gumipárnázással megerősített. A mandzsetta tépőzárral állítható.
+
+[^11]: Az 1. mellékletben foglalt táblázat 23. sorát a 12/2025. (IV. 10.) BM rendelet 1. § (1) bekezdése iktatta be.
+[^12]: Az 1. mellékletben foglalt táblázat 24. sorát a 12/2025. (IV. 10.) BM rendelet 1. § (1) bekezdése iktatta be.
+[^13]: Az 1. mellékletben foglalt táblázat 25. sorát a 12/2025. (IV. 10.) BM rendelet 1. § (1) bekezdése iktatta be.
+[^14]: Az 1. mellékletben foglalt táblázat 26. sorát a 12/2025. (IV. 10.) BM rendelet 1. § (1) bekezdése iktatta be.
+[^15]: Az 1. mellékletben foglalt táblázat 27. sorát a 12/2025. (IV. 10.) BM rendelet 1. § (1) bekezdése iktatta be.
+[^16]: Az 1. mellékletben foglalt táblázat 28. sorát a 12/2025. (IV. 10.) BM rendelet 1. § (1) bekezdése iktatta be.
+[^17]: Az 1. mellékletben foglalt táblázat 29. sorát a 12/2025. (IV. 10.) BM rendelet 1. § (1) bekezdése iktatta be.
+[^18]: A 2. melléklet 1. pontja a 39/2015. (VI. 19.) BM rendelet 10. §-ával megállapított szöveg.
+[^19]: A 2. melléklet 21. pontját a 12/2025. (IV. 10.) BM rendelet 1. § (2) bekezdése iktatta be.
+[^20]: A 2. melléklet 22. pontját a 12/2025. (IV. 10.) BM rendelet 1. § (2) bekezdése iktatta be.
+[^21]: A 2. melléklet 23. pontját a 12/2025. (IV. 10.) BM rendelet 1. § (2) bekezdése iktatta be.
+[^22]: A 2. melléklet 24. pontját a 12/2025. (IV. 10.) BM rendelet 1. § (2) bekezdése iktatta be.
+[^23]: A 2. melléklet 25. pontját a 12/2025. (IV. 10.) BM rendelet 1. § (2) bekezdése iktatta be.
+[^24]: A 2. melléklet 26. pontját a 12/2025. (IV. 10.) BM rendelet 1. § (2) bekezdése iktatta be.
+[^25]: A 2. melléklet 27. pontját a 12/2025. (IV. 10.) BM rendelet 1. § (2) bekezdése iktatta be.
