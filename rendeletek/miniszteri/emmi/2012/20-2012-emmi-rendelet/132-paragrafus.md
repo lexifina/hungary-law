@@ -12,7 +12,7 @@ b) megszervezi a mentálhigiénés preventív feladatokat a nevelési-oktatási 
 
 c) megszervezi a nevelési-oktatási intézményben az egészségfejlesztéssel, a nevelő-oktató munka, a szexuális nevelés segítésével, a nevelési-oktatási intézményben észlelt személyközi konfliktusok és az erőszakjelenségek megoldásával kapcsolatos pszichológiai témájú feladatokat,
 
-d)[^408] megszervezi a krízistanácsadást a következő váratlan súlyos élethelyzetekben: kortárshaláleset, súlyos iskolai kudarcélmény, váratlan családi, egészségügyi krízishelyzet, továbbá terápiás vagy más kezelés szükségessége esetén továbbirányít a pedagógiai szakszolgálathoz vagy más szakellátást biztosító intézményhez, valamint
+d)[^409] megszervezi a krízistanácsadást a következő váratlan súlyos élethelyzetekben: kortárshaláleset, súlyos iskolai kudarcélmény, váratlan családi, egészségügyi krízishelyzet, továbbá terápiás vagy más kezelés szükségessége esetén továbbirányít a pedagógiai szakszolgálathoz vagy más szakellátást biztosító intézményhez, valamint
 
 e) a kiemelten tehetséges gyermek, tanuló tehetséggondozásában a pedagógusokkal és a pedagógiai szakszolgálat szakemberével közösen kidolgozza az együttműködés és az ellátás kereteit.
 
@@ -24,7 +24,7 @@ b) iskola esetén az első, az ötödik, a kilencedik évfolyamos tanulók.
 
 (5) Az óvodapszichológus, az iskolapszichológus a (3) bekezdés b), c), e) pontjában foglalt feladatok megszervezése során szűréseket, vizsgálatokat, tréningeket, egyéni és csoportos tanácsadást szervezhet a gyermek, a tanuló, a pedagógus, továbbá a szülő megkeresésével, valamint az érintett gyermek, tanuló személyiségének fejlesztésével összhangban a szülő számára is.
 
-(6)[^409] A nevelési-oktatási intézményben alkalmazott óvodapszichológus, iskolapszichológus az óvoda, az iskola pedagógiai programja szerint szervezett óvodai foglalkozás, iskolai tanóra ideje alatt is végezheti a gyermek, a tanuló részére az egyéni tanácsadást abból a célból, hogy a gyermek, a tanuló személyiségfejlődését elősegítse.
+(6)[^410] A nevelési-oktatási intézményben alkalmazott óvodapszichológus, iskolapszichológus az óvoda, az iskola pedagógiai programja szerint szervezett óvodai foglalkozás, iskolai tanóra ideje alatt is végezheti a gyermek, a tanuló részére az egyéni tanácsadást abból a célból, hogy a gyermek, a tanuló személyiségfejlődését elősegítse.
 
 (7) Az óvodapszichológus, az iskolapszichológus
 
@@ -34,12 +34,12 @@ b) kapcsolatot tart a környezetében működő óvodában, iskolában dolgozó 
 
 c) együttműködik a kijelölt pedagógiai szakszolgálatban dolgozó óvodapszichológussal, iskolapszichológussal a nevelési-oktatási intézményben a pszichológiai tevékenységgel érintett gyermekek, tanulók pedagógiai szakszolgálati vagy egyéb egészségügyi szakellátásra történő utalása vonatkozásában,
 
-d)[^410] az óvodai, iskolapszichológusi munka szakmai minőségbiztosítása érdekében kapcsolatot tart a miniszter jogszabályban kijelölt, az Országos Iskolapszichológiai Módszertani Bázis feladatait ellátó intézménnyel,
+d)[^411] az óvodai, iskolapszichológusi munka szakmai minőségbiztosítása érdekében kapcsolatot tart a miniszter jogszabályban kijelölt, az Országos Iskolapszichológiai Módszertani Bázis feladatait ellátó intézménnyel,
 
 e) együttműködik a pedagógiai szakszolgálattal az érintett gyermek, tanuló pedagógiai szakszolgálati ellátás keretében történő gondozásában,
 
 (8) Az alapfokú művészeti iskolában az (1)–(7) bekezdés rendelkezéseit nem kell alkalmazni.
 
-[^408]: A 132. § (3) bekezdés d) pontja a 37/2021. (VIII. 31.) EMMI rendelet 23. § (1) bekezdés 20. pontja szerint módosított szöveg.
-[^409]: A 132. § (6) bekezdése a 45/2014. (X. 27.) EMMI rendelet 33. §-ával megállapított szöveg.
-[^410]: A 132. § (7) bekezdés d) pontja az 52/2022. (XII. 27.) BM rendelet 24. § a) pontja szerint módosított szöveg.
+[^409]: A 132. § (3) bekezdés d) pontja a 37/2021. (VIII. 31.) EMMI rendelet 23. § (1) bekezdés 20. pontja szerint módosított szöveg.
+[^410]: A 132. § (6) bekezdése a 45/2014. (X. 27.) EMMI rendelet 33. §-ával megállapított szöveg.
+[^411]: A 132. § (7) bekezdés d) pontja az 52/2022. (XII. 27.) BM rendelet 24. § a) pontja szerint módosított szöveg.

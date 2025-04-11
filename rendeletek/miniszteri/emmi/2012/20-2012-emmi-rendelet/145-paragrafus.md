@@ -1,6 +1,6 @@
-## XV. Fejezet[^467]
+## XV. Fejezet[^468]
 
-## A NEVELÉSI-OKTATÁSI INTÉZMÉNYBEN LEFOLYTATHATÓ SZAKMAI ELLENŐRZÉSEK SZABÁLYAI, AZ ORSZÁGOS PEDAGÓGIAI-SZAKMAI ELLENŐRZÉSBEN RÉSZT VEVŐ SZAKÉRTŐ TEVÉKENYSÉGE FOLYTATÁSÁNAK SZAKMAI FELTÉTELEI[^468]
+## A NEVELÉSI-OKTATÁSI INTÉZMÉNYBEN LEFOLYTATHATÓ SZAKMAI ELLENŐRZÉSEK SZABÁLYAI, AZ ORSZÁGOS PEDAGÓGIAI-SZAKMAI ELLENŐRZÉSBEN RÉSZT VEVŐ SZAKÉRTŐ TEVÉKENYSÉGE FOLYTATÁSÁNAK SZAKMAI FELTÉTELEI[^469]
 
 ## 57. Az országos pedagógiai-szakmai ellenőrzés célja, módszerei, területei, valamint lefolytatásának általános szabályai és fajtái
 
@@ -12,5 +12,5 @@
 
 (4) Az intézményi önértékelés keretében ötévente az intézmény teljeskörűen értékeli saját pedagógiai munkáját.
 
-[^467]: A XV. Fejezet (145-156. §) a 44/2023. (X. 19.) BM rendelet 13. §-ával megállapított szöveg.
 [^468]: A XV. Fejezet (145-156. §) a 44/2023. (X. 19.) BM rendelet 13. §-ával megállapított szöveg.
+[^469]: A XV. Fejezet (145-156. §) a 44/2023. (X. 19.) BM rendelet 13. §-ával megállapított szöveg.
