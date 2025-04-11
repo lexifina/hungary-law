@@ -1,0 +1,1 @@
+9. § A 91/2012. (VIII. 29.) VM rendelet 7. § (1) bekezdésében a „6. cikk 4. pontja szerinti nyilvántartást a Kincstár vezeti” szövegrész helyébe a „6. cikk 4. pontja szerinti ellenőrzést a Kincstár végzi” szöveg lép.

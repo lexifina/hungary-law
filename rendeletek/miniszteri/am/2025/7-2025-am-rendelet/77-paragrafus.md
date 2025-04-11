@@ -1,0 +1,1 @@
+77. § E rendelet az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló 1408/2013/EU rendelet módosításáról szóló, 2024. december 10-i 2024/3118 EU bizottsági rendelet végrehajtáshoz szükséges rendelkezéseket tartalmaz.

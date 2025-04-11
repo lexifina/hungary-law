@@ -1,0 +1,1 @@
+27. § Az 54/2014. (IV. 29.) VM rendelet 1. § 1. pontjában a „2013. december 18-i 1408/2013/EU bizottsági rendelet” szövegrész helyébe a „2013. december 18-i 1408/2013/EU bizottsági rendelet (a továbbiakban: 1408/2013/EU bizottsági rendelet)” szöveg lép.
