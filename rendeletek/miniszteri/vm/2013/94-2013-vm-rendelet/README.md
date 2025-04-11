@@ -33,3 +33,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-94-20-2
 | 2024-05-31 | 2013-94-20-2Y.25 | 33/2024. (V. 30.) AM rendelet |
 | 2024-09-03 | 2013-94-20-2Y.26 | 46/2024. (IX. 2.) AM rendelet |
 | 2024-12-21 | 2013-94-20-2Y.27 | 36/2014. (IV. 4.) VM rendelet |
+| 2025-04-11 | 2013-94-20-2Y.28 | 66/2020. (XII. 18.) AM rendelet |

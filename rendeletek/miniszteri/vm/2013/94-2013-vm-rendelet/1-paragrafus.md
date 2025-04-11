@@ -32,11 +32,11 @@ e) a 77/2015. (XII. 1.) FM rendelet 5. mellékletében szereplő település vag
 
 8. [^5] támogatási intenzitás: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet [a továbbiakban: 37/2011. (III. 22.) Korm. rendelet] 2. § 15. pontjában meghatározott intenzitás;
 
-9. [^6] támogatástartalom: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 2. § 19. pontjában meghatározott támogatási egyenérték;
+9. [^6] támogatástartalom: 37/2011. (III. 22.) Korm. rendelet 2. § 19. pontjában meghatározott támogatási egyenérték;
 
-10. [^7] támogatástartalomról szóló igazolás: a támogatás támogatástartalmáról szóló igazolás, amely a megállapított támogatás „de minimis” vagy átmeneti támogatás jellegét is megjelöli utalva a támogatás alapját képező bizottsági rendeletre, annak pontos címére és az Európai Unió Hivatalos Lapjában való kihirdetésre.
+10. [^7] támogatástartalomról szóló igazolás: a támogatás támogatástartalmáról szóló igazolás, amely a megállapított támogatás „de minimis” támogatás jellegét is megjelöli utalva a támogatás alapját képező bizottsági rendeletre, annak pontos címére és az Európai Unió Hivatalos Lapjában való kihirdetésre.
 
-11. [^8] egységes kérelem: az Európai Mezőgazdasági Garancia Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos eljárási szabályokról szóló 22/2016. (IV. 5.) FM rendelet 1. § 5. pontja szerinti kérelem.
+11. [^8] egységes kérelem: az Európai Mezőgazdasági Garancia Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos eljárási szabályokról szóló 22/2016. (IV. 5.) FM rendelet 1. § 5. pontja, az Európai Mezőgazdasági Garanciaalapból, valamint az Európai Mezőgazdasági Vidékfejlesztési Alapból és a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos eljárási szabályokról szóló 13/2023. (IV. 19.) AM rendelet 1. § 14. pontja vagy az egységes kérelemmel igényelhető egyes agrártámogatások eljárási szabályairól szóló 15/2024. (IV. 9.) AM rendelet 1. § 15. pontja szerinti kérelem;
 
 12. [^9] egy és ugyanazon vállalkozás: a 37/2011. (III. 22.) Korm. rendelet 2. § 5a. pontjában meghatározott vállalkozás.
 
@@ -44,7 +44,7 @@ e) a 77/2015. (XII. 1.) FM rendelet 5. mellékletében szereplő település vag
 
 14. [^11]
 
-15. [^12] országos mezőgazdasági csekély összegű (de minimis) keret: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet II. melléklete alapján Magyarország rendelkezésére álló mezőgazdasági csekély összegű támogatási keret;
+15. [^12] országos mezőgazdasági csekély összegű (de minimis) keret: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet melléklete alapján Magyarország rendelkezésére álló mezőgazdasági csekély összegű támogatási keret;
 
 16. [^13] országos halászati csekély összegű (de minimis) keret: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a halászati és akvakultúra-ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2014. június 27-i 717/2014/EU bizottsági rendelet melléklete alapján Magyarország rendelkezésére álló halászati csekély összegű támogatási keret.
 
@@ -55,12 +55,12 @@ e) a 77/2015. (XII. 1.) FM rendelet 5. mellékletében szereplő település vag
 [^3]: Az 1. § 4. pontja a 65/2016. (IX. 21.) FM rendelet 11. § (1) bekezdésével megállapított szöveg.
 [^4]: Az 1. § 6. pontját a 36/2014. (IV. 4.) VM rendelet 95. §-a hatályon kívül helyezte, újonnan a 77/2015. (XII. 1.) FM rendelet 14. § (2) bekezdése iktatta be, szövege a 66/2017. (XII. 22.) FM rendelet 8. §-ával megállapított, nyitó szövegrésze a 63/2024. (XII. 20.) AM rendelet 1. §-a szerint módosított szöveg.
 [^5]: Az 1. § 8. pontja a 65/2016. (IX. 21.) FM rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^6]: Az 1. § 9. pontja a 18/2014. (X. 29.) FM rendelet 43. § (2) bekezdésével megállapított szöveg.
-[^7]: Az 1. § 10. pontja a 66/2020. (XII. 18.) AM rendelet 10. § a) pontja szerint módosított szöveg.
-[^8]: Az 1. § 11. pontját az 51/2016. (VII. 21.) FM rendelet 15. § (2) bekezdése iktatta be.
+[^6]: Az 1. § 9. pontja a 18/2014. (X. 29.) FM rendelet 43. § (2) bekezdésével megállapított, a 7/2025. (IV. 10.) AM rendelet 13. § a) pontja szerint módosított szöveg.
+[^7]: Az 1. § 10. pontja a 66/2020. (XII. 18.) AM rendelet 10. § a) pontja, a 7/2025. (IV. 10.) AM rendelet 13. § b) pontja szerint módosított szöveg.
+[^8]: Az 1. § 11. pontját az 51/2016. (VII. 21.) FM rendelet 15. § (2) bekezdése iktatta be, szövege a 7/2025. (IV. 10.) AM rendelet 10. §-ával megállapított szöveg.
 [^9]: Az 1. § 12. pontját a 65/2016. (IX. 21.) FM rendelet 11. § (3) bekezdése iktatta be.
 [^10]: Az 1. § 13. pontját a 28/2018. (X. 5.) AM rendelet 3. §-a iktatta be.
 [^11]: Az 1. § 14. pontját a 66/2020. (XII. 18.) AM rendelet 7. §-a iktatta be, a 11/2024. (III. 25.) AM rendelet 5. § a) pontja hatályon kívül helyezte.
-[^12]: Az 1. § 15. pontját a 66/2020. (XII. 18.) AM rendelet 7. §-a iktatta be.
+[^12]: Az 1. § 15. pontját a 66/2020. (XII. 18.) AM rendelet 7. §-a iktatta be, szövege a 7/2025. (IV. 10.) AM rendelet 13. § c) pontja szerint módosított szöveg.
 [^13]: Az 1. § 16. pontját a 66/2020. (XII. 18.) AM rendelet 7. §-a iktatta be.
 [^14]: Az 1. § 17. pontját a 26/2022. (VIII. 31.) AM rendelet 5. §-a iktatta be.

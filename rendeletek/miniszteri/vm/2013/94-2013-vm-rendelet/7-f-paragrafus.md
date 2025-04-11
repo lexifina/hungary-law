@@ -1,8 +1,8 @@
-7/F. §[^68] (1)[^69] Figyelemmel a 3. § (1) bekezdésében foglaltakra, az orosz–ukrán konfliktus miatt gazdasági nehézségekkel küzdő agrárvállalkozások és élelmiszer-feldolgozó vállalkozások részére nyújtandó válságtámogatás igénybevételének általános feltételeiről szóló 25/2022. (VIII. 31.) AM rendelethez kapcsolódó egyes agrártámogatási rendeletek módosításáról szóló 26/2022. (VIII. 31.) AM rendelet hatálybalépésének[^70] napja és – az (1a) bekezdés szerinti kivétellel – 2024. június 30. közötti időszakban – a határnapokat is beleértve – kiadott kezességi levelekhez igénybe vett kezességi díjtámogatás a kezességi szerződés teljes időtartamára válságtámogatásként is igényelhető.
+7/F. §[^69] (1)[^70] Figyelemmel a 3. § (1) bekezdésében foglaltakra, az orosz–ukrán konfliktus miatt gazdasági nehézségekkel küzdő agrárvállalkozások és élelmiszer-feldolgozó vállalkozások részére nyújtandó válságtámogatás igénybevételének általános feltételeiről szóló 25/2022. (VIII. 31.) AM rendelethez kapcsolódó egyes agrártámogatási rendeletek módosításáról szóló 26/2022. (VIII. 31.) AM rendelet hatálybalépésének[^71] napja és – az (1a) bekezdés szerinti kivétellel – 2024. június 30. közötti időszakban – a határnapokat is beleértve – kiadott kezességi levelekhez igénybe vett kezességi díjtámogatás a kezességi szerződés teljes időtartamára válságtámogatásként is igényelhető.
 
-(1a)[^71] Az 1. § 1. pont 1.2. és 1.3. alpontja szerinti rendelet hatálya alá tartozó ágazatban működő vállalkozás részére a 2024. december 31-ig kiadott kezességi levelekhez igénybe vett kezességi díjtámogatás a kezességi szerződés teljes időtartamára válságtámogatásként is igényelhető.
+(1a)[^72] Az 1. § 1. pont 1.2. és 1.3. alpontja szerinti rendelet hatálya alá tartozó ágazatban működő vállalkozás részére a 2024. december 31-ig kiadott kezességi levelekhez igénybe vett kezességi díjtámogatás a kezességi szerződés teljes időtartamára válságtámogatásként is igényelhető.
 
-(2)[^72] A kezességi díjtámogatás – figyelemmel a 3. § (1) bekezdésében foglaltakra – válságtámogatásként történő igénylése esetén nem kell alkalmazni a 3. § (7) bekezdésében, az 5. § (1) bekezdés c) pont ca) alpontjában, e) pont ea), eb), ed) alpontjában és a 7/A–7/C. §-ban foglaltakat.
+(2)[^73] A kezességi díjtámogatás – figyelemmel a 3. § (1) bekezdésében foglaltakra – válságtámogatásként történő igénylése esetén nem kell alkalmazni a 3. § (7) bekezdésében, az 5. § (1) bekezdés c) pont ca) alpontjában, e) pont ea), eb), ed) alpontjában és a 7/A–7/C. §-ban foglaltakat.
 
 (3) A kezességi díjtámogatás válságtámogatásként történő igénybevételére az a kedvezményezett jogosult, aki
 
@@ -32,11 +32,11 @@ c) nyilatkozik arról, hogy a gazdasági nehézsége összefüggésben áll az O
 
 (7) A válságtámogatás támogatástartalom-igazolásának kiállítása előtt a Kincstár ellenőrzi a 25/2022. (VIII. 31.) AM rendelet 3. § (1) és (3) bekezdésében foglaltak teljesülését. A kezességvállaló intézmény a (3) bekezdés a) és b) pontjában foglalt nyilatkozatok tartalmáról, a kezességi díjtámogatás támogatástartalmáról, valamint a kezesség támogatástartalmáról adatot szolgáltat a Kincstár részére. A Kincstár az ellenőrzés eredményéről a kezességvállaló intézmény általi adatszolgáltatást követő három napon belül tájékoztatja a kezességvállaló intézményt.
 
-(8)[^73] Az (1) bekezdésben vagy (1a) bekezdésben meghatározott kezességi szerződéshez kapcsolódóan de minimis támogatás csak abban az esetben igényelhető, ha a válságtámogatás nyújtásának feltételei nem állnak fenn.
+(8)[^74] Az (1) bekezdésben vagy (1a) bekezdésben meghatározott kezességi szerződéshez kapcsolódóan de minimis támogatás csak abban az esetben igényelhető, ha a válságtámogatás nyújtásának feltételei nem állnak fenn.
 
-[^68]: A 7/F. §-t a 26/2022. (VIII. 31.) AM rendelet 6. §-a iktatta be.
-[^69]: A 7/F. § (1) bekezdése a 46/2024. (IX. 2.) AM rendelet 1. §-ával megállapított szöveg.
-[^70]: A hatálybalépés időpontja 2022. szeptember 1.
-[^71]: A 7/F. § (1a) bekezdését a 46/2024. (IX. 2.) AM rendelet 1. §-a iktatta be.
-[^72]: A 7/F. § (2) bekezdése a 11/2024. (III. 25.) AM rendelet 4. § b) pontja szerint módosított szöveg.
-[^73]: A 7/F. § (8) bekezdése a 46/2024. (IX. 2.) AM rendelet 3. § b) pontja szerint módosított szöveg.
+[^69]: A 7/F. §-t a 26/2022. (VIII. 31.) AM rendelet 6. §-a iktatta be.
+[^70]: A 7/F. § (1) bekezdése a 46/2024. (IX. 2.) AM rendelet 1. §-ával megállapított szöveg.
+[^71]: A hatálybalépés időpontja 2022. szeptember 1.
+[^72]: A 7/F. § (1a) bekezdését a 46/2024. (IX. 2.) AM rendelet 1. §-a iktatta be.
+[^73]: A 7/F. § (2) bekezdése a 11/2024. (III. 25.) AM rendelet 4. § b) pontja szerint módosított szöveg.
+[^74]: A 7/F. § (8) bekezdése a 46/2024. (IX. 2.) AM rendelet 3. § b) pontja szerint módosított szöveg.
