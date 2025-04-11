@@ -1,6 +1,4 @@
-## A támogatás kiszámításának módja
-
-## T = t (ha) x Q (l/ha) x 105 (Ft/l)
+## T = t (ha) × Q (l/ha) × 105 (Ft/l)
 
 ## ahol
 
@@ -8,10 +6,10 @@
 
 ## t: az ültetvény területe hektárban (két tizedesjegy pontossággal);
 
-## Q: a tárgyévben ténylegesen felhasznált üzemanyag mennyisége csökkentve a jövedéki törvény 117. § (1) bekezdésében meghatározott 97 liter/hektár/év mennyiséggel, de legfeljebb 100 liter/hektár/év.
+## Q: a tárgyévben ténylegesen felhasznált üzemanyag mennyisége, csökkentve a jövedéki törvény 117. § (1) bekezdésében meghatározott 97 liter/hektár/év mennyiséggel, de legfeljebb 100 liter/hektár/év.
 
-## A támogatás összege nem haladhatja meg a folyó, valamint a megelőző kettő üzleti év vonatkozásában a 15 000 eurónak megfelelő forintösszeget, így a támogatási összeg kiszámításakor a korábban kapott mezőgazdasági csekély összegű támogatások összegét is figyelembe kell venni és szükség szerint azokkal a támogatás összegét csökkenteni kell.
+## A támogatás összege nem haladhatja meg a mezőgazdasági termelő és a vele egy és ugyanazon vállalkozásnak minősülő vállalkozások részére Magyarországon bármely három egymást követő év során odaítélt 50 000 eurónak megfelelő forintösszeget, így a támogatási összeg kiszámításakor a korábban kapott mezőgazdasági csekély összegű támogatások összegét is figyelembe kell venni, és szükség szerint azokkal a támogatás összegét csökkenteni kell.
 
-4. melléklet a 91/2012. (VIII. 29.) VM rendelethez[^48]
+4. melléklet a 91/2012. (VIII. 29.) VM rendelethez[^52]
 
-[^48]: A 4. mellékletet az 55/2017. (XI. 6.) FM rendelet 7. §-a iktatta be, hatályon kívül helyezte a 14/2019. (IV. 10.) AM rendelet 6. §-a.
+[^52]: A 4. mellékletet az 55/2017. (XI. 6.) FM rendelet 7. §-a iktatta be, hatályon kívül helyezte a 14/2019. (IV. 10.) AM rendelet 6. §-a.

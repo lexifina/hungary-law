@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-91-20-2
 | 2017-07-01 | 2012-91-20-2Y.9 | 80/2016. (XII. 13.) FM rendelet |
 | 2017-11-07 | 2012-91-20-2Y.10 | 55/2017. (XI. 6.) FM rendelet |
 | 2019-04-11 | 2012-91-20-2Y.11 | 55/2017. (XI. 6.) FM rendelet |
+| 2025-04-11 | 2012-91-20-2Y.12 | 7/2025. (IV. 10.) AM rendelet |
