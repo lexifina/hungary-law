@@ -2,17 +2,17 @@
 
 ## Feladatai
 
-62. § (1)[^200] A gyermekek átmeneti otthona megszakítás nélküli munkarend szerint működő bentlakásos gyermekintézmény, amely a alapellátás keretében a gyermek számára alaptevékenységként átmeneti gondozást biztosít.
+62. § (1)[^201] A gyermekek átmeneti otthona megszakítás nélküli munkarend szerint működő bentlakásos gyermekintézmény, amely a alapellátás keretében a gyermek számára alaptevékenységként átmeneti gondozást biztosít.
 
 (2) A gyermekek átmeneti otthona az alapító okiratában rögzítettek szerint alapfeladatként biztosíthat egyéb személyes gondoskodást nyújtó ellátási formákat is. Az ellátás jellegének megfelelő személyi és tárgyi feltételeket ellátási formánként külön-külön biztosítani kell.
 
-(3)[^201] A helyettes szülői ellátást biztosító gyermekek átmeneti otthonára az 59–61. §-ban foglaltak megfelelően alkalmazandóak.
+(3)[^202] A helyettes szülői ellátást biztosító gyermekek átmeneti otthonára az 59–61. §-ban foglaltak megfelelően alkalmazandóak.
 
-(4)[^202] A gyermekek átmeneti otthona alaptevékenységével összhangban végzett vállalkozási tevékenysége nem veszélyeztetheti alapfeladatainak ellátását, illetve az elhelyezett gyermekek testi, értelmi, érzelmi, erkölcsi fejlődését.
+(4)[^203] A gyermekek átmeneti otthona alaptevékenységével összhangban végzett vállalkozási tevékenysége nem veszélyeztetheti alapfeladatainak ellátását, illetve az elhelyezett gyermekek testi, értelmi, érzelmi, erkölcsi fejlődését.
 
-(5)[^203] A gyermekek átmeneti otthona létesítésére a 110. §-ban foglaltak az irányadóak.
+(5)[^204] A gyermekek átmeneti otthona létesítésére a 110. §-ban foglaltak az irányadóak.
 
-[^200]: A 62. § (1) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 99. § (2) bekezdésének 12. pontja szerint módosított szöveg.
-[^201]: A 62. § új (3) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 41. §-a iktatta be, egyidejűleg az eredeti (3)–(4) bekezdés számozását (4)–(5) bekezdésre változtatva. A 62. § (3) bekezdése a 30/2024. (VII. 23.) BM rendelet 16. § 7. pontja szerint módosított szöveg.
-[^202]: A 62. § eredeti (3) bekezdésének számozását (4) bekezdésre változtatta a 46/2003. (VIII. 8.) ESZCSM rendelet 41. §-a.
-[^203]: A 62. § eredeti (4) bekezdésének számozását (5) bekezdésre változtatta a 46/2003. (VIII. 8.) ESZCSM rendelet 41. §-a.
+[^201]: A 62. § (1) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 99. § (2) bekezdésének 12. pontja szerint módosított szöveg.
+[^202]: A 62. § új (3) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 41. §-a iktatta be, egyidejűleg az eredeti (3)–(4) bekezdés számozását (4)–(5) bekezdésre változtatva. A 62. § (3) bekezdése a 30/2024. (VII. 23.) BM rendelet 16. § 7. pontja szerint módosított szöveg.
+[^203]: A 62. § eredeti (3) bekezdésének számozását (4) bekezdésre változtatta a 46/2003. (VIII. 8.) ESZCSM rendelet 41. §-a.
+[^204]: A 62. § eredeti (4) bekezdésének számozását (5) bekezdésre változtatta a 46/2003. (VIII. 8.) ESZCSM rendelet 41. §-a.

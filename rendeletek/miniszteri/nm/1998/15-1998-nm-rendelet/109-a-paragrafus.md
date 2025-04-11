@@ -1,4 +1,4 @@
-109/A. §[^365] (1) A gyermekvédelmi gyámnak a gyermekotthonnak a Gyvt. 87. § (1) bekezdés a)–c) pontja szerinti feladatok ellátására gyámként történő kirendelésére irányuló megkeresését követően a gyermekotthon haladéktalanul a fenntartó hozzájárulását kéri a gyámi feladatok ellátásához. A fenntartó hozzájárulását és a gyermekotthon egyes gyámi feladatok ellátására vonatkozó vállalását a gyermekotthon a megkereséstől számított 15 napon belül megküldi a gyermekvédelmi gyámnak.
+109/A. §[^375] (1) A gyermekvédelmi gyámnak a gyermekotthonnak a Gyvt. 87. § (1) bekezdés a)–c) pontja szerinti feladatok ellátására gyámként történő kirendelésére irányuló megkeresését követően a gyermekotthon haladéktalanul a fenntartó hozzájárulását kéri a gyámi feladatok ellátásához. A fenntartó hozzájárulását és a gyermekotthon egyes gyámi feladatok ellátására vonatkozó vállalását a gyermekotthon a megkereséstől számított 15 napon belül megküldi a gyermekvédelmi gyámnak.
 
 (2) A gyámhatóságnak a gyermekotthon egyes gyámi feladatok ellátására gyámként történő kirendelését követően a gyermekotthon
 
@@ -36,4 +36,4 @@ c) az egyes gyámi feladatok ellátására kijelölt személy tekintetében olya
 
 d) más személy kijelölése válik szükségessé az adott ügyben a gyermek törvényes képviseletének ellátására.
 
-[^365]: A 109/A. §-t a 30/2024. (VII. 23.) BM rendelet 10. §-a iktatta be.
+[^375]: A 109/A. §-t a 30/2024. (VII. 23.) BM rendelet 10. §-a iktatta be.
