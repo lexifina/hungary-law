@@ -4,9 +4,9 @@
 
 | 2. | Keretösszeg, euró | Fajlagos minimum, euró | Fajlagos maximum, euró |
 
-| 3. | Anyatehéntartás | 35 314 732,85 | 111,96 | 174,94 |
+| 3.[^13] | Anyatehéntartás | 32 798 686,64 | 111,96 | 174,94 |
 
-| 4. | Hízottbika | 4 377 775,10 | 40,76 | 65,22 |
+| 4.[^14] | Hízottbika | 3 607 556,87 | 40,76 | 65,22 |
 
 | 5. | Tejhasznú tehéntartás | 68 274 257,17 | 237,74 | 396,24 |
 
@@ -14,11 +14,11 @@
 
 | 7. | Cukorrépa termesztés | 7 915 693,20 | 424,52 | 881,70 |
 
-| 8. | Rizstermesztés | 1 979 171,48 | 582,75 | 874,13 |
+| 8.[^15] | Rizstermesztés | 1 984 678,10 | 582,75 | 874,13 |
 
 | 9. | Ipari zöldségnövény termesztés | 15 619 889,00 | 260,44 | 390,66 |
 
-| 10. | Zöldségnövény termesztés | 6 611 534,81 | 180,92 | 289,48 |
+| 10.[^16] | Zöldségnövény termesztés | 4 417 502,39 | 180,92 | 289,48 |
 
 | 11. | Ipari olajnövény termesztés | 584 279,62 | 76,71 | 142,47 |
 
@@ -33,3 +33,8 @@
 2. melléklet a 17/2023. (IV. 19.) AM rendelethez
 
 A húshasznúnak nem minősülő szarvasmarhafajták jegyzéke
+
+[^13]: Az 1. mellékletben foglalt táblázat 3. sora a 7/2025. (IV. 10.) AM rendelet 75. §-ával megállapított szöveg.
+[^14]: Az 1. mellékletben foglalt táblázat 4. sora a 7/2025. (IV. 10.) AM rendelet 75. §-ával megállapított szöveg.
+[^15]: Az 1. mellékletben foglalt táblázat 8. sora a 7/2025. (IV. 10.) AM rendelet 75. §-ával megállapított szöveg.
+[^16]: Az 1. mellékletben foglalt táblázat 10. sora a 7/2025. (IV. 10.) AM rendelet 75. §-ával megállapított szöveg.
