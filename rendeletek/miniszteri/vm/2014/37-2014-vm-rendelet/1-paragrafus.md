@@ -4,8 +4,12 @@
 
 1. fémzárolt vetőmag: a növényfajták állami elismeréséről, valamint a szaporítóanyagok előállításáról és forgalomba hozataláról szóló törvény szerint fémzárolt fűszerpaprika vetőmag,
 
-2. mezőgazdasági csekély összegű (de minimis) támogatás: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet szerinti támogatás,
+2.[^1] mezőgazdasági csekély összegű (de minimis) támogatás: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet (a továbbiakban: 1408/2013/EU bizottsági rendelet) szerinti támogatás,
 
-3.[^1] támogatási időszak: a tárgyévet megelőző év október 20-a és a tárgyév április 30-a közötti időszak.
+3.[^2] támogatási időszak: a tárgyévet megelőző év október 20-a és a tárgyév április 30-a közötti időszak.
 
-[^1]: Az 1. § 3. pontja a 40/2015. (VII. 13.) FM rendelet 6. § (2) bekezdés a) pontja szerint módosított szöveg.
+4.[^3] egy és ugyanazon vállalkozás: az 1408/2013/EU bizottsági rendelet 2. cikk 2. pontja szerinti vállalkozás.
+
+[^1]: Az 1. § 2. pontja a 7/2025. (IV. 10.) AM rendelet 23. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § 3. pontja a 40/2015. (VII. 13.) FM rendelet 6. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^3]: Az 1. § 4. pontját a 7/2025. (IV. 10.) AM rendelet 20. §-a iktatta be.
