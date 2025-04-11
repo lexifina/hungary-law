@@ -1,0 +1,3 @@
+7/F. §[^31] E rendeletnek az egyes agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 7/2025. (IV. 10.) AM rendelettel [a továbbiakban: 7/2025. (IV. 10.) AM rendelet] megállapított 2. § (4), valamint (6) és (7) bekezdését a 2025. január 15. és február 15. között benyújtott kérelmek alapján indult eljárásokban is alkalmazni kell.
+
+[^31]: A 7/F. §-t a 7/2025. (IV. 10.) AM rendelet 26. §-a iktatta be.
