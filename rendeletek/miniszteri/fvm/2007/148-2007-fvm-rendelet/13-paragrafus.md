@@ -1,6 +1,6 @@
-## 12. §[^98] Az 1. számú mellékletnek az egyes agrártárgyú miniszteri rendeletek módosításáról szóló 23/2015. (V. 13.) FM rendelettel [a továbbiakban: 23/2015. (V. 13.) FM rendelet] megállapított rendelkezéseit a 23/2015. (V. 13.) FM rendelet hatálybalépésekor[^99] folyamatban lévő ügyekben is alkalmazni kell.
+## 12. §[^101] Az 1. számú mellékletnek az egyes agrártárgyú miniszteri rendeletek módosításáról szóló 23/2015. (V. 13.) FM rendelettel [a továbbiakban: 23/2015. (V. 13.) FM rendelet] megállapított rendelkezéseit a 23/2015. (V. 13.) FM rendelet hatálybalépésekor[^102] folyamatban lévő ügyekben is alkalmazni kell.
 
-## 13. §[^100] E rendeletnek a földművelésügyi miniszter feladat- és hatáskörébe tartozó egyes rendeletek módosításáról szóló 40/2015. (VII. 13.) FM rendelettel [a továbbiakban: 40/2015. (VII. 13.) FM rendelet] megállapított
+## 13. §[^103] E rendeletnek a földművelésügyi miniszter feladat- és hatáskörébe tartozó egyes rendeletek módosításáról szóló 40/2015. (VII. 13.) FM rendelettel [a továbbiakban: 40/2015. (VII. 13.) FM rendelet] megállapított
 
 a) 3/A. §-át a 2015. május 1-jét követően elvégzett szolgáltatásokra,
 
@@ -8,6 +8,6 @@ b) 2. § d)–f) pontját, 3. § (1) bekezdését, 3. § (6) bekezdését, 6. §
 
 kell alkalmazni.
 
-[^98]: A 12. §-t a 23/2015. (V. 13.) FM rendelet 5. § (3) bekezdése iktatta be.
-[^99]: A hatálybalépés időpontja 2015. május 14.
-[^100]: A 13. §-t a 40/2015. (VII. 13.) FM rendelet 2. § (9) bekezdése iktatta be.
+[^101]: A 12. §-t a 23/2015. (V. 13.) FM rendelet 5. § (3) bekezdése iktatta be.
+[^102]: A hatálybalépés időpontja 2015. május 14.
+[^103]: A 13. §-t a 40/2015. (VII. 13.) FM rendelet 2. § (9) bekezdése iktatta be.

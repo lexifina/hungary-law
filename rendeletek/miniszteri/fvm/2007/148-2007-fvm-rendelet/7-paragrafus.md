@@ -22,6 +22,12 @@
 
 (2h)[^86] A (2f) és (2g) bekezdés szerinti keretösszegek terhére a 2024. évben elvégzett szolgáltatásokra benyújtott támogatási kérelmekben foglalt jogos igények teljesíthetőek.
 
+(2i)[^87] A 2025. évben rendelkezésre álló keret összege 12 100 millió forint, amelyből 2400 millió forintot a baromfiágazatban, 8300 millió forintot az egyéb állattenyésztési ágazatban, 1400 millió forintot a vemhes üszők állat-egészségügyi szolgáltatására, gyógykezelésére és immunizálására kell felhasználni, azzal, hogy a C001 technikai kódú állat-egészségügyi szolgáltatások vonatkozásában legfeljebb 5500 millió forint fizethető ki. A C001 technikai kódú állat-egészségügyi szolgáltatásokra rendelkezésre álló támogatási keret kimerülése esetén a baromfi-, az egyéb állattenyésztési ágazatra vagy a vemhes üszőkre megállapított szabad támogatási keret terhére támogatási összeg nem csoportosítható át. Ha a baromfiágazatban vagy az egyéb állattenyésztési ágazatban megállapított támogatás mértéke meghaladja az adott ágazatra a 2025. évben rendelkezésre álló keretből felhasználható összeget, akkor a 2025. évben elvégzett szolgáltatásokra vonatkozóan benyújtott támogatási kérelmekben foglalt jogos igények az e bekezdésben meghatározott más ágazatokban felhasználható keretek terhére is teljesíthetőek.
+
+(2j)[^88] A (2i) bekezdésben foglaltakon túl a C002 technikai kódú állat-egészségügyi szolgáltatások vonatkozásában legfeljebb 400 millió forint használható fel.
+
+(2k)[^89] A (2i) és (2j) bekezdés szerinti keretösszegek terhére a 2025. évben elvégzett szolgáltatásokra benyújtott támogatási kérelmekben foglalt jogos igények teljesíthetőek.
+
 (3) Az adott évre meghatározott keretek 50%-os kihasználtságáról és minden további 10%-os mértékű felhasználásáról a Kincstár köteles a minisztert és a NÉBIH elnökét is tájékoztatni. A miniszter a keretek várható kimerüléséről közleményt ad ki.
 
 [^76]: A 6/C. §-t a 23/2011. (III. 28.) VM rendelet 7. §-a iktatta be, szövege a 78/2016. (XII. 12.) FM rendelet 8. § j) pontja, a 6/2017. (II. 13.) FM rendelet 8. § f) pontja szerint módosított szöveg.
@@ -35,3 +41,6 @@
 [^84]: A 7. § (2f) bekezdését a 11/2024. (III. 25.) AM rendelet 1. §-a iktatta be, szövege a 60/2024. (XII. 20.) AM rendelet 6. §-a szerint módosított szöveg.
 [^85]: A 7. § (2g) bekezdését a 11/2024. (III. 25.) AM rendelet 1. §-a iktatta be, szövege az 51/2024. (X. 9.) AM rendelet 9. §-a szerint módosított szöveg.
 [^86]: A 7. § (2h) bekezdését a 11/2024. (III. 25.) AM rendelet 1. §-a iktatta be.
+[^87]: A 7. § (2i) bekezdését a 7/2025. (IV. 10.) AM rendelet 1. §-a iktatta be.
+[^88]: A 7. § (2j) bekezdését a 7/2025. (IV. 10.) AM rendelet 1. §-a iktatta be.
+[^89]: A 7. § (2k) bekezdését a 7/2025. (IV. 10.) AM rendelet 1. §-a iktatta be.

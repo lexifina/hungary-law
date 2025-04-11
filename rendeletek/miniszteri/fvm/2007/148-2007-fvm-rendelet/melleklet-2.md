@@ -4,13 +4,13 @@
 
 | 2. | A001 | Szarvasmarha- tuberkulózis | szarvasmarhafélék, szarvasfélék | Allergiás bőrpróba: Gazdaságonkénti első egyed: 2730 Ft 2–5. egyed: 1820 Ft minden további egyed: 730 Ft |
 
-| 3. | A002 | Szarvasmarha- brucellózis | szarvasmarhafélék | Mintavétel: Gazdaságonkénti első egyed: 2730 Ft 2–5. egyed: 1820 Ft minden további egyed: 730 Ft Laboratóriumi diagnosztikai vizsgálat: 1000 Ft |
+| 3.[^127] | A002 | Szarvasmarha- brucellózis | szarvasmarhafélék | Mintavétel: Gazdaságonkénti első egyed: 2730 Ft 2–5. egyed: 1820 Ft minden további egyed: 730 Ft Laboratóriumi diagnosztikai vizsgálat: 1100 Ft |
 
-| 4. | A003 | Enzootiás szarvasmarha- leukózis | szarvasmarhafélék | Laboratóriumi diagnosztikai vizsgálat: 1000 Ft |
+| 4.[^128] | A003 | Enzootiás szarvasmarha- leukózis | szarvasmarhafélék | Laboratóriumi diagnosztikai vizsgálat: 1100 Ft |
 
-| 5. | A004 | Juh/Kecske Brucellózis (Brucella melitensis) | juh, kecske | Mintavétel: Gazdaságonkénti első egyed: 2730 Ft 2–5. egyed: 1820 Ft minden további egyed: 730 Ft Laboratóriumi diagnosztikai vizsgálat: 1000 Ft |
+| 5.[^129] | A004 | Juh/kecske brucellózis (Brucella melitensis) | juh, kecske | Mintavétel: Gazdaságonkénti első egyed: 2730 Ft 2–5. egyed: 1820 Ft minden további egyed: 730 Ft Laboratóriumi diagnosztikai vizsgálat: 1100 Ft |
 
-| 6. | A005 | Aujeszky- betegség | sertés, vaddisznó | Laboratóriumi diagnosztikai vizsgálat: ELISA, VN: 1260 Ft, PCR: 5500 Ft |
+| 6.[^130] | A005 | Aujeszky- betegség | sertés, vaddisznó | Laboratóriumi diagnosztikai vizsgálat: ELISA, VN: 1800 Ft, PCR: 5500 Ft |
 
 | 7. | B003 | Salmonella pullorum | házityúk | Laboratóriumi diagnosztikai vizsgálat: 500 Ft |
 
@@ -18,17 +18,17 @@
 
 | 9. | B005 | Afrikai sertéspestis | sertés, vaddisznó | Mintavétel: Gazdaságonkénti első egyed: 2730 Ft 2–5. egyed: 1820 Ft minden további egyed: 730 Ft Laboratóriumi diagnosztikai vizsgálat: 9800 Ft |
 
-| 10. | A007 | Madárinfluenza | valamennyi madárfaj | Mintavétel: Gazdaságonkénti első egyed: 2730 Ft 2–100. egyed: 182 Ft minden további egyed: 36 Ft Laboratóriumi diagnosztikai vizsgálat: HAG próba: 840 Ft, RT PCR: 5500 Ft |
+| 10.[^131] | A007 | Madárinfluenza | valamennyi madárfaj | Mintavétel: Gazdaságonkénti első egyed: 2730 Ft 2–100. egyed: 182 Ft minden további egyed: 36 Ft Laboratóriumi diagnosztikai vizsgálat: HAG próba: 1100 Ft, RT PCR: 7300 Ft |
 
-| 11. | B007 | Kéknyelv betegség | szarvasmarhafélék, juh, kecske | Mintavétel: Gazdaságonkénti első egyed: 2730 Ft 2–5. egyed: 1820 Ft minden további egyed: 730 Ft Laboratóriumi diagnosztikai vizsgálat: ELISA: 1260 Ft, PCR: 5500 Ft |
+| 11.[^132] | B007 | Kéknyelv betegség | szarvasmarhafélék, juh, kecske | Mintavétel: Gazdaságonkénti első egyed: 2730 Ft 2–5. egyed: 1820 Ft minden további egyed: 730 Ft Laboratóriumi diagnosztikai vizsgálat: ELISA: 1800 Ft, PCR: 7100 Ft |
 
-| 12. | A008 | Szarvasmarhák szivacsos agyvelőbántalma vagy súrlókór | szarvasmarha, juh, kecske, muflon | Mintavétel: 4550 Ft Laboratóriumi diagnosztikai vizsgálat: Prion ELISA: 5600 Ft Genotipizálás költsége: legfeljebb 7500 Ft/minta[^122] |
+| 12. | A008 | Szarvasmarhák szivacsos agyvelőbántalma vagy súrlókór | szarvasmarha, juh, kecske, muflon | Mintavétel: 4550 Ft Laboratóriumi diagnosztikai vizsgálat: Prion ELISA: 5600 Ft Genotipizálás költsége: legfeljebb 7500 Ft/minta[^133] |
 
 | 13. | B009 | Campylobacteriosis | valamennyi baromfi faj | Laboratóriumi diagnosztikai vizsgálat: 7000 Ft |
 
-| 14. | A009 | Szalmonellózis | valamennyi baromfifaj | Immunizálás: 30 Ft/egyed/alkalom Mintavétel: 9100 Ft/légtér/alkalom Laboratóriumi diagnosztikai vizsgálat (maximum: 21 000 Ft/légtér/alkalom): Salmonella kimutatása: 6300 Ft/vizsgálat* Salmonella szerotipizálása: 7700 Ft/db Broiler állományból izolált Salmonella törzs szerocsoport szűrővizsgálata: 3500 Ft/db H antigén meghatározása: 4900 Ft/db Törzs vakcina eredetének vizsgálata: 3500 Ft/db |
+| 14.[^134] | A009 | Szalmonellózis | valamennyi baromfifaj | Immunizálás: 30 Ft/egyed/alkalom Mintavétel: 9100 Ft/légtér/alkalom Salmonella kimutatása: 6300 Ft/vizsgálat* Salmonella szerotipizálása: 14 200 Ft/db Broiler állományból izolált Salmonella törzs szerocsoport szűrővizsgálata: 3500 Ft/db Törzs vakcina eredetének vizsgálata: 3500 Ft/db |
 
-| 15. | A010 | Sertés brucellózis | sertés, vaddisznó | Laboratóriumi diagnosztikai vizsgálat: 1000 Ft |
+| 15.[^135] | A010 | Sertés brucellózis | sertés, vaddisznó | Laboratóriumi diagnosztikai vizsgálat: 1100 Ft |
 
 | 16. | A011 | PRRS | sertés, vaddisznó | Mintavétel: Gazdaságonkénti első egyed: 2730 Ft 2–5. egyed: 1820 Ft minden további egyed: 730 Ft Laboratóriumi diagnosztikai vizsgálat: Elisa: 1820 Ft, PCR: 5500 Ft |
 
@@ -56,7 +56,7 @@
 
 | 28. | C002 | Kapcsolódó antimikrobiális rezisztencia egyedi vizsgálata és telepi rezisztencia vizsgálat végzése | kis létszámú állattartó telepen tartott élelmiszertermelő állat | Mintavétel: Gazdaságonkénti első egyed: 1500 Ft Minden további egyed, környezeti mintavétel: 100 Ft Laboratóriumi diagnosztikai vizsgálat: Bakteriológiai vizsgálat: 3500 Ft Rezisztencia vizsgálat baktériumtörzsenként: Korongdiffúzió: 2000 Ft MIC (minimális gátló koncentráció) vizsgálat: 10 000 Ft |
 
-## * Egy vizsgálatnak 1 minta vagy gyűjtőminta vizsgálata számít. Ahány szalmonelladúsítás történik, annyiszor 6300 Ft számolható el a szalmonella kimutatására (napos állatokból 5 állat vizsgálata = 1 minta = 6300 Ft).
+## * Egy vizsgálatnak 1 minta vagy gyűjtőminta vizsgálata számít. Ahány szalmonelladúsítás történik, annyiszor 6300 Ft számolható el a szalmonella kimutatására (napos állatokból 10 állat vizsgálata 3 poolban történik, erre 3 × 6300 Ft támogatási összeg számolható el).[^136]
 
 ## ** Állategység:
 
@@ -68,7 +68,7 @@
 
 ## 4. Házinyúl esetében az átlagos állatsűrűség megállapításának szabályairól szóló 57/2014. (IV. 30.) VM rendelet 1. melléklete alapján 0,002 ÁE.
 
-2. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^123]
+2. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^137]
 
 Jóváhagyási kérelem adattartalma
 
@@ -80,7 +80,7 @@ Jóváhagyási kérelem adattartalma
 
 1.3. adóazonosító jel,
 
-1.4.[^124] őstermelői nyilvántartásban szereplő FELIR azonosítója,
+1.4.[^138] őstermelői nyilvántartásban szereplő FELIR azonosítója,
 
 1.5. felelős vezető neve és telefonszáma,
 
@@ -120,38 +120,47 @@ Jóváhagyási kérelem adattartalma
 
 4.2. arról, hogy a kérelmezőnek lejárt köztartozása nem áll fenn;
 
-4.3.[^125] arról, hogy valamennyi állat-egészségügyi és nyilvántartásba vételi, nyilvántartás vezetési, továbbá adatszolgáltatási kötelezettségnek eleget tett;
+4.3.[^139] arról, hogy valamennyi állat-egészségügyi és nyilvántartásba vételi, nyilvántartás vezetési, továbbá adatszolgáltatási kötelezettségnek eleget tett;
 
-4.4.[^126] arról, hogy a mentesítési programok esetében az állatállományára a vármegyei kormányhivatal által jóváhagyott mentesítési programtól nem tér el;
+4.4.[^140] arról, hogy a mentesítési programok esetében az állatállományára a vármegyei kormányhivatal által jóváhagyott mentesítési programtól nem tér el;
 
 4.5. arról, hogy az állat-egészségügyi szolgáltatást az arra engedéllyel, illetve akkreditációval, valamint ügyfél-azonosítóval rendelkező személlyel, szervvel, illetve intézménnyel végezteti el;
 
 4.6. arról, hogy az állat-egészségügyi szaktanácsadási tevékenységre vonatkozó támogatás igényelése esetén rendelkezik az állatállomány állat-egészségügyi ellátására vonatkozó írásbeli szerződéssel.
 
-4.7.[^127] arról, hogy a kérelmezővel szemben nincs érvényben valamely támogatás visszafizetésére kötelező olyan európai bizottsági határozat, amely a kérelmező támogatásban részesítését jogellenesnek és a belső piaccal összeegyeztethetetlennek nyilvánította;
+4.7.[^141] arról, hogy a kérelmezővel szemben nincs érvényben valamely támogatás visszafizetésére kötelező olyan európai bizottsági határozat, amely a kérelmező támogatásban részesítését jogellenesnek és a belső piaccal összeegyeztethetetlennek nyilvánította;
 
-4.8.[^128] arról, hogy a támogatást olyan állatokra veszi igénybe, amelyeket olyan létesítményben tart, amely nem kizárólag az (EU) 2016/429 európai parlamenti és tanácsi rendelet 4. cikk 49. pontja szerinti összegyűjtést végez;
+4.8.[^142] arról, hogy a támogatást olyan állatokra veszi igénybe, amelyeket olyan létesítményben tart, amely nem kizárólag az (EU) 2016/429 európai parlamenti és tanácsi rendelet 4. cikk 49. pontja szerinti összegyűjtést végez;
 
-4.9.[^129] arról, hogy ha a 3. pont 3. és 4. alpontjában a D002 technikai kódú betegség került megjelölésre, akkor
+4.9.[^143] arról, hogy ha a 3. pont 3. és 4. alpontjában a D002 technikai kódú betegség került megjelölésre, akkor
 
 a) a kérelmező a halászati és akvakultúra-termékek piacának közös szervezéséről, az 1184/2006/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint a 104/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 11-ei 1379/2013/EU európai parlamenti és tanácsi rendelet 5. cikk b) pontja szerinti terméket előállító vállalkozásnak minősül, és
 
 b) a kérelmező az állategészségügyi szolgáltatást nem genetikailag módosított szervezetek tartására végezteti el.
 
-5.[^130] Kötelezettségvállalás arra vonatkozóan, hogy a támogatási keret kimerülése esetén, valamint a jogosultsági feltételek bármelyikének hiánya esetén az elvégzett állat-egészségügyi szolgáltatás számla szerinti teljes összegét, illetve a jogosulatlanul igénybe vett szolgáltatás kamattal terhelt támogatástartalmának összegét a Kincstár erre vonatkozó határozata alapján a szolgáltatást nyújtó engedélyes részére megfizeti.
+5.[^144] Kötelezettségvállalás arra vonatkozóan, hogy a támogatási keret kimerülése esetén, valamint a jogosultsági feltételek bármelyikének hiánya esetén az elvégzett állat-egészségügyi szolgáltatás számla szerinti teljes összegét, illetve a jogosulatlanul igénybe vett szolgáltatás kamattal terhelt támogatástartalmának összegét a Kincstár erre vonatkozó határozata alapján a szolgáltatást nyújtó engedélyes részére megfizeti.
 
-6.[^131] Keltezés, az ügyfél aláírása
+6.[^145] Keltezés, az ügyfél aláírása
 
-7.[^132]
+7.[^146]
 
-[^122]: Az 1. számú mellékletben foglalt táblázat D:12 mezője a 60/2024. (XII. 20.) AM rendelet 5. §-ával megállapított szöveg.
-[^123]: A 2. számú melléklet a 40/2015. (VII. 13.) FM rendelet 2. § (10) bekezdés b) pontjável megállapított szöveg.
-[^124]: A 2. számú melléklet 1.4. pontja a 28/2021. (VIII. 18.) AM rendelet 7. §-a szerint módosított szöveg.
-[^125]: A 2. számú melléklet 4. pont 4.3. alpontja a 30/2018. (X. 11.) AM rendelet 2. § d) pontja szerint módosított szöveg.
-[^126]: A 2. számú melléklet 4.4. pontja a 13/2017. (III. 17.) FM rendelet 2. § c) pontja, a 159/2022. (XII. 27.) AM rendelet 8. § d) pontja szerint módosított szöveg.
-[^127]: A 2. melléklet 4. pont 4.7. alpontját a 4/2016. (I. 20.) FM rendelet 7. § (2) bekezdése iktatta be.
-[^128]: A 2. melléklet 4. pont 4.8. alpontját újonnan a 159/2022. (XII. 27.) AM rendelet 7. § (2) bekezdése iktatta be, szövege a 30/2023. (VII. 14.) AM rendelet 7. §-ával megállapított szöveg.
-[^129]: A 2. melléklet 4. pont 4.9. alpontját a 4/2016. (I. 20.) FM rendelet 7. § (2) bekezdése iktatta be, nyitó szövegrésze a 30/2023. (VII. 14.) AM rendelet 8. § e) pontja szerint módosított szöveg.
-[^130]: A 2. számú melléklet 5. pontja a 78/2016. (XII. 12.) FM rendelet 8. § i) pontja szerint módosított szöveg.
-[^131]: A 2. számú melléklet 6. pontja a 30/2018. (X. 11.) AM rendelet 2. § e) pontja szerint módosított szöveg.
-[^132]: A 2. számú melléklet 7. pontját a 30/2018. (X. 11.) AM rendelet 3. § b) pontja hatályon kívül helyezte.
+[^127]: Az 1. számú mellékletben foglalt táblázat 3. sora a 7/2025. (IV. 10.) AM rendelet 3. §-ával megállapított szöveg.
+[^128]: Az 1. számú mellékletben foglalt táblázat 4. sora a 7/2025. (IV. 10.) AM rendelet 3. §-ával megállapított szöveg.
+[^129]: Az 1. számú mellékletben foglalt táblázat 5. sora a 7/2025. (IV. 10.) AM rendelet 3. §-ával megállapított szöveg.
+[^130]: Az 1. számú mellékletben foglalt táblázat 6. sora a 7/2025. (IV. 10.) AM rendelet 3. §-ával megállapított szöveg.
+[^131]: Az 1. számú mellékletben foglalt táblázat 10. sora a 7/2025. (IV. 10.) AM rendelet 3. §-ával megállapított szöveg.
+[^132]: Az 1. számú mellékletben foglalt táblázat 11. sora a 7/2025. (IV. 10.) AM rendelet 3. §-ával megállapított szöveg.
+[^133]: Az 1. számú mellékletben foglalt táblázat D:12 mezője a 60/2024. (XII. 20.) AM rendelet 5. §-ával megállapított szöveg.
+[^134]: Az 1. számú mellékletben foglalt táblázat 14. sora a 7/2025. (IV. 10.) AM rendelet 3. §-ával megállapított szöveg.
+[^135]: Az 1. számú mellékletben foglalt táblázat 15. sora a 7/2025. (IV. 10.) AM rendelet 3. §-ával megállapított szöveg.
+[^136]: Az 1. számú melléklet végjegyzetének szövege a 7/2025. (IV. 10.) AM rendelet 3. §-a szerint módosított szöveg.
+[^137]: A 2. számú melléklet a 40/2015. (VII. 13.) FM rendelet 2. § (10) bekezdés b) pontjável megállapított szöveg.
+[^138]: A 2. számú melléklet 1.4. pontja a 28/2021. (VIII. 18.) AM rendelet 7. §-a szerint módosított szöveg.
+[^139]: A 2. számú melléklet 4. pont 4.3. alpontja a 30/2018. (X. 11.) AM rendelet 2. § d) pontja szerint módosított szöveg.
+[^140]: A 2. számú melléklet 4.4. pontja a 13/2017. (III. 17.) FM rendelet 2. § c) pontja, a 159/2022. (XII. 27.) AM rendelet 8. § d) pontja szerint módosított szöveg.
+[^141]: A 2. melléklet 4. pont 4.7. alpontját a 4/2016. (I. 20.) FM rendelet 7. § (2) bekezdése iktatta be.
+[^142]: A 2. melléklet 4. pont 4.8. alpontját újonnan a 159/2022. (XII. 27.) AM rendelet 7. § (2) bekezdése iktatta be, szövege a 30/2023. (VII. 14.) AM rendelet 7. §-ával megállapított szöveg.
+[^143]: A 2. melléklet 4. pont 4.9. alpontját a 4/2016. (I. 20.) FM rendelet 7. § (2) bekezdése iktatta be, nyitó szövegrésze a 30/2023. (VII. 14.) AM rendelet 8. § e) pontja szerint módosított szöveg.
+[^144]: A 2. számú melléklet 5. pontja a 78/2016. (XII. 12.) FM rendelet 8. § i) pontja szerint módosított szöveg.
+[^145]: A 2. számú melléklet 6. pontja a 30/2018. (X. 11.) AM rendelet 2. § e) pontja szerint módosított szöveg.
+[^146]: A 2. számú melléklet 7. pontját a 30/2018. (X. 11.) AM rendelet 3. § b) pontja hatályon kívül helyezte.

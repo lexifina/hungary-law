@@ -32,7 +32,7 @@ d) vemhes üsző vonatkozásában a 7. számú melléklet szerinti adattartalmú
 
 (5)[^60] Külön támogatási kérelmen kell benyújtani a C001 technikai kóddal jelölt kapcsolódó állat-egészségügyi szolgáltatás és a C002 technikai kóddal jelölt antimikrobiális rezisztencia vizsgálat költségeinek elszámolását, amelyhez csatolni kell a vizsgálat elvégzéséről kiállított számlát is.
 
-(5a)[^61] Az A008 technikai kóddal jelölt súrlókór genotipizálás költségeit tartalmazó számlát a Magyar Juh- és Kecsketenyésztők Szövetsége nyújtja be a kedvezményezett telephelye szerint illetékes vármegyei kormányhivatalhoz.
+(5a)[^61] Az A008 technikai kóddal jelölt súrlókór genotipizálás költségeit tartalmazó számla másolatát a Magyar Juh- és Kecsketenyésztők Szövetsége nyújtja be az (1) bekezdésben meghatározottak szerint a kedvezményezett telephelye szerint illetékes vármegyei kormányhivatalhoz.
 
 (6)[^62] A vármegyei kormányhivatal megállapítja
 
@@ -80,7 +80,7 @@ b) az állattartó, valamint az akvakultúra-ágazati vállalkozás nem minősü
 [^58]: A 6. § (3c) bekezdését a 65/2016. (IX. 21.) FM rendelet 2. § (2) bekezdése iktatta be, szövege a 78/2016. (XII. 12.) FM rendelet 4. § (3) bekezdésével megállapított szöveg.
 [^59]: A 6. § (4) bekezdése a 24/2014. (XI. 6.) FM rendelet 4. § (2) bekezdésével megállapított, a 32/2014. (XII. 9.) FM rendelet 6. § b) pontja, a 78/2016. (XII. 12.) FM rendelet 8. § e) pontja szerint módosított szöveg.
 [^60]: A 6. § (5) bekezdését a 40/2015. (VII. 13.) FM rendelet 2. § (12) bekezdése hatályon kívül helyezte, újonnan a 159/2022. (XII. 27.) AM rendelet 4. § (1) bekezdése iktatta be.
-[^61]: A 6. § (5a) bekezdését a 60/2024. (XII. 20.) AM rendelet 2. §-a iktatta be.
+[^61]: A 6. § (5a) bekezdését a 60/2024. (XII. 20.) AM rendelet 2. §-a iktatta be, szövege a 7/2025. (IV. 10.) AM rendelet 4. § a) pontja szerint módosított szöveg.
 [^62]: A 6. § (6) bekezdése a 40/2015. (VII. 13.) FM rendelet 2. § (5) bekezdésével megállapított, nyitó szövegrésze a 13/2017. (III. 17.) FM rendelet 2. § b) pontja, a 159/2022. (XII. 27.) AM rendelet 8. § d) pontja szerint módosított szöveg.
 [^63]: A 6. § (6) bekezdés a) pontja a 78/2016. (XII. 12.) FM rendelet 8. § h) pontja, a 159/2022. (XII. 27.) AM rendelet 8. § e) pontja szerint módosított szöveg.
 [^64]: A 6. § (6a) bekezdését a 24/2014. (XI. 6.) FM rendelet 4. § (3) bekezdése iktatta be, szövege a 40/2015. (VII. 13.) FM rendelet 2. § (5) bekezdésével megállapított, a 13/2017. (III. 17.) FM rendelet 2. § b) pontja, a 159/2022. (XII. 27.) AM rendelet 8. § c) pontja szerint módosított szöveg.
