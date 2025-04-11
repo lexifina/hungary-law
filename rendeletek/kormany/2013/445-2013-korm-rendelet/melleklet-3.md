@@ -1,4 +1,4 @@
-3. melléklet a 445/2013. (XI. 28.) Korm. rendelethez[^184]
+3. melléklet a 445/2013. (XI. 28.) Korm. rendelethez[^187]
 
 Kérelem előzetes csoportos munkavállalási jóváhagyás iránt
 
@@ -90,4 +90,4 @@ Dátum: ………………………………………
 
 a foglalkoztató cégszerű aláírása
 
-[^184]: A 3. mellékletet a 35/2024. (II. 29.) Korm. rendelet 310. § (2) bekezdése iktatta be.
+[^187]: A 3. mellékletet a 35/2024. (II. 29.) Korm. rendelet 310. § (2) bekezdése iktatta be.

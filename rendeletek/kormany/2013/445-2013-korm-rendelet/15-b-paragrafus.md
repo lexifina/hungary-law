@@ -38,12 +38,13 @@ b) a munkavállalási jóváhagyás iránti kérelem elbírálásának ügyinté
 
 (8) A munkavállalási jóváhagyással rendelkező beruházó, a fővállalkozója, alvállalkozója a munkavállalási jóváhagyás nyilvántartásba vételéről rendelkező határozat számát köteles a harmadik országbeli állampolgárok foglalkoztatásával kapcsolatos okirataiban feltüntetni.
 
-(9) A beruházás megvalósításának 15/A. § (4) bekezdése szerinti időtartama alatt a beruházó kérheti a jóváhagyásban szereplő fővállalkozó vagy alvállalkozó változása miatt a jóváhagyás módosítását. A módosításról a miniszter 15 napon belül dönt, döntéséről 5 napon belül tájékoztatja az Országos Idegenrendészeti Főigazgatóságot, és a változást a munkavállalási jóváhagyásról vezetett nyilvántartáson átvezeti.
+(9)[^112] A beruházás megvalósításának 15/A. § (4) bekezdése szerinti időtartama alatt a beruházó kérheti a munkavállalási jóváhagyásban szereplő fővállalkozó vagy alvállalkozó cseréje, alvállalkozók számának változása, továbbá a 15/A. § (3) bekezdés c) és d) pontja szerinti beruházói nyilatkozatban foglaltaktól történő eltérés igénye, továbbá a beruházás megvalósítása időtartamának a beruházás megvalósításának kezdőidőpontjától legfeljebb három évre történő meghosszabbítása miatt a jóváhagyás módosítását. A módosításról a harmadik országbeli állampolgárok magyarországi foglalkoztatásáért felelős miniszter 15 napon belül dönt, aki a döntést megelőzően megvizsgálja a 15/A. § (3) bekezdés e) pontja szerinti nyilatkozat tartalmát. A harmadik országbeli állampolgárok magyarországi foglalkoztatásáért felelős miniszter a döntéséről 5 napon belül tájékoztatja az Országos Idegenrendészeti Főigazgatóságot, és a változást a munkavállalási jóváhagyásról vezetett nyilvántartáson átvezeti.
 
-(10)[^112] A munkavállalási jóváhagyással rendelkező beruházó, annak fővállalkozója, alvállalkozója a harmadik országbeli állampolgárok magyarországi foglalkoztatásáért felelős miniszter részére, minden tárgyévet követő év január 15. napjáig adatot szolgáltat a munkavállalási jóváhagyás alapján, a tárgyévben foglalkoztatott harmadik országbeli állampolgárok ténylegesen foglalkoztatott létszámáról a FEOR alcsoportok (3. szint) szerinti bontásban.
+(10)[^113] A munkavállalási jóváhagyással rendelkező beruházó, annak fővállalkozója, alvállalkozója a harmadik országbeli állampolgárok magyarországi foglalkoztatásáért felelős miniszter részére, minden tárgyévet követő év január 15. napjáig adatot szolgáltat a munkavállalási jóváhagyás alapján, a tárgyévben foglalkoztatott harmadik országbeli állampolgárok ténylegesen foglalkoztatott létszámáról a FEOR alcsoportok (3. szint) szerinti bontásban.
 
-(11)[^113] A munkavállalási jóváhagyásban foglalt időtartam alatt a foglalkoztató köteles a kormányhivatallal együttműködni a kiközvetíthető álláskeresők elhelyezkedése érdekében.
+(11)[^114] A munkavállalási jóváhagyásban foglalt időtartam alatt a foglalkoztató köteles a kormányhivatallal együttműködni a kiközvetíthető álláskeresők elhelyezkedése érdekében.
 
 [^111]: A 15/B. § (6) bekezdés d) pontját a 297/2024. (X. 14.) Korm. rendelet 5. § (1) bekezdése iktatta be.
-[^112]: A 15/B. § (10) bekezdését a 297/2024. (X. 14.) Korm. rendelet 5. § (2) bekezdése iktatta be.
-[^113]: A 15/B. § (11) bekezdését a 297/2024. (X. 14.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^112]: A 15/B. § (9) bekezdése a 73/2025. (IV. 10.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^113]: A 15/B. § (10) bekezdését a 297/2024. (X. 14.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^114]: A 15/B. § (11) bekezdését a 297/2024. (X. 14.) Korm. rendelet 5. § (2) bekezdése iktatta be.
