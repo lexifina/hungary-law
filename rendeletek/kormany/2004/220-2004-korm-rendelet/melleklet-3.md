@@ -18,7 +18,7 @@
 
 | j) vagy felszíni vízbe, csapadékvízelvezető hálózatba engedély nélküli szennyvíz- (használtvíz) bevezetését a hatóság által előírt határidőre nem szünteti meg, illetve a 12. § (5) bekezdés szerinti tilalmat megszegi és közcsatornába hulladékot (így különösen: élelmiszer hulladékot) bocsát | 200 000 Ft/eset |
 
-3. számú melléklet a 220/2004. (VII. 21.) Korm. rendelethez[^211]
+3. számú melléklet a 220/2004. (VII. 21.) Korm. rendelethez[^212]
 
 A szennyvízkibocsátás engedélyezéséhez benyújtandó engedélykérelmi dokumentáció tartalmi követelményei
 
@@ -172,4 +172,4 @@ cb) a vízgyűjtőterületen működő, a környezetre veszélyt jelentő, nagyo
 
 cc) a vízgyűjtőterületen leeresztett nem közművel összegyűjtött háztartási szennyvíz mennyisége, minősége.
 
-[^211]: A 3. számú melléklet a 457/2017. (XII. 28.) Korm. rendelet 135. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^212]: A 3. számú melléklet a 457/2017. (XII. 28.) Korm. rendelet 135. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

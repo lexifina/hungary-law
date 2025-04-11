@@ -1,6 +1,6 @@
 ## Rendkívüli szennyezés
 
-36. § (1)[^126] Aki rendkívüli szennyezést okoz, rendkívüli vízszennyezési vagy csatornabírságot köteles fizetni.
+36. § (1)[^127] Aki rendkívüli szennyezést okoz, rendkívüli vízszennyezési vagy csatornabírságot köteles fizetni.
 
 (2) A rendkívüli vízszennyezési vagy csatornabírságot a szennyezés időszakára minden szennyező anyagra külön-külön, a szennyező anyagok teljes mennyiségére kell meghatározni.
 
@@ -8,17 +8,17 @@
 
 (4) A kiszabott bírság a 2. számú melléklet alapján megállapított bírságösszeg:
 
-a)[^127] ha a kibocsátó a rendkívüli szennyezés tényét a vízvédelmi hatóságnak, illetve a szolgáltatónak haladéktalanul bejelentette és a károk enyhítése érdekében tőle elvárható módon közreműködött;
+a)[^128] ha a kibocsátó a rendkívüli szennyezés tényét a vízvédelmi hatóságnak, illetve a szolgáltatónak haladéktalanul bejelentette és a károk enyhítése érdekében tőle elvárható módon közreműködött;
 
 b) kétszerese, ha a szennyezés tényét kívülálló észleli, majd a kibocsátó a károk enyhítésében közreműködik;
 
-c)[^128] háromszorosa, ha a kibocsátó a szennyezés tényét a vízvédelmi hatóságnak, illetve a szolgáltatónak haladéktalanul bejelentette, de a károk enyhítésében nem működött közre;
+c)[^129] háromszorosa, ha a kibocsátó a szennyezés tényét a vízvédelmi hatóságnak, illetve a szolgáltatónak haladéktalanul bejelentette, de a károk enyhítésében nem működött közre;
 
 d) ötszöröse, ha a kibocsátó a rendkívüli szennyezésre vonatkozó bejelentési és kárenyhítési kötelezettségének nem tett eleget.
 
-(5)[^129] A vízvédelmi hatóságnak előre bejelentett tervszerű karbantartási műveletből származó vízszennyezés miatt a határérték feletti kibocsátás után kell a vízszennyezési bírságot kiszabni.
+(5)[^130] A vízvédelmi hatóságnak előre bejelentett tervszerű karbantartási műveletből származó vízszennyezés miatt a határérték feletti kibocsátás után kell a vízszennyezési bírságot kiszabni.
 
-[^126]: Alkalmazására lásd a 19/2009. (XII. 22.) KvVM rendelet 1. § e) pontját.
-[^127]: A 36. § (4) bekezdés a) pontja az 527/2013. (XII. 30.) Korm. rendelet 27. § (5) bekezdése szerint módosított szöveg.
-[^128]: A 36. § (4) bekezdés c) pontja az 527/2013. (XII. 30.) Korm. rendelet 27. § (5) bekezdése szerint módosított szöveg.
-[^129]: A 36. § (5) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 27. § (5) bekezdése szerint módosított szöveg.
+[^127]: Alkalmazására lásd a 19/2009. (XII. 22.) KvVM rendelet 1. § e) pontját.
+[^128]: A 36. § (4) bekezdés a) pontja az 527/2013. (XII. 30.) Korm. rendelet 27. § (5) bekezdése szerint módosított szöveg.
+[^129]: A 36. § (4) bekezdés c) pontja az 527/2013. (XII. 30.) Korm. rendelet 27. § (5) bekezdése szerint módosított szöveg.
+[^130]: A 36. § (5) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 27. § (5) bekezdése szerint módosított szöveg.

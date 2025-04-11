@@ -1,3 +1,3 @@
-1. számú melléklet a 220/2004. (VII. 21.) Korm. rendelethez[^209]
+1. számú melléklet a 220/2004. (VII. 21.) Korm. rendelethez[^210]
 
-[^209]: Az 1. számú melléklet a 248/2015. (IX. 8.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^210]: Az 1. számú melléklet a 248/2015. (IX. 8.) Korm. rendelet 8. §-ával megállapított szöveg.

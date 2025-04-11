@@ -1,8 +1,8 @@
-## Beavatkozás[^171]
+## Beavatkozás[^172]
 
-39/D. §[^172] (1) A beavatkozási terv tartalmi követelményeit a 4. számú melléklet tartalmazza.
+39/D. §[^173] (1) A beavatkozási terv tartalmi követelményeit a 4. számú melléklet tartalmazza.
 
-(2)[^173] A vízvédelmi hatóság a 4. számú mellékletben meghatározottak figyelembevételével a beavatkozási terv alapján dönt az abban megjelölt lehetséges beavatkozás kiválasztásáról és végrehajtásának elrendeléséről.
+(2)[^174] A vízvédelmi hatóság a 4. számú mellékletben meghatározottak figyelembevételével a beavatkozási terv alapján dönt az abban megjelölt lehetséges beavatkozás kiválasztásáról és végrehajtásának elrendeléséről.
 
 (3) A beavatkozást elrendelő határozatnak tartalmaznia kell, a kötelezett által benyújtott beavatkozási tervből kiválasztott beavatkozásra alapozottan:
 
@@ -22,17 +22,17 @@ g) a beavatkozás időtartama alatt üzemelő kármentesítési monitoring kivit
 
 h) az ügy szempontjából fontos egyéb feladatok elrendelését (így például: a károsodott terület megjelölését figyelmeztető táblákkal).
 
-(4)[^174] A beavatkozási munkák megkezdését az azt megelőző tíz nappal be kell jelenteni a vízvédelmi hatóságnak, amely a munkálatokat ellenőrzi. A beavatkozási munkákat dokumentálni kell.
+(4)[^175] A beavatkozási munkák megkezdését az azt megelőző tíz nappal be kell jelenteni a vízvédelmi hatóságnak, amely a munkálatokat ellenőrzi. A beavatkozási munkákat dokumentálni kell.
 
-(5)[^175] A beavatkozás során észleltek alapján, a kötelezett kezdeményezésére indokolt esetben a vízvédelmi hatóság engedélyezi a beavatkozási terv módosítását.
+(5)[^176] A beavatkozás során észleltek alapján, a kötelezett kezdeményezésére indokolt esetben a vízvédelmi hatóság engedélyezi a beavatkozási terv módosítását.
 
-(6)[^176] A beavatkozás befejezését nyolc napon belül be kell jelenteni a vízvédelmi hatóságnak.
+(6)[^177] A beavatkozás befejezését nyolc napon belül be kell jelenteni a vízvédelmi hatóságnak.
 
 (7) A (6) bekezdés szerinti bejelentésnek tartalmaznia kell a beavatkozást elrendelő határozat számát, tárgyát, a munka befejezésének időpontját, valamint a hatósági ellenőrző mintavétel biztosításának módját.
 
-(8)[^177] A vízvédelmi hatóság ellenőrzésére a beavatkozási záródokumentáció elbírálásáig kerülhet sor.
+(8)[^178] A vízvédelmi hatóság ellenőrzésére a beavatkozási záródokumentáció elbírálásáig kerülhet sor.
 
-(9)[^178] A kötelezett a beavatkozási munkák befejezését követően a (10) bekezdés szerint összeállított beavatkozási záródokumentációt köteles benyújtani a vízvédelmi hatósághoz.
+(9)[^179] A kötelezett a beavatkozási munkák befejezését követően a (10) bekezdés szerint összeállított beavatkozási záródokumentációt köteles benyújtani a vízvédelmi hatósághoz.
 
 (10) A beavatkozási záródokumentáció tartalmazza:
 
@@ -46,7 +46,7 @@ d) a beavatkozás során működtetett monitoring bemutatását, továbbá a bea
 
 e) a Kvt. 56. §-ának (1) bekezdés c) pontja szerinti esetekben a beavatkozással felmerült költségek ismertetését.
 
-(11)[^179] A vízvédelmi hatóság a beavatkozási záródokumentáció kézhezvételét követően:
+(11)[^180] A vízvédelmi hatóság a beavatkozási záródokumentáció kézhezvételét követően:
 
 a) a beavatkozás elégtelensége esetén annak folytatásáról,
 
@@ -58,12 +58,12 @@ d) a kármentesítési monitoringról, illetve
 
 e) a kármentesítés befejezéséről.
 
-[^171]: A 39/D. §-t megelőző alcímet a 93/2007. (IV. 26.) Korm. rendelet 5. §-a iktatta be.
-[^172]: A 39/D. §-t a 93/2007. (IV. 26.) Korm. rendelet 5. §-a iktatta be. Alkalmazására lásd e módosító rendelet 8. §-át.
-[^173]: A 39/D. § (2) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
-[^174]: A 39/D. § (4) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (57) bekezdése, az 527/2013. (XII. 30.) Korm. rendelet 27. § (5) bekezdése szerint módosított szöveg.
-[^175]: A 39/D. § (5) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
-[^176]: A 39/D. § (6) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (57) bekezdése, az 527/2013. (XII. 30.) Korm. rendelet 27. § (5) bekezdése szerint módosított szöveg.
-[^177]: A 39/D. § (8) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
-[^178]: A 39/D. § (9) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 27. § (6) bekezdése szerint módosított szöveg.
-[^179]: A 39/D. § (11) bekezdés nyitó szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 361. §-a, az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése, a 441/2015. (XII. 28.) Korm. rendelet 56. §-a szerint módosított szöveg, ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^172]: A 39/D. §-t megelőző alcímet a 93/2007. (IV. 26.) Korm. rendelet 5. §-a iktatta be.
+[^173]: A 39/D. §-t a 93/2007. (IV. 26.) Korm. rendelet 5. §-a iktatta be. Alkalmazására lásd e módosító rendelet 8. §-át.
+[^174]: A 39/D. § (2) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^175]: A 39/D. § (4) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (57) bekezdése, az 527/2013. (XII. 30.) Korm. rendelet 27. § (5) bekezdése szerint módosított szöveg.
+[^176]: A 39/D. § (5) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^177]: A 39/D. § (6) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (57) bekezdése, az 527/2013. (XII. 30.) Korm. rendelet 27. § (5) bekezdése szerint módosított szöveg.
+[^178]: A 39/D. § (8) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^179]: A 39/D. § (9) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 27. § (6) bekezdése szerint módosított szöveg.
+[^180]: A 39/D. § (11) bekezdés nyitó szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 361. §-a, az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése, a 441/2015. (XII. 28.) Korm. rendelet 56. §-a szerint módosított szöveg, ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
